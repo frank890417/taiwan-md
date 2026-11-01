@@ -1,0 +1,237 @@
+---
+/**
+ * TimeBands.astro — 資料台灣「七十五年」總覽：幾條時間帶共用一條橫軸（報告 §10.7）。
+ *
+ * 每條帶是不同的量（人口、出生、每人 GDP…），單位不同，所以各自縮放縱軸——這跟
+ * small multiples 的共軸鐵律不衝突：那裡比的是同一個量，這裡比的是「同一段時間
+ * 發生了什麼」。為了誠實，每條帶都把起點、終點（與不在兩端的高點）的值直接寫在
+ * 線旁邊，讀者看得到自己在看的範圍（graph.md §三.5）。
+ *
+ * 版面是 HTML 格線＋每列一小段 SVG：標籤、數值、年份都是 DOM 文字（隨語言折行、
+ * AI 讀得到），SVG 只畫線（preserveAspectRatio="none" 拉滿寬度，線寬用
+ * non-scaling-stroke 保持 1.75px）。時代色帶與事件刻度用每列同一組百分比畫，
+ * 所以上下對齊。全部資料另有一張 tw-sr-only 資料表。
+ */
+export interface Band {
+  id: string;
+  label: string;
+  unit: string;
+  series: [number, number][];
+  /** 數值寫成人讀的樣子（含單位與否由呼叫端決定） */
+  fmt: (v: number) => string;
+  /** 縱軸從 0 起（量級型的帶，例如人口）；比率型的帶不必 */
+  zero?: boolean;
+}
+export interface Era {
+  from: number;
+  to: number;
+  label: string;
+}
+export interface Mark {
+  year: number;
+  label: string;
+}
+
+interface Props {
+  title: string;
+  bands: Band[];
+  eras?: Era[];
+  marks?: Mark[];
+  x0: number;
+  x1: number;
+  source: string;
+  sourceLabel: string;
+  yearLabel: string;
+  tableCaption: string;
+  marksLabel: string;
+}
+
+const {
+  title,
+  bands,
+  eras = [],
+  marks = [],
+  x0,
+  x1,
+  source,
+  sourceLabel,
+  yearLabel,
+  tableCaption,
+  marksLabel,
+} = Astro.props;
+
+const pct = (x: number) => ((x - x0) / (x1 - x0)) * 100;
+const p2 = (n: number) => +n.toFixed(2);
+
+// 每列的底：時代色帶（交替深淺）＋事件刻度（1px 線），全部用百分比
+const eraLayers = eras.map(
+  (e, i) =>
+    `linear-gradient(to right, transparent ${p2(pct(e.from))}%, var(--dh-tb-era-${i % 2 ? 'b' : 'a'}) ${p2(pct(e.from))}%, var(--dh-tb-era-${i % 2 ? 'b' : 'a'}) ${p2(pct(e.to))}%, transparent ${p2(pct(e.to))}%)`,
+);
+const markLayers = marks.map(
+  (m) =>
+    `linear-gradient(to right, transparent calc(${p2(pct(m.year))}% - 0.5px), var(--dh-tb-mark) calc(${p2(pct(m.year))}% - 0.5px), var(--dh-tb-mark) calc(${p2(pct(m.year))}% + 0.5px), transparent calc(${p2(pct(m.year))}% + 0.5px))`,
+);
+const rowBg = [...markLayers, ...eraLayers].join(', ');
+
+const H = 100;
+// 上緣留給數值標籤（標籤畫在點的上方），下緣留一點呼吸
+const PAD_T = 34;
+const PAD_B = 10;
+const rows = bands.map((b) => {
+  const pts = [...b.series].sort((a, c) => a[0] - c[0]);
+  const ys = pts.map((p) => p[1]);
+  let lo = b.zero ? Math.min(0, ...ys) : Math.min(...ys);
+  let hi = Math.max(...ys);
+  if (lo === hi) {
+    lo -= 1;
+    hi += 1;
+  }
+  const py = (v: number) =>
+    H - PAD_B - ((v - lo) / (hi - lo)) * (H - PAD_T - PAD_B);
+  const d = pts
+    .map(([x, y], i) => `${i ? 'L' : 'M'}${p2(pct(x) * 10)},${p2(py(y))}`)
+    .join('');
+  const first = pts[0];
+  const last = pts[pts.length - 1];
+  let peakI = 0;
+  ys.forEach((v, i) => {
+    if (v > ys[peakI]) peakI = i;
+  });
+  const peak = pts[peakI];
+  const labels = [
+    { cls: 'is-first', x: first[0], y: first[1] },
+    ...(peakI > 0 && peakI < pts.length - 1
+      ? [{ cls: 'is-peak', x: peak[0], y: peak[1] }]
+      : []),
+    { cls: 'is-last', x: last[0], y: last[1] },
+  ].map((l) => ({
+    ...l,
+    left: p2(pct(l.x)),
+    top: p2((py(l.y) / H) * 100),
+    text: `${b.fmt(l.y)}`,
+    year: l.x,
+  }));
+  // 高點離起點或終點太近時（例如人口 2019 到頂、2025 收尾），兩個標籤會疊在一起：
+  // 靠近高點的那個端點改寫在點的下方
+  for (let i = 1; i < labels.length; i++) {
+    if (Math.abs(labels[i].left - labels[i - 1].left) < 12) {
+      const end = labels[i].cls === 'is-last' ? labels[i] : labels[i - 1];
+      end.cls += ' is-below';
+    }
+  }
+  return { b, d, labels, pts };
+});
+
+// 資料表：所有帶出現過的年份聯集
+const years = [
+  ...new Set(bands.flatMap((b) => b.series.map((p) => p[0]))),
+].sort((a, b) => a - b);
+const tick = 10;
+const ticks: number[] = [];
+for (let y = Math.ceil(x0 / tick) * tick; y <= x1; y += tick) ticks.push(y);
+---
+
+<figure class="dh-tb" style={`--dh-tb-bg:${rowBg || 'none'}`}>
+  <figcaption class="dh-tb-title">{title}</figcaption>
+  <div class="dh-tb-grid" aria-hidden="true">
+    {
+      eras.length > 0 && (
+        <div class="dh-tb-row is-eras">
+          <div class="dh-tb-label" />
+          <div class="dh-tb-plot is-eras">
+            {eras.map((e) => (
+              <span
+                class="dh-tb-era"
+                style={`left:${p2(pct(e.from))}%;width:${p2(pct(e.to) - pct(e.from))}%`}
+              >
+                {e.label}
+              </span>
+            ))}
+          </div>
+        </div>
+      )
+    }
+    {
+      rows.map(({ b, d, labels }) => (
+        <div class="dh-tb-row">
+          <div class="dh-tb-label">
+            <b>{b.label}</b>
+            {b.unit && <span>{b.unit}</span>}
+          </div>
+          <div class="dh-tb-plot">
+            <svg viewBox={`0 0 1000 ${H}`} preserveAspectRatio="none">
+              <path d={d} vector-effect="non-scaling-stroke" />
+            </svg>
+            {labels.map((l) => (
+              <i
+                class={`dh-tb-dot ${l.cls}`}
+                style={`left:${l.left}%;top:${l.top}%`}
+              />
+            ))}
+            {labels.map((l) => (
+              <span
+                class={`dh-tb-v ${l.cls}`}
+                style={`left:${l.left}%;top:${l.top}%`}
+              >
+                <b>{l.text}</b>
+                <small>{l.year}</small>
+              </span>
+            ))}
+          </div>
+        </div>
+      ))
+    }
+    <div class="dh-tb-row is-axis">
+      <div class="dh-tb-label"></div>
+      <div class="dh-tb-plot is-axis">
+        {
+          ticks.map((y) => (
+            <span class="dh-tb-tick" style={`left:${p2(pct(y))}%`}>
+              {y}
+            </span>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+  {
+    marks.length > 0 && (
+      <ol class="dh-tb-marks" aria-label={marksLabel}>
+        {marks.map((m) => (
+          <li>
+            <b>{m.year}</b>
+            {m.label}
+          </li>
+        ))}
+      </ol>
+    )
+  }
+  <table class="tw-sr-only">
+    <caption>{tableCaption}</caption>
+    <thead>
+      <tr>
+        <th scope="col">{yearLabel}</th>
+        {
+          bands.map((b) => (
+            <th scope="col">{b.unit ? `${b.label}（${b.unit}）` : b.label}</th>
+          ))
+        }
+      </tr>
+    </thead>
+    <tbody>
+      {
+        years.map((y) => (
+          <tr>
+            <th scope="row">{y}</th>
+            {bands.map((b) => {
+              const hit = b.series.find((p) => p[0] === y);
+              return <td>{hit ? b.fmt(hit[1]) : '—'}</td>;
+            })}
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+  <p class="dh-tb-src"><span>{sourceLabel}</span>{source}</p>
+</figure>

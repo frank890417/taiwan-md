@@ -1,13 +1,13 @@
 ---
 title: 'Jay Chou'
-description: "Un jeune homme timide jouant du piano dans une émission de télé-crochet, son premier album a réécrit l'histoire de la pop mandarine ; avec son style original, il a prouvé que la création pouvait être rentable et conquérir le monde tout en préservant les caractéristiques orientales."
+description: "Ce jeune homme timide jouait du piano lors d'un concours de talents, et son premier album a réécrit l'histoire de la musique pop mandarine. Grâce à son style original, il a prouvé à l'industrie musicale que la création peut être rentable, et avec ses nombreux albums, il a démontré que la musique chinoise peut conserver ses caractéristiques orientales tout en conquérant la scène mondiale. De jeune créateur dont les manuscrits étaient souvent rejetés, il est devenu un véritable révolutionnaire de la musique qui bouleverse l'industrie."
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'Personnalités',
+    'Personnalité',
     'Jay Chou',
-    'Pop mandarine',
+    'Musique pop mandarine',
     'Chanteur',
     'Création',
     'R&B',
@@ -29,7 +29,7 @@ lifeTree:
     extractedBy: 'Taiwan.md (Semiont) β-r5'
     extractedAt: '2026-04-26 13:30 +0800'
     note: '原文 references = 維基 / Time / IFPI / 鏡週刊 / 華視 / Block Tempo / Dcard 等。Counterfactual 主要對照同代華語流行（孫燕姿、王力宏、陶喆、吳青峰）的路徑。'
-  intro: '一個 1997 年在《超級新人王》上彈鋼琴的害羞 18 歲男孩，三年後改寫華語流行音樂歷史。從寫歌被退稿三年的助理到全球銷量冠軍。每個 turning（被退稿、自創公司、跨界導演、政治模糊）都有他沒走的路。'
+  intro: '一個 1997 年在《超級新人王》上彈鋼琴的害羞 18 歲男孩，三年後改寫華語流行音樂歷史。從作品屢遭退稿到全球銷量冠軍。每個 turning（被退稿、自創公司、跨界導演、政治模糊）都有他沒走的路。'
   themes:
     - id: 'original-mainstream'
       label: '原創 vs 主流公式'
@@ -49,38 +49,38 @@ lifeTree:
       age: 0
       type: 'given'
       theme: 'original-mainstream'
-      label: '1979 年生於台北'
-      scene: '家庭背景小康。從小學鋼琴。內向、害羞。'
+      label: '1979 年生於臺北縣林口鄉'
+      scene: '1979 年 1 月 18 日出生於臺北縣林口鄉（今新北市林口區）。'
     - id: 'super-newcomer'
       year: 1997
       month: 8
       age: 18
       type: 'choice'
       theme: 'original-mainstream'
-      scene: '台視《超級新人王》舞台。為高中同學伴奏的鋼琴手，害羞到不敢看鏡頭'
+      scene: 'TVBS-G《超級新人王》舞台。為高中同學伴奏的鋼琴手'
       chose:
         label: '上節目當伴奏'
-        consequence: '主持人吳宗憲注意到他樂譜寫得工工整整、和弦進行有想法。被簽進阿爾發音樂當助理。月薪兩萬，泡茶買便當 + 無止境創作。'
+        consequence: '主持人吳宗憲欣賞他的樂譜、認為他有潛力，之後在阿爾發音樂旗下多位歌手的歌曲中採用他的創作。'
       alternatives:
         - label: '不上節目'
           plausibility: 'structural'
           note: '同代會彈鋼琴的高中生很多沒被注意到，最後走音樂老師或考音樂系。如果他不上 1997 那場節目，吳宗憲不會看見他，後面 25 年華語樂壇歷史完全不同。'
         - label: '上節目想當主角自己唱'
           plausibility: 'structural'
-          note: '常規選秀路徑：主動爭取唱主歌位置。如果走，會被當「另一個唱抒情歌的男生」評估，可能淘汰，不會以「鋼琴助理」身份建立品味。'
+          note: '常規選秀路徑：主動爭取唱主歌位置。如果走，會被當「另一個唱抒情歌的男生」評估，可能淘汰，不會以伴奏鋼琴手的身份建立品味。'
     - id: 'three-years-rejected'
       year: 1999
       age: 21
       type: 'choice'
       theme: 'original-mainstream'
-      scene: '寫了上百首歌，全部被退稿。劉德華退《眼淚知道》、張惠妹退《忍者》。原因都是「太奇怪、太超前、市場接受不了」'
+      scene: '部分作品因風格特殊被退稿，例如劉德華的《眼淚知道》、張惠妹的《忍者》'
       chose:
         label: '繼續寫不放棄 + 等到江蕙收下《落雨聲》'
         consequence: '第一首被採用的歌。為《Jay》專輯鋪路。三年退稿期養成「我的東西不是給別人改的，我自己唱」的決心。'
       alternatives:
         - label: '退稿後改寫成市場喜歡的版本'
           plausibility: 'structural'
-          note: '常規路徑：年輕製作助理會根據退稿 feedback 不斷修改。如果走，可能更早有歌被採用但失去獨特風格，後來《Jay》不會發生。'
+          note: '常規路徑：年輕創作者會根據退稿 feedback 不斷修改。如果走，可能更早有歌被採用但失去獨特風格，後來《Jay》不會發生。'
         - label: '放棄音樂'
           plausibility: 'structural'
           note: '三年退稿足以讓多數人轉行。如果走，會去做別的工作，可能成為一個小有才華的素人音樂人。'
@@ -93,7 +93,7 @@ lifeTree:
       scene: '阿爾發音樂決定讓他自己出專輯'
       chose:
         label: '《Jay》全自製 + 融合 Rap/R&B/搖滾/古典/二胡 Hip-Hop'
-        consequence: '亞洲賣破百萬。改變唱片工業生態：證明音樂人可以做自己、創新可以賺錢。「華語樂壇相信公式」變「相信冒險」。'
+        consequence: '改變唱片工業生態：證明音樂人可以做自己、創新可以賺錢。「華語樂壇相信公式」變「相信冒險」。'
       alternatives:
         - label: '走標準偶像歌手路'
           plausibility: 'structural'
@@ -192,36 +192,34 @@ lifeTree:
           plausibility: 'structural'
           note: '常規華語天王路徑。如果走，能省成本但失去「亞洲流行天王」的國際品牌定位。'
 translatedFrom: 'People/周杰倫.md'
-sourceCommitSha: '2ad8c8cc2'
-sourceContentHash: 'sha256:f7b44615a84043f8'
-sourceBodyHash: 'sha256:15c277d38e9e5f3f'
-translatedAt: '2026-10-15T12:42:49+08:00'
+sourceCommitSha: '266b6b9f1'
+sourceContentHash: 'sha256:86256c6f2ae0a88a'
+sourceBodyHash: 'sha256:67921cd65544f76e'
+translatedAt: '2026-10-23T06:46:30.842840+00:00'
 ---
 
-# Jay Chou (周杰倫)
+# Jay Chou
 
-> **Aperçu en 30 secondes :** En 1997, un jeune homme timide de 18 ans joue du piano dans l'émission _Super New King_. Trois ans plus tard, son premier album réécrit l'histoire de la musique pop mandarine. Jay Chou n'est pas seulement un chanteur ; il est celui qui a convaincu l'industrie musicale que « l'originalité peut être rentable ». Depuis 2000, il a prouvé à travers 16 albums que la musique mandarine pouvait conquérir la scène mondiale tout en conservant ses racines orientales.
+> **Résumé en 30 secondes :** En 1997, un jeune homme de 18 ans timide jouait du piano dans l'émission 《Super New King》 ; trois ans plus tard, son premier album réécrivait l'histoire de la musique pop mandarine. Jay Chou n'est pas seulement un chanteur, il est celui qui a convaincu toute l'industrie musicale que « l'originalité peut être rentable ». De 2000 à aujourd'hui, à travers 16 albums, il a prouvé que la musique mandarine pouvait conquérir la scène mondiale tout en conservant ses caractéristiques orientales.
 
-En 1999, dans les studios de JVR Music, Jay Chou subissait son énième refus. Aaron Kwok ne voulait pas de son titre _Larmes de savoir_ (眼淚知道), A-Mei rejetait son morceau _Ninja_ (忍者) ; toute la scène musicale mandarine semblait dire à ce jeune créateur : votre musique est trop en avance sur son temps.
+Avant ses débuts, de nombreuses chansons écrites par Jay Chou lui ont été refusées. Andy Lau n'a pas retenu sa chanson 《眼淚知道》, et A-Mei n'a pas non plus accepté 《忍者》, en raison de leurs styles trop singuliers.
 
-Personne ne pouvait prédire que ce jeune assistant de production de 21 ans allait tout bouleverser un an plus tard.
+En 1999, Jiang Hui a interprété 《落雨聲》, écrite en collaboration avec lui et Fang Wenshan ; ce fut sa première chanson vendue.
 
-## De l'ombre d'un concours à la révolution musicale
+## De second rôle dans une émission de télé-crochet à révolutionnaire musical
 
-En août 1997, sur la scène de l'émission _Super New King_ de la TTV, Jay Chou n'était pas le protagoniste. Il n'était que le pianiste accompagnant un camarade de classe, trop timide pour regarder la caméra. Mais l'animateur Jacky Wu (吳宗憲) remarqua ce détail : les partitions de ce garçon étaient impeccablement écrites et ses progressions d'accords étaient très ingénieuses.
+En août 1997, sur la scène de l'émission TVBS-G 《超級新人王》, Jay Chou n'était pas le protagoniste. Il était le pianiste accompagnant ses camarades de classe du lycée. L'animateur Jacky Wu a admiré ses partitions, estimant qu'il avait du potentiel, et a par la suite utilisé ses compositions pour plusieurs chanteurs sous l'égide d'Alfa Music.
 
-« À l'époque, j'ai tout de suite senti qu'il avait quelque chose de spécial », se souvient plus tard Jacky Wu. Personne ne se souvenait des chanteurs de cette émission, mais tout le monde se rappelait du garçon au piano. Après trois années d'apprentissage dans l'ombre, Jacky Wu a signé Jay Chou chez Alfa Music en tant qu'assistant, avec un salaire mensuel de 20 000 NT$. Ses tâches consistaient à préparer le thé, acheter des déjeuners et composer sans relâche. Durant cette période, Jay Chou a écrit des centaines de chansari, mais toutes ont été rejetées. Trop étrange, trop avant-gardiste, inadapté au marché — voilà les raisons qu'il entendait depuis trois ans.
-
-Le tournant survient enfin en 1999. Jeannie Tsai (江蕙) accepte _Pluie de souvenirs_ (落雨聲), une collaboration entre lui et Vincent Fang (方文山), marquant la première chanson acceptée pour Jay Chou.
+Certaines de ses œuvres ont été refusées en raison de leur style trop singulier ; les titres 《眼淚知道》 de Liu Dehua et 《忍者》 d'A-mei en faisaient partie. En 1999, Jiang Hui a interprété 《落雨聲》, écrite en collaboration avec lui et Fang Wenshan ; ce fut sa première chanson vendue.
 
 ## 2000 : La révolution musicale d'un album
 
-Le 7 novembre 2000, le premier album de Jay Chou, _Jay_, est publié. Le titre d'ouverture _Cute Woman_ (可愛女人) mêle rap et rythmes R&B ; _Perfectionnisme_ (完美主義) fusionne rock et piano classique ; tandis que _La Femme_ (娘子) intègre directement l'erhu dans l'univers Hip-Hop.
+Le 7 novembre 2000, le premier album de Jay Chou, 《Jay》, est sorti. Le titre d'ouverture, 《可愛女人》, utilise le rap sur des rythmes R&B ; 《完美主義》 mélange le rock et le piano classique ; quant à 《娘子》, il intègre directement l'erhu dans l'univers du hip-hop.
 
-> **💡 Le saviez-vous ?**  
-> _Jay_ a accompli ce qui n'avait jamais été fait auparavant : prouver que la musique mandarine pouvait fusionner tous les genres et rencontrer un immense succès commercial. L'album s'est vendu à plus d'un million d'exemplaires en Asie, transformant Jay Chou, du jour au lendemain, d'assistant en superstar.
+> **💡 Saviez-vous que...**  
+> 《Jay》 a accompli quelque chose de sans précédent : prouver que la musique mandarine pouvait fusionner tous les styles, tout en rencontrant un immense succès commercial. Jay Chou est ainsi passé du statut de créateur de l'ombre à celui d'artiste de premier plan.
 
-Plus important encore, il a changé l'écosystème de toute l'industrie du disque. Avant _Jay_, la formule du succès dans le monde mandarin était simple : trouver quelqu'un qui chante bien, lui donner quelques ballades lyriques et le présenter comme une idole. Jay Chou a prouvé qu'une autre voie existait : les musiciens peuvent rester fidèles à eux-mêmes, et l'innovation peut être lucrative.
+Plus important encore, il a transformé l'écosystème de toute l'industrie du disque. Avant 《Jay》, la formule du succès dans le milieu de la musique mandarine était très simple : trouver quelqu'un qui sait chanter, lui donner quelques ballades lyriques et le présenter comme une idole. Jay Chou a prouvé qu'une autre voie était possible : un musicien peut rester fidèle à lui-même, et l'innovation peut être rentable.
 
 ## Le pionnier de la pop au style chinois (_Zhongguofeng_)
 

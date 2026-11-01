@@ -1,190 +1,248 @@
 ---
-title: 'Taiwan-Weiße Delphine: Mit gesetzlichem Rückzugsgebiet haben sie noch kein wahres Schutzgebiet'
-description: '2020 erhielten die taiwanesischen Westküsten-Weißen Delphine schließlich ein gesetzliches Schutzgebiet von 763 Quadratkilometern, doch Netze, Häfen, Verschmutzung und Unterwasserlärm bleibt weiterhin in derselben flachen Küstenzone aktiv.'
+title: 'Taiwans Weißer Delfin: Trotz gesetzlich geschütztem Lebensraum fehlt ein sicheres Revier'
+description: 'Im November 2025 strandete ein ausgewachsener männlicher Weißer Delfin namens „Scissors“ (OCA023) in Shengang, Changhua – der zehnte Fall seit 2009. Die Population sank von geschätzten 99 Tieren im Jahr 2002 auf nur noch 45 bis 50 im Jahr 2025. Während die Regierung 2020 ein Schutzgebiet von 763 km² festlegte, plant der Hafen von Taichung für 2026 Landgewinnung durch Abfallmaterial in diesem Bereich; Umweltgruppen kündigen Klagen an.'
 date: 2026-08-18
+modified: 2026-10-20
 category: 'Nature'
 tags:
   [
-    'Taiwan-Weiße Delphine',
-    'Chinesische Weiße Delphine',
+    'Weißer Delfin Taiwan',
+    'Chinesischer Weißer Delfin',
     'Meeresschutz',
     'Westküste',
     'Fischerei',
+    'Hafen von Taichung',
   ]
 subcategory: '保育與環境'
 author: 'Taiwan.md Contributors'
+difficulty: 'intermediate'
 featured: false
-lastVerified: 2026-08-18
+lastVerified: 2026-10-20
 lastHumanReview: false
-readingTime: 8
+readingTime: 14
 curation: 'incubating'
+rationale:
+  why_this_hook: '2026 年 8 月颱風白海豚讓這三個字被全台灣看見，同一時間環團借這個名字發起連署，正好對照真正的白海豚還沒有被安全留下。'
+  whats_excluded: '白鱀豚與其他鯨豚的滅絕比較只留王愈超一句引語（篇幅），台中港各方對填海面積的不同算法只取各自出處的數字（不在範疇）。'
+  where_it_hedges: '族群數量一律附年份與估計者；擱淺死因未必都是人為；台中港訴訟結果未定，只寫到環團宣布提告與交通部、海保署的回應。'
+  whos_pushing_back: '交通部與港務公司主張南填方區屬 2016 年核定的既有開發；近岸漁民面對撤網的生計成本，文中以柯孟辰研究與轉型成本段落回應。'
 translatedFrom: 'Nature/台灣白海豚.md'
-sourceCommitSha: '372f0027e'
-sourceContentHash: 'sha256:0d5b2e9ee7dd2f9a'
-sourceBodyHash: 'sha256:53b72f6cf77894ed'
-translatedAt: '2026-09-14T14:50:08+08:00'
+sourceCommitSha: '5728f17ca'
+sourceContentHash: 'sha256:614db40bdd695c3e'
+sourceBodyHash: 'sha256:c6ff793872297489'
+translatedAt: '2026-10-21T08:58:22+08:00'
 ---
 
-![Indopazifischer Schweinswal (Sousa chinensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg)
+![Indopazifischer Buckeldelfin (Sousa chinensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-> **30-Sekunden-Überblick:** 2002 begannen Forscher planmäßig mit Untersuchungen der taiwanesischen Westküsten-Delphine; 2020 veröffentlichte das Meeresschutzamt ein Schutzgebiet von 763 Quadratkilometern; 2026 entstand die Debatte, ob die 60 Hektar-Flusenarbeiten im Hafen von Taichung eine Umweltverträglichkeitsprüfung erfordern. Diese drei Daten zusammen zeigen: Die Delphine wurden bereits wahrgenommen und auf die Karte gezeichnet, aber das bedeutet noch nicht, dass sie ein Stück Meer ohne Störungen erhalten haben.
-> Die wahre Geschichte der taiwanesischen weißen Delphine ist nicht „Die Menschen haben die Delphine gerettet“, sondern: Nachdem man ihre Existenz erkannte, muss nun entschieden werden, wie Fischerei, Häfen, Energie und Küstenbau gemeinsam mit diesem flachen Meersbereich umgehen.
-> Ihre Aktivitätsfläche ist begrenzt, ihre Fortpflanzungsrate langsam und sie überschneiden sich mit der Küstenfischerei und Hafenprojekten; daher ist der Schutz nicht ein einzelner Delphin, sondern ein ganzes Regelwerk für die Nutzung der Küstenzone.
+> **30-Sekunden-Überblick:** Im Jahr 2002 begann ein Forschungsteam mit systematischen Expeditionen zur Untersuchung der Weißen Delfine an der Westküste Taiwans; damals wurden etwa 99 Tiere geschätzt. Im Sommer 2025 ergab die neueste Schätzung des Wal- und Delphin-Experten Wang Yu-chao (王愈超), dass nur noch 45 bis 50 Tiere existieren, wobei die Population jährlich nur zwei bis drei Kälber hervorbringt. Während die Regierung 2020 ein gesetzlich geschütztes Habitat von 763 km² festlegte, plant der Hafen von Taichung für 2026 Landgewinnung durch Abfallmaterial innerhalb dieses Gebiets. Umweltgruppen haben angekündigt, im Namen der Delfine zu klagen.
+> Der Weiße Delfin in Taiwan wurde bereits gesichtet, benannt und in gesetzliche Karten eingetragen, doch er hat dadurch noch kein sicheres Meer erhalten. Sein Lebensraum ist begrenzt, seine Fortpflanzung langsam, und er überschneidet sich mit Küstenfischerei, Häfen und Windparkprojekten – der Schutzgegenstand ist daher ein ganzes Regelwerk zur Küstennutzung.
 
-2002 begannen Forscher planmäßig mit Untersuchungen der taiwanesischen Westküsten-Delphine. Am 1. September 2020 wurde das wichtige Lebensraumgebiet der Chinesischen Weißen Delphine offiziell bekanntgegeben. Im April 2026 berichtete das öffentliche Fernsehen über die Debatte hinsichtlich einer Umweltverträglichkeitsprüfung für 60 Hektar-Flusenarbeiten im Hafen von Taichung. Dies sind keine drei isolierten Jahreszahlen, sondern eine Zeitleiste von „Wahrnehmung“ zu „gemeinsamer Nutzung“. [^4] [^6] [^7]
+Im August 2026 fegte der äußere Windring des Taifuns „Baihaiqun“ (Weißer Delfin) über Taiwan, was in mehreren Regionen zu starkem Wind und heftigen Regenfällen führte; der Name „Weißer Delfin“ tauchte tagelang in jeder Taifun-Nachricht auf. Fast zeitgleich starteten die Verbände _Supervision of Administration Alliance_, _Taiwan Wild Heart Ecology Association_, _Taiwan Mazu Fish Conservation League_, _Changhua County Environmental Protection Alliance_ und die _Wilderness Conservation Association_ unter diesem Namen die Unterschriftenaktion „Rettet den Weißen Delfin – der Hafen von Taichung darf nicht durch Landgewinnung erweitert werden“.[^1] Sie kämpfen für eine andere Gruppe von Weißen Delfinen, die in den flachen Gewässern wenige Kilometer vor der Küste zwischen Miaoli und Yunlin leben.
 
-Das Meeresschutzamt definierte das wichtige Lebensraumgebiet der Chinesischen Weißen Delphine auf 763 Quadratkilometern und erstreckte es über die Gewässer von Miao-Li, Taichung, Changhua und Yunlin. Auf der Karte sieht es wie eine Grenze aus, im Wasser gibt es keine Mauer: Netze, Frachtschiffe, Flusenarbeiten, Verschmutzung und Lärm durchdringen die von Menschen gezogenen Linien weiterhin. [^1] [^6]
+Am 17. Juli des Vorjahres hielten der taiwanesisch-kanadische Wal- und Delphin-Experte Wang Yu-chao (王愈超), die _Taiwan Wild Heart Ecology Association_ und die _Underwater Noise Association_ eine Pressekonferenz ab, um neueste Forschungsergebnisse zu präsentieren: Die Zahl der Weißen Delfine in Taiwan sank von etwa 99 im Jahr 2002 auf etwa 74 im Jahr 2010 und auf nur noch etwa 45 bis 50 im Sommer jenes Jahres. Er erklärte: „In meinen 20 Jahren der Nachverfolgung sinkt die Populationsgröße jährlich um etwa 3 % bis 4 %, was bedeutet, dass die Sterberate weit über der Geburtenrate liegt.“[^2]
 
-Diese Fläche ist groß, aber das bedeutet nicht, dass die Delphine darin jeder Bedrohung ausweichen können. Der IUCN weist darauf hin, dass ihre Hauptverteilung weiterhin ein schmales Band entlang der Küste ist. Auch NOAA beschreibt sie als ein Tier, das ausschließlich in den engen Flussmündungen der taiwanesischen Westküste lebt. Die Herausforderung beim Schutz besteht nicht darin, ein großes Kästchen zu zeichnen, sondern sicherzustellen, dass Wasser, Fisch, Schall und Schiffstrafiken innerhalb dieses Kästecks im tragbaren Rahmen bleiben. [^2] [^3]
+Das Zuhause dieser Delfine wurde vom _Marine Conservation Administration_ bereits in gesetzliche Karten eingetragen: Das wichtige Habitat des Chinesischen Weißen Delfins wurde auf 763 km² festgesetzt, das die Gewässer von Miaoli, Taichung, Changhua und Yunlin umfasst; die offizielle Bekanntmachung erfolgte am 1. September 2020.[^3] [^4] Auf der Karte mag es wie eine Grenze aussehen, doch im Meer gibt es keine Mauern: Fischernetze, Frachtschiffe, Aufschüttungen, Schadstoffe und Lärm durchdringen die von Menschen gezogenen Linien weiterhin.
 
-📝 **Redaktionsnotiz:** Die Fläche ist eine notwendige politische Kennzahl, aber keine ökologische Funktion. Was wirklich geschützt werden muss, sind die Wassertiefe, die Flussmündungen, die Nahrung und die ruhigen Aktivitätsbedingungen.
+Obwohl die Fläche groß ist, kann der Weiße Delfin nur einen schmalen Streifen direkt an der Küste nutzen. Der IUCN weist darauf hin, dass sein Kernlebensraum ein schmaler Küstenstreifen entlang der Westküste ist; auch die NOAA beschreibt ihn als eine Spezies, die nur in den engen Ästuarbereichen der Westküste Taiwans lebt.[^5] [^6] Die eigentliche Schwierigkeit des Schutzes besteht darin, Wasser, Fische, Lärm und Schiffsaktivitäten innerhalb dieses Rahmens so zu regulieren, dass sie für eine langsam fortpflanzende, kleine Population tragbar bleiben.
 
-## Warum sie so nah am Ufer wohnen
+## Warum sie so nah an der Küste leben
 
-Taiwan-Delphine sind keine weit im Offshore lebenden Großwale. Die IUCN-Cetacean-Expertengruppe dokumentiert, dass sie hauptsächlich innerhalb von etwa drei Kilometern vor der taiwanesischen Westküste in einem schmalen Gewässerbereich leben, dicht bei Flussmündungen und in Gewässern mit einer Tiefe von fünf bis acht Metern. Sie tauchen nur selten in Gewässern mit mehr als zwanzig Metern Tiefe auf, außerhalb künstlich aufgestellter Schifffahrtskanäle. [^2]
+In den Gewässern Taiwans wurden über 32 Arten von [Cetacean (Wale und Delphine)](/de/nature/cetaceans-of-taiwan) registriert; der Weiße Delfin in Taiwan gehört nicht zu jenen, die im offenen Meer vorkommen. Die IUCN Cetacean Specialist Group hält fest, dass seine Hauptverbreitung in einem schmalen Meeresstreifen etwa 3 km vor der Westküste Taiwans liegt, mit einer höheren Dichte in der Nähe von Ästuaren und in Gewässern mit einer Tiefe von 5 bis 8 Metern. Sie erscheinen selten in Tiefen unter 20 Metern, es sei denn, es handelt sich um künstlich vertiefte Fahrrinnen.[^5]
 
-Das Meeresschutzamt beschreibt den Indopazifischen Schweinswal (_Sousa chinensis_) als eine Art, die in Küsten- und Flussmündungsgebieten lebt, typischerweise in Gewässern mit einer Tiefe von weniger als 25 Metern, und die in der Nahrungskette relativ hoch positioniert ist. Diese Bedingungen erleichtern ihr die Nahrungssuche und bringen sie unweigerlich mit den am stärksten von Menschen genutzten Küstenzonen zusammen. [^1]
+Die _Marine Conservation Administration_ beschreibt den Indopazifischen Buckeldelfin (_Sousa chinensis_) als eine Art für Küsten- und Ästuarumgebungen, die typischerweise in Gewässern mit einer Tiefe von weniger als 25 Metern lebt und eine hohe Position in der marinen Nahrungskette einnimmt.[^3] Die Fischreichtum in den Ästuaren, wo Süß- und Salzwasser aufeinandertreffen, erleichtert die Nahrungssuche, führt aber auch zu einer direkten Begegnung mit den intensivsten menschlichen Küstennutzungszonen.
 
-Erwachsene Exemplare zeigen oft weiße oder rosafarbene Färbung mit einer Erhebung am Rückenfinne, während Jungtiere eher grau gefärbt sind. Sie werden nicht von Natur aus „weiß“ geboren; ihre Farbe ändert sich mit dem Alter und den Körperflecken. Das ikonische Rosa ist das Ergebnis eines Wachstumsprozesses. [^1] [^3]
+Erwachsene Individuen sind oft weiß oder rosa mit einem Höcker an der Basis der Rückenflosse, während Jungtiere eher grau sind. Sie werden nicht weiß geboren; die Farbe verändert sich mit dem Alter und durch die Entstehung von Flecken – das bekannte rosa Erscheinungsbild ist das Ergebnis des Aufwachsprozesses eines Delfins.[^3] [^6]
 
-📝 **Redaktionsnotiz:** Für die Delphine ist das flache Meer kein temporärer Parkplatz, sondern ihre Wohngegend. Die Menschen nutzen jedoch dieses flache Meer als den praktischsten Ort für Bauarbeiten, Fischfang und Transport.
+> 📝 **Anmerkung der Kuratoren:** Für den Weißen Delfin ist das Flachwasser sein Zuhause. Der Mensch nutzt dasselbe Flachwasser jedoch als den bequemsten Ort für Bauarbeiten, Fischfang und Transport – beide Seiten beanspruchen dieselbe Küstenlinie.
 
-![Indopazifischer Schweinswal in Aktivität an der Wasseroberfläche](https://upload.wikimedia.org/wikipedia/commons/b/be/Sousa_chinensis_%282%29_by_Zureks.jpg)
-
-_Foto: Zureks / Wikimedia Commons, CC0 1.0_
-
-Dieses Bild zeigt keine aktuelle Aufnahme der taiwanesischen Westküsten-Population, sondern dient als morphologische Referenz derselben Art. Der Artikel verwendet es nicht als geografischen Beweis für die taiwanesischen Delphine. Es ist wichtig, diese Trennung klar zu halten, da „ähnlich aussehen“ nicht mit Fotoidentifikation, Seenahmen und Standortdokumentation ersetzt werden kann.
-
-Diese Küstenlebensweise erklärt auch, warum der Schutz der Delphine nicht allein durch ein Meeresschutzgebiet weit weg von der Küste funktionieren kann. Sie benötigen Flussmündungen, Wattbereiche, nahegelegene Fischpopulationen und eine nicht zu stark fragmentierte Aktivitätsfläche. Wenn man nur einen Punkt schützt, verliert man möglicherweise die gesamte Küstenlinie, die sie für Fortbewegung, Fütterung und Fortpflanzung benötigen. [^1] [^2]
-
-## Eine Lebensweise, die durch die Bedingungen des flachen Meeres begrenzt ist
-
-Die Artenseite von NOAA Fisheries gibt an, dass die taiwanesischen Delphine eine Körperlänge von etwa 6,6 bis 9,2 Fuß (ca. 2 bis 2,8 Metern) und ein Gewicht von etwa 330 bis 440 Pfund (ca. 150 bis 200 Kilogramm) erreichen. Sie ernähren sich hauptsächlich von Fisch, gelegentlich auch von Tintenfischen und Krebstieren. Diese Angaben sind keine Kuriosität, sondern eine Erinnerung daran, dass sie von einem funktionierenden Ökosystem in Flussmündungen und flachem Meer abhängen. [^3]
-
-Dieselbe Seite weist darauf hin, dass die biologischen Daten dieser Unterart noch begrenzt sind; sie erreichen die Geschlechtsreife spät, haben eine langsame Fortpflanzungsrate und die Weibchen pflegen lange Beziehungen zu ihren Jungtieren. Bei einer bereits kleinen Population bedeutet der Tod eines einzelnen erwachsenen oder jungen Tieres nicht nur den Verlust eines Individuums, sondern kann die gesamte Fortpflanzungsperiode beeinträchtigen. [^3]
-
-Dies macht „Lebensraumverschlechterung“ nicht nur zu einer Ästhetikproblem der Küste. Küstenveränderungen, Süßwassereinleitungen, Verschmutzung oder Baulärm können zunächst die Fischpopulation und Wasserströmungen verändern und die Delphine zwingen, mehr Zeit für die Nahrungssuche zu verbringen. Für eine langsam reproduzierende, standortbegrenzte Population sind solche Veränderungen schwer durch Umzug in ein anderes Meer zu kompensieren. [^1] [^3]
-
-📝 **Redaktionsnotiz:** Die Anfälligkeit einer Art kommt nicht nur durch ihre geringe Zahl, sondern auch durch ihre langsame Fortpflanzungsrate, die nicht mit dem Tempo der Lebensraumzerstörung und der Fischerei Schritt hält.
-
-## Vom lokalen Fischnamen zur wissenschaftlichen Unterart
-
-Die Küstenbewohner wussten schon lange, dass es ein weißes Delphin in den Gewässern gibt. Ein Bericht im _Taiwan Light and Culture_ erwähnt, dass Fischer in Changhua das Tier „Bai Niu“ (weißer Stier) nannten, während es in Kinmen und Xiamen oft als „Matsu Fish“ bezeichnet wurde. Diese Namen sind keine wissenschaftliche Klassifizierung, bewahren jedoch das Wissen der Küstenbewohner über die Erkennung, Erinnerung und Diskussion dieses Tieres. [^4]
-
-2002 begannen die Forscher planmäßig mit Seenahmen. Ein IUCN-Bericht weist darauf hin, dass die taiwanesischen Delphine erst 2002 wissenschaftlich dokumentiert wurden und 2015 offiziell als Unterart des Indopazifischen Schweinswalls beschrieben wurde (_Sousa chinensis taiwanensis_). Die wissenschaftliche Benennung bedeutet nicht, dass das Tier erst 2015 existierte; vielmehr war 2015 das erste Jahr, in dem das Forschungssystem in der Lage war, es in wissenschaftlichen Aufzeichnungen zu verankern. [^2]
-
-Frühere Berichte im _Taiwan Light and Culture_ beschreiben, wie die Forscher entlang der Küsten von Miao-Li, Taichung und Changhua nach den Delphinen suchten und zur Identifikation der Individuen Fotos heranzogen. Die Forscher mussten jedes Mal, wo ein Delphin gesichtet wurde, die Uhrzeit, den Standort, das Verhalten und die Rückenfinne zusammenfassen, um die Populationsgröße der kleinen Gruppe zu schätzen. Ein einzelner Augenblick auf dem Meer kann nicht automatisch als „noch ein Exemplar mehr“ gezählt werden. [^4]
-
-📝 **Redaktionsnotiz:** „Bai Niu“ und der wissenschaftliche Name sind nicht zwei getrennten Wissenssysteme. Eines stammt aus Jahren der Seenahmen, das andere aus Fotos, Modellen und Statistiken. Was wirklich fehlt, ist die Verbindung beider Wissensformen in politische Entscheidungen.
-
-![Indopazifischer Schweinswal von der Seite](https://upload.wikimedia.org/wikipedia/commons/a/a3/Sousa_chinensis_%283%29_by_Zureks.jpg)
+![Indopazifischer Buckeldelfin an der Wasseroberfläche](https://upload.wikimedia.org/wikipedia/commons/b/be/Sousa_chinensis_%282%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-In der wissenschaftlichen Forschung helfen Rückenfinne, Rückenwölbungen, Flecken und Körperfärbung bei der Unterscheidung von Individuen oder der Bestimmung des Alters. Ein Bild ohne Zeit- und Standortangaben kann jedoch nur als morphologisches Material dienen. Eine echte Populationsschätzung erfordert langfristige, wiederholbare Fotoidentifikationsdaten. [^2] [^4]
+Dieses Foto dient als morphologische Referenz derselben Art, wurde jedoch nicht vor der Westküste Taiwans aufgenommen. Die tatsächlichen Aufzeichnungen dieser Population in Taiwan stammen aus den Fotos der Rückenflossen, die das Forschungsteam bei zahlreichen Expeditionen gemacht hat: Die Meeresuntersuchung der _Marine Conservation Administration_ für das Jahr 2025 erstreckte sich von Miaoli bis nach Tainan mit einer kumulierten Fahrtstrecke von über 2.500 km.[^7]
 
-## Nicht nur eine Zahl
+Die Untersuchungen desselben Jahres ergaben, dass etwa 90 % der identifizierten Individuen in Gewässern aktiv sind, die sich über mehr als drei Landkreise erstrecken. Zwei passive Unterwassermikrofone registrierten zudem, dass ihre Echolokation nachts eine höhere Detektionsrate aufweist und bei Flut häufiger auftritt.[^7] Schützt man nur einen Punkt vor der Küste eines einzelnen Landkreises, könnte der Weiße Delfin dennoch die gesamte Küstenlinie verlieren, die er für Bewegung, Nahrungssuche und Fortpflanzung benötigt.[^3] [^5]
 
-Die Populationszahlen der Delphine werden oft als eine beeindruckende Einzahl präsentiert, aber unterschiedliche Jahre, Methoden und Quellen können nicht einfach addiert werden. Der IUCN-Bericht schätzt die Populationsgröße 2010 durch markierte Wiederfangungsanalysen auf höchstens 74 Exemplare, wobei die Schätzungen von 2011 bis 2013 zwischen 67 und 71 Exemplaren lagen. Dieselbe Seite beschreibt den Status als extrem gefährdet mit nicht mehr als 75 Exemplaren und weniger als 50 erwachsenen Tieren. [^2]
+## Nur zwei bis drei Kälber pro Jahr
 
-Die Artenseite von NOAA Fisheries gibt an, dass die verbleibende Population weniger als 100 Exemplare umfasst und dass die USA 2018 die taiwanesischen Delphine unter dem _Endangered Species Act_ als gefährdet einstufte. Diese Zahl steht nicht unbedingt im Widerspruch zu den IUCN-Schätzungen, da die Aktualisierungszeitpunkte, Methoden und zitierten Studien unterschiedlich sind. Gefährlich ist es, diese Zahlen zu einer scheinbar präzisen Kurve der aktuellen Populationsentwicklung zusammenzufügen. [^3]
+Die Artenseite der NOAA Fisheries gibt an, dass der Weiße Delfin in Taiwan eine Körperlänge von etwa 2 bis 2,8 Metern (6,6 bis 9,2 Fuß) und ein Gewicht von etwa 150 bis 200 kg (330 bis 440 Pfund) hat. Er ernährt sich hauptsächlich von Fischen, kann aber auch Cephalopoden (Tintenfische) und Krebstiere fressen; er ist auf ökologische Bedingungen in Ästuaren und im Flachwasser angewiesen, die Fischbestände stützen können.[^6]
 
-Im Jahr 2026 berichtete das öffentliche Fernsehen in seiner Sendung _Our Island_ mit „etwa 40 Exemplare“ als Einstieg in das Thema und zitierte Beobachtungen von Insassen, die im selben Jahr die größte Gruppe mit neun und im Folgejahr mit 14 Exemplaren beobachtet hatten. Diese Angaben stammen aus journalistischen Berichten und Beobachtungen, nicht aus einer vollständigen Populationszählung. Sie ermöglichen es, die Situation vor Ort zu sehen, ersetzen jedoch keine Populationsschätzung. [^7]
+Auf derselben Seite wird zudem darauf hingewiesen, dass diese Unterart erst spät geschlechtsreif wird, eine langsame Fortpflanzungsrate aufweist und zwischen Weibchen und Kälbern eine über lange Zeit bestehende Bindung unterhält.[^6] Wang Yu-chao kalkulierte bei der Pressekonferenz 2025 die Reproduktionsrate: Ein Weibchen schafft es im Durchschnitt etwa alle fünf Jahre, ein Kalb erfolgreich großzuziehen. Sein Fazit: „Insgesamt gibt es in Taiwan pro Jahr nur etwa zwei bis drei neue Delfinkälber; die Zahlen sind wirklich begrenzt.“[^2]
 
-📝 **Redaktionsnotiz:** Ein glaubwürdiger Artikel über den Schutz wählt nicht einfach die trübste Zahl, sondern erklärt für jede Zahl das Jahr, die Methode und die Evidenzlage.
+Dies macht die „Habitatdegradierung“ zu einer sehr konkreten Bedrohung. Landgewinnung, Umleitung von Süßwasser, Verschmutzung oder Baulärm verändern zuerst die Fischbestände und Strömungen, was dazu führt, dass die Delfine mehr Zeit für die Nahrungssuche aufwenden müssen. Für eine Population mit langsamer Fortpflanzung und begrenztem Aktionsradius lassen sich solche Veränderungen kaum durch einen Umzug in ein anderes Gebiet lösen – denn es gibt kein anderes Gebiet.[^3] [^6]
 
-![Indopazifischer Schweinswal in Gruppierung an der Wasseroberfläche](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg)
+## Das letzte Mal an Land: OCA023
+
+Am 22. November 2025 wurde ein ausgewachsenes Männchen tot am Strand von Shengang, Changhua, gefunden; der Kadaver war durch Sonneneinstrahlung und Schlamm kaum noch zu erkennen. Forscher bestätigten nach dem Abgleich von Fotos, dass es sich um das Individuum OCA023 mit dem Namen „Scissors“ handelte.[^8] Seit 2009 gab es in Taiwan mindestens 10 Fälle von Strandungen und Todesfällen, verteilt auf Changhua, Taichung, Miaoli und Tainan.[^8]
+
+In der Erhaltungsbiologie wird die _Potential Biological Removal_ (PBR) verwendet, um zu schätzen, wie viele anthropogene (menschliche) Todesfälle eine Population maximal tolerieren kann. Die _Taiwan Wild Heart Ecology Association_ berechnete darauf basierend, dass die PBR für die Weißen Delfine in Taiwan nur einen Todesfall alle 7 bis 7,6 Jahre zulässt.[^8] Von den 10 Strandungen in über einem Jahrzehnt sind nicht alle Todesursachen zweifelsfrei geklärt oder zwingend menschlichen Einflüssen zuzuschreiben; die Vereinigung vertritt dennoch die Ansicht, dass die Sterblichkeitsrate der letzten Jahre diese Grenze weit überschritten hat.
+
+Wang Yu-chao beschreibt diesen Abwärtstrend als „Ausrottungswirbel“ (_extinction vortex_): Sobald die Populationsgröße einen kritischen Punkt unterschreitet, ist eine Erholung selbst bei überlebenden Individuen kaum noch möglich. Wo dieser Punkt liegt, weiß niemand. Er sagte: „Wir wissen eigentlich noch nicht, wo der kritische Schwellenwert für Wal- und Delphinpopulationen liegt. Niemand hat jemals den Ausrottungsprozess einer marinen Säugetierpopulation so lange verfolgt; vielleicht erleben wir gerade den weltweit ersten solchen Fall.“[^2]
+
+## Von „Bai-fu“ zu einer wissenschaftlich benannten Unterart
+
+Die Fischer an der Westküste wissen schon lange, dass es im Meer eine weiße Delfinart gibt. Laut _Taiwan Guanghua_ nennen die Fischer in Changhua sie „Bai-fu“ (白鯃), während sie in der Gegend um Kinmen und Xiamen oft als „Mazu-Fisch“ bezeichnet werden.[^9] Diese Namen stehen nicht in der akademischen Klassifikation, bewahren aber, wie die Bewohner des Meeres die Tiere identifizieren, erinnern und über sie sprechen.
+
+Im Jahr 2002 begannen die systematischen Untersuchungen in Taiwan. Ein Fachartikel des IUCN weist darauf hin, dass der Weiße Delfin in Taiwan erst 2002 wissenschaftlich dokumentiert wurde und erst 2015 offiziell als Unterart des Indopazifischen Buckeldelfins (_Sousa chinensis taiwanensis_) beschrieben wurde.[^5] Die Fischer sahen sie schon viel früher; die wissenschaftliche Benennung markiert lediglich das Jahr, in dem das Forschungssystem endlich in der Lage war, sie in die Aufzeichnungen aufzunehmen.
+
+Die Namensgebung erfolgte 2015 in einer Arbeit von Wang Yu-chao (John Y. Wang), Shih Chu Yang und dem Hongkonger Wissenschaftler Samuel K. Hung, veröffentlicht in _Zoological Studies_. Sie verglichen die taiwanesische Population mit den nächstgelegenen Gruppen im Jiulong-Ästuar und im Perlfluss-Delta und fanden subtile, aber deutliche Unterschiede in den Farbmuster der Flecken. Die Verbreitungsgebiete überschneiden sich kaum; zusammen mit der geografischen Isolation und Verhaltensunterschieden rechtfertigte dies die Einstufung als eigenständige Unterart.[^10] In Xiamen und Hongkong gibt es ebenfalls Chinesische Weiße Delfine, aber die Gruppe an der Westküste Taiwans ist weltweit einzigartig. Wenn sie verschwinden, können die Populationen auf der anderen Seite des Meeres diesen Verlust nicht ausgleichen.
+
+Frühe Berichte von _Taiwan Guanghua_ beschreiben, wie das Forschungsteam in den Küstengewässern von Miaoli, Taichung und Changhua nach Weißen Delfinen suchte und Individuen anhand von Fotos identifizierte. Forscher müssen Zeit, Ort, Verhalten und die spezifischen Kerben an der Rückenflosse jedes Sichtungseintrags zusammenführen, um die Populationsgröße zu schätzen; eine einzelne Sichtung auf See bedeutet nicht automatisch „ein weiteres Tier“.[^9]
+
+> 📝 **Anmerkung der Kuratoren:** „Bai-fu“ und der wissenschaftliche Name sind zwei nebeneinander existierende Wissenssysteme – eines basiert auf jahrelanger Erfahrung auf See, das andere auf Fotos, Modellen und Statistiken. Was Taiwan wirklich fehlt, ist ein Tisch, an dem beide Wissensformen gemeinsam bei der Prüfung von Entwicklungsprojekten und im Fischereimanagement vertreten sind.
+
+![Indopazifischer Buckeldelfin in Seitenansicht](https://upload.wikimedia.org/wikipedia/commons/a/a3/Sousa_chinensis_%283%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-Gruppenaufnahmen werden leicht als Populationsgröße fehlinterpretiert, aber ein Bild mit mehreren Tieren zeigt nur die sichtbaren Exemplare zu einem bestimmten Zeitpunkt. Bei der Schätzung der Populationsgröße muss berücksichtigt werden, dass ein und dieselbe Delphin mehrfach gesehen werden kann, dass einige übersehen werden, dass sich die Saison und das Untersuchungsgebiet unterscheiden und dass die visuelle Eindruckswirkung der Aufnahmen nicht die Schätzungsmethodik ersetzen kann. [^2]
+In der Forschung helfen die Rückenflosse, der Höcker auf dem Rücken, die Flecken und die Körperfarbe dabei, Individuen zu identifizieren oder das Alter zu bestimmen. Ein Internetbild ohne Zeit- und Ortsangabe dient nur zur morphologischen Erkennung; eine echte Populationsschätzung erfordert langfristige, reproduzierbare Daten durch Foto-Identifikation.[^5] [^9]
 
-Wenn man diese Zahlen alle auf dieselbe Frage zurückführt, zeigen sie alle in die gleiche Richtung: Es handelt sich um eine kleine, schmale Population, die von der Küstenzone abhängt und ohne klare Bedrohungen weiterhin rückläufig ist. Der IUCN-Bericht weist darauf hin, dass zwei Populationsanalysen unter Berücksichtigung von durch Fischerei verursachten Todesfällen und Lebensraumverlust eindeutig auf eine fortschreitende Abnahme hindeuten. [^2]
+## 99, 74, 45: Die Hälfte verloren in zwanzig Jahren
 
-## Der Mensch am anderen Ende des Netzes
+Im selben Jahr liest man in den Nachrichten vielleicht „weniger als 50 Tiere“, während in offiziellen Dokumenten „70 Tiere“ stehen. Beide Zahlen haben ihre Quelle. Die Monitoring-Daten der _Marine Conservation Administration_ für die Jahre 2023 bis 2024 identifizierten 70 Individuen; dies ist die kumulierte Gesamtzahl aller seit 2010 fotografierten Tiere, einschließlich solcher, die möglicherweise bereits verstorben sind oder seit vielen Jahren nicht mehr gesichtet wurden. Nachdem Forscher Individuen, die fünf aufeinanderfolgende Jahre nicht mehr gesichtet wurden, herausrechneten, ergab die geschätzte Populationsgröße etwa 60 Tiere.[^11]
 
-Der Schutz der Delphine wird oft zu einfach dargestellt: „Die Fischer schädigen die Delphine.“ Doch eine von Airiti gesammelte Studie zeigt ein komplexeres Bild. Eine Studie von Ko Meng-chen aus dem Jahr 2011, die 127 Fischerinterviews von Mai 2010 bis April 2011, Ressourcenüberlappungsindizes und langfristige Daten zur Käfigfischerei auswertete, untersuchte die potenzielle Nahrungskonkurrenz zwischen der taiwanesischen Westküsten-Fischerei und den Delphinen. [^5]
+Die wissenschaftlichen Schätzkurven zeigen stetig nach unten. Die IUCN-Seite gibt an, dass die durch Foto-Identifikation basierende Markierungs-Wiederfang-Analyse für das gesamte Jahr 2010 eine Höchstzahl von etwa 74 Tieren schätzt; für den Zeitraum 2011 bis 2013 lag sie zwischen 67 und 71. Der Zustand wird als „vom Aussterben bedroht“ beschrieben, mit weniger als 75 Tieren insgesamt und weniger als 50 geschlechtsreifen Individuen.[^5] Die NOAA Fisheries-Seite gibt weniger als 100 verbleibende Individuen an und vermerkt, dass die USA den Weißen Delfin in Taiwan 2018 unter den _Endangered Species Act_ gestellt haben.[^6] Im Sommer 2025 schätzt Wang Yu-chao die Zahl auf 45 bis 50; seine Aussage ist, dass sich die Population innerhalb von zwanzig Jahren halbiert hat.[^2]
 
-Die Studienzusammenfassung weist darauf hin, dass 54 % der untersuchten Fischereibetriebe mit dem Hauptlebensraum der Delphine überlappen. Innerhalb dieser Überlappungszone machten Käfignetze 94 % der Hauptfischereimethoden aus. Dies ist nicht „alle Fischer tun dasselbe“, sondern zeigt, dass Delphine und Küstenfischerei tatsächlich einen schmalen Ressourcenraum teilen. [^5]
+![Indopazifischer Buckeldelfin Gruppe an der Oberfläche](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg)
 
-Dieselbe Studie ergab, dass 42 % der befrageten Fischer glauben, dass die Fischereierträge in den letzten zehn Jahren zurückgegangen sind, und 49 % sahen industrielle Verschmutzung und illegale Schleppnetze innerhalb von drei Seemeilen als Ursachen. Die Forschung zeigte auch, dass die Meinungen der Fischer darüber, ob die Delphine die Fischerei beeinträchtigen, nicht einheitlich sind. Diese Daten verdeutlichen, dass auch die Fischer von der Ressourcenverknappung betroffen sind – ihre Verluste erscheinen jedoch selten in Schutzplakaten. [^5]
+_Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-📝 **Redaktionsnotiz:** Fischerei und Delphine sind keine feindlichen Gruppen. Sie teilen dasselbe, was unter vielen anderen Nutzungen der Küstenzone bereits unter Druck steht: das Nahrungsnetz.
+Die Zahlen vor Ort auf See stammen aus einer anderen Beobachtung: Die Dokumentation „Unsere Insel“ (我們的島) des öffentlich-rechtlichen Senders PTS eröffnete das Jahr 2026 mit der Angabe „etwa 40 Tiere“. Befragte zivile Beobachter sagten, dass die größte Gruppe, die sie im Hafen von Taichung sahen, im Jahr 2025 aus 9 und im Jahr 2026 aus 14 Tieren bestand, und vermuteten, dass dies ein Gebiet für Aufzucht, Nahrungssuche und Ruhe sei.[^12] Die Untersuchung der _Marine Conservation Administration_ für das Jahr 2025 verzeichnete insgesamt 17 Sichtungen von Gruppen; fast die Hälfte davon waren Aufzuchtsgruppen mit Muttertieren und Kälbern. Im Laufe des Jahres wurden 25 Kälber registriert, von denen 4 erkennbare Flecken und Kerben entwickelten und somit offiziell nummeriert wurden.[^7]
 
-IUCN listet den Kontakt mit der Fischerei als eine unmittelbare und dringende Bedrohung auf und dokumentiert, dass fast 60 % der Exemplare Spuren schwerer, von Menschen verursachter Verletzungen aufweisen, wobei mehr als 31 % der Tiere in Bildern mit Fischereiutensilien oder Verletzungen durch solche zu sehen sind. Diese Prozentsätze stammen aus von IUCN zitierter Studien und können nicht direkt auf jede Fischereimethode oder jeden Hafen übertragen werden. [^2]
+Setzt man diese Zahlen in den Kontext der Kernfrage, weisen sie alle in dieselbe Richtung: Es handelt sich um eine kleine, räumlich begrenzte Population, die auf Küstenumgebungen angewiesen ist und deren Bedrohungen nicht abgenommen haben. Laut IUCN deuten zwei Überlebensanalysen der Population – unter Berücksichtigung von Beifangsterblichkeit sowie Habitatverlust und -degradierung – beide auf einen höchst wahrscheinlichen Abwärtstrend hin.[^5] Die 4 neu nummerierten Kälber zeigen, dass sie sich noch fortpflanzen; ob sie erwachsen werden, hängt davon ab, wie dieses Meer in Zukunft genutzt wird.
 
-Daher kann der Schutz der Delphine nicht allein durch das Kommando „nicht fangen“ funktionieren. Man muss wissen, welche Netze, in welcher Jahreszeit, in welchem Gewässerbereich und unter welchem Meldesystem am wahrscheinlichsten zu einem geringeren Risiko führen, und man muss den Fischern ermöglichen, nicht allein die Kosten des öffentlichen Artenschutzes zu tragen. Die Koordination vor der offiziellen Bekanntgabe des Schutzgebiets 2020 begann genau hier. [^6]
+## Die Menschen am anderen Ende des Netzes
 
-## Was hat sich durch das gesetzliche Schutzgebiet geändert
+Der Schutz von Delfinen wird oft vereinfacht als „Fischer schaden den Delfinen“ dargestellt; eine in _Airiti_ aufgenommene Studie zeichnet jedoch ein komplexeres Bild. Eine Studie von Ke Meng-chen aus dem Jahr 2011 untersuchte mittels Interviews mit 127 Fischern zwischen Mai 2010 und April 2011, Indikatoren für die Überschneidung der Ressourcennutzung und langfristiger Daten aus Stellnetzfängen den potenziellen Wettbewerb um Nahrungsressourcen zwischen der Küstenfischerei und dem Weißen Delfin.[^13]
 
-Am 1. September 2020 wurde das wichtige Lebensraumgebiet der Chinesischen Weißen Delphine offiziell bekanntgegeben. Es erstreckte sich von der Dragon-Phoenix-Harbor-Mündung in Miao-Li im Norden bis zum Jialu-Lighthouse im Süden von Chiayi, mit einer Gesamtfläche von 76.300 Hektar. Ein Bericht des Umweltinformationszentrums dokumentierte, dass diese Bekanntgabe nach einem Prozess ging, der 2008 mit der Einstufung als geschützte Art begann, gefolgt von Forschungsuntersuchungen, der Ankündigung 2014 und schließlich der Abstimmung mit verschiedenen Interessengruppen. [^6]
+Die Zusammenfassung der Studie zeigt, dass 54 % der befragten Fischereibetriebe mit den Haupthabitaten des Weißen Delfins überlappen; in diesem Überlappungsbereich entfallen 94 % auf Stellnetze.[^13] Diese Zahlen verdeutlichen, dass Delfine und die Küstenfischerei denselben engen Ressourcenraum teilen – die Netze werden genau dort ausgelegt, wo die Delfine nach Fischen suchen.
 
-Die Bekanntgabe bedeutete nicht, dass das gesamte Meer zu einer komplett fischerei-freien Zone wurde. Ein Zitat des Meeresschutzamtes im Umweltinformationszentrum erklärte, dass bestehende, nicht auf die Delphine ausgerichtete Fischereiaktivitäten nicht automatisch durch die Einrichtung des Schutzgebiets verboten wären. Innerhalb des Gebiets dürfen jedoch keine Entwicklungen oder Nutzungen stattfinden, die die ursprüngliche ökologische Funktion beeinträchtigen; bei Bedarf ist eine Umweltverträglichkeitsprüfung erforderlich und eine Genehmigung durch die zuständige Behörde nötig. [^6]
+In derselben Studie gaben 42 % der befragten Fischer an, dass die Fischereiressourcen in den letzten zehn Jahren abgenommen haben; 49 % nannten industrielle Verschmutzung und illegale Schleppnetzfischerei innerhalb der 3-Meilen-Zone als Gründe. Die Studie stellte zudem fest, dass die Meinung der Fischer darüber, ob das Auftreten von Weißen Delfinen den Fang reduziert, uneinheitlich ist.[^13] Die Fischer leiden ebenfalls unter dem Rückgang der Ressourcen, doch ihr Verlust erscheint selten auf Naturschutzplakaten.
 
-Dieser Unterschied ist wichtig. Das gesetzliche Schutzgebiet ist kein Schild, der Menschen den Zugang zum Meer verbietet, sondern ein Regelwerk, das ökologische Funktionen in Entwicklungsgenehmigungen, Überwachung, Bildung und lokale Beteiligung integriert. Es erkennt an, dass die Fischer bereits in diesem Meer arbeiten, und verlangt gleichzeitig, dass neue Projekte nicht so tun, als gäbe es keine anderen Bewohner im Meer. [^1] [^6]
+Der IUCN listet Interaktionen mit der Fischerei als direkte und dringende Bedrohung auf und hält fest, dass bei fast 60 % der Individuen schwere Verletzungen durch menschliche Aktivitäten nachgewiesen wurden; bei über 31 % der Tiere wurde dokumentiert, dass sie Fischereigeräte mit sich führten oder Verletzungen aufwiesen, die wahrscheinlich durch solche Geräte verursacht wurden.[^5] Bei einem internationalen Expertenworkshop im August 2019 in Ontario, Kanada, waren sich die Teilnehmer einig: Die vollständige Entfernung von Stellnetzen und Dreischicht-Stellnetzen aus dem Habitat ist die einzige Maßnahme unter allen Strategien, die sofort Wirkung zeigen kann.[^14]
 
-📝 **Redaktionsnotiz:** Ein wirklich wirksamer Schutzbereich sagt nicht nur, was man nicht tun darf, sondern auch, wer für die Überwachung verantwortlich ist, wer die Kosten der Anpassung trägt und wie Verstöße kompensiert werden.
+Wer die Kosten für das Einholen der Netze trägt, ist die andere Seite derselben Frage. Die Naturschutzpolitik muss wissen, welche Art von Netz, in welcher Saison, in welchem Gewässerabschnitt und welches Entschädigungssystem das Risiko am effektivsten senkt – und sie muss sicherstellen, dass Fischer die Kosten des öffentlichen Naturschutzes nicht allein aus ihrem eigenen Einkommen tragen müssen. Die Koordination rund um die Bekanntmachung des gesetzlichen Habitats im Jahr 2020 begann genau hier.[^4]
 
-## Die 60 Hektar im Hafen von Taichung
+## 763 km² in die Karte gezeichnet
 
-Im April 2026 berichtete das öffentliche Fernsehen in der Sendung _Our Island_ über die Flusenarbeiten für den neuen Hafen von Taichung. Geplant sind 60 Hektar Flusenmaterial, die für die Entwässerung, Windenergie, grünen Wasserstoff und Flüssiggas Infrastruktur genutzt werden sollen. Das Projekt liegt innerhalb des Schutzgebiets der Delphine und bringt somit „gesetzliches Schutzgebiet“ und „Hafenprojekt“ in eine Nachricht. [^7]
+Das am 1. September 2020 bekanntgegebene wichtige Habitat des Chinesischen Weißen Delfins erstreckt sich von Longfenggang in Miaoli im Norden bis zum Leuchtturm Wansanding in Kaohsiung im Süden, mit einer Gesamtfläche von 76.300 Hektar. Das _Environmental Information Center_ berichtet, dass diese Bekanntmachung nach der Einstufung als geschützte Art im Jahr 2008, Forschungsuntersuchungen, einer Vorankündigung im Jahr 2014 und Koordination mit verschiedenen Interessengruppen erst offiziell in Kraft trat.[^4]
 
-Der Bericht präsentiert zwei gegensätzliche Positionen: Verkehrs- und Hafenbehörden argumentieren, dass die Flusenzone innerhalb der bestehenden Wellenbrecher liegt und daher keine Umweltverträglichkeitsprüfung erforderlich sei. Bürgergruppen und Anwälte halten dagegen, dass das Projekt auf offenes Wasser trifft und daher einer Umweltverträglichkeitsprüfung unterliege. Der Artikel darf nicht für Gerichte oder Behörden vorweg entscheiden, aber er kann klarstellen, dass die Debatte darum dreht, ob die bestehenden Projektgrenzen ausreichen, um die ökologischen Auswirkungen abzubilden. [^7]
+Das _Environmental Information Center_ zitiert die _Marine Conservation Administration_ dahingehend, dass bestehende Fischereipraktiken, die nicht primär auf den Weißen Delfin abzielen, durch die Ausweisung des wichtigen Habitats nicht automatisch illegal werden; die Bekanntmachung macht das gesamte Meer nicht zu einer absoluten Verbotszone für die Fischerei. Die Entwicklung innerhalb der Zone darf die ursprünglichen ökologischen Funktionen nicht zerstören; falls erforderlich, müssen Umweltverträglichkeitsprüfungen durchgeführt und von den zuständigen Behörden genehmigt werden.[^4]
 
-Der Bericht des öffentlichen Fernsehens dokumentierte auch, dass lokale Beobachter 2025 die größte beobachtete Gruppe mit neun Delphinen und 2026 mit 14 Delphinen im Hafen von Taichung sahen und vermuteten, dass es sich um eine Brut- und Rastplatzregion handelt. Diese Angaben stammen aus journalistischen Interviews und Beobachtungen und sind keine offizielle Populationsstatistik. Ihr Wert liegt darin, dass vor der Projektbewertung nicht nur gefragt werden darf, ob Delphine dort vorkommen, sondern auch, was sie dort tun. [^7]
+Das gesetzliche Habitat ist somit ein System, das ökologische Funktionen in die Prüfung von Bauvorhaben, das Monitoring, die Bildung und die lokale Beteiligung integriert. Es erkennt an, dass Fischer bereits in diesem Meer arbeiten, verlangt aber auch, dass neue Projekte nicht so tun können, als gäbe es dort keine anderen Bewohner.[^3] [^4] Die Herausforderung, vor der dieses System steht, resultiert aus zwei Arten von Projekten, die sich beide auf „bestehende Entwicklung“ oder „grüne Energie“ berufen.
 
-📝 **Redaktionsnotiz:** Die schwierigste Seite einer Entwicklungsdebatte ist nicht, sich auf die Seite der Delphine oder des Hafens zu schlagen, sondern anzuerkennen, dass ein Hafen möglicherweise auch der Arbeitsplatz einiger Familien und der Brutplatz einiger Delphine ist.
+> 📝 **Anmerkung der Kuratoren:** Ein wirklich nützliches Schutzgebiet sagt den Menschen nicht nur, was sie wo nicht tun dürfen, sondern legt auch fest, wer für das Monitoring verantwortlich ist, wer die Umstellungskosten trägt und wie Verstöße behoben werden können.
 
-Greenpeace Taiwan bezeichnet die Delphine in ihrer Kampagne als „Matsu Fish“ und fasst deren Farbe, Verbreitung, Forschungsmethoden und Bedrohungen des Lebensraums zusammen. Solche Schutzinitiativen bringen eine Art, die ursprünglich nur an der Westküste bekannt war, in die öffentliche Debatte aller Regionen Taiwans, doch die Sprache der Initiativen muss klar von den offiziellen Bekanntgaben und wissenschaftlichen Schätzungen getrennt bleiben. [^8]
+## Dreißig Minuten vor dem Rammen der Pfähle
 
-## Das wahre „Zuhause“
+Der Offshore-Windpark vor der Küste von Changhua ist der neue Nachbar in diesem Flachwassergebiet. Gemäß den Zusagen aus den Umweltverträglichkeitsprüfungen der Windparks müssen vor dem Rammen der Pfähle mindestens 30 Minuten lang kontinuierliche Beobachtungen von Walen und Delphinen durchgeführt werden, um sicherzustellen, dass sich keine Tiere in der Sperrzone befinden; die Sperrzone umfasst normalerweise einen Radius von 750 Metern um den Rammpunkt. Wenn ein Tier eintritt, muss die Arbeit unterbrochen werden, und der Baulärm darf 160 Dezibel nicht überschreiten.[^15] [^16]
 
-Die Schutzgeschichte der taiwanesischen Delphine hat einen weniger glorreichen Wendepunkt: 2002 begannen die Forscher planmäßig mit der Suche nach ihnen. 2020 brachte die Regierung die Delphine auf die Karte. 2026 wird immer noch darüber diskutiert, ob ein Projekt eine Umweltverträglichkeitsprüfung erfordert. Gesehen, benannt und geschützt zu werden, bedeutet noch nicht, dass sie sicher geblieben sind. [^2] [^6] [^7]
+Die Regeln auf dem Papier müssen von den Menschen auf See umgesetzt werden. Am 14. April 2025 beobachteten Umweltgruppen bei einer ökologischen Untersuchung vor dem Changbin Industrial Park ein Mutter-Kind-Paar von Weißen Delfinen, hinter denen ein Überwachungsboot herfuhr; sie dokumentierten dies per Video und warfen dem Windparkbetreiber daraufhin drei Mängel vor: Annäherung eines Fischerbootes, Fälschung der Beobachtungsaufzeichnungen und Überschreitung des Lärmgrenzwerts. Die _Marine Conservation Administration_ leitete eine Untersuchung ein.[^15] Statistiken des _Environmental Management Agency_ des Umweltministeriums zeigen, dass 10 Windparks insgesamt mit 15,795 Millionen NT$ bestraft wurden, wobei die Überschreitung des Unterwasserschalls der häufigste Verstoß war.[^15]
 
-Für die Delphine ist das wahre Zuhause kein Polygon auf einem Papier. Es muss sicherstellen, dass Fisch in den Gewässern bleibt, dass die Fischer klarere Regeln vorfinden, dass Bauprojekte vor dem Bau wissen, dass Unterwasserlärm und Flusenarbeiten keine Nachbesserung sind, und dass jede Populationszählung das Jahr, die Methode und die Unsicherheit enthält. [^1] [^2] [^5]
+Offshore-Windenergie ist Teil der Energiewende Taiwans. Das Problem der Weißen Delfine liegt in der Art und Weise, wie die Windparks gebaut werden: Standorte sollten Hitzezonen meiden, der Lärm muss unter den Standards bleiben und die Aufzeichnungen der Beobachter müssen extern prüfbar sein. Die Projekte zur CO₂-Reduktion und eine Unterart, von der nur noch wenige Dutzend übrig sind, nutzen dasselbe Flachwassergebiet.
 
-Man muss also sehen, dass die taiwanesischen Delphine kein hübsches Accessoire der Küste Taiwans sind. Sie verbinden Dinge, die man normalerweise nicht zusammen denkt: ein Netz, ein Hafen, eine Flussmündung, ein Genehmigungsverfahren und eine Population von wenigen Dutzend bis wenigen hundert Individuen in der Küstenzone. [^2] [^3] [^6]
+## 4 Millionen Kubikmeter Abfallmaterial in der südlichen Aufschüttungszone des Hafens von Taichung
 
-Wenn nächstes Mal jemand sagt: „Die taiwanesischen Delphine haben endlich ein Zuhause.“, kann man die Frage weitergeben: Sind die Regeln in diesem Zuhause auch für die Menschen, die am Meer arbeiten, lebenswert? Wenn die Antwort noch nicht eindeutig ist, dann sind 763 Quadratkilometer nicht das Ende, sondern der Anfang davon, dass Taiwan endlich lernt, mit einem Nachbarn zu leben, der nicht für sich selbst sprechen kann. [^1] [^6] [^7]
+Ein Bericht von PTS „Unsere Insel“ im Jahr 2026 über das Deichbauprojekt in der neuen Aufschüttungszone des Hafens von Taichung sieht eine Landgewinnung von 60 Hektar vor, um Baggergut aufzunehmen sowie Platz für Windenergie, grünen Wasserstoff und Flüssigerdgas zu schaffen. Dieses Projekt liegt direkt innerhalb des wichtigen Habitats der Weißen Delfine.[^12] Die Verkehrs- und Hafenbehörden argumentieren, dass sich die Aufschüttungszone innerhalb der bestehenden Wellenbrecher befinde und daher gesetzlich keine Umweltverträglichkeitsprüfung (UVP) erfordliche sei; zivile Gruppen und Anwälte machen jedoch geltend, dass das Projektgebiet offenes Wasser umfasst und gemäß dem UVP-Gesetz bewertet werden muss.[^12]
 
-Die Bekanntgabe des Schutzgebiets sollte daher als Beginn und nicht als Werbematerial verstanden werden. Sie erfordert eine kontinuierliche Überwachung durch die Regierung und eine gegenseitige Lesbarkeit von Daten zwischen Projekten, Fischerei und Naturschutz. Wenn jede Partei nur ihre eigenen Zahlen speichert, werden die Delphine in den Lücken der Daten weiterhin leben. [^1] [^6]
+Am 14. Juli reichten Umweltgruppen eine Bürgerbekanntmachung beim Umweltministerium ein, um sofortige Strafen zu fordern und die Hafenbehörde anzuweisen, die Landgewinnung zu stoppen. Sie wiesen darauf hin, dass dieses Projekt mehr als 50 Hektar Land gewinnt, die Hafenbehörde das Gebiet jedoch als „innerhalb der bestehenden Wellenbrecher“ bezeichnet.[^17] Die Unterschriftenaktion, die im August während des Taifuns „Baihaiqun“ gestartet wurde, hatte bis zum Nachmittag des 31. August 32.748 Unterzeichner und über 195 Organisationen, die dagegen erklärten. Ab September sollen in der südlichen Aufschüttungszone weitere 4 Millionen Kubikmeter Abfallmaterial aufgeschüttet werden.[^1] [^18] Umweltgruppen schätzen, dass der Hafen von Taichung die Projekte der CPC-Phase 2/4 und der Taipower-Phase 5 zusammenrechnet insgesamt etwa 14 Millionen Kubikmeter Abfallmaterial und 1,05 Millionen Kubikmeter Recyclingmaterial aufschütten wird, wodurch etwa 760 Hektar des Außenhafens dauerhaft verschwinden werden – das entspricht etwa 24 % der Fläche des Außenhafens.[^18]
 
-Für die taiwanesische Westküste bedeutet der Schutz der Delphine gleichzeitig das erneute Lernen, wie man die Küste richtig nutzt. Dieses Lernen hat keine einzige, vollständige Antwort, aber es kann beginnen mit der Unterscheidung der Zahlen, der Einbeziehung der Fischer und der Anerkennung, dass das Meer bereits vor Baubeginn bewohnt ist.
+Am 16. September erklärte die spezialisierte Anwältin Tsai Ya-ying (蔡雅瀅) der _Taiwan Wild Heart Ecology Association_ auf einer Pressekonferenz, dass bei einer Landgewinnung von über 50 Hektar eine zweite Stufe der UVP erforderlich sei; dieses Projekt plane jedoch 50 Hektar, und das Umweltministerium lasse es ohne UVP durchgehen. Die Umweltgruppen kündigten an, im Namen der Weißen Delfine eine Bürgerklage vor dem Verwaltungsgericht einzureichen.[^19] Am 22. September äußerte Xu Wan-ling (徐宛令), Geschäftsführerin der _Earth Heart Environmental Care Association_, auf einer anderen Pressekonferenz Zweifel am ökologischen Selbstprüfungsbericht der Hafenbehörde: „Gibt es hier geschützte Tiere? Er hat tatsächlich angekreuzt, dass es keine gibt – das ist eine Lüge.“[^20]
+
+Die Regierung reagierte auf einem anderen Zeitstrahl. Das Verkehrsministerium erklärte, internationale Hafenpläne würden alle fünf Jahre überprüft; der aktuelle Plan basiere auf der Genehmigung des Exekutiviums aus dem Jahr 2016, die dieses Meeresgebiet damals bereits als Ort für die Lagerung von Baggergut festgelegt habe, was eine bestehende Entwicklung darstelle. Die beiden ökologischen Selbstprüfungsberichte der Hafenbehörde nach Baubeginn im Jahr 2021 und im Mai 2023 entsprächen den damaligen Vorschriften.[^21] Die _Marine Conservation Administration_ erklärte, man respektiere die Einstufung des zuständigen Verkehrsministeriums als „bestehendes Entwicklungsprojekt“.[^20]
+
+Die Argumente beider Seiten machen den Streitpunkt deutlich: Kann ein im Jahr 2016 genehmigter Hafenplan dazu führen, dass ein erst 2020 ausgewiesenes wichtiges Habitat angesichts von Bauarbeiten unwirksam wird? Diese Frage liegt nun vor Gericht. Das Urteil wird entscheiden, ob die vier Worte „bestehende Entwicklung“ oder die Karte mit den 763 km² das letzte Wort haben.
+
+> 📝 **Anmerkung der Kuratoren:** Der schwierigste Punkt bei Entwicklungskonflikten ist die Anerkennung, dass ein Hafen gleichzeitig der Arbeitsplatz für einige Familien und das Aufzuchtgebiet für einige Delfine sein kann. Den Streit auf „Hafen oder Delfin“ zu reduzieren, führt dazu, dass beide Seiten verlieren.
+
+## Ein Sumpfgebiet für 119 NT$
+
+Das erste Mal, dass die Weißen Delfine in ganz Taiwan gesehen wurden, war vor sechzehn Jahren im Zusammenhang mit dem Guoguang-Petrochemieprojekt. Die geplante Petrochemiefabrik am Mündungsbereich des Zershui-Flusses in Dacheng, Changhua, wurde von _Taiwan Guanghua_ dokumentiert;[^9] „Die Weißen Delfine biegen ab“ wurde in jenen Jahren zu einem weit verbreiteten Satz. Dieser Satz wurde oft dem damaligen Vorsitzenden des Exekutiviums, Wu Den-yih (吳敦義), zugeschrieben, der 2017 erregt erklärte: „Was für ein 'Weiße Delfine biegen ab' – diesen Satz habe ich nie gesagt.“[^22]
+
+Die zivile Reaktion war der Kauf von Land: Anfang April 2010 startete die Aktion „Volksaktien“ (_全民認股_), um über einen Umwelt-Trust staatliches Land im Sumpfgebiet des Zershui-Flusses zu erwerben – für 119 NT$ pro Aktie.[^23] [^24] Bis Juli desselben Jahres hatten sich über 30.000 Menschen bereit erklärt, Anteile zu kaufen, mit einer Gesamtsumme von über 160 Millionen NT$. Damit wurde Taiwans erster Umwelt-Trust offiziell eingereicht.[^23]
+
+Am 22. April 2011 hielt Präsident Ma Ying-jeou im Präsidialamt eine Pressekonferenz ab und erklärte, dass er das 600 Billionen NT$ schwere Guoguang-Petrochemieprojekt nicht unterstütze.[^25] Damals sorgte eine Gruppe von Delfinen, die nicht für sich selbst sprechen konnten, dafür, dass über 30.000 Taiwaner Anteile unterschrieben, um für sie zu sprechen.
+
+> 📝 **Anmerkung der Kuratoren:** 2011 wurde eine noch nicht gebaute Petrochemiefabrik gestoppt; der Streit von 2026 findet in einem bereits existierenden Hafen statt. Ersteres konnte durch den Kauf eines Sumpfgebiets durch die Bevölkerung erreicht werden; letzteres verlagert das Schlachtfeld auf UVP-Gesetzestexte und die Definition von „bestehender Entwicklung“. Was benötigt wird, ist eine andere Form bürgerlichen Engagements: Menschen, die Behördenschreiben verstehen und bereit sind, vor Gericht zu ziehen.
+
+## Nachdem der Taifun „Baihaiqun“ abgezogen ist
+
+Der Taifun „Baihaiqun“ zog bereits im August ab; sein Name wird in den meteorologischen Aufzeichnungen bleiben. Die echten Weißen Delfine befinden sich noch immer in dem schmalen Flachwasserstreifen zwischen Miaoli und Yunlin. Die Untersuchung der _Marine Conservation Administration_ vom letzten Jahr verzeichnete 4 neugeborene Kälber mit Flecken und Kerben, die zum ersten Mal ihre eigenen Nummern erhielten.[^7]
+
+Wang Yu-chao verglich bei der Pressekonferenz 2025 die Situation mit den Vaquitas im Golf von Kalifornien, von denen nur noch 10 übrig sind, aber die zumindest unter Schutz stehen. Er sagte: „Diese beiden Arten scheinen zu konkurrieren, wer die ‚zweite ausgestorbene Art‘ wird.“[^2] Das Ergebnis dieses Wettlaufs steht noch nicht fest.
+
+Im Jahr 2002 begannen Forscher mit der Suche; im Jahr 2010 kauften über 30.000 Menschen Anteile, um Land für sie zu erwerben; im Jahr 2020 zeichnete die Regierung ihr Zuhause in gesetzliche Karten ein; im Jahr 2026 klagen Menschen für sie vor Gericht – jeder Schritt wurde von den Menschen in Taiwan selbst vollzogen. Ob die 763 km² zu einem wirklich sicheren Meer werden können, liegt in der Antwort auf die Nutzung der Aufschüttungszone im Hafen von Taichung, der Rammschiffe vor der Küste von Changhua und den Stellnetzen der Fischer an der Westküste – und darauf, woran die Menschen denken, wenn sie das nächste Mal von „Weißen Delfinen“ sprechen.
 
 ## Weiterführende Literatur
 
-- [Meeresschutzamt: Schutzgebiet der taiwanesischen Delphine](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360)
+- [Marine Conservation Administration: Schutzbereich für Weiße Delfine in taiwanesischen Gewässern](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360)
 - [IUCN SSC Cetacean Specialist Group: Taiwanese humpback dolphins](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/)
-- [Airiti: Potenzielle Nahrungskonkurrenz zwischen taiwanesischen Delphinen und Küstenfischerei](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000)
-- [Unser Insel: Die Tage, an denen das Meer aufgefüllt wurde: Hafen von Taichung und taiwanesische Delphine](https://ourisland.pts.org.tw/content/11919)
+- [Environmental Information Center: Weniger als 50 Weiße Delfine in Taiwan; Wissenschaftler Wang Yu-chao: Population sinkt jährlich um ca. 3–4 %](https://e-info.org.tw/node/241746)
+- [Unsere Insel: Die Tage der Landgewinnung: Hafen von Taichung und Taiwans Weiße Delfine](https://ourisland.pts.org.tw/content/11919)
+- [Airiti: Potenzielle Nahrungswettbewerbe zwischen Chinesischen Weißen Delfinen an der Westküste Taiwans und der Küstenfischerei](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000)
 
 ## Bildquellen
 
-Alle vier Bilder in diesem Artikel stammen von Wikimedia Commons, wurden über direkte Hotlink-URLs eingebunden, ohne die Bilddateien herunterzuladen. Der Urheber aller Bilder ist Zureks, und alle sind lizenziert unter **CC0 1.0 Universal Public Domain Dedication**.
+Alle vier in diesem Artikel verwendeten Bilder stammen von Wikimedia Commons; es wurden die Original-URL-Links verwendet, keine Bilddateien heruntergeladen. Die Urheber sind alle Zureks, die Lizenzen sind **CC0 1.0 Universal Public Domain Dedication**.
 
 - Bild 1: [Sousa chinensis (1) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%281%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg
 - Bild 2: [Sousa chinensis (2) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%282%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/b/be/Sousa_chinensis_%282%29_by_Zureks.jpg
 - Bild 3: [Sousa chinensis (3) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%283%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/a/a3/Sousa_chinensis_%283%29_by_Zureks.jpg
-- Bild 4: [Sousa chinensis (4) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%284%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg
+- Bild 4: [Sousa chinensis (4) by Zreks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%284%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg
 
-Lizenzdetails: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)。
+Details zur Lizenz: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 ## Referenzen
 
-[^1]: [Meeresschutzamt: Schutzgebiet der taiwanesischen Delphine](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — Offizielle Art- und Lebensraumseite des Meeresschutzamtes, erklärt die Klassifizierung, die Küsten-Flussmündungslebensräume, das 763-Quadratkilometer-Schutzgebiet und die sechs Hauptbedrohungen.
+[^1]: [United Daily News: Taifun-Außenring streift Nordküste! Umweltgruppen starten „Rettet den Weißen Delfin“-Unterschriftenaktion](https://udn.com/news/story/7266/9679996) — Bericht vom 9. August 2026 über die durch den Taifun Baihaiqun verursachten Wetterextreme und die Liste der fünf Umweltorganisationen, die die Kampagne gegen die Erweiterung des Hafens von Taichung gestartet haben.
 
-[^2]: [IUCN SSC Cetacean Specialist Group: Taiwanese humpback dolphins](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/) — IUCN-Bericht der Cetacean-Expertengruppe, fasst die wissenschaftliche Dokumentation 2002, die Unterartbeschreibung 2015, Populationsschätzungen, Lebensraumverlust und Netzverletzungsraten zusammen und gibt die Datenjahre an.
+[^2]: [Environmental Information Center: Weniger als 50 Weiße Delfine in Taiwan; Wissenschaftler Wang Yu-chao: Population sinkt jährlich um ca. 3–4 %](https://e-info.org.tw/node/241746) — Bericht vom 18. Juli 2025 über die Pressekonferenz von Wang Yu-chao und der _Taiwan Wild Heart Ecology Association_ am 17. Juli, einschließlich der Populationsschätzungen (99, 74, 45–50), der jährlichen Rückgangsrate (3–4 %) und der Reproduktionsberechnungen.
 
-[^3]: [NOAA Fisheries: Taiwanese Humpback Dolphin](https://www.fisheries.noaa.gov/species/taiwanese-humpback-dolphin) — Englische Artenseite des amerikanischen NOAA Fisheries, dokumentiert die Population unter 100 Exemplaren, die Einstufung als gefährdet unter dem _Endangered Species Act_ 2018 sowie Bedrohungen durch Fischerei, Küstenentwicklung und Verschmutzung.
+[^3]: [Marine Conservation Administration: Schutzbereich für Weiße Delfine in taiwanesischen Gewässern](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — Offizieller Bereich der _Marine Conservation Administration_ zur Spezies und zum Habitat; erläutert die Klassifizierung des Chinesischen Weißen Delfins, die Küsten-Ästuar-Habitate, das 763 km² große wichtige Habitat und sechs Arten menschlicher Bedrohungen.
 
-[^4]: [Taiwan Light and Culture: Wächter des Meeres: Chinesische Weiße Delphine](https://www.taiwan-panorama.com/Articles/Details?Guid=040e5448-6eb5-4edc-9b5a-d53cb2bf1831&CatId=7&postname=%E5%AE%88%E8%AD%B7%E6%B5%B7%E6%B4%8B%E4%BD%BF%E8%80%85%E2%94%80%E2%94%80%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A) — Kulturelles Magazin aus dem Jahr 2010, dokumentiert die lokalen Namen „Bai Niu“ und „Matsu Fish“, die Seenahmen 2002, frühe Lebensraumbeobachtungen und Umweltverträglichkeitsprüfungen im Steinölgebiet.
+[^4]: [Environmental Information Center: Weiße Delfine haben endlich ein Zuhause](https://e-info.org.tw/node/226436) — Bericht aus dem Jahr 2020 über die Forschung, Vorankündigung, behördenübergreifende Koordination und den Umgang mit bestehenden Fischereirechten bei der Ausweisung des wichtigen Habitats.
 
-[^5]: [Airiti: Potenzielle Nahrungskonkurrenz zwischen taiwanesischen Delphinen und Küstenfischerei](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000) — Detailseite der Masterarbeit von Ko Meng-chen 2011, erklärt 127 Fischerinterviews, Ressourcenüberlappungsindizes, Netzdaten und Fischereimanagementprobleme.
+[^5]: [IUCN SSC Cetacean Specialist Group: Taiwanese humpback dolphins](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/) — Fachartikel der IUCN Cetacean Specialist Group; fasst die wissenschaftliche Dokumentation seit 2002, die Unterartenbeschreibung von 2015, Populationsschätzungen, Habitatverlust und das Ausmaß von Verletzungen durch Fischereigeräte zusammen.
 
-[^6]: [Umweltinformationszentrum: Die taiwanesischen Delphine haben endlich ein Zuhause](https://e-info.org.tw/node/226436) — Bericht aus dem Jahr 2020, dokumentiert die Forschung, die Ankündigung, die zwischenbehörliche Abstimmung, das 763-Quadratkilometer-Gebiet und die Behandlung bestehender Fischereirechte.
+[^6]: [NOAA Fisheries: Taiwanese Humpback Dolphin](https://www.fisheries.noaa.gov/species/taiwanese-humpback-dolphin) — Englische Artenseite der US-Behörde NOAA Fisheries; dokumentiert eine Population von weniger als 100 Tieren, Körpergröße und Ernährung, Lebenszyklus, die Einstufung als „Endangered“ unter dem _Endangered Species Act_ im Jahr 2018 sowie Bedrohungen durch Fischereiverwicklungen, Küstenentwicklung und Verschmutzung.
 
-[^7]: [Unser Insel: Die Tage, an denen das Meer aufgefüllt wurde: Hafen von Taichung und taiwanesische Delphine](https://ourisland.pts.org.tw/content/11919) — Feldbericht aus dem Jahr 2026, berichtet über die 60 Hektar-Flusenarbeiten im Hafen, die Umweltverträglichkeitsprüfungsdebatte, Konflikte zwischen Projekt und Lebensraum sowie Beobachtungen der Brutgruppen durch Zeugen.
+[^7]: [Commercial Times: Ergebnisse des Monitoring der Weißen Delfine durch die Marine Conservation Administration für das Jahr 114 (2025)](https://www.ctee.com.tw/news/20260310701046-431401) — Bericht vom 10. März 2026 über die Meeresuntersuchung 2025 mit einer kumulierten Strecke von über 2.500 km, Identifizierung von 30 Individuen, 25 Kälbern, 4 offiziell nummerierten Jungtieren, 17 Sichtungen von Gruppen und passivem Unterwassermonitoring.
 
-[^8]: [Greenpeace Taiwan: Die weiße Botschaft im Meer der Taiwanstraße](https://www.greenpeace.org/taiwan/update/29782/%E8%87%BA%E7%81%A3%E6%B5%B7%E5%B3%BD%E6%B5%AA%E8%A3%A1%E7%9A%84%E7%99%BD%E8%89%B2%E4%BF%A1%E4%BD%BF-%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E8%87%BA%E7%81%A3%E7%99%BD%E6%B5%B7/) — Greenpeace-Kampagne, fasst die lokalen Namen, morphologische Merkmale, Forschungsmethoden, Bedrohungen des Lebensraums und den Kontext der Schutzinitiativen zusammen; der Artikel verwendet keine Initiativbehauptungen als offizielle Statistik.
+[^8]: [PTS News: Erneuter Todesfall durch Strandung eines Weißen Delfins; Umweltgruppen: Zahl liegt unter der Überlebensschwelle](https://news.pts.org.tw/article/783042) — Bericht vom 26. November 2025 über das männliche Individuum OCA023 „Scissors“, das in Shengang, Changhua, verendet ist, die mindestens 10 Strandungsfälle seit 2009 und die PBR-Berechnung der _Taiwan Wild Heart Ecology Association_.
+
+[^9]: [Taiwan Guanghua: Wächter des Meeres – Chinesischer Weißer Delfin](https://www.taiwan-panorama.com/Articles/Details?Guid=040e5448-6eb5-4edc-9b5a-d53cb2bf1831&CatId=7&postname=%E5%AE%88%E8%AD%B7%E6%B5%B7%E6%B4%8B%E4%BD%BF%E8%80%85%E2%94%80%E2%94%80%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A) — Offizieller Kulturbericht aus dem Jahr 2010 über lokale Namen wie „Bai-fu“ und „Mazu-Fisch“, die Untersuchungen ab 2002, frühe Habitatbeobachtungen und den Standort der Guoguang-Petrochemie-UVP.
+
+[^10]: [Zoological Studies: Diagnosability and description of a new subspecies of Indo-Pacific humpback dolphin from the Taiwan Strait](https://zoolstud.sinica.edu.tw/Journals/54/54-36.html) — Die 2015 in _Zoological Studies_ (Band 54) veröffentlichte Arbeit von Wang, Yang und Hung, die die Population an der Westküste Taiwans aufgrund von Farbmustern, geografischer Isolation und Verhaltensunterschieden als neue Unterart _Sousa chinensis taiwanensis_ beschreibt.
+
+[^11]: [Wowo: Fünf große Bedrohungen wie Windkraftlärm und Fischereiinterferenzen – Nur noch 60 Weiße Delfine in Taiwan!](https://wuo-wuo.com/report/instantnews/2025-20240705news) — Bericht vom 5. Juli 2024 über die Monitoring-Daten der _Marine Conservation Administration_ (2023–2024), die 70 kumulierte Individuen seit 2010 identifizierten, und die Methode zur Schätzung von etwa 60 Tieren nach Abzug jener, die fünf Jahre lang nicht gesichtet wurden.
+
+[^12]: [Unsere Insel: Die Tage der Landgewinnung: Hafen von Taichung und Taiwans Weiße Delfine](https://ourisland.pts.org.tw/content/11919) — Vor-Ort-Interview aus dem Jahr 2026 über das 60-Hektar-Landgewinnungsprojekt im Hafen von Taichung, die UVP-Kontroversen, den Konflikt zwischen Bauprojekt und Habitat sowie Beobachtungen zur Gruppengröße und Aufzuchtverhalten.
+
+[^13]: [Airiti: Potenzielle Nahrungswettbewerbe zwischen Chinesischen Weißen Delfinen an der Westküste Taiwans und der Küstenfischerei](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000) — Detailseite zur Masterarbeit von Ke Meng-chen (National Taiwan University, 2011); beschreibt Interviews mit 127 Fischern, Ressourcenüberlappungsindikatoren, Stellnetzfänge und Fischereimanagementprobleme.
+
+[^14]: [Animal Welfare Institute: Experts Outline Needed Steps to Save Taiwanese White Dolphin](https://awionline.org/awi-quarterly/winter-2019/experts-outline-needed-steps-to-save-taiwanese-white-dolphin/) — Winterausgabe 2019 des _Animal Welfare Institute_; dokumentiert den Expertenworkshop im August desselben Jahres in Ontario, Kanada, bei dem die Entfernung von Stellnetzen als einzige sofort wirksame Maßnahme vereinbart wurde.
+
+[^15]: [NOWnews: Blutiger Golf 3/ Windkraft-Einfluss auf Delfine – 3 Mängel: Annäherung von Fischerbooten, gefälschte Aufzeichnungen, Lärmüberschreitung](https://www.nownews.com/news/6694592) — Berichtsserie vom 16. Juni 2025 über den Vorfall am 14. April 2025 (Annäherung eines Bootes an ein Mutter-Kind-Paar), die 30-Minuten-Regel vor dem Rammen und die Bußgelder von insgesamt 15,795 Millionen NT$ für 10 Windparks.
+
+[^16]: [Business Weekly (Environmental Information Center): Vorschriften für Offshore-Windpark-Rammarbeiten und Wal-/Delphin-Beobachter](https://www.businessweekly.com.tw/focus/blog/3000112) — Artikel von Chen Wen-zi vom 4. September 2019 über die 30-minütige Beobachtung vor dem Rammen und die 750-Meter-Sperrzone.
+
+[^17]: [United Daily News: Kritik an UVP-Befreiung der Aufschüttungszone im Hafen von Taichung belastet Weiße Delfine; Umweltgruppen fordern Baustopp](https://udn.com/news/story/7266/9626241) — Bericht vom 14. Juli 2026 über die Einreichung einer Bürgerbekanntmachung beim Umweltministerium und den Streit um die Einstufung als „innerhalb der bestehenden Wellenbrecher“.
+
+[^18]: [Newtalk: 4 Millionen Kubikmeter Abfall für Taichung! Umweltgruppen warnen vor Verlust des Delfin-Habitats; 32.000 Unterschriften](https://newtalk.tw/news/view/2026-09-01/1056736) — Bericht vom 1. September 2026 über die Protestbewegung gegen die Landgewinnung und die Schätzung des massiven Verlusts von Meeresfläche im Außenhafen.
+
+[^19]: [CNA: Umweltgruppen: UVP-Befreiung für Taichung könnte illegal sein; Klage im Namen der Delfine angekündigt](https://www.cna.com.tw/news/aipl/202609160091.aspx) — Bericht vom 16. September 2026 über die Erläuterungen der Anwältin Tsai Ya-ying zur UVP-Schwelle und die geplante Bürgerklage.
+
+[^20]: [PTS News: Sorge um Landgewinnung im Hafen von Taichung gefährdet Weiße Delfine; Umweltgruppen werfen Hafenbehörde falsche ökologische Prüfung vor](https://news.pts.org.tw/article/828090) — Bericht vom 22. September 2026 über die Kritik an der Selbstprüfung der Hafenbehörde und die Stellungnahme des Verkehrsministeriums zu bestehenden Plänen.
+
+[^21]: [United Daily News (CNA): Taichung Landgewinnung unter Vorwurf der Umgehung von Prüfungen; Verkehrsministerium: Alles entspricht den Vorschriften](https://udn.com/news/story/7314/9770715) — Bericht vom 22. September 2026 über die Erklärung des Verkehrsministeriums zur fünfjährigen Überprüfung internationaler Hafenpläne und zur Konformität der ökologischen Selbstprüfungen.
+
+[^22]: [Newtalk: Wu Den-yih weist vehement zurück: Ich habe nie gesagt, dass Weiße Delfine abbiegen!](https://newtalk.tw/news/view/2017-01-25/81375) — Bericht vom 25. Januar 2017 über die Dementierung von Wu Den-yih während seiner Kandidatur für den Parteivorsitz.
+
+[^23]: [Newtalk: Rettet den Weißen Delfin – Taiwans erster Umwelt-Trust eingereicht](https://newtalk.tw/news/view/2010-07-07/6377) — Bericht vom 7. Juli 2010 über die Aktion „Volksaktien“, mit der über 160 Millionen NT$ für das Sumpfgebiet am Zershui-Fluss gesammelt wurden.
+
+[^24]: [Newtalk: Guoguang-Vorsitzender verspricht Gründung einer Stiftung für Weißen Delfin](https://newtalk.tw/news/view/2010-07-13/6519) — Bericht vom 13. Juli 2010 über die Reaktion des Guoguang-Chefs auf das Thema und die Erwähnung der „1 Aktie für 119 NT$“-Aktion.
+
+[^25]: [Mirror Media: „Vor 10 Jahren hatte ich recht!“ Ma Ying-jeou erinnert an Guoguang-Projekt und fordert Schutz der Korallenriffe](https://www.mirrormedia.mg/story/amp/20210422inv005) — Bericht vom 22. April 2021 über die Entscheidung von Präsident Ma Ying-jeou im Jahr 2011, das 600 Billionen NT$ schwere Projekt nicht zu unterstützen.

@@ -151,6 +151,18 @@
   white-space: nowrap;
   border: 0;
 }
+/* 給螢幕閱讀器與 AI 讀的資料表：表格不吃 width: 1px，寬度至少等於 <caption> 的最小寬度，
+   上面那條 nowrap 讓整句標題不能換行，表格就被撐到幾百 px。視覺上被 clip 掉，但仍算進
+   頁面的可捲動範圍：LTR 頁面手機上往右撐出橫向捲動，阿拉伯文 RTL 頁面桌機也往左撐
+  （2026-10-23 /data 實測：手機 390px 寬撐到 419–704px，/ar/data 桌機 1493／1009）。
+   表格改成可以換行、固定表格版面，寬度就縮回一個字左右；螢幕閱讀器讀表格不受換行影響。 */
+table.tw-sr-only,
+table.tw-sr-only * {
+  white-space: normal;
+}
+table.tw-sr-only {
+  table-layout: fixed;
+}
 
 /* ════════════════════════════ 1. 數據大字 .tw-figure ════════════════════════════ */
 .tw-figure {
@@ -1003,9 +1015,17 @@
 .tw-tiles {
   padding: var(--space-4);
 }
+/* 磚陣與色階是地理與數線，不是文字：ar（dir=rtl）頁面曾整陣左右鏡像——連江跑到
+   最右、台東在最左，色階淺色端標成最大值。兩者鎖 LTR，標題與警示照頁面方向走。 */
+.tw-tiles-grid,
+.tw-tiles-scale {
+  direction: ltr;
+}
 .tw-tiles-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  /* minmax(0, …)：磚有 aspect-ratio，內容的最小高度會經由比例換算成最小寬度，
+     譯名一高（ko／en 兩行字）整排就被撐寬、手機上第五欄掉出模組外。鎖死欄寬。 */
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 4px;
   max-width: 24em;
   margin: 0 auto;
@@ -1033,6 +1053,21 @@
   font-size: 0.72rem;
   line-height: 1.15;
   color: var(--color-ink-soft);
+}
+/* 譯名超過 8 個字元（Lienchiang、Condado de Hsinchu）：准許折行斷字，手機再縮
+   一級（見 RWD）。中文短名最多三字，不會帶這兩個 class。 */
+.tw-tiles-name--long {
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+/* 折成兩三行的格子會比別格高：整陣每列拉到最高那格，磚維持等大。
+   兩個方向都要明寫 stretch——只拉高度的話，aspect-ratio 會從拉高後的高度
+   反推出更寬的寬度，格子又長出欄外。 */
+.tw-tiles-grid--long {
+  grid-auto-rows: 1fr;
+}
+.tw-tiles-grid--long .tw-tiles-cell {
+  place-self: stretch;
 }
 .tw-tiles-val {
   font-family: var(--font-title);
@@ -1400,6 +1435,16 @@
   }
   .tw-pyramid-mid {
     font-size: 0.78rem;
+  }
+  /* 手機一格約 52px 寬、扣掉內距只剩 45px：Lienchiang、Цзиньмэнь 這類十個字母
+     上下的單字要縮到 0.56rem、內距收到 1px 才排得進一行，不會被拆成「Lienchian／g」
+    （瀏覽器對專有名詞多半找不到斷字點，hyphens 靠不住）。量測值見 2026-10-24 commit。 */
+  .tw-tiles-grid--long .tw-tiles-cell {
+    padding: 1px;
+  }
+  .tw-tiles-name--long {
+    font-size: 0.56rem;
+    line-height: 1.1;
   }
 }
 

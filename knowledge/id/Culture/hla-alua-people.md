@@ -1,15 +1,15 @@
 ---
-title: 'Suku Lha''alua: Dari "Karo Bawah Zou" ke Nama Sendiri, apa yang Suci dijaga oleh Upacara Kudus'
-description: "Pada 26 Juni 2014, suku Lha'alua resmi diakui sebagai suku ke-15 di Taiwan. Ini bukan pemisahan dari suku Zou, melainkan pengembalian nama yang pernah digabungkan kepada mereka yang menggunakannya."
+title: "Suku Hla'alua: Dari 'Tsou Selatan' ke Nama Sendiri, Apa yang Dijaga Upacara Miatungusu"
+description: "Pada 26 Juni 2014, Suku Hla'alua menjadi suku asli ke-15 yang diakui resmi di Taiwan. Ini bukan memutus hubungan dengan suku Tsou, melainkan di antara empat desa Taoyuan, Upacara Miatungusu, dan bahasa suku yang terancam punah, mengembalikan nama yang pernah digabungkan kepada orang-orang yang menggunakannya."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
-    "Suku Lha'alua",
+    "Suku Hla'alua",
     "Hla'alua",
-    'Upacara Kudus',
-    'Suku asli',
-    'Pemulihan bahasa',
+    'Upacara Miatungusu',
+    'Suku Asli',
+    'Revitalisasi Bahasa Suku',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-15T06:51:29+08:00'
+translatedAt: '2026-10-21T02:07:01.314417+00:00'
 ---
 
 > **Ringkasan 30 detik:** Pada 26 Juni 2014, suku Lha'alua dan suku Kanakanavu resmi diakui sebagai suku ke-15 dan ke-16 di Taiwan. Cerita suku Lha'alua bukan hanya soal "pemisahan" administratif: melibatkan empat komunitas di Taoyuan, upacara kudus berbasis cangkang, dan sebuah bahasa yang perlahan-hari memudar di antara bahasa Blung, Mandarin, dan sistem pendidikan. Pengakuan nama sebenarnya bertujuan agar suku bisa bercerita dengan nama dan bahasa sendiri.
@@ -91,20 +91,20 @@ Pada upacara berikutnya, pendeta utama akan kembali menghadapi cangkir, air minu
 
 ## Referensi
 
-[^1]: [Suku Lha'alua｜Dewan Suku Asli](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Profil resmi suku, distribusi empat komunitas, Upacara Kudus, seni kerajinan, dan organisasi sosial.
+[^1]: [Suku La'aluwa | Komisi Masyarakat Adat](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Pengantar kelompok etnis resmi, persebaran empat desa, upacara Miatungusu, kerajinan, dan data organisasi sosial.
 
-[^2]: [“Pemisahan” adalah Koneksi Emosional｜Arsip Suku Asli](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Mencatat pengakuan nama 2014, pertemuan publik 2012, serta hubungan dan harapan antara suku Lha'alua dan suku Zou.
+[^2]: ["Fen" Adalah Koneksi Ulang Emosi | Arsip Masyarakat Adat](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Mencatat pengesahan nama 2014, rapat pendengar 2012, serta hubungan dan tuntutan suku La'aluwa dengan suku Tsou.
 
-[^3]: [“Lha’alua” dan “Kanakanavu” Tambah Jumlah Suku Asli menjadi 16｜TVRI](https://news.pts.org.tw/article/272343) — Laporan pengakuan nama 2014, kedua suku menjadi suku ke-15 dan ke-16, serta hubungan pengakuan nama dengan pelestarian budaya dan bahasa.
+[^3]: ["La'aluwa" "Kanakanavu" Masyarakat Adat Bertambah Jadi 16 Suku | Jaringan Berita PTS](https://news.pts.org.tw/article/272343) — Pengesahan nama 2014, kedua suku menjadi suku ke-15 dan ke-16, serta liputan berita tentang pengesahan nama dan pelestarian budaya bahasa.
 
-[^4]: [Pemasaran Budaya Kreatif — Suci yang Ajaib: Dewa Cangkir dari Suku Lha'alua｜Dinas Budaya Kota Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publikasi budaya lokal yang memperkenalkan prosedur Upacara Kudus saat ini, Upacara Kudus yang disuwun, dan pelemparan cangkir cangkang.
+[^4]: [Pemasaran Kreatif - Miatungusu Magis: Dewa Kerang Suku La'aluwa | Dinas Kebudayaan Pemerintah Kota Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publikasi budaya lokal memperkenalkan prosesi kontemporer upacara Miatungusu, persembahan anggur kerang suci, dan pelemparan kerang untuk merebut keberuntungan.
 
-[^5]: [Kunjungan Budaya Upacara Kudus Suku Lha'alua 2025ｆ| Universitas Kaohsiung untuk Pendidikan](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Lokasi dan penjelasan kegiatan kunjungan budaya pada tahun 2025.
+[^5]: [Perjalanan Belajar Budaya Upacara Miatungusu Suku La'aluwa 2025 | Universitas Pendidikan Nasional Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Lokasi dan penjelasan kegiatan pembelajaran budaya upacara 2025.
 
-[^6]: [Penyusutan dan Pemulihan Bahasa Suku Lha'aluaｌ| Arsip Suku Asli](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Stemma bahasa, wawancara lapangan, sebab penyusutan bahasa, dan gagasan pemulihan.
+[^6]: [Kehilangan dan Revitalisasi Bahasa Suku La'aluwa | Arsip Masyarakat Adat](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Silsilah bahasa, wawancara lapangan, penyebab kehilangan bahasa, dan konsep revitalisasi.
 
-[^7]: [Lokakarya Ilmiah Pengetahuan Dua Suku Membangun Sistem Pengetahuan｛| TVRI Baru](https://news.ipcf.org.tw/136202) — Laporan pada 2024 tentang penelitian pengetahuan kedua suku, aksen dan kamus pengetahuan bahasa Lha'alua.
+[^7]: [Membangun Sistem Pengetahuan 2 Suku: Hasil Seminar Dibagikan untuk Promosi Pertukaran | Jaringan Berita TITV](https://news.ipcf.org.tw/136202) — Liputan penelitian pengetahuan kedua suku 2024, fonologi bahasa La'aluwa, dan pembangunan kamus pengetahuan.
 
-[^8]: [Suku Lha'alua Hla'alua｜Arsip Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Entri memori budaya tentang distribusi suku, empat komunitas, pengakuan nama 2014, dan Upacara Kudus.
+[^8]: [Suku La'aluwa Hla'alua | Perpustakaan Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Persebaran kelompok etnis, empat desa, pengesahan nama 2014, dan entri memori budaya upacara Miatungusu.
 
-[^9]: [Suku Lha'alua｛| Pusat Pengembangan Budaya Suku Asli](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Profil pengenalan awal suku Lha'alua di kebun budaya kebanggaan suku asli.
+[^9]: [Suku La'aluwa | Pusat Pengembangan Budaya Masyarakat Adat](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Pintu masuk pengantar suku La'aluwa di Taman Budaya Masyarakat Adat.

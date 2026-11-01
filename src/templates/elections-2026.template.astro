@@ -3141,47 +3141,22 @@ const cofactsName =
   copy.resources.items.find((r) => r.url.includes('cofacts'))?.name ?? '';
 
 // 線條圖示（24px、stroke 1.75），開場三個事實與專區四張卡共用。
-const iconPaths: Record<string, string[]> = {
-  clock: ['M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Z', 'M12 7.5V12l3 2'],
-  id: [
-    'M3.5 6h17a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1Z',
-    'M8.5 12.25a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5Z',
-    'M5.75 15.5c.45-1.3 1.5-2 2.75-2s2.3.7 2.75 2',
-    'M14 10h4.5',
-    'M14 13.5h3',
-  ],
-  pin: [
-    'M12 21c-3.5-3.6-7-7.3-7-11a7 7 0 0 1 14 0c0 3.7-3.5 7.4-7 11Z',
-    'M12 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z',
-  ],
-  timeline: [
-    'M4.5 5.5h15a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-15a1 1 0 0 1-1-1v-13a1 1 0 0 1 1-1Z',
-    'M3.5 9.5h17',
-    'M8 3.5v4',
-    'M16 3.5v4',
-    'M7.5 13h2',
-    'M11 13h2',
-    'M14.5 13h2',
-    'M7.5 16.5h2',
-    'M11 16.5h2',
-  ],
-  candidates: [
-    'M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z',
-    'M2.5 20c.6-3.4 3.2-5.5 6.5-5.5s5.9 2.1 6.5 5.5',
-    'M15.5 4.3a3.5 3.5 0 0 1 0 6.4',
-    'M17.5 14.8c2.2.6 3.6 2.5 4 5.2',
-  ],
-  donations: [
-    'M5 4.5A1.5 1.5 0 0 1 6.5 3H19v15H6.5A1.5 1.5 0 0 0 5 19.5v-15Z',
-    'M5 19.5A1.5 1.5 0 0 0 6.5 21H19v-3',
-    'M9 7.5h6',
-    'M9 11h4',
-  ],
-  perspectives: [
-    'M4 4.5h10A1.5 1.5 0 0 1 15.5 6v5.5A1.5 1.5 0 0 1 14 13H8.5L5 16v-3H4a1.5 1.5 0 0 1-1.5-1.5V6A1.5 1.5 0 0 1 4 4.5Z',
-    'M18 8.5h1.5A1.5 1.5 0 0 1 21 10v5.5a1.5 1.5 0 0 1-1.5 1.5H19v3l-3.5-3H11a1.5 1.5 0 0 1-1.5-1.5V15',
-  ],
+// 選舉頁的圖示改用行線圖示（/brand#icons）；鍵名沿用，渲染結構不動
+const electionIcons: Record<string, string> = {
+  clock: 'clock',
+  id: 'id',
+  pin: 'pin',
+  timeline: 'calendar',
+  candidates: 'community',
+  donations: 'coins',
+  perspectives: 'comment',
 };
+const iconPaths: Record<string, string[]> = Object.fromEntries(
+  Object.entries(electionIcons).map(([k, n]) => [
+    k,
+    [(icons as Record<string, string>)[n]],
+  ]),
+);
 
 const faqItems = electionsData.votingInfo.map((v) => ({
   id: v.id,
@@ -3317,6 +3292,7 @@ const referendumSourceHtml =
     })),
     'el-inline-link--slate',
   );
+import { icons } from '../icons/taiwan-icons.mjs';
 ---
 
 <Layout
@@ -4191,8 +4167,8 @@ const referendumSourceHtml =
     fill: none;
     stroke: currentColor;
     stroke-width: 1.75;
-    stroke-linecap: round;
-    stroke-linejoin: round;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
   }
 
   /* ── 連結（每種都蓋掉 base 的 border-bottom 底線） ── */

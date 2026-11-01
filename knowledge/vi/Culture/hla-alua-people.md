@@ -1,15 +1,15 @@
 ---
-title: 'Tộc Lạp A Luoa: Từ "Nam Thâu" đến tên gọi riêng, Lễ hội Thánh Bối đã gìn giữ điều gì?'
-description: 'Ngày 26 tháng 6 năm 2014, tộc Lạp A Luoa được công nhận chính thức là dân tộc bản địa thứ 15 của Đài Loan. Đây không phải là sự cắt đứt quan hệ với tộc Thâu, mà là việc trả lại cái tên từng bị gộp chung cho những người sử dụng nó thông qua bốn xã Đào Nguyên, Lễ hội Thánh Bối và ngôn ngữ đang có nguy cơ tuyệt chủng.'
+title: 'Tộc người Hla''alua: Từ "Nam Zou" đến tên gọi riêng, Lễ hội Thánh Bối đã gìn giữ được điều gì'
+description: "Ngày 26 tháng 6 năm 2014, tộc người Hla'alua đã trở thành dân tộc thiểu số thứ 15 của Đài Loan được chính thức công nhận. Đây không phải là việc cắt đứt mối quan hệ với tộc người Zou, mà là sự trao trả lại một cái tên từng bị sáp nhập cho những người đang sử dụng nó, giữa bốn xã Đào Nguyên, Lễ hội Thánh Bối và ngôn ngữ dân tộc đang đứng trước nguy cơ mai một."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
-    'Tộc Lạp A Luoa',
+    "Tộc người Hla'alua",
     "Hla'alua",
     'Lễ hội Thánh Bối',
-    'Dân tộc bản địa',
-    'Phục hồi ngôn ngữ',
+    'Dân tộc thiểu số',
+    'Phục hồi ngôn ngữ dân tộc',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-15T06:51:28+08:00'
+translatedAt: '2026-10-21T02:06:31.680795+00:00'
 ---
 
 > **Tổng quan 30 giây:** Ngày 26 tháng 6 năm 2014, tộc Lạp A Luoa và tộc Ca Na Ca Na Phú được công nhận chính thức, trở thành dân tộc bản địa thứ 15 và thứ 16 của Đài Loan. Câu chuyện của tộc Lạp A Luoa không chỉ là một sự "phân tách" hành chính: nó liên quan đến bốn xã Đào Nguyên, Lễ hội Thánh Bối lấy vỏ sò làm trung tâm, và một ngôn ngữ đang dần mất đi không gian sử dụng hàng ngày trong kẽ hở giữa tiếng Bunun, tiếng Quốc ngữ và hệ thống giáo dục. Điều thực sự được đòi lại qua việc đặt tên chính là để người dân có thể kể câu chuyện của mình bằng cái tên của chính họ.
@@ -89,22 +89,22 @@ Vì vậy, tầm quan trọng của tộc Lạp A Luoa không nằm ở con số
 
 Trong Lễ hội Thánh Bối lần tới, chủ tế vẫn sẽ đối mặt với vỏ sò, rượu và người dân. Hành động đó thoạt nhìn rất nhỏ bé, nhưng nó đang trả lời một câu hỏi lớn: Khi một cái tên đã từng bị người khác thu về, ai còn sẵn lòng mang nó trở lại?
 
-## Tài Liệu Tham Khảo
+## Tài liệu tham khảo
 
-[^1]: [Tộc Lạp A Luoa | Ủy ban Dân tộc Bản địa](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Giới thiệu chung của dân tộc, phân bố bốn xã, Lễ hội Thánh Bối, tài liệu về thủ công và tổ chức xã hội.
+[^1]: [Tộc người Hla'alua | Ủy ban Dân tộc thiểu số](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Giới thiệu chính thức về tộc người, phân bố bốn xã, lễ hội Thánh Bối (Shengbei), thủ công mỹ nghệ và các dữ liệu về tổ chức xã hội.
 
-[^2]: [“Sự “chia” là sự kết nối lại của cảm xúc” | Tài liệu Dân tộc Bản địa](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Ghi lại buổi điều trần năm 2014, buổi điều trần năm 2012, và mối quan hệ cùng yêu cầu của tộc Lạp A Luoa với tộc Thâu.
+[^2]: [“Phân” là sự tái kết nối cảm xúc | Tài liệu Dân tộc thiểu số](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Ghi chép về việc chính danh hóa năm 2014, buổi điều trần công khai năm 2012, cũng như mối quan hệ và các yêu cầu của tộc người Hla'alua với tộc người Tsou.
 
-[^3]: [“Lạp A Luoa” và “Ca Na Ca Na Phú” tăng lên thành 16 dân tộc | Trang tin tức PS](https://news.pts.org.tw/article/272343) — Báo cáo về việc phê duyệt tên gọi chính thức năm 2014, hai tộc trở thành dân tộc thứ 15 và thứ 16, cùng với các bản tin về bảo tồn ngôn ngữ và văn hóa.
+[^3]: [“Hla'alua” và “Kanakaunaipu” tăng lên thành 16 tộc người | PTS News](https://news.pts.org.tw/article/272343) — Báo cáo tin tức về việc phê duyệt chính danh hóa năm 2014, hai tộc người trở thành tộc thứ 15 và thứ 16, cùng với việc bảo tồn văn hóa và ngôn ngữ sau khi được công nhận tên gọi.
 
-[^4]: [Tiếp thị Văn hóa - Thánh Bối Huyền Bí: Thần Vỏ Sò của Tộc Lạp A Luoa | Cục Văn hóa Thành phố Cao Hùng](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Giới thiệu quy trình hiện đại của Lễ hội Thánh Bối, dâng rượu Thánh Bối và ném vỏ sò cầu phúc.
+[^4]: [Tiếp thị sáng tạo văn hóa - Thánh Bối huyền bí: Thần vỏ sò của tộc người Hla'alua | Cục Văn hóa Thành phố Cao Hùng](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Ấn phẩm văn hóa địa phương giới thiệu về quy trình đương đại của lễ hội Thánh Bối, nghi thức dâng rượu cho Thánh Bối và tục ném vỏ sò cầu phúc.
 
-[^5]: [Chuyến du lịch học tập văn hóa Lễ hội Thánh Bối năm 2025 | Đại học Sư phạm Cao Hùng Quốc lập](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Địa điểm và mô tả hoạt động của chuyến học tập văn hóa nghi lễ năm 2025.
+[^5]: [Hành trình học tập văn hóa Lễ hội Thánh Bối tộc Hla'alua năm 2025 | Đại học Sư phạm Quốc gia Cao Hùng](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Thông tin về địa điểm và nội dung các hoạt động học tập văn hóa nghi lễ năm 2025.
 
-[^6]: [Sự mai một và phục hồi ngôn ngữ tộc Lạp A Luoa | Tài liệu Dân tộc Bản địa](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Phả hệ ngôn ngữ, phỏng vấn thực địa, nguyên nhân suy giảm ngôn ngữ và ý tưởng phục hồi.
+[^6]: [Sự mai một và phục hưng ngôn ngữ tộc người Hla'alua | Tài liệu Dân tộc thiểu số](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Phả hệ ngôn ngữ, phỏng vấn điền dã, nguyên nhân mai một ngôn ngữ và các ý tưởng phục hưng.
 
-[^7]: [Chia sẻ kết quả hội thảo xây dựng hệ thống tri thức hai dân tộc thúc đẩy giao lưu | Trang tin tức PS](https://news.ipcf.org.tw/136202) — Báo cáo về nghiên cứu tri thức của hai dân tộc năm 2024, âm vị ngôn ngữ Lạp A Luoa và việc xây dựng từ điển kiến thức.
+[^7]: [Chia sẻ kết quả hội thảo xây dựng hệ thống tri thức hai tộc người nhằm thúc đẩy giao lưu | PTS News](https://news.ipcf.org.tw/136202) — Báo cáo về nghiên cứu tri thức của hai tộc người năm 2024, âm vị học tiếng Hla'alua và việc xây dựng từ điển tri thức.
 
-[^8]: [Tộc Lạp A Luoa Hla'alua | Kho lưu trữ Văn hóa Quốc gia](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Phân bố dân tộc, bốn xã, mục ghi nhớ văn hóa về việc đặt tên chính năm 2014 và Lễ hội Thánh Bối.
+[^8]: [Tộc người Hla'alua | Kho lưu trữ ký ức văn hóa quốc gia](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Các mục ghi chép về ký ức văn hóa liên quan đến phân bố tộc người, bốn xã, việc chính danh hóa năm 2014 và lễ hội Thánh Bối.
 
-[^9]: [Tộc Lạp A Luoa | Trung tâm Phát triển Văn hóa Dân tộc Bản địa](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Điểm vào giới thiệu tộc Lạp A Luoa tại Khu văn hóa dân tộc bản địa.
+[^9]: [Tộc người Hla'alua | Trung tâm Phát triển Văn hóa Dân tộc thiểu số](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Cổng thông tin giới thiệu về tộc người Hla'alua tại Công viên Văn hóa Dân tộc thiểu số.

@@ -14,13 +14,12 @@ image: '/article-images/society/taipei-skyline-housing-2026.webp'
 imageCredit: 'Heeheemalu'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
-relatedDiary:
-  - 2026-07-16-222859-viz-evolution
+relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:36:28.975415+00:00'
 ---
 
 # Danh sách mô-đun hình ảnh hoá: mười chín cách nhìn thấy dữ liệu Đài Loan
@@ -175,21 +174,21 @@ Taoyuan | 9,0 | 40,0
 Nguồn: Nền tảng Thông tin Bất động sản của Bộ Nội vụ
 ```
 
-## Biểu Đồ Chấm tw-dot
+## Biểu đồ điểm tw-dot
 
-Biểu đồ cột so sánh "lượng", biểu đồ chấm xem "phân bố": tất cả các chấm rơi trên cùng một thước, bạn thấy ai chặt chẽ bên nhau, ai là giá trị ngoại lệ. Mỗi hàng một giá trị là dải chấm; cho hai giá trị sẽ vẽ thành "từ đây đến đó" của khoảng cách; cho ba giá trị (`ước tính điểm | giới hạn dưới | giới hạn trên`) sẽ vẽ thành kiểu thăm dò "ước tính điểm + khoảng không chắc chắn". Sai số lấy mẫu ±3% không nên bị ăn hết, đây là lựa chọn trung thực phổ biến nhất thiếu trong năm bầu cử. `*` cũng có thể nhấn mạnh.
+Nếu biểu đồ cột dùng để so sánh "lượng", thì biểu đồ điểm dùng để xem "phân phối": tất cả các điểm đều nằm trên cùng một thước đo, giúp bạn thấy rõ ai đang tập trung lại một chỗ và đâu là giá trị ngoại lai. Nếu mỗi hàng có một giá trị, nó sẽ là dạng dot strip; nếu cung cấp hai giá trị, nó sẽ vẽ thành một khoảng "từ đây đến đó"; nếu cung cấp ba giá trị (`giá trị ước tính | giới hạn dưới | giới hạn trên`), nó sẽ vẽ theo kiểu thăm dò dư luận gồm "điểm ước tính + dải khoảng không chắc chắn". Sai số lấy mẫu ±3% không nên bị bỏ qua, đây là sự thể hiện trung thực nhất thường bị lơ là trong các năm bầu cử. Ký hiệu `*` cũng có thể được dùng để nhấn mạnh.
 
 ```tw-dot
-Tỷ lệ già hoá hai cực: từ quận trẻ nhất đến quận già nhất (65 tuổi trở lên chiếm %, %)
-Tân Trúc Huyện | 15,08 | Trẻ nhất toàn Đài Loan
-Taoyuan | 16,72
-Đài Trung | 17,40
-Tân Bắc | 19,95
-Đài Nam | 20,48
-Cao Hùng | 20,79
-*Chiayi Huyện | 24,11 | Già nhất toàn Đài Loan
-*Đài Bắc | 24,18 | Già nhất sáu thành phố lớn
-Nguồn: Sở Dân cư Bộ Nội vụ, cuối 2025
+Sự phân cực của tỷ lệ già hóa: Từ các huyện/thành phố trẻ nhất đến già nhất (tỷ lệ trên 65 tuổi, %)
+Huyện Tân Trúc | 15.08 | Trẻ nhất Đài Loan
+Đào Viên | 16.72
+Đài Trung | 17.40
+Tân Bắc | 19.95
+Đài Nam | 20.48
+Cao Hùng | 20.79
+*Chiayi | 24.11 | Chỉ số già hóa cao nhất Đài Loan
+*Đài Bắc | 24.18 | Cao nhất Đài Loan
+Nguồn: Cục Dân cư Bộ Nội vụ, cuối năm 2025
 ```
 
 ## Thanh Xếp Chồng tw-stack

@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T12:07:02+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:54:38.179136+00:00'
 ---
 
 # Si Muro: Sinfonia de Poesia entre a Estepe e a Modernidade
@@ -37,13 +37,13 @@ Em 1949, aos seis anos, Si Muro se mudou com sua família para Hong Kong. O ambi
 
 Em 1954, Si Muro se mudou com sua família para Taiwan e estabeleceu residência. Durante a adolescência em Taiwan, especialmente a paisagem natural e o ambiente humano de Taiwan, forneceram riquezas para sua criação poética. Montanhas, árvores, flores e mudanças sazonais todos se tornaram imagens recorrentes em sua poesia.
 
-## Anos de Estudo na Faculdade de Belas Artes da Normal
+## Os Anos de Formação no Departamento de Arte da NTNU
 
-Após concluir o ensino médio, Si Muro ingressou na Faculdade de Belas Artes da Universidade Normal de Taiwan. A formação profissional em arte desenvolveu sua percepção aguçada de cor e composição, elementos que posteriormente foram incorporados à sua criação poética. [^1]
+Após concluir o ensino médio, Si Muro ingressou no Departamento de Arte da Universidade Normal de Taiwan (NTNU). O treinamento profissional em artes desenvolveu sua percepção aguçada para cores e composição, elementos que mais tarde se integrariam à sua criação poética. [^1]
 
-Durante seu tempo na universidade, Si Muro teve sucesso em pintura e começou a experimentar com a criação literária, lendo amplamente poesia chinesa e estrangeira. As obras de poetas modernos influenciaram profundamente sua visão, ajudando-a a formar sua própria linguagem poética.
+Durante seu período na NTNU, Si Muro obteve conquistas na pintura e começou a experimentar a criação literária, realizando leituras extensas de poesia chinesa e estrangeira. As obras de poetas modernos exerceram uma influência profunda sobre ela, permitindo que formasse gradualmente sua própria linguagem poética.
 
-Após se formar em 1966, Si Muro foi para Bruxelas, Bélgica, para estudar na Academia Real de Belas Artes. Os museus, igrejas e arquitetura histórica da Europa deixaram fortes impressões nela, expandindo sua visão criativa. [^2]
+Após se graduar na NTNU em 1963, Si Muro partiu para Bruxelas, na Bélgica, em 1964, para aprofundar seus estudos na Academia Real de Belas Artes de Bruxelas (Académie Royale des Beaux-Arts), graduando-se em 1966. Os museus, igrejas e arquiteturas antigas da Europa deixaram impressões profundas nela, expandindo seus horizontes criativos. [^2]
 
 ## "Sete Li Xiang": Uma Entrada Surpreendente na Poesia
 
@@ -53,19 +53,19 @@ O sucesso de "Sete Li Xiang" reside na clareza e acessibilidade de seu idioma �
 
 O poema "Uma Árvore em Flor" tornou-se um clássico da poesia chinesa: "Como fazer para que você me encontre / No momento mais belo de mim / Porque isso / Eu já tenho orado diante do Buda por cincocentos anos / Rogando que possamos compartilhar um destino." Este poema, com sua beleza e emoção tocante, ainda é amplamente citado e lembrado.
 
-## "Juventude sem Rancor": Reflexões Poéticas sobre a Juventude
+## 《無怨的青春》: Um olhar poético sobre os anos de juventude
 
-Publicada em 1982, "Juventude sem Rancor" manteve o sucesso de "Sete Li Xiang". Esta coletânea se concentra em temas como juventude, amor e amizade, mostrando a profunda compreensão da vida pela poeta. O poema-título "Juventude sem Rancor" expressa a saudade pelos anos que se foram e o louvor à juventude. [^4]
+Publicada em 1983, a obra 《無怨的青春》 deu continuidade ao sucesso de 《七里香》. Esta coletânea de poesias foca em temas da vida, como juventude, amor e amizade, revelando as profundas percepções da poetisa sobre a existência. O poema que dá título ao livro, 〈無怨的青春〉, expressa o apego aos anos que se passaram e uma celebração à juventude. [^4]
 
-Os poemas de Si Muro geralmente partem de uma cena ou objeto específico, desenvolvendo-se gradualmente até atingirem uma reflexão filosófica. Outra característica marcante de "Juventude sem Rancor" é sua musicalidade — com forte ritmo, adequado para recitação, permitindo que os leitores apreciem a beleza da poesia através do som.
+A poesia de Xi Muro frequentemente parte de um cenário ou objeto concreto para se desenvolver gradualmente, atingindo, ao final, um nível de profundidade filosófica. Outra característica de 《無怨的青春》 é a sua musicalidade — com um ritmo marcante e ideal para declamação, permitindo que os leitores experimentem a beleza da poesia através do som.
 
-## Criação em Prosa e Conexões Mongóis
+## Criação de Prosa e a Conexão com a Mongólia
 
-Além da poesia, Si Muro também é prosaísta. No final da década de 1980, ela publicou coletâneas de prosa como "Rastros de Crescimento" e "Uma Canção", mantendo o estilo leve e elegante de sua poesia, com palavras belas e sentimentos sinceros.
+Além da poesia, Si Muro também é uma escritora de prosa. No início da década de 1980, ela publicou sucessivamente coletâneas de ensaios como 《成長的痕跡》 (1982) e 《有一首歌》, dando continuidade ao estilo límpido de sua poesia, com textos belos e emoções sinceras.
 
-Em 1989, ela visitou pela primeira vez a estepe mongol, uma jornada de reconexão que teve grande impacto em sua vida. Ela começou a criar grandemente poesias e prosa com temas mongóis, como "Minha Casa está na Planície" e "Montanhas e Vales nos Esperam", que demonstram seu aprofado sentimento pela estepe e sua reflexão sobre a cultura étnica. Ela usou a forma poética moderna para expressar sua saudade pela cultura antiga e sua identidade étnica. [^5]
+Em 1989, ela pisou pela primeira vez nas estepes da Mongólia; essa jornada de busca pelas raízes exerceu uma influência imensa sobre ela. Ela passou a criar em grande quantidade poesias e prosas com o tema da Mongólia; obras como 《我的家在高原上》 e 《江山有待》 demonstram seu profundo afeto pelas estepes e suas reflexões sobre a cultura nacional. Por meio da forma da poesia moderna, ela expressou sua nostalgia pela cultura ancestral e sua identificação com a identidade étnica. [^5]
 
-Publicada em 2019, "Dando Nomes à Memória" é uma coletânea de poemas de sua fase final, refletindo sobre sua vida de errância e busca com uma linguagem mais calma e contida.
+《我給記憶命名》, publicado em 2019, é sua coletânea de poesias da fase tardia de sua vida, na qual, em idade avançada, ela olha para trás para contemplar uma vida de errância e busca pelas raízes, com uma linguagem ainda mais serena e introspectiva.
 
 ## A Fusão Perfeita entre Pintura e Poesia
 
@@ -87,19 +87,19 @@ Diferentemente do estilo elegante e refinado de [Bai Xian Yong](/pt/people/pai-h
 
 ## Referências
 
-[^1]: [Faculdade de Belas Artes da Universidade Normal de Taiwan](https://www.ntnu.edu.tw/art/) — História e informações dos alunos da faculdade de belas artes da Universidade Normal de Taiwan.
+[^1]: [Departamento de Belas Artes da Universidade Nacional de Taiwan Normal](https://www.ntnu.edu.tw/art/) — Contexto de fundação e informações sobre ex-alunos do Departamento de Belas Artes da NTNU.
 
-[^2]: [Academia Real de Belas Artes de Bruxelas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Instituição de ensino superior onde Si Muro estudou, uma academia nacional de arte na Bélgica.
+[^2]: [Academia Real de Belas Artes de Bruxelas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Instituição onde Xi Murong estudou, uma academia nacional de artes na Bélgica.
 
-[^3]: [Museu Nacional de Literatura de Taiwan — Exposição Especial de Si Muro](https://www.nmtl.gov.tw/) — Registros de publicação e reimpressão de "Sete Li Xiang", incluindo dados de vendas do livro e informações da exposição.
+[^3]: [Museu Nacional de Literatura de Taiwan — Exposição Especial de Xi Murong](https://www.nmtl.gov.tw/) — Registros de publicação e republicação de 《七里香》, incluindo dados de vendas do livro de poesias e informações sobre a exposição.
 
-[^4]: [Aliança Taiwanesa de Livros Eletrônicos — Página de Obras de Si Muro](https://www.taaze.tw/) — Informações sobre a primeira edição e ano de publicação de "Juventude sem Rancor".
+[^4]: [Taiwan eBook Alliance — Página das Obras de Xi Murong](https://www.taaze.tw/) — Confirmação de dados da primeira edição e ano de publicação de 《無怨的青春》.
 
-[^5]: [Centro Cultural Mongol e Tibetano — Criação Literária Mongol de Si Muro](https://www.mtac.gov.tw/) — Introdução especializada de uma agência governamental sobre a criação literária mongol de Si Muro.
+[^5]: [Museu de Cultura Mongólica e Tibetana — Criações Literárias Mongóis de Xi Murong](https://www.mtac.gov.tw/) — Introdução temática de uma instituição governamental sobre as criações literárias mongóis de Xi Murong.
 
-[^6]: [Site Oficial de Si Muro](http://www.ximurong.tw) — Site oficial da poeta, contendo informações sobre obras, registros de exposições e processo criativo.
+[^6]: [Site Oficial de Xi Murong](http://www.ximurong.tw) — Site oficial da poetisa, contendo informações sobre suas obras, registros de exposições de pintura e trajetória criativa.
 
-[^7]: [Prêmio Nacional de Artes — Fundação Nacional de Cultura e Arte](https://www.ncafroc.org.tw/) — Registro de prêmios recebidos por Si Muro e comentários dos jurados.
+[^7]: [Prêmio Nacional de Artes — Fundação Nacional para a Cultura e as Artes](https://www.ncafroc.org.tw/) — Registros de premiações de Xi Murong e descrições do júri.
 
 ## Leituras Relacionadas
 

@@ -19,9 +19,9 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:84ffac689843ddd3'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-17T06:43:40+08:00'
 ---
 
@@ -140,4 +140,4 @@ Câu hỏi trên phố New York năm 2009 không được giải quyết bằng 
 
 [^10]: [Liberation Daily: Chen Hsing-yu (陳幸妤) xuất hiện rồi! Tươi cười thoả mãn về việc đã ly hôn từ lâu: Sợ truyền thông không có tin tức](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — Báo cáo xuất hiện công cộng và nguồn ảnh năm 2026, ghi nhận cảnh quan cô trả lời phỏng vấn bên ngoài phòng khám.
 
-## [^11]: [Wikimedia Commons: 20161224 Chen Hsing-yu (陳幸妤) nha khoa khánh thành.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Tác phẩm do Huang Hsiang-ch'ing (黃湘清) tải lên ngày 24 tháng 12 năm 2016, trang tệp chỉ định bản quyền CC BY-SA 4.0 và yêu cầu ghi công.
+[^11]: [Wikimedia Commons: 20161224 Chen Hsing-yu (陳幸妤) nha khoa khánh thành.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Tác phẩm do Huang Hsiang-ch'ing (黃湘清) tải lên ngày 24 tháng 12 năm 2016, trang tệp chỉ định bản quyền CC BY-SA 4.0 và yêu cầu ghi công.

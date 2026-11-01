@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T12:07:02+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:53:02.017911+00:00'
 ---
 
 # Xi Mu-rong : La symphonie poétique entre la prairie et la modernité
@@ -37,13 +37,13 @@ En 1949, à l'âge de six ans, Xi Mu-rong a déménagé avec sa famille à Hong 
 
 En 1954, Xi Mu-rong s'est installée à Taïwan avec sa famille. La vie durant son adolescence à Taïwan, en particulier le paysage naturel et l'environnement humain de Taïwan, a fourni une matière riche pour sa création poétique. Les montagnes, les fleurs, la végétation et les changements saisonniers de Taïwan sont devenus des motifs récurrents dans ses poèmes.
 
-## Ses années d'études à l'Université Normale de Taiwan (NTU)
+## Les années d'études au Département des Beaux-Arts de l'Université Normale de Taïwan
 
-Après avoir terminé le collège, Xi Mu-rong a été admise en faculté d'art à l'Université Normale de Taïwan. La formation artistique lui a permis de développer une sensibilité aiguë pour la couleur et la composition, des compétences artistiques qui ont ensuite été intégrées dans sa création poétique.[^1]
+Après l'obtention de son diplôme du secondaire, Xi Mu-rong a été admise au Département des Beaux-Arts de l'Université Normale de Taïwan. La formation professionnelle en beaux-arts a cultivé sa perception aiguë de la couleur et de la composition ; ces qualités artistiques se sont ensuite toutes intégrées à sa création poétique.[^1]
 
-Pendant son temps à NTU, Xi Mu-rong a réalisé des œuvres en peinture et a commencé à expérimenter l'écriture littéraire, lisant abondamment de la poésie chinoise et étrangère. Les œuvres des poètes modernes ont eu une influence profonde sur elle, lui permettant progressivement de forger sa propre langue poétique.
+Pendant ses années à l'Université Normale, Xi Mu-rong a réalisé des accomplissements en peinture et a également commencé à tenter la création littéraire, lisant abondamment des poèmes chinois et étrangers. Les œuvres des poètes modernes ont eu une influence profonde sur elle, lui permettant de former progressivement son propre langage poétique.
 
-En 1966, après avoir obtenu son diplôme, Xi Mu-rong s'est formée à l'Académie Royale des Beaux-Arts de Bruxelles en Belgique. Les musées, les églises et les anciens bâtiments d'Europe lui ont laissé une impression durable, élargissant son champ créatif.[^2]
+Après avoir obtenu son diplôme de l'Université Normale en 1963, Xi Mu-rong est partie en 1964 approfondir ses études à l'Académie Royale des Beaux-Arts de Bruxelles en Belgique, où elle a obtenu son diplôme en 1966. Les musées, églises et architectures anciennes d'Europe lui ont tous laissé une impression profonde, élargissant ses horizons créatifs.[^2]
 
 ## _Qili Xiang_ : Une apparition sensationnelle dans le monde poétique
 
@@ -53,19 +53,19 @@ Le succès de _Qili Xiang_ réside dans la clarté de son langage : il n'est pas
 
 « Un arbre en fleur » est devenu un classique de la poésie sinophone : « Comment te faire rencontrer / Au moment où je suis la plus belle / Pour cela / J'ai prié pendant cinq cents ans devant Bouddha / Pour que nous formions une relation terrestre. » Ce poème, par son atmosphère élégante et ses émotions touchantes, est encore largement récité aujourd'hui.
 
-## _Le Jeunesse Sans Regrets_ : Un regard poétique sur les années de jeunesse
+## « Une jeunesse sans regrets » : un regard poétique sur les années de jeunesse
 
-Publié en 1982, _Le Jeunesse Sans Regrets_ a poursuivi le succès de _Qili Xiang_. Ce recueil se concentre sur des thèmes existentiels tels que la jeunesse, l'amour et l'amitié, démontrant la profonde compréhension de la vie par la poétesse. Le titre du recueil, « Jeunesse Sans Regrets », exprime une nostalgie pour les années passées et une célébration de la jeunesse.[^4]
+Publié en 1983, « Une jeunesse sans regrets » (《無怨的青春》) prolonge le succès de « Le parfum des sept lieues » (《七里香》). Ce recueil de poèmes se concentre sur des thèmes de vie tels que la jeunesse, l'amour et l'amitié, révélant la profonde compréhension de la vie par la poétesse. Le poème éponyme « Une jeunesse sans regrets » (〈無怨的青春〉) exprime la nostalgie des années révolues et la célébration de la jeunesse.[^4]
 
-Les poèmes de Xi Mu-rong partent souvent d'un décor ou d'un objet concret avant de se développer progressivement pour atteindre un niveau philosophique. Une autre caractéristique de _Le Jeunesse Sans Regrets_ est sa musicalité : son rythme est fort et il est propice à la récitation, permettant aux lecteurs de ressentir la beauté du poème à travers le son.
+La poésie de Xi Mu-rong part souvent d'une scène ou d'une image concrète, se déploie progressivement, pour s'élever finalement à une dimension philosophique. « Une jeunesse sans regrets » se distingue également par sa musicalité — un rythme marqué, propice à la récitation, permettant aux lecteurs d'apprécier la beauté du poème à travers sa sonorité.
 
-## Création en prose et lien avec les Mongols
+## Création en prose et attachement à la Mongolie
 
-En plus de la poésie, Xi Mu-rong est une romancière. À partir de la fin des années 1980, elle a publié successivement des recueils de nouvelles tels que _Traces de croissance_ et _Une chanson_, poursuivant le style frais de sa poésie avec un langage élégant et des émotions sincères.
+Outre la poésie, Xi Mu-rong est également une essayiste. Au début des années 1980, elle publie successivement des recueils d'essais tels que 《成長的痕跡》 (1982) et 《有一首歌》, prolongeant le style frais de sa poésie, avec une écriture élégante et des sentiments sincères.
 
-En 1989, son premier voyage dans les steppes mongoles l'a profondément influencée. Elle a commencé à créer en abondance des poèmes et des nouvelles sur le thème des Mongols, telles que _Ma maison est sur la haute plaine_ et _Le pays attend_, qui témoignent de sa profonde affection pour les steppes et de ses réflexions sur la culture ethnique. Elle exprime par la forme de la poésie moderne son attachement à l'ancienne culture et son identification ethnique.[^5]
+En 1989, elle foule pour la première fois la steppe mongole ; ce voyage à la recherche de ses racines a un impact considérable sur elle. Elle commence alors à créer abondamment des poèmes et des essais sur le thème de la Mongolie ; des œuvres comme 《我的家在高原上》 et 《江山有待》 témoignent de son profond attachement à la steppe et de sa réflexion sur la culture ethnique. Elle utilise la forme de la poésie moderne pour exprimer sa nostalgie pour une culture ancienne et son identification à son identité ethnique.[^5]
 
-_Je donne un nom à la mémoire_, publié en 2019, est son recueil poétique tardif, dont le langage est plus calme et introspectif, contemplant les errances et la recherche des racines tout au long de sa vie avancée.
+Publié en 2019, 《我給記憶命名》 est son recueil de poèmes tardif, où, à un âge avancé, elle regarde en arrière sur une vie d'errance et de quête de ses racines ; le langage y devient plus posé et intériorisé.
 
 ## La combinaison parfaite entre peinture et poésie
 
@@ -87,19 +87,19 @@ Contrairement à l'élégance raffinée de [Bai Hsien-yung](/fr/people/pai-hsien
 
 ## Références
 
-[^1]: [Département des Beaux-Arts de l'Université Normale de Taïwan](https://www.ntnu.edu.tw/art/) — Contexte de fondation du département d'art et informations sur les anciens élèves.
+[^1]: [Département des beaux-arts de l'Université normale nationale de Taiwan](https://www.ntnu.edu.tw/art/) — Contexte de la création du département des beaux-arts de l'Université normale de Taiwan et informations sur les anciens élèves.
 
-[^2]: [Académie Royale des Beaux-Arts de Bruxelles](https://www.arba-esi.be/) — Institution d'études de Xi Mu-rong, une école d'art nationale belge.
+[^2]: [Académie royale des beaux-arts de Bruxelles](https://www.arba-esi.be/) — Institution où Xi Murong a étudié, académie nationale des arts de Belgique.
 
-[^3]: [Musée National de Littérature de Taïwan — Exposition spéciale Xi Mu-rong](https://www.nmtl.gov.tw/) — Dossier sur la publication et les rééditions de _Qili Xiang_, incluant des données de vente du recueil et des informations sur l'exposition.
+[^3]: [Musée national de la littérature de Taiwan — Exposition spéciale Xi Murong](https://www.nmtl.gov.tw/) — Enregistrements de publication et de réimpression de « Qīlǐxiāng », y compris les données de vente du recueil de poèmes et les informations sur l'exposition.
 
-[^4]: [Alliance électronique de livres de Taïwan — Page d'œuvres de Xi Mu-rong](https://www.taaze.tw/) — Informations sur la première édition de _Le Jeunesse Sans Regrets_ et confirmation de l'année de publication.
+[^4]: [Alliance taiwanaise du livre électronique — Page des œuvres de Xi Murong](https://www.taaze.tw/) — Informations sur la première édition de « Wúyuàn de qīngchūn » et confirmation de l'année de publication.
 
-[^5]: [Musée de Culture Mongole — Créations littéraires mongoles de Xi Mu-rong](https://www.mtac.gov.tw/) — Présentation thématique par une institution gouvernementale concernant les œuvres littéraires mongoles de Xi Mu-rong.
+[^5]: [Centre culturel mongol et tibétain — Création littéraire mongole de Xi Murong](https://www.mtac.gov.tw/) — Présentation thématique par un organisme gouvernemental sur la création littéraire mongole de Xi Murong.
 
-[^6]: [Site officiel de Xi Mu-rong](http://www.ximurong.tw) — Site officiel de la poétesse, contenant des informations sur ses œuvres, des archives d'expositions et son parcours créatif.
+[^6]: [Site officiel de Xi Murong](http://www.ximurong.tw) — Site officiel du poète, répertoriant les informations sur les œuvres, les expositions de peinture et le parcours créatif.
 
-[^7]: [Prix National des Arts — Fonds national pour la culture et les arts](https://www.ncafroc.org.tw/) — Dossier sur les prix reçus par Xi Mu-rong et les explications du jury.
+[^7]: [Prix national des arts et de la littérature — Fondation nationale pour la culture et les arts](https://www.ncafroc.org.tw/) — Dossier de récompense de Xi Murong et commentaires du jury.
 
 ## Lectures complémentaires
 

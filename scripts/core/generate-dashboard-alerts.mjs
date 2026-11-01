@@ -36,6 +36,7 @@ const OWNERS = {
   'spore-harvest-': 'twmd-spore-harvest-am',
   'organism-missing': 'twmd-data-refresh',
   'probe-': 'twmd-news-lens-weekly',
+  'data-hub-': 'twmd-data-refresh',
 };
 function ownerFor(id) {
   for (const [prefix, owner] of Object.entries(OWNERS)) {
@@ -395,6 +396,41 @@ try {
   }
 } catch {
   // reports/probe/ 不存在時不擋 prebuild；上面的 probe-missing 分支已涵蓋空目錄
+}
+
+// ── 12. 資料台灣指標過期（/data 每個數字都標了 cadence，過了「下一期該出來」
+// 的期限還沒換 = 頁面在用舊數字講今天，2026-10-23 data-hub 加）。
+// 舊版 /data 的八張數字卡兩年沒人動，沒有任何燈亮過；期限的算法（cadence ×
+// 官方發布時滯）全在 data-hub-check.py 的 MAX_AGE_DAYS，這裡只轉發結果。
+// 收成一條：一批年度數字同時到期時不該把其他警報擠出前 6 條的甦醒視窗；
+// 哪些指標過期寫在訊息裡，firstSeen 記的是「開始有指標過期」那天。
+try {
+  const hub = JSON.parse(
+    execSync('python3 scripts/tools/data-hub-check.py --json', {
+      encoding: 'utf8',
+      timeout: 30_000,
+    }),
+  );
+  const stale = [...(hub.stale || [])].sort((a, b) => b.ageDays - a.ageDays);
+  if (stale.length) {
+    const CADENCE_ZH = { monthly: '月', quarterly: '季', annual: '年' };
+    const shown = stale
+      .slice(0, 5)
+      .map(
+        (s) =>
+          `${s.id}（${CADENCE_ZH[s.cadence] || s.cadence}資料，期間到 ${s.asOf}，已 ${s.ageDays} 天）`,
+      )
+      .join('、');
+    const more = stale.length > 5 ? ` 等 ${stale.length} 個` : '';
+    addAlert(
+      'data-hub-stale',
+      'yellow',
+      `資料台灣 ${stale.length}/${hub.indicators} 個指標的數字過期：${shown}${more} — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale`,
+      'data-hub-check.py × src/data/data-hub/indicators.json',
+    );
+  }
+} catch {
+  // python 不可用或 JSON 壞掉不擋 prebuild；data-hub-check.py 直接跑會印出原因
 }
 
 // ── output ───────────────────────────────────────────────────────────────

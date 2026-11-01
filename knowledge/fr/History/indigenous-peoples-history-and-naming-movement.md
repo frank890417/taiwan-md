@@ -1,27 +1,26 @@
 ---
-title: 'Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms'
-description: 'En 1987, un jeune Tsou de dix-neuf ans est exécuté dans une prison de Taipei. Sa mort allume la première flamme du mouvement pour la reconnaissance des noms.'
+title: 'Histoire des peuples autochtones de Taïwan et mouvement pour la rectification de leur appellation'
+description: "En 1987, le jeune Tsou de 19 ans, Tang Ying-shen, a été fusillé au champ de tir de Taipei ; sa mort a allumé la première étincelle du mouvement pour la rectification de l'appellation des peuples autochtones de Taïwan. De la création de l'Alliance pour les droits des autochtones en 1984, au renversement de la statue de Wu Feng et à la marche « Rendez-nous notre terre » en 1988, jusqu'à la modification constitutionnelle de 1994 remplaçant « compatriotes des montagnes » par « autochtones », et l'ajout du caractère « ethnie » dans la Loi fondamentale sur les peuples autochtones en 2005, ce chemin a pris 21 ans. Les « barbares civilisés » et « barbares sauvages » des Néerlandais, les « barbares familiers » et « barbares sauvages » des Qing, la « politique de gestion des barbares » des Japonais, les « compatriotes des montagnes » de l'après-guerre : chaque nom était un verrou ; les trois premiers ont été imposés par d'autres, les deux derniers ont été arrachés par eux-mêmes."
 date: 2026-03-29
+category: 'History'
 tags:
   [
-    'peuples autochtones',
-    'reconnaissance des noms',
-    'identité',
-    'mouvements sociaux',
-    'préservation culturelle',
+    'Peuples autochtones',
+    "Mouvement pour la rectification de l'appellation",
+    'Identité',
+    'Mouvements sociaux',
+    'Préservation culturelle',
   ]
 subcategory: '史前與原住民'
-category: 'History'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-lastVerified: 2026-03-29
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-04-14T12:31:41+08:00'
+translatedAt: '2026-10-21T02:10:21.095268+00:00'
 ---
 
 # Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms

@@ -56,7 +56,10 @@ const { pageType } = Astro.props;
         if (url.origin === document.location.origin) return false;
         var host = url.hostname.replace(/^www\./, '');
         for (var i = 0; i < SAME_ORIGIN_HOSTS.length; i++) {
-          if (host === SAME_ORIGIN_HOSTS[i] || host.endsWith('.' + SAME_ORIGIN_HOSTS[i])) {
+          if (
+            host === SAME_ORIGIN_HOSTS[i] ||
+            host.endsWith('.' + SAME_ORIGIN_HOSTS[i])
+          ) {
             return false;
           }
         }
@@ -83,7 +86,9 @@ const { pageType } = Astro.props;
     // ── (1) click + (2) outbound click ──────────────────────────────────
     function _onClick(e) {
       var target =
-        e.target && e.target.closest ? e.target.closest('[data-ga-section]') : null;
+        e.target && e.target.closest
+          ? e.target.closest('[data-ga-section]')
+          : null;
       if (!target) return;
       var section = target.getAttribute('data-ga-section');
       var label = target.getAttribute('data-ga-label') || '';
@@ -191,7 +196,8 @@ const { pageType } = Astro.props;
           _fire('time_milestone', { seconds: stops[idx], page_lang: _lang() });
           idx++;
         }
-        if (idx < stops.length) setTimeout(_tick, (stops[idx] - elapsed) * 1000 + 100);
+        if (idx < stops.length)
+          setTimeout(_tick, (stops[idx] - elapsed) * 1000 + 100);
       }
       setTimeout(_tick, stops[0] * 1000);
     }

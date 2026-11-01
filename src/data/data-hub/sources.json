@@ -1,0 +1,1485 @@
+{
+  "$comment": "/data §6「資料從哪裡來」來源目錄。每一條的網址、規模與使用限制都來自 reports/research/2026-10/data-hub-r1-gov-open-data.md（官方）、data-hub-r2-civic-media-aggregators.md（民間、學術、國際），2026-10-23 實際開過。meta 只放可驗證的格式／存取標籤；tip 寫實際用起來會撞到的事。",
+  "verifiedAt": "2026-10-23",
+  "groups": [
+    {
+      "id": "official",
+      "title": {
+        "zh-TW": "官方統計與開放資料",
+        "en": "Official statistics and open data"
+      },
+      "intro": {
+        "zh-TW": "政府資料開放平臺是目錄，真正的統計多半住在各部會自己的網站。查一個數字，先找負責發布它的那個機關。",
+        "en": "The national open-data portal is a catalogue; most statistics actually live on each ministry's own site. To look up a number, start with the agency that publishes it."
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "政府資料開放平臺",
+            "en": "Government Open Data Platform (data.gov.tw)"
+          },
+          "org": {
+            "zh-TW": "數位發展部",
+            "en": "Ministry of Digital Affairs"
+          },
+          "url": "https://data.gov.tw/",
+          "good": {
+            "zh-TW": "全國資料集的總目錄，52,556 個資料集（2026-10-23），整份清單可以下載成 CSV。",
+            "en": "The national catalogue: 52,556 datasets as of 23 Oct 2026, and the whole list can be downloaded as CSV."
+          },
+          "meta": ["CSV", "JSON", "目錄下載"],
+          "tip": {
+            "zh-TW": "很多資料集是同一張表一年一份，把標題裡的民國年去掉後只剩約 4.35 萬個不同標題；要時間序列得自己拼。",
+            "en": "Many datasets are the same table split by year; strip the ROC year from titles and only about 43,500 distinct ones remain, so you assemble the time series yourself."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "中華民國統計資訊網",
+            "en": "National Statistics, R.O.C. (Taiwan)"
+          },
+          "org": {
+            "zh-TW": "行政院主計總處",
+            "en": "DGBAS, Executive Yuan"
+          },
+          "url": "https://www.stat.gov.tw/",
+          "good": {
+            "zh-TW": "經濟成長率、物價、失業率、薪資等重要指標的第一手發布，當天新聞稿與發布時程都在這裡。",
+            "en": "First release of headline indicators such as GDP growth, prices, unemployment and wages, with same-day press releases and the release calendar."
+          },
+          "meta": ["XML", "ZIP", "新聞稿"],
+          "tip": {
+            "zh-TW": "伺服器沒送中繼憑證，用程式抓（Python、curl、Node）會連線失敗，瀏覽器正常。",
+            "en": "The server omits its intermediate certificate, so scripted downloads (Python, curl, Node) fail while browsers work."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "縣市重要統計指標查詢系統",
+            "en": "County and City Key Statistics"
+          },
+          "org": {
+            "zh-TW": "行政院主計總處",
+            "en": "DGBAS"
+          },
+          "url": "https://winstacity.dgbas.gov.tw/DgbasWeb/ZWeb/StateFile_ZWeb.aspx",
+          "good": {
+            "zh-TW": "22 縣市同一口徑的土地、人口、婚育、年齡結構等指標，適合做縣市比較。",
+            "en": "Land, population, marriage, births and age structure for all 22 counties and cities on one basis, ideal for comparisons."
+          },
+          "meta": ["查詢系統"]
+        },
+        {
+          "name": {
+            "zh-TW": "薪情平臺",
+            "en": "Earnings Platform"
+          },
+          "org": {
+            "zh-TW": "行政院主計總處",
+            "en": "DGBAS"
+          },
+          "url": "https://earnings.dgbas.gov.tw/",
+          "good": {
+            "zh-TW": "薪資中位數與分布的互動查詢，是政府做給大眾看的儀表板裡做得最好的之一。",
+            "en": "Interactive wage medians and distributions; one of the best public-facing government dashboards."
+          },
+          "meta": ["互動圖表"]
+        },
+        {
+          "name": {
+            "zh-TW": "三大普查統計資料平臺",
+            "en": "Census Data Platform"
+          },
+          "org": {
+            "zh-TW": "行政院主計總處",
+            "en": "DGBAS"
+          },
+          "url": "https://census.dgbas.gov.tw/entrance",
+          "good": {
+            "zh-TW": "人口及住宅、農林漁牧業、工業及服務業普查；唯一細到統計區的來源。",
+            "en": "Population and housing, agriculture, and industry censuses; the only source down to statistical-area level."
+          },
+          "meta": ["互動地圖", "每 5 年"]
+        },
+        {
+          "name": {
+            "zh-TW": "戶政司人口統計",
+            "en": "Household Registration Statistics"
+          },
+          "org": {
+            "zh-TW": "內政部戶政司",
+            "en": "Department of Household Registration, MOI"
+          },
+          "url": "https://www.ris.gov.tw/app/portal/37",
+          "good": {
+            "zh-TW": "每月的人口、出生、死亡、結婚、離婚，細到村里，同婚統計也在這裡。",
+            "en": "Monthly population, births, deaths, marriages and divorces down to village level, including same-sex marriage figures."
+          },
+          "meta": ["CSV", "每月"]
+        },
+        {
+          "name": {
+            "zh-TW": "社會經濟資料服務平台",
+            "en": "Socio-Economic Data Service Platform"
+          },
+          "org": {
+            "zh-TW": "內政部",
+            "en": "Ministry of the Interior"
+          },
+          "url": "https://segis.moi.gov.tw/",
+          "good": {
+            "zh-TW": "把統計數字綁到最小統計區的圖資，做地圖分析的起點。",
+            "en": "Statistics attached to the smallest statistical areas, the starting point for map analysis."
+          },
+          "meta": ["圖資", "需登入"]
+        },
+        {
+          "name": {
+            "zh-TW": "海關進出口貿易統計",
+            "en": "Customs Trade Statistics"
+          },
+          "org": {
+            "zh-TW": "財政部統計處",
+            "en": "Ministry of Finance"
+          },
+          "url": "https://web02.mof.gov.tw/njswww/WebProxy.aspx?sys=100&funid=defjspf2",
+          "good": {
+            "zh-TW": "按國家、按貨品的進出口，每月發布。",
+            "en": "Imports and exports by country and product, released monthly."
+          },
+          "meta": ["查詢系統", "每月"]
+        },
+        {
+          "name": {
+            "zh-TW": "中央銀行統計",
+            "en": "Central Bank statistics"
+          },
+          "org": {
+            "zh-TW": "中央銀行",
+            "en": "Central Bank of the Republic of China (Taiwan)"
+          },
+          "url": "https://www.cbc.gov.tw/",
+          "good": {
+            "zh-TW": "利率、匯率、貨幣與外匯存底的權威時間序列。",
+            "en": "The authoritative series for interest rates, exchange rates, money supply and foreign reserves."
+          },
+          "meta": ["CSV", "每日至每月"],
+          "tip": {
+            "zh-TW": "有些檔案仍是 Big5 編碼。",
+            "en": "Some files are still Big5-encoded."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "能源統計",
+            "en": "Energy statistics"
+          },
+          "org": {
+            "zh-TW": "經濟部能源署",
+            "en": "Energy Administration, MOEA"
+          },
+          "url": "https://www.moeaea.gov.tw/ECW/populace/home/Home.aspx",
+          "good": {
+            "zh-TW": "發電結構、再生能源、能源供需的月資料，格式乾淨。",
+            "en": "Clean monthly data on the power mix, renewables and energy supply."
+          },
+          "meta": ["CSV", "每月"]
+        },
+        {
+          "name": {
+            "zh-TW": "台電開放資料",
+            "en": "Taipower open data"
+          },
+          "org": {
+            "zh-TW": "台灣電力公司",
+            "en": "Taiwan Power Company"
+          },
+          "url": "https://service.taipower.com.tw/data/opendata/apply/file/d006001/001.json",
+          "good": {
+            "zh-TW": "逐機組即時發電、系統供需、各鄉鎮用電，每 10 分鐘更新，不用金鑰。",
+            "en": "Real-time output by generating unit, system supply and demand, and electricity use by township, updated every 10 minutes with no key."
+          },
+          "meta": ["JSON", "免金鑰", "即時"]
+        },
+        {
+          "name": {
+            "zh-TW": "環境資料開放平臺",
+            "en": "Environmental Data Open Platform"
+          },
+          "org": {
+            "zh-TW": "環境部",
+            "en": "Ministry of Environment"
+          },
+          "url": "https://data.moenv.gov.tw/",
+          "good": {
+            "zh-TW": "空品、水質、廢棄物、環評；API 文件是政府平台裡寫得最清楚的一個。",
+            "en": "Air and water quality, waste and impact assessments; its API documentation is the clearest among government platforms."
+          },
+          "meta": ["API", "Swagger"],
+          "tip": {
+            "zh-TW": "不註冊每支 API 一天 300 次，註冊後 5,000 次。",
+            "en": "300 calls a day per API without an account, 5,000 with one."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "TDX 運輸資料流通服務",
+            "en": "TDX Transport Data eXchange"
+          },
+          "org": {
+            "zh-TW": "交通部",
+            "en": "Ministry of Transportation and Communications"
+          },
+          "url": "https://tdx.transportdata.tw/",
+          "good": {
+            "zh-TW": "公車、鐵路、航空、自行車、停車的即時資料；欄位一致、有多語，是開發者生態最成熟的一個。",
+            "en": "Real-time buses, rail, flights, bikes and parking; consistent fields, multilingual, and the most mature developer ecosystem."
+          },
+          "meta": ["REST API", "即時"]
+        },
+        {
+          "name": {
+            "zh-TW": "氣象資料開放平臺",
+            "en": "CWA Open Weather Data"
+          },
+          "org": {
+            "zh-TW": "交通部中央氣象署",
+            "en": "Central Weather Administration"
+          },
+          "url": "https://opendata.cwa.gov.tw/",
+          "good": {
+            "zh-TW": "預報、觀測、地震、海象；全國下載次數最多的兩個資料集都是它的地震報告。",
+            "en": "Forecasts, observations, earthquakes and sea conditions; the two most downloaded datasets in the country are its earthquake reports."
+          },
+          "meta": ["REST API", "需授權碼"]
+        },
+        {
+          "name": {
+            "zh-TW": "中選會選舉資料庫",
+            "en": "CEC Election Database"
+          },
+          "org": {
+            "zh-TW": "中央選舉委員會",
+            "en": "Central Election Commission"
+          },
+          "url": "https://db.cec.gov.tw/ElecTable",
+          "good": {
+            "zh-TW": "歷屆總統、立委、地方選舉、公投與罷免的投開票結果，投票後 7 日內更新。",
+            "en": "Results of every presidential, legislative and local election, referendum and recall, updated within 7 days of voting."
+          },
+          "meta": ["CSV", "視覺化"]
+        },
+        {
+          "name": {
+            "zh-TW": "立法院開放資料服務平台",
+            "en": "Legislative Yuan Open Data"
+          },
+          "org": {
+            "zh-TW": "立法院",
+            "en": "Legislative Yuan"
+          },
+          "url": "https://data.ly.gov.tw/",
+          "good": {
+            "zh-TW": "議案、表決、質詢、委員發言，幾乎每天更新，不用金鑰。",
+            "en": "Bills, votes, interpellations and speeches, updated almost daily with no key."
+          },
+          "meta": ["JSON", "CSV", "免金鑰"]
+        },
+        {
+          "name": {
+            "zh-TW": "證交所與櫃買中心 OpenAPI",
+            "en": "TWSE and TPEx OpenAPI"
+          },
+          "org": {
+            "zh-TW": "臺灣證券交易所、證券櫃檯買賣中心",
+            "en": "Taiwan Stock Exchange, Taipei Exchange"
+          },
+          "url": "https://openapi.twse.com.tw/",
+          "good": {
+            "zh-TW": "個股收盤、成交與上市櫃公司基本資料，兩邊合計三百多個端點，不用金鑰。",
+            "en": "Daily prices, trading and company profiles for listed firms, over 300 endpoints combined, no key needed."
+          },
+          "meta": ["JSON", "Swagger", "免金鑰"],
+          "tip": {
+            "zh-TW": "同一筆回應裡，日期欄用民國（1151022），成立日期卻是西元（19501229）；數值全部是字串。",
+            "en": "Within a single response the date field is in ROC years (1151022) while the founding date is Gregorian (19501229), and every number is a string."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "農業資料開放平臺",
+            "en": "Agriculture Open Data"
+          },
+          "org": {
+            "zh-TW": "農業部",
+            "en": "Ministry of Agriculture"
+          },
+          "url": "https://data.moa.gov.tw/",
+          "good": {
+            "zh-TW": "農產品行情、漁業、畜牧，有 1,718 個資料集；糧食供需統計另在農業部統計處。",
+            "en": "Produce prices, fisheries and livestock across 1,718 datasets; food supply statistics are published separately by its statistics office."
+          },
+          "meta": ["API", "每日至每月"]
+        },
+        {
+          "name": {
+            "zh-TW": "文化統計",
+            "en": "Culture statistics"
+          },
+          "org": {
+            "zh-TW": "文化部統計處",
+            "en": "Ministry of Culture"
+          },
+          "url": "https://stat.moc.gov.tw/",
+          "good": {
+            "zh-TW": "博物館、圖書館、出版、電影、文化資產的年度數據。",
+            "en": "Annual figures for museums, libraries, publishing, film and cultural heritage."
+          },
+          "meta": ["表格", "每年"]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": {
+        "zh-TW": "地方政府",
+        "en": "Local governments"
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "臺北市資料大平臺",
+            "en": "Taipei Open Data (data.taipei)"
+          },
+          "org": {
+            "zh-TW": "臺北市政府",
+            "en": "Taipei City Government"
+          },
+          "url": "https://data.taipei/",
+          "good": {
+            "zh-TW": "24 個主題分類，可以線上預覽、下載與 API 介接。",
+            "en": "24 topic categories with online preview, downloads and API access."
+          },
+          "meta": ["CSV", "API"]
+        },
+        {
+          "name": {
+            "zh-TW": "臺北城市儀表板",
+            "en": "Taipei City Dashboard"
+          },
+          "org": {
+            "zh-TW": "臺北市政府資訊局",
+            "en": "Taipei Department of Information Technology"
+          },
+          "url": "https://citydashboard.taipei/",
+          "good": {
+            "zh-TW": "捷運進出、YouBike、施工、社宅進度的即時儀表板，程式碼開源，是全國少見的市政儀表板。",
+            "en": "Live dashboard of metro flows, YouBike, roadworks and social housing; open source and a rare example of a city dashboard."
+          },
+          "meta": ["開源", "互動地圖"]
+        },
+        {
+          "name": {
+            "zh-TW": "新北市資料開放平臺",
+            "en": "New Taipei Open Data"
+          },
+          "org": {
+            "zh-TW": "新北市政府",
+            "en": "New Taipei City Government"
+          },
+          "url": "https://data.ntpc.gov.tw/",
+          "good": {
+            "zh-TW": "目錄筆數最多的直轄市之一。",
+            "en": "One of the largest municipal catalogues."
+          },
+          "meta": ["API"],
+          "tip": {
+            "zh-TW": "API 端點要帶授權才回資料。",
+            "en": "API endpoints require authorization."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "臺南市與高雄市資料開放平台",
+            "en": "Tainan and Kaohsiung open data"
+          },
+          "org": {
+            "zh-TW": "臺南市政府、高雄市政府",
+            "en": "Tainan and Kaohsiung city governments"
+          },
+          "url": "https://data.tainan.gov.tw/",
+          "good": {
+            "zh-TW": "兩市都提供整份資料清冊下載，最容易用程式串接。",
+            "en": "Both publish a downloadable inventory of every dataset, the easiest to integrate programmatically."
+          },
+          "meta": ["清冊 CSV"]
+        }
+      ]
+    },
+    {
+      "id": "civic",
+      "title": {
+        "zh-TW": "公民科技與民間資料庫",
+        "en": "Civic tech and independent databases"
+      },
+      "intro": {
+        "zh-TW": "民間接住了政府沒做的事：把資料整理成 API、替只給即時值的資料留下歷史、把預算審議拆成一筆一筆。",
+        "en": "Civil society picks up what government leaves undone: turning data into APIs, keeping history for feeds that only show the present, and breaking budget reviews into individual line items."
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "歐噴資料庫",
+            "en": "OpenFun Database"
+          },
+          "org": {
+            "zh-TW": "歐噴有限公司",
+            "en": "OpenFun Ltd."
+          },
+          "url": "https://data.openfun.tw",
+          "good": {
+            "zh-TW": "3,445 份以上整理好的公共資料集，多數附 AI 說明書，CC BY 4.0，也有給 AI 代理人讀的 llms.txt。",
+            "en": "Over 3,445 cleaned public datasets, most with an AI-readable guide, under CC BY 4.0, plus an llms.txt for AI agents."
+          },
+          "meta": ["API", "CC BY 4.0"],
+          "tip": {
+            "zh-TW": "查詢要 Token；2026 年全站免費試用，之後的價格未公布。",
+            "en": "Queries need a token; free trial for all of 2026, with later pricing not yet published."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "立法院 API（LYAPI）",
+            "en": "Legislative Yuan API (LYAPI)"
+          },
+          "org": {
+            "zh-TW": "歐噴有限公司",
+            "en": "OpenFun Ltd."
+          },
+          "url": "https://v2.ly.govapi.tw/",
+          "good": {
+            "zh-TW": "議案、立委、公報、會議與影片的結構化 API，持續更新。",
+            "en": "A structured API for bills, legislators, gazettes, meetings and video, actively maintained."
+          },
+          "meta": ["API"]
+        },
+        {
+          "name": {
+            "zh-TW": "中央政府總預算案審查監督平台",
+            "en": "Central Government Budget Review Watch"
+          },
+          "org": {
+            "zh-TW": "公民監督國會聯盟、READr",
+            "en": "Citizen Congress Watch, READr"
+          },
+          "url": "https://watchmoney.ccw.org.tw/",
+          "good": {
+            "zh-TW": "每一筆預算刪減與凍結的提案人與理由，看得到審議細節；程式碼與資料都開源。本站的總預算十年看長期趨勢，兩者互補。",
+            "en": "Who proposed each budget cut or freeze and why, down to the line item; code and data are open. Taiwan.md's Budget Decade covers the long-term trend, so the two complement each other."
+          },
+          "meta": ["開源", "開放資料"]
+        },
+        {
+          "name": {
+            "zh-TW": "Cofacts 真的假的開放資料",
+            "en": "Cofacts open data"
+          },
+          "org": {
+            "zh-TW": "Cofacts 社群",
+            "en": "Cofacts community"
+          },
+          "url": "https://github.com/cofacts/opendata",
+          "good": {
+            "zh-TW": "群眾查核 LINE 訊息累積的資料集，放在 Hugging Face，CC BY-SA 4.0。",
+            "en": "A dataset built from crowd-sourced fact-checks of LINE messages, hosted on Hugging Face under CC BY-SA 4.0."
+          },
+          "meta": ["CC BY-SA 4.0"]
+        },
+        {
+          "name": {
+            "zh-TW": "開放台灣民間租屋資料",
+            "en": "Open Taiwan rental data"
+          },
+          "org": {
+            "zh-TW": "g0v 社群",
+            "en": "g0v community"
+          },
+          "url": "https://github.com/g0v/tw-rental-house-data",
+          "good": {
+            "zh-TW": "2018 年起長期整理租屋網的公開資訊，聚合成月、季、年資料。",
+            "en": "Public listing data from rental sites, collected since 2018 and aggregated by month, quarter and year."
+          },
+          "meta": ["開源"]
+        },
+        {
+          "name": {
+            "zh-TW": "台電發電資料封存",
+            "en": "Taipower generation archive"
+          },
+          "org": {
+            "zh-TW": "個人維護（GitHub kiang/taipower_data）",
+            "en": "Individually maintained (GitHub kiang/taipower_data)"
+          },
+          "url": "https://github.com/kiang/taipower_data",
+          "good": {
+            "zh-TW": "台電網站只給即時值，這個 repo 把它每天存進 git，留下了官方沒保存的歷史。",
+            "en": "Taipower's site only shows the present; this repository commits it to git every day, keeping history the official site does not."
+          },
+          "meta": ["git 封存"],
+          "tip": {
+            "zh-TW": "欄位說明與授權需要自己確認。",
+            "en": "Check field definitions and licensing yourself."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "g0v 社群日曆",
+            "en": "g0v community calendar"
+          },
+          "org": {
+            "zh-TW": "g0v 零時政府",
+            "en": "g0v"
+          },
+          "url": "https://g0v.github.io/community-calendar/",
+          "good": {
+            "zh-TW": "黑客松與公民科技活動，想找人一起做資料專案的入口。",
+            "en": "Hackathons and civic-tech events; the place to find collaborators for a data project."
+          },
+          "meta": ["社群"]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": {
+        "zh-TW": "資料新聞",
+        "en": "Data journalism"
+      },
+      "intro": {
+        "zh-TW": "這些團隊把資料做成報導。多數報導沒有附上底層資料，引用數字時回到它們標明的官方來源。",
+        "en": "These teams turn data into reporting. Most stories do not publish their underlying data, so cite the official source they name."
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "報導者",
+            "en": "The Reporter (twreporter)"
+          },
+          "org": {
+            "zh-TW": "非營利媒體",
+            "en": "Non-profit newsroom"
+          },
+          "url": "https://www.twreporter.org/",
+          "good": {
+            "zh-TW": "固定編制設計、工程、資料整理；事故地圖、政治獻金等深度資料報導。",
+            "en": "Dedicated design, engineering and data staff; in-depth data stories on traffic accidents, political donations and more."
+          },
+          "meta": ["深度報導"]
+        },
+        {
+          "name": {
+            "zh-TW": "READr",
+            "en": "READr"
+          },
+          "org": {
+            "zh-TW": "鏡傳媒",
+            "en": "Mirror Media"
+          },
+          "url": "https://www.readr.tw/",
+          "good": {
+            "zh-TW": "少數明確承諾公開報導資料的團隊，GitHub 上有資料與程式。",
+            "en": "One of the few teams that explicitly commits to publishing its data, with data and code on GitHub."
+          },
+          "meta": ["開放資料"]
+        },
+        {
+          "name": {
+            "zh-TW": "中央社新聞圖表",
+            "en": "CNA news graphics"
+          },
+          "org": {
+            "zh-TW": "中央通訊社",
+            "en": "Central News Agency"
+          },
+          "url": "https://www.cna.com.tw/topic/newstopic/4479.aspx",
+          "good": {
+            "zh-TW": "幾乎每天一張的新聞圖表，預算、經濟、選舉都有。",
+            "en": "News graphics almost daily, covering the budget, the economy and elections."
+          },
+          "meta": ["日更"]
+        },
+        {
+          "name": {
+            "zh-TW": "公視新聞實驗室",
+            "en": "PTS News Lab"
+          },
+          "org": {
+            "zh-TW": "公共電視",
+            "en": "Public Television Service"
+          },
+          "url": "https://newslab.pts.org.tw/",
+          "good": {
+            "zh-TW": "數位敘事專題，資料來源寫在專題裡。",
+            "en": "Digital storytelling projects with sources noted in each piece."
+          },
+          "meta": ["互動專題"]
+        },
+        {
+          "name": {
+            "zh-TW": "Taiwan Data Stories",
+            "en": "Taiwan Data Stories"
+          },
+          "org": {
+            "zh-TW": "獨立創作者",
+            "en": "Independent creators"
+          },
+          "url": "https://taiwandatastories.com/",
+          "good": {
+            "zh-TW": "珍奶、百岳、街頭小吃、高齡化等主題的捲動式資料敘事，會把資料限制寫出來。",
+            "en": "Scrollytelling data stories on bubble tea, Taiwan's 100 peaks, street food and ageing, with data limitations spelled out."
+          },
+          "meta": ["視覺敘事"]
+        }
+      ]
+    },
+    {
+      "id": "academic",
+      "title": {
+        "zh-TW": "學術調查與文化典藏",
+        "en": "Academic surveys and cultural archives"
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "臺灣百年歷史地圖",
+            "en": "Taiwan Historical Maps"
+          },
+          "org": {
+            "zh-TW": "中央研究院 GIS 中心",
+            "en": "Academia Sinica GIS Center"
+          },
+          "url": "https://gis.sinica.edu.tw/",
+          "good": {
+            "zh-TW": "百年來的歷史地圖，用 WMTS 標準服務，QGIS 等軟體可以直接疊圖。",
+            "en": "A century of historical maps served via the WMTS standard, ready to overlay in QGIS and similar tools."
+          },
+          "meta": ["WMTS"],
+          "tip": {
+            "zh-TW": "服務頁沒寫授權，引用前要自己確認。",
+            "en": "The service page states no licence, so confirm before reuse."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "學術調查研究資料庫（SRDA）",
+            "en": "Survey Research Data Archive (SRDA)"
+          },
+          "org": {
+            "zh-TW": "中央研究院",
+            "en": "Academia Sinica"
+          },
+          "url": "https://srda.sinica.edu.tw/",
+          "good": {
+            "zh-TW": "學界與政府的調查原始資料，附問卷與編碼簿；台灣選舉與民主化調查、社會變遷調查都由這裡釋出。",
+            "en": "Raw survey data from academia and government, with questionnaires and codebooks; Taiwan's election and social change surveys are released here."
+          },
+          "meta": ["需申請", "CSV", "SPSS"]
+        },
+        {
+          "name": {
+            "zh-TW": "重要政治態度分佈趨勢圖",
+            "en": "Trends in core political attitudes"
+          },
+          "org": {
+            "zh-TW": "政治大學選舉研究中心",
+            "en": "Election Study Center, National Chengchi University"
+          },
+          "url": "https://esc.nccu.edu.tw/",
+          "good": {
+            "zh-TW": "台灣人／中國人認同、統獨立場、政黨偏好，1992 年起的長期序列。",
+            "en": "Long-run series since 1992 on Taiwanese/Chinese identity, independence/unification views and party preference."
+          },
+          "meta": ["趨勢圖"],
+          "tip": {
+            "zh-TW": "民調的問法不同，結果就不同；引用時一併說明是哪一份調查。",
+            "en": "Different question wording yields different results; always say which survey a figure comes from."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "國家文化記憶庫 2.0",
+            "en": "Taiwan Cultural Memory Bank 2.0"
+          },
+          "org": {
+            "zh-TW": "文化部、國立臺灣歷史博物館",
+            "en": "Ministry of Culture, National Museum of Taiwan History"
+          },
+          "url": "https://tcmb.culture.tw/",
+          "good": {
+            "zh-TW": "標示 CC 授權或公眾領域的典藏可以直接下載。",
+            "en": "Items marked with a CC licence or public domain can be downloaded directly."
+          },
+          "meta": ["JSON"],
+          "tip": {
+            "zh-TW": "Open API 要申請金鑰並提供固定 IP。",
+            "en": "The open API requires an application, a key and a fixed IP address."
+          }
+        },
+        {
+          "name": {
+            "zh-TW": "開放博物館",
+            "en": "Open Museum"
+          },
+          "org": {
+            "zh-TW": "中央研究院數位文化中心",
+            "en": "Academia Sinica Center for Digital Cultures"
+          },
+          "url": "https://openmuseum.tw/",
+          "good": {
+            "zh-TW": "百萬件以上藏品，註冊後可以用來策展。",
+            "en": "Over a million collection items that registered users can curate into exhibitions."
+          },
+          "meta": ["典藏"]
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": {
+        "zh-TW": "國際上有台灣這一列的資料庫",
+        "en": "International databases that include Taiwan"
+      },
+      "intro": {
+        "zh-TW": "做國際比較時，先確認資料庫裡有沒有台灣這一列。下面這些有；名稱怎麼寫，見上方「國際資料庫」那一節。",
+        "en": "Before comparing internationally, check that a database has a Taiwan row at all. These do; for how each one names Taiwan, see the international databases section above."
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "IMF 世界經濟展望",
+            "en": "IMF World Economic Outlook"
+          },
+          "org": {
+            "zh-TW": "國際貨幣基金",
+            "en": "International Monetary Fund"
+          },
+          "url": "https://www.imf.org/external/datamapper/api/v1/NGDPD/TWN",
+          "good": {
+            "zh-TW": "GDP、成長率與預測，可以跟其他經濟體用同一套方法比較。",
+            "en": "GDP, growth and forecasts, comparable with other economies on one method."
+          },
+          "meta": ["API"]
+        },
+        {
+          "name": {
+            "zh-TW": "Penn World Table",
+            "en": "Penn World Table"
+          },
+          "org": {
+            "zh-TW": "格羅寧根大學",
+            "en": "University of Groningen"
+          },
+          "url": "https://dataverse.nl/api/access/datafile/554105",
+          "good": {
+            "zh-TW": "購買力平價的長期總體序列。",
+            "en": "Long-run macro series at purchasing-power parity."
+          },
+          "meta": ["XLSX"]
+        },
+        {
+          "name": {
+            "zh-TW": "Our World in Data",
+            "en": "Our World in Data"
+          },
+          "org": {
+            "zh-TW": "牛津大學團隊",
+            "en": "Oxford-based team"
+          },
+          "url": "https://ourworldindata.org/grapher/life-expectancy?tab=table&country=~TWN",
+          "good": {
+            "zh-TW": "跨國比較的圖表與 CSV，用 country=~TWN 就能只抓台灣。",
+            "en": "Cross-country charts and CSVs; add country=~TWN to pull Taiwan alone."
+          },
+          "meta": ["CSV", "CC BY"]
+        },
+        {
+          "name": {
+            "zh-TW": "V-Dem 民主多樣性",
+            "en": "V-Dem"
+          },
+          "org": {
+            "zh-TW": "哥德堡大學 V-Dem 研究所",
+            "en": "V-Dem Institute, University of Gothenburg"
+          },
+          "url": "https://v-dem.net/",
+          "good": {
+            "zh-TW": "民主程度的專家編碼指標，1900 年起。",
+            "en": "Expert-coded democracy indicators from 1900 onward."
+          },
+          "meta": ["CSV"]
+        },
+        {
+          "name": {
+            "zh-TW": "ITU DataHub",
+            "en": "ITU DataHub"
+          },
+          "org": {
+            "zh-TW": "國際電信聯盟",
+            "en": "International Telecommunication Union"
+          },
+          "url": "https://datahub.itu.int/data/?e=TWN&c=&i=11624",
+          "good": {
+            "zh-TW": "網路使用率等電信指標的國際比較。",
+            "en": "International comparisons of telecom indicators such as internet use."
+          },
+          "meta": ["網頁"]
+        },
+        {
+          "name": {
+            "zh-TW": "CSIS ChinaPower 防空識別區資料",
+            "en": "CSIS ChinaPower ADIZ data"
+          },
+          "org": {
+            "zh-TW": "美國戰略與國際研究中心",
+            "en": "Center for Strategic and International Studies"
+          },
+          "url": "https://chinapower.csis.org/data/taiwan-adiz-violations/",
+          "good": {
+            "zh-TW": "中國軍機進入台灣防空識別區的每日紀錄，署名編者。",
+            "en": "Daily records of Chinese military aircraft entering Taiwan's air defence identification zone, with named compilers."
+          },
+          "meta": ["Google Sheets"],
+          "tip": {
+            "zh-TW": "各來源對次數的口徑不同（進入 ADIZ 或周邊偵獲、飛機與艦艇是否合計），數字對不上很常見。",
+            "en": "Sources count differently (entering the ADIZ versus detected nearby, aircraft and ships combined or not), so their totals often disagree."
+          }
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": {
+        "zh-TW": "財經彙整平台",
+        "en": "Financial data platforms"
+      },
+      "intro": {
+        "zh-TW": "民間做得最完整的台灣資料彙整幾乎都在財經領域，多為商業服務，使用前看清條款。",
+        "en": "The most complete private compilations of Taiwanese data are almost all financial and mostly commercial, so read the terms first."
+      },
+      "items": [
+        {
+          "name": {
+            "zh-TW": "財報狗",
+            "en": "StatementDog"
+          },
+          "org": {
+            "zh-TW": "民間公司",
+            "en": "Private company"
+          },
+          "url": "https://statementdog.com/",
+          "good": {
+            "zh-TW": "把上市櫃財報做成圖表與選股條件，多數功能免費。",
+            "en": "Charts and screening built from listed companies' filings; most features are free."
+          },
+          "meta": ["免費＋付費"]
+        },
+        {
+          "name": {
+            "zh-TW": "財經M平方",
+            "en": "MacroMicro"
+          },
+          "org": {
+            "zh-TW": "民間公司",
+            "en": "Private company"
+          },
+          "url": "https://www.macromicro.me/",
+          "good": {
+            "zh-TW": "總體經濟圖表與研究。",
+            "en": "Macroeconomic charts and research."
+          },
+          "meta": ["訂閱制"]
+        },
+        {
+          "name": {
+            "zh-TW": "台灣經濟新報（TEJ）",
+            "en": "Taiwan Economic Journal (TEJ)"
+          },
+          "org": {
+            "zh-TW": "民間公司",
+            "en": "Private company"
+          },
+          "url": "https://www.tejwin.com/",
+          "good": {
+            "zh-TW": "三十多年的證券與總經資料庫，學術研究常用。",
+            "en": "A securities and macro database with over 30 years of history, widely used in academic research."
+          },
+          "meta": ["機構授權"]
+        }
+      ]
+    }
+  ],
+  "pitfalls": [
+    {
+      "title": {
+        "zh-TW": "民國紀年",
+        "en": "ROC calendar years"
+      },
+      "body": {
+        "zh-TW": "三成左右的資料集標題帶民國年，欄位裡的「114」是西元 2025 年；同一支 API 也可能民國、西元混用。",
+        "en": "About three in ten dataset titles carry ROC years: \"114\" in a field means 2025. A single API can mix ROC and Gregorian dates."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "Big5 編碼",
+        "en": "Big5 encoding"
+      },
+      "body": {
+        "zh-TW": "約一成資料集仍是 Big5 編碼的 CSV，直接用 UTF-8 打開會是亂碼，先轉碼。",
+        "en": "About one dataset in ten is still a Big5-encoded CSV, which turns to gibberish if opened as UTF-8; convert it first."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "只給 PDF",
+        "en": "PDF-only releases"
+      },
+      "body": {
+        "zh-TW": "1,187 個資料集只有 PDF，月報也常是 PDF；要用程式讀得先解析。",
+        "en": "1,187 datasets exist only as PDFs, and monthly bulletins often are too, so they have to be parsed before use."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "平均數跟中位數",
+        "en": "Mean versus median"
+      },
+      "body": {
+        "zh-TW": "薪資平均數會被高薪拉高，中位數才是一半的人賺得比這少的那條線；人力銀行的薪資調查跟主計總處口徑不同，不能直接比。",
+        "en": "Average wages are pulled up by high earners; the median is the line half of workers fall below. Job-site salary surveys use a different basis from official statistics and cannot be compared directly."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "同一個數字有好幾個版本",
+        "en": "One number, several versions"
+      },
+      "body": {
+        "zh-TW": "台灣人口在國際彙整站上能差到十幾萬人，因為各自用不同年份、不同推估。查台灣的數字，以發布它的台灣官方機關為準，並寫出期間。",
+        "en": "International aggregators disagree on Taiwan's population by over a hundred thousand because they use different years and estimates. Use the Taiwanese agency that publishes the figure, and state the period."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "官方資料會消失",
+        "en": "Official data can disappear"
+      },
+      "body": {
+        "zh-TW": "政府網站常只給即時值不留歷史，也會整批下架（疾管署 2026 年 8 月一次下架 234 個病例統計資料集）。用到的資料，記下取得日期與網址。",
+        "en": "Government sites often show only the present and can withdraw data in bulk (in August 2026 the CDC pulled 234 case-statistics datasets at once). Record the date and URL of anything you use."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "授權要顯名",
+        "en": "Attribution is mandatory"
+      },
+      "body": {
+        "zh-TW": "政府資料開放授權條款允許商業使用、與 CC BY 4.0 相容，但沒有標示原提供機關，就視為自始沒有取得授權。",
+        "en": "Taiwan's open government data licence allows commercial use and is compatible with CC BY 4.0, but reuse without naming the original agency counts as never having been licensed."
+      }
+    },
+    {
+      "title": {
+        "zh-TW": "國際資料庫可能沒有台灣",
+        "en": "International databases may lack Taiwan"
+      },
+      "body": {
+        "zh-TW": "世界銀行、WHO、UNESCO、UNDP 都沒有台灣這一列。用它們做國際比較時，台灣那一格要改用台灣官方統計，並註明來源不同。",
+        "en": "The World Bank, WHO, UNESCO and UNDP have no Taiwan row. When comparing with them, fill Taiwan's cell from Taiwan's official statistics and note the different source."
+      }
+    }
+  ],
+  "tags": {
+    "git 封存": {
+      "zh-TW": "git 封存",
+      "en": "git archive",
+      "ja": "git アーカイブ",
+      "ko": "git 아카이브",
+      "es": "archivo en git",
+      "fr": "archive git",
+      "pt": "arquivo em git",
+      "de": "Git-Archiv",
+      "ru": "архив в git",
+      "vi": "lưu trữ git",
+      "id": "arsip git",
+      "hi": "git संग्रह",
+      "ar": "أرشيف git"
+    },
+    "互動圖表": {
+      "zh-TW": "互動圖表",
+      "en": "interactive charts",
+      "ja": "インタラクティブ図表",
+      "ko": "인터랙티브 차트",
+      "es": "gráficos interactivos",
+      "fr": "graphiques interactifs",
+      "pt": "gráficos interativos",
+      "de": "interaktive Diagramme",
+      "ru": "интерактивные графики",
+      "vi": "biểu đồ tương tác",
+      "id": "grafik interaktif",
+      "hi": "इंटरैक्टिव चार्ट",
+      "ar": "رسوم تفاعلية"
+    },
+    "互動地圖": {
+      "zh-TW": "互動地圖",
+      "en": "interactive map",
+      "ja": "インタラクティブ地図",
+      "ko": "인터랙티브 지도",
+      "es": "mapa interactivo",
+      "fr": "carte interactive",
+      "pt": "mapa interativo",
+      "de": "interaktive Karte",
+      "ru": "интерактивная карта",
+      "vi": "bản đồ tương tác",
+      "id": "peta interaktif",
+      "hi": "इंटरैक्टिव नक्शा",
+      "ar": "خريطة تفاعلية"
+    },
+    "互動專題": {
+      "zh-TW": "互動專題",
+      "en": "interactive features",
+      "ja": "インタラクティブ特集",
+      "ko": "인터랙티브 기획",
+      "es": "reportajes interactivos",
+      "fr": "dossiers interactifs",
+      "pt": "reportagens interativas",
+      "de": "interaktive Reportagen",
+      "ru": "интерактивные спецпроекты",
+      "vi": "chuyên đề tương tác",
+      "id": "liputan interaktif",
+      "hi": "इंटरैक्टिव फ़ीचर",
+      "ar": "تقارير تفاعلية"
+    },
+    "免費＋付費": {
+      "zh-TW": "免費＋付費",
+      "en": "free + paid",
+      "ja": "無料＋有料",
+      "ko": "무료＋유료",
+      "es": "gratis + pago",
+      "fr": "gratuit + payant",
+      "pt": "grátis + pago",
+      "de": "kostenlos + kostenpflichtig",
+      "ru": "бесплатно + платно",
+      "vi": "miễn phí + trả phí",
+      "id": "gratis + berbayar",
+      "hi": "मुफ़्त + सशुल्क",
+      "ar": "مجاني + مدفوع"
+    },
+    "免金鑰": {
+      "zh-TW": "免金鑰",
+      "en": "no key",
+      "ja": "キー不要",
+      "ko": "키 불필요",
+      "es": "sin clave",
+      "fr": "sans clé",
+      "pt": "sem chave",
+      "de": "ohne Schlüssel",
+      "ru": "без ключа",
+      "vi": "không cần khóa",
+      "id": "tanpa kunci",
+      "hi": "बिना कुंजी",
+      "ar": "بلا مفتاح"
+    },
+    "典藏": {
+      "zh-TW": "典藏",
+      "en": "collections",
+      "ja": "所蔵品",
+      "ko": "소장품",
+      "es": "colecciones",
+      "fr": "collections",
+      "pt": "acervo",
+      "de": "Sammlungen",
+      "ru": "коллекции",
+      "vi": "bộ sưu tập",
+      "id": "koleksi",
+      "hi": "संग्रह",
+      "ar": "مجموعات"
+    },
+    "即時": {
+      "zh-TW": "即時",
+      "en": "real-time",
+      "ja": "リアルタイム",
+      "ko": "실시간",
+      "es": "tiempo real",
+      "fr": "temps réel",
+      "pt": "tempo real",
+      "de": "Echtzeit",
+      "ru": "в реальном времени",
+      "vi": "thời gian thực",
+      "id": "waktu nyata",
+      "hi": "रियल-टाइम",
+      "ar": "لحظي"
+    },
+    "圖資": {
+      "zh-TW": "圖資",
+      "en": "map data",
+      "ja": "地図データ",
+      "ko": "지도 데이터",
+      "es": "datos cartográficos",
+      "fr": "données cartographiques",
+      "pt": "dados cartográficos",
+      "de": "Kartendaten",
+      "ru": "картографические данные",
+      "vi": "dữ liệu bản đồ",
+      "id": "data peta",
+      "hi": "मानचित्र डेटा",
+      "ar": "بيانات خرائط"
+    },
+    "新聞稿": {
+      "zh-TW": "新聞稿",
+      "en": "press releases",
+      "ja": "プレスリリース",
+      "ko": "보도자료",
+      "es": "comunicados",
+      "fr": "communiqués",
+      "pt": "comunicados",
+      "de": "Pressemitteilungen",
+      "ru": "пресс-релизы",
+      "vi": "thông cáo báo chí",
+      "id": "siaran pers",
+      "hi": "प्रेस विज्ञप्ति",
+      "ar": "بيانات صحفية"
+    },
+    "日更": {
+      "zh-TW": "日更",
+      "en": "daily",
+      "ja": "毎日更新",
+      "ko": "매일 갱신",
+      "es": "diario",
+      "fr": "quotidien",
+      "pt": "diário",
+      "de": "täglich",
+      "ru": "ежедневно",
+      "vi": "hằng ngày",
+      "id": "harian",
+      "hi": "दैनिक",
+      "ar": "يومي"
+    },
+    "查詢系統": {
+      "zh-TW": "查詢系統",
+      "en": "query system",
+      "ja": "検索システム",
+      "ko": "조회 시스템",
+      "es": "sistema de consulta",
+      "fr": "outil de requête",
+      "pt": "sistema de consulta",
+      "de": "Abfragesystem",
+      "ru": "система запросов",
+      "vi": "hệ thống tra cứu",
+      "id": "sistem kueri",
+      "hi": "क्वेरी प्रणाली",
+      "ar": "نظام استعلام"
+    },
+    "機構授權": {
+      "zh-TW": "機構授權",
+      "en": "institutional licence",
+      "ja": "機関ライセンス",
+      "ko": "기관 라이선스",
+      "es": "licencia institucional",
+      "fr": "licence institutionnelle",
+      "pt": "licença institucional",
+      "de": "institutionelle Lizenz",
+      "ru": "институциональная лицензия",
+      "vi": "giấy phép tổ chức",
+      "id": "lisensi institusi",
+      "hi": "संस्थागत लाइसेंस",
+      "ar": "ترخيص مؤسسي"
+    },
+    "每 5 年": {
+      "zh-TW": "每 5 年",
+      "en": "every 5 years",
+      "ja": "5 年ごと",
+      "ko": "5년마다",
+      "es": "cada 5 años",
+      "fr": "tous les 5 ans",
+      "pt": "a cada 5 anos",
+      "de": "alle 5 Jahre",
+      "ru": "раз в 5 лет",
+      "vi": "5 năm một lần",
+      "id": "setiap 5 tahun",
+      "hi": "हर 5 साल",
+      "ar": "كل 5 سنوات"
+    },
+    "每年": {
+      "zh-TW": "每年",
+      "en": "annual",
+      "ja": "毎年",
+      "ko": "매년",
+      "es": "anual",
+      "fr": "annuel",
+      "pt": "anual",
+      "de": "jährlich",
+      "ru": "ежегодно",
+      "vi": "hằng năm",
+      "id": "tahunan",
+      "hi": "वार्षिक",
+      "ar": "سنوي"
+    },
+    "每日至每月": {
+      "zh-TW": "每日至每月",
+      "en": "daily to monthly",
+      "ja": "毎日〜毎月",
+      "ko": "매일~매월",
+      "es": "diario a mensual",
+      "fr": "quotidien à mensuel",
+      "pt": "diário a mensal",
+      "de": "täglich bis monatlich",
+      "ru": "от ежедневных до ежемесячных",
+      "vi": "hằng ngày đến hằng tháng",
+      "id": "harian hingga bulanan",
+      "hi": "दैनिक से मासिक",
+      "ar": "يومي إلى شهري"
+    },
+    "每月": {
+      "zh-TW": "每月",
+      "en": "monthly",
+      "ja": "毎月",
+      "ko": "매월",
+      "es": "mensual",
+      "fr": "mensuel",
+      "pt": "mensal",
+      "de": "monatlich",
+      "ru": "ежемесячно",
+      "vi": "hằng tháng",
+      "id": "bulanan",
+      "hi": "मासिक",
+      "ar": "شهري"
+    },
+    "深度報導": {
+      "zh-TW": "深度報導",
+      "en": "in-depth reporting",
+      "ja": "調査報道",
+      "ko": "심층 보도",
+      "es": "periodismo en profundidad",
+      "fr": "enquêtes approfondies",
+      "pt": "reportagem aprofundada",
+      "de": "Recherchejournalismus",
+      "ru": "глубокие расследования",
+      "vi": "phóng sự chuyên sâu",
+      "id": "liputan mendalam",
+      "hi": "गहन रिपोर्टिंग",
+      "ar": "تقارير معمقة"
+    },
+    "清冊 CSV": {
+      "zh-TW": "清冊 CSV",
+      "en": "inventory CSV",
+      "ja": "一覧 CSV",
+      "ko": "목록 CSV",
+      "es": "CSV de inventario",
+      "fr": "inventaire CSV",
+      "pt": "CSV de inventário",
+      "de": "Bestandsliste CSV",
+      "ru": "реестр в CSV",
+      "vi": "danh mục CSV",
+      "id": "CSV inventaris",
+      "hi": "सूची CSV",
+      "ar": "قائمة CSV"
+    },
+    "目錄下載": {
+      "zh-TW": "目錄下載",
+      "en": "catalogue download",
+      "ja": "カタログ一括ダウンロード",
+      "ko": "목록 다운로드",
+      "es": "descarga del catálogo",
+      "fr": "catalogue téléchargeable",
+      "pt": "download do catálogo",
+      "de": "Katalog-Download",
+      "ru": "выгрузка каталога",
+      "vi": "tải danh mục",
+      "id": "unduh katalog",
+      "hi": "कैटलॉग डाउनलोड",
+      "ar": "تنزيل الفهرس"
+    },
+    "社群": {
+      "zh-TW": "社群",
+      "en": "community",
+      "ja": "コミュニティ",
+      "ko": "커뮤니티",
+      "es": "comunidad",
+      "fr": "communauté",
+      "pt": "comunidade",
+      "de": "Community",
+      "ru": "сообщество",
+      "vi": "cộng đồng",
+      "id": "komunitas",
+      "hi": "समुदाय",
+      "ar": "مجتمع"
+    },
+    "網頁": {
+      "zh-TW": "網頁",
+      "en": "web pages",
+      "ja": "ウェブページ",
+      "ko": "웹페이지",
+      "es": "páginas web",
+      "fr": "pages web",
+      "pt": "páginas web",
+      "de": "Webseiten",
+      "ru": "веб-страницы",
+      "vi": "trang web",
+      "id": "halaman web",
+      "hi": "वेब पेज",
+      "ar": "صفحات ويب"
+    },
+    "表格": {
+      "zh-TW": "表格",
+      "en": "tables",
+      "ja": "表",
+      "ko": "표",
+      "es": "tablas",
+      "fr": "tableaux",
+      "pt": "tabelas",
+      "de": "Tabellen",
+      "ru": "таблицы",
+      "vi": "bảng",
+      "id": "tabel",
+      "hi": "तालिकाएँ",
+      "ar": "جداول"
+    },
+    "視覺化": {
+      "zh-TW": "視覺化",
+      "en": "visualisation",
+      "ja": "可視化",
+      "ko": "시각화",
+      "es": "visualización",
+      "fr": "visualisation",
+      "pt": "visualização",
+      "de": "Visualisierung",
+      "ru": "визуализация",
+      "vi": "trực quan hóa",
+      "id": "visualisasi",
+      "hi": "विज़ुअलाइज़ेशन",
+      "ar": "تصوير بياني"
+    },
+    "視覺敘事": {
+      "zh-TW": "視覺敘事",
+      "en": "visual stories",
+      "ja": "ビジュアルストーリー",
+      "ko": "비주얼 스토리",
+      "es": "relatos visuales",
+      "fr": "récits visuels",
+      "pt": "narrativas visuais",
+      "de": "visuelle Geschichten",
+      "ru": "визуальные истории",
+      "vi": "kể chuyện bằng hình",
+      "id": "cerita visual",
+      "hi": "दृश्य कहानियाँ",
+      "ar": "قصص مرئية"
+    },
+    "訂閱制": {
+      "zh-TW": "訂閱制",
+      "en": "subscription",
+      "ja": "サブスクリプション",
+      "ko": "구독제",
+      "es": "suscripción",
+      "fr": "abonnement",
+      "pt": "assinatura",
+      "de": "Abonnement",
+      "ru": "подписка",
+      "vi": "thuê bao",
+      "id": "berlangganan",
+      "hi": "सदस्यता",
+      "ar": "اشتراك"
+    },
+    "趨勢圖": {
+      "zh-TW": "趨勢圖",
+      "en": "trend charts",
+      "ja": "推移グラフ",
+      "ko": "추세 그래프",
+      "es": "gráficos de tendencia",
+      "fr": "courbes de tendance",
+      "pt": "gráficos de tendência",
+      "de": "Trenddiagramme",
+      "ru": "графики трендов",
+      "vi": "biểu đồ xu hướng",
+      "id": "grafik tren",
+      "hi": "रुझान चार्ट",
+      "ar": "رسوم الاتجاه"
+    },
+    "開放資料": {
+      "zh-TW": "開放資料",
+      "en": "open data",
+      "ja": "オープンデータ",
+      "ko": "오픈 데이터",
+      "es": "datos abiertos",
+      "fr": "données ouvertes",
+      "pt": "dados abertos",
+      "de": "offene Daten",
+      "ru": "открытые данные",
+      "vi": "dữ liệu mở",
+      "id": "data terbuka",
+      "hi": "खुला डेटा",
+      "ar": "بيانات مفتوحة"
+    },
+    "開源": {
+      "zh-TW": "開源",
+      "en": "open source",
+      "ja": "オープンソース",
+      "ko": "오픈소스",
+      "es": "código abierto",
+      "fr": "open source",
+      "pt": "código aberto",
+      "de": "Open Source",
+      "ru": "открытый код",
+      "vi": "mã nguồn mở",
+      "id": "sumber terbuka",
+      "hi": "ओपन सोर्स",
+      "ar": "مفتوح المصدر"
+    },
+    "需授權碼": {
+      "zh-TW": "需授權碼",
+      "en": "key required",
+      "ja": "認証キー必要",
+      "ko": "인증키 필요",
+      "es": "requiere clave",
+      "fr": "clé requise",
+      "pt": "requer chave",
+      "de": "Schlüssel erforderlich",
+      "ru": "нужен ключ",
+      "vi": "cần mã khóa",
+      "id": "perlu kunci",
+      "hi": "कुंजी आवश्यक",
+      "ar": "يتطلب مفتاحًا"
+    },
+    "需申請": {
+      "zh-TW": "需申請",
+      "en": "application required",
+      "ja": "申請制",
+      "ko": "신청 필요",
+      "es": "requiere solicitud",
+      "fr": "sur demande",
+      "pt": "requer solicitação",
+      "de": "Antrag erforderlich",
+      "ru": "по заявке",
+      "vi": "cần đăng ký",
+      "id": "perlu pengajuan",
+      "hi": "आवेदन आवश्यक",
+      "ar": "يتطلب طلبًا"
+    },
+    "需登入": {
+      "zh-TW": "需登入",
+      "en": "login required",
+      "ja": "ログイン必要",
+      "ko": "로그인 필요",
+      "es": "requiere inicio de sesión",
+      "fr": "connexion requise",
+      "pt": "requer login",
+      "de": "Anmeldung erforderlich",
+      "ru": "нужен вход",
+      "vi": "cần đăng nhập",
+      "id": "perlu masuk",
+      "hi": "लॉगिन आवश्यक",
+      "ar": "يتطلب تسجيل الدخول"
+    }
+  }
+}

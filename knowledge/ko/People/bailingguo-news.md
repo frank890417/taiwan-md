@@ -104,7 +104,7 @@ Tatler의 인터뷰는 또 다른 척도를 제시한다: 백링궈는 Facebook�
 
 마지막으로, 이어폰에서 전해지는 것은 여전히 웃음, 끼어들기 및 부적절한 농담일 수 있다. 그러나 웃음이 멈춘 후, 세계는 따라서 작아지지 않는다. 단지 그것이 잠시 당신의 옆에 앉아, 다음 에피소드를 끝까지 들을지 여부를 결정하기를 기다릴 뿐이다.
 
-##延伸阅读
+## 더 읽을거리
 
 [백링궈 News 공식 웹사이트](https://www.bailingguonews.com/), [Apple Podcasts의 백링궈 News 프로그램 페이지](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606), [Spotify의 Bailingguo News 프로그램 페이지](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty).
 

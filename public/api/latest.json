@@ -1,280 +1,397 @@
 {
-  "_generated": "2026-10-19T22:06:46.846Z",
+  "_generated": "2026-10-25T22:07:10.740Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "森山松之助：用三座州廳與一座法院，替台灣畫出官方的臉",
-        "desc": "1906 年，一位大阪望族出身的東京帝大畢業生來台擔任囑託，設計了全日本帝國第一座全鋼筋混凝土建築。此後十五年，森山松之助接連完成台北州廳、台中州廳、台南州廳、台南法院、專賣局、鐵道部與台灣總督府。他處理不對稱基地、複合柱式與雙動線的手法，讓殖民政府的權力有了具體形狀，也留下今天監察院、台中州廳與國立台灣文學館所在的三棟紅磚廳舍。",
-        "category": "history",
-        "href": "/history/%E6%A3%AE%E5%B1%B1%E6%9D%BE%E4%B9%8B%E5%8A%A9%E8%88%87%E6%97%A5%E6%B2%BB%E5%B7%9E%E5%BB%B3%E5%BB%BA%E7%AF%89",
-        "date": "2026-10-20T02:01:10+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "EEWH 綠建築標章：一座亞熱帶島嶼怎麼把氣候寫進建築法規",
-        "desc": "1990 年英國推出 BREEAM，1996 年美國有 LEED，1998 年加拿大有 GBTool，1999 年台灣的 EEWH 上路，是全球第四個、也是亞洲第一個綠建築評估系統。它從七項指標長成九大指標，2004 年加上分級，2011 年拆成五本專用手冊，2021 年再導入建築能效標示。這套系統的特色不是最先進，而是最平價：用綜合評分取代菜單式勾選，讓綠建築從少數示範案變成公有建築的基本門檻。",
-        "category": "art",
-        "href": "/art/EEWH%E7%B6%A0%E5%BB%BA%E7%AF%89%E6%A8%99%E7%AB%A0",
-        "date": "2026-10-18T23:41:23+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "對場作：一座廟，兩個師傅，左右各蓋一半",
-        "desc": "台灣廟宇有一種全世界少見的施工制度：把一座廟從中軸線切開，左右兩邊交給不同匠師，各憑本事，最後拼成一棟建築。1917 年大龍峒保安宮重修，陳應彬與郭塔以中軸線為界，從前殿、鐘鼓樓到正殿交叉施作，廟方還辦徵聯比賽。結果判定郭塔落敗，他在梁柱上留下「好工手不補接」與「假獅破真獅」，把不服氣刻進了自己蓋的那半邊廟裡。",
-        "category": "culture",
-        "href": "/culture/%E5%BB%9F%E5%AE%87%E5%BB%BA%E7%AF%89%E8%88%87%E5%B0%8D%E5%A0%B4%E4%BD%9C",
-        "date": "2026-10-18T23:33:02+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "都市更新爭議：文林苑之後，台灣怎麼處理「不同意戶」",
-        "desc": "2012 年 3 月 28 日，台北市政府在士林文林苑執行代為拆除，王家兩戶合法房屋在數百名聲援者面前倒下，成為台灣都更史上最大爭議。十一次訴願訴訟王家輸了十次，法院認定王家土地是未臨建築線的袋地、無法單獨改建；大法官則在 2013 年的釋字 709 號宣告都更條例的概要審議與聽證程序違憲。案件最後以和解收場，但「多數決能不能處分少數人的財產」這個問題至今沒有標準答案。",
+        "title": "醫療法：機構規範與市場拉扯的四十年",
+        "desc": "台灣醫療法 1986 年公布、2017 年修醫師刑責、2026 年三班護病比入法。法律寫得出「一個護理師最多顧幾床」，卻寫不出「有沒有那個護理師」——32 萬張護理執照，臨床只剩 19 萬雙手。這不是健保法、不是醫師法，是台灣「醫院」這個機構怎麼存在的根法，也是醫療公益性與市場機制四十年沒解開的拉扯。",
         "category": "society",
-        "href": "/society/%E9%83%BD%E5%B8%82%E6%9B%B4%E6%96%B0%E7%88%AD%E8%AD%B0",
-        "date": "2026-10-18T23:30:53+08:00",
-        "readingTime": 10,
-        "image": ""
+        "href": "/society/%E9%86%AB%E7%99%82%E6%B3%95",
+        "date": "2026-10-26T01:14:25+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
       },
       {
-        "title": "台灣古蹟保存運動史：從林安泰古厝被拆開始的三條路線",
-        "desc": "1978 年 6 月 26 日，台北市大安區的林安泰古厝在鞭炮與香煙中開始拆除，建築師李重耀帶著工人用草繩、粉筆和七十張工程圖，把一棟兩百年的四合院拆成三萬八千塊磚石與二十四萬片瓦。這場拆遷直接催出 1982 年的《文化資產保存法》。此後保存運動分成三條路線：樂生療養院把古蹟與居住權綁在一起，台北市的老房子文化運動則把修復交給市場，成果與爭議同時出現。",
+        "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+        "desc": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
         "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E5%8F%A4%E8%B9%9F%E4%BF%9D%E5%AD%98%E9%81%8B%E5%8B%95%E5%8F%B2",
-        "date": "2026-10-18T23:28:14+08:00",
+        "href": "/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+        "date": "2026-10-25T08:38:58+08:00",
         "readingTime": 11,
         "image": ""
       },
       {
-        "title": "戰後台灣現代主義建築群像：從 1967 年那份得獎名單說起",
-        "desc": "1967 年 4 月 30 日，第一屆建築金鼎獎把楊卓成的宮殿式地標與王大閎、陳其寬、修澤蘭的現代主義作品放進同一份名單。這份名單說明戰後台灣建築不是一條路線取代另一條，而是兩條路線同時在蓋。王大閎用一棟自宅做實驗，陳其寬在東海創了台灣第一個建築系，修澤蘭十三個月蓋完中山樓，漢寶德把建築變成可以教也可以展的知識，王秋華則從圖書館開始改變公共建築的想像。",
-        "category": "art",
-        "href": "/art/%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E4%B8%BB%E7%BE%A9%E5%BB%BA%E7%AF%89%E7%BE%A4%E5%83%8F",
-        "date": "2026-10-18T23:25:44+08:00",
+        "title": "陳映真：從竹南到北京的統派文學良心",
+        "desc": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年與胡秋原等人成立中國統一聯盟並任首任主席，2006 年定居北京、同年中風，2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中反駁余光中等人批評的主要代表之一。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E6%98%A0%E7%9C%9F",
+        "date": "2026-10-24T14:40:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "賴和：穿著本島衫的「彰化媽祖」，與他那桿永不妥協的稱仔",
+        "desc": "1943 年除夕前，彰化名醫賴和慣例燒掉貧寒病人的欠款帳單。這位被譽為「台灣新文學之父」的醫師，在殖民高壓下以手術刀救人、以筆為劍批判不公，其作品〈一桿「稱仔」〉至今仍是台灣對抗權力暴力的文化象徵。",
+        "category": "people",
+        "href": "/people/%E8%B3%B4%E5%92%8C",
+        "date": "2026-10-24T09:02:40+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
-        "desc": "1994 年，一個台北出生的耶魯建築碩士搬到宜蘭，此後三十年只做一件事：把整座城市當成一個慢慢修的工地。他推動的「維管束計劃」拆掉圍牆、把被填埋的護城河重新打開，讓公共建築與街道之間沒有清楚的邊界。羅東文化工場花了十四年才蓋成，跨過兩次政黨輪替。2017 年，田中央工作群成為第一個獲邀到歐洲巡迴展出的台灣建築團隊，他本人則拿到該年首次頒給外國人的日本「吉阪隆正賞」。",
+        "title": "林俊傑：新加坡1981，《江南》到JJ20的華語創作天王",
+        "desc": "1981年生於新加坡，1999年從海蝶唱片的訓練班出道。《樂行者》（2003）、《第二天堂》（2004）兩張專輯各在亞洲賣出逾120萬與180萬張，金曲獎拿過最佳新人與兩次最佳國語男歌手。JJ20世界巡迴2022至2024年演出77場。",
         "category": "people",
-        "href": "/people/%E9%BB%83%E8%81%B2%E9%81%A0",
-        "date": "2026-10-18T23:21:52+08:00",
-        "readingTime": 11,
+        "href": "/people/%E6%9E%97%E4%BF%8A%E5%82%91",
+        "date": "2026-10-24T08:38:08+08:00",
+        "readingTime": 3,
         "image": ""
       },
       {
-        "title": "台灣公投制度：1947 年就寫進憲法，等了 56 年才等到一部法",
-        "desc": "2026 年 11 月 28 日的九合一選舉，同時要投一張公投票——中選會審議後只有「廢除非核家園」一案成案，編號第 22 案，主委游盈隆估計開票要開到隔日凌晨 2 時。這條線往回追，是 1947 年憲法裡就寫下的創制與複決、2003 年才立法的公投法、2018 年十案綁大選的排隊夜晚，以及 2019 年把公投和大選分開、2025 年又綁回來的鐘擺。",
-        "category": "politics",
-        "href": "/politics/%E5%8F%B0%E7%81%A3%E5%85%AC%E6%8A%95%E5%88%B6%E5%BA%A6",
-        "date": "2026-10-17T23:05:12+08:00",
+        "title": "蕭敬騰",
+        "desc": "17 歲起在民歌餐廳駐唱，2007 年因《超級星光大道》踢館單元爆紅，2008 年發行首張專輯。2013 年以《以愛之名》拿下金曲獎最佳國語男歌手，之後也在樂團、影視與兩岸舞台上發展。",
+        "category": "people",
+        "href": "/people/%E8%95%AD%E6%95%AC%E9%A8%B0",
+        "date": "2026-10-24T02:38:39+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，老人和小孩從一比一到將近三比一",
+        "desc": "同一座島，臺北市每平方公里 8,975 人，臺東縣只有 59 人，差 151 倍。用內政部戶政司 2025 年底的數據替 22 縣市畫一張可查證的肖像：七成的人擠在三成的土地，長者占比最高的正是最擠的臺北市，老人對小孩比例最高的嘉義縣則將近三比一。22 個縣市無一例外，死亡都已經多過出生。",
+        "category": "geography",
+        "href": "/geography/%E7%94%A8%E6%95%B8%E6%93%9A%E7%9C%8B%E5%8F%B0%E7%81%A322%E7%B8%A3%E5%B8%82",
+        "date": "2026-10-23T23:51:58+08:00",
         "readingTime": 13,
+        "image": "/article-images/geography/taiwan-island-nasa-mosaic.webp"
+      },
+      {
+        "title": "第一次總統直選：飛彈逼近時，選票如何成為台灣的制度",
+        "desc": "1996 年台灣首次以公民直選總統，制度改革、野百合學運與台海軍事危機在同一張選票上交會，民主因此進入投票日之外的制度生活。",
+        "category": "politics",
+        "href": "/politics/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%B8%BD%E7%B5%B1%E7%9B%B4%E9%81%B8",
+        "date": "2026-10-23T23:10:34+08:00",
+        "readingTime": 10,
         "image": ""
       },
       {
-        "title": "台中國家歌劇院：伊東豊雄的「美聲涵洞」與無柱無樑曲牆建築革命",
-        "desc": "由普立茲克獎得主伊東豊雄設計、被譽為「全球最難蓋建築」的台中國家歌劇院，如何以無柱無樑的曲牆與洞穴美學，改寫台灣現代建築史與美學想像。",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%AD%8C%E5%8A%87%E9%99%A2",
-        "date": "2026-10-16T08:52:43+08:00",
-        "readingTime": 25,
-        "image": "/article-images/art/national-taichung-theater-2017.webp"
-      },
-      {
-        "title": "林央敏：〈毋通嫌台灣〉的作者，與一部 9000 行的台語史詩",
-        "desc": "1987 年，32 歲的林央敏寫下〈毋通嫌台灣〉，這首詩後來被譜成曲，也在民國 105 年的國慶典禮上繼續被傳唱。1991 年許景淳以它拿下金曲獎最佳台語歌后，他也同時得到最佳方言歌曲作詞人獎，卻沒有去領獎。他寫的台語史詩《胭脂淚》有 9 千行、11 萬字，是台灣文學史上最長的詩，1991 年他與林宗源、黃勁連等人成立蕃薯詩社，那是台灣第一個主張以母語寫作的社團。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E5%A4%AE%E6%95%8F",
-        "date": "2026-10-15T08:30:56+08:00",
+        "title": "台灣技術年會文化：從 COSCUP 到 HITCON 的年度遷徙",
+        "desc": "台灣每年有一批技術年會固定登場：COSCUP 從 2006 年辦到現在，由開放原始碼社群聯合主辦，議程由四十多個社群軌組成；SITCON 由學生自己籌辦十三年，累積一萬四千名參與者與一千四百名志工；HITCON 的年度議程從 2005 年一路排到現在，還拆出社群、企業與資安競賽等分眾場次。這些年會的主辦者幾乎都是不領薪水的志工，經費來自贊助，講者、志工與學生在同一批場地之間流動，形成一種台灣特有的技術圈季節。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E5%B9%B4%E6%9C%83%E6%96%87%E5%8C%96",
+        "date": "2026-10-23T22:03:49+08:00",
         "readingTime": 9,
         "image": ""
       },
       {
-        "title": "台灣音響產業發展",
-        "desc": "從1970年代承接日美代工起步，這座島嶼的音響產業歷經收音機、卡帶播放器到CD數位音訊的技術累積，近年轉向自有品牌與高值化，Hi-Fi品牌在國際市場建立知名度，車用與專業音響廠商技術領先，形成由中小企業主導、垂直分工且專精化程度高的完整產業鏈。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-        "date": "2026-10-15T06:58:04+08:00",
-        "readingTime": null,
+        "title": "西班牙北台灣十六年：從和平島到淡水的殖民嘗試",
+        "desc": "1626 年 5 月，西班牙艦隊從馬尼拉北上，在雞籠港登陸，於和平島築起聖薩爾瓦多城。十六年間，他們在淡水建聖多明哥城、派人進入台北盆地探路、與噶瑪蘭族衝突，卻始終靠馬尼拉補助維持駐軍。1642 年 8 月，荷蘭人攻陷雞籠，西班牙退出台灣，留下的只有地名與幾段城牆。",
+        "category": "history",
+        "href": "/history/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E5%8F%B0%E7%81%A3%E5%8D%81%E5%85%AD%E5%B9%B4",
+        "date": "2026-10-23T21:44:24+08:00",
+        "readingTime": 9,
         "image": ""
       },
       {
-        "title": "朱宗慶",
-        "desc": "從維也納音樂院歸來的打擊樂家，用四十年把冷門藝術帶入台灣主流樂壇；他創立台灣第一支專業打擊樂團並建立完整教學體系，從專業演出到幼兒音樂啟蒙、從音樂廳到校園遍地扎根，讓節奏與活力深植社會，獲國家文藝獎肯定，被譽為台灣打擊樂之父。",
-        "category": "people",
-        "href": "/people/%E6%9C%B1%E5%AE%97%E6%85%B6",
-        "date": "2026-10-15T06:58:04+08:00",
-        "readingTime": null,
+        "title": "熱蘭遮城：一座城堡的四個名字",
+        "desc": "1624 年，荷蘭人在台南大員重建一座堡壘，先叫奧蘭治城，兩年後改名熱蘭遮城。1662 年鄭成功圍城九個月，荷蘭長官揆一交出鑰匙，這裡變成明鄭的王城。清代城牆被拆去蓋億載金城，日本時代內城被剷平，2022 年文化部把殘蹟合併更名為「熱蘭遮堡遺構」。四個名字，四段統治。",
+        "category": "history",
+        "href": "/history/%E7%86%B1%E8%98%AD%E9%81%AE%E5%9F%8E",
+        "date": "2026-10-23T21:24:41+08:00",
+        "readingTime": 9,
         "image": ""
       },
       {
-        "title": "陳玉勳",
-        "desc": "出身眷村的台灣喜劇導演，用五部長片建立了本土喜劇的創作語法，擅長在荒誕情境中以台式幽默與人文溫暖探討深刻人生議題；深受好萊塢喜劇大師啟發的他，以《消失的情人節》奪下金馬獎最佳劇情片，為這套語法贏得最具分量的外部認可。",
+        "title": "蔡依林",
+        "desc": "1998 年拿下《新聲卡位戰》歌唱組冠軍，之後以專輯與巡迴累積成華語流行天后；〈玫瑰少年〉讓她三度拿下金曲年度歌曲",
         "category": "people",
-        "href": "/people/%E9%99%B3%E7%8E%89%E5%8B%B3",
-        "date": "2026-10-15T06:58:04+08:00",
+        "href": "/people/%E8%94%A1%E4%BE%9D%E6%9E%97",
+        "date": "2026-10-23T20:37:25+08:00",
         "readingTime": null,
         "image": ""
       },
       {
         "title": "周杰倫",
-        "desc": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕製作助理，如今已是真正顛覆樂壇的音樂革命者。",
+        "desc": "害羞的小夥子在選秀節目上彈鋼琴，首張專輯便改寫華語流行音樂的歷史；他以原創曲風讓樂壇相信創作可以賣錢，用多張專輯證明華語音樂能保持東方特色同時征服世界舞台，從屢遭退稿的年輕創作者，如今已是真正顛覆樂壇的音樂革命者。",
         "category": "people",
         "href": "/people/%E5%91%A8%E6%9D%B0%E5%80%AB",
-        "date": "2026-10-15T06:39:19+08:00",
+        "date": "2026-10-23T14:37:20+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "林懷民",
-        "desc": "一位沒有專業舞蹈背景的小說家在美國攻讀創作時走進舞蹈教室，回台創辦華語世界第一個職業現代舞團雲門舞集，從成立至今活躍國際舞台超過半世紀，被紐約時報譽為亞洲最重要的當代舞團，完成了從文學到肢體的表演藝術冒險旅程。",
+        "title": "林郁婷：從鶯歌國中拳擊隊到巴黎奧運金牌",
+        "desc": "2024年8月，林郁婷在巴黎奧運女子57公斤級金牌戰以5比0擊敗波蘭選手，為台灣贏得第一面奧運拳擊金牌。本文整理她從鶯歌國中拳擊隊起步、東京奧運落敗、2023年世錦賽銅牌被取消與巴黎奧運期間的性別爭議，以及奪金後的教職、獎項與2026年的賽事近況，每項說法皆附來源。",
         "category": "people",
-        "href": "/people/%E6%9E%97%E6%87%B7%E6%B0%91",
-        "date": "2026-10-15T06:39:19+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "社會運動與公民參與",
-        "desc": "從解嚴運動、野百合學運到太陽花運動與同性婚姻合法化，台灣社會以和平理性、世代傳承的方式持續推動民主化；這些行動跨越政治、環保、勞工與性別等多元領域，多數以和平進行，也有如農民運動那般的激烈衝突，在民主進程留下具體制度痕跡。",
-        "category": "society",
-        "href": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
-        "date": "2026-10-15T06:39:19+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣企業：瑞昱半導體",
-        "desc": "七位在外商工作的工程師以萬元在科學園區創業，用螃蟹當商標，推出台灣第一顆自主研發的網路晶片；如今這家設計公司名列台灣第三大，產品涵蓋網路控制器、音效與顯示控制晶片，廣布於全球主機板、路由器與電視等設備，讓這隻小螃蟹爬進世界各地的電腦裡。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣企業：聯發科技",
-        "desc": "創辦人帶著從母公司分割的小團隊從晶片做起，交出鑰匙方案餵養了深圳的山寨機生態系，一度被譏為便宜貨製造商；這家公司後來手機晶片市占率領先老對手，營收突破百億美元，躍居全球第五大設計公司，印證一代拳王理論不斷進化才能不被挑戰者取代。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "台灣外貿與全球供應鏈",
-        "desc": "從年代的成衣玩具到今日半導體晶片，台北港的貨櫃日夜裝卸著台灣經濟奇蹟；這座島嶼以出口值名列全球前幾大經濟體，在半導體與資通訊產品掌握關鍵地位，對美出口首破千億美元、對中出口佔比高，深刻凸顯它在美中三角關係中的微妙位置。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
-        "date": "2026-10-15T06:18:08+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣森林生態系",
-        "desc": "在極短水平距離內，這座島嶼從海平面攀升至玉山之巔，濃縮出從熱帶到亞北極的完整林相，木麻黃、千年檜木與玉山圓柏各據一方；高覆蓋率是全球平均值的兩倍，卻幾乎全擠在垂直山壁上，年年承受颱風、地震與暴雨的考驗，是全球密度最高也最脆弱的森林之一。",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E7%94%9F%E6%85%8B%E7%B3%BB",
-        "date": "2026-10-15T06:09:48+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
-        "desc": "台灣網紅廣告市場規模不到美國的百分之一，單一中型創作者卻同時經營近雙倍數量的平台，變現靠聯盟行銷而非訂閱制；從科技業產品經理轉職的頻道主翁雋明以開箱、評測紅遍網路，演繹市場極小、平台極碎下，創作者如何用另一套規則存活下來。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
-        "date": "2026-10-15T06:09:48+08:00",
+        "href": "/people/%E6%9E%97%E9%83%81%E5%A9%B7",
+        "date": "2026-10-23T09:38:45+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "台灣公園與日常休閒",
-        "desc": "清晨的大安森林公園裡，長者跟著國樂打太極、練外丹功，午後家長帶孩子嬉戲，傍晚上班族下班散步，深夜屬於遛狗的人與需要安靜的靈魂；同一座公園在不同時段輪替登場，構成跨世代交錯使用的社交場域，也映照出台北都會日常的節奏與溫度。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
-        "date": "2026-10-15T06:09:48+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣文化創意園區發展",
-        "desc": "台灣的文創園區起源於年代的舊建築活化，以華山、松山文創園區與駁二藝術特區為代表，將廢棄酒廠、菸廠等工業設施轉型為創意產業聚落；政府推動文創產業發展計畫並立法，提供法制支持，從廢棄廠房蛻變為國際知名文化地標，兼具城市再生與產業升級的雙重意義。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
-        "date": "2026-10-15T06:01:11+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣當代雕塑發展",
-        "desc": "台灣當代雕塑從傳統木雕發展而來，經歷黃土水奠定現代基礎、楊英風建立當代語彙、朱銘將東方精神融入國際視野三個世代；從現代雕塑運動起，藝術家在材料、主題與空間上屢有突破，朱銘美術館與戶外雕塑公園遍布全台，新世代持續推動多元發展，在國際展覽累積能見度與收藏認可。",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
-        "date": "2026-10-15T06:01:11+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "教育制度與升學文化",
-        "desc": "台灣教育以高度競爭的升學文化著稱，從九年國民義務教育延伸為十二年國教；體系分普通與技職雙軌，但社會仍偏重學術成就造成激烈競爭，近年改革強調多元發展與適性揚才，如何在競爭與多元、菁英與普及之間取得平衡，仍是這個社會面臨的核心挑戰。",
-        "category": "society",
-        "href": "/society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
-        "date": "2026-10-15T06:01:11+08:00",
+        "title": "台灣電價機制與台電：那 12.83% 沒有漲，帳單換成一張 711 億的追加預算單",
+        "desc": "2026 年 9 月 18 日的電價費率審議會，決議 10 月到 12 月電價暫不調整。台電這次檢討案算出來的應有調幅是 12.83%，每度電從 3.7823 元要漲到 4.2675 元，漲幅留在了桌上，換成向立法院爭取 711 億元的追加預算。這條線從 2017 年的公式公告開始，中間有 2022 年的 1,500 億增資、2024 年在 3,826 億累積虧損上調漲 11%，到今年前 7 個月虧 214 億、全年估虧逾 711 億。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%83%B9%E6%A9%9F%E5%88%B6%E8%88%87%E5%8F%B0%E9%9B%BB",
+        "date": "2026-10-23T08:47:20+08:00",
         "readingTime": 14,
         "image": ""
       },
       {
-        "title": "台灣水庫與水資源管理",
-        "desc": "在年降雨量豐沛的雨島之上，水資源卻因降雨集中在颱風季節且雨影區明顯而常感吃緊；從石門、曾文到翡翠、南化，水庫系統承載萬人用水命脈，梅雨不來與颱風避開讓水情成為年度關鍵字，南北分配不均疊加淤積問題，嚴峻考驗這座島嶼的用水未來。",
-        "category": "geography",
-        "href": "/geography/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BA%AB%E8%88%87%E6%B0%B4%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86",
-        "date": "2026-10-15T05:44:31+08:00",
-        "readingTime": 11,
-        "image": ""
+        "title": "立法院不分區立委：110 萬票拿 3 席，35 萬票一席不剩",
+        "desc": "2024 年 1 月 13 日開票，時代力量拿到 353,412 張政黨票，一席不分區立委都沒分到，四年前它靠 1,098,100 票拿下 3 席。憲法替 34 席不分區設下 5% 門檻，照比例約 2.94% 就夠一席，落在兩者之間的票不換席次，轉而放大過門檻政黨的比例。釋字第 721 號在 2014 年認定門檻合憲，大法官意見書卻各自拿選舉數字，爭論它究竟擋下了誰。",
+        "category": "politics",
+        "href": "/politics/%E7%AB%8B%E6%B3%95%E9%99%A2%E4%B8%8D%E5%88%86%E5%8D%80%E7%AB%8B%E5%A7%94",
+        "date": "2026-10-23T08:47:20+08:00",
+        "readingTime": 9,
+        "image": "/article-images/politics/legislative-yuan-chamber-gate.webp"
       },
       {
-        "title": "台灣街頭藝術與塗鴉文化",
-        "desc": "台灣街頭藝術自解嚴後隨嘻哈文化傳入，從西門町深夜噴漆的地下場景，到退伍軍人黃永阜在台中軍眷村牆面彩繪催生的彩虹村模式，高雄駁二等文創空間陸續提供合法舞台，政府邀請藝術家進駐園區，將近三十年的演進折射出社會開放與城市空間再定義的軌跡。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
-        "date": "2026-10-15T05:44:31+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "台灣冰品文化",
-        "desc": "台灣人對冰品的熱愛世界少有，冬天依然高朋滿座；這項文化可追溯至日治時期製冰技術引進，歷經戰後剉冰普及與年代雪花冰出現，台中陳溪參考日本四果冰發展出蜜豆冰，玉井芒果冰揚名海外，甚至帶動製冰冷藏漁業，是一條有具體時間節點可追溯的演變史。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
-        "date": "2026-10-15T05:44:31+08:00",
-        "readingTime": null,
-        "image": "/article-images/food/taipei-mango-shaved-ice.webp"
-      },
-      {
-        "title": "台灣眷村歷史",
-        "desc": "年起國民政府為安置隨軍眷屬興建眷村，竹籬笆、黃泥巴與鐵皮搭起一戶不到坪的臨時家園；桃園忠貞新村收容自緬北撤台的孤軍眷屬，這群人在中緬邊境打了將近四年游擊才輾轉來台，承載流亡與定居、故鄉與他鄉的辯證，最終從竹籬笆演變為國宅，成為台灣多元文化的重要基因。",
-        "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
-        "date": "2026-10-15T05:41:33+08:00",
+        "title": "議員制度：為什麼跟立委不一樣，SNTV 留在地方政治的 30 年",
+        "desc": "2008 年立委改成單一選區兩票制，同一年的縣市議員選舉仍用 1980 年代的 SNTV 舊制 — 同一個國家、同一群選民、同一張選票上的不同職位，卻用兩套完全不同的遊戲規則。這不是 bug，是台灣選舉制度改革史上最大的未竟之事，背後綁著地方派系、政黨利益、配套成本。一篇拆解兩套制度怎麼運作、為什麼一邊改了一邊沒改、對小黨跟多元代表性意味著什麼的制度地圖。",
+        "category": "politics",
+        "href": "/politics/%E8%AD%B0%E5%93%A1%E5%88%B6%E5%BA%A6",
+        "date": "2026-10-23T08:45:32+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "台灣聲音地景",
-        "desc": "從垃圾車傳出的旋律到廟口北管鑼鼓，從布農族八部合音到夜市叫賣，每一種聲響都是活的文化密碼；這裡的機車密度全球最高，引擎聲組成獨特交響曲，廟會音樂、原住民複音與庶民消費的聲音劇場層層疊疊，拼出獨一無二的城市指紋，記錄著歷史、記憶與身份認同。",
-        "category": "music",
-        "href": "/music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
-        "date": "2026-10-15T05:41:33+08:00",
-        "readingTime": 10,
+        "title": "江蕙：北投那卡西出身的臺語天后",
+        "desc": "江蕙（本名江淑惠，1961 年生於高雄）9 歲隨家人連夜搬到臺北，到北投那卡西走唱。1992 年《酒後的心聲》在臺灣賣出 116 萬張，是官方紀錄中唯一破百萬的臺語專輯。2000 至 2003 年連拿四屆金曲獎臺語女演唱人，2015 年封麥，2024 年在大巨蛋國慶晚會復出。",
+        "category": "people",
+        "href": "/people/%E6%B1%9F%E8%95%99",
+        "date": "2026-10-23T08:37:43+08:00",
+        "readingTime": 3,
+        "image": ""
+      },
+      {
+        "title": "張艾嘉",
+        "desc": "張艾嘉（Sylvia Chang，1953 年生），16 歲做電台 DJ、17 歲唱歌主持，1972 年拍第一部電影，1976 年以《碧雲天》得金馬最佳女配角，1981 年以《我的爺爺》、1986 年以《最愛》、2022 年以《燈火闌珊》三度拿下金馬最佳女主角。1981 年導演《某年某月某一天》，此後執導十六部作品，歌手、演員、導演三條線並行五十多年。",
+        "category": "people",
+        "href": "/people/%E5%BC%B5%E8%89%BE%E5%98%89",
+        "date": "2026-10-23T02:40:35+08:00",
+        "readingTime": 4,
+        "image": ""
+      },
+      {
+        "title": "豬哥亮",
+        "desc": "豬哥亮（1946–2017，原名謝新達）生於高雄左營，14 歲離家加入新劇團，31 歲在藍寶石大歌廳站上主持台，1980 年代以《豬哥亮歌廳秀》錄影帶紅遍全台。1993 年因賭債跑路、沉潛十年，2009 年以「出國深造」一句台詞復出，隔年拿下金鐘獎綜藝節目主持人獎，晚年每逢春節推出賀歲片。",
+        "category": "people",
+        "href": "/people/%E8%B1%AC%E5%93%A5%E4%BA%AE",
+        "date": "2026-10-22T20:47:39+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "桂綸鎂",
+        "desc": "1983年生，淡江大學法國語文學系畢業，2002年以易智言的《藍色大門》出道；2007年《不能說的秘密》讓她被大眾熟知，2012年以《女朋友·男朋友》拿下金馬獎與亞太影展最佳女主角，並以《白日焰火》等片走進國際影展，是台灣影壇代表性的文藝片女演員。",
+        "category": "people",
+        "href": "/people/%E6%A1%82%E7%B6%B8%E9%8E%82",
+        "date": "2026-10-22T14:58:37+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上",
+        "desc": "二〇二一年沈伯洋與戰略學者何澄輝共同創辦黑熊學院，曹興誠捐六億支持，目標三年訓練三百萬民防志士。二〇二四年二月以民進黨不分區立委身份入國會。二〇二五年十月二十八日，他成為首位被中國以「分裂國家罪」立案偵查的台灣民選政治人物，央視配上「起底」專題警告「下一個就是你」。二〇二六年元旦中國微博帳號用商用衛星公布他在台北的住家與工作地座標；情人節他在飛往法國的飛機上度過。五月十三日民進黨正式徵召他參選台北市長，要選的正是那座被衛星圖標出座標的城市。",
+        "category": "people",
+        "href": "/people/%E6%B2%88%E4%BC%AF%E6%B4%8B",
+        "date": "2026-10-22T08:57:18+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/puma-shen-election-2024.webp"
+      },
+      {
+        "title": "林青霞",
+        "desc": "1954年出生、成長於眷村的她，1972年在西門町被星探楊琦遇見，經介紹試鏡後獲選主演瓊瑤原著《窗外》，以清純面貌成為瓊瑤電影時代的女神，與秦漢、秦祥林組成風靡整個華人世界的經典螢幕情侶，髮型與服裝都成為時尚指標；1992年再以紅衣飛舞的東方不敗一角寫下武俠銀幕經典，橫跨文藝與武俠兩個時代。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E9%9D%92%E9%9C%9E",
+        "date": "2026-10-22T08:38:16+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "李國修",
+        "desc": "屏風表演班創辦人，台灣喜劇之王，因大腸癌於2013年7月2日病逝，享年57歲",
+        "category": "people",
+        "href": "/people/%E6%9D%8E%E5%9C%8B%E4%BF%AE",
+        "date": "2026-10-22T02:38:49+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "一同走過從前：要往前走，先知道我們是怎麼來的",
+        "desc": "1988 年 7 月，國民黨十三全開幕前夕，殷允芃讓天下雜誌的四集紀錄片在台視連播四天。攝影家張照堂替一份文字稿去找走過那四十年的人：當過養女的紀政、年年被加租的佃農、在山裡炸路的榮民。天下從創刊就在問台灣怎麼走到今天，片子的回答落在這些人身上，後來還有一捲錄影帶被帶進北京。",
+        "category": "culture",
+        "href": "/culture/%E4%B8%80%E5%90%8C%E8%B5%B0%E9%81%8E%E5%BE%9E%E5%89%8D",
+        "date": "2026-10-21T23:14:05+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/yitong-ep1-title-card-1988.jpg"
+      },
+      {
+        "title": "席慕蓉",
+        "desc": "《七里香》《無怨的青春》作者，華語詩壇最暢銷詩人，蒙古族",
+        "category": "people",
+        "href": "/people/%E5%B8%AD%E6%85%95%E8%93%89",
+        "date": "2026-10-21T20:39:13+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "蕭青陽",
+        "desc": "葛萊美獎最佳專輯包裝設計得主，七度入圍終以父女合作封王，台灣設計登上世界舞台的代表人物",
+        "category": "people",
+        "href": "/people/%E8%95%AD%E9%9D%92%E9%99%BD",
+        "date": "2026-10-21T20:39:13+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "雷亞遊戲：以美學立國的音樂帝國，與它十四年的裂縫",
+        "desc": "2012 年六位台大電資院的年輕人湊三千萬做了《Cytus》，一個月登上 14 國排行榜第一。十四年後他們有了 Deemo 動畫、聚爆動畫十一年未交付、Sdorica 2026 年 2 月進入維護模式、2020 年 ICE 摩斯密碼事件後切割員工保住中國市場的選擇。美學讓雷亞被世界看見，也讓它在每個非音樂的場域跌倒。",
+        "category": "technology",
+        "href": "/technology/%E9%9B%B7%E4%BA%9E%E9%81%8A%E6%88%B2",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "史明：用一間餃子店，養了四十年的台灣革命",
+        "desc": "史明本名施朝暉，曾在中國替中共做地下情報，卻在親眼見過土改屠殺後幻滅，回台密謀刺殺蔣介石，事敗後偷渡日本。他在東京池袋開了一間叫「新珍味」的麵店，白天賣餃子、夜晚寫台灣史，用這間店的收入養了四十年的台獨運動，也寫出喚起台灣民族意識的《台灣人四百年史》。",
+        "category": "people",
+        "href": "/people/%E5%8F%B2%E6%98%8E",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師",
+        "desc": "從 2009 年紐約被媒體追訪，到 2016 年在台南開設牙醫診所，陳幸妤如何在政治家庭的注視下，把生活帶回牙醫專業？",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E5%B9%B8%E5%A6%A4",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
         "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Lin Yu-ting: From Yingge Junior High School Boxing Team to Paris Olympic Gold Medalist",
+        "desc": "In August 2024, Lin Yu-ting defeated a Polish athlete with a 5-0 score in the women's 57kg gold medal match at the Paris Olympics, winning Taiwan's first Olympic boxing gold. This article summarizes her journey starting from the Yingge Junior High School boxing team, her defeat at the Tokyo Olympics, the disqualification of her 2023 World Championships bronze medal, and the gender controversy during the Paris Olympics, as well as her teaching career, awards after winning gold, and recent competition status for 2026. Every claim includes a source.",
+        "category": "people",
+        "href": "/en/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Yang Yung-wei",
+        "desc": "2021 Tokyo Olympics judo 60kg silver medalist, the first Olympic judo medalist in Taiwan's history, and world number one in November of the same year.",
+        "category": "people",
+        "href": "/en/people/yang-yung-wei-judo-olympic-silver",
+        "date": "2026-10-23T01:56:52+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chou Tien-chen: Taiwan's Badminton Ace, Reaching the Heights of World No. 2",
+        "desc": "The first Taiwanese men's singles player to reach world number two and the first to defeat Lin Dan. From a low point of ten consecutive losses after joining the national team and becoming a Christian following an appendicitis perforation, to being diagnosed with early-stage colon cancer at age 34 in 2023—returning to international competition just days after surgery and enduring a year-long slump before reaching the Olympic quarterfinals the following year. Chou Tien-chen does not rely on overwhelming talent, but uses a \"grinding\" style of defensive rallies to steadily raise the ceiling for Taiwanese badminton.",
+        "category": "people",
+        "href": "/en/people/chou-tien-chen-badminton",
+        "date": "2026-10-23T00:55:01+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Brigitte Lin",
+        "desc": "Born in 1954 and raised in a military dependents' village, she was discovered by talent scout Yang Chi in Ximending in 1972; after being cast in the adaptation of Qiong Yao's *Window*, she became the goddess of the Qiong Yao film era with her pure image, forming classic on-screen pairings with Qin Han and Qin Xianglin that captivated the Chinese-speaking world. In 1992, she redefined martial arts cinema with her subversive portrayal of Dongfang Bubai, spanning two distinct eras of film.",
+        "category": "people",
+        "href": "/en/people/brigitte-lin-legendary-actress",
+        "date": "2026-10-23T00:48:55+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "From \"Dog Killing Island\" to Zero Culling: Forty Years of Redemption in Taiwan's Animal Protection",
+        "desc": "In the 1990s, Taiwan was internationally known as the \"Dog Killing Island\" due to cruel treatment of stray dogs, leading even Japanese airports to display boycott signs. From the enactment of the Animal Protection Act in 1998 to comprehensive zero culling in 2017, this is a social movement redefining the value of life.",
+        "category": "history",
+        "href": "/en/history/animal-protection-in-taiwan",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Culinary Class Wars in Taiwan: A Netflix Korean Variety Show Subjecting Seven Consumer Industries to Taste Stress Tests within 16 Months",
+        "desc": "In September 2024, the premiere week of Netflix's \"Culinary Class Wars\" captured the top viewership in Taiwan. Over the following 16 months, nine Korean chefs from the show extended their reach into seven seemingly unrelated consumer industries—including convenience store ready-to-eat meals, bubble tea, fast food chains, five-star hotel buffets, delivery platforms, Korean food chains, and even the Galaxy Z foldable phone—through collaborations, guest appearances, and endorsements. Notably, the bubble tea brand \"Shi-Sheng\" (十盛), endorsed by Kim Tae-seong, closed on 2025-12-26 after 20 months, serving as Taiwan's first reverse test of \"Korean variety show chef endorsements.\"",
+        "category": "culture",
+        "href": "/en/culture/culinary-class-wars-in-taiwan",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Agricultural Technology and Precision Agriculture",
+        "desc": "With less than 10,000 square kilometers of land, Taiwan has developed high-value products like orchids, pineapple custard apples, and high-mountain tea through long-term breeding since Iso Yong-ji, the \"Father of Indica Rice,\" securing a key position in international markets. By integrating IoT and new technologies, Taiwan is moving toward smart agriculture, replacing extensive farming with precision and labor with technology to validate its unique global niche.",
+        "category": "economy",
+        "href": "/en/economy/agricultural-technology-and-refined-agriculture",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Taiwan Enterprises: TSMC",
+        "desc": "Morris Chang, who left Texas Instruments at 54 and founded TSMC at 56, survived three major displacements and lived in six cities during his first eighteen years. Thirty-eight years later, on March 3, 2025, U.S. President Trump pointed to TSMC's successor, C.C. Wei, at the White House and said: \"He is the most important man in this room.\" In the first quarter of 2026, TSMC's quarterly revenue reached $35.9 billion. On an island prone to typhoons and facing water and power shortages, it has built the heart of humanity's digital civilization—but as this heart grows larger, whether the island can bear its cost becomes increasingly uncertain.",
+        "category": "economy",
+        "href": "/en/economy/tsmc",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "Rayark: A Musical Empire Built on Aesthetics, and Its Fourteen Years of Cracks",
+        "desc": "In 2012, six young graduates from NTU's College of Electrical Engineering and Computer Science pooled NT$30 million to create Cytus, which hit number one on charts in 14 countries within a month. Fourteen years later, they have the Deemo animation, eleven years of undelivered Project Polyphony animations, Sdorica entering maintenance mode in February 2026, and the decision to cut staff following the 2020 ICE Morse code incident to protect their Chinese market. Aesthetics allowed Rayark to be seen by the world, but also caused it to stumble in every field outside of music.",
+        "category": "technology",
+        "href": "/en/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: From the Pressed President’s Daughter to Dr. Chen in a Tainan Clinic",
+        "desc": "From being pursued by media in New York in 2009 to opening a dental clinic in Tainan in 2016, how did Chen Hsing-yu return her life to the profession of dentistry under the gaze of a political family?",
+        "category": "people",
+        "href": "/en/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: A Dumpling Shop That Funded Forty Years of Taiwan's Revolution",
+        "desc": "Su Beng, born Shi Chao-hui, once did underground intelligence work for the CCP in China but became disillusioned after witnessing land reform massacres; he returned to Taiwan to plot Chiang Kai-shek's assassination, failed, and smuggled himself to Japan. In Tokyo's Ikebukuro he opened a noodle shop called \"Shin-Chin-Mi,\" selling dumplings by day and writing Taiwanese history by night, using the shop's income to fund forty years of the independence movement and producing the seminal *Taiwan's 400-Year History* that awakened Taiwanese national consciousness.",
+        "category": "people",
+        "href": "/en/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "The Little Tigers: Bought Melodies, Filled with Our Own Youth",
+        "desc": "In 1988, a Chinese Television Agency (CTV) talent show sought three boys to accompany the girl group Little Cats; the result was an idol group covering Japanese songs and imitating Japan's Shonentai. From selling 200,000 copies in five days to being chased by fans from Taipei to Kaohsiung, and finally crossing the Strait in 1991: almost all parts were imported, yet Taiwan remembered it as the most solid generation of youth. The three most popular bodies later crossed the Strait as well.",
+        "category": "music",
+        "href": "/en/music/little-tigers-taiwan-boy-band",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": "/article-images/music/little-tigers-xiaoyaoyou-album.webp"
+      },
+      {
+        "title": "Taiwanese \"Handy Dishes\": The Meaning, Origin, and Signature Cuisine of Banquet Culture",
+        "desc": "_Tshiú-lōo-tshài_ (handy dishes) means \"signature cuisine.\" In Neimen, Kaohsiung—where loamy soil cannot grow crops but instead raised the densest group of caterers in Taiwan—a single company hosted 25,000 banquets a year during its golden age. The final broth from one pot could take four to eight hours to perfect, and the entire village knew if it was good or not the next day.",
+        "category": "food",
+        "href": "/en/food/taiwan-specialty-home-cooking",
+        "date": "2026-10-21T08:02:47+00:00",
+        "readingTime": null,
+        "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
+      },
       {
         "title": "Moriyama Matsunosuke: Drawing Taiwan's Official Face with Three Prefectural Halls and a Courthouse",
         "desc": "In 1906, a Tokyo Imperial University graduate from an Osaka merchant family arrived in Taiwan as a consultant and designed the first fully reinforced-concrete building in the entire Japanese Empire. Over the next fifteen years, Moriyama Matsunosuke completed the Taipei Prefectural Hall, Taichung Prefectural Hall, Tainan Prefectural Hall, Tainan Courthouse, the Monopoly Bureau, the Railway Ministry, and the Taiwan Governor-General's Office. His handling of asymmetrical sites, composite columns, and dual circulation patterns gave concrete form to colonial government authority, leaving behind three red-brick halls that today house the Control Yuan, Taichung City Government offices, and the National Taiwan Literature Museum.",
@@ -427,126 +544,54 @@
         "date": "2026-10-10T23:40:25+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Lee Ho-jung",
-        "desc": "Returning to Fubon with high attendance and high recognition, she embodies Korean cheerleaders in Taiwan shifting from 'guest spot' to 'fixed roster.'",
-        "category": "people",
-        "href": "/en/people/lee-ho-jung",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Rainie Yang: From Weather-Girl Avatar to Self-Produced Ambiguous 2025",
-        "desc": "On September 9, 2025, on the exact 20th anniversary of the original release of \"Ambiguous,\" Rainie Yang released a self-produced remake. This singer who debuted in 2000 with BMG virtual girl group 4 in Love, broke through in 2005 with \"Ambiguous,\" hung upside down three meters above the Hong Kong Coliseum in 2012 until blood vessels burst across her face — spent twenty-five years negotiating on every stage who got to define her. Then she put her own name in the producer credit.",
-        "category": "people",
-        "href": "/en/people/rainie-yang",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Fish Stick: A Name Like a Street Snack, a Sound That Hits Like Post-Hardcore",
-        "desc": "On December 31, 2019, Fish Stick released their first full-length album Antidote on the last day of the year. Three classmates from Taipei Municipal Zhongzheng Senior High School, playing together from late 2011 to 2019, shrank from five members to three, placed fourth at the 2016 Ditu Spring Wave Awards, received an invitation to perform in Shanghai — and say they're 'not preachy,' yet every song they sing is more direct than any manifesto.",
-        "category": "people",
-        "href": "/en/people/yu-tiao-musician",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Zun: From a Middle School Room to Dual Million-Subscriber Channels, an Adulting Record",
-        "desc": "Zun started streaming games in the second year of middle school, became Taiwan's youngest millionaire YouTuber at 19, and later pushed his secondary channel past the million mark. Spanning fourteen calendar years, this record documents his process of growing up while facing creative burdens, family storms, and sponsorship missteps.",
-        "category": "people",
-        "href": "/en/people/zun",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 11,
-        "image": "/article-images/people/zun-new-home-2025.webp"
-      },
-      {
-        "title": "From Golden Horse Awards to Hanwha Exercises: The Collective Rite of Passage and Survival Drill for Taiwanese Men",
-        "desc": "From 1945 onward, Taiwan's military service has shifted from a three-year term to four months, and then back to a one-year system in 2024. This collective memory, involving millions of people, is more than just the command phrase 'one two three four five six seven eight nine zero'; it represents the island's survival tension within a gray zone.",
-        "category": "society",
-        "href": "/en/society/military-service-in-taiwan",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Taipei's Rat Problem: From the 1896 Governor-General's Plague Order to the 2026 Dax'an Hantavirus Case",
-        "desc": "In January 2026, a septuagenarian man in Dax'an District died of hantavirus, marking Taiwan's first fatality in 25 years. But the story's true turning point was the 'ban on household kitchen waste for pig feeding' implemented that same month—when pigs stopped eating kitchen waste, rats began eating Taipei.",
-        "category": "society",
-        "href": "/en/society/taipei-rat-problem",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "Za School: Free Exhibition Founded with Blown Savings, Vice President Opens It 11 Years Later",
-        "desc": "On May 9-10, 2015, Su Yang-chih used 1.5 million TWD in profit from his design company to host the 'Not So Obedient Education Festival,' ultimately losing 7 million TWD. Eleven years later, Za School moved into the Taipei Flower Expo Park to co-host IDEC, and rebranded as 'EDit' to move into the Taoyuan Convention and Exhibition Center. This is a Taiwanese case study of an exhibition that started as a free rebellion and grew into Asia's largest education expo. The most interesting aspect is not that it grew large, but whether the 'not so obedient' spirit remained intact after that growth.",
-        "category": "society",
-        "href": "/en/society/za-share",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Hi-Life: From Guangquan Red to United Green—The Soul of Taiwan's 'Third Superstore' Rises Up",
-        "desc": "How did Hi-Life, as Taiwan's sole superstore with purely local roots, carve out its identity amidst the pressure from 7-ELEVEN and FamilyMart through pioneering 'New Year's Eve meal pre-orders' and 'digital transformation'? How will this major ownership shift in 2023 change the DNA of this 35-year-old establishment?",
-        "category": "economy",
-        "href": "/en/economy/hilife-convenience-store",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "NET: From Export Overstock to the National Wardrobe—The Story of Taiwan's Most Mysterious Local Apparel Brand",
-        "desc": "Established in 1991, NET began with export overstock from Keelung's 'Housewife Market.' For thirty years, it has survived amidst the pressure of fast fashion. It is not only the local apparel brand with the most stores across Taiwan, but also a commercial legend embodying warmth for Taiwanese people due to its continuous 15 years of 'store donations' and the recent property rights dispute at Keelung East Coast Plaza.",
-        "category": "economy",
-        "href": "/en/economy/net-night-economy-tourism",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "School Cooperatives in Taiwan: The Vanishing Democratic Experiment Behind the Pork Bun",
-        "desc": "In 1989, NTU student body president Lo Wen-chia led a sit-in at the campus welfare shop, demanding it be restructured into a teacher-and-student-owned cooperative. A year later, the Ministry of Education made it national policy, and at peak there were over 5,000 cooperative shops across Taiwan campuses. Three decades on, the cooperatives at flagship schools like Jianguo High and Jingmei Girls High are switching off their lights — squeezed out by food-delivery platforms, food bans, and the demographic cliff. This piece asks: when the NT$10 share certificate disappears, what Taiwan loses is not just the smell of steamed pork buns, but an unfinished lesson in civic and labor education.",
-        "category": "lifestyle",
-        "href": "/en/lifestyle/cooperatives-in-taiwan",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Thirty Years of Taiwan’s Online Communities: Recovering URLs, Losing Photos, and the History of Displacement",
-        "desc": "From the Beauty Island BBS to Threads, Taiwanese people have collectively moved every few years, leaving the previous generation’s memories behind the power switch that was turned off. The thirty-year migration history appears to be a clean line of platform evolution, but at its core, it is a history of displacement over 'whose land this is'—the places with the highest stickiness have the lowest data sovereignty.",
-        "category": "technology",
-        "href": "/en/technology/taiwan-online-community-migration",
-        "date": "2026-10-10T23:37:00+08:00",
-        "readingTime": 25,
-        "image": ""
-      },
-      {
-        "title": "Island Historiography of Taiwan: How a Repeatedly Governed Island Invented Its Own Subjectivity",
-        "desc": "The \"Taiwanese Island Historiography\" (臺灣島史觀) reclaims Taiwan from the timelines of external regimes, asking instead how people on this island lived, migrated, were governed, survived, and reconstructed their memories. It does not portray Taiwan as a uniquely special island by birth, but reminds us that identity grows out of shared living, shared suffering, and shared burdens; the protagonists of Taiwanese history should not always be merely the regimes that passed through.",
-        "category": "history",
-        "href": "/en/history/taiwan-island-historiography",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/formosa-dutch-map-1640.webp"
-      },
-      {
-        "title": "Taiwan and North Korea: From Fourth Largest Export Destination to a Gray Zone Confrontation",
-        "desc": "Taiwan was once North Korea's fourth-largest export destination, with Acer computers and HCG sanitary ware visible in Pyongyang offices. This history—from robust trade to comprehensive embargoes—is interwoven with secret agricultural aid, maritime smuggling, and deep geopolitical intelligence struggles.",
-        "category": "history",
-        "href": "/en/history/taiwan-north-korea-relations",
-        "date": "2026-10-10T23:33:38+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "林郁婷：鶯歌国中ボクシング部からパリ五輪金メダルへ",
+        "desc": "2024年8月、林郁婷はパリ五輪女子57キロ級決勝でポーランド選手を5対0で破り、台湾に初のオリンピックボクシング金メダルをもたらしました。本稿では、鶯歌国中ボクシング部でのスタート、東京五輪での敗退、2023年世界選手権銅メダル剥奪、パリ五輪期間中の性別を巡る論争、そして金メダル獲得後の教職・表彰・2026年の大会近況までを整理し、すべての記述に出典を付けています。",
+        "category": "people",
+        "href": "/ja/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "AIハードウェア・サプライチェーン：台湾がクラウドを「実体のある機械」に変える場所",
+        "desc": "生成AIはクラウドサービスのように見えますが、実際には物理的な経路を必要とします。チップ設計、ウェハー製造、封止、メモリ、電力、冷却、マザーボード、ラックに至るまで。台湾の重要性はTSMCだけでなく、この経路の重要な関門が集結している点にあります。",
+        "category": "technology",
+        "href": "/ja/technology/ai-hardware-supply-chain",
+        "date": "2026-10-23T00:55:01+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/ai-hardware-supply-chain-flow.svg"
+      },
+      {
+        "title": "Rayark Games：美学を掲げる音楽帝国と、その14年間の亀裂",
+        "desc": "2012年、台湾大学の電気情報工学科に所属する6人の若者が3,000万元を集めて『Cytus』を制作し、わずか1ヶ月で14カ国のチャートで1位を獲得しました。それから14年、彼らはDeemoのアニメ化、11年間未完のプロジェクト、2026年2月にメンテナンスモードへ移行するSdorica、そして2020年のICEモールス信号事件を経て中国市場を守るために従業員を切り離すという選択を経験してきました。美学はRayarkを世界に知らしめましたが、同時に音楽以外の領域において彼らを挫折させてきました。",
+        "category": "technology",
+        "href": "/ja/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "陳幸妤（ちん・こうよ／チェン・シンユー）：問い詰められた総統の娘から、台南の診療所の陳医師へ",
+        "desc": "2009年にニューヨークでメディアに追いかけられてから、2016年に台南で歯科医院を開業するまで、陳幸妤（ちん・こうよ／チェン・シンユー）は政治家一家への視線の中で、生活をどのように歯科医師という専業へ引き戻したのか。",
+        "category": "people",
+        "href": "/ja/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "史明（スー・ミン）：餃子店一軒で40年間、台湾の革命を支え続けた男",
+        "desc": "史明の本名は施朝暉。かつて中国で共産党の地下工作員を務めたが、土地改革による虐殺を目の当たりにして幻滅し、帰台後に蔣介石暗殺を計画、失敗後に日本へ密航した。東京池袋の麺料理店「新珍味」を営みながら、昼は餃子を売り、夜は台湾史を執筆。その収益で40年間にわたり台湾独立運動を支え、『台湾人四百年史』を著して民族意識を呼び起こした。",
+        "category": "people",
+        "href": "/ja/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "森山松之助：三つの州庁舎と一つの裁判所で、台湾に官方の顔を描く",
         "desc": "1906年、大阪の名門出身で東京帝国大学を卒業した一人の建築家が台湾に赴任し、日本帝国全域で初めての全鉄筋コンクリート造建築を設計しました。その後15年間、森山松之助は台北州庁舎、台中州庁舎、台南州庁舎、台南裁判所、専売局、鉄道部、台湾総督府を次々と完成させました。非対称の敷地、複合柱式、双動線の手法により、植民地政府の権力に具体的な形を与え、今日の監察院、台中州庁舎、国立台湾文学館の所在地となった三棟の赤煉瓦庁舎を遺しました。",
@@ -771,54 +816,189 @@
         "date": "2026-10-10T23:46:16+08:00",
         "readingTime": null,
         "image": "/article-images/society/the-reporter-brand-logo.webp"
+      }
+    ],
+    "ko": [
+      {
+        "title": "린위팅: 잉거 국립중학교 복싱팀에서 파리 올림픽 금메달까지",
+        "desc": "2024년 8월, 린위팅은 파리 올림픽 여자 57kg급 금메달 결정전에서 폴란드 선수를 5-0으로 격파하며 대만에 첫 올림픽 복싱 금메달을 안겼습니다. 본문은 그녀가 잉거 국립중학교 복싱팀에서 시작해 도쿄 올림픽의 패배, 2023년 세계 선수권 대회 동메달 취소 및 파리 올림픽 기간 중 발생한 성별 논란, 그리고 금메달 획득 후의 교직 활동, 수상 내역 및 2026년 경기 근황을 정리하였으며 각 내용은 출처를 포함하고 있습니다.",
+        "category": "people",
+        "href": "/ko/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
       },
       {
-        "title": "台湾の義消：勤務後に制服を身に纏い、地方に第二の消防隊をもたらす",
-        "desc": "義消は志工と呼ばれるが、消防法に基づく編成、専門訓練、勤務指揮、救災保険を備えた法定組織である。日本統治時代の消防組から現代の山域捜索救助まで、この地方の力がいかに消防体系の時間差を補い、同時に採用、訓練、安全装備、家族支援、長期定着という課題を露呈させているかを解説する。",
+        "title": "천싱위: 대통령 딸로 추궁당하던 존재에서 타이난 진료실의 천 의사로",
+        "desc": "2009년 뉴욕에서 언론의 추적을 받던 천싱위가 2016년 타이난에 치과 진료소를 개원하기까지, 정치인 가족의 시선 속에서 어떻게 삶을 치과 전문직으로 되돌렸는가?",
+        "category": "people",
+        "href": "/ko/people/chen-hsing-yu",
+        "date": "2026-10-24T00:48:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "양융웨이(楊勇緯)",
+        "desc": "2021 도쿄 올림픽 유도 60kg급 은메달리스트이자 타이완 역사상 첫 유도 올림픽 메달리스트, 같은 해 11월 세계 랭킹 1위에 등극하다.",
+        "category": "people",
+        "href": "/ko/people/yang-yung-wei-judo-olympic-silver",
+        "date": "2026-10-23T00:55:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "대만 기업: TSMC",
+        "desc": "54세에 텍사스 인스트루먼트를 떠나 56세에 TSMC를 설립한 장중머우는 초기 18년 동안 세 번의 위기를 넘기고 여섯 개의 도시를 거쳤다. 38년 후인 2025년 3월 3일, 미국 대통령 트럼프는 백악관에서 장중머우의 후계자인 웨이저자(魏哲家)를 가리키며 \"그가 이 방에서 가장 중요한 사람입니다\"라고 말했다. 2026년 1분기 TSMC의 분기 매출은 359억 달러에 달한다. 태풍이 빈번하고 물과 전기가 부족한 섬에서 인류 디지털 문명의 심장을 만들어냈지만, 이 심장이 커질수록 이 섬이 그 대가를 감당할 수 있을지는 오히려 더욱 불투명해지고 있다.",
+        "category": "economy",
+        "href": "/ko/economy/tsmc",
+        "date": "2026-10-23T00:55:01+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "흑관마로(黑冠麻鷺): 탐조객의 꿈의 종, 캠퍼스의 멍청한 새",
+        "desc": "1985년부터 1992년까지 중화조류학회의 4,000건의 조류 기록 중 흑관마로는 단 25건에 불과하여, 조류 도감상 '희귀한 텃새'로 분류되었다. 30년이 지난 지금, 이들은 타이완 대학교 야자수 가로수길과 다안삼림공원에서 매일 목격된다. 흔히들 \"사람을 무서워하지 않게 되었다\"라고 말하지만, 타이완 대학교의 위엔샤오웨이(袁孝維) 교수가 2010년부터 진행한 포획·방사 연구는 다른 답을 제시한다. 타이완 도시의 울창해진 캠퍼스와 농약을 치지 않는 잔디밭이 이들의 원래 서식지인 저지대 숲을 그대로 재현했다는 것이다. 즉, 새가 변한 것이 아니라 환경이 변한 것이다.",
+        "category": "nature",
+        "href": "/ko/nature/malayan-night-heron",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 8,
+        "image": "/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp"
+      },
+      {
+        "title": "2026년 분과측험(分科測驗) 미정답 처리 논란: 교육 신뢰성의 구조적 위기",
+        "desc": "2026년 7월, 강력한 태풍 바위(Bavi)의 영향으로 분과측험이 사상 처음으로 연기되었다. 성적 발표 후 149건의 문항 이의 제기가 발생했으나, 대입시험센터는 모든 안을 원안대로 유지하며 단 한 문제도 정답 처리하지 않았다. 생물 과목의 선택지 중복, 지리 과목의 도표 오류 등에 대해 당국은 \"답안 작성에 영향이 없다\"라고만 답했다. 국회의원과 학부모, 시민 연서명단이 요구하는 것은 단순하다. 결론뿐 아니라 검증 가능한 근거를 제시하라는 것이다.",
         "category": "society",
-        "href": "/ja/society/volunteer-firefighters-taiwan",
-        "date": "2026-10-10T23:46:16+08:00",
-        "readingTime": 8,
-        "image": "/article-images/society/taipei-firefighting-truck.webp"
-      },
-      {
-        "title": "2026年九合一選挙：AI認知戦時代における民主主義インフラのストレステスト",
-        "desc": "2026年11月28日、台湾全土22県市で同日投票により9種類の職位、1.1万議席超の民選首長・民意代表が選出される。この選挙が過去と異なるのは候補者ではなく環境だ：中共の国家級AI認知戦の工業化、123以上の偽装ニュースサイト、検察がAI偽情報を取締り重点4項目に指定。本稿は選挙情報の整理ではなく、この選挙の歴史的位置づけと構造的圧力の分析である。",
-        "category": "politics",
-        "href": "/ja/politics/2026-local-elections-taiwan",
-        "date": "2026-10-10T23:46:16+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "歓楽無法党：香菜ケーキ、柚子名簿、そして法人登記を完了しなかった政治実験",
-        "desc": "2019年11月、邱威傑、張志祺、陳子見が香菜ケーキを創党大会に持ち込み、柴犬の柚子を比例代表名簿に載せた。彼らは「歓楽」で政治のハードルを下げようとしたが、備案後1年で法人登記を完了せず、ネットクリエイターたちの市民教育実験が法的手続きの前に留まることになった。",
-        "category": "politics",
-        "href": "/ja/politics/happiness-party-taiwan",
-        "date": "2026-10-10T23:46:16+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "黒バット中隊——暗夜を飛んだ無名の英雄たちと、海峡を越えた孤独な航跡",
-        "desc": "1952年に編成された空軍第34中隊は、冷戦の霧のなかで最も危険な低空偵察任務を担った。米中央情報局(CIA)と手を組み、148名の命と引き換えに極秘の情報を持ち帰りながら、彼らの存在は数十年間、歴史の陰に沈められた。1990年代に両岸関係がようやく緩和されると、殉職者の遺骨が遺族の手で少しずつ台湾に迎えられ、半世紀にわたり空白のままだった家族の物語が、静かに綴じ合わされていった。",
-        "category": "history",
-        "href": "/ja/history/black-bat-squadron",
-        "date": "2026-10-10T23:45:03+08:00",
+        "href": "/ko/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-21T22:29:28+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "林爽文事件：清帝国はいかにして台湾統治を学び直したか",
-        "desc": "1786 年末に中部で勃発した林爽文事件は、清廷が「平定」と呼んだ一民変にとどまらず、帝国に台湾の港口、屯丁、築城政策を変更させた。",
-        "category": "history",
-        "href": "/ja/history/lin-shuang-wen-rebellion",
-        "date": "2026-10-10T23:45:03+08:00",
+        "title": "레이아크 게임즈: 미학으로 나라를 세운 음악 제국, 그리고 그 14년의 균열",
+        "desc": "2012년 대만대 전기정보학원 출신 여섯 젊은이가 NT$3,000만을 모아 《사이터스》를 만들었고, 한 달 만에 14개국 차트 1위에 올랐다. 14년 후 그들은 《디모》 애니메이션, 《임플로전》 애니메이션 11년 미완성, 《스도리카》 2026년 2월 유지보수 모드 진입, 2020년 아이스 모스부호 사건 이후 직원을 해고하고 중국 시장을 지키는 선택을 했다. 미학은 레이아크를 세계에 알렸지만, 동시에 음악이 아닌 모든 영역에서 넘어지게 만들었다.",
+        "category": "technology",
+        "href": "/ko/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "스밍: 한 개의 만두 가게로 40년간 타이완 혁명을 부양하다",
+        "desc": "스밍(본명 스차오후이, 施朝暉)은 중국에서 중공 지하 정보원으로 활동했으나 토지개혁 학살을 목격한 후 환멸을 느껴 귀국해 장제스 암살을 모의했다가 실패하고 일본으로 밀항했다. 도쿄 이케부쿠로에서 '신진미(新珍味)'라는 면 가게를 열어 낮에는 만두를 팔고 밤에는 타이완사를 집필하며, 이 가게 수익으로 40년간 타이완 독립운동을 뒷받침했고 타이완 민족의식을 일깨운 《타이완인 400년사》를 저술했다.",
+        "category": "people",
+        "href": "/ko/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "단자면: 한 시즌의 생계를 위해 끓여진 국수가 어떻게 타이난의 일상이 되었는가",
+        "desc": "1895년, 훙위투우(洪芋頭)는 어업의 비수기를 견디기 위해 생계를 지팡이에 메었습니다. 100여 년이 지난 지금, 단자면은 여전히 작은 그릇의 알칼리 면, 새우 국물, 그리고 육소(肉燥)를 통해 타이난 항구, 이민, 그리고 노점상들의 생활 리듬을 보존하고 있습니다.",
+        "category": "food",
+        "href": "/ko/food/tainan-danzai-noodles",
+        "date": "2026-10-21T11:08:20+09:00",
+        "readingTime": 8,
+        "image": "/article-images/food/danzi-noodle-tainan.webp"
+      },
+      {
+        "title": "로브고: 명나라 정씨 왕조 제사에서 대나무 그늘 아래 아침 식사까지의 미식 기억",
+        "desc": "한 조각의 로브고가 어떻게 명절 공양품에서 일상적인 아침 식사로 변모했는가: 재래미, 지역 과행, 그리고 300년 전통이 교차하는 대만의 맛",
+        "category": "food",
+        "href": "/ko/food/taiwanese-turnip-cake",
+        "date": "2026-10-21T11:08:17+09:00",
+        "readingTime": 8,
+        "image": "/article-images/food/luobogao-turnip-cake-2020.webp"
+      },
+      {
+        "title": "지진 경보: 타이완은 10여 초를 더 살 수 있지만 진앙 근처의 시간은 살 수 없다",
+        "desc": "1999년 지지 지진 이후 우이민 등 연구자들이 저가 P파 감지기를 타이완 지진 경보망에 연결했으며, 2024년 화롄 지진은 시스템이 수초 내에 규모와 진도를 추정할 수 있지만 균열 방향과 관측소 분포로 인해 진도를 과소평가할 수 있음을 일깨워주었습니다. 타이완이 실제로 발전시킨 것은 지진을 예측하는 것이 아니라, 짧은 시간을 실제 재난 감소 결정으로 전환하는 것입니다.",
+        "category": "technology",
+        "href": "/ko/technology/taiwan-earthquake-early-warning",
+        "date": "2026-10-21T11:08:15+09:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "제갈사랑: 붉은 옷을 입은 소년이 검열을 어떻게 통과해 대만인의 유년시로 돌아왔는가",
+        "desc": "1958년, 예홍갑은 《만화대왕》에 제갈사랑을 그렸다. 붉은 옷을 입고 보검을 든 이 소년은 백색공포 이후의 출판 시장에서 아이들의 영웅이 되었으나, 만화 검열 제도로 인해 침묵을 강요받았다. 원고에서 왕아표(인형 표지)를 거쳐 2022년 애니메이션에 이르기까지, 제갈사랑이 남긴 것은 단순한 향수가 아니라 대만 오리지널이 어떻게 억압받고 보존되었으며 다시 발견되었는가의 역사이다.",
+        "category": "people",
+        "href": "/ko/people/zhuge-si-lang-comic",
+        "date": "2026-10-21T11:08:12+09:00",
         "readingTime": 8,
         "image": ""
-      }
-    ],
-    "ko": [
+      },
+      {
+        "title": "루옌쉰: 윔블던 8강에서 5회 올림픽까지, 대만 테니스의 최장거리 행진",
+        "desc": "2010년 윔블던에서 루옌쉰은 7번 시드 앤디 로딕을 꺾고 대만 남자 선수로는 처음으로 그랜드슬램 8강에 진출했다. 2004년 아테네부터 2021년 도쿄까지 5회 올림픽에 연속 출전하여 대만 현대 테니스 역사상 가장 멀리 간 선수가 되었다. 은퇴 후 테니스 아카데미를 설립하여, 자신의 윔블던 기록을 뛰어넘을 대만 소년이 나타나기를 기다리고 있다.",
+        "category": "people",
+        "href": "/ko/people/lu-yen-hsun-tennis-champion",
+        "date": "2026-10-21T11:08:09+09:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "린셴탕: 서고를 타이완인의 공공적인 입구로 전환하다",
+        "desc": "1881년 우펑 린가(霧峰林家)에서 태어난 린셴탕은 량치차오의 조언에 따라 비무장 항일 운동을 전개하고, 타이완 의회 설치 청원 운동을 주도했으며, 세계 일주를 타이완인의 세계 수업으로 기록한 인물이다. 그가 진정한 유산으로 남긴 것은 가문 이름뿐만 아니라 교육, 문화, 자치가 서로 연결될 수 있는 방법이다.",
+        "category": "people",
+        "href": "/ko/people/lin-hsien-tang",
+        "date": "2026-10-21T11:08:06+09:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "료취즈: ‘박희난이’에서 가오시시(가오시시)의 기억을 남기는 방법으로",
+        "desc": "1935년 지룽에서 태어난 료취즈는 15세에 진산 악사로 들어간 후 내타이, 외타이, 라디오, TV 가오시시를 거쳐, 신체의 기억에 의존하던 연극 장르를 학생들이 배우고, 대본으로 읽으며, 영상으로 보존할 수 있는 예술로 만드는 데 평생을 바쳤다.",
+        "category": "people",
+        "href": "/ko/people/liao-chiung-chih",
+        "date": "2026-10-21T11:08:03+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "카포: 고양이 같지 않은 고양이가 어떻게 대만인의 채팅 언어가 되었는가",
+        "desc": "2014년 오리지널 스티커부터 만화, 게임, 전시회 및 카포 하우스까지, 야라가 고양이와 벌레를 오가는 이 캐릭터가 대만인의 일상 대화에 어떻게 자리 잡게 했는지.",
+        "category": "culture",
+        "href": "/ko/culture/capoo-cat-character",
+        "date": "2026-10-21T11:08:01+09:00",
+        "readingTime": 6,
+        "image": "/article-images/culture/capoo-taipei-station-2025.jpg"
+      },
+      {
+        "title": "가오자시: 이란의 사당 마당에서 TV로, 다시 군중으로",
+        "desc": "19세기 말 이란 사당 마당의 로디사오(落地掃)가 1920년대 극장에 진입하고, 황민화 시기 및 TV 황금시대를 거쳐 최종적으로 극장, 디지털 보존 및 차세대 관객 사이로 돌아가는 과정.",
+        "category": "art",
+        "href": "/ko/art/koa-a-hi-taiwanese-opera",
+        "date": "2026-10-21T11:07:58+09:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "정원치: 타이완 미술계를 말레이 군도로 이끈 12년",
+        "desc": "2017년 5월, 말레이시아 예술가 저우잉전(周盈貞)이 타이베이에 도착해 《디지털 황무지》의 첫 번째 레지던시 예술가가 되었다. 이 순간은 정원치가 2011년 《디지털 황무지》를 창간한 지 12년 만에 56호, 384편의 글, 10권의 《군도 아카이브》를 축적한 과정의 축소판이다. 그는 '동남아시아' 대신 '군도'라는 개념을 사용하여 타이완 미술계를 말레이 세계로 확장했으나, 변방의 시점에서 한계에 부딪혔다.",
+        "category": "people",
+        "href": "/ko/people/cheng-wen-chi",
+        "date": "2026-10-21T11:07:51+09:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "시랑: 정씨 부장에서 청군 주장으로, 타이완의 존폐를 혼자 결정할 수 없다",
+        "desc": "1683년澎湖 해전, 시랑이 청군을 인솔해 정씨 수사를 격파했으나, 정성공 휘하에서 청廷으로 향한 이 장수의 진정한 쟁점은 전장뿐만 아니라 타이완을 남겨야 할지, 이 역사를 누가 기록할 것인가에 있었다.",
+        "category": "people",
+        "href": "/ko/people/shi-lang-admiral",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "뢰차: 한 그릇의 단차, 어떻게 전후 이민자들의 식문화를 북포의 지역 명함으로 만들었는가",
+        "desc": "1999년 3월, 북포 노점 상가 한 곳의 전문점이 가정에서 비밀리에 전해오던 뤄차를 거리로 꺼내놓았다. 허포 이민자들이 가져온 짠맛의 차탕에서 땅콩과 참깨, 현미로 만든 단음료로, 그리고 타오위안과 해외의 다양한 버전으로, 뤄차는 고법이 그대로 보존된 것이 아니라 이민, 정책, 취향, 관광과 수많은 뤄방(절구채)이 함께 쓴 결과물이다.",
+        "category": "food",
+        "href": "/ko/food/lei-cha-pounded-tea",
+        "date": "2026-10-20T14:06:53+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "모리야마 마쓰노스케: 세 개의 주청과 하나의 법원으로 타이완의 공식적인 얼굴을 그리다",
         "desc": "1906년, 오사카 명문가 출신의 도쿄제국대학 졸업생이 타이완에서 촉탁으로 근무하며 일본 제국 최초의 전 철근 콘크리트 건축물을 설계했다. 이후 15년 동안 모리야마 마쓰노스케는 타이베이 주청, 타이중 주청, 타이난 주청, 타이난 법원, 전매국, 철도부 및 타이완 총독부를 차례로 완공했다. 비대칭 대지, 복합 기둥 양식, 이중 동선을 처리하는 그의 수법은 식민 정부의 권력에 구체적인 형상을 부여했으며, 오늘날 감찰원, 타이중 주청, 국립 타이완 문학관이 위치한 세 채의 붉은 벽돌 청사를 남겼다.",
@@ -827,6 +1007,15 @@
         "date": "2026-10-20T02:01:10+08:00",
         "readingTime": 11,
         "image": ""
+      },
+      {
+        "title": "디지털 황무지: 상업적 모델이 없는 온라인 예술 비평 플랫폼이 12년 동안 어떻게 생존했는가",
+        "desc": "2011년 11월, 정문기는 타이베이에서 \"디재 실험(ET@T)\"이라는 구 미디어 기관을 통해 종이본, 광고, 구독료 없는 온라인 서술 프로젝트를 시작했다. 12년 후 이 플랫폼은 56개 주제 기획, 384편의 글, 31편의 팟캐스트, 10권의 《군도 데이터베이스》를 축적했다. 동시대 동종 \"종이 매체 모체 + 물리적 공간 없음 + 개인 편집장 주도\"라는 세 가지 조건을 모두 갖춘 중국어권 예술 비평 플랫폼 중 동시기에 생존한 사례는 존재하지 않는다. 이 플랫폼이 버틸 수 있었던 이유는 기관 모체가 기본 비용을 수용하고, 공적 부처 프로젝트가 단기간 내용을 보완하며, 편집자의 12년간의 노력이 나머지 간극을 메운다는 세 층위의 정교한 중첩된 \"quiet infrastructure\" 덕분이다.",
+        "category": "art",
+        "href": "/ko/art/no-mans-land-art-platform",
+        "date": "2026-10-19T12:33:25+09:00",
+        "readingTime": null,
+        "image": "/article-images/art/nml-trial-issue-hero-2011.webp"
       },
       {
         "title": "위우잉 국가예술문화센터: 담장 없는 극장으로 변신한 군사 기지",
@@ -899,198 +1088,63 @@
         "date": "2026-10-10T23:46:19+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "어항은 출항지일 뿐: 대만 어업은 어떻게 시험선, 어시장, 그리고 기술 인력들에 의해 재구성되었는가",
-        "desc": "일제 식민지 시대의 수산 시험과 린하이완호, 바더즈이와 가오슝 어시장, 전후 기술 인력, 미원 원조의 원양 어업, 그리고 둥스이 어촌을 따라, 대만 어업이 항구, 냉장, 교육, 자금, 그리고 지역 생활 사이에서 어떻게 변형되었는지 추적한다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-fishery-origins",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "타이완과 북한: 제4위 수출국에서 그림자 함대로의 회색 충돌",
-        "desc": "타이완은 과거 북한의 제4위 수출국이었으며, 평양 사무실에는 Acer 컴퓨터와 화성위욕(和成衛浴) 제품이 널리 사용되었다. 이 뜨거운 무역에서 전면 제재로 이어진 역사는 비밀 농업 원조, 해상 밀수, 그리고 국가 안보 정보 간의 심층적인 각력을 교차한다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-north-korea-relations",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "타이완 의회 설치 청원 운동: 한 장의 청원서, 14년 동안 자치를 공적 생활로 들여오다",
-        "desc": "1921년부터 1934년까지 린셴탕 등 15회에 걸쳐 총독부의 식민 통치를 도전한 청원 운동은 타이완 의회를 얻지 못했으나, 법리, 신문, 조직을 타이완인이 자치를 쟁취하는 공적 기술로 변모시켰다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-parliament-petition-movement",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "10대 건설: 10억 달러 외환보유액 위에서의 2000억 위대한 도박",
-        "desc": "1973년 대만의 외환보유액은 10억 달러에 불과했으나, 장징궈는 10대 건설 추진을 위해 약 3000억 위안(대만 달러)을 투입하겠다고 선언했다. 이는 석유 위기와 외교적 고립에 대응하는 경제적 전환일 뿐만 아니라, 일제강점기 유산으로 남은 청사진을 재포장하여 국가 정체성으로 전환한 정치적 서사이다.",
-        "category": "history",
-        "href": "/ko/history/ten-major-construction-projects",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "미원: 한 봉지의 밀가루가 어떻게 발전 제도로 변모했는가",
-        "desc": "1951년부터 1965년까지의 미원은 달러, 군수품, 식량뿐만 아니라 자본, 기술, 교육, 냉전 안보 체계를 대만의 전후 경제에 접목시켰다. 한국전쟁 이후 7함대의 대만 해협 진입에서 윤중용의 산업 선택, 480호 공법物资 배분, 과학 교육 및 행정 기구에 이르기까지, 미원은 지역과 관료에 의해 어떻게 재해석되었는가? 이는 전후 재건을 지원한 동시에 의존, 감독, 자주성 사이의 논쟁을 남겼다.",
-        "category": "history",
-        "href": "/ko/history/us-aid-to-taiwan",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "바나나 백화: 한 문장의 음절에 숨겨진 남부 대만의 기억",
-        "desc": "1930년 전후, 첸이후이룬은 대만어와 쵸우자이 바이화(바나나 백화)의 대조 녹음을 한 장의 레코드에 담았습니다. 2014년 사중시(四重溪)의 고령자들도 여전히 이를 사용하여 속삭였습니다. 바나나 백화는 글을 더 간단하게 쓰는 것이 아니라, 남부 대만의 서로 다른 부족들이 대만어와 다우완어(대무곤어)를 외부인이 이해하지 못하도록 변형하여 자신들만 알아듣는 방식으로 만든 언어 실천입니다. 그 진정한 기원은 여전히 항일 전설, 마을 간 교류, 그리고 장로의 기억 사이에서 막혀 있습니다.",
-        "category": "culture",
-        "href": "/ko/culture/banana-baihua-secret-speech",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "원주민 성명: 친명에서 '두'·'바람'까지, 이름이 관계如何를 기록하는 방식",
-        "desc": "원주민 성명은 개인명만으로 구성되지 않으며, 친명·씨족명·가옥명 및 생명 단계에 따라 연결될 수 있다. 사이샤족의 '두'·'바람' 등 희귀한 한성(漢姓)은氏族名이 한식 호적에 편입된 후의 역사, 역사적 등록, 가족 기억이 교차한 지점을 보존한다.",
-        "category": "culture",
-        "href": "/ko/culture/indigenous-naming-taiwan",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "루카이족 백합: 한 송이의 꽃은 장식이 아니라 부족이 부여하는 신분",
-        "desc": "핑둥 위타이에서 백합은 누구나佩戴할 수 있는 흰 꽃이 아니었다. 남성은 사냥으로 용사의 자격을 얻어야 했고, 여성은 덕목, 결혼 또는 백합 서명 의식을 통해佩戴권을 얻었다. 귀족의 서명, 기장과 돼지고기의 선물 교환, 그리고 7개 부족의 재해석 의식을 통해 이 꽃이 진정으로 보존하는 것은 순결이 아니라 부족에게 보일 자격이 있는 사람이다.",
-        "category": "culture",
-        "href": "/ko/culture/rukai-lily",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "鄒族戰祭 Mayasvi：庫巴的火, 전쟁을 되돌려 놓지 않다",
-        "desc": "매년 아리산 다방과 테푸야 사이에서, 쯔오족은 Mayasvi를 통해 신을 맞이하고 노래하며 제례관을 돌며 전쟁의 기억을 부족 공동체의 질서로 전환한다. 전제(戰祭)는 산간 지역의 관광 프로그램이 아니다: 진정한 핵심은 kuba에 있으며, 이는 여전히 족인들이 유지·사용하고 출입 방식을 규정하는 회소이다.",
-        "category": "culture",
-        "href": "/ko/culture/tsou-mayasvi-festival",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "염수 봉포: 한 포성 도시, 어떻게 역병의 기억을 염수 거리 위에 남겼는가",
-        "desc": "염수 봉포는 단순한 원소절 밤의 불꽃놀이 기적이 아니라, 관제 신앙, 포성 공예, 지역 협력 및 공공 안전이 함께 지탱하는 대만의 민속이다.",
-        "category": "culture",
-        "href": "/ko/culture/yanshui-beehive-fireworks",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "叭噗 아이스크림: 호루라기 소리가 먼저 골목에 도착하고, 얼음 통이 그 뒤를 따른다",
-        "desc": "1947년, 신주 현 쑹린의 판양카이(范揚開)는 하교 후 약 2.5kg의 얼음 통을 등에 업고 얼음을 팔았다. 1950~1970년대, 자전거 노점상은 고무 풍선 호루라기를 이용해 얼음을 골목 안으로 보냈다. 항구에서의 제빙, 전분 특유의 쫄깃한 식감, 아이들이 감당해야 하는 녹는 얼음의 위험까지. '바푸(叭噗)'가 보존한 것은 삼색의 외관이 아니라, 소리와 기구, 노동을 통해 음식이 사람과 만나는 방식이다.",
-        "category": "food",
-        "href": "/ko/food/ba-pu-ice-cream",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "비어류: 한 마리의 물고수가 란위족의 달력, 식탁, 그리고 금기를 규정하다",
-        "desc": "다위트족의 비어류 제례는 약 11개의 제사와 3가지 금기 체계를 포괄한다: 언제 포획할 수 있는지, 누가 먹을 수 있는지, 어떻게 조리해야 하는지, 언제 섭취를 중단해야 하는지는 모두 한 마리의 물고수가 결정한다.",
-        "category": "food",
-        "href": "/ko/food/flying-fish-tao-people",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "뢰차: 한 그릇의 단차, 어떻게 전후 이민자들의 식문화를 북포의 지역 명함으로 만들었는가",
-        "desc": "1999년 3월, 북포 노점 상가 한 곳의 전문점이 가정에서 비밀리에 전해오던 뤄차를 거리로 꺼내놓았다. 허포 이민자들이 가져온 짠맛의 차탕에서 땅콩과 참깨, 현미로 만든 단음료로, 그리고 타오위안과 해외의 다양한 버전으로, 뤄차는 고법이 그대로 보존된 것이 아니라 이민, 정책, 취향, 관광과 수많은 뤄방(절구채)이 함께 쓴 결과물이다.",
-        "category": "food",
-        "href": "/ko/food/lei-cha-pounded-tea",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "보도 금지 해금: 31개 신문이 있는 섬이 어떻게 하룻밤 사이에 시장으로 이관되었는가",
-        "desc": "1951년 이후 대만의 신문 수는 장기적으로 31개로 제한되었다. 1988년 1월 1일 보도 금지가 해금되며, 신문은 허가제에서 신고제로 전환되었고, 면수, 인쇄 장소 및 가격이 동일한 금지 체계에 의해 묶이지 않게 되었다. 이는 단순한 자유의 이야기가 아니다. 정치적 통제가 퇴장한 후 시장 집중, 프로모션 전쟁, 뉴스 노동 및 미디어 책임이 즉시 인수했기 때문이다. 이 전환이 남긴 문제는 인터넷 시대에 여전히 메아리치고 있다.",
-        "category": "technology",
-        "href": "/ko/technology/lifting-of-press-ban",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "타이완 백돌고래: 법정 서식지가 생겼어도, 진정한 안전 해역은 여전히 없다",
-        "desc": "2020년 타이완 서안 백돌고래가 비로소 763제곱킬로미터의 법정 중요 서식지를 확보했으나, 어구, 항만, 오염 및 수중 소음은 여전히 같은 얕은 바다에서 경쟁하고 있다.",
-        "category": "nature",
-        "href": "/ko/nature/taiwanese-white-dolphin",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "진싱훙: 영징에서 베를린으로 도망쳤지만 고향에게 끊임없이 쫓기는 작가",
-        "desc": "그는 20년간 차오화현 영징을 피했지만, 베를린과 세계의 거리 속에서 가족, 성별, 신체, 그리고 사라지지 않는 고향을 다시 써 내려갔다.",
-        "category": "people",
-        "href": "/ko/people/chen-ssu-hung-writer",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "정원치: 타이완 미술계를 말레이 군도로 이끈 12년",
-        "desc": "2017년 5월, 말레이시아 예술가 저우잉전(周盈貞)이 타이베이에 도착해 《디지털 황무지》의 첫 번째 레지던시 예술가가 되었다. 이 순간은 정원치가 2011년 《디지털 황무지》를 창간한 지 12년 만에 56호, 384편의 글, 10권의 《군도 아카이브》를 축적한 과정의 축소판이다. 그는 '동남아시아' 대신 '군도'라는 개념을 사용하여 타이완 미술계를 말레이 세계로 확장했으나, 변방의 시점에서 한계에 부딪혔다.",
-        "category": "people",
-        "href": "/ko/people/cheng-wen-chi",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "쭈쭈슈(啾啾鞋): 가장 인기 있는 번역 영상을 삭제하고서야 비로소 나만의 지식 크리에이터가 되었다",
-        "desc": "2013년, 중산대학 기숙사에서 셰런제(謝任杰)는 외국 밈을 번역하는 것으로 시작해, 결국 가장 많은 트래픽을 가져다준 구작들을 삭제하고 자신의 채널을 구축하는 법을 다시 배웠다. 그는 화학적 훈련, 문헌 읽기, 스크립트 설계 및 타이중의 생활 조건을 점진적으로 장기적으로 운영 가능한 대만의 지식 창작 방식으로 정리했다.",
-        "category": "people",
-        "href": "/ko/people/chiuchiu-shoes-youtuber",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "타이완을 세계가 이해할 수 있는 프로그램으로: 외국인 시선에서 시작된 쿠큠의 꿈",
-        "desc": "2017년 대만 복귀, 2018년 전업 크리에이터로 전환한 프랑스인 쿠큠(Ku)은 대만의 음식과 중국어 장벽을 넘어서 《중국어 몬스터》를 제작했다. 100명의 외국인 참가자와 500만 위안(약 2,200만 대만 달러)의 제작비로 구성된 이 프로그램은 문화 간 관찰을 대만의 콘텐츠 제작 방식과 사회적 책임으로 승화시켰다.",
-        "category": "people",
-        "href": "/ko/people/kuedumeng",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "루제: 회피되었던 2·28 사건 질문에서 28개의 타이완 역사 강의로",
-        "desc": "해산물 가게 면담에서 보충수업 강단으로, 루제는 이야기로 정교 과정을 추진하지만 학생들에게 사료와 역사적 사실, 역사관을 되돌아가게 요구한다.",
-        "category": "people",
-        "href": "/ko/people/lu-chieh-history-teacher",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "모나 루다오: 20대만달러 주화에 새겨진 항일 영웅, 그리고 중국도 일본도 없는 세계",
-        "desc": "2001년, 대만 중앙은행은 항일 영웅 모나 루다오의 얼굴을 20대만달러 주화에 새겼다. 그러나 조폐창에서 국내 사료를 샅샅이 뒤져도 그의 사진을 찾지 못했고, 결국 한 일본어 잡지에서 찾아냈다. 1930년 무사 운동회 그날 새벽부터, 약 40년간 인류학 표본으로 쓰였던 한 구의 유해에 이르기까지, 세 정권이 각기 그를 필요로 했다. 그리고 그가 진정으로 지키고자 했던, 무지개 다리·문면·가야가 있는 세계에는 애초에 중국도 일본도 없었다.",
-        "category": "people",
-        "href": "/ko/people/mona-rudao",
-        "date": "2026-10-10T23:46:19+08:00",
-        "readingTime": 20,
-        "image": "/article-images/people/mona-rudao-seediq-leaders-1931.webp"
       }
     ],
     "es": [
+      {
+        "title": "Lin Yu-ting: del equipo de boxeo de la secundaria Yingge al oro olímpico de París",
+        "desc": "En agosto de 2024, Lin Yu-ting derrotó a la boxeadora polaca 5-0 en la final de los 57 kg femeninos de los Juegos Olímpicos de París, consiguiendo la primera medalla de oro olímpica en boxeo para Taiwán. Este artículo recopila su trayectoria desde el equipo de boxeo de la secundaria Yingge, su derrota en los Juegos Olímpicos de Tokio, la revocación de su medalla de bronce en el Campeonato Mundial de 2023 y la controversia de género durante los Juegos Olímpicos de París, así como su puesto docente, premios y novedades competitivas de 2026 tras ganar el oro, cada afirmación con su fuente.",
+        "category": "people",
+        "href": "/es/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: con una tienda de dumplings, sostuvo cuarenta años de revolución taiwanesa",
+        "desc": "Su Beng, nombre real Shi Chao-hui, trabajó en China para la inteligencia clandestina del PCCh, pero se desilusionó tras presenciar las masacres de la reforma agraria; de vuelta en Taiwán conspiró para asesinar a Chiang Kai-shek, fracasó y huyó a Japón. En Tokio, en Ikebukuro, abrió un restaurante de fideos llamado \"Shin Chinmi\", vendía dumplings de día y escribía la historia de Taiwán de noche; con sus ganancias financió cuarenta años de movimiento independentista y escribió la obra que despertó la conciencia nacional taiwanesa: \"Historia de cuatrocientos años del pueblo taiwanés\".",
+        "category": "people",
+        "href": "/es/people/su-beng",
+        "date": "2026-10-22T08:48:55+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "Shi Zhen-rong: Del puesto de huevos de Lukang a una marca llamada Taiwán",
+        "desc": "En una feria electrónica en San Francisco en 1981, una pequeña computadora con carcasa de plástico que al cerrarse parecía un libro hizo que 20 distribuidores estadounidenses rodearan el producto para preguntar por los derechos de distribución: fue la primera vez que muchos taiwaneses tocaron una \"computadora fabricada por Taiwán\". El hombre detrás de esta máquina, cuyo padre falleció por agotamiento cuando él tenía tres años y cuya madre lo crió vendiendo huevos de pato y boletos de lotería patrióticos, llevó a Acer a convertirse en una de las cinco principales marcas de PC en el mundo. Él trazó la \"curva de sonrisa\" que hoy se enseña en los libros de texto y es uno de los pocos \"padres tecnológicos\" de Taiwán dispuestos a pararse ante la cámara para hablar de sus fracasos.",
+        "category": "people",
+        "href": "/es/people/stan-shih",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/stanshih-taipei-2014.webp"
+      },
+      {
+        "title": "Empresas de Taiwán: TSMC",
+        "desc": "Morris Chang, quien dejó Texas Instruments a los 54 años y fundó TSMC a los 56, sobrevivió a tres crisis y vivió en seis ciudades durante sus primeros dieciocho años. El 3 de marzo de 2025, el presidente estadounidense Donald Trump señaló al sucesor de Chang, Wei Zhe-jia, en la Casa Blanca y dijo: «Él es el hombre más importante en esta sala». En el primer trimestre de 2026, los ingresos de TSMC alcanzaron los 35.900 millones de dólares. En una isla con tifones frecuentes y escasez de agua y electricidad, se ha construido el corazón de la civilización digital humana; pero cuanto más grande es este corazón, menos claro resulta si la isla podrá soportar su coste.",
+        "category": "economy",
+        "href": "/es/economy/tsmc",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "Rayark Games: Un imperio musical fundado en la estética y sus grietas tras catorce años",
+        "desc": "En 2012, seis jóvenes de la Facultad de Informática de la Universidad Nacional de Taiwán reunieron 30 millones para crear Cytus, que alcanzó el primer puesto en las listas de 14 países en un mes. Catorce años después, cuentan con la animación de Deemo, una promesa de animación de Project Sekai incumplida durante once años, Sdorica entrando en modo de mantenimiento en febrero de 2026, y la decisión tras el incidente del código Morse de ICE en 2020 de recortar personal para proteger el mercado chino. La estética hizo que Rayark fuera vista por el mundo, pero también causó sus tropiezos en cada ámbito ajeno a la música.",
+        "category": "technology",
+        "href": "/es/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: De hija de presidente perseguida por medios a la Dra. Chen en una clínica de Tainan",
+        "desc": "De ser perseguida por medios en Nueva York en 2009 a abrir una clínica dental en Tainan en 2016, ¿cómo logró Chen Hsing-yu recuperar su vida profesional bajo la atenta mirada de una familia política?",
+        "category": "people",
+        "href": "/es/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Moriyama Matsunosuke: Tres edificios de gobernación y un tribunal que dieron rostro oficial a Taiwán",
         "desc": "En 1906, un graduado de la Universidad Imperial de Tokio, originario de una familia distinguida de Osaka, llegó a Taiwán como contratista y diseñó el primer edificio completamente de hormigón armado de todo el Imperio japonés. Durante los quince años siguientes, Moriyama Matsunosuke completó sucesivamente los edificios de gobernación de Taipéi, Taichung y Tainan, el tribunal de Tainan, la Oficina de Monopolios, el Ministerio de Ferrocarriles y el Palacio del Gobernador General de Taiwán. Su manejo de terrenos asimétricos, órdenes arquitectónicos complejos y circulaciones duales dotó de forma concreta al poder del gobierno colonial, dejando hoy tres edificios de ladrillo rojo que albergan la Comisión de Control, el Edificio de Gobernación de Taichung y el Museo Nacional de Literatura de Taiwán.",
@@ -1306,63 +1360,117 @@
         "date": "2026-10-10T23:40:32+08:00",
         "readingTime": null,
         "image": "/article-images/economy/tsmc-fab21-arizona-2023.webp"
-      },
-      {
-        "title": "Facebook: de la fiebre del \"robo de cosechas\" a la doble cara de la democracia digital, la coordenada azul que define veinte años de redes sociales en Taiwán",
-        "desc": "En 2009, \"Granja Feliz\" desató la fiebre del \"robo de cosechas\" en Taiwán; en 2014 se convirtió en el nervio de movilización del Movimiento del Girasol. Facebook en Taiwán ha recorrido dos identidades: \"infraestructura\" y \"campo de batalla cognitivo\"; la controversia de censura de 2025 le añadió otro título: punto de partida de los \"refugiados de FB\".",
-        "category": "technology",
-        "href": "/es/technology/facebook-in-taiwan",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "BIM y tecnología de construcción en Taiwán: La adaptación caso por caso de doce años del gobierno, reescrita por un protocolo de dieciocho meses",
-        "desc": "El 23 de mayo de 2014, la Comisión de Obras Públicas del Consejo Ejecutivo Yuan instaló la «Plataforma de Promoción del Uso de BIM en Obras Públicas», adoptando la directiva de ocho caracteres «adaptación caso por caso y avance gradual». Once años y siete meses después, un desarrollador taiwanés que trabajaba en Tokio subió a GitHub el repositorio llamado REVIT_MCP_study, obteniendo más de setenta estrellas y más de ochenta bifurcaciones (forks). Durante esos doce años, la industria de la construcción en Taiwán recorrió un largo camino desde los planos dibujados a mano hasta los modelos 3D, desde los intentos individuales hasta las normas nacionales, y desde la actualización de herramientas hasta la redefinición de las profesiones.",
-        "category": "technology",
-        "href": "/es/technology/taiwan-bim-construction-tech",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 22,
-        "image": "/article-images/technology/freecad-bim-example-2024.webp"
-      },
-      {
-        "title": "La electricidad y los semiconductores en Taiwán: la factura eléctrica de la montaña sagrada que protege al país",
-        "desc": "La baza internacional de los semiconductores taiwaneses se apoya en un sistema eléctrico muy concreto. Las fábricas de obleas de vanguardia, la litografía EUV, el empaquetado avanzado, las pruebas de servidores de IA y los centros de datos necesitan un suministro estable, con pocas interrupciones y capaz de crecer. Este texto no convierte el consumo eléctrico de los semiconductores en una simple denuncia ecologista, sino que lo devuelve al pulso de la cadena de suministro: el mundo necesita que Taiwán fabrique los chips de IA, y Taiwán también debe responder a quién asume el coste eléctrico, la presión de las emisiones y el riesgo para la seguridad energética.",
-        "category": "technology",
-        "href": "/es/technology/taiwan-electricity-and-semiconductors",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": null,
-        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
-      },
-      {
-        "title": "La IA entra en el aula: Trescientas agencias y los profesores solos después de la capacitación",
-        "desc": "En 2026, Xu Tai-ping puso trescientas agencias de IA diseñadas por unas ochenta docentes en un gran mercado compartido. Dos encuestas taiwanesas muestran que mientras el nueve décimo de los maestros ha tenido contacto con la IA, el 95.6% aún siente la necesidad de aprender. Desde talleres cortos de tres horas en escuelas primarias y pruebas 'cliente' en secundaria de Neihu, hasta el plan 'Arca del Talento' del Ministerio de Educación, este artículo se pregunta: las herramientas ya están en las aulas, ¿quién recibirá a los profesores al volver? Este es un proyecto educativo más difícil después de la popularización de la herramienta.",
-        "category": "technology",
-        "href": "/es/technology/taiwan-teachers-and-ai-education",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
-      },
-      {
-        "title": "La Espada Yitian del Río Daan: el árbol más alto de Asia Oriental, oculto durante 700 años en un lugar inaccesible para nosotros",
-        "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de los Buscadores de Árboles remontó el río durante siete días, en un profundo valle en la cabecera del Río Daan al que casi nadie puede llegar, y bajó una cinta métrica desde la copa de un ciprés de Taiwán — 84,1 metros, el árbol más alto de Asia Oriental. Superó en 4,6 metros la predicción del LiDAR. Una isla azotada cada año por tifones, propensa a deslizamientos e inundaciones, no debería albergar una vida de tal altura; pero precisamente porque crece en un valle fluvial inaccesible para los humanos, logró escapar de la tala masiva y sobrevivir 700 años. Esa misma 'inaccesibilidad' tanto le permitió vivir como nos obligó a escanear toda la isla con láser para verla por primera vez este año.",
-        "category": "nature",
-        "href": "/es/nature/daan-river-yitian-sword",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 15,
-        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
-      },
-      {
-        "title": "Bobby Chen: de Changhua al primer álbum en 1988, treinta años de Nochevieja como tarjeta de presentación",
-        "desc": "Nacido el 29 de octubre de 1958 en el municipio de Xizhou, condado de Changhua, Bobby Chen es el cantautor de música independiente más singular de Taiwán. En 1988 lanzó su primer álbum en solitario, *Paradise Crowded*, y desde 1994 ha celebrado conciertos de Nochevieja de forma ininterrumpida, convirtiéndose en el ritual anual de la última noche del año en la escena musical taiwanesa. Tras una cirugía por cáncer oral en 2020, regresó al escenario; en 2025, su 31.º concierto de Nochevieja, \"Gran Ola\", volvió a celebrarse.",
-        "category": "people",
-        "href": "/es/people/bobby-chen-indie-music-pioneer",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 7,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Lin Yu-ting : de l'équipe de boxe du collège de Yingge à la médaille d'or olympique de Paris",
+        "desc": "En août 2024, Lin Yu-ting a remporté la médaille d'or olympique dans la catégorie des 57 kg féminins à Paris en battant une athlète polonaise 5 à 0, offrant ainsi à Taïwan sa première médaille d'or olympique en boxe. Cet article retrace son parcours, depuis ses débuts dans l'équipe de boxe du collège de Yingge, sa défaite aux Jeux olympiques de Tokyo, l'annulation de sa médaille de bronze aux Championnats du monde 2023 et la controverse sur le genre lors des JO de Paris, ainsi que ses activités d'enseignement, ses récompenses après sa victoire et ses actualités sportives pour 2026. Chaque affirmation est accompagnée de sa source.",
+        "category": "people",
+        "href": "/fr/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Brigitte Lin (Lin Ching-hsia)",
+        "desc": "Née en 1954 et ayant grandi dans un village de militaires, elle fut découverte par le chasseur de têtes Yang Qi à Ximending en 1972. Choisie pour le rôle principal de *Fenêtre sur l'extérieur* adapté de l'œuvre de Qiong Yao, elle devint la déesse de l'ère des films de Qiong Yao grâce à sa pureté. Elle forma avec Qin Han et Qin Xianglin un couple d'écran légendaire qui passionna le monde chinois, ses coiffures et ses vêtements devenant des références de mode. En 1992, elle marqua l'histoire du cinéma de *wuxia* avec son rôle iconique de Dongfang Bubai vêtue de rouge, traversant ainsi deux époques : celle du film d'auteur et celle du film d'arts martiaux.",
+        "category": "people",
+        "href": "/fr/people/brigitte-lin-legendary-actress",
+        "date": "2026-10-23T00:48:55+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "La guerre du camphre au XIXe siècle : le parfum dont le monde avait besoin se cachait dans les montagnes autochtones",
+        "desc": "En 1864, Swinton écrivit trois chiffres à Tamsui : 6, 16, 28. Une charge de camphre, du lieu de production jusqu'à Hong Kong, voyait son prix multiplié par près de cinq. La différence résidait dans la poche du Dao-tai — et dans les montagnes des peuples autochtones.",
+        "category": "history",
+        "href": "/fr/history/19th-century-camphor-wars",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Prime Time : une allumette, le culte et la nostalgie des salons taïwanais",
+        "desc": "Des mélodrames de Qiong Yao des années 1990 aux mèmes \"Pili-huo\" des années 2000, les feuilletons de 20h ne sont pas seulement un bruit de fond à Taïwan, mais un miracle industriel de production en direct synchronisé avec la réalité.",
+        "category": "culture",
+        "href": "/fr/culture/taiwan-prime-time-drama",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Prévoir la pluie, mais pas le destin : quatre cents ans de Taïwan et des typhons",
+        "desc": "Le matin du 8 août 2009, lorsque le mont Hiendu (獻肚山) s'est effondré, emportant 462 personnes à Xiaolin Village. Quinze ans plus tard, Taïwan a réduit l'erreur de trajectoire des typhons de 172 km en 2000 à 57 km en 2025 grâce à six modèles d'IA. Mais dans ces 57 km, qui est sorti au travail sous la pluie ? Qui n'a pas reçu de notification ? C'est ce que l'on ne peut pas prédire.",
+        "category": "nature",
+        "href": "/fr/nature/typhoons-in-taiwan",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 13,
+        "image": "/article-images/nature/morakot-modis-satellite-2009.webp"
+      },
+      {
+        "title": "André Chiang : Il n'attend jamais qu'une chose soit définie pour se tourner vers la suivante",
+        "desc": "En 1997, un chef de cuisine français d'une vingtaine d'années au Grand Hôtel de Taipei invitait deux chefs étoilés à venir en Taïwan pour dix jours avant de s'envoler pour la France. Des pommes de terre émincées dans le sud de la France aux sommets mondiaux à Singapour, jusqu'à l'ouverture du complexe RAW à Taipei — chaque fois que son titre était sur le point d'être figé par une définition, André Chiang éteignait les lumières pour se poser la question suivante : qu'est-ce que la « saveur de Taïwan » ?",
+        "category": "people",
+        "href": "/fr/people/andre-chiang-taiwanese-culinary-innovator",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/andre-chiang-archi-2025.webp"
+      },
+      {
+        "title": "Ji Lin-lien : de général de l'ère Chen Shui-bian à vice-président réclamant l'exclusion de Han Kuo-yu",
+        "desc": "Après-midi du 29 avril 2026, réunion du Comité central du KMT. Le vice-président Ji Lin-lien, 78 ans, déclare devant les médias : « Même si vous me tuiez, je ne croirais pas que le frère Kuo-yu trahirait le parti pour sa propre gloire ; si cela arrivait, la section Huang Fu-hsing n'hésiterait pas à agir par devoir et suggérerait son exclusion. » Cette phrase a poussé Chen Shui-bian à déplorer : « Je ne savais pas qu'il avait tant changé », car c'est lui qui l'avait promu au rang de général de deuxième classe il y a 20 ans.",
+        "category": "people",
+        "href": "/fr/people/ji-lin-lian",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "L'expansion et le retrait de l'enseignement supérieur à Taïwan : de 58 à 148 universités, avant le début des fermetures",
+        "desc": "En 1994, la manifestation du 10 avril réclamait une expansion des universités. En moins de vingt ans, les établissements sont passés de 58 à 148, portant le taux net de scolarisation à plus de 70 %. Puis, le mur de la dénatalité est arrivé : le nombre d'étudiants a plafonné en 2012, mais la loi sur le retrait ne fut légiférée qu'en 2022. Les établissements de Gaofeng, Yongda et Daojiang ont successivement fermé leurs portes ; près d'un tiers des étudiants de Yongda n'ont pas pu obtenir leur diplôme, et le taux de reconversion réussi des enseignants est de seulement 14 %. C'est une expérience conçue uniquement pour l'ouverture — les règles de fermeture sont arrivées avec dix ans de retard, les bénéfices furent réels mais dispersés, et la facture incombe à ceux qui ont le moins de choix.",
+        "category": "society",
+        "href": "/fr/society/taiwan-higher-education-expansion-and-decline",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 20,
+        "image": "/article-images/society/yungta-gate-2013.webp"
+      },
+      {
+        "title": "Entreprises taïwanaises : TSMC",
+        "desc": "À 54 ans, Morris Chang quitte Texas Instruments ; à 56 ans, il fonde TSMC. Après avoir survécu à trois exils et vécu dans six villes durant ses dix-huit premières années, son parcours est hors norme. Le 3 mars 2025, Donald Trump, à la Maison Blanche, désignait l'héritier de Morris Chang, Wei Jھی-jia, comme « l'homme le plus important de cette pièce ». En premier trimestre 2026, le chiffre d'affaires de TSMC atteint 35,9 milliards de\\\\USD. Sur une île frappée par les typhons et les pénuries d'eau et d'électricité, s'est construit le cœur de la civilisation numérique mondiale — mais plus ce cœur grandit, plus l'incertitude plane sur la capacité de l'île à en assumer le coût.",
+        "category": "economy",
+        "href": "/fr/economy/tsmc",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "Rayark : un empire musical bâti sur l'esthétique, et ses quatorze ans de failles",
+        "desc": "En 2012, six jeunes diplômés de la Faculté d'ingénierie électrique et informatique de l'Université nationale de Taïwan ont réuni NT$30 millions pour créer «Cytus», qui a atteint la première place des classements dans 14 pays en un mois. Quatorze ans plus tard, ils ont produit l'animation Deemo, l'animation Implosion non livrée après onze ans, Sdorica entrant en mode maintenance en février 2026, et le choix de 2020 après l'incident du code Morse ICE de sacrifier des employés pour préserver le marché chinois. L'esthétique a fait connaître Rayark au monde, mais l'a aussi fait trébucher dans chaque domaine non musical.",
+        "category": "technology",
+        "href": "/fr/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu : De la fille du président interrogée par les médias à la Dr Chen dans sa clinique de Tainan",
+        "desc": "De ses poursuites médiatiques à New York en 2009 à l'ouverture de sa clinique dentaire à Tainan en 2016, comment Chen Hsing-yu a-t-elle ramené sa vie vers sa profession dentaire sous le regard de sa famille politique ?",
+        "category": "people",
+        "href": "/fr/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng : comment un restaurant de raviolis a financé quarante ans de révolution taïwanaise",
+        "desc": "Su Beng, de son vrai nom Shi Chao-hui, a travaillé pour le PCC en Chine avant de se désillusionner face aux massacres de la réforme agraire, a tenté d'assassiner Chiang Kai-shek à son retour à Taïwan, puis s'est enfui au Japon où il a ouvert le restaurant « Shin-Chen-Wei » à Tokyo, utilisant ses revenus pour financer le mouvement indépendantiste pendant quarante ans et écrire « L'Histoire de Taïwan sur quatre cents ans ».",
+        "category": "people",
+        "href": "/fr/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "Moriyama Matsunosuke : trois préfectures et un tribunal pour donner un visage officiel à Taïwan",
         "desc": "En 1906, un diplômé de l'Université impériale de Tōkyō, issu d'une famille prestigieuse d'Osaka, arrive à Taïwan comme attaché et conçoit le premier bâtiment entièrement en béton armé de tout l'empire japonais. Au cours des quinze années suivantes, Moriyama Matsunosuke réalise successivement les préfectures de Taipei, Taichung et Tainan, le tribunal de Tainan, le Bureau du monopole, le ministère des Chemins de fer et le Palais du gouverneur général de Taïwan. Sa maîtrise du traitement des terrains asymétriques, des ordres composites et des circulations doubles donne une forme concrète au pouvoir du gouvernement colonial, et laisse aujourd'hui trois bâtiments en brique rouge : le siège de la Commission de contrôle, la préfecture de Taichung et le Musée national de la littérature taïwanaise.",
@@ -1382,12 +1490,12 @@
         "image": "/article-images/art/national-taichung-theater-2017.webp"
       },
       {
-        "title": "Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms",
-        "desc": "En 1987, un jeune Tsou de dix-neuf ans est exécuté dans une prison de Taipei. Sa mort allume la première flamme du mouvement pour la reconnaissance des noms.",
+        "title": "Histoire des peuples autochtones de Taïwan et mouvement pour la rectification de leur appellation",
+        "desc": "En 1987, le jeune Tsou de 19 ans, Tang Ying-shen, a été fusillé au champ de tir de Taipei ; sa mort a allumé la première étincelle du mouvement pour la rectification de l'appellation des peuples autochtones de Taïwan. De la création de l'Alliance pour les droits des autochtones en 1984, au renversement de la statue de Wu Feng et à la marche « Rendez-nous notre terre » en 1988, jusqu'à la modification constitutionnelle de 1994 remplaçant « compatriotes des montagnes » par « autochtones », et l'ajout du caractère « ethnie » dans la Loi fondamentale sur les peuples autochtones en 2005, ce chemin a pris 21 ans. Les « barbares civilisés » et « barbares sauvages » des Néerlandais, les « barbares familiers » et « barbares sauvages » des Qing, la « politique de gestion des barbares » des Japonais, les « compatriotes des montagnes » de l'après-guerre : chaque nom était un verrou ; les trois premiers ont été imposés par d'autres, les deux derniers ont été arrachés par eux-mêmes.",
         "category": "history",
         "href": "/fr/history/indigenous-peoples-history-and-naming-movement",
         "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
+        "readingTime": null,
         "image": ""
       },
       {
@@ -1427,8 +1535,8 @@
         "image": ""
       },
       {
-        "title": "Taïwan, haut lieu de la biodiversité",
-        "desc": "36 000 km² d'île abritant 59 000 espèces connues — une densité 100 fois supérieure à la moyenne mondiale",
+        "title": "Points chauds de la biodiversité à Taïwan",
+        "desc": "Sur ses 36 000 km², Taïwan abrite 59 000 espèces connues, soit une densité 100 fois supérieure à la moyenne mondiale, avec plus de 30 % d'espèces endémiques uniques au monde. Grâce à un « ascenseur climatique » vertical de 4 000 mètres, cette île reproduit la moitié des zones climatiques de la planète sur un territoire minuscule : le saumon de Taiwan (Coregonus taiwanensis), situé à la latitude la plus basse au monde, ne survit plus que dans la rivière Qichawan, tandis que l'habitat de la salamandre de Taïwan, entre 1 500 et 2 500 mètres d'altitude, est passé de 11 à 7 sites. On estime qu'il reste environ 200 à 600 ours noirs de Taïwan sur l'île, chacun nécessitant un espace vital de 30 à 40 km² ; quelle place peut-il rester pour la faune sauvage sur cette scène présentant la plus haute densité de vie au monde ?",
         "category": "geography",
         "href": "/fr/geography/taiwan-biodiversity-hotspots",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1524,117 +1632,54 @@
         "date": "2026-10-10T23:40:35+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Jiutian Xuannü : de conseillère militaire de l'Empereur Jaune à déesse tutélaire des jeunes troupes de temple à Taïwan",
-        "desc": "Un directeur de troupe de temple sans diplôme supérieur, humilié pendant des années par les évaluateurs du ministère de la Culture, a mis 11 ans à décrocher un doctorat — uniquement pour prouver qu'apprendre la batterie à des décrocheurs scolaires est bien un art. Derrière lui se tient une déesse qui enseignait l'art de la guerre il y a quatre mille ans.",
-        "category": "culture",
-        "href": "/fr/culture/jiutian-xuannu-belief",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Les emprunts linguistiques à Taïwan et le contact des langues",
-        "desc": "Du bento au \"shipin\" : l'histoire du contact linguistique d'une île, et comment Taïwan est devenu le laboratoire le plus réussi au monde pour l'intégration des mots empruntés",
-        "category": "culture",
-        "href": "/fr/culture/loanwords-and-language-contact-in-taiwan",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Plurk — Le microblog qui a survécu à l'ère des algorithmes",
-        "desc": "Lancée en 2008, la plateforme de microblog Plurk a tenu bon face à la déferlante Facebook et Twitter grâce à sa timeline horizontale en « rivière » et à une diffusion totalement dénuée d'algorithmes. Après le blocage de Google en 2016, elle s'est redressée grâce aux « Plurk Coins », un modèle d'abonnement payant soutenu par une communauté taïwanaise fidèle — une rivière qui coule selon ses propres règles, loin de toute manipulation algorithmique.",
-        "category": "culture",
-        "href": "/fr/culture/plurk-taiwan-microblog",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "L'évolution du mandarin à Taïwan — quatre siècles de stratigraphie linguistique",
-        "desc": "Combien de strates historiques se cachent dans un simple mot ? Suivez le voyage d'un terme à travers quatre siècles pour explorer les sédiments naturels du langage sur cette île.",
-        "category": "culture",
-        "href": "/fr/culture/taiwan-mandarin-evolution",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Le riz en tube de bambou : le bento du chasseur pariant contre le point d'inflammation dans le brasier",
-        "desc": "Le riz en tube de bambou n'est pas simplement une « cuisine de contenant », mais un pari précis entre l'eau et le feu. En exploitant la propriété physique de l'eau qui bout à 100 °C, le tube de bambou inflammable peut résister deux heures dans le brasier sans se réduire en cendres. Cette sagesse issue de la culture de la chasse est aujourd'hui devenue un emblème de l'art culinaire autochtone taïwanais.",
-        "category": "food",
-        "href": "/fr/food/bamboo-tube-rice",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Marcher sur le port comblé : cinq snacks de Tainan, district de Zhongxi",
-        "desc": "Sous les rues Guohua et Hai'an se trouvent les vestiges du lit des Cinq Ports de la dynastie Qing ; la soupe de bœuf, la bouillie de poisson tilapia, les nouilles sautées au congre et les vermicelles de verre au cœur de porc sont autant de fossiles de la logique de survie des ouvriers portuaires, laissée par quatre cents ans d'histoire.",
-        "category": "food",
-        "href": "/fr/food/tainan-central-west-district-street-food-culture",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Le poulet sel et poivre taïwanais (鹽酥雞)",
-        "desc": "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu.",
-        "category": "food",
-        "href": "/fr/food/taiwanese-popcorn-chicken-redux",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Les zongzi de Taïwan",
-        "desc": "Les zongzi de Taïwan ne sont pas un seul aliment, mais quatre mémoires d'îles superposées : Minnan, Hakka, waisheng et peuples autochtones — chaque bouchée est un fragment du chemin parcouru.",
-        "category": "food",
-        "href": "/fr/food/zongzi-rice-dumpling",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "La littérature taïwanaise après la levée de la loi martiale",
-        "desc": "Trente-huit ans de répression levés en une nuit, la création littéraire connaît un essor fulgurant — mais la liberté ne signifie pas l'absence de contraintes, de nouveaux défis se profilent.",
-        "category": "art",
-        "href": "/fr/art/post-martial-law-taiwanese-literature",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Architecture de Taïwan",
-        "desc": "Des maisons en pierre du peuple Paiwan aux bâtiments en briques rouges laissés par Matsunosuke Moriyama, des lignes de Wang Da-hong qui ont jeté les bases de l'architecture moderne aux édifices publics sans clôture construits par Huang Sheng-yuan au milieu des rizières d'Yilan. Au cours des quatre cents dernières années, la sagesse architecturale des autochtones, des Hollandais, des Japonais et des Chinois s'est entrechoquée sur cette île, une caractéristique hybride que la Biennale d'architecture de Venise a décrite comme « maintenir la localité dans la mondialisation ».",
-        "category": "art",
-        "href": "/fr/art/taiwanese-architecture",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Les commissaires d'exposition taïwanais et la construction culturelle artistique",
-        "desc": "Des premières expérimentations institutionnelles des années 1990 aux plateformes internationales d'aujourd'hui — comment les commissaires taïwanais ont-ils construit un discours artistique local dans le sillage de la mondialisation, et comment ont-ils trouvé leur voix dans le système des biennales ? Trente ans d'évolution entre identité culturelle et professionnalisation.",
-        "category": "art",
-        "href": "/fr/art/taiwanese-curators-and-artistic-cultural-construction",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Le théâtre et les arts de la scène à Taïwan",
-        "desc": "Comment un jeune littéraire de 26 ans a fondé la première compagnie de danse contemporaine du monde sinophone, et comment des acteurs de l'opéra de Pékin ont fait parler Shakespeare en chinois",
-        "category": "art",
-        "href": "/fr/art/taiwanese-theater-and-performing-arts",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "vi": [
+      {
+        "title": "Lin Yu-ting: Từ đội quyền anh trường trung học Yingge đến huy chương vàng Olympic Paris",
+        "desc": "Vào tháng 8 năm 2024, Lin Yu-ting đã đánh bại đối thủ người Ba Lan với tỷ số 5-0 trong trận tranh huy chương vàng hạng cân 57kg nữ tại Olympic Paris, mang về tấm huy chương vàng quyền anh đầu tiên cho Đài Loan tại Thế vận hội. Bài viết này tổng hợp hành trình của cô từ khi bắt đầu tại đội quyền anh trường trung học Yingge, thất bại tại Olympic Tokyo, việc bị tước huy chương đồng tại Giải vô địch thế giới 2023 và những tranh cãi về giới tính trong thời gian diễn ra Olympic Paris, cũng như các thông tin về công tác giảng dạy, giải thưởng sau khi giành vàng và tình hình thi đấu gần đây vào năm 2026; mọi thông tin đều có nguồn dẫn cụ thể.",
+        "category": "people",
+        "href": "/vi/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Rayark Games: Đế chế âm nhạc xây dựng trên nền tảng thẩm mỹ và những rạn nứt sau 14 năm",
+        "desc": "Năm 2012, sáu thanh niên từ khoa Điện tử và Công nghệ thông tin Đại học Quốc gia Đài Loan đã góp vốn 30 triệu Đài tệ để thực hiện Cytus, vươn lên vị trí số một trên bảng xếp hạng tại 14 quốc gia chỉ trong vòng một tháng. Mười bốn năm sau, họ có phim hoạt hình Deemo, dự án Polyphonic Sprawl trì trệ suốt 11 năm chưa bàn giao, Sdorica sẽ bước vào chế độ bảo trì vào tháng 2 năm 2026, và quyết định cắt giảm nhân viên sau sự cố mã Morse ICE năm 2020 để bảo vệ thị trường Trung Quốc. Chính thẩm mỹ đã giúp Rayark được thế giới biết đến, nhưng cũng khiến họ vấp ngã trong mọi lĩnh vực không liên quan đến âm nhạc.",
+        "category": "technology",
+        "href": "/vi/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: Từ cô nàng bị truy quanh, đến nơi khám nha khoa ở Đài Nam",
+        "desc": "Từ khi bị truy xuyên tại New York vào năm 2009, đến khi mở phòng khám nha khoa tại Đài Nam vào năm 2016, Chen Hsing-yu (陳幸妤) đã biến cuộc sống mình trở lại chuyên môn nha khoa dưới ánh nhìn của một gia đình chính trị?",
+        "category": "people",
+        "href": "/vi/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Sử Minh: Dùng một tiệm sủi cảo nuôi dưỡng cuộc cách mạng Đài Loan suốt bốn mươi năm",
+        "desc": "Sử Minh tên thật là Thi Triều Huy, từng làm tình báo cho Đảng Cộng sản Trung Quốc nhưng đã vỡ mộng sau khi chứng kiến các cuộc thảm sát cải cách ruộng đất, sau đó âm mưu ám sát Tưởng Giới Thạch và lưu vong sang Nhật Bản.",
+        "category": "people",
+        "href": "/vi/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "Bò đàn họa: Từ chiến thiệt tại chùa chiến đến vũ trụ giữa bàn tay của《Đường Lê Kiếm Du Ký》",
+        "desc": "Vào ngày 2 tháng 3 năm 1970, truyền hình công ty Huang Jun-hsiu của Shih Yen-wen khiến các nhà máy ở Đài Loan ngừng hoạt động, học sinh vắng lớp, đạt tỷ lệ xem trên toàn quốc lên tới 97%; sau bốn năm, chính phủ cấm phát vì lý do 'hạn chế người nông dân và công nhân làm việc bình thường'. Kiến trúc nghệ thuật này trên Đài Loan qua qua áp lực hoàng quốc, chiến tranh, và cuộc cách mạng thẻ VCD, cuối cùng mở ra thị trường hoạt hình toàn cầu thông qua《Đường Lê Kiếm Du Ký》.",
+        "category": "culture",
+        "href": "/vi/culture/taiwanese-glove-puppetry-budaixi",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Moriyama Matsunosuke: Dùng ba tòa nhà châu và một tòa Tòa án để vẽ nên khuôn mặt chính thức của Đài Loan",
         "desc": "Năm 1906, một cử nhân Đại học Đế quốc Tokyo xuất thân từ gia tộc Osaka đến Đài Loan làm cố vấn và thiết kế tòa nhà bê tông cốt thép đầu tiên toàn bộ Đế quốc Nhật Bản. Trong mười lăm năm tiếp theo, Moriyama Matsunosuke hoàn thành liên tiếp Tòa nhà châu Đài Bắc, Tòa nhà châu Đài Trung, Tòa nhà châu Đài Nam, Tòa án Đài Nam, Cục Chuyên bán, Bộ Đường sắt và Tổng Toàn quyền Đài Loan. Cách xử lý của ông đối với các nền móng không đối xứng, các cột phức hợp và hai dòng chuyển động đã cho phép quyền lực của chính quyền thuộc địa có hình dáng cụ thể, đồng thời để lại ba tòa nhà gạch đỏ ngày nay là nơi đặt Viện Kiểm sát, Tòa nhà châu Đài Trung và Thư viện Văn học Quốc gia Đài Loan.",
@@ -1859,54 +1904,90 @@
         "date": "2026-10-10T23:43:08+08:00",
         "readingTime": 16,
         "image": "/article-images/geography/dadaocheng-aerial-view-2010s.webp"
-      },
-      {
-        "title": "Đảo Quế Sơn: Hướng nhà mà người Nghi Lan nhìn mỗi ngày, nhưng những người trên đảo không thể quay về",
-        "desc": "Bà Hoàng Trần Dục đã chuyển từ Đảo Quế Sơn đến Đầu Thành cách đây hơn ba mươi năm, nhưng mỗi đêm bà vẫn nằm mơ về cuộc sống trên đảo. Với người dân Nghi Lan trên bờ, Đảo Quế Sơn là phong cảnh đầu tiên của Tám cảnh Lâm Dương, là địa chỉ \"sắp về nhà rồi\" khi vừa thoát khỏi hầm Tuyết Sơn; nhưng với những người thực sự sống trên đảo, nó là ngôi nhà đã bị mất trong một đợt di dân không có bồi thường năm 1970. Nhìn thấy nhưng không lên được; lên được nhưng không thể sống. Nhà văn Ngô Mẫn Hiển viết năm 1975 rằng nó là \"một hòn đảo sắp bị mọi người lãng quên\", nhưng nửa thế kỷ sau, nó không bị lãng quên—những gì được nhớ là cảnh vật và truyền thuyết, những gì bị lãng quên là những người sống trên đó.",
-        "category": "geography",
-        "href": "/vi/geography/gueishan-island",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/guishan-hero.webp"
-      },
-      {
-        "title": "Phố Cửu Lĩnh: Phố sách cũ do người Nhật để lại, tuổi thơ của Dương Đức Xương, và điện lâu của chính phủ",
-        "desc": "Chiều thứ bảy ở cuối ngõ 5 phố Cửu Lĩnh có học sinh xếp hàng trước nhà hát gạch đỏ. Năm 1922 con phố được gọi là phố Trao Khoảng không, năm 1947 được đổi tên Phố Cửu Lĩnh lấy tên từ Cửu Lĩnh Trấn ở Lư Sơn, tỉnh Giang Tây. Năm 1945 sau chiến tranh, người Nhật rút lui để lại sách được bán bên đường, trở thành phố sách cũ đầu tiên của Đài Loan, đạt cao điểm với hơn 200 quần hàng vào những năm 1960. Ngày 15 tháng 6 năm 1961 trên con phố này, Mao Vũ 16 tuổi dùng dao thiếu nhi giết Lưu Mẫn 15 tuổi. 30 năm sau đó Dương Đức Xương chuyển điều này thành bộ phim 237 phút.",
-        "category": "geography",
-        "href": "/vi/geography/guling-street",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 18,
-        "image": "/article-images/geography/guling-street-nanhai-academy-2024.webp"
-      },
-      {
-        "title": "Houtong: Khung hình giải cứu một thành phố núi, nuôi mập một nơi nhận nuôi mèo bỏ rơi; TNVR sửa chữa – là ý thiện có thể không bao giờ kết thúc",
-        "desc": "Năm 2009, nhiếp ảnh gia Jiǎn Pèi Líng (Mèo Phu Nhân) bước vào một thành phố núi trên tuyến Bình Khê (Hà Ninh) - nơi mà Mỏ Ruì Tam đã dừng sản xuất vào năm 1990 và bị bỏ lãng quên suốt 19 năm. Khung hình của cô đã biến Houtong thành một trong sáu điểm ngắm mèo hàng đầu thế giới mà CNN xếp hạng vào năm 2013. Nhưng danh hiệu \\\"Thiên đường cho những chú mèo\\\" đã nuôi nên nơi bỏ rơi mèo lớn nhất trên toàn Đài Loan – năm 2012 bệnh parvo bùng phát, năm 2013 có ít nhất 10 sự kiện ngược đãi mèo, năm 2022 một vụ bỏ rơi mèo bị phạt 110,000 Tệ. Năm 2014, Mèo Phu Nhân rút lui để lại câu nói \\\"Liên tục tiêu thụ mèo, tiêu thụ tôi, tiêu thụ Houtong\\\". Vào tháng 1 năm 2026, TNVR đã kiểm soát 200-300 chú mèo xuống chỉ còn hơn 30 chú, báo chí Mirror sử dụng khung \\\"tiêu diệt làng\\\". Nhưng cái biến mất không phải là làng mèo, mà là \\\"mô hình phát triển địa phương được hỗ trợ bởi một IP nhân vật nổi tiếng duy nhất\\\".",
-        "category": "geography",
-        "href": "/vi/geography/houtong-cat-village",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/houtong-keelung-river-2016.webp"
-      },
-      {
-        "title": "Tân Trúc: 235 năm tin tưởng nghĩa dân, và thu nhập bình quân đầu tiên toàn quốc, sống cùng một dòng sông Đầu Tiền",
-        "desc": "Mùa đông năm 1788, trên sườn núi ở Tân Phủ có một kỳ đài Bảo Trung được xây dựng để hợp tuyến hơn 200 linh cốt những nghĩa dân Khách Gia xấu số trong cuộc nổi dậy Lâm Sảng Văn. 235 năm sau, lễ tết Ngày Nghĩa Dân vào mùng 20 tháng bảy âm lịch vẫn còn được tổ chức hàng năm với sự tham gia của 15 liên zhuang. Cách đó 5 cây số, thành phố Trúc Bắc năm 2025 có thu nhập bình quân đầu tiên toàn quốc với 1.442 triệu yên, giành được vị trí số một trong 368 cộng đồng ở toàn quốc, thúc đẩy bởi nhà máy 2 nanomet thế hệ thứ hai của TSMC ở Bảo Sơn. 67.8% dân số Tân Trúc là người Khách Gia, cao nhất toàn quốc. Nhưng trong 22 vạn người sống tại Trúc Bắc, các thanh niên Khách Gia có khả năng mua được nhà ở quê hương của chính họ đang ngày càng ít đi.",
-        "category": "geography",
-        "href": "/vi/geography/hsinchu-county",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/hsinchu-county-hero.webp"
-      },
-      {
-        "title": "Hoa Liên: 129 năm che giấu, tái tên dân tộc Sakizaya, 0403 lại đẩy xa",
-        "desc": "Năm 1878, quân đội nhà Thanh tra tấn Komod Pazik (cử chỉ bộ lạc Dagokuhan của dân tộc Sakizaya) buộc vào cây trôm (cassia tree), dân tộc Sakizaya trốn lẫn trong dân tộc Amis trong 129 năm; năm 2004 dân tộc Taroko tách khỏi Atayal trở thành dân tộc thứ 12, năm 2007 chính phủ Trần Thủy Biển công nhận Sakizaya thành dân tộc thứ 13; sáng ngày 3 tháng 4 năm 2024, lúc 7 giờ 58 phút 9 giây, 98 giây động đất có độ lớn 7.1 phá hủy Khe Tân Chữ, Cửu Khúc Động, bước đường Đá Cát Khó trong Công viên Quốc gia Taroko, năm 2024 chỉ còn 210.000 du khách, năm bình thường có 6,6 triệu. Trên dải đất mỏng nhất giữa núi và biển chỉ 5 km, 6 dân tộc bản địa có số phận luôn rung lắc cùng mảng kiến tạo.",
-        "category": "geography",
-        "href": "/vi/geography/hualien-county",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": 18,
-        "image": "/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp"
       }
     ],
     "id": [
+      {
+        "title": "Lin Yu-ting: Dari Tim Tinju SMP Yingge ke Medali Emas Olimpiade Paris",
+        "desc": "Agustus 2024, Lin Yu-ting di final medali emas putri 57 kg Olimpiade Paris mengalahkan atlet Polandia dengan skor 5-0, meraih medali emas tinju Olimpiade pertama bagi Taiwan. Artikel ini merangkum perjalanannya dari memulai di tim tinju SMP Yingge, kekalahan di Olimpiade Tokyo, pencabutan medali perunggu Kejuaraan Dunia 2023, dan kontroversi gender selama Olimpiade Paris, serta jabatan pengajar, penghargaan, dan perkembangan kejuaraan 2026 setelah meraih emas, setiap klaim disertai sumber.",
+        "category": "people",
+        "href": "/id/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Douli: Pasangan di Samping SMP Longdu, Menenun Bambu Ketan Enam Puluh Tahun ke Dalam Sebuah Topi",
+        "desc": "Pada tahun 2017, Lin Rong-chun di Meinong, Kaohsiung, yang berusia delapan puluhan masih mengasah bilah bambu; pada 2014, nenek Chen Lian-chin di Longxi, Tainan, yang berusia 86 tahun dapat membuat satu topi dalam satu jam; di Fuli, Hualien, Xu Gui-zhu menjual satu buah pada 2016 seharga hanya 150 yuan; pada 2022, dokumenter 'Chuan, Chuan' dari Asosiasi Komunikasi Publik Tionghoa merekam Wu Jin-yun dan Xu Bao-mei di Miaoli yang telah melakukannya selama lima puluh tahun. Di Xionglin, Hsinchu, saat masa kejayaannya, setiap rumah menumpuk bambu ketan; di Lukitzi, Taoyuan, tiga puluh rumah memproduksi seratus topi sehari—saat ini, sebagian besar guru yang bisa membuat *douli* (topi bambu) kasar di seluruh pulau berusia di atas tujuh puluh tahun. Setelah kompensasi larangan penebangan di lahan cadangan penduduk asli ditingkatkan menjadi 60.000 yuan per hektar pada 2024, bahkan pasokan bahan bambu ketan pun terputus. *Douli* tidak hilang dari ladang; yang hilang adalah sepasang tangan yang mampu menyelipkan daun bambu ke dalam kerangka bilah bambu dan mengikatnya dengan benang kapas lapis demi lapis.",
+        "category": "culture",
+        "href": "/id/culture/bamboo-hat-craft",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": "14",
+        "image": ""
+      },
+      {
+        "title": "Pendidikan di Pedesaan Taiwan: Yang Dibutuhkan Anak-anak Bukan Kisah Inspiratif, Melainkan Seluruh Sistem Dukungan yang Tak Terputus",
+        "desc": "Pendidikan di pedesaan bukan sekadar masalah 'sekolah di pegunungan lebih jauh'. Mulai dari mobilitas guru, pengajaran lintas usia, transportasi dan akomodasi, hingga dukungan keluarga, koneksi komunitas, serta imajinasi tunggal masyarakat tentang kesuksesan; kesulitan sebenarnya adalah ketika seorang anak meninggalkan ruang kelas, seluruh sistem pendukung sering kali terlepas lapis demi lapis.",
+        "category": "society",
+        "href": "/id/society/taiwan-rural-education",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": "13",
+        "image": ""
+      },
+      {
+        "title": "Rayark Games: Kekaisaran Musik yang Berdiri di Atas Estetika, dan Keretakan Selama Empat Belas Tahun",
+        "desc": "Pada tahun 2012, enam pemuda dari Fakultas Teknik Elektro dan Ilmu Komputer NTU mengumpulkan NT$30 juta untuk membuat \"Cytus\", yang dalam satu bulan berhasil menduduki peringkat pertama di 14 negara. Empat belas tahun kemudian, mereka memiliki animasi Deemo, animasi Project Sekai yang belum diserahkan selama sebelas tahun, Sdorica yang memasuki mode pemeliharaan pada Februari 2026, serta keputusan untuk memangkas karyawan demi mempertahankan pasar Tiongkok setelah insiden kode Morse ICE pada tahun 2020. Estetika membuat Rayark dikenal dunia, namun juga membuatnya terjatuh di setiap bidang non-musik.",
+        "category": "technology",
+        "href": "/id/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: Dari Putri Presiden yang Terus Dikejar, ke Dokter Chen di Klinik Tainan",
+        "desc": "Dari dikejar media di New York tahun 2009, hingga membuka klinik gigi di Tainan tahun 2016, bagaimana Chen Hsing-yu membawa hidupnya kembali ke profesi kedokteran gigi, di bawah sorotan keluarga politik?",
+        "category": "people",
+        "href": "/id/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: Menggunakan Sebuah Kedai Pangsit untuk Menghidupi Revolusi Taiwan Selama Empat Puluh Tahun",
+        "desc": "Su Beng, nama asli Shi Chao-hui, pernah menjadi agen intelijen bawah tanah bagi Partai Komunis Tiongkok, namun ia merasa kecewa setelah menyaksikan pembantaian reformasi agraria. Ia kembali ke Taiwan untuk merencanakan pembunuhan Chiang Kai-shek dan melarikan diri ke Jepang setelah rencananya gagal. Di Ikebukuro, Tokyo, ia membuka kedai mi bernama \"Shin Chinmi\", menjual pangsit di siang hari dan menulis sejarah Taiwan di malam hari; pendapatan dari kedai ini menghidupi gerakan kemerdekaan Taiwan selama empat puluh tahun serta menghasilkan karya \"Sejarah Empat Ratus Tahun Orang Taiwan\" yang membangkitkan kesadaran nasional Taiwan.",
+        "category": "people",
+        "href": "/id/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesizer tentang Hal-Hal yang Tidak Bisa Dikatakan di Kantor",
+        "desc": "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial.",
+        "category": "people",
+        "href": "/id/people/ao-and-mountain-band",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Pertahanan dan Modernisasi Militer Taiwan",
+        "desc": "Pada Oktober 2025, Lai Ching-te memimpin pembentukan batalion tank M1A2T di Hukou. Bulan yang sama, mantan Kepala Staf Gabungan Li Xi-ming tersenyum kecut sambil berkata: \"Jika tank saja bisa menjadi senjata asimetris, apa lagi yang bukan senjata asimetris?\" Ini adalah kisah sebuah pulau yang tertarik di antara dua logika pertahanan.",
+        "category": "society",
+        "href": "/id/society/taiwan-defense-modernization",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Pahlawan Cangkul dan Simultanitas Kepulauan: Bagaimana Budaya Relawan Bencana Taiwan Mempengaruhi Identitas Nasional",
+        "desc": "Memulai dari \"Pahlawan Cangkul\" dalam banjir Matas-an 2025, meninjau kembali budaya relawan bencana yang terakumulasi sejak gempa 921 tahun 1999, mitos penciptaan banjir dan ketahanan komunitas suku Matas-an, serta dinamika \"serba ada\" antara model Tzu Chi dan tiga pos komando di radius 500 meter lokasi Guangfu, sambil mengeksplorasi momen ketika lagu Chen Chien-nian \"Kita Adalah Saudara\" berubah menjadi aksi konkret dalam banjir ini.",
+        "category": "society",
+        "href": "/id/society/taiwan-disaster-volunteer-culture",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 14,
+        "image": "/article-images/society/guangfu-921-memorial-2003.webp"
+      },
       {
         "title": "Moriayama Matsunosuke: Melukis Wajah Resmi Taiwan dengan Tiga Gedung Negara Bagian dan Satu Pengadilan",
         "desc": "Pada 1906, seorang lulusan Universitas Kekaisaran Tokyo dari keluarga terkemuka Osaka datang ke Taiwan sebagai konsultan dan merancang bangunan beton bertulang penuh pertama di seluruh Kekaisaran Jepang. Dalam lima belas tahun berikutnya, Moriayama Matsunosuke menyelesaikan Gedung Negara Bagian Taipei, Gedung Negara Bagian Taichung, Gedung Negara Bagian Tainan, Pengadilan Tainan, Biro Monopoli, Departemen Kereta Api, dan Kantor Gubernur Jenderal Taiwan. Cara beliau menangani lahan asimetris, kolom komposit, dan alur sirkulasi ganda memberikan bentuk konkret pada kekuasaan pemerintah kolonial, dan meninggalkan tiga gedung bata merah yang masih berdiri hari ini: Komisi Pengawas, Gedung Negara Bagian Taichung, dan Museum Sastra Taiwan Nasional.",
@@ -2095,90 +2176,54 @@
         "date": "2026-10-10T23:41:59+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "Danau Matahari-Bulan: Di Bawah Ketinggian Air 18,18 Meter, Jantung Taiwan yang Tenggelam dan Terlihat",
-        "desc": "Danau Matahari-Bulan pada 2026 adalah baterai pompa simpan tenaga terbesar di dunia, serta tanah leluhur yang hilang bagi suku Thao. Sejak kenaikan muka air 18,18 meter pada 1934 mengubah lanskap, danau ini di antara destinasi wisata dan jantung energi, memikul seratus tahun migrasi etnis dan keajaiban listrik.",
-        "category": "geography",
-        "href": "/id/geography/sun-moon-lake",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Lanskap Mata Air Panas Taiwan",
-        "desc": "Dari \"Air Perempuan Penyihir\" ke 15 Besar Surga Mata Air Panas Global, Bagaimana Tabrakan Lempeng Tektonik Memasak Kode Penyembuhan Pulau Ini",
-        "category": "geography",
-        "href": "/id/geography/taiwan-hot-springs-landscape",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Air Mengalir ke Atas: Membaca Sejarah Pembukaan Lahan Suku Amis dan Batas Kognisi Otak dari Sebuah Ilusi Optik",
-        "desc": "Parit \"Air Mengalir ke Atas\" di Dulan, Taitung, sebenarnya miring ke bawah sekitar 0,5 derajat, tetapi karena jalan di sebelahnya jauh lebih curam, otak pengunjung membaca airnya seolah naik. Dari parit irigasi yang digali warga Amis pada masa lalu, dikemas menjadi keajaiban wisata pada 1980-an, hingga belakangan dinobatkan sebagai \"objek wisata paling tidak berguna se-Taiwan\" — parit selebar tak sampai setengah meter ini menyimpan sebuah tipuan ilusi tentang kerangka acuan penglihatan.",
-        "category": "geography",
-        "href": "/id/geography/water-running-uphill",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Rel Lintas: Tahun 1908 Satu Jalur Menjahit Pulau Ini Bersama, Juga Meninggalkan Kecepatan Kolonial",
-        "desc": "Pada tahun 1887, Liu Mingchuan memasang rel pertama dari Taipei ke utara; pada tahun 1908, jalur lintas menghubungkan Keelung, Taichung, dan Takau menjadi satu jalur utama. Ia mengangkut beras dan gula untuk kekaisaran, juga membuat sebagian petani lebih dekat ke pasar; kecepatan yang dibawa kereta api tidak pernah dibagikan secara merata kepada semua orang.",
-        "category": "geography",
-        "href": "/id/geography/western-trunk-railway",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Wuqiu: Pulau di Antara Pulau-Pulau Terpencil, Pulau Militer Terpencil yang Terlupakan dan Bayangan Limbah Nuklir",
-        "desc": "Wuqiu adalah wilayah administratif terpencil paling jauh di Taiwan, terdiri dari Daqiu dan Xiaoqiu. Pulau terpencil ini secara administratif berada di bawah Kinmen, namun jalur transportasinya tergantung pada Taichung, dan pernah menjadi basis gerilya garis depan konfrontasi KMT-KPK. Artikel ini menganalisis secara mendalam makna substansial dari pengaktifan kembali mercusuar Pulau Wuqiu, pewarisan budaya bahasa Hinghwa, serta kontroversi referendum lokasi limbah nuklir yang berlangsung selama dua puluh tahun, menunjukkan kesepian dan ketangguhan pulau pinggiran ini dalam narasi nasional.",
-        "category": "geography",
-        "href": "/id/geography/wuqiu",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Animasi A-gui: Sebuah Karakter Flash, Bagaimana Ia Masuk ke Kelas Komputer, Album, dan Kampanye Pencegahan Wabah Orang Taiwan",
-        "desc": "Pada tahun 1999, Chang Rong-gui bersama Chun Shui Tang menciptakan A-gui dengan wajah bulat dan suara khas menggunakan Flash. Dari video pendek yang diteruskan, A-gui melangkah ke album, film, situs web Jepang, dan kampanye SARS. Pertanyaan yang ditinggalkan A-gui adalah: ketika situs web berhenti diperbarui, apa yang harus diandalkan seorang karakter internet untuk terus hidup di kenangan orang Taiwan?",
-        "category": "culture",
-        "href": "/id/culture/a-kuei-flash-animation",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Nama Pasar Tradisional",
-        "desc": "Di jalanan Taiwan, jika seseorang berteriak \"Shu-fen\" atau \"Chia-hao\", berapa orang yang akan menoleh? Nama-nama ini adalah cerminan masyarakat Taiwan, mencatat imajinasi kolektif generasi berbeda tentang \"kehidupan yang indah\".",
-        "category": "culture",
-        "href": "/id/culture/common-taiwanese-names",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": "6",
-        "image": ""
-      },
-      {
-        "title": "Eslite Bookstore: Landmark Membaca 24 Jam Tanpa Tutup dan Evolusi Subjek Budaya Taiwan",
-        "desc": "Eslite Bookstore bukan hanya toko buku rantai paling representatif Taiwan, melainkan juga simbol penting estetika kehidupan dan subjek budaya Taiwan kontemporer. Sejak didirikan oleh Bapak Wu Qing-you pada 1989 sebagai toko buku seni dan humaniora pertama, Eslite melalui model operasional \"buka 24 jam\" berhasil mengubah toko buku fisik dari sekadar tempat jual-beli menjadi landmark urban yang menenangkan jiwa. Artikel ini mendalami falsafah pendirian Eslite, dampak sosial budaya membaca 24 jam, model bisnis komposit, serta bagaimana landmark budaya ini di tengah gelombang digital dan tantangan penutupan toko, mendefinisikan ulang masa depan membaca melalui transformasi omnichannel. Mencatat secara rinci pergantian era dari toko Dunhua, Xinyi, hingga Songyan, serta menganalisis posisinya yang unik dalam diplomasi budaya dan industri kreatif.",
-        "category": "culture",
-        "href": "/id/culture/eslite-bookstore",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 750,
-        "image": ""
-      },
-      {
-        "title": "Festival Zhongyuan: Dari Ketakutan Menenangkan Arwah Kesepian hingga Rekonsiliasi Kolektif Sebuah Pulau",
-        "desc": "Festival Zhongyuan di Taiwan bukan sekadar bentuk penghormatan terhadap hantu, melainkan catatan sejarah tentang pembukaan lahan, konflik, dan asimilasi kelompok. Dari rekonsiliasi penuh air mata di Keelung hingga kompetisi ekstrem 'Pencarian Arwah' (Qianggu) di Toucheng, upacara ini mengungkap bagaimana orang Taiwan mengubah ketakutan menjadi perjanjian perdamaian sosial.",
-        "category": "culture",
-        "href": "/id/culture/ghost-festival-zhongyuan",
-        "date": "2026-10-10T23:41:59+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "pt": [
+      {
+        "title": "Lin Yu-ting: Da equipe de boxe da Escola Secundária de Yingge à medalha de ouro nas Olimpíadas de Paris",
+        "desc": "Em agosto de 2024, Lin Yu-ting derrotou a atleta polonesa por 5 a 0 na final feminina dos 57 kg nas Olimpíadas de Paris, conquistando a primeira medalha de ouro olímpica do boxe para Taiwan. Este artigo detalha sua trajetória desde o início na equipe de boxe da Escola Secundária de Yingge, a derrota nas Olimpíadas de Tóquio, a anulação da medalha de bronze no Campeonato Mundial de 2023 e as controvérsias de gênero durante as Olimpíadas de Paris, além de informações sobre sua carreira docente, prêmios após a conquista do ouro e seu status competitivo para 2026, com fontes incluídas para cada afirmação.",
+        "category": "people",
+        "href": "/pt/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Lei Médica: Quarenta anos de regulamentação institucional e tensões de mercado",
+        "desc": "A Lei Médica de Taiwan foi promulgada em 1986, teve a responsabilidade criminal dos médicos alterada em 2017 e prevê a inclusão da proporção enfermeiro-paciente por turno em 2026. A lei consegue estipular \"quantos pacientes um enfermeiro pode cuidar no máximo\", mas não consegue garantir \"se existem esses enfermeiros\" — de 320 mil licenças de enfermagem, restam apenas 190 mil mãos na prática clínica. Esta não é a Lei do Seguro de Saúde nem a Lei Médica; é a lei fundamental que define como as instituições hospitalares existem em Taiwan, representando também o impasse de quarenta anos entre o interesse público da saúde e os mecanismos de mercado.",
+        "category": "society",
+        "href": "/pt/society/medical-care-act",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
+      },
+      {
+        "title": "Rayark Games: Um império musical fundado na estética e suas fissuras ao longo de quatorze anos",
+        "desc": "Em 2012, seis jovens da Faculdade de Informática e Engenharia da Universidade Nacional de Taiwan reuniram 30 milhões para criar o \"Cytus\", que alcançou o primeiro lugar nas paradas de 14 países em apenas um mês. Quatorze anos depois, eles têm a animação de Deemo, uma animação de partículas não entregue há onze anos, Sdorica entrando em modo de manutenção em fevereiro de 2026 e a decisão de demitir funcionários após o incidente do código Morse de ICE em 2020 para proteger o mercado chinês. A estética fez com que a Rayark fosse vista pelo mundo, mas também fez com que ela tropeçasse em todas as áreas que não fossem a música.",
+        "category": "technology",
+        "href": "/pt/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: de filha de presidente perseguida pela imprensa a dentista Chen em clínica de Tainan",
+        "desc": "De ser perseguida pela mídia em Nova York em 2009 até abrir clínica odontológica em Tainan em 2016, como Chen Hsing-yu trouxe a vida de volta à profissão de dentista sob o olhar de uma família política?",
+        "category": "people",
+        "href": "/pt/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: Uma loja de guioza que financiou quarenta anos de revolução em Taiwan",
+        "desc": "Nascido Shi Chao-hui, Su Beng atuou como informante para o PCC na China, mas desiludiu-se após presenciar massacres na reforma agrária. Após conspirar contra Chiang Kai-shek e exilar-se no Japão, fundou o restaurante Shin Chin Wei em Tóquio, usando os lucros para sustentar o movimento de independência de Taiwan e escrever a obra \"História de 400 Anos do Povo Taiwanês\".",
+        "category": "people",
+        "href": "/pt/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "Moriyama Matsunosuke: com três edifícios de prefeitura e um tribunal, desenhou o rosto oficial de Taiwan",
         "desc": "Em 1906, um diplomado da Universidade Imperial de Tóquio, descendente de uma família proeminente de Osaka, chegou a Taiwan como contratado e projetou o primeiro edifício totalmente de concreto armado de todo o Império Japonês. Nos quinze anos seguintes, Moriyama Matsunosuke completou sucessivamente a Prefeitura de Taipei, a Prefeitura de Taichung, a Prefeitura de Tainan, o Tribunal de Tainan, o Departamento de Monopólio, o Departamento de Ferrovias e o Palácio do Governador-Geral de Taiwan. Sua abordagem ao lidar com terrenos assimétricos, ordens de colunas compostas e circulações duplas deu forma concreta ao poder do governo colonial, deixando hoje três edifícios de tijolos vermelhos que abrigam o Yuan de Controle, a Prefeitura de Taichung e a Biblioteca Nacional de Literatura Taiwanesa.",
@@ -2403,54 +2448,117 @@
         "date": "2026-10-10T23:42:20+08:00",
         "readingTime": "8min",
         "image": ""
-      },
-      {
-        "title": "A Lenda do Mortal: Duas Pessoas, 30% de Avaliações Positivas, 700 Mil Cópias Vendidas",
-        "desc": "Em junho de 2024, dois taiwaneses sem experiência na indústria de jogos lançaram um RPG de wuxia. Uma semana após o lançamento, a taxa de avaliações positivas caiu para 30%, com jogadores chineses inundando o jogo com milhares de avaliações negativas. Doze dias depois, subiu para 70%, e um mês depois, atingiu 94%. Após seis meses, as vendas ultrapassaram 700 mil cópias, e jogadores da Coreia do Sul e de Taiwan formaram grupos para traduzir a versão em japonês. A premissa do protagonista é a de um \"discípulo de linhagem externa sem o halo do protagonista\", e a equipe de desenvolvimento também se enquadra nessa descrição.",
-        "category": "technology",
-        "href": "/pt/technology/tale-of-wuxia-pre-sequel",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "Meiyu: da chuva que inundou Tápuxa-Miao e Taipé em 1981 até o experimento científico que trouxe americanos à Taiwan",
-        "desc": "Na manhã de 28 de maio de 1981, uma frente de Meiyu explodiu em Tápuxa-Miao e Taipé, com precipitação acima de 140 centímetros em uma área perto de Taipé, resultando em 8 mortos e danos a milhares de casas. Seis anos depois, o projeto TAMEX foi lançado, com mais de 125 cientistas taiwaneses e norte-americanos rastreando a frente com um avião NOAA P-3, três embarcações de monitoramento e três radares doppler. Hoje, essa frente que aparece anualmente em maio e junho continua sendo a fonte de água para 23 milhões de pessoas, mas também o responsável por inundações urbanas.",
-        "category": "nature",
-        "href": "/pt/nature/meiyu-stagnant-front",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Ecossistemas Florestais de Taiwan",
-        "desc": "Em uma distância horizontal curtíssima, esta ilha sobe do nível do mar ao topo de Yushan, concentrando todos os tipos de florestas, do tropical ao subártico.",
-        "category": "nature",
-        "href": "/pt/nature/taiwan-forest-ecosystems",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Chen Yu-hsun",
-        "desc": "Diretor de comédia taiwanês nascido em uma vila de dependentes militares, que estabeleceu uma gramática criativa para a comédia local com cinco longas-metragens, destacando-se por explorar questões profundas da vida com humor taiwanês e calor humano em situações absurdas; profundamente inspirado por mestres da comédia de Hollywood, ele conquistou o prêmio de Melhor Filme no Golden Horse Awards com \"Meu Amor Desaparecido\", obtendo o reconhecimento externo mais significativo para essa gramática.",
-        "category": "people",
-        "href": "/pt/people/chen-yu-hsun-taiwan-comedy-film-magician",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Chi-Huey Wong",
-        "desc": "Autoridade mundial em glicociência, vencedor do Prêmio Wolf de Química de 2014, ex-presidente da Academia Sinica, perdeu a chance do Nobel devido ao caso Haoying",
-        "category": "people",
-        "href": "/pt/people/chi-huey-wong-glycoscience-pioneer",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "hi": [
+      {
+        "title": "लिन युटिंग: यिंगगे जूनियर हाई स्कूल की मुक्केबाजी टीम से पेरिस ओलंपिक स्वर्ण पदक तक",
+        "desc": "अगस्त 2024 में, लिन युटिंग ने पेरिस ओलंपिक महिला 57 किग्रा वर्ग के स्वर्ण पदक मुकाबले में पोलैंड की खिलाड़ी को 5-0 से हराकर ताइवान के लिए मुक्केबाजी में पहला ओलंपिक स्वर्ण पदक जीता। यह लेख उनके यिंगगे जूनियर हाई स्कूल की मुक्केबाजी टीम से शुरुआत करने, टोक्यो ओलंपिक में हार, 2023 विश्व मुक्केबाजी चैंपियनशिप में कांस्य पदक रद्द होने और पेरिस ओलंपिक के दौरान लिंग संबंधी विवादों के साथ-साथ स्वर्ण पदक जीतने के बाद उनके शिक्षण करियर, पुरस्कारों और 2026 की प्रतियोगिताओं की वर्तमान स्थिति का विवरण देता है; प्रत्येक दावे के साथ स्रोत संलग्न हैं।",
+        "category": "people",
+        "href": "/hi/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "ताइवान की भावना: क्या हमें अपने पुराने घरों की सुंदरता का दावा करने से पहले कोरियनों से लाइक मिलने का इंतज़ार करना चाहिए?",
+        "desc": "2008 में, ताइनाई के एक समूह ने \"पुराने घरों की नई ऊर्जा\" अभियम शुरू किया, जिससे उन्होंने अपने पुराने घरों को फिर से देखना शुरू किया। यह कोरियनों द्वारा \"대만감성\" (ताइवान की भावना) के ज़रिए ताइवान के सड़क दृश्यों के प्रति पागल होना शुरू करने से ठीक ग्यारह साल पहले था। लेकिन जब यह रुझान 2024 में K-pop कैमरों के ज़रिए विस्फोटित हुआ, तो हमने इसे बताने के लिए पर्यटन प्रशासन और संस्कृति मंत्रालय के \"सांस्कृतिक निर्यात\" के फ्रेमवर्क को ही बनाए रख लिया, जैसे कि उस प्रारंभिक दृष्टि को मान्यता मिलने के लिए उसे पहले कोरियनों द्वारा लाइक किया जाना ज़रूरी था।",
+        "category": "culture",
+        "href": "/hi/culture/taiwanese-sensibility",
+        "date": "2026-10-23T00:48:55+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/changhua-iron-window-grille-2021.webp"
+      },
+      {
+        "title": "NET: निर्यात स्टॉक से लेकर राष्ट्रीय वार्डरोब तक, यह सबसे रहस्यमयी स्थानीय परिधान ब्रांड",
+        "desc": "1991 में स्थापित NET, कीलुंग के \"मायफेन शॉपिंग मॉल\" के निर्यात स्टॉक से शुरू हुआ और फास्ट फैशन के हमलों के बीच तीस वर्षों तक टिका रहा। यह न केवल ताइवान में सबसे अधिक स्टोर वाले स्थानीय परिधान ब्रांडों में से एक है, बल्कि लगातार 15 वर्षों तक \"दुकान बंद कर परोपकार\" करने और हाल ही में कीलुंग ईस्ट कोस्ट प्लाजा के स्वामित्व विवाद के कारण, ताइवान के लोगों के दिलों में एक गर्म व्यावसायिक किंवदंती बन गया है।",
+        "category": "economy",
+        "href": "/hi/economy/net-night-economy-tourism",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": "28",
+        "image": ""
+      },
+      {
+        "title": "पर्यटन बसें: ताइवान के लोगों को पहाड़ों और समुद्रों तक ले जाने वाले ये लोहे के बक्से पिछले साठ वर्षों से चल रहे हैं, लेकिन इनमें दुर्घटनाएं क्यों होती रहती हैं?",
+        "desc": "जापानी शासन काल में 14 वर्ष की आयु में चालक बनने वाली यू लियु जिलान से लेकर, 1959 में \"किनमा\" बस द्वारा मध्य-पारगमन मार्ग पर चलने तक, और 1980 के दशक में राष्ट्रीय राजमार्गों पर दौड़ने वाली अनियंत्रित बसों (वाइजी चे) तक, इन पर्यटन बसों ने ताइवान के युद्धोत्तर काल के सभी पर्यटन सपनों, धार्मिक यात्राओं और स्कूली पिकनिकों को ढोया है। लेकिन \"काओ-शिंग\" प्रणाली, कम किराए की प्रतिस्पर्धा और लंबे कार्य घंटों के कारण, यह लोहे का बक्सा द्वीप के सबसे खतरनाक परिवहन साधनों में से एक बन गया है। क्या 2026 के नए चालक पहचान नियमों से इस चक्र का अंत हो पाएगा?",
+        "category": "lifestyle",
+        "href": "/hi/lifestyle/tour-bus",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": "12",
+        "image": ""
+      },
+      {
+        "title": "रेयार्क गेम्स: सौंदर्यबोध पर खड़ा संगीत-साम्राज्य और उसकी चौदह साल की दरारें",
+        "desc": "2012 में ताइवान विश्वविद्यालय के विद्युत-इंजीनियरिंग और कंप्यूटर विज्ञान कॉलेज के छह युवाओं ने तीन करोड़ ताइवान डॉलर जुटाकर Cytus बनाया, जो एक महीने में 14 देशों की रैंकिंग में पहले स्थान पर पहुँचा। चौदह साल बाद उनके खाते में Deemo की एनिमेशन फ़िल्म है, ग्यारह साल से अधूरी Implosion एनिमेशन है, फ़रवरी 2026 में रखरखाव मोड में गया Sdorica है, और 2020 की ICE मोर्स कोड घटना के बाद कर्मचारी से नाता तोड़कर चीनी बाज़ार बचाने का फ़ैसला है। सौंदर्यबोध ने रेयार्क को दुनिया की नज़र में लाया, और वही संगीत से बाहर के हर मैदान में उसके लड़खड़ाने की वजह भी बना।",
+        "category": "technology",
+        "href": "/hi/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "चेन शिंग-यु: राष्ट्रपति की बेटी जिससे सवाल पूछे जाते थे, से लेकर ताइनान के क्लिनिक में डॉ. चेन तक",
+        "desc": "2009 में न्यूयॉर्क में मीडिया द्वारा पीछा किए जाने से लेकर 2016 में ताइनान में डेंटल क्लिनिक खोलने तक, चेन शिंग-यु ने राजनीतिक परिवार की निगाह में अपना जीवन दंत चिकित्सा पेशे में कैसे वापस लाया?",
+        "category": "people",
+        "href": "/hi/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "शी मिंग: एक डंपलिंग दुकान, जिसने चालीस वर्षों तक ताइवान की क्रांति को जीवित रखा",
+        "desc": "शी मिंग का असली नाम शी चाओ-हुई था; उन्होंने कभी चीन में कम्युनिस्ट पार्टी के लिए गुप्तचर के रूप में काम किया, लेकिन भूमि सुधार के दौरान हुए नरसंहार को देखकर उनका मोहभंग हो गया। वे ताइवान लौटकर चियांग काई-शेक की हत्या की साजिश रचने और पकड़े जाने पर जापान भागने के लिए जाने जाते हैं। उन्होंने टोक्यो के इकेबुकुरो में \"शिन झेनवेई\" नामक एक नूडल शॉप खोली, जहाँ दिन में डंपलिंग बेचकर और रात में ताइवान का इतिहास लिखकर उन्होंने चालीस वर्षों तक स्वतंत्रता आंदोलन को वित्तपोषित किया।",
+        "category": "people",
+        "href": "/hi/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "ड्रैगन बोट फेस्टिवल: प्राचीन लोगों की मृत्यु से लड़ने का टूलकिट, ताइवान के लोगों ने इसे वार्षिक पुनर्मिलन में बदल दिया",
+        "desc": "2025 के राष्ट्रीय माध्यमिक परीक्षा में एक प्रश्न आया था जिसमें पंद्रह वर्षीय छात्रों से 'ड्रैगन बोट फेस्टिवल पर अंडा खड़ा करने' के अंधविश्वास का खंडन करने के लिए प्रयोग डिजाइन करने को कहा गया था। यह दृश्य पूरे त्योहार का रहस्य दर्शाता है: आर्टेमिसिया, सिनेबार शराब, दोपहर का पानी, और वह खड़ा किया गया अंडा—ये सब मूलतः प्राचीन लोगों की महामारी और मृत्यु से लड़ने के उपकरण थे। विज्ञान ने एक-एक करके इनकी औषधीय प्रभावशीलता को चुनौती दी है, लेकिन ड्रैगन बोट फेस्टिवल ताइवान में किसी से भी अधिक जीवंत है—औषधीय प्रभाव समाप्त हो गया है, फिर भी ताइवान के लोग हर साल इसका पालन करते हैं।",
+        "category": "culture",
+        "href": "/hi/culture/dragon-boat-festival",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/duanwu-two-zongzi-styles.webp"
+      },
+      {
+        "title": "ताइवान का धार्मिक विश्वास: भय में जन्मा आस्था साम्राज्य",
+        "desc": "यह द्वीप दुनिया में सबसे अधिक मंदिर घनत्व और एशिया में दूसरे स्थान पर धार्मिक स्वतंत्रता रखता है। दो प्रमुख धर्म - वान्ये (देवता) और माज़ू - दोनों की ऐतिहासिक उत्पत्ति प्लेग और मृत्यु से जुड़ी है। 17वीं शताब्दी के सैन्य प्रवासियों द्वारा देवताओं को हेइशुईको (Blackwater Gully) पार कराने से लेकर, 2025 की स्वतंत्रता रिपोर्ट में 94 अंक प्राप्त करने तक; 1953 में एकवानदाओ पर प्रतिबंध लगने और 1987 में डी-सीक्रेटाइजेशन के बाद कानूनी मान्यता मिलने तक; और चार प्रमुख बौद्ध संप्रदायों तथा एल्डर चर्च द्वारा राजनीतिक और धार्मिक संबंधों में अलग-अलग रास्ते अपनाने तक - ताइवान का विश्वास धर्मग्रंथों में नहीं, बल्कि कोनों पर जलती धूप में है।",
+        "category": "culture",
+        "href": "/hi/culture/taiwan-religion-and-temple-culture",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 22,
+        "image": ""
+      },
+      {
+        "title": "आ-मेई (चांग हुई-मेई)：पिनुयुमायन (卑南族) गायिका, 1996《जीजी (姊妹)》 से 2024 ताइपे डोम (大巨蛋) पांच शो तक",
+        "desc": "9 अगस्त 1972 को ताइतुंग (台東) काउंटी के पिनुयुमायन (卑南) टाउनशिप में जन्मीं, आ-मेई ताइवान की पिनुयुमायन गायिका हैं, जो मंदारिन पॉप संगीत इतिहास की सबसे सफल महिला गायिकाओं में से एक हैं। 1996 में पहली एल्बम《जीजी》ने ताइवान में 12.1 लाख और एशिया में 40 लाख प्रतियां बेचीं। 2015 में「यूटोपिया (烏托邦)」ताइपे एरिना (台北小巨蛋) में लगातार 10 शो। दिसंबर 2024 में ताइपे डोम (大巨蛋) ASMeiR MAXXX 5 शो, निर्माण लागत 20 करोड़ NTD, स्थल पर हॉट-एयर बैलून छोड़े गए। करियर संचयी बिक्री 5 करोड़ से अधिक।",
+        "category": "people",
+        "href": "/hi/people/a-mei",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "ताइवान की उच्च शिक्षा का विस्तार और बंदी: 58 विश्वविद्यालयों से 148 तक, फिर बंद होने लगे",
+        "desc": "1994 के 410 प्रदर्शन में व्यापक विश्वविद्यालय स्थापना की मांग उठी, बीस साल से भी कम समय में विश्वविद्यालय संस्थानों की संख्या 58 से फूलकर 148 हो गई, शुद्ध नामांकन दर 70 प्रतिशत से ऊपर चली गई। फिर जनसंख्या में गिरावट की दीवार आई: छात्र संख्या 2012 में शीर्ष पर पहुंची, लेकिन निकास कानून 2022 तक विधायी रूप से पारित नहीं हुआ। गाओफेंग, योंगडा और डाओजियांग क्रमिक रूप से बंद हुए, योंगडा में स्थानांतरित छात्रों का लगभग एक तिहाई स्नातक तक नहीं पहुंचा, निकास के समय शिक्षकों का कैरियर परिवर्तन सफलता दर 14 प्रतिशत रहा। यह एक ऐसा प्रयोग था जिसमें केवल दरवाजे खोलने की योजना बनाई गई थी—दरवाजे बंद करने के नियम दस साल देर से आए, लाभ वास्तविक और बिखरा हुआ था, बिल सबसे कम विकल्प वाले लोगों पर गिरा।",
+        "category": "society",
+        "href": "/hi/society/taiwan-higher-education-expansion-and-decline",
+        "date": "2026-10-21T09:01:57+08:00",
+        "readingTime": 20,
+        "image": "/article-images/society/yungta-gate-2013.webp"
+      },
+      {
+        "title": "लाआलुआ (Hla'alua) जनजाति: \"दक्षिण ज़ू\" से अपने स्वयं के नाम तक, पवित्र शंख उत्सव ने क्या बचाए रखा है",
+        "desc": "26 जून 2014 को, लाआलुआ जनजाति ताइवान की 15वीं आधिकारिक रूप से मान्यता प्राप्त स्वदेशी जनजाति बनी। यह ज़ू (Zhu) जनजाति से संबंध तोड़ना नहीं है, बल्कि ताओयुआन के चार समुदायों, पवित्र शंख उत्सव और लुप्तप्राय मातृभाषा के बीच, एक ऐसे नाम को वापस उसके लोगों को सौंपना है जिसे कभी अन्य श्रेणियों में मिला दिया गया था।",
+        "category": "culture",
+        "href": "/hi/culture/hla-alua-people",
+        "date": "2026-10-21T08:49:55+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "मोरियामा मात्सुनोसुके: तीन प्रांतीय कार्यालयों और एक न्यायालय से ताइवान का आधिकारिक चेहरा बनाना",
         "desc": "1906 में, ओसाका के एक प्रतिष्ठित परिवार से आए टोक्यो इंपीरियल विश्वविद्यालय के स्नातक ताइवान आए और संपूर्ण जापानी साम्राज्य का पहला पूर्ण प्रबलित कंक्रीट भवन डिजाइन किया। अगले पंद्रह वर्षों में, मोरियामा मात्सुनोसुके ने ताइपे प्रांतीय कार्यालय, ताइचुंग प्रांतीय कार्यालय, ताइनान प्रांतीय कार्यालय, ताइनान न्यायालय, एकाधिकार ब्यूरो, रेलवे विभाग और ताइवान गवर्नर-जनरल कार्यालय को क्रमिक रूप से पूरा किया। असमान भूखंडों, मिश्रित स्तंभ शैलियों और दोहरे परिसंचरण पथों को संभालने की उनकी तकनीक ने औपनिवेशिक सरकार की शक्ति को मूर्त रूप दिया, और आज की निरीक्षण अदालत, ताइचुंग प्रांतीय कार्यालय और राष्ट्रीय ताइवान साहित्य संग्रहालय में स्थित तीन ईंट कार्यालय भवन छोड़ गए।",
@@ -2612,117 +2720,63 @@
         "date": "2026-10-10T23:41:36+08:00",
         "readingTime": 16,
         "image": ""
-      },
-      {
-        "title": "ह्सिन्चु शहर: 1733 में बांस लगाकर बसाया गया झूजियान, 1980 में टीएसएमसी के उद्गम स्थल के रूप में उभरा",
-        "desc": "1733 में योंगझेंग के 11वें वर्ष में, दानशुई के टोंगझी शू झीमिन ने चारों ओर माकिनो बांस लगाकर 1408 मीटर का गोलाकार मिट्टी का किला घेरा। 1829 में ईंट-पत्थर का किला पूरा हुआ, पूर्वी द्वार यिंगशी गेट आज भी खंदक के किनारे खड़ा है। 247 साल बाद, 15 दिसंबर 1980 को, च्यांग चिंग-कुओ ने यिंगशी गेट से 5 किमी दूर ताइवान के पहले विज्ञान पार्क का लाल फीता काटा। 1953 और 1974 के बीच, ब्लैक बैट स्क्वाड्रन के 148 लोग इस पवन नगर से उड़ान भरकर मुख्यभूमि चीन की टोह लेने गए, फिर कभी नहीं लौटे। 4.5 लाख आबादी वाला प्रांतीय शहर, जिसने शीत युद्ध की अग्रिम पंक्ति, उत्तर में सबसे पहले बसाया गया शहर, दो शीर्ष विश्वविद्यालय, और वैश्विक सेमीकंडक्टर के 90% उन्नत चिप्स का उद्गम स्थल थामा। 'पवन नगर' यह उपनाम बहुत साहित्यिक है, लेकिन इस शहर के सभी उद्योग हवा से जुड़े हैं।",
-        "category": "geography",
-        "href": "/hi/geography/hsinchu-city",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/hsinchu-east-gate-2015.webp"
-      },
-      {
-        "title": "शिन्चू काउंटी: 235 साल पुरानी यीमिन आस्था और पूरे ताइवान में सबसे अधिक प्रति व्यक्ति आय एक ही नदी के किनारे रहती हैं",
-        "desc": "1788 की सर्दियों में, लिन शुआंगवेन के युद्ध में मारे गए दो सौ से अधिक हाकेका (Hakka) स्वयंसेवकों को सामूहिक रूप से दफनाने के लिए शिनपु पहाड़ी पर एक बोचोंग मंदिर स्थापित किया गया था। 235 साल बाद भी, यीमिन फेस्टिवल, जो चंद्र जुलाई की बीस तारीख को मनाया जाता है, अभी भी जारी है। 5 किलोमीटर दूर चूहुक (Zhubei) शहर में, 144.2 मिलियन युआन प्रति व्यक्ति आय के साथ 2025 में पूरे ताइवान के 368 शहरों और कस्बों में पहले स्थान पर रहा है, जिसका चुंबकीय आकर्षण TSMC बाओशान चरण II 2nm वेफर फैब्रिकेशन प्लांट है। शिन्चू काउंटी में 67.8% हाकेका हैं, जो पूरे ताइवान में सबसे अधिक है। लेकिन 220,000 निवासियों वाले काउंटी के प्रशासनिक केंद्र चूबी (Zhubei) में अपने गृहनगर में घर खरीदने वाले युवा हाकेका कम हो रहे हैं।",
-        "category": "geography",
-        "href": "/hi/geography/hsinchu-county",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/hsinchu-county-hero.webp"
-      },
-      {
-        "title": "भू-आकृति और भूविज्ञान",
-        "desc": "60 लाख वर्ष पुराना द्वीप, जिसमें छिपी है 20 करोड़ वर्ष की प्राचीन स्मृति — विश्व का सबसे युवा पर्वत-निर्माण क्षेत्र और सर्वाधिक तीव्र प्लेट टकराव का चमत्कार",
-        "category": "geography",
-        "href": "/hi/geography/terrain-and-geology",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "देवता सूअर: ताइवान में आस्था और पशु अधिकारों की सदी लंबी खींचतान और परिवर्तन की राह",
-        "desc": "देवता सूअर संस्कृति ताइवान के मिननान और हक्का जातीय समूहों की एक अनूठी बलिदान परंपरा है, जिसका मूल विशालकाय सूअरों को देवताओं को अर्पित करने में निहित है। इसकी उत्पत्ति चिंग राजवंश के यीमिन (धार्मिक नागरिक) विश्वास में हुई, जापानी शासन काल में पशुपालन प्रोत्साहन के कारण यह प्रतिस्पर्धात्मक \"दौड़\" में बदल गई, और आधुनिक युग में \"नीचे गड्ढे में रखना\" (गतिविधि प्रतिबंधित करना) और जबरन खिलाने-पिलाने के कारण पशु कल्याण विवाद खड़ा हो गया है। विभिन्न उत्सव अब \"रचनात्मक देवता सूअर\" या \"प्राकृतिक पालन\" के माध्यम से रूपांतरित हो रहे हैं, आस्था और जीवन की गरिमा के बीच संतुलन तलाशते हुए।",
-        "category": "culture",
-        "href": "/hi/culture/divine-pig-festival",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "हक्का संस्कृति और भाषा",
-        "desc": "1988 में, लोगों के एक समूह ने सन यात-सेन की तस्वीर पर मास्क लगाकर जुलूस निकाला, केवल अपनी मातृभाषा बोलने का अधिकार पाने के लिए — वे जीत गए, लेकिन भाषा अब भी लुप्त हो रही है।",
-        "category": "culture",
-        "href": "/hi/culture/hakka-culture-and-language",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "ला'आलुआ जनजाति: 'दक्षिणी त्सोउ' से अपने नाम तक, मियातुंगुसु ने क्या बचाए रखा",
-        "desc": "26 जून 2014 को, ला'आलुआ जनजाति ताइवान की 15वीं आधिकारिक रूप से मान्यता प्राप्त मूलनिवासी जाति बनी। यह त्सोउ जनजाति से नाता तोड़ना नहीं, बल्कि ताओयुआन के चार गांवों, मियातुंगुसु और लुप्तप्राय जातीय भाषा के बीच, एक बार विलीन किए गए नाम को उसके उपयोगकर्ताओं को वापस सौंपना है।",
-        "category": "culture",
-        "href": "/hi/culture/hla-alua-people",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "नौ स्वर्गों की श्वानन्यू: हुआंग दी की सेनापति से ताइवान के जेनतौ किशोरों की संरक्षक देवी तक",
-        "desc": "एक हाई स्कूल स्नातक मंदिर मेला दल प्रमुख, जिसे सांस्कृतिक निर्माण समिति के समीक्षकों ने दस साल से अधिक समय तक अपमानित किया, 11 साल में डॉक्टरेट हासिल की, केवल यह साबित करने के लिए कि ड्रॉपआउट छात्रों को ढोल सिखाना भी कला है। उसके पीछे खड़ी है, एक देवी जिसने चार हजार साल पहले हुआंग दी को युद्ध करना सिखाया।",
-        "category": "culture",
-        "href": "/hi/culture/jiutian-xuannu-belief",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "स्काई लैंटर्न: 1820 में सलामती का संकेत, 2019 में 326 किलोग्राम का वन कचरा, वही पिंगशी लोग दो पहचान ढोते हैं",
-        "desc": "1820 के दशक में, हू परिवार ने शिफेनलियाओ में पहली सलामती की स्काई लैंटर्न छोड़ी। 200 साल बाद 2019 की युआनशियाओजिए पर, अमेरिकी स्वयंसेवकों ने दो घंटे में पिंगशी रेलवे के आसपास 326 किलोग्राम स्काई लैंटर्न के अवशेष इकट्ठे किए। एक तरफ कमाई, एक तरफ नुकसान, एक तरफ सफाई — स्काई लैंटर्न एसोसिएशन के अध्यक्ष हू हैं, जिसका घर जला उसका पीड़ित भी हू है, पुरानी गली की 88 वर्षीय विक्रेता कै माँ और किलोंग नदी संरक्षण गठबंधन के चेन चिएन-चिह एक ही नाले का पानी पीते हैं। 2025 में स्वायत्तता अध्यादेश के तीसरे पाठ पारित होने के साथ, पिंगशी के लोग त्योहार परिवर्तन की चौथी राह आजमा रहे हैं।",
-        "category": "culture",
-        "href": "/hi/culture/sky-lanterns-pingxi",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 18,
-        "image": "/article-images/culture/pingxi-lantern-festival-2014.webp"
-      },
-      {
-        "title": "ताइवान चर्च न्यूज़: एक सौ चालीस साल तक जीवित एक अखबार, और वह दिन जब इसे जब्त किया गया",
-        "desc": "1885 में, ब्रिटिश मिशनरी बार्कले ने ताइनान में पेह-ओए-जि (Pe̍h-ōe-jī) में ताइवान का पहला अखबार छापा। इस अखबार को जापानी सरकार ने बंद किया, कुओमिंतांग ने मातृभाषा के उपयोग पर प्रतिबंध लगाया, 1987 में 228 घटना की रिपोर्टिंग के कारण गैरीसन कमांड ने पूरे संस्करण को जब्त कर लिया। हर बार दबाए जाने पर यह फिर से जीवित हो गया। 2025 में यह 140 साल का हो गया, इसके सप्लीमेंट में जेनरेटिव AI पर चर्चा हो रही है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-church-news",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "ताइवानी मंदारिन का क्रमिक विकास——चार सौ वर्षों का भाषाई स्तरीकरण",
-        "desc": "एक बेंटो बॉक्स में इतिहास के कितने टुकड़े छिपे हैं? इस शब्द की यात्रा का अनुसरण करते हुए, उस भाषा का अन्वेषण करें जो चार सौ वर्षों में इस द्वीप पर स्वाभाविक रूप से विकसित हुई।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-mandarin-evolution",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "ताइवानी मीम: पीटीटी उपयोगकर्ताओं से सामाजिक सुरक्षा वाल्व तक तीस वर्षों की सांस्कृतिक विकास",
-        "desc": "ताइवानी मीम केवल इंटरनेट चुटकुले नहीं हैं, बल्कि ये तीस वर्षों तक फैला एक सामूहिक रचनात्मक प्रयोग है। पीटीटी के गुमनाम मंच की भाषाई कीमिया से, «जिए को ना» के सामूहिक सामाजिक उपचार तक, फिर «शांग बा», «चुआन शान जिया» जैसे क्लासिक मामलों तक, ताइवानी मीम ने एक अद्वितीय «सामाजिक सुरक्षा वाल्व» तंत्र विकसित किया है, जो असहजता, आघात और राजनीतिक चिंता को सामूहिक रूप से साझा करने योग्य सांस्कृतिक प्रतीकों में बदल देता है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwan-meme-culture",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "ताइवान के बच्चों के अंग्रेजी नाम: Mary, Kevin और पढ़ाई पढ़ाने वाली शिक्षकों का नामकरण अधिकार",
-        "desc": "पढ़ाई पढ़ाने वाले शिक्षकों की किताबों की झलक से लेकर पासपॉर्ट के पिंजी नाम तक और स्टारबक्स काउंटर तक, वह नाम कभी आपका चुना नहीं गया। 1983 के हे ज़िआन, 1987 के ज़ीमी सड़ी मेंगलीश के 'नो चाइनीज़, इंग्लिश प्लीज़' से लेकर 2024 के विधानसभा द्वारा एकांक वंशज नाम की अनुमति देने के कानूनी संशोधन तक, इस नामकरण के इतिहास को उन 30 सेकंड के विचलन के साथ वापस लाता है।",
-        "category": "culture",
-        "href": "/hi/culture/taiwanese-childhood-english-names",
-        "date": "2026-10-10T23:41:36+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "ar": [
+      {
+        "title": "Nick Star: تحويل غرفة البث المباشر إلى حلبة ملاكمة، وإيصال الموقف أمام الكاميرا",
+        "desc": "منذ عام 2024، مزج صانع المحتوى التايواني Nick Star الملاكمة والألعاب ومكالمات الفيديو والتفاعل المباشر في نوع من العروض الشبكية عالية الكثافة. وفي عام 2025، دفع بالهوية الخاصة والموقف التايواني إلى نفس الكاميرا عبر أغنية \"أنا مزدوج الميول الجنسية\" والبث المباشر عبر الحدود. لا تبسّط هذه المقالة شخصه إلى \"مؤثر يسعى للمشاهدات\"، بل تتعقب كيف يضع صانع محتوى الحلبة وغرفة الدردشة والموسيقى والجدل في نفس اللحظة الآنية، وتوضح ما يمكن للمواد العامة إثباته وما لا تستطيع إثباته.",
+        "category": "people",
+        "href": "/ar/people/nick-star-streamer",
+        "date": "2026-10-25T01:15:27+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "لين يو-تينغ: من فريق الملاكمة في مدرسة يينغه الإعدادية إلى ذهبية أولمبياد باريس",
+        "desc": "في أغسطس 2024، هزمت لين يو-تينغ الملاكمة البولندية بنتيجة 5-0 في نهائي وزن 57 كجم للسيدات في أولمبياد باريس، محققة أول ذهبية أولمبية في الملاكمة لتايوان. تلخص هذه المقالة مسيرتها من انطلاقتها في فريق الملاكمة بمدرسة يينغه الإعدادية، وخسارتها في أولمبياد طوكيو، وسحب ميداليتها البرونزية في بطولة العالم 2023، والجدل حول جنسها خلال أولمبياد باريس، بالإضافة إلى منصبها التدريسي وجوائزها وأحدث مشاركاتها في 2026 بعد تتويجها بالذهب، مع توثيق كل معلومة بمصادرها.",
+        "category": "people",
+        "href": "/ar/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "السير معاً عبر الماضي: لكي نمضي قدماً، يجب أن نعرف من أين أتينا",
+        "desc": "في يوليو 1988، قبيل افتتاح المؤتمر الوطني الثالث عشر للحزب الكومنتانغ، عرضت إن يون-بونغ أربع حلقات وثائقية من مجلة \"تيان شيا\" (天下) بشكل متواصل لمدة أربعة أيام على تلفزيون تايوان. بحث المصور تشانغ تشاو-تانغ عن الأشخاص الذين عاشوا تلك الأربعين عاماً من أجل مسودة نصية: جي تشنغ التي كانت ابنة بالتبني، والمزارعين المستأجرين الذين تعرضوا لزيادات سنوية في الإيجار، والجنود المتطوعين الذين فجروا الطرق في الجبال. منذ تأسيسها، تتساءل مجلة \"تيان شيا\" عن كيفية وصول تايوان إلى ما هي عليه اليوم، وتكمن إجابة الفيلم في هؤلاء الأشخاص، ولاحقاً تم نقل شريط فيديو إلى بكين.",
+        "category": "culture",
+        "href": "/ar/culture/walking-through-the-past-together",
+        "date": "2026-10-23T01:56:52+08:00",
+        "readingTime": 18,
+        "image": "/article-images/culture/yitong-ep1-title-card-1988.jpg"
+      },
+      {
+        "title": "تشن شينغ يو: من ابنة رئيس تتعرض للملاحقة، إلى الدكتورة تشن في عيادة بتايوان",
+        "desc": "من ملاحقة وسائل الإعلام لها في نيويورك عام 2009، إلى افتتاح عيادة لطب الأسنان في تاينان عام 2016؛ كيف استعادت تشن شينغ يو حياتها المهنية كطبيبة أسنان تحت أنظار عائلتها السياسية؟",
+        "category": "people",
+        "href": "/ar/people/chen-hsing-yu",
+        "date": "2026-10-23T01:56:52+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "رايارك للألعاب: إمبراطورية موسيقية تأسست على الجماليات، وشقوقها خلال أربعة عشر عاماً",
+        "desc": "في عام 2012، جمع ستة شبان من كلية الهندسة الكهربائية وعلوم الحاسوب في جامعة تايوان الوطنية ثلاثين مليون دولار تايواني جديد وصنعوا \"سايتوس\" (Cytus)، وفي شهر واحد وصلوا للمركز الأول في قوائم 14 دولة. بعد أربعة عشر عاماً، لديهم أنمي \"ديمو\" (Deemo)، وأنمي \"جويباو\" (VOEZ) لم يتم تسليمه خلال إحدى عشرة سنة، ودخلت \"سدوريكا\" (Sdorica) في وضع الصيانة في فبراير 2026، وبعد حدث شفرة مورس لـ \"آيس\" (ICE) في عام 2020، جاء خيار فصل الموظفين للحفاظ على السوق الصينية. الجماليات جعلت رايارك تُرى من قبل العالم، وأوقعتها في كل مجال غير موسيقي.",
+        "category": "technology",
+        "href": "/ar/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "سو بينغ: مطعم زلابية غذّى ثورة تايوان لأربعين عاماً",
+        "desc": "سو بينغ، واسمه الأصلي شي تشاو-هوي، عمل كجاسوس للحزب الشيوعي الصيني قبل أن يصاب بخيبة أمل بعد رؤية مجازر الإصلاح الزراعي؛ فخطط لاغتيال تشيانغ كاي شيك ثم هرب إلى اليابان. افتتح مطعماً في إيكيبوكورو بطوكيو، يبيع الزلابية نهاراً ويكتب تاريخ تايوان ليلاً، ممولاً حركة الاستقلال لعقود.",
+        "category": "people",
+        "href": "/ar/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "موريس ياماموتو: ثلاث دوائر حكومية ومحكمة واحدة ترسم الوجه الرسمي لتايوان",
         "desc": "في عام 1906، جاء خريج جامعة طوكيو الإمبراطورية من عائلة أوساكا النبيلة إلى تايوان ليعمل مستشارًا، وصمم أول مبنى من الخرسانة المسلحة بالكامل في الإمبراطورية اليابانية. في السنوات الخمس عشرة التالية، أكمل موريس ياماموتو دوائر تايبيه وتايتشونغ وتاينان الحكومية، ومحكمة تاينان، ومكتب الاحتكار، وقسم السكك الحديدية والمقر العام للحاكم العام لتايوان. أسلوبه في التعامل مع المواقع غير المتماثلة والأعمدة المركبة والممرات ثنائية الاتجاه أعطى السلطة الاستعمارية شكلًا ملموسًا، وترك ثلاثة مبانٍ من الطوب الأحمر اليوم: مقر هيئة المراقبة ودائرة تايتشونغ الحكومية والمتحف الوطني لأدب تايوان.",
@@ -2938,63 +2992,63 @@
         "date": "2026-10-10T23:41:04+08:00",
         "readingTime": null,
         "image": ""
-      },
+      }
+    ],
+    "ru": [
       {
-        "title": "تسينغ بو إن: يستطيع حساب النكات، لكنه لا يستطيع حساب المجتمع",
-        "desc": "تسينغ بو إن، المولود عام 1990، انتقل من سماعات الرأس على مقاعد مدرسة جيانغونغ الثانوية، إلى تخصص مزدوج في اللغات الأجنبية وعلم النفس في جامعة تايوان الوطنية، وعلم الدماغ والعقل في جامعة لندن، وماجستير في البيولوجيا التكاملية في جامعة باريس السادسة، ثم انقلب مساره في عشية تقديم طلب الدكتوراه نحو الكوميديا الارتجالية. أسس مع شيه تشينغ-هاو شركة \"ساتير إنترتينمنت\"، ودفعا بالكوميديا الارتجالية التايوانية من \"أوبن مايك\" في \"كاميدي\" إلى أرينا الصغيرة التي تتسع لـ 13000 شخص، واستخدم نفس دقة عالم الأعصاب، لكنهما أخطأا في تقدير وزن المشاعر الاجتماعية لنكتة تشنغ نان-رونغ، وفيديو عامل التوصيل، وقضية ضريبة الترفيه.",
+        "title": "Линь Юйтин: от боксерской секции средней школы Инге до золотой медали Олимпийских игр в Париже",
+        "desc": "В августе 2024 года Линь Юйтин одержала победу над польской спортсменкой со счетом 5:0 в финальном бою в женской весовой категории до 57 кг на Олимпийских играх в Париже, завоевав для Тайваня первую олимпийскую золотую медаль в боксе. В данной статье систематизирована информация о ее пути от боксерской секции средней школы Инге, поражении на Олимпийских играх в Токио, аннулировании бронзовой медали чемпионата мира 2023 года и спорах о поле во время парижской Олимпиады, а также сведения о ее преподавательской деятельности, наградах после завоевания золота и текущем состоянии соревнований в 2026 году; каждое утверждение сопровождается источником.",
         "category": "people",
-        "href": "/ar/people/bernard-tseng",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "تشاو تزو تشيانغ: من تنوير فرقة لانلينغ المسرحية، إلى الروح غير المستسلمة تحت مريلة جدة الفاكهة",
-        "desc": "في عام 1984، انضم تشاو تزو تشيانغ إلى فرقة لانلينغ المسرحية بسبب إعلان «مجاني طوال العام»، مفتتحاً مسيرة أسطورية امتدت عبر المسرح والسينما والتلفزيون وفنون الأطفال. بشخصية «جدة الفاكهة»، أضفى الدفء على طفولة عدد لا يحصى من الأطفال، غير أنه في الواقع أسس «فرقة إذا للأطفال المسرحية» وتكبد ديوناً بالملايين، مظهراً «عزماً لا يلين» و«صلابة لا تستسلم» في مواجهة جائحة كورونا والأزمات المالية. إنها ممارسة عميقة لممثل كرس ثلاثين عاماً لحماية أحلام أطفال تايوان.",
-        "category": "people",
-        "href": "/ar/people/chao-tzu-chiang-childrens-theater",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "تشين جيان نيان: ملك الأغنية الذهبية في مركز الشرطة، أغنية الجد التي كتبها الحفيد لتصبح \"المحيط\"",
-        "desc": "وُلد في 1 أغسطس 1967 في قبيلة نانوانغ بينان في تايتونغ. تخرج من كلية الشرطة عام 1986 وعُين في غوانشان، تايتونغ، وخدم في الشرطة لمدة 30 عاماً و10 أشهر. في عام 1999، وفي سن 33 عاماً، أصدر أول ألبوم إبداعي له \"المحيط\"، وفي حفل جوائز الأغنية الذهبية الحادي عشر عام 2000، هزم جاكي تشيونغ، ووانغ ليهوم، وديفيد تاو، وهارلم يو ليفوز بجائزة أفضل مغني ماندوبوب، وفي نفس الحفل فازت أغنيته \"الأسطورة\" بجائزة أفضل تلحين. كان لا يزال شرطياً على خشبة المسرح. في سبتمبر من نفس العام، طلب النقل إلى جزيرة الأوركيد لتجنب المتاعب، وبقي هناك 17 عاماً حتى تقاعده. جده لو سينباو هو مؤلف \"سنابل الأرز الجميلة\"، واستغرق الحفيد ثلاثين عاماً لالتقاط خيط الموسيقى ذاك.",
-        "category": "people",
-        "href": "/ar/people/chen-chien-nien",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 8,
-        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
-      },
-      {
-        "title": "تشين هسينغ-يو: من ابنة الرئيس التي كانت تُلاحق بالأسئلة، إلى الطبيبة تشين في عيادة تاينان",
-        "desc": "من مطاردتها من قبل وسائل الإعلام في نيويورك عام 2009، إلى افتتاحها عيادة أسنان في تاينان عام 2016، كيف أعادت تشين هسينغ-يو حياتها إلى مهنة طب الأسنان تحت أنظار عائلة سياسية؟",
-        "category": "people",
-        "href": "/ar/people/chen-hsing-yu",
-        "date": "2026-10-10T23:41:04+08:00",
+        "href": "/ru/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "تشيانغ وي-وين: محارب الجاموس في حركة اللغة التايوانية",
-        "desc": "كيف أصبح خريج هندسة ميكانيكية أكثر المدافعين تطرفاً عن حركة اللغة التايوانية؟ من رفع اللافتات احتجاجاً على هوانغ تشون-مينغ في عام 2011 إلى أن أصبح خبيراً في الدراسات الفيتنامية، جسد تشيانغ وي-وين بممارسته الاعتقاد النهائي بأن اللغة هي الهوية.",
+        "title": "Нацжилищные комплексы и жилищная справедливость: дешевое жилье, построенное государством, в итоге создало чей имущественный лифт",
+        "desc": "В 1985 году за пин в жилом комплексе «Чэнгун» просили 67 тысяч, и покупателей не было; старый староста общины собрал 400 тысяч первоначального взноса, потратив все сбережения. Сорок лет спустя тот же адрес приближается к миллиону за пин. Нацжилищные комплексы создавались как инструмент «помочь людям купить жилье», но никогда не были оснащены шлюзом возврата прироста стоимости — публичные субсидии в итоге превратились в частные активы ранних покупателей. В 2026 году Таоюань устанавливает этот шлюз обратно, что равносильно признанию ошибки нацжилищных комплексов.",
+        "category": "society",
+        "href": "/ru/society/public-housing-justice",
+        "date": "2026-10-24T01:26:42+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "Лин Цинся",
+        "desc": "Рождённая в 1954 году и выросшая в поселке военных семей, в 1972 году в Симендине была замечена звездоохотчиком Яном Цы. После прослушивания по рекомендации её выбрали для главной роли в экранизации романа Цунь Яо «За окном»: благодаря чистому и невинному образу она стала богиней эпохи фильмов Цунь Яо. Вместе с Цинь Хань и Цинь Сянлинь составила классическую экранную пару, покорившую весь китайскоязычный мир, — её причёсы и одежда стали эталонами моды. В 1992 году снова вошла в историю уся-кино ролью Дунфан Байбай в красном платье, парящем в танце, таким образом объединив две эры: венэ и уся.",
         "category": "people",
-        "href": "/ar/people/chiung-wi-vun",
-        "date": "2026-10-10T23:41:04+08:00",
+        "href": "/ru/people/brigitte-lin-legendary-actress",
+        "date": "2026-10-23T00:48:55+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "لين تشانغ-تسو: من مغني تشثونيك إلى ساحة البرلمان، الشخص الذي غنى تاريخ تايوان كصوت عام",
-        "desc": "بصفته مغني تشثونيك فريدي، كتب لين تشانغ-تسو حادثة 28 فبراير، والإرهاب الأبيض، وحادثة موسها، وأساطير تايوان، والمعدن التايواني في الذاكرة العامة، وصنع مع شركائه مهرجان ميغابورت كمجال ثقافي جنوبي. الموسيقى، والوعي التايواني، والممارسة الثقافية، والسياسة المؤسسية، وتجربة الحياة العائلية، والدور العام بعد ترك المنصب، كلها متشابكة فيه، مشكلة طريقاً من المسرح إلى المجتمع والبرلمان والساحة الدولية.",
+        "title": "Раярк: музыкальная империя, основанная на эстетике, и её четырнадцатилетние трещины",
+        "desc": "В 2012 году шестеро молодых людей из Колледжа электротехники и информатики Тайваньского университета собрали NT$30 million и создали «Сайтус», который за месяц возглавил чарты в 14 странах. Четырнадцать лет спустя у них появился мультфильм по «Димо», мультфильм по «Цзюйбао» не был выпущен одиннадцать лет, «Сдорика» в феврале 2026 года перешла в режим обслуживания, после инцидента с азбукой Морзе «АЙС» в 2020 году они выбрали уволить сотрудников, чтобы сохранить китайский рынок. Эстетика сделала «Раярк» известной во всём мире, но также заставила её падать в каждой сфере, не связанной с музыкой.",
+        "category": "technology",
+        "href": "/ru/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Чэнь Синьюй: от дочери президента, которой задавали вопросы, к врачу Чэнь в клинике в Тайнани",
+        "desc": "От преследования СМИ в Нью-Йорке в 2009 году до открытия стоматологической клиники в Тайнани в 2016 году — как Чэнь Синьюй вернула жизнь в профессию стоматолога под пристальным взглядом политической семьи?",
         "category": "people",
-        "href": "/ar/people/freddy-lim",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 14,
-        "image": "/article-images/people/freddy-lim-chthonic-founder.webp"
-      }
-    ],
-    "ru": [
+        "href": "/ru/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Ши Мин: как одна пельменная прокормила тайваньскую революцию сорок лет",
+        "desc": "Ши Мин (настоящее имя Шь Чаохуэй) когда-то работал на китайских коммунистов в Китае, но разочаровался после того, как стал свидетелем убийств при аграрной реформе, вернулся на Тайвань, замышлял убийство Чан Кайши, после неудачи бежал в Японию. В Токио в Икебукро он открыл лапшу «Синьчжэньвэй», днём продавал пельмени, ночью писал историю Тайваня, и доходы этого заведения сорок лет финансировали движение за независимость Тайваня, а также создание книги «История тайваньского народа за четыреста лет», пробудившей национальное самосознание.",
+        "category": "people",
+        "href": "/ru/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
         "desc": "В 1906 году выпускник Токийского императорского университета из осакской аристократической семьи приехал на Тайвань консультантом и спроектировал первое в Японской империи здание из полностью железобетонного каркаса. За следующие пятнадцать лет Морияма Матносукэ последовательно завершил здания префектур Тайбэя, Тайчжуна и Тайнаня, суд Тайнаня, управление монополий, железнодорожное управление и здание генерал-губернатора Тайваня. Его методы работы с асимметричными участками, сложными ордерами и двойными циркуляциями придали конкретную форму власти колониального правительства и оставили три красно-кирпичных здания, где сегодня располагаются Контрольный юань, здание префектуры Тайчжуна и Национальный музей тайваньской литературы.",
@@ -3210,63 +3264,54 @@
         "date": "2026-10-10T23:42:41+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Q Series: как человек из ноутбуковой индустрии посеял семена возрождения тайваньского телесериала",
-        "desc": "В 2016 году технологический магнат Тун Цзысянь выделил финансирование, чтобы Вань Сяоди возглавила группу ведущих тайваньских режиссеров в проекте, идущем наперекор коммерческой логике: не снимать блокбастеры, а растить новичков.",
-        "category": "art",
-        "href": "/ru/art/qseries-drama-platform",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "Тайваньские национальные фильмы: голос у экрана и история кино, умиравшая и возрождавшаяся",
-        "desc": "В 1930 году в кинотеатрах бэнси стояли у экрана и импровизировали на тайваньском диалекте хоккьень озвучку немых фильмов; девяносто лет спустя «Мыс № 7» вернула на экран сразу пять языков. Фильмы на тайюе некогда занимали третье место в мире по выпуску художественных картин, но их удушили; в те годы, когда новое кино получало «Золотого льва» в Венеции, кассовые сборы национальных фильмов в прокате упали до всего 0,36 %. Национальное кино — это не прямая линия от плохого к хорошему, а история, которую не раз объявляли мёртвой, а она снова оживала.",
-        "category": "art",
-        "href": "/ru/art/taiwanese-cinema",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 18,
-        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
-      },
-      {
-        "title": "Elephant Gym: тайваньское трио, где никто не поёт, но песню слышно",
-        "desc": "От студенческой группы в музыкальных клубах при старшей школе при Каосюнском педагогическом университете и старшей школе для девочек в Каосюне до красной сцены Fuji Rock, Camp Flog Gnaw и ArcTangent — Elephant Gym потратили 13 лет, чтобы мир услышал тайваньский звук без вокалиста. После получения премии жюри «Золотой мелодии» в 2024 году они объявили о длительном перерыве; одновременно вышедший документальный фильм «Более реальный, чем сны» раскрывает, что перед туром 2023 года группа стояла на грани распада.",
-        "category": "music",
-        "href": "/ru/music/elephant-gymnastics",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": null,
-        "image": "/article-images/music/elephant-gym-portland-2024.webp"
-      },
-      {
-        "title": "Фольклор и песни Тайваня: от похищения к мировому прослушиванию",
-        "desc": "В 1996 году на открытии Олимпийских игр в Атланте звучала древняя песня певца аме́йского племени Тайваня, но сам певец узнал об этом лишь через судебный процесс 1998 года. Эта абсурдная история отражает судьбу тайваньского фольклора — от затемнения до повторного определения собственного голоса",
-        "category": "music",
-        "href": "/ru/music/taiwan-folk-music-and-songs",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Платформа Цзюньи: передача детям инициативы в обучении, но нельзя полагаться только на один сайт",
-        "desc": "Начиная с 2012 года с локализации Академии Хана, Платформа Цзюньи принесла бесплатные цифровые учебные материалы в отдаленные районы и города; однако её настоящая задача — не только преодоление разрыва в контенте, но и решение проблем на местах: времени учителей, технического оснащения и способности детей к постоянному самообучению.",
-        "category": "technology",
-        "href": "/ru/technology/junyi-academy",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "PTT: Самая упрямая публичная площадь Тайваня",
-        "desc": "BBS, развёрнутый в 1995 году в общежитии, спустя тридцать лет продолжает работать на чисто текстовом интерфейсе, однако глубоко сформировал тайваньский сетевой язык, политические дискуссии и коллективную память",
-        "category": "technology",
-        "href": "/ru/technology/ptt-bulletin-board-system",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "de": [
+      {
+        "title": "Lin Yu-ting: Vom Boxteam der Yingge Junior High School zur Goldmedaille bei den Olympischen Spielen in Paris",
+        "desc": "Im August 2024 besiegte Lin Yu-ting im Goldmedaillenkampf der Frauen bis 57 kg bei den Olympischen Spielen in Paris ihre polnische Gegnerin mit 5:0 und sicherte Taiwan die erste olympische Goldmedaille im Boxen. Der Artikel fasst ihren Werdegang vom Boxteam der Yingge Junior High School, ihre Niederlage bei den Olympischen Spielen in Tokio, die Aberkennung ihrer Bronzemedaille bei den Weltmeisterschaften 2023, die Geschlechterkontroverse während der Olympischen Spiele in Paris sowie ihre Lehrtätigkeit, Auszeichnungen und Wettkampfupdates für 2026 nach dem Goldgewinn zusammen – jede Aussage ist mit Quellen belegt.",
+        "category": "people",
+        "href": "/de/people/lin-yu-ting-boxer",
+        "date": "2026-10-24T08:48:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Das rotierende globale Herzstück: Die Transformation der taiwanesischen Fahrradindustrie vom Fertigungsreich zum Innovationszentrum",
+        "desc": "Wie ist das „Fahrradreich“ Taiwan von traditioneller Fertigung in den 1970er Jahren über die A-Team-Konkurrenz des Jahrhunderts bis hin zur heutigen Führung im Bereich High-End-Carbon, E-Bikes und ESG-grüner Produktion gelangt?",
+        "category": "technology",
+        "href": "/de/technology/taiwan-bicycle-industry",
+        "date": "2026-10-21T22:29:28+08:00",
+        "readingTime": 25,
+        "image": ""
+      },
+      {
+        "title": "Rayark: Das auf Ästhetik gegründete Musikimperium und seine Risse nach vierzehn Jahren",
+        "desc": "2012 schlossen sich sechs junge Absolventen der Fakultät für Elektrotechnik und Informatik der Nationalen Universität Taiwan zusammen, legten 30 Millionen New Taiwan Dollar zusammen und entwickelten „Cytus“, das innerhalb eines Monats in 14 Ländern die Spitzenplätze der Charts erreichte. Vierzehn Jahre später haben sie einen Deemo-Anime, der Implosion-Anime wurde nach elf Jahren noch nicht geliefert, Sdorica geht im Februar 2026 in den Wartungsmodus, und nach dem ICE-Morsecode-Vorfall 2020 entschieden sie sich, Mitarbeiter zu opfern, um den chinesischen Markt zu halten. Die Ästhetik ließ Rayark von der Welt wahrnehmen, brachte es aber in jedem nicht-musikalischen Bereich zu Fall.",
+        "category": "technology",
+        "href": "/de/technology/rayark-games",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/rayark-cafe-2021.webp"
+      },
+      {
+        "title": "Chen Hsing-yu: Von der bedrängten Präsidententochter zu Dr. Chen in der Tainan-Praxis",
+        "desc": "Von der Medienverfolgung 2009 in New York bis zur Eröffnung einer Zahnarztpraxis 2016 in Tainan: Wie holte Chen Hsing-yu ihr Leben unter den Blicken einer politischen Familie zurück in die Zahnmedizin?",
+        "category": "people",
+        "href": "/de/people/chen-hsing-yu",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: Mit einem Knödelladen vierzig Jahre lang die taiwanesische Revolution finanziert",
+        "desc": "Su Beng, mit bürgerlichem Namen Shi Chao-hui, arbeitete einst in China als Untergrundagent für die Kommunistische Partei, wandte sich jedoch nach eigenen Beobachtungen der Tötungen während der Bodenreform davon ab. Zurück in Taiwan plante er ein Attentat auf Chiang Kai-shek, floh nach dessen Scheitern 1952 nach Japan. In Tokios Stadtteil Ikebukuro eröffnete er das Nudelrestaurant „Shin Chin-mi“, verkaufte tagsüber Knödel und schrieb nachts taiwanesische Geschichte – mit dem Einkommen aus diesem Laden finanzierte er vierzig Jahre lang die taiwanesische Unabhängigkeitsbewegung und verfasste das das taiwanesische Nationalbewusstsein weckende Werk „Vierhundert Jahre Geschichte des taiwanesischen Volkes“.",
+        "category": "people",
+        "href": "/de/people/su-beng",
+        "date": "2026-10-21T19:44:30+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "Matsunosuke Moriyama: Mit drei Präfekturhäusern und einem Gerichtszentrum das offizielle Gesicht Taiwans zeichnen",
         "desc": "1906 kam ein Absolvent der Kaiserlichen Universität Tokio aus einer angesehenen Osaka-Familie nach Taiwan und entwarf das erste reine Stahlbetongebäude des japanischen Kaiserreichs. In den folgenden fünfzehn Jahren vollendete Matsunosuke Moriyama die Präfekturhäuser von Taipeh, Taichung und Tainan sowie das Gericht von Tainan, das Monopolamt, das Eisenbahnministerium und das Generalgouvernement von Taiwan. Seine Handhabung asymmetrischer Grundstücke, Kompositkapitelle und getrennter Verkehrsströme verlieh der Macht der Kolonialregierung eine konkrete Form und hinterließ die drei Backsteingebäude, in denen sich heute das Kontrollrechtliche Amt (Control Yuan), das Präfekturhaus Taichung und das Nationalen Museum für Literatur in Taiwan befinden.",
@@ -3491,51 +3536,6 @@
         "date": "2026-10-10T23:34:07+08:00",
         "readingTime": 18,
         "image": "/article-images/geography/guling-street-nanhai-academy-2024.webp"
-      },
-      {
-        "title": "Taipeh: Taiwans Ein- und Ausgangspforte, die meisten Hakka, die meisten Zuwanderer – alles auf diesem Stück Ebene",
-        "desc": "Am 19. November 1977 versammelten sich Zehntausende vor dem Polizeirevier Zhongli, die Polizei schoss in die Menge und tötete den Studenten der Nationalen Zentraluniversität Jiang Wenxiu und den 19-Jährigen Zhang Zhiping; Xu Xingliang gewann mit 230.000 Stimmen gegen 140.000 Stimmen zum County-Executive of Taoyuan. Einen Jahr und drei Monate später, am 26. Februar 1979, eröffnete der Flughafen Taoyuan, und Taiwans Tür zur Welt zog sich von Keelung nach diesem Stück Land. 2014, am 25. Dezember, wurde Taoyuan zur sechsten Großstadt – die letzte der sechs. Heute leben 2,35 Millionen Menschen auf dieser 1.221 km² großen Ebene, mehr als 800.000 Hakka – die meisten im Land – und 132.158 Zuwanderer – ebenfalls die meisten im Land. Taoyuan ist Taiwans vielfältigste Grenze.",
-        "category": "geography",
-        "href": "/de/geography/taoyuan-city",
-        "date": "2026-10-10T23:34:07+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Taiwanische Spielfilme: Die sprechende Stimme neben dem Bildschirm und eine Filmgeschichte, die gestorben und wiederbelebt wurde",
-        "desc": "In den Kinos der 1930er Jahre improvisierten Redner auf Taiwanisch neben den Leinwänden für Stummfilme; neunzig Jahre später brachte „Seven Seas“ fünf Sprachen auf die Leinwand. Die taiwanesische Filmschule war einst einer der weltweit drittgrößten Produzenten von Spielfilmen, wurde aber zum Schweigen gebracht. Während neue Filme in Venedig den Goldenen Löwen gewannen, sanken die Kinokassen der nationalen Filme auf nur 0,36 %. Der taiwanische Film ist keine gerade Linie vom schlechten zum guten, sondern eine Geschichte, die immer wieder als tot erklärt und doch wiederbelebt wurde.",
-        "category": "art",
-        "href": "/de/art/taiwanese-cinema",
-        "date": "2026-10-10T23:34:07+08:00",
-        "readingTime": 18,
-        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
-      },
-      {
-        "title": "Sunset Rollercoaster: Von einem Photo Booth Hintergrund zu Coachella – 14 Jahre englischsprachiger Indie-Rock aus Taipei",
-        "desc": "Ein 19-Jähriger wählt ein Photo Booth Preset als Bandname. 14 Jahre später spielen Sunset Rollercoaster auf Coachella – die erste taiwanesische Band auf dieser großen Bühne seit über 20 Jahren. Mit englischsprachigem City Pop und ohne industrielle Rückenstützung machten sie Taiwan weltweit hörbarer.",
-        "category": "music",
-        "href": "/de/music/sunset-rollercoaster",
-        "date": "2026-10-10T23:34:07+08:00",
-        "readingTime": "12min",
-        "image": "/article-images/music/sunset-rollercoaster-live-2018.webp"
-      },
-      {
-        "title": "Tsai Ming-liang",
-        "desc": "Der 1957 in Sarawak, Malaysia, geborene Regisseur kam 1977 nach Taiwan, um Theater zu studieren. Mit „Rebels of the Neon God“ etablierte er 1992 seinen persönlichen Stil. 1994 gewann er mit „Vive L'Amour“ den Goldenen Löwen in Venedig und wurde nach Hou Hsiao-hsien und Zhang Yimou der dritte chinesische Regisseur, dem diese Auszeichnung zuteilwurde. Durch extrem lange Einstellungen, spärliche Dialoge und ein langsames Tempo thematisiert er die Einsamkeit und Entfremdung des Stadtmenschen und entwickelte von „Vive L'Amour“ bis zur Walker-Serie eine einzigartige Ästhetik des Slow Cinema.",
-        "category": "people",
-        "href": "/de/people/tsai-ming-liang",
-        "date": "2026-10-10T23:34:07+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Modernisierung der Fischerei in Taiwan: Wie ein Netz von Qianzhen, drei Ozeanen und einer Insel den Tisch füllt",
-        "desc": "Von der Fischpolitik der japanischen Kolonialzeit über die Fischerhäfen und Kühlanlagen nach dem Krieg bis hin zu den Entwicklungsplänen für Hochseefischerei von 1979, dem System der ausschließlichen Wirtschaftszone von 1982 und internationalen Sanktionen von 2005: Die Geschichte zeigt, wie die Fischerei von einer Küstenfischerei zu einem transozeanischen Industriezweig wurde. Der Artikel beleuchtet zudem Fischereischulen, aquatische Forschung, Exportaquakultur, Fischerfamilien, Hafenvielfalt und Flaggenstaatverantwortung, um die Ressourcen-, Arbeits- und Governance-Aspekte hinter dem Produktionswachstum darzustellen.",
-        "category": "history",
-        "href": "/de/history/taiwan-fishery-modernization",
-        "date": "2026-10-10T23:28:21+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ]
   }

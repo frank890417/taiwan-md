@@ -1,0 +1,254 @@
+{
+  "overview": {
+    "kicker": {
+      "zh-TW": "從 1950 年看到今天",
+      "en": "From 1950 to today"
+    },
+    "title": {
+      "zh-TW": "七十五年，台灣變成今天這個樣子",
+      "en": "Seventy-five years: how Taiwan became what it is today"
+    },
+    "essay": {
+      "zh-TW": "1950 年底，台灣有 755 萬人，那一年出生了 32 萬個嬰兒。1951 年平均每人 GDP 換算成美元是 154 元（名目，當年 1 美元兌 10.3 元新臺幣），1960 年農業還占全國產值的二成八。戒嚴令從 1949 年 5 月 20 日起實施，一實施就是三十八年。\n\n接下來七十五年，人口一路長到 2019 年底 2,360 萬人的高點，然後開始減少。出生數在 1963 年最多，有 42.7 萬人，2025 年只剩 10.8 萬人。平均每人 GDP 在 2025 年是 39,515 美元，農業占產值跌到 1.44%，工業的比重則從 2000 年之後回升，2025 年是 43.45%，是 1987 年以來最高。\n\n這些變化發生的先後，解釋了台灣今天的很多樣子：經濟起飛在戒嚴時期就開始了，1966 年高雄加工出口區啟用，1980 年新竹科學園區啟用。民主化接在經濟成熟之後，1987 年解嚴，同一年台積電成立，1996 年第一次總統直選，2000 年第一次政黨輪替。\n\n所以今天的台灣同時是這幾件事：5 奈米以下的先進晶片約九成由台積電生產，每 5 個人就有 1 位 65 歲以上，解嚴到現在還不到四十年。三件事互相牽動，晶片帶來的成長要撐起一個正在變老的社會，成長怎麼分配，交給一個年輕的民主來決定。\n\n下面七章，每一章從一個數字切進去：它怎麼變成今天這樣、會推動社會的哪些地方，再連到站上相關的文章。",
+      "en": "At the end of 1950 Taiwan had 7.55 million people, and 320,000 babies were born that year. GDP per person in 1951 came to US$154 (nominal, at that year's rate of NT$10.3 to the dollar), and in 1960 farming still made up 28% of national output. Martial law took effect on 20 May 1949 and lasted thirty-eight years.\n\nOver the next seventy-five years, the population grew to a peak of 23.6 million at the end of 2019 and then began to fall. Births peaked in 1963 at 427,000; in 2025 there were 108,000. GDP per person reached US$39,515 in 2025; farming's share of output fell to 1.44%, while industry's share has climbed back since 2000, to 43.45% in 2025, its highest since 1987.\n\nThe order in which these changes happened explains a great deal about Taiwan today: the economic take-off began under martial law, with the Kaohsiung Export Processing Zone opening in 1966 and Hsinchu Science Park in 1980. Democratisation followed a mature economy: martial law was lifted in 1987, the year TSMC was founded; the first direct presidential election came in 1996 and the first change of ruling party in 2000.\n\nSo Taiwan today is several things at once. About 90% of the world's most advanced chips, at 5 nanometres and below, are made by TSMC; one person in five is 65 or older; and martial law ended less than forty years ago. The three pull on one another: the growth chips bring has to support an ageing society, and how that growth is shared is decided by a young democracy.\n\nEach of the seven chapters below starts from one number: how it came to be what it is, what it sets in motion across society, and which stories on the site tell more."
+    },
+    "chartTitle": {
+      "zh-TW": "出生數最多的一年是 1963 年，人口要到 2019 年才到頂",
+      "en": "Births peaked in 1963; the population did not peak until 2019"
+    },
+    "source": {
+      "zh-TW": "內政部戶政司人口統計資料（年底人口、出生數、三階段人口）、主計總處國民所得統計（平均每人 GDP、產業結構）。1970 年以前的人口與出生數不含金門、連江（1963 年出生數是含金馬的全國數字）。每人 GDP 以當年匯率換算成美元，1955 到 1960 年的下降來自匯率變動。1960 到 1980 年的產業結構是舊制國民所得口徑，跟之後的數字不宜直接相減。",
+      "en": "Department of Household Registration (year-end population, births, population by age group); DGBAS national accounts (GDP per person, industry structure). Population and births before 1975 exclude Kinmen and Lienchiang (the 1963 birth figure is the national total including them). GDP per person is converted to US dollars at each year's exchange rate; the fall from 1955 to 1960 reflects the exchange rate. Industry shares for 1960–1980 use an older national-accounts definition and should not be compared directly with later figures."
+    },
+    "x0": 1950,
+    "x1": 2025,
+    "bands": [
+      {
+        "id": "population",
+        "label": {
+          "zh-TW": "人口",
+          "en": "Population"
+        },
+        "unit": {
+          "zh-TW": "人，年底",
+          "en": "people, year-end"
+        },
+        "format": "count",
+        "zero": true,
+        "series": [
+          [1950, 7554399],
+          [1955, 9077643],
+          [1960, 10792202],
+          [1965, 12628348],
+          [1970, 14675964],
+          [1975, 16223089],
+          [1980, 17866008],
+          [1985, 19313825],
+          [1990, 20401305],
+          [1995, 21357431],
+          [2000, 22276672],
+          [2005, 22770383],
+          [2010, 23162123],
+          [2015, 23492074],
+          [2019, 23603121],
+          [2020, 23561236],
+          [2025, 23299132]
+        ]
+      },
+      {
+        "id": "births",
+        "label": {
+          "zh-TW": "出生數",
+          "en": "Births"
+        },
+        "unit": {
+          "zh-TW": "人，全年",
+          "en": "per year"
+        },
+        "format": "count",
+        "zero": true,
+        "series": [
+          [1950, 323643],
+          [1955, 403683],
+          [1960, 419442],
+          [1963, 427212],
+          [1965, 406604],
+          [1970, 394015],
+          [1975, 369349],
+          [1980, 413881],
+          [1985, 346208],
+          [1990, 335618],
+          [1995, 329581],
+          [2000, 305312],
+          [2005, 205854],
+          [2010, 166886],
+          [2015, 213598],
+          [2020, 165249],
+          [2025, 107812]
+        ]
+      },
+      {
+        "id": "aged",
+        "label": {
+          "zh-TW": "65 歲以上",
+          "en": "Aged 65+"
+        },
+        "unit": {
+          "zh-TW": "占總人口 %",
+          "en": "% of population"
+        },
+        "format": "percent",
+        "decimals": 1,
+        "zero": true,
+        "series": [
+          [1950, 2.5],
+          [1955, 2.45],
+          [1960, 2.48],
+          [1965, 2.65],
+          [1970, 2.92],
+          [1975, 3.5],
+          [1980, 4.29],
+          [1985, 5.06],
+          [1990, 6.22],
+          [1995, 7.64],
+          [2000, 8.62],
+          [2005, 9.74],
+          [2010, 10.74],
+          [2015, 12.51],
+          [2020, 16.07],
+          [2025, 20.06]
+        ]
+      },
+      {
+        "id": "gdppc",
+        "label": {
+          "zh-TW": "平均每人 GDP",
+          "en": "GDP per person"
+        },
+        "unit": {
+          "zh-TW": "美元，名目",
+          "en": "US$, nominal"
+        },
+        "format": "number",
+        "zero": true,
+        "series": [
+          [1951, 154],
+          [1955, 216],
+          [1960, 163],
+          [1965, 229],
+          [1970, 397],
+          [1975, 985],
+          [1980, 2389],
+          [1985, 3314],
+          [1990, 8205],
+          [1995, 13119],
+          [2000, 14908],
+          [2005, 16456],
+          [2010, 19197],
+          [2015, 22780],
+          [2020, 28705],
+          [2025, 39515]
+        ]
+      },
+      {
+        "id": "agri",
+        "label": {
+          "zh-TW": "農業占產值",
+          "en": "Farming's share of output"
+        },
+        "unit": {
+          "zh-TW": "占 GDP %",
+          "en": "% of GDP"
+        },
+        "format": "percent",
+        "decimals": 1,
+        "zero": true,
+        "series": [
+          [1960, 28.21],
+          [1965, 23.38],
+          [1970, 15.26],
+          [1975, 12.49],
+          [1980, 7.5],
+          [1985, 5.71],
+          [1990, 4.0],
+          [1995, 3.31],
+          [2000, 2.02],
+          [2005, 1.64],
+          [2010, 1.61],
+          [2015, 1.76],
+          [2020, 1.6],
+          [2025, 1.44]
+        ]
+      }
+    ],
+    "eras": [
+      {
+        "from": 1950,
+        "to": 1987,
+        "label": {
+          "zh-TW": "戒嚴時期（1949–1987）",
+          "en": "Martial law (1949–1987)"
+        }
+      },
+      {
+        "from": 1987,
+        "to": 2025,
+        "label": {
+          "zh-TW": "解嚴之後",
+          "en": "After martial law"
+        }
+      }
+    ],
+    "marks": [
+      {
+        "year": 1966,
+        "label": {
+          "zh-TW": "高雄加工出口區啟用",
+          "en": "Kaohsiung Export Processing Zone opens"
+        }
+      },
+      {
+        "year": 1980,
+        "label": {
+          "zh-TW": "新竹科學園區啟用",
+          "en": "Hsinchu Science Park opens"
+        }
+      },
+      {
+        "year": 1987,
+        "label": {
+          "zh-TW": "解嚴、台積電成立",
+          "en": "Martial law lifted; TSMC founded"
+        }
+      },
+      {
+        "year": 1995,
+        "label": {
+          "zh-TW": "全民健保開辦",
+          "en": "National Health Insurance begins"
+        }
+      },
+      {
+        "year": 1996,
+        "label": {
+          "zh-TW": "第一次總統直選",
+          "en": "First direct presidential election"
+        }
+      },
+      {
+        "year": 2000,
+        "label": {
+          "zh-TW": "第一次政黨輪替",
+          "en": "First change of ruling party"
+        }
+      },
+      {
+        "year": 2019,
+        "label": {
+          "zh-TW": "人口到頂（年底 2,360 萬人）",
+          "en": "Population peaks (23.6 million at year-end)"
+        }
+      }
+    ]
+  }
+}

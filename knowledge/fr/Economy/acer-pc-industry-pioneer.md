@@ -209,7 +209,7 @@ Cet article utilise 5 images sous licence CC / Domaine public, toutes mises en c
 
 - [Portrait de Shih Chih-jung à Taipei en 2014](https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg) — Photo : Tony Tseng, 2014-12-05, CC BY 2.0
 - [Ordinateur Petit Professeur I MPF-I](https://commons.wikimedia.org/wiki/File:Mpf-I.jpg) — Photo : Toytoy, photographié à l'Université Nationale de Transport de Communication, CC BY-SA 2.0
-- [Ordinateur Petit Professeur II MPF-II](<https://commons.wikimedia.org/wiki/File:Multitech_Microprofessor_II_Tietokonemuseo_(cropped) — Photo : MKFI/Ubcule, photographié au musée de l'ordinateur d'Helsinki, Domaine public
+- [Ordinateur Petit Professeur II MPF-II](<https://commons.wikimedia.org/wiki/File:Multitech_Microprofessor_II_Tietokonemuseo_(cropped).JPG>) — Photo : MKFI/Ubcule, photographié au musée de l'ordinateur d'Helsinki, Domaine public
 - [PC portable gaming Predator Helios 300](https://commons.wikimedia.org/wiki/File:Acer_Predator_Helios_300_back_panel_open.jpg) — Photo : Vjdeep, CC BY 3.0
 - [Acer Chromebook CB3-111](https://commons.wikimedia.org/wiki/File:Acer_Chromebook_CB3_111_B%26H_jeh.JPG) — Photo : Jim.henderson, CC0
 

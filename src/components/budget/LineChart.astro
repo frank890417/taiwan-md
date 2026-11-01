@@ -98,19 +98,26 @@ const {
 const zh = lang === 'zh-TW';
 const uid =
   id ||
-  `lc-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
-const allVals = series.flatMap((s) => s.values.filter((v): v is number => v !== null));
+  `lc-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const allVals = series.flatMap((s) =>
+  s.values.filter((v): v is number => v !== null),
+);
 const dataMax = Math.max(0, ...allVals);
 const ticks = niceTicks(yMax ?? dataMax, 5);
 const top = ticks[ticks.length - 1];
-const fmtV = (v: number) => (unit === '%' ? `${v.toFixed(1)}%` : fmtYi(v, lang));
+const fmtV = (v: number) =>
+  unit === '%' ? `${v.toFixed(1)}%` : fmtYi(v, lang);
 
 function layout(W: number, narrow: boolean) {
   const H = narrow ? Math.round(height * 0.82) : height;
   const longest = Math.max(0, ...series.map((s) => estTextW(s.label)));
   const M = {
     l: narrow ? 44 : 58,
-    r: narrow ? Math.max(84, Math.min(130, longest + 12)) : Math.max(118, Math.min(220, longest + 16)),
+    r: narrow
+      ? Math.max(84, Math.min(130, longest + 12))
+      : Math.max(118, Math.min(220, longest + 16)),
     t: 22,
     b: 34,
   };
@@ -119,7 +126,10 @@ function layout(W: number, narrow: boolean) {
   // 時期底色帶（先算，因為窄版要把標籤排到 x 軸下方，需要知道用了幾行才能決定底邊距）
   const eraBands = eras.map((e) => {
     const x0 = Math.max(M.l, x(Math.max(e.from, years[0]) - 0.5));
-    const x1 = Math.min(M.l + iw, x(Math.min(e.to, years[years.length - 1]) + 0.5));
+    const x1 = Math.min(
+      M.l + iw,
+      x(Math.min(e.to, years[years.length - 1]) + 0.5),
+    );
     const w = x1 - x0;
     const text = (w < 150 || narrow) && e.short ? e.short : e.label;
     const est = estTextW(text, 10.5, 6);
@@ -135,18 +145,25 @@ function layout(W: number, narrow: boolean) {
         tx = x1 - 4;
       }
     }
-    const lx0 = anchor === 'start' ? tx : anchor === 'end' ? tx - est : tx - est / 2;
+    const lx0 =
+      anchor === 'start' ? tx : anchor === 'end' ? tx - est : tx - est / 2;
     return { ...e, x0, x1, text, anchor, tx, row: 0, lx0, lx1: lx0 + est };
   });
   // 標籤碰撞：同一行放不下就往下一行（最多三行）——手機窄版三個時期標籤會互撞
   const rowsUsed: { lx0: number; lx1: number }[][] = [[], [], []];
   for (const e of eraBands) {
     let r = 0;
-    while (r < 2 && rowsUsed[r].some((o) => e.lx0 < o.lx1 + 8 && e.lx1 + 8 > o.lx0)) r++;
+    while (
+      r < 2 &&
+      rowsUsed[r].some((o) => e.lx0 < o.lx1 + 8 && e.lx1 + 8 > o.lx0)
+    )
+      r++;
     e.row = r;
     rowsUsed[r].push({ lx0: e.lx0, lx1: e.lx1 });
   }
-  const eraRows = eraBands.length ? Math.max(...eraBands.map((e) => e.row)) + 1 : 0;
+  const eraRows = eraBands.length
+    ? Math.max(...eraBands.map((e) => e.row)) + 1
+    : 0;
   // 窄版：時期標籤排在 x 軸年份下方（像一條「時期軸」），不跟線與註記搶圖內空間
   const eraBelow = narrow && eraRows > 0;
   if (eraBelow) M.b += eraRows * 13 + 2;
@@ -155,12 +172,19 @@ function layout(W: number, narrow: boolean) {
   const paths = series.map((s) => {
     const pts = s.values
       .map((v, i) => (v === null ? null : { x: x(years[i]), y: y(v), i, v }))
-      .filter((p): p is { x: number; y: number; i: number; v: number } => p !== null);
+      .filter(
+        (p): p is { x: number; y: number; i: number; v: number } => p !== null,
+      );
     const last = pts.length ? pts[pts.length - 1] : null;
     return {
       s,
       d: linePath(pts),
-      area: s.area ? areaPath(pts, pts.map((p) => ({ x: p.x, y: y(0) }))) : '',
+      area: s.area
+        ? areaPath(
+            pts,
+            pts.map((p) => ({ x: p.x, y: y(0) })),
+          )
+        : '',
       pts,
       last,
     };
@@ -168,10 +192,16 @@ function layout(W: number, narrow: boolean) {
   // 末端標籤防重疊：依 y 排序後最小間距 14px
   const endLabels = paths
     .filter((p) => p.last)
-    .map((p) => ({ p, ly: y(p.last!.v), label: p.s.label, cls: p.s.cls || 'bg-s0' }))
+    .map((p) => ({
+      p,
+      ly: y(p.last!.v),
+      label: p.s.label,
+      cls: p.s.cls || 'bg-s0',
+    }))
     .sort((a, b) => a.ly - b.ly);
   for (let i = 1; i < endLabels.length; i++) {
-    if (endLabels[i].ly - endLabels[i - 1].ly < 14) endLabels[i].ly = endLabels[i - 1].ly + 14;
+    if (endLabels[i].ly - endLabels[i - 1].ly < 14)
+      endLabels[i].ly = endLabels[i - 1].ly + 14;
   }
   // 差距色帶：upper 與 lower 兩序列之間
   let gap: { d: string; lx: number; ly: number; label?: string } | null = null;
@@ -179,9 +209,17 @@ function layout(W: number, narrow: boolean) {
     const up = series.find((s) => s.id === gapBand.upper);
     const lo = series.find((s) => s.id === gapBand.lower);
     if (up && lo) {
-      const idx = years.map((_, i) => i).filter((i) => up.values[i] !== null && lo.values[i] !== null);
-      const topPts = idx.map((i) => ({ x: x(years[i]), y: y(up.values[i] as number) }));
-      const botPts = idx.map((i) => ({ x: x(years[i]), y: y(lo.values[i] as number) }));
+      const idx = years
+        .map((_, i) => i)
+        .filter((i) => up.values[i] !== null && lo.values[i] !== null);
+      const topPts = idx.map((i) => ({
+        x: x(years[i]),
+        y: y(up.values[i] as number),
+      }));
+      const botPts = idx.map((i) => ({
+        x: x(years[i]),
+        y: y(lo.values[i] as number),
+      }));
       let bi = idx[0];
       let best = -1;
       for (const i of idx) {
@@ -191,7 +229,8 @@ function layout(W: number, narrow: boolean) {
           bi = i;
         }
       }
-      const li = gapBand.labelYear !== undefined ? years.indexOf(gapBand.labelYear) : bi;
+      const li =
+        gapBand.labelYear !== undefined ? years.indexOf(gapBand.labelYear) : bi;
       gap = {
         d: areaPath(topPts, botPts),
         lx: x(years[li]),
@@ -206,8 +245,29 @@ function layout(W: number, narrow: boolean) {
     label: b.label,
   }));
   const step = narrow ? 5 : years.length > 8 ? 2 : 1;
-  const xTicks = years.filter((_, i) => i % step === 0 || i === years.length - 1);
-  return { W, H, M, iw, ih, x, y, paths, endLabels, eraBands, gap, hBands, xTicks, narrow, eraBelow };
+  // 最後一年一定標；若它前一個刻度只差 1–2 年（例：2026 與 2027）就讓位，避免窄版兩個年份貼在一起
+  const xTicks = years.filter(
+    (yr, i) =>
+      i === years.length - 1 ||
+      (i % step === 0 && years.length - 1 - i > (narrow ? 2 : 0)),
+  );
+  return {
+    W,
+    H,
+    M,
+    iw,
+    ih,
+    x,
+    y,
+    paths,
+    endLabels,
+    eraBands,
+    gap,
+    hBands,
+    xTicks,
+    narrow,
+    eraBelow,
+  };
 }
 const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
 ---
@@ -228,7 +288,12 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {/* 時期底色帶 */}
         {L.eraBands.map((e) => (
           <g class={`bg-era ${e.cls || ''}`}>
-            <rect x={e.x0} y={L.M.t} width={Math.max(0, e.x1 - e.x0)} height={L.ih} />
+            <rect
+              x={e.x0}
+              y={L.M.t}
+              width={Math.max(0, e.x1 - e.x0)}
+              height={L.ih}
+            />
             <text
               x={e.tx}
               y={
@@ -248,7 +313,12 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {/* 水平區間底帶（例：八年窄帶） */}
         {L.hBands.map((b) => (
           <g class="bg-hband">
-            <rect x={L.M.l} y={b.y0} width={L.iw} height={Math.max(2, b.y1 - b.y0)} />
+            <rect
+              x={L.M.l}
+              y={b.y0}
+              width={L.iw}
+              height={Math.max(2, b.y1 - b.y0)}
+            />
             {b.label && (
               <text x={L.M.l + 6} y={b.y0 - 5} class="bg-hband-lab">
                 {b.label}
@@ -260,24 +330,45 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {ticks.map((t) => (
           <g class="bg-grid">
             <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(t)} y2={L.y(t)} />
-            <text x={L.M.l - 8} y={L.y(t) + 4} text-anchor="end" class="bg-tick">
+            <text
+              x={L.M.l - 8}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
               {fmtAxis(t, unit, lang)}
             </text>
           </g>
         ))}
         {/* x 刻度 */}
         {L.xTicks.map((yr) => (
-          <text x={L.x(yr)} y={L.M.t + L.ih + 20} text-anchor="middle" class="bg-tick">
+          <text
+            x={L.x(yr)}
+            y={L.M.t + L.ih + 20}
+            text-anchor="middle"
+            class="bg-tick"
+          >
             {yr}
           </text>
         ))}
-        <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(0)} y2={L.y(0)} class="bg-axis" />
+        <line
+          x1={L.M.l}
+          x2={L.M.l + L.iw}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="bg-axis"
+        />
         {/* 差距色帶（兩序列之間） */}
         {L.gap && (
           <g class="bg-gapband">
             <path d={L.gap.d} />
             {L.gap.label && !L.narrow && (
-              <text x={L.gap.lx} y={L.gap.ly + 4} text-anchor="end" class="bg-gapband-lab">
+              <text
+                x={L.gap.lx}
+                y={L.gap.ly + 4}
+                text-anchor="end"
+                class="bg-gapband-lab"
+              >
                 {L.gap.label}
               </text>
             )}
@@ -287,9 +378,19 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {L.paths.map((p) => (
           <g class={`bg-series ${p.s.cls || 'bg-s0'}`} data-series={p.s.id}>
             {p.area && <path d={p.area} class="bg-area" />}
-            <path d={p.d} class="bg-line" fill="none" stroke-dasharray={p.s.dashed ? '5 4' : undefined} />
+            <path
+              d={p.d}
+              class="bg-line"
+              fill="none"
+              stroke-dasharray={p.s.dashed ? '5 4' : undefined}
+            />
             {p.pts.map((pt) => (
-              <circle cx={pt.x} cy={pt.y} r={L.narrow ? 2.6 : 3.2} class="bg-dot">
+              <circle
+                cx={pt.x}
+                cy={pt.y}
+                r={L.narrow ? 2.6 : 3.2}
+                class="bg-dot"
+              >
                 <title>{`${years[pt.i]} · ${p.s.label}：${fmtV(pt.v)}`}</title>
               </circle>
             ))}
@@ -297,7 +398,12 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         ))}
         {/* 末端直接標籤（取代圖例） */}
         {L.endLabels.map((e) => (
-          <text x={L.M.l + L.iw + 8} y={e.ly + 4} class="bg-endlab" data-series={e.p.s.id}>
+          <text
+            x={L.M.l + L.iw + 8}
+            y={e.ly + 4}
+            class="bg-endlab"
+            data-series={e.p.s.id}
+          >
             {e.label}
           </text>
         ))}
@@ -312,7 +418,12 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
           const ty = up ? py - 14 : py + 20;
           const est = estTextW(a.text, 11, 6);
           // 靠右邊界時改成右對齊，避免出框
-          const anchor = px + est / 2 > L.M.l + L.iw + 4 ? 'end' : px - est / 2 < L.M.l ? 'start' : 'middle';
+          const anchor =
+            px + est / 2 > L.M.l + L.iw + 4
+              ? 'end'
+              : px - est / 2 < L.M.l
+                ? 'start'
+                : 'middle';
           return (
             <g class="bg-annot">
               <line x1={px} x2={px} y1={py} y2={up ? ty + 4 : ty - 12} />
@@ -325,7 +436,14 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
       </svg>
     ))
   }
-  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {zh ? '來源：' : 'Source: '}
+        {source}
+      </figcaption>
+    )
+  }
   <details class="bg-table">
     <summary>{tableTitle || (zh ? '資料表' : 'Data table')}</summary>
     <div class="bg-table-wrap">

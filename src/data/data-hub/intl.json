@@ -1,0 +1,270 @@
+{
+  "$comment": "國際資料庫怎麼標示台灣。來源：reports/research/2026-10/data-hub-r4-taiwan-in-intl-datasets.md（2026-10-23 逐一以 API／原始檔查證）。label 欄逐字照抄資料庫原始字串，不翻譯。kind：taiwan＝標示為 Taiwan；province＝帶 Province of China；taiwan-china＝Taiwan, China；chinese-taipei＝Chinese Taipei；absent＝沒有台灣這一列。",
+  "verifiedAt": "2026-10-23",
+  "rows": [
+    {
+      "db": "World Bank WDI / Data360",
+      "kind": "absent",
+      "label": "—",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/114933-where-are-your-data-on-taiwan",
+      "note": {
+        "zh-TW": "國家列表 296 筆沒有台灣；中國那一欄註明「不含 Taiwan, China」，世界銀行請讀者改看台灣政府網站",
+        "en": "None of its 296 economies is Taiwan; the China series is footnoted as excluding \"Taiwan, China\", and the Bank refers readers to Taiwan's own government sites"
+      }
+    },
+    {
+      "db": "UNDP Human Development Report",
+      "kind": "absent",
+      "label": "—",
+      "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+      "note": {
+        "zh-TW": "2025 年 HDI 時間序列 206 個經濟體，沒有台灣",
+        "en": "The 2025 HDI time series covers 206 economies, without Taiwan"
+      }
+    },
+    {
+      "db": "WHO Global Health Observatory",
+      "kind": "absent",
+      "label": "—",
+      "url": "https://ghoapi.azureedge.net/api/DIMENSION/COUNTRY/DimensionValues",
+      "note": {
+        "zh-TW": "234 個國家代碼裡沒有台灣，健康指標查不到台灣",
+        "en": "No Taiwan among its 234 country codes, so no Taiwan health indicators"
+      }
+    },
+    {
+      "db": "UNESCO Institute for Statistics",
+      "kind": "absent",
+      "label": "The geoUnit could not be found, TWN",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=CR.1&geoUnit=TWN&start=2015&end=2020&version=20260507-91260335",
+      "note": {
+        "zh-TW": "教育統計的 462 個地理單位沒有台灣",
+        "en": "None of its 462 geographic units for education statistics is Taiwan"
+      }
+    },
+    {
+      "db": "UN SDG Global Database",
+      "kind": "absent",
+      "label": "Other non-specified areas in Eastern Asia",
+      "url": "https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/GeoArea/List",
+      "note": {
+        "zh-TW": "代碼 158 存在，名稱寫成「東亞其他未指明地區」，底下沒有任何資料",
+        "en": "Code 158 exists under this name and holds no data"
+      }
+    },
+    {
+      "db": "IMF World Economic Outlook",
+      "kind": "province",
+      "label": "Taiwan Province of China",
+      "url": "https://www.imf.org/external/datamapper/api/v1/countries",
+      "note": {
+        "zh-TW": "有完整的 GDP、成長率與預測，名稱帶「Province of China」",
+        "en": "Full GDP, growth and forecast series, labelled with \"Province of China\""
+      }
+    },
+    {
+      "db": "UN World Population Prospects",
+      "kind": "province",
+      "label": "China, Taiwan Province of China",
+      "url": "https://population.un.org/dataportalapi/api/v1/locations/158",
+      "note": {
+        "zh-TW": "人口推估有台灣這一列，名稱以「China」開頭",
+        "en": "Taiwan has its own row in the projections, under a name that starts with \"China\""
+      }
+    },
+    {
+      "db": "ITU DataHub",
+      "kind": "province",
+      "label": "Taiwan, Province of China",
+      "url": "https://datahub.itu.int/data/?e=TWN&c=&i=11624",
+      "note": {
+        "zh-TW": "網路使用率等電信指標有台灣",
+        "en": "Telecom indicators such as internet use include Taiwan"
+      }
+    },
+    {
+      "db": "World Happiness Report",
+      "kind": "province",
+      "label": "Taiwan Province of China",
+      "url": "https://files.worldhappiness.report/WHR26_Data_Figure_2.1.xlsx",
+      "note": {
+        "zh-TW": "2026 年報告台灣排第 26",
+        "en": "Taiwan ranks 26th in the 2026 report"
+      }
+    },
+    {
+      "db": "Maddison Project",
+      "kind": "province",
+      "label": "Taiwan, Province of China",
+      "url": "https://dataverse.nl/api/access/datafile/421302",
+      "note": {
+        "zh-TW": "長期人均 GDP 序列有台灣",
+        "en": "Long-run GDP per capita series includes Taiwan"
+      }
+    },
+    {
+      "db": "ISO 3166-1",
+      "kind": "province",
+      "label": "Taiwan, Province of China",
+      "url": "https://salsa.debian.org/iso-codes-team/iso-codes/-/raw/main/data/iso_3166-1.json",
+      "note": {
+        "zh-TW": "國家代碼標準；TW／TWN／158 這組代碼本身是各資料庫串接台灣的鑰匙",
+        "en": "The country-code standard; its TW / TWN / 158 codes are how other databases join Taiwan"
+      }
+    },
+    {
+      "db": "ILOSTAT",
+      "kind": "taiwan-china",
+      "label": "Taiwan, China",
+      "url": "https://sdmx.ilo.org/rest/codelist/ILO/CL_AREA/latest",
+      "note": {
+        "zh-TW": "代碼表有這一列，實際勞動資料覆蓋多少尚未查證",
+        "en": "Listed in the code table; actual labour data coverage not yet verified"
+      }
+    },
+    {
+      "db": "WTO",
+      "kind": "chinese-taipei",
+      "label": "Chinese Taipei",
+      "url": "https://www.wto.org/english/res_e/statis_e/daily_update_e/trade_profiles/TW_e.pdf",
+      "note": {
+        "zh-TW": "以「台澎金馬個別關稅領域」身分加入（2002）",
+        "en": "A member since 2002 as the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu"
+      }
+    },
+    {
+      "db": "OECD",
+      "kind": "chinese-taipei",
+      "label": "Chinese Taipei",
+      "url": "https://sdmx.oecd.org/public/rest/codelist/OECD/CL_AREA/latest",
+      "note": {
+        "zh-TW": "台灣不是會員，科技指標等部分資料集有台灣；PISA 也用這個名稱",
+        "en": "Not a member; some datasets such as science and technology indicators, and PISA, include Taiwan under this name"
+      }
+    },
+    {
+      "db": "IMD World Competitiveness",
+      "kind": "chinese-taipei",
+      "label": "Taiwan (Chinese Taipei)",
+      "url": "https://www.imd.org/?p=56211",
+      "note": { "zh-TW": "2026 年台灣排第 4", "en": "Taiwan ranks 4th in 2026" }
+    },
+    {
+      "db": "Penn World Table",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://dataverse.nl/api/access/datafile/554105",
+      "note": {
+        "zh-TW": "PPP 實質 GDP 等總體序列，到 2023 年",
+        "en": "PPP real GDP and other macro series, to 2023"
+      }
+    },
+    {
+      "db": "Our World in Data",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://ourworldindata.org/grapher/life-expectancy.csv?v=1&csvType=full",
+      "note": {
+        "zh-TW": "名稱用 Taiwan；有沒有台灣看它用的上游資料，上游是世界銀行或 UNDP 的圖就沒有",
+        "en": "Uses \"Taiwan\", but coverage follows its upstream source: charts built on World Bank or UNDP data have no Taiwan"
+      }
+    },
+    {
+      "db": "Google Data Commons",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://datacommons.org/place/country/TWN",
+      "note": {
+        "zh-TW": "有台灣頁面，人口一格的來源是 Wikidata，不是官方統計",
+        "en": "Has a Taiwan page, though its population figure comes from Wikidata, not an official statistics office"
+      }
+    },
+    {
+      "db": "V-Dem",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://v-dem.net/documents/72/countryunit_v16.pdf",
+      "note": {
+        "zh-TW": "民主指標，文件寫明中國條目不含台灣、港澳",
+        "en": "Democracy indices; its documentation states the China unit excludes Taiwan, Hong Kong and Macau"
+      }
+    },
+    {
+      "db": "Freedom House",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://freedomhouse.org/country/taiwan/freedom-world/2026",
+      "note": {
+        "zh-TW": "2026 年 93／100，列為「自由」",
+        "en": "93/100 in 2026, rated Free"
+      }
+    },
+    {
+      "db": "RSF World Press Freedom Index",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://rsf.org/en/country/taiwan",
+      "note": { "zh-TW": "2026 年 180 國第 28", "en": "28th of 180 in 2026" }
+    },
+    {
+      "db": "Transparency International CPI",
+      "kind": "taiwan",
+      "label": "Taiwan",
+      "url": "https://images.transparencycdn.org/images/CPI2025_Results.xlsx",
+      "note": {
+        "zh-TW": "2025 年 68 分，182 國第 24",
+        "en": "68 points in 2025, 24th of 182"
+      }
+    }
+  ],
+  "selfComputed": [
+    {
+      "id": "hdi",
+      "name": {
+        "zh-TW": "人類發展指數（HDI）",
+        "en": "Human Development Index (HDI)"
+      },
+      "value": "0.934",
+      "rank": {
+        "zh-TW": "依 UNDP 公式編算，2023 年排名第 21",
+        "en": "Computed with the UNDP formula; 21st for 2023"
+      },
+      "by": { "zh-TW": "行政院主計總處", "en": "DGBAS, Executive Yuan" },
+      "url": "https://data.gov.tw/dataset/25711"
+    },
+    {
+      "id": "gii",
+      "name": {
+        "zh-TW": "性別不平等指數（GII）",
+        "en": "Gender Inequality Index (GII)"
+      },
+      "value": "0.040",
+      "rank": {
+        "zh-TW": "依 UNDP 公式編算，2023 年 173 國第 13",
+        "en": "Computed with the UNDP formula; 13th of 173 for 2023"
+      },
+      "by": {
+        "zh-TW": "行政院性別平等處",
+        "en": "Department of Gender Equality, Executive Yuan"
+      },
+      "url": "https://gec.ey.gov.tw/File/8256A11B0CBE8C67"
+    },
+    {
+      "id": "ggi",
+      "name": {
+        "zh-TW": "全球性別落差指數（GGI）",
+        "en": "Global Gender Gap Index (GGI)"
+      },
+      "value": "0.766",
+      "rank": {
+        "zh-TW": "依 WEF 公式編算，2025 年 148 國第 35",
+        "en": "Computed with the WEF formula; 35th of 148 for 2025"
+      },
+      "by": {
+        "zh-TW": "行政院性別平等處",
+        "en": "Department of Gender Equality, Executive Yuan"
+      },
+      "url": "https://gec.ey.gov.tw/File/8256A11B0CBE8C67"
+    }
+  ]
+}

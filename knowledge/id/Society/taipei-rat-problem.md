@@ -1,10 +1,8 @@
 ---
 title: "Masalah Tikus di Taipei: Dari Perintah Wabah Tikus Kantor Gubernur 1896 hingga Virus Hantan di Distrik Da'an 2026"
 description: "Pada Januari 2026, seorang pria berusia tujuh puluh tahun di Distrik Da'an meninggal akibat virus Hantan, kasus kematian pertama dalam 25 tahun di Taiwan. Namun, titik balik sebenarnya adalah kebijakan 'Larangan Penggunaan Limbah Rumah Tangga untuk Ternak Babi' yang dimulai pada bulan yang sama — ketika babi tidak lagi memakan limbah, tikus mulai 'memakan' Taipei."
-date: '2026-05-05'
-author: 'Taiwan.md Contributors'
+date: 2026-05-05
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'Isu Perkotaan',
@@ -14,15 +12,17 @@ tags:
     'Hewan',
     'Limbah Rumah Tangga',
   ]
-readingTime: '11'
-lastVerified: '2026-05-05'
-lastHumanReview: 'false'
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-05-05
+lastHumanReview: false
+readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-07-24T15:52:20+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:03:24.627965+00:00'
 ---
 
 # Masalah Tikus di Taipei: Dari Perintah Wabah Tikus Kantor Gubernur 1896 hingga Virus Hantan di Distrik Da'an 2026
@@ -77,23 +77,23 @@ Ketika peternak babi tidak lagi mengumpulkan limbah dari berbagai tempat di kota
 
 📝 **Catatan Kurator:** Pada Januari 2026, Kementerian Pertanian mengakhiri jalur "Limbah → Babi" yang telah berlangsung selama setengah abad; di akhir bulan yang sama, Taipei mencatat kasus kematian Hantan pertama dalam 25 tahun. Kedua peristiwa ini bukanlah kebetulan, melainkan konsekuensi dari redistribusi kalori sistemik.
 
-## V. Pilihan Pemerintah Kota: Menyiram Racun dan Reaksi yang Ditimbulkannya
+## V. Pilihan Pemerintah Kota: Menyemprot Racun, dan Keberatan yang Ditimbulkannya
 
-Menghadapi ledakan opini publik, tanggapan Biro Lingkungan Kota Taipei adalah "pemberian racun yang presisi", menggunakan bahan kimia lingkungan yang disetujui pusat (sebagian besar adalah antikoagulan seperti "Kemu-chu") dan menekankan keamanan untuk hewan peliharaan[^23].
+Menghadapi ledakan opini publik, Balai Lingkungan Kota Taipei menanggapi dengan "pemberian racun presisi", menggunakan obat lingkungan yang disetujui pusat (sebagian besar adalah antikogulasi "Kumichu"), dan menegaskan bahwa keamanan hewan peliharaan juga diperhatikan[^23].
 
-Namun, pilihan ini hampir segera ditolak oleh tiga kekuatan sekaligus:
+Namun pilihan ini, hampir seketika ditolak oleh tiga kekuatan sekaligus:
 
-**1. Kementerian Lingkungan Pusat**: Menteri Lingkungan Peng Chih-ming menyerukan pada 2 Mei bahwa pengendalian tikus harus mengikuti prinsip "Tiga Tidak" — tidak membiarkan tikus datang, tidak membiarkan tikus tinggal, dan tidak membiarkan tikus makan (fokus pada perbaikan lingkungan sebagai utama, pemberian racun sebagai pendukung). FAQ pengendalian tikus rumah dari Biro Lingkungan juga ditulis dengan cara yang sama[^24][^25].
+**1. Kementerian Lingkungan Pusat**: Menteri Lingkungan Peng Chi-ming pada 2 Mei mengumumkan secara publik, pemberantasan tikus harus mengadopsi prinsip "Tiga Tidak Pencegahan Tikus" yaitu "perbaikan lingkungan sebagai utama, pemberian racun sebagai pelengkap" — tidak biarkan tikus datang, tidak biarkan tikus tinggal, tidak biarkan tikus makan. FAQ Pencegahan Tikus Rumah milik Balai Lingkungan sendiri juga begitu tertulis[^24][^25].
 
-**2. Akademisi Ekologi**: Tim Penelitian Ekologi Burung di Universitas Nasional Pingtung (NPUST) menerbitkan penelitian pada 2019 dalam _Science of the Total Environment_ yang menunjukkan bahwa burung pemangsa di Taiwan (seperti elang hitam, elang emas, dan falcon) secara umum **terdeteksi mengandung residu antikoagulan pembasmi tikus**, dan konsentrasinya berkorelasi tinggi dengan kebijakan "Minggu Pembasmian Tikus" yang didorong pemerintah selama bertahun-tahun[^26][^27].
+**2. Kalangan ekolog**: Tim Sun Yuan-hsun dari Laboratorium Ekologi Burung NPUST, dalam penelitian yang diterbitkan pada 2019 di _Science of the Total Environment_, menunjukkan bahwa burung pemangsa Taiwan (elang hitam, elang hutan Asia, alap-alap peregrine) **secara luas terdeteksi mengandung residu rodentisida antikogulasi** di tubuhnya, dan konsentrasinya berkorelasi tinggi dengan "Minggu Pembasmian Tikus" yang lama digagas oleh pemerintah[^26][^27].
 
-**3. Pelajaran Sejarah dari Kementerian Pertanian**: Karena serangkaian insiden keracunan elang hitam, Kementerian Pertanian (dahulu Komisi Pertanian) mulai menghentikan pelaksanaan **"Minggu Pembasmian Tikus" selama 40 tahun** sejak 2015, dan secara resmi menyatakan bahwa pengelolaan hama tikus di Taiwan beralih dari "penyemprotan racun" ke metode yang berbasis sains dan ramah lingkungan[^28][^29].
+**3. Pelajaran sejarah Kementerian Pertanian sendiri**: Karena serangkaian kasus kematian elang hitam akibat keracunan, Komisi Pertanian (sekarang Kementerian Pertanian) mulai 2015 secara bertahap menghentikan pelaksanaan "Minggu Pembasmian Tikus Pertanian Nasional" yang berlangsung **40 tahun**, secara resmi mengumumkan pengelolaan hama tikus di Taiwan beralih dari "menyemprot racun" menuju pendekatan ilmiah dan ramah ekologi[^28][^29].
 
-Dengan kata lain: **ketika departemen pertanian telah meninggalkan era "Minggu Pembasmian Tikus" demi konservasi burung pemangsa sepuluh tahun yang lalu, tindakan Biro Lingkungan Kota Taipei menyemprotkan racun di jalanan pada 2026 sama dengan mengambil kembali alat yang baru saja ditinggalkan oleh pedesaan dan menggunakannya di perkotaan.**
+Dengan kata lain: **Saat sektor pertanian sudah keluar dari era "Minggu Pembasmian Tikus" demi konservasi burung pemangsa, Balai Lingkungan Kota Taipei pada 2026 menyemprot racun di jalanan kota, setara dengan mengambil kembali alat yang baru dibuang desa sepuluh tahun lalu untuk digunakan di perkotaan.**
 
-Pada 4 Mei, Direktur Biro Lingkungan Xu Shi-xun terpaksa melunak dan mengatakan akan mencoba "menutup lubang tikus, serta mengintegrasikan informasi penggunaan racun dengan peta zona panas"[^30]; keesokan harinya, Walikota Jiang Wan-an muncul untuk menjanjikan penyusunan langkah tanggapan konkret untuk "pembersihan lingkungan menyeluruh di area kota"[^31][^32]. Anggota dewan dari partai oposisi Hsu Shu-hua juga menyuarakan kritik bahwa pertemuan antar-departemen hanya dilakukan tiga kali dan lambat dalam bertindak[^33].
+Pada 4 Mei, Kepala Balai Lingkungan Hsu Shih-hsun terpaksa mengalah, menyatakan akan mencoba "mengisi lubang tikus, serta mengumumkan peta panas relatif terintegrasi dengan informasi penggunaan racun"[^30]; keesokan harinya, Wali Kota [Chiang Wan-an](/people/蔣萬安) menghadap berjanji akan merumuskan tindakan tanggapan konkret berupa "pembersihan dan disinfeksi lingkungan perkotaan secara keseluruhan"[^31][^32]. Anggota DPRD Kota dari oposisi Hsu Shu-hua serentak menyerang: rapat lintas biro hanya diadakan tiga kali, terlambat setengah langkah[^33].
 
-📝 **Catatan Kurator:** "Menyemprot racun terlihat, menutup lubang tidak." — Ini adalah ekonomi politik dasar dari pengelolaan masalah tikus di Taipei. Di bawah tekanan pemilihan umum, sesuatu yang bisa dilihat lebih penting daripada efektivitas.
+📝 **Catatan Kurator:** "Menyemprot racun terlihat, membersihkan celah tidak terlihat" — inilah ekonomi politik paling fundamental dalam pengendalian tikus di Taipei. Di bawah tekanan pemilu, yang terlihat lebih penting dari yang efektif.
 
 ## VI. Infrastruktur yang Tidak Terlihat: Saluran Air Campuran, Kailou, dan Pasar Malam
 

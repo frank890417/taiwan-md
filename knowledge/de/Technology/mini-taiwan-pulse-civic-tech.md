@@ -1,11 +1,11 @@
 ---
-title: 'Mini Taiwan Pulse: Mit kuratorischer Sicht das atmende Taiwan-Kartenwerk'
-description: '2026: Der Datenanalyst Migu verbindet verstreute taiwanische Offendaten – Flugzeuge, Schiffe, Züge, Busse, Müllwagen – zu einer atmen den Karte. Die Datensammlung überlässt er der KI, aber welche Schichten übereinander liegen, welche Farben verwendet werden und welche Schicht aufleuchtet – das entscheidet sein von Stadtplanung geschulter kuratorischer Blick.'
+title: 'Mini Taiwan Pulse: Mit dem Auge eines Kurators Taiwan als eine atmende Karte zeichnen'
+description: 'Im Jahr 2026 zog die Datenanalystin Migu eine CSV-Datei in Kepler.gl, und auf dem Bildschirm erschien die erste Karte Taiwans. Zwei Jahre später hat das populäre Projekt mini-taiwan-pulse auf GitHub 375 Sterne gesammelt; es überlagert fünf Arten von Echtzeitdaten – Himmel, Ozean, Land, Straßen und Abfallentsorgung – zu einer lebendigen Karte. Die offenen Daten der Zentralregierung (50.000 Datensätze) und der über zwanzig Landkreise und Städte sind für das menschliche Gehirn nicht allein bewältigbar. Ihre Lösung bestand nicht darin, mehr Personal einzustellen, sondern die Aufgabe einem KI-Agenten-gesteuerten System zu übertragen, das sich selbst weiterentwickelt, während Menschen nur noch Fragen stellen und Ergebnisse abnehmen. Von den durch Stadtplanung geschulten kuratorischen Fähigkeiten bis hin zu einer selbstlaufenden Brand-Pipeline in tmux – wie ein einzelnes GitHub-Profil zu einem ganzen Galaxiensystem heranwächst.'
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
-    'Technology',
+    'Technologie',
     'Civic Tech',
     'Open Data',
     'Datenvisualisierung',
@@ -13,7 +13,7 @@ tags:
     'TDX',
     'Three.js',
     'Künstliche Intelligenz',
-    'AI Agent',
+    'KI-Agenten',
     'GIS',
   ]
 subcategory: '公民科技'
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T09:12:02.500227+00:00'
+translatedAt: '2026-10-21T01:07:38.138470+00:00'
 ---
 
 # Mini Taiwan Pulse: Mit kuratorischer Sicht das atmende Taiwan-Kartenwerk

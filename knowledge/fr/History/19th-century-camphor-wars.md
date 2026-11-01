@@ -91,7 +91,7 @@ Bilan britannique : 0 mort. Bilan Qing : 11 morts, 6 blessés[^8].
 
 Le bombardement de 1868 semblait être une fin, mais ce n'était qu'une transition.
 
-Deux mois après les tirs, Gibson fut démis de ses fonctions par le nouveau gouvernement britannique — Londres estimant qu'il avait outrepassé ses pouvoirs en utilisant la force[^7][^\\8]. Pickering retourna à Tainan et continua son commerce de camphre. Durant les 17 années séparant le « Traité du Camphre » de la création de la province de Taïwan par la dynastie Qing en 1885, les commerçants étrangers ont pris le contrôle de l'exportation, intégrant le camphre de Taïwan dans la chaîne industrielle mondiale.
+Deux mois après les tirs, Gibson fut démis de ses fonctions par le nouveau gouvernement britannique — Londres estimant qu'il avait outrepassé ses pouvoirs en utilisant la force[^7][^8]. Pickering retourna à Tainan et continua son commerce de camphre. Durant les 17 années séparant le « Traité du Camphre » de la création de la province de Taïwan par la dynastie Qing en 1885, les commerçants étrangers ont pris le contrôle de l'exportation, intégrant le camphre de Taïwan dans la chaîne industrielle mondiale.
 
 Cependant, le monopole ne disparut pas vraiment ; il changea simplement de forme. En 1886, le premier gouverneur de Taïwan, Liu Ming-chuan, instaura un second monopole sur le camphre, créant le « Bureau du Camphre » (_Nǎowùjú_) comme organe de gestion, qui fonctionna jusqu'en 1890[^9]. Officiellement, il s'agissait d'augmenter les revenus de l'État ; en réalité, il s'agissait de réorganiser les profits exorbitants autrefois détenus par le _Dao-tai_ en un système étatique modernisé.
 
@@ -179,6 +179,6 @@ Le compte n'est pas encore soldé.
 
 [^16]: [〈L'âge d'or du royaume du camphre〉, StoryStudio](https://storystudio.tw/article/gushi/the-golden-era-of-camphor-kingdom/) — Déclin de la production (de 1037 t en 1919 à 589 t en 1921) dû à la synthèse chimique allemande.
 
-[^1_7]: [Wikipédia : CPC Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E4%B8%AD%E6%B2%B9) — Création en 1946 suite à la reprise des actifs pétroliers japonais ; sans lien direct avec l'industrie du camphre.
+[^17]: [Wikipédia : CPC Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E4%B8%AD%E6%B2%B9) — Création en 1946 suite à la reprise des actifs pétroliers japonais ; sans lien direct avec l'industrie du camphre.
 
 [^18]: [Wik Wikipédia : Formosa Plastics Group](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91) — Fondé par Wang Yung-ching en 1954, spécialisé dans le PVC synthétique ; continuité contextuelle de l'industrie chimique taïwanaise.

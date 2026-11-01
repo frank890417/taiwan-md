@@ -1,21 +1,21 @@
 ---
 title: '台湾の生物多様性ホットスポット'
-description: '3.6万平方キロメートルの島に5.9万種以上の生物がひしめき、密度は世界平均の100倍に達する'
+description: '3.6万平方キロメートルの台湾には、5.9万種の既知生物が生息しており、その密度は世界平均の100倍に達します。また、種の30%以上が世界で唯一の固有種です。垂直方向に4,000メートルもの変化がある気候の階段により、この小さな島には地球の半分の気候帯が凝縮されています。世界で最も低緯度に生息するサケ科のイトコ（桜花鉤吻鮭）は七家湾渓のみに残され、標高1,500〜2,500メートルの台湾サンショウウオの生息地は11カ所から7カ所へと減少しました。台湾黒熊は全島に約200〜600頭生息していますが、一頭あたり30〜40平方キロメートルの活動空間を必要とします。世界最高レベルの生命密度を誇るこの舞台で、野生動物のためにあとどれほどの空間を残せるでしょうか。'
 date: 2026-03-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
+tags: ['生態系', '生物多様性', '固有種', '保全', '国立公園']
 subcategory: '生態地理'
-tags: ['生態', '生物多様性', '固有種', '保全', '国立公園']
-readingTime: 8
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: false
+difficulty: 'beginner'
+readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-05-01T19:52:32+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-10-21T02:19:40.298278+00:00'
 ---
 
 # 台湾の生物多様性ホットスポット

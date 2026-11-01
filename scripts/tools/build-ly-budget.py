@@ -83,6 +83,8 @@ def main() -> int:
         cut_pct = None
         if cut_abs is not None and prop:
             cut_pct = round(cut_abs / prop * 100, 2)
+        supp = (t.get("legal") or {}).get("supplementary")
+        supp_pending = t.get("supplementary")
         years.append(
             {
                 "fy": int(fy),
@@ -94,6 +96,10 @@ def main() -> int:
                 "cutPct": cut_pct,
                 "final": yi(final),
                 "execRate": rate,
+                # 追加預算已三讀者：執行率的分母 = 法定 + 追加（114 年度 819.4 億）
+                **({"legalWithSupp": yi(legal + supp), "supp": yi(supp)} if (supp and legal) else {}),
+                # 追加預算案尚在立法院者（115 年度 6,076 億）：只記錄，不併入任何 basis
+                **({"suppPending": {"expenditure": yi(supp_pending["expenditure"]), "revenue": yi(supp_pending["revenue"]), "status": supp_pending["status"], "source": supp_pending["source"]}} if supp_pending else {}),
                 "revenueLegal": yi(rev_legal),
                 "revenueProposed": yi(rev_prop),
                 "gdpPct": gdp,
@@ -183,9 +189,11 @@ def main() -> int:
             "fiscalYears": [int(f) for f in fys],
             "notes": [
                 "歲出總額：行政院原列（proposed）／立法院法定（legal）／決算（final）三個 basis 分開存放，圖表標示以 basis 為準。",
-                "政事別九類：105-113 年度為決算審定數、114 年度為法定預算數、115 年度為預算案數（主計總處 115 年度總說明參考表 6 同一張時間序列表）。",
-                "機關別：主計總處《中央政府總預算》歲出機關別預算總表「主管別」彙總列；105-114 為法定預算數，115 為行政院提案數（三讀後法定表截至 2026-08-17 尚未上架）。",
-                "執行率＝決算數 ÷ 法定預算數（自算，未含追加預算）。",
+                "政事別九類：105-113 年度為決算審定數、114 年度為法定預算數、115 年度為預算案數（主計總處 115 年度總說明參考表 6 同一張時間序列表）；116 年度為 116 年度預算案（主計總處 116 年度預算書，2026-10-22 更新）。116 年度預算書把 115 年度重新分類（見 fy116.restated115），所以 115→116 的政事別增減有一部分是重分類，不是錢真的移動。",
+                "機關別：主計總處《中央政府總預算》歲出機關別預算總表「主管別」彙總列；105-114 為法定預算數，115、116 為行政院提案數（115 年度三讀後法定表截至 2026-10-23 仍未上架）。",
+                "115 年度歲出法定數 29,869.7 億（原列 30,349.7 億、減列 480 億）；歲入法定數＝預算案 28,622.5 億 + 審議調整 6,020 億，依主計總處 2026-09-03 追加預算新聞稿勾稽。",
+                "114 年度決算：審計部審定歲出 29,332.1 億（2026-07-24），執行率分母＝法定 29,249.7 億 + 追加 819.4 億。116 年度預算案尚未三讀，legal／final 為 null。",
+                "執行率＝決算數 ÷ 法定預算數（自算）；有追加預算的年度（114）分母含追加預算。",
                 "GDP 占比＝中央政府歲出總額 ÷ 當年名目 GDP；債務比＝1 年以上非自償債務 ÷ 前 3 年度 GDP 平均，兩者分母不同。",
             ]
             + list(totals_src.get("notes", []))[:0],
@@ -200,6 +208,8 @@ def main() -> int:
         ],
         "agenciesByYear": agencies_by_year,
         "defenseNato2026": cur["defense_nato_2026"],
+        "defenseNato2027": cur["defense_nato_2027"],
+        "fy116": cur["fy116"],
         "specialBudgets": cur["special_budgets"],
         "cuts": cur["cuts"],
         "culture": cur["culture"],

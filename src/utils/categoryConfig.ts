@@ -16,7 +16,7 @@ export const getCategoryConfigs = (
   about: {
     name: t('categoryConfig.about'),
     description: t('categoryConfig.about.description'),
-    icon: '📖',
+    icon: '🏝️',
     color: '#4b5563',
     colorLight: '#4b556320',
     gradient: 'linear-gradient(135deg, #4b5563, #6b7280)',
@@ -37,7 +37,7 @@ export const getCategoryConfigs = (
   geography: {
     name: t('categoryConfig.geography'),
     description: t('categoryConfig.geography.description'),
-    icon: '🗺️',
+    icon: '🏞️',
     color: '#065f46',
     colorLight: '#059f4620',
     gradient: 'linear-gradient(135deg, #065f46, #10b981)',
@@ -68,7 +68,7 @@ export const getCategoryConfigs = (
   art: {
     name: t('categoryConfig.art'),
     description: t('categoryConfig.art.description'),
-    icon: '🎨',
+    icon: '🖌️',
     color: '#be185d',
     colorLight: '#be185d20',
     gradient: 'linear-gradient(135deg, #be185d, #ec4899)',
@@ -109,7 +109,7 @@ export const getCategoryConfigs = (
     name: t('categoryConfig.people'),
     description: t('categoryConfig.people.description'),
     description_en: "Key figures and stories that shaped Taiwan's development",
-    icon: '👥',
+    icon: '👤',
     color: '#b45309',
     colorLight: '#b4530920',
     gradient: 'linear-gradient(135deg, #b45309, #f59e0b)',
@@ -119,7 +119,7 @@ export const getCategoryConfigs = (
   society: {
     name: t('categoryConfig.society'),
     description: t('categoryConfig.society.description'),
-    icon: '🏛️',
+    icon: '👥',
     color: '#475569',
     colorLight: '#47556920',
     gradient: 'linear-gradient(135deg, #475569, #64748b)',
@@ -129,7 +129,7 @@ export const getCategoryConfigs = (
   economy: {
     name: t('categoryConfig.economy'),
     description: t('categoryConfig.economy.description'),
-    icon: '📊',
+    icon: '🪙',
     color: '#c2410c',
     colorLight: '#c2410c20',
     gradient: 'linear-gradient(135deg, #c2410c, #ea580c)',
@@ -139,7 +139,7 @@ export const getCategoryConfigs = (
   lifestyle: {
     name: t('categoryConfig.lifestyle'),
     description: t('categoryConfig.lifestyle.description'),
-    icon: '🏠',
+    icon: '🛵',
     color: '#4d7c0f',
     colorLight: '#4d7c0f20',
     gradient: 'linear-gradient(135deg, #4d7c0f, #65a30d)',

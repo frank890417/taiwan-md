@@ -1,15 +1,15 @@
 ---
-title: 'Li Guoxiu: Der König der taiwanesischen Komödie'
-description: 'Gründer von Píngfēng Theater Group, König der taiwanesischen Komödie; starb am 2. Juli 2013 an Darmkrebs im Alter von 58 Jahren'
+title: 'Li Guoxiu'
+description: 'Gründer der Pingfund Performance Group, König der taiwanischen Komödie; verstarb am 2. Juli 2013 im Alter von 57 Jahren an Darmkrebs.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Li Guoxiu',
-    'Píngfēng Theater Group',
+    'Pingfund Performance Group',
     'Komödie',
     'Theater',
-    'taiwanisches Theater',
+    'taiwanisches Drama',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -17,136 +17,92 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:11b55d270abdf3d3'
-sourceBodyHash: 'sha256:7ab58584d6fb7af7'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: 'ec4bf4b5f'
+sourceContentHash: 'sha256:6ce83dd89e705886'
+sourceBodyHash: 'sha256:874193c9926520f1'
+translatedAt: '2026-10-22T02:46:42+08:00'
 ---
 
-# Li Guoxiu: Der König der taiwanesischen Komödie
+# Li Guoxiu: Der König der taiwanischen Komödie
 
-Li Guoxiu war ein herausragender Meister der Komödie in der Geschichte des modernen Theaters Taiwans. Er gründete 1986 die Píngfēng Theater Group und schuf Klassiker wie _Samulet_, _Die Offenbarung des Peking-Theaters_ und _Nüerhong_. Mit einer Darstellungsform, die Humor mit tiefem humanistischem Engagement verband, untersuchte er ernste gesellschaftliche Themen inmitten von Lachen und wurde als „König der taiwanesischen Komödie“ bezeichnet. Er starb 2013 an Darmkrebs im Alter von 58 Jahren und hinterließ ein bedeutendes theatergeschichtliches Vermächtnis.
+Li Guoxiu war ein bedeutender Meister der Komödie in der Geschichte des modernen Theaters Taiwans. Er gründete 1986 die Pingfund Performance Group (屏風表演班) und schuf Klassiker wie „Shamlet“ (莎姆雷特), „Die Offenbarung der Peking-Oper“ (京戲啟示錄) und „Nüchterne Tochter“ (女兒紅). Mit einer Form des humorvollen Spiels, das tief verwurzelt in humanistischem Mitgefühl war, untersuchte er ernste gesellschaftliche Themen inmitten des Lachens. Er wurde als „König der taiwanischen Komödie“ gefeiert. Im Jahr 2013 verstarb er im Alter von 57 Jahren an Darmkrebs und hinterließ ein beachtliches theatrales Erbe.
 
-## Die Jugend des Kindes aus dem Militärdiensthaushalt (Jüan-Cūn)
+## Der Sohn eines Peking-Opern-Schuhmachers
 
-Li Guoxiu wurde am 30. Dezember 1955 in Taipeh geboren. Sein Vater, Li Fei, war ein Luftwaffe-Unteroffizier, und seine Mutter, Wang Guihua, war Hausfrau. In der Militärdiensthaushaltgemeinschaft (Jüan-Cūn) wuchs er auf und erlebte von klein auf die spezifische Kultur dieser Gemeinschaften: eine Mischung aus Dialekten verschiedener Provinzen, die strenge Lebensweise der Militärfamilien und ein starkes Gefühl der Heimatverbundenheit.
+Li Guoxiu wurde am 30. Dezember 1955 in Taipeh geboren. Sein Vater, Li Shen-en, war ein Meister der Herstellung handgefertigter Schuhe für die Peking-Oper. Seine Mutter stammte aus derselben Heimatregion wie sein Vater und diente später als Vorbild für die Hauptfigur in seinem Werk „Nüchterne Tochter“. Die Verbindung seines Vaters zur Peking-Oper wurde später in seinem halbautobiografischen Werk „Die Offenbarung der Peking-Oper“ verarbeitet.
 
-Das Leben in den Militärdiensthaushaltgemeinschaften lieferte Li Guoxiu reichlich Stoff für seine Schöpfungen. Die menschlichen Beziehungen zwischen Nachbarn, die Sehnsucht nach der Heimat älterer Soldaten aus anderen Provinzen und die Identitätserfahrung der Kinder dieser Gemeinschaften tauchten später wiederholt in seinen Dramen auf.
+## Ausbildung im Rundfunk und Fernsehen
 
-In der Mittelschule besuchte er eine erfolgreiche High School und entwickelte ein Interesse an der Darstellenden Kunst, indem er oft Komiker aus Fernsehsendungen nachahmte und sein natürliches komödiantisches Talent zeigte. Seine Mitschüler sahen in ihm Potenzial als Schauspieler, doch in traditionellen Kreisen galt das Theater nicht als legitimer Beruf.
+Li Guoxiu studierte am Fachbereich für Radio und Fernsehen der World News School (heute das Department of Radio, Television and Film der Shih Hsin University). Im Jahr 1980 erhielt er den Golden Bell Award für den Schnitt im Bereich Rundfunk; 1982 wurde er bei der 17. Golden Bell Awards als „vielversprechendster neuer Schauspieler im Drama“ ausgezeichnet. Schon vor seinem Eintritt in die Theaterwelt hatte er sich in der Medienbranche Anerkennung verschafft.
 
-## Die Anfänge im Theater der Fu Jen Catholic University
+## Die Ära des Performance Workshop
 
-1974 begann Li Guoxiu sein Studium an der Chinesische Abteilung der Fu Jen Catholic University, was ein Wendepunkt in seiner Theaterkarriere war. Während seines Studiums nahm er an einem internen Theaterverein teil, erhielt eine formale Theatertrainierung und kam gleichzeitig mit weltberühmten klassischen Werken in Kontakt.
+Im Jahr 1984 gründete Li Guoxiu gemeinsam mit [Stan Lai](/de/people/stan-lai-theater-innovation-master/) und Li Liqun den Performance Workshop[^1] (Jin Shijie war ein Kooperationspartner, jedoch kein Gründer). Dies markierte den Beginn seiner professionellen Theaterkarriere. Während der Zeit beim Workshop beteiligte er sich an der Kreation klassischer Stücke wie „In jener Nacht sagten wir Crosstalk“ und bewies sein herausragendes schauspielerisches Talent.
 
-Während seiner Studienzeit zeigte Li Guoxiu sowohl Talent als Dramatiker als auch als Darsteller; die Kurzstücke, die er schrieb, sorgten oft für lautes Gelächter bei seinen Kommilitonen, konnten aber auch berühren. Dieses „Tränenlache“ ist wiederholt in den Werken der Píngfēng Theater Group zu finden.
+Durch seine Arbeit beim Performance Workshop sammelte Li Guoxiu kreative Erfahrungen im modernen Theater und festigte allmählich den Entschluss, einen eigenständigen Weg für die taiwanische Komödie einzuschlagen. Er stellte fest, dass er besonders begabt im komödiantischen Spiel war und gleichzeitig über eine scharfe Beobachtungsgabe für die gesellschaftliche Realität verfügte.
 
-Nach seinem Abschluss im Jahr 1978 stand Li Guoxiu vor einer Lebensentscheidung. Seine Familie wünschte ihm einen stabilen Beruf, doch sein Herz sehnte sich nach dem Theater. Letztendlich entschied er sich für seinen Traum und beschloss, das Theater zu seinem Lebenswerk zu machen.
+## Gründung der Pingfund Performance Group
 
-## Die Zeit der Performance-Workshops
+Im Oktober 1986 beschloss Li Guoxiu, die Pingfund Performance Group zu gründen. Das Gründungsstück war das körpersprachliche Experimentaldrama „1812 und eine gewisse Aufführung“. Nach der Inszenierung von „Die Geschichte des Kreisverkehrs“ (圓環物語) im Jahr 1987 verließ er den Performance Workshop offiziell. Der Name der Truppe leitet sich von der Funktion eines Paravents (屏風, Píngfēng) ab, der Wind und Regen abhält – ein Symbol dafür, dass das Theater dem Publikum seelischen Trost bietet.
 
-1984 gründete Li Guoxiu zusammen mit [Lai Ching-te](/de/people/stan-lai-theater-innovation-master/) und Li Liqun ein Performance-Workshop[^1] (Jin Shijie war ein Kooperationspartner, aber kein Gründer). Dies markierte den Beginn seiner professionellen Theaterkarriere. Während dieser Zeit kreierte er Klassiker wie _In dieser Nacht haben wir Stand-up gemacht_ und zeigte herausragendes darstellerisches Talent.
+Das Gründungsprinzip der Pingfund Performance Group lautete: „Ein Stück spielen, eine Gruppe von Freunden gewinnen“. Dieser Satz spiegelt Li Guoxius Wertschätzung für die zwischenmenschlichen Beziehungen im Theater wider. Er betrachtete das Theater nicht nur als künstlerisches Schaffen, sondern als einen aufrichtigen Austausch zwischen Menschen.
 
-Im Performance-Workshop lernte Li Guoxiu moderne Methoden der Schöpfung des Theaters, insbesondere die Technik der kollektiven Improvisation. Diese zweijährische theaterliche Ausbildung bestätigte seine Entscheidung für einen unabhängigen Weg in der taiwanesischen Komödie.
+In der Anfangszeit waren die Aufführungsorte der Gruppe einfach und das Publikum klein, doch Li Guoxiu bestand darauf, jedes Werk mit Hingabe zu kreieren. Er glaubte, dass das Publikum die Werke letztlich annehmen würde, wenn sie gut genug seien. Dieser beharrliche Geist half der Truppe, die schwierigen Gründungsjahre zu überstehen.
 
-Während dieser Zeit begann Li Guoxiu, seine eigene kreative Richtung zu denken. Er erkannte seine besondere Begabung für komödiantisches Schauspiel und gleichzeitig eine scharfe Beobachtungsgabe für die soziale Realität. Dies führte ihn zu einem einzigartigen kreativen Weg.
+## Die klassische Trilogie
 
-## Die Gründung der Píngfēng Theater Group
+### „Shamlet“ (1992)
 
-1986 verließ Li Guoxiu den Performance-Workshop und gründete die Píngfēng Theater Group. Der Name der Truppe stammt von der Funktion des „Píngfēng“ (Paravent), nämlich das Abwehren von Wind und Regen, was die Bedeutung symbolisiert, dass das Theater dem Publikum seelischen Trost spendet.
+„Shamlet“ ist Li Guoxius bekannteste Lachkomödie. Sie feierte 1992 Premiere und wurde seither mehrfach wiederaufgeführt. In der „Hype-Version“ von 2006 trat er selbst auf der Bühne auf, und 2024 wurde das Stück erneut als Gedenkaufführung präsentiert.
 
-Das Gründungsziel der Píngfēng Theater Group war: „Ein Stück zu machen und eine Gruppe Freunde zu treffen“, ein Satz, der Li Guoxius Wertschätzung für menschliche Beziehungen im Theater widerspiegelt. Er glaubte, dass Theater nicht nur künstlerische Schöpfung sei, sondern auch ein ehrlicher Austausch zwischen Menschen.
+### „Die Offenbarung der Peking-Oper“ (1996)
 
-Die ersten Aufführungsorte von Píngfēng waren einfach und das Publikum war klein, aber Li Guoxiu bestand darauf, jedes Stück mit Herzblut zu erschaffen. Er glaubte, dass das Publikum letztendlich überzeugt wäre, wenn die Werke gut genug waren. Dieser ehrgeizige Geist trug der Truppe durch die schwierigen Anfangsjahre.
+Dieses 1996 veröffentlichte, halbautobiografische Werk entstand als Hommage an seinen Vater. Durch eine Technik von ineinander verschachtelten Stücken erzählt es eine Geschichte, die ein halbes Jahrhundert überspannt. Die Schauspielerin Wang Yue übernahm darin erstmals die Rolle der „zweiten Tante“.
 
-## Die Klassische Trilogie
+### „Nüchterne Tochter“ (2003)
 
-### _Samulet_ (1992)
+„Nüchterne Tochter“ wurde 2003 veröffentlicht, wobei die Hauptfigur auf Li Guoxius Mutter basiert.
 
-_Samulet_ ist sein repräsentativstes Werk, das über hundert Mal aufgeführt wurde und den größten Einfluss hatte; es adaptierte Shakespeares _Hamlet_ in einen Kontext der taiwanesischen Militärdiensthaushaltgemeinschaft. Der Protagonist Sam ist ein junger Mann aus einer solchen Gemeinschaft, der mit dem Konflikt zwischen dem Vermächtnis seines Vaters und seinen persönlichen Idealen konfrontiert ist.
+## Komödiantische Ästhetik und humanistisches Mitgefühl
 
-Dieses Werk verband geschickt westliche Klassik mit lokalen Erfahrungen Taiwans und untersuchte ernste Lebensfragen inmitten von Humor. Li Guoxius Schauspiel besaß sowohl die Tiefe des Shakespeares als auch die Vertrautheit der einfachen Leute aus Taiwan.
+Das Zentrum von Li Guoxius Komödien war das humanistische Mitgefühl; er nutzte das Lachen, um tragische gesellschaftliche Beobachtungen zu transportieren. Er vertrat die Ansicht, dass die beste Komödie „einen zum Lachen und gleichzeitig zum Weinen bringen“ sollte, um über das Leben nachzudenken.
 
-_Samulet_, das über hundert Mal aufgeführt wurde, etablierte ihn als ein Klassiker in der Theatergeschichte Taiwans und bewies das Potenzial einer erfolgreichen Lokalisierung.
+Seine Werke befassten sich oft mit dem Schicksal kleiner Leute und zeigten Mitgefühl für die Härten der Unterschicht. Ob Peking-Opernschauspieler oder traditionelle Frauen – unter seiner Feder erhielten sie Würde und Wärme. Er war besonders geschickt darin, lokale taiwanische Sprache und kulturelle Elemente zu nutzen, um beim Publikum Resonanz in vertrauten Situationen zu erzeugen. Seine Dialoge waren lebendig, natürlich und voller Lebensweisheit und Humor.
 
-### _Die Offenbarung des Peking-Theaters_ (1996)
+## Schauspieltraining und Theaterpädagogik
 
-_Die Offenbarung des Peking-Theaters_ basiert auf dem Leben eines Pekinger Opernschenkers und beschreibt die Schwierigkeiten traditioneller Künste in der modernen Gesellschaft. Li Guoxiu schuf dieses halbautobiografische Werk, das auf seiner eigenen Erfahrung beim Erlernen der Pekinger Oper beruht.
+Li Guoxiu war nicht nur ein exzellenter Dramaturg und Schauspieler, sondern auch ein herausragender Theaterpädagoge. Er etablierte in der Pingfund Performance Group ein systematisiertes Ausbildungssystem für Schauspieler und förderte bekannte Persönlichkeiten des Theaters wie Fan Guangyao und Huang Zhikai.
 
-Das Stück enthält viele Gesangsstücke und Bewegungen aus der Pekinger Oper, wobei Li Guoxiu selbst auftrat und seine tiefen Kenntnisse der Oper demonstrierte. Er interpretierte die traditionelle Kunst mit modernen theatralischen Mitteln neu und machte die Schönheit der Pekinger Oper für junge Zuschauer zugänglich.
+Er legte großen Wert auf die Lebenserfahrung seiner Schauspieler und glaubte, dass wahres Schauspiel aus der genauen Beobachtung des Lebens resultiere. Oft führte er seine Schauspieler in verschiedene soziale Schichten, damit sie unterschiedliche Lebensrealitäten unmittelbar erfahren konnten. Seine pädagogische Philosophie betonte die „Aufrichtigkeit“; er war überzeugt, dass Schauspieler sich selbst ehrlich gegenüberstehen müssen, um glaubwürdige und bewegende Rollen zu erschaffen.
 
-Dieses Werk erhielt den Hauptpreis des ersten Tai-Sin Kunstpreises und wurde international hoch bewertet. _Die Offenbarung des Peking-Theaters_ repräsentiert Li Guoxius tiefgründiges Nachdenken über die Tradition und seine moderne Ausdrucksform.
+## Späte Werke und körperliches Leiden
 
-### _Nüerhong_ (1999)
+In den späten 2000er Jahren traten gesundheitliche Probleme bei Li Guoxiu auf, doch er hielt an seinem Schaffen und seinen Auftritten fest. Spätwerke wie „Die sechs Helden der Gerechtigkeit“ (六義幫, 2008) zeigten seine tiefen Einsichten in das Leben.
 
-_Nüerhong_ ist ein Werk, das Li Guoxiu für seine Mutter schuf und das das Leben einer traditionellen Frau beschreibt. Die Mutter im Stück opfert ihre eigenen Träume für die Familie, behält aber stets eine optimistische und starke Haltung bei.
+Trotz seiner Krankheit bewahrte er eine optimistische Haltung. Er sagte oft: „Das Leben ist wie Kot – egal wie man drückt, es kommt irgendwann raus.“ (Dieses Zitat wird Li Guoxiu zugeschrieben, siehe verschiedene Interviewprotokolle[^2]). Diese humorvolle Lebensphilosophie berührte unzählige Zuschauer. In seinen späteren Werken setzte er sich verstärkt mit Fragen von Leben und Tod auseinander; diese Stücke waren zwar oft von einer melancholischen Färbung durchzogen, behielten jedoch seinen gewohnten Humor und seine Wärme bei.
 
-Dieses Werk zeigt Li Guoxius tiefes Verständnis und Respekt für Frauen. Er zeichnet die Größe der Mutter mit zärtlicher Pinselführung in Lachern, die das Publikum zu tränen gerührt.
+## Plötzlicher Tod und theatrales Erbe
 
-Der Erfolg von _Nüerhong_ bewies, dass Li Guoxiu nicht nur ein herausragender Komödienschauspieler war, sondern auch ein tiefgründiger Beobachter der menschlichen Natur. Er konnte in alltäglichem Leben außergewöhnliche Schönheit finden.
+Am 2. Juli 2013 verstarb Li Guoxiu im Alter von 57 Jahren an Darmkrebs[^3]. Diese Nachricht erschütterte die gesamte taiwanische Theaterwelt, und unzählige Menschen trauerten um den Verlust dieses Meisters der Komödie.
 
-## Die Ästhetik der Komödie und das humanistische Engagement
+Sein Tod veranlasste die Menschen dazu, seinen Beitrag neu zu bewerten. Er hinterließ nicht nur einen Katalog von Dutzenden von Theaterstücken, sondern ein ästhetisches System darüber, wie Komödie menschliche Tiefe tragen kann. Die Pingfund Performance Group arbeitet auch nach seinem Tod weiter und widmet sich der Förderung seiner kreativen Philosophie, um sein Erbe lebendig zu halten.
 
-Li Guoxius Komödie ist durch das humanistische Engagement als Kern gekennzeichnet; sie trägt tragische soziale Beobachtungen in Lachen. Er glaubte, dass die beste Komödie „zum Weinen im Lachen“ anregen müsse und das Leben inmitten der Freude reflektieren sollte.
+## Einfluss auf das taiwanische Theater
 
-Seine Dramen thematisieren oft das Schicksal kleiner Leute und zeigen Mitleid mit den Schwierigkeiten der unteren Gesellschaftsschichten. Ob Militärdiensthaushaltkinder, Pekinger Opernschenker oder traditionelle Frauen – sie alle erhielten in seinen Werken Würde und Wärme.
+Li Guoxiu ebnete den Weg für das moderne komödiantische Theater in Taiwan und bewies, dass lokal verwurzeltes Schaffen erfolgreich sein kann. Seine Werke setzten neue Maßstäbe für das taiwanische Theater und beeinflussten unzählige nachfolgende Kreative. Viele der von ihm ausgebildeten Schauspieler und Künstler, darunter Fan Guangyao, Huang Zhikai und Chen Lihua, sind in der gesamten taiwanischen Theaterlandschaft präsent und führen seine Ideen fort.
 
-Li Guoxiu war besonders geschickt darin, lokale taiwanesische Sprache und kulturelle Elemente zu nutzen, um beim Publikum Resonanz in vertrauten Kontexten zu erzeugen. Seine Dialoge waren lebendig, natürlich und voller Lebensweisheit und Humor.
+Sein Erfolg steigerte zudem die gesellschaftliche Anerkennung der Theaterkunst. Er leistete einen wesentlichen Beitrag zur Entwicklung des Theaters in Taiwan. Li Guoxiu sagte einmal: „Man soll sich wie Konfuzius im Umgang mit Menschen verhalten, aber wie Laozi beim Handeln.“ Dieser Satz spiegelt seine Lebensphilosophie wider und erklärt, warum er so herzliche Werke schaffen konnte. Er bewies ein Leben lang die Kraft der Komödie und brachte der taiwanischen Gesellschaft durch seine Werke unendliche Freude und Reflexion.
 
-## Schauspielerische Ausbildung und Theaterpädagogik
+[^1]: Die Gründer des Performance Workshop waren Stan Lai, Li Guoxiu und Li Liqun; Jin Shijie war ein wichtiger Kooperationsschauspieler, aber kein Gründer. Vgl.: Wikipedia-Eintrag „Performance Workshop“ <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
 
-Li Guoxiu war nicht nur ein ausgezeichneter Dramatiker und Schauspieler, sondern auch ein herausragender Theaterpädagoge. Er etablierte im Píngfēng Theater Group ein systematisches System der Schauspielausbildung und förderte bekannte Theaterleute wie Fan Guangyao und Huang Zhikai.
+[^2]: Dieses Zitat von Li Guoxiu findet sich in zahlreichen Interviews und Gedenkartikeln. Vgl.: Wikipedia-Eintrag „Li Guoxiu“ <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; offizielle Website der Pingfund Performance Group <http://www.ppt.org.tw/>
 
-Er legte großen Wert auf die Lebenserfahrung der Schauspieler und glaubte, dass wahre Darbietung aus sorgfältiger Beobachtung des Lebens entsteht. Er führte die Schauspieler oft in verschiedene soziale Schichten mit, um das Leben direkt zu erleben.
+[^3]: Li Guoxiu verstarb am 2. Juli 2013 im Alter von 57 Jahren an Darmkrebs (einige Berichte nannten das traditionelle Alter von 58 Jahren). Vgl.: Bericht von ETtoday News am 02.07.2013; Wikipedia-Eintrag „Li Guoxiu“ <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
 
-Li Guoxius pädagogisches Konzept betonte das Wort „Aufrichtigkeit“; er meinte, ein Schauspieler müsse ehrlich zu sich selbst sein, um glaubwürdige und berührende Charaktere erschaffen zu können. Diese Philosophie beeinflusste viele junge Schauspieler über die Jahre hinweg.
-
-## Chronist der Kultur der Militärdiensthaushaltgemeinschaften (Jüan-Cūn)
-
-Als Kind aus einer solchen Gemeinschaft legte Li Guoxiu stets Wert auf die Weitergabe der Kultur dieser Gemeinschaften. Viele seiner Werke spielen in diesen Kontexten und dokumentieren das Leben dieser besonderen sozialen Gruppe.
-
-Mit der städtischen Entwicklung wurden viele solcher Gemeinschaften abgerissen, und Li Guoxius Werke sind wertvolle kulturelle Aufzeichnungen. Er bewahrte dieses kurzlebige Gedächtnis in theatralischer Form.
-
-Li Guoxiu sah die Kultur der Militärdiensthaushaltgemeinschaften als einen wichtigen Bestandteil der taiwanesischen Gesellschaft an, der verstanden und respektiert werden sollte. Seine Werke überwand die Kluft zwischen den Einheimischen (Běi-shěng) und den Zuzügern (Wài-shěng) und förderten gesellschaftliches Wohl.
-
-## Späte Schöpfungen und körperliche Leiden
-
-In der zweiten Hälfte der 2000er Jahre begann Li Guoxius Körper Probleme zu entwickeln, doch er setzte seine Schöpfung und Aufführungen fort. Spätere Werke wie _Die Sechs-Gilden_ (2007) und _Goldenes Alter_ (2011) zeigten seine tiefen Einsichten in das Leben.
-
-Angesichts seiner Krankheit zeigte Li Guoxiu eine optimistische Einstellung; er pflegte zu sagen: „Das Leben ist wie Kot, es kommt heraus, wie man es drückt.“ (Überliefert als Li Guoxius Zitat, siehe zahlreiche Interviews[^2]). Diese humorvolle Lebensphilosophie inspirierte unzählige Zuschauer.
-
-Er begann mehr über Fragen des Lebens und Todes nachzudenken; seine Werke waren voller der Erforschung des Lebenssinns. Obwohl diese Werke einen melancholischen Ton hatten, bewahrten sie seinen konstanten Humor und Wärme.
-
-## Plötzlicher Tod und das theatergeschichtliche Vermächtnis
-
-Am 2. Juli 2013 starb Li Guoxiu an Darmkrebs im Alter von 58 Jahren[^3]. Diese Nachricht erschütterte die gesamte taiwanesische Theaterwelt, und unzählige Menschen trauerten um diesen Meister der Komödie.
-
-Sein Tod zwang die Menschen, seinen Beitrag neu zu bewerten. Er hinterließ nicht nur eine Liste von Dutzenden von Stücken, sondern auch ein ästhetisches System darüber, wie Komödie menschliches Gewicht tragen kann.
-
-Nach seinem Tod setzte die Píngfēng Theater Group unter der Leitung seiner Frau Wang Yue fort. Die Truppe widmete sich der Verbreitung von Li Guoxius kreativen Ideen und sorgte für die Weitergabe seines Geistes.
-
-## Einfluss auf das taiwanesische Theater
-
-Li Guoxiu eröffnete einen Weg für modernes komödiantisches Theater in Taiwan und bewies, dass lokale Schöpfungen erfolgreich sein können. Seine Werke setzten neue Maßstäbe für das taiwanesische Theater und beeinflussten unzählige nachfolgende Schöpfer.
-
-Die von ihm ausgebildeten Schauspieler und Kreativen sind im gesamten taiwanesischen Theaterszene vertreten, darunter Fan Guangyao, Huang Zhikai und Chen Lihua. Diese Menschen verbreiten weiterhin seine kreativen Ideen und pädagogischen Methoden.
-
-Li Guoxius Erfolg erhöhte auch die gesellschaftliche Anerkennung der Theaterkunst und ließ mehr Menschen den Wert und den Reiz des Theaters erkennen. Er leistete einen wichtigen Beitrag zur Entwicklung des taiwanesischen Theaters.
-
-Li Guoxiu sagte einmal: „Man soll wie Konfuzius leben, aber wie Laozi handeln.“ Dieser Satz spiegelt seine Lebensphilosophie wider und erklärt, warum er so herzliche Werke erschaffen konnte. Mit seinem Leben bewies er die Kraft der Komödie und brachte durch seine Werke unendliches Glück und Nachdenken in die taiwanesische Gesellschaft.
-
-[^1]: Die Gründer des Performance-Workshops waren Lai Ching-te, Li Guoxiu und Li Liqun; Jin Shijie war ein wichtiger Kooperationspartner, aber kein Gründer. Siehe: Wikipedia Artikel „Performance Workshop“ <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>.
-
-[^2]: Dieses Zitat von Li Guoxiu findet sich in zahlreichen Interviews und Gedenktexten. Siehe: Wikipedia Artikel „Li Guoxiu“ <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; offizielle Website der Píngfēng Theater Group <http://www.ppt.org.tw/>.
-
-[^3]: Li Guoxiu starb am 2. Juli 2013 an Darmkrebs im Alter von 58 Jahren. Siehe: ETtoday News Cloud Bericht vom 2. Juli 2013; Wikipedia Artikel „Li Guoxiu“ <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>.
-
-[^4]: _Die Offenbarung des Peking-Theaters_ erhielt den Hauptpreis des ersten Tai-Sin Kunstpreises (1997). Siehe: offizielle Website des Tai-Sin Kunstpreises <https://taishinarts.org.tw/>.
-
-[^5]: Die Píngfēng Theater Group wurde 1986 gegründet und hatte das Gründungsziel „Ein Stück zu machen und eine Gruppe Freunde zu treffen“; bis zum Tod von Li Guoxiu wurden über 40 Stücke aufgeführt. Siehe: offizielle Website der Píngfēng Theater Group <http://www.ppt.org.tw/>.
+[^5]: Die Pingfund Performance Group wurde 1986 gegründet und verfolgt das Motto „Ein Stück spielen, eine Gruppe von Freunden gewinnen“. Bis zu Li Guoxius Tod wurden über 40 Theaterstücke aufgeführt. Vgl.: offizielle Website der Pingfund Performance Group <http://www.ppt.org.tw/>
 
 ## Referenzen
 
-- [Offizielle Website der Píngfēng Theater Group](http://www.ppt.org.tw/) — Geschichte und Werke der Truppe
-- [Sonderausstellung zu Gedenken an Li Guoxiu – Taiwan Theatre Museum](http://thedrama.org.tw/) — Lebenslauf und Schöpfungsdokumentation
-- [Geschichte der modernen Theatertwicklung in Taiwan – Nationales Zentrum für traditionelle Künste](https://www.ncfta.gov.tw/) — Theaterhistorische Materialien
+- [Offizielle Website der Pingfund Performance Group](http://www.ppt.org.tw/) — Geschichte der Truppe und Werkverzeichnis
+- [Gedenkausstellung für Li Guoxiu — Taiwan Drama Museum](http://thedrama.org.tw/) — Biografie und Werkverzeichnis
+- [Geschichte der Entwicklung des modernen Theaters in Taiwan — National Center for Traditional Arts](https://www.ncfta.gov.tw/) — Theaterhistorische Quellen

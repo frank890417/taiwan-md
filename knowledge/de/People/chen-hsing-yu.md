@@ -13,9 +13,9 @@ lastHumanReview: false
 readingTime: 8
 curation: incubating
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:84ffac689843ddd3'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-26T23:27:07+08:00'
 ---
 
@@ -134,4 +134,4 @@ Die Frage von den New Yorker Straßen 2009 wurde durch keine Schlagzeile gelöst
 
 [^10]: [Liberty Times：陳幸妤露面了！笑談離婚已一段時間：怕媒體沒新聞](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — Bericht über ihren öffentlichen Auftritt 2026 und Bildquelle, die die Szene ihrer Antwort auf Medienanfragen vor der Praxis festhält.
 
-## [^11]: [Wikimedia Commons：20161224 陳幸妤牙醫診所開業.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Eigenes Werk, hochgeladen von Huang Hsiang-ching am 24. Dezember 2016; die Dateiseite weist die Lizenz CC BY-SA 4.0 sowie die Pflicht zur Namensnennung aus.
+[^11]: [Wikimedia Commons：20161224 陳幸妤牙醫診所開業.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Eigenes Werk, hochgeladen von Huang Hsiang-ching am 24. Dezember 2016; die Dateiseite weist die Lizenz CC BY-SA 4.0 sowie die Pflicht zur Namensnennung aus.

@@ -67,7 +67,7 @@ Su decisión de volver a Taiwán a los 54 años no fue otra huida; fue convertir
 
 El 21 de febrero de 1987, se registró la fundación de TSMC. Con un capital de 145 millones de dólares, el Fondo de Desarrollo del Ejecutivo poseía el 48,3%, Philips (Países Bajos) el 27,5% y Formosa Plastics (Wang Yung-ching) el 5%[^13]. La primera fábrica de obleas se estableció en el Parque Científico de Hsinchu, con obleas de 6 pulgadas (150 mm) y un proceso de 2 micrómetros; era una planta derivada de la segunda fase del proyecto VLSI, tras aprender de RCA (EE. UU.) a través del ITRI, con tecnología transferida del ITRI y Philips[^17][^34]. Comparado con los 2 nanómetros actuales, 2 micrómetros es una diferencia de 1000 veces.
 
-> «Cuando fundé TSMC en 1987, los primeros años fueron muy difíciles. No tenía ninguna visión para dentro de diez años; ¡solo quería sobrevivir, solo quería que la empresa sobreviviera!»[^2romagnetic]
+> «Cuando fundé TSMC en 1987, los primeros años fueron muy difíciles. No tenía ninguna visión para dentro de diez años; ¡solo quería sobrevivir, solo quería que la empresa sobreviviera!»[^28]
 
 Así recordó Morris Chang más tarde. Sobre la inversión del 48,3% por parte del gobierno, él mismo dijo que eran «inversores que lo hacían a regañadientes». Si no hubiera sido por el apoyo decidido de Li Kuo-ting, ese dinero jamás se habría desembolsado[^28].
 
@@ -104,7 +104,7 @@ A principios de 2009, la crisis financiera mundial azotó el planeta.
 
 El entonces CEO, Tsai Li-hsing, despidió a 840 empleados alegando «bajo rendimiento y evaluaciones insuficientes», evitando deliberadamente la palabra «recorte». Los empleados despedidos formaron un comité de autoayuda y fueron a protestar bajo la residencia de Morris Chang en Taipéi.
 
-La esposa de Morris Chang, Chang Shu-fen, no pudo dormir en toda la noche. A la mañana siguiente, bajó con su escolta para comprar personalmente «suficiente leche de soja, pan y yutiao para 30 personas» y repartirlo entre los empleados que habían protestado durante la noche. Los empleados contaron más tarde a los medios[^1$\\$]:
+La esposa de Morris Chang, Chang Shu-fen, no pudo dormir en toda la noche. A la mañana siguiente, bajó con su escolta para comprar personalmente «suficiente leche de soja, pan y yutiao para 30 personas» y repartirlo entre los empleados que habían protestado durante la noche. Los empleados contaron más tarde a los medios[^14]:
 
 > «Todos estuvimos muy conmovidos, y decidimos cancelar la manifestación que teníamos planeada en la calle Ketagalan».
 
@@ -140,7 +140,7 @@ En el municipio de Baoshan, condado de Hsinchu.
 
 En 1844 (el 24º año del reinado de Daoguang en la dinastía Qing), Zheng Yong-jin envió a su familia a construir aquí un cementerio familiar de 4.000 pyeong. Ciento setenta y ocho años después, esta tumba ancestral debe ceder terreno para la fábrica de 2 nanómetros de TSMC[^20].
 
-La administración del Parque Científico de Hsinchu negoció con los descendientes de la familia Zheng durante cinco años para la expropiación de 270.000 pyeong (incluyendo el cementerio Zheng). Durante el proceso, TSMC «contrató trabajadores de forma privada para excavar y explorar en el cementerio, colocando varillas de hierro y marcas en al menos tres lugares»[^2 $\$ $0]. Los habitantes de Baoshan «usaron cintas blancas en señal de protesta». El concejal del condado de Hsinchu, Chiu Chen-wei, dijo directamente: «Es como si estuvieran 'aniquilando' la aldea de Daqi»[^20].
+La administración del Parque Científico de Hsinchu negoció con los descendientes de la familia Zheng durante cinco años para la expropiación de 270.000 pyeong (incluyendo el cementerio Zheng). Durante el proceso, TSMC «contrató trabajadores de forma privada para excavar y explorar en el cementerio, colocando varillas de hierro y marcas en al menos tres lugares»[^20]. Los habitantes de Baoshan «usaron cintas blancas en señal de protesta». El concejal del condado de Hsinchu, Chiu Chen-wei, dijo directamente: «Es como si estuvieran 'aniquilando' la aldea de Daqi»[^20].
 
 La reubicación se completó a finales de mayo de 2025.
 
@@ -183,7 +183,7 @@ La respuesta del gobierno de Lai Ching-te es que «no hay presión proveniente d
 
 El 26 de octubre de 2024, Estadio Deportivo del Condado de Hsinchu, Juegos Deportivos de TSMC.
 
-En teoría, debería ser el momento más alegre del año. Morris Chang (retirado hace 6 años), de 93 años, subió al podio para dar su discurso. No habló de los logros de TSMC. Habló de una advertencia pública[^3 $\$ $1]:
+En teoría, debería ser el momento más alegre del año. Morris Chang (retirado hace 6 años), de 93 años, subió al podio para dar su discurso. No habló de los logros de TSMC. Habló de una advertencia pública[^31]:
 
 > «En los semiconductores, especialmente en los más avanzados, la globalización ha muerto y el libre comercio mundial también ha muerto».
 
@@ -276,15 +276,11 @@ Este artículo utiliza 2 imágenes, todas almacenadas en `public/article-images/
 
 [^11]: [DigiTimes: Número de empleados de TSMC alcanza 84.512 en dic-2024](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000690785_T8Z6HY3S99B4JU4FMVK8H) — Estadísticas de principios de 2025 de medios chinos de la industria de semiconductores, registra que el número de empleados de TSTSMC alcanzó 84.512 (dic-2024), con una estimación de más de 90.000 para 2025.
 
-[^12]: [Business Weekly Excerpt: Revelando los orígenes de la fundación de TSMC — Morris Chang, mi destino estaba pactado](https://www.businessweekly.com.tw/business/blog/3017310) — Extracto de la autobiografía de Morris Chang (volúmenes 1 y 2) en Business Weekly (noviembre 2024), registra el párrafo verbatim sobre la propuesta de «Common Wafer Fab» en la oficina de Li Kuo-ting el 04-09-1985, la estructura de capital de 1987 (Philips 27,5% / Ejecutivo 48,3% / Wang Yung-ching 5%) y los lemas verbatim «No hacer promesas fáciles a los clientes» y «No competir con los clientes».
-
 [^13]: [今週刊: Por qué Morris Chang retomó el mando de TSMC hace 16 años](https://www.businessweekly.com.tw/business/blog/3017310) — Reportaje profundo de 今週刊 (febrero 202 $\$ $5), registra el incidente del despido de 840 empleados por parte de Tsai Li-hsing en 2009, la historia de la leche de soja bajo la casa de Chang Shu-fen, la destitución en menos de diez minutos en la junta del 11 de junio, y la explicación verbatim del principio de Chang de «no despedir a la gente».
 
 [^14]: [Wikipedia: Morris Chang](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Entrada de Wikipedia sobre Morris Chang, registra su nacimiento en Ningbo en 1931, su vida temprana viviendo en seis ciudades (Ningbo, Nanjing, Guangzhou, Hong Kong, Chongqing y Shanghai), sus diez escuelas y su llegada a EE. UU. para estudiar en 1949.
 
 [^15]: [Wikipedia: TSMC](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Entrada principal de Wikipedia sobre TSTSMC, registra la cronología de la primera fábrica de 8 pulgadas (Fab 5) en octubre de 1997, el inicio de la construcción de la primera fábrica de 12 pulgadas (Fab 12) en diciembre de 1999 y su producción masiva en 2002.
-
-[^16]: [9to5Mac: iPhone 6 chipworks teardown reveals TSMC A8](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — Análisis técnico de medios tecnológicos internacionales (19-09-2014), registra que el procesador Apple A8 del iPhone 6/6 Plus fue fabricado por TSTSMC en un proceso de 20 nanómetros, reemplazando oficialmente a Samsung.
 
 [^17]: [ETtoday: Visita privada de Lai Ching-te a Morris Chang, Wei Zhe-jia y Lin Chuan para preparar el anuncio de los 100 mil millones](https://en.wikipedia.org/wiki/TSMC) — Reporte de medios chinos de marzo de 2025, registra la visita discreta de Lai Ching-te en febrero de 2025 a Morris Chang, Wei Zhe-jia y Lin Chuan (director) para preparar el anuncio.
 
@@ -319,3 +315,7 @@ Este artículo utiliza 2 imágenes, todas almacenadas en `public/article-images/
 [^32]: [Crítica Independiente / Quu Wan-wen: El origen de la Montaña Protectora de la Nación](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Análisis profundo de la investigadora del Academia Sinica, Quu Wan-wen, sobre la transferencia tecnológica de RCA en 1976, el proyecto VLSI y la estructura de capital de 1987. Corregido para evitar errores sobre el proceso de 0,8 micrómetros.
 
 [^33]: [TSMC PR: Fab 5 wins Top Fab 2000 honor](https://companiesmarketcap.com/tsmc/marketcap/) — Comunicado de prensa de TSTSMC (año 2000), registra que la Fab 5 es la tercera fábrica de 8 pulgadas, su construcción inició en noviembre de 1995 y comenzó producción masiva en 1998 con tecnología de 0,35 micrómetros.
+
+[^34]: [Opinión / Chiu Wan-wen: El origen de la montaña que protege a la nación](https://opinion.cw.com.tw/blog/profile/390/article/13390) — Análisis en profundidad de la investigadora de la Academia Sinica Chiu Wan-wen, que registra literalmente los pasajes en chino sobre el viaje de 1976 del ITRI a RCA y la línea piloto de obleas de 3 pulgadas (que dio origen a UMC en 1980), el programa VLSI de segunda fase del gobierno que construyó la línea piloto de obleas de 6 pulgadas que se convirtió en la base de TSMC, y el reparto de participaciones (Philips 27,6 %, Executive Yuan 48,3 %) en la fundación de 1987. La fuente primaria en chino de la primera fab de TSMC, una línea de obleas de 6 pulgadas (150 mm) con el proceso de 2 micras.
+
+[^35]: [Comunicado de prensa de TSMC: Fab 5 gana el honor Top Fab 2000](https://pr.tsmc.com/english/news/2230) — Comunicado oficial de TSMC de 2000, que registra que Fab 5 es la tercera fab de 8 pulgadas de la compañía en el Parque Científico Industrial de Hsinchu (Taiwán), que la construcción comenzó en noviembre de 1995 y que la fab fue inaugurada en octubre de 1997.

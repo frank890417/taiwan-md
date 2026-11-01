@@ -1,141 +1,120 @@
 ---
-title: 'Li Guoxiu'
-description: "Founder of Ping-Feng Acting Troupe, Taiwan's King of Comedy, passed away from colorectal cancer on July 2, 2013, at the age of 58"
+title: 'Li Kuo-hsiu'
+description: 'Founder of Performative Productions, the King of Comedy in Taiwan; passed away from colon cancer on July 2, 2013, at age 57.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Li Kuo-hsiu',
+    'Performative Productions',
+    'comedy',
+    'theater',
+    'Taiwan drama',
+  ]
 subcategory: '藝術與設計'
-tags: ['李國修', '屏風表演班', '喜劇', '劇場', '台灣戲劇']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: People/李國修.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:11b55d270abdf3d3
-sourceBodyHash: sha256:7ab58584d6fb7af7
-translatedAt: 2026-05-24T05:06:32+08:00
+translatedFrom: 'People/李國修.md'
+sourceCommitSha: 'ec4bf4b5f'
+sourceContentHash: 'sha256:6ce83dd89e705886'
+sourceBodyHash: 'sha256:874193c9926520f1'
+translatedAt: '2026-10-22T02:46:27+08:00'
 ---
 
-# Li Guoxiu: Taiwan's King of Comedy
+# Li Kuo-hsiu: The King of Comedy in Taiwan
 
-Li Guoxiu was a pivotal comedic master in the history of modern Taiwanese theater. In 1986, he founded the Ping-Feng Acting Troupe and created classic works such as _Sha Mu Le Te_ (_Shamlet_), _Jing Xi Qi Shi Lu_ (_Peking Opera Revelation_), and _Nü Er Hong_ (_Daughter's Red_). Wrapping profound humanistic care within humorous performance forms, he explored serious social issues through laughter, earning him the title "Taiwan's King of Comedy." He passed away from colorectal cancer in 2013 at the age of 58, leaving behind a remarkable theatrical legacy.
+Li Kuo-hsiu (李國修) was a pivotal master of comedy in the history of modern Taiwanese theater. In 1986, he founded Performative Productions (屏風表演班), creating classic repertoires such as _Shamlet_ (莎姆雷特), _The Peking Opera Revelation_ (京戲啟示錄), and _Nü'er Hong_ (女兒紅). By wrapping humorous performances in profound humanistic concern, he explored serious social issues through laughter, earning him the title "the King of Comedy in Taiwan." He passed away from colon cancer on July 2, 2013, at the age of 57, leaving behind a significant theatrical legacy.
 
-## Growing Up as a Military Dependent's Village Child
+## The Son of a Peking Opera Bootmaker
 
-Li Guoxiu was born in Taipei on December 30, 1955. His father, Li Fei, was a non-commissioned officer in the Air Force, and his mother, Wang Guihua, was a homemaker. Raised in an Air Force military dependents' village (_juancun_), Li experienced the unique cultural atmosphere of these communities from a young age: a mix of dialects from various provinces, the disciplined lifestyle of military families, and a deep sense of nostalgia for the mainland.
+Born in Taipei on December 30, 1955, Li Kuo-hsiu was the son of Li Shen-en, a master craftsman who made handmade boots for Peking Opera. His mother was a fellow townsman of his father and later became the prototype for the protagonist in his play _Nü'er Hong_. His father's connection to Peking Opera eventually evolved into his semi-autobiographical work, _The Peking Opera Revelation_.
 
-Military village life provided Li Guoxiu with abundant creative material. The warmth and coldness of neighborly relations, the homesickness of mainland veterans, and the identity struggles of military village youth—these elements would recur throughout his plays.
+## Training in Radio and Television at Shih Hsin
 
-During his years at Chenggong High School, Li developed an interest in performance, frequently imitating comedians from television shows and displaying a natural comedic talent. His classmates all believed he had the potential to become an actor, but in traditional views, acting was not considered a proper profession.
+Li Kuo-hsiu studied in the Department of Radio and Television at the World News Training School (now the Department of Radio, Television, and Film at Shih Hsin University). In 1980, he won the Golden Bell Award for Best Editing in Radio, and in 1982, he received the "Most Promising New Dramatic Actor" award at the 17th Golden Bell Awards. Long before entering the theater, he had already gained recognition within the radio and television industry.
 
-## Awakening in Drama at Fu Jen Catholic University
+## The Performing Arts Workshop Period
 
-In 1974, Li Guoxiu enrolled in the Department of Chinese Literature at Fu Jen Catholic University, a turning point in his theatrical career. At Fu Jen, he participated in the campus drama club, received formal theatrical training, and was exposed to world-class dramatic works.
+In 1984, Li Kuo-hsiu co-founded the Performing Arts Workshop[^1] (表演工作坊) alongside [Stan Lai](/en/people/stan-lai-theater-innovation-master/) and Li Li-chun (金士傑 was a collaborator, not a founder). This marked the beginning of his professional theatrical career. During his time at the Workshop, he participated in creating classic pieces such as _That Night, We Spoke Crosstalk_ (那一夜，我們說相聲), demonstrating exceptional acting talent.
 
-During his university years, Li demonstrated dual talents in both playwriting and acting. The short plays he wrote often had his classmates in stitches while simultaneously touching their hearts. This "smiling through tears" quality would appear repeatedly in the Ping-Fong Acting Troupe's works.
+During this period, Li accumulated creative experience in modern theater and gradually confirmed his desire to forge an independent path dedicated to Taiwanese comedy. He discovered a particular aptitude for comedic performance combined with a keen observational eye for social reality, which led him to pursue a unique creative direction.
 
-After graduating in 1978, Li faced a life decision. His family hoped he would pursue a stable career, but he yearned to devote himself to the theater. In the end, he chose to follow his dream and decided to make drama his lifelong vocation.
+## The Founding of Performative Productions
 
-## The Performance Workshop Period
+In October 1986, Li Kuo-hsiu decided to establish Performative Productions. The troupe's debut work was the physical language experimental play _1812 and Some Kind of Performance_ (1812與某種演出). After performing _The Story of the Roundabout_ (圓環物語) in 1987, he officially left the Performing Arts Workshop. The name "Performative Productions" (屏風表演班) is derived from the function of a folding screen (_pingfeng_) to shield one from wind and rain, symbolizing the theater's role in providing spiritual solace to the audience.
 
-In 1984, Li Guoxiu co-founded the Performance Workshop with [Stan Lai](/en/people/stan-lai-theater-innovation-master/) and Li Liqun[^1] (Jin Shijie was a collaborator, not a co-founder), marking the beginning of his professional theater career. During his time at the Workshop, he participated in the creation of classic works such as _That Night, We Performed Crosstalk_, showcasing his outstanding acting talent.
+The founding principle of Performative Productions was "To stage a play, to make a group of friends," reflecting Li's emphasis on interpersonal relationships within the theater. He believed that theater was not merely artistic creation, but a sincere exchange between human beings.
 
-At the Performance Workshop, Li Guoxiu learned modern theater creation methods, particularly collective improvisation techniques. These two years of theatrical training confirmed his desire to forge an independent path for Taiwanese comedy.
+In its early days, the troupe's performance venues were rudimentary and audiences were few, but Li insisted on pouring his heart into every work. He believed that if the work was good enough, the audience would eventually recognize it. This persistent spirit sustained the troupe through its difficult startup period.
 
-During his time at the Workshop, Li began contemplating his creative direction. He discovered he was particularly skilled in comedic performance while also possessing a keen sensitivity to social reality. This led him to decide on a unique creative path.
+## The Classic Trilogy
 
-## Founding the Ping-Feng Acting Troupe
+### _Shamlet_ (1992)
 
-In 1986, Li Guoxiu left the Performance Workshop and founded the Ping-Feng Acting Troupe. The troupe's name derives from the function of a "screen" (_pingfeng_) blocking wind and rain, symbolizing the theater's role in providing spiritual comfort to its audience.
+_Shamlet_ is Li Kuo-hsiu's most widely known laugh-out-loud comedy. It premiered in 1992 and has been restaged many times since; the 2006 "狂潮版" (Frenzy Version) featured him performing on stage personally, and it was staged again in 2024 as a commemorative work.
 
-The founding principle of the Ping-Feng Acting Troupe was "put on a play, make a group of friends," reflecting Li Guoxiu's emphasis on interpersonal relationships in theater. He believed theater was not just artistic creation but also genuine human connection.
+### _The Peking Opera Revelation_ (1996)
 
-In the early days, Ping-Feng's performance venues were modest and audiences were small, but Li insisted on putting his heart into every work. He believed that as long as the work was good enough, audiences would eventually come to appreciate it. This persistent spirit sustained the troupe through its difficult early years.
+Released in 1996, _The Peking Opera Revelation_ is a semi-autobiographical work created by Li to honor his father. It uses a layered "play-within-a-play" technique to tell a story spanning half a century. This was the first time Wang Yue (王月) took on the role of the "Second Aunt."
 
-### _Sha Mu Le Te (Shamlet)_ (1992)
+### _Nü'er Hong_ (2003)
 
-_Sha Mu Le Te_ is Li Guoxiu's most influential representative work, performed over a hundred times. It transplants Shakespeare's _Hamlet_ into a Taiwanese military village setting. The protagonist, Sham, is a military village youth torn between his father's legacy and his own ideals.
+Released in 2003, the protagonist of _Nü'er Hong_ was modeled after Li Kuo-hsiu's mother.
 
-This work ingeniously combines Western classics with Taiwanese local experience, exploring serious life issues through humor. Li's performance possesses both the depth of Shakespearean drama and the relatability of ordinary Taiwanese people.
+## Comedic Aesthetics and Humanistic Concern
 
-_Sha Mu Le Te_ was performed over a hundred times, becoming a classic in the history of Taiwanese theater. This work established Li Guoxiu's status in Taiwanese theater and proved the viability of localized adaptation.
+Li Kuo-hsiu's comedy is centered on humanistic concern, using laughter to carry tragic social observations. He believed that the best comedy should "make people cry through their laughter," prompting reflection on life amidst joy.
 
-### _Jing Xi Qi Shi Lu (Peking Opera Revelation)_ (1996)
+His plays often focus on the fates of ordinary people, sympathizing with the hardships of those at the bottom of society. Whether it be Peking Opera actors or traditional women, they all receive dignity and warmth under his pen.
 
-_Peking Opera Revelation_ centers on the life journey of a Peking opera performer, depicting the plight of traditional opera in modern society. Based on Li Guoxiu's own experience learning Peking opera, this semi-autobiographical work weaves in numerous Peking opera arias and movements, with Li himself performing on stage to demonstrate his deep operatic skills.
-
-Using modern theater techniques to reinterpret traditional art, he introduced younger audiences to the beauty of Peking opera. This work received the Grand Prize at the first Taishin Arts Awards and garnered high international acclaim. _Peking Opera Revelation_ represents Li Guoxiu's deep reflection on traditional culture and its modern expression.
-
-### _Nü Er Hong (Daughter's Red)_ (1999)
-
-_Daughter's Red_ is a work Li Guoxiu created for his mother, depicting the life of a traditional woman. The mother in the play sacrifices her own dreams for her family while maintaining an optimistic and resilient attitude.
-
-This work demonstrates Li Guoxiu's deep understanding and respect for women. With gentle strokes, he portrays a mother's greatness, bringing audiences to tears of emotion amid laughter.
-
-The success of _Daughter's Red_ proved that Li Guoxiu was not only an outstanding comedic actor but also a profound observer of human nature. He could discover the extraordinary beauty within ordinary life.
-
-## Comic Aesthetics and Humanistic Care
-
-Li Guoxiu's comedy was centered on humanistic care, using laughter to carry tragic social observations. He believed the best comedy should "make people laugh through tears," prompting reflection on life amid joy.
-
-His plays often focused on the fates of ordinary people, sympathizing with the hardships of those at the bottom of society. Whether military village veterans, Peking opera performers, or traditional women, all were given dignity and warmth in his writing.
-
-Li Guoxiu was particularly skilled at employing Taiwanese local language and cultural elements, allowing audiences to resonate with familiar situations. His dialogue was vivid and natural, full of life wisdom and humor.
+Li was particularly skilled at utilizing local Taiwanese language and cultural elements, allowing audiences to resonate within familiar contexts. His dialogue was vivid and natural, filled with life wisdom and humor.
 
 ## Actor Training and Theater Education
 
-Li Guoxiu was not only an outstanding playwright and actor but also a distinguished drama educator. He established a systematic actor training system at the Ping-Feng Acting Troupe, nurturing well-known theater figures such as Fan Guangyao and Huang Zhikai.
+Li Kuo-hsiu was not only an excellent playwright and actor but also a distinguished drama educator. He established a systematic actor training system at Performative Productions, nurturing renowned theater figures such as Fan Guang-yao (樊光耀) and Huang Chih-kai (黃致凱).
 
-He placed particular emphasis on actors' life experiences, believing that true performance comes from careful observation of life. He often led actors into various social strata to directly experience different walks of life.
+He placed great importance on the lived experiences of actors, believing that true performance stems from careful observation of life. He often led his actors into various strata of society to directly experience different walks of life.
 
-Li Guoxiu's teaching philosophy emphasized "sincerity." He believed actors must be honest with themselves to create authentic and moving characters. This philosophy influenced many young actors.
+Li's teaching philosophy emphasized "sincerity." He believed that an actor must face themselves honestly to create characters that are real and moving. This philosophy influenced many young actors.
 
-## Chronicler of Military Village Culture
+## Late Works and Physical Ailments
 
-As a child of the military village, Li Guoxiu always cared about the preservation of military village culture. Many of his works were set in military villages, documenting the lives of this unique community.
+In the late 2000s, Li began facing health issues, yet he persisted in creating and performing. Late works such as _The Six義 Gang_ (六義幫, 2008) demonstrated his profound insights into life.
 
-As urban development led to the demolition of many military villages, Li Guoxiu's works became precious cultural records. He preserved this vanishing historical memory in dramatic form.
+Facing illness, Li maintained an optimistic attitude. He often said: "Life is like excrement; no matter how you squeeze, it comes out." (Attributed to Li Kuo-hsiu, as seen in various interview records[^2]). This humorous philosophy of life touched countless audience members.
 
-Li Guoxiu believed that military village culture was an important component of Taiwanese society, worthy of understanding and respect. His works bridged the divide between native Taiwanese and mainlanders, promoting social harmony.
-
-## Late-Career Creation and Physical Illness
-
-In the late 2000s, Li Guoxiu's health began to decline, yet he persisted in creating and performing. Late works such as _Liu Yi Bang_ (2007) and _Huang Jin Sui Yue_ (_Golden Years_, 2011) revealed his profound reflections on life.
-
-Facing illness, Li Guoxiu maintained an optimistic attitude, often saying: "Life is like a bowel movement—no matter how you push, it comes out." (Attributed to Li Guoxiu, recorded in multiple interviews[^2]) This humorous life philosophy touched countless audiences.
-
-He began contemplating questions of life and death more frequently, and his works were filled with explorations of life's meaning. Though tinged with sadness, these works retained his characteristic humor and warmth.
+He began to contemplate the questions of life and death more deeply, and his works became filled with explorations of the meaning of existence. Although these works carried tones of sadness, they maintained his characteristic humor and warmth.
 
 ## Sudden Passing and Theatrical Legacy
 
-On July 2, 2013, Li Guoxiu passed away from colorectal cancer at the age of 58[^3]. This news shocked the entire Taiwanese theater community, and countless people mourned the loss of this comedic master.
+On July 2, 2013, Li Kuo-hsiu passed away from colon cancer at the age of 57[^3]. This news shocked the entire Taiwanese theater community, as countless people mourned the loss of this comedy master.
 
-Li Guoxiu's passing prompted a reexamination of his contributions. What he left behind was not just a catalog of dozens of plays but an entire aesthetic system for how comedy can carry humanistic weight.
+Li's passing prompted people to re-examine his contributions. He left behind not just a repertoire of dozens of plays, but an aesthetic system regarding how comedy can carry humanistic weight.
 
-The Ping-Feng Acting Troupe continued operating after his passing, taken over by his wife Wang Yue. The troupe is dedicated to promoting Li Guoxiu's creative philosophy, ensuring his spirit lives on.
+Performative Productions has continued to operate since his passing, dedicated to promoting Li's creative philosophy and ensuring his spirit is passed down.
 
 ## Influence on Taiwanese Theater
 
-Li Guoxiu pioneered the path of modern comedic theater in Taiwan, proving the viability of localized creation. His works set new standards for Taiwanese theater and influenced countless subsequent creators.
+Li Kuo-hsiu pioneered modern comedic theater in Taiwan, proving the possibility of successful localized creation. His works set new standards for Taiwanese theater and influenced countless subsequent creators.
 
-The actors and creators he nurtured are spread throughout the Taiwanese theater world, including Fan Guangyao, Huang Zhikai, Chen Lihua, and others. These individuals continue to spread his creative philosophy and teaching methods.
+The actors and creators he trained are spread throughout the Taiwanese theater scene, including Fan Guang-yao, Huang Chih-kai, and Chen Li-hua (陳立華). These individuals continue to propagate his creative philosophy and teaching methods.
 
-Li Guoxiu's success also elevated society's recognition of theater arts, helping more people understand the value and charm of drama. He made important contributions to the development of Taiwanese theater.
+Li's success also raised social recognition of theatrical arts, helping more people realize the value and charm of drama. He made significant contributions to the development of theater in Taiwan.
 
-Li Guoxiu once said: "In character, be like Confucius; in action, be like Laozi." This statement reflects his life philosophy and explains why he was able to create such heartwarming works. He spent his life proving the power of comedy and brought endless joy and reflection to Taiwanese society through his works.
+Li Kuo-hsiu once said: "To be a person, act like Confucius; to do things, act like Laozi." This phrase embodies his life philosophy and explains why he was able to create such heartwarming works. He spent his life proving the power of comedy and used his works to bring endless joy and reflection to Taiwanese society.
 
-[^1]: The Performance Workshop was co-founded by Stan Lai, Li Guoxiu, and Li Liqun; Jin Shijee was an important collaborating actor but not a co-founder. See: Wikipedia "Performance Workshop" entry <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
+[^1]: The founders of the Performing Arts Workshop were Stan Lai, Li Kuo-hsiu, and Li Li-chun; Jin Shijie was an important collaborating actor but not a founder. See: Wikipedia entry "Performing Arts Workshop" <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
 
-[^2]: This quote from Li Guoxiu appears in multiple interviews and commemorative articles. See: Wikipedia "Li Guoxiu" entry <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; Ping-Feng Acting Troupe official website <http://www.ppt.org.tw/>
+[^2]: These words of Li Kuo-hsiu appear in many interviews and commemorative articles. See: Wikipedia entry "Li Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; Performative Productions official website <http://www.ppt.org.tw/>
 
-[^3]: Li Guoxiu passed away from colorectal cancer on July 2, 2013, at the age of 58. See: ETtoday News report, 2013/07/02; Wikipedia "Li Guoxiu" entry <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
+[^3]: Li Kuo-hsiu passed away from colon cancer on July 2, 2013, at age 57 (some reports cited age 58 by traditional reckoning). See: ETtoday News report 2013/07/02; Wikipedia entry "Li Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
 
-[^4]: _Peking Opera Revelation_ received the Grand Prize at the first Taishin Arts Awards (1997). See: Taishin Arts Awards official website <https://taishinarts.org.tw/>
-
-[^5]: The Ping-Feng Acting Troupe was founded in 1986 with the founding principle of "put on a play, make a group of friends." Before Li Guoxiu's passing, the troupe performed over 40 plays. See: Ping-Feng Acting Troupe official website <http://www.ppt.org.tw/>
+[^5]: Performative Productions was established in 1986 with the motto "To stage a play, to make a group of friends," and had performed over 40 plays prior to Li Kuo-hsiu's death. See: Performative Productions official website <http://www.ppt.org.tw/>
 
 ## References
 
-- [Ping-Feng Acting Troupe Official Website](http://www.ppt.org.tw/) — Troupe history and production information
-- [Li Guoxiu Memorial Exhibition — Taiwan Theater Museum](http://thedrama.org.tw/) — Biography and creative records
-- [History of Modern Taiwanese Theater — National Center for Traditional Arts](https://www.ncfta.gov.tw/) — Theater historical materials
+- [Performative Productions Official Website](http://www.ppt.org.tw/) — Troupe history and repertoire data
+- [Li Kuo-hsiu Memorial Special Exhibition — Taiwan Drama Museum](http://thedrama.org.tw/) — Biography and creative records
+- [History of Modern Theater Development in Taiwan — National Center for Traditional Arts](https://www.ncfta.gov.tw/) — Theater historical materials

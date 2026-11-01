@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T12:07:00+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:48:33.273594+00:00'
 ---
 
 # Xi Mu-rong: A Poetic Symphony of Grasslands and Modernity
@@ -37,13 +37,13 @@ In 1949, at the age of six, Xi Mu-rong moved with her family to Hong Kong. The i
 
 In 1954, Xi Mu-rong settled in Taiwan with her family. Her life during her youth in Taiwan, particularly the natural scenery and humanistic environment of Taiwan, provided rich material for her poetic creation. The mountains, flora, and seasonal changes of Taiwan all became recurring images in her poetry.
 
-## Studies at National Taiwan Normal University's College of Fine Arts
+## Studying at the Department of Fine Arts, NTNU
 
-After graduating from middle school, Xi Mu-rong enrolled in the Department of Fine Arts at National Taiwan Normal University (NTNU). Her training in art cultivated a keen perception of color and composition, artistic sensibilities that were later integrated into her poetic works.[^1]
+After graduating from junior high school, Xi Mu-rong was admitted to the Department of Fine Arts at National Taiwan Normal University. Her professional training in fine arts cultivated a keen perception of color and composition—artistic qualities that were later integrated into her poetic creations.[^1]
 
-During her time at NTNU, Xi Mu-rong achieved success in painting and also began experimenting with literary creation, reading extensively from Chinese and foreign poetry. The works of modern poets deeply influenced her, gradually helping her form her own poetic language.
+During her time at NTNU, Xi Mu-rong achieved success in painting and began experimenting with literary creation, reading extensively in both Chinese and foreign poetry. The works of modern poets had a profound influence on her, allowing her to gradually develop her own poetic language.
 
-After graduating in 1966, Xi Mu-rong pursued advanced studies at the Royal Academy of Fine Arts in Brussels, Belgium. The museums, churches, and ancient architecture of Europe left a deep impression on her, broadening her creative horizons.[^2]
+After graduating from NTNU in 1963, Xi Mu-rong went to study at the Royal Academy of Fine Arts in Brussels, Belgium, in 1964, and graduated in 1966. The museums, churches, and ancient architecture of Europe left a deep impression on her, broadening her creative horizons.[^2]
 
 ## _Seven Miles of Fragrance_: A Stunning Debut in Poetry
 
@@ -53,19 +53,19 @@ The success of _Seven Miles of Fragrance_ lies in its clarity—it is not overly
 
 "A Tree in Bloom" became a classic of Chinese-language poetry: "How can I let you meet me / At my most beautiful moment? / For this, / I have prayed for five hundred years before the Buddha / Praying that we might form an earthly bond." This poem is widely recited today for its elegant imagery and moving emotion.
 
-## _Youth Without Grievance_: A Poetic Reflection on Youthful Years
+## 《Youth Without Regret》: A Poetic Retrospective of Youthful Years
 
-_Youth Without Grievance_, published in 1982, continued the success of _Seven Miles of Fragrance_. This collection focuses on themes of youth, love, and friendship, demonstrating the poet's deep insights into life. The title poem, "Youth Without Grievance," expresses a longing for past years and an admiration for youth.[^4]
+Published in 1983, 《Youth Without Regret》 continued the success of 《Seven Miles of Osmanthus》. This poetry collection focuses on life themes such as youth, love, and friendship, showcasing the poet's profound insights into life. The title poem, 〈Youth Without Regret〉, expresses a longing for passing years and a celebration of youth. [^4]
 
-Xi Mu-rong's poetry often starts from a specific scene or object, gradually unfolding to reach a philosophical height. Another characteristic of _Youth Without Grievance_ is its musicality—it has a strong sense of rhythm, making it suitable for recitation and allowing readers to experience the beauty of the poetry through sound.
+Xi Mu-rong's poems often begin with a specific scene or object, gradually unfolding until they ultimately sublimate to a philosophical height. Another characteristic of 《Youth Without Regret》 is its musicality—it possesses a strong sense of rhythm that is well-suited for recitation, allowing readers to experience the beauty of the poetry through sound.
 
-## Essay Writing and the Mongol Connection
+## Prose Writing and the Mongolian Complex
 
-In addition to poetry, Xi Mu-rong was an essayist. In the late 1980s, she sequentially published collections such as _Traces of Growth_ and _A Song_, continuing the fresh style of her poetry with beautiful writing and sincere emotion.
+In addition to poetry, Xi Mu-rong was also an essayist. In the early 1980s, she successively published prose collections such as 《成長的痕跡》 (Traces of Growth, 1982) and 《有一首歌》 (There is a Song), continuing her fresh poetic style with beautiful language and sincere emotion.
 
-In 1989, she traveled to the Mongolian grasslands for the first time; this journey of seeking roots had a massive impact on her. She began creating numerous poems and essays centered on Mongolia, such as _My Home is on the Plateau_ and _The Land Awaits_, which demonstrated her deep affection for the grasslands and her reflections on ethnic culture. Using modern poetic forms, she expressed a longing for ancient culture and an affirmation of ethnic identity.[^5]
+In 1989, she set foot on the Mongolian grasslands for the first time; this journey of seeking her roots had a profound impact on her. She began to create extensively in poetry and prose themed around Mongolia. Works such as 《我的家在高原上》 (My Home is on the Plateau) and 《江山有待》 (The Rivers and Mountains Await) demonstrate her deep affection for the grasslands and her reflections on ethnic culture. Using the form of modern poetry, she expressed a longing for ancient culture and an identification with her ethnic identity.[^5]
 
-_I Name Memory_ (published in 2019) is her later collection, with language that tends to be tranquil and introverted as she reflects on a life of wandering and searching roots at an advanced age.
+《我給記憶命名》 (Naming My Memories), published in 2019, is her poetry collection from her later years. Looking back at a lifetime of wandering and root-seeking in her old age, the language has become even more tranquil and introspective.
 
 ## The Perfect Combination of Painting and Poetry
 
@@ -87,19 +87,19 @@ Unlike the refined elegance of [Pai Hsien-yung](/en/people/pai-hsien-yung-litera
 
 ## References
 
-[^1]: [Department of Fine Arts at National Taiwan Normal University](https://www.ntnu.edu.tw/art/) — Background and alumni information for NTNU's Department of Fine Arts.
+[^1]: [Department of Fine Arts, National Taiwan Normal University](https://www.ntnu.edu.tw/art/) — Background of the establishment and alumni information of the Department of Fine Arts at NTNU.
 
-[^2]: [Royal Academy of Fine Arts in Brussels (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — The institution where Xi Mu-rong studied abroad, a national art academy in Belgium.
+[^2]: [Académie Royale des Beaux-Arts (Royal Academy of Fine Arts)](https://www.arba-esi.be/) — The institution where Xi Mu-rong studied; a national art academy in Belgium.
 
-[^3]: [National Taiwan Museum of Literature — Special Exhibition on Xi Mu-rong](https://www.nmtl.gov.tw/) — Records of the publication and reprinting of _Seven Miles of Fragrance_, including sales data and exhibition materials.
+[^3]: [National Museum of Taiwan Literature — Xi Mu-rong Special Exhibition](https://www.nmtl.gov.tw/) — Publication and republication records of "Seven Miles of Osmanthus," including poetry collection sales data and exhibition materials.
 
-[^4]: [Taiwan E-book Alliance — Xi Mu-rong's Works Page](https://www.taaze.tw/) — Initial edition information and publication year confirmation for _Youth Without Grievance_.
+[^4]: [Taiwan eBook Alliance — Xi Mu-rong Works Page](https://www.taaze.tw/) — First edition information and confirmation of the publication year for "Youth Without Regret."
 
-[^5]: [Mongol Culture Museum — Xi Mu-rong's Mongol Literary Creations](https://www.mtac.gov.tw/) — A special introduction by a government institution regarding Xi Mu-rong's literary works on Mongolia.
+[^5]: [Museum of Mongolian and Tibetan Culture — Xi Mu-rong's Mongolian Literary Creations](https://www.mtac.gov.tw/) — A thematic introduction by a government institution regarding Xi Mu-rong's Mongolian literary works.
 
-[^6]: [Official Website of Xi Mu-rong](http://www.ximurong.tw) — The poet's official website, which includes information on her works, art exhibitions, and creative journey.
+[^6]: [Xi Mu-rong Official Website](http://www.ximurong.tw) — The poet's official website, containing information on her works, art exhibition records, and creative journey.
 
-[^7]: [National Arts Award — National Foundation for the Arts](https://www.ncafroc.org.tw/) — Records of awards received by Xi Mu-rong and judging commentary.
+[^7]: [National Literary Arts Award — National Culture and Arts Foundation](https://www.ncafroc.org.tw/) — Xi Mu-rong's award records and judging descriptions.
 
 ## Further Reading
 

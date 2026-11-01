@@ -1,29 +1,30 @@
 ---
-title: "Hsu Chiao-hsin : de la fille d'un petit-déjeuner à la députée du « plan d'armements de 800 milliards » et la jeunesse par le capital médiatique"
-description: "Députée du septième district électoral de Taipei. Née en 1989 dans une famille tenant un petit-déjeuner à Taipei, elle est devenue en 2013, à 24 ans, la plus jeune membre du Comité central permanent de l'histoire du Kuomintang. En 2024, elle a battu Hsu Shu-hua avec 89 727 voix pour entrer au Yuan législatif. Lors de la grande révocation de 2025, 62 000 voix favorables ont atteint le seuil légal mais la motion a été rejetée ; en 2026, lors des négociations sur les acquisitions militaires, elle a présenté une version de 800 milliards en confrontation avec la ligne du Comité central (380 milliards + N), Chi Lin-lian la nommant publiquement pour lui dire « ne faites pas ce qui réjouit l'ennemi et afflige les proches »."
+title: "Hsu Chiao-hsin : de fille de propriétaire de restaurant de petit-déjeuner à députée de l'« achat d'armes de 800 milliards NT$ », le rajeunissement du trafic"
+description: "La députée de la 7e circonscription de Taipei, Hsu Chiao-hsin, née le 18 novembre 1989 dans un restaurant de petit-déjeuner occidental ouvert toute l'année dans le district de Xinyi, s'appelait à l'origine Hsu Mei-feng et a changé de nom à cause de l'affaire de la sextape de Chu Mei-feng. Le 13 novembre 2013, à 24 ans, elle devient la plus jeune membre du 19e Comité central du Kuomintang ; le 13 janvier 2024, elle est élue députée avec 89 727 voix, battant Hsu Shu-hua. Le 26 juillet 2025, la pétition de révocation recueille 62 633 signatures, atteignant le seuil mais est rejetée ; le 27 avril 2026, les négociations sur les achats d'armes aboutissent à une version à 800 milliards NT$, entrant en collision avec les 380 milliards NT$ plus N du parti central, Chi Lin-lien soulignant qu'il ne faut pas faire des choses qui plaisent aux proches et nuisent aux ennemis. Trois affaires — l'imbroglio de l'espion communiste, l'IPEF et les documents classifiés sur l'aide à l'Ukraine — décortiquent une à une cette trajectoire de rajeunissement de l'audience."
 date: 2026-05-03
+category: 'People'
 tags:
   [
-    'personnalité politique',
-    'député',
+    'Personnalité politique',
+    'Député',
     'Kuomintang',
-    'Combat Blue',
-    'septième district électoral de Taipei',
-    'élections législatives 2024',
+    'Combattant bleu',
+    '7e circonscription de Taipei',
+    'Législateur 2024',
   ]
-category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
-readingTime: 12
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: People/徐巧芯.md
-sourceCommitSha: '200949f4'
+researchReport: 'reports/research/2026-05/徐巧芯.md'
+difficulty: 'intermediate'
+readingTime: 12
+translatedFrom: 'People/徐巧芯.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
-translatedAt: 2026-05-03T23:14:07+08:00
-difficulty: 'intermediate'
+translatedAt: '2026-10-21T01:44:47.516496+00:00'
 ---
 
 # Hsu Chiao-hsin : de la fille d'un petit-déjeuner à la députée du « plan d'armements de 800 milliards » et la jeunesse par le capital médiatique

@@ -171,8 +171,10 @@ try:
     ga = d.get('ga', {})
     t = ga.get('totals', {})
     print(f"  GA {ga.get('days','?')}d：users {t.get('activeUsers','?'):,} / PV {t.get('screenPageViews','?'):,} / engagement {t.get('avgEngagementSeconds','?')}s / bounce {round(t.get('bounceRate',0)*100,1)}%")
+    # 上一行的總量是 ga.days 視窗（目前 28 天），這份清單是 7 天：兩個視窗同節並列，
+    # 標籤各自寫清楚才不會被讀成同一個窗（REFLEXES #38；2026-10-25 週體檢抓到）
     for a in (ga.get('topArticles7d') or [])[:5]:
-        print(f"    top: {a.get('path','')[:44]:46s} {a.get('views','?')} views")
+        print(f"    top(7d): {a.get('path','')[:40]:42s} {a.get('views','?')} views")
     sc = d.get('searchConsole7d', {})
     st = sc.get('totals', {})
     bb = sc.get('brandBreakdown', {})

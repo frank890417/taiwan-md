@@ -32,13 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
-relatedDiary:
-  - 2026-07-18-104133-taiwan-sensibility
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-09-26T19:10:20+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:46:20.814576+00:00'
 ---
 
 # Taiwanese Sensibility: Do We Need Koreans to Like It First Before We Dare Say Our Old Houses Are Beautiful?
@@ -153,40 +152,40 @@ So on the question of whether an outsider has to approve first, Taiwan's film hi
 
 A film can be watched again. A house cannot. When we turn the camera from the movie theater back to the street, a more uncomfortable question appears: for the old things now being torn down, are the reasons we ourselves give for tearing them down honest enough?
 
-## Two Reasons for One Bridge, and the Tenant No One Asked
+## Two Reasons for One Bridge, and the Tenants No One Asked
 
 Back to that bridge.
 
-The Heping-Xinsheng pedestrian overpass was built in 1982 and, for forty years, was one of Taipei's most frequently filmed pedestrian bridges. Besides Oh Hyuk's wedding photos, both Edward Yang and Ang Lee shot scenes here[^23]. Late at night on November 19, 2024, it was torn down. The city government's stated reason was "a forty-year service life, structural problems." The trouble is, that reason doesn't match the report the city government itself was holding.
+The Heping Xinsheng Pedestrian Bridge was built in 1982. For forty years, it has been one of Taipei's most frequent subjects in front of a camera—aside from Wu Hsieh's wedding photos, both Edward Yang and Ang Lee have filmed here[^23]. In the late hours of November 19, 2024, it was demolished. The reason provided by the city government was "a forty-year service life and structural issues." The problem is that this reason contradicts the city's own reports.
 
-Just six months before the demolition, on May 17, 2024, a company called Taiwan Integrated Disaster Prevention Engineering Consultants had just completed a structural inspection of the bridge, concluding that only the rust holes in the exterior cladding needed repair, and that the structure itself was sound[^24]. Ms. Ku, a U.S.-licensed architect, later reviewed the records in the Taipei City Bridge and Culvert Management System and pointed out the contradiction: this inspection had explicitly found the "structure sound," yet within less than six months, the city government's New Construction Office had reversed itself to say the "bridge's structure was a cause for concern"[^24].
+Just six months before the demolition, on May 17, 2024, a company called "Taiwan Integrated Disaster Prevention Engineering Consulting" completed a structural inspection of the bridge; the conclusion was that only the corrosion and perforation of the outer decorative panels needed repair, and the structure itself was sound[^24]. Ms. Gu, who holds a U.S. architect license, later reviewed the records in the "Taipei City Bridge and Culvert Management System" and pointed out this contradiction: despite the inspection clearly stating the "structure is sound," the city's Department of Construction (New Construction Office) changed its stance less than six months later to claim the "bridge structure is concerning"[^24].
 
-And what about that "forty-year service life"? At a coordination meeting between the city government and residents, Deputy Chief Engineer Lin of the New Construction Office stated on the spot that the bridge had exceeded its forty-year service life and had structural problems requiring demolition; but a resident at the meeting who was familiar with building regulations challenged this on the spot: "That forty-year limit is actually the Ministry of Finance's rule on the 'minimum service life of public property (overpasses),' created by the central government to keep counties and cities from building recklessly — the intent was fraud prevention, not an actual service life."[^24] (Lin Wen-chun, the petition's initiator, was also at the meeting and recorded this exchange.) A fiscal regulation meant to stop local governments from spending recklessly was being used as the structural basis for tearing down a bridge.
+What about that "forty-year service life"? At a coordination meeting between the city government and residents, a Deputy Chief Engineer named Lin from the New Construction Office stated on the spot that the bridge had exceeded its forty-year service life and must be demolished due to structural issues. However, a resident familiar with building regulations questioned him immediately: "The 40-year limit is actually a 'minimum service life for public property (pedestrian bridges)' set by the Ministry of Finance to prevent local governments from building unnecessary infrastructure; it is aimed at preventing corruption, not a functional service life limit."[^24] (Lin Wen-chun, the organizer of the petition, was also present and recorded this exchange.) A financial regulation designed to prevent local governments from wasting money was being used as the structural basis for tearing down a bridge.
 
-More curiously still, the demolition reason Mayor Chiang Wan-an gave publicly was different again from the Public Works Department's: he argued that the bridge's usage rate was under ten percent and that its piers blocked drivers' sightlines, and drew an analogy to the drop in traffic accidents after the demolition of the Zhonghua Market and the overpass at the Xinyi-Keelung Road intersection[^25]. Within the city government itself, there was never one unified account of "why it had to be torn down" that actually matched the evidence.
+Even more subtle is that the reason for demolition publicly stated by Mayor [蔣萬安](/people/蔣萬安) differs from that of the Public Works Department: he argued that the bridge's usage rate was less than 10% and that the piers obstructed drivers' sightlines, even drawing analogies to how traffic accidents decreased after the demolition of the China Mall and the pedestrian bridge at the Xinyi-Keelung Road intersection[^25]. Internally, the city government has never had a unified explanation for "why it must be demolished" that matches the evidence.
 
-> **✦** Even the reasons for tearing down a single bridge don't match the report the city itself commissioned. Of all the "vanishing Taiwanese sensibility" out there, how much of it is stuff we tore down without ever being honest, even with ourselves, about why?
+> **✦** Even the reasons for tearing down a single bridge fail to match its own commissioned reports. Could some of that "vanishing _Taiwanese sensibility_" be things we have torn down without ever being honest about why?
 
-Not every old street meets this fate. Dadaocheng's Dihua Street took a different path: through a transfer of development rights (TDR) mechanism, the façades of old buildings were preserved without large-scale demolition. But even this "success story" has been debated by scholars over whether it caused displacement or drove up housing prices[^26]. Even the method of preservation itself is not a clean answer.
+Not every old street meets such an end. Dihua Street in Dadaocheng has taken a different path: through the Transfer of Development Rights (TDR) mechanism, the facades of old houses are preserved, avoiding large-scale demolition. Yet even in this "success story," academia continues to debate whether it has caused displacement or driven up property prices[^26]. Even the method of preservation itself is not a clean answer.
 
-![Streetscape of Dihua Street's second section in March 2024, preserving the original width and old building façades](/article-images/culture/dihua-street-2024.webp)
-_Dihua Street's second section in 2024. Its old building façades were preserved through the transfer of development rights mechanism, making it one of the few historic districts in Taiwan that wasn't torn down. But even this "success" is still debated by scholars over its cost. Photo: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
+![Street view of Section 2, Dihua Street in March 2024, preserving the original width and old house facades](/article-images/culture/dihua-street-2024.webp)
+_Section 2, Dihua Street, 2024. The facades of old houses have been preserved through the TDR mechanism, making this one of the few historical districts in Taiwan that hasn't been demolished—but even for this "success," academics are still debating its cost. Photo: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
 
-And to be fair, not every demolition is as questionable as the Heping-Xinsheng overpass. In that very same city, Xining Public Housing was designated a sea-sand building due to excessive chloride content: a safety problem with a clear technical benchmark, not a murky matter of "service life." Tearing down this old building, where Tsai Ming-liang shot several of his films, rested on much sturdier grounds[^27]. On the other side, the Rebar Royal Community, nearly forty years old and also diagnosed as a sea-sand building, had residents wait a full twenty-five years before urban renewal finally began demolition; one elderly resident described the news as like seeing daybreak in the dead of night[^28]. Both are demolitions, but one is questionable, while the other is something residents themselves begged for over half a lifetime.
+And to be honest, not every demolition has reasons as suspicious as the Heping Xinsheng Pedestrian Bridge. In the same city, the Xining National Housing complex was identified as a _haisha wu_ (sea-sand house) due to excessive chloride content; this is a safety issue with clear technical indicators, not an ambiguous "service life" issue; the reasons for demolishing that old building, where Tsai Ming-liang has filmed several movies, are much more substantial[^27]. On the other hand, in the Lipa Royal Community, which is nearly forty years old and identified as a _haisha wu_, residents waited a full twenty-five years before finally seeing urban renewal begin; one elderly gentleman described the news as seeing a glimmer of dawn in the dark night[^28]. Both involve demolition, but some demolitions are suspicious, while others are things residents have spent half their lives praying for.
 
 ```tw-versus
-Heping-Xinsheng Overpass | Xining Public Housing
-May 2024 technical report: structure sound | Excessive chloride content, designated a sea-sand building
-City reversed itself six months later: "structural problems" | A safety hazard with a clear technical benchmark
-The "40-year limit" was actually a Ministry of Finance fraud-prevention rule | Filming location for several Tsai Ming-liang films
-Source: Yahoo News fact-check reporting, NOWnews
+Heping Xinsheng Pedestrian Bridge | Xining National Housing
+May 2024 technical report: Structure is sound | High chloride content, identified as a sea-sand house
+City changed stance six months later to "structural issues" | Clear technical indicators of safety hazards
+"40-year limit" is actually a MOF anti-corruption rule | Filming location for many Tsai Ming-liang films
+Source: Yahoo News fact-check reports, NOWnews
 ```
 
-But regardless of whether a demolition is questionable or justified, there is one group almost entirely voiceless throughout this whole discussion: tenants. Urban renewal is conducted through "rights conversion," and its subject is always the property-owning landlord; the people who actually rent and live inside are, legally, mere third parties. Article 58 of the Urban Renewal Act states plainly that when a tenant's lease is forcibly terminated because of urban renewal, the compensation they can claim from the landlord is, in most cases, only "an amount equivalent to two months' rent"[^29].
+But whether the demolition is suspicious or necessary, there is one group that has had almost no voice in the entire discussion: tenants. Urban renewal talks about "rights exchange," and the subject is always the property owner with title; those renting inside are legally considered only third parties. Article 58 of the 《Urban Renewal Act》 is very clear: when a tenant is forced to terminate a lease due to urban renewal, the compensation they can claim from the landlord is, in most cases, only "equivalent to two months' rent"[^29].
 
-In one urban renewal case on the second section of Chongqing North Road in Taipei, an eyeglass shop, because its tenant hadn't moved out, was framed by public opinion as a "nail house" holding up urban renewal to squeeze out extra compensation. The shop owner's own account was actually quite mundane: "People online are saying all sorts of nonsense. We're not that bad — it's that we're in a lease dispute with the landlord, we're in the middle of a lawsuit right now, and once the lawsuit is over, we'll move out."[^30] She had no platform to push back against an already-fixed "nail house" narrative, just like the tenants who had lived most of their lives in old houses yet never appear as the subject of any urban renewal document.
+In an urban renewal project on Section 2, Chongqing North Road, Taipei, an optical shop was vilified by public opinion as a "holdout" trying to "block renewal to get a bigger slice of the pie" because the tenants hadn't moved out. The owner's explanation was actually quite ordinary: "The internet is just talking nonsense; we aren't that bad. It's because we have a lease dispute with the landlord and are currently in a lawsuit. Once the lawsuit is over, we will move out."[^30] She lacks the agency to fight against a predetermined "holdout" narrative, much like those tenants who have lived in old houses for most of their lives but are never the subject of any urban renewal documents.
 
-Even the reasons for demolition, even the people who disappear, may be things we ourselves haven't been honest enough about. If we can't even clearly say what we tore down or why we tore it down, then the confidence behind the claim "we already saw that our own old houses were beautiful" doesn't really hold up either. It seems "seeing ourselves again" isn't actually finished yet.
+Even the reasons for demolition and the people who disappear may be things we fail to speak about honestly. If we cannot clearly explain what we have torn down and why, then the conviction behind the phrase "we saw our old houses were beautiful long ago" lacks a foundation—it seems that the act of "seeing ourselves anew" has not truly been completed.
 
 ## Wang Tsung-wei's Three Turns, and This Time Let It Be Us Who See First
 

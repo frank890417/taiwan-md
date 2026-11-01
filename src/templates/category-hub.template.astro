@@ -1310,12 +1310,16 @@ const otherCategories = categories
     font-size: inherit;
   }
 
+  /* 依原比例呈現、不裁切，同 article.template（2026-10-21） */
   .hub-prose :global(img) {
-    width: 100%;
-    max-height: 480px;
-    object-fit: cover;
-    border-radius: 12px;
-    margin: 2rem 0;
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: min(75vh, 640px);
+    object-fit: contain;
+    border-radius: 0;
+    margin: 2rem auto;
     box-shadow: 0 4px 24px rgba(26, 60, 52, 0.1);
   }
   .hub-prose :global(img.img-broken) {

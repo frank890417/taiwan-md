@@ -176,7 +176,7 @@ const categoryList = [
   {
     path: navHref('/geography'),
     label: t('categoryConfig.geography'),
-    emoji: '🗺️',
+    emoji: '🏞️',
   },
   {
     path: navHref('/culture'),
@@ -191,7 +191,7 @@ const categoryList = [
   {
     path: navHref('/art'),
     label: t('categoryConfig.art'),
-    emoji: '🎨',
+    emoji: '🖌️',
   },
   {
     path: navHref('/music'),
@@ -211,22 +211,22 @@ const categoryList = [
   {
     path: navHref('/people'),
     label: t('categoryConfig.people'),
-    emoji: '👥',
+    emoji: '👤',
   },
   {
     path: navHref('/society'),
     label: t('categoryConfig.society'),
-    emoji: '🏛️',
+    emoji: '👥',
   },
   {
     path: navHref('/economy'),
     label: t('categoryConfig.economy'),
-    emoji: '📊',
+    emoji: '🪙',
   },
   {
     path: navHref('/lifestyle'),
     label: t('categoryConfig.lifestyle'),
-    emoji: '🏠',
+    emoji: '🛵',
   },
   {
     path: navHref('/politics'),
@@ -234,6 +234,7 @@ const categoryList = [
     emoji: '🗳️',
   },
 ];
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <div id="header-container" class="fixed inset-x-0 top-0 z-[1001] w-full">
@@ -617,21 +618,7 @@ const categoryList = [
           aria-label={t('nav.aria-search')}
           onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)"
         >
-          <svg
-            width="15"
-            height="15"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2.5"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            ><circle cx="11" cy="11" r="8"></circle><line
-              x1="21"
-              y1="21"
-              x2="16.65"
-              y2="16.65"></line></svg
-          >
+          <Fragment set:html={iconSvg('search')} />
           <kbd>/</kbd>
         </button>
 
@@ -656,8 +643,11 @@ const categoryList = [
           aria-label={t('nav.aria-toggle-menu')}
           aria-expanded="false"
           aria-controls="primary-mobile-nav"
-          onclick="const n=document.querySelector('.nav-mobile');const o=n.classList.toggle('open');this.textContent=o?'✕':'☰';this.setAttribute('aria-expanded',String(o));"
-          >☰</button
+          onclick="const n=document.querySelector('.nav-mobile');const o=n.classList.toggle('open');this.setAttribute('aria-expanded',String(o));"
+          ><span class="menu-icon-open" set:html={iconSvg('menu')} /><span
+            class="menu-icon-close"
+            set:html={iconSvg('close')}
+          /></button
         >
 
         <!-- Lang dropdown (2026-04-24 β3: replaces 4-button row to scale to 5+ langs)
@@ -798,21 +788,7 @@ const categoryList = [
     <div
       class="flex items-center gap-3 border-b border-[#e2e8f0] px-4 py-[0.9rem]"
     >
-      <svg
-        width="18"
-        height="18"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="#94a3b8"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        ><circle cx="11" cy="11" r="8"></circle><line
-          x1="21"
-          y1="21"
-          x2="16.65"
-          y2="16.65"></line></svg
-      >
+      <Fragment set:html={iconSvg('search')} />
       <input
         id="search-input"
         type="text"
@@ -1457,6 +1433,14 @@ const categoryList = [
   .menu-toggle:hover {
     color: var(--nav-hover-color);
   }
+  /* 選單鈕的兩支行線圖示：展開時顯示關閉（✕），收合時顯示選單（三行） */
+  .menu-toggle[aria-expanded='true'] .menu-icon-open,
+  .menu-toggle:not([aria-expanded='true']) .menu-icon-close {
+    display: none;
+  }
+  .menu-toggle span {
+    display: inline-flex;
+  }
 
   /* Mobile nav — hidden by default.
      2026-07-24 redesign：預設全收 accordion + ≥48px 觸控目標 + grid-rows 展開動畫。 */
@@ -1960,7 +1944,6 @@ const categoryList = [
     ) {
       nav.classList.remove('open');
       if (toggle) {
-        toggle.textContent = '☰';
         toggle.setAttribute('aria-expanded', 'false');
       }
     }
@@ -2022,7 +2005,6 @@ const categoryList = [
     const closeNav = () => {
       if (!nav.classList.contains('open')) return;
       nav.classList.remove('open');
-      toggle.textContent = '☰';
       toggle.setAttribute('aria-expanded', 'false');
     };
     document.addEventListener('click', (e) => {

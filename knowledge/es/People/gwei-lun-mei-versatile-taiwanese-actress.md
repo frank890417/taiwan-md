@@ -1,150 +1,71 @@
 ---
-title: 'Kwai Lun-mei (桂綸鎂)'
-description: 'Nacida en 1983 en un pueblo militar de Taipéi, fue descubierta en 2002 en el campus por el asistente del director Doze Niu, debutando como Meng Kerou en "Blue Gate Crossing" con una actuación de una naturalidad pura; desde "Secret" hasta convertirse en habitual de festivales internacionales, incluso manteniendo un perfil bajo, se ha consolidado como una de las actrices más representativas del cine de autor taiwanés gracias a su sólida interpretación y aura literaria.'
+title: 'Gwei Lun-mei'
+description: 'Nacida en 1983 y graduada en Filología Francesa por la Universidad Tamkang, debutó en 2002 con "Blue Gate Crossing". En 2007, "Secret" la dio a conocer al gran público. En 2012, ganó el premio a la Mejor Actriz en los Golden Horse Awards y en el Asia Pacific Film Festival por "Girlfriend, Boyfriend", y consolidó su presencia en festivales internacionales con filmes como "Black Coal, Thin Ice". Es una actriz representativa del cine de autor en Taiwán.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Kwai Lun-mei',
+    'Gwei Lun-mei',
     'actriz',
     'Secret',
     'festivales internacionales',
-    'actriz de carácter',
+    'actriz de método',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-10-22
 lastHumanReview: false
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'ad792c900'
-sourceContentHash: 'sha256:34a9d268091c23c6'
-sourceBodyHash: 'sha256:c06a0cb5b90069e3'
-translatedAt: '2026-10-16T00:52:53+08:00'
+sourceCommitSha: 'e90701b36'
+sourceContentHash: 'sha256:e251e2c4f0adef8b'
+sourceBodyHash: 'sha256:5d6fb52db605d429'
+translatedAt: '2026-10-22T18:31:55+08:00'
 ---
 
-# Kwai Lun-mei: una estrella de la interpretación discreta y resiliente
+# Gwei Lun-mei: una actriz de método, discreta y resiliente
 
-Kwai Lun-mei es conocida por su interpretación natural y sincera y su estilo personal discreto, siendo uno de los rostros de la nueva generación de actores taiwaneses que más atención recibe en los festivales internacionales. "Blue Gate Crossing" (2002) fue su opera prima, y "Secret" (2007), dirigida por [Jay Chou](/es/people/jay-chou/), la dio a conocer ampliamente; obras posteriores como "Girlfriend, Boyfriend" siguieron recibiendo el reconocimiento de los Golden Horse Awards. [^2]
+Gwei Lun-mei es una de las caras de la nueva generación de actores de Taiwán que más atención despierta en los festivales internacionales. Debutó en 2002 con _Blue Gate Crossing_ y alcanzó la fama mundial en 2007 tras protagonizar _Secret_ (不能說的秘密), dirigida por [Jay Chou](/es/people/jay-chou/). En 2012, obtuvo los premios a la Mejor Actriz en la 49.ª edición de los Golden Horse Awards y en la 55.ª edición del Asia Pacific Film Festival por su papel en _Girlfriend, Boyfriend_. [^1]
 
-## El despertar artístico de una chica de pueblo militar
+## El comienzo con _Blue Gate Crossing_
 
-Kwai Lun-mei nació el 25 de diciembre de 1983 en Taipéi; su padre era militar y su madre funcionaria, y creció en un entorno de pueblo militar. La importancia que su familia daba a la educación y la inmersión en la cultura diversa de los pueblos militares cultivaron su personalidad tranquila e introspectiva.
+Gwei Lun-mei nació el 25 de diciembre de 1983 y se graduó en el Departamento de Filología Francesa de la Universidad Tamkang. En 2002, debutó en la película _Blue Gate Crossing_, dirigida por Yi Chih-yen, interpretando a Meng Ke-rou, una estudiante de secundaria introvertida y sensible, cuya actuación fue muy elogiada. [^1]
 
-Durante la secundaria estudió en la Jingmei Girls' High School, donde mostró un gran interés por la literatura y el arte, participando frecuentemente en actividades culturales del centro. Su aura era fresca y fuera de lo común, pero no tenía la intención explícita de ser actriz.
+En esa misma época, también protagonizó el videoclip de "Minuet" de Cheer Chen, dirigido igualmente por Yi Chih-yen. En los años siguientes, participó en _Subway_ (2003), _Passing_ (2004) de Cheng Wen-tang y _The Most Distant Distance_ (2007) de Lin Ching-chieh, acumulando gradualmente experiencia en el cine de autor. [^1]
 
-Tras graduarse ingresó en el Departamento de Derecho de la Universidad Fu Jen, con la idea de seguir una carrera académica. Sin embargo, durante la universidad tuvo la oportunidad fortuita de acercarse a la interpretación, lo que cambió el rumbo de su vida.
+## El salto con _Secret_
 
-## Un inicio fortuito en el mundo del espectáculo
+En 2007, Gwei Lun-mei protagonizó el debut como director de Jay Chou, _Secret_, donde interpretó a la misteriosa estudiante Lu Xiao-yu, viviendo un romance que trasciende el tiempo y el espacio. Esta película, que fusiona romance, fantasía y música, le otorgó un amplio reconocimiento por su talento actoral y permitió que una audiencia mucho mayor la conociera. [^1]
 
-La entrada de Kwai Lun-mei en el mundo del espectáculo fue pura casualidad. En 2002, fue descubierta en el campus por el asistente del director Doze Niu, quien la invitó a hacer una prueba para "Blue Gate Crossing". En ese momento carecía por completo de experiencia actoral.
+En Corea del Sur, la película se estrenó con el mismo título, alcanzando 158.000 espectadores y una recaudación de NT$33,45 millones. En 2015, fue votada por el público coreano como la película que más deseaban volver a ver en el cine, lo que motivó un nuevo estreno. [^1]
 
-"Blue Gate Crossing" retrata la confusión emocional de las adolescentes; Kwai Lun-mei encarnó a Meng Kerou, una estudiante introvertida y sensible. Interpretó el papel de la forma más natural, revelando un talento actoral asombroso.
+## Expansión de géneros y colaboraciones
 
-La película atrajo la atención de festivales internacionales y su actuación recibió elogios. Aunque su taquilla fue modesta, supuso un buen comienzo para su carrera y llamó la atención del cine taiwanés sobre este nuevo rostro.
+En 2008, participó tanto en _Women Are Not Bad_, dirigida por Tsui Hark, como en _Parking_, dirigida por Chung Mong-hong; en la primera interpretó a una cantante de banda y boxeadora, y en la segunda a la esposa de Chen Mo. A partir de 2010, actuó sucesivamente en _The 36th Story_ de Hsiao Ya-chuan, _Ocean Heaven_ de Hsueh Hsiao-lu y _Lineman_ de Lin Chao-hsien. [^1]
 
-## El punto de inflexión con "Secret"
+Su catálogo de 2011 fue aún más amplio, incluyendo _Butterfly on my Shoulder_ de Chang Chih-liang, _Dragon Gate Fury_ (codirigida por Tsui Hark y Chang Chih-liang), _Starry Sky_ de Lin Shu-yu y el cortometraje _10+10_. Este último, dirigido por Tai Li-ren, fue la película de apertura de los Golden Horse Awards. [^1]
 
-En 2007, Kwai Lun-mei protagonizó "Secret", dirigida por [Jay Chou](/es/people/jay-chou/), un punto de inflexión crucial en su carrera. En la película interpreta a la misteriosa estudiante Lu Xiaoyu, viviendo una historia de amor que trasciende el tiempo y el espacio junto a Jay Chou.
+## Mejor Actriz en los Golden Horse Awards 2012
 
-El filme fusiona romance, fantasía y música, exigiendo a Kwai Lun-mei transmitir capas emocionales complejas. Su interpretación es delicada y conmovedora, especialmente en las escenas al piano, donde muestra su versatilidad artística.
+En 2012, Gwei Lun-mei ganó el premio a la Mejor Actriz en la 49.ª edición de los Golden Horse Awards y en la 55.ª edición del Asia Pacific Film Festival por _Girlfriend, Boyfriend_, dirigida por Yang Ya-che, además de recibir una nominación a la Mejor Actriz en los 7.º Asian Film Awards. En el filme, interpretó a Lin Mei-pao, participando junto a Feng Hsiao-yue y Chang Hsiao-chuan en un complejo drama emocional que se desarrolla a lo largo de varios años. [^1]
 
-"Secret" logró un enorme éxito comercial y Kwai Lun-mei saltó a la fama. Pero no se dejó deslumbrar, sino que se centró aún más en perfeccionar su oficio.
+En 2013, volvió a ser nominada a la Mejor Actriz en los Golden Horse Awards por _Christmas Rose_, dirigida por Cherrie Yang. En 2014, fue nominada nuevamente con _Black Coal, Thin Ice_, logrando tres nominaciones consecutivas en la categoría de Mejor Actriz y empatando el récord de Yang Hui-shan. [^1]
 
-## La relación maestro-discípulo con Edward Yang
+## _Black Coal, Thin Ice_ y el cine de habla china
 
-Kwai Lun-mei recibió la guía y el cariño del fallecido director [Edward Yang](/es/people/yang-dechang/), cuya influencia fue determinante en su desarrollo actoral. Aunque no llegaron a rodar juntos formalmente, la filosofía cinematográfica de Yang caló hondo en su concepción de la interpretación.
+En _Black Coal, Thin Ice_, dirigida por Diao Yinan, Gwei Lun-mei interpreta a la lavandera Wu Zhi-zhen. Esta película ganó el Oso de Oro en la 64.ª Berlinale y alcanzó una recaudación de 104,3 millones de yuanin. En 2019, volvió a colaborar con Diao Yinan en _My Evergreen_, interpretando a Liu Ai-ai. [^1]
 
-Edward Yang veía en Kwai Lun-mei el potencial para convertirse en una gran actriz, animándola a centrarse en pulir su arte sin dejarse seducir por la fama y el dinero externos. Estas enseñanzas marcaron profundamente su posterior criterio de selección de proyectos.
+En 2017, actuó en _A Beautiful Accident_ de He Wei-ting, y en 2020 fue nominada a la Mejor Actriz en la 57.ª edición de los Golden Horse Awards por _Legs_, dirigida por Chang Yao-sheng, siendo esta su cuarta nominación en dicha categoría. [^1]
 
-Kwai Lun-mei ha expresado en múltiples entrevistas su gratitud y nostalgia por Edward Yang, considerándolo un maestro fundamental en su camino artístico. Esta relación maestro-discípulo es una historia admirada en el cine taiwanés.
+## Jurado de festivales y compromiso social
 
-## El respaldo de los festivales internacionales
+Gwei Lun-mei ha servido como jurado en múltiples ocasiones, incluyendo el premio al Nuevo Talento Asiático en el Festival Internacional de Cine de Shanghái en 2011, el Festival de Cine de Taipéi en 2013, y como jurado en las finales de los Golden Horse Awards en 2015 y 2022. [^1]
 
-Las obras de Kwai Lun-mei son frecuentes en la selección oficial de festivales internacionales, y ella misma ha sido invitada repetidamente como jurado. Estas experiencias le han abierto horizontes internacionales y han elevado la visibilidad del cine taiwanés en el extranjero.
-
-"Girlfriend, Boyfriend" (2012) es una de sus obras clave, compartiendo reparto con Rhydian Vaughan y Joseph Chang para retratar las complejas relaciones sentimentales entre tres personas. La película compitió en varios festivales internacionales y cosechó excelentes críticas.
-
-También participó en "Our Time Will Come" de la directora hongkonesa Ann Hui, demostrando su capacidad de adaptación a distintos contextos culturales. Estas colaboraciones transfronterizas enriquecieron su bagaje interpretativo.
-
-## Un gusto selectivo al elegir proyectos
-
-Kwai Lun-mei muestra un criterio único al elegir papeles: prefiere obras con profundidad y valor artístico, y rara vez acepta películas puramente comerciales. Esta constancia garantiza un nivel de calidad en su filmografía.
-
-Ha colaborado con numerosos directores taiwaneses destacados, como Midi Z, Chang Tso-chi y Chen Chih-yi, lo que le ha permitido explorar diversos estilos cinematográficos y métodos interpretativos.
-
-Kwai Lun-mei cree que el actor debe retarse a sí mismo probando distintos tipos de personajes. En cada una de sus obras se aprecia su crecimiento y superación actoral.
-
-## Un estilo personal discreto
-
-En el medio artístico, Kwai Lun-mei destaca por su discreción: rara vez participa en noticias de prensa rosa o campañas de autopromoción. Se centra en la interpretación misma, sin perseguir la exposición mediática ni el beneficio comercial.
-
-Este perfil bajo es raro en el entorno actual del espectáculo, pero le ha granjeado el respeto de la industria y del público. Habla con su obra, no con envoltorio externo.
-
-En entrevistas suele recalcar que es una persona corriente, sin nada especial. Esa humildad la hace aún más cercana.
-
-## La búsqueda constante de la excelencia interpretativa
-
-Kwai Lun-mei antepone siempre la superación actoral; aprende continuamente nuevas técnicas y métodos. Ha participado en talleres de interpretación y ha consultado a actores veteranos.
-
-Da una importancia especial a la construcción del mundo interior del personaje, convencida de que el actor debe comprenderlo realmente para ofrecer una interpretación veraz. Esta inmersión profunda dota a sus actuaciones de una fuerza persuasiva constante.
-
-En los últimos años también ha probado el teatro, desafiando otras formas escénicas. Estas experiencias han vuelto su arte más completo y profundo.
-
-## Su aportación al cine taiwanés
-
-Kwai Lun-mei es una representante clave de la nueva generación de actores taiwaneses; su éxito demuestra que Taiwán puede formar intérpretes de talla internacional. Ha contribuido significativamente a la proyección internacional del cine taiwanés.
-
-Su estilo interpretativo, natural y sincero, encarna las características de los nuevos actores taiwaneses, diferenciándose de la actuación teatral tradicional para acercarse a la verdad de la vida.
-
-Muchos jóvenes actores la toman como referente; su criterio de selección y su método de trabajo ofrecen una ruta concreta a las nuevas generaciones.
-
-## Colaboraciones profundas con directores
-
-Kwai Lun-mei sabe establecer relaciones creativas profundas con los directores, discutiendo a fondo la concepción del personaje y la dirección actoral. Este modo de trabajo dota a sus interpretaciones de mayor precisión y matices.
-
-Su colaboración con el director Midi Z ha sido especialmente fructífera; "Soul" (2013) es una de sus obras cumbre. [^1] Este filme demuestra su versatilidad en el género de suspenso.
-
-Kwai Lun-mei considera que actor y director son socios creativos, lo que exige confianza y coordinación mutuas. Siempre se entrega plenamente a la visión del director, aportando al mismo tiempo sus propias ideas.
-
-## Reflexiones sobre el arte de la interpretación
-
-Kwai Lun-mei tiene una visión profunda de la interpretación: cree que la labor del actor es encarnar la complejidad de la naturaleza humana. Cada personaje es un individuo único que requiere comprensión y entrega genuinas.
-
-Subraya la autenticidad actoral, convencida de que el público percibe la honestidad del intérprete. La técnica importa, pero lo esencial es la sinceridad emocional.
-
-También se interesa por los temas sociales y espera transmitir valores positivos a través de su obra. Considera que el arte debe tener una función educativa e inspiradora.
-
-## Direcciones futuras
-
-Kwai Lun-mei afirma que seguirá centrada en perfeccionar su arte, aspirando a desafiar más tipos de personajes. También contempla probar la dirección en el momento adecuado.
-
-Desea colaborar con más directores internacionales de primer nivel para mostrar al mundo el nivel de los actores taiwaneses, y al mismo tiempo seguir aportando al desarrollo del cine de Taiwán.
-
-Como referente de la interpretación de fondo, Kwai Lun-mei cree que manteniendo la calidad y la sinceridad se encuentra el propio sitio en esta industria. Su trayectoria demuestra la importancia de hacer las cosas con el corazón.
-
-## El equilibrio entre carrera y vida privada
-
-Junto al éxito profesional, Kwai Lun-mei cuida la calidad de su vida privada. Le gustan la lectura y los viajes, manteniendo la pasión y la curiosidad por la vida.
-
-Considera que la experiencia vital enriquecida es un capital fundamental para el actor; solo quien ha vivido de verdad puede volcar emociones auténticas en la interpretación.
-
-Su filosofía de vida es simple y profunda: hacer lo que le gusta, valorar a quienes la rodean, conservar la intención original. Esa actitud le permite mantenerse lúcida y pura en el complejo entorno del espectáculo.
-
-Kwai Lun-mei ha demostrado con su carrera lo que es una verdadera actriz de fondo. No busca campañas publicitarias espectaculares ni competiciones estériles, sino que cumple en silencio con su deber. Su sola existencia es un activo valioso para el cine taiwanés y un modelo para los jóvenes actores.
+En cuanto a temas sociales, tras el terremoto de Tohoku en Japón y el desastre nuclear de Fukushima en 2011, participó junto a directores y figuras culturales como Tai Li-ren, Ke Yi-cheng y Ono en el movimiento contra la cuarta central nuclear (Anti-Nuclear Fourth Plant movement). El 23 de enero de 2016, también asistió al concierto "123 Homeless Human Rights Concert" y colaboró en las labores de limpieza. [^1]
 
 ## Referencias
 
-- [Kwai Lun-mei — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Filmografía de la actriz
-- [Lista de premiados y nominados de los Golden Horse Awards a lo largo de la historia](https://www.goldenhorse.org.tw/) — Historial de galardones
-- [Desarrollo internacional de actores taiwaneses — Oficina de la Industria Cinematográfica, Audiovisual y Musical Popular del Ministerio de Cultura](https://www.bamid.gov.tw/) — Información sobre cooperación internacional
+- [Gwei Lun-mei — Taiwan Cinema Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Lista de obras de la actriz
+- [Lista de ganadores y nominados de los Golden Horse Awards](https://www.goldenhorse.org.tw/) — Registro de premios
 
-[^1]: Wikipedia, entrada "Soul": "Soul" (2013), director Midi Z, protagonizada por Kwai Lun-mei y Joseph Chang. https://zh.wikipedia.org/wiki/失魂
-
-[^2]: Wikipedia, entrada "Kwai Lun-mei", recoge registros de obras como "Blue Gate Crossing", "Secret", "Girlfriend, Boyfriend", entre otras. https://zh.wikipedia.org/wiki/桂綸鎂
-
-[^3]: "Blue Gate Crossing" (2002), director Doze Niu, protagonizada por Kwai Lun-mei y Chen Bolin, seleccionada en múltiples festivales internacionales. Datos de Taiwan Cinema: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
-
-[^4]: "Girlfriend, Boyfriend" (2012), director Yang Ya-che, nominada a Mejor Actriz Protagonista en la 49.ª edición de los Golden Horse Awards. Web oficial de los Golden Horse: https://www.goldenhorse.org.tw/
-
-[^5]: "Our Time Will Come" (2017), directora Ann Hui, con la participación de Kwai Lun-mei, muestra la cooperación transfronteriza. Archivo del Hong Kong Film Archive: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>
+[^1]: [Wikipedia: 〈Gwei Lun-mei〉](https://zh.wikipedia.org/wiki/桂綸鎂) — Educación, filmografía, premios, historial de jurado y participación en movimientos sociales y de caridad.

@@ -57,7 +57,7 @@ On February 20, the "Kaifanchuan" brand under the Erudition Group announced its 
 
 On May 15, Laya Burger launched a collaborative breakfast period with Season 1 White Spoon Korean-American chef **Edward Lee** (running until August 6), featuring four products spanning rice burgers, hamburgers, bibimbap, and spicy rice cakes: "Edward Lee's Korean Bibimbap Rice Burger" for 115 TWD, "Edward Lee's Korean Grilled Beef Chicago Burger" for 109 TWD, "Chef's Choice x Korean BBQ Bibimbap" for 160 TWD, and "Chef's Choice x Korean Spicy Rice Cakes" for 60 TWD[^15]. On June 17, an additional bottled "Edward Lee Sauce (bibimjang)" was released[^16], with the Laya NOW app offering a chance to win a dinner for two at SHIA (the modern Korean restaurant operated by Edward Lee in D.C.) plus round-trip flights to the US[^15].
 
-From June 26 to August 31, Season 1 White Spoon chef **Jun Lee** (founder and Executive Chef of Seoul's _doughroom_, formerly of New York's three-star Per Se) brought his brand _doughroom_ to Taiwan for the first time, setting up a pop-up restaurant at the Kitchen Exploration at Le Méridien Taipei[^1rightarrow]. Jun Lee personally presided over the pop-up for four days from June 26 to 29[^17]. Signature dishes included Shrimp Squid Angel Hair Pasta, Italian Potato Gnocchi, JUN LEE Caesar Salad, and Devil's Roasted Chicken with Braised Vegetables. Prices started at 1,690 TWD (plus 10%) for lunch/dinner, increasing to 2,080 TWD (plus 10%) during the period when the chef was personally present[^17].
+From June 26 to August 31, Season 1 White Spoon chef **Jun Lee** (founder and Executive Chef of Seoul's _doughroom_, formerly of New York's three-star Per Se) brought his brand _doughroom_ to Taiwan for the first time, setting up a pop-up restaurant at the Kitchen Exploration at Le Méridien Taipei[^17]. Jun Lee personally presided over the pop-up for four days from June 26 to 29[^17]. Signature dishes included Shrimp Squid Angel Hair Pasta, Italian Potato Gnocchi, JUN LEE Caesar Salad, and Devil's Roasted Chicken with Braised Vegetables. Prices started at 1,690 TWD (plus 10%) for lunch/dinner, increasing to 2,080 TWD (plus 10%) during the period when the chef was personally present[^17].
 
 The rhythm of this period showed the Taiwanese catering industry a new, temporary, but structurally complete way of operating: from daily-limited chain snacks to five-star hotel guest pop-ups, the _Culinary Class Wars_ chefs became "industry currency" capable of spanning different price points.
 
@@ -89,7 +89,7 @@ For Taiwanese consumers, the lesson of the Shi-Sheng incident extends beyond a s
 
 ### Coincidental Simultaneity: Baek Jong-won Scandal and 7-ELEVEN Launch
 
-Another tension occurred even faster in December 2025. Season 2 premiered on December 16, immediately hitting number one on Netflix's global non-English TV charts (up 25% from the previous week)[^2 6]. However, at that same time, Season 2 judge Baek Jong-won himself was embroiled in a series of scandals: false product origin labeling, extremely low meat content in ham, citrus beer containing almost no citrus, and the use of industrial-grade cookware during food festivals while claiming it to be food-grade[^26]. Netflix chose not to replace him, citing that the show involved 100 chefs and 300 staff members[^26].
+Another tension occurred even faster in December 2025. Season 2 premiered on December 16, immediately hitting number one on Netflix's global non-English TV charts (up 25% from the previous week)[^26]. However, at that same time, Season 2 judge Baek Jong-won himself was embroiled in a series of scandals: false product origin labeling, extremely low meat content in ham, citrus beer containing almost no citrus, and the use of industrial-grade cookware during food festivals while claiming it to be food-grade[^26]. Netflix chose not to replace him, citing that the show involved 100 chefs and 300 staff members[^26].
 
 In this window, just eight days after the Season 2 launch on December 24, 2025, 14 types of Korean-style ready-to-eat meals from a collaboration between Taiwan's 7-ELEVEN and Baek Jong-won officially hit the shelves, following nearly six months of cooperation[^27].
 
@@ -181,7 +181,7 @@ But one thing will remain: between 2024 and 2026, Taiwanese consumers saw the na
 
 [^23]: [NOWnews — Large-scale Store Closures for Shi-Sheng in 2025](https://www.nownews.com/news/6761030) — Published 2025-12-03; records the closure of three stores in Taipei/New Taipei (May 2025) and the contraction to only the Taoyuan store by Dec 2025.
 
-[^2_6]: [Mirror Media — Shi-Sheng Taoyuan Zhongzheng Store Closes](https://www.mirrormedia.mg/story/20251221edi011) — Report on the closure of the final store on 2025-12-26 and the brand's 20-month lifespan.
+[^24]: [Mirror Media — Shi-Sheng Taoyuan Zhongzheng Store Closes](https://www.mirrormedia.mg/story/20251221edi011) — Report on the closure of the final store on 2025-12-26 and the brand's 20-month lifespan.
 
 [^25]: [Newtalk — Summary of Shi-Sheng Controversy](https://newtalk.tw/news/view/2025-12-04/1008046) — Newtalk is one of the few mainstream outlets explicitly linking the Kim Tae-seng collaboration to the timeline of the controversy.
 

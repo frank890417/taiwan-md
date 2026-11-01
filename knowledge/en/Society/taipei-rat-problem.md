@@ -2,9 +2,7 @@
 title: "Taipei's Rat Problem: From the 1896 Governor-General's Plague Order to the 2026 Dax'an Hantavirus Case"
 description: "In January 2026, a septuagenarian man in Dax'an District died of hantavirus, marking Taiwan's first fatality in 25 years. But the story's true turning point was the 'ban on household kitchen waste for pig feeding' implemented that same month—when pigs stopped eating kitchen waste, rats began eating Taipei."
 date: 2026-05-05
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'Urban Issues',
@@ -14,15 +12,17 @@ tags:
     'Animals',
     'Kitchen Waste',
   ]
-readingTime: 11
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-05
 lastHumanReview: false
-featured: false
+readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-07-24T16:23:46+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T08:59:41.121664+00:00'
 ---
 
 # Taipei's Rat Problem: From the 1896 Governor-General's Plague Order to the 2026 Dax'an Hantavirus Case
@@ -77,23 +77,23 @@ When pig farmers no longer collect kitchen waste from all over the city daily, w
 
 📝 **Curator's Note:** In January 2026, the Ministry of Agriculture ended a "kitchen waste → pig" pathway that had lasted half a century; by the end of that same month, the first hantavirus fatality in 25 years appeared in Taipei. These two events are not a coincidence, but the result of a system redistributing calories.
 
-## 5. The City Government's Choice: Spraying Poison and the Backlash It Caused
+## 5. The City Government's Choice: Poisoning, and the Backlash It Triggered
 
-Facing explosive public opinion, the Taipei Environmental Protection Bureau's response was "precision poisoning," using centrally approved environmental pesticides (mostly anticoagulants like "Ratex"), emphasizing兼顾 pet safety[^24].
+Faced with an explosion of public outcry, the Taipei Environmental Protection Bureau responded with "precision poisoning," using centrally approved environmental pesticides (mostly the anticoagulant _kerlele_ / rodenticide) while emphasizing that pet safety would be taken into account[^23].
 
-But this choice was almost immediately shot down by three forces simultaneously:
+However, this choice was almost immediately rejected by three different forces simultaneously:
 
-**1. The Central Ministry of Environment**: Environment Minister Peng Chih-ming publicly called on May 2 for rodent control to adopt the "Three No's" principle of "environmental cleanup as primary, poisoning as secondary"—do not let rats come, do not let rats stay, do not let rats eat. The Environmental Protection Bureau's own rodent control FAQ writes it exactly this way[^25][^26].
+**1. The Central Ministry of Environment**: On May 2, Minister of Environment Peng Chi-ming publicly called for a "rodent control three-no" principle—don't let rats come, don't let rats stay, and don't let rats eat—emphasizing that rodent control should prioritize "environmental cleanup as primary, poisoning as secondary." The Environmental Protection Bureau's own FAQ on house rat prevention is written in this exact manner[^24][^25].
 
-**2. The Ecological Academic Community**: The Sun Yuan-hsün team from the Bird Ecology Research Lab at Pingtung University of Science and Technology published research in the 2019 _Science of the Total Environment_ indicating that **anticoagulant rodenticide residues were commonly detected** in Taiwan's raptors (black kites, crested goshawks, peregrine falcons), and the concentration was highly correlated with the government's long-term promotion of "Rodent Control Weeks" in the past[^27][^28].
+**2. The Ecological Community**: A study published in _Science of the Total Environment_ in 2019 by Sun Yuan-hsun’s team at the Pingtung University of Science and Technology Bird Ecology Laboratory pointed out that **anticoagulant rodenticide residues were commonly detected** in the bodies of birds of prey in Taiwan (such as black kites, crested goshawks, and peregrine falcons), and that concentrations were highly correlated with the government's long-term promotion of "Rodent Control Week"[^26][^27].
 
-**3. The Ministry of Agriculture's Own Historical Lesson**: Due to a series of black kite poisoning deaths, the Council of Agriculture (now Ministry of Agriculture) gradually canceled the **40-year-old** "National Agricultural Land Rodent Control Week" starting in 2015, formally declaring that Taiwan's rodent control had shifted from "spraying poison" to science and ecology-friendly methods[^29][^30].
+**3. The Ministry of Agriculture's own historical lessons**: Due to a series of poisoning deaths among black kites, the Council of Agriculture (now the Ministry of Agriculture) began phasing out the "National Farmland Rodent Control Week"—a practice that had been implemented for **40 years**—starting in 2015. This formally signaled Taiwan's shift in rodent management from "poisoning" toward scientific and eco-friendly methods[^28][^29].
 
-In other words: **when the agricultural sector had already walked out of the "Rodent Control Week" era due to raptor conservation, the Taipei Environmental Protection Bureau spraying poison on the streets in 2026 was equivalent to picking up a tool the countryside had just discarded ten years ago and using it in the city.**
+In other words: **While the agricultural sector has already moved past the era of "Rodent Control Week" to protect birds of prey, the Taipei Environmental Protection Bureau’s street-level poisoning in 2026 is equivalent to picking up a tool that rural areas only abandoned ten years ago and applying it to the city.**
 
-On May 4, Environmental Protection Bureau Director Hsu Shih-hsun was forced to soften his stance, saying they would try to "integrate and publish rat hole filling, poison usage information, and relative hotspot maps"^[31]; the next day, Mayor Ko Wen-je stepped forward to promise to formulate specific countermeasures for "overall urban environmental cleaning and disinfection"^[32][^33]. Opposition city councilor Hsu Shu-hua simultaneously fired back: cross-bureau meetings were held only three times, half a beat slow^[34].
+On May 4, Environmental Protection Bureau Director Hsu Shih-shun was forced to concede, stating they would attempt to "integrate and publish information on rodent hole filling, medication usage, and relative hotspot maps"[^30]. The following day, Mayor [Chiang Wan-an](/people/蔣萬安) stepped in to promise the formulation of specific countermeasures for "overall urban environmental cleaning and disinfection" [^31][^32]. Opposition City Councilor Hsu Shu-hua fired a shot at the same time, criticizing the response as being half a step behind, noting that only three cross-departmental meetings had been held[^33].
 
-📝 **Curator's Note:** "Spraying poison is visible; cleaning cracks is invisible"—this is the fundamental political economy of Taipei's rat control. Under election pressure, visibility is more important than effectiveness.
+📝 **Curator's Note:** "Poisoning is visible; cleaning crevices is not"—this is the fundamental political economy of Taipei's rodent management. Under electoral pressure, being visible is more important than being effective.
 
 ## 6. Invisible Infrastructure: Combined Sewers,骑楼, Night Markets
 

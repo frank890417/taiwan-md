@@ -12,9 +12,9 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:84ffac689843ddd3'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-26T21:47:06+08:00'
 ---
 
@@ -133,4 +133,4 @@ BBCの2009年の報道も同様に、彼女の渡米受験という日程を陳�
 
 [^10]: [自由時報：陳幸妤露面了！笑談離婚已一段時間：怕媒體沒新聞](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — 2026年の公の場での登場を報じた記事および写真の出典で、彼女が医院の外でメディアの質問に応じた場面を記録している。
 
-## [^11]: [Wikimedia Commons：20161224 陳幸妤牙醫診所開業.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — 黄湘清が2016年12月24日にアップロードした自身の作品で、ファイルページにはCC BY-SA 4.0ライセンスと氏名表示の要件が示されている。
+[^11]: [Wikimedia Commons：20161224 陳幸妤牙醫診所開業.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — 黄湘清が2016年12月24日にアップロードした自身の作品で、ファイルページにはCC BY-SA 4.0ライセンスと氏名表示の要件が示されている。

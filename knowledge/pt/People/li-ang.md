@@ -89,7 +89,7 @@ Li Ang recebeu o United Daily News Literary Award, o China Times Literary Award,
 
 Da cidade antiga conservadora de Lukang, atravessando controvérsias literárias até a condecoração francesa, a trajetória de Li Ang mostra que as vozes mais radicais às vezes nascem justamente do solo mais conservador, porque veem com mais nitidez a forma da opressão.
 
-**Leitura complementar**: [Li Ang — Wikipédia](<https://zh.wikipedia.org/wiki/李昂_(作家) ｜ [Blog de Li Ang](http://li-angnet.blogspot.com/) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/)
+**Leitura complementar**: [Li Ang — Wikipédia](<https://zh.wikipedia.org/wiki/李昂_(作家)>) ｜ [Blog de Li Ang](http://li-angnet.blogspot.com/) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/)
 
 ## Referências
 

@@ -30,6 +30,7 @@ const speechLangMap: Record<string, string> = {
   // ar/ru 開站日（2026-07-25）才發現這裡漏了，期間六語頁面全用英語語音朗讀。
 };
 const speechLang = speechLangMap[lang] || 'en-US';
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -55,33 +56,16 @@ const speechLang = speechLangMap[lang] || 'en-US';
     aria-label={t('article.tts.play')}
     title={t('article.tts.play')}
   >
-    <svg
-      class="h-4 w-4 flex-shrink-0"
+    <span
       id="tts-icon-play"
-      fill="none"
-      viewBox="0 0 24 24"
-      stroke="currentColor"
-      stroke-width="2"
-    >
-      <path
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"
-      ></path>
-    </svg>
-    <svg
-      class="hidden h-4 w-4 flex-shrink-0"
+      class="flex-shrink-0"
+      set:html={iconSvg('volume', '', 'h-4 w-4')}
+    />
+    <span
       id="tts-icon-pause"
-      fill="none"
-      viewBox="0 0 24 24"
-      stroke="currentColor"
-      stroke-width="2"
-    >
-      <path
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-    </svg>
+      class="hidden flex-shrink-0"
+      set:html={iconSvg('pause', '', 'h-4 w-4')}
+    />
     <span id="tts-label">{t('article.tts.play')}</span>
   </button>
   <button
@@ -90,22 +74,7 @@ const speechLang = speechLangMap[lang] || 'en-US';
     aria-label={t('article.tts.stop')}
     title={t('article.tts.stop')}
   >
-    <svg
-      class="h-4 w-4 flex-shrink-0"
-      fill="none"
-      viewBox="0 0 24 24"
-      stroke="currentColor"
-      stroke-width="2"
-    >
-      <path
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path><path
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        d="M9 10a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1v-4z"
-      ></path>
-    </svg>
+    <Fragment set:html={iconSvg('stop', '', 'h-4 w-4 flex-shrink-0')} />
   </button>
 </div>
 

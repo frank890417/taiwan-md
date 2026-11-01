@@ -437,6 +437,18 @@
       "source": "harvest"
     },
     {
+      "spore": 29,
+      "dPlus": 190,
+      "at": "2026-10-21 06:41",
+      "batch": "batch-2026-10-21-1-spores",
+      "views": 360000,
+      "likes": 31000,
+      "reposts": 1131,
+      "comments": 229,
+      "shares": 547,
+      "source": "chrome_mcp_threads"
+    },
+    {
       "spore": 30,
       "dPlus": null,
       "at": null,

@@ -18,7 +18,7 @@ sourceBodyHash: 'sha256:6e4c77ec70105e99'
 translatedAt: '2026-09-10T20:24:58+08:00'
 ---
 
-> **Visão geral em 30 segundos:** A Su'ao Cold Spring fica no município de Su'ao, condado de I-lan, com temperatura da água em torno de 22 °C o ano todo; a água contém grande quantidade de dióxido de carbono, formando bolhas finas no fundo do tanque. Ela é tanto um fenômeno geológico quanto uma infraestrutura de vida da cidade portuária: antigamente as pessoas lavavam roupas, tomavam banho e fabricavam refrigerante à beira da nascente; hoje o Cold Spring Park e o Ali-shi Cold Spring dão continuidade a essa memória local.[↩︎](#參考資料)
+> **Visão geral em 30 segundos:** A Su'ao Cold Spring fica no município de Su'ao, condado de I-lan, com temperatura da água em torno de 22 °C o ano todo; a água contém grande quantidade de dióxido de carbono, formando bolhas finas no fundo do tanque. Ela é tanto um fenômeno geológico quanto uma infraestrutura de vida da cidade portuária: antigamente as pessoas lavavam roupas, tomavam banho e fabricavam refrigerante à beira da nascente; hoje o Cold Spring Park e o Ali-shi Cold Spring dão continuidade a essa memória local.[↩︎](#referências)
 
 A Su'ao Cold Spring não está no fundo das montanhas, mas na área urbana a cerca de trezentos metros à frente da estação de trem de Su'ao. A Administração de Turismo do Ministério dos Transportes e Comunicações a registra como uma nascente mineral de baixa temperatura descoberta em 1928; a memória cultural local preserva a história de Chiku Shinkei (竹中信景) bebendo a água da nascente em 1895 e, a partir daí, pesquisando e desenvolvendo-a. Ambas as datas existem em materiais oficiais e não podem ser forçadamente fundidas em um único ano incontestável.[^1] [^2]
 

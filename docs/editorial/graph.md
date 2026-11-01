@@ -3,9 +3,9 @@ title: 'graph.md — Taiwan.md 視覺化編輯指南'
 description: '文章內視覺化的 DNA 層 canonical：何時用哪種圖、怎麼做才好、模組語法、AI 可讀性、多語、視覺化檢查清單。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v3.1'
-last_updated: 2026-09-19
-last_session: '2026-09-19-news-radar（v3.1：單篇 tw-* 上限 4；採用率算文章佔比不算單篇模組數）'
+current_version: 'v3.3'
+last_updated: 2026-10-24
+last_session: '2026-10-24-tiles-i18n（v3.3：tw-tiles 譯版印該語縣市名）'
 sister_docs:
   - 'EDITORIAL.md'
   - 'RESEARCH.md'
@@ -318,6 +318,8 @@ header `組欄名 | 左名 | 右名`；左右共用同一個比例尺（誠實�
 
 每列 `縣市 | 值`。佈局寫死在 renderer（照真實相對位置的 5×8 磚陣，離島靠左），**不畫台灣形狀所以不可能畫錯**（[REFLEXES #61](../semiont/REFLEXES.md) 視覺主權的結構解）。臺/台、市/縣字尾自動正規化；縣市名對不上 60% 時整個模組退化成排序 bars（翻譯版安全網），個別打錯字會列「未對應」警示。**只放率值不放原始數量**（per §二 地理列）。自帶資料表 fallback。
 
+**多語行為**（v3.3）：譯版磚上印作者那一列的縣市名，剝掉行政字首字尾（Taipei City → Taipei、타이베이시 → 타이베이、Ville de Taipei → Taipei），只有新竹、嘉義兩市兩縣保留整列原文才分得開，跟中文頁印「台北」不印「臺北市」同一套；資料表 fallback 用同一個名字。renderer 內建各語縣市名與常見異寫（拼音、各語外來名、babel 實測譯法），新竹、嘉義沒寫市或縣時補進空著的那一格（市優先）；作者把縣市名留成漢字、頁面又不用漢字時，印該語標準名。長譯名在手機上縮字折行，整陣維持等大。磚陣與色階鎖 LTR（ar 頁不鏡像），色階端點印作者原字串（`24,18` 這類逗號小數不會被放大一百倍）。對應規則的契約測試：`tests/article-tiles.test.mjs`。
+
 **`tw-iso` 單位圖** — 1 符號 = N（isotype）：
 
 ````
@@ -402,7 +404,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 3. **`tw-figure` 的 caption / 圖表 title 寫完整詮釋**，不是「圖一」。aria-label 公式（Datawrapper/Cesal）：圖型 + 資料內容 + takeaway。
 4. **絕不寫「如上圖／如下圖」**，關鍵數值也寫進 prose 讓 LLM 可提取。
 5. **不用圖片型 viz / D3 / Canvas**（AI 黑洞）。
-6. **翻譯安全網**：模組的文字欄是 .md 的一部分（babel 天然翻），幾何數字原樣保留；`tw-tiles` 縣市名在翻譯版對不上時自動退化成 bars，內容不消失。
+6. **翻譯安全網**：模組的文字欄是 .md 的一部分（babel 天然翻），幾何數字原樣保留；`tw-tiles` 內建各語縣市名，譯版磚上印該語縣市名；真的對不上 60% 才退化成 bars，內容不消失。
 
 ---
 
@@ -454,6 +456,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 
 - **不是每篇都要有圖**。沒有適合的資料就誠實不加（避免 chartjunk）。REWRITE-PIPELINE Stage 2 只要求**評估過**視覺化候選，不要求硬塞。
 - **單篇上限 4 個模組**（2026-09-19）。2026-09-18 三篇各塞 11-13 個，哲宇讀後「過度強調數字」；隔天砍到 2-4 個重做，文章反而看得見人。一張圖回答一個資料關係，第五張通常是把腳註畫出來。採用率的指標算「有模組的文章佔比」，不算「單篇模組數」——後者只會獎勵堆砌。〈國宅與居住正義〉5 個、〈黃魚鴞〉0 個，兩篇都是哲宇點名喜歡的。
+- **精選文（`featured: true`）上限 8 個模組**（2026-10-21 哲宇拍板，〈一同走過從前〉）：精選文篇幅長、橫跨多個年代或面向，可以到 8 個；全篇媒體（hero＋圖＋影片＋模組）合計 ≤ 20（[EDITORIAL §四 呼吸鐵律 3](EDITORIAL.md)）。「一張圖回答一個資料關係」不因此放寬：第五到第八張也要各自回答一個段落裡的問題，不是把腳註畫出來。
 - **Hub 頁 / 短修正 / 純人物抒情文**：可不用。
 - **markdown 資料表 vs 模組的分界**（2026-07-16 審計，161 篇用表格是用模組的 3.2 倍）：**數值矩陣／趨勢／現況-目標類轉模組**（讀者要看形狀）；**質性對照／規格型錄留表格**（機型表、制度手法表——表格本身是一等視覺化，不是退路，Datawrapper 2025 使用數據第一名就是 table）。
 - **模組外的複雜需求**：退回 prose + 資料表，不硬幹重 JS。HARD 類型都有 EASY 替代：
@@ -475,6 +478,8 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 ---
 
 _v3.1 | 2026-08-19 — 模組 19→20（+`tw-article` 文內嵌入卡）。哲宇 directive：「在文章中外嵌 taiwan.md 文章的模組（使用共用元件，屬於 graph.md 的一種元件）」，觸發是〈比國家還大的演算藝術〉提到鎢供應鏈／黃魚鴞／紀懷新那幾段。實作三層：renderer（`article-render.ts` 吐帶 data-attr 的 placeholder + fallback 純連結）→ `utils/article-embeds.ts`（切 HTML、用譯文 `translatedFrom` 反查十二語）→ `components/ArticleProse.astro`（在 `.prose` 內逐段 set:html／逐卡 `<ArticleCard density="embed">`）。ArticleCard 新增 `embed` 密度（detailed 的精實版：小縮圖左置、手機不堆疊、全 tokens 不進 dark-polish、logical properties）。§二 型錄 +「站內延伸」一列。_
+_v3.2 | 2026-10-21 yitong — §九 加精選文上限：`featured: true` tw-\* ≤ 8、全篇媒體 ≤ 20，一般文章仍 ≤ 4。哲宇原話「圖表模組也是可以到8個」。_
+_v3.3 | 2026-10-24 tiles-i18n — §四 `tw-tiles` 補多語行為：譯版磚上原本一律印中文縣市名，ko/vi/ru/hi/fr/id/pt 七語對不上而退化成 bars（資料台灣 v2.1 因此把人口密度改畫長條圖）。改成內建各語縣市名＋行政字首字尾判讀，磚上印剝掉字首字尾的譯名；順手修三個只在譯版出現的像素錯：手機磚陣被譯名撐出模組外（欄寬改 `minmax(0, 1fr)`）、ar 頁磚陣左右鏡像、逗號小數色階端點放大一百倍。zh-TW 輸出逐位元不變。13 語 × light/dark/mobile 截圖逐張驗過。_
 _v3.0 | 2026-07-16 viz-evolution — 模組 17→19（+arc 席次弧/+multiples 小倍數）＋ renderer 六語 i18n（VIZ_STRINGS 修「翻譯頁中文毛邊」與簡體「脚注」）＋ tw-dot 三值列（民調點估＋區間）＋ scroll-reveal 漸進增強（§三.14 雙護欄）＋ tiles 縣市名 EN/JA 正規化＋ viz-health 結構檢查與 timeline/versus/stat 來源 gate（審計：被 gate 0% 缺源 vs 未 gate 41-46%）＋ §八 +4 反例 ＋ §九 v4 候選。研究與審計：reports/viz-module-evolution-2026-07-16.md。_
 _v2.0 | 2026-06-12 viz-evolution — 模組 10→17（+slope/dot/stack/pyramid/tiles/iso/note）；共通約定（標題列/來源列全模組/`*` 強調/`基準：` 線）；§三 +4 原則（visible-by-default / 灰色脈絡 / 【說明】公約 / 多語標籤）；§八 +6 反例（雙色相泥中段 / 磚圖放數量 / legend-hunting / 多序列面積 / SVG 字級膨脹 / 群組條比總量）；修 v1.0 三個 cascade leak（quote 灰框 / heatmap 字色 / 來源列三模組漏接）。視覺驗證 51 截圖 + 外部研究：reports/viz-system-evolution-2026-06-12.md。_
 _v1.0 | 2026-06-06 — 10 模組 + 型錄 + 設計原則 + AI 可讀 + 多語 + 檢查清單。設計研究：reports/article-visualization-design-2026-06-06.md（參考 The Pudding，長出自己的器官）。_

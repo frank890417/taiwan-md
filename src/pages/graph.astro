@@ -297,9 +297,10 @@ const graphData = JSON.stringify({ nodes, edges });
   Phase 6 page migration #6: graph.astro (zh-TW)
   ──────────────────────────────────────────────
   - Scoped <style> removed entirely (~100 lines CSS deleted)
-  - `.graph-page` class kept as a hook — it's referenced from
-    `src/styles/global.css` @layer base rule
-    `body.page-default main.graph-page { padding-top: 0 }`
+  - `.graph-page` class kept as a hook. It used to be exempted from the
+    old `body.page-default main { padding-top: 56px }` rule; since
+    2026-10-23 the header offset only applies to Layout's #main-content
+    (global.css, reads --header-h), so no exemption is needed
   - `#graph-search`, `#graph-container`, `#tooltip` are all
     referenced by the d3 script (JS toggles tooltip.style.display,
     so the initial `hidden` is enough — JS wins with inline style)

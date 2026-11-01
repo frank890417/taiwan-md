@@ -867,21 +867,26 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       if (openccStatus === 'ready' && activeReady) {
         openccStatusEl.hidden = false;
         openccStatusEl.className = 'opencc-status-row opencc-ready';
-        openccStatusEl.textContent = isCn2Tw
-          ? '🔤 簡體→繁體字形轉換：已套用 OpenCC'
-          : '🔤 繁體→簡體字形轉換：已套用 OpenCC';
+        openccStatusEl.innerHTML =
+          window.twmdIcon('language') +
+          (isCn2Tw
+            ? ' 簡體→繁體字形轉換：已套用 OpenCC'
+            : ' 繁體→簡體字形轉換：已套用 OpenCC');
       } else if (openccStatus === 'ready' && !activeReady) {
         // ready but the active direction's converter unavailable (fallback build)
         openccStatusEl.hidden = false;
         openccStatusEl.className = 'opencc-status-row opencc-failed';
-        openccStatusEl.textContent = isCn2Tw
-          ? '⚠️ 簡→繁 OpenCC 不可用，僅做用語替換'
-          : '⚠️ 繁→簡 OpenCC 不可用（fallback CDN），僅做用語替換 — 字形仍是繁體';
+        openccStatusEl.innerHTML =
+          window.twmdIcon('alert') +
+          (isCn2Tw
+            ? ' 簡→繁 OpenCC 不可用，僅做用語替換'
+            : ' 繁→簡 OpenCC 不可用（fallback CDN），僅做用語替換 — 字形仍是繁體');
       } else if (openccStatus === 'failed') {
         openccStatusEl.hidden = false;
         openccStatusEl.className = 'opencc-status-row opencc-failed';
-        openccStatusEl.textContent =
-          '⚠️ OpenCC 字形轉換載入失敗，用語替換仍正常運作';
+        openccStatusEl.innerHTML =
+          window.twmdIcon('alert') +
+          ' OpenCC 字形轉換載入失敗，用語替換仍正常運作';
       } else {
         openccStatusEl.hidden = true;
       }
@@ -899,7 +904,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
           return;
         }
         analysisEl.hidden = false;
-        analysisTitleEl.textContent = `✅ 未偵測到${termWord}`;
+        analysisTitleEl.innerHTML = `${window.twmdIcon('check')} 未偵測到${termWord}`;
         renderOpenCCStatus(false);
         mustSection.hidden = true;
         suggestSection.hidden = true;
@@ -948,9 +953,9 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
             <span class="change-arrow">→</span>
             <span class="change-target">${escHtml(m.target)}</span>
             ${m.count > 1 ? `<span class="change-count">×${m.count}</span>` : ''}
-            <a href="${TERM_PAGE_BASE}${encodeURIComponent(termPageId(m.id))}" class="term-link" title="詞源頁">📖</a>
+            <a href="${TERM_PAGE_BASE}${encodeURIComponent(termPageId(m.id))}" class="term-link" title="詞源頁">${window.twmdIcon('book', '詞源頁')}</a>
             <a href="${GITHUB_BASE}${encodeURIComponent(m.id)}.yaml" target="_blank" rel="noopener" class="github-link" title="查看 YAML 原始碼">🔗</a>
-            ${m.note ? `<span class="change-note">⚠️ ${escHtml(m.note)}</span>` : ''}
+            ${m.note ? `<span class="change-note">${window.twmdIcon('alert')} ${escHtml(m.note)}</span>` : ''}
           </li>
         `;
     }
@@ -988,15 +993,18 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       // but waiting ensures character-variant input still gets normalized.
       if (openccStatus === 'loading') {
         outputEl.innerHTML =
-          '<span class="output-placeholder">⏳ 正在載入字形轉換模組…</span>';
+          '<span class="output-placeholder">' +
+          window.twmdIcon('clock') +
+          ' 正在載入字形轉換模組…</span>';
         await openccReady;
       }
 
       const { html, matches, sourceRegions } = convertText(input);
       const noChangeMsg =
         direction === 'cn2tw'
-          ? '✅ 未偵測到中國用語，文字已符合台灣習慣。'
-          : '✅ 未偵測到台灣用語，文字已符合中國說法（或本工具未涵蓋）。';
+          ? window.twmdIcon('check') + ' 未偵測到中國用語，文字已符合台灣習慣。'
+          : window.twmdIcon('check') +
+            ' 未偵測到台灣用語，文字已符合中國說法（或本工具未涵蓋）。';
       outputEl.innerHTML =
         html || `<span class="no-change">${noChangeMsg}</span>`;
       btnCopy.disabled = false;
@@ -1170,14 +1178,14 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
           direction,
           match_count: lastMatches.length,
         });
-        btnCopy.textContent = '✅ 已複製';
+        btnCopy.innerHTML = window.twmdIcon('check') + ' 已複製';
         setTimeout(() => {
-          btnCopy.textContent = '📋 複製結果';
+          btnCopy.innerHTML = window.twmdIcon('copy') + ' 複製結果';
         }, 1800);
       } catch {
-        btnCopy.textContent = '❌ 複製失敗';
+        btnCopy.innerHTML = window.twmdIcon('close') + ' 複製失敗';
         setTimeout(() => {
-          btnCopy.textContent = '📋 複製結果';
+          btnCopy.innerHTML = window.twmdIcon('copy') + ' 複製結果';
         }, 1800);
       }
     });
@@ -1328,7 +1336,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
     position: relative;
   }
   :global(mark.replaced-word.has-alts:hover::after) {
-    content: '📋 ' attr(title);
+    content: attr(title);
     position: absolute;
     bottom: 100%;
     left: 50%;

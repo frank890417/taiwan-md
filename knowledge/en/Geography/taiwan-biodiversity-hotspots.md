@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Biodiversity Hotspots'
-description: 'A 36,000 km² island harbors 59,000 known species—a biodiversity density 100 times the global average'
+title: "Taiwan's Biodiversity Hotspots"
+description: "Within its 36,000 square kilometers, Taiwan hosts 59,000 known species, a density 100 times the global average, with over 30% of these being endemic species found nowhere else on Earth. A vertical climate elevator spanning 4,000 meters allows this island to recreate half the world's climate zones within a small area: the Formosan Landlocked Salmon, which lives at the lowest latitude in the world, is now restricted to the Qichijew River, and the habitat of the Formosan Salamander at altitudes of 1,500 to 2,500 meters has shrunk from 11 locations to just 7. There are approximately 200 to 600 Formosan Black Bears in Taiwan, each requiring 30 to 40 square kilometers of roaming space; in this stage with the highest biological density in the world, how much space can still be reserved for wildlife?"
 date: 2026-03-21
 category: 'Geography'
 tags:
@@ -19,10 +19,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-09-27T23:29:49+08:00'
+translatedAt: '2026-10-21T02:19:27.803041+00:00'
 ---
 
 # Taiwan Biodiversity Hotspots

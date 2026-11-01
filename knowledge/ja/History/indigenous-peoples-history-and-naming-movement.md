@@ -1,19 +1,19 @@
 ---
-title: '台湾原住民族の歴史と正名運動'
-description: '1987年、19歳のツォウ族（鄒族）の青年が台北の刑場で銃殺された。彼の死が、正名運動の最初の火を灯した。'
+title: '台湾先住民族の歴史と名称是正運動'
+description: '1987年、19歳の鄒族青年であった湯英伸が台北の刑場で銃殺されました。彼の死は、台湾先住民族の名称是正運動に最初の火を灯しました。1984年の原住民権利会の設立、1988年の呉鳳像の引き倒しと「土地を返せ」デモから、1994年に憲法上の「山胞」が「原住民」へと改められ、2005年に原住民族基本法に「族」の文字が加えられるまで、この道のりは21年間に及びました。オランダ統治時代の帰化番と野番、清朝時代の熟番と生番、日本統治時代の蕃人理蕃政策、戦後の山胞といった、それぞれの名称は一種の枷でした。最初の3回は他人に名付けられたものであり、後の2回こそが自分たちで勝ち取ったものなのです。'
 date: 2026-03-29
 category: 'History'
+tags: ['先住民族', '名称是正運動', 'アイデンティティ', '社会運動', '文化保存']
 subcategory: '史前與原住民'
-tags: ['原住民族', '正名運動', 'アイデンティティ', '社会運動', '文化保存']
-lastHumanReview: false
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-29
+lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-05-01T18:02:56+08:00'
-author: 'Taiwan.md'
-lastVerified: 2026-03-29
+translatedAt: '2026-10-21T02:09:12.040263+00:00'
 ---
 
 # 台湾原住民族の歴史と正名運動

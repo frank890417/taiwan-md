@@ -1,151 +1,149 @@
 ---
-title: 'Cetaceans of Taiwan'
-description: 'A third of the world’s whales and dolphins pass these waters—how Taiwan moved from whaling to whale‑watching and why the “Mazu Fish” needs saving'
+title: "Taiwan's Cetaceans"
+description: 'Habitat for one-third of global cetacean species—how did Taiwan transform from whaling to whale-watching to become a hub for marine ecological research?'
 date: 2026-03-19
+category: 'Nature'
 tags:
   [
     'Taiwan',
     'cetaceans',
-    'whales',
-    'dolphins',
-    'marine conservation',
-    'whale watching',
-    'Kuroshio',
+    'ocean',
+    'nature',
+    'conservation',
+    'whale-watching',
+    'Indo-Pacific humpback dolphin',
+    'Kuroshio Current',
   ]
+subcategory: '野生動物'
 author: '海女'
-readingTime: 12
-category: 'Nature'
-lastVerified: 2026-03-19
-translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fa8568c6d129180a'
-sourceBodyHash: 'sha256:7c0ff1bf77404541'
-translatedAt: '2026-05-17T05:48:00Z'
 featured: false
+lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 12
+translatedFrom: 'Nature/臺灣的鯨豚.md'
+sourceCommitSha: '67b47e6e2'
+sourceContentHash: 'sha256:25aeb2d906c8c30f'
+sourceBodyHash: 'sha256:de417ec564a13cee'
+translatedAt: '2026-10-21T12:32:39+08:00'
 ---
 
-# Cetaceans of Taiwan
+# Taiwan's Cetaceans
 
-## 30‑second snapshot
+## 30-Second Overview
 
-Taiwan sits on the edge of the northwest Pacific, where deep trenches, a wide continental shelf, and the **Kuroshio Current (黑潮)** converge. Its blessed geographic position and complex undersea terrain have nurtured a diverse marine ecology. The east coast is fed by the Kuroshio; the west sits on a wide continental shelf.
+Taiwan sits on the northwestern edge of the Pacific Ocean, its unique geography and complex seafloor topography nurturing diverse marine ecosystems. The eastern waters are nourished by the Kuroshio Current, while the west features a broad continental shelf.
 
-In these waters, **more than 32 species of whales and dolphins** have been recorded—over a third of the world’s known cetaceans.[^2] From playful spinner dolphins to elusive sperm whales, and the critically endangered **Indo‑Pacific humpback dolphin** ("Mazu Fish"), Taiwan is a global hotspot for marine biodiversity.
-
----
-
-## Why it matters
-
-Cetaceans sit at the top of the marine food web. Their presence indicates **ocean health**, reflecting the abundance and balance of the entire ecosystem. Taiwan’s relationship with cetaceans also mirrors a deep change in the island's values: from the post‑war whaling history of the 1950s, through the full hunting ban of the 1990s, to the first whale‑watching boat launching in 1997, Taiwanese society moved from "using the ocean" to "drawing close to and protecting the ocean." This trajectory clearly records the awakening of Taiwan’s environmental consciousness.
-
----
-
-## Two seas, two worlds
-
-Taiwan’s east and west coasts are oceanographically different, creating distinct cetacean habitats.
-
-### East coast: a deep‑sea corridor
-
-The eastern shoreline drops steeply into deep water (more than 1,000 meters not far offshore). The Kuroshio Current runs close to shore, delivering warm water and large quantities of migratory fish and squid. This is prime habitat for **deep‑diving and offshore species**: sperm whales, beaked whales, and large dolphin pods.
-
-### West coast: a shallow‑sea nursery
-
-The Taiwan Strait is broad and shallow (average ~60 m). Its coastal waters nurture **nearshore species**, including the island’s most fragile treasure: the **Indo‑Pacific humpback dolphin** (_Sousa chinensis taiwanensis_), locally called **「媽祖魚」** ("Mazu Fish") because sightings historically clustered around the Mazu festival season.
+**33 species** of cetaceans have been recorded in these waters (including one provisionally listed gray whale), accounting for roughly one-third of the 90-odd species worldwide.[^2] From the acrobatic spinner dolphin and the enigmatic sperm whale to the critically endangered "Mazu fish"—the Indo-Pacific humpback dolphin (Taiwan's western population)—Taiwan is not only a vital cetacean habitat but also a key hotspot for global marine biodiversity.
 
 ---
 
-## Taiwan’s cetacean “stars”
+## Why It Matters
 
-Below are some of the most recognizable neighbors in Taiwan’s waters:
+Cetaceans sit at the top of the marine food chain, serving as **indicator species** for ocean health. Their presence reflects the abundance and balance of the entire ecosystem. Taiwan's attitude toward cetaceans also mirrors a profound shift in this island's values: from postwar commercial whaling and Penghu's drive fisheries, to the 1990 listing of all cetaceans as protected species, to the 1997 launch of the first whale-watching vessel, Taiwan society has moved from "exploiting the ocean" to "connecting with and protecting the ocean." This trajectory clearly documents the awakening of Taiwan's environmental consciousness.
+
+---
+
+## Uniquely Favorable Habitat Environments
+
+Taiwan is surrounded by sea, but the marine environments on its eastern and western sides are starkly different, giving rise to diverse cetacean ecologies:
+
+### Eastern Waters: Deep-Sea Highway
+
+The eastern coastline drops off steeply, with deep waters close to shore. The main stream of the **Kuroshio Current** passes through the eastern waters, bringing warm seawater. This is a haven for deep-diving and pelagic cetaceans, such as sperm whales, beaked whales, and various dolphins.
+
+### Western Waters: Shallow-Sea Nursery
+
+The Taiwan Strait is a broad continental shelf with relatively shallow waters (averaging about 60 meters) and gentle topography. This area suits coastal cetaceans, most notably the endemic subspecies **Indo-Pacific humpback dolphin** (_Sousa chinensis taiwanensis_) and the **finless porpoise**.
+
+---
+
+## Taiwan's Cetacean Stars
+
+Based on years of stranding records and at-sea survey data, the waters around Taiwan host remarkably rich species diversity. Here are several common "ocean neighbors":
 
 ### Spinner Dolphin
 
-Often called the **“ballet dancers of the sea”**, spinner dolphins leap and spin above the surface, frequently riding boat waves; they are among the most commonly sighted species on the east coast, playful, energetic, and often appearing in large groups.
+**"Ballet dancers of the sea."** They love riding bow waves, leaping from the water to perform multiple aerial spins. They are among the most frequently seen dolphins on eastern whale-watching trips, tying with Risso's dolphins for the most sightings in the Hualien offshore area. Lively and active, they often appear in large pods.
 
-### Risso’s Dolphin
+### Risso's Dolphin
 
-Known for their **scar‑covered bodies**, these dolphins bear white scratches that function like social “badges,” with blunt rounded heads. They tend to be calmer and prefer deeper waters, and stranded individuals are periodically documented along Taiwan's coast.
+Also known as **Risso's dolphin**. Their bodies are covered in white scars—badges from social interactions—with blunt, rounded heads. They are typically more sedate, preferring deep-water habitats, and stranded individuals are periodically recorded along Taiwan's coasts.
 
 ### Sperm Whale
 
-The **largest toothed whale** in the world, with a blocky head and deep‑diving abilities. Sightings off Hualien and Shitiping are treasured moments for whale‑watchers. Their angled blow is a classic signature.
+**"Deep-diving champion."** The world's largest toothed whale, possessing a massive square head. Sightings in Taiwan are concentrated off the Hualien-Taitung coast. They can dive over 2,000 meters deep, staying submerged for over an hour; typical dives reach about 400 meters for half an hour. Spotting their angled blow is a whale-watcher's great fortune.
 
-### Indo‑Pacific Humpback Dolphin (Mazu Fish)
+### Indo-Pacific Humpback Dolphin
 
-A **critically endangered** subspecies endemic to Taiwan’s west coast, inhabiting waters from Miaoli to Tainan; the name "Mazu Fish" comes from the fact that sightings cluster around the Mazu festival (lunar third month) when sea conditions are calmer. The entire population is now estimated at about **45–50 individuals** (latest 2025 survey), and more than 60% of identified animals have external injuries—facing a severe survival crisis.[^1]
-
----
-
-## From whaling to whale‑watching
-
-### 1950s–1980s: the whaling era
-
-Post‑war Taiwan had active whaling sites. In **Banana Bay (香蕉灣)** near Kenting, whales and dolphins were hunted for meat and oil—an era when survival outweighed ecological concern.
-
-### 1990: a conservation turning point
-
-In 1990, a mass dolphin killing in Penghu shocked the public and drew international attention. The government responded by listing cetaceans under the **Wildlife Conservation Act**, banning hunting, capture, and trade.
-
-### 1997: whale‑watching begins
-
-In July 1997, Taiwan’s first whale‑watching boat, _Hai Jing Hao_, launched from Shitiping in Hualien. This marked Taiwan's shift from "hunting" to "watching" cetaceans. Whale‑watching subsequently expanded along the east coast (Wushi Harbor in Yilan, Hualien Harbor, Shitiping Harbor in Hualien, Chenggong in Taitung), bringing more people into contact with marine ecology.[^3]
+**"Mazu fish."** They inhabit the western coastal waters from Miaoli to Tainan. Fishermen say they appear in large numbers around Mazu's birthday (lunar March), hence the name "Mazu fish." They are a **Critically Endangered** subspecies (_Sousa chinensis taiwanensis_, taxonomic status still under clarification)[^2]. Civil society groups estimate the total population at roughly 45 to 50 individuals, with about 60% showing obvious external injuries (per CNA July 2025 reporting)[^1]; the Ocean Conservation Administration (OCA) estimated about 48 individuals in 2024 using mark-recapture methods.
 
 ---
 
-## Science and citizen participation
+## From Whaling to Whale-Watching: A Historical Transformation
 
-From the 1990s onward, Taiwan's cetacean research took deep root, with the main contributors including:
+### Postwar to 1981: The Whaling Era
 
-- **Academia**: National Taiwan University (Prof. Lien‑Hsiang Chou’s team), National Cheng Kung University (Prof. Jian-Ping Wang's team; Prof. Hao-Wen Wang now serves as director of the cetacean center), National Chiayi University (Prof. Wei-Cheng Yang's team, now at NTU), and others.
-- **Museums**: National Museum of Natural Science (Associate Researcher Chiou-Ju Yao), National Museum of Marine Biology and Aquarium.
-- **NGOs**: **Kuroshio Ocean Education Foundation** (Hualien), **Taiwan Cetacean Society** (New Taipei), **TWSOUSa** (Taiwan Sousa Conservation Association).
+Commercial whaling in Taiwan began in 1913 when the Japanese started operations at Nanwan, Kenting. It resumed in 1955 after the war, later moving to **Banana Bay** in Pingtung, until it was banned in July 1981 under international pressure. Whale meat and oil were mostly exported to Japan.[^8]
 
-These institutions conduct long‑term offshore sighting surveys, photo‑ID individual identification, acoustic monitoring, stranding pathology analysis, and population ecology research. In recent years they have also incorporated **citizen science**, encouraging whale‑watching tourists and fishers to report sightings and building a large cetacean database.
+### 1990: Conservation Watershed
 
----
+In 1990, the practice of large-scale dolphin hunting via drive fisheries at Shagang, Penghu, was exposed by international media, triggering domestic and international pressure.[^4] This became the turning point for cetacean conservation in Taiwan. In August that year, all cetacean species were listed as protected wildlife, and fishers were prohibited from hunting them thereafter.
 
-## The urgent threats
+### 1997: The First Year of Whale-Watching
 
-Even without hunting, Taiwan’s cetaceans face serious human‑driven risks:
-
-1. **Habitat loss and fragmentation**: offshore wind farm development and coastal land reclamation on the west coast directly compress the living space of the Indo-Pacific humpback dolphin.
-2. **Fishing conflicts**: gillnets and longlines cause accidental bycatch and entanglement.
-3. **Underwater noise**: shipping lanes, pile‑driving, and construction disrupt cetacean communication and echolocation.
-4. **Pollution**: plastics, heavy metals, and persistent organic pollutants accumulate through the food web.
-
-The Ocean Conservation Administration has announced an "Indo-Pacific Humpback Dolphin Conservation Plan" and is advancing a broader "Cetacean Conservation Plan," seeking to save these marine creatures through designating critical habitats and regulating the impact of development.
+In July 1997, Taiwan's first whale-watching vessel, the "Hai Jing Hao," set sail from Shitiping Port in Hualien. This marked the shift in the relationship between Taiwan's people and cetaceans from "hunting" to "watching." Whale-watching activities quickly expanded along the east coast (Yilan's Wushi Port, Hualien Port, Hualien's Shitiping Port, Taitung's Chenggong), bringing more people to understand marine ecology.[^3]
 
 ---
 
-## A cultural lens: what the “Mazu Fish” signifies
+## Research and Citizen Science
 
-The nickname **「媽祖魚」** isn’t just folklore. It reflects Taiwan’s coastal culture, where Mazu—the sea goddess—is a guardian of fishermen and sailors. Seeing these dolphins during the Mazu season became a sign of protection and blessing. Today, saving the “Mazu Fish” is also about protecting a living piece of Taiwan’s maritime identity.
+Since the 1990s, Taiwan's cetacean scientific research has taken deep root, with key drivers including:
+
+- **Academic institutions**: National Taiwan University (Professors Chou Lien-hsiang, Yang Wei-cheng, et al.), National Cheng Kung University (Cetacean Research Center, currently directed by Wang Hao-wen).
+- **Museums**: National Museum of Natural Science (Associate Researcher Yao Chiu-ju).
+- **Civil society organizations**: Kuroshio Ocean Education Foundation (Hualien), Taiwan Cetacean Society (New Taipei), Taiwan Mazu Fish Conservation Alliance, et al.
+
+These organizations have long conducted at-sea sighting surveys, photo-ID individual identification, passive acoustic monitoring, stranding pathology analysis, and population ecology research. In recent years, they have further integrated **citizen science**, encouraging the public to report cetacean sightings, while the OCA promotes a marine citizen scientist cultivation program.
 
 ---
 
-## Closing perspective
+## Urgent Challenges: The Conservation Path
 
-Taiwan’s cetacean story is ultimately a story about **learning to see**.
+Although large-scale hunting is gone, Taiwan's cetaceans still face severe anthropogenic threats:
 
-Once, whales were viewed as oil and meat. Now, they are seen as intelligence, kinship, and living proof of a healthy ocean. When a pod of spinner dolphins explodes out of the water off the east coast, Taiwan is reminded of what it stands to lose—and what it still has the power to protect.
+1.  **Habitat loss and fragmentation**: Western offshore wind farm development and land reclamation projects directly compress the Indo-Pacific humpback dolphin's living space.
+2.  **Fisheries conflicts**: Fishing methods such as gillnets and longlines can lead to cetacean bycatch or entanglement injuries.
+3.  **Underwater noise**: Noise from vessel traffic and construction pile-driving disrupts cetaceans that rely on sound for communication and navigation.
+4.  **Marine pollution**: Ingestion of plastic debris, accumulation of heavy metals and persistent organic pollutants (POPs) in the food chain.
 
-To safeguard whales and dolphins is to safeguard the blue world that sustains the island itself.
+The Ocean Affairs Council's Ocean Conservation Administration has designated the Indo-Pacific Humpback Dolphin Important Wildlife Habitat (effective September 1, 2020, covering Miaoli, Taichung, Changhua, and Yunlin), and in 2024 announced the "Cetacean Conservation Plan," attempting to save these marine spirits through critical habitat protection and development impact controls.
+
+---
+
+## Conclusion
+
+Taiwan's cetacean story is a story about "seeing."
+
+Before, we saw meat and oil; now, we see life and wonder. When you stand at the gunwale off the east coast and witness the flash of a spinner dolphin leaping from the water, you understand: **the ocean is not merely a resource warehouse, but a home for life.**
+
+Protecting cetaceans is not just about protecting one species; it is about protecting the entire blue territory that surrounds and nourishes this island.
 
 ---
 
 ## References
 
-[^1]: [Indo-Pacific Humpback Dolphin Population Survey - The News Lens](https://www.thenewslens.com/article/255968) — Confirms the 2025 survey population of about 45–50 individuals, with more than 60% bearing external injuries.
+[^1]: [Indo-Pacific Humpback Dolphin Population Survey - The News Lens Critical Commentary](https://www.thenewslens.com/article/255968) — Environmental groups' press conference reporting the humpback dolphin population at roughly 45-50 individuals, with about 60% showing obvious external injuries (also reported by CNA 2025-07-17).
 
-[^2]: [Cetacean Conservation Plan - Ocean Conservation Administration](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Public version of the OCA conservation plan covering humpback dolphins and other cetaceans.
+[^2]: [Cetacean Conservation Plan - Ocean Affairs Council Ocean Conservation Administration](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — OCA's announced version of the Indo-Pacific humpback dolphin and cetacean conservation plan.
 
-[^3]: [Whale-Watching Guidelines - Ocean Conservation Administration](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Taiwan's whale-watching ecotourism standards.
+[^3]: [Friendly Whale-Watching and Taiwan Waters Whale-Watching Guide - Ocean Affairs Council Ocean Conservation Administration](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Taiwan whale-watching ecotourism guidelines.
 
-[^4]: [Taiwan Cetacean Society](https://www.whale.org.tw/) — Civil-society organization advancing cetacean research and conservation in Taiwan.
+[^4]: [Taiwan Cetacean Society](https://www.whale.org.tw/) — Civil society organization promoting cetacean research and conservation in Taiwan.
 
-[^5]: [Kuroshio Ocean Education Foundation](https://www.kuroshio.org.tw/newsite/) — Hualien-based institution for cetacean research and citizen science.
+[^5]: [Kuroshio Ocean Education Foundation](https://www.kuroshio.org.tw/newsite/) — Hualien-based organization advancing cetacean research and citizen science.
 
-[^6]: [TWSOUSa - Taiwan Sousa Conservation Association](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Advocacy organization for Indo-Pacific humpback dolphin conservation.
+[^6]: [Taiwan Mazu Fish Conservation Alliance](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Indo-Pacific humpback dolphin conservation advocacy organization (Taiwan Wild at Heart Legal Defense Association is one of the founding groups).
 
-[^7]: [Ocean Conservation Administration](https://www.oca.gov.tw/) — Taiwan's competent authority for marine conservation, advancing cetacean habitat protection and development controls.
+[^7]: [Ocean Affairs Council Ocean Conservation Administration](https://www.oca.gov.tw/) — Taiwan's competent authority for marine conservation, promoting cetacean habitat protection and development controls.
+
+[^8]: [Taipei Times Whaling Feature](https://taipeitimes.com/News/feat/archives/2023/02/26/2003795049) — 1913 Japanese commercial whaling begins at Kenting's Nanwan; 1955 postwar resumption; July 1981 ban; meat and oil mostly exported to Japan.

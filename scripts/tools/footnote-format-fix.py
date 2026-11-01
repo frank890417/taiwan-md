@@ -269,7 +269,12 @@ def normalize_footnote(line: str, lang: str = "zh-TW") -> Optional[str]:
         return f"{prefix} [{title}]({url}) — {new_desc}"
 
     # 2. Angle-bracket URL: `[Title](<URL>) — desc?`
-    angle = re.match(r"^\[([^\]]+)\]\(<([^>]+)>\)(?:\s+—\s+(.+))?$", rest)
+    #    2026-10-28：ASCII `-` 也要吃。原本只認 em dash，於是
+    #    `[^N]: [Title](<URL>) - 來源` 掉進第 4 分支，而第 4 分支的 `([^)]+)`
+    #    會在 URL 內第一個 `)` 就收手——含括號的 URL（維基的
+    #    `…_(2004年電視劇)`）被截斷、收尾的 `>` 留在原地，產出一條永遠
+    #    解析不了的連結（`八點檔.md` 的 `[^14]` 就是這樣壞的）。
+    angle = re.match(r"^\[([^\]]+)\]\(<([^>]+)>\)(?:\s+[—-]\s+(.+))?$", rest)
     if angle:
         title, url, desc = angle.groups()
         new_desc = desc if desc and len(desc) >= 10 else desc_for_url(url, lang)
@@ -283,6 +288,11 @@ def normalize_footnote(line: str, lang: str = "zh-TW") -> Optional[str]:
         return f"{prefix} [{title}]({url}) — {new_desc}（{author}）"
 
     # 4. APA-style: `Author. (date). *Title*. [Display](URL).`
+    #    angle-bracket destination 走到這裡代表第 2 分支沒認出來（後面還有
+    #    預期外的殘段）。用 `([^)]+)` 去抓會把 URL 截斷在它自己內部的括號，
+    #    寧可不改、留給 footnote-format 去報，也不要寫出一條壞連結。
+    if "](" in rest and re.search(r"\]\(<", rest):
+        return None
     md_link = re.search(r"\[([^\]]+)\]\(([^)]+)\)", rest)
     if md_link:
         title_inside = md_link.group(1)

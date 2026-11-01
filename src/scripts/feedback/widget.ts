@@ -7,6 +7,7 @@
  * github-only fallback,永遠不讓 feedback 的錯誤影響主站。lazy auth：先讓讀者打字,
  * 按送出才要求登入。draft 在 OAuth redirect 前存 sessionStorage,回來自動續。
  */
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
 import type {
   FeedbackBackend,
   FeedbackType,
@@ -117,7 +118,9 @@ function renderGithubOnlyButton(root: HTMLElement, t: FeedbackStrings): void {
   a.href = GITHUB_NEW_ISSUE_URL;
   a.target = '_blank';
   a.rel = 'noopener';
-  a.textContent = '🧬 ' + t.open;
+  a.textContent = '';
+  a.insertAdjacentHTML('afterbegin', iconSvg('dna'));
+  a.append(' ' + t.open);
   a.setAttribute('aria-label', t.open);
   root.appendChild(a);
 }
@@ -201,7 +204,9 @@ class Widget {
     const fab = document.createElement('button');
     fab.type = 'button';
     fab.className = 'twmd-fb-fab';
-    fab.textContent = '🧬 ' + this.t.open;
+    fab.textContent = '';
+    fab.insertAdjacentHTML('afterbegin', iconSvg('dna'));
+    fab.append(' ' + this.t.open);
     fab.setAttribute('aria-haspopup', 'dialog');
     fab.setAttribute('aria-label', this.t.open);
     fab.addEventListener('click', () => this.toggle());
@@ -581,7 +586,7 @@ class Widget {
     this.panel.innerHTML =
       this.header(t.doneTitle) +
       `<div class="twmd-fb-body twmd-fb-done">
-        <p class="twmd-fb-bigemoji" aria-hidden="true">🧬</p>
+        <p class="twmd-fb-bigemoji" aria-hidden="true">${iconSvg('dna')}</p>
         <p class="twmd-fb-intro">${esc(t.doneBody)}</p>
         <button type="button" class="twmd-fb-secondary" data-close2>${esc(t.close)}</button>
       </div>`;

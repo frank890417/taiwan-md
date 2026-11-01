@@ -3,8 +3,8 @@ title: 'REWRITE-PIPELINE-SINGLE'
 description: '文章改寫主流程 canonical（單檔型，2026-09-19 起現行）— 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連)，從 v6.7 續行：論點必須是一句對台灣的主張、研究 ~100 次天花板且一隻 lane 找人、開場一個人一個時刻、tw-* ≤ 4、無冷讀站'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.8.1'
-last_updated: 2026-09-27
+current_version: 'v6.8.3'
+last_updated: 2026-10-21
 last_session: '2026-09-26-230240-twmd-maintainer（v6.8.1：補回續行時漏掉的兩條——寫手讀整份研究報告（v7.4）、先判 spine 類型再鎖核心矛盾（v7.6/v7.7）；OBSERVER-QUEUE #81 哲宇拍板 B）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -114,25 +114,25 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                           | 觸發 stage | 條件                          | 工具                                                                                                   | 不過 = ?         |
-| ------------------------------ | ---------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------- |
-| **§觀點成型落檔**              | Stage 0 終 | depth article                 | manual: grep `## 觀點成型` in research report + frontmatter `viewpoint_formed: true`                   | **不進 Stage 1** |
-| spine 鎖（核心矛盾／組織主軸） | Stage 1 終 | 所有 depth                    | research report frontmatter manual                                                                     | 不進 Stage 2     |
-| 研究報告落檔                   | Stage 1 終 | depth ≥ 2000 字               | manual ls + frontmatter `researchReport`                                                               | 不進 Stage 2     |
-| **研究報告 SSOT health** 🔬    | Stage 1 終 | **所有 depth**                | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / raw §8） | **不進 Stage 2** |
-| 媒體授權矩陣三表               | Stage 1 終 | 所有 article（**含 EVOLVE**） | manual append research 檔末尾 + ls public/article-images/{cat}/                                        | 不進 Stage 2     |
-| 五指 + 結構 + 塑膠 + 算術      | Stage 3    | 所有 article                  | quality-scan + manual                                                                                  | 不 commit        |
-| 事實鐵三角(算術/單位/引語)     | Stage 3    | 含金額/數字/引語              | python algebra + Ctrl-F                                                                                | 不 commit        |
-| FACTCHECK Quick/Full Mode      | Stage 3    | 所有 article / A 級           | FACTCHECK-PIPELINE                                                                                     | 不進 Stage 4     |
-| **Citation plugin gate**       | Stage 3    | **所有 article（含 EVOLVE）** | article-health.py --profile=rewrite-stage-3-5 (footnote-format + footnote-density)                     | **不進 Stage 4** |
-| **Title+desc spine sync**      | Stage 3    | **所有 article（含 EVOLVE）** | manual: title 冒號三明治 + desc 吃進核心矛盾                                                           | 不 commit        |
-| **校正焦慮掃描** 🧱            | Stage 3    | **callout-triggered EVOLVE**  | Step 3.2-bis: backstop 自檢句 + grep 校正型句式 + 論點脊椎自檢                                         | **不 commit**    |
-| Format check 7 維度            | Stage 4    | 所有 article                  | article-health.py --profile=rewrite-stage-4                                                            | pre-commit hook  |
-| word-count ≥ 4500              | Stage 4    | depth article                 | article-health.py --check=word-count                                                                   | pre-commit hook  |
-| 多語 visual smoke              | Stage 4    | i18n 改動                     | 6 步 bash                                                                                              | revert commit    |
-| Image health                   | Stage 4    | 涉及圖                        | article-health.py --check=image-health                                                                 | 不進 Stage 5     |
-| Aspect ratio 護欄              | Stage 4    | 涉及圖                        | check-aspect.sh                                                                                        | 換圖             |
-| Sibling 格式預檢               | Stage 5    | 補 reverse cross-link         | article-health.py --check=format-structure                                                             | DEFER + 開 issue |
+| Gate                           | 觸發 stage | 條件                          | 工具                                                                                                   | 不過 = ?           |
+| ------------------------------ | ---------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------ |
+| **§觀點成型落檔**              | Stage 0 終 | depth article                 | manual: grep `## 觀點成型` in research report + frontmatter `viewpoint_formed: true`                   | **不進 Stage 1**   |
+| spine 鎖（核心矛盾／組織主軸） | Stage 1 終 | 所有 depth                    | research report frontmatter manual                                                                     | 不進 Stage 2       |
+| 研究報告落檔                   | Stage 1 終 | depth ≥ 2000 字               | manual ls + frontmatter `researchReport`                                                               | 不進 Stage 2       |
+| **研究報告 SSOT health** 🔬    | Stage 1 終 | **所有 depth**                | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / raw §8） | **不進 Stage 2**   |
+| 媒體授權矩陣三表               | Stage 1 終 | 所有 article（**含 EVOLVE**） | manual append research 檔末尾 + ls public/article-images/{cat}/                                        | 不進 Stage 2       |
+| 五指 + 結構 + 塑膠 + 算術      | Stage 3    | 所有 article                  | quality-scan + manual                                                                                  | 不 commit          |
+| 事實鐵三角(算術/單位/引語)     | Stage 3    | 含金額/數字/引語              | python algebra + Ctrl-F                                                                                | 不 commit          |
+| FACTCHECK Quick/Full Mode      | Stage 3    | 所有 article / A 級           | FACTCHECK-PIPELINE                                                                                     | 不進 Stage 4       |
+| **Citation plugin gate**       | Stage 3    | **所有 article（含 EVOLVE）** | article-health.py --profile=rewrite-stage-3-5 (footnote-format + footnote-density)                     | **不進 Stage 4**   |
+| **Title+desc spine sync**      | Stage 3    | **所有 article（含 EVOLVE）** | manual: title 冒號三明治 + desc 吃進核心矛盾                                                           | 不 commit          |
+| **校正焦慮掃描** 🧱            | Stage 3    | **callout-triggered EVOLVE**  | Step 3.2-bis: backstop 自檢句 + grep 校正型句式 + 論點脊椎自檢                                         | **不 commit**      |
+| Format check 7 維度            | Stage 4    | 所有 article                  | article-health.py --profile=rewrite-stage-4                                                            | pre-commit hook    |
+| word-count ≥ 4500              | Stage 4    | depth article                 | article-health.py --check=word-count                                                                   | pre-commit hook    |
+| 多語 visual smoke              | Stage 4    | i18n 改動                     | 6 步 bash                                                                                              | revert commit      |
+| Image health                   | Stage 4    | 涉及圖                        | article-health.py --check=image-health                                                                 | 不進 Stage 5       |
+| 呈現比例                       | Stage 4    | 涉及圖                        | check-aspect.sh / image-health §1c                                                                     | 換畫面或依主體重裁 |
+| Sibling 格式預檢               | Stage 5    | 補 reverse cross-link         | article-health.py --check=format-structure                                                             | DEFER + 開 issue   |
 
 **🔴 四條反射特別強化**（v3.1 sad-shockley 升級 + v6.0 新增第 3 條 + v6.2 新增第 4 條）：
 
@@ -171,7 +171,7 @@ upstream_canonical:
 2. **Step 0.1.5 → 1.4 先判 spine 再鎖** — 矛盾驅動的題找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）；受愛戴的題預設立體群像，改鎖組織主軸，不硬找矛盾（金曲獎 v1、施振榮 v1 教訓）
 3. **Step 1.7 研究報告 = SSOT** — 搜了沒把原始軌跡寫回 §8 = 沒搜；信度三層 + negative findings + 反例 list（v6.5 從 12 範本萃取）；跑 `research-report-health.py` 驗收
 4. **Step 2.4 小標題不編年體** — 編年體 = 維基百科化 = 失敗（Cicada / 草東 / 康士坦 教訓）
-5. **Step 4.3.3 aspect ratio 護欄** — portrait hero 切到頭（林琪兒 ι session 教訓）
+5. **Step 4.3.3 呈現比例** — 模板依原比例呈現不裁切；圖檔不為了框去裁或補邊（v6.8.3，張照堂直式照切到頭）
 
 ---
 
@@ -1051,16 +1051,16 @@ public/article-images/history/twenty-eight-incident-monument-2025.jpg
 
 規則：全 lowercase / kebab-case / 必含 subject-slug + topic + year / ext 副檔名
 
-**Aspect ratio 護欄**（避免 Astro 16:9 框切到頭，林琪兒 ι session 教訓）：
+**呈現比例**（v6.8.3，2026-10-21 哲宇：「就是要能適用不同大小的比例怎麼呈現在文章中，不是強制裁切圖」）：文章模板依原比例呈現每張圖——寬 ≤ 欄寬（桌機 726px、手機約 343px）、高 ≤ `min(75vh, 640px)`，等比縮、置中，hero 與內文同一套。比例不再決定圖會不會被切，只決定它在頁面上長什麼樣：
 
-| 圖種                | 推薦比例                           | 推薦尺寸             | 理由                            |
-| ------------------- | ---------------------------------- | -------------------- | ------------------------------- |
-| hero（frontmatter） | **16:9 或更寬** landscape          | 1600×900 / 2000×1200 | Astro 16:9 框直接 fit           |
-| inline 圖           | 可 portrait 但 ≤ 4:3 高比          | 1200×900 / 1500×1000 | markdown `![]()` 框較寬鬆       |
-| 1:1 方形            | 接近方形 1:1 ± 10%                 | 1600×1600            | hero 也接受（如 EMU 1692×1691） |
-| **絕對禁止 hero**   | 9:16 portrait（高 > 寬 1.5x 以上） | —                    | Astro 一定切到頭                |
+| 比例           | 頁面上的樣子（桌機）                        | 適合                     |
+| -------------- | ------------------------------------------- | ------------------------ |
+| ≥ 1.13 橫式    | 撐滿欄寬                                    | 場景、群像、hero 首選    |
+| 0.75–1.13      | 高 640px、寬 480–726px，置中                | 肖像、半身、方形作品     |
+| 0.4–0.75 直式  | 高 640px、寬 256–480px 的直幅，置中         | 書封、海報、全身照       |
+| < 0.4 或 > 3.5 | 窄柱／細帶，細節看不清（image-health WARN） | 挑別的畫面，或依主體重裁 |
 
-強制檢查：每張圖 fetch 時 `bash scripts/tools/check-aspect.sh {filename}` 看尺寸。Hero aspect 必過 0.9 ≤ ratio ≤ 2.0；inline 必過 0.75 ≤ ratio ≤ 2.5。不過 → **換圖**（不要強塞）。
+三條原則：**(1) 選圖看內容不看比例**——直式照片就讓它直著放，不為了填滿欄寬換掉更好的畫面；**(2) 不為了框去裁圖或補邊**——裁切只在要聚焦主體時做（例如去掉影片截圖的黑邊、切掉無關的空白），補黑邊湊比例一律不做；**(3) 要撐滿欄寬就給寬 ≥ 1200px 的檔**——比欄寬窄的圖照原寸呈現不放大（640px 寬的老照片就是 640px）。`bash scripts/tools/check-aspect.sh {filename}` 印出每張圖在桌機的實際呈現尺寸。舊護欄（hero 0.9–2.0／inline 0.75–2.5「不過就換圖」）是為舊模板 `object-fit: cover` 定的，那時全站 733 張內文圖有 597 張在桌機被裁。
 
 #### Step 1.9.3: transcript 素材
 
@@ -1113,7 +1113,7 @@ Stage 1 結束時 deliverable：
 - [x] depth-article 研究報告必存（Step 1.7）— `reports/research/YYYY-MM/{slug}.md` 不存在 → 不進 Stage 2
 - [x] 媒體授權矩陣三表 append 完成（inline 外連 / 圖片 / transcript）
 - [x] 圖片已 cache 在 `public/article-images/{category}/`
-- [x] Aspect ratio 護欄通過（hero 0.9-2.0 / inline 0.75-2.5）
+- [x] 呈現比例看過（check-aspect.sh 印的桌機尺寸合理；0.4–3.5；沒有為了框裁圖或補邊）
 - [x] Transcript 已 cache 在 `reports/research/YYYY-MM/{slug}-transcripts/`
 - [x] 私有 SSOT 整合過 Step 1.6 觀察者拍板（如有觸發）
 - [x] Frontmatter audit 完成（`[STUB-TITLE]` / `[NO-MEDIA]` 標籤）— EVOLVE 才必跑
@@ -1327,7 +1327,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 每 300 字 ≥ 1 個 footnote（per [CITATION-GUIDE](../editorial/CITATION-GUIDE.md)）。
 
-`tw-*` 視覺化模組**單篇 ≤ 4**（[graph.md §九](../editorial/graph.md)）：一張圖回答一個資料關係，第五張通常是把腳註畫出來。9/18 三篇各塞 11-13 個被哲宇讀成「過度強調數字」。
+`tw-*` 視覺化模組**單篇 ≤ 4**（[graph.md §九](../editorial/graph.md)）：一張圖回答一個資料關係，第五張通常是把腳註畫出來。9/18 三篇各塞 11-13 個被哲宇讀成「過度強調數字」。**精選文（`featured: true`）上限 8 個，全篇媒體（hero＋圖＋影片＋模組）≤ 20**（2026-10-21 哲宇拍板，[EDITORIAL §四 呼吸鐵律 3](../editorial/EDITORIAL.md)）；`paragraph-rhythm` 對精選文改看這兩個總數。
 
 富文本元素（per EDITORIAL）：
 
@@ -1704,18 +1704,13 @@ sips -Z 2000 --setProperty formatOptions 85 public/article-images/{category}/{fi
 exiftool -gps:all= -location:all= -DeviceMfgr= -DeviceModel= public/article-images/{category}/{filename}
 ```
 
-#### Step 4.3.3: Aspect ratio 護欄
+#### Step 4.3.3: 呈現比例
 
 ```bash
 bash scripts/tools/check-aspect.sh public/article-images/{category}/{filename}
 ```
 
-| 圖種          | 必過範圍            | 歷史教訓                                                             |
-| ------------- | ------------------- | -------------------------------------------------------------------- |
-| **hero**      | 0.9 ≤ aspect ≤ 2.0  | lindgren-crew4-portrait.jpg 1041×1561 (0.67) 切到頭 → 換 1041×694 ✅ |
-| **inline 圖** | 0.75 ≤ aspect ≤ 2.5 | Expedition 42 4896×3264 (1.5) ✅ / EMU 1692×1691 (1.0) ✅            |
-
-不過 → **換圖**（不要強塞）。
+印出每張圖在桌機的呈現尺寸。模板依原比例呈現不裁切（規則與比例表在 [Step 1.9.2](#step-192-圖片素材hero--inline-圖-授權矩陣)）；0.4–3.5 之間都能用，超出由 `image-health` §1c WARN。看到「比欄寬窄，照原寸不放大」而那張圖該撐滿欄寬 → 找更大的原檔。誕生事件：〈一同走過從前〉張照堂 644×859 直式照在舊模板 `object-fit: cover` 下切到頭，哲宇：「未來處理圖的比例跟原則也進化到 repo」；更早的林琪兒 portrait hero 切到頭是同一個病。
 
 #### Step 4.3.4: Markdown 插入 + caption + alt text
 
@@ -2187,5 +2182,9 @@ _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELIN
 🧬
 
 _v6.8 | 2026-09-19 news-radar — 從 v6.7 快照（`b19194bea2`，〈國宅與居住正義〉ship 當天）續行成現行 canonical。哲宇 2026-09-19：「把 twmd-rewrite 技能先回頭對齊單檔型 rewrite-pipeline，多檔型留校察看，先不使用」。加入五條 9/18-19 三篇實驗的修正：論點是一句對台灣的主張（Step 0.6.5）／研究 ~100 次天花板＋找人 lane（Step 1.1）／開場一個人一個時刻＋數字紀律（Step 2.3）／tw-\* ≤ 4（Step 2.8）／opening-readability（Step 4.1）；無冷讀站。_
+
+_v6.8.3 | 2026-10-21 yitong — 圖片呈現比例：模板（article／category-hub）改依原比例呈現、不裁切（寬 ≤ 欄寬、高 ≤ min(75vh, 640px)），Step 1.9.2 比例表與 Step 4.3.3 從「不過就換圖」改成「看呈現尺寸、不為框裁圖補邊」；`check-aspect.sh` v3 印呈現尺寸、範圍 0.4–3.5；`image-health` §1c 極端比例 WARN。哲宇原話：「就是要能適用不同大小的比例怎麼呈現在文章中，不是強制裁切圖」「未來處理圖的比例跟原則也進化到repo」。_
+
+_v6.8.2 | 2026-10-21 yitong — Step 2.8 加精選文上限：`featured: true` tw-\* ≤ 8、全篇媒體 ≤ 20（哲宇拍板，EDITORIAL v6.23）。_
 
 _v6.8.1 | 2026-09-27 twmd-maintainer — 補回 9/19 從 v6.7 快照續行時漏掉的兩條修正，都是哲宇先前拍過的：(1) 寫手讀整份研究報告含 §8 raw（v7.4，06-15〈迷音 Miin〉callout），改動多 agent 編排表、鐵律 2、Step 0.2-bis 規則 3、Step 1.7 讀取責任、Stage 2 前言；「舊文為何寫不好」的診斷改寫到 errata 旁檔，避免寫手讀整份報告時一起讀進去。(2) 先判 spine 類型再鎖核心矛盾（v7.6→v7.7，06-28〈金曲獎〉、07-06〈施振榮〉callout；MANIFESTO §13、REFLEXES #77），新增 Step 0.1.5，Step 1.4 立體群像改鎖組織主軸。觸發：Discussion #1757（kwt-klure）指出，維護班對照 v9.9 封存版驗證，OBSERVER-QUEUE #81 哲宇 2026-09-27 拍板 B。開場規則跟 EDITORIAL 五種開場互斥那一件併入 #74，這次不動。_

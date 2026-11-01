@@ -1,0 +1,160 @@
+---
+/**
+ * IndicatorCard.astro — /data「台灣的數字」的一張指標卡。
+ *
+ * 卡的構造照 ABS／SingStat／e-Stat 的國家統計慣例（研究 R3 §P3、§P4）：
+ * 值、參考期間、性質（官方統計／業界估計／推估）、十年對照、迷你折線、
+ * 數字說了什麼、為什麼重要、出處與下載、站上相關文章。全部預設看得見，沒有 hover 才
+ * 出現的資訊（graph.md §三.9）。id="ind-{id}" 是永久錨點。
+ */
+import Sparkline from './Sparkline.astro';
+import {
+  type Indicator,
+  formatIndicator,
+  formatCompare,
+  formatNumber,
+  loc,
+} from '../../utils/data-hub';
+
+export interface CardLabels {
+  compare: string;
+  source: string;
+  download: string;
+  reads: string;
+  permalink: string;
+  /** 「為什麼重要」 */
+  why: string;
+  year: string;
+  value: string;
+  basis: Record<string, string>;
+}
+
+interface Props {
+  ind: Indicator;
+  lang: string;
+  catName: string;
+  catColor: string;
+  labels: CardLabels;
+  reads: { title: string; href: string }[];
+  /** 放在線（§1）裡的精簡版：不印出處與文章 */
+  compact?: boolean;
+}
+
+const {
+  ind,
+  lang,
+  catName,
+  catColor,
+  labels,
+  reads,
+  compact = false,
+} = Astro.props;
+const v = formatIndicator(ind, lang);
+const title = loc(ind.title, lang);
+const period = loc(ind.period, lang);
+const basis = ind.basis ?? 'official';
+const unitFor = (x: number) => {
+  const p = loc(ind.prefix, lang);
+  const u = ind.format === 'percent' && !ind.unit ? '%' : loc(ind.unit, lang);
+  const sep = u && /^[A-Za-z]/.test(u) ? ' ' : '';
+  return `${p}${formatNumber(x, ind.format, lang, ind.decimals)}${sep}${u}`;
+};
+---
+
+<article
+  class:list={['dh-ind', compact && 'is-compact']}
+  id={compact ? undefined : `ind-${ind.id}`}
+  data-cat={ind.category}
+  style={`--dh-cat:${catColor}`}
+>
+  <header class="dh-ind-head">
+    <span class="dh-ind-cat">{catName}</span>
+    {
+      !compact && (
+        <a
+          class="dh-ind-anchor"
+          href={`#ind-${ind.id}`}
+          aria-label={`${labels.permalink}：${title}`}
+        >
+          #
+        </a>
+      )
+    }
+  </header>
+  <h4 class="dh-ind-title">{title}</h4>
+  <p class="dh-ind-value" aria-label={`${title}：${v.text}（${period}）`}>
+    {v.prefix && <span class="dh-ind-prefix">{v.prefix}</span>}
+    <span class="dh-ind-num">{v.number}</span>
+    {v.unit && <span class="dh-ind-unit">{v.unit}</span>}
+  </p>
+  <p class="dh-ind-period">
+    <span>{period}</span>
+    {
+      basis !== 'official' && (
+        <span class={`dh-basis is-${basis}`}>
+          {labels.basis[basis] ?? basis}
+        </span>
+      )
+    }
+  </p>
+  {
+    ind.compare && (
+      <p class="dh-ind-compare">
+        {labels.compare}
+        <b>{formatCompare(ind, lang)}</b>
+        <span>（{loc(ind.compare.period, lang)}）</span>
+      </p>
+    )
+  }
+  {
+    ind.series && ind.series.length >= 3 && (
+      <Sparkline
+        series={ind.series}
+        caption={title}
+        formatValue={unitFor}
+        yearLabel={labels.year}
+        valueLabel={labels.value}
+        color={catColor}
+      />
+    )
+  }
+  {!compact && <p class="dh-ind-insight">{loc(ind.insight, lang)}</p>}
+  {
+    ind.why && (
+      <p class="dh-ind-why">
+        <span>{labels.why}</span>
+        {loc(ind.why, lang)}
+      </p>
+    )
+  }
+  {
+    !compact && (
+      <footer class="dh-ind-foot">
+        <p class="dh-ind-src">
+          <span>{labels.source}</span>
+          <a href={ind.source.url} target="_blank" rel="noopener noreferrer">
+            {loc(ind.source.agency, lang)}
+          </a>
+          {ind.source.download && (
+            <a
+              class="dh-ind-dl"
+              href={ind.source.download}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {labels.download}
+            </a>
+          )}
+        </p>
+        {reads.length > 0 && (
+          <p class="dh-ind-reads">
+            <span>{labels.reads}</span>
+            {reads.map((r) => (
+              <a href={r.href}>{r.title}</a>
+            ))}
+          </p>
+        )}
+      </footer>
+    )
+  }
+</article>

@@ -1,15 +1,15 @@
 ---
-title: 'Hla''alua: From "Southern Tsou" to Their Own Name, What the Sacred Shell Festival Preserves'
-description: "On June 26, 2014, the Hla'alua became Taiwan's 15th officially recognized indigenous group. This was not a severing of ties with the Tsou, but a reclamation of a name once merged into another, returning it to those who use it, through the Four Villages of Taoyuan, the Sacred Shell Festival, and an endangered language."
+title: 'Hla''alua: From "Southern Tsou" to Their Own Name — What Does the Holy Shell Festival Preserve?'
+description: "On June 26, 2014, the Hla'alua became Taiwan's 15th officially recognized indigenous people. This was not a severing of ties with the Tsou, but rather, amid the four communities of Taoyuan, the Holy Shell Festival, and an endangered language, returning a once-merged name to the people who use it."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
     "Hla'alua",
-    "Hla'alua people",
-    'Sacred Shell Festival',
-    'Indigenous peoples',
-    'Language revitalization',
+    "Hla'alua",
+    'Holy Shell Festival',
+    'Indigenous Peoples',
+    'Language Revitalization',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-11T08:00:37+08:00'
+translatedAt: '2026-10-21T02:04:50.903772+00:00'
 ---
 
 > **30-Second Overview:** On June 26, 2014, the Hla'alua and Kanakanavu were officially recognized, becoming the 15th and 16th indigenous groups in Taiwan. The story of the Hla'alua is more than an administrative "division of groups"; it involves the Four Villages of Taoyuan, the Sacred Shell Festival centered on shells, and a language gradually losing its space in daily life amidst the gaps between Bunun, Mandarin, and the educational system. What the name change truly seeks to reclaim is the ability for tribe members to tell their own stories in their own names.
@@ -91,20 +91,20 @@ At the next Sacred Shell Festival, the chief priest will still face the shell, t
 
 ## References
 
-[^1]: [Hla'alua | Council of Indigenous Peoples](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Official ethnic introduction, distribution of the four villages, Sacred Shell Festival, craftsmanship, and social organization data.
+[^1]: [Hla'alua (La'alua) People | Council of Indigenous Peoples](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Official ethnic group introduction, distribution of four communities, Miatungusu (Holy Shell Festival), crafts, and social organization information.
 
-[^2]: ["Dividing" Is the Reconnection of Emotions | Indigenous Ethnic Literature](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Records the 2014 name recognition, the 2012 public hearing, and the relationship and demands between the Hla'alua and the Tsou.
+[^2]: ["Separation" as Emotional Reconnection | Indigenous Peoples Literature](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Records the 2014 name rectification, 2012 public hearing, and the relationship and demands between the Hla'alua and Tsou peoples.
 
-[^3]: ["Hla'alua" and "Kanakanavu" Indigenous Peoples Increase to 16 Groups | PTS News Network](https://news.pts.org.tw/article/272343) — 2014 name recognition approval, the two groups becoming the 15th and 16th groups, and news reports on name recognition and cultural/linguistic preservation.
+[^3]: ["Hla'alua" and "Kanakanavu" Bring Indigenous Peoples to 16 Groups | PTS News](https://news.pts.org.tw/article/272343) — News coverage of the 2014 name rectification approval, the two groups becoming the 15th and 16th peoples, and name rectification with cultural and language preservation.
 
-[^4]: [Cultural and Creative Marketing - Magical Sacred Shell: The Shell God of the Hla'alua | Kaohsiung City Cultural Bureau](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Local cultural publication introducing the contemporary process of the Sacred Shell Festival, the offering of wine with the sacred shell, and throwing shells for blessings.
+[^4]: [Cultural Creative Marketing - Magical Holy Shell: The Shell God of the Hla'alua | Kaohsiung City Government Bureau of Culture](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Local culture publication introducing the contemporary Miatungusu ritual process, holy shell wine offering, and shell-throwing for blessings.
 
-[^5]: [2025 Hla'alua Sacred Shell Festival Cultural Learning Tour | National Kaohsiung Normal University](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Venues and event descriptions for the 2025 ritual cultural learning activities.
+[^5]: [2025 Hla'alua Miatungusu Cultural Learning Journey | National Kaohsiung Normal University](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Venue and activity description for the 2025 ritual culture learning event.
 
-[^6]: [Hla'alua Language Loss and Revitalization | Indigenous Ethnic Literature](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Language genealogy, field interviews, reasons for language loss, and revitalization concepts.
+[^6]: [Hla'alua Language Loss and Revitalization | Indigenous Peoples Literature](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Language genealogy, field interviews, causes of language loss, and revitalization proposals.
 
-[^7]: [Symposium on Constructing Knowledge Systems for 2 Groups Shares Results to Promote Exchange | Indigenous View News Network](https://news.ipcf.org.tw/136202) — 2024 two-group knowledge research, Hla'alua phonology, and reports on the construction of knowledge dictionaries.
+[^7]: [Symposium on Building Knowledge Systems of Two Peoples Shares Results to Promote Exchange | Indigenous Television News](https://news.ipcf.org.tw/136202) — Report on 2024 research on the two peoples' knowledge, Hla'alua phonology, and construction of a knowledge dictionary.
 
-[^8]: [Hla'alua Hla'alua | National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Cultural memory entries on ethnic distribution, the four villages, 2014 name recognition, and the Sacred Shell Festival.
+[^8]: [Hla'alua People Hla'alua | National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Ethnic distribution, four communities, 2014 name rectification, and Miatungusu cultural memory entries.
 
-[^9]: [Hla'alua | Indigenous Culture and Development Center](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — The entry point for the Hla'alua introduction in the Indigenous Culture Park.
+[^9]: [Hla'alua People | Indigenous Peoples Cultural Development Center](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Entry point for Hla'alua introduction at the Indigenous Peoples Cultural Park.

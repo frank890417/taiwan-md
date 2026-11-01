@@ -58,6 +58,8 @@ on:
       - 'src/lib/semiont-*.ts'
       - 'tests/contributor-frontmatter-template.test.mjs'
       - '.github/workflows/pr-frontmatter-gate.yml'
+      - 'scripts/tools/slug-gap-check.py'
+      - 'scripts/tools/lang-sync/babel-preflight.py'
 
 permissions:
   contents: read
@@ -174,6 +176,27 @@ jobs:
               echo "修好 push 到同一個 PR 分支，這條 gate 會自動重跑。"
             fi
           } >> "$GITHUB_STEP_SUMMARY"
+
+      # ── 缺 slug 警告（2026-10-25 self-evolve，只警告不擋）──
+      # 中文檔名、零譯文、沒登記 knowledge/_slug-map.json 的新文章，十二語翻譯會整篇
+      # 跳過；偵測原本只住在隔天的 babel-preflight，投稿者自己按合併鈕那條路上沒人看得到
+      # （MEMORY §神經迴路「缺 slug 的缺口在合併那刻產生」，三次＋兩夜手補）。判準直接呼叫
+      # babel-preflight，兩支工具不會各說各話。缺 slug 不讓文章壞，只讓翻譯晚到，所以不擋。
+      - name: Slug-map gap (warning only)
+        if: steps.files.outputs.count != '0' && always()
+        continue-on-error: true
+        run: |
+          OUT=$(python3 scripts/tools/slug-gap-check.py --changed-json .pr-changed-files.json --github)
+          echo "$OUT"
+          if echo "$OUT" | grep -q '^⚠️'; then
+            {
+              echo ""
+              echo "## ⚠️ 翻譯佇列：有新文章還沒有英文 slug（不擋合併）"
+              echo '```'
+              echo "$OUT" | grep -v '^::warning'
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Comment gate result on PR
         if: steps.files.outputs.count != '0' && always()

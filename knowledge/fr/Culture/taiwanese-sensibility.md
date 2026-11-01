@@ -1,33 +1,28 @@
 ---
-title: 'La sensibilité taïwanaise : faut-il un like coréen avant d’oser dire que nos vieilles maisons sont belles ?'
-description: 'En 2008, un collectif de Tainan lançait déjà « 老屋欣力 » (Laowu Xinli), pour regarder autrement ses propres vieilles maisons — onze ans avant que les Coréens ne s’enflamment pour les rues taïwanaises sous le nom de « 대만감성 ». Quand la vague a explosé en 2024 avec la K-pop, on a repris le cadre officiel de l’« exportation culturelle », comme si ce premier regard ne comptait qu’après un like coréen.'
+title: 'Sensibilité taïwanaise : devons-nous attendre que les Coréens « likent » pour oser dire que nos vieilles maisons sont belles ?'
+description: "En 2008, un groupe de personnes à Tainan a lancé le mouvement « La force des vieilles maisons », commençant ainsi à redécouvrir leur propre patrimoine architectural, soit onze ans avant que les Coréens n'utilisent l'expression « Daeman Gamseong » pour s'enthousiasmer pour les paysages urbains de Taïwan. Pourtant, alors que cette tendance explose en 2024 sous l'objectif de la K-pop, nous continuons à l'aborder via le prisme de l'« exportation culturelle » de l'Administration du Tourisme et du Ministère de la Culture, comme si ce regard originel ne comptait que s'il était d'abord validé par un « like » coréen."
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '區域特色'
 tags:
   [
     'Sensibilité taïwanaise',
-    '대만감성',
+    'Daeman Gamseong',
     'Corée',
     'Esthétique',
     'Paysage urbain',
-    'Grilles en fer forgé',
-    'Vieux visages de maisons',
-    'Laowu Xinli',
-    'Rénovation urbaine',
-    'Wang Tsung-wei',
+    'Motifs de fenêtres en fer forgé',
+    'Esthétique des vieilles maisons',
+    'La force des vieilles maisons',
+    'Renouvellement urbain',
+    'Wang Cong-wei',
   ]
+subcategory: '區域特色'
+author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 18
 featured: true
 lastVerified: 2026-07-18
 lastHumanReview: false
-translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-09-26T20:08:19+08:00'
 image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
@@ -37,8 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
-relatedDiary:
-  - 2026-07-18-104133-taiwan-sensibility
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
+translatedFrom: 'Culture/台灣感性.md'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:51:23.232235+00:00'
 ---
 
 # La sensibilité taïwanaise : faut-il un like coréen avant d’oser dire que nos vieilles maisons sont belles ?
@@ -153,40 +152,40 @@ Sur la question de savoir s’il faut d’abord la reconnaissance d’un étrang
 
 Un film, on peut le revoir ; une maison démolie, non. Quand on détourne l’objectif de la salle de cinéma vers la rue, une question bien plus gênante surgit : les raisons que nous donnons nous-mêmes pour démolir ces vieilles choses sont-elles assez honnêtes ?
 
-## Un pont, deux raisons, et le locataire qu’on n’a jamais interrogé
+## Deux raisons pour un pont, et des locataires que personne n'interroge
 
-Retour à ce pont.
+Revenons à ce pont.
 
-Construite en 1982, la passerelle piétonne Heping-Xinsheng a été, pendant quarante ans, l’une des passerelles les plus souvent filmées de Taipei — outre les photos de mariage d’Oh Hyuk, Edward Yang et Ang Lee y avaient tous deux tourné des scènes[^23]. Dans la nuit du 19 novembre 2024, elle a été démolie. La raison donnée par la mairie : « quarante ans de durée de vie utile, des problèmes de structure ». Le problème, c’est que cette raison ne correspond pas au rapport que la mairie détenait elle-même.
+Construit en 1982, la passerelle de Heping Xinsheng a été l'un des passages piétons les plus photographiés de Taipei pendant quarante ans — en dehors des photos de mariage d'Hou Hsiao-hsien, les réalisateurs Edward Yang et Ang Lee y ont tous deux tourné des scènes[^23]. Dans la nuit du 19 novembre 2024, elle a été démolie. La raison donnée par la municipalité est « une durée d'utilisation de quarante ans et des problèmes structurels ». Le problème est que cette raison contredit les propres rapports en possession de la ville.
 
-Six mois à peine avant la démolition, le 17 mai 2024, un cabinet nommé « Conseil en ingénierie de prévention intégrée des catastrophes de Taïwan » venait d’achever une inspection structurelle du pont : sa conclusion était qu’il suffisait de réparer les panneaux extérieurs rouillés et perforés, la structure elle-même ne posant aucun problème[^24]. Mme Ku, titulaire d’une licence d’architecte américaine, a ensuite examiné les archives du « système municipal de gestion des ponts et ponceaux de Taipei » et relevé cette contradiction : alors que cette inspection concluait clairement à une « structure saine », le Bureau des nouveaux travaux de la mairie s’est mis, en moins de six mois, à parler d’une « structure préoccupante »[^24].
+À peine six mois avant la démolition, le 17 mai 2024, une société nommée « Taiwan Integrated Disaster Prevention Engineering Consulting » venait de terminer l'inspection structurelle du pont ; sa conclusion était la suivante : il suffisait de réparer la corrosion et les perforations des panneaux décoratifs extérieurs, la structure elle-même étant saine[^24]. Mme Gu, détentrice d'une licence d'architecte américaine, a examiné par la suite les registres du « Système de gestion des ponts et tunnels de Taipei » et a souligné cette contradiction : alors que l'inspection affirmait explicitement que la « structure était saine », le Bureau des Travaux Publics de la ville est revenu sur sa position en moins de six mois pour déclarer que « la structure de la passerelle était préoccupante »[^24].
 
-Et cette « durée de vie utile de quarante ans » ? Lors d’une réunion de concertation entre la mairie et les riverains, un ingénieur en chef adjoint du Bureau des nouveaux travaux, du nom de Lin, a déclaré sur place que la passerelle avait dépassé sa durée de vie utile de quarante ans et devait être démolie pour raisons structurelles ; mais un riverain présent, familier de la réglementation du bâtiment, a aussitôt contesté ce point : « Cette limite de 40 ans est en réalité la "durée minimale d’utilisation des biens publics (passerelles)" fixée par le ministère des Finances pour empêcher les gouvernements locaux de construire n’importe comment ; elle vise à prévenir les abus, ce n’est pas une durée de vie utile. »[^24] (Lin Wen-chun, à l’origine de la pétition, était également présente à cette réunion et a consigné cet échange.) Une règle budgétaire destinée à empêcher les gouvernements locaux de dépenser n’importe comment a ainsi été invoquée comme fondement structurel pour démolir un pont.
+Et qu'en est-il de cette « durée d'utilisation de quarante ans » ? Lors d'une réunion de coordination entre la municipalité et les résidents, un ingénieur adjoint du Bureau des Travaux Publics, M. Lin, a affirmé sur le moment que la passerelle avait dépassé sa durée d'utilisation de quarante ans et que sa structure défaillante imposait sa démolition. Cependant, un citoyen présent, expert en réglementations architecturales, a immédiatement contesté : « La limite des 40 ans est en réalité une "durée minimale d'utilisation des biens publics (passerelles)" établie par le ministère des Finances pour empêcher les municipalités de construire de manière anarchique ; elle vise à prévenir la corruption et n'est pas une durée de vie technique »[^24]. (Lin Wen-chun, l'organisatrice de la pétition, était également présente lors de cette réunion et a consigné cet échange.) Une disposition financière destinée à empêcher les gouvernements locaux de gaspiller l'argent public a été utilisée comme fondement structurel pour démolir un pont.
 
-Plus subtil encore : la raison donnée publiquement par le maire Chiang Wan-an pour la démolition différait, elle aussi, de celle du Bureau des travaux publics. Il invoquait un taux d’utilisation de la passerelle inférieur à 10 %, des piliers gênant la visibilité des automobilistes, et établissait un parallèle avec la baisse des accidents de la circulation constatée après la démolition du Zhonghua Market et de la passerelle du carrefour Xinyi-Keelung[^25]. En interne, la mairie n’a en réalité jamais eu de version unique et étayée sur « pourquoi il fallait démolir ».
+Plus subtil encore, la raison de la démolition invoquée publiquement par le maire [Tsai Ing-wen](/people/蔣萬安) diffère de celle du Bureau des Travaux Publics : il soutient que le taux d'utilisation de la passerelle est inférieur à 10 %, que les piliers obstruent la visibilité routière, et il a comparé cette situation à la baisse des accidents de la route après la démolition du centre commercial Zhonghua ou de la passerelle de l'intersection Xinyi-Keelung[^25]. En interne, la municipalité n'a jamais présenté de version unifiée et étayée par des preuves sur le « pourquoi de la démolition ».
 
-> **✦** Même la raison de démolir un pont ne correspond pas au rapport que l’on a soi-même commandé. Parmi ces « sensibilités taïwanaises en train de disparaître », combien ont-elles été démolies sans que nous ayons même réussi à nous expliquer clairement à nous-mêmes pourquoi ?
+> **✦** Même les raisons de la démolition d'un pont contredisent les rapports commandés par la ville. Parmi cette « sensibilité taïwanaise en voie de disparition », certaines ne sont-elles pas simplement démolies parce que nous n'avons pas été assez clairs sur nos propres motivations ?
 
-Toutes les vieilles rues ne connaissent pas ce sort. Dihua Jie, à Dadaocheng, a suivi une autre voie : grâce au mécanisme de transfert de droits à construire (TDR), les façades des vieilles maisons ont été préservées sans démolition à grande échelle. Mais même ce « cas de réussite » fait débat dans le monde académique, où l’on discute encore s’il a réellement provoqué des déplacements forcés ou fait grimper les prix de l’immobilier[^26]. Même la méthode de préservation elle-même n’offre pas de réponse nette.
+Toutes les vieilles rues ne subissent pas ce sort. La rue Dihua à Dadaocheng a suivi une autre voie : grâce au mécanisme de transfert de droits de construire (TDR), les façades des maisons anciennes ont été préservées, évitant ainsi des démolitions massives. Mais même pour ce « cas de réussite », le milieu académique débat toujours de savoir si cela a provoqué des déplacements forcés ou une hausse des prix de l'immobilier[^26]. Même la méthode de conservation elle-même n'offre pas de réponse tranchée.
 
-![Vue de la section 2 de Dihua Jie en mars 2024, avec sa largeur d’origine et ses façades anciennes préservées](/article-images/culture/dihua-street-2024.webp)
-_La section 2 de Dihua Jie en 2024. Les façades des vieilles maisons y ont été préservées grâce au mécanisme de transfert de droits à construire — l’un des rares quartiers historiques de Taïwan à ne pas avoir été démoli. Mais même cette « réussite », le monde académique en débat encore le prix. Photo : DONGIE 829 EFUOA / Wikimedia Commons, CC0._
+![Vue de la section 2 de la rue Dihua en mars 2024, conservant sa largeur d'origine et les façades des maisons anciennes](/article-images/culture/dihua-street-2024.webp)
+_Section 2 de la rue Dihua en 2024. Les façades des vieilles maisons ont été préservées grâce au mécanisme de transfert de droits de construire, faisant de ce quartier l'un des rares quartiers historiques de Taïwan non démolis — mais même pour ce « succès », les universitaires débattent encore de son coût. Photo : DONGIE 829 EFUOA / Wikimedia Commons, CC0._
 
-Et il faut être honnête : toutes les démolitions ne sont pas aussi douteuses que celle de la passerelle Heping-Xinsheng. Dans la même ville, la résidence sociale Xining a été classée comme bâtiment au « sable de mer » en raison d’une teneur excessive en ions chlorure — un problème de sécurité fondé sur un indicateur technique clair, et non sur une vague « durée de vie utile » ; la démolition de ce vieux bâtiment, où Tsai Ming-liang a tourné plusieurs films, repose sur une raison bien plus solide[^27]. À l’inverse, la résidence Lipo Royal, âgée de presque quarante ans et elle aussi classée bâtiment au sable de mer, a vu ses habitants attendre vingt-cinq bonnes années avant que la rénovation urbaine ne permette enfin sa démolition ; un vieil homme a décrit cette nouvelle comme apercevoir l’aube en pleine nuit noire[^28]. Démolir, dans les deux cas — mais l’une est douteuse, l’autre est ce que les habitants ont eux-mêmes réclamé pendant la moitié d’une vie.
+Et pour être honnête, toutes les démolitions ne sont pas aussi suspectes que celle de la passerelle de Heping Xinsheng. Dans la même ville, le complexe résidentiel Xining Guozhai a été identifié comme une « maison de sable de mer » (maison construite avec du sable marin contenant trop de chlorures), ce qui constitue un problème de sécurité basé sur des indicateurs techniques précis, et non sur une floue « durée d'utilisation » ; la démolition de ce bâtiment ancien, où Tsai Ming-liang a tourné plusieurs films, repose sur des motifs bien plus solides[^27]. À l'autre extrémité, le complexe Lipa Royal, vieux de près de quarante ans et identifié comme maison de sable de mer, a vu ses résidents attendre vingt-cinq ans avant que la rénovation urbaine ne commence ; un vieil homme a décrit cette nouvelle comme une lueur d'espoir dans la nuit noire[^28]. Dans les deux cas, il s'agit de démolition, mais si l'une est suspecte, l'autre est ce que les résidents ont réclamé pendant la moitié de leur vie.
 
 ```tw-versus
-Passerelle Heping-Xinsheng | Résidence sociale Xining
-Rapport technique de mai 2024 : structure saine | Teneur en ions chlorure excessive, classée bâtiment au sable de mer
-La mairie change d’avis six mois plus tard : « problème structurel » | Un danger pour la sécurité fondé sur un indicateur technique clair
-La « limite de 40 ans » est en réalité une règle du ministère des Finances contre les abus | Lieu de tournage de plusieurs films de Tsai Ming-liang
-Sources : enquête de vérification de Yahoo News, NOWnews
+Passerelle Heping Xinsheng | Résidence Xining Guozhai
+Rapport technique (mai 2024) : structure saine | Taux de chlorures trop élevé, identifiée comme maison de sable de mer
+La ville change d'avis 6 mois après : « problème structurel » | Danger pour la sécurité avec indicateurs techniques précis
+« Limite de 40 ans » est une règle anti-corruption du ministère des Finances | Lieu de tournage de plusieurs films de Tsai Ming-liang
+Source : Rapports de vérification Yahoo News, NOWnews
 ```
 
-Mais que la démolition soit douteuse ou justifiée, un groupe reste presque sans voix dans toute cette discussion : les locataires. La rénovation urbaine parle de « transfert de droits », et le sujet de la phrase est toujours le propriétaire titulaire des droits ; ceux qui louent à l’intérieur ne comptent, juridiquement, que comme tiers. L’article 58 de la Loi sur la rénovation urbaine est pourtant clair : lorsqu’un locataire est contraint de résilier son bail à cause d’une rénovation urbaine, l’indemnité qu’il peut réclamer au propriétaire se limite, dans la plupart des cas, à « l’équivalent de deux mois de loyer »[^29].
+Pourtant, que la démolition soit suspecte ou nécessaire, un groupe de personnes reste presque inaudible dans tout ce débat : les locataires. Les projets de rénovation urbaine parlent de « transformation des droits », et le sujet principal est toujours le propriétaire détenteur du titre de propriété ; ceux qui louent n'ont, juridiquement, qu'un statut de tiers. L'article 58 de la 《Loi sur la rénovation urbaine》 est très clair : lorsqu'un locataire est contraint de résilier son bail en raison d'une rénovation urbaine, l'indemnisation qu'il peut réclamer au propriétaire se limite, dans la plupart des cas, à « l'équivalent de deux mois de loyer »[^29].
 
-Dans un projet de rénovation urbaine sur la section 2 de la rue Chongqing Nord, à Taipei, un magasin de lunettes a été présenté par l’opinion publique comme un « clou » — un locataire récalcitrant qui bloquerait la rénovation urbaine pour en tirer davantage — simplement parce que ses locataires n’avaient pas déménagé. Les propos de la patronne étaient pourtant tout ce qu’il y a de plus ordinaire : « Sur Internet, on raconte n’importe quoi, on n’est pas si méchants que ça ; c’est parce qu’on a un litige locatif avec le propriétaire, on est en procès, et une fois le procès terminé, on déménagera. »[^30] Elle n’avait aucun pouvoir de parole pour contrer un récit de « clou » déjà figé — tout comme ces locataires qui ont vécu la plus grande partie de leur vie dans une vieille maison, sans jamais être le sujet d’aucun document de rénovation urbaine.
+Dans un projet de rénovation urbée de la section 2 de Chongqing North Road à Taipei, une boutique d'optique a été présentée par l'opinion publique comme un « résistant » (dingzihu) cherchant à bloquer le projet pour obtenir une plus grande part du gâteau, simplement parce que les locataires n'avaient pas déménagé. La propriétaire a pourtant donné une explication très simple : « Internet raconte n'importe quoi, nous ne sommes pas si méchants ; c'est juste que nous avons un litige locatif avec le propriétaire et que nous sommes en procès. Une fois le procès terminé, nous partirons »[^30]. Elle n'a pas le pouvoir de parole nécessaire pour contester l'étiquette de « résistant » qui lui a déjà été collée, tout comme ces locataires qui ont vécu la majeure partie de leur vie dans ces vieilles maisons, mais qui ne figurent dans aucun document officiel de rénovation urbaine.
 
-Même les raisons de démolir, même les gens qui disparaissent, nous risquons de ne pas les raconter nous-mêmes avec assez d’honnêteté. Si nous sommes incapables de dire clairement ce que nous démolissons et pourquoi, alors l’assurance derrière la phrase « nous avions déjà vu depuis longtemps que nos vieilles maisons étaient belles » ne tient plus vraiment debout — ce « se redécouvrir soi-même » ne semble, en réalité, pas encore achevé.
+Même les raisons de la démolition, et même les personnes qui disparaissent, pourraient être présentées de manière peu honnête par nous-mêmes. Si nous ne sommes pas capables d'expliquer clairement ce que nous avons démoli et pourquoi, alors l'assurance de notre affirmation « nous avions déjà vu depuis longtemps que nos vieilles maisons étaient magnifiques » ne tiendra pas la route — il semble que le processus de « se redécouvrir soi-même » n'est pas encore véritablement achevé.
 
 ## Wang Tsung-wei a changé d’avis trois fois : cette fois, c’est à nous de regarder les premiers
 

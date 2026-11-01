@@ -87,16 +87,16 @@ Cuando turistas extranjeros caminan por las calles de Taipei, ven templos y rasc
 
 ## Lectura Adicional
 
-- [[Cultura Indígena]]​: Patrimonio cultural precioso de los pueblos austronesios
-- [[Cultura Hokkien]]​: Sabiduría de vida de los pueblos marinos
-- [[Cultura Hakka]]​: Espíritu de cuello duro y tradición de cultivo y estudio
-- [[Cultura de Pueblos Militares]]​: Memoria taiwanesa de culturas de varias provincias del continente
-- [[Nuevos Inmigrantes]]​: Fuerza emergente de la cultura del sudeste asiático
-- [[Ópera Gezai]]​: Transmisión moderna de la ópera local
-- [[Ópera de Marionetas]]​: Avance innovador del teatro de marionetas tradicional
-- [[Procesión de Mazu de Dajia]]​: Evento cultural religioso de clase mundial
-- [[Cloud Gate Dance Theatre]]​: Interpretación de danza moderna de la estética oriental
-- [[Movimiento por los Derechos LGBT]]​: Logro de igualdad matrimonial, el primero en Asia
+- [[Cultura Indígena]]: Patrimonio cultural precioso de los pueblos austronesios
+- [[Cultura Hokkien]]: Sabiduría de vida de los pueblos marinos
+- [[Cultura Hakka]]: Espíritu de cuello duro y tradición de cultivo y estudio
+- [[Cultura de Pueblos Militares]]: Memoria taiwanesa de culturas de varias provincias del continente
+- [[Nuevos Inmigrantes]]: Fuerza emergente de la cultura del sudeste asiático
+- [[Ópera Gezai]]: Transmisión moderna de la ópera local
+- [[Ópera de Marionetas]]: Avance innovador del teatro de marionetas tradicional
+- [[Procesión de Mazu de Dajia]]: Evento cultural religioso de clase mundial
+- [[Cloud Gate Dance Theatre]]: Interpretación de danza moderna de la estética oriental
+- [[Movimiento por los Derechos LGBT]]: Logro de igualdad matrimonial, el primero en Asia
 
 ---
 

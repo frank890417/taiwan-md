@@ -1,9 +1,9 @@
 ---
-title: 'ラアルアルア族：「南シュウ」から自分たちの名前へ、聖貝祭が守ったもの'
-description: '2014年6月26日、ラアルアルア族が台湾で15番目に正式に認定された原住民族となった。これは鄒族との関係を断つことではなく、桃源の四社、聖貝祭、そして絶滅間近の族語の間で、かつて合併されてしまった名前を再びその名前を使う人々に返すことだった。'
+title: 'ラアルア族：「南鄒」から自らの名へ、聖貝祭が守り抜いたもの'
+description: '2014年6月26日、ラアルア族は台湾で15番目に正式に認定された原住民族となりました。これは鄒族との関係を断つことではなく、桃源四社、聖貝祭、そして危機に瀕した言語の間で、かつて統合されていた名前を、それを使う人々の元へと再び取り戻すプロセスなのです。'
 date: 2026-08-18
 category: 'Culture'
-tags: ['ラアルアルア族', "Hla'alua", '聖貝祭', '原住民族', '族語復振']
+tags: ['ラアルア族', "Hla'alua", '聖貝祭', '原住民族', '言語復興']
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-17T06:43:35+08:00'
+translatedAt: '2026-10-21T02:04:54.141639+00:00'
 ---
 
 > **30 秒概覽：** 2014 年 6 月 26
@@ -83,22 +83,22 @@ translatedAt: '2026-09-17T06:43:35+08:00'
 
 次の聖貝祭で、主祭は再び貝殻、酒、そして族人たちの面に向かうだろう。その動作は小さく見えるが、大きな問題に答える場でもある：ある名前がかつて他人に取り込まれた時、だれがそれを再び持ち帰ろうと思うのだろうか？
 
-## 参考資料
+## 参考文献
 
-[^1]: [ラアルアルア族｜原住民族委員会](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式民族紹介、四社の分布、聖貝祭、工芸と社会組織に関する資料。
+[^1]: [ラアルワ族｜原住民族委員会](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 公式の民族紹介、4つの集落（社）の分布、聖貝祭、工芸および社会組織に関する資料。
 
-[^2]: [「分」は感情の再結合｜原住民族文獻](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — 2014 年の正名、2012 年の公聴会、そしてラアルアルア族と鄒族の関係と訴えを記録。
+[^2]: [「分」は感情の再連結｜原住民族文献](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — 2014年の名称変更、2012年の公聴会、およびラアルワ族と鄒族の関係と訴えについての記録。
 
-[^3]: [「ラアルアルア」「カナカナフ」原民增至16族｜公視新聞網](https://news.pts.org.tw/article/272343) — 2014 年の正名承認、両族が第 15 と第 16 族となったこと、そして正名と文化・言語保存に関するニュース報道。
+[^3]: [「ラアルワ」「カナカナフス」の原住民が16族に増加｜PTSニュース](https://news.pts.org.tw/article/272343) — 2014年の名称変更の確定、両族が第15および第16族となったこと、ならびに名称変更と文化言語保存に関するニュース報道。
 
-[^4]: [文創行銷－魔幻聖貝：ラアルアルア族の貝神｜高雄市政府文化局](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — 地元文化出版による聖貝祭の現代的な流れ、聖貝薦酒と拋貝奪福の紹介。
+[^4]: [文化創造マーケティング－魔法の聖貝：ラアルワ族の貝神｜高雄市政府文化局](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — 地方文化出版による、聖貝祭の現代的なプロセス、聖貝への献酒、および貝を投げて福を得る儀式の紹介。
 
-[^5]: [2025年ラアルアルア族聖貝祭文化学習之旅｜国立高雄師範大学](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — 2025 年の祭儀文化学習活動の場所と活動説明。
+[^5]: [2025年ラアルワ族聖貝祭文化学習ツアー｜国立高雄師範大学](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — 2025年の祭儀文化学習活動の会場および活動内容の説明。
 
-[^6]: [ラアルアルア族語言流失与復振｜原住民族文獻](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — 言語系統、田野インタビュー、言語流失の原因と復振の構想。
+[^6]: [ラアルワ族の言語喪失と復興｜原住民族文献](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — 言語系統、フィールドワークによるインタビュー、言語喪失の原因と復興への構想。
 
-[^7]: [建構 2 族知識体系研討会分享成果促交流｜原視新聞網](https://news.ipcf.org.tw/136202) — 2024 年の両族知識研究、ラアルアルア族語の音韻と知識辞典の構築に関する報道。
+[^7]: [2つの民族の知識体系構築セミナーの成果共有による交流促進｜原視ニュース](https://news.ipcf.org.tw/136202) — 2024年の両族の知識研究、ラアルワ語の音韻および知識辞書の構築に関する報道。
 
-[^8]: [ラアルアルア族 Hla'alua｜國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — 民族分布、四社、2014 年の正名と聖貝祭の文化記憶エントリ。
+[^8]: [ラアルワ族 Hla'alua｜国家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — 民族の分布、4つの集落、2014年の名称変更および聖貝祭に関する文化的記憶のエントリ。
 
-[^9]: [ラアルアルア族｜原住民族文化発展中心](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — 原住民族文化公園のラアルアルア族紹介入口。
+[^9]: [ラアルワ族｜原住民族文化発展センター](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — 原住民族文化園区におけるラアルワ族紹介の入り口。

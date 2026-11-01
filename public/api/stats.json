@@ -1,72 +1,72 @@
 {
-  "totalArticles": 14859,
+  "totalArticles": 15002,
   "totalCategories": 27,
-  "estimatedContributors": 78,
-  "totalTags": 8949,
+  "estimatedContributors": 80,
+  "totalTags": 9005,
   "categories": [
     {
       "name": "vi",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "es",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "ko",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "hi",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "fr",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "en",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "ja",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "de",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "ru",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "Technology",
-      "count": 68
+      "count": 69
     },
     {
       "name": "History",
-      "count": 89
+      "count": 92
     },
     {
       "name": "id",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "ar",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "pt",
-      "count": 1143
+      "count": 1154
     },
     {
       "name": "Politics",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Society",
-      "count": 120
+      "count": 122
     },
     {
       "name": "Food",
@@ -77,16 +77,16 @@
       "count": 46
     },
     {
+      "name": "Culture",
+      "count": 117
+    },
+    {
       "name": "About",
       "count": 9
     },
     {
       "name": "People",
-      "count": 295
-    },
-    {
-      "name": "Culture",
-      "count": 115
+      "count": 296
     },
     {
       "name": "Geography",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 60
+      "count": 59
     },
     {
       "name": "企業",
@@ -144,7 +144,7 @@
     },
     {
       "name": "原住民族",
-      "count": 31
+      "count": 30
     },
     {
       "name": "政治",
@@ -184,40 +184,40 @@
     },
     {
       "name": "기업",
-      "count": 24
-    },
-    {
-      "name": "音樂",
       "count": 23
     },
     {
       "name": "奧運",
       "count": 22
+    },
+    {
+      "name": "歷史",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14859,
+    "zh-TW": 15002,
     "en": 0
   },
-  "lastUpdated": "2026-10-19T22:06:11.420Z",
-  "stars": 1218,
+  "lastUpdated": "2026-10-25T22:06:32.289Z",
+  "stars": 1231,
   "forks": 187,
-  "zhPages": 1141,
+  "zhPages": 1152,
   "languagePages": {
-    "zh-TW": 1141,
-    "en": 1143,
-    "ja": 1143,
-    "ko": 1143,
-    "es": 1143,
-    "fr": 1143,
-    "vi": 1143,
-    "id": 1143,
-    "pt": 1143,
-    "hi": 1143,
-    "ar": 1143,
-    "ru": 1143,
-    "de": 1143
+    "zh-TW": 1152,
+    "en": 1154,
+    "ja": 1154,
+    "ko": 1154,
+    "es": 1154,
+    "fr": 1154,
+    "vi": 1154,
+    "id": 1154,
+    "pt": 1154,
+    "hi": 1154,
+    "ar": 1154,
+    "ru": 1154,
+    "de": 1154
   },
-  "enPages": 1143,
-  "totalPages": 1141
+  "enPages": 1154,
+  "totalPages": 1152
 }

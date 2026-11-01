@@ -164,7 +164,13 @@ def _src_labels() -> tuple[str, ...]:
 def _src_re() -> re.Pattern[str]:
     labels = _src_labels() or ("資料來源", "來源", "source")
     alt = "|".join(re.escape(l) for l in labels)
-    return re.compile(rf"^(?:{alt})\s*[:：]\s*\S", re.IGNORECASE)
+    # re.MULTILINE 不可省：呼叫端是 `_SRC_RE.search(block_content)`，來源列永遠
+    # 不是 block 的第一列（第一列是標題），少了 MULTILINE 的 `^` 只錨到整段開頭，
+    # 規則 A 就變成「每個資料模組都缺來源」的全假陽性。2026-10-16 從寫死標籤改成
+    # 從 renderer 解析時同一個 commit 加了 `^` 卻沒加這個 flag，而 A 是 WARN 級、
+    # 當時也沒有任何測試覆蓋 viz_health，於是 110 篇 332 個區塊全部被誤報成缺來源
+    # （2026-10-22 ground-truth 比對：332/332 其實都有來源列）。
+    return re.compile(rf"^(?:{alt})\s*[:：]\s*\S", re.IGNORECASE | re.MULTILINE)
 
 
 class _SrcReProxy:

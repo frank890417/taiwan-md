@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan: Ein Hotspot der Biodiversität'
-description: 'Die Insel mit 36.000 Quadratkilometern beherbergt über 59.000 Arten, eine Dichte, die dem globalen Durchschnitt um das Zehnfache entspricht.'
+title: 'Taiwan als Hotspot der biologischen Vielfalt'
+description: 'Auf den 36.000 Quadratkilometern Taiwans leben 59.000 bekannte Arten – eine Dichte, die das 100-fache des weltweiten Durchschnitts beträgt. Über 30 % der Arten sind endemisch und somit weltweit einzigartig. Ein vertikaler „Klima-Aufzug“ von 4.000 Metern Höhe lässt diese Insel auf engstem Raum Klimazonen repräsentieren, die sonst einen halben Erdball umspannen: Die Salmon-Forelle (Oncorhynchus masou formosanus), die auf der Welt am niedrigsten vorkommende Art dieser Gattung, lebt nur noch im Qihua-Bach; die Lebensräume der Taiwan-Salamander in 1.500 bis 2.500 Metern Höhe sind von elf auf sieben Standorte geschrumpft. Es gibt nur etwa 200 bis 600 Taiwan-Schwarzbären in ganz Taiwan, wobei jedes Tier ein Aktionsradius von 30 bis 40 Quadratkilometern benötigt. Wie viel Raum bleibt dieser Bühne mit der weltweit höchsten Lebensdichte noch für Wildtiere?'
 date: 2026-03-21
 category: 'Geography'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Biodiversität',
     'Endemische Arten',
     'Naturschutz',
-    'Nationalpark',
+    'Nationalparks',
   ]
 subcategory: '生態地理'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-09-10T18:19:25+08:00'
+translatedAt: '2026-10-21T02:27:32.894120+00:00'
 ---
 
 # Taiwan: Ein Hotspot der Biodiversität

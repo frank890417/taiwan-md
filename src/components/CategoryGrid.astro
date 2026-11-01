@@ -6,6 +6,7 @@ import {
 } from '../i18n/utils';
 import { defaultLang } from '../i18n/ui';
 import Icon from './Icon.astro';
+import { categoryIcons, icons } from '../icons/taiwan-icons.mjs';
 import { getCategoryConfigs } from '../utils/categoryConfig';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
@@ -64,21 +65,10 @@ const heights: Record<string, number> = {
   lifestyle: 155,
   politics: 140,
 };
-const glyphs = {
-  history: 'archive',
-  geography: 'map',
-  culture: 'community',
-  food: 'bowl',
-  art: 'art',
-  music: 'music',
-  technology: 'chip',
-  nature: 'leaf',
-  people: 'person',
-  society: 'city',
-  economy: 'chart',
-  lifestyle: 'home',
-  politics: 'civic',
-} as const;
+// 識別系統 v2（/brand#icons）：分類圖示的唯一來源是 categoryIcons
+const glyphs = Object.fromEntries(
+  Object.entries(categoryIcons).filter(([slug]) => slug !== 'about'),
+) as Record<string, keyof typeof icons>;
 const categories = Object.entries(glyphs).map(([slug, icon]) => ({
   ...categoryConfigs[slug],
   slug,

@@ -122,6 +122,7 @@ const normalizedContributors = contributors.map((contributor) => {
       : '',
   };
 });
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -157,20 +158,7 @@ const normalizedContributors = contributors.map((contributor) => {
     {
       readingTime && (
         <div class="meta-row">
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            aria-hidden="true"
-          >
-            <>
-              <circle cx="12" cy="12" r="10" />
-              <polyline points="12 6 12 12 16 14" />
-            </>
-          </svg>
+          <Fragment set:html={iconSvg('clock')} />
           <span>{readingTimeLabel}</span>
         </div>
       )
@@ -178,22 +166,7 @@ const normalizedContributors = contributors.map((contributor) => {
     {
       displayDate && (
         <div class="meta-row">
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            aria-hidden="true"
-          >
-            <>
-              <rect x="3" y="4" width="18" height="18" rx="2" />
-              <line x1="16" y1="2" x2="16" y2="6" />
-              <line x1="8" y1="2" x2="8" y2="6" />
-              <line x1="3" y1="10" x2="21" y2="10" />
-            </>
-          </svg>
+          <Fragment set:html={iconSvg('calendar')} />
           <span>{displayDate}</span>
         </div>
       )
@@ -201,20 +174,7 @@ const normalizedContributors = contributors.map((contributor) => {
     {
       displayModified && displayModified !== displayDate && (
         <div class="meta-row meta-row--subtle">
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            aria-hidden="true"
-          >
-            <>
-              <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" />
-              <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" />
-            </>
-          </svg>
+          <Fragment set:html={iconSvg('pen')} />
           <span>
             {updatedLabel} {displayModified}
           </span>
@@ -224,22 +184,7 @@ const normalizedContributors = contributors.map((contributor) => {
     {
       revisionCount > 0 && (
         <div class="meta-row meta-row--subtle">
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            aria-hidden="true"
-          >
-            <>
-              <circle cx="18" cy="18" r="3" />
-              <circle cx="6" cy="6" r="3" />
-              <path d="M6 9v12" />
-              <path d="M18 15V9a6 6 0 0 0-6-6" />
-            </>
-          </svg>
+          <Fragment set:html={iconSvg('branch')} />
           <span>{revisionLabel}</span>
         </div>
       )
@@ -247,21 +192,7 @@ const normalizedContributors = contributors.map((contributor) => {
     {
       commitHash && (
         <div class="meta-row meta-row--subtle">
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            aria-hidden="true"
-          >
-            <>
-              <circle cx="12" cy="12" r="3" />
-              <line x1="3" y1="12" x2="9" y2="12" />
-              <line x1="15" y1="12" x2="21" y2="12" />
-            </>
-          </svg>
+          <Fragment set:html={iconSvg('commit')} />
           <a
             href={`https://github.com/frank890417/taiwan-md/commit/${commitHash}`}
             target="_blank"
@@ -274,23 +205,7 @@ const normalizedContributors = contributors.map((contributor) => {
       )
     }
     <div class="meta-row meta-row--subtle">
-      <svg
-        width="14"
-        height="14"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        aria-hidden="true"
-      >
-        <circle cx="12" cy="12" r="10"></circle><line
-          x1="2"
-          y1="12"
-          x2="22"
-          y2="12"></line><path
-          d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"
-        ></path>
-      </svg>
+      <Fragment set:html={iconSvg('globe')} />
       <span>{contentLanguageName}</span>
     </div>
   </div>
@@ -403,19 +318,7 @@ const normalizedContributors = contributors.map((contributor) => {
         data-copy-default={copyLinkLabel}
         data-copy-copied={copiedLabel}
       >
-        <svg
-          width="15"
-          height="15"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          aria-hidden="true"
-          ><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"
-          ></path><path
-            d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"
-          ></path></svg
-        >
+        <Fragment set:html={iconSvg('link')} />
         <span class="copy-link-text whitespace-nowrap">{copyLinkLabel}</span>
       </button>
     </div>

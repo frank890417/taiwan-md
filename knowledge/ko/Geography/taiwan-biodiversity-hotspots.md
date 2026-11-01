@@ -1,21 +1,21 @@
 ---
-title: '대만의 생태 다양성 핫스팟'
-description: '3.6만 제곱킬로미터의 섬에 5.9만 종이 넘는 생물이 밀집해 있으며, 밀도는 세계 평균의 100배에 달한다'
+title: '대만 생물다양성 핫스팟'
+description: '면적 3.6만 제곱킬로미터의 대만은 5.9만 종의 알려진 생물을 품고 있으며, 그 밀도는 전 세계 평균의 100배에 달한다. 전체 종의 30% 이상이 전 세계에서 유일한 고유종이다. 수직 4,000미터의 기후 엘리베이터 덕분에 이 섬은 좁은 땅에서 지구 절반의 기후대를 재현한다. 세계 최저 위도의 연어인 대만산천어(櫻花鉤吻鮭)는 이제 칠가완계(七家灣溪)만 남았고, 해발 1,500~2,500미터에 서식하는 대만산초어(台灣山椒魚)의 서식지는 11곳에서 7곳으로 줄었다. 대만흑곰은 전역에 약 200~600마리가 서식하며, 개체당 30~40제곱킬로미터의 활동 공간이 필요하다. 생명 밀도가 세계 최고인 이 무대에서 야생동물에게 얼마나 더 많은 공간을 남겨줄 수 있을까?'
 date: 2026-03-21
+category: 'Geography'
 tags: ['생태', '생물다양성', '고유종', '보전', '국립공원']
 subcategory: '生態地理'
-category: 'Geography'
 author: 'Taiwan.md Contributors'
-readingTime: 8
 featured: false
-translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9dea4a4cafb753d9'
-sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-04-14T19:23:57+08:00'
 lastVerified: 2026-03-21
 lastHumanReview: true
 difficulty: 'beginner'
+readingTime: 8
+translatedFrom: 'Geography/台灣生態多樣性熱點.md'
+sourceCommitSha: 'f4ae4fb8f'
+sourceContentHash: 'sha256:9dea4a4cafb753d9'
+sourceBodyHash: 'sha256:4398643bac3fb675'
+translatedAt: '2026-10-21T02:20:25.623126+00:00'
 ---
 
 # 대만의 생태 다양성 핫스팟

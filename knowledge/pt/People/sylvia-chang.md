@@ -1,96 +1,82 @@
 ---
-title: 'Sylvia Chang: de Chiayi, a voz original de "Infância" à realizadora de "Amor e Família"'
-description: 'Nascida em 1953 na cidade de Chiayi, Sylvia Chang entrou no mundo do espetáculo aos 17 anos com "A Pessoa do Sonho". "Infância" (Lo Ta-yu, 1981) é sua interpretação; "O Preço do Amor" (Jonathan Lee, 1992) é sua canção mais conhecida. Em 1986, "Paixão" valeu-lhe o Cavalo de Ouro de Melhor Atriz; em 2017, "Amor e Família" foi indicado a Melhor Realização e Melhor Argumento Original. Atriz, realizadora, cantora — mais de cinquenta anos a cruzar três identidades.'
+title: 'Sylvia Chang (張艾嘉)'
+description: 'Sylvia Chang (張艾嘉, nascida em 1953), DJ de rádio aos 16 anos, cantora e apresentadora aos 17, primeiro filme em 1972, venceu o Golden Horse de Melhor Atriz Coadjuvante em 1976 com "The Autumn Love Song", e três vezes Melhor Atriz Principal em 1981, 1986 e 2022. Estreou na direção em 1981 e dirigiu dezasseis obras, mantendo em paralelo as carreiras de cantora, atriz e realizadora há mais de cinquenta anos.'
 date: 2026-03-19
 category: 'People'
-tags: ['Cinema', 'Realização', 'Atuação', 'Canto', 'Argumento']
+tags: ['Cinema', 'Direção', 'Atuação', 'Canto', 'Roteiro']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-07
+lastVerified: 2026-10-23
 lastHumanReview: false
-readingTime: 7
+readingTime: 4
 translatedFrom: 'People/張艾嘉.md'
-sourceCommitSha: '97e35f050'
-sourceContentHash: 'sha256:4dcfdcf5effc3d2c'
-sourceBodyHash: 'sha256:0b1d40b7bf6373a3'
-translatedAt: '2026-07-28T19:24:16+08:00'
+sourceCommitSha: '79414c25d'
+sourceContentHash: 'sha256:dbc2c1b2c29bf2f4'
+sourceBodyHash: 'sha256:5c090902060df973'
+translatedAt: '2026-10-23T06:08:50+08:00'
 ---
 
-# Sylvia Chang: de Chiayi, a voz original de "Infância" à realizadora de "Amor e Família"
+# Sylvia Chang: três vezes Melhor Atriz no Golden Horse, e realizadora de dezasseis obras
 
-> **Visão geral em 30 segundos:** Sylvia Chang nasceu em 1953 na cidade de Chiayi e entrou no mundo do espetáculo aos 17 anos com "A Pessoa do Sonho".[^1] "Infância" (letra e música de Lo Ta-yu, 1981) é sua interpretação; "O Preço do Amor" (música de Jonathan Lee, 1992) é uma de suas canções mais emblemáticas.[^2] Em 1986, "Paixão" — que ela escreveu, realizou e protagonizou — conquistou o Cavalo de Ouro de Melhor Atriz;[^3] em 2017, "Amor e Família" foi indicado a Melhor Realização. Atriz, realizadora, cantora: três identidades atravessadas ao longo de mais de cinquenta anos.
+Sylvia Chang (nome em inglês Sylvia Chang) nasceu em 1953, aos dezasseis anos tornou-se DJ de rádio, aos dezassete cantou e apresentou, aos dezenove filmou o primeiro filme. Venceu três vezes o Golden Horse de Melhor Atriz Principal, respectivamente em 1981, 1986 e 2022, com um intervalo de quarenta e um anos entre a primeira e a última. No mesmo período dirigiu dezasseis obras, desde "Some Day, Some Month, Some Year" de 1981 até "Her Story" de 2022.[^1]
 
-## 1953, Chiayi
+## Cronologia
 
-Em 1953, Sylvia Chang nasceu no beco 191 da Rua Gonghe, em Chiayi (hoje Vila Huayi Forest Living).[^1] Este local de nascimento é mencionado ocasionalmente em suas entrevistas posteriores, mas sua trajetória profissional logo a levou para longe de Chiayi: primeiro a Taipé, depois a Hong Kong, e daí em idas e vindas entre as duas margens do estreito.
+| Ano         | Evento                                                                                                                                                                                                     |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1953        | 21 de julho, nascida, natural de Wutai, Shanxi. O corpo do artigo indica o n.º 1, beco 191, Rua Gonghe, Cidade de Chiayi; a infobox indica a Nova Aldeia Comunitária, Vila de Dalin, Condado de Chiayi[^1] |
+| 1955        | O C-47 pilotado pelo pai, major Chang Wen-chuang, despenhou-se contra uma montanha em Hsinchu; ele tinha 31 anos, ela 1[^1]                                                                                |
+| ~12 anos    | Mudou-se para Kowloon City, Hong Kong, ingressou na escola primária do New Method College, depois estudou em Nova Iorque[^1]                                                                               |
+| ~15 anos    | Regressou a Taiwan, estudou na Sacred Heart Girls' High School e na Taipei American School[^1]                                                                                                             |
+| ~16–17 anos | Aos 16 tornou-se DJ de rádio, aos 17 atuou como cantora e apresentadora[^1]                                                                                                                                |
+| 1972        | Primeiro filme "The Young Tiger" (a filmografia regista 1973, o artigo da Wikipédia é inconsistente)[^1]                                                                                                   |
+| 1976        | Venceu o 13.º Golden Horse de Melhor Atriz Coadjuvante com "The Autumn Love Song"[^1]                                                                                                                      |
+| 1981        | Venceu o 18.º Golden Horse de Melhor Atriz Principal com "My Grandfather"; no mesmo ano dirigiu o primeiro filme "Some Day, Some Month, Some Year"[^1]                                                     |
+| 1983        | Participou em "A Day at the Beach", no papel de Chia-li[^1]                                                                                                                                                |
+| 1986        | Escreveu, dirigiu e protagonizou "Passion", venceu o 23.º Golden Horse de Melhor Atriz Principal; o filme foi também indicado a Melhor Filme, Melhor Realizador, Melhor Argumento Original[^1]             |
+| 1987        | Dirigiu "Yellow Story"[^1]                                                                                                                                                                                 |
+| 1992        | Lançou o álbum "The Price of Love", letra e música de Jonathan Lee, produzido pela Rock Records[^2]                                                                                                        |
+| 1995        | Dirigiu "Siao Yu", indicado ao 32.º Golden Horse de Melhor Filme e Melhor Argumento Original[^1]                                                                                                           |
+| 2001        | Indicada ao 38.º Golden Horse de Melhor Atriz Principal com "Forever and Ever", venceu Melhor Atriz Principal no Hong Kong Film Award e no Golden Bauhinia Award[^1]                                       |
+| 2004        | Dirigiu "20 30 40", indicado ao Urso de Ouro do Festival de Berlim[^1]                                                                                                                                     |
+| 2014–2018   | Presidiu o Comité Executivo da 6.ª edição do Taipei Golden Horse Film Festival[^1]                                                                                                                         |
+| 2017        | "Love Education" indicado ao 54.º Golden Horse de Melhor Atriz Principal, Melhor Realizador, Melhor Argumento Original e Melhor Filme[^1]                                                                  |
+| 2018        | Venceu Melhor Atriz Principal no Asian Film Awards com "Love Education"; no mesmo ano recebeu o Prémio Carreira do Asian Film Awards[^1]                                                                   |
+| 2021        | Recebeu o 22.º Prémio Nacional de Artes e Literatura[^1]                                                                                                                                                   |
+| 2022        | Terceiro Golden Horse de Melhor Atriz Principal com "A Light Never Goes Out"; dirigiu "Her Story"[^1]                                                                                                      |
+| 2024        | Indicada ao 61.º Golden Horse de Melhor Atriz Principal com "Daughter's Daughter"[^1]                                                                                                                      |
 
-Aos 17 anos, ingressou no meio artístico ao participar do filme de Chiung Yao "A Pessoa do Sonho".[^1] Na década de 1970, destacou-se na era de ouro do cinema taiwanês, contracenando com Chin Han e Chin Hsiang-lin em diversos filmes românticos literários.
+## Primeiro cantora e apresentadora, depois atriz
 
-A Sylvia Chang desse período era uma ídolo, mas não estagnou ali. O contato com realizadores da Nova Vaga Taiwanesa na década de 1980 fez-lhe perceber que a atuação pode ser um ato criativo sério, e a gestão de imagem apenas a camada mais superficial — essa consciência foi o pré-requisito para que mais tarde se tornasse realizadora.
+O seu ponto de partida não foi o set de filmagem. Segundo a compilação da Wikipédia, aos 16 anos tornou-se DJ de rádio, aos 17 cantora e apresentadora, o primeiro filme "The Young Tiger" só chegou em 1972.[^1] Na década de 1970 a sua filmografia é extensa; a de 1976 inclui "The Autumn Love Song", "Eight Hundred Heroes", entre outros, e "The Autumn Love Song" valeu-lhe o primeiro Golden Horse, na categoria de Melhor Atriz Coadjuvante.[^1]
 
-## Anos 1980: de ídolo a atriz de peso
+A vertente musical nunca parou. A Wikipédia lista obras como "Childhood", "Perhaps", "Busy and Blind", "Do You Love Me", "The Price of Love", entre outros álbuns; "The Price of Love", de 1992, produzido pela Rock Records com letra e música de Jonathan Lee, tem a versão original cantada por Sylvia Chang, tendo sido depois incluída no álbum "Jonathan Lee's Musical Journey: Reluctance" (1994) do próprio Jonathan Lee e no álbum de Gigi Leung (2000). A canção é também tema do filme "Three Summers".[^2]
 
-O que verdadeiramente consolidou seu estatuto foi a colaboração, nos anos 1980, com realizadores da Nova Vaga Taiwanesa como Edward Yang e [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien/), incluindo obras como "Um Dia na Praia", que a transformaram de estrela ídolo em atriz de substância.
+## 1981 e 1986: duas vezes Melhor Atriz Principal, duas posições
 
-Em 1986, "Paixão" — que ela escreveu, realizou e protagonizou — arrebatou o Cavalo de Ouro de Melhor Atriz.[^3] A partir desta obra, deixou de ser apenas atriz — passou a ser criadora.
+Em 1981 venceu o 18.º Golden Horse de Melhor Atriz Principal com "My Grandfather", interpretando Hsu Yi-chen; no mesmo ano dirigiu o seu primeiro filme "Some Day, Some Month, Some Year".[^1] O corpo do artigo menciona que em 1979 assumiu a conclusão do filme inacabado de Tu Chung-hsun, mas a filmografia regista 1981, havendo discrepância entre as duas datas.[^1]
 
-O significado de "Paixão" reside no controle completo que ela exerceu sobre três camadas da criação: escrever o argumento, realizar, atuar; cada papel era uma função real, não um título honorífico. Na indústria cinematográfica taiwanesa de 1986, pouquíssimas mulheres conseguiam isso.
+"Passion" de 1986 é mais completo: interpreta Pai Yun, assina simultaneamente argumento e realização. O filme concorreu ao 23.º Golden Horse nas categorias de Melhor Filme, Melhor Realizador, Melhor Argumento Original e Melhor Canção Original, e ela venceu Melhor Atriz Principal.[^1]
 
-## "Infância" é dela, "A Baía de Penghu da Avó" não é
+## Obras de realização e registo no Golden Horse
 
-"Infância" é interpretada por Sylvia Chang.[^2] A canção, com letra e música de Lo Ta-yu em 1981, é uma de suas representações mais conhecidas no campo musical. Que ela tenha se tornado parte da memória coletiva deve-se em boa medida à sua interpretação: ela soube lidar com a emoção de "um adulto olhando para a infância", e não apenas encenar uma criança.
+A sua filmografia como realizadora totaliza dezasseis títulos: 1981 "Some Day, Some Month, Some Year", 1986 "Passion", 1987 "Yellow Story", 1991 "Sasa JiaJia Stand Up", 1992 "When the Dream Wakes", 1994 "New Co-habitation Era", 1995 "Siao Yu", 1996 "Not Going Home Today", 1999 "Tempting Heart", 2002 "Want to Fly", 2004 "20 30 40", 2008 "A Good Father", 2011 "10+10" — segmento "Twilight of the Gods", 2015 "MurMur of the Hearts", 2017 "Love Education", 2022 "Her Story".[^1]
 
-"A Baía de Penghu da Avó" não é dela. O intérprete original dessa canção é Pan An-bang, com música de Yeh Chia-hsiu, sem qualquer relação com Sylvia Chang. As duas canções são próximas em época e estilo, mas têm origens completamente distintas.
+O registo no Golden Horse divide-se em duas frentes. Como realizadora ou argumentista, foi indicada com "Passion", "Siao Yu", "Not Going Home Today", "Tempting Heart" (Melhor Filme), "A Good Father" em 2008 (Melhor Realizador), e "Love Education" em 2017 (Melhor Realizador e Melhor Argumento Original simultaneamente). Como atriz, entre 1976 e 2024 soma doze indicações ou vitórias, com três vitórias em Melhor Atriz Principal e uma em Melhor Atriz Coadjuvante.[^1]
 
-"O Preço do Amor" (1992, música de Jonathan Lee) é, de fato, sua outra canção mais representativa.[^2]
+Recebeu ainda prémios de argumento em Hong Kong: "Tempting Heart" (2000) e "Love Education" (2018) venceram o Hong Kong Film Award de Melhor Argumento; "MurMur of the Hearts" (2016) venceu o Hong Kong Film Critics Society Award de Melhor Argumento; "Love Education" (2018) valeu-lhe também o prémio de Melhor Realizador dessa sociedade.[^1]
 
-Sylvia Chang já declarou em várias ocasiões que sua compreensão tanto da música quanto do cinema vem de "sentir o verdadeiro" — seja uma canção ou um personagem, ela busca o núcleo da emoção, não a técnica de apresentação. Essa atitude explica a coerência ao atravessar três domínios: os contextos mudam, o método central permanece o mesmo.
+## 2022: o terceiro Golden Horse de Melhor Atriz Principal
 
-Sua relação de colaboração com Lo Ta-yu também ultrapassou o quadro da produção fonográfica: Lo Ta-yu compunha sob medida para ela; ela encontrava para o espírito crítico dele uma porta de entrada no mercado pop — em certa medida, parte do pop taiwanês dos anos 1980 foi definida em conjunto por ambos.
+Em 2022 venceu o 59.º Golden Horse de Melhor Atriz Principal com "A Light Never Goes Out", trinta e seis anos após a segunda vitória em 1986.[^1] Em 2024 foi novamente indicada ao 61.º Golden Horse de Melhor Atriz Principal com "Daughter's Daughter"; em 2025 recebeu o Prémio Carreira do Far East Film Festival e o Prémio Camélia do Ano no Busan International Film Festival.[^1]
 
-## Olhar de realizadora: o olhar sobre três gerações de mulheres
+Publicou também ensaios: "Lightly Written" (2015) e "Daughter" (2024).[^1]
 
-Como realizadora, Sylvia Chang sempre se debruçou sobre a condição feminina. "A Pequena Pescadora" (1995) explora a mulher imigrante; "20 30 40" (2004) apresenta a visão do amor de três gerações de mulheres; "Amor e Família" (2017) foca os emaranhados afetivos de três gerações.
-
-"Amor e Família" é a obra de maturidade de sua carreira como realizadora, obtendo oito indicações ao Cavalo de Ouro, com a própria indicada a Melhor Realização e Melhor Argumento Original.[^3]
-
-Neste filme, as três gerações de mulheres têm cada uma sua compreensão e obsessão acerca das "relações", sem conseguir compreender totalmente a outra. Sylvia Chang não julga qual geração está certa — apenas as faz coexistir no mesmo espaço, observando como o conflito emerge naturalmente. Essa perspectiva de não tomar partido é o traço que a distingue dos criadores da mesma geração.
-
-Essa atitude de observar em vez de sentenciar não é comum entre realizadores taiwaneses. Muitos filmes atentos às questões femininas acabam por deslizar para o manifesto; as obras de Sylvia Chang permanecem no nível da "apresentação", deixando o espaço de interpretação para o público.
-
-O estilo de realização de Sylvia Chang é descrito como "gentil, mas intransigente": tem profunda empatia pelas personagens, mas recusa respostas fáceis. "A Pequena Pescadora", "20 30 40" e "Amor e Família" — três obras que abarcam vinte e dois anos — constituem juntas seu olhar de longo prazo sobre as mulheres em diferentes fases da vida: não a repetição de um tema nem sua extensão superficial, mas o aprofundamento espiral de uma questão.
-
-## Registro de cinquenta anos a cruzar fronteiras
-
-Entrados os anos 2020, Sylvia Chang continua a criar e atuar. Foi várias vezes presidente do júri do Cavalo de Ouro, e promove ativamente o intercâmbio cultural entre as duas margens do estreito, apoiando novos realizadores.
-
-Sua carreira ultrapassa cinquenta anos, e nenhuma das três identidades — atriz, realizadora, cantora — é fictícia.
-
-Na década de 2020, Sylvia Chang mantém-se ativa em produções cinematográficas e de palco, e múltiplas vezes presidiu o júri do Cavalo de Ouro, avaliando o cinema taiwanês com sua visão transdisciplinar. Sua forma de impulsionar jovens cineastas é a colaboração direta — permitindo que a nova geração obtenha respeito paritário na filmagem real, e não um ensino em formato de palestra.
-
-Ela ocupa uma posição especial de transmissão na indústria cinematográfica taiwanesa: foi moldada pela Nova Vaga Taiwanesa e, por sua vez, influenciou o olhar de jovens realizadores posteriores. Esse papel de intermediária torna sua existência importante para a continuidade da história do cinema taiwanês.
-
-Cinquenta anos de carreira não se fixaram em nenhuma identidade única; isso por si só é sua demonstração mais forte à indústria do espetáculo taiwanesa: uma pessoa pode ser simultaneamente uma verdadeira atriz, uma verdadeira realizadora, uma verdadeira cantora, sem precisar escolher apenas uma.
-
-**Dito corrente → leitura mais precisa**: Sylvia Chang é frequentemente descrita como "artista completa"; a expressão soa como elogio, mas carrega o risco de banalização. Suas três identidades — atriz, realizadora, cantora — não são exibição de talentos exercidos em simultâneo, mas aprofundamentos sérios em períodos distintos, cada qual merecendo avaliação autônoma.
-
-> 🎙️ **Nota do curador**: O lugar de Sylvia Chang na história do cinema taiwanês é singular — ela é, ao mesmo tempo, a atriz moldada pela Nova Vaga Taiwanesa e a criadora que depois se tornou realizadora. Poucas pessoas ocupam essas duas posições.
->
-> Seu olhar de realizadora sempre apontou para as mulheres, porque sua matéria-prima de observação é justamente essa experiência de vida. Isso confere a seus filmes uma naturalidade que não precisa de defesa — é apresentação, não declaração de posição.
-
-Partindo do beco da Rua Gonghe em Chiayi, atravessando Taipé, Hong Kong, idas e vindas entre as duas margens — os cinquenta anos de Sylvia Chang não são uma história linear de sucesso, mas o registro de alguém que se move continuamente entre diferentes identidades, recusando estacionar em qualquer zona de conforto. Seu nome na história do entretenimento taiwanês representa uma postura de vida que um criador pode escolher, muito além do que o êxito pessoal de um indivíduo pode enquadrar.
-
-**Leitura complementar**: [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de dados do Cavalo de Ouro](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/pt/people/yang-dechang) — "Um Dia na Praia", por ela protagonizado, é o primeiro longa-metragem de ficção de Edward Yang
+**Leitura adicional**: [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/zh-tw/張艾嘉) ｜ [Edward Yang](/pt/people/yang-dechang)
 
 ## Referências
 
-[^1]: [United Daily News: reportagem sobre local de nascimento de Sylvia Chang em Chiayi](https://stars.udn.com/star/story/10090/9108331) — Confirma que Sylvia Chang nasceu em 1953 no beco 191 da Rua Gonghe, em Chiayi (hoje Vila Huayi Forest Living), e ingressou no meio artístico aos 17 anos ("A Pessoa do Sonho").
+[^1]: [Wikipédia: Sylvia Chang](https://zh.wikipedia.org/zh-tw/張艾嘉) — A biografia, filmografia, obras de realização e registos de prémios do Golden Horse, Hong Kong Film Awards, Asian Film Awards, etc., baseiam-se neste artigo (acesso em 2026-10-23). O artigo apresenta inconsistências internas quanto ao local de nascimento, primeiro filme e ano de estreia na realização; este texto regista-as em paralelo.
 
-[^2]: [Wikipédia: Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) — Confirma "Infância" como interpretada por Sylvia Chang (Lo Ta-yu, 1981), "O Preço do Amor" (Jonathan Lee, 1992) como canção representativa, e esclarece que "A Baía de Penghu da Avó" é de Pan An-bang (sem relação com Sylvia Chang).
-
-[^3]: [Base de dados do Cavalo de Ouro: registro de prêmios de Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) — Inclui Cavalo de Ouro de Melhor Atriz em 1986 por "Paixão", e indicações a Melhor Realização e Melhor Argumento Original por "Amor e Família" em 2017.
-
-[^4]: [Taiwan Cinema: Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) — Registro completo da carreira de realizadora de Sylvia Chang, com dados de "A Pequena Pescadora" (1995), "20 30 40" (2004), "Amor e Família" (2017).
-
-[^5]: [Amor e Família — Catchplay](http://www.atmovies.com.tw/movie/floa44742698/) — Sinopse de "Amor e Família", detalhes das oito indicações ao Cavalo de Ouro e elenco.
+[^2]: [Wikipédia: The Price of Love](https://zh.wikipedia.org/zh-tw/愛的代價) — Lançado em 1992 pela Rock Records, letra e música de Jonathan Lee, a versão original listada é de Sylvia Chang, tendo sido depois incluída por Jonathan Lee (1994) e Gigi Leung (2000); tema do filme "Three Summers".

@@ -165,7 +165,7 @@ translatedAt: '2026-10-15T17:24:22.092070+00:00'
 > "Núi giống như điểm bắt đầu của tất cả mọi thứ, là nguồn gốc của các dòng sông, nuôi dưỡng các loài sinh vật, là điểm khởi đầu của ước mơ nguyên sơ của tôi, cũng là cảm hứng cho tôi bước vào lĩnh vực chụp ảnh từ không trung."
 > — Tề Bạch Lâm[^5]
 >
-> _(Bối cảnh: Nhà chụp ảnh không trung đầu tiên của Đài Loan, sử dụng góc nhìn từ trên cao để reinterpret lại vẻ đẹp Đài Loan, thức tỉnh ý thức bảo vệ môi trường)_
+> _(Bối cảnh: Nhà chụp ảnh không trung đầu tiên của Đài Loan, sử dụng góc nhìn từ trên cao để diễn giải lại vẻ đẹp Đài Loan, thức tỉnh ý thức bảo vệ môi trường)_
 
 ### Ngô Minh Ích《Thuật Sư Trên Cầu Trời》(2011)
 

@@ -3,9 +3,9 @@ title: 'EDITORIAL'
 description: '怎麼把素材寫成一篇有溫度的台灣文章'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.22'
-last_updated: 2026-10-10
-last_session: '2026-10-10-editorial-layers（v6.22：規則分兩層＋美學層 N/A 出口，§四／§十 筆記密度矛盾收斂，OBSERVER-QUEUE #74 哲宇拍板 B；A/B 見 reports/editorial-v6.22-ab-test-2026-10-10.md。v6.21：A/B 破例條款加只改事實的修正，#82）'
+current_version: 'v6.23'
+last_updated: 2026-10-21
+last_session: '2026-10-21-yitong（v6.23：精選文媒體 ≤ 20、tw-* ≤ 8，哲宇拍板）；2026-10-10-editorial-layers（v6.22：規則分兩層＋美學層 N/A 出口，§四／§十 筆記密度矛盾收斂，OBSERVER-QUEUE #74 哲宇拍板 B；A/B 見 reports/editorial-v6.22-ab-test-2026-10-10.md。v6.21：A/B 破例條款加只改事實的修正，#82）'
 benchmark: '報導者（The Reporter）深度報導品質標準'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -604,6 +604,7 @@ Root cause hypothesis：REWRITE-PIPELINE Stage 4-5 sub-agent worktree spawn 時�
 1. **段落 median CJK 字數 ≥ 55**（gold standard 80-90 字）— 早期 viral 範本 median 81，<55 開始進入 atomization zone。`paragraph-rhythm` plugin gate R1 自動 catch（WARN 級，soft launch）
 2. **每 H2 prose 段落數 ≤ 8**（含 callout / footer 不計）— 超過代表該 H2 該拆兩個或合段
 3. **媒體密度 band：1.2 ≤ (圖+影片+hero+tw-\* 模組) / 1k CJK ≤ 2.0**（2026-07-12 哲宇 directive「提升上限，1.5x-2x 都是健康，新基準範圍 1.2~2」——band 第三波上修 0.7→0.8→**1.2–2.0**，舊 ceiling 變新 floor）— **下限 1.2**：低於 = 媒體偏少 / 立體呈現不足（舊健康範本 黃魚鴞 0.82 / 設研院 0.91 / 天下 0.92 在新基準下屬偏少，方向 = 富媒體 default 再拉升）；**上限 2.0**：高於 = visual 密度偏高；**> 2.5 且段落 median < 55 = HARD atomization**（雙信號結構不變）。新帶內範本：陳建年 1.48 / 周蕙 1.76（周蕙當年是 density+median 雙信號才 HARD）。`paragraph-rhythm` plugin 自動 catch floor + ceiling
+   - **精選文（`featured: true`）改看總數上限**（2026-10-21 哲宇拍板）：媒體（hero＋圖＋影片＋tw-\* 模組）**全篇最多 20 個**，其中 tw-\* 模組**最多 8 個**；精選文不套 2.0 密度上緣，超過 20 或 8 才 WARN。下限 1.2 與「> 2.5 且段落 median < 55」的 HARD 照舊：精選文可以圖多，段落不能碎。
 4. **單段 ≤ 280 CJK 字（牆 / 窒息感）**（2026-06-07 哲宇 directive 儀器化）— 任何單一段落 > 280 字 = 牆，讀起來窒息。校準：好範本 max 段落 黑冠麻鷺 149 / 天下 217；牆 複雜生活節順稿前 341 / 設研院 312。`paragraph-rhythm` R4 自動 catch（WARN）。修：在自然轉折處（話題切換 / 因果推進 / 引語前）拆成 2 段，**拆完每半段仍 ≥ 55 字**（別 atomize 成 R1）
 
 #### 對比範例
@@ -1516,6 +1517,8 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 
 媒體素材的「夠不夠」不是固定張數，是**隨字數縮放的密度 band**。depth article 目標 **圖+影片+視覺模組 ≈ 1 媒體 / 500–800 字**（含 hero 與 tw-\* 模組），落在 **1.2–2.0 / 1k CJK** 的健康帶（2026-07-12 哲宇 directive 第三波上修，原 0.7–1.2；下表舊範本密度為當時基準，新基準下 0.8–0.9 屬偏少）；**長文（≥ 7000 字）朝 圖+影片 ≥ 8**。太少 = 立體呈現不足（讀者疲勞），太多 = 替代敘事節奏（atomization）。
 
+**精選文的上限**（2026-10-21 哲宇拍板，〈一同走過從前〉：「媒體密度 這篇是精選最多20個」「圖表模組也是可以到8個」）：`featured: true` 的文章，媒體（hero＋圖＋影片＋tw-\* 模組）全篇 ≤ 20、tw-\* 模組 ≤ 8，不套 2.0/1k 密度上緣。一般文章仍是 band 1.2–2.0 與 tw-\* ≤ 4（[graph.md §九](graph.md)）。精選放寬的是張數，不是段落：每張圖仍要回答它所在段落的問題，段落 median 仍要 ≥ 55。
+
 | 媒體豐富度           | 範本           | 圖+影片              | 密度/1k | 特性                          |
 | -------------------- | -------------- | -------------------- | ------- | ----------------------------- |
 | 富媒體 multimodal    | 陳建年         | **8**（4 圖+4 影片） | 1.48    | 圖+影片三層時間軸，最完整立體 |
@@ -1847,6 +1850,7 @@ _**Plugin self-reference note**：本檔跑 `prose-health` 會出現 ~25 warn �
 
 **最近 milestone**（完整 changelog → `git log docs/editorial/EDITORIAL.md`）：
 
+- **v6.23**（2026-10-21 yitong，哲宇拍板）— §四 呼吸鐵律 3＋§八 媒體編織加「精選文上限」：`featured: true` 媒體全篇 ≤ 20、tw-\* 模組 ≤ 8，不套 2.0/1k 密度上緣；下限與 atomization HARD 不變。哲宇原話：「媒體密度 這篇是精選最多20個」「圖表模組也是可以到8個」「同步幫我更新精選標準到你剛看到規範的地方」。閾值由哲宇直接核可，比照 v6.21 沒另跑 A/B。儀器 `paragraph-rhythm` R3 同步：精選文改看總數上限。graph.md v3.2、REWRITE-PIPELINE-SINGLE v6.8.2 同步。
 - **v6.22**（2026-10-10，OBSERVER-QUEUE #74 哲宇拍板 B，源自 Discussion #1757 kwt-klure）— 新增 §〇 兩層規則：【事實層・硬閘門】（可查證、逐字、出處、算術單位、台灣稱名、紀實邊界、授權）沒有出口；【美學層・預設】（一個人開場、冒號三明治、兩句原話、反向解釋段落、結尾回收、anchor noun、筆記與富文本數量、節奏、開場五型、五指）預設做、可在研究報告寫一行「N/A＋理由」。全檔不刪段落，逐節掛標籤。反向解釋拆成「檢驗必做（事實層）／段落預設（美學層）」。§二 五件事第 1 件改成只管矛盾驅動的題，立體群像鎖組織主軸（對齊 MANIFESTO §13 與 SINGLE Step 0.1.5）；§三 五種開場以「一個人在一個時刻」為強預設（對齊 SINGLE Step 2.3）；冒號三明治從強制改預設。§四／§十 矛盾：§四 密度規則留作上限（0 則合法），§十 改「預設使用量」、刪「不強制＝不存在」。SINGLE 與 EDITORIAL-ROOM 的復述句改成 pointer；`curator-note-density.py` 檔頭與尾句同步。A/B（台灣證券交易所研究報告，兩隻 fable 寫手）見 [reports/editorial-v6.22-ab-test-2026-10-10.md](../../reports/editorial-v6.22-ab-test-2026-10-10.md)。
 - **v6.21**（2026-10-10，OBSERVER-QUEUE #82 哲宇拍板 A）— §A/B SOP「何時可破例」加一類：只改事實的修正（commit 附出處、不動寫法與規則）不跑 A/B；規則／voice／新正例仍必跑。這條本身是規則修改，文字由哲宇 10-10 直接核可，沒另跑 A/B。
 - **v6.20**（2026-09-26 twmd-maintainer，PR #1777 kwt-klure＋維護班事實更正，源自 Discussion #1757）— §四 反向解釋：從「高 stake 至少寫一個」改成先檢查通行說法的證據與重要反例，有根據且會實質改變解讀才寫，並編進主敘事；§九 #4 雲門結尾正例換成可查證的交棒畫面與本人原話（引語框架照聯合報〈優人物〉原文：卸任後所說，沒有「笑」）；§三／§九 #1 戴資穎正例事實更正：左手持拍刪去（她右手持拍）、6 歲每天 6 小時改為 7 歲持拍與 12 歲甲組、日本媒體改為媒體、「那一晚 Google 搜尋量第一」改為 2021 年度快速竄升總榜唯一人物、左營改為前鎮（同版另含 #1778 的 214 週累計更正）。A/B（台灣公投制度研究報告，兩隻 Sonnet）：改動的主體照設計發生，看不到副作用，見 [reports/editorial-v6.20-ab-test-2026-09-26.md](../../reports/editorial-v6.20-ab-test-2026-09-26.md)。

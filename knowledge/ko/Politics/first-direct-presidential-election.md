@@ -3,8 +3,8 @@ title: '첫 총통 직선: 미사일이 다가올 때, 투표용지가 어떻게
 description: '1996년 대만은 처음으로 시민 직선에 의해 총통을 선출했다. 제도 개혁, 야백화 학운(야생백합 학생운동), 그리고 대만해 군사 위기가 동일한 투표용지 위에서 교차하며, 민주주의는 투표일 이후의 제도적 일상으로 진입했다.'
 date: 2026-08-15
 category: 'Politics'
-subcategory: '選舉制度'
 tags: ['총통 직선', '민주화', '리덩후이', '대만해 위기', '선거']
+subcategory: '選舉制度'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
@@ -12,20 +12,20 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Politics/第一次總統直選.md'
-sourceCommitSha: '0cbc25416'
-sourceContentHash: 'sha256:a9a1c953d1f67352'
-sourceBodyHash: 'sha256:7f3db8811cfb9799'
-translatedAt: '2026-09-12T23:42:23+08:00'
+sourceCommitSha: '0939ae849'
+sourceContentHash: 'sha256:3c956f717d68030c'
+sourceBodyHash: 'sha256:086061fa27edc0cb'
+translatedAt: '2026-10-23T15:29:43.022513+00:00'
 ---
 
-1996년 3월 23일, 대만은 처음으로 시민에 의해 총통과 부총통을 직접 선출했다. 이날 총 1,076만 명의 유권자가 투표에 참여했으며, 투표율은 76.04%였다. 리덩후이(李登輝)와 리엔찬(連戰)은 54%의 득표율을 기록했다.[^1] 같은 날, 진먼(金門)의 주둔 군부대는 중국군의 군사적 압력 하에 경계 태세를 강화했으며, 투표함과 군사 위기는 같은 아침에 대만의 현실에 동시에 등장했다.[^2]
+1996년 3월 23일, 타이완은 시민들이 총통과 부총통을 직접 선출하는 첫 직선제를 실시했다. 당일 총 1,088만 명이 투표에 참여했으며, 투표율은 76.04%를 기록했다. 리덩후이(李登輝)와 롄잔(連戰) 후보가 54%의 득표율을 얻었다.[^1][^13] 같은 날, 금문도 주둔군은 중국의 군사적 압박 속에 경계 태세를 높이고 있었으며, 투표함과 군사 위기가 같은 아침 타이완의 현실 속에 동시에 존재했다.[^2]
 
-이 선거에는 네 개의 정·부통령 후보 쌍이 있었다: 국민당의 리덩후이와 리엔찬, 민진당의 펑밍민(彭明敏)과 세창팅(謝長廷), 그리고 린양강(林洋港)과 하오바이춘(郝柏村), 천뤼안(陳履安)과 왕칭펑(王清峰)으로 구성된 두 무소속 후보 쌍이었다.[^1] 표면적으로는 총통 선거였으나, 깊이 살펴보면 이는 '국가 지도자의 결정 권한'을 국민대회 의회에서 시민의 손으로 옮기는 제도적 이전이었다.
+이번 선거에는 네 쌍의 총통 및 부총통 후보가 출마했다. 국민당의 리덩후이·롄잔, 민진당의 펑밍민(彭明敏)·셰창팅(謝長廷), 그리고 무소속인 린양강(林洋港)·하오바이춘(郝柏村)과 천뤼안(陳履安)·왕칭펑(王清峰) 두 팀이다.[^1] 표면적으로는 총통 선거였으나, 그 이면을 들여다보면 '누가 국가 지도자를 결정할 권한을 갖는가'라는 문제를 국민대회 회의장에서 시민의 손으로 옮겨온 제도적 전환이었다.
 
-![리덩후이 총통의 초상화, 1996년 첫 총통 직선의 정치인으로서의 시각적 안내](https://upload.wikimedia.org/wikipedia/commons/e/ef/President_Lee_teng_hui_%28cropped%29.png)
-_리덩후이 총통의 초상화. 이미지 출처: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Lee_teng_hui_(cropped).png), 저자/출처: 중화민국 총통부; 정부 웹사이트 공개 정보 공고를 따라 사용이 허용되며, 본 문서는 컷과 크기 조정만 수행함.\_
+![1996년 첫 총통 직선제의 정치적 상징으로서의 리덩후이 총통 초상화](https://upload.wikimedia.org/wikipedia/commons/e/ef/President_Lee_teng_hui_%28cropped%29.png)
+_리덩후이 총통 초상화. 사진 출처: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Lee_teng_hui_(cropped).png), 저자/출처: 중화민국 총통부; 정부 웹사이트의 공개 정보 공고에 따라 사용을 허가받았으며, 본문에서는 크기 조정 및 자르기 작업만 수행함.\_
 
-> **📝 큐레이터 노트:** 대만 민주주의에서 가장 무게감 있는 장면은 무대 위의 연설이 아닐 수 있다. 때로는 접힌 채 투표가 찍힌 종이 한 장이 '시민'이 더 이상 대변되는 명사가 아님을 증명하는 순간이다.
+> **📝 큐레이터 노트:** 타이완 민주주의에서 가장 무게감 있는 장면은 반드시 무대 위의 연설일 필요는 없다. 때로는 접혔던 종이 위에 투표 용지가 놓이는 순간이야말로, '국민'이 더 이상 대리될 뿐인 명사가 아님을 마침내 증명하는 장면이 된다.
 
 ## 투표 이전, 총통은 어떻게 선출되었는가
 
@@ -96,25 +96,25 @@ _타이베이 총통부 건물. 이미지 출처: [Wikimedia Commons](https://co
 
 > **📝 큐레이터 노트:** 미사일이 유권자를 대신하여 투표용지에 투표할 수는 없지만, 그것은 각자가 투표소에 들어설 때 마음속의 질문을 변화시킨다: 내가 오늘 던지는 것은 후보자이며, 또한 내가 타인이 나를 대신해 결정하는 것을 수용할 것인지이다.
 
-## 54%가 승리에서 제도로 변하다
+## 54%의 승리에서 제도로
 
-리덩후이와 리엔찬은 최종적으로 5,813,699표를 얻어 54%를 차지했으며, 펑밍민과 세창팅은 2,274,586표를 얻어 21.11%를 차지했다. 린양강과 하오바이춘은 1,603,790표를 얻어 14.89%를 차지했으며, 천뤼안과 왕칭펑은 1,074,044표를 얻어 9.98%를 차지했다. 총 1,076만 명의 유권자가 투표에 참여했으며, 투표율은 76.04%였다.[^1]
+리덩후이와 롄잔은 최종적으로 5,813,699표를 얻어 54%의 득표율을 기록했다. 펑밍민과 셰창팅은 2,274,586표(21.11%), 린양강과 하오바이춘은 1,603,790표(14.89%), 천뤼안과 왕칭펑은 1,074,044표(9.98%)를 각각 얻었다. 총 1,088만 명의 유권자가 투표에 참여했으며, 그중 유효 투표수는 1,077만 표로 투표율은 76.04%였다. [^1][^13]
 
 ```tw-stat
-76.04% | 투표율 | 1,076만 명의 유권자 투표
-54% | 리덩후이/리엔찬 득표율 | 5,813,699표
-4개 쌍 | 정·부통령 후보자 조합 | 1996년 첫 직선
-출처: Focus Taiwan/중사, 중앙선거위원회
+76.04% | 투표율 | 1,088만 명 유권자 투표
+54% | 리덩후이／롄잔 득표율 | 5,813,699 표
+4개 조 | 대통령·부통령 후보 조합 | 1996년 첫 직선제
+출처: Focus Taiwan／중앙사, 중앙선거관리위원회
 ```
 
-![1996–2024 대만 총통 선거 득표 결과 비교도](https://upload.wikimedia.org/wikipedia/commons/3/36/Taiwan_presidential_election_results%2C_1996-2024.png)
-_대만 총통 선거 득표 결과 비교도, 1996년 첫 직선을 이후 총통 선거의 장기적 서열에 배치함. 이미지 저자 Emanuelamianstrolski, 출처: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_presidential_election_results,_1996-2024.png), CC BY-SA 4.0; 차트는 배경 자료로 사용되며 본 문서는 변경하지 않음._
+![1996–2024 타이완 대통령 선거 득표 결과 비교도](https://upload.wikimedia.org/wikipedia/commons/3/36/Taiwan_presidential_election_results%2C_1996-2024.png)
+_타이완 대통령 선거 득표 결과 비교도. 1996년 첫 직선제를 이후 대통령 선거의 장기적 시계열에 배치하였다. 이미지 저자 Emanuelamianstrolski, 출처: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_presidential_election_results,_1996-2024.png), CC BY-SA 4.0; 도표는 배경 자료로 사용되었으며 본문에서 수정되지 않았다._
 
-이 숫자들은 누가 이겼는지 답변할 수 있지만, 선거가 '무엇을 의미하는지'를 스스로 답변할 수는 없다. 뉴욕타임스는 당시 54%를 리덩후이에 대한 강력한 위임으로 묘사했으며, 일부 유권자가 군사 위기를 대응해야 할 정치적 신호로 간주했다고 보도했다.[^9] 그러나 중앙연구원의 유권자 연구 설계는 선거 결과를 후보자 평가, 정당 정체성, 쟁점 입장, 미디어 및 사회적 네트워크 등 다중 변인에서 이해해야 함을 보여준다.[^6]
+이 수치들은 누가 승리했는지는 답할 수 있지만, 선거가 「무엇을 의미하는지」에 대해서는 스스로 답하지 못한다. 당시 뉴욕타임스는 54%를 리덩후이에 대한 강력한 권한 부여로 묘사했으며, 일부 유권자들이 군사 위기를 대응해야 할 정치적 신호로 간주했다는 점도 보도했다. [^9] 그러나 중앙연구원의 유권자 연구 설계에 따르면, 선거 결과는 후보자에 대한 평가, 정당 정체성, 의제 입장, 미디어 및 사회적 네트워크 등 다각적인 변수를 통해 이해해야 한다. [^6]
 
-따라서 더稳妥한 말은 다음과 같다: 1996년의 54%는 동시에 두 가지 성격을 지닌다. 그것은 리덩후이와 리엔찬이 네 쌍의 후보자 중 승리한 비율이며, 또한 대만이 처음으로 전민 투표로 총통의 정당성을 결정하는 제도적 결과이다. 후자가 전자보다 더 내구성이 있는 이유는, 그것이 다음 선거의 승패에 따라 사라지지 않기 때문이다.
+따라서 더 신중한 표현은 다음과 같다. 1996년의 54%는 두 가지 성격을 동시에 지닌다. 그것은 네 개 후보 조합 중 리덩후이와 롄잔이 거둔 승리 비율인 동시에, 타이완이 전 국민 투표를 통해 대통령의 정당성을 결정하게 된 최초의 제도적 결과이다. 후자의 성격은 전자보다 더 지속적이다. 왜냐하면 그것은 다음 선거의 승패에 따라 사라지는 것이 아니기 때문이다.
 
-중앙선거위원회는 1996년 선거를 4년 임기의 총통과 부총통이 처음으로 직접 민선된 것으로 기록한다.[^3] 이 4년의 리듬은 이후 대만 정치 생활의 시간 감각이 되었다: 후보자는 시민 앞에 돌아야 하며, 정당은 재조직해야 하며, 정책은 투표의 추적을 받아야 한다.
+중앙선거관리위원회는 1996년 선거를 4년 임기의 대통령과 부통령이 처음으로 직접 민선된 해로 기록하고 있다. [^3] 이 4년 주기는 이후 타이완 정치 생활의 시간적 감각이 되었다. 후보자는 반드시 국민 앞에 다시 서야 하며, 정당은 재정비되어야 하고, 정책은 투표를 통한 질문에 답해야 한다.
 
 ## 직선은 다음 투표를 위해 논쟁을 남겨두다
 
@@ -132,32 +132,34 @@ _대만 총통 선거 득표 결과 비교도, 1996년 첫 직선을 이후 총�
 
 국민대회 대표 투표에서 시민 직접 투표로; 계엄과 비상시에서 후보자가 TV 카메라 앞에서 토론하는 것으로; 동결된 국가 상에서 4년마다 유권자의 검증을 다시 받는 것으로, 1996년은 대만 정치의 주어를 위치를 바꾸었다.[^3] 그 주어는 불완전하고, 일관성이 없으며, 항상 합리적이지는 않지만, 그것은 반드시 보아야 한다: 시민.
 
-## 참고 자료
+## 참고 문헌
 
-### 이미지 라이선스 및 출처
+### 이미지 저작권 및 출처
 
-본 문서의 이미지는 모두 Wikimedia Commons의 공개 원본 파일 URL에 직접 임베드되어 있으며, 로컬 다운로드 파일에 의존하지 않는다. 이미지의 저자, 원본 출처, 그리고 라이선스 조건은 각 캡션에 표시되어 있다. 사용 또는 변경 시 저자/출처, 원본 파일 페이지, 그리고 해당 라이선스 링크를 유지해야 하며; CC BY-SA 이미지의 변경은 동일하거나 호환되는 라이선스 조건을 따라야 한다.
+본문의 이미지는 모두 Wikimedia Commons의 공개 원본 파일 URL을 직접 삽입하였으며, 로컬에 다운로드된 파일을 사용하지 않았습니다. 이미지의 저자, 원본 출처 및 라이선스 조건은 각 캡션에 명시되어 있습니다. 사용 또는 개작 시에는 저자/출처, 원본 파일 페이지 및 해당 라이선스 링크를 유지해야 합니다. 그중 CC BY-SA 이미지를 개작할 경우 동일하거나 호환 가능한 라이선스 조건을 준수해야 합니다.
 
-[^1]: [Focus Taiwan/중사, 〈PHOTO ESSAY / Democracy in flashback: Taiwan marks 30 years since first direct presidential election〉](https://focustaiwan.tw/politics/202603235001) — 후보자, 득표, 투표율, 그리고 선거 현장 회고
+[^1]: [Focus Taiwan／중앙사, 〈PHOTO ESSAY / Democracy in flashback: Taiwan marks 30 years since first direct presidential election〉](https://focustaiwan.tw/politics/202603235001) — 후보자, 득표수, 투표율 및 선거 현장 회고
 
-[^2]: [국사관, 〈臺灣歷史上的選舉—民主時期—總統直接民選〉](https://exhibition.drnh.gov.tw/front/tw/lobby/election/democratic/unit/5) — 1996년 직선과 미사일 시도의 공식 전시 자료
+[^2]: [국사관, 〈대만 역사상의 선거—민주 시기—대통령 직접 선거〉](https://exhibition.drnh.gov.tw/front/tw/lobby/election/democratic/unit/5) — 1996년 직선제와 미사일 시험 발사에 관한 공식 전시 자료
 
-[^3]: [중앙선거위원회, 〈Election History〉](https://web.cec.gov.tw/english/article/24) — 선거 제도 연혁과 1996년 공식 선거 기록
+[^3]: [중앙선거관리위원회, 〈Election History〉](https://web.cec.gov.tw/english/article/24) — 선거 제도 변천사와 1996년 공식 선거 기록
 
-[^4]: [국사관 리덩후이 총통 문물 자료관, 〈李登輝總統第二次民主改革倡議之回顧與啟發〉](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00071/e5fd7345) — 헌법 개정, 국회 개선, 그리고 직선의 제도적 맥락
+[^4]: [국사관 이등휘 대통령 문물자료관, 〈이등휘 대통령의 제2차 민주 개혁 제안에 대한 회고와 시사점〉](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00071/e5fd7345) — 개헌, 국회 개편 및 직선제의 제도적 맥락
 
-[^5]: [중화민국 총통부, 〈總統出席「台灣總統直選三十週年與民主韌性研討會」〉](https://www.president.gov.tw/News/39886) — 2026년 공식 회고稿와 정치적 해석
+[^5]: [중화민국 총통부, 〈총통, 「대만 대통령 직선제 30주년 및 민주적 회복력 세미나」 참석〉](https://www.president.gov.tw/News/39886) — 2026년 공식 회고문 및 정치적 해석
 
-[^6]: [중앙연구원 조사연구 전문센터, 〈民意、選舉與台灣的大眾政治：一九九六年台灣總統選民的研究〉](https://srda.sinica.edu.tw/search/metadata/detail/D00073) — 1996년 유권자 조사 연구 설계 및 자료 요약
+[^6]: [중앙연구원 조사연구 특집 센터, 〈민의, 선거와 대만의 대중 정치: 1996년 대만 대통령 유권자 연구〉](https://srda.sinica.edu.tw/search/metadata/detail/D00073) — 1996년 유권자 조사 연구 설계 및 자료 요약
 
-[^7]: [National Defense University Press, 〈Averting Escalation and Avoiding War: Lessons from the 1995–1996 Taiwan Strait Crisis〉](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3253814/averting-escalation-and-avoiding-war-lessons-from-the-19951996-taiwan-strait-cr/) — 1995–1996년 대만해 위기의 원인, 군사 행동, 그리고 위기 관리
+[^7]: [National Defense University Press, 〈Averting Escalation and Avoiding War: Lessons from the 1995–1996 Taiwan Strait Crisis〉](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3253814/averting-escalation-and-avoiding-war-lessons-from-the-19951996-taiwan-strait-cr/) — 1995~1996년 대만 해협 위기의 원인, 군사 행동 및 위기 관리
 
-[^8]: [Reuters, 〈'Mostly verbal threats': Taiwan residents shrug off China's warnings on Pelosi visit〉](https://www.reuters.com/world/asia-pacific/mostly-verbal-threats-taiwan-residents-shrug-off-chinas-warnings-pelosi-visit-2022-07-28/) — 2022년 보도의 1996년 미사일과 직선 회고
+[^8]: [Reuters, 〈'Mostly verbal threats': Taiwan residents shrug off China's warnings on Pelosi visit〉](https://www.reuters.com/world/asia-pacific/mostly-verbal-threats-taiwan-residents-shrug-off-chinas-warnings-pelosi-visit-2022-07-28/) — 2022년 보도에 나타난 1996년 미사일 및 직선제에 대한 회고
 
-[^9]: [The New York Times, Patrick E. Tyler, 〈Taiwan's Leader Wins Its Election and a Mandate〉](https://www.nytimes.com/1996/03/24/world/taiwan-s-leader-wins-its-election-and-a-mandate.html) — 1996년 3월 24일 선거 결과와 당시 분석
+[^9]: [The New York Times, Patrick E. Tyler, 〈Taiwan's Leader Wins Its Election and a Mandate〉](https://www.nytimes.com/1996/03/24/world/taiwan-s-leader-wins-its-election-and-a-mandate.html) — 1996년 3월 24일의 선거 결과 및 당시 분석
 
-[^10]: [JSTOR, Thomas J. Bellows, 〈The March 1996 Elections in the Republic of China on Taiwan〉](https://www.jstor.org/stable/44288523) — 《American Journal of Chinese Studies》1996년 학술 논문 페이지
+[^10]: [JSTOR, Thomas J. Bellows, 〈The March 1996 Elections in the Republic of China on Taiwan〉](https://www.jstor.org/stable/44288523) — 《American Journal of Chinese Studies》 1996년 학술 논문 페이지
 
-[^11]: [Foreign Policy Research Institute, Jacques deLisle, 〈Taiwan’s Democracy and Lessons from Yet Another Election〉](https://www.fpri.org/article/2005/12/taiwans-democracy-and-lessons-from-yet-another-election/) — 대만 민주주의 전환 후 선거와 양안 정치 분석
+[^11]: [Foreign Policy Research Institute, Jacques deLisle, 〈Taiwan’s Democracy and Lessons from Yet Another Election〉](https://www.fpri.org/article/2005/12/taiwans-democracy-and-lessons-from-yet-another-election/) — 대만의 민주주의 전환 이후 선거와 양안 정치 분석
 
-[^12]: [Reuters, 〈China's war games around Taiwan over the years〉](https://www.reuters.com/world/china/chinas-war-games-around-taiwan-over-years-2025-12-29/) — 2025년 대만 주변 군사 훈련 회고 및 1996년 직선
+[^12]: [Reuters, 〈China's war games around Taiwan over the years〉](https://www.reuters.com/world/china/chinas-war-games-around-taiwan-over-years-2025-12-29/) — 2025년 역대 대만 해협 군사 훈련 및 1996년 직선제 회고
+
+[^13]: [중앙선거관리위원회 선거 자료 데이터베이스, 〈제9대 총통 부총통 선거 전국 선거 개황표〉](https://db.cec.gov.tw/ElecTable/Election/ElecProfiles?dataType=profiles&typeId=ELC&subjectId=P0&legisId=00&themeId=c818e628012243a0ea7eb3c3c3b81565&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000) — 유권자 수 14,313,288명, 투표수 10,883,279표, 투표율 76.04%; 4개 후보군 총 득표수 10,766,119표

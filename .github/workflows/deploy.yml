@@ -76,7 +76,8 @@ jobs:
       - name: Setup Node (with npm cache)
         uses: actions/setup-node@v5
         with:
-          node-version: 22
+          # node 版本只有 .nvmrc 一個來源（見本檔下方 font gate 的同樣改動）
+          node-version-file: .nvmrc
           cache: 'npm' # Tier 1-2: 快取 npm 下載（cache miss 時加速 npm ci）
       # 2026-08-04 build-speed: node_modules 整包 cache（key = lock hash）。
       # hit 時跳過 npm ci 的 rm+解壓（實測 ~31s → 秒級 restore）。lock 一變即 miss
@@ -269,14 +270,20 @@ jobs:
   # visibility。它不讀程式碼、不信任何中間指標。
   font-gate:
     name: Font visibility gate (live)
-    runs-on: ubuntu-latest
+    # 2026-11-01: ubuntu-latest 換成 26.04 後，playwright 1.59.1 沒有對應的
+    # chromium build（"Playwright does not support chromium on ubuntu26.04-x64"），
+    # 閘門在 install 階段就死、正式站的字型檢查等於沒跑。build job 用
+    # ubuntu-24.04-arm + 同版本 playwright 是綠的（run 41281536831），這裡跟著釘。
+    runs-on: ubuntu-24.04
     needs: deploy
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v6
         with:
-          node-version: '22'
+          # 寫死 '22' 會拿 runner 快取裡的最新 22.x；2026-10-24 快取停在 22.23.3
+          # 而 astro 7.4.2 要 >=22.23.4，deploy build 當場死。改讀單一來源。
+          node-version-file: .nvmrc
       - run: npm i -D playwright@1.59.1 --no-save
       - run: npx playwright install chromium
       - name: 字型拿不到時，讀者還看得到內容嗎

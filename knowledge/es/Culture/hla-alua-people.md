@@ -1,15 +1,15 @@
 ---
-title: "Hla'alua: De «Tsou del Sur» a su propio nombre, lo que preserva la Fiesta de la Concha Sagrada"
-description: "El 26 de junio de 2014, el pueblo Hla'alua se convirtió en el decimoquinto pueblo indígena oficialmente reconocido en Taiwán. Esto no implica cortar lazos con el pueblo Tsou, sino devolver a sus usuarios un nombre que había sido fusionado, recuperándolo a través de las Cuatro Aldeas de Taoyuan, la Fiesta de la Concha Sagrada y una lengua en peligro de extinción."
+title: 'Pueblo Hla''alua: de ser considerados "Nanzo" a tener su propio nombre, ¿qué protege el ritual de la concha sagrada?'
+description: "El 26 de junio de 2014, el pueblo Hla'alua se convirtió en el decimoquinto grupo indígena oficialmente reconocido en Taiwán. Esto no significa romper vínculos con el pueblo Tsou, sino devolver un nombre que alguna vez fue absorbido a quienes lo usan, entre las cuatro comunidades de Taoyuan, el ritual de la concha sagrada y su lengua en peligro de extinción."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
-    "Hla'alua",
     "Pueblo Hla'alua",
-    'Fiesta de la Concha Sagrada',
-    'Pueblos Indígenas',
-    'Revitalización Lingüística',
+    "Hla'alua",
+    'Ritual de la concha sagrada',
+    'Pueblos indígenas',
+    'Revitalización lingüística',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-11T08:06:41+08:00'
+translatedAt: '2026-10-21T02:05:42.370651+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 26 de junio de 2014, los pueblos Hla'alua y Kanakanavu fueron oficialmente reconocidos, convirtiéndose en el decimoquinto y decimosexto pueblo indígena de Taiwán. La historia del pueblo Hla'alua no es solo una «división administrativa»: involucra a las Cuatro Aldeas de Taoyuan, la Fiesta de la Concha Sagrada centrada en las conchas, y una lengua que ha perdido gradualmente su espacio de uso cotidiano entre la lengua Bunun, la lengua nacional y el sistema educativo. La verdadera reivindicación del nombre busca devolver a los miembros del pueblo la capacidad de contar sus propias historias con su propio nombre.
@@ -91,20 +91,20 @@ En la próxima Fiesta de la Concha Sagrada, el sacerdote principal seguirá enfr
 
 ## Referencias
 
-[^1]: [Pueblo Hla'alua | Comisión de Asuntos Indígenas](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Introducción oficial del grupo étnico, distribución de las cuatro aldeas, Fiesta de la Concha Sagrada, datos de artesanía y organización social.
+[^1]: [Pueblo Hla'alua | Consejo de las Naciones Indígenas](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Introducción oficial del grupo étnico, distribución de las cuatro comunidades, el Festival de la Concha Sagrada (Seng-be), artesanía y datos sobre organización social.
 
-[^2]: [«Separar» es una reconexión emocional | Literatura Indígena](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Registra el reconocimiento de 2014, la audiencia pública de 2012, y las relaciones y demandas entre el pueblo Hla'alua y el pueblo Tsou.
+[^2]: ['Dividir' es una reconexión emocional | Documentación de los Pueblos Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Registros de la rectificación del nombre en 2014, las audiencias públicas de 2012, así como la relación y las demandas entre el pueblo Hla'alua y el pueblo Tsou.
 
-[^3]: [«Hla'alua» y «Kanakanavu» aumentan a 16 pueblos indígenas | PTS News Network](https://news.pts.org.tw/article/272343) — Reconocimiento aprobado en 2014, los dos pueblos se convierten en el decimoquinto y decimosexto, y reportes de noticias sobre el reconocimiento y la preservación cultural y lingüística.
+[^3]: ['Hla'alua' y 'Kanakaanaabu' aumentan el número de pueblos indígenas a 16 | PTS News](https://news.pts.org.tw/article/272343) — Reportaje sobre la aprobación de la rectificación del nombre en 2014, convirtiendo a ambos grupos en el 15.º y 16.º pueblo indígena, así como la rectificación del nombre y la preservación cultural y lingüística.
 
-[^4]: [Marketing Cultural y Creativo - Magia de la Concha Sagrada: El Dios de las Conchas del Pueblo Hla'alua | Oficina de Cultura del Gobierno Municipal de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Introducción de la publicación de cultura local sobre el flujo contemporáneo de la Fiesta de la Concha Sagrada, la ofrenda de vino de la Concha Sagrada y el lanzamiento de la concha para obtener la fortuna.
+[^4]: [Marketing de industrias culturales: La Concha Sagrada Mágica: El Dios Concha del pueblo Hla'alua | Departamento de Cultura del Gobierno Municipal de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publicación cultural local que presenta los procesos contemporáneos del Festival de la Concha Sagrada, la recomendación de vino con la concha y el ritual de lanzar la concha para obtener bendiciones.
 
-[^5]: [2025 Viaje de Aprendizaje Cultural de la Fiesta de la Concha Sagrada del Pueblo Hla'alua | Universidad Nacional Kaohsiung Normal](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Espacios y descripciones de actividades del evento de aprendizaje cultural ritual de 2025.
+[^5]: [Viaje de aprendizaje cultural del Festival de la Concha Sagrada del pueblo Hla'alua 2025 | Universidad Nacional de Normales de Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Descripción de los lugares y actividades para el viaje de aprendizaje de la cultura ritual en 2025.
 
-[^6]: [Pérdida y revitalización de la lengua del pueblo Hla'alua | Literatura Indígena](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Genealogía lingüística, entrevistas de campo, razones de la pérdida lingüística y conceptos de revitalización.
+[^6]: [Pérdida y revitalización de la lengua Hla'alua | Documentación de los Pueblos Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Genealogía lingüística, entrevistas de campo, causas de la pérdida del idioma e ideas para su revitalización.
 
-[^7]: [Resultados del simposio de construcción de sistemas de conocimiento de 2 pueblos fomentan el intercambio | PTS News Network](https://news.ipcf.org.tw/136202) — Reporte de 2024 sobre la investigación de conocimientos de los dos pueblos, la fonética de la lengua Hla'alua y la construcción del diccionario de conocimientos.
+[^7]: [Seminario sobre la construcción de sistemas de conocimiento de dos pueblos promueve el intercambio | PTS News](https://news.ipcf.org.tw/136202) — Reportaje sobre la investigación de conocimiento de ambos pueblos en 2024, y la construcción de la fonología del idioma Hla'alua y su diccionario de conocimientos.
 
-[^8]: [Pueblo Hla'alua Hla'alua | Biblioteca de Memoria Cultural Nacional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Entrada de memoria cultural sobre la distribución del grupo étnico, las cuatro aldeas, el reconocimiento de 2014 y la Fiesta de la Concha Sagrada.
+[^8]: [Pueblo Hla'alua | Memoria Cultural Nacional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Entradas de memoria cultural sobre la distribución del grupo, las cuatro comunidades, la rectificación del nombre en 2014 y el Festival de la Concha Sagrada.
 
-[^9]: [Pueblo Hla'alua | Centro de Desarrollo Cultural Indígena](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Entrada de introducción del pueblo Hla'alua en el Parque Cultural Indígena.
+[^9]: [Pueblo Hla'alua | Centro de Desarrollo Cultural de los Pueblos Indígenas](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Portal de introducción al pueblo Hla'alua dentro del Parque Cultural de los Pueblos Indígenas.

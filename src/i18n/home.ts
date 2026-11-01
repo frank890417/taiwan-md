@@ -42,7 +42,7 @@ export const homeUI = {
       '- Yu Yonghe, "A Journey to the Distant Seas," Qing Dynasty literati\'s firsthand observation of Taiwan',
     'home.cover.quote.1926': '"A brave warrior should fight for justice!"',
     'home.cover.cite.1926':
-      '- Lai He, "Sacrifice Under Awakening," the father of Taiwan\'s new literature',
+      '- Lai He, "Wu-jen" (Us), the father of Taiwan\'s new literature',
     'home.cover.quote.1946':
       '"The sorrow of the Taiwanese lies in not knowing who they are."',
     'home.cover.cite.1946': '- Wu Zhuoliu, "Orphan of Asia"',
@@ -116,7 +116,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Get to know Taiwan',
     'home.meta.title': 'Open-Source Taiwan Knowledge Base',
     'home.meta.description':
-      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1141+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
+      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1152+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
     'home.miniGraph.heading': '🕸️ Knowledge Graph',
     'home.miniGraph.subtitle':
       "Every article is connected — click to explore Taiwan's knowledge network",
@@ -193,7 +193,7 @@ export const homeUI = {
     'home.cover.cite.1697':
       '— 郁永河『裨海紀遊』、清朝文人による台湾の一次観察',
     'home.cover.quote.1926': '「勇士よ、正義のために戦え！」',
-    'home.cover.cite.1926': '— 頼和「覚悟の下の犠牲」、台湾新文学の父',
+    'home.cover.cite.1926': '— 頼和「吾人」、台湾新文学の父',
     'home.cover.quote.1946':
       '「台湾人の悲しみは、自分が誰か分からないことにある。」',
     'home.cover.cite.1946': '— 呉濁流『アジアの孤児』',
@@ -265,7 +265,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '台湾を知る',
     'home.meta.title': 'オープンソース台湾知識ベース',
     'home.meta.description':
-      'オープンソース、AI対応の台湾総合ナレッジベース。1141以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
+      'オープンソース、AI対応の台湾総合ナレッジベース。1152以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
     'home.miniGraph.heading': '🕸️ ナレッジグラフ',
     'home.miniGraph.subtitle':
       'すべての記事はつながっている — クリックして台湾知識のネットワークを探索',
@@ -339,8 +339,7 @@ export const homeUI = {
     'home.cover.cite.1697':
       '— 위용허 『비해기유』, 청나라 문인의 대만 직접 관찰',
     'home.cover.quote.1926': '"용사는 마땅히 정의를 위해 싸워야 한다!"',
-    'home.cover.cite.1926':
-      '— 라이허 「각오 아래의 희생」, 대만 신문학의 아버지',
+    'home.cover.cite.1926': '— 라이허 「오인(吾人)」, 대만 신문학의 아버지',
     'home.cover.quote.1946':
       '"대만인의 슬픔은 자신이 누구인지 모른다는 것에 있다."',
     'home.cover.cite.1946': '— 우줘류 『아시아의 고아』',
@@ -412,7 +411,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '대만 알아보기',
     'home.meta.title': '오픈소스 대만 지식 베이스',
     'home.meta.description':
-      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1141+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
+      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1152+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
     'home.miniGraph.heading': '🕸️ 지식 그래프',
     'home.miniGraph.subtitle':
       '모든 기사는 연결되어 있다 — 클릭하여 대만 지식의 연결망을 탐색',
@@ -489,7 +488,7 @@ export const homeUI = {
       '— Uất Vĩnh Hà (Yu Yonghe),《Bì Hải Kỷ Du》, ghi chép trực tiếp về Đài Loan của một văn nhân triều Thanh',
     'home.cover.quote.1926': '「Dũng sĩ phải đấu tranh vì chính nghĩa!」',
     'home.cover.cite.1926':
-      '— Lại Hòa (Lai Ho),〈Sự hy sinh trong giác ngộ〉, cha đẻ của nền văn học mới Đài Loan',
+      '— Lại Hòa (Lai Ho),〈Ngô nhân〉, cha đẻ của nền văn học mới Đài Loan',
     'home.cover.quote.1946':
       '「Bi kịch của người Đài Loan nằm ở chỗ không biết mình là ai。」',
     'home.cover.cite.1946':
@@ -644,7 +643,7 @@ export const homeUI = {
       '— Yu Yonghe, Catatan Perjalanan Laut Kecil, pengamatan langsung seorang sastrawan Dinasti Qing tentang Taiwan',
     'home.cover.quote.1926': '「Pejuang harus berjuang demi keadilan!」',
     'home.cover.cite.1926':
-      '— Lai Ho, Pengorbanan dalam Kesadaran, bapak sastra baru Taiwan',
+      '— Lai Ho, "Kita" (Wu-jen), bapak sastra baru Taiwan',
     'home.cover.quote.1946':
       '「Tragedi orang Taiwan adalah tidak mengetahui jati dirinya sendiri.」',
     'home.cover.cite.1946': '— Wu Zhuoliu, Anak Yatim Asia',
@@ -798,7 +797,7 @@ export const homeUI = {
       '— Yu Yung-ho, Pequeno diário de viagem pelos mares, observação em primeira mão de Taiwan por um letrado da dinastia Ching',
     'home.cover.quote.1926': '“Os valentes devem lutar pela justiça!”',
     'home.cover.cite.1926':
-      '— Lai Ho, O sacrifício da consciência, pai da nova literatura taiwanesa',
+      '— Lai Ho, "Nós" (Wu-jen), pai da nova literatura taiwanesa',
     'home.cover.quote.1946':
       '“A tristeza dos taiwaneses está em não saber quem são.”',
     'home.cover.cite.1946': '— Wu Chuo-liu, Órfão da Ásia',
@@ -952,7 +951,7 @@ export const homeUI = {
       '— यू योंग-हो की《छोटे सागर की यात्रा》, छिंग राजवंश के साहित्यकार की ताइवान पर प्रत्यक्ष टिप्पणियाँ',
     'home.cover.quote.1926': '「योद्धाओं को न्याय के लिए संघर्ष करना चाहिए!」',
     'home.cover.cite.1926':
-      '— लाई हो की〈जागृति के तहत बलिदान〉, ताइवान के नए साहित्य के जनक',
+      '— लाई हो की〈हम लोग〉(Wu-jen), ताइवान के नए साहित्य के जनक',
     'home.cover.quote.1946':
       '「ताइवान के लोगों की त्रासदी यह है कि वे नहीं जानते कि वे कौन हैं।」',
     'home.cover.cite.1946': '— वू झुओ-लियू की《एशिया का अनाथ》',
@@ -1105,7 +1104,7 @@ export const homeUI = {
       '— يوي يونغه، «رحلات بحيرة البلي»، ملاحظات صينية من أسرة تشينغ',
     'home.cover.quote.1926': '«يجب على المحاربين أن يقاتلوا من أجل العدالة!»',
     'home.cover.cite.1926':
-      '— لاي هي، «تضحيات تحت اليقظة»، أب الأدب التايواني الحديث',
+      '— لاي هي، «نحن» (وو رن)، أب الأدب التايواني الحديث',
     'home.cover.quote.1946': '«ألم التايوانيين يكمن في عدم معرفتهم بهويتهم.»',
     'home.cover.cite.1946': '— وو تشو ليو، «يتيم آسيا»',
     'home.cover.quote.2013':
@@ -1254,7 +1253,7 @@ export const homeUI = {
       '— Юй Юнхэ «Цзиюй цзи юй», первое наблюдение за Тайванем со стороны китайского учёного эпохи Цин',
     'home.cover.quote.1926': '«Воин должен сражаться за справедливость!»',
     'home.cover.cite.1926':
-      '— Лай Хэ «Жертва под сознанием», отец новой тайваньской литературы',
+      '— Лай Хэ «Мы» (У жэнь), отец новой тайваньской литературы',
     'home.cover.quote.1946':
       '«Горе тайваньцев в том, что они не знают, кто они такие.»',
     'home.cover.cite.1946': '— У Цзюлюй «Азиатский сирота»',
@@ -1405,7 +1404,7 @@ export const homeUI = {
       '— Yu Yonghe, „Kleine Reise über das Meer“, Beobachtungen Taiwans aus erster Hand durch einen Literaten der Qing-Dynastie',
     'home.cover.quote.1926': '„Krieger sollen für die Gerechtigkeit kämpfen!“',
     'home.cover.cite.1926':
-      '— Lai He, „Opfer aus Erkenntnis“, Vater der modernen taiwanischen Literatur',
+      '— Lai He, „Wir“ (Wu-jen), Vater der modernen taiwanischen Literatur',
     'home.cover.quote.1946':
       '„Die Tragödie der Taiwaner liegt darin, dass sie nicht wissen, wer sie sind.“',
     'home.cover.cite.1946': '— Wu Zhuoliu, „Waise Asiens“',
@@ -1554,7 +1553,7 @@ export const homeUI = {
       '「水沙連內山，山盡處有大潭，廣可數十里。中有嶼，番人聚居之。」',
     'home.cover.cite.1697': '— 郁永河《裨海紀遊》，清朝文人的第一手台灣觀察',
     'home.cover.quote.1926': '「勇士當為義鬥爭！」',
-    'home.cover.cite.1926': '— 賴和〈覺悟下的犧牲〉，台灣新文學之父',
+    'home.cover.cite.1926': '— 賴和〈吾人〉，台灣新文學之父',
     'home.cover.quote.1946': '「台灣人的悲哀，在於不知道自己是誰。」',
     'home.cover.cite.1946': '— 吳濁流《亞細亞的孤兒》',
     'home.cover.quote.2013':
@@ -1619,7 +1618,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '完整認識台灣',
     'home.meta.title': '開源台灣知識庫',
     'home.meta.description':
-      '開源、AI-friendly 的台灣完整知識庫。1141+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
+      '開源、AI-friendly 的台灣完整知識庫。1152+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
     'home.miniGraph.heading': '🕸️ 知識圖譜',
     'home.miniGraph.subtitle': '每篇文章都不是孤島——點擊探索台灣知識的連結網絡',
     'home.features.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
@@ -1696,7 +1695,7 @@ export const homeUI = {
     'home.cover.quote.1926':
       'Un guerrier courageux doit se battre pour la justice !',
     'home.cover.cite.1926':
-      "— Lai He, « Sacrifice sous l'éveil », le père de la littérature taïwanaise moderne",
+      '— Lai He, « Nous » (Wu-jen), le père de la littérature taïwanaise moderne',
     'home.cover.quote.1946':
       'La tristesse des Taïwanais réside dans le fait de ne pas savoir qui ils sont.',
     'home.cover.cite.1946': "— Wu Zhuoliu, « L'orphelin d'Asie »",
@@ -1771,7 +1770,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Connaître Taïwan',
     'home.meta.title': 'Base de connaissances open source sur Taïwan',
     'home.meta.description':
-      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1141 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
+      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1152 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
     'home.miniGraph.heading': '🕸️ Graphe des connaissances',
     'home.miniGraph.subtitle':
       'Chaque article est connecté — cliquez pour explorer le réseau de connaissances de Taïwan',
@@ -1851,7 +1850,7 @@ export const homeUI = {
     'home.cover.quote.1926':
       '¡Un guerrero valiente debe luchar por la justicia!',
     'home.cover.cite.1926':
-      '- Lai He, "Sacrificio bajo el despertar", padre de la nueva literatura taiwanesa',
+      '- Lai He, "Nosotros" (Wu-jen), padre de la nueva literatura taiwanesa',
     'home.cover.quote.1946':
       'La tristeza de los taiwaneses está en no saber quiénes son.',
     'home.cover.cite.1946': '- Wu Zhuoliu, "El huérfano de Asia"',
@@ -1926,7 +1925,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Conocer Taiwán',
     'home.meta.title': 'Base de conocimiento de código abierto sobre Taiwán',
     'home.meta.description':
-      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1141 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
+      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1152 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
     'home.miniGraph.heading': '🕸️ Grafo de conocimiento',
     'home.miniGraph.subtitle':
       'Cada artículo está conectado — haz clic para explorar la red de conocimiento de Taiwán',

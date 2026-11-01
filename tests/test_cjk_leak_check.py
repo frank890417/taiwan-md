@@ -502,3 +502,20 @@ def test_chunk_scan_honours_source_verbatim_when_source_text_given(tmp_path):
     # 原稿沒有、譯文才冒出來的簡體照擋
     chunk.write_text(hi.replace("ताइपे बस", "台北巴士公司 这里"), encoding="utf-8")
     assert any("'这'" in h for h in MODULE.scan_file(chunk, lang="hi", source_text=zh))
+
+
+@pytest.mark.parametrize("text, leaks", [
+    # 2026-10-21〈支語誤判學〉：單引號 YAML 裡模型改用半形引號引述詞條
+    ('में "土豆" (टूडू) एक', False),
+    ('Das Wort „土豆" (tǔdòu) ist', False),
+    # 一行多組引號、前一組超過 30 字：不能把兩組之間的 `" में "` 誤配成一組
+    ('के "पुनर्संपादित राष्ट्रीय भाषा शब्दकोश पुनर्संपादित" में "土豆" एक', False),
+    # 負控制：YAML 值整個沒翻、引號之間的真洩漏、超過上限的長引語，照擋
+    ('title: "台灣媒體總史"', True),
+    ('a "x" 台灣媒體總史從教會報到 "y" b', True),
+    ('a "' + "中" * 40 + '" b', True),
+])
+def test_ascii_double_quote_short_citation(text, leaks):
+    import re
+    left = MODULE.strip_legit_zones(text)
+    assert bool(re.search(r"[一-鿿]", left)) is leaks

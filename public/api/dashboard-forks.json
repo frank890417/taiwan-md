@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-19",
-  "totalDetected": 16,
+  "lastUpdated": "2026-10-25",
+  "totalDetected": 17,
   "publicConfirmed": 5,
-  "privateOrUnconfirmed": 11,
+  "privateOrUnconfirmed": 12,
   "active": 3,
   "speciesTypes": [
     "",
@@ -25,7 +25,7 @@
       "cognitiveLayer": "yes",
       "health": "semi-active",
       "firstSeen": "2026-04",
-      "views365d": 1117
+      "views365d": 1076
     },
     {
       "label": "HongKong.md",
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 628
+      "views365d": 563
     },
     {
       "label": "Russia.md",
@@ -53,7 +53,7 @@
       "cognitiveLayer": "no docs/semiont",
       "health": "active",
       "firstSeen": "2026-03",
-      "views365d": 229
+      "views365d": 212
     },
     {
       "label": "LagunaBeach.md",
@@ -84,7 +84,7 @@
       "views365d": 10
     }
   ],
-  "privateNote": "另偵測到 11 個未公開/未證實部署（內部 KB / 私有 / gated），尊重隱私不具名",
+  "privateNote": "另偵測到 12 個未公開/未證實部署（內部 KB / 私有 / gated），尊重隱私不具名",
   "method": "GA radar：fork 繼承未改的 measurement ID，pageview 漏進母體 property → 靠 hostName + 繼承的頁面標題偵測野外子代",
   "registrySSOT": "reports/fork-census/registry.json (internal, 含推測)"
 }

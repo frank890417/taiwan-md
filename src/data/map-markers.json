@@ -462,6 +462,17 @@
     "city": "新北"
   },
   {
+    "title": "一同走過從前：要往前走，先知道我們是怎麼來的",
+    "lat": 24.449,
+    "lng": 118.377,
+    "category": "culture",
+    "region": "islands",
+    "link": "/culture/%E4%B8%80%E5%90%8C%E8%B5%B0%E9%81%8E%E5%BE%9E%E5%89%8D",
+    "lang": "zh-TW",
+    "desc": "1988 年 7 月，國民黨十三全開幕前夕，殷允芃讓天下雜誌的四集紀錄片在台視連播四天。攝影家張照堂替一份文字稿去找走過那四十年的人：當過養女的紀政、年年被加租的佃農、在山裡炸路的榮民。天下從創刊就在問台灣怎麼走到今天，片子的回答落在這些人身上，後來還有一捲錄影帶被帶進北京。",
+    "city": "金門"
+  },
+  {
     "title": "中元節：從安撫孤魂的恐懼，到一座島嶼的集體和解",
     "lat": 25.128,
     "lng": 121.739,
@@ -1430,6 +1441,17 @@
     "city": "台南"
   },
   {
+    "title": "台灣企業：富邦金控",
+    "lat": 25.027049,
+    "lng": 121.560907,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
+    "lang": "zh-TW",
+    "desc": "1961 年，32 歲的蔡萬才帶著 10 名員工與 600 萬資本，在台北衡陽路一間 10 坪辦公室創立國泰產險，選擇專攻公營保險公司不屑服務的小客戶。1992 年與國泰集團分家、1997 年以 165 億收購台北銀行，富邦從產險跨進銀行、電信、棒球、媒體與育樂，成為總資產 11.9 兆新台幣、市值台灣第一、員工超過 6 萬人的金控。兄弟接班、政經分離的權力平衡、跨海的地理風險，以及數位轉型與永續金融，逐一拆開這 65 年。",
+    "city": "台北"
+  },
+  {
     "title": "台灣企業：巨大機械",
     "lat": 25.031059,
     "lng": 121.561393,
@@ -1739,8 +1761,8 @@
   },
   {
     "title": "新臺幣：四萬換一元之後，直到 2000 年才成為國幣",
-    "lat": 24.449,
-    "lng": 118.377,
+    "lat": 24.451962,
+    "lng": 118.384055,
     "category": "economy",
     "region": "islands",
     "link": "/economy/%E6%96%B0%E5%8F%B0%E5%B9%A3",
@@ -2856,7 +2878,7 @@
     "region": "central",
     "link": "/geography/%E5%8F%B0%E7%81%A3%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7%E7%86%B1%E9%BB%9E",
     "lang": "zh-TW",
-    "desc": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
+    "desc": "3.6 萬平方公里的台灣擠下 5.9 萬種已知生物，密度是全球平均的 100 倍，超過 30% 的物種是全世界獨一無二的特有種。垂直 4,000 公尺的氣候電梯，讓這座島嶼在彈丸之地重現半個地球的氣候帶：世界緯度最低的鮭魚櫻花鉤吻鮭只剩七家灣溪，海拔 1,500 到 2,500 公尺的台灣山椒魚棲地已從 11 個地點縮到 7 個。台灣黑熊全台約 200 到 600 隻，每隻需要 30 到 40 平方公里活動空間；這座生命密度全球最高的舞台，還能替野生動物留多少空間？",
     "city": "南投"
   },
   {
@@ -3311,14 +3333,14 @@
     "city": "南投"
   },
   {
-    "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，最老和最年輕差一個世代",
+    "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，老人和小孩從一比一到將近三比一",
     "lat": 25.029838,
     "lng": 121.560167,
     "category": "geography",
     "region": "north",
     "link": "/geography/%E7%94%A8%E6%95%B8%E6%93%9A%E7%9C%8B%E5%8F%B0%E7%81%A322%E7%B8%A3%E5%B8%82",
     "lang": "zh-TW",
-    "desc": "同一座島，人口密度最高的臺北市每平方公里 8,975 人，最低的臺東縣只有 59 人，差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬，差 297 倍。最年輕的新竹縣高齡化率 15.08%，最老的嘉義縣 24.11%，差將近一個世代。用內政部戶政司 2025 年底的官方數據，替整座島畫一張有刻度、可查證的肖像：七成的人擠在三成的土地，老化的前緣不在都市而在東部、離島與農業縣，而全台 22 個縣市無一例外，死亡都已經多過出生。",
+    "desc": "同一座島，臺北市每平方公里 8,975 人，臺東縣只有 59 人，差 151 倍。用內政部戶政司 2025 年底的數據替 22 縣市畫一張可查證的肖像：七成的人擠在三成的土地，長者占比最高的正是最擠的臺北市，老人對小孩比例最高的嘉義縣則將近三比一。22 個縣市無一例外，死亡都已經多過出生。",
     "city": "台北"
   },
   {
@@ -3670,7 +3692,7 @@
     "region": "south",
     "link": "/history/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95",
     "lang": "zh-TW",
-    "desc": "1987年，一個19歲的鄒族青年在台北刑場被槍決。他的死，點燃了正名運動最初的火。",
+    "desc": "1987 年，19 歲的鄒族青年湯英伸在台北刑場被槍決，他的死點燃了台灣原住民族正名運動最初的火。從 1984 年原權會成立、1988 年吳鳳銅像被推倒與「還我土地」遊行，到 1994 年憲法把「山胞」改為「原住民」、2005 年原住民族基本法補上「族」字，這條路走了 21 年。荷蘭的歸化蕃與野蕃、清朝的熟番生番、日治的蕃人理蕃、戰後的山胞，每個名字都是一把鎖；前三次是別人替你命名，後兩次才是你自己搶回來的。",
     "city": "嘉義"
   },
   {
@@ -3982,6 +4004,17 @@
     "city": "台北"
   },
   {
+    "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+    "lat": 23.56326,
+    "lng": 119.577553,
+    "category": "history",
+    "region": "islands",
+    "link": "/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+    "lang": "zh-TW",
+    "desc": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
+    "city": "澎湖"
+  },
+  {
     "title": "林爽文事件：清帝國如何重新學會治理臺灣",
     "lat": 24.085998,
     "lng": 120.531476,
@@ -4056,6 +4089,17 @@
     "link": "/history/%E6%BA%90%E8%88%88%E7%89%9B%E8%88%87%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E6%AD%B7%E5%8F%B2",
     "lang": "zh-TW",
     "desc": "台灣牛肉自給率僅4.6%，卻在2024年誕生全國第一個民間認證牛品種。源興牛的故事，是一個94歲的老人、19頭野生黑牛、和一碗凌晨的溫體湯共同寫成的產業突圍劇本。",
+    "city": "台南"
+  },
+  {
+    "title": "熱蘭遮城：一座城堡的四個名字",
+    "lat": 22.990415,
+    "lng": 120.153214,
+    "category": "history",
+    "region": "south",
+    "link": "/history/%E7%86%B1%E8%98%AD%E9%81%AE%E5%9F%8E",
+    "lang": "zh-TW",
+    "desc": "1624 年，荷蘭人在台南大員重建一座堡壘，先叫奧蘭治城，兩年後改名熱蘭遮城。1662 年鄭成功圍城九個月，荷蘭長官揆一交出鑰匙，這裡變成明鄭的王城。清代城牆被拆去蓋億載金城，日本時代內城被剷平，2022 年文化部把殘蹟合併更名為「熱蘭遮堡遺構」。四個名字，四段統治。",
     "city": "台南"
   },
   {
@@ -4178,6 +4222,17 @@
     "lang": "zh-TW",
     "desc": "1982 年，低放射性廢棄物被送進達悟族人的家園；1998 年，族人以「驅逐惡靈」要求搬走，台電也曾承諾 2002 年底前遷出。四十多年後，蘭嶼留下的不只是一座貯存場，而是一場關於安全、同意與誰能決定家園的未完協商。",
     "city": "台東"
+  },
+  {
+    "title": "西班牙北台灣十六年：從和平島到淡水的殖民嘗試",
+    "lat": 25.17145,
+    "lng": 121.440294,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E5%8F%B0%E7%81%A3%E5%8D%81%E5%85%AD%E5%B9%B4",
+    "lang": "zh-TW",
+    "desc": "1626 年 5 月，西班牙艦隊從馬尼拉北上，在雞籠港登陸，於和平島築起聖薩爾瓦多城。十六年間，他們在淡水建聖多明哥城、派人進入台北盆地探路、與噶瑪蘭族衝突，卻始終靠馬尼拉補助維持駐軍。1642 年 8 月，荷蘭人攻陷雞籠，西班牙退出台灣，留下的只有地名與幾段城牆。",
+    "city": "新北"
   },
   {
     "title": "西螺大橋：十五年停擺，七個月把南北接起來",
@@ -5078,7 +5133,7 @@
     "region": "central",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%99%BD%E6%B5%B7%E8%B1%9A",
     "lang": "zh-TW",
-    "desc": "2020 年台灣西岸白海豚終於擁有 763 平方公里的法定重要棲息環境，但漁具、港口、污染與水下噪音仍在同一片淺海裡競逐。",
+    "desc": "2025 年 11 月，一隻編號 OCA023、研究者叫牠「Scissors」的成年雄性白海豚擱淺死在彰化伸港，是 2009 年以來至少第十起。牠所屬的族群從 2002 年估計約 99 隻掉到 2025 年的 45 至 50 隻，一整年只生得出兩、三隻小海豚。2020 年政府把牠們的家畫成 763 平方公里的法定重要棲息環境，2026 年台中港卻在這片範圍裡用廢土填海，環保團體宣布要替白海豚提起訴訟。法定地圖已經畫好，安全的海還沒有。",
     "city": "台中"
   },
   {
@@ -5111,7 +5166,7 @@
     "region": "north",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
     "lang": "zh-TW",
-    "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群穩定甚至回升，成為少見的保育成功案例，讓世界看見物種滅絕並非命定。",
+    "desc": "全世界被走私最多的哺乳動物，穿山甲的台灣亞種卻在台灣找到安全的家：當亞洲其他地方的親戚因走私瀕臨滅絕時，台灣憑藉嚴格法律保護、棲地維護與科學研究，加上人工繁殖，讓族群狀況趨於穩定，成為少見的保育案例，讓世界看見物種滅絕並非命定。",
     "city": "台北"
   },
   {
@@ -5797,17 +5852,6 @@
     "city": "台東"
   },
   {
-    "title": "張艾嘉：嘉義出發，《童年》原唱到《相愛相親》導演",
-    "lat": 23.474894,
-    "lng": 120.451439,
-    "category": "people",
-    "region": "south",
-    "link": "/people/%E5%BC%B5%E8%89%BE%E5%98%89",
-    "lang": "zh-TW",
-    "desc": "1953年生於嘉義市，張艾嘉17歲因《夢中人》踏入演藝圈。《童年》（羅大佑1981作曲）是她的歌，《愛的代價》（李宗盛1992作曲）是她最廣為人知的代表作。1986年《最愛》拿金馬最佳女主角；2017年《相愛相親》入圍金馬最佳導演與最佳原著劇本。跨越演員、導演、歌手三個身份，超過五十年。",
-    "city": "嘉義"
-  },
-  {
     "title": "張雨生：從偶像到預言家，一場跨越時代的音樂實驗",
     "lat": 25.17456,
     "lng": 121.444532,
@@ -5837,7 +5881,7 @@
     "region": "north",
     "link": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
     "lang": "zh-TW",
-    "desc": "台北市第七選區立法委員。1989 年生於台北早餐店家庭，2013 年 24 歲成國民黨史上最年輕中常委，2024 年 89,727 票擊敗許淑華進入立法院。2025 大罷免 6.2 萬同意票達門檻仍被否決；2026 軍購協商提出 8000 億版本與黨中央 3800 億+N 對撞，季麟連點名「不要做親痛仇快的事」。",
+    "desc": "台北市第七選區立法委員徐巧芯，1989 年 11 月 18 日生於信義區一間全年無休的西式早餐店，原名徐美鳳，因璩美鳳光碟事件改名。2013 年 11 月 13 日，24 歲的她坐進國民黨第十九屆中常委最年輕的那張椅子；2024 年 1 月 13 日以 89,727 票擊敗許淑華當選立委。2025 年 7 月 26 日罷免案同意 62,633 票達門檻仍被否決；2026 年 4 月 27 日軍購協商拋出 8000 億版本，與黨中央的 3800 億加 N 對撞，季麟連點名不要做親痛仇快的事。共諜烏龍、IPEF 與援烏密件三案，逐一拆解這條流量年輕化的路徑。",
     "city": "台北"
   },
   {
@@ -6248,6 +6292,17 @@
     "city": "台北"
   },
   {
+    "title": "江蕙：北投那卡西出身的臺語天后",
+    "lat": 22.634177,
+    "lng": 120.296629,
+    "category": "people",
+    "region": "south",
+    "link": "/people/%E6%B1%9F%E8%95%99",
+    "lang": "zh-TW",
+    "desc": "江蕙（本名江淑惠，1961 年生於高雄）9 歲隨家人連夜搬到臺北，到北投那卡西走唱。1992 年《酒後的心聲》在臺灣賣出 116 萬張，是官方紀錄中唯一破百萬的臺語專輯。2000 至 2003 年連拿四屆金曲獎臺語女演唱人，2015 年封麥，2024 年在大巨蛋國慶晚會復出。",
+    "city": "高雄"
+  },
+  {
     "title": "沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上",
     "lat": 25.027592,
     "lng": 121.561072,
@@ -6644,6 +6699,17 @@
     "city": "台北"
   },
   {
+    "title": "蔣萬安：律師出身的台北市長，任內的大巨蛋、都更、公館圓環與財劃法之爭",
+    "lat": 25.026176,
+    "lng": 121.566895,
+    "category": "people",
+    "region": "north",
+    "link": "/people/%E8%94%A3%E8%90%AC%E5%AE%89",
+    "lang": "zh-TW",
+    "desc": "蔣萬安是中國國民黨籍的台北市長，在美國當過律師，做過兩屆立委，2022 年三方角逐中當選。任內大巨蛋取得使用執照，市府撤銷京華城的容積獎勵、推都更、把生育獎勵金加倍，辦了雙北世壯運，拆除和平新生天橋與公館圓環，也和行政院爭財劃法修法後的捷運補助，並多次以市長身分在二二八追思會上致歉。",
+    "city": "台北"
+  },
+  {
     "title": "蕭美琴",
     "lat": 23.987784,
     "lng": 121.598507,
@@ -6741,17 +6807,6 @@
     "lang": "zh-TW",
     "desc": "1986/1/4生於新竹，父謝子龍（台汽巴士司機）2023/10過世。WTA單打最高第23名（2013）。大滿貫女雙冠軍七座（2013溫布頓/2014法網/2019溫布頓/2021溫布頓/2023法網/2023溫布頓/2024澳網）。2021澳網首位進入大滿貫單打四強的台灣女性。2025/7溫布頓女雙亞軍。",
     "city": "新竹"
-  },
-  {
-    "title": "豬哥亮",
-    "lat": 22.61954,
-    "lng": 120.300213,
-    "category": "people",
-    "region": "south",
-    "link": "/people/%E8%B1%AC%E5%93%A5%E4%BA%AE",
-    "lang": "zh-TW",
-    "desc": "本名謝新達，1946 年生於高雄左營，父親打鐵、母親賣菜，小學畢業後輟學，15 歲拜師學歌仔戲。1960 年代他在夜市模仿歌星起家，1970 年代台灣經濟起飛、夜間娛樂需求增加，秀場文化應運而生，他把傳統戲曲、民間說唱與流行元素揉成「豬式幽默」，用台語即興押韻把庶民語言帶上電視綜藝。2017 年 5 月，他因大腸癌逝世。",
-    "city": "高雄"
   },
   {
     "title": "賈永婕：把明星社會資本一次次轉換成公共動員力的台灣實驗",
@@ -7096,14 +7151,14 @@
   },
   {
     "title": "陳映真：從竹南到北京的統派文學良心",
-    "lat": 24.55615,
-    "lng": 120.824126,
+    "lat": 22.667287,
+    "lng": 121.493061,
     "category": "people",
-    "region": "central",
+    "region": "east",
     "link": "/people/%E9%99%B3%E6%98%A0%E7%9C%9F",
     "lang": "zh-TW",
-    "desc": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年創立中國統一聯盟並任首任主席，2006 年中風後遷居北京、2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中以「許南村」筆名介入的關鍵理論家。",
-    "city": "苗栗"
+    "desc": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年與胡秋原等人成立中國統一聯盟並任首任主席，2006 年定居北京、同年中風，2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中反駁余光中等人批評的主要代表之一。",
+    "city": "台東"
   },
   {
     "title": "陳樹菊：一個台東菜販，用五十年菜錢捐出數千萬的慈善人生",
@@ -8389,7 +8444,7 @@
     "region": "north",
     "link": "/technology/mini-taiwan-pulse",
     "lang": "zh-TW",
-    "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+    "desc": "2026 年，資料分析師 Migu 把一份 CSV 拖進 Kepler.gl，螢幕上長出第一張台灣地圖。兩年後，最紅的 mini-taiwan-pulse 在 GitHub 累積 375 顆星，把天空、海洋、大地、街道、清運五種即時資料疊成一張會動的地圖。中央五萬筆、二十幾個縣市平台的開放資料，人腦掃不完，他的解法不是多找人，而是交給一套由 AI Agent 編排、會自己長大的系統，人只負責出題與驗收。從都市計畫訓練出的策展眼睛，到 tmux 裡一條自己跑完的火災 pipeline，一個人的 GitHub 怎麼長成一片星系。",
     "city": "桃園"
   },
   {
@@ -8954,6 +9009,17 @@
     "city": "台北"
   },
   {
+    "title": "قلعة زيلانديا: أربعة أسماء لقلعة واحدة",
+    "lat": 22.999707,
+    "lng": 120.161353,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "في عام 1624، أعاد الهولنديون بناء حصن في دايوان بمدينة تاي난، سُمي أولاً قلعة أورانج، ثم تغير اسمه إلى قلعة زيلانديا بعد عامين. في عام 1662، حاصر كوجينغ (Zheng Chenggong) القلعة لمدة تسعة أشهر حتى سلم الحاكم الهولندي كوي (Aguilar) المفاتيح، لتتحول إلى مدينة ملكية لمملكة تايوان (مينغ تشنغ). خلال عهد أسرة تشينغ، هُدمت الأسوار لبناء حصن إيتشاي جين تشنغ، وفي العصر الياباني سُوِّي الجزء الداخلي بالأرض، وفي عام 2022 دمجت وزارة الثقافة البقايا وأطلقت عليها اسم \"بقايا قلعة زيلانديا\". أربعة أسماء، لأربعة فترات حكم.",
+    "city": "台南"
+  },
+  {
     "title": "كان أول مرة لكرة القاعد التايوانية في بوابة كيو، فريقاً من المدرسة الزراعية في تشياي: كيف افتتحت الباب أمام تايوان؟",
     "lat": 23.478929,
     "lng": 120.449378,
@@ -9064,6 +9130,17 @@
     "city": "南投"
   },
   {
+    "title": "دولفين تايوان الأبيض: رغم وجود موطن قانوني، لا يزال يفتقر إلى بحر آمن حقًا",
+    "lat": 24.145176,
+    "lng": 120.678452,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "في نوفمبر 2025، نفق دولفين أبيض بالغ يحمل الرقم OCA023 واسم \"سكيسورز\" على شاطئ شينغانغ في تشانغهوا، ليكون الحالة العاشرة على الأقل منذ 2009. انخفضت أعداده من نحو 99 فردًا عام 2002 إلى 45-50 فردًا عام 2025، مع ولادة دولفينين أو ثلاثة فقط سنويًا. عام 2020، حددت الحكومة موطنًا مهمًا قانونيًا بمساحة 763 كم²، لكن ميناء تايتشونغ بدأ عام 2026 ردمًا بحريًا داخل هذا النطاق، فأعلنت جمعيات بيئية نيتها رفع دعوى قضائية. الخريطة القانونية رُسمت، لكن البحر الآمن لم يتحقق بعد.",
+    "city": "台中"
+  },
+  {
     "title": "بومة السمك البنية: ستة كيلومترات من المجرى المائي لرعاية زوج واحد، على شجرة \"وو هسين شي\" (烏心石) بارتفاع 1,800 متر — الجارح الليلي",
     "lat": 24.150409,
     "lng": 121.623696,
@@ -9073,6 +9150,17 @@
     "lang": "zh-TW",
     "desc": "في أبريل 2026، حدّد الأستاذ المساعد هونغ شياو-يو (洪孝宇) في جامعة بينغتونغ للعلوم والتكنولوجيا موقع عش بومة السمك البنية الأعلى ارتفاعًا المعروف في تايوان بأكملها — على ارتفاع حوالي 1,800 متر داخل تجويف شجرة \"وو هسين شي\" (烏心石) يبلغ قطر جذعها حوالي 1.5 متر على ضفة نهر تشي جيا وان (七家灣溪). هذا أكبر بومة في تايوان لم يُسجّل إلا في عام 1916 على يد العالم الياباني كورودا ناغاماسا (黑田長禮)، وقد طارده مختبر الأستاذ سون يوان-شون (孫元勳) في جامعة بينغتونغ للعلوم والتكنولوجيا لمدة ثلاثين عامًا — حيث يحتاج كل زوج في المتوسط إلى 6.2 كيلومتر من المجرى المائي عبر 91 منطقة. مجرى مائي لم يُغطَّ بالأسمنت، وشجرة عملاقة لم تسقط بعد — تعيش بومة السمك البنية في الشق الذي لم تختفِ فيه هذان الأمران بعد في جبال تايوان وغاباتها.",
     "city": "花蓮"
+  },
+  {
+    "title": "جيانغ وان آن: عمدة تايبيه من خلفية قانونية، والقبة الكبرى والتجديد الحضري والنزاع حول قانون توزيع الموارد المالية خلال فترة ولايته",
+    "lat": 25.026814,
+    "lng": 121.560803,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "جيانغ وان آن هو عمدة تايبيه من حزب الكومينتانغ الصيني، عمل محامياً في الولايات المتحدة، وشغل منصب نائب برلماني لفترتين، وتم انتخابه عام 2022 في منافسة ثلاثية الأطراف. خلال فترة ولايته، حصلت القبة الكبرى على رخصة التشغيل، وألغت حكومة المدينة حوافز الكثافة السكانية لمركز جينغهوا، وعززت التجديد الحضري، وضاعفت مكافآت الولادة، واستضافت دورة الألعاب الرياضية للشباب بين تايبيه وتايتشونغ، وهدمت جسر هيبينغ شينشينغ والحلقة الدائرية في غونغغوان، وتنازعت مع المجلس الإداري بشأن إعانات المترو بعد تعديل قانون توزيع الموارد المالية، واعتذرت عدة مرات بصفتها عمدة في حفل إحياء ذكرى 28 فبراير.",
+    "city": "台北"
   },
   {
     "title": "فو كون-تشي: من ملك الجبلية «هوا ليان» إلى رئيس المجموعة البرلمانية ودوامة السلطة",
@@ -9130,14 +9218,14 @@
     "city": "台北"
   },
   {
-    "title": "شين بو يانغ: درس الحرب المعرفية الصينية، فأظهرته الصين على خريطة الأقمار الصناعية",
+    "title": "شين بو يانغ: باحث في الحرب المعرفية الصينية، لاحقًا كشفت الصين إحداثيات منزله ومكتبه عبر صور أقمار صناعية تجارية",
     "lat": 25.027367,
     "lng": 121.561675,
     "category": "people",
     "region": "north",
     "link": "/people/puma-shen",
     "lang": "zh-TW",
-    "desc": "في عام 2021، أسس شين بو يانغ مع الاستراتيجي هو تشنغ هوي أكاديمية الدب الأسود، ودعمها تساو شينغ تشنغ بـ 600 مليون، بهدف تدريب ثلاثة ملايين متطوع دفاع مدني في ثلاث سنوات. في فبراير 2024، دخل البرلمان كعضو غير مقسم من الحزب الديمقراطي التقدمي. في 28 أكتوبر 2025، أصبح أول سياسي منتخب تايواني تحقق معه الصين بتهمة \"تقسيم الدولة\"، وبثت محطة سي سي تي في موضوعاً استقصائياً حذر \"أنت التالي\". في يوم رأس السنة 2026، نشرت حسابات صينية على ويبو إحداثيات منزله ومقر عمله في تايبيه باستخدام صور أقمار صناعية تجارية؛ قضى عيد الحب على متن طائرة متجهة إلى فرنسا. في 13 مايو، رشحه الحزب الديمقراطي التقدمي رسمياً لخوض انتخابات عمدة تايبيه، المدينة نفسها التي حددت الخريطة الفضائية إحداثياتها.",
+    "desc": "في عام 2021، أسس شين بو يانغ مع الخبير الاستراتيجي هي تشينغ-هوي \"أكاديمية الدب الأسود\"، بدعم تبرع قدره 600 مليون دولار تايواني جديد من تساو شينغ-تشنغ، بهدف تدريب ثلاثة ملايين متطوع في الدفاع المدني خلال ثلاث سنوات. في فبراير 2024، دخل البرلمان كنائب عن القائمة الوطنية للحزب الديمقراطي التقدمي. في 28 أكتوبر 2025، أصبح أول شخصية سياسية منتخبة في تايوان تُفتح ضدها تحقيق رسمي من قبل الصين بتهمة \"تقسيم الدولة\"، حيث بث التلفزيون المركزي الصيني (سي سي تي في) تقريرًا \"يكشف هويته\" محذرًا \"الدور القادم عليك\". في أول يناير 2026، نشرت حسابات على ويبو الصينية إحداثيات منزله ومكتبه في تايبيه باستخدام صور أقمار صناعية تجارية؛ وقضى عيد الحب على متن طائرة متجهة إلى فرنسا. في 13 مايو، رشح الحزب الديمقراطي التقدمي رسميًا شين بو يانغ لخوض انتخابات عمدة تايبيه، المدينة نفسها التي حددت إحداثياتها على صور الأقمار الصناعية.",
     "city": "台北"
   },
   {
@@ -9361,6 +9449,17 @@
     "city": "南投"
   },
   {
+    "title": "Fort Zeelandia: Vier Namen für eine Festung",
+    "lat": 22.997226,
+    "lng": 120.168441,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "1624 errichteten die Niederländer eine Festung in Dajuan, Tainan, die zunächst Fort Oranje hieß und zwei Jahre später in Fort Zeelandia umbenannt wurde. 1662 belagerte Koxinga die Festung neun Monate lang; nach der Kapitulation des niederländischen Gouverneurs Coen wurde sie zur königlichen Residenz der Ming-Zheng-Dynastie. Während der Qing-Zeit wurden die Mauern für den Bau der Yizai Jin Cheng abgetragen, in der japanischen Ära wurde die Innenstadt eingeebnet, und 2022 vereinte das Kulturministerium die Überreste unter dem Namen „Relikte des Fort Zeelandia“. Vier Namen, vier Herrschaftsepochen.",
+    "city": "台南"
+  },
+  {
     "title": "Taichung Hafen: Wie ein Stein die Wushe zum Meer führte und die Küste neu schrieb",
     "lat": 24.155026,
     "lng": 120.66951,
@@ -9449,6 +9548,17 @@
     "city": "南投"
   },
   {
+    "title": "Taiwans Weißer Delfin: Trotz gesetzlich geschütztem Lebensraum fehlt ein sicheres Revier",
+    "lat": 24.141946,
+    "lng": 120.671529,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Im November 2025 strandete ein ausgewachsener männlicher Weißer Delfin namens „Scissors“ (OCA023) in Shengang, Changhua – der zehnte Fall seit 2009. Die Population sank von geschätzten 99 Tieren im Jahr 2002 auf nur noch 45 bis 50 im Jahr 2025. Während die Regierung 2020 ein Schutzgebiet von 763 km² festlegte, plant der Hafen von Taichung für 2026 Landgewinnung durch Abfallmaterial in diesem Bereich; Umweltgruppen kündigen Klagen an.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.167595,
     "lng": 121.446838,
@@ -9458,6 +9568,17 @@
     "lang": "zh-TW",
     "desc": "Er eroberte mit Ölgemälden die Kaiserliche Kunstausstellung in Tokio – und wurde vor dem Bahnhof von Chiayi erschossen. Und was die Welt von ihm wissen ließ, war oft der Tod, nicht die Bilder.",
     "city": "新北"
+  },
+  {
+    "title": "Chiang Wan-an: Der Anwalt-Bürgermeister von Taipeh und die Debatten um das Taipei Dome, Stadterneuerung, den Gongguan-Kreisverkehr und das Gesetz über die Finanzplanung der Verkehrsinfrastruktur",
+    "lat": 25.039444,
+    "lng": 121.558837,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Chiang Wan-an ist der Bürgermeister von Taipeh von der Kuomintang (KMT). Er war als Anwalt in den USA tätig, diente zwei Amtszeiten als Legislator und wurde 2022 in einem Dreikampf gewählt. Während seiner Amtszeit erhielt der Taipei Dome die Betriebserlaubnis, die Stadtverwaltung strich die Flächennutzungsboni für das Jinghua City Projekt, trieb die Stadterneuerung voran, verdoppelte die Geburtsbeihilfen, veranstaltete die Taipei-New Taipei City Universiade, ließ die Heping-Xinsheng-Fußgängerbrücke und den Gongguan-Kreisverkehr entfernen, stritt mit dem Exekutiv-Yuan um MRT-Subventionen nach der Änderung des Gesetzes über die Finanzplanung der Verkehrsinfrastruktur und entschuldigte sich mehrfach als Bürgermeister bei der Gedenkfeier zum 228-Zwischenfall.",
+    "city": "台北"
   },
   {
     "title": "Bad Te?te: Das Mädchen, das neun Jahre Medizinstudium absolvierte und die Pause-Taste drückte – ein Auszeit-Jahr",
@@ -9702,6 +9823,17 @@
     "city": "嘉義"
   },
   {
+    "title": "Fort Zeelandia: A Castle with Four Names",
+    "lat": 22.994265,
+    "lng": 120.156708,
+    "category": "history",
+    "region": "south",
+    "link": "/en/history/fort-zeelandia",
+    "lang": "en",
+    "desc": "In 1624, the Dutch rebuilt a fort at Dayuan in Tainan, first naming it Fort Oranje, then renaming it Fort Zeelandia two years later. In 1662, after a nine-month siege by Koxinga, Dutch Governor Coyett handed over the keys, and it became the Ming-Zheng royal capital. During the Qing era, walls were dismantled to build Eternal Golden Castle; in the Japanese era, the inner fortress was leveled; in 2022, the Ministry of Culture merged the remnants and renamed them the \"Fort Zeelandia Remains.\" Four names, four regimes.",
+    "city": "台南"
+  },
+  {
     "title": "Taichung Port: How a Single Truckload of Stones Pushed Wūqí Toward the Sea and Rewrote the Coastline",
     "lat": 24.150173,
     "lng": 120.680725,
@@ -9757,6 +9889,28 @@
     "city": "苗栗"
   },
   {
+    "title": "Taiwanese White Dolphins: With Legal Habitats Established, They Still Lack Truly Safe Seas",
+    "lat": 24.146573,
+    "lng": 120.674241,
+    "category": "nature",
+    "region": "central",
+    "link": "/en/nature/taiwanese-white-dolphin",
+    "lang": "en",
+    "desc": "In November 2025, an adult male white dolphin (OCA023, named \"Scissors\") stranded and died in Shengang, Changhua—the tenth such case since 2009. Their population has plummeted from an estimated 99 in 2002 to just 45–50 in 2025, with only two or three calves born annually. While the government designated 763 km² as a legal habitat in 2020, Taichung Port plans to use waste soil for land reclamation within this area in 2026, prompting environmental groups to announce litigation on behalf of the dolphins.",
+    "city": "台中"
+  },
+  {
+    "title": "Chiang Wan-an: Taipei Mayor with a Legal Background, Overseeing the Dome, Urban Renewal, Gonguan Roundabout, and Fiscal Allocation Act Disputes",
+    "lat": 25.04093,
+    "lng": 121.562213,
+    "category": "people",
+    "region": "north",
+    "link": "/en/people/chiang-wan-an",
+    "lang": "en",
+    "desc": "Chiang Wan-an is a Taipei mayor from the Chinese Unification Promotion Party who practiced law in the United States and served two terms as a legislator before being elected in a three-way race in 2022. During his tenure, the Taipei Dome obtained its use permit, the city government revoked density bonuses for Jinghua City, promoted urban renewal, doubled birth incentive payments, hosted the Taipei-New Taipei World Masters Games, demolished the Peace New Life Overpass and Gonguan Roundabout, disputed with the Executive Yuan over MRT subsidies following amendments to the Fiscal Allocation Act, and apologized multiple times as mayor at 228 Incident memorial services.",
+    "city": "台北"
+  },
+  {
     "title": "Chung Chao-cheng: A Man Who Never Finished a College Degree, Yet Wrote the Long River of the Taiwanese People",
     "lat": 24.995026,
     "lng": 121.303286,
@@ -9788,6 +9942,17 @@
     "lang": "en",
     "desc": "On 2018-12-25, she spent her own money to commission 10,000 glass jars of 'Guguan Air' and distributed them to citizens attending her inauguration, putting her campaign slogan into the hands of her readers. After 8 consecutive undefeated elections, two terms as Taichung mayor, and 6 terms as a legislator, Eric Chu publicly asked her to take over as KMT party chair in August 2025. She replied, 'The more difficult the times, the more Mom stays home.' But an April 2026 poll showed that her presumed frontrunner status for 2028 had been overtaken by Chiang Wan-an, 25% to 19.7%.",
     "city": "台中"
+  },
+  {
+    "title": "Shen Bo-yang: He researched Chinese cognitive warfare, then China put him on a satellite map",
+    "lat": 25.039177,
+    "lng": 121.557423,
+    "category": "people",
+    "region": "north",
+    "link": "/en/people/puma-shen",
+    "lang": "en",
+    "desc": "In 2021, Shen Bo-yang co-founded the Black Bear Academy with strategic scholar Ho Cheng-hui, with a NT$600 million donation from Robert Tsao supporting the goal of training three million civil defense volunteers in three years. In February 2024, he entered the legislature as a DPP at-large legislator. On October 28, 2025, he became the first Taiwanese elected politician to be investigated by China on charges of \"secession,\" with CCTV airing an \"exposé\" special warning \"the next one is you.\" On New Year''s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; he spent Valentine''s Day on a flight to France. On May 13, the DPP officially nominated him to run for Taipei mayor, seeking to lead the very city whose coordinates had been marked on a satellite map.",
+    "city": "台北"
   },
   {
     "title": "Chinese Taipei: The Ticket That Lets Taiwan Compete but Can’t Print Its Own Name",
@@ -10120,6 +10285,17 @@
     "city": "台北"
   },
   {
+    "title": "Fort Zeelandia: los cuatro nombres de una fortaleza",
+    "lat": 22.998502,
+    "lng": 120.167549,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "En 1624, los holandeses reconstruyeron un fuerte en Dawan, Tainan, llamado inicialmente Fort Oranje y renombrado Fort Zeelandia dos años después. En 1662, tras nueve meses de asedio por Koxinga, el gobernador holandés entregó las llaves, convirtiéndolo en la ciudad real del Reino de Tungning. Durante la dinastía Qing, sus muros fueron desmantelados para construir el Yizai Jin Cheng; en la era japonesa, la ciudad interior fue nivelada, y en 2022, el Ministerio de Cultura fusionó los restos bajo el nombre de «Restos del Fuerte Zeelandia». Cuatro nombres, cuatro periodos de dominio.",
+    "city": "台南"
+  },
+  {
     "title": "Taichung: Cómo una piedra empujó a Wūqí hacia el mar y reescribió la costa",
     "lat": 24.15242,
     "lng": 120.681177,
@@ -10186,6 +10362,17 @@
     "city": "苗栗"
   },
   {
+    "title": "El delfín blanco de Taiwán: aunque tiene un hábitat legal, aún no tiene un mar verdaderamente seguro",
+    "lat": 24.146423,
+    "lng": 120.676999,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "En noviembre de 2025, un delfín blanco adulto macho identificado como OCA023, al que los investigadores llamaban «Scissors», varó y murió en Shengang, Changhua, el décimo caso desde 2009. Su población pasó de unas 99 estimadas en 2002 a 45-50 en 2025, con solo dos o tres crías al año. En 2020 el gobierno designó 763 km² como hábitat importante legal; en 2026 el puerto de Taichung rellenó con tierra de desecho dentro de esa zona, y grupos ecologistas anunciaron una demanda. El mapa legal está trazado, pero el mar seguro aún no existe.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.165283,
     "lng": 121.439485,
@@ -10206,6 +10393,28 @@
     "lang": "zh-TW",
     "desc": "Nació el 1 de agosto de 1967 en la comunidad Nanwang de Beinan, Taitung. En 1986 se graduó de la Escuela de Policía y fue asignado a Guanshan, Taitung; sirvió en la policía durante 30 años y 10 meses. En 1999, a los 33 años, publicó su primer álbum de composiciones propias, Ocean. En la 11.ª edición de los Golden Melody Awards, en 2000, derrotó a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu para obtener el premio a mejor intérprete masculino en mandarín; en la misma edición, Myth volvió a darle el premio a mejor composición. Sobre el escenario de premiación, seguía siendo policía. En septiembre de ese mismo año pidió el traslado a Lanyu para alejarse del ruido, y permaneció allí 17 años hasta jubilarse. Su abuelo materno, Lu Sen-bao, fue el autor de Beautiful Rice Ears; el nieto tardó treinta años en sostener aquella línea musical.",
     "city": "台東"
+  },
+  {
+    "title": "Chiang Wan-an: Alcalde de Taipei de origen abogado, con la Bóveda Gigante, renovación urbana, la rotonda de Gongguan y la disputa sobre la Ley de Asignación Fiscal durante su mandato",
+    "lat": 25.032067,
+    "lng": 121.558287,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Chiang Wan-an es alcalde de Taipei del Partido Nacionalista Chino, trabajó como abogado en Estados Unidos, fue legislador durante dos períodos y fue elegido en una contienda de tres vías en 2022. Durante su mandato, la Bóveda Gigante obtuvo su licencia de uso, el gobierno municipal revocó los incentivos de densidad de construcción de Jinghua City, impulsó la renovación urbana, duplicó las bonificaciones por natalidad, organizó los Juegos Mundiales de Deporte Universitario de Doble Ciudad, demolió el Puente Heping-Xinsheng y la rotonda de Gongguan, también disputó con la Administración Ejecutiva sobre los subsidios de transporte rápido tras la enmienda de la Ley de Asignación Fiscal, y se disculpó múltiples veces en su calidad de alcalde en conmemoraciones del 28 de febrero.",
+    "city": "台北"
+  },
+  {
+    "title": "Shen Bo-yang: investigó la guerra cognitiva de China; luego China lo marcó en imágenes satelitales",
+    "lat": 25.031757,
+    "lng": 121.56614,
+    "category": "people",
+    "region": "north",
+    "link": "/people/puma-shen",
+    "lang": "zh-TW",
+    "desc": "En 2021, Shen Bo-yang y el académico estratégico He Cheng-hui cofundaron la Academia Black Bear; Cao Xingcheng donó NT$600 millones en apoyo, con el objetivo de entrenar a tres millones de voluntarios de defensa civil en tres años. En febrero de 2024, entró en el Parlamento como legislador at-large del Partido Democrático Progresista (PDP). El 28 de octubre de 2025, se convirtió en el primer político electo de Taiwán en ser investigado formalmente por China bajo el cargo de «secesión»; CCTV emitió un reportaje de «investigación exhaustiva» advirtiendo: «El próximo eres tú». El 1 de enero de 2026, una cuenta de Weibo china publicó las coordenadas de su residencia y lugar de trabajo en Taipéi usando imágenes satelitales comerciales; pasó el Día de San Valentín en un avión rumbo a Francia. El 13 de mayo, el PDP lo nominó oficialmente como candidato a la alcaldía de Taipéi, la misma ciudad que había sido señalada en el mapa satelital.",
+    "city": "台北"
   },
   {
     "title": "Vamos, vamos, ¿qué tal, qué tal?: una consigna que cambió de bando en el gran recall y entró en la carrera por la alcaldía de Taipéi",
@@ -10527,6 +10736,17 @@
     "city": "台北"
   },
   {
+    "title": "Fort Zeelandia : un fort aux quatre noms",
+    "lat": 22.995216,
+    "lng": 120.161801,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "En 1624, les Néerlandais reconstruisent un fort à Tayouan (Tainan), d'abord nommé Fort Orange, puis rebaptisé Fort Zeelandia deux ans plus tard. En 1662, Koxinga assiège le fort pendant neuf mois ; le gouverneur néerlandais Coyett remet les clés, et le lieu devient la capitale du royaume de Tungning. Sous la dynastie Qing, les murailles sont démolies pour construire le Fort de l'Or Éternel ; à l'époque japonaise, le fort intérieur est rasé. En 2022, le ministère de la Culture fusionne les vestiges et les renomme « vestiges du Fort Zeelandia ». Quatre noms, quatre périodes de domination.",
+    "city": "台南"
+  },
+  {
     "title": "Les déchets nucléaires de Lanyu : promis pour 2002, quarante ans de barils jaunes laissés sur place",
     "lat": 22.039904,
     "lng": 121.545917,
@@ -10626,6 +10846,17 @@
     "city": "澎湖"
   },
   {
+    "title": "Le dauphin blanc de Taïwan : un habitat légal désigné, mais toujours pas de mer véritablement sûre",
+    "lat": 24.150314,
+    "lng": 120.666943,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "En novembre 2025, un dauphin blanc mâle adulte, identifié OCA023 et surnommé « Scissors » par les chercheurs, s'est échoué et est mort à Chenggong, Changhua — au moins le dixième cas depuis 2009. Sa population est passée d'environ 99 individus en 2002 à 45-50 en 2025, avec seulement deux ou trois naissances par an. En 2020, le gouvernement a désigné 763 km² d'habitat important légal ; en 2026, le port de Taichung y a procédé à des remblais avec des déblais, poussant les ONG à annoncer des poursuites judiciaires. La carte légale est tracée, mais la mer sûre n'existe pas encore.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson laissée par son grand-père maternel un océan",
     "lat": 22.029275,
     "lng": 121.553535,
@@ -10637,6 +10868,17 @@
     "city": "台東"
   },
   {
+    "title": "Chiang Wan-an : maire de Taipei formé en droit, et les enjeux du Dôme géant, de la rénovation urbaine, du carrefour de Gonguan et de la loi de répartition fiscale durant son mandat",
+    "lat": 25.039347,
+    "lng": 121.567172,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Chiang Wan-an est le maire de Taipei du Kuomintang (KMT). Ancien avocat aux États-Unis et député pendant deux mandats, il a été élu en 2022 lors d'une compétition à trois candidats. Durant son mandat, le Dôme géant a obtenu son permis d'exploitation, l'administration municipale a révoqué les bonus de densité constructible du Jinghua City, a promu la rénovation urbaine, a doublé les allocations natalistes, a organisé les Jeux mondiaux des jeunes avec New Taipei, a démoli le viaduc Heping-Xinsheng et le carrefour de Gonguan, s'est disputé avec le Yuan exécutif sur les subventions de métro suite à la révision de la loi de répartition fiscale, et s'est excusé à plusieurs reprises en tant que maire lors des cérémonies commémoratives du 28 février.",
+    "city": "台北"
+  },
+  {
     "title": "Fu Kun-chi : du « roi de Hualien » du Houshan au « chef de groupe » parlementaire, la spirale du pouvoir",
     "lat": 23.984057,
     "lng": 121.607586,
@@ -10646,6 +10888,17 @@
     "lang": "zh-TW",
     "desc": "Du grand opérateur boursier des années 1990 surnommé « Xiao Fu de Kaiju » à son entrée au Parlement en 2001, puis à sa prise de contrôle de Hualien en 2009, Fu Kun-chi a bâti dans le Houshan une « dynastie Fu » longue de vingt ans, difficile à ébranler même pour le pouvoir central. De son incarcération tout en conservant son mandat dans une affaire de manipulation boursière, à son faux divorce pour nommer son épouse vice-magistrate, jusqu’à son retour au Yuan législatif en 2024 comme chef du groupe parlementaire du Kuomintang et sa conduite d’une délégation en Chine, il incarne l’une des formes les plus extrêmes de résilience du pouvoir et de controverse dans la vie politique taïwanaise.",
     "city": "花蓮"
+  },
+  {
+    "title": "Shen Bo-yang : il étudiait la guerre cognitive chinoise, puis la Chine l'a localisé sur des images satellites",
+    "lat": 25.034165,
+    "lng": 121.571271,
+    "category": "people",
+    "region": "north",
+    "link": "/people/puma-shen",
+    "lang": "zh-TW",
+    "desc": "En 2021, Shen Bo-yang et le chercheur en stratégie He Cheng-hui ont cofondé le Black Bear Academy, avec un don de 600 millions de NT$ de Cao Xing-cheng pour former trois millions de volontaires de la défense civile en trois ans. En février 2024, il est entré au Parlement en tant que député non circonscription du DPP. Le 28 octobre 2025, il est devenu le premier homme politique élu à Taïwan à faire l'objet d'une enquête criminelle par la Chine pour « crime de sécession », la CCTV diffusant un reportage spécial intitulé « Démasquer » avec l'avertissement « le prochain sera vous ». Le 1er janvier 2026, un compte Weibo chinois a utilisé des images satellites commerciales pour publier les coordonnées de sa résidence et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion en direction de la France. Le 13 mai, le DPP l'a officiellement appelé à se présenter aux élections municipales de Taipei, précisément dans la ville dont les coordonnées avaient été marquées sur les images satellites.",
+    "city": "台北"
   },
   {
     "title": "Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé",
@@ -10989,6 +11242,17 @@
     "city": "台北"
   },
   {
+    "title": "ताइवान: पारिस्थितिक विविधता का हॉटस्पॉट",
+    "lat": 23.473147,
+    "lng": 120.952048,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/taiwan-biodiversity-hotspots",
+    "lang": "zh-TW",
+    "desc": "36,000 वर्ग किमी के ताइवान में 59,000 ज्ञात प्रजातियाँ समाई हैं, घनत्व वैश्विक औसत का 100 गुना, 30% से अधिक प्रजातियाँ विश्व में अद्वितीय स्थानिक प्रजातियाँ हैं। 4,000 मीटर की ऊर्ध्वाधर \"जलवायु लिफ्ट\" इस द्वीप को छोटी सी जगह में पृथ्वी के आधे जलवायु क्षेत्रों को पुनर्जीवित करने देती है: विश्व में सबसे कम अक्षांश वाला सैल्मन, चेरी हुक्ड सैल्मन (Oncorhynchus masou formosanus) केवल चिआजियावान नदी में बचा है, 1,500 से 2,500 मीटर ऊंचाई पर ताइवान सालमैंडर का आवास 11 स्थानों से सिमटकर 7 रह गया है। पूरे ताइवान में लगभग 200-600 ताइवान काले भालू हैं, प्रत्येक को 30-40 वर्ग किमी गतिविधि क्षेत्र चाहिए; विश्व में सर्वाधिक जीवन घनत्व वाले इस मंच पर वन्यजीवों के लिए कितनी जगह बची है?",
+    "city": "南投"
+  },
+  {
     "title": "ताइवान के गर्म झरनों का भू-दृश्य",
     "lat": 22.696366,
     "lng": 121.024297,
@@ -11042,6 +11306,17 @@
     "lang": "zh-TW",
     "desc": "1935 के अप्रैल 21, सुबह 6 बजकर 2 मिनट पर, कन्हाओदाओशान के पास 6.9 तीव्रता की भूकंप ने हिंशु प्रांत और ताइचूंग प्रांत को फाड़ दिया, जिससे 3,279 लोग मारे गए, 11,976 लोग घायल हुए, और 17,927 घर पूरी तरह ध्वस्त हो गए। शिंगसुई के स्थानीय लोग यांग झाओजिया ने अपने नाम पत्र पर \"शिंगसुई पूरी तरह नष्ट\" लिखा, जबकि हुआंग वांगचेंग ने अपनी डायरी में परिवार के गहरे कुएं के पास भागने का दर्ज किया। भूकंप के बाद, सरकार ने पुनरुद्धार समिति स्थापित की, रेलवे की मरम्मत की, शहरी नियोजन में सुधार किया और भूकंप अवलोकन उपकरण लगाए, जिससे एक आपदा एक नई शासन व्यवस्था में बदल गई और यह सवाल बना कि सुरक्षा तय करने का अधिकार किसके पास है।",
     "city": "苗栗"
+  },
+  {
+    "title": "ज़ीलैंडिया किला: एक किले के चार नाम",
+    "lat": 23.000511,
+    "lng": 120.168902,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "1624 में, डच लोगों ने ताइनान के दयुआन (Dauuan) में एक किला बनाया, जिसे पहले ऑरेंज किला कहा गया और दो साल बाद इसका नाम बदलकर ज़ीलैंडिया किला कर दिया गया। 1662 में झेंग चेंग-गोंग (Zheng Chenggong) द्वारा नौ महीने तक घेराबंदी किए जाने के बाद, डच अधिकारी कॉइपर (Coijers) ने इसकी चाबियाँ सौंप दीं, जिससे यह मिंग-झेंग राजवंश का शाही शहर बन गया। किंग राजवंश के दौरान इसकी दीवारों को ईचीज़ाई स्वर्ण किले (Yizicai Golden Fort) के निर्माण के लिए हटा दिया गया, जापानी शासन के दौरान आंतरिक किले को समतल कर दिया गया, और 2022 में संस्कृति मंत्रालय ने इन अवशेषों को मिलाकर \"ज़ीलैंडिया किला अवशेष\" (Fort Zeelandia Relics) नाम दिया। चार नाम, चार शासन काल।",
+    "city": "台南"
   },
   {
     "title": "ताइचुंग बंदरगाह: एक पत्थर ने कैसे वूची को समुद्र की ओर धकेला, और तट रेखा को फिर से लिख दिया",
@@ -11132,6 +11407,17 @@
     "city": "苗栗"
   },
   {
+    "title": "ताइवान का सफेद डॉल्फिन: कानूनी आवास मिलने के बावजूद, इसे वास्तव में सुरक्षित समुद्री क्षेत्र नहीं मिला",
+    "lat": 24.140398,
+    "lng": 120.677654,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "नवंबर 2025 में, OCA023 नंबर वाला एक वयस्क नर सफेद डॉल्फिन, जिसे शोधकर्ता \"कैंची\" कहते थे, चांगहुआ के शेंगांग में मृत पाया गया — 2009 के बाद से कम से कम दसवीं ऐसी घटना। इसकी आबादी 2002 के अनुमानित 99 से गिरकर 2025 में 45-50 रह गई, साल भर में केवल दो-तीन बछड़े पैदा होते हैं। 2020 में सरकार ने 763 वर्ग किमी का कानूनी महत्वपूर्ण आवास घोषित किया, लेकिन 2026 में ताइचुंग बंदरगाह ने इसी क्षेत्र में मलबे से समुद्र भरना शुरू कर दिया, जिसके बाद पर्यावरण समूहों ने डॉल्फिन की ओर से मुकदमा दायर करने की घोषणा की। कानूनी नक्शा तैयार है, लेकिन सुरक्षित समुद्र अभी नहीं।",
+    "city": "台中"
+  },
+  {
     "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
     "lat": 22.625463,
     "lng": 120.305651,
@@ -11152,6 +11438,17 @@
     "lang": "zh-TW",
     "desc": "1987 में जन्मी एनो चेंग (Enno Cheng), पिता हैं न्यू वेव निर्देशक चेंग वेन-तांग (鄭文堂)। 2007 में अभिनेत्री के रूप में डेब्यू, गोल्डन हॉर्स नामांकन; 2016 में फेसबुक पर समलैंगिक पहचान सार्वजनिक की, उसी महीने तलाक; 2022 में पहला पूर्ण ताइवानी भाषा एल्बम \"शुई नी\" (Mercury Retrograde); 2023 में 34वें गोल्डन मेलोडी पुरस्कारों में सर्वश्रेष्ठ ताइवानी भाषा गायिका + सर्वश्रेष्ठ ताइवानी भाषा एल्बम का दोहरा पुरस्कार। उन्होंने कहा: \"तो मैंने सीधे एक ऐसी भाषा का उपयोग किया जिससे मैं इतनी परिचित नहीं थी, खुद को बहुत कठिन बना दिया।\"",
     "city": "宜蘭"
+  },
+  {
+    "title": "चियांग वान-आन: वकील पृष्ठभूमि वाले ताइपे शहर के मेयर, कार्यकाल में मेगा डोम, शहरी नवीकरण, गोंगुआन गोलचक्कर और वित्तीय विभाजन कानून विवाद",
+    "lat": 25.037223,
+    "lng": 121.569353,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "चियांग वान-आन चीनी राष्ट्रवादी पार्टी के ताइपे शहर के मेयर हैं, जिन्होंने अमेरिका में वकील के रूप में काम किया है, दो कार्यकाल के विधायक रहे हैं, और 2022 में तीन-तरफा प्रतिद्वंद्विता में निर्वाचित हुए। उनके कार्यकाल में मेगा डोम को उपयोग लाइसेंस मिला, शहर सरकार ने जिंगहुआ सिटी के क्षेत्र बोनस को रद्द किया, शहरी नवीकरण को बढ़ावा दिया, जन्म प्रोत्साहन राशि को दोगुना किया, ताइपे-नई ताइपे विश्व खेल आयोजित किए, हेपिंग-शिंशेंग ओवरपास और गोंगुआन गोलचक्कर को ध्वस्त किया, साथ ही वित्तीय विभाजन कानून संशोधन के बाद मेट्रो सहायता के लिए कार्यपालिका से विवाद किया, और शहर के मेयर के रूप में कई बार 228 स्मृति समारोह में माफी मांगी।",
+    "city": "台北"
   },
   {
     "title": "चिउ ची-हंग: Web 2.0 की विफलता से उभरकर, इंजीनियर की सोच से ताइवान के डिजिटल विज्ञापन पारिस्थितिकी को पुनर्निर्मित करना",
@@ -11198,14 +11495,14 @@
     "city": "彰化"
   },
   {
-    "title": "शेन बोयांग: उन्होंने चीन के संज्ञानात्मक युद्ध का अध्ययन किया, फिर चीन ने उन्हें उपग्रह मानचित्र पर खींचा",
+    "title": "शेन बो-यांग: उन्होंने चीन के संज्ञानात्मक युद्ध पर शोध किया, जिसके बाद चीन ने उन्हें उपग्रह मानचित्र पर चिह्नित कर दिया",
     "lat": 25.035101,
     "lng": 121.563564,
     "category": "people",
     "region": "north",
     "link": "/people/puma-shen",
     "lang": "zh-TW",
-    "desc": "2021 में शेन बोयांग ने रणनीति विद्वान हे चेंगहुई के साथ मिलकर ब्लैक बियर अकादमी की स्थापना की, जिसे त्साओ शिंगचेंग ने 600 मिलियन से समर्थित किया, लक्ष्य तीन वर्षों में 3 मिलियन नागरिक रक्षा कार्यकर्ताओं को प्रशिक्षित करना था। फरवरी 2024 में वे डेमोक्रेटिक प्रोग्रेसिव पार्टी के गैर-क्षेत्रीय सांसद के रूप में संसद में प्रवेश किए। 28 अक्टूबर 2025 को वे पहले ताइवानी निर्वाचित राजनेता बने जिन पर चीन ने 'राष्ट्र विभाजन के अपराध' के तहत जांच दर्ज की, और सीसीटीवी ने 'पर्दाफाश' विशेष कार्यक्रम के साथ चेतावनी दी 'अगला तुम हो'। 1 जनवरी 2026 को चीन के माइक्रोब्लॉग खाते ने वाणिज्यिक उपग्रह का उपयोग करके ताइपे में उनके आवास और कार्य स्थान के निर्देशांक प्रकाशित किए; वेलेंटाइन डे पर वे फ्रांस की ओर जाने वाले विमान में थे। 13 मई को डेमोक्रेटिक प्रोग्रेसिव पार्टी ने औपचारिक रूप से उन्हें ताइपे के मेयर के चुनाव के लिए नामांकित किया, जो उसी शहर के लिए था जिसके निर्देशांक उपग्रह मानचित्र पर चिह्नित किए गए थे।",
+    "desc": "2021 में, शेन बो-यांग ने रणनीतिक विद्वान हे चेंग-हुई के साथ मिलकर ब्लैक बेयर अकादमी (Black Bear Academy) की सह-स्थापना की, जिसे त्साओ हिंग-चेंग द्वारा NT$600 मिलियन का समर्थन प्राप्त हुआ, जिसका लक्ष्य तीन वर्षों में 3 मिलियन नागरिक रक्षा स्वयंसेवकों को प्रशिक्षित करना था। फरवरी 2024 में, वे डेमोक्रेटिक प्रोग्रेसिव पार्टी (DPP) के गैर-निर्वाचित विधायक के रूप में संसद में शामिल हुए। 28 अक्टूबर 2025 को, वह \"राज्य विभाजन के अपराध\" के तहत चीन द्वारा जांच के घेरे में आने वाले पहले ताइवानी निर्वाचित राजनेता बने, जहाँ CCTV ने \"अगला नंबर आपका है\" की चेतावनी देते हुए एक विशेष \"पर्दाफाश\" कार्यक्रम प्रसारित किया। 1 जनवरी 2026 को, एक चीनी वीबो खाते ने वाणिज्यिक उपग्रहों का उपयोग करके ताइपे में उनके घर और कार्यस्थल के निर्देशांक सार्वजनिक कर दिए; उन्होंने वेलेंटाइन डे फ्रांस जाने वाली उड़ान में बिताया। 13 मई को, DPP ने आधिकारिक तौर पर उन्हें ताइपे मेयर के चुनाव के लिए नामांकित किया, और वे उसी शहर का चुनाव करने जा रहे हैं जिसे उपग्रह मानचित्र पर चिह्नित किया गया था।",
     "city": "台北"
   },
   {
@@ -11539,6 +11836,17 @@
     "city": "南投"
   },
   {
+    "title": "Fort Zeelandia: Empat Nama untuk Sebuah Benteng",
+    "lat": 22.99411,
+    "lng": 120.16145,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Pada tahun 1624, orang Belanda membangun kembali sebuah benteng di Dawan, Tainan, yang awalnya bernama Fort Oranje, lalu berganti nama menjadi Fort Zeelandia dua tahun kemudian. Pada tahun 1662, Koxinga mengepung benteng tersebut selama sembilan bulan hingga Gubernur Coen menyerahkan kunci, menjadikannya kota kerajaan Ming Zheng. Pada masa Dinasti Qing, temboknya dibongkar untuk membangun Yizai Jincheng, dan pada era Jepang, bagian dalam benteng diratakan. Pada tahun 2022, Kementerian Kebudayaan menggabungkan sisa-sisa tersebut dan mengubah namanya menjadi \"Situs Fort Zeelandia\". Empat nama, empat periode pemerintahan.",
+    "city": "台南"
+  },
+  {
     "title": "Pelabuhan Taichung: Bagaimana Sebuah Batu Mendorong Wuqi ke Laut, dan Menulis Ulang Pesisir",
     "lat": 24.140408,
     "lng": 120.670834,
@@ -11594,15 +11902,15 @@
     "city": "新北"
   },
   {
-    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
-    "lat": 25.02697,
-    "lng": 121.565887,
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Anda Menekan \"Deklarasi Sesuai\", Siapa yang Anda Beri Kuasa",
+    "lat": 24.987166,
+    "lng": 121.295287,
     "category": "lifestyle",
     "region": "north",
     "link": "/lifestyle/ezway",
     "lang": "zh-TW",
-    "desc": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
-    "city": "台北"
+    "desc": "Ponsel bergetar, notifikasi menampilkan deretan nama barang yang tak terlalu dipahami, Anda menekan \"Deklarasi Sesuai\", dan secara hukum yang selesai adalah sebuah surat kuasa pengurusan kepabeanan. Sebanyak 7,59 juta orang di Taiwan pernah mendaftar di aplikasi ini. Setelah sebuah unggahan viral pada Agustus 2026, banyak orang baru pertama kali mencari tahu siapa yang mengoperasikannya: Gateway Information Network Taiwan (GIN), perusahaan tercatat bursa yang sahamnya 36,11% dipegang Kementerian Keuangan, kurang dari separuh. Pada saat yang sama, ambang bebas pajak NT$2.000 untuk kedua kalinya diusulkan pemerintah untuk diturunkan. Siapa yang menanggung biaya jalan pintas ini, dan siapa yang sejak awal tak pernah sempat bersuara.",
+    "city": "桃園"
   },
   {
     "title": "Jembatan Taipei Air Terjun Motor: Energi Rakyat di Aliran Baja dan Estetika Perkotaan",
@@ -11649,6 +11957,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Lumba-lumba Putih Taiwan: Meski Memiliki Habitat Legal, Mereka Masih Belum Memiliki Perairan yang Aman",
+    "lat": 24.141188,
+    "lng": 120.680729,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Pada November 2025, seekor lumba-lumba putih jantan dewasa bernomor OCA023 yang dijuluki \"Scissors\" oleh peneliti terdampar dan mati di Shengang, Changhua, menjadi kasus kesepuluh sejak 2009. Populasinya menyusut dari estimasi 99 ekor pada 2002 menjadi hanya 45 hingga 50 ekor pada 2025, dengan tingkat kelahiran hanya dua atau tiga anak per tahun. Pada 2020, pemerintah menetapkan rumah mereka sebagai habitat penting legal seluas 763 km², namun pada 2026, Pelabuhan Taichung melakukan reklamasi menggunakan tanah limbah di area tersebut, memicu kelompok lingkungan untuk mengajukan gugatan demi lumba-lumba putih. Peta legal telah dibuat, tetapi laut yang aman belum ada.",
+    "city": "台中"
+  },
+  {
     "title": "Chen Cheng-po",
     "lat": 25.166865,
     "lng": 121.435926,
@@ -11669,6 +11988,17 @@
     "lang": "zh-TW",
     "desc": "Pada 18 Agustus 2008, pelatihan baru di Fakultas Hukum Universitas Virginia dimulai, dan Chen Zhi Zhong yang akan mempelajari J.D. tidak hadir, sehingga kelayakannya untuk masuk pun hilang pada hari itu. Setelah itu, di area Xinzheng-Xiaogang di Kaohsiung, ia terpilih tiga kali ke dewan kota, di mana dua kali masa jabatannya berakhir pada saat putusan hakim menjadi tetap, dan di antara waktu itu ia menjalani hukuman selama 272 hari. Putusan yang dijadwalkan pada April 2023 tidak mencabut haknya. Sebulan kemudian, ketentuan larangan hitam dalam undang-undang pemilu disetujui dalam tiga pembacaan, yang membuatnya tidak dapat mendaftar sebagai calon lagi.",
     "city": "高雄"
+  },
+  {
+    "title": "Chiang Wan-an: Walikota Taipei Berlatar Belakang Pengacara, Kontroversi Taipei Dome, Peremajaan Kota, Lingkaran Gongguan, dan UU Perencanaan Keuangan Selama Masa Jabatannya",
+    "lat": 25.0258,
+    "lng": 121.567682,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Chiang Wan-an adalah Walikota Taipei dari Kuomintang yang pernah bekerja sebagai pengacara di Amerika Serikat dan menjabat sebagai anggota Legislatif selama dua periode, lalu terpilih dalam persaingan tiga pihak pada tahun 2022. Selama masa jabatannya, Taipei Dome memperoleh izin penggunaan, pemerintah kota membatalkan insentif rasio lantai bangunan Jinghua City, mendorong peremajaan kota, menggandakan tunjangan kelahiran, menyelenggarakan Taipei-New Taipei City Games, membongkar jembatan penyeberangan Heping Xinsheng dan Lingkaran Gongguan, serta berselisih dengan Eksekutif mengenai subsidi MRT setelah revisi UU Perencanaan Keuangan. Ia juga beberapa kali menyampaikan permohonan maaf atas nama Walikota dalam upacara peringatan Insiden 228.",
+    "city": "台北"
   },
   {
     "title": "Fu Kun-chi (傅崐萁): Dari \"Raja Hualien\" Pedesaan hingga Pimpinan Fraksi Parlemen—Spiral Kekuatan Politik",
@@ -11704,14 +12034,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "Shen Bo-yang: Dia Meneliti Perang Kognitif Tiongkok, Kemudian Tiongkok Memplotnya di Peta Satelit",
+    "title": "Puma Shen: Dia Meneliti Perang Kognitif Tiongkok, Lalu Tiongkok Menandainya di Citra Satelit",
     "lat": 25.031635,
     "lng": 121.564589,
     "category": "people",
     "region": "north",
     "link": "/people/puma-shen",
     "lang": "zh-TW",
-    "desc": "Pada tahun 2021, Shen Bo-yang dan pakar strategi Ho Cheng-hui bersama-sama mendirikan Black Bear Academy, didukung oleh donasi enam ratus juta dari Tsao Hsin-cheng, dengan target melatih tiga juta relawan pertahanan sipil dalam tiga tahun. Pada Februari 2024, dia memasuki parlemen sebagai anggota legislatif non-distrik dari Partai Demokratik Progresif. Pada 28 Oktober 2025, dia menjadi politisi terpilih Taiwan pertama yang diselidiki Tiongkok atas tuduhan \"memecah belah negara\", dengan CCTV menyertai topik \"mengungkap\" yang memperingatkan \"kamu bisa jadi yang berikutnya\". Pada Hari Tahun Baru 2026, akun Weibo Tiongkok mempublikasikan koordinat rumah dan tempat kerja Shen di Taipei menggunakan satelit komersial; dia menghabiskan Hari Valentine di pesawat menuju Perancis. Pada 13 Mei, Partai Demokratik Progresif secara resmi menominasikannya sebagai calon walikota Taipei, kota yang sama yang koordinatnya telah ditandai di peta satelit.",
+    "desc": "Pada 2021 Puma Shen bersama pakar strategi Ho Cheng-hui mendirikan Kuma Academy; Robert Tsao menyumbang NT$600 juta dengan target melatih tiga juta pembela sipil dalam tiga tahun. Pada Februari 2024 ia masuk parlemen sebagai anggota Yuan Legislatif dari daftar partai Partai Progresif Demokratik (DPP). Pada 28 Oktober 2025 ia menjadi politikus terpilih Taiwan pertama yang diselidiki Tiongkok atas dakwaan \"memecah belah negara\", dan CCTV menayangkan liputan \"pembongkaran identitas\" dengan peringatan \"berikutnya adalah kamu\". Pada 1 Januari 2026 sebuah akun Weibo Tiongkok memublikasikan koordinat rumah dan tempat kerjanya di Taipei lewat satelit komersial; pada Hari Valentine ia berada di pesawat menuju Prancis. Pada 13 Mei DPP resmi menugaskannya maju sebagai calon wali kota Taipei, kota yang koordinatnya ditandai di citra satelit itu.",
     "city": "台北"
   },
   {
@@ -12386,14 +12716,14 @@
     "city": "屏東"
   },
   {
-    "title": "ラアルアルア族：「南シュウ」から自分たちの名前へ、聖貝祭が守ったもの",
+    "title": "ラアルア族：「南鄒」から自らの名へ、聖貝祭が守り抜いたもの",
     "lat": 22.620105,
     "lng": 120.307703,
     "category": "culture",
     "region": "south",
     "link": "/ja/culture/hla-alua-people",
     "lang": "ja",
-    "desc": "2014年6月26日、ラアルアルア族が台湾で15番目に正式に認定された原住民族となった。これは鄒族との関係を断つことではなく、桃源の四社、聖貝祭、そして絶滅間近の族語の間で、かつて合併されてしまった名前を再びその名前を使う人々に返すことだった。",
+    "desc": "2014年6月26日、ラアルア族は台湾で15番目に正式に認定された原住民族となりました。これは鄒族との関係を断つことではなく、桃源四社、聖貝祭、そして危機に瀕した言語の間で、かつて統合されていた名前を、それを使う人々の元へと再び取り戻すプロセスなのです。",
     "city": "高雄"
   },
   {
@@ -13013,6 +13343,17 @@
     "city": "嘉義"
   },
   {
+    "title": "ともに歩んできた過去：前に進むには、まず私たちがどうここに来たかを知ることから",
+    "lat": 24.456162,
+    "lng": 118.384834,
+    "category": "culture",
+    "region": "islands",
+    "link": "/ja/culture/walking-through-the-past-together",
+    "lang": "ja",
+    "desc": "1988年7月、国民党第13回全国代表大会（十三全）開幕の前夜、殷允芃氏が『天下雑誌』の4部作ドキュメンタリーを台視で4日間連続放送させた。写真家の張照堂氏が一本の台本のために、あの40年を生き抜いた人々を訪ねた：養女として育てられた紀政、毎年小作料を値上げされる小作農、山中で道路建設のために爆破作業を行った榮民。『天下雑誌』は創刊以来、台湾がいかにして今日に至ったかを問い続けてきたが、その答えはこの作品の中で、これらの人々の姿に委ねられている。後に一本のビデオテープが北京へ持ち込まれた。",
+    "city": "金門"
+  },
+  {
     "title": "塩水蜂炮：砲城が語る、疫病の記憶を街に残す方法",
     "lat": 22.992829,
     "lng": 120.220899,
@@ -13297,6 +13638,17 @@
     "lang": "ja",
     "desc": "1949年台南の小さな工場から世界の化学工業の巨頭へ。「上場せず、借金せず」の隠れたチャンピオンの物語",
     "city": "台南"
+  },
+  {
+    "title": "台湾企業：富邦金控",
+    "lat": 25.037459,
+    "lng": 121.572442,
+    "category": "economy",
+    "region": "north",
+    "link": "/ja/economy/taiwan-enterprise-fubon-financial",
+    "lang": "ja",
+    "desc": "1961年、32歳の蔡萬才は10名の従業員と600万元の資本を携え、台北市の衡陽路にある10坪のオフィスで国泰產險を設立しました。当時、公営保険会社が相手にしない小規模な顧客層に特化することを選択したのです。1992年に国泰グループから分離し、1997年には165億元で台北銀行を買収。富邦は損害保険業から銀行、通信、プロ野球、メディア、娯楽へと事業を拡大し、総資産NT$11.9兆、時価総額台湾第一、従業員数6万人を超える金融ホールディングスへと成長しました。兄弟による事業継承、政経分離による権力の均衡、海を越えた地理的リスク、そしてデジタルトランスフォーメーションとサステナブルファイナンス。この65年の歩みを紐解きます。",
+    "city": "台北"
   },
   {
     "title": "台湾企業：统一企业",
@@ -14454,14 +14806,14 @@
     "city": "台北"
   },
   {
-    "title": "データで見る台湾22県市：最も混雑する場所と最も空虚な場所では151倍の差、最も高齢な場所と最も若い場所では一世代の差",
+    "title": "データで見る台湾22県市：最も密と最も疎は151倍の差、高齢者と子どもが1対1からほぼ3対1へ",
     "lat": 25.027311,
     "lng": 121.557108,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/data-taiwan-22-cities",
     "lang": "ja",
-    "desc": "同じ島でありながら、人口密度が最も高い台北市は1平方キロメートルあたり8,975人、最も低い台東県はわずか59人と、151倍もの開きがあります。人口最多の新北市は404万人、最少の連江県は1.36万人で297倍の差。最も若い新竹県の高齢化率は15.08%、最も高齢な嘉義県は24.11%と、一世代近い差があります。内政部戸政司の2025年末の公式データを用い、島全体の姿を数値で描き出します。",
+    "desc": "同じ島で、台北市は1平方キロメートルあたり8,975人、台東県はわずか59人、151倍の開きがある。内政部戸政司2025年末のデータで22県市の検証可能な肖像を描く：7割の人が3割の土地に集中し、高齢者比率が最も高いのは最も密な台北市、高齢者対子ども比率が最も高い嘉義県はほぼ3対1。22県市すべてで死亡が出生を上回っている。",
     "city": "台北"
   },
   {
@@ -14923,7 +15275,7 @@
     "region": "central",
     "link": "/ja/geography/taiwan-biodiversity-hotspots",
     "lang": "ja",
-    "desc": "3.6万平方キロメートルの島に5.9万種以上の生物がひしめき、密度は世界平均の100倍に達する",
+    "desc": "3.6万平方キロメートルの台湾には、5.9万種の既知生物が生息しており、その密度は世界平均の100倍に達します。また、種の30%以上が世界で唯一の固有種です。垂直方向に4,000メートルもの変化がある気候の階段により、この小さな島には地球の半分の気候帯が凝縮されています。世界で最も低緯度に生息するサケ科のイトコ（桜花鉤吻鮭）は七家湾渓のみに残され、標高1,500〜2,500メートルの台湾サンショウウオの生息地は11カ所から7カ所へと減少しました。台湾黒熊は全島に約200〜600頭生息していますが、一頭あたり30〜40平方キロメートルの活動空間を必要とします。世界最高レベルの生命密度を誇るこの舞台で、野生動物のためにあとどれほどの空間を残せるでしょうか。",
     "city": "南投"
   },
   {
@@ -15356,6 +15708,17 @@
     "city": "新北"
   },
   {
+    "title": "ゼーランディア城：一つの城が持つ四つの名前",
+    "lat": 22.99082,
+    "lng": 120.162064,
+    "category": "history",
+    "region": "south",
+    "link": "/ja/history/fort-zeelandia",
+    "lang": "ja",
+    "desc": "1624年、オランダ人が台南の大員に要塞を再建し、当初はオルラニエ城と名付けられたが、2年後にゼーランディア城へと改名された。1662年には鄭成功による9ヶ月間の包囲戦を経て、オランダ総督が鍵を引き渡し、明鄭の王城となった。清代には城壁が取り壊され億載金城の建設に用いられ、日本統治時代には内城が平らにならされた。2022年、文化部はこれらの遺構を統合し「ゼーランディア堡遺構」と改称した。四つの名前は、四つの統治時代を象徴している。",
+    "city": "台南"
+  },
+  {
     "title": "円山大飯店：赤い宮殿の秘密のトンネルと権力交代",
     "lat": 25.039225,
     "lng": 121.560221,
@@ -15378,14 +15741,14 @@
     "city": "新竹"
   },
   {
-    "title": "台湾原住民族の歴史と正名運動",
+    "title": "台湾先住民族の歴史と名称是正運動",
     "lat": 23.512331,
     "lng": 120.702654,
     "category": "history",
     "region": "south",
     "link": "/ja/history/indigenous-peoples-history-and-naming-movement",
     "lang": "ja",
-    "desc": "1987年、19歳のツォウ族（鄒族）の青年が台北の刑場で銃殺された。彼の死が、正名運動の最初の火を灯した。",
+    "desc": "1987年、19歳の鄒族青年であった湯英伸が台北の刑場で銃殺されました。彼の死は、台湾先住民族の名称是正運動に最初の火を灯しました。1984年の原住民権利会の設立、1988年の呉鳳像の引き倒しと「土地を返せ」デモから、1994年に憲法上の「山胞」が「原住民」へと改められ、2005年に原住民族基本法に「族」の文字が加えられるまで、この道のりは21年間に及びました。オランダ統治時代の帰化番と野番、清朝時代の熟番と生番、日本統治時代の蕃人理蕃政策、戦後の山胞といった、それぞれの名称は一種の枷でした。最初の3回は他人に名付けられたものであり、後の2回こそが自分たちで勝ち取ったものなのです。",
     "city": "嘉義"
   },
   {
@@ -15607,6 +15970,17 @@
     "lang": "ja",
     "desc": "帝国の警察が残した監視文書の中に、台湾人がいかに抵抗したかの地図が隠されていた。1920年代、議会請願・農民組合・地下共産党という三つの路線が同時に燃え上がり、互いに燃え移っていった",
     "city": "台中"
+  },
+  {
+    "title": "スペイン北台湾十六年：平和島から淡水への植民地化の試み",
+    "lat": 25.162057,
+    "lng": 121.43811,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/spanish-northern-taiwan-1626-1642",
+    "lang": "ja",
+    "desc": "1626年5月、スペイン艦隊がマニラから北上し、キールン港に上陸、平和島にサン・サルバドル城を築いた。十六年間、彼らは淡水にサント・ドミンゴ城を建設し、台北盆地へ探検隊を派遣し、カバラン族と衝突したが、常にマニラからの補助金で駐軍を維持していた。1642年8月、オランダ軍がキールンを陥落させ、スペインは台湾から撤退し、地名といくつかの城壁だけを残した。",
+    "city": "新北"
   },
   {
     "title": "台中州庁：一つの行政庁舎がいかに都市を秩序立て、市民によって再利用されたか",
@@ -15871,6 +16245,17 @@
     "lang": "ja",
     "desc": "1895年の乙未の役（台湾割譲戦争）において、三人の外国人が最も重要な外語目撃文献を残した——日本の写真師・遠藤誠の凱旋アルバム、アメリカ人記者・ダビッドソンの従軍手帳、日本の牧師・細川瀏の渡台日記。問題は彼らが何を見たかではなく、誰のために見たかだ。",
     "city": "台南"
+  },
+  {
+    "title": "東寧王国：二十一年、台湾を国号に刻んだ王朝",
+    "lat": 23.578406,
+    "lng": 119.576746,
+    "category": "history",
+    "region": "islands",
+    "link": "/ja/history/tungning-kingdom",
+    "lang": "ja",
+    "desc": "1662年2月、オランダ長官コイエットがゼーランディア城で鍵を引き渡し、鄭成功（てい・せいこう／チェン・チョンコン）がこの島を「東寧」に変えました。その後二十一年、鄭氏は一府二州三司を置き、軍隊を各地に屯田させ、陳永華（ちん・えいか／チン・ヨンホア）を派遣して国政を総理し、日本やイギリス東インド会社と通商しました。1683年7月の澎湖海戦で施琅（し・ろう／シー・ラン）が劉国軒（りゅう・こくけん／リュウ・コクケン）の水師を破り、10月に鄭克塽（てい・こくしゅう／テイ・コクシュウ）が清に降伏し、東寧は歴史の中へ消えました。",
+    "city": "澎湖"
   },
   {
     "title": "呉鳳伝説：地方の物語が帝国の教科書に書き換えられた経緯",
@@ -16599,14 +16984,14 @@
     "city": "台南"
   },
   {
-    "title": "台湾の鯨豚",
+    "title": "台湾の鯨類",
     "lat": 23.995395,
     "lng": 121.595508,
     "category": "nature",
     "region": "east",
     "link": "/ja/nature/cetaceans-of-taiwan",
     "lang": "ja",
-    "desc": "世界の鯨豚種の3分の1が生息する海域です——かつての捕鯨から現在のホエールウォッチング（賞鯨）へ、台湾はいかにして海洋生態研究の重要拠点へと転換したのでしょうか？",
+    "desc": "世界の鯨類の約3分の1が生息する場所——かつての捕鯨から今日のホエールウォッチングへ、台湾はいかにして海洋生態研究の拠点へと転身したのか？",
     "city": "花蓮"
   },
   {
@@ -16896,14 +17281,14 @@
     "city": "南投"
   },
   {
-    "title": "台湾のセンザンコウ",
+    "title": "台湾穿山甲（タイワン・センザンコウ）",
     "lat": 25.039285,
     "lng": 121.562721,
     "category": "nature",
     "region": "north",
     "link": "/ja/nature/taiwan-pangolin",
     "lang": "ja",
-    "desc": "世界で最も密輸されている哺乳類動物であるセンザンコウの台湾亜種は、台湾で安全な家を見つけました。アジアの他の地域の仲間が密輸によって絶滅の危機に瀕しているとき、台湾は厳格な法的保護、生息地の維持、科学的研究、さらに人工繁殖によって、個体群を安定させ、さらに増加させることに成功し、珍しい保全成功事例となり、世界に種の絶滅が運命ではないことを示しました。",
+    "desc": "世界で最も密輸される哺乳類である穿山甲の台湾亜種が、台湾で安全な生息地を見つけた。アジアの他地域では密輸により絶滅の危機に瀕する中、台湾は厳格な法的保護、生息地の維持、科学的研究、そして人工繁殖により個体群の状況を安定させ、稀有な保全成功事例となり、種の絶滅が宿命ではないことを世界に示した。",
     "city": "台北"
   },
   {
@@ -16940,14 +17325,14 @@
     "city": "苗栗"
   },
   {
-    "title": "台湾の白イルカ：法定生息地が指定されても、依然として真の安全な海域はない",
+    "title": "台湾の白海豚：法定生息地を得ても、なお真に安全な海域はない",
     "lat": 24.155424,
     "lng": 120.68178,
     "category": "nature",
     "region": "central",
     "link": "/ja/nature/taiwanese-white-dolphin",
     "lang": "ja",
-    "desc": "2020年、台湾西海岸の白イルカがついに763平方キロメートルの法定重要生息環境を持つに至ったが、漁具、港湾、汚染、水中騒音が依然として同じ浅海で競合している。",
+    "desc": "2025年11月、研究者が「Scissors」と呼ぶ成体雄性の白海豚が彰化県伸港で座礁死した。個体数は激減し、繁殖も極めて困難な状況にある中、台中港での埋め立て計画が法定生息地を脅かしており、環境団体は訴訟を準備している。",
     "city": "台中"
   },
   {
@@ -17303,14 +17688,14 @@
     "city": "台南"
   },
   {
-    "title": "陳映真：竹南から北京へ至った統一派文学の良心",
+    "title": "陳映真：竹南から北京へ——統派文学の良心",
     "lat": 24.560134,
     "lng": 120.826658,
     "category": "people",
     "region": "central",
     "link": "/ja/people/chen-yingzhen",
     "lang": "ja",
-    "desc": "陳映真（1937–2016）は本名を陳永善といい、苗栗県竹南に生まれ、鶯歌で育ちました。1964 年の「将軍族」は、外省人の退役老兵と台湾の年少娼婦の悲劇を描いて名声を得ました。1968 年には「民主台湾聯盟案」により 10 年の刑を宣告されました（1975 年、蔣介石の死去に伴う特赦で早期出獄）。1985 年に『人間』雑誌を創刊し、台湾のルポルタージュ文学の先駆けとなりました。1988 年に中国統一聯盟を創設し、初代主席を務めました。2006 年に脳卒中を発症した後、北京へ移住し、2016 年に北京で病没しました。彼は台湾戦後文学において最も論争的な統一派作家であり、郷土文学論争に「許南村」の筆名で介入した重要な理論家でもあります。",
+    "desc": "陳映真（1937–2016）、本名陳永善、苗栗県竹南鎮生まれ、鶯歌で育つ。1964年『将軍族』で外省籍退役兵と台湾の雛妓の悲劇を描き注目される。1968年「民主台湾連盟事件」で懲役10年（1975年蔣介石死去の特赦で仮釈放）。1985年『人間』誌を創刊し台湾報告文学の先駆けとなる。1988年胡秋原らと中国統一連盟を設立し初代主席に就任、2006年北京に定住・同年脳卒中、2016年北京で病没。台湾戦後最大の論争的統派作家であり、郷土文学論争で余光中らの批判を反駁した主要代表の一人。",
     "city": "苗栗"
   },
   {
@@ -17410,6 +17795,17 @@
     "link": "/ja/people/chiang-kai-shek",
     "lang": "ja",
     "desc": "彼の銅像は今まではかき消されつつあるが、彼が築いた地基――それを建設と呼ぼうと、枷と呼ぼうと――は、この島のあらゆる道、あらゆる学校、あらゆる選挙を今も支えている。",
+    "city": "台北"
+  },
+  {
+    "title": "蔣萬安：弁護士出身の台北市長、任期中の大巨蛋、都市更新、公館環状交差点、および財劃法の争い",
+    "lat": 25.040589,
+    "lng": 121.559632,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/chiang-wan-an",
+    "lang": "ja",
+    "desc": "蔣萬安は中国国民党所属の台北市長で、アメリカで弁護士として活動し、2期連続で立法委員を務めた後、2022年の三つ巴の選挙で当選しました。任期中には大巨蛋（台北ドーム）の使用許可取得、京華城に対する容積率インセンティブの取消、都市更新の推進、出産奨励金の倍増、台北・新北世壮運（スポーツ大会）の開催、和平新生天橋と公館環状交差点の撤去を行いました。また、行政院とは財劃法改正後のMRT補助金を巡って争い、市長として二二八追思会で何度も謝罪を行っています。",
     "city": "台北"
   },
   {
@@ -17754,14 +18150,14 @@
     "city": "花蓮"
   },
   {
-    "title": "徐巧芯：朝食店の娘から「8000億円軍事調達」議員へ――流量で若返らせる政治家",
+    "title": "徐巧芯：朝食店の娘から「NT$8000億軍購」立委への流量若年化",
     "lat": 25.027044,
     "lng": 121.57253,
     "category": "people",
     "region": "north",
     "link": "/ja/people/hsu-chiao-hsin",
     "lang": "ja",
-    "desc": "台北市第七選挙区立法委員。1989年、台北市の朝食店家庭に生まれる。2013年、24歳で国民党史上最若の中央常務委員となる。2024年、89,727票で許淑華を破り立法院入り。2025年大罷免では6.2万の同意票が法定基準に達したが否決。2026年軍事調達協議で8000億バージョンを提示し、党中央の3800億+N案と激突。季麟連が「親痛仇快のことはするな」と名指しで警告。",
+    "desc": "台北市第七選挙区選出の立法委員、徐巧芯氏は1989年11月18日、信義区の年中無休の洋風朝食店で生まれました。本名は徐美鳳でしたが、璩美鳳（チュ・メイフォン）のビデオ事件をきっかけに改名しました。2013年11月13日、24歳で中国国民党第19期中央常務委員会の最年少委員となりました。2024年1月13日、89,727票を獲得し許淑華氏を破って立法委員に当選しました。2025年7月26日、罷免案の賛成票が62,633票に達し要件を満たしながらも否決されました。2026年4月27日、軍購協議でNT$8000億版を提示し、党中央のNT$3800億プラスN案と衝突しました。季麟連氏が名指しで「身内を傷つけ敵を喜ばせるようなことはするな」と釘を刺しました。共諜疑惑の誤報、IPEF（インド太平洋経済枠組み）およびウクライナ支援機密文書の3案件について、この流量若年化の道筋を一つずつ解説します。",
     "city": "台北"
   },
   {
@@ -17897,6 +18293,17 @@
     "city": "台北"
   },
   {
+    "title": "蕭敬騰（しょう・けいきん／ジャム・シャオ）",
+    "lat": 25.03319,
+    "lng": 121.565046,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/jam-hsiao",
+    "lang": "ja",
+    "desc": "17歳から民謡レストランでレジデントシンガーとして活動し、2007年に『超級星光大道』の挑戦者コーナーでブレイク、2008年にデビューアルバムをリリース。2013年に『以愛之名』で金曲奨最優秀国語男性歌手賞を受賞し、その後バンド、映像作品、中台の舞台で活躍。",
+    "city": "台北"
+  },
+  {
     "title": "呉季剛（ご・きごう／ジェイソン・ウー）：バービーのクローゼットから教室へ——誰が何を好きになれるのか",
     "lat": 24.143492,
     "lng": 120.667407,
@@ -17952,15 +18359,15 @@
     "city": "台北"
   },
   {
-    "title": "江蕙：北投の硫黄の煙の中から歩み出した台湾語の天后、そして9年間の秘密の闘病",
-    "lat": 25.033161,
-    "lng": 121.56017,
+    "title": "江蕙：北投のナカシ出身、台湾語の天后",
+    "lat": 22.622037,
+    "lng": 120.307452,
     "category": "people",
-    "region": "north",
+    "region": "south",
     "link": "/ja/people/jody-chiang",
     "lang": "ja",
-    "desc": "10歳で北投の酒家で歌い歩き、ミリオンヒットの台湾語歌后となった江蕙。その歌声で台湾庶民文化の地位を書き換えた彼女が、絶頂期に秘密の抗がん闘病のために引退を選んだ。",
-    "city": "台北"
+    "desc": "江蕙（本名：江淑惠、1961年高雄生まれ）は9歳で家族と夜逃げ同然に台北へ移り、北投のナカシで歌い始めました。1992年の『酒後の心声』は台湾で116万枚を売り上げ、公式記録で唯一のミリオン達成台湾語アルバムとなりました。2000年から2003年にかけて金曲賞台湾語女性歌手賞を4連覇し、2015年に引退、2024年に台北ドームの国慶晩会で復帰しました。",
+    "city": "高雄"
   },
   {
     "title": "Joeman：eスポーツ解説者から百万チャンネルへ、レンズの中の長期クリエイター",
@@ -18040,14 +18447,14 @@
     "city": "台南"
   },
   {
-    "title": "賴和（ライ・ホー）：台湾本島衫（ほんとうしゃつ）を着た「彰化の媽祖」と、曲がらない秤の棒",
+    "title": "頼和（ライ・ホー）：本島衫を纏った「彰化の媽祖」、そして決して妥協しない「秤仔（天秤）」",
     "lat": 24.078073,
     "lng": 120.531938,
     "category": "people",
     "region": "central",
     "link": "/ja/people/lai-ho-father-of-taiwanese-literature",
     "lang": "ja",
-    "desc": "1943年の大晦日前夜、彰化の名医・賴和は慣例通り、貧しい患者の未払い帳票を燃やした。「台湾新文学の父」と讃えられるこの医師は、植民地の圧政の中でメスで命を救い、筆で不正を批判し、その作品「一桿稱仔（いっかんはかりこ）」は今なお台湾が権力の暴力に抗う文化的象徴となっている。",
+    "desc": "1943年の除夕前、彰化の名医・頼和は慣例として貧しい患者の未払い帳單を焼き捨てた。「台湾新文学の父」と称されるこの医師は、植民地支配の高圧的な状況下でメスで人を救い、筆を剣として不公正を批判した。彼の作品『一桿「稱仔」』は、今なお権力の暴力に抗う台湾の文化的象徴となっている。",
     "city": "彰化"
   },
   {
@@ -18469,14 +18876,14 @@
     "city": "高雄"
   },
   {
-    "title": "沈伯洋：彼は中国の認知戦を研究し、やがて中国は彼を衛星画像上に描き込みました",
+    "title": "沈伯洋：中国の認知戦を研究した結果、衛星写真に自宅が特定される",
     "lat": 25.040285,
     "lng": 121.559492,
     "category": "people",
     "region": "north",
     "link": "/ja/people/puma-shen",
     "lang": "ja",
-    "desc": "二〇二一年、沈伯洋は戦略研究者の何澄輝とともに黒熊学院を共同創設し、曹興誠が六億元を寄付して支援しました。目標は三年で三百万人の民防志士を訓練することでした。二〇二四年二月、民進党の比例代表立法委員として国会に入りました。二〇二五年十月二十八日、彼は中国から「国家分裂罪」で立件捜査された初の台湾の民選政治家となり、CCTVは「素性暴き」特集を添えて「次はあなたです」と警告しました。二〇二六年元日、中国の微博アカウントが商用衛星を使って、彼の台北の自宅と職場の座標を公開しました。バレンタインデーを、彼はフランスへ向かう機内で過ごしました。五月十三日、民進党は彼を台北市長選の候補として正式に擁立しました。彼が選挙に挑むのは、まさに衛星画像で座標を示されたその都市です。",
+    "desc": "2021年、沈伯洋は戦略学者の何澄輝と共に黒熊学院を共同設立しました。曹興誠からNT$6億の寄付を受け、3年間で300万人の民防志士を訓練することを目標としています。2024年2月には民進党の比例代表として国会に入りました。2025年10月28日、彼は中国によって「国家分裂罪」で立案捜査を受けた初の台湾選出政治家となり、CCTV（中国中央テレビ）は「正体を暴く」特集を組み、「次はあなただ」と警告しました。2026年の元旦には、中国のWeiboアカウントが商用衛星を用いて台北にある彼の自宅と勤務地の座標を公開しました。バレンタインデー、彼はフランスへ向かう機内で過ごしました。5月13日、民進党は彼を台北市長選への出馬に正式に召集しましたが、その選挙対象こそが、衛星写真によって座標を特定されたあの都市でした。",
     "city": "台北"
   },
   {
@@ -18623,14 +19030,14 @@
     "city": "台北"
   },
   {
-    "title": "史明：一つの餃子店で四十年の台湾革命を支えた",
+    "title": "史明（スー・ミン）：餃子店一軒で40年間、台湾の革命を支え続けた男",
     "lat": 25.036836,
     "lng": 121.565057,
     "category": "people",
     "region": "north",
     "link": "/ja/people/su-beng",
     "lang": "ja",
-    "desc": "史明（本名施朝暉）は中国で中共の地下情報員を務めたが、土改の大量殺戮を目の当たりにして幻滅し、台湾に戻って蔣介石暗殺を密謀した。計画が失敗し日本へ密航した後、東京・池袋に「新珍味」という麺店を開き、昼は餃子を販売し、夜は台湾史を書き続けた。この店の収入で四十年にわたる台湾独立運動を支え、また台湾民族意識を喚起する『台湾人四百年史』を執筆した。",
+    "desc": "史明の本名は施朝暉。かつて中国で共産党の地下工作員を務めたが、土地改革による虐殺を目の当たりにして幻滅し、帰台後に蔣介石暗殺を計画、失敗後に日本へ密航した。東京池袋の麺料理店「新珍味」を営みながら、昼は餃子を売り、夜は台湾史を執筆。その収益で40年間にわたり台湾独立運動を支え、『台湾人四百年史』を著して民族意識を呼び起こした。",
     "city": "台北"
   },
   {
@@ -18676,17 +19083,6 @@
     "lang": "ja",
     "desc": "戦後の廃墟から5か月での復電という奇跡、半導体産業への大胆な賭け。孫運璿はエンジニアとしての実直さと廉潔さで、台湾近代化の礎を築いた。",
     "city": "台北"
-  },
-  {
-    "title": "張艾嘉：嘉義から出発し、『童年』のオリジナル歌手から『相愛相親』の監督へ",
-    "lat": 23.480882,
-    "lng": 120.443577,
-    "category": "people",
-    "region": "south",
-    "link": "/ja/people/sylvia-chang",
-    "lang": "ja",
-    "desc": "1953年に嘉義市で生まれた張艾嘉は、17歳で『夢中人』により芸能界に入りました。『童年』（羅大佑が1981年に作曲）は彼女の歌であり、『愛的代價』（李宗盛が1992年に作曲）は彼女の最も広く知られる代表作です。1986年には『最愛』で金馬奨最優秀主演女優賞を受賞し、2017年には『相愛相親』で金馬奨最優秀監督賞と最優秀オリジナル脚本賞にノミネートされました。俳優、監督、歌手という三つの立場を五十年以上にわたり横断してきました。",
-    "city": "嘉義"
   },
   {
     "title": "戴資穎",
@@ -19074,17 +19470,6 @@
     "city": "高雄"
   },
   {
-    "title": "猪哥亮（チュー・ゴーリャン）",
-    "lat": 22.633565,
-    "lng": 120.301175,
-    "category": "people",
-    "region": "south",
-    "link": "/ja/people/zhuge-liang-showman",
-    "lang": "ja",
-    "desc": "本名は謝新達。1946年に高雄市左営区で生まれました。父は鍛冶屋、母は野菜売りでした。小学校卒業後に退学し、15歳で歌仔戯（台湾の伝統演劇）の師匠に弟子入りしました。1960年代には夜市で歌手の真似をすることから頭角を現し、1970年代に台湾の経済が急成長して夜間の娯楽需要が増えると、ショービジネス文化が誕生しました。彼は伝統的な戯曲や民俗芸能の語り、そして流行の要素を融合させた「猪式ユーモア」を生み出し、台湾語による即興の韻踏みを通じて、庶民の言葉をテレビのバラエティ番組へと押し上げました。2017年5月、大腸がんのため逝去しました。",
-    "city": "高雄"
-  },
-  {
     "title": "諸葛四郎：紅衣少年は如何審査をくぐり、台湾人の童心へと歩みついたのか",
     "lat": 24.801973,
     "lng": 120.968275,
@@ -19118,14 +19503,14 @@
     "city": "花蓮"
   },
   {
-    "title": "議員制度：なぜ立法委員と異なるのか、SNTVが地方政治に残り続けた30年",
+    "title": "議員制度：なぜ立法委員とは異なるのか、SNTVが地方政治に残り続けた30年",
     "lat": 25.029286,
     "lng": 121.572794,
     "category": "politics",
     "region": "north",
     "link": "/ja/politics/city-councilor-system-taiwan",
     "lang": "ja",
-    "desc": "2008年に立法委員が単一選挙区二票制に変更されたのと同じ年に、県市議員選挙は依然として1980年代のSNTV旧制度を使用していました — 同じ国、同じ有権者、同じ選挙公報上の異なるポジションでありながら、まったく異なる2つのゲームルールが適用されていました。これはバグではなく、台湾の選挙制度改革史上最大の未完の事業であり、その背景には地方派閥、政党利益、関連コストが絡んでいます。2つの制度がどのように機能するか、なぜ一方が変わって他方が変わらなかったのか、小党と多様な代表性にとって何を意味するかを解き明かす制度マップです。",
+    "desc": "2008年に立法委員の選挙制度が小選挙区比例代表並立制に変更されましたが、同年の市町村議会議員選挙では依然として1980年代のSNTV（単記移譲式投票）旧制が採用されています。同じ国、同じ有権者、同じ投票用紙上の異なる役職でありながら、全く異なる2つのルールが運用されているのです。これは単なるミスではなく、台湾の選挙制度改革史における最大の未完の課題であり、その背後には地方派閥、政党の利益、そして制度変更に伴うコストが絡み合っています。本記事では、2つの制度がどのように機能しているのか、なぜ一方は変わり、もう一方は変わらなかったのか、そしてそれが小政党や多様な代表性にどのような意味を持つのかを解き明かす制度マップを提供します。",
     "city": "台北"
   },
   {
@@ -20031,14 +20416,14 @@
     "city": "台南"
   },
   {
-    "title": "AIハードウェアサプライチェーン：台湾がクラウドをマシンに変える場所",
+    "title": "AIハードウェア・サプライチェーン：台湾がクラウドを「実体のある機械」に変える場所",
     "lat": 25.02621,
     "lng": 121.565746,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/ai-hardware-supply-chain",
     "lang": "ja",
-    "desc": "生成AIはクラウドサービスのように見えますが、実際には一連の物理的な道筋を必要とします：ある人はチップを設計し、ある人はウェーハを製造し、ある人はパッケージングを行い、さらにメモリ、電力、冷却、マザーボード、サーバーラックを処理する人々がいます。台湾の重要性はTSMC（台湾積体電路製造）の存在だけでなく、この道筋にある多くの重要な関門がここに集中していることにあります。この共通の利益は実在するものであり、水力・電力、炭素排出、所得分配、海外工場建設、地政学的リスクを伴いつつ、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えているのです。",
+    "desc": "生成AIはクラウドサービスのように見えますが、実際には物理的な経路を必要とします。チップ設計、ウェハー製造、封止、メモリ、電力、冷却、マザーボード、ラックに至るまで。台湾の重要性はTSMCだけでなく、この経路の重要な関門が集結している点にあります。",
     "city": "台北"
   },
   {
@@ -20130,6 +20515,17 @@
     "city": "台北"
   },
   {
+    "title": "Mini Taiwan Pulse：キュレーターの視点で、台湾を「呼吸する地図」へと描き出す",
+    "lat": 25.039524,
+    "lng": 121.560767,
+    "category": "technology",
+    "region": "north",
+    "link": "/ja/technology/mini-taiwan-pulse-civic-tech",
+    "lang": "ja",
+    "desc": "2026年、データアナリストのMigu氏はCSVファイルをKepler.glにドラッグし、画面上に初めての台湾地図を描き出した。2年後、GitHubで375スターを獲得した人気プロジェクト「mini-taiwan-pulse」は、空、海、大地、街路、廃棄物収集という5つのリアルタイムデータを重ね合わせ、動き続ける地図を実現した。中央政府の5万件、20以上の自治体プラットフォームに散らばるオープンデータは、人間の目では追いきれない。彼の解法は、人員を増やすことではなく、AI Agentが編成し自律的に成長するシステムに委ねることだった。都市計画で培ったキュレーションの視点から、tmux内で完結する火災分析パイプラインまで。一人のGitHubがいかにして一つの銀河系へと成長したのか。",
+    "city": "台北"
+  },
+  {
     "title": "台湾におけるNVIDIA：世界で最も高価な企業は、一つのチップも自社で作っていません",
     "lat": 25.028659,
     "lng": 121.56377,
@@ -20152,14 +20548,14 @@
     "city": "台北"
   },
   {
-    "title": "レイアーク：美学で立つ音楽帝国と、十四年の亀裂",
+    "title": "Rayark Games：美学を掲げる音楽帝国と、その14年間の亀裂",
     "lat": 25.033727,
     "lng": 121.559794,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/rayark-games",
     "lang": "ja",
-    "desc": "2012年、台大電資院出身の若者6人が3千万円を集めて『Cytus』を開発し、リリース1か月で14カ国のランキング1位に輝いた。十四年後、Deemoアニメ化、『インプロージョン』アニメは十一年経っても未納品、『Sdorica 万象物語』は2026年2月にメンテナンスモードに移行、2020年のICEモールス信号事件では従業員を切り離して中国市場を守る選択をした。美学がレイアークを世界に見せてくれた一方で、音楽以外の領域では何度も躓かせている。",
+    "desc": "2012年、台湾大学の電気情報工学科に所属する6人の若者が3,000万元を集めて『Cytus』を制作し、わずか1ヶ月で14カ国のチャートで1位を獲得しました。それから14年、彼らはDeemoのアニメ化、11年間未完のプロジェクト、2026年2月にメンテナンスモードへ移行するSdorica、そして2020年のICEモールス信号事件を経て中国市場を守るために従業員を切り離すという選択を経験してきました。美学はRayarkを世界に知らしめましたが、同時に音楽以外の領域において彼らを挫折させてきました。",
     "city": "台北"
   },
   {
@@ -20680,6 +21076,17 @@
     "city": "嘉義"
   },
   {
+    "title": "데이터로 보는 타이완 22개 현시: 가장 밀집된 곳과 가장 한적한 곳의 151배 차이, 노인과 아이의 비율은 1:1에서 3:1까지",
+    "lat": 23.486032,
+    "lng": 120.446016,
+    "category": "geography",
+    "region": "south",
+    "link": "/ko/geography/data-taiwan-22-cities",
+    "lang": "ko",
+    "desc": "같은 섬 안에서도 타이베이시는 km²당 8,975명인 반면 타이둥현은 59명에 불과해 151배 차이가 난다. 내정부 호정사의 2025년 말 데이터를 바탕으로 22개 현시의 초상을 그려본다: 인구의 70%가 30%의 토지에 밀집해 있으며, 노인 비율이 가장 높은 곳은 가장 밀집된 타이베이시이고, 노인 대 아이 비율이 가장 높은 가오슝현은 약 3:1에 달한다. 22개 현시 모두 예외 없이 사망자 수가 출생아 수를 넘어섰다.",
+    "city": "嘉義"
+  },
+  {
     "title": "대만 지도 읽는 법: 고구마에서 위성까지, 400년의 시선",
     "lat": 26.160873,
     "lng": 119.944153,
@@ -20878,6 +21285,17 @@
     "city": "南投"
   },
   {
+    "title": "열란차성: 한 성채의 네 가지 이름",
+    "lat": 22.996626,
+    "lng": 120.158025,
+    "category": "history",
+    "region": "south",
+    "link": "/ko/history/fort-zeelandia",
+    "lang": "ko",
+    "desc": "1624년, 네덜란드인들이 타이난 대원에서 한 요새를 재건해 처음엔 오란치성, 2년 후 열란차성이라 불렀다. 1662년 정성공이 9개월간 포위한 끝에 네덜란드 장관 코이타가 열쇠를 넘기며 이곳은 명정의 왕성이 되었다. 청대에 성벽이 헐려 억재금성을 짓는 데 쓰였고, 일제강점기 내성이 깎여 평탄해졌으며, 2022년 문화부가 잔적을 합병해 '열란차보 유구'로 개명했다. 네 개의 이름, 네 시기의 통치.",
+    "city": "台南"
+  },
+  {
     "title": "국가 철도 박물관: 기차 운행만을 위한 공장, 어떻게 도시로 되돌아왔는가",
     "lat": 25.026034,
     "lng": 121.562711,
@@ -21043,6 +21461,17 @@
     "city": "台東"
   },
   {
+    "title": "타이완 흰돌고래: 법정 서식지가 생겼는데도, 여전히 진정한 안전 해역은 없다",
+    "lat": 24.142982,
+    "lng": 120.672071,
+    "category": "nature",
+    "region": "central",
+    "link": "/ko/nature/taiwanese-white-dolphin",
+    "lang": "ko",
+    "desc": "2025년 11월, 번호 OCA023, 연구자들이 '시저스(Scissors)'라 부르던 성체 수컷 흰돌고래가 장화(彰化) 신강(伸港)에서 좌초사한 채 발견되어 2009년 이후 최소 10번째 사례가 되었다. 이 개체군이 속한 집단은 2002년 약 99마리로 추정되던 것이 2025년 45~50마리로 줄었고, 1년에 고작 두세 마리 새끼만 태어난다. 2020년 정부가 이들의 터전을 763㎢의 법정 중요서식환경으로 지정했으나, 2026년 타이중항(台中港)이 이 범위 안에서 폐토로 매립을 강행하자 환경단체들이 흰돌고래를 대리해 소송을 제기했다. 법정 지도엔 이미 선이 그어졌지만, 안전한 바다는 아직 없다.",
+    "city": "台中"
+  },
+  {
     "title": "앙드레 치앙: 무언가로 완전히 정의되기 전에, 그는 늘 먼저 돌아섰다",
     "lat": 24.750158,
     "lng": 121.75819,
@@ -21074,6 +21503,17 @@
     "lang": "ko",
     "desc": "지화이신은 Google DeepMind 연구 부사장이자, AI가 ‘한 걸음씩 추론하기’를 배우게 한 사고의 연쇄 논문의 공동 저자이다. 단수이에서 자란 이 타이완인은 인지심리학에서 말하는 ‘인간은 어떻게 학습하는가’라는 개념, 곧 피아제의 도식 이론을 기계에 추론을 가르치는 방법으로 바꾸었다. 그리고 AI를 바꾼 이 돌파구에는 약 5천 달러밖에 들지 않았다. 애초에 그것은 연산력으로 해결할 수 있는 문제가 아니었기 때문이다.",
     "city": "新北"
+  },
+  {
+    "title": "장완안: 변호사 출신 타이베이 시장, 임기 중 대거돔, 도시재생, 공관 원형교차로 및 재정배분법 논쟁",
+    "lat": 25.034083,
+    "lng": 121.563758,
+    "category": "people",
+    "region": "north",
+    "link": "/ko/people/chiang-wan-an",
+    "lang": "ko",
+    "desc": "장완안은 중국국민당 소속 타이베이 시장으로, 미국에서 변호사로 일했고 2대의 입법위원을 역임했으며 2022년 3자 경쟁에서 당선되었다. 임기 중 대거돔이 사용 허가를 획득했고, 시정부는 징화성의 용적률 인센티브를 취소했으며, 도시재생을 추진하고, 출산 장려금을 2배로 늘렸으며, 쌍북 세계장애인체육대회를 개최했고, 화평신생 천교와 공관 원형교차로를 철거했으며, 재정배분법 개정 후 지하철 보조금을 두고 행정원과 분쟁을 벌였고, 여러 차례 시장 신분으로 2·28 추도식에서 사과했다.",
+    "city": "台北"
   },
   {
     "title": "허팡이: 이란 1971, 그람 무용수단 수석에서 2024 금마 주시각 무용수까지",
@@ -21175,6 +21615,17 @@
     "city": "台北"
   },
   {
+    "title": "선보양: 중국의 인지전을 연구하던 그를, 이후 중국이 위성 지도에 표시했다",
+    "lat": 25.040902,
+    "lng": 121.565399,
+    "category": "people",
+    "region": "north",
+    "link": "/ko/people/puma-shen",
+    "lang": "ko",
+    "desc": "2021년 선보양은 전략 학자 허청후이와 함께 블랙베어 아카데미(Black Bear Academy)를 공동 설립했으며, 차오싱청으로부터 NT$6억을 지원받아 3년 내 300만 명의 민방위 자원봉사자를 양성하는 것을 목표로 삼았다. 2024년 2월에는 민진당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일, 그는 중국에 의해 '국가 분열죄'로 수사 대상이 된 최초의 대만 민선 정치인이 되었으며, CCTV는 '정체 폭로' 특집을 통해 '다음은 당신 차례'라며 경고했다. 2026년元旦(원단), 중국 웨이보 계정은 상업용 위성을 이용해 타이베이에 있는 그의 자택과 직장 좌표를 공개했고, 그는 발렌타인데이를 프랑스로 향하는 비행기 안에서 보냈다. 5월 13일 민진당은 그를 타이베이 시장 선거 후보로 공식 공천했으며, 그가 출마하려는 곳은 바로 위성 지도에 좌표가 표시되었던 그 도시였다.",
+    "city": "台北"
+  },
+  {
     "title": "시랑: 정씨 부장에서 청군 주장으로, 타이완의 존폐를 혼자 결정할 수 없다",
     "lat": 23.563903,
     "lng": 119.575061,
@@ -21195,17 +21646,6 @@
     "lang": "ko",
     "desc": "1981년 샌프란시스코의 한 전자 박람회, 덮으면 책처럼 보이는 플라스틱 케이스의 작은 컴퓨터 한 대에 미국 유통업체 20곳이 대리점 계약을 묻겠다며 몰려들었다 — 많은 타이완 사람들이 \"타이완이 직접 만든 컴퓨터\"를 처음 만져본 순간이었다. 이 컴퓨터를 만든 사람은 세 살 때 아버지를 과로로 여의고, 오리알과 애국복권을 팔던 어머니 손에 자랐다. 그는 Acer를 세계 5대 PC 브랜드로 키워냈고 훗날 교과서에 실리는 스마일 커브를 그렸으며, 카메라 앞에서 \"내가 가장 큰 패자다\"라고 말할 수 있었던 타이완의 몇 안 되는 테크 대부이기도 하다.",
     "city": "彰化"
-  },
-  {
-    "title": "장애가(張艾嘉): 가의(嘉義)에서 출발, 《童年》 원곡에서 《相애상친(相愛相親)》 감독까지",
-    "lat": 23.485408,
-    "lng": 120.445163,
-    "category": "people",
-    "region": "south",
-    "link": "/ko/people/sylvia-chang",
-    "lang": "ko",
-    "desc": "1953년 가의시(嘉義市)에서 태어난 장애가는 17세에 《몽중인(夢中人)》으로 연예계에 발을 들였다. 《童年》(나대우 1981년 작곡)은 그녀의 노래이고, 《애의 대가(愛的代價)》(이종성 1992년 작곡)은 그녀의 가장 널리 알려진 대표작이다. 1986년 《최애(最愛)》로 금마장(金馬獎) 여우주연상을 수상했으며, 2017년 《상애상친》은 금마장 감독상과 각본상에 후보에 올랐다. 배우, 감독, 가수 세 가지 정체성을 넘나들며 50년 이상 활동해 왔다.",
-    "city": "嘉義"
   },
   {
     "title": "어조: 이름은 길거리 분식 같은데, 소리는 사람 패는 하드코어",
@@ -21549,6 +21989,17 @@
     "city": "高雄"
   },
   {
+    "title": "Fort Zeelandia: Os quatro nomes de um castelo",
+    "lat": 22.997353,
+    "lng": 120.155031,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Em 1624, os holandeses reconstruíram uma fortaleza em Da-yuan, Tainan, chamando-a inicialmente de Fort Oranje; dois anos depois, mudou para Fort Zeelandia. Em 1662, após nove meses de cerco por Koxinga, o governador holandês entregou as chaves, e o local tornou-se a cidade real de Ming Zheng. Durante a dinastia Qing, as muralhas foram desmontadas para construir o Yizai Jincheng; na era japonesa, a parte interna foi nivelada; em 2022, o Ministério da Cultura unificou os vestígios sob o nome \"Estruturas do Forte Zeelandia\". Quatro nomes, quatro períodos de governo.",
+    "city": "台南"
+  },
+  {
     "title": "Porto de Taichung: como uma pedra lançou Wuqi ao mar e reescreveu a costa",
     "lat": 24.144299,
     "lng": 120.667169,
@@ -21615,6 +22066,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Golfinho-branco de Taiwan: mesmo com habitat legalmente designado, ainda não tem um mar verdadeiramente seguro",
+    "lat": 24.152899,
+    "lng": 120.677614,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Em novembro de 2025, um golfinho-branco macho adulto identificado como OCA023, apelidado de \"Scissors\" pelos pesquisadores, encalhou e morreu no porto de Shengang, em Changhua — pelo menos o décimo caso desde 2009. A população, estimada em cerca de 99 indivíduos em 2002, caiu para 45 a 50 em 2025, com apenas dois ou três filhotes nascendo por ano. Em 2020, o governo delimitou 763 km² como habitat importante legalmente protegido; em 2026, o porto de Taichung realizou aterro com solo dragado dentro dessa área, levando ONGs a anunciarem ação judicial. O mapa legal está desenhado, mas o mar seguro ainda não existe.",
+    "city": "台中"
+  },
+  {
     "title": "Coruja-pescadora-taiwanesa: seis quilómetros de rio para um casal, a rapina noturna no wu-hsin-shih (烏心石) a 1.800 metros",
     "lat": 24.163283,
     "lng": 121.613709,
@@ -21637,6 +22099,17 @@
     "city": "新北"
   },
   {
+    "title": "Chiang Wan-an: Prefeito de Taipei formado em Direito, e as controvérsias sobre o Domo de Taipei, renovação urbana, Roundabout de Gongguan e a Lei de Alocação Fiscal durante seu mandato",
+    "lat": 25.031239,
+    "lng": 121.568814,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Chiang Wan-an é prefeito de Taipei pelo Partido Nacionalista Chinês, trabalhou como advogado nos Estados Unidos, foi deputado por dois mandatos e foi eleito em 2022 em uma disputa triangular. Durante seu mandato, o Domo de Taipei obteve licença de operação, a prefeitura revogou incentivos de potencial construtivo para o Jinghua City, promoveu renovação urbana, dobrou o subsídio de natalidade, sediou os Jogos Mundiais de Desportos para Deficientes entre Taipei e Nova Taipei, demoliu a Passarela Heping-Xinsheng e o Roundabout de Gongguan, disputou com o Executivo sobre subsídios de metrô após a reforma da Lei de Alocação Fiscal, e pediu desculpas múltiplas vezes como prefeito em cerimônias de homenagem ao 28 de Fevereiro.",
+    "city": "台北"
+  },
+  {
     "title": "Lo Ta-yu: cantou todos os desarraigados de Taiwan, ele próprio mudou-se 19 vezes e ainda procura o caminho",
     "lat": 24.055721,
     "lng": 120.433231,
@@ -21646,6 +22119,17 @@
     "lang": "zh-TW",
     "desc": "Na década de 1970, na sala de dissecação de uma faculdade de medicina em Taichung, um estudante de radiologia escondia-se para praticar canto, porque \"lá a acústica é boa, ninguém saberia que estou cantando\". Mais tarde, ele escreveu \"Lukang, a Pequena Cidade\", \"Órfão da Ásia\", \"Pérola do Oriente\", perguntando por toda uma geração \"quem sou eu\". Mas este que cantou todos os desarraigados, ele próprio mudou-se de Taipei para Nova York, Hong Kong e Pequim, mudando-se 19 vezes em 29 anos. Aos 70 anos, disse que era apenas um \"sobrevivente notável\".",
     "city": "彰化"
+  },
+  {
+    "title": "Shen Bo-yang: Ele estudava a guerra cognitiva da China e, depois, a China o marcou em imagens de satélite",
+    "lat": 25.039335,
+    "lng": 121.567778,
+    "category": "people",
+    "region": "north",
+    "link": "/people/puma-shen",
+    "lang": "zh-TW",
+    "desc": "Em 2021, Shen Bo-yang cofundou o Black Bear Academy junto com o estudioso estratégico He Cheng-hui, contando com uma doação de NT$600 milhões de Cao Xing-cheng, com o objetivo de treinar três milhões de voluntários de defesa civil em três anos. Em fevereiro de 2024, ele ingressou no Parlamento como legislador do Partido Progressista Democrático (DPP) por lista de representação proporcional. Em 28 de outubro de 2025, tornou-se o primeiro político eleito em Taiwan a ser investigado pela China sob a acusação de \"crime de separatismo\", com a CCTV exibindo um especial de \"exposição\" que alertava: \"o próximo será você\". No dia 1º de janeiro de 2026, uma conta no Weibo da China utilizou imagens de satélite comercial para revelar as coordenadas de sua residência e local de trabalho em Taipei; ele passou o Dia dos Namorados em um voo rumo à França. Em 13 de maio, o DPP convocou oficialmente sua candidatura à prefeitura de Taipei, justamente a cidade cujas coordenadas foram marcadas pelo satélite.",
+    "city": "台北"
   },
   {
     "title": "Habitação nacional e justiça habitacional: as casas baratas do governo acabaram por alimentar a escada rolante de ativos de quem?",
@@ -21901,6 +22385,17 @@
     "city": "台北"
   },
   {
+    "title": "Форт Зееландия: одна крепость — четыре названия",
+    "lat": 22.99932,
+    "lng": 120.157968,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "В 1624 году голландцы перестроили форт в Таюане (Тайнань), сначала назвали его Оранже-стад, через два года — Форт Зееландия. В 1662 году Чжэнь Чэньгун (Коксингга) осадил его девять месяцев, голландский губернатор Койт сдал ключи, и здесь возникло царство Минь Чжэнь. В эпоху Цин стены разобрали для строительства форта Ицзай цзиньчэнь, в японскую эпоху внутренний город выровняли, а в 2022 году Министерство культуры объединило руины и переименовало в «Руины форта Зееландия». Четыре названия — четыре эпохи правления.",
+    "city": "台南"
+  },
+  {
     "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
     "lat": 24.142714,
     "lng": 120.681773,
@@ -21978,6 +22473,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Тайваньский белый дельфин: законная среда обитания есть, а настоящей безопасной акватории — нет",
+    "lat": 24.143412,
+    "lng": 120.669672,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "В ноябре 2025 года взрослый самец белого дельфина под номером OCA023, которого исследователи называли «Scissors», бросился на берег и погиб в Чэньган (Чжаньцзяо) в округе Чжаньхуа — уже как минимум десятый случай с 2009 года. Популяция, которой он принадлежал, сократилась с оцененных 99 особей в 2002 году до 45–50 в 2025 году, при этом за целый год рождается всего две-три детеныша. В 2020 году правительство обозначило их дом как 763 км² законной важной среды обитания, но в 2026 году порт Тайчжун начал засыпать эту территорию отвалами, и экологические организации объявили о намерении подать в суд за белых дельфинов. Законная карта нарисована, но безопасного моря всё ещё нет.",
+    "city": "台中"
+  },
+  {
     "title": "Чжэнь Чжонь: трех раз избран в Совет города Каосинга, два срока заканчиваются в законодательных актах",
     "lat": 22.633268,
     "lng": 120.306613,
@@ -21987,6 +22493,17 @@
     "lang": "zh-TW",
     "desc": "18 августа 2008 года началось обучение новозачисленным студентам юридической школы Университета Вирджинии, и Чжэнь Чжонь, который собирался получить степень J.D., не появился, и его право на поступление было отозвано в тот же день. После этого его трижды избирали в Совет города Каосинга, причем два срока заканчивались в момент окончательного решения суда, и в между времени он провел в тюрьме 272 дней. В решении, окончательно утвержденном в апреле 2023 года, лишение чинных полномочий не предусмотрено. Через месяц после этого был принят законопроект о запрете незаконных кандидатур, который не позволяет ему снова зарегистрироваться как кандидат.",
     "city": "高雄"
+  },
+  {
+    "title": "Цзян Ванъань: мэр Тайбэя, адвокат по профессии, и его деятельность в отношении Большого купола, городского обновления, кольца Гунгуань и спора о законе о распределении бюджета",
+    "lat": 25.02716,
+    "lng": 121.569554,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Цзян Ванъань — мэр Тайбэя из Китайской национальной партии, работавший адвокатом в США и дважды избиравшийся депутатом законодательного собрания. В 2022 году он был избран в трёхсторонней борьбе. Во время его мандата Большой купол получил лицензию на использование, администрация города отменила бонусы по площади для Jinghua City, продвигала городское обновление, удвоила пособие на рождение детей, провела спортивные игры Двух городов, снесла мост Хэпин-Синьшэн и кольцо Гунгуань, а также вела споры с Исполнительным юанем о дотациях на метро после пересмотра закона о распределении бюджета. Кроме того, несколько раз в качестве мэра приносил извинения на мероприятиях памяти 28 февраля.",
+    "city": "台北"
   },
   {
     "title": "Бадд-трі?te: студентка медичного факультета, девять лет обучения — год перерыва в обучении",
@@ -22000,14 +22517,14 @@
     "city": "新竹"
   },
   {
-    "title": "Шен Боян: он изучал информационную войну Китая, а потом Китай нанес его на спутниковый снимок",
+    "title": "Шэнь Боян: он изучал китайскую когнитивную войну, а затем Китай нанес его координаты на спутниковые снимки",
     "lat": 25.034242,
     "lng": 121.559743,
     "category": "people",
     "region": "north",
     "link": "/people/puma-shen",
     "lang": "zh-TW",
-    "desc": "В 2021 году Шен Боян совместно с ученым-стратегом Хэ Чэнхуем основал Академию Черный Медведь, получив поддержку в размере шести сотен миллионов от Ца Синчжэня. Цель заключалась в подготовке трех миллионов добровольцев по гражданской обороне за три года. В феврале 2024 года он вступил в законодательный орган как непартийный депутат от Демократической партии. 28 октября 2025 года он стал первым политиком из Тайваня, избранным на выборах, который был расследован Китаем по обвинению в «сепаратизме», когда CCTV выпустило специальный репортаж с предупреждением: «Следующий — ты». В новогоднюю ночь 2026 года китайский аккаунт Weibo опубликовал его домашний адрес и координаты работы в Тайбэе с помощью коммерческого спутникового снимка; на День святого Валентина он летал в самолете во Францию. 13 мая Демократическая партия официально выдвинула его кандидатом на пост мэра Тайбэя, города, чьи координаты были отмечены на спутниковой карте.",
+    "desc": "В 2021 году Шэнь Боян совместно со стратегом Хэ Чэнху основал Академию «Черного медведя» (Black Bear Academy); Цао Синчэн пожертвовал NT$600 миллионов на ее поддержку с целью обучить 3 миллиона добровольцев гражданской обороны в течение трех лет. В феврале 2024 года он вошел в состав парламента как депутат от Демократической прогрессивной партии (ДПП) по партийному списку. 28 октября 2025 года он стал первым избранным политиком Тайваня, в отношении которого Китай возбудил уголовное дело по обвинению в «преступлении, направленном на отделение государства»; при этом центральное телевидение Китая (CCTV) выпустило спецрепортаж под названием «Разоблачение», предупредив: «Следующим будете вы». В первый день 2026 года китайский аккаунт в Weibo опубликовал коммерческие спутниковые снимки с координатами его дома и места работы в Тайбэе; День святого Валентина он провел в самолете, летящем во Францию. 13 мая ДПП официально выдвинула его кандидатом на пост мэра Тайбэя — того самого города, координаты которого были отмечены на спутниковых картах.",
     "city": "台北"
   },
   {
@@ -22062,7 +22579,7 @@
     "region": "north",
     "link": "/society/public-housing-justice",
     "lang": "zh-TW",
-    "desc": "В 1985 году за пин в жилом комплексе «Успех» просили 67 тысяч, и покупателей не было; старый староста общины собрал 400 тысяч первоначального взноса, потратив все сбережения. Сорок лет спустя тот же адрес приближается к миллиону за пин. Нацжилищные комплексы создавались как инструмент «помочь людям купить жилье», но никогда не были оснащены шлюзом возврата прироста стоимости — публичные субсидии в итоге превратились в частные активы ранних покупателей. В 2026 году Таоюань устанавливает этот шлюз обратно, что равносильно признанию ошибки нацжилищных комплексов.",
+    "desc": "В 1985 году за пин в жилом комплексе «Чэнгун» просили 67 тысяч, и покупателей не было; старый староста общины собрал 400 тысяч первоначального взноса, потратив все сбережения. Сорок лет спустя тот же адрес приближается к миллиону за пин. Нацжилищные комплексы создавались как инструмент «помочь людям купить жилье», но никогда не были оснащены шлюзом возврата прироста стоимости — публичные субсидии в итоге превратились в частные активы ранних покупателей. В 2026 году Таоюань устанавливает этот шлюз обратно, что равносильно признанию ошибки нацжилищных комплексов.",
     "city": "台北"
   },
   {
@@ -22341,6 +22858,17 @@
     "city": "新竹"
   },
   {
+    "title": "Fort Zeelandia: Bốn cái tên của một tòa thành",
+    "lat": 23.000185,
+    "lng": 120.163533,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Năm 1624, người Hà Lan tái thiết một pháo đài tại Đại Viên, Đài Nam, ban đầu gọi là Fort Oranje, hai năm sau đổi tên thành Fort Zeelandia. Năm 1662, sau khi Trịnh Thành Công bao vây thành suốt chín tháng, thống đốc Hà Lan buộc phải bàn giao chìa khóa, nơi đây trở thành vương thành của nhà Minh Trịnh. Dưới thời nhà Thanh, tường thành bị dỡ bỏ để xây dựng Ức Tái Kim Thành; thời Nhật Bản, nội thành bị san phẳng; đến năm 2022, Bộ Văn hóa đã hợp nhất các di tích và đổi tên thành \"Di tích pháo đài Zeelandia\". Bốn cái tên, bốn giai đoạn cai trị.",
+    "city": "台南"
+  },
+  {
     "title": "Gia Nghĩa Nông Lâm: Một đội bóng á quân, làm thế nào để mở cửa Koshien cho Taiwan",
     "lat": 23.479391,
     "lng": 120.453998,
@@ -22407,6 +22935,28 @@
     "city": "苗栗"
   },
   {
+    "title": "Cá heo trắng Đài Loan: Dù đã có môi trường sống được luật pháp công nhận, chúng vẫn chưa có một vùng biển thực sự an toàn",
+    "lat": 24.152609,
+    "lng": 120.676214,
+    "category": "nature",
+    "region": "central",
+    "link": "/nature/taiwanese-white-dolphin",
+    "lang": "zh-TW",
+    "desc": "Tháng 11 năm 2025, một con cá heo trắng đực trưởng thành mang số hiệu OCA023, được các nhà nghiên cứu gọi là \"Scissors\", đã mắc cạn và chết tại Thân Cảng (Shengang), Chương Hóa; đây là trường hợp ít nhất thứ mười kể từ năm 2009. Quần thể của nó đã giảm từ ước tính khoảng 99 con vào năm 2002 xuống còn 45 đến 50 con vào năm 2025, với tỉ lệ sinh chỉ đạt hai đến ba con non mỗi năm. Năm 2020, chính phủ đã khoanh vùng ngôi nhà của chúng thành môi trường sống quan trọng được luật pháp công nhận rộng 763 km², nhưng đến năm 2026, cảng Đài Trung lại tiến hành lấn biển bằng đất thải ngay trong phạm vi này, khiến các nhóm bảo vệ môi trường tuyên bố sẽ khởi kiện thay cho loài cá heo trắng. Bản đồ pháp lý đã vẽ xong, nhưng vùng biển an toàn thì vẫn chưa.",
+    "city": "台中"
+  },
+  {
+    "title": "Tưởng Vạn An: Thị trưởng Đài Bắc xuất thân luật sư, những tranh chấp về Đại Cự Đản, chỉnh trang đô thị, vòng xoay Công quán và Luật Quy hoạch Tài chính trong nhiệm kỳ",
+    "lat": 25.037016,
+    "lng": 121.571575,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chiang-wan-an",
+    "lang": "zh-TW",
+    "desc": "Tưởng Vạn An là Thị trưởng Đài Bắc thuộc Trung Quốc Quốc dân đảng, từng làm luật sư tại Hoa Kỳ và đảm nhiệm hai nhiệm kỳ lập pháp viên, đắc cử trong cuộc đua ba bên năm 2022. Trong nhiệm kỳ của mình, ông đã giúp Đại Cự Đản nhận giấy phép sử dụng, chính quyền thành phố thu hồi ưu đãi hệ số sử dụng đất của Kinh Hoa Thành, thúc đẩy chỉnh trang đô thị, tăng gấp đôi tiền thưởng sinh con, tổ chức Đại hội Thể thao Thế hệ mới Song Bắc, dỡ bỏ cầu vượt Hòa Bình Tân Sinh và vòng xoay Công quán, đồng thời tranh luận với Viện Hành chính về trợ cấp MRT sau khi sửa đổi Luật Quy hoạch Tài chính, cũng như nhiều lần thay mặt Thị trưởng gửi lời xin lỗi tại Lễ tưởng niệm sự kiện 228.",
+    "city": "台北"
+  },
+  {
     "title": "Lưu Minh Truyền: Thắp sáng ngọn đèn đầu tiên của Đài Loan, tiên phong hiện đại hoá trong quyền lực và tranh cãi",
     "lat": 25.029306,
     "lng": 121.560765,
@@ -22415,6 +22965,17 @@
     "link": "/people/liu-mingchuan",
     "lang": "zh-TW",
     "desc": "Từ con trai chủ buôn muối đến quan chức đầu tiên của Đài Loan, Lưu Minh Truyền trong sáu năm tại Đài Loan không chỉ thúc đẩy đường sắt và dịch vụ bưu chính, mà còn thắp sáng ngọn đèn điện đầu tiên của đế quốc Thanh trong thành phố Đài Bắc. Tuy nhiên, quyết định chiến lược \"rút khỏi Cơ Long để hỗ trợ Hỏa Ngoại\", cùng với chính sách quản lý dân bản địa và canh tân thuế bạo tàn, cũng để lại những tranh cãi sâu sắc và bóng tối trong lịch sử.",
+    "city": "台北"
+  },
+  {
+    "title": "Thẩm Bá Dương: Nghiên cứu về chiến tranh nhận thức của Trung Quốc, sau đó bị phía Trung Quốc đánh dấu tọa độ trên ảnh vệ tinh",
+    "lat": 25.033395,
+    "lng": 121.561945,
+    "category": "people",
+    "region": "north",
+    "link": "/people/puma-shen",
+    "lang": "zh-TW",
+    "desc": "Năm 2021, Thẩm Bá Dương cùng học giả chiến lược Hà Trừng Huy đồng sáng lập Học viện Gấu Đen (Black Bear Academy), được Tào Hưng Thành quyên góp NT$600 triệu để hỗ trợ với mục tiêu đào tạo 3 triệu tình nguyện viên dân phòng trong vòng ba năm. Tháng 2 năm 2024, ông gia nhập Quốc hội với tư cách là lập pháp viên không phân khu của Đảng Dân tiến. Ngày 28 tháng 10 năm 2025, ông trở thành chính trị gia dân cử đầu tiên của Đài Loan bị Trung Quốc lập án điều tra với tội danh \"chia cắt đất nước\", trong khi đài CCTV thực hiện chuyên đề \"bóc trần\" kèm lời cảnh báo \"người tiếp theo sẽ là bạn\". Vào ngày 1 tháng 1 năm 2026, một tài khoản Weibo của Trung Quốc đã sử dụng ảnh vệ tinh thương mại để công bố tọa độ nhà riêng và nơi làm việc của ông tại Đài Bắc; ông đã trải qua ngày Lễ Tình nhân trên chuyến bay đến Pháp. Ngày 13 tháng 5, Đảng Dân tiến chính thức triệu tập ông tranh cử Thị trưởng Đài Bắc, chính là thành phố đã bị đánh dấu tọa độ trên ảnh vệ tinh.",
     "city": "台北"
   },
   {

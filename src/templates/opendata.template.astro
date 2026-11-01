@@ -16,12 +16,18 @@
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import { getLangFromUrl } from '../i18n/utils';
-import { OPENDATA_CONTENT, type OpendataLang } from '../data/opendata-content';
+import {
+  getOpendataContent,
+  type OpendataLang,
+} from '../data/opendata-content';
+import { getOpendataUi } from '../data/opendata-ui';
 import curation from '../data/opendata-curation.json';
 import langSwitchMap from '../../public/api/lang-switch-map.json';
 
 const lang = getLangFromUrl(Astro.url) as OpendataLang;
-const c = OPENDATA_CONTENT[lang] ?? OPENDATA_CONTENT['zh-TW'];
+// 六語有完整內容；vi/id/pt/hi/ar/ru/de 是英文底稿 + overlay；其餘語言退英文（絕不退中文）。
+const c = getOpendataContent(lang);
+const ui = getOpendataUi(lang);
 
 // 文章連結跨語言解析：content 層的 href 一律寫 zh 路徑（SSOT），
 // 非中文頁面渲染時查 prebuilt lang-switch-map 換成該語言的譯版路徑；
@@ -103,26 +109,26 @@ const freqBuckets = FREQ_ORDER.map((f) => ({
 const verticalCorpora = [
   {
     id: 'v-judicial',
-    label: '判決書',
+    label: ui.corpus.judicial,
     count: 1240000,
     domain: 'judicial_legal',
   },
   {
     id: 'v-exam',
-    label: '國考題庫',
+    label: ui.corpus.exam,
     count: 320663,
     domain: 'education_research',
   },
   {
     id: 'v-nutrition',
-    label: '食品營養',
+    label: ui.corpus.nutrition,
     count: 226825,
     domain: 'health_food',
   },
-  { id: 'v-drug', label: '藥品許可證', count: 71836, domain: 'health_food' },
+  { id: 'v-drug', label: ui.corpus.drug, count: 71836, domain: 'health_food' },
   {
     id: 'v-patent',
-    label: '發明專利',
+    label: ui.corpus.patent,
     count: null,
     domain: 'economy_business',
   },
@@ -139,6 +145,13 @@ for (const m of c.domains.map) {
   }
 }
 const graphData = {
+  ui: {
+    domain: ui.kindDomain,
+    vertical: ui.kindVertical,
+    article: ui.kindArticle,
+    center: ui.kindCenter,
+    records: ui.records,
+  },
   nodes: [
     { id: 'c', type: 'center', label: c.hero.viz.legend.center },
     ...domains.map((d) => ({ id: d.key, type: 'domain', label: d.name_zh })),
@@ -367,7 +380,7 @@ const graphData = {
                     </div>
                   ) : (
                     <div class="mb-3 text-[11px] text-[#a78bda]">
-                      全文語意檢索
+                      {ui.fullText}
                     </div>
                   )}
                   <p class="text-[13px] leading-[1.7] text-[#a8b6c8]">
@@ -560,7 +573,8 @@ const graphData = {
                   </div>
                   <div class="h-px w-full bg-white/15" />
                   <div class="text-center text-[12px] font-medium text-[#a8b6c8]">
-                    {b.freq.replace('更新', '')}
+                    {ui.freq[b.freq.replace('更新', '')] ??
+                      b.freq.replace('更新', '')}
                     <span class="ml-1 text-[#64748b]">×{b.items.length}</span>
                   </div>
                 </div>
@@ -972,15 +986,18 @@ const graphData = {
           });
           var kind =
             n.type === 'domain'
-              ? '資料領域'
+              ? data.ui.domain
               : n.type === 'vertical'
-                ? '垂直語料庫' +
+                ? data.ui.vertical +
                   (n.count
-                    ? '・' + n.count.toLocaleString('en-US') + ' 筆'
+                    ? '・' +
+                      n.count.toLocaleString('en-US') +
+                      ' ' +
+                      data.ui.records
                     : '')
                 : n.type === 'article'
-                  ? 'Taiwan.md 文章・點擊閱讀'
-                  : '意義策展層';
+                  ? data.ui.article
+                  : data.ui.center;
           tip.innerHTML = '<strong>' + n.label + '</strong><br>' + kind;
           tip.style.opacity = '1';
         })

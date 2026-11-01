@@ -1,0 +1,86 @@
+{
+  "name": "Taiwan.md 識別系統 v2 色彩 tokens",
+  "version": "2.0.0",
+  "date": "2026-10-22",
+  "modes": {
+    "light": {
+      "surface": "#ffffff",
+      "tokens": {
+        "paper": "#ffffff",
+        "paper-2": "#f3f6f5",
+        "paper-3": "#e8eeec",
+        "line": "#dce3e1",
+        "line-strong": "#7f8d8c",
+        "ink-1": "#13222a",
+        "ink-2": "#435258",
+        "ink-3": "#5d6c71",
+        "brand": "#007864",
+        "brand-strong": "#005a4b",
+        "brand-soft": "#e0f0eb",
+        "on-brand": "#ffffff",
+        "signal": "#b0125f",
+        "signal-soft": "#fbe7f0",
+        "ok": "#2f7a3e",
+        "warn": "#9a5b00",
+        "bad": "#b3261e"
+      }
+    },
+    "dark": {
+      "surface": "#0f1b1f",
+      "tokens": {
+        "paper": "#0f1b1f",
+        "paper-2": "#152429",
+        "paper-3": "#1c2e34",
+        "line": "#26383e",
+        "line-strong": "#5f7479",
+        "ink-1": "#e9f0ee",
+        "ink-2": "#b9c6c5",
+        "ink-3": "#8d9d9e",
+        "brand": "#45c2ab",
+        "brand-strong": "#7dd8c6",
+        "brand-soft": "#173a36",
+        "on-brand": "#0b1517",
+        "signal": "#f27cb4",
+        "signal-soft": "#3a1a2a",
+        "ok": "#7cc68a",
+        "warn": "#e2a64b",
+        "bad": "#f08a82"
+      }
+    }
+  },
+  "text_pairs": [
+    ["ink-1", "surface"],
+    ["ink-2", "surface"],
+    ["ink-3", "surface"],
+    ["ink-1", "paper-2"],
+    ["ink-2", "paper-2"],
+    ["ink-3", "paper-2"],
+    ["ink-2", "paper-3"],
+    ["brand", "surface"],
+    ["brand", "paper-2"],
+    ["brand-strong", "brand-soft"],
+    ["on-brand", "brand"],
+    ["signal", "surface"],
+    ["signal", "signal-soft"],
+    ["ok", "surface"],
+    ["warn", "surface"],
+    ["bad", "surface"],
+    ["line-strong", "surface", "large"]
+  ],
+  "categorical": {
+    "light": ["#00806b", "#3b5bab", "#b0125f", "#5d7a1c", "#7b55a8", "#b5651d"],
+    "dark": ["#2fa38e", "#6b86d0", "#d9579a", "#7f9a35", "#9c7fcf", "#c27a30"]
+  },
+  "sequential": {
+    "light": ["#86c3b5", "#4fa392", "#1f8571", "#006652", "#00463a"],
+    "dark": ["#1f5c52", "#2a7f71", "#3ea592", "#6cc8b6", "#a6e6d9"]
+  },
+  "categorical_names": [
+    "臺灣青",
+    "藍鵲藍",
+    "九重葛",
+    "相思綠",
+    "苦楝紫",
+    "紅磚橙"
+  ]
+}

@@ -254,7 +254,7 @@ Aquel niño que creció en Lukang viendo a su madre vender huevos de pato, al fi
 
 [^26]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/about_pages/adde94) — Página oficial de la Fundación Stan que detalla los tres pilares del Wangdao: crear valor, equilibrio de intereses y gestión sostenible; el concepto de "valor explícito" vs. "valor implícito".
 
-[^22]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/articles/0828c8) — Igual que el anterior, donde define valor explícito como tangible y directo (ganar dinero), e implícito como intangible y futuro (marca, talento).
+[^27]: [智榮基金會：核心理念（王道）](https://stansfoundation.org/about_pages/adde94) — Igual que el anterior, donde define valor explícito como tangible y directo (ganar dinero), e implícito como intangible y futuro (marca, talento).
 
 [^28]: [商業周刊：為什麼創辦人施振榮說「我是最大輸家」](https://www.businessweekly.com.tw/management/blog/3009647) — Columna de Guo Yiling en Business Weekly, donde cita a Shi Zhen-rong: «Toda la sociedad de Taiwán se preocupa demasiado por el valor explícito (ganar dinero)».
 

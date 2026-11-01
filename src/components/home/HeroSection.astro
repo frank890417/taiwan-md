@@ -4,6 +4,7 @@ import HeroStats from '../HeroStats.astro';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -71,20 +72,13 @@ const t = useTranslations(lang);
         class="group inline-flex items-center gap-2 rounded-md bg-white/95 px-8 py-[0.8rem] text-[0.95rem] font-semibold tracking-[0.02em] text-[#004d40] no-underline transition-all duration-300 hover:-translate-y-px hover:bg-white hover:shadow-[0_4px_12px_rgba(0,0,0,0.15)] max-[768px]:w-full max-[768px]:max-w-[300px] max-[768px]:justify-center max-[768px]:px-6 max-[768px]:py-[0.6rem] max-[480px]:px-8 max-[480px]:py-5 max-[480px]:text-base"
       >
         <span>{t('home.hero.cta.explore')}</span>
-        <svg
-          class="transition-all duration-300 group-hover:translate-x-[3px]"
-          width="20"
-          height="20"
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
-        </svg>
+        <Fragment
+          set:html={iconSvg(
+            'arrow',
+            '',
+            'transition-all duration-300 group-hover:translate-x-[3px]',
+          )}
+        />
       </a>
       <a
         href="https://github.com/frank890417/taiwan-md"

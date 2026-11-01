@@ -1,6 +1,6 @@
 ---
 title: 'Katalog Modul Visualisasi: Sembilan Belas Cara Melihat Data Taiwan'
-description: 'Contoh langsung modul visualisasi artikel Taiwan.md — menggunakan data nyata perumahan, kependudukan, kesehatan, dan parlemen Taiwan, merender setiap jenis modul visual tw-* sekali, dipadukan dengan sintaksis dan prinsip desain graph.md.'
+description: 'Contoh hidup modul visualisasi artikel Taiwan.md — dengan data nyata perumahan, kependudukan, kesehatan, dan parlemen Taiwan, setiap modul visual tw-* dirender satu kali, lengkap dengan sintaksis dan prinsip desain dari graph.md.'
 date: 2026-06-06
 category: 'About'
 tags:
@@ -21,61 +21,61 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6a367e7b90a88190'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-08-02T17:34:18.442783+00:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-24T01:19:36+08:00'
 ---
 
 # Katalog Modul Visualisasi: Sembilan Belas Cara Melihat Data Taiwan
 
-> **Ringkasan 30 detik:** Halaman ini adalah «contoh hidup» sistem visualisasi Taiwan.md — merender kesembilan belas modul visual dalam artikel sekaligus, semuanya menggunakan data Taiwan yang nyata (rasio harga rumah terhadap pendapatan, perumahan nasional, penuaan penduduk, referendum, rasio perawat-pasien, kursi legislatif). Ia adalah pasangan dari panduan editorial [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **graph.md menjelaskan «kapan menggunakan yang mana, bagaimana caranya yang baik, sintaksnya seperti apa», halaman ini memungkinkan Anda langsung melihat «bentuknya seperti apa».** Setiap modul dirender dengan HTML/SVG murni, sehingga manusia, pembaca layar, Google, dan perayap AI semua membaca data yang sama persis — inilah alasan kami memilih visualisasi statis, bukan grafik interaktif.
+> **Ringkasan 30 detik:** Halaman ini adalah «contoh hidup» sistem visualisasi Taiwan.md — kesembilan belas modul visual dalam artikel dirender masing-masing satu kali, semuanya memakai data Taiwan yang nyata (rasio harga rumah terhadap pendapatan, perumahan nasional, penuaan penduduk, referendum, rasio perawat-pasien, kursi legislatif). Halaman ini adalah pasangan panduan editorial [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **graph.md menjelaskan «kapan memakai yang mana, bagaimana membuatnya dengan baik, dan bagaimana sintaksnya», sedangkan halaman ini membiarkan Anda langsung melihat «seperti apa tampilannya».** Setiap modul dirender murni dengan HTML/SVG, sehingga manusia, pembaca layar, Google, dan perayap AI membaca satu data yang sama — inilah alasan kami memilih visualisasi statis, bukan grafik interaktif.
 
-Saat menulis artikel yang membahas angka, ketakutan terbesar adalah mengubah data menjadi tumpukan angka paragraf demi paragraf, pembaca jenuh di persentase ketiga. Pekerjaan visualisasi, adalah membalik «prosa angka yang padat» itu menjadi «struktur yang terbaca sekilas».
+Saat menulis artikel tentang angka, yang paling ditakuti adalah data berubah menjadi tumpukan angka dari paragraf ke paragraf, hingga pembaca melamun di persentase ketiga. Tugas visualisasi adalah membalik «prosa angka yang padat» menjadi «struktur yang terbaca sekilas».
 
-Tetapi visualisasi Taiwan.md memiliki satu disiplin yang tidak dimiliki orang lain: **kami hanya membuat visualisasi yang «dapat dibaca LLM»**. Grafik interaktif berbekal D3 atau Canvas memang menawan, tetapi GPTBot, PerplexityBot, ClaudeBot — perayap AI ini tidak mengeksekusi JavaScript, bagi mereka grafik itu hanya kanvas kosong. Sementara visualisasi kami yang dibangun dengan semantic HTML dan inline SVG, datanya ada di kode sumber, AI di enam bahasa pun bisa membaca, mengutip data Taiwan dari sudut pandang pertama. **Visualisasi yang bisa dibaca LLM, adalah visualisasi kedaulatan.**
+Namun visualisasi Taiwan.md punya satu disiplin yang tidak dimiliki yang lain: **kami hanya membuat visualisasi yang «bisa dibaca LLM juga»**. Grafik interaktif dari D3 atau Canvas memang memukau, tetapi perayap AI seperti GPTBot, PerplexityBot, dan ClaudeBot tidak menjalankan JavaScript; bagi mereka grafik itu hanya ruang kosong. Sebaliknya, grafik kami yang dibuat dengan semantic HTML dan inline SVG menyimpan datanya di kode sumber, sehingga AI di enam bahasa dapat membaca dan mengutip data Taiwan dari sudut pandang orang pertama. **Visualisasi yang bisa dibaca LLM adalah visualisasi kedaulatan.**
 
-Di bawah ini sembilan belas modul, dari «satu angka besar» paling sederhana hingga «peta bata kabupaten/kota» dan «busur kursi», ditampilkan berurutan. Sintaks penulisan dan prinsip desain versi lengkapnya ada di graph.md, di sini hanya diberi satu kalimat «ini apa, kapan dipakai».
+Sembilan belas modul di bawah ini ditampilkan berurutan, dari yang paling sederhana, «satu angka besar», hingga «peta ubin kabupaten/kota» dan «busur kursi». Versi lengkap sintaksis dan prinsip desainnya ada di graph.md; di sini hanya satu kalimat tentang «ini apa dan kapan dipakai».
 
-## Angka Besar Data tw-figure
+## Angka Besar tw-figure
 
-Jenis paling sederhana sekaligus paling berdaya dorong: menaruh satu angka dramatis sebesar-besarnya, konteks sebelum-sesudah menceritakan satu transformasi. Cocok jadi «statistik palu» pembuka artikel.
+Jenis yang paling sederhana sekaligus paling kuat: menaruh satu angka dramatis sebesar-besarnya, lalu perbandingan sebelum dan sesudahnya menceritakan satu transformasi. Cocok sebagai «statistik palu godam» yang langsung ke pokok persoalan di pembuka.
 
 ```tw-figure
-6,7 ribu → 87 ribu / ping
-Perumahan Nasional Sukses Taipei harga jual tersisa 1985, hingga harga rata-rata agen properti 2026 — alamat yang sama, kira-kira 13 kali lipat
-Platform Informasi Properti Kementerian Dalam Negeri
+67 ribu → 870 ribu / ping
+Harga jual Perumahan Nasional Chenggong di Taipei yang tak laku pada 1985, hingga harga rata-rata agen properti pada 2026 — alamat yang sama, sekitar 13 kali lipat
+Platform agen properti harga transaksi riil (Perumahan Nasional Chenggong)
 ```
 
-## Data Group tw-stat
+## Kelompok Angka tw-stat
 
-Saat sebuah paragraf berisi tiga hingga empat angka kunci berdampingan, alih-alih menulisnya sebagai satu kalimat panjang, lebih baik menyusunnya menjadi deretan kartu, agar pembaca bisa melihat sekilas semuanya.
+Ketika satu paragraf memuat tiga-empat angka kunci yang berjajar, daripada ditulis sebagai satu kalimat panjang, lebih baik disusun menjadi satu baris kartu agar pembaca bisa memindai semuanya sekilas.
 
 ```tw-stat
-174.891 rumah tangga | Perumahan nasional dibangun langsung oleh pemerintah | 1976–1999
+174.891 rumah tangga | Perumahan nasional yang dibangun langsung oleh pemerintah | 1976–1999
 390.000+ rumah tangga | Total perumahan nasional dalam arti luas | Hingga dicabut 2015
 84,4% | Tingkat kepemilikan rumah seluruh Taiwan | 2024
-Sumber: Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional, Platform Informasi Properti Kementerian Dalam Negeri
+Sumber: Siaran pers Dewan Eksekutif (Yuan Eksekutif) tentang pencabutan Undang-Undang Perumahan Nasional, Platform Informasi Properti Kementerian Dalam Negeri
 ```
 
-Modul editor berisi data (grup data, kartu perbandingan, sumbu kebijakan) sama seperti modul grafik harus diberi label `Sumber:`. Audit seluruh situs Juli 2026 menemukan, modul yang dipantau gerbang otomatis memiliki tingkat penandaan sumber 100%, sedangkan yang tidak dipantau justru adalah ketiga modul berfrekuensi tinggi ini, empat puluh persen contohnya tanpa penandaan sumber. Sekarang mereka juga masuk ke gerbang viz-health.
+Modul editorial yang memuat data (kelompok angka, kartu perbandingan, sumbu kebijakan) harus diberi label `Sumber:` seperti modul grafik. Audit seluruh situs pada Juli 2026 menemukan bahwa modul yang diawasi gerbang otomatis memiliki tingkat pencantuman sumber 100%, sedangkan yang tidak diawasi justru tiga modul berfrekuensi tinggi ini, dengan empat puluh persen contoh tanpa sumber sama sekali. Kini ketiganya juga masuk ke gerbang viz-health.
 
 ## Kartu Perbandingan tw-versus
 
-Perbandingan titik per titik antara dua sistem, dua posisi, atau dua kondisi sebelum-sesudah. Warna hangat di kiri, warna dingin di kanan, satu "vs" di tengah, memungkinkan perbedaan dibaca baris per baris.
+Perbandingan poin demi poin antara dua sistem, dua posisi, atau dua keadaan sebelum dan sesudah. Warna hangat di kiri, warna dingin di kanan, dengan satu «vs» di tengah, sehingga perbedaannya dapat dibaca baris demi baris.
 
 ```tw-versus
-Perumahan Nasional Taiwan | Home Ownership Scheme Hong Kong
-Subsidi pemerintah, dijual murah ke penghuni | Subsidi pemerintah, dijual murah ke penghuni
-Setelah tinggal satu tahun bisa dijual kembali harga pasar penuh | Penjualan kembali di pasar terbuka harus "membayar nilai tanah" terlebih dahulu
-Penambahan nilai hampir seluruhnya milik pribadi | Penambahan nilai dikembalikan ke kas negara sesuai proporsi diskon asal
-Stok publik hilang sekaligus | Keuntungan publik bisa dikembalikan
+Perumahan nasional Taiwan | Home Ownership Scheme Hong Kong
+Subsidi pemerintah, dijual murah kepada penghuni | Subsidi pemerintah, dijual murah kepada penghuni
+Setelah tinggal satu tahun boleh dijual kembali dengan harga pasar penuh | Penjualan kembali di pasar terbuka harus lebih dulu «membayar premi tanah»
+Kenaikan nilai hampir seluruhnya menjadi milik pribadi | Kenaikan nilai dikembalikan ke kas publik sesuai proporsi diskon semula
+Stok publik hilang sekaligus | Keuntungan publik bisa ditarik kembali
 Sumber: Berita Resmi Yuan Legislatif, Otoritas Perumahan Hong Kong
 ```
 
 ## Batang Proporsi tw-bars
 
-Perbandingan atau peringkat nilai untuk sedikit kategori, panjang batang horizontal akan otomatis diskalakan sesuai nilai, nilai maksimum memenuhi lebar. Ingat tambahkan baris `Sumber:` di akhir modul data, akan otomatis menjadi keterangan sumber di bawah.
+Untuk perbandingan nilai atau peringkat dari sedikit kategori, panjang batang horizontal otomatis diskalakan sesuai nilai, dengan nilai terbesar memenuhi lebar. Ingat menambahkan satu baris `Sumber:` di akhir modul data; baris itu otomatis menjadi keterangan sumber di bawahnya.
 
 ```tw-bars
 Nasional 2014 | 8,41 kali
@@ -86,62 +86,62 @@ Sumber: Platform Informasi Properti Kementerian Dalam Negeri, Pusat Penelitian P
 
 ## Diagram Waffle tw-waffle
 
-Komposisi proporsi bagian terhadap keseluruhan, seratus kotak mewakili seratus persen, lebih intuitif dari diagram pai—Anda benar-benar bisa menghitung kotaknya. Cocok untuk data "masing-masing kategori berapa persen" yang jumlahnya kira-kira 100.
+Komposisi proporsi bagian terhadap keseluruhan: seratus kotak mewakili seratus persen, lebih intuitif daripada diagram lingkaran — Anda benar-benar bisa menghitung kotaknya. Cocok untuk data «berapa persen tiap kategori» yang jumlahnya sekitar 100.
 
 ```tw-waffle
-Komposisi Perumahan Vienna (2023)
-Perumahan Sosial Pemerintah Kota | 21,9
-Perumahan Sosial Batas Laba | 21,4
-Rumah Milik Sendiri | 20,4
-Sewa Swasta | 36,3
-Sumber: Pemerintah Kota Vienna (Stadt Wien) Statistik Perumahan
+Komposisi hunian di Wina (2023)
+Perumahan sosial milik kota | 21,9
+Perumahan sosial dengan laba terbatas | 21,4
+Rumah milik sendiri | 20,4
+Sewa swasta | 36,3
+Sumber: Statistik perumahan Pemerintah Kota Wina (Stadt Wien)
 ```
 
 ## Sumbu Kebijakan tw-timeline
 
-Alur titik-titik kunci sistem atau kebijakan, dihubungkan dengan sumbu waktu titik. Perhatikan ini adalah "bantuan visual", berbeda dengan aturan judul kecil badan teks yang tidak boleh menggunakan gaya kronologis ("1975..." sebagai judul).
+Alur titik-titik kunci suatu sistem atau kebijakan, dirangkai dengan lini masa bernode. Perhatikan bahwa ini «alat bantu visual», dua hal yang berbeda dari aturan bahwa subjudul badan teks tidak boleh berbentuk kronologis («Tahun 1975…» sebagai judul).
 
 ```tw-timeline
-1975 | Undang-Undang Perumahan Nasional berlaku | Pemerintah bangun lalu jual, tetapkan "kualifikasi pembeli" sistem tertutup, subsidi tidak bisa lari
-2002 | Dinding itu diruntuhkan | Perubahan undang-undang hapus batasan kualifikasi pembeli, perumahan nasional tinggal satu tahun bisa dijual ke siapa saja
-2015 | Undang-Undang Perumahan Nasional dicabut | Alasan resmi: tingkat kepemilikan rumah sudah 85%, beralih ke perumahan sosial hanya sewa tidak jual
-2026 | Taoyuan memasang gerbang kembali | Perumahan Terjangkau: penjualan kembali tidak boleh melebihi harga beli asal
-Sumber: Berita Resmi Yuan Legislatif, Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional
+1975 | Undang-Undang Perumahan Nasional berlaku | Pemerintah membangun lalu menjual, menetapkan lingkaran tertutup «syarat pembeli» agar subsidi tidak bocor
+2002 | Tembok itu dirobohkan | Revisi undang-undang menghapus batasan syarat pembeli; perumahan nasional yang sudah dihuni setahun boleh dijual kepada siapa saja
+2015 | Undang-Undang Perumahan Nasional dicabut | Alasan resmi: tingkat kepemilikan rumah sudah 85%, beralih ke perumahan sosial yang hanya disewakan, tidak dijual
+2026 | Taoyuan memasang kembali gerbangnya | Hunian terjangkau: harga jual kembali tidak boleh melebihi harga beli semula
+Sumber: Berita Resmi Yuan Legislatif, Siaran pers Yuan Eksekutif tentang pencabutan Undang-Undang Perumahan Nasional
 ```
 
 ## Kartu Kutipan tw-quote
 
-Saat satu kalimat saja bisa mewakili ketegangan inti seluruh artikel, perbesarkan menjadi kartu kutipan. Kutipan tidak perlu ditambah「」 sendiri, modul akan menambahkannya. Kutipan harus kata per kata, dapat diverifikasi.
+Ketika satu kalimat saja mampu mewakili ketegangan inti seluruh artikel, perbesarlah menjadi kartu kutipan. Kutipan tidak perlu diberi tanda kutip sendiri, karena modul akan menambahkannya. Kutipan harus kata per kata dan dapat diverifikasi.
 
 ```tw-quote
-Rumah harga pasar 30 juta yuan, jadi 60 hingga 70 juta yuan…… merampok miskin untuk kaya, negara mengeluarkan uang membantu orang kaya renovasi rumah
-Lin Chih-chun | Pengacara, 2025 mengkritik usulan "Negara mengeluarkan uang untuk perbaikan Perumahan Nasional Chenggong"
+Rumah seharga pasar 30 juta dolar Taiwan Baru, berubah menjadi rumah 60 hingga 70 juta dolar Taiwan Baru…… merampok si miskin untuk memperkaya si kaya, negara mengeluarkan uang untuk membantu orang kaya merenovasi rumah
+Lin Chih-chun | Pengacara, mengkritik usulan «negara mengeluarkan uang untuk peremajaan Perumahan Nasional Chenggong» pada 2025
 ```
 
 ## Chip Sumber tw-source
 
-Mengumpulkan sumber data sebuah analisis menjadi satu chip yang tidak mencolok, diletakkan di sisi paragraf. Kepercayaan adalah bagian dari kurasi—media digital Taiwan sering lupa menandai sumber, inilah tempat kita bisa berbedaan.
+Mengumpulkan sumber data sebuah analisis menjadi satu chip yang kalem, diletakkan di samping paragraf. Kredibilitas adalah bagian dari kurasi — media digital Taiwan sering lupa mencantumkan sumber, dan di sinilah kita bisa tampil berbeda.
 
 ```tw-source
-Platform Informasi Properti Kementerian Dalam Negeri, Pendaftaran Harga Transaksi Nyata, Pusat Penelitian Properti Universitas Chengchi, Berita Resmi Yuan Legislatif, Otoritas Perumahan Hong Kong
+Platform Informasi Properti Kementerian Dalam Negeri, Pendaftaran Harga Transaksi Riil, Pusat Penelitian Properti Universitas Chengchi, Berita Resmi Yuan Legislatif, Otoritas Perumahan Hong Kong
 ```
 
 ## Kotak Penjelasan tw-note
 
-Separuh kepercayaan artikel data ada pada "bagaimana Anda menghitungnya". Jurnalis di jurnalisme data menggunakan blok [Penjelasan] untuk menjelaskan metode perhitungan, menggunakan (Catatan) untuk menandai koreksi, kami jadikan konvensi ini menjadi modul. Baris pertama tulis `Penjelasan`/`Metode`/`Catatan`/`Koreksi`/`Pembaruan` salah satunya, sisanya setiap baris menjadi paragraf tersendiri.
+Separuh kredibilitas artikel data terletak pada «bagaimana Anda menghitungnya». Dalam jurnalisme data, The Reporter memakai blok [Penjelasan] untuk menjelaskan cara perhitungan dan tanda (Catatan) untuk koreksi; konvensi itu kami jadikan modul. Baris pertama diisi salah satu dari `Penjelasan`/`Metode`/`Catatan`/`Koreksi`/`Pembaruan`, dan setiap baris sisanya menjadi satu paragraf tersendiri.
 
 ```tw-note
 Penjelasan
-Halaman ini "Indeks Penuaan" = populasi 65 tahun ke atas ÷ populasi 0–14 tahun × 100. Sama dengan 100 berarti lansia dan anak-anak sama banyak, semakin tinggi angka semakin condong ke atas struktur penduduknya.
-Tingkat penuaan dan indeks penuaan diambil dari Statistik Akhir Tahun 2025 Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, analisis lengkap 22 kabupaten/kota lihat 〈Melihat 22 Kabupaten/Kota Taiwan dengan Data〉.
+Di halaman ini, «indeks penuaan» = populasi usia 65 tahun ke atas ÷ populasi usia 0–14 tahun × 100. Nilai 100 berarti jumlah lansia dan anak-anak sama banyak; semakin tinggi angkanya, semakin «berat di atas» daerah itu.
+Tingkat penuaan dan indeks penuaan diambil dari statistik akhir 2025 Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri; analisis lengkap 22 kabupaten/kota ada di 〈Melihat 22 Kabupaten/Kota Taiwan dengan Data〉.
 ```
 
 ## Grafik Garis tw-line
 
-Tren untuk empat atau lebih titik waktu, digambarkan sebagai garis menggunakan SVG inline, batas atas dan bawah sumbu y ditampilkan agar pembaca dapat melihat rentangnya. Yang paling penting——komponen ini **secara otomatis menghasilkan tabel data tersembunyi**, memungkinkan pembaca layar dan perayap AI mengakses data mentah. Grafik untuk manusia, tabel untuk mesin, keduanya bersumber dari data yang sama.
+Tren untuk empat titik waktu atau lebih, digambar sebagai garis dengan inline SVG, dan batas atas-bawah sumbu y ditandai agar pembaca melihat rentangnya. Yang paling penting — modul ini **otomatis menghasilkan tabel data tersembunyi** sehingga pembaca layar dan perayap AI dapat membaca data mentahnya. Grafik untuk dilihat manusia, tabel untuk dibaca mesin, keduanya bersumber sama.
 
 ```tw-line
-Kenaikan Rasio Harga Rumah terhadap Pendapatan Nasional Sepuluh Tahun (kali)
+Kenaikan rasio harga rumah terhadap pendapatan nasional selama sepuluh tahun (kali)
 Tahun | Nasional
 2014 | 8.41
 2016 | 9.32
@@ -149,18 +149,18 @@ Tahun | Nasional
 2020 | 9.20
 2022 | 9.61
 2024 | 10.76
-Baseline: Titik Awal 2014 | 8.41
+Baseline: Titik awal 2014 | 8.41
 Sumber: Pusat Penelitian Properti Universitas Chengchi, Platform Informasi Properti Kementerian Dalam Negeri
 ```
 
-Grafik garis juga mendukung **garis baseline**: menambahkan baris `Baseline: Label | Nilai` akan digambarkan sebagai garis putus-putus, tanpa titik akhir, hanya dengan satu label, terpisah secara visual dari deretan pengukuran aktual. Pembaca tidak akan salah mengira suatu ambang batas tetap sebagai data yang diukur.
+Grafik garis juga mendukung **garis baseline**: tambahkan satu baris `Baseline: label | nilai`, dan ia digambar sebagai garis putus-putus tanpa titik ujung, hanya dengan satu label, sehingga secara visual terpisah dari deret hasil pengukuran. Pembaca tidak akan keliru menganggap ambang tetap sebagai data hasil pengukuran.
 
 ## Grafik Kemiringan tw-slope
 
-Ketika Anda hanya memiliki "dua titik waktu", grafik garis akan membuang ruang kosong di tengah. Grafik kemiringan langsung membiarkan kemiringan garis yang menghubungkan kedua ujungnya berbicara, siapa yang naik paling tajam, siapa yang mengejar siapa, terlihat sekilas. Menambahkan `*` di awal label dapat menonjolkan baris tertentu, baris lainnya otomatis menjadi abu-abu sebagai konteks.
+Bila Anda hanya punya «dua titik waktu», grafik garis menyia-nyiakan ruang kosong di tengahnya. Grafik kemiringan langsung membiarkan kemiringan garis penghubung kedua ujung yang berbicara: siapa naik paling tajam dan siapa menyalip siapa terbaca sekilas. Menambahkan `*` di awal label akan menonjolkan satu baris, sementara baris lain otomatis memudar menjadi abu-abu sebagai konteks.
 
 ```tw-slope
-Rasio Harga Rumah terhadap Pendapatan: Siapa Naik Paling Tajam dalam Sepuluh Tahun (kali)
+Rasio harga rumah terhadap pendapatan: siapa yang naik paling tajam dalam sepuluh tahun (kali)
 2014 | 2024
 Nasional | 8.41 | 10.76
 *Taipei | 12.0 | 16.60
@@ -169,192 +169,192 @@ Sumber: Platform Informasi Properti Kementerian Dalam Negeri, Pusat Penelitian P
 
 ## Peta Panas tw-heatmap
 
-Perbandingan matriks wilayah×indikator, atau tahun×kategori. Setiap kolom dinormalisasi secara terpisah menjadi kedalaman warna, semakin besar angka semakin hangat. Komponen ini sendiri adalah tabel HTML, sehingga secara alami dapat dibaca AI——inilah mengapa peta panas di sistem kami unggul dibanding "hanya sebuah gambar berwarna".
+Perbandingan matriks wilayah × indikator, atau tahun × kategori. Setiap kolom dinormalisasi sendiri-sendiri menjadi kepekatan warna; semakin besar angkanya, semakin hangat warnanya. Peta panas ini sendiri adalah tabel HTML, sehingga sejak awal sudah dapat dibaca AI — itulah alasan peta panas di sistem kami lebih baik daripada «sebuah gambar berwarna».
 
 ```tw-heatmap
-Kabupaten/Kota | Rasio Harga Rumah terhadap Pendapatan (kali) | Tingkat Beban KPR (%)
+Kabupaten/Kota | Rasio harga rumah terhadap pendapatan (kali) | Rasio beban KPR (%)
 Taipei | 16.60 | 63.9
-Hsinpei | 13.03 | 56.9
+Taipei Baru | 13.03 | 56.9
 Taichung | 11.11 | 48.0
 Taoyuan | 9.0 | 40.0
 Sumber: Platform Informasi Properti Kementerian Dalam Negeri
 ```
 
-## tw-dot
+## Diagram Titik tw-dot
 
-Diagram batang membandingkan "kuantitas", diagram titik melihat "distribusi": semua titik jatuh pada skala yang sama, Anda bisa melihat siapa yang berkumpul bersama, siapa yang merupakan nilai pencilan (outlier). Satu nilai per baris disebut dot strip; diberikan dua nilai akan digambar sebagai interval "dari sini ke sana"; diberikan tiga nilai (`estimasi titik | batas bawah | batas atas`) akan digambar seperti survei "estimasi titik + pita ketidakpastian". Kesalahan pengambilan sampel ±3% tidak boleh diabaikan, ini adalah kejujuran yang paling sering dilanggar di tahun pemilu. `*` juga bisa digunakan untuk penekanan.
+Diagram batang membandingkan «besaran», diagram titik melihat «sebaran»: semua titik jatuh pada satu penggaris yang sama, sehingga terlihat siapa yang bergerombol dan siapa yang pencilan. Satu nilai per baris menghasilkan dot strip; dua nilai digambar sebagai rentang «dari sini ke sana»; tiga nilai (`estimasi titik | batas bawah | batas atas`) digambar seperti jajak pendapat, yaitu «estimasi titik + pita ketidakpastian». Galat pengambilan sampel ±3% tidak boleh ditelan; inilah penyajian jujur yang paling sering gagal dijaga di tahun pemilu. `*` tetap bisa dipakai untuk penekanan.
 
 ```tw-dot
-Dua kutub tingkat penuaan: dari kabupaten/kota paling muda ke paling tua (persentase 65 tahun ke atas, %)
-Hsinchu County | 15.08 | Paling muda di seluruh Taiwan
+Dua kutub tingkat penuaan: dari kabupaten/kota termuda hingga tertua (persentase usia 65 tahun ke atas, %)
+Kabupaten Hsinchu | 15.08 | Termuda di seluruh Taiwan
 Taoyuan | 16.72
 Taichung | 17.40
-New Taipei | 19.95
+Taipei Baru | 19.95
 Tainan | 20.48
 Kaohsiung | 20.79
-*Chiayi County | 24.11 | Paling tua di seluruh Taiwan
-*Taipei | 24.18 | Paling tua di enam kota metropolitan
+*Kabupaten Chiayi | 24.11 | Indeks penuaan tertinggi di seluruh Taiwan
+*Taipei | 24.18 | Tertinggi di seluruh Taiwan
 Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, akhir 2025
 ```
 
-## tw-stack
+## Batang Bertumpuk tw-stack
 
-Diagram kotak (waffle chart) cocok untuk komposisi "satu kesatuan"; batang bertumpuk cocok untuk **membandingkan komposisi di beberapa baris**—setiap baris dinormalisasi otomatis menjadi 100%, segmen yang cukup lebar akan menampilkan nilainya langsung di blok warna.
+Diagram waffle cocok untuk komposisi «satu keseluruhan»; batang bertumpuk cocok untuk **membandingkan komposisi di beberapa baris** — setiap baris otomatis dinormalisasi menjadi 100%, dan bila segmennya cukup lebar, nilainya langsung dicantumkan di dalam blok warna.
 
 ```tw-stack
 Tiga referendum nuklir: setuju vs tidak setuju (persentase suara sah %)
-Referendum | Setuju | Tidak Setuju
+Referendum | Setuju | Tidak setuju
 2018 Nuklir untuk Hijau | 59 | 41
-2021 Restart NPP-4 | 47 | 53
-2025 Perpanjangan Operasi NPP-3 | 74 | 26
-Sumber: Hasil resmi penilaian tiga referendum Komisi Pemilihan Umum Pusat
+2021 Menghidupkan kembali PLTN Keempat | 47 | 53
+2025 Perpanjangan operasi PLTN Ketiga | 74 | 26
+Sumber: Hasil penetapan resmi tiga referendum oleh Komisi Pemilihan Umum Pusat
 ```
 
 ## Piramida tw-pyramid
 
-Diagram batang back-to-back, dengan dua sisi masing-masing mewakili satu kelompok, berbagi label di tengah, adalah visualisasi klasik dalam demografi. Di sini digunakan untuk melihat «kepala berat kaki ringan» enam kabupaten/kota: sisi kiri adalah anak-anak, sisi kanan adalah lansia, membandingkan kedua sisi, penuaan tidak lagi hanya persentase abstrak.
+Batang saling membelakangi, satu kubu di kiri dan satu di kanan, dengan label bersama di tengah, adalah bentuk klasik demografi. Di sini dipakai untuk melihat «berat di atas» enam kabupaten/kota: di kiri anak-anak, di kanan lansia, dan setelah keduanya dibandingkan, penuaan bukan lagi persentase yang abstrak.
 
 ```tw-pyramid
-Kepala berat kaki ringan: Persentase populasi muda vs lansia enam kabupaten/kota (%)
+Berat di atas: persentase penduduk usia anak vs lansia di enam kabupaten/kota (%)
 Kabupaten/Kota | 0–14 tahun | 65 tahun ke atas
-Kabupaten Hsinchu | 14,80 | 15,08
-Taoyuan | 13,13 | 16,72
-Taichung | 12,75 | 17,40
-Taipei | 11,97 | 24,18
-Keelung | 9,28 | 22,28
-Kabupaten Chiayi | 8,27 | 24,11
-Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri akhir 2025; persentase usia muda dihitung dari tingkat penuaan ÷ indeks penuaan × 100
+Kabupaten Hsinchu | 14.80 | 15.08
+Taoyuan | 13.13 | 16.72
+Taichung | 12.75 | 17.40
+Taipei | 11.97 | 24.18
+Keelung | 9.28 | 22.28
+Kabupaten Chiayi | 8.27 | 24.11
+Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, akhir 2025; persentase usia anak dihitung dari tingkat penuaan ÷ indeks penuaan × 100
 ```
 
-## Peta Ubin tw-tiles
+## Peta Ubin Kabupaten/Kota tw-tiles
 
-Peta choropleth Taiwan memiliki dua masalah lama: luasnya Hualien dan Taitung mencuri bobot visual, bentuk Taiwan hasil gambaran tangan AI sering kali "di antara zaitun dan kentang". Peta ubin menyusun 22 kabupaten/kota menjadi ubin berukuran sama (tata letak tertulis keras di sistem, mengikuti posisi relatif nyata), setiap ubin memiliki bobot yang sama, angka ditulis langsung di atas ubin. Bentuk selalu benar, karena pada dasarnya tidak menggambar bentuk.
+Peta choropleth Taiwan punya dua masalah lama: Hualien dan Taitung begitu luas sehingga merebut bobot visual, dan bentuk Taiwan gambaran tangan AI sering menjadi «sesuatu di antara buah zaitun dan kentang». Peta ubin menyusun 22 kabupaten/kota menjadi ubin berukuran sama (tata letaknya ditanam permanen di sistem, mengikuti posisi relatif yang sebenarnya); setiap ubin berbobot sama, dan angkanya ditulis langsung di atas ubin. Bentuknya selalu benar, karena sejak awal tidak ada bentuk yang digambar.
 
 ```tw-tiles
-Tingkat Penuaan 22 Kabupaten/Kota Seluruh Taiwan (Persentase Penduduk Usia 65 Tahun ke Atas, %)
-Kota Taipei | 24,18
-Kota New Taipei | 19,95
-Kota Taoyuan | 16,72
-Kota Taichung | 17,40
-Kota Tainan | 20,48
-Kota Kaohsiung | 20,79
-Kota Keelung | 22,28
-Kota Hsinchu | 16,16
-Kota Chiayi | 19,90
-Kabupaten Hsinchu | 15,08
-Kabupaten Miaoli | 20,23
-Kabupaten Changhua | 20,37
-Kabupaten Nantou | 22,66
-Kabupaten Yunlin | 21,76
-Kabupaten Chiayi | 24,11
-Kabupaten Pingtung | 21,84
-Kabupaten Yilan | 20,77
-Kabupaten Hualien | 21,52
-Kabupaten Taitung | 20,93
-Kabupaten Penghu | 21,03
-Kabupaten Kinmen | 19,69
-Kabupaten Lienchiang | 17,14
+Tingkat penuaan 22 kabupaten/kota se-Taiwan (persentase penduduk usia 65 tahun ke atas, %)
+Kota Taipei | 24.18
+Kota Taipei Baru | 19.95
+Kota Taoyuan | 16.72
+Kota Taichung | 17.40
+Kota Tainan | 20.48
+Kota Kaohsiung | 20.79
+Kota Keelung | 22.28
+Kota Hsinchu | 16.16
+Kota Chiayi | 19.90
+Kabupaten Hsinchu | 15.08
+Kabupaten Miaoli | 20.23
+Kabupaten Changhua | 20.37
+Kabupaten Nantou | 22.66
+Kabupaten Yunlin | 21.76
+Kabupaten Chiayi | 24.11
+Kabupaten Pingtung | 21.84
+Kabupaten Yilan | 20.77
+Kabupaten Hualien | 21.52
+Kabupaten Taitung | 20.93
+Kabupaten Penghu | 21.03
+Kabupaten Kinmen | 19.69
+Kabupaten Lienchiang | 17.14
 Sumber: Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, akhir 2025
 ```
 
-## Peta Isotip tw-iso
+## Diagram Isotipe tw-iso
 
-"174.891 rumah tangga" adalah angka yang dibaca lalu dilupakan; sembilan titik yang bisa dihitung jari bukan. Peta isotip mengubah angka besar menjadi "satu simbol = berapa banyak" unit yang dapat dihitung, ini adalah cara berpikir pelapor saat membuat liputan perikanan samudra: mengubah angka masif yang tidak terasa, menjadi unit yang terasa oleh masyarakat. Simbol hanya menggunakan bilangan bulat (tidak memotong setengah), nilai presisi ditulis di samping.
+«174.891 rumah tangga» adalah angka yang dibaca lalu dilupakan; sembilan titik yang bisa dihitung dengan jari tidak demikian. Diagram isotipe mengganti angka besar menjadi satuan yang dapat dihitung, «satu simbol = berapa banyak». Inilah cara berpikir The Reporter saat menggarap liputan khusus perikanan samudra: mengganti angka raksasa yang tak terasa menjadi satuan yang terasa bagi masyarakat. Simbol hanya memakai bilangan bulat (tidak dipotong setengah), dan nilai pastinya ditulis di sampingnya.
 
 ```tw-iso
-Berapa Banyak Perumahan Nasional yang Dibangun Pemerintah Selama 24 Tahun Ini
+Berapa banyak perumahan nasional yang dibangun pemerintah dalam 24 tahun ini
 單位：● = 20.000 rumah tangga
-Pembangunan langsung oleh pemerintah | 174.891 rumah tangga | 1976–1999
-Total perumahan nasional dalam arti luas | 390.000 lebih rumah tangga | hingga dicabut tahun 2015
-Sumber: Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional
+Dibangun langsung oleh pemerintah | 174.891 rumah tangga | 1976–1999
+Total perumahan nasional dalam arti luas | 390.000 lebih rumah tangga | Hingga dicabut 2015
+Sumber: Siaran pers Yuan Eksekutif tentang pencabutan Undang-Undang Perumahan Nasional
 ```
 
 ## Busur Kursi tw-arc
 
-Komposisi kursi parlemen memiliki visualisasi khusus: setengah lingkaran titik, satu kursi satu titik, partai disusun berurutan membentuk busur berkelanjutan. Diagram pai membandingkan sudut (mata manusia tidak mahir), busur kursi memungkinkan Anda menghitung titik langsung, garis mayoritas digambar tepat di posisinya. Di sini digunakan hasil Pemilu Legislatif 2024: 113 kursi, tiga partai tidak mencapai mayoritas, garis putus-putus itulah yang menjadi titik awal tarik tambang pembubaran massal kemudian. Perhatikan ini adalah diagram parlemen: jenis pemilihan "satu daerah satu pemenang" seperti 22 gubernur, seharusnya menggunakan peta ubin kabupaten/kota di atas.
+Komposisi kursi parlemen punya diagram khususnya sendiri: titik-titik setengah lingkaran, satu kursi satu titik, dengan partai disusun menurut urutan daftar menjadi kipas yang bersambung. Diagram lingkaran membandingkan sudut (hal yang sangat tidak dikuasai mata manusia), sedangkan busur kursi membiarkan Anda langsung menghitung titik, dan garis mayoritas digambar tepat di tempatnya. Di sini dipakai hasil pemilu legislatif 2024: 113 kursi, tiga partai tidak mencapai mayoritas, dan garis putus-putus itulah titik awal tarik-menarik seluruh gerakan pemecatan massal sesudahnya. Perhatikan bahwa ini diagram untuk parlemen: pemilu «satu daerah satu pemenang» seperti pemilihan kepala 22 kabupaten/kota sebaiknya memakai peta ubin kabupaten/kota di atas.
 
 ```tw-arc
-Kursi Dewan Legislatif 2024: Tiga Partai Tidak Mencapai Mayoritas (113 Kursi)
+Kursi Yuan Legislatif 2024: tiga partai tidak mencapai mayoritas (113 kursi)
 過半：57
-KMT | 52
-DPP | 51
+Kuomintang | 52
+Partai Progresif Demokratik | 51
 Partai Rakyat Taiwan | 8
 Independen | 2 | condong pan-Biru
 Sumber: Komisi Pemilihan Umum Pusat
 ```
 
-## Grid Kecil Violin tw-multiples
+## Grid Kelipatan Kecil tw-multiples
 
-Menyisipkan lima garis dalam satu grafik akan membuat garis-garis tersebut berkelit seperti spageti; small multiples memisahkan setiap garis ke dalam sel kecilnya masing-masing, **semua sel menggunakan skala yang sama**, sehingga bentuk-bentuknya dapat dibandingkan. Di sini menggunakan rasio perawat-pasien tiga shift: heatmap (di atas) memberikan matriks yang presisi, small multiples memberikan bentuk "setiap level naik ke malam hari, level dasar naik paling curam". Data yang sama, pertanyaan yang berbeda, pilih grafik yang berbeda.
+Menjejalkan lima garis dalam satu grafik membuat garis-garis itu kusut seperti spageti; small multiples membagi setiap garis ke selnya sendiri, **semua sel memakai penggaris yang sama**, sehingga bentuk-bentuknya bisa saling dibandingkan. Di sini dipakai rasio perawat-pasien tiga shift: peta panas (di atas) memberi matriks yang presisi, sedangkan small multiples memberi bentuk «setiap tingkat naik menuju larut malam, dan tingkat paling dasar naik paling curam». Data yang sama, pertanyaan yang berbeda, maka pilihlah grafik yang berbeda.
 
 ```tw-multiples
-Semakin malam, semakin dasar rumah sakitnya, semakin banyak tempat tidur yang dijaga satu perawat (orang)
-Kolom: Shift | Rasio Perawat-Pasien
---- Rumah Sakit Pusat Medis
-Shift Pagi | 6
-Shift Sore | 9
-Shift Malam | 11
+Semakin larut malam dan semakin dasar tingkat rumah sakitnya, semakin banyak tempat tidur yang dijaga satu perawat (orang)
+Kolom: Shift | Rasio perawat-pasien
+--- Pusat Medis
+Shift pagi | 6
+Shift sore | 9
+Shift malam | 11
 --- Rumah Sakit Regional
-Shift Pagi | 7
-Shift Sore | 11
-Shift Malam | 13
---- *Rumah Sakit Distrik
-Shift Pagi | 10
-Shift Sore | 13
-Shift Malam | 15
-Sumber: Pengumuman Standar Rasio Perawat-Pasien Tiga Shift Kementerian Kesehatan dan Kesejahteraan, 2024
+Shift pagi | 7
+Shift sore | 11
+Shift malam | 13
+--- *Rumah Sakit Daerah
+Shift pagi | 10
+Shift sore | 13
+Shift malam | 15
+Sumber: Pengumuman standar rasio perawat-pasien tiga shift Kementerian Kesehatan dan Kesejahteraan, 2024
 ```
 
-## Cara Menggunakan Modul-modul Ini
+## Cara Memakai Modul-modul Ini
 
-Setiap modul ditulis sebagai blok ` ```tw-* ` di dalam Markdown artikel, menggunakan `|` untuk memisahkan kolom, dan secara otomatis diubah menjadi tampilan di atas saat dibangun—penulis tidak perlu menulis HTML atau JavaScript apa pun. Sintaks lengkap, kapan menggunakan jenis mana, cara mengatur warna dan sumbu agar tidak menyesatkan, serta daftar pemeriksaan visualisasi sebelum publikasi, semuanya ada di [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md)。
+Setiap modul ditulis sebagai satu blok ` ```tw-* ` di dalam Markdown artikel, dengan `|` sebagai pemisah kolom, dan saat proses build otomatis diubah menjadi tampilan yang Anda lihat di atas — penulis tidak perlu menulis HTML atau JavaScript sama sekali. Sintaksis lengkap, kapan harus memakai yang mana, cara mengatur warna dan sumbu agar tidak menyesatkan, serta daftar periksa visualisasi sebelum terbit, semuanya ada di [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md).
 
-Sistem ini terinspirasi dari falsafah editorial media narasi visual [The Pudding](https://pudding.cool/)—masalah mendahului data, kesimpulan harus jelas, anotasi adalah protagonista—namun berkembang menjadi organ yang cocok untuk Taiwan.md: statis, multibahasa, dan dapat dibaca AI. Konteks desain lengkapnya tertulis di [Laporan Desain Sistem Visualisasi](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md)。
+Sistem ini merujuk pada falsafah editorial media penuturan visual [The Pudding](https://pudding.cool/) — pertanyaan mendahului data, kesimpulan harus tegas, anotasi adalah tokoh utamanya — tetapi tumbuh menjadi organ yang cocok bagi Taiwan.md sendiri: statis, multibahasa, dan dapat dibaca AI. Konteks desain selengkapnya ditulis dalam [Laporan Desain Sistem Visualisasi](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-Untuk melihat bagaimana modul-modul ini disisipkan ke dalam narasi artikel mendalam yang nyata, baca [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice)—kebanyakan data di halaman ini berasal dari penelitian artikel tersebut。
+Untuk melihat bagaimana modul-modul ini diselipkan ke dalam narasi sebuah artikel mendalam yang sungguhan, bacalah [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — sebagian besar data di halaman ini berasal dari riset artikel itu.
 
-## Sistem ini pun berkembang
+## Sistem Ini Juga Terus Berevolusi
 
-Halaman yang Anda lihat ini, adalah hasil tiga putaran evolusi. Karena halaman ini membahas garis waktu, gunakan modul kebijakan untuk menceritakan sejarahnya sendiri:
+Halaman yang sedang Anda baca ini sendiri adalah hasil tiga putaran evolusi. Karena ini halaman yang membahas lini masa, kami memakai modul sumbu kebijakan untuk menceritakan sejarahnya sendiri:
 
 ```tw-timeline
-2026-06-06 | Lahirnya Sepuluh Modul | Setelah mempelajari taksonomi grafik The Pudding dan FT, lahir batch pertama: teks besar, kartu perbandingan, batang proporsi, garis putus-putus
-2026-06-12 | Seminggu Kemudian Jadi Tujuh Belas | Tambah kemiringan, diagram titik, bertumpuk, piramida, diagram bata kabupaten/kota, diagram unit; verifikator piksel viz-shot lahir hari yang sama, karena "markup ada" dan "tampilan benar" adalah dua hal berbeda
-2026-07-16 | Sembilan Belas, dan Bicara Enam Bahasa | Busur kursi dan grid kelipatan kecil bergabung; "string sistem" seperti "Sumber Data" kini dirender enam bahasa, versi Inggris-Jepang diagram bata kabupaten/kota tidak lagi menurun jadi batang panjang
-Sumber: Laporan Desain dan Evolusi Sistem Visualisasi Taiwan.md (2026-06 hingga 2026-07, GitHub publik)
+2026-06-06 | Sepuluh modul lahir | Setelah mempelajari taksonomi grafik The Pudding dan FT, tumbuh gelombang pertama: angka besar, kartu perbandingan, batang proporsi, grafik garis
+2026-06-12 | Seminggu kemudian tumbuh menjadi tujuh belas | Ditambah grafik kemiringan, diagram titik, batang bertumpuk, piramida, peta ubin kabupaten/kota, dan diagram isotipe; alat verifikasi piksel viz-shot lahir pada hari yang sama, karena «markup ada» dan «tampilannya benar» adalah dua hal yang berbeda
+2026-07-16 | Sembilan belas, dan belajar berbicara enam bahasa | Busur kursi dan grid kelipatan kecil bergabung; string sistem seperti «sumber data» kini dirender dalam enam bahasa, dan peta ubin kabupaten/kota di versi Inggris dan Jepang tidak lagi merosot menjadi batang
+Sumber: Laporan desain dan evolusi sistem visualisasi Taiwan.md (Juni hingga Juli 2026, terbuka di GitHub)
 ```
 
-Fokus putaran ketiga sebenarnya bukan grafik baru, melainkan pemeriksaan diri yang jujur. Audit seluruh situs menemukan: modul yang diawasi gerbang otomatis, tingkat penandaan sumber 100%; tiga modul frekuensi tinggi yang tidak diawasi, empat puluh persen tanpa sumber. Aturan tertulis di panduan editor dua bulan, perilaku却 sepenuhnya mengikuti bentuk instrumen, jadi kali ini instrumen disamakan lebarnya dengan aturan. Putaran yang sama juga menangkap string sistem di halaman Inggris, Jepang, Korea semuanya dirender ke bahasa China, bahkan satu karakter China tersederhana tercampur di tag aksesibilitas tak ada yang sadar. Bagi sistem yang mengklaim "biarkan LLM membaca data Taiwan di enam bahasa", sudut-sudut ini lebih penting dari fitur baru.
+Inti putaran ketiga sebenarnya bukan jenis grafik baru, melainkan pemeriksaan diri yang jujur. Audit seluruh situs menemukan bahwa modul yang diawasi gerbang otomatis memiliki tingkat pencantuman sumber 100%, sedangkan tiga modul berfrekuensi tinggi yang tidak diawasi, empat puluh persennya telanjang tanpa sumber. Aturan sudah tertulis di panduan editorial selama dua bulan, tetapi perilaku sepenuhnya mengikuti bentuk instrumen, maka kali ini instrumen dilebarkan hingga sama luasnya dengan aturan. Putaran yang sama juga menangkap string sistem di halaman berbahasa Inggris, Jepang, dan Korea yang semuanya dirender dalam bahasa Mandarin, bahkan satu aksara Mandarin sederhana terselip di label aksesibilitas tanpa ada yang menyadari. Bagi sistem yang mengaku «membuat LLM memahami data Taiwan dalam enam bahasa», sudut-sudut ini lebih penting daripada fitur baru.
 
-Penelitian terbaru juga mendukung jalur ini: akurasi AI multimodal merekonstruksi nilai grafik dari gambar tidak andal, node teks-lah yang benar-benar dibaca stabil mesin. Inilah alasan diagram bata menuliskan angka langsung di bata, setiap grafik dilengkapi tabel data tersembunyi. Proses penelitian lengkap dan keputusan desain, tertulis di [Laporan Penelitian Mendalam dan Implementasi Sistem Visualisasi v3.0](https://github.com/frank890417/taiwan-md/blob/main/reports/viz-module-evolution-2026-07-16.md).
+Riset beberapa tahun terakhir juga mendukung jalur ini: akurasi AI multimodal dalam merekonstruksi nilai grafik dari gambar tidak dapat diandalkan, dan simpul teks-lah yang benar-benar terbaca stabil oleh mesin. Inilah alasan peta ubin menulis angka langsung di atas ubin dan setiap grafik dilengkapi tabel data tersembunyi. Proses riset dan keputusan desain selengkapnya ditulis dalam [Laporan Riset Mendalam dan Implementasi Sistem Visualisasi v3.0](https://github.com/frank890417/taiwan-md/blob/main/reports/viz-module-evolution-2026-07-16.md).
 
 **Bacaan Lanjutan**:
 
-- [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — Cerita lengkap di balik data tempat tinggal ini: bagaimana perumahan nasional dari rumah murah jadi tangga aset, sumber data mayoritas modul halaman ini
-- [Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities) — Data penuaan untuk diagram titik, piramida, diagram bata kabupaten/kota halaman ini semuanya dari analisis lengkap 22 kabupaten/kota artikel itu
-- [Diskusi Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Cerita lengkap tiga referendum batang bertumpuk itu: menang debat, kalah sistem
-- [Undang-Undang Kesehatan](/id/society/medical-care-act) — Cerita lengkap angka rasio perawat-pasien tiga shift grid kelipatan kecil itu: undang-undang bisa tulis mengurus berapa tempat tidur, tak bisa tulis apakah ada sepasang tangan itu
-- [Pemecatan Massal](/id/history/great-recall-movement-2024) — Lanjutan garis putus-putus mayoritas busur kursi itu: dewan legislatif tiga partai tak mayoritas bagaimana sampai 37 kasus pemecatan
-- [Krisis Fertilitas Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Beli tidak mampu rumah dan lahirkan tidak mampu anak, sisi lain keadilan generasi
+- [Perumahan Nasional dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — Kisah lengkap di balik data perumahan ini: bagaimana perumahan nasional berubah dari rumah murah menjadi tangga aset, sumber data sebagian besar modul di halaman ini
+- [Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities) — Data penuaan untuk diagram titik, piramida, dan peta ubin kabupaten/kota di halaman ini seluruhnya berasal dari analisis lengkap 22 kabupaten/kota dalam artikel itu
+- [Diskusi Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Kisah lengkap tiga referendum pada batang bertumpuk itu: menang dalam debat, kalah dalam sistem
+- [Undang-Undang Medis](/id/society/medical-care-act) — Kisah lengkap angka rasio perawat-pasien tiga shift pada grid kelipatan kecil itu: undang-undang bisa menulis berapa tempat tidur yang dijaga, tetapi tidak bisa menulis apakah tangan itu ada
+- [Pemecatan Massal](/id/history/great-recall-movement-2024) — Kelanjutan garis mayoritas putus-putus pada busur kursi itu: bagaimana Yuan Legislatif dengan tiga partai tanpa mayoritas sampai pada 31 kasus pemecatan
+- [Krisis Angka Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Tidak mampu membeli rumah dan tidak mampu melahirkan anak, sisi lain dari keadilan antargenerasi
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 1 gambar lisensi CC, cache di `public/article-images/society/`:
+Artikel ini memakai 1 gambar berlisensi Creative Commons, disimpan di cache `public/article-images/society/`:
 
-- [Horizon Perumahan Kota Taipei (Perspektif Gajah)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
+- [Cakrawala hunian Kota Taipei (sudut pandang Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
 
 ## Referensi
 
 [^1]: [Platform Informasi Properti Kementerian Dalam Negeri](https://pip.moi.gov.tw/Publicize/Info/E1050) — Statistik perumahan resmi seperti rasio harga rumah terhadap pendapatan, rasio beban KPR, dan tingkat kepemilikan rumah.
 
-[^2]: [Pusat Penelitian Properti Universitas Chengchi](https://rer.nccu.edu.tw/article/detail/2210058908437) — Indikator kemampuan membeli rumah tahunan, sumber data seri rasio harga rumah terhadap pendapatan nasional untuk grafik garis dan batang proporsi di halaman ini.
+[^2]: [Pusat Penelitian Properti Universitas Chengchi](https://rer.nccu.edu.tw/article/detail/2210058908437) — Indikator kemampuan membeli rumah dari tahun ke tahun, sumber deret rasio harga rumah terhadap pendapatan nasional pada grafik garis dan batang proporsi di halaman ini.
 
-[^3]: [Siaran Pers Kabinet Mengenai Pencabutan Undang-Undang Perumahan Nasional](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Data resmi seperti jumlah kumulatif unit perumahan nasional (sekitar 390.000 lebih unit).
+[^3]: [Siaran pers Yuan Eksekutif tentang pencabutan Undang-Undang Perumahan Nasional](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Data resmi seperti jumlah kumulatif perumahan nasional (sekitar 390.000 lebih rumah tangga).
 
-[^4]: [Data Statistik Kependudukan Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri](https://www.ris.gov.tw/app/portal/346) — Persentase penduduk berusia 65 tahun ke atas dan indeks penuaan tiap kabupaten/kota pada akhir 2025, sumber data untuk diagram titik, piramida, peta ubin kabupaten/kota, dan kotak penjelasan di halaman ini; rantai verifikasi lengkap lihat 〈[Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities)〉.
+[^4]: [Data statistik kependudukan Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri](https://www.ris.gov.tw/app/portal/346) — Persentase penduduk usia 65 tahun ke atas dan indeks penuaan tiap kabupaten/kota pada akhir 2025, sumber data diagram titik, piramida, peta ubin kabupaten/kota, dan kotak penjelasan di halaman ini; rantai verifikasi lengkap lihat 〈[Melihat 22 Kabupaten/Kota Taiwan dengan Data](/id/geography/data-taiwan-22-cities)〉.
 
-[^5]: [Hasil Referendum Kasus ke-16 Tahun 2018 Komisi Pemilihan Umum Pusat (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Persentase persetujuan tiga referendum tenaga nuklir (59%／47%／74%) adalah hasil penetapan resmi KPU Pusat, rantai verifikasi per kasus lihat 〈[Diskusi Taiwan dan Tenaga Nuklir](/id/society/taiwan-nuclear-debate)〉.
+[^5]: [Hasil referendum Kasus ke-16 tahun 2018 Komisi Pemilihan Umum Pusat (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Persentase persetujuan tiga referendum nuklir (59%／47%／74%) adalah hasil penetapan resmi Komisi Pemilihan Umum Pusat; rantai verifikasi per kasus lihat 〈[Diskusi Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate)〉.
 
-[^6]: [CNA: Pemilu Legislatif 2024, Tidak Ada Partai yang Mendapat Mayoritas dari Tiga Partai](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Distribusi 113 kursi pada busur kursi (KMT 52, DPP 51, TPP 8, Non-partai 2) adalah hasil penetapan KPU Pusat, rantai verifikasi lihat 〈[Pemecatan Massal](/id/history/great-recall-movement-2024)〉.
+[^6]: [CNA: Pemilu legislatif 2024, tiga partai tidak mencapai mayoritas](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Pembagian 113 kursi pada busur kursi (Kuomintang 52, Partai Progresif Demokratik 51, Partai Rakyat Taiwan 8, independen 2) adalah hasil penetapan Komisi Pemilihan Umum Pusat; rantai verifikasi lihat 〈[Pemecatan Massal](/id/history/great-recall-movement-2024)〉.
 
-[^7]: [Pengumuman Standar Rasio Perawat-Pasien Tiga Shift Kementerian Kesehatan dan Kesejahteraan (2024)](https://www.mohw.gov.tw/) — Nilai standar rasio perawat-pasien tiga tingkat × tiga shift pada grid kelipatan kecil, rantai verifikasi lihat 〈[Undang-Undang Medis](/id/society/medical-care-act)〉.
+[^7]: [Pengumuman standar rasio perawat-pasien tiga shift Kementerian Kesehatan dan Kesejahteraan (2024)](https://www.mohw.gov.tw/) — Nilai standar rasio perawat-pasien tiga tingkat × tiga shift pada grid kelipatan kecil; rantai verifikasi lihat 〈[Undang-Undang Medis](/id/society/medical-care-act)〉.

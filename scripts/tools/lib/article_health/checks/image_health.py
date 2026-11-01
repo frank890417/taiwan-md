@@ -59,6 +59,12 @@ DEFAULT_ZERO_IMAGES_SEVERITY = "warn"  # rewrite-stage-4 promotes to "hard"
 # text-only (雜學校 0) 失格。length_scaled 預設 off，rewrite-stage-4 profile override on。
 DEFAULT_LENGTH_SCALED = False
 DEFAULT_CJK_PER_MEDIA = 1200
+# 呈現比例（2026-10-21）：文章模板改成依原比例呈現、不裁切（寬 ≤ 欄寬、高 ≤
+# min(75vh, 640px)），比例不再是「會不會被切」的閘門，只剩極端值會呈現成看不清的
+# 細條。校準全站 1,000+ 張 inline＋hero：比例最窄 0.43（書封）、最寬 2.84（夜景
+# 全景），0.4–3.5 外 0 張 → WARN 只在真的離譜時響。
+ASPECT_MIN = 0.4
+ASPECT_MAX = 3.5
 
 # Markdown image syntax: ![alt](src)
 #
@@ -295,6 +301,47 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 editorial_ref=EDITORIAL_REF,
             )
 
+    # ── 1c. 呈現比例 WARN（2026-10-21）────────────────────────────────────────
+    # 模板依原比例呈現圖，不再裁切（〈一同走過從前〉張照堂直式照被 cover 切到頭，
+    # 哲宇：「就是要能適用不同大小的比例怎麼呈現在文章中，不是強制裁切圖」）。
+    # 這裡只抓極端比例：< 0.4 在桌機變成一條 ≤ 256px 寬的窄柱，> 3.5 變成一條
+    # ≤ 210px 高的細帶。修法是挑對的畫面或依主體重裁，不是補邊湊比例。
+    try:
+        from PIL import Image as _PILImage  # optional; CI 沒裝就跳過
+    except Exception:  # pragma: no cover
+        _PILImage = None
+    if _PILImage is not None:
+        _aspect_srcs = [_img_src(m) for m in inline_matches]
+        if has_fm_image:
+            _aspect_srcs.append(fm_image.strip())
+        for src in dict.fromkeys(_aspect_srcs):
+            if not src.startswith("/"):
+                continue
+            local = public_root / src.lstrip("/")
+            if not local.exists():
+                continue
+            try:
+                with _PILImage.open(local) as im:
+                    w, h = im.size
+            except Exception:
+                continue
+            if not h:
+                continue
+            ratio = w / h
+            if ratio < ASPECT_MIN or ratio > ASPECT_MAX:
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=Severity.WARN,
+                    message=(
+                        f"圖片比例 {ratio:.2f}（{w}×{h}）超出 {ASPECT_MIN}–{ASPECT_MAX}："
+                        + ("極長直圖在桌機會變成一條窄柱" if ratio < ASPECT_MIN
+                           else "極寬橫幅在桌機會變成一條細帶")
+                        + "。模板依原比例呈現不裁切，請挑對的畫面或依主體重裁，不要補邊湊比例"
+                    ),
+                    snippet=src[:80],
+                    editorial_ref="REWRITE-PIPELINE-SINGLE Step 4.3.3 呈現比例",
+                )
+
     # ── 2. frontmatter image — hot-link + file existence HARD gate ───────────
     # hero 圖跟 inline 圖走同一條規則。2026-08-23 之前這裡只驗本地路徑存不存在，
     # 外部熱連結整條分支不進去 —— 於是全站曝光度最高的那張圖（卡片圖、OG 分享圖）
@@ -435,7 +482,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 fix_suggestion=(
                     "走 REWRITE-PIPELINE Stage 1 Step 1.14 媒體素材研究："
                     "(1) PD/CC 圖庫 cache 進 public/article-images/{category}/ "
-                    "(2) check-aspect.sh 通過 hero 0.9-2.0 / inline 0.75-2.5 護欄 "
+                    "(2) check-aspect.sh 看呈現尺寸（模板依原比例不裁切；0.4–3.5 內都能用）"
                     "(3) Stage 4 Step 4.3 插入文章 (hero + scene-mid 三段節奏) "
                     "(4) §圖片來源 section 標 CC license + 攝影者。"
                     "找不到 PD/CC → fair use editorial commentary scope "

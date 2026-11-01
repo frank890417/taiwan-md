@@ -1,13 +1,13 @@
 ---
-title: 'Hotspots de biodiversidade de Taiwan'
-description: 'Ilha de 36 mil km² abriga 59 mil espécies, densidade 100 vezes a média global'
+title: 'Pontos de Biodiversidade em Taiwan'
+description: 'Com 36.000 km², Taiwan abriga 59.000 espécies conhecidas, uma densidade 100 vezes superior à média global, com mais de 30% de espécies endêmicas. O "elevador climático" de 4.000 metros de altitude recria zonas climáticas de meio planeta em um espaço reduzido: o salmão-de-Sakura (Oncorhynchus masou ishikawae), a latitude mais baixa do mundo, sobrevive apenas no riacho Qijiawan; o habitat da salamandra de Taiwan, entre 1.500 e 2.500 metros, encolheu de 11 para 7 locais. Existem cerca de 200 a 600 ursos-negros-de-taiwan no país, e cada um precisa de 30 a 40 km² de área; em um palco com a maior densidade de vida do mundo, quanto espaço resta para a vida selvagem?'
 date: 2026-03-21
 category: 'Geography'
 tags:
   [
     'ecologia',
     'biodiversidade',
-    'espécies endémicas',
+    'espécies endêmicas',
     'conservação',
     'parques nacionais',
   ]
@@ -16,122 +16,122 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+difficulty: 'beginner'
 readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-07-25T04:46:10+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-10-21T08:58:17+08:00'
 ---
 
-# Hotspots de biodiversidade de Taiwan
+# Pontos de Biodiversidade em Taiwan
 
-> **Resumo em 30 segundos:** Em novembro de 2024, um urso-negro-de-Taiwan chamado "Dagu'ali" foi avistado pela segunda vez numa comunidade humana após ser reintroduzido na natureza no município de Zhuoxi. Não foi acidente — Taiwan tem apenas 200-600 ursos-negros, mas esta ilha de 36 mil km² abriga mais de 59 mil espécies conhecidas, uma densidade 100 vezes superior à média global. A questão é: no palco de vida mais denso do planeta, quanto espaço deixámos para a vida selvagem?
+> **Resumo em 30 segundos:** Em novembro de 2024, um urso-negro-de-taiwan chamado "Dagu Ali" entrou em uma comunidade humana pela segunda vez após ser reintroduzido na região de Zhuoxi. Isso não é um acidente — restam apenas 200 a 600 ursos-negros em Taiwan, mas esta ilha de 36.000 km² está superlotada com mais de 59.000 espécies conhecidas, uma densidade 100 vezes maior que a média global. A questão é: em um palco de vida tão denso, quanto espaço estamos deixando para os animais selvagens?
 
 ## Uma ilha de vida 100 vezes mais densa que Tóquio
 
-Em fevereiro de 2025, a câmara de vigilância de uma escola primária em Yuli, Hualien, captou uma imagem comovente: "Dagu'ali", este urso-negro-de-Taiwan, vagueava pelo campus como uma criança perdida. Era já o terceiro "encontro inesperado" entre o animal e humanos.
+Em fevereiro de 2025, uma câmera de segurança em uma escola primária em Yuli, Hualien, capturou uma cena comovente: o urso-negro-de-taiwan "Dagu Ali" vagava pelo campus como uma criança perdida. Este foi o seu terceiro "encontro inesperado" com humanos.
 
-Em julho de 2023, ferido numa armadilha, foi recolhido; em novembro do mesmo ano, reintroduzido; em março de 2024, capturado novamente por "perturbar" uma aldeia indígena; em dezembro, nova reintrodução; em fevereiro de 2025, reaparece em zona habitada. A história de um urso reflete o dilema ecológico de toda Taiwan: o espaço acabou.
+Em julho de 2023, ele foi resgatado após ser ferido em uma armadilha e reintroduzido em novembro do mesmo ano; em março de 2024, foi capturado novamente por perturbar uma tribo e reintroduzido em dezembro; em fevereiro de 2025, apareceu novamente em uma comunidade humana. A história de um único urso reflete o dilema ecológico de todo Taiwan: falta espaço.
 
-Segundo as estatísticas mais recentes do Bureau Florestal, Taiwan tem registadas **mais de 59 mil espécies**, estimando-se que o total real ultrapasse 150 mil. Numa área de 36 mil km², isso significa 1,6 espécies conhecidas por km² — se contarmos as não descritas, a densidade supera 4 espécies por km².
+De acordo com as estatísticas mais recentes da Administração Florestal, foram registradas **mais de 59.000 espécies** em Taiwan, com uma estimativa de que o número real supere 150.000. Esses números aplicados a um território de 36.000 km² significam que há 1,6 espécie conhecida por quilômetro quadrado — se incluirmos as espécies ainda não descritas, a densidade ultrapassa 4 por km².
 
-Para comparar: a Alemanha, com 357 mil km², regista 45 mil espécies; o Reino Unido, com 243 mil km², regista 30 mil. A densidade biológica de Taiwan é **100 vezes a média global**.
+Para comparar: a Alemanha possui 357.000 km² com 45.000 espécies registradas; o Reino Unido tem 243.000 km² com 30.000 espécies. A densidade biológica de Taiwan é **100 vezes** maior que a média global.
 
-## Um elevador climático de 4.000 metros vertical
+## O elevador climático de 4.000 metros de altitude
 
-O segredo da biodiversidade de Taiwan cabe numa palavra: **tridimensional**.
+O segredo da biodiversidade de Taiwan reside em uma palavra: **tridimensionalidade**.
 
-De Tainan, ao nível do mar, até ao pico principal de Yushan a 3.952 m, a distância horizontal é de apenas 200 km, mas a variação climática equivale a teletransportar-se de Taiwan para a Noruega. A cada 1.000 m de altitude, a temperatura desce cerca de 6 °C, o que corresponde a um deslocamento de 800 km para norte em latitude.
+Dirigir do nível do mar em Tainan até o pico principal de Yushan, a 3.952 metros, envolve uma distância horizontal de apenas 200 km, mas a mudança climática é equivalente a ser teletransportado diretamente para a Noruega. A cada 1.000 metros de subida, a temperatura cai cerca de 6°C, o que equivale a um deslocamento de 800 km para o norte em termos de latitude.
 
-Este "elevador climático" cria ecossistemas extremamente complexos. Da floresta tropical ao nível do mar aos prados alpinos no topo de Yushan, Taiwan recria num território exíguo metade das zonas climáticas do planeta. Espécies em diferentes altitudes evoluíram isoladamente, formando uma escada de vida em degraus bem definidos.
+Este "elevador climático" cria ecossistemas extremamente complexos. Das florestas tropicais ao nível do mar às pradarias alpinas no topo de Yushan, Taiwan recria as zonas climáticas de metade do planeta em um espaço minúsculo. As espécies evoluíram em diferentes altitudes, formando uma escada de vida claramente estratificada.
 
-A juventude geológica é outro fator-chave. Taiwan tem apenas 5 milhões de anos e continua a "crescer em altura" — 2-3 cm por ano. A orogénese contínua cria micro-habitats de complexidade extrema, fornecendo oportunidades incessantes de especiação.
+A juventude geológica é outro fator crucial. Taiwan tem apenas 5 milhões de anos e ainda está "crescendo" — subindo cerca de 2 a 3 cm por ano. O movimento tectônico contínuo cria microhabitats extremamente complexos, oferecendo oportunidades constantes para a diferenciação de espécies.
 
-## A arca da era glacial
+## A Arca da Era do Gelo
 
-A existência do **salmão-cerejeira** (_Oncorhynchus masou formosanus_) é por si só um milagre. É o salmão que vive na latitude mais baixa do mundo, um sobrevivente vivo da era glacial.
+A própria existência do **salmão-de-Sakura** (_Oncorhynchus masou ishikawae_) é um milagre. É o salmão que vive na latitude mais baixa do mundo, um sobrevivente da Era do Gelo.
 
-Há 20 mil anos, durante o último máximo glacial, o clima de Taiwan equivalia ao do nordeste atual da Ásia, e o salmão vivia nos rios de planície. Com o fim da glaciação e o aquecimento, viram-se forçados a "subir a montanha" — hoje sobrevivem apenas no riacho Qijiawan, a 1.700 m de altitude.
+Durante a glaciação de 20.000 anos atrás, o clima de Taiwan era semelhante ao nordeste atual, permitindo que os salmões vivessem em rios de planície. Com o aumento da temperatura após o fim da Era do Gelo, eles foram forçados a "escalar montanhas" — hoje, sobrevivem apenas no riacho Qijiawan, a 1.700 metros de altitude.
 
-O milagre é que sobreviveram. Em 1995, restavam apenas 253 indivíduos em toda a ilha. Após 30 anos de esforços do Parque Nacional Shei-Pa, a população atingiu **15.374 indivíduos em 2023**, 60 vezes o número de 1995. É considerado um dos casos de conservação mais bem-sucedidos de Taiwan.
+O milagre é que eles sobreviveram. Em 1995, restavam apenas 253 indivíduos em todo o país; após 30 anos de esforços do Parque Nacional Shei-Pa, a população atingiu **15.374 indivíduos** em 2023, um aumento de 60 vezes em relação a 1995. Este é considerado um dos casos de conservação mais bem-sucedidos da história de Taiwan.
 
-A **salamandra-de-Taiwan** (_Hynobius formosanus_) é outro relíquia glacial. Este anfíbio antigo só ocorre entre 1.500 e 2.500 m, é extremamente sensível à temperatura, requerendo menos de 15 °C. As alterações climáticas reduziram os seus locais de ocorrência de 11 para 7, prevendo-se que em 2050 apenas 3 populações possam persistir.
+A **salamandra de Taiwan** (_Andrias taiwanensis_) é outro sobrevivente glacial. Este antigo anfíbio evoluído distribui-se apenas entre 1.500 e 2.500 metros de altitude, sendo extremamente sensível à temperatura, com um habitat ideal abaixo de 15°C. As mudanças climáticas reduziram seu habitat de 11 locais para apenas 7; estima-se que até 2050 restem apenas 3 populações capazes de sobreviver.
 
-## Reino das endémicas: 30% são únicas no planeta
+## Reino de espécies endêmicas: 30% são únicas no planeta
 
-**Mais de 30% das espécies de Taiwan** são endémicas — só existem aqui. Esta proporção coloca a ilha no top 3 mundial entre ilhas.
+**Mais de 30% das espécies** de Taiwan são endêmicas, o que significa que só existem aqui, uma proporção que coloca a ilha entre as três primeiras do mundo em termos de endemismo insular.
 
-O **macaco-de-Taiwan** (_Macaca cyclopis_) migrou do continente há 200 mil anos; isolado pelo Estreito de Taiwan, evoluiu traços únicos: corpo menor, pelagem mais escura, face mais avermelhada. Hoje é o único primata nativo de Taiwan além do ser humano.
+O **macaco-prego-de-taiwan** (_Macaca cyclopis_) migrou da China continental há 200.000 anos e, isolado pelo estreito de Taiwan, desenvolveu características únicas: corpo menor, pelagem mais escura e face mais avermelhada. Hoje, é o único primata nativo de Taiwan além dos humanos.
 
-O **urso-negro-de-Taiwan** ostenta no peito uma mancha branca em V, marca distintiva da subespécie taiwanesa — os ursos-negros asiáticos noutras regiões têm mancha em meia-lua. Segundo estimativas do Parque Nacional de Yushan, a população total ronda **200-600 indivíduos**, podendo o próprio parque abrigar 250-300. Cada indivíduo necessita de 30-40 km² de área de vida.
+O **urso-negro-de-taiwan** possui uma mancha branca em forma de "V" no peito, uma marca característica da população local; os ursos-negros asiáticos de outras regiões costumam ter uma mancha em forma de lua crescente. Segundo estimativas do Parque Nacional Yushan, existem entre **200 e 600 indivíduos** em Taiwan, sendo que apenas o parque pode abrigar de 250 a 300 deles. Cada indivíduo requer de 30 a 40 km² de área de atividade.
 
-A **pega-azul-de-Taiwan** (_Urocissa caerulea_), eleita "ave nacional" em votação online de 2007, destaca-se não só pela plumagem azul deslumbrante, mas pelo "sistema familiar" — filhos mais velhos ficam para ajudar a criar os irmãos mais novos, comportamento de criação cooperativa raro entre aves.
+O **corvo-de-taiwan** (_Cyanolanius bellii_) foi eleito o "pássaro nacional" em uma votação online em 2007. Além de suas belas penas azuis, o que mais se destaca é seu "sistema familiar": os filhos mais velhos permanecem para ajudar a cuidar dos irmãos mais novos, um comportamento de criação coletiva raro entre as aves.
 
 ## Outro Taiwan no oceano
 
-Rodeada de mar por todos os lados, a biodiversidade marinha de Taiwan é igualmente espantosa. As águas taiwanesas registam cerca de 3.000 espécies de peixes, das quais mais de 1.000 são peixes de recife de coral. O Parque Nacional de Kenting regista cerca de 300 espécies de corais construtores de recife, um terço do total mundial.
+Taiwan é cercada por mar, e sua biodiversidade marinha é igualmente impressionante. Foram registradas cerca de 3.000 espécies de peixes, sendo mais de 1.000 espécies de peixes de recife de coral. As águas do Parque Nacional Kenting registram cerca de 300 espécies de corais construtores de recifes, o que representa um terço de todas as espécies de corais do mundo.
 
-Mas os recifes de coral de Taiwan enfrentam um cataclismo. No verão de 2020, a temperatura do mar superou 29 °C durante várias semanas consecutivas, provocando branqueamento massivo em Kenting, Ilha Verde e Ilha das Orquídeas; em algumas zonas a cobertura de coral caiu mais de 50%.
+No entanto, os recifes de Taiwan estão passando por uma catástrofe. No verão de 2020, a temperatura da água excedeu 29°C por várias semanas consecutivas, causando o branqueamento massivo de corais em Kenting, Green Island e Lanyu, com a cobertura de coral caindo mais de 50% em algumas áreas.
 
-As **termas subaquáticas de Ilha Verde** são um fenómeno raro a nível global. A água termal rica em minerais cria um ambiente marinho único; cientistas descobriram aí múltiplos microrganismos termófilos com potenciais aplicações em biotecnologia e medicina.
+As **águas termais de 朝日 (Zhaori) em Green Island** são uma das raras fontes termais subaquáticas do mundo. As águas ricas em minerais criam um ambiente marinho único, onde cientistas descobriram diversos microrganismos termófilos que podem ter aplicações importantes na biotecnologia e medicina.
 
-## Aeroporto internacional das aves migratórias
+## O aeroporto internacional das aves migratórias
 
-Taiwan situa-se no núcleo da **Rota Migratória do Leste Asiático-Australásia**, sendo um dos corredores migratórios mais importantes do planeta. A cada primavera e outono, mais de 150 espécies e 1 milhão de passagens de aves migratórias cruzam a ilha.
+Taiwan está no coração da **Rota Migratória Leste Asiática-Australásia**, sendo um dos corredores de migração de aves mais importantes do mundo. A cada primavera e outono, mais de 1 milhão de aves de mais de 150 espécies passam por Taiwan.
 
-O **colhereiro-de-cara-preta** (_Platalea minor_) é o visitante internacional mais emblemático. Em 1992, a população global era de apenas 294 indivíduos, à beira da extinção. Graças a esforços transfronteiriços de conservação, subiu para cerca de 5.000, dos quais cerca de 2.000 escolhem Taiwan para invernar.
+A **espátula-de-bico-preto** (_Platalea minor_) é a visitante internacional mais famosa. Em 1992, restavam apenas 294 indivíduos no mundo, à beira da extinção. Graças aos esforços de conservação transnacionais, a população aumentou para cerca de 5.000, com aproximadamente 2.000 escolhendo Taiwan para passar o inverno.
 
-O **águia-de-cara-cinza** (_Butastur indicus_) atravessa Manzhou, Pingtung, todo outubro, formando o espetacular "rio de águias". O recorde diário de passagem é de **53.688 indivíduos** a 13 de outubro de 2003, ficando conhecido como "águia do Dia Nacional".
+Em outubro de cada ano, a passagem dos **milhafres-cinzentos** (_Accipiter gentilis_) pela região de Manzhou, em Pingtung, forma um espetacular "rio de aves". O recorde de passagem em um único dia foi de 53.688 aves em 13 de outubro de 2003, evento conhecido como as "Aves do Dia Nacional".
 
 ## Os reis desaparecidos e as ameaças atuais
 
-A extinção do **leopardo-nebuloso-de-Taiwan** (_Neofelis nebulosa brachyura_) é a lição mais dolorosa da história ecológica taiwanesa. Este belo grande felino foi outrora o rei das florestas, mas um adulto precisa de 30-40 km² de território. Com o desmatamento e a abertura de estradas, a fragmentação do habitat roubou-lhe o espaço vital.
+A extinção do **leopardo-nuvem-de-taiwan** (_Neofelis nebulosa annamensis_) é a lição mais dolorosa da história ecológica de Taiwan. Este magnífico felino já foi o rei das florestas taiwanesas, mas um leopardo adulto precisa de 30 a 40 km² de território. Com o desmatamento e o desenvolvimento de estradas, a fragmentação do habitat fez com que perdessem seu espaço de sobrevivência.
 
-A última observação confirmada data de 1983, em Taitung. A Universidade de Ciência e Tecnologia de Pingtung instalou 1.500 câmaras automáticas e monitorizou durante 13 anos, sem detetar qualquer vestígio. Em 2013, o Conselho de Agricultura declarou oficialmente o leopardo-nebuloso-de-Taiwan "funcionalmente extinto".
+O último avistamento confirmado foi em 1938, em Taitung. A Universidade de Ciência e Tecnologia de Pingtung instalou 1.500 câmeras automáticas e, após 13 anos de monitoramento, não encontrou nenhum rastro. Em 2013, o Conselho de Agricultura declarou oficialmente a "extinção funcional" do leopardo-nuvem-de-taiwan.
 
-O **atropelamento** é hoje a ameaça mais grave. A densidade rodoviária de Taiwan é a segunda mais alta do mundo, com 2,4 km de estrada por km². Segundo a Rede de Observação de Atropelamento de Fauna (Roadkill Taiwan), morrem anualmente milhões de animais selvagens nas estradas. O **gato-leopardo** (_Prionailurus bengalensis_) é o caso mais mediático: em nove anos registaram-se 100 indivíduos mortos por atropelamento.
+A **mortalidade por atropelamento** é a ameaça mais grave atualmente. Taiwan tem a segunda maior densidade de estradas do mundo, com 2,4 km de estrada por quilômetro quadrado. Segundo estatísticas da Roadkill Society, milhões de animais selvagens morrem em acidentes de trânsito anualmente em Taiwan. A **mortalidade dos tigres-das-pedras** (_Spilomyoteles_) é a mais preocupante, com 100 mortes registradas nos últimos nove anos devido a colisões.
 
 ## Ações de resgate: esperança e desafios
 
-A **conservação do gato-leopardo** mostra que é possível reverter a tendência. Através de passagens para fauna em Miaoli, Taichung e Nantou, promoção de agricultura amiga da biodiversidade e monitorização populacional, os números subiram de menos de 500 em 2013 para cerca de 800-1.000 em 2024.
+A **conservação do tigre-das-pedras** mostra esperança. Através da instalação de passagens para animais em Miaoli, Taichung e Nantou, além da promoção da agricultura amigável e monitoramento populacional, o número de tigres-das-pedras aumentou de menos de 500 em 2013 para cerca de 800 a 1.000 em 2024.
 
-A **agricultura amiga da biodiversidade** desempenha papel crucial. Nos pântanos de Dacheng, Changhua, promove-se a "agricultura amiga do colhereiro-de-cara-preta": agricultores ajustam épocas de colheita para manter áreas de alimentação para as aves. O arroz destes agricultores é comprado a preço premium, alcançando ganha-ganha entre conservação e economia.
+A **agricultura amigável** desempenha um papel fundamental. Nas zonas úmidas de Dacheng, em Changhua, promove-se o "método agrícola amigável à espátula-de-bico-preto", onde os agricultores ajustam o tempo de colheita para preservar o ambiente de alimentação das aves. O arroz produzido por esses agricultores é comprado a preços mais altos, criando um cenário de ganho mútuo entre conservação e economia.
 
-A **ciência cidadã** contribui com força massiva. A **Rede de Biodiversidade de Taiwan (TBN)** agrega cientistas cidadãos e construiu a maior base de dados de distribuição de espécies da ilha. A **Roadkill Taiwan**, através de relatos cidadãos, criou a primeira base de dados completa de atropelamentos, ajudando o governo a instalar passagens para fauna nos pontos críticos.
+A **ciência cidadã** oferece uma força enorme. A **Rede de Biodiversidade de Taiwan (TBN)** une cientistas cidadãos para construir o maior banco de dados de distribuição biológica do país. A **Roadkill Society** utiliza relatos de cidadãos para estabelecer o primeiro banco de dados completo de atropelamentos, auxiliando o governo na instalação de passagens de fauna em pontos críticos.
 
-## O desafio de sobrevivência das alterações climáticas
+## O desafio da sobrevivência diante das mudanças climáticas
 
-O aquecimento global atinge com mais força a ecologia de alta montanha de Taiwan. A subida de temperatura empurra o habitat adequado das plantas alpinas "para cima", mas o cume é o fim da linha — não há para onde recuar.
+O aquecimento global tem o maior impacto nos ecossistemas de alta montanha de Taiwan. O aumento da temperatura faz com que as plantas alpinas tentem "subir" em busca de habitats adequados, mas o topo da montanha é o limite — elas não têm para onde recuar.
 
-Cientistas estimam que, com aquecimento de 2 °C, os cinturões de vegetação alpina subirão 300-400 m. O **cipreste-de-Yushan** (_Chamaecyparis formosensis_) e o **abeto-de-Taiwan** (_Abies kawakamii_) já mostram sinais de migração altitudinal.
+Cientistas estimam que, se a temperatura subir 2°C, as zonas de vegetação alpina de Taiwan subirão entre 300 e 400 metros. Espécies como o **cipreste-de-Yushan** (_Chamaecyparis formosensis_) e o **abeto-de-taiwan** (_Abies taiwanensis_) já apresentam esse fenômeno de migração para altitudes maiores.
 
-A acidificação dos oceanos é ameaça mais insidiosa. O aumento de CO2 atmosférico baixa o pH da água do mar, dificultando a construção de esqueletos calcários por corais e moluscos. O pH das águas taiwanesas desceu 0,1 nos últimos 20 anos; ostricultores de Changhua reportam conchas mais finas, crescimento mais lento e queda de 20% na produção.
+A acidificação dos oceanos é uma ameaça mais invisível. O aumento da concentração de CO₂ na atmosfera reduz o pH da água do mar, afetando a capacidade de corais e moluscos de construir esqueletos de cálcio. O pH das águas de Taiwan caiu 0,1 nos últimos 20 anos; produtores de ostras na costa de Changhua notaram que as conchas estão ficando mais finas e o crescimento mais lento, com uma queda de produção de cerca de 20%.
 
-## Valor económico visível
+## Valor econômico visível
 
-As florestas de Taiwan sequestram anualmente cerca de 12 milhões de toneladas de carbono, equivalente a reduzir 32 milhões de toneladas de emissões de CO2. A preços do mercado de carbono da UE, valem cerca de **77 mil milhões de novos dólares taiwaneses (TWD)**.
+As florestas de Taiwan sequestram anualmente cerca de 12 milhões de toneladas de carbono, o equivalente a reduzir a emissão de 32 milhões de toneladas de CO₂. Calculado pelo preço do mercado de carbono da União Europeia, isso representa um valor de aproximadamente NT$ 77 bilhões.
 
-O **serviço de polinização por abelhas** é vital para a agricultura. O valor económico anual da polinização por abelhas em Taiwan ronda **20 mil milhões de TWD**. Se as abelhas desaparecessem, um terço das culturas seria afetado.
+O **serviço de polinização por abelhas** é vital para a agricultura. O valor econômico da polinização feita por abelhas em Taiwan é de cerca de NT$ 20 bilhões anuais. Se as abelhas desaparecerem, um terço das plantações será afetada.
 
-A **função de depuração de zonas húmidas** poupa anualmente dezenas de milhares de milhões de TWD em custos de tratamento de águas residuais. Cada hectare de zona húmida artificial trata cerca de 50 mil toneladas de águas residuais domésticas por ano, equivalendo a uma pequena ETAR.
+A **função de purificação das zonas úmidas** economiza bilhões de novos dólares taiwaneses anualmente em custos de tratamento de esgoto. Cada hectare de zona úmida artificial pode tratar cerca de 50.000 toneladas de esgoto doméstico por ano, funcionando como uma pequena estação de tratamento.
 
-O turismo de observação de aves projeta Taiwan internacionalmente, atraindo mais de 100 mil visitantes estrangeiros por ano, gerando cerca de **5 mil milhões de TWD** em receitas turísticas. A **época dos pirilampos** tornou-se evento turístico sazonal de primavera/verão, trazendo mais de 100 milhões de TWD anuais.
+O turismo de observação de aves em Taiwan estabeleceu uma marca internacional, atraindo mais de 100.000 turistas estrangeiros anualmente e gerando cerca de NT$ 5 bilhões em receita turística. A **temporada dos vaga-lumes** tornou-se um importante evento turístico na primavera e no verão, trazendo centenas de milhões de novos dólares taiwaneses em receita.
 
-## Partilhar a Terra com Taiwan
+## Compartilhando Taiwan com o planeta
 
-A história de Dagu'ali não acabou. Em março de 2025, foi novamente avistado a vaguear na estrada; o Escritório de Conservação Florestal de Hualien prepara a terceira recolha. Mas talvez um dia encontremos a sabedoria para coexistir, humanos e vida selvagem.
+A história de Dagu Ali ainda não terminou. Em março de 2025, ele foi visto vagando novamente na estrada, e a Administração Florestal de Hualien prepara sua terceira captura para reintrodução. Mas talvez um dia possamos encontrar a sabedoria para a coexistência entre humanos e animais selvagens.
 
-Taiwan é um dos lugares com maior densidade biológica do planeta; este milagre precisa da guarda de cada um. Descarregue a app iNaturalist ou eBird, registe as espécies que observa; compre produtos de agricultura amiga da biodiversidade, apoie agricultores que não usam pesticidas; escolha marisco sustentável, recuse a sobrepesca.
+Taiwan é um dos lugares com a maior densidade biológica do mundo, e este milagre precisa ser protegido por todos. Baixe os aplicativos iNaturalist ou eBird e registre a flora e fauna que você encontrar; compre produtos de agricultura amigável para apoiar agricultores que não usam pesticidas; escolha frutos do mar sustentáveis e rejeite a pesca excessiva.
 
-Proteger a biodiversidade de Taiwan não é só dever do governo e dos cientistas — é missão de cada pessoa que habita esta ilha. Deixemos às próximas gerações um Taiwan ainda pulsante de vida.
+Proteger a biodiversidade de Taiwan não é apenas responsabilidade do governo e dos cientistas, mas uma missão de cada pessoa que vive nesta ilha. Vamos deixar para a próxima geração um Taiwan belo e ainda cheio de vida.
 
 ## Referências
 
-- [Website de Biodiversidade do Bureau Florestal](https://www.forest.gov.tw/biodiversity)
-- [Escritório de Gestão do Parque Nacional de Yushan - Divulgação científica sobre o urso-negro-de-Taiwan](https://www.ysnp.gov.tw/StaticPage/Science)
-- [Rede de Biodiversidade de Taiwan TBN](https://www.tbn.org.tw/)
-- [Rede de Observação de Atropelamento de Fauna de Taiwan](https://roadkill.tw/)
-- [The Reporter - Rastros frequentes do urso-negro-de-Taiwan](https://www.twreporter.org/a/ursus-thibetanus-formosanus-conservation)
-- [Centro de Investigação e Conservação de Espécies Endémicas](https://www.tesri.gov.tw/)
+- [Site de Biodiversidade da Administração Florestal](https://www.forest.gov.tw/biodiversity)
+- [Administração do Parque Nacional Yushan - Ciência sobre o Urso-negro-de-taiwan](https://www.ysnp.gov.tw/StaticPage/Science)
+- [Rede de Biodiversidade de Taiwan (TBN)](https://www.tbn.org.tw/)
+- [Observatório de Atropelamentos de Animais em Taiwan](https://roadkill.tw/)
+- [The Reporter - Frequentes aparições do urso-negro-de-taiwan](https://www.twreporter.org/a/ursus-thibetanus-formosanus-conservation)
+- [Centro de Pesquisa e Conservação de Espécies Endêmicas](https://www.tesri.gov.tw/)

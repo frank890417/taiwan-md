@@ -57,6 +57,7 @@ const S = {
   close: t('footnote.card.close' as any),
   aria: t('footnote.card.aria' as any),
 };
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 {
@@ -73,19 +74,7 @@ const S = {
   style={`--fn-accent:${accent};`}
 >
   <button class="twmd-fn-close" type="button" aria-label={S.close}>
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      stroke-width="2.4"
-      stroke-linecap="round"
-      aria-hidden="true"
-    >
-      <line x1="5" y1="5" x2="19" y2="19"></line>
-      <line x1="19" y1="5" x2="5" y2="19"></line>
-    </svg>
+    <Fragment set:html={iconSvg('close')} />
   </button>
 
   <p class="twmd-fn-eyebrow">
@@ -110,39 +99,11 @@ const S = {
       data-ga-section="footnote_card"
     >
       <span>{S.open}</span>
-      <svg
-        width="12"
-        height="12"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2.4"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        aria-hidden="true"
-      >
-        <path d="M14 4h6v6"></path>
-        <path d="M20 4 11 13"></path>
-        <path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"
-        ></path>
-      </svg>
+      <Fragment set:html={iconSvg('external')} />
     </a>
     <a class="twmd-fn-jump">
       <span>{S.jump}</span>
-      <svg
-        width="12"
-        height="12"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2.4"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        aria-hidden="true"
-      >
-        <path d="M12 5v14"></path>
-        <path d="m6 13 6 6 6-6"></path>
-      </svg>
+      <Fragment set:html={iconSvg('arrow-down')} />
     </a>
   </div>
 </div>

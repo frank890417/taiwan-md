@@ -5,7 +5,17 @@
  * 九類超過 dataviz 序列梯的 7–8 槽，圖例是「識別通道」，直接標籤只補充；表格 fallback。
  * 顏色跟隨類別 slot 不跟隨排名。v2：寬 760／窄 400 兩套幾何，右邊界依最長標籤估寬（en 不再出框）。
  */
-import { scaleLinear, niceTicks, areaPath, linePath, fmtAxis, fmtYi, estTextW, fitText, CHART_WIDTHS } from '../../utils/budgetViz';
+import {
+  scaleLinear,
+  niceTicks,
+  areaPath,
+  linePath,
+  fmtAxis,
+  fmtYi,
+  estTextW,
+  fitText,
+  CHART_WIDTHS,
+} from '../../utils/budgetViz';
 
 export interface Cat {
   id: string;
@@ -49,7 +59,9 @@ const {
 
 const zh = lang === 'zh-TW';
 const n = years.length;
-const totals = years.map((_, yi) => cats.reduce((a, _c, ci) => a + (values[ci]?.[yi] ?? 0), 0));
+const totals = years.map((_, yi) =>
+  cats.reduce((a, _c, ci) => a + (values[ci]?.[yi] ?? 0), 0),
+);
 const norm = (ci: number, yi: number) => {
   const v = values[ci]?.[yi] ?? 0;
   return mode === 'share' ? (totals[yi] ? (v / totals[yi]) * 100 : 0) : v;
@@ -67,18 +79,27 @@ for (let ci = 0; ci < cats.length; ci++) {
 }
 const uid =
   id ||
-  `sa-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+  `sa-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
 const fmtCell = (v: number) =>
   mode === 'share' ? `${v.toFixed(1)}%` : Math.round(v).toLocaleString('en-US');
 const endLabelText = (ci: number) =>
-  mode === 'share' ? `${norm(ci, n - 1).toFixed(0)}%` : fmtAxis(norm(ci, n - 1), '億', lang);
+  mode === 'share'
+    ? `${norm(ci, n - 1).toFixed(0)}%`
+    : fmtAxis(norm(ci, n - 1), '億', lang);
 
 function layout(W: number, narrow: boolean) {
   const H = narrow ? Math.round(height * 0.8) : height;
-  const longest = Math.max(0, ...cats.map((c, ci) => estTextW(`${c.label} ${endLabelText(ci)}`)));
+  const longest = Math.max(
+    0,
+    ...cats.map((c, ci) => estTextW(`${c.label} ${endLabelText(ci)}`)),
+  );
   const M = {
     l: narrow ? 44 : 58,
-    r: narrow ? Math.max(90, Math.min(140, longest + 14)) : Math.max(120, Math.min(230, longest + 18)),
+    r: narrow
+      ? Math.max(90, Math.min(140, longest + 14))
+      : Math.max(120, Math.min(230, longest + 18)),
     t: 16,
     b: 34,
   };
@@ -93,19 +114,36 @@ function layout(W: number, narrow: boolean) {
     const botPts = years.map((yr, yi) => ({ x: x(yr), y: y(lower[yi]) }));
     const lastMid = (y(upper[n - 1]) + y(lower[n - 1])) / 2;
     const lastH = y(lower[n - 1]) - y(upper[n - 1]);
-    return { c, ci, d: areaPath(topPts, botPts), topLine: linePath(topPts), lastMid, lastH, lastVal: norm(ci, n - 1) };
+    return {
+      c,
+      ci,
+      d: areaPath(topPts, botPts),
+      topLine: linePath(topPts),
+      lastMid,
+      lastH,
+      lastVal: norm(ci, n - 1),
+    };
   });
   // 右端標籤：由上到下排、避免重疊；太薄的層不標（值留圖例與表格）
   const minPx = narrow ? Math.max(minLabelPx, 13) : minLabelPx;
-  const valW = Math.max(...layers.map((l) => estTextW(endLabelText(l.ci), 12, 6.6))) + 6;
+  const valW =
+    Math.max(...layers.map((l) => estTextW(endLabelText(l.ci), 12, 6.6))) + 6;
   const labels = layers
-    .map((l) => ({ ...l, ly: l.lastMid, show: l.lastH >= minPx, fit: fitText(l.c.label, M.r - 14 - valW, 12, 10) }))
+    .map((l) => ({
+      ...l,
+      ly: l.lastMid,
+      show: l.lastH >= minPx,
+      fit: fitText(l.c.label, M.r - 14 - valW, 12, 10),
+    }))
     .sort((a, b) => a.ly - b.ly);
   for (let i = 1; i < labels.length; i++) {
-    if (labels[i].ly - labels[i - 1].ly < 13) labels[i].ly = labels[i - 1].ly + 13;
+    if (labels[i].ly - labels[i - 1].ly < 13)
+      labels[i].ly = labels[i - 1].ly + 13;
   }
   const step = narrow ? 5 : n > 8 ? 2 : 1;
-  const xTicks = years.filter((_, i) => i % step === 0 || i === n - 1);
+  const xTicks = years.filter(
+    (_yr, i) => i === n - 1 || (i % step === 0 && n - 1 - i > (narrow ? 2 : 0)),
+  );
   return { W, H, M, iw, ih, x, y, layers, labels, xTicks, narrow };
 }
 const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
@@ -127,13 +165,23 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {ticks.map((t) => (
           <g class="bg-grid">
             <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(t)} y2={L.y(t)} />
-            <text x={L.M.l - 8} y={L.y(t) + 4} text-anchor="end" class="bg-tick">
+            <text
+              x={L.M.l - 8}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
               {mode === 'share' ? `${t}%` : fmtAxis(t, '億', lang)}
             </text>
           </g>
         ))}
         {L.xTicks.map((yr) => (
-          <text x={L.x(yr)} y={L.M.t + L.ih + 20} text-anchor="middle" class="bg-tick">
+          <text
+            x={L.x(yr)}
+            y={L.M.t + L.ih + 20}
+            text-anchor="middle"
+            class="bg-tick"
+          >
             {yr}
           </text>
         ))}
@@ -148,13 +196,30 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
         {L.layers.slice(0, -1).map((l) => (
           <path d={l.topLine} class="bg-seam" fill="none" />
         ))}
-        <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(0)} y2={L.y(0)} class="bg-axis" />
+        <line
+          x1={L.M.l}
+          x2={L.M.l + L.iw}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="bg-axis"
+        />
         {L.labels
           .filter((l) => l.show)
           .map((l) => (
             <g class={`bg-endlab-g ${l.c.cls}`}>
-              <line x1={L.M.l + L.iw + 2} x2={L.M.l + L.iw + 8} y1={l.lastMid} y2={l.ly} class="bg-leader" />
-              <text x={L.M.l + L.iw + 11} y={l.ly + 4} class="bg-endlab" style={`font-size:${l.fit.size}px`}>
+              <line
+                x1={L.M.l + L.iw + 2}
+                x2={L.M.l + L.iw + 8}
+                y1={l.lastMid}
+                y2={l.ly}
+                class="bg-leader"
+              />
+              <text
+                x={L.M.l + L.iw + 11}
+                y={l.ly + 4}
+                class="bg-endlab"
+                style={`font-size:${l.fit.size}px`}
+              >
                 {l.fit.text}
                 <tspan class="bg-endlab-v"> {endLabelText(l.ci)}</tspan>
               </text>
@@ -173,7 +238,7 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
             <span class="bg-legend-val">
               {mode === 'share'
                 ? `${norm(ci, n - 1).toFixed(1)}%`
-                : `${fmtYi(values[ci]?.[n - 1] ?? 0, lang)} · ${((values[ci]?.[n - 1] ?? 0) / (totals[n - 1] || 1) * 100).toFixed(1)}%`}
+                : `${fmtYi(values[ci]?.[n - 1] ?? 0, lang)} · ${(((values[ci]?.[n - 1] ?? 0) / (totals[n - 1] || 1)) * 100).toFixed(1)}%`}
             </span>
           </li>
         ))}
@@ -181,7 +246,14 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
       </ul>
     )
   }
-  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {zh ? '來源：' : 'Source: '}
+        {source}
+      </figcaption>
+    )
+  }
   <details class="bg-table">
     <summary>{zh ? '資料表' : 'Data table'}</summary>
     <div class="bg-table-wrap">
@@ -197,7 +269,8 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
             cats.map((c, ci) => (
               <tr>
                 <td>
-                  <span class={`bg-swatch ${c.cls}`} aria-hidden="true" /> {c.label}
+                  <span class={`bg-swatch ${c.cls}`} aria-hidden="true" />{' '}
+                  {c.label}
                 </td>
                 {years.map((_, yi) => (
                   <td class="num">{fmtCell(norm(ci, yi))}</td>
@@ -207,9 +280,15 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
           }
           <tr class="bg-total">
             <td>{zh ? '合計' : 'Total'}</td>
-            {totals.map((t) => (
-              <td class="num">{mode === 'share' ? '100%' : Math.round(t).toLocaleString('en-US')}</td>
-            ))}
+            {
+              totals.map((t) => (
+                <td class="num">
+                  {mode === 'share'
+                    ? '100%'
+                    : Math.round(t).toLocaleString('en-US')}
+                </td>
+              ))
+            }
           </tr>
         </tbody>
       </table>

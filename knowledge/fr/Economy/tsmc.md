@@ -140,7 +140,7 @@ Comté de Baoshan, comté de Hsinchu.
 
 En 1844 (24e année de l'ère Daoguang de la dynastie Qing), Zheng Yong-jin fit construire par sa famille un cimetière familial de 4 000 pyongs. Cent soixante-dix-huit ans plus tard, ces tombes ancestrales doivent céder leur terrain pour l'usine de 2 nanomètres de TSMC[^20].
 
-Le bureau de gestion du parc scientifique de Hsinchu a dû négocier pendant cinq ans avec les descendants de la famille Zheng pour l'expropriation de 270 000 pyongs (incluant le cimetière). Durant le processus, TSMC aurait « engagé des ouvriers pour creuser et sonder le cimetière sans autorisation, plantant des barres de fer à au moins trois endroits »[^20]. Les habitants de Baoshan ont manifesté avec des rubans blancs. Le conseiller du comté de Hsinchu, Chiu Chen-wei, a déclaré directement : « C'est comme l'extermination du village d'Oosaki »[^2<0xA0>20].
+Le bureau de gestion du parc scientifique de Hsinchu a dû négocier pendant cinq ans avec les descendants de la famille Zheng pour l'expropriation de 270 000 pyongs (incluant le cimetière). Durant le processus, TSMC aurait « engagé des ouvriers pour creuser et sonder le cimetière sans autorisation, plantant des barres de fer à au moins trois endroits »[^20]. Les habitants de Baoshan ont manifesté avec des rubans blancs. Le conseiller du comté de Hsinchu, Chiu Chen-wei, a déclaré directement : « C'est comme l'extermination du village d'Oosaki »[^20].
 
 La relocalisation s'est achevée fin mai 2025.
 
@@ -275,15 +275,11 @@ Cet article utilise 2 images, toutes mises en cache dans `public/article-images/
 
 [^11]: [DigiTimes: Nombre d'employés de TSMC à 84 512 en déc. 2024](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000690785_T8Z6HY3S99B4JU4FMVK8H) — Statistiques d'un média spécialisé chinois début 2025, indiquant un effectif de 84 512 personnes (déc. 2024), avec une estimation dépassant 90 000 en 2025.
 
-[^12]: [商業周刊書摘：揭秘台積電創立起源 — 張忠謀我和命運有約](https://www.businessweekly.com.tw/business/blog/3017310) — Extraits de l'autobiographie de Morris Chang (Business Weekly, nov. 2024), relatant la proposition du « Common Wafer Fab » le 04-09-1985 au bureau de Li Kuo-ting, la structure du capital en 1987 (Philips 27,5 % / Exécutif 48,3 % / Wang 5 %) et les devises « Ne pas faire de promesses faciles » et « Ne pas concurrencer les clients ».
-
 [^13]: [今周刊：張忠謀 16 年前為何重掌台積電 CEO](https://www.businessweekly.com.tw/business/blog/3017310) — Reportage approfondi de _Next Magazine_ (fév. 2025), détaillant le licenciement de 840 employés par Tsai Li-hsing en 2009, l'histoire du lait de soja devant la maison de Morris Chang, et le remplacement en moins de dix minutes lors du conseil du 11 juin, ainsi que le principe de « ne pas licencrer ».
 
 [^14]: [Wikipedia: Morris Chang](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Article Wikipédia sur Morris Chang, détaillant sa naissance à Ningbo en 1931, ses déplacements dans six villes avant l'âge de 18 ans, ses dix écoles et son départ pour les États-Unis en 1949.
 
 [^15]: [Wikipedia: TSMC](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Article principal sur TSMC, détaillant la chronologie : Fab 5 (8 pouces) en oct. 1997, début de Fab 12 (12 pouces) en déc. 1999 et production en 2002.
-
-[^16]: [9to5Mac: iPhone 6 chipworks teardown reveals TSMC A8](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — Analyse technique internationale du 19-09-2014, indiquant que le processeur Apple A8 de l'iPhone 6/6 Plus est fabriqué par TSMC en 20 nm, remplaçant Samsung.
 
 [^17]: [ETtoday：賴清德私訪張忠謀魏哲家林全 預備 1000 億宣布](https://en.wikipedia.org/wiki/TSMC) — Reportage de presse chinoise de mars 2025, indiquant la visite privée de Lai Ching-te à Morris Chang, Wei Jھی-jia et Lin Chuan en février 2025 pour préparer l'annonce des 100 milliards.
 
@@ -318,3 +314,7 @@ Cet article utilise 2 images, toutes mises en cache dans `public/article-images/
 [^32]: [獨立評論／瞿宛文：護國神山的由來](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Analyse de l'institut Academia Sinica (Qu Wan-wen) sur l'origine de la « Montagne protectrice », mentionnant les transferts technologiques RCA et le rôle du gouvernement.
 
 [^33]: [TSMC PR: Fab 5 wins Top Fab 2000 honor](https://companiesmarketcap.com/tsmc/marketcap/) — Communiqué officiel de TSTSMC (2000), détaillant la construction et la production de la Fab 5 à Hsinchu.
+
+[^34]: [Opinion / Chiu Wan-wen: Les origines de la montagne qui protège la nation](https://opinion.cw.com.tw/blog/profile/390/article/13390) — Analyse approfondie de la chercheuse de l'Academia Sinica Chiu Wan-wen, qui rapporte mot pour mot des passages en chinois sur le voyage de l'ITRI chez RCA en 1976 et la ligne pilote de plaquettes de 3 pouces (d'où UMC en 1980), sur le programme VLSI de deuxième phase du gouvernement qui construisit la ligne pilote de plaquettes de 6 pouces devenue la base de TSMC, et sur la répartition du capital (Philips 27,6 %, Yuan exécutif 48,3 %) à la fondation de 1987. La source primaire chinoise de la première usine de TSMC, une ligne de plaquettes de 6 pouces (150 mm) au procédé de 2 microns.
+
+[^35]: [Communiqué de presse de TSMC : Fab 5 reçoit le Top Fab 2000](https://pr.tsmc.com/english/news/2230) — Communiqué officiel de TSMC de 2000, rapportant que Fab 5 est la troisième usine de 8 pouces de l'entreprise dans le parc scientifique de Hsinchu (Taïwan), que la construction débuta en novembre 1995 et que l'usine fut inaugurée en octobre 1997.

@@ -1,148 +1,98 @@
 ---
-title: 'Zhu Ge Liang'
-description: 'Nama aslinya adalah Xie Xin-da, lahir pada tahun 1946 di Zuoying, Kaohsiung. Ayahnya bekerja sebagai pandai besi dan ibunya berjualan sayuran. Ia putus sekolah setelah lulus SD dan mulai belajar opera tradisional Gezaixi pada usia 15 tahun. Pada tahun 1960-an, ia memulai kariernya dengan meniru penyanyi di pasar malam. Pada tahun 1970-an, seiring dengan pertumbuhan ekonomi Taiwan dan meningkatnya kebutuhan hiburan malam, budaya pertunjukan panggung pun muncul. Ia memadukan opera tradisional, dongeng rakyat, dan elemen populer menjadi "humor gaya Zhu", menggunakan rima improvisasi dalam bahasa Hokkien untuk membawa bahasa rakyat ke acara varietas televisi. Ia wafat pada Mei 2017 karena kanker usus besar.'
+title: 'Chu Ko-liang'
+description: "Chu Ko-liang (1946–2017, nama asli Hsieh Hsin-ta) lahir di Zuoying, Kaohsiung. Pada usia 14 tahun ia meninggalkan rumah untuk bergabung dengan New Drama Troupe, dan pada usia 31 tahun ia debut sebagai presenter di Blue Sapphire Grand Dance Hall. Pada 1980-an, ia menjadi terkenal di seluruh Taiwan lewat kaset video 'Chu Ko-liang Cabaret Show'. Tahun 1993 ia melarikan diri karena hutang judi dan menghilang selama sepuluh tahun; 2009 ia kembali lewat replik 'pergi ke luar negeri untuk belajar', dan tahun berikutnya memenangkan Golden Bell Award untuk Pembawa Acara Variety Show Terbaik. Di akhir hayat, ia setiap tahun merilis film Imlek."
 date: 2026-03-19
 category: 'People'
-tags:
-  [
-    'Zhu Ge Liang',
-    'Pertunjukan Panggung',
-    'Komedi',
-    'Acara Varietas',
-    'Bahasa Hokkien',
-  ]
+tags: ['Chu Ko-liang', 'kabaret', 'komedi', 'variety show', 'Bahasa Taiwan']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-10-22
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: '9be0c5314'
-sourceContentHash: 'sha256:d55c93f02208554f'
-sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-10-15T19:13:53.416331+00:00'
+sourceCommitSha: 'b13002258'
+sourceContentHash: 'sha256:207c26e5b764aafa'
+sourceBodyHash: 'sha256:e8b115a1f996f620'
+translatedAt: '2026-10-22T18:43:06.243746+00:00'
 ---
 
-# Chu Ke-liang: Raja Pertunjukan Taiwan
+# Zhu Ge-liang: Dari Panggung Klub Malam ke Film Imlek, Raja Bahasa Taiwan
 
-Dari kampung karyawan militer di Zuoying, Kaohsiung, hingga ke layar televisi nasional Taiwan, Chu Ke-liang membangun bahasa komedian yang menjadi miliknya sendiri melalui apa yang dikenal sebagai "humor gaya Chu." Rap bahasa Taiwan-nya, kecerdikan improvisasi, dan perspektif dari rakyat jelata membuatnya menjadi sosok idola selama puluhan tahun, seseorang yang dianggap penonton kelas pekerja sebagai "salah satu dari kita." Pada Mei 2017, ia meninggal karena kanker usus besar pada usia 70 tahun.
+Zhu Ge-liang (1946–2017) nama aslinya Xie Xinda, pada 2009 setelah comeback berganti nama menjadi Xie Youzhen. Pada 1980-an ia menjadi terkenal di mana-mana lewat video pertunjukan klub malam, dan bersama Zhang Fei, Xing Feng dijuluki "Zhu di selatan, Zhang di utara, Xing Feng di tengah". Pada 1993 ia melarikan diri, mundur dari khalayak selama sepuluh tahun, pada 2009 satu kalimat "pergi ke luar negeri untuk studi lanjutan" membuat seluruh Taiwan menyambutnya kembali dengan tertawa, tahun berikutnya meraih Penghargaan Golden Bell untuk Pembawa Acara Variety Terbaik, dan di beberapa tahun terakhir setiap Imlek selalu ada film Imlek baru.
 
-## Latar Belakang Rakyat Jelata dalam Dunia Hiburan
+## Kronologi
 
-Chu Ke-liang lahir dengan nama Hsin Ta Hsieh pada 6 Desember 1946, berasal dari Distrik Zuoying, Kaohsiung[^1]. Ayahnya, Hsieh Huo-yen, adalah pandai besi, dan ibunya menjual sayuran di pasar—keluarga hidup dalam kondisi sangat sederhana. Ia tumbuh di kawasan kampung karyawan militer Zuoying, terserap dalam budaya populer lokal yang kaya.
+| Tahun                   | Kejadian                                                                                                                                                                                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1946                    | 6 Desember lahir di Kaohsiung Zuoying[^1]                                                                                                                                                                                                                 |
+| 1960 (sekitar 14 tahun) | Meninggalkan Zuoying bergabung dengan 「新劇團」, mengikuti Lin Song-yen sebagai guru, belajar dari menarik tirai di belakang panggung[^1]                                                                                                                |
+| 1977 (31 tahun)         | Dalam persiapan You Chi-tung untuk 《廖添丁》 memerankan peran komik 「豬哥亮」, nama panggungnya demikianlah asalnya. Masuk Blue Diamond Grand Hall (蓝宝石大歌厅) menjabat sutradara, penulis naskah, kemudian menggantikan pembawa acara dan debut[^1] |
+| 1988                    | 8 Oktober di belakang Blue Diamond Grand Hall (蓝宝石大歌厅) ditembak[^1]                                                                                                                                                                                 |
+| 1993                    | Karena judi menumpuk utang besar melarikan diri, 1997 sebentar comeback, 1999 lagi meninggalkan dunia hiburan[^1]                                                                                                                                         |
+| 2009                    | Februari tertangkam kamera wartawan 《蘋果日報》, 24 April comeback lewat iklan Cankun 3C, mulai Agustus memimpin 《豬哥會社》 di Formosa Television (民視)[^1]                                                                                           |
+| 2010                    | 22 Oktober bersama Hou Yi-jun berkat 《豬哥會社》 meraih Penghargaan Pembawa Acara Variety Ke-45 Golden Bell Awards (金鐘獎)[^1]                                                                                                                          |
+| 2011                    | Mulai tiap Tahun Baru Imlek merilis film lebaran, dari 《雞排英雄》、《大尾鱸鰻》 hingga 《大稻埕》、《大囍臨門》[^1]                                                                                                                                     |
+| 2014                    | 30 Mei dikonfirmasi menderita kanker usus besar stadium kedua[^1]                                                                                                                                                                                         |
+| 2017                    | Januari promosi film warisan 《大釣哥》, 15 Mei meninggal di Rumah Sakit Universitas Taiwan (台大醫院), berumur 70 tahun[^1]                                                                                                                              |
 
-Setelah menyelesaikan pendidikan dasar, ia terpaksa putus sekolah karena kesulitan finansial dan mulai bekerja membantu nafkah keluarga. Pada usia 15 tahun, ia mulai belajar opera Taiwanese (歌仔戲) dan magang untuk mempelajari teater tradisional—pengalaman ini menjadi fondasi untuk pertunjukan-pertunjukannya di masa depan.
+## Besar di Zuoying, Masuk Teater Sejak Remaja
 
-Pada tahun 1960-an, ia mulai tampil di jalanan pasar malam (夜市), meniru penyanyi terkenal dan bintang film masa itu. Pertunjukannya yang hidup dan penuh energi perlahan-lahan mendapatkan reputasi di kalangan masyarakat lokal.
+Zhu Ge-liang berasal dari keluarga Xie di Zuoying Wujia, asal leluhur dari Hui'an, Quanzhou. Menurut Wikipedia, ayahnya adalah pedagang sayur, membuka kios sayur; karena banyak pasukan termaktif di Zuoying, usahanya bagus, ketiga bersaudara laki-laki harus membantu, Zhu Ge-liang kecil dulu mengantarkan sayur naik sepeda[^1].
 
-## Kebangkitan Budaya Pertunjukan
+Ia menampakkan bakat akting saat sekolah di Sekolah Dasar Nasional Jiucheng (舊城國民學校). Ketua kelasnya, yang kemudian menjadi penulis Chen Fang-ming, mengingat Zhu Ge-liang membuat onar di kelas, guru ingin menghukum fisik, tiba-tiba ia mempertunjukkan bakat komedi, seluruh kelas tertawa terbahak-bahak, hukuman fisik pun terhindar[^1].
 
-Ketika ekonomi Taiwan meledak pada tahun 1970-an, permintaan akan hiburan malam meningkat, dan budaya pertunjukan (秀場文化) muncul sebagai respons atas kebutuhan ini. Chu Ke-liang memanfaatkan kesempatan ini dengan baik dan mulai tampil di berbagai venue di seluruh Taiwan.
+Usia 14 tahun ia meninggalkan Zuoying bergabung dengan Xinjutuan (新劇團), mengikuti Lin Song-yen sebagai guru, dulu menarik tirai di belakang panggung, mengikuti剧团 ke mana-mana. Usia 17 tahun saat dari Checheng, Pingtung ke Yuli, Hualien untuk pertunjukan, bintang utama Ai-zai Tu (矮仔塗) tertusuk kaki paku, ia sukarela menggantikan, mainnya bagus, sejak itu menjadi penulis naskah dan aktor profesional[^1].
 
-Pertunjukannya menggabungkan opera tradisional, kisah rakyat, dan elemen populer modern menjadi gaya yang unik—"gaya Chu." Kemampuannya dalam rap bahasa Taiwan—mampu menciptakan bait berima secara spontan di depan panggung—khususnya diminati oleh penonton.
+## Blue Sapphire Grand Cabaret: Debut pada Usia Tiga Puluh Satu Tahun
 
-Pertunjukan-pertunjukannya di venue hiburan sering memasukkan komentar tentang peristiwa terkini dan satire sosial, memberikan suara kepada warga biasa melalui humor. Gaya yang dekat dengan masyarakat ini mendorong kariernya untuk cepat melejit.
+Pada usia 31 tahun, You Chi-tung (nama panggung saat itu Yu Tung-jung) mengundangnya untuk berperan dalam 《Liao Tien-ting》, ia memerankan peran lawak 「Chu Ko-liang」, langsung mencuri perhatian, dan memutuskan untuk menggunakannya sebagai nama panggung. Atas rekomendasi Chang Chien dan Chang Ti, ia masuk ke Blue Sapphire Grand Cabaret yang didirikan oleh Yang Teng-kuei sebagai sutradara dan penulis naskah. Suatu hari saat pembawa acara utama Fei Chen-ling tiba-tiba tidak hadir, ia menggantikan dan resmi debut[^1].
 
-## Era Emas Pertunjukan Varieté Televisi
+Suasana berduet dimulai dengan Kang Hung, kemudian ada Yu Tien, Huang Hsi-tien, dan lain-lain. Song cabaret era itu biasanya wawancara penyanyi dulu, minta nyanyi, lalu main sketsa bersama; mereka juga sering berpura-pura jadi jitong atau toa-su, biar penyanyi tanya soal asmara, karir, bahkan nomor jitu undian tai-kah-lo periode depan. Poin-poin lucunya kebanyakan ide murni dia lemparkan di tempat[^1].
 
-Saat industri televisi Taiwan berkembang pesat pada tahun 1980-an, Chu Ke-liang berhasil beralih ke dunia varieté televisi. Program yang ia pandu, _Chu Ke-liang's Cabaret Show_ (《豬哥亮歌廳秀》), menjadi salah satu acara varieté paling populer di masanya[^2].
+Dekade 1980, kaset video 《Chu Ko-liang Ge-ting Siu》 laris manis di seluruh Taiwan. Kaset-kaset itu di wilayah Minnan juga beredar bajakan, tidak sedikit penonton di Chuan-chiu, Chiang-chiu, E-mng yang besar sambil menyewa kaset atau cakramnya[^1].
 
-Acara tersebut mengikuti format kasbar, menggabungkan menyanyi, tari, dan sketsa komedi. Gaya membawakan yang unik dari Chu Ke-liang dan kemampuan improvisasinya membuat program penuh dengan kejutan dan tawa.
+## Mikrofon yang Digantung di Dada
 
-Ia sangat terampil dalam berinteraksi dengan tamu—baik artis terkenal maupun penonton biasa, ia bisa menggali sisi menghibur dari siapa saja. Kemampuan pendekatan ini menjadi faktor kunci kesuksesannya.
+Awalnya belum ada mikrofon nirkabel, sambil tampil sambil pegang mikrofon sangat merepotkan, dia mendapat ide cemerlang mengikat mikrofon dengan tali digantung di dada, jadi ciri khas. Kemudian mikrofon nirkabel hadir, dia tetap bias menggunakannya, kedua tangan bebas main sketsa, ngobrol tamu juga enak gerak-gerik[^1].
 
-## Gaya Pertunjukan yang Tiada Tanding
+Dia kerja tidak sombong, awal karir urusan acara ditangani sendiri, anggap pemain seperti keluarga, makan bareng, katanya ini 「warisan sifu Lin Sung-yen」. Setiap kali mulai syuting, dia wajib sembah Tho-thi-kong, Te-ke-chu, Ho-hing-ti, bahkan tunjuk sendiri cara sembahnya[^1].
 
-Gaya pertunjukan Chu Ke-liang benar-benar unik, diukir melalui bertahun-tahun latihan nyata dari panggung pasar malam hingga venue pertunjukan. Keahlian bahasa adalah ciri paling menonjol dari dirinya: ia menguasai rap bahasa Taiwan, mampu menciptakan kata berima secara spontan dalam setiap pertunjukan, setiap performance penuh dengan kecerdasan jalanan dan humor.
+## Kabur Sepuluh Tahun dan 「Kuliah di Luar Negeri」
 
-Ia juga mahir menggunakan gerakan tubuh yang berlebihan dan ekspresi wajah dengan warna kuat dari opera tradisional, namun tetap mempertahankan sentuhan modern. Humor rakyat jelata adalah intinya: konten pertunjukannya dekat dengan pengalaman hidup masyarakat umum, membuat penonton tertawa sekaligus merasa ada makna di dalamnya. Kemampuan improvisasi yang luar biasa khususnya menonjol—ia dapat menciptakan lelucon berdasarkan situasi panggung saat itu, sehingga setiap pertunjukan selalu membawa kejutan yang tak terduga.
+Chu Ko-liang kecanduan tai-kah-lo dan luk-luk, menurut laporan pernah menang NT$140 juta hadiah, lalu kalah besar, menumpuk utang judi besar, 1993 kabur. 1997 sempat comeback sebentar, 1999 lagi pergi, hilang sepuluh tahun[^1].
 
-Beberapa ciri ini tersatukan dalam lingkungan pertunjukan venue yang penuh tekanan melalui bertahun-tahun latihan, membentuk sebuah sistem pertunjukan gaya Chu yang unik. Seseorang yang mampu bertahan selama dua jam penuh di panggung, teknik hanyalah dasar; koneksi emosional yang nyata dengan penonton adalah intinya.
+Belakangan dia bilang, masa itu cari kerja mana-mana tolak, bahkan satpam gedung tidak diterima, sempat mikir jadi biarawati[^1].
 
-## Kontroversi dan Masa Sulit
+19 Februari 2009, wartawan 《Ping-kok Jit-poh》 di toko o-ren di Chiu-chiu, Ping-tung, mengabadikannya. Tanggal 24 April tahun itu, Tsan-kun 3C merilis monolog iklannya, dia bilang bahasa Taiwan: 「Tua-pah chiah-bat kang ta-ke kien-mian, in-ui goa 『chhut-kok chhim-choh』.」 Kalimat itu jadi julukan masa itu[^1].
 
-Pada pertengahan tahun 1990-an, Chu Ke-liang terlibat dalam masalah utang judi dan terpaksa meninggalkan industri hiburan untuk sementara waktu. Selama periode ini, ia tinggal di Tiongkok daratan, dan karir hiburannya di Taiwan berhenti sejenak.
+5 Juni dia ke Pa-ta Television拜会 Yang Teng-kuei, keduanya publik berdamai, jembatan di dunia hiburan kian tersambung[^1].
 
-Media banyak memberitakan kehidupan pribadinya, termasuk masalah percintaan, masalah utang, dan sebagainya, yang mempengaruhi citranya. Namun, penonton rakyat jelata tidak sepenuhnya kehilangan kasih sayang mereka kepada dirinya.
+## Pasca-Comeback: 《Chu Ko Hui-sia》 dan Film Lebaran
 
-Masa sulit ini membuat Chu Ke-liang melakukan introspeksi mendalam tentang hidupnya, dan juga membawanya untuk mempertimbangkan kembali hubungannya dengan penonton. Kemudian ketika ia kembali, ia berfokus pada pertunjukan itu sendiri.
+Comeback pertamanya jadi host acara variety Min-shih 《Chu Ko Hui-sia》, rating pernah tembus 10%. 2010 dia dengan Hou Yi-chun lewat acara ini meraih Golden Bell Awards Host Terbaik Variety[^1].
 
-## Kembali Gemilang dan Musim Semi Kedua Karir
+Menurut rangkuman Wikipedia, fee host per episodenya dari Min-shih 《Chu Ko Hui-sia》 NT$300 ribu, naik jadi Chung-shih 《Ban-siu Chu-ong》 NT$700 ribu, Hua-shih 《Hua-shih Thien-ong Chu Ko-siu》 NT$850 ribu, mencatat rekor tertinggi host Taiwan[^1].
 
-Setelah memasuki dekade 2000-an, Chu Ke-liang kembali ke industri hiburan Taiwan, memulai musim semi kedua karirnya. Program yang ia pandu seperti _Chu Ke-liang's Society_ (《豬哥會社》) kembali mendapat sambutan penonton[^3].
+Mulai 2011, tiap Tahun Baru Imlek dia rilis film mainan, daftarnya ada 《Ke-tshiu Eng-hiong》《Toa-boe Lu-e》《Toa-tiu-tia》《Toa-hi Lim-mng》《Toa-boe Lu-e 2》, tiap tahun tembus NT$100 juta, sampai 2017 《Toa-tiau-ko》 (bioskop NT$69,32 juta) baru putus rekor, itu juga film warisannya[^1].
 
-Pertunjukan Chu Ke-liang setelah kembali semakin matang, sambil mempertahankan gaya aslinya, ia juga lebih memperhatikan kualitas program. Ia berkolaborasi dengan artis muda dan menunjukkan kemampuan adaptasi yang baik.
+## Tiga Tahun Terakhir
 
-Pada tahun 2010-an, ia berpartisipasi dalam berbagai penampilan film, termasuk film box office seperti _Big Eel_ (《大尾鱸鰻》), dengan performa penjualan yang mengesankan.
+Pada 30 Mei 2014, dia dikonfirmasi menderita kanker usus besar stadium dua. Setelah diagnosis, dia khawatir akan efek samping pengobatan, tidak segera menjalani pengobatan aktif, memilih memprioritaskan pekerjaan, dan juga mencoba obat tradisional Tionghoa, akupunktur, dan pengobatan rakyat. Pada 2016 kondisinya memburuk, cairan perut mencapai 6.600 mililiter, pada 6 September dimasukkan rumah sakit darurat untuk operasi, saat itu sel kanker sudah menyebar ke perut, hati, dan paru-paru[^1].
 
-## Eksplorasi Baru di Dunia Film
+Januari 2017, dia menopang tubuh sakitnya untuk mempromosikan 《大釣哥》, juga merekam acara khusus Malam Tahun Baru, dia berkata berbekal kekuatan kehendak, 「看著親人、兒女，那種天倫，會讓我想要活下去」。Februari, dia mengikuti perayaan keliling Mazu di Singang Fengtian Temple, menjadi penampilan publik terakhirnya[^1].
 
-Pada tahap akhir karirnya, Chu Ke-liang berpartisipasi dalam penampilan film, memainkan peran penting dalam serial film _Big Eel_ (《大尾鱸鰻》) yang disutradarai oleh Qiu Jiuming, dengan performa penjualan yang mengesankan[^4].
+Pagi 11 Mei, dia menelpon Yu Tian untuk menyapa, ikatan hati bertahun-tahun antara keduanya (disebut media sebagai「余亮情結」) dengan itu terurai. Pada 15 Mei pukul 05.10 pagi, dia meninggal dunia di RSU Taiwan[^1].
 
-Ia berhasil mentransfer pengalaman pertunjukan varieté televisi ke layar lebar, membuktikan potensi pasar untuk film komedi bahasa Taiwan.
+## Perpisahan
 
-Penampilan film Chu Ke-liang mempertahankan gaya humor khasnya, sekaligus menunjukkan pemahaman yang mendalam tentang karakter yang ia perankan.
+20 Juni, upacara perpisahan diadakan di Rumah Duka Umum Kota New Taipei. Keluarga melempar bui (erji) untuk bertanya, dewa menginstruksikan upacara hari ketujuh dan upacara perpisahan menggunakan ritual Tao, jenazah dikremasi lalu dimakamkan di Taman Kreatif Yongheng Keelung. Ribuan penggemar hadir, konvoi pengantar jenazah mengelilingi seluruh wilayah Banqiao[^1].
 
-## Kontribusi terhadap Budaya Bahasa Taiwan
+## Warisan
 
-Chu Ke-liang adalah pendorong penting budaya populer bahasa Taiwan, pertunjukannya membawa bahasa Taiwan mendapat posisi penting dalam media modern. Di era ketika dominasi bahasa Mandarin, ia tetap konsisten menggunakan bahasa Taiwan dalam pertunjukannya.
+Kebanyakan aktivitas hiburnya menggunakan bahasa Taiwan, di komunitas bahasa Hokkien, termasuk orang Min Nan di Tiongkok dan Asia Tenggara, dia memiliki popularitas[^1]. Adapun siapa yang terpengaruh, seberapa besar perubahan yang dia bawa pada acara variety kemudian, penilaian semacam itu mudah ditulis berlebihan, artikel ini tidak menarik kesimpulan bagi orang lain. Yang dapat diverifikasi, pada 1980-an kaset videonya, Penghargaan Emas 2010, dan film Tahun Baru Imlek yang bertahun-tahun mengumpulkan lebih dari NT$100 juta di akhir hayatnya, ketiga era itu semua memiliki penonton.
 
-Teknik rap bahasa Taiwan-nya mempengaruhi banyak performer generasi berikutnya, termasuk Peng Qiaqia dan Xu Xiaoxun yang terinspirasi oleh dirinya. Chu Ke-liang mendirikan tradisi penting untuk pertunjukan komedi bahasa Taiwan.
-
-Pertunjukannya juga melestarikan banyak elemen budaya tradisional Taiwan, termasuk melodi opera tradisional dan cerita rakyat, memiliki makna penting untuk pewarisan budaya.
-
-## Ikatan Emosional yang Mendalam dengan Penonton
-
-Kesuksesan terbesar Chu Ke-liang terletak pada ikatan emosional yang mendalam yang dibangunnya dengan penontonnya. Pertunjukannya selalu penuh dengan ketulusan, mampu membuat penonton merasakan perhatian yang ia berikan.
-
-Ia sangat dicintai oleh penonton dari daerah tengah dan selatan Taiwan serta masyarakat kelas pekerja, dianggap sebagai "salah satu dari kita." Kedekatan semacam ini adalah faktor penting yang memungkinkannya melewati karir hiburan yang panjang selama puluhan tahun.
-
-Bahkan di masa-masa sulit, masih ada banyak penggemar setia yang mendukungnya, membuktikan posisi istimewa yang dimilikinya di hati penonton.
-
-## Pengaruh terhadap Budaya Varieté Taiwan
-
-Chu Ke-liang membuka model penting untuk program varieté lokal Taiwan, mempengaruhi format tak terhitung jumlahnya dari program-program varieté yang datang kemudian. Gaya membawakan acaranya ditiru dan dipelajari oleh banyak host generasi muda.
-
-Dia membuktikan nilai komersial dari program varieté bahasa Taiwan, membuka segmen pasar penting bagi industri televisi Taiwan. Ini memiliki makna penting untuk pengembangan budaya televisi Taiwan.
-
-Banyak host varieté terkenal seperti Wu Zongxian dan Hu Gua menyatakan terpengaruh oleh Chu Ke-liang. Ia mendirikan tradisi pertunjukan penting bagi industri hiburan Taiwan.
-
-## Perjuangan Melawan Kanker di Usia Senja dan Refleksi Hidup
-
-Pada tahun 2014, Chu Ke-liang didiagnosis menderita kanker usus besar dan mulai menjalani perawatan. Bahkan dalam penderitaan, ia tetap bersikeras untuk bekerja, menunjukkan kemauan yang kuat.
-
-Selama perjuangan melawan penyakit, ia sangat menghargai waktu yang dihabiskan bersama keluarga dan penontonnya, menghadapi setiap pertunjukan dengan serius. Ia menghadapi penyakit dengan sikap optimis yang menginspirasi banyak orang.
-
-Dalam wawancara, ia mengungkapkan renungan mendalam tentang hidupnya, percaya bahwa kemampuan untuk membawa kegembiraan kepada penonton adalah pencapaian terbesar. Cinta terhadap seni pertunjukan ini menginspirkan banyak orang.
-
-## Perpisahan Tahun 2017
-
-Pada 15 Mei 2017, Chu Ke-liang meninggal karena kanker usus besar di Rumah Sakit Universitas Taiwan, pada usia 70 tahun[^5]. Kematiannya memicu duka yang luas di masyarakat Taiwan, dengan berbagai pihak mengungkapkan kerinduannya terhadapnya.
-
-Di upacara pemakaman, banyak teman dari industri hiburan dan penggemar setia hadir, suasananya sangat menyentuh hati. Kepergiannya menandai akhir dari sebuah era—budaya pertunjukan Taiwan kehilangan tokoh perwakilan yang sangat penting.
-
-Media membuat retrospektif tentang karir hiburannya, mengakui kontribusi penting Chu Ke-liang terhadap budaya hiburan Taiwan. Rekaman pertunjukannya menjadi aset budaya yang berharga.
-
-## Warisan Budaya
-
-Chu Ke-liang meninggalkan rekam jejak hidup budaya rakyat jelata Taiwan selama puluhan tahun. Rekaman pertunjukannya mencakup era dari pasar malam hingga era emas televisi, mencatat perubahan struktur sosial Taiwan yang cepat.
-
-Tradisi komedi bahasa Taiwan yang ia ciptakan terus mempengaruhi performer muda, banyak artis muda belajar teknik dan semangat dari pertunjukannya.
-
-Chu Ke-liang membuktikan bahwa seorang seniman dari latar belakang rakyat jelata juga dapat mencapai kesuksesan luar biasa, kisah hidupnya menginspirasi ribuan orang yang memiliki mimpi dalam dunia hiburan.
-
-"Humor gaya Chu" telah menjadi tipe komedi yang unik di Taiwan, rekaman pertunjukannya menjadi arsip sejarah untuk mencatat budaya rakyat jelataTaiwan.
-
-Ahli bahasa menganalisis struktur humor gaya Chu, meringkas beberapa elemen inti: nada dan rima bahasa Taiwan menciptakan efek berima alami, kata bermakna ganda dalam bahasa Minnan membuat satu kata membawa dua arti sekaligus, bahasa jalanan yang tercampur dengan istilah klasik menciptakan rasa kontras, dan banyak rujukan konteks—ungkapan "yang mengerti pasti tahu" ini membangun ruang kesepahaman khusus antara Chu Ke-liang dan penonton intinya.
+2022, putra tertuanya Hsieh Shun-fu bersama tim startup menggunakan teknologi penampilan virtual-nyata memproduksi video AI 「Chu Ko-shih dan Biksu Kecil」, dengan putri ketiganya Hsieh Chin-ching mendub Biksu Kecil[^1].
 
 ## Referensi
 
-[^1]: Entri Wikipedia "Zhu Ge Liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, tempat lahir: Distrik Zuoying, Kota Kaohsiung
-
-[^2]: Liberty Times <Upacara Perpisahan Zhu Ge Liang, 10.000 Orang Mengantar Kepergiannya>, https://news.ltn.com.tw/, 21 Mei 2017
-
-[^3]: Database Televisi Taiwan, https://tv.nccu.edu.tw/, catatan program "Zhu Ge Hui She"
-
-[^4]: CNA <Box Office Da Wei Lu Man Melebihi NT$300 Juta>, https://www.cna.com.tw/, laporan box office Februari 2013
-
-[^5]: UDN <Zhu Ge Liang Meninggal Dunia pada 15 Mei, Wafat pada Usia 70 Tahun>, https://udn.com/, 15 Mei 2017
+[^1]: Entri Wikipedia "Zhu Ge Liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE (diakses 2026-10-22; bagian kehidupan, kronologi, gaya hiburan, menderita kanker, dan urusan setelah meninggal)

@@ -133,7 +133,7 @@ The cultural visibility of the Taiwan blue magpie also remains steadfast. Beyond
 | **Habitat**             | Mid-to-low altitude broadleaf forests; recently expanded to urban green spaces | Commonly seen in Yangmingshan, Da'an Forest Park, etc. [^16]                                       |
 | **Legal Penalties**     | Up to 5 years imprisonment and a fine of NT$1 million                          | For harassing or hunting protected species under the _Wildlife Conservation Act_ [^28]             |
 
-### 參考資料 / Sources
+### References
 
 [^1]: [iNaturalist: Taiwan Blue Magpie Guide](https://www.inaturalist.org/guide_taxa/1125250) — Detailed records of Swinhoe's historical discovery process and quotes regarding the blue magpie.
 

@@ -1,15 +1,15 @@
 ---
-title: 'História e movimento de rectificação de nomes dos povos indígenas de Taiwan'
-description: 'Em 1987, um jovem de 19 anos do povo Tsou foi executado por fuzilamento no campo de execução de Taipé. A sua morte acendeu a primeira faísca do movimento de rectificação de nomes.'
+title: 'História dos Povos Indígenas de Taiwan e o Movimento de Redesignação'
+description: "Em 1987, Tang Ying-shen, um jovem de 19 anos do povo Tsou, foi executado por fuzilamento em uma execução em Taipei; sua morte acendeu a primeira chama do movimento de redesignação dos povos indígenas de Taiwan. Desde a fundação da Associação de Direitos Indígenas em 1984, a derrubada da estátua de Audacia Wu em 1988 e as marchas pelo 'Retorno das Nossas Terras', até a mudança do termo constitucional de 'habitantes das montanhas' para 'indígenas' em 1994, e a inclusão oficial do termo 'povo/etnia' na Lei Básica dos Povos Indígenas em 2005, este caminho levou 21 anos. Os termos 'naturalizados' e 'selvagens' da era holandesa, os 'civilizados' e 'selvagens' da dinastia Qing, a 'administração de indígenas' do período colonial japonês e os 'habitantes das montanhas' no pós-guerra — cada nome era uma fechadura; as três primeiras fases foram nomes dados por outros, as duas últimas foram conquistadas pelo próprio povo."
 date: 2026-03-29
 category: 'History'
 tags:
   [
-    'povos indígenas',
-    'movimento de rectificação de nomes',
-    'identidade',
-    'movimentos sociais',
-    'preservação cultural',
+    'Povos Indígenas',
+    'Movimento de Redesignação',
+    'Identidade',
+    'Movimentos Sociais',
+    'Preservação Cultural',
   ]
 subcategory: '史前與原住民'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-07-29T17:42:47+08:00'
+translatedAt: '2026-10-21T02:14:17.881421+00:00'
 ---
 
 # História e movimento de rectificação de nomes dos povos indígenas de Taiwan

@@ -1,10 +1,8 @@
 ---
 title: 'Cảm thức Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước, rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?'
 description: 'Năm 2008, một nhóm người ở Đài Nam đã phát động phong trào “Sức sống mới của nhà cổ”, bắt đầu nhìn lại những ngôi nhà cũ của chính mình—sớm hơn tròn 11 năm so với khi người Hàn Quốc say mê cảnh phố Đài Loan dưới tên gọi “대만감성”. Thế nhưng, khi trào lưu này bùng nổ qua ống kính K-pop vào năm 2024, chúng ta lại dùng khuôn khổ “xuất khẩu văn hóa” của Cục Du lịch và Bộ Văn hóa để diễn giải, như thể ánh nhìn ban đầu ấy phải được người Hàn Quốc nhấn thích trước thì mới có giá trị.'
-date: '2026-03-18'
-author: 'Taiwan.md'
+date: 2026-03-18
 category: 'Culture'
-subcategory: '區域特色'
 tags:
   [
     'cảm thức Đài Loan',
@@ -18,10 +16,13 @@ tags:
     'tái thiết đô thị',
     'Vương Thông Uy',
   ]
-readingTime: '18'
-lastVerified: '2026-07-18'
-lastHumanReview: 'false'
+subcategory: '區域特色'
+author: 'Taiwan.md'
+difficulty: 'beginner'
+readingTime: 18
 featured: true
+lastVerified: 2026-07-18
+lastHumanReview: false
 image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
@@ -31,11 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-07-18T18:59:51+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:52:42.411786+00:00'
 ---
 
 # Cảm thức Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước, rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?
@@ -150,40 +152,40 @@ Vì vậy, lịch sử điện ảnh Đài Loan không đưa ra câu trả lời
 
 Phim có thể xem lại, nhà cửa thì không. Khi chuyển ống kính từ rạp chiếu phim trở lại đường phố, chúng ta sẽ phát hiện một vấn đề khó xử hơn: những lý do mà chính chúng ta đưa ra để tháo bỏ các công trình cũ đang biến mất liệu có đủ thành thật hay không?
 
-## Hai lý do cho một cây cầu và những người thuê nhà chưa từng được hỏi
+## Hai lý do cho một cây cầu, và những người thuê nhà chưa từng được hỏi đến
 
-Hãy trở lại cây cầu ấy.
+Quay lại với cây cầu đó.
 
-Cầu bộ hành Hòa Bình–Tân Sinh được xây dựng năm 1982 và trong bốn mươi năm là một trong những cầu bộ hành thường xuất hiện trên màn ảnh nhất Đài Bắc—ngoài ảnh cưới của Oh Hyuk, cả Dương Đức Xương và Ang Lee đều từng ghi hình tại đây[^23]. Đêm 19 tháng 11 năm 2024, cây cầu bị tháo dỡ. Lý do chính quyền thành phố đưa ra là “đã qua thời hạn sử dụng 40 năm, kết cấu có vấn đề”. Vấn đề là lý do này không khớp với báo cáo do chính thành phố nắm giữ.
+Cầu vượt Hòa Bình–Tân Sinh được xây dựng vào năm 1982, trong suốt 40 năm qua là một trong những cầu đi bộ xuất hiện thường xuyên nhất trên ống kính máy ảnh tại Đài Bắc — ngoài những bức ảnh cưới của Ngô Hách (Wu He), cả Dương Đức Xương (Ang Lee) và Lý An (Ang Lee) đều từng chọn nơi đây làm bối cảnh phim[^23]. Vào đêm muộn ngày 19 tháng 11 năm 2024, nó đã bị dỡ bỏ. Lý do mà chính quyền thành phố đưa ra là "thời hạn sử dụng đã 40 năm, kết cấu có vấn đề". Vấn đề nằm ở chỗ, lý do này mâu thuẫn với chính báo cáo mà thành phố đang nắm giữ.
 
-Chỉ nửa năm trước khi tháo dỡ, ngày 17 tháng 5 năm 2024, một công ty mang tên Tư vấn Kỹ thuật Công trình Phòng chống Thiên tai Tích hợp Đài Loan vừa hoàn tất kiểm tra kết cấu cây cầu. Kết luận là chỉ cần sửa phần tấm trang trí bên ngoài bị gỉ và thủng; bản thân kết cấu không đáng lo ngại[^24]. Sau đó, bà Cố, người có giấy phép kiến trúc sư Hoa Kỳ, kiểm tra hồ sơ trong “Hệ thống quản lý cầu và cống Đài Bắc” rồi chỉ ra mâu thuẫn: báo cáo rõ ràng xác định “kết cấu không đáng lo”, nhưng chưa đầy nửa năm sau, Phòng Công trình mới của thành phố lại đổi lời thành “kết cấu cầu đáng lo ngại”[^24].
+Chỉ nửa năm trước khi bị dỡ bỏ, vào ngày 17 tháng 5 năm 2024, một công ty có tên "Tư vấn Kỹ thuật Phòng chống Thiên tai Tích hợp Đài Loan" vừa mới hoàn tất việc kiểm tra kết cấu cây cầu này, với kết luận rằng: chỉ cần sửa chữa phần tấm trang trí bên ngoài bị ăn mòn và thủng lỗ, bản thân kết cấu không có vấn đề gì[^24]. Cô Cố, một người sở hữu chứng chỉ kiến trúc sư tại Hoa Kỳ, sau khi xem xét hồ sơ trên "Hệ thống Quản lý Cầu vượt Đài Bắc" đã chỉ ra sự mâu thuẫn này: báo cáo kiểm tra rõ ràng xác nhận "kết cấu không có vấn đề", vậy mà Ban Công trình Mới của thành phố lại đổi ý chỉ trong chưa đầy nửa năm, nói rằng "kết cấu cầu vượt đáng lo ngại"[^24].
 
-Còn “thời hạn sử dụng 40 năm” thì sao? Tại cuộc họp điều phối giữa chính quyền thành phố và cư dân, một phó tổng công trình sư họ Lâm thuộc Phòng Công trình mới tuyên bố ngay tại chỗ rằng cầu đã vượt quá thời hạn sử dụng 40 năm, kết cấu có vấn đề nên phải tháo dỡ. Tuy nhiên, một người dân am hiểu quy định xây dựng lập tức chất vấn: “Mốc 40 năm thực ra là ‘thời hạn sử dụng tối thiểu của tài sản công (cầu bộ hành)’ do Bộ Tài chính quy định để ngăn chính quyền huyện, thành phố xây dựng bừa bãi; mục đích là phòng ngừa sai phạm, chứ không phải thời hạn sử dụng.”[^24] (Lâm Văn Quân, người khởi xướng kiến nghị, cũng có mặt và ghi lại cuộc đối đáp này.) Một quy định tài chính nhằm ngăn chính quyền địa phương chi tiêu bừa bãi đã bị dùng làm căn cứ kết cấu để tháo một cây cầu.
+Vậy còn cái gọi là "thời hạn sử dụng 40 năm" thì sao? Tại cuộc họp điều phối giữa chính quyền và cư dân, một Phó Tổng Công trình sư họ Lâm thuộc Ban Công trình Mới đã tuyên bố ngay tại chỗ rằng cây cầu đã quá thời hạn sử dụng 40 năm và kết cấu có vấn đề nên phải dỡ bỏ; nhưng một người dân am hiểu luật xây dựng tại hiện trường đã chất vấn ngay lập tức: "Thời hạn 40 năm thực chất là 'thời hạn sử dụng tối thiểu đối với tài sản công (cầu vượt)' do Bộ Tài chính quy định nhằm ngăn chặn việc các địa phương xây dựng bừa bãi, mục đích là để phòng chống tham nhũng, chứ không phải là thời hạn sử dụng thực tế"[^24]. (Lâm Văn Quân (Lin Wen-chun), người khởi xướng đơn kiến nghị, cũng có mặt tại cuộc họp và đã ghi lại cuộc đối đầu này.) Một quy định tài chính nhằm ngăn chặn chính quyền địa phương lãng phí ngân sách lại bị đem ra làm căn cứ kết cấu để dỡ bỏ một cây cầu.
 
-Tinh tế hơn nữa, lý do tháo dỡ mà Thị trưởng Tưởng Vạn An (Chiang Wan-an, 蔣萬安) công khai trình bày lại khác với Cục Công trình công cộng: ông viện dẫn tỷ lệ sử dụng cầu chưa đến 10%, trụ cầu che khuất tầm nhìn giao thông, đồng thời so sánh với việc tai nạn giao thông giảm sau khi tháo dỡ khu thương mại Trung Hoa và cầu bộ hành tại giao lộ Tín Nghĩa–Cơ Long[^25]. Trong nội bộ chính quyền thành phố, câu trả lời cho việc “vì sao phải tháo” thực ra chưa bao giờ thống nhất hoặc phù hợp với bằng chứng.
+Điều tinh vi hơn là lý do dỡ bỏ mà Thị trưởng [Tưởng Vạn An](/people/蔣萬安) công khai tuyên bố lại khác với Cục Công trình: ông lập luận rằng tỷ lệ sử dụng cầu vượt chưa tới 10%, các trụ cầu che khuất tầm nhìn giao thông, đồng thời lấy ví dụ về việc giảm thiểu tai nạn giao thông sau khi dỡ bỏ Trung Hoa Thương xá và cầu vượt tại ngã tư Xinyi–Keelung để so sánh[^25]. Thực tế, trong nội bộ chính quyền thành phố chưa bao giờ có một cách giải thích thống nhất và khớp với các bằng chứng về câu hỏi "tại sao phải dỡ bỏ".
 
-> **✦** Ngay cả lý do tháo một cây cầu cũng không khớp với báo cáo do chính mình đặt làm. Liệu một phần “cảm thức Đài Loan đang biến mất” có phải là những thứ chúng ta tháo bỏ khi chính mình còn chưa giải thích rõ?
+> **✦** Ngay cả lý do dỡ bỏ một cây cầu cũng không khớp với báo cáo mà chính họ ủy thác. Liệu những "cảm thức Đài Loan đang dần biến mất" kia, có cái nào là do chúng ta tự tay phá bỏ khi chính mình còn chưa nói rõ lý do hay không?
 
-Không phải phố cổ nào cũng chịu kết cục như vậy. Phố Địch Hóa tại Đại Đạo Trình đi theo một con đường khác: thông qua cơ chế chuyển nhượng quyền phát triển (TDR), mặt tiền nhà cổ được bảo tồn mà không xảy ra phá dỡ quy mô lớn. Tuy nhiên, ngay cả với “trường hợp thành công” này, giới học thuật vẫn tranh luận liệu nó có gây cưỡng bức di dời và đẩy giá nhà lên cao hay không[^26]. Ngay cả phương thức bảo tồn cũng không phải một câu trả lời hoàn toàn trong sạch.
+Không phải con phố cổ nào cũng chịu chung số phận như vậy. Phố Đệ Hóa (Dihua Street) ở Đại Đạo Đình đi theo một hướng khác: thông qua cơ chế Chuyển đổi Hệ số Sử dụng đất (TDR), mặt tiền của các ngôi nhà cũ được bảo tồn và không bị giải tỏa quy mô lớn. Tuy nhiên, ngay cả với "trường hợp thành công" này, giới học thuật vẫn luôn tranh luận về việc liệu nó có gây ra tình trạng cưỡng chế di dời hay đẩy giá nhà lên cao hay không[^26]. Ngay cả phương pháp bảo tồn bản thân nó cũng không phải là một câu trả lời trọn vẹn.
 
-![Cảnh phố đoạn 2 đường Địch Hóa vào tháng 3 năm 2024, vẫn giữ nguyên bề rộng và mặt tiền nhà cổ](/article-images/culture/dihua-street-2024.webp)
-_Đoạn 2 phố Địch Hóa năm 2024. Mặt tiền nhà cổ được bảo tồn nhờ cơ chế chuyển nhượng quyền phát triển, khiến đây trở thành một trong số ít khu phố lịch sử tại Đài Loan không bị phá bỏ—nhưng ngay cả cái gọi là “thành công” này, giới học thuật vẫn tranh luận về cái giá phải trả. Ảnh: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
+![Cảnh phố Đệ Hóa đoạn 2 vào tháng 3 năm 2024, giữ nguyên chiều rộng ban đầu và mặt tiền nhà cũ](/article-images/culture/dihua-street-2024.webp)
+_Phố Đệ Hóa đoạn 2 vào năm 2024. Mặt tiền các ngôi nhà cũ được bảo tồn nhờ cơ chế chuyển đổi hệ số sử dụng đất, là một trong số ít khu phố lịch sử không bị dỡ bỏ tại Đài Loan — nhưng ngay cả sự "thành công" này, giới học thuật vẫn đang tranh luận về cái giá phải trả. Photo: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
 
-Cũng cần thành thật rằng không phải lần tháo dỡ nào cũng có lý do đáng ngờ như cầu Hòa Bình–Tân Sinh. Ngay trong cùng thành phố, khu nhà ở công cộng Tây Ninh được xác định là công trình sử dụng cát biển vì hàm lượng ion chloride quá cao. Đây là vấn đề an toàn có chỉ số kỹ thuật rõ ràng, chứ không phải khái niệm “thời hạn sử dụng” mơ hồ. Công trình cũ từng được Thái Minh Lượng dùng làm bối cảnh cho nhiều bộ phim này có lý do tháo dỡ vững chắc hơn nhiều[^27]. Ở phía khác, khu dân cư Lực Bá Hoàng Gia đã gần 40 năm tuổi và được giám định là công trình cát biển; cư dân phải đợi suốt 25 năm mới thấy dự án tái thiết đô thị bắt đầu tháo dỡ. Một cụ ông mô tả tin ấy giống như nhìn thấy ánh bình minh giữa đêm tối[^28]. Cùng là tháo dỡ, có trường hợp đáng ngờ, nhưng cũng có trường hợp là điều cư dân mong mỏi suốt nửa đời.
+Và phải thành thật mà nói, không phải lần dỡ bỏ nào cũng có lý do đáng nghi như cầu vượt Hòa Bình–Tân Sinh. Cũng trong cùng một thành phố, khu chung cư Tây Ninh (Xining Guozhai) bị xác định là nhà cát biển do hàm lượng ion clorua quá cao; đây là vấn đề an toàn với các chỉ số kỹ thuật rõ ràng, chứ không phải là cái gọi là "thời hạn sử dụng" mơ hồ; việc dỡ bỏ tòa nhà cũ nơi Thái Minh Lượng (Tsai Ming-liang) từng quay nhiều bộ phim có lý do vững chắc hơn nhiều[^27]. Ở một phía khác, cộng đồng Lực Bá Hoàng Gia (Liberty Royal), với tuổi thọ gần 40 năm và được giám định là nhà cát biển, cư dân đã phải chờ đợi ròng rã 25 năm mới mong đợi đến ngày tái thiết và dỡ bỏ; một cụ ông đã mô tả tin tức đó giống như nhìn thấy ánh sáng bình minh trong đêm tối[^28]. Cùng là dỡ bỏ, có nơi dỡ bỏ đầy nghi vấn, có nơi dỡ bỏ lại là điều mà chính cư dân đã cầu xin suốt nửa đời người.
 
 ```tw-versus
-Cầu bộ hành Hòa Bình–Tân Sinh | Khu nhà ở công cộng Tây Ninh
-Báo cáo kỹ thuật tháng 5 năm 2024: kết cấu không đáng lo | Hàm lượng ion chloride quá cao, được xác định là công trình cát biển
-Nửa năm sau, chính quyền thành phố đổi lời thành “kết cấu có vấn đề” | Nguy cơ an toàn có chỉ số kỹ thuật rõ ràng
-“Mốc 40 năm” thực ra là quy định phòng ngừa sai phạm của Bộ Tài chính | Bối cảnh trong nhiều bộ phim của Thái Minh Lượng
-Nguồn: Bài kiểm chứng của Yahoo News, NOWnews
+Cầu vượt Hòa Bình–Tân Sinh | Chung cư Tây Ninh
+Báo cáo kỹ thuật tháng 5/2024: Kết cấu không vấn đề | Hàm lượng ion clorua quá cao, xác định là nhà cát biển
+Chính quyền đổi ý sau nửa năm nói "kết cấu có vấn đề" | Nguy cơ an toàn với chỉ số kỹ thuật rõ ràng
+"Hạn 40 năm" thực chất là quy định phòng chống tham nhũng của Bộ Tài chính | Địa điểm quay nhiều phim của Thái Minh Lượng
+Nguồn: Báo cáo kiểm chứng tin tức Yahoo, NOWnews
 ```
 
-Nhưng dù vụ tháo dỡ đáng ngờ hay chính đáng, vẫn có một nhóm gần như không có tiếng nói trong toàn bộ cuộc thảo luận: người thuê nhà. Tái thiết đô thị nói về “chuyển đổi quyền lợi”, mà chủ thể luôn là chủ sở hữu có quyền tài sản; những người thuê sống bên trong về mặt pháp lý chỉ được tính là bên thứ ba. Điều 58 của “Luật Tái thiết đô thị” quy định rất rõ rằng khi người thuê nhà bị buộc chấm dứt hợp đồng vì tái thiết đô thị, khoản bồi thường họ có thể yêu cầu chủ nhà chi trả trong phần lớn trường hợp chỉ “tương đương hai tháng tiền thuê”[^29].
+Nhưng dù việc dỡ bỏ là đáng nghi hay là cần thiết, có một nhóm người gần như không có tiếng nói trong toàn bộ cuộc thảo luận này: những người thuê nhà. Các dự án tái thiết đô thị luôn bàn về "thay đổi quyền lợi", mà chủ thể luôn là những chủ sở hữu có quyền sở hữu tài sản; còn những người thuê nhà bên trong, về mặt pháp lý chỉ được coi là bên thứ ba. Điều 58 của 《Luật Tái thiết Đô thị》 đã viết rất rõ: trường hợp người thuê nhà buộc phải chấm dứt hợp đồng do tái thiết đô thị, khoản bồi thường họ có thể yêu cầu chủ nhà, trong đa số các trường hợp, chỉ tương đương "hai tháng tiền thuê"[^29].
 
-Trong một dự án tái thiết đô thị tại đoạn 2 đường Trùng Khánh Bắc, Đài Bắc, một cửa hàng kính mắt bị dư luận dựng thành “hộ đinh” cản trở tái thiết, muốn tranh thêm phần lợi ích vì người thuê chưa chuyển đi. Lời của bà chủ thực ra rất bình thường: “Trên mạng toàn nói lung tung, chúng tôi không xấu đến thế. Chỉ là chúng tôi có tranh chấp hợp đồng thuê với chủ nhà và hiện đang kiện tụng; đợi vụ kiện kết thúc, chúng tôi sẽ chuyển đi.”[^30] Bà không có quyền phát ngôn để chống lại câu chuyện “hộ đinh” đã thành khuôn, cũng như những người thuê đã sống quá nửa đời trong nhà cổ nhưng không bao giờ được làm chủ thể trong bất kỳ văn bản tái thiết đô thị nào.
+Trong một dự án tái thiết tại đoạn 2 đường Trùng Khánh Bắc, Đài Bắc, một cửa hàng kính mắt đã bị dư luận gán cho cái mác "nhà ở bám trụ, muốn chia thêm phần lợi ích" vì người thuê chưa chuyển đi. Lời giải thích của bà chủ thực ra rất bình thường: "Trên mạng toàn nói lung tung, chúng tôi không xấu đến thế, chỉ là chúng tôi đang có tranh chấp hợp đồng thuê với chủ nhà và đang trong quá trình kiện tụng, khi vụ kiện kết thúc, chúng tôi sẽ chuyển đi"[^30]. Bà không có quyền lên tiếng để đối kháng lại một câu chuyện "nhà ở bám trụ" đã được định hình, cũng giống như những người thuê nhà đã sống trong các ngôi nhà cũ hơn nửa đời người nhưng lại không hề xuất hiện trong tư cách chủ thể của bất kỳ văn bản tái thiết nào.
 
-Ngay cả lý do tháo dỡ và những con người biến mất cũng có thể được chính chúng ta kể lại một cách thiếu thành thật. Nếu ngay cả mình đã tháo bỏ thứ gì và vì sao tháo bỏ mà chúng ta cũng không giải thích rõ, thì câu nói “chúng ta đã nhìn thấy vẻ đẹp của nhà cũ từ lâu” thực ra cũng không đứng vững—dường như quá trình “nhìn lại chính mình” vẫn chưa thực sự hoàn tất.
+Ngay cả lý do dỡ bỏ, hay ngay cả những con người đang biến mất, đều có thể bị chính chúng ta kể lại một cách thiếu trung thực. Nếu ngay cả việc chúng ta đã phá bỏ cái gì và tại sao phải phá bỏ mà còn không nói rõ được, thì sự tự tin trong câu nói "chúng ta đã sớm nhận thấy nhà cũ của mình rất đẹp" thực chất cũng không có cơ sở — xem ra, việc "nhìn lại chính mình" vẫn chưa thực sự hoàn tất.
 
 ## Vương Thông Uy đổi hướng ba lần; lần này đến lượt chúng ta nhìn thấy trước
 

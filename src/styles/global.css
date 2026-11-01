@@ -371,16 +371,22 @@
     overflow: hidden;
   }
 
-  body.page-default main {
-    padding-top: 56px;
-  }
-  body.page-default main.article-page,
-  body.page-default main.graph-page,
-  body.page-default main.dashboard,
-  body.page-default main.term-page,
-  body.page-default main.fork-graph-page,
-  body.page-default main.category-page {
-    padding-top: 0;
+  /* ------------------------------------------------------------------------
+   * 固定表頭底下的讓位：只給 Layout 自己那一層 <main id="main-content">。
+   *
+   * 2026-10-23 前寫的是 `body.page-default main { padding-top: 56px }`，有兩個病：
+   *   1. 很多版型在 Layout 的 <main> 裡面又包一層 <main>（/data、/budget、/lifetree、
+   *      newsroom…），兩層各吃 56px，內層那份就是表頭下面那條空白。過去的修法是
+   *      把版型一個一個加進豁免清單（article-page、graph-page、dashboard…），新版型
+   *      一上線就再中一次。
+   *   2. 56px 是猜的。語言橫幅出現時表頭會長到 96–108px，文章頁、分類頁、/about
+   *      的開頭整段鑽進表頭底下。
+   * 現在讓位量讀 Header.astro 量出來的 --header-h（量 bottom，含語言橫幅），
+   * fallback 是沒有橫幅時的表頭高度（桌機 57、手機 53）。回歸檢查：
+   * scripts/tools/header-gap-check.mjs。
+   * ------------------------------------------------------------------------ */
+  body.page-default > main#main-content {
+    padding-top: var(--header-h, 57px);
   }
 
   main img {
@@ -469,16 +475,8 @@
     html {
       font-size: 100%;
     }
-    body.page-default main {
-      padding-top: 52px;
-    }
-    body.page-default main.article-page,
-    body.page-default main.graph-page,
-    body.page-default main.dashboard,
-    body.page-default main.term-page,
-    body.page-default main.fork-graph-page,
-    body.page-default main.category-page {
-      padding-top: 0;
+    body.page-default > main#main-content {
+      padding-top: var(--header-h, 53px);
     }
     .floating-md {
       bottom: 1rem;

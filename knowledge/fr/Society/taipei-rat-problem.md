@@ -19,10 +19,10 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-09-21T20:05:47.750932+00:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:01:53.770258+00:00'
 ---
 
 # La prolifération des rats à Taïpei : de l'édit antipeste du Gouvernement général en 1896 au virus Hantan à Da'an en 2026
@@ -77,23 +77,23 @@ Quand les éleveurs de porcs ne viennent plus collecter quotidiennement les déc
 
 📝 **Note du curateur :** En janvier 2026, le ministère de l'Agriculture a mis fin à un cheminement d'un demi-siècle « déchets alimentaires → porcs » ; à la fin du même mois, Taïpei enregistrait son premier décès dû au virus Hantan en 25 ans. Ces deux événements ne sont pas une coïncidence — ils sont la conséquence d'une redistribution des calories par le système.
 
-## Le choix de la municipalité : épandre du poison, et les contre-coups qui s'ensuivent
+## 5. Le choix de la municipalité : l'épandage de poison et le retour de bâton qui en découle
 
-Face à l'explosion de l'opinion publique, la réponse du bureau de l'environnement de la ville de Taïpei a été la « distribution ciblée de poison », utilisant des produits approuvés par le gouvernement central (principalement l'anticoagulant « Keminshu »), tout en soulignant la sécurité des animaux de compagnie[^23].
+Face à l'explosion de l'opinion publique, la réponse du Bureau de l'environnement de Taïpei a été celle d'un « épandage ciblé », utilisant des produits chimiques environnementaux approuvés par le gouvernement central (principalement des anticoagulants pour « éradiquer les rats »), tout en insistant sur la sécurité des animaux de compagnie[^23].
 
-Mais ce choix a été presque immédiatement rejeté par trois forces simultanées :
+Cependant, ce choix a été presque immédiatement rejeté par trois forces distinctes :
 
-**1. Le ministère de l'Environnement central** : le ministre Peng Qiming a publiquement appelé le 2 mai à adopter le principe des « trois non » de la prévention des rats — « ne pas laisser entrer les rats, ne pas laisser les rats s'installer, ne pas laisser les rats manger » — en donnant la priorité à l'assainissement de l'environnement et en utilisant le poison comme complément. La FAQ sur la lutte contre les rats domestiques du bureau de l'environnement elle-même est rédigée dans ce sens[^24][^25].
+**1. Le ministère de l'Environnement (gouvernement central)** : Le ministre de l'Environnement, Peng Chi-ming, a lancé un appel public le 2 mai, affirmant que la lutte contre les rats devrait suivre le principe des « trois non » de la prévention — ne pas laisser les rats venir, ne pas les laisser s'installer, et ne pas les laisser manger — privilégiant l'assainissement de l'environnement par rapport à l'usage de poison. La FAQ du Bureau de l'environnement sur la lutte contre les rats domestiques stipule d'ailleurs la même chose[^24][^25].
 
-**2. La communauté écologique** : l'équipe de Sun Yuanxun du laboratoire d'écologie aviaire de l'Université nationale de Pingtung a publié en 2019 dans _Science of the Total Environment_ une étude montrant que des **résidus d'anticoagulants rodenticides** étaient détectés chez les rapaces taïwanais (milan noir, autour des palombes, faucon pèlerin), et que les concentrations étaient fortement corrélées aux « semaines de destruction des rats » promues par le gouvernement dans le passé[^26][^27].
+**2. Le milieu de l'écologie** : Une étude publiée en 2019 dans _Science of the Total Environment_ par l'équipe de Sun Yuan-hsun du Laboratoire d'écologie aviaire de l'Université de technologie de Pingtung a démontré que des **résidus d'anticoagulants rodenticides sont couramment détectés** dans l'organisme des rapaces de Taïwan (buse mélanotaète, autour des palombes, faucon pèlerin), et que leur concentration est fortement corrélée aux « semaines d'éradication des rats » promues par le gouvernement par le passé[^26][^27].
 
-**3. La propre leçon historique du ministère de l'Agriculture** : en raison d'une série de décès de milans noirs par empoisonnement, le Conseil de l'agriculture (aujourd'hui ministère de l'Agriculture) a progressivement annulé à partir de 2015 la « Semaine nationale de destruction des rats » en place depuis **40 ans**, marquant officiellement le passage de la gestion des nuisibles à Taïwan d'une logique d'« épandage de poison » à une approche scientifique et respectueuse de l'écologie[^28][^29].
+**3. Les propres leçons historiques du ministère de l'Agriculture** : En raison d'une série de décès de buses mélanotaètes par empoisonnement, le Conseil de l'agriculture (aujourd'hui ministère de l'Agriculture) a progressivement supprimé la « Semaine nationale d'éradication des rats dans les terres agricoles », une pratique qui avait duré **40 ans**, marquant ainsi officiellement le passage de Taïwan d'une gestion par épandage de poison vers une approche scientifique et écologique[^28][^29].
 
-En d'autres termes : **quand le secteur agricole avait déjà abandonné l'ère de la « semaine de destruction des rats » pour la conservation des rapaces, le bureau de l'environnement de la ville de Taïpei, en 2026, a ressorti dans les rues un outil que les zones rurales avaient elles-mêmes délaissé dix ans plus tôt.**
+En d'autres termes : **alors que le secteur agricole a déjà abandonné l'ère des « semaines d'éradication » pour protéger les rapaces, le Bureau de l'environnement de Taïpei, en utilisant du poison dans les rues en 2026, revient à utiliser en milieu urbain un outil que les zones rurales ont délaissé il y a dix ans.**
 
-Le 4 mai, le directeur du bureau de l'environnement, Xu Shixun, a été contraint d'annoncer qu'il essaierait « de combler les trous de rats et de publier une carte des zones chaudes relatives intégrée aux informations sur les produits utilisés »[^30] ; le lendemain, le maire Chiang Wan-an s'est engagé à formuler des mesures concrètes pour « l'assainissement environnemental global du centre-ville »[^31][^32]. L'opposition, par la voix de la conseillère municipale Xu Shuhua, a critiqué le fait que les réunions interservices n'avaient eu lieu que trois fois, avec un retard considérable[^33].
+Le 4 mai, le directeur du Bureau de l'environnement, Hsu Shih-shun, a été contraint de céder en affirmant qu'il tenterait de « combler les terriers et de publier des informations sur l'utilisation des produits ainsi que des cartes des zones chaudes relatives »[^30] ; le lendemain, le maire [Chiang Wan-an](/people/蔣萬安) s'est engagé à élaborer des mesures concrètes pour un « assainissement environnemental global de la zone urbaine »[^31][^32]. Parallèlement, la conseillère municipale de l'opposition Hsu Shu-hua a critiqué la lenteur de la réaction, soulignant que seules trois réunions interservices avaient eu lieu[^33].
 
-📝 **Note du curateur :** « Épandre du poison se voit, colmater les fissures ne se voit pas » — c'est l'économie politique fondamentale de la gestion de la prolifération des rats à Taïpei. Sous la pression électorale, ce qui se voit compte plus que ce qui est efficace.
+📝 **Note du conservateur :** « L'épandage de poison est visible, le colmatage des fissures ne l'est pas » — c'est là toute l'économie politique fondamentale de la gestion des rats à Taïpei. Sous la pression électorale, ce qui est visible importe plus que ce qui est efficace.
 
 ## Les infrastructures invisibles : égouts unitaires, arcades, night markets
 

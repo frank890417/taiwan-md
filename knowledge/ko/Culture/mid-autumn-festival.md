@@ -58,7 +58,7 @@ translatedAt: '2026-08-09T10:51:40+08:00'
 
 ---
 
-##延伸阅读
+## 더 읽을거리
 
 - [전통 명절과 축제](/ko/culture/traditional-festivals-and-celebrations) — 대만의 다른 우연이나 위기에서 탄생한 독특한 민속과 명절의 변천을 탐구한다.
 - [대만 광고사](/ko/culture/taiwan-advertising-history) — 1980년대 TV 광고가 어떻게 대만인의 소비 문화와 집단 기억을 깊이 형성했는지 되돌아본다.

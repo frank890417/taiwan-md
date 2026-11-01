@@ -1,29 +1,29 @@
 ---
-title: 'Empresa de Taiwan: Fubon Financial Holding'
-description: 'De 10 a 60.000 pessoas: como os irmãos Tsai construíram o maior império financeiro de Taiwan em 60 anos'
+title: 'Empresas de Taiwan: Fubon Financial Holdings'
+description: 'Em 1961, aos 32 anos, Tsai Wan-tsai fundou a Cathay Property & Casualty com 10 funcionários e um capital de NT$ 6 milhões em um escritório de 33 metros quadrados na rua Hengyang, em Taipei, optando por atender pequenos clientes que as seguradoras estatais desprezavam. Após separar-se do Grupo Cathay em 1992 e adquirir o Taipei Bank por NT$ 16,5 bilhões em 1997, a Fubon expandiu-se dos seguros para os setores bancário, de telecomunicações, beisebol, mídia e entretenimento, tornando-se um conglomerado financeiro com ativos totais de NT$ 11,9 trilhões, o maior valor de mercado de Taiwan e mais de 60.000 funcionários. A sucessão entre irmãos, o equilíbrio de poder entre política e economia, os riscos geográficos transoceânicos, além da transformação digital e finanças sustentáveis, são analisados detalhadamente ao longo destes 65 anos.'
 date: 2026-03-22
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economia',
     'Empresa',
-    'Fubon Financial Holding',
+    'Fubon Financial Holdings',
     'Tsai Ming-chung',
-    'Setor financeiro',
-    'Fusões e aquisições',
-    'Transformação digital',
+    'Setor Financeiro',
+    'Fusões e Aquisições',
+    'Transformação Digital',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: '2026-07-25T17:25:36+08:00'
+translatedAt: '2026-10-21T02:03:11.838167+00:00'
 ---
 
 # Empresa de Taiwan: Fubon Financial Holding

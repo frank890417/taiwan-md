@@ -42,6 +42,11 @@ RUN_BASE = Path("/tmp")  # babel-dispatch 的 run dir：/tmp/babel-unified-<時�
 # 產線驗過的譯文要等批次滿或整輪結束才 commit，慢 worker 一篇就要半小時；
 # 比這個舊、又不在活著的產線批次裡的未 commit 譯文，才算孤兒。
 ORPHAN_AFTER_MIN = 30
+# 一次 add→commit（含 prettier 與閘門）幾分鐘內結束；鎖拿超過這個時間，等鎖的人全都會逾時。
+LOCK_STUCK_MIN = 20
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import gitlock  # noqa: E402
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS  # noqa: E402
@@ -175,7 +180,7 @@ def leftover_staged() -> list:
     push-every 合併 origin 時被「local changes would be overwritten」擋下：只要 origin 動到同一個檔，
     推送就停，而推送停住不會出現在缺口讀數裡。拿著共用 git 鎖的人正在 add→commit，那段暫存是進行中的，不算。
     """
-    if GIT_LOCK.exists():
+    if GIT_LOCK.is_dir():
         return []
     staged = [p for p in run(["git", "diff", "--cached", "--name-only", "-z"]).stdout.split("\0") if p]
     return [p for p in staged if run(["git", "diff", "--quiet", "HEAD", "--", p]).returncode == 0]
@@ -525,6 +530,7 @@ def snapshot_paths(repo: Path = REPO) -> list:
 
 
 def git_commit(log) -> bool:
+    gitlock.clear_impostor(log)
     tries = 0
     while True:
         try:
@@ -613,6 +619,11 @@ def main():
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
     for p in payload["leftover_staged"]:
         log(f"  殘留暫存 {p}（index 跟 HEAD 不同、工作樹跟 HEAD 相同；會擋 push-every 合併 origin）")
+    held = gitlock.held_minutes()
+    if held is not None and held < 0:
+        log(f"  🔴 git 鎖路徑是一般檔案、不是目錄（{-held:.0f} 分鐘），所有等鎖的 commit 與合併都會逾時；下一次拿鎖會自動清掉")
+    elif held is not None and held > LOCK_STUCK_MIN:
+        log(f"  🔴 git 鎖已被持有 {held:.0f} 分鐘（> {LOCK_STUCK_MIN}），等鎖的 commit 與合併正在逾時；先查誰拿著")
 
     # 整點那一跳落地（15 分鐘一 commit 會洗版 git log）
     should = args.force_commit or (not args.no_commit and datetime.now().minute < 15)

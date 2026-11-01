@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
 last_updated: 2026-10-14
-last_session: '2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -176,6 +176,73 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 中華職棒 NEW — 37 年的聯盟差點死掉兩次，站上沒有它自己的條目
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-25 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: evergreen（開場用的 2026 台灣大賽「龍象大戰」10/31 前最熱，條目本身常青）
+- **Notes**:
+  - **時效**：2026 台灣大賽 10/17 開打、七場全在大巨蛋，例行賽勝率第一味全龍對下半季冠軍中信兄弟，媒體稱中職史上首度「龍象大戰」；第五戰因颱風薔琵兩度延到 10/25
+  - **缺口確認**：`find knowledge -maxdepth 2 -path "knowledge/[A-Z]*" -name "*職棒*"` = 0、`*中華職棒*` = 0、`*台灣大賽*` = 0；內容層 `中華職棒` 15 檔全是順帶（郭泓志 5、台灣棒球文化 5、台灣體育發展與奧運 3、朴星垠 2⋯），`台灣大賽` 0 檔；〈台灣棒球文化〉只有「職業棒球的誕生」一節三段，寫到簽賭案就跳去國際賽；DONE-LOG `grep 職棒` = 0
+  - **這題裡的人在哪**：職棒元年四隊的老球員與球迷；幾次簽賭案裡被找上門的選手；1999 年味全解散與 2019 年重建的兩批人；外野的韓籍與台灣啦啦隊（李珠珢、朴星垠、邊荷律已有條目，可互連）；大巨蛋買不到票的球迷
+  - **建議切角**：從延了兩次的第五戰開場，往回拉到味全宣布解散那一年；主脊「一個聯盟怎麼差點死掉兩次又活過來」，立體群像，簽賭案寫清楚但不當全文脊椎；收在大巨蛋時代
+  - **必驗事實**：「首度龍象大戰」的定義（兄弟象與中信兄弟算不算同一隊）；總冠軍結果與 MVP；聯盟成立日與元年首戰（回聯盟官方）；歷次簽賭案年份與判決；味全解散與重建年份；大巨蛋啟用年與票房
+  - **敏感度**：低。簽賭案只寫判決與公開紀錄，不點名未定罪者
+  - 適合開放給貢獻者接
+- **Reference**: [reports/probe/2026-10-25.md §T1-A](../../reports/probe/2026-10-25.md) / [Focus Taiwan 10/24](https://focustaiwan.tw/society/202610240003) / [2026 CPBL season](https://en.wikipedia.org/wiki/2026_Chinese_Professional_Baseball_season) / [運動視界賽前分析](https://www.sportsv.net/articles/129051)
+
+### 台灣鐵路地下化 NEW — 城市被縫合了，代價落在沿線那幾百戶
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-25 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: evergreen（台南 10/16 通車是開場，題目跨台北、高雄、台中、台南多城常青）
+- **Notes**:
+  - **時效**：台南鐵路地下化第一階段 10/16 晚間通車典禮（正式營運日報導有 10/17、10/18 兩說，要回鐵道局公告），總統在典禮上再次向沿線拆遷戶致歉；林森站 2029、南台南站 2030 啟用
+  - **缺口確認**：`find ... -name "*地下化*"` = 0、`*南鐵*` = 0；內容層 `南鐵` 0 檔，`鐵路地下化` 5 檔全是順帶（西門町、台北車站、吳明益、台灣高鐵、金馬賓館）；〈台灣鐵道史〉〈縱貫鐵路〉`grep 地下化` 皆 0；〈台南市〉`grep 鐵路` 0；DONE-LOG 0
+  - **這題裡的人在哪**：反南鐵東移自救會的拆遷戶（只用報導裡本人公開的說法與姓名）；當年的台南市長、後來的總統；鐵道局與市府工程團隊；平交道前等車的通勤者；台南車站舊站體的保存者
+  - **建議切角**：從典禮上的道歉開場，往回走到 2012 年自救會成立與後來的強制拆除；主脊「地下化讓城市縫合，代價落在少數人身上」，並寫出台北、高雄已經縫合後的樣子；自救會、市府、通勤者三方都要有具名可追溯的聲音
+  - **必驗事實**：總經費 412.643 億與 2009 核定；徵收 340 戶、自救會 323 戶的時間點；強制拆除日期與戶數；台北、高雄、台中各段完工年；總統致歉原話只用報導原文
+  - **敏感度**：中。總統是當年市長，拆遷爭議有訴訟與監察院紀錄，寫公開紀錄與各方本人說法，不下評價
+  - 適合開放給貢獻者接
+- **Reference**: [reports/probe/2026-10-25.md §T1-B](../../reports/probe/2026-10-25.md) / [報導者](https://www.twreporter.org/a/tainan-underground-railway-2026-open-to-traffic) / [自由時報通車典禮](https://news.ltn.com.tw/news/Tainan/breakingnews/5608912) / [遠見](https://city.gvm.com.tw/article/133001)
+
+### 中共跨境鎮壓 NEW — 黃逸豪、卡米地與沈伯洋家人（需哲宇裁定）
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-10-25 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: evergreen（名詞與制度常青；個案等判決再補）
+- **Notes**:
+  - **需哲宇裁定 framing**：三案都在偵審、被告未定罪，主角是被攻擊的個人，選舉期間北市長參選人本人是其中一案的對象，命中 §自主權邊界「在審案件」「政治立場」
+  - **時效**：10/21 新北地檢起訴 5 人，認定中國人士以 45 萬元委託攻擊喜劇演員黃逸豪；9/29 北檢起訴卡米地潑穢物案 2 人；ISW 10/20 指北京加強對沈伯洋親屬施壓
+  - **缺口確認**：`find ... -name "*鎮壓*"` = 0；內容層 `跨境鎮壓` 只在〈沈伯洋〉6 次，`黃逸豪` 0、`卡米地` 0；DONE-LOG 0
+  - **可以寫的形狀（建議）**：名詞的國際用法（Freedom House、聯合國人權機制）、台灣的法律工具與行政院協處平台；個案只寫起訴書與當事人公開說法，判決後再補
+- **Reference**: [reports/probe/2026-10-25.md §T1-C](../../reports/probe/2026-10-25.md) / [中央社 10/21 起訴](https://cna.com.tw/news/asoc/202610210090.aspx) / [中央社 9/29 卡米地](https://cna.com.tw/news/asoc/202609290060.aspx) / [AEI-ISW 10/20](https://www.aei.org/commentary/china-taiwan-update-october-20-2026/)
+
+### 林郁婷 EVOLVE — 43 個引用指向從未存在的腳註，投稿工具把定義整段截掉，十三語一起顯示點不到的方括號數字
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-22 by twmd-maintainer-daily（來源 [issue #1891](https://github.com/frank890417/taiwan-md/issues/1891) by tboydar）
+- **Notes**:
+  - **規模**：zh 母稿 43 個引用（`[^12]`–`[^58]`）沒有定義，十二語譯本各 43 處＝516 處，合計 559 處，佔全庫斷腳註存量（752）的 **74%**。修母稿一次，譯本隨重翻一起解決
+  - **根因（git 考古，2026-10-22 查）**：不是「譯本漏搬」也不是「heal 漏補」。最初投稿 `206c8c817` 就把 `[^11]` 與 `[^12]` 黏在同一行，而 `[^12]` 的網址在 `https://tw.sports.yahoo.com/n` 處被投稿工具的 `(Content truncated due to size limit…)` 切斷，`[^13]`–`[^58]` 從未寫進檔案。`c0f587606`（08-14 heal）清掉的是那行截斷訊息，不是定義。**歷史裡也撈不回來**，連 `[^12]` 只剩半個網址
+  - **所以工作量是查證不是搬運**：47 個來源要重新找。既有 11 條都還在且可用（轉角國際、維基、BBC 中文、報導者、麗台、運動筆記、VERVE、聯合、天下文化），正文的主張多半繞著同一批報導，但「哪一句對應哪一篇」要逐條驗，不能用推論填（MANIFESTO §10）
+  - **讀者現在看到什麼**：站上十三語都印出一串點不到的 `[^12]`…`[^58]`，文末沒有對應條目。#1889 修掉 renderer 的 lookahead 之後，這一篇是少數**真的**缺定義（不是渲染問題）的檔案之一
+  - 切角不必改：這篇的敘事（曾自強背在背上那一背、性別爭議）不是問題所在，只有引用層要重建。建議走 REWRITE Stage 3 的查證段，不動 spine
+  - **順帶**：扣掉本篇家族後剩 193 處／106 檔，大半是翻譯產線的標籤幻覺（`[^1rightarrow]`／`[^2 6]`／`[^한]`），那一族的正解是在 babel 收件閘門加「譯文引用標籤 ⊆ 母稿定義標籤」，屬新增品質閘門需哲宇拍板，不在本條範圍
+- **Reference**: [issue #1891](https://github.com/frank890417/taiwan-md/issues/1891) / `scripts/tools/lib/article_health/checks/footnote_reference.py`（#1889 新增的 `footnote-reference` 檢查）
 
 ### 台灣電價機制與台電 NEW — 電價凍漲的帳單：台電、電價審議會與 711 億撥補
 
@@ -696,6 +763,21 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 止血後 1,963 字、零媒體、無 30 秒概覽 blockquote、description 40 字
   - 譯本 12 語，需整篇重翻（改動超過三成）
 - **Reference**: [reports/research/2026-10/台灣皇蛾.md](../../reports/research/2026-10/台灣皇蛾.md)
+
+### 台灣穿山甲 EVOLVE — 巡邏 90 原子錯誤率 12.2%：IUCN 等級分布、保育法罰金與修法年份、一批生理數字都和台灣官方來源不同，台中中山醫學大學校園那段查無
+
+- **Type**: `EVOLVE`
+- **Category**: Nature
+- **Path**: knowledge/Nature/台灣穿山甲.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-21 by semiont-heartbeat（月度巡邏抽樣第一名，03-19 出生、十二語譯本，10-10 心跳交接點名）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/台灣穿山甲.md`）：90 原子 ✅ 42／⚠️ 19／❌ 8／👻 2／🔴 11／💬 8，錯誤率 12.2%，超過退回門檻。已止血：八種穿山甲改 3 極危 3 瀕危 2 易危；刪查無的「2017 年修法」，罰金改第 41 條 20–100 萬、第 40 條 30–150 萬；走私量改 IUCN 2000–2019 年超過 89.5 萬隻；食蟻量、舌長、體型、妊娠期改引台灣來源；刪中山醫學大學校園（換成清華大學洞穴）、土壤改造、化石年代、老虎獅虎修辭；腳註 5 條換 10 條
+  - **盲區**：cites.org、iucnredlist.org 被擋；林業署《台灣穿山甲保育行動計畫》PDF 連線被重置沒開到；台灣紅皮書等級沒查。頭身長與尾長四個來源四種數字、妊娠期真值（8 個月或 70–140 天）要找特生中心或期刊論文定下來
+  - 重寫可從台灣獨有的現場長骨架：1997 年台北動物園首度繁殖、社區通報加無線電追蹤、特生中心收治統計（24 隻創傷個體 16 隻被狗攻擊）
+  - 止血後零媒體、無研究檔以外的長骨架；譯本 12 語需整篇重翻
+- **Reference**: [reports/research/2026-10/台灣穿山甲.md](../../reports/research/2026-10/台灣穿山甲.md)
 
 ### 客家飲食文化 EVOLVE — 巡邏 55 原子 7 錯：客家小炒漏掉主角乾魷魚，冰擂茶年份晚了兩年，野薑花粉寫成防腐，六條腳註沒有一條撐得住正文
 
@@ -1320,6 +1402,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - ⚠️ **高政治敏感**（現任立委 / 兩岸 / 認知作戰 / 黑熊學院）— 事實鐵三角從嚴 + 政治立場中立呈現，寫「做了什麼研究/教育」不評統獨
   - 必驗：學經歷、黑熊學院創辦時間/角色、立委屆次、研究領域（不可從英文摘要推任何具體細節）
   - EVOLVE 方向：補足生平時序 + 認知作戰研究的具體著作/行動
+  - **2026-10-25 news-lens W43 補**：三源都亮——SC 198 → 836、GA zh 28 → 53／en 42 → 58／ja 24 → 54、CF AI 32 次；外部四條線同時在跑（北市長選戰與辯論協商、ISW 10/20 指北京施壓親屬、跨境鎮壓案脈絡、單一民調）。選舉期間只補事件與各方公開說法，〈蔣萬安〉同一班對稱 freshness
 - **Reference**: 哲宇 directive 2026-06-14
 
 ### 台灣媒體總史 EVOLVE — 補廣播、電視、網路、自媒體四段（標題「到自媒體」尚未兌現）
@@ -1444,6 +1527,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-10-25 news-lens W43 補**：搜尋者換了問法——SC「選舉 2026」41 → 711、「2026九合一選舉日期」0 → 92（位置 5.9、0 點擊）；GA `/elections/2026/` 317 → 241（颱風週）；CF 3 天 per-path AI 請求仍居全站第一（136）。離 11/28 剩 34 天，第三次建議升 P0，且 `/elections/2026/` 標題先給「11/28」這個答案（🟠 SEO 五分鐘）
 - **2026-10-11 news-lens W41 補**：三源確認——SC「2026選舉」225 → 761、「選舉 2026」595 → 998、「台灣選舉 2026」750 → 1,020；GA `/elections/2026/` 150 → 177、ja 版 74 → 100；CF 3 天 per-path `/elections/2026/` 410 請求居全站 AI crawler 第一（182 次 AI 請求）、en 版第二。離 11/28 剩七週，第二次建議升 P0（本 routine 不改 Priority）
 - **2026-09-27 news-lens W39 補**：SC「九合一選舉 2026」81 → 1,046（+1,191%）、「台灣選舉 2026」270 → 579、「2026選舉時間」61 → 122，外加「選什麼」與簡體／日文等數十個變體；GA `/elections/2026/` 84 → 115（+37%）。雙源確認的 intent 叢集（搜尋者問「哪天投、選什麼」），**建議升 P0 並把範圍擴成 freshness 一輪**（日期與投票時間進開頭、登記結果、九種選舉各選什麼）；〈九合一選舉是什麼〉可能才是接住這群人的那篇，分工一起看。本 routine 不自行改 Priority（reports/probe/2026-09-27.md T2-A）
 - **2026-09-18 news-radar 補**：登記 8/31〜9/4 已結束、81 人登記縣市長，文章 lastVerified 2026-07-10 §九「將發生」段已過時；9 月民調高雄柯志恩 43.8% vs 賴瑞隆 43.5%、台北蔣萬安領先但差距縮小、台中江啟臣領先 6.7 個百分點。媒體增補時一併做 freshness bump（時程表勾掉、補 81 人與各都對決名單）

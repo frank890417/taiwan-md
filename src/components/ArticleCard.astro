@@ -157,6 +157,7 @@ const hasThumbRow = density === 'detailed' || density === 'embed';
 const classes = ['article-card', densityClass, imgSideClass, extraClass]
   .filter(Boolean)
   .join(' ');
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <Tag
@@ -287,18 +288,9 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
           <span class="article-card-cta-label">
             {readingTime || '閱讀全文'}
           </span>
-          <svg
-            class="article-card-cta-arrow"
-            width="12"
-            height="12"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2.5"
-            aria-hidden="true"
-          >
-            <polyline points="9 18 15 12 9 6" />
-          </svg>
+          <Fragment
+            set:html={iconSvg('chevron', '', 'article-card-cta-arrow')}
+          />
         </span>
       )
     }
@@ -318,37 +310,13 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
               <span class="article-card-stats">
                 {!!footnotes && (
                   <span class="article-card-stat" title={citationsLabel}>
-                    <svg
-                      width="13"
-                      height="13"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
-                      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
-                      <polyline points="14 2 14 8 20 8" />
-                    </svg>
+                    <Fragment set:html={iconSvg('archive')} />
                     {footnotes}
                   </span>
                 )}
                 {!!readingTime && (
                   <span class="article-card-stat">
-                    <svg
-                      width="13"
-                      height="13"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      stroke-width="2"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    >
-                      <circle cx="12" cy="12" r="10" />
-                      <polyline points="12 6 12 12 16 14" />
-                    </svg>
+                    <Fragment set:html={iconSvg('clock')} />
                     {readingTime}
                   </span>
                 )}
@@ -364,37 +332,13 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
       <span class="article-card-rowmeta">
         {!!footnotes && (
           <span class="article-card-stat" title={citationsLabel}>
-            <svg
-              width="13"
-              height="13"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
-              <polyline points="14 2 14 8 20 8" />
-            </svg>
+            <Fragment set:html={iconSvg('archive')} />
             {footnotes}
           </span>
         )}
         {!!readingTime && (
           <span class="article-card-stat">
-            <svg
-              width="13"
-              height="13"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <circle cx="12" cy="12" r="10" />
-              <polyline points="12 6 12 12 16 14" />
-            </svg>
+            <Fragment set:html={iconSvg('clock')} />
             {readingTime}
           </span>
         )}

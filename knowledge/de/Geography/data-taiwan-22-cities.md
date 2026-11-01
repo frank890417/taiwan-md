@@ -1,20 +1,20 @@
 ---
-title: 'Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation'
-description: 'Auf einer Insel: Taipei City mit 8.975 Personen pro Quadratkilometer (die dichteste) und Taitung County mit nur 59 (die spärlichste) — ein Unterschied von 151-fach. New Taipei City mit 4.04 Millionen gegen Kinmen County mit 13.621 — ein Unterschied von 297-fach. Hsinchus Altersquote 15,08% (jüngstes Gebiet) gegen Chiayi County mit 24,11% (ältestes) — fast eine Generation Unterschied. Anhand offizieller Daten des Innenministeriums Taiwans (Ende 2025) entsteht ein messbares Porträt einer Insel: 70% der Menschen auf 30% des Landes, Alterung nicht in den Städten sondern in peripheren Gebieten, und in allen 22 Bezirken übersteigen Todesfälle bereits Geburten.'
+title: 'Taiwan durch Daten betrachtet: 22 Landkreise und Städte – Der Unterschied zwischen Überfüllung und Leere beträgt das 151-fache, das Verhältnis von Senioren zu Kindern verschiebt sich von 1:1 auf fast 3:1'
+description: 'Dieselbe Insel: Während in Taipeh 8.975 Personen pro Quadratkilometer leben, sind es in Taitung nur 59 – ein Unterschied um den Faktor 151. Basierend auf den Daten des Bevölkerungswesen-Amtes des Innenministeriums für Ende 2025 wird ein verifizierbares Porträt der 22 Landkreise und Städte gezeichnet: 70 % der Menschen drängen sich auf nur 30 % des Landes. Den höchsten Anteil an Senioren weist die am dichtesten besiedelte Stadt Taipeh auf, während im Landkreis Chiayi, wo das Verhältnis von älteren zu jüngeren Menschen am höchsten ist, fast 3 zu 1 beträgt. In allen 22 Landkreisen und Städten übersteigen die Todesfälle ausnahmslos die Geburtenraten.'
 date: 2026-06-06
 category: 'Geography'
 tags:
   [
     'Bevölkerungsstatistik',
-    'Überalterung',
-    'Überalterungsgesellschaft',
-    'Sechs Großstädte',
-    'Stadt-Land-Unterschied',
+    'Alterung der Gesellschaft',
+    'Super-alternde Gesellschaft',
+    'Sechs Metropolen',
+    'Stadt-Land-Gefälle',
     'Bevölkerungsdichte',
     'Alterungsindex',
-    'Geburtenrückgang',
+    'Niedrige Geburtenrate',
     'Datenvisualisierung',
-    '22-Bezirke-Serie',
+    'Serie der 22 Landkreise und Städte',
   ]
 subcategory: '人口與區域'
 author: 'Taiwan.md'
@@ -23,32 +23,32 @@ featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
-imageAlt: 'Satellitenaufnahme Taiwans vom All: Die westlichen Ebenen und die östliche Zentralkordilliere sind deutlich zu erkennen'
+imageAlt: 'Satellitenbild aus dem Weltraum mit Blick auf die Hauptinsel Taiwans, wobei die westliche Tiefebene und das zentrale Gebirge im Osten deutlich erkennbar sind'
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:426316f6a96d8460'
-sourceBodyHash: 'sha256:035cd9cc6b8c328a'
-translatedAt: '2026-10-15T02:59:02.521223+00:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceBodyHash: 'sha256:4da0398520125992'
+translatedAt: '2026-10-23T16:35:03.398531+00:00'
 ---
 
-# Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation
+# Taiwan in Zahlen: 22 Landkreise und Städte – Die Kluft zwischen Überfüllung und Leere beträgt das 151-Fache; Verhältnis von Senioren zu Kindern verschiebt sich von 1:1 auf fast 3:1
 
-Fahren Sie vom Taipei Xinyi District los nach Süden und Osten, bis Sie die Stadt Taitung erreichen. Das GPS zeigt über 300 Kilometer — weniger als eine Tagesfahrt. Aber wenn Sie den Blick auf eine andere Messgröße richten — wie viele Menschen pro Quadratkilometer vor dem Fenster vorbeiziehen — wird diese Fahrt zur Reise durch zwei völlig verschiedene Länder. Taipei City, wo sich der Xinyi District befindet, hat 8.975 Menschen pro Quadratkilometer. Taitung County, wo Taitung City liegt, hat nur 59. Auf derselben Insel, mit demselben Pass, beträgt der Dichte-Unterschied exakt das 151-fache.
+Wer mit dem Auto vom Distrikt Xinyi in Taipeh aus nach Süden und Osten fährt, erreicht schließlich die Stadt Taitung. Das Navigationssystem zeigt etwas mehr als 300 Kilometer an – eine Fahrt von weniger als einem Tag. Doch wenn man den Blick auf eine andere Skala richtet – wie viele Menschen pro Quadratkilometer außerhalb des Fensters leben –, fühlt sich diese Strecke an wie eine Reise durch zwei verschiedene Länder. In der Stadt Taipeh, in der der Distrikt Xinyi liegt, drängen sich 8.975 Menschen pro Quadratkilometer. Im Landkreis Taitung, in dem die Stadt Taitung liegt, sind es nur 59 Menschen pro Quadratkilometer. Dieselbe Insel, derselbe Reisepass, aber ein Unterschied in der Bevölkerungsdichte um das 151-Fache.
 
-Diese Zahl ist kein extremer Ausreißer. Sie spiegelt echte interne Disparitäten Taiwans wider. Wir sprechen oft von „Taiwan" als Ganzes — über seine Wirtschaft, seine Wahlen, seinen Geburtenrückgang — doch wenn Sie die vollständigen Daten aller 22 Bezirke des taiwanesischen Innenministeriums (Ende 2025) ausbreiten, stellen Sie fest, dass es kein einheitliches Taiwan gibt. Manche Menschen sind in Betonwäldern eingequetscht und warten auf Ampeln, andere fahren zehn Minuten ohne ein zweites Auto zu sehen. Manche Bezirke wachsen noch, die meisten schrumpfen. Der jüngste und der älteste Ort unterscheiden sich um fast eine Generation.
+Diese Zahl ist kein statistischer Trick mit Extremwerten. Sie spiegelt die reale Diskrepanz innerhalb Taiwans wider. Wir sind es gewohnt, über „Taiwan“ als Ganzes zu sprechen – über seine Wirtschaft, seine Wahlen, seine niedrige Geburtenrate. Doch wenn man die vollständigen Daten der Landkreise und Städte Ende 2025 aus dem Bevölkerungsregister des Innenministeriums vor sich hat, erkennt man, dass es kein homogenes Taiwan gibt. Die einen stehen im Betonwald Schlange an der roten Ampel, während die anderen zehn Minuten lang fahren, ohne ein zweites Auto zu sehen. Während einige Landkreise noch wachsen, schrumpfen die meisten anderen. In den jüngsten Regionen gibt es etwa gleich viele Senioren wie Kinder; in den am stärksten alternden Regionen kommt auf ein Kind fast drei Senioren.
 
 ```tw-figure
-151-fach
-Unterschied in der Bevölkerungsdichte (Taipeh vs. Landkreis Taitung): 8.975 vs. 59 Einwohner pro km²
-Quelle: Amt für Haushaltsregistrierung, Innenministerium, Ende 2025
+151-facher Unterschied
+Bevölkerungsdichte zwischen Taipeh und dem Landkreis Taitung: 8.975 Personen/km² vs. 59 Personen/km²
+Bevölkerungsregister des Innenministeriums, Ende 2025
 ```
 
-Dieser Artikel verfolgt ein Ziel: Mit offiziellen Daten ein messbares, überprüfbares Porträt der ganzen Insel zu zeichnen. Wenn man es dann anschaut, erkennt man ein Gesicht mit starken Bruchlinien, das schnell altert. [^1]
+Dieser Artikel verfolgt ein Ziel: Mit offiziellen Daten ein porträtiertes Bild der gesamten Insel zu zeichnen – ein Bild mit Maßstäben, das verifiziert werden kann. Wenn dieses Porträt fertig ist, wird man ein Gesicht sehen, das stark fragmentiert und zudem rapide altert. [^1]
 
-> **30-Sekunden-Überblick:** Taiwans Bevölkerung Ende 2025 betrug 23.299.132 Menschen (etwa 23,3 Millionen) und ist seit 23 Monaten ständig kleiner geworden; Neugeborene sind zum ersten Mal unter 110.000 gefallen. Im selben Jahr wurde Taiwan offiziell eine „Überalterungsgesellschaft" — jeder fünfte Mensch ist über 65. Doch der nationale Durchschnitt verdeckt massive interne Unterschiede: Die höchste und niedrigste Bevölkerungsdichte unterscheiden sich um das 151-fache, die Bevölkerungsgröße um das 297-fache, der Grad der Überalterung um fast eine Generation. Menschen konzentrieren sich in sechs Großstädten; die Alterungsfront liegt nicht in urbanen Zentren sondern in peripheren und landwirtschaftlichen Bezirken. Das jüngste Gebiet wird von Taiwans Halbleiter-Cluster gestützt. Dies ist ein Taiwan mit großen inneren Unterschieden, der gemeinsam altert. [^2]
+> **30-Sekunden-Überblick:** Ende 2025 betrug die Gesamtbevölkerung Taiwans 23.299.132 (ca. 23,3 Millionen) und sank damit bereits im 23. Monat in Folge; die Zahl der Neugeborenen fiel erstmals unter 110.000. Im selben Jahr trat Taiwan offiziell in die „super-alternde Gesellschaft“ ein, in der jede fünfte Person über 65 Jahre alt ist. Doch der landesweite Durchschnitt verschleiert enorme interne Unterschiede: Die höchste und die niedrigste Bevölkerungsdichte unterscheiden sich um das 151-Fache, die Bevölkerungsgröße um das 297-Fache, und das Verhältnis von Senioren zu Kindern hat sich von 1:1 auf fast 3:1 verschoben. Während die Menschen in den sechs Metropolregionen konzentriert sind, folgt die Alterung nicht der Bevölkerungsdichte: Den höchsten Anteil an Senioren hat die am dichtesten besiedelte Stadt Taipeh; das höchste Verhältnis von Senioren zu Kindern findet sich im Landkreis Chiayi; die jüngsten Regionen sind Hsinchu und die Stadt Hsinchu, gestützt durch den Hsinchu Science Park. Dies ist ein fragmentiertes Taiwan, das gemeinsam altert. [^2]
 
 ## Sieben Zehntel der Menschen, drei Zehntel des Landes
 
@@ -121,57 +121,59 @@ Diese Größendifferenz wird zur direkten Regierungsherausforderung. New Taipei 
 
 Aber Vorsicht vor einer kognitiven Falle: Kleine Größe heißt nicht jung. Man könnte vermuten, kleine Bezirke verlieren Junge, bleiben alt — klein und alt. Große Städte mit Ressourcen und Chancen — groß und jung. Die Realität dreht beides um. Kinmen, kleinster Bezirk, hat eine Altersquote von nur 17,14% — tatsächlich niedriger als manche größere Bezirke. Taipei City, der viertgrößte und prächtige, hat Taiwans höchste Altersquote von 24,18%. Größe und Alterung korrelieren nicht linear. Um zu verstehen, wie Taiwan altert, braucht man eine andere Karte.
 
-## Die Alterungsfront liegt nicht in den Städten
+## Die zwei ältesten Gebiete: Taipei City und Landkreis Chiayi
 
-2025 überschritt Taiwan eine Schwelle: Die Bevölkerung über 65 Jahren erreichte 20,06% — offiziell eine „Überalterungsgesellschaft" nach WHO-Definition. Das bedeutet 4,67 Millionen über 65 — jeder fünfte Taiwanese ist Senior. Von Taiwans 22 Bezirken haben bereits 14 eine Quote über 20%. Altern ist zur universellen Hintergrund-Farbe der ganzen Insel geworden.
+Im Jahr 2025 hat Taiwan eine Schwelle überschritten: Der Anteil der Bevölkerung über 65 Jahre erreichte landesweit 20,06 %, womit das Land offiziell zu einer „superalten Gesellschaft“ (super-aged society) gemäß der Definition der Weltgesundheitsorganisation wurde. Das bedeutet, dass es in ganz Taiwan 4,67 Millionen Menschen gibt, die älter als 65 sind – jeder fünfte Taiwaner ist somit ein Senior. Zudem haben bereits 14 der 22 Landkreise und Städte landesweit eine Überalterungsrate von über 20 %. Das Alter ist zu einer gemeinsamen Grundfarbe der gesamten Insel geworden.
 
-Aber dieser nationale Durchschnitt von 20,06% verschleiert die massiven inneren Unterschiede. Die Tabelle unten ordnet alle 22 Bezirke nach Altersquote und Alterungsindex — diese Grafik sollte man gründlich studieren. Kurz zum Alterungsindex: Er ist gleich (Bevölkerung 65+) dividiert durch (Bevölkerung 0–14) mal 100. Der Wert 100 bedeutet gleich viele Senioren wie Kinder; höhere Werte zeigen „Kopflastigkeit" — oben mehr Alte, unten weniger Kinder.
+Doch dieser landesweite Durchschnitt von 20,06 % ebnet die massiven internen Unterschiede ein. Die folgende Tabelle stellt die Überalterungsraten und den Alterungsindex der 22 Landkreise und Städte nebeneinander dar; dies ist der Teil des Artikels, bei dem man am ehesten innehalten und genau hinsehen sollte. Zur Erklärung des „Alterungsindex“: Er berechnet sich aus der Anzahl der über 65-Jährigen geteilt durch die Anzahl der 0- bis 14-Jährigen, multipliziert mit 100. Ein Wert von 100 bedeutet, dass es genauso viele Senioren wie Kinder gibt. Je höher die Zahl, desto „kopflastiger“ ist das Gebiet – desto mehr ältere Menschen leben oben, während unten immer weniger Kinder nachkommen.
 
 ```tw-heatmap
-Landkreis/Stadt | Anteil 65+ (%) | Überalterungsindex
-Taipeh | 24.18 | 202.06
-Neu-Taipeh | 19.95 | 185.54
-Taoyuan | 16.72 | 127.33
-Taichung | 17.40 | 136.45
-Tainan | 20.48 | 184.96
-Kaohsiung | 20.79 | 192.10
-Keelung | 22.28 | 240.21
-Hsinchu (Stadt) | 16.16 | 106.59
-Chiayi (Stadt) | 19.90 | 164.47
-Landkreis Hsinchu | 15.08 | 101.88
-Landkreis Miaoli | 20.23 | 179.56
-Landkreis Changhua | 20.37 | 178.35
-Landkreis Nantou | 22.66 | 224.64
-Landkreis Yunlin | 21.76 | 206.78
-Landkreis Chiayi | 24.11 | 291.69
-Landkreis Pingtung | 21.84 | 218.72
-Landkreis Yilan | 20.77 | 189.67
-Landkreis Hualien | 21.52 | 200.53
-Landkreis Taitung | 20.93 | 194.71
-Landkreis Penghu | 21.03 | 223.65
-Landkreis Kinmen | 19.69 | 255.57
-Landkreis Lienchiang | 17.14 | 180.23
-Quelle: Amt für Haushaltsregistrierung, Innenministerium, Ende 2025
+Landkreis/Stadt | Überalterungsrate 65+ (%) | Alterungsindex
+Taipei City | 24,18 | 202,06
+New Taipei City | 19,95 | 185,54
+Taoyuan City | 16,72 | 127,33
+Taichung City | 17,40 | 136,45
+Tainan City | 20,48 | 184,96
+Kaohsiung City | 20,79 | 192,10
+Keelung City | 22,28 | 240,21
+Hsinchu City | 16,16 | 106,59
+Chiayi City | 19,90 | 164,47
+Hsinchu County | 15,08 | 101,88
+Miaoli County | 20,23 | 179,56
+Changhua County | 20,37 | 178,35
+Nantou County | 22,66 | 224,64
+Yunlin County | 21,76 | 206,78
+Chiayi County | 24,11 | 291,69
+Pingtung County | 21,84 | 218,72
+Yilan County | 20,77 | 189,67
+Hualien County | 21,52 | 200,53
+Taitung County | 20,93 | 194,71
+Penghu County | 21,03 | 223,65
+Kinmen County | 19,69 | 255,57
+Lienchiang County | 17,14 | 180,23
+Quelle: Taiwans Innenministerium, Behörde für Haushaltsregistrierung, Ende 2025
 ```
 
-Besonders die Alterungsindex-Spalte zeigt: Taiwans höchster Index ist Chiayi County mit 291,69 — das heißt, auf jedes Kind kommen fast drei Senioren. Knapp dahinter Kinmen County mit 255,57 und Keelung City mit 240,21. Diese drei haben eins gemeinsam: Sie sind Landwirtschaftsbezirke, Inselgruppen oder alte Häfen, wo junge Menschen wegzogen — keiner in Taiwans wohlhabendster Stadt-Liste. Die Alterungsfront sitzt in diesen Ecken, die lange jung ausblutet. Wenn junge Menschen wegen Arbeit oder Schule gehen, altern die Zurückbleibenden, neue Babys ersetzen sie nicht, und der Alterungsindex schießt in die Höhe.
+Betrachtet man den Anteil der über 65-Jährigen, ist Taipei City mit 24,18 % das älteste Gebiet in ganz Taiwan, dicht gefolgt vom Landkreis Chiayi mit 24,11 % – ein Unterschied von nur 0,07 Prozentpunkten. Beim Alterungsindex hingegen belegt der Landkreis Chiayi mit 291,69 den ersten Platz; hier kommt auf jedes Kind fast drei Senioren. Es folgen Kinmen County mit 255,57 und Keelung City mit 240,21, während Taipei City mit 202,06 auf den achten Platz zurückfällt. Der Unterschied zwischen den beiden Spalten liegt im Nenner: Da der Alterungsindex die Senioren mit den Kindern vergleicht, sinkt der Index für Taipei City, da dort trotz des hohen Anteils an Senioren auch der Anteil der Kinder höher ist als in Chiayi County oder Kinmen County.
 
-Wo ist Taiwans jüngstes Gebiet? Die Antwort überrascht: nicht irgendwo in der Natur, sondern neben Halbleiter-Fabriken. Hsinchu County hat eine Altersquote von nur 15,08% — Taiwans niedrigste; Alterungsindex 101,88 — fast Eins-zu-eins Balance Alte zu Kinder, bemerkenswert inmitten nationaler Überalterung. Hsinchu City mit 16,16% und Taoyuan City mit 16,72% folgen. Diese drei Bezirke erzählen fast dieselbe Jugend-Geschichte: der Hsinchu Science Park. Die Halbleiter- und Tech-Industrie zog massiv arbeitsfähige Ingenieure und Techniker an, die dort Familie gründeten und Kinder bekamen, was die Bevölkerungsstruktur deutlich jünger macht. Der Hsinchu Cluster stützt nicht nur Taiwans Export-Zahlen, sondern auch Taiwans jüngste Bevölkerungs-Karte.
+In den Top 7 beider Spalten finden sich die vier Agrarlandkreise Chiayi, Nantou, Yunlin und Pingtung sowie die ehemalige Hafenstadt Keelung, deren Industrie abgewandert ist. Die Bevölkerung in diesen fünf Gebieten schrumpft: Junge Menschen ziehen für Arbeit oder Ausbildung weg, die Zurückbleibenden werden langsam älter, und die Neugeborenen können dies nicht ausgleichen – so steigen beide Werte gleichzeitig an.
 
-Stellt man das jüngste und älteste Gebiet nebeneinander, wird der Kontrast scharf.
+Wo liegt also die jüngste Ecke Taiwans? Die Antwort wird viele überraschen: Nicht in irgendeinem idyllischen Rückzugsort, sondern direkt neben den Fabrikhallen der Technologieindustrie. Hsinchu County hat mit nur 15,08 % die niedrigste Überalterungsrate des Landes. Der Alterungsindex liegt bei 101,88, was fast einem Gleichgewicht zwischen Senioren und Kindern entspricht – ein markanter Gegensatz zur allgemeinen Überalterung in Taiwan. Hsinchu City (16,16 %) und Taoyuan City (16,72 %) folgen dicht darauf. Der Grund für die Jugendlichkeit dieser drei Orte ist fast immer derselbe: der Hsinchu Science Park. Die Halbleiter- und Technologieindustrie zieht eine große Anzahl von Ingenieuren und Technikern im gebärfähigen Alter an. Sie gründen hier Familien und bekommen Kinder, was die Bevölkerungsstruktur dieser Landkreise massiv in Richtung Jugend verschiebt. Der Hsinchu Science Park stützt neben den Exportzahlen Taiwans auch das jüngste demografische Segment des Landes.
+
+Stellt man das junge Hsinchu County direkt neben das hochgradig gealterte Chiayi County, wird der Kontrast noch schärfer.
 
 ```tw-versus
-Landkreis Hsinchu (jüngster) | Landkreis Chiayi (ältester)
+Hsinchu County (Jüngstes Gebiet) | Chiayi County (Höchster Alterungsindex)
 Anteil 65+: 15,08 % | Anteil 65+: 24,11 %
-Überalterungsindex 101,88 | Überalterungsindex 291,69
-Bevölkerung wächst noch | Bevölkerung schrumpft weiter
-Jugend getragen vom Hsinchu Science Park | Alterungsfront eines Agrarlandkreises
-Quelle: Amt für Haushaltsregistrierung, Innenministerium, Ende 2025
+Alterungsindex: 101,88 | Alterungsindex: 291,69
+Bevölkerung wächst noch | Bevölkerung schrumpft stetig
+Jugend durch Hsinchu Science Park | Agrarlandkreis, Geburtenrate nicht ausreichend
+Quelle: Taiwans Innenministerium, Behörde für Haushaltsregistrierung, Ende 2025
 ```
 
-Hsinchu County 15,08% gegen Chiayi County 24,11% — ein Unterschied von 9 Prozentpunkten; Alterungsindizes 101,88 gegen 291,69 — fast dreifach. Einer wächst noch, Menschen strömen rein; einer schrumpft, Menschen strömen raus. Diese zwei Bezirke auf einer Insel unterscheiden sich in Altersgrad um fast eine Generation. In Hsinchua Parks sehen Sie junge Eltern mit Kinderwagen; in Chiayi-Dörfern vielleicht nur langsam gehende Senioren. Beide Taiwans sind von der Behörde erfasst.
+15,08 % in Hsinchu County gegenüber 24,11 % in Chiayi County bedeutet eine Differenz von 9 Prozentpunkten bei der Überalterungsrate; ein Alterungsindex von 101,88 gegenüber 291,69 entspricht fast dem Dreifachen. Der eine Ort wächst und zieht Menschen an; der andere verliert kontinuierlich Einwohner. In diesen beiden Landkreisen auf derselben Insel gibt es auf der einen Seite etwa gleich viele Senioren wie Kinder, während auf der anderen Seite hinter jedem Kind fast drei Senioren stehen. In einem Park in Hsinchu sieht man vielleicht junge Eltern mit Kinderwagen, während in den ländlichen Gegenden von Chiayi vielleicht ganze Straßen von langsam gehenden Senioren gesäumt sind. Diese zwei Arten des Taiwans werden beide durch die Zahlen der Behörde für Haushaltsregistrierung belegt.
 
-Hier ein Mythos zu widerlegen: Viele glauben, Altern sei Spezialität von Land und Inseln, Großstädte mit Jugend und Chancen seien immun. Die Daten sagen Nein. Taipei City mit Altersquote 24,18% ist Taiwans höchste; Alterungsindex 202,06 auch unter den sechs Großstädten höchste. Diese wohlhabendste, ressourcenreichste Stadt Taiwans ist gleichzeitig die älteste der sechs. Der Grund liegt auf der Hand: Taipeis Immobilienpreise quetschen junge Familien nach New Taipei und Taoyuan zum Familiengründen, bleiben in der Innenstadt die Generation, die früh ankam und jetzt altert. Wohlhabenheit blockiert Alterung nicht — sie altert nur anders. Altern ist nicht Krankheit mancher Bezirke, es ist Taiwans gemeinsamer Zustand — nur unterschiedlich schnell.
+Viele glauben, das Altern sei ein Privileg der ländlichen Gebiete und der Außeninseln; in Großstädten gäbe es mehr junge Menschen und Chancen, was sie gegen das Altern immun mache. Die Zahlen aus Taipei City zeigen jedoch etwas anderes: In dieser wohlhabendsten Stadt Taiwans mit der höchsten Ressourcenkonzentration ist der Anteil der Senioren der höchste im Land, und auch der Alterungsindex ist unter den sechs Metropolregionen der Spitzenreiter. Eine häufig genannte Erklärung sind die Immobilienpreise: Junge Familien werden nach New Taipei City oder Taoyuan verdrängt, um dort Häuser zu bauen und Kinder zu bekommen, während in der Innenstadt die Generation zurückbleibt, die sich schon früh niedergelassen hat und nun allmählich altert. Der Glanz der Metropole kann das Altern nicht aufhalten; er verändert nur die Art und Weise, wie die Stadt altert. Die Alterung ist das gemeinsame Schicksal der gesamten Insel – der Unterschied liegt lediglich im Tempo.
 
 ## Eine Insel, die gemeinsam altert
 
@@ -209,21 +211,21 @@ Dieser Tatsache lohnt es sich, innezuhalten und sie klar zu durchdenken. 2025 wu
 
 Deshalb sinkt die Gesamtbevölkerung seit 23 Monaten in Folge und fiel auf 23.299.132. Es ist ein synchroner Schrumpfprozess der ganzen Insel; jeder Landkreis und jede Stadt schrumpft. Der Unterschied liegt nur darin: Manche Orte stützen sich vorübergehend durch Zuzug, andere haben nicht einmal diesen Puffer.
 
-## Das Porträt gezeichnet von Zahlen
+## Ein durch Daten gezeichnetes Porträt
 
-Zurück zu jener Fahrt: Von Taipei Xinyi nach Taitung, Dichte fällt von 8.975 auf 59 Menschen pro Quadratkilometer — wie zwei Länder zu durchqueren. Jetzt wissen Sie: das ist nicht nur Dichteunterschied. Auf dieser Strecke fällt Größe von Riesen zu Staubkörner, Altern rutscht von Hsinchaus halbleiter-getragener Jugend zu Landwirtschafts-Alterungsfront, eines bleibt: überall, wo Sie einen Bezirk anfassen, übersteigen dort bereits Todesfälle Geburten.
+Zurück zum Anfang. Von Taipeis Bezirk Xinyi bis nach Taitung sinkt die Bevölkerungszahl pro Quadratkilometer von 8.975 auf 59 – es ist, als würde man zwei verschiedene Länder durchqueren. Jetzt wissen Sie, dass dies nicht nur ein Unterschied in der Dichte ist. Auf diesem Weg schrumpft das Bevölkerungsvolumen vom Riesen zum Staubkorn. Die Überalterung folgt jedoch nicht der Bevölkerungsdichte: Das Ausgangsziel Taipeh hat den landesweit höchsten Anteil an Senioren, während Taitung in beiden Kategorien im Mittelfeld liegt. Das Einzige, was unverändert bleibt, ist, dass egal in welchem Landkreis oder welcher Stadt man hält, die Sterbefälle bereits die Geburten übersteigen.
 
-Das ist Taiwans 2025-Porträt: Ein Gesicht mit scharfen Bruchlinien, das gemeinsam altert. Seine innere Kluft ist atemberaubend — 151-facher Dichteunterschied, 297-facher Größenunterschied, fast generationelle Alterungslücke; doch der tiefere Zustand ist merkwürdig einheitlich. Inselweit übersteigen Todesfälle Geburten, nationale Bevölkerung sinkt 23 Monate, nur sieben Jahre von Aged zu Super-Aged Society. Der nationale Entwicklungsrat schätzt für die mittlere Szene: 2070 Bevölkerung sinkt auf 14,97 Millionen mit 46,5% über 65; 2028 endet die demografische Dividende. Dieses Porträt wird sich nicht selbst bessern. [^3]
+Dies ist das Porträt Taiwans im Jahr 2025: ein Gesicht, das stark fragmentiert ist und gleichzeitig gemeinsam altert. Die internen Disparitäten sind erschütternd – die Dichte unterscheidet sich um das 151-fache, die Größe um das 297-fache, und das Verhältnis von Senioren zu Kindern reicht von eins zu eins bis fast drei zu eins. Doch die grundlegende Lage ist erstaunlich einheitlich: Auf der gesamten Insel sterben mehr Menschen, als geboren werden; die Gesamtbevölkerung schrumpft seit 23 aufeinanderfolgenden Monaten, und innerhalb von nur sieben Jahren wurde der Übergang von einer alternden Gesellschaft zu einer superalternden Gesellschaft vollzogen. Schätzungen des Nationalen Entwicklungsrates besagen, dass nach mittleren Prognosen die Gesamtbevölkerung Taiwans bis zum Jahr 2070 auf 14,97 Millionen sinken wird, wobei der Anteil der über 65-Jährigen 46,5 % erreichen wird; im Jahr 2028 wird die demografische Dividende enden. Dieses Porträt wird sich nicht von selbst zum Besseren wenden. [^3]
 
-Taiwans innere Heterogenität anzuerkennen heißt, das wirkliche Problem dieser Insel zu sehen: Ein Ort mit solcher innerer Varianz muss eine Politik-Reihe nutzen, um 4 Millionen Menschen in einem Becken und 13.000 auf Inseln zu pflegen, während er gleichzeitig Hsinchua Jugend und Chiayi-Alter handhabt. Er spaltet sich, muss aber als Eins handeln; er altert, muss es gemeinsam überstehen. Die Zahlen haben das Porträt gezeichnet; wie darauf antwortet — eine Frage, die diese Insel gemeinsam beantworten muss.
+Die Anerkennung dieser extremen Heterogenität Taiwans dient dazu, die wahren Herausforderungen der Insel zu verstehen: Ein Ort mit solch gewaltigen internen Unterschieden muss eine Politik entwickeln, die gleichzeitig die vier Millionen Menschen in den Beckenlandschaften und die 13.000 Menschen auf den abgelegenen Inseln versorgt – und dabei sowohl das jüngste Hsinchu County als auch Taipeh City und das Landkreis Chiayi mit ihren hohen Seniorenanteilen berücksichtigt. Die Insel ist fragmentiert, muss aber als Ganzes agieren; sie altert, muss aber gemeinsam nach Lösungen suchen. Die Daten haben uns dieses Gesicht gezeichnet; wie darauf reagiert wird, ist die Frage, die diese Insel gemeinsam beantworten muss.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Taipei City](/de/geography/taipei-city) — Dichteste national (8.975 Menschen/km²) und älteste unter den sechs Großstädten (Alterungsindex 202), derselbe Protagonist an beiden Extremen dieses Artikels.
-- [Taitung County](/de/geography/taitung-county) — Spärlichste Taiwans (59 Menschen/km²), das andere Ende; zwei Inseln, die einer ganzen Insel die Last tragen.
-- [Chiayi County](/de/geography/chiayi-county) — Alterungsindex 291,69 höchste national, Drittel eines Kindes pro Altenperson, Vertreter der Landwirtschafts-Alterungsfront.
-- [Hsinchu County](/de/geography/hsinchu-county) — Altersquote 15,08%, Taiwans jüngste, wo der Halbleiter-Cluster die Alterungsstruktur zur Jugend zieht.
-- [Taiwans Geburtenrückgangs-Krise](/de/society/taiwan-low-birth-rate-crisis) — Das Geburts-Ende dieses Porträts: Neugeborene unter 110.000, eine ganze Insel wo Todesfälle Geburten übersteigen.
+- [Taipeh City](/de/geography/taipei-city) — Die am dichtesten besiedelte Stadt Taiwans (8.975 Personen pro km²) und gleichzeitig die Stadt mit dem höchsten Anteil an über 65-Jährigen (24,18 %) im ganzen Land; sie ist das zentrale Subjekt in den beiden Tabellen zu Bevölkerungsdichte und Überalterung in diesem Artikel.
+- [Land Taitung](/de/geography/taitung-county) — Das andere Extrem, die am dünnsten besiedelte Region Taiwans (59 Personen pro km²). Mit einer Fläche von 3.515 km² ist sie die drittgrößte Verwaltungseinheit des Landes und umfasst auch die Inseln Green Island und Lanyu.
+- [Land Chiayi](/de/geography/chiayi-county) — Weist mit einem Alterungsindex von 291,69 den höchsten Wert in ganz Taiwan auf; auf jedes Kind kommen fast drei ältere Menschen. Der Anteil der über 65-Jährigen liegt bei 24,11 % und ist damit nur höher als in Taipeh City.
+- [Land Hsinchu](/de/geography/hsinchu-county) — Mit einer Überalterungsrate von 15,08 % die jüngste Region Taiwans; das Gebiet, in dem der Hsinchu Science Park die Bevölkerungsstruktur in Richtung einer jüngeren Demografie zieht.
+- [Die Krise der niedrigen Geburtenraten in Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Die Ursache dieses demografischen Porträts: Die Zahl der Neugeborenen ist unter 110.000 gefallen – die Kehrseite der Medaille des Überlebenskampfes auf der gesamten Insel.
 
 ## Bildquellen
 

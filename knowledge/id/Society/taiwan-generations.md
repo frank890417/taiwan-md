@@ -197,7 +197,7 @@ Artikel ini pakai 5 gambar lisensi Creative Commons, semua cache di `public/arti
 - [Boneka Layar Taiwan (hero)](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
 - [Yakult](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
 - [Pager Angka 1990-an](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
-- [Demo Anti-ECFA Bunga Matahari 2014](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253) — Photo: tenz1225, 2014, CC BY-SA 2.0
+- [Demo Anti-ECFA Bunga Matahari 2014](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
 - [Gugusan Apartemen Tamsui New Taipei](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
 
 ## Referensi

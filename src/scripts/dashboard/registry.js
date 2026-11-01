@@ -3,6 +3,7 @@ import {
   DEFAULT_LANGUAGE,
 } from '../../config/languages.mjs';
 import { isEn, categoryLabels, langPrefix, debounce } from './shared.js';
+import { decorateUiIcons } from '../../icons/decorate-ui-icons.mjs';
 
 let allArticles = [];
 let sortField = 'date';
@@ -108,6 +109,8 @@ function renderTable(articles) {
 
   document.getElementById('registry-summary').textContent =
     `${isEn ? 'Showing' : '顯示'} ${sorted.length} / ${allArticles.length} ${isEn ? 'articles' : '篇文章'}`;
+  // 篩選與排序會重繪表格，emoji 要再換一次行線圖示（首次換在 dashboard-client.js）
+  decorateUiIcons(document.getElementById('registry-table'));
 }
 
 function bindRegistryEvents() {
@@ -123,6 +126,7 @@ function bindRegistryEvents() {
       : isEn
         ? '⚙️ Show all columns'
         : '⚙️ 顯示所有欄位';
+    decorateUiIcons(this);
   });
 
   // Sort

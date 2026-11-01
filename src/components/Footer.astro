@@ -235,6 +235,22 @@ const label = {
     ar: 'سيميونت',
     ru: 'Семионт',
   }),
+  // 識別手冊 /brand（2026-10-22 識別系統 v2；頁面只有中文版，外語頁由 navHref 退回 zh 路徑）
+  brand: L({
+    'zh-TW': '識別手冊',
+    en: 'Brand Guidelines',
+    ja: 'ブランドガイドライン',
+    ko: '브랜드 가이드라인',
+    es: 'Guía de marca',
+    fr: 'Charte graphique',
+    vi: 'Cẩm nang nhận diện',
+    id: 'Panduan merek',
+    pt: 'Guia de marca',
+    hi: 'ब्रांड दिशानिर्देश',
+    ar: 'دليل الهوية',
+    ru: 'Брендбук',
+    de: 'Markenhandbuch',
+  }),
   rss: lang === 'zh-TW' ? 'RSS 訂閱' : 'RSS',
 };
 
@@ -243,6 +259,7 @@ const label = {
 const COL_CLASS =
   "flex flex-col gap-[0.4rem] [&>a]:relative [&>a]:py-1 [&>a]:text-[0.85rem] [&>a]:text-[#94a3b8] [&>a]:no-underline [&>a]:transition-all [&>a]:duration-200 [&>a]:ease [&>a:hover]:text-[#e2e8f0] [&>a:hover]:after:absolute [&>a:hover]:after:bottom-0 [&>a:hover]:after:inset-x-0 [&>a:hover]:after:h-px [&>a:hover]:after:bg-[#a7c7a7] [&>a:hover]:after:opacity-70 [&>a:hover]:after:content-['']";
 const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -268,8 +285,9 @@ const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
       class="mb-8 grid grid-cols-[2fr_1fr_1fr_1fr_1fr] gap-8 max-[768px]:grid-cols-2 max-[768px]:gap-7 max-[480px]:grid-cols-1"
     >
       <div class="max-[768px]:col-span-full">
-        <span class="mb-2 block text-[1.2rem] font-bold text-white"
-          >🇹🇼 Taiwan.md</span
+        <span
+          class="mb-2 flex items-center gap-2 text-[1.2rem] font-bold text-white"
+          ><Fragment set:html={iconSvg('island', '', 'text-[#45c2ab]')} /> Taiwan.md</span
         >
         <p>{t('footer.desc')}</p>
         <p class="mt-2 text-[#22c55e]">{t('footer.builtWith')}</p>
@@ -343,6 +361,7 @@ const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
       <div class={COL_CLASS}>
         <h4 class={HEAD_CLASS}>{label.participate}</h4>
         <a href={navHref('/about')}>{t('footer.about')}</a>
+        <a href={navHref('/brand')}>{label.brand}</a>
         <a href={navHref('/contribute')}>{t('footer.contribute')}</a>
         <a href="https://github.com/frank890417/taiwan-md" target="_blank"
           >GitHub</a

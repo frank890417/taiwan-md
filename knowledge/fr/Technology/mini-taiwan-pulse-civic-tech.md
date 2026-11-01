@@ -1,12 +1,12 @@
 ---
-title: "Mini Taiwan Pulse : Avec le regard d'un curateur, faire de Taïwan une carte qui respire"
-description: "En 2026, l'analyste de données Migu superpose les données ouvertes dispersées de Taïwan — avions, navires, trains, bus, camions poubelles — pour en faire une carte qui respire. L'AI effectue le travail fastidieux d'extraction, mais c'est un œil de curateur formé à la planification urbaine qui décide quelles couches se superposent, quelles couleurs utiliser et quelle couche illuminer."
+title: "Mini Taiwan Pulse : Avec un regard de commissaire d'exposition, dessiner Taïwan comme une carte vivante"
+description: "En 2026, l'analyste de données Migu a glissé un fichier CSV dans Kepler.gl, faisant apparaître la toute première carte de Taïwan sur son écran. Deux ans plus tard, le projet mini-taiwan-pulse est devenu extrêmement populaire sur GitHub avec 375 étoiles, superposant cinq types de données en temps réel — ciel, océan, terre, rues et gestion des déchets — pour créer une carte animée. Face à l'impossibilité pour un humain d'analyser les données ouvertes provenant de plus de vingt comtés et villes ainsi que 50 000 enregistrements du gouvernement central, sa solution n'a pas été de recruter davantage de personnel, mais de confier la tâche à un système évolutif orchestré par des agents IA, l'humain ne se chargeant que de poser les questions et de valider les résultats. Du regard de commissaire d'exposition formé en urbanisme au pipeline de détection d'incendies s'exécutant seul dans tmux, découvrez comment le GitHub d'une seule personne a pu devenir toute une galaxie."
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
     'Technologie',
-    'Technologie civique',
+    'Civic Tech',
     'Données ouvertes',
     'Visualisation de données',
     'Projet open source',
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T08:37:40.444929+00:00'
+translatedAt: '2026-10-21T00:59:21.303095+00:00'
 ---
 
 # Mini Taiwan Pulse : Avec le regard d'un curateur, faire de Taïwan une carte qui respire

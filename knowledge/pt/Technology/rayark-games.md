@@ -1,6 +1,6 @@
 ---
-title: 'Rayark Games: O império musical fundado na estética e suas rachaduras de catorze anos'
-description: 'Em 2012, seis jovens da Faculdade de Engenharia Elétrica e Ciência da Computação da NTU reuniram 30 milhões para criar "Cytus", alcançando o primeiro lugar nas paradas de 14 países em um mês. Catorze anos depois, eles têm a animação de Deemo, a animação de Implosion não entregue após onze anos, Sdorica entrando em modo de manutenção em fevereiro de 2026, e a escolha de 2020 de cortar laços com o funcionário após o incidente do código Morse da ICE para preservar o mercado chinês. A estética fez o mundo notar a Rayark, mas também a fez tropeçar em todo domínio não musical.'
+title: 'Rayark Games: Um império musical fundado na estética e suas fissuras ao longo de quatorze anos'
+description: 'Em 2012, seis jovens da Faculdade de Informática e Engenharia da Universidade Nacional de Taiwan reuniram 30 milhões para criar o "Cytus", que alcançou o primeiro lugar nas paradas de 14 países em apenas um mês. Quatorze anos depois, eles têm a animação de Deemo, uma animação de partículas não entregue há onze anos, Sdorica entrando em modo de manutenção em fevereiro de 2026 e a decisão de demitir funcionários após o incidente do código Morse de ICE em 2020 para proteger o mercado chinês. A estética fez com que a Rayark fosse vista pelo mundo, mas também fez com que ela tropeçasse em todas as áreas que não fossem a música.'
 date: 2026-04-25
 category: 'Technology'
 tags:
@@ -10,14 +10,14 @@ tags:
     'Cytus',
     'Deemo',
     'Sdorica',
-    'jogo de ritmo',
+    'jogo musical',
     'jogos de Taiwan',
-    'Yu Ming-yang',
-    'Chung Chih-yuan',
+    'You Ming-yang',
+    'Zhong Zhi-yuan',
     'ICE',
-    'código Morse',
-    'Implosion',
-    'VK',
+    'Código Morse',
+    'partículas',
+    'VK Clark',
     'Mozarc',
   ]
 subcategory: '社群與數位文化'
@@ -33,357 +33,351 @@ imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Rayark_Café_20211016.jpg'
 sporeLinks:
-  [
-    "{'id': 89, 'platform': 'threads', 'date': '2026-05-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k'}",
-    "{'id': 90, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058811390337622339'}",
-  ]
+  - id: 89
+    platform: 'threads'
+    date: '2026-05-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k'
+  - id: 90
+    platform: 'x'
+    date: '2026-05-25'
+    url: 'https://x.com/taiwandotmd/status/2058811390337622339'
 translatedFrom: 'Technology/雷亞遊戲.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:efb74dfc78d9c93c'
-sourceBodyHash: 'sha256:28ef520886f893e3'
-translatedAt: '2026-08-02T13:22:33+08:00'
+sourceCommitSha: 'eddd0fe3f'
+sourceContentHash: 'sha256:e5ed571c162c298d'
+sourceBodyHash: 'sha256:11e8f9bacb021dde'
+translatedAt: '2026-10-22T03:28:26.623664+00:00'
 ---
 
-> **Visão geral de 30 segundos:** Em setembro de 2011, seis jovens formados na Faculdade de Engenharia Elétrica e Ciência da Computação da NTU fundaram a Rayark Games na Rua Jinshan Norte, em Taipé, com capital de 30 milhões de novos dólares taiwaneses e equipe de 16 pessoas. Em janeiro de 2012, "Cytus" estreou no iOS, alcançando o primeiro lugar nas paradas de 14 países em um mês. O subsequente "Deemo" liderou a parada Oricon do Japão, "Implosion" ganhou o iOS Game of the Year 2015, "VOEZ" tornou-se jogo de lançamento do Nintendo Switch. Catorze anos depois, a Rayark lançou mais de dez jogos acumulando mais de 130 milhões de downloads globais, mas as palavras-chave ao seu redor mudaram de "gênio" para "que pena". Sdorica: Crônica dos Milhões de Mundos lutou por oito anos antes de entrar oficialmente em modo de manutenção em fevereiro de 2026, a animação de Implosion permanece não entregue desde o financiamento no Kickstarter em 2015 até 2026, e após o incidente do código Morse da ICE em 2020 a Rayark atendeu ao mercado chinês modificando o jogo. A estética os fez ser vistos pelo mundo, mas também os fez cair em todo domínio não musical.
+> **Resumo em 30 segundos:** Em setembro de 2011, seis jovens formados pelas faculdades de Engenharia Elétrica e Ciência da Informação da Universidade Nacional de Taiwan fundaram a Rayark Games na Beilu, em Jinshan, Taipé, com um capital social de NT$30 milhões e uma equipe de 16 pessoas. Em janeiro de 2012, 《Cytus》foi lançado para iOS, alcançando o primeiro lugar nos rankings de 14 países em apenas um mês. O sucessor, 《Deemo》, chegou ao ranking Oricon do Japão; 《Cytus II》conquistou o prêmio de melhor jogo do ano para iOS em 2015; e 《VOEZ》tornou-se um dos títulos de lançamento para o Nintendo Switch. Quatorze anos depois, a Rayark lançou mais de dez jogos, acumulando mais de 130 milhões de downloads globais, mas as palavras-chave que orbitam o grupo mudaram de "gênios" para "uma pena". Após oito anos de resistência, 《Sdorica》entrará oficialmente em modo de manutenção em fevereiro de 2026; a animação de 《Cytus II》, cujo financiamento coletivo no Kickstarter começou em 2015, ainda não foi entregue até 2026; e, após o incidente do código Morse envolvendo ICE em 2020, a Rayark modificou seus jogos para se adequar ao mercado da China continental. A estética fez com que o mundo os notasse, mas também os fez tropeçar em todos os campos que não fossem o musical.
 
----
+## O que um fliperama ensinou a eles
 
-## O que uma máquina de fliperama lhes ensinou
-
-![Logo oficial da Rayark Inc., marca da empresa usada desde 2012, letra R branca sobre fundo vermelho](/article-images/technology/rayark-logo-2012.webp)
-_Logo oficial da Rayark Inc. Fonte: [English Wikipedia File:Logo of Rayark Inc.png](https://en.wikipedia.org/wiki/File:Logo_of_Rayark_Inc.png). Uso editorial fair use._
+![Logo oficial da Rayark Inc., marca utilizada de 2012 até o presente, com a letra R em branco sobre fundo vermelho](/article-images/technology/rayark-logo-2012.webp)
+_Logo oficial da Rayark Inc. Fonte: [English Wikipedia File:Logo of Rayark Inc.png](https://en.wikipedia.org/wiki/File:Logo_of_Rayark_Inc.png). Uso editorial para fins de comentário._
 
 A história da Rayark começa com um fracasso.
 
-Em 2008, Yu Ming-yang cursava o mestrado no Instituto de Mídia de Rede da NTU. Ele e dois amigos fundaram o "Hypaa Studio" na universidade e desenvolveram um jogo musical de tela tátil para máquina de grande porte chamado "THEIA"[^kopu]. No mesmo ano, a sul-coreana PENTAVISION lançou "DJ Max Technika" em plataforma de fliperama de grande porte, com jogabilidade próxima à de "THEIA", mas superando-a completamente em qualidade musical, design de interface e polimento geral[^pentavision-wiki].
+Em 2008, Yu Ming-yang ainda estava no primeiro ano de mestrado no Instituto de Mídia Digital da Universidade Nacional de Taiwan (NTU). Ele e dois amigos fundaram o "Hypaa Studio" na universidade para desenvolver _THEIA_, um jogo musical rítmico para máquinas de arcade com tela sensível ao toque[^kopu]. No mesmo ano, a PENTAVISION, da Coreia do Sul, lançou _DJ Max Technika_ em plataformas de arcade; o estilo de jogo era semelhante ao de _THEIA_, mas a qualidade musical, o design da interface e o polimento geral eram amplamente superiores[^pentavision-wiki].
 
-"Achávamos que jogabilidade divertida venderia, mas a resposta do mercado nos mostrou que visuais e música são importantes." Yu Ming-yang relembrou depois[^kopu].
+"Pensávamos que, se a jogabilidade fosse divertida, venderia, mas a reação do mercado nos mostrou que o visual e a música são fundamentais", relembrou Yu Ming-yang posteriormente[^kopu].
 
-Essa frase tornou-se a lógica subjacente de todos os produtos posteriores da Rayark: jogabilidade é apenas a base, a estética é o fosso defensivo.
+Essa frase tornou-se a lógica fundamental de todos os produtos subsequentes da Rayark: a jogabilidade é apenas a base; a estética é o diferencial competitivo.
 
-Após o fracasso do THEIA, o Hypaa Studio não fechou imediatamente. Gastaram dois anos tentando novamente e, em 2010, lançaram a segunda máquina de grande porte "Mozarc", jogo musical de queda 6K, semelhante à jogabilidade do "DJ Max" da PENTAVISION na época, mas usando a própria biblioteca musical do Hypaa[^mozarc-fandom][^bahamut-mozarc]. O Mozarc acumulou um lote de faixas durante seu período de operação, incluindo Bloody Purity, Colorful Skies, Saika, Beyond, Sanctity, Holy Knight — esses títulos de músicas apareceriam depois nas bibliotecas de "Cytus" e "Deemo"[^mozarc-fandom]. Em outras palavras, as duas máquinas do Hypaa não tiveram sucesso comercial, mas deixaram um acervo musical que permitiu à Rayark, fundada dois anos depois, não precisar construir sua biblioteca do zero.
-
-> **💡 Você sabia?**
-> Um jogador da Rayark lembrou assim em um comentário de 2026: "A arte do Mozarc era muito bem feita, o que era uma pena era a altíssima taxa de falha das teclas de filme plástico, depois alteradas para micro switches com toque ruim, saiu do mercado. O Hypaa na verdade operou esse jogo por muito tempo, já é muito difícil encontrar máquinas, não se vê ninguém jogando, o servidor também aguentou bastante antes de fechar completamente."[^pttweb-mozarc-comment] Essa é a razão real da Rayark ter mudado de fliperama para plataforma móvel: o custo de manutenção de hardware é insustentável para equipe independente.
-
-Três anos depois, em setembro de 2011, a equipe fundou a Rayark Games na Rua Jinshan Norte, em Taipé, com capital de 30 milhões, equipe de 16 pessoas, transferindo o foco completamente de fliperama para plataforma móvel[^rayark-wiki]. Os seis cofundadores são Chung Chih-yuan, Yu Ming-yang, Chang Shih-chun, Hsieh Chang-yen, Yang Shan-yung, Li Yung-ting, cinco vindos do Departamento de Engenharia da Computação da NTU (Yang Shan-yung turma B91, Yu Ming-yang e Hsieh Chang-yen turma B92), um do Instituto de Engenharia de Telecomunicações da NTU (Chung Chih-yuan)[^csiecomm-2013][^rayark-wiki].
+Após o fracasso de _THEIA_, o Hypaa Studio não foi encerrado imediatamente. Eles passaram dois anos tentando novamente e, em 2010, lançaram sua segunda máquina de arcade, _Mozarc_, um jogo musical de queda de notas em 6K. O estilo era similar ao _DJ Max_ da PENTAVISION, mas utilizava o próprio catálogo musical do Hypaa[^mozarc-fandom][^bahamut-mozarc]. Durante seu período de operação, o _Mozarc_ acumulou um repertório que incluía faixas como _Bloody Purity_, _Colorful Skies_, _Saika_, _Beyond_, _Sanctity_ e _Holy Knight_ — nomes que mais tarde apareceriam nas bibliotecas musicais de _Cytus_ e _Deemo_[^mozarc-fandom]. Em outras palavras, as duas máquinas de arcade do Hypaa não foram sucessos comerciais, mas deixaram um conjunto de ativos musicais que permitiu à Rayark, fundada dois anos depois, não precisar construir seu catálogo do zero.
 
 > **💡 Você sabia?**
-> Yu Ming-yang é o único dos seis cuja graduação não foi na Faculdade de Engenharia Elétrica e Ciência da Computação — cursou Silvicultura na NTU, turma B92. "Originalmente queria cursar Engenharia da Computação, mas não fui bem no exame, por isso fui para Silvicultura," disse ele em entrevista de 2012[^csiecomm-2013]. Da Silvicultura para o Instituto de Mídia de Rede da NTU, aos 26 anos fundando empresa de jogo musical mobile, essa trajetória interdisciplinar tornou-se a fonte da sensibilidade estética da Rayark, e incidentalmente o tornou o porta-voz da empresa para o público.
+> Um jogador da Rayark comentou em 2026: "A arte do _Mozarc_ era excelente; o problema é que a taxa de falha dos botões de plástico era muito alta e, quando mudaram para interruptores micro (microswitches) na fase posterior, o feedback tátil ficou ruim, fazendo com que o jogo perdesse espaço no mercado. O Hypaa operou por muito tempo para manter esse jogo; hoje é difícil encontrar as máquinas ou ver alguém jogando, e os servidores duraram bastante antes de serem totalmente desligados."[^pttweb-mozarc-comment] Este é o real motivo da transição da Rayark dos arcades para as plataformas móveis: o custo de manutenção do hardware é insustentável para uma equipe independente.
 
-Chung Chih-yuan é o CTO, anos depois liderou a equipe na migração completa de PaaS para arquitetura de containers Kubernetes, a Rayark mantém cerca de 50 clusters K8s no Google Cloud, "três pessoas conseguem manter jogo de um milhão de jogadores"[^ithome-rayark]. Hsieh Chang-yen tornou-se depois produtor de Sdorica: Crônica dos Milhões de Mundos[^sdorica-wiki]. Li Yung-ting é diretor de jogos, um dos primeiros porta-vozes da empresa[^bnext-rayark].
-
-O background de colegas da Faculdade de Engenharia Elétrica e Ciência da Computação da NTU tornou-se depois o chassi de engenharia da fórmula estética da Rayark: podiam refinar a precisão de julgamento de jogos musicais, construir engine multiplataforma, manter servidores estáveis no dia do lançamento do Nintendo Switch. Mas esse chassi, em operação de longo prazo de RPG, produção de animação, relações públicas políticas, esbarra em problemas completamente diferentes.
-
----
-
-## Cytus e Deemo: os dois pilares do império musical
-
-Em 12 de janeiro de 2012, "Cytus" estreou no iOS[^cytus-wiki].
-
-![Captura de tela de gameplay de Cytus II, mecanismo de julgamento de notas com linha de varredura dinâmica — jogabilidade característica da série Cytus](/article-images/technology/cytus-ii-gameplay.webp)
-_Jogabilidade característica "linha de varredura dinâmica" da série Cytus na versão Cytus II. Fonte: [English Wikipedia File:Cytus II gameplay.png](https://en.wikipedia.org/wiki/File:Cytus_II_gameplay.png). Uso editorial fair use._
-
-A jogabilidade segue uma linha de varredura dinâmica para tocar notas, simples e intuitiva. Mas o que realmente o destacou foi a qualidade de arte e música, design visual estilo ficção científica somado a música eletrônica original de alto nível, dando a "Cytus" um ponto de memorização em meio à severa homogeneização dos jogos musicais mobile. Em um mês alcançou o primeiro lugar na App Store de 14 países, liderou a parada japonesa de jogos musicais por 29 dias consecutivos, em abril de 2015 atingiu 1 milhão de downloads pagos[^cytus-wiki].
-
-Em 13 de novembro de 2013, "Deemo" estreou[^deemo-wiki]. Se "Cytus" é música eletrônica sci-fi, "Deemo" é piano clássico. O jogador toca piano em um mundo de conto de fadas em preto e branco, a música muda de eletrônica para clássica e lírica, o estilo visual de frio sci-fi para aquecido desenho à mão.
-
-![Capa de DEEMO Final Recital versão PS Vista, garotinha tocando piano em sala de piano estilo conto de fadas preto e branco — visual característico da série Deemo](/article-images/technology/deemo-cover.webp)
-_Capa de "DEEMO Final Recital" versão PS Vita, estilo conto de fadas preto e branco é a marca visual da série Deemo. Fonte: [English Wikipedia File:DeemoLastRecitalVita.jpg](https://en.wikipedia.org/wiki/File:DeemoLastRecitalVita.jpg). Uso editorial fair use._
-
-"Deemo" tornou-se um dos maiores sucessos de bilheteria da Rayark. Em outubro de 2014 já acumulava 7 milhões de downloads, em 2021 no anúncio da animação chegou a 28 milhões[^deemo-wiki]. A trilha sonora vendeu bem no mercado japonês, ganhou App Store Taiwan 2013 Best of Desenvolvedor Independente do Ano, Google Play Taiwan 2014 Melhor Música de Jogo. Versão Nintendo Switch Metacritic 88 pontos[^deemo-wiki]. Sequência "DEEMO II" estreou em 13 de janeiro de 2022, pré-registro global de 1 milhão de jogadores, primeira semana ultrapassou 1 milhão de downloads, obra comemorativa de 10 anos da Rayark[^deemo2-gnn].
-
-> **📝 Nota do curador**
-> "Cytus" e "Deemo" estabeleceram a fórmula de marca da Rayark: jogo musical × alta qualidade artística × envoltório narrativo. Essa fórmula deu à Rayark posicionamento único no mercado global de jogos mobile, mas também enquadrou todas as suas tentativas posteriores. Olhando para trás catorze anos depois, todos os trabalhos mais bem-sucedidos da Rayark são jogos musicais, todas as tentativas mais fracassadas foram tentar aplicar essa fórmula a domínios não musicais.
-
----
-
-![Estande da Rayark em 2018, ao fundo silhuetas de cosplayers de Pipimi e Popuko de POP TEAM EPIC](/article-images/technology/rayark-booth-cosplayers-2018.webp)
-_Estande da Rayark em 2018, silhuetas de cosplayers. Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg). Foto: snapshot de cosplay de jogador, CC BY-SA 2.0.\_
-
-## No ano do lançamento do Switch, eles fizeram cinco coisas ao mesmo tempo
-
-Entre 2015 e 2018, a Rayark avançou simultaneamente em cinco linhas de produto.
-
-"Implosion" (聚爆) estreou em 8 de abril de 2015 no iOS/Android, em 6 de julho de 2017 no Nintendo Switch[^implosion-wiki]. É um jogo de ação 3D, qualidade gráfica próxima de console nos jogos mobile da época. App Store modelo pago sem compras internas, Metacritic 93, primeira semana entrou no Top Grossing da App Store em 7º lugar, 91,9% avaliações cinco estrelas[^implosion-wiki]. Ganhou 2015 iOS Game of the Year Asia, 2015 Bahamut ACG Creation Grand Prize, 2014 Unity Awards Golden Cube[^implosion-wiki].
-
-Em junho de 2016, "VOEZ" estreou no mobile. No ano seguinte, 3 de março de 2017, "VOEZ" tornou-se um dos jogos de lançamento do Nintendo Switch, a Rayark estava entre os poucos desenvolvedores não first-party da Nintendo com jogo musical no lançamento do Switch[^voez-4gamers]. No início de 2017, downloads globais ultrapassaram 10 milhões[^voez-4gamers]. Nintendo Life deu 8/10 chamando-o de "arma secreta do Switch"[^voez-nintendo-life].
-
-![Capa de VOEZ versão Nintendo Switch, composição espelhada dupla com visual aquarela característico](/article-images/technology/voez-switch-cover.webp)
-_Capa de "VOEZ" versão Nintendo Switch (publicado pela Flyhigh Works) — jogo de lançamento do Switch em 3 de março de 2017. Fonte: [English Wikipedia File:SwitchVOEZ.jpg](https://en.wikipedia.org/wiki/File:SwitchVOEZ.jpg). Uso editorial fair use._
-
-Em 18 de janeiro de 2018, "Cytus II" estreou, sequência do "Cytus" original seis anos depois[^cytus2-gematsu]. Novo sistema levou a capacidade de julgamento dos jogadores de jogo musical ao extremo, depois acumulou mais de 18 milhões de downloads globais. Em maio de 2026 a Rayark anunciou que "Cytus II" sairá para Nintendo Switch 2 / Switch em 2027, com mais de 500 faixas[^cytus2-gematsu][^cytus2-qooapp].
-
-Cytus nesses anos também expandiu linha de derivados de IP. Em novembro de 2014, a Fundação Cultural Quanta encomendou o musical multimídia "Code: Cytus", apresentado em Taiwan por quatro sessões[^cytus-wiki], levando faixas do mobile ao teatro. Em fevereiro de 2015 a Rayark colaborou com a japonesa Capcom lançando versão fliperama "Cytus: Omega", revelado na JAEPO 2015, location testing iniciado em julho, mas essa versão colaborativa foi cancelada em 30 de março de 2018[^cytus-wiki]. O comentário de data_pythoness em maio de 2026 "Cytus ainda queria sair no fliperama, tive a sorte de experimentar ao vivo, na época esperava muito ter máquina de jogo musical grande vinda de Taiwan, pena que depois sumiu sem ruído"[^threads-cytus-arcade-comment] é a perspectiva de jogador mais direta sobre esse derivado. Em 25 de abril de 2019, "Cytus α" estreou no Nintendo Switch, adicionou 2 novos capítulos, modo online Battle Score, Metacritic 81[^cytus-wiki], primeira vez da série Cytus em console doméstico.
-
-"Implosion" provou que a capacidade técnica da Rayark bastava para cruzar gêneros. Mas modelo comercial de jogo de ação e jogo musical são completamente diferentes. Jogo musical vive de atualizações contínuas de pacotes de música para manter receita, jogo de ação é compra única.
-
-Depois veio 19 de abril de 2018 com "Sdorica: Crônica dos Milhões de Mundos"[^sdorica-wiki].
-
----
-
-## Saindo da zona de conforto: os oito anos de Crônica dos Milhões de Mundos
-
-![Logo do jogo Sdorica: Crônica dos Milhões de Mundos, ilustração de personagem tema aurora com subtítulo "aurora"](/article-images/technology/sdorica-logo.webp)
-_Logo de "Sdorica: Crônica dos Milhões de Mundos" (versão subtítulo aurora). Fonte: [English Wikipedia File:Sdorica logo.png](https://en.wikipedia.org/wiki/File:Sdorica_logo.png). Uso editorial fair use._
-
-"Sdorica: Crônica dos Milhões de Mundos" foi a aposta mais ousada da Rayark.
-
-Planejado desde 2013, entrou em desenvolvimento em 2014, lançamento original previsto para 2016, adiado para 2017, novamente para 19 de abril de 2018 para beta público. Ciclo de desenvolvimento de cinco anos, pré-registro ultrapassou 1,5 milhão, em 30 de abril ultrapassou 2,5 milhões de downloads, em 11 de maio ultrapassou 5 milhões[^sdorica-wiki]. Após lançamento, usuários ativos diários médios ultrapassaram 1 milhão.
-
-É um RPG mobile, conta a história de heróis do mundo Sdorica e das almas concedidas, com Hsieh Chang-yen como produtor[^sdorica-wiki][^moegirl-sdorica]. A Rayark usou orçamento de arte de jogo musical para ilustrações de personagens do RPG, aplicou capacidade narrativa ao sistema de desenvolvimento de personagens, mas logo descobriram: a playlist de jogo musical e o ritmo de atualização de conteúdo de RPG usam músculos completamente diferentes.
-
-Problemas estouraram em sequência após lançamento. Servidor subestimou quantidade de jogadores, eventos de gacha não abriram no horário, versão do Festival do Barco-Dragão apresentou caracteres chineses corrompidos, pó de luz residual não distribuído, etc.[^sdorica-udn]. Entre junho e julho de 2018, decisões operacionais da Rayark sofreram forte reação dos jogadores, incluindo ajuste não anunciado de parâmetros de personagens e controvérsia de pacotes caros, quatro meses depois do pico entrou em declínio, tornando-se ponto de virada da reputação da Rayark[^sdorica-bahamut-policy].
-
-O que mais marcou a comunidade de jogadores veteranos foi o **incidente do nerf do Black Pongji**. Black Pongji (黑普吉) era personagem popular no início de Sdorica, em combinação com Angela SP formava a composição de equipe mais forte da época, jogadores investiram grandes recursos nesse time. A Rayark introduziu mecânica "zombie" (inimigos mortos ainda contra-atacam) + limitou "provocação" do Black Pongji a uma vez por rodada, esse time central foi diretamente inviabilizado[^sdorica-blackpongji]. A Rayark alegou que era correção de bug não nerf, mas jogadores não aceitaram. A mudança ocorreu pouco após lançamento de novo skin do personagem White Pongji, jogadores veterais viram como **vender skin primeiro, nerfar personagem velho depois para forçar troca**[^sdorica-blackpongji][^pttweb-rayark]. "Nerf do Black Pongji, parei de jogar" tornou-se evento de despedida comum nas guildas de veteranos de Sdorica, um jogador do PTT em 2026 comentou: "Mais cedo jogava sdorica, guilda cheia de jogadores top do servidor pararam por causa do nerf do Black Pongji"[^pttweb-rayark-thread].
+Três anos depois, em setembro de 2011, a equipe fundou a Rayark Games na North Jinsan Road, em Taipé, com um capital social de NT$30 milhões e uma equipe de 16 pessoas, transferindo totalmente o foco dos arcades para as plataformas móveis[^rayark-wiki]. Os seis cofundadores foram Chung Chih-yuan, Yu Ming-yang, Chang Shih-chun, Hsieh Chang-yen, Yang Shan-ying e Lee Yung-ting. Cinco deles vieram do Departamento de Engenharia da Informação da NTU (Yang Shan-ying B91; Yu Ming-yang e Hsieh Chang-yen B92) e um veio do Instituto de Engenharia de Telecomunicações da NTU (Chung Chih-yuan)[^csiecomm-2013][^rayark-wiki].
 
 > **💡 Você sabia?**
-> A Rayark quase não errou em jogos musicais e de ação, mas caiu no RPG de operação de longo prazo. A competência central de jogos musicais e buy-to-play é "fazer um bom produto", a de operação de RPG é "servir continuamente um grupo de pessoas". São músculos completamente diferentes.
+> Yu Ming-yang foi o único entre os seis que não cursou a graduação na Faculdade de Engenharia Elétrica e da Computação; ele estudou no Departamento de Florestal da NTU (B92). "Eu queria estudar Engenharia da Informação, mas como não fui bem nos exames, acabei indo para o Departamento de Florestal", disse ele em uma entrevista de 2012[^csiecomm-2013]. Essa trajetória — do Departamento de Florestal para o mestrado em Mídia Digital e, aos 26 anos, fundando uma empresa de jogos musicais móveis — tornou-se a origem da sensibilidade estética da Rayark e, inesperadamente, fez dele o porta-voz da empresa.
 
-Oito anos depois, em 11 de fevereiro de 2026, a Rayark anunciou oficialmente "Sdorica: Crônica dos Milhões de Mundos" entrando em modo de manutenção[^sdorica-gachago][^sdorica-bahamut-policy]:
+Chung Chih-yuan é o CTO (Diretor de Tecnologia) e, anos depois, liderou a equipe na transição completa de PaaS para uma arquitetura de contêineres Kubernetes. A Rayark opera quase cinquenta clusters K8s no Google Cloud, permitindo que "três pessoas possam manter jogos com milhões de usuários"[^ithome-rayark]. Hsieh Chang-yen tornou-se posteriormente o produtor de _Sdorica_[^sdorica-wiki]. Lee Yung-ting é o Diretor de Jogos e foi um dos primeiros porta-vozes da empresa[^bnext-rayark].
 
-> Novos capítulos principais, eventos especiais, pacotes por tempo limitado totalmente interrompidos. Últimos dois personagens Valdrir DR enviados via caixa de correio do jogo a todos os jogadores, Chiyuki DR obtido via reprise do evento "Spring Water Intoxication". Atividades especiais de Infusão continuam em reprise até julho de 2026, após última reprise não haverá novas reprises. Servidor continuará operando no futuro previsível.
-
-"Fim do ciclo de desenvolvimento ativo de Sdorica", esse é o momento em que a Rayark declarou o fim da batalha no RPG[^sdorica-gachago]. Para jogadores centrais que ficaram anos, esse anúncio é mais cruel que encerramento repentino — servidor continua aberto, personagens velhos ainda podem ser desenvolvidos, mas nova história nunca mais virá. A própria Rayark sabe bem o custo dessa decisão: oito anos de enredo, oito anos de design de personagens, oito anos de worldbuilding acumulado, daí em diante entram em estado congelado, cabendo aos jogadores decidir quanto tempo ficar.
-
-Para a Rayark de início de 2026, modo de manutenção de Sdorica foi stop-loss necessário. Sdorica consumiu recursos de P&D da Rayark por oito anos, turvando a clareza do posicionamento de marca. Uma empresa fundada em "fazer o mais belo jogo musical", amarrada a um RPG que nem ela aguentava sustentar, cada ano de adiamento do stop-loss tornava a narrativa geral da empresa mais inexplicável. Efeito colateral do anúncio de modo de manutenção pode ser fazer as séries Cytus e DEEMO voltarem a ser o eixo central claro da marca Rayark.
+O histórico comum desses seis colegas da Faculdade de Engenharia Elétrica e da Computação da NTU tornou-se a base de engenharia para a fórmula estética da Rayark: eles conseguem refinar com precisão a detecção de notas em jogos musicais, criar motores multiplataforma e manter os servidores estáveis no dia do lançamento para o Nintendo Switch. No entanto, essa base enfrentará desafios completamente diferentes nos campos de operação de longo prazo de RPGs, produção de animações e relações públicas políticas.
 
 ---
 
-## Rachadura antes do código Morse: o incidente VK 2014-2017
+## Cytus e Deemo: Os dois pilares do império musical
 
-A primeira crise de RP da Rayark remonta a 3 anos antes do incidente ICE de 2020, a controvérsia de plágio do VK.
+Em 12 de janeiro de 2012, 《Cytus》foi lançado para iOS[^cytus-wiki].
 
-Verão de 2014, o compositor Waiting (pseudônimo H&&D) recebeu demo do VK, encontrou trechos claramente plagiados, escreveu apontando o problema, VK recusou-se a corrigir[^ettoday-vk-882323]. Obra "Crossing Rain and Time" rejeitada pela equipe "Rain Port Keelung" da Erotes Studio, VK meses depois renomeou para "Crossing Time" e vendeu para outro cliente, em novembro de 2014 tornou-se tema do jogo mobile "Goddess Alliance", internautas descobriram trechos suspeitos de semelhança com abertura do anime "Puella Magi Madoka Magica"[^ettoday-vk-882323][^cts-vk-201703131858055].
+![Captura de tela da jogabilidade de Cytus II, mostrando o mecanismo de detecção de notas com a linha de varredura dinâmica — a marca registrada da série Cytus](/article-images/technology/cytus-ii-gameplay.webp)
+_Versão de Cytus II com a mecânica de "linha de varredura dinâmica", marca registrada da série Cytus. Source: [English Wikipedia File:Cytus II gameplay.png](https://en.wikipedia.org/wiki/File:Cytus_II_gameplay.png). Fair use editorial commentary._
 
-A Rayark descobrindo, segundo comunicado oficial "decidiu que antes do fim da controvérsia, não incluiria mais novas músicas do V.K nos jogos da Rayark"[^cts-vk-201703131858055]. Isso foi tratamento na camada de aquisição de músicas, após 2015 versão PS Vita de "Deemo" não adicionou mais faixas do VK.
+A jogabilidade consiste em clicar nas notas seguindo uma linha de varredura dinâmica, sendo simples e intuitiva. No entanto, o que realmente a fez se destacar foi a qualidade da arte e da música; o design visual de estilo ficção científica aliado a músicas eletrônicas originais de alto nível permitiu que 《Cytus》criasse uma identidade marcante em meio ao mercado saturado de jogos musicais para dispositivos móveis. Em um mês após o lançamento, alcançou o primeiro lugar nas paradas da App Store em 14 países e permaneceu no topo das listas de jogos musicais no Japão por 29 dias consecutivos, atingindo 1 milhão de downloads pagos em abril de 2015[^cytus-wiki].
 
-O problema é que atividades presenciais não pararam simultaneamente. Em 14 de maio de 2016, a Rayark convidou VK para concerto em Xangai; em 4 de fevereiro de 2017, convidou novamente VK para palestra de "criação" da Rayark[^ettoday-vk-882323]. **Já sabendo da controvérsia de plágio, colaborou publicamente de várias formas por 3 anos consecutivos**, foi isso que fez Waiting finalmente escolher tornar público.
+Em 13 de novembro de 2013, 《Deemo》foi lançado[^deemo-wiki]. Se 《Cytus》é música eletrônica de ficção científica, 《Deemo》é o piano clássico. O jogador toca piano em um mundo em preto e branco com uma atmosfera de conto de fadas; a música transita do eletrônico para o clássico e lírico, e o estilo visual muda da ficção científica de tons frios para ilustrações feitas à mão e acolhedoras.
 
-Em 11 de março de 2017, Waiting expôs na rede: "Música e ilustração, plágio não deve ser tolerado"[^ettoday-vk-882323]. No dia seguinte, 12 de março, a Rayark pediu desculpas publicamente no Facebook[^cts-vk-201703131858055]:
+![Capa da versão PS Vita de DEEMO Last Recital, mostrando a imagem icônica de uma menina tocando piano em um quarto de conto de fadas em preto e branco](/article-images/technology/deemo-cover.webp)
+_Capa da versão PS Vita de 《DEEMO Last Recital》; o estilo de conto de fadas em preto e branco é a arte característica da série Deemo. Source: [English Wikipedia File:DeemoLastRecitalVita.jpg](https://en.wikipedia.org/wiki/File:DeemoLastRecitalVita.jpg). Fair use editorial commentary._
 
-> Após o ocorrido, a Rayark não cessou totalmente a colaboração em atividades presenciais com VK... No futuro adotaremos o mesmo padrão de aquisição de músicas, antes do fim da controvérsia, não colaboraremos de nenhuma forma.
+《Deemo》tornou-se uma das obras de maior sucesso comercial da Rayark. Em outubro de 2014, já havia acumulado 7 milhões de downloads; quando o anime foi anunciado em 2021, o número chegou a 28 milhões[^deemo-wiki]. A trilha sonora foi um sucesso de vendas no mercado japonês, recebendo os prêmios de Melhor Desenvolvedor Independente do ano pela App Store Taiwan em 2013 e Melhor Trilha Sonora de Jogo pelo Google Play Taiwan em 2014. A versão para Nintendo Switch possui uma pontuação de 88 no Metacritic[^deemo-wiki]. A sequência, 《DEEMO II》, foi lançada em 13 de janeiro de 2022, com 1 milhão de jogadores realizando o pré-registro global e ultrapassando 1 milhão de downloads na primeira semana, sendo a obra comemorativa do décimo aniversário da Rayark[^deemo2-gnn].
 
-Waiting e o fundador da Rayark Tony são colegas de ensino médio[^plurk-waiting]. Essa relação de amizade tornou o episódio especialmente doloroso. Waiting depois anunciou publicamente término da colaboração, assinou declaração de "não uso de obras"[^disp-bbs-vk], 2 anos de desdobramento terminaram.
+> **📝 Nota do Curador**
+> 《Cytus》e 《Deemo》estabeleceram a fórmula da marca Rayark: jogo musical × alta qualidade artística × narrativa envolvente. Essa fórmula deu à Rayark um posicionamento único no mercado global de jogos móveis, mas também limitou todas as suas tentativas subsequentes. Olhando para trás após quatorze anos, todos os trabalhos mais bem-sucedidos da Rayark são jogos musicais; todas as suas tentativas mais fracassadas foram tentativas de aplicar essa fórmula em áreas que não fossem musicais.
+
+---
+
+![No estande da Rayark em 2018, é possível ver ao fundo as costas de jogadores fazendo cosplay de Pipimi e Popuko de 《POP TEAM EPIC》](/article-images/technology/rayark-booth-cosplayers-2018.webp)
+_No estande da Rayark em 2018, vista das costas de jogadores fazendo cosplay. Source: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>). Photo: 玩家 cosplay snapshot, CC BY-SA 2.0.\_
+
+## No ano de lançamento do Switch, eles fizeram cinco coisas ao mesmo tempo
+
+Entre 2015 e 2018, a Rayark impulsionou simultaneamente cinco linhas de produtos.
+
+《Implosion》foi lançado para iOS / Android em 8 de abril de 2015 e chegou ao Nintendo Switch em 6 de julho de 2017[^implosion-wiki]. Trata-se de um jogo de ação 3D com uma qualidade visual que, na época, se aproximava do nível dos consoles para os jogos de celular. Com modelo de compra única na App Store, sem compras internas e nota 93 no Metacritic, o título alcançou a 7ª posição no ranking de maiores faturamentos (Top Grossing) da App Store em apenas uma semana de lançamento, com 91,9% de avaliações cinco estrelas[^implosion-wiki]. Recebeu o prêmio de Jogo do Ano iOS Ásia de 2015, o prêmio de criação ACG do Bahamut de 2015 e o Golden Cube no Unity Awards 2014[^implosion-wiki].
+
+Em junho de 2016, 《VOEZ》foi lançado para dispositivos móveis. No ano seguinte, em 3 de março de 2017, 《VOEZ》tornou-se um dos jogos de lançamento do Nintendo Switch; a Rayark foi uma das poucas desenvolvedoras de jogos musicais que não eram da primeira linha da Nintendo na lista de lançamentos do console[^voez-4gamers]. Até o início de 2017, o número de downloads globais ultrapassou 10 milhões[^voez-4gamers]. A Nintendo Life deu uma nota 8/10 e chamou o jogo de "a arma secreta do Switch"[^voez-nintendo-life].
+
+![Capa da versão de Nintendo Switch de VOEZ, com visual de estilo aquarela característico em composição de espelho duplo](/article-images/technology/voez-switch-cover.webp)
+_Capa de 《VOEZ》para Nintendo Switch (publicado pela Flyhigh Works) — jogo de lançamento do Switch em 3 de março de 2017. Fonte: [English Wikipedia File:SwitchVOEZ.jpg](https://en.wikipedia.org/wiki/File:SwitchVOEZ.jpg). Uso justo para comentário editorial._
+
+Em 18 de janeiro de 2018, foi lançado 《Cytus II》, a sequência do primeiro 《Cytus》 seis anos depois[^cytus2-gematsu]. O novo sistema levou a capacidade de precisão dos jogadores de jogos musicais ao limite, acumulando posteriormente mais de 18 milhões de downloads globais. Em maio de 2026, a Rayark anunciou que 《Cytus II》 terá versões para Nintendo Switch 2 / Switch em 2027, incluindo mais de 500 faixas[^cytus2-gematsu][^cytus2-qooapp].
+
+A franquia Cytus também expandiu sua linha de derivados de IP durante esses anos. Em novembro de 2014, o musical multimídia 《Code: Cytus》, encomendado pela Fundação Educacional Quanta, foi apresentado em quatro sessões em Taiwan[^cytus-wiki], levando as faixas do jogo móvel para o teatro. Em fevereiro de 2015, a Rayark colaborou com a japonesa Capcom para lançar a versão arcade 《Cytus: Omega》, que foi revelada na JAEPO 2015 e iniciou testes de localização em julho; no entanto, essa versão colaborativa acabou sendo cancelada em 30 de março de 2018[^cytus-wiki]. O comentário de data_pythoness em maio de 2026 — "Cytus ainda pensava em um arcade. Tive a sorte de experimentar ao vivo; na época, eu esperava muito por uma máquina de jogo musical de grande porte vinda de Taiwan, mas infelizmente ela acabou desaparecendo sem deixar rastros"[^threads-cytus-arcade-comment] — oferece a perspectiva mais direta dos jogadores sobre esse derivado. Em 25 de abril de 2019, 《Cytus α》foi lançado para Nintendo Switch, adicionando dois novos capítulos e o modo Battle Score online, com nota 81 no Metacritic[^cytus-wiki], marcando a primeira vez que a série Cytus chegou oficialmente aos consoles domésticos.
+
+《Implosion》provou que a capacidade técnica da Rayark é suficiente para transitar entre gêneros. No entanto, os modelos de negócio de jogos de ação e jogos musicais são completamente diferentes: jogos musicais dependem de atualizações constantes de pacotes de músicas para manter a receita, enquanto jogos de ação funcionam com compra única.
+
+Por fim, em 19 de abril de 2018, veio 《Sdorica》[^sdorica-wiki].
+
+## Saindo da Zona de Conforto: Os Oito Anos de Sdorica
+
+![Logo do jogo Sdorica 萬象物語, arte de personagem com tema aurora](/article-images/technology/sdorica-logo.webp)
+_Logo do jogo 《Sdorica 萬象物語》 (versão com subtítulo aurora). Fonte: [English Wikipedia File:Sdorica logo.png](https://en.wikipedia.org/wiki/File:Sdorica_logo.png). Uso editorial para fins de comentário._
+
+《Sdorica 萬象物語》 foi a tentativa mais audaciosa da Rayark.
+
+O projeto começou em 2013 e entrou em desenvolvimento em 2014. Originalmente previsto para ser lançado em 2016, o lançamento foi adiado para 2017 e, novamente, até 19 de abril de 2018, quando o teste beta aberto foi finalmente iniciado. Após um ciclo de desenvolvimento de cinco anos, o pré-registro ultrapassou 1,5 milhão de pessoas; em 30 de abril, as descargas superaram 2,5 milhões e, em 11 de maio, ultrapassaram 5 milhões[^sdorica-wiki]. Após o lançamento, o número de usuários ativos diários superou 1 milhão.
+
+Trata-se de um RPG para dispositivos móveis que narra a história dos heróis e da "atribuição de alma" (賦魂) no mundo de Wanxiang, com Xie Chang-yan atuando como produtor[^sdorica-wiki][^moegirl-sdorica]. A Rayark utilizou o orçamento de arte de seus jogos musicais para criar as ilustrações dos personagens do RPG e aplicou sua habilidade de narrativa de enredo ao sistema de desenvolvimento de personagens, mas logo descobriram que: a "musculatura" necessária para gerenciar as playlists de um jogo musical é completamente diferente da necessária para o ritmo de atualização de conteúdo de um RPG.
+
+Após o lançamento, problemas surgiram sucessivamente. Subestimação do número de jogadores nos servidores, eventos de _gacha_ (banners) que não abriam no horário previsto, caracteres chineses corrompidos na versão do Festival do Barco Dragão, não distribuição de "Pó de Luz Residual" (殘光粉末), entre outros[^sdorica-udn]. Entre junho e julho de 2018, as decisões operacionais da Rayark sofreram forte reação dos jogadores, incluindo ajustes não anunciados nos atributos de personagens e controvérsias sobre pacotes de itens com preços elevados. Em quatro meses, o jogo caiu do seu auge, tornando-se um ponto de virada para a reputação da Rayark[^sdorica-bahamut-policy].
+
+Entre esses eventos, o que mais marcou a comunidade de jogadores veteranos foi o **Incidente Black Pongji**. Black Pongji era um personagem popular nos estágios iniciais de Wanxiang; combinado com Angelia SP, formava a configuração de equipe mais forte da época, e os jogadores investiram muitos recursos para desenvolvê-la. Após a Rayark introduzir a mecânica "zombie" (inimigos que ainda podem contra-atacar após morrer) e limitar o "provocação" (taunt) de Black Pongji a uma vez por turno, essa equipe central foi diretamente inutilizada[^sdorica-blackpongji]. A Rayark afirmou que isso era um "ajuste de bug" e não um "nerf", mas os jogadores não aceitaram. A mudança ocorreu pouco depois do lançamento da nova skin para o personagem "Bai Pang", levando os veteranos a verem isso como uma manobra comercial de **vender skins primeiro para depois enfraquecer personagens antigos e forçar a troca por novos**[^sdorica-blackpongji][^pttweb-rayark]. "Abandonar o jogo devido ao nerf de Black Pongji" tornou-se um evento de despedida comum entre as guildas de jogadores veteranos de Sdorica. Um usuário do PTT em 2026 comentou: "No início, muitos dos melhores jogadores das guildas de Sdorica abandonaram o jogo por causa do nerf de Black Pongji"[^pttweb-rayark-thread].
 
 > **💡 Você sabia?**
-> O pedido de desculpas da Rayark em 2017 admite textualmente "não cessou totalmente a colaboração em atividades presenciais com VK". O valor dessa declaração está em apontar claramente a forma do problema: sabia que estava errado, mas como VK era parceiro de longa data, relação comercial difícil de cortar, dividiu em "não aquisição de músicas, atividades presenciais continuam" duas camadas de tratamento. Foi a primeira rachadura na lógica da "pureza da marca", quando narrativa de marca e relação comercial colidiram, a Rayark escolheu priorizar relação comercial por 3 anos.
+> A Rayark quase não falhou em seus jogos musicais e de ação, mas tropeçou no RPG, que exige operação a longo prazo. A habilidade central de um jogo musical ou de um jogo de compra única é "fazer um bom produto"; a habilidade central da operação de um RPG é "servir continuamente a um grupo de pessoas". São músculos completamente diferentes.
 
-O incidente VK, embora não seja mina política, foi a primeira vez que a lógica da "promessa estética" colidiu com relação comercial. A forma de lidar do incidente ICE de código Morse em 2020 mostra a mesma estrutura de decisão, só que o custo foi mais alto, porque o oponente era o mercado chinês.
+Oito anos depois, em 11 de fevereiro de 2026, a Rayark anunciou oficialmente que 《Sdorica 萬象物語》 entraria em modo de manutenção[^sdorica-gachago][^sdorica-bahamut-policy]:
 
----
+> Novos capítulos da história principal, eventos especiais e pacotes por tempo limitado serão totalmente interrompidos. Os dois últimos personagens, Valdrir DR, serão enviados a todos os jogadores via caixa de correio do jogo; Chiyuki DR poderá ser obtida através da repetição (rerun) do evento 《春水迷醉》. Eventos especiais de atribuição de alma continuarão sendo repetidos até julho de 2026; após a última repetição, não haverá novos eventos desse tipo. Os servidores continuarão operando no futuro previsível.
+
+"O ciclo de desenvolvimento ativo de Sdorica chegou ao fim" — este foi o momento em que a própria Rayark declarou o fim de sua batalha no campo dos RPGs[^sdorica-gachago]. Para os jogadores principais que permaneceram por anos, este anúncio foi mais cruel do que um fechamento repentino de servidores: os servidores continuam abertos e os personagens antigos ainda podem ser treinados, mas novas histórias nunca mais virão. A Rayark também tem plena consciência do custo dessa decisão: oito anos de enredo, oito anos de design de personagens e oito anos de construção de mundo entrarão em um estado de congelamento, cabendo aos jogadores decidir por quanto tempo desejam permanecer.
+
+Para a Rayark no início de 2026, o modo de manutenção de Sdorica era uma medida necessária para estancar perdas. Durante oito anos, Sdorica consumiu continuamente os recursos de pesquisa e desenvolvimento da Rayark, o que acabou por obscurecer a clareza do posicionamento da marca. Uma empresa estabelecida sobre o pilar de "fazer os jogos musicais mais bonitos" estava presa a um RPG que ela própria não conseguia sustentar; cada ano de adiamento para encerrar as operações tornava a narrativa geral da empresa mais difícil de explicar. O efeito colateral do anúncio do modo de manutenção pode ser permitir que as séries Cytus e DEEMO voltem a ser os eixos centrais e claros da marca Rayark.
+
+## Fendas anteriores ao código Morse: o incidente de V.K entre 2014 e 2017
+
+A primeira crise de relações públicas da Rayark remonta à controvérsia de plágio envolvendo V.K, ocorrida três anos antes do incidente com ICE em 2020.
+
+No verão de 2014, o compositor Waiting (pseudônimo H&&D) recebeu uma demo de V.K e descobriu trechos de plágio evidentes. Ele ajudou a escrever uma carta apontando os problemas, mas V.K recusou-se a fazer as alterações[^ettoday-vk-882323]. A obra "Atravessando o Tempo sob a Chuva", que havia sido rejeitada pela Erotes Studio (equipe de 《雨港基隆》), foi renomeada por V.K meses depois para "Atravessando o Tempo" e vendida a outro cliente. Em novembro de 2014, tornou-se o tema do jogo móvel 《女神聯盟》, e internautas descobriram que a música era suspeita de ser semelhante ao trecho da abertura do anime 《魔法少女小圓》[^ettoday-vk-882323][^cts-vk-201703131858055].
+
+Após a descoberta, a Rayark emitiu um comunicado oficial afirmando: 「decidimos que, até que a controvérsia seja encerrada, não incluiremos novas músicas de V.K nos jogos da Rayark」[^cts-vk-201703131858055]. Esta foi uma medida no nível de licenciamento de trilhas sonoras; após o lançamento da versão para PS Vita de 《Deemo》 em 2015, nenhuma nova música de V.K foi adicionada.
+
+O problema é que as atividades presenciais não foram interrompidas simultaneamente. Em 14 de maio de 2016, a Rayark continuou a convidar V.K para um concerto em Xangai; em 4 de fevereiro de 2017, convidou novamente V.K para uma palestra de "criação" da Rayark[^ettoday-vk-882323]. **Mesmo ciente da controvérsia de plágio, a empresa manteve colaborações públicas de diversas formas por três anos consecutivos**, o que foi o gatilho para Waiting finalmente decidir tornar o caso público.
+
+Em 11 de março de 2017, Waiting denunciou o caso na internet, afirmando que 「plágios em música e ilustrações não devem ser tolerados」[^ettoday-vk-882323]. No dia seguinte, 12 de março, a Rayark publicou um pedido de desculpas no Facebook[^cts-vk-201703131858055]:
+
+> Após a ocorrência do incidente, a Rayark não interrompeu totalmente as colaborações em atividades presenciais com V.K... No futuro, adotaremos o mesmo padrão aplicado ao licenciamento de músicas: até que a controvérsia seja encerrada, não haverá colaboração de qualquer forma.
+
+Waiting e Tony, fundador da Rayark, eram colegas de escola secundária[^plurk-waiting]. Essa relação de amizade tornou o incidente particularmente doloroso. Posteriormente, Waiting anunciou publicamente o fim da colaboração e assinou uma declaração de 「não uso de obras」[^disp-bbs-vk], encerrando os desdobramentos do caso após dois anos.
+
+> **💡 Você sabia?**
+> No pedido de desculpas de 2017, a Rayark admitiu explicitamente que 「não interrompeu totalmente as colaborações em atividades presenciais com V.K」. O valor deste comunicado reside no fato de ter delineado claramente a natureza do problema: eles sabiam que havia um erro, mas como V.K era um colaborador de longo prazo e o relacionamento comercial era difícil de romper, dividiram o tratamento em dois níveis: "não renovar licenciamento de músicas" e "continuar atividades presenciais". Esta foi a primeira vez que surgiu uma fenda na lógica da "pureza da marca"; quando a narrativa da marca entrou em conflito com as relações comerciais, a Rayark optou por priorizar os negócios durante três anos.
+
+Embora o incidente de V.K não seja considerado uma questão política, foi o primeiro conflito entre a lógica do "compromisso estético" e as relações comerciais. Ao observar como o incidente do código Morse de ICE foi tratado em 2020, nota-se a mesma estrutura de decisão, apenas com um custo mais alto desta vez, pois o adversário era o mercado da China continental.
 
 ## Código Morse 1344 7609 2575
 
-Em março de 2020, o diretor musical da Rayark, ICE (nome real Wilson Lam, músico de Hong Kong, entrou na Rayark em 2014), lançou em nome pessoal o álbum "Consciousness", incluiu a faixa "Telegraph: 1344 7609 2575" no seu SoundCloud e YouTube pessoais[^silentblue-wilson-lam][^itechpost-cytus2]. O "1344 7609 2575" no título da faixa é código Morse chinês.
+Em março de 2020, o diretor musical da Rayark, ICE (nome real Wilson Lam, músico de Hong Kong que se juntou à Rayark em 2014), lançou o álbum 《Consciousness》 sob seu próprio nome, incluindo a canção 〈Telegraph : 1344 7609 2575〉 em seu SoundCloud e YouTube[^silentblue-wilson-lam][^itechpost-cytus2]. O número "1344 7609 2575" no título da música é um código Morse em chinês.
 
-Em 17 de julho de 2020, internautas chineses investigaram a faixa, descobriram que o código Morse decodificava: **Hong Kong people add oil, liberate Hong Kong, revolution of our times**[^udn-ice][^newtalk-ice].
+Em 17 de julho de 2020, internautas da China continental investigaram a faixa e descobriram que, após a decodificação do código Morse, a mensagem era: **"Hong Kongers, adiem! Libertem Hong Kong, revolução da era"**[^udn-ice][^newtalk-ice].
 
-No dia seguinte, 18 de julho, Ice anunciou saída da Rayark via declaração pessoal. Texto original integral:
+No dia seguinte, 18 de julho, Ice anunciou sua saída da Rayark por meio de um comunicado pessoal. O texto original dizia:
 
-> Sobre a controvérsia causada pela minha faixa lançada em março de 2020, gerou muitas discussões de internautas. Como isso pertence às minhas atividades privadas, não faz parte do escopo de trabalho e não tem relação com a Rayark Games, decido pedir demissão voluntária, deixando a Rayark Games a partir de hoje[^newtalk-ice].
+> Sobre a controvérsia causada pela música que lancei em março de 2020, que gerou discussões entre muitos internautas. Como esta é uma atividade privada minha, não faz parte do meu escopo de trabalho e não tem relação com os jogos da Rayark, decidi solicitar meu desligamento e deixarei a Rayark Games a partir de hoje[^newtalk-ice].
 
-No mesmo dia, o agente chinês Longyuan Network e a Rayark Games emitiram comunicado conjunto, "Cytus II" na China removido aguardando retificação[^gnn-ice]. Jogadores taiwaneses na fanpage da Rayark expressaram insatisfação, questionando se a empresa fazia censura ideológica, até 20 de julho a Rayark não emitiu explicação formal nas plataformas oficiais de Taiwan[^techorange-ice]. No ano seguinte, maio de 2021, Longyuan e Rayark anunciaram oficialmente retificação com remoção das 6 faixas criadas por ICE, prometeram compensação a jogadores pagantes, "Cytus II" serviço chinês relançado[^4gamers-cytus2-ice-removal].
+No mesmo dia, a distribuidora chinesa Longyuan Network e a Rayark emitiram um comunicado conjunto informando que 《Cytus II》 seria removido da China para passar por uma "reforma"[^gnn-ice]. Jogadores em Taiwan expressaram descontentamento em sua página oficial de fãs, questionando se a empresa estava realizando censura ideológica; até o dia 20 de julho, a Rayark ainda não havia emitido uma explicação oficial em suas plataformas taiwanesas[^techorange-ice]. Em maio de 2021, a Longyuan e a Rayark anunciaram oficialmente que, após a reforma, seis faixas criadas por ICE seriam removidas, prometendo compensação aos jogadores que já haviam pago, e o servidor chinês de 《Cytus II》 foi restabelecido[^4gamers-cytus2-ice-removal].
 
-ICE após sair continuou criando em nome pessoal. Em julho de 2022 revelou publicamente sua identidade real; atualmente atua como **Ice@Spaceport Productions**, produz tracks de trance e hardcore, no Facebook e X continua lançando novidades[^namuwiki-ice][^facebook-iceloki][^x-iceloki]. Na seção de comentários da Rayark em maio de 2026 um leitor chamou diretamente: "ice depois continuou lançando música, puramente o nome é difícil de ser palavra-chave com reconhecimento"[^pttweb-rayark-thread]. Dois fatos coexistem: ele não sumiu, a Rayark também não consegue apagá-lo da história.
+Após deixar a Rayark, ICE continuou a criar de forma independente. Em julho de 2022, ele revelou publicamente sua identidade real; atualmente, atua sob o nome **Ice@Spaceport Productions**, produzindo faixas de _trance_ e _hardcore_, lançando novos trabalhos continuamente no Facebook e X[^namuwiki-ice][^facebook-iceloki][^x-iceloki]. Em maio de 2026, um leitor comentou na seção de comentários da Rayark: "Ice continua lançando músicas, é apenas que o nome dele é uma palavra-chave difícil de identificar"[^pttweb-rayark-thread]. Dois fatos se confirmam simultaneamente: ele não desapareceu, e a Rayark também não pode apagá-lo da história.
 
-Este é o incidente "mina política" versão Rayark, e a segunda vez que a lógica da "promessa estética" colide com relação comercial. 3 anos antes no incidente VK a Rayark escolheu priorizar relação comercial, desta vez frente a mercado maior, estrutura de decisão completamente igual.
+Este é o evento de "mina terrestre política" da versão Rayark, e é a segunda vez que a lógica do "compromisso estético" entra em conflito com as relações comerciais. No incidente VK克 de três anos atrás, a Rayark escolheu priorizar as relações comerciais; desta vez, enfrentam um mercado ainda maior, mas a estrutura de decisão foi exatamente a mesma.
 
-Um ano antes, em 2019, a [Red Candle Games](/pt/technology/red-candle-games) teve "Devotion" (還願) removido da Steam China em 23 de fevereiro por incidente do talismã, três dias depois Red Candle anunciou remoção total da Steam[^cedargames-wiki]. Em seguida a publicadora Shanghai Orange Cat Information Technology foi investigada pelo Bureau de Supervisão de Mercado de Yangpu, em 17 de junho licença comercial revogada[^cedargames-wiki]. **Quem realmente arcou com o custo foi a ponta de publicação**, Red Candle manteve conteúdo original sem recuar, mas a publicadora foi eliminada. A Rayark no incidente ICE 2020 escolheu caminho diferente: deixar o funcionário sair, jogo cooperar com modificação, manter canal de publicação chinês. Priorizar relação comercial, ainda a mesma lógica do incidente VK.
+Um ano antes, em 2019, o jogo 《Devotion》 da [Red Candle Games](/pt/technology/red-candle-games) foi removido da região da China na Steam no dia 23 de fevereiro devido ao incidente dos talismãs; três dias depois, a Red Candle anunciou sua retirada total da Steam[^cedargames-wiki]. Posteriormente, a distribuidora Shanghai Jumaio Information Technology foi investigada pela Administração de Supervisão de Mercado do Distrito de Yangpu, e sua licença comercial foi revogada em 17 de junho[^cedargames-wiki]. **Quem realmente pagou o preço foi o lado da distribuição**: a Red Candle manteve o conteúdo original sem ceder, mas a empresa distribuidora foi eliminada. No incidente de ICE com a Rayark em 2020, a empresa escolheu um caminho diferente: permitir que a pessoa envolvida saísse, ajustar o jogo e manter o canal de distribuição na China. Priorizar as relações comerciais continua sendo a mesma lógica aplicada no caso VK克.
 
 > **⚠️ Ponto de vista controverso**
-> Esta é a escolha radicalmente diferente de dois estúdios indie emblemáticos de Taiwan frente à pressão do mercado chinês. Red Candle não recuou no conteúdo, publicadora pagou custo de ser eliminada; Rayark deixou conteúdo recuar, manteve canal de publicação chinês. Mídia em inglês PocketGamer.biz noticiou com título "China pulls Cytus II from the App Store for secret pro-democracy Morse code message"[^pocketgamer-cytus2], discussão no mundo chinês focou em "Rayark ajoelhou / corte foi certo ou não". Mesmo fato, duas leituras. A escolha da Rayark desta vez, junto com a de 2014-2017 contra VK, é resultado da extensão da mesma lógica de marca a diferentes fontes de pressão.
+> Estas são escolhas radicalmente diferentes feitas por dois estúdios indie emblemáticos de Taiwan ao enfrentarem a pressão do mercado chinês. A Red Candle não cedeu no conteúdo, e a distribuidora pagou o preço de ser eliminada; a Rayark cedeu no conteúdo para manter o canal de distribuição na China. O meio de comunicação internacional PocketGamer.biz reportou com o título "China pulls Cytus II from the App Store for secret pro-democracy Morse code message"[^pocketgamer-cytus2], enquanto as discussões no mundo de língua chinesa focaram em se a Rayark "se ajoelhou" ou se o seu "distanciamento foi correto". O mesmo fato, duas interpretações. A escolha da Rayark desta vez é uma extensão da mesma lógica de marca aplicada a diferentes fontes de pressão, como visto na sua decisão sobre VK克 entre 2014 e 2017.
 
----
+## Implosion: Onze Anos do Dia Zero
 
-## Implosion: onze anos do dia zero
+![Pôster do jogo Implosion Never Lose Hope, cena de ação mecha acompanhada de informações de disponibilidade na App Store / Google Play](/article-images/technology/implosion-cover.webp)
+_Pôster promocional de 《Implosion: Never Lose Hope》 — Jogo de ação mecha em 3D, vencedor do iOS Game of the Year Asia em 2015. Source: [English Wikipedia File:Implosion- Never Lose Hope - cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png). Fair use editorial commentary._
 
-![Pôster do jogo Implosion Never Lose Hope, cena de ação mecha com informações de lançamento App Store / Google Play](/article-images/technology/implosion-cover.webp)
-_Pôster promocional de "Implosion: Never Lose Hope" — jogo de ação mecha 3D, ganhou 2015 iOS Game of the Year Asia. Fonte: [English Wikipedia File:Implosion- Never Lose Hope - cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png). Uso editorial fair use._
+Algumas promessas são mais feias do que o silêncio.
 
-Há promessas mais difíceis que o silêncio.
+Em 5 de dezembro de 2015, a Rayark iniciou no Kickstarter o financiamento coletivo para o filme de animação 《Implosion: Zero Day》, com uma meta de US$ 400 mil para uma animação de 90 minutos[^inside-zero-day]. Nas primeiras 48 horas, atingiu 18% da meta; em 10 dias, ultrapassou NT$ 5 milhões[^implosion-zero-day-wiki]. A conclusão estava prevista para agosto de 2018.
 
-Em 5 de dezembro de 2015, a Rayark lançou no Kickstarter financiamento para filme de animação "Implosion: Day Zero", meta de 400 mil dólares para 90 minutos de animação[^inside-zero-day]. Nas primeiras 48 horas atingiu 18% da meta, em 10 dias ultrapassou 5 milhões de novos dólares taiwaneses[^implosion-zero-day-wiki]. Conclusão original prevista para agosto de 2018.
+Em 2018, não foi entregue.
 
-2018 não entregou.
+Em 24 de janeiro de 2019, após o terceiro atraso, um comunicado admitiu que "o filme de animação de IZD não poderá ser concluído em 2018 como esperado", oferecendo a opção de reembolso: os apoiadores poderiam escolher o reembolso, mas ainda receberiam os brindes correspondentes ao seu nível de contribuição[^disp-bbs-implosion]. Em fevereiro de 2019, foram processados os reembolsos; em março, enviou-se o primeiro lote de produtos (moletons, camisetas, roteiro de edição de colecionador, trilha sonora do jogo, capítulos de mangá e papéis de parede do filme). Os itens completos só seriam enviados após a conclusão do filme.
 
-Em 24 de janeiro de 2019, terceiro comunicado de adiamento admitiu "filme de animação IZD não pode ser concluído como esperado em 2018", ofereceu opção de reembolso: apoiadores podiam escolher reembolso mas ainda receber brindes do nível correspondente[^disp-bbs-implosion]. Fevereiro de 2019 contabilizou reembolsos, março enviou primeira leva de produtos (boné, camiseta, roteiro de colecionador, trilha sonora do jogo, capítulos do mangá, wallpaper do filme). Produtos completos só após filme finalizado.
+De 2020 a 2026, cinco anos de silêncio. A página oficial de 《Implosion》 da Rayark e o verbete em inglês na Wikipédia ainda mantêm o status de "animação em andamento", sem uma data de lançamento[^implosion-wiki]. Os apoiadores globais do Kickstarter pagaram por onze anos de espera e, até 2026, ainda não viram a animação.
 
-2020 a 2026, cinco anos de silêncio. Página oficial de "Implosion" da Rayark, verbete Implosion na Wikipedia em inglês ainda mantêm status "animação em andamento", sem data de estreia[^implosion-wiki]. Apoiadores globais do Kickstarter esperaram onze anos, até 2026 ainda não viram a animação.
+"Não têm coragem nem de falar sobre o progresso do filme; não conseguem entregar sequer meio cronograma", escreveu um apoiador sob o comunicado de atraso de 2019[^disp-bbs-implosion].
 
-"Nem sobre progresso do filme ousam falar, nem meia tabela de cronograma dão." Um apoiador escreveu assim sob o comunicado de adiamento de 2019[^disp-bbs-implosion].
+Este é o único projeto da Rayark em que uma promessa foi verdadeiramente "não entregue". Mais grave do que as falhas operacionais de _Sdorica_ é o silêncio prolongado em relação aos apoiadores globais do Kickstarter. No entanto, a atenção da mídia no mundo de língua chinesa para este caso foi muito inferior à do incidente com ICE, ao modo de manutenção de _Sdorica_ ou à controvérsia sobre arte por IA. Talvez a indústria de jogos independentes de língua chinesa seja mais tolerante com esse tipo de atraso, ou talvez, devido às consequências, o ônus tenha sido finalmente distribuído entre todos os apoiadores daquele financiamento do Kickstarter de 2015.
 
-Este é o único projeto de "promessa verdadeiramente não cumprida" da Rayark. Mais grave que as rachaduras operacionais de Sdorica é o silêncio de longo prazo para com apoiadores globais do Kickstarter. Mas essa questão na mídia do mundo chinês teve atenção muito menor que incidente ICE, modo de manutenção de Sdorica, controvérsia de arte IA. Talvez porque a indústria indie chinesa seja mais tolerante com adiamentos, ou porque as consequências do adiamento, no fim, foram dispersamente arcadas por todos os apoiadores daquela verba do Kickstarter de 2015.
+## Quem permanece
 
----
+Rayark Games Co., Ltd., situação em maio de 2026: aproximadamente 270 funcionários, capital social de NT$ 64 milhões, sede localizada na Rua Dongxing, nº 47, Distrito de Xinyi, Taipé. Desde 2012, lançou mais de dez jogos, com um total acumulado de downloads globais superior a 130 milhões[^rayark-104]. Possui uma filial, Rayark Japan, em Tóquio, Japão; não é uma empresa de capital aberto.
 
-## Os que ficaram
-
-Rayark Games Co. Ltd., situação em maio de 2026: cerca de 270 funcionários, capital de 64 milhões de novos dólares taiwaneses, sede no 47 da Rua Dongxing, Distrito Xinyi, Taipé, desde 2012 lançou mais de 10 jogos, downloads globais acumulados ultrapassam 130 milhões[^rayark-104]. Tem filial Rayark Japan em Tóquio, não listada.
-
-A lista de obras de catorze anos é bem maior que as mencionadas no início. Além das cinco linhas principais Cytus, Deemo, Implosion, VOEZ e Sdorica, a Rayark também lançou: "Mandora" (2012, puzzle casual)[^rayark-wiki], "DEEMO Final Recital" (2015, ritmo PS Vita)[^deemo-wiki], "DEEMO -Reborn-" (2019-2020, aventura musical PS4/Switch/Steam, avaliações Steam Very Positive)[^steamcharts-deemo-reborn], "MO:Astray" (2019-2020, ação-puzzle Steam/Switch/mobile)[^udn-moastray], "Soul of Eden" (26 agosto 2020, estratégia de cartas, desenvolvimento 4+ anos, acusado de mecânica similar a Clash Royale[^bnext-59103]), "Chaos Academy" (2021, cartas táticas)[^rayark-wiki], "DEEMO II" (13 janeiro 2022, pré-registro global 1 milhão, primeira semana 1 milhão de downloads)[^deemo2-gnn]. Catorze anos, 10+ obras, cinco plataformas: mobile, Switch, PS4, PC, PS Vita.
+A lista de obras de quatorze anos é muito maior do que a mencionada anteriormente no artigo. Além das cinco linhas principais — as séries _Cytus_, _Deemo_, _Cytus II_ (implosão), _VOEZ_ e _Sdorica_ —, a Rayark também lançou: 《Mandora》 (2012, casual/puzzle)[^rayark-wiki], 《DEEMO ~Final Performance~》 (2015, ritmo musical para PS Vita)[^deemo-wiki], 《DEEMO -Reborn-》 (2019-2020, aventura musical para PS4/Switch/Steam, com avaliação "Muito Positiva" no Steam)[^steamcharts-deemo-reborn], 《MO:Astray》 (2019-2020, ação e puzzle para Steam/Switch/mobile)[^udn-moastray], 《Soul of Eden》 (26 de agosto de 2020, estratégia de cartas, desenvolvida por mais de 4 anos e anteriormente apontada por ter mecânicas semelhantes a _Clash Royale_[^bnext-59103]), 《Chaos Academy》 (2021, cartas e estratégia tática)[^rayark-wiki] e 《DEEMO II》 (13 de janeiro de 2022, com 1 milhão de pré-registros globais e 1 milhão de downloads na primeira semana)[^deemo2-gnn]. São mais de 10 obras em quatorze anos, abrangendo cinco plataformas: mobile, Switch, PS4, PC e PS Vita.
 
 > **💡 Você sabia?**
-> Na lista de obras da Rayark, só as duas linhas principais de jogos musicais Cytus e Deemo mantêm "reconhecimento de marca nível Cytus". Outros jogos independentes (Implosion, VOEZ, MO:Astray) têm alta qualidade, mas leitor dificilmente diz em uma frase "isso é Rayark" — quando sua marca equivale a "jogo musical estético", obras de outros gêneros diluem o reconhecimento da marca. Olhando catorze anos depois, a capacidade de curadoria mais forte da Rayark é extensão de IP de Cytus e Deemo (musicais, trilhas, colaboração fliperama, filme de animação), não desenvolvimento de novas categorias.
+> Na lista de obras da Rayark, apenas as duas linhas principais de jogos rítmicos — as séries _Cytus_ e _Deemo_ — conseguem manter um "nível de reconhecimento de marca como o de Cytus". Embora cada obra independente (como _Cytus II_, _VOEZ_, _MO:Astray_) tenha uma qualidade muito alta, é difícil para o leitor dizer em uma frase "isso é da Rayark" — quando sua marca se torna sinônimo de "jogos rítmicos estéticos", obras de outros gêneros podem acabar diluindo o reconhecimento da marca. Olhando para trás nestes quatorze anos, a maior capacidade de curadoria da Rayark foi a extensão das IPs de _Cytus_ e _Deemo_ (teatro musical, trilhas sonoras, colaborações com arcades, animações), e não o desenvolvimento de novas categorias.
 
 Linha do tempo dos últimos três anos:
 
-- Maio de 2023, controvérsia de arte IA da Rayark. Rede circulou "criação totalmente IA + demissão de artistas", Rayark em 27 maio no Twitter esclareceu "não usou IA para criar grandes quantidades de imagens necessárias ao jogo, tampouco demitiu equipe de arte por isso"[^rayark-twitter-ai][^gnn-rayark-ai]
-- 30 novembro 2023, café Good Ray encerrou atividades
-- 14 outubro 2024, loja online conceitual Rayark encerrou operação[^rayark-concept-fb]
-- 11 fevereiro 2026, Sdorica: Crônica dos Milhões de Mundos entrou em modo de manutenção
-- 22 maio 2026, anunciou "Cytus II" para Nintendo Switch 2 / Switch em 2027[^cytus2-gematsu]
+- Maio de 2023: controvérsia sobre arte por IA na Rayark. Rumores na internet diziam "criação total por IA + demissão de artistas"; em 27 de maio, a Rayark publicou um comunicado no Twitter esclarecendo que "não está utilizando IA para criar grandes quantidades de imagens necessárias para os jogos, muito menos demitindo a equipe de arte por esse motivo"[^rayark-twitter-ai][^gnn-rayark-ai].
+- 30 de novembro de 2023: o café Hao Lei encerra suas atividades.
+- 14 de outubro de 2024: a loja online Rayark Concept encerra suas operações[^rayark-concept-fb].
+- 11 de fevereiro de 2026: _Sdorica_ entra em modo de manutenção.
+- 22 de maio de 2026: anunciado que 《Cytus II》 será lançado para Nintendo Switch 2 / Switch em 2027[^cytus2-gematsu].
 
-Em comparação com empresas de jogos musicais da mesma época, a PENTAVISION que fez o Hypaa Studio fracassar em 2008 seguiu caminho completamente diferente. 2012 liquidou por dificuldades financeiras, absorvida totalmente pela controladora Neowiz[^pentavision-wiki]. 2017 Neowiz reviveu a série com DJMax Respect, dezembro de 2024 DJMax Respect V ultrapassou 6 milhões de downloads, 2025 receita da Neowiz recorde histórico[^digitaltoday-neowiz].
+Em comparação com outras empresas de jogos rítmicos do mesmo período, a PENTAVISION — que fez o Hypaa Studio sofrer uma derrota amarga em 2008 — seguiu um caminho completamente diferente. Em 2012, devido a dificuldades financeiras, a empresa foi liquidada e totalmente absorvida por sua controladora, a Neowiz[^pentavision-wiki]. Em 2017, a Neowiz reviveu a série com _DJMax Respect_; em dezembro de 2024, _DJMax Respect V_ ultrapassou 6 milhões de downloads, e em 2025, a receita da Neowiz atingiu um recorde histórico[^digitaltoday-neowiz].
 
-PENTAVISION sobreviveu via "ser absorvida por grande empresa, depois reviver". Rayark escolheu caminho oposto: manter independência, expandir categorias, digerir sozinha o custo de cada erro.
+A PENTAVISION sobreviveu através do processo de "ser absorvida por uma grande empresa e depois ser revivida". A Rayark escolheu o caminho oposto: manter-se independente, expandir categorias e absorver sozinha o custo de cada erro.
 
-A situação da Rayark é o dilema mais típico dos jogos indie de Taiwan após o sucesso: primeiro produto explodiu com paixão e talento, produtos subsequentes precisam de capacidade organizacional e disciplina operacional. Teto de mercado de jogos musicais forçou Rayark a expandir categorias, mas cada expansão diluiu o reconhecimento da marca original. Jogadores de "Cytus" e de "Crônica dos Milhões de Mundos" são públicos completamente diferentes, servir os dois com mesmo nome de marca pode resultar em ambos achando "a Rayark mudou".
+A situação da Rayark é o dilema mais típico após o sucesso dos jogos independentes em Taiwan: o primeiro produto explode graças à paixão e ao talento, mas os produtos subsequentes exigem capacidade organizacional e disciplina operacional. O teto do mercado de jogos rítmicos determina que a Rayark deve expandir seus gêneros, mas cada expansão dilui o reconhecimento original da marca. Os jogadores de 《Cytus》 e os de 《Sdorica》 são públicos completamente diferentes; servir dois grupos com o mesmo nome de marca pode resultar em ambos sentindo que "a Rayark mudou".
 
-Mas a Rayark continua sendo das poucas marcas da indústria de jogos de Taiwan que se pode nomear no mercado global. 18 milhões de downloads de "Cytus II", 28 milhões da série "Deemo", "Implosion" ganhou iOS Game of the Year, "VOEZ" lançamento no Switch, filme de animação "DEEMO" produzido por Production I.G e Signal.MD com tema de Yuki Kajiura, esses feitos no mercado mobile de Taiwan em 2026 ainda não têm segunda empresa capaz de replicar[^deemo-movie-rayark].
+Ainda assim, a Rayark continua sendo uma das poucas marcas da indústria de jogos de Taiwan cujo nome é reconhecido no mercado global. _Cytus II_ com 18 milhões de downloads, a série _Deemo_ com 28 milhões de downloads, _Cytus II_ sendo premiado como o melhor do ano no iOS, _VOEZ_ no lançamento do Switch, e o filme de animação de 《DEEMO》 produzido pela Production I.G e Signal.MD com trilha sonora de Yuki Kajiura — esses resultados, no mercado de jogos mobile de Taiwan em 2026, ainda não foram replicados por nenhuma outra empresa[^deemo-movie-rayark].
 
-Yu Ming-yang em 2008 aprendeu de uma máquina de fliperama invendável que "estética é importante". Dezoito anos depois, essa frase continua sendo o maior ativo da Rayark, e pode ser sua maior algema: quando você se define como "quem faz os jogos mais belos", a tolerância do mercado a você zera.
+Em 2008, Yu Ming-yang aprendeu com um arcade que não vendia: "a estética é importante". Dezoito anos depois, essa frase continua sendo o maior ativo da Rayark, mas também pode ser sua maior algema: quando você se define como "quem faz os jogos mais bonitos", a tolerância do mercado para seus erros cai para zero.
 
-✦ A estética fez a Rayark ser vista pelo mundo, mas também a fez cair em todo domínio não musical.
+✦ A estética permitiu que a Rayark fosse vista pelo mundo, mas também fez com que ela tropeçasse em cada campo que não é musical.
 
-As rachaduras operacionais de oito anos de Sdorica vêm do conflito essencial entre a fórmula "arte × música × história" e a natureza de serviço de longo prazo de RPG. Cada atualização de evento exige refazer ilustrações de personagens de alto nível, cada expansão de enredo exige música original para acompanhar, isso na escala de 30 milhões de capital e 16 pessoas dava para fazer, no ritmo de gacha de centenas de milhares de usuários diários virou buraco negro sistêmico de tempo. A Rayark usou jogo musical para estabelecer padrão de qualidade "polido até leitor reconhecer num olhar", colidiu com velocidade de conteúdo de RPG mobile "jogador médio consome uma grande atualização em três dias", conflito essencial entre os dois.
+As fissuras operacionais de oito anos de _Sdorica_ originam-se do conflito inerente entre a fórmula "arte × música × história" e a natureza de um serviço de RPG de longo prazo. Cada atualização de evento exige novas ilustrações de personagens de alto nível, e cada expansão de enredo exige músicas originais correspondentes; isso era possível na escala de uma equipe de 16 pessoas com NT$ 30 milhões de capital, mas tornou-se um buraco negro temporal sistêmico no ritmo de um jogo com centenas de milhares de usuários ativos diários. O padrão de qualidade da Rayark, construído nos jogos rítmicos para ser "reconhecido pelo leitor num relance", colidiu com a velocidade de conteúdo dos RPGs mobile, onde "o jogador consome uma grande atualização em média em três dias".
 
-O núcleo dos onze anos sem entrega da animação de Implosion é o padrão "fazer a animação mais bela" batendo no limite de execução de empresa independente. Animação nível Production I.G precisa de pipeline de produção organizacionalizado e equipe de roteiro estável de longo prazo. A Rayark quando prometeu 90 minutos de animação no Kickstarter, usou músculo de fazer jogo para prometer da indústria de animação. O limite técnico da animação de Implosion a Rayark consegue superar, a dificuldade está no "fazer e depois manter até poder estrear" custo total, escala de empresa independente não aguenta.
+O problema central de não ter entregue a animação de _Cytus II_ por onze anos é o encontro do padrão de "fazer a animação mais bonita" com o limite de execução de uma empresa independente. Uma produção de nível Production I.G exige um pipeline de produção organizado e uma equipe de roteiristas estável a longo prazo. Quando a Rayark prometeu fazer uma animação de 90 minutos no Kickstarter, ela usou os "músculos" de desenvolvedora de jogos para assumir um compromisso da indústria de animação. A Rayark possui o nível técnico para a animação, mas o obstáculo é o custo total de "produzir e depois manter até que possa ser exibido", um fardo que uma empresa independente desse porte não consegue suportar.
 
-O incidente ICE exibiu o resultado necessário da lógica da "pureza da marca" estendida ao funcionário. Toda a marca da Rayark construída em "estética lidera, neutralidade política, mercados transnacionais compatíveis". Quando funcionário fora do trabalho lançou música pró-Hong Kong, a consistência interna de toda a narrativa de marca foi desafiada. A escolha da Rayark foi deixar funcionário pedir demissão, cooperar com mercado chinês modificando jogo, manter canal de publicação chinês, essa solução ótima interna da lógica de marca, também é grupo de controle da outra rota indie (a da Red Candle).
+O incidente com ICE demonstrou a consequência inevitável da lógica de "pureza da marca" aplicada aos funcionários. Toda a marca da Rayark foi construída sobre a narrativa de "estética dominante, neutralidade política e alcance global". Quando um funcionário lança uma música apoiando Hong Kong fora do trabalho, a consistência interna dessa narrativa de marca é desafiada. A escolha da Rayark foi permitir que o funcionário pedisse demissão, modificar o jogo para se adequar ao mercado chinês e manter os canais de distribuição na China — a melhor solução interna para essa lógica de marca, servindo também como um contraponto à trajetória de outra empresa indie (a da Red Candle Games).
 
-Como será a próxima Rayark? Talvez não haja mais, talvez precise de músculos diferentes. Quando estética é tudo, toda escolha não estética vira rachadura, incluindo política, operação, tempo. Mas a trajetória de catorze anos da Rayark também prova uma coisa: equipes indie de jogos de Taiwan têm capacidade de ocupar posição de marca escassa no mercado global de jogos musicais, isso na Ásia só o sistema BEMANI do Japão e a série DJ Max da Coreia conseguiram. A história da Rayark não acabou, no dia de 2027 em que "Cytus II" subir no Nintendo Switch 2, será o próximo ponto de verificação de "império estético consegue ou não definir made-by-Taiwan na era IA".
+Como será a próxima Rayark? Talvez ela não exista mais, ou talvez precise de "músculos" diferentes. Quando a estética é tudo, cada escolha que não seja estética torna-se uma fissura, incluindo política, operação e tempo. Mas a trajetória de quatorze anos da Rayark também prova uma coisa: as equipes de jogos indie de Taiwan têm capacidade de ocupar uma posição de marca escassa no mercado global de jogos rítmicos, algo que na Ásia apenas o sistema BEMANI do Japão e a série DJ Max da Coreia conseguiram fazer. A história da Rayark ainda não acabou; o dia em que 《Cytus II》 chegar ao Nintendo Switch 2 em 2027 será o próximo ponto de verificação para saber se um "império estético" pode continuar definindo o conceito de _made-by-Taiwan_ na era da IA.
 
 ---
 
-## Leitura complementar
+## Leitura Adicional
 
-- [Indústria de jogos de Taiwan e entretenimento digital](/pt/technology/taiwan-gaming-industry) — Panorama dos jogos de Taiwan: de publicação a original
-- [Red Candle Games](/pt/technology/red-candle-games) — Outra rota dos jogos indie de Taiwan: contar histórias com História, escolher sair do mercado chinês
-- [As duas espadas da Softstar](/pt/technology/softstar-twin-classics) — Ponto de partida dos jogos de Taiwan contando histórias em chinês
-- [Gamania e jogos online de Taiwan indo ao mar](/pt/technology/chuanqi-net-and-taiwan-online-gaming) — Outro capítulo da saída ao mar dos jogos de Taiwan
+- [A indústria de jogos e o entretenimento digital em Taiwan](/pt/technology/taiwan-gaming-industry) — Um panorama completo dos jogos de Taiwan, da distribuição à criação original
+- [Red Candle Games](/pt/technology/red-candle-games) — Outro caminho para os jogos independentes de Taiwan: contar histórias através da história e a escolha de sair do mercado chinês
+- [Softstar Entertainment](/pt/technology/softstar-twin-classics) — O ponto de partida dos jogos taiwaneses ao contar histórias em chinês
+- [Chersoft e a expansão dos jogos online de Taiwan para o exterior](/pt/technology/chuanqi-net-and-taiwan-online-gaming) — Outra história sobre a presença internacional dos jogos de Taiwan
 
 ---
 
 ## Fontes das imagens
 
-Este artigo usa 8 imagens autorizadas, todas em cache em `public/article-images/technology/` para evitar hotlink nos servidores de origem:
+Este artigo utiliza 8 imagens licenciadas, todas armazenadas em cache em `public/article-images/technology/` para evitar o hotlinking dos servidores de origem:
 
-- **rayark-cafe-2021.jpg** (hero) — [Wikimedia Commons File:Rayark Café 20211016.jpg](https://commons.wikimedia.org/wiki/File:Rayark_Café_20211016.jpg) — Foto: Solomon203, 2021-10-16, CC BY-SA 4.0
-- **rayark-logo-2012.png** (inline, §O que uma máquina de fliperama lhes ensinou) — [English Wikipedia File:Logo of Rayark Inc.png](https://en.wikipedia.org/wiki/File:Logo_of_Rayark_Inc.png) — Fair use editorial commentary on Rayark Inc. brand identity
-- **cytus-ii-gameplay.png** (inline, §Cytus e Deemo) — [English Wikipedia File:Cytus II gameplay.png](https://en.wikipedia.org/wiki/File:Cytus_II_gameplay.png) — Fair use editorial commentary on Cytus series jogabilidade característica
-- **deemo-cover.jpg** (inline, §Cytus e Deemo) — [English Wikipedia File:DeemoLastRecitalVita.jpg](https://en.wikipedia.org/wiki/File:DeemoLastRecitalVita.jpg) — Fair use editorial commentary on DEEMO série arte
-- **rayark-booth-cosplayers-2018.jpg** (inline, §No ano do lançamento do Switch) — [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>) — Foto: snapshot de cosplay evento ACG 2018, CC BY-SA 2.0
-- **voez-switch-cover.jpg** (inline, §No ano do lançamento do Switch) — [English Wikipedia File:SwitchVOEZ.jpg](https://en.wikipedia.org/wiki/File:SwitchVOEZ.jpg) — Fair use editorial commentary on VOEZ NS lançamento
-- **sdorica-logo.png** (inline, §Saindo da zona de conforto) — [English Wikipedia File:Sdorica logo.png](https://en.wikipedia.org/wiki/File:Sdorica_logo.png) — Fair use editorial commentary on Sdorica identificação de marca
-- **implosion-cover.png** (inline, §Implosion: onze anos do dia zero) — [English Wikipedia File:Implosion- Never Lose Hope - cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png) — Fair use editorial commentary on Implosion identidade do jogo
+- **rayark-cafe-2021.jpg** (hero) — [Wikimedia Commons File:Rayark Café 20211016.jpg](https://commons.wikimedia.org/wiki/File:Rayark_Café_20211016.jpg) — Foto: Solomon203, 16/10/2021, CC BY-SA 4.0
+- **rayark-logo-2012.png** (inline, §O que um fliperama ensinou a eles) — [English Wikipedia File:Logo of Rayark Inc.png](https://en.wikipedia.org/wiki/File:Logo_of_Rayark_Inc.png) — Uso justo para comentário editorial sobre a identidade da marca Rayark Inc.
+- **cytus-ii-gameplay.png** (inline, §Cytus e Deemo) — [English Wikipedia File:Cytus II gameplay.png](https://en.wikipedia.org/wiki/File:Cytus_II_gameplay.png) — Uso justo para comentário editorial sobre o estilo de jogo característico da série Cytus
+- **deemo-cover.jpg** (inline, §Cytus e Deemo) — [English Wikipedia File:DeemoLastRecitalVita.jpg](https://en.wikipedia.org/wiki/File:DeemoLastRecitalVita.jpg) — Uso justo para comentário editorial sobre a arte da série DEEMO
+- **rayark-booth-cosplayers-2018.jpg** (inline, §O ano do lançamento do Switch) — [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosplayers_of_Pipimi_and_Popuko_seen_from_behind_at_Rayark_booth_(40764217870).jpg>) — Foto: Instantâneo de cosplay em um evento de ACG em 2018, CC BY-SA 2.0
+- **voez-switch-cover.jpg** (inline, §O ano do lançamento do Switch) — [English Wikipedia File:SwitchVOEZ.jpg](https://en.wikipedia.org/wiki/File:SwitchVOEZ.jpg) — Uso justo para comentário editorial sobre o lançamento de VOEZ para NS
+- **sdorica-logo.png** (inline, §Saindo da zona de conforto: oito anos de 万象物語) — [English Wikipedia File:Sdorica logo.png](https://en.wikipedia.org/wiki/File:Sdorica_logo.png) — Uso justo para comentário editorial sobre a identidade da marca Sdorica
+- **implosion-cover.png** (inline, §Implosion: Onze anos de Zero Day) — [English Wikipedia File:Implosion- Never Lose Hope - cover.png](https://en.wikipedia.org/wiki/File:Implosion-_Never_Lose_Hope_-_cover.png) — Uso justo para comentário editorial sobre a identidade do jogo Implosion
 
 ---
 
 ## Referências
 
-[^rayark-wiki]: [Rayark Games — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9B%B7%E4%BA%9E%E9%81%8A%E6%88%B2) — Seis cofundadores (Chung Chih-yuan, Yu Ming-yang, Chang Shih-chun, Hsieh Chang-yen, Yang Shan-yung, Li Yung-ting), fundada setembro 2011, Rua Jinshan Norte, equipe 16 pessoas, capital 30 milhões, linha do tempo de produtos
+[^rayark-wiki]: [Rayark Games — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9B%B7%E4%BA%9E%E9%81%8A%E6%88%B2) — Seis cofundadores (Chung Chih-yuan, Yu Ming-yang, Chang Shih-chun, Hsieh Chang-yen, Yang Shan-ying, Li Yung-ting), fundada em setembro de 2011, Jinshan North Road, equipe de 16 pessoas, capital social de NT$30 milhões, cronologia de produtos
 
-[^kopu]: [Rayark: uma das poucas desenvolvedoras taiwanesas com estilo próprio — Escrevendo ciência popular Lynn](https://kopu.chat/rayark/) — História THEIA do Hypaa Studio, citação direta de Yu Ming-yang "visuais e música são importantes", background de fundação da empresa
+[^kopu]: [Rayark: Uma das poucas desenvolvedoras de jogos móveis de Taiwan com desenvolvimento independente e estilo único — Escrevendo Ciência Lynn](https://kopu.chat/rayark/) — A história de THEIA do Hypaa Studio, citação direta de Yu Ming-yang 'o visual e a música são muito importantes', contexto da fundação da empresa
 
-[^csiecomm-2013]: [B92 Yu Ming-yang B91 Yang Shan-yung B92 Hsieh Chang-yen (Rayark Games) — blog csiecomm](http://csiecomm.blogspot.com/2013/07/b92-b91-b92.html) — Entrevista 2012-12-07; Yu Ming-yang Silvicultura para Instituto de Mídia de Rede, Yang Shan-yung B91, Hsieh Chang-yen B92; citação direta de Yu Ming-yang "originalmente queria cursar Engenharia da Computação, mas não fui bem no exame, por isso fui para Silvicultura"
+[^csiecomm-2013]: [B92 Yu Ming-yang B91 Yang Shan-ying B92 Hsieh Chang-yen (Rayark Games) — Blog csiecomm](http://csiecomm.blogspot.com/2013/07/b92-b91-b92.html) — Entrevista em 07/12/2012; Yu Ming-yang da área de mídia de rede e silvicultura, Yang Shan-ying B91, Hsieh Chang-yen B92; citação direta de Yu Ming-yang 'eu originalmente queria estudar engenharia de computação, mas como não fui bem no exame, acabei estudando silvicultura'
 
-[^ithome-rayark]: [Rayark migrou de PaaS para containers, 3 pessoas mantêm jogo de 1 milhão — iThome](https://www.ithome.com.tw/people/109212) — CTO Chung Chih-yuan liderou transformação containerizada, Rayark GCP 50 clusters K8s
+[^ithome-rayark]: [Rayark deixa o PaaS para abraçar contêineres: 3 pessoas podem operar jogos com milhões de usuários — iThome](https://www.ithome.com.tw/people/109212) — CTO Chung Chih-yuan lidera a transformação para conteinerização, Rayark possui 50 clusters K8s no GCP
 
-[^sdorica-wiki]: [Sdorica: Crônica dos Milhões de Mundos — Wikipedia](https://zh.wikipedia.org/zh-hant/Sdorica_%E8%90%AC%E8%B1%A1%E7%89%A9%E8%AA%9E) — Planejamento 2013 / desenvolvimento 2014 / beta público 2018-04-19; pré-registro 1,5 milhão; 30/4 ultrapassou 2,5 milhões downloads; 11/5 ultrapassou 5 milhões; produtor Hsieh Chang-yen
+[^sdorica-wiki]: [Sdorica — Wikipédia](https://zh.wikipedia.org/zh-hant/Sdorica_%E8%90%AC%E8%B1%A1%E7%89%A9%E8%AA%9E) — Planejamento em 2013 / Desenvolvimento em 2014 / Beta aberto em 19/04/2018; 1,5 milhão de pré-registros; ultrapassou 2,5 milhões de downloads em 30/04; ultrapassou 5 milhões de downloads em 11/05; produtor Hsieh Chang-yen
 
-[^bnext-rayark]: [Rayark Games: os heróis por trás de Cytus, jogo iOS com mil avaliações 5 estrelas — Digital Era](https://www.bnext.com.tw/article/22202/BN-ARTICLE-22202) — Li Yung-ting dirigiu e foi porta-voz, Yu Ming-yang cofundador, Chang Shih-chun cofundador
+[^bnext-rayark]: [Rayark Games: Os bastidores do jogo Cytus, com milhares de avaliações 5 estrelas no iOS — Digital Age](https://www.bnext.com.tw/article/22202/BN-ARTICLE-22202) — Li Yung-ting como diretor e porta-voz da empresa, Yu Ming-yang cofundador, Chang Shih-chun cofundador
 
-[^cytus-wiki]: [Cytus — Wikipedia](https://en.wikipedia.org/wiki/Cytus) — 2012-01-12 iOS / 4-13 Android lançamento; 2015-04 atingiu 1 milhão downloads pagos; 14 países primeiro lugar; parada japonesa jogos musicais 29 dias consecutivos
+[^cytus-wiki]: [Cytus — Wikipédia](https://en.wikipedia.org/wiki/Cytus) — Lançamento em 12/01/2012 para iOS / 13/04 para Android; atingiu 1 milhão de downloads pagos em abril de 2015; primeiro lugar nos rankings de 14 países; líder ininterrupto nas paradas de jogos musicais do Japão por 29 dias
 
-[^deemo-wiki]: [Deemo — Wikipedia](https://en.wikipedia.org/wiki/Deemo) — 2013-11-13 iOS / 12-27 Android; 2015-06-24 Vita; 2014-10 acumulado 7 milhões downloads; 2021 anúncio animação 28 milhões downloads; prêmios; DEEMO -Reborn-; DEEMO II; Memorial Keys animação; versão Nintendo Switch Metacritic 88
+[^deemo-wiki]: [Deemo — Wikipédia](https://en.wikipedia.org/wiki/Deemo) — 13/11/2013 iOS / 27/12 Android; 24/06/2015 Vita; acumulou 7 milhões de downloads em outubro de 2014; 28 milhões de downloads no anúncio do anime em 2021; prêmios; DEEMO -Reborn-; DEEMO II; Memorial Keys anime; versão para Nintendo Switch com Metacritic 88
 
-[^deemo2-gnn]: [Obra comemorativa de 10 anos da Rayark "DEEMO II" lançada globalmente — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=226618) — DEEMO II 2022-01-13 lançamento; primeira semana 1 milhão downloads; pré-registro global 1 milhão jogadores
+[^deemo2-gnn]: [Obra comemorativa de décimo aniversário da Rayark Games, 'DEEMO II', lançada oficialmente mundialmente — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=226618) — Lançamento de DEEMO II em 13/01/2022; um milhão de downloads na primeira semana; 1 milhão de jogadores no pré-registro global
 
-[^implosion-wiki]: [Implosion: Never Lose Hope — Wikipedia](https://en.wikipedia.org/wiki/Implosion:_Never_Lose_Hope) — 2015-04-08 iOS/Android, 2017-07-06 Switch; prêmios; Metacritic 93; primeira semana 91,9% cinco estrelas; 2015 iOS Game of the Year Asia + 2015 Bahamut ACG Creation Grand Prize + 2014 Unity Awards Golden Cube; Zero Day animação 90 min em andamento
+[^implosion-wiki]: [Implosion: Never Lose Hope — Wikipédia](https://en.wikipedia.org/wiki/Implosion:_Never_Lose_Hope) — 08/04/2015 iOS/Android, 06/07/2017 Switch; prêmios; Metacritic 93; 91,9% de avaliações 5 estrelas na primeira semana de lançamento; 2015 iOS Game of the Year Asia + 2015 Bahamut ACG Creative Awards + 2014 Unity Awards Golden Cube; anime 'Zero Day' de 90 minutos em produção
 
-[^voez-4gamers]: [Rayark "VOEZ" chegando ao Nintendo Switch — 4Gamers](https://www.4gamers.com.tw/news/detail/31551/voze-achieved-10-million-download-and-will-be-launch-in-nintendo-switch) — VOEZ até início 2017 ultrapassou 10 milhões downloads; 2017-03-03 NS jogo de lançamento
+[^voez-4gamers]: [VOEZ da Rayark chegará ao Nintendo Switch — 4Gamers](https://www.4gamers.com.tw/news/detail/31551/voze-achieved-10-million-download-and-will-be-launch-in-nintendo-switch) — VOEZ ultrapassou 10 milhões de downloads no início de 2017; jogo de lançamento para NS em 03/03/2017
 
-[^voez-nintendo-life]: [VOEZ (2017) — Nintendo Life](https://www.nintendolife.com/games/switch-eshop/voez) — Nintendo Life avaliou 8/10 "arma secreta do NS"
+[^voez-nintendo-life]: [VOEZ (2017) — Nintendo Life](https://www.nintendolife.com/games/switch-eshop/voez) — Nintendo Life avaliou como 8/10, chamando-o de 'arma secreta do NS'
 
-[^cytus2-gematsu]: [Cytus II coming to Switch 2, Switch in 2027 — Gematsu](https://www.gematsu.com/2026/05/cytus-ii-coming-to-switch-2-switch-in-2027) — 2026-05-22 anúncio NS / NS2 2027 lançamento; downloads globais acumulados 18 milhões; 500+ faixas
+[^cytus2-gematsu]: [Cytus II chegará ao Switch 2, Switch em 2027 — Gematsu](https://www.gematsu.com/2026/05/cytus-ii-coming-to-switch-2-switch-in-2027) — Anunciado em 22/05/2026 para lançamento no NS / NS2 em 2027; acumulado global de 18 milhões de downloads; mais de 500 faixas
 
-[^cytus2-qooapp]: [Jogo de ritmo popular da Rayark "Cytus II" confirmado para Switch 2/Switch — QooApp](https://news.qoo-app.com/post/436892/cytus-ii-switch) — Notícia chinesa confirma; lançamento 2027
+[^cytus2-qooapp]: [O popular jogo rítmico da Rayark, 'Cytus II', terá versões para Switch 2 / Switch confirmadas — QooApp](https://news.qoo-app.com/post/436892/cytus-ii-switch) — Confirmação adicional via notícias em chinês; lançamento em 2027
 
-[^moegirl-sdorica]: [Sdorica: Crônica dos Milhões de Mundos — Moegirlpedia](https://zh.moegirl.tw/%E4%B8%87%E8%B1%A1%E7%89%A9%E8%AF%AD) — Desenvolvido e publicado por Rayark Games; 2018-04-19 lançamento; produtor Hsieh Chang-yen
+[^moegirl-sdorica]: [Sdorica — Moegirlpedia](https://zh.moegirl.tw/%E4%B8%87%E8%B1%A1%E7%89%A9%E8%AF%AD) — Desenvolvido e publicado pela Rayark Games; lançado em 19/04/2018; produtor Hsieh Chang-yen
 
-[^sdorica-udn]: ["Sdorica: Crônica dos Milhões de Mundos" eventos cheios de problemas — udn canto dos jogos](https://game.udn.com/game/story/10453/3209024) — Junho 2018 Sdorica pós-lançamento servidor congestionado, gacha não abriu no horário, Festival do Barco-Dragão caracteres corrompidos, pó de luz residual não distribuído, série de controvérsias operacionais
+[^sdorica-udn]: [Série de erros em eventos de "Sdorica" — udn Game Corner](https://game.udn.com/game/story/10453/3209024) — Uma série de controvérsias operacionais após o lançamento de Sdorica em junho de 2018, incluindo servidores superlotados, banners que não abriram no horário previsto, códigos corrompidos no Festival do Barco Dragão e a não distribuição de Pó de Luz Residual.
 
-[^sdorica-bahamut-policy]: [Comunicado de ajuste de política operacional de "Sdorica: Crônica dos Milhões de Mundos" — fórum Bahamut](https://forum.gamer.com.tw/C.php?bsn=29560&snA=11124) — 2026-02-11 anúncio chinês modo de manutenção; após 2026-07 não mais novas reprises; discussão comunidade jogadores
+[^sdorica-bahamut-policy]: [Notificação de ajuste na política operacional de "Sdorica" — Bahamut Forum](https://forum.gamer.com.tw/C.php?bsn=29560&snA=11124) — 2026-02-11 Anúncio oficial em chinês sobre o modo de manutenção; após julho de 2026, novos reruns não serão mais disponibilizados; discussões da comunidade de jogadores.
 
-[^sdorica-gachago]: [Sdorica Enters Maintenance Mode After Final Character Releases — Gacha Go!](https://gachago.com/en/news/sdorica-enters-maintenance-mode-after-final-character-releases) — 2026-02-11 modo de manutenção; Valdrir DR + Chiyuki DR últimos dois personagens; servidores permanecem operacionais; reprise Infuse até 2026-07; "Fim do ciclo de desenvolvimento ativo de Sdorica"
+[^sdorica-gachago]: [Sdorica Entra em Modo de Manutenção Após Lançamento Final de Personagens — Gacha Go!](https://gachago.com/en/news/sdorica-enters-maintenance-mode-after-final-character-releases) — 2026-02-11 Modo de manutenção; Valdrir DR + Chiyuki DR como os dois últimos personagens; servidores permanecem operacionais; reruns de Infuse até julho de 2026; "fim do ciclo de desenvolvimento ativo de Sdorica".
 
-[^silentblue-wilson-lam]: [Wilson Lam — SilentBlue.RemyWiki](https://silentblue.remywiki.com/Wilson_Lam) — ICE nome real Wilson Lam; 2014 entrou Rayark como diretor musical; registro evento 2020 saída
+[^silentblue-wilson-lam]: [Wilson Lam — SilentBlue.RemyWiki](https://silentblue.remywiki.com/Wilson_Lam) — Nome real de ICE é Wilson Lam; ingressou na Rayark em 2014 como Diretor Musical; registro do incidente de sua saída em 2020.
 
-[^itechpost-cytus2]: ['Cytus II' Taken Down in China Due to a Composer's Song Containing Hidden Pro-Hong Kong Morse Code Message — iTechPost](https://www.itechpost.com/articles/103452/20200722/cytus-ii-taken-down-in-china-due-to-a-composers-song-containing-hidden-pro-hong-kong-morse-code-message.htm) — Mídia em inglês ângulo reportagem incidente ICE
+[^itechpost-cytus2]: ['Cytus II' Retirado da China Devido a Música de Compositor Contendo Mensagem Oculta em Código Morse Pró-Hong Kong — iTechPost](https://www.itechpost.com/articles/103452/20200722/cytus-ii-taken-down-in-china-due-to-a-composers-song-containing-hidden-pro-hong-kong-morse-code-message.htm) — Reportagem sob a perspectiva da mídia internacional sobre o incidente de ICE.
 
-[^udn-ice]: [Denunciado por obra esconder código Morse "liberte Hong Kong" diretor musical da Rayark anuncia saída — udn canto dos jogos](https://game.udn.com/game/story/10453/4711560) — 2020-07-17 internautas chineses investigaram; código Morse decodificou "Hong Kong people add oil, liberate Hong Kong, revolution of our times"; linha do tempo completa evento ICE
+[^udn-ice]: [Obra denunciada por esconder código Morse "Liberar Hong Kong"; Diretor Musical da Rayark anuncia demissão — udn Game Corner](https://game.udn.com/game/story/10453/4711560) — 2020-07-17 Identificação de internautas chineses; decodificação do código Morse como "Força Hong Kong, Liberar Hong Kong, Revolução da Era"; linha do tempo completa do incidente de ICE.
 
-[^newtalk-ice]: [Descoberto música esconder slogan anti-extradição diretor musical Ice pede demissão — Newtalk News](https://newtalk.tw/news/view/2020-07-18/437743) — 2020-07-18 declaração completa Ice texto original; pontos comunicado Longyuan
+[^newtalk-ice]: [Música denunciada por conter slogans pró-movimento de Hong Kong; Diretor Musical da Rayark, Ice, pede demissão — Newtalk News](https://newtalk.tw/news/view/2020-07-18/437743) — 2020-07-18 Texto integral da declaração completa de Ice; pontos principais do anúncio da Longyuan.
 
-[^gnn-ice]: [Diretor musical da Rayark Ice anuncia saída por controvérsia de faixa — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=200246) — Reportagem oficial Bahamut; comunicado conjunto Rayark e Longyuan
+[^gnn-ice]: [Diretor Musical da Rayark, Ice, anuncia demissão após controvérsia causada por música — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=200246) — Reportagem oficial do Bahamut; anúncio conjunto da Rayark e Longyuan.
 
-[^techorange-ice]: [Diretor musical criação privada pró-Hong Kong, corte da Rayark no Weibo correto? — TechOrange](https://techorange.com/2020/07/20/rayark-ice-support-hk-resign/) — 2020-07-20 Rayark até aquele dia não emitiu explicação formal em plataformas oficiais de Taiwan; comunidade jogadores questionou
+[^techorange-ice]: [Criação privada do Diretor Musical apoia Hong Kong: a abordagem da Rayark ao se distanciar via Weibo é correta? — TechOrange](https://techorange.com/2020/07/20/rayark-ice-support-hk-resign/) — 2020-07-20 Até aquela data, a Rayark não havia emitido uma explicação oficial em suas plataformas oficiais de Taiwan; questionamentos da comunidade de jogadores.
 
-[^4gamers-cytus2-ice-removal]: [China "Cytus II" removido para retificação, faixas de ICE serão todas deletadas — 4Gamers](https://www.4gamers.com.tw/news/detail/44034/cytus-ii-ban-songs-by-ice-in-china) — 2021-05 6 faixas ICE deletadas; compensação a jogadores pagantes
+[^4gamers-cytus2-ice-removal]: [Cytus II na China passa por reformulação e todas as músicas criadas por ICE serão removidas — 4Gamers](https://www.4gamers.com.tw/news/detail/44034/cytus-ii-ban-songs-by-ice-in-china) — Maio de 2021; remoção de 6 faixas de ICE; compensação para jogadores que já haviam pago.
 
-[^pocketgamer-cytus2]: [China pulls Cytus II from the App Store for secret pro-democracy Morse code message — PocketGamer.biz](https://www.pocketgamer.biz/asia/news/73974/china-pulls-cytus-ii-from-app-store/) — Framing mídia indústria em inglês; ângulo mídia internacional
+[^pocketgamer-cytus2]: [China retira Cytus II da App Store por mensagem secreta em código Morse pró-democracia — PocketGamer.biz](https://www.pocketgamer.biz/asia/news/73974/china-pulls-cytus-ii-from-app-store/) — Enquadramento da mídia especializada internacional; perspectiva da mídia global.
 
-[^inside-zero-day]: [Rayark "Implosion" animação adaptada "Implosion: Day Zero" no Kickstarter — INSIDE](https://www.inside.com.tw/article/5271-implosion-zero) — 2015-12-05 Kickstarter iniciado; 48 horas atingiu 18% meta
+[^inside-zero-day]: [Filme de animação adaptado do jogo Implosion da Rayark, "Implosion: Zero Day", irá para financiamento coletivo no Kickstarter — INSIDE](https://www.inside.com.tw/article/5271-implosion-zero) — 2015-12-05 Início do Kickstarter; atingiu 18% da meta de financiamento em 48 horas.
 
-[^implosion-zero-day-wiki]: [Implosion: Day Zero — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%81%9A%E7%88%86%EF%BC%9A%E7%AC%AC%E9%9B%B6%E6%97%A5) — 10 dias ultrapassou 5 milhões NTD; original previsto 2018-08 conclusão; 2020 sem novo anúncio
+[^implosion-zero-day-wiki]: [Implosion: Zero Day — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%81%9A%E7%88%86%EF%BC%9A%E7%AC%AC%E9%9B%B6%E6%97%A5) — Ultrapassou NT$5 milhões em 10 dias; conclusão prevista para agosto de 2018; sem novos anúncios após 2020.
 
-[^disp-bbs-implosion]: [Rayark Implosion zero filme terceiro adiamento — Disp BBS fórum ACG](https://disp.cc/b/ACG/b7Iw) — 2019-01-24 terceiro comunicado adiamento; plano reembolso; críticas jogadores texto original
+[^disp-bbs-implosion]: [Filme Implosion Zero da Rayark sofre terceiro adiamento — Disp BBS ACG Board](https://disp.cc/b/ACG/b7Iw) — 2019-01-24 Anúncio do terceiro adiamento; plano de reembolso; citações diretas das críticas dos jogadores.
 
-[^rayark-104]: [Rayark Games Co. Ltd.｜Contratando — 104 Banco de Talentos](https://www.104.com.tw/company/1a2x6bj6qc) — Funcionários 270; capital 64 milhões; downloads acumulados 130 milhões; lista produtos
+[^rayark-104]: [Rayark Co., Ltd. | Vagas Abertas — 104 Job Bank](https://www.104.com.tw/company/1a2x6bj6qc) — 270 funcionários; capital social de NT$64 milhões; 130 milhões de downloads acumulados; lista de produtos.
 
-[^rayark-twitter-ai]: [Comunicado oficial Twitter Rayark esclarecimento arte IA](https://twitter.com/RayarkOfficial/status/1662466448709816331) — 2023-05-27 "não usou IA para criar grandes quantidades de imagens necessárias ao jogo, tampouco demitiu equipe de arte por isso" texto original
+[^rayark-twitter-ai]: [Comunicado de esclarecimento da Rayark sobre arte por IA no Twitter oficial](https://twitter.com/RayarkOfficial/status/1662466448709816331) — 27-05-2023 Texto original: "Não utilizamos IA para criar grandes quantidades de imagens necessárias para os jogos, nem demitimos a equipe de arte por esse motivo"
 
-[^gnn-rayark-ai]: [Rayark esclarece não demitiu artistas em massa por introdução IA — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=250502) — Comunicado oficial Rayark esclarecimento completo chinês
+[^gnn-rayark-ai]: [Rayark esclarece que não houve demissões em massa de artistas devido à introdução de tecnologia de IA — Bahamut GNN](https://gnn.gamer.com.tw/detail.php?sn=250502) — Comunicado oficial completo da Rayark em chinês
 
-[^rayark-concept-fb]: [Rayark Concept Facebook](https://www.facebook.com/RayarkConcept/) — 2024-10-14 anúncio encerramento loja online
+[^rayark-concept-fb]: [Rayark Concept Facebook](https://www.facebook.com/RayarkConcept/) — 14-10-2024 Comunicado sobre o encerramento das operações da loja online
 
-[^pentavision-wiki]: [Pentavision — Wikipedia](https://zh.wikipedia.org/zh-hans/Pentavision) — 2006-04 adquirida por Neowiz; 2008 DJ Max Technika; 2012 liquidação falência; Neowiz absorção total
+[^pentavision-wiki]: [Pentavision — Wikipédia](https://zh.wikipedia.org/zh-hans/Pentavision) — Adquirida pela Neowiz em 04-2006; DJ Max Technika em 2008; liquidação e falência em 2012; absorvida totalmente pela Neowiz
 
-[^digitaltoday-neowiz]: [Neowiz posts 60 billion won 2025 operating profit, up 82.2 percent — DigitalToday](https://www.digitaltoday.co.kr/en/view/3459/neowiz-2025-operating-profit-60-billion-won-up-822-percent) — 2024-12 DJ Max Respect V 6 milhões downloads; 2025 receita Neowiz recorde histórico
+[^digitaltoday-neowiz]: [Neowiz registra lucro operacional de 60 bilhões de won em 2025, alta de 82,2% — DigitalToday](https://www.digitaltoday.co.kr/en/view/3459/neowiz-2025-operating-profit-60-billion-won-up-822-percent) — DJ Max Respect V atinge 6 milhões de downloads em 2024; receita anual da Neowiz atinge recorde em 2025
 
-[^deemo-movie-rayark]: [Jogo musical da Rayark "DEEMO" filme de animação "DEEMO THE MOVIE" — Rayark oficial](https://rayark.com/zh/news/20201113_deemomovie/) — DEEMO THE MOVIE produtoras Production I.G + Signal.MD, diretor geral Fujisaki Junichi, diretor Matsushita Shuhei, tema Yuki Kajiura
+[^deemo-movie-rayark]: [Filme de animação do jogo musical da Rayark, "DEEMO THE MOVIE" — Oficial Rayark](https://rayark.com/zh/news/20201113_deemomovie/) — Empresa de produção DEEMO THE MOVIE: Production I.G + Signal.MD; Diretor Geral: Junichi Fujisaki; Diretor: Shuhei Matsushita; Tema musical: Yuki Kajiura
 
-[^mozarc-fandom]: [User blog:JCEXE/Small History of Hypaa Studio, pre-Rayark team — Cytus Wiki Fandom](https://cytus.fandom.com/wiki/User_blog:JCEXE/Small_History_of_Hypaa_Studio,_pre-Rayark_team) — Linha do tempo completa Hypaa Studio; 2010 Mozarc 6K fall-style fliperama; Bloody Purity / Colorful Skies / Saika / Beyond / Sanctity / Holy Knight depois movidos para Cytus + Deemo
+[^mozarc-fandom]: [Blog de usuário: JCEXE/Pequena história do Hypaa Studio, equipe pré-Rayark — Cytus Wiki Fandom](https://cytus.fandom.com/wiki/User_blog:JCEXE/Small_History_of_Hypaa_Studio,_pre-Rayark_team) — Linha do tempo completa do Hypaa Studio; arcade estilo fall 6K da Mozarc em 2010; Bloody Purity / Colorful Skies / Saika / Beyond / Sanctity / Holy Knight posteriormente migrados para Cytus + Deemo
 
-[^bahamut-mozarc]: [Protótipo AC — MOZARC — Criação Bahamut](https://home.gamer.com.tw/artwork.php?sn=871313) — Introdução máquina protótipo Mozarc; criação fã comunidade jogadores
+[^bahamut-mozarc]: [Protótipo AC — MOZARC — Criação Bahamut](https://home.gamer.com.tw/artwork.php?sn=871313) — Introdução ao protótipo de máquina arcade Mozarc; criação fanmade da comunidade de jogadores
 
-[^pttweb-mozarc-comment]: [Threads taiwandotmd #DYwMkzBgW8k donchuenbao comentário](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 comentário jogador Threads artigo Rayark: "Entre Hypaa e Rayark ainda teve um jogo musical fliperama chamado Mozarc" + detalhes taxa falha teclas filme plástico
+[^pttweb-mozarc-comment]: [Comentários de donchuenbao no Threads taiwandotmd #DYwMkzBgW8k](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 26-05-2026 Comentário de jogador no Threads sobre artigo da Rayark: "Entre a Hypaa e a Rayark, houve um jogo musical de arcade chamado Mozarc" + detalhes sobre a taxa de falha dos botões de plástico
 
-[^threads-cytus-arcade-comment]: [Threads taiwandotmd #DYwMkzBgW8k data_pythoness comentário](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 2026-05-26 comentário jogador "Cytus ainda queria sair no fliperama, tive a sorte de experimentar ao vivo, na época esperava muito ter máquina de jogo musical grande vinda de Taiwan, pena que depois sumiu sem ruído" — registro experiência jogador Cytus: Omega location testing
+[^threads-cytus-arcade-comment]: [Comentários de data_pythoness no Threads taiwandotmd #DYwMkzBgW8k](https://www.threads.com/@taiwandotmd/post/DYwMkzBgW8k) — 26-05-2026 Comentário de jogador: "Cytus também pensou em lançar um arcade; tive a sorte de testar pessoalmente, na época eu estava ansioso por uma máquina de jogo musical de grande porte vinda de Taiwan" — Registro de experiência pessoal do teste de localização de Cytus: Omega
 
-[^sdorica-blackpongji]: [Evento nerf Black Pongji Sdorica — fórum Sdorica + catchtest pixnet impressões](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Black Pongji zombie mecânica + provocação limitada a uma rodada; time Black Pongji + Angela SP inviabilizado; Rayark alegou bug fix não aceito por jogadores; pouco após lançamento skin White Pongji
+[^sdorica-blackpongji]: [Incidente do nerf de Black Pongji em Sdorica — Fórum Sdorica e resenha de catchtest pixnet](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6674) — Mecânica de zombie de Black Pongji + deboche limitado a uma vez por turno; composição de equipe Black Pongji + Angelia SP tornou-se inviável; Rayark afirmou que o ajuste de bug não foi aceito pelos jogadores; ocorrido pouco após o lançamento da skin de White Pong
 
-[^pttweb-rayark-thread]: [PTT C_Chat Rayark Games: império musical fundado na estética GTES repost thread](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 2026-05-26 thread discussão comunidade jogadores PTT C_Chat; selfet "mais cedo jogava sdorica guilda cheia de jogadores top do servidor pararam por causa do nerf do Black Pongji"; Jamer "ice depois continuou lançando música, puramente o nome é difícil de ser palavra-chave com reconhecimento"
+[^pttweb-rayark]: [PTT C_Chat Re: [Info] Personagens fortes de Sdorica sofrendo nerfs coletivos, polêmica em gestação](https://www.pttweb.cc/bbs/C_Chat/M.1530091682.A.168) — 27-06-2018 Resposta ao tópico de discussão no PTT C_Chat; npn1992: "E logo que a skin da White Pong saiu, aplicaram o nerf; dizem que antes era um bug, mas a princesa SP já estava há quanto tempo?", "Há quanto tempo Black Pong e a princesa SP existiam, e só agora mudaram de repente?", "Um bug(?) deixado por muito tempo, mas corrigido logo após o lançamento da skin da White Pong, que eficiência" — Jogadores comparando a ordem entre o lançamento da skin da White Pong e o nerf dos personagens antigos
 
-[^ettoday-vk-882323]: [Criador de música de jogo expõe VK plágio: música e ilustração plágio não deve ser tolerado — ETtoday Game Cloud](https://game.ettoday.net/article/882323.htm) — 2017-03-11 Waiting@H&&D exposição completa; linha do tempo Crossing Rain and Time → Crossing Time → tema Goddess Alliance; 2016/5/14 concerto Xangai + 2017/2/4 palestra criação
+[^pttweb-rayark-thread]: [PTT C_Chat Rayark Games: O império musical fundado na estética (repost de thread GTES)](https://www.pttweb.cc/bbs/C_Chat/M.1779745322.A.35D) — 26-05-2026 Tópico de discussão da comunidade de jogadores no PTT C_Chat; selfet: "No início do Sdorica, muitos jogadores que estavam entre os melhores do servidor pararam de jogar por causa do nerf no Black Pong"; Jamer: "ice continuou lançando músicas depois, é puramente porque o nome é uma palavra-chave difícil de identificar"
 
-[^cts-vk-201703131858055]: [VK exposto plágio composição Rayark: antes do fim evento não colaborar — CTS News](https://news.cts.com.tw/mol/campus/201703/201703131858055.html) — 2017-03-13 pedido desculpas FB Rayark texto integral; "após o ocorrido, a Rayark não cessou totalmente a colaboração em atividades presenciais com VK" + "futuro adotará mesmo padrão de aquisição, antes do fim controvérsia, não colaborará de nenhuma forma"; Crossing Time suspeito plágio Puella Magi Madoka Magica
+[^ettoday-vk-882323]: [Criador de música de jogos denuncia VK por plágio: Música e ilustrações copiadas, plágio não deve ser tolerado — ETtoday Game Cloud](https://game.ettoday.net/article/882323.htm) — 11-03-2017 Denúncia completa de Waiting@H&&D; linha do tempo de 穿越雨時空 → 穿越時空 → tema da Liga das Deusas; Concerto em Xangai em 14/05/2016 + palestra de criação em 04/02/2017
 
-[^plurk-waiting]: [Waiting declaração Rayark "não uso de obras" Plurk](https://www.plurk.com/p/m4l9hh) — 2017 Waiting anuncia publicamente término colaboração com Rayark; assinou declaração não uso de obras; menciona relação colega ensino médio com fundador Rayark Tony
+[^cts-vk-201703131858055]: [VK acusado de plágio de composição; Rayark: Não haverá colaboração até o fim do incidente — CTS News](https://news.cts.com.tw/mol/campus/201703/201703131858055.html) — 13-03-2017 Transcrição completa do comunicado de desculpas da Rayark no FB; "Após a ocorrência do incidente, a Rayark não interrompeu totalmente as colaborações físicas com VK" + "No futuro, adotaremos o mesmo padrão de revisão de músicas; até que a controvérsia termine, não haverá colaboração de qualquer forma"; Suspeita de plágio de Puella Magi Madoka Magica em 穿越時空
 
-[^disp-bbs-vk]: [Compositor por Rayark apoiar VK envolvido em plágio rompe colaboração — Disp BBS fofoca](https://disp.cc/b/163-9Vfm) — 2017-03 PTT fofoca explosão; Waiting e fundador Rayark Tony relação colega ensino médio; linha do tempo completa evento
+[^plurk-waiting]: [Waiting Declaração de "Não Uso de Obras" Rayark Plurk](https://www.plurk.com/p/m4l9hh) — Em 2017, a Waiting anunciou publicamente o fim da cooperação com a Rayark; assinatura de uma declaração de não uso de obras; menção à relação de colegas de escola com Tony, fundador da Rayark
 
-[^cedargames-wiki]: [Red Candle Games — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B5%A4%E7%83%9B%E9%81%8A%E6%88%B2) — 2019-02-23 "Devotion" Steam China removido; 2019-02-26 Red Candle anuncia remoção total; 2019-04-19 Shanghai Orange Cat Information Technology investigada; 2019-06-17 Bureau Supervisão Mercado Yangpu revoga licença Shanghai Orange Cat
+[^disp-bbs-vk]: [Compositor encerra colaboração com Rayark devido a alegações de plágio — Disp BBS](https://disp.cc/b/163-9Vfm) — Discussão no PTT Gossiping Board em 2017-03; relação de colegas de escola entre Waiting e Tony, fundador da Rayark; linha do tempo completa do incidente
 
-[^namuwiki-ice]: [Ice (compositor) — NamuWiki](<https://en.namu.wiki/w/Ice(%EC%9E%91%EA%B3%A1%EA%B0%80)>) — Wilson Lam aka Ice; 2014 entrou Rayark; 2020-07-18 saída; 2022-07-17 via artigo revelou identidade real; atualmente ativo Spaceport Productions produz trance + hardcore tracks
+[^cedargames-wiki]: [Red Candle Games — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B5%A4%E7%83%9B%E9%81%8A%E6%88%B2) — 2019-02-23 Remoção de "Devotion" da Steam na China; 2019-02-26 Red Candle anuncia remoção total; 2019-04-19 Investigação oficial contra Shanghai Orange Cat Information Technology; 2019-06-17 Administração de Supervisão de Mercado do Distrito de Yangpu revoga a licença comercial da Shanghai Orange Cat
 
-[^facebook-iceloki]: [Ice - Spaceport Productions página Facebook](https://www.facebook.com/iceloki/) — Página FB pessoal ICE, mostra nome "Ice - Spaceport Productions", continua publicando criações musicais
+[^namuwiki-ice]: [Ice (compositor) — NamuWiki](<https://en.namu.wiki/w/Ice(%EC%9E%91%EA%B3%A1%EA%B0%80)>) — Wilson Lam, também conhecido como Ice; ingressou na Rayark em 2014; saiu em 2020-07-18; revelou sua identidade real através de um artigo em 2022-07-17; atualmente ativo na Spaceport Productions produzindo faixas de trance + hardcore
 
-[^x-iceloki]: [Ice@Spaceport Productions — X (Twitter)](https://x.com/ice_loki) — Conta X pessoal ICE, bio "Ice@Spaceport Productions", músico de Hong Kong
+[^facebook-iceloki]: [Ice - Página do Facebook da Spaceport Productions](https://www.facebook.com/iceloki/) — Página pessoal de FB de ICE, exibindo o nome "Ice - Spaceport Productions", publicando criações musicais continuamente
 
-[^bnext-59103]: [Desenvolvimento chegou a controvérsia plágio, Rayark amadureceu 4 anos chocou "Soul of Eden"! Semana ultrapassou 1,5 milhão downloads — Digital Era](https://www.bnext.com.tw/article/59103/rayark-soul-of-eden) — Soul of Eden desenvolvimento 4+ anos; primeira semana 1,5 milhão downloads; acusado copiar Clash Royale; resposta oficial Rayark
+[^x-iceloki]: [Ice@Spaceport Productions — X (Twitter)](https://x.com/ice_loki) — Conta pessoal de X de ICE, bio "Ice@Spaceport Productions", músico de Hong Kong
 
-[^steamcharts-deemo-reborn]: [DEEMO -Reborn- Steam Charts — Steambase](https://steambase.io/games/deemo-reborn/steam-charts) — DEEMO -Reborn- Steam 2020-09-03 lançamento; 20K-50K owners; 3.242 avaliações "Very Positive"
+[^bnext-59103]: [Após enfrentar suspeitas de plágio durante o desenvolvimento, Rayark levou 4 anos para lançar "Soul of Eden"! Ultrapassou 1,5 milhão de downloads em uma semana — Digital Age](https://www.bnext.com.tw/article/59103/rayark-soul-of-eden) — Soul of Eden desenvolvida por mais de 4 anos; 1,5 milhão de downloads na primeira semana; acusada anteriormente de copiar Clash Royale; resposta oficial da Rayark
 
-[^udn-moastray]: [Equipe de Taiwan produz "MO:Astray" — udn canto dos jogos](https://game.udn.com/game/story/10451/4126084) — MO: Astray 2019-2020 avaliações / tipo ação-puzzle
+[^steamcharts-deemo-reborn]: [DEEMO -Reborn- Steam Charts — Steambase](https://steambase.io/games/deemo-reborn/steam-charts) — DEEMO -Reborn- lançado na Steam em 2020-09-03; entre 20 mil e 50 mil proprietários; 3.242 avaliações "Muito Positivas"
+
+[^udn-moastray]: [Equipe taiwanesa produz "MO:Astray" — udn Game Corner](https://game.udn.com/game/story/10451/4126084) — Avaliações de MO: Astray entre 2019-2020 / gênero de ação e puzzle

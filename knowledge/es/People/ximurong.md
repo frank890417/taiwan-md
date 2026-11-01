@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T12:07:01+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:51:35.150226+00:00'
 ---
 
 # Hsu Muyun: una sinfonía de poesía entre la estepa y la modernidad
@@ -37,13 +37,13 @@ En 1949, a los seis años, Hsu Muyun se mudó a **Hong Kong** con su familia. El
 
 En 1954, Hsu Muyun se trasladó a **Taiwán** para establecerse allí. La vida durante la adolescencia en Taiwán, especialmente el paisaje natural y el entorno humano, proporcionó abundente materia prima para su poesía. Las montañas, los ríos, las flores y los cambios estacionales se convirtieron en imágenes recurrentes en sus poemas.
 
-## Estudios en la Facultad de Bellas Artes de la Universidad Normal de Taiwán
+## Sus años de formación en el Departamento de Bellas Artes de la Universidad Normal de Taiwán
 
-Tras finalizar la educación secundaria, Hsu Muyun ingresó en la **Facultad de Bellas Artes de la Universidad Normal de Taiwán**. La formación artística le brindó una aguda percepción de color y composición, elementos que luego se integraron plenamente en su creación poética. [^1]
+Tras graduarse de la escuela secundaria, Hsu Muyun ingresó en el Departamento de Bellas Artes de la Universidad Normal de Taiwán. La formación profesional en artes desarrolló su aguda percepción del color y la composición, cualidades artísticas que más tarde se integrarían en su creación poética. [^1]
 
-Durante su tiempo universitario, destacó en pintura y comenzó a explorar la escritura literaria, leyendo extensamente poesía de China y el extranjero. Las obras de poetas modernos tuvieron una gran influencia en ella, ayudándole a desarrollar su propio lenguaje poético.
+Durante su etapa en la universidad, Hsu Muyun alcanzó logros en la pintura y comenzó a experimentar con la creación literaria, leyendo extensamente poesía tanto china como extranjera. Las obras de los poetas modernos tuvieron una profunda influencia en ella, permitiéndole desarrollar gradualmente su propio lenguaje poético.
 
-Tras graduarse en 1966, viajó a **Brujas**, Bélgica, para estudiar en la **Academia Real de Bellas Artes**. Los museos, las catedrales y los edificios históricos de Europa dejaron una impresión profunda, ampliando su perspectiva creativa. [^2]
+Tras graduarse de la Universidad Normal de Taiwán en 1963, Hsu Muyun partió en 1964 hacia Bruselas para realizar estudios avanzados en la Academia Real de Bellas Artes de Brujas, graduándose en 1966. Los museos, las iglesias y la arquitectura antigua de Europa le causaron una profunda impresión, ampliando así su horizonte creativo. [^2]
 
 ## _Siete leguas de aroma_: una entrada estruendosa en el mundo poético
 
@@ -61,19 +61,19 @@ El poema _Un árbol en flor_ se convirtió en un clásico de la poesía en lengu
 
 Con su belleza lírica y emoción conmovedora, este poema sigue siendo ampliamente recitado hasta hoy.
 
-## _Juventud sin reproches_: una mirada poética sobre la vida y el tiempo
+## 《Sin quejas la juventud》: Un retorno poético a los años de juventud
 
-Publicado en 1982, _Juventud sin reproches_ continuó el éxito de _Siete leguas de aroma_. Este libro se centra en temas como la juventud, el amor y la amistad, mostrando una profunda reflexión sobre la vida. El poema que da nombre al libro, _Juventud sin reproches_, expresa el cariño por los años pasados y la celebración de la juventud. [^4]
+Publicado en 1983, 《Sin quejas la juventud》 continuó el éxito de 《Camellias》. Esta colección de poemas se centra en temas vitales como la juventud, el amor y la amistad, mostrando la profunda comprensión de la vida de la poeta. El poema que da título al poemario, 〈Sin quejas la juventud〉, expresa el anhelo por los años pasados y una alabanza a la juventud. [^4]
 
-La poesía de Hsu Muyun suele comenzar con una escena o imagen concreta, desarrollándose gradualmente hasta alcanzar una dimensión filosófica. Otra característica destacada de _Juventud sin reproches_ es su musicalidad: ritmos fuertes, ideales para la recitación, que permiten al lector experimentar la belleza de la poesía a través del sonido.
+La poesía de Xi Muyun suele partir de un escenario o un objeto concreto para desarrollarse gradualmente, alcanzando finalmente una dimensión filosófica. Otra característica de 《Sin quejas la juventud》 es su musicalidad: posee un fuerte sentido del ritmo, lo que la hace ideal para la recitación y permite a los lectores experimentar la belleza poética a través del sonido.
 
-## Creación en prosa y conexión con la herencia mongola
+## Creación de prosa y su conexión con Mongolia
 
-Además de la poesía, Hsu Muyun también es prosaísta. A finales de los años 80, publicó varios ensayos como _Huellas de la infancia_ y _Una canción_, manteniendo el estilo fresco y emotivo de su poesía, con un lenguaje bello y sentimientos auténticos.
+Además de la poesía, Hsu Muyun también fue una ensayista. A principios de la década de 1980, publicó sucesivamente colecciones de prosa como 《Huellas del crecimiento》 (1982) y 《Hay una canción》, manteniendo el estilo fresco de su poesía con una escritura hermosa y emociones sinceras.
 
-En 1989, visitó por primera vez la **estepa mongola**, un viaje de búsqueda de raíces que marcó un antes y un después en su vida. Comenzó a crear grandes cantidades de poesía y prosa con temáticas mongolas, como _Mi hogar está en la meseta_ y _Las montañas y los ríos me esperan_, que reflejan su amor por la estepa y su reflexión sobre la identidad cultural. Usó la forma de la poesía moderna para expresar su nostalgia por la cultura ancestral y su identificación con la etnia mongola. [^5]
+En 1989, pisó por primera vez las estepas de Mongolia; este viaje de búsqueda de sus raíces tuvo un profundo impacto en ella. Comenzó a crear una gran cantidad de poemas y prosa con temas mongoles; obras como 《Mi hogar está en la meseta》 y 《El paisaje espera》 muestran su afecto por la estepa y su reflexión sobre la cultura nacional. A través de la forma del verso libre moderno, expresó su nostalgia por las culturas antiguas y su identificación con la identidad étnica. [^5]
 
-Su libro de poemas _Dando nombre a los recuerdos_, publicado en 2019, representa su etapa tardía, con un tono más sereno y reflexivo al mirar atrás sobre su vida de errancia y búsqueda de identidad.
+《Nombrar mis recuerdos》, publicado en 2019, es su colección de poemas de sus últimos años; en ella, desde una edad avanzada, contempla el peregrinaje de toda una vida y la búsqueda de sus raíces, con un lenguaje que tiende a ser más sereno e introspectivo.
 
 ## La fusión perfecta entre pintura y poesía
 
@@ -95,19 +95,19 @@ A diferencia de la elegancia refinada de **Bai Si Yong** ([白先勇](/es/people
 
 ## Referencias
 
-[^1]: [Departamento de Bellas Artes de la Universidad Normal de Taiwán](https://www.ntnu.edu.tw/art/) — Información sobre el origen y los exalumnos destacados del departamento.
+[^1]: [Departamento de Bellas Artes de la Universidad Nacional de Taiwán Normal](https://www.ntnu.edu.tw/art/) — Contexto de la fundación del Departamento de Bellas Artes de la NTNU e información sobre sus exalumnos.
 
-[^2]: [Academia Real de Bellas Artes de Brujas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Institución de arte belga donde Hsu Muyun estudió.
+[^2]: [Academia Real de Bellas Artes de Bruselas (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Institución donde estudió Xi Murong; academia nacional de artes en Bélgica.
 
-[^3]: [Museo Nacional de Literatura de Taiwán — Exposición especial sobre Hsu Muyun](https://www.nmtl.gov.tw/) — Registro de publicación y reimpresiones de _Siete leguas de aroma_, incluyendo datos de ventas del libro y materiales de exposición.
+[^3]: [Museo Nacional de la Literatura de Taiwán — Exposición Especial de Xi Murong](https://www.nmtl.gov.tw/) — Registros de publicación y reedición de «Qilixiang», incluyendo datos de ventas del poemario y material de la exposición.
 
-[^4]: [Asociación Taiwanesa de Libros Electrónicos — Página de obras de Hsu Muyun](https://www.taaze.tw/) — Información sobre la edición original y año de publicación de _Juventud sin reproches_.
+[^4]: [Alianza de Libros Electrónicos de Taiwán — Página de las obras de Xi Murong](https://www.taaze.tw/) — Confirmación de los datos de la primera edición y el año de publicación de «Juventud sin remordimientos».
 
-[^5]: [Museo de Cultura Mongola — Creación literaria mongola de Hsu Muyun](https://www.mtac.gov.tw/) — Presentación institucional sobre la creación literaria de Hsu Muyun con temáticas mongolas.
+[^5]: [Centro de Cultura Mongola y Tibetana — Creaciones literarias mongolas de Xi Murong](https://www.mtac.gov.tw/) — Introducción temática de una institución gubernamental sobre la creación literaria mongola de Xi Murong.
 
-[^6]: [Sitio web oficial de Hsu Muyun](http://www.ximurong.tw) — Sitio web oficial de la poeta, que recopila información sobre obras, exposiciones y proceso creativo.
+[^6]: [Sitio web oficial de Xi Murong](http://www.ximurong.tw) — Sitio web oficial de la poeta, que recopila información sobre sus obras, registros de exposiciones de pintura y trayectoria creativa.
 
-[^7]: [Premio Nacional de Cultura — Fundación Nacional de Cultura y Arte](https://www.ncafroc.org.tw/) — Detalles de la distinción recibida por Hsu Muyun y comentarios de los jueces.
+[^7]: [Premios Nacionales de las Artes — Fundación Nacional para la Cultura y las Artes](https://www.ncafroc.org.tw/) — Registros de los premios obtenidos por Xi Murong y explicaciones del jurado.
 
 ## Lecturas relacionadas
 

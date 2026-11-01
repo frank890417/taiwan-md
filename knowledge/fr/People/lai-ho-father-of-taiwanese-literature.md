@@ -1,113 +1,114 @@
 ---
-title: 'Lai Ho : le « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais'
-description: "À la veille du Nouvel An de 1943, Lai Ho, médecin renommé de Changhua, brûla comme à son habitude les factures impayées de ses patients les plus démunis. Ce médecin, salué comme le « père de la littérature taïwanaise moderne », sauva des vies au scalpel sous l'oppression coloniale tout combattant l'injustice de sa plume. Son œuvre Une « balance » demeure aujourd'hui un symbole culturel de la résistance taïwanaise face à la violence du pouvoir."
+title: 'Lai He : la « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais'
+description: "Avant le réveillon de 1943, le célèbre médecin de Changhua, Lai He, brûlait les dettes de ses patients pauvres. Père de la nouvelle littérature taïwanaise, il soignait par le scalpel et critiquait l'injustice par la plume sous la pression coloniale."
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'People'
 tags:
   [
-    'Lai Ho',
+    'Lai He',
     'Littérature taïwanaise',
     'Changhua',
-    'Période coloniale japonaise',
+    'Époque coloniale japonaise',
     'Histoire de la médecine',
-    'Mouvements sociaux',
+    'Mouvement social',
   ]
-readingTime: 12
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-translatedFrom: People/賴和.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ea423174510ba903'
+readingTime: 12
+translatedFrom: 'People/賴和.md'
+sourceCommitSha: '716685aa1'
+sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-10-24T09:47:27+08:00'
 ---
 
-> **En 30 secondes :** Lai Ho (1894-1943) fut le médecin-écrivain le plus influent de la période coloniale japonaise. D'une main, il maniait le scalpel pour soigner les pauvres, ce qui lui valut les surnoms de « Mazu de Changhua » et de « Ho-tzu Sien » ; de l'autre, il tenait la plume pour fonder la littérature taïwanaise en langue vernaculaire et dénoncer les injustices du régime colonial. Sa vie incarne le combat et la dignité des Taïwanais sous la domination japonaise — en particulier sa tradition annuelle de brûler les dettes de ses patients démunis à chaque Nouvel An, ainsi que ses écrits rédigés en prison, qui restent aujourd'hui un modèle d'éthique médicale et d'engagement humaniste.
+> **Aperçu en 30 secondes :** Lai He (1894-1943) était l'un des médecins et écrivains les plus influents de l'époque coloniale japonaise. D'une main, il utilisait son scalpel pour soigner les nécessiteux, gagnant les titres de « Mazu de Changhua » et de « He-zai Xian » ; de l'autre, il maniait la plume pour fonder la littérature taïwanaise en langue vernaculaire et dénoncer les injustices du régime colonial. Sa vie incarne la lutte et la dignité des Taïwanais sous domination japonaise, notamment à travers son geste de compassion consistant à brûler chaque année les dettes de ses patients avant le Nouvel An, ainsi que ses écrits de prison, qui demeurent des modèles d'éthique médicale et d'humanisme à Taïwan.
 
-« En ce monde, le pouvoir n'a pas droit de cité ; le combattant doit lutter pour la justice. »[^1]
+« Le monde n'autorise pas l'existence du pouvoir ; le guerrier doit lutter pour la justice. »[^1]
 
-Le 8 décembre 1941, jour de l'attaque de Pearl Harbor, un médecin de Changhua, moustaches en forme de huit et vêtu d'une tenue locale (vêtement traditionnel taïwanais léger), fut emmené sans raison apparente par la gendarmerie japonaise. C'était sa deuxième incarcération. En prison, il écrivit sur du papier grossier son _Journal de prison_, chargé de réflexion et de tension contenue.
+Le 8 décembre 1941, le jour de l'attaque de Pearl Harbor, un médecin de la ville de Changhua arborant une moustache et vêtu d'un _běndǎo shān_ (tenue traditionnelle taïwanaise légère) fut emmené sans motif par la police militaire japonaise. C'était sa deuxième incarcération. En prison, il rédigea son _Journal de prison_, un texte empreint d'oppression et de réflexion sur du papier rudimentaire.
 
-Ce médecin s'appelait Lai Ho, mais il était plus largement connu comme le « père de la littérature taïwanaise moderne ».
+Ce médecin s'appelait Lai He, mais il est plus largement connu comme le « Père de la nouvelle littérature taïwanaise ».
 
-### Le « Mazu de Changhua » dans le cabinet médical : l'éveil d'un soignant de Chiayi à Xiamen
+### La « Mazu de Changhua » dans son cabinet : de Chiayi à Xiamen, l'éveil d'un médecin
 
-En 1914, après avoir obtenu son diplôme de l'École de médecine du Gouvernement général de Taïwan, Lai Ho effectua d'abord un stage à Taipei, puis travailla à l'Hôpital de Chiayi du Gouvernement général de Taïwan (prédécesseur de l'actuel Hôpital de Chiayi du Ministère de la Santé et du Bien-être) entre 1914 et 1915.[^2] En 1918, il partit pour l'île de Gulangyu à Xiamen comme médecin à l'Hôpital Bo'ai, où il fut témoin du courant de pensée du Mouvement du 4 Mai et des réalités de la société chinoise. En 1919, il revint à Taïwan et ouvrit le « Cabinet médical Lai Ho » à Changhua.[^3]
+En 1914, après avoir été diplômé de l'École de médecine du Gouvernement général de Taïwan, Lai He effectua un stage à Taipei, puis travailla entre 1914 et 1915 à l'hôpital de Chiayi du Gouvernement général (l'ancêtre de l'actuel hôpital de Chiayi du Ministère de la Santé et du Bien-être).[^2] En 1918, il partit travailler à l'hôpital Bo'ai de l'île de Gulangyu à Xiamen, où il fut témoin des courants de pensée du Mouvement du 4 mai et de la réalité sociale chinoise. De retour à Taïwan en 1919, il ouvrit le « Cabinet médical Lai He » à Changhua.[^3]
 
-À une époque coloniale marquée par une hiérarchie de classes rigide, Lai Ho choisit d'abandonner le costume occidental pour porter régulièrement la tenue locale — un geste qui relevait moins de la mode vestimentaire que d'une prise de position politique : le refus du système bureaucratique colonial et le choix du camp des classes populaires.[^4]
+Dans une ère coloniale aux hiérarchies rigides, Lai He choisit de délaisser le costume occidental pour porter durablement le _běndǎo shān_. Ce n'était pas qu'un choix vestimentaire, mais une prise de position politique : refuser le système bureaucratique colonial et se tenir aux côtés du peuple.[^4]
 
-Les habitants le surnommaient « Mazu de Changhua », « Ho-tzu Sien » ou « Hua Tuo revenu parmi les hommes ». Le geste le plus émouvant était sa tradition annuelle à la veille du Nouvel An : il brûlait les factures médicales de ses patients les plus démunis, afin qu'ils puissent « passer le Nouvel An sans dette ». Un jour, un patient vint rembourser en urgence la veille du Nouvel An ; Lai Ho sourit : « La reconnaissance de dette a déjà été brûlée, ce n'est pas grave, vous n'avez pas à rembourser. »[^5] À côté de son cabinet se trouvait le « Lin Pao Kuan » (asile pour mendiants), où il invitait souvent des vieux bardes itinérants à jouer du lune-luth et transcrivait des chansons populaires comme _Chinyi Yikoche_ (sur le soulèvement de Dai Wansheng), étroitement mêlant pratique médicale et préservation culturelle.[^6]
+Les habitants locaux le surnommaient respectueusement « Mazu de Changhua », « He-zai Xian » ou encore la « réincarnation de Hua Tuo ». Le geste le plus émouvant était sa tradition précédant chaque réveillon : brûler les factures médicales des patients démunis pour qu'ils puissent « passer le Nouvel An sans dettes ». Lorsqu'un patient accourut pour rembourser le jour du réveillon, il répondit avec un sourire : « La reconnaissance de dette a déjà été brûlée, ne vous inquiévez pas pour le remboursement. »[^5] À côté de son cabinet se trouvait le « Linbao guan » (maison de charité pour les nécessiteux), où il invitait souvent de vieux ménestrels à jouer du _yueqin_ (luth lunaire) et recopiait des chansons populaires telles que _Xinyou yi ge shi_ (sur l'insurrection de Dai Wansheng), liant ainsi pratique médicale et préservation culturelle.[^6]
 
-### La balance brisée : le cri littéraire après l'incident de Erlin
+### La balance brisée : le cri littéraire après l'incident d'Erlin
 
-La littérature de Lai Ho fut toujours étroitement liée à des événements historiques concrets. En 1925, l'« Incident des planteurs de canne à sucre d'Erlin » éclata : des paysans se soulevèrent contre l'exploitation de la Compagnie sucrière et furent réprimés par la police. Cet événement inspira à Lai Ho son premier poème moderne, _Le Sacrifice de l'éveil_.[^7] Publié en février 1926, _Une « balance »_ devint l'emblème de cet esprit de résistance.
+L'œuvre littéraire de Lai He est restée indissociable des événements historiques. Lors de l'éclatement de l'« Incident des planteurs de canne à sucre d'Erlin » en 1925, où les paysans furent réprimés par la police après avoir résisté à l'exploitation de la compagnie sucrière, il écrivit son premier poème moderne, _Sacrifice sous l'éveil_.[^7] Son texte publié en février 1926, _Une balance_ (一桿「稱仔»), est le symbole même de cet esprit de résistance.
 
-La balance brisée par le policier dans le récit symbolise la violence avec laquelle le colonisateur manipulait arbitrairement la loi et le pouvoir.[^8] Dans sa postface, Lai Ho mentionna que l'œuvre avait été profondément influencée par _Le Crime de Sylvestre Bonnard_ d'Anatole France (法朗士), mais qu'il l'avait transformée en expérience locale taïwanaise, illustrant la « résistance des faibles ».[^9]
+La balance brisée par un policier dans le récit symbolise la violence des colonisateurs manipulant arbitrairement la loi et le pouvoir.[^8] Dans sa postface, Lai He mentionne que cette œuvre fut influencée par l'écrivain français Anatole France et son texte _Clagbay_, mais il l'a transformée pour refléter l'expérience locale taïwanaise, illustrant « la lutte des faibles ».[^9]
 
-Par ailleurs, le long poème _Élégie pour le pays du sud_, publié en avril 1931 sous le pseudonyme « An Tou Sheng » dans le _Nouveau Journal populaire de Taïwan_, constitue une œuvre majeure de commémoration de l'incident de Wushe et de dénonciation de la violence coloniale.[^10]
+Par ailleurs, son long poème _Élégie des terres méridionales_, publié en avril 1931 sous le pseudonyme d'An Dusheng dans le _Taiwan Sinmin Bao_, est une œuvre majeure dénonçant la violence coloniale et commémorant l'incident de Wushe.[10]
 
-### _En avant_ : la lucidité dans les ténèbres et l'inquiétude face à la scission gauche-droite
+### « En avant » : lucidité dans les ténèbres et crainte des divisions
 
-En 1927, l'Association culturelle de Taïwan faisait face à une grave scission entre gauche et droite. En tant que membre du conseil de l'association, Lai Ho était profondément préoccupé par les luttes internes qui minaient le mouvement. Dans sa prose _En avant_, il écrivit sous forme allégorique :
+En 1927, l'Association culturelle de Taïwan faisait face à de graves divisions entre les courants gauche et droite. En tant que membre du conseil de l'association, Lai He s'inquiétait profondément de l'épuisement interne du mouvement. Dans son essai _En avant_, il utilisa une approche allégorique :
 
-« Dans ces ténèbres, il n'était pourtant pas possible de ne reculer. Nous ne savions pas d'où nous venait ce courage qui nous avançait sans crainte vers la route inconnue. »[^11]
+« Au milieu de ces ténèbres, il n'est même pas possible de ne pas avancer. Nous ignorons d'où nous vient ce courage qui nous permet de marcher sans crainte vers cet inconnu. »[^11]
 
-La fin du récit, où les deux personnages se séparent, symbolise la divergence des intellectuels sur les voies de la lutte. Il appelait avec force à l'union, afin d'éviter la dispersion de forces déjà limitées.[^12] Cette préoccupation se manifestait aussi dans son soutien aux jeunes écrivains : Yang Kui, Wang Shilang, Lü Heruo, Wu Zhuoliu, Ye Shita et d'autres bénéficièrent tous de ses conseils et de son aide.[^13]
+La fin du récit montre deux personnages prenant des chemins différents, symbolisant les divergences des intellectuels sur la ligne de lutte. Il appelait à l'unité pour éviter que des forces limitées ne s'épuisent mutuellement.[^12] Ce souci d'accompagnement se manifestait aussi par son soutien aux écrivains de la génération suivante, tels que Yang Kui, Wang Shilang, Lü Heruo, Wu Zhuoli et Ye Shitao, qu'il guida et soutint.[13]
 
-### Langue et identité : recoudre le taïwanais dans la fracture
+### Langue et identité : recoudre le taïwanais dans les fractures
 
-Formé à la littérature chinoise classique, Lai Ho, entre la formation médicale moderne et le contexte colonial, ne cessa d'explorer l'espace entre le « taïwanais écrit » et la langue vernaculaire chinoise. Lors de ses créations, il pensait d'abord en chinois classique, rédigeait en mandarin, puis intégrait délibérément des termes du minnan (taïwanais) tels que « 稱仔 » (balance), « 贌 » (location), « 刻虧 » (exploitation), afin de se rapprocher du langage quotidien et de l'expérience de vie du peuple taïwan.[^14]
+Éduqué à la tradition sinologique classique, mais formé à la médecine moderne dans un contexte colonial, Lai He a constamment exploré une voie entre le « texte en langue taïwanaise » (_Taiwan-hua wen_) et le chinois vernaculaire de Chine. Lors de ses créations, il pensait souvent d'abord en chinois classique ou en dialecte de Pékin, avant d'y intégrer délibérément des termes du Hokkien (taïwanais) comme _cheng-zai_, _lang_ ou _ke-kui_, cherchant à se rapprocher de la langue quotidienne et de l'expérience de vie du peuple taïwanais.[14]
 
-| Œuvre majeure                | Date de publication | Thème central et lien historique                                                                     |
-| ---------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------- |
-| _Dou Nao Re_ (Vacarme)       | 1926.01             | Critique des coutumes féodales et du gaspillage, description fidèle de la vie des classes populaires |
-| _Une « balance »_            | 1926.02             | Critique de la violence légale, écho à l'incident des planteurs de canne à sucre d'Erlin             |
-| _Monsieur Serpent_           | 1930.01             | Conflit entre médecine moderne et croyances populaires, critique sociale                             |
-| _Élégie pour le pays du sud_ | 1931.04             | Commémoration de l'incident de Wushe, long poème de protestation majeur de la période coloniale      |
-| _L'histoire du bon plaideur_ | 1934.12             | Satire du système juridique colonial et de son exploitation du peuple                                |
+| Œuvres majeures                    | Date de publication | Thèmes centraux et contexte historique                                                   |
+| :--------------------------------- | :------------------ | :--------------------------------------------------------------------------------------- |
+| 〈Dou nao re〉                     | 01.1926             | Critique des coutumes féodales et du gaspillage ; portrait réaliste de la vie populaire  |
+| 〈Une balance〉                    | 02.1926             | Critique de la violence juridique ; écho à l'incident d'Erlin                            |
+| 〈Monsieur Serpent〉               | 01.1930             | Conflit entre médecine moderne et croyances populaires ; critique sociale                |
+| 〈Élégie des terres méridionales〉 | 04.1931             | Commémoration de l'incident de Wushe ; poème de protestation majeur sous l'ère coloniale |
+| 〈L'histoire d'un homme juste〉    | 12.1934             | Satire de l'exploitation du peuple par le système juridique colonial                     |
 
-### L'écho du combattant : une icône littéraire au Temple des Martyrs
+### L'écho du guerrier : un totem littéraire au Temple des Martyrs
 
-Le 31 janvier 1943, Lai Ho mourut d'une maladie cardiaque à l'âge de 49 ans (50 ans en âge traditionnel). Né en 1894, l'année de la cession de Taïwan au Japon, et mort deux ans avant la défaite japonaise, il témoigna toute sa vie d'un demi-siècle de souffrance coloniale. Dans son testament, il déclara avec humilité que ses œuvres « n'avaient pas grande valeur et qu'on pouvait les brûler sans regret ».[^15]
+Lai He décéda d'une maladie cardiaque le 31 janvier 1943, à l'âge de 49 ans (50 ans selon l'âge traditionnel). Né en 1894, l'année où Taïwan fut cédée au Japon, et mort deux ans avant la défaite du Japon, il fut le témoin complet d'un demi-siècle de souffrance coloniale. Dans son testament, il déclara humblement que ses œuvres « n'avaient que peu de valeur, il ne poserait pas de problème de les brûler ».[^15]
 
-Après la guerre, Lai Ho fut inscrit au Temple des Martyrs en 1951, en fut retiré en 1958 pour des raisons politiques, puis réhabilité et réinscrit en 1984.[^16] Aujourd'hui, le « Mur poétique de Lai Ho » au pied du mont Bagua à Changhua (composé de cent plaques d'acier) porte gravées ses œuvres, et chaque année la « Journée Lai Ho » perpétue son esprit.[^17]
+Après la guerre, Lai He fut inscrit au Temple des Martyrs en 1951, retiré pour des raisons politiques en 1958, puis réhabilité et honoré à nouveau en 1984.[16] Aujourd'hui, le « Mur de poésie de Lai He » (composé de plaques d'acier) au pied de la montagne Bagua à Changhua grave ses œuvres, et des activités continuent de perpétuer son esprit chaque année lors de la « Journée Lai He ».[17]
 
-**Note du conservateur :** L'histoire de Lai Ho nous enseigne que la résistance la plus puissante n'est pas celle des armes, mais la compassion envers autrui et une soif de justice qui ne s'éteint jamais. Ses écrits et son image en tenue locale sont devenus l'ADN de la littérature taïwanaise, permettant aux générations futures de garder, même dans les ténèbres, le courage d'avancer.
+📝 **Note du commissaire :** L'histoire de Lai He nous enseigne que la forme de résistance la plus puissante n'est pas l'arme, mais la compassion pour l'humain et le désir inextinguible de justice. Ses écrits et son image en tenue locale sont devenus l'ADN de la littérature taïwanaise, permettant aux générations futures de garder le courage d'avancer dans l'obscurité.
 
 ### Références
 
-[^1]: [Lai Ho, _Notre peuple_, _Journal populaire de Taïwan_, 1925](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Poème de jeunesse de Lai Ho exprimant la conscience de lutte : « En ce monde, le pouvoir n'a pas droit de cité ; le combattant doit lutter pour la justice »
+[^1]: [Lai He 〈Wuren〉 (Page auteur de Wikisource)](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Poème en sept caractères. La phrase « Le monde n'autorise pas l'existence du pouvoir ; le guerrier doit lutter pour la justice » provient de ce poème. La date exacte de publication dans les journaux reste à confirmer : Wikisource l'inscrit entre 1918 et 1943 sans date précise. La note originale mentionnait « Taiwan Minbao 1925 », mais le lien ne supporte pas cette année ; supprimé le 24-10-2026 (issue #1897). Pour la datation, consulter les _Œuvres complètes de Lai He_ ou la Fondation culturelle et éducative Lai He.
 
-[^8]: [Ye Shita, _Esquisse d'une histoire de la littérature taïwanaise_ (Éditions Qianwei, 1987)](https://search.worldcat.org/title/16894890) — Première étude systématique de l'histoire littéraire taïwanaise, décrivant _Une « balance »_ comme une œuvre majeure de critique de la violence légale coloniale
+[^8]: [Ye Shitao, 《Histoire de la littérature taïwanaise》 (Éditions Avant-garde, 1987)](https://search.worldcat.org/title/16894890) — Premier ouvrage systématique sur l'histoire littéraire de Taïwan, décrivant _Une balance_ comme une œuvre représentative de la critique de la violence juridique coloniale.
 
-[^9]: [Lai Ho, postface d'_Une « balance »_, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lai Ho relate l'influence d'Anatole France sur cette œuvre
+[^9]: [Postface de Lai He 〈Une balance〉, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lai He explique lui-même l'influence d'Anatole France et de son texte _Clagbay_ sur cette œuvre.
 
-[^17]: [Bureau de la culture du comté de Changhua : Sentier littéraire du mont Bagua et Mur poétique de Lai Ho](https://www.bocach.gov.tw/) — Cent plaques d'acier gravées des œuvres de Lai Ho ; la « Journée Lai Ho » perpétue son esprit chaque année
+[^17]: [Bureau de la culture du comté de Changhua : Sentier littéraire de Bagua et Mur de poésie de Lai He](https://www.bocach.gov.tw/) — Plaques d'acier gravées des œuvres de Lai He, perpétuant son esprit lors de la « Journée Lai He ».
 
-[^11]: [Lai Ho, prose _En avant_, _Journal populaire de Taïwan_, 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Récit allégorique sur la scission de l'Association culturelle, appelant à l'union pour éviter la dispersion des forces
+[^11]: [Essai de Lai He 〈En avant〉, _Taiwan Minbao_ 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Utilisation de l'allégorie pour exprimer l'inquiétude face à la division de l'Association culturelle et appel à l'unité.
 
-[^15]: [Lin Ruiming, _Lai Ho et le mouvement de la littérature taïwanaise moderne_ (Éditions Qianwei)](https://search.worldcat.org/title/35884019) — Ouvrage de référence sur les études de Lai Ho, incluant la mention du testament : « n'avaient pas grande valeur et qu'on pouvait les brûler sans regret »
+[^15]: [Lin Rui-ming, 《Lai He et le mouvement de la nouvelle littérature taïwanaise》 (Éditions Avant-garde)](https://search.worldcat.org/title/35884019) — Ouvrage de référence sur Lai He, incluant son humble déclaration dans son testament : « n'avaient que peu de valeur, il ne poserait pas de problème de les brûler ».
 
-[^12]: [Société Soka Gakkai de Taïwan, _Lai Ho : l'humaniste en action_](https://www.twsgi.org.tw/index-author.php?author_id=129) — Chronique de critique littéraire sur Lai Ho
+[^12]: [Soka Gakkai Taïwan 〈Lai He : un humaniste en action〉](https://www.twsgi.org.tw/index-author.php?author_id=129) — Revue littéraire sur Lai He : voir le contenu du lien original.
 
-[^2]: [Lai Ho — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Biographie 1894-1943 + diplôme de l'École de médecine + stage à l'Hôpital de Chiayi et autres données de base
+[^2]: [Lai He — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Données biographiques 1894-1943, diplôme de médecine et stage à l'hôpital de Chiayi.
 
-[^3]: [Mémoire de Taïwan — Bibliothèque nationale](https://tm.ncl.edu.tw/) + [Open Museum — Collection Lai Ho](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Registres de l'exercice à l'Hôpital Bo'ai de Gulangyu, Xiamen, en 1918
+[^3]: [Mémoire de Taïwan — Bibliothèque nationale](https://tm.ncl.edu.tw/) — + [Archives Open Museum Lai He](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Registre de son poste à l'hôpital Bo'ai de Xiamen en 1918.
 
-[^4]: [Site officiel de la Fondation culturelle et éducative Lai Ho](https://www.laiho.org.tw/) — Registres sur la signification politique du port de la tenue locale
+[^4]: [Site officiel de la Fondation culturelle et éducative Lai He](https://www.laiho.org.tw/) — Documentation sur le choix politique du style vestimentaire _běndǎo shān_.
 
-[^5]: [Fondation culturelle et éducative Lai Ho : tradition orale de la combustion des factures](https://www.laiho.org.tw/) — « Mazu de Changhua » et « Ho-tzu Sien » brûlant chaque année les dettes des patients démunis à la veille du Nouvel An
+[^5]: [Fondation culturelle et éducative Lai He : Témoignages sur la tradition de brûler les dettes](https://www.laiho.org.tw/) — « Mazu de Changhua » et « He-zai Xian » brûlant les dettes des patients pauvres avant le réveillon.
 
-[^6]: [Fondation culturelle et éducative Lai Ho : le Lin Pao Kuan et la préoccupation sociale](https://www.laiho.org.tw/) — Le « Lin Pao Kuan » à côté du cabinet médical, invitation de vieux bardes itinérants à transcrire des chansons populaires comme _Chinyi Yikoche_
+[^6]: [Fondation culturelle et éducative Lai He : Le Linbao guan et l'engagement social](https://www.laiho.org.tw/) — Le « Linbao guan » près du cabinet où il invitait les ménestres à recopier des chansons populaires comme _Xinyou yi ge shi_.
 
-[^7]: [Musée numérique littéraire de l'industrie sucrière taïwanaise : l'incident d'Erlin et _Le Sacrifice de l'éveil_](https://jiayichinese.pixnet.net/blog/posts/8041877028) — L'incident des planteurs de canne à sucre d'Erlin en 1925 inspira le premier poème moderne de Lai Ho
+[^7]: [Musée numérique de l'industrie sucrière de Taïwan : L'incident d'Erlin et 〈Sacrifice sous l'éveil〉](https://jiayichinese.pixnet.net/blog/posts/8041877028) — L'incident des planteurs d'Erlin en 1925 a inspiré le premier poème moderne de Lai He.
 
-[^10]: [_Élégie pour le pays du sud_ — Wikisource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Publié les 25 avril et 2 mai 1931 dans le _Nouveau Journal populaire de Taïwan_, long poème commémorant l'incident de Wushe
+[^10]: [〈Élégie des terres méridionales〉 — Wikisource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Publié les 25/04 et 02/05 1931 dans le _Taiwan Sinmin Bao_, long poème commémorant l'incident de Wushe.
 
-[^13]: [Ye Shita, _Esquisse d'une histoire de la littérature taïwanaise_ — mentions du soutien aux jeunes écrivains](https://search.worldcat.org/title/16894890) — Registres du soutien de Lai Ho à Yang Kui, Wang Shilang, Lü Heruo, Wu Zhuoliu, Ye Shita et d'autres jeunes écrivains
+[^13]: [Ye Shitao, 《Histoire de la littérature taïwanaise》 — Mentions sur son soutien aux jeunes auteurs](https://search.worldcat.org/title/16894890) — Registre du soutien apporté par Lai He à Yang Kui, Wang Shilang, Lü Heruo, Wu Zhuoli et Ye Shitao.
 
-[^14]: [Étude sur l'usage linguistique dans les Œuvres complètes de Lai Ho — éd. Lin Ruiming et al.](https://www.laiho.org.tw/) — Exploration du « taïwanais écrit » à travers la triple fusion du chinois classique, du mandarin et du minnan
+[^14]: [Étude sur l'usage de la langue dans les œuvres complètes de Lai He — éd. Lin Rui-ming et al.](https://www.laiho.org.tw/) — Recherche sur l'exploration du « texte en langue taïwanaise » fusionnant chinois classique, dialecte de Pékin et Hokkien.
 
-[^16]: [Temple des Martyrs (Taïwan) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Registres de l'inscription de Lai Ho en 1951, de son retrait en 1958 pour raisons politiques, et de sa réinscription après réhabilitation en 1984
+[^16]: [Temple des Martyrs (Taïwan) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Registre de l'entrée au temple en 1951, le retrait en 1958 pour raisons politiques et la réhabilitation en 1984.

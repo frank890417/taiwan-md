@@ -1,20 +1,20 @@
 ---
-title: 'Melihat Taiwan 22 Kabupaten/Kota Melalui Data: Perbedaan Kepadatan 151 Kali Lipat, Perbedaan Usia Hampir Satu Generasi'
-description: 'Di pulau yang sama, kepadatan penduduk tertinggi Kota Taipei mencapai 8.975 orang per km², sementara Kabupaten Taitung hanya 59 orang per km²—perbedaan 151 kali lipat. Populasi terbesar Kota Xinbei 4,04 juta, terkecil Kabupaten Lienchiang 13.621, perbedaan 297 kali lipat. Tingkat penuaan tertinggi Kabupaten Hsinchu 15,08%, terendah Kabupaten Chiayi 24,11%—hampir satu generasi. Menggunakan data resmi Kementerian Dalam Negeri akhir 2025, artikel ini melukis potret Taiwan yang terukur dan dapat diverifikasi: tujuh puluh persen penduduk menempati tiga puluh persen lahan, garis depan penuaan bukan di kota tetapi di timur, pulau terpencil, dan kabupaten pertanian, dan di semua 22 kabupaten/kota Taiwan tanpa terkecuali, kematian telah melampaui kelahiran.'
+title: 'Melihat 22 kabupaten/kota Taiwan lewat data: selisih kepadatan paling tinggi dan terendah 151 kali, rasio lansia terhadap anak-anak dari 1:1 hingga hampir 3:1'
+description: 'Di pulau yang sama, Kota Taipei memiliki 8.975 orang per kilometer persegi, sedangkan Kabupaten Taitung hanya 59 orang, selisih 151 kali. Menggunakan data Biro Administrasi Kependudukan Kementerian Dalam Negeri akhir 2025 untuk menggambarkan potret 22 kabupaten/kota yang dapat diverifikasi: 70 persen penduduk mengumpul di 30 persen lahan, proporsi lansia tertinggi justru di Taipei yang paling padat, sedangkan Kabupaten Chiayi dengan rasio lansia terhadap anak-anak tertinggi hampir mencapai 3:1. Semua 22 kabupaten/kota tanpa pengecualian, kematian sudah melebihi kelahiran.'
 date: 2026-06-06
 category: 'Geography'
 tags:
   [
-    'statistik populasi',
-    'penuaan',
-    'masyarakat super-lansia',
-    'enam kota besar',
-    'kesenjangan urban-rural',
-    'kepadatan penduduk',
-    'indeks penuaan',
-    'kelahiran rendah',
-    'visualisasi data',
-    'seri 22 kabupaten/kota',
+    'Statistik Kependudukan',
+    'Penuaan Penduduk',
+    'Masyarakat Super Lanjut Usia',
+    'Enam Kota Metropolitan',
+    'Kesenjangan Kota-Desa',
+    'Kepadatan Penduduk',
+    'Indeks Penuaan',
+    'Rendahnya Angka Kelahiran',
+    'Visualisasi Data',
+    'Seri 22 Kabupaten/Kota',
   ]
 subcategory: '人口與區域'
 author: 'Taiwan.md'
@@ -23,32 +23,32 @@ featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
-imageAlt: 'Citra satelit Taiwan dari luar angkasa menunjukkan dataran barat dan Pegunungan Pusat di timur dengan jelas'
+imageAlt: 'Gambar satelit pulau utama Taiwan dilihat dari luar angkasa, dataran barat dan pegunungan tengah timur terlihat jelas'
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:426316f6a96d8460'
-sourceBodyHash: 'sha256:035cd9cc6b8c328a'
-translatedAt: '2026-10-15T02:50:43.591252+00:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceBodyHash: 'sha256:4da0398520125992'
+translatedAt: '2026-10-23T16:28:22.004147+00:00'
 ---
 
-# Melihat Taiwan 22 Kabupaten/Kota Melalui Data: Perbedaan Kepadatan 151 Kali Lipat, Perbedaan Usia Hampir Satu Generasi
+# Melihat 22 Kabupaten/Kota Taiwan dengan Data: Kepadatan Terpadat dan Tersepi Berbeda 151 Kali, Rasio Lansia dan Anak dari Satu Banding Satu Hingga Hampir Tiga Banding Satu
 
-Berkendara dari Distrik Xinyi Taipei ke selatan dan timur, akhirnya tiba di pusat Kota Taitung. Navigasi menunjukkan lebih dari tiga ratus kilometer, tidak sampai sehari berkendara. Tetapi jika Anda mengalihkan perhatian ke skala lain—berapa banyak orang per kilometer persegi di luar jendela—perjalanan itu terasa seperti menembus dua negara. Kota Taipei, tempat Distrik Xinyi berada, memiliki 8.975 orang per kilometer persegi. Kabupaten Taitung, tempat Kota Taitung berada, hanya memiliki 59 orang per kilometer persegi. Pulau yang sama, paspor yang sama, kepadatan berbeda 151 kali lipat.
+Mengemudi dari Distrik Xinyi Taipei ke selatan, ke timur, hingga tiba di wilayah Kota Taitung. Navigasi menunjukkan 300-an kilometer, kurang dari sehari berkendara. Tapi jika Anda mengubah fokus ke skala lain—berapa orang per kilometer persegi di luar jendela—perjalanan itu terasa seperti menembus dua negara. Kota Taipei tempat Distrik Xinyi berada, memiliki 8.975 orang per kilometer persegi. Kabupaten Taitung tempat Kota Taitung berada, hanya 59 orang per kilometer persegi. Pulau yang sama, paspor yang sama, kepadatan berbeda 151 kali.
 
-Angka ini bukan trik nilai ekstrem. Ini adalah kesenjangan nyata di dalam Taiwan. Kami terbiasa membicarakan "Taiwan" sebagai satu kesatuan—ekonominya, pemilihannya, kelahiran rendahnya—tetapi ketika Anda membuka seluruh data kabupaten/kota dari Kementerian Dalam Negeri akhir 2025, Anda akan menemukan bahwa tidak ada Taiwan yang homogen. Ada orang yang berderet di hutan semen menunggu lampu merah, ada orang yang berkendara sepuluh menit tanpa melihat mobil kedua. Beberapa kabupaten/kota masih berkembang, sebagian besar menyusut. Sudut termuda dan sudut tertua berbeda hampir satu generasi.
+Angka ini bukan mainan nilai ekstrem. Ini adalah kesenjangan nyata internal Taiwan. Kita terbiasa membicarakan "Taiwan" sebagai satu kesatuan—ekonominya, pemilunya, kelangkaan kelahirannya—tapi saat Anda membuka seluruh data kabupaten/kota Kementerian Dalam Negeri Akhir 2025, Anda akan menemukan tidak ada Taiwan yang homogen. Ada yang berdesakan di hutan beton mengantri lampu merah, ada yang mengemudi sepuluh menit tanpa melihat mobil kedua. Beberapa kabupaten/kota masih tumbuh, kebanyakan menyusut. Di sudut paling muda, lansia dan anak-anak jumlahnya hampir sama. Di sudut paling tua, satu anak harus menghadapi hampir tiga lansia.
 
 ```tw-figure
-151 kali lipat
-Perbedaan kepadatan penduduk antara Kota Taipei dan Kabupaten Taitung: 8.975 orang/km² vs 59 orang/km²
-Kementerian Dalam Negeri, akhir 2025
+151 Kali
+Kesenjangan Kepadatan Penduduk Kota Taipei dan Kabupaten Taitung: 8.975 orang vs 59 orang per kilometer persegi
+Kementerian Dalam Negeri, Akhir 2025
 ```
 
-Artikel ini ingin melakukan satu hal: menggunakan data resmi untuk melukis potret pulau yang terukur dan dapat diverifikasi. Setelah selesai, Anda akan melihat wajah yang sangat terpolarisasi dan sedang menua dengan cepat.[^1]
+Artikel ini ingin melakukan satu hal: menggunakan data resmi, menggambar potret seluruh pulau ini yang berskala dan dapat diverifikasi. Setelah selesai, Anda akan melihat wajah yang sangat terpecah, dan yang sedang menua dengan cepat.[^1]
 
-> **Ringkasan 30 detik:** Akhir 2025, total populasi Taiwan 23.299.132 orang (sekitar 23,3 juta), telah berkurang selama 23 bulan berturut-turut, bayi baru lahir pertama kali turun di bawah 110.000. Tahun yang sama Taiwan secara resmi memasuki "masyarakat super-lansia," satu dari lima orang berusia di atas 65 tahun. Namun rata-rata nasional menyembunyikan kesenjangan internal yang besar: kepadatan penduduk tertinggi dan terendah berbeda 151 kali lipat, skala populasi berbeda 297 kali lipat, tingkat penuaan berbeda hampir satu generasi. Penduduk terkonsentrasi di enam kota besar, garis depan penuaan bukan di kota tetapi di timur, pulau terpencil, dan kabupaten pertanian, tempat termuda adalah Kabupaten/Kota Hsinchu yang didukung oleh Taman Sains Hsinchu. Ini adalah Taiwan yang terpolarisasi dan menua bersama.[^2]
+> **Ringkasan 30 Detik:** Akhir 2025 total penduduk Taiwan 23.299.132 orang (sekitar 23,3 juta), sudah 23 bulan berturut-turut menurun, bayi baru pertama kali turun di bawah 110 ribu. Tahun yang sama Taiwan resmi memasuki "Masyarakat Super-Lansia", setiap lima orang ada satu di atas 65 tahun. Tapi rata-rata nasional menutupi kesenjangan internal yang masif: kepadatan penduduk tertinggi dan terendah kabupaten/kota berbeda 151 kali, skala populasi berbeda 297 kali, rasio lansia dan anak dari satu banding satu hingga hampir tiga banding satu. Orang berkumpul di enam kota besar, tapi penuaan tidak mengikuti kepadatan penduduk: proporsi lansia tertinggi di Kota Taipei yang paling padat, rasio lansia-terhadap-anak tertinggi di Kabupaten Chiayi, tempat paling muda didukung oleh Hsinchu Science Park di Kabupaten dan Kota Hsinchu. Ini adalah Taiwan yang terpecah, dan yang menua bersama.[^2]
 
 ## 70% Penduduk, 30% Lahan
 
@@ -121,57 +121,59 @@ Perbedaan skala ini akan langsung menjadi tantangan pemerintahan. Xinbei harus m
 
 Namun di sini harus berhati-hati terhadap satu jebakan intuitif: skala kecil tidak berarti orang muda. Anda mungkin berpikir bahwa pulau terpencil dan kabupaten kecil karena orang muda pindah keluar, orang tua tertinggal, jadi kecil dan tua; dan Anda mungkin berpikir bahwa kota besar memiliki lebih banyak sumber daya, lebih banyak peluang, jadi besar dan muda. Data nyata akan menolak kedua asumsi itu. Kabupaten Lienchiang memiliki populasi terkecil, tingkat penuaannya adalah 17,14%, justru lebih rendah daripada beberapa kabupaten besar; sementara Kota Taipei, populasi keempat terbesar, ramai hingga tidak terbayangkan, tingkat penuaannya adalah 24,18%, tertinggi di Taiwan. Antara skala dan penuaan, tidak ada garis korespondensi yang bersih. Untuk memahami bagaimana Taiwan menua, Anda perlu peta yang berbeda.
 
-## Garis Depan Penuaan Bukan di Kota
+## Dua Tempat Tertua: Kota Taipei dan Kabupaten Chiayi
 
-2025, Taiwan melampaui satu ambang: proporsi populasi 65 tahun ke atas mencapai 20,06%, secara resmi menjadi "masyarakat super-lansia" menurut definisi Organisasi Kesehatan Dunia. Dikonversi, ada 4,67 juta orang Taiwan berusia di atas 65 tahun, satu dari lima orang Taiwan adalah lansia. Dan dari 22 kabupaten/kota di Taiwan, sudah ada 14 yang tingkat penuaannya melampaui 20%. Tua, sudah menjadi warna dasar seluruh pulau.
+Pada tahun 2025, Taiwan melampaui sebuah ambang batas: proporsi penduduk berusia 65 tahun ke atas di tingkat nasional mencapai 20,06%, secara resmi menjadi "masyarakat super-lansia" sebagaimana didefinisikan oleh Organisasi Kesehatan Dunia. Konversinya, di seluruh Taiwan ada 4,67 juta orang di atas 65 tahun, artinya setiap lima orang Taiwan terdapat satu lansia. Bahkan di 22 kabupaten/kota di seluruh Taiwan, sudah 14 di antaranya memiliki tingkat penuaan melebihi 20%. Menua telah menjadi warna dasar bersama seluruh pulau.
 
-Namun rata-rata nasional 20,06% ini menekan semua perbedaan internal yang ganas menjadi rata. Tabel di bawah ini membuka tingkat penuaan dan indeks penuaan 22 kabupaten/kota, adalah tabel yang paling perlu Anda hentikan dan lihat dengan cermat dalam artikel ini. Pertama, jelaskan bagaimana membaca "indeks penuaan": sama dengan populasi 65 tahun ke atas dibagi populasi 0 hingga 14 tahun dikalikan 100, sama dengan 100 berarti lansia dan anak-anak sama banyak, semakin tinggi angkanya semakin "kepala berat kaki ringan" tempat itu, semakin banyak lansia di atas, semakin sedikit anak di bawah.
+Namun rata-rata nasional 20,06% ini meratakan perbedaan drastis di dalamnya. Tabel di bawah menyajikan tingkat penuaan dan indeks penuaan untuk 22 kabupaten/kota berdampingan, dan ini adalah tabel yang paling patut dihentikan untuk diperhatikan dalam artikel ini. Pertama, mari jelaskan cara membaca "indeks penuaan": indeks ini sama dengan populasi berusia 65 tahun ke atas dibagi populasi berusia 0 hingga 14 tahun, lalu dikali 100. Nilai 100 berarti jumlah lansia dan anak-anak sama banyak; semakin tinggi angkanya, semakin "kepala besar kaki kecil" tempat tersebut — lansia di atas semakin banyak, anak-anak di bawah semakin sedikit.
 
 ```tw-heatmap
 Kabupaten/Kota | Tingkat Penuaan 65+ (%) | Indeks Penuaan
-Kota Taipei | 24,18 | 202,06
-Kota Xinbei | 19,95 | 185,54
-Kota Taoyuan | 16,72 | 127,33
-Kota Taichung | 17,40 | 136,45
-Kota Tainan | 20,48 | 184,96
-Kota Kaohsiung | 20,79 | 192,10
-Kota Keelung | 22,28 | 240,21
-Kota Hsinchu | 16,16 | 106,59
-Kota Chiayi | 19,90 | 164,47
-Kabupaten Hsinchu | 15,08 | 101,88
-Kabupaten Miaoli | 20,23 | 179,56
-Kabupaten Changhua | 20,37 | 178,35
-Kabupaten Nantou | 22,66 | 224,64
-Kabupaten Yunlin | 21,76 | 206,78
-Kabupaten Chiayi | 24,11 | 291,69
-Kabupaten Pingtung | 21,84 | 218,72
-Kabupaten Yilan | 20,77 | 189,67
-Kabupaten Hualien | 21,52 | 200,53
-Kabupaten Taitung | 20,93 | 194,71
-Kabupaten Penghu | 21,03 | 223,65
-Kabupaten Kinmen | 19,69 | 255,57
-Kabupaten Lienchiang | 17,14 | 180,23
-Sumber: Kementerian Dalam Negeri, akhir 2025
+Kota Taipei | 24.18 | 202.06
+Kota New Taipei | 19.95 | 185.54
+Kota Taoyuan | 16.72 | 127.33
+Kota Taichung | 17.40 | 136.45
+Kota Tainan | 20.48 | 184.96
+Kota Kaohsiung | 20.79 | 192.10
+Kota Keelung | 22.28 | 240.21
+Kota Hsinchu | 16.16 | 106.59
+Kota Chiayi | 19.90 | 164.47
+Kabupaten Hsinchu | 15.08 | 101.88
+Kabupaten Miaoli | 20.23 | 179.56
+Kabupaten Changhua | 20.37 | 178.35
+Kabupaten Nantou | 22.66 | 224.64
+Kabupaten Yunlin | 21.76 | 206.78
+Kabupaten Chiayi | 24.11 | 291.69
+Kabupaten Pingtung | 21.84 | 218.72
+Kabupaten Yilan | 20.77 | 189.67
+Kabupaten Hualien | 21.52 | 200.53
+Kabupaten Taitung | 20.93 | 194.71
+Kabupaten Penghu | 21.03 | 223.65
+Kabupaten Kinmen | 19.69 | 255.57
+Kabupaten Lienchiang | 17.14 | 180.23
+Sumber: Kementerian Dalam Negeri, Direktorat Jenderal Administrasi Kependudukan, akhir 2025
 ```
 
-Ketika membaca tabel ini, perhatikan khusus kolom indeks penuaan. Tertinggi di Taiwan adalah Kabupaten Chiayi, 291,69, ini berarti di Kabupaten Chiayi, setiap anak sesuai dengan hampir tiga lansia. Diikuti oleh Kabupaten Kinmen 255,57, Kota Keelung 240,21. Ketiga tempat ini memiliki satu ciri bersama: semuanya adalah kabupaten pertanian, pulau terpencil, dan kota pelabuhan dengan perpindahan industri, tidak ada satu pun yang masuk daftar kota paling ramai Taiwan. Garis depan penuaan terdalam jatuh di sudut-sudut ini yang lama menghadapi aliran keluar orang muda. Ketika orang muda pergi untuk bekerja, untuk sekolah, orang yang tertinggal perlahan menua, bayi baru tidak bisa menggantikan, indeks penuaan terus meningkat.
+Melihat proporsi 65 tahun ke atas, yang tertua di seluruh Taiwan adalah Kota Taipei 24,18%, Kabupaten Chiayi 24,11% hanya berbeda 0,07 poin persen. Jika beralih ke indeks penuaan, peringkat pertama berubah menjadi Kabupaten Chiayi dengan 291,69 — setiap anak berpasangan dengan hampir tiga lansia, diikuti oleh Kabupaten Kinmen 255,57, Kota Keelung 240,21, sedangkan Kota Taipei 202,06 turun ke peringkat kedelapan. Perbedaan kedua kolom terletak pada penyebut: indeks penuaan membandingkan lansia dengan anak-anak; meskipun proporsi lansia Taipei tinggi, proporsi anak-anaknya juga lebih tinggi dibandingkan Kabupaten Chiayi dan Kabupaten Kinmen, sehingga indeksnya tertekan ke bawah.
 
-Lalu, di mana sudut termuda di Taiwan? Jawabannya akan mengejutkan banyak orang: bukan di surga terpencil, tetapi di samping pabrik teknologi. Kabupaten Hsinchu memiliki tingkat penuaan hanya 15,08%, terendah di Taiwan; indeks penuaan 101,88, hampir dalam keseimbangan satu banding satu antara lansia dan anak-anak, menonjol di tengah penuaan seluruh Taiwan. Kota Hsinchu 16,16%, Kota Taoyuan 16,72% mengikuti di belakang. Ketiga tempat ini hampir semuanya ditulis dengan satu alasan yang sama: Taman Sains Hsinchu. Industri semikonduktor dan teknologi menyerap sejumlah besar insinyur dan teknisi dalam usia reproduksi, mereka membentuk keluarga di sini, memiliki anak-anak, dengan keras menarik struktur populasi beberapa kabupaten/kota ini ke arah yang lebih muda. Apa yang didukung Taman Sains Hsinchu, selain angka ekspor Taiwan, adalah peta populasi termuda Taiwan.
+Kedua kolom sama-sama menempatkan di tujuh besar: Kabupaten Chiayi, Kabupaten Nantou, Kabupaten Yunlin, Kabupaten Pingtung — empat kabupaten pertanian — ditambah Kota Keelung, kota pelabuhan tua yang mengalami pengeluaran industri. Kelima kabupaten/kota ini populasi mereka semuanya mengecil: muda pergi untuk kerja dan kuliah, yang tinggal perlahan menua, bayi baru tidak bisa menutupi kekosongan, sehingga angka di kedua kolom melonjak bersama.
 
-Jika Anda meletakkan kedua ujung termuda dan tertua bersama-sama, perbedaannya akan lebih mencolok.
+Lalu, di mana sudut paling muda di seluruh Taiwan? Jawabannya akan mengejutkan banyak orang: bukan di suatu surga tersembunyi, melainkan di samping pabrik-pabrik teknologi. Tingkat penuaan Kabupaten Hsinchu hanya 15,08%, terendah di seluruh Taiwan; indeks penuaan 101,88, hampir keseimbangan satu lawan satu antara lansia dan anak-anak, menonjol di tengah lautan penuaan di seluruh Taiwan. Kota Hsinchu 16,16% dan Kota Taoyuan 16,72% mengikuti di belakang. Kemudaan ketiga tempat ini hampir semuanya tertulis atas satu sebab yang sama: Taman Sains Hsinchu. Industri setengah konduktor dan teknologi menarik sejumlah besar insinyur dan tenaga teknis yang berada di usia subur, mereka menikah dan melahirkan di sini, memaksa struktur populasi beberapa kabupaten/kota ini ke arah yang lebih muda. Apa yang ditopang Taman Sains Hsinchu, selain angka ekspor Taiwan, adalah peta populasi paling muda di Taiwan.
+
+Mempertemukan Kabupaten Hsinchu paling muda dengan Kabupaten Chiayi indeks penuaan tertinggi, kesenjangannya semakin menusuk mata.
 
 ```tw-versus
-Kabupaten Hsinchu (Termuda di Taiwan) | Kabupaten Chiayi (Tertua di Taiwan)
-65+ 15,08% | 65+ 24,11%
-Indeks Penuaan 101,88 | Indeks Penuaan 291,69
-Populasi masih berkembang | Populasi terus berkurang
-Kemuda yang didukung Taman Sains Hsinchu | Garis depan penuaan kabupaten pertanian
-Sumber: Kementerian Dalam Negeri, akhir 2025
+Kabupaten Hsinchu (paling muda se-Taiwan) | Kabupaten Chiayi (indeks penuaan tertinggi se-Taiwan)
+Proporsi 65+ 15,08% | Proporsi 65+ 24,11%
+Indeks penuaan 101,88 | Indeks penuaan 291,69
+Populasi masih tumbuh | Populasi terus mengalir keluar
+Kemudaan ditopang Taman Sains Hsinchu | Kabupaten pertanian, bayi baru tidak menutupi
+Sumber: Kementerian Dalam Negeri, Direktorat Jenderal Administrasi Kependudukan, akhir 2025
 ```
 
-Kabupaten Hsinchu 15,08% melawan Kabupaten Chiayi 24,11%, tingkat penuaan berbeda 9 poin persentase; indeks penuaan 101,88 melawan 291,69, berbeda hampir tiga kali lipat. Satu masih berkembang, populasi mengalir masuk; satu terus berkurang, populasi mengalir keluar. Kedua kabupaten ini di pulau yang sama, tingkat penuaan berbeda hampir satu generasi. Anda mungkin melihat orang tua muda dengan kereta bayi di taman Hsinchu, mungkin melihat seluruh jalan penuh dengan lansia yang berjalan perlahan di pedesaan Chiayi. Kedua Taiwan ini, keduanya dihitung dari angka Kementerian Dalam Negeri.
+Kabupaten Hsinchu 15,08% lawan Kabupaten Chiayi 24,11%, tingkat penuaan berbeda 9 poin persen; indeks penuaan 101,88 lawan 291,69, berbeda hampir tiga kali lipat. Satu masih tumbuh, populasi mengalir masuk; satu terus hilang, populasi mengalir keluar. Di pulau yang sama, kedua kabupaten ini — di satu sisi lansia dan anak-anak jumlahnya hampir sama, di sisi lain setiap anak di belakangnya berdiri hampir tiga lansia. Di taman-taman Hsinchu Anda mungkin melihat orang tua muda mendorong kereta bayi, di pedesaan Chiayi mungkin seluruh jalan penuh lansia berjalan perlahan. Keduanya adalah Taiwan, keduanya dihitung dari angka Direktorat Jenderal Administrasi Kependudukan.
 
-Di sini harus menghancurkan satu kesalahpahaman populer: banyak orang berpikir penuaan adalah monopoli pedesaan dan pulau terpencil, kota besar karena banyak orang muda, banyak peluang, seharusnya kebal terhadap penuaan. Data mengatakan, tidak ada hal seperti itu. Tingkat penuaan Kota Taipei 24,18%, tertinggi di Taiwan; indeks penuaannya 202,06, juga tertinggi di antara enam kota besar. Kota paling ramai di Taiwan, sumber daya paling terkonsentrasi, pada saat yang sama adalah yang tertua di antara enam kota besar. Alasannya tidak sulit dipahami: harga rumah Taipei tinggi, keluarga muda didesak ke Xinbei, Taoyuan untuk membentuk keluarga dan memiliki anak, yang tertinggal di kota adalah generasi yang sudah menetap bertahun-tahun lalu, sekarang perlahan menua. Kemakmuran kota tidak bisa menghentikan penuaan, itu hanya menua dengan cara lain. Penuaan bukan penyakit beberapa kabupaten/kota, itu adalah situasi bersama seluruh pulau, hanya berbeda dalam kecepatan.
+Banyak orang mengira penuaan adalah monopoli desa dan pulau terpencil, kota besar penuh muda dan peluang, seharusnya kebal terhadap penuaan. Angka Kota Taipei bukan demikian: kota paling ramai dan paling kaya sumber daya di Taiwan ini,
 
 ## Satu Pulau, Menua Bersama
 
@@ -209,21 +211,21 @@ Fakta ini patut dihentikan sejenak untuk dipikirkan jernih. Tahun 2025, kabupate
 
 Inilah mengapa total populasi terus menurun 23 bulan berturut-turut, turun ke 23.299.132 jiwa. Ini adalah penyusutan serentak seluruh pulau, setiap kabupaten/kota menyusut. Bedanya hanya: ada tempat yang berkat migrasi masuk sementara menopang angka, ada tempat yang bahkan buffer itu pun tidak ada.
 
-## Potret yang Dilukis Data
+## Potret yang Terlukis Data
 
-Kembali ke jalan di awal. Dari Distrik Xinyi Taipei ke Taitung, orang per kilometer persegi turun dari 8.975 menjadi 59, seperti menembus dua negara. Sekarang Anda tahu, itu bukan hanya perbedaan kepadatan. Di sepanjang jalan itu, skala populasi berubah dari raksasa menjadi debu, penuaan berubah dari kemuda yang didukung Taman Sains Hsinchu menjadi garis depan penuaan kabupaten pertanian, satu-satunya yang tidak berubah adalah, di mana pun Anda berhenti di satu kabupaten/kota, kematian lokal sudah melampaui kelahiran.
+Kembali ke jalan di awal. Dari Distrik Xinyi, Taipei ke Taitung, jumlah orang per kilometer persegi turun dari 8.975 menjadi 59, seolah melewati dua negara. Sekarang Anda tahu, itu bukan sekadar kesenjangan kepadatan. Di sepanjang jalan itu, skala populasi berubah dari raksasa menjadi debu. Penuaan justru tidak mengikuti kepadatan: titik asal, Taipei, adalah tempat dengan proporsi lansia tertinggi di seluruh Taiwan, sedangkan tujuan, Taitung, berada di posisi tengah di kedua kolom. Satu-satunya hal yang tidak berubah: di manapun Anda berhenti di suatu kabupaten/kota, kematian di tempat itu sudah melebihi kelahiran.
 
-Ini adalah potret Taiwan 2025: wajah yang sangat terpolarisasi dan sedang menua bersama. Kesenjangan internalnya besar hingga mengejutkan, kepadatan berbeda 151 kali lipat, skala berbeda 297 kali lipat, penuaan berbeda hampir satu generasi; tetapi situasi fundamental yang dihadapinya sangat konsisten, seluruh pulau mengalami lebih banyak kematian daripada kelahiran, total populasi berkurang selama 23 bulan berturut-turut, dalam tujuh tahun melompat dari masyarakat lansia ke masyarakat super-lansia. Dewan Pengembangan Nasional memperkirakan, menurut proyeksi menengah, sampai 2070 total populasi Taiwan akan tersisa 14,97 juta, proporsi 65 tahun ke atas akan mencapai 46,5%; 2028, bonus demografis akan berakhir. Potret ini tidak akan membaik dengan sendirinya.[^3]
+Inilah potret Taiwan tahun 2025: wajah yang sangat terfragmentasi, dan yang sedang menua bersama. Kesenjangan internalnya mengejutkan, perbedaan kepadatan 151 kali, perbedaan skala 297 kali, rasio lansia terhadap anak-anak dari satu banding satu hingga hampir tiga banding satu; namun kenyataan fundamental yang dihadapinya justru mengejutkan karena konsisten: seluruh pulau mati lebih banyak dari lahir, total populasi menyusut 23 bulan berturut-turut, dalam tujuh tahun saja sudah meloncat dari masyarakat lansia ke masyarakat super-lansia. Proyeksi Dewan Pengembangan Nasional menyatakan, menurut proyeksi menengah, pada 2070 total populasi Taiwan akan tersisa 14,97 juta, proporsi 65 tahun ke atas akan mencapai 46,5%; pada 2028, bonus demografis akan berakhir. Potret ini tidak akan membaik dengan sendirinya.[^3]
 
-Mengakui bahwa Taiwan internal begitu tidak homogen, adalah untuk melihat dengan jelas kesulitan nyata pulau ini: tempat dengan perbedaan internal sebesar ini, harus menggunakan satu set kebijakan untuk secara bersamaan merawat 4 juta orang yang terjepit di cekungan dan 13.000 orang yang berdiri di pulau terpencil, pada saat yang sama menghadapi Hsinchu termuda dan Chiayi tertua. Ia terpolarisasi, tetapi ia harus bertindak sebagai satu kesatuan; ia menua, tetapi ia harus bersama-sama mencari jalan. Data melukis potret ini untuk kami, bagaimana merespons potret ini selanjutnya, adalah pertanyaan yang harus dijawab pulau ini bersama-sama.
+Mengakui ketidakseragaman internal Taiwan ini, adalah untuk melihat dengan jelas tantangan nyata pulau ini: sebuah tempat dengan perbedaan internal sebesar ini, harus menggunakan satu kebijakan untuk secara bersamaan merawat empat juta orang yang terkurung di lembah dan tiga belas ribu orang yang bertahan di pulau-pulau terpencil, sambil menghadapi Kabupaten Hsinchu yang paling muda dan Kota Taipei serta Kabupaten Chiayi dengan proporsi lansia tertinggi. Ia terpecah, tapi ia harus bertindak sebagai satu kesatuan; ia menua, tapi ia harus bersama mencari jalan keluar. Data telah melukis wajah ini bagi kita, bagaimana menjawab wajah ini ke depannya, adalah pertanyaan yang harus dijawab bersama oleh pulau ini.
 
 ## Bacaan Lanjutan
 
-- [Kota Taipei](/id/geography/taipei-city) — Paling padat di Taiwan (8.975 orang per kilometer persegi), juga tertua di antara enam kota besar (indeks penuaan 202), tokoh utama yang sama di kedua ujung kepadatan dan penuaan artikel ini.
-- [Kabupaten Taitung](/id/geography/taitung-county) — Ujung paling sepi di Taiwan (59 orang per kilometer persegi), dua pulau terpencil menanggung biaya seluruh pulau.
-- [Kabupaten Chiayi](/id/geography/chiayi-county) — Indeks penuaan 291,69 tertinggi di Taiwan, setiap anak sesuai dengan hampir tiga lansia, perwakilan garis depan penuaan kabupaten pertanian.
-- [Kabupaten Hsinchu](/id/geography/hsinchu-county) — Tingkat penuaan 15,08% termuda di Taiwan, Taman Sains Hsinchu menarik struktur populasi ke arah yang lebih muda di peta ini.
-- [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Ujung kelahiran potret ini: bayi baru turun di bawah 110.000, seluruh pulau mengalami lebih banyak kematian daripada kelahiran dari sisi lain.
+- [Taipei](/id/geography/taipei-city) — kota paling padat di seluruh Taiwan (8.975 orang per kilometer persegi), proporsi 65 tahun ke atas juga tertinggi di seluruh Taiwan (24,18%), tokoh yang sama di kedua tabel kepadatan dan penuaan dalam artikel ini.
+- [Taitung](/id/geography/taitung-county) — ujung paling sepi di seluruh Taiwan (59 orang per kilometer persegi), 3.515 kilometer persegi adalah ketiga terbesar di seluruh Taiwan, juga mencakup dua pulau lepas yaitu Green Island dan Orchid Island.
+- [Chiayi](/id/geography/chiayi-county) — indeks penuaan 291,69 tertinggi di seluruh Taiwan, hampir tiga orang lansia untuk setiap anak, proporsi 65 tahun ke atas 24,11% juga hanya kalah dari Taipei.
+- [Hsinchu](/id/geography/hsinchu-county) — tingkat penuaan 15,08% paling muda di seluruh Taiwan, wilayah di mana Hsinchu Science Park menarik struktur populasi ke arah yang lebih muda.
+- [Krisis Kelangkaan Bayi Taiwan](/id/society/taiwan-low-birth-rate-crisis) — sisi kelahiran dari potret ini: bayi baru lahir turun di bawah 110.000, sisi lain di mana kelahiran di seluruh pulau tidak menutupi kematian.
 
 ## Sumber Gambar
 

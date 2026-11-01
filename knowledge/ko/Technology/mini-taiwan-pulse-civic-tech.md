@@ -1,19 +1,19 @@
 ---
-title: '미니 타이완 맥박: 큐레이팅의 시선으로, 숨 쉬는 지도를 그리다'
-description: "2026년, 데이터 분석가 Migu(미구)는 타이완의 파편화된 개방형 데이터를 비행기, 선박, 열차, 버스, 쓰레기차에 겹쳐 '숨 쉬는 지도'를 만들었다. 자료 수집 노동은 AI 에이전트에게 맡겼으나, 어떤 층을 어떻게 중첩하고 어떤 색으로 강조할지는 도시 계획 교육을 받은 큐레이터의 눈에 달려 있었다."
+title: 'Mini Taiwan Pulse: 큐레이터의 시선으로 대만을 숨 쉬는 지도로 그리다'
+description: '2026년, 데이터 분석가 Migu가 CSV 파일을 Kepler.gl에 드래그하자 화면에 첫 번째 대만 지도가 나타났다. 2년 후, 가장 인기 있는 mini-taiwan-pulse 프로젝트는 GitHub에서 375개의 별을 모으며 하늘, 바다, 대지, 거리, 폐기물 수거라는 다섯 가지 실시간 데이터를 겹쳐 움직이는 지도를 만들어냈다. 중앙 정부의 5만 건 데이터와 20여 개 현·시 플랫폼의 오픈 데이터를 사람이 일일이 확인할 수는 없다. 그의 해결책은 인력을 늘리는 것이 아니라, AI Agent가 구성하고 스스로 성장하는 시스템에 맡기고 사람은 질문과 검수만을 담당하는 것이었다. 도시 계획을 통해 훈련된 큐레이터의 시선부터 tmux 안에서 스스로 실행되는 화재 파이프라인까지, 한 사람의 GitHub 프로젝트가 어떻게 하나의 은하계로 성장했는지 살펴본다.'
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
     '기술',
-    '시민 과학 기술',
-    '개방형 데이터',
+    '시민 기술',
+    '오픈 데이터',
     '데이터 시각화',
     '오픈 소스 프로젝트',
     'TDX',
     'Three.js',
     '인공지능',
-    'AI 에이전트',
+    'AI Agent',
     'GIS',
   ]
 subcategory: '公民科技'
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T08:36:25.085833+00:00'
+translatedAt: '2026-10-21T00:58:53.724622+00:00'
 ---
 
 # 미니 타이완 맥박: 큐레이팅의 시선으로, 숨 쉬는 지도를 그리다

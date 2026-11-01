@@ -1,100 +1,82 @@
 ---
-title: "Sylvia Chang : de Chiayi à la scène, de l'interprète de *L'Enfance* à la réalisatrice de *Love Education*"
-description: "Née en 1953 à Chiayi, Sylvia Chang entre dans le monde du spectacle à 17 ans grâce à *Dream Lover*. *L'Enfance* (composée par Lo Ta-yu en 1981) est l'une de ses chansons ; *Le Prix de l'amour* (composée par Jonathan Lee en 1992) est l'une de ses œuvres les plus connues. En 1986, *My Favorite* lui vaut le Golden Horse de la meilleure actrice ; en 2017, *Love Education* est nommé pour le Golden Horse du meilleur réalisateur et du meilleur scénario original. Actrice, réalisatrice et chanteuse : trois identités, plus de cinquante ans de carrière."
+title: 'Chang Ai-chia'
+description: "Chang Ai-chia (Sylvia Chang, née en 1953), DJ à 16 ans et chanteuse-animatrice à 17 ans, elle tourne son premier film en 1972. Elle a remporté trois fois le Golden Horse pour la meilleure actrice (1981, 1986, 2022) et réalise seize œuvres tout en menant de front des carrières de chanteuse, d'actrice et de réalisatrice depuis plus de cinquante ans."
 date: 2026-03-19
 category: 'People'
-tags: ['cinéma', 'réalisatrice', 'actrice', 'chanteuse', 'scénariste']
+tags: ['Cinéma', 'Réalisation', 'Actrice', 'Chanteuse', 'Scénariste']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-07
+lastVerified: 2026-10-23
 lastHumanReview: false
-readingTime: 7
-# design_rationale:
-#   why_this_hook: "從《童年》vs《外婆的澎湖灣》的分野切入——《童年》是她的，《外婆的澎湖灣》不是，這個精確度代表她整個職業生涯的態度：每個身份都是真的，不是標籤。"
-#   whats_excluded: "各部電影的詳細票房數字；與導演楊德昌的關係細節；金馬獎評審主席任期記錄"
-#   where_it_hedges: "近年動態以TODO標記，待天機星確認"
-translatedFrom: People/張艾嘉.md
-sourceCommitSha: 97e35f05
-sourceContentHash: sha256:4dcfdcf5effc3d2c
-sourceBodyHash: sha256:0b1d40b7bf6373a3
-translatedAt: 2026-07-06
+readingTime: 4
+translatedFrom: 'People/張艾嘉.md'
+sourceCommitSha: '79414c25d'
+sourceContentHash: 'sha256:dbc2c1b2c29bf2f4'
+sourceBodyHash: 'sha256:5c090902060df973'
+translatedAt: '2026-10-23T06:26:11+08:00'
 ---
 
-# Sylvia Chang : de Chiayi à la scène, de l'interprète de _L'Enfance_ à la réalisatrice de _Love Education_
+# Chang Ai-chia : trois fois lauréate du Golden Horse pour la meilleure actrice et réalisatrice de seize œuvres
 
-> **En 30 secondes :** Sylvia Chang naît en 1953 à Chiayi et entre dans le monde du spectacle à 17 ans grâce à _Dream Lover_.[^1] _L'Enfance_ (paroles et musique de Lo Ta-yu, 1981) est l'une de ses chansons ; _Le Prix de l'amour_ (musique de Jonathan Lee, 1992) est l'une de ses œuvres les plus connues.[^2] En 1986, _My Favorite_, qu'elle écrit, réalise et interprète, lui vaut le Golden Horse de la meilleure actrice.[^3] En 2017, _Love Education_ est nommé pour le Golden Horse du meilleur réalisateur. Actrice, réalisatrice, chanteuse : trois identités, plus de cinquante ans de carrière.
+Chang Ai-chia (nom anglais : Sylvia Chang) est née en 1953. Elle devient DJ à la radio à l'âge de seize ans, chanteuse et animatrice à dix-sept ans, puis tourne son premier film à dix-neuf ans. Elle a remporté trois fois le prix de la meilleure actrice aux Golden Horse, en 1981, 1986 et 2022, soit un intervalle de quarante et un ans entre sa première et sa dernière victoire. Parallèlement, elle a réalisé seize œuvres, allant de _Une certaine année, un certain mois, un certain jour_ (1981) à _Elle est dans ce monde_ (2022).[^1]
 
-## 1953, Chiayi
+## Chronologie
 
-En 1953, Sylvia Chang naît au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki, _Cypress Forest Living Village_).[^1] Ce lieu de naissance est parfois mentionné dans ses entretiens, mais sa trajectoire professionnelle l'éloigne rapidement de Chiayi — d'abord pour Taipei, puis Hong Kong, avant d'aller et venir entre les deux rives du détroit.
+| Année          | Événement                                                                                                                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1953           | Née le 21 juillet, originaire de Wutai, Shanxi. Le corps de l'article mentionne le n°1, impasse Gonghe, rue Gonghe, ville de Chiayi, tandis que l'encadré indique le nouveau village Shetu, ville de Dalin, comté de Chiayi.[^1] |
+| 1955           | L'avion C-47 piloté par son père, le major Chang Wen-chuang, s'écrase sur une montagne à Hsinchu ; il avait trente et un ans, elle en avait un.[^1]                                                                              |
+| Vers 12 ans    | Émue vers Kowloon City, Hong Kong, pour étudier à l'école primaire de la New School, puis part étudier à New York.[^1]                                                                                                           |
+| Vers 15 ans    | Retour à Taïwan, étudie au collège catholique Sacred Heart et à l'American School of Taipei.[^1]                                                                                                                                 |
+| Vers 16–17 ans | Devient DJ à 16 ans, chanteuse et animatrice à 17 ans.[^1]                                                                                                                                                                       |
+| 1972           | Premier film _Little Tiger_ (noté 1973 dans certaines sources, présentant une incohérence entre les données de Wikipédia)[^1]                                                                                                    |
+| 1976           | Remporte le prix de la meilleure actrice dans un second rôle aux 13e Golden Horse pour _Blue Sky_[^1]                                                                                                                            |
+| 1981           | Remporte le prix de la meilleure actrice aux 18e Golden Horse pour _My Grandfather_ ; réalise sa première œuvre en tant que réalisatrice avec _Une certaine année, un certain mois, un certain jour_[^1]                         |
+| 1983           | Joue dans _A Day on the Beach_, dans le rôle de Jia-li[^1]                                                                                                                                                                       |
+| 1986           | Écrit, réalise et joue dans _Love Story_, remportant la meilleure actrice aux 23e Golden Horse ; le film est également nommé pour le meilleur film, meilleur réalisateur et meilleur scénario original.[^1]                      |
+| 1987           | Réalise _Yellow Story_[^1]                                                                                                                                                                                                       |
+| 1992           | Sort l'album _The Price of Love_, avec des paroles et une musique de Jonathan Lee, produit par Rock Records[^2]                                                                                                                  |
+| 1995           | Réalise _The Girl from the Fishing Village_, nommée pour le meilleur film et meilleur scénario original aux 32e Golden Horse[^1]                                                                                                 |
+| 2001           | Nommée pour la meilleure actrice aux 38e Golden Horse pour _Eternal Love_, et remporte les prix de la meilleure actrice aux Hong Kong Film Awards et aux Golden Bauhinia Awards[^1]                                              |
+| 2004           | Réalise _20 30 40_, nommée à la Berlinale (Ours d'Or)[^1]                                                                                                                                                                        |
+| 2014–2018      | Présidente du comité exécutif du 6e Taipei Golden Horse Film Festival[^1]                                                                                                                                                        |
+| 2017           | _Bulm Bulm_ est nommée pour la meilleure actrice, meilleur réalisateur, meilleur scénario original et meilleur film aux 54e Golden Horse[^1]                                                                                     |
+| 2018           | Remporte le prix de la meilleure actrice aux Asian Film Awards pour _Bulm Bulm_, et reçoit également le prix d'honneur de sa carrière (Lifetime Achievement Award) la même année.[^1]                                            |
+| 2021           | Reçoit le 22e National Cultural Arts Award[^1]                                                                                                                                                                                   |
+| 2022           | Remporte pour la troisième fois le prix de la meilleure actrice aux Golden Horse pour _The Light in the Darkness_ ; réalise _Elle est dans ce monde_[^1]                                                                         |
+| 2024           | Nommée pour la meilleure actrice aux 61e Golden Horse pour _Daughter's Daughter_[^1]                                                                                                                                             |
 
-À 17 ans, elle entre dans le monde du spectacle en participant au film de Chiung Yao _Dream Lover_.[^1] Dans les années 1970, elle émerge durant l'âge d'or du cinéma taïwanais, jouant aux côtés de Chin Han et Charlie Chin dans de nombreuses comédies romantiques.
+## D'abord chanteuse et animatrice, puis actrice
 
-À cette époque, Sylvia Chang est une idole, mais elle ne s'en tient pas là. Sa rencontre, dans les années 1980, avec les réalisateurs de la Nouvelle Vague taïwanaise lui fait prendre conscience que le jeu d'acteur peut être un acte de création sérieux, et que la gestion d'image n'en est que la couche la plus superficielle — une prémisse essentielle à sa carrière ultérieure de réalisatrice.
+Ses débuts ne se sont pas faits sur un plateau de cinéma. Selon l'organisation des données de Wikipédia, elle commence comme DJ à 16 ans, puis chanteuse et animatrice à 17 ans ; il faudra attendre 1972 pour son premier film, _Little Tiger_.[^1] Dans les années 1970, sa filmographie est dense : en 1976, on compte notamment _Plum Blossom_, _Blue Sky_ et _The Eighty Heroes_. C'est avec _Blue Sky_ qu'elle décroche son premier Golden Horse, celui de la meilleure actrice dans un second rôle.[^1]
 
-## Années 80 : de l'idole à l'artiste confirmée
+Sa carrière musicale n'a jamais cessé. Les œuvres listées incluent des albums tels que _Childhood_, _Maybe_, _Busy and Blind_, _Do You Love Me?_ et _The Price of Love_. Cet album, _The Price of Love_, est sorti en 1992 sous le label Rock Records avec une composition de Jonathan Lee ; la version la plus ancienne répertoriée est celle de Chang Ai-chia. Par la suite, Jonathan Lee l'a reprise en 1994 dans _Jonathan Lee's Music Journey: Not Letting Go_, et Gigi Leung l'a également reprise dans un album en 2000. Cette chanson sert également de thème principal au film _Three Summers_.[^2]
 
-C'est véritablement dans les années 1980, à travers sa collaboration avec les réalisateurs de la Nouvelle Vague taïwanaise — Edward Yang, [[Hou Hsiao-hsien]] — et des films comme _That Day, on the Beach_, qu'elle passe du statut d'idole à celui d'actrice de talent.
+## 1981 et 1986 : deux prix de la meilleure actrice, deux statuts différents
 
-En 1986, _My Favorite_, qu'elle écrit, réalise et interprète, remporte le Golden Horse de la meilleure actrice.[^3] À partir de ce film, elle n'est plus seulement actrice — elle est créatrice.
+En 1981, elle remporte le prix de la meilleure actrice aux 18e Golden Horse pour son rôle de Xu Yi-ting dans _My Grandfather_. La même année, elle réalise son premier film, _Une certaine année, un certain mois, un certain jour_.[^1] L'article mentionne par ailleurs qu'elle aurait repris le projet inachevé de Tu Chung-hsun en 1979, bien que l'œuvre soit officiellement datée de 1981, créant une incohérence entre ces deux dates.[^1]
 
-La portée de _My Favorite_ réside dans sa maîtrise complète des trois niveaux de la création : écrire le scénario, réaliser, jouer. Chaque rôle y remplit une fonction réelle, ce n'est pas un titre honorifique. En 1986, dans l'industrie cinématographique taïwanaise, c'est l'un des rares cas où une femme accomplit cela.
+En 1986, son implication dans _Love Story_ est plus complète : elle y incarne Bai Yun tout en étant scénariste et réalisatrice. Le film est nommé aux 23e Golden Horse pour le meilleur film, meilleur réalisateur, meilleur scénario original et meilleure chanson originale, tandis qu'elle remporte elle-même le prix de la meilleure actrice.[^1]
 
-## _L'Enfance_ est à elle, _La Baie de Penghu de grand-mère_ non
+## Œuvres de réalisation et nominations aux Golden Horse
 
-_L'Enfance_ est chantée par Sylvia Chang.[^2] Cette chanson, dont Lo Ta-yu a écrit les paroles et la musique en 1981, est l'une de ses œuvres les plus connues dans le domaine musical. Si elle est devenue une part de la mémoire collective, c'est en partie grâce à son interprétation : elle a su traduire l'émotion d'un adulte regardant son enfance en arrière, sans se contenter de jouer l'enfant.
+Sa filmographie en tant que réalisatrice compte seize titres : _Une certaine année, un certain mois, un certain jour_ (1981), _Love Story_ (1986), _Yellow Story_ (1987), _Sasha Jia Stands Up_ (1991), _Awakening_ (1992), _New Cohabitation Era_ (1994), _The Girl from the Fishing Village_ (1995), _Not Going Home Today_ (1996), _Heartbeat_ (1999), _To Fly_ (2002), _20 30 40_ (2004), _A Good Father_ (2008), la séquence « Twilight of the Gods » dans _10+10_ (2011), _Nian Nian_ (2015), _Bulm Bulm_ (2017) et _Elle est dans ce monde_ (2022).[^1]
 
-_La Baie de Penghu de grand-mère_ n'est pas à elle. L'interprète original de cette chanson est Pan An-bang, la musique est de Ye Jia-xiu, et elle n'a aucun rapport avec Sylvia Chang. Les deux chansons sont proches en époque et en style, mais leurs origines sont entièrement différentes.
+Ses records aux Golden Horse se divisent en deux catégories. En tant que réalisatrice ou scénariste, elle a été nommée pour _Love Story_, _The Girl from the Fishing Village_, _Not Going Home Today_ et _Heartbeat_ (meilleur film). Elle a également été nommée meilleure réalisatrice pour _A Good Father_ (2008) et, en 2017, elle a reçu des nominations simultanées de meilleure réalisatrice et meilleur scénario original pour _Bulm Bulm_. En tant qu'actrice, elle a cumulé douze nominations ou victoires entre 1976 et 2024, dont trois prix de la meilleure actrice et un prix de la meilleure actrice dans un second rôle.[^1]
 
-_Le Prix de l'amour_ (1992, musique de Jonathan Lee) est l'autre chanson la plus représentative de son répertoire.[^2]
+Elle a également reçu des prix de scénario à Hong Kong : le prix du meilleur scénario aux Hong Kong Film Awards pour _Heartbeat_ (2000) et _Bulm Bulm_ (2018), le prix du meilleur scénario par l'Hong Kong Film Critics Association pour _Nian Nian_ (2016), et le prix de la meilleure réalisatrice par cette même association pour _Bulm Bulm_ (2018).[^1]
 
-Sylvia Chang a déclaré à plusieurs reprises que sa compréhension de la musique et du cinéma procédait du « ressenti authentique » — qu'il s'agisse d'une chanson ou d'un personnage, elle cherchait le noyau émotionnel, pas la technique de mise en scène. Cette attitude explique la cohérence de ses trois domaines d'activité : les contextes diffèrent, la méthode de fond est la même.
+## 2022 : un troisième sacre de la meilleure actrice
 
-Sa collaboration avec Lo Ta-yu dépasse également le cadre de la production de disques : Lo Ta-yu lui écrit des chansons sur mesure, et elle offre à son esprit critique une entrée sur le marché populaire — dans une certaine mesure, une partie de la musique populaire taïwanaise des années 80 a été définie par eux deux.
+En 2022, elle remporte son troisième prix de la meilleure actrice aux 59e Golden Horse pour _The Light in the Darkness_, soit trente-six ans après son second sacre en 1986.[^1] Par la suite, en 2024, elle est nommée pour la meilleure actrice aux 61e Golden Horse pour _Daughter's Daughter_. En 2025, elle reçoit le prix d'honneur du Far East Film Festival ainsi que le prix Camellia de l'année au Festival international du film de Busan.[^1]
 
-## Regard de réalisatrice : la contemplation de trois générations de femmes
+Elle est également auteure d'essais, ayant publié _Lightly Written_ (2015) et _Daughter_ (2024).[^1]
 
-En tant que réalisatrice, Sylvia Chang s'est toujours intéressée à la condition féminine. _Siao Yu_ (1995) explore le sort des femmes immigrées ; _20 30 40_ (2004) présente la vision de l'amour à travers trois générations de femmes ; _Love Education_ (2017) se concentre sur les intrications émotionnelles de trois générations de femmes.
-
-_Love Education_ est l'aboutissement de sa carrière de réalisatrice, nommé pour huit Golden Horse, dont le meilleur réalisateur et le meilleur scénario original pour elle-même.[^3]
-
-Dans ce film, chaque génération de femmes porte sa propre compréhension et ses propres obsessions quant à la « relation », sans pouvoir se comprendre pleinement les unes les autres. Sylvia Chang ne juge pas quelle génération a raison — elle les laisse simplement se rencontrer dans un même espace, observant comment les conflits surgissent naturellement. Cette posture de réalisatrice qui ne prend pas parti est ce qui la distingue fondamentalement de ses contemporains.
-
-Cette attitude d'observation plutôt que de jugement est rare parmi les réalisateurs taïwanais. Beaucoup de films traitant de la condition féminine glissent vers le manifeste ; les œuvres de Sylvia Chang restent au niveau de la « présentation », laissant au public l'espace d'interprétation.
-
-Le style de réalisation de Sylvia Chang est décrit comme « tendre mais sans compromis » : elle éprouve une profonde sympathie pour ses personnages, mais refuse de fournir des réponses faciles. _Siao Yu_, _20 30 40_ et _Love Education_, trois films couvrant vingt-deux ans, constituent ensemble sa contemplation de longue durée des femmes à différentes étapes de la vie — non pas une répétition thématique en surface, mais un approfondissement en spirale d'une même question.
-
-## Cinquante ans de carrière transversale
-
-Dans les années 2020, Sylvia Chang continue de créer et de jouer. Elle a présidé à plusieurs reprises le jury du Golden Horse et s'investit activement dans les échanges culturels entre les deux rives du détroit, soutenant les jeunes réalisateurs.
-
-Sa carrière dépasse cinquante ans, et ses trois identités — actrice, réalisatrice, chanteuse — ne sont pas des façades.
-
-Dans les années 2020, Sylvia Chang continue de participer à des productions cinématographiques et théâtrales, et a présidé à plusieurs reprises le jury du Golden Horse, évaluant le cinéma taïwanais à travers sa perspective transdisciplinaire. Sa manière de soutenir les jeunes cinéastes passe par la collaboration directe — offrir aux nouvelles générations de créateurs un respect égal sur le tournage, plutôt que la transmission sous forme de conférences.
-
-Elle occupe une position de transmission singulière dans l'industrie cinématographique taïwanaise : elle appartient à la génération façonnée par la Nouvelle Vague taïwanaise, tout en étant devenue une aînée influençant la vision des jeunes réalisateurs. Ce rôle d'intermédiaire rend son existence essentielle à la cohérence de l'histoire du cinéma taïwanais.
-
-Cinquante ans de carrière qui ne se figent dans aucune identité : c'est en soi sa démonstration la plus puissante pour le monde du spectacle taïwanais — on peut être simultanément une véritable actrice, une véritable réalisatrice, une véritable chanteuse, sans avoir à choisir.
-
-**Idée reçue → lecture plus précise :** Sylvia Chang est souvent décrite comme une « artiste polyvalente ». Cette expression, qui semble un compliment, risque de minimiser la portée de son parcours. Ses trois identités — actrice, réalisatrice, chanteuse — ne sont pas une démonstration simultanée de talents, mais des engagements sérieux et approfondis à différentes périodes, chacun méritant une évaluation propre.
-
-> 🎙️ **Note du curateur :** La place de Sylvia Chang dans l'histoire du cinéma taïwanais est singulière — elle est à la fois une actrice façonnée par la Nouvelle Vague taïwanaise et une créatrice devenue réalisatrice. Rares sont ceux qui occupent ces deux positions simultanément.
->
-> Son regard de réalisatrice est constamment tourné vers les femmes, nourri par une matière d'observation issue de son propre vécu. Cela confère à ses films une naturel qui n'a pas besoin de justification — c'est de la présentation, pas l'énoncé d'une position.
-
-Partie de la rue de la République à Chiayi, passant par Taipei, Hong Kong, allant et venant entre les deux rives — les cinquante ans de Sylvia Chang ne sont pas une success story linéaire, mais le parcours d'une personne se déplaçant continuellement entre différentes identités, refusant de se fixer dans une zone de confort. Son nom, dans l'histoire du divertissement taïwanais, incarne une posture de vie que peut adopter un créateur — bien au-delà de ce que les réalisations personnelles d'un individu peuvent circonscrire.
-
-**Pour aller plus loin** : [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de données du Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/fr/people/yang-dechang) — _That Day, on the Beach_, dont elle tient le premier rôle, est le premier long métrage de fiction d'Edward Yang
+**Lecture complémentaire** : [Chang Ai-chia — Wikipédia](https://zh.wikipedia.org/zh-tw/張艾嘉) ｜ [Yang De-chang](/fr/people/yang-dechang)
 
 ## Références
 
-[^1]: [United Daily News : reportage sur le lieu de naissance de Sylvia Chang à Chiayi](https://stars.udn.com/star/story/10090/9108331) — Confirme que Sylvia Chang est née en 1953 au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki), et qu'elle est entrée dans le monde du spectacle à 17 ans (_Dream Lover_).
+[^1]: [Wikipédia : Chang Ai-chia](https://zh.wikipedia.org/zh-tw/張艾嘉) — Les informations concernant sa biographie, sa filmographie, ses œuvres de réalisation, ainsi que ses récompenses aux Golden Horse, Hong Kong Film Awards et Asian Film Awards ont été compilées à partir de cet article (consulté le 23/10/2026). L'article présente des incohérences concernant son lieu de naissance, son premier film et l'année de sa première réalisation, lesquelles sont présentées ici sans parti pris.
 
-[^2]: [Wikipédia : Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) — Confirme que _L'Enfance_ est chantée par Sylvia Chang (musique de Lo Ta-yu, 1981), que _Le Prix de l'amour_ (musique de Jonathan Lee, 1992) est l'une de ses œuvres représentatives, et précise que _La Baie de Penghu de grand-mère_ est l'œuvre originale de Pan An-bang (sans rapport avec Sylvia Chang).
-
-[^3]: [Base de données du Golden Horse : palmarès de Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) — Inclut le Golden Horse de la meilleure actrice pour _My Favorite_ en 1986, ainsi que les nominations de _Love Education_ en 2017 pour le meilleur réalisateur et le meilleur scénario original.
-
-[^4]: [Taiwan Cinema : Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) — Parcours complet de Sylvia Chang en tant que réalisatrice de cinéma, incluant les fiches de _Siao Yu_ (1995), _20 30 40_ (2004) et _Love Education_ (2017).
-
-[^5]: [Love Education — ATMovies](http://www.atmovies.com.tw/movie/floa44742698/) — Synopsis de _Love Education_, détails des huit nominations au Golden Horse et distribution des rôles.
+[^2]: [Wikipédia : The Price of Love](https://zh.wikipedia.org/zh-tw/愛的代價) — Sorti en 1992 sous le label Rock Records avec des paroles et une musique de Jonathan Lee ; la version la plus ancienne répertoriée est celle de Chang Ai-chia, également reprise par Jonathan Lee (1994) et Gigi Leung (2000). C'est le thème principal du film _Three Summers_.

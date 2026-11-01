@@ -67,7 +67,7 @@ Namun, hal ini nantinya menjadi puncak tinggi yang tidak berkelanjutan: tepat se
 
 Mereka berbeda, mereka menggunakan synthesizer untuk kembali.
 
-###《Richard》nama itu berasal dari kejadian kecelakaan
+### 《Richard》nama itu berasal dari kejadian kecelakaan
 
 Pada musim dingin 2018 setelah rebranding, lagu single resmi pertama adalah [《Richard》](https://www.youtube.com/watch?v=PORWzNz9o90).[^4]Lagu ini naik ke peringkat teratas di StreetVoice selama beberapa minggu, hingga mencapai lebih dari seratus juta tayangan.
 
@@ -77,7 +77,7 @@ Pada tahun 2018, terjadi insiden **Horizon Air**: seorang pekerja darat bernama 
 
 《Richard》ditulis untuk nama tersebut. Bukan untuk merekonstruksi insidennya, melainkan menggunakan aransemen elektronik untuk menciptakan nuansa 'di udara, tidak tahu bagaimana untuk kembali'—synthesizer menuturkan nada panjang, drum machine memberi irama yang jarang, vokal diolah menjadi terasing. Cara penanganan ini nantinya menjadi bentuk dasar estetika Ao dan Gunung secara keseluruhan: **tidak membahas kekerasan secara langsung, melainkan membuat guncangan kekerasan menjadi bunyi**.
 
-###《Semua Hal Baik Akan Terjadi》adalah sebuah mantra
+### 《Semua Hal Baik Akan Terjadi》adalah sebuah mantra
 
 Pada Juni 2019, mereka merilis EP pertama mereka [《Semua Hal Baik Akan Terjadi》](https://www.youtube.com/watch?v=7akbhz4aSg4) (All Good Things Will Happen). Empat lagu:《Satu Ratus》, [《Ruang di Pantai》](https://www.youtube.com/watch?v=mjv6KEc1Who),《Richard》, 《Semua Hal Baik Akan Terjadi》(dengan fit. Li Man Spëll).[^5]
 
@@ -103,7 +103,7 @@ Album ini nantinya dinominasikan untuk **Golden Indie Music Awards ke-13 untuk K
 
 > **✦** Xiao Ao dalam wawancara mengatakan, yang ingin ia lakukan bukanlah lagu musik gaya tradisional: 'Saya ingin membuat rasa pelibaran yang sendirian, seperti musik yang tarikan dengan kenangan otak.'[^8]
 
-###《Miffy》menyemangati orang tersebut Miffy
+### 《Miffy》menyemangati orang tersebut Miffy
 
 Pada 4 Agustus 2025, tiga tahun setelah mereka kembali, Ao dan Gunung merilis album kedua mereka《Hidden Album》.[^9]
 
@@ -133,7 +133,7 @@ Isan menggambarkan pola kolaborasi ini dengan jelas:
 
 Dari EP 2019 dengan rekaman campuran Japan AKNIT, hingga 2025 Hidden Album dengan kolaborator Grammy internasional, Ao dan Gunung menggunakan tujuh tahun untuk membuat **'kolaborasi orang asing era internet' menjadi hal yang optimal**. Dua pekerja teknologi yang menulis lagu di ruangan di Taipei, menghubungi insinyur audio Grammy di belahan bumi lain melalui email untuk menghubungi berkas kerja.
 
-###《Hidden Album》adalah album tersembunyi di ponsel
+### 《Hidden Album》adalah album tersembunyi di ponsel
 
 Pada 4 Januari 2026, Ao dan Gunung menggelar konser《Hidden Album》berjudul sama.([^9]
 

@@ -16,10 +16,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-09-25T13:10:50+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:41:42.241864+00:00'
 ---
 
 # Visuelle Modul-Referenz: 19 Wege, Taiwan-Daten zu visualisieren
@@ -37,9 +37,9 @@ Die folgenden 19 Module zeigen alles von einfachen „Großzahlen“ bis zu „S
 Einfach und kraftvoll: Eine dramatische Zahl in großem Format, dazu ein Vorher-Nachher-Vergleich. Ideal als „Sledgehammer-Statistik“ am Anfang eines Artikels.
 
 ```tw-figure
-67.000 → 870.000 / m²
-Preis der staatlichen Wohnbautauschung in Taipeh 1985, vs. Durchschnittspreis 2026 — dieselbe Adresse, ca. 13-fach
-Registrierte Immobilienverkäufe (staatlicher Wohnbau)
+67.000 → 870.000 / Ping
+Unverkaufter Zuteilungspreis der Chenggong-Nationalwohnungen in Taipeh 1985 vs. Maklerdurchschnittspreis 2026 — dieselbe Adresse, ca. 13-fach
+Immobilienplattform mit registrierten Realpreisen (Chenggong-Nationalwohnungen)
 ```
 
 ## Datenkarten tw-stat
@@ -110,7 +110,7 @@ Wenn ein Satz die ganze Kernthematik eines Artikels trifft — vergrößern zur 
 
 ```tw-quote
 Ein Haus für 30 Millionen, das jetzt 60–70 Millionen kostet … Reichtum für die Reichen, der Staat zahlt für diejenigen, die schon genug haben
-Lin Chih-chun | Anwalt, 2025 gegen das Vorschlag „Staat finanziert Sanierung der Erfolgswohnungen“
+Lin Chih-chun | Anwalt, 2025 gegen das Vorschlag „Staat finanziert Sanierung der Chenggong-Nationalwohnungen“
 ```
 
 ## Quellenleiste tw-source
@@ -175,21 +175,21 @@ Taoyuan | 9,0 | 40,0
 Quelle: Immobilieninformationsplattform des Innenministeriums
 ```
 
-## Punktdiagramm tw-dot
+## tw-dot Diagramm
 
-Balken zeigen „Menge“, Punktdiagramme zeigen „Verteilung“: Alle Punkte liegen auf derselben Skala — du siehst, wer dicht beieinander liegt, wer Ausreißer ist. Eine Zeile = Dot-Strip; zwei Werte zeichnen eine Linie von „hier nach dort“; drei Werte (`Schätzung | Untergrenze | Obergrenze`) ergeben ein Meinungsforschungsdiagramm mit Konfidenzband. ±3 % Stichprobenfehler darf nicht verschwinden — besonders in Wahlen. `*` funktioniert genauso zur Hervorhebung.
+Balkendiagramme zeigen „Mengen“; Dot-Diagramme zeigen die **„Verteilung“**: Da alle Punkte auf derselben Skala liegen, erkennt man sofort, wer eng beieinander liegt und wer ein Ausreißer ist. Ein Wert pro Zeile ergibt einen „Dot Strip“; zwei Werte werden als Intervall von „hier bis dort“ gezeichnet; drei Werte (`Schätzwert | Untergrenze | Obergrenze`) erzeugen eine wie in Umfragen übliche Darstellung aus „Punktschätzung + Unsicherheitsintervall“. Eine Fehlermarge von ±3 % sollte nicht unterschlagen werden – dies ist die häufigste Schwachstelle bei der ehrlichen Darstellung in Wahljahren. Auch `*` kann zur Hervorhebung genutzt werden.
 
 ```tw-dot
-Die beiden Pole der Alterung: Jüngste bis älteste Stadt (65+ Anteil an Bevölkerung, %)
-Hsinchu County | 15,08 | jüngste Stadt Taiwans
+Die Extreme der Alterung: Die jüngsten bis ältesten Landkreise/Städte (Anteil über 65 Jahre, %)
+Hsinchu | 15,08 | Jüngster Landkreis Taiwans
 Taoyuan | 16,72
 Taichung | 17,40
-Xinbei | 19,95
+New Taipei | 19,95
 Tainan | 20,48
 Kaohsiung | 20,79
-*Chiayi County | 24,11 | älteste Stadt Taiwans
-*Taipeh | 24,18 | älteste Großstadt
-Quelle: Bevölkerungsstatistik des Innenministeriums, 31. Dezember 2025
+*Chiayi | 24,11 | Höchster Alterungsindex in Taiwan
+*Taipeh | 24,18 | Höchster Wert in Taiwan
+Quelle: Bevölkerungsstatistik des Innenministeriums, Ende 2025
 ```
 
 ## Stapeldiagramm tw-stack

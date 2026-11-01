@@ -1,83 +1,83 @@
 ---
-title: 'Xiao Qing-yang'
-description: 'Lauréat du Grammy Award for Best Recording Package, sept fois nommé avant de triompher grâce à une collaboration père-fille, figure emblématique du design taïwanais sur la scène mondiale'
+title: 'Hsiao Ching-yang'
+description: "Lauréat du Grammy du meilleur emballage d'album, nommé sept fois avant de l'emporter grâce à une collaboration père-fille, figure emblématique du design taïwanais sur la scène mondiale"
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
-    'designer',
-    'Grammy Award',
-    "pochette d'album",
-    'design visuel',
-    'culture taïwanaise',
+    'Designer',
+    'Grammy',
+    "Emballage d'album",
+    'Design visuel',
+    'Culture taïwanaise',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: People/蕭青陽.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:0a577177f15f5897
-sourceBodyHash: sha256:269ea0687b8a4a49
-translatedAt: 2026-05-16T05:07:56+08:00
+translatedFrom: 'People/蕭青陽.md'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:2c73351691aac54a'
+sourceBodyHash: 'sha256:4e85011d7634bdc0'
+translatedAt: '2026-10-21T20:47:14+08:00'
 ---
 
-# Xiao Qing-yang : porter le design taïwanais sur la scène mondiale
+# Hsiao Ching-yang : faire rayonner le design taïwanais sur la scène mondiale
 
-> **En bref (30 secondes) :** Né en 1966 à Xindian et diplômé du lycée professionnel Fu Hsing (復興商工), Xiao Qing-yang est le designer visuel taïwanais le plus visible sur la scène internationale. En 2005, il est nommé pour la première fois aux 47e Grammy Awards dans la catégorie Best Recording Package, avant d'accumuler au total sept nominations. Lors de la 65e cérémonie des Grammy Awards en 2023, l'album _Beginningless Beginning_, conçu conjointement avec sa fille Xiao Jun-tian, remporte enfin le Grammy Award for Best Recording Package, faisant de lui le premier designer taïwanais à obtenir cette distinction.
+> **Aperçu en 30 secondes :** Né en 1966 à Xindian, diplômé de l'école professionnelle Fuxing, Hsiao Ching-yang est le designer visuel taïwanais jouissant de la plus grande visibilité internationale. En 2005, il est sélectionné pour la première fois à la 47e cérémonie des Grammy Awards dans la catégorie « Meilleur emballage d'album » ; depuis, il a accumulé sept nominations. Lors de la 65e cérémonie, le 5 février 2023, l'album _Beginningless Beginning_, conçu avec sa fille Hsiao Chun-tien, remporte enfin le prix lors de sa septième nomination, faisant suite à la victoire de Lee Cheng-han et Yu Wei en 2022 pour l'album _Eight Songs of the Waves_ du groupe Sangpuy — les designers taïwanais remportent ainsi ce prix deux années de suite.
 
-## Formation et éveil artistique
+## Parcours et éveil au design
 
-Xiao Qing-yang naît le 26 février 1966 à Xindian, dans le comté de Taipei (aujourd'hui district de Xindian, New Taipei). Adolescent, il intègre le département des arts appliqués du lycée professionnel Fu Hsing, établissement réputé pour la formation en arts et design, où il reçoit un enseignement rigoureux des fondamentaux : couleur, composition, impression et autres techniques essentielles du design visuel. Ce lycée a longtemps été un vivier de talents en arts graphiques à Taïwan, et l'environnement de l'école forge chez lui une intuition profonde du langage visuel.[^1]
+Hsiao Ching-yang naît le 26 février 1966 dans le district de Xindian, alors relevant du comté de Taipei (aujourd'hui ville de Nouveau Taipei). Adolescent, il intègre la section arts appliqués de l'école professionnelle Fuxing, réputée pour former les talents du design taïwanais, où il reçoit une formation solide aux fondamentaux : couleur, composition, impression. L'environnement de l'école a cultivé son intuition du langage visuel.[^1]
 
-Dans les années 1980, l'industrie du disque taïwanaise connaît un essor fulgurant. Dès son plus jeune âge, Xiao Qing-yang développe une fascination visuelle pour les pochettes de disques et commence à explorer la zone de confluence entre musique et design. Sa sensibilité aux éléments visuels de la culture locale, jointe à son intuition pour la musique, cristallise progressivement en un langage de design singulier.
+Dans les années 1980, l'industrie du disque taïwanaise connaît son âge d'or. Dès sa jeunesse, Hsiao Ching-yang voue une fascination visuelle aux pochettes de disques ; il commence à explorer la frontière entre musique et design. Sa sensibilité aux éléments visuels de la culture locale, comme son intuition de l'émotion musicale, prennent peu à peu forme pour devenir son langage de design ultérieur.
 
-## L'entrée dans le design de pochettes d'albums
+## Entrée dans le design d'album
 
-Au début des années 1990, l'industrie de la musique populaire taïwanaise entre dans son âge d'or. Xiao Qing-yang s'investit de manière systématique dans le design de packaging d'albums. Il crée des pochettes pour des musiciens tels que [[Zhang Yu-sheng]] et [[Lim Giong]], se forgeant progressivement une réputation dans le milieu musical. Il développe une méthode de travail distincte de celle des designers commerciaux : une implication profonde dans le processus de création musicale, de longues sessions d'échange avec les artistes pour saisir le noyau spirituel de l'œuvre, avant de le traduire en langage visuel.[^2]
+Au début des années 1990, la pop taïwanaise entre dans son âge d'or ; Hsiao Ching-yang se consacre systématiquement au design d'emballage d'albums. Il réalise des œuvres pour [Chang Yu-sheng](/fr/people/chang-yu-sheng-singer/), [Lim Giong](/fr/people/lim-giong/) et d'autres musiciens, bâtissant sa réputation dans le milieu musical et forgeant une méthode de travail distincte de celle des designers commerciaux classiques : implication profonde dans le processus de création musicale, longs échanges avec les artistes pour saisir l'esprit de l'œuvre, puis transposition en langage visuel.[^2]
 
-Il excelle dans l'emprunt à la culture locale taïwanaise : sculptures de temples, motifs folkloriques, paysages naturels — autant d'éléments qu'il transforme en un langage de design capable de communiquer au-delà des frontières culturelles. Cette trajectoire, partant du local pour atteindre l'international, devient la signature la plus reconnaissable de son travail créatif.
+Il puise dans la culture locale taïwanaise — sculptures de temples, totems folkloriques, paysages insulaires — qu'il convertit en un langage de design capable de dialogue interculturel. Cette trajectoire, du local vers l'international, devient sa signature créative la plus reconnaissable.
 
-## 2005 : la première nomination aux Grammy
+## 2005 : première nomination aux Grammy
 
-En 2005, Xiao Qing-yang est nommé pour la première fois aux 47e Grammy Awards dans la catégorie Best Recording Package pour un design d'album taïwanais, devenant ainsi le premier designer taïwanais nommé dans cette catégorie.[^3]
+En 2005, Hsiao Ching-yang devient le premier designer taïwanais nommé aux Grammy Awards dans la catégorie « Meilleur emballage d'album » pour un album taïwanais, à l'occasion de la 47e cérémonie.[^3]
 
-Cette nomination marque la première apparition du design taïwanais sur la liste des Grammy Awards. Son langage visuel — ancré dans la culture locale taïwanaise et restitué par une composition moderne — offre une perspective esthétique radicalement différente aux regards des jurys dominés par les standards occidentaux, et lui vaut d'être remarqué par la communauté internationale du design. L'énergie créative du design culturel taïwanais laisse ainsi sa première empreinte sur la liste des Grammy.
+Cette nomination inscrit pour la première fois le design taïwanais sur la liste des Grammy. Son langage — ancré dans la culture locale, exprimé par une composition moderne — offre aux jurys, habitués aux canons esthétiques euro-américains, une perspective radicalement différente, et le fait connaître du cercle international du design. L'énergie du design culturel taïwanais laisse ainsi sa première empreinte sur la liste des Grammy.
 
-## Sept nominations et la consécration en 2023
+## Sept nominations et le sacre de 2023
 
-Entre 2005 et 2022, Xiao Qing-yang accumule sept nominations aux Grammy Awards dans la catégorie Best Recording Package, chacune répondant à une musique différente par une stratégie visuelle distincte. Sept nominations sans victoire — ce parcours devient en lui-même un événement culturel suivi avec attention par la communauté du design taïwanais.[^4]
+De 2005 à 2023, Hsiao Ching-yang enchaîne sept nominations aux Grammy pour la catégorie « Meilleur emballage d'album », chaque fois avec une stratégie visuelle radicalement différente, en réponse à la musique concernée. Les six premières nominations ne se soldent pas par une victoire ; ce parcours devient en lui-même un événement culturel suivi par le milieu du design taïwanais.[^4]
 
-Le 5 février 2023, lors de la 65e cérémonie des Grammy Awards, l'album _Beginningless Beginning_, bande originale du court-métrage _Danshan Gudao Trilogy_ (淡蘭古道三部曲), conçu conjointement par Xiao Qing-yang et sa fille Xiao Jun-tian, remporte le Grammy Award for Best Recording Package. Après dix-huit ans d'attente, la nomination se transforme enfin en victoire. L'année précédente, Li Zheng-han et Yu Wei avaient déjà remporté le premier Grammy taïwanais dans cette même catégorie avec l'album _Pangcah_ (八歌浪) de Suming (桑布伊). La victoire de Xiao Qing-yang consacre ainsi deux années consécutives de succès pour les designers taïwanais dans cette catégorie. Cette collaboration intergénérationnelle père-fille confère à cette reconnaissance une dimension de transmission particulièrement profonde.[^5]
+Le 5 février 2023, lors de la 65e cérémonie des Grammy Awards, l'album _Beginningless Beginning_ — bande originale du court-métrage _Trilogie de l'ancien sentier Danlan_, conçu par Hsiao Ching-yang et sa fille Hsiao Chun-tien — remporte le prix du « Meilleur emballage d'enregistrement » (Best Recording Package). Dix-huit ans après sa première nomination, la septième est la bonne. L'année précédente, Lee Cheng-han et Yu Wei avaient déjà décroché le premier Grammy taïwanais dans cette catégorie pour l'album _Eight Songs of the Waves_ de Sangpuy ; la victoire de Hsiao Ching-yang assure ainsi deux années consécutives de lauréats taïwanais. Cette collaboration intergénérationnelle père-fille confère à cette reconnaissance une dimension de transmission supplémentaire.[^5]
 
 ## Philosophie de design
 
-La philosophie de design de Xiao Qing-yang s'articule autour du principe « enraciné à Taïwan, épanoui dans le monde » (_根在台灣，花開世界_) : le créateur doit puiser profondément dans les ressources culturelles locales, mais son mode d'expression doit rester lisible à l'international. Cette posture permet à ses œuvres de conserver leur identité dans un contexte mondialisé, tout en ouvrant une voie d'exportation au langage visuel local taïwanais. Il ne cherche pas à imiter le langage du design occidental dominant, mais introduit temples, artisanat traditionnel et nature insulaire dans le regard des jurys internationaux.
+La philosophie de Hsiao Ching-yang s'articule autour de « Racines à Taïwan, fleurs dans le monde » — le créateur doit creuser en profondeur les ressources culturelles locales, mais les exprimer d'une manière lisible à l'international. Cette posture permet à ses œuvres de conserver leur identité dans un environnement globalisé, et trace une voie d'exportation pour le langage visuel taïwanais. Il n'imite pas le design dominant occidental, mais introduit temples, artisanats traditionnels, nature insulaire sous le regard des jurys internationaux.
 
-En parallèle de ses commandes commerciales, son atelier revient régulièrement sur le terrain de l'artisanat traditionnel, collaborant avec des maîtres artisans pour intégrer des techniques ancestrales dans le contexte du design contemporain. Il intervient aussi ponctuellement dans les universités pour transmettre cette vision créative — « parler avec ses propres racines » — à la nouvelle génération de designers.[^6]
+Au-delà des commandes commerciales, son studio retourne régulièrement sur le terrain de l'artisanat traditionnel, collabore avec des maîtres artisans, pour réinjecter les techniques ancestrales dans le contexte du design contemporain. Il intervient aussi ponctuellement à l'université, transmettant aux nouvelles générations de designers cette vision : « parler avec ses propres racines ».[^6]
 
 ## Signification pour le design taïwanais
 
-La victoire de Xiao Qing-yang aux Grammy Awards trace une voie exemplaire pour le design taïwanais : il n'est pas nécessaire de fuir la culture locale — le langage visuel de Taïwan peut tenir sa place dans les compétitions internationales. Son accomplissement incite les jeunes designers à explorer les ressources locales plutôt qu'à les percevoir comme un obstacle à la reconnaissance internationale. Le Golden Melody Award for Best Album Design (金曲獎最佳專輯包裝設計獎), qu'il a reçu à plusieurs reprises au fil des ans, témoigne également de la reconnaissance nationale de son talent, ancrant sa légitimité dans un contexte local vérifiable.[^7]
+Le Grammy de Hsiao Ching-yang trace une voie pour le design taïwanais : nul besoin d'occulter la culture locale ; le langage visuel de Taïwan peut tenir sa place dans les concours internationaux. Son parcours encourage les jeunes designers à fouiller les ressources locales au lieu de les considérer comme un obstacle à l'internationalisation. Le prix Golden Melody du meilleur emballage d'album, qu'il a accumulé au fil des ans, ancre également son talent dans un contexte local vérifiable.[^7]
 
 ## Références
 
-[^1]: [Site officiel du lycée Fu Hsing](https://www.fhvs.tp.edu.tw/) — Historique de l'établissement et informations sur le département des arts appliqués.
+[^1]: [Site officiel de l'école professionnelle Fuxing](https://www.fhvs.tp.edu.tw/) — Historique de l'école et présentation de la section arts appliqués.
 
-[^2]: [Liste des lauréats des Golden Melody Awards — Bureau de l'audiovisuel et de la musique populaire, Ministère de la Culture](https://www.bamid.gov.tw/information_143_64138.html) — Palmarès de Xiao Qing-yang aux Golden Melody Awards dans la catégorie Best Album Design.
+[^2]: [Palmarès historique des Golden Melody Awards — Bureau de l'industrie cinématographique et musicale populaire, Ministère de la Culture](https://www.bamid.gov.tw/information_143_64138.html) — Historique des victoires de Hsiao Ching-yang au Golden Melody du meilleur emballage d'album.
 
-[^3]: [Données de nomination aux 47e Grammy Awards — The Recording Academy](https://www.grammy.com/) — Confirmation de la première nomination de Xiao Qing-yang dans la catégorie Best Recording Package en 2005.
+[^3]: [Données des nominations de la 47e cérémonie des Grammy Awards — The Recording Academy](https://www.grammy.com/) — Confirmation de la première nomination de Hsiao Ching-yang en 2005 dans la catégorie Best Recording Package.
 
-[^4]: [Historique des nominations aux Grammy Awards — Grammy.com](https://www.grammy.com/) — Registre complet des sept nominations de Xiao Qing-yang.
+[^4]: [Historique des nominations aux Grammy Awards — Grammy.com](https://www.grammy.com/) — Enregistrement complet des sept nominations de Hsiao Ching-yang.
 
-[^5]: [Annonce des lauréats des 65e Grammy Awards — The Recording Academy](https://www.grammy.com/news/2023-grammy-awards-complete-winners-nominations-list) — Confirmation de la victoire de Xiao Qing-yang et Xiao Jun-tian avec _Beginningless Beginning_ dans la catégorie Best Recording Package.
+[^5]: [Annonce des lauréats de la 65e cérémonie des Grammy Awards — The Recording Academy](https://www.grammy.com/news/2023-grammy-awards-complete-winners-nominations-list) — Confirmation de la victoire de Hsiao Ching-yang et Hsiao Chun-tien avec _Beginningless Beginning_ pour le prix Best Recording Package.
 
-[^6]: [Taiwan Design Research Institute — Base de données des talents du design](https://www.tdri.org.tw/) — Informations sur les collaborations interdisciplinaires de Xiao Qing-yang et sur son atelier.
+[^6]: [Institut de recherche en design de Taïwan — Base de données des talents du design](https://www.tdri.org.tw/) — Collaborations transversales et parcours du studio de Hsiao Ching-yang.
 
-[^7]: [Base de données des artistes du Ministère de la Culture](https://artist.moc.gov.tw/) — Parcours créatif de Xiao Qing-yang et palmarès nationaux et internationaux.
+[^7]: [Base de données des artistes du Ministère de la Culture](https://artist.moc.gov.tw/) — Parcours créatif et palmarès national et international de Hsiao Ching-yang.
 
 ## Pour aller plus loin
 
-- [Lauréats des Grammy Awards Best Recording Package — Grammy.com](https://www.grammy.com/) — Liste historique des nominations et lauréats du meilleur design de pochette d'album
-- [Lim Giong](/fr/people/lim-giong/) — Musicien taïwanais avec lequel Xiao Qing-yang a collaboré à ses débuts
+- [Lauréats historiques du Grammy Best Recording Package — Grammy.com](https://www.grammy.com/) — Liste historique des nommés et lauréats du meilleur emballage d'album
+- [Lim Giong](/fr/people/lim-giong) — Musicien taïwanais, collaborateur de la première période de Hsiao Ching-yang

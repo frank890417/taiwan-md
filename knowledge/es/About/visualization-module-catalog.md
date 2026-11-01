@@ -21,10 +21,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-07-31T02:01:51+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:35:59.984632+00:00'
 ---
 
 # Catálogo de módulos de visualización: diecinueve formas de ver los datos de Taiwán
@@ -43,8 +43,8 @@ La más simple y potente: presentar un número dramático en gran tamaño para m
 
 ```tw-figure
 67,000 → 870,000 / ping
-Precio de venta de la vivienda social de Éxito (Cheng-shung) en Taipéi en 1985 frente al precio medio de mercado en 2026: la misma dirección, aproximadamente 13 veces más caro.
-Plataforma de registro de precios reales (Vivienda Social Éxito)
+Precio de venta de la vivienda social Chenggong en Taipéi en 1985 frente al precio medio de mercado en 2026: la misma dirección, aproximadamente 13 veces más caro.
+Plataforma de registro de precios reales (Vivienda Social Chenggong)
 ```
 
 ## Grupo de datos tw-stat
@@ -115,7 +115,7 @@ Cuando una sola frase representa la tensión central de todo un artículo, ampli
 
 ```tw-quote
 Una casa con valor de mercado de 30 millones se convierte en una de 60 a 70 millones... robando a los pobres para beneficiar a los ricos, usando dinero estatal para ayudar a los ricos a remodelar sus casas.
-Lin Chih-chun | Abogado, propuesta de 2025 sobre «uso de fondos estatales para la renovación de la Vivienda Social Éxito»
+Lin Chih-chun | Abogado, propuesta de 2025 sobre «uso de fondos estatales para la renovación de la Vivienda Social Chenggong»
 ```
 
 ## Barra de fuente tw-source
@@ -182,18 +182,18 @@ Fuente: Plataforma de Información Inmobiliaria del Ministerio del Interior
 
 ## Gráfico de puntos tw-dot
 
-El gráfico de barras mide «cantidad»; el gráfico de puntos muestra «distribución». Todos los puntos caen en la misma escala, permitiendo ver quién está agrupado y quién es un valor atípico. Una fila con un solo valor es un _dot strip_; dos valores dibujan un intervalo «de aquí a allá»; tres valores (`Estimación | Límite inferior | Límite superior`) crean una estimación de encuesta con su margen de error. Un error de muestreo del ±3% no debe ignorarse; esta es la forma más honesta de presentar datos en años electorales. El `*` también puede usarse para enfatizar.
+El gráfico de barras compara «cantidades», mientras que el gráfico de puntos muestra la «distribución»: todos los puntos caen sobre la misma escala, lo que te permite ver quién está agrupado y quién es un valor atípico. Si proporcionas un valor por fila, obtendrás un _dot strip_; si proporcionas dos valores, se dibujará un intervalo de «de aquí hasta allá»; si proporcionas tres valores (`estimación puntual | límite inferior | límite superior`), se dibujará una «estimación puntual + banda de incertidumbre», similar a las encuestas de opinión. El margen de error del ±3% no debe ignorarse; esta es la forma más honesta de presentarlo, algo que suele fallar con frecuencia en los años electorales. También puedes usar `*` para enfatizar algo.
 
 ```tw-dot
-Los extremos del envejecimiento: condados y ciudades desde el más joven al más viejo (% de población de 65 años o más)
-Condado de Hsinchu | 15.08 | El más joven de Taiwán
+Los extremos del envejecimiento: de los condados/ciudades más jóvenes a los más viejos (% de población de 65 años o más)
+Hsinchu | 15.08 | El condado más joven de Taiwán
 Taoyuan | 16.72
 Taichung | 17.40
 Nuevo Taipéi | 19.95
 Tainan | 20.48
 Kaohsiung | 20.79
-*Condado de Chiayi | 24.11 | El más viejo de Taiwán
-*Taipéi | 24.21 | El más viejo de las seis grandes ciudades
+*Chiayi | 24.11 | Índice de envejecimiento más alto de Taiwán
+*Taipéi | 24.18 | El más alto de Taiwán
 Fuente: Dirección de Registro Civil del Ministerio del Interior, finales de 2025
 ```
 

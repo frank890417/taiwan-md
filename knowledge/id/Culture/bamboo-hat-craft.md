@@ -80,7 +80,7 @@ Zheng Yang-yi dari Universitas Nasional Chung Yang menyoroti dalam "Pusat Inform
 
 Pada April 2026, jurnalis senior Chen Quan-xin menulis dalam kolom _HakkaNews_: "Setiap akhir musim semi hingga awal musim panas, saat bunga mawar bulan mekar adalah musim tunas bambu ketan muncul dari tanah..."[^20]: Anggota komite konsultasi ini menggambarkan kesulitan petani bambu di Taoyuan dan Miaoli: produksi menurun setiap tahun, anak muda tidak mau naik gunung, dan pedagang besar tertekan oleh impor bambu kering dari Tiongkok. Di ujung rantai pasokan ini adalah bilah bambu di tangan pengrajin _douli_.
 
-**Putusnya generasi guru + Putusnya rantai bahan = Kepunahan struktural ganda.** Dalam daftar rencana subsidi resmi dari Komite Tionghoa, terdapat item seperti "poin kerja bantuan kebangkitan seni Tionghoa" dan "lingkungan tanpa hambatan untuk bahasa Tionghoa", namun tidak ada rencana pelestarian menyeluruh untuk kerajinan spesifik seperti _douli_. Kementerian Budaya mendaftarkan "kerajinan anyaman bambu" sebagai warisan budaya takbenda pada individu tertentu di Jhonghua atau Taitung[^11, 12]: sertifikat pelestarian individu ada, **tetapi tidak ada yang menjaga "seluruh rantai pasokan".**
+**Putusnya generasi guru + Putusnya rantai bahan = Kepunahan struktural ganda.** Dalam daftar rencana subsidi resmi dari Komite Tionghoa, terdapat item seperti "poin kerja bantuan kebangkitan seni Tionghoa" dan "lingkungan tanpa hambatan untuk bahasa Tionghoa", namun tidak ada rencana pelestarian menyeluruh untuk kerajinan spesifik seperti _douli_. Kementerian Budaya mendaftarkan "kerajinan anyaman bambu" sebagai warisan budaya takbenda pada individu tertentu di Jhonghua atau Taitung[^11][^12]: sertifikat pelestarian individu ada, **tetapi tidak ada yang menjaga "seluruh rantai pasokan".**
 
 ## Masih Ada yang Mengajar: Peta Hidup Institusi Pelestarian
 
@@ -89,7 +89,7 @@ Meskipun kerajinan _douli_ tidak didaftarkan secara resmi sebagai teknik pelesta
 - **Tulou, Nantou | Studio Anyaman Bambu Huang Tu-shan**: Putra dari maestro Huang Tu-shan, Huang Qi-xiang, meneruskan keahlian ayahnya. Bengkel dibuka untuk reservasi setiap hari pukul 09:00–12:00[^26]. Pusat Penelitian dan Pengembangan Kerajinan Taiwan juga membuka kelas praktik anyaman bambu dan menerbitkan buku panduan teknik dasar yang memiliki teks dwibahasa Inggris-Mandarin paling lengkap untuk proses _laitai_[^33].
 - **Fuxing, Taoyuan | Desa Bambu Luo-gang**: Pemuda suku Atayall membentuk "Asosiasi Pengembangan Industri Bambu Ketan Fuxing", berdedikasi untuk melestarikan budaya anyaman bambu dan menyediakan pengalaman DIY. Situs web resmi memposisikan komunitas ini sebagai representasi dari "kebahagiaan dalam mengenal bambu"[^25].
 - **Dongshi, Taichung | Kantor Cabang Dongshi Biro Kehutanan & Konservasi Alam**: Sejak 2024, Taman Budaya Kehutanan Dongshi menyelenggarakan berbagai kursus pengalaman anyaman bambu yang dipandu oleh pengrajin profesional[^34]. Namun, kontennya lebih banyak untuk barang kebutuhan sehari-hari kecil dan bukan _douli_ lengkap.
-- **Fuli, Hualien; Miaoli; Longxi, Tainan**: Xu Gui-zhu, Wu Jin-yun/Xu Bao-mei, dan Zhang Jun-bo di "Bai-chu Garden": dua yang pertama mendapatkan siswa melalui program Departemen Pengembangan Pemuda, yang terakhir fokus pada pengajaran pengalaman[^32, 28]. Ini adalah model "guru generasi terakhir + transisi ke pengalaman", **bukan transmisi profesi sejati, melainkan semacam penyangga budaya.**
+- **Fuli, Hualien; Miaoli; Longxi, Tainan**: Xu Gui-zhu, Wu Jin-yun/Xu Bao-mei, dan Zhang Jun-bo di "Bai-chu Garden": dua yang pertama mendapatkan siswa melalui program Departemen Pengembangan Pemuda, yang terakhir fokus pada pengajaran pengalaman[^32][^28]. Ini adalah model "guru generasi terakhir + transisi ke pengalaman", **bukan transmisi profesi sejati, melainkan semacam penyangga budaya.**
 
 Perlu dibedakan: sebagai seni anyaman bambu secara keseluruhan, Taiwan memiliki "sistem Huang Tu-shan" yang dapat dilihat oleh generasi kedua dan ketiga; namun **cabang _douli_ adalah jalan buntu dalam sistem tersebut di mana hampir tidak ada "generasi berikutnya" yang menjadikannya profesi**: karena pasar _douli_ sudah lama dikuasai barang impor, murid tidak melihat prospek penghidupan. Pelatihan, kelas pengalaman, dan dokumenter semuanya penting, tetapi tidak dapat menggantikan fakta bahwa "seseorang mencari nafkah dari ini".
 
@@ -103,7 +103,7 @@ Dengan kata lain: **lawan dari _douli_ buatan tangan bukanlah _douli_ Vietnam, m
 
 ## Jempol yang Tergores Bilah Bambu
 
-Kembali ke ruang tamu di samping SMP Longdu. Di akhir tulisan wawancara tahun 2017 tertulis: "Kakek mulai menganyam _douli_ sejak usia belasan tahun, sudah lebih dari enam puluh tahun."[^1] Lin Rong-chun tidak memenangkan penghargaan dan tidak terdaftar sebagai pelestari warisan budaya. Ia bukan maestro tingkat nasional yang diakui secara resmi; gelar tersebut diberikan kepada beberapa orang seperti Lin Xiu-feng di Jhonghua atau Lin Huang-jiao di Taitung[^11, 12].
+Kembali ke ruang tamu di samping SMP Longdu. Di akhir tulisan wawancara tahun 2017 tertulis: "Kakek mulai menganyam _douli_ sejak usia belasan tahun, sudah lebih dari enam puluh tahun."[^1] Lin Rong-chun tidak memenangkan penghargaan dan tidak terdaftar sebagai pelestari warisan budaya. Ia bukan maestro tingkat nasional yang diakui secara resmi; gelar tersebut diberikan kepada beberapa orang seperti Lin Xiu-feng di Jhonghua atau Lin Huang-jiao di Taitung[^11][^12].
 
 Namun ia ada di ladang. Sebuah _douli_ buatannya dijual kepada petani teh di desa sebelah, digunakan selama lima atau enam tahun, dan dikembalikan kepadanya untuk diperbaiki saat rusak. Setelah diperbaiki, petani akan memakainya lagi selama lima tahun. Siklus ini tidak tercatat dalam basis data koleksi mana pun. Koleksi _douli_ di Museum Sejarah Nasional Taiwan dengan nomor 2002.005.0211 mencantumkan pembuat sebagai "tidak diketahui"[^13]—ini adalah cara penamaan untuk sebagian besar _douli_ di museum: tidak diketahui.
 
@@ -183,8 +183,6 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 
 [^26]: [Asosiasi Bambu Taiwan: Huang Tu-shan](https://www.taiwan-bamboo.org/tw/partner/huang-tu-shan/) - Profil maestro anyaman bambu yang mencatat silsilah pengajaran di Taiwan.
 
-[^17]: [Stasiun TV New Taiwan: Douli Tradisional di Pedesaan Tainan Masih Populer](https://www.merit-times.com.tw/NewsPage.aspx?unid=823598) - Laporan 2014 tentang tradisi _douli_ di Longxi yang sudah ada sejak Dinasti Qing.
-
 [^28]: [Yayasan Budaya Tainan: Bai-chu Garden](https://docmall.doctw.com/story_page.php?id=132) - Rekaman transisi dari produsen menjadi pengajar untuk pelestarian budaya di Longxi.
 
 [^29]: [HakkaNews: Dokumenter "Chuan, Chuan" merekam keterampilan pembuatan douli](https://hakkanews.tw/2022/06/15/biography-upload/) - Laporan 2022 mengenai dokumentasi pengrajin _douli_ di Miaoli.
@@ -198,3 +196,5 @@ Penuaan pengrajin, penyusutan pasar, putusnya rantai pasokan, dan perubahan ikli
 [^33]: [Portal Publikasi Pemerintah: Teknik Dasar Anyaman Bambu](https://gpi.culture.tw/books/1010902393) - Buku panduan teknis yang diterbitkan oleh pemerintah untuk edukasi anyaman bambu.
 
 [^34]: [Direktorat Kehutanan: Kursus Anyaman Bambu di Taman Budaya Kehutanan Dongshi](https://www.forest.gov.tw/news/0077957) - Pengumuman kursus yang didukung oleh pemerintah untuk mempromosikan penggunaan bambu lokal.
+
+[^27]: [NTDTV: Ten Thousand Handmade Bamboo Hats Still Flourish in Longqi, Tainan](https://www.ntdtv.com/b5/2014/07/22/a1124646.html) — NTDTV Asia-Pacific's 2014-07-22 report documenting the hat-making process of 86-year-old Chen Lianqin in Longqi, Tainan, her daughter Chen Yuzi's family inheritance memories, and a craft history stretching back to the Qing dynasty — a clear Minnan farming-village case showing that bamboo hats are not only a Hakka craft.

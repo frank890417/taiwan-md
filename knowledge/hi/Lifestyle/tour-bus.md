@@ -189,6 +189,6 @@ translatedAt: '2026-07-24T20:56:16+08:00'
 
 [^27]: [Mandatory ID Systems from Next Year, MOTC Subsidizes Up to 2,000 per Bus](https://udn.com/news/story/7266/8824688) — UDN report on subsidy limits and operator costs.
 
-[^18]: [110 Tour Bus Operation Status Survey](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=19-2&pcode=K0040003) — Academia Sinica survey of tour bus operators.
-
 [^29]: [104 Transport Yearbook: Tour Bus Industry](https://www.motc.gov.tw/ch/app/yearbook/doc?detailNo=2&id=21&module=directory&serno=6845&type=s&year=104) — MOTC statistics on the number of vehicles and operators.
+
+[^28]: [110वें वर्ष पर्यटन बस संचालन स्थिति सर्वेक्षण](https://srdaadj.survey.sinica.edu.tw/search/metadata/detail/AG060008) — अकादमी सिनिका सर्वेक्षण अनुसंधान केंद्र द्वारा जारी परिवहन मंत्रालय का आधिकारिक सांख्यिकी, जो 2021 के अंत तक पूरे ताइवान में 907 पर्यटन बस संचालकों और वाहनों के नमूने आंकड़ों को दर्ज करता है।

@@ -1,10 +1,8 @@
 ---
 title: 'Sensibilitas Taiwan: Apakah Kita Baru Berani Mengatakan Rumah Tua Kita Indah Setelah Orang Korea Memberi Tanda Suka?'
 description: 'Pada 2008, sekelompok orang di Tainan memulai gerakan “Vitalitas Rumah Tua” dan mulai memandang kembali rumah-rumah tua mereka sendiri—sebelas tahun penuh sebelum orang Korea menggandrungi lanskap jalanan Taiwan dengan sebutan “대만감성”. Namun, ketika tren ini meledak melalui lensa K-pop pada 2024, kita justru membicarakannya memakai kerangka “ekspor budaya” dari Administrasi Pariwisata dan Kementerian Kebudayaan, seolah-olah tatapan paling awal itu baru berarti setelah mendapat tanda suka dari orang Korea.'
-date: '2026-03-18'
-author: 'Taiwan.md'
+date: 2026-03-18
 category: 'Culture'
-subcategory: '區域特色'
 tags:
   [
     'sensibilitas Taiwan',
@@ -18,10 +16,13 @@ tags:
     'pembaruan perkotaan',
     'Wang Tsung-wei',
   ]
-readingTime: '18'
-lastVerified: '2026-07-18'
-lastHumanReview: 'false'
+subcategory: '區域特色'
+author: 'Taiwan.md'
+difficulty: 'beginner'
+readingTime: 18
 featured: true
+lastVerified: 2026-07-18
+lastHumanReview: false
 image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
@@ -31,11 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-07-18T18:59:53+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:53:51.066130+00:00'
 ---
 
 # Sensibilitas Taiwan: Apakah Kita Baru Berani Mengatakan Rumah Tua Kita Indah Setelah Orang Korea Memberi Tanda Suka?
@@ -150,40 +152,40 @@ Karena itu, sejarah sinema Taiwan tidak memberikan jawaban yang rapi mengenai �
 
 Film dapat ditonton kembali; rumah tidak. Ketika kita mengalihkan lensa dari bioskop ke jalan, muncul persoalan yang lebih memalukan: apakah alasan yang kita berikan sendiri untuk membongkar benda-benda tua yang sedang lenyap itu cukup jujur?
 
-## Dua alasan bagi satu jembatan, dan penyewa yang tidak pernah ditanya
+## Dua alasan untuk sebuah jembatan, dan penyewa yang tak pernah ditanya
 
-Mari kembali ke jembatan itu.
+Kembali ke jembatan itu.
 
-Jembatan Penyeberangan Heping–Hsinsheng dibangun pada 1982 dan selama empat puluh tahun menjadi salah satu jembatan penyeberangan yang paling sering muncul dalam gambar di Taipei. Selain foto pernikahan Oh Hyuk, Edward Yang dan Ang Lee pernah mengambil gambar di tempat ini[^23]. Pada larut malam 19 November 2024, jembatan itu dibongkar. Pemerintah kota memberikan alasan bahwa “masa pakainya sudah empat puluh tahun dan strukturnya bermasalah”. Masalahnya, alasan ini tidak sesuai dengan laporan milik pemerintah kota sendiri.
+Jembatan Penyeberangan Heping–Hsinsheng dibangun pada tahun 1982, dan selama empat puluh tahun menjadi salah satu jembatan penyeberangan orang yang paling sering muncul di kamera di Taipei—selain foto pernikahan Wu He, sutradara Yang De-chang dan Ang Lee juga pernah mengambil gambar di sini[^23]. Pada larut malam tanggal 19 November 2024, jembatan ini dibongkar. Alasan yang diberikan pemerintah kota adalah "masa pakai telah mencapai empat puluh tahun, dan terdapat masalah struktural". Masalahnya, alasan ini tidak sesuai dengan laporan yang dipegang oleh pemerintah kota sendiri.
 
-Hanya setengah tahun sebelum pembongkaran, pada 17 Mei 2024, perusahaan bernama Taiwan Integrated Disaster Prevention Engineering Consultants baru saja menyelesaikan pemeriksaan struktur jembatan tersebut. Kesimpulannya: hanya panel luar yang berkarat dan berlubang yang perlu diperbaiki; strukturnya sendiri tidak bermasalah[^24]. Seorang perempuan bermarga Ku yang memegang lisensi arsitek Amerika Serikat kemudian memeriksa catatan “Sistem Pengelolaan Jembatan dan Gorong-gorong Kota Taipei” dan menunjukkan kontradiksi tersebut. Pemeriksaan itu jelas-jelas menyimpulkan bahwa “strukturnya tidak bermasalah”, tetapi kurang dari enam bulan kemudian, Kantor Konstruksi Baru pemerintah kota mengubah pernyataannya menjadi “struktur jembatan mengkhawatirkan”[^24].
+Hanya setengah tahun sebelum pembongkaran, tepatnya pada 17 Mei 2024, sebuah perusahaan bernama "Taiwan Integrated Disaster Prevention Engineering Technology Consultant" baru saja menyelesaikan pemeriksaan struktur jembatan ini, dengan kesimpulan: hanya perlu memperbaiki bagian pelat dekoratif luar yang berkarat dan berlubang, sementara strukturnya sendiri aman[^24]. Ibu Gu, seorang arsitek pemegang lisensi Amerika Serikat, kemudian meninjau catatan dalam "Sistem Manajemen Jembatan dan Terowongan Kota Taipei" dan menunjukkan kontradiksi ini: meskipun laporan pemeriksaan tersebut menyatakan "struktur aman", Departemen Konstruksi Baru pemerintah kota justru mengubah pernyataannya dalam waktu kurang dari setengah tahun dengan mengatakan bahwa "struktur jembatan mengkhawatirkan"[^24].
 
-Lalu bagaimana dengan “masa pakai empat puluh tahun”? Dalam rapat koordinasi antara pemerintah kota dan warga, seorang wakil kepala insinyur bermarga Lin dari Kantor Konstruksi Baru menyatakan bahwa jembatan itu telah melampaui masa pakai empat puluh tahun dan harus dibongkar karena masalah struktur. Namun, seorang warga yang memahami peraturan bangunan langsung mempertanyakan pernyataan itu: “Batas empat puluh tahun sebenarnya merupakan ‘masa pakai minimum aset milik negara (jembatan penyeberangan)’ yang ditetapkan Kementerian Keuangan untuk mencegah pemerintah kabupaten dan kota membangun secara sembarangan. Tujuannya mencegah penyalahgunaan, bukan menetapkan masa pakai.”[^24] (Penggagas petisi, Lin Wen-chun, juga hadir dalam rapat dan mencatat perdebatan tersebut.) Aturan keuangan yang dibuat untuk mencegah pemerintah daerah memboroskan uang dipakai sebagai landasan struktural untuk membongkar sebuah jembatan.
+Lalu, bagaimana dengan "masa pakai empat puluh tahun" itu? Dalam rapat koordinasi antara pemerintah kota dan warga, seorang Wakil Kepala Insinyur bernama Lin dari Departemen Konstruksi Baru menyatakan di tempat bahwa jembatan tersebut telah melampaui masa pakai empat puluh tahun dan strukturnya bermasalah sehingga harus dibongkar; namun, seorang warga yang memahami peraturan bangunan di lokasi langsung menyanggah: "Batas waktu 40 tahun sebenarnya adalah 'masa pakai minimum properti publik (jembatan penyeberangan)' yang ditetapkan oleh Kementerian Keuangan untuk mencegah pemerintah daerah membangun infrastruktur secara sembarangan, dengan tujuan untuk mencegah penyalahgunaan, bukan merupakan masa pakai teknis."[^24] (Lin Wen-chun, penyelenggara petisi, juga hadir dalam pertemuan tersebut dan mencatat konfrontasi ini.) Sebuah peraturan keuangan yang dirancang untuk mencegah pemerintah daerah menghamburkan uang, justru digunakan sebagai dasar struktural untuk membongkar sebuah jembatan.
 
-Yang lebih pelik, alasan pembongkaran yang disampaikan Wali Kota Chiang Wan-an di depan umum berbeda lagi dari alasan Dinas Pekerjaan Umum. Ia menekankan bahwa tingkat pemakaian jembatan kurang dari sepuluh persen dan pilarnya menghalangi pandangan pengemudi. Ia juga membuat analogi dengan penurunan kecelakaan lalu lintas setelah pembongkaran Kompleks Perbelanjaan Chunghwa dan jembatan penyeberangan di persimpangan Hsinyi–Keelung[^25]. Di dalam pemerintah kota sendiri, tidak pernah ada penjelasan tunggal tentang “mengapa harus dibongkar” yang konsisten dan sesuai dengan bukti.
+Yang lebih halus lagi adalah alasan pembongkaran yang disampaikan secara terbuka oleh Walikota [蔣萬安](/people/蔣萬安) berbeda dengan alasan dari Biro Pekerjaan Umum: ia mengklaim bahwa tingkat penggunaan jembatan kurang dari sepuluh persen, pilar jembatan menghalangi pandangan pengemudi, dan ia bahkan menganalogikannya dengan penurunan kecelakaan lalu lintas setelah pembongkaran Pusat Perbelanjaan Zhonghua serta jembatan di persimpangan Xinyi-Jilong[^25]. Di internal pemerintah kota, sebenarnya tidak pernah ada satu penjelasan yang seragam dan sesuai dengan bukti mengenai "mengapa harus dibongkar".
 
-> **✦** Bahkan alasan untuk membongkar satu jembatan tidak sesuai dengan laporan yang dipesan pemerintah sendiri. Mungkinkah sebagian “sensibilitas Taiwan yang sedang menghilang” dibongkar sebelum kita sendiri menjelaskan alasannya dengan benar?
+> **✦** Bahkan alasan untuk membongkar sebuah jembatan pun tidak selaras dengan laporan yang mereka pesan sendiri. Apakah sebagian dari "sensibilitas Taiwan yang sedang menghilang" itu adalah sesuatu yang kita bongkar tanpa menjelaskan alasannya dengan jujur?
 
-Tidak semua kawasan tua berakhir demikian. Jalan Dihua di Dadaocheng mengambil jalur berbeda: melalui mekanisme transfer hak pembangunan (TDR), fasad rumah-rumah tua dapat dipertahankan tanpa pembongkaran besar-besaran. Namun, bahkan untuk “kisah sukses” seperti ini, kalangan akademik terus memperdebatkan apakah mekanisme tersebut menyebabkan penggusuran dan mendorong kenaikan harga properti[^26]. Metode pelestarian itu sendiri pun bukan jawaban yang bersih.
+Tidak semua jalanan tua berakhir seperti ini. Jalan Dihua di Dadaocheng menempuh jalur yang berbeda: melalui mekanisme Transfer Hak Pengembangan (TDR), fasad rumah-rumah tua tetap dipertahankan tanpa adanya penggusuran skala besar. Namun, bahkan untuk "kasus sukses" seperti ini, kalangan akademisi masih memperdebatkan apakah hal tersebut menyebabkan penggusuran paksa atau mendorong kenaikan harga properti[^26]. Bahkan metode pelestariannya sendiri bukanlah jawaban yang sepenuhnya bersih.
 
-![Lanskap Jalan Dihua Bagian 2 pada Maret 2024, dengan lebar jalan dan fasad rumah tua yang dipertahankan](/article-images/culture/dihua-street-2024.webp)
-_Jalan Dihua Bagian 2 pada 2024. Fasad rumah-rumah tua dipertahankan melalui mekanisme transfer hak pembangunan, menjadikannya salah satu dari sedikit kawasan bersejarah Taiwan yang tidak dibongkar. Namun, bahkan “keberhasilan” semacam ini masih diperdebatkan kalangan akademik mengenai harga yang harus dibayar. Foto: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
+![Pemandangan jalan Dihua Street Seksi 2 pada Maret 2024, mempertahankan lebar asli dan fasad rumah tua](/article-images/culture/dihua-street-2024.webp)
+_Dihua Street Seksi 2 pada tahun 2024. Fasad rumah tua dipertahankan melalui mekanisme Transfer Hak Pengembangan (TDR), menjadikannya salah satu kawasan bersejarah di Taiwan yang tidak dibongkar—namun bahkan untuk "keberhasilan" semacam ini, para akademisi masih memperdebatkan harganya. Photo: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
 
-Kita juga harus jujur bahwa tidak setiap pembongkaran memiliki alasan mencurigakan seperti Jembatan Penyeberangan Heping–Hsinsheng. Di kota yang sama, Kompleks Perumahan Hsining ditetapkan sebagai bangunan dengan beton tercemar garam laut karena kadar ion kloridanya terlalu tinggi. Ini merupakan masalah keselamatan dengan indikator teknis yang jelas, bukan “masa pakai” yang tidak dapat diterangkan. Alasan pembongkaran bangunan tua yang pernah menjadi lokasi pengambilan gambar beberapa film Tsai Ming-liang ini jauh lebih kuat[^27]. Di sisi lain kota, Kompleks Perumahan Royal Rebar, yang berusia hampir empat puluh tahun dan juga dinyatakan memiliki beton tercemar garam laut, menunggu dua puluh lima tahun sebelum warga akhirnya melihat pembaruan perkotaan dan pembongkaran dimulai. Seorang pria lanjut usia menggambarkan kabar itu seperti melihat fajar di tengah malam gelap[^28]. Sama-sama pembongkaran: ada yang mencurigakan, tetapi ada pula yang dimohonkan para penghuni selama separuh hidup mereka.
+Dan sejujurnya, tidak semua pembongkaran memiliki alasan yang mencurigakan seperti Jembatan Penyeberangan Heping–Hsinsheng. Di kota yang sama, Kompleks Perumahan Xining dinyatakan sebagai rumah berpasir laut karena kandungan klorida yang terlalu tinggi; ini adalah masalah keamanan dengan indikator teknis yang jelas, bukan "masa pakai" yang tidak jelas; alasan pembongkaran bangunan tua tempat Tsai Ming-liang telah syuting beberapa film jauh lebih kuat[^27]. Di sisi lain, Kompleks Royal Rebar yang berusia hampir empat puluh tahun dan diidentifikasi sebagai rumah berpasir laut, membuat penghuninya menunggu selama dua puluh lima tahun sebelum akhirnya renovasi perkotaan dimulai; seorang pria tua menggambarkan berita tersebut seperti melihat fajar di tengah kegelapan malam[^28]. Sama-sama pembongkaran, ada yang dibongkar dengan mencurigakan, dan ada pula yang pembongkarannya adalah sesuatu yang telah didambakan oleh penghuninya selama separuh hidup mereka.
 
 ```tw-versus
-Jembatan Penyeberangan Heping–Hsinsheng | Kompleks Perumahan Hsining
-Laporan teknis Mei 2024: struktur tidak bermasalah | Kadar ion klorida terlalu tinggi; ditetapkan sebagai bangunan dengan beton tercemar garam laut
-Enam bulan kemudian pemerintah kota mengubah pernyataan menjadi “struktur bermasalah” | Bahaya keselamatan dengan indikator teknis yang jelas
-“Batas 40 tahun” sebenarnya merupakan aturan Kementerian Keuangan untuk mencegah penyalahgunaan | Lokasi pengambilan gambar beberapa film Tsai Ming-liang
-Sumber: laporan verifikasi Yahoo News, NOWnews
+Jembatan Heping–Hsinsheng | Kompleks Perumahan Xining
+Laporan teknis Mei 2024: Struktur aman | Kandungan klorida terlalu tinggi, diidentifikasi sebagai rumah berpasir laut
+Pemerintah kota mengubah pernyataan setelah setengah tahun "struktur bermasalah" | Bahaya keamanan dengan indikator teknis yang jelas
+"Batas 40 tahun" sebenarnya adalah peraturan pencegahan penyalahgunaan Kementerian Keuangan | Lokasi syuting banyak film Tsai Ming-liang
+Sumber: Laporan verifikasi berita Yahoo, NOWnews
 ```
 
-Namun, baik pembongkarannya mencurigakan maupun memang diperlukan, ada satu kelompok yang hampir tidak memiliki suara dalam seluruh perdebatan: penyewa. Pembaruan perkotaan membicarakan “transformasi hak”, sehingga subjeknya selalu pemilik properti. Orang yang menyewa di dalamnya secara hukum hanya dianggap sebagai pihak ketiga. Pasal 58 Undang-Undang Pembaruan Perkotaan menuliskannya dengan jelas: ketika penyewa bangunan terpaksa mengakhiri kontrak karena pembaruan perkotaan, dalam kebanyakan keadaan kompensasi yang dapat diminta dari pemilik rumah hanya “setara dengan dua bulan uang sewa”[^29].
+Namun, baik pembongkaran itu mencurigakan maupun memang seharusnya dilakukan, ada satu kelompok orang yang hampir tidak memiliki suara dalam seluruh diskusi ini: penyewa. Pembahasan mengenai renovasi perkotaan selalu berbicara tentang "perubahan hak", di mana subjek utamanya adalah pemilik properti yang memiliki hak milik; sementara mereka yang menyewa di sana secara hukum hanya dianggap sebagai pihak ketiga. Pasal 58 Undang-Undang Pembaruan Perkotaan menyatakan dengan sangat jelas bahwa jika penyewa terpaksa mengakhiri kontrak sewa karena renovasi perkotaan, kompensasi yang dapat diminta dari pemilik rumah dalam banyak kasus hanyalah "setara dengan dua bulan uang sewa"[^29].
 
-Dalam sebuah proyek pembaruan perkotaan di Jalan Chongqing Utara Bagian 2, Taipei, sebuah toko kacamata dicap opini publik sebagai pihak keras kepala yang “menghambat pembaruan perkotaan dan ingin mendapat bagian lebih besar” karena penyewanya belum pindah. Penjelasan pemilik toko sebenarnya sangat biasa: “Internet menulis sembarangan. Kami tidak sejahat itu. Kami sedang bersengketa soal sewa dengan pemilik bangunan dan kini berperkara di pengadilan. Setelah perkaranya selesai, kami akan pindah.”[^30] Ia tidak memiliki kuasa wacana untuk melawan kisah “penghuni pembangkang” yang sudah telanjur terbentuk, sama seperti para penyewa yang telah tinggal hampir sepanjang hidup di rumah tua tetapi tidak menjadi subjek dalam dokumen pembaruan perkotaan mana pun.
+Dalam sebuah proyek renovasi perkotaan di Chongqing North Road Seksi 2, Taipei, sebuah toko kacamata dijadikan sasaran opini publik sebagai "penghambat renovasi yang ingin mendapat bagian lebih" karena penyewanya belum pindah. Penjelasan pemilik toko sebenarnya sangat sederhana: "Internet bicara sembarangan, kami tidak seburuk itu; masalahnya adalah kami memiliki sengketa sewa dengan pemilik rumah dan saat ini sedang dalam proses hukum. Setelah kasus hukum selesai, kami akan pindah."[^30] Ia tidak memiliki kekuatan suara untuk melawan narasi "penghambat renovasi" yang sudah terlanjur terbentuk, sama seperti para penyewa yang telah tinggal di rumah tua tersebut selama sebagian besar hidup mereka, namun tidak pernah menjadi subjek dalam dokumen renovasi perkotaan mana pun.
 
-Bahkan alasan pembongkaran dan orang-orang yang menghilang dapat kita ceritakan sendiri secara tidak jujur. Jika kita bahkan tidak mampu menjelaskan apa yang telah dibongkar dan mengapa, klaim bahwa “sejak lama kita sudah melihat rumah tua kita sendiri sebagai sesuatu yang indah” sebenarnya juga kehilangan pijakan. Tampaknya proses “melihat diri sendiri kembali” belum benar-benar selesai.
+Bahkan alasan pembongkaran dan orang-orang yang menghilang mungkin telah kita ceritakan dengan tidak cukup jujur. Jika kita bahkan tidak bisa menjelaskan dengan jelas apa yang kita bongkar dan mengapa kita membongkarnya, maka dasar dari kalimat "kita sudah lama melihat rumah tua kita sangat indah" sebenarnya tidak akan kuat—tampaknya upaya untuk "melihat diri kita kembali" belum benar-benar selesai.
 
 ## Wang Tsung-wei berbelok tiga kali; kini giliran kita melihatnya terlebih dahulu
 

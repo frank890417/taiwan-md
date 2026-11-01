@@ -11,6 +11,8 @@
  * 內容：
  *   1. shot-mode init（?shot=1 → data-shot attr，generate-og-images.mjs 用）
  *   2. reader settings FOUC-safe early init（讀 localStorage 套 data-theme）
+ *   3. window.twmdIcon(name)：給 is:inline / define:vars 的頁面腳本在瀏覽器端寫行線圖示
+ *      （build 時的 emoji 替換抓不到 JS 事後寫進去的字，2026-10-22 識別系統 v2.1）
  *
  * 2026-05-03 sleepy-colden Tier 2.6 build-perf split。
  */
@@ -26,6 +28,19 @@ interface Props {
 }
 const { readerSettings } = Astro.props;
 ---
+
+<!-- 行線圖示的瀏覽器端產生器：跟 src/icons/taiwan-icons.mjs 的 iconSvg 同一組屬性 -->
+<script is:inline>
+  window.twmdIcon = function (name, label) {
+    return (
+      '<svg class="twmd-icon" viewBox="0 0 24 24" width="1em" height="1em" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="miter" focusable="false" ' +
+      (label ? 'role="img" aria-label="' + label + '"' : 'aria-hidden="true"') +
+      '><use href="/icons/taiwan.svg#' +
+      name +
+      '"/></svg>'
+    );
+  };
+</script>
 
 <!-- shot-mode init: ?shot=1 啟動 OG/Spore 圖片生成模式
      主要由 scripts/core/generate-og-images.mjs + generate-spore-image.mjs 用 -->

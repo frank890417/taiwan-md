@@ -19,9 +19,9 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:84ffac689843ddd3'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-11T05:40:16+08:00'
 ---
 
@@ -140,4 +140,4 @@ La question des rues de New York en 2009 n'a pas été résolue par un titre, le
 
 [^10]: [Liberty Times : Chen Hsing-yu apparaît ! Discute souriant du divorce depuis un certain temps : Peur que les médias n'aient pas de nouvelles](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — Rapport d'apparition publique de 2026 et source de la photo, enregistrant la scène où elle répond aux questions des médias devant sa clinique.
 
-## [^11]: [Wikimedia Commons : 20161224 Ouverture de la clinique dentaire de Chen Hsing-yu.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Œuvre propre téléchargée par Huang Hsiang-ching le 24 décembre 2016, la page du fichier indique la licence CC BY-SA 4.0 et l'exigence d'attribution.
+[^11]: [Wikimedia Commons : 20161224 Ouverture de la clinique dentaire de Chen Hsing-yu.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Œuvre propre téléchargée par Huang Hsiang-ching le 24 décembre 2016, la page du fichier indique la licence CC BY-SA 4.0 et l'exigence d'attribution.

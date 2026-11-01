@@ -1,16 +1,16 @@
 ---
-title: 'Hsu Chiao-hsin: Vom Frühstücksladen-Mädchen zur „800 Milliarden“-Kriegsabgeordneten – Die Verflüssigung des Flusses'
-description: 'Abgeordnete des 7. Wahlkreises von Taipeh. 1989 geboren in einer taiwanesischen Frühstücksfamilie, 2013 mit 24 Jahren jüngste ständige Komiteemitgliedschaft der Kuomintang, 2024 mit 89.727 Stimmen gegen Hsieh Shu-hua in das Parlament gewählt. 2025: Volksabstimmung über Amtsenthebung mit 62.000 Ja-Stimmen erreichte die gesetzliche Schwelle, wurde aber abgelehnt; 2026: Militärkaufteilnahme mit 800-Milliarden-Version und Konflikt mit der Parteizentrale (380 Milliarden + N), Parteivize Ji Lin empfiehlt: „Nicht liebeverspielt handeln.“'
+title: 'Hsu Chiao-hsin: Vom Frühstücksladen-Mädchen zur Abgeordneten mit „800-Milliarden-Rüstungskauf“-Reichweite und jüngerer Zielgruppe'
+description: 'Hsu Chiao-hsin, Abgeordnete für den siebten Wahlbezirk von Taipeh, wurde am 18. November 1989 in einem ganzjährig geöffneten westlichen Frühstücksladen im Bezirk Xinyi geboren. Ihr Geburtsname war Hsu Mei-feng, sie änderte ihn aufgrund des Qu Mei-feng-CD-Skandals. Am 13. November 2013 besetzte die damals 24-Jährige den jüngsten Sitz im 19. Zentralkomitee der Kuomintang; am 13. Januar 2024 wurde sie mit 89.727 Stimmen als Abgeordnete gegen Hsu Shu-hua gewählt. Am 26. Juli 2025 wurde ein Absetzungsantrag trotz 62.633 zustimmender Stimmen, was die Schwelle erreichte, abgelehnt; am 27. April 2026 wurde im Rahmen der Rüstungsverhandlungen eine 800-Milliarden-Version vorgeschlagen, die mit den „380-Milliarden plus N“-Plänen der Parteizentrale kollidierte, woraufhin Ji Lin explizit davor warnte, Dinge zu tun, die Freunde zu Feinden machen. Die Fälle des Kommunistenspion-Irrtums, des IPEF und der geheimen Ukraine-Hilfsdokumente analysieren diesen Weg zur Verjüngung der Reichweite Schritt für Schritt.'
 date: 2026-05-03
 category: 'People'
 tags:
   [
-    'Politische Persönlichkeit',
+    'Politiker',
     'Abgeordnete',
     'Kuomintang',
-    'Kriegsblau',
-    '7. Wahlkreis Taipeh',
-    '2024 Abgeordnete',
+    'Kampfblau',
+    '7. Wahlbezirk von Taipeh',
+    'Legislativwahl 2024',
   ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ researchReport: 'reports/research/2026-05/徐巧芯.md'
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'People/徐巧芯.md'
-sourceCommitSha: '200949f47'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-10-21T01:56:13.797114+00:00'
 ---
 
 # Hsu Chiao-hsin: Vom Frühstücksladen-Mädchen zur „800 Milliarden“-Kriegsabgeordneten – Die Verflüssigung des Flusses

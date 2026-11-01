@@ -1,22 +1,30 @@
 ---
-title: "Hsu Chiao-hsin: From Breakfast Shop Daughter to the 'NT$800 Billion Arms Deal' Legislator's Youth-Driven Traffic"
-description: "Legislator for Taipei City's Seventh Electoral District. Born in 1989 into a Taipei breakfast shop family, became the youngest-ever member of the KMT Central Standing Committee at age 24 in 2013, and defeated Hsu Shu-hua with 89,727 votes to enter the Legislative Yuan in 2024. In the 2025 recall vote, 62,000 yes votes met the legal threshold but the recall was rejected; in 2026, during arms procurement negotiations, she proposed an NT$800 billion version that clashed with the party headquarters' NT$380 billion+N, and Chi Lin-lien warned her by name 'not to do things that please the enemy and grieve your own.'"
+title: 'Hsu Chiao-hsin: From Breakfast Shop Daughter to "NT$800 Billion Arms Procurement" Legislator''s Youth-Oriented Traffic Appeal'
+description: "Taipei City Seventh District Legislator Hsu Chiao-hsin, born November 18, 1989 in a Western-style breakfast shop in Xinyi District that operates year-round, was originally named Hsu Mei-feng and changed her name due to the Chu Mei-feng sex tape scandal. On November 13, 2013, the 24-year-old took the seat as the youngest member of the KMT's 19th Central Standing Committee. On January 13, 2024, she was elected legislator with 89,727 votes, defeating Hsu Shu-hua. On July 26, 2025, a recall case received 62,633 supporting votes meeting the threshold but was still rejected. On April 27, 2026, arms procurement negotiations put forward an NT$800 billion version, clashing with party central's NT$380 billion plus N. Ji Lin-lien pointedly said not to do things that please enemies and pain allies. Three cases — the Chinese spy mix-up, IPEF, and classified Ukraine aid documents — each deconstruct this path of youth-oriented traffic."
 date: 2026-05-03
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治人物'
 tags:
-  ['政治人物', '立法委員', '中國國民黨', '戰鬥藍', '台北市第七選區', '2024立委']
-readingTime: 12
+  [
+    'Political Figure',
+    'Legislator',
+    'Kuomintang (KMT)',
+    'Combat Blue',
+    'Taipei City Seventh District',
+    '2024 Legislator',
+  ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: People/徐巧芯.md
-sourceCommitSha: '200949f4'
+researchReport: 'reports/research/2026-05/徐巧芯.md'
+difficulty: 'intermediate'
+readingTime: 12
+translatedFrom: 'People/徐巧芯.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
-translatedAt: 2026-05-03T23:14:05+08:00
-difficulty: 'intermediate'
+translatedAt: '2026-10-21T01:40:18.939870+00:00'
 ---
 
 # Hsu Chiao-hsin: From Breakfast Shop Daughter to the "NT$800 Billion Arms Deal" Legislator's Youth-Driven Traffic

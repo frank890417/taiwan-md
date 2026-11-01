@@ -1,16 +1,16 @@
 ---
 title: 'Pangolin de Taïwan'
-description: "Le mammifère le plus trafiqué au monde, le pangolin a pourtant trouvé un refuge sûr à Taïwan : tandis que ses congénères d'autres régions d'Asie sont au bord de l'extinction à cause du braconnage, Taïwan, grâce à une protection légale stricte, à la préservation des habitats et à la recherche scientifique, ainsi qu'à la reproduction en captivité, a permis à la population de se stabiliser voire d'augmenter, devenant un rare exemple de réussite en matière de conservation, montrant au monde que l'extinction des espèces n'est pas une fatalité."
+description: "Le mammifère le plus trafiqué au monde, le pangolin de Taïwan a trouvé un refuge sûr à Taïwan : alors que ses congénères en Asie sont menacés d'extinction par le braconnage, Taïwan a réussi à stabiliser ses populations grâce à une protection légale stricte, la préservation des habitats, la recherche scientifique et la reproduction en captivité, offrant un rare exemple de réussite en conservation qui montre que l'extinction n'est pas une fatalité."
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Pangolin',
-    'Conservation',
-    'Espèces en danger',
-    'Trafic',
-    'Zoo de Taipei',
-    'Écologie',
+    'pangolin',
+    'conservation',
+    'espèces menacées',
+    'trafic',
+    'zoo de Taipei',
+    'écologie',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -19,107 +19,117 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '890c5095e'
-sourceContentHash: 'sha256:acaac66b2f5101f5'
-sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-10-15T22:24:58.084467+00:00'
+sourceCommitSha: '2b967f4a1'
+sourceContentHash: 'sha256:ee1a4e69f41642bb'
+sourceBodyHash: 'sha256:596d8de828c02fc3'
+translatedAt: '2026-10-21T12:32:43+08:00'
 ---
 
-# Le pangolin de Taïwan
+# Pangolin de Taïwan
 
-> **En 30 secondes :** Le pangolin de Taïwan est le mammifère le plus victime de trafic illégal au monde — la sous-espèce taïwanaise du pangolin. Alors que ses cousins dans le reste de l'Asie sont poussés au bord de l'extinction par le braconnage, Taïwan est devenu l'une des rares régions où la conservation a porté ses fruits, avec une population stable, voire en hausse. Une protection juridique stricte, la préservation intégrale de l'habitat, la recherche scientifique et l'élevage en captivité font de l'histoire du pangolin de Taïwan un rare cas de conservation « porteur de bonnes nouvelles ».
+> **Aperçu en 30 secondes :** Le pangolin de Taïwan est la sous-espèce taïwanaise du pangolin — le mammifère le plus illégalement échangé au monde. Alors que ses congénères dans d'autres régions d'Asie sont au bord de l'extinction à cause du braconnage, Taïwan est devenu l'une des rares régions où la conservation a réussi et où la situation des populations tend à se stabiliser. Une protection légale stricte, une préservation intégrale des habitats, la recherche scientifique jusqu'à la reproduction en captivité : l'histoire du pangolin de Taïwan est un rare « bon exemple » de conservation.
 
 ## Pourquoi c'est important
 
-Le pangolin est l'un des mammifères les plus anciens de la Terre, recouvert d'écailles kératinisées, tel un fossile vivant témoignant des transformations de la planète. Mais au cours des deux dernières décennies, il est devenu l'animal sauvage le plus trafiqué au monde. Selon la Liste rouge de l'UICN, sur les huit espèces de pangolins, trois sont classées en danger critique (CR), quatre en danger (EN) et une comme vulnérable (VU), toutes faisant face à des risques d'extinction à des degrés divers.[^2] Le succès de la conservation du pangolin de Taïwan montre au monde qu'une autre voie est possible : l'extinction d'une espèce n'est pas une fatalité, et la conservation peut réussir dans les bonnes conditions.
+Le pangolin est l'un des plus anciens mammifères de la Terre, revêtu d'écailles kératinisées, tel un fossile vivant témoignant des changements de la planète. Mais au cours des vingt dernières années, il est devenu l'animal sauvage le plus trafiqué au monde. Selon l'évaluation mise à jour de la Liste rouge du Groupe de spécialistes des pangolins de l'UICN fin 2019, sur les huit espèces de pangolins, 3 sont classées en danger critique (CR), 3 en danger (EN) et 2 vulnérables (VU), toutes confrontées à divers degrés de risque d'extinction.[^2] La réussite de la conservation du pangolin de Taïwan montre au monde une autre possibilité : l'extinction des espèces n'est pas une fatalité, la conservation peut réussir sous les bonnes conditions.
 
-## Une créature mystérieuse qui se roule en boule
+## Une créature mystérieuse qui s'enroule en boule
 
-Le pangolin de Taïwan (_Manis pentadactyla pentadactyla_) est une sous-espèce endémique de Taïwan du pangolin de Chine. Il mesure environ 60 cm de la tête au corps, avec une queue de 18 cm, et est entièrement recouvert d'écailles brunes semblables à une armure. Ces écailles ne sont pas des écailles de poisson, mais sont constituées de kératine, la même substance que les ongles humains.
+Le pangolin de Taïwan (_Manis pentadactyla pentadactyla_) est la sous-espèce endémique de Taïwan du pangolin chinois. Les adultes mesurent environ 50 cm de la tête au tronc, avec une queue d'environ 35 cm, soit une taille comparable à celle d'un chat,[^6] le corps entièrement couvert d'écailles brunes semblables à une armure. Ces écailles ne sont pas des écailles de poisson ; leur composant principal est la kératine, proche de celle des ongles humains.
 
-À la tombée de la nuit, le pangolin de Taïwan entame sa quête de nourriture. C'est un « agent d'entretien entomologique » spécialisé : grâce à ses puissantes griffes avant, il creuse les fourmilières et les termitières, puis déploie sa longue langue pouvant atteindre 25 cm pour avaler des milliers de fourmis et de termites en une seule nuit. Face à une menace, il se roule rapidement en une sphère compacte, les écailles dressées vers l'extérieur, rendant toute attaque impossible, même pour un tigre.
+À la tombée de la nuit, le pangolin de Taïwan commence sa quête de nourriture. C'est un « agent d'entretien des insectes » professionnel : il utilise ses griffes antérieures puissantes pour ouvrir les fourmilières et les termitières, et sort une langue aussi longue que son corps. Selon le Bureau de la protection animale de New Taipei, un pangolin peut manger 70 millions de termites par an.[^7] Face à une menace, il s'enroule rapidement en une boule serrée, les écailles dressées vers l'extérieur.
 
-## Un survivant au cœur de la crise mondiale du trafic
+## Un survivant dans la crise mondiale du trafic
 
-Le pangolin est le mammifère le plus victime de trafic illégal au monde. Depuis 2000, au moins un million de pangolins ont été trafiqués à l'échelle mondiale, principalement à destination des marchés de médecine traditionnelle chinoise et vietnamienne.
+Le pangolin est le mammifère le plus illégalement échangé au monde. Le Groupe de spécialistes des pangolins de l'UICN estime qu'entre 2000 et 2019, le nombre de pangolins trafiqués équivaut à plus de 895 000 individus, principalement à destination de l'Asie de l'Est et du Sud-Est.[^2]
 
-Les écailles de pangolin (nommées « chuān shān jiǎ jiǎ piàn » en pharmacopée chinoise) figurent depuis longtemps dans la médecine traditionnelle chinoise, les pharmacopées historiques leur attribuant des propriétés de stimulation de la lactation, de réduction des inflammations et de dissolution des masses. En 2020, le comité de rédaction de la Pharmacopée chinoise a annoncé le retrait du pangolin de la nouvelle édition de la _Pharmacopée chinoise_, signal politique le plus concret à ce jour en matière de restriction de l'usage médical du pangolin ; cependant, les stocks de médicaments existants et la demande souterraine ne peuvent être éliminés du jour au lendemain, et les réseaux de trafic restent actifs.[^2] Les populations de pangolins en Asie et en Afrique ont ainsi décliné rapidement. Le pangolin de Chine a été classé en danger critique par l'UICN en 2014, et lors de la 17ᵉ Conférence des Parties à la CITES (CoP17) en 2016, il a été décidé de transférer les huit espèces de pangolins à l'Annexe I, interdisant tout commerce international ; la décision est entrée en vigueur officiellement le 2 janvier 2017.[^1]
+Les écailles de pangolin (nom en médecine chinoise « écailles de pangolin ») figurent depuis longtemps dans la pharmacopée de la médecine traditionnelle chinoise, qui leur prête des vertus de circulation du sang et d'aide à la lactation chez les femmes après l'accouchement. L'édition 2020 de la _Pharmacopée de Chine_ ne mentionne plus le pangolin ; en juin de la même année, l'Administration nationale des forêts et des prairies a élevé toutes les espèces du genre _Manis_ de la protection de classe II à la classe I.[^8][^9] L'ONG FoodThink a souligné en 2020 que 8 médicaments brevetés contenaient encore du pangolin.[^9] Les populations de pangolins en Asie et en Afrique ont donc chuté drastiquement ; le pangolin chinois a été classé en danger critique par l'UICN en 2014, et la 17e Conférence des Parties de la CITES (CoP17) a décidé en 2016 d'inscrire les huit espèces à l'Annexe I, interdisant le commerce international à des fins commerciales, mesure entrée en vigueur début janvier 2017.[^1]
 
-Taïwan fait toutefois figure d'exception dans cette crise d'extinction.
+Pourtant, Taïwan fait figure d'exception dans cette crise d'extinction.
 
 ## Le miracle de la conservation à Taïwan
 
-### Une protection juridique stricte
+### Une protection légale stricte
 
-Taïwan a inscrit le pangolin sur la liste des espèces sauvages protégées dès 1989. Après la révision de la _Loi sur la conservation de la faune sauvage_ en 2017, la capture, l'abattage ou la vente de pangolins sont passibles de six mois à cinq ans d'emprisonnement, assortis d'une amende de 300 000 à 1 500 000 dollars taïwanais.[^4] Comparativement à la Chine continentale, qui n'a élevé le pangolin au rang d'animal protégé de première catégorie qu'en 2020, les mesures de protection taïwanaises ont été mises en place plus tôt et appliquées de manière plus rigoureuse.
+Taïwan a promulgué la _Loi sur la conservation de la faune_ en 1989, et le pangolin a fait partie de la première vague d'espèces classées en catégorie « protégée ».[^6] Selon les dispositions actuelles, la chasse ou l'abattage d'animaux sauvages protégés est puni de 6 mois à 5 ans de prison, avec une amende cumulative de 200 000 à 1 000 000 NT$ (art. 41) ; l'importation/exportation sans autorisation, la vente ou l'exposition en vue de la vente sont passibles d'une amende cumulative de 300 000 à 1 500 000 NT$ (art. 40).[^4] Par comparaison, la Chine continentale n'a élevé le pangolin de la classe II à la classe I qu'en 2020 ; les mesures de protection de Taïwan ont débuté plus tôt et sont appliquées plus rigoureusement.
 
-### La préservation intégrale de l'habitat
+### Une protection intégrale des habitats
 
-Les zones de basse altitude et de collines peu profondes de Taïwan offrent un habitat idéal pour le pangolin. Du parc national de Yangmingshan au parc national de Kenting, des montagnes de la périphérie de Taïpei aux collines du centre et du sud, ces zones protégées constituent des refuges sûrs pour le pangolin. Fait important, le pangolin de Taïwan est capable de s'adapter aux lisières des zones d'activité humaine et de survivre dans les forêts secondaires en périphérie urbaine.
+Les zones de basse montagne de Taïwan offrent des habitats idéaux au pangolin. Le parc national de Yangmingshan est l'un de ses habitats importants, ceux-ci étant souvent adjacents aux villages de moyenne montagne.[^3]
 
-### La recherche scientifique et le suivi
+### Recherche scientifique et suivi
 
-Les institutions de recherche taïwanaises investissent depuis longtemps dans l'étude écologique du pangolin, utilisant des technologies de suivi par radio-télémétrie et de caméras infrarouges pour surveiller la dynamique des populations. Sun Jing-min, de l'Institut de conservation de la faune sauvage de l'Université nationale des sciences et technologies de Pingtung, mène depuis de longues années des programmes de marquage et de relâcher de pangolins de Taïwan, constituant une source essentielle de données écologiques sur l'espèce.[^3] Ces données scientifiques permettent non seulement de mieux comprendre les comportements du pangolin, mais aussi de fournir une base scientifique aux politiques de conservation.
+Les institutions de recherche de Taïwan s'investissent depuis longtemps dans l'étude de l'écologie du pangolin. L'équipe du professeur adjoint Sun Ching-min (孫敬閔) de l'Institut de recherche sur la conservation de la faune de l'Université nationale des sciences et technologies de Pingtung (屏科大) a mis en place un mécanisme de signalement communautaire, couplé à un réseau de radiopistage, pour étudier l'aire de répartition, les effectifs et la situation reproductive du pangolin.[^3] Ces données scientifiques permettent non seulement de comprendre les comportements du pangolin, mais fournissent aussi une base scientifique aux politiques de conservation.
 
-## La percée du zoo de Taïpei en matière de reproduction
+## La percée de la reproduction au zoo de Taipei
 
-Le zoo municipal de Taïpei a obtenu des résultats significatifs dans le domaine de la reproduction artificielle du pangolin, devenant l'un des rares établissements au monde à y être parvenu. La reproduction en captivité du pangolin est extrêmement difficile : l'animal est sensible aux changements d'environnement, ses conditions d'élevage sont exigeantes et son cycle de reproduction est long. Le zoo a mis en place une population de conservation ex situ en simulant l'environnement naturel, en ajustant finement la nutrition et en observant les comportements.
+Le zoo municipal de Taipei a obtenu d'importants résultats en matière de reproduction en captivité du pangolin : première reproduction réussie en 1997, les individus nés au zoo en sont déjà à la quatrième génération.[^5] La reproduction en captivité du pangolin est extrêmement difficile : l'animal est sensible aux changements d'environnement, exige des conditions d'élevage strictes et a un cycle de reproduction long. Le zoo a également mis au point une recette de « gâteau pour pangolin » à base de nymphes d'abeilles, de vers de farine, de pommes et d'œufs.[^5]
 
-Ces résultats de reproduction offrent non seulement une assurance pour la conservation du pangolin de Taïwan, mais contribuent également une expérience précieuse aux programmes internationaux de conservation des pangolins.
+Ces succès de reproduction constituent non seulement une assurance pour la conservation du pangolin de Taïwan, mais apportent aussi une expérience précieuse aux programmes internationaux de conservation du pangolin.
 
-## Un héros méconnu de l'écosystème
+## Héros méconnu de l'écosystème
 
-Le pangolin de Taïwan joue un rôle fonctionnel concret dans l'écosystème. En tant qu'« expert en lutte biologique », un pangolin adulte peut consommer chaque année une grande quantité de fourmis et de termites (les estimations varient selon les études entre un et deux millions d'individus), régulant les populations de ces insectes et protégeant les forêts et les cultures contre les ravages.[^2]
+Le pangolin de Taïwan remplit une fonction concrète dans l'écosystème. En tant qu'« expert en lutte biologique », le Bureau de la protection animale de New Taipei indique qu'un pangolin peut manger 70 millions de termites par an, contrôlant ainsi les populations de ces insectes.[^7]
 
-Son comportement de creusement modifie également la structure du sol, augmentant son aération et sa capacité de rétention d'eau, favorisant ainsi la croissance des racines des plantes. Les terriers de pangolins sont souvent réutilisés par d'autres petits animaux, formant un réseau écologique souterrain complexe.
+Les terriers du pangolin sont souvent utilisés par d'autres petits animaux.
 
-## Les menaces qui persistent
+## Menaces persistantes
 
-Malgré les succès de la conservation, le pangolin de Taïwan fait encore face à de nombreux défis :
+Malgré les progrès de la conservation, le pangolin de Taïwan fait encore face à de nombreux défis :
 
-### Les attaques de chiens errants
+### Attaques de chiens errants
 
-Les chiens errants sauvages constituent l'un des principaux prédateurs du pangolin à Taïwan. Lorsqu'il est menacé, le pangolin se roule en boule, ses écailles dures rendant la morsure directe difficile pour les grands prédateurs. Mais les chiens ont une méthode d'attaque différente : ils encerclent en meute et retournent l'animal à plusieurs reprises. Le pangolin ne peut maintenir sa position en boule indéfiniment et finit par s'épuiser, exposant son abdomen vulnérable, ce qui entraîne des blessures, voire la mort.
+Les chiens errants en milieu sauvage sont l'un des principaux prédateurs du pangolin à Taïwan. Face à une menace, le pangolin s'enroule en boule ; ses écailles dures rendent difficile pour un grand prédateur de le mordre directement. Mais le mode d'attaque des chiens diffère : en 2018, le Centre de recherche sur les espèces endémiques (特生中心) a pris en charge 24 pangolins blessés, dont 16 (67 %) avaient été attaqués par des chiens ; le pangolin se recroqueville, mais la morsure vigoureuse du chien lui arrache souvent un bout de queue.[^6]
 
-### Les collisions routières
+### Collisions routières
 
-Avec le développement routier, les cas de pangolins écrasés par des véhicules en traversant les routes sont de plus en plus fréquents. En particulier pendant la saison de reproduction, l'extension de leur zone d'activité augmente le risque de collisions.
+Le pangolin traverse parfois les routes et se fait heurter par des véhicules ; parmi les 24 individus blessés pris en charge par le Centre en 2018, 1 l'avait été par collision.[^6]
 
-### La destruction de l'habitat
+### Développement de l'habitat
 
-Bien qu'un système de zones protégées existe, l'expansion urbaine et la construction de routes continuent de fragmenter l'habitat du pangolin, affectant les échanges génétiques entre populations et les zones d'alimentation.
+Bien qu'un système d'aires protégées existe, l'expansion urbaine et la construction de routes continuent de fragmenter l'habitat du pangolin, affectant les échanges génétiques et les aires de nourrissage des populations.
 
 ## La coexistence avec la ville
 
-Le pangolin de Taïwan fait preuve d'une capacité d'adaptation remarquable. On le rencontre non seulement dans les forêts primaires, mais aussi en périphérie des zones urbaines à forte activité humaine. À Yangmingshan près de Taïpei, à Wulai dans le Nouveau Taïpei et à Fuxing à Taoyuan, des cas de coexistence harmonieuse entre pangolins et humains ont été documentés.
+Le pangolin de Taïwan fait preuve d'une remarquable capacité d'adaptation. Il ne vit pas seulement dans les forêts primaires, mais établit aussi ses quartiers en périphérie des zones d'activité humaine intense. On a recensé sa présence à Yangmingshan (Taipei) et à Fuxing (Taoyuan), entre autres.
 
-À Taichung, des traces de pangolin auraient été observées dans les zones de collines peu profondes autour du campus de l'Université médicale Chung-Shan, et les terrains concernés ont fait l'objet de débats entre développement et protection — lorsqu'un pangolin apparaît sur votre campus, à qui appartient ce terrain, aux humains ou à l'animal ? Ce type d'histoire se retrouve partout à Taïwan et témoigne de la sensibilisation croissante de la société taïwanaise à la protection du pangolin.
+En 2024, des enseignants et étudiants de l'Université nationale Tsing Hua (清華大學) ont découvert 5 terriers creusés par des pangolins lors de la rédaction d'un guide écologique du campus ; ils mesuraient environ 1 m de profondeur sur 20 cm de large.[^10]
 
-## Physiologie et comportement
+## Physiologie et habitudes
 
-L'anatomie du pangolin regorge de merveilles évolutives. Ses écailles, composées de kératine (la même substance que les ongles humains), rendent la morsure impossible même pour un lion ou un tigre lorsqu'il est en boule. Sa langue peut s'étendre jusqu'à 25 cm, soit près de la moitié de sa longueur corporelle ; mais il est dépourvu de dents et broie sa nourriture grâce à des plaques kératinisées dans l'estomac et à de petits cailloux. Ses griffes avant sont puissantes et peuvent creuser des terriers profonds de trois mètres ; malgré sa lourde armure, le pangolin est aussi un excellent nageur, capable de traverser des rivières.
+La structure corporelle du pangolin regorge de merveilles évolutives. Les écailles sont principalement composées de kératine, proche de la composition des ongles humains. La langue est aussi longue que le corps ; mais l'animal n'a pas de dents : il broie sa nourriture grâce à des dents kératinisées dans l'estomac et à de petits cailloux. Les griffes antérieures sont puissantes ; les trous de nourrissage font 1 à 3 m de profondeur, tandis que les terriers de repos peuvent atteindre 6 m ; malgré sa lourde armure, le pangolin sait aussi nager.
 
-En dehors de la saison d'accouplement, le pangolin vit solitairement toute sa vie ; la mère et son petit ne restent ensemble qu'environ six mois. La gestation dure de 120 à 150 jours, et chaque portée ne compte qu'un seul petit, ce qui rend la reproduction extrêmement lente — c'est aussi l'une des raisons pour lesquelles une population, une fois effondrée, a tant de mal à se reconstituer. Le pangolin est l'un des plus anciens mammifères à écailles encore existants ; les archives fossiles montrent que son histoire évolutive remonte au Paléocène, il y a environ 50 à 60 millions d'années.
+Hors saison de reproduction, le pangolin vit solitaire toute sa vie ; la mère n'accompagne son petit que pendant environ six mois. Une seule portée par an ; les soigneurs du zoo de Taipei disent que la gestation dure environ 8 mois et l'élevage du petit environ 6 mois, un rythme de reproduction extrêmement lent, ce qui explique aussi pourquoi une population, une fois effondrée, peine à se rétablir.
 
 ## La portée mondiale de l'expérience taïwanaise
 
-Le succès de la conservation du pangolin de Taïwan offre un cas de référence pour la protection des espèces menacées à l'échelle mondiale. L'approche taïwanaise se distingue par plusieurs caractéristiques : une protection législative dès 1989, soit plus de dix ans avant la plupart des pays ; un dispositif de protection s'étendant de la loi à l'habitat, la recherche scientifique et l'éducation citoyenne, formant ainsi quatre lignes de défense ; une accumulation de données par les instituts de recherche et les zoos, permettant des ajustements politiques fondés sur des bases scientifiques ; et une sensibilisation croissante de la société taïwanaise au pangolin, avec des mécanismes de signalement citoyen des cas de collisions routières et de blessures contribuant à la constitution de données de surveillance de la faune sauvage.
+La réussite de la conservation du pangolin de Taïwan offre un cas de référence pour la protection des espèces menacées à l'échelle mondiale. L'approche taïwanaise présente plusieurs caractéristiques : législation protectrice dès 1989 ; protection s'étendant de la loi aux habitats, à la recherche scientifique et à l'éducation citoyenne ; l'accumulation de données par les institutions de recherche et le zoo permet d'ajuster les politiques sur une base scientifique ; la société taïwanaise connaît de mieux en mieux le pangolin, et les mécanismes de signalement citoyen des collisions routières et des individus blessés constituent une partie des données de suivi de la faune sauvage.
 
-L'histoire du pangolin de Taïwan apporte, en une époque de perte accélérée de biodiversité, une réponse concrète : l'extinction n'est pas la seule issue.
+L'histoire du pangolin de Taïwan, à une époque de perte accélérée de la biodiversité, apporte une réponse concrète : l'extinction n'est pas la seule issue.
 
 ## Références
 
-[^1]: [Décision de la CoP17 de la CITES concernant le pangolin | CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirme que la résolution de la CoP17 de 2016 a inscrit le pangolin à l'Annexe I, entrée en vigueur le 2 janvier 2017.
+[^1]: [What does the new trade ban mean for pangolin conservation? | IUCN](https://iucn.org/news/secretariat/201610/what-does-new-trade-ban-mean-pangolin-conservation) — La CITES CoP17 2016 a inscrit les huit espèces de pangolins à l'Annexe I, entrée en vigueur début janvier 2017.
 
-[^2]: [Liste rouge de l'UICN : Pangolin chinois](https://www.iucnredlist.org/species/12764/123589684) — Littérature sur l'écologie, les habitudes et les besoins alimentaires du pangolin chinois (les estimations de la quantité de fourmis consommées varient selon les études).
+[^2]: [Pangolins | IUCN SSC Pangolin Specialist Group](https://www.pangolinsg.org/pangolins/) — Sur les huit espèces de pangolins, 3 en danger critique, 3 en danger, 2 vulnérables ; trafic équivalent à plus de 895 000 individus entre 2000 et 2019.
 
-[^3]: [Institut de conservation de la faune de l'Université nationale de science et technologie de Pingtung](https://www.npust.edu.tw/) — Contexte de la recherche sur la réintroduction du pangolin par Sun Ching-min et son équipe de recherche.
+[^3]: [穿山甲族群狀況趨穩，社區通報與無線電追蹤 | 中央社 2025-05-22](https://www.cna.com.tw/news/ahel/202505220371.aspx) — Recherche de l'équipe de Sun Ching-min sur le signalement communautaire et le pistage, populations tendant à se stabiliser.
 
-[^4]: [Réseau de la biodiversité de Taïwan](https://www.tbn.org.tw/) — Base de données sur la distribution du pangolin de Taïwan et les signalements de sciences participatives.
+[^4]: [野生動物保育法 | 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Peines et amendes des articles 40 et 41 ; historique des modifications voir [LawHistory](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=M0120001).
 
-[^5]: [Recherche en conservation du zoo municipal de Taipei](https://www.zoo.gov.taipei/) — Techniques d'élevage en captivité du pangolin et résultats de conservation.
+[^5]: [穿山甲人工繁殖經驗 | 報導者](https://www.twreporter.org/a/pangolins-breed-experience-in-taiwan) — Zoo municipal de Taipei : première reproduction 1997, quatrième génération et recette du « gâteau pour pangolin ».
 
-## Pour aller plus loin
+[^6]: [台灣穿山甲保育史 | 報導者](https://www.twreporter.org/a/pangolin-conservation-history-in-taiwan) — Inclusion en catégorie protégée 1989, données morphologiques et statistiques 2018 du Centre sur les individus blessés.
 
-- [Statut des annexes de la CITES](https://cites.org/eng/app/appendices.php)
-- [Centre de recherche et de conservation des espèces endémiques, Ministère de l'Agriculture](https://www.tesri.gov.tw/)
+[^7]: [新北市動保處談穿山甲食蟻量 | Newtalk 2023-02-17](https://newtalk.tw/news/view/2023-02-17/857899) — Un pangolin mange 70 millions de termites par an.
+
+[^8]: [穿山甲與中藥 | 食力 2020](https://www.foodnext.net/news/newsnation/paper/5616492562) — 8 médicaments brevetés contiennent encore du pangolin dans la pharmacopée.
+
+[^9]: [中國穿山甲升一級保護 | 公視新聞 2020](https://news.pts.org.tw/article/483991) — 2020 : toutes les espèces du genre _Manis_ élevées en protection de classe I.
+
+[^10]: [清大校園發現穿山甲洞穴 | 中央社 2024-04-08](https://www.cna.com.tw/news/aloc/202404080192.aspx) — Enseignants et étudiants découvrent 5 terriers creusés.
+
+## Lectures complémentaires
+
+- [Statut des Annexes CITES](https://cites.org/eng/app/appendices.php)
+- [Centre de recherche et de conservation des espèces endémiques du Ministère de l'Agriculture](https://www.tesri.gov.tw/)

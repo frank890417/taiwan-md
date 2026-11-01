@@ -1,20 +1,20 @@
 ---
-title: 'Olhando Taiwan por dados: 22 condados e cidades — a diferença entre o mais superlotado e o mais vazio é de 151 vezes; entre o mais velho e o mais jovem, quase uma geração'
-description: 'Na mesma ilha, a cidade mais superlotada, Taipei, tem 8.975 habitantes por km², enquanto o condado mais vazio, Taitung, tem apenas 59 — uma diferença de 151 vezes. A cidade com mais habitantes, Nova Taipei, tem 4,04 milhões; a com menos, o condado de Kinmen, 13.621 — uma diferença de 297 vezes. O condado mais jovem, Hsinchu, tem uma taxa de envelhecimento de 15,08%, enquanto o mais velho, Chiayi, tem 24,11% — uma diferença de quase uma geração. Com os dados oficiais do Departamento de Registro Civil do Ministério do Interior até o final de 2025, desenhamos um retrato da ilha com escala e verificável: 70% da população vive em 30% do território; a fronteira do envelhecimento não está nas cidades, mas no leste, ilhas e condados rurais; e em todos os 22 condados e cidades, as mortes já superam os nascimentos.'
+title: 'Taiwan em números, 22 municípios: a diferença entre o mais denso e o menos povoado é de 151 vezes; a proporção entre idosos e crianças passou de 1:1 para quase 3:1'
+description: 'Na mesma ilha, Taipei possui 8.975 pessoas por quilômetro quadrado, enquanto o condado de Taitung tem apenas 59, uma diferença de 151 vezes. Com base nos dados do Departamento de Registro Civil do Ministério do Interior para o final de 2025, traçamos um retrato verificável dos 22 municípios: 70% da população está concentrada em apenas 30% do território; Taipei, a cidade mais densa, é também a que possui a maior proporção de idosos, enquanto o condado de Chiayi, com a maior proporção de idosos em relação a crianças, chega a quase 3:1. Em todos os 22 municípios, sem exceção, as mortes já superam os nascimentos.'
 date: 2026-06-06
 category: 'Geography'
 tags:
   [
-    'estatísticas populacionais',
+    'estatística populacional',
     'envelhecimento populacional',
-    'sociedade superenvelecida',
-    'seis cidades',
-    'disparidade urbana-rural',
+    'sociedade superenvelhecida',
+    'seis grandes metrópoles',
+    'disparidade urbano-rural',
     'densidade populacional',
     'índice de envelhecimento',
-    'declínio natalidade',
+    'baixa taxa de natalidade',
     'visualização de dados',
-    'série 22 condados',
+    'série dos 22 municípios',
   ]
 subcategory: '人口與區域'
 author: 'Taiwan.md'
@@ -23,32 +23,32 @@ featured: false
 lastVerified: 2026-06-06
 lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
-imageAlt: 'Visão aérea da ilha de Taiwan do espaço, com as planícies do oeste e a cordilheira central do leste claramente visíveis'
+imageAlt: 'Imagem de satélite com vista aérea da ilha principal de Taiwan, onde as planícies do oeste e a Cordilheira Central no leste são claramente visíveis'
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: 'd525e99ee'
-sourceContentHash: 'sha256:426316f6a96d8460'
-sourceBodyHash: 'sha256:035cd9cc6b8c328a'
-translatedAt: '2026-10-15T03:20:05.142255+00:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceBodyHash: 'sha256:4da0398520125992'
+translatedAt: '2026-10-23T16:25:36.443216+00:00'
 ---
 
-# Olhando Taiwan por dados: 22 condados e cidades — a diferença entre o mais superlotado e o mais vazio é de 151 vezes; entre o mais velho e o mais jovem, quase uma geração
+# Taiwan em números, 22 condados e cidades: a diferença de 151 vezes entre o mais lotado e o mais vazio; a proporção de idosos e crianças passando de 1 para 1 para quase 3 para 1
 
-Dirigindo da Zona da Xinyi em Taipei, em direção ao sul e ao leste, até chegar ao centro da cidade de Taitung. O navegador mostra mais de 300 km, sem completar um dia de viagem. Mas se você prestar atenção em outra métrica — quantas pessoas vivem por km² — essa estrada parecerá atravessar dois países. A cidade de Taipei, onde fica a Zona da Xinyi, tem 8.975 pessoas por km². O condado de Taitung, onde fica o centro de Taitung, tem apenas 59 pessoas por km². A mesma ilha, o mesmo passaporte, com uma diferença de densidade de 151 vezes.
+Dirija saindo do distrito de Xinyi, em Taipé, siga para o sul e para o leste até chegar à área urbana de Taitung. O GPS indica mais de trezentos quilômetros; uma viagem de menos de um dia. Mas se você mudar o foco para outra métrica — quantas pessoas vivem por quilômetro quadrado do lado de fora da janela —, esse trajeto parecerá uma travessia entre dois países diferentes. Em Taipé, onde fica Xinyi, há 8.975 pessoas espremidas por quilômetro quadrado. No condado de Taitung, onde fica a cidade de Taitung, há apenas 59 pessoas por quilômetro quadrado. A mesma ilha, o mesmo passaporte, mas uma diferença de densidade de exatas 151 vezes.
 
-Esse número não é um jogo de valores extremos. É a realidade do desequilíbrio interno de Taiwan. Estamos acostumados a tratar "Taiwan" como uma unidade única — sua economia, suas eleições, seu declínço da natalidade — mas quando você abre os dados completos do Departamento de Registro Civil do Ministério do Interior até o final de 2025, descobre que não existe um Taiwan homogêneo. Algumas pessoas estão apertadas na selva de concreto esperando o sinal vermelho; outras dirigem por 10 minutos sem ver outro carro. Alguns condados ainda estão crescendo; a maioria está encolhendo. Os cantos mais jovens e mais velhos diferem por quase uma geração.
+Este número não é um truque estatístico de valores extremos. É o abismo real dentro de Taiwan. Costumamos falar de "Taiwan" como um todo — sobre sua economia, suas eleições, sua baixa natalidade —, mas quando você analisa o conjunto completo de dados por condado e cidade do Departamento de Registro Civil do Ministério do Interior referente ao final de 2025, percebe que não existe um Taiwan homogêneo. Há quem esteja espremido em florestas de concreto esperando o sinal vermelho, e há quem dirija por dez minutos sem ver um segundo carro. Alguns condados ainda estão crescendo; a maioria está encolhendo. Nos cantos mais jovens, o número de idosos e crianças é quase igual. Nos cantos mais velhos, uma criança precisa encarar quase três idosos.
 
 ```tw-figure
 151 vezes
-Diferença de densidade populacional entre Taipei e Taitung: 8.975 pessoas/km² vs 59 pessoas/km²
-Ministério do Interior, Departamento de Registro Civil, final de 2025
+A diferença de densidade populacional entre Taipé e o condado de Taitung: 8.975 pessoas por km² vs. 59 pessoas por km²
+Departamento de Registro Civil do Ministério do Interior, final de 2025
 ```
 
-Este artigo pretende fazer uma coisa: com dados oficiais, desenhar um retrato com escala e verificável de toda a ilha. Depois de desenhado, você verá um rosto profundamente dividido e envelhecendo rapidamente.[^1]
+Este artigo tem um objetivo: usar dados oficiais para desenhar um retrato com escala e verificável de toda a ilha. Ao terminar, você verá um rosto profundamente dividido e que está envelhecendo rapidamente. [^1]
 
-> **30 segundos de resumo:** No final de 2025, a população total de Taiwan era de 23.299.132 pessoas (cerca de 23,3 milhões), já em declínio por 23 meses consecutivos, com o número de recém-nascidos caindo pela primeira vez abaixo de 110.000. No mesmo ano, Taiwan oficialmente entrou na "sociedade superenvelecida", com uma em cada cinco pessoas com mais de 65 anos. Mas a média nacional esconde grandes disparidades internas: a diferença entre os condados com maior e menor densidade populacional é de 151 vezes; a diferença entre os maiores e menores em termos de população é de 297 vezes; a diferença entre os mais envelhecidos e mais jovens é de quase uma geração. As pessoas se concentram nas seis grandes cidades; a fronteira do envelhecimento não está nas cidades, mas no leste, ilhas e condados rurais; o lugar mais jovem é o condado de Hsinchu, sustentado pelo parque tecnológico. Esta é uma Taiwan dividida e envelhecendo.
+> **Resumo em 30 segundos:** No final de 2025, a população total de Taiwan era de 23.299.132 pessoas (cerca de 23,3 milhões), registrando uma queda consecutiva de 23 meses, com o número de recém-nascidos caindo abaixo de 110 mil pela primeira vez. No mesmo ano, Taiwan entrou oficialmente em uma "sociedade superenvelhecida", onde uma em cada cinco pessoas tem mais de 65 anos. No entanto, a média nacional mascara disparidades internas gigantescas: a diferença de densidade populacional entre o condado mais e o menos povoado é de 151 vezes; a diferença no tamanho da população é de 297 vezes; e a proporção entre idosos e crianças saltou de 1 para 1 para quase 3 para 1. As pessoas se concentram nas seis grandes áreas metropolitanas, mas o envelhecimento não segue essa distribuição demográfica: Taipé, a mais densa, tem a maior porcentagem de idosos; o condado de Chiayi tem a maior proporção de idosos em relação às crianças; e os lugares mais jovens são as cidades e o condado de Hsinchu, sustentados pelo Parque Científico de Hsinchu. Este é um Taiwan dividido e que envelhece coletivamente. [^2]
 
 ## Setenta por cento das pessoas, trinta por cento da terra
 
@@ -121,57 +121,59 @@ Essa diferença de escala se torna diretamente um problema de governança. Nova 
 
 Mas aqui há um erro intuitivo: pequena escala não significa jovem população. Você pode achar que ilhas e pequenos condados, com jovens migrando para fora, ficam com poucos jovens e muitos idosos; e que grandes cidades, com mais recursos e oportunidades, ficam com muitos jovens. Os dados reais derrubam ambas as suposições. O condado de Kinmen tem a menor população, mas sua taxa de envelhecimento é de 17,14%, mais baixa que vários grandes condados; enquanto a quarta maior cidade em termos de população, Taipei, tem uma taxa de envelhecimento de 24,18%, a mais alta do país. Entre escala e envelhecimento, não há uma correspondência direta. Para entender como Taiwan está envelhecendo, precisamos de outro mapa.
 
-## A fronteira do envelhecimento não está nas cidades
+## Os dois lugares mais velhos: Taipé e condado de Chiayi
 
-Em 2025, Taiwan cruzou uma linha: a proporção de pessoas com 65 anos ou mais atingiu 20,06%, oficialmente tornando-se uma "sociedade superenvelecida" segundo a definição da Organização Mundial da Saúde. Isso significa que 4,67 milhões de taiwaneses têm mais de 65 anos — uma em cada cinco pessoas é um idoso. E entre os 22 condados, 14 já ultrapassaram a marca de 20% de envelhecimento. Envelhecer já é a cor dominante em toda a ilha.
+Em 2025, Taiwan cruzou um limiar: a proporção da população com 65 anos ou mais atingiu 20,06%, tornando-se oficialmente uma "sociedade superenvelhecida", conforme definido pela Organização Mundial da Saúde. Em termos numéricos, há 4,67 milhões de pessoas em Taiwan com mais de 65 anos; um em cada cinco taiwaneses é idoso. Além disso, entre os 22 condados e cidades do país, 14 já ultrapassaram a taxa de envelhecimento de 20%. O envelhecimento tornou-se o pano de fundo comum de toda a ilha.
 
-Mas essa média nacional de 20,06% esconde grandes disparidades internas. A tabela abaixo mostra a taxa de envelhecimento e o índice de envelhecimento dos 22 condados — é a tabela que merece mais atenção neste artigo. Primeiro, explicando como ler o "índice de envelhecimento": ele é calculado dividindo a população com 65 anos ou mais pela população de 0 a 14 anos e multiplicando por 100. Um valor de 100 significa que idosos e crianças estão em igualdade; quanto maior o número, mais "pesado o topo", mais idosos e menos crianças há.
+No entanto, essa média nacional de 20,06% acaba por mascarar as disparidades internas drásticas. A tabela abaixo apresenta as taxas de envelhecimento e os índices de envelhecimento dos 22 condados e cidades; este é o ponto onde você deve parar e analisar com atenção neste artigo. Primeiro, uma explicação sobre como ler o "índice de envelhecimento": ele é o resultado da população com 65 anos ou mais dividida pela população de 0 a 14 anos, multiplicada por 100. Um valor de 100 significa que há o mesmo número de idosos e crianças; quanto maior o número, mais "desequilibrada" é a região, com cada vez mais idosos no topo e cada vez menos crianças na base.
 
 ```tw-heatmap
-Condado | Taxa de envelhecimento 65+ (%) | Índice de envelhecimento
-Taipei | 24.18 | 202.06
-Nova Taipei | 19.95 | 185.54
-Taoyuan | 16.72 | 127.33
-Taichung | 17.40 | 136.45
-Tainan | 20.48 | 184.96
-Kaohsiung | 20.79 | 192.10
-Keelung | 22.28 | 240.21
-Hsinchu (cidade) | 16.16 | 106.59
-Chiayi (cidade) | 19.90 | 164.47
-Hsinchu (condado) | 15.08 | 101.88
-Miaoli | 20.23 | 179.56
-Changhua | 20.37 | 178.35
-Nantou | 22.66 | 224.64
-Yunlin | 21.76 | 206.78
-Chiayi (condado) | 24.11 | 291.69
-Pingtung | 21.84 | 218.72
-Iilan | 20.77 | 189.67
-Hualien | 21.52 | 200.53
-Taitung | 20.93 | 194.71
-Penghu | 21.03 | 223.65
-Kinmen | 19.69 | 255.57
-Matsu (condado de Jiangxi) | 17.14 | 180.23
-Fonte: Ministério do Interior, Departamento de Registro Civil, final de 2025
+Condado/Cidade | Taxa de envelhecimento 65+ (%) | Índice de envelhecimento
+Taipé | 24,18 | 202,06
+Nova Taipé | 19,95 | 185,54
+Taoyuan | 16,72 | 127,33
+Taichung | 17,40 | 136,45
+Tainan | 20,48 | 184,96
+Kaohsiung | 20,79 | 192,10
+Keelung | 22,28 | 240,21
+Hsinchu | 16,16 | 106,59
+Chiayi | 19,90 | 164,47
+Condado de Hsinchu | 15,08 | 101,88
+Condado de Miaoli | 20,23 | 179,56
+Condado de Changhua | 20,37 | 178,35
+Condado de Nantou | 22,66 | 224,64
+Condado de Yunlin | 21,76 | 206,78
+Condado de Chiayi | 24,11 | 291,69
+Condado de Pingtung | 21,84 | 218,72
+Condado de Yilan | 20,77 | 189,67
+Condado de Hualien | 21,52 | 200,53
+Condado de Taitung | 20,93 | 194,71
+Condado de Penghu | 21,03 | 223,65
+Condado de Kinmen | 19,69 | 255,57
+Condado de Lienchiang | 17,14 | 180,23
+Fonte: Departamento de Registro Civil, Ministério do Interior, final de 2025
 ```
 
-Ao ler essa tabela, prestar especial atenção na coluna do índice de envelhecimento. O mais alto do país é Chiayi (condado), com 291,69 — significa que, em Chiayi, cada criança corresponde a cerca de três idosos. Logo depois vem Kinmen, com 255,57, e Keelung, com 240,21. Esses três têm algo em comum: todos são condados agrícolas, ilhas ou cidades antigas com indústrias em declínio, nenhum deles entra na lista das cidades mais prósperas de Taiwan. A fronteira mais avançada do envelhecimento está justamente nesses cantos que há muito perdem jovens para fora. Quando os jovens saem para trabalhar ou estudar, os que ficam vão envelhecendo; com poucos nascimentos para compensar, o índice de envelhecimento dispara.
+Ao observar a proporção de pessoas com 65 anos ou mais, os lugares mais velhos de Taiwan são Taipé (24,18%) e o condado de Chiayi (24,11%), com uma diferença de apenas 0,07 pontos percentuais. Contudo, ao mudar para o índice de envelhecimento, o primeiro lugar passa a ser o condado de Chiayi com 291,69 — onde cada criança corresponde a quase três idosos. Em seguida, vêm Kinmen (255,57) e Keelung (240,21), enquanto Taipé recua para o oitavo lugar (202,06). A diferença entre as duas colunas reside no denominador: o índice de envelhecimento compara idosos com crianças; embora a proporção de idosos em Taipé seja alta, a proporção de crianças também é maior do que em Chiayi ou Kinmen, o que reduz o seu índice.
 
-Então, onde está o canto mais jovem de Taiwan? A resposta surpreenderá muitos: não em algum paraíso isolado, mas ao lado das fábricas de tecnologia. O condado de Hsinchu tem uma taxa de envelhecimento de apenas 15,08%, a mais baixa do país; seu índice de envelhecimento é de 101,88, quase um equilíbrio perfeito entre idosos e crianças, destacando-se em meio ao cenário geral de envelhecimento. A cidade de Hsinchu tem 16,16%, e Taoyuan tem 16,72%, logo atrás. A juventude desses três lugares tem quase sempre a mesma razão: o Parque Tecnológico de Hsinchu. A indústria de semicondutores e tecnologia atraiu muitos engenheiros e técnicos em idade fértil, que se estabelecem e têm filhos aqui, mantendo a estrutura etária desses condados inclinada para a juventude. Além de impulsionar as exportações de Taiwan, o Parque Tecnológico de Hsinchu também sustenta a porção mais jovem do mapa populacional da ilha.
+Os que figuram entre os sete primeiros em ambas as colunas são quatro condados agrícolas — Chiayi, Nantou, Yunlin e Pingtung — além da antiga cidade portuária de Keelung, que sofreu com a migração industrial. A população desses cinco condados e cidades está diminuindo: os jovens partem para trabalhar ou estudar, aqueles que ficam envelhecem gradualmente e o número de recém-nascidos não é suficiente para repor a base, fazendo com que os números de ambas as colunas disparem.
 
-Colocando os extremos mais jovens e mais velhos lado a lado, a diferença é ainda mais impactante.
+Então, onde fica o canto mais jovem de Taiwan? A resposta surpreenderá muitos: não está em algum refúgio paradisíaco, mas sim ao lado das fábricas de tecnologia. O condado de Hsinchu tem uma taxa de envelhecimento de apenas 15,08%, a mais baixa do país; o seu índice de envelhecimento é de 101,88, um estado de equilíbrio quase de um para um entre idosos e crianças, destacando-se em meio ao envelhecimento generalizado de Taiwan. Hsinchu (cidade) com 16,16% e Taoyuan com 16,72% seguem de perto. A juventude desses três lugares deve-se quase inteiramente a um único motivo: o Parque Científico de Hsinchu (Hsinchu Science Park). A indústria de semicondutores e tecnologia atrai uma grande quantidade de engenheiros e técnicos em idade fértil, que formam famílias e têm filhos aqui, forçando a estrutura demográfica desses condados para um perfil mais jovem. O que o Parque Científico sustenta, além dos números de exportação de Taiwan, é também o mapa populacional mais jovem do país.
+
+Ao colocar o condado de Hsinchu, o mais jovem, ao lado do condado de Chiayi, com o maior índice de envelhecimento, o contraste torna-se ainda mais gritante.
 
 ```tw-versus
-Hsinchu (condado) (mais jovem) | Chiayi (condado) (mais velho)
-65+ representa 15.08% | 65+ representa 24.11%
-Índice de envelhecimento 101.88 | Índice de envelhecimento 291.69
-População ainda crescendo | População em declínio contínuo
-Juventude impulsionada pelo parque tecnológico | Fronteira avançada do envelhecimento agrícola
-Fonte: Ministério do Interior, Departamento de Registro Civil, final de 2025
+Condado de Hsinchu (O mais jovem de Taiwan) | Condado de Chiayi (Maior índice de envelhecimento de Taiwan)
+Proporção 65+: 15,08% | Proporção 65+: 24,11%
+Índice de envelhecimento: 101,88 | Índice de envelhecimento: 291,69
+População ainda em crescimento | Perda populacional contínua
+Juventude sustentada pelo Parque Científico | Condado agrícola; recém-nascidos não compensam a perda
+Fonte: Departamento de Registro Civil, Ministério do Interior, final de 2025
 ```
 
-Hsinchu (condado) com 15,08% versus Chiayi (condado) com 24,11% — a diferença na taxa de envelhecimento é de nove pontos percentuais; o índice de envelhecimento, de 101,88 para 291,69, uma diferença de quase três vezes. Um está crescendo, com população fluindo para dentro; o outro está em declínio, com população fluindo para fora. Os dois condados nessa mesma ilha diferem em quase uma geração em termos de envelhecimento. Nos parques de Hsinchu, você pode ver jovens pais com carrinhos de bebê; nas zonas rurais de Chiayi, as ruas podem estar cheias de idosos caminhando devagar. Esses dois Taiwans são calculados pelos mesmos números do Departamento de Registro Civil.
+Hsinchu (15,08%) contra Chiayi (24,11%): uma diferença de 9 pontos percentuais na taxa de envelhecimento; o índice de envelhecimento de 101,88 contra 291,69 é uma diferença de quase três vezes. Um lugar está em crescimento, com a população a fluir para dentro; o outro sofre uma perda contínua, com a população a sair. Nestes dois condados da mesma ilha, num lado há quase tantos idosos quanto crianças, no outro, atrás de cada criança, estão quase três idosos. Num parque em Hsinchu, você poderá ver pais jovens a empurrar carrinhos de bebé; numa zona rural de Chiayi, poderá encontrar uma rua inteira de idosos a caminhar lentamente. Estas duas faces de Taiwan são ambas o resultado dos números do Departamento de Registro Civil.
 
-Aqui, precisamos corrigir um equívoco comum: muitos acreditam que o envelhecimento é exclusividade do interior e ilhas, e que as grandes cidades, com mais jovens e oportunidades, deveriam ser imunes ao envelhecimento. Os dados dizem que não. A cidade de Taipei tem uma taxa de envelhecimento de 24,18%, a mais alta do país; seu índice de envelhecimento de 202,06 também é o mais alto entre as seis grandes cidades. A cidade mais próspera e com mais recursos de Taiwan é, ao mesmo tempo, a mais envelhecida entre as seis grandes cidades. A razão é simples: os preços imobiliários em Taipei são altos, e jovens casais são empurrados para Nova Taipei e Taoyuan para ter filhos; quem permanece na cidade são os que se estabeleceram cedo e agora estão envelhecendo. A prosperidade urbana não impede o envelhecimento — apenas o faz de outra forma. O envelhecimento não é uma doença de alguns condados; é a condição comum de toda a ilha, apenas com ritmos diferentes.
+Muitos pensam que o envelhecimento é um privilégio das zonas rurais e das ilhas periféricas, e que nas grandes metrópoles, com mais jovens e oportunidades, haveria imunidade ao envelhecimento. Os números de Taipé mostram o contrário: esta cidade, a mais próspera e com maior concentração de recursos em Taiwan, tem a maior proporção de idosos do país e o maior índice de envelhecimento entre as grandes áreas metropolitanas. A explicação frequentemente citada é o preço das casas: as famílias jovens são empurradas para Nova Taipé ou Taoyuan para formar família, enquanto quem permanece no centro da cidade é uma geração que se estabeleceu há muito tempo e agora está a envelhecer gradualmente. A prosperidade urbana não impede o envelhecimento; ela apenas envelhece de uma forma diferente. O envelhecimento é uma situação comum a toda a ilha; a diferença reside apenas na velocidade com que acontece.
 
 ## Uma ilha, envelhecendo junta
 
@@ -209,21 +211,21 @@ Este fato merece uma reflexão profunda. Em 2025, restam apenas quatro condados 
 
 É por isso que a população total diminuiu consecutivamente por 23 meses, caindo para 23.299.132 pessoas. É uma contração sincronizada de toda a ilha; cada condado está encolhendo. A diferença é que alguns lugares conseguem manter as aparências temporariamente graças à migração, enquanto outros não possuem sequer esse amortecedor.
 
-## O retrato desenhado pelos dados
+## Um retrato desenhado pelos dados
 
-Voltando ao início dessa jornada. De Taipei, na Zona da Xinyi, até Taitung, a densidade populacional cai de 8.975 para 59 pessoas por km² — como atravessar dois países. Agora você sabe que isso não é apenas uma diferença de densidade. Ao longo do caminho, a escala populacional vai de gigantes a partículas, o envelhecimento vai da juventude sustentada pelo parque tecnológico de Hsinchu até a fronteira avançada do envelhecimento agrícola; o que não muda é que, não importa em que condado você pare, as mortes já superam os nascimentos.
+Voltando ao trecho inicial: de Xinyi, em Taipé, até Taitung, o número de pessoas por quilômetro quadrado cai de 8.975 para apenas 59, como se você estivesse atravessando dois países diferentes. Agora você sabe que não se trata apenas de uma diferença de densidade. Ao longo desse caminho, a escala populacional passa de um gigante a um grão de poeira. O envelhecimento, porém, não segue a densidade; Taipé, o ponto de partida, tem a maior proporção de idosos de Taiwan, enquanto Taitung, o destino, ocupa uma posição intermediária em ambas as colunas. A única constante é que, não importa em qual condado ou cidade você pare, o número de mortes locais já superou o de nascimentos.
 
-Esta é a face de Taiwan em 2025: profundamente dividida e envelhecendo juntos. As disparidades internas são impressionantes — densidade diferindo em 151 vezes, escala populacional diferindo em 297 vezes, envelhecimento diferindo em quase uma geração; mas a condição compartilhada é surpreendente: toda a ilha morre mais do que nasce, a população total cai por 23 meses consecutivos, e em sete anos, passamos de sociedade envelhecida a superenvelhecida. O Conselho Nacional de Desenvolvimento projeta que, segundo as projeções, até 2070 a população total de Taiwan cairá para 14,97 milhões, e a proporção de pessoas com 65 anos ou mais atingirá 46,5%; em 2028, o "boom populacional" terminará. Esse retrato não melhorará sozinho.[^3]
+Este é o retrato de Taiwan em 2025: um rosto altamente fragmentado e que está envelhecendo coletivamente. As disparidades internas são impressionantes — a densidade varia 151 vezes, a escala populacional varia 297 vezes, e a proporção de idosos para crianças vai de um para um até quase três para um; contudo, a situação fundamental enfrentada é surpreendentemente consistente: em toda a ilha, as mortes superam os nascimentos, a população total encolhe consecutivamente há 23 meses e, em apenas sete anos, o país saltou de uma sociedade envelhecida para uma sociedade superenvelhecida. Segundo as projeções do Conselho Nacional de Desenvolvimento, seguindo as estimativas médias, a população total de Taiwan cairá para 14,97 milhões até 2070, com a proporção de pessoas com 65 anos ou mais atingindo 46,5%; em 2028, o bônus demográfico chegará ao fim. Este retrato não melhorará por conta própria. [^3]
 
-Reconhecer que Taiwan é tão heterogênea internamente é o primeiro passo para entender os verdadeiros desafios dessa ilha: um lugar com disparidades tão grandes precisa de políticas que atendam tanto os quatro milhões apertados nas planícies quanto os 13.621 na ilha de Kinmen, que enfrentem ao mesmo tempo a juventude de Hsinchu e a velhice de Chiayi. A ilha é dividida, mas precisa agir como um todo; está envelhecendo, mas precisa enfrentar o envelhecimento juntos. Os dados desenham esse rosto para nós; como responder a esse rosto é a pergunta que toda a ilha precisa responder.
+Reconhecer que Taiwan é tão heterogênea internamente serve para enxergar claramente o verdadeiro desafio desta ilha: um lugar com disparidades internas tão vastas precisa de um conjunto de políticas que cuide, simultaneamente, dos quatro milhões de pessoas espremidas na bacia de Taipé e das treze mil pessoas que vivem em ilhas remotas; ao mesmo tempo, deve lidar com o condado de Hsinchu, o mais jovem, e com as cidades de Taipé e o condado de Chiayi, que possuem as maiores proporções de idosos. Taiwan é fragmentada, mas precisa agir como um todo; está envelhecendo, mas precisa encontrar soluções em conjunto. Os dados desenharam este rosto para nós; como responder a ele é uma questão que toda a ilha deve responder unida.
 
-## Leituras recomendadas
+## Leitura complementar
 
-- [Taipei](/pt/geography/taipei-city) — A cidade mais superlotada do país (8.975 pessoas/km²) e também a mais envelhecida entre as seis grandes cidades (índice de envelhecimento 202), o protagonista central tanto da densidade quanto do envelhecimento neste artigo.
-- [Taitung (condado)](/pt/geography/taitung-county) — O outro extremo da vaziedade (59 pessoas/km²), onde as ilhas carregam o peso de toda a ilha.
-- [Chiayi (condado)](/pt/geography/chiayi-county) — Índice de envelhecimento 291,69, o mais alto do país, cada criança corresponde a cerca de três idosos, representando a fronteira avançada do envelhecimento agrícola.
-- [Hsinchu (condado)](/pt/geography/hsinchu-county) — Taxa de envelhecimento de 15,08%, a mais baixa do país, onde o parque tecnológico puxa a estrutura etária para a juventude.
-- [Crise de baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — A face do nascimento nesse retrato: recém-nascidos abaixo de 110.000, a outra face da ilha que morre mais do que nasce.
+- [Taipei](/pt/geography/taipei-city) — A cidade mais densamente povoada de Taiwan (8.975 pessoas por km²) e com a maior proporção de pessoas com 65 anos ou mais (24,18%); é o mesmo protagonista das duas tabelas sobre densidade e envelhecimento deste artigo.
+- [Condado de Taitung](/pt/geography/taitung-county) — O extremo oposto, sendo a área menos povoada de Taiwan (59 pessoas por km²); seus 3.515 km² representam o terceiro maior território do país, incluindo as ilhas de Green Island e Lanyu.
+- [Condado de Chiayi](/pt/geography/chiayi-county) — Possui o índice de envelhecimento mais alto de Taiwan (291,69), o que significa que para cada criança existem quase três idosos; sua proporção de pessoas com 65 anos ou mais (24,11%) é a segunda maior, atrás apenas de Taipei.
+- [Condado de Hsinchu](/pt/geography/hsinchu-county) — A região mais jovem de Taiwan, com uma taxa de envelhecimento de 15,08%; é o território onde o Parque Científico de Hsinchu (Hsinchu Science Park) impulsiona a estrutura demográfica para um perfil mais jovem.
+- [A crise da baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — O outro lado do retrato: o número de recém-nascidos caiu abaixo de 110.000, revelando a face sombria da demografia na ilha.
 
 ## Fontes das imagens
 

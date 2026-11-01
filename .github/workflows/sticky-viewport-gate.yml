@@ -42,16 +42,27 @@ on:
       - 'src/components/**'
       - 'src/layouts/**'
       - 'scripts/tools/check-sticky-viewport.mjs'
+      # 本檔自己也要在清單裡。pull_request 那半早就有，push 這半沒有，於是
+      # 「改這道閘門的定義」在 PR 上驗得到、在 main 上永遠驗不到。
+      # 2026-10-24 實撞：本閘門因 node 版本紅在 main，修好後推的那個 commit
+      # 動的正是本檔，卻因為不在這份清單裡而沒有重跑——紅燈只能留在 main 上
+      # 等下一個剛好碰到 src/components 的人，而那個人會以為是自己弄壞的。
+      - '.github/workflows/sticky-viewport-gate.yml'
+      - '.nvmrc'
 
 jobs:
   sticky-viewport-gate:
-    runs-on: ubuntu-latest
+    # 與 deploy.yml 的 font-gate 同因：ubuntu-latest 已是 26.04，
+    # playwright 1.59.1 不支援該平台的 chromium；釘 24.04 直到 playwright 升版。
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v5
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          # 同 deploy.yml：node 版本只讀 .nvmrc，不寫死 '22'（2026-10-24 astro
+          # 7.4.2 的 node 下限升到 22.23.4，而 runner 快取停在 22.23.3）
+          node-version-file: .nvmrc
 
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit

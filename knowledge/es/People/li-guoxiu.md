@@ -1,152 +1,113 @@
 ---
-title: 'Li Guoxiu'
-description: 'Fundador de Ping-Feng Acting Troupe, el rey de la comedia taiwanesa, falleció el 2 de julio de 2013 a los 58 años a causa de cáncer colorrectal'
+title: 'Li Kuo-hsiu'
+description: 'Fundador de la Pingfund, el rey de la comedia en Taiwán; falleció por cáncer de colon el 2 de julio de 2013 a los 57 años.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Li Kuo-hsiu', 'Pingfund', 'comedia', 'teatro', 'drama taiwanés']
 subcategory: '藝術與設計'
-tags:
-  [
-    'Li Guoxiu',
-    'Ping-Feng Acting Troupe',
-    'Comedia',
-    'Teatro',
-    'Drama taiwanés',
-  ]
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:11b55d270abdf3d3'
-sourceBodyHash: 'sha256:7ab58584d6fb7af7'
-translatedAt: '2026-05-24T05:06:33+08:00'
+sourceCommitSha: 'ec4bf4b5f'
+sourceContentHash: 'sha256:6ce83dd89e705886'
+sourceBodyHash: 'sha256:874193c9926520f1'
+translatedAt: '2026-10-22T02:46:30+08:00'
 ---
 
-# Li Guoxiu: El rey de la comedia taiwanesa
+# Li Kuo-hsiu: El rey de la comedia en Taiwán
 
-Li Guoxiu fue una figura de peso en la historia del teatro moderno taiwanés y un maestro de la comedia. En 1986 fundó Ping-Feng Acting Troupe, con la que creó obras clásicas como _Shamu Leite_, _Revelación de la ópera de Pekín_ y _Vino de hijas_. Envolvió una profunda preocupación humanitaria en formas cómicas de actuación, abordando temas sociales serios entre carcajadas, lo que le valió el título de "rey de la comedia taiwanesa". Falleció en 2013 a los 58 años debido a cáncer colorrectal, dejando un considerable legado teatral.
+Li Kuo-hsiu fue una figura fundamental en la historia del teatro moderno en Taiwán. En 1986 fundó la compañía Pingfund (屏風表演班), creando obras clásicas como _Shamlet_, _Apocalipsis de la Ópera de Pekín_ y _Nü'er Hong_. Su estilo, que envolvía el humor con una profunda sensibilidad humanista, exploraba temas sociales serios a través de la risa, lo que le valió el título de «el rey de la comedia en Taiwán». Falleció el 2 de julio de 2013 debido a un cáncer de colon a la edad de 57 años, dejando un legado teatral incalculable.
 
-## Los años de formación en los barrios militares
+## El hijo del artesano de botas de ópera de Pekín
 
-Li Guoxiu nació el 30 de diciembre de 1955 en Taipéi. Su padre, Li Fei, era suboficial de la fuerza aérea, y su madre, Wang Guihua, era ama de hogar. Creció en un barrio de dependientes de la fuerza aérea (_juancun_), donde desde pequeño experimentó la atmósfera cultural particular de estos barrios: dialectos de diversas provincias entremezclados, el estilo disciplinado de las familias militares y una profunda nostalgia por la tierra natal.
+Li Kuo-hsiu nació en Taipéi el 30 de diciembre de 1955. Su padre, Li Shen-en, era un maestro artesano de botas hechas a mano para la ópera de Pekín; su madre era natural de la misma región que su padre y más tarde se convirtió en el modelo para el personaje principal de su obra _Nü'er Hong_. La conexión de su padre con la ópera de Pekín se transformaría años después en su obra semiautobiográfica, _Apocalipsis de la Ópera de Pekín_.
 
-La vida en el _juancun_ proporcionó a Li Guoxiu abundante material creativo. Las relaciones humanas entre vecinos, la nostalgia de los veteranos de otras provincias y la identidad de los hijos de residentes de barrios militares son elementos que aparecieron repetidamente en sus obras.
+## Formación en radiodifusión y televisión
 
-Durante la secundaria, en la Escuela Secundaria Chenggong, Li Guoxiu desarrolló un interés por la actuación, imitando con frecuencia a los cómicos de los programas de televisión, lo que demostró su talento cómico innato. Sus compañeros consideraban que tenía potencial como actor, pero en la concepción tradicional, actuar no se consideraba una profesión respetable.
+Li Kuo-hsiu estudió en el departamento de Radiodifusión y Televisión de la Escuela de Periodismo del Mundo (actualmente el Departamento de Radiodifusión, Televisión y Cine de la Universidad Shih Hsin). En 1980 recibió el premio a la mejor edición en los Golden Bell Awards de radiodifusión, y en 1982 obtuvo el premio al «Actor Nuevo con Mayor Potencial» en la 17.ª edición de los Golden Bell Awards. Antes de incursionar plenamente en el teatro, ya había sido reconocido en el ámbito de la radiodifusión y la televisión.
 
-## La iniciación teatral en la Universidad Fu Jen
+## La etapa del Performance Workshop
 
-En 1974, Li Guoxiu ingresó en el Departamento de Lengua y Literatura China de la Universidad Fu Jen, un punto de inflexión en su carrera teatral. Durante su tiempo en la universidad, participó en el club de teatro universitario, recibió formación teatral formal y entró en contacto con obras clásicas del teatro mundial.
+En 1984, Li Kuo-hsiu cofundó junto a [Stan Lai](/es/people/stan-lai-theater-innovation-master/) y Li Li-chun el Performance Workshop[^1] (con Chin Shih-chieh como colaborador, mas no fundador), lo que marcó el inicio de su carrera teatral profesional. Durante su estancia en el taller, participó en la creación de piezas clásicas como _Aquella noche, dijimos crosstalk_, demostrando un extraordinario talento interpretativo.
 
-En la universidad, Li Guoxiu demostró un doble talento para la escritura de guiones y la actuación. Los cortometrajes que creaba hacían reír a sus compañeros a carcajadas, al tiempo que les conmovían. Esta "sonrisa con lágrimas" se presentó repetidamente en las obras de Ping-Feng Acting Troupe.
+En el Performance Workshop, Li Kuo-hsiu acumuló experiencia creativa en el teatro moderno y comenzó a definir su propio camino independiente centrado en la comedia taiwanesa. Al descubrir su especial habilidad para la comedia y su aguda capacidad de observación de la realidad social, decidió trazar una ruta creativa única.
 
-Tras graduarse en 1978, Li Guoxiu se enfrentó a una decisión vital. Su familia deseaba que tuviera un trabajo estable, pero en su interior anhelaba dedicarse al teatro. Finalmente eligió seguir su sueño y decidió consagrar su vida al arte dramático.
+## La fundación de Pingfund
 
-## El período en el Taller de Actuación
+En octubre de 1986, Li Kuo-hsiu decidió fundar la compañía Pingfund. Su obra inaugural fue el drama experimental de lenguaje corporal _1812 y cierta interpretación_. Tras la representación de _Historias del Círculo_ en 1987, abandonó formalmente el Performance Workshop. El nombre de la compañía proviene de la función de un biombo (屏風, _píngfēng_) para proteger de la lluvia y el viento, simbolizando el papel del teatro como refugio espiritual para el público.
 
-En 1984, Li Guoxiu cofundó el Taller de Actuación (_Biaoyan Gongzuofang_) junto con [Stan Lai](/es/people/stan-lai-theater-innovation-master/) y Li Liqun[^1] (con Jin Shijie como colaborador, no como cofundador), marcando el inicio de su carrera teatral profesional. Durante su tiempo en el taller, participó en la creación de obras clásicas como _Aquella noche, contamos xiangsheng_, demostrando un destacado talento actoral.
+El lema fundacional de Pingfund era «hacer una obra, hacer un grupo de amigos», frase que refleja la importancia que Li Kuo-hsiu otorgaba a las relaciones humanas en el teatro. Para él, el teatro no era solo creación artística, sino un intercambio sincero entre personas.
 
-En el Taller de Actuación, Li Guoxiu aprendió métodos de creación teatral moderna, en particular técnicas de improvisación colectiva. Estos dos años de formación teatral le confirmaron que deseaba seguir un camino independiente para la comedia taiwanesa.
-
-Durante su período en el taller, Li Guoxiu comenzó a reflexionar sobre su dirección creativa. Descubrió que tenía una habilidad especial para la actuación cómica y, al mismo tiempo, una aguda observación de la realidad social. Esto lo llevó a decidir emprender un camino creativo singular.
-
-## La fundación de Ping-Feng Acting Troupe
-
-En 1986, Li Guoxiu dejó el Taller de Actuación y fundó Ping-Feng Acting Troupe. El nombre de la compañía proviene de la función de una pantalla (_pingfeng_) de proteger contra el viento y la lluvia, simbolizando el significado del teatro como consuelo espiritual para el público.
-
-El propósito fundacional de Ping-Feng Acting Troupe era "hacer una obra de teatro, hacer un grupo de amigos", una frase que refleja la importancia que Li Guoxiu otorgaba a las relaciones interpersonales en el teatro. Consideraba que el teatro no era solo creación artística, sino también un intercambio sincero entre personas.
-
-En los primeros años, los espacios de actuación de Ping-Feng eran modestos y el público escaso, pero Li Guoxiu insistió en crear cada obra con dedicación. Creía que si las obras eran lo suficientemente buenas, el público terminaría reconociéndolas. Este espíritu de perseverancia sostuvo a la compañía durante sus difíciles inicios.
+En sus inicios, los escenarios de Pingfund eran humildes y el público escaso, pero Li Kuo-hsiu insistió en crear cada obra con total dedicación. Creía que si la calidad era suficiente, el público acabaría reconociéndolo. Este espíritu de perseverancia sostuvo a la compañía durante sus difíciles años fundacionales.
 
 ## La trilogía clásica
 
-### _Shamu Leite_ (1992)
+### _Shamlet_ (1992)
 
-_Shamu Leite_ es la obra representativa de Li Guoxiu, representada más de cien veces y con mayor influencia. Trasplantó _Hamlet_ de Shakespeare al contexto de los barrios militares taiwaneses. El protagonista, Shamu, es un joven de _juancun_ que enfrenta un conflicto entre el legado de su padre y sus ideales personales.
+_Shamlet_ es la comedia más conocida de Li Kuo-hsiu. Se estrenó en 1992 y ha tenido múltiples reposiciones; en 2006, él mismo protagonizó la «versión frenética» y en 2024 se volvió a representar como obra conmemorativa.
 
-Esta obra combina hábilmente el clásico occidental con la experiencia local taiwanesa, explorando temas vitales serios con humor. La actuación de Li Guoxiu posee tanto la profundidad del teatro shakesperiano como la calidez del ciudadano común taiwanés.
+### _Apocalipsis de la Ópera de Pekín_ (1996)
 
-_Shamu Leite_ se representó más de cien veces, convirtiéndose en una obra clásica de la historia del teatro taiwanés. Esta obra consolidó la posición de Li Guoxiu en el teatro taiwanés y demostró la viabilidad de las adaptaciones localizadas.
+Lanzada en 1996, es una obra semiautobiográfica escrita en memoria de su padre, que utiliza una estructura de historias entrelazadas para narrar un relato que abarca medio siglo. En esta obra, Wang Yue asumió por primera vez el papel de la «Segunda Tía».
 
-### _Revelación de la ópera de Pekín_ (1996)
+### _Nü'er Hong_ (2003)
 
-_Revelación de la ópera de Pekín_ se centra en la trayectoria vital de un actor de ópera de Pekín, describiendo las dificultades de la ópera tradicional en la sociedad moderna. Li Guoxiu se basó en su propia experiencia aprendiendo ópera de Pekín para crear esta obra semiautobiográfica.
+Estrenada en 2003, la protagonista de esta obra está basada en la madre de Li Kuo-hsiu.
 
-La obra intercala numerosos fragmentos de canto y movimientos de la ópera de Pekín, con Li Guoxiu actuando personalmente en escena, demostrando una profunda base en las artes operísticas. Utilizó técnicas del teatro moderno para reinterpretar el arte tradicional, permitiendo que el público joven apreciara la belleza de la ópera de Pekín.
+## Estética cómica y sensibilidad humanista
 
-Esta obra ganó el Gran Premio del Primer Premio de Arte Taishin y recibió altas valoraciones internacionales. _Revelación de la ópera de Pekín_ representa la profunda reflexión de Li Guoxiu sobre la cultura tradicional y su expresión contemporánea.
+La comedia de Li Kuo-hsiu tiene como núcleo el humanismo, utilizando la risa para portar observaciones sociales trágicas. Sostenía que la mejor comedia debería ser aquella que «haga llorar entre risas», permitiendo reflexionar sobre la vida en medio de la alegría.
 
-### _Vino de hijas_ (1999)
+Sus obras suelen centrarse en el destino de las personas comunes, mostrando empatía por las dificultades de las clases sociales más desfavorecidas. Tanto los actores de ópera de Pekín como las mujeres tradicionales encuentran dignidad y calidez bajo su pluma.
 
-_Vino de hijas_ es una obra que Li Guoxiu creó para su madre, describiendo la vida de una mujer tradicional. La madre en la obra sacrifica sus sueños por la familia, pero mantiene siempre una actitud optimista y firme.
+Li Kuo-hsiu era especialmente hábil utilizando el lenguaje y los elementos culturales locales de Taiwán, logrando que el público conectara con situaciones familiares. Sus diálogos eran vivos, naturales y rebosantes de sabiduría cotidiana y humor.
 
-Esta obra muestra la profunda comprensión y respeto de Li Guoxiu hacia las mujeres. Con un trazo suave retrata la grandeza de la madre, trayendo lágrimas de emoción al público entre risas.
+## Entrenamiento actoral y educación teatral
 
-El éxito de _Vino de hijas_ demostró que Li Guoxiu no solo era un excelente actor cómico, sino también un profundo observador de la naturaleza humana. Era capaz de descubrir la belleza extraordinaria en la vida cotidiana.
+Además de ser un excelente dramaturgo e intérprete, Li Kuo-hsiu fue un destacado educador teatral. Estableció en Pingfund un sistema sistemático de entrenamiento actoral, formando a figuras reconocidas del teatro como Fan Guang-yao y Huang Chih-kai.
 
-## Estética cómica y preocupación humanitaria
+Daba especial importancia a la experiencia vital de los actores, pues creía que la verdadera actuación proviene de la observación minuciosa de la vida. A menudo llevaba a sus actores a interactuar con diversos estratos sociales para experimentar directamente diferentes realidades humanas.
 
-La comedia de Li Guoxiu tiene como núcleo la preocupación humanitaria, utilizando la risa para cargar observaciones sociales de carácter trágico. Consideraba que la mejor comedia debería "hacer reír con lágrimas", invitando a reflexionar sobre la vida en medio de la alegría.
+Su filosofía pedagógica enfatizaba la «sinceridad»; consideraba que un actor debía ser honesto consigo mismo para poder crear personajes auténticos y conmovedores. Esta idea influyó en numerosas generaciones de jóvenes actores.
 
-Sus obras frecuentemente se centran en el destino de la gente común, mostrando compasión por las dificultades de los estratos sociales más bajos. Ya fueran veteranos de barrios militares, actores de ópera de Pekín o mujeres tradicionales, todos ellos recibían dignidad y calidez en sus textos.
+## Obra tardía y enfermedad
 
-Li Guoxiu era especialmente hábil utilizando elementos lingüísticos y culturales locales taiwaneses, permitiendo que el público se identificara con situaciones familiares. Sus diálogos eran vívidos y naturales, llenos de sabiduría cotidiana y sentido del humor.
+A finales de la década de 2000, su salud comenzó a deteriorarse, pero mantuvo su compromiso con la creación y la actuación. Obras tardías como _Los seis bandidos_ (2008) muestran sus profundas reflexiones sobre la existencia.
 
-## Formación actoral y educación teatral
+Ante el dolor, Li Kuo-hsiu mantenía una actitud optimista. Solía decir: «La vida es como ir al baño: sale de la forma en que lo presiones» (frase atribuida a él, recogida en múltiples entrevistas[^2]). Esta filosofía de vida humorística conmovió a innumerables espectadores.
 
-Li Guoxiu no solo fue un excelente dramaturgo y actor, sino también un destacado educador teatral. En Ping-Feng Acting Troupe estableció un sistema estructurado de formación actoral, formando a reconocidos profesionales del teatro como Fan Guangyao y Huang Zhikai.
-
-Daba especial importancia a la experiencia vital de los actores, considerando que la verdadera actuación proviene de una observación cuidadosa de la vida. Con frecuencia llevaba a los actores a recorrer distintos estratos sociales para experimentar directamente diferentes formas de vida.
-
-La filosofía pedagógica de Li Guoxiu enfatizaba la "sinceridad". Creía que un actor debe ser honesto consigo mismo para crear personajes auténticos y conmovedores. Esta filosofía influyó en muchos actores jóvenes.
-
-## Cronista de la cultura de los barrios militares
-
-Como hijo de residentes de _juancun_, Li Guoxiu siempre prestó atención a la preservación de la cultura de los barrios militares. Muchas de sus obras tienen como escenario estos barrios, documentando la vida de esta comunidad especial.
-
-Con el desarrollo urbano, muchos _juancun_ fueron demolidos, y las obras de Li Guoxiu se convirtieron en valiosos registros culturales. A través del teatro, preservó la memoria histórica de un período a punto de desaparecer.
-
-Li Guoxiu consideraba que la cultura de los _juancun_ era un componente importante de la sociedad taiwanesa, merecedora de comprensión y respeto. Sus obras eliminaron las barreras entre taiwaneses nativos y de otras provincias, promoviendo la armonía social.
-
-## Creaciones tardías y enfermedad
-
-En la segunda mitad de la década de 2000, la salud de Li Guoxiu comenzó a deteriorarse, pero continuó creando y actuando. Obras tardías como _Liu Yi Bang_ (2007) y _Años dorados_ (2011) reflejan su profunda comprensión de la vida.
-
-Frente a la enfermedad, Li Guoxiu mostró una actitud optimista. Solía decir: "La vida es como una deposición: por mucho que aprietes, siempre sale." (Atribuida a Li Guoxiu, registrada en múltiples entrevistas[^2]). Esta filosofía humorística de la vida conmovió a innumerables espectadores.
-
-Comenzó a reflexionar más sobre la vida y la muerte, y sus obras se llenaron de exploraciones sobre el sentido de la vida. Aunque estas obras tienen un tono melancólico, mantienen su característico humor y calidez.
+Comenzó a reflexionar más sobre la vida y la muerte, llenando sus obras de indagaciones sobre el sentido de la existencia. Aunque estas piezas poseían matices de tristeza, conservaban su habitual humor y calidez.
 
 ## Fallecimiento repentino y legado teatral
 
-El 2 de julio de 2013, Li Guoxiu falleció a causa de cáncer colorrectal, a los 58 años[^3]. La noticia conmocionó a todo el mundo teatral taiwanés, y muchas personas lloraron la pérdida de este maestro de la comedia.
+El 2 de julio de 2013, Li Kuo-hsiu falleció debido a un cáncer de colon a los 57 años[^3]. La noticia conmocionó al mundo del teatro en Taiwán, y miles de personas lamentaron la pérdida de este maestro de la comedia.
 
-Su fallecimiento llevó a la gente a reexaminar sus contribuciones. Lo que dejó no fue solo una lista de decenas de obras, sino un sistema estético sobre cómo la comedia puede cargar peso humanitario.
+Su partida invitó a la sociedad a reevaluar sus contribuciones. No solo dejó un repertorio de decenas de obras, sino también un sistema estético sobre cómo la comedia puede cargar con el peso del humanismo.
 
-Ping-Feng Acting Troupe continuó operando tras su fallecimiento, bajo la dirección de su esposa, Wang Yue. La compañía se dedica a promover los ideales creativos de Li Guoxiu, asegurando la continuidad de su legado.
+Pingfund continuó operando tras su muerte, dedicándose a promover sus ideas creativas para asegurar que su espíritu perdurara.
 
-## Influencia en el teatro taiwanés
+## Influencia en el teatro de Taiwán
 
-Li Guoxiu fue pionero en el teatro cómico moderno taiwanés, demostrando la viabilidad de la creación localizada. Sus obras establecieron nuevos estándares para el teatro taiwanés e influyeron en innumerables creadores posteriores.
+Li Kuo-hsiu fue pionero del teatro de comedia moderno en Taiwán, demostrando la viabilidad del éxito mediante la creación local. Sus obras establecieron nuevos estándares para el teatro taiwanés e influyeron en innumerables creadores posteriores.
 
-Los actores y creadores que formó se encuentran repartidos por todo el mundo teatral taiwanés, incluyendo a Fan Guangyao, Huang Zhikai, Chen Lihua y otros. Estas personas continúan difundiendo sus ideales creativos y métodos de enseñanza.
+Los actores y creadores que formó están presentes en todo el panorama teatral de Taiwán, incluyendo a Fan Guang-yao, Huang Chih-kai y Chen Li-hua, quienes continúan difundiendo su filosofía y métodos de enseñanza.
 
-El éxito de Li Guoxiu también elevó el reconocimiento social del arte teatral, haciendo que más personas comprendieran el valor y el encanto del teatro. Realizó contribuciones importantes al desarrollo del teatro taiwanés.
+Su éxito también elevó la percepción social del arte teatral, permitiendo que más personas reconocieran su valor y encanto. Realizó una contribución fundamental al desarrollo escénico de Taiwán.
 
-Li Guoxiu dijo una vez: "En la vida hay que ser como Confucio, en el trabajo hay que ser como Laozi." Esta frase refleja su filosofía de vida y explica por qué pudo crear obras tan cálidas y humanas. Con su vida demostró el poder de la comedia, y con sus obras brindó a la sociedad taiwanesa infinita alegría y reflexión.
+Li Kuo-hsiu dijo una vez: «Para ser persona, sé como Confucio; para hacer las cosas, sé como Lao Tsé». Esta frase refleja su filosofía de vida y explica por qué fue capaz de crear obras tan reconfortantes. Dedicó su vida a demostrar el poder de la comedia, aportando alegría y reflexión a la sociedad taiwanesa.
 
-[^1]: Los fundadores del Taller de Actuación fueron Stan Lai, Li Guoxiu y Li Liqun; Jin Shijie fue un actor colaborador importante, pero no cofundador. Véase: entrada "表演工作坊" en Wikipedia <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
+[^1]: Los fundadores del Performance Workshop fueron Stan Lai, Li Kuo-hsiu y Li Li-chun; Chin Shih-chieh fue un actor colaborador clave, pero no fundador. Véase: entrada de Wikipedia sobre «Performance Workshop» <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
 
-[^2]: Esta frase de Li Guoxiu aparece en múltiples entrevistas y artículos conmemorativos. Véase: entrada "李國修" en Wikipedia <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; sitio web oficial de Ping-Feng Acting Troupe <http://www.ppt.org.tw/>
+[^2]: Esta frase de Li Kuo-hsiu aparece en diversas entrevistas y artículos conmemorativos. Véase: entrada de Wikipedia sobre «Li Kuo-hsiu» <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; sitio web oficial de Pingfund <http://www.ppt.org.tw/>
 
-[^3]: Li Guoxiu falleció el 2 de julio de 2013 a causa de cáncer colorrectal, a los 58 años. Véase: reportaje de ETtoday News Cloud del 02/07/2013; entrada "李國修" en Wikipedia <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
+[^3]: Li Kuo-hsiu falleció por cáncer de colon el 2 de julio de 2013 a los 57 años (algunos informes mencionan 58 años según la edad tradicional). Véase: reporte de ETtoday News del 02/07/2013; entrada de Wikipedia sobre «Li Kuo-hsiu» <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
 
-[^4]: _Revelación de la ópera de Pekín_ ganó el Gran Premio del Primer Premio de Arte Taishin (1997). Véase: sitio web oficial del Premio de Arte Taishin <https://taishinarts.org.tw/>
-
-[^5]: Ping-Feng Acting Troupe fue fundada en 1986, con el propósito fundacional de "hacer una obra de teatro, hacer un grupo de amigos", y representó más de 40 obras teatrales hasta el fallecimiento de Li Guoxiu. Véase: sitio web oficial de Ping-Feng Acting Troupe <http://www.ppt.org.tw/>
+[^5]: Pingfund fue fundada en 1986 con el lema «hacer una obra, hacer un grupo de amigos», y hasta el fallecimiento de Li Kuo-hsiu había representado más de 40 obras. Véase: sitio web oficial de Pingfund <http://www.ppt.org.tw/>
 
 ## Referencias
 
-- [Sitio web oficial de Ping-Feng Acting Troupe](http://www.ppt.org.tw/) — Historia de la compañía y datos sobre las obras
-- [Exposición conmemorativa de Li Guoxiu — Museo del Drama de Taiwán](http://thedrama.org.tw/) — Registros biográficos y creativos
-- [Historia del desarrollo del teatro moderno taiwanés — Centro Nacional de Artes Tradicionales](https://www.ncfta.gov.tw/) — Materiales históricos teatrales
+- [Sitio web oficial de Pingfund](http://www.ppt.org.tw/) — Historia de la compañía y datos de sus obras
+- [Exposición conmemorativa de Li Kuo-hsiu — Museo del Drama de Taiwán](http://thedrama.org.tw/) — Biografía y registro de su obra
+- [Historia del desarrollo del teatro moderno en Taiwán — Centro Nacional de las Artes Tradicionales](https://www.ncfta.gov.tw/) — Material histórico teatral

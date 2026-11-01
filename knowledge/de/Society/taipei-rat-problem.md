@@ -19,10 +19,10 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:7bfcc784f6998122'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-09-21T20:10:32.201734+00:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:05:05.380854+00:00'
 ---
 
 # Rattenbefall in Taipeh: Von der Pestordnung des Gouverneursamtes 1896 bis zum Hantavirus-Fall in Da'an 2026
@@ -77,23 +77,23 @@ Wenn Schweinehalter nicht mehr täglich die Küchenabfälle in verschiedenen Tei
 
 📝 **Kuratorische Anmerkung:** Im Januar 2026 beendete das Landwirtschaftsministerium einen Prozess von halbem Jahrhundert, bei dem "Küchenabfall → Schwein" lief; am Monatsende trat in Taipei der erste Hantavirus-Tod seit 25 Jahren auf. Diese beiden Ereignisse sind kein Zufall, sondern die Folge einer Neuzuweisung von Kalorien im System.
 
-## Fünf. Die Wahl der Stadtverwaltung: Sprühen und die Gegenreaktion
+## Fünf. Die Wahl der Stadtverwaltung: Chemische Bekämpfung und die daraus resultierende Gegenreaktion
 
-Angesichts des explodierenden öffentlichen Drucks reagierte das Umweltamt von Taipeh mit „zielgenauem Einsatz“, indem es umweltgenehmigte Pestizide (meist Gerinnungshemmer wie „Mäusegift“) verwendete und dabei die Sicherheit der Haustiere betonte[^23].
+Angesichts des massiven öffentlichen Drucks reagierte das Umweltamt von Taipeh mit „präziser Dosierung“ unter Verwendung staatlich zugelassener Umweltgifte (meist Antikoagulanzien wie „Kermouse“) und betonte dabei gleichzeitig die Sicherheit von Haustieren[^23].
 
-Doch diese Wahl wurde fast sofort von drei Kräften gleichzeitig zurückgewiesen:
+Diese Entscheidung wurde jedoch fast unmittelbar von drei Seiten kritisiert:
 
-**1. Das Ministerium für Umwelt:** Der Umweltminister Peng Chi-ming forderte am 2. Mai öffentlich das Prinzip des „Schutzes vor Ratten durch Umweltsanierung als Hauptmaßnahme und Pestizideinsatz als Nebenmaßnahme“ – nämlich nicht zulassen, dass Ratten kommen, nicht zulassen, dass sie wohnen, und nicht zulassen, dass sie fressen. Auch die FAQ zum Schädlingsbekämpfung des Umweltamtes besagt dies[^24][^25].
+**1. Das zentrale Umweltministerium**: Umweltminister Peng Chi-ming rief am 2. Mai öffentlich dazu auf, bei der Rattenbekämpfung das Prinzip der „Drei Nicht“-Prävention anzuwenden – primär durch Umweltsanierung und nur ergänzend durch Gift –, um zu verhindern: dass Ratten kommen, dass sie dort leben und dass sie dort fressen können. Auch die FAQ des Umweltamtes zur Bekämpfung von Hausratten folgt diesem Ansatz[^24][^25].
 
-**2. Die Wissenschaftsgemeinschaft:** Das Team von Sun Yuan-xun vom Vogelökologielabor der Pingke-Universität stellte in einer Studie, veröffentlicht im _Science of the Total Environment_ im Jahr 2019, fest, dass **Gerinnungshemmerreste bei taiwanesischen Greifvögeln** (Schwarzadler, Uhu, Falken) **allgemein nachweisbar** waren und die Konzentration eng mit der von der Regierung langfristig geförderten „Mäusebekämpfungswoche“ korrelierte[^26][^27].
+**2. Die ökologische Fachwelt**: Ein Team um Sun Yuan-hsun vom Labor für Vogelökologie an der National Pingtung University of Science and Technology wies in einer 2019 in _Science of the Total Environment_ veröffentlichten Studie darauf hin, dass in Greifvögeln in Taiwan (wie dem Schwarzmilano, dem Fasanenkauz und dem Wanderfalken) **allgemein Rückstände von Antikoagulanzien zur Rattenbekämpfung nachgewiesen wurden**. Die Konzentration dieser Stoffe korrelierte stark mit der staatlich langfristig geförderten „Woche der Rattenbekämpfung“[^26][^27].
 
-**3. Die eigenen historischen Lehren des Landwirtschaftsministeriums:** Aufgrund einer Reihe von Todesfällen bei Schwarzadlern hob das Ministerium für Landwirtschaft (heute Ministerium für Landwirtschaft) ab 2015 schrittweise die „Nationale Schädlingsbekämpfungswoche“ auf landwirtschaftlichen Flächen, die **40 Jahre** andauerte, und erklärte damit offiziell den Übergang der Rattenbekämpfung in Taiwan von „Pestizideinsatz“ hin zu wissenschaftlicher und umweltfreundlicheren Methoden[^28][^29].
+**3. Die historischen Lehren des Landwirtschaftsministeriums selbst**: Aufgrund einer Serie von Vergiftungstodesfällen bei Schwarzmilanen begann das Council of Agriculture (heute das Landwirtschaftsministerium) im Jahr 2015 schrittweise mit der Abschaffung der „Nationalen Rattenbekämpfungswoche auf Agrarflächen“, die zuvor **40 Jahre** lang praktiziert worden war. Dies markierte den offiziellen Übergang von der rein chemischen Bekämpfung hin zu einem wissenschaftlich fundierten und ökologisch verträglichen Management des Schädlingsbefalls in Taiwan[^28][^29].
 
-Anders ausgedrückt: **Als das Landwirtschaftsministerium bereits wegen des Schutzes der Greifvögel die Ära der „Mäusebekämpfungswoche“ hinter sich gelassen hatte, nutzte das Umweltamt von Taipeh im Jahr 2026 ein Werkzeug, das ländliche Gebiete erst vor zehn Jahren aufgegeben hatten und es in die Stadt holte.**
+Mit anderen Worten: **Während die Agrarsektoren die Ära der „Rattenbekämpfungswoche“ aus Gründen des Greifvogelschutzes bereits hinter sich gelassen haben, bedeutet das Ausbringen von Gift auf den Straßen von Taipeh im Jahr 2026, dass ein Werkzeug, das auf dem Land vor zehn Jahren verworfen wurde, nun wieder in der Stadt eingesetzt wird.**
 
-Am 4. Mai musste der Leiter des Umweltamtes, Xu Shi-xun, nachgeben und sagte, er werde versuchen, „die Rattenlöcher zu verschließen und die Informationen zum Pestizideinsatz mit einer Karte der relativ heißen Zonen zu veröffentlichen“[^30]; am Folgetag versprach der Bürgermeister Chiang Wan-an, konkrete Maßnahmen zur „gesamtheitlichen Umweltreinigung des Stadtgebiets“ auszuarbeiten[^31][^32]. Der Oppositionspolitiker Xu Shu-hua griff gleichzeitig an und sagte, dass die Treffen zwischen den Abteilungen nur dreimal stattgefunden hätten und sie seien zu langsam gewesen[^33].
+Am 4. Mai sah sich das Umweltamt gezwungen, einzulenken und anzukündigen, man werde versuchen, „Rattenlöcher zu schließen sowie Informationen über den Giftgebrauch mit Karten der Hotspots zu integrieren und zu veröffentlichen“[^30]. Am darauffolgenden Tag versprach Bürgermeister [Chiang Wan-an](/people/蔣萬安), konkrete Maßnahmen für eine „umfassende Desinfektion und Reinigung des städtischen Umfelds“ auszuarbeiten[^31][^32]. Die Oppositionspolitikerin Hsu Shu-hua kritisierte zeitgleich, dass es bisher nur drei behördenübergreifende Sitzungen gegeben habe – die Reaktion der Verwaltung hinke also hinterher[^33].
 
-📝 **Kuratorische Anmerkung:** „Das Sprühen ist sichtbar, aber das Verschließen der Löcher nicht“ – dies ist die grundlegendste ökonomische Realität des Schädlingsmanagements in Taipeh. Unter dem Druck der Wahlen ist das Sichtbare wichtiger als das Effektive.
+📝 **Anmerkung des Kurators:** „Das Versprühen von Gift ist sichtbar, das Reinigen von Spalten und Ritzen hingegen nicht“ – dies beschreibt die grundlegende politische Ökonomie der Rattenbekämpfung in Taipeh. Unter dem Druck von Wahlen ist Sichtbarkeit oft wichtiger als Effektivität.
 
 ## Sechs. Die unsichtbare Infrastruktur: Mischwasserkanäle, Arkaden und Nachtmärkte
 
@@ -141,9 +141,9 @@ Dies ist keine Geschichte von „schlechten Menschen sind Ratten“, sondern ein
 
 [^3]: [CNA News Network, „Raohe Nachtmarkt mit ‚Mäuse essen Reisblut‘! Touristen sind fassungslos und beobachten“](http://ctinews.com/news/items/gOnLKb85xk>) — Details in der verlinkten Originalquelle
 
-[^4]: [Central News Agency, „Mäuse in der Lebensmittelstraße des Einkaufszentrums in Xinyi – Gesundheitsamt inspiziert“](https://www.cna.com.tw/news/ahel/202406250345.aspx>) — 中央社報導
+[^4]: [Central News Agency, „Mäuse in der Lebensmittelstraße des Einkaufszentrums in Xinyi – Gesundheitsamt inspiziert“](https://www.cna.com.tw/news/ahel/202406250345.aspx>) — 中央社報導: Details in der verlinkten Originalquelle
 
-[^5]: [Central News Agency, „Mäuse werden in Imbissläden in Ximending gesehen – Gesundheitsamt: Mängel müssen behoben werden“](https://www.cna.com.tw/news/ahel/202405310095.aspx>) — 中央社報導
+[^5]: [Central News Agency, „Mäuse werden in Imbissläden in Ximending gesehen – Gesundheitsamt: Mängel müssen behoben werden“](https://www.cna.com.tw/news/ahel/202405310095.aspx>) — 中央社報導: Details in der verlinkten Originalquelle
 
 [^6]: [Taiwan Times, „Mäuse bei Speisen in Guanghua Nachtmarkt – Gesundheitsamt verhängt Bußgeld“](https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-2c2dfb01-dde0-4571-be39-9305d2587504>) — Details in der verlinkten Originalquelle
 
@@ -165,9 +165,9 @@ Dies ist keine Geschichte von „schlechten Menschen sind Ratten“, sondern ein
 
 [^15]: [Ministry of Health and Welfare, CDC, Ji Jin-sheng et al., „Rattenüberwachung und -analyse in Kaohsiung von 2017 bis 2020“, Epidemiologische Nachrichten 39(19), 2023.](https://www.cdc.gov.tw/EpidemicTheme/Detail/zKNFqsVWxUoUqE6fyhmBNA?archiveId=1HfRGlaB9TX-6Li73MHTiQ>) — Details in der verlinkten Originalquelle
 
-[^16]: [CNA Afrikaechnische Schweinepest Seite, 〈Taiwanischer Fall: Afrikanische Schweinepest in Taichung; Tierarztbericht: Halter und Beamte kommen durchkommen und verursachen Schaden〉.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導
+[^16]: [CNA Afrikaechnische Schweinepest Seite, 〈Taiwanischer Fall: Afrikanische Schweinepest in Taichung; Tierarztbericht: Halter und Beamte kommen durchkommen und verursachen Schaden〉.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導: Details in der verlinkten Originalquelle
 
-[^17]: [CNA, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Müllwagen der Metropole trennen keine Küchenabfälle mehr〉, 2025-12-31.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導
+[^17]: [CNA, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Müllwagen der Metropole trennen keine Küchenabfälle mehr〉, 2025-12-31.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導: Details in der verlinkten Originalquelle
 
 [^18]: [Tson Daily News, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Metropole: 126 Tonnen täglich werden zu Kompost〉, 2025-12-13.](https://news.ebc.net.tw/news/living/527063>) — Details in der verlinkten Originalquelle
 
@@ -187,7 +187,7 @@ Dies ist keine Geschichte von „schlechten Menschen sind Ratten“, sondern ein
 
 [^26]: [Hong, S-Y. _et al._ 2019. "Frequent detection of anticoagulant rodenticides in raptors sampled in Taiwan reflects government rodent control policy." _Science of the Total Environment_. <](https://roadkill.tw/academic_report/177869>) — Details in der verlinkten Originalquelle
 
-[^27]: [CCTV News Network, 〈Pingtung University: Rattengift tötet geschützte Vögel durch die Nahrungskette〉, 2019-10.](https://news.pts.org.tw/article/451975>) — 公視新聞網
+[^27]: [CCTV News Network, 〈Pingtung University: Rattengift tötet geschützte Vögel durch die Nahrungskette〉, 2019-10.](https://news.pts.org.tw/article/451975>) — 公視新聞網: Details in der verlinkten Originalquelle
 
 [^28]: [Upstream and Downstream News, 〈Rattenbekämpfungstag wird zu einem Unglückstag für Greifvögel; Landwirtschaftsministerium hebt „Mäusebekämpfungswoche“ auf zum Schutz von Adlern〉.](https://www.newsmarket.com.tw/blog/71684/>) — Details in der verlinkten Originalquelle
 
@@ -195,7 +195,7 @@ Dies ist keine Geschichte von „schlechten Menschen sind Ratten“, sondern ein
 
 [^30]: [Sanli News Network, 〈Metropole veröffentlicht „Hotspots“ für Ratten und integriert „Vergiftungsinformationen“ zur Kenntnisnahme durch die Öffentlichkeit〉, 2026-05-04.](https://www.setn.com/News.aspx?NewsID=1833410>) — Details in der verlinkten Originalquelle
 
-[^31]: [Taiwan News Agency, „Ansprüche an die Schädlingsbekämpfung in der Hauptstadt: Jiang Wan-an kündigt konkrete Maßnahmen an“](https://www.cna.com.tw/news/aloc/202605040262.aspx>) — 中央社報導
+[^31]: [Taiwan News Agency, „Ansprüche an die Schädlingsbekämpfung in der Hauptstadt: Jiang Wan-an kündigt konkrete Maßnahmen an“](https://www.cna.com.tw/news/aloc/202605040262.aspx>) — 中央社報導: Details in der verlinkten Originalquelle
 
 [^32]: [ETtoday News, „Ratten tauchen häufig in der Hauptstadt auf; Jiang Wan-an plant allgemeine Umweltreinigung“](https://news.ebc.net.tw/news/politics/549733>) — Details in der verlinkten Originalquelle
 

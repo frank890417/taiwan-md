@@ -1,6 +1,6 @@
 ---
-title: 'Sistem Anggota Dewan: Mengapa Berbeda dari Anggota Yuan Legislatif, SNTV Bertahan di Politik Lokal selama 30 Tahun'
-description: 'Tahun 2008 anggota Yuan Legislatif berubah menjadi sistem single-member district-two-vote, pemilihan anggota dewan kota pada tahun yang sama masih menggunakan sistem SNTV (Single Non-Transferable Vote) dari tahun 1980an — negara yang sama, pemilih yang sama, posisi berbeda dalam surat suara yang sama, namun menggunakan dua set aturan permainan yang sepenuhnya berbeda. Ini bukan bug, tetapi hal yang paling belum selesai dalam sejarah reformasi sistem pemilihan Taiwan, dengan ikatan pada faksionisme lokal, kepentingan partai, dan biaya koordinasi. Artikel ini menguraikan dua sistem kerja, mengapa satu sisi berubah sementara yang lain tidak, dan apa artinya bagi partai ketiga dan representasi yang lebih beragam.'
+title: 'Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator, 30 Tahun SNTV Bertahan di Politik Lokal'
+description: 'Pada tahun 2008, pemilihan legislator beralih ke sistem distrik tunggal dua suara, namun pemilihan anggota dewan tingkat kota dan kabupaten pada tahun yang sama masih menggunakan sistem lama SNTV dari era 1980-an — negara yang sama, kelompok pemilih yang sama, jabatan berbeda di surat suara yang sama, tetapi menggunakan dua aturan main yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis, melainkan isu reformasi sistem pemilihan terbesar di Taiwan yang belum terselesaikan, yang melibatkan faksi lokal, kepentingan partai politik, dan biaya pendukung. Sebuah peta sistem yang mengurai bagaimana kedua sistem tersebut bekerja, mengapa satu sisi berubah sementara sisi lainnya tidak, serta apa artinya bagi partai kecil dan representasi yang beragam.'
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Anggota Dewan',
     'Sistem Pemilihan',
     'SNTV',
-    'Sistem Single-Member District-Two-Vote',
-    'Anggota Yuan Legislatif',
+    'Sistem Distrik Tunggal Dua Suara',
+    'Legislator',
     'Pemilihan 2026',
   ]
 subcategory: '選舉制度'
@@ -19,267 +19,253 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8e742da3ed42fe59'
-sourceBodyHash: 'sha256:443bc2c93c1de17f'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '709d2dc03'
+sourceContentHash: 'sha256:4b665d6e2920264b'
+sourceBodyHash: 'sha256:41e02e02e0fbd229'
+translatedAt: '2026-10-23T01:22:55.110628+00:00'
 ---
 
-# Sistem Anggota Dewan: Mengapa Berbeda dari Anggota Yuan Legislatif, SNTV Bertahan di Politik Lokal selama 30 Tahun
+# Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator Nasional, dan 30 Tahun SNTV Bertahan di Politik Lokal
 
-> **Ringkasan 30 detik:** Pada 12 Januari 2008, pemilihan Yuan Legislatif ketujuh Taiwan pertama kali menggunakan "sistem single-member district-two-vote" — satu surat untuk memilih orang, satu untuk memilih partai, kursi Yuan Legislatif berkurang dari 225 menjadi 113, metode pemilihan ditulis ulang sepenuhnya. Sebelum Desember tahun yang sama, pemilihan anggota dewan kota/kabupaten ke-16 masih terus menggunakan "Sistem Pemilihan Daerah Ganda dengan Suara Tunggal Tidak Dapat Ditransfer" (SNTV) yang diwariskan sejak tahun 1980an — satu daerah memilih lima hingga sepuluh kursi, pemilih hanya dapat mencentang satu orang, suara yang berlebih dari seorang calon tidak dapat dialihkan ke calon partai yang sama. Tahun yang sama, pemilih yang sama, dua posisi dalam surat suara pemilihan yang sama, mengikuti dua set aturan permainan yang sepenuhnya berbeda. Ini bukan bug teknis, tetapi hasil dari reformasi sistem yang sengaja berhenti di tengah jalan. Di baliknya adalah ikatan faksionisme lokal dan dua partai besar terhadap struktur SNTV, biaya tinggi reformasi koordinasi, dan kesulitan mencapai konsensus lintas partai — juga merupakan hal yang paling kurang diakui yang belum selesai dalam 30 tahun perjalanan pendalaman demokrasi Taiwan.
+> **Ringkasan 30 Detik:** Pada 12 Januari 2008, pemilihan Anggota Legislatif ketujuh di Taiwan untuk pertama kalinya menerapkan "sistem dua suara dalam satu daerah pemilihan"—satu suara untuk kandidat, satu suara untuk partai. Jumlah kursi legislatif dipangkas dari 225 menjadi 113, dan metode pemilihan ditulis ulang sepenuhnya. Namun, pada pemilihan Anggota Dewan tingkat kabupaten/kota ke-16 yang diadakan sebelum Desember tahun yang sama, sistem "Single Non-Transferable Vote" (SNTV) yang diwarisi sejak era 1980-an masih tetap digunakan—di mana satu daerah pemilihan memilih lima hingga sepuluh kursi, pemilih hanya dapat mencoblos satu orang, dan suara berlebih tidak dapat dialihkan ke rekan separtai. Dalam tahun yang sama, bagi kelompok pemilih yang sama, dan pada buletin pemilu yang sama, terdapat dua jabatan yang menjalankan dua aturan permainan yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis (_bug_), melainkan hasil dari reformasi sistem yang sengaja terhenti di tengah jalan. Di balik hal ini terdapat keterikatan faksi lokal dan dua partai besar terhadap struktur SNTV, tingginya biaya reformasi pendukung, serta sulitnya mencapai konsensus lintas partai—yang juga merupakan salah satu urusan yang belum terselesaikan dan paling diremehkan dalam perjalanan pendalaman demokrasi Taiwan selama 30 tahun terakhir.
 
----
+## Tahun yang Sama, Dua Sistem Berbeda
 
-## Satu Tahun, Dua Sistem
+Pada 12 Januari 2008, penghitungan suara Pemilihan Anggota Legislatif Ketujuh dilakukan. Ini merupakan pertama kalinya dalam sejarah pemilihan legislatif Taiwan menggunakan "sistem dua suara di distrik tunggal" (single-member district two-vote system)—seluruh negeri dibagi menjadi 73 distrik pemilihan, dengan hanya satu orang yang terpilih dari setiap distrik; selain itu, terdapat 34 kursi non-distrik yang dialokasikan melalui suara partai; serta 6 kursi anggota legislatif penduduk asli yang dibagi masing-masing 3 kursi untuk wilayah dataran dan wilayah pegunungan[^1]. Jumlah kursi legislatif dipangkas dari 225 kursi pada periode sebelumnya menjadi 113 kursi, yang secara populer disebut sebagai "pengurangan setengah jumlah legislator"[^2].
 
-12 Januari 2008, pemilihan Yuan Legislatif ketujuh dibuka. Ini adalah pertama kalinya dalam sejarah pemilihan Yuan Legislatif Taiwan menggunakan "sistem single-member district-two-vote" — seluruh negara dibagi menjadi 73 daerah pemilihan regional, setiap daerah hanya memilih 1 orang; sebagai tambahan ada 34 kursi tidak terikat distrik yang dialokasikan berdasarkan suara partai; 6 kursi anggota Yuan Legislatif masyarakat adat dibagi menjadi daerah dataran dan pegunungan masing-masing 3 kursi[^1]. Kursi Yuan Legislatif berkurang dari 225 pada periode sebelumnya menjadi 113, yang biasa disebut "pengurangan setengah anggota Yuan Legislatif"[^2].
+Pada 13 Desember di tahun yang sama, kota-kota dan kabupaten selain Yunlin dan Chiayi mengadakan pemilihan anggota dewan kota dan kabupaten (Yunlin dan Chiayi memiliki jadwal berbeda karena adanya pemilu susulan pada tahun 2005)[^3]. Surat suara anggota dewan yang diterima oleh kelompok pemilih yang sama masih menggunakan sistem dari era pemilihan majelis lokal tahun 1980-an—satu distrik memilih lima hingga sepuluh kursi, di mana pemilih hanya boleh mencentang satu orang, dan semua kandidat tanpa memandang afiliasi partai akan diurutkan berdasarkan jumlah suara tertinggi, lalu beberapa peringkat teratas dinyatakan terpilih[^4].
 
-Pada 13 Desember tahun yang sama, pemilihan anggota dewan kota di luar Yunlin dan Chiayi (Yunlin dan Chiayi bergeser waktu karena pemilihan khusus 2005 yang terganggu)[^3]. Pemilih dalam kelompok yang sama menerima surat pemilihan anggota dewan kota, yang terus menggunakan satu set dari pemilihan dewan lokal tahun 1980an — satu daerah memilih lima hingga sepuluh kursi, pemilih hanya dapat mencentang satu orang, semua calon terlepas dari afiliasi partai disusun berdasarkan jumlah suara, beberapa nama teratas terpilih[^4].
+Dua jabatan, tahun yang sama, kelompok pemilih yang sama. Anggota legislatif menggunakan "sistem dua suara di distrik tunggal" (_Mixed-Member Majoritarian_, MMM), sedangkan anggota dewan menggunakan "sistem _Single Non-Transferable Vote_ (SNTV) di distrik multi-anggota". Dalam buku teks perbandingan sistem, kedua istilah ini berada dalam bab yang berbeda—satu adalah sistem campuran yang diadopsi secara bertahap oleh negara-negara OECD setelah tahun 1990-an, dan satu lagi adalah sistem lama yang pernah digunakan Jepang pada periode 1947-1994, yang kemudian dinilai secara luas oleh akademisi sebagai sistem yang "mendorong politik faksi dan tidak menguntungkan integrasi partai"[^5].
 
-Dua posisi, satu tahun, pemilih yang sama. Yuan Legislatif adalah "sistem single-member district-two-vote" (Mixed-Member Majoritarian, MMM), anggota dewan adalah "Sistem Pemilihan Daerah Ganda dengan Suara Tunggal Tidak Dapat Ditransfer" (Single Non-Transferable Vote, SNTV). Dua istilah ini dalam buku teks perbandingan sistem pemilihan berada di bab yang berbeda — satu adalah sistem campuran yang secara bertahap diadopsi oleh negara OECD setelah 1990an, satu adalah sistem lama yang digunakan Jepang dari 1947-1994, kemudian secara luas dievaluasi oleh akademisi sebagai "mendorong politik faksional, tidak menguntungkan integrasi partai"[^5].
+Di sisi legislatif, perubahan telah dilakukan. Di sisi dewan lokal, tidak ada perubahan.
 
-Sisi Yuan Legislatif berubah. Sisi anggota dewan tidak berubah.
+Kondisi setengah matang ini bertahan hingga tahun 2026—tepat 18 tahun sejak reformasi legislatif tersebut.
 
-Status setengah jalan ini berlanjut hingga 2026 — tepat 18 tahun dari reformasi Yuan Legislatif.
+## Bagaimana SNTV Bekerja
 
----
+Nama lengkap SNTV adalah "Single Non-Transferable Vote", yang dalam bahasa Mandarin diterjemahkan sebagai 「複數選區單記非讓渡投票制」— jika kita membedah tiga kata kuncinya:
 
-## Cara Kerja SNTV
+**Distrik Multi-Member**: Satu distrik memilih beberapa kursi (biasanya 3 kursi atau lebih). Sebagai contoh, pada pemilihan anggota dewan kota Taipei tahun 2022, seluruh kota dibagi menjadi 6 distrik, dengan jumlah kursi yang harus dipilih berkisar antara 8 hingga 12 kursi per distrik, sehingga total terdapat 63 kursi di seluruh kota[^6]. Untuk anggota dewan New Taipei, terdapat 66 kursi yang dibagi ke dalam 12 distrik, dengan 4 hingga 8 kursi per distrik[^7].
 
-Nama lengkap SNTV adalah "Single Non-Transferable Vote", diterjemahkan ke Bahasa Indonesia sebagai "Sistem Pemilihan Daerah Ganda dengan Suara Tunggal Tidak Dapat Ditransfer" — tiga kata kunci diuraikan secara terpisah:
+**Single (Satu Pilihan)**: Pemilih hanya dapat mencentang satu kandidat pada satu surat suara. Tidak peduli apakah distrik tersebut memilih 5 atau 12 kursi, surat suara di tangan Anda hanya berupa "satu pilihan kotak".
 
-**Daerah Ganda**: satu daerah memilih beberapa kursi (biasanya 3 atau lebih). Menggunakan pemilihan anggota dewan Taipei tahun 2022 sebagai contoh, seluruh kota dibagi menjadi 6 daerah pemilihan, setiap daerah harus memilih dari 8 hingga 12 kursi, total 63 kursi di seluruh kota[^6]. Anggota dewan kota Taipei Baru 66 kursi dibagi menjadi 12 daerah pemilihan, setiap daerah memilih 4 hingga 8 kursi[^7].
+**Non-Transferable (Tidak Dapat Dialihkan)**: Jumlah suara yang diperoleh tidak dapat dialihkan di antara kandidat dari partai politik yang sama. Jika Kuomintang mencalonkan tiga orang di suatu distrik, dan A memperoleh 30.000 suara, B memperoleh 10.000 suara, serta C memperoleh 5.000 suara — maka "suara berlebih" milik A tidak akan secara otomatis dialihkan kepada B atau C.
 
-**Suara Tunggal**: pemilih hanya dapat mencentang satu calon dengan satu surat suara. Terlepas dari daerah itu memilih 5 kursi atau 12 kursi, surat suara di tangan Anda adalah "memberi tanda di satu kotak".
+Penggabungan ketiga aturan ini menghasilkan hasil yang berlawanan dengan intuisi: **semakin dekat jumlah suara dengan "ambang batas terpilih", semakin baik; mendapatkan suara lebih dari setengah ambang batas justru merupakan pemborosan suara**.
 
-**Tidak Dapat Ditransfer**: jumlah suara tidak dapat dialihkan antara calon dari partai yang sama. Jika Kuomintang menominasikan tiga orang di satu daerah, A mendapat 30.000 suara, B mendapat 10.000 suara, C mendapat 5.000 suara — "suara berlebih" A tidak akan otomatis dialihkan ke B atau C.
+Mari kita gunakan contoh sederhana. Sebuah distrik harus memilih 5 kursi, dengan total 120.000 suara sah. Ambang batas terpilih secara teoritis (Droop quota) adalah sekitar 20.000 suara[^8]. Jika suatu partai mencalonkan 2 orang, A mendapatkan 50.000 suara dan B mendapatkan 10.000 suara — A terpilih dengan suara besar tetapi jumlah suaranya jauh melampaui ambang batas, sementara B gagal melewati ambang batas dan tidak terpilih; akhirnya partai tersebut hanya memenangkan 1 kursi. Namun, jika A dan B masing-masing mendapatkan 30.000 suara, keduanya melewati ambang batas dan keduanya terpilih. **Dengan jumlah total 60.000 suara partai yang sama, perbedaan cara distribusi dapat menghasilkan selisih 1 kursi**.
 
-Tiga aturan bergabung, menghasilkan hasil yang bertentangan dengan intuisi: **semakin dekat skor suara mencapai "ambang terpilih" semakin baik, suara lebih dari setengah malah pemborosan suara**.
+Inilah alasan mengapa fenomena "pembagian suara" (配票) muncul di antara kandidat dari partai yang sama dalam sistem SNTV — sebelum pemilihan, berbagai metode digunakan (bulan kelahiran, angka terakhir nomor identitas, pembagian wilayah geografis, urutan abjad keluarga) untuk membagi pendukung ke dalam blok-blok dengan jumlah yang setara, guna menghindari penumpukan suara pada satu orang saja[^9]. Kuomintang sering menggunakan "pembagian suara berdasarkan angka terakhir nomor identitas" dalam pemilihan anggota dewan kota Taipei, Partai Progresif Demokratik (DPP) pernah menggunakan "pembagian suara berdasarkan wilayah geografis" dalam pemilihan anggota dewan New Taipei, dan Partai Rakyat Taiwan (TPP) juga mencoba melakukan imbauan pembagian suara pada debut pemilu mereka di tahun 2022[^10].
 
-Mari berikan contoh sederhana. Satu daerah harus memilih 5 kursi, total suara sah 120.000 suara. Ambang terpilih secara teori (Droop quota) sekitar 20.000 suara[^8]. Jika suatu partai menominasikan 2 orang, A mendapat 50.000 suara, B mendapat 10.000 suara — A terpilih dengan suara tinggi tetapi angka jauh melampaui ambang, B gagal melampaui ambang, seluruh partai hanya terpilih 1 kursi. Jika A dan B masing-masing mendapat 30.000 suara, keduanya melampaui ambang dan sama-sama terpilih. **Dengan total 60.000 suara partai yang sama, cara alokasi berbeda akan berbeda output 1 kursi**.
-
-Ini adalah mengapa dalam sistem SNTV, calon dari partai yang sama akan menampilkan fenomena "pembagian suara" — sebelum pemilihan menggunakan berbagai metode (bulan kelahiran, digit akhir kartu identitas, pembagian geografis, huruf keluarga rumah tangga) untuk memotong pendukung menjadi blok berukuran sama, menghindari sumber suara miring ke satu orang[^9]. Kuomintang di pemilihan anggota dewan kota Taipei sering menggunakan "pembagian suara digit akhir kartu identitas", Partai Progresif Demokratik di pemilihan anggota dewan kota Taipei Baru pernah menggunakan "pembagian suara geografis", Partai Rakyat Taiwan di 2022 juga mencoba seruan pembagian suara[^10].
-
-Pembagian suara berhasil, kursi partai dimaksimalkan. Pembagian suara gagal, kemungkinan partai dengan total suara tertinggi malah terpilih lebih sedikit kursi dibanding lawan. Ini adalah taktik inti sistem SNTV — bukan "memaksimalkan total suara seluruh partai", tetapi "mengenai ambang kursi secara presisi".
+Jika pembagian suara berhasil, jumlah kursi partai akan maksimal. Jika gagal, partai yang memiliki total suara terbanyak justru bisa mendapatkan kursi yang lebih sedikit dibandingkan lawan. Inilah taktik inti dari sistem SNTV — bukan "memaksimalkan total suara partai", melainkan "menembak dengan presisi ambang batas kursi".
 
 ---
 
-## Mengapa Menggunakan SNTV pada Tahun 1980an
+## Mengapa SNTV Digunakan pada 1980-an
 
-Akar sistem SNTV di Taiwan lebih dalam dari yang umumnya dibayangkan. Selama periode kolonial Jepang tahun 1935, pemilihan dewan prefektur pertama menggunakan sistem pembatasan suara (setiap surat suara dapat mencentang lebih sedikit dari jumlah kursi yang harus dipilih), setelah perang pemerintah Republik Tiongkok mengubah sistem pemilihan menjadi SNTV — satu surat suara hanya dapat memberi suara kepada satu orang[^11]. Pada tahun 1950an pemilihan anggota Dewan Provinsi Taiwan, anggota dewan kota/kabupaten, dan wakilannya menggunakan SNTV, arsitektur ini berlanjut selama lebih dari tujuh puluh tahun.
+Akar sistem SNTV di Taiwan lebih dalam daripada yang dibayangkan umumnya. Pada masa pendudukan Jepang, pemilihan dewan kota pertama kali dilakukan pada tahun 1935 dengan menggunakan sistem pemungutan suara terbatas jumlah kandidat (di mana jumlah orang yang dipilih per surat suara lebih sedikit dari kuota kursi yang tersedia). Pasca-perang, Pemerintah Nasional membawa Undang-Undang Otonomi Daerah Republik Tiongkok (Taiwan) yang mengubah sistem pemilihan menjadi SNTV — di mana satu surat suara hanya dapat diberikan kepada satu orang[^11]. Pada 1950-an, pemilihan anggota Dewan Provinsi Taiwan, anggota dewan kabupaten/kota, serta perwakilan kota/kecamatan semuanya menggunakan SNTV, dan kerangka ini bertahan selama lebih dari tujuh puluh tahun.
 
-Pada tahun 1980an masyarakat Taiwan masih berada di akhir sistem otoritarian, meskipun pemilihan dewan lokal adalah "latihan demokrasi terbatas", SNTV sangat ramah terhadap operasi faksionisme lokal Kuomintang — calon faksi tidak perlu mengejar "lebih dari setengah pendapat publik", hanya perlu menjaga basis pasar yang solid di kota atau kabupaten yang mereka kerjakan, industri, jaringan kelisanan, cukup untuk bertahan hingga ambang terpilih. Struktur ini membuat faksionisme lokal menjadi simpul inti mobilisasi pemilihan Kuomintang, juga membuat budaya pemilihan "strategi penghidupan suara" dan "manajemen hubungan" tertanam dalam akar[^12].
+Pada 1980-an, masyarakat Taiwan masih berada di akhir era otoriter. Meskipun pemilihan dewan lokal merupakan ajang latihan bagi "demokrasi terbatas", sistem SNTV sangat ramah terhadap operasional faksi lokal Kuomintang (KMT) — kandidat faksi tidak perlu memperebutkan "mayoritas opini publik", mereka hanya perlu mempertahankan basis massa dasar di wilayah kecamatan, industri, atau jaringan kekerabatan yang telah mereka garap untuk mencapai ambang batas terpilih. Struktur ini menjadikan faksi lokal sebagai simpul inti mobilisasi pemilu KMT, serta membuat budaya politik berbasis "tokoh pendukung" (_chuāngjiǎo_) dan "pengelolaan relasi sosial" berakar sangat dalam[^12].
 
-Ketika pemilihan anggota Yuan Legislatif pertama kali diadakan secara menyeluruh pada tahun 1992, perancang sistem menghadapi pilihan: haruskah kami mengubah pemilihan Yuan Legislatif menjadi sistem baru pada saat bersamaan? Suasana politik saat itu adalah "membiarkan perwakilan rakyat kembali ke rakyat" menjadi prioritas, perdebatan perubahan sistem yang besar ditangguhkan. Pemilihan Yuan Legislatif langsung terus menggunakan SNTV — menggunakan aturan yang sama dengan pemilihan anggota dewan, hanya daerah pemilihan lebih besar, jumlah kursi yang harus dipilih lebih banyak.
+Pada pemilihan umum anggota Legislatif pertama yang dilakukan secara menyeluruh pada tahun 1992, para perancang sistem dihadapkan pada pilihan: apakah pemilu anggota Legislatif harus ikut diubah ke sistem baru? Atmosfer politik saat itu memprioritaskan "mengembalikan parlemen ke tangan rakyat terlebih dahulu", sehingga debat mengenai perubahan besar sistem pemilihan ditunda. Pemilihan langsung anggota Legislatif tetap menggunakan SNTV — mengikuti aturan yang sama dengan pemilihan anggota dewan, hanya saja daerah pemilihannya lebih luas dan jumlah kursi yang diperebutkan lebih banyak.
 
-Fase "Yuan Legislatif menggunakan SNTV" ini berlangsung 16 tahun (1992-2008, lima periode Yuan Legislatif). Setiap periode memiliki kritik terhadap SNTV: calon antarpribadi "membandingkan basis pasar, tidak membandingkan kebijakan"; posisi ekstrem mudah terpilih (hanya perlu mempertahankan 5-10% penggemar setia untuk melampaui ambang); pertarungan internal satu partai lebih intens daripada kompetisi dengan lawan; uang dalam kampanye dan mobilisasi faksi yang dominan. Akademisi menyebut sistem ini "patologi SNTV"[^13].
-
----
-
-## 2005 Perubahan Konstitusi: Anggota Yuan Legislatif Berubah
-
-Titik balik reformasi anggota Yuan Legislatif adalah perubahan konstitusi ketujuh tahun 2005.
-
-Sebelum dan sesudah pelantikan presiden kedua Chen Shui-bian tahun 2004, kritik lintas fraksi terhadap "terlalu banyak anggota Yuan Legislatif" "kualitas pertanyaan anggota Yuan Legislatif rendah" "representasi proporsional tidak cukup" terakumulasi hingga titik kritis. Permintaan reformasi utama saat itu ada tiga: pengurangan setengah anggota Yuan Legislatif, single-member district, dan suara partai (sistem dua suara). Agustus 2004, Yuan Legislatif menyetujui proposal perubahan konstitusi, menggabungkan tiga poin ini untuk dikirim ke Majelis Nasional Tugas Khusus[^14].
-
-Mei 2005, seluruh Taiwan memilih 300 perwakilan Majelis Nasional Tugas Khusus, yang bertanggung jawab meninjau proposal perubahan konstitusi ini. 7 Juni tahun itu, perwakilan Majelis Nasional suara akhir menyetujui Amandemen Konstitusi ketentuan tambahan keempat — kursi anggota Yuan Legislatif berkurang dari 225 menjadi 113, berubah menjadi sistem single-member district-two-vote, masa jabatan dari 3 tahun berubah menjadi 4 tahun, membatalkan Majelis Nasional[^15].
-
-Detail sistem baru:
-
-- **Anggota Yuan Legislatif Wilayah 73 kursi**: Seluruh negara dibagi berdasarkan populasi menjadi 73 daerah pemilihan single-member district, setiap daerah memilih satu orang (menggunakan pemenang pertama terpilih, suara relatif pluralitas)
-- **Anggota Yuan Legislatif Tidak Terikat Distrik 34 kursi**: dialokasikan berdasarkan persentase suara partai, ambang 5%
-- **Anggota Yuan Legislatif Masyarakat Adat 6 kursi**: masyarakat adat dataran, masyarakat adat pegunungan masing-masing 3 kursi (masih mempertahankan sistem SNTV daerah ganda — perubahan konstitusi tidak menyentuh bagian ini)
-- **Total 113 kursi, masa jabatan 4 tahun**
-
-12 Januari 2008 pemilihan pertama menggunakan sistem baru. Kuomintang menguasai 81 kursi (wilayah 61 + tidak terikat distrik 20), Partai Progresif Demokratik 27 kursi (wilayah 13 + tidak terikat distrik 14), perbandingan kursi 3:1[^16]. Pertarungan pertama sistem baru, hasilnya adalah dua partai besar makin dominan — ambang suara partai 5% membentuk tembok tinggi untuk partai kecil. Tetapi arah reformasi sistem, setidaknya bergeser dari "mendorong pertarungan internal SNTV" ke "lebih dekat dengan opini mayoritas single-member district + representasi proporsional".
-
-Anggota Yuan Legislatif berubah.
-
-Anggota dewan tidak berubah.
+Tahap "penggunaan SNTV untuk anggota Legislatif" ini berlangsung selama 16 tahun (1992–2008, mencakup lima periode anggota Legislatif). Setiap periode selalu diwarnai kritik terhadap SNTV: antar kandidat hanya "adu basis massa, bukan adu visi politik"; posisi ekstrem lebih mudah terpilih (cukup mengonsolidasi 5–10% pemilih setia untuk melewati ambang batas); pertarungan internal dalam partai yang sama jauh lebih sengit daripada bersaing dengan lawan; serta dominasi politik uang dan mobilisasi faksi. Dunia akademis menyebut sistem ini sebagai "patologi SNTV"[^13].
 
 ---
 
-## Mengapa Anggota Dewan Tidak Berubah Bersama
+## Amandemen Konstitusi 2005: Perubahan pada Anggota Legislatif
 
-Jangkauan proposal perubahan konstitusi hanya terbatas pada "tingkat pusat" — Yuan Legislatif, presiden, Majelis Nasional. Sistem pemilihan anggota dewan lokal diatur oleh Undang-undang Pemerintahan Lokal dan Undang-undang Pemilihan Pejabat Publik, tidak perlu perubahan konstitusi, hanya perlu Yuan Legislatif mengubah undang-undang saja. Tetapi jalan ini 18 tahun tidak selesai.
+Titik balik reformasi sistem anggota legislatif adalah amandemen konstitusi ketujuh pada tahun 2005.
 
-Beberapa alasan struktural:
+Sekitar waktu pelantikan Chen Shui-bian untuk masa jabatan presiden kedua pada tahun 2004, kritik dari pihak pemerintah maupun oposisi mengenai "terlalu banyak kursi anggota legislatif", "rendahnya kualitas pengawasan politik oleh anggota legislatif", dan "kurangnya sistem perwakilan proporsional" telah mencapai titik kritis. Saat itu, terdapat tiga tuntutan reformasi utama: pengurangan jumlah anggota legislatif menjadi setengahnya, sistem distrik tunggal, dan suara partai (sistem dua surat suara). Pada Agustus 2004, Legislatif Yuan mengesahkan rancangan amandemen konstitusi dan mengirimkan ketiga poin tersebut ke Konvensi Nasional Tugas Khusus[^14].
 
-**Oposisi Faksionisme Lokal**. SNTV sangat menguntungkan bagi calon faksi yang mendalam — tidak perlu mengejar opini publik yang luas, hanya perlu menjaga basis pasar kota atau kabupaten mereka, struktur faksi akan terdilusi. Dari struktur politik lokal dua partai besar, reformasi ini akan melukai orang-orang mereka sendiri[^17].
+Pada Mei 2005, 300 perwakilan Konvensi Nasional Tugas Khusus dipilih di seluruh Taiwan untuk khusus meninjau rancangan amandemen konstitusi ini. Pada 7 Juni tahun tersebut, para perwakilan Konvensi Nasional menyetujui melalui referendum amandemen Pasal 4 dari ketentuan tambahan konstitusi — jumlah kursi anggota legislatif dipangkas dari 225 menjadi 113, beralih ke sistem dua surat suara di distrik tunggal, masa jabatan diubah dari 3 tahun menjadi 4 tahun, dan Konvensi Nasional dihapuskan[^15].
 
-**Konsensus Lintas Partai Sulit**. Ketika reformasi anggota Yuan Legislatif, Kuomintang dan Partai Progresif Demokratik memiliki konsensus tentang "pengurangan setengah anggota Yuan Legislatif" (kedua partai merasa anggota Yuan Legislatif terlalu banyak), terhadap "single-member district" juga bisa setuju dengan berat (kedua partai besar memiliki daya saing di single-member district). Tetapi tingkat anggota dewan berbeda — SNTV terhadap peta lokal dua partai besar adalah keseimbangan yang relatif stabil. Setelah berubah siapa yang mendapat manfaat, siapa yang dirugikan, kedua belah pihak tidak bisa menghitung dengan jelas. Tidak ada yang memiliki insentif untuk bergerak lebih dulu.
+Rincian sistem baru:
 
-**Biaya Reformasi Koordinasi Tinggi**. Reformasi anggota dewan memicu koordinasi lebih kompleks dari reformasi anggota Yuan Legislatif — perlu kurangi setengah jumlah anggota dewan? Perlu ubah batas daerah? Bagaimana menempatkan kursi perlindungan masyarakat adat? Bagaimana menangani kursi perlindungan perempuan? Ketiga tingkatan anggota dewan kota, anggota dewan kabupaten, dan wakilannya perlu ubah bersamaan? Hanya rekayasa ulang daerah pemilihan 22 dewan kota/kabupaten seluruh negara + 198 majelis perwakilan kota/kabupaten saja, skala lebih besar satu tingkat dibanding rekayasa ulang 73 daerah pemilihan anggota Yuan Legislatif wilayah[^18].
+- **73 Anggota Legislatif Distrik**: Seluruh negeri dibagi menjadi 73 distrik tunggal berdasarkan populasi, dengan satu pemenang per distrik (menggunakan sistem _first-past-the-post_ atau mayoritas relatif).
+- **34 Anggota Legislatif Atas Nama Partai (Tanpa Pembagian Wilayah)**: Dialokasikan berdasarkan persentase suara partai, dengan ambang batas 5%.
+- **6 Anggota Legislatif Penduduk Asli**: Masing-masing 3 kursi untuk penduduk asli dataran rendah dan 3 kursi untuk penduduk asli pegunungan (masih mempertahankan sistem SNTV di distrik multi-anggota — amandemen konstitusi tidak mengubah bagian ini).
+- **Total 113 kursi, masa jabatan 4 tahun.**
 
-**Momentum Opini Publik Tidak Cukup**. Reformasi anggota Yuan Legislatif memiliki slogan sederhana "pengurangan setengah anggota Yuan Legislatif" untuk mobilisasi opini publik. Reformasi sistem anggota dewan tidak memiliki bendera seperti itu — pemilih umum tidak merasa perbedaan SNTV dan single-member district, sensitivitas terhadap biaya reformasi sistem tinggi. Setiap empat tahun pemilihan anggota dewan dilakukan seperti biasa, tidak muncul "krisis keruntuhan sistem" event kritis.
+Pemilihan pertama dengan sistem baru dilaksanakan pada 12 Januari 2008. Kuomintang meraih 81 kursi (57 distrik + 4 penduduk asli + 20 partai), sementara Democratic Progressive Party meraih 27 kursi (13 distrik + 14 partai), dengan rasio kursi sekitar 3:1[^16]. Pertempuran pertama sistem baru ini menghasilkan monopoli dua partai besar yang semakin meningkat — ambang batas suara partai sebesar 5% menjadi tembok tinggi bagi partai-partai kecil. Namun, arah reformasi sistem setidaknya telah berubah dari "SNTV yang mendorong konflik internal" menjadi "sistem distrik tunggal + perwakilan proporsional yang lebih mendekati kehendak mayoritas rakyat".
 
-Empat alasan tumpang tindih, reformasi sistem anggota dewan berhenti di tempat. Setiap beberapa tahun ada anggota Yuan Legislatif atau akademisi mengajukan kembali proposal, setiap kali dalam agenda legislasi Yuan Legislatif ditangguhkan[^19].
+Anggota legislatif telah berubah.
 
----
+Anggota dewan (lokal) tidak berubah.
 
-## Perbedaan Struktur Dua Sistem
+## Mengapa Anggota Dewan Tidak Diubah Bersamaan
 
-Anggota Yuan Legislatif (sistem single-member district-two-vote) dan anggota dewan (SNTV) dua sistem, hasil yang dihasilkan memiliki beberapa perbedaan jelas dalam struktur.
+Cakupan amandemen konstitusi hanya terbatas pada "tingkat pusat" — Legislatif Yuan, Presiden, dan Majelis Nasional. Sistem pemilihan anggota dewan lokal diatur oleh Undang-Undang Sistem Lokal serta Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik, sehingga tidak memerlukan amandemen konstitusi; cukup dengan revisi undang-undang oleh Legislatif Yuan. Namun, jalan ini belum terselesaikan selama 18 tahun.
 
-**Dampak terhadap Partai Kecil**:
+Beberapa alasan strukturalnya adalah:
 
-SNTV terhadap partai kecil "relatif ramah" — karena ambang terpilih adalah "ambang relatif yang ditentukan oleh jumlah kursi", bukan "lebih dari setengah suara". Satu daerah harus memilih 10 kursi, ambang teori sekitar 9-10%; harus memilih 5 kursi ambang sekitar 17-18%. Partai kecil hanya perlu mencapai 10% suara di daerah tertentu kemungkinan bisa mendapat satu kursi. Taiwan Basis, Kekuatan Zaman Baru, Partai Hijau, Partai Demokratik Sosial dan partai kecil lainnya di tingkat anggota dewan kota pernah mendapat kursi[^20].
+**Penolakan faksi lokal**. SNTV sangat menguntungkan bagi kandidat dari faksi yang telah berakar kuat di daerah — mereka tidak perlu mencari dukungan publik yang luas, cukup menjaga basis massa di kota, kecamatan, atau sektor industri mereka sendiri. Setelah berubah menjadi sistem distrik tunggal, wilayah pemilihan akan meluas dan kandidat harus menghadapi pemilih yang lebih banyak, sehingga struktur faksi akan terencerkan. Jika melihat struktur politik lokal dari dua partai besar (KMT dan DPP), reformasi ini akan merugikan orang-orang mereka sendiri[^17].
 
-Tetapi sistem single-member district-two-vote terhadap partai kecil memiliki ambang ganda lebih ketat — daerah pemilihan wilayah "pemenang ambil semua" hampir tidak ada partai kecil yang bisa menang, harus mengandalkan ambang suara partai tidak terikat distrik 5% baru bisa masuk parlemen. Kekuatan Zaman Baru 2016 mengandalkan tidak terikat distrik mendapat 5 kursi anggota Yuan Legislatif, 2020 tinggal 3 kursi, 2024 seluruh pasukan hancur[^21]. Partai Rakyat Taiwan 2020 mengandalkan tidak terikat distrik mendapat 5 kursi, 2024 wilayah 0 kursi tidak terikat distrik 8 kursi[^22].
+**Sulitnya konsensus lintas partai**. Saat reformasi anggota legislatif (Legislatif Yuan), KMT dan DPP memiliki konsensus mengenai "pengurangan setengah jumlah anggota legislatif" (kedua partai merasa jumlah legislator terlalu banyak) dan dapat menyetujui "distrik tunggal" dengan enggan (kedua partai besar tetap kompetitif dalam sistem distrik tunggal). Namun, tingkat anggota dewan lokal berbeda — SNTV memberikan keseimbangan yang relatif stabil bagi peta politik kedua partai besar. Setelah diubah, siapa yang akan diuntungkan dan siapa yang dirugikan, kedua belah pihak tidak memiliki perhitungan yang jelas. Tidak ada yang memiliki motivasi untuk memulai terlebih dahulu.
 
-Dari struktur ini melihat, **kekuatan ketiga di "tingkat anggota dewan" justru lebih mudah terobosan dibanding "tingkat anggota Yuan Legislatif"** — karena ambang rendah SNTV. Tetapi sistem anggota dewan tidak memiliki mekanisme "tidak terikat distrik" ini sebagai cadangan, semua kursi anggota dewan mengandalkan single-member district SNTV diproduksi.
+**Biaya reformasi pendukung yang tinggi**. Reformasi anggota dewan melibatkan kebijakan pendukung yang lebih kompleks daripada reformasi legislator — apakah jumlah anggota dewan harus dikurangi setengah? Apakah pembagian wilayah pemilihan perlu didesain ulang? Bagaimana pengaturan kursi perlindungan penduduk asli? Bagaimana penanganan kursi perlindungan perempuan? Apakah tiga tingkatan yaitu anggota dewan kota tingkat khusus, anggota dewan kabupaten/kota, serta perwakilan kota/kecamatan harus diubah bersamaan? Proyek desain ulang wilayah pemilihan untuk 22 dewan kabupaten/kota + 198 dewan perwakilan kota/kecamatan di seluruh negeri saja sudah satu tingkat lebih besar skalanya dibandingkan desain ulang 73 distrik pemilihan anggota legislatif[^18].
 
-**Dampak terhadap Perilaku Calon**:
+**Kurangnya momentum opini publik**. Reformasi legislator memiliki slogan sederhana "pengurangan setengah jumlah legislator" untuk memobilisasi opini publik. Reformasi sistem anggota dewan tidak memiliki panji seperti itu — pemilih umum tidak merasakan perbedaan antara SNTV dan distrik tunggal, namun mereka sangat sensitif terhadap biaya reformasi sistem pemilihan. Pemilihan anggota dewan tetap berjalan setiap empat tahun sekali tanpa adanya krisis "keruntuhan sistem itu sendiri".
 
-SNTV mendorong calon mengembangkan "faksi" lebih dari "isu" — karena hanya perlu menjaga basis pasar bisa melewati ambang, tidak perlu membujuk mayoritas pemilih. Single-member district mendorong calon mengejar "pemilih tengah" — karena perlu ambil suara relatif pluralitas di wilayah untuk menang. Dua sistem dampak terhadap kualitas demokrasi dalam perdebatan akademisi jangka panjang, tidak membahas di sini[^23].
+Dengan bertumpuknya keempat alasan ini, reformasi sistem anggota dewan pun terhenti di tempat. Setiap beberapa tahun, legislator atau akademisi akan mengajukan proposal baru, namun setiap kali selalu tertunda dalam agenda revisi undang-undang di Legislatif Yuan[^19].
 
-**Dampak terhadap Kompetisi Partai**:
+## Perbedaan Struktural antara Dua Sistem
 
-Di bawah sistem SNTV, kompetisi antar calon satu partai mungkin lebih intens daripada kompetisi dengan lawan — karena harus berebutan nominasi partai terlebih dahulu, kemudian alokasi sumber suara. Sistem single-member district anggota Yuan Legislatif adalah "satu wilayah satu orang", setelah putaran awal partai diputuskan maka bertanding satu lawan satu dengan lawan.
+Terdapat beberapa perbedaan struktural yang nyata pada hasil yang dihasilkan oleh dua sistem yang berbeda: sistem anggota legislatif (sistem dua suara di distrik tunggal) dan sistem anggota dewan (SNTV).
+
+**Dampak terhadap partai kecil**:
+
+SNTV "lebih ramah" terhadap partai kecil — karena ambang batas terpilihnya adalah "ambang batas relatif yang ditentukan oleh jumlah kursi yang tersedia", bukan "mayoritas mutlak". Jika sebuah distrik menyediakan 10 kursi, ambang batas teoritisnya sekitar 9-10%; jika 5 kursi, ambang batasnya sekitar 17-18%. Partai kecil hanya perlu mencapai sekitar 10% suara di suatu distrik untuk berpotensi mendapatkan satu kursi. Partai-partai kecil seperti Taiwan Progressive Party, New Power Party, Green Party, dan Social Democratic Party telah pernah memperoleh kursi di tingkat anggota dewan kota/kabupaten[^20].
+
+Namun, sistem dua suara di distrik tunggal memiliki ambang batas ganda yang lebih ketat bagi partai kecil — di distrik pemilihan wilayah, sistem "pemenang mengambil semua" (_winner-takes-all_) membuat hampir tidak ada peluang bagi partai kecil, sehingga mereka harus mengandalkan ambang batas 5% suara partai untuk masuk ke parlemen melalui kursi proporsional (tanpa distrik). New Power Party memperoleh 5 kursi anggota legislatif pada tahun 2016 (3 distrik wilayah, 2 proporsional), menyusut menjadi 3 kursi pada tahun 2020, dan kehilangan seluruh kursinya pada tahun 2024[^21]. Taiwan People's Party memperoleh 5 kursi melalui sistem proporsional pada tahun 2020, sementara pada tahun 2024 mereka mendapatkan 0 kursi distrik wilayah dan 8 kursi proporsional[^22].
+
+Dilihat dari struktur ini, kekuatan ketiga justru lebih mudah melakukan terobosan di "tingkat dewan" dibandingkan di "tingkat anggota legislatif" — karena ambang batas SNTV yang rendah. Namun, sistem anggota dewan tidak memiliki mekanisme jaminan seperti "kursi proporsional"; semua kursi anggota dewan dihasilkan melalui sistem _Single Non-Transferable Vote_ (SNTV) di distrik tunggal.
+
+**Dampak terhadap perilaku kandidat**:
+
+SNTV mendorong kandidat untuk mengelola "faksi" daripada "isu" — karena mereka hanya perlu memperkuat basis pemilih setia untuk melewati ambang batas, tanpa perlu meyakinkan mayoritas pemilih. Sistem distrik tunggal mendorong kandidat untuk mengejar "pemilih tengah" (_swing voters_) — karena mereka harus mendapatkan suara relatif terbanyak di wilayah tersebut untuk menang. Dampak kedua sistem ini terhadap kualitas demokrasi telah menjadi perdebatan panjang di kalangan akademisi, namun tidak akan dibahas lebih lanjut di sini[^23].
+
+**Dampak terhadap kompetisi partai politik**:
+
+Di bawah sistem SNTV, persaingan antar kandidat dari partai yang sama bisa jadi lebih sengit daripada persaingan dengan lawan politik — karena mereka harus memperebutkan nominasi partai terlebih dahulu, kemudian mendistribusikan sumber suara. Sementara itu, sistem distrik tunggal anggota legislatif adalah "satu orang per distrik", di mana setelah proses pemilihan primer partai selesai, kandidat akan bertarung satu lawan satu dengan lawan dari partai lain.
 
 ---
 
 ## Desain Khusus Daerah Pemilihan Anggota Dewan
 
-Daerah pemilihan anggota dewan selain arsitektur utama SNTV, masih memiliki dua desain kursi perlindungan unik, ini tidak ada di sistem anggota Yuan Legislatif (anggota Yuan Legislatif 113 kursi hanya ada 6 kursi masyarakat adat, tidak ada perlindungan gender).
+Selain kerangka utama SNTV, daerah pemilihan anggota dewan memiliki dua desain kursi perlindungan unik yang tidak ditemukan dalam sistem Legislatif Yuan (dari 113 kursi Legislatif Yuan, terdapat 6 kursi perlindungan untuk penduduk asli; sementara perlindungan gender hanya diterapkan pada daftar partai tanpa pembagian wilayah, lihat di bawah).
 
-**Kursi Perlindungan Masyarakat Adat**:
+**Kursi Perlindungan Penduduk Asli**:
 
-Di pemilihan anggota dewan kota/kabupaten, jika populasi masyarakat adat mencapai ambang tertentu, dibentuk kursi anggota dewan masyarakat adat, dibagi menjadi "masyarakat adat dataran" dan "masyarakat adat pegunungan" dua kategori, masing-masing memiliki daerah pemilihan independen, penghitungan suara independen. Sebagai contoh, 66 kursi anggota dewan Taipei Baru, masyarakat adat dataran 1 kursi, masyarakat adat pegunungan 1 kursi[^24]; 55 kursi anggota dewan Pingtung, masyarakat adat dataran 2 kursi, masyarakat adat pegunungan 4 kursi (Pingtung memiliki tujuh kota pegunungan: Wutai, Majia, Taiwan, Laiyi, Chunri, Shizi, Mudan)[^25].
+Dalam pemilihan anggota dewan di setiap kota dan kabupaten, daerah yang populasi penduduk aslinya mencapai ambang batas tertentu akan menetapkan kursi khusus bagi anggota dewan penduduk asli. Kursi ini dibagi menjadi dua kategori: "Penduduk Asli Dataran Rendah" dan "Penduduk Asli Pegunungan", yang masing-masing memiliki daerah pemilihan dan penghitungan suara sendiri. Sebagai contoh, dari 66 kursi anggota dewan New Taipei City, terdapat 1 kursi untuk Penduduk Asli Dataran Rendah dan 1 kursi untuk Penduduk Asli Pegunungan[^24]; dari 55 kursi anggota dewan Kabupaten Pingtung, terdapat 2 kursi untuk Penduduk Asli Dataran Rendah dan 4 kursi untuk Penduduk Asli Pegunungan (Pingtung memiliki tujuh kecamatan pegunungan: Wutai, Madjia, Taiwu, Laiyi, Chunri, Shizi, dan Mudan)[^25].
 
-Desain ini mencerminkan bahwa dewan lokal lebih langsung menghadapi distribusi geografis populasi etnis — perbandingan adat dataran / pegunungan berbeda di setiap kota/kabupaten, perlu kursi perlindungan terlokalisasi.
+Desain ini mencerminkan bahwa dewan lokal menghadapi distribusi geografis populasi etnis secara lebih langsung dibandingkan Legislatif Yuan — proporsi penduduk asli dataran rendah dan pegunungan berbeda di setiap kota/kabupaten, sehingga memerlukan perlindungan kursi yang terlokalisasi.
 
 **Kursi Perlindungan Perempuan**:
 
-Undang-undang Pemilihan Pejabat Publik mengatur bahwa pemilihan anggota dewan lokal "jika jumlah kursi harus dipilih empat atau lebih, persentase kursi terpilih perempuan tidak boleh kurang dari seperempat"[^26]. Artinya: setiap harus memilih 4 kursi, setidaknya 1 kursi harus dialokasikan untuk perempuan.
+Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik menetapkan bahwa dalam pemilihan anggota dewan lokal, "untuk daerah pemilihan dengan jumlah kursi yang harus dipilih sebanyak empat kursi atau lebih, jumlah perempuan yang terpilih tidak boleh kurang dari seperempat"[^26]. Artinya: untuk setiap 4 kursi yang diperebutkan, setidaknya 1 kursi harus dicadangkan bagi perempuan.
 
-Cara operasional aktual: setelah penghitungan suara, jika jumlah terpilih perempuan di daerah pemilihan tidak mencapai ambang perlindungan, calon laki-laki terpilih dengan suara terendah "digeser keluar", digantikan oleh calon perempuan jatuh dengan suara tertinggi. Desain ini dari tahun 1990an berlanjut hingga sekarang, adalah kunci perlindungan sistem yang membuat persentase anggota dewan perempuan Taiwan bertahan di atas 35%[^27].
+Cara kerja praktisnya: setelah penghitungan suara, jika jumlah perempuan yang terpilih di suatu daerah pemilihan tidak mencapai ambang batas perlindungan, maka pemenang laki-laki dengan suara terendah akan "digeser", dan kursinya akan digantikan oleh kandidat perempuan yang kalah dengan perolehan suara tertinggi. Desain ini telah diterapkan sejak tahun 1990-an hingga sekarang, dan merupakan jaminan sistematis kunci yang menjaga proporsi anggota dewan perempuan di Taiwan tetap berada di atas 35% dalam jangka panjang[^27].
 
-Setelah anggota Yuan Legislatif berubah menjadi single-member district tidak bisa menggunakan kursi perlindungan perempuan (satu wilayah hanya memilih satu orang, tidak bisa alokasikan 1/4 untuk perempuan), diganti dengan "daftar nama tidak terikat distrik perbandingan gender 1/2". Dua desain mencerminkan perbedaan struktur dua sistem — SNTV melindungi dalam daerah pemilihan ganda, single-member district melindungi dalam perbandingan partai.
+Setelah sistem Legislatif Yuan berubah menjadi sistem distrik tunggal, kursi perlindungan perempuan tidak dapat diterapkan (karena satu distrik hanya memilih satu orang, sehingga tidak memungkinkan untuk mencadangkan 1/4 bagi perempuan), dan digantikan dengan "rasio gender 1/2 pada daftar partai tanpa pembagian wilayah". Kedua desain ini mencerminkan perbedaan struktural antara dua sistem tersebut — SNTV memberikan perlindungan di dalam distrik multi-anggota, sedangkan sistem distrik tunggal memberikan perlindungan melalui proporsi partai politik.
 
----
+## Perbandingan Internasional: Bagaimana Sistem Serupa Menanganinya
 
-## Perbandingan Internasional: Cara Sistem Sejenis Menangani
+SNTV bukan hanya milik Taiwan. Secara historis, beberapa negara di Asia Timur pernah menggunakannya, dan sebagian besar telah melakukan reformasi saat ini.
 
-SNTV bukan keunikan Taiwan. Secara historis beberapa negara Asia Timur pernah menggunakannya, sekarang sebagian besar sudah melakukan reformasi.
+**Dewan Perwakilan (Majelis Tinggi) Jepang**: Pada periode 1947-1982, wilayah nasional menggunakan SNTV, sebelum akhirnya diubah menjadi sistem representasi proporsional daftar partai pada tahun 1982. Untuk distrik lokal (prefektur), hingga kini masih didominasi oleh penggunaan SNTV (dengan beberapa daerah pemilihan yang hanya memiliki satu kursi). Dewan Perwakilan (Majelis Rendah) Jepang menggunakan SNTV sepenuhnya dari tahun 1947-1993, sebelum beralih ke "Sistem Paralel Distrik Tunggal dan Representasi Proporsional" pada tahun 1994—arahnya hampir sama dengan reformasi anggota legislatif Taiwan pada tahun 2008[^28].
 
-**Senat Jepang**: 1947-1982 seluruh negara menggunakan SNTV, 1982 berubah menjadi sistem representasi proporsional daftar nama partai. Daerah lokal (prefektur) hingga sekarang masih menggunakan SNTV terutama (beberapa daerah pemilihan single-member). Majelis Rakyat Jepang 1947-1993 seluruhnya menggunakan SNTV, 1994 berubah menjadi "sistem concurrent single-member district-proportional representation" — arah hampir sama dengan reformasi anggota Yuan Legislatif Taiwan 2008[^28].
+**Majelis Nasional Korea**: Menggunakan sistem distrik tunggal sebagai basis utama (253 kursi), ditambah dengan 47 kursi representasi proporsional tanpa pembagian daerah pemilihan. Mereka tidak pernah menggunakan SNTV[^29].
 
-**Majelis Nasional Korea**: terutama single-member district (253 kursi), ditambah representasi proporsional tidak terikat distrik 47 kursi. Tidak pernah menggunakan SNTV[^29].
+**Bundestag Jerman**: Menggunakan Sistem Representasi Proporsional Campuran (Mixed-Member Proportional, MMP)—pemilih memberikan satu suara untuk kandidat dan satu suara untuk partai, namun jumlah kursi akhir ditentukan berdasarkan suara partai, di mana pemenang distrik akan mengambil jatah dari kuota suara partai tersebut. Ini adalah desain sistem campuran yang diakui secara akademis paling ramah terhadap partai kecil dan memiliki proporsionalitas tertinggi. Taiwan sempat mempertimbangkan sistem MMP saat amandemen konstitusi tahun 2005, namun akhirnya mengadopsi "Sistem Paralel" (di mana kursi distrik dan kursi tanpa pembagian daerah pemilihan tidak saling memengaruhi)[^30].
 
-**Bundestag Jerman**: sistem campuran proporsional (Mixed-Member Proportional, MMP) — satu surat pilih orang, satu surat pilih partai, tetapi total kursi akhir berdasarkan suara partai, calon pemenang wilayah menempati kuota suara partai. Ini adalah desain sistem campuran yang paling ramah partai kecil dan proporsionalitas tertinggi menurut akademisi. Taiwan 2005 perubahan konstitusi pernah mempertimbangkan sistem campuran proporsional, tetapi akhirnya mengadopsi "sistem concurrent" (kursi wilayah dan kursi tidak terikat distrik tidak saling mempengaruhi)[^30].
+**Singapura**: Menggunakan "Sistem Konstituensi Representasi Grup" (Group Representation Constituency, GRC)—distrik dengan banyak kursi namun dicalonkan melalui daftar kolektif partai, di mana hasilnya adalah menang semua atau kalah semua. Hal ini sangat berbeda dengan SNTV.
 
-**Singapura**: menggunakan "Sistem Representasi Kelompok" (Group Representation Constituency, GRC) — daerah pemilihan ganda tetapi oleh partai nominasi daftar nama kolektif, semua menang semua kalah. Sama sekali berbeda dari SNTV.
+Dari perbandingan internasional, **SNTV telah menjadi minoritas setelah tahun 1990-an**. Reformasi Majelis Rendah Jepang pada tahun 1994 dianggap sebagai salah satu "pertunjukan perpisahan bagi SNTV". Sistem legislatif Taiwan adalah sistem demokrasi tingkat negara yang masih merupakan segelintir negara yang menggunakan SNTV secara utuh.
 
-Dari perbandingan internasional, **SNTV setelah tahun 1990an sudah menjadi minoritas**. Reformasi Majelis Rakyat Jepang 1994 dilihat sebagai "pertunjukan perpisahan SNTV" salah satu. Sistem anggota dewan Taiwan adalah salah satu sedikit negara dengan sistem demokrasi tingkat negara yang masih menggunakan SNTV secara menyeluruh.
+## Titik Pengamatan Pemilihan Anggota Dewan 2026
 
----
+Pemilihan sembilan-dalam-satu pada 28 November 2026 akan tetap menggunakan sistem SNTV untuk pemilihan anggota dewan. Beberapa masalah struktural yang layak diamati adalah:
 
-## Titik Observasi Pemilihan Anggota Dewan 2026
+**Perang Pembagian Suara (_Vote Allocation_)**: Apakah dua partai besar akan terus menggunakan imbauan pembagian suara di daerah pemilihan (dapil) yang kompetitif (seperti Dapil ke-6 Kota Taipei, Dapil ke-3 Kota New Taipei, dan Dapil ke-6 Kota Taichung)? Pada tahun 2022, tingkat keberhasilan pembagian suara tidak terlalu tinggi — Partai Rakyat Taiwan (TPP) mengalami fenomena ketimpangan sumber suara di beberapa dapil, di mana "kandidat utama memperoleh suara besar, sementara kandidat pendamping gagal terpilih". Pada tahun 2026, apakah kekuatan ketiga (TPP, Taiwan People's Party/Taiwan Progressive Party, sisa-sisa kekuatan New Power Party, dan partai-partai baru) akan menggunakan instrumen pembagian suara dengan lebih mahir?
 
-28 November 2026 pemilihan sembilan-dalam-satu, pemilihan anggota dewan seperti biasa menggunakan SNTV. Beberapa masalah struktural yang bernilai diobservasi:
+**Kuota Perlindungan Perempuan**: Dari total 988 kursi anggota dewan di seluruh negeri pada tahun 2026, diperkirakan ada 250+ kursi yang akan dimenangkan melalui ketentuan perlindungan perempuan atau menggantikan kandidat yang seharusnya terpilih. Kursi terakhir di setiap dapil sering kali menjadi kursi kunci yang ditentukan oleh ketentuan jaminan gender — aturan ini telah mengubah hasil ribuan pemilihan selama 30 tahun terakhir[^31].
 
-**Perang Pembagian Suara**: Apakah dua partai besar di daerah pemilihan panas (seperti daerah pemilihan keenam Taipei, daerah pemilihan ketiga Taipei Baru, daerah pemilihan keenam Taichung) akan terus menggunakan seruan pembagian suara? 2022 tingkat keberhasilan pembagian suara tidak tinggi — Partai Rakyat Taiwan di banyak daerah pemilihan muncul fenomena "pemimpin peringkat tinggi, wakil tertinggal" kemiringan sumber suara. Apakah 2026 kekuatan ketiga (Partai Rakyat Taiwan, Taiwan Basis, Kekuatan Zaman Baru yang tersisa, partai baru) akan lebih terampil menggunakan alat pembagian suara?
+**Kursi Kekuatan Ketiga**: Pada pemilihan sembilan-dalam-satu tahun 2022, Taiwan Progressive Party, TPP, dan New Power Party secara kolektif meraih lebih dari 30 kursi di dewan tingkat nasional. Apakah kursi kekuatan ketiga dapat menembus angka 50 pada tahun 2026 akan menjadi indikator untuk mengamati apakah "bonus ambang batas" sistem SNTV bagi partai kecil masih berlaku.
 
-**Perlindungan Perempuan**: 2026 seluruh negara 988 kursi anggota dewan, perkiraan ada 250+ kursi terpilih melalui klausul perlindungan perempuan atau digeser dari calon asli. Kursi terakhir setiap daerah pemilihan sering menjadi kursi kunci yang diputuskan oleh klausul perlindungan gender — aturan ini 30 tahun mengubah ribuan hasil pemilihan[^31].
+**Tanpa Suara Partai**: Pemilihan anggota dewan tidak memiliki sistem proporsional daftar (_party-list_) dan tidak ada suara partai; semua kursi berasal dari kompetisi SNTV di dapil tunggal. Ini berarti hanya ada satu cara bagi partai kecil untuk mendapatkan kursi di tingkat dewan — yaitu dengan mencapai ambang batas terpilih di suatu dapil tertentu. Struktur ini membuat "warna partai" dalam pemilihan anggota dewan menjadi lebih kabur dibandingkan pemilihan anggota legislatif (parlemen), sehingga bobot faksi lokal, pengelolaan berbasis keluarga, dan daya tarik personal menjadi lebih tinggi.
 
-**Kursi Kekuatan Ketiga**: Pemilihan sembilan-dalam-satu 2022, Taiwan Basis, Partai Rakyat Taiwan, Kekuatan Zaman Baru ditambah bersama di seluruh negara majelis mendapat 30+ kursi. Apakah 2026 kursi kekuatan ketiga bisa terobosan 50 kursi, adalah indikator apakah "manfaat ambang rendah" SNTV terhadap partai kecil masih dalam fase perkembangan.
+**Isu Reformasi Masih di Meja Perundingan**: Setiap beberapa tahun, anggota legislatif akan mengajukan rancangan undang-undang untuk "reformasi anggota dewan". Apakah parlemen baru tahun 2026 (pemerintahan minoritas DPP + mayoritas KMT dan TPP) akan mengangkat isu ini ke permukaan? Apakah akan muncul proposal seperti "pengurangan setengah jumlah anggota dewan", "anggota dewan dapil tunggal", atau "sistem daftar proporsional untuk anggota dewan"? Ini adalah salah satu titik pengamatan untuk amandemen Undang-Undang Sistem Pemerintahan Lokal setelah tahun 2026.
 
-**Tidak Ada Suara Partai**: Pemilihan anggota dewan tidak memiliki sistem tidak terikat distrik, tidak ada suara partai, semua kursi berasal dari kompetisi SNTV daerah pemilihan single-member. Ini berarti cara partai kecil mendapat kursi di tingkat anggota dewan hanya satu — di daerah pemilihan tertentu mencapai ambang terpilih. Struktur ini membuat "warna partai" pemilihan anggota dewan lebih kabur dibanding pemilihan anggota Yuan Legislatif, bobot faksionisme lokal, manajemen keluarga, pesona individu lebih tinggi.
+## Makna dari Reformasi Setengah Jalan
 
-**Isu Reformasi Masih di Meja**: Setiap beberapa tahun anggota Yuan Legislatif akan mengajukan kasus modifikasi undang-undang "reformasi anggota dewan", apakah 2026 parlemen baru (pemerintah minoritas Partai Progresif Demokratik + mayoritas Kuomintang Partai Rakyat Taiwan) akan membawa isu ini ke meja diskusi? Apakah akan muncul proposal seperti "pengurangan setengah anggota dewan" "anggota dewan single-member district" "sistem tidak terikat distrik anggota dewan"? Ini adalah salah satu titik observasi reformasi Undang-undang Pemerintahan Lokal setelah 2026.
+Anggota Legislatif (Legislator) telah berubah. Anggota Dewan (Dewan Kota/Kabupaten) belum berubah. Status "setengah jalan" ini telah bertahan selama 18 tahun.
 
----
+Dari sudut pandang desain sistem, ini bukanlah sebuah cerita yang utuh — cerita yang utuh seharusnya adalah "setelah sistem dua suara di distrik tunggal untuk Legislator berhasil, Anggota Dewan juga mengikuti perubahan tersebut", atau "reformasi Legislator membuktikan bahwa SNTV lebih baik, sehingga dilakukan peninjauan ulang terhadap sistem distrik tunggal". Namun, realitas politik Taiwan adalah kedua jalan tersebut tidak ditempuh — Legislator mempertahankan sistem baru, sementara Anggota Dewan mempertahankan sistem lama; dua sistem ini eksis secara berdampingan.
 
-## Makna Reformasi Setengah Jalan
+"Koeksistensi sistem" ini sendiri dapat ditafsirkan dalam dua makna.
 
-Anggota Yuan Legislatif berubah. Anggota dewan tidak berubah. Status setengah jalan ini sudah berlanjut 18 tahun.
+Satu interpretasi: **Tanda kematangan demokrasi**. Tingkatan yang berbeda menggunakan sistem yang berbeda untuk mengambil keunggulan masing-masing — Legislator menggunakan sistem dua suara di distrik tunggal untuk menangani isu-isu nasional, sementara Anggota Dewan menggunakan SNTV untuk menjamin representasi lokal yang beragam. Interpretasi ini menganggap "tidak berubah" sebagai "tidak seharusnya diubah".
 
-Dari sudut pandang desain sistem, ini bukan cerita lengkap — cerita lengkap seharusnya "setelah reformasi anggota Yuan Legislatif single-member district-two-vote sukses, anggota dewan juga ikut berubah", atau "reformasi anggota Yuan Legislatif membuktikan SNTV lebih baik, tinjau kembali sistem single-member district". Tetapi realitas politik Taiwan tidak jalan dua jalur — anggota Yuan Legislatif tetap sistem baru, anggota dewan tetap sistem lama, dua sistem berlaku bersama.
+Interpretasi lainnya: **Hasil dari stagnasi reformasi**. Reformasi sistem pemilihan yang dimulai pada tahun 1990-an terhenti setelah baru mencapai setengah jalan pada tahun 2008; setengah sisanya berhenti di tempat karena biaya politik yang terlalu tinggi dan tidak ada pihak yang mau menanggungnya. Bertahannya SNTV di tingkat Anggota Dewan bukanlah sebuah "pilihan desain", melainkan "tidak adanya pihak yang mendorong perubahan". Interpretasi ini menganggap "tidak berubah" sebagai "seharusnya diubah tetapi tidak dilakukan".
 
-"Penerapan sistem berlaku bersama" sendiri bisa diinterpretasi dua makna.
+Di antara kedua interpretasi tersebut, terdapat arena pertarungan antara opini publik, kekuatan politik, diskusi akademis, dan perhatian media. Taiwan.md tidak memihak pada sisi mana pun — namun mencatat status setengah jalan ini adalah kemampuan dasar dalam observasi Pemilihan Umum 2026.
 
-Satu interpretasi: **Tanda kedewasaan demokrasi**. Tingkatan berbeda menggunakan sistem berbeda, masing-masing ambil kelebihan — anggota Yuan Legislatif menggunakan sistem single-member district-two-vote menangani isu nasional, anggota dewan menggunakan SNTV menjaga representasi lokal yang beragam. Interpretasi ini menjadikan "tidak berubah" sebagai "tidak seharusnya berubah".
+Pada hari pemilihan sembilan-dalam-satu (nine-in-one elections), pada surat suara yang diterima pemilih, Legislator tidak termasuk di dalamnya (pemilihan Legislator dilakukan bersamaan dengan pemilihan Presiden, dan baru akan diadakan pada tahun 2028), namun surat suara Anggota Dewan masih menggunakan aturan lama yang diwariskan sejak tahun 1980-an. **Satu surat suara, dua sistem lama dan baru yang berdampingan** — ini adalah detail dalam infrastruktur demokrasi Taiwan yang paling mudah diabaikan, namun memiliki makna struktural yang paling mendalam.
 
-Interpretasi lain: **Hasil reformasi terhenti**. Reformasi sistem pemilihan dimulai tahun 1990an, tahun 2008 selesai setengah jalan berhenti, setengah jalan karena biaya politik terlalu tinggi, siapa tidak mau membayar, tinggal di tempat. SNTV tinggal di tingkat anggota dewan bukan "pilihan desain", adalah "tidak ada yang dorong perubahan". Interpretasi ini menjadikan "tidak berubah" sebagai "seharusnya berubah tetapi tidak berubah".
-
-Antara dua interpretasi, adalah medan pertarungan opini publik, kekuatan politik, diskusi akademis, perhatian media. Taiwan.md tidak berdiri di sisi mana pun — tetapi mencatat status setengah jalan ini, adalah keterampilan dasar observasi pemilihan 2026.
-
-Hari pemilihan sembilan-dalam-satu, pemilih menerima surat suara, anggota Yuan Legislatif tidak ada di dalamnya (pemilihan anggota Yuan Legislatif dan pemilihan presiden bersamaan, 2028 baru memilih), tetapi di surat suara anggota dewan berjalan aturan lama warisan dari 1980an. **Satu surat suara, sistem lama-baru berlaku bersama** — ini adalah detail yang paling mudah diabaikan tetapi makna struktural paling mendalam dalam infrastruktur dasar demokrasi Taiwan.
-
-Diskusi detail sistem lihat: [Hub Politik](/politics) · [Pemilihan Sembilan-dalam-satu 2026] · [Apa itu Pemilihan Sembilan-dalam-satu] · [Sistem Komisi Pemilihan Pusat] · [Sistem Kepala Desa/Dusun] · [Kepala Distrik Masyarakat Adat Pegunungan Kota/Kabupaten Langsung Dipilih] · [Demokratisasi] · [Pemilihan Taiwan dan Politik Partai]
+Diskusi sistem secara mendetail dapat dilihat di: [Hub Politik](/politics) · [Pemilihan Sembilan-dalam-Satu 2026](/id/politics/2026-local-elections-taiwan/) · [Apa itu Pemilihan Sembilan-dalam-Satu](/id/politics/nine-in-one-elections-explained/) · [Sistem Komisi Pemilihan Umum Pusat](/id/politics/central-election-commission/) · [Sistem Kepala Desa/Lingkungan](/id/politics/village-chief-system/) · [Kepala Distrik Penduduk Asli Pegunungan di Kota Terpimpin](/id/politics/indigenous-district-chief-system/) · [Demokratisasi](/id/history/taiwan-democratization-history/) · [Pemilihan dan Politik Partai di Taiwan](/id/history/taiwan-elections-and-party-politics/)
 
 ---
 
 ## Bacaan Lanjutan
 
-- Basis Data Komisi Pemilihan Pusat — struktur suara pemilihan anggota dewan setiap periode, catatan pembagian suara, statistik kursi perlindungan gender
-- Wang Yeqing "Perbandingan Sistem Pemilihan" — buku teks sistem pemilihan paling lengkap Taiwan, sumber referensi utama perbandingan sistem SNTV dan MMM
-- Seri Makalah Sistem Pemilihan Shen Youzhong — analisis ekonomi-politik proses perubahan konstitusi 2005 dan reformasi sistem single-member district-two-vote
-- Laporan Resmi Yuan Legislatif Agustus 2004 — catatan tiga baca proposal perubahan konstitusi, proses negosiasi lintas fraksi
-- Catatan Rapat Majelis Nasional Tugas Khusus Juni 2005 — keputusan akhir pengurangan setengah anggota Yuan Legislatif dan reformasi single-member district, teks keputusan
+- Database Pemilihan Komisi Pemilihan Umum Pusat — Struktur perolehan suara pemilihan anggota dewan dari masa ke masa, catatan distribusi suara, statistik kursi jaminan gender
+- Wang Ye-li, 《Perbandingan Sistem Pemilihan》 — Buku teks sistem pemilihan paling lengkap di Taiwan, sumber referensi utama untuk perbandingan sistem SNTV dan MMM
+- Seri Makalah Sistem Pemilihan Shen Yu-chung — Analisis ekonomi politik terhadap proses amandemen konstitusi tahun 2005 dan reformasi sistem dua suara di distrik tunggal
+- Buletin Legislatif Yuan Agustus 2004 — Catatan pembacaan ketiga rancangan amandemen konstitusi, proses negosiasi antarpartai
+- Catatan Konferensi Nasional Berbasis Tugas Juni 2005 — Teks resolusi akhir mengenai pengurangan setengah jumlah kursi Legislator dan reformasi distrik tunggal
 
 ---
 
-[^1]: [Ikhtisar Pemilihan Yuan Legislatif Ketujuh — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — 12 Januari 2008 pemungutan suara, seluruh negara dibagi 73 daerah pemilihan regional, tidak terikat distrik 34 kursi, adat dataran dan pegunungan masing-masing 3 kursi.
+[^1]: [Gambaran Umum Pemilihan Anggota Legislatif Ketujuh — Komisi Pemilihan Umum Pusat](https://www.cec.gov.tw/) — Pemungutan suara pada 12-01-2008, dibagi menjadi 73 daerah pemilihan di seluruh negeri, 34 kursi untuk daftar proporsional, dan 6 kursi untuk penduduk asli (masing-masing 3 kursi untuk dataran rendah dan pegunungan).
 
-[^2]: [Desain Sistem Pengurangan Setengah Anggota Yuan Legislatif — Yuan Legislatif](https://www.ly.gov.tw/) — Perubahan konstitusi ketujuh 2005 mengurangi kursi Yuan Legislatif dari 225 menjadi 113, masa jabatan dari 3 tahun berubah menjadi 4 tahun.
+[^2]: [Desain Sistem Pengurangan Separuh Kursi Legislatif — Legislatif Yuan](https://www.ly.gov.tw/) — Amandemen konstitusi ketujuh pada tahun 2005 mengurangi jumlah anggota legislatif dari 225 menjadi 113, dan mengubah masa jabatan dari 3 tahun menjadi 4 tahun.
 
-[^3]: [Data Pemilihan Anggota Dewan Kabupaten Yunlin — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — Yunlin dan Chiayi bergeser waktu karena kasus penyuapan ketua dewan 2005 menyebabkan pemilihan khusus, jadwal berbeda dengan daerah lain.
+[^3]: [Data Pemilihan Anggota Dewan Perwakilan Kabupaten Yunlin — Komisi Pemilihan Umum Pusat](https://www.cec.gov.tw/) — Kabupaten Yunlin dan Chiayi memiliki jadwal pemilihan yang berbeda dari kota/kabupaten lainnya karena pemilihan ulang akibat kasus suap ketua dewan pada tahun 2005.
 
-[^4]: [Sistem Pemilihan Daerah Ganda dengan Suara Tunggal Tidak Dapat Ditransfer — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — ringkasan aturan sistem, negara penggunaan historis, evaluasi akademis.
+[^4]: [Sistem Single Non-Transferable Vote di Distrik Multi-Member — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — Tinjauan mengenai aturan sistem, negara yang pernah menggunakannya secara historis, dan evaluasi akademis.
 
-[^5]: [Steven Reed, "Structure and Behavior: Extending Duverger's Law to the Japanese Case"](https://www.jstor.org/) — studi empiris klasik tentang perilaku calon dan integrasi partai di bawah sistem SNTV.
+[^5]: [Steven Reed, "Structure and Behavior: Extending Duverger's Law to the Japanese Case"](https://www.jstor.org/) — Studi empiris klasik mengenai perilaku kandidat dan integrasi partai politik di bawah sistem SNTV.
 
-[^6]: [Pembagian Daerah Pemilihan Anggota Dewan Kota Taipei — Komisi Pemilihan Kota Taipei](https://www.tpcec.gov.taipei/) — Pemilihan anggota dewan kota Taipei ketiga 2022 enam daerah pemilihan, 63 kursi harus dipilih.
+[^6]: [Pembagian Daerah Pemilihan Anggota Dewan Kota Taipei — Komisi Pemilihan Umum Kota Taipei](https://www.tpcec.gov.taipei/) — Pemilihan anggota dewan kota Taipei periode ketiga tahun 2022 dengan 6 daerah pemilihan dan 63 kursi yang diperebutkan.
 
-[^7]: [Pembagian Daerah Pemilihan Anggota Dewan Kota Taipei Baru — Komisi Pemilihan Kota Taipei Baru](https://www.ntpcec.gov.tw/) — Pemilihan anggota dewan kota Taipei Baru ketiga 2022 dua belas daerah pemilihan, 66 kursi harus dipilih.
+[^7]: [Pembagian Daerah Pemilihan Anggota Dewan Kota New Taipei — Komisi Pemilihan Umum Kota New Taipei](https://www.ntpcec.gov.tw/) — Pemilihan anggota dewan kota New Taipei periode ketiga tahun 2022 dengan 12 daerah pemilihan dan 66 kursi yang diperebutkan.
 
-[^8]: [Droop Quota dan Ambang Terpilih SNTV — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — konsep dan perhitungan ambang terpilih ketika memilih N kursi.
+[^8]: [Kuota Droop dan Ambang Batas Terpilih SNTV — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — Perhitungan konsep ambang batas terpilih saat memperebutkan N kursi.
 
-[^9]: [Riset Strategi Pembagian Suara SNTV — Survei Pemilihan dan Demokratisasi Taiwan](https://www.tedsnet.org/) — cara pembagian suara Kuomintang dan Partai Progresif Demokratik (digit akhir kartu identitas, bulan lahir, pembagian geografis).
+[^9]: [Studi Strategi Pembagian Suara SNTV — Survei Pemilihan dan Demokratisasi Taiwan](https://www.tedsnet.org/) — Metode imbauan pembagian suara dari KMT dan DPP selama bertahun-tahun (digit terakhir kartu identitas, bulan kelahiran, pembagian wilayah geografis).
 
-[^10]: [Seruan Pembagian Suara Pemilihan Anggota Dewan Partai Rakyat Taiwan 2022 — Berita Telekomonis Pusat](https://www.cna.com.tw/) — Partai Rakyat Taiwan mencoba pembagian suara di banyak daerah, beberapa daerah pemimpin peringkat tinggi pembantu tertinggal.
+[^10]: [Imbauan Pembagian Suara Pemilihan Anggota Dewan TPP Tahun 2022 — Central News Agency](https://www.cna.com.tw/) — TPP mencoba melakukan pembagian suara di beberapa daerah pemilihan, di mana ketidakseimbangan sumber suara di beberapa distrik menyebabkan kandidat utama mendapatkan lebih dari separuh suara sementara kandidat pendamping gagal terpilih.
 
-[^11]: [Evolusi Sistem Pemilihan Lokal Taiwan — Gedung Sejarah Negara](https://www.drnh.gov.tw/) — 1935 pemilihan dewan prefektur periode kolonial Jepang menggunakan sistem pembatasan suara, setelah perang berubah menjadi SNTV.
+[^11]: [Evolusi Sistem Pemilihan Lokal di Taiwan — Akademi Sejarah Nasional](https://www.drnh.gov.tw/) — Pada masa penjajahan Jepang tahun 1935, pemilihan dewan kota/distrik menggunakan sistem pembatasan jumlah suara, yang kemudian diubah menjadi SNTV setelah perang.
 
-[^12]: [Faksionisme Lokal Taiwan dan Politik Pemilihan — Riset Wang Jinshou](https://www.airitilibrary.com/) — hubungan ikatan antara faksi lokal tahun 1980an dan struktur SNTV.
+[^12]: [Faksi Lokal Taiwan dan Politik Pemilihan — Studi Wang Jin-shou](https://www.airitilibrary.com/) — Hubungan keterikatan antara faksi lokal dan struktur SNTV pada tahun 1980-an.
 
-[^13]: [Pengalaman Taiwan Sistem SNTV — Wang Yeqing "Perbandingan Sistem Pemilihan"](https://www.books.com.tw/) — observasi empiris lima periode pemilihan Yuan Legislatif SNTV tentang politik faksional, posisi ekstrem, mobilisasi uang.
+[^13]: [Pengalaman Taiwan dalam Sistem SNTV — Wang Ye-li, "Perbandingan Sistem Pemilihan"](https://www.books.com.tw/) — Observasi empiris mengenai politik faksi, posisi ekstrem, dan mobilisasi uang dalam lima periode pemilihan legislatif dengan sistem SNTV.
 
-[^14]: [Proposal Perubahan Konstitusi 2004 Yuan Legislatif Tiga Baca Lulus — Laporan Resmi Yuan Legislatif](https://www.ly.gov.tw/) — pengurangan setengah anggota Yuan Legislatif, single-member district, dua suara gabung dikirim Majelis Nasional Tugas Khusus.
+[^14]: [Rancangan Amandemen Konstitusi Legislatif Yuan 2004 Lulus Pembacaan Ketiga — Buletin Legislatif Yuan](https://www.ly.gov.tw/) — Penggabungan tiga poin: pengurangan separuh anggota legislatif, distrik tunggal, dan sistem dua suara untuk diajukan ke Majelis Nasional tugas khusus.
 
-[^15]: [Perubahan Konstitusi Ketujuh 2005 — Kantor Kepresidenan Republik Tiongkok (Taiwan)](https://www.president.gov.tw/) — perwakilan Majelis Nasional suara akhir menyetujui Amandemen Konstitusi ketentuan tambahan keempat, pembatalan Majelis Nasional, reformasi kursi dan sistem anggota Yuan Legislatif.
+[^15]: [Amandemen Konstitusi Ketujuh Tahun 2005 — Kantor Kepresidenan Republik Tiongkok](https://www.president.gov.tw/) — Majelis Nasional tugas khusus menyetujui amandemen Pasal 4 ketentuan tambahan konstitusi, yang mengakibatkan penghapusan Majelis Nasional serta reformasi jumlah kursi dan sistem legislatif.
 
-[^16]: [Hasil Pemilihan Yuan Legislatif Ketujuh — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — 12 Januari 2008 Kuomintang 81 kursi, Partai Progresif Demokratik 27 kursi, yang lain 5 kursi.
+[^16]: [Hasil Pemilihan Legislatif Ketujuh — Komisi Pemilihan Umum](https://www.cec.gov.tw/) — Pada 12-01-2008, KMT memperoleh 81 kursi (57 daerah pemilihan, 4 penduduk asli, 20 proporsional), DPP 27 kursi, dan lainnya 5 kursi.
 
-[^17]: [Faksionisme Lokal dan Hambatan Reformasi Sistem Pemilihan — Makalah Akademis Wang Yeqing, Chen Hongzhang](https://www.airitilibrary.com/) — mengapa hambatan reformasi sistem anggota dewan lebih besar daripada reformasi anggota Yuan Legislatif dalam politik lokal.
+[^17]: [Faksi Lokal dan Hambatan Reformasi Sistem Pemilihan — Makalah Akademik Wang Ye-li & Chen Hung-chang](https://www.airitilibrary.com/) — Mengapa reformasi sistem pemilihan anggota dewan memiliki hambatan yang lebih besar dalam politik lokal dibandingkan reformasi legislatif.
 
-[^18]: [Kesulitan Pembagian Ulang Daerah Pemilihan Anggota Dewan Lokal — Kementerian Dalam Negeri](https://www.moi.gov.tw/) — kompleksitas rekayasa ulang daerah pemilihan 22 dewan kota/kabupaten seluruh negara + 198 majelis perwakilan kota/kabupaten.
+[^18]: [Kesulitan Pembagian Daerah Pemilihan Anggota Dewan Lokal — Kementerian Dalam Negeri](https://www.moi.gov.tw/) — Kompleksitas proyek penataan ulang daerah pemilihan untuk 22 dewan kota/kabupaten di seluruh negeri + 198 dewan perwakilan kota/kecamatan.
 
-[^19]: [Proposal Historis Reformasi Sistem Anggota Dewan — Data Kasus Yuan Legislatif](https://www.ly.gov.tw/) — setelah reformasi anggota Yuan Legislatif 2008, beberapa kali anggota mengajukan proposal modifikasi undang-undang sistem anggota dewan, semua tidak lulus pembacaan kedua.
+[^19]: [Proposal Reformasi Sistem Pemilihan Anggota Dewan dari Tahun ke Tahun — Data Rancangan Undang-Undang Legislatif](https://www.ly.gov.tw/) — Setelah reformasi legislatif tahun 2008, beberapa anggota dewan telah mengajukan rancangan undang-undang untuk mereformasi sistem anggota dewan, namun semuanya gagal melewati pembacaan kedua.
 
-[^20]: [Catatan Kursi Anggota Dewan Partai Kecil — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — statistik kursi anggota dewan terpilih sepanjang masa Taiwan Basis, Kekuatan Zaman Baru, Partai Hijau, Partai Demokratik Sosial.
+[^20]: [Catatan Kursi Partai Kecil di Dewan Lokal — Komisi Pemilihan Umum](https://www.cec.gov.tw/) — Statistik terpilihnya anggota dewan kota/kabupaten dari Taiwan Progressive Party, New Power Party, Green Party, dan Social Democratic Party pada periode sebelumnya.
 
-[^21]: [Kursi Anggota Yuan Legislatif Kekuatan Zaman Baru Sepanjang Masa — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — 2016 lima kursi, 2020 tiga kursi, 2024 nol kursi.
+[^21]: [Kursi Legislatif New Power Party dari Masa ke Masa — Komisi Pemilihan Umum](https://www.cec.gov.tw/) — Tahun 2016 sebanyak 5 kursi, tahun 2020 sebanyak 3 kursi, tahun 2024 sebanyak 0 kursi.
 
-[^22]: [Kursi Anggota Yuan Legislatif Partai Rakyat Taiwan Sepanjang Masa — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — 2020 tidak terikat distrik lima kursi, 2024 wilayah nol kursi tidak terikat distrik delapan kursi.
+[^22]: [Kursi Legislatif Partai Rakyat Taiwan dari Masa ke Masa — Komisi Pemilihan Umum](https://www.cec.gov.tw/) — Tahun 2020 sebanyak 5 kursi proporsional, tahun 2024 sebanyak 0 kursi daerah pemilihan dan 8 kursi proporsional.
 
-[^23]: [Perdebatan Kualitas Demokrasi SNTV vs Single-Member District — Makalah Sistem Pemilihan Shen Youzhong](https://www.airitilibrary.com/) — ringkasan diskusi akademis tentang efek pemilih tengah, integrasi partai, perilaku calon.
+[^23]: [Debat Kualitas Demokrasi antara SNTV vs Sistem Distrik Tunggal — Makalah Sistem Pemilihan Shen Yu-chung](https://www.airitilibrary.com/) — Tinjauan diskusi akademis mengenai perilaku kandidat, integrasi partai politik, dan efek pemilih tengah.
 
-[^24]: [Kursi Perlindungan Masyarakat Adat Pemilihan Anggota Dewan Kota Taipei Baru — Komisi Pemilihan Kota Taipei Baru](https://www.ntpcec.gov.tw/) — masyarakat adat dataran satu kursi, masyarakat adat pegunungan satu kursi.
+[^24]: [Kursi Penduduk Asli dalam Pemilihan Anggota Dewan Kota New Taipei — Komisi Pemilihan Umum Kota New Taipei](https://www.ntpcec.gov.tw/) — 1 kursi untuk penduduk asli dataran rendah, 1 kursi untuk penduduk asli pegunungan.
 
-[^25]: [Kursi Perlindungan Masyarakat Adat Pemilihan Anggota Dewan Kabupaten Pingtung — Komisi Pemilihan Kabupaten Pingtung](https://www.ptcec.gov.tw/) — masyarakat adat dataran dua kursi, masyarakat adat pegunungan empat kursi (tujuh kota pegunungan: Wutai, Majia, Taiwan, Laiyi, Chunri, Shizi, Mudan).
+[^25]: [Kursi Penduduk Asli dalam Pemilihan Anggota Dewan Kabupaten Pingtung — Komisi Pemilihan Umum Kabupaten Pingtung](https://www.ptcec.gov.tw/) — 2 kursi untuk penduduk asli dataran rendah, 4 kursi untuk penduduk asli pegunungan (meliputi tujuh kecamatan pegunungan: Wutai, Majia, Taiwu, Laiyi, Chunri, Shizi, dan Mudan).
 
-[^26]: [Undang-undang Pemilihan Pejabat Publik — Basis Data Peraturan Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Artikel 67 mengatur bahwa jika kursi harus dipilih empat atau lebih, persentase perempuan terpilih tidak boleh kurang dari seperempat.
+[^26]: [Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik — Database Peraturan Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Pasal 67 menetapkan bahwa jika jumlah kursi yang dipilih untuk anggota dewan adalah empat atau lebih, maka jumlah anggota perempuan yang terpilih tidak boleh kurang dari seperempat.
 
-[^27]: [Sejarah Persentase Anggota Dewan Perempuan Taiwan — Yayasan Kaum Perempuan Baru](https://www.awakening.org.tw/) — statistik dampak aktual klausul perlindungan perempuan terhadap perbandingan gender sejak tahun 1990an.
+[^27]: [Sejarah Proporsi Anggota Dewan Perempuan di Taiwan — Yayasan Women's New Knowledge](https://www.awakening.org.tw/) — Statistik dampak nyata dari ketentuan kuota perlindungan perempuan terhadap proporsi gender sejak tahun 1990-an.
 
-[^28]: [Reformasi Sistem Pemilihan Majelis Rakyat Jepang — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — latar belakang politik perubahan 1994 dari SNTV menjadi "sistem concurrent single-member district-proportional representation".
+[^28]: [Reformasi Sistem Pemilihan Majelis Rendah Jepang — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — Latar belakang politik perubahan dari SNTV menjadi 'Sistem Paralel Distrik Kecil dengan Representasi Proporsional' pada tahun 1994.
 
-[^29]: [Sistem Pemilihan Majelis Nasional Korea — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — single-member district 253 kursi, representasi proporsional tidak terikat distrik 47 kursi.
+[^29]: [Sistem Pemilihan Majelis Nasional Korea — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — 253 kursi distrik tunggal, 47 kursi representasi proporsional.
 
-[^30]: [Perbandingan Sistem Concurrent dan Sistem Campuran Proporsional — Makalah Sistem Pemilihan Shen Youzhong](https://www.airitilibrary.com/) — perdebatan dalam proses perubahan konstitusi 2005 antara "sistem concurrent vs sistem campuran proporsional" dan pilihan akhir.
+[^30]: [Perbandingan Sistem Paralel dan Sistem Campuran — Makalah Sistem Pemilihan Shen Yu-chung](https://www.airitilibrary.com/) — Debat mengenai 'Sistem Paralel vs Sistem Campuran' dan pilihan akhir selama proses amandemen konstitusi tahun 2005.
 
-[^31]: [Statistik Kursi Perlindungan Perempuan Anggota Dewan Setiap Periode — Komisi Pemilihan Pusat](https://www.cec.gov.tw/) — catatan kursi di berbagai dewan kota/kabupaten Taiwan yang digeser dari calon asli melalui klausul perlindungan perlindungan.
+[^31]: [Statistik Kursi Perlindungan Perempuan untuk Anggota Dewan dari Masa ke Masa — Komisi Pemilihan Umum](https://www.cec.gov.tw/) — Catatan mengenai jumlah kursi dalam pemilihan anggota dewan di berbagai kabupaten dan kota di seluruh negeri yang dimenangkan oleh perempuan melalui ketentuan perlindungan, menggantikan kandidat laki-laki.

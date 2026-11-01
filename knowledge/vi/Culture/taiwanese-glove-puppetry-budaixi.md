@@ -65,7 +65,7 @@ Năm 1988, con trai của Hoàng Hải Đài, Huang Thăng Huy và Huang Văn Tr
 
 Quyết định này đặt nền móng cho một vũ trụ võ thuật kéo dài ba mươi năm. Lửa nam châm cho đến nay vẫn cập nhật, tích lũy hàng nghìn nhân vật, tạo thành một hệ thống truyền thống độc nhất trong văn hóa phổ biến Đài Loan — nền tảng của nó là lựa chọn từ chối bị định nghĩa bởi truyền hình.
 
-##《Đường Lê Kiếm Du Ký》: Vô hạn Huyền và va chạm với bò đàn họa
+## 《Đường Lê Kiếm Du Ký》: Vô hạn Huyền và va chạm với bò đàn họa
 
 Năm 2016, biên tập viên nổi tiếng Nhật Bản Vô hạn Huyền đến thăm triển lãm Lửa nam châm ở Đài Bắc, quyết định đưa nghệ thuật này đến tiếp xúc với khán giả Nhật Bản.《Thunderbolt Fantasy Đường Lê Kiếm Du Ký》 đồng thời phát sóng ở Đài Loan và Nhật Bản, làm sốt cộng đồng hoạt hình quốc tế[^9].
 

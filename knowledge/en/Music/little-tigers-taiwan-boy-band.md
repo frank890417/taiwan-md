@@ -74,7 +74,7 @@ However, stopping at "imitation" would be too simple. There are no records of an
 
 Of course, not every song was borrowed. Original songs like "[Carefree Journey](https://www.youtube.com/watch?v=ZsUx3NkFvA4)" (lyrics by Chen Le-rong, music by Chen Zhi-yuan), "[Butterfly Flies Away](https://www.youtube.com/watch?v=c7hbYLaD-FY)" (lyrics and music by Li Zi-heng), and _Happy New Year_[^6] proved that Flying Disc's lyricist/composer team had its own strength. But when the greatest common denominator of public memory is a cover of "Apple Green Paradise," the word "imported" becomes an entry point for understanding The Little Tigers that cannot be bypassed.
 
-##霹雳 (Thunder), 小帥 (Handsome), 乖乖 (Obedient): The Three Tigers Were Designed
+## 霹雳 (Thunder), 小帥 (Handsome), 乖乖 (Obedient): The Three Tigers Were Designed
 
 Even the question of "who" these three boys were was designed.
 

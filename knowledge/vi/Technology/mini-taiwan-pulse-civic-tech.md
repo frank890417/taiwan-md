@@ -1,6 +1,6 @@
 ---
-title: 'Mini Taiwan Pulse: Dùng con mắt giám tuyển để vẽ Đài Loan thành một tấm bản đồ biết thở'
-description: 'Năm 2026, nhà phân tích dữ liệu Migu đã chồng các nguồn dữ liệu mở rời rạc của Đài Loan—máy bay, tàu thủy, tàu hỏa, xe buýt và xe thu gom rác—thành một tấm bản đồ biết thở. Công việc nặng nhọc là thu thập dữ liệu được giao cho AI, nhưng việc quyết định những lớp nào nên đặt cạnh nhau, dùng màu gì và làm nổi bật lớp nào lại dựa vào con mắt giám tuyển được rèn luyện qua ngành quy hoạch đô thị.'
+title: 'Mini Taiwan Pulse: Dùng nhãn quan giám tuyển, vẽ nên một bản đồ biết thở về Đài Loan'
+description: 'Năm 2026, nhà phân tích dữ liệu Migu kéo một tệp CSV vào Kepler.gl, và tấm bản đồ Đài Loan đầu tiên hiện lên trên màn hình. Hai năm sau, dự án mini-taiwan-pulse nổi tiếng nhất đã tích lũy được 375 sao trên GitHub, chồng lớp năm loại dữ liệu thời gian thực gồm bầu trời, đại dương, đất liền, đường phố và thu gom rác thải để tạo thành một bản đồ chuyển động. Với hơn 50.000 dữ liệu từ trung ương và dữ liệu mở từ hơn hai mươi thành phố trực thuộc, con người không thể quét hết được; giải pháp của anh không phải là tìm thêm nhân lực, mà là giao phó cho một hệ thống tự phát triển được điều phối bởi AI Agent, nơi con người chỉ chịu trách nhiệm đặt câu hỏi và nghiệm thu. Từ nhãn quan giám tuyển được rèn luyện qua quy hoạch đô thị, đến một đường ống xử lý dữ liệu hỏa hoạn tự chạy trong tmux, làm thế nào mà GitHub của một cá nhân lại có thể phát triển thành cả một hệ tinh tú.'
 date: 2026-04-19
 category: 'Technology'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Công nghệ công dân',
     'Dữ liệu mở',
     'Trực quan hóa dữ liệu',
-    'Dự án nguồn mở',
+    'Dự án mã nguồn mở',
     'TDX',
     'Three.js',
     'Trí tuệ nhân tạo',
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T09:30:56.432006+00:00'
+translatedAt: '2026-10-21T00:59:37.462650+00:00'
 ---
 
 # Mini Taiwan Pulse: Dùng con mắt giám tuyển để vẽ Đài Loan thành một tấm bản đồ biết thở

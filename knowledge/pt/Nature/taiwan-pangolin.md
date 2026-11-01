@@ -1,15 +1,15 @@
 ---
-title: 'Pangolim de Taiwan'
-description: 'O mamífero mais traficado do mundo, a subespécie de pangolim de Taiwan encontrou um lar seguro na ilha: enquanto seus parentes em outras partes da Ásia enfrentam a extinção devido ao tráfico, Taiwan, por meio de leis rigorosas, manutenção de habitat e pesquisa científica, além da reprodução assistida, conseguiu estabilizar e até aumentar sua população. Este é um raro caso de sucesso de conservação que mostra ao mundo que a extinção de uma espécie não é inevitável.'
+title: 'O Pangolim de Taiwan'
+description: 'O mamífero mais traficado do mundo tem em Taiwan um refúgio seguro: enquanto seus parentes enfrentam a extinção na Ásia devido ao tráfico, Taiwan estabilizou sua população através de leis rigorosas, preservação de habitat e pesquisa científica.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
     'pangolim',
     'conservação',
-    'espécie em perigo',
+    'espécies ameaçadas',
     'tráfico',
-    'Zoológico de Taipei',
+    'Zoológico de Taipé',
     'ecologia',
   ]
 subcategory: '野生動物'
@@ -19,107 +19,117 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '890c5095e'
-sourceContentHash: 'sha256:acaac66b2f5101f5'
-sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-10-15T23:07:01.388874+00:00'
+sourceCommitSha: '2b967f4a1'
+sourceContentHash: 'sha256:ee1a4e69f41642bb'
+sourceBodyHash: 'sha256:596d8de828c02fc3'
+translatedAt: '2026-10-21T12:32:46+08:00'
 ---
 
-# Pangolim de Taiwan
+# O Pangolim de Taiwan
 
-> **Resumo em 30 segundos:** O pangolim de Taiwan é a subespécie taiwanesa do pangolim — o mamífero mais traficado ilegalmente do mundo. Enquanto os seus parentes noutros pontos da Ásia caminham para a extinção devido ao tráfico, Taiwan tornou-se uma das poucas regiões com conservação bem-sucedida, populações estáveis ou mesmo em recuperação. Graças a uma proteção legal rigorosa, preservação integral de habitats, investigação científica e reprodução em cativeiro, a história do pangolim de Taiwan é um raro caso de "boas notícias" na conservação.
+> **Resumo em 30 segundos:** O pangolim de Taiwan é a subespécie de pangolim mais traficada ilegalmente no mundo. Enquanto seus parentes enfrentam a extinção em outras partes da Ásia devido ao contrabando, Taiwan tornou-se uma das poucas regiões com conservação bem-sucedida e populações tendendo à estabilidade. Proteção legal rigorosa, manutenção de habitats, pesquisa científica e reprodução assistida fazem da história do pangolim de Taiwan um raro caso de "boas notícias" na conservação.
 
 ## Por que é importante
 
-O pangolim é um dos mamíferos mais antigos da Terra, coberto por escamas de queratina que o fazem parecer um fóssil vivo a testemunhar as transformações do planeta. Mas nas últimas duas décadas tornaram-se os animais selvagens mais traficados do mundo. Segundo a Lista Vermelha da IUCN, das oito espécies de pangolim, 3 estão classificadas como Criticamente em Perigo (CR), 4 como Em Perigo (EN) e 1 como Vulnerável (VU); todas enfrentam risco de extinção em diferentes graus.[^2] O sucesso da conservação do pangolim de Taiwan mostra ao mundo outra possibilidade: a extinção não é um destino inevitável; a conservação pode funcionar quando as condições certas estão reunidas.
+O pangolim é um dos mamíferos mais antigos da Terra, coberto por escamas de queratina que servem como fósseis vivos testemunhando as mudanças do planeta. No entanto, nas últimas duas décadas, eles se tornaram os animais selvagens mais traficados globalmente. De acordo com a avaliação da Lista Vermelha atualizada no final de 2019 pelo Grupo de Especialistas em Pangolins da IUCN, das oito espécies de pangolins, três são classificadas como Criticamente em Perigo (CR), três como Em Perigo (EN) e duas como Vulneráveis (VU), todas enfrentando diferentes níveis de risco de extinção. [^2] O sucesso da conservação do pangolim de Taiwan mostra ao mundo uma outra possibilidade: a extinção de espécies não é um destino inevitável, e a conservação pode ser bem-sucedida sob as condições corretas.
 
-## Uma criatura misteriosa que se enrola em bola
+## Uma criatura misteriosa que se enrola como uma bola
 
-O pangolim de Taiwan (_Manis pentadactyla pentadactyla_) é a subespécie endémica de Taiwan do pangolim-chinês. Apresenta comprimento cabeça-corpo de cerca de 60 cm, cauda de 18 cm, e o corpo todo coberto por escamas castanhas semelhantes a uma armadura. Essas escamas não são escamas de peixe, mas sim de queratina, da mesma composição das unhas humanas.
+O pangolim de Taiwan (_Manis pentadactyla pentadactyla_) é uma subespécie endêmica de Taiwan do pangolim chinês. Os adultos medem cerca de 50 cm da cabeça ao tronco e a cauda tem cerca de 35 cm, um tamanho comparável ao de um gato, [^6] com o corpo totalmente coberto por escamas marrons que funcionam como uma armadura. Essas escamas não são escamas de peixe; seu principal componente é a queratina, semelhante à composição das unhas humanas.
 
-Ao cair da noite, o pangolim de Taiwan inicia a sua jornada de forrageamento. São "faxineiros de insetos" profissionais: usam as garras dianteiras poderosas para abrir formigueiros e cupinzeiros, projetam a língua longa — que pode atingir 25 cm — e engolem milhares de formigas e cupins numa única noite. Quando ameaçados, enrolam-se rapidamente numa bola compacta, com as escamas voltadas para fora, de modo que nem um tigre consegue abocanhá-los.
+Ao cair da noite, os pangolins de Taiwan iniciam sua jornada de busca por alimento. Eles são "faxineiros de insetos" profissionais, usando suas garras dianteiras fortes para cavar ninhos de formigas e cupinzeiros, estendendo uma língua que tem quase o mesmo comprimento do corpo. Segundo o Departamento de Proteção Animal da Cidade de Nova Taipé, um único pangolim pode comer 70 milhões de cupins por ano. [^7] Diante de ameaças, eles se enrolam rapidamente em uma bola compacta, com as escamas voltadas para fora.
 
-## Um sobrevivente na crise global do tráfico
+## Sobreviventes na crise do tráfico global
 
-O pangolim é o mamífero mais traficado ilegalmente no mundo. Desde 2000, pelo menos 1 milhão de pangolins foram traficados globalmente, com destino principal aos mercados de medicina tradicional da China e do Vietname.
+O pangolim é o mamífero mais traficado ilegalmente no mundo. O Grupo de Especialistas em Pangolins da IUCN estima que, entre 2000 e 2019, o número de pangolins traficados equivale a mais de 895.000 indivíduos, fluindo principalmente para o Leste e Sudeste Asiático. [^2]
 
-As escamas de pangolim (nome na farmacopeia chinesa: "escama de pangolim") há muito constam da matéria médica tradicional chinesa, com compêndios históricos a atribuir-lhes propriedades como promover a lactação, reduzir inchaços e dissipar nódulos. Em 2020, a Comissão da Farmacopeia Chinesa anunciou a remoção do pangolim da nova edição da _Farmacopeia da China_ — o sinal político mais concreto até hoje de restrição ao uso medicinal; porém, os estoques existentes e a procura clandestina não se eliminam de imediato, e os canais de tráfico permanecem ativos.[^2] As populações de pangolim na Ásia e em África entraram em declínio acelerado; o pangolim-chinês foi classificado como Criticamente em Perigo pela IUCN em 2014, e a 17.ª Conferência das Partes da CITES (CoP17), em 2016, decidiu elevar todas as oito espécies ao Apêndice I, proibindo todo o comércio comercial; a decisão entrou em vigor em janeiro de 2017.[^1]
+As escamas de pangolim (conhecidas na medicina tradicional chinesa como "escamas de pangolim") têm sido incluídas por muito tempo na medicina tradicional chinesa; acredita-se que tenham propriedades para promover a circulação sanguínea e auxiliar na lactação de puérperas. A versão de 2020 da _Farmacopeia Chinesa_ não incluiu mais o pangolim, mas em junho do mesmo ano, a Administração Nacional de Florestas e Gramíneas elevou todas as espécies do gênero _Manis_ de proteção de segundo nível para primeiro nível; a Shili apontou em 2020 que ainda existem 8 medicamentos patenteados na farmacopeia que contêm pangolim. [^8][^9] Consequentemente, as populações de pangolins na Ásia e na África sofreram um declínio rápido. O pangolim chinês foi listado pela IUCN como Criticamente em Perigo em 2014, e na 17ª Conferência das Partes (CoP17) da CITES em 2016, aprovou-se a inclusão de todas as oito espécies no Apêndice I, proibindo o comércio internacional com fins comerciais, com efeito a partir do início de janeiro de 2017. [^1]
 
-Contudo, Taiwan é a exceção nesta crise de extinção.
+No entanto, Taiwan é uma exceção nesta crise de extinção.
 
 ## O milagre da conservação em Taiwan
 
 ### Proteção legal rigorosa
 
-Taiwan classificou o pangolim como fauna protegida já em 1989. Com a revisão da _Lei de Conservação da Vida Selvagem_ em 2017, caçar, abater ou comercializar pangolim passou a ser punido com 6 meses a 5 anos de prisão e multa de 300 mil a 1,5 milhão de novos dólares taiwaneses.[^4] Em comparação, a China continental só elevou o pangolim de proteção de segundo nível para primeiro nível em 2020; as medidas de Taiwan começaram mais cedo e são aplicadas com mais rigor.
+Taiwan estabeleceu a Lei de Conservação de Animais Selvagens em 1989, e o pangolim foi um dos primeiros animais incluídos na lista de espécies protegidas. [^6] De acordo com os artigos vigentes, caçar ou matar animais selvagens protegidos pode resultar em penas de prisão de 6 meses a 5 anos, além de multas de NT$200.000 a NT$1.000.000 (Artigo 41); a importação ou exportação sem autorização, ou o comércio e exibição com intenção de venda, pode acarretar multas de NT$300.000 a NT$1.500.000 (Artigo 40). [^4] Em comparação com a China continental, que só elevou o pangolim de animal de proteção de segundo nível para primeiro nível em 2020, as medidas de proteção de Taiwan começaram mais cedo e são aplicadas com maior rigor.
 
-### Proteção integral de habitat
+### Proteção integral do habitat
 
-As áreas de baixa altitude e colinas de Taiwan oferecem habitat ideal ao pangolim. Do Parque Nacional de Yangmingshan ao Parque Nacional de Kenting, das montanhas nos arredores de Taipé às colinas do centro e sul, essas áreas protegidas tornaram-se refúgios seguros. Importante notar que o pangolim de Taiwan consegue adaptar-se a zonas de interface com a atividade humana, sobrevivendo também em florestas secundárias nas franjas metropolitanas.
+As regiões de montanhas baixas de Taiwan oferecem habitats ideais para os pangolins. O Parque Nacional Yangmingshan é um dos importantes refúgios para a espécie, com habitats localizados frequentemente próximos a assentamentos em áreas de colinas baixas. [^3]
 
-### Investigação científica e monitoramento
+### Pesquisa científica e monitoramento
 
-Instituições de investigação de Taiwan dedicam-se há longo prazo à ecologia do pangolim, empregando radiotelemetria, câmeras infravermelhas e outras tecnologias para monitorar a dinâmica populacional. Destaca-se o Instituto de Conservação da Vida Selvagem da Universidade de Ciência e Tecnologia de Pingtung, onde Sun Ching-min conduz há anos estudos de reabilitação e soltura do pangolim de Taiwan, constituindo uma fonte crucial de dados ecológicos.[^3] Esses dados científicos não só ajudam a compreender os padrões de comportamento, como também fundamentam as políticas de conservação.
+Instituições de pesquisa em Taiwan investem continuamente no estudo da ecologia do pangolim. Entre elas, a equipe da professora assistente Sun Ching-min (孫敬閔), do Instituto de Conservação de Animais Selvagens da Universidade de Ciência e Tecnologia de屏東 (National Pingtung University of Science and Technology), estabeleceu um mecanismo de notificação comunitária aliado a uma rede de rastreamento por rádio para estudar o alcance de atividade, o tamanho da população e o status reprodutivo dos pangolins. [^3] Esses dados científicos não apenas ajudam a entender os padrões de comportamento do animal, mas também fornecem base científica para as políticas de conservação.
 
-## O avanço na reprodução no Zoológico de Taipé
+### Avanços na reprodução no Zoológico de Taipé
 
-O Zoológico Municipal de Taipé alcançou resultados importantes na reprodução em cativeiro do pangolim, sendo uma das poucas instituições no mundo a conseguir reproduzi-lo com sucesso. A reprodução em cativeiro é extremamente difícil: os animais são sensíveis a mudanças ambientais, exigem condições de manejo rigorosas e têm ciclo reprodutivo longo. O zoológico, simulando o ambiente natural, ajustando a nutrição com precisão e observando o comportamento, estabeleceu uma população de conservação _ex situ_.
+O Zoológico de Taipé alcançou resultados significativos na reprodução assistida de pangolins: a primeira reprodução bem-sucedida ocorreu em 1997, e os indivíduos criados no zoológico já chegaram à quarta geração. [^5] A reprodução artificial de pangolins é extremamente difícil devido à sua sensibilidade às mudanças ambientais, exigências dietéticas elevadas e longo ciclo reprodutivo. O zoológico também desenvolveu uma "receita de bolo para pangolim" composta por larvas de abelha, tenébrios, maçãs e ovos de galinha. [^5]
 
-Esses resultados não apenas oferecem uma apólice de seguro para a conservação do pangolim de Taiwan, como também contribuem com experiência valiosa para programas internacionais de conservação da espécie.
+Esses resultados não apenas garantem uma reserva para a conservação do pangolim em Taiwan, mas também contribuem com experiências valiosas para planos internacionais de conservação da espécie.
 
-## O herói anônimo do ecossistema
+## Heróis anônimos do ecossistema
 
-O pangolim de Taiwan desempenha função concreta no ecossistema. Como "especialista em controle biológico", um pangolim adulto pode consumir anualmente enorme quantidade de formigas e cupins (a literatura estima entre 1 e 2 milhões de indivíduos), controlando as populações desses insetos e protegendo florestas e lavouras contra pragas.[^2]
+O pangolim de Taiwan desempenha uma função específica no ecossistema. Como um "especialista em controle biológico", o Departamento de Proteção Animal da Cidade de Nova Taipé afirma que um único indivíduo pode consumir 70 milhões de cupins por ano, controlando a população desses insetos. [^7]
 
-Seu comportamento de escavação também remodela a estrutura do solo, aumentando a aeração e a retenção de água, o que favorece o crescimento das raízes das plantas. As tocas de pangolim são frequentemente usadas por outros pequenos animais, formando uma complexa rede ecológica subterrânea.
+As tocas dos pangolins são frequentemente utilizadas por outros pequenos animais.
 
-## Ameaças que persistem
+## Ameaças persistentes
 
-Apesar dos avanços na conservação, o pangolim de Taiwan ainda enfrenta vários desafios:
+Apesar do sucesso na conservação, o pangolim de Taiwan ainda enfrenta vários desafios:
 
 ### Ataques de cães errantes
 
-Cães errantes na natureza são um dos principais predadores do pangolim em Taiwan. Quando ameaçado, o pangolim enrola-se numa bola, e suas escamas duras impedem que predadores de grande porte o mordam diretamente. Mas os cães atacam de forma diferente: cercam-no em grupo e reviram-no repetidamente; o pangolim não consegue manter-se enrolado para sempre e, exausto, acaba tendo o ventre mole exposto, ferindo-se ou morrendo.
+Cães de rua são um dos principais predadores naturais enfrentados pelos pangolins em Taiwan. Quando ameaçados, os pangolins se enrolam em uma bola; as escamas duras dificultam a mordida direta de grandes predadores. No entanto, o modo de ataque dos cães é diferente: em 2018, o Centro de Biologia de Espécies Selvagens (TIB) atendeu 24 pangolins feridos, dos quais 16 (67%) foram vítimas de ataques de cães; embora o pangolim se enrole, a força da mordida canina é feroz, resultando frequentemente na perda da cauda. [^6]
 
 ### Atropelamentos
 
-Com a expansão da malha viária, registram-se casos de pangolins atropelados ao cruzar estradas. Especialmente na época reprodutiva, quando ampliam sua área de atividade, o risco de atropelamento aumenta.
+Existem casos de pangolins feridos por veículos ao atravessar estradas; dos 24 indivíduos atendidos pelo TIB em 2018, um foi vítima de atropelamento. [^6]
 
 ### Desenvolvimento de habitat
 
-Embora exista um sistema de áreas protegidas, a expansão urbana e a construção de estradas continuam a fragmentar o habitat do pangolim, afetando o fluxo genético entre populações e suas áreas de forrageamento.
+Embora existam sistemas de áreas protegidas, a expansão urbana e a construção de estradas continuam a fragmentar o habitat dos pangolins, afetando o intercâmbio genético e as áreas de busca por alimento das populações.
 
-## A possibilidade de coexistência com a cidade
+## Possibilidade de coexistência urbana
 
-O pangolim de Taiwan demonstra notável capacidade de adaptação. Não só ocorre em florestas primárias, como também estabelece moradas nas franjas metropolitanas de intensa atividade humana. Em Taipé (Yangmingshan), Nova Taipé (Wulai), Taoyuan (Fuxing) e outras localidades, há casos de coexistência harmoniosa entre pangolins e pessoas.
+O pangolim de Taiwan demonstra uma capacidade de adaptação surpreendente. Eles não aparecem apenas em florestas primárias, mas também estabelecem lares nas bordas de áreas urbanas com intensa atividade humana. Há registros de presença de pangolins em Yangmingshan (Taipé), em áreas de Fuxing (Taoyuan), entre outros locais.
 
-Em Taichung, diz-se que foram encontrados vestígios de pangolim nas colinas ao redor do campus da Universidade Médica Chung Shan, e a terra em questão gerou debates entre desenvolvimento e conservação — quando um pangolim aparece no seu campus, a quem pertence afinal esse terreno? Histórias assim multiplicam-se por Taiwan, refletindo a crescente consciência da sociedade taiwanesa sobre a proteção do pangolim.
+Em 2024, professores e alunos da Universidade Tsing Hua, ao elaborarem um guia ecológico do campus, descobriram cinco tocas cavadas por pangolins, com cerca de 1 metro de profundidade e 20 centímetros de largura. [^10]
 
 ## Fisiologia e hábitos
 
-A anatomia do pangolim está repleta de maravilhas evolutivas. As escamas são de queratina (mesma composição das unhas humanas) e, quando enrolado, nem leões nem tigres conseguem perfurá-las. A língua pode estender-se até 25 cm, quase metade do comprimento do corpo; contudo, não têm dentes, triturando o alimento com placas córneas no estômago e pequenas pedras ingeridas. As garras dianteiras são robustas, capazes de escavar tocas de até 3 metros de profundidade; apesar da "armadura" pesada, o pangolim nada bem e consegue atravessar rios.
+A estrutura corporal do pangolim é repleta de maravilhas evolutivas. As escamas são compostas principalmente de queratina, similar às unhas humanas. A língua tem quase o mesmo comprimento do corpo; contudo, eles não possuem dentes, dependendo de pedras pequenas e queratina no estômago para triturar o alimento. As garras dianteiras são fortes, permitindo cavar tocas de busca de alimento de 1 a 3 metros de profundidade, enquanto as tocas de sono podem atingir até 6 metros; apesar da armadura pesada, os pangolins também são bons nadadores.
 
-Fora da época de acasalamento, o pangolim vive solitário a vida toda; a mãe acompanha a cria por apenas cerca de meio ano. A gestação dura 120 a 150 dias, e nasce apenas um filhote por ninhada — taxa reprodutiva extremamente baixa, o que explica por que uma população, uma vez colapsada, dificilmente se recupera. O pangolim é um dos mamíferos escamados mais antigos ainda existentes; o registro fóssil remonta a cerca de 50 a 60 milhões de anos, no Paleoceno.
+Exceto na época de acasalamento, os pangolins são solitários por toda a vida, e o período de convivência entre mãe e filhote dura apenas cerca de seis meses. Eles dão à luz apenas uma vez por ano; cuidadores do Zoológico de Taipé relatam que a gestação dura cerca de 8 meses e o cuidado com o filhote cerca de meio ano. A velocidade reprodutiva é extremamente lenta, o que é um dos motivos pelos quais é difícil recuperar a população caso ela entre em colapso.
 
 ## O significado global da experiência de Taiwan
 
-O sucesso da conservação do pangolim de Taiwan oferece um estudo de caso replicável para a proteção de espécies ameaçadas no mundo. A abordagem taiwanesa tem várias marcas: legislação protetiva já em 1989, mais de uma década à frente da maioria dos países; a proteção estende-se da lei ao habitat, à investigação científica e à educação cívica, formando quatro linhas de defesa; o acúmulo de dados por institutos de pesquisa e zoológicos permite ajustes de política baseados em evidência; e a sociedade taiwanesa aprofunda ano a ano seu conhecimento sobre o pangolim, com mecanismos de denúncia cidadã de atropelamentos e animais feridos que também alimentam os dados de monitoramento da fauna.
+O sucesso da conservação do pangolim de Taiwan serve como um modelo de referência para a proteção de espécies ameaçadas em todo o mundo. A abordagem de Taiwan possui várias características: legislação de proteção desde 1989; alcance que vai da lei à preservação de habitats, pesquisa científica e educação cívica; acúmulo de dados por instituições de pesquisa e zoológicos que permite ajustes baseados em ciência; e um aumento progressivo na conscientização da sociedade taiwanesa sobre o animal, com mecanismos de notificação cidadã para atropelamentos e casos de ferimentos, que compõem parte dos dados de monitoramento da vida selvagem.
 
-A história do pangolim de Taiwan, numa era de perda acelerada de biodiversidade, dá uma resposta concreta: a extinção não é o único desfecho.
+A história do pangolim de Taiwan, em uma era de rápida perda de biodiversidade, oferece uma resposta concreta: a extinção não é o único desfecho possível.
 
 ## Referências
 
-[^1]: [Decisão CITES CoP17 sobre Pangolins｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirma a decisão da CoP17 de 2016 de elevar o status para o Apêndice I, entrando em vigor oficialmente em 2 de janeiro de 2017.
+[^1]: [O que a nova proibição comercial significa para a conservação dos pangolins? | IUCN](https://iucn.org/news/secretariat/201610/what-does-new-trade-ban-mean-pangolin-conservation) — Em 2016, a CoP17 da CITES incluiu todas as oito espécies de pangolins no Apêndice I, com efeito a partir de janeiro de 2017.
 
-[^2]: [Lista Vermelha da IUCN: Pangolim-chinês](https://www.iucnredlist.org/species/12764/123589684) — Literatura sobre os hábitos ecológicos e necessidades alimentares do pangolim-chinês (existem variações entre os estudos sobre a estimativa de consumo de formigas).
+[^2]: [Pangolins | IUCN SSC Pangolin Specialist Group](https://www.pangolinsg.org/pangolins/) — Das oito espécies, 3 são Criticamente em Perigo, 3 em Perigo e 2 Vulneráveis; o volume traficado entre 2000 e 2019 equivale a mais de 895.000 indivíduos.
 
-[^3]: [Instituto de Conservação de Vida Selvagem da Universidade de Ciência e Tecnologia de Pingtung](https://www.npust.edu.tw/) — Contexto do estudo de reintrodução de pangolins realizado por Sun Jing-min e sua equipe de pesquisa.
+[^3]: [Status da população de pangolins estabiliza, com notificações comunitárias e rastreamento por rádio | CNA 2025-05-22](https://www.cna.com.tw/news/ahel/202505220371.aspx) — Pesquisa de rastreamento e notificação comunitária da equipe de Sun Ching-min; populações tendendo à estabilidade.
 
-[^4]: [Rede de Biodiversidade de Taiwan](https://www.tbn.org.tw/) — Banco de dados sobre a distribuição de pangolins em Taiwan e relatórios de ciência cidadã.
+[^4]: [Lei de Conservação de Animais Selvagens | Banco Nacional de Dados Legislativos](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Penas criminais e multas dos Artigos 40 e 41; veja o histórico de revisões em [LawHistory](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=M0120001).
 
-[^5]: [Pesquisa de Conservação do Zoológico de Taipei](https://www.zoo.gov.taipei/) — Técnicas de reprodução artificial e resultados de conservação de pangolins.
+[^5]: [Experiência de reprodução assistida de pangolins | Reporter](https://www.twreporter.org/a/pangolins-breed-experience-in-taiwan) — Primeira reprodução no Zoológico de Taipé em 1997, quarta geração e a receita do "bolo para pangolim".
 
-## Leitura complementar
+[^6]: [História da conservação do pangolim de Taiwan | Reporter](https://www.twreporter.org/a/pangolin-conservation-history-in-taiwan) — Inclusão na lista de proteção em 1989, dados de tamanho corporal e estatísticas de indivíduos feridos atendidos pelo TIB em 2018.
 
-- [Situação dos Apêndices da CITES](https://cites.org/eng/app/appendices.php)
-- [Centro de Investigação e Conservação de Espécies Endémicas do Ministério da Agricultura do Yuan Executivo](https://www.tesri.gov.tw/)
+[^7]: [Departamento de Proteção Animal de Nova Taipé fala sobre o consumo de cupins pelos pangolins | Newtalk 2023-02-17](https://newtalk.tw/news/view/2023-02-17/857899) — Um pangolim pode comer 70 milhões de cupins por ano.
+
+[^8]: [Pangolins e medicina tradicional chinesa | Shili 2020](https://www.foodnext.net/news/newsnation/paper/5616492562) — Ainda existem 8 medicamentos patenteados na farmacopeia que contêm pangolim.
+
+[^9]: [Pangolins na China elevam nível de proteção para primeiro nível | PTS News 2020](https://news.pts.org.tw/article/483991) — Em 2020, todas as espécies do gênero _Manis_ foram elevadas para o primeiro nível de proteção.
+
+[^10]: [Tocas de pangolins descobertas no campus da Tsing Hua | CNA 2024-04-08](https://www.cna.com.tw/news/aloc/202404080192.aspx) — Professores e alunos descobriram cinco tocas cavadas.
+
+## Leitura Adicional
+
+- [Status atual dos Apêndices da CITES](https://cites.org/eng/app/appendices.php)
+- [Centro de Pesquisa e Conservação de Espécies Endêmicas do Ministério da Agricultura](https://www.tesri.gov.tw/)

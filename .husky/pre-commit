@@ -1,6 +1,30 @@
 # 確保 node / bun 在 PATH 中（husky 環境 PATH 比 shell 環境窄）
 export PATH="$PATH:/usr/local/bin:/Users/cheyuwu/.bun/bin"
 
+# ── 解析可用的 Python 直譯器（2026-10-20 新增）──────────────────────────
+# 這支 hook 底下跑的閘門工具需要 Python 3.11+：
+#   · article-health.py           → `import tomllib`（3.11+ stdlib）
+#   · check-canonical-frontmatter.py → PEP 604 註解 `dict | None`（3.10+）
+# macOS 系統自帶的 /usr/bin/python3 是 **3.9**（Apple 不隨 OS 更新 Python），
+# 在那種機器上這兩支會直接 **crash**，exit code 1；而 hook 把「exit != 0」
+# 一律解讀成「違規」→ 貢獻者看到的是「Canonical 文件 frontmatter 規範違反」，
+# 但真正的問題是環境缺執行器。診斷指錯方向比沒有閘門更糟：
+# 貢獻者會去修一個沒問題的文件，或更常見地 --no-verify 繞過（關掉所有閘門）。
+# 找不到時明確報「環境缺執行器」並繼續（閘門退成 no-op），不誤診成內容違規。
+# 庫：scripts/tools/lib/resolve-python.sh（exit 0=找到 / 3=找不到）
+# 逃生：CI 仍會用 Python 3.12 擋。
+# ────────────────────────────────────────────────────────────────────────
+PY_BIN="python3"
+PY_RESOLVER="$(git rev-parse --show-toplevel 2>/dev/null)/scripts/tools/lib/resolve-python.sh"
+if [ -f "$PY_RESOLVER" ]; then
+  if _py_resolved="$(bash "$PY_RESOLVER" 2>/dev/null)"; then
+    [ -n "$_py_resolved" ] && PY_BIN="$_py_resolved"
+  else
+    echo "🧬 pre-commit: ⚠️ 閘門執行器不可用（找不到 Python 3.11+）— Python 閘門將無法執行。"
+    echo "   這 **不是** 你的檔案有問題；上面的訊息有安裝方法。CI 仍會用 Python 3.12 擋。"
+  fi
+fi
+
 # ── 多核心 git 協調：parallel-actor 快檢（胼胝體鐵律 / REFLEXES #68，local-only 不 fetch，非阻塞）──
 # 偵測到平行 babel/lang-sync writer 時提醒：husky lint-staged stash 可能跟並行 commit 撞（vc=2）。
 # 刻意只警告不擋——hard-block 會打斷無人值守的 routine commit。
@@ -27,14 +51,14 @@ node scripts/core/test-frontmatter.mjs --staged
 # current_version 對 HEAD 單調不降（2026-08-23 twmd-self-evolve-weekly 新增，
 # per REFLEXES #92 twin-artifact 缺重整器家族——canonical 版本號曾被過期工作樹
 # 靜默覆寫回舊版且無尺在看，四天後才被人撞見）。
-python3 scripts/tools/check-canonical-frontmatter.py --staged --quiet
+"$PY_BIN" scripts/tools/check-canonical-frontmatter.py --staged --quiet
 canonical_fm_exit=$?
 if [ "$canonical_fm_exit" != "0" ]; then
   echo ""
   echo "💡 Canonical 文件 frontmatter 規範違反"
   echo "   Schema: docs/semiont/ANATOMY.md §Canonical 文件 frontmatter"
   echo "   哲學:   docs/semiont/MANIFESTO.md §進化哲學第六條"
-  echo "   全站健檢: python3 scripts/tools/check-canonical-frontmatter.py --all"
+  echo "   全站健檢: $PY_BIN scripts/tools/check-canonical-frontmatter.py --all"
   exit 1
 fi
 
@@ -75,15 +99,15 @@ if echo "$staged_any" | grep -qE '^(astro\.config\.mjs|package(-lock)?\.json|tes
   npm run test:markdown || exit 1
 fi
 if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
-  python3 scripts/tools/memory-index-lint.py || exit 1
+  "$PY_BIN" scripts/tools/memory-index-lint.py || exit 1
 fi
 if echo "$staged_files" | grep -q "^docs/semiont/DIARY.md$"; then
-  python3 scripts/tools/memory-index-lint.py --diary || exit 1
+  "$PY_BIN" scripts/tools/memory-index-lint.py --diary || exit 1
 fi
 # OBSERVER-QUEUE §待決 每列要帶預設選項與 default-action（2026-09-18，黃燈起步只 WARN）：
 # 六列只有分析沒有選項在佇列裡躺了八天，一條自主權內的單檔勘誤混在十七條 🔒 之間沒人看出來。
 if echo "$staged_files" | grep -q "^docs/semiont/OBSERVER-QUEUE.md$"; then
-  python3 scripts/tools/observer-queue-lint.py || true
+  "$PY_BIN" scripts/tools/observer-queue-lint.py || true
 fi
 
 # ═══ translatedFrom 強制檢查（2026-04-14 η 新增）═══
@@ -143,7 +167,7 @@ fi
 # zh-TW 文章 867/903 是 CJK 檔名，不加這個旗標整條 grep 全 miss，gate 靜默不跑。
 staged_md=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
 if [ -n "$staged_md" ]; then
-  fix_output=$(python3 scripts/tools/article-health.py --staged --check=frontmatter-format --fix 2>&1)
+  fix_output=$("$PY_BIN" scripts/tools/article-health.py --staged --check=frontmatter-format --fix 2>&1)
   fixed_count=$(echo "$fix_output" | grep -oE 'Modified [0-9]+ file' | grep -oE '[0-9]+' | head -1 || echo "0")
   if [ -n "$fixed_count" ] && [ "$fixed_count" != "0" ]; then
     echo "🔧 Auto-fixed frontmatter format on $fixed_count staged file(s); re-staging..."
@@ -161,7 +185,7 @@ fi
 # article-health-ssot-design-2026-05-04.md), promotes the 30-day shadow-run
 # observation period to canonical hard gate.
 if [ -n "$staged_md" ]; then
-  if ! python3 scripts/tools/article-health.py --staged --profile=pre-commit --quiet; then
+  if ! "$PY_BIN" scripts/tools/article-health.py --staged --profile=pre-commit --quiet; then
     echo ""
     echo "💡 看明細：python3 scripts/tools/article-health.py --staged --profile=pre-commit"
     echo "   單檢查：python3 scripts/tools/article-health.py --staged --check=<name>"
@@ -176,7 +200,7 @@ fi
 # 取名累積 98 檔漂移 → hreflang / 切換器死鏈土壤，歷史已清償（unify-translation-
 # slugs.py），本 gate 防再犯。
 if echo "$staged_md" | grep -qE '^knowledge/(ja|ko|es|fr)/'; then
-  if ! python3 scripts/tools/check-slug-consistency.py --staged; then
+  if ! "$PY_BIN" scripts/tools/check-slug-consistency.py --staged; then
     exit 1
   fi
 fi

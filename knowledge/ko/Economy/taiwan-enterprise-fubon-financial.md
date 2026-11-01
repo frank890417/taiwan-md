@@ -1,20 +1,29 @@
 ---
-title: '대만 기업: 푸본금융지주'
-description: '직원 10명에서 6만 명으로: 차이 형제가 60년에 걸쳐 대만 최대 금융 제국을 세운 이야기'
+title: '대만 기업: 푸방금융지주 (Fubon Financial)'
+description: '1961년, 32세의 차이완차이는 10명의 직원과 600만 대만 달러의 자본을 가지고 타이베이 헝양로의 10평 규모 사무실에서 궈타이손해보험을 설립하며 국영 보험사가 외면하는 소규모 고객층을 공략하기 시작했습니다. 1992년 궈타이 그룹과 분리된 후, 1997년 165억 대만 달러에 타이베이은행을 인수하며 푸방은 손해보험에서 은행, 통신, 야구, 미디어 및 엔터테인먼트 분야로 확장했습니다. 총자산 11.9조 대만 달러, 대만 시가총액 1위, 직원 수 6만 명 이상의 금융지주로 성장하기까지의 과정, 형제 승계, 정경 분리를 통한 권력 균형, 해외 진출에 따른 지리적 리스크, 그리고 디지털 전환과 지속가능 금융의 역사를 65년에 걸쳐 하나씩 풀어냅니다.'
 date: 2026-03-22
-tags: [경제, 기업, 푸본금융지주, 차이밍중, 금융업, 인수합병, 디지털전환]
-subcategory: '企業列傳'
 category: 'Economy'
+tags:
+  [
+    '경제',
+    '기업',
+    '푸방금융지주',
+    '차이밍중',
+    '금융업',
+    '인수합병',
+    '디지털 전환',
+  ]
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
-translatedFrom: 'Economy/台灣企業：富邦金控.md'
 lastVerified: 2026-03-22
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：富邦金控.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: '2026-04-14T08:48:46+08:00'
-featured: false
-lastHumanReview: true
+translatedAt: '2026-10-21T01:56:49.367758+00:00'
 ---
 
 # 대만 기업: 푸본금융지주

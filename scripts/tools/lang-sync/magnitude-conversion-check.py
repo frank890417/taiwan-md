@@ -162,7 +162,7 @@ def main() -> int:
     results.sort(key=lambda x: -len(x[1]))
     shown = results[:a.top] if a.top else results
     for o, h in shown:
-        print(f"⚠️ {o.relative_to(REPO) if o.resolve().is_relative_to(REPO) else o}")
+        print(f"⚠️ {o.resolve().relative_to(REPO) if o.resolve().is_relative_to(REPO) else o}")
         for line in h:
             print(f"      {line}")
     total = sum(len(h) for _, h in results)

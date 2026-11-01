@@ -1,29 +1,29 @@
 ---
-title: "Fubon Financial Holdings : l'empire financier des frères Tsai"
-description: 'De 10 à 60 000 employés : comment les frères Tsai ont bâti en 60 ans le plus grand empire financier de Taïwan'
+title: 'Entreprise taïwanaise : Fubon Financial Holding'
+description: "En 1961, à l'âge de 32 ans, Tsai Wan-tsai a fondé Cathay Property Insurance dans un bureau de 32 mètres carrés sur Hengyang Road à Taipei, avec 10 employés et un capital de 6 millions de NT$. Il avait choisi de se concentrer sur les petits clients délaissés par les compagnies d'assurance publiques. Après sa séparation du groupe Cathay en 1992 et l'acquisition de Taipei Bank pour NT$16,5 milliards en 1997, Fubon s'est étendu de l'assurance vers la banque, les télécommunications, le baseball, les médias et le divertissement, devenant un groupe financier avec des actifs totaux de NT$11,9 billions, la plus grande capitalisation boursière de Taïwan et plus de 60 000 employés. La succession fraternelle, l'équilibre des pouvoirs entre politique et économie, les risques géographiques transmarins, ainsi que la transformation numérique et la finance durable, sont décortiqués au fil de ces 65 années."
 date: 2026-03-22
 category: 'Economy'
 tags:
   [
-    économie,
-    entreprise,
-    Fubon Financial,
-    Tsai Ming-chung,
-    finance,
-    fusion-acquisition,
-    transformation numérique,
+    'Économie',
+    'Entreprise',
+    'Fubon Financial Holding',
+    'Tsai Ming-chung',
+    'Secteur financier',
+    'Fusion et acquisition',
+    'Transformation numérique',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
-readingTime: 15
 featured: false
-translatedFrom: 'Economy/台灣企業：富邦金控.md'
+readingTime: 15
 lastVerified: 2026-03-22
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：富邦金控.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: '2026-04-14T19:20:40+08:00'
-lastHumanReview: true
+translatedAt: '2026-10-21T01:57:14.437424+00:00'
 ---
 
 # Fubon Financial Holdings : l'empire financier des frères Tsai

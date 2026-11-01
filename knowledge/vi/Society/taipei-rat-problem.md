@@ -19,10 +19,10 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:02:42.327601+00:00'
 ---
 
 # Dịch bệnh chuột ở Đài Bắc: Từ sắc lệnh chống dịch chuột năm 1896 của Tổng đốc, đến virus Hantavirus ở quận An Tư năm 2026
@@ -77,23 +77,23 @@ Khi các hộ nuôi lợn không còn thu hồi rác thải mỗi ngày khắp t
 
 📝 **Ghi chú của người sắp xếp triển lãm:** Tháng 1 năm 2026, Bộ Nông nghiệp kết thúc một con đường kéo dài nửa thế kỷ là "rác thải → lợn"; cùng cuối tháng, Đài Bắc xuất hiện ca tử vong do virus Hantavirus đầu tiên trong 25 năm. Hai sự kiện này không phải là trùng hợp, mà là hậu quả của một hệ thống phân phối lại calo.
 
-## Năm, sự lựa chọn của chánh quyền thành phố: phun thuốc, và phản ứng dâu đơi từ phun thuốc
+## Năm, Lựa chọn của Chính quyền Thành phố: Rải thuốc và sự phản kháng từ việc rải thuốc
 
-Đối mặt với sự phẫn nộ của dư luận, cơ quan bảo vệ môi trường thành phố Đài Bắc đưa ra phản ứng là "phun thuốc chính xác", sử dụng các loại thuốc trừ sâu bệnh được cơ quan trung ương chấp nhận (phần lớn là chất chống đông máu "có thể tiêu diệt chuột"), và nhấn mạnh rằng cân bằng an toàn cho thú cưng[^23].
+Đối mặt với làn sóng dư luận bùng nổ, Cục Bảo vệ Môi trường Thành phố Đài Bắc đã đưa ra phản hồi là "đầu tư thuốc chính xác", sử dụng các loại thuốc môi trường được Trung ương phê duyệt (đa số là chất chống đông máu có khả năng "diệt chuột"), đồng thời nhấn mạnh việc đảm bảo an toàn cho thú cưng[^23].
 
-Nhưng lựa chọn này gần như ngay lập tức bị ba thế lực phản đối đồng thời:
+Tuy nhiên, lựa chọn này gần như ngay lập tức bị ba lực lượng cùng lúc bác bỏ:
 
-**1. Bộ Môi trường Trung ương**: Bộ trưởng Bộ Môi trường Phương Khai Minh công khai kêu gọi vào ngày 2 tháng 5, diệt chuột nên áp dụng nguyên tắc "chính quy ba không" có "chỉnh sửa môi trường là chính, phun thuốc là phụ" — không cho phép chuột đến, không cho phép chuột ở, không cho phép chuột ăn. FAQ phòng chống chuột gia hộ của cơ quan bảo vệ môi trường cũng viết như vậy[^24][^25].
+**1. Bộ Môi trường Trung ương**: Bộ trưởng Môi trường Bành Khải Minh (Peng Chi-ming) đã công khai kêu gọi vào ngày 2 tháng 5 rằng việc diệt chuột nên tuân thủ nguyên tắc "phòng chuột ba không" — lấy "chỉnh đốn môi trường làm chính, dùng thuốc làm phụ" — tức là: không để chuột đến, không để chuột ở, không để chuột ăn. Ngay cả phần FAQ về phòng chống chuột nhà của Cục Bảo vệ Môi trường cũng viết như vậy[^24][^25].
 
-**2. Giới sinh học học**: Đội nghiên cứu chim của Trường Khoa học Bình Tây là Tôn Nguyên Huân, công bố một nghiên cứu năm 2019 trên <Khoa học Tổng Môi trường> cho rằng, quạ diều Đài Loan (quạ cánh đen, đại baz xanh đầu, cắt chim có rã) **phổ biến phát hiện dư lượng thuốc diệt chuột chống đông máu trong cơ thể**, và nồng độ có mối liên hệ chặt chẽ với "tuần diệt chuột toàn quốc" mà chính phủ từng thúc đẩy lâu dài[^26][^27].
+**2. Giới sinh thái học**: Nhóm nghiên cứu của Tôn Nguyên Huân (Sun Yuan-hsun) thuộc Phòng Nghiên cứu Sinh thái Chim, Đại học Khoa học Kỹ thuật Bính Lý, trong một nghiên cứu công bố trên tạp chí _Science of the Total Environment_ năm 2019 đã chỉ ra rằng, các loài chim săn mồi tại Đài Loan (như diều hâu đen, ưng bụng trắng, chim cắt) **phổ biến có dư lượng thuốc diệt chuột chống đông máu trong cơ thể**, và nồng độ này có liên quan chặt chẽ đến "Tuần lễ Diệt chuột" mà chính phủ đã thúc đẩy trong thời gian dài trước đây[^26][^27].
 
-**3. Lịch sử bài học của chính Bộ Nông nghiệp**: Vì một loạt sự kiện quạ cánh đen bị nhiễm độc chết, từ năm 2015 Hội nông nghiệp (nay là Bộ Nông nghiệp) từng bước hủy bỏ triển khai **40 năm** "Tuần diệt chuột toàn quốc", chính thức công bố rằng Đài Loan chăn nuôi quay từ "phun thuốc" sang khoa học và thân thiện với sinh thái[^28][^29].
+**3. Bài học lịch sử từ chính Bộ Nông nghiệp**: Do một loạt các sự cố ngộ độc dẫn đến tử vong ở loài diều hâu đen, Ủy ban Nông nghiệp (nay là Bộ Nông nghiệp) đã từng bước hủy bỏ việc thực hiện "Tuần lễ Diệt chuột trên đất nông nghiệp toàn quốc" vốn đã kéo dài suốt **40 năm** kể từ năm 2015, chính thức tuyên bố quản lý dịch hại chuột tại Đài Loan chuyển dịch từ "rải thuốc" sang hướng khoa học và thân thiện với sinh thái[^28][^29].
 
-Nói cách khác: **khi bộ nông nghiệp đã bỏ lại thời đại "tuần diệt chuột" vì bảo vệ quạ diều, cơ quan bảo vệ môi trường thành phố Đài Bắc phun thuốc trên đường phố năm 2026, tương đương với việc lấy lại công cụ mà nông thôn mới vừa bỏ đi 10 năm trước, để sử dụng trong thành phố.**
+Nói cách khác: **Khi ngành nông nghiệp đã bước ra khỏi kỷ nguyên "Tuần lễ Diệt chuột" vì mục tiêu bảo tồn chim săn mồi, thì việc Cục Bảo vệ Môi trường Thành phố Đài Bắc rải thuốc trên đường phố vào năm 2026 chẳng khác nào nhặt lại công cụ mà vùng nông thôn vừa mới từ bỏ mười năm trước để áp dụng vào đô thị.**
 
-Ngày 4 tháng 5, Giám đốc Bảo vệ Môi trường Từ Thế Tuấn bị buộc phải nói, sẽ cố gắng "lấp rãnh chuột, tích hợp thông tin sử dụng thuốc và bản đồ khu vực nóng tương đối để công bố"[^30]; kế tiếp, Thị trưởng Tưởng Vạn An lên tiếng cam kết sẽ xây dựng "biện pháp ứng phó toàn diện vệ sinh môi trường khu vực"[^31][^32]. Cùng lúc đó, nghị sĩ đối lập Hứa Thục Hoa tấn công: hội họp liên ngành chỉ diễn ra ba lần, chậm trễ[^33].
+Ngày 4 tháng 5, Cục trưởng Cục Bảo vệ Môi trường Từ Thế Huân (Hsu Shih-hsun) buộc phải nới lỏng lập trường, cho biết sẽ cố gắng "lấp đầy các hang chuột, đồng thời tích hợp và công bố thông tin sử dụng thuốc cùng bản đồ các khu vực nóng tương ứng"[^30]; ngày hôm sau, Thị trưởng [Tưởng Vạn An](/people/蔣萬安) đã đứng ra cam kết sẽ lập các biện pháp ứng phó cụ thể nhằm "khử trùng môi trường tổng thể trong khu vực thành phố"[^31][^32]. Trong khi đó, Nghị sĩ đối lập Hứa Thục Hoa (Hsu Shu-hua) cũng đồng loạt chỉ trích: các cuộc họp liên cục chỉ mới tổ chức ba lần, quá chậm trễ[^33].
 
-📝 **Ghi chú của người sắp xếp triển lãm:** "Phun thuốc thì nhìn được, lấp khe hở thì nhìn không được" — đây là kinh tế chính trị cơ bản nhất của quản lý dịch bệnh chuột ở Đài Bắc. Dưới áp lực bầu cử, nhìn được quan trọng hơn có hiệu quả.
+📝 **Ghi chú của người biên soạn:** "Rải thuốc thì thấy được, còn làm sạch kẽ hở thì không thấy được" — đây chính là nền kinh tế chính trị căn bản nhất trong việc quản lý dịch chuột tại Đài Bắc. Dưới áp lực bầu cử, cái gì nhìn thấy được còn quan trọng hơn cả cái gì hiệu quả.
 
 ## Sáu, cơ sở hạ tầng vô hình: đường ống nước thải hỗn hợp, sân hiên, chợ đêm
 

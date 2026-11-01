@@ -1,10 +1,8 @@
 ---
 title: '台湾企業：富邦金控'
-description: '10人から60,000人へ：蔡家兄弟が60年で台湾最大の金融帝国を築いた物語'
+description: '1961年、32歳の蔡萬才は10名の従業員と600万元の資本を携え、台北市の衡陽路にある10坪のオフィスで国泰產險を設立しました。当時、公営保険会社が相手にしない小規模な顧客層に特化することを選択したのです。1992年に国泰グループから分離し、1997年には165億元で台北銀行を買収。富邦は損害保険業から銀行、通信、プロ野球、メディア、娯楽へと事業を拡大し、総資産NT$11.9兆、時価総額台湾第一、従業員数6万人を超える金融ホールディングスへと成長しました。兄弟による事業継承、政経分離による権力の均衡、海を越えた地理的リスク、そしてデジタルトランスフォーメーションとサステナブルファイナンス。この65年の歩みを紐解きます。'
 date: 2026-03-22
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     '経済',
@@ -15,15 +13,17 @@ tags:
     'M&A',
     'デジタルトランスフォーメーション',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
-translatedFrom: Economy/台灣企業：富邦金控.md
-sourceCommitSha: '4b6d28c5'
+translatedFrom: 'Economy/台灣企業：富邦金控.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: 2026-05-01T18:02:56+08:00
-featured: false
+translatedAt: '2026-10-21T01:56:35.877643+00:00'
 ---
 
 # 台湾企業：富邦金控

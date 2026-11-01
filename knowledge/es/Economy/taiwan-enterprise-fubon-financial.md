@@ -1,29 +1,29 @@
 ---
-title: 'Empresas de Taiwán: Fubon Financial Holding'
-description: 'De 10 a 60,000 empleados: cómo los hermanos Tsai construyeron el mayor imperio financiero de Taiwán en 60 años'
+title: 'Empresas de Taiwán: Fubon Financial Holdings'
+description: 'En 1961, Tsai Wan-tsai, a los 32 años, fundó Cathay Property Insurance en una oficina de 33 metros cuadrados en la calle Hengyang de Taipéi con 10 empleados y un capital de 6 millones, optando por especializarse en los pequeños clientes que las compañías de seguros estatales despreciaban. Tras separarse del Grupo Cathay en 1992 y adquirir el Taipei Bank por NT$16.5 mil millones en 1997, Fubon se expandió desde los seguros hacia la banca, las telecomunicaciones, el béisbol, los medios de comunicación y el entretenimiento, convirtiéndose en un holding financiero con activos totales de NT$11.9 billones, la mayor capitalización bursátil de Taiwán y más de 60,000 empleados. La sucesión entre hermanos, el equilibrio de poder mediante la separación entre política y economía, los riesgos geográficos transoceánicos, así como la transformación digital y las finanzas sostenibles, se analizan detalladamente a lo largo de estos 65 años.'
 date: 2026-03-22
 category: 'Economy'
 tags:
   [
-    Economía,
-    Empresas,
-    Fubon Financial Holding,
-    Tsai Ming-chung,
-    Sector financiero,
-    Fusiones y adquisiciones,
-    Transformación digital,
+    'Economía',
+    'Empresa',
+    'Fubon Financial Holdings',
+    'Tsai Ming-chung',
+    'Sector financiero',
+    'Fusiones y adquisiciones',
+    'Transformación digital',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
-translatedFrom: Economy/台灣企業：富邦金控.md
-sourceCommitSha: '4b6d28c5'
+translatedFrom: 'Economy/台灣企業：富邦金控.md'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: 2026-05-01T20:54:23+08:00
-featured: false
+translatedAt: '2026-10-21T01:57:01.785541+00:00'
 ---
 
 # Empresas de Taiwán: Fubon Financial Holding

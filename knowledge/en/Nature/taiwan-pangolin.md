@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Pangolin'
-description: 'The most trafficked mammal in the world, yet the Taiwan subspecies of pangolin has found a safe haven in Taiwan: while their relatives elsewhere in Asia face extinction due to trafficking, Taiwan has achieved population stability and even recovery through strict legal protection, habitat conservation, scientific research, and captive breeding — becoming a rare conservation success story that shows species extinction is not inevitable.'
+description: "The most trafficked mammal in the world, the Taiwan subspecies of the pangolin has found a safe home in Taiwan: while its relatives elsewhere in Asia face extinction due to smuggling, Taiwan's strict legal protection, habitat maintenance, scientific research, and captive breeding have stabilized the population, serving as a rare conservation success story that shows extinction is not inevitable."
 date: 2026-03-19
 category: 'Nature'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Pangolin',
     'Conservation',
     'Endangered Species',
-    'Trafficking',
+    'Smuggling',
     'Taipei Zoo',
     'Ecology',
   ]
@@ -19,107 +19,117 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '890c5095e'
-sourceContentHash: 'sha256:acaac66b2f5101f5'
-sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-10-15T23:04:36.073089+00:00'
+sourceCommitSha: '2b967f4a1'
+sourceContentHash: 'sha256:ee1a4e69f41642bb'
+sourceBodyHash: 'sha256:596d8de828c02fc3'
+translatedAt: '2026-10-21T12:32:39+08:00'
 ---
 
 # Taiwan Pangolin
 
-> **30-second overview:** The Taiwan pangolin is the most illegally traded mammal in the world — the Taiwan subspecies of the Chinese pangolin. While their relatives in other parts of Asia are being driven to the brink of extinction by smuggling, Taiwan stands out as one of the few places where conservation has succeeded, with a stable and even recovering population. Through strict legal protection, comprehensive habitat preservation, scientific research, and captive breeding, the story of the Taiwan pangolin is a rare "good news" conservation case.
+> **30-Second Overview:** The Taiwan pangolin is the Taiwan subspecies of the pangolin—the most illegally traded mammal in the world. While their relatives in other parts of Asia face extinction due to smuggling, Taiwan has become one of the few regions where conservation has succeeded and population status is stabilizing. Through strict legal protection, comprehensive habitat maintenance, scientific research, and captive breeding, the story of the Taiwan pangolin serves as a rare "good news" case study for conservation.
 
 ## Why It Matters
 
-Pangolins are among the most ancient mammals on Earth, clad in keratin scales like living witnesses to the planet's transformations. Yet over the past two decades, they have become the most trafficked wildlife in the world. According to the IUCN Red List, of the eight pangolin species, 3 are classified as Critically Endangered (CR), 4 as Endangered (EN), and 1 as Vulnerable (VU) — all facing varying degrees of extinction risk.[^2] The conservation success of the Taiwan pangolin offers the world a glimpse of an alternative possibility: species extinction is not inevitable, and conservation can succeed under the right conditions.
+Pangolins are among the oldest mammals on Earth, covered in keratin scales that serve as living fossils witnessing the changes of our planet. However, over the past two decades, they have become the most trafficked wildlife globally. According to the Red List assessment updated by the IUCN Pangolin Specialist Group at the end of 2019, out of eight pangolin species, three are listed as Critically Endangered (CR), three as Endangered (EN), and two as Vulnerable (VU), all facing varying degrees of extinction risk. [^2] The conservation success of the Taiwan pangolin offers the world another possibility: extinction is not destiny, and conservation can succeed under the right conditions.
 
-## A Mysterious Creature That Curls Into a Ball
+## A Mysterious Creature That Rolls into a Ball
 
-The Taiwan pangolin (_Manis pentadactyla pentadactyla_) is a Taiwan-endemic subspecies of the Chinese pangolin. It measures roughly 60 cm in head-and-body length, with an 18 cm tail, and is covered head to toe in armor-like brown scales. These scales are not fish scales but are composed of keratin — the same substance as human fingernails.
+The Taiwan pangolin (_Manis pentadactyla pentadactyla_) is the Taiwan subspecies of the Chinese pangolin. Adults measure approximately 50 cm from head to torso and about 35 cm in tail length—roughly the size of a cat, [^6] covered in armor-like brown scales. These scales are not fish scales; they are primarily composed of keratin, similar to human fingernails.
 
-When night falls, the Taiwan pangolin begins its foraging journey. It is a professional "insect cleaner," using powerful front claws to tear open ant nests and termite mounds, then extending its tongue — which can reach up to 25 cm — to swallow thousands of ants and termites in a single night. When threatened, it quickly curls into a tight ball with its scales erected outward, leaving even a tiger unable to get a bite.
+As night falls, Taiwan pangolins begin their foraging journey. They are professional "insect cleaners," using powerful front claws to dig into ant nests and termite mounds, extending tongues that are nearly as long as their bodies. According to the New Taipei City Animal Protection Office, a single pangolin can eat 70 million termites in one year. [^7] When faced with threats, they quickly roll into a tight ball, with their scales bristling outward.
 
-## A Survivor in the Global Smuggling Crisis
+## A Survivor Amidst a Global Smuggling Crisis
 
-Pangolins are the most illegally traded mammals in the world. Since 2000, at least 1 million pangolins have been trafficked globally, primarily flowing to traditional medicine markets in China and Vietnam.
+Pangolins are the most illegally traded mammals in the world. The IUCN Pangolin Specialist Group estimates that between 2000 and 2019, the number of smuggled pangolins was equivalent to over 895,000 individuals, primarily flowing toward East and Southeast Asia. [^2]
 
-Pangolin scales (known in Chinese medicine as "chuān jiǎ jiǎ piàn") have long been listed as an ingredient in traditional Chinese medicine, with historical pharmacopoeias recording their use for promoting lactation, reducing swelling, and dissipating nodules. In 2020, the Chinese Pharmacopoeia Commission announced the removal of pangolin from the new edition of the _Chinese Pharmacopoeia_ — the most concrete policy signal to date restricting the medicinal use of pangolin. However, existing medicinal inventories and underground demand are unlikely to disappear overnight, and smuggling channels remain active.[^2] As a result, pangolin populations in Asia and Africa have declined sharply. The Chinese pangolin was listed as Critically Endangered by the IUCN in 2014, and at the 17th CITES Conference of the Parties (CoP17) in 2016, all eight pangolin species were uplisted to Appendix I, banning all commercial trade; the resolution took effect officially in January 2017.[^1]
+Pangolin scales (known in Traditional Chinese Medicine as _chuānshānjiǎ jiǎpiàn_) have long been included in Chinese traditional medicine; practitioners believe the scales can promote blood circulation and assist nursing mothers in lactation. While the 2020 edition of the _Chinese Pharmacopoeia_ no longer includes pangolins, in June of that same year, the National Forestry and Grassland Administration upgraded all species of the genus _Manis_ from Class II to Class I protected species; however, _Shi Li_ (食力) noted in 2020 that eight patented medicines in the pharmacopoeia still contained pangolin. [^8][^9] Consequently, pangolin populations in Asia and Africa have declined rapidly. The Chinese pangolin was listed as Critically Endangered by the IUCN in 2014, and at the 17th meeting of the Conference of the Parties (CoP17) to CITES in 2016, a decision was passed to move all eight pangolin species to Appendix I, prohibiting international commercial trade, effective from early January 2017. [^1]
 
-Taiwan, however, is an outlier in this extinction crisis.
+However, Taiwan is an anomaly in this extinction crisis.
 
 ## Taiwan's Conservation Miracle
 
 ### Strict Legal Protection
 
-Taiwan listed the pangolin as a protected wild animal as early as 1989. Following amendments to the Wildlife Conservation Act in 2017, hunting, killing, or selling pangolins carries a sentence of 6 months to 5 years imprisonment, along with a fine of NT$300,000 to NT$1,500,000.[^4] By comparison, mainland China did not elevate the pangolin from Class II to Class I protected animal status until 2020 — Taiwan's protective measures started earlier and have been enforced more rigorously.
+Taiwan enacted the _Wildlife Conservation Act_ in 1989, and pangolins were among the first wave of animals included as protected species. [^6] Under current provisions, hunting or killing protected wildlife is punishable by 6 months to 5 years of imprisonment, plus a fine of NT$200,000 to NT$1 million (Article 41); unauthorized import/export, or buying, selling, or displaying for sale with intent to sell, can incur fines of NT$300,000 to NT$1.5 million (Article 40). [^4] Compared to mainland China, which did not upgrade the pangolin from a Class II protected animal to Class I until 2020, Taiwan's protective measures began earlier and are enforced more strictly.
 
 ### Comprehensive Habitat Protection
 
-Taiwan's low-elevation foothill areas provide ideal habitat for pangolins. From Yangmingshan National Park to Kenting National Park, from the mountainous areas near Taipei to the hills of central and southern Taiwan, these protected zones serve as safe havens for pangolins. Importantly, Taiwan's pangolins are able to adapt to the edges of human activity, surviving even in secondary forests on the fringes of metropolitan areas.
+Taiwan's low-altitude foothills provide ideal habitats for pangolins. Yangmingshan National Park is one of the important habitats for pangolins, with many habitats located adjacent to foothill settlements. [^3]
 
 ### Scientific Research and Monitoring
 
-Taiwan's research institutions have long invested in pangolin ecology, using radio telemetry, infrared camera traps, and other technologies to monitor population dynamics. Among them, Sun Jing-min of the National Pingtung University of Science and Technology's Institute of Wildlife Conservation has conducted long-term pangolin banding and release research, serving as a key source of ecological data on Taiwan's pangolins.[^3] This scientific data not only helps understand pangolin behavior patterns but also provides an evidence base for conservation policy.
+Taiwanese research institutions have long invested in pangolin ecological studies. Notably, the team led by Assistant Professor Sun Ching-min of the Institute of Wildlife Conservation at National Pingtung University has established community reporting mechanisms combined with radio-tracking networks to study pangolin home ranges, population numbers, and breeding status. [^3] This scientific data not only helps in understanding pangolin behavioral patterns but also provides a scientific basis for conservation policies.
 
 ## Breeding Breakthroughs at Taipei Zoo
 
-Taipei Zoo has achieved significant results in pangolin captive breeding, making it one of the few institutions in the world to successfully breed pangolins in captivity. Pangolin captive breeding is extremely difficult: they are sensitive to environmental changes, have demanding husbandry requirements, and have long reproductive cycles. The zoo has established an ex-situ conservation population by simulating wild environments, fine-tuning nutritional regimens, and conducting behavioral observations.
+Taipei Zoo has achieved significant results in the captive breeding of pangolins: the first successful breeding within the zoo occurred in 1997, and captive-bred individuals have now reached the fourth generation. [^5] Captive breeding of pangolins is extremely difficult due to their sensitivity to environmental changes, high dietary requirements, and long reproductive cycles. The zoo has even developed a "pangolin cake" recipe consisting of bee pupae, mealworms, apples, and eggs. [^5]
 
-These breeding achievements not only provide an insurance policy for Taiwan pangolin conservation but also contribute valuable experience to international pangolin conservation programs.
+These breeding achievements not only provide an insurance policy for the conservation of the Taiwan pangolin but also contribute valuable experience to international pangolin conservation programs.
 
 ## Unsung Heroes of the Ecosystem
 
-The Taiwan pangolin plays a concrete role in the ecosystem. As a "biological pest control specialist," a single adult pangolin can consume vast quantities of ants and termites each year (various studies estimate roughly 1 to 2 million), controlling insect populations and protecting forests and crops from pest damage.[^2]
+The Taiwan pangolin performs specific functions within the ecosystem. As "biological control experts," the New Taipei City Animal Protection Office states that one pangolin can eat 70 million termites a year, controlling these insect populations. [^7]
 
-Their burrowing behavior also modifies soil structure, increasing soil aeration and water retention and promoting plant root growth. Pangolin burrows are often used by other small animals, forming complex underground ecological networks.
+Pangolin burrows are often utilized by other small animals.
 
-## Threats That Remain
+## Persistent Threats
 
-Despite conservation successes, Taiwan's pangolins still face numerous challenges:
+Despite conservation successes, the Taiwan pangolin still faces many challenges:
 
-### Stray Dog Attacks
+### Attacks by Stray Dogs
 
-Free-roaming dogs in the wild are one of the primary predators pangolins face in Taiwan. When threatened, a pangolin curls into a ball, and its hard scales make it difficult for large predators to bite through directly. But dogs attack differently — they mob in groups and repeatedly flip the pangolin over. A pangolin cannot maintain its curled position indefinitely; eventually, fatigue causes it to uncurl, exposing its soft belly to injury or death.
+Stray dogs in the wild are one of the primary natural enemies facing pangolins in Taiwan. When threatened, pangolins roll into a ball, and their hard scales make it difficult for large predators to bite through directly. However, canine attacks differ; in 2018, the Taiwan Environmental Change Center (TECC) treated 24 injured pangolins, 16 of which (67%) had been attacked by dogs. While the pangolin curls into a ball, the fierce biting force of dogs often results in the loss of part of the tail. [^6]
 
 ### Roadkill
 
-With road development, cases of pangolins being struck and killed by vehicles while crossing roads are not uncommon. Especially during the breeding season, when pangolins expand their range of activity, the risk of roadkill increases.
+There are cases of pangolins being injured by vehicles while crossing roads; of the 24 injured individuals treated by the TECC in 2018, one had been hit by a car. [^6]
 
 ### Habitat Development
 
-Although a protected area system exists, urban expansion and road construction continue to fragment pangolin habitat, affecting genetic exchange between populations and foraging ranges.
+Although protected areas exist, urban expansion and road construction continue to fragment pangolin habitats, affecting population gene flow and foraging ranges.
 
-## Coexisting With the City
+## The Possibility of Coexistence with Urban Areas
 
-Taiwan's pangolins have demonstrated remarkable adaptability. They are found not only in pristine forests but also in establishing homes on the fringes of heavily human-populated metropolitan areas. In places such as Yangmingshan in Taipei, Wulai in New Taipei City, and Fuxing in Taoyuan, there are cases of pangolins coexisting harmoniously with humans.
+The Taiwan pangolin demonstrates remarkable adaptability. They appear not only in primary forests but also establish homes on the fringes of urban areas where human activity is frequent. Records of pangolin sightings exist in places like Yangmingshan in Taipei and Fuxing in Taoyuan.
 
-In Taichung, the foothill areas surrounding the campus of Chung Shan Medical University were reportedly found to harbor pangolin activity, sparking discussions about development versus conservation — when a pangolin appears on your campus, does the land belong to people or to the animal? Stories like this can be found across Taiwan, reflecting the growing public awareness of pangolin protection in Taiwanese society.
+In 2024, faculty and students from National Tsing Hua University discovered five burrows dug by pangolins while compiling a campus ecological guide; the burrows were approximately 1 meter deep and 20 cm wide. [^10]
 
-## Physiology and Behavior
+## Physiology and Habits
 
-The pangolin's body is full of evolutionary marvels. Its scales are composed of keratin (the same substance as human fingernails), and when curled into a ball, even lions and tigers struggle to bite through. Its tongue can extend up to 25 cm — nearly half its body length — yet it has no teeth, relying instead on keratinous spines and small stones in its stomach to grind food. Its front claws are powerful enough to dig burrows up to 3 meters deep; despite its heavy armor, the pangolin is also a capable swimmer, able to cross rivers.
+The pangolin's body structure is full of evolutionary wonders. The scales are primarily composed of keratin, similar to human fingernails. Their tongues are nearly as long as their bodies; however, they have no teeth and rely on keratinous "teeth" in the stomach along with small stones to grind food. Their front claws are powerful, allowing them to dig foraging holes 1 to 3 meters deep, while sleeping burrows can reach depths of 6 meters. Despite their heavy armor, pangolins are also excellent swimmers.
 
-Outside of the mating season, pangolins are solitary for life, with mother and offspring staying together for only about six months. The gestation period lasts 120 to 150 days, and females give birth to only one offspring per litter. Their extremely slow reproductive rate is one reason why, once a population crashes, recovery is exceedingly difficult. Pangolins are among the oldest extant scaled mammals, with a fossil record tracing their evolutionary history back approximately 50 to 60 million years to the Paleocene.
+Except during mating season, pangolins are solitary for life, and mothers stay with their young for only about six months. They give birth to only one offspring per year; keepers at Taipei Zoo note that gestation lasts about 8 months and the period of caring for the young is about half a year. This extremely slow reproductive rate is one reason why populations are difficult to recover once they collapse.
 
-## The Global Significance of Taiwan's Experience
+## Global Significance of the Taiwan Experience
 
-The conservation success of the Taiwan pangolin provides a reference case for global endangered species protection. Taiwan's approach has several distinguishing features: legislation was enacted as early as 1989, more than a decade ahead of most countries; protection extends from law to habitat, scientific research, and public education, forming a four-layered defense; data accumulated by research institutions and zoos provide a scientific basis for policy adjustments; and public awareness of pangolins in Taiwan has deepened year by year, with citizen reporting mechanisms for roadkill and injured individuals contributing to wildlife monitoring data.
+The conservation success of the Taiwan pangolin provides a reference case for the protection of endangered species worldwide. Taiwan's approach has several characteristics: legislation was enacted as early as 1989; protection extends from legal frameworks to habitats, scientific research, and public education; the accumulation of data from research institutions and zoos provides a scientific basis for policy adjustments; and social awareness of pangolins in Taiwan deepens every year. The mechanism for citizens to report roadkill and injured or sick cases also forms part of the wildlife monitoring data.
 
-In an era of rapidly accelerating biodiversity loss, the story of the Taiwan pangolin offers a concrete answer: extinction is not the only outcome.
+In an era of rapid biodiversity loss, the story of the Taiwan pangolin provides a concrete answer: extinction is not the only possible outcome.
 
 ## References
 
-[^1]: [CITES CoP17 Pangolin Decision｜CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Confirms the 2016 CoP17 resolution to uplist to Appendix I, which officially took effect on January 2, 2017.
+[^1]: [What does the new trade ban mean for pangolin conservation? | IUCN](https://iucn.org/news/secretariat/201610/what-does-new-trade-ban-mean-pangolin-conservation) — In 2016, CITES CoP17 moved all eight pangolin species to Appendix I, effective from early January 2017.
 
-[^2]: [IUCN Red List: Chinese Pangolin](https://www.iucnredlist.org/species/12764/123589684) — Literature on the ecology, habits, and dietary requirements of the Chinese pangolin (estimates of ant consumption vary among studies).
+[^2]: [Pangolins | IUCN SSC Pangolin Specialist Group](https://www.pangolinsg.org/pangolins/) — Of the eight pangolin species, 3 are CR, 3 are EN, and 2 are VU; between 2000 and 2019, the smuggled volume was equivalent to over 895,000 individuals.
 
-[^3]: [Institute of Wildlife Conservation, National Pingtung University of Science and Technology](https://www.npust.edu.tw/) — Background on the pangolin release research by Sun Ching-min and his research team.
+[^3]: [Pangolin population status stabilizing, community reporting and radio tracking | CNA 2025-05-22](https://www.cna.com.tw/news/ahel/202505220371.aspx) — Community reporting and tracking research by Sun Ching-min's team shows the population is tending toward stability.
 
-[^4]: [Taiwan Biodiversity Network](https://www.tbn.org.tw/) — Database on the distribution of Taiwan pangolin and citizen science reports.
+[^4]: [Wildlife Conservation Act | National Law Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Criminal penalties and fines under Articles 40 and 41; see [LawHistory](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=M0120001) for legislative evolution.
 
-[^5]: [Taipei Zoo Conservation Research](https://www.zoo.gov.taipei/) — Artificial breeding techniques and conservation achievements for pangolins.
+[^5]: [Experience in captive breeding of pangolins | The Reporter](https://www.twreporter.org/a/pangolins-breed-experience-in-taiwan) — Taipei Zoo's first successful breeding in 1997, the fourth generation, and the "pangolin cake" recipe.
+
+[^6]: [History of Taiwan Pangolin Conservation | The Reporter](https://www.twreporter.org/a/pangolin-conservation-history-in-taiwan) — Inclusion in protected species in 1989, physical dimensions, and statistics on injured individuals treated by TECC in 2018.
+
+[^7]: [New Taipei City Animal Protection Office discusses pangolin termite consumption | Newtalk 2023-02-17](https://newtalk.tw/news/view/2023-02-17/857899) — A single pangolin can eat 70 million termites a year.
+
+[^8]: [Pangolins and Traditional Chinese Medicine | Shi Li 2020](https://www.foodnext.net/news/newsnation/paper/5616492562) — Eight patented medicines in the pharmacopoeia still contain pangolin.
+
+[^9]: [China upgrades pangolin to Class I protection | PTS News 2020](https://news.pts.org.tw/article/483991) — In 2020, all species of the genus _Manis_ were upgraded to Class I protected status.
+
+[^10]: [Pangolin burrows discovered on NTHU campus | CNA 2024-04-08](https://www.cna.com.tw/news/aloc/202404080192.aspx) — Faculty and students discovered five excavated burrows.
 
 ## Further Reading
 
-- [CITES Appendix Status](https://cites.org/eng/app/appendices.php)
-- [Taiwan Endemic Species Research Institute, Council of Agriculture, Executive Yuan](https://www.tesri.gov.tw/)
+- [Current Status of CITES Appendices](https://cites.org/eng/app/appendices.php)
+- [Research Institute, Biodiversity Conservation Center, Agriculture and Food Agency](https://www.tesri.gov.tw/)

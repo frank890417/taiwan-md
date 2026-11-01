@@ -17,12 +17,19 @@ test('UI replacement preserves content, attributes, scripts, flags and signature
   const html =
     '<html><head><title>📚 題名</title></head><body><h2 title="📚">📚 書架</h2>' +
     preserved +
-    '🇹🇼 🧬<p data-preserve-emoji>🌱</p></body></html>';
+    '🇹🇼 🫧<p data-preserve-emoji>🌱</p><h3>🧬 生命體</h3></body></html>';
   const out = renderUiIcons(html);
   assert.ok(out.includes(preserved));
   assert.ok(out.includes('<title>📚 題名</title>'));
   assert.ok(out.includes('title="📚"'));
-  assert.ok(out.includes('🇹🇼 🧬'));
+  assert.ok(out.includes('🇹🇼 🫧'));
+  // 🧬 is the dna line icon in interface chrome, but stays a character inside prose
+  assert.match(out, /<use href="\/icons\/taiwan.svg#dna"/);
+  assert.ok(
+    renderUiIcons('<div class="prose"><p>🧬 簽名</p></div>').includes(
+      '🧬 簽名',
+    ),
+  );
   assert.match(out, /<use href="\/icons\/taiwan.svg#book"/);
   assert.equal(renderUiIcons(out), out);
 });

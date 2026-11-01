@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T12:07:03+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:58:20.385253+00:00'
 ---
 
 # Xi Murong: Die Symphonie von Steppe und Moderne
@@ -37,13 +37,13 @@ Xi Murong wurde geborn als Mu Lun Xi Lian Bo am 15. Oktober 1943 in Chongqing, J
 
 1954 zog die Familie nach Taiwan, wo Xi Murong ihre Jugend verbrachte. Die natürliche Landschaft und das kulturelle Umfeld Taiwans wurden zur wertvollen Inspirationsquelle für ihre Gedichte. Taiwans Berge, Flüsse, Blumen, Kräuter und die Wechsel der Jahreszeiten wurden zu wiederkehrenden Motiven in ihrer Poesie.
 
-## Studium an der Kunstfakultät der Normalen Universität
+## Studienzeit am Kunstinstitut der NTNU
 
-Nach ihrem Abschluss an der Hochschule trat Xi Murong in die Kunstfakultät der Taiwan Normal University (heute National Taiwan Normal University) ein. Die Ausbildung in der Malerei schärfte ihren Sinn für Farbe und Komposition, Fähigkeiten, die später in ihrer Dichtung deutlich wurden. [^1]
+Nach ihrem Mittelschulabschluss wurde Xi Murong am Kunstinstitut der National Taiwan Normal University aufgenommen. Die Ausbildung in den bildenden Künsten schärfte ihre Sensibilität für Farben und Komposition – künstlerische Kompetenzen, die später in ihr poetisches Schaffen einflossen. [^1]
 
-Während ihrer Studienzeit gewann sie Anerkennung in der Malerei und begann, sich auch literarisch zu engagieren. Sie las umfassend chinesische und ausländische Gedichte. Die Werke der modernen Dichter beeinflussten sie tief, und schrittweise entstand bei ihr eine einzigartige poetische Sprache.
+Während ihrer Zeit an der NTNU erzielte Xi Murong Erfolge in der Malerei und begann zudem mit literarischen Versuchen, wobei sie intensiv chinesische und ausländische Lyrik las. Die Werke moderner Dichter hatten einen tiefgreifenden Einfluss auf sie und halfen ihr dabei, allmählich ihre eigene poetische Sprache zu entwickeln.
 
-1966 absolvierte sie ihr Studium und ging ans Académie Royale des Beaux-Arts in Brüssel, Belgien, um dort weiter zu studieren. Die Museen, Kirchen und antiken Gebäude Europas hinterließen einen bleibenden Eindruck und erweiterten ihren kreativen Horizont. [^2]
+Nach ihrem Abschluss an der NTNU im Jahr 1963 reiste Xi Murong 1964 zur Vertiefung ihrer Studien an die Königliche Akademie der Schönen Künste in Brüssel, Belgien, wo sie 1966 ihren Abschluss machte. Die Museen, Kirchen und historischen Gebäude Europas hinterließen bei ihr einen tiefen Eindruck und erweiterten ihren künstlerischen Horizont. [^2]
 
 ## „Qili Xiang“: Ein spektakulärer Auftritt in der Dichtung
 
@@ -61,19 +61,19 @@ Damit wir uns in dieser Welt begegnen.“
 
 Dieses Gedicht, mit seiner eleganten Stimmung und rührenden Emotion, wird bis heute oft zitiert.
 
-## „Wu Yuan de Qingchun“: Eine poetische Rückschau auf die Jugend
+## 《Wǔyuàn de qīngchūn“ (Unbeschwerter Jugend): Ein poetischer Rückblick auf die Jahre der Jugend
 
-1982 erschien „Wu Yuan de Qingchun“, der den Erfolg von „Qili Xiang“ bewahrte. Der Band konzentrierte sich auf Themen der Jugend, Liebe und Freundschaft und zeigte die Dichterin in ihrer tiefen Reflexion über das Leben. Der Titelgedichtband „Wu Yuan de Qingchun“ drückte die Sehnsucht nach vergangenen Tagen und die Wertschätzung der Jugend aus. [^4]
+Das 1983 veröffentlichte Werk 《Wǔyuàn de qīngchūn“ setzte den Erfolg von 《Qīlǐxiāng“ fort. Dieser Gedichtband konzentriert sich auf Lebensmotive wie Jugend, Liebe und Freundschaft und zeigt die tiefgründigen Einsichten der Dichterin in das Leben. Das Titelgedicht des Bandes, 〈Wǔyuàn de qīngchūn〉, drückt die Sehnsucht nach den vergangenen Jahren und die Bewunderung für die Jugend aus. [^4]
 
-Die Gedichte von Xi Murong beginnen oft mit einem konkreten Bild oder Gegenstand und entwickeln sich dann zu einer tieferen philosophischen Reflexion. Ein weiteres charakteristisches Merkmal von „Wu Yuan de Qingchun“ ist die Musikalität – die Rhythmen sind stark und eignen sich gut zum Vortragen, sodass die Leser die Poesie durch den Klang erfahren können.
+Xi Murongs Gedichte gehen oft von einer konkreten Szene oder einem Objekt aus, entfalten sich schrittweise und erreichen schließlich eine philosophische Ebene. Ein weiteres Merkmal von 《Wǔyuàn de qīngchūn“ ist seine Musikalität – der starke Rhythmus eignet sich hervorragend zum Rezitieren und lässt die Leser die Schönheit der Poesie durch den Klang erleben.
 
-## Prosawerke und die Mongolische Sehnsucht
+## Prosa und die Verbundenheit mit der Mongolei
 
-Neben der Dichtung ist Xi Murong auch eine Prosaautorin. In den späten 1980er Jahren veröffentlichte sie Prosa-Sammlungen wie „Spuren des Wachsens“ und „Ein Lied“, die den klaren Stil ihrer Gedichte bewahrten und von natürlicher Schönheit und aufrichtigen Gefühlen geprägt waren.
+Neben ihrer Lyrik war Xi Murong auch als Prosaistin tätig. In den frühen 1980er Jahren veröffentlichte sie sukzessive Prosasammlungen wie 《Chéngzhǎng de hénjì》 (Spuren des Wachstums, 1982) und 《Yǒu yī shǒu gē》 (Es gibt ein Lied), die ihren frischen poetischen Stil fortsetzten und durch eine schöne Sprache sowie aufrichtige Emotionen bestachen.
 
-1989 besuchte sie erstmals die mongolische Steppe, eine Reise, die tiefgreifende Auswirkungen auf sie hatte. Sie begann, umfangreiche Gedichte und Prosawerke mit mongolischen Themen zu schreiben. Werke wie „Mein Zuhause auf dem Hochplateau“ und „Gebirge und Flüsse warten“ zeigten ihre Verbundenheit zur Steppe und ihr Nachdenken über die Volkskultur. Mit der Form der modernen Dichtung drückte sie ihre Sehnsucht nach der alten Kultur und ihre Identität als Volksgruppe aus. [^5]
+Im Jahr 1989 betrat sie zum ersten Mal die mongolischen Steppen; diese Reise zur Suche nach ihren Wurzeln übte einen enormen Einfluss auf sie aus. Sie begann, in großem Umfang Gedichte und Prosa mit mongolischem Thema zu verfassen. Werke wie 《Wǒ de jiā zài gāoyuán shàng》 (Mein Zuhause liegt auf dem Plateau) und 《Jiāngshān yǒudài》 (Die Landschaft wartet) zeigten ihre tiefe Zuneigung zur Steppe und ihre Reflexionen über die ethnische Kultur. In der Form moderner Lyrik drückte sie die Sehnsucht nach alten Kulturen und die Identifikation mit ihrer kulturellen Herkunft aus. [^5]
 
-Ihr Gedichtband aus dem Jahr 2019, „Ich benenne meine Erinnerung“, ist ein Werk ihrer späteren Jahre, in dem sie im Rückblick ihre Wanderschaft und Suche nach der Heimat mit ruhiger und zurückhaltender Sprache schildert.
+《Wǒ gěi jìyì mìngmíng》 (Ich gebe der Erinnerung einen Namen), das im Jahr 2019 erschienene Gedichtband, ist ein Werk ihres Spätwerks. In hohem Alter blickt sie darin auf ihr Leben voller Umherirren und der Suche nach den eigenen Wurzeln zurück, wobei ihre Sprache noch ruhiger und introvertierter geworden ist.
 
 ## Die perfekte Verbindung von Malerei und Dichtung
 
@@ -93,21 +93,21 @@ Die Verkaufszahlen ihrer Gedichtbände überschreiten eine Million Exemplare und
 
 Im Gegensatz zu [Bai Xianyong] (/de/people/pai-hsien-yung-literary-master/)’s feinsinniger Eleganz und [Long Yingtai] (/de/people/lung-ying-tai/)’s rationaler Kritik, wählte Xi Murong einen sanfteren Weg. In einer schnellen, modernen Welt bot ihre Dichtung Lesern Trost für die Seele. Ihre Werke zeigen auch, wie die feine Wahrnehmung und Perspektive einer Frau berührende Literatur schaffen kann.
 
-## Literaturhinweise
+## Referenzen
 
-[^1]: [Kunstfakultät der Nationalen Taiwan Normalen Universität](https://www.ntnu.edu.tw/art/) — Grundlagen und Alumni-Informationen der Fakultät.
+[^1]: [Fachbereich Kunst der Nationalen Taiwan Normal University](https://www.ntnu.edu.tw/art/) — Hintergrund der Gründung des Fachbereichs Kunst der NTNU und Informationen über Alumni.
 
-[^2]: [Königliche Akademie der Schönen Künste in Brüssel (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Institution, in der Xi Murong studierte, eine nationale Kunstakademie in Belgien.
+[^2]: [Académie Royale des Beaux-Arts (Königliche Akademie der Schönen Künste Brüssel)](https://www.arba-esi.be/) — Die Institution, an der Xi Murong studierte; eine staatliche Kunsthochschule in Belgien.
 
-[^3]: [Nationales Taiwan Literaturhaus — Xi Murong Sonderausstellung](https://www.nmtl.gov.tw/) — Veröffentlichungs- und Auflageinformationen zu „Qili Xiang“, einschließlich Verkaufszahlen und Ausstellungsdaten.
+[^3]: [National Museum of Taiwan Literature — Sonderausstellung Xi Murong](https://www.nmtl.gov.tw/) — Veröffentlichungs- und Neuauflage-Aufzeichnungen von „Qili Xiang“ (Sieben Meilen Jasmin), einschließlich Verkaufsdaten der Gedichtbände und Ausstellungsdaten.
 
-[^4]: [Taiwan E-Book Verband — Xi Murong Werkesseite](https://www.taaze.tw/) — Erstauflage und Veröffentlichungsjahr von „Wu Yuan de Qingchun“.
+[^4]: [Taiwan eBook Alliance — Werkseite von Xi Murong](https://www.taaze.tw/) — Daten zur Erstausgabe und Bestätigung des Veröffentlichungsjahres von „Wuyuan de Qingchun“ (Reuevolle Jugend).
 
-[^5]: [Mongolisch-Chinesisches Kulturhaus — Xi Murong Mongolische Literatur](https://www.mtac.gov.tw/) — Regierungliche Sondervorführungen über die mongolische literatur von Xi Murong.
+[^5]: [Museum für mongolische und tibetische Kultur — Xi Murongs mongolische Literatur](https://www.mtac.gov.tw/) — Thematische Einführung einer Regierungsbehörde über Xi Murongs literarische Werke in mongolischer Sprache.
 
-[^6]: [Offizielle Website von Xi Murong](http://www.ximurong.tw) — Offizielle Website der Dichterin, enthält Werke, Ausstellungsdaten und kreative Chronologie.
+[^6]: [Offizielle Website von Xi Murong](http://www.ximurong.tw) — Die offizielle Website der Dichterin mit Informationen zu ihren Werken, Ausstellungsaufzeichnungen und ihrem schöpferischen Werdegang.
 
-[^7]: [Nationaler Kulturpreis — Stiftung für Kultur und Kunst](https://www.ncafroc.org.tw/) — Preisverleihungen und Jurykommentare für Xi Murong.
+[^7]: [National Arts Award — National Culture and Arts Foundation](https://www.ncafroc.org.tw/) — Auszeichnungen von Xi Murong und Erläuterungen der Jury.
 
 ## Weiterführende Literatur
 

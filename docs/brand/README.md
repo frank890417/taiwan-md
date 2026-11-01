@@ -1,5 +1,42 @@
 # Taiwan.md 品牌規範（Brand Guidelines）
 
+> **v2.2 · 2026-10-23 · 識別系統 v2**（v2.2 改版紀錄在報告 §十四）
+> 完整規範與下載：站上 **[/brand 識別手冊](https://taiwan.md/brand)**。設計研究報告：[reports/design-identity-system-2026-10-22.md](../../reports/design-identity-system-2026-10-22.md)（含字體、範式、台灣色彩三份研究底稿）。
+> 本資料夾＝品牌規範與資產的家。手冊頁不手寫任何幾何與色值，全部由下面這條產線產生。
+
+## v2 一句話
+
+台灣本島從真實高程一行一行掃描成 10 行（行島），其中一行釘在北迴歸線（北緯 23.4365°），整個標誌只有那一行用臺灣青 `#007864`（Pantone 3295 C，文化部臺灣三顏色）。標準字＝Newsreader（光學尺寸 72、字重 500）單一家族，.md 只換顏色；中文副標＝思源黑體 TC 500，字距 0.14 em。
+
+## 產線（改規格只改上游，再重建）
+
+```
+source/terrain/extract-terrain.py   開放高程（Tilezen Terrain Tiles）→ taiwan-rows.json、taiwan-elev-q4.json
+source/mark.mjs                     行島與地形行幾何（唯一的地理來源）
+source/wordmark.py                  標準字外框（HarfBuzz 排字，字距在 SPEC）→ wordmark.json
+tokens.json                         色彩 tokens（兩模式；node ~/Projects/muse-bot/tools/brand-color/tokens-audit.mjs 驗證）
+source/build-identity.mjs           → src/data/brand/identity.json（/brand 讀）＋ public/brand/*（19 個下載檔）
+src/icons/taiwan-icons.mjs          行線圖示 v2.1（98 支；npm run prebuild:icons 產 sprite）
+```
+
+```bash
+uv run --with numpy --with pillow python3 docs/brand/source/terrain/extract-terrain.py   # 只有換資料來源時
+uv run --with fonttools --with uharfbuzz python3 docs/brand/source/wordmark.py        # 改字或字距時
+node docs/brand/source/build-identity.mjs                                               # 其他一切
+```
+
+## 字體與授權
+
+`fonts/` 放標準字用的 OFL 字檔與授權檔（Newsreader opsz 72／wght 500 靜態子集、Noto Sans TC 500 七字子集）。變體原檔太大不進 repo，第一次跑 wordmark.py 會下載到 `source/.cache/`。標準字只用 OFL：justfont 是站上增色層與贊助商，網頁授權只在 taiwan.md 網域，不轉外框做標誌。
+
+## 第二階段（待哲宇拍板）
+
+頁首 BrandMark／favicon／apple-touch-icon／OG 浮水印／頁尾品牌區換行島；全站色彩 token 遷移（連結色 → 臺灣青、墨 → `#13222a`、深綠頁尾 → 黑潮墨、分類彩虹退場）。在那之前，站上仍用 v1 資產（下方）。
+
+---
+
+# 附：v1.0.1（2026-08-25，站上現行）
+
 > v1.0.1 · 2026-08-25（v1.0 同日：dark 改自帶底＋transparent 明名＋xlink:href 相容——起因＝raw 連結白字透明底被讀成破圖）
 > **本資料夾＝品牌相關規範與資產的家。** 規格的程式碼 SSOT 在 `src/components/BrandMark.astro`（網站實際渲染）；本文件把它固定成可交付、可治理的規範。**兩處有衝突時，先修 BrandMark，再重跑生成器同步資產。**
 

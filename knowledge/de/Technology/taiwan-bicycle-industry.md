@@ -114,3 +114,5 @@ Wenn die nächste Welle der grünen Mobilität und intelligenter Transportmittel
 [^9]: [Times Magazine — Nicht nur Giant an der Spitze: Die Nachfolger der Fahrräder reorganisieren Taiwan! Wiederaufbau besiegt chinesische Niedrigpreise](https://www.naipo.com/portals/1/web_tw/knowledge_center/industry_economy/publish-402.htm) — Berichtet über die Transformation der taiwanesischen Fahrradindustrie vom A-Team zum A+Team, die ESG und grüne Lieferketten integriert.
 
 [^10]: [Taiwan Smart E-Bike Association (TSEBA) — Industrielle Dynamik und Nachhaltigkeitsinitiativen](https://www.cw.com.tw/article/5141460) — Untersucht die Entwicklung der taiwanesischen E-Bikes und intelligenten Logistikflotten als Reaktion auf globale ESG-Trends.
+
+[^11]: [Taiwan Electric Smart Bicycle Association (TSEBA) — Branchenentwicklungen und Nachhaltigkeitsinitiativen](https://www.tseba.org.tw/industry_25.html) — Untersucht, wie taiwanische E-Bikes und Smart-Logistik-Flotten auf den globalen ESG-Trend reagieren.

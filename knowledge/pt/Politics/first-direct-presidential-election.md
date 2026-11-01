@@ -3,7 +3,6 @@ title: 'A primeira eleição presidencial direta: quando mísseis se aproximavam
 description: 'Em 1996, Taiwan elegeu seu presidente pelo voto direto dos cidadãos pela primeira vez; a reforma institucional, o Movimento Estudantil Lírio Selvagem e a crise militar no Estreito de Taiwan convergiram na mesma cédula, fazendo a democracia entrar na vida institucional além do dia da votação.'
 date: 2026-08-15
 category: 'Politics'
-subcategory: '選舉制度'
 tags:
   [
     'eleição presidencial direta',
@@ -12,6 +11,7 @@ tags:
     'crise no Estreito de Taiwan',
     'eleição',
   ]
+subcategory: '選舉制度'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
@@ -19,20 +19,20 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Politics/第一次總統直選.md'
-sourceCommitSha: '0cbc25416'
-sourceContentHash: 'sha256:a9a1c953d1f67352'
-sourceBodyHash: 'sha256:7f3db8811cfb9799'
-translatedAt: '2026-09-12T11:18:08+08:00'
+sourceCommitSha: '0939ae849'
+sourceContentHash: 'sha256:3c956f717d68030c'
+sourceBodyHash: 'sha256:086061fa27edc0cb'
+translatedAt: '2026-10-23T15:36:41.927897+00:00'
 ---
 
-Em 23 de março de 1996, Taiwan elegeu pela primeira vez seu presidente e vice-presidente diretamente pelos cidadãos. Naquele dia, 10,76 milhões de pessoas votaram, com uma taxa de comparecimento de 76,04%. Li Teng-hui e Lien Chan obtiveram 54% dos votos.[^1] No mesmo dia, a guarnição de Quemoy permanecia em alerta elevado sob pressão militar da China; as urnas e a crise militar coexistiram na mesma manhã na realidade de Taiwan.[^2]
+Em 23 de março de 1996, Taiwan elegeu seu presidente e vice-presidente diretamente pelos cidadãos pela primeira vez. No dia, um total de 10,88 milhões de pessoas votaram, com uma participação de 76,04%. Lee Teng-hui e Lien Chan obtiveram 54% dos votos. [^1][^13] No mesmo dia, as tropas estacionadas em Kinmen aumentavam o estado de alerta sob a pressão militar da China; urnas de votação e uma crise militar coexistiram na realidade de Taiwan naquela mesma manhã. [^2]
 
-Esta eleição teve quatro chapas presidenciais: a do Kuomintang (KMT) com Li Teng-hui e Lien Chan, a do Partido Democrático Progressista (DPP) com Peng Ming-min e Hsieh Chang-ting, e duas chapas independentes — Lin Yang-kang e Hau Pei-tsun, e Chen Li-an e Wang Ching-feng.[^1] Na superfície, era uma eleição presidencial; olhando mais fundo, foi uma mudança institucional que transferiu "quem tem o direito de decidir o líder do país" da Assembleia Nacional para as mãos do povo.
+Havia quatro duplas de candidatos à presidência nesta eleição: Lee Teng-hui e Lien Chan pelo Kuomintang (KMT); Peng Ming-min e Hsieh Chang-ting pelo Partido Progressista Democrático (DPP); além das duplas de candidatos independentes Lin Yang-gang e Hao Bo-cun, e Chen Lu-an e Wang Ching-feng. [^1] Superficialmente, tratava-se de uma eleição presidencial; em um nível mais profundo, foi uma mudança institucional que transferiu o poder de "quem tem o direito de decidir o líder nacional" do plenário da Assembleia Nacional para as mãos do povo.
 
-![Retrato do presidente Li Teng-hui, servindo como guia visual da figura política na primeira eleição presidencial direta de 1996](https://upload.wikimedia.org/wikipedia/commons/e/ef/President_Lee_teng_hui_%28cropped%29.png)
-_Retrato do presidente Li Teng-hui. Fonte da imagem: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Lee_teng_hui_(cropped).png), autor/fonte: Gabinete da Presidência da República da China; uso permitido conforme anúncio de informações públicas de sites governamentais, apenas recorte e ajuste de dimensão neste artigo.\_
+![Retrato do Presidente Lee Teng-hui, servindo como guia visual da figura política da primeira eleição presidencial direta de 1996](https://upload.wikimedia.org/wikipedia/commons/e/ef/President_Lee_teng_hui_%28cropped%29.png)
+_Retrato do Presidente Lee Teng-hui. Fonte da imagem: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Lee_teng_hui_(cropped).png), Autor/Fonte: Gabinete da Presidência da República da China (Taiwan); uso permitido conforme informações públicas de sites governamentais; o artigo contém apenas cortes e ajustes de tamanho.\_
 
-> **📝 Nota do curador:** As imagens com mais peso da democracia de Taiwan não estão necessariamente nos discursos no palco; às vezes é um pedaço de papel, dobrado e marcado com o voto, que finalmente prova que "o povo" não é mais apenas um substantivo representado.
+> **📝 Nota do Curador:** A imagem mais impactante da democracia em Taiwan nem sempre é um discurso no palco; às vezes, é um pedaço de papel dobrado com um voto marcado, provando finalmente que "o povo" não é mais apenas um substantivo sendo representado.
 
 ## Antes de uma cédula, como o presidente era escolhido
 
@@ -103,25 +103,25 @@ Artigos acadêmicos também tratam a eleição de 1996 como evento político dig
 
 > **📝 Nota do curador:** Mísseis não preenchem a cédula pelo eleitor, mas mudam a pergunta que cada pessoa carrega ao entrar no local de votação: o que voto hoje é um candidato, e também se aceito que outro decida por mim.
 
-## 54%: da vitória à instituição
+## De 54% de vitória a um sistema institucional
 
-Li Teng-hui e Lien Chan obtiveram 5.813.699 votos, 54%; Peng Ming-min e Hsieh Chang-ting obtiveram 2.274.586 votos, 21,11%; Lin Yang-kang e Hau Pei-tsun obtiveram 1.603.790 votos, 14,89%; Chen Li-an e Wang Ching-feng obtiveram 1.074.044 votos, 9,98%. Total de 10,76 milhões de eleitores votaram, taxa de comparecimento 76,04%.[^1]
+Lee Teng-hui e Lien Chan obtiveram 5.813.699 votos, representando 54%; Peng Ming-min e Frank Hsieh obtiveram 2.274.586 votos, representando 21,11%; Lin Yang-gang e Hau Pei-tsun obtiveram 1.603.790 votos, representando 14,89%; Chen Li-an e Wang Ching-feng obtiveram 1.074.044 votos, representando 9,98%. No total, 10,88 milhões de eleitores votaram, com 10,77 milhões de votos válidos, resultando em uma participação de 76,04%. [^1][^13]
 
 ```tw-stat
-76,04% | Taxa de comparecimento | 10,76 milhões de eleitores votaram
-54% | Taxa de votos Li Teng-hui/Lien Chan | 5.813.699 votos
-4 chapas | Combinações de candidatos a presidente e vice | Primeira eleição direta de 1996
-Fonte: Focus Taiwan／Agência Central de Notícias, Comissão Eleitoral Central
+76,04% | Participação eleitoral | 10,88 milhões de eleitores votaram
+54% | Taxa de votos de Lee Teng-hui／Lien Chan | 5.813.699 votos
+4 duplas | Candidatos à Presidência e Vice-Presidência | Primeira eleição direta em 1996
+Fonte: Focus Taiwan／CNA, Comissão Eleitoral Central
 ```
 
-![Gráfico comparativo dos resultados das eleições presidenciais de Taiwan 1996–2024](https://upload.wikimedia.org/wikipedia/commons/3/36/Taiwan_presidential_election_results%2C_1996-2024.png)
-_Gráfico comparativo dos resultados das eleições presidenciais de Taiwan, colocando a primeira eleição direta de 1996 na sequência de longo prazo das eleições presidenciais subsequentes. Autor da imagem Emanuelamianstrolski, fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_presidential_election_results,_1996-2024.png), CC BY-SA 4.0; gráfico usado como dado de fundo, não modificado neste artigo._
+![Comparação dos resultados das eleições presidenciais de Taiwan entre 1996–2024](https://upload.wikimedia.org/wikipedia/commons/3/36/Taiwan_presidential_election_results%2C_1996-2024.png)
+_Gráfico comparativo dos resultados das eleições presidenciais de Taiwan, inserindo a primeira eleição direta de 1996 na sequência de longo prazo das eleições subsequentes. Autor da imagem: Emanuelamianstrolski, fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_presidential_election_results,_1996-2024.png), CC BY-SA 4.0; o gráfico é utilizado como material de referência e não foi modificado neste artigo._
 
-Esses números respondem quem venceu, mas não respondem sozinhos o que a eleição "representa". O New York Times na época descreveu os 54% como forte mandato a Li Teng-hui, e também reportou que parte dos eleitores via a crise militar como sinal político que exigia resposta.[^9] Mas o desenho da pesquisa de eleitores da Academia Sinica mostra que o resultado eleitoral precisa ser compreendido a partir de múltiplas variáveis: avaliação dos candidatos, identificação partidária, posicionamento em questões, mídia e redes sociais.[^6]
+Esses números podem responder quem venceu, mas não respondem por si só ao que a eleição "significa". O _The New York Times_ descreveu os 54% na época como um forte mandato para Lee Teng-hui, e também relatou que parte dos eleitores via a crise militar como um sinal político que exigia uma resposta. [^9] No entanto, o desenho da pesquisa de eleitores da Academia Sinica mostra que o resultado eleitoral precisa ser compreendido por meio de múltiplas variáveis, como a avaliação dos candidatos, identidade partidária, posicionamento em questões específicas, mídia e redes sociais. [^6]
 
-Portanto, a formulação mais cautelosa é: os 54% de 1996 têm simultaneamente duas naturezas. São a proporção de vitória de Li Teng-hui e Lien Chan entre quatro chapas, e são o resultado institucional da primeira vez em que Taiwan decidiu a legitimidade presidencial pelo voto de todo o povo. Esta segunda camada é mais duradoura que a primeira, porque não desaparece com a vitória ou derrota na eleição seguinte.
+Portanto, uma afirmação mais cautelosa seria: os 54% de 1996 possuíam duas naturezas simultâneas. Foram a proporção de vitória de Lee Teng-hui e Lien Chan entre as quatro duplas de candidatos, mas também o resultado institucional da primeira vez que Taiwan utilizou o voto popular para determinar a legitimidade do presidente. O segundo aspecto é mais duradouro que o primeiro, pois não desaparece com o resultado da próxima eleição.
 
-A Comissão Eleitoral Central registra a eleição de 1996 como a primeira eleição direta de presidente e vice-presidente de mandato de quatro anos.[^3] Esse ritmo de quatro anos depois se tornou o sentido de tempo da vida política de Taiwan: candidatos devem voltar ao povo, partidos devem se reorganizar, políticas devem responder ao questionamento das urnas.
+A Comissão Eleitoral Central registrou a eleição de 1996 como a primeira eleição direta para Presidente e Vice-Presidente com mandato de quatro anos. [^3] Esse ritmo de quatro anos tornou-se, posteriormente, a percepção temporal da vida política em Taiwan: os candidatos devem retornar diante do povo, os partidos devem se reorganizar e as políticas devem prestar contas aos votos depositados.
 
 ## A eleição direta deixa a controvérsia para a próxima votação
 
@@ -141,30 +141,32 @@ Da votação por delegados da Assembleia Nacional ao voto direto do povo; da lei
 
 ## Referências
 
-### Licenças e fontes das imagens
+### Licenciamento e Fontes de Imagens
 
-As imagens deste artigo são incorporadas diretamente via URLs originais públicas do Wikimedia Commons, não dependendo de arquivos baixados localmente. Autores, fontes originais e condições de licença estão indicados nas legendas. Ao usar ou modificar, deve-se manter autor/fonte, página do arquivo original e links de licença correspondentes; para imagens CC BY-SA, modificações devem seguir condições de licença iguais ou compatíveis.
+As imagens deste artigo são incorporadas diretamente através das URLs dos arquivos originais públicos do Wikimedia Commons, não dependendo de downloads locais. O autor, a fonte original e as condições de licenciamento estão indicados em cada legenda. Ao usar ou adaptar estas imagens, deve-se preservar o autor/fonte, a página do arquivo original e os links de licença correspondentes; para imagens sob licença CC BY-SA, qualquer adaptação deve cumprir os mesmos termos de licença ou licenças compatíveis.
 
-[^1]: [Focus Taiwan／Agência Central de Notícias, 〈PHOTO ESSAY / Democracy in flashback: Taiwan marks 30 years since first direct presidential election〉](https://focustaiwan.tw/politics/202603235001) — Candidatos, votação, taxa de comparecimento e retrospectiva da cena eleitoral
+[^1]: [Focus Taiwan／CNA, 〈PHOTO ESSAY / Democracy in flashback: Taiwan marks 30 years since first direct presidential election〉](https://focustaiwan.tw/politics/202603235001) — Retrospectiva de candidatos, votos, taxa de participação e do local da eleição
 
-[^2]: [Arquivo Nacional de História, 〈Eleições na história de Taiwan — período democrático — eleição direta do presidente〉](https://exhibition.drnh.gov.tw/front/tw/lobby/election/democratic/unit/5) — Dados oficiais de exposição sobre a eleição direta de 1996 e testes de mísseis
+[^2]: [Instituto de História Nacional, 〈Eleições na História de Taiwan — Período Democrático — Eleição Direta do Presidente〉](https://exhibition.drnh.gov.tw/front/tw/lobby/election/democratic/unit/5) — Dados oficiais de exposição sobre a eleição direta de 1996 e os testes de mísseis
 
-[^3]: [Comissão Eleitoral Central, 〈Election History〉](https://web.cec.gov.tw/english/article/24) — Evolução do sistema eleitoral e registro oficial da eleição de 1996
+[^3]: [Comissão Eleitoral Central, 〈Election History〉](https://web.cec.gov.tw/english/article/24) — Evolução do sistema eleitoral e registros oficiais da eleição de 1996
 
-[^4]: [Museu de Arquivos e Artefatos do Presidente Li Teng-hui do Arquivo Nacional de História, 〈Retrospectiva e inspiração da segunda defesa de reforma democrática do Presidente Li Teng-hui〉](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00071/e5fd7345) — Contexto institucional de emendas constitucionais, reeleição parlamentar e eleição direta
+[^4]: [Museu de Relíquias do Presidente Lee Teng-hui (Instituto de História Nacional), 〈Retrospectiva e Inspiração da Segunda Iniciativa de Reforma Democrática do Presidente Lee Teng-hui〉](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00071/e5fd7345) — Contexto institucional das reformas constitucionais, reeleição do parlamento e eleição direta
 
-[^5]: [Gabinete da Presidência da República da China, 〈Presidente participa do "Seminário dos 30 anos da eleição presidencial direta de Taiwan e resiliência democrática"〉](https://www.president.gov.tw/News/39886) — Rascunho de retrospectiva oficial de 2026 e interpretação política
+[^5]: [Presidência da República da China (Taiwan), 〈Presidente comparece ao "Seminário sobre o 30º Aniversário da Eleição Direta Presidencial de Taiwan e Resiliência Democrática"〉](https://www.president.gov.tw/News/39886) — Texto de retrospectiva oficial e interpretação política de 2026
 
-[^6]: [Centro de Pesquisa de Temas Especiais de Investigação da Academia Sinica, 〈Opinião pública, eleições e a política de massa de Taiwan: estudo dos eleitores da eleição presidencial de Taiwan de 1996〉](https://srda.sinica.edu.tw/search/metadata/detail/D00073) — Desenho de pesquisa e resumo de dados da investigação de eleitores de 1996
+[^6]: [Centro de Pesquisa Temática de Investigação da Academia Sinica, 〈Opinião Pública, Eleições e Política de Massa em Taiwan: Um Estudo sobre os Eleitores Presidenciais de Taiwan em 1996〉](https://srda.sinica.edu.tw/search/metadata/detail/D00073) — Desenho de pesquisa e resumo de dados do estudo sobre eleitores de 1996
 
-[^7]: [National Defense University Press, 〈Averting Escalation and Avoiding War: Lessons from the 1995–1996 Taiwan Strait Crisis〉](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3253814/averting-escalation-and-avoiding-war-lessons-from-the-19951996-taiwan-strait-cr/) — Causas, ações militares e gestão de crise da crise no Estreito de Taiwan de 1995–1996
+[^7]: [National Defense University Press, 〈Averting Escalation and Avoiding War: Lessons from the 1995–1996 Taiwan Strait Crisis〉](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3253814/averting-escalation-and-avoiding-war-lessons-from-the-19951996-taiwan-strait-cr/) — Causas, ações militares e gestão de crise da Crise do Estreito de Taiwan de 1995–1996
 
-[^8]: [Reuters, 〈'Mostly verbal threats': Taiwan residents shrug off China's warnings on Pelosi visit〉](https://www.reuters.com/world/asia-pacific/mostly-verbal-threats-taiwan-residents-shrug-off-chinas-warnings-pelosi-visit-2022-07-28/) — Reportagem de 2022 com retrospectiva sobre mísseis de 1996 e eleição direta
+[^8]: [Reuters, 〈'Mostly verbal threats': Taiwan residents shrug off China's warnings on Pelosi visit〉](https://www.reuters.com/world/asia-pacific/mostly-verbal-threats-taiwan-residents-shrug-off-chinas-warnings-pelosi-visit-2022-07-28/) — Retrospectiva dos mísseis e da eleição direta de 1996 em reportagem de 2022
 
-[^9]: [The New York Times, Patrick E. Tyler, 〈Taiwan's Leader Wins Its Election and a Mandate〉](https://www.nytimes.com/1996/03/24/world/taiwan-s-leader-wins-its-election-and-a-mandate.html) — Resultado eleitoral e análise da época em 24 de março de 1996
+[^9]: [The New York Times, Patrick E. Tyler, 〈Taiwan's Leader Wins Its Election and a Mandate〉](https://www.nytimes.com/1996/03/24/world/taiwan-s-leader-wins-its-election-and-a-mandate.html) — Resultados eleitorais e análise da época de 24 de março de 1996
 
-[^10]: [JSTOR, Thomas J. Bellows, 〈The March 1996 Elections in the Republic of China on Taiwan〉](https://www.jstor.org/stable/44288523) — Página do artigo acadêmico no _American Journal of Chinese Studies_ de 1996
+[^10]: [JSTOR, Thomas J. Bellows, 〈The March 1996 Elections in the Republic of China on Taiwan〉](https://www.jstor.org/stable/44288523) — Página do artigo acadêmico de 1996 no 《American Journal of Chinese Studies》
 
-[^11]: [Foreign Policy Research Institute, Jacques deLisle, 〈Taiwan's Democracy and Lessons from Yet Another Election〉](https://www.fpri.org/article/2005/12/taiwans-democracy-and-lessons-from-yet-another-election/) — Análise sobre eleições após transição democrática de Taiwan e política cross-strait
+[^11]: [Foreign Policy Research Institute, Jacques deLisle, 〈Taiwan’s Democracy and Lessons from Yet Another Election〉](https://www.fpri.org/article/2005/12/taiwans-democracy-and-lessons-from-yet-another-election/) — Análise das eleições e da política entre os dois lados do Estreito após a transição democrática de Taiwan
 
-[^12]: [Reuters, 〈China's war games around Taiwan over the years〉](https://www.reuters.com/world/china/chinas-war-games-around-taiwan-over-years-2025-12-29/) — Retrospectiva de 2025 sobre exercícios militares cross-strait históricos e eleição direta de 1996
+[^12]: [Reuters, 〈China's war games around Taiwan over the years〉](https://www.reuters.com/world/china/chinas-war-games-around-taiwan-over-years-2025-12-29/) — Retrospectiva de 2025 sobre os exercícios militares no Estreito de Taiwan e a eleição direta de 1996
+
+[^13]: [Banco de Dados Eleitoral da Comissão Eleitoral Central, 〈Tabela Geral da 9ª Eleição para Presidente e Vice-Presidente — Nacional〉](https://db.cec.gov.tw/ElecTable/Election/ElecProfiles?dataType=profiles&typeId=ELC&subjectId=P0&legisId=00&themeId=c818e628012243a0ea7eb3c3c3b81565&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000) — Eleitores: 14.313.288; votos apurados: 10.883.279; taxa de participação: 76,04%; total de votos dos quatro grupos de candidatos: 10.766.119

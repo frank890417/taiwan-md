@@ -1,13 +1,13 @@
 ---
-title: 'Sejarah dan Gerakan Normalisasi Nama Masyarakat Adat Taiwan'
-description: 'Pada tahun 1987, seorang pemuda suku Tsou berusia 19 tahun dieksekusi di tempat eksekusi Taipei. Kematiannya memantik api awal gerakan normalisasi nama.'
+title: 'Sejarah dan Gerakan Penamaan Kembali Masyarakat Adat Taiwan'
+description: 'Pada tahun 1987, pemuda suku Tsou berusia 19 tahun, Tang Ying-shen, dieksekusi mati di tempat eksekusi Taipei. Kematiannya menyulut api awal gerakan penamaan kembali masyarakat adat Taiwan. Dari pembentukan Dewan Hak Masyarakat Adat pada tahun 1984, penggulingan patung Wu Feng pada tahun 1988 dan pawai "Kembalikan Tanah Kami", hingga perubahan istilah "Shanbao" menjadi "Masyarakat Adat" dalam konstitusi pada tahun 1994, serta penambahan kata "Suku" dalam Undang-Undang Dasar Masyarakat Adat pada tahun 2005, perjalanan ini memakan waktu 21 tahun. Istilah ''orang yang dinaturalisasi'' dan ''orang liar'' dari era Belanda, ''suku beradab'' dan ''suku liar'' dari era Dinasti Qing, kebijakan ''peradaban suku'' dari era penjajahan Jepang, serta istilah ''Shanbao'' pasca-perang; setiap nama adalah sebuah kunci. Tiga istilah pertama adalah pemberian nama oleh orang lain, sedangkan dua istilah terakhir adalah hasil perjuangan untuk merebut kembali identitas diri sendiri.'
 date: 2026-03-29
 category: 'History'
 tags:
   [
     'Masyarakat Adat',
-    'Gerakan Normalisasi Nama',
-    'Identitas Diri',
+    'Gerakan Penamaan Kembali',
+    'Identitas',
     'Gerakan Sosial',
     'Pelestarian Budaya',
   ]
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-07-29T19:47:16+08:00'
+translatedAt: '2026-10-21T02:14:04.399951+00:00'
 ---
 
 # Sejarah dan Gerakan Normalisasi Nama Masyarakat Adat Taiwan

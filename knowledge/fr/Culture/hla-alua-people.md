@@ -1,15 +1,15 @@
 ---
-title: "Les Hla'alua : De « Zou du Sud » à leur propre nom, ce que préserve le rituel du Saint Coquillage"
-description: "Le 26 juin 2014, les Hla'alua sont devenus le 15e groupe ethnique autochtone officiellement reconnu à Taïwan. Il ne s'agit pas de rompre avec les Zou, mais de rendre à ceux qui l'utilisent un nom autrefois fusionné, au cœur des Quatre Communautés de Taoyuan, du rituel du Saint Coquillage et d'une langue menacée."
+title: "Le peuple Hla'alua : des « Tsou du Sud » à leur propre nom, que préserve le Miatungusu ?"
+description: "Le 26 juin 2014, le peuple Hla'alua est devenu le 15e peuple autochtone officiellement reconnu à Taiwan. Ce n'est pas une rupture avec les Tsou, mais au sein des quatre communautés de Taoyuan, du Miatungusu et de la langue menacée, qu'un nom autrefois fusionné a été restitué à ceux qui l'utilisent."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
     "Hla'alua",
     "Hla'alua",
-    'Saint Coquillage',
-    'Groupes ethniques autochtones',
-    'Revitalisation des langues',
+    'Miatungusu',
+    'Peuples autochtones',
+    'Revitalisation de la langue autochtone',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-11T16:52:21+08:00'
+translatedAt: '2026-10-21T02:05:59.918058+00:00'
 ---
 
 > **En 30 secondes :** Le 26 juin 2014, les Hla'alua et les Kanakanavu ont été officiellement reconnus, devenant les 15e et 16e groupes ethniques autochtones de Taïwan. L'histoire des Hla'alua dépasse la simple « séparation ethnique » administrative : elle implique les Quatre Communautés de Taoyuan, le rituel du Saint Coquillage centré sur les coquillages, et une langue qui perd progressivement son espace d'usage quotidien, prise en étau entre le babuza, le mandarin et le système éducatif. La véritable quête de reconnaissance est de permettre aux membres de raconter leur propre histoire avec leur propre nom.
@@ -91,20 +91,20 @@ Lors de la prochaine cérémonie du Saint Coquillage, le chef de cérémonie ser
 
 ## Références
 
-[^1]: [Les Hla'alua | Conseil des Autochtones](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Présentation officielle du groupe ethnique, répartition des quatre communautés, rituel du Saint Coquillage, données sur l'artisanat et l'organisation sociale.
+[^1]: [Peuple La'aluwa | Conseil des peuples autochtones](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Présentation officielle du groupe ethnique, distribution des quatre communautés, festival Miatungusu, artisanat et informations sur l'organisation sociale.
 
-[^2]: [« Séparer » est une reconnexion émotionnelle | Documents des ethnies autochtones](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Enregistre la reconnaissance de 2014, la réunion publique de 2012, ainsi que les relations et les revendications entre les Hla'alua et les Zou.
+[^2]: [« Fen » : la reconnexion émotionnelle | Documentation des peuples autochtones](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Enregistre la rectification de nom de 2014, l'audience publique de 2012, ainsi que les relations et revendications entre les La'aluwa et les Tsou.
 
-[^3]: [Le nombre de groupes ethniques Hla'alua et Kananakanavu passe à 16 | PTS News](https://news.pts.org.tw/article/272343) — Reconnaissance officielle de 2014, les deux groupes devenant les 15e et 16e, et reportages sur la reconnaissance et la préservation culturelle et linguistique.
+[^3]: [« La'aluwa » et « Kanakanavu » : les peuples autochtones passent à 16 | PTS News](https://news.pts.org.tw/article/272343) — Approbation de la rectification de nom en 2014, les deux groupes devenant les 15e et 16e peuples, et reportages sur la rectification de nom et la préservation de la culture et de la langue.
 
-[^4]: [Marketing culturel - Magie du Saint Coquillage : Le Dieu des Coquillages des Hla'alua | Bureau de la culture de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Présentation de la publication culturelle locale sur le processus contemporain du rituel du Saint Coquillage, l'offrande de vin et le lancer de coquille pour la fortune.
+[^4]: [Marketing culturel – Le Miatungusu magique : le dieu coquillage des La'aluwa | Bureau de la culture de la ville de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publication culturelle locale présentant le déroulement contemporain du festival Miatungusu, l'offrande de vin au dieu coquillage et le lancer de coquillages pour la chance.
 
-[^5]: [Voyage d'apprentissage culturel du rituel du Saint Coquillage Hla'alua 2025 | Université nationale Kaohsiung Normal](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Lieux et descriptions des activités du voyage d'apprentissage culturel de 2025.
+[^5]: [Voyage d'apprentissage culturel du festival Miatungusu 2025 des La'aluwa | Université normale nationale de Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Description des lieux et activités de l'apprentissage culturel rituel de 2025.
 
-[^6]: [Perte et revitalisation de la langue Hla'alua | Documents des ethnies autochtones](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Généalogie linguistique, entretiens de terrain, causes de la perte linguistique et idées de revitalisation.
+[^6]: [Perte et revitalisation de la langue La'aluwa | Documentation des peuples autochtones](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Généalogie linguistique, entretiens de terrain, causes de la perte de la langue et propositions de revitalisation.
 
-[^7]: [Partage des résultats du colloque sur la construction du système de connaissances des 2 groupes favorisant l'échange | Taiwan News](https://news.ipcf.org.tw/136202) — Reportage de 2024 sur la recherche des connaissances des deux groupes, la phonologie Hla'alua et la construction du dictionnaire des connaissances.
+[^7]: [Colloque sur la construction des systèmes de connaissances des deux peuples : partage des résultats pour favoriser les échanges | Indigenous Television News](https://news.ipcf.org.tw/136202) — Reportage sur la recherche sur les connaissances des deux peuples en 2024, la phonologie La'aluwa et la construction d'un dictionnaire des connaissances.
 
-[^8]: [Les Hla'alua Hla'alua | Bibliothèque nationale du patrimoine culturel](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Répartition du groupe ethnique, les quatre communautés, la reconnaissance de 2014 et l'entrée de mémoire culturelle du rituel du Saint Coquillage.
+[^8]: [Peuple La'aluwa Hla'alua | Banque nationale de la mémoire culturelle](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Distribution du groupe ethnique, quatre communautés, rectification de nom de 2014 et entrée de mémoire culturelle sur le festival Miatungusu.
 
-[^9]: [Les Hla'alua | Centre de développement de la culture des ethnies autochtones](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Point d'entrée de la présentation des Hla'alua dans le parc culturel des ethnies autochtones.
+[^9]: [Peuple La'aluwa | Centre de développement de la culture des peuples autochtones](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Portail d'introduction aux La'aluwa au parc culturel des peuples autochtones.

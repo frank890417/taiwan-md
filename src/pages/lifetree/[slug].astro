@@ -193,10 +193,11 @@ const pageDescription = `RPG 式人生決策視覺化：${tree.nodes.length} 個
 </Layout>
 
 <style>
+  /* 表頭讓位由 Layout 的 #main-content 統一處理（global.css，讀 --header-h），
+     這裡不再自己留 5rem，否則表頭底下會多一條空白 */
   .lifetree-page {
     min-height: 100vh;
     background: #f8f1e9;
-    padding-top: 5rem;
   }
 
   .lifetree-page__hero {

@@ -13,6 +13,7 @@ const t = useTranslations(lang);
 
 const counties22Data = lang === 'ko' ? counties22Ko : counties22Zh;
 const routesData = getMapRoutes(t, lang);
+import { iconizeText } from '../icons/taiwan-icons.mjs';
 ---
 
 <Layout
@@ -121,7 +122,7 @@ const routesData = getMapRoutes(t, lang);
       <div class="route-bar-inner">
         <div class="route-pills" id="routeButtons">
           <button class="route-pill active" data-route="none"
-            ><span class="route-pill-emoji">⚪</span><span
+            ><span class="route-pill-emoji">🗺️</span><span
               class="route-pill-label">{t('map.route.normal-mode')}</span
             ></button
           >
@@ -1303,24 +1304,24 @@ const routesData = getMapRoutes(t, lang);
     i18n_moreArticles: t('map.sidebar.more-articles'),
     i18n_moreArticlesSuffix: t('map.sidebar.more-articles-suffix'),
     i18n_articlesCount: t('map.sidebar.county.articles-count'),
-    i18n_counties22Title: t('map.counties22.panel.title'),
+    i18n_counties22Title: iconizeText(t('map.counties22.panel.title')),
     i18n_counties22Hint: t('map.counties22.panel.hint'),
     i18n_counties22OpenDeep: t('map.counties22.tooltip.openDeep'),
     i18n_counties22Badge: t('map.counties22.deepCard.badge'),
     i18n_counties22Cta: t('map.counties22.deepCard.cta'),
     categoryNames: {
-      history: t('map.category.history'),
-      geography: t('map.category.geography'),
-      culture: t('map.category.culture'),
-      food: t('map.category.food'),
-      art: t('map.category.art'),
-      music: t('map.category.music'),
-      technology: t('map.category.technology'),
-      nature: t('map.category.nature'),
-      people: t('map.category.people'),
-      society: t('map.category.society'),
-      economy: t('map.category.economy'),
-      lifestyle: t('map.category.lifestyle'),
+      history: iconizeText(t('map.category.history')),
+      geography: iconizeText(t('map.category.geography')),
+      culture: iconizeText(t('map.category.culture')),
+      food: iconizeText(t('map.category.food')),
+      art: iconizeText(t('map.category.art')),
+      music: iconizeText(t('map.category.music')),
+      technology: iconizeText(t('map.category.technology')),
+      nature: iconizeText(t('map.category.nature')),
+      people: iconizeText(t('map.category.people')),
+      society: iconizeText(t('map.category.society')),
+      economy: iconizeText(t('map.category.economy')),
+      lifestyle: iconizeText(t('map.category.lifestyle')),
     },
   }}
 >
@@ -1485,8 +1486,9 @@ const routesData = getMapRoutes(t, lang);
           tooltip.querySelector('.tooltip-title').textContent = countyName;
           if (deepArticle) {
             // 22 縣市深度文章：顯示核心矛盾
-            tooltip.querySelector('.tooltip-category').textContent =
-              '📖 ' + deepArticle.core_contradiction;
+            const tooltipCat = tooltip.querySelector('.tooltip-category');
+            tooltipCat.innerHTML = window.twmdIcon('book') + ' ';
+            tooltipCat.append(deepArticle.core_contradiction);
             tooltip.querySelector('.tooltip-desc').textContent =
               `${markerCount} ${i18n_tooltipArticles} · ${i18n_counties22OpenDeep}`;
           } else {
@@ -1603,7 +1605,7 @@ const routesData = getMapRoutes(t, lang);
       const desc = marker.getAttribute('data-desc');
 
       markerTooltip.querySelector('.tooltip-title').textContent = title;
-      markerTooltip.querySelector('.tooltip-meta').textContent =
+      markerTooltip.querySelector('.tooltip-meta').innerHTML =
         `${categoryNames[category] || category} · ${Math.ceil(desc.length / 100)}${i18n_readingTime}`;
       markerTooltip.querySelector('.tooltip-desc').textContent =
         desc.substring(0, 80) + (desc.length > 80 ? '...' : '');
@@ -1948,7 +1950,7 @@ const routesData = getMapRoutes(t, lang);
       marker.getAttribute('data-link');
 
     const categoryEl = document.getElementById('articleCategory');
-    categoryEl.textContent = categoryNames[category];
+    categoryEl.innerHTML = categoryNames[category];
     categoryEl.style.background =
       (categoryColors[category] || '#16a34a') + '20';
     categoryEl.style.color = categoryColors[category] || '#16a34a';
@@ -2427,28 +2429,25 @@ const routesData = getMapRoutes(t, lang);
 
   function initRoutes() {
     const container = document.getElementById('routeButtons');
-    // emoji 預先從 route.name 取出（route name 開頭通常是 emoji），否則 fallback
-    const ROUTE_EMOJI_FALLBACK = {
-      counties22: '📍',
-      nightMarkets: '🍜',
-      nationalParks: '🏔️',
-      historyTrail: '📜',
-      oldStreets: '🏮',
+    // 路線按鈕用行線圖示（route.name 開頭的 emoji 只拿來切掉，不再顯示彩色 emoji）
+    const ROUTE_ICON = {
+      counties22: 'pin',
+      nightMarkets: 'bowl',
+      nationalParks: 'mountain',
+      historyTrail: 'scroll',
+      oldStreets: 'lantern',
     };
     routesData.forEach((route) => {
       const btn = document.createElement('button');
       btn.className = 'route-pill';
       btn.dataset.route = route.id;
       btn.style.setProperty('--route-color', route.color);
-      // 拆 emoji 跟 label
       const match = route.name.match(/^(\p{Emoji}+\s*)(.*)$/u);
-      const emoji = match
-        ? match[1].trim()
-        : ROUTE_EMOJI_FALLBACK[route.id] || '📌';
+      const icon = window.twmdIcon(ROUTE_ICON[route.id] || 'pin');
       const label = match ? match[2].trim() : route.name;
       const stopCount = route.stops?.length || 0;
       btn.innerHTML =
-        `<span class="route-pill-emoji">${emoji}</span>` +
+        `<span class="route-pill-emoji">${icon}</span>` +
         `<span class="route-pill-label">${label}</span>` +
         (stopCount > 0
           ? `<span class="route-pill-count">${stopCount}</span>`

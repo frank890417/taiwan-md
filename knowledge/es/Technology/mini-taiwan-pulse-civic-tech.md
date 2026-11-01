@@ -1,6 +1,6 @@
 ---
-title: 'Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira'
-description: 'En 2026, el analista de datos Migu superpone datos abiertos dispersos de Taiwán —aviones, barcos, trenes, autobuses, camiones de basura— en un mapa que respira. La tarea ardua de extraer datos se la deja a la IA, pero qué capas superponer, qué colores usar y qué capa iluminar depende de una mirada curatorial formada en planificación urbana.'
+title: 'Mini Taiwan Pulse: Con ojos de curador, dibujando a Taiwán como un mapa que respira'
+description: 'En 2026, el analista de datos Migu arrastró un archivo CSV a Kepler.gl y la primera vez que apareció un mapa de Taiwán en su pantalla fue así. Dos años después, el popular proyecto mini-taiwan-pulse ha acumulado 375 estrellas en GitHub, superponiendo cinco tipos de datos en tiempo real —cielo, océano, tierra, calles y gestión de residuos— para crear un mapa dinámico. Con más de 50,000 registros del gobierno central y datos abiertos de más de veinte condados y ciudades, el cerebro humano no puede procesarlo todo; su solución no fue contratar a más personas, sino delegar la tarea a un sistema que crece por sí mismo, orquestado por agentes de IA, donde el humano solo se encarga de plantear las preguntas y validar los resultados. Desde una visión curatorial entrenada en planificación urbana hasta un pipeline de detección de incendios que se ejecuta solo en tmux, ¿cómo es que el GitHub de una sola persona llegó a convertirse en toda una galaxia?'
 date: 2026-04-19
 category: 'Technology'
 tags:
@@ -14,7 +14,7 @@ tags:
     'Three.js',
     'Inteligencia artificial',
     'Agente de IA',
-    'SIG',
+    'GIS',
   ]
 subcategory: '公民科技'
 author: 'Taiwan.md'
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T08:37:08.659794+00:00'
+translatedAt: '2026-10-21T00:59:06.949563+00:00'
 ---
 
 # Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira

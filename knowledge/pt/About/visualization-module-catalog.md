@@ -21,10 +21,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-07-31T22:46:19+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:39:24.604499+00:00'
 ---
 
 # Catálogo de Módulos de Visualização: Dezenove Maneiras de Ver os Dados de Taiwan
@@ -43,8 +43,8 @@ O mais simples e mais potente: colocar um número dramático no tamanho máximo,
 
 ```tw-figure
 67 mil → 870 mil / ping
-Preço de venda estocado do Sucesso Guózhái de Taipé em 1985, ao preço médio de corretoras em 2026 — o mesmo endereço, cerca de 13 vezes mais
-Plataforma de corretoras de Registro de Preços Reais (Sucesso Guózhái)
+Preço de venda estocado da Chenggong Habitação Nacional de Taipé em 1985, ao preço médio de corretoras em 2026 — o mesmo endereço, cerca de 13 vezes mais
+Plataforma de corretoras de Registro de Preços Reais (Chenggong Habitação Nacional)
 ```
 
 ## Grupo de dados tw-stat
@@ -115,7 +115,7 @@ Quando uma frase sozinha carrega a tensão central do artigo, amplie-a num cart�
 
 ```tw-quote
 Uma casa de 30 milhões no preço de mercado vira casa de 60 a 70 milhões... roubar dos pobres para dar aos ricos, o Estado gasta dinheiro ajudando gente rica a reconstruir casa
-Lin Chih-chun | Advogado, 2025, criticando proposta "Estado financia renovação urbana do Sucesso Guózhái"
+Lin Chih-chun | Advogado, 2025, criticando proposta "Estado financia renovação urbana da Chenggong Habitação Nacional"
 ```
 
 ## Chip de fonte tw-source
@@ -182,18 +182,18 @@ Fonte: Plataforma de Informação Imobiliária do Ministério do Interior
 
 ## Gráfico de pontos tw-dot
 
-Barra compara "quanto", ponto olha "distribuição": todos os pontos caem na mesma régua; você vê quem está amontoado, quem é outlier. Uma valor por linha = faixa de pontos (dot strip); dois valores = intervalo "daqui até ali"; três valores (`ponto estimado | limite inferior | limite superior`) = estilo pesquisa "ponto estimado + faixa de incerteza". Margem de erro ±3% não deve ser engolida; é a honestidade que mais falha em ano eleitoral. `*` também destaca.
+Gráficos de barras comparam "quantidade", gráficos de pontos mostram "distribuição": todos os pontos caem na mesma escala, você vê quem está agrupado, quem são os valores atípicos. Uma coluna com um valor é um dot strip; com dois valores desenha-se um intervalo "daqui até ali"; com três valores (`estimativa pontual | limite inferior | limite superior`) desenha-se ao estilo de pesquisas de opinião "estimativa pontual + faixa de incerteza". A margem de erro de ±3% não deve ser ignorada — esta é a honestidade que mais falha em anos eleitorais. `*` também pode ser usado para enfatizar.
 
 ```tw-dot
-Duas pontas da taxa de envelhecimento: do condado/cidade mais jovem ao mais velho (% população ≥ 65 anos)
-Condado de Hsinchu | 15,08 | Mais jovem de Taiwan
-Taoyuan | 16,72
-Taichung | 17,40
-Novo Taipé | 19,95
-Tainan | 20,48
-Kaohsiung | 20,79
-*Condado de Chiayi | 24,11 | Mais velho de Taiwan
-*Taipé | 24,18 | Mais velho entre as seis cidades especiais
+Os dois extremos da taxa de envelhecimento: dos condados/cidades mais jovens aos mais velhos (proporção de 65 anos ou mais, %)
+Hsinchu County | 15.08 | O mais jovem de Taiwan
+Taoyuan | 16.72
+Taichung | 17.40
+New Taipei | 19.95
+Tainan | 20.48
+Kaohsiung | 20.79
+*Chiayi County | 24.11 | Índice de envelhecimento mais alto de Taiwan
+*Taipei | 24.18 | O mais alto de Taiwan
 Fonte: Departamento de Administração Doméstica do Ministério do Interior, final de 2025
 ```
 

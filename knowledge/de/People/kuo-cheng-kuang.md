@@ -26,7 +26,7 @@ translatedAt: '2026-09-11T07:09:36+08:00'
 
 # Mike Kuo (Guo Zheng-guang)
 
-## 30 秒概覽
+## 30-Sekunden-Überblick
 
 Mike Kuo (郭正光, 1949—), geboren in Hsinchu, Taiwan, Abschluss an der Secondairy School of Jianguo, Abschluss in Agrarwissenschaften an der National University of Taiwan, Doktortitel an der Texas A&M University. Er ist ein seniorer Wissenschaftler am Johnson Space Center der NASA, wo er seit 1980 mehr als 45 Jahre arbeitet und sich auf die Überwachung der Kabinenumgebung, die Reinigung von Luft und Wasser sowie die Erforschung von Weltraumnahrung spezialisiert hat.[^1] Neben seinen wissenschaftlichen Errungenschaften war er auch ein wichtiges Mitglied der taiwanesischen Demewegbewegung im Ausland und wurde wegen seiner Teilnahme an der Taiwan Independence Alliance auf eine schwarze Liste gesetzt, sogar mit dem Vorwurf eines Terroristen.[^2]
 

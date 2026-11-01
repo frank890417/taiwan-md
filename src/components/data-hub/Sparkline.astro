@@ -1,0 +1,73 @@
+---
+/**
+ * Sparkline.astro — 指標卡裡的迷你折線（inline SVG，build 時算好）。
+ * 圖本身 aria-hidden；數列另外輸出成視覺隱藏的表格（tw-sr-only），
+ * 螢幕閱讀器與 AI 爬蟲讀得到每一年的值（graph.md §六：數據進 DOM）。
+ */
+import { sparkPath } from '../../utils/data-hub';
+
+interface Props {
+  series: [number, number][];
+  caption: string;
+  formatValue: (v: number) => string;
+  yearLabel: string;
+  valueLabel: string;
+  /** 分類色（CSS color） */
+  color?: string;
+}
+
+const { series, caption, formatValue, yearLabel, valueLabel, color } =
+  Astro.props;
+const W = 132;
+const H = 34;
+const sp = sparkPath(series, W, H);
+const first = series[0];
+const last = series[series.length - 1];
+---
+
+{
+  sp && (
+    <figure
+      class="dh-spark"
+      style={color ? `--dh-spark-c:${color}` : undefined}
+    >
+      <svg
+        viewBox={`0 0 ${W} ${H}`}
+        width={W}
+        height={H}
+        aria-hidden="true"
+        focusable="false"
+      >
+        <path d={sp.d} class="dh-spark-line" />
+        <circle
+          cx={sp.first[0]}
+          cy={sp.first[1]}
+          r="2"
+          class="dh-spark-dot is-first"
+        />
+        <circle cx={sp.last[0]} cy={sp.last[1]} r="2.6" class="dh-spark-dot" />
+      </svg>
+      <figcaption class="dh-spark-cap">
+        <span>{first[0]}</span>
+        <span>{last[0]}</span>
+      </figcaption>
+      <table class="tw-sr-only">
+        <caption>{caption}</caption>
+        <thead>
+          <tr>
+            <th scope="col">{yearLabel}</th>
+            <th scope="col">{valueLabel}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {series.map(([y, v]) => (
+            <tr>
+              <th scope="row">{y}</th>
+              <td>{formatValue(v)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </figure>
+  )
+}

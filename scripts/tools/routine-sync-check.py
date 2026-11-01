@@ -34,6 +34,11 @@ v3 live layer（2026-07-05 五病根治，dna-audit §S1 根治）:
                              SSOT 還列實驗中的 v2.9 重演就是這型)
       ✗ live_cron_drift     (SSOT cron 欄 vs live cronExpression)
       ✗ live_orphan         (live 有 twmd task 但 SSOT 沒列)
+      ✗ live 缺席（<no live task>）另列收件人（2026-10-25 self-evolve）：排程註冊
+        走 create_scheduled_task，那是人工核准閘，排程 session 一律被擋（10-24
+        routine-sync、10-25 weekly-report 兩次獨立探測）。跟 enabled／cron 漂移
+        混在同一張表時，讀表的 routine 會把它寫成自己的交接，一路傳給動不了它的席位
+        （OBSERVER-QUEUE #116）。現在印成「只有哲宇按得到」並附佇列編號。
       ⚠ live_desc_time_drift (live description 內寫的 HH:MM ≠ cron 時間
                              — rewrite-daily description「18:00」vs cron 19:00)
       ⚠ live dump stale > 48h / missing (dump 沒在跟著 data-refresh 更新)
@@ -65,6 +70,8 @@ LIVE_STATE = REPO_ROOT / "docs" / "semiont" / "routine-live-state.json"
 DEFAULT_WARN_LINES = 30
 DEFAULT_HARD_LINES = 50
 LIVE_DUMP_STALE_HOURS = 48
+
+OBSERVER_QUEUE = REPO_ROOT / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 
 # SSOT taskId → 實際 mirror dir / live taskId（歷史命名差異）
 ALIASES = {
@@ -110,6 +117,21 @@ def desc_time_mismatch(description, cron):
     if cron_time in norm:
         return None
     return sorted(norm), cron_time
+
+
+def queue_refs(task_id, queue_path=None):
+    """OBSERVER-QUEUE §待決 裡提到這條 routine 的列號。只讀 §待決，§已決 的舊列不算。"""
+    path = queue_path or OBSERVER_QUEUE
+    if not path.exists():
+        return []
+    text = path.read_text(encoding="utf-8")
+    m = re.search(r"^## 待決\s*$(.*?)^## ", text, re.M | re.S)
+    body = m.group(1) if m else ""
+    return [
+        int(row.group(1))
+        for row in re.finditer(r"^\|\s*(\d+)\s*\|.*$", body, re.M)
+        if task_id in row.group(0)
+    ]
 
 
 def parse_routine_table(ssot_path):
@@ -358,7 +380,13 @@ def audit(warn_lines, hard_lines):
             live = live_tasks.get(task_id) or live_tasks.get(ALIASES.get(task_id, ""))
             if live is None:
                 results["live_enabled_drift"].append(
-                    {"task_id": task_id, "ssot": meta["cadence"], "live": "<no live task>"}
+                    {
+                        "task_id": task_id,
+                        "ssot": meta["cadence"],
+                        "live": "<no live task>",
+                        "fixer": "observer",
+                        "queue": queue_refs(task_id),
+                    }
                 )
                 continue
 
@@ -480,13 +508,24 @@ def print_human(results, exit_code):
         ("live_cron_drift", "LIVE_CRON_DRIFT — SSOT cron vs live cronExpression"),
         ("live_orphan", "LIVE_ORPHAN — live 有 twmd task 但 SSOT 沒列"),
     ]:
-        rows = results.get(key, [])
+        rows = [r for r in results.get(key, []) if r.get("fixer") != "observer"]
         if rows:
             print(f"❌ {label} ({len(rows)}):")
             for r in rows:
                 detail = " ".join(f"{k}='{v}'" for k, v in r.items() if k != "task_id")
                 print(f"   {r['task_id']:32s} {detail}")
+            print("   → session 修得動：照 SSOT 改 live（update_scheduled_task）；被核准閘擋下就轉 OBSERVER-QUEUE")
             print()
+
+    absent = [r for r in results.get("live_enabled_drift", []) if r.get("fixer") == "observer"]
+    if absent:
+        print(f"❌ LIVE_ABSENT ({len(absent)}) — SSOT 有但排程器沒註冊，只有哲宇按得到:")
+        for r in absent:
+            q = "、".join(f"#{n}" for n in r.get("queue", []))
+            where = f"已在 OBSERVER-QUEUE {q}" if q else "⚠️ 還沒進 OBSERVER-QUEUE §待決——先寫一列再交接"
+            print(f"   {r['task_id']:32s} ssot='{r['ssot']}'  {where}")
+        print("   → 建排程是人工核准閘，排程 session 一律被擋；不要寫成任何 routine 席位的交接")
+        print()
 
     if results.get("live_desc_time_drift"):
         print(f"🟡 LIVE_DESC_TIME_DRIFT ({len(results['live_desc_time_drift'])}) — live description 內的時間字樣 ≠ 實際 cron（warn，不影響 exit）:")

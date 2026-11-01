@@ -37,15 +37,25 @@ const t = useTranslations(lang);
 const translatePath = useTranslatedPath(lang);
 const zh = lang === 'zh-TW';
 const L = zh ? 'zh' : 'en';
-const pick = (o: any) => (o && typeof o === 'object' && (o.zh || o.en) ? o[L] ?? o.en ?? o.zh : o);
+const pick = (o: any) =>
+  o && typeof o === 'object' && (o.zh || o.en) ? (o[L] ?? o.en ?? o.zh) : o;
 
 // ── 年度序列 ─────────────────────────────────────────────────────────
+// years 含最後一年的預算案（116 年度＝2027，尚未三讀，legal／final 為 null）；
+// settled＝已有法定預算數的年度（105–115），英雄區、占比斜率、部會排名、刪減圖都以它為準，
+// 只有「預算案」口徑的圖（十年河流、政事別堆疊）才畫到預算案那一年，且圖上標明 basis。
 const years = ly.years;
+const settled = years.filter((y) => y.legal != null);
 const ce = years.map((y) => y.ce);
+const ceSettled = settled.map((y) => y.ce);
 const fyOf = (c: number) => String(c - 1911);
-const latest = years[years.length - 1];
+const latest = settled[settled.length - 1];
 const first = years[0];
-const growth = latest.legal && first.legal ? ((latest.legal - first.legal) / first.legal) * 100 : null;
+const fy116 = (ly as any).fy116;
+const growth =
+  latest.legal && first.legal
+    ? ((latest.legal - first.legal) / first.legal) * 100
+    : null;
 const eras = ly.eras.map((e) => ({
   from: e.from,
   to: e.to,
@@ -53,7 +63,12 @@ const eras = ly.eras.map((e) => ({
   short: pick(e.ly),
   cls: e.cls,
 }));
-const erasShort = ly.eras.map((e) => ({ from: e.from, to: e.to, label: pick(e.ly), cls: e.cls }));
+const erasShort = ly.eras.map((e) => ({
+  from: e.from,
+  to: e.to,
+  label: pick(e.ly),
+  cls: e.cls,
+}));
 
 // ── 政事別 ───────────────────────────────────────────────────────────
 const fnCats = ly.functions.map((f, i) => ({
@@ -61,14 +76,25 @@ const fnCats = ly.functions.map((f, i) => ({
   label: pick(f),
   cls: i < 8 ? `bg-cat-${i}` : 'bg-cat-other',
 }));
-const fnValues = ly.functions.map((f) => ce.map((c) => (ly.functionsByYear as any)[fyOf(c)]?.[f.id] ?? 0));
+const fnValues = ly.functions.map((f) =>
+  ce.map((c) => (ly.functionsByYear as any)[fyOf(c)]?.[f.id] ?? 0),
+);
 // 政事別占比 105 → 115（slope）：share = v / Σ 同年九類；強調社福／國防／教科文
-const fnTotalOf = (fy: string) => Object.values((ly.functionsByYear as any)[fy] as Record<string, number>).reduce((a, b) => a + b, 0);
+const fnTotalOf = (fy: string) =>
+  Object.values(
+    (ly.functionsByYear as any)[fy] as Record<string, number>,
+  ).reduce((a, b) => a + b, 0);
 const fnSlopeRows = ly.functions.map((f, i) => ({
   id: f.id,
   label: pick(f),
-  left: (((ly.functionsByYear as any)[fyOf(first.ce)][f.id] ?? 0) / fnTotalOf(fyOf(first.ce))) * 100,
-  right: (((ly.functionsByYear as any)[fyOf(latest.ce)][f.id] ?? 0) / fnTotalOf(fyOf(latest.ce))) * 100,
+  left:
+    (((ly.functionsByYear as any)[fyOf(first.ce)][f.id] ?? 0) /
+      fnTotalOf(fyOf(first.ce))) *
+    100,
+  right:
+    (((ly.functionsByYear as any)[fyOf(latest.ce)][f.id] ?? 0) /
+      fnTotalOf(fyOf(latest.ce))) *
+    100,
   cls: i < 8 ? `bg-cat-${i}` : 'bg-cat-other',
   highlight: ['welfare', 'defense', 'edu'].includes(f.id),
 }));
@@ -78,11 +104,18 @@ const fnGrowthRows = ly.functions
   .map((f) => {
     const a = (ly.functionsByYear as any)[fyOf(first.ce)][f.id] as number;
     const b = (ly.functionsByYear as any)[fyOf(latest.ce)][f.id] as number;
-    return { id: f.id, label: pick(f), now: ((b - a) / a) * 100, highlight: f.id === 'edu' };
+    return {
+      id: f.id,
+      label: pick(f),
+      now: ((b - a) / a) * 100,
+      highlight: f.id === 'edu',
+    };
   })
   .sort((a, b) => b.now - a.now);
 // §4 八年窄帶：府會同黨九年（105–113 年度）刪減比例的上下界，從資料算不手抄
-const bandVals = years.filter((y) => y.fy <= 113 && y.cutPct != null).map((y) => y.cutPct as number);
+const bandVals = settled
+  .filter((y) => y.fy <= 113 && y.cutPct != null)
+  .map((y) => y.cutPct as number);
 const bandLo = Math.min(...bandVals);
 const bandHi = Math.max(...bandVals);
 
@@ -105,10 +138,13 @@ const rankRows = agMeta
 const rankTop = rankRows.slice(0, 22);
 // 小倍數：105 與 115 都有值的機關，index 105=100，取 115 年度最大的 16 個
 const multiPanels = agMeta
-  .filter((a) => agByYear[yThen]?.[a.id] && agByYear[yNow]?.[a.id] && a.id !== 'reserve')
+  .filter(
+    (a) =>
+      agByYear[yThen]?.[a.id] && agByYear[yNow]?.[a.id] && a.id !== 'reserve',
+  )
   .map((a) => {
     const base = agByYear[yThen][a.id];
-    const values = ce.map((c) => {
+    const values = ceSettled.map((c) => {
       const v = agByYear[fyOf(c)]?.[a.id];
       return v === undefined ? null : (v / base) * 100;
     });
@@ -128,14 +164,13 @@ const multiPanels = agMeta
   .slice(0, 16);
 
 // ── 執行率 ───────────────────────────────────────────────────────────
-const execRows = years
-  .filter((y) => y.legal)
-  .map((y) => ({
-    label: String(y.ce),
-    budget: y.legal as number,
-    actual: y.final ?? null,
-    rate: y.execRate ?? null,
-  }));
+// 有追加預算並已三讀的年度（114），分母＝法定＋追加（legalWithSupp），否則決算會超過「法定」而讀成超支
+const execRows = settled.map((y: any) => ({
+  label: String(y.ce),
+  budget: (y.legalWithSupp ?? y.legal) as number,
+  actual: y.final ?? null,
+  rate: y.execRate ?? null,
+}));
 
 // ── 事件／刪凍／文化／聲音 ────────────────────────────────────────────
 const events = [...ly.events].sort((a, b) => a.date.localeCompare(b.date));
@@ -154,8 +189,12 @@ const sources = (ly.meta as any).sources as any[];
 type RelCard = { href: string; title: string; desc: string };
 const _idx = await getArticlesIndex(lang);
 const _idxZh = lang === 'zh-TW' ? _idx : await getArticlesIndex('zh-TW');
-async function related(catDir: string, zhSlug: string): Promise<RelCard | null> {
-  if (!existsSync(resolve(process.cwd(), 'knowledge', catDir, `${zhSlug}.md`))) return null;
+async function related(
+  catDir: string,
+  zhSlug: string,
+): Promise<RelCard | null> {
+  if (!existsSync(resolve(process.cwd(), 'knowledge', catDir, `${zhSlug}.md`)))
+    return null;
   const cat = catDir.toLowerCase();
   const zhPath = `/${cat}/${zhSlug}`;
   const zhEntry = (_idxZh.get(cat) || []).find((a) => a.slug === zhSlug);
@@ -166,7 +205,9 @@ async function related(catDir: string, zhSlug: string): Promise<RelCard | null> 
     const e = (r.langs as any)[lang];
     if (e?.has && e.link) {
       href = e.link;
-      const slug = decodeURIComponent(e.link.replace(/\/$/, '').split('/').pop() || '');
+      const slug = decodeURIComponent(
+        e.link.replace(/\/$/, '').split('/').pop() || '',
+      );
       entry = (_idx.get(cat) || []).find((a) => a.slug === slug) || zhEntry;
     }
   } catch {
@@ -174,21 +215,65 @@ async function related(catDir: string, zhSlug: string): Promise<RelCard | null> 
   }
   const full = entry?.title || zhSlug;
   // chip 只顯示主標（冒號前），完整標題與 description 放 title 屬性
-  return { href, title: full.split(/[：:—–]/)[0].trim() || full, desc: `${full}${entry?.description ? ' — ' + entry.description : ''}` };
+  return {
+    href,
+    title: full.split(/[：:—–]/)[0].trim() || full,
+    desc: `${full}${entry?.description ? ' — ' + entry.description : ''}`,
+  };
 }
 async function relatedList(items: [string, string][]): Promise<RelCard[]> {
   const out = await Promise.all(items.map(([c, s]) => related(c, s)));
   return out.filter((x): x is RelCard => !!x);
 }
 const REL = {
-  s0: await relatedList([['Society', '台灣政治環境與選舉制度'], ['Technology', '開源社群與g0v'], ['Society', '公共政策網路參與平臺']]),
-  s1: await relatedList([['Economy', '發票'], ['Lifestyle', '台灣醫療與全民健保']]),
-  s2: await relatedList([['Society', '台灣長期照顧制度發展'], ['Society', '台灣少子化危機'], ['Lifestyle', '台灣醫療與全民健保'], ['Society', '台灣國防與軍事現代化'], ['Society', '台灣高等教育擴張與退場']]),
-  s3: await relatedList([['Society', '台灣邦交國與國際外交'], ['Society', '台灣體育發展與奧運'], ['Economy', '台灣農業現代化發展'], ['Lifestyle', '台灣的公車系統'], ['Society', '國宅與居住正義']]),
-  s4: await relatedList([['History', '大罷免'], ['Politics', '2026 九合一選舉'], ['Society', '台灣政治環境與選舉制度']]),
-  s5: await relatedList([['Society', '公視'], ['Economy', '文化內容策進院'], ['Society', '台灣媒體與新聞自由'], ['Society', '報導者'], ['History', '國家人權博物館'], ['History', '台灣轉型正義'], ['Society', '台灣設計研究院']]),
-  s6: await relatedList([['Technology', '雪山隧道'], ['Lifestyle', '台灣的公車系統'], ['Society', '台灣國防與軍事現代化']]),
-  s7: await relatedList([['Economy', '文化內容策進院'], ['Society', '公視'], ['History', '大罷免'], ['Society', '台灣政治環境與選舉制度']]),
+  s0: await relatedList([
+    ['Society', '台灣政治環境與選舉制度'],
+    ['Technology', '開源社群與g0v'],
+    ['Society', '公共政策網路參與平臺'],
+  ]),
+  s1: await relatedList([
+    ['Economy', '發票'],
+    ['Lifestyle', '台灣醫療與全民健保'],
+  ]),
+  s2: await relatedList([
+    ['Society', '台灣長期照顧制度發展'],
+    ['Society', '台灣少子化危機'],
+    ['Lifestyle', '台灣醫療與全民健保'],
+    ['Society', '台灣國防與軍事現代化'],
+    ['Society', '台灣高等教育擴張與退場'],
+  ]),
+  s3: await relatedList([
+    ['Society', '台灣邦交國與國際外交'],
+    ['Society', '台灣體育發展與奧運'],
+    ['Economy', '台灣農業現代化發展'],
+    ['Lifestyle', '台灣的公車系統'],
+    ['Society', '國宅與居住正義'],
+  ]),
+  s4: await relatedList([
+    ['History', '大罷免'],
+    ['Politics', '2026 九合一選舉'],
+    ['Society', '台灣政治環境與選舉制度'],
+  ]),
+  s5: await relatedList([
+    ['Society', '公視'],
+    ['Economy', '文化內容策進院'],
+    ['Society', '台灣媒體與新聞自由'],
+    ['Society', '報導者'],
+    ['History', '國家人權博物館'],
+    ['History', '台灣轉型正義'],
+    ['Society', '台灣設計研究院'],
+  ]),
+  s6: await relatedList([
+    ['Technology', '雪山隧道'],
+    ['Lifestyle', '台灣的公車系統'],
+    ['Society', '台灣國防與軍事現代化'],
+  ]),
+  s7: await relatedList([
+    ['Economy', '文化內容策進院'],
+    ['Society', '公視'],
+    ['History', '大罷免'],
+    ['Society', '台灣政治環境與選舉制度'],
+  ]),
 };
 
 const passedDate = cuts115.date as string;
@@ -200,7 +285,8 @@ const toc = [0, 1, 2, 3, 4, 5, 6, 7].map((n) => ({
 
 // §5 日曆條：115 年度從院會通過到三讀。節點從 events（fy 115）依關鍵字取，取不到就不畫；年度開始＝曆年制 1/1。
 const ev115 = events.filter((e) => e.fy === 115 || e.kind === 'pass');
-const findEv = (re: RegExp, kind?: string) => ev115.find((e) => (kind ? e.kind === kind : true) && re.test(e.zh));
+const findEv = (re: RegExp, kind?: string) =>
+  ev115.find((e) => (kind ? e.kind === kind : true) && re.test(e.zh));
 const calMarkers = (
   [
     [findEv(/院會通過/), t('budget.s5.cal.approved'), 'plain'],
@@ -208,18 +294,38 @@ const calMarkers = (
     [findEv(/預算法第 51 條期限/, 'key'), t('budget.s5.cal.deadline'), 'key'],
     [{ date: `${latest.ce}-01-01` }, t('budget.s5.cal.fystart'), 'plain'],
     [findEv(/交付委員會/), t('budget.s5.cal.referred'), 'plain'],
-    [ev115.find((e) => e.kind === 'pass' && e.fy === 115), t('budget.s5.cal.passed'), 'pass'],
+    [
+      ev115.find((e) => e.kind === 'pass' && e.fy === 115),
+      t('budget.s5.cal.passed'),
+      'pass',
+    ],
   ] as [any, string, 'plain' | 'key' | 'pass'][]
 )
   .filter(([e]) => !!e)
   .map(([e, label, kind]) => ({ date: e.date as string, label, kind }));
-const calStart = calMarkers.length ? calMarkers.map((m) => m.date).sort()[0].slice(0, 7) + '-01' : `${latest.ce - 1}-08-01`;
+const calStart = calMarkers.length
+  ? calMarkers
+      .map((m) => m.date)
+      .sort()[0]
+      .slice(0, 7) + '-01'
+  : `${latest.ce - 1}-08-01`;
 // 軸尾留 16 天呼吸，三讀標籤不貼邊；天數 bar 仍以三讀日為錨
-const calEnd = new Date(Date.parse(`${passedDate}T00:00:00Z`) + 16 * 86400000).toISOString().slice(0, 10);
-const calSpans = days.map((d) => ({ days: d.n as number, label: pick(d.who) as string, quote: pick(d) as string }));
+const calEnd = new Date(Date.parse(`${passedDate}T00:00:00Z`) + 16 * 86400000)
+  .toISOString()
+  .slice(0, 10);
+const calSpans = days.map((d) => ({
+  days: d.n as number,
+  label: pick(d.who) as string,
+  quote: pick(d) as string,
+}));
 const kindLabel = (k: string) =>
-  k === 'cut' ? t('budget.s4.kind.cut') : k === 'freeze' ? t('budget.s4.kind.freeze') : t('budget.s4.kind.kept');
-const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-freeze' : 'is-kept');
+  k === 'cut'
+    ? t('budget.s4.kind.cut')
+    : k === 'freeze'
+      ? t('budget.s4.kind.freeze')
+      : t('budget.s4.kind.kept');
+const kindCls = (k: string) =>
+  k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-freeze' : 'is-kept';
 ---
 
 <Layout
@@ -236,7 +342,9 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
       titleSize="clamp"
       containerWidth="wide"
     >
-      <blockquote class="bp-kicker bp-hero-verse">{t('budget.hero.verse')}</blockquote>
+      <blockquote class="bp-kicker bp-hero-verse">
+        {t('budget.hero.verse')}
+      </blockquote>
       <div class="bp-hero-stats">
         <div class="bp-stat">
           <div class="bp-stat-v">{fmtYi(latest.legal, lang)}</div>
@@ -244,17 +352,46 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         </div>
         <div class="bp-stat is-warm">
           <div class="bp-stat-v">{passedDate}</div>
-          <div class="bp-stat-l">{t('budget.hero.stat.passed')} · {t('budget.hero.stat.passed.sub')}</div>
+          <div class="bp-stat-l">
+            {t('budget.hero.stat.passed')} · {t('budget.hero.stat.passed.sub')}
+          </div>
         </div>
         <div class="bp-stat is-warm">
-          <div class="bp-stat-v">{fmtYi(cuts115.cut, lang)}<small>{fmtPct(-cuts115.cut_pct, 2)}</small></div>
-          <div class="bp-stat-l">{t('budget.hero.stat.cut')} · {t('budget.hero.stat.cut.sub')}</div>
+          <div class="bp-stat-v">
+            {fmtYi(cuts115.cut, lang)}<small
+              >{fmtPct(-cuts115.cut_pct, 2)}</small>
+          </div>
+          <div class="bp-stat-l">
+            {t('budget.hero.stat.cut')} · {t('budget.hero.stat.cut.sub')}
+          </div>
         </div>
         <div class="bp-stat is-cool">
-          <div class="bp-stat-v">{growth === null ? '—' : fmtPct(growth, 0)}</div>
-          <div class="bp-stat-l">{t('budget.hero.stat.growth')} · {t('budget.hero.stat.growth.sub')}</div>
+          <div class="bp-stat-v">
+            {growth === null ? '—' : fmtPct(growth, 0)}
+          </div>
+          <div class="bp-stat-l">
+            {t('budget.hero.stat.growth')} · {t('budget.hero.stat.growth.sub')}
+          </div>
         </div>
       </div>
+      <!-- 116 年度預算案：已送立法院、尚未三讀。數字在內文，這裡只放狀態，避免英雄區的法定數與預算案數混讀 -->
+      <p class="bp-hero-next">
+        <b>{t('budget.hero.fy116.k')}</b>
+        {t('budget.hero.fy116')}
+        {
+          fy116?.sources?.[0] && (
+            <a
+              class="bp-src no-external-icon"
+              aria-label="source"
+              href={fy116.sources[0]}
+              target="_blank"
+              rel="noopener"
+            >
+              ↗
+            </a>
+          )
+        }
+      </p>
       <!-- 三分鐘版：八句 takeaway，每句都是跳轉連結（資訊結構案 A：結論先行，流程仍在 §0） -->
       <nav class="bp-brief" aria-label={t('budget.hero.jump')}>
         <h2 class="bp-brief-h">{t('budget.hero.brief')}</h2>
@@ -279,11 +416,13 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
     <!-- 黏頂子導覽：純 anchor；JS 只加 scroll-spy 高亮 -->
     <nav class="bp-subnav" aria-label={t('budget.subnav.label')} id="bp-subnav">
       <div class="bp-subnav-in">
-        {toc.map((s) => (
-          <a href={`#${s.id}`} data-target={s.id}>
-            {s.label}
-          </a>
-        ))}
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
       </div>
     </nav>
 
@@ -297,7 +436,11 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <ol class="bp-flow-strip" aria-label={t('budget.s0.overview')}>
           {
             [1, 2, 3, 4, 5, 6, 7].map((n) => (
-              <li class={n <= 4 ? 'is-before' : n === 5 ? 'is-during' : 'is-after'}>
+              <li
+                class={
+                  n <= 4 ? 'is-before' : n === 5 ? 'is-during' : 'is-after'
+                }
+              >
                 <a href={`#flow-${n}`}>
                   <b>{n}</b> {t(`budget.s0.step${n}.title` as any)}
                 </a>
@@ -308,9 +451,14 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <ol class="bp-flow" aria-label={t('budget.s0.h2')}>
           {
             [1, 2, 3, 4, 5, 6, 7].map((n) => (
-              <li class={`bp-flow-step ${n <= 4 ? 'is-before' : n === 5 ? 'is-during' : 'is-after'}`} id={`flow-${n}`}>
+              <li
+                class={`bp-flow-step ${n <= 4 ? 'is-before' : n === 5 ? 'is-during' : 'is-after'}`}
+                id={`flow-${n}`}
+              >
                 <div class="bp-flow-num">{n}</div>
-                <h3 class="bp-flow-title">{t(`budget.s0.step${n}.title` as any)}</h3>
+                <h3 class="bp-flow-title">
+                  {t(`budget.s0.step${n}.title` as any)}
+                </h3>
                 <dl class="bp-flow-meta">
                   <div>
                     <dt>{t('budget.s0.col.actor')}</dt>
@@ -321,10 +469,14 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
                     <dd>{t(`budget.s0.step${n}.when` as any)}</dd>
                   </div>
                 </dl>
-                <p class="bp-flow-what">{t(`budget.s0.step${n}.what` as any)}</p>
+                <p class="bp-flow-what">
+                  {t(`budget.s0.step${n}.what` as any)}
+                </p>
                 <p class="bp-flow-law">{t(`budget.s0.step${n}.law` as any)}</p>
                 <p class="bp-flow-actual">
-                  <span class="bp-flow-actual-k">{t('budget.s0.col.actual')}</span>
+                  <span class="bp-flow-actual-k">
+                    {t('budget.s0.col.actual')}
+                  </span>
                   {t(`budget.s0.step${n}.actual` as any)}
                 </p>
               </li>
@@ -332,16 +484,18 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </ol>
         <p class="bp-note">{t('budget.s0.note')}</p>
-        {REL.s0.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s0.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s0.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s0.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -358,21 +512,54 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           lang={lang}
           eras={eras}
           series={[
-            { id: 'proposed', label: t('budget.s1.series.proposed'), values: years.map((y) => y.proposed), cls: 'bg-mute', dashed: true },
-            { id: 'legal', label: t('budget.s1.series.legal'), values: years.map((y) => y.legal), cls: 'bg-s0' },
-            { id: 'final', label: t('budget.s1.series.final'), values: years.map((y) => y.final), cls: 'bg-s1' },
+            {
+              id: 'proposed',
+              label: t('budget.s1.series.proposed'),
+              values: years.map((y) => y.proposed),
+              cls: 'bg-mute',
+              dashed: true,
+            },
+            {
+              id: 'legal',
+              label: t('budget.s1.series.legal'),
+              values: years.map((y) => y.legal),
+              cls: 'bg-s0',
+            },
+            {
+              id: 'final',
+              label: t('budget.s1.series.final'),
+              values: years.map((y) => y.final),
+              cls: 'bg-s1',
+            },
           ]}
-          gapBand={{ upper: 'proposed', lower: 'legal', label: t('budget.s1.chart.gap') }}
+          gapBand={{
+            upper: 'proposed',
+            lower: 'legal',
+            label: t('budget.s1.chart.gap'),
+          }}
           eraLabelPos="bottom"
           annots={[
-            { year: 2023, seriesId: 'legal', text: t('budget.s1.annot.2023'), dir: 'up' },
-            { year: 2025, seriesId: 'proposed', text: t('budget.s1.annot.2025'), dir: 'up' },
+            {
+              year: 2023,
+              seriesId: 'legal',
+              text: t('budget.s1.annot.2023'),
+              dir: 'up',
+            },
+            {
+              year: 2025,
+              seriesId: 'proposed',
+              text: t('budget.s1.annot.2025'),
+              dir: 'up',
+            },
           ]}
-          source={zh ? '主計總處各年度立法院審議結果新聞稿；行政院各年度總決算新聞稿' : 'DGBAS review-result releases; Executive Yuan final-account releases'}
+          source={zh
+            ? '主計總處各年度立法院審議結果新聞稿；行政院各年度總決算新聞稿；114 年度決算＝審計部審定數；116 年度＝行政院預算案（虛線，尚未三讀，無法定數與決算）'
+            : 'DGBAS review-result releases; Executive Yuan final-account releases; FY2025 final = National Audit Office figure; FY2027 = Executive Yuan proposal (dashed, not yet passed, no legal or final figure)'}
         />
         <div class="bp-prose">
           <p>{t('budget.s1.p1')}</p>
           <p>{t('budget.s1.p2')}</p>
+          <p>{t('budget.s1.p3')}</p>
         </div>
         <div>
           <LineChart
@@ -387,23 +574,37 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
             eras={erasShort}
             eraLabelPos="bottom"
             series={[
-              { id: 'gdp', label: t('budget.s1.series.gdp'), values: years.map((y) => y.gdpPct), cls: 'bg-s0' },
-              { id: 'debt', label: t('budget.s1.series.debt'), values: years.map((y) => y.debtPct), cls: 'bg-s2' },
+              {
+                id: 'gdp',
+                label: t('budget.s1.series.gdp'),
+                values: years.map((y) => y.gdpPct),
+                cls: 'bg-s0',
+              },
+              {
+                id: 'debt',
+                label: t('budget.s1.series.debt'),
+                values: years.map((y) => y.debtPct),
+                cls: 'bg-s2',
+              },
             ]}
-            source={zh ? '主計總處 115 年度總說明參考表 4；財政部國庫署債務概況表（115 為預算案預估）' : 'DGBAS FY2026 general explanation table 4; NTA debt tables (FY2026 = estimate)'}
+            source={zh
+              ? '主計總處 115 年度總說明參考表 4；財政部國庫署債務概況表（115、116 為預算案預估；116 年度主計總處未公布歲出占 GDP 比率）'
+              : 'DGBAS FY2026 general explanation table 4; NTA debt tables (FY2026 and FY2027 = budget-bill estimates; DGBAS publishes no FY2027 spending/GDP ratio)'}
           />
         </div>
         <p class="bp-note">{t('budget.s1.note')}</p>
-        {REL.s1.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s1.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s1.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s1.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -421,7 +622,9 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           values={fnValues}
           lang={lang}
           shareLabel={t('budget.s2.legend.share')}
-          source={zh ? '主計總處 115 年度總說明參考表 6（105–113 決算審定數、114 法定、115 預算案）' : 'DGBAS FY2026 general explanation, table 6 (FY2016–24 final, FY2025 legal, FY2026 proposal)'}
+          source={zh
+            ? '主計總處 115 年度總說明參考表 6（105–113 決算審定數、114 法定、115 預算案）；116 年度＝116 年度預算書政事別（預算案，另有重分類）'
+            : 'DGBAS FY2026 general explanation, table 6 (FY2016–24 final, FY2025 legal, FY2026 proposal); FY2027 = FY2027 budget-bill table by function (proposal, with some re-sorting)'}
         />
         <div class="bp-two bp-two-charts">
           <SlopeChart
@@ -450,16 +653,18 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           <p>{t('budget.s2.p2')}</p>
         </div>
         <p class="bp-note">{t('budget.s2.note')}</p>
-        {REL.s2.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s2.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s2.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s2.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -478,7 +683,9 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           shareOf={Object.values(agByYear[yNow]).reduce((a, b) => a + b, 0)}
           shareLabel={t('budget.s3.table.share')}
           lang={lang}
-          source={zh ? '主計總處歲出機關別預算總表（主管別）；115 為行政院提案數' : 'DGBAS expenditure by supervising agency; FY2026 = proposal'}
+          source={zh
+            ? '主計總處歲出機關別預算總表（主管別）；115 為行政院提案數'
+            : 'DGBAS expenditure by supervising agency; FY2026 = proposal'}
         />
         <div class="bp-prose">
           <p>{t('budget.s3.p1')}</p>
@@ -488,26 +695,30 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           id="c-multi"
           title={t('budget.s3.chart2.take')}
           subtitle={t('budget.s3.chart2.title')}
-          years={ce}
+          years={ceSettled}
           panels={multiPanels}
           yMin={80}
           yMax={300}
           baseline={100}
           cols={4}
           lang={lang}
-          source={zh ? '同上；105 年度＝100，改制機關視為同一序列' : 'Same as above; FY2016 = 100, renamed agencies treated as one series'}
+          source={zh
+            ? '同上；105 年度＝100，改制機關視為同一序列'
+            : 'Same as above; FY2016 = 100, renamed agencies treated as one series'}
         />
         <p class="bp-note">{t('budget.s3.note')}</p>
-        {REL.s3.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s3.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s3.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s3.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -520,19 +731,45 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <LineChart
           id="c-cut"
           title={t('budget.s4.chart.title')}
-          years={ce}
+          years={ceSettled}
           lang={lang}
           unit="%"
           yMax={8}
           height={300}
           eras={eras}
-          series={[{ id: 'cut', label: t('budget.s4.series.cut'), values: years.map((y) => y.cutPct), cls: 'bg-s1', area: true }]}
-          bands={[{ from: bandLo, to: bandHi, label: `${t('budget.s4.band')} ${bandLo.toFixed(2)}–${bandHi.toFixed(2)}%` }]}
-          annots={[
-            { year: 2025, seriesId: 'cut', text: t('budget.s4.annot.2025'), dir: 'up' },
-            { year: 2026, seriesId: 'cut', text: t('budget.s4.annot.2026'), dir: 'up' },
+          series={[
+            {
+              id: 'cut',
+              label: t('budget.s4.series.cut'),
+              values: settled.map((y) => y.cutPct),
+              cls: 'bg-s1',
+              area: true,
+            },
           ]}
-          source={zh ? '主計總處各年度立法院審議結果新聞稿；115 年度以 480 億 ÷ 原列 30,349.74 億計' : 'DGBAS review-result releases; FY2026 = 48B ÷ 3,034.974B proposed'}
+          bands={[
+            {
+              from: bandLo,
+              to: bandHi,
+              label: `${t('budget.s4.band')} ${bandLo.toFixed(2)}–${bandHi.toFixed(2)}%`,
+            },
+          ]}
+          annots={[
+            {
+              year: 2025,
+              seriesId: 'cut',
+              text: t('budget.s4.annot.2025'),
+              dir: 'up',
+            },
+            {
+              year: 2026,
+              seriesId: 'cut',
+              text: t('budget.s4.annot.2026'),
+              dir: 'up',
+            },
+          ]}
+          source={zh
+            ? '主計總處各年度立法院審議結果新聞稿；115 年度以 480 億 ÷ 原列 30,349.74 億計'
+            : 'DGBAS review-result releases; FY2026 = 48B ÷ 3,034.974B proposed'}
         />
         <div class="bp-prose">
           <p>{t('budget.s4.p1')}</p>
@@ -548,7 +785,10 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
               <div class="bp-tbl-wrap">
                 <table class="bp-cuts">
                   <caption class="bp-cuts-cap">
-                    {head} · {zh ? '原列' : 'proposed'} {fmtYi(c.proposed, lang)} → {zh ? '法定' : 'legal'} {fmtYi(c.legal, lang)}（−{fmtYi(c.cut, lang)}，{c.cut_pct}%）
+                    {head} · {zh ? '原列' : 'proposed'}{' '}
+                    {fmtYi(c.proposed, lang)} → {zh ? '法定' : 'legal'}{' '}
+                    {fmtYi(c.legal, lang)}（−{fmtYi(c.cut, lang)}，{c.cut_pct}
+                    %）
                   </caption>
                   <thead>
                     <tr>
@@ -560,13 +800,21 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
                     {c.items.map((it: any) => (
                       <tr>
                         <td>
-                          <span class={`bp-tag ${kindCls(it.kind)}`}>{kindLabel(it.kind)}</span>
+                          <span class={`bp-tag ${kindCls(it.kind)}`}>
+                            {kindLabel(it.kind)}
+                          </span>
                           {pick(it)}
                         </td>
                         <td>
                           {pick(it.value)}
                           {it.source && (
-                            <a class="bp-src no-external-icon" aria-label="source" href={it.source} target="_blank" rel="noopener">
+                            <a
+                              class="bp-src no-external-icon"
+                              aria-label="source"
+                              href={it.source}
+                              target="_blank"
+                              rel="noopener"
+                            >
                               ↗
                             </a>
                           )}
@@ -586,16 +834,18 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
             ))
           }
         </div>
-        {REL.s4.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s4.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s4.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s4.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -610,7 +860,12 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <div class="bp-days">
           {
             days.map((d) => (
-              <a class="bp-day no-external-icon" href={d.source} target="_blank" rel="noopener">
+              <a
+                class="bp-day no-external-icon"
+                href={d.source}
+                target="_blank"
+                rel="noopener"
+              >
                 <div class="bp-day-n">
                   {d.n}
                   <small> {t('budget.s5.days.unit')}</small>
@@ -631,7 +886,11 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
               end={calEnd}
               anchor={passedDate}
               markers={calMarkers}
-              shade={{ from: `${latest.ce}-01-01`, to: passedDate, label: t('budget.s5.cal.s54') }}
+              shade={{
+                from: `${latest.ce}-01-01`,
+                to: passedDate,
+                label: t('budget.s5.cal.s54'),
+              }}
               spans={calSpans}
               daysUnit={t('budget.s5.days.unit')}
               lang={lang}
@@ -644,13 +903,21 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <ol class="bp-timeline">
           {
             events.map((e) => (
-              <li class={`bp-tl-item ${e.kind === 'pass' ? 'is-pass' : e.kind === 'key' ? 'is-key' : ''}`}>
+              <li
+                class={`bp-tl-item ${e.kind === 'pass' ? 'is-pass' : e.kind === 'key' ? 'is-key' : ''}`}
+              >
                 <div class="bp-tl-date">{e.date}</div>
                 <div>
                   <div class="bp-tl-title">
                     {pick(e)}
                     {e.source && (
-                      <a class="bp-src no-external-icon" aria-label="source" href={e.source} target="_blank" rel="noopener">
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label="source"
+                        href={e.source}
+                        target="_blank"
+                        rel="noopener"
+                      >
                         ↗
                       </a>
                     )}
@@ -676,7 +943,19 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
                 culture.rows.map((r: any) => (
                   <tr>
                     <td>
-                      {r.kind && <span class={`bp-tag ${r.kind === 'cut' ? 'is-cut' : r.kind === 'freeze' ? 'is-freeze' : ''}`}>{r.kind === 'cut' ? t('budget.s4.kind.cut') : r.kind === 'freeze' ? t('budget.s4.kind.freeze') : zh ? '刪／凍' : 'cut/frozen'}</span>}
+                      {r.kind && (
+                        <span
+                          class={`bp-tag ${r.kind === 'cut' ? 'is-cut' : r.kind === 'freeze' ? 'is-freeze' : ''}`}
+                        >
+                          {r.kind === 'cut'
+                            ? t('budget.s4.kind.cut')
+                            : r.kind === 'freeze'
+                              ? t('budget.s4.kind.freeze')
+                              : zh
+                                ? '刪／凍'
+                                : 'cut/frozen'}
+                        </span>
+                      )}
                       {pick(r)}
                     </td>
                     <td>{pick(r.y114)}</td>
@@ -706,7 +985,13 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
                     <li>
                       {pick(it)}
                       {it.source && (
-                        <a class="bp-src no-external-icon" aria-label="source" href={it.source} target="_blank" rel="noopener">
+                        <a
+                          class="bp-src no-external-icon"
+                          aria-label="source"
+                          href={it.source}
+                          target="_blank"
+                          rel="noopener"
+                        >
                           ↗
                         </a>
                       )}
@@ -718,16 +1003,18 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </div>
         <p class="bp-note">{t('budget.s5.note')}</p>
-        {REL.s5.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s5.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s5.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s5.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -745,7 +1032,9 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           spentLabel={t('budget.s6.exec.spent')}
           unspentLabel={t('budget.s6.exec.unspent')}
           lang={lang}
-          source={zh ? '行政院各年度總決算新聞稿（執行率＝決算 ÷ 法定預算，自算）' : 'Executive Yuan final-account releases (rate = final ÷ legal, computed)'}
+          source={zh
+            ? '行政院各年度總決算新聞稿；114 年度＝審計部審定數（執行率＝決算 ÷ 法定預算，自算；114 年度分母含追加預算 819 億）'
+            : 'Executive Yuan final-account releases; FY2025 = National Audit Office figure (rate = final ÷ legal, computed; FY2025 denominator includes the NT$81.9B supplementary budget)'}
         />
         <div class="bp-prose">
           <p>{t('budget.s6.p1')}</p>
@@ -755,18 +1044,37 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
         <h3 class="bp-h3">{t('budget.s6.defense.h')}</h3>
         <figure class="bg-chart bp-defense">
           <h4 class="bg-chart-title">
-            {t('budget.s6.defense.total')} {defense.total.toLocaleString('en-US')} · {defense.gdp_pct}% GDP
+            {t('budget.s6.defense.total')}
+            {defense.total.toLocaleString('en-US')} · {defense.gdp_pct}% GDP
           </h4>
           <div class="bp-stackbar-wrap">
-            {/* 刻度：政事別「國防」只有 5,488，落在第一塊裡（function_only / total） */}
-            <div class="bp-stacktick" style={`--bp-tick:${((defense.function_only / defense.total) * 100).toFixed(2)}%`}>
-              <span class="bp-stacktick-lab">{t('budget.s6.defense.tick')} {defense.function_only.toLocaleString('en-US')}</span>
+            {
+              /* 刻度：政事別「國防」只有 5,488，落在第一塊裡（function_only / total） */
+            }
+            <div
+              class="bp-stacktick"
+              style={`--bp-tick:${((defense.function_only / defense.total) * 100).toFixed(2)}%`}
+            >
+              <span class="bp-stacktick-lab"
+                >{t('budget.s6.defense.tick')}
+                {defense.function_only.toLocaleString('en-US')}</span
+              >
             </div>
-            <div class="bp-stackbar" role="img" aria-label={`${t('budget.s6.defense.total')} ${defense.total}`}>
+            <div
+              class="bp-stackbar"
+              role="img"
+              aria-label={`${t('budget.s6.defense.total')} ${defense.total}`}
+            >
               {
                 defense.parts.map((p: any, i: number) => (
-                  <div class={`bp-stackseg bg-cat-${i} ${p.amount / defense.total < 0.12 ? 'is-thin' : ''}`} style={`flex: ${p.amount} 0 0`} title={`${pick(p)}：${p.amount.toLocaleString('en-US')}`}>
-                    <span class="bp-stackseg-v">{p.amount.toLocaleString('en-US')}</span>
+                  <div
+                    class={`bp-stackseg bg-cat-${i} ${p.amount / defense.total < 0.12 ? 'is-thin' : ''}`}
+                    style={`flex: ${p.amount} 0 0`}
+                    title={`${pick(p)}：${p.amount.toLocaleString('en-US')}`}
+                  >
+                    <span class="bp-stackseg-v">
+                      {p.amount.toLocaleString('en-US')}
+                    </span>
                   </div>
                 ))
               }
@@ -776,13 +1084,19 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
             {
               defense.parts.map((p: any, i: number) => (
                 <li>
-                  <span class={`bg-swatch bg-cat-${i}`} aria-hidden="true" /> {pick(p)}：{p.amount.toLocaleString('en-US')}
+                  <span class={`bg-swatch bg-cat-${i}`} aria-hidden="true" />{' '}
+                  {pick(p)}：{p.amount.toLocaleString('en-US')}
                 </li>
               ))
             }
           </ul>
           <figcaption class="bg-chart-src">
-            {t('budget.s6.defense.function')}：{defense.function_only.toLocaleString('en-US')} · <a href={defense.source} target="_blank" rel="noopener">DGBAS</a> · <a href={defense.source2} target="_blank" rel="noopener">MyGoPen</a>
+            {t('budget.s6.defense.function')}：{
+              defense.function_only.toLocaleString('en-US')
+            } · <a href={defense.source} target="_blank" rel="noopener">DGBAS</a
+            > · <a href={defense.source2} target="_blank" rel="noopener"
+              >MyGoPen</a
+            >
           </figcaption>
         </figure>
 
@@ -793,11 +1107,19 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
               <div class="bp-guide-card">
                 <h4>{pick(s)}</h4>
                 <p>
-                  <b>{t('budget.s6.special.period')} {s.period}</b>
+                  <b>
+                    {t('budget.s6.special.period')} {s.period}
+                  </b>
                   <br />
                   {pick(s.amount)}
                   {s.source && (
-                    <a class="bp-src no-external-icon" aria-label="source" href={s.source} target="_blank" rel="noopener">
+                    <a
+                      class="bp-src no-external-icon"
+                      aria-label="source"
+                      href={s.source}
+                      target="_blank"
+                      rel="noopener"
+                    >
                       ↗
                     </a>
                   )}
@@ -807,16 +1129,18 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </div>
         <p class="bp-note">{t('budget.s6.note')}</p>
-        {REL.s6.length > 0 && (
-          <div class="bp-related is-inline">
-            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
-            {REL.s6.map((r) => (
-              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-                {r.title}
-              </a>
-            ))}
-          </div>
-        )}
+        {
+          REL.s6.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+              {REL.s6.map((r) => (
+                <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
       </div>
     </section>
 
@@ -852,21 +1176,38 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </ul>
         <div class="bp-related">
-          <a href="https://github.com/frank890417/taiwan-md/blob/main/src/data/ly-budget.json" target="_blank" rel="noopener">⬇︎ {t('budget.s7.download')}</a>
-          <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank" rel="noopener">✎ {t('budget.s7.corrections')}</a>
+          <a
+            href="https://github.com/frank890417/taiwan-md/blob/main/src/data/ly-budget.json"
+            target="_blank"
+            rel="noopener">⬇︎ {t('budget.s7.download')}</a
+          >
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues/new"
+            target="_blank"
+            rel="noopener">✎ {t('budget.s7.corrections')}</a
+          >
         </div>
-        <p class="bg-chart-src">{t('budget.hero.updated')} {(ly.meta as any).generated}</p>
+        <p class="bg-chart-src">
+          {t('budget.hero.updated')}
+          {(ly.meta as any).generated}
+        </p>
 
         <h3 class="bp-h3">{t('budget.s7.related.h')}</h3>
         <div class="bp-related">
-          {REL.s7.map((r) => (
-            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
-              📖 {r.title}
-            </a>
-          ))}
+          {
+            REL.s7.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                📖 {r.title}
+              </a>
+            ))
+          }
           <a href={translatePath('/data')}>📊 {t('budget.s7.related.data')}</a>
-          <a href={translatePath('/companies')}>🏢 {t('budget.s7.related.companies')}</a>
-          <a href={translatePath('/opendata')}>🗂️ {t('budget.s7.related.opendata')}</a>
+          <a href={translatePath('/companies')}
+            >🏢 {t('budget.s7.related.companies')}</a
+          >
+          <a href={translatePath('/opendata')}
+            >🗂️ {t('budget.s7.related.opendata')}</a
+          >
         </div>
       </div>
     </section>
@@ -877,80 +1218,109 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
     // 1) 折線圖 hover／touch 交叉線 + 同 x 全序列讀數；2) 其他圖表以 mark 為 hit target 的 tooltip（含 touch）；
     // 3) 黏頂子導覽 scroll-spy；4) 量 fixed header 底緣寫 --bp-sticky-top。tooltip 一律 textContent（不拼 innerHTML）。
     const setTip = (tip: HTMLElement, lines: string[]) => {
-      tip.replaceChildren(...lines.map((s) => Object.assign(document.createElement('div'), { textContent: s })));
+      tip.replaceChildren(
+        ...lines.map((s) =>
+          Object.assign(document.createElement('div'), { textContent: s }),
+        ),
+      );
     };
-    const placeTip = (fig: HTMLElement, tip: HTMLElement, clientX: number, clientY: number) => {
+    const placeTip = (
+      fig: HTMLElement,
+      tip: HTMLElement,
+      clientX: number,
+      clientY: number,
+    ) => {
       const fr = fig.getBoundingClientRect();
       const left = clientX - fr.left + 12;
       tip.style.left = `${Math.min(Math.max(8, left), Math.max(8, fr.width - 270))}px`;
       tip.style.top = `${Math.max(0, clientY - fr.top - 44)}px`;
       tip.classList.add('is-on');
     };
-    document.querySelectorAll<HTMLElement>('.bg-chart[data-chart]').forEach((fig) => {
-      const kind = fig.dataset.chart;
-      const tip = document.createElement('div');
-      tip.className = 'bg-tip';
-      tip.setAttribute('aria-hidden', 'true');
-      fig.appendChild(tip);
-      const hide = () => tip.classList.remove('is-on');
-      // 每張圖有寬／窄兩個 svg，只對「正在顯示」的那個掛事件（getClientRects 為空＝display:none）
-      const svgs = Array.from(fig.querySelectorAll<SVGSVGElement>('svg.bg-svg, svg.bg-panel'));
-      svgs.forEach((svg) => {
-        if (kind === 'line') {
-          const dots = Array.from(svg.querySelectorAll<SVGCircleElement>('circle.bg-dot'));
-          if (!dots.length) return;
-          const vb = svg.viewBox.baseVal;
-          const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
-          line.setAttribute('class', 'bg-hover-line');
-          line.setAttribute('y1', '0');
-          line.setAttribute('y2', String(vb.height));
-          line.style.display = 'none';
-          svg.appendChild(line);
-          const xs = Array.from(new Set(dots.map((d) => +d.getAttribute('cx')!))).sort((a, b) => a - b);
-          const onMove = (ev: PointerEvent) => {
-            const r = svg.getBoundingClientRect();
-            if (!r.width) return;
-            const px = ((ev.clientX - r.left) / r.width) * vb.width;
-            let best = xs[0];
-            for (const x of xs) if (Math.abs(x - px) < Math.abs(best - px)) best = x;
-            line.setAttribute('x1', String(best));
-            line.setAttribute('x2', String(best));
-            line.style.display = '';
-            const rows = dots
-              .filter((d) => +d.getAttribute('cx')! === best)
-              .map((d) => d.querySelector('title')?.textContent || '')
-              .filter(Boolean);
-            setTip(tip, rows);
-            const fr = fig.getBoundingClientRect();
-            const left = (best / vb.width) * r.width + (r.left - fr.left);
-            tip.style.left = `${Math.min(Math.max(8, left + 12), Math.max(8, fr.width - 270))}px`;
-            tip.style.top = `${r.top - fr.top + 8}px`;
-            tip.classList.add('is-on');
-          };
-          svg.addEventListener('pointermove', onMove);
-          svg.addEventListener('pointerdown', onMove);
-          svg.addEventListener('pointerleave', () => {
+    document
+      .querySelectorAll<HTMLElement>('.bg-chart[data-chart]')
+      .forEach((fig) => {
+        const kind = fig.dataset.chart;
+        const tip = document.createElement('div');
+        tip.className = 'bg-tip';
+        tip.setAttribute('aria-hidden', 'true');
+        fig.appendChild(tip);
+        const hide = () => tip.classList.remove('is-on');
+        // 每張圖有寬／窄兩個 svg，只對「正在顯示」的那個掛事件（getClientRects 為空＝display:none）
+        const svgs = Array.from(
+          fig.querySelectorAll<SVGSVGElement>('svg.bg-svg, svg.bg-panel'),
+        );
+        svgs.forEach((svg) => {
+          if (kind === 'line') {
+            const dots = Array.from(
+              svg.querySelectorAll<SVGCircleElement>('circle.bg-dot'),
+            );
+            if (!dots.length) return;
+            const vb = svg.viewBox.baseVal;
+            const line = document.createElementNS(
+              'http://www.w3.org/2000/svg',
+              'line',
+            );
+            line.setAttribute('class', 'bg-hover-line');
+            line.setAttribute('y1', '0');
+            line.setAttribute('y2', String(vb.height));
             line.style.display = 'none';
-            hide();
-          });
-          return;
-        }
-        // 條／段／格／點：mark 本身是 hit target（dataviz interaction）
-        const show = (ev: PointerEvent) => {
-          const el = (ev.target as Element | null)?.closest('rect, path, circle, g.bg-panel, svg.bg-panel');
-          const title = el?.querySelector(':scope > title')?.textContent || (el as any)?.closest?.('g')?.querySelector(':scope > title')?.textContent;
-          if (!title) return hide();
-          setTip(tip, [title]);
-          placeTip(fig, tip, ev.clientX, ev.clientY);
-        };
-        svg.addEventListener('pointermove', show);
-        svg.addEventListener('pointerdown', show);
-        svg.addEventListener('pointerleave', hide);
+            svg.appendChild(line);
+            const xs = Array.from(
+              new Set(dots.map((d) => +d.getAttribute('cx')!)),
+            ).sort((a, b) => a - b);
+            const onMove = (ev: PointerEvent) => {
+              const r = svg.getBoundingClientRect();
+              if (!r.width) return;
+              const px = ((ev.clientX - r.left) / r.width) * vb.width;
+              let best = xs[0];
+              for (const x of xs)
+                if (Math.abs(x - px) < Math.abs(best - px)) best = x;
+              line.setAttribute('x1', String(best));
+              line.setAttribute('x2', String(best));
+              line.style.display = '';
+              const rows = dots
+                .filter((d) => +d.getAttribute('cx')! === best)
+                .map((d) => d.querySelector('title')?.textContent || '')
+                .filter(Boolean);
+              setTip(tip, rows);
+              const fr = fig.getBoundingClientRect();
+              const left = (best / vb.width) * r.width + (r.left - fr.left);
+              tip.style.left = `${Math.min(Math.max(8, left + 12), Math.max(8, fr.width - 270))}px`;
+              tip.style.top = `${r.top - fr.top + 8}px`;
+              tip.classList.add('is-on');
+            };
+            svg.addEventListener('pointermove', onMove);
+            svg.addEventListener('pointerdown', onMove);
+            svg.addEventListener('pointerleave', () => {
+              line.style.display = 'none';
+              hide();
+            });
+            return;
+          }
+          // 條／段／格／點：mark 本身是 hit target（dataviz interaction）
+          const show = (ev: PointerEvent) => {
+            const el = (ev.target as Element | null)?.closest(
+              'rect, path, circle, g.bg-panel, svg.bg-panel',
+            );
+            const title =
+              el?.querySelector(':scope > title')?.textContent ||
+              (el as any)?.closest?.('g')?.querySelector(':scope > title')
+                ?.textContent;
+            if (!title) return hide();
+            setTip(tip, [title]);
+            placeTip(fig, tip, ev.clientX, ev.clientY);
+          };
+          svg.addEventListener('pointermove', show);
+          svg.addEventListener('pointerdown', show);
+          svg.addEventListener('pointerleave', hide);
+        });
       });
-    });
     // 點空白處關掉 touch 叫出的 tooltip
     document.addEventListener('pointerdown', (ev) => {
-      if (!(ev.target as Element).closest('.bg-chart svg')) document.querySelectorAll('.bg-tip.is-on').forEach((t) => t.classList.remove('is-on'));
+      if (!(ev.target as Element).closest('.bg-chart svg'))
+        document
+          .querySelectorAll('.bg-tip.is-on')
+          .forEach((t) => t.classList.remove('is-on'));
     });
 
     // 黏頂子導覽：量 header（含語言 banner）底緣；scroll-spy 高亮當前區
@@ -959,24 +1329,43 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
       const measure = () => {
         const hc = document.getElementById('header-container');
         const b = hc ? hc.getBoundingClientRect().bottom : 56;
-        document.documentElement.style.setProperty('--bp-sticky-top', `${Math.max(0, Math.round(b))}px`);
+        document.documentElement.style.setProperty(
+          '--bp-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
+        );
       };
       measure();
       window.addEventListener('resize', measure, { passive: true });
       setTimeout(measure, 800);
-      const links = Array.from(subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'));
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+      );
       const byId = new Map(links.map((a) => [a.dataset.target!, a]));
-      const sections = links.map((a) => document.getElementById(a.dataset.target!)).filter((s): s is HTMLElement => !!s);
+      const sections = links
+        .map((a) => document.getElementById(a.dataset.target!))
+        .filter((s): s is HTMLElement => !!s);
       const setActive = (id: string) => {
-        links.forEach((a) => a.classList.toggle('is-active', a.dataset.target === id));
+        links.forEach((a) =>
+          a.classList.toggle('is-active', a.dataset.target === id),
+        );
         const a = byId.get(id);
-        if (a && subnav.scrollWidth > subnav.clientWidth) a.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+        if (a && subnav.scrollWidth > subnav.clientWidth)
+          a.scrollIntoView({
+            block: 'nearest',
+            inline: 'center',
+            behavior: 'smooth',
+          });
       };
       if ('IntersectionObserver' in window) {
         const visible = new Map<string, number>();
         const io = new IntersectionObserver(
           (entries) => {
-            entries.forEach((e) => visible.set((e.target as HTMLElement).id, e.isIntersecting ? e.intersectionRatio : 0));
+            entries.forEach((e) =>
+              visible.set(
+                (e.target as HTMLElement).id,
+                e.isIntersecting ? e.intersectionRatio : 0,
+              ),
+            );
             let bestId = '';
             let best = 0;
             for (const s of sections) {

@@ -1,7 +1,8 @@
 ---
 title: 'Les cétacés de Taïwan'
-description: "Un tiers des espèces de cétacés du monde fréquentent les eaux de Taïwan — de la chasse à la baleine à l'écotourisme, comment l'île est devenue un haut lieu de la recherche marine."
+description: "Habitat d'un tiers des espèces de cétacés mondiales : de la chasse historique à l'observation moderne, comment Taïwan est devenue un centre majeur de recherche marine ?"
 date: 2026-03-19
+category: 'Nature'
 tags:
   [
     'Taïwan',
@@ -15,133 +16,134 @@ tags:
   ]
 subcategory: '野生動物'
 author: '海女'
-readingTime: 12
-category: 'Nature'
-lastVerified: 2026-03-19
 featured: false
-translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fa8568c6d129180a'
-sourceBodyHash: 'sha256:7c0ff1bf77404541'
-translatedAt: '2026-05-17T05:33:00Z'
+lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 12
+translatedFrom: 'Nature/臺灣的鯨豚.md'
+sourceCommitSha: '67b47e6e2'
+sourceContentHash: 'sha256:25aeb2d906c8c30f'
+sourceBodyHash: 'sha256:de417ec564a13cee'
+translatedAt: '2026-10-21T12:32:43+08:00'
 ---
 
 # Les cétacés de Taïwan
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-Taïwan est idéalement positionnée en marge du Pacifique Nord-Ouest. Sa géographie privilégiée et la complexité de ses fonds marins ont engendré une biodiversité océanique riche et variée. À l'est, les eaux sont alimentées par le courant de Kuroshio ; à l'ouest s'étend un vaste plateau continental.
+Située à la lisière de la zone nord-ouest du Pacifique, Taïwan bénéficie d'une position géographique unique et d'une topographie sous-marine complexe qui favorisent une biodiversité marine diversifiée. Les eaux de l'est sont nourries par le courant de _Kuroshio_, tandis que l'ouest est caractérisé par un vaste plateau continental.
 
-Dans ces eaux, on a recensé plus de **32 espèces** de cétacés, soit plus d'un tiers des espèces connues dans le monde.[^2] Du dauphin longirostre tourbillonnant au cachalot insaisissable, en passant par le dauphin blanc de Chine en voie d'extinction — surnommé « poisson de Mazu » — Taïwan est non seulement un habitat essentiel pour les cétacés, mais aussi un point névralgique de la biodiversité marine mondiale.
-
----
-
-## Pourquoi cela compte
-
-Les cétacés occupent le sommet de la chaîne alimentaire marine : ce sont des **espèces indicatrices** de la santé des océans. Leur présence reflète l'équilibre et la richesse de tout un écosystème. L'attitude de Taïwan envers les cétacés illustre également une mutation profonde des valeurs de l'île : de la chasse à la baleine qui suivit la Seconde Guerre mondiale dans les années 1950, à l'interdiction totale dans les années 1990, puis au premier bateau d'observation en 1997, la société taïwanaise est passée de l'exploitation de l'océan à une relation de proximité et de protection. Ce parcours documente clairement l'éveil de la conscience environnementale à Taïwan.
+Dans ces eaux, **33 espèces** de cétacés ont été recensées (incluant une baleine grise en liste provisoire), ce qui représente environ un tiers des quelque 90 espèces mondiales. [^2] Des dauphins à masque dynamiques aux mystérieux cachalots, en passant par le dauphin blanc de Chine (_Sousa chinensis taiwanensis_), surnommé « poisson de Mazu » et en danger critique d'extinction (population de l'ouest de Taïwan), l'île n'est pas seulement un habitat crucial pour les cétacés, mais aussi un point chaud essentiel de la biodiversité marine mondiale.
 
 ---
 
-## Un milieu naturel d'exception
+## Pourquoi est-ce important ?
 
-Taïwan est entourée d'eau de tous côtés, mais les environnements marins à l'est et à l'ouest diffèrent radicalement — et cette diversité façonne une faune cétacée particulièrement riche.
-
-### Côte est : l'autoroute des grands fonds
-
-Le littoral oriental plonge abruptement : à quelques kilomètres du rivage, les profondeurs dépassent déjà 1 000 mètres. Le courant principal du **Kuroshio** longe la côte est en remontant vers le nord, apportant des eaux chaudes et de grandes quantités de poissons migrateurs et de céphalopodes. C'est le territoire des cétacés plongeurs et pélagiques : cachalots, baleines à bec, et toutes sortes de dauphins.
-
-### Côte ouest : la nurserie des eaux peu profondes
-
-Le détroit de Taïwan repose sur un large plateau continental aux fonds modestes (60 mètres en moyenne) et aux reliefs doux. Ces eaux conviennent aux cétacés côtiers, et notamment à la sous-espèce endémique **dauphin blanc de Chine** (_Sousa chinensis taiwanensis_) et au marsouin aptère.
+Situés au sommet de la chaîne alimentaire marine, les cétacés sont des **espèces indicatrices** de la santé des océans. Leur présence reflète l'abondance et l'équilibre de l'écosystème tout entier. L'attitude de Taïwan envers les cétacés reflète également une profonde transformation des valeurs de l'île : de la chasse commerciale d'après-guerre et des méthodes de chasse traditionnelles à Penghu, à la classification des cétacés comme espèces protégées en 1990, puis au lancement du premier bateau d'observation en 1997, la société taïwanaise est passée d'une logique d'« exploitation de l'océan » à une volonté de « proximité et de protection ». Ce parcours témoigne clairement de l'éveil de la conscience environnementale à Taïwan.
 
 ---
 
-## Les grandes figures de la faune cétacée taïwanaise
+## Un habitat exceptionnel
 
-D'après les données d'échouages et les relevés en mer accumulés au fil des années, les eaux autour de Taïwan abritent une diversité remarquable. Voici quelques-uns des « voisins marins » les plus emblématiques.
+Entourée par les mers, Taïwan présente des environnements marins radicalement différents entre l'est et l'ouest, créant ainsi une écologie diversifiée pour les cétacés :
 
-### Dauphin longirostre (Spinner Dolphin)
+### Eaux de l'est : l'autoroute des abysses
 
-**Le danseur de l'océan.** Il affectionne les étrave des bateaux et peut s'élancer hors de l'eau en plusieurs rotations spectaculaires sur son axe : c'est l'espèce la plus fréquemment observée lors des sorties en mer à l'est de Taïwan, vive, enjouée, se déplaçant en groupes compacts.
+Le relief côtier oriental est abrupt, avec des zones de profondeur importante très proches du rivage. Le courant principal de **Kuroshio** traverse ces eaux, apportant des eaux chaudes. C'est un paradis pour les cétacés de plongée profonde et pélagiques, tels que les cachalots, les beuglués (beaked whales) et diverses espèces de dauphins.
+
+### Eaux de l'ouest : la nurserie des eaux peu profondes
+
+Le détroit de Taïwan est un large plateau continental où les eaux sont moins profondes (environ 60 mètres en moyenne) avec un relief plat. Cet environnement convient aux cétacés côtiers, dont les plus célèbres sont le sous-espèce endémique du **dauphin blanc de Chine** (_Sousa chinensis taiwanensis_) et le **marsouin de l'Asie**.
+
+---
+
+## Les stars des cétacés à Taïwan
+
+Selon les données historiques d'échouages et les enquêtes en mer, la richesse des espèces autour de Taïwan est immense. Voici quelques-uns de nos « voisins marins » les plus fréquents :
+
+### Dauphin à masque (Spinner Dolphin)
+
+**« Les ballerines de la mer »**. Ils adorent surfer à l'avant des bateaux et peuvent bondir hors de l'eau pour effectuer plusieurs rotations aériennes. C'est l'un des dauphins les plus fréquemment observés lors des sorties à l'est, aux côtés du dauphin de Risso ; ils sont très actifs et apparaissent souvent en groupes.
 
 ### Dauphin de Risso (Risso's Dolphin)
 
-Son corps est couvert de cicatrices blanches (marques d'interactions sociales portées comme des médailles), la tête arrondie. Plus discret, il préfère les zones profondes ; des échouages sont régulièrement enregistrés le long des côtes taïwanaises.
+Aussi appelé **dauphin de Risso**. Leur corps est marqué de cicatrices blanches (véritables médailles issues de leurs interactions sociales). Ils ont une tête arrondie et émoussée, sont généralement plus calmes et préfèrent les eaux profondes. Des échouages sur les côtes taïwanaises ont été enregistrés.
 
 ### Cachalot (Sperm Whale)
 
-**Le champion de l'apnée.** Le plus grand des cétacés à dents, reconnaissable à son immense tête carrée. Il apparaît régulièrement au large de Hualien et de Shihtiping, descendant jusqu'à 2 000 mètres de profondeur et restant en apnée plus d'une heure. Apercevoir son jet d'eau incliné est une chance que tout amoureux des baleines chérit.
+**« Le champion de la plongée profonde »**. Le plus grand des odontocètes (cétacés à dents), doté d'une tête massive et carrée. À Taïwan, les observations se concentrent principalement au large des côtes est et sud-est. Ils peuvent plonger à plus de 2 000 mètres de profondeur pendant plus d'une heure, alors qu'une plongée standard se situe autour de 400 mètres pour environ une demi-heure. Voir leur panache d'eau incliné est une grande chance pour les observateurs.
 
 ### Dauphin blanc de Chine (Indo-Pacific Humpback Dolphin)
 
-**Le « poisson de Mazu ».** Il vit dans les eaux côtières de l'ouest, entre Miaoli et Tainan. Son surnom vient du fait qu'il est plus visible aux alentours de la fête de Mazu (troisième mois lunaire), quand les mers se calment. Cette sous-espèce endémique est **en danger critique d'extinction** (Critically Endangered) : la population totale est estimée à 45-50 individus selon la dernière enquête de 2025, dont plus de 60 % présentent des blessures externes, face à une menace existentielle.[^1]
+**« Le poisson de Mazu »**. Ils résident le long de la côte ouest, de Miaoli à Tainan. Les pêcheurs racontent qu'ils apparaissent en grand nombre autour de l'anniversaire de la déesse Mazu (le troisième mois lunaire), d'où leur surnom. Il s'agit d'une sous-espèce **en danger critique d'extinction** (_Sousa chinensis taiwanensis_, dont le statut taxonomique reste à clarifier) [^2]. Des organisations civiles estiment la population totale à environ 45 ou 50 individus, dont près de 60 % présentent des blessures externes visibles (selon un rapport de la CNA de juillet 2025) [^1] ; l'Agence de conservation marine (海洋保育署) estime la population à environ 48 individus en 2024 via des méthodes de marquage.
 
 ---
 
 ## De la chasse à l'observation : un tournant historique
 
-### 1950-1980 : l'ère de la chasse à la baleine
+### D'après-guerre à 1981 : l'ère de la chasse
 
-Dans les premières décennies d'après-guerre, Taïwan connut une période de chasse à la baleine. À Banana Bay (香蕉灣), dans le district de Hengchun à Pingtung, une station baleinière fonctionnait activement, prélevant des cétacés pour leur chair et leurs produits dérivés. C'était l'époque où survivre signifiait puiser dans les ressources de la mer.
+La chasse commerciale à Taïwan a débuté avec les Japonais à Nanwan, Kenting, en 1913. Elle a repris après la guerre en 1955, avant d'être transférée dans la **baie de Banana** (Xiangjowan) à Pingtung, jusqu'à son interdiction en juillet 1981 sous la pression internationale. La viande et l'huile de baleine étaient majoritairement exportées vers le Japon. [^8]
 
 ### 1990 : le tournant de la conservation
 
-En 1990, un massacre de dauphins à grande échelle aux Penghu provoqua une onde de choc internationale et une réaction vive dans l'opinion publique taïwanaise. Cet événement marqua le point de bascule de la protection des cétacés à Taïwan. La même année, le gouvernement inscrivit les cétacés sur la liste des espèces protégées de la Loi sur la conservation de la faune sauvage, interdisant toute chasse, mise à mort et commerce.
+En 1990, les méthodes de chasse aux dauphins par rabattage à Shagang, Penghu, ont été révélées par les médias internationaux, provoquant une pression médiatique nationale et internationale. [^4] Ce fut le point de rupture pour la conservation des cétacés à Taïwan. En août de la même année, toutes les espèces de l'ordre des Cétacés ont été classées comme animaux sauvages protégés, interdisant toute chasse par les pêcheurs.
 
-### 1997 : l'avènement de l'observation des baleines
+### 1997 : l'année de l'observation
 
-En juillet 1997, le premier bateau d'observation de baleines de Taïwan — le _Haiching_ — appareilla pour la première fois depuis Shihtiping, à Hualien. Ce départ symbolisait la mutation du rapport entre les Taïwanais et les cétacés : de la prédation au regard admiratif. L'activité s'étendit ensuite sur la côte est (ports de Wushi à Yilan, de Hualien, de Shihtiping et de Chenggong à Taitung), invitant un public toujours plus large à découvrir l'écologie marine.[^3]
-
----
-
-## Recherche et science participative
-
-Depuis les années 1990, la recherche scientifique taïwanaise sur les cétacés s'enracine et se développe en profondeur. Parmi les acteurs clés :
-
-- **Institutions académiques** : Université nationale de Taïwan (équipe du Pr. Chou Lien-siang), Université nationale Cheng Kung (équipe du Pr. Wang Jian-ping, dont la direction du centre cétacé a été reprise par le Pr. Wang Hao-wen), Université nationale Chia-yi (équipe du Pr. Yang Wei-cheng, désormais rattachée à l'Université nationale de Taïwan).
-- **Musées** : Musée national des sciences naturelles (Dr. Yao Chiu-ju), Musée national de biologie et aquarium marins.
-- **Organisations civiles** : Fondation Kuroshio Ocean Education (Hualien), Association taïwanaise des cétacés (Nouveau Taipei), Taiwan Wilderness Society et autres.
-
-Ces organismes mènent à long terme des observations en mer, des identifications individuelles par photo-identification (Photo-ID), de la surveillance acoustique, des analyses nécropsiques d'échouages et des recherches sur la démographie des populations. Ces dernières années, ils mobilisent de plus en plus la **science participative**, invitant les touristes et les pêcheurs à signaler leurs observations pour alimenter de vastes bases de données.
+En juillet 1997, le premier bateau d'observation de baleines de Taïwan, le « Haijing », a effectué sa première sortie au port de Shiti, Hualien. Cela a marqué le passage de la relation entre les Taïwanais et les cétacés de la « chasse » à l'« observation ». L'activité s'est rapidement étendue sur la côte est (ports de Wushi à Yilan, de Hualien, de Shiti et de Chenggong à Taitung), sensibilisant davantage le public à l'écologie marine. [^3]
 
 ---
 
-## Des défis urgents : les obstacles à la conservation
+## Recherche et science citoyenne
 
-La chasse à grande échelle n'est plus une menace, mais les cétacés taïwanais font face à de sérieuses pressions humaines :
+Depuis les années 1990, la recherche scientifique sur les cétacés s'est enracinée à Taïwan, portée par :
 
-1. **Perte et fragmentation de l'habitat** : le développement d'éoliennes offshore à l'ouest et les projets de remblaiement empiètent directement sur l'espace vital du dauphin blanc de Chine.
-2. **Conflits avec la pêche** : certains engins de pêche — filets maillants dérivants, palangres — peuvent entraîner des captures accidentelles (bycatch) ou des blessures par enchevêtrement.
-3. **Pollution sonore** : le trafic maritime et les battages de pieux génèrent un bruit sous-marin qui perturbe des animaux dont la communication et l'orientation reposent entièrement sur l'acoustique.
-4. **Pollution marine** : ingestion de déchets plastiques, accumulation de métaux lourds et de polluants organiques persistants (POP) le long de la chaîne alimentaire.
+- **Institutions académiques** : Université nationale de Taïwan (professeurs Chou Lien-hsiang, Yang Wei-cheng, etc.), Université nationale de Success (Centre de recherche sur les cétacés, dirigé actuellement par Wang Hao-wen).
+- **Musées** : Musée national des sciences naturelles (chercheuse adjointe Yao Chiu-ju).
+- **Organisations civiles** : Fondation de l'éducation culturelle marine Kuroshio (Hualien), Association des cétacés de Chine (New Taipei), Alliance pour la conservation du dauphin blanc de Chine, etc.
 
-L'Agence de conservation marine du Conseil des affaires maritimes a publié un « Plan de conservation du dauphin blanc de Chine » et promeut un « Plan de conservation des cétacés », cherchant à protéger ces animaux par la désignation d'habitats essentiels et la réglementation des impacts des projets de développement.
+Ces entités mènent des enquêtes d'observation en mer, de l'identification par photo (_Photo-ID_), de la surveillance acoustique, des analyses pathologiques d'échouages et des études écologiques de population. Ces dernières années, elles intègrent davantage la **science citoyenne**, encourageant le public à signaler les observations, tandis que l'Agence de conservation marine promeut des programmes de formation pour les citoyens scientifiques marins.
 
 ---
 
-## En guise de conclusion
+## Défis urgents : le chemin de la conservation
 
-L'histoire des cétacés à Taïwan est une histoire de **regard qui change**.
+Bien que la chasse à grande échelle ait cessé, les cétacés de Taïwan font face à de graves menaces anthropiques :
 
-Autrefois, nous regardions la mer et voyions de la viande et de l'huile. Aujourd'hui, nous y voyons des vies et de l'émerveillement. Quand vous vous tenez à la rambarde d'un bateau sur la côte est et que vous voyez un dauphin longirostre surgir de l'eau dans un éclat de lumière, vous comprenez : **l'océan n'est pas qu'un garde-manger — c'est un foyer vivant.**
+1.  **Perte et fragmentation de l'habitat** : Le développement de l'éolien offshore à l'ouest et les projets de remblaiement réduisent directement l'espace vital du dauphin blanc de Chine.
+2.  **Conflits avec la pêche** : Les méthodes comme les filets dérivants ou la palangre peuvent entraîner des captures accidentelles (_bycatch_) ou des blessures par enchevêtrement.
+3.  **Bruit sous-marin** : Le bruit généré par la navigation des navires et le battage de pieux lors des travaux perturbe les cétacés qui dépendent de l'ouïe pour communiquer et se repérer.
+4.  **Pollution marine** : L'ingestion de déchets plastiques, ainsi que l'accumulation de métaux lourds et de polluants organiques persistants (POP) dans la chaîne alimentaire.
 
-Protéger les cétacés, ce n'est pas seulement défendre une espèce animale. C'est défendre tout le territoire bleu qui entoure cette île et la nourrit.
+L'Agence de conservation marine du Conseil des océans a délimité un habitat sauvage important pour le dauphin blanc de Chine (entré en vigueur le 1er septembre 2020, couvrant Miaoli, Taichung, Changhua et Yunlin) et a publié en 2024 le « Plan de conservation des cétacés », tentant de sauver ces esprits de l'océan par la protection de leurs habitats et la régulation de l'impact du développement.
+
+---
+
+## Conclusion
+
+L'histoire des cétacés à Taïwan est une histoire de « regard ».
+
+Autrefois, nous voyions de la viande et de l'huile ; aujourd'hui, nous voyons la vie et l'émerveillement. Lorsque vous serez au bord d'un bateau sur la côte est et que vous verrez l'éclat d'un dauphin à masque bondissant hors de l'eau, vous comprendrez : **l'océan n'est pas seulement un réservoir de ressources, c'est une demeure pour la vie.**
+
+Protéger les cétacés, ce n'est pas seulement protéger une espèce animale, c'est protéger l'immensité bleue qui nous entoure et nourrit cette île.
 
 ---
 
 ## Références
 
-[^1]: [Enquête sur la population du dauphin blanc de Chine - The News Lens](https://www.thenewslens.com/article/255968) — Confirme l'estimation 2025 à 45-50 individus, dont plus de 60 % présentent des blessures externes.
+[^1]: [Enquête sur la population de dauphins blancs de Chine - The News Lens](https://www.thenewslens.com/article/255968) — Les rapports des conférences de presse d'organisations environnementales estiment la population à environ 45-50 individus, avec environ 60 % présentant des blessures visibles (rapporté également par la CNA le 17-07-2025).
 
-[^2]: [Plan de conservation des cétacés - Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Version publique du Plan de conservation du dauphin blanc de Chine et des cétacés de l'Agence de conservation marine.
+[^2]: [Plan de conservation des cétacés - Agence de conservation marine du Conseil des océans](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Version officielle de l'annonce du plan de conservation pour le dauphin blanc de Chine et les cétacés par l'Agence de conservation marine.
 
-[^3]: [Guide de l'observation responsable des baleines - Agence de conservation marine](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Référentiel d'écotourisme baleinier à Taïwan.
+[^3]: [Guide de l'observation responsable et de l'observation des baleines dans les eaux taïwanaises - Agence de conservation marine du Conseil des océans](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Normes pour le tourisme écologique d'observation des baleines à Taïwan.
 
-[^4]: [Association taïwanaise des cétacés](https://www.whale.org.tw/) — Organisation civile qui promeut la recherche et la conservation des cétacés à Taïwan.
+[^4]: [Association des cétacés de Chine](https://www.whale.org.tw/) — Organisation civile promouvant la recherche et la conservation des cétacés à Taïwan.
 
-[^5]: [Fondation Kuroshio Ocean Education](https://www.kuroshio.org.tw/newsite/) — Institut de recherche cétacée et de science participative basé à Hualien.
+[^5]: [Fondation de l'éducation culturelle marine Kuroshio](https://www.kuroshio.org.tw/newsite/) — Institution de Hualien promouvant la recherche sur les cétacés et la science citoyenne.
 
-[^6]: [Taiwan Wilderness Society](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organisation de plaidoyer pour la conservation du dauphin blanc de Chine.
+[^6]: [Alliance pour la conservation du dauphin blanc de Chine](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organisation de plaidoyer pour la conservation du dauphin blanc de Chine (l'Association écologique Taiwan Wild Heart est l'un des groupes fondateurs).
 
-[^7]: [Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/) — Autorité taïwanaise de la conservation marine, en charge de la protection des habitats des cétacés et de la régulation des projets de développement.
+[^7]: [Agence de conservation marine du Conseil des océans](https://www.oca.gov.tw/) — Autorité compétente pour la conservation marine à Taïwan, promouvant la protection des habitats et le contrôle du développement.
+
+[^8]: [Dossier sur la chasse à la baleine - Taipei Times](https://taipeitimes.com/News/feat/archives/2023/02/26/2003795049) — Début de la chasse commerciale par les Japonais à Nanwan, Kenting en 1913 ; reprise après-guerre en 1955 ; interdiction en juillet 1981. La viande et l'huile étaient principalement exportées vers le Japon.

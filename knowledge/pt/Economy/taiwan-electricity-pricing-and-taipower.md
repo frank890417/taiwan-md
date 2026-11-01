@@ -1,22 +1,22 @@
 ---
-title: 'Mecanismo de Preço de Eletricidade em Taiwan e Taiwan Power: os 12,83% que não subiram, transformados em uma ordem de orçamento adicional de NT$71,1 bilhões'
-description: 'Na reunião de revisão de tarifas de eletricidade de 18 de setembro de 2026, decidiu-se não ajustar as tarifas de outubro a dezembro. Taiwan Power calculou que o ajuste apropriado seria de 12,83%, elevando o preço médio de NT$3,7823 por quilowatt-hora para NT$4,2675. Em vez de implementar o aumento, o governo buscou um orçamento adicional de NT$71,1 bilhões da Assembleia Legislativa. Esta trajetória começou com a fórmula de 2017, passando pelo aumento de capital de NT$150 bilhões em 2022, um aumento de 11% em 2024 sobre um prejuízo acumulado de NT$382,6 bilhões, até os prejuízos de NT$21,4 bilhões nos primeiros sete meses de 2026 e estimativa de prejuízo superior a NT$71,1 bilhões para o ano todo.'
+title: 'O mecanismo de preços de eletricidade em Taiwan e a Taipower: os 12,83% que não subiram, transformados numa fatura de orçamento suplementar de NT$ 71,1 bilhões'
+description: 'Na reunião de revisão tarifária de 18 de setembro de 2026, decidiu-se não ajustar as tarifas de outubro a dezembro. A Taipower calculou um aumento necessário de 12,83%, mas o governo optou por buscar um orçamento suplementar de NT$ 71,1 bilhões no Legislativo em vez de repassar o custo ao consumidor.'
 date: 2026-10-14
 category: 'Economy'
 tags:
   [
     'Economia',
-    'preço de eletricidade',
-    'Taiwan Power',
-    'reunião de revisão de tarifas de eletricidade',
-    'energia',
-    'preços',
-    'orçamento adicional',
+    'Preço da eletricidade',
+    'Taipower',
+    'Conselho de Revisão de Tarifas Elétricas',
+    'Energia',
+    'Custo de vida',
+    'Orçamento suplementar',
   ]
 subcategory: '能源與永續'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-10-14
+lastVerified: 2026-10-23
 lastHumanReview: false
 readingTime: 14
 curation: 'incubating'
@@ -26,140 +26,150 @@ rationale:
   where_it_hedges: '112 年累積虧損 3,826 億採立法院預算中心 113 年 8 月報告，今年全年虧損「逾 711 億」是經濟部 9 月 18 日的估計值，不是決算數，2022 年的 1,500 億與 2024 年的 1,000 億是「政府編列的增資與補助」，與這次的追加預算在會計科目上不完全相同。'
   whos_pushing_back: '主張電價該反映成本、不應以公務預算補貼的讀者，以及主張 711 億撥補只是把問題遞延、該先檢討台電成本結構的讀者。'
 translatedFrom: 'Economy/台灣電價機制與台電.md'
-sourceCommitSha: '75e7f4297'
-sourceContentHash: 'sha256:873b2d997a90fa55'
-sourceBodyHash: 'sha256:8a36a5227a1ed4ef'
-translatedAt: '2026-10-16T00:53:12+08:00'
+sourceCommitSha: '32789bc38'
+sourceContentHash: 'sha256:aa6da6e0a6abe0a2'
+sourceBodyHash: 'sha256:4960f809ab64a615'
+translatedAt: '2026-10-23T08:48:41+08:00'
 ---
 
-# Mecanismo de Preço de Eletricidade em Taiwan e Taiwan Power: os 12,83% que não subiram, transformados em uma ordem de orçamento adicional de NT$71,1 bilhões
+# O mecanismo de preços de eletricidade em Taiwan e a Taipower: os 12,83% que não subiram, transformados numa fatura de orçamento suplementar de NT$ 71,1 bilhões
 
-> **Resumo em 30 segundos:** Em 18 de setembro de 2026, o Ministério da Economia convocou a 2ª reunião de revisão de tarifas de eletricidade do ano 115, decidindo não ajustar as tarifas de outubro a dezembro. Taiwan Power calculou que o ajuste apropriado seria de 12,83%, elevando o preço médio de NT$3,7823 para NT$4,2675 por quilowatt-hora. O aumento não foi rejeitado, apenas adiado para a 3ª reunião de revisão em dezembro, enquanto o governo buscou um orçamento adicional de NT$71,1 bilhões.
+> **Resumo em 30 segundos:** Em 18 de setembro de 2026, o Ministério da Economia realizou a 2ª reunião do Conselho de Revisão de Tarifas Elétricas do ano 115 (calendário local), decidindo não ajustar as tarifas de eletricidade de outubro a dezembro. O cálculo da Taipower para esta revisão indicava um aumento necessário de 12,83%, elevando o preço médio por kWh de NT$ 3,7823 para NT$ 4,2675. O aumento não foi rejeitado, mas adiado para a 3ª reunião em dezembro; a prioridade atual é buscar uma compensação governamental de NT$ 71,1 bilhões.
 
-**Palavras-chave**: preço de eletricidade, Taiwan Power, reunião de revisão de tarifas de eletricidade, orçamento adicional, energia
+**Palavras-chave**: preço da eletricidade, Taipower, Conselho de Revisão de Tarifas Elétricas, orçamento suplementar, energia
 
 ---
 
-## A tarde em que a reunião terminou
+## Na tarde do encerramento
 
-Na tarde de 18 de setembro de 2026, o Ministério da Economia convocou a 2ª reunião de revisão de tarifas de eletricidade do ano 115. Na coletiva de imprensa após a reunião, o vice-ministro Lai Chien-hsin (賴建信) anunciou a conclusão: as tarifas de eletricidade de outubro a dezembro permaneceriam inalteradas, e o ajuste de tarifas desta vez seria "adiado", deixando para a 3ª reunião de revisão de tarifas em dezembro, quando também seria discutida a revisão das tarifas de transmissão e distribuição. Se um ajuste fosse aprovado em dezembro, a nova tarifa entraria em vigor a partir de 1º de janeiro de 2027.[^1][^2][^4]
+Na tarde de 18 de setembro de 2026, o Ministério da Economia realizou a 2ª reunião do Conselho de Revisão de Tarifas Elétricas do ano 115. Na coletiva de imprensa após a reunião, o vice-ministro da Economia, Lai Chien-hsin (賴建信), concluiu que as tarifas atuais serão mantidas de outubro a dezembro. O ajuste tarifário foi "postergado", ficando para ser discutido em dezembro durante a 3ª reunião do conselho, quando também serão revisadas as tarifas de transmissão e distribuição; caso um ajuste seja decidido em dezembro, as novas tarifas entrarão em vigor em 1º de janeiro de 2027. [^1][^2][^4]
 
-Havia um conjunto de números sobre a mesa. De acordo com o resultado da revisão de tarifas de eletricidade de Taiwan Power, o ajuste apropriado seria de 12,83%, elevando o preço médio de NT$3,7823 para NT$4,2675 por quilowatt-hora, ou seja, um aumento de NT$0,4174 por quilowatt-hora. O Ministério da Economia afirmou que, se calculado com uma margem de lucro razoável de 5%, após o aumento Taiwan Power poderia esperar ganhar em média NT$7,75 bilhões por mês nos próximos três meses.[^1]
+Havia um conjunto de números sobre a mesa. De acordo com o resultado da revisão da Taipower, o aumento necessário seria de 12,83%, elevando o preço médio por kWh de NT$ 3,7823 para NT$ 4,2675 — um acréscimo de NT$ 0,4852 por kWh. Outro valor de NT$ 0,4174 mencionado na apresentação da Taipower refere-se à diferença entre o novo preço unitário proposto e o preço da tarifa anterior de NT$ 3,8501. [^13] O Ministério da Economia afirmou que, se calculado com um lucro razoável de 5%, a Taipower poderia esperar lucrar, em média, NT$ 7,75 bilhões por mês nos próximos três meses após o ajuste. [^1]
 
-Esse conjunto de números não foi rejeitado, apenas deixado sobre a mesa. O que a reunião decidiu priorizar foi outro valor: um orçamento adicional de NT$71,1 bilhões do governo para Taiwan Power, que precisaria ser aprovado pela Assembleia Legislativa.[^1][^2]
+Esses números não foram rejeitados; foram apenas deixados "na mesa". O conselho decidiu que a prioridade é buscar outro montante: uma compensação governamental de NT$ 71,1 bilhões para a Taipower, valor que deverá ser aprovado pelo Legislativo por meio de um orçamento suplementar. [^1][^2]
 
-## Atrás de uma conta de eletricidade, está uma empresa que antecipou o custo
+## Por trás de uma conta de luz, uma empresa que adianta os custos
 
-Para entender o significado de "adiar a decisão", é preciso olhar para o balanço de Taiwan Power neste ano. No exercício fiscal de 2025, Taiwan Power teve um lucro antes de impostos de NT$75,6 bilhões, encerrando três anos consecutivos de prejuízos. O presidente Tseng Wen-sheng (曾文生) e o diretor-geral Kuo Tien-ho (郭天合) relataram isso aos acionistas na assembleia geral ordinária de junho.[^8][^9] Na época, a empresa informou que os preços internacionais de combustível se estabilizaram e, com medidas de redução de custos, os prejuízos deste ano poderiam ser contidos.
+Para entender o que está por trás do termo "postergado", é preciso olhar para o demonstrativo de resultados da Taipower este ano. No ano de 2025, a Taipower registrou um lucro antes dos impostos de NT$ 75,6 bilhões, encerrando uma sequência de três anos de prejuízos; o presidente Tseng Wen-sheng (曾文生) e o gerente geral Kuo Tien-ho (郭天合) relataram esse fato aos acionistas na assembleia geral em junho. [^8][^9] Na época, a versão oficial da empresa era de que, com a estabilização dos preços internacionais de combustíveis e medidas de redução de custos, o prejuízo deste ano tenderia a diminuir.
 
-Então a guerra no Oriente Médio desorganizou os planos. Segundo o Ministério da Economia, após o conflito, os preços internacionais de petróleo oscilaram continuamente entre US$68 e US$132 por barril. Taiwan Power continuou absorvendo custos de combustível para estabilizar os preços, estimando ter absorvido cerca de NT$71,1 bilhões de março a agosto. Taiwan Power registrou um prejuízo de NT$21,4 bilhões até o final de julho, e com base nas flutuações atuais dos preços internacionais de energia, estima-se que o prejuízo anual ultrapassará NT$71,1 bilhões.[^1][^2] Em outras palavras, os prejuízos dos próximos cinco meses podem se expandir em mais NT$50 bilhões, uma média de mais de NT$10 bilhões por mês.[^1]
+No entanto, os conflitos no Oriente Médio desestabilizaram os planos. Segundo o Ministério da Economia, após o início dos conflitos, o preço internacional do petróleo oscilou entre US$ 68 e US$ 132 por barril. Para manter a estabilidade dos preços ao consumidor, a Taipower continuou absorvendo os custos de combustível, estimando ter absorvido cerca de NT$ 71,1 bilhões entre março e agosto deste ano. Até o final de julho, a Taipower acumulava um prejuízo de NT$ 21,4 bilhões; com base na volatilidade atual dos preços internacionais de energia, estima-se que o prejuízo anual ultrapasse NT$ 71,1 bilhões. [^1][^2] Em outras palavras, o prejuízo nos próximos cinco meses pode aumentar em mais NT$ 50 bilhões, uma média superior a NT$ 10 bilhões por mês. [^1]
 
-O vice-presidente de Taiwan Power, Wang Yun-chun (王韻淳), complementou dois motivos na coletiva: até julho, os custos de gás natural da indústria de energia continuavam subindo, e nos meses seguintes, com a restauração das tarifas de estação não-verão, a receita de vendas de eletricidade diminuiria enquanto os custos de combustível aumentariam, expandindo os prejuízos dos meses restantes.[^1]
+O vice-gerente geral da Taipower, Wang Yun-chun (王韻淳), complementou após a reunião citando dois motivos: até julho, os custos do gás natural para o setor elétrico continuam subindo e, nos meses seguintes, com o retorno das tarifas de eletricidade fora do período de verão, a receita de venda de energia diminuirá enquanto os custos de combustível permanecem altos, ampliando o prejuízo nos meses restantes. [^1]
 
 ```tw-bars
-Resultado de Taiwan Power: de lucro de NT$75,6 bilhões para prejuízo estimado superior a NT$71,1 bilhões (em bilhões de NT$)
-Exercício fiscal de 2025 (antes de impostos) | 756
-2026 até final de julho | -214
-2026 ano inteiro (estimativa do Ministério da Economia) | -711
-Fonte: Agência Central de Notícias 18 de setembro de 2026, Assembleia Geral de Acionistas de Taiwan Power 2026 (Kuo Heng Net, Jornal Econômico 26 de junho de 2026)
+Resultados da Taipower: de um lucro de NT$ 75,6 bi para um prejuízo estimado de >NT$ 71,1 bi (bilhões de NT$)
+Ano de 2025 (antes dos impostos) | 75,6
+Janeiro a julho de 2026 | -21,4
+Total de 2026 (estimativa do Min. Economia) | -71,1
+Fonte: CNA, 18 de setembro de 2026; Assembleia Geral da Taipower 2026 (Chunghwa News, Economic Daily, 26 de junho de 2026)
 ```
 
-## Como aquele 12,83% foi calculado
+## Como se chegou aos 12,83%?
 
-O preço de eletricidade não é um número que o Executivo pode anunciar a qualquer momento — há uma fórmula na frente bloqueando-o. De acordo com o Artigo 49 da Lei de Negócios de Eletricidade, o preço de venda de eletricidade é definido pela autoridade central competente. A atual "Fórmula de Cálculo de Tarifas de Eletricidade para Empresas de Venda de Eletricidade Pública" foi anunciada e implementada pelo Ministério da Economia em 6 de novembro de 2017.[^6] De acordo com o mecanismo de revisão e ajuste desta fórmula, as tarifas de eletricidade são revisadas duas vezes por ano, com aumentos e diminuições geralmente não excedendo 3% por vez. No entanto, quando os custos de fornecimento de eletricidade aumentam ou diminuem continuamente de forma significativa, a reunião de revisão de tarifas de eletricidade pode, considerando a operação do fundo de estabilização de tarifas, fazer ajustes apropriados no aumento.[^5]
+O preço da eletricidade não é um número que o Executivo pode anunciar a qualquer momento; existe uma fórmula que o regula. De acordo com o Artigo 49 da Lei do Setor Elétrico, os preços de venda de eletricidade são determinados pela autoridade central competente. A "Fórmula de Cálculo de Tarifas para o Setor de Venda Pública de Eletricidade", atualmente em vigor, foi anunciada e implementada pelo Ministério da Economia em 6 de novembro de 2017. [^6] Segundo o mecanismo de revisão desta fórmula, a tarifa é revisada duas vezes por ano, com aumentos ou reduções que, em princípio, não excedem 3% por vez; contudo, quando os custos de fornecimento sobem ou descem drasticamente, o Conselho de Revisão de Tarifas Elétricas pode realizar ajustes adequados, dependendo do funcionamento do Fundo de Estabilização de Preços de Eletricidade. [^5]
 
-Assim, o número 12,83% é o resultado de Taiwan Power colocar custos de combustível, taxa de câmbio e estrutura de geração e compra de eletricidade na fórmula. Quanto a se pode aumentar e quanto aumentar, isso é decidido pela reunião de revisão. Na reunião de 18 de setembro deste ano, a reunião revisou os controles de custos de Taiwan Power e considerou que as despesas relevantes eram razoáveis. Lai Chien-hsin transmitiu o julgamento dos membros: se não houvesse a guerra no Oriente Médio este ano, Taiwan Power teria a oportunidade de manter lucros e melhorar gradualmente as finanças. No entanto, como o conflito continua e os preços internacionais de petróleo e gás flutuam dramaticamente, os membros consideraram que deveria ser priorizado buscar um orçamento adicional do governo para reduzir a pressão financeira de Taiwan Power.[^1]
+Portanto, o número de 12,83% é o resultado obtido pela Taipower ao inserir os custos de combustível, a taxa de câmbio e a estrutura de geração e compra de energia na fórmula. Se haverá aumento e quanto será, cabe ao conselho decidir. Na reunião de 18 de setembro deste ano, o conselho examinou o controle de custos da Taipower e considerou que as despesas relacionadas eram razoáveis. Lai Chien-hsin transmitiu o julgamento dos membros: se não houvesse a guerra no Oriente Médio, a Taipower teria chances de manter lucros e sanear suas finanças gradualmente. No entanto, como o conflito continua e os preços internacionais de petróleo e gás oscilam violentamente, os membros consideraram que a prioridade deve ser buscar a compensação governamental para reduzir a pressão financeira da Taipower. [^1] De acordo com a apresentação sobre o método de votação divulgada pela Agência de Energia, o conselho decide, em princípio, por consenso; o voto ocorre apenas quando há divergência, sendo realizado por votação nominal, e a conclusão da reunião registra apenas a proporção de votos. [^14] Nesta sessão não houve votação; o caso tarifário foi discutido pelos membros em uma reunião de portas fechadas após a saída da Taipower, resultando na decisão de "não decidir temporariamente". [^15]
 
 ```tw-stack
-Decomposição do conjunto de números sobre a mesa da reunião (NT$/quilowatt-hora, bilhões de NT$)
-Item | Valor | Explicação
-Preço médio de eletricidade atual | 3,7823 | Reunião de revisão de 27 de março de 2026
-Preço de eletricidade apropriado da revisão | 4,2675 | Revisão de tarifas de eletricidade de Taiwan Power desta vez
-Diferença entre os dois | 0,4174 | Equivalente a um aumento de 12,83%
-Custos de combustível absorvidos de março a agosto | 71,1 bilhões | Preço de petróleo internacional oscilando entre US$68 e US$132 por barril
-Prejuízo até final de julho deste ano | 21,4 bilhões | Estimativa anual superior a NT$71,1 bilhões
-Fonte: Agência Central de Notícias, Notícias PTS 18 de setembro de 2026, Comunicado de Imprensa da Reunião de Revisão de Tarifas de Eletricidade da Agência de Energia do Ministério da Economia
+Detalhamento dos números na mesa do Conselho (NT$ por kWh, bilhões de NT$)
+Item | Valor | Descrição
+Tarifa média atual | 3,7823 | Mantida pelo conselho em 27 de março de 2026
+Tarifa proposta na revisão | 4,2675 | Proposta da atual revisão da Taipower
+Diferença entre ambas | 0,4852 | Equivalente a um aumento de 12,83%
+Custos de combustível absorvidos (mar-ago) | NT$ 71,1 bi | Oscilação do petróleo entre US$ 68 e US$ 132/barril
+Prejuízo até o fim de julho | NT$ 21,4 bi | Estimativa anual superior a NT$ 71,1 bi
+Fonte: Relatórios da CNA e PTS, 18 de setembro de 2026; Comunicado de imprensa do Conselho de Revisão de Tarifas da Agência de Energia do Ministério da Economia
 ```
 
 ## De 2,6253 para 3,7823
 
-Este mecanismo foi amplamente testado pela última vez em 2022, quando a guerra Rússia-Ucrânia elevou os preços de combustível. A reunião de revisão decidiu em 29 de março "adiar para data posterior", com um período de reunião temporária provisório de 2 a 3 meses. Na reunião temporária de 27 de junho, foi feito o primeiro ajuste em camadas: residências com consumo mensal de eletricidade de até 1.000 quilowatt-hora, pequenas lojas e usuários de baixa tensão não foram ajustados; residências acima de 1.001 quilowatt-hora foram aumentadas em 9%; usuários de alta tensão foram aumentados em 15%. Seis setores — agricultura e pesca, alimentos, varejo, alimentação, cinemas, academias — e escolas do ensino médio para baixo foram excluídos.[^5]
+O último grande teste deste mecanismo ocorreu em 2022. Após a guerra na Ucrânia elevar os preços dos combustíveis, o conselho decidiu em 29 de março "adiar a decisão", estabelecendo um período temporário de 2 a 3 meses. Em 27 de junho, a reunião extraordinária determinou o primeiro aumento escalonado: para residências com consumo mensal abaixo de 1.000 kWh, pequenas lojas e baixa tensão não sofreram ajustes; para residências acima de 1.001 kWh, o aumento foi de 9%; para usuários de alta tensão ou superior, o aumento foi de 15%. Setores como agricultura/pesca, alimentação, varejo, restauração, cinema e academias, além de escolas de ensino fundamental e médio, foram excluídos. [^5]
 
-Na 2ª reunião de revisão de setembro do mesmo ano, as tarifas de eletricidade não foram ajustadas novamente, mantendo o preço médio de NT$2,8458 por quilowatt-hora, enquanto o governo planejou alocar NT$150 bilhões para aumento de capital de Taiwan Power.[^5] Na reunião de revisão de março de 2023, o aumento de tarifa média foi definido em 11%, com residências de até 700 quilowatt-hora sem ajuste, e em setembro manteve-se em NT$3,1154 por quilowatt-hora sem mudanças.[^5]
+Na segunda reunião de setembro do mesmo ano, não houve novo ajuste tarifário, mantendo a média de NT$ 2,8458 por kWh, enquanto o governo planejou um aporte de capital de NT$ 150 bilhões para a Taipower. [^5] Em março de 2023, o conselho fixou o aumento médio em 11%, sem ajustes para residências com consumo abaixo de 700 kWh; em setembro, a tarifa manteve-se em NT$ 3,1154. [^5]
 
-O ponto de virada apareceu na reunião de revisão de 22 de março de 2024. O relatório do Centro de Orçamento da Assembleia Legislativa registrou os números enfrentados na época: Taiwan Power teve perdas de NT$1,2 e NT$0,9 por quilowatt-hora vendido nos anos 111 e 112 respectivamente, e o prejuízo acumulado do ano 112 já havia atingido NT$382,6 bilhões. Com tal balanço patrimonial, a reunião de revisão, sob a premissa de "subsídio governamental de NT$100 bilhões", decidiu ajustar o preço médio geral de eletricidade para NT$3,4518 por quilowatt-hora, implementado a partir de 1º de abril, com três resoluções anexas, uma das quais solicitava a Taiwan Power revisar a razoabilidade das disposições de classificação de usuários.[^5]
+A reviravolta ocorreu na reunião de 22 de março de 2024. O relatório do Centro de Orçamento do Legislativo registrou os números da época: nos anos 111 e 112 (calendário local), a Taipower teve prejuízos de NT$ 1,2 e NT$ 0,9 por kWh vendidos, respectivamente, com o prejuízo acumulado em 112 atingindo NT$ 382,6 bilhões. Diante desse balanço patrimonial, o conselho decidiu — sob a premissa de um "subsídio governamental de NT$ 100 bilhões" — elevar a tarifa média total para NT$ 3,4518, com implementação em 1º de abril, acompanhada de três resoluções, uma das quais solicitava que a Taipower revisasse a razoabilidade das regras de classificação de usuários. [^5]
 
-O ritmo deste ano voltou à forma familiar: a reunião de revisão de 27 de março decidiu não ajustar, mantendo o preço médio de NT$3,7823 por quilowatt-hora,[^4][^7] e a reunião de 18 de setembro adiou a decisão, com a 3ª reunião em dezembro para revisar simultaneamente as tarifas de transmissão e distribuição, preços internacionais de energia, orçamento adicional do governo e finanças de Taiwan Power.[^1][^4]
+Após março, as tarifas mudaram mais duas vezes. Na reunião de 30 de setembro de 2024, o conselho decidiu não ajustar as faixas progressivas para residências e pequenas lojas (totalizando 14,52 milhões de unidades, ou 95,2% dos usuários); para a indústria, o padrão foi um aumento de 14%, enquanto setores com queda no consumo e valor de produção tiveram congelamento ou ajuste de 7%. [^16] Em outubro de 2025, o aumento médio foi de 0,71%; a indústria não teve ajuste, e para residências abaixo de 700 kWh, houve um acréscimo de NT$ 0,1 por kWh. [^17]
+
+O ritmo deste ano retornou ao padrão familiar: na 1ª reunião de 27 de março, decidiu-se não ajustar, mantendo a média de NT$ 3,7823 por kWh; [^4][^7] na 2ª reunião de 18 de setembro, decidiu-se não decidir temporariamente, e a 3ª reunião em dezembro analisará conjuntamente as tarifas de transmissão/distribuição, os preços internacionais de energia, a compensação governamental e as finanças da Taipower. [^1][^4]
 
 ```tw-line
-Preço médio de eletricidade estabelecido após cada "adiamento de decisão" (NT$/quilowatt-hora)
-Data da decisão da reunião | Preço médio de eletricidade | Decisão
+Evolução da tarifa média após cada decisão de "não decidir" (NT$ por kWh)
+Data da decisão | Tarifa média | Decisão
 2020-03-18 | 2,6253 | Sem ajuste
 2020-09-14 | 2,6253 | Sem ajuste
-2021-03-26 | 2,6253 | Sem ajuste, ponto de ativação de 0,5% estabelecido
+2021-03-26 | 2,6253 | Sem ajuste; estabelecido ponto de ativação de 0,5%
 2021-09-23 | 2,6253 | Sem ajuste
-2022-06-27 | 2,8458 | Reunião temporária, primeiro ajuste em camadas
-2022-09-19 | 2,8458 | Sem ajuste, governo aloca NT$150 bilhões para aumento de capital
+2022-06-27 | 2,8458 | Reunião extraordinária; primeiro aumento escalonado
+2022-09-19 | 2,8458 | Sem ajuste; governo aportou NT$ 150 bi de capital
 2023-03-22 | 3,1154 | Aumento médio de 11%
 2023-09-19 | 3,1154 | Sem ajuste
-2024-03-22 | 3,4518 | Aumento médio de 11%, implementado em 1º de abril
+2024-03-22 | 3,4518 | Aumento médio de 11%, em vigor desde 1º de abril
 2026-03-27 | 3,7823 | Sem ajuste
-Fonte: Centro de Orçamento da Assembleia Legislativa "Visão Geral dos Ajustes de Tarifas de Eletricidade Doméstica nos Últimos 5 Anos" (agosto de 113), Notícias PTS 27 de março de 2026
+Fonte: Centro de Orçamento do Legislativo "Panorama dos Ajustes Tarifários nos Últimos 5 Anos" (agosto de 113), Notícias da PTS, 27 de março de 2026
 ```
 
 ```tw-timeline
-2017 | Fórmula de tarifas anunciada | Anunciada em 6 de novembro, revisada duas vezes por ano, aumento máximo de 3% por vez
-2022 | Aumento de capital de NT$150 bilhões | Reunião de revisão de setembro sem ajuste, governo aloca aumento de capital
-2024 | Prejuízo acumulado de NT$382,6 bilhões | 22 de março, sob subsídio governamental de NT$100 bilhões, aumento de 11% para NT$3,4518
-2026 | 2ª reunião de revisão | 18 de setembro, adiamento de decisão, busca de orçamento adicional de NT$71,1 bilhões, revisão em dezembro
-2027 | Nova tarifa | Resultado da 3ª reunião de revisão em dezembro aplicável a partir de 1º de janeiro
-Fonte: Relatório do Centro de Orçamento da Assembleia Legislativa, Comunicado de Imprensa da Agência de Energia do Ministério da Economia, Agência Central de Notícias 18 de setembro de 2026
+2017 | Anúncio da fórmula tarifária | Implementada em 6 de novembro; revisões 2x/ano, princípio de 3% por vez
+2022 | Aporte de NT$ 150 bi | Reunião de setembro sem ajuste; governo planeja aporte de capital
+2024 | Prejuízo acumulado de NT$ 382,6 bi | Em 22 de março, aumento de 11% para NT$ 3,4518 sob subsídio de NT$ 100 bi
+2026 | 2ª reunião do conselho | 18 de setembro: decisão temporariamente adiada; busca por NT$ 71,1 bi em compensação; nova discussão em dezembro
+2027 | Novas tarifas | Resultados da 3ª reunião de dezembro aplicam-se a partir de 1º de janeiro
+Fonte: Relatórios do Centro de Orçamento do Legislativo, Comunicados da Agência de Energia do Ministério da Economia, CNA, 18 de setembro de 2026
 ```
 
-## Quem antecipa primeiro, qual é a diferença
+## Quem adianta o custo e qual a diferença?
 
-Colocando os três métodos de tratamento lado a lado, o padrão fica claro: em 2022, o governo alocou NT$150 bilhões para aumento de capital de Taiwan Power; em 2024, foi sob a premissa de subsídio governamental de NT$100 bilhões que se fez um aumento de 11%; em 2026, busca-se primeiro um orçamento adicional de NT$71,1 bilhões, deixando o aumento de 12,83% para discussão em dezembro.[^1][^5] O ponto comum dos três métodos é: a conta não desaparece, apenas é registrada em diferentes categorias — o aumento de preço é registrado na conta de eletricidade do usuário, o aumento de capital e subsídios são registrados no orçamento do governo, e a diferença de tempo entre os dois cai no balanço de Taiwan Power.
+Ao comparar as três abordagens, o padrão fica claro: em 2022, o governo aportou NT$ 150 bilhões para a Taipower; em 2024, houve um aumento de 11% sob a premissa de um subsídio de NT$ 100 bilhões; e em 2026, busca-se primeiro um orçamento suplementar de NT$ 71,1 bilhões, deixando o aumento de 12,83% para ser discutido em dezembro. [^1][^5] O ponto comum entre as três abordagens é: a dívida não desaparece, ela apenas é registrada em contas diferentes — o aumento vai para a conta de luz do usuário, o aporte e o subsídio vão para o orçamento do governo, e o intervalo de tempo entre ambos recai sobre o demonstrativo de resultados da Taipower.
 
-Na reunião de 18 de setembro, os membros também discutiram outro método de distribuição: apenas ajustar as tarifas de eletricidade para AIDC (centros de dados de IA) e indústrias de alta tecnologia. Lai Chien-hsin transmitiu que a reunião considerou que deveria haver uma revisão abrangente, em vez de primeiro disparar a flecha e confirmar que definitivamente deveria começar por esta parte, porque diferentes necessidades e oportunidades de desenvolvimento industrial devem ser levadas em consideração.[^1]
+Na reunião de 18 de setembro, os membros também discutiram outra forma de rateio: aumentar apenas as tarifas para AIDC (Centros de Dados de IA) e indústrias de alta tecnologia. Lai Chien-hsin relatou que a reunião entendeu que deveria haver uma revisão abrangente, em vez de focar imediatamente apenas nesse setor, pois é necessário equilibrar diferentes demandas e oportunidades de desenvolvimento industrial. [^1]
 
-No mesmo período, o Ministério da Economia também tomou decisões sobre outros preços de energia: gás natural para uso doméstico e gás engarrafado foram congelados até o final do ano, pela mesma razão de estabilizar os preços.[^2] Quanto ao boato de que "o aumento de tarifa foi confirmado", a plataforma de verificação de fatos já esclareceu uma vez em setembro: a decisão da reunião foi adiar o ajuste, e o 12,83% e NT$4,2675 por quilowatt-hora transmitidos pela rede são conteúdo de discussão da reunião, não decisão já confirmada.[^11] Esta diferença vale a pena lembrar — "quanto Taiwan Power calculou na revisão" e "o que a reunião de revisão finalmente decidiu" são dois números em posições diferentes neste mecanismo.[^1]
+No mesmo período, o Ministério da Economia também tomou decisões sobre outros preços de energia: o gás natural residencial e o GLP (gás de cozinha) foram congelados até o fim do ano, pelo mesmo motivo de estabilizar os preços ao consumidor. [^2] Quanto aos rumores de que "o aumento da luz é inevitável", plataformas de checagem de fatos já esclareceram em setembro: a decisão do conselho foi de não ajustar temporariamente; o valor de 12,83% e o preço de NT$ 4,2675 por kWh mencionados na internet pertencem ao conteúdo discutido na reunião, não sendo uma decisão final. [^11] Essa distinção é importante: "quanto a revisão da Taipower calculou" e "o que o conselho decidiu finalmente" são números em posições diferentes dentro deste mecanismo. [^1]
 
-## A mesa em dezembro
+## A mesa de dezembro
 
-As únicas coisas que podem ser confirmadas a seguir são três: em dezembro será convocada a 3ª reunião de revisão de tarifas de eletricidade, na qual serão revisadas simultaneamente as várias tarifas de transmissão e distribuição,[^4] se um ajuste for aprovado, a nova tarifa de eletricidade entrará em vigor a partir de 1º de janeiro de 2027,[^1] e antes disso, se o orçamento adicional de NT$71,1 bilhões será aprovado depende da Assembleia Legislativa.[^1]
+O que se pode afirmar para o futuro são apenas três coisas: em dezembro será realizada a 3ª reunião do Conselho de Revisão de Tarifas Elétricas, que revisará também as tarifas de transmissão e distribuição; [^4] caso um ajuste seja feito, as novas tarifas entrarão em vigor em 1º de janeiro de 2027; [^1] e, antes disso, a decisão sobre a aprovação do orçamento suplementar de NT$ 71,1 bilhões cabe ao Legislativo. [^1] Os grupos partidários negociaram em 16 de outubro e concordaram que, em 23 de outubro, o Primeiro-Ministro Cho Jung-tai (卓榮泰) será convidado ao Legislativo para apresentar este orçamento suplementar, iniciando a análise após as perguntas. [^18]
 
-Para uma família ou uma pequena loja, a parte mais prática desta história é: as contas de eletricidade até dezembro deste ano parecem iguais às de março, e quanto à conta do próximo ano, depende de uma reunião em dezembro e uma votação da Assembleia Legislativa serem concluídas em sequência. Taiwan Power continua absorvendo custos durante este período, enquanto a fórmula e a reunião de revisão continuam separando "quanto deveria aumentar" e "deveria aumentar" em dois passos — este é exatamente o design deixado pela fórmula de 2017, e também a razão pela qual cada controvérsia de tarifas de eletricidade dos últimos anos volta ao mesmo cenário.[^5][^6]
+Para uma família ou um pequeno comércio, a parte mais prática desta história é: as contas de luz deste ano permanecerão iguais às de março até dezembro; quanto à conta do próximo ano, dependerá da sequência entre uma reunião em dezembro e uma votação no Legislativo. Durante este período, a Taipower continuará absorvendo os custos, enquanto a fórmula e o conselho mantêm a separação entre "quanto deve aumentar" e "se deve aumentar" — este é justamente o desenho deixado pela fórmula de 2017 e a razão pela qual todas as disputas tarifárias dos últimos anos retornam ao mesmo cenário. [^5][^6]
 
 **Leitura complementar**:
 
-- [Mecanismo de Preço de Petróleo em Taiwan e China National Petroleum: os NT$36 economizados, primeiro registrados sob o nome de uma empresa na linha de frente](/pt/economy/taiwan-fuel-pricing-and-cpc) — A mesma versão de design "empresa estatal antecipa, depois é compensada por orçamento" aplicada a produtos petrolíferos.
+- [O mecanismo de preços de combustíveis em Taiwan e a CPC: os NT$ 36 economizados são registrados primeiro no nome de uma empresa que fica na linha de frente](/pt/economy/taiwan-fuel-pricing-and-cpc) — A mesma lógica de "estatais absorvem o custo primeiro, governo compensa depois", aplicada aos combustíveis.
 
 ## Referências
 
-[^1]: [Tarifas de eletricidade congeladas até final do ano; Taiwan Power estima prejuízo superior a NT$71,1 bilhões para o ano inteiro (Agência Central de Notícias, 2026-09-18)](https://www.cna.com.tw/news/afe/202609180272.aspx) — Registra a decisão da reunião, 12,83% e NT$4,2675 por quilowatt-hora, prejuízo de NT$21,4 bilhões até julho, prejuízo anual estimado superior a NT$71,1 bilhões, e explicações de Lai Chien-hsin e Wang Yun-chun.
+[^1]: [Preços de eletricidade congelados até o fim do ano; Taipower estima prejuízo anual superior a NT$ 71,1 bilhões (CNA, 18-09-2026)](https://www.cna.com.tw/news/afe/202609180272.aspx) — Registra a decisão do conselho, os valores de 12,83% e NT$ 4,2675 por kWh, o prejuízo de NT$ 21,4 bilhões até julho, a estimativa anual de >NT$ 71,1 bilhões e as explicações de Lai Chien-hsin e Wang Yun-chun.
 
-[^2]: [Tarifas de outubro congeladas; reunião de revisão busca orçamento adicional de NT$71,1 bilhões para Taiwan Power (Notícias PTS, 2026-09-18)](https://news.pts.org.tw/article/827713) — Conteúdo da coletiva de imprensa do Ministério da Economia após a reunião: absorção de custos de combustível de cerca de NT$71,1 bilhões de março a agosto, preço de petróleo internacional oscilando entre US$68 e US$132 por barril.
+[^2]: [Tarifas congeladas em outubro; Conselho busca compensação governamental de NT$ 71,1 bi para Taipower (PTS News, 18-09-2026)](https://news.pts.org.tw/article/827713) — Conteúdo da coletiva do Ministério da Economia: absorção de NT$ 71,1 bilhões em custos de combustível entre março e agosto; oscilação do petróleo entre US$ 68 e US$ 132/barril.
 
-[^3]: [Ministério da Economia convoca reunião de revisão de tarifas de eletricidade; tarifas não ajustadas por enquanto (Notícias PTS, 2026-09-18)](https://news.pts.org.tw/article/827761) — Cobertura do processo e decisões da 2ª reunião de revisão de tarifas de eletricidade do ano 115.
+[^3]: [Ministério da Economia realiza reunião do Conselho de Revisão de Tarifas; adiamento do ajuste para o fim do ano (PTS News, 18-09-2026)](https://news.pts.org.tw/article/827761) — Reportagem sobre o processo e a decisão da 2ª reunião do conselho do ano 115.
 
-[^4]: [Área de Comunicados de Imprensa | Agência de Energia do Ministério da Economia Zona de Divulgação de Informações de Revisão de Tarifas de Eletricidade](https://www3.moeaea.gov.tw/ele102/Content/NewsLetter/List.aspx?MmmID=654246033427256710) — Índice de comunicados de imprensa oficiais, incluindo "Reunião de revisão decide priorizar busca de orçamento adicional do governo, ajuste de tarifa desta vez adiado" (2026-09-18) e "Reunião de revisão de tarifas de eletricidade decide não ajustar tarifas" (2026-03-27).
+[^4]: [Área de Comunicados de Imprensa | Agência de Energia do Ministério da Economia: Divulgação de Informações sobre Tarifas Elétricas](https://www3.moeaea.gov.tw/ele102/Content/NewsLetter/List.aspx?MmmID=654246033427256710) — Índice oficial de comunicados, incluindo o de 18-09-2026 ("prioridade para compensação governamental") e o de 27-03-2026 ("sem ajuste").
 
-[^5]: [2. Visão Geral dos Ajustes de Tarifas de Eletricidade Doméstica nos Últimos 5 Anos (Pesquisa Temática do Centro de Orçamento da Assembleia Legislativa, agosto de 113)](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55581&pid=242288) — Mecanismo de revisão e ajuste da fórmula, tabela resumida de decisões de reuniões de revisão de 109 a 113, e números como "prejuízo acumulado do ano 112 atingiu NT$382,6 bilhões".
+[^5]: [II. Panorama dos Ajustes Tarifários Nacionais nos Últimos 5 Anos (Estudo Temático do Centro de Orçamento do Legislativo, agosto de 113)](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55581&pid=242288) — Mecanismo de revisão da fórmula, tabela de decisões das reuniões de 109 a 113 e dados como o prejuízo acumulado de NT$ 382,6 bilhões em 112.
 
-[^6]: [Fórmula de Cálculo de Tarifas de Eletricidade para Empresas de Venda de Eletricidade Pública (Regulamento Administrado pelo Ministério da Economia, anunciado em 6 de novembro do ano 106)](https://law.moea.gov.tw/LawContent.aspx?id=GL000344) — Base legal e data de anúncio da fórmula de tarifa de eletricidade atual.
+[^6]: [Fórmula de Cálculo de Tarifas para o Setor de Venda Pública de Eletricidade (Regulamentação do Ministério da Economia, anunciada em 6 de novembro de ano 106)](https://law.moea.gov.tw/LawContent.aspx?id=GL000344) — Base legal e data de anúncio da fórmula atual.
 
-[^7]: [Ministério da Economia: tarifas de eletricidade congeladas a partir de abril, mantendo preço médio de NT$3,7823 por quilowatt-hora (Notícias PTS, 2026-03-27)](https://news.pts.org.tw/article/801034) — Posição oficial de NT$3,7823 por quilowatt-hora e resultado da 1ª reunião de revisão deste ano.
+[^7]: [Ministério da Economia: Tarifas congeladas a partir de abril; média mantida em NT$ 3,7823 por kWh (PTS News, 27-03-2026)](https://news.pts.org.tw/article/801034) — Discurso oficial de NT$ 3,7823/kWh e resultado da 1ª reunião deste ano.
 
-[^8]: [Assembleia Geral de Taiwan Power: lucro de NT$75,6 bilhões no ano passado, encerrando três anos consecutivos de prejuízos! (Kuo Heng Net, 2026-06-26)](https://news.cnyes.com/news/id/6513586) — Cobertura da Assembleia Geral de Acionistas de Taiwan Power 2026: lucro antes de impostos de NT$75,6 bilhões no exercício fiscal de 2025, encerrando três anos consecutivos de prejuízos.
+[^8]: [〈Assembleia Geral da Taipower〉Fim de três anos de prejuízos! Lucro de NT$ 75,6 bi no ano passado (Chunghwa News, 26-06-2026)](https://news.cnyes.com/news/id/6513586) — Reportagem sobre a assembleia de 2026: lucro antes dos impostos de NT$ 75,6 bilhões em 2025.
 
-[^9]: [Assembleia Geral de Taiwan Power; Acionistas expressam preocupação: prejuízos por política não devem ser suportados por acionistas privados (Jornal Econômico, 2026-06-26)](https://money.udn.com/money/story/7307/9590668) — Registro do local da mesma assembleia, incluindo comentários de acionistas sobre "prejuízos por política".
+[^9]: [Assembleia Geral da Taipower; Acionistas dizem: Prejuízos por política não devem ser suportados pelo setor privado (Economic Daily, 26-06-2026)](https://money.udn.com/money/story/7307/9590668) — Registro da assembleia, incluindo a visão dos acionistas sobre "prejuízos de natureza política".
 
-[^10]: [Ministério congela tarifas de eletricidade até dezembro (Taipei Times, 2026-09-19)](https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522) — Cobertura em inglês comparando o aumento de 12,83% e NT$4,2675 por quilowatt-hora, servindo como verificação cruzada de precisão de números.
+[^10]: [Ministry freezes electricity rates until December meet (Taipei Times, 19-09-2026)](https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522) — Reportagem em inglês comparando o aumento de 12,83% e NT$ 4,2675 por kWh para verificação cruzada.
 
-[^11]: [【Incorreto】Boato de que "aumento de tarifa foi confirmado"? Aumento de 12,83% e cada quilowatt-hora em NT$4,2675? Descrição enganosa! (MyGoPen Verificação de Fatos, setembro de 2026)](https://www.mygopen.com/2026/09/Taipower.html) — Artigo de verificação indicando que a decisão da reunião foi adiar o ajuste, com 12,83% e NT$4,2675 sendo conteúdo de discussão da reunião, não decisão já confirmada.
+[^11]: [【Falso】Rumores de que "o aumento da luz é certo"? Aumento de 12,83% e mudança para NT$ 4,2675? Descrição enganosa! (MyGoPen Fact Check, setembro de 2026)](https://www.mygopen.com/2026/09/Taipower.html) — Artigo de checagem aponta que a decisão foi de não ajustar temporariamente; os valores de 12,83% e NT$ 4,2675 foram apenas discutidos, não decididos.
 
-[^12]: [Ministério da Economia convoca 3ª reunião de revisão de tarifas de eletricidade do ano 114; decide as várias tarifas de transmissão e distribuição do ano 115 (Ministério da Economia, 2025-12-03)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=121264) — Explicação da função da 3ª reunião de revisão em revisar várias tarifas de transmissão e distribuição, correspondendo à agenda da reunião de dezembro deste ano.
+[^12]: [Ministério da Economia realiza a 3ª reunião do conselho de 114; delibera tarifas de transmissão/distribuição para o ano 115 (Ministério da Economia, 03-12-2025)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=121264) — Explica que a função da 3ª reunião é revisar as tarifas do setor de transmissão e distribuição.
 
-```
+[^13]: [Apresentação do Plano de Revisão Tarifária para o Segundo Semestre de 115 da Taipower (Agência de Energia, 18-09-2026)](http://ele.tri.org.tw/1150918/1150918-2/1150918-2-2) — Detalha o preço unitário proposto de NT$ 4,2675 vs. NT$ 3,8501 anterior e a decomposição do custo adicional.
 
-```
+[^14]: [Apresentação sobre o Método de Decisão do Conselho de Revisão de Tarifas (Agência de Energia, 18-09-2026)](http://ele.tri.org.tw/1150918/1150918-2/1150918-2-1) — Documento oficial indicando que as decisões são por consenso e votos nominais, sem divulgar votos individuais.
+
+[^15]: [Ata da 2ª reunião do Conselho de Revisão de Tarifas de 115 (Agência de Energia, 18-09-2026)](http://ele.tri.org.tw/1150918/1150918-1/1150918-1-0) — Registro oficial detalhando o fluxo: relatório da Taipower, fala dos membros, resposta da Taipower e reunião de portas fechadas.
+
+[^16]: [Ata da 2ª reunião do Conselho de Revisão de Tarifas de 113 (Agência de Energia, 30-09-2024)](http://ele.tri.org.tw/1130930/1130930-1/1130930-1-0N) — Registro das decisões sobre as faixas progressivas para residências e pequenas lojas.
+
+[^17]: [CNA: Reportagem sobre a 2ª reunião do conselho de 114 (19-09-2025)](https://www.cna.com.tw/news/afe/202509190312.aspx) — Reportagem sobre o aumento médio de 0,71% e o impacto na receita anual.
+
+[^18]: [United Daily News: Relatório sobre negociações partidárias do orçamento suplementar (17-10-2026)](https://udn.com/news/story/6656/9820136) — Registra a negociação no Legislativo para convidar o Primeiro-Ministro Cho Jung-tai para prestar contas.

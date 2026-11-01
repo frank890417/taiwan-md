@@ -1,152 +1,122 @@
 ---
 title: 'Lee Kuo-hsiu'
-description: 'Fundador da Ping Fong Acting Troupe, rei da comédia de Taiwan, faleceu em 2 de julho de 2013 devido a câncer colorretal, aos 58 anos'
+description: 'Fundador da Ping-Fong Acting Troupe, rei da comédia taiwanesa, faleceu em 2 de julho de 2013 devido a câncer colorretal, aos 57 anos'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Lee Kuo-hsiu',
-    'Ping Fong Acting Troupe',
-    'Comédia',
-    'Teatro',
-    'Teatro de Taiwan',
+    'Ping-Fong Acting Troupe',
+    'comédia',
+    'teatro',
+    'teatro taiwanês',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:11b55d270abdf3d3'
-sourceBodyHash: 'sha256:7ab58584d6fb7af7'
-translatedAt: '2026-07-26T03:58:09+08:00'
+sourceCommitSha: 'ec4bf4b5f'
+sourceContentHash: 'sha256:6ce83dd89e705886'
+sourceBodyHash: 'sha256:874193c9926520f1'
+translatedAt: '2026-10-22T02:46:36+08:00'
 ---
 
-# Lee Kuo-hsiu: o rei da comédia de Taiwan
+# Lee Kuo-hsiu: o rei da comédia taiwanesa
 
-Lee Kuo-hsiu é um mestre da comédia de importância ímpar na história do teatro moderno de Taiwan. Em 1986, fundou a Ping Fong Acting Troupe (屏風表演班), criando obras clássicas como _Shamlet_ (《莎姆雷特》), _The Peking Opera Apocalypse_ (《京戲啟示錄》) e _Daughter's Red_ (《女兒紅》). Envolveu profundo humanismo em formas humorísticas, discutindo questões sociais sérias através do riso, sendo aclamado como o "rei da comédia de Taiwan". Em 2013, faleceu vítima de câncer colorretal, aos 58 anos, deixando um valioso legado teatral.
+Lee Kuo-hsiu é um mestre da comédia de importância ímpar na história do teatro moderno de Taiwan. Em 1986, fundou a Ping-Fong Acting Troupe, criando obras clássicas como _Shamlet_, _A Revelação da Ópera de Pequim_ e _Filha Vermelha_. Com profunda preocupação humanista envolvendo formas de expressão humorísticas, abordava questões sociais sérias através do riso, sendo aclamado como o "rei da comédia taiwanesa". Em 2013, faleceu vítima de câncer colorretal, aos 57 anos, deixando um valioso legado teatral.
 
-## Anos de formação como filho de família de vila militar
+## O filho de um mestre de botas de Ópera de Pequim
 
-Lee Kuo-hsiu nasceu a 30 de dezembro de 1955 em Taipé. Seu pai, Lee Fei, era sargento da Força Aérea, e sua mãe, Wang Kuei-hua, dona de casa. Cresceu numa vila militar da Força Aérea (眷村), onde desde cedo vivenciou a atmosfera cultural única desses locais: dialetos de várias províncias misturados, o rigor das famílias militares e a forte saudade da terra natal.
+Lee Kuo-hsiu nasceu em 30 de dezembro de 1955 em Taipé. Seu pai, Lee Shen-en, era mestre na confecção artesanal de botas para Ópera de Pequim; sua mãe, conterrânea do pai, tornou-se mais tarde a inspiração para a protagonista de sua peça _Filha Vermelha_. A ligação do pai com a Ópera de Pequim transformou-se, anos depois, na obra semi-autobiográfica _A Revelação da Ópera de Pequim_.
 
-A vida na vila militar forneceu a Lee Kuo-hsiu vasto material criativo. As relações humanas entre vizinhos, a nostalgia dos veteranos vindos do continente, a identidade dos filhos de famílias de vila militar — esses elementos reaparecem repetidamente em suas peças.
+## Formação em rádio e TV na Shih Hsin
 
-No ensino médio, estudou na Cheng Kung Senior High School (成功高中), onde desenvolveu interesse pela atuação, imitando frequentemente comediantes de programas de TV, revelando talento cômico nato. Colegas acreditavam que tinha potencial para ser ator, mas, na visão tradicional, atuar não era profissão respeitável.
-
-## Despertar teatral na Universidade Fu Jen
-
-Em 1974, Lee Kuo-hsiu ingressou no Departamento de Chinês da Universidade Fu Jen (輔仁大學), marco decisivo em sua carreira teatral. Durante o período na Fu Jen, participou da sociedade de teatro amador do campus, recebendo formação teatral regular e contactando obras clássicas do teatro mundial.
-
-Na universidade, Lee demonstrou dupla aptidão para dramaturgia e atuação. Suas peças curtas faziam colegas rirem às gargalhadas e, ao mesmo tempo, comoviam. Esse "sorriso com lágrimas" (含淚的微笑) reaparece nas obras da Ping Fong Acting Troupe.
-
-Formou-se em 1978, enfrentando escolha crucial. A família desejava que seguisse carreira estável, mas seu anseio interior era o teatro. Por fim, escolheu perseguir o sonho, decidindo dedicar a vida ao teatro.
+Lee Kuo-hsiu estudou no Departamento de Rádio e Televisão da World Journalism Junior College (atual Universidade Shih Hsin). Em 1980, ganhou o Prêmio Golden Bell de Edição (rádio); em 1982, recebeu o prêmio de "Ator Revelação Mais Promissor" no 17º Golden Bell Awards. Ainda antes de ingressar no teatro profissional, já tinha seu talento reconhecido no meio audiovisual.
 
 ## Período na Performance Workshop
 
-Em 1984, Lee Kuo-hsiu fundou a Performance Workshop (表演工作坊) [^1] junto com Stan Lai (賴聲川) e Lee Li-chun (李立群) — Chin Shih-chieh (金士傑) foi colaborador importante, não cofundador —, iniciando sua carreira teatral profissional. Nesse período, participou da criação de obras clássicas como _That Night, We Performed Crosstalk_ (《那一夜，我們說相聲》), exibindo notável talento de atuação.
+Em 1984, Lee Kuo-hsiu fundou a Performance Workshop [^1] ao lado de [Stan Lai](/pt/people/stan-lai-theater-innovation-master/) e Lee Li-chun (Chin Shih-chieh foi colaborador importante, não cofundador). Foi o início de sua carreira no teatro profissional. Durante esse período, participou da criação de obras clássicas como _Naquela Noite, Nós Fizemos Crosstalk_, demonstrando notável talento como ator.
 
-Na Performance Workshop, Lee aprendeu métodos de criação do teatro moderno, especialmente técnicas de improvisação coletiva. Esses dois anos de lapidação teatral confirmaram seu desejo de trilhar caminho próprio na comédia taiwanesa.
+Na Performance Workshop, Lee acumulou experiência na criação teatral moderna e foi definindo progressivamente seu desejo de trilhar um caminho próprio para a comédia taiwanesa.
 
-Durante esse período, começou a refletir sobre sua direção criativa. Descobriu sua aptidão especial para atuação cômica, aliada a aguda observação da realidade social. Isso o levou a decidir abrir uma via criativa única.
+Foi também nesse período que começou a refletir sobre sua direção criativa. Descobriu ter aptidão especial para a atuação cômica, aliada a uma aguda capacidade de observação da realidade social. Isso o levou a decidir por uma via criativa única.
 
-## Fundação da Ping Fong Acting Troupe
+## A fundação da Ping-Fong Acting Troupe
 
-Em 1986, Lee Kuo-hsiu deixou a Performance Workshop e fundou a Ping Fong Acting Troupe. O nome "Ping Fong" (屏風, "biombo") vem da função de abrigar do vento e da chuva, simbolizando o teatro como refúgio espiritual para o público.
+Em outubro de 1986, Lee Kuo-hsiu decidiu fundar a Ping-Fong Acting Troupe. A obra de estreia foi o teatro experimental de linguagem corporal _1812 e Algum Tipo de Espetáculo_; após encenar _Histórias da Rotunda_ em 1987, desligou-se formalmente da Performance Workshop. O nome "Ping-Fong" (屏風, biombo/paravento) remete à função de abrigar do vento e da chuva, simbolizando o papel do teatro em oferecer conforto espiritual ao público.
 
-O lema de fundação era "fazer uma peça, fazer um grupo de amigos" (做一齣戲，交一群朋友), frase que reflete a importância que Lee dava às relações humanas no teatro. Acreditava que o teatro não é apenas criação artística, mas intercâmbio sincero entre pessoas.
+O lema de fundação da trupe era "fazer uma peça, fazer um grupo de amigos", frase que reflete a importância que Lee dava às relações humanas no teatro. Para ele, o teatro não era apenas criação artística, mas também intercâmbio sincero entre pessoas.
 
-No início, os locais de apresentação eram precários e o público escasso, mas Lee insistia em criar cada obra com dedicação. Acreditava que, se a obra fosse boa, o público acabaria por reconhecê-la. Essa persistência sustentou a trupe na difícil fase inicial.
+No início, os espaços de apresentação eram precários e o público, escasso. Ainda assim, Lee insistia em criar cada obra com dedicação. Acreditava que, se o trabalho fosse bom o bastante, o público acabaria por reconhecê-lo. Essa persistência sustentou a trupe durante os difíceis anos iniciais.
 
 ## A trilogia clássica
 
 ### _Shamlet_ (1992)
 
-_Shamlet_ é a obra mais representativa de Lee Kuo-hsiu, com mais de cem apresentações e influência profunda. Transplanta _Hamlet_ de Shakespeare para o contexto de uma vila militar de Taiwan. O protagonista, Sham, é um jovem da vila que enfrenta o conflito entre a vontade do pai e seus ideais pessoais.
+_Shamlet_ é a comédia mais conhecida de Lee Kuo-hsiu. Estreou em 1992 e foi reencenada inúmeras vezes; a versão "Tsunami" de 2006 contou com o próprio Lee em cena, e em 2024 a peça voltou aos palcos como obra memorial.
 
-A obra combina com engenho o clássico ocidental à vivência local taiwanesa, discutindo temas existenciais sérios no humor. A atuação de Lee une a profundidade do teatro shakespeariano à proximidade afável do povo comum taiwanês.
+### _A Revelação da Ópera de Pequim_ (1996)
 
-_Shamlet_ ultrapassou cem apresentações, tornando-se clássico da história do teatro de Taiwan. Consolidou a posição de Lee no teatro taiwanês e provou a viabilidade da adaptação localizada.
+Lançada em 1996, _A Revelação da Ópera de Pequim_ é uma obra semi-autobiográfica criada em homenagem ao pai. Através de uma estrutura de peça dentro de peça, narra uma história que atravessa meio século. Wang Yue estreou no papel de "Segunda Mãe" (二大媽) nesta montagem.
 
-### _The Peking Opera Apocalypse_ (1996)
+### _Filha Vermelha_ (2003)
 
-_The Peking Opera Apocalypse_ tem como eixo a trajetória vital de um ator de ópera de Pequim (京劇), descrevendo o dilema da ópera tradicional na sociedade moderna. Lee baseou-se em sua própria experiência de aprendizado da ópera de Pequim para criar esta obra semi-autobiográfica.
+Estreada em 2003, _Filha Vermelha_ tem como protagonista uma personagem inspirada na mãe de Lee Kuo-hsiu.
 
-A peça intercala numerosas árias e movimentos de ópera de Pequim, com o próprio Lee em cena, demonstrando sólida base na arte dramática tradicional. Usa linguagem do teatro moderno para reinterpretar a arte tradicional, permitindo que o público jovem conheça a beleza da ópera de Pequim.
+## Estética cômica e preocupação humanista
 
-A obra recebeu o Grande Prêmio Anual do 1º Taishin Arts Award (台新藝術獎), com alta avaliação internacional. _The Peking Opera Apocalypse_ representa a profunda reflexão de Lee sobre a cultura tradicional e sua expressão moderna.
+A comédia de Lee Kuo-hsiu tem no humanismo seu núcleo: usa o riso para veicular observações sociais de caráter trágico. Acreditava que a melhor comédia deve "fazer rir com lágrimas nos olhos", levando o público a refletir sobre a vida em meio à alegria.
 
-### _Daughter's Red_ (1999)
+Suas peças frequentemente focam no destino dos "pequenos", solidarizando-se com as agruras dos estratos mais baixos da sociedade. Sejam atores de Ópera de Pequim, sejam mulheres tradicionais, todos ganham dignidade e calor sob sua pena.
 
-_Daughter's Red_ é a obra que Lee criou para sua mãe, retratando a vida de uma mulher tradicional. A mãe na peça sacrifica seus sonhos pela família, mas mantém sempre atitude otimista e forte.
-
-A obra revela a profunda compreensão e respeito de Lee pelas mulheres. Com pincelada delicada, descreve a grandeza materna, trazendo lágrimas emocionadas no meio do riso.
-
-O sucesso de _Daughter's Red_ provou que Lee não era apenas excelente ator cômico, mas profundo observador da natureza humana. Sabia descobrir o extraordinário no cotidiano.
-
-## Estética cômica e humanismo
-
-A comédia de Lee Kuo-hsiu tem o humanismo como núcleo, usando o riso para carregar observação social de caráter trágico. Acreditava que a melhor comédia deve "fazer rir com lágrimas" (讓人笑中帶淚), levando à reflexão sobre a vida na alegria.
-
-Suas peças focam frequentemente o destino de gente comum, solidarizando-se com as agruras dos estratos inferiores da sociedade. Sejam veteranos de vila militar, atores de ópera de Pequim ou mulheres tradicionais, todos ganham dignidade e calor em sua pena.
-
-Lee destacava-se no uso de linguagem e elementos culturais locais de Taiwan, gerando ressonância em cenários familiares. Seus diálogos são vívidos, naturais, plenos de sabedoria de vida e humor.
+Lee era especialmente hábil em empregar elementos linguísticos e culturais locais de Taiwan, gerando identificação imediata no público através de situações familiares. Seus diálogos são vívidos, naturais, plenos de sabedoria popular e humor.
 
 ## Formação de atores e educação teatral
 
-Lee Kuo-hsiu não foi apenas excelente dramaturgo e ator, mas notável educador teatral. Na Ping Fong Acting Troupe, estabeleceu sistema estruturado de formação de atores, cultivando nomes conhecidos como Fan Kuang-yao (樊光耀) e Huang Chih-kai (黃致凱).
+Lee Kuo-hsiu não foi apenas um dramaturgo e ator excelente, mas também um notável educador teatral. Na Ping-Fong Acting Troupe, estabeleceu um sistema sistemático de formação de atores, tendo treinado nomes conhecidos como Fan Kuang-yao e Huang Chih-kai.
 
-Dava ênfase especial à vivência de vida dos atores, crendo que a verdadeira atuação nasce da observação minuciosa do cotidiano. Frequentemente levava atores a entrar em diferentes camadas sociais, vivenciando diretamente distintas existências.
+Dava ênfase especial à vivência dos atores, convencido de que a verdadeira atuação nasce da observação atenta da vida. Costumava levar o elenco a conviver com diferentes camadas sociais, para experimentar diretamente outras existências.
 
-Sua filosofia pedagógica sublinha "sinceridade" (誠懇): o ator deve ser honesto consigo mesmo para criar personagens verdadeiros e comoventes. Essa filosofia influenciou muitos jovens atores.
-
-## Cronista da cultura das vilas militares
-
-Como filho de vila militar, Lee Kuo-hsiu sempre se preocupou com a transmissão dessa cultura. Muitas de suas obras têm vilas militares como pano de fundo, registrando o modo de vida dessa comunidade especial.
-
-Com o desenvolvimento urbano, muitas vilas foram demolidas, e as obras de Lee tornaram-se preciosos registros culturais. Usou a forma teatral para preservar essa memória histórica prestes a desaparecer.
-
-Lee considerava a cultura das vilas militares parte importante da sociedade taiwanesa, merecedora de compreensão e respeito. Suas obras dissiparam barreiras entre "benshengren" (本省人) e "waishengren" (外省人), promovendo a harmonia social.
+Sua pedagogia centrava-se na "sinceridade" (誠懇): o ator deve ser honesto consigo mesmo para criar personagens verdadeiramente comoventes. Essa filosofia influenciou toda uma geração de jovens atores.
 
 ## Criação tardia e dor física
 
-A partir dos anos 2000, a saúde de Lee começou a debilitar-se, mas ele persistiu na criação e atuação. Obras tardias como _The Six Righteous Gangs_ (《六義幫》, 2007) e _Golden Years_ (《黃金歲月》, 2011) revelam sua profunda compreensão da vida.
+A partir dos anos 2000, a saúde de Lee começou a debilitar-se, mas ele manteve-se firme na criação e na atuação. Obras tardias como _O Grupo das Seis Artes_ (2008) revelam sua profunda compreensão da vida.
 
-Diante da doença, Lee manteve atitude otimista, costumando dizer: "A vida é como fezes, como você aperta, sai." (Atribuída a Lee Kuo-hsiu, vista em múltiplas entrevistas [^2]) Essa filosofia de vida bem-humorada tocou incontáveis espectadores.
+Diante da doença, Lee manteve uma atitude otimista. Costumava dizer: "A vida é como fezes: você aperta e elas saem." (atribuído a Lee Kuo-hsiu, registrado em diversas entrevistas [^2]) Essa filosofia bem-humorada tocou incontáveis espectadores.
 
-Passou a refletir mais sobre vida e morte, com obras plenas de exploração do sentido da existência. Embora tingidas de tristeza, mantêm seu humor e calor característicos.
+Passou a refletir mais sobre a finitude, e suas obras encheram-se de questionamentos sobre o sentido da vida. Embora tingidas de tristeza, conservavam seu humor e calor característicos.
 
-## Partida súbita e legado teatral
+## Partida repentina e legado teatral
 
-A 2 de julho de 2013, Lee Kuo-hsiu faleceu vítima de câncer colorretal, aos 58 anos [^3]. A notícia abalou todo o meio teatral de Taiwan, e incontáveis pessoas lamentaram a perda desse mestre da comédia.
+Em 2 de julho de 2013, Lee Kuo-hsiu faleceu vítima de câncer colorretal, aos 57 anos [^3]. A notícia abalou todo o meio teatral taiwanês; incontáveis pessoas lamentaram a perda desse mestre da comédia.
 
-Sua partida fez as pessoas reavaliarem sua contribuição. Deixou não apenas uma lista de dezenas de peças, mas todo um sistema estético sobre como a comédia pode carregar peso humanístico.
+Sua partida levou a uma reavaliação de sua contribuição. O que deixou não foi apenas uma lista de dezenas de peças, mas todo um sistema estético sobre como a comédia pode carregar peso humanista.
 
-A Ping Fong Acting Troupe continuou operando após sua morte, sob a direção de sua esposa, Wang Yue (王月). A trupe dedica-se a difundir a filosofia criativa de Lee, perpetuando seu espírito.
+A Ping-Fong Acting Troupe prosseguiu suas atividades após sua morte, empenhada em difundir seus ideais criativos, para que seu espírito permaneça vivo.
 
-## Influência no teatro de Taiwan
+## Influência no teatro taiwanês
 
-Lee Kuo-hsiu inaugurou a comédia teatral moderna de Taiwan, provando a viabilidade da criação localizada. Suas obras estabeleceram novo padrão para o teatro taiwanês, influenciando incontáveis criadores posteriores.
+Lee Kuo-hsiu inaugurou o teatro de comédia moderno em Taiwan, provando a viabilidade da criação enraizada no local. Suas obras estabeleceram novos parâmetros para o teatro taiwanês, influenciando inúmeros criadores posteriores.
 
-Atores e criadores por ele formados estão espalhados pelo meio teatral de Taiwan, incluindo Fan Kuang-yao, Huang Chih-kai, Chen Li-hua (陳立華) e outros. Continuam a difundir sua filosofia criativa e métodos pedagógicos.
+Os atores e criadores que formou estão espalhados pelo meio teatral taiwanês, incluindo Fan Kuang-yao, Huang Chih-kai, Chen Li-hua e outros. Eles continuam a propagar sua filosofia criativa e seus métodos pedagógicos.
 
-Seu sucesso também elevou o reconhecimento social da arte teatral, fazendo mais pessoas perceberem o valor e o encanto do teatro. Fez contribuição importante para o desenvolvimento do teatro de Taiwan.
+O sucesso de Lee também elevou o reconhecimento social da arte teatral, fazendo mais pessoas perceberem o valor e o encanto do teatro. Sua contribuição para o desenvolvimento do teatro em Taiwan foi fundamental.
 
-Lee Kuo-hsiu disse certa vez: "Ser pessoa como Confúcio, fazer coisas como Laozi." (做人要像孔子，做事要像老子) Essa frase reflete sua filosofia de vida e explica por que pôde criar obras tão calorosas. Usou a vida para provar o poder da comédia, e com suas obras trouxe alegria e reflexão sem fim à sociedade taiwanesa.
+Lee Kuo-hsiu disse certa vez: "Ser pessoa como Confúcio, fazer as coisas como Laozi." Essa frase resume sua filosofia de vida e explica por que conseguiu criar obras tão calorosas. Com uma vida, demonstrou a força da comédia; com suas obras, trouxe à sociedade taiwanesa alegria e reflexão sem fim.
 
-[^1]: Fundadores da Performance Workshop: Stan Lai, Lee Kuo-hsiu, Lee Li-chun; Chin Shih-chieh foi importante ator colaborador, não cofundador. Ver: Wikipédia "Performance Workshop" <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
+[^1]: Os fundadores da Performance Workshop foram Stan Lai, Lee Kuo-hsiu e Lee Li-chun; Chin Shih-chieh foi importante ator colaborador, mas não cofundador. Ver: verbete "Performance Workshop" na Wikipédia <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
 
-[^2]: Frase de Lee Kuo-hsiu vista em múltiplas entrevistas e artigos comemorativos. Ver: Wikipédia "Lee Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; site oficial da Ping Fong Acting Troupe <http://www.ppt.org.tw/>
+[^2]: Esta frase de Lee Kuo-hsiu aparece em diversas entrevistas e artigos memoriais. Ver: verbete "Lee Kuo-hsiu" na Wikipédia <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; site oficial da Ping-Fong Acting Troupe <http://www.ppt.org.tw/>
 
-[^3]: Lee Kuo-hsiu faleceu em 2 de julho de 2013 vítima de câncer colorretal, aos 58 anos. Ver: ETtoday News Cloud, reportagem de 2013/07/02; Wikipédia "Lee Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
+[^3]: Lee Kuo-hsiu faleceu em 2 de julho de 2013 vítima de câncer colorretal, aos 57 anos (algumas notícias citam 58 anos pela contagem tradicional). Ver: reportagem do ETtoday News Cloud de 02/07/2013; verbete "Lee Kuo-hsiu" na Wikipédia <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
 
-[^4]: _The Peking Opera Apocalypse_ recebeu o Grande Prêmio Anual do 1º Taishin Arts Award (1997). Ver: site oficial do Taishin Arts Award <https://taishinarts.org.tw/>
-
-[^5]: Ping Fong Acting Troupe fundada em 1986, com lema "fazer uma peça, fazer um grupo de amigos"; até o falecimento de Lee, encenou mais de 40 peças. Ver: site oficial da Ping Fong Acting Troupe <http://www.ppt.org.tw/>
+[^5]: A Ping-Fong Acting Troupe foi fundada em 1986, com o lema "fazer uma peça, fazer um grupo de amigos"; até o falecimento de Lee Kuo-hsiu, havia encenado mais de 40 peças. Ver: site oficial da Ping-Fong Acting Troupe <http://www.ppt.org.tw/>
 
 ## Referências
 
-- [Site oficial da Ping Fong Acting Troupe](http://www.ppt.org.tw/) — Histórico e dados das obras da trupe
-- [Exposição comemorativa Lee Kuo-hsiu — Taiwan Drama Museum](http://thedrama.org.tw/) — Registros biográficos e criativos
-- [História do desenvolvimento do teatro moderno de Taiwan — National Center for Traditional Arts](https://www.ncfta.gov.tw/) — Materiais de história teatral
+- [Site oficial da Ping-Fong Acting Troupe](http://www.ppt.org.tw/) — Histórico e repertório da trupe
+- [Exposição Memorial Lee Kuo-hsiu — Museu de Teatro de Taiwan](http://thedrama.org.tw/) — Registro biográfico e criativo
+- [História do Desenvolvimento do Teatro Moderno de Taiwan — Centro Nacional de Artes Tradicionais](https://www.ncfta.gov.tw/) — Documentos de história teatral

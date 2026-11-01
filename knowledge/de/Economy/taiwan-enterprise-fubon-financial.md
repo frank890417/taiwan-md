@@ -1,6 +1,6 @@
 ---
 title: 'Taiwanische Unternehmen: Fubon Financial Holding'
-description: 'Von 10 auf 60.000 Mitarbeiter: Wie die Cai-Brüder in 60 Jahren ein Finanzimperium in Taiwan aufgebaut haben'
+description: 'Im Jahr 1961 gründete der damals 32-jährige Tsai Wan-tsai mit 10 Mitarbeitern und einem Kapital von 6 Millionen NT$ das Cathay Property Insurance in einem 33 Quadratmeter großen Büro in der Hengyang Road in Taipeh. Er entschied sich darauf, die kleinen Kunden zu bedienen, die von staatlichen Versicherungsgesellschaften vernachlässigt wurden. Nach der Abspaltung von der Cathay Group im Jahr 1992 und der Übernahme der Taipei Bank für 16,5 Milliarden NT$ im Jahr 1997 weitete Fubon sein Geschäft von der Sachversicherung auf das Bankwesen, die Telekommunikation, Baseball, Medien und Unterhaltung aus. Heute ist es ein Finanzholding-Konzern mit einem Gesamtvermögen von 11,9 Billionen NT$, der höchsten Marktkapitalisierung in Taiwan und über 60.000 Mitarbeitern. Die Nachfolge durch die Brüder, das Machtgleichgewicht zwischen Politik und Wirtschaft, geografische Risiken über den Ozean hinweg sowie die digitale Transformation und nachhaltige Finanzierung werden im Rückblick auf diese 65 Jahre detailliert analysiert.'
 date: 2026-03-22
 category: 'Economy'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Wirtschaft',
     'Unternehmen',
     'Fubon Financial Holding',
-    'Tsai Ming-chong',
-    'Finanzwesen',
-    'M&A',
-    'digitale Transformation',
+    'Tsai Ming-chung',
+    'Finanzsektor',
+    'Fusionen und Übernahmen',
+    'Digitale Transformation',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-10-21T02:04:09.238595+00:00'
 ---
 
 # Taiwanische Unternehmen: Fubon Financial Holding

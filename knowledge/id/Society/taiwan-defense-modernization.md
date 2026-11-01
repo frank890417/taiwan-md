@@ -62,7 +62,7 @@ Konten pelatihan wajib militer satu tahun di bawah sistem baru juga diperbarui: 
 > **⚠️ Pandangan Kontroversial**
 > Dukungan survei terhadap pemulihan wajib militer satu tahun melebihi tujuh puluh persen, namun generasi muda yang benar-benar menghadapi pemasukan reaksi mereka kompleks. VOA mewawancarai beberapa pria usia militer, ada yang jujur «takut perang», ada yang mempertanyakan apakah pelatihan satu tahun benar-benar bisa memberikan kemampuan tempur, dan ada yang langsung berkata «Saya tidak ingin mengorbankan nyawa untuk kesalahan politisi». Pendukung menganggap ini kewajiban pertahanan minimum, kritikus menganggap satu tahun tetap tidak cukup. Wajib militer satu tahun adalah konsensus sekaligus kompromi, tidak ada yang benar-benar puas, tetapi mayoritas menerima ini sebagai batas terjauh yang bisa dicapai saat ini[^8].
 
-##147 Hari Hai Kun
+## 147 Hari Hai Kun
 
 Taiwan lama bergantung pada penjualan militer Amerika Serikat. Pesawat tempur F-16, rudal Patriot, tank M1A2, rudal Harpoon — hampir semua peralatan berat berasal dari Washington. Hal ini mengikat pertahanan Taiwan dengan keinginan politik AS: bergantinya penghuni Gedung Putih, kecepatan penjualan militer pun bisa berubah.
 

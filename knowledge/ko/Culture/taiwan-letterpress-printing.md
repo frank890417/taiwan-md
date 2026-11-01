@@ -138,7 +138,7 @@ translatedAt: '2026-09-12T22:36:54+08:00'
 
 ![일성조자행 내부의 작업 공간 및 자선반, Johan Jönsson(Julle) 촬영, CC BY-SA 4.0.](https://upload.wikimedia.org/wikipedia/commons/c/cc/Ri_Xing_Type_Foundry_04.jpg)
 
-##延伸阅读
+## 더 읽을거리
 
 - [타이완 교계공보](/ko/culture/taiwan-church-news): 백화자와 교회 출판에서 시작하여, 활판 인쇄가 타이완 언어, 종교 조직 및 정기 간행물과 어떻게 만나는지 이해한다.
 - [타이완 문학사](/ko/art/history-of-taiwanese-literature): 인쇄 기술을 작가, 출판 및 문학 공공성의 장기적 맥락에 되돌린다.

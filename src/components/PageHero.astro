@@ -221,12 +221,13 @@ const containerWidthStyle: Record<string, string> = isCustomWidth
 const isFullWidth = containerWidth === 'full';
 
 // ── Vertical padding presets ──
-const paddingClass = {
-  inline: 'py-5 max-[768px]:py-4',
-  compact: 'py-8 max-[768px]:py-6',
-  default: 'py-16 max-[768px]:py-8',
-  spacious: 'py-20 max-[768px]:py-12',
-}[padding] || 'py-5';
+const paddingClass =
+  {
+    inline: 'py-5 max-[768px]:py-4',
+    compact: 'py-8 max-[768px]:py-6',
+    default: 'py-16 max-[768px]:py-8',
+    spacious: 'py-20 max-[768px]:py-12',
+  }[padding] || 'py-5';
 
 // ── Horizontal padding ──
 // When there's a bg fill (solid or gradient), put px on the section so

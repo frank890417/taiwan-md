@@ -1,16 +1,16 @@
 ---
-title: 'Hsu Chiao-hsin: da filha de dona de lanchonete a deputada do "800 mil milhões em compras militares" e o rejuvenescimento via tráfego'
-description: 'Deputada pelo 7.º círculo eleitoral de Taipé. Nascida em 1989 numa família de donos de lanchonete em Taipé, aos 24 anos tornou-se a mais jovem membro do Comité Central do Kuomintang na história do partido, em 2013. Em 2024, entrou no Yuan Legislativo com 89.727 votos, derrotando Hsu Shu-hua. Em 2025, o grande recall obteve 62 mil votos a favor, atingindo o limiar legal, mas foi rejeitado; em 2026, nas negociações de compras militares, apresentou a versão de 800 mil milhões, colidindo com a versão do partido de 380 mil milhões + N, levando o vice-presidente do partido Chi Lin-lien a apontar "não faça coisas que alegrem os inimigos e entristeçam os entes queridos".'
+title: "Xu Qiaoxin: Da filha de uma lanchonete matinal à legisladora do 'projeto militar de 800 bilhões' e a juventude de sua influência digital"
+description: 'Xu Qiaoxin, legisladora pelo 7º distrito de Taipei, nasceu em 18 de novembro de 1989 em uma lanchonete de estilo ocidental que funcionava o ano todo no distrito de Xinyi. Seu nome original era Xu Meifeng, alterado devido ao incidente do CD de Qu Meifeng. Em 13 de novembro de 2013, aos 24 anos, ela ocupou a cadeira mais jovem do 19º Comitê Executivo Central do Kuomintang; em 13 de janeiro de 2024, foi eleita legisladora ao derrotar Xu Shu-hua com 89.727 votos. Em 26 de julho de 2025, o pedido de recall foi rejeitado mesmo com 62.633 votos favoráveis atingindo o limite; em 27 de abril de 2026, as negociações de compras militares apresentaram uma versão de NT$ 800 bilhões, colidindo com a proposta do partido central de NT$ 380 bilhões mais adicionais, levando Ji Lin a alertar para não agir de forma extrema que crie inimigos rápidos e amigos profundos. Analisamos detalhadamente o caminho da sua influência entre os jovens através dos casos do erro sobre espião comunista, o IPEF e os documentos confidenciais de ajuda à Ucrânia.'
 date: 2026-05-03
 category: 'People'
 tags:
   [
-    'Figura política',
-    'Deputada',
+    'Personalidades políticas',
+    'Legislador',
     'Kuomintang',
-    'Azul combativo',
-    '7.º círculo eleitoral de Taipé',
-    'Deputada 2024',
+    'Blue Combatante',
+    '7º Distrito de Taipei',
+    'Eleições Legislativas de 2024',
   ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ researchReport: 'reports/research/2026-05/徐巧芯.md'
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'People/徐巧芯.md'
-sourceCommitSha: '200949f47'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
-translatedAt: '2026-07-27T01:41:51+08:00'
+translatedAt: '2026-10-21T01:50:22.842374+00:00'
 ---
 
 # Hsu Chiao-hsin: da filha de dona de lanchonete a deputada do "800 mil milhões em compras militares" e o rejuvenescimento via tráfego

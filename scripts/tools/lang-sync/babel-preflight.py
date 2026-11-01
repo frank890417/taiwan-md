@@ -51,6 +51,7 @@ def check_openrouter_keys() -> dict:
         return {"available": False, "count": 0,
                 "hint": f"key 池空。放 sk-or-v1-* 單行檔到 {CREDS}/openrouter-keys/*.key"}
     live, dead, credited = [], [], 0
+    with_balance, balance_unknown = 0, 0
     for name, v in keys:
         req = urllib.request.Request(
             "https://openrouter.ai/api/v1/auth/key",
@@ -63,9 +64,26 @@ def check_openrouter_keys() -> dict:
                     credited += 1
         except Exception:
             dead.append(name)
+            continue
+        # 已儲值 ≠ 還有餘額（2026-10-22）：儲值過的帳號解鎖較大的免費日配額，
+        # 但付費模型（Tier 6 Haiku 走 OpenRouter）花的是餘額。七把都「已儲值」
+        # 的那一夜，七把的餘額其實全是負的，付費層整夜撞 HTTP 402。
+        creq = urllib.request.Request(
+            "https://openrouter.ai/api/v1/credits",
+            headers={"Authorization": f"Bearer {v}"})
+        try:
+            with urllib.request.urlopen(creq, timeout=8) as r:
+                c = json.loads(r.read())["data"]
+                left = float(c.get("total_credits") or 0) - float(c.get("total_usage") or 0)
+                if left > 0.5:
+                    with_balance += 1
+        except Exception:
+            balance_unknown += 1
     return {"available": bool(live), "count": len(keys), "live": len(live),
-            "dead": dead, "credited": credited,
-            "note": "credited = 已儲值帳戶（日配額約 20×free tier）"}
+            "dead": dead, "credited": credited, "with_balance": with_balance,
+            "balance_unknown": balance_unknown,
+            "note": "credited = 已儲值帳戶（日配額約 20×free tier）；"
+                    "with_balance = 餘額 > $0.5、付費模型還付得出來的帳號"}
 
 
 def check_ollama() -> dict:
@@ -339,8 +357,28 @@ def check_codex() -> dict:
     if not path:
         return {"available": False, "hint": "codex CLI 不在 PATH（訂閱層算力缺席）"}
     r = subprocess.run(["codex", "--version"], capture_output=True, text=True, timeout=20)
-    return {"available": r.returncode == 0, "path": path,
-            "version": (r.stdout or r.stderr).strip()[:60]}
+    version = (r.stdout or r.stderr).strip()[:60]
+    if r.returncode != 0:
+        return {"available": False, "path": path, "version": version}
+    # 版本號跟 `codex login status` 都量不到登入有沒有過期（2026-10-26 babel-nightly：
+    # 兩者都說正常，實際每次 exec 都 401「access token could not be refreshed」，
+    # 整夜的 Tier 1 掉到 nemotron 而判定照印 healthy）。這裡用 backend 同一條
+    # `codex exec` 路徑打一句極短的請求，量的是「這一層今晚翻不翻得動」。
+    try:
+        p = subprocess.run(["codex", "exec", "--skip-git-repo-check", "Reply with exactly: OK"],
+                           stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=120)
+    except subprocess.TimeoutExpired:
+        return {"available": False, "path": path, "version": version,
+                "hint": f"{version}，但試打一句 120 秒沒回（訂閱層算力缺席）"}
+    if p.returncode != 0:
+        err = p.stdout + p.stderr
+        if "401" in err or "sign in again" in err or "refreshed" in err:
+            why = "登入過期，要在這台機器重新 `codex login`（身份授權層，只有哲宇能補）"
+        else:
+            why = f"試打一句 exit={p.returncode}"
+        return {"available": False, "path": path, "version": version,
+                "hint": f"{version}，但{why}"}
+    return {"available": True, "path": path, "version": version}
 
 
 def main():
@@ -377,6 +415,12 @@ def main():
         if o.get("available"):
             print(f"   ✅ OpenRouter  {o['live']}/{o['count']} 把 key 通過，"
                   f"其中 {o['credited']} 把已儲值")
+            if o.get("with_balance", 0) == 0 and not o.get("balance_unknown"):
+                print("      ⚠️ 付費餘額：每把都已花完——免費模型照跑，付費層（Tier 6 Haiku）"
+                      "會整夜撞 HTTP 402；儲值是經費決定")
+            else:
+                print(f"      付費餘額：{o.get('with_balance', 0)} 把還有餘額"
+                      + (f"（{o['balance_unknown']} 把查不到）" if o.get("balance_unknown") else ""))
             if o.get("dead"):
                 print(f"      ⚠️ 失效：{', '.join(o['dead'])}")
         else:
@@ -429,7 +473,7 @@ def main():
         elif tr.get("samples"):
             print(f"   ✅ 實績檢查  近兩日 {tr['samples']} 筆，無明顯弱適配")
         print(f"   {'✅' if cx.get('available') else '➖'} codex      "
-              f"{cx.get('version') or cx.get('hint')}")
+              f"{cx.get('hint') or cx.get('version')}")
         sr = report["slug_registration"]
         if sr.get("unslugged"):
             n = len(sr["unslugged"])

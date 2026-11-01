@@ -854,8 +854,8 @@ def main() -> int:
     metrics["phases"]["chapters"] = {"elapsed_s": round(time.time() - t0, 1), "failed": failed}
     print(f"  chapters: {metrics['phases']['chapters']['elapsed_s']}s, {len(failed)} failed")
 
-    # 全部章節都失敗 = 這次 patch 一無所獲，寫出去只是把舊譯原樣覆蓋，
-    # 白白刷新 sourceSha 讓 stale 假裝被清掉——那才是真正該中止的情況。
+    # 腳註定義章失敗 → 整篇重翻（引用與定義跨章耦合）。其他章節失敗見下方
+    # `if failed:`，2026-10-23 起同樣整篇重翻，不再局部保留。
     if fatal_failed:
         print(f"❌ 失敗章節含腳註定義（{len(fatal_failed)} 章）— 局部保留會讓引用對不上定義，"
               f"整篇 fallback 全文重翻")
@@ -872,7 +872,7 @@ def main() -> int:
         return 1
 
     if failed:
-        print(f"⚠️  {len(failed)}/{len(tr_chapters)} 章失敗 — 該章保留舊譯，其餘照常更新")
+        print(f"❌ {len(failed)}/{len(tr_chapters)} 章失敗 — 整篇 fallback 全文重翻")
         # 2026-07-27：production log 只印「N chapter(s) failed」，看不出是哪一項
         # 判準擋的（footnote ref set / cjk-leak / ratio band / URL mismatch），
         # 每次要診斷都得另外寫腳本重跑一次——補印最後一次 attempt 的 issues，
@@ -881,7 +881,14 @@ def main() -> int:
             if c["index"] in failed:
                 heading = (c["heading"] or "(intro)").strip()
                 print(f"   ✗ [{c['index']}] {heading}: {c['issues']}")
-        # 不 return——保住其餘章節的成果，往下正常組裝與驗證。
+        # 2026-10-23 babel-nightly：07-27 的「失敗章保留舊譯、其餘照常更新」會讓
+        # 那一章的舊內容帶著新的 sourceCommitSha 寫出去，status.py 從此判它 fresh，
+        # 再也沒有路徑會回頭看。巡邏修補時被碰到的章節正是事實被改正的那幾章：
+        # fr〈林青霞〉保留了已從中文刪掉的《101次求婚》虛構客串，en 保留了舊的
+        # 出身段，hi〈台灣感性〉同型。局部 stale 被蓋成 fresh＝看不見的 stale，
+        # 比整篇留在 stale 佇列更糟（REFLEXES #85）。改成整篇重翻；全文重翻有
+        # 自己的 verify trio，不過就 HEAD-restore、保留 stale 讓下一輪再排。
+        return 2   # 2 = 不適合 patch，呼叫端 fallback 全文重翻（見檔頭 Exit codes）
 
     new_body_lines = [l for chunk in new_tr_chapter_lines for l in chunk]  # type: ignore[union-attr]
 

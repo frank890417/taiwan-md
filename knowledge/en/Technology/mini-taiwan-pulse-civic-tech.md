@@ -1,15 +1,15 @@
 ---
-title: "Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye"
-description: "In 2026, data analyst Migu layered Taiwan's scattered open data on aircraft, ships, trains, buses, and garbage trucks into a breathing map. AI handles the drudgery of retrieving data, but deciding which layers belong together, what colors to use, and which layer should light up depends on a curator's eye trained in urban planning."
+title: "Mini Taiwan Pulse: Using a Curator's Eye to Paint Taiwan as a Breathing Map"
+description: "In 2026, data analyst Migu dragged a CSV file into Kepler.gl, and the first map of Taiwan sprouted on his screen. Two years later, the highly popular mini-taiwan-pulse has accumulated 375 stars on GitHub, layering five types of real-time data—sky, ocean, land, streets, and waste collection—into a living, moving map. With over 50,000 central government records and open data from dozens of county and city platforms, the volume is too vast for human processing. His solution wasn't to hire more people, but to hand it over to an AI Agent-orchestrated system that grows on its own, where humans are only responsible for posing questions and verifying results. From a curator's eye trained in urban planning to a self-running fire pipeline within tmux, how did one person's GitHub grow into an entire galaxy?"
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
     'Technology',
-    'Civic Technology',
+    'Civic Tech',
     'Open Data',
     'Data Visualization',
-    'Open-source Projects',
+    'Open Source Project',
     'TDX',
     'Three.js',
     'Artificial Intelligence',
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T09:12:36.939834+00:00'
+translatedAt: '2026-10-21T00:58:41.106460+00:00'
 ---
 
 # Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye

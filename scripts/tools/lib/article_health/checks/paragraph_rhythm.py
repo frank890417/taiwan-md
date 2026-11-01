@@ -38,6 +38,9 @@ Rules:
     密度偏高。健康帶 1.2–2.0 (陳建年 1.48 / 周蕙 1.76 密度皆帶內)
   - **R3-HARD media density > 2.5 / 1k CJK AND 段落 median < 55**：HARD — visual
     倚賴 + 段落原子化雙信號 = 真 atomization drift (雙信號結構不變)
+  - **R3-FEATURED 精選文總數上限**：WARN (2026-10-21 哲宇拍板，〈一同走過從前〉) —
+    `featured: true` 不套 2.0 密度上緣，改看總數：媒體 (hero+圖+影片+tw-*) > 20
+    或 tw-* 模組 > 8 才 WARN。FLOOR 與 HARD 雙信號照舊
   - **R5 單 H2 節內長段密度 > 35%**：WARN (2026-07-25 誕生)——單一 H2 節內
     ≥200 CJK 字的 prose 段落，佔該節 prose 段落數比例 > 35%，且該節 prose 段落數
     ≥ 5，才觸發（避免短節 1/2 段就誤判）。誕生事件：外送專法 ship 後觀察者
@@ -108,6 +111,11 @@ TW_MODULE_CEILING_DISCOUNT_CAP = 13
 # 媒體密度 band 校準於 depth article (設研院/天下/黃魚鴞)；短頁 / gallery / showcase
 # (如 視覺化模組型錄，prose 1k 字以模組為主體) density 失真 → 不適用 band。
 MEDIA_BAND_MIN_CJK = 1500
+# 精選文 (featured: true) 改看總數上限，不套密度上緣 (2026-10-21 哲宇拍板：「媒體密度
+# 這篇是精選最多20個」「圖表模組也是可以到8個」)。一般文章 tw-* ≤ 4 是寫作規則
+# (graph.md §九)，不在這裡量。
+FEATURED_MEDIA_MAX = 20
+FEATURED_TW_MAX = 8
 # R5 長段密度：單 H2 節內 ≥200 字 prose 段落佔該節 prose 段落數比例。2026-07-25
 # 外送專法 ship 後觀察者 callout「文段太長」，追下去發現 R4 (單段>280) 抓不到
 # 「連續多段 200-275 字」的密度型窒息感。校準 (全站 715 篇 zh-TW / 3308 個
@@ -480,6 +488,24 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 "(c) 兩條至少滿足一條才能 ship"
             ),
         )
+    elif target.frontmatter.get("featured") in (True, "true"):
+        if visual_count > FEATURED_MEDIA_MAX or tw_module_count > FEATURED_TW_MAX:
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=(
+                    f"精選文媒體超過上限 (R3-FEATURED): {visual_count} 個媒體 "
+                    f"(上限 {FEATURED_MEDIA_MAX})、{tw_module_count} 個 tw-* 模組 "
+                    f"(上限 {FEATURED_TW_MAX})。"
+                ),
+                line=1,
+                snippet=f"visual={visual_count} tw={tw_module_count}",
+                editorial_ref="EDITORIAL.md §四 呼吸鐵律 3 (精選文上限 2026-10-21)",
+                fix_suggestion=(
+                    "留每段真正需要的圖與模組；第五到第八個模組各自要回答一個段落裡的問題 "
+                    "(graph.md §九)。"
+                ),
+            )
     elif ceiling_density >= IFRAME_DENSITY_WARN:
         yield Violation(
             check=CHECK_NAME,

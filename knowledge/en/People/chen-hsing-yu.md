@@ -12,9 +12,9 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/陳幸妤.md'
-sourceCommitSha: 'fa7059f7a'
-sourceContentHash: 'sha256:84ffac689843ddd3'
-sourceBodyHash: 'sha256:98cbd8f687f836db'
+sourceCommitSha: 'eddd0fe3'
+sourceContentHash: 'sha256:5f03c9523f81df75'
+sourceBodyHash: 'sha256:9475c22b31e09d67'
 translatedAt: '2026-09-14T11:15:14+08:00'
 ---
 
@@ -133,4 +133,4 @@ The question on the New York streets in 2009 was not solved by a headline; the m
 
 [^10]: [Liberty Times: Chen Hsing-yu Appears! Laughing About Divorce for Some Time: Afraid Media Has No News](https://news.ltn.com.tw/news/politics/breakingnews/5538516) — 2026 public appearance report and photo source, recording the scene of her responding to media inquiries outside the clinic.
 
-## [^11]: [Wikimedia Commons: 20161224 Chen Hsing-yu Dental Clinic Opening.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Self-made work uploaded by Huang Hsiang-ching on December 24, 2016; the file page indicates CC BY-SA 4.0 licensing and attribution requirements.
+[^11]: [Wikimedia Commons: 20161224 Chen Hsing-yu Dental Clinic Opening.jpg](https://commons.wikimedia.org/wiki/File:20161224_%E9%99%B3%E5%B9%B8%E5%A6%A4%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80%E9%96%8B%E6%A5%AD.jpg) — Self-made work uploaded by Huang Hsiang-ching on December 24, 2016; the file page indicates CC BY-SA 4.0 licensing and attribution requirements.

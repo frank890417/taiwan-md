@@ -1,7 +1,8 @@
 ---
-title: 'Taïwan, haut lieu de la biodiversité'
-description: "36 000 km² d'île abritant 59 000 espèces connues — une densité 100 fois supérieure à la moyenne mondiale"
+title: 'Points chauds de la biodiversité à Taïwan'
+description: "Sur ses 36 000 km², Taïwan abrite 59 000 espèces connues, soit une densité 100 fois supérieure à la moyenne mondiale, avec plus de 30 % d'espèces endémiques uniques au monde. Grâce à un « ascenseur climatique » vertical de 4 000 mètres, cette île reproduit la moitié des zones climatiques de la planète sur un territoire minuscule : le saumon de Taiwan (Coregonus taiwanensis), situé à la latitude la plus basse au monde, ne survit plus que dans la rivière Qichawan, tandis que l'habitat de la salamandre de Taïwan, entre 1 500 et 2 500 mètres d'altitude, est passé de 11 à 7 sites. On estime qu'il reste environ 200 à 600 ours noirs de Taïwan sur l'île, chacun nécessitant un espace vital de 30 à 40 km² ; quelle place peut-il rester pour la faune sauvage sur cette scène présentant la plus haute densité de vie au monde ?"
 date: 2026-03-21
+category: 'Geography'
 tags:
   [
     'écologie',
@@ -12,17 +13,16 @@ tags:
   ]
 subcategory: '生態地理'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 8
-category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-04-15T17:33:45+08:00'
+translatedAt: '2026-10-21T02:20:04.850809+00:00'
 ---
 
 # Taïwan, haut lieu de la biodiversité

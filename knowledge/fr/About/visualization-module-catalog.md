@@ -21,10 +21,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-07-28T04:03:52+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:38:09.650063+00:00'
 ---
 
 # Catalogue des modules de visualisation : 19 façons de voir les données de Taïwan
@@ -180,20 +180,20 @@ Taoyuan | 9,0 | 40,0
 Source : Plateforme d'information sur l'immobilier du Ministère de l'intérieur
 ```
 
-## Graphique en points `tw-dot`
+## Graphique à points `tw-dot`
 
-Le graphique en barres compare les « quantités », le graphique en points regarde la « distribution » : tous les points tombent sur la même règle, vous voyez qui est serré ensemble, qui est une valeur aberrante. Une valeur par ligne est une bande de points ; deux valeurs dessinent une « intervalle de ici à là » ; trois valeurs (`Estimation | Limite inférieure | Limite supérieure`) dessinent une « estimation ponctuelle + bande d'intervalle d'incertitude » style sondage. Une erreur d'échantillonnage de ±3 % ne doit pas être mangée ; c'est la présentation honnête la plus souvent compromise les années électorales. `*` peut également mettre en évidence.
+Les graphiques à barres comparent des « quantités », les graphiques à points montrent la « distribution » : tous les points se situent sur la même échelle, vous voyez qui se regroupe et qui sont des valeurs aberrantes. Une valeur par ligne donne une bande de points (`dot strip`) ; deux valeurs tracent un intervalle « d'ici à là » ; trois valeurs (`estimation ponctuelle | borne inférieure | borne supérieure`) produisent une « estimation ponctuelle + bande d'incertitude » style sondage. L'erreur d'échantillonnage de ±3 % ne doit pas être masquée, c'est la représentation honnête que l'on sacrifie le plus souvent en année électorale. Le `*` permet également de mettre en évidence.
 
 ```tw-dot
-Polarisation du vieillissement : comtés du plus jeune au plus âgé (part de population 65 ans et plus, %)
-Hsinchu | 15,08 | Le plus jeune à l'échelle nationale
-Taoyuan | 16,72
-Taichung | 17,40
-Nouveau Taipei | 19,95
-Tainan | 20,48
-Kaohsiung | 20,79
-*Chiayi | 24,11 | Le plus âgé à l'échelle nationale
-*Taipei | 24,18 | Le plus âgé parmi les six villes
+Les deux extrêmes du taux de vieillissement : des comtés/villes les plus jeunes aux plus âgés (part des 65 ans et plus, %)
+Hsinchu County | 15.08 | le plus jeune de Taïwan
+Taoyuan | 16.72
+Taichung | 17.40
+New Taipei | 19.95
+Tainan | 20.48
+Kaohsiung | 20.79
+*Chiayi County | 24.11 | indice de vieillissement le plus élevé de Taïwan
+*Taipei | 24.18 | le plus élevé de Taïwan
 Source : Bureau du recensement, des affaires et des décomptes du Ministère de l'intérieur, fin 2025
 ```
 

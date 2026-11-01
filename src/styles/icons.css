@@ -1,17 +1,21 @@
-/* Island Lines — keep the optical baseline and inherited contrast at every size. */
-.twmd-icon {
-  display: inline-block;
-  flex: none;
-  vertical-align: -0.16em;
-  width: 1em;
-  height: 1em;
-  overflow: visible;
-}
-.twmd-icon-wrap {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
+/* 行線圖示 v2.1 — 比文字略大一號，線寬 1.75，才跟 500–600 字重的介面字站得一樣重。
+ * 光學基線：圖示中心對齊漢字字身中心。
+ * 放在 @layer base：呼叫端傳進來的 Tailwind 尺寸（h-4 w-4、[&_svg]:h-full）要能蓋過預設。 */
+@layer base {
+  .twmd-icon {
+    display: inline-block;
+    flex: none;
+    vertical-align: -0.2em;
+    width: 1.125em;
+    height: 1.125em;
+    overflow: visible;
+  }
+  .twmd-icon-wrap {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
 }
 @media (forced-colors: active) {
   .twmd-icon {

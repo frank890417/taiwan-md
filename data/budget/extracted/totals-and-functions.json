@@ -417,14 +417,16 @@
         "revenue": 3164804000,
         "expenditure": 2924967000,
         "cut_by_ly": -207501909,
-        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，上年度預算數欄)"
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，上年度預算數欄)",
+        "supplementary": 81940000,
+        "supplementary_source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235260"
       },
       "final_account": {
-        "expenditure": null,
-        "execution_rate_pct": null,
-        "rate_basis": null,
-        "source": null,
-        "notes": "114/115年度尚無決算審定數（114為法定預算數，115為提案數）"
+        "expenditure": 2933211942,
+        "execution_rate_pct": 97.55,
+        "rate_basis": "決算審定數 ÷（法定預算 2兆9,249.7億 + 追加預算 819.4億 = 3兆0,069.1億）；自算",
+        "source": "https://www.cna.com.tw/news/aipl/202607240146.aspx ；審計部審定歲出 2兆9,332億餘元。審定數 2,933,211,942 千元取自 https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/236582/b歲出政事別預算比較總表(經資門併計).xlsx（116 年度預算書「前年度決算數」欄）",
+        "notes": "114 年度審定決算已出（審計部 2026-07-24）。因 114 年度有追加預算 819.4 億（立法院 2025-08-29 三讀），分母採法定＋追加；政事別與機關別仍用 114 年度法定預算口徑。"
       },
       "functions": {
         "一般政務支出": 264871000,
@@ -460,17 +462,17 @@
         "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx ; https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
       },
       "legal": {
-        "revenue": null,
+        "revenue": 3464253191,
         "expenditure": 2986974371,
         "cut_by_ly": -48000000,
-        "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx — 僅新聞交叉校對，非主計總處新聞稿原文（三讀日期2026-08-14，發稿當下查無主計總處「115年度中央政府總預算案立法院審議結果」新聞稿），歲入審議後數CNA報導6019.9939億元增列，因果不明確不予採信，故revenue留null"
+        "source": "歲出：https://www.cna.com.tw/news/aipl/202608140278.aspx（三讀報導）；歲入與減列數：主計總處 2026-09-03「行政院院會通過115年度中央政府總預算追加預算案」新聞稿 https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661 ——「併計原預算案立法院審議調整數歲入增加6,020億元及歲出刪減480億元後」。歲入法定數＝預算案 28,622.53 億 + 6,020 億（主計總處四捨五入到億）。主計總處「115年度中央政府總預算案立法院審議結果」新聞稿與法定機關別表截至 2026-10-23 仍未上架。"
       },
       "final_account": {
         "expenditure": null,
         "execution_rate_pct": null,
         "rate_basis": null,
         "source": null,
-        "notes": "114/115年度尚無決算審定數（114為法定預算數，115為提案數）"
+        "notes": "115 年度為法定預算（2026-08-14 三讀），決算要到 2027 年才出"
       },
       "functions": {
         "一般政務支出": 302524000,
@@ -496,6 +498,58 @@
         "gdp_nominal": 28591052000,
         "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
         "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      },
+      "supplementary": {
+        "expenditure": 607630000,
+        "revenue": 82800000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661",
+        "status": "行政院 2026-09-03 通過，立法院 2026-10-02 一讀交付委員會；2026-10-23 院長報告。未三讀。"
+      }
+    },
+    "116": {
+      "ce": 2027,
+      "proposed": {
+        "revenue": 3926598000,
+        "expenditure": 3926598346,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624 ; https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582（歷年中央政府收支概況表 116 年度 3,926,598 百萬元；主計總處新聞稿 2026-08-20：歲入歲出各 3 兆 9,266 億元）"
+      },
+      "legal": {
+        "revenue": null,
+        "expenditure": null,
+        "cut_by_ly": null,
+        "source": null
+      },
+      "final_account": {
+        "expenditure": null,
+        "execution_rate_pct": null,
+        "rate_basis": null,
+        "source": null,
+        "notes": "116 年度為預算案，2026-10-02 一讀交付委員會，尚未三讀"
+      },
+      "functions": {
+        "一般政務支出": 320194974,
+        "國防支出": 683609797,
+        "教育科學文化支出": 613389348,
+        "經濟發展支出": 759138763,
+        "社會福利支出": 1188909213,
+        "社區發展及環境保護支出": 42072865,
+        "退休撫卹支出": 192205926,
+        "債務支出": 106307862,
+        "一般補助及其他支出": 20769598,
+        "basis": "proposed",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/236582/b歲出政事別預算比較總表(經資門併計).xlsx （116 年度預算書口徑；與 115 年度預算書的政事別有重分類，見 notes）"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 6883100000,
+        "ratio_pct_of_3yr_avg_gdp": 23.4,
+        "as_of": "116 年度總預算案預估 116 年底累計債務未償餘額（含總預算舉借 1,790 億元＋特別預算 178 億元）",
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+      },
+      "gdp_ratio_pct": {
+        "value": null,
+        "gdp_nominal": null,
+        "basis": "主計總處未公布 116 年度歲出占 GDP 比率；新聞稿僅給國防占 116 年度預計 GDP 37.3 兆元之比",
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
       }
     }
   },
@@ -640,10 +694,10 @@
     "final_account.execution_rate_pct 為本研究自算（決算數÷法定預算數×100），非主計總處/審計部原始報告直接給出的數字；105-113年皆可自算，114/115年無決算數故無法自算。",
     "FY112（102年度不是，是112年度=2023）歲入原列/審議後數未查得（配額限制下僅取得歲出面數字），totals-by-year.csv中112年度revenue欄位留空。",
     "FY114 proposed（原列，行政院提出數）revenue/expenditure係WebSearch摘要結果、非直接WebFetch主計總處新聞稿原文核對，正式頁面URL未尋得（僅找到追加預算審議結果頁 s=235260），建議下一輪核實。",
-    "FY115 legal（立法院三讀後）revenue留null：中央社報導「審議結果增列6019億9939萬元」數字異常龐大且無法與其他數字合理勾稽（可能為特別預算合併計算或報導誤植），未採信；expenditure（審議後2兆9,869.74億元，減列480億元）採信中央社數字並標註為新聞交叉校對而非主計總處原始新聞稿（三讀當下即2026-08-14，發稿3天後查無主計總處對應新聞稿）。",
     "debt_outstanding_1yr_plus 105-114年度資料來自財政部國庫署『歷年各級政府債務概況表』CSV（data/budget/raw/fy105-114-debt-outstanding-nta.csv），僅含中央政府列且為半年更新，年度對應之確切月份未於原始檔案標明；115年度該CSV尚無資料，改用fy115總說明PDF表3-1『預估債務未償餘額』6兆7,503億元（預算案預估數，非決算數、非NTA半年報格式），已於該年度debt欄位as_of註明差異。",
     "gdp_ratio_pct 全年度統一來自同一份文件（fy115-zongshuoming-dgbas.pdf「參考表4 歷年各級政府淨支出對國內生產毛額之比率」），比率欄為『中央政府支出總額對國內生產毛額之比率』，與debt占GDP比率是不同分母年份平均方式（GDP比率為當年GDP；debt比率為前3年度GDP平均數），兩者不可互相替代使用。",
     "special_budgets 六筆中，僅『強化經濟社會及民生國安韌性特別預算』(114-116年度)金額為第一手主計總處新聞稿逐字核對；其餘（前瞻基礎建設、新式戰機、海空戰力提升、紓困振興、丹娜絲颱風、馬太鞍溪堰塞湖）金額多數為WebSearch摘要或缺漏，已於各筆notes標註查證建議，未第一手驗證者一律不納入totals-by-year/functions-by-year這兩張核心CSV，僅存於JSON的special_budgets區塊供後續追查。",
-    "本次研究WebSearch+WebFetch合計已達40次配額上限，機關別資料由另一位agent負責、本研究未觸碰。"
+    "2026-10-23 更新：115 legal revenue 由主計總處 2026-09-03 追加預算新聞稿勾稽（歲入 +6,020 億、歲出 −480 億），不再是 null；法定政事別／機關別表仍未上架，115 政事別與機關別仍為預算案數。114 決算審定數（審計部 2026-07-24：歲出 2兆9,332億餘元）已入；116 年度（預算案）取自主計總處 News_Content n=3625 s=236582（2026-10-22 更新）。",
+    "116 年度預算書的「上年度預算數」欄把 115 年度重新分類（例：補助及其他 504.1 億→183.5 億、社福 8,318.0 億→8,428.2 億、教科文 5,566.3 億→5,700.0 億、經濟 4,274.6 億→4,322.0 億，總額不變 30,349.7 億）。本檔 115 年仍用 115 年度預算書原表，116 年用 116 年度預算書，兩者的 115→116 增減部分來自重分類，比較請用 `fy116.restated115`。"
   ]
 }

@@ -1,277 +1,279 @@
 ---
-title: "The Councilor System: Why It Differs from the Legislator System, and SNTV's 30 Years in Local Politics"
-description: "In 2008, legislators switched to the single-member district two-vote system, while that same year's city and county councilor elections still used the SNTV system from the 1980s — the same country, the same voters, different offices on the same ballot, yet governed by two entirely different sets of rules. This is not a bug; it is the greatest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and the costs of complementary reforms. A structural map of how the two systems operate, why one was reformed and the other was not, and what this means for small parties and diverse representation."
+title: "Councilor System: Why It Differs from Legislators, SNTV's 30 Years in Local Politics"
+description: "In 2008, legislators switched to a single-member district two-vote system, yet that same year's county and city councilor elections still used the 1980s SNTV system — same country, same voters, different offices on the same ballot, but two completely different rule sets. This isn't a bug; it's the biggest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and transition costs. A dissection of how the two systems operate, why one reformed while the other didn't, and what it means for small parties and diverse representation — a map of the systems."
 date: 2026-05-27
-author: 'Taiwan.md'
 category: 'Politics'
+tags:
+  [
+    'Councilors',
+    'Electoral system',
+    'SNTV',
+    'Single-member district two-vote system',
+    'Legislators',
+    '2026 election',
+  ]
 subcategory: '選舉制度'
-tags: ['議員', '選舉制度', 'SNTV', '單一選區兩票制', '立法委員', '2026選舉']
-readingTime: 12
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: false
-translatedFrom: Politics/議員制度.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:8e742da3ed42fe59
-sourceBodyHash: sha256:443bc2c93c1de17f
-translatedAt: 2026-05-28T05:08:33+08:00
+readingTime: 12
+translatedFrom: 'Politics/議員制度.md'
+sourceCommitSha: '709d2dc03'
+sourceContentHash: 'sha256:4b665d6e2920264b'
+sourceBodyHash: 'sha256:41e02e02e0fbd229'
+translatedAt: '2026-10-23T00:49:06.010910+00:00'
 ---
 
-# The Councilor System: Why It Differs from the Legislator System, and SNTV's 30 Years in Local Politics
+# Councilor System: Why It Differs from Legislators, and SNTV's 30 Years in Local Politics
 
-> **30-second overview:** On January 12, 2008, Taiwan's seventh Legislative Yuan election adopted the "single-member district two-vote system" for the first time — one vote for a candidate, one vote for a party, with legislative seats slashed from 225 to 113 and the electoral method completely rewritten. Earlier that same year, the sixteenth city and county councilor elections still used the "Single Non-Transferable Vote" (SNTV) system inherited from the 1980s — a district electing five to ten members, voters could mark only one name, and excess votes could not be transferred to a same-party colleague. In the same year, the same pool of voters, two offices listed on the same election bulletin, running on two entirely different sets of rules. This is not a technical bug; it is the result of institutional reform deliberately stopping halfway. Behind it lie local factions' and the two major parties' entrenchment in the SNTV structure, the high cost of complementary reforms, and the difficulty of building cross-party consensus — and it is the most underrated unfinished business on Taiwan's 30-year road of democratic deepening.
+> **30-Second Overview:** On January 12, 2008, Taiwan's 7th Legislative Yuan election adopted the "single-member district two-vote system" for the first time — one vote for a candidate, one vote for a party. Legislator seats were cut from 225 to 113, and the electoral method was completely rewritten. In the 16th county and city councilor elections held before December of the same year, the "Single Non-Transferable Vote in multi-member districts" (SNTV) — carried over from the 1980s — remained in use: each district elects five to ten seats, voters can only select one candidate, and surplus votes cannot be transferred to party colleagues. In the same year, with the same voters, and two positions on the same election gazette, two completely different sets of game rules were running. This is not a technical bug, but the result of institutional reform deliberately stopping halfway. Behind it lie local factions and the two major parties' lock-in to the SNTV structure, the high cost of complementary reforms, the failure to forge cross-party consensus — and it remains one of the most underestimated unfinished tasks on Taiwan's 30-year path of democratic deepening.
 
----
+## Same Year, Two Systems
 
-## The Same Year, Two Systems
+On January 12, 2008, vote counting for the 7th Legislative Yuan election took place. This was the first time in Taiwan's legislative election history that the "single-member district two-vote system" was used — the nation was divided into 73 district seats, each electing 1 person; additionally, 34 at-large seats were allocated by party vote; 6 indigenous legislative seats were split equally between lowland and highland indigenous peoples, 3 each[^1]. Legislative seats were cut from 225 in the previous term to 113, commonly called "legislative halving"[^2].
 
-On January 12, 2008, ballots were counted for the seventh Legislative Yuan election. This was the first time Taiwan's legislative elections used the "single-member district two-vote system" — the nation was divided into 73 single-member districts, each electing one representative; an additional 34 at-large seats were allocated by party vote; and 6 indigenous legislator seats were divided evenly between plainland and mountain indigenous constituencies, 3 each[^1]. Legislative seats were cut from the previous term's 225 to 113, colloquially known as "halving the legislature"[^2].
+On December 13 of the same year, county and city councilor elections were held in all counties and cities except Yunlin and Chiayi (Yunlin and Chiayi had staggered schedules due to 2005 by-elections)[^3]. The same voters received councilor ballots that still used the 1980s local council election system — one district electing 5 to 10 seats, voters could only vote for one person, all candidates ranked by vote count regardless of party affiliation, top vote-getters won[^4].
 
-On December 13 of the same year, city and county councilor elections were held in all counties and cities except Yunlin and Chiayi (whose schedules were offset due to a 2005 by-election)[^3]. The councilor ballots those same voters received still followed the 1980s-era local council election system — a district electing five to ten members, voters could mark only one candidate, all candidates regardless of party were ranked by vote total, and the top vote-getters won seats[^4].
+Two positions, same year, same group of voters. Legislators used the "single-member district two-vote system" (Mixed-Member Majoritarian, MMM), while councilors used the "multi-member district single non-transferable vote" (Single Non-Transferable Vote, SNTV). These two terms belong to different chapters in electoral system comparative textbooks — one is a mixed system gradually adopted by OECD countries after the 1990s, the other is an old system used in Japan from 1947–1994 that academia later generally assessed as "encouraging factional politics, unfavorable to party consolidation"[^5].
 
-Two offices, the same year, the same pool of voters. Legislators operated under the "single-member district two-vote system" (Mixed-Member Majoritarian, MMM); councilors operated under the "Single Non-Transferable Vote" (SNTV). In a comparative electoral systems textbook, these two terms would belong in different chapters — one is a mixed system gradually adopted by OECD countries from the 1990s onward; the other is an old system Japan used from 1947 to 1994, later widely assessed by scholars as "encouraging factional politics and hindering party integration"[^5].
+The legislator side changed. The councilor side didn't.
 
-The legislative side was reformed. The councilor side was not.
-
-This half-reformed state persisted through 2026 — a full 18 years after the legislative overhaul.
+This half-reformed state persisted until 2026 — a full 18 years after the legislative reform.
 
 ---
 
 ## How SNTV Works
 
-SNTV stands for "Single Non-Transferable Vote," translated into Chinese as 「複數選區單記非讓渡投票制」 — breaking down the three key terms:
+SNTV stands for "Single Non-Transferable Vote," translated into Chinese as "複數選區單記非讓渡投票制" (multi-member district, single non-transferable vote system) — breaking down the three key terms:
 
-**Multi-member district:** A district electing multiple seats (usually 3 or more). In the 2022 Taipei City councilor election, for example, the city was divided into 6 districts, with seats ranging from 8 to 12 per district, for a total of 63 seats citywide[^6]. New Taipei City had 66 councilor seats across 12 districts, with 4 to 8 seats per district[^7].
+**Multi-member districts**: A single district elects multiple seats (usually 3 or more). Take the 2022 Taipei City Council election as an example: the city was divided into 6 districts, with each district electing 8 to 12 seats, for a total of 63 seats citywide[^6]. New Taipei City Council's 66 seats were divided across 12 districts, with each district electing 4 to 8 seats[^7].
 
-**Single-mark:** A voter can mark only one candidate on a single ballot. Whether the district elects 5 seats or 12, your ballot allows you to "circle one box."
+**Single vote**: Each voter casts a ballot for only one candidate. Regardless of whether the district elects 5 or 12 seats, the ballot in your hand allows you to "mark just one box."
 
-**Non-transferable:** Vote totals cannot be transferred between candidates of the same party. If the KMT nominates three candidates in a district and A gets 30,000 votes, B gets 10,000, and C gets 5,000 — A's "surplus votes" do not automatically transfer to B or C.
+**Non-transferable**: Votes cannot be transferred between candidates of the same party. If the KMT nominates three candidates in a district — A gets 30,000 votes, B gets 10,000, C gets 5,000 — A's "surplus votes" do not automatically transfer to B or C.
 
-Combined, these three rules produce a counterintuitive result: **the closer a candidate's vote total is to the "election threshold," the better; winning by a large margin is actually wasted votes.**
+Combined, these three rules produce a counterintuitive result: **the closer a candidate's vote total is to the "election threshold," the better; winning a majority of votes is actually a wasted vote.**
 
-Consider a simplified example. A district elects 5 seats with 120,000 valid votes total. The theoretical election threshold (Droop quota) is roughly 20,000 votes[^8]. If a party nominates 2 candidates and A receives 50,000 votes while B receives 10,000 — A wins by a landslide but far exceeds the threshold, while B falls short and loses, so the party wins only 1 seat. If A and B each receive 30,000 votes, both clear the threshold and both win. **The same 60,000 party votes, distributed differently, can mean a difference of one seat.**
+Here's a simplified example. A district elects 5 seats with 120,000 total valid votes. The theoretical election threshold (Droop quota) is roughly 20,000 votes[^8]. If a party nominates two candidates — A gets 50,000 votes, B gets 10,000 — A wins with a high vote count but far exceeds the threshold, while B fails to clear the threshold and loses; the party wins only 1 seat. If A and B each get 30,000 votes, both clear the threshold and both win. **The same 60,000 party votes, distributed differently, make a difference of one seat.**
 
-This is why, under SNTV, same-party candidates engage in "vote allocation" (配票) — before the election, supporters are divided into equal blocs by various methods (birth month, last digit of national ID number, geographic sub-district, household surname initial) to prevent vote concentration on any single candidate[^9]. The KMT has commonly used "last-digit-of-ID vote allocation" in Taipei City councilor elections; the DPP has used "geographic sub-district allocation" in New Taipei City councilor elections; the Taiwan People's Party also attempted vote-allocation appeals in its 2022 electoral debut[^10].
+This is why "vote allocation" (vote coordination) emerges among same-party candidates under SNTV — before the election, supporters are divided into roughly equal blocs using various methods (birth month, last digit of national ID, geographic district, household letter) to prevent votes from concentrating on a single candidate[^9]. The KMT often uses "ID card last-digit allocation" in Taipei City Council elections; the DPP has used "geographic district allocation" in New Taipei City Council elections; and the TPP also attempted vote allocation appeals in its 2022 debut[^10].
 
-Successful vote allocation maximizes the party's total seats. Failed vote allocation can result in the party with the most total votes actually winning fewer seats than its opponent. This is the core tactical dimension of the SNTV system — not "maximizing total party votes," but "precisely hitting the seat threshold."
-
----
-
-## Why SNTV Was Adopted in the 1980s
-
-The institutional roots of SNTV in Taiwan run deeper than generally assumed. During the Japanese colonial period, the first prefectural and municipal council elections in 1935 used a limited-vote system (where the number of candidates a voter could select was fewer than the seats to be filled). After the war, the ROC government's local self-governance laws changed the electoral system to SNTV — a single vote for one candidate[^11]. From the 1950s onward, Taiwan Provincial Council, city and county council, and township council elections all used SNTV, a framework that persisted for over seventy years.
-
-In the 1980s, Taiwanese society was still in the late authoritarian period. Local council elections served as a rehearsal ground for "limited democracy," but SNTV was highly conducive to the KMT's local faction operations — factional candidates did not need to win "majority public support"; they only needed to maintain a base within their cultivated townships, industries, or kinship networks to reach the election threshold. This structure made local factions the core nodes of KMT electoral mobilization and deeply rooted the campaign culture of "vote-broker politics" and "relationship cultivation"[^12].
-
-In 1992, when legislators were first fully directly elected, the institutional designers faced a choice: should the legislative election also be reformed to a new system? The prevailing political atmosphere prioritized "returning the legislature to the people," and debate over a major institutional overhaul was shelved. The direct election of legislators continued to use SNTV — the same system as councilor elections, just with larger districts and more seats.
-
-This "legislators under SNTV" phase lasted 16 years (1992–2008, spanning five legislative terms). Every term brought criticism of SNTV: candidates "competed on base mobilization rather than policy platforms"; extreme positions could win easily (consolidating just 5–10% of die-hard supporters was enough to clear the threshold); intra-party competition was fiercer than competition against opponents; money politics and factional mobilization dominated. Academia labeled this the "pathology of SNTV"[^13].
+Successful vote allocation maximizes the party's total seats. Failed vote allocation can result in the party with the highest total vote count winning fewer seats than its rival. This is the core tactic of the SNTV system — not "maximizing total party votes," but "precisely hitting the seat threshold."
 
 ---
 
-## The 2005 Constitutional Amendment: Legislators Were Reformed
+## Why SNTV Was Used in the 1980s
 
-The turning point for legislative reform was the seventh constitutional amendment in 2005.
+SNTV's institutional roots in Taiwan run deeper than commonly imagined. During the Japanese colonial period, the first prefectural and municipal council elections in 1935 used a limited voting system (each ballot could select fewer candidates than the number of seats), but after the war the Nationalist government brought the ROC Local Self-Government Act, which changed the electoral system to SNTV — one vote for one person[^11]. In the 1950s, elections for Taiwan Provincial Councilors, county/city councilors, and township/city representatives all adopted SNTV, and this framework persisted for over seventy years.
 
-Around the time of Chen Shui-bian's second presidential inauguration in 2004, cross-party criticism of "too many legislators," "poor legislative quality," and "insufficient proportional representation" reached a tipping point. The three main reform demands were: halving the number of legislators, single-member districts, and a party vote (two-vote system). In August 2004, the Legislative Yuan passed a constitutional reform bill combining all three and sent it to an ad-hoc National Assembly[^14].
+In the 1980s, Taiwan society was still in the late authoritarian period. Although local council elections served as a training ground for "limited democracy," SNTV was extremely friendly to KMT local factions — faction candidates did not need to win "majority public support," they only needed to hold onto a basic vote base within their own cultivated townships, industries, and clan networks to clear the election threshold. This structure made local factions the core nodes of KMT electoral mobilization, and it also let the electoral culture of "vote-broker politics" and "personal-connection cultivation" take deep root[^12].
 
-In May 2005, 300 ad-hoc National Assembly delegates were elected nationwide specifically to deliberate on this constitutional reform bill. On June 7 of that year, the Assembly voted to pass the amendment to Article 4 of the Additional Articles of the Constitution — legislative seats were cut from 225 to 113, the system was changed to the single-member district two-vote system, the term was extended from 3 years to 4, and the National Assembly was abolished[^15].
+In 1992, the first full re-election of Legislative Yuan members took place, and the system designers faced a choice: whether to change the legislative election to a new system as well. The political atmosphere at the time prioritized "letting the legislature return to the people's hands," and debate over major systemic reform was shelved. The direct election of legislators continued using SNTV — the same rules as council elections, just with larger districts and more seats per district.
+
+This "legislators using SNTV" phase lasted 16 years (1992-2008, five legislative terms total). Every term saw criticism of SNTV: candidates "competing on base rather than policy"; extreme positions easily elected (only needing to consolidate 5-10% die-hard supporters to clear the threshold); intra-party infighting more fierce than competition with opponents; money politics and faction mobilization dominating. Academia labeled this system "SNTV pathology"[^13].
+
+---
+
+## 2005 Constitutional Amendment: Legislators Changed
+
+The turning point for legislator reform was the 7th constitutional amendment in 2005.
+
+Around the time of Chen Shui-bian's second presidential inauguration in 2004, criticism from both the ruling and opposition parties regarding "too many legislator seats," "declining quality of legislative oversight," and "insufficient proportional representation" had reached a breaking point. At the time, there were three main reform demands: halving the number of legislators, single-member districts, and party votes (two-vote system). In August 2004, the Legislative Yuan passed a constitutional amendment proposal, combining these three points and submitting them to the task-oriented National Assembly[^14].
+
+In May 2005, 300 delegates to the task-oriented National Assembly were elected across Taiwan, tasked specifically with deliberating this constitutional amendment. On June 7 of that year, the National Assembly delegates voted in a second reading to pass the amendment to Article 4 of the Additional Articles of the Constitution — reducing legislator seats from 225 to 113, changing to a single-member district two-vote system, extending terms from 3 years to 4 years, and abolishing the National Assembly[^15].
 
 Details of the new system:
 
-- **73 district legislator seats:** The nation was divided into 73 single-member districts based on population, each electing one representative (first-past-the-post, relative majority)
-- **34 at-large legislator seats:** Allocated by party vote share, with a 5% threshold
-- **6 indigenous legislator seats:** 3 for plainland indigenous and 3 for mountain indigenous (the multi-member SNTV system was retained here — the constitutional amendment did not touch this)
-- **Total 113 seats, 4-year term**
+- **73 district legislators**: The nation was divided into 73 single-member districts based on population, with each district electing one representative (using first-past-the-post, relative majority)
+- **34 at-large legislators**: Allocated according to party vote share, with a 5% threshold
+- **6 indigenous legislators**: 3 each for Plains Indigenous and Mountain Indigenous (still maintaining multi-member district SNTV — the amendment did not touch this part)
+- **Total 113 seats, 4-year terms**
 
-The first election under the new system was held on January 12, 2008. The KMT won 81 seats (61 district + 20 at-large) and the DPP won 27 seats (13 district + 14 at-large), a seat ratio of roughly 3:1[^16]. The first battle under the new system resulted in intensified two-party dominance — the 5% party vote threshold formed a high wall for small parties. But the direction of institutional reform at least shifted from "SNTV, which encouraged internal strife" toward "single-member districts + proportional representation, which more closely reflect majority preferences."
+The first election under the new system was held on January 12, 2008. The KMT won 81 seats (57 district + 4 indigenous + 20 at-large), the DPP won 27 seats (13 district + 14 at-large), a seat ratio of 3:1[^16]. In the first election under the new system, the result was an intensification of the two major parties' duopoly — the 5% party vote threshold formed a high wall for small parties. However, the direction of institutional reform at least shifted from "SNTV that encourages infighting" to "single-member districts + proportional representation that better reflect majority public opinion."
 
-Legislators were reformed.
+Legislators changed.
 
-Councilors were not.
+Councilors didn't.
 
----
+## Why Councilors Weren't Reformed Together
 
-## Why Councilors Were Not Reformed Together
-
-The scope of the constitutional amendment was limited to the "central level" — the Legislative Yuan, the presidency, and the National Assembly. Councilor electoral systems are governed by the Local Institutions Act and the Civil Servants Election and Recall Act; they do not require a constitutional amendment, only legislative action. But this path was not completed in 18 years.
+The constitutional amendment's scope was limited to the "central level" — the Legislative Yuan, the presidency, and the National Assembly. Local councilors' electoral system is governed by the Local Government Act and the Public Officials Election and Recall Act; no constitutional amendment was needed, only legislative revision by the Legislative Yuan. But this path remained unfinished for 18 years.
 
 Several structural reasons:
 
-**Local faction opposition.** SNTV is highly advantageous for locally entrenched factional candidates — they do not need to win broad public support, only to maintain their township or industry base. Switching to single-member districts would expand district boundaries, forcing candidates to face a broader electorate, diluting factional structures. From the perspective of both the KMT's and DPP's local political structures, this reform would harm their own people[^17].
+**Opposition from local factions**. SNTV is highly advantageous for faction-backed candidates with deep local roots — they don't need to court broad public support, only maintain their own township or industry base. Switching to single-member districts would expand constituencies, forcing candidates to face a wider electorate, diluting faction structures. From the perspective of the Blue and Green camps' local political structures, this reform would hurt their own people[^17].
 
-**Cross-party consensus is difficult.** During legislative reform, the KMT and DPP shared consensus on "halving the legislature" (both parties agreed there were too many legislators) and could reluctantly agree on "single-member districts" (both major parties were competitive in single-member districts). But at the councilor level, the situation is different — SNTV represents a relatively stable equilibrium for both parties' local territories. Who would benefit and who would be harmed after a reform was unclear to both sides. No one had an incentive to move first.
+**Cross-party consensus difficult**. During legislative reform, the KMT and DPP shared consensus on "halving legislative seats" (both parties felt there were too many legislators) and could reluctantly agree on "single-member districts" (both major parties were competitive in such districts). But the councilor level is different — SNTV creates a relatively stable equilibrium for both major parties' local territories. After reform, who benefits and who loses is unclear to either side. No one has the incentive to move first.
 
-**High cost of complementary reforms.** Councilor reform involves more complex complementary measures than legislative reform — should the number of councilors be halved? Should districts be redrawn? How should indigenous reserved seats be handled? How should women's reserved seats be addressed? Should reforms be applied simultaneously across all three tiers — special municipality councilors, county/city councilors, and township councilors? The district-redrawing engineering alone for 22 county and city councils plus 198 township councils across the nation is an order of magnitude larger than redrawing 73 legislative districts[^18].
+**High cost of accompanying reforms**. Councilor reform involves more complex accompanying measures than legislative reform — should councilor numbers be halved? Should districts be redrawn? How to allocate reserved indigenous seats? How to handle reserved women's seats? Should the three tiers — special municipality councilors, county/city councilors, and township/city council representatives — be reformed together? The redistricting project alone for all 22 county/city councils plus 198 township/city councils nationwide is an order of magnitude larger than the Legislative Yuan's 73 district constituencies[^18].
 
-**Insufficient public momentum.** Legislative reform had the simple slogan "halve the legislature" to mobilize public opinion. Councilor system reform lacks such a banner — ordinary voters do not feel the difference between SNTV and single-member districts, and they are highly sensitive to the costs of electoral reform. Councilor elections proceed normally every four years, with no crisis event of "systemic collapse."
+**Insufficient public momentum**. Legislative reform had the simple slogan "halve the legislators" to mobilize public opinion. Councilor system reform lacks such a banner — ordinary voters don't perceive the difference between SNTV and single-member districts, and are highly sensitive to the costs of electoral reform. Councilor elections proceed normally every four years, with no "systemic collapse" crisis event emerging.
 
-With all four factors叠加, councilor system reform remained in place. Every few years, legislators or scholars would reintroduce proposals, only to have them shelved on the Legislative Yuan's legislative agenda[^19].
+The four reasons compound, leaving councilor system reform stalled. Every few years a legislator or scholar reintroduces a proposal, and each time it gets shelved on the Legislative Yuan's legislative agenda[^19].
 
 ---
 
 ## Structural Differences Between the Two Systems
 
-The legislator system (single-member district two-vote system) and the councilor system (SNTV) produce structurally distinct outcomes in several notable ways.
+The legislative (single-member district two-vote system) and councilor (SNTV) systems produce structurally distinct outcomes in several clear ways.
 
-**Impact on small parties:**
+**Impact on Small Parties**:
 
-SNTV is "relatively friendly" to small parties — because the election threshold is a "relative threshold determined by the number of seats to be filled," not an "absolute majority." A district electing 10 seats has a theoretical threshold of roughly 9–10%; a district electing 5 seats has a threshold of roughly 17–18%. A small party that can push its vote share to around 10% in a given district has a chance of winning a seat. Small parties such as the Taiwan Statebuilding Party, the New Power Party, the Green Party, and the Social Democratic Party have all won seats at the city/county councilor level[^20].
+SNTV is "relatively friendly" to small parties — because the election threshold is a "relative threshold determined by the number of seats to be filled," not an "absolute majority." In a district with 10 seats, the theoretical threshold is about 9–10%; with 5 seats, about 17–18%. A small party only needs to reach around 10% of the vote in a district to win a seat. Small parties such as the Taiwan Statebuilding Party, New Power Party, Green Party, and Social Democratic Party have all won seats at the county/city council level[^20].
 
-But the single-member district two-vote system imposes a stricter dual threshold on small parties — single-member district seats are "winner-take-all," making it nearly impossible for small parties to win them; they must rely on clearing the 5% party vote threshold for at-large seats to enter the legislature. The New Power Party won 5 legislative seats via at-large votes in 2016, only 3 in 2020, and was completely wiped out in 2024[^21]. The Taiwan People's Party won 5 at-large seats in 2020 and, in 2024, won 0 district seats but 8 at-large seats[^22].
+But the single-member district two-vote system imposes a stricter double threshold on small parties — the district tier is "winner-take-all," where almost no small party can win; they must rely on the 5% party-list threshold to enter the legislature. The New Power Party won 5 legislative seats in 2016 (3 district, 2 party-list), dropped to 3 in 2020, and was wiped out entirely in 2024[^21]. The Taiwan People's Party won 5 seats via the party list in 2020, and in 2024 won 0 district seats but 8 party-list seats[^22].
 
-From this structural perspective, third forces actually find it easier to break through at the "councilor level" than at the "legislator level" — because of SNTV's lower threshold. But the councilor system lacks the "at-large" safety net; all councilor seats are produced through single-mark non-transferable competition in multi-member districts.
+Structurally, this means third forces find it easier to break through at the "councilor level" than at the "legislator level" — because of SNTV's low threshold. However, the councilor system lacks a "party-list" safety net; all council seats are produced by single non-transferable vote in single districts.
 
-**Impact on candidate behavior:**
+**Impact on Candidate Behavior**:
 
-SNTV encourages candidates to cultivate "factions" over "issues" — because consolidating a base is enough to clear the threshold, there is no need to persuade a majority of voters. Single-member district systems encourage candidates to court "median voters" — because winning a relative majority within the district is necessary. The impact of the two systems on democratic quality is a long-standing academic debate that will not be elaborated here[^23].
+SNTV encourages candidates to cultivate "factions" over "issues" — because consolidating a base is enough to clear the threshold, without needing to persuade a majority of voters. The single-member district system encourages candidates to court "median voters" — because winning requires a plurality in the district. The effects of these two systems on democratic quality have been debated in academia for years; this article does not expand on that[^23].
 
-**Impact on party competition:**
+**Impact on Party Competition**:
 
-Under SNTV, competition between same-party candidates can be fiercer than competition against opponents — because candidates must first secure the party nomination and then allocate votes. Under the single-member district legislator system, it is "one district, one candidate"; after the party primary, the nominee faces the opponent in a one-on-one contest.
-
----
-
-## Special Designs in Councilor Districts
-
-Beyond the main SNTV framework, councilor districts have two unique reserved-seat designs that do not exist in the legislator system (of the 113 legislative seats, only 6 are indigenous seats; there are no gender-based reserved seats).
-
-**Indigenous reserved seats:**
-
-In city and county councilor elections, counties and cities whose indigenous population reaches a certain threshold establish indigenous councilor seats, divided into "plainland indigenous" and "mountain indigenous" categories, each with independent districts and independent vote counting. For example, of New Taipei City's 66 councilor seats, 1 is reserved for plainland indigenous and 1 for mountain indigenous[^24]; of Pingtung County's 55 councilor seats, 2 are reserved for plainland indigenous and 4 for mountain indigenous (Pingtung has seven mountain indigenous townships: Wutai, Majia, Taiwu, Laiyi, Chunri, Shizi, and Mudan)[^25].
-
-This design reflects the fact that local councils face the geographic distribution of ethnic populations more directly than the Legislative Yuan — the proportions of plainland and mountain indigenous peoples vary across different counties and cities, requiring localized seat guarantees.
-
-**Women's reserved seats:**
-
-The Civil Servants Election and Recall Act stipulates that in local councilor elections, "where the number of seats to be filled is four or more, the number of women elected shall not be less than one-fourth"[^26]. This means: for every 4 seats to be filled, at least 1 must be reserved for a woman.
-
-How it works in practice: after the vote count, if the number of women elected in a district falls short of the reserved-seat threshold, the lowest-scoring male winner is "pushed out" and replaced by the highest-scoring female candidate who did not originally win. This design has been in place since the 1990s and is the key institutional guarantee behind the fact that Taiwan's female councilor ratio has remained above 35% for an extended period[^27].
-
-After the switch to single-member districts for legislators, women's reserved seats could no longer be applied (a single-member district elects only one person, making it impossible to reserve one-fourth for women), and the alternative adopted was "a 1/2 gender ratio requirement on at-large party lists." The two designs reflect the structural differences between the two systems — SNTV guarantees within multi-member districts, while the single-member district system guarantees within party proportional representation.
+Under SNTV, competition among same-party candidates can be fiercer than competition against opponents — because they must first compete for the party nomination, then allocate votes. The legislative single-member district system is "one district, one person"; once the party primary decides, the nominee faces the opponent head-on.
 
 ---
 
-## International Comparison: How Similar Systems Were Handled
+## Special Design of Councilor Electoral Districts
 
-SNTV is not unique to Taiwan. Several East Asian countries historically used it, and most have since reformed.
+In addition to the SNTV framework, councilor electoral districts have two unique guaranteed-seat designs that do not exist in the legislator system (legislators have 113 seats total, with 6 reserved for indigenous peoples; gender quotas apply only to the at-large party list, see below).
 
-**Japanese House of Councillors:** The national district used SNTV from 1947 to 1982, then switched to a party-list proportional representation system in 1982. Local districts (prefectures) still primarily use SNTV today (some districts are single-member). The Japanese House of Representatives used SNTV for all seats from 1947 to 1993, then switched to a "single-member district proportional representation parallel system" in 1994 — nearly identical in direction to Taiwan's 2008 legislative reform[^28].
+**Indigenous Guaranteed Seats**:
 
-**South Korean National Assembly:** Primarily single-member districts (253 seats), plus 47 proportional representation at-large seats. SNTV was never used[^29].
+In county and city councilor elections, jurisdictions where the indigenous population reaches a certain threshold establish indigenous councilor seats, divided into two categories — "Plains Indigenous" and "Mountain Indigenous" — each with its own independent electoral district and separate vote count. For example, among New Taipei City's 66 council seats, 1 is reserved for Plains Indigenous and 1 for Mountain Indigenous[^24]; among Pingtung County's 55 council seats, 2 are reserved for Plains Indigenous and 4 for Mountain Indigenous (Pingtung has seven mountain indigenous townships: Wutai, Majia, Taiwu, Laiyi, Chunri, Shizi, and Mudan)[^25].
 
-**German Bundestag:** Mixed-Member Proportional (MMP) system — one vote for a candidate, one vote for a party, but final seat allocation is based on the party vote, with district winners drawing from the party vote allocation. This is widely regarded by scholars as the most small-party-friendly and proportionally accurate mixed system design. During Taiwan's 2005 constitutional amendment, the MMP system was considered, but the final choice was the "parallel system" (district seats and at-large seats do not affect each other)[^30].
+This design reflects how local councils face the geographic distribution of ethnic populations more directly than the Legislative Yuan — the proportions of Plains and Mountain indigenous peoples vary across counties and cities, requiring localized seat guarantees.
 
-**Singapore:** Uses the "Group Representation Constituency" (GRC) system — multi-member districts but with parties nominating team slates, all-or-nothing. Completely different from SNTV.
+**Women's Guaranteed Seats**:
 
-From an international comparison, **SNTV has been a minority system since the 1990s.** Japan's 1994 reform is seen as one of the "farewell performances of SNTV." Taiwan's councilor system is one of the few national-level democratic systems still using SNTV in its entirety.
+The Public Officials Election and Recall Act stipulates that in local councilor elections, "where the number of seats to be filled is four or more, the number of women elected shall not be less than one-quarter"[^26]. This means: for every 4 seats to be filled, at least 1 seat must be reserved for women.
 
----
+Actual operation: after vote counting, if the number of women elected in a district fails to meet the guaranteed threshold, the male candidate with the fewest votes among those elected is "pushed out," and the unelected female candidate with the highest votes takes the seat. This design has been in place since the 1990s and is the key institutional guarantee that has kept the proportion of women councilors in Taiwan consistently above 35%[^27].
 
-## Observation Points for the 2026 Councilor Elections
-
-On November 28, 2026, the nine-in-one elections will use SNTV for councilor races as before. Several structural issues worth watching:
-
-**Vote-allocation battles:** Will the two major parties continue using vote-allocation appeals in hotly contested districts (such as Taipei City's sixth district, New Taipei City's third district, and Taichung City's sixth district)? Vote-allocation success rates were not high in 2022 — the Taiwan People's Party saw "lead candidate overvotes, running mate loses" vote-concentration problems in multiple districts. In 2026, will third forces (the Taiwan People's Party, the Statebuilding Party, remnants of the New Power Party, and emerging parties) use vote-allocation tools more skillfully?
-
-**Women's reserved seats:** Of the 988 councilor seats nationwide in 2026, an estimated 250+ will be decided by the women's reservation clause or will displace originally elected men. The last seat in each district is often the critical seat determined by the gender reservation clause — this rule has rewritten the outcomes of thousands of elections over 30 years[^31].
-
-**Third-force seats:** In the 2022 nine-in-one elections, the Taiwan Statebuilding Party, the Taiwan People's Party, and the New Power Party together won 30+ seats in councils nationwide. Whether third-force seats can break through the 50-seat mark in 2026 is an indicator of whether SNTV's "threshold dividend" for small parties continues to function.
-
-**No party vote:** Councilor elections have no at-large system and no party vote; all seats come from SNTV competition in multi-member districts. This means there is only one path for small parties to win councilor seats — pushing past the election threshold in a given district. This structure makes the "party color" of councilor elections more blurred than that of legislative elections, with local factions, family operations, and personal charisma carrying greater weight.
-
-**The reform question remains on the table:** Every few years, legislators introduce "councilor reform" bills. Will the new legislature after 2026 (a DPP minority government + KMT/TPP majority) bring this issue to the table? Will proposals such as "halving councilor seats," "single-member councilor districts," or "councilor at-large seats" emerge? This is one observation point for post-2026 Local Institutions Act reform.
+After legislators shifted to single-member districts, the women's guaranteed seat mechanism could no longer be used (a single-member district elects only one person, making it impossible to reserve 1/4 for women), and it was replaced by "gender parity of 1/2 on the at-large party list." The two designs reflect the structural differences between the two systems — SNTV guarantees representation within multi-member districts, while the single-member district system guarantees it within party proportional representation.
 
 ---
 
-## The Significance of the Half-Reform
+## International Comparison: How Similar Systems Are Handled
 
-Legislators were reformed. Councilors were not. This half-reformed state has persisted for 18 years.
+SNTV is not unique to Taiwan. Historically, several East Asian countries have used it, but most have since reformed.
 
-From an institutional design perspective, this is not the complete story — the complete story would be "after the single-member district two-vote system succeeded for legislators, councilors followed suit," or "the legislative reform proved SNTV was better, prompting a re-examination of the single-member district system." But Taiwan's political reality is that neither path was taken — legislators kept the new system, councilors kept the old system, and the two systems coexist.
+**Japan's House of Councillors**: Used SNTV for the national district from 1947–1982, then switched to a party-list proportional representation system in 1982. Prefectural districts still primarily use SNTV to this day (some districts are single-member). Japan's House of Representatives used SNTV entirely from 1947–1993, and in 1994 switched to a "parallel voting system" (小選舉區比例代表並立制) — almost the same direction as Taiwan's 2008 legislative reform[^28].
 
-This "institutional coexistence" itself can be interpreted in two ways.
+**South Korea's National Assembly**: Primarily single-member districts (253 seats), plus 47 proportional representation seats. Never used SNTV[^29].
 
-One interpretation: **a sign of democratic maturity.** Different levels use different systems, each playing to its strengths — legislators use the single-member district two-vote system for national issues, while councilors use SNTV to safeguard local diverse representation. This interpretation treats "not reforming" as "should not have been reformed."
+**Germany's Bundestag**: Mixed-Member Proportional (MMP) — one vote for a candidate, one for a party, but final seat allocation is based on the party vote, with district winners counting against the party's quota. This is widely recognized in academia as the mixed system most friendly to small parties and with the highest proportionality. Taiwan considered MMP during the 2005 constitutional amendments but ultimately adopted a "parallel voting system" (where district seats and party-list seats do not affect each other)[^30].
 
-Another interpretation: **the result of stalled reform.** The electoral reform initiated in the 1990s stopped halfway after 2008, and the remaining half stayed in place because the political costs were too high and no one wanted to pay them. SNTV's persistence at the councilor level is not a "design choice" but "no one pushed for change." This interpretation treats "not reforming" as "should have been reformed but wasn't."
+**Singapore**: Uses the "Group Representation Constituency" (GRC) system — multi-member districts where parties nominate a team slate, winner-takes-all. Completely different from SNTV.
 
-Between these two interpretations lies the arena of public opinion, political power, academic debate, and media attention. Taiwan.md does not take either side — but documenting this half-reformed state is essential groundwork for observing the 2026 elections.
-
-On election day, the ballots voters receive will not include legislative races (legislative elections coincide with presidential elections, not held again until 2028), but the councilor ballots will still run on rules inherited from the 1980s. **The same ballot, old and new systems coexisting** — this is the most easily overlooked yet structurally deepest detail in Taiwan's democratic infrastructure.
-
-For detailed institutional discussions, see: [Politics Hub](/politics) · 2026 九合一選舉 (2026 nine-in-one elections) · 九合一選舉是什麼 (What are the nine-in-one elections) · 中選會制度 (Central Election Commission system) · 村里長制度 (Village chief system) · 直轄市山地原住民區長 (Special municipality mountain indigenous district chiefs) · [Taiwan's democratization](/en/history/taiwan-democratization-history/) · [Taiwan elections and party politics](/en/history/taiwan-elections-and-party-politics/)
+From an international comparison perspective, **SNTV has been a minority system since the 1990s**. Japan's 1994 House of Representatives reform is seen as one of the "farewell performances" of SNTV. Taiwan's legislative system is one of the few national-level democracies that still fully uses SNTV.
 
 ---
 
-## Further Reading
+## Key Points to Watch in the 2026 Councilor Elections
 
-- Central Election Commission Election Database — Historical councilor election vote structures, vote-allocation records, and gender-reserved seat statistics
-- Wang Yeh-lih (王業立), _Comparative Electoral Systems_ (比較選舉制度) — The most comprehensive textbook on electoral systems in Taiwan; primary reference for SNTV and MMM system comparisons
-- Shen Yu-chung (沈有忠), series of electoral systems papers — Political economy analysis of the 2005 constitutional amendment process and the single-member district two-vote system reform
-- Legislative Yuan Gazette, August 2004 — Records of the third reading of the constitutional reform bill and cross-party negotiation process
-- Ad-hoc National Assembly meeting minutes, June 2005 — Final resolution text on halving the legislature and single-member district reform
+The November 28, 2026 nine-in-one elections will again use SNTV for councilor races. Several structural issues are worth watching:
+
+**Vote allocation battles**: Will the two major parties continue issuing vote allocation appeals in hotly contested districts (such as Taipei City District 6, New Taipei City District 3, Taichung City District 6)? Vote allocation success rates were low in 2022 — the TPP saw a "vote skew" phenomenon in multiple districts where the "lead candidate got high votes while the running mate lost." Will third forces (TPP, Green Party Taiwan, remnants of the New Power Party, emerging parties) wield vote allocation tools more adeptly in 2026?
+
+**Gender quotas**: Of the 988 council seats nationwide in 2026, an estimated 250+ seats will be won via the gender quota provision or will displace originally elected candidates. The final seat in each district is often the pivotal one decided by the gender quota — a rule that has rewritten over a thousand election results in the past 30 years[^31].
+
+**Third-force seat count**: In the 2022 nine-in-one elections, the Green Party Taiwan, TPP, and New Power Party together won 30+ seats in councils nationwide. Whether the third force can break 50 seats in 2026 is a key indicator of whether SNTV's "threshold dividend" for small parties continues to ferment.
+
+**No party-list vote**: Councilor elections have no at-large seats and no party-list vote; all seats come from SNTV competition within individual districts. This means the only way for small parties to win seats at the councilor level is to surpass the election threshold in a specific district. This structure makes councilor elections less "partisan" than legislative elections, giving greater weight to local factions, family networks, and personal charisma.
+
+**Reform issues remain on the table**: Every few years legislators propose "councilor reform" amendment bills. Will the new 2026 legislature (DPP minority government + KMT-TPP majority) bring this issue to the fore? Will proposals like "halving councilor seats," "single-member districts for councilors," or "councilor party-list system" emerge? This is one of the key points to watch for post-2026 amendments to the Local Government Act.
+
+## The Meaning of Half-Measure Reform
+
+Legislators were reformed. Councilors were not. This half-measure state has persisted for 18 years.
+
+From a system design perspective, this is not the complete story — the complete story should be "after the legislator single-member district two-vote system succeeds, councilors follow suit and reform," or "legislator reform proves SNTV is better, prompting a re-examination of the single-member district system." But Taiwan's political reality is that neither path was taken — legislators maintain the new system, councilors maintain the old system, two systems coexisting.
+
+This "system coexistence" itself can be interpreted in two ways.
+
+One interpretation: **a sign of democratic maturity**. Different levels use different systems, each taking what it does best — legislators use the single-member district two-vote system to handle national issues, councilors use SNTV to guarantee local diverse representation. This interpretation treats "not reformed" as "should not be reformed."
+
+Another interpretation: **the result of reform stagnation**. The electoral reform launched in the 1990s stopped halfway in 2008; the remaining half stalled because the political cost was too high and no one wanted to pay it. SNTV remaining at the councilor level is not a "design choice," but "no one pushed for change." This interpretation treats "not reformed" as "should reform but didn't."
+
+Between these two interpretations lies a wrestling arena of public opinion, political forces, academic discussion, and media attention. Taiwan.md does not take sides — but recording this half-measure state is a basic skill for observing the 2026 election.
+
+On the day of the nine-in-one elections, the ballots voters receive do not include legislators (legislator elections are held simultaneously with presidential elections, next in 2028), but the councilor ballots still run on the old rules inherited from the 1980s. **Same ballot, new and old systems coexisting** — this is a detail in Taiwan's democratic infrastructure most easily overlooked, yet with the deepest structural significance.
+
+For detailed system discussion see: [Politics Hub](/politics) · [2026 Nine-in-One Elections](/en/politics/2026-local-elections-taiwan/) · [What Are the Nine-in-One Elections](/en/politics/nine-in-one-elections-explained/) · [CEC System](/en/politics/central-election-commission/) · [Village/Neighborhood Chief System](/en/politics/village-chief-system/) · [Special Municipality Mountain Indigenous District Chiefs](/en/politics/indigenous-district-chief-system/) · [Democratization](/en/history/taiwan-democratization-history/) · [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
 
 ---
 
-[^1]: [Seventh Legislative Yuan Election Overview — Central Election Commission](https://www.cec.gov.tw/) — Voting held 2008-01-12; 73 district constituencies nationwide, 34 at-large seats, 6 indigenous seats (3 plainland, 3 mountain).
+## Extended Reading
 
-[^2]: [Institutional Design of Legislative Seat Reduction — Legislative Yuan](https://www.ly.gov.tw/) — The seventh constitutional amendment in 2005 reduced legislative seats from 225 to 113 and extended the term from 3 years to 4.
+- Central Election Commission Election Database — vote structure of past councilor elections, vote allocation records, gender quota seat statistics
+- Wang Ye-li _Comparative Electoral Systems_ — Taiwan's most complete electoral systems textbook, primary reference for SNTV and MMM system comparison
+- Shen You-zhong Electoral Systems Series Papers — political economy analysis of the 2005 constitutional amendment process and single-member district two-vote system reform
+- Legislative Yuan Gazette August 2004 — constitutional amendment third reading records, cross-party negotiation process
+- Task-Based National Assembly Meeting Records June 2005 — final resolution text on legislator halving and single-member district reform
 
-[^3]: [Yunlin County Council Election Data — CEC](https://www.cec.gov.tw/) — Yunlin and Chiayi counties' election schedules were offset due to a 2005 speaker bribery case by-election, differing from other counties and cities.
+---
 
-[^4]: [Single Non-Transferable Vote — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — System rules, countries of historical use, and overview of academic assessments.
+[^1]: [Overview of the 7th Legislative Yuan Election — Central Election Commission](https://www.cec.gov.tw/) — Voting on 2008-01-12, nationwide divided into 73 regional constituencies, 34 party-list seats, 6 indigenous seats (3 plains, 3 mountain).
 
-[^5]: [Steven Reed, "Structure and Behavior: Extending Duverger's Law to the Japanese Case"](https://www.jstor.org/) — Classic empirical study of candidate behavior and party integration under SNTV.
+[^2]: [System Design for Halving Legislative Yuan Seats — Legislative Yuan](https://www.ly.gov.tw/) — The 7th constitutional amendment in 2005 reduced legislative seats from 225 to 113 and extended terms from 3 to 4 years.
 
-[^6]: [Taipei City Councilor Electoral District Boundaries — Taipei City Election Commission](https://www.tpcec.gov.taipei/) — 2022 third-term Taipei City councilor election: 6 districts, 63 seats to be filled.
+[^3]: [Yunlin County Council Election Data — Central Election Commission](https://www.cec.gov.tw/) — Yunlin and Chiayi counties had staggered election schedules due to 2005 speaker vote-buying re-elections, differing from other counties/cities.
 
-[^7]: [New Taipei City Councilor Electoral District Boundaries — New Taipei City Election Commission](https://www.ntpcec.gov.tw/) — 2022 third-term New Taipei City councilor election: 12 districts, 66 seats to be filled.
+[^4]: [Single Non-Transferable Vote in Multi-Member Districts — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — System rules, historical adopting countries, and academic evaluation overview.
 
-[^8]: [Droop Quota and SNTV Election Threshold — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — Conceptual calculation of the election threshold when N seats are to be filled.
+[^5]: [Steven Reed, "Structure and Behavior: Extending Duverger's Law to the Japanese Case"](https://www.jstor.org/) — Classic empirical study on candidate behavior and party integration under SNTV.
 
-[^9]: [SNTV Vote-Allocation Strategy Research — Taiwan Election and Democratization Study](https://www.tedsnet.org/) — KMT and DPP historical vote-allocation appeal methods (last digit of national ID, birth month, geographic sub-district).
+[^6]: [Taipei City Council Electoral Districts — Taipei City Election Commission](https://www.tpcec.gov.taipei/) — 2022 3rd Taipei City Council election: 6 districts, 63 seats.
 
-[^10]: [Taiwan People's Party 2022 Councilor Election Vote-Allocation Appeals — Central News Agency](https://www.cna.com.tw/) — The TPP attempted vote-allocation in multiple districts; in some districts, vote concentration led to lead candidates winning over half the votes while running mates lost.
+[^7]: [New Taipei City Council Electoral Districts — New Taipei City Election Commission](https://www.ntpcec.gov.tw/) — 2022 3rd New Taipei City Council election: 12 districts, 66 seats.
 
-[^11]: [History of Taiwan's Local Electoral Systems — Academia Historica](https://www.drnh.gov.tw/) — The 1935 Japanese-era prefectural/municipal council elections used a limited-vote system; post-war, it was changed to SNTV.
+[^8]: [Droop Quota and SNTV Election Threshold — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — Conceptual calculation of election threshold when N seats are contested.
 
-[^12]: [Taiwan Local Factions and Electoral Politics — Wang Jin-shou Research](https://www.airitilibrary.com/) — The binding relationship between local factions and the SNTV structure in the 1980s.
+[^9]: [SNTV Vote Allocation Strategy Research — Taiwan Election and Democratization Study](https://www.tedsnet.org/) — KMT and DPP historical vote allocation appeals (ID card last digit, birth month, geographic district).
 
-[^13]: [The SNTV Experience in Taiwan — Wang Yeh-lih, _Comparative Electoral Systems_](https://www.books.com.tw/) — Empirical observations of factional politics, extreme positioning, and money mobilization across five terms of SNTV legislative elections.
+[^10]: [TPP 2022 Council Election Vote Allocation Appeals — Central News Agency](https://www.cna.com.tw/) — TPP attempted vote allocation in multiple districts; in some districts vote skew caused lead candidate to get over half the votes while running mate lost.
 
-[^14]: [2004 Legislative Yuan Constitutional Reform Bill Passes Third Reading — Legislative Yuan Gazette](https://www.ly.gov.tw/) — Three items — halving the legislature, single-member districts, and the two-vote system — were combined and sent to the ad-hoc National Assembly.
+[^11]: [Evolution of Taiwan Local Election Systems — Academia Historica](https://www.drnh.gov.tw/) — During Japanese rule, 1935 prefectural/city council elections used limited voting; post-war switched to SNTV.
 
-[^15]: [Seventh Constitutional Amendment of 2005 — Office of the President, Republic of China](https://www.president.gov.tw/) — The ad-hoc National Assembly voted to pass the amendment to Article 4 of the Additional Articles of the Constitution, abolishing the National Assembly and reforming legislative seats and the electoral system.
+[^12]: [Taiwan Local Factions and Electoral Politics — Wang Jin-shou Research](https://www.airitilibrary.com/) — 1980s binding relationship between local factions and SNTV structure.
 
-[^16]: [Seventh Legislative Yuan Election Results — CEC](https://www.cec.gov.tw/) — 2008-01-12: KMT 81 seats, DPP 27 seats, others 5 seats.
+[^13]: [Taiwan's Experience with SNTV — Wang Ye-li 'Comparative Electoral Systems'](https://www.books.com.tw/) — Empirical observations on factional politics, extreme positions, and money mobilization in five legislative SNTV elections.
 
-[^17]: [Local Factions and Resistance to Electoral Reform — Wang Yeh-lih and Chen Hung-chang academic paper](https://www.airitilibrary.com/) — Why councilor electoral reform faces greater resistance in local politics than legislative reform.
+[^14]: [2004 Legislative Yuan Constitutional Amendment Passed Third Reading — Legislative Yuan Gazette](https://www.ly.gov.tw/) — Three items — halving legislators, single-member districts, two-vote system — bundled and sent to task-based National Assembly.
 
-[^18]: [Difficulty of Local Councilor District Redrawing — Ministry of the Interior](https://www.moi.gov.tw/) — The engineering complexity of redrawing districts for 22 county and city councils plus 198 township councils nationwide.
+[^15]: [2005 7th Constitutional Amendment — Office of the President ROC](https://www.president.gov.tw/) — Task-based National Assembly delegates ratified Amendment 4 of Additional Articles, abolishing National Assembly and reforming legislative seats and system.
 
-[^19]: [Historical Councilor Electoral Reform Proposals — Legislative Yuan Bill Records](https://www.ly.gov.tw/) — After the 2008 legislative reform, multiple councilor system reform bills were introduced but none passed second reading.
+[^16]: [7th Legislative Yuan Election Results — Central Election Commission](https://www.cec.gov.tw/) — 2008-01-12 KMT 81 seats (57 district, 4 indigenous, 20 party-list), DPP 27 seats, others 5 seats.
 
-[^20]: [Small Party Seat Records in Local Councils — CEC](https://www.cec.gov.tw/) — Historical election-to-seat statistics for the Taiwan Statebuilding Party, New Power Party, Green Party, and Social Democratic Party.
+[^17]: [Local Factions and Resistance to Electoral Reform — Academic Paper by Wang Ye-li and Chen Hong-zhang](https://www.airitilibrary.com/) — Why city/county council electoral reform faces greater resistance in local politics than legislative reform.
 
-[^21]: [New Power Party Legislative Seat History — CEC](https://www.cec.gov.tw/) — 2016: 5 seats; 2020: 3 seats; 2024: 0 seats.
+[^18]: [Difficulty of Local Council District Delimitation — Ministry of the Interior](https://www.moi.gov.tw/) — The engineering complexity of redrawing districts for 22 county/city councils + 198 township/city councils nationwide.
 
-[^22]: [Taiwan People's Party Legislative Seat History — CEC](https://www.cec.gov.tw/) — 2020: 5 at-large seats; 2024: 0 district seats, 8 at-large seats.
+[^19]: [Historical Council Electoral Reform Proposals — Legislative Yuan Bill Database](https://www.ly.gov.tw/) — After the 2008 legislative reform, legislators repeatedly proposed council system reform bills, none passed second reading.
 
-[^23]: [SNTV vs. Single-Member District Democratic Quality Debate — Shen Yu-chung electoral systems papers](https://www.airitilibrary.com/) — Overview of academic discussions on candidate behavior, party integration, and median voter effects.
+[^20]: [Small Party Seat Records in Local Councils — Central Election Commission](https://www.cec.gov.tw/) — Taiwan Statebuilding Party, New Power Party, Green Party, Social Democratic Party historical county/city council election statistics.
 
-[^24]: [New Taipei City Councilor Election Indigenous Seats — New Taipei City Election Commission](https://www.ntpcec.gov.tw/) — 1 plainland indigenous seat, 1 mountain indigenous seat.
+[^21]: [New Power Party Historical Legislative Seats — Central Election Commission](https://www.cec.gov.tw/) — 2016: 5 seats, 2020: 3 seats, 2024: 0 seats.
 
-[^25]: [Pingtung County Councilor Election Indigenous Seats — Pingtung County Election Commission](https://www.ptcec.gov.tw/) — 2 plainland indigenous seats, 4 mountain indigenous seats (Wutai, Majia, Taiwu, Laiyi, Chunri, Shizi, and Mudan mountain indigenous townships).
+[^22]: [Taiwan People's Party Historical Legislative Seats — Central Election Commission](https://www.cec.gov.tw/) — 2020: 5 party-list seats, 2024: 0 district seats, 8 party-list seats.
 
-[^26]: [Civil Servants Election and Recall Act — Laws & Regulations Database of the Republic of China](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Article 67 stipulates that where councilor seats to be filled number four or more, women elected shall not be fewer than one-fourth.
+[^23]: [SNTV vs Single-Member District Democratic Quality Debate — Shen You-zhong Electoral Systems Paper](https://www.airitilibrary.com/) — Academic survey of candidate behavior, party integration, and median voter effects.
 
-[^27]: [History of Female Councilor Ratios in Taiwan — Awakening Foundation](https://www.awakening.org.tw/) — Statistics on the actual impact of women's reserved-seat provisions on gender ratios since the 1990s.
+[^24]: [New Taipei City Council Indigenous Seats — New Taipei City Election Commission](https://www.ntpcec.gov.tw/) — 1 Plains Indigenous seat, 1 Mountain Indigenous seat.
 
-[^28]: [Japanese House of Representatives Electoral Reform — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — Political background of the 1994 switch from SNTV to the "single-member district proportional representation parallel system."
+[^25]: [Pingtung County Council Indigenous Seats — Pingtung County Election Commission](https://www.ptcec.gov.tw/) — 2 Plains Indigenous seats, 4 Mountain Indigenous seats (seven mountain townships: Wutai, Majia, Taiwu, Laiyi, Chunri, Shizi, Mudan).
 
-[^29]: [South Korean National Assembly Electoral System — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — 253 single-member district seats, 47 proportional representation at-large seats.
+[^26]: [Public Officials Election and Recall Act — National Laws Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Article 67 stipulates that for councils with 4 or more seats, women's guaranteed seats shall not be less than one-quarter.
 
-[^30]: [Parallel System vs. MMP System Comparison — Shen Yu-chung electoral systems papers](https://www.airitilibrary.com/) — The "parallel system vs. MMP" debate during the 2005 constitutional amendment process and the final choice.
+[^27]: [History of Taiwan Female Councilor Proportions — Awakening Foundation](https://www.awakening.org.tw/) — Statistics on the actual impact of women's guaranteed seat provisions on gender ratios since the 1990s.
 
-[^31]: [Historical Councilor Women's Reserved Seat Statistics — CEC](https://www.cec.gov.tw/) — Records of seats in county and city councilor elections where the reservation clause displaced originally elected male winners.
+[^28]: [Japanese House of Representatives Electoral Reform — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — Political background of the 1994 shift from SNTV to 'parallel voting (single-member districts + proportional representation)'.
+
+[^29]: [South Korean National Assembly Electoral System — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — 253 single-member district seats, 47 party-list proportional representation seats.
+
+[^30]: [Parallel vs Mixed-Member Proportional Comparison — Shen You-zhong Electoral Systems Paper](https://www.airitilibrary.com/) — Debate and final choice between 'parallel voting vs mixed-member proportional' during the 2005 constitutional amendment process.
+
+[^31]: [Historical Statistics on Reserved Seats for Women Councilors — Central Election Commission](https://www.cec.gov.tw/) — Records of seats in nationwide county and city councilor elections where male candidates were displaced by the guaranteed-seat provision.

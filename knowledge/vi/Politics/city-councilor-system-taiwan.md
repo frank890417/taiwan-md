@@ -1,15 +1,15 @@
 ---
-title: 'Hệ thống Hội viên: Tại sao khác với Đại biểu Quốc hội, SNTV tồn tại trong chính trị địa phương 30 năm'
-description: 'Năm 2008, Đại biểu Quốc hội chuyển sang Hệ thống Một khu vực Hai phiếu, nhưng cùng năm đó, bầu cử Hội đồng thành phố vẫn sử dụng hệ thống SNTV từ những năm 1980 — cùng một quốc gia, cùng một nhóm cử tri, cùng một lá phiếu bầu nhưng hai bộ quy tắc trò chơi hoàn toàn khác nhau. Đây không phải lỗi kỹ thuật, mà là kết quả của cải cách chế độ dự định dừng giữa chừng. Phía sau là các lực lượng địa phương, lợi ích của hai đảng lớn với cấu trúc SNTV, chi phí cải cách liên quan cao, khó đạt được sự đồng thuận đa đảng — cũng là sự bất hoàn chỉ được đánh giá thấp nhất trên con đường dân chủ hóa sâu sắc của Đài Loan. Một bài viết phân tích hai hệ thống hoạt động như thế nào, tại sao một bên thay đổi và bên kia không thay đổi, nó có ý nghĩa gì đối với các đảng nhỏ và tính đa dạng trong đại diện — một bản đồ chế độ.'
+title: 'Hệ thống nghị sĩ: Tại sao khác với lập pháp ủy viên, SNTV tồn tại trong chính trị địa phương 30 năm'
+description: 'Năm 2008, lập pháp ủy viên chuyển sang chế độ một circonscription hai phiếu, nhưng cuộc bầu cử nghị sĩ huyện/thành phố cùng năm vẫn áp dụng chế độ SNTV cũ từ thập niên 1980 — cùng một quốc gia, cùng một nhóm cử tri, các vị trí khác nhau trên cùng một phiếu bầu, lại áp dụng hai bộ quy tắc chơi hoàn toàn khác nhau. Điều này không phải là lỗi, mà là việc chưa hoàn thành lớn nhất trong lịch sử cải cách chế độ bầu cử của Đài Loan, phía sau gắn liền với phe phái địa phương, lợi ích đảng phái, chi phí đi kèm. Một bài phân tích hai chế độ hoạt động như thế nào, tại sao một bên cải cách một bên không, và bản đồ chế độ về ý nghĩa đối với đảng nhỏ và đại diện đa nguyên.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Hội viên',
-    'Hệ thống bầu cử',
+    'Nghị sĩ',
+    'Chế độ bầu cử',
     'SNTV',
-    'Hệ thống Một khu vực Hai phiếu',
-    'Đại biểu Quốc hội',
+    'Chế độ một circonscription hai phiếu',
+    'Lập pháp ủy viên',
     'Bầu cử 2026',
   ]
 subcategory: '選舉制度'
@@ -19,249 +19,257 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8e742da3ed42fe59'
-sourceBodyHash: 'sha256:443bc2c93c1de17f'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '709d2dc03'
+sourceContentHash: 'sha256:4b665d6e2920264b'
+sourceBodyHash: 'sha256:41e02e02e0fbd229'
+translatedAt: '2026-10-23T01:19:18.472706+00:00'
 ---
 
-# Hệ thống Hội viên: Tại sao khác với Đại biểu Quốc hội, SNTV tồn tại trong chính trị địa phương 30 năm
+# Hệ thống nghị sĩ: Tại sao khác với Ủy viên Lập pháp, SNTV tồn tại trong chính trị địa phương 30 năm
 
-> **Tóm tắt 30 giây:** Ngày 12 tháng 1 năm 2008, Cuộc bầu cử Đại biểu Quốc hội lần thứ bảy của Đài Loan lần đầu tiên sử dụng "Hệ thống Một khu vực Hai phiếu" — một phiếu bầu cho người, một phiếu bầu cho đảng, ghế Đại biểu Quốc hội giảm từ 225 xuống 113, cách thức bầu cử được viết lại hoàn toàn. Cùng năm, trước tháng 12, Cuộc bầu cử Hội viên lần thứ 16 của các thành phố và tỉnh vẫn tiếp tục sử dụng "Hệ thống Bầu cử từng cử tri tại Khu vực đa số không chuyển nhượng được" (SNTV) — do từ những năm 1980 — một khu vực chọn từ năm đến mười ghế, cử tri chỉ có thể khoanh một người, phiếu dư thừa không thể chuyển nhượng cho những ứng cử viên cùng đảng. Cùng một năm, cùng một nhóm cử tri, hai chức vụ trên cùng một lá phiếu bầu, chạy theo hai bộ quy tắc trò chơi hoàn toàn khác nhau. Đây không phải lỗi kỹ thuật, mà là kết quả của việc cải cách chế độ dự định dừng lại ở giữa chừng. Phía sau là các lực lượng địa phương và sự ràng buộc của hai đảng lớn đối với cấu trúc SNTV, chi phí cao của cải cách bổ trợ, khó khăn trong việc đạt được sự đồng thuận đa đảng — cũng là sự bất hoàn chỉ được đánh giá thấp nhất trên con đường dân chủ hóa sâu sắc của Đài Loan trong 30 năm.
+> **Tóm tắt 30 giây:** Ngày 12 tháng 1 năm 2008, bầu cử Ủy viên Lập pháp khóa thứ 7 của Đài Loan lần đầu áp dụng "chế độ đơn nhất khu vực bầu cử hai phiếu" — một phiếu bầu người, một phiếu bầu đảng, số ghế Ủy viên Lập pháp giảm từ 225 xuống 113, phương thức bầu cử được viết lại hoàn toàn. Bầu cử Nghị sĩ huyện/thành phố khóa thứ 16 vào tháng 12 cùng năm, vẫn tiếp tục áp dụng "chế độ đa số khu vực bầu cử đơn ký không chuyển nhượng" (SNTV) kế thừa từ những năm 1980 — một khu vực bầu cử ra 5 đến 10 ghế, cử tri chỉ được khoanh một người, phiếu dư không thể chuyển nhượng cho đồng đảng. Cùng một năm, cùng một nhóm cử tri, cùng một bản công báo bầu cử ghi hai chức danh, lại chạy theo hai bộ quy tắc hoàn toàn khác biệt. Đây không phải lỗi kỹ thuật, mà là kết quả của cải cách thể chế cố ý dừng lại giữa chừng. Phía sau là sự gắn bó của phe phái địa phương và hai đảng lớn với cấu trúc SNTV, chi phí cao của các cải cách đi kèm, sự khó khăn trong đạt được đồng thuận liên đảng — cũng là việc chưa hoàn thành bị đánh giá thấp nhất trên con đường làm sâu sắc dân chủ 30 năm của Đài Loan.
 
 ---
 
-## Cùng một năm, hai hệ thống khác nhau
+## Cùng một năm, hai chế độ
 
-Ngày 12 tháng 1 năm 2008, kết quả bầu cử Đại biểu Quốc hội lần thứ bảy được công bố. Đây là lần đầu tiên trong lịch sử bầu cử Đại biểu Quốc hội của Đài Loan sử dụng "Hệ thống Một khu vực Hai phiếu" — toàn quốc được chia thành 73 khu vực chọn, mỗi khu chỉ chọn 1 người; ngoài ra còn có 34 ghế không phân biệt được phân bổ theo phiếu bầu đảng; 6 ghế Đại biểu Quốc hội nguyên sinh được chia thành 3 ghế cho nguyên sinh đất bằng và 3 ghế cho nguyên sinh miền núi[^1]. Số ghế Đại biểu Quốc hội giảm từ 225 ghế của nhiệm kỳ trước xuống 113 ghế, thường được gọi là "Giảm nửa Đại biểu Quốc hội"[^2].
+Ngày 12 tháng 1 năm 2008, cuộc bầu cử Ủy viên Lập pháp屆 thứ 7 khai phiếu. Đây là lần đầu tiên trong lịch sử bầu cử Ủy viên Lập pháp Đài Loan áp dụng "chế độ đơn nhất khu vực bầu cử hai phiếu" — toàn quốc được chia thành 73 khu vực bầu cử, mỗi khu chỉ chọn 1 người; thêm 34 ghế không phân khu do phiếu đảng phân bổ; 6 ghế Ủy viên Lập pháp nguyên dân chia bằng nhau 3 ghế cho nguyên dân bình nguyên và 3 ghế cho nguyên dân núi[^1]. Số ghế Ủy viên Lập pháp từ届 trước 225 ghế cắt giảm xuống 113 ghế, thường gọi là "giảm một nửa số ghế Ủy viên Lập pháp"[^2].
 
-Cùng năm, ngày 13 tháng 12, ngoại trừ Vân Lâm và Chiayi, các thành phố và tỉnh khác tổ chức cuộc bầu cử Hội viên thành phố và tỉnh (Vân Lâm và Chiayi đã trì hoãn thời gian bầu cử vì cuộc bầu cử bổ sung năm 2005)[^3]. Cùng nhóm cử tri nhận được lá phiếu Hội viên, vẫn sử dụng cùng một bộ từ cuộc bầu cử hội đồng địa phương những năm 1980 — một khu vực chọn từ năm đến mười ghế, cử tri chỉ có thể khoanh một người, tất cả các ứng cử viên bất kể đảng phái sẽ được sắp xếp theo số phiếu bầu từ cao xuống thấp, những người đứng đầu được bầu[^4].
+Cùng năm đó, ngày 13 tháng 12, các tỉnh thành trừ Vân Lâm, Gia Nghĩa tổ chức bầu cử Nghị sĩ Hội đồng tỉnh/thành (Vân Gia vì năm 2005 bầu bổ sung lệch thời trình)[^3]. Cùng một nhóm cử tri cầm phiếu bầu Nghị sĩ, vẫn áp dụng bộ quy tắc từ thập niên 1980 cho bầu cử Hội đồng địa phương — một khu vực bầu cử chọn năm đến mười ghế, cử tri chỉ được tích một người, tất cả ứng cử viên không phân đảng phái xếp theo số phiếu cao thấp, những người đứng đầu trúng cử[^4].
 
-Hai chức vụ, cùng một năm, cùng một nhóm cử tri. Đại biểu Quốc hội là "Hệ thống Một khu vực Hai phiếu" (Hỗn hợp-Thành viên Đa số, MMM), Hội viên là "Hệ thống Bầu cử từng cử tri tại Khu vực đa số không chuyển nhượng được" (Bầu cử từng cử tri không chuyển nhượng, SNTV). Hai cụm từ này nếu đặt trong sách giáo khoa so sánh chế độ thuộc các chương khác nhau — một là chế độ hỗn hợp từng bước được các quốc gia OECD thông qua sau những năm 1990, một là chế độ cũ mà Nhật Bản sử dụng từ 1947-1994 và sau đó được giới học thuật đánh giá rộng rãi là "Khuyến khích chính trị địa phương, không thuận lợi cho sự tích hợp đảng"[^5].
+Hai chức vụ, cùng một năm, cùng một nhóm cử tri. Ủy viên Lập pháp áp dụng "chế độ đơn nhất khu vực bầu cử hai phiếu" (Mixed-Member Majoritarian, MMM), Nghị sĩ áp dụng "chế độ bỏ phiếu đơn không chuyển nhượng tại khu vực bầu cử đa số" (Single Non-Transferable Vote, SNTV). Hai thuật ngữ này trong sách so sánh thể chế thuộc các chương khác nhau — một là chế độ hỗn hợp các quốc gia OECD dần áp dụng sau thập niên 1990, một là chế độ cũ Nhật Bản dùng năm 1947-1994, sau bị học giới đánh giá chung là "khuyến khích chính trị phe phái, không lợi cho sự củng cố đảng phái"[^5].
 
-Hệ thống Đại biểu Quốc hội ở phía này đã được thay đổi. Hệ thống Hội viên ở phía đó không thay đổi.
+Phía Ủy viên Lập pháp đã cải cách. Phía Nghị sĩ thì chưa.
 
-Tình trạng bán chừng này tiếp tục cho đến năm 2026 — cách cuộc cải cách Đại biểu Quốc hội đúng 18 năm.
+Trạng thái nửa vời này duy trì đến năm 2026 — trọn 18 năm sau cuộc cải cách Ủy viên Lập pháp.
+
+---
 
 ## SNTV hoạt động như thế nào
 
-Tên đầy đủ của SNTV là "Single Non-Transferable Vote" (Bầu cử từng cử tri không chuyển nhượng được), được dịch thành tiếng Việt là "Hệ thống Bầu cử từng cử tri tại Khu vực đa số không chuyển nhượng được" — hãy xem ba từ khóa được tách rời:
+SNTV có tên đầy đủ là 「Single Non-Transferable Vote」, tiếng Trung dịch thành 「複數選區單記非讓渡投票制」— chia ba từ khóa chính ra để xem:
 
-**Khu vực đa số**: một khu vực chọn ra nhiều ghế (thường là 3 ghế trở lên). Lấy cuộc bầu cử Hội viên Đài Bắc năm 2022 làm ví dụ, toàn thành phố được chia thành 6 khu vực chọn, mỗi khu vực có số ghế từ 8 đến 12 ghế không bằng nhau, toàn thành phố có 63 ghế[^6]. Hội viên Tân Bắc có 66 ghế được chia thành 12 khu vực chọn, mỗi khu vực có từ 4 đến 8 ghế[^7].
+**Phức số chọn khu**: Một chọn khu bầu ra nhiều ghế (thường 3 ghế trở lên). Ví dụ bầu cử nghị sĩ Thành phố Đài Bắc năm 2022, cả thành phố chia 6 chọn khu, mỗi khu số ghế nên bầu từ 8 đến 12 ghế không đều, cả thành phố chung 63 ghế[^6]. Nghị sĩ Thành phố Tân Bắc 66 ghế chia 12 chọn khu, mỗi khu nên bầu 4 đến 8 ghế[^7].
 
-**Từng cử tri**: mỗi cử tri chỉ có thể khoanh một ứng cử viên trên lá phiếu. Cho dù khu vực đó chọn 5 ghế hay 12 ghế, lá phiếu trên tay bạn chỉ là "khoanh một ô".
+**Đơn ký**: Người bầu một phiếu chỉ được khoanh một ứng cử viên. Dù chọn khu đó bầu 5 ghế hay 12 ghế, phiếu bầu trên tay bạn chỉ là 「khoanh một ô」.
 
-**Không chuyển nhượng được**: số phiếu không thể được chuyển giao giữa các ứng cử viên của cùng một đảng. Nếu Đảng Quốc Dân có ba người ứng cử ở một khu vực, A nhận 30.000 phiếu, B nhận 10.000 phiếu, C nhận 5.000 phiếu — "phiếu dư thừa" của A sẽ không tự động chuyển cho B hoặc C.
+**Phi nhượng chuyển**: Số phiếu bầu không thể chuyển nhượng giữa các ứng cử viên cùng đảng. Nếu Quốc dân đảng tại một chọn khu đề bạt ba người, A được 3 vạn phiếu, B được 1 vạn phiếu, C được 5 nghìn phiếu — 「số phiếu dư thừa」 của A sẽ không tự động chuyển cho B hay C.
 
-Ba quy tắc cộng lại tạo ra một kết quả phản trực giác: **phiếu bầu càng gần "ngưỡng bầu cử" thì càng tốt, phiếu bầu quá nửa lại là lãng phí**.
+Ba quy tắc kết hợp lại tạo ra một kết quả ngược trực giác: **Số phiếu càng gần 「ngưỡng trúng cử」 càng tốt, đạt quá nửa số phiếu ngược lại thành phiếu lãng phí**.
 
-Hãy lấy một ví dụ đơn giản. Một khu vực chọn 5 ghế, tổng cộng có 120.000 phiếu hợp lệ. Ngưỡng bầu cử lý thuyết (Droop quota) khoảng 20.000 phiếu[^8]. Nếu một đảng đề cử 2 người, A nhận 50.000 phiếu, B nhận 10.000 phiếu — A được bầu với số phiếu vượt xa ngưỡng, B không vượt ngưỡng bị rơi, toàn bộ đảng chỉ được bầu 1 ghế. Nếu A và B mỗi người nhận 30.000 phiếu, cả hai đều vượt ngưỡng, cả hai đều được bầu. **Cùng 60.000 phiếu của đảng, cách phân bổ khác nhau sẽ khác nhau 1 ghế**[^8].
+Coi ví dụ đơn giản. Một chọn khu nên bầu 5 ghế, tổng phiếu hợp lệ 12 vạn phiếu. Ngưỡng trúng cử lý thuyết (hệ số Droop) khoảng 2 vạn phiếu[^8]. Nếu một đảng đề bạt 2 người, A lấy 5 vạn phiếu, B lấy 1 vạn phiếu — A trúng cử cao phiếu nhưng số phiếu xa vượt ngưỡng, B không qua ngưỡng rớt, cả đảng chỉ trúng 1 ghế. Nếu A, B mỗi người lấy 3 vạn phiếu, hai người đều qua ngưỡng, cùng trúng cử. **Cùng 6 vạn phiếu đảng, cách phân phối khác nhau chênh lệch 1 ghế**.
 
-Đây là lý do tại sao dưới chế độ SNTV, các ứng cử viên cùng đảng lại có hiện tượng "phân chia phiếu bầu" — trước bầu cử sử dụng các cách khác nhau (tháng sinh, chữ số cuối cùng của chứng minh thư nhân dân, khu vực địa lý, chữ cái hộ gia đình) để chia những người ủng hộ thành những khối có quy mô bằng nhau, tránh tập trung phiếu cho một người[^9]. Đảng Quốc Dân ở Đài Bắc thường sử dụng "phân chia phiếu bầu theo chữ số cuối cùng của chứng minh thư", Đảng Dân chủ Tiến bộ ở Tân Bắc từng sử dụng "phân chia phiếu bầu theo khu vực địa lý", Đảng Nhân dân Đài Loan năm 2022 cũng đã thử áp dụng lời kêu gọi phân chia phiếu bầu[^10].
+Đó chính là lý do trong chế độ SNTV, các ứng cử viên cùng đảng xuất hiện hiện tượng 「phân phối phiếu」 — trước bầu cử dùng các cách (tháng sinh, số cuối CMND, phân khu địa lý, chữ cái hộ gia đình) cắt người ủng hộ thành các khối lượng bằng nhau, tránh nguồn phiếu nghiêng về một người[^9]. Quốc dân đảng tại bầu cử nghị sĩ Thành phố Đài Bắc thường dùng 「phân phối phiếu theo số cuối CMND」, Đảng Dân tiến tại bầu cử nghị sĩ Thành phố Tân Bắc từng dùng 「phân phối phiếu theo phân khu địa lý」, Đảng Dân chúng năm 2022 lần đầu tranh cử cũng thử kêu gọi phân phối phiếu[^10].
 
-Phân chia phiếu bầu thành công, số ghế toàn đảng được tối đa hóa. Phân chia phiếu bầu thất bại, có thể đảng có tổng số phiếu xếp hạng nhất lại có ít ghế hơn đối thủ. Đây là chiến thuật cốt lõi của chế độ SNTV — không phải "tối đa hóa tổng số phiếu toàn đảng", mà là "chính xác hit ngưỡng ghế".
+Phân phối phiếu thành công, số ghế cả đảng tối đa hóa. Phân phối phiếu thất bại, có thể đảng tổng phiếu số một ngược lại trúng cử ít ghế hơn đối thủ. Đây là chiến thuật cốt lõi của chế độ SNTV — không phải 「tối đa hóa tổng phiếu đảng」, mà là 「chính xác trúng ngưỡng ghế」.
 
-## Tại sao sử dụng SNTV vào những năm 1980
+---
 
-Gốc rễ của chế độ SNTV ở Đài Loan sâu hơn những gì mọi người tưởng tượng. Trong giai đoạn thời kỳ Nhật trị năm 1935, cuộc bầu cử hội đồng thành phố đầu tiên sử dụng phương thức bầu cử bị hạn chế (số phiếu khoanh được ít hơn số ghế cần chọn), sau chiến tranh, chính phủ Trung Hoa Dân Quốc mang theo Luật Tự trị địa phương Trung Hoa Dân Quốc thay đổi phương thức bầu cử thành SNTV — mỗi phiếu chỉ có thể bầu một người[^11]. Những năm 1950, cuộc bầu cử Hội đồng Tỉnh Đài Loan, Hội đồng Thành phố và Tỉnh, và Đại biểu Dân cư Xã/Thị trấn đều áp dụng SNTV, cấu trúc này được tiếp tục sử dụng hơn 70 năm.
+## Tại sao những năm 1980 dùng SNTV
 
-Vào những năm 1980, xã hội Đài Loan vẫn còn trong giai đoạn cuối cùng của chế độ độc tài, cuộc bầu cử hội đồng địa phương mặc dù là "thực tập dân chủ có hạn", nhưng SNTV đối với sự vận hành của các lực lượng địa phương Đảng Quốc Dân là rất thân thiện — những ứng cử viên từ các lực lượng địa phương không cần để có được "hơn nửa ý kiến nhân dân", chỉ cần giữ vững một phần cơ sở cuộc tuyên truyền riêng của họ trong xã/thị trấn, ngành công nghiệp, mạng lưới tôn giáo và họng hàng, họ có thể chống chỏi đến ngưỡng bầu cử. Cấu trúc này làm cho các lực lượng địa phương trở thành nút trung tâm của sự vận động bầu cử của Đảng Quốc Dân, và cũng làm cho văn hóa bầu cử của "chính trị cơ sở" và "quản lý mối quan hệ" sâu sắc hơn[^12].
+SNTV tại Đài Loan có rễ sâu trong thể chế hơn những gì người ta thường tưởng tượng. Thời kỳ Nhật trị, bầu cử hội đồng tỉnh/thành đầu tiên năm 1935 dùng chế độ bỏ phiếu giới hạn danh sách (mỗi phiếu bầu chọn số người ít hơn số ghế nên bầu), sau chiến tranh Chính phủ Quốc dân mang theo Luật Tự trị Địa phương Trung Hoa Dân Quốc chuyển thể chế bầu cử thành SNTV — một phiếu chỉ bỏ cho một người[^11]. Những năm 1950, bầu cử nghị sĩ tỉnh Đài Loan, nghị sĩ huyện/thành, đại biểu dân cư xã/trấn/thị đều áp dụng SNTV, khung thể chế này đã được duy trì hơn bảy mươi năm.
 
-Năm 1992, cuộc bầu cử Đại biểu Quốc hội lần đầu tiên tất cả được thay thế, những người thiết kế chế độ phải đối mặt với lựa chọn: nên thay đổi bầu cử Đại biểu Quốc hội sang chế độ mới không? Bầu không khí chính trị vào thời điểm đó là "trước tiên hãy để Quốc hội quay lại tay nhân dân", cuộc tranh luận về thay đổi chế độ lớn được để lại. Bầu cử Đại biểu Quốc hội tiếp tục sử dụng SNTV — sử dụng cùng một bộ quy tắc như bầu cử Hội viên, chỉ là khu vực bầu cử lớn hơn, số ghế cần chọn nhiều hơn.
+Những năm 1980 xã hội Đài Loan vẫn đang ở cuối kỳ thể chế độc tài, bầu cử hội đồng địa phương dù là "sân tập" cho "dân chủ có hạn độ", nhưng SNTV đối với vận hành phái hệ địa phương của Quốc dân đảng rất thuận lợi — ứng cử viên phái hệ không cần tranh取 "dư luận quá bán", chỉ cần giữ vững một khối cử tri cơ bản trong mạng lưới xã/trấn, ngành nghề, tông tộc mà mình đã kinh doanh, là đủ để vượt qua ngưỡng trúng cử. Cấu trúc này khiến phái hệ địa phương trở thành nút then chốt trong vận động bầu cử của Quốc dân đảng, cũng làm cho văn hóa bầu cử "chính trị cọc cắm" và "kinh doanh tình cảm" đâm rễ sâu đậm[^12].
 
-Giai đoạn "Đại biểu Quốc hội sử dụng SNTV" này kéo dài 16 năm (1992-2008, tổng cộng năm nhiệm kỳ Đại biểu Quốc hội). Mỗi nhiệm kỳ đều có những chỉ trích về SNTV: những ứng cử viên giữa "so sánh cơ sở, không so sánh chính sách"; những xu hướng cực đoan dễ được bầu (chỉ cần duy trì 5-10% người ủng hộ chung thủy là đủ vượt ngưỡng); cuộc chiến nội bộ cùng đảng thậm tê hơn cạnh tranh với đối thủ; chính trị tiền tệ và sự vận động của lực lượng địa phương chiếm ưu thế. Giới học thuật gọi bộ qua trình này là "Bệnh lý học SNTV"[^13].
+Năm 1992, Ủy viên Lập pháp lần đầu tiên tiến hành cải chọn toàn diện, người thiết kế thể chế đối mặt với lựa chọn: có hay không cùng chuyển thể chế bầu cử Ủy viên Lập pháp sang thể chế mới? Khí hậu chính trị lúc bấy giờ ưu tiên "trước hết để Quốc hội trở về tay nhân dân", cuộc tranh luận cải cách thể chế lớn bị hoãn lại. Bầu cử trực tiếp Ủy viên Lập pháp tiếp tục duy trì SNTV — dùng cùng một bộ quy tắc với bầu cử nghị sĩ, chỉ khác là khu vực bầu cử lớn hơn, số ghế nên bầu nhiều hơn.
 
-## 2005 Sửa đổi Hiến pháp: Đại biểu Quốc hội thay đổi
+Giai đoạn "Ủy viên Lập pháp dùng SNTV" này duy trì 16 năm (1992-2008, tổng cộng năm khóa Ủy viên Lập pháp). Mỗi khóa đều có chỉ trích đối với SNTV: ứng cử viên giữa nhau "so sánh khối cử tri cơ bản, không so sánh chính kiến"; lập trường cực đoan dễ trúng cử (chỉ cần củng cố 5-10% cử tri trung thành là đủ vượt ngưỡng); nội đấu trong cùng đảng gay gắt hơn cạnh tranh với đối thủ; chính trị tiền bạc và vận động phái hệ chiếm ưu thế. Học thuật giới gọi thể chế này là "SNTV bệnh lý học"[^13].
 
-Điểm chuyển tiếp của sửa đổi Đại biểu Quốc hội là Sửa đổi Hiến pháp lần thứ bảy năm 2005.
+## 2005 Sửa đổi Hiến pháp: Quốc hội được cải tổ
 
-Vào khoảng trước và sau khi Trần Thủy Biển nhậm chức Tổng thống nhiệm kỳ thứ hai năm 2004, những chỉ trích về "có quá nhiều Đại biểu Quốc hội", "chất lượng lập pháp của Đại biểu Quốc hội thấp", "tỷ lệ đại diện không đủ" đã tích lũy đến điểm tới hạn. Các yêu cầu cải cách chính ở thời điểm đó có ba điều khoản: Giảm nửa Đại biểu Quốc hội, Một khu vực, Hai phiếu. Tháng 8 năm 2004, Viện Lập pháp thông qua đề án sửa đổi Hiến pháp, gộp ba điều khoản này gửi tới Đại hội Đại biểu Quốc dân nhiệm vụ[^14].
+Điểm ngoặt của việc cải tổ Quốc hội là lần sửa đổi Hiến pháp thứ bảy năm 2005.
 
-Tháng 5 năm 2005, toàn đất nước bầu 300 Đại biểu Quốc dân nhiệm vụ, chịu trách nhiệm xem xét đề án sửa đổi Hiến pháp này. Cùng năm, ngày 7 tháng 6, các Đại biểu Quốc dân phê chuẩn, thông qua Bổ sung sửa đổi Điều 4 của Hiến pháp — số ghế Đại biểu Quốc hội giảm từ 225 xuống 113, thay đổi thành Hệ thống Một khu vực Hai phiếu, nhiệm kỳ từ 3 năm thay đổi thành 4 năm, bãi bỏ Quốc dân Đại hội[^15].
+Trước và sau khi Trần Thủy Biên nhậm chức tổng thống nhiệm kỳ thứ hai năm 2004, sự phê phán từ cả hai phe đối với "quá nhiều ghế Quốc hội", "chất lượng chất vấn của Quốc hội thấp" và "thiếu chế độ đại diện theo tỷ lệ" đã tích tụ đến ngưỡng bùng nổ. Lúc bấy giờ có ba yêu cầu cải cách chính: giảm một nửa số ghế Quốc hội, khu vực bầu cử đơn nhất, phiếu đảng (chế độ hai phiếu). Tháng 8 năm 2004, Viện Lập pháp thông qua án sửa đổi Hiến pháp, gộp ba yêu cầu này gửi đến Quốc dân Đại hội nhiệm vụ[^14].
 
-Chi tiết của chế độ mới:
+Tháng 5 năm 2005, cả Đài Loan bầu ra 300 đại biểu Quốc dân Đại hội nhiệm vụ, chuyên chịu trách nhiệm thẩm định án sửa đổi Hiến pháp này. Ngày 7 tháng 6 năm đó, các đại biểu Quốc dân Đại hội biểu quyết lại và thông qua án sửa đổi Điều 4 Điều khoản tăng bổ Hiến pháp — số ghế Quốc hội giảm từ 225 xuống 113, chuyển sang chế độ khu vực bầu cử đơn nhất hai phiếu, nhiệm kỳ từ 3 năm đổi thành 4 năm, bãi bỏ Quốc dân Đại hội[^15].
 
-- **Đại biểu Quốc hội khu vực 73 ghế**: toàn quốc chia thành 73 khu vực chọn đơn lẻ theo dân số, mỗi khu vực chọn một người (sử dụng "người dẫn đầu được bầu", đa số tương đối)
-- **Đại biểu Quốc hội không phân biệt 34 ghế**: được phân bổ theo tỷ lệ phiếu bầu của đảng, ngưỡng 5%
-- **Đại biểu Quốc hội nguyên sinh 6 ghế**: nguyên sinh đất bằng, nguyên sinh miền núi mỗi bộ 3 ghế (vẫn duy trì chế độ SNTV khu vực đa số — sửa đổi Hiến pháp không động chạm tới phần này)
+Chi tiết chế độ mới:
+
+- **Quốc hội khu vực 73 ghế**: Toàn quốc chia theo dân số thành 73 khu vực bầu cử đơn nhất, mỗi khu chọn một người (áp dụng chế độ người dẫn đầu trúng cử, đa số tương đối)
+- **Quốc hội không phân khu 34 ghế**: Phân bổ theo tỷ lệ phiếu đảng, ngưỡng 5%
+- **Quốc hội nguyên dân 6 ghế**: Nguyên dân bằng đất, nguyên dân núi mỗi bên 3 ghế (vẫn duy trì chế độ SNTV đa議席 — sửa đổi Hiến pháp không động đến phần này)
 - **Tổng cộng 113 ghế, nhiệm kỳ 4 năm**
 
-Ngày 12 tháng 1 năm 2008 cuộc bầu cử lần đầu tiên sử dụng chế độ mới. Đảng Quốc Dân chiếm 81 ghế (khu vực 61 + không phân biệt 20), Đảng Dân chủ Tiến bộ 27 ghế (khu vực 13 + không phân biệt 14), tỷ lệ ghế 3:1[^16]. Cuộc tranh đấu đầu tiên của chế độ mới, kết quả là sự độc quyền của hai đảng lớn tăng lên — ngưỡng 5% của phiếu bầu đảng hình thành một bức tường cao đối với các đảng nhỏ. Nhưng hướng của cải cách chế độ, ít nhất đã chuyển từ "SNTV khuyến khích cuộc chiến nội bộ" sang "Hệ thống Một khu vực + Tỷ lệ đại diện gần hơn với ý kiến đa số".
+Ngày 12 tháng 1 năm 2008 tổ chức bầu cử đầu tiên theo chế độ mới. Quốc dân Đảng giành 81 ghế (khu vực 57 + nguyên dân 4 + không phân khu 20), Đảng Dân tiến 27 ghế (khu vực 13 + không phân khu 14), tỷ lệ ghế 3:1[^16]. Cuộc bầu cử đầu tiên dưới chế độ mới cho thấy hai đảng lớn càng nắm quyền độc quyền hơn — ngưỡng 5% phiếu đảng tạo thành rào cản cao đối với các đảng nhỏ. Nhưng hướng cải cách thể chế, ít nhất đã chuyển từ "SNTV khuyến khích nội đấu" sang "khu vực bầu cử đơn nhất + đại diện theo tỷ lệ gần với đa số dân ý hơn".
 
-Hệ thống Đại biểu Quốc hội thay đổi.
+Quốc hội đã được cải tổ.
 
-Hệ thống Hội viên không thay đổi.
+Nghị sĩ thì chưa.
 
-## Tại sao Hội viên không thay đổi cùng nhau
+## Tại sao nghị sĩ không cùng cải cách
 
-Phạm vi của đề án sửa đổi Hiến pháp chỉ giới hạn "lớp trung ương" — Viện Lập pháp, Tổng thống, Quốc dân Đại hội. Bầu cử Hội viên địa phương được quy định bởi Luật Chế độ địa phương và Luật Bầu cử và Thu hồi công chức, không cần sửa đổi Hiến pháp, chỉ cần Viện Lập pháp sửa đổi pháp luật là được. Nhưng con đường này trong 18 năm vẫn chưa hoàn thành.
+Phạm vi án sửa đổi Hiến pháp chỉ giới hạn ở «cấp trung ương» — Viện Lập pháp, Tổng thống, Quốc dân đại hội. Chế độ bầu cử nghị sĩ địa phương do Luật chế độ địa phương và Luật bầu cử và bãi nhiệm công chức quy định, không cần sửa đổi Hiến pháp, chỉ cần Viện Lập pháp sửa luật là đủ. Nhưng con đường này 18 năm chưa đi xong.
 
-Một vài lý do cấu trúc:
+Một vài nguyên nhân cấu trúc:
 
-**Các lực lượng địa phương phản đối**. SNTV rất có lợi cho những ứng cử viên của các lực lượng địa phương sâu hơn — không cần phải đạt được ý kiến nhân dân rộng rãi, chỉ cần chăm sóc tốt cơ sở xã/thị trấn và ngành công nghiệp của riêng bạn. Sau khi thay đổi thành khu vực chọn đơn lẻ, khu vực chọn sẽ mở rộng, những ứng cử viên phải đối mặt với đa số cử tri rộng hơn, cấu trúc lực lượng địa phương sẽ bị pha loãng. Từ quan điểm của cấu trúc chính trị địa phương Đảng Quốc Dân và Đảng Dân chủ Tiến bộ, cải cách này sẽ tổn hại đến những người của chính họ[^17].
+**Phe phái địa phương phản đối**. SNTV cực kỳ có lợi cho ứng cử viên phe phái sâu rễ tại địa phương — không cần tranh取 dân ý rộng lớn, chỉ cần lo cơ bản ở xã/trấn/ngành nghề của mình. Nếu chuyển sang khu vực bầu cử đơn nhất, khu vực sẽ mở rộng, ứng cử viên phải đối mặt với cử tri rộng hơn, cấu trúc phe phái sẽ bị pha loãng. Từ cấu trúc chính trị địa phương của hai đảng Lam - Lục, cải cách này sẽ làm tổn thương «người nhà»[^17].
 
-**Sự đồng thuận đa đảng khó khăn**. Khi cải cách Đại biểu Quốc hội, Đảng Quốc Dân và Đảng Dân chủ Tiến bộ đã đạt được sự đồng thuận về "Giảm nửa Đại biểu Quốc hội" (cả hai đảng đều cho rằng quá nhiều Đại biểu Quốc hội), và cũng có thể gắp gượng đồng ý với "Một khu vực" (cả hai đảng lớn đều có khả năng cạnh tranh ở khu vực chọn đơn lẻ). Nhưng mức độ Hội viên khác nhau — SNTV đối với bản đồ địa phương của cả hai đảng lớn là một sự cân bằng tương đối ổn định. Sau khi thay đổi, ai được lợi ích, ai bị tổn hại, cả hai bên tính toán không rõ ràng. Không ai có động lực để bắt đầu trước.
+**Thống nhất liên đảng khó khăn**. Khi cải cách nghị sĩ lập pháp, Quốc dân đảng và Đảng Dân tiến có thống nhất về «giảm một nửa nghị sĩ» (hai đảng đều cho là nghị sĩ quá nhiều), đối với «khu vực bầu cử đơn nhất» cũng có thể đồng ý miễn cưỡng (hai đảng lớn trong khu vực đơn đều có khả năng cạnh tranh). Nhưng cấp nghị sĩ khác biệt — SNTV tạo ra cân bằng tương đối ổn định cho bản đồ địa phương của hai đảng lớn. Cải cách xong ai được lợi, ai thiệt thòi, hai bên tính toán không rõ. Không ai có động lực chủ động xuất thủ.
 
-**Chi phí cải cách bổ trợ cao**. Cải cách Hội viên liên quan đến các bổ trợ phức tạp hơn cải cách Đại biểu Quốc hội — liệu số Hội viên có nên giảm nửa không? Liệu khu vực chọn có nên được vẽ lại không? Làm thế nào để xử lý ghế bảo đảm nguyên sinh? Làm thế nào để xử lý ghế bảo đảm phụ nữ? Ba lớp Hội viên thành phố và tỉnh, Đại biểu Dân cư Xã/Thị trấn có nên thay đổi cùng nhau không? Chỉ với công trình vẽ lại khu vực chọn của 22 Hội đồng Thành phố/Tỉnh + 198 Hội đồng Đại biểu Dân cư Xã/Thị trấn trên toàn quốc, đã vượt quá quy mô vẽ lại 73 khu vực chọn của Đại biểu Quốc hội gấp một bậc độ lớn[^18].
+**Chi phí cải cách phối hợp cao**. Cải cách nghị sĩ kéo theo các vấn đề phối hợp phức tạp hơn cải cách nghị sĩ lập pháp — số lượng nghị sĩ có giảm một nửa không? Khu vực bầu cử có phân lại không? Ghế bảo đảm cho người bản địa sắp xếp thế nào? Ghế bảo đảm cho phụ nữ xử lý như thế nào? Nghị sĩ thành phố trực thuộc trung ương, nghị sĩ tỉnh/thành phố, đại biểu hội đồng dân cư xã/trấn/thị trấn ba cấp có cùng cải cách không? Chỉ công trình phân khu vực bầu cử lại cho 22 hội đồng tỉnh/thành phố + 198 hội đồng đại biểu dân cư xã/trấn/thị trấn toàn quốc, đã lớn hơn phân khu vực 73 khu vực bầu cử khu vực nghị sĩ lập pháp một bậc độ lớn[^18].
 
-**Động lực ý kiến nhân dân không đủ**. Cải cách Đại biểu Quộc hội có một khẩu hiệu đơn giản để vận động dư luận "Giảm nửa Đại biểu Quốc hội". Cải cách chế độ Hội viên không có lá cờ như vậy — cử tri phổ thông không cảm thấy sự khác biệt giữa SNTV và khu vực chọn đơn lẻ, độ nhạy cảm cao đối với chi phí cải cách chế độ. Mỗi bốn năm một lần, bầu cử Hội viên diễn ra như bình thường, không có sự kiện "hư hỏng hệ thống" nào xảy ra.
+**Động lực dân ý không đủ**. Cải cách nghị sĩ lập pháp có khẩu hiệu đơn giản «giảm một nửa nghị sĩ» có thể vận động dân ý. Cải cách chế độ nghị sĩ không có cờ hiệu như vậy — cử tri thường không cảm nhận được khác biệt giữa SNTV và khu vực đơn, lại nhạy cảm với chi phí cải cách. Mỗi bốn năm bầu cử nghị sĩ diễn ra như thường, không xuất hiện sự kiện khủng hoảng «chế độ bản thân sụp đổ».
 
-Bốn lý do chồng lên nhau, cải cách chế độ Hội viên ở lại chỗ cũ. Mỗi vài năm một lần sẽ có Đại biểu Quốc hội hoặc học giả đề xuất lại, mỗi lần đều bị hoãn trong chương trình sửa đổi pháp luật của Viện Lập pháp[^19].
-
-## Sự khác biệt cấu trúc giữa hai hệ thống
-
-Giữa Hệ thống Đại biểu Quốc hội (Một khu vực Hai phiếu) và Hệ thống Hội viên (SNTV), có một vài sự khác biệt cấu trúc rõ ràng về kết quả chạy ra.
-
-**Ảnh hưởng đối với các đảng nhỏ**:
-
-SNTV đối với các đảng nhỏ "tương đối thân thiện" — vì ngưỡng bầu cử là "ngưỡng tương đối được quyết định bởi số ghế cần chọn", không phải "đa số quá nửa". Một khu vực chọn 10 ghế, ngưỡng lý thuyết khoảng 9-10%; chọn 5 ghế ngưỡng khoảng 17-18%. Các đảng nhỏ chỉ cần trong một khu vực chọn đến khoảng 10% phiếu bầu có thể có khả năng chiếm một ghế. Đảng Quốc Gia Đài Loan, Đảng Sức mạnh Thời đại, Đảng Xanh, Đảng Dân chủ Xã hội và những đảng nhỏ khác ở mức độ Hội viên thành phố và tỉnh đều đã chiếm được ghế[^20].
-
-Nhưng Hệ thống Một khu vực Hai phiếu đối với các đảng nhỏ thì ngưỡng kép càng khắt khe — khu vực chọn đơn lẻ "người chiến thắng lấy hết" hầu như không có đảng nhỏ nào có thể chiếm được, phải dựa vào ngưỡng 5% của phiếu bầu đảng không phân biệt mới có thể vào Quốc hội. Đảng Sức mạnh Thời đại năm 2016 dựa vào không phân biệt chiếm được 5 ghế Đại biểu Quốc hội, năm 2020 chỉ còn 3 ghế, năm 2024 toàn bộ bị tiêu diệt[^21]. Đảng Nhân dân Đài Loan năm 2020 dựa vào không phân biệt chiếm được 5 ghế, năm 2024 khu vực 0 ghế không phân biệt 8 ghế[^22].
-
-Từ cấu trúc này xem, lực lượng thứ ba "ở mức độ Hội viên" lại dễ đột phá hơn "ở mức độ Đại biểu Quốc hội" — bởi vì ngưỡng thấp của SNTV. Nhưng chế độ Hội viên không có cơ chế "không phân biệt" như này, tất cả ghế Hội viên đều dựa trên đơn lẻ khu vực chọn SNTV tạo ra.
-
-**Ảnh hưởng đối với hành vi của những ứng cử viên**:
-
-SNTV khuyến khích những ứng cử viên quản lý "lực lượng địa phương" hơn "chủ đề" — vì chỉ cần duy trì cơ sở có thể vượt ngưỡng, không cần thuyết phục đa số cử tri. Chế độ khu vực đơn lẻ khuyến khích những ứng cử viên cạnh tranh để "cử tri ở giữa" — bởi vì phải có đa số tương đối trong khu vực để thắng. Ảnh hưởng của hai hệ thống khác nhau đối với chất lượng dân chủ đang được tranh luận lâu dài trong giới học thuật, ở đây không mở rộng[^23].
-
-**Ảnh hưởng đối với cuộc cạnh tranh đảng**:
-
-Dưới chế độ SNTV, cuộc cạnh tranh giữa các ứng cử viên cùng đảng có thể xuyên hơn cuộc cạnh tranh với đối thủ — bởi vì phải trước tiên tranh được đề cử của đảng, rồi sau đó mới chia phân bổ phiếu bầu. Chế độ khu vực đơn lẻ Đại biểu Quốc hội là "một khu vực một người", sau khi đặc vụ nội bộ đảng quyết định rồi thì từng khu đơn chiến với đối thủ.
-
-## Thiết kế đặc biệt của khu vực chọn Hội viên
-
-Ngoài cấu trúc SNTV chính, khu vực chọn Hội viên còn có hai thiết kế ghế bảo đảm độc đáo, cái này trong chế độ Đại biểu Quốc hội là không có (113 ghế Đại biểu Quốc hội chỉ có 6 ghế nguyên sinh, không có bảo đảm giới tính).
-
-**Ghế bảo đảm nguyên sinh**:
-
-Trong bầu cử Hội viên các thành phố và tỉnh, những thành phố và tỉnh mà dân số nguyên sinh đạt tới một ngưỡng nhất định sẽ thiết lập ghế Hội viên nguyên sinh, được chia thành "nguyên sinh đất bằng" và "nguyên sinh miền núi" hai loại, mỗi loại khu vực chọn độc lập, tính phiếu bầu độc lập. Ví dụ, trong 66 ghế Hội viên Tân Bắc, nguyên sinh đất bằng 1 ghế, nguyên sinh miền núi 1 ghế[^24]; trong 55 ghế Hội viên Tỉnh Bình Đông, nguyên sinh đất bằng 2 ghế, nguyên sinh miền núi 4 ghế (Bình Đông có bảy xã miền núi là Mù Đài, Mã Gia, Thái Vũ, Lai Nghĩa, Xuân Nhật, Sư Tử, Bồ Đơn)[^25].
-
-Thiết kế này phản ánh sự thực rằng hội đồng địa phương đối mặt trực tiếp với phân bố địa lý dân số tộc huyền hơn Viện Lập pháp — tỷ lệ tộc nguyên sinh đất bằng/miền núi khác nhau ở các thành phố và tỉnh khác nhau, cần bảo đảm ghế khu vực hoá.
-
-**Ghế bảo đảm phụ nữ**:
-
-Luật Bầu cử và Thu hồi công chức quy định rằng trong bầu cử Hội viên địa phương "những người được bầu phụ nữ không được ít hơn một phần tư, nếu số ghế cần bầu là bốn ghế hoặc hơn"[^26]. Ý nghĩa là: mỗi bốn ghế cần bầu, ít nhất 1 ghế phải dành cho phụ nữ.
-
-Cách vận hành thực tế: Sau khi kiểm phiếu, nếu số phụ nữ được bầu ở một khu vực chọn chưa đạt tới ngưỡng bảo đảm, người đàn ông được bầu có số phiếu thấp nhất sẽ bị "đẩy xuống", và người ứng cử viên phụ nữ được bầu có số phiếu cao nhất sẽ được bổ sung. Thiết kế này được tiếp tục sử dụng từ những năm 1990 cho đến nay, là chìa khóa bảo đảm chế độ để tỷ lệ phụ nữ Hội viên lâu dài duy trì ở trên 35%[^27].
-
-Sau khi thay đổi Đại biểu Quốc hội thành khu vực chọn đơn lẻ không thể sử dụng ghế bảo đảm phụ nữ (một khu vực chọn chỉ chọn một người, không thể bảo đảm 1/4 cho nữ), thay đổi sử dụng "tỷ lệ giới tính danh sách đảng không phân biệt 1/2". Hai thiết kế khác nhau này phản ánh sự khác biệt cấu trúc của hai hệ thống — SNTV bảo đảm trong khu vực chọn đa số, chế độ khu vực đơn lẻ bảo đảm trong tỷ lệ đảng.
-
-## So sánh quốc tế: Các chế độ tương tự xử lý như thế nào
-
-SNTV không phải chỉ có ở Đài Loan. Về mặt lịch sử, một vài quốc gia Đông Á từng sử dụng, bây giờ hầu hết đã được cải cách.
-
-**Viện Thượng nghị Nhật Bản**: Từ 1947-1982 toàn quốc sử dụng SNTV, năm 1982 thay đổi thành chế độ so tô danh sách chính đảng. Khu vực địa phương (đô thị / tỉnh) cho đến nay vẫn sử dụng SNTV chủ yếu (một vài khu vực chọn đơn lẻ). Hạ viện Nhật Bản 1947-1993 toàn bộ sử dụng SNTV, năm 1994 thay đổi thành "Chế độ hỗn hợp Khu vực nhỏ So tô chính đảng Tách biệt" — hướng đi gần như hoàn toàn giống với cải cách Đại biểu Quốc hội 2008 của Đài Loan[^28].
-
-**Quốc hội Hàn Quốc**: Chủ yếu sử dụng khu vực chọn đơn lẻ (253 ghế), cộng thêm 47 ghế so tô chính đảng không phân biệt. Chưa từng sử dụng SNTV[^29].
-
-**Thượng viện Liên bang Đức**: Chế độ liên lập (Hỗn hợp-Thành viên Tỷ lệ, MMP) — một phiếu bầu cho người, một phiếu bầu cho đảng, nhưng số ghế cuối cùng là dựa trên phiếu bầu đảng, người được bầu khu vực chiếm phần bổ cấp của phiếu bầu đảng. Đây là chế độ hỗn hợp được học thuật công nhân rằng là thân thiện nhất đối với các đảng nhỏ, tỷ lệ cao nhất của thiết kế. Đài Loan năm 2005 sửa đổi Hiến pháp từng cân nhắc chế độ liên lập, nhưng cuối cùng áp dụng "Chế độ tách biệt" (ghế khu vực chọn và ghế không phân biệt không ảnh hưởng lẫn nhau)[^30].
-
-**Singapore**: Sử dụng "Chế độ Khu vực Đại diện Tập hợp" (Tập hợp Đại diện Khu vực, GRC) — nhiều ghế khu vực chọn nhưng được đảng đề cử danh sách tập hợp, tất cả thắng tất cả bại. Hoàn toàn khác với SNTV.
-
-Từ so sánh quốc tế xem, **SNTV trong những năm 1990 sau đây đã là thiểu số**. Hạ viện Nhật Bản năm 1994 cải cách được xem là "Buổi biểu diễn chia tay của SNTV" một trong những lần. Chế độ Hội viên Đài Loan là một trong những quốc gia còn hoàn toàn sử dụng SNTV ở lớp chế độ dân chủ quốc gia.
-
-## Những điểm quan sát trong bầu cử Hội viên năm 2026
-
-Ngày 28 tháng 11 năm 2026 bầu cử chín hợp một, bầu cử Hội viên theo thói quen tiếp tục sử dụng SNTV. Một vài vấn đề cấu trúc đáng chú ý:
-
-**Chiến tranh phân chia phiếu bầu**: Hai đảng lớn ở những khu vực nóng (như Khu vực 6 Đài Bắc, Khu vực 3 Tân Bắc, Khu vực 6 Đài Trung) có tiếp tục lên kế hoạch phân chia phiếu bầu hay không? Năm 2022 tỷ lệ phân chia phiếu bầu không cao — Đảng Nhân dân Đài Loan ở nhiều khu vực xuất hiện tình trạng "ngoài cùng tướng quân bầu cao, ngoài cùng phó tướng bầu cử thất bại" tình trạng phiếu bầu chồng lên. Năm 2026 lực lượng thứ ba (Đảng Nhân dân Đài Loan, Đảng Quốc Gia Đài Loan, Đảng Sức mạnh Thời đại sót lại, đảng chính trị mới nổi) có thể không thành thạo hơn khi sử dụng công cụ phân chia phiếu bầu không?
-
-**Bảo đảm phụ nữ**: Năm 2026 toàn quốc 988 ghế Hội viên, dự kiến 250+ ghế được bầu thông qua điều khoản bảo đảm phụ nữ hoặc đẩy xuống người được bầu ban đầu. Ghế cuối cùng của mỗi khu vực chọn thường là ghế quyết định của điều khoản bảo đảm giới tính — quy tắc này 30 năm để viết lại hàng nghìn kết quả bầu cử[^31].
-
-**Ghế lực lượng thứ ba**: Năm 2022 bầu cử chín hợp một, Đảng Quốc Gia Đài Loan, Đảng Nhân dân Đài Loan, Đảng Sức mạnh Thời đại cộng lại toàn quốc hội đồng chiếm được 30+ ghế. Năm 2026 ghế lực lượng thứ ba có thể đột phá 50 ghế hay không, là chỉ báo để quan sát xem "lợi thế ngưỡng thấp" của chế độ SNTV đối với các đảng nhỏ có còn phát huy tác động hay không.
-
-**Không có phiếu bầu đảng**: Bầu cử Hội viên không có chế độ không phân biệt, không có phiếu bầu đảng, tất cả ghế đều đến từ SNTV khu vực chọn đơn lẻ. Điều này có ý nghĩa rằng cách sử dụng của các đảng nhỏ để chiếm ghế ở mức độ Hội viên chỉ có một cách — trong một khu vực chọn nào đó đạt tới ngưỡng bầu cử. Cấu trúc này để "màu sắc đảng" của bầu cử Hội viên có phần mơ hồ hơn bầu cử Đại biểu Quốc hội, trọng lượng của lực lượng địa phương, quản lý gia đình, sức hấp dẫn cá nhân cao hơn.
-
-**Vấn đề cải cách vẫn trên bàn**: Mỗi vài năm Đại biểu Quốc hội sẽ đề xuất "cải cách Hội viên" sửa đổi pháp luật, năm 2026 Quốc hội mới (Chính phủ đảng thiểu số Đảng Dân chủ Tiến bộ + Đảng Quốc Dân Đảng Nhân dân Đài Loan đa số) có thay đổi vấn đề này lên bàn không? Có xuất hiện "Giảm nửa Hội viên" "Hội viên khu vực đơn lẻ" "Hội viên không phân biệt" kiểu như thế không? Đây là một trong những điểm quan sát sửa đổi pháp luật chế độ địa phương sau 2026.
-
-## Ý nghĩa của cải cách bán phần
-
-Hệ thống Đại biểu Quốc hội thay đổi. Hệ thống Hội viên không thay đổi. Tình trạng bán phần này đã duy trì 18 năm.
-
-Từ góc độ thiết kế chế độ, đây không phải là một câu chuyện hoàn chỉnh — câu chuyện hoàn chỉnh phải là "sau khi cải cách thành công của Đại biểu Quốc hội thành Một khu vực Hai phiếu, Hội viên cũng theo sau thay đổi", hoặc "cải cách Đại biểu Quốc hội chứng minh rằng SNTV tốt hơn, xem xét lại chế độ khu vực đơn lẻ". Nhưng thực tế chính trị Đài Loan là cả hai con đường đều không đi — Đại biểu Quốc hội duy trì chế độ mới, Hội viên duy trì chế độ cũ, hai chế độ song song.
-
-Sự "song song chế độ" này có thể được diễn giải thành hai ý nghĩa.
-
-Một lý giải: **Tín hiệu của sự trưởng thành dân chủ**. Các lớp khác nhau sử dụng các chế độ khác nhau, lấy ưu điểm của mỗi chế độ — Đại biểu Quốc hội sử dụng Một khu vực Hai phiếu để xử lý các vấn đề toàn quốc, Hội viên sử dụng SNTV bảo đảm tính đa dạng đại diện địa phương. Lý giải này xem "không thay đổi" như "không nên thay đổi".
-
-Lý giải khác: **Kết quả của sự dừng lại cải cách**. Cải cách chế độ khởi động từ những năm 1990 hoàn thành một nửa vào năm 2008 rồi dừng lại, nửa còn lại vì chi phí chính trị quá cao, không ai muốn trả tiền, nên ở lại chỗ cũ. SNTV ở lại ở mức độ Hội viên không phải là "lựa chọn thiết kế", mà là "không ai thúc đẩy sự thay đổi". Lý giải này xem "không thay đổi" như "nên thay đổi nhưng không thay đổi".
-
-Giữa hai lý giải này, là chiến trường tác động giữa ý kiến nhân dân, sức mạnh chính trị, thảo luận học thuật, sự chú ý của phương tiện truyền thông. Taiwan.md không đứng ở phía nào — nhưng ghi lại tình trạng bán phần này, là kiến thức cơ bản của quan sát bầu cử 2026.
-
-Ngày bầu cử chín hợp một, cử tri nhận được lá phiếu bầu trên tay, Đại biểu Quốc hội không nằm trong đó (bầu cử Đại biểu Quốc hội cùng với bầu cử Tổng thống, năm 2028 mới bầu), nhưng lá phiếu bầu Hội viên chạy theo quy tắc cũ do từ những năm 1980. **Cùng một lá phiếu, hai chế độ mới cũ song song** — đây là chi tiết có ý nghĩa cấu trúc sâu sắc nhất nhưng dễ bị bỏ qua nhất trong cơ sở hạ tầng dân chủ của Đài Loan.
-
-Chi tiết thảo luận chế độ: Việc thảo luận chi tiết xem tại [Trung tâm Chính trị](/politics) · Bầu cử 2026 chín hợp một (2026 九合一選舉) · Bầu cử chín hợp một là gì (九合一選舉是什麼) · Chế độ Ủy ban Bầu cử Trung ương (中選會制度) · Chế độ Trưởng xã/Thị trấn (村里長制度) · Trưởng khu nguyên sinh thẳng thuộc thành phố (直轄市山地原住民區長) · [Dân chủ hóa](/vi/history/taiwan-democratization-history/) · [Bầu cử và chính trị đảng Đài Loan](/vi/history/taiwan-elections-and-party-politics/)
+Bốn nguyên nhân chồng chéo, cải cách chế độ nghị sĩ liền đình trệ tại chỗ. Mỗi vài năm lại có nghị sĩ hoặc học giả đề xuất lại, lần nào cũng bị suýt lại trên lịch trình sửa luật của Viện Lập pháp[^19].
 
 ---
 
-## Tài liệu mở rộng
+## Sự khác biệt về cấu trúc giữa hai chế độ
 
-- Cơ sở dữ liệu Ủy ban Bầu cử Trung ương — cấu trúc phiếu bầu bầu cử Hội viên từng lần, ghi chép phân chia phiếu bầu, thống kê ghế bảo đảm giới tính
-- Vương Nghiệp Lập《So sánh hệ thống bầu cử》— sách giáo khoa chế độ bầu cử hoàn chỉnh nhất của Đài Loan, chế độ SNTV và MMM so sánh được tham chiếu chính
-- Bộ tài liệu luận cứu chế độ bầu cử Shen Youzhong — phân tích kinh tế chính trị của quá trình sửa đổi Hiến pháp 2005 và cải cách Hệ thống Một khu vực Hai phiếu
-- Báo công khai Viện Lập pháp tháng 8 năm 2004 — ghi chép ba lần đọc đề án sửa đổi Hiến pháp, quá trình thương thảo của các đảng
-- Ghi chép cuộc họp Đại hội Quốc dân tháng 6 năm 2005 — Quyết định cuối cùng của việc Giảm nửa Đại biểu Quốc hội, cải cách Một khu vực Hai phiếu
+Chế độ Nghị sĩ Lập pháp (đơn nhất khu vực bầu cử hai phiếu) và chế độ Nghị sĩ địa phương (SNTV) tạo ra những khác biệt cấu trúc rõ rệt về kết quả.
+
+**Tác động đối với đảng nhỏ**:
+
+SNTV đối với đảng nhỏ **« tương đối thân thiện »** — vì ngưỡng trúng cử là « ngưỡng tương đối do số ghế cần bầu quyết định », chứ không phải « đa số tuyệt đối ». Một khu vực bầu cử 10 ghế, ngưỡng lý thuyết khoảng 9–10 %; 5 ghế thì ngưỡng khoảng 17–18 %. Đảng nhỏ chỉ cần đạt khoảng 10 % phiếu trong một khu vực là có thể giành một ghế. Đảng Đài Loan Cơ bản (Taiwan Statebuilding Party), Đảng Thời đại Lực lượng (New Power Party), Đảng Xanh, Đảng Xã hội Dân chủ đều từng giành ghế ở cấp nghị sĩ huyện/thành phố[^20].
+
+Nhưng chế độ đơn nhất khu vực bầu cử hai phiếu đặt ra rào cản kép gắt gao hơn đối với đảng nhỏ — khu vực bầu cử đơn nhất theo nguyên tắc « người thắng lấy hết » gần như không đảng nhỏ nào giành được, buộc phải nhờ ngưỡng 5 % phiếu đảng của danh sách không phân khu mới vào được Quốc hội. Đảng Thời đại Lực lượng năm 2016 giành 5 ghế Nghị sĩ (khu vực 3, không phân khu 2), năm 2020 chỉ còn 3 ghế, năm 2024 toàn quân thất thủ[^21]. Đảng Dân chúng năm 2020 nhờ không phân khu giành 5 ghế, năm 2024 khu vực 0 ghế, không phân khu 8 ghế[^22].
+
+Từ góc độ cấu trúc này, lực lượng thứ ba ở « cấp nghị sĩ địa phương » ngược lại dễ đột phá hơn so với « cấp Nghị sĩ Lập pháp » — nhờ ngưỡng thấp của SNTV. Tuy nhiên chế độ nghị sĩ không có cơ chế « không phân khu » làm đệm, toàn bộ ghế nghị sĩ đều sinh ra từ đơn ký không chuyển nhượng trong một khu vực duy nhất.
+
+**Tác động đối với hành vi ứng cử viên**:
+
+SNTV khuyến khích ứng cử viên kinh doanh « phe phái » nhiều hơn « vấn đề » — vì chỉ cần củng cố cổ phiếu cơ bản là vượt ngưỡng, không cần thuyết phục đa số cử tri. Chế độ đơn nhất khu vực khuyến khích ứng cử viên tranh取 « cử tri trung lập » — vì phải giành đa số tương đối trong khu vực mới thắng. Hai chế độ này tác động đến chất lượng dân chủ là đề tài tranh luận lâu năm trong giới học thuật, không mở rộng tại đây[^23].
+
+**Tác động đối với cạnh tranh đảng phái**:
+
+Dưới chế độ SNTV, cạnh tranh giữa ứng cử viên cùng đảng có thể gay gắt hơn cạnh tranh với đối thủ — vì phải tranh đề cử nội bộ trước, rồi mới phân phối phiếu bầu. Chế độ đơn nhất khu vực Nghị sĩ Lập pháp thì là « một khu vực một người », sau khi tiên chọn nội bộ xong là đơn đấu với đối thủ.
+
+## Thiết kế đặc thù của khu vực bầu cử nghị sĩ
+
+Ngoài khung SNTV chính, khu vực bầu cử nghị sĩ còn có hai thiết kế ghế bảo đảm độc đáo, điều này trong chế độ Ủy viên Lập pháp là không có (Ủy viên Lập pháp 113 ghế trong đó người bản địa bảo đảm 6 ghế; bảo đảm giới tính chỉ đặt trong danh sách đảng không phân khu, xem phần dưới).
+
+**Ghế bảo đảm người bản địa** :
+
+Trong bầu cử nghị sĩ các huyện/thành phố, những huyện/thành phố có dân số người bản địa đạt ngưỡng nhất định sẽ thiết lập ghế nghị sĩ người bản địa, chia làm hai loại «người bản địa bằng phẳng» và «người bản địa núi», mỗi loại khu vực bầu cử riêng, tính phiếu riêng. Ví dụ: Tân Bắc 66 ghế nghị sĩ, trong đó người bản địa bằng phẳng 1 ghế, người bản địa núi 1 ghế[^24]; Bính Đông 55 ghế nghị sĩ, người bản địa bằng phẳng 2 ghế, người bản địa núi 4 ghế (Bính Đông có bảy xã núi là Vụ Đài, Ma Gia, Thái Vũ, Lai Nghĩa, Xuân Nhật, Sư Tử, Mộc Đan)[^25].
+
+Thiết kế này phản ánh rằng hội đồng địa phương đối mặt trực tiếp hơn với phân bố địa lý dân số các dân tộc so với Viện Lập pháp — tỷ lệ người bản địa bằng phẳng / núi ở các huyện/thành phố khác nhau, cần ghế bảo đảm在地化 (địa phương hóa).
+
+**Ghế bảo đảm phụ nữ** :
+
+Luật bầu cử và bãi nhiệm công chức quy định, bầu cử nghị sĩ địa phương «ứng cử danh ngạch từ bốn ghế trở lên, danh ngạch trúng cử của phụ nữ không được thấp hơn một phần tư»[^26]. Nghĩa là: cứ 4 ghế ứng cử thì ít nhất 1 ghế phải dành cho phụ nữ.
+
+Cách vận hành thực tế: sau khai phiếu, nếu某選區 (khu vực bầu cử nào) số phụ nữ trúng cử chưa đạt ngưỡng bảo đảm, nam giới trúng cử 得票 thấp nhất bị «loại ra», nhường chỗ cho nữ ứng cử viên落選 (thất cử) 得票 cao nhất đệm lên. Thiết kế này từ những năm 1990 áp dụng đến nay, là bảo đảm thể chế then chốt khiến tỷ lệ nữ nghị sĩ Đài Loan lâu dài duy trì trên 35 %[^27].
+
+Ủy viên Lập pháp chuyển sang đơn nhất khu vực bầu cử thì không thể dùng ghế bảo đảm phụ nữ (một khu vực chỉ chọn một người, không thể dành 1/4 cho nữ), chuyển dùng «danh sách đảng không phân khu tỷ lệ giới tính 1/2» thay thế. Hai thiết kế phản ánh sự khác biệt cấu trúc của hai thể chế — SNTV bảo đảm trong khu vực bầu cử đa số, đơn nhất khu vực bầu cử bảo đảm trong tỷ lệ đảng.
+
+## So sánh quốc tế: Các quốc gia có chế độ tương tự xử lý như thế nào
+
+SNTV không phải là độc quyền của Đài Loan. Lịch sử một số quốc gia Đông Á từng áp dụng, hiện nay phần lớn đã cải cách.
+
+**Thượng viện Quốc hội Nhật Bản (Sangiin)**: 1947–1982 khu vực toàn quốc dùng SNTV, năm 1982 chuyển sang chế độ đại diện tỷ lệ theo danh sách đảng. Khu vực địa phương (tỉnh/đô/fu/ken) đến nay vẫn dùng SNTV làm chính (một số tiểu khu chỉ có một ghế). **Hạ viện Quốc hội Nhật Bản (Shugiin)** 1947–1993 toàn bộ dùng SNTV, năm 1994 cải tổ thành «chế độ song lập tiểu khu bầu cử và đại diện tỷ lệ» — hướng đi gần như y hệt cải cách Ủy viên Lập pháp Đài Loan năm 2008[^28].
+
+**Quốc hội Hàn Quốc**: Chủ yếu dùng tiểu khu đơn nhất (253 ghế), cộng thêm 47 ghế đại diện tỷ lệ không phân khu. Chưa từng dùng SNTV[^29].
+
+**Liên bang Nghị viện Đức (Bundestag)**: Chế độ hỗn hợp thành viên tỷ lệ (Mixed-Member Proportional, MMP) — một phiếu bầu người, một phiếu bầu đảng, nhưng tổng số ghế cuối cùng dựa trên phiếu đảng, ứng cử viên trúng cử tại tiểu khu chiếm vào định pre của đảng. Đây là thiết kế hỗn hợp được học giới công nhận thân thiện nhất với đảng nhỏ, tính tỷ lệ cao nhất. Năm 2005 Đài Loan sửa đổi Hiến pháp từng cân nhắc chế độ liên lập (MMP), nhưng cuối cùng chọn «chế độ song lập» (ghế khu vực và ghế không phân khu không ảnh hưởng lẫn nhau)[^30].
+
+**Singapore**: Dùng «chế độ khu vực đại diện nhóm» (Group Representation Constituency, GRC) — tiểu khu đa ghế nhưng đảng đề cử danh sách tập thể, thắng hết thua hết. Hoàn toàn khác với SNTV.
+
+Từ góc độ so sánh quốc tế, **sau những năm 1990 SNTV đã trở thành thiểu số**. Cải cách Hạ viện Nhật Bản năm 1994 được xem là một trong những «buổi chia tay SNTV». Hệ thống nghị sĩ Đài Loan là một trong số ít chế độ dân chủ cấp quốc gia vẫn còn áp dụng trọn vẹn SNTV.
 
 ---
 
-[^1]: [Khái quát Cuộc bầu cử Đại biểu Quốc hội lần thứ bảy — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Bầu cử ngày 12-01-2008, toàn quốc chia thành 73 khu vực chọn, không phân biệt 34 ghế, nguyên sinh 6 ghế (đất bằng và miền núi mỗi bộ 3 ghế).
+## Các điểm quan sát về bầu cử nghị sĩ năm 2026
 
-[^2]: [Thiết kế chế độ Giảm nửa Đại biểu Quốc hội — Viện Lập pháp](https://www.ly.gov.tw/) — Năm 2005 lần sửa đổi Hiến pháp thứ bảy giảm số ghế Đại biểu Quốc hội từ 225 xuống 113, nhiệm kỳ từ 3 năm thay đổi thành 4 năm.
+Ngày 28 tháng 11 năm 2026 là cuộc bầu cử "chín hợp nhất", bầu cử nghị sĩ vẫn dùng chế độ SNTV. Một vài vấn đề cấu trúc đáng quan sát:
 
-[^3]: [Dữ liệu Bầu cử Hội viên Tỉnh Vân Lâm — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Vân Lâm, Chiayi vì vụ bầu cử bổ sung Chủ tịch Hội đồng năm 2005 dẫn đến thời gian bầu cử lệch so với các tỉnh khác.
+**Chiến dịch phân phiếu**: Hai đảng lớn tại các khu vực bầu cử nóng (như khu vực bầu cử thứ 6 Thành phố Đài Bắc, khu vực bầu cử thứ 3 Thành phố Tân Bắc, khu vực bầu cử thứ 6 Thành phố Đài Trung) có tiếp tục kêu gọi phân phiếu không? Năm 2022 tỷ lệ thành công của phân phiếu không cao — Đảng Dân chúng ở nhiều khu vực bầu cử xuất hiện hiện tượng "chủ tướng cao phiếu, phó tướng rớt phiếu" (chệch phiếu). Năm 2026, lực lượng thứ ba (Đảng Dân chúng, Đảng Cơ bản, lực lượng còn lại của Đảng Thời đại Lực lượng, các đảng mới nổi) có vận dụng thành thạo hơn công cụ phân phiếu không?
 
-[^4]: [Hệ thống Bầu cử từng cử tri tại Khu vực đa số không chuyển nhượng được — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — Quy tắc chế độ, quốc gia sử dụng lịch sử, tổng hợp đánh giá học thuật.
+**Đảm bảo nữ giới**: Trong 988 ghế nghị sĩ toàn quốc năm 2026, ước tính có 250+ ghế sẽ được trúng cử hoặc đẩy lùi người trúng cử ban đầu nhờ điều khoản đảm bảo nữ giới. Ghế cuối cùng của mỗi khu vực bầu cử thường là ghế then chốt do điều khoản đảm bảo giới tính quyết định — quy tắc này đã viết lại kết quả hơn ngàn cuộc bầu cử trong 30 năm qua[^31].
 
-[^5]: [Steven Reed, "Structure and Behavior: Extending Duverger's Law to the Japanese Case"](https://www.jstor.org/) — Nghiên cứu thực nghiệm cổ điển về hành vi ứng cử viên và tích hợp đảng dưới chế độ SNTV.
+**Số ghế của lực lượng thứ ba**: Cuộc bầu cử chín hợp nhất năm 2022, Đảng Cơ bản Đài Loan, Đảng Dân chúng, Đảng Thời đại Lực lượng cộng lại giành được 30+ ghế tại các hội đồng địa phương toàn quốc. Năm 2026, số ghế của lực lượng thứ ba có thể đột phá 50 ghế hay không, là chỉ số quan sát xem "lợi ích ngưỡng cửa" của chế độ SNTV đối với các đảng nhỏ còn tiếp tục phát huy tác dụng hay không.
 
-[^6]: [Phân chia khu vực chọn Hội viên Đài Bắc — Ủy ban Bầu cử Đài Bắc](https://www.tpcec.gov.taipei/) — Bầu cử Hội viên Đài Bắc lần thứ ba năm 2022 6 khu vực chọn, 63 ghế cần bầu.
+**Không có phiếu đảng**: Bầu cử nghị sĩ không có chế độ không phân khu, không có phiếu đảng, tất cả ghế đều đến từ cạnh tranh SNTV tại đơn nhất khu vực bầu cử. Điều này có nghĩa là cách duy nhất để các đảng nhỏ giành ghế ở cấp nghị sĩ là — đạt ngưỡng trúng cử tại một khu vực bầu cử nào đó. Cấu trúc này làm cho "màu sắc đảng phái" của bầu cử nghị sĩ mờ nhạt hơn so với bầu cử Ủy viên Lập pháp, trọng số của phái hệ địa phương, kinh doanh gia đình, uy tín cá nhân càng cao hơn.
 
-[^7]: [Phân chia khu vực chọn Hội viên Tân Bắc — Ủy ban Bầu cử Tân Bắc](https://www.ntpcec.gov.tw/) — Bầu cử Hội viên Tân Bắc lần thứ ba năm 2022 12 khu vực chọn, 66 ghế cần bầu.
+**Vấn đề cải cách vẫn còn trên bàn**: Cứ vài năm Ủy viên Lập pháp lại đề xuất án sửa luật "cải cách nghị sĩ", Quốc hội mới năm 2026 (Đảng Dân tiến thiểu số + Đảng Quốc dân - Đảng Dân chúng đa số) có sẽ đưa vấn đề này ra thảo luận không? Có sẽ xuất hiện các đề xuất như "giảm một nửa số nghị sĩ", "nghị sĩ đơn nhất khu vực bầu cử", "nghị sĩ không phân khu" hay không? Đây là một trong những điểm quan sát về việc sửa đổi Luật chế độ địa phương sau năm 2026.
 
-[^8]: [Droop quota và ngưỡng bầu cử SNTV — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — Khái niệm tính toán ngưỡng bầu cử khi chọn N ghế.
+---
 
-[^9]: [Nghiên cứu chiến lược Phân chia phiếu bầu SNTV — Điều tra và Dân chủ hóa Đài Loan](https://www.tedsnet.org/) — Cách lên kế hoạch phân chia phiếu bầu của Đảng Quốc Dân, Đảng Dân chủ Tiến bộ từng lần (chữ số cuối cùng của chứng minh thư, tháng sinh, khu vực địa lý).
+## Ý nghĩa của cải cách nửa vời
 
-[^10]: [Lời kêu gọi Phân chia phiếu bầu Bầu cử Hội viên 2022 của Đảng Nhân dân Đài Loan — Hãng thông tấn Trung ương](https://www.cna.com.tw/) — Đảng Nhân dân Đài Loan cố gắng phân chia phiếu bầu ở nhiều khu vực, một số khu vực có hiện tượng phiếu bầu chồng lên khiến ngoài cùng tướng quân cao, ngoài cùng phó tướng thất bại.
+Nghị sĩ Lập pháp đã được cải cách. Nghị sĩ địa phương thì không. Trạng thái nửa vời này đã duy trì 18 năm.
 
-[^11]: [Sự phát triển chế độ bầu cử địa phương Đài Loan — Viện Lịch sử Quốc gia](https://www.drnh.gov.tw/) — Thời kỳ Nhật trị năm 1935 sử dụng chế độ bầu cử bị hạn chế, sau chiến tranh thay đổi thành SNTV.
+Từ góc độ thiết kế thể chế, đây không phải là câu chuyện hoàn chỉnh — câu chuyện hoàn chỉnh nên là «sau khi chế độ đơn nhất khu vực bầu cử hai phiếu của Nghị sĩ Lập pháp thành công, Nghị sĩ địa phương cũng theo đó mà cải cách», hoặc «cải cách Nghị sĩ Lập pháp chứng minh SNTV tốt hơn, xem xét lại chế độ đơn nhất khu vực bầu cử». Nhưng thực tế chính trị Đài Loan là hai con đường đều không đi — Nghị sĩ Lập pháp duy trì thể chế mới, Nghị sĩ địa phương duy trì thể chế cũ, hai thể chế song tồn.
 
-[^12]: [Lực lượng địa phương và Chính trị bầu cử Đài Loan — Nghiên cứu Vương Kim Thọ](https://www.airitilibrary.com/) — Mối quan hệ ràng buộc giữa các lực lượng địa phương và cấu trúc SNTV vào những năm 1980.
+Sự «song tồn thể chế» này bản thân có thể được giải thích theo hai nghĩa.
 
-[^13]: [Kinh nghiệm SNTV ở Đài Loan — Vương Nghiệp Lập 《So sánh Hệ thống Bầu cử》](https://www.books.com.tw/) — Quan sát thực nghiệm về chính trị lực lượng địa phương, xu hướng cực đoan, sự vận động tiền tệ trong năm lần bầu cử Đại biểu Quốc hội SNTV.
+Một giải thích: **Dấu hiệu của sự trưởng thành dân chủ**. Các cấp độ khác nhau dùng các thể chế khác nhau, mỗi cái lấy ưu điểm — Nghị sĩ Lập pháp dùng chế độ đơn nhất khu vực bầu cử hai phiếu xử lý các vấn đề cấp quốc gia, Nghị sĩ địa phương dùng SNTV bảo đảm đa dạng đại diện địa phương. Giải thích này coi «không cải cách» như «không nên cải cách».
 
-[^14]: [Ba lần đọc Đề án sửa đổi Hiến pháp 2004 Viện Lập pháp — Báo công khai Viện Lập pháp](https://www.ly.gov.tw/) — Giảm nửa Đại biểu Quốc hội, Một khu vực, Hai phiếu ba yếu tố gộp lại gửi Đại hội Quốc dân nhiệm vụ.
+Giải thích khác: **Kết quả của sự đình trệ cải cách**. Cải cách chế độ bầu cử khởi động từ thập niên 1990 đến năm 2008 hoàn thành một nửa thì dừng lại, nửa còn lại vì chi phí chính trị quá cao, không ai muốn gánh, nên dừng nguyên chỗ. SNTV lưu lại ở cấp Nghị sĩ địa phương không phải «lựa chọn thiết kế», mà là «không ai thúc đẩy thay đổi». Giải thích này coi «không cải cách» như «nên cải cách nhưng không cải cách».
 
-[^15]: [Lần sửa đổi Hiến pháp thứ bảy 2005 — Phủ Tổng thống Trung Hoa Dân Quốc](https://www.president.gov.tw/) — Đại hội Quốc dân nhiệm vụ phê chuẩn Bổ sung sửa đổi Điều 4 Hiến pháp, bãi bỏ Quốc dân Đại hội, cải cách chế độ Đại biểu Quốc hội.
+Giữa hai giải thích, là trường đấu của dân ý, lực lượng chính trị, thảo luận học thuật, quan tâm truyền thông. Taiwan.md không đứng về bất kỳ bên nào — nhưng ghi nhận trạng thái nửa vời này, là kỹ năng cơ bản quan sát bầu cử 2026.
 
-[^16]: [Kết quả Cuộc bầu cử Đại biểu Quốc hội lần thứ bảy — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — 12-01-2008 Đảng Quốc Dân 81 ghế, Đảng Dân chủ Tiến bộ 27 ghế, các bên khác 5 ghế.
+Ngày bầu cử Cửu hợp nhất, trên phiếu bầu cử cử tri nhận được, Nghị sĩ Lập pháp không có trong đó (bầu cử Nghị sĩ Lập pháp cùng lúc với bầu cử Tổng thống, năm 2028 mới bầu), nhưng trên phiếu bầu cử Nghị sĩ Huyện/Thành phố chạy theo vẫn là quy tắc cũ kế thừa từ thập niên 1980. **Cùng một phiếu bầu, hai thể chế mới cũ song tồn** — đây là một chi tiết trong cơ sở hạ tầng dân chủ Đài Loan dễ bị bỏ qua nhất, nhưng ý nghĩa cấu trúc sâu sắc nhất.
 
-[^17]: [Lực lượng địa phương và Sức cản cải cách chế độ Hội viên — Vương Nghiệp Lập, Trần Hồng Chương bài luận học thuật](https://www.airitilibrary.com/) — Tại sao sức cản cải cách chế độ Hội viên trong chính trị địa phương lớn hơn cải cách Đại biểu Quốc hội.
+Thảo luận chi tiết về thể chế xem: [Trung tâm Chính trị](/politics) · [Bầu cử Cửu hợp nhất 2026](/vi/politics/2026-local-elections-taiwan/) · [Bầu cử Cửu hợp nhất là gì](/vi/politics/nine-in-one-elections-explained/) · [Thể chế Ủy ban Bầu cử Trung ương](/vi/politics/central-election-commission/) · [Thể chế Trưởng thôn/Trưởng lối](/vi/politics/village-chief-system/) · [Trưởng quận núi bản địa Thành phố Trung ương trực thuộc](/vi/politics/indigenous-district-chief-system/) · [Dân chủ hóa](/vi/history/taiwan-democratization-history/) · [Bầu cử và Chính trị Đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics/)
 
-[^18]: [Độ khó phân chia khu vực chọn Hội viên địa phương — Bộ Nội vụ](https://www.moi.gov.tw/) — Phức tạp kỹ thuật của vẽ lại khu vực chọn 22 Hội đồng Thành phố/Tỉnh + 198 Hội đồng Đại biểu Dân cư Xã/Thị trấn toàn quốc.
+---
 
-[^19]: [Đề xuất cải cách chế độ Hội viên từng năm — Dữ liệu Đề xuất Viện Lập pháp](https://www.ly.gov.tw/) — Sau cải cách Đại biểu Quốc hội 2008, nhiều lần Đại biểu Quốc hội đề xuất sửa đổi pháp luật chế độ Hội viên, đều chưa được thông qua lần hai.
+## Đọc thêm
 
-[^20]: [Ghi chép ghế Hội viên các đảng nhỏ — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Thống kê các lần bầu cử Hội viên thành phố và tỉnh khi bầu được của Đảng Quốc Gia Đài Loan, Đảng Sức mạnh Thời đại, Đảng Xanh, Đảng Dân chủ Xã hội.
+- Cơ sở dữ liệu bầu cử Ủy ban Bầu cử Trung ương — Cấu trúc 得票 các khóa bầu cử Nghị sĩ, ghi chép phân phối phiếu, thống kê ghế bảo đảm giới tính
+- Vương Nghiệp Lập 《Thể chế Bầu cử So sánh》— Sách giáo khoa thể chế bầu cử hoàn chỉnh nhất Đài Loan, tài liệu tham khảo chính so sánh thể chế SNTV và MMM
+- Série luận văn thể chế bầu cử của Thâm Hữu Trung — Phân tích kinh tế chính trị quá trình sửa đổi Hiến pháp năm 2005 và cải cách chế độ đơn nhất khu vực bầu cử hai phiếu
+- Công báo Viện Lập pháp tháng 8 năm 2004 — Bản ghi chép đọc lần 3 án sửa đổi Hiến pháp, quá trình協商朝野
+- Bản ghi chép hội nghị Quốc hội đại biểu nhiệm vụ tháng 6 năm 2005 — Văn bản nghị quyết cuối cùng giảm một nửa Nghị sĩ Lập pháp, cải cách đơn nhất khu vực bầu cử
 
-[^21]: [Ghế Đại biểu Quốc hội từng lần của Đảng Sức mạnh Thời đại — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — 2016 năm 5 ghế, 2020 năm 3 ghế, 2024 năm 0 ghế.
+[^1]: [Tổng quan bầu cử Ủy viên Lập pháp屆 thứ 7 — Ủy ban Trung ương Bầu cử](https://www.cec.gov.tw/) — Bầu cử ngày 12-01-2008, toàn quốc chia 73 khu vực bầu cử vùng, 34 ghế không phân khu, 6 ghế người bản địa (bình nguyên và núi rừng mỗi bên 3 ghế).
 
-[^22]: [Ghế Đại biểu Quốc hội từng lần của Đảng Nhân dân Đài Loan — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — 2020 năm không phân biệt 5 ghế, 2024 năm khu vực 0 ghế không phân biệt 8 ghế.
+[^2]: [Thiết kế thể chế giảm một nửa số ghế Ủy viên Lập pháp — Viện Lập pháp](https://www.ly.gov.tw/) — Lần sửa đổi Hiến pháp thứ 7 năm 2005 giảm số ghế Ủy viên Lập pháp từ 225 xuống 113, nhiệm kỳ từ 3 năm đổi thành 4 năm.
 
-[^23]: [Cuộc tranh luận chất lượng dân chủ giữa SNTV và Chế độ Một khu vực — Bài luận chế độ bầu cử Shen Youzhong](https://www.airitilibrary.com/) — Thảo luận học thuật hành vi ứng cử viên, tích hợp đảng, hiệu ứng cử tri giữa thời chừng tổng hợp.
+[^3]: [Tài liệu bầu cử Nghị sĩ Hội đồng huyện Vân Lâm — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Vân Lâm, huyện Gia Nghĩa do vụ hối lộ bầu Chủ tịch Hội đồng năm 2005 dẫn đến bầu lại khiến lịch bầu cử lệch pha, khác thời gian với các tỉnh/thành khác.
 
-[^24]: [Ghế Hội viên nguyên sinh Bầu cử Tân Bắc — Ủy ban Bầu cử Tân Bắc](https://www.ntpcec.gov.tw/) — Nguyên sinh đất bằng 1 ghế, nguyên sinh miền núi 1 ghế.
+[^4]: [Chế độ bỏ phiếu đơn không chuyển nhượng tại khu vực bầu cử đa số — Wikipedia](https://zh.wikipedia.org/wiki/單記不可讓渡投票制) — Quy tắc thể chế, quốc gia sử dụng trong lịch sử, tổng quan đánh giá học thuật.
 
-[^25]: [Ghế Hội viên nguyên sinh Bầu cử Tỉnh Bình Đông — Ủy ban Bầu cử Tỉnh Bình Đông](https://www.ptcec.gov.tw/) — Nguyên sinh đất bằng 2 ghế, nguyên sinh miền núi 4 ghế (Mù Đài, Mã Gia, Thái Vũ, Lai Nghĩa, Xuân Nhật, Sư Tử, Bồ Đơn bảy xã miền núi).
+[^5]: [Steven Reed, "Cấu trúc và Hành vi: Mở rộng Định luật Duverger sang trường hợp Nhật Bản"](https://www.jstor.org/) — Nghiên cứu thực chứng kinh điển về hành vi ứng cử viên và sự hội tụ đảng phái dưới thể chế SNTV.
 
-[^26]: [Luật Bầu cử và Thu hồi công chức — Cơ sở dữ liệu Pháp luật Toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Điều 67 quy định Hội viên địa phương bầu cử "Nếu ghế cần bầu là bốn hoặc hơn, phụ nữ được bầu không được ít hơn một phần tư".
+[^6]: [Phân khu vực bầu cử Nghị sĩ Thành phố Đài Bắc — Ủy ban Bầu cử Thành phố Đài Bắc](https://www.tpcec.gov.taipei/) — Bầu cử Nghị sĩ Thành phố Đài Bắc屆 thứ 3 năm 2022: 6 khu vực bầu cử, 63 ghế cần bầu.
 
-[^27]: [Lịch sử tỷ lệ phụ nữ Hội viên Đài Loan — Quỹ Hiến đang Phụ nữ](https://www.awakening.org.tw/) — Thống kê tác động thực tế của điều khoản bảo đảm phụ nữ từ những năm 1990 đến tỷ lệ giới tính.
+[^7]: [Phân khu vực bầu cử Nghị sĩ Thành phố Tân Bắc — Ủy ban Bầu cử Thành phố Tân Bắc](https://www.ntpcec.gov.tw/) — Bầu cử Nghị sĩ Thành phố Tân Bắc屆 thứ 3 năm 2022: 12 khu vực bầu cử, 66 ghế cần bầu.
 
-[^28]: [Cải cách chế độ bầu cử Hạ viện Nhật Bản — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — Bối cảnh chính trị thay đổi từ SNTV thành "Chế độ hỗn hợp Khu vực nhỏ So tô chính đảng Tách biệt" năm 1994.
+[^8]: [Hệ số Droop và ngưỡng trúng cử SNTV — Wikipedia](https://en.wikipedia.org/wiki/Droop_quota) — Khái niệm và tính toán ngưỡng trúng cử khi cần bầu N ghế.
 
-[^29]: [Chế độ bầu cử Quốc hội Hàn Quốc — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — Khu vực chọn đơn lẻ 253 ghế, so tô chính đảng không phân biệt 47 ghế.
+[^9]: [Nghiên cứu chiến lược phân phối phiếu SNTV — Điều tra Bầu cử và Dân chủ hóa Đài Loan](https://www.tedsnet.org/) — Các cách kêu gọi phân phối phiếu qua các năm của Quốc dân đảng, Dân tiến đảng (mã cuối CMND, tháng sinh, phân khu địa lý).
 
-[^30]: [So sánh Chế độ tách biệt và Chế độ liên lập — Bài luận chế độ bầu cử Shen Youzhong](https://www.airitilibrary.com/) — Cuộc tranh luận "Tách biệt vs Liên lập" trong quá trình sửa đổi Hiến pháp 2005 và lựa chọn cuối cùng.
+[^10]: [Kêu gọi phân phối phiếu bầu cử Nghị sĩ năm 2022 của Đảng Dân chúng — Thông tấn xã Trung ương](https://www.cna.com.tw/) — Đảng Dân chúng thử phân phối phiếu ở nhiều khu vực, một số khu vực phiếu lệch khiến chủ lực đạt quá nửa phiếu, phó lực rớt.
 
-[^31]: [Thống kê ghế Hội viên bảo đảm phụ nữ từng lần — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Ghi chép ghế bầu cử được của Đại biểu Phụ nữ và bị đẩy xuống Đại biểu nam theo điều khoản bảo đảm ở các thành phố và tỉnh toàn quốc.
+[^11]: [Diễn biến thể chế bầu cử địa phương Đài Loan — Viện Sử quốc gia](https://www.drnh.gov.tw/) — Thời kỳ Nhật trị năm 1935 bầu cử Hội đồng châu/thành dùng chế độ bỏ phiếu giới hạn danh ngạch, sau chiến tranh đổi thành SNTV.
+
+[^12]: [Các phe phái địa phương Đài Loan và chính trị bầu cử — Nghiên cứu của Vương Kim Thọ](https://www.airitilibrary.com/) — Mối quan hệ gắn kết giữa các phe phái địa phương thập niên 1980 và cấu trúc SNTV.
+
+[^13]: [Kinh nghiệm Đài Loan dưới thể chế SNTV — Vương Nghiệp Lập 《Thể chế Bầu cử So sánh》](https://www.books.com.tw/) — Quan sát thực chứng về chính trị phe phái, lập trường cực đoan, vận động tiền bạc trong 5屆 bầu cử Ủy viên Lập pháp SNTV.
+
+[^14]: [Án sửa đổi Hiến pháp Viện Lập pháp năm 2004 đọc lần 3 thông qua — Công báo Viện Lập pháp](https://www.ly.gov.tw/) — Giảm một nửa Ủy viên Lập pháp, khu vực bầu cử đơn nhất, chế độ hai phiếu — ba mục gộp gửi Quốc hội nhiệm vụ.
+
+[^15]: [Lần sửa đổi Hiến pháp thứ 7 năm 2005 — Tổng thống phủ Trung Hoa Dân Quốc](https://www.president.gov.tw/) — Quốc đại nhiệm vụ biểu quyết thông qua điều 4 Điều khoản tăng sửa Hiến pháp, bãi Quốc đại, cải cách số ghế và thể chế Ủy viên Lập pháp.
+
+[^16]: [Kết quả bầu cử Ủy viên Lập pháp屆 thứ 7 — Ủy ban Trung ương bầu cử](https://www.cec.gov.tw/) — Ngày 12-01-2008: Quốc dân đảng 81 ghế (khu vực 57, bản địa 4, không phân khu 20), Đảng Dân tiến 27 ghế, khác 5 ghế.
+
+[^17]: [Phe phái địa phương và sự kháng cự cải chế bầu cử — Luận văn học thuật của Vương Nghiệp Lập, Trần Hồng Chương](https://www.airitilibrary.com/) — Tại sao cải chế chế độ bầu cử nghị sĩ gặp kháng cự lớn hơn cải chế ủy viên lập pháp trong chính trị địa phương.
+
+[^18]: [Độ khó 획 định khu vực bầu cử nghị sĩ địa phương — Bộ Nội vụ](https://www.moi.gov.tw/) — Độ phức tạp của công tác 획 định lại khu vực bầu cử cho 22 hội đồng thành phố/tỉnh + 198 hội đồng đại biểu dân xã/thị trấn/thành phố trên toàn quốc.
+
+[^19]: [Các đề xuất cải chế chế độ bầu cử nghị sĩ qua các năm — Dữ liệu án nghị viện Lập pháp viện](https://www.ly.gov.tw/) — Sau cải chế ủy viên lập pháp năm 2008, nhiều lần có ủy viên đề xuất án sửa đổi luật cải chế chế độ nghị sĩ, nhưng đều không thông qua đọc lần hai.
+
+[^20]: [Số ghế của các đảng nhỏ trong hội đồng địa phương — Ủy ban Trung ương bầu cử](https://www.cec.gov.tw/) — Thống kê trúng cử nghị sĩ thành phố/tỉnh các屆 của Đảng Tiên phong Đài Loan, Đảng Thời đại Lực lượng, Đảng Xanh, Đảng Xã hội Dân chủ.
+
+[^21]: [Số ghế ủy viên lập pháp các屆 của Đảng Thời đại Lực lượng — Ủy ban Trung ương bầu cử](https://www.cec.gov.tw/) — Năm 2016: 5 ghế, năm 2020: 3 ghế, năm 2024: 0 ghế.
+
+[^22]: [Số ghế ủy viên lập pháp các屆 của Đảng Dân chúng — Ủy ban Trung ương bầu cử](https://www.cec.gov.tw/) — Năm 2020: 5 ghế không phân khu, năm 2024: 0 ghế khu vực, 8 ghế không phân khu.
+
+[^23]: [Cuộc tranh luận chất lượng dân chủ giữa SNTV và chế độ đơn nhất khu vực bầu cử — Luận văn chế độ bầu cử của Thâm Hữu Trung](https://www.airitilibrary.com/) — Tổng quan thảo luận học thuật về hành vi ứng cử viên, sự hội tụ đảng phái, hiệu ứng cử tri trung lập.
+
+[^24]: [Số ghế bản địa bầu cử nghị sĩ Thành phố Tân Bắc — Ủy ban bầu cử Thành phố Tân Bắc](https://www.ntpcec.gov.tw/) — Bản địa bằng nguyên 1 ghế, bản địa núi 1 ghế.
+
+[^25]: [Số ghế bản địa bầu cử nghị sĩ Tỉnh Bính Đông — Ủy ban bầu cử Tỉnh Bính Đông](https://www.ptcec.gov.tw/) — Bản địa bằng nguyên 2 ghế, bản địa núi 4 ghế (7 xã núi: Vũ Đài, Mã Gia, Thái Vũ, Lai Nghĩa, Xuân Nhật, Sư Tử, Mẫu Đan).
+
+[^26]: [Luật bầu cử và bãi nhiệm công chức — Cơ sở dữ liệu pháp quy toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Điều 67 quy định: nếu số ghế ứng cử nghị sĩ từ 4 ghế trở lên, số ghế trúng cử của phụ nữ không được dưới một phần tư.
+
+[^27]: [Lịch sử tỷ lệ nữ nghị sĩ Đài Loan — Quỹ Kiến thức mới cho Phụ nữ](https://www.awakening.org.tw/) — Thống kê tác động thực tế của điều khoản bảo đảm ghế cho phụ nữ đối với tỷ lệ giới tính từ những năm 1990.
+
+[^28]: [Cải chế chế độ bầu cử Hạ viện Nhật Bản — Wikipedia](https://zh.wikipedia.org/wiki/日本國會) — Bối cảnh chính trị năm 1994 khi chuyển từ SNTV sang «chế độ song lập khu vực bầu cử nhỏ và đại diện tỷ lệ».
+
+[^29]: [Chế độ bầu cử Quốc hội Hàn Quốc — Wikipedia](https://zh.wikipedia.org/wiki/大韓民國國會) — 253 ghế khu vực đơn nhất, 47 ghế đại diện tỷ lệ không phân khu.
+
+[^30]: [So sánh chế độ song lập và chế độ liên lập — Luận văn chế độ bầu cử của Thâm Hữu Trung](https://www.airitilibrary.com/) — Cuộc tranh luận «chế độ song lập vs chế độ liên lập» và lựa chọn cuối cùng trong quá trình sửa đổi hiến pháp năm 2005.
+
+[^31]: [Thống kê số ghế bảo đảm cho phụ nữ qua các khóa nghị sĩ — Ủy ban Bầu cử Trung ương](https://www.cec.gov.tw/) — Kỷ lục số ghế do điều khoản bảo đảm đẩy lùi nam nghị sĩ trúng cử trong bầu cử nghị sĩ các tỉnh thành toàn quốc.

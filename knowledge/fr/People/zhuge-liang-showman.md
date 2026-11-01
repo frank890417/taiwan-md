@@ -1,148 +1,98 @@
 ---
-title: 'Zhu Ge Liang'
-description: "De son vrai nom Hsieh Hsin-ta, né en 1946 à Zuoying, Kaohsiung. Son père était forgeron et sa mère marchande de légumes. Il a quitté l'école après le primaire pour devenir apprenti de l'opéra gézaï à l'âge de 15 ans. Dans les années 1960, il s'est fait connaître en imitant des stars dans les marchés de nuit. Avec l'essor économique de Taïwan dans les années 1970 et la demande croissante de divertissements nocturnes, la culture des spectacles de variétés a émergé. Il a fusionné l'opéra traditionnel, le conte populaire et des éléments pop pour créer son « humour style Zhu », utilisant l'improvisation et les rimes en taïwanais pour porter le langage populaire sur les plateaux de télévision. Il est décédé en mai 2017 d'un cancer du côlon."
+title: 'Chu Ko-liang'
+description: "Chu Ko-liang (1946–2017, né Hsieh Hsin-ta), né à Zuoying, Kaohsiung, a quitté la maison à 14 ans pour rejoindre la New Drama Troupe, est monté sur scène comme animateur au Blue Sapphire Grand Cabaret à 31 ans, et est devenu célèbre dans tout Taïwan dans les années 1980 grâce aux cassettes vidéo du « Chu Ko-liang Cabaret Show ». En 1993, il a fui ses dettes de jeu et s'est éclipsé pendant dix ans ; en 2009, il a fait son retour avec la réplique « partir étudier à l'étranger », a remporté l'année suivante le Golden Bell Award du meilleur animateur d'émission de variétés, et a sorti un film pour le Nouvel An lunaire chaque année durant ses dernières années."
 date: 2026-03-19
 category: 'People'
-tags:
-  [
-    'Zhu Ge Liang',
-    'spectacle de variétés',
-    'comédie',
-    'divertissement',
-    'taïwanais',
-  ]
+tags: ['Chu Ko-liang', 'cabaret', 'comédie', 'variétés', 'taïwanais']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-10-22
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: '9be0c5314'
-sourceContentHash: 'sha256:d55c93f02208554f'
-sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-10-15T23:00:09.184658+00:00'
+sourceCommitSha: 'b13002258'
+sourceContentHash: 'sha256:207c26e5b764aafa'
+sourceBodyHash: 'sha256:e8b115a1f996f620'
+translatedAt: '2026-10-23T02:24:45+08:00'
 ---
 
-# Chu Ke-liang : le roi populaire de la culture des spectacles de variété taïwanais
+# Chu Ko-liang : de la scène de cabaret aux films du Nouvel An, le roi du taïwanais
 
-Des villages de familles de militaires de Zuoying, à Kaohsiung, jusqu’aux écrans de télévision de tout Taïwan, Chu Ke-liang a construit, avec son « humour à la Chu », un langage comique qui lui était propre. Son rap parlé en taïwanais, sa capacité d’improvisation et son regard issu des milieux populaires l’ont rendu célèbre pendant plusieurs décennies et ont fait de lui, aux yeux du public de base, « l’un des leurs ». Il est mort d’un cancer colorectal en mai 2017, à l’âge de 70 ans.
+Chu Ko-liang (1946–2017), de son vrai nom Hsieh Hsin-ta, a changé de nom pour Hsieh Yu-chen après son retour en 2009. Dans les années 1980, il est devenu célèbre dans tout le pays grâce aux cassettes vidéo de son cabaret, formant avec Chang Fei et Hsing Feng le trio surnommé « Chu au sud, Chang au nord, Hsing au centre ». En 1993, il a fui ses dettes et disparu pendant dix ans ; en 2009, une seule réplique — « partir étudier à l'étranger » — a fait rire tout Taïwan et scellé son retour, l'année suivante il remportait le Golden Bell Award du meilleur animateur d'émission de variétés, et ses dernières années ont été rythmées par la sortie annuelle d'un film pour le Nouvel An lunaire.
 
-## Un parcours artistique issu des milieux populaires
+## Chronologie
 
-Chu Ke-liang, de son vrai nom Hsieh Hsin-ta, est né le 6 décembre 1946 dans le district de Zuoying, à Kaohsiung[^1]. Son père, Hsieh Huo-yen, était forgeron, et sa mère vendait des légumes au marché ; la famille vivait modestement. Il a grandi dans les environs des villages de familles de militaires de Zuoying, à Kaohsiung, et a été profondément marqué par la culture populaire locale.
+| Année              | Événement                                                                                                                                                                                                                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1946               | 6 décembre : naissance à Zuoying, Kaohsiung[^1]                                                                                                                                                                                                                                                                                      |
+| 1960 (vers 14 ans) | Quitte Zuoying pour rejoindre la « New Drama Troupe », devient disciple de Lin Sung-yen, commence par tirer les rideaux en coulisses[^1]                                                                                                                                                                                             |
+| 1977 (31 ans)      | Joue le bouffon « Chu Ko-liang » dans _Liao Tianding_ mis en scène par Yu Chi-tung (alors sous le nom de scène Yu Tung-jung), d'où son nom de scène. Intègre le Blue Sapphire Grand Cabaret fondé par Yang Teng-kuei comme metteur en scène et scénariste, puis remplace l'animatrice titulaire Fei Chen-ling et fait ses débuts[^1] |
+| 1988               | 8 octobre : blessé par balle derrière le Blue Sapphire Grand Cabaret[^1]                                                                                                                                                                                                                                                             |
+| 1993               | Fuit d'importantes dettes de jeu, bref retour en 1997, quitte à nouveau le show-biz en 1999[^1]                                                                                                                                                                                                                                      |
+| 2009               | Février : repéré par un journaliste de l'_Apple Daily_ ; 24 avril : retour via une publicité pour le 3C de Tsann Kuen, où il dit en taïwanais : « Plus de dix ans sans vous voir, parce que je suis "parti étudier à l'étranger" » ; août : commence à animer _Chu Ko-liang's Club_ sur FTV[^1]                                      |
+| 2010               | 22 octobre : remporte avec Hou Yi-chun le Golden Bell Award du meilleur animateur d'émission de variétés (45e édition) pour _Chu Ko-liang's Club_[^1]                                                                                                                                                                                |
+| 2011               | À partir de cette année, sort un film pour le Nouvel An chaque printemps : _Hero of the Fried Chicken_, _Big Tail Luya_, _Dadaocheng_, _Great Happiness_...[^1]                                                                                                                                                                      |
+| 2014               | 30 mai : annonce être atteint d'un cancer colorectal de stade II[^1]                                                                                                                                                                                                                                                                 |
+| 2017               | Janvier : assure la promotion de son dernier film _The Big Fisherman_ ; 15 mai : décède à l'hôpital de l'Université nationale de Taïwan, à l'âge de 70 ans[^1]                                                                                                                                                                       |
 
-Après l’école primaire, il a dû interrompre ses études en raison des difficultés financières de sa famille et a commencé à contribuer aux revenus du foyer. À 15 ans, il entre en contact avec l’opéra taïwanais, ou gezai xi, une forme d’opéra populaire chanté en taïwanais, et devient apprenti pour apprendre le théâtre traditionnel. Cette expérience pose les bases de son art scénique ultérieur.
+## Grandir à Zuoying, entrer dans une troupe à l'adolescence
 
-À partir des années 1960, il se produit dans les marchés de nuit, ces lieux de restauration et de divertissement nocturnes très présents à Taïwan, où il imite les chanteurs populaires et les vedettes du cinéma et de la télévision de l’époque. Ses prestations vivantes et dynamiques lui valent progressivement une réputation locale.
+Chu Ko-liang est issu de la famille Hsieh de Wujia, à Zuoying, originaire de Hui'an, Quanzhou. Selon la synthèse de Wikipédia, son père était marchand de légumes, tenant un étal qui tournait bien grâce aux nombreuses garnisons de Zuoying ; les trois frères devaient tous aider, et Chu Ko-liang livrait les légumes à vélo dans son enfance[^1].
 
-## L’essor de la culture des spectacles de variété
+Il a révélé son talent pour la scène dès l'école primaire de Jiucheng. Son camarade de classe, devenu plus tard l'écrivain Chen Fang-ming, se souvient que Chu Ko-liang faisait des bêtises en classe ; l'enseignant voulait le punir corporellement, mais il a improvisé un numéro comique qui a fait rire toute la classe, et la punition a été oubliée[^1].
 
-Dans les années 1970, avec le décollage économique de Taïwan, la demande de divertissements nocturnes augmente, ce qui favorise l’émergence de la culture des xiuchang, des scènes de spectacle de variété associant musique, humour et performance populaire. Chu Ke-liang saisit cette occasion et commence à se produire dans des salles de spectacle à travers l’île.
+À 14 ans, il quitte Zuoying pour la New Drama Troupe, devient disciple de Lin Sung-yen, commence en tirant les rideaux en coulisses et suit la troupe dans ses tournées. À 17 ans, lors d'une tournée de Pingtung Checheng à Hualien Yuli, la vedette Tu Chu-tiao se blesse au pied sur un clou ; Chu Ko-liang se porte volontaire pour le remplacer, joue si bien qu'il devient dès lors scénariste et acteur professionnel[^1].
 
-Son jeu mêle théâtre traditionnel, art populaire du récit chanté et éléments de la culture pop moderne, formant un « style Chu » singulier. Sa maîtrise du parlé-chanté en taïwanais, en particulier, lui permet d’improviser des phrases rimées qui plaisent beaucoup au public.
+## Le Blue Sapphire Grand Cabaret : débuts à 31 ans
 
-Les spectacles de Chu Ke-liang intègrent souvent des commentaires sur l’actualité et une satire sociale, exprimant avec humour la voix des petites gens. Ce style de performance proche du public lui permet de devenir rapidement célèbre.
+À 31 ans, Yu Chi-tung (alors Yu Tung-jung) l'engage pour _Liao Tianding_ ; il y incarne le bouffon « Chu Ko-liang », fait sensation et adopte ce nom comme nom de scène. Sur recommandation de Chang Chien et Chang Ti, il entre au Blue Sapphire Grand Cabaret fondé par Yang Teng-kuei comme metteur en scène et scénariste. Un jour, l'animatrice titulaire Fei Chen-ling est absente à la dernière minute ; il la remplace sur scène et débute officiellement[^1].
 
-## L’âge d’or des variétés télévisées
+Son premier partenaire est Kang Hung, suivront Yu Tien, Huang Hsi-tien et d'autres. À cette époque, un spectacle de cabaret type commençait par interviewer les chanteurs, puis les faire chanter, avant de jouer ensemble une saynète ; ils se déguisaient souvent en médiums ou prêtres taoïstes pour que les chanteurs leur demandent des prédictions sur l'amour, la carrière, voire les numéros gagnants de la loterie. Les rires venaient surtout de ses improvisations sur le moment[^1].
 
-Dans les années 1980, alors que la télévision taïwanaise connaît un fort développement, Chu Ke-liang réussit son passage vers les émissions de variétés. L’émission qu’il anime, _Zhu Geliang Getingxiu_ (_Le cabaret de Chu Ke-liang_), devient l’un des programmes de variétés les plus populaires de l’époque[^2].
+Dans les années 1980, les cassettes vidéo du _Chu Ko-liang Cabaret Show_ font fureur dans tout Taïwan. Ces cassettes circulaient aussi en copies pirates dans le sud du Fujian ; de nombreux spectateurs de Quanzhou, Zhangzhou et Xiamen ont grandi en louant ses cassettes ou ses disques laser[^1].
 
-L’émission adopte la forme d’un spectacle de cabaret, combinant chant, danse, numéros comiques et autres éléments. Grâce à son style d’animation unique et à son talent d’improvisateur, Chu Ke-liang donne au programme un rythme rempli de surprises et de rires.
+## Le micro pendu au cou
 
-Il excelle particulièrement dans l’interaction avec les invités : qu’il s’agisse d’artistes connus ou de spectateurs anonymes, il parvient à faire ressortir chez chacun un aspect amusant. Cette capacité à créer de la proximité constitue l’un des facteurs essentiels de son succès.
+Au début, pas de micro sans fil ; tenir le micro en jouant était peu pratique. Il a eu l'idée de le suspendre à son cou avec une corde, ce qui est devenu sa marque de fabrique. Même après l'arrivée des micros sans fil, il a gardé l'habitude, les mains libres pour jouer les saynètes et gestuer avec les invités[^1].
 
-## Un style de performance unique
+Il ne faisait pas de manières au travail ; dans ses premières émissions, il s'occupait de tout, traitait les acteurs comme sa famille, mangeait avec eux, disant que c'était « l'héritage du maître Lin Sung-yen ». À chaque début de tournage, il insistait pour faire des offrandes au Dieu de la Terre, au Seigneur du Sol et aux « bons frères », guidant lui-même le rituel[^1].
 
-Le style scénique de Chu Ke-liang est sans équivalent et s’enracine dans un véritable savoir-faire forgé, étape après étape, sur les scènes des marchés de nuit. L’art du langage en est le signe le plus distinctif : il maîtrise le parlé-chanté en taïwanais et peut improviser des ritournelles rimées, chaque représentation étant traversée par une intelligence de la rue et un sens aigu de l’humour.
+## La fuite, dix ans et « partir étudier à l'étranger »
 
-Il utilise aussi avec efficacité des gestes et des expressions exagérés, fortement marqués par l’opéra taïwanais sans perdre leur modernité. L’humour populaire en est le noyau : ses contenus partent de l’expérience de vie ordinaire, si bien que le public rit tout en y trouvant une forme de justesse. Sa capacité d’adaptation improvisée est particulièrement remarquable : il sait créer des effets comiques en temps réel selon la situation sur scène, donnant à chaque représentation une part de surprise impossible à prévoir.
+Chu Ko-liang était accro au _ta-chia-lo_ et au _liu-ho-tsai_ (deux loteries illégales) ; selon les médias, il aurait un jour gagné 140 millions NT$, puis tout perdu, s'endettant lourdement, et a fui en 1993. Bref retour en 1997, nouvelle disparition en 1999 : dix ans d'absence[^1].
 
-Ces caractéristiques se sont affinées pendant de longues années dans l’environnement très exigeant des spectacles de variété, jusqu’à former un système de performance proprement « à la Chu ». Pour tenir deux heures devant une salle entière, la technique n’est que la base ; le véritable cœur du métier réside dans la connexion émotionnelle réelle avec le public.
+Il a confié plus tard que pendant cette période, il a essuyé des refus partout, même pour un poste de gardien d'immeuble, et a un moment songé à devenir moine[^1].
 
-## Controverses et période de creux
+Le 19 février 2009, un journaliste de l'_Apple Daily_ le photographie dans un stand de _o-a-tsian_ (omelette aux huîtres) à Chaozhou, Pingtung. Le 24 avril, Tsann Kuen 3C diffuse sa publicité : en taïwanais, il dit : « Plus de dix ans sans vous voir, parce que je suis "parti étudier à l'étranger". » Cette phrase devient le symbole de cette période[^1].
 
-Au milieu des années 1990, Chu Ke-liang est contraint de s’éloigner temporairement du monde du spectacle en raison de problèmes liés à des dettes de jeu. Pendant cette période, il se retire en Chine continentale et sa carrière taïwanaise entre dans une phase de stagnation.
+Le 5 juin, il se rend à Gala Television pour rencontrer Yang Teng-kuei ; les deux hommes se réconcilient publiquement, et les ponts avec le show-biz sont rétablis[^1].
 
-Les médias couvrent abondamment sa vie privée, notamment ses conflits sentimentaux et ses dettes, ce qui affecte en partie son image. L’affection du public populaire à son égard ne disparaît toutefois pas complètement.
+## Après le retour : _Chu Ko-liang's Club_ et les films du Nouvel An
 
-Cette période difficile amène Chu Ke-liang à réfléchir profondément à sa vie et à réexaminer sa relation avec le public. Son retour ultérieur le ramènera à l’essentiel : la performance elle-même.
+Sa première émission de variétés après son retour est _Chu Ko-liang's Club_ sur FTV, dont l'audience a dépassé les 10 %. En 2010, il remporte avec Hou Yi-chun le Golden Bell Award du meilleur animateur d'émission de variétés pour ce programme[^1].
 
-## Un retour éclatant et une seconde carrière
+Selon Wikipédia, son cachet par épisode est passé de 300 000 NT$ pour _Chu Ko-liang's Club_ sur FTV, à 700 000 NT$ pour _Wan Hsiu Chu Wang_ sur CTV, puis 850 000 NT$ pour _CTS Super Star Chu Ko-liang Show_ sur CTS, établissant un record pour les animateurs taïwanais[^1].
 
-À la fin des années 2000, Chu Ke-liang revient dans le monde du spectacle taïwanais et entame une seconde carrière. Les émissions qu’il anime, notamment _Zhuge Huishe_, rencontrent de nouveau le succès auprès du public[^3].
+À partir de 2011, il sort chaque Nouvel An un film dont il tient la vedette : _Hero of the Fried Chicken_, _Big Tail Luya_, _Dadaocheng_, _Great Happiness_, _Big Tail Luya 2_ ; tous franchissent le cap des 100 millions NT$ de recettes, jusqu'à _The Big Fisherman_ en 2017 (69,32 millions NT$) qui brise la série, et qui reste son dernier film[^1].
 
-Après son retour, son jeu devient de plus en plus mûr : tout en conservant son style d’origine, il accorde davantage d’attention à la qualité des programmes. Sa collaboration avec de jeunes artistes montre aussi sa bonne capacité d’adaptation.
+## Les trois dernières années
 
-Dans les années 2010, il participe à plusieurs films, dont des succès commerciaux tels que _Da Wei Lu Man_, avec d’excellents résultats au box-office.
+Le 30 mai 2014, il annonce être atteint d'un cancer colorectal de stade II. Inquiet des effets secondaires, il ne commence pas de traitement agressif, privilégie le travail, et essaie médecine chinoise, acupuncture et remèdes populaires. En 2016, son état empire : 6 600 ml d'ascite ; le 6 septembre, opération d'urgence, les métastases ont atteint l'abdomen, le foie et les poumons[^1].
 
-## De nouvelles expériences au cinéma
+En janvier 2017, malgré la maladie, il assure la promotion de _The Big Fisherman_ et enregistre une émission spéciale pour la veille du Nouvel An ; il dit tenir grâce à sa volonté : « En voyant mes proches, mes enfants, cette joie familiale, j'ai envie de continuer à vivre. » En février, il participe à la procession de Mazu du temple Fengtian de Xinpu, sa dernière apparition publique[^1].
 
-À la fin de sa carrière, Chu Ke-liang participe à des films et tient des rôles importants dans la série _Da Wei Lu Man_, réalisée par Chiu Li-kwan, qui enregistre de très bons résultats au box-office[^4].
+Le 11 mai au matin, il appelle Yu Tien pour prendre de ses nouvelles ; la rancoeur de plusieurs années entre eux (que les médias appelaient le « complexe Yu-Liang ») se dissout. Le 15 mai à 5 h 10, il s'éteint à l'hôpital de l'Université nationale de Taïwan[^1].
 
-Il réussit à transférer l’expérience de la variété télévisée vers le grand écran, confirmant le potentiel commercial du cinéma comique en taïwanais.
+## Les adieux
 
-Son jeu cinématographique conserve son style humoristique habituel, tout en révélant une compréhension précise des rôles qu’il interprète.
+Le 20 juin, les funérailles ont lieu au funérarium municipal de New Taipei. La famille consulte les blocs divinatoires ; les dieux indiquent d'utiliser le rite taoïste pour la cérémonie du septième jour et les funérailles. Après la crémation, les cendres sont inhumées au parc culturel Yongheng de Keelung. Des milliers de fans assistent à la cérémonie, le cortège fait le tour de tout le district de Banqiao[^1].
 
-## Sa contribution à la culture taïwanaise
+## Ce qui reste
 
-Chu Ke-liang est un acteur majeur de la culture populaire en langue taïwanaise. Ses performances donnent au taïwanais une place importante dans les médias modernes. À une époque marquée par la promotion du mandarin, il continue à se produire en taïwanais.
+La majeure partie de son œuvre est en taïwanais ; il est connu au sein de la communauté hokkien, y compris chez les Minnan de Chine et d'Asie du Sud-Est[^1]. Quant à savoir qui il a influencé et combien il a transformé le paysage des variétés, ces jugements sont faciles à exagérer ; cet article ne tranche pas pour d'autres. Ce qui est vérifiable, c'est que trois époques ont eu un public : les cassettes des années 1980, le Golden Bell de 2010, et les films du Nouvel An qui battaient des records d'affluence année après année.
 
-Ses techniques de parlé-chanté en taïwanais influencent de nombreux artistes plus jeunes, dont Peng Chia-chia et Hsu Hsiao-shun. Chu Ke-liang établit une tradition importante pour la comédie jouée en taïwanais.
-
-Ses spectacles préservent également de nombreux éléments de la culture traditionnelle taïwanaise, notamment les modes de chant de l’opéra taïwanais et les formes populaires de récit chanté, ce qui leur confère une importance pour la transmission culturelle.
-
-## Un lien profond avec le public
-
-Le plus grand succès de Chu Ke-liang réside dans le lien émotionnel profond qu’il a établi avec son public. Ses prestations sont toujours empreintes de sincérité, permettant aux spectateurs de percevoir son engagement.
-
-Il est particulièrement apprécié dans le centre et le sud de Taïwan ainsi que parmi les publics populaires, qui le considèrent comme « l’un des leurs ». Ce sentiment de proximité explique en grande partie sa capacité à traverser plusieurs décennies de carrière.
-
-Même pendant sa période de creux, de nombreux admirateurs fidèles continuent à le soutenir, preuve de sa place particulière dans le cœur du public.
-
-## Son influence sur la culture des variétés à Taïwan
-
-Chu Ke-liang inaugure un modèle important pour les émissions de variétés locales taïwanaises et influence la production d’innombrables programmes ultérieurs. Son style d’animation est imité et étudié par de nombreux artistes de la génération suivante.
-
-Il démontre la valeur commerciale des émissions de variétés en taïwanais et ouvre un segment de marché important pour l’industrie télévisuelle taïwanaise. Cette contribution est significative pour le développement de la culture télévisuelle à Taïwan.
-
-De nombreux animateurs célèbres d’émissions de variétés, tels que Jacky Wu et Hu Gua, ont déclaré avoir été influencés par Chu Ke-liang. Il a établi une tradition scénique majeure dans le monde taïwanais des variétés.
-
-## Le cancer et les réflexions de fin de vie
-
-En 2014, Chu Ke-liang reçoit un diagnostic de cancer colorectal et commence un traitement. Même dans la maladie, il continue à travailler, faisant preuve d’une grande force de volonté.
-
-Pendant sa lutte contre le cancer, il chérit plus que jamais le temps passé avec sa famille et son public, abordant chaque représentation avec sérieux. Son attitude optimiste face à la maladie touche de nombreuses personnes.
-
-Dans des entretiens, il exprime ses réflexions sur la vie et affirme que pouvoir apporter de la joie au public est son plus grand accomplissement. Cet amour de la scène inspire le respect.
-
-## L’adieu de 2017
-
-Le 15 mai 2017, Chu Ke-liang meurt d’un cancer colorectal à l’Hôpital universitaire national de Taïwan, à l’âge de 70 ans[^5]. Sa disparition suscite un large deuil dans la société taïwanaise, et des personnalités de tous horizons expriment leur souvenir et leur affection.
-
-De nombreux amis du monde du spectacle et de nombreux admirateurs assistent à ses funérailles, dans une atmosphère émouvante. Sa mort marque la fin d’une époque : la culture taïwanaise des spectacles de variété perd l’une de ses figures majeures.
-
-Les médias reviennent largement sur sa carrière et soulignent son importante contribution à la culture du divertissement à Taïwan. Les images de ses prestations deviennent un précieux patrimoine culturel.
-
-## Héritage culturel
-
-Chu Ke-liang laisse derrière lui un témoignage vivant de plusieurs décennies de culture populaire taïwanaise. Ses archives filmées couvrent la période allant des spectacles de marchés de nuit à l’âge d’or de la télévision, documentant les transformations rapides de la structure sociale taïwanaise.
-
-La tradition comique en taïwanais qu’il a créée continue d’influencer les artistes qui lui succèdent, et de nombreux jeunes interprètes apprennent de ses performances tant sur le plan technique que spirituel.
-
-Chu Ke-liang prouve qu’un artiste issu des milieux populaires peut accomplir de grandes choses. Son parcours a encouragé d’innombrables personnes nourrissant un rêve de scène.
-
-L’« humour à la Chu » est devenu un type distinctif de comédie taïwanaise, tandis que les images de ses spectacles constituent désormais des archives historiques de la culture populaire taïwanaise.
-
-Des linguistes ont analysé la structure de l’humour à la Chu et en ont dégagé plusieurs éléments centraux : les tons et la phonologie du taïwanais créent des effets de rime naturels ; les jeux de mots en minnan permettent à un même terme de porter simultanément deux sens ; le mélange d’argot de rue et de vocabulaire classique produit un effet de contraste ; enfin, les nombreuses références contextuelles, ces allusions que « l’on comprend si l’on sait », construisent un espace de connivence entre lui et son public central.
+En 2022, son fils aîné Hsieh Shun-fu et une équipe de startup produisent une vidéo IA « Le maître Chu et le petit moine » mêlant images réelles et synthétiques, la voix du petit moine étant doublée par sa troisième fille Hsieh Chin-ching[^1].
 
 ## Références
 
-[^1]: Article Wikipédia « Zhu Ge Liang », https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, lieu de naissance : district de Zuoying, ville de Kaohsiung
-
-[^2]: Liberty Times « Les funérailles de Zhu Ge Liang, 10 000 personnes pour un dernier adieu », https://news.ltn.com.tw/, 21 mai 2017
-
-[^3]: Taiwan TV Database, https://tv.nccu.edu.tw/, archives de l'émission « Zhu Ge Hui She »
-
-[^4]: Central News Agency « Le box-office de Big Fish & Begonia dépasse les NT$300 millions », https://www.cna.com.tw/, rapport sur le box-office de février 2013
-
-[^5]: udn news « Zhu Ge Liang est décédé le 15 mai à l'âge de 70 ans », https://udn.com/, 15 mai 2017
+[^1]: Article Wikipédia « Chu Ko-liang », https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE (consulté le 2026-10-22 ; vie, chronologie, style artistique, maladie et funérailles)

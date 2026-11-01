@@ -241,8 +241,9 @@ const termsJSON = JSON.stringify(terms);
   ───────────────────────────────────────────────────
   - Wrappers (header, filter bar, grid container, footer, fork popup)
     moved to inline Tailwind
-  - `.term-page` kept as hook: referenced in global.css
-    `body.page-default main.term-page { padding-top: 0 }`
+  - `.term-page` kept as hook. The old global.css exemption
+    `body.page-default main.term-page { padding-top: 0 }` is gone: since
+    2026-10-23 the header offset only applies to Layout's #main-content
   - Repeating card pattern (.term-card + all .card-* / .expand-* /
     .fork-badge / .fork-point children) stays in scoped <style>
     because it repeats per term (~100s of cards)
@@ -756,7 +757,8 @@ const termsJSON = JSON.stringify(terms);
       eTwPath = escHtml(twPath),
       eCnPath = escHtml(cnPath);
 
-    popupTitle.textContent = `🌿 ${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`;
+    popupTitle.innerHTML = window.twmdIcon('leaf') + ' ';
+    popupTitle.append(`${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`);
 
     // Draw mini fork tree with SVG (no D3 needed for single term)
     const W = 500,

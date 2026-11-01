@@ -10,7 +10,7 @@ export function decorateUiIcons(root) {
     if (
       !parent ||
       parent.closest(
-        'svg,script,style,pre,code,blockquote,.prose,[data-preserve-emoji]',
+        'svg,script,style,pre,code,textarea,blockquote,.prose,.article-content,.diary-content,[data-preserve-emoji]',
       )
     )
       continue;

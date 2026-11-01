@@ -1,24 +1,333 @@
 ---
-title: 'Puma Shen: He Studied China’s Cognitive Warfare. Then China Marked Him on a Satellite Map'
-description: 'In 2021, Puma Shen and strategic studies scholar Ho Cheng-hui co-founded Kuma Academy. Robert Tsao donated NT$600 million in support, with the goal of training three million civil defense volunteers in three years. In February 2024, Shen entered the legislature as a Democratic Progressive Party legislator-at-large. On October 28, 2025, he became the first elected Taiwanese politician placed under investigation by China for “splitting the state,” while CCTV paired the case with an “exposé” warning: “You could be next.” On New Year’s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; on Valentine’s Day, he was on a plane to France. On May 13, the DPP formally drafted him to run for mayor of Taipei, the very city whose coordinates had been marked on a satellite map.'
+title: 'Shen Bo-yang: He researched Chinese cognitive warfare, then China put him on a satellite map'
+description: 'In 2021, Shen Bo-yang co-founded the Black Bear Academy with strategic scholar Ho Cheng-hui, with a NT$600 million donation from Robert Tsao supporting the goal of training three million civil defense volunteers in three years. In February 2024, he entered the legislature as a DPP at-large legislator. On October 28, 2025, he became the first Taiwanese elected politician to be investigated by China on charges of "secession," with CCTV airing an "exposé" special warning "the next one is you." On New Year''s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; he spent Valentine''s Day on a flight to France. On May 13, the DPP officially nominated him to run for Taipei mayor, seeking to lead the very city whose coordinates had been marked on a satellite map.'
 date: 2026-04-27
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治人物'
 tags:
   [
-    'cognitive warfare',
-    'Kuma Academy',
-    'legislator',
-    'China’s united-front work against Taiwan',
+    'Cognitive warfare',
+    'Black Bear Academy',
+    'Legislator',
+    "China's united front operations against Taiwan",
     'Doublethink Lab',
-    'transnational repression',
-    'democratic defense',
+    'Transnational repression',
+    'Democratic defense',
   ]
+subcategory: '政治人物'
+author: 'Taiwan.md Contributors'
+difficulty: 'intermediate'
 readingTime: 18
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/沈伯洋.md'
+image: '/article-images/people/puma-shen-election-2024.webp'
+imageCredit: '曾成訓 / Flickr'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg'
+lifeTree:
+  protagonist: '沈伯洋'
+  birthYear: 1982
+  span: '1982–2026'
+  source:
+    article: 'knowledge/People/沈伯洋.md'
+    commit: '45a9a00c'
+    commitDate: '2026-04-28'
+    extractedBy: 'Taiwan.md (Semiont) θ'
+    extractedAt: '2026-04-28 ~15:00 +0800'
+    note: '從原文 footnote chain（鏡週刊 pol002 origin scene + 5 個月新事件 ltn/cna/Taipei Times）抽取。本人是 2026 年仍在進行式的人物，escalation 還在發生（2026-04 北市長轉軌進行中）。每個 turning 對位「往學術路徑」「往防衛路徑」「往沉默路徑」三股拉力。'
+  intro: '一個從少年觀護所拖地少年鞠躬開始問「為什麼我們對待人的態度，在不同的地方會有這麼大的差別？」的犯罪學者，二十年後成為首位被中國以「分裂國家罪」立案偵查的台灣民選政治人物。他研究中共認知戰七年，第八年起這些東西反過來找上他——從學術論文到 USCC 作證、黑熊學院三百萬勇士、2024 立委、2025 央視「下一個就是你」、2026 元旦衛星圖 doxxing、情人節在飛機上度過。每個 turning 都有「往學術路徑」「往防衛路徑」「往沉默路徑」三股拉力。這棵樹列出他選的，也列出他沒選的。'
+  themes:
+    - id: 'scholar-public'
+      label: '學術 vs 公共行動'
+      color: '#3B82F6'
+    - id: 'legal-criminology'
+      label: '法律 vs 犯罪學'
+      color: '#8B5CF6'
+    - id: 'target-defender'
+      label: '獵物 vs 提問者'
+      color: '#EF4444'
+    - id: 'private-public'
+      label: '個人 vs 公共'
+      color: '#10B981'
+  nodes:
+    - id: 'birth'
+      year: 1982
+      age: 0
+      type: 'given'
+      theme: 'legal-criminology'
+      label: '出生於台北'
+      scene: '父親沈土城從事工商業，家庭是台灣戰後經商階層。後來這位父親會因為兒子的身份在 2025 年被中國制裁、海關註銷他的進口商註冊。父母給他的不是政治的火種，是一個在台灣最尋常的中產台北家庭起點。'
+      sources: ['^9']
+    - id: 'jianzhong-track'
+      year: 1994
+      age: 12
+      type: 'choice'
+      theme: 'legal-criminology'
+      scene: '從復興幼兒園、復興小學、復興中學一路念上來，建中畢業'
+      chose:
+        label: '台北精英學校系統一路向上'
+        consequence: '中學時就察覺階級的存在：「復興的同學討論新開的日本料理店，建中同學吃排骨便當，他們吃黑糖冰，是點只加糖水的白冰。」這種「同樣的城市，不同人吃不同的冰」的早期觀察，後來會變成他研究犯罪學「同樣的青少年，在不同地方被以不同方式對待」這個命題的起點。'
+      alternatives:
+        - label: '一路精英但無階級覺察'
+          plausibility: 'structural'
+          note: '同代多數復興+建中學生不會把「同學吃白冰」當作觀察素材。如果他停在「我也吃排骨便當」的同質化身份，少了從 1994 年就建立的階級之眼，後來看 2018 年中共對台統戰的不對稱性會少一個視角。'
+      sources: ['^1']
+    - id: 'pumashen-juku'
+      year: 2000
+      age: 18
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '台大法律系大學時期開始補教業，補刑法'
+      chose:
+        label: '取藝名「撲馬」（Puma）'
+        consequence: '這個藝名後來跟著他走過二十多年——從補教界、學界、智庫、立法院。他現在所有官方社群帳號（Threads / X / Instagram）都用 @pumashen。這是台灣很罕見的「補教藝名變身學者社群品牌」軌跡。'
+      alternatives:
+        - label: '不做補教'
+          plausibility: 'structural'
+          note: '台大法律的同學主流路徑是大三大四開始準備律師、司法官、外交特考。如果他走這條，少了「教刑法給準備考試的學生」這段教學經驗，後來在 USCC 作證、黑熊學院教民防的「把專業化為大眾語言」能力會慢累積。'
+        - label: '用本名走補教'
+          plausibility: 'speculative'
+          note: '[推測] 多數補教老師用本名建品牌。Puma 這個 brand 的產生暗示他從一開始就把「補教身份」跟「學術身份」分開——這個分層後來在他「立委身份 vs 黑熊學院創辦人身份」的法律隔離中又出現了一次。'
+      sources: ['^1', '^10']
+    - id: 'legal-to-criminology'
+      year: 2008
+      age: 26
+      type: 'choice'
+      theme: 'legal-criminology'
+      scene: '台大法律 LL.B.（2004）+ 賓大法學 LL.M.（2007）+ 台大刑法 LL.M.（2008）一路念到一個高峰。學長的量販店案讓他第一次看見法律的另一面：學長替大型量販業者告一名果農，「果農被嚇到，答應和解，但金額很高，基本上一個家庭就毀了」'
+      chose:
+        label: '寫下「法律念久了，真的可能變成自己本來不想成為的人」'
+        consequence: '這是他從「替系統服務的法律人」往「研究系統怎麼運作的犯罪學者」轉軌的關鍵 trigger。一年後他申請 UC Irvine 的犯罪、法律與社會學博士。同一段他另外去看少年觀護所——典獄長踏過拖地的水痕，他繞過去，兩個少年朝他鞠躬。「為什麼我們對待人的態度，在不同的地方會有這麼大的差別？」這個問題後來引導他二十年。'
+      alternatives:
+        - label: '走律師事務所或大企業法務'
+          plausibility: 'structural'
+          note: '台大法律 + 賓大 LL.M. 的標準產出路徑。年薪數百萬、體面、可預測。如果他走這條，學長量販案那個畫面只會是「職業的一部分」不會變成 trigger。後來 USCC 證詞的工程學切角不會發生。'
+        - label: '走法官 / 檢察官'
+          plausibility: 'structural'
+          note: '同樣是台大法律高分組的出口。如果走這條，他會是「在司法系統內部」的人，跟後來「研究國家怎麼對人」的位置完全相反。'
+      sources: ['^1']
+    - id: 'uci-social-ecology'
+      year: 2017
+      age: 35
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '加州大學爾灣分校（UC Irvine）犯罪、法律與社會學博士。畢業時拿到北卡羅萊納州立大學等美國學校的終身教職邀約。爾灣是「全美治安第一」的城市——「街道都長得一樣，讓小偷混淆，門不用鎖。」他的五位口試教授勸他：「你那麼關心台灣，為什麼不回去。」'
+      chose:
+        label: '拒絕美國終身教職、回台灣'
+        consequence: '他的解釋很短：「空氣不好反正從小汙染過了，塑化劑也都吃過了。就自己的家嘛。」博士訓練不是純法學院，而是 UC Irvine 的 School of Social Ecology——跨犯罪學、都市規劃、公共政策、環境心理學。這個訓練決定了他後來研究中共認知戰的角度——不從法條切，從「人怎麼在環境裡被影響」切。'
+      alternatives:
+        - label: '接受北卡終身教職留美'
+          plausibility: 'structural'
+          note: '同代留美台灣博士的主流路徑：終身教職、stable career、在美國學界做 Asian Studies 但不直接介入台灣政治。如果他留下，2018 年「開始研究中共對台資訊戰」這條主軸不會發生在台北現場——觀察距離不一樣，黑熊學院更不會誕生。'
+        - label: '回台但走純法律學院'
+          plausibility: 'structural'
+          note: '台大法律 / 政大法律的助教授位置。穩定、社經地位高，但不是 Social Ecology 訓練出的犯罪學者，後來「五條線分析」「China Index 99 維度」這種跨界框架不會誕生。'
+      sources: ['^1', '^12', '^13']
+    - id: 'research-pivot-2018'
+      year: 2018
+      age: 36
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '進國立臺北大學犯罪學研究所助理教授一年後，他開始把研究重心從原本的白領犯罪、刑事政策，轉向「中共對台統一行為，特別是資訊戰」'
+      chose:
+        label: '開始系統性蒐集中共對台資訊戰證據'
+        consequence: '把中共對台統戰拆成五條線：國家安全部、中央統戰部、中央台辦、解放軍、共青團。這個分析框架後來變成台灣民間理解認知戰的標準語言。七年後他寫的這些 Q&A、五條線、China Index，沒有一個能保護他自己——但他研究得夠久，知道該怎麼回視。'
+      alternatives:
+        - label: '繼續寫白領犯罪'
+          plausibility: 'structural'
+          note: '他的博論主題是白領犯罪。同代多數博士會延續博論方向五到十年累積學術 publication 衝終身教職。如果走這條，他會在 SSCI 期刊發更多論文，但不會進中共懲戒名單，沈伯洋這個名字只會留在學術圈。'
+        - label: '研究但不公共化'
+          plausibility: 'structural'
+          note: '另一條學術潔癖路：寫論文但不上 podcast、不接受訪談、不創辦 NGO。如果他停在學術圈，後來的 Doublethink Lab、China Index、《打台灣不如騙台灣》、黑熊學院這些公共產品都不會發生。'
+      sources: ['^4']
+    - id: 'doublethink-2019'
+      year: 2019
+      age: 37
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '創辦台灣民主實驗室（Doublethink Lab）擔任理事長'
+      chose:
+        label: '把研究做成 NGO + 國際指數'
+        consequence: "2022 年發布 China Index——覆蓋逾八十國、九大維度共九十九項指標的「中國影響力指數」。這份指數至今仍是國際政界、媒體界引用最頻繁的中共對外影響力資料庫之一。也就是這個 NGO + Index 的能見度，讓他 2023 年到美國國會委託的 USCC 作證——「Hearing on China's Global Influence and Interference Activities」。學術 + NGO + 國際雙軌，缺一個都接不上。"
+      alternatives:
+        - label: '只做學術不做 NGO'
+          plausibility: 'structural'
+          note: '同代研究中共議題的學者多數選這條：寫期刊、跑研討會、不創組織。如果他走這條，沒有 China Index 這種 data-driven 國際 visibility，USCC 作證機會也不會出現。'
+      sources: ['^16', '^17', '^18']
+    - id: 'kuma-academy'
+      year: 2021
+      month: 12
+      age: 39
+      type: 'choice'
+      theme: 'target-defender'
+      scene: '與台灣戰略模擬學會研究員何澄輝共同創辦黑熊學院（Kuma Academy）'
+      chose:
+        label: '把學術轉成全民教育'
+        consequence: '黑熊學院的目標是「全民國防教育」——把民防、資安、防詐、AED/CPR、止血包紮、避難應變教給每一個願意學的台灣人。九個月後曹興誠捐六億支持，目標三年訓練三百萬「黑熊勇士」（成年人口的五分之一）。這個學院的存在 + 沈伯洋作為共同創辦人的身份，後來變成中共把他列入「台獨頑固分子」名單的關鍵 trigger——「教民防的人」對中共敘事比「寫論文的人」威脅大十倍。'
+      alternatives:
+        - label: '只寫論文不辦學院'
+          plausibility: 'structural'
+          note: '研究者多數選這條。如果他停在 Doublethink Lab + 期刊，2024 年 10 月國台辦不會把他列入懲戒名單，他現在不會是「箭靶」。但反過來，台灣不會有黑熊學院這個三百萬勇士基礎建設。'
+        - label: '走 think tank 顧問路徑'
+          plausibility: 'structural'
+          note: '另一條公共學者路徑：擔任政府智庫顧問、不直接面向公民。穩定、有政策影響力但低 visibility。如果走這條，他會在台灣安保協會這類 think tank 寫報告，不會在街上有黑熊勇士課程的招牌。'
+      sources: ['^20', '^22', '^24']
+    - id: 'dpp-legislator-2024'
+      year: 2024
+      month: 2
+      age: 41
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '2023 年 11 月民進黨公布 2024 不分區立委名單，沈伯洋排第二順位（僅次於兒童權益倡議者林月琴）。2024 年 1 月當選、2 月就任第十一屆立委'
+      chose:
+        label: '從學者變立委'
+        consequence: '他領銜民進黨團推動十部國安修法（兩岸條例、港澳條例、國籍法、國安法、通保法、反滲透法、資安法、刑法、陸海空軍刑法、國家情報工作法）。2025 年起擔任立法院外交及國防委員會召集委員。從研究者變立法者——這條轉軌讓他成為中共「正在做政策的具體個人」，懲戒成本從「點名一個學者」升到「點名一個民選立委」。'
+      alternatives:
+        - label: '拒絕不分區提名'
+          plausibility: 'structural'
+          note: '同代學者被提名後選擇婉拒的不少（理由：保留學術獨立性 / 不想進政治）。如果他拒絕，他會繼續在 NTPU 教書、在 Doublethink Lab 寫報告，不會是「首位被中國以分裂國家罪立案的台灣民選政治人物」——但黑熊學院相關政策推動會慢得多。'
+        - label: '進其他政黨或無黨'
+          plausibility: 'speculative'
+          note: '[推測] 他的研究專長跟民進黨「抗中保台」路線高度匹配。其他政黨難以提供同等政策載體。'
+      sources: ['^4', '^30', '^31']
+    - id: 'gtao-listing-2024'
+      year: 2024
+      month: 10
+      day: 14
+      age: 42
+      type: 'event'
+      theme: 'target-defender'
+      label: '國台辦把沈伯洋、曹興誠、黑熊學院列入「台獨頑固分子」名單'
+      scene: '禁止本人及家屬進入大陸、香港、澳門。沈伯洋第一次被中共國家機器點名。從這天開始，escalation 階梯一級一級往上，他自己用一句話收齊：「這是一年內第 6 次。」'
+      sources: ['^33']
+    - id: 'pinhole-camera-2025'
+      year: 2025
+      month: 8
+      age: 43
+      type: 'choice'
+      theme: 'private-public'
+      scene: '在主持人鄭弘儀《話時代人物》節目首度公開：他「一天到晚」被人跟蹤。最直接的一次發生在他家門口——一輛摩托車的「螺絲」其實是針孔攝影機，電池被藏在坐墊下，外觀偽裝成螺絲。報警後不到一小時車就消失了。同期收到恐嚇信，附上他與妻子曾心慧合照、在曾心慧衣服上寫了一個「死」字、揚言要對他們的女兒割喉'
+      chose:
+        label: '公開講出來'
+        consequence: '他在節目上說：「這很惡劣，但這就是共產黨會做的事，我們心裡早有準備。」妻子曾心慧的反應是焦慮、失眠、健康惡化、社交恐懼。他選擇接住的女兒（透過勵馨基金會收養，歷時兩年程序，2021 年迎來十三個月大女嬰），後來變成中共寄到家裡的恐嚇信上那個被劃線的座標。'
+      alternatives:
+        - label: '不對外公開只報警'
+          plausibility: 'structural'
+          note: '台灣多數政治人物面對針孔 + 死亡威脅選擇低調處理（避免家人焦慮加劇 / 避免「中國威脅論」標籤化）。如果他選這條，2025 年 8 月那場節目沒有，台灣社會不會在那麼早就看到「跨境鎮壓不只在新疆，也在台北家門口」的具體畫面。'
+        - label: '完全停下公共發言保護家人'
+          plausibility: 'structural'
+          note: '另一條：把中共威脅當作「該停下來」的訊號。如果他這樣做，後來的德國國會、海牙、法國、衛星圖回應、北市長轉軌都不會發生。'
+      sources: ['^51', '^52']
+    - id: 'chongqing-prosecution-2025'
+      year: 2025
+      month: 10
+      day: 28
+      age: 43
+      type: 'event'
+      theme: 'target-defender'
+      label: '重慶市公安局以「分裂國家罪」對沈伯洋立案偵查'
+      scene: '法源是中共《刑法》加上 2024 年 6 月公布的《關於依法懲治台獨頑固分子分裂國家、煽動分裂國家犯罪的意見》（俗稱「懲獨二十二條」）。警情通報還列出舉報郵箱與電話，邀請任何人提供「線索」。沈伯洋成為**第一位被中國以分裂國家罪立案偵查的台灣民選政治人物**。當天他在臉書回應：「這是一年內第 6 次⋯下一步大概就是通緝、缺席審判；無所謂，反正『台灣人沒在怕的』。」「解決提出問題的人、解決防衛台灣的人，果然很共產黨。」'
+      sources: ['^5', '^34', '^38', '^39']
+    - id: 'cctv-7min-2025'
+      year: 2025
+      month: 11
+      day: 9
+      age: 43
+      type: 'event'
+      theme: 'target-defender'
+      label: '央視播出七分半「起底沈伯洋」偽紀錄片'
+      scene: '央視稱沈伯洋透過黑熊學院散布「中國即將武統台灣」言論並訓練「暴力台獨分子」，旁白警告：「**收手吧，否則下一個就是你**。」陸委會當天記者會把這段內容定義為「跨境鎮壓」——目的不在抓人，在迫使台灣社會在發言前自我審查。沈當晚臉書：「央視大篇幅，做了七分半關於我的偽紀錄片，威脅全球通緝。」「不管我有沒有被通緝，**Nobody cares，台灣人真的沒在理中共**。」'
+      sources: ['^6', '^37', '^41', '^43']
+    - id: 'hague-paper-tiger-2025'
+      year: 2025
+      month: 11
+      day: 22
+      age: 43
+      type: 'choice'
+      theme: 'target-defender'
+      scene: '抵達荷蘭海牙，與民進黨立委范雲一起出席國際自由聯盟（Liberal International, LI）第二〇九屆執委會與 IPAC 海牙會期。在國際刑事法院（ICC）門口拍下合照，配字四個字：「沒在怕。」隔天在 LI panel 上發言'
+      chose:
+        label: '把中國的威脅貼上學術標籤「紙老虎」'
+        consequence: '「中國真的很想阻止我繼續這些國際參與，所以一直試著透過制裁讓我無法出國。**這些動作要證明的恰恰是中國是紙老虎**——大部分是給國內看的象徵性宣傳，台灣不該怕。」（指身後的 ICC 大樓）「這是獨裁者因戰爭罪或種族屠殺受審的地方。」一個被立案的犯罪學者，站在一個國際刑事法院前，把中共的國家機器威脅 reframe 為紙老虎。研究國家暴力的學者用學術框架反過來標籤研究對象。'
+      alternatives:
+        - label: '海外避難或低調出訪'
+          plausibility: 'structural'
+          note: '同代被立案的人士多數選擇低調行程、不在公開場合留照片。如果他這樣做，沒有「他自己飛去國際刑事法院門口拍照」這個影像，沒有「沒在怕」四個字，後來 Threads 24 萬→30 萬粉的擴散基礎不會有。'
+        - label: '只去德國國會不去海牙'
+          plausibility: 'structural'
+          note: '他已 11/12 在德國聯邦議院作證。再去海牙是疊加風險。如果停在德國，「ICC 門口的照片」這個視覺敘事不會成形。'
+      sources: ['^54', '^55']
+    - id: 'satellite-doxx-2026'
+      year: 2026
+      month: 1
+      day: 1
+      age: 43
+      type: 'event'
+      theme: 'target-defender'
+      label: '中國微博帳號用商用衛星「吉林一號」公布沈伯洋台北住家座標'
+      scene: '一個粉絲眾多的中國微博帳號貼文放話要追緝沈伯洋，聲稱自費定製商用衛星「吉林一號」高解析度影像，公布沈伯洋住家（靠近大安森林公園）與工作地（濟南路一段，立法機構附近）的衛星圖。中國官媒「今日海峽」跟進轉發。兩天後外交部譴責：「肉搜這種數位威權的卑劣手法⋯喪失文明底線，令人深為不齒。」沈伯洋臉書回應：「中國標註的是我的座標，展現的卻是他們對民主台灣的集體自卑。」Meta 與 Google 幾天內下架相關貼文與圖片。'
+      sources: ['^7', '^56', '^57', '^58', '^59']
+    - id: 'france-mission-2026'
+      year: 2026
+      month: 2
+      day: 7
+      age: 43
+      type: 'choice'
+      theme: 'target-defender'
+      scene: '飛往法國執行 8 天外交任務。法國背景關鍵點：國際刑警組織（INTERPOL）總部所在地，且法國與中國簽有引渡協議——理論上是被通緝威脅下風險最高的國家'
+      chose:
+        label: '照計畫成行'
+        consequence: '任務內容是交流台灣國防部新版《全民國防手冊》、認知戰應對、社群媒體與網路戰、國家韌性。情人節在飛機上度過。回國後臉書寫：「儘管承受著被北京全球通緝的壓力，我仍按計畫完成了八天的外交任務。然而，我最終是在飛機上度過情人節。」這趟飛行直接打臉「央視全球通緝威脅」——他不躲，反而選擇跟中國有引渡協議的國家。'
+      alternatives:
+        - label: '取消法國行避免風險'
+          plausibility: 'structural'
+          note: '安全顧問會建議的標準路徑：被通緝威脅下避開有引渡協議的國家。如果他取消，「他自己飛去 INTERPOL 總部所在的法國」這個行為就不會發生，escalation reverse 的敘事弧線會缺最強的一段。'
+      sources: ['^8', '^61']
+    - id: 'arrow-target-2026'
+      year: 2026
+      month: 1
+      day: 24
+      age: 43
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '臉書長文揭中國 2026 鎖台三軸線：物理上解除武裝（藍白兩黨砍預算）+ 精神上認知改變（疑美論影響約 5% 關鍵選民）+ 選舉上資源壟斷'
+      chose:
+        label: '自嘲「我最大的功能應該還是『箭靶』」'
+        consequence: '「箭靶」這個詞之後在他的敘事裡反覆出現，是他自己給自己貼的標籤。一個學者把自己研究的對象標籤接過來、貼在自己身上，繼續工作。這不是很多人能做到的事——既是自嘲，也是冷靜的學術觀察：在中共的對台敘事裡，他確實就是要被瞄準的那一個。'
+      alternatives:
+        - label: '用受害者敘事'
+          plausibility: 'structural'
+          note: '同代被中共立案的人士多採「受害者 + 譴責」敘事。如果他選這條，他會變成國際媒體報導裡的 victim，但少了「我自己接過來這個標籤繼續工作」的學術 agency。'
+      sources: ['^60']
+    - id: 'taipei-mayor-rumor-2026'
+      year: 2026
+      month: 4
+      age: 43
+      type: 'choice'
+      theme: 'scholar-public'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      chose:
+        label: '不否認、剪短髮、準備'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+      alternatives:
+        - label: '婉拒提名'
+          plausibility: 'structural'
+          note: '現任立委婉拒提名很常見。如果他婉拒，會以「不分區立委 + 黑熊學院創辦人 + Doublethink Lab 理事長」三重身份延續到 2028 大選——這條 path 更穩，但少了「在被標註的城市選市長」的對位敘事。'
+        - label: '辭立委先全力競選'
+          plausibility: 'structural'
+          note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
+      sources: ['^62', '^63', '^64', '^65']
+    - id: 'mayor-nominated-2026'
+      year: 2026
+      month: 5
+      day: 13
+      age: 43
+      type: 'event'
+      theme: 'scholar-public'
+      label: '民進黨正式徵召沈伯洋參選台北市長'
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68', '^69']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -29,392 +338,402 @@ sporeLinks:
     date: '2026-04-28'
     url: 'https://x.com/taiwandotmd/status/2048970734253551638'
 translatedFrom: 'People/沈伯洋.md'
-sourceCommitSha: 'e1b5668ad'
-sourceContentHash: 'sha256:ccbab3f1822e47af'
-sourceBodyHash: 'sha256:ec031917f07c2762'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: /article-images/people/puma-shen-election-2024.webp
-imageCredit: 曾成訓 / Flickr
-imageLicense: CC BY 2.0
-imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
-difficulty: 'intermediate'
+sourceCommitSha: '9af7a12e4'
+sourceContentHash: 'sha256:e87e033f31d5dc71'
+sourceBodyHash: 'sha256:240cf090fab51e1a'
+translatedAt: '2026-10-22T05:57:08.928881+00:00'
 ---
 
-# Puma Shen: He Studied China’s Cognitive Warfare. Then China Marked Him on a Satellite Map
+# Shen Bo-yang: He Studied China's Cognitive Warfare, Then China Put Him on Satellite Imagery
 
-One afternoon in the 2010s, a law doctoral student in his early thirties followed a prison warden into the Taipei Juvenile Detention House. The floor had just been mopped; the streaks of water had not yet dried. The warden stepped across them, and the visiting group followed. He stopped and walked around them. Two boys who were mopping the floor looked up, bowed to him, and softly said, “Thank you.”[^1]
+One afternoon in the 2010s, a law doctoral student in his early thirties followed the warden into the Taipei Juvenile Detention Center. The floor had just been mopped; water stains hadn't dried yet. The warden walked across, and the visiting group followed. He stopped, looked around. Two juveniles mopping the floor looked up, bowed to him, and softly said "Thank you."[^1]
 
-When he returned home that day, he wrote a question in his notes: “Why is there such a great difference in the way we treat people in different places?”[^1] That question later took him from criminal law to criminology, from academia to civil defense, from studying China’s cognitive warfare to being placed under investigation by Chinese public security, warned by CCTV that “you could be next,” and having a Chinese Weibo account use commercial satellite imagery to publish the coordinates of his home in Taipei.
+That night, back home, he wrote a question in his notes: "Why is there such a huge difference in how we treat people in different places?"[^1] This question later led him from criminal law to criminology, from academia to civil defense, from studying China's cognitive warfare to being investigated by Chinese public security, warned by CCTV that "the next one is you," and having his home coordinates in Taipei published by a Chinese Weibo account using a commercial satellite.[^1]
 
-His name is Puma Shen. In Chinese, Shen Po-yang; his cram-school stage name was Puma. Born in Taipei in 1982, he is an associate professor and director of the Graduate School of Criminology at National Taipei University.[^2] He studies the Chinese Communist Party’s information warfare, cognitive operations, and transnational repression against Taiwan. He spent seven years studying these things. In the eighth year, they came back for him.
+His name is Shen Bo-yang. Stage name Puma, Puma Shen. Born in 1982 in Taipei, he is an associate professor and director of the Graduate Institute of Criminology at National Taipei University.[^2] He studies the CCP's information warfare, cognitive operations, and transnational repression against Taiwan. He studied these things for seven years; in the eighth year, these things turned around and came for him.
 
-> **30-second overview:** Puma Shen (born 1982) is an associate professor and director of the Graduate School of Criminology at National Taipei University. In 2021, he co-founded [Kuma Academy](https://kuma-academy.org/) with strategic studies scholar Ho Cheng-hui. Robert Tsao donated NT$600 million in support, with the goal of training three million “Kuma warriors” in three years.[^3] In February 2024, Shen was elected a Democratic Progressive Party legislator-at-large.[^4] Beginning in October 2024, China sanctioned him six times in one year. On October 28, 2025, he became the first elected Taiwanese politician placed under investigation by China for “splitting the state,”[^5] and on November 9 CCTV paired the case with a seven-and-a-half-minute “exposé” warning: “You could be next.”[^6] On New Year’s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei.[^7] He kept flying to The Hague, Germany, and France; in 2026, he spent Valentine’s Day on a plane to France.[^8] In May, the DPP formally drafted him to run for Taipei mayor against the incumbent Chiang Wan-an.[^66]
+> **30-Second Overview:** Shen Bo-yang (born 1982), associate professor and director of the Graduate Institute of Criminology at National Taipei University. In 2021, he co-founded the [Black Bear Academy](https://kuma-academy.org/) with strategic scholar Ho Cheng-hui, with Robert Tsao donating NT$600 million in support, aiming to train three million "Black Bear Warriors" in three years.[^3] In February 2024, he was elected as a DPP at-large legislator.[^4] Starting from October 2024, he was sanctioned six times by China within a year; on October 28, 2025, he became the first Taiwanese elected politician to be investigated by China for the "crime of splitting the country."[^5] On November 9, CCTV aired a seven-and-a-half-minute "exposé" warning "the next one is you."[^6] On New Year's Day 2026, a Chinese Weibo account used a commercial satellite to publish the coordinates of his home and workplace in Taipei.[^7] He continued to fly to The Hague, Germany, and France; he spent Valentine's Day 2026 on a plane to France.[^8] In May, the DPP officially nominated him to run for Taipei mayor, challenging incumbent Chiang Wan-an seeking re-election.[^66]
 
-## “Do Not Interrupt or Talk Back When the Teacher Is Speaking”
+## "Don't interrupt or talk back when the teacher is speaking"
 
-In Shen’s elementary-school communication notebook, a teacher once wrote: “**Do not interrupt or talk back when the teacher is speaking. Po-yang is not bad by nature, but he sometimes loses control and has no regard for others**.” His mother replied underneath: “**He really does have a bad attitude and no regard for others**.” In junior high school, he once gave a teacher the middle finger.[^1] The year he was interviewed by _Mirror Media_ at age thirty-seven, he still wore a mass of curly hair, T-shirts, and shorts. His favorite fictional character was Yang Guo: “**Total rebellion. That is what I like most**.”[^1]
+In Shen Bo-yang's elementary school contact book, a teacher once wrote: "**Don't interrupt or talk back when the teacher is speaking. Bo-yang's nature isn't bad, but he occasionally loses control and looks down on everyone.**" His mother replied underneath: "**He really does have a terrible attitude, looks down on everyone.**" In junior high he flipped off a teacher.[^1] At thirty-seven, the year Mirror Weekly interviewed him, he still wore an explosion of hair, a T-shirt, and shorts. His favorite character was Yang Guo — "**utter rebellion; that's the version of him I like best.**"[^1]
 
-He attended Fuxing Kindergarten, Fuxing Elementary School, and Fuxing Junior High School before graduating from Taipei Municipal Jianguo High School and entering the Department of Law at National Taiwan University.[^9] In secondary school, he had already noticed class difference: “Fuxing classmates discussed newly opened Japanese restaurants. Jianguo classmates ate pork-rib bento boxes. They ate brown-sugar shaved ice, or just plain shaved ice with sugar water.”[^1] In college, he began working in the cram-school industry under the stage name “Puma” because it was easier to remember.[^10] That name followed him for twenty years, from cram schools to academia, think tanks, and the Legislative Yuan. All his official social-media accounts now use [@pumashen](https://www.threads.com/@pumashen).[^11]
+He went straight through Fuxing Kindergarten, Fuxing Elementary, and Fuxing Middle School, graduated from Chien Kuo High School, and tested into the NTU College of Law.[^9] In middle school he became aware of class: "**Fuxing classmates discuss the newly opened Japanese restaurant; Chien Kuo classmates eat pork-chop bento, they eat brown-sugar ice — just shaved ice with sugar syrup.**"[^1] In university he started teaching at cram schools under the stage name "Puma" because it was easier to remember.[^10] That name has followed him for twenty years — from the cram-school world, to academia, to think tanks, to the Legislative Yuan. Every one of his official social-media accounts now uses [@pumashen](https://www.threads.com/@pumashen).[^11]
 
-Two scenes moved him from being “a legal professional teaching criminal law” toward criminology.
+Two scenes turned him from a "lawyer who teaches criminal law" toward criminology.
 
-The first was a case involving a senior schoolmate and a hypermarket chain. The senior schoolmate’s client was a major hypermarket operator, which sued a fruit farmer. “The farmer was frightened and agreed to settle, but the sum was very high; basically, a family was destroyed.” The senior schoolmate told Shen: “That is what the law provides. Who told him to break the law?”[^1] Shen wrote: “**If you study law for long enough, you really may become the person you originally did not want to be**.”[^1]
+The first scene was his senior's wholesale-store case. The client was a major wholesale retailer that sued a fruit farmer. "**The farmer was terrified, agreed to settle, but the amount was huge — basically destroyed a whole family.**" The senior told Shen Bo-yang: "**The law says so; who told him to break it.**"[^1] Shen wrote: "**Study law long enough and you really can become the person you never wanted to be.**"[^1]
 
-The second was that moment of mopping at the juvenile detention house. The boys bowed to him, and he could not stop thinking: the same teenagers were people being chased outside, but people being pitied in here. The scale by which a person is judged determines what we do to them.
+The second scene was that mopping episode at the juvenile detention center. A boy bowed to him, and he couldn't stop thinking: the same teenager, outside is someone hunted; inside is someone pitied; the yardstick you use to measure a person decides what you do to them.
 
-> **📝 Curator’s Note**
-> A scholar who later studied state violence began his academic intuition about “how people are treated” with the bows of two boys mopping a floor. More than a decade later, when the CCP placed him under investigation and CCTV made him the subject of a pseudo-documentary, he still did not write himself as a victim. That sense of proportion may well have begun on that day at the juvenile detention house.
+> **📝 Curator's Note**
+> A scholar who would later research state violence — his academic intuition about "how people are treated" began with two mopping boys' bows. More than a decade later the CCP opened an investigation, CCTV produced a fake documentary, and he still refuses to write himself as a victim. That sense of proportion likely started the day he stood in the juvenile detention center.
 
-## Puma and the Choice to Leave the United States Twice
+## Puma and Two Choices to Leave the United States
 
-Shen’s educational timeline is as simple as an airline stub. LL.B. from National Taiwan University Law (2004), LL.M. from the University of Pennsylvania Law School (2007), LL.M. in criminal law from National Taiwan University (2008), and PhD in Criminology, Law and Society from the University of California, Irvine (2017). His dissertation advisers were two major scholars of white-collar crime, Henry Pontell and Elliott Currie.[^12]
+Shen Bo-yang's academic timeline is as simple as a flight stub. NTU Law LL.B. (2004), University of Pennsylvania Law LL.M. (2007), NTU Criminal Law LL.M. (2008), UC Irvine Criminology, Law and Society PhD (2017). His doctoral advisors were two heavyweight scholars in white-collar crime research, Henry Pontell and Elliott Currie.[^12]
 
-For his five years in Irvine, he lived in what he described as “the safest city in the United States”: “The streets all look the same, so thieves get confused, and you do not need to lock your door.”[^1] When he graduated in 2017, he received tenure-track offers from U.S. universities, including North Carolina State University.[^13] His five dissertation-committee professors urged him to return to Taiwan: “You care so much about Taiwan. Why not go back?”[^1]
+He spent those five years in Irvine living in the "safest city in America"—"the streets all look the same, confusing burglars; doors don't need locks."[^1] Upon graduating in 2017, he received tenure-track offers from U.S. schools including North Carolina State University.[^13] His five oral exam professors urged him to return to Taiwan: "You care so much about Taiwan, why don't you go back."[^1]
 
-His own explanation for choosing to return was brief: “**The air is bad, but I grew up polluted anyway; I have eaten plasticizers too. It is my own home**.”[^1]
+His own explanation for choosing to return was brief: "The air's bad, but I've been breathing pollution since childhood; I've eaten my share of plasticizers too. It's my home, after all."[^1]
 
-He returned to Taipei in 2017 and joined the Graduate School of Criminology at National Taipei University as an assistant professor. In August 2023, he became its director.[^2] The university page lists his research fields as criminal law, sociology of law, criminal justice policy, and white-collar crime.[^2] His doctoral training was not in a conventional law school; UC Irvine trained him in its **School of Social Ecology**, across criminology, urban planning, public policy, and environmental psychology.[^14] That training later shaped how he studied CCP cognitive warfare: not through statutes, but through how people are affected within their environments.
+He returned to Taipei in 2017 and joined the Graduate Institute of Criminology at National Taipei University as an assistant professor. In August 2023, he became the institute director.[^2] The university webpage lists his research areas as criminal law, sociology of law, criminal policy, and white-collar crime.[^2] His doctoral training was not in a pure law school—UC Irvine placed him in the School of Social Ecology, spanning criminology, urban planning, public policy, and environmental psychology.[^14] This training later determined his angle on studying the CCP's cognitive warfare—not from legal statutes, but from "how people are influenced within their environment."
 
-Two years later, he began applying that lens in another direction.
+Two years later, he began turning this lens in another direction.
 
-## “Fighting Taiwan Is Less Effective Than Fooling Taiwan”
+## "Better to Deceive Taiwan Than Attack It"
 
-![Puma Shen, then an assistant professor at National Taipei University’s Graduate School of Criminology, holding a microphone during a 2021 lecture at a Chiayi County government institution on information warfare and identifying disinformation](/article-images/people/puma-shen-information-warfare-lecture-2021.webp)
+![Shen Bo-yang, as an assistant professor at the Graduate Institute of Criminology, National Taipei University, delivering a lecture at a Chiayi County government agency in 2021, explaining information warfare and fake news identification](/article-images/people/puma-shen-information-warfare-lecture-2021.webp)
 
-_In January 2021, Shen lectured on information warfare and identifying disinformation at the Chiayi County Human Resources Development Center. This was the everyday field of his research on CCP cognitive warfare. Photo: Chiayi County Human Resources Development Center. [Attribution via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puma_Shen%27s_lecture_about_information_warfare_in_Chiayi_20210227a.jpg)._
+_In January 2021, Shen Bo-yang lectured on information warfare and fake news identification at the Chiayi County Human Resources Development Office; this was a typical scene from his research on the CCP's cognitive warfare. Photo: Chiayi County Human Resources Development Office. [Attribution via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puma_Shen%27s_lecture_about_information_warfare_in_Chiayi_20210227a.jpg)._
 
-In 2018, Shen began systematically collecting evidence of CCP information warfare against Taiwan. He broke the CCP’s united-front operations against Taiwan into five lines: the Ministry of State Security, the United Front Work Department, the Taiwan Affairs Office, the People’s Liberation Army, and the Communist Youth League.[^15] Each line has its own budget, tools, and tempo. This analytical framework later became the standard vocabulary through which Taiwanese civil society understood cognitive warfare.
+In 2018, Shen Bo-yang began systematically collecting evidence of the CCP's information warfare against Taiwan. He broke down the CCP's united front work against Taiwan into five lines: the Ministry of State Security, the United Front Work Department, the Taiwan Affairs Office, the People's Liberation Army, and the Communist Youth League.[^15] Each line had its own budget, tools, and tempo. This analytical framework later became the standard language for civil society in Taiwan to understand cognitive warfare.
 
-In 2019, he co-founded [Doublethink Lab](https://doublethinklab.org/) with civil-society researchers and served as its chair.[^16] On April 25, 2022, they launched the [China Index](https://china-index.io/), a “China influence index” covering more than eighty countries, nine domains (media, academia, economy, society and culture, military, law enforcement, technology, politics, and foreign affairs), and ninety-nine indicators.[^17] The index remains one of the databases on the CCP’s external influence most frequently cited by international political and media circles. Shen later used this data as the basis for testimony before the U.S. Congress-mandated [U.S.-China Economic and Security Review Commission](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) (USCC) in 2023.[^18]
+In 2019, he co-founded the [Taiwan Democracy Lab](https://doublethinklab.org/) (Doublethink Lab) with civil society researchers and served as its chairman.[^16] On April 25, 2022, they released the [China Index](https://china-index.io/)—a "China Influence Index" covering over 80 countries across nine dimensions (media, arts, economy, society and culture, military, law enforcement, technology, politics, and foreign affairs) with a total of 99 indicators.[^17] This index remains one of the most frequently cited databases on the CCP's foreign influence by international political and media circles. Shen Bo-yang himself later testified before the U.S. Congress-commissioned [U.S.-China Economic and Security Review Commission](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) (USCC) in 2023 based on this data.[^18]
 
-In July 2024, Shen and Doublethink Lab researcher Wu Ming-hsuan co-authored [_Fighting Taiwan Is Less Effective Than Fooling Taiwan: Q&A on China’s Cognitive Warfare Against Taiwan_](https://www.locuspublishing.com/book/detail/10514), published by Locus Publishing. The title itself was the argument. For the CCP, using force is too expensive; deceiving Taiwanese into not voting or voting the wrong way is much cheaper.[^19] The book was later cited repeatedly in the political pages of CNA, _United Daily News_, and _Liberty Times_. The phrase “fighting Taiwan is less effective than fooling Taiwan” became shorthand for describing the CCP’s strategy toward Taiwan.
+In July 2024, Shen Bo-yang and Taiwan Democracy Lab researcher Wu Ming-hsuan co-published ["Better to Deceive Taiwan Than Attack It: Q&A on China's Cognitive Warfare Against Taiwan"](https://www.locuspublishing.com/book/detail/10514) (Dakuai Culture). The title itself is the argument. For the CCP, military action is too costly; deceiving Taiwanese into not voting or voting incorrectly is too cheap.[^19] The book was subsequently repeatedly cited in the political sections of CNA, United Daily News, and Liberty Times. These eight characters "Better to deceive Taiwan than attack Taiwan" became a shorthand for describing the CCP's strategy toward Taiwan.
 
-![The cover of *Fighting Taiwan Is Less Effective Than Fooling Taiwan: Q&A on China’s Cognitive Warfare Against Taiwan*, with a light blue background, bold black title text, and an image of a hand holding a remote control](/article-images/people/puma-shen-fighting-or-fooling-taiwan-book-2024.webp)
+![Cover of "Better to Deceive Taiwan Than Attack It: Q&A on China's Cognitive Warfare Against Taiwan," light blue background with large black title, showing a hand holding a remote control](/article-images/people/puma-shen-fighting-or-fooling-taiwan-book-2024.webp)
 
-_*Fighting Taiwan Is Less Effective Than Fooling Taiwan*, co-authored by Shen, Wu Ming-hsuan, and Doublethink Lab, was published by Locus Publishing in 2024. The cover copy states the core point: the cost of invading Taiwan is extremely high, while cognitive warfare is the “highest cost-performance weapon.” Image: Locus Publishing (fair use editorial commentary)._
+_Shen Bo-yang, Wu Ming-hsuan, and the Taiwan Democracy Lab co-authored "Better to Deceive Taiwan Than Attack It," published by Dakuai Culture in 2024. The cover copy hits the point: the cost of a military attack on Taiwan is extremely high; cognitive warfare is the "highest CP-value weapon." Image: Dakuai Culture (fair use editorial commentary)._
 
-But writing a book was not what made Chinese public security open a case. What turned him into an “enemy” was something else.
+But writing a book wouldn't get him investigated by the Chinese public security. What made him an "enemy" was something else.
 
-## Three Million Kuma Warriors
+## Three Million Black Bear Warriors
 
-![Puma Shen standing at a lectern, holding a microphone and speaking, with a Kuma Academy flag bearing a black bear emblem hanging on the wall behind him](/article-images/people/puma-shen-kuma-academy-lecture-2023.webp)
+![Shen Bo-yang stands at a podium holding a microphone, with a Black Bear Academy flag bearing the black bear emblem hanging on the wall behind him](/article-images/people/puma-shen-kuma-academy-lecture-2023.webp)
 
-_In February 2023, Shen spoke at a Kuma Academy lecture, with the academy’s flag behind him. Those who teach civil defense matter more to the CCP than those who write papers. Photo: S099001. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dr_Puma_Shen_at_Kuma_Academy_Lecture_24_Feb_2023.jpg)._
+_February 2023, Shen Bo-yang speaks at a Black Bear Academy lecture, with the academy's identification flag behind him. The person teaching civil defense draws more CCP attention than the person writing papers. Photo: S099001. [CC BY 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dr_Puma_Shen_at_Kuma_Academy_Lecture_24_Feb_2023.jpg)._
 
-At the end of 2021, Shen and Taiwan Center for Security Studies researcher Ho Cheng-hui co-founded [Kuma Academy](https://kuma-academy.org/).[^20] The academy’s goal is “all-out national defense education”: to teach civil defense, cybersecurity, fraud prevention, AED/CPR, bleeding control, first-aid bandaging, and emergency shelter response, skills that were originally limited to soldiers or professional rescuers, to every Taiwanese willing to learn.[^21]
+In late 2021, Shen Bo-yang and Taiwan Strategic Simulation Society researcher Ho Cheng-hui co-founded the [Black Bear Academy](https://kuma-academy.org/) (Kuma Academy). [^20] The academy's goal is "whole-of-society defense education" — teaching every willing Taiwanese person civil defense, cybersecurity, anti-fraud, AED/CPR, tourniquet application, and evacuation response skills that were originally known only to soldiers or professional rescuers. [^21]
 
-On September 1, 2022, Robert Tsao, the former chairman of United Microelectronics Corporation who had just left the China market after defending Taiwan’s sovereignty, held a press conference announcing that he would donate NT$600 million to Kuma Academy as part of a larger NT$3 billion donation plan to resist communism and protect Taiwan.[^22] Shen said at the press conference: “I hope every household will have one ‘Kuma warrior’ with relevant knowledge, able to protect family members in a moment of crisis.”[^23] Kuma Academy’s goal was set: **to train three million “Kuma warriors” within three years**.[^24]
+On September 1, 2022, former UMC chairman Robert Tsao, who had just exited the China market over his defense of Taiwan's sovereignty claims, held a press conference announcing a donation of NT$600 million to the Black Bear Academy as part of his larger-scale "resist China, defend Taiwan" donation plan. [^22] At the press conference, Shen Bo-yang said: "We look forward to every household having a 'Black Bear Warrior' with relevant knowledge to protect their family's safety in critical moments." [^23] The Black Bear Academy's target was set: **train three million "Black Bear Warriors" within three years**. [^24]
 
-What does three million mean? Taiwan’s population is about 23 million. After subtracting children, older adults, and people with limited mobility, three million is about one-fifth of the adult population. Tsao’s NT$600 million donation was to be disbursed in stages, by quarter, and reviewed according to the plan; the money was designed as an accountable project, not a pretty press-conference number.[^25]
+What does three million mean? Taiwan's population is approximately 23 million; excluding children, the elderly, and those with limited mobility, three million represents roughly one-fifth of the adult population. Tsao's NT$600 million is disbursed in phases — this money is designed as a project subject to verification, not a pretty press conference figure. [^25]
 
-In September 2022, Kuma Academy’s first basic camp quickly filled after registration opened.[^26] Courses included firefighting, search and rescue, medical aid, evacuation, information and communications security, information identification, public-order maintenance, AED/CPR, injury assessment, and bleeding-control bandaging.[^27] Its outdoor exercise “Operation Formosan Blue Magpie” is held regularly, simulating evacuation and rescue for noncombatants in wartime.[^28]
+In September 2022, the Black Bear Academy's first basic camp filled up quickly after registration opened. [^26] Courses include: firefighting, search and rescue, first aid, evacuation, information and communications security, information literacy, public order maintenance, plus AED/CPR, injury assessment, and tourniquet application. [^27] The outdoor exercise "Blue Magpie Action" is held regularly, simulating wartime evacuation and medical care for non-combatants. [^28]
 
-It is worth noting that Shen himself is not Kuma Academy’s legal representative. In a 2024 post on X, he wrote: “I would love to be the person in charge of [Kuma Academy], but the problem is that under regulations and the DPP’s internal rules, neither my family nor I can be the responsible person.”[^29] His roles as deputy executive director of the DPP think tank and later as a legislator required him to maintain legal distance from the NGO he founded.
+Notably, Shen Bo-yang himself is not the Black Bear Academy's legal representative. In a 2024 X post, he wrote: "I would love to be the (Black Bear Academy) person in charge, but the problem is regulations and DPP internal rules — my family and I cannot serve as the legal representative." [^29] His roles as DPP think tank deputy executive director and later as a legislator require him to maintain legal distance from the NGO he co-founded.
 
-> **📝 Curator’s Note**
-> A civil-defense system designed through a criminological frame: one in every seven adults knowing how to save themselves, detect disinformation, and stop bleeding when water and electricity are cut. Shen’s research describes how the enemy comes; Kuma Academy’s courses train people in how to hold out after being attacked. The same person pushed both projects. The symmetry is almost unnervingly calm.
+> **📝 Curator's Note**
+> A whole-of-society defense system designed with a criminology framework: one in seven adults knows how to self-rescue, spot disinformation, and apply a tourniquet when water and power are cut. Shen Bo-yang's research describes how the enemy comes; the Black Bear Academy's courses train how to hold out after the attack. One person driving both — the symmetry is unusually cool-headed.
 
-## The Sixth Time in One Year
+## Sixth Time in One Year
 
-![Puma Shen’s official portrait, showing his signature curly hair, round glasses, white shirt, and a smile](/article-images/people/puma-shen-legislator-portrait-2024.webp)
+![Official portrait of Shen Bo-yang, with his signature messy hair, round glasses, white shirt, and a smile](/article-images/people/puma-shen-legislator-portrait-2024.webp)
 
-_Shen’s official portrait as a member of the 11th Legislative Yuan in 2024. As he moved from researcher to legislator, the cost of punishment rose from “naming a scholar” to “naming an elected legislator.” Photo: Legislative Yuan. [Attribution via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puma_Shen_2024.jpg)._
+_Shen Bo-yang's official portrait upon assuming office as a legislator of the 11th Legislative Yuan in 2024. From researcher to legislator, the cost of punishment escalated from "naming a scholar" to "naming an elected legislator." Photo: Legislative Yuan. [Attribution via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Puma_Shen_2024.jpg)._
 
-On November 15, 2023, the DPP announced its 2024 legislator-at-large list. Shen was ranked second, behind only child-rights advocate Lin Yueh-chin.[^30] He was elected on January 13, 2024, and took office as a member of the 11th Legislative Yuan on February 1.[^4] He led the DPP caucus in pushing ten national-security law amendments: the Act Governing Relations Between the People of the Taiwan Area and the Mainland Area, the Laws and Regulations Regarding Hong Kong and Macao Affairs, the Nationality Act, the National Security Act, the Communication Security and Surveillance Act, the Anti-Infiltration Act, the Cyber Security Management Act, the Criminal Code, the Criminal Code of the Armed Forces, and the National Intelligence Services Act.[^31] Beginning in 2025, he served as a convener of the Legislative Yuan’s Foreign Affairs and National Defense Committee.[^32]
+On November 15, 2023, the DPP released its 2024 at-large legislator list, with Shen Bo-yang ranked second, behind children's rights advocate Lin Yueh-chin. [^30] He was elected on January 13, 2024, and assumed office as a legislator of the 11th Legislative Yuan on February 1. [^4] He led the DPP caucus in pushing for amendments to ten national security laws (the Cross-Strait Act, the Hong Kong and Macau Relations Act, the Nationality Act, the National Security Act, the Trade Act, the Anti-Infiltration Act, the Cyber Security Management Act, the Criminal Code, the Criminal Code of the Armed Forces, and the National Intelligence Work Act). [^31] Starting in 2025, he serves as the convener of the Legislative Yuan's Foreign Affairs and National Defense Committee. [^32]
 
-But on October 14 of that year, Taiwan Affairs Office spokesperson Chen Binhua announced that Shen, Robert Tsao, and Kuma Academy itself had been placed on the list of “diehard Taiwan independence separatists,” with Shen and his family barred from entering China, Hong Kong, and Macao.[^33] It was the first time Shen had been named.
+But on October 14 of that year, TAO spokesperson Chen Binhua announced that Shen Bo-yang, Robert Tsao, and the Black Bear Academy itself were placed on the "diehard Taiwan independence separatists" list, barring them and their family members from entering the mainland, Hong Kong, and Macau. [^33] This was the first time Shen Bo-yang was named.
 
-From that day on, the escalation climbed step by step. In his Facebook post on October 28, 2025, Shen summed up the entire sequence in one sentence: “**This is the sixth time in one year**.”[^34]
+From that day on, the escalation ladder climbed rung by rung. In a Facebook post on October 28, 2025, Shen Bo-yang summed up the entire trajectory in one sentence: "**This is the 6th time in one year.**" [^34]
 
 ```tw-timeline
-From naming to a public-security case, the escalation took only thirteen months
-2024.10 | Taiwan Affairs Office names targets | Shen, Robert Tsao, and Kuma Academy listed as “diehard Taiwan independence separatists”
-2025.06 | Father’s company sanctioned | Sicuens International barred from trading with Chinese enterprises and individuals
-2025.07 | Family business registration revoked | Chinese customs cancels Sicuens importer registration
-2025.10 | Chongqing public security opens case | Investigation opened for “splitting the state,” with a tip line attached
-2025.11 | CCTV exposé | Seven-and-a-half-minute segment warns, “Stop now, or you could be next”
-Sources: Taiwan Affairs Office, Liberty Times, CNA, Xinhua, CCTV
+From naming to police case filing, punishment escalation took only thirteen months
+2024.10 | TAO names | Shen Bo-yang, Robert Tsao, Black Bear Academy placed on "diehard Taiwan independence separatists" list
+2025.06 | Father's company sanctioned | Zhaoyi Co. Ltd. barred from trading with mainland enterprises and individuals
+2025.07 | Family business deregistered | Customs revokes Sicuens importer registration
+2025.10 | Chongqing Police file case | Case filed for "crime of splitting the country," with reporting hotline
+2025.11 | CCTV exposé | 7.5-minute special, warning "stop now, or you're next"
+Sources: TAO, Liberty Times, CNA, Xinhua, CCTV
 ```
 
-Those six steps took only thirteen months. The legal basis in the Chongqing public-security notice was the CCP’s Criminal Law plus the _Opinions on Lawfully Punishing “Taiwan Independence” Diehards for the Crimes of Splitting the State and Inciting Splitting of the State_, issued in June 2024 and commonly called the “22 Guidelines to Punish Independence.”[^38] The police notice also listed a tip email, `CQGACTD@163.com`, and phone number, `023-65697660`, inviting anyone to provide “leads.”[^39]
+These six steps took only thirteen months. The legal basis for the Chongqing Police notice is the Criminal Law plus the "Opinions on Punishing Crimes of Splitting the Country and Inciting Splitting the Country by Diehard Taiwan Independence Separatists in Accordance with the Law" issued by the CCP in June 2024 (commonly known as the "22 Measures to Punish Taiwan Independence"). [^38] The police bulletin also lists a reporting email `CQGACTD@163.com` and phone number `023-65697660`, inviting anyone to provide "leads." [^39]
 
-On the day the case was opened, Shen responded on Facebook:
+On the day the case was filed, Shen Bo-yang responded on Facebook:
 
-> “This is the sixth time in one year. This time public security has directly opened an investigation. The next step will probably be a wanted notice and trial in absentia. Whatever. In any case, **Taiwanese are not afraid**.”[^34]
+> "This is the 6th time in one year, and this time it's directly a police case filing for investigation; the next step will probably be a wanted notice and trial in absentia; doesn't matter, because 'Taiwanese aren't afraid.'" [^34]
 >
-> “**Solving the person who raises the problem, solving the person who defends Taiwan: that really is very Communist Party**.”[^34]
+> "Solving the person who raises the problem, solving the person defending Taiwan — truly the Communist Party." [^34]
 
-In June 2025, his father Shen Tu-cheng’s Sicuens company was sanctioned by the CCP,[^35] and a month later the importer registration of the family business Sicuens was revoked by customs.[^36] Shen wrote in the same tone: “A great honor: sanctioned three times in one year.”[^40]
+In June 2025, his father Shen Tu-cheng's Zhaoyi company was sanctioned by the CCP [^35], and a month later the family business Sicuens had its importer registration revoked by Customs [^36]; he wrote in the same tone: "Great honor, sanctioned three times in one year." [^40]
 
-## CCTV’s Threat of “Global Arrest”
+## CCTV's "Global Arrest" Threat
 
-Twelve days after the case was opened, on the evening of November 9, 2025, CCTV’s news channel aired a roughly seven-and-a-half-minute segment, described by several Taiwanese outlets as eight minutes long, titled “Exposing Puma Shen.” CCTV claimed that through Kuma Academy, Shen spread the idea that “China is about to use force to unify Taiwan” and trained “violent Taiwan independence elements.” The narration ended with a warning: “**Stop now, or you could be next**.”[^41][^37]
+Twelve days after the case was filed, on the evening of November 9, 2025, China Central Television (CCTV) News Channel aired a special feature titled "Exposing Shen Bo-yang" running approximately seven and a half minutes (several Taiwanese media outlets wrote eight minutes). CCTV claimed that Shen Bo-yang spread rhetoric that "China will soon militarily unify Taiwan" through the Black Bear Academy and trained "violent Taiwan independence elements," with the narration ending in a warning tone: "**Stop now, or you're next.**"[^41][^37]
 
-At a press conference that day, Taiwan’s Mainland Affairs Council defined the content as “transnational repression”: the purpose was not to arrest someone, but to force Taiwanese society to self-censor before speaking.[^42] Shen also posted on Facebook that night:
+At a press conference that day, the Mainland Affairs Council (MAC) defined this content as "cross-border repression" — the purpose being not to arrest people, but to force Taiwanese society into self-censorship before speaking.[^42] That same evening, Shen Bo-yang posted on Facebook:
 
-> “Could you please stop doing exactly what I predict you are going to do every time? **Have some creativity**.”[^43]
+> "Don't just do exactly what I predict you'll do every time, okay? **Be a little creative.**"[^43]
 >
-> “China has acted even faster, wanting to use a wanted notice to keep me from going abroad. **CCTV devoted a major segment to a seven-and-a-half-minute pseudo-documentary about me, threatening a global wanted notice**.”[^37]
+> "China moved faster, trying to use a wanted notice to prevent me from leaving the country. **CCTV devoted a lengthy segment, making a seven-and-a-half-minute pseudo-documentary about me, threatening a global manhunt.**"[^37]
 >
-> “Whether I have been put on a wanted list or not, **nobody cares. Taiwanese really do not pay attention to the CCP**.”[^37]
+> "Whether or not I'm wanted, **Nobody cares, Taiwanese people really don't give a damn about the CCP.**"[^37]
 
-He also posted a short video with a CCTV screenshot in frame: “Taiwan and China are **one country on each side**. Do not fantasize about using trumped-up charges to reach your hands into Taiwan.”[^44]
+He also posted a short video, with the camera pointing at a screenshot of CCTV: "**Taiwan and China are one country on each side**. Don't delude yourselves into thinking you can fabricate charges to reach your hands into Taiwan."[^44]
 
-International responses gathered within two days. On October 31, Human Rights Watch Asia deputy director Maya Wang said in a statement that the Chongqing case was an abusive Chinese law applied across borders.[^45] Several international human-rights organizations voiced support. The U.S. Department of State publicly expressed concern.[^47] [Inter-Parliamentary Alliance on China](https://ipac.global/) (IPAC) co-founder Luke de Pulford posted in public support of Shen.[^48]
+International reactions coalesced within two days. Human Rights Watch Asia Deputy Director Maya Wang stated on October 31 that the Chongqing Public Security Bureau's handling of this case constitutes Chinese law exercising abusive power across borders.[^45] Multiple international human rights organizations voiced support simultaneously. The U.S. State Department expressed public concern.[^47] [Inter-Parliamentary Alliance on China](https://ipac.global/) (IPAC) co-founder Luke de Pulford posted a public show of support.[^48]
 
-The Legislative Yuan itself also moved. On November 19, 2025, the Foreign Affairs and National Defense Committee of the Legislative Yuan, the committee Shen himself convened, passed a condemnation motion proposed by Wang Ting-yu and others. Wang said in his remarks: “**Even if opinions differ, everyone still has the right to be protected by the state and the constitution**. The People’s Republic of China has no authority to use such baseless reasons to conduct this kind of political operation against anyone.”[^49]
+The Legislative Yuan itself took action. On November 19, 2025, the Legislative Yuan's Foreign Affairs and National Defense Committee (the very committee Shen Bo-yang himself convenes) passed a condemnation resolution proposed by Wang Ting-yu and others. In his remarks, Wang Ting-yu said: "**Different opinions still have the right to be protected by the state and the Constitution**. The People's Republic of China has no right to carry out this kind of political maneuver against anyone on such trumped-up grounds."[^49]
 
-China had not yet put Shen on a formal Hong Kong National Security Law bounty list; in the same period, the people with the highest bounty, RMB 250,000, were [YouTuber “Pa Chiung”](/en/people/pa-chiung-political-youtuber) and “Minnan Wolf.”[^50] But the combination of a “splitting the state” investigation and CCTV’s “global wanted” threat had already pushed Shen into a nearby position.
+China has not actually placed Shen Bo-yang on the official Hong Kong version of the National Security Law bounty list; at the same time, the highest bounty of RMB 250,000 was placed on [YouTuber "Ba Jiong"](/en/people/pa-chiung-political-youtuber) and "Minnan Wolf."[^50] But the combination of the "crime of splitting the country" case filing + CCTV's "global manhunt" threat has already pushed Shen Bo-yang to a comparable position.
 
-## The Screw at the Door
+## The Screw at the Doorstep
 
-As the CCP escalated, Shen’s private life was also being escalated.
+As the CCP escalated, Shen Bo-yang's personal life also came under escalating threat.
 
-In late August 2025, he said publicly for the first time on host Cheng Hung-yi’s program _People of the Times_ that he was followed “all the time.” The most direct incident happened at his front door: the “screw” on a motorcycle was in fact a pinhole camera, with its battery hidden under the seat and its exterior disguised as a screw. Shen photographed the license plate and called the police, only to find that within less than an hour, the motorcycle had disappeared. The license-plate trail remains a dead end.[^51]
+In late August 2025, he publicly stated for the first time on host Cheng Hung-yi's "Figures of the Era" program that he was being followed "around the clock." The most direct incident occurred right at his doorstep: a "screw" on a motorcycle was actually a pinhole camera, its battery hidden under the seat cushion, disguised to look like a screw. Shen Bo-yang photographed the license plate and filed a police report; unexpectedly, within an hour the motorcycle had vanished. The license plate trace remains a dead end to this day.[^51]
 
-Harder to absorb was the threatening letter. It included a photo of Shen and his wife Tseng Hsin-hui, with **the character “death” written on Tseng’s clothing**, and threatened to slit their daughter’s throat.[^51] Shen said on the program: “This is malicious, but this is what the Communist Party does. We were mentally prepared for it.” Tseng’s reaction was anxiety, insomnia, worsening health, and social fear.[^51]
+Even harder to stomach were the threatening letters. One enclosed a photo of Shen Bo-yang and his wife Tseng Hsin-hui together, **with the character "death" written on Tseng Hsin-hui's clothing**, threatening to slit their daughter's throat.[^51] Shen Bo-yang said on the program: "It's despicable, but that's what the Communist Party does — we were prepared for this in our hearts." His wife Tseng Hsin-hui reacted with anxiety, insomnia, deteriorating health, and social phobia.[^51]
 
-> **📝 Curator’s Note**
-> Shen’s daughter was not born to him. He and his wife Tseng Hsin-hui adopted her through the Garden of Hope Foundation after a two-year process; in 2021, Shen welcomed a thirteen-month-old baby girl into the family. The couple used the concept of a “belly mother” to explain the birth mother’s role to the child.[^52]
-> The child he chose to hold later became the crossed-out coordinate in the threatening letter the CCP sent to his home.
+> **📝 Curator's Note**
+> Shen Bo-yang's daughter is not his biological child. He and his wife Tseng Hsin-hui adopted through the Garden of Hope Foundation; after a two-year process, Shen Bo-yang welcomed a 13-month-old baby girl in 2021. The couple used the concept of a "tummy mommy" to explain the birth mother's role to the child.[^52]
+> The child he chose to embrace later became the crossed-out target on the threatening letter the CCP mailed to their home.
 
-## The Hague, Satellites, and Valentine’s Day
+## The Hague, Satellites, Valentine's Day
 
-But he did not hide. After November, he instead began traveling abroad intensively.
+But he didn't hide. After November, he instead began traveling abroad intensively.
 
-On November 12, 2025, he attended a [German Bundestag](https://www.bundestag.de/) hearing titled “Threats to Democracy and Human Rights from Disinformation by Authoritarian States,” testifying as both an expert witness and a legislator. After the hearing, he said in an interview: “Taiwan should not fear the China threat. **Everyone must be fearless and stand together with the world’s democratic and free camp**.”[^53]
+On November 12, 2025, he attended a hearing at the [German Bundestag](https://www.bundestag.de/) titled "The Threat of Disinformation from Dictatorial States to Democracy and Human Rights," testifying in his dual capacity as an expert witness and legislator. After the hearing, he gave an interview: "Taiwan must not be afraid in the face of China's threat. **Everyone must be fearless and stand together with the world's democratic camp.**"[^53]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/VFbmWlBmGP4" title="沈伯洋赴德國會　說明台遭假訊息攻擊｜中央社影音新聞" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/VFbmWlBmGP4" title="沈伯洋赴德國會　說明台遭假訊息攻擊｜中央社影音新聞" style="position:absolute;top:0;left=0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_CNA video news: In November 2025, Shen traveled to a German Bundestag hearing and, as an expert witness, explained the foreign disinformation attacks Taiwan faces._
+_CNA Video News: Shen Bo-yang traveled to the German Bundestag in November 2025, explaining Taiwan's experience with foreign disinformation attacks in his capacity as an expert witness._
 
-Nine days later, on November 21, he arrived in The Hague, Netherlands, to attend the 209th Executive Committee meeting of [Liberal International](https://liberal-international.org/) (LI) and the Hague session of the [Inter-Parliamentary Alliance on China](https://ipac.global/) (IPAC) together with DPP legislator [Fan Yun](https://en.wikipedia.org/wiki/Fan_Yun). They took a photo in front of the International Criminal Court (ICC).[^54] His caption was four Chinese characters: “Not afraid.” The next day, speaking on LI’s panel “Defending Democracy in an Era of Political Manipulation,” he gave China’s threat an academic label:
+Nine days later, on November 21, he arrived in The Hague, Netherlands, where he attended the 209th Executive Committee meeting of [Liberal International](https://liberal-international.org/) (LI) and the The Hague session of the [Inter-Parliamentary Alliance on China](https://ipac.global/) (IPAC) together with DPP legislator [Fan Yun](https://en.wikipedia.org/wiki/Fan_Yun). They took a group photo in front of the International Criminal Court (ICC).[^54] He captioned it with four characters: "Not afraid." The next day, he spoke on LI's "Defending Democracy in an Era of Political Manipulation" panel, attaching an academic label to China's threat:
 
-> “China really wants to stop me from continuing these international engagements, so it has kept trying to use sanctions to prevent me from going abroad. **What these actions prove is precisely that China is a paper tiger**: most of it is symbolic propaganda for domestic audiences. Taiwan should not be afraid.”[^55]
+> "China really wants to stop my continued international engagement, so it keeps trying to use sanctions to prevent me from traveling abroad. **What these actions actually prove is that China is a paper tiger** — mostly symbolic propaganda for domestic consumption. Taiwan shouldn't be afraid."[^55]
 >
-> (Pointing to the ICC building behind him) “**This is where dictators are tried for war crimes or genocide**.”[^55]
+> (Pointing at the ICC building behind him) "**This is where dictators face trial for war crimes or genocide.**"[^55]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/o-OhWUHV4W4" title="沈伯洋赴荷蘭參加國際會議　盼國會外交促成交流合作｜中央社影音新聞" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/o-OhWUHV4W4" title="沈伯洋赴荷蘭參加國際會議　盼國會外交促成交流合作｜中央社影音新聞" style="position:absolute;top:0;left=0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_CNA video news: In November 2025, Shen traveled to The Hague to attend IPAC and Liberal International meetings, using parliamentary diplomacy to connect with the international democratic camp._
+_CNA Video News: Shen Bo-yang traveled to The Hague, Netherlands in November 2025 to attend the IPAC and Liberal International sessions, connecting with the international democratic camp through parliamentary diplomacy._
 
-On New Year’s Day 2026, the CCP escalated.
+On New Year's Day 2026, the CCP escalated.
 
-A Chinese Weibo account with a large following, “Guyan Muchan,” posted that it would track down Shen,[^59] claiming that it had paid to order high-resolution imagery from the commercial “Jilin-1” satellite and publishing satellite images of Shen’s home in Taipei, near Daan Forest Park, and his workplace on Section 1, Jinan Road, near the legislature.[^7] Chinese state media outlet _Today’s Strait_ reposted it.[^7] Two days later, Taiwan’s Ministry of Foreign Affairs issued a condemnation with language unusually sharp for such statements:
+A popular Chinese Weibo account, "Guyan Muchan" (孤烟暮蟬), posted a threat to hunt down Shen Bo-yang,[^59] claiming to have purchased high-resolution commercial satellite imagery from the custom-built "Jilin-1" satellite, publishing satellite maps of Shen's residence in Taipei (near Daan Forest Park) and workplace (Jinan Road Section 1, near the legislature).[^7] Chinese state media "Today Strait" reposted it.[^7] Two days later, the Ministry of Foreign Affairs issued a condemnation statement with unusually strong wording:
 
-> “After Chinese state media threatened to arrest our country’s legislator Puma Shen worldwide, it has recently gone a step further by using **the vile method of doxxing, a form of digital authoritarianism**, to threaten the safety of our nationals... This not only violates the protections in the _Universal Declaration of Human Rights_ and the _International Covenant on Civil and Political Rights_ that ‘no one shall be subjected to arbitrary interference with his privacy, family, or home’; it is also a comprehensive persecution of personal privacy that **has lost the bottom line of civilization and is deeply contemptible**.”[^56]
+> "After Chinese state media threatened to globally arrest our legislator Shen Bo-yang, they have now gone a step further using **doxxing — this despicable tactic of digital authoritarianism** — to threaten the safety of our citizens… This not only violates the protections against 'arbitrary interference with privacy, family, and home' guaranteed by the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights, but constitutes comprehensive persecution of personal privacy, **abandoning the baseline of civilization, which is deeply contemptible.**"[^56]
 
-The National Police Agency announced the same day that it would fully protect Shen’s safety.[^57] The Ministry of Digital Affairs asked Meta and Google to handle the content; within days, the relevant posts, videos, and images had been taken down.[^58]
+The National Police Agency announced the same day that it would spare no effort in protecting Shen Bo-yang's safety.[^57] The Ministry of Digital Affairs requested Meta and Google to handle the matter; within days, related posts, videos, and images were taken down.[^58]
 
-Shen responded on Facebook on January 3:
+Shen Bo-yang responded on Facebook on January 3:
 
-> “**What China marked was my coordinates; what it displayed was their collective inferiority complex toward democratic Taiwan**.”[^59]
+> "**China marked my coordinates, but what they revealed was their collective inferiority complex toward democratic Taiwan.**"[^59]
 >
-> “As for those who were still mouthing off about dashcams a few days ago, Puma Shen will not call you collaborators, because you are still far beneath that level. But academically, there is a technical term for this: ‘**useful idiots**.’”[^59]
+> "As for those who were running their mouths about dashcams a few days ago, Shen Bo-yang won't call you accomplices, because you're not even in the same league. But in academia, there's a technical term for this: '**useful idiots**.'"[^59]
 
-Two weeks later, on January 24, he posted a long Facebook essay breaking down the CCP’s 2026 “lock Taiwan” strategy into three axes: physical disarmament (the KMT and TPP cutting foreign-affairs and defense budgets), cognitive change in the mental sphere (skepticism toward the United States influencing about 5 percent of key voters), and monopoly over election resources (party-assets and media-related bills). At the end, he wrote: “**My greatest function is probably still to be a ‘target’**.”[^60]
+Two weeks later, on January 24, he posted a long article on Facebook breaking down the CCP's 2026 "lockdown on Taiwan" strategy into three axes: physical disarmament (the Blue and White parties cutting diplomatic and defense budgets), cognitive transformation (the "doubt America" narrative influencing roughly 5% of swing voters), and electoral resource monopoly (party assets and media-related bills). He concluded: "**My greatest function is probably still to serve as a 'target'.**"[^60]
 
-“Target” then appeared repeatedly in his own narrative. It was a label he gave himself.
+The term "target" (箭靶) would recur in his subsequent narrative — a label he gave himself.
 
-On February 7, he flew to France for an eight-day diplomatic mission. The French context mattered: [INTERPOL](https://www.interpol.int/) is headquartered there, and France has an extradition treaty with China. In theory, it was exactly the sort of country where the risk would be highest for someone under a wanted-notice threat. He still went as planned. The mission involved exchanges on Taiwan’s Ministry of National Defense’s new _All-Out Defense Handbook_, responses to cognitive warfare, social media and cyberwarfare, and national resilience. France had also issued a national risk-response handbook with a similar function in 2025, and Shen said French agencies fighting disinformation could draw on Taiwan’s designs.[^8]
+On February 7, he flew to France for an eight-day diplomatic mission. Key context on France: home to [INTERPOL](https://www.interpol.int/) headquarters, and France has an extradition treaty with China — theoretically making this the highest-risk category of country for him, yet he proceeded as planned. The mission involved exchanges on Taiwan's new edition of the _All-Out Defense Handbook_, cognitive warfare response, social media and cyber warfare, and national resilience. France itself issued a similarly positioned national risk preparedness handbook in 2025, and Shen Bo-yang noted that France's anti-disinformation agencies had drawn design inspiration from Taiwan.[^8]
 
-He spent Valentine’s Day, February 14, on the plane. After returning to Taiwan, he wrote on Facebook: “**Despite the pressure of being threatened with a global wanted notice by Beijing, I still completed the eight-day diplomatic mission as planned. In the end, however, I spent Valentine’s Day on a plane**. There is another event coming next. I will continue standing on the front line with my country.”[^61]
+He spent Valentine's Day (February 14) on a plane. After returning, he wrote on Facebook: "**Despite the pressure of being globally hunted by Beijing, I still completed the eight-day diplomatic mission as planned. However, I ultimately spent Valentine's Day on a plane. And there's the next mission! My country and I will continue to stand on the front lines.**"[^61]
 
 ## From Target to Candidate
 
-In early April 2026, the DPP’s election strategy committee held a meeting. The political section of [_United Daily News_](https://udn.com/) reported that informed sources said the party planned to nominate Shen to run for Taipei mayor.[^62] By mid-to-late April, it was nearly settled. Former interior minister Hsu Kuo-yung publicly endorsed him.[^63] A TVBS poll from December 2025 showed incumbent Taipei mayor Chiang Wan-an with about 64 percent support and Shen with about 22 percent.[^64] The gap was large, but this article is not responsible for analyzing the election.
+In early April 2026, the DPP campaign committee convened a meeting. According to a political report by the [United Daily News](https://udn.com/), insiders revealed the party planned to tap Shen Bo-yang to run for Taipei mayor. [^62] By mid-to-late April it was all but settled. Former Interior Minister Hsu Kuo-yung publicly endorsed him. [^63] A TVBS poll from December 2025 showed incumbent Taipei Mayor Chiang Wan-an at roughly 64% support, while Shen Bo-yang stood at about 22%. [^64] Trailing by a wide margin, though the election outcome is beyond the scope of this article.
 
-On April 25, Shen cut off the curly hair he had worn for more than a decade and appeared on the same stage as Chiang Wan-an for the first time at the Songshan Ciyou Temple Mother Goddess Cultural Festival.[^65] Yang Guo had cut his hair short.
+On April 25, he cut off the explosion hairstyle he had worn for over a decade and shared a stage with Chiang Wan-an for the first time at the Songshan Cihui Temple Mother-Daughter Cultural Festival. [^65] Yang Guo cut his hair short.
 
-On May 13, 2026, rumor became official. The DPP Central Executive Committee approved the nomination, and President Lai Ching-te, who was concurrently party chair, personally announced that Shen would be drafted to run for Taipei mayor. Lai placed the campaign sash on him, held his hand, and joined him in shouting “dong suan,” the Taiwanese election chant for “be elected.” Lai said Shen had “the height of international vision, the breadth of cross-domain governance, and the warmth of care for residents,” and was “the only choice for Taipei mayor.”[^66][^67] Shen accepted the sash: “I have decided to run for Taipei mayor. Please let me become your mayor.”[^67] Election day was set for November 28, and his opponent was the incumbent, Chiang Wan-an, who was seeking reelection.[^68]
+On May 13, 2026, rumor became official. The DPP Central Executive Committee finalized the decision, with President Lai Ching-te — also serving as party chair — personally announcing the nomination of Shen Bo-yang for Taipei mayor, draping a campaign sash over him as the two clasped hands and shouted "Frozen garlic!" (a Taiwanese homophone for "no problem / you got this"). [^66][^67] Lai said Shen "possesses the height of international vision, the breadth of cross-domain governance, and the warmth of concern for citizens," calling him "the undisputed choice for Taipei mayor." [^67] Shen accepted the sash: "I have decided to run for Taipei mayor; please let me become your mayor." [^67] Election day is set for November 28, with Chiang Wan-an seeking re-election as his opponent. [^68]
 
-![Puma Shen wearing a black T-shirt and glasses, holding a microphone onstage, with a sash reading “Reject United Front” across his chest](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
+![Shen Bo-yang wearing a black T-shirt and glasses, standing on stage holding a microphone, a sash printed with the words "Reject United Front" draped across his chest](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
-_On April 19, 2025, Shen attended the “Reject United Front, Protect Taiwan” rally. The person whose coordinates were marked chose to keep standing on public stages. Photo: KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
+_April 19, 2025, Shen Bo-yang attends the "Reject United Front, Defend Taiwan" rally. The man whose coordinates were published chooses to keep standing on the public stage. Photo: KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
 
-The race remained lopsided. A TVBS Poll Center survey released on May 27 put Chiang at 58 percent and Shen at 30 percent, a gap of 28 percentage points. Even among young voters aged twenty to twenty-nine, Shen’s 37 percent trailed Chiang’s 60 percent.[^69] International media described the contest as a long-shot challenge.
+At the moment of nomination, the race was lopsided. A TVBS Poll Center survey on May 27 showed Chiang Wan-an at 58%, Shen Bo-yang at 30%, a 28-point gap; even among voters aged 20–29, Shen's 37% trailed Chiang's 60%. [^69] International media framed the contest as an uphill battle with low odds.
 
-```tw-bars
-2026 Taipei mayoral poll: Chiang Wan-an currently leads Puma Shen by 28 percentage points
-Chiang Wan-an | 58 | Incumbent KMT mayor seeking reelection
-*Puma Shen | 30 | DPP nominee
-Source: TVBS Poll Center, 2026-05-27
+Five months later, the gap had narrowed — but to where depends on who you ask. TVBS's October 8 release of the same tracking series put Chiang at 49%, Shen at 41%, shrinking the gap from 28 points to 8; among the 20–29 cohort the figures flipped to Shen 52%, Chiang 44%; another 11% remained undecided. [^70] The Taiwan Public Opinion Foundation's (TPOF) second wave published October 20 showed the opposite direction: Shen at 50.3%, Chiang at 33.3%, turning a 1.2-point deficit in September into a 17-point lead. [^71] The two polls differ in sampling and weighting; KMT Taipei city councilors have publicly questioned the latter's impartiality; the spread between the two readings exceeds either poll's own sampling error, so all one can say at this moment is "the gap is narrowing," not "who is ahead." Election day is November 28; the full election calendar and candidate portals are on the [2026 Nine-in-One Elections](/en/politics/2026-local-elections-taiwan/) page.
+
+```tw-dot
+Two October Taipei mayoral polls, gap exceeds each poll's own sampling error (support %, point estimate with confidence interval)
+Chiang Wan-an / TVBS 10-08 | 49 | 46.1 | 51.9 | Incumbent, seeking re-election
+*Shen Bo-yang / TVBS 10-08 | 41 | 38.1 | 43.9 | DPP nominee
+Chiang Wan-an / TPOF 10-20 | 33.3 | 30.3 | 36.3 | Same person, different poll
+*Shen Bo-yang / TPOF 10-20 | 50.3 | 47.3 | 53.3 | Same person, different poll
+Source: TVBS Poll Center 2026-10-08; Taiwan Public Opinion Foundation 2026-10-20
 ```
 
-From the bow of boys mopping a floor to CCTV’s pseudo-documentary, from research at a desk to coordinates on a satellite map, from “not allowed to be the person in charge of Kuma Academy” to “officially running for Taipei mayor,” Shen’s position has changed several times. He annotates each shift with the same sentence: “I am a target.” The line is both self-mockery and a cool academic observation. In the CCP’s narrative about Taiwan, he really is the one to be aimed at. A scholar took the label produced by the object of his research, stuck it on himself, and kept working. Not many people can do that.
+```tw-note
+Note
+Both are telephone surveys of Taipei-registered citizens aged 20 and above, asking "who would you vote for if the election were held today," not a prediction of the 11/28 result. The TVBS poll interviewed on 10/3 and 10/5–7, valid sample 1,120, 95% confidence level, sampling error ±2.9 percentage points. The TPOF poll was designed and analyzed by Tai Li-an, executed by Biken Market Research, fielded 10/14–10/16, valid sample 1,075 (landline 753, mobile 322), maximum sampling error ±3.0 percentage points. The intervals shown are point estimates plus/minus each poll's own sampling error, excluding weighting and non-response error.
+```
 
-## Where the Bowing Boys Are Now
+From the bow of the floor-mopping teenager to CCTV's pseudo-documentary, from a single desk's academic research to coordinates on a satellite image, from "cannot be the person in charge of Black Bear Academy" to "officially running for Taipei mayor," Shen Bo-yang's position has shifted several times. He uses the same sentence to footnote every shift: "I am the target." The line is both self-deprecation and cool scholarly observation. In the CCP's narrative on Taiwan, he truly is the one meant to be in the crosshairs. A scholar takes the label used to mark his research subject, sticks it on himself, and keeps working; few people manage that.
 
-Return to that afternoon of mopping. Shen stopped and walked around the streaks of water. The boys bowed to him. More than a decade later, he sat on the other end of a Chongqing public-security notice; the character “death” was written on his wife’s clothing; satellite coordinates near his home were publicly named by a Chinese Weibo account.
+## Where Is the Boy Who Bowed Now
 
-In June 2025, he wrote one very short line. On the day his father’s company was sanctioned by the CCP, he responded on Facebook with four Chinese characters: “**A great honor**.”[^40]
+Return to that afternoon of mopping floors. The moment Shen Bo-yang came to a stop, he stepped around the water stains. The boy bowed to him.
 
-The question from that day at the juvenile detention house is still with him: “Why is there such a great difference in the way we treat people in different places?” He studied that question for twenty years. In the end, what he studied came for him and marked him as prey. But he had studied it long enough to know that **prey does not first have to become a victim**. It can first become the person asking the question. So from The Hague to the German Bundestag and then to France, at every stop he used the same grammar to say the same thing: you can treat me this way, and I will keep doing my work.
+More than a decade later, he sits at the other end of a Chongqing Public Security Bureau police bulletin, the character for "death" carved into his wife's clothing, satellite coordinates near his home publicly named by a Chinese Weibo account.
 
-In May 2026, he put on a campaign sash and entered another election. But on the CCP’s satellite map, the target coordinates were still in the same place.
+He himself wrote a very short sentence in June 2025. On the day his father's company was sanctioned by the CCP, he responded on Facebook with four words: "**A great honor.**"[^40]
+
+The question from that day at the juvenile detention center still clings to him: "Why is there such a huge difference in how we treat people in different places?" He has researched this question for twenty years. In the end, what he studied came looking for him, marking him as prey. But he studied long enough to know that prey doesn't need to become a victim first; it can become the questioner first—so from The Hague in the Netherlands to the German Bundestag, and then to France, at every stop he used the same syntax to say the same thing: You can treat me this way, and I will continue doing my work.
+
+In May 2026 he donned a campaign sash to fight another election. But on the CCP's satellite maps, the target coordinates remain in place.
 
 ---
 
 **Further Reading**:
 
-- [Kuma Academy](/en/society/kuma-academy-civil-defense-school) — The civil-society civil-defense education organization co-founded by Puma Shen and Ho Cheng-hui, a school that “hopes one day Taiwan will no longer need it”
-- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The full framework of the CCP’s information warfare against Taiwan, for which Shen is one of the principal researchers
-- [Pa Chiung](/en/people/pa-chiung-political-youtuber) — A Taiwanese YouTuber also targeted by the CCP, placed under a Chinese bounty of up to RMB 250,000 in November 2025
-- [Lai Ching-te](/en/people/lai-ching-te) — Also listed among “diehard Taiwan independence separatists,” and publicly voiced support for Shen in November 2025
-- [Taiwan’s Defense and Military Modernization](/en/society/taiwan-defense-modernization) — How Kuma Academy’s civil-defense education complements all-out national defense
-- [Invisible Nation](/en/art/invisible-nation) — A documentary ending with Taiwanese attending a civil-defense class; Kuma Academy is the real-world version of that final class
+- [Black Bear Academy](/en/society/kuma-academy-civil-defense-school) — a civil defense education organization co-founded by Shen Bo-yang and Ho Cheng-hui, a school that "hopes one day Taiwan will no longer need it"
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — the complete framework of the CCP's information warfare against Taiwan; Shen Bo-yang is one of the principal researchers
+- [Ba Jiong](/en/people/pa-chiung-political-youtuber) — a Taiwanese YouTuber likewise targeted by the CCP; in November 2025 the CCP offered a bounty of up to RMB 250,000
+- [Lai Ching-te](/en/people/lai-ching-te) — also listed as a "diehard Taiwan independence separatist"; publicly voiced support for Shen Bo-yang in November 2025
+- [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — the complementary relationship between Black Bear Academy's civil defense education and all-out national defense
+- [Invisible Nation](/en/art/invisible-nation) — the documentary ends with Taiwanese people taking a civil defense class; Black Bear Academy is the real-life version of that final class
 
 ## Image Sources
 
-This article uses six CC-licensed / publicly licensed / fair-use editorial images, all cached under `public/article-images/people/` to avoid hotlinking source servers; it also embeds two official CNA videos.
+This article uses 6 CC-licensed / public domain / fair use editorial images, all cached in `public/article-images/people/` to avoid hotlinking source servers; also embedded are 2 official CNA videos.
 
-- [Puma Shen 2024 election image (hero)](https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg) — Photo: Tseng Cheng-hsun / Flickr, CC BY 2.0
-- [Puma Shen official legislator portrait](https://commons.wikimedia.org/wiki/File:Puma_Shen_2024.jpg) — Photo: Legislative Yuan, Attribution required
-- [Puma Shen speaking at Kuma Academy lecture](https://commons.wikimedia.org/wiki/File:Dr_Puma_Shen_at_Kuma_Academy_Lecture_24_Feb_2023.jpg) — Photo: S099001 / Wikimedia Commons, CC BY 4.0
-- [Puma Shen lecturing on information warfare in Chiayi](https://commons.wikimedia.org/wiki/File:Puma_Shen%27s_lecture_about_information_warfare_in_Chiayi_20210227a.jpg) — Photo: Chiayi County Human Resources Development Center, Attribution required
-- [Puma Shen attending the “Reject United Front, Protect Taiwan” rally](https://commons.wikimedia.org/wiki/File:2025.04.19_%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83_13.jpg) — Photo: KOKUYO / Wikimedia Commons, CC BY-SA 4.0
-- [_Fighting Taiwan Is Less Effective Than Fooling Taiwan_ book cover](https://www.locuspublishing.com/book/detail/10514) — Image: Locus Publishing, fair use editorial commentary
+- [Shen Bo-yang 2024 election image (hero)](https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg) — Photo: Tseng Cheng-hsun / Flickr, CC BY 2.0
+- [Shen Bo-yang official legislator portrait](https://commons.wikimedia.org/wiki/File:Puma_Shen_2024.jpg) — Photo: Legislative Yuan, Attribution (source must be credited)
+- [Shen Bo-yang lecturing at Black Bear Academy](https://commons.wikimedia.org/wiki/File:Dr_Puma_Shen_at_Kuma_Academy_Lecture_24_Feb_2023.jpg) — Photo: S099001 / Wikimedia Commons, CC BY 4.0
+- [Shen Bo-yang speaking on information warfare in Chiayi](https://commons.wikimedia.org/wiki/File:Puma_Shen%27s_lecture_about_information_warfare_in_Chiayi_20210227a.jpg) — Photo: Chiayi County Human Resources Development Center, Attribution (source must be credited)
+- [Shen Bo-yang attending "Reject United Front, Defend Taiwan" rally](https://commons.wikimedia.org/wiki/File:2025.04.19_%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83_13.jpg) — Photo: KOKUYO / Wikimedia Commons, CC BY-SA 4.0
+- [Book cover of "Better to Deceive Taiwan Than Attack It"](https://www.locuspublishing.com/book/detail/10514) — Image: Locus Publishing, fair use editorial commentary
 
-Embedded videos: [Puma Shen travels to the German Bundestag to explain disinformation attacks on Taiwan](https://www.youtube.com/watch?v=VFbmWlBmGP4), [Puma Shen travels to the Netherlands for an international conference](https://www.youtube.com/watch?v=o-OhWUHV4W4), both from CNA’s official video channel.
+Embedded media: [Shen Bo-yang travels to Germany to explain Taiwan's disinformation attacks](https://www.youtube.com/watch?v=VFbmWlBmGP4), [Shen Bo-yang travels to Netherlands to attend international conference](https://www.youtube.com/watch?v=o-OhWUHV4W4), both from the official CNA (Central News Agency) video channels.
 
 ## References
 
-[^1]: [_Mirror Media_ “In Depth” series: Professor Dissecting Evil](https://www.mirrormedia.mg/story/20190427pol002) — The second profile in _Mirror Media_’s April 27, 2019 series, documenting Shen’s childhood communication notebook, the Fuxing/Jianguo class contrast, the senior schoolmate’s hypermarket case, the juvenile detention-house visit, impressions of Irvine as the safest city in the United States, the five oral-exam professors urging him to return to Taiwan, and his remarks on Yang Guo. This is the key origin-scene source for Shen’s academic turn toward criminology.
+[^1]: [Mirror Weekly 'One Mirror to the End' Series: Dissecting the Professor of Evil](https://www.mirrormedia.mg/story/20190427pol002) — Mirror Weekly, April 27, 2019, second installment of the series'人物專訪, documents Shen Bo-yang's childhood contact book, the Fuxing/Jianzhong class contrast, the senior's wholesale store case, a visit to a juvenile detention center, impressions of Irvine as the safest city in the U.S., five oral-exam professors urging him to return to Taiwan, the Yang Guo idol theory, and other scenes; it is the key origin-scene source for Shen Bo-yang's academic shift to criminology.
 
-[^2]: [National Taipei University Graduate School of Criminology: Puma Shen faculty page](https://crm.ntpu.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=119) — Official university faculty page confirming Shen’s current position as associate professor and director, and listing his research fields as criminal law, sociology of law, criminal justice policy, and white-collar crime.
+[^2]: [National Taipei University Graduate Institute of Criminology: Shen Bo-yang Faculty Page](https://crm.ntpu.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=119) — The university's official faculty page confirms Shen Bo-yang's current position as associate professor and director, with research areas in criminal law, legal sociology, criminal policy, and white-collar crime.
 
-[^3]: [Kuma Academy official website: About Us](https://kuma-academy.org/about) — Official Kuma Academy page introducing founders Puma Shen and Ho Cheng-hui, the founding context, course design, and the concept of “all-out defense.”
+[^3]: [Black Bear Academy Official Website: About Us](https://kuma-academy.org/about) — The Black Bear Academy's official page introduces founders Shen Bo-yang and He Cheng-hui, the founding background, curriculum design, and the 'whole-of-society defense' concept.
 
-[^4]: [Legislative Yuan official website: Legislator Puma Shen profile](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=237147) — Legislative Yuan official profile confirming that Shen took office as a member of the 11th Legislative Yuan on 2024-02-01.
+[^4]: [Legislative Yuan Global Information Network: Legislator Shen Bo-yang Profile](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=237147) — The Legislative Yuan's official website profile for Legislator Shen Bo-yang confirms he assumed office as a 11th-term legislator on February 1, 2024.
 
-[^5]: [CNA: Chongqing public security opens investigation into Puma Shen](https://www.cna.com.tw/news/aipl/202510280086.aspx) — CNA’s October 28, 2025 report fully documenting the Chongqing Municipal Public Security Bureau notice opening an investigation into Shen for “suspected splitting of the state,” and quoting Shen’s Facebook response.
+[^5]: [Central News Agency: Chongqing Public Security Bureau Opens Investigation on Shen Bo-yang](https://www.cna.com.tw/news/aipl/202510280086.aspx) — Central News Agency, October 28, 2025 report, fully records the Chongqing Municipal Public Security Bureau's police bulletin opening an investigation on Shen Bo-yang on suspicion of 'incitement to split the country,' and cites Shen Bo-yang's original Facebook response.
 
-[^6]: [_Liberty Times_: CCTV’s seven-and-a-half-minute exposé on Puma Shen](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — _Liberty Times_ November 9, 2025 report recording CCTV News’ release that evening of an “exposé” video on Shen, including the warning “Stop now, or you could be next.”
+[^6]: [Liberty Times: CCTV 7.5-Minute Exposé on Shen Bo-yang](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — Liberty Times, November 9, 2025 report, records CCTV News' release that evening of a 'doxing' feature video on Shen Bo-yang, containing the warning 'Stop now, or you'll be next.'
 
-[^7]: [_Liberty Times_: Chinese Weibo account uses commercial satellite to publish coordinates of Shen’s home and workplace](https://news.ltn.com.tw/news/politics/breakingnews/5297941) — _Liberty Times_ January 2026 exclusive on a Chinese Weibo account paying to order Jilin-1 satellite imagery and publishing coordinates for Shen’s home near Daan Forest Park and workplace on Section 1, Jinan Road, near the legislature, followed by amplification by Chinese state-media outlet _Today’s Strait_.
+[^7]: [Liberty Times: Chinese Weibo Account Uses Commercial Satellite to Publish Shen Bo-yang's Home and Workplace Coordinates](https://news.ltn.com.tw/news/politics/breakingnews/5297941) — Liberty Times, January 2026 exclusive report on a Chinese Weibo account self-funding custom Jilin-1 satellite imagery to publish coordinates of Shen Bo-yang's residence (near Daan Forest Park) and workplace (Section 1, Jinan Road, near the legislative organ), and the subsequent reposting by Chinese state media 'Today's Strait.'
 
-[^8]: [_Liberty Times_: Unafraid of CCP wanted threat, Puma Shen completes eight-day diplomatic mission to France](https://news.ltn.com.tw/news/politics/breakingnews/5344003) — _Liberty Times_ February 2026 report on Shen’s February 7, 2026 departure, eight-day diplomatic mission, Valentine’s Day spent on a plane, and details of exchanges between France’s “little orange book” and Taiwan’s national defense handbook.
+[^8]: [Liberty Times: Undeterred by CCP Wanted Threats, Shen Bo-yang Travels to France to Complete 8-Day Diplomatic Mission](https://news.ltn.com.tw/news/politics/breakingnews/5344003) — Liberty Times, February 2026 report on Shen Bo-yang's departure on February 7, 2026, an 8-day diplomatic mission, spending Valentine's Day on a plane, and details of mutual referencing between France's 'Little Orange Book' and Taiwan's National Defense Handbook.
 
-[^9]: [Wikipedia: Puma Shen entry](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Chinese Wikipedia entry organizing Shen’s family background, education, and early experience, including his full schooling path through Fuxing Kindergarten, Fuxing Elementary School, Fuxing Junior High School, and Jianguo High School.
+[^9]: [Wikipedia: Shen Bo-yang Entry](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — The Chinese Wikipedia entry for Shen Bo-yang compiles his family background, education, and early experiences, including his complete schooling at Fuxing Kindergarten, Fuxing Elementary School, Fuxing Middle School, and Jianguo High School.
 
-[^10]: [_Mirror Media_ “In Depth”: Puma Shen profile](https://www.mirrormedia.mg/story/20190427pol001) — The first article in _Mirror Media_’s April 27, 2019 series, documenting Shen’s college-era work in cram schools, the origin of the stage name “Puma,” and his later academic turn.
+[^10]: [Mirror Weekly 'One Mirror to the End': Shen Bo-yang Profile Feature](https://www.mirrormedia.mg/story/20190427pol001) — Mirror Weekly, April 27, 2019, first installment of the series, documents Shen Bo-yang's involvement in the cram-school industry during university, the origin of his stage name 'Puma' (撲馬), and his subsequent academic turning point.
 
-[^11]: [Puma Shen official Threads account @pumashen](https://www.threads.com/@pumashen) — Shen’s official account on Meta Threads.
+[^11]: [Shen Bo-yang Threads Official Account @pumashen](https://www.threads.com/@pumashen) — Shen Bo-yang's personal official account on the Meta Threads platform.
 
-[^12]: [Wikipedia: Puma Shen](https://en.wikipedia.org/wiki/Puma_Shen) — English Wikipedia entry for Puma Shen, organizing his educational timeline: University of Pennsylvania LL.M. (2007), National Taiwan University criminal law master’s degree (2008), UC Irvine PhD (2017), and dissertation advisers Henry Pontell and Elliott Currie.
+[^12]: [Wikipedia: Puma Shen](https://en.wikipedia.org/wiki/Puma_Shen) — The English Wikipedia entry for Puma Shen compiles his academic timeline: Master of Laws from the University of Pennsylvania (2007), Master of Criminal Law from National Taiwan University (2008), Ph.D. from the University of California, Irvine (2017), with doctoral advisors Henry Pontell and Elliott Currie.
 
-[^13]: [Wikipedia: Puma Shen (return-to-Taiwan section)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Chinese Wikipedia’s summary of Shen’s 2017 decision after receiving his doctorate to reject tenure-track offers from U.S. universities, including North Carolina State University, and return to Taiwan.
+[^13]: [Wikipedia: Shen Bo-yang (Decision to Return to Taiwan Section)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Chinese Wikipedia compiles the context of Shen Bo-yang's decision, after obtaining his Ph.D. in 2017, to decline tenure-track offers from U.S. universities such as North Carolina State University and choose to return to Taiwan for his career.
 
-[^14]: [Puma Shen Threads post on doctoral training](https://www.threads.com/@pumashen/post/DXcG-fKlP1S) — Shen’s own Threads post stating that his PhD was in UC Irvine’s School of Social Ecology, spanning criminology, urban planning, public policy, environmental psychology, and related fields.
+[^14]: [Shen Bo-yang Threads Self-Description of Doctoral Education](https://www.threads.com/@pumashen/post/DXcG-fKlP1S) — Shen Bo-yang states on Threads that his Ph.D. is from the University of California, Irvine's School of Social Ecology, spanning criminology, urban planning, public policy, and environmental psychology.
 
-[^15]: [USCC: Puma Shen testimony on CCP influence operations PDF](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — Shen’s March 2023 testimony before the U.S.-China Economic and Security Review Commission, analyzing multiple bureaucratic lines of CCP information warfare against Taiwan, including the Ministry of State Security, the United Front Work Department, the Taiwan Affairs Office, the PLA system, and the Communist Youth League network, as well as their respective tools and rhythms. This is an original scholarly output of his “five lines” analytical framework.
+[^15]: [USCC: Puma Shen Testimony on CCP Influence Operations PDF](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — Shen Bo-yang's March 2023 testimony PDF before the U.S.-China Economic and Security Review Commission (USCC), analyzing section by section the multiple bureaucratic lines of the CCP's information operations against Taiwan (Ministry of State Security, Central United Front Work Department, Central Taiwan Affairs Office, PLA system, Communist Youth League network) and their respective tools and tempos, serving as the original academic output of his 'five lines' analytical framework.
 
-[^16]: [Doublethink Lab official website](https://doublethinklab.org/) — Doublethink Lab’s official website, introducing the organization’s 2019 founding background, research mission, and Shen’s role as chair.
+[^16]: [Doublethink Lab Official Website](https://doublethinklab.org/) — The official website of the Taiwan Democracy Lab, introducing the organization's founding background (2019), research mission, and Puma Shen's role as chairman.
 
-[^17]: [_Taipei Times_: China Index launch by Doublethink Lab](https://www.taipeitimes.com/News/taiwan/archives/2022/04/28/2003777359) — _Taipei Times_ April 28, 2022 report recording Doublethink Lab’s launch of the China Index on April 25, 2022, and the design structure of nine domains and ninety-nine indicators.
+[^17]: [Taipei Times: China Index Launch by Doublethink Lab](https://www.taipeitimes.com/News/taiwan/archives/2022/04/28/2003777359) — Taipei Times, April 28, 2022 report, recording the time of Doublethink Lab's release of the China Index (April 25, 2022) and the design framework of nine dimensions with ninety-nine indicators.
 
-[^18]: [USCC: Puma Shen testimony PDF](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — Official U.S.-China Economic and Security Review Commission page for downloading the full text of Shen’s 2023 testimony, covering CCP information-warfare strategies against Taiwan and the data foundation of the China Index.
+[^18]: [USCC: Puma Shen Testimony PDF](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — The official US-China Economic and Security Review Commission page for downloading the full PDF of Puma Shen's 2023 testimony, covering the CCP's information warfare strategy against Taiwan and the China Index data foundation.
 
-[^19]: [Locus Publishing: _Fighting Taiwan Is Less Effective Than Fooling Taiwan_ book page](https://www.locuspublishing.com/book/detail/10514) — Locus Publishing’s official book page recording the July 2024 publication background and table-of-contents structure of Shen and Wu Ming-hsuan’s _Fighting Taiwan Is Less Effective Than Fooling Taiwan: Q&A on China’s Cognitive Warfare Against Taiwan_.
+[^19]: [Dakuai Culture: 'Better to Deceive Taiwan Than Attack It' Book Page](https://www.locuspublishing.com/book/detail/10514) — The official book introduction page from Dakuai Culture Publishing, recording the background and table of contents for the July 2024 publication of 'Better to Deceive Taiwan Than Attack It: Q&A on China's Cognitive Warfare Against Taiwan' co-authored by Puma Shen and Wu Ming-hsuan.
 
-[^20]: [Wikipedia: Kuma Academy entry](https://zh.wikipedia.org/zh-hans/%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2) — Chinese Wikipedia summary of Kuma Academy’s co-founding by Shen and Ho Cheng-hui and its formal establishment in December 2021.
+[^20]: [Wikipedia: Black Bear Academy Entry](https://zh.wikipedia.org/zh-hans/%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2) — Chinese Wikipedia entry summarizing the history of the Black Bear Academy, co-founded by Puma Shen and Ho Cheng-hui, formally established in December 2021.
 
-[^21]: [Kuma Academy public course list](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Public course schedule on Kuma Academy’s OEN platform, documenting basic civil-defense course content including firefighting, search and rescue, evacuation, information identification, and AED/CPR.
+[^21]: [Black Bear Academy Public Course List](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Black Bear Academy's open course schedule on the OEN platform, listing basic civil defense course content including firefighting, search and rescue, evacuation, information literacy, AED/CPR, etc.
 
-[^22]: [_Liberty Times_: Robert Tsao’s NT$3 billion anti-communist, protect-Taiwan donation, with NT$600 million to Kuma](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — _Liberty Times_ September 1, 2022 report fully documenting former UMC chairman Robert Tsao’s press conference announcing a NT$3 billion donation to resist communism and protect Taiwan, including NT$600 million for Kuma Academy.
+[^22]: [Liberty Times: Robert Tsao Donates NT$3 Billion to Resist China and Defend Taiwan, NT$6 Billion to Black Bear Academy](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — Liberty Times, September 1, 2022 report, fully recording former UMC chairman Robert Tsao's announcement of donating NT$3 billion to resist China and defend Taiwan, with NT$6 billion allocated to the Black Bear Academy, at a press conference.
 
-[^23]: [_Liberty Times_: Puma Shen’s remarks at the Kuma warriors press conference](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — _Liberty Times_ report directly quoting Shen’s remarks at the September 1, 2022 Kuma Academy NT$600 million fundraising press conference.
+[^23]: [Liberty Times: Puma Shen's Remarks at Black Bear Warriors Press Conference](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — Liberty Times report directly quoting Puma Shen's on-site remarks at the Black Bear Academy NT$6 billion fundraising press conference on September 1, 2022.
 
-[^24]: [_Liberty Times_: Kuma Academy plan to train three million people in three years](https://news.ltn.com.tw/news/politics/paper/1565297) — _Liberty Times_ report on Kuma Academy’s goal and timeline for training three million “Kuma warriors” within three years.
+[^24]: [Liberty Times: Black Bear Academy's 3-Year Plan to Train 3 Million People](https://news.ltn.com.tw/news/politics/paper/1565297) — Liberty Times report on the Black Bear Academy's goal and timeline to train 3 million 'Black Bear Warriors' within three years.
 
-[^25]: [_Liberty Times_: NT$600 million quarterly disbursement and verification mechanism](https://news.ltn.com.tw/news/politics/breakingnews/4045927) — _Liberty Times_ report on the design of Robert Tsao’s NT$600 million donation to Kuma Academy, with quarterly disbursement and plan-based verification.
+[^25]: [Liberty Times: NT$6 Billion Disbursed Quarterly with Verification Mechanism](https://news.ltn.com.tw/news/politics/breakingnews/4045927) — Liberty Times report on the execution mechanism design for Robert Tsao's NT$6 billion donation to the Black Bear Academy, disbursed quarterly with plan-based verification.
 
-[^26]: [_Liberty Times_: More than 3,000 on waitlist for Kuma Academy’s first basic camp](https://news.ltn.com.tw/news/politics/paper/1538534) — _Liberty Times_ report that Kuma Academy’s first basic camp opened in September 2022 with a waitlist exceeding 3,000, reflecting strong demand in Taiwanese society for civil-defense education.
+[^26]: [Liberty Times: Over 3,000 on Waitlist for Black Bear Academy's First Basic Camp](https://news.ltn.com.tw/news/politics/paper/1538534) — Liberty Times report on the Black Bear Academy's first basic camp opened in September 2022, with a waitlist exceeding 3,000 people, reflecting Taiwan society's high demand for civil defense education.
 
-[^27]: [Kuma Academy public course information](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Kuma Academy OEN platform course announcement listing full modules including firefighting, search and rescue, medical aid, evacuation, cybersecurity, fraud prevention, AED/CPR, and bleeding-control bandaging.
+[^27]: [Black Bear Academy Public Course Information](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Black Bear Academy course announcement on the OEN platform, listing complete course modules including firefighting, search and rescue, first aid, evacuation, cybersecurity, fraud prevention, AED/CPR, and tourniquet bandaging.
 
-[^28]: [PTS News: Kuma Academy Operation Formosan Blue Magpie outdoor exercise](https://news.pts.org.tw/article/743411) — PTS News report on Kuma Academy’s semiannual “Operation Formosan Blue Magpie” outdoor scenario exercise, simulating evacuation and rescue procedures for noncombatants in wartime.
+[^28]: [PTS News: Black Bear Academy's Blue Magpie Action Outdoor Exercise](https://news.pts.org.tw/article/743411) — PTS News report on the Black Bear Academy's semi-annual 'Blue Magpie Action' outdoor field exercise, simulating wartime evacuation and medical aid procedures for non-combatants.
 
-[^29]: [Puma Shen X post on Kuma Academy role issue](https://x.com/pumashen/status/1847806524867170555) — Shen’s own X post stating that because of his roles as deputy executive director of the DPP think tank and as a legislator, legal rules prevent him from serving as Kuma Academy’s legal representative.
+[^29]: [Puma Shen's X Post: Black Bear Academy Identity Issue](https://x.com/pumashen/status/1847806524867170555) — Puma Shen's own post on X platform explaining that due to his roles as DPP think tank deputy director and legislator, legal regulations prevent him from serving as the Black Bear Academy's legal representative.
 
-[^30]: [CNA: DPP’s 2024 legislator-at-large list ranks Puma Shen second](https://www.cna.com.tw/news/aipl/202311155003.aspx) — CNA November 15, 2023 report on the DPP’s announcement of its 2024 legislator-at-large list, with Shen ranked second after Lin Yueh-chin.
+[^30]: [CNA: DPP 2024 At-Large Legislator List, Puma Shen Ranked 2nd](https://www.cna.com.tw/news/aipl/202311155003.aspx) — CNA, November 15, 2023 report on the DPP's release of the 2024 at-large legislator list, with Puma Shen ranked second (first is Lin Yueh-chin).
 
-[^31]: [Fount Media: DPP caucus’ ten national-security bills](https://www.fountmedia.io/article/276323) — Fount Media report on the ten national-security amendments advanced by the DPP caucus under Shen’s leadership, including the Cross-Strait Act, Hong Kong and Macao Act, Nationality Act, National Security Act, Communication Security and Surveillance Act, Anti-Infiltration Act, Cyber Security Management Act, Criminal Code, Criminal Code of the Armed Forces, and National Intelligence Services Act.
+[^31]: [People News: DPP Caucus' Top 10 National Security Amendment Bills](https://www.fountmedia.io/article/276323) — People News reports on the DPP caucus's top 10 national security amendment bills led by Shen Bo-yang, including the Cross-Strait Act, Hong Kong and Macau Act, Nationality Act, National Security Act, Telecommunications Management Act, Anti-Infiltration Act, Cybersecurity Management Act, Criminal Code, Criminal Code of the Armed Forces, and National Intelligence Work Act.
 
-[^32]: [Legislative Yuan Foreign Affairs and National Defense Committee official information](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46775) — Legislative Yuan official page for the Foreign Affairs and National Defense Committee, recording conveners for the 11th Legislative Yuan sessions, including Shen as one of the conveners in 2025.
+[^32]: [Official Information of the Legislative Yuan's Foreign Affairs and National Defense Committee](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46775) — The Legislative Yuan's Foreign Affairs and National Defense Committee page records the rotating conveners of the 11th session (Shen Bo-yang served as one of the conveners in 2025).
 
-[^33]: [_Storm Media_: Taiwan Affairs Office names Puma Shen, Robert Tsao, and Kuma Academy](https://www.storm.mg/article/5254288) — _Storm Media_ October 14, 2024 report with the full text of Taiwan Affairs Office spokesperson Chen Binhua’s press conference announcement placing Shen, Tsao, and Kuma Academy on the list of “diehard Taiwan independence separatists.”
+[^33]: [Storm Media: TAO Names Shen Bo-yang, Robert Tsao, and Black Bear Academy](https://www.storm.mg/article/5254288) — Storm Media, October 14, 2024, reports the full transcript of TAO spokesperson Chen Binhua's press conference announcing the inclusion of Shen Bo-yang, Robert Tsao, and the Black Bear Academy on the 'die-hard Taiwan independence separatists' list.
 
-[^34]: [CNA: Shen’s Facebook response to investigation](https://www.cna.com.tw/news/aipl/202510280086.aspx) — CNA October 28, 2025 report directly quoting Shen’s Facebook post that day, including “This is the sixth time in one year,” “Solving the person who raises the problem... really is very Communist Party,” and “Taiwanese are not afraid.”
+[^34]: [CNA: Shen Bo-yang's Facebook Response to Investigation Filing](https://www.cna.com.tw/news/aipl/202510280086.aspx) — CNA, October 28, 2025, reports with full direct quotes from Shen Bo-yang's Facebook post that day, including 'This is the 6th time in a year,' 'Solving the person who raises the problem... truly Communist Party,' and 'Taiwanese aren't scared.'
 
-[^35]: [_Taipei Times_: Sanctions on Shen’s father’s company](https://www.taipeitimes.com/News/taiwan/archives/2025/06/05/2003838105) — _Taipei Times_ June 5, 2025 report on the CCP’s sanctions against Sicuens International, owned by Shen’s father Shen Tu-cheng, barring transactions with Chinese enterprises and individuals.
+[^35]: [Taipei Times: Sanctions on Shen's Father's Company](https://www.taipeitimes.com/News/taiwan/archives/2025/06/05/2003838105) — Taipei Times, June 5, 2025, reports that the CCP announced sanctions against Chao Yi Ltd., owned by Shen Bo-yang's father Shen Tu-cheng, prohibiting transactions with mainland enterprises/individuals.
 
-[^36]: [CNA: Chinese customs cancels Sicuens registration](https://www.cna.com.tw/news/acn/202507160341.aspx) — CNA July 16, 2025 report on Chinese customs revoking the importer registration of Shen’s family business, Sicuens International Co. Ltd.
+[^36]: [CNA: Customs Revokes Sicuens Registration](https://www.cna.com.tw/news/acn/202507160341.aspx) — CNA, July 16, 2025, reports that China Customs revoked the importer registration qualification of Shen Bo-yang's family business Sicuens International Co. Ltd.
 
-[^37]: [_Business Today_: CCTV’s seven-and-a-half-minute exposé on Puma Shen](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — _Business Today_ November 9, 2025 report on CCTV News’ seven-and-a-half-minute exposé segment on Shen, also relaying Shen’s Facebook response using the phrases “pseudo-documentary” and “Nobody cares.”
+[^37]: [Business Weekly: CCTV 7.5-Minute Exposé on Shen Bo-yang](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — Business Weekly, November 9, 2025, reports that CCTV News Channel aired a 7.5-minute exposé on Shen Bo-yang, and relays Shen's own Facebook response quoting 'fake documentary' and 'Nobody cares.'
 
-[^38]: [CNA: Legal basis of “splitting the state” charge and the 22 Guidelines to Punish Independence](https://www.cna.com.tw/news/aipl/202510280086.aspx) — CNA report stating that the legal basis for Chongqing public security’s case was the Criminal Law and the _Opinions on Lawfully Punishing “Taiwan Independence” Diehards for the Crimes of Splitting the State and Inciting Splitting of the State_, commonly called the “22 Guidelines to Punish Independence.”
+[^38]: [CNA: Legal Basis for Crime of Splitting the Country - '22 Measures to Punish Taiwan Independence'](https://www.cna.com.tw/news/aipl/202510280086.aspx) — CNA reports that the legal basis for Chongqing police's case filing is the Criminal Law and the 'Opinions on Punishing Crimes of Splitting the Country and Inciting Splitting the Country by Die-hard Taiwan Independence Separatists in Accordance with the Law' (commonly known as the '22 Measures to Punish Taiwan Independence').
 
-[^39]: [Xinhua: Original Chongqing police notice](http://www.news.cn/20251028/c50bf44d994d4ac99af0b6be8f264223/c.html) — Xinhua’s October 28, 2025 publication of the original Chongqing Municipal Public Security Bureau notice, including the tip email `CQGACTD@163.com` and phone number `023-65697660`.
+[^39]: [Xinhua: Full Text of Chongqing Police Bulletin](http://www.news.cn/20251028/c50bf44d994d4ac99af0b6be8f264223/c.html) — Xinhua, October 28, 2025, releases the full text of the Chongqing Municipal Public Security Bureau's police bulletin, including the reporting email CQGACTD@163.com and phone number 023-65697660.
 
-[^40]: [CNEWS: Shen’s response to sanctions against his father’s company](https://cnews.com.tw/235250605a02/) — CNEWS June 5, 2025 report quoting Shen’s response in full to the CCP sanctions on his father’s Sicuens company, including “It is a great honor to have been sanctioned by the Taiwan Affairs Office for the third time in just one year,” “I think only China would do something that foolish,” and his interpretation that the sanctions were tied to the national-security bills he promoted.
+[^40]: [Cnews: Shen Bo-yang's Response to Father's Company Sanctions](https://cnews.com.tw/235250605a02/) — Cnews, June 5, 2025, reports Shen Bo-yang's verbatim response to his father's Chao Yi company being sanctioned by the CCP: 'Very honored to be sanctioned by the TAO for the 3rd time in just one year,' 'Such a stupid thing, I think only China could do it,' and his interpretation that the sanctions were incurred due to his promotion of national security bills.
 
-[^41]: [_Liberty Times_: CCTV warns “you could be next”](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — _Liberty Times_ November 9, 2025 report on the narration warning “Stop now, or you could be next” in CCTV’s “Exposing Puma Shen” segment and its intimidating implications.
+[^41]: [Liberty Times: CCTV Warns 'You're Next'](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — Liberty Times, November 9, 2025, reports on the CCTV 'Exposing Shen Bo-yang' special's narrator warning 'Stop now, or you're next' and analyzes its intimidation implications.
 
-[^42]: [_Taipei Times_: MAC statement on transnational repression](https://www.taipeitimes.com/News/taiwan/archives/2025/10/29/2003846284) — _Taipei Times_ October 29, 2025 report on the Mainland Affairs Council’s official statement defining the CCP investigation of Shen as “transnational repression.”
+[^42]: [Taipei Times: MAC Statement on Transnational Repression](https://www.taipeitimes.com/News/taiwan/archives/2025/10/29/2003846284) — Taipei Times, October 29, 2025, reports the Mainland Affairs Council's official statement defining the CCP's case filing and investigation against Shen Bo-yang as 'transnational repression.'
 
-[^43]: [_Business Today_: CCTV’s seven-and-a-half-minute exposé on Puma Shen, with excerpts from Shen’s Facebook response](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — _Business Today_ transcribed Shen’s November 9 Facebook post, including “Could you please stop doing exactly what I predict you are going to do every time? Have some creativity.”
+[^43]: [Business Weekly: CCTV 7.5-Minute Exposé on Shen Bo-yang (Excerpts from Shen's Facebook Response)](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — Business Weekly verbatim transcribes Shen Bo-yang's November 9 Facebook post, including the line 'Can you not do exactly what I predict you'll do every time? Be a little creative.'
 
-[^44]: [CNA: Shen video response to CCTV, “one country on each side”](https://www.cna.com.tw/news/aipl/202511090131.aspx) — CNA November 9, 2025 report on Shen’s short video response to CCTV, including the direct quotes “Taiwan and China are one country on each side,” “Do not fantasize about using trumped-up charges to reach your hands into Taiwan,” and “A word to CCTV: just do your internal propaganda properly.”
+[^44]: [CNA: Shen Bo-yang Video Responds to CCTV 'One Country on Each Side'](https://www.cna.com.tw/news/aipl/202511090131.aspx) — CNA, November 9, 2025, reports Shen Bo-yang released a short video responding to CCTV, with three direct quotes: 'Taiwan and China are one country on each side,' 'Don't delude yourselves into extending your hands into Taiwan by fabricating charges,' and 'Advise CCTV to just do your domestic propaganda properly.'
 
-[^45]: [Human Rights Watch: Maya Wang statement](https://www.hrw.org/news/2025/10/31/china-dubious-criminal-investigation-of-taiwanese-legislator) — Human Rights Watch Asia deputy director Maya Wang’s October 31, 2025 statement condemning the CCP case as an abusive Chinese law applied across borders.
+[^45]: [Human Rights Watch: Maya Wang Statement](https://www.hrw.org/news/2025/10/31/china-dubious-criminal-investigation-of-taiwanese-legislator) — Human Rights Watch Asia Deputy Director Maya Wang's October 31, 2025 statement in full, condemning the CCP's move in this case as 'Chinese law imposing abusive power across borders.'
 
-[^47]: [CNA: U.S. State Department expresses concern over China’s investigation of Shen](https://www.cna.com.tw/news/aipl/202511150018.aspx) — CNA November 15, 2025 report that the U.S. Department of State publicly expressed concern over China’s investigation of Shen and criticized the move as undermining norms around the Cross-Strait status quo.
+[^47]: [CNA: US State Department Concerned Over China's Investigation of Shen Bo-yang](https://www.cna.com.tw/news/aipl/202511150018.aspx) — CNA reported on November 15, 2025 that the US State Department expressed public concern over China's investigation of Shen Bo-yang and criticized the move for undermining cross-strait status quo norms.
 
-[^48]: [_Liberty Times_: IPAC’s Luke de Pulford supports Puma Shen](https://news.ltn.com.tw/news/politics/breakingnews/5247849) — _Liberty Times_ report on IPAC co-founder Luke de Pulford’s public post supporting Shen.
+[^48]: [Liberty Times: IPAC Co-founder Luke de Pulford Voices Support for Shen Bo-yang](https://news.ltn.com.tw/news/politics/breakingnews/5247849) — Liberty Times reports on Inter-Parliamentary Alliance on China (IPAC) co-founder Luke de Pulford publicly posting in support of Shen Bo-yang.
 
-[^49]: [_Liberty Times_: Legislative Yuan Foreign Affairs and National Defense Committee passes condemnation motion](https://news.ltn.com.tw/news/politics/breakingnews/5250860) — _Liberty Times_ November 19, 2025 report on the committee’s passage of an interim motion condemning the CCP’s case against Shen, including remarks by Wang Ting-yu and other proposers.
+[^49]: [Liberty Times: Legislative Yuan Foreign and National Defense Committee Passes Condemnation Resolution](https://news.ltn.com.tw/news/politics/breakingnews/5250860) — Liberty Times reported on November 19, 2025 that the Legislative Yuan's Foreign and National Defense Committee passed an interim motion condemning the CCP's investigation of Shen Bo-yang, including original remarks from proposers such as Wang Ting-yu.
 
-[^50]: [_Liberty Times_: China issues bounties on Pa Chiung and Minnan Wolf](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — _Liberty Times_ November 2025 report on Chinese public security issuing bounties for YouTuber “Pa Chiung” and “Minnan Wolf,” with a maximum reward of RMB 250,000.
+[^50]: [Liberty Times: China Offers Bounties for 'Ba Jiong' and 'Min Nan Lang'](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Liberty Times reported in November 2025 that Chinese public security issued bounties for YouTubers 'Ba Jiong' and 'Min Nan Lang,' with rewards up to RMB 250,000.
 
-[^51]: [_Liberty Times_: Shen reveals pinhole camera at his home and threatening letter](https://news.ltn.com.tw/news/politics/breakingnews/5163138) — _Liberty Times_ August 31, 2025 report on Shen’s first public disclosure on Cheng Hung-yi’s _People of the Times_ of a pinhole camera disguised as a motorcycle screw at his front door, a threatening letter containing a photo of his wife marked with the character “death,” a threat to slit his daughter’s throat, and his wife Tseng Hsin-hui’s anxiety and insomnia.
+[^51]: [Liberty Times: Shen Bo-yang Reveals Pinhole Camera at Doorstep and Threatening Letters](https://news.ltn.com.tw/news/politics/breakingnews/5163138) — Liberty Times reported on August 31, 2025 that Shen Bo-yang disclosed on Cheng Hung-yi's 'Talk of the Times Figures' program a pinhole camera disguised as a motorcycle screw at his doorstep, a threatening letter with the word 'death' written on a photo with his wife, threats to slit his daughter's throat, and his wife Tseng Hsin-hui's anxiety and insomnia.
 
-[^52]: [ETtoday “Frontline Figures”: interview on Shen and Tseng Hsin-hui adopting their daughter](https://www.ettoday.net/news/20240706/2771565.htm) — ETtoday’s July 6, 2024 “Frontline Figures” column on the full process by which Shen and his wife Tseng Hsin-hui adopted their daughter “Mochi” through the Garden of Hope Foundation, including the two-and-a-half-year process, the “belly mother” concept, the scene of “the first time I truly felt needed,” and Shen’s view of blood ties.
+[^52]: [ETtoday 'Fireline Figures': Shen Bo-yang and Tseng Hsin-hui Adoption Interview](https://www.ettoday.net/news/20240706/2771565.htm) — ETtoday's 'Fireline Figures' column on July 6, 2024 reported the full process of Shen Bo-yang and his wife Tseng Hsin-hui adopting their daughter 'Mochi' through the Garden of Hope Foundation, including the 2.5-year process, the 'tummy mummy' concept, the 'first time I was truly needed' moment, and Shen's views on blood relations.
 
-[^53]: [_United Daily News_: Puma Shen’s remarks at German Bundestag hearing](https://udn.com/news/story/124655/9136657) — _United Daily News_ November 12, 2025 report on Shen’s attendance at the German Bundestag hearing “Threats to Democracy and Human Rights from Disinformation by Authoritarian States” and quotes from his post-hearing interview.
+[^53]: [UDN: Shen Bo-yang's Testimony at German Bundestag Hearing](https://udn.com/news/story/124655/9136657) — UDN reported on November 12, 2025 on Shen Bo-yang's participation in the German Bundestag hearing 'Threats of Disinformation from Dictatorial States to Democracy and Human Rights,' including the proceedings and his post-hearing remarks.
 
-[^54]: [CNA: IPAC Hague meeting, photo of Shen and Fan Yun](https://www.cna.com.tw/news/aipl/202511210369.aspx) — CNA November 21, 2025 report documenting Shen and Fan Yun’s attendance at the IPAC meeting in The Hague and photo in front of the International Criminal Court.
+[^54]: [CNA: IPAC Hague Meeting - Shen Bo-yang and Fan Yun Photo](https://www.cna.com.tw/news/aipl/202511210369.aspx) — CNA reported on November 21, 2025, documenting Shen Bo-yang and Fan Yun attending the Inter-Parliamentary Alliance on China (IPAC) meeting at the International Criminal Court in The Hague, Netherlands.
 
-[^55]: [_Taipei Times_: Shen at Liberal International Hague panel](https://www.taipeitimes.com/News/front/archives/2025/11/23/2003847673) — _Taipei Times_ November 23, 2025 report on Shen’s remarks at the 209th Liberal International Executive Committee panel, including the quotes “China is a paper tiger,” “symbolic propaganda for domestic audiences,” and “This is where dictators are tried for war crimes or genocide.”
+[^55]: [Taipei Times: Shen at Liberal International Hague Panel](https://www.taipeitimes.com/News/front/archives/2025/11/23/2003847673) — Taipei Times reported on November 23, 2025 on Shen Bo-yang's remarks at the Liberal International 209th Executive Committee panel, including the quotes 'China is a paper tiger,' 'symbolic propaganda for domestic audiences,' and 'This is where dictators are tried for war crimes or genocide.'
 
-[^56]: [Ministry of Foreign Affairs: Stern condemnation of CCP doxxing of Puma Shen’s residence](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121443) — January 3, 2026 statement on the Ministry of Foreign Affairs website, including the official phrases “the vile method of doxxing, a form of digital authoritarianism,” “has lost the bottom line of civilization and is deeply contemptible,” and “domestic collaborators who cooperate with China in transnational repression should be legally sanctioned.”
+[^56]: [MOFA: Strongly Condemns CCP Doxxing of Shen Bo-yang's Residence](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121443) — The ROC Ministry of Foreign Affairs official website on January 3, 2026 issued a full condemnation statement, including the official phrasing: 'Doxxing, this despicable tactic of digital authoritarianism,' 'losing the bottom line of civilization, deeply contemptible,' and 'domestic collaborators who cooperate with China in transnational repression should all face legal sanctions.'
 
-[^57]: [_Liberty Times_: National Police Agency fully protecting Shen’s safety](https://news.ltn.com.tw/news/politics/breakingnews/5298005) — _Liberty Times_ January 3, 2026 report on the National Police Agency’s response to the satellite-location incident, announcing full protection of Shen’s safety and strict action against local collaborators.
+[^57]: [Liberty Times: National Police Agency Vows to Protect Shen Bo-yang's Safety](https://news.ltn.com.tw/news/politics/breakingnews/5298005) — Liberty Times reported on January 3, 2026 that the National Police Agency responded to the satellite positioning incident, announcing full efforts to protect Shen Bo-yang's safety and crack down on local collaborators.
 
-[^58]: [_Taiwan News_: Meta, Google remove satellite imagery posts](https://www.taiwannews.com.tw/news/6276185) — _Taiwan News_ January 5, 2026 report that Meta and Google removed posts, videos, and images by “Guyan Muchan” and “Today’s Strait” publishing Shen’s satellite imagery after requests from the Ministry of Digital Affairs.
+[^58]: [Taiwan News: Meta, Google Remove Satellite Imagery Posts](https://www.taiwannews.com.tw/news/6276185) — Taiwan News reported on January 5, 2026 that Meta and Google, at the request of the Ministry of Digital Affairs, removed posts, videos, and images published by 'Gu Yan Mu Chan' and 'Today Strait' revealing Shen Bo-yang's satellite imagery.
 
-[^59]: [_Liberty Times_: Shen’s January 3 Facebook response on “collective inferiority complex” and “useful idiots”](https://news.ltn.com.tw/news/politics/breakingnews/5298010) — _Liberty Times_ January 3, 2026 report on Shen’s Facebook response to the satellite-location incident, including “What China marked was Puma Shen’s coordinates; what it displayed was their collective inferiority complex toward democratic Taiwan,” the academic citation of “useful idiots,” and analysis of the “clumsy remake” of the Kansai Airport incident.
+[^59]: [Liberty Times: Shen Bo-yang's Jan 3 Facebook Response on 'Collective Inferiority' and 'Useful Idiots'](https://news.ltn.com.tw/news/politics/breakingnews/5298010) — Liberty Times reported on January 3, 2026 on Shen Bo-yang's Facebook response to the satellite positioning incident, including 'China marked Shen Bo-yang's coordinates, but revealed their collective inferiority complex toward democratic Taiwan,' academic citation of 'Useful Idiots,' and analysis of a 'poor imitation of the Kansai Airport incident.'
 
-[^60]: [_Liberty Times_: Shen reveals China’s three-axis 2026 “lock Taiwan” strategy](https://news.ltn.com.tw/news/politics/breakingnews/5321342) — _Liberty Times_ January 24, 2026 report on Shen’s long Facebook essay identifying the CCP’s three axes of “physical disarmament, cognitive change, and election-resource monopoly,” including his self-mocking line “My greatest function is probably still to be a ‘target.’”
+[^60]: [Liberty Times: Shen Bo-yang Reveals China's Three-Pronged Strategy to Lock Down Taiwan in 2026](https://news.ltn.com.tw/news/politics/breakingnews/5321342) — Liberty Times reported on January 24, 2026 on Shen Bo-yang's long Facebook post revealing the CCP's three-pronged strategy: 'physical disarmament, cognitive manipulation, election resource monopoly,' including his self-deprecating remark: 'My biggest function is probably still being a target.'
 
-[^61]: [_Taipei Times_: Shen returns from eight-day France mission](https://www.taipeitimes.com/News/taiwan/archives/2026/02/16/2003852414) — _Taipei Times_ February 16, 2026 report on Shen’s completion of an eight-day diplomatic mission to France, Valentine’s Day spent on a plane, and the translation of his Facebook commitment that he “will continue standing on the front line with my country.”
+[^61]: [Taipei Times: Shen Returns from 8-Day France Mission](https://www.taipeitimes.com/News/taiwan/archives/2026/02/16/2003852414) — Taipei Times reported on February 16, 2026 on Shen Bo-yang completing an 8-day diplomatic mission to France, spending Valentine's Day on a plane, and his full Facebook post upon return pledging 'I will continue to stand on the frontlines with my country.'
 
-[^62]: [_United Daily News_: DPP reportedly plans to field Puma Shen in Taipei mayoral race](https://udn.com/news/story/124652/9422462) — _United Daily News_ April 2026 report recording the DPP election strategy committee’s April 7 meeting and informed sources saying the party planned to field Shen for Taipei mayor.
+[^62]: [UDN: Plans to nominate Puma Shen for Taipei mayoral race](https://udn.com/news/story/124652/9422462) — UDN April 2026 report recording the DPP election campaign meeting on April 7 discussing, with insiders revealing plans to nominate Puma Shen to represent the party in the Taipei mayoral race.
 
-[^63]: [_United Daily News_: Hsu Kuo-yung endorses Shen for Taipei](https://udn.com/news/story/124652/9442093) — _United Daily News_ report on former interior minister Hsu Kuo-yung’s public endorsement of Shen for Taipei mayor.
+[^63]: [UDN: Former Interior Minister Hsu Kuo-yung endorses Puma Shen for Taipei mayor](https://udn.com/news/story/124652/9442093) — UDN reports on former Interior Minister Hsu Kuo-yung publicly endorsing Puma Shen's bid for Taipei mayor.
 
-[^64]: [TVBS Poll Center: December 2025 Taipei mayoral poll](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Full PDF of the TVBS Poll Center’s December 2025 Taipei mayoral poll, showing Chiang Wan-an at 64 percent support and Shen at 22 percent.
+[^64]: [TVBS Poll Center: December 2025 Taipei Mayoral Poll](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — TVBS Poll Center released the full PDF of the December 2025 Taipei mayoral poll: Chiang Wan-an 64% support, Puma Shen 22%.
 
-[^65]: [_United Daily News_: Shen’s makeover and first joint appearance with Chiang Wan-an](https://udn.com/news/story/124652/9463754) — _United Daily News_ April 25, 2026 report on Shen saying goodbye to his curly hair, appearing for the first time with Chiang Wan-an at the Songshan Ciyou Temple Mother Goddess Cultural Festival, and public comparisons to Takuya Kimura, Chang Hsiao-chuan, and Bae Yong-joon.
+[^65]: [UDN: Puma Shen transforms, shares stage with Chiang Wan-an for first time](https://udn.com/news/story/124652/9463754) — UDN April 25, 2026 report: Puma Shen ditches his 'explosion hair', appears on stage with Chiang Wan-an for the first time at the Songshan Cihui Hall Mother-Daughter Cultural Festival; comparisons drawn to Takuya Kimura, Joseph Chang, Bae Yong-joon.
 
-[^66]: [_United Daily News_: Confirmed: DPP formally approves Puma Shen for Taipei mayor](https://udn.com/news/story/124652/9499591) — _United Daily News_ May 13, 2026 report on the DPP Central Executive Committee’s formal approval of Shen’s nomination for Taipei mayor, with President Lai Ching-te, concurrently DPP chair, personally placing the campaign sash on Shen and joining him in shouting “dong suan.”
+[^66]: [UDN: Confirmed! DPP officially decides Puma Shen to run for Taipei mayor](https://udn.com/news/story/124652/9499591) — UDN May 13, 2026 report: DPP Central Executive Committee officially nominates Puma Shen for Taipei mayor; President Lai Ching-te, also party chair, personally drapes campaign sash on Shen, they hold hands and shout 'Freeze garlic!' (a Taiwanese phrase meaning 'no problem').
 
-[^67]: [Yahoo News: Shen formally runs against Chiang Wan-an; Lai praises him as the only choice for Taipei mayor](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Direct quotes from the May 13, 2026 press conference, including Lai saying Shen has “the height of international vision, the breadth of cross-domain governance, and the warmth of care for residents” and is “the only choice for Taipei mayor,” as well as Shen’s acceptance remarks: “I have decided to run for Taipei mayor. Please let me become your mayor.”
+[^67]: [Yahoo News: Puma Shen officially runs against Chiang Wan-an; Lai Ching-te praises him as 'the only choice for Taipei mayor'](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Direct quotes from May 13, 2026 press conference: Lai Ching-te calls Shen 'possessing the height of international vision, breadth of cross-domain governance, and warmth of care for citizens' and 'the only choice for Taipei mayor'; Shen accepts nomination: 'I decide to run for Taipei mayor, please let me be your mayor.'
 
-[^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Focus Taiwan May 13, 2026 report confirming that election day is November 28, 2026, that Shen’s opponent is incumbent KMT Taipei mayor Chiang Wan-an, and quoting Lai’s praise for Shen’s NGO experience at Kuma Academy and Doublethink Lab and his cross-disciplinary background in criminology, law, and public policy.
+[^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Focus Taiwan (CNA English) May 13, 2026 report confirms election date November 28, 2026, opponent is KMT Taipei Mayor Chiang Wan-an seeking re-election; cites Lai Ching-te affirming Shen's NGO experience at Black Bear Academy and Taiwan Democracy Lab, and cross-disciplinary background in criminology, law, and public policy.
 
-[^69]: [_United Daily News_: Latest Taipei poll shows Chiang Wan-an beating Puma Shen by 28 percentage points](https://udn.com/news/story/124652/9529403) — _United Daily News_ report on the TVBS Poll Center’s May 27, 2026 Taipei mayoral poll: Chiang Wan-an at 58 percent support, Shen at 30 percent, a gap of 28 percentage points; among young voters aged twenty to twenty-nine, Shen’s 37 percent also trailed Chiang’s 60 percent.
+[^69]: [UDN: Latest Taipei poll shows Chiang Wan-an leading Puma Shen by 28 percentage points](https://udn.com/news/story/124652/9529403) — UDN reports TVBS Poll Center May 27, 2026 Taipei mayoral poll: Chiang Wan-an 58%, Puma Shen 30%, gap 28 points; among 20-29 age group, Shen 37% still lower than Chiang's 60%.
+
+[^70]: [Liberty Times: Latest TVBS poll reveals Chiang Wan-an 49%, Puma Shen 41%, gap down to single digits after 4 months](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Liberty Times October 8, 2026 reports TVBS Poll Center same-day Taipei mayoral poll: Chiang 49%, Shen 41%, gap narrowed from 28 points in late May to 8 points, 11% undecided; ages 20-29 Shen 52% vs Chiang 44%, reversing May's 37%. Survey conducted Oct 3 and Oct 5-7, valid sample 1,120, sampling error ±2.9 percentage points.
+
+[^71]: [Liberty Times: Major turnaround! Taipei poll: Shen 50.3% overtakes Chiang 33.3%, leading by 17 points](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Liberty Times October 20, 2026 reports Shinmin Association second-wave Taipei mayoral poll: Shen 50.3%, Chiang 33.3%, a 17-point swing from September's Chiang 41.7%, Shen 40.5%. Questionnaire design and analysis by Tai Li-an, telephone interviews by Beacon Market Research, conducted Oct 14-16, 1,075 completed interviews (753 landline, 322 mobile), maximum sampling error ±3.0 percentage points. Report notes KMT Taipei city councilors questioned the association's impartiality before previous poll release.

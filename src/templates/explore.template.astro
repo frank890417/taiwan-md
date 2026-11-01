@@ -109,17 +109,17 @@ interface PickArticle {
 
 const categoryFolders: Array<[string, string, string]> = [
   ['history', 'History', '📜'],
-  ['geography', 'Geography', '🗺️'],
+  ['geography', 'Geography', '🏞️'],
   ['culture', 'Culture', '🎭'],
   ['food', 'Food', '🍜'],
-  ['art', 'Art', '🎨'],
+  ['art', 'Art', '🖌️'],
   ['music', 'Music', '🎵'],
   ['technology', 'Technology', '💻'],
   ['nature', 'Nature', '🌿'],
-  ['people', 'People', '👥'],
-  ['society', 'Society', '🏛️'],
-  ['economy', 'Economy', '📊'],
-  ['lifestyle', 'Lifestyle', '🏠'],
+  ['people', 'People', '👤'],
+  ['society', 'Society', '👥'],
+  ['economy', 'Economy', '🪙'],
+  ['lifestyle', 'Lifestyle', '🛵'],
 ];
 
 const allPicks: PickArticle[] = [];
@@ -300,6 +300,7 @@ const langPrefixesLower = [
 // Routed categories (SSOT, lowercase) — random pool must only land on
 // /[category]/[slug] pages; excludes resources/* + categoryless strays.
 const routedCats = categoryList;
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <Layout
@@ -362,20 +363,13 @@ const routedCats = categoryList;
             class="group flex flex-1 items-center gap-3 rounded-xl border-2 border-[#cbd5e1] bg-[#f8fafc] px-5 py-[0.95rem] text-left transition-all hover:border-[#10b981] hover:bg-white hover:shadow-[0_2px_8px_rgba(16,185,129,0.12)] focus:border-[#10b981] focus:bg-white focus:shadow-[0_2px_12px_rgba(16,185,129,0.18)] focus:outline-none"
             aria-label={t('explore.search.heading')}
           >
-            <svg
-              width="20"
-              height="20"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="#64748b"
-              stroke-width="2.5"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              class="flex-shrink-0 transition-colors group-hover:stroke-[#10b981]"
-            >
-              <circle cx="11" cy="11" r="8"></circle>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-            </svg>
+            <Fragment
+              set:html={iconSvg(
+                'search',
+                '',
+                'flex-shrink-0 transition-colors group-hover:stroke-[#10b981]',
+              )}
+            />
             <span
               class="flex-1 text-[1rem] font-medium text-[#94a3b8] max-[480px]:text-[0.9rem]"
             >

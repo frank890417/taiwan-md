@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:36049c1494516a6b'
-sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-10-10T03:04:45.593683+00:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:d991df46b210ff83'
+sourceBodyHash: 'sha256:1f26407bb0738827'
+translatedAt: '2026-10-21T12:53:08.102923+00:00'
 ---
 
 # Tích Mộc Dung: Giao hưởng thơ giữa cỏ cỏ và thế đại
@@ -37,13 +37,13 @@ Năm 1949, lúc mười sáu tuổi, Tích Mộc Dung theo gia đình di cư t�
 
 Năm 1954, Tích Mộc Dung theo gia đình định cư tại Đài Loan. Những năm thanh thiếu niên sống ở Đài Loan, đặc biệt là thiên nhiên và nhân văn của Đài Loan, đã cung cấp nguồn tố liệu phong phú cho sáng tác thơ của cô. Những ngọn núi, dòng sông, hoa cỏ và những sự thay đổi theo mùa ở Đài Loan đều trở thành những hình ảnh lặp lại liên tục trong thơ ca của cô.
 
-## Thời gian học tập tại Khoa Mỹ Thuật Đại học Sư phạm
+## Thời gian học tập tại Khoa Mỹ thuật Đại học Sư phạm Đài Loan
 
-Sau khi tốt nghiệp trung học, Tích Mộc Dung vào Khoa Mỹ Thuật Đại học Sư phạm Đài Loan. Việc đào tạo chuyên ngành mỹ thuật đã phát triển những cảm nhận tinh tế của cô với màu sắc và cấu thành, những kỹ năng này sau đó được hòa nhập vào sáng tác thơ ca của cô.[^1]
+Sau khi tốt nghiệp trung học, Tích Mộc Dung (Xi Murong) thi đỗ vào Khoa Mỹ thuật của Đại học Sư phạm Đài Loan. Quá trình đào tạo chuyên môn về mỹ thuật đã bồi dưỡng cho cô khả năng cảm thụ nhạy bén về màu sắc và bố cục, những tố chất nghệ thuật này sau đó đều được lồng ghép vào các sáng tác thơ ca của cô. [^1]
 
-Trong thời gian học ở trường sư phạm, Tích Mộc Dung đã có thành tích trong hội họa và bắt đầu thử nghiệm sáng tác văn học, đọc tất cả thơ của những tác giả thơ hiện đại. Tác phẩm của những nhà thơ hiện đại đã tác động sâu đến cô, giúp cô dần hình thành ngôn ngữ thơ riêng của mình.
+Trong thời gian học tại Đại học Sư phạm Đài Loan, Tích Mộc Dung đã đạt được những thành tựu nhất định trong hội họa, đồng thời cũng bắt đầu thử sức với sáng tác văn học thông qua việc đọc rộng rãi các tác phẩm thơ ca trong và ngoài nước. Các tác phẩm của những nhà thơ hiện đại đã có ảnh hưởng sâu sắc đến cô, giúp cô dần hình thành nên ngôn ngữ thơ ca của riêng mình.
 
-Năm 1966 tốt nghiệp, Tích Mộc Dung du học tại Viện Mỹ Thuật Hoàng gia Bỉ ở Bruxelles. Những bảo tàng, nhà thờ và công trình kiến trúc cổ đại châu Âu đều để lại ấn tượng sâu sắc cho cô, mở rộng tầm nhìn sáng tác của cô.[^2]
+Sau khi tốt nghiệp Đại học Sư phạm Đài Loan vào năm 1963, Tích Mộc Dung đã sang Brussels, Bỉ để theo học chuyên sâu tại Viện Mỹ thuật Hoàng gia Bỉ vào năm 1964 và tốt nghiệp vào năm 1966. Các bảo tàng, nhà thờ và kiến trúc cổ kính ở châu Âu đều để lại ấn tượng sâu sắc trong lòng cô, giúp mở rộng tầm nhìn sáng tác của mình. [^2]
 
 ## «Thất Lý Hương»: Xuất hiện lạng lẫy trên thơ đàn
 
@@ -53,19 +53,19 @@ Thành công của «Thất Lý Hương» nằm ở ngôn ngữ dễ hiểu—kh
 
 Bài thơ «Một cây hoa nở» trở thành tác phẩm kinh điển trong thơ ca bằng tiếng Hoa: "Làm sao để bạn gặp tôi / Lúc tôi đẹp nhất lên / Vì vậy / Tôi đã năn nỉ Phật từ năm trăm năm / Xin Ngài để chúng tôi kết một mối duyên với nhau." Bài thơ này với những hình ảnh thanh thoát và tình cảm sâu sắc, cho đến nay vẫn được truyền tụng rộng rãi.
 
-## «Vô Oán của Thanh Xuân»: Nhìn lại thơm thẫm những năm trẻ
+## 《Vô oán đích thanh xuân》: Cái nhìn đầy thi vị về những năm tháng tuổi trẻ
 
-«Vô Oán của Thanh Xuân» ra mắt năm 1982 kế tiếp thành công của «Thất Lý Hương». Tập thơ này tập trung vào những chủ đề thanh xuân, tình yêu, tình bạn và những suy tư sâu sắc của nhà thơ về cuộc sống. Bài thơ cùng tên tập hợp «Vô Oán của Thanh Xuân» diễn tả sự luyến tiếc những năm tháng đã qua và tung bá thanh xuân.[^4]
+Tập thơ 《Vô oán đích thanh xuân》 (Tuổi trẻ không hối tiếc) xuất bản năm 1983 đã tiếp nối thành công của 《Thất lý hương》. Tập thơ này tập trung vào các chủ đề nhân sinh như tuổi trẻ, tình yêu và tình bạn, thể hiện những chiêm nghiệm sâu sắc của nhà thơ về cuộc đời. Tiêu đề tác phẩm 〈Vô oán đích thanh xuân〉 đã bày tỏ sự luyến tiếc đối với những năm tháng đã qua cùng sự ngợi ca dành cho tuổi trẻ. [^4]
 
-Thơ ca của Tích Mộc Dung thường khởi phát từ một cảnh vật hoặc hình ảnh cụ thể, dần triển khai, cuối cùng thăng hoa lên tới chiều cao triết học. Một đặc điểm khác của «Vô Oán của Thanh Xuân» là tính nhạc—có nhịp điệu mạnh mẽ, thích hợp để lục lại, cho phép độc giả cảm nhận được vẻ đẹp của thơ ca qua tiếng nói.
+Thơ của Tịch Mộ Dung thường bắt đầu từ một bối cảnh hoặc hình tượng cụ thể, dần dần mở rộng và cuối cùng thăng hoa lên tầm cao triết lý. Một đặc điểm khác của 《Vô oán đích thanh xuân》 là tính nhạc — nhịp điệu mạnh mẽ, phù hợp để ngâm thơ, giúp độc giả cảm nhận được vẻ đẹp của thi ca thông qua âm thanh.
 
-## Sáng tác văn xuôi và tâm sự Mông Cổ
+## Sáng tác tản văn và nỗi niềm Mông Cổ
 
-Ngoài thơ ca, Tích Mộc Dung cũng là một tác giả văn xuôi. Từ cuối những năm 1980 trở đi, cô liên tiếp công bố những tập văn xuôi như «Vết tích của sự trưởng thành», «Có một bài hát» và những tác phẩm khác, tiếp tục phong cách sáng tạo thanh thoát của thơ ca, với ngôn ngữ tươi mới và tình cảm chân thành.
+Ngoài thơ ca, Tịch Mộ Dung (Xi Murong) còn là một nhà tản văn. Vào đầu những năm 1980, bà lần lượt xuất bản các tập tản văn như 《Dấu vết trưởng thành》 (1982), 《Có một bài hát》..., tiếp nối phong cách thanh khiết của thơ ca với ngôn từ ưu mỹ và cảm xúc chân thành.
 
-Năm 1989, cô lần đầu tiên đặt chân lên cỏ cỏ Mông Cổ, hành trình tìm về gốc rễ này đã tác động to lớn đến cô. Cô bắt đầu sáng tác hàng loạt thơ ca và văn xuôi lấy Mông Cổ làm chủ đề, những tác phẩm như «Nhà tôi nằm trên cao nguyên» và «Tổ quốc còn chờ đợi» thể hiện tình yêu sâu đẫm của cô dành cho cỏ cỏ và những suy tư về văn hoá dân tộc. Cô sử dụng hình thức thơ ca hiện đại để diễn tả sự luyến tiếc đối với văn hoá cổ xưa và sự công nhận bản dân tộc của mình.[^5]
+Năm 1989, lần đầu tiên bà đặt chân lên thảo nguyên Mông Cổ, chuyến hành trình tìm về cội nguồn này đã để lại ảnh hưởng to lớn đối với bà. Bà bắt đầu sáng tác lượng lớn các tác phẩm thơ và tản văn lấy chủ đề Mông Cổ; những tác phẩm như 《Nhà tôi ở trên cao nguyên》, 《Giang sơn hữu đãi》 đã thể hiện tình cảm sâu nặng của bà dành cho thảo nguyên cũng như những suy ngẫm về văn hóa dân tộc. Thông qua hình thức thơ hiện đại, bà bày tỏ sự luyến lưu đối với nền văn hóa cổ xưa và sự đồng nhất về bản sắc dân tộc. [^5]
 
-«Tôi đặt tên cho ký ức» là tập thơ của tuổi xế chiều cô, ra mắt năm 2019, với độ tuổi cao nhìn lại suốt cuộc đời của mình với những lần di tản và tìm về gốc rễ, ngôn ngữ càng ngày càng trở nên yên tĩnh và rút gọn.
+《Tôi đặt tên cho ký ức》 xuất bản năm 2019 là tập thơ thời kỳ hậu vận của bà, dùng tuổi già để nhìn lại cuộc đời phiêu bạt và hành trình tìm về cội nguồn, với ngôn ngữ càng trở nên tĩnh lặng và nội liễm hơn.
 
 ## Sự kết hợp hoàn hảo giữa hội họa và thơ ca
 
@@ -87,19 +87,19 @@ Khác với [[白先勇]] với phong cách tinh tế huyền bí, [[龍應台]]
 
 ## Tài liệu tham khảo
 
-[^1]: [Khoa Mỹ Thuật Đại học Sư phạm Đài Loan](https://www.ntnu.edu.tw/art/) — Nền tảng thành lập Khoa Mỹ Thuật Đại học Sư phạm Đài Loan và thông tin alumni.
+[^1]: [Khoa Mỹ thuật, Đại học Sư phạm Quốc gia Đài Loan](https://www.ntnu.edu.tw/art/) — Bối cảnh thành lập Khoa Mỹ thuật thuộc Đại học Sư phạm Quốc gia Đài Loan và thông tin về cựu sinh viên.
 
-[^2]: [Viện Mỹ Thuật Hoàng gia Bỉ (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Cơ sở du học của Tích Mộc Dung, Viện Mỹ Thuật Quốc lập Bỉ.
+[^2]: [Học viện Mỹ thuật Hoàng gia Brussels (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Cơ sở du học của Tịch Mộ Dung, trường nghệ thuật quốc gia của Bỉ.
 
-[^3]: [Bảo tàng Văn học Quốc gia Đài Loan — Triển lãm Tích Mộc Dung](https://www.nmtl.gov.tw/) — Kỷ lục ra mắt và tái bản của «Thất Lý Hương», gồm dữ liệu bán hàng tập thơ và tài liệu triển lãm.
+[^3]: [Bảo tàng Văn học Quốc gia Đài Loan — Triển lãm đặc biệt về Tịch Mộ Dung](https://www.nmtl.gov.tw/) — Hồ sơ xuất bản và tái bản tác phẩm 《Thất Lý Hương》, bao gồm dữ liệu doanh số tập thơ và tài liệu triển lãm.
 
-[^4]: [Liên minh Sách điện tử Đài Loan — Trang Tích Mộc Dung](https://www.taaze.tw/) — Tài liệu lần đầu ra mắt của «Vô Oán của Thanh Xuân» và xác nhận năm xuất bản.
+[^4]: [Liên minh Sách điện tử Đài Loan — Trang tác phẩm của Tịch Mộ Dung](https://www.taaze.tw/) — Xác nhận thông tin về bản in đầu tiên và năm xuất bản của tác phẩm 《Vô Oán Đích Thanh Xuân》.
 
-[^5]: [Bảo tàng Văn hoá Mông-Tạng — Sáng tác văn học Mông Cổ Tích Mộc Dung](https://www.mtac.gov.tw/) — Chuyên đề giới thiệu của cơ quan chính phủ về sáng tác văn học Mông Cổ của Tích Mộc Dung.
+[^5]: [Thư viện Văn hóa Mông - Tạng — Sáng tác văn học Mông Cổ của Tịch Mộ Dung](https://www.mtac.gov.tw/) — Giới thiệu chuyên đề từ cơ quan chính phủ về các sáng tác văn học Mông Cổ của Tịch Mộ Dung.
 
-[^6]: [Trang web chính thức Tích Mộc Dung](http://www.ximurong.tw) — Trang web chính thức của nhà thơ, lưu trữ thông tin tác phẩm, kỷ lục triển lãm hội họa và quá trình sáng tác.
+[^6]: [Trang web chính thức của Tịch Mộ Dung](http://www.ximurong.tw) — Trang web chính thức của nhà thơ, lưu trữ thông tin tác phẩm, hồ sơ triển lãm tranh và quá trình sáng tác.
 
-[^7]: [Giải Văn Nghệ Quốc Gia — Quỹ Văn hoá Nghệ thuật Quốc gia](https://www.ncafroc.org.tw/) — Kỷ lục giải thưởng của Tích Mộc Dung và giải thích của ban giám khảo.
+[^7]: [Giải thưởng Văn nghệ Quốc gia — Quỹ Văn hóa và Nghệ thuật Quốc gia](https://www.ncafroc.org.tw/) — Hồ sơ đạt giải của Tịch Mộ Dung và thuyết minh từ hội đồng giám khảo.
 
 ## Đọc thêm
 

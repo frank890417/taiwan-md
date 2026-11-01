@@ -1,0 +1,61 @@
+---
+/**
+ * TerrainRidge.astro — 識別系統 v2 的「地形行」線稿（台灣本島依真實高程抬升）
+ *
+ * 幾何的唯一來源是 src/data/brand/identity.json 的 ridge（docs/brand/source/mark.mjs
+ * 產生），這裡不手寫任何座標。每一行先畫一塊底色面（把後面的行遮住，才有前後層次），
+ * 再畫線；北迴歸線那一行用 accent 色，其餘用 stroke 色（識別手冊 §圖形元素）。
+ *
+ * /brand 手冊自己有一份 sprite 版本（同一份路徑在那頁出現十幾次），這個元件給
+ * 只放一次的頁面用，例如 /data 的深色 header。
+ */
+import identity from '../../data/brand/identity.json';
+
+interface Props {
+  /** 一般行的線色 */
+  stroke?: string;
+  /** 北迴歸線那一行的線色 */
+  accent?: string;
+  /** 每一行底下的遮擋面，要跟放置處的底色一樣 */
+  bg?: string;
+  strokeWidth?: number;
+  class?: string;
+  /** 純裝飾時隱藏給輔助科技；要當圖說明時給 label */
+  label?: string;
+}
+
+const {
+  stroke = 'currentColor',
+  accent = '#007864',
+  bg = 'transparent',
+  strokeWidth = 4.2,
+  class: className,
+  label,
+} = Astro.props;
+
+const I = identity as any;
+const islandW: number = I.island.width;
+const islandH: number = I.island.height;
+const pad = islandW * 0.08;
+const lift = islandH * 0.1;
+const f = (n: number) => +n.toFixed(2);
+const viewBox = `${f(-pad)} ${f(-pad - lift)} ${f(islandW + 2 * pad)} ${f(islandH + 2 * pad + lift)}`;
+const paths = (I.ridge as { t: number; base: number; d: string }[])
+  .map((r) => {
+    const last = r.d.match(/([\d.]+) [\d.]+$/)![1];
+    const first = r.d.match(/^M([\d.]+)/)![1];
+    return `<path d="${r.d}L${last} ${r.base}L${first} ${r.base}Z" fill="${bg}"/><path d="${r.d}" fill="none" stroke="${r.t ? accent : stroke}" stroke-width="${strokeWidth}" stroke-linejoin="round"/>`;
+  })
+  .join('');
+---
+
+<svg
+  class={className}
+  viewBox={viewBox}
+  preserveAspectRatio="xMidYMid meet"
+  role={label ? 'img' : undefined}
+  aria-label={label}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+  set:html={paths}
+/>

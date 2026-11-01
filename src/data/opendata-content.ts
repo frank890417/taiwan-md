@@ -10,7 +10,28 @@
  * 這個檔案只放 Taiwan.md 的策展判斷：怎麼評估、怎麼組合、對應哪些文章。
  */
 
-export type OpendataLang = 'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr';
+import { OPENDATA_OVERLAYS } from './opendata-overlays';
+
+export type OpendataLang =
+  | 'zh-TW'
+  | 'en'
+  | 'ja'
+  | 'ko'
+  | 'es'
+  | 'fr'
+  | 'vi'
+  | 'id'
+  | 'pt'
+  | 'hi'
+  | 'ar'
+  | 'ru'
+  | 'de';
+
+export type DeepPartial<T> = T extends (infer U)[]
+  ? DeepPartial<U>[]
+  : T extends object
+    ? { [K in keyof T]?: DeepPartial<T[K]> }
+    : T;
 
 interface LinkItem {
   title: string;
@@ -124,9 +145,7 @@ export interface OpendataContent {
   };
 }
 
-export const OPENDATA_CONTENT: Partial<
-  Record<OpendataLang, OpendataContent>
-> & {
+export const OPENDATA_CONTENT: Partial<Record<string, OpendataContent>> & {
   'zh-TW': OpendataContent;
 } = {
   'zh-TW': {
@@ -140,12 +159,12 @@ export const OPENDATA_CONTENT: Partial<
       title: 'OpenData 策展',
       subtitle: '台灣開放資料 × Twinkle Hub 的意義層導覽',
       intro: [
-        '台灣政府的開放資料平台上有將近五萬個資料集。這個數字對任何想用它的人都是壓垮性的：你不知道哪個重要、哪個更新到什麼時候、哪兩張表可以對在一起，更不知道它們跟你關心的問題有什麼關係。',
-        'Taiwan.md 寫了九百多篇關於台灣的文章，每一篇背後都有「這件事該用什麼資料驗證」的判斷。這一頁把這層判斷攤開來：我們怎麼評估資料基礎建設、要分析一件事的時候用哪些資料集怎麼組合、以及每一個資料領域跟島上哪些故事相連。',
+        '台灣政府的開放資料平台上有五萬兩千多個資料集。這個數字對任何想用它的人都是壓垮性的：你不知道哪個重要、哪個更新到什麼時候、哪兩張表可以對在一起，更不知道它們跟你關心的問題有什麼關係。',
+        'Taiwan.md 寫了一千一百多篇關於台灣的文章，每一篇背後都有「這件事該用什麼資料驗證」的判斷。這一頁把這層判斷攤開來：我們怎麼評估資料基礎建設、要分析一件事的時候用哪些資料集怎麼組合、以及每一個資料領域跟島上哪些故事相連。',
       ],
       viz: {
         stats: [
-          { n: 49343, suffix: '', label: '政府資料集' },
+          { n: 52556, suffix: '', label: '政府資料集（2026-10-23）' },
           { n: 1240000, suffix: '+', label: '判決書全文' },
           { n: 320663, suffix: '', label: '國考題目' },
           { n: 226825, suffix: '', label: '營養分析列' },
@@ -181,7 +200,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: '意義的層（策展）',
           desc: '資料不會自己說話。哪個資料集值得指、它驗證哪個論點、跟哪段歷史相連——這是策展的工作。我們的文章從 2026 年 6 月起逐篇接上「公開數據」段，把敘事跟原始資料縫在一起。',
-          stat: '900+ 篇文章・15 個資料集指標上線',
+          stat: '1,100+ 篇文章・15 個資料集指標上線',
         },
       ],
     },
@@ -194,7 +213,7 @@ export const OPENDATA_CONTENT: Partial<
           name: '資料的完整',
           verdict: '覆蓋面是真的，而且超出鏡像',
           points: [
-            '收錄 data.gov.tw 約 96.6% 全量（49,343 個資料集，2026-06-05 盤點），外加 13.5 萬筆政府電子採購紀錄與立法院資料',
+            'data.gov.tw 官方平台截至 2026-10-23 上架 52,556 個資料集；Twinkle Hub 站上標示台灣來源 53,185 個（含自策資料集），外加 13.5 萬筆政府電子採購紀錄與立法院資料（2026-06 盤點）',
             '20 個領域分類各帶「典型問題」與「定錨範例」，每個資料集標品質分層（白金到銅）、更新頻率、格式與可串連鍵',
             '自策資料集補了政府入口的洞：全國實價登錄（買賣／預售／租賃）直接接內政部地政司系統',
             '五個垂直語料庫超出單純鏡像：專利全文、國考題庫、判決書、藥證與食品營養（規模見下節）',
@@ -318,22 +337,9 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story: '國家的負債表：中央政府欠了多少錢、用什麼速度還',
-            datasets: [
-              {
-                name: '中央政府近期公共債務概況表',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: '每 1 月',
-              },
-              {
-                name: '紓困特別預算歲出執行明細',
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: '不定期',
-              },
-            ],
-            how: '債務餘額做月序列，對照 GDP 與公共債務法的舉債上限；再把歷年特別預算（防疫、前瞻、強韌）逐筆疊上去，看「例外動支」怎麼變成常態。',
-          },
+          articles: [
+            { title: '中央政府總預算', href: '/politics/中央政府總預算' },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -413,27 +419,7 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story: '投保薪資的天花板：三張勞動部的表，看見台灣人的真實薪水',
-            datasets: [
-              {
-                name: '勞保投保單位、人數及平均投保薪資',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: '每 1 年',
-              },
-              {
-                name: '就業保險投保統計',
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: '每 1 年',
-              },
-              {
-                name: '職災保險投保統計',
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: '每 1 年',
-              },
-            ],
-            how: '勞保、就保、職災三套投保薪資按行業與單位規模交叉。注意 45,800 元投保上限造成的右側截斷：不先處理，高薪行業的平均值會被系統性低估，「平均薪資」的爭論一半來自這裡。',
-          },
+          articles: [{ title: '誰算低薪', href: '/society/誰算低薪' }],
         },
         {
           key: 'social_population',
@@ -445,7 +431,7 @@ export const OPENDATA_CONTENT: Partial<
         {
           key: 'culture_tourism_sport',
           articles: [
-            { title: '夜市文化', href: '/culture/夜市文化' },
+            { title: '夜市文化', href: '/food/夜市文化' },
             { title: '台灣棒球文化', href: '/culture/台灣棒球文化' },
           ],
         },
@@ -629,7 +615,7 @@ export const OPENDATA_CONTENT: Partial<
             '跨期普查比較是關鍵：攤位數與營收的五年變化，對照行動支付滲透與觀光人次。下一次普查發布時，所有引用 23.3 萬攤的文章都該回來對表。',
           articles: [
             { title: '夜市經濟學', href: '/economy/夜市經濟學' },
-            { title: '夜市文化', href: '/culture/夜市文化' },
+            { title: '夜市文化', href: '/food/夜市文化' },
           ],
         },
         {
@@ -763,15 +749,15 @@ export const OPENDATA_CONTENT: Partial<
       title: 'Open Data Curation',
       subtitle: "A meaning-layer guide to Taiwan's open data × Twinkle Hub",
       intro: [
-        "Taiwan's government open data platform hosts nearly fifty thousand datasets. That number overwhelms anyone who actually wants to use them: you don't know which ones matter, how far each is kept up to date, or which two tables can be joined, let alone how any of it relates to the questions you care about.",
-        'Taiwan.md has written over nine hundred articles about Taiwan, and behind every one sits a judgment call: what data should verify this? This page lays that layer of judgment open: how we assess the data infrastructure, which datasets to combine (and how) when analyzing a question, and which stories on this island each data domain connects to.',
+        "Taiwan's government open data platform hosts over fifty-two thousand datasets. That number overwhelms anyone who actually wants to use them: you don't know which ones matter, how far each is kept up to date, or which two tables can be joined, let alone how any of it relates to the questions you care about.",
+        'Taiwan.md has written over eleven hundred articles about Taiwan, and behind every one sits a judgment call: what data should verify this? This page lays that layer of judgment open: how we assess the data infrastructure, which datasets to combine (and how) when analyzing a question, and which stories on this island each data domain connects to.',
       ],
       viz: {
         stats: [
           {
-            n: 49343,
+            n: 52556,
             suffix: '',
-            label: 'government datasets',
+            label: 'government datasets (2026-10-23)',
           },
           {
             n: 1240000,
@@ -824,7 +810,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: 'The layer of meaning (curation)',
           desc: "Data doesn't speak for itself. Which dataset deserves pointing to, which claim it verifies, which stretch of history it connects to — that is curation work. Starting June 2026, our articles are getting 'Public data' sections one by one, stitching narrative to raw data.",
-          stat: '900+ articles · 15 dataset pointers live',
+          stat: '1,100+ articles · 15 dataset pointers live',
         },
       ],
     },
@@ -837,7 +823,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Data completeness',
           verdict: 'The coverage is real, and it goes beyond mirroring',
           points: [
-            'Covers roughly 96.6% of data.gov.tw in full (49,343 datasets as of our 2026-06-05 count), plus 135,000 government e-procurement records and Legislative Yuan data',
+            "data.gov.tw itself lists 52,556 datasets as of 2026-10-23; Twinkle Hub's site shows 53,185 for Taiwan (self-curated sets included), plus 135,000 government e-procurement records and Legislative Yuan data (counted 2026-06)",
             "Each of the 20 domain categories comes with 'typical questions' and anchor examples; every dataset is tagged with a quality tier (platinum to bronze), update frequency, format, and joinable keys",
             "Self-curated datasets patch holes in the government portals: nationwide real-price registration (sales / pre-sale / rentals) connects straight to the Ministry of the Interior's Land Administration systems",
             'Five vertical corpora go beyond simple mirroring: patent full texts, national exam question banks, court judgments, drug licenses, and food nutrition (scale detailed in the next section)',
@@ -969,23 +955,12 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story:
-              "The nation's debt sheet: how much the central government owes, and how fast it pays it back",
-            datasets: [
-              {
-                name: 'Central government recent public debt overview',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: 'monthly',
-              },
-              {
-                name: 'Relief special budget expenditure execution details',
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: 'irregular',
-              },
-            ],
-            how: "Build a monthly series of the debt balance, set against GDP and the borrowing ceiling in the Public Debt Act; then layer on each year's special budgets (pandemic relief, Forward-Looking, resilience) item by item, and watch how 'exceptional spending' becomes the norm.",
-          },
+          articles: [
+            {
+              title: 'Central government general budget',
+              href: '/politics/中央政府總預算',
+            },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -1097,28 +1072,9 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story:
-              'The insured-salary ceiling: three Ministry of Labor tables that reveal what Taiwanese actually earn',
-            datasets: [
-              {
-                name: 'Labor insurance: insured units, persons, and average insured salary',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: 'yearly',
-              },
-              {
-                name: 'Employment insurance enrollment statistics',
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: 'yearly',
-              },
-              {
-                name: 'Occupational accident insurance enrollment statistics',
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: 'yearly',
-              },
-            ],
-            how: "Cross-tabulate the three insured-salary series — labor, employment, and occupational accident insurance — by industry and unit size. Mind the right-censoring caused by the NT$45,800 insured-salary cap: leave it unhandled and the averages for high-paying industries get systematically understated. Half the 'average salary' controversy comes from here.",
-          },
+          articles: [
+            { title: 'Who counts as low-paid', href: '/society/誰算低薪' },
+          ],
         },
         {
           key: 'social_population',
@@ -1138,7 +1094,7 @@ export const OPENDATA_CONTENT: Partial<
           articles: [
             {
               title: 'Night market culture',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
             {
               title: "Taiwan's baseball culture",
@@ -1359,7 +1315,7 @@ export const OPENDATA_CONTENT: Partial<
             },
             {
               title: 'Night market culture',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
           ],
         },
@@ -1525,15 +1481,15 @@ export const OPENDATA_CONTENT: Partial<
       title: 'オープンデータ・キュレーション',
       subtitle: '台湾オープンデータ × Twinkle Hub の意味レイヤーガイド',
       intro: [
-        '台湾政府のオープンデータプラットフォームには、5万件近いデータセットがあります。この数字は、使おうとする誰にとっても圧倒的です。どれが重要なのか、どれがいつまで更新されているのか、どの2つの表を突き合わせられるのか分からず、ましてや自分が気にかけている問いとどう関係するのかは見当もつきません。',
-        'Taiwan.md は台湾について900本以上の記事を書いてきました。その一本一本の背後には「この話はどのデータで検証すべきか」という判断があります。このページはその判断の層を開いて見せるものです。私たちがデータ基盤をどう評価しているのか、ひとつの問いを分析するときにどのデータセットをどう組み合わせるのか、そしてそれぞれのデータ領域がこの島のどんな物語とつながっているのか。',
+        '台湾政府のオープンデータプラットフォームには、5万2千件を超えるデータセットがあります。この数字は、使おうとする誰にとっても圧倒的です。どれが重要なのか、どれがいつまで更新されているのか、どの2つの表を突き合わせられるのか分からず、ましてや自分が気にかけている問いとどう関係するのかは見当もつきません。',
+        'Taiwan.md は台湾について1,100本以上の記事を書いてきました。その一本一本の背後には「この話はどのデータで検証すべきか」という判断があります。このページはその判断の層を開いて見せるものです。私たちがデータ基盤をどう評価しているのか、ひとつの問いを分析するときにどのデータセットをどう組み合わせるのか、そしてそれぞれのデータ領域がこの島のどんな物語とつながっているのか。',
       ],
       viz: {
         stats: [
           {
-            n: 49343,
+            n: 52556,
             suffix: '',
-            label: '政府データセット',
+            label: '政府データセット（2026-10-23）',
           },
           {
             n: 1240000,
@@ -1586,7 +1542,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: '意味の層（キュレーション）',
           desc: 'データは自分では語りません。どのデータセットを指すべきか、それがどの論点を検証するのか、どの歴史とつながるのか——それがキュレーションの仕事です。Taiwan.md の記事は2026年6月から順次「公開データ」セクションを備え、物語と一次データを縫い合わせています。',
-          stat: '900本超の記事・15のデータセットポインタ稼働中',
+          stat: '1,100本超の記事・15のデータセットポインタ稼働中',
         },
       ],
     },
@@ -1599,7 +1555,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'データの完全性',
           verdict: 'カバレッジは本物、しかも単なるミラーを超えている',
           points: [
-            'data.gov.tw の全量の約96.6%を収録（49,343件のデータセット、2026-06-05時点の棚卸し）。さらに13.5万件の政府電子調達記録と立法院データも追加収録',
+            'data.gov.tw 自体は2026-10-23時点で52,556件のデータセットを公開。Twinkle Hub のサイトは台湾分として53,185件（自前キュレーション分を含む）を表示し、さらに13.5万件の政府電子調達記録と立法院データも収録（2026-06棚卸し）',
             '20の領域分類それぞれに「典型的な問い」と「アンカー例」が付き、各データセットには品質階層（プラチナから銅まで）・更新頻度・フォーマット・結合可能なキーを明記',
             '独自キュレーションのデータセットが政府ポータルの穴を埋めている：全国不動産実取引価格登録（売買／完成前販売／賃貸）は内政部地政司のシステムに直結',
             '5つの垂直コーパスは単純なミラーを超えている：特許全文、国家試験問題バンク、判決文、医薬品許可証と食品栄養（規模は次節参照）',
@@ -1730,23 +1686,9 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story:
-              '国家の負債表：中央政府はいくら借りていて、どんな速度で返しているのか',
-            datasets: [
-              {
-                name: '中央政府の直近公共債務概況表',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: '毎月',
-              },
-              {
-                name: '救済特別予算の歳出執行明細',
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: '不定期',
-              },
-            ],
-            how: '債務残高を月次系列にし、GDP と公共債務法の起債上限に照らします。さらに歴年の特別予算（防疫・前瞻インフラ・強靱化）を一件ずつ重ねれば、「例外的な支出」が常態へ変わっていく様子が見えてきます。',
-          },
+          articles: [
+            { title: '中央政府総予算', href: '/politics/中央政府總預算' },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -1857,28 +1799,7 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story:
-              '保険加入賃金の天井：労働部の3つの表から見える、台湾人の本当の給料',
-            datasets: [
-              {
-                name: '労働保険の加入事業所数・人数・平均加入賃金',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: '毎年',
-              },
-              {
-                name: '就業保険の加入統計',
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: '毎年',
-              },
-              {
-                name: '労災保険の加入統計',
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: '毎年',
-              },
-            ],
-            how: '労働保険・就業保険・労災保険の3系統の加入賃金を、業種と事業所規模でクロス集計します。注意すべきは45,800元の加入上限が生む右側の打ち切り。先に処理しないと高賃金業種の平均は系統的に過小評価され、「平均賃金」論争の半分はここから来ています。',
-          },
+          articles: [{ title: '誰が低賃金なのか', href: '/society/誰算低薪' }],
         },
         {
           key: 'social_population',
@@ -1898,7 +1819,7 @@ export const OPENDATA_CONTENT: Partial<
           articles: [
             {
               title: '夜市文化',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
             {
               title: '台湾の野球文化',
@@ -2117,7 +2038,7 @@ export const OPENDATA_CONTENT: Partial<
             },
             {
               title: '夜市文化',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
           ],
         },
@@ -2282,15 +2203,15 @@ export const OPENDATA_CONTENT: Partial<
       title: '오픈데이터 큐레이션',
       subtitle: '대만 공공데이터 × Twinkle Hub 의미 레이어 가이드',
       intro: [
-        '대만 정부의 공공데이터 플랫폼에는 5만 개에 가까운 데이터셋이 있습니다. 이 숫자는 쓰려는 사람 누구에게나 압도적입니다. 어떤 것이 중요한지, 어디까지 갱신됐는지, 어느 두 표를 맞붙일 수 있는지, 그리고 그것들이 내가 관심 있는 문제와 무슨 관계인지 알 수 없기 때문입니다.',
-        'Taiwan.md는 대만에 관한 900여 편의 글을 썼고, 모든 글 뒤에는 "이 일은 어떤 데이터로 검증해야 하는가"라는 판단이 있습니다. 이 페이지는 그 판단의 층을 펼쳐 보입니다: 우리가 데이터 인프라를 어떻게 평가하는지, 무언가를 분석할 때 어떤 데이터셋을 어떻게 조합하는지, 그리고 각 데이터 영역이 이 섬의 어떤 이야기와 이어지는지.',
+        '대만 정부의 공공데이터 플랫폼에는 5만 2천 개가 넘는 데이터셋이 있습니다. 이 숫자는 쓰려는 사람 누구에게나 압도적입니다. 어떤 것이 중요한지, 어디까지 갱신됐는지, 어느 두 표를 맞붙일 수 있는지, 그리고 그것들이 내가 관심 있는 문제와 무슨 관계인지 알 수 없기 때문입니다.',
+        'Taiwan.md는 대만에 관한 1,100여 편의 글을 썼고, 모든 글 뒤에는 "이 일은 어떤 데이터로 검증해야 하는가"라는 판단이 있습니다. 이 페이지는 그 판단의 층을 펼쳐 보입니다: 우리가 데이터 인프라를 어떻게 평가하는지, 무언가를 분석할 때 어떤 데이터셋을 어떻게 조합하는지, 그리고 각 데이터 영역이 이 섬의 어떤 이야기와 이어지는지.',
       ],
       viz: {
         stats: [
           {
-            n: 49343,
+            n: 52556,
             suffix: '',
-            label: '정부 데이터셋',
+            label: '정부 데이터셋 (2026-10-23)',
           },
           {
             n: 1240000,
@@ -2343,7 +2264,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: '의미의 층(큐레이션)',
           desc: '데이터는 스스로 말하지 않습니다. 어떤 데이터셋을 가리킬 가치가 있는지, 그것이 어떤 논점을 검증하는지, 어떤 역사와 이어지는지를 정하는 것이 큐레이션의 일입니다. 우리 글은 2026년 6월부터 한 편씩 "공개 데이터" 섹션을 달아, 서사와 원본 데이터를 꿰매고 있습니다.',
-          stat: '900+ 편의 글・15개 데이터셋 포인터 가동 중',
+          stat: '1,100+ 편의 글・15개 데이터셋 포인터 가동 중',
         },
       ],
     },
@@ -2356,7 +2277,7 @@ export const OPENDATA_CONTENT: Partial<
           name: '데이터의 완전성',
           verdict: '커버리지는 진짜이며, 미러링을 넘어선다',
           points: [
-            'data.gov.tw의 약 96.6% 전량 수록(49,343개 데이터셋, 2026-06-05 집계), 추가로 13.5만 건의 정부 전자조달 기록과 입법원 자료',
+            'data.gov.tw 자체는 2026-10-23 기준 52,556개 데이터셋을 공개 중이고, Twinkle Hub 사이트는 대만 몫으로 53,185개(자체 큐레이션 포함)를 표시하며, 추가로 13.5만 건의 정부 전자조달 기록과 입법원 자료(2026-06 집계)',
             '20개 영역 분류마다 "전형적 질문"과 "앵커 예시"가 붙고, 각 데이터셋에 품질 등급(플래티넘~브론즈)·갱신 주기·포맷·연결 키가 표시됨',
             '자체 큐레이션 데이터셋이 정부 포털의 빈틈을 메움: 전국 실거래가 등록(매매/분양/임대)을 내정부 지정사 시스템에 직접 연결',
             '다섯 개 수직 코퍼스는 단순 미러링을 넘어섬: 특허 전문, 국가고시 문제은행, 판결문, 의약품 허가와 식품 영양(규모는 아래 섹션 참조)',
@@ -2487,23 +2408,9 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story:
-              '국가의 부채 대차대조표: 중앙정부는 얼마를 빚졌고 어떤 속도로 갚는가',
-            datasets: [
-              {
-                name: '중앙정부 최근 공공부채 개황표',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: '매월',
-              },
-              {
-                name: '긴급지원 특별예산 세출 집행 명세',
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: '비정기',
-              },
-            ],
-            how: '부채 잔액을 월 시계열로 만들어 GDP와 공공부채법의 차입 상한에 대조하고, 역대 특별예산(방역·전망·강인)을 한 건씩 얹어 "예외적 지출"이 어떻게 상시화되는지 봅니다.',
-          },
+          articles: [
+            { title: '중앙정부 총예산', href: '/politics/中央政府總預算' },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -2614,28 +2521,7 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story:
-              '가입 신고 임금의 천장: 노동부의 표 석 장으로 보는 대만인의 진짜 월급',
-            datasets: [
-              {
-                name: '노동보험 가입 사업장·인원·평균 신고 임금',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: '매년',
-              },
-              {
-                name: '고용보험 가입 통계',
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: '매년',
-              },
-              {
-                name: '산재보험 가입 통계',
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: '매년',
-              },
-            ],
-            how: '노동보험·고용보험·산재보험 세 가지 신고 임금을 업종과 사업장 규모로 교차합니다. 45,800 대만달러 가입 상한이 만드는 오른쪽 절단에 주의: 먼저 처리하지 않으면 고임금 업종의 평균이 체계적으로 과소평가되며, "평균 임금" 논쟁의 절반이 여기서 나옵니다.',
-          },
+          articles: [{ title: '누가 저임금인가', href: '/society/誰算低薪' }],
         },
         {
           key: 'social_population',
@@ -2655,7 +2541,7 @@ export const OPENDATA_CONTENT: Partial<
           articles: [
             {
               title: '야시장 문화',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
             {
               title: '대만 야구 문화',
@@ -2872,7 +2758,7 @@ export const OPENDATA_CONTENT: Partial<
             },
             {
               title: '야시장 문화',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
           ],
         },
@@ -3038,15 +2924,15 @@ export const OPENDATA_CONTENT: Partial<
       subtitle:
         'Datos abiertos de Taiwán × Twinkle Hub: una guía por la capa de significado',
       intro: [
-        'La plataforma de datos abiertos del gobierno de Taiwán reúne casi cincuenta mil conjuntos de datos. Esa cifra abruma a cualquiera que quiera usarla: no sabes cuál importa, hasta cuándo se actualiza cada uno, qué dos tablas pueden cruzarse, y mucho menos qué relación tienen con las preguntas que te importan.',
+        'La plataforma de datos abiertos del gobierno de Taiwán reúne más de cincuenta y dos mil conjuntos de datos. Esa cifra abruma a cualquiera que quiera usarla: no sabes cuál importa, hasta cuándo se actualiza cada uno, qué dos tablas pueden cruzarse, y mucho menos qué relación tienen con las preguntas que te importan.',
         'Taiwan.md ha escrito más de novecientos artículos sobre Taiwán, y detrás de cada uno hay un juicio: «¿con qué datos se verifica esto?». Esta página despliega esa capa de juicio: cómo evaluamos la infraestructura de datos, qué conjuntos de datos usamos y cómo los combinamos cuando analizamos algo, y con qué historias de la isla se conecta cada dominio de datos.',
       ],
       viz: {
         stats: [
           {
-            n: 49343,
+            n: 52556,
             suffix: '',
-            label: 'conjuntos de datos gubernamentales',
+            label: 'conjuntos de datos gubernamentales (2026-10-23)',
           },
           {
             n: 1240000,
@@ -3099,7 +2985,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: 'La capa del significado (curaduría)',
           desc: 'Los datos no hablan solos. Qué conjunto de datos merece ser señalado, qué argumento verifica, con qué tramo de la historia se conecta: ese es el trabajo de la curaduría. Desde junio de 2026 nuestros artículos van incorporando, uno a uno, una sección de «datos públicos» que cose la narrativa con los datos originales.',
-          stat: '900+ artículos · 15 referencias a conjuntos de datos ya en línea',
+          stat: '1,100+ artículos · 15 referencias a conjuntos de datos ya en línea',
         },
       ],
     },
@@ -3112,7 +2998,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Integridad de los datos',
           verdict: 'La cobertura es real, y va más allá de un espejo',
           points: [
-            'Recoge cerca del 96,6 % del total de data.gov.tw (49 343 conjuntos de datos, inventario del 2026-06-05), más 135 000 registros de contratación electrónica del gobierno y datos del Yuan Legislativo',
+            'data.gov.tw publica por sí mismo 52 556 conjuntos de datos a 2026-10-23; el sitio de Twinkle Hub muestra 53 185 para Taiwán (incluidos los de curaduría propia), más 135 000 registros de contratación electrónica del gobierno y datos del Yuan Legislativo',
             'Cada una de las 20 categorías de dominio trae «preguntas típicas» y «ejemplos ancla»; cada conjunto de datos lleva etiquetas de nivel de calidad (de platino a bronce), frecuencia de actualización, formato y claves de enlace',
             'Sus conjuntos de datos de curaduría propia tapan agujeros de los portales gubernamentales: el registro nacional de precios reales de transacciones inmobiliarias (compraventa / preventa / alquiler) se conecta directamente al sistema del Departamento de Administración de Tierras del Ministerio del Interior',
             'Cinco corpus verticales van más allá del simple espejo: textos completos de patentes, banco de preguntas de exámenes nacionales, sentencias judiciales, licencias de medicamentos y nutrición alimentaria (las escalas, en la sección siguiente)',
@@ -3243,23 +3129,12 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story:
-              'El balance de deuda del Estado: cuánto debe el gobierno central y a qué velocidad lo paga',
-            datasets: [
-              {
-                name: 'Panorama reciente de la deuda pública del gobierno central',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: 'mensual',
-              },
-              {
-                name: 'Detalle de ejecución del gasto del presupuesto especial de alivio económico',
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: 'irregular',
-              },
-            ],
-            how: 'El saldo de la deuda como serie mensual, contrastado con el PIB y con el techo de endeudamiento de la Ley de Deuda Pública; luego se superponen, uno a uno, los presupuestos especiales de cada año (pandemia, infraestructura prospectiva, resiliencia) para ver cómo el «gasto excepcional» se convierte en norma.',
-          },
+          articles: [
+            {
+              title: 'El presupuesto general del gobierno central',
+              href: '/politics/中央政府總預算',
+            },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -3372,28 +3247,12 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story:
-              'El techo del salario asegurado: tres tablas del Ministerio de Trabajo para ver el sueldo real de los taiwaneses',
-            datasets: [
-              {
-                name: 'Seguro laboral: unidades aseguradas, número de afiliados y salario asegurado promedio',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: 'anual',
-              },
-              {
-                name: 'Estadísticas de afiliación al seguro de empleo',
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: 'anual',
-              },
-              {
-                name: 'Estadísticas de afiliación al seguro de accidentes laborales',
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: 'anual',
-              },
-            ],
-            how: 'Los salarios asegurados de los tres regímenes (seguro laboral, de empleo y de accidentes laborales) cruzados por sector y tamaño de la unidad. Ojo con el truncamiento por la derecha que produce el tope de aseguramiento de NT$ 45 800: si no se trata primero, el promedio de los sectores de salarios altos queda sistemáticamente subestimado; la mitad de la polémica sobre el «salario promedio» nace aquí.',
-          },
+          articles: [
+            {
+              title: 'Quién cuenta como mal pagado',
+              href: '/society/誰算低薪',
+            },
+          ],
         },
         {
           key: 'social_population',
@@ -3413,7 +3272,7 @@ export const OPENDATA_CONTENT: Partial<
           articles: [
             {
               title: 'La cultura de los mercados nocturnos',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
             {
               title: 'La cultura del béisbol en Taiwán',
@@ -3636,7 +3495,7 @@ export const OPENDATA_CONTENT: Partial<
             },
             {
               title: 'La cultura de los mercados nocturnos',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
           ],
         },
@@ -3804,15 +3663,15 @@ export const OPENDATA_CONTENT: Partial<
       subtitle:
         'Les données ouvertes de Taïwan × Twinkle Hub : le guide de la couche de sens',
       intro: [
-        "La plateforme de données ouvertes du gouvernement taïwanais compte près de cinquante mille jeux de données. Ce chiffre écrase quiconque veut s'en servir : impossible de savoir lesquels comptent, jusqu'à quand ils sont tenus à jour, quelles tables peuvent se croiser — et encore moins ce qu'ils ont à voir avec les questions qui vous préoccupent.",
+        "La plateforme de données ouvertes du gouvernement taïwanais compte plus de cinquante-deux mille jeux de données. Ce chiffre écrase quiconque veut s'en servir : impossible de savoir lesquels comptent, jusqu'à quand ils sont tenus à jour, quelles tables peuvent se croiser — et encore moins ce qu'ils ont à voir avec les questions qui vous préoccupent.",
         "Taiwan.md a écrit plus de neuf cents articles sur Taïwan, et derrière chacun il y a un jugement : « avec quelles données vérifier cette affirmation ». Cette page étale ce jugement au grand jour : comment nous évaluons l'infrastructure de données, quels jeux de données combiner — et comment — pour analyser une question, et à quelles histoires de l'île chaque domaine de données se relie.",
       ],
       viz: {
         stats: [
           {
-            n: 49343,
+            n: 52556,
             suffix: '',
-            label: 'jeux de données publics',
+            label: 'jeux de données publics (2026-10-23)',
           },
           {
             n: 1240000,
@@ -3865,7 +3724,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Taiwan.md',
           role: 'La couche du sens (curation)',
           desc: "Les données ne parlent pas d'elles-mêmes. Quel jeu de données mérite d'être pointé, quelle affirmation il vérifie, à quel pan d'histoire il se relie — c'est le travail de curation. Depuis juin 2026, nos articles reçoivent un à un une section « Données publiques » qui coud le récit aux données d'origine.",
-          stat: '900+ articles · 15 pointeurs de jeux de données en ligne',
+          stat: '1,100+ articles · 15 pointeurs de jeux de données en ligne',
         },
       ],
     },
@@ -3878,7 +3737,7 @@ export const OPENDATA_CONTENT: Partial<
           name: 'Complétude des données',
           verdict: 'La couverture est réelle, et elle dépasse le simple miroir',
           points: [
-            'Environ 96,6 % du catalogue complet de data.gov.tw (49 343 jeux de données, inventaire du 5 juin 2026), plus 135 000 marchés publics électroniques et les données du Yuan législatif',
+            'data.gov.tw recense lui-même 52 556 jeux de données au 23 octobre 2026 ; le site de Twinkle Hub en affiche 53 185 pour Taïwan (jeux auto-curés inclus), plus 135 000 marchés publics électroniques et les données du Yuan législatif',
             "Les 20 catégories de domaines arrivent chacune avec leurs « questions types » et leurs « exemples d'ancrage » ; chaque jeu de données porte un niveau de qualité (du platine au bronze), sa fréquence de mise à jour, son format et ses clés de jointure",
             "Les jeux de données constitués par le hub lui-même comblent les trous des portails publics : le registre national des prix immobiliers réels (ventes / préventes / locations) se branche directement sur le système du Département des affaires foncières du ministère de l'Intérieur",
             'Cinq corpus verticaux vont au-delà du simple miroir : texte intégral des brevets, banque de questions des examens nationaux, jugements, autorisations de médicaments et nutrition alimentaire (les échelles sont dans la section suivante)',
@@ -4009,23 +3868,12 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'public_finance',
-          proposed: {
-            story:
-              "Le passif de l'État : combien le gouvernement central doit, et à quelle vitesse il rembourse",
-            datasets: [
-              {
-                name: 'Situation récente de la dette publique du gouvernement central',
-                href: 'https://data.gov.tw/dataset/12146',
-                freq: 'mensuel',
-              },
-              {
-                name: "Détail d'exécution des dépenses des budgets spéciaux de soutien économique",
-                href: 'https://data.gov.tw/dataset/127428',
-                freq: 'irrégulier',
-              },
-            ],
-            how: "Mettre l'encours de la dette en série mensuelle, face au PIB et au plafond d'emprunt fixé par la loi sur la dette publique ; puis empiler, un à un, les budgets spéciaux successifs (pandémie, infrastructures d'avenir, résilience) pour voir comment la « dépense d'exception » devient la norme.",
-          },
+          articles: [
+            {
+              title: 'Le budget général du gouvernement central',
+              href: '/politics/中央政府總預算',
+            },
+          ],
         },
         {
           key: 'tax_revenue',
@@ -4138,28 +3986,7 @@ export const OPENDATA_CONTENT: Partial<
         },
         {
           key: 'labor_employment',
-          proposed: {
-            story:
-              'Le plafond du salaire assuré : trois tableaux du ministère du Travail pour voir le vrai salaire des Taïwanais',
-            datasets: [
-              {
-                name: 'Assurance travail : unités assurées, effectifs et salaire assuré moyen',
-                href: 'https://data.gov.tw/dataset/100999',
-                freq: 'annuel',
-              },
-              {
-                name: "Statistiques d'affiliation à l'assurance emploi",
-                href: 'https://data.gov.tw/dataset/101000',
-                freq: 'annuel',
-              },
-              {
-                name: "Statistiques d'affiliation à l'assurance accidents du travail",
-                href: 'https://data.gov.tw/dataset/161743',
-                freq: 'annuel',
-              },
-            ],
-            how: "Croiser les salaires assurés des trois régimes — assurance travail, assurance emploi, accidents du travail — par secteur et par taille d'établissement. Attention à la troncature à droite créée par le plafond d'assurance de 45 800 NT$ : sans correction, la moyenne des secteurs bien payés est systématiquement sous-estimée — la moitié du débat sur le « salaire moyen » vient de là.",
-          },
+          articles: [{ title: 'Qui est mal payé', href: '/society/誰算低薪' }],
         },
         {
           key: 'social_population',
@@ -4179,7 +4006,7 @@ export const OPENDATA_CONTENT: Partial<
           articles: [
             {
               title: 'La culture des marchés de nuit',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
             {
               title: 'La culture du baseball à Taïwan',
@@ -4402,7 +4229,7 @@ export const OPENDATA_CONTENT: Partial<
             },
             {
               title: 'La culture des marchés de nuit',
-              href: '/culture/夜市文化',
+              href: '/food/夜市文化',
             },
           ],
         },
@@ -4558,3 +4385,35 @@ export const OPENDATA_CONTENT: Partial<
     },
   },
 };
+
+// ── 取用入口 ────────────────────────────────────────────────────────────────
+// 六語（zh-TW/en/ja/ko/es/fr）有完整內容；vi/id/pt/hi/ar/ru/de 用「英文底稿 +
+// overlay」：overlay 翻譯最顯眼的部分（hero、各區標題與說明、卡片標題），
+// 其餘（逐項要點、資料集名稱、故事標題）退回英文，絕不退回中文。
+// 陣列按索引逐項合併，所以 overlay 的陣列可以只寫前幾項的部分欄位。
+function deepMerge<T>(base: T, over: DeepPartial<T> | undefined): T {
+  if (over === undefined || over === null) return base;
+  if (Array.isArray(base)) {
+    const o = over as unknown as unknown[];
+    return base.map((b, i) => deepMerge(b, o[i] as never)) as unknown as T;
+  }
+  if (base && typeof base === 'object') {
+    const out: Record<string, unknown> = { ...(base as object) };
+    for (const [k, v] of Object.entries(over as object)) {
+      out[k] = deepMerge(
+        (base as Record<string, unknown>)[k] as never,
+        v as never,
+      );
+    }
+    return out as T;
+  }
+  return over as unknown as T;
+}
+
+export function getOpendataContent(lang: string): OpendataContent {
+  const full = OPENDATA_CONTENT[lang];
+  if (full) return full;
+  const en = OPENDATA_CONTENT.en ?? OPENDATA_CONTENT['zh-TW'];
+  const overlay = OPENDATA_OVERLAYS[lang];
+  return overlay ? deepMerge(en, overlay) : en;
+}

@@ -1,15 +1,15 @@
 ---
-title: "Hsiao Ch'ing-yang: levando o design taiwanês ao palco mundial"
-description: 'Vencedor do Grammy de Melhor Embalagem de Álbum, sete vezes indicado, e finalmente coroado em colaboração com sua filha; figura representativa do design taiwanês no cenário internacional'
+title: 'Hsiao Ching-yang (蕭青陽)'
+description: 'Vencedor do Grammy de Melhor Design de Embalagem de Álbum, tornou-se um ícone do design de Taiwan no cenário mundial após sete indicações e uma vitória em parceria com sua filha.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'designer',
-    'Grammy',
+    'Designer',
+    'Grammy Awards',
     'embalagem de álbum',
     'design visual',
-    'cultura taiwanesa',
+    'cultura de Taiwan',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -17,67 +17,67 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:0a577177f15f5897'
-sourceBodyHash: 'sha256:269ea0687b8a4a49'
-translatedAt: '2026-09-23T02:56:17+08:00'
+sourceCommitSha: 'aef325181'
+sourceContentHash: 'sha256:2c73351691aac54a'
+sourceBodyHash: 'sha256:4e85011d7634bdc0'
+translatedAt: '2026-10-21T20:47:18+08:00'
 ---
 
-# Hsiao Ch'ing-yang: levando o design taiwanês ao palco mundial
+# Hsiao Ching-yang: Levando o design de Taiwan ao palco mundial
 
-> **Resumo em 30 segundos:** Hsiao Ch'ing-yang (唐青洋) nasceu em 1966 em Xinzhuang, formou-se na Escola Comercial de Fengxing e é um dos designers visuais mais conhecidos internacionalmente de Taiwan. Em 2005, foi indicado pela primeira vez ao Grammy de Melhor Embalagem de Álbum na 47ª edição. Desde então, acumulou sete indicações. Na 65ª cerimônia do Grammy, em 2023, finalmente venceu ao lado de sua filha, Hsiao Chun-hsuan, com o álbum _Beginningless Beginning_, tornando-se o primeiro designer taiwanês a conquistar essa categoria.
+> **Resumo em 30 segundos:** Nascido em Xindian em 1966 e formado pela Fu-Hsing Commercial & Industrial Vocational High School, Hsiao Ching-yang é um dos designers visuais de Taiwan com maior visibilidade internacional. Após sua primeira indicação ao Grammy de Melhor Design de Embalagem de Álbum na 47ª edição, em 2005, ele acumulou um total de sete indicações. Na cerimônia da 65ª edição do Grammy em 2023, o álbum _Beginningless Beginning_, que ele projetou junto com sua filha Hsiao Chun-tien (蕭君恬), finalmente venceu a categoria em sua sétima indicação, garantindo que designers de Taiwan vencessem este prêmio por dois anos consecutivos, após Li Cheng-han (李政瀚) e Yu Wei (于薇) em 2022.
 
-## Formação e início no design
+## Origens e inspiração no design
 
-Hsiao Ch'ing-yang nasceu em 26 de fevereiro de 1966, em Nova Cidade de Taipei (atual distrito de Xinzhuang, Nova Taipei). Durante a adolescência, ingressou na Escola Comercial de Fengxing, uma instituição conhecida por sua formação em artes e design. Lá, recebeu uma base sólida em técnicas fundamentais como cor, composição e impressão — habilidades essenciais para o design visual. A Escola Comercial de Fengxing tem sido tradicionalmente uma fonte importante de talentos artísticos em Taiwan, e o ambiente escolar ajudou a moldar sua intuição estética. [^1]
+Hsiao Ching-yang nasceu em 26 de fevereiro de 1966, em Xindian, condado de Taipei (hoje distrito de Xindian, cidade de Novo Taipei). Durante a juventude, ingressou no departamento de artes aplicadas da Fu-Hsing Commercial & Industrial Vocational High School, onde recebeu uma formação sólida em uma escola técnica renomada pelo design artístico, aprendendo habilidades essenciais como cor, composição e impressão. A Fu-Hsing é há muito tempo um celeiro de talentos de design visual em Taiwan, e o ambiente escolar moldou sua intuição para a linguagem visual. [^1]
 
-Na década de 1980, a indústria fonográfica taiwanesa vivia um período de forte crescimento. Desde jovem, Hsiao desenvolveu uma paixão profunda pelas capas de discos, explorando a interseção entre música e design. Sua percepção sobre elementos visuais da cultura local, juntamente com sua intuição musical, foram se tornando a base de sua linguagem estética.
+Na década de 1980, durante o auge da indústria fonográfica de Taiwan, Hsiao desenvolveu uma forte fascinação visual por capas de discos desde jovem, começando a explorar a interseção entre música e design. Sua percepção dos elementos visuais da cultura local, aliada à sua intuição para as emoções musicais, formou gradualmente sua linguagem de design característica.
 
-## Início na embalagem de álbuns
+## A entrada no campo do design de álbuns
 
-No início dos anos 1990, com a indústria da música popular taiwanesa entrando em sua fase dourada, Hsiao decidiu se dedicar seriamente ao design de embalagens de álbuns. Ele criou trabalhos para artistas como [[張雨生]](/pt/people/chang-yu-sheng-singer/) e [[林強]](/pt/people/lim-giong/), construindo uma reputação no círculo musical. Diferentemente de muitos designers comerciais, Hsiao adotava uma abordagem mais imersiva: participava profundamente do processo criativo musical, mantinha longas conversas com os artistas para compreender a essência de suas obras, e só então transformava essas ideias em linguagem visual. [^2]
+No início da década de 1990, com a era de ouro da música pop taiwanesa, Hsiao começou a se dedicar sistematicamente ao design de embalagens de álbuns. Ele projetou trabalhos para músicos como [Chang Yu-sheng (張雨生)](/pt/people/chang-yu-sheng-singer/) e [Lin Chiang (林強)](/pt/people/lim-giong/), construindo sua reputação no meio musical. Isso também consolidou um método de trabalho distinto do de designers comerciais: ele se envolve profundamente no processo de criação musical, comunicando-se por longos períodos com os artistas para compreender o núcleo espiritual da obra antes de transformá-la em linguagem visual. [^2]
 
-Ele sabia extrair inspiração da cultura local taiwanesa — esculturas de templos, motivos folclóricos, paisagens naturais — transformando-as em uma linguagem visual compreensível globalmente. Essa trajetória de pensar localmente e agir globalmente tornou-se sua marca registrada.
+Ele possui a habilidade de extrair materiais da cultura local de Taiwan — entalhes em templos, totens folclóricos e paisagens naturais — transformando-os em uma linguagem de design com capacidade de comunicação intercultural. Esse caminho, que parte do local para alcançar o internacional, tornou-se sua marca registrada mais reconhecível.
 
-## 2005: primeira indicação ao Grammy
+## 2005: A primeira indicação ao Grammy
 
-Em 2005, Hsiao foi indicado pela primeira vez ao Grammy de Melhor Embalagem de Álbum na 47ª edição, tornando-se o primeiro designer taiwanês a ser reconhecido nessa categoria. [^3]
+Em 2005, Hsiao Ching-yang tornou-se o primeiro designer taiwanês a ser indicado ao Grammy de Melhor Design de Embalagem de Álbum na 47ª edição, com um projeto de música de Taiwan. [^3]
 
-Essa indicação colocou o design taiwanês no mapa do Grammy pela primeira vez. Sua linguagem estética — raíces na cultura local taiwanesa, expressa por meio de composições modernas — apresentou uma perspectiva estética distinta aos jurados predominantemente ocidentais. Foi a primeira vez que o design taiwanês deixava sua marca no Grammy.
+Essa indicação marcou a primeira vez que o design de Taiwan apareceu na lista do Grammy. Sua linguagem visual — partindo da cultura local de Taiwan e apresentada através de composições modernas — ofereceu uma perspectiva estética distinta aos olhos dos jurados, predominantemente ocidentais, e começou a dar visibilidade ao seu trabalho no cenário internacional de design. Através disso, a energia do design cultural de Taiwan deixou sua primeira marca na lista do Grammy.
 
-## Sete indicações e vitória em 2023
+## Sete indicações e o triunfo em 2023
 
-Entre 2005 e 2022, Hsiao foi indicado sete vezes ao Grammy de Melhor Embalagem de Álbum com diferentes projetos musicais taiwaneses, cada vez com uma estratégia visual única. Apesar de sete indicações, ele ainda não havia vencido — um feito que tornou o processo uma narrativa cultural marcante para o design taiwanês. [^4]
+De 2005 a 2023, Hsiao Ching-yang acumulou sete indicações ao Grammy de Melhor Design de Embalagem de Álbum com diferentes obras musicais taiwanesas, respondendo a cada música com estratégias visuais completamente distintas. Como as seis primeiras indicações não resultaram em vitória, o processo tornou-se, por si só, um evento cultural acompanhado de perto pelo setor de design em Taiwan. [^4]
 
-Em 5 de fevereiro de 2023, durante a 65ª cerimônia do Grammy, Hsiao, em colaboração com sua filha Hsiao Chun-hsuan, venceu o Grammy de Melhor Embalagem de Álbum (_Best Recording Package_) com o álbum _Beginningless Beginning_, baseado na trilha sonora da série _The Triology of Tamsui River_. Após 18 anos de aguardar, finalmente chegou a vitória. No ano anterior, Li Tsai-han e Yu Wei já haviam conquistado o primeiro Grammy taiwanês na mesma categoria com o álbum _Eight Songs of the Road_. A vitória de Hsiao consolidou uma conquista consecutiva para os designers taiwaneses. Além diso, a colaboração entre pai e filha acrescentou um significado de transmissão cultural a essa conquista. [^5]
+Em 5 de fevereiro de 2023, na cerimônia da 65ª edição do Grammy, a trilha sonora do curta-metragem _Trilogia das Trilhas Antigas de Taiwan_ (淡蘭古道三部曲), intitulada _Beginningless Beginning_, projetada em colaboração com sua filha Hsiao Chun-tien, venceu o prêmio de Melhor Design de Embalagem de Gravação (_Best Recording Package_). Após 18 anos desde sua primeira indicação, a sétima tentativa finalmente rendeu o troféu. No ano anterior, Li Cheng-han e Yu Wei já haviam conquistado o primeiro Grammy para Taiwan na mesma categoria com o álbum de música Sambo (桑布伊) _Eight Waves_ (八歌浪). A vitória de Hsiao garantiu que designers de Taiwan vencessem nesta categoria por dois anos consecutivos. Essa colaboração intergeracional entre pai e filha conferiu ao reconhecimento um significado ainda mais profundo de legado. [^5]
 
-## Filosofia do design
+## Filosofia de design
 
-A filosofia de Hsiao gira em torno do princípio “raízes em Taiwan, florescer no mundo” — os criadores devem explorar profundamente os recursos culturais locais, mas expressar-se de forma compreensível internacionalmente. Essa postura manteve sua obra com identidade mesmo em um ambiente globalizado, e abriu caminho para que a linguagem visual taiwanesa encontrasse seu espaço no cenário internacional. Ele não segue as tendências dominantes do design ocidental, mas traz templos, artesanato tradicional e a natureza insular diretamente para o olhar dos jurados globais.
+A filosofia de design de Hsiao Ching-yang gira em torno do conceito: "Raízes em Taiwan, florescendo no mundo" — o criador deve escavar profundamente os recursos da cultura local, mas a forma de expressão deve ser compreensível internacionalmente. Essa atitude permite que suas obras mantenham sua identidade em um ambiente globalizado e abre caminhos para que a linguagem visual local de Taiwan seja exportada. Ele não imita a linguagem de design dominante do Ocidente; em vez disso, ele traz templos, artesanato tradicional e a natureza da ilha para o olhar dos jurados internacionais.
 
-Além de trabalhos comerciais, seu estúdio frequentemente retorna aos ofícios tradicionais, colaborando com artesãos experientes para integrar técnicas antigas ao design contemporâneo. Hsiao também dá palestras universitárias, compartilhando sua visão de “falar com suas próprias raízes” com a nova geração de designers. [^6]
+Além de aceitar encomendas comerciais, seu estúdio ocasionalmente retorna ao campo do artesanato tradicional, colaborando com mestres artesãos para introduzir técnicas tradicionais no contexto do design moderno. Ele também costuma dar palestras em universidades, transmitindo sua visão criativa de "falar usando suas próprias raízes" para a nova geração de designers. [^6]
 
-## Impacto no design taiwanês
+## Significado para o setor de design de Taiwan
 
-A vitória de Hsiao no Grammy mostrou aos designers taiwaneses uma nova possibilidade: não é preciso abandonar a cultura local para competir internacionalmente. Seu sucesso inspirou os profissionais a explorar seus próprios recursos culturais, em vez de vê-los como barreiras. Além diso, o prêmio de Melhor Embalagem de Álbum no Golden Melody Awards também reconheceu seu trabalho ao longo dos anos, consolidando sua trajetória tanto no exterior quanto no Brasil. [^7]
+A vitória de Hsiao Ching-yang no Grammy demonstrou um caminho para o setor de design de Taiwan: não é necessário evitar a cultura local; a linguagem visual de Taiwan pode encontrar seu lugar nas competições internacionais. Sua conquista inspira designers emergentes a explorar recursos locais em vez de vê-los como obstáculos para a internacionalização. Seus prêmios de Melhor Design de Embalagem de Álbum no Golden Melody Awards também são reconhecimentos domésticos acumulados ao longo do tempo, validando sua força de design dentro do contexto local. [^7]
 
 ## Referências
 
-[^1]: [Site oficial da Escola Comercial de Fengxing](https://www.fhvs.tp.edu.tw/) — História e informações sobre o curso de artes visuais.
+[^1]: [Site oficial da Fu-Hsing Commercial & Industrial Vocational High School](https://www.fhvs.tp.edu.tw/) — Informações sobre a história e o departamento de artes aplicadas da escola.
 
-[^2]: [Lista de vencedores anteriores do Golden Melody Awards — Departamento de Música e Cinema do Ministério da Cultura](https://www.bamid.gov.tw/information_143_64138.html) — Registro das indicações e vitórias de Hsiao Ch'ing-yang na categoria de Melhor Embalagem de Álbum.
+[^2]: [Lista de vencedores anteriores do Golden Melody Awards — Bureau of Audiovisual and Music Industry Development, Ministério da Cultura](https://www.bamid.gov.tw/information_143_64138.html) — Registros das vitórias de Hsiao Ching-yang no Melhor Design de Embalagem de Álbum nos Golden Melody Awards.
 
-[^3]: [Dados da 47ª edição do Grammy — The Recording Academy](https://www.grammy.com/) — Confirmação da primeira indicação de Hsiao Ch'ing-yang na categoria _Best Recording Package_.
+[^3]: [Dados de indicação da 47ª edição do Grammy — The Recording Academy](https://www.grammy.com/) — Confirmação da primeira indicação de Hsiao Ching-yang na categoria _Best Recording Package_ em 2005.
 
-[^4]: [Histórico de indicações do Grammy — Grammy.com](https://www.grammy.com/) — Registro completo das sete indicações de Hsiao Ch'ing-yang.
+[^4]: [Registros históricos de indicações ao Grammy — Grammy.com](https://www.grammy.com/) — Registro completo das sete indicações de Hsiao Ching-yang.
 
-[^5]: [Anúncio de vencedores da 65ª edição do Grammy — The Recording Academy](https://www.grammy.com/news/2023-grammy-awards-complete-winners-nominations-list) — Confirmação da vitória de Hsiao Ch'ing-yang e Hsiao Chun-hsuan com _Beginningless Beginning_ na categoria _Best Recording Package_.
+[^5]: [Anúncio dos vencedores da 65ª edição do Grammy — The Recording Academy](https://www.grammy.com/news/2023-grammy-awards-complete-winners-nominations-list) — Confirmação de que Hsiao Ching-yang e Hsiao Chun-tien venceram o prêmio _Best Recording Package_ com _Beginningless Beginning_.
 
-[^6]: [Instituto de Design de Taiwan — Base de dados de talentos](https://www.tdri.org.tw/) — Informações sobre colaborações interdisciplinares e histórico do estúdio de Hsiao.
+[^6]: [Taiwan Design Research Institute — Banco de dados de talentos de design](https://www.tdri.org.tw/) — Informações sobre as colaborações interdisciplinares e o estúdio de Hsiao Ching-yang.
 
-[^7]: [Base de dados de artistas do Ministério da Cultura](https://artist.moc.gov.tw/) — Histórico criativo e prêmios nacionais e internacionais de Hsiao Ch'ing-yang.
+[^7]: [Banco de Dados de Artistas do Ministério da Cultura](https://artist.moc.gov.tw/) — Histórico criativo pessoal e registros de prêmios nacionais e internacionais de Hsiao Ching-yang.
 
-## Leituras recomendadas
+## Leitura complementar
 
-- [Vencedores anteriores do Grammy de Melhor Embalagem de Álbum — Grammy.com](https://www.grammy.com/) — Lista de indicados e vencedores da categoria ao longo dos anos
-- [林強](/pt/people/lim-giong) — Músico taiwanês com quem Hsiao colaborou nos anos 1990
+- [Vencedores anteriores do Grammy Best Recording Package — Grammy.com](https://www.grammy.com/) — Lista de indicações e vencedores históricos de Melhor Design de Embalagem de Álbum.
+- [Lin Chiang (林強)](/pt/people/lim-giong) — Músico taiwanês com quem Hsiao Ching-yang colaborou em seus primeiros anos.

@@ -1,0 +1,47 @@
+---
+/**
+ * ImpactChain.astro — 資料台灣章節的「影響鏈」：一個數字的變化，一環一環推到社會的
+ * 其他層面（報告 §10.4 第 3 段）。
+ *
+ * 語意 HTML 的有序清單（順序就是因果的方向），每一環：層面標籤＋一句有年份的事實
+ * ＋站內文章出處。桌機橫向排、環與環之間畫箭頭；手機直排、左邊一條連線。
+ * 不用 SVG：文字長度隨語言差很多，交給排版自己折行（graph.md §三.12）。
+ */
+export interface ChainStep {
+  layer: string;
+  text: string;
+  /** 站內文章（本語言版本找不到就不給，只留文字） */
+  href?: string;
+  articleTitle?: string;
+}
+
+interface Props {
+  steps: ChainStep[];
+  /** 整條鏈的說明（給輔助科技） */
+  label: string;
+  /** 「出處」之類的前綴字 */
+  fromLabel: string;
+}
+
+const { steps, label, fromLabel } = Astro.props;
+---
+
+<ol class="dh-chain" aria-label={label}>
+  {
+    steps.map((s, i) => (
+      <li class="dh-chain-step">
+        <span class="dh-chain-no" aria-hidden="true">
+          {String(i + 1).padStart(2, '0')}
+        </span>
+        <span class="dh-chain-layer">{s.layer}</span>
+        <p class="dh-chain-text">{s.text}</p>
+        {s.href && s.articleTitle && (
+          <p class="dh-chain-from">
+            <span>{fromLabel}</span>
+            <a href={s.href}>{s.articleTitle}</a>
+          </p>
+        )}
+      </li>
+    ))
+  }
+</ol>

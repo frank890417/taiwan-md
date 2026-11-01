@@ -1,6 +1,6 @@
 ---
 title: 'Tê giác Đài Loan'
-description: 'Loài động vật có vú bị buôn lậu nhiều nhất trên thế giới, nhưng tư loài tê giác Đài Loan lại tìm thấy nơi trú ẩn an toàn tại đây: trong khi các loài cùng họ ở những nơi khác của Châu Á đang lâm nguy tuyệt chủng vì buôn lậu, Đài Loan nhờ bảo vệ pháp luật nghiêm ngặt, duy trì môi trường sống và nghiên cứu khoa học, kết hợp nhân tạo nhân giống, đã giúp quần thể ổn định thậm chí tăng trở lại, trở thành một ví dụ hiếm hoi về thành công bảo tồn, chứng minh sự tuyệt chủng của loài không phải là định mệnh.'
+description: 'Loài động vật có vú bị buôn lậu nhiều nhất trên thế giới, nhưng loài con tê giác tại Đài Loan lại tìm thấy nơi trú ẩn an toàn tại đây: trong khi các loài cùng họ ở những nơi khác của Châu Á đang lâm nguy tuyệt chủng do buôn lậu, Đài Loan nhờ có chế độ bảo vệ pháp luật nghiêm ngặt, công tác duy trì môi trường sống và nghiên cứu khoa học, kết hợp với nhân tạo sinh sản, đã giúp quần thể dần ổn định, trở thành một ví dụ hiếm hoi về bảo tồn, chứng minh rằng sự tuyệt chủng của loài không phải là định mệnh.'
 date: 2026-03-19
 category: 'Nature'
 tags:
@@ -19,105 +19,117 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: '890c5095e'
-sourceContentHash: 'sha256:acaac66b2f5101f5'
-sourceBodyHash: 'sha256:059668decdeffa13'
-translatedAt: '2026-10-15T19:22:00.276295+00:00'
+sourceCommitSha: '2b967f4a1'
+sourceContentHash: 'sha256:ee1a4e69f41642bb'
+sourceBodyHash: 'sha256:596d8de828c02fc3'
+translatedAt: '2026-10-21T04:38:00.621152+00:00'
 ---
 
-# Xương Giáp Đài Loan
+# Tê giác Đài Loan
 
-> **Tóm tắt 30 giây:** Xương giáp Đài Loan là động vật có vú bị buôn lậu lớn nhất thế giới — một phân loài của xương giáp ở Đài Loan. Khi những người thân của chúng ở các khu vực khác Châu Á gần như tuyệt chủng do buôn lậu, Đài Loan đã trở thành một trong những nơi ít ỏi nơi bảo tồn thành công, quần thể ổn định thậm chí gia tăng. Từ bảo vệ pháp lý nghiêm ngặt đến bảo tồn môi trường hoàn toàn, từ nghiên cứu khoa học đến nhân giống nhân tạo, câu chuyện của xương giáp Đài Loan là một trường hợp bảo tồn loài hiếm hoi mang "tin tốt lành".
+> **Tóm tắt 30 giây:** Tê giác Đài Loan là loài thú có vú bị buôn bán trái phép nhiều nhất trên thế giới — là亞种 của tê giác tại Đài Loan. Khi những người thân thuộc của chúng ở các khu vực khác của Châu Á đang đứng trước nguy cơ tuyệt chủng do buôn lậu, Đài Loan đã trở thành một trong những nơi hiếm hoi đạt được thành công trong bảo tồn, với tình trạng quần thể xu hướng ổn định. Nhờ sự bảo vệ pháp lý nghiêm ngặt, duy trì môi trường sống nguyên vẹn, từ nghiên cứu khoa học đến nhân tạo sinh sản, câu chuyện của tê giác Đài Loan là một ví dụ hiếm hoi về "tin tốt" trong bảo tồn.
 
-## Tại sao điều này lại quan trọng
+## Tại sao quan trọng
 
-Xương giáp là một trong những động vật có vú cổ xưa nhất trên Trái Đất, thân được phủ bởi những lớp vảy sừng sắc, như một công vật sống chứng kiến những thay đổi của hành tinh. Nhưng trong hai mươi năm qua, chúng đã trở thành động vật hoang dã bị buôn lậu nhiều nhất trên toàn cầu. Theo Sách Đỏ IUCN, trong tám loài xương giáp, có 3 loài được xếp vào mục nguy cấp cực độ (CR), 4 loài nguy cấp (EN), 1 loài dễ bị tổn thương (VU), toàn bộ đều phải đối mặt với những mức độ rủi ro tuyệt chủng khác nhau.[^2] Thành công bảo tồn xương giáp Đài Loan cho thế giới thấy một khả năng khác: sự tuyệt chủng của một loài không phải là định mệnh, bảo tồn có thể thành công khi có những điều kiện thích hợp.
+Tê giác là một trong những loài thú có vú cổ xưa nhất trên Trái Đất, cơ thể bao phủ bởi vảy keratin, như những "hóa thạch sống" chứng kiến sự biến đổi của hành tinh. Tuy nhiên, trong hai thập kỷ qua, chúng đã trở thành loài động vật hoang dã bị buôn lậu nhiều nhất trên toàn cầu. Theo đánh giá Sách đỏ cập nhật cuối năm 2019 của Nhóm Chuyên gia Tê giác IUCN, trong 8 loài tê giác, 3 loài được liệt kê là Nguy cấp (CR), 3 loài Nguy hiểm (EN), 2 loài Dễ bị tổn thương (VU), tất cả đều đối mặt với nguy cơ tuyệt chủng ở các mức độ khác nhau.[^2] Thành công trong bảo tồn tê giác Đài Loan đã cho thế giới thấy một khả năng khác: sự tuyệt chủng của loài không phải là định mệnh, bảo tồn có thể thành công dưới những điều kiện đúng đắn.
 
-## Một sinh vật bí ẩn biết cách cuộn tròn thành quả cầu
+## Một sinh vật bí ẩn biết cuộn thành quả cầu
 
-Xương giáp Đài Loan (_Manis pentadactyla pentadactyla_) là một phân loài đặc hữu của xương giáp Trung Hoa tại Đài Loan. Chiều dài đầu và thân khoảng 60 cm, đuôi 18 cm, toàn bộ thân được phủ bởi những lớp vảy nâu như bộ áo giáp. Những lớp vảy này không phải là vảy cá, mà được tạo thành từ chất sừng, giống với thành phần của móng tay con người.
+Tê giác Đài Loan (_Manis pentadactyla pentadactyla_) là loài con đặc hữu của Đài Loan thuộc loài Tê giác Trung Hoa. Cá thể trưởng thành có chiều dài đầu đến thân khoảng 50 cm, đuôi dài khoảng 35 cm, kích thước tương đương một con mèo,[^6] toàn thân bao phủ bởi những mảng vảy màu nâu giống như giáp trụ. Những vảy này không phải là vảy cá, thành phần chính là keratin, tương tự như thành phần móng tay của con người.
 
-Khi đêm buông xuống, xương giáp Đài Loan bắt đầu cuộc hành trình kiếm ăn của chúng. Chúng là "công nhân vệ sinh côn trùng" chuyên nghiệp, sử dụng những chiếc móng trước mạnh mẽ để đào bỏ các tổ kiến và hang của kiến trắng, duỗi ra cái lưỡi dài tới 25 cm, một đêm có thể nuốt chửng hàng ngàn con kiến và kiến trắng. Khi gặp mối đe dọa, chúng sẽ nhanh chóng cuộn thành một quả cầu chặt chẽ, những lớp vảy hướng ra ngoài dựng thẳng, thậm chí những con hổ cũng không thể tấn công được.
+Khi màn đêm buông xuống, tê giác Đài Loan bắt đầu hành trình tìm kiếm thức ăn. Chúng là những "người dọn rác côn trùng" chuyên nghiệp, dùng móng trước mạnh mẽ đào mở tổ kiến và hang mối, vươn ra lưỡi dài gần bằng chiều dài cơ thể. Cục Bảo vệ động vật thành phố Tân Bắc cho biết, một con tê giác có thể ăn đến 70 triệu con mối mỗi năm.[^7] Khi đối mặt với mối đe dọa, chúng nhanh chóng cuộn thành một quả cầu chặt chẽ, vảy dựng lên hướng ra ngoài.
 
-## Người sống sót trong cuộc khủng hoảng buôn lậu toàn cầu
+## Những người sống sót trong khủng hoảng buôn lậu toàn cầu
 
-Xương giáp là động vật có vú bị buôn lậu nhiều nhất thế giới. Kể từ năm 2000, toàn cầu có ít nhất một triệu con xương giáp bị buôn lậu, chủ yếu chảy vào thị trường thuốc cổ truyền Trung Quốc và Việt Nam.
+Tê giác là loài thú có vú bị buôn bán trái phép nhiều nhất trên thế giới. Nhóm Chuyên gia Tê giác IUCN ước tính, trong giai đoạn 2000–2019, số lượng tê giác bị buôn lậu tương đương hơn 895.000 cá thể, chủ yếu chảy về Đông Á và Đông Nam Á.[^2]
 
-Lớp vảy xương giáp (tên trong y học cổ truyền Trung Quốc là "xương giáp vảy") từ lâu đã được ghi vào thuốc của y học cổ truyền Trung Quốc, các tác phẩm y tế qua các thời đại ghi lại công dụng của nó trong sinh sản, giảm sưng và tán kết. Vào năm 2020, Hội soạn thảo Bộ dược Trung Quốc tuyên bố sẽ loại bỏ xương giáp khỏi phiên bản mới của "Bộ Dược Trung Quốc", là tín hiệu chính sách cụ thể nhất cho tới nay đối với việc hạn chế xương giáp được dùng làm thuốc; nhưng kho dự trữ dùng thuốc hiện có và nhu cầu ngầm sẽ khó loại bỏ hoàn toàn trong thời gian ngắn, các con đường buôn lậu vẫn hoạt động tích cực.[^2] Quần thể xương giáp ở Châu Á và Châu Phi do đó giảm nhanh chóng, xương giáp Trung Hoa được IUCN xếp vào loài nguy cấp cực độ năm 2014, vào năm 2016 Đại hội thứ 17 các Bên ký kết CITES (CoP17) đã quyết định nâng tất cả tám loài xương giáp vào Phụ lục I, cấm mọi giao dịch thương mại; quyết định có hiệu lực chính thức từ ngày 1 tháng 1 năm 2017.[^1]
+Vảy tê giác (tên dược liệu Trung y: 「Thuyên sơn giáp giáp phiến」) lâu nay được đưa vào danh sách thuốc y học truyền thống Trung Quốc; y học truyền thống Trung Quốc cho rằng vảy có tác dụng thông kinh hoạt huyết, giúp phụ nữ sau sinh thông sữa. Phiên bản 2020 của «Dược điển Trung Quốc» không còn đưa tê giác vào, tháng 6 năm đó Cục Lâm nghiệp và Thảo nguyên Quốc gia nâng cấp tất cả các loài thuộc chi Tê giác từ bảo vệ cấp hai lên cấp một; Thực Lực năm 2020 chỉ ra rằng Dược điển vẫn có 8 loại thuốc độc quyền chứa tê giác.[^8][^9] Quần thể tê giác tại Á và Phi do đó giảm nhanh chóng, Tê giác Trung Hoa năm 2014 được IUCN xếp vào loại Nguy cấp (Critically Endangered), Hội nghị các bên tham gia thứ 17 của CITES (CoP17) năm 2016 thông qua việc nâng cả 8 loài tê giác lên Phụ lục I, cấm thương mại quốc tế cho mục đích thương mại, có hiệu lực từ đầu tháng 1 năm 2017.[^1]
 
-Tuy nhiên, Đài Loan lại là một ngoại lệ trong cuộc khủng hoảng tuyệt chủng này.
+Tuy nhiên, Đài Loan là một ngoại lệ trong cuộc khủng hoảng tuyệt chủng này.
 
 ## Kỳ tích bảo tồn của Đài Loan
 
 ### Bảo vệ pháp lý nghiêm ngặt
 
-Đài Loan đã xếp xương giáp vào danh mục động vật hoang dã bảo tồn từ năm 1989, sau khi "Luật bảo tồn động vật hoang dã" được sửa đổi vào năm 2017, việc săn bắt, giết hại hoặc buôn bán xương giáp có thể bị phạt tù từ 6 tháng đến 5 năm, kèm theo tiền phạt từ 300.000 đến 1,5 triệu Đài tệ mới.[^4] So sánh với Trung Quốc đại lục chỉ nâng xương giáp từ động vật bảo vệ cấp hai lên cấp một vào năm 2020, Đài Loan bắt đầu bảo vệ sớm hơn, thực thi nghiêm ngặt hơn.
+Đài Loan năm 1989 ban hành 《Luật bảo tồn động vật hoang dã》, tê giác là loài động vật đầu tiên được纳入 vào danh sách bảo vệ. [^6] Theo điều khoản hiện hành, săn bắt, giết hại động vật hoang dã thuộc danh sách bảo vệ, phạt tù từ 6 tháng đến 5 năm, có thể kết hợp phạt tiền từ NT$200.000 đến NT$1.000.000 (Điều 41); xuất nhập khẩu trái phép, hoặc mua bán, trưng bày với ý định bán, có thể kết hợp phạt tiền từ NT$300.000 đến NT$1.500.000 (Điều 40). [^4] Khác với Trung Quốc đại lục chỉ đến năm 2020 mới nâng cấp tê giác từ động vật bảo vệ cấp hai lên cấp một, các biện pháp bảo vệ của Đài Loan bắt đầu sớm hơn và thực thi nghiêm ngặt hơn.
 
-### Bảo vệ môi trường hoàn toàn
+### Bảo vệ môi trường sống toàn diện
 
-Các khu vực núi thấp Đài Loan cung cấp môi trường sống lý tưởng cho xương giáp. Từ Công viên Quốc gia Dương Minh Sơn đến Công viên Quốc gia Khách Đỉnh, từ những dãy núi ngoại ô Đài Bắc đến những gò núi miền Trung Nam, những khu vực được bảo vệ này trở thành nơi trú ẩn an toàn cho xương giáp. Điều quan trọng là, xương giáp Đài Loan có thể thích nghi với các vùng biên giới hoạt động con người, sống sót trong rừng thứ sinh ở các vùng ngoại ô các thành phố.
+Các khu vực đồi thấp độ cao thấp của Đài Loan cung cấp môi trường sống lý tưởng cho tê giác. Công viên Quốc gia Dương Minh Sơn là một trong những nơi sinh sống quan trọng của tê giác, môi trường sống phần lớn giáp ranh với các thôn xã đồi thấp. [^3]
 
 ### Nghiên cứu khoa học và giám sát
 
-Các cơ sở nghiên cứu Đài Loan đã đầu tư dài hạn vào nghiên cứu sinh thái xương giáp, sử dụng các kỹ thuật theo dõi vô tuyến, camera hồng ngoại để giám sát động thái quần thể. Trong đó, Sở Bảo tồn Động vật Hoang dã Đại học Khoa học Bình Đông dài lâu tiến hành nghiên cứu thả-bắt xương giáp, là nguồn dữ liệu sinh thái xương giáp Đài Loan quan trọng.[^3] Những dữ liệu khoa học này không chỉ giúp hiểu được các hành vi của xương giáp, mà còn cung cấp cơ sở khoa học cho các chính sách bảo tồn.
+Các cơ quan nghiên cứu của Đài Loan lâu nay đầu tư vào nghiên cứu sinh thái tê giác, trong đó nhóm của Phó giáo sư Tôn Kinh Mẫn (Sun Ching-min) — Viện Nghiên cứu Bảo tồn Động vật Hoang dã, Đại học Khoa học Kỹ thuật Bính Đông (屏科大) — đã thiết lập cơ chế báo cáo cộng đồng, kết hợp với mạng lưới theo dõi vô tuyến, nghiên cứu phạm vi hoạt động, số lượng quần thể và tình trạng sinh sản của tê giác. [^3] Những dữ liệu khoa học này không chỉ giúp hiểu rõ mô hình hành vi của tê giác, mà còn cung cấp cơ sở khoa học cho chính sách bảo tồn.
 
-## Bước đột phá nhân giống của Sở Thú Đài Bắc
+## Đột phá nhân tạo sinh sản tại Sở thú Đài Bắc
 
-Sở Thú Thành phố Đài Bắc đã đạt được những kết quả quan trọng trong nhân giống nhân tạo xương giáp, là một trong số ít các cơ sở trên thế giới nhân giống thành công xương giáp. Nhân giống nhân tạo xương giáp cực kỳ khó khăn: chúng nhạy cảm với những thay đổi về môi trường, yêu cầu cao về điều kiện nuôi dưỡng, chu kỳ sinh sản dài. Sở thú thông qua việc mô phỏng môi trường hoang dã, cân bằng dinh dưỡng chính xác, quan sát hành vi, đã thành lập một quần thể xương giáp bảo tồn ngoài khu vực tự nhiên.
+Sở thú thành phố Đài Bắc đã đạt được kết quả quan trọng trong nhân tạo sinh sản tê giác: năm 1997 lần đầu tiên sinh sản thành công trong vườn, các cá thể sinh sản trong vườn đã đến thế hệ thứ tư. [^5] Nhân tạo sinh sản tê giác cực kỳ khó khăn: chúng nhạy cảm với thay đổi môi trường, yêu cầu điều kiện nuôi dưỡng cao, chu kỳ sinh sản dài. Sở thú cũng đã nghiên cứu chế ra công thức 「bánh tê giác」 từ ong non, sâu bánh mì, táo, trứng gà, v.v. [^5]
 
-Những thành tích nhân giống này không chỉ cung cấp bảo hiểm cho bảo tồn xương giáp Đài Loan, mà còn đóng góp kinh nghiệm quý báu cho các kế hoạch bảo tồn xương giáp quốc tế.
+Những thành quả sinh sản này không chỉ cung cấp sự đảm bảo cho bảo tồn tê giác Đài Loan, mà còn đóng góp kinh nghiệm quý giá cho các kế hoạch bảo tồn tê giác quốc tế.
 
-## Những anh hùng vô danh của hệ sinh thái
+## Anh hùng vô danh của hệ sinh thái
 
-Xương giáp Đài Loan có vai trò cụ thể trong hệ sinh thái. Như một "chuyên gia kiểm soát sinh học", một con xương giáp trưởng thành mỗi năm có thể nuốt chửng số lượng lớn kiến và kiến trắng (các tài liệu ước tính khác nhau, khoảng từ một triệu đến hai triệu con), kiểm soát số lượng quần thể của những côn trùng này, bảo vệ rừng và cây trồng khỏi tổn hại từ côn trùng.[^2]
+Tê giác Đài Loan có chức năng cụ thể trong hệ sinh thái. Được gọi là 「chuyên gia phòng trừ sinh học」, Cục Bảo vệ động vật thành phố Tân Bắc cho biết một con tê giác một năm có thể ăn 70 triệu con kiến trắng, kiểm soát số lượng quần thể của những loài côn trùng này. [^7]
 
-Những hoạt động đào bới của chúng cũng làm thay đổi cấu trúc đất, tăng độ thông khí và khả năng giữ nước của đất, thúc đẩy sự phát triển rễ cây. Những chiếc hang của xương giáp thường được các loài động vật nhỏ khác sử dụng, tạo thành một mạng lưới sinh thái ngầm phức tạp.
+Hang ổ của tê giác thường được các động vật nhỏ khác tận dụng.
 
-## Những mối đe dọa vẫn tồn tại
+## Những mối đe dọa vẫn còn tồn tại
 
-Mặc dù đã thành công bảo tồn, xương giáp Đài Loan vẫn phải đối mặt với nhiều thách thức:
+Dù bảo tồn đã đạt được thành quả, tê giác Đài Loan vẫn đối mặt với nhiều thách thức:
 
-### Chó hoang tấn công
+### Tấn công của chó lang thang
 
-Chó hoang ngoài khu vực là một trong những kẻ thù chính mà xương giáp phải đối mặt ở Đài Loan. Khi xương giáp gặp mối đe dọa sẽ cuộn tròn thành quả cầu, những lớp vảy cứng làm cho những con thú ăn thịt lớn khó có thể cắn thủng được. Nhưng cách tấn công của chó khác, chúng sẽ tập trung tấn công theo nhóm, liên tục lật qua lật lại, xương giáp không thể luôn duy trì tư thế cuộn tròn, cuối cùng sẽ vì mệt mỏi bị lật lộ bụng mềm dẻo và bị thương thậm chí chết.
+Chó lang thang trong tự nhiên là một trong những kẻ thù tự nhiên chính mà tê giác tại Đài Loan phải đối mặt. Khi gặp nguy hiểm, tê giác cuộn thành hình cầu, lớp vảy cứng khiến các loài săn mồi lớn khó có thể cắn xuyên trực tiếp. Tuy nhiên, cách tấn công của chó khác biệt. Năm 2018, Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu (特生中心) tiếp nhận 24 cá thể tê giác bị thương, trong đó 16 cá thể (67%) bị chó tấn công; tê giác cuộn thành cầu nhưng lực cắn xé của chó rất hung dữ, thường khiến tê giác mất một đoạn đuôi.[^6]
 
 ### Tai nạn trên đường
 
-Khi đầu tư phát triển đường bộ, các trường hợp xương giáp bị xe cái chết do vượt đường xảy ra thỉnh thoảng. Đặc biệt vào mùa sinh sản, phạm vi hoạt động của xương giáp mở rộng, rủi ro bị tai nạn trên đường tăng lên.
+Có các trường hợp tê giác bị xe cộ tông khi băng qua đường. Trong 24 cá thể bị thương được Trung tâm tiếp nhận năm 2018, có 1 cá thể bị tông xe.[^6]
 
-### Phát triển môi trường
+### Khai thác môi trường sống
 
-Mặc dù có hệ thống khu bảo tồn, nhưng sự mở rộng thành phố và xây dựng đường bộ vẫn đang cắt khúc môi trường sống của xương giáp, ảnh hưởng đến sự trao đổi gen của quần thể và phạm vi kiếm ăn.
+Mặc dù đã có hệ thống khu bảo tồn, nhưng sự mở rộng đô thị và xây dựng đường xá vẫn đang chia cắt môi trường sống của tê giác, ảnh hưởng đến trao đổi gen và phạm vi tìm kiếm thức ăn của quần thể.
 
-## Khả năng cùng tồn tại với thành phố
+## Khả năng cùng tồn tại với đô thị
 
-Xương giáp Đài Loan thể hiện một khả năng thích nghi đáng ngạc nhiên. Chúng không chỉ xuất hiện trong rừng nguyên sinh, mà còn thành lập gia cư tại các vùng ngoại ô các thành phố nơi con người hoạt động thường xuyên. Ở Dương Minh Sơn Đài Bắc, Ô Lai Tân Bắc, Phục Hưng Đào Viên và những nơi khác, đều có những trường hợp xương giáp Đài Loan và con người sống hòa hợp với nhau. Ở Đài Trung, những vùng núi thấp xung quanh khuôn viên Đại học Y học Trung Sơn được cho là từng phát hiện dấu vết xương giáp sinh sống, những vùng đất liên quan do những xem xét bảo tồn đã gây nên cuộc tranh cãi giữa phát triển và bảo vệ — khi một con xương giáp xuất hiện trong khuôn viên trường của bạn, đất này cuối cùng lại thuộc về con người hay thuộc về nó? Những câu chuyện như vậy xảy ra ở khắp nơi tại Đài Loan, cũng cho thấy sự nâng cao ý thức bảo vệ xương giáp của xã hội Đài Loan.
+Tê giác Đài Loan thể hiện khả năng thích ứng đáng kinh ngạc. Chúng không chỉ xuất hiện trong rừng nguyên sinh mà còn thiết lập tổ ổ ở các vùng rìa đô thị nơi hoạt động của con người diễn ra thường xuyên. Tại Dương Minh Sơn (Đài Bắc), Phục Hưng (Thảo Viên) và các nơi khác, đều có ghi chép về sự xuất hiện của tê giác.
 
-## Sinh lý và thói quen sống
+Năm 2024, thầy trò Đại học Thanh Hoa khi biên soạn sổ tay dẫn đường sinh thái trường học đã phát hiện 5 hang do tê giác đào, sâu khoảng 1 mét, rộng khoảng 20 cm.[^10]
 
-Cấu trúc cơ thể của xương giáp đầy những kỳ diệu của tiến hóa. Lớp vảy được tạo thành từ chất sừng (giống với thành phần móng tay con người), khi cuộn tròn thành quả cầu thậm chí những con sư tử và hổ cũng khó có thể cắn thủng. Cái lưỡi có thể duỗi dài tới 25 cm, gần bằng nửa chiều dài thân; nhưng chúng không có răng, dựa vào những cái răng sừng nhỏ trong dạ dày và những viên sỏi để nghiền nát thức ăn. Những chiếc móng trước mạnh mẽ, có thể đào những chiếc hang sâu tới 3 mét; mặc dù được trang bị bộ áo giáp nặng, xương giáp cũng là một vận động viên bơi lội giỏi, có thể vượt qua các con sông.
+## Sinh lý và tập tính
 
-Ngoài mùa giao phối, xương giáp sống độc lập suốt đời, mẹ con chỉ ở bên nhau trong khoảng nửa năm. Thời gian mang thai kéo dài từ 120 đến 150 ngày, mỗi lần chỉ sinh một con, tốc độ sinh sản cực kỳ chậm, đây cũng là một trong những lý do tại sao khi quần thể sụp đổ lại khó khôi phục. Xương giáp là một trong những động vật có vú có vảy tồn tại lâu đời nhất hiện nay, hồ sơ hóa thạch cho thấy lịch sử tiến hóa của nó có thể được truy nguyên tới khoảng 5.000 đến 6.000 triệu năm trước thời kỳ Paleocen.
+Cấu tạo cơ thể của tê giác đầy ắp những kỳ tích tiến hóa. Lớp vảy chủ yếu cấu tạo từ keratin, thành phần tương tự móng tay người. Lưỡi dài gần bằng cơ thể; nhưng chúng không có răng, nhờ răng keratin trong dạ dày và những viên sỏi nhỏ để nghiền nát thức ăn. Móng trước mạnh mẽ, hang tìm ăn sâu khoảng 1 đến 3 mét, hang ngủ nghỉ có thể sâu tới 6 mét; mặc dù mặc "bộ giáp" nặng nề, tê giác cũng là bậc thầy bơi lội.
+
+Trừ mùa sinh sản, tê giác sống đơn độc suốt đời, mẹ con chỉ ở bên nhau khoảng nửa năm. Mỗi năm chỉ sinh một con; nhân viên chăm sóc tại Sở thú Đài Bắc cho biết thai kỳ khoảng 8 tháng, nuôi con khoảng nửa năm, tốc độ sinh sản cực chậm, đây cũng là một trong những lý do khiến quần thể một khi sụp đổ thì khó khôi phục.
 
 ## Ý nghĩa toàn cầu của kinh nghiệm Đài Loan
 
-Thành công bảo tồn xương giáp Đài Loan cung cấp một trường hợp có thể tham khảo cho các biện pháp bảo vệ loài nguy cấp toàn cầu. Cách làm của Đài Loan có vài đặc điểm nổi bật: năm 1989 đã được pháp luật hoá bảo vệ, sớm hơn hầu hết các quốc gia hơn một thập kỷ; phạm vi bảo vệ từ luật pháp mở rộng đến môi trường sống, nghiên cứu khoa học đến giáo dục công dân, tạo thành bốn tầng phòng ngự; sự tích lũy dữ liệu của các cơ sở nghiên cứu và sở thú, cho phép những điều chỉnh chính sách có cơ sở khoa học; sự hiểu biết của xã hội Đài Loan về xương giáp cũng ngày càng sâu sắc, cơ chế báo cáo công dân về tai nạn đường bộ và bệnh tổn thương, cũng tạo thành một phần của dữ liệu giám sát động vật hoang dã.
+Thành công bảo tồn tê giác Đài Loan cung cấp một ví dụ tham khảo cho việc bảo vệ các loài nguy cấp trên toàn cầu. Cách làm của Đài Loan có một vài đặc điểm: lập pháp bảo vệ ngay từ năm 1989; phạm vi bảo vệ mở rộng từ pháp luật đến môi trường sống, nghiên cứu khoa học và giáo dục công dân; sự tích lũy dữ liệu từ các viện nghiên cứu và sở thú cung cấp cơ sở khoa học cho điều chỉnh chính sách; nhận thức của xã hội Đài Loan về tê giác ngày càng sâu sắc, cơ chế công dân báo cáo tai nạn trên đường và các cá thể bị thương/bệnh cũng cấu thành một phần dữ liệu giám sát động vật hoang dã.
 
-Câu chuyện của xương giáp Đài Loan, ở một thời đại sinh đa dạng sinh học đang mất đi nhanh chóng, đã đưa ra một câu trả lời cụ thể: sự tuyệt chủng không phải là kết cục duy nhất.
+Câu chuyện của tê giác Đài Loan, trong một kỷ nguyên đa dạng sinh học đang mất đi nhanh chóng, đưa ra một câu trả lời cụ thể: tuyệt chủng không phải là kết cục duy nhất.
 
 ## Tài liệu tham khảo
 
-[^1]: [Quyết định CITES CoP17 về Tê giác | CITES](https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-10.pdf) — Xác nhận nghị quyết CoP17 năm 2016 nâng cấp lên Phụ lục I, và có hiệu lực chính thức từ ngày 2 tháng 1 năm 2017.
-
-[^2]: [Danh sách đỏ IUCN: Tê giác Trung Hoa](https://www.iucnredlist.org/species/12764/123589684) — Tài liệu về sinh thái, tập tính và nhu cầu thức ăn của Tê giác Trung Hoa (các nghiên cứu ước lượng lượng kiến ăn có sự khác biệt).
-
-[^3]: [Viện Nghiên cứu Bảo tồn Động vật hoang dã, Đại học Khoa học và Công nghệ Pingtung](https://www.npust.edu.tw/) — Bối cảnh nghiên cứu thả tự nhiên tê giác của Tôn Kinh Mẫn và nhóm nghiên cứu của ông.
-
-[^4]: [Mạng lưới Đa dạng sinh học Đài Loan](https://www.tbn.org.tw/) — Cơ sở dữ liệu phân bố và báo cáo khoa học công dân về tê giác Đài Loan.
-
-[^5]: [Nghiên cứu bảo tồn tại Thú viện thành phố Taipei](https://www.zoo.gov.taipei/) — Kỹ thuật nhân tạo nhân lên và thành quả bảo tồn tê giác.
-
 ## Đọc thêm
 
-- [CITES Trạng thái Phụ lục](https://cites.org/eng/app/appendices.php)
-- [Trung tâm Nghiên cứu và Bảo tồn Loài Đặc hữu Bộ Nông Lâm Ngư Nghiệp Đài Loan](https://www.tesri.gov.tw/)
+- [Tình trạng phụ lục CITES](https://cites.org/eng/app/appendices.php)
+- [Trung tâm Nghiên cứu và Bảo tồn Sinh vật Đặc hữu Bộ Nông nghiệp Viện hành chính](https://www.tesri.gov.tw/)
+
+[^1]: [Cấm thương mại mới có ý nghĩa gì đối với bảo tồn tê giác? | IUCN](https://iucn.org/news/secretariat/201610/what-does-new-trade-ban-mean-pangolin-conservation) — Hội nghị các bên CITES lần thứ 17 năm 2016 đã đưa tất cả 8 loài tê giác vào Phụ lục I, có hiệu lực từ đầu tháng 1 năm 2017.
+
+[^2]: [Tê giác | Nhóm Chuyên gia Tê giác IUCN SSC](https://www.pangolinsg.org/pangolins/) — 8 loài tê giác: 3 nguy cấp, 3 dễ bị tổn thương, 2 gần nguy cấp; lượng bị buôn lậu từ 2000-2019 tương đương hơn 895.000 cá thể.
+
+[^3]: [Tình trạng quần thể tê giác xu hướng ổn định, báo cáo cộng đồng và theo dõi vô tuyến | CNA 2025-05-22](https://www.cna.com.tw/news/ahel/202505220371.aspx) — Nghiên cứu báo cáo cộng đồng và theo dõi của nhóm Tôn Kinh Mẫn, quần thể xu hướng ổn định.
+
+[^4]: [Luật bảo tồn động vật hoang dã | Cơ sở dữ liệu pháp quy toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0120001) — Trách nhiệm hình sự và tiền phạt điều 40, 41; lịch sử sửa đổi xem [LawHistory](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=M0120001).
+
+[^5]: [Kinh nghiệm nhân tạo sinh sản tê giác | The Reporter](https://www.twreporter.org/a/pangolins-breed-experience-in-taiwan) — Vườn thú thành phố Taipei nhân tạo sinh sản thành công lần đầu năm 1997, thế hệ thứ tư và công thức bánh tê giác.
+
+[^6]: [Lịch sử bảo tồn tê giác Taiwan | The Reporter](https://www.twreporter.org/a/pangolin-conservation-history-in-taiwan) — Năm 1989 được đưa vào danh sách bảo tồn, số liệu kích thước cơ thể và thống kê cá thể bị thương được Trung tâm đặc sinh tiếp nhận năm 2018.
+
+[^7]: [Cục Bảo vệ động vật thành phố New Taipei nói về lượng kiến tê giác ăn | Newtalk 2023-02-17](https://newtalk.tw/news/view/2023-02-17/857899) — Một con tê giác một năm có thể ăn 70 triệu con kiến trắng.
+
+[^8]: [Tê giác và thuốc Trung y | Thực Lực 2020](https://www.foodnext.net/news/newsnation/paper/5616492562) — Dược điển vẫn có 8 loại thuốc chuyên lợi chứa tê giác.
+
+[^9]: [Tê giác Trung Quốc nâng cấp bảo vệ cấp một | PTS News 2020](https://news.pts.org.tw/article/483991) — Năm 2020 tất cả các loài thuộc chi Tê giác được nâng lên bảo vệ cấp một.
+
+[^10]: [Phát hiện hang tê giác trong khuôn viên Đại học Thanh Hoa | CNA 2024-04-08](https://www.cna.com.tw/news/aloc/202404080192.aspx) — Sinh viên và giáo viên phát hiện 5 hang đào.

@@ -1,168 +1,192 @@
 ---
-title: 'Taiwán: Con hábitat legal, aún no tiene un mar seguro'
-description: 'En 2020, los delfines blancos de la costa oeste de Taiwán obtuvieron finalmente 763 km² de hábitat importante legalmente protegido, pero las artes de pesca, los puertos, la contaminación y el ruido submarino siguen compitiendo en las mismas aguas someras.'
+title: 'El delfín blanco de Taiwán: aunque tiene un hábitat legal, aún no tiene un mar verdaderamente seguro'
+description: 'En noviembre de 2025, un delfín blanco adulto macho identificado como OCA023, al que los investigadores llamaban «Scissors», varó y murió en Shengang, Changhua, el décimo caso desde 2009. Su población pasó de unas 99 estimadas en 2002 a 45-50 en 2025, con solo dos o tres crías al año. En 2020 el gobierno designó 763 km² como hábitat importante legal; en 2026 el puerto de Taichung rellenó con tierra de desecho dentro de esa zona, y grupos ecologistas anunciaron una demanda. El mapa legal está trazado, pero el mar seguro aún no existe.'
 date: 2026-08-18
+modified: 2026-10-20
 category: 'Nature'
 tags:
   [
-    'Delfín blanco de Taiwán',
-    'Delfín blanco chino',
-    'Conservación marina',
-    'Costa oeste',
-    'Pesca',
+    'delfín blanco de Taiwán',
+    'delfín jorobado del Indo-Pacífico',
+    'conservación marina',
+    'costa occidental',
+    'pesca',
+    'puerto de Taichung',
   ]
 subcategory: '保育與環境'
 author: 'Taiwan.md Contributors'
+difficulty: 'intermediate'
 featured: false
-lastVerified: 2026-08-18
+lastVerified: 2026-10-20
 lastHumanReview: false
-readingTime: 8
+readingTime: 14
 curation: 'incubating'
+rationale:
+  why_this_hook: '2026 年 8 月颱風白海豚讓這三個字被全台灣看見，同一時間環團借這個名字發起連署，正好對照真正的白海豚還沒有被安全留下。'
+  whats_excluded: '白鱀豚與其他鯨豚的滅絕比較只留王愈超一句引語（篇幅），台中港各方對填海面積的不同算法只取各自出處的數字（不在範疇）。'
+  where_it_hedges: '族群數量一律附年份與估計者；擱淺死因未必都是人為；台中港訴訟結果未定，只寫到環團宣布提告與交通部、海保署的回應。'
+  whos_pushing_back: '交通部與港務公司主張南填方區屬 2016 年核定的既有開發；近岸漁民面對撤網的生計成本，文中以柯孟辰研究與轉型成本段落回應。'
 translatedFrom: 'Nature/台灣白海豚.md'
-sourceCommitSha: '372f0027e'
-sourceContentHash: 'sha256:0d5b2e9ee7dd2f9a'
-sourceBodyHash: 'sha256:53b72f6cf77894ed'
-translatedAt: '2026-09-11T09:58:42+08:00'
+sourceCommitSha: '5728f17ca'
+sourceContentHash: 'sha256:614db40bdd695c3e'
+sourceBodyHash: 'sha256:c6ff793872297489'
+translatedAt: '2026-10-21T08:58:11+08:00'
 ---
 
-![Delfín jorobado del Indo-Pacífico (*Sousa chinensis*)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg)
+![Delfín jorobado del Indo-Pacífico (Sousa chinensis)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-> **Resumen en 30 segundos:** En 2002, Taiwán comenzó investigaciones planificadas en el mar sobre los delfines blancos de la costa oeste; en 2020, la Administración de Conservación de la Vida Silvestre Marina anunció 763 km² de hábitat importante; en 2026, el puerto de Taichung sigue siendo escenario de controversias sobre si los proyectos de relleno de terreno requieren una evaluación de impacto ambiental. La juxtaposición de estas tres fechas muestra que los delfines blancos han sido "vistos" y trazados en mapas legales, pero aún no han obtenido un mar libre de interferencias.
-> La verdadera historia de los delfines blancos de Taiwán no es "la humanidad finalmente ha salvado a los delfines", sino si, tras conocer su existencia, la pesca, los puertos, la energía y la ingeniería costera pueden cambiar colectivamente la forma en que se utilizan estas aguas someras.
-> Su rango de actividad es estrecho, su tasa de reproducción es lenta y se superponen con la pesca costera y la ingeniería portuaria; por lo tanto, la unidad de conservación no es un solo delfín, sino un conjunto completo de reglas de uso costero.
+> **Resumen en 30 segundos:** En 2002, los equipos de investigación comenzaron a realizar estudios sistemáticos de los delfines blancos de la costa occidental de Taiwán, estimando entonces unas 99 individuos. En el verano de 2025, el especialista en cetáceos Wang Yu-chao publicó la estimación más reciente: solo 45 a 50, con una natalidad de apenas dos o tres crías al año. En 2020, el gobierno delimitó 763 km² como hábitat importante legal; en 2026, el puerto de Taichung rellenó con tierra de desecho dentro de esa área, y organizaciones ecologistas anunciaron una demanda judicial.
+> El delfín blanco de Taiwán ya ha sido avistado, nombrado y dibujado en mapas legales, pero aún no ha obtenido por ello un mar seguro. Su rango de actividad es estrecho, su reproducción lenta, y se superpone con la pesca costera, puertos y parques eólicos, por lo que su conservación exige un conjunto completo de normas de uso costero.
 
-En 2002, un equipo de investigación comenzó investigaciones marinas planificadas sobre los delfines blancos de la costa oeste de Taiwán. El 1 de septiembre de 2020, el hábitat importante del delfín blanco chino (_Sousa chinensis_) fue anunciado oficialmente. En abril de 2026, _Public Television_ (PTS) informó sobre la controversia de la evaluación de impacto ambiental del proyecto de relleno de 60 hectáreas del puerto de Taichung. Estos no son tres años aislados, sino una línea de tiempo de conservación que va desde "ver" hasta "cómo compartir el uso".[^4] [^6] [^7]
+En agosto de 2026, la circulación periférica del tifón Delfín Blanco barrió Taiwán, trayendo vientos fuertes y lluvias torrenciales a múltiples regiones; las palabras «delfín blanco» aparecieron día tras día en cada noticia sobre el tifón. Casi al mismo tiempo, la Alianza de Supervisión de Políticas, la Asociación Ecológica Taiwanesa Man-Ye, la Alianza de Conservación del Pez Mazu de Taiwán, la Alianza de Protección Ambiental del Condado de Changhua y la Sociedad de Protección de la Naturaleza aprovecharon ese nombre para lanzar la petición «Salvar al delfín blanco, el puerto de Taichung no debe rellenar el mar para expandirse».[^1] Quieren salvar a otro delfín blanco, que vive en aguas someras a pocos kilómetros de la costa, entre Miaoli y Yunlin.
 
-La Administración de Conservación de la Vida Silvestre Marina ha delimitado el hábitat importante legal del delfín blanco chino en 763 km², abarcando las aguas de Miaoli, Taichung, Changhua y Yunlin. En el mapa parece un límite, pero en el mar no hay muros: las redes de pesca, los buques de carga, los rellenos, los contaminantes y el sonido aún atraviesan las líneas trazadas por los humanos.[^1] [^6]
+Un año antes, el 17 de julio, el especialista en cetáceos de origen taiwanés-canadiense Wang Yu-chao, junto con la Asociación Ecológica Taiwanesa Man-Ye y la Asociación de Ruido Subacuático, convocó una rueda de prensa para presentar su último estudio: los delfines blancos de Taiwán pasaron de unas 99 en 2002, a unas 74 en 2010, hasta solo 45-50 el verano pasado. Dijo: «En mis 20 años de seguimiento, su población ha disminuido alrededor de un 3-4 % anual, lo que significa que la mortalidad supera con creces a la natalidad».[^2]
 
-Esta superficie es grande, pero no significa que los delfines blancos puedan evitar riesgos arbitrariamente dentro de ella. La UICN señala que su distribución central sigue siendo una franja larga y estrecha pegada a la costa oeste. La NOAA también los describe como especies que solo viven en las estrechas aguas estuarinas de la costa oeste de Taiwán. El problema de la conservación no es trazar un marco grande, sino mantener el agua, los peces, el sonido y la actividad de las embarcaciones dentro de un rango soportable.[^2] [^3]
+El hogar de estos delfines ya está en el mapa legal de la Agencia de Conservación Oceánica: el hábitat importante del delfín jorobado chino abarca 763 km², cruzando los mares de Miaoli, Taichung, Changhua y Yunlin, y se anunció oficialmente el 1 de septiembre de 2020.[^3] [^4] En el mapa parece un límite, pero en el mar no hay vallas: redes de pesca, buques de carga, rellenos, contaminantes y ruido siguen atravesando las líneas que los humanos trazaron.
 
-📝 **Nota de curaduría:** La superficie es un número político necesario, pero no es la función ecológica en sí misma. Lo que realmente necesita protección son la profundidad del agua, los estuarios, la comida y las condiciones de silencio para su actividad.
+Esta área es grande, pero la parte que los delfines pueden usar es solo una franja pegada a la costa. La UICN señala que su distribución nuclear es una estrecha franja marina junto a la costa occidental, y la NOAA los describe como habitantes exclusivos de los estrechos estuarios de la costa occidental de Taiwán.[^5] [^6] La verdadera dificultad de la conservación está en hacer que el agua, los peces, los sonidos y la actividad naviera dentro del recuadro se mantengan dentro de lo que una población tan pequeña y de reproducción tan lenta puede tolerar.
 
-## Por qué viven tan cerca de la costa
+## Por qué vive tan cerca de la costa
 
-Los delfines blancos de Taiwán no son grandes cetáceos que aparecen en alta mar. El Grupo de Especialistas en Cetáceos de la UICN registra que se distribuyen principalmente en una franja larga y estrecha de aguas marinas a aproximadamente 3 km de la costa oeste de Taiwán, con mayor densidad cerca de los estuarios y en aguas de 5 a 8 metros de profundidad. Rara vez aparecen en aguas profundas de más de 20 metros, a menos que sean canales excavados artificialmente.[^2]
+En los mares de Taiwán se han registrado más de 32 especies de [cetáceos](/es/nature/cetaceans-of-taiwan); el delfín blanco de Taiwán no pertenece a las que aparecen en alta mar. El Grupo de Especialistas en Cetáceos de la UICN registra que su distribución principal es una estrecha franja marina a unos 3 km de la costa occidental, con mayor densidad cerca de los estuarios y en aguas de 5 a 8 metros de profundidad. Rara vez aparecen por debajo de 20 metros, salvo en canales dragados artificialmente.[^5]
 
-La Administración de Conservación de la Vida Silvestre Marina describe al delfín jorobado del Indo-Pacífico (_Sousa chinensis_) como una especie de ambientes costeros y estuarinos, que generalmente habita en aguas de menos de 25 metros de profundidad, ubicándose en la parte superior de la cadena alimentaria marina. Estas condiciones facilitan la búsqueda de alimento, pero también los ponen en contacto directo con la costa de mayor densidad humana.[^1]
+La Agencia de Conservación Oceánica describe al delfín jorobado del Indo-Pacífico (_Sousa chinensis_) como una especie de ambientes costeros y estuarinos, que suele habitar aguas de menos de 25 metros de profundidad, situándose en un nivel trófico relativamente alto.[^3] La confluencia de agua dulce y salada en los estuarios concentra peces, lo que les facilita la alimentación, pero también los pone en contacto directo con la costa más intensamente usada por los humanos.
 
-Los individuos maduros suelen ser blancos o rosados, con una protuberancia en la base de la aleta dorsal; los juveniles son más grises. No nacen "blancos"; su color cambia con la edad y las manchas corporales. La figura rosada recordada es el resultado del proceso de crecimiento.[^1] [^3]
+Los individuos maduros suelen presentar coloración blanca o rosada, con una giba en la base de la aleta dorsal; los juveniles son más grises. No nacen blancos; el color cambia con la edad y las manchas corporales, y esa silueta rosada que la gente recuerda proviene del proceso de crecimiento de un delfín.[^3] [^6]
 
-📝 **Nota de curaduría:** Para los delfines blancos, el mar somero no es un estacionamiento temporal, sino su hogar. Los humanos, sin embargo, usan las mismas aguas someras como el lugar más conveniente para la construcción, la pesca y el transporte.
+> 📝 **Nota del curador:** Para el delfín blanco, el mar somero es su hogar. Los humanos, en cambio, tratan esa misma zona somera como el lugar más conveniente para construir, pescar y transportar; ambas partes quieren, en el fondo, la misma línea de costa.
 
 ![Delfín jorobado del Indo-Pacífico en la superficie](https://upload.wikimedia.org/wikipedia/commons/b/be/Sousa_chinensis_%282%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-Esta imagen no muestra un registro de campo de la población de la costa oeste de Taiwán, sino una referencia morfológica de la misma especie. El artículo no la considera como evidencia geográfica de los delfines blancos de Taiwán. Es importante mantener esta distinción en los materiales visuales, porque "parecer similar" no reemplaza la identificación fotográfica, las investigaciones marinas y los registros de ubicación.
+Esta foto es una referencia morfológica de la misma especie, tomada fuera de la costa occidental de Taiwán. Los verdaderos registros de la población de Taiwán provienen de las fotos de aletas dorsales que los equipos de investigación toman salida tras salida: la encuesta marina 2025 de la Agencia de Conservación Oceánica recorrió desde Miaoli hasta Tainan, acumulando más de 2.500 km de navegación.[^7]
 
-Este estilo de vida costero también explica por qué la conservación de los delfines blancos no puede depender únicamente de áreas marinas protegidas alejadas de la costa. Necesitan estuarios, zonas intermareales, bancos de peces costeros y un rango de actividad no excesivamente fragmentado. Proteger solo un punto podría aún significar perder toda la costa necesaria para su movimiento, alimentación y reproducción.[^1] [^2]
+La encuesta del mismo año halló que cerca del 90 % de los individuos identificados tenían rangos de actividad que abarcaban tres o más condados/ciudades, y dos dispositivos de grabación acústica pasiva registraron que su ecolocalización se detectaba más de noche y con mayor frecuencia durante la marea alta.[^7] Proteger solo un punto frente a un condado no basta; el delfín blanco podría seguir perdiendo la franja costera completa que necesita para moverse, alimentarse y reproducirse.[^3] [^5]
 
-## Toda una vida limitada por las condiciones del mar somero
+## Solo dos o tres crías al año
 
-La página de especies de NOAA Fisheries registra que los delfines blancos de Taiwán miden aproximadamente 6,6 a 9,2 pies de largo y pesan entre 330 y 440 libras. Se alimentan principalmente de peces, pero también pueden consumir cefalópodos y crustáceos. Estos números no son datos curiosos, sino una advertencia: dependen de un conjunto completo de condiciones ecológicas en los estuarios y aguas someras que aún pueden sustentar poblaciones de peces.[^3]
+La ficha de especies de NOAA Fisheries indica que el delfín blanco de Taiwán mide 2-2,8 m (6,6-9,2 pies) y pesa 150-200 kg (330-440 lb). Se alimenta principalmente de peces, y posiblemente de cefalópodos y crustáceos, dependiendo de un conjunto de condiciones ecológicas en estuarios y mares someros que aún puedan sostener bancos de peces.[^6]
 
-La misma página indica que los datos de la historia de vida de esta subespecie siguen siendo limitados; maduran tarde, tienen una tasa de reproducción lenta y las hembras mantienen relaciones prolongadas con las crías. Cuando la población ya es pequeña, la muerte de cualquier individuo adulto o cría no es solo la pérdida de un individuo, sino que puede afectar el siguiente ciclo reproductivo.[^3]
+La misma ficha señala que esta subespecie madura tarde y se reproduce lentamente, y que las hembras mantienen una relación prolongada con sus crías.[^6] Wang Yu-chao calculó en la rueda de prensa de 2025 la aritmética reproductiva: una hembra suele necesitar unos 5 años para sacar adelante una cría con éxito, y concluyó: «En conjunto, los delfines blancos de Taiwán apenas producen dos o tres crías al año; la cifra es realmente limitada».[^2]
 
-Esto hace que la "degradación del hábitat" no sea solo un paisaje costero feo. El relleno de terreno, la derivación de agua dulce, la contaminación o el ruido de la ingeniería pueden alterar primero los bancos de peces y las corrientes, obligando a los delfines blancos a pasar más tiempo buscando alimento. Para una población de reproducción lenta y rango estrecho, estos cambios son difíciles de resolver simplemente mudándose a otro mar.[^1] [^3]
+Esto convierte la «degradación del hábitat» en algo muy concreto. Rellenos, desvíos de agua dulce, contaminación o ruido de obras alteran primero los bancos de peces y las corrientes, obligando luego a los delfines a dedicar más tiempo a buscar alimento. Para una población de reproducción lenta y rango estrecho, estos cambios difícilmente se resuelven mudándose a otro mar, porque no tienen otro mar.[^3] [^6]
 
-📝 **Nota de curaduría:** La vulnerabilidad de una especie no proviene solo de su escasez numérica, sino de la falta de una velocidad de reproducción suficiente para compensar las pérdidas causadas por el hábitat y las artes de pesca.
+## La última vez que OCA023 tocó tierra
 
-## De "bai chu" a una subespecie con nombre científico
+El 22 de noviembre de 2025, un macho adulto fue hallado varado y muerto en Shengang, Changhua; el cuerpo, expuesto al sol y rozado por el fango, ya no mostraba su aspecto original. Los investigadores confirmaron mediante comparación fotográfica que era el individuo OCA023, apodado «Scissors».[^8] Desde 2009 hasta entonces, los delfines blancos de Taiwán sumaban al menos 10 casos de varamiento mortal, distribuidos en Changhua, Taichung, Miaoli y Tainan.[^8]
 
-Los pescadores de la costa oeste ya sabían que había un delfín blanco en el mar. _Taiwan Panorama_ registra que los pescadores de Changhua lo llaman "bai chu" (白鯇), mientras que en las áreas de Kinmen y Xiamen se le llama comúnmente "pez Mazu" (媽祖魚). Estos nombres no son clasificaciones académicas, pero preservan cómo los residentes del mar lo reconocen, recuerdan y discuten.[^4]
+La biología de la conservación usa la «eliminación biológica potencial» (PBR) para estimar cuántas muertes antropogénicas puede absorber una población. La Asociación Ecológica Taiwanesa Man-Ye calculó así que el PBR del delfín blanco de Taiwán es de 1 muerte humana cada 7-7,6 años.[^8] En poco más de una década se registraron 10 varamientos; las causas no están todas claras ni son todas antropogénicas, pero la asociación considera que la mortalidad reciente ya supera ampliamente ese umbral.
 
-En 2002, Taiwán comenzó investigaciones marinas planificadas. Un artículo especial de la UICN indica que los delfines blancos de Taiwán solo fueron registrados científicamente en 2002 y formalmente descritos como una subespecie del delfín jorobado del Indo-Pacífico (_Sousa chinensis taiwanensis_) en 2015. La nomenclatura científica no significa que aparecieran en ese año, sino que el sistema de investigación finalmente tuvo la capacidad de registrarlos científicamente.[^2]
+Wang Yu-chao describe este declive como un «vórtice de extinción»: una vez que la población cae por debajo de cierto punto crítico, aunque queden individuos vivos, la recuperación se vuelve extremadamente difícil. Nadie sabe dónde está ese punto. Dijo: «En realidad no sabemos dónde está el punto crítico de una población de cetáceos; nadie ha seguido tan largo el proceso de extinción de una población marina; quizás estemos presenciando el primer caso documentado a nivel mundial».[^2]
 
-Los primeros informes de _Taiwan Panorama_ describen cómo el equipo de investigación buscaba delfines blancos en las costas de Miaoli, Taichung y Changhua, identificando individuos mediante fotografías. Los investigadores debían combinar el tiempo, lugar, comportamiento y muescas de las aletas dorsales de cada avistamiento para estimar el tamaño de la pequeña población. Un giro en el mar no equivale directamente a "una cría más".[^4]
+## De «pez blanco» a una subespecie con nombre científico
 
-📝 **Nota de curaduría:** "Bai chu" y el nombre científico no son dos conjuntos de conocimientos mutuamente excluyentes. Uno proviene de años de trabajo en el mar, el otro de fotos, modelos y estadísticas; lo que realmente falta es integrar ambos conocimientos en la toma de decisiones.
+Los pescadores de la costa occidental ya conocían desde hace tiempo a un delfín blanco en el mar. _Taiwan Panorama_ registra que los pescadores de Changhua lo llamaban «pez blanco» (白鯃), mientras que en Kinmen y Xiamen se le solía llamar «pez Mazu» (媽祖魚).[^9] Estos nombres no están en la taxonomía académica, pero preservan cómo los habitantes del mar lo reconocían, recordaban y nombraban.
+
+En 2002, Taiwán comenzó los estudios sistemáticos en el mar. La UICN señala que el delfín blanco de Taiwán no fue registrado científicamente hasta 2002, y no se describió formalmente como subespecie del delfín jorobado del Indo-Pacífico (_Sousa chinensis taiwanensis_) hasta 2015.[^5] Los pescadores lo veían mucho antes; el nombre científico marca el año en que el sistema de investigación tuvo finalmente la capacidad de inscribirlo en el registro.
+
+Ese artículo de 2015, firmado por Wang Yu-chao (John Y. Wang), Shih Chu Yang y el académico de Hong Kong Samuel K. Hung, se publicó en _Zoological Studies_. Compararon la población de Taiwán con las más cercanas en el estuario del río Jiulong y el del río Perla, hallando diferencias sutiles pero claras en los patrones de manchas, distribución casi sin solapamiento, aislamiento geográfico y diferencias conductuales, suficientes para definir una subespecie independiente.[^10] Xiamen y Hong Kong también tienen delfines jorobados chinos, pero la población de la costa occidental de Taiwán es la única del mundo que existe solo en Taiwán; si desaparece, las poblaciones de la otra orilla no la pueden reponer.
+
+Los primeros reportajes de _Taiwan Panorama_ describen a los equipos buscando delfines blancos frente a Miaoli, Taichung y Changhua, identificando individuos mediante fotos. Los investigadores deben cruzar hora, lugar, comportamiento y muescas de la aleta dorsal de cada avistamiento para estimar el tamaño de la pequeña población; una vuelta en el mar no equivale directamente a «uno más».[^9]
+
+> 📝 **Nota del curador:** «Pez blanco» y el nombre científico son dos saberes que pueden coexistir: uno viene de años en el mar, el otro de fotos, modelos y estadísticas. Lo que realmente falta en Taiwán es que ambos entren juntos en la mesa donde se revisan los desarrollos y se gestiona la pesca.
 
 ![Imagen lateral del delfín jorobado del Indo-Pacífico](https://upload.wikimedia.org/wikipedia/commons/a/a3/Sousa_chinensis_%283%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-En la investigación, la forma de la aleta dorsal, la protuberancia dorsal, las manchas y el color del cuerpo pueden ayudar a identificar individuos o determinar etapas de edad, pero una imagen de internet sin fecha ni ubicación solo sirve como material de lectura morfológica. La estimación real de la población aún requiere datos de identificación fotográfica a largo plazo y repetibles.[^2] [^4]
+En la investigación, la aleta dorsal, la giba dorsal, las manchas y el color corporal ayudan a identificar individuos o estimar etapas de edad. Una foto de internet sin hora ni lugar solo sirve para reconocer su morfología; la estimación poblacional real sigue requiriendo datos de foto-identificación a largo plazo y repetibles.[^5] [^9]
 
-## Los números no tienen una sola respuesta
+## 99, 74, 45: la mitad en veinte años
 
-El tamaño de la población de delfines blancos a menudo se escribe como un único número impactante, pero diferentes años, métodos y páginas de investigación no se pueden sumar directamente. La página de la UICN registra que el análisis de marcación y recaptura mediante identificación fotográfica estimó una población máxima anual de aproximadamente 74 individuos en 2010, y entre 67 y 71 individuos entre 2011 y 2013. La misma página describe su estado crítico como no más de 75 individuos, con menos de 50 adultos maduros.[^2]
+En un mismo año, el público puede leer en las noticias «menos de 50» y en documentos oficiales «70». Ambas cifras tienen fuentes. Los datos de monitoreo 2023-2024 de la Agencia de Conservación Oceánica identificaron 70 individuos, pero ese es el total acumulado fotografiado desde 2010, incluyendo posibles muertos y individuos no reavistados en años. Al eliminar los no vistos en 5 años consecutivos, los investigadores estiman unos 60.[^11]
 
-La página de especies de NOAA Fisheries indica que quedan menos de 100 individuos, y señala que en 2018 Estados Unidos clasificó al delfín blanco de Taiwán como _endangered_ (en peligro) bajo la Ley de Especies en Peligro de Extinción. Este número no es necesariamente contradictorio con la estimación de la UICN, debido a las diferencias en los tiempos de actualización de las páginas, los métodos de estimación y las investigaciones citadas. Lo verdaderamente peligroso es ensamblarlos en una curva poblacional falsa que aparenta precisión.[^3]
+La curva académica baja sostenidamente. La UICN registra que el análisis de marcaje-recaptura fotográfica estima un máximo de 74 para 2010, 67-71 para 2011-2013, y describe su estado crítico con no más de 75 individuos y menos de 50 maduros.[^5] La ficha de NOAA Fisheries habla de menos de 100 individuos y anota que EE. UU. los listó como _endangered_ bajo la Ley de Especies Amenazadas en 2018.[^6] Para el verano de 2025, la estimación de Wang Yu-chao es de 45-50; dice que en veinte años la población se redujo a la mitad.[^2]
 
-Un informe de 2026 de _Public Television_ (PTS) comienza con "alrededor de 40" como apertura del reportaje de campo, citando a entrevistados que mencionan una máxima observación de 9 individuos en 2025 y 14 en 2026 en el puerto de Taichung. Estas son observaciones de campo y juicios de entrevistados, no equivalentes a un censo completo de la población. Permiten ver el campo, pero no reemplazan la estimación poblacional.[^7]
-
-📝 **Nota de curaduría:** Un artículo de conservación confiable no elige el número más triste, sino que aclara el año, el método y el nivel de evidencia de cada número.
-
-![Imagen de grupo de delfines jorobados en la superficie](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg)
+![Delfines jorobados del Indo-Pacífico agrupados en la superficie](https://upload.wikimedia.org/wikipedia/commons/b/bf/Sousa_chinensis_%284%29_by_Zureks.jpg)
 
 _Foto: Zureks / Wikimedia Commons, CC0 1.0_
 
-Las imágenes de grupo se leen fácilmente como tamaño de población, pero un encuadre simultáneo solo representa individuos visibles en un momento determinado. La estimación de delfines blancos debe manejar la visión repetida del mismo individuo, la omisión de individuos, las diferencias estacionales y el alcance de la investigación; la intuición visual no reemplaza los métodos de estimación.[^2]
+Las cifras de campo vienen de otra observación: el reportaje de 2026 de _Nuestra Isla_ de PTS abre con «40 y pico», y observadores civiles dicen que el grupo más grande visto en el puerto de Taichung fue de 9 en 2025 y 14 en 2026, creyendo que allí puede haber zona de cría, alimentación y descanso.[^12] La encuesta 2025 de la Agencia de Conservación Oceánica avistó 17 grupos, casi la mitad grupos de cría con madres y crías, registrando 25 avistamientos de crías, de las cuales 4 desarrollaron manchas y muescas identificables y recibieron número oficial.[^7]
 
-Si se devuelven estos números a la misma pregunta, siguen apuntando en una dirección consistente: es una población pequeña, estrecha, dependiente de ambientes costeros y sin una clara tendencia de disminución de amenazas. El artículo especial de la UICN indica que dos análisis de viabilidad poblacional, considerando la mortalidad por captura incidental y la pérdida/degradación del hábitat, apuntan a una trayectoria de alta probabilidad de disminución.[^2]
+Juntas, estas cifras apuntan en la misma dirección: una población pequeña, estrecha, dependiente del entorno costero, y cuyas amenazas no han disminuido visiblemente. La UICN registra que dos análisis de viabilidad poblacional, considerando mortalidad por captura incidental y pérdida/degradación de hábitat, apuntan a una trayectoria de declive muy probable.[^5] Esas 4 crías con número nuevo demuestran que siguen naciendo; si podrán crecer depende de cómo se use el mar donde nacieron.
 
-## Las personas al otro lado de la red de pesca
+## Los humanos al otro lado de la red
 
-La conservación de delfines a menudo se escribe como "los pescadores dañan a los delfines", pero la investigación recopilada por Airiti ofrece un cuadro más complejo. El estudio de Ke Meng-chen (2011) utilizó 127 entrevistas a pescadores entre mayo de 2010 y abril de 2011, indicadores de superposición de recursos y datos a largo plazo de capturas de redes de enmalle para estudiar la competencia potencial de fuentes de alimento entre la pesca de la costa oeste y los delfines blancos.[^5]
+La conservación de delfines se suele reducir a «pescadores dañan delfines»; un estudio recopilado por Airiti ofrece una imagen más compleja. La investigación de Ko Meng-chen (2011), basada en 127 entrevistas a pescadores entre mayo 2010 y abril 2011, índices de solapamiento de uso de recursos y datos de capturas de redes de enmalle a largo plazo, estudió la competencia trófica potencial entre la pesca costera occidental y el delfín blanco.[^13]
 
-El resumen del estudio indica que el 54% del área de operación de los pescadores entrevistados se superpone con el hábitat principal de los delfines blancos. Dentro de esta zona superpuesta, el 94% de los métodos de pesca principales son redes de enmalle. Esto no significa que "todos los pescadores hagan lo mismo en el mismo lugar", sino que muestra que los delfines blancos y la pesca costera comparten realmente un espacio de recursos estrecho.[^5]
+El resumen señala que el 54 % de las áreas de operación de los pescadores entrevistados se solapan con el hábitat principal del delfín blanco, y en esa zona de solapamiento el 94 % de los artes principales son redes de enmalle.[^13] Estos datos muestran que delfines y pesca costera comparten un espacio de recursos estrecho; las redes están justo donde los delfines buscan peces.
 
-En el mismo estudio, el 42% de los pescadores entrevistados consideró que los recursos pesqueros habían disminuido en la última década, y el 49% atribuyó la disminución a la contaminación industrial y a las redes de arrastre ilegales dentro de las tres millas náuticas. El estudio también señala que los pescadores no tienen una opinión unificada sobre si la aparición de delfines blancos reduce las capturas. Estos datos indican que los pescadores también sufren la disminución de recursos, aunque sus pérdidas rara vez aparecen en carteles de conservación.[^5]
+En el mismo estudio, el 42 % de los pescadores considera que los recursos pesqueros han bajado en la última década, y el 49 % atribuye la caída a contaminación industrial y arrastre ilegal dentro de las 3 millas. También apunta que la percepción de los pescadores sobre si la presencia de delfines reduce sus capturas no es uniforme.[^13] Los pescadores sufren igualmente la merma de recursos, solo que sus pérdidas no suelen aparecer en carteles de conservación.
 
-📝 **Nota de curaduría:** La pesca y los delfines blancos no son dos enemigos independientes. Comparten una red alimentaria que ya ha sido comprimida por muchos usos.
+La UICN enumera la interacción pesquera como amenaza directa y urgente, y anota que cerca del 60 % de los individuos muestran evidencias de lesiones graves por actividad humana, y más del 31 % han sido fotografiados portando artes de pesca o con heridas compatibles con artes.[^5] En un taller internacional de expertos en agosto de 2019 en Ontario, Canadá, los participantes coincidieron: la retirada total de redes de enmalle y redes de tres capas del hábitat del delfín blanco es la única medida que tendría efecto inmediato entre todas las propuestas.[^14]
 
-La UICN clasifica la interacción con la pesca como una amenaza directa e inminente, y registra que el 60% de los individuos muestran evidencia de graves daños causados por actividades humanas, y más del 31% de los individuos han sido fotografiados portando artes de pesca o con lesiones posibles causadas por ellas. Estas proporciones provienen de investigaciones citadas en la página de la UICN y no se pueden inferir directamente como responsabilidad idéntica para cada método de pesca o puerto.[^2]
+El coste de retirar redes recae en alguien, y esa es la otra mitad del problema. La política de conservación debe saber qué arte, en qué temporada, en qué tramo de agua y con qué sistema de compensación reduce más el riesgo, y debe evitar que los pescadores paguen solos el coste de una conservación pública. La coordinación previa y posterior al anuncio del hábitat legal en 2020 empezó justamente ahí.[^4]
 
-Por lo tanto, la política de conservación no puede limitarse a ordenar "no capturar". También necesita saber qué tipo de artes de pesca, en qué temporada, en qué tramo de aguas y con qué sistema de reporte reducen más el riesgo, y permitir que los pescadores no paguen solos con sus ingresos el costo total de la conservación pública. La coordinación alrededor del anuncio del hábitat legal en 2020 comenzó precisamente desde aquí.[^6]
+## 763 km² dibujados en el mapa
 
-## Con hábitat legal, ¿qué cambian las reglas?
+El hábitat importante del delfín jorobado chino, anunciado el 1 de septiembre de 2020, va desde el puerto Longfeng en Miaoli al norte hasta el faro de Waishanding en Chiayi al sur, totalizando 76.300 hectáreas. El Centro de Información Ambiental reporta que este anuncio recorrió un camino desde su inclusión como especie de conservación en 2008, investigaciones, preanuncio en 2014 y coordinación multipartita, hasta su entrada en vigor.[^4]
 
-El hábitat importante del delfín blanco chino anunciado el 1 de septiembre de 2020 abarca desde el puerto de Longfeng en Miaoli hasta el faro de Wushantou en Chiayi, con un área total de 76.300 hectáreas. _Info-Life_ informa que este anuncio pasó por la clasificación como especie protegida en 2008, investigaciones, la propuesta preliminar en 2014 y la coordinación con múltiples partes interesadas, antes de entrar en vigor.[^6]
+El Centro de Información Ambiental cita a la Agencia de Conservación Oceánica: las actividades de captura existentes, que no tienen al delfín blanco como objetivo, no se vuelven automáticamente ilegales por la designación del hábitat importante; el anuncio no convierte toda el área en zona de veda total. Los desarrollos dentro de la zona no deben dañar las funciones ecológicas originales, y cuando sea necesario deben someterse a evaluación de impacto ambiental y obtener permiso de la autoridad competente.[^4]
 
-El anuncio no convierte todo el mar en una zona de prohibición total de pesca. _Info-Life_ cita a la Administración de Conservación de la Vida Silvestre Marina indicando que las actividades de captura existentes y no dirigidas específicamente a los delfines blancos no violan automáticamente las regulaciones por la designación del hábitat importante. Sin embargo, el desarrollo y uso dentro de la región no puede destruir las funciones ecológicas originales; cuando sea necesario, se requiere una evaluación de impacto ambiental y la autorización de la autoridad competente.[^6]
+El hábitat legal es así un sistema que introduce la función ecológica en la revisión de desarrollos, el monitoreo, la educación y la participación local. Reconoce que los pescadores ya trabajan en ese mar, y exige que nuevas obras no finjan que no hay otros residentes.[^3] [^4] El primer gran test de este sistema vino de dos tipos de obras que ondean banderas de «existente» o «energía verde».
 
-Esta diferencia es importante. El hábitat legal no es un sello que prohíbe a los humanos entrar, sino un sistema que incorpora las funciones ecológicas en la revisión de desarrollo, monitoreo, educación y participación local. Reconoce que los pescadores ya trabajan en este mar, y exige que la nueva ingeniería no finja que este mar no tiene otros residentes.[^1] [^6]
+> 📝 **Nota del curador:** Una zona protegida realmente útil no solo dice qué no se puede hacer, sino también quién monitorea, quién asume los costes de reconversión y cómo se remedia tras una infracción.
 
-📝 **Nota de curaduría:** Un área protegida realmente útil no solo dice qué no se puede hacer dónde, sino que aclara quién monitorea, quién asume los costos de conversión y cómo se remedia tras una violación.
+## Los treinta minutos antes de hincar pilotes
 
-## Las 60 hectáreas del puerto de Taichung
+Los parques eólicos marinos frente a Changhua son los nuevos vecinos de este mar somero. Según los compromisos de evaluación ambiental de cada parque, antes de hincar pilotes debe hacerse una observación continua de cetáceos de al menos 30 minutos, confirmando que no hay cetáceos en la zona de vigilancia (radio habitual de 750 m alrededor del punto de hincado); si entran, hay que parar, y el ruido de construcción no debe superar 160 decibelios.[^15] [^16]
 
-Un reportaje de 2026 de _Public Television_ (PTS) en _Nuestra Isla_ (Our Island) informó sobre la construcción de diques en una nueva zona de relleno del puerto de Taichung, con un relleno de terreno de 60 hectáreas previsto para el almacenamiento de sedimentos de dragado, así como para la demanda de tierras relacionadas con la energía eólica, hidrógeno verde y gas natural licuado. Este proyecto está dentro del rango del hábitat importante de los delfines blancos, poniendo "hábitat legal" y "ingeniería portuaria" en la misma noticia.[^7]
+Las reglas en papel dependen de la gente en el mar. El 14 de abril de 2025, durante una encuesta ecológica frente a la zona industrial de Changbin, grupos ecologistas avistaron una pareja madre-cría de delfines blancos seguida de cerca por un barco guardacostas, grabando todo en vídeo como prueba; luego denunciaron tres fallos del promotor eólico: barco pesquero acercándose, falsificación de registros de observadores y ruido excesivo; la Agencia de Conservación Oceánica intervino.[^15] Las estadísticas de la Agencia de Gestión Ambiental del Ministerio de Ambiente muestran que 10 parques eólicos acumulan multas por 157,95 millones NT$, siendo la infracción más frecuente el ruido subacuático por encima del estándar.[^15]
 
-El reportaje presenta dos puntos de vista diferentes: las unidades de transporte y puertos consideran que la zona de relleno está dentro del dique existente y, por ley, no requiere evaluación de impacto ambiental. Los grupos civiles y abogados argumentan que el alcance del proyecto es aguas abiertas y debe evaluarse según la ley de evaluación de impacto ambiental. El artículo no puede emitir un veredicto anticipado para los tribunales o autoridades competentes, pero puede señalar claramente que el núcleo de la controversia es si los límites de las obras existentes son suficientes para representar los límites del impacto ecológico.[^7]
+La eólica marina es parte de la transición energética de Taiwán; el problema del delfín blanco está en _cómo_ se construyen: elegir emplazamientos evitando zonas calientes, mantener el ruido realmente bajo el estándar, que los registros de observadores aguanten auditoría externa. La obra que reduce carbono y una subespecie de solo unas decenas de individuos usan el mismo mar somero.
 
-El reportaje de PTS también registra que los observadores civiles mencionaron una máxima observación de 9 individuos en 2025 y 14 en 2026 en el puerto de Taichung, considerando que esta podría ser una zona de cría, alimentación y descanso. Estas son observaciones de entrevista y juicios de entrevistados, no estadísticas oficiales de población. Su valor radica en señalar que la evaluación previa a la ingeniería no debería preguntar solo "si aparecen los delfines blancos", sino "qué están haciendo aquí".[^7]
+## Los 4 millones de m³ de tierra de desecho en la zona sur de relleno del puerto de Taichung
 
-📝 **Nota de curaduría:** La parte más difícil de la controversia de desarrollo no es decidir si se está del lado de los delfines o del puerto, sino reconocer que un puerto puede ser también un lugar de trabajo para algunas familias y un lugar de cría para algunos delfines.
+El reportaje de 2026 de _Nuestra Isla_ de PTS cubre la obra del dique en la nueva zona de relleno del puerto de Taichung: se prevé rellenar 60 ha para recibir tierras de dragado y satisfacer necesidades de suelo para eólica, hidrógeno verde y GNL. Esta obra está dentro del hábitat importante del delfín blanco.[^12] Las autoridades de transporte y puertos arguyen que al estar dentro del rompeolas existente, por ley no requiere evaluación ambiental; grupos civiles y abogados sostienen que al tratarse de aguas abiertas, debe evaluarse según la ley de evaluación ambiental.[^12]
 
-El reportaje especial de Greenpeace Taiwan llama a los delfines blancos "pez Mazu" y organiza su color, distribución, métodos de investigación y amenazas al hábitat. Esta defensa de la conservación permite que una especie antes vista solo en la costa oeste entre en el debate público nacional, pero el lenguaje de la defensa debe leerse separado de los anuncios oficiales y las estimaciones académicas.[^8]
+El 14 de julio, los grupos ecologistas presentaron al Ministerio de Ambiente una notificación ciudadana bajo la ley de evaluación ambiental, exigiendo sanción inmediata y paralización del relleno. Señalan que el proyecto supera las 50 ha de relleno, pero la autoridad portuaria califica aguas abiertas como «dentro del rompeolas existente».[^17] Cuando el tifón Delfín Blanco afectó Taiwán en agosto, la petición lanzada entonces alcanzó 32.748 firmas y más de 195 organizaciones opositoras al 31 de agosto por la tarde. A partir de septiembre, la zona sur prevé recibir otros 4 millones de m³ de tierra de desecho.[^1] [^18] Los ecologistas estiman que, sumando la 4ª fase de la 2ª terminal de CPC y la 1ª fase de la 5ª terminal de Taipower, el puerto de Taichung rellenará en total unos 14 millones de m³ de tierra de desecho y 1,05 millones de m³ de áridos reciclados, haciendo desaparecer permanentemente unas 760 ha de mar exterior,约 el 24 % de la superficie del puerto exterior.[^18]
 
-## El verdadero "hogar"
+El 16 de septiembre, la abogada de la Asociación Ecológica Taiwanesa Man-Ye, Tsai Ya-ying, declaró en rueda de prensa que si el relleno supera 50 ha debe hacerse evaluación de segunda fase; este proyecto prevé 50 ha, pero el Ministerio de Ambiente le eximió. Los ecologistas anunciaron una demanda ciudadana ante el Tribunal Administrativo en nombre del delfín blanco.[^19] El 22 de septiembre, la directora ejecutiva de la Asociación de Preocupación Ambiental Corazón de la Tierra, Hsu Wan-ling, cuestionó en otra rueda de prensa la autoevaluación ecológica de la empresa portuaria: «¿Aquí no hay animales de conservación? ¡Se atreve a marcar "no"! Eso es mentir».[^20]
 
-La historia de conservación de los delfines blancos de Taiwán tiene un giro que no parece un cuento de éxito: en 2002, los investigadores comenzaron a buscarlos planificadamente. En 2020, el gobierno trazó su hábitat en el mapa legal. En 2026, la pregunta de si la ingeniería requiere evaluación de impacto ambiental sigue siendo debatida en el campo. Ser visto, nombrado y protegido no equivale a ser dejado seguro.[^2] [^6] [^7]
+El gobierno responde por otra línea temporal. El Ministerio de Transporte indica que el plan portuario internacional se revisa cada cinco años; el plan actual continúa lo aprobado por el Yuan Ejecutivo en 2016, que ya designó esta zona como sitio de recepción de tierras de dragado, calificándola como desarrollo existente. La empresa portuaria presentó en 2021 (inicio de obra) y mayo de 2023 dos autoevaluaciones ecológicas, ambas conformes a la normativa vigente entonces.[^21] La Agencia de Conservación Oceánica dice respetar la calificación de «caso de desarrollo existente» por la autoridad competente, el Ministerio de Transporte.[^^20]
 
-Para los delfines blancos, el verdadero hogar no es un polígono que solo existe en documentos oficiales. Debe permitir que los bancos de peces se queden, que los pescadores tengan reglas previsibles, que la ingeniería sepa antes de la construcción que el ruido submarino y el relleno no son detalles a remediar después, y que cada número de población venga acompañado de año, método e incertidumbre.[^1] [^2] [^5]
+Puestas juntas, la disputa es clara: ¿puede un plan portuario aprobado en 2016 anular de facto un hábitat importante anunciado en 2020? La respuesta la dará ahora el tribunal, y su fallo decidirá qué pesa más: las cuatro palabras «desarrollo existente» o aquel mapa de 763 km².
 
-Viéndolo así, los delfines blancos no son un emblema decorativo de la costa de Taiwán. Conectan cosas que rara vez vemos juntas: una red de pesca, un puerto, un estuario, un procedimiento de revisión de desarrollo y una población costera de solo decenas a menos de cien individuos.[^2] [^3] [^6]
+> 📝 **Nota del curador:** Lo más difícil de las controversias de desarrollo es admitir que un puerto puede ser a la vez lugar de trabajo de unas familias y zona de cría de unos delfines. Reducir el conflicto a «¿puerto o delfines?» hace perder a ambos bandos.
 
-La próxima vez que alguien diga "los delfines blancos de Taiwán finalmente tienen hogar", se puede empujar la pregunta un paso más adelante: ¿las reglas de ese hogar también permiten que las personas que viven y trabajan en la costa sobrevivan? Si la respuesta aún no es afirmativa, entonces los 763 km² no son el punto final, sino el comienzo de que Taiwán finalmente aprenda a vivir con un vecino que no habla por sí mismo.[^1] [^6] [^7]
+## Un humedal a 119 NT$ la acción
 
-El anuncio del hábitat debe entenderse, por tanto, como un comienzo, no como un póster promocional. Exige que el gobierno continúe monitoreando, y que la ingeniería, la pesca y los datos de conservación puedan leerse mutuamente. Si cada unidad solo conserva sus propios números, los delfines blancos seguirán viviendo en las grietas de los datos.[^1] [^6]
+La primera vez que el delfín blanco saltó a la vista de todo Taiwán fue hace dieciséis años, con el caso Kuokuang Petrochemical. La evaluación ambiental de esa refinería prevista en la desembocadura del río Zhuoshui, en Dacheng, Changhua, fue registrada por _Taiwan Panorama_,[^9] y la frase «los delfines blancos saben girar» se volvió muy conocida aquellos años. A menudo se atribuye al entonces primer ministro Wu Den-yih, quien en 2017 exclamó: «¡Qué delfines blancos girando! ¡Nunca dije eso!».[^22]
 
-Para la costa oeste de Taiwán, proteger a los delfines blancos también equivale a reaprender cómo usar la costa. Este aprendizaje no tiene una respuesta que se complete de una vez, pero al menos puede comenzar sin confundir números, sin excluir a los pescadores y reconociendo antes de la construcción que ya hay gente viviendo en el mar.
+La respuesta civil fue comprar la tierra: a principios de abril de 2010 se lanzó la acción «suscripción popular», usando fideicomiso ambiental para comprar al gobierno el humedal de Haipu en la desembocadura del Zhuoshui, a 119 NT$ la acción.[^23] [^24] Para julio de ese año, más de 30.000 personas suscribieron, aportando más de 160 millones NT$; la primera causa de fideicomiso ambiental de Taiwán se presentó formalmente.[^23]
 
-## Lecturas adicionales
+El 22 de abril de 2011, el presidente Ma Ying-jeou convocó rueda de prensa en la Oficina Presidencial anunciando que no apoyaba el proyecto Kuokuang, valorado en 600.000 millones NT$.[^25] Aquella vez, un grupo de delfines que no pueden hablar por sí mismos movilizó a más de 30.000 taiwaneses a firmar y suscribir, para hablar por ellos.
 
-- [Administración de Conservación de la Vida Silvestre Marina: Zona de Conservación de Delfines Blancos en las Aguas de Taiwán](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360)
-- [Grupo de Especialistas en Cetáceos de la UICN SSC: Delfines jorobados de Taiwán](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/)
-- [Airiti: Competencia potencial de fuentes de alimento entre el delfín blanco chino y la pesca costera en el oeste de Taiwán](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000)
-- [Nuestra Isla: Días de relleno de terreno: Puerto de Taichung y delfines blancos de Taiwán](https://ourisland.pts.org.tw/content/11919)
+> 📝 **Nota del curador:** En 2011 se paró una refinería que aún no se había construido; la controversia de 2026 ocurre dentro de un puerto ya existente. La primera se pudo frenar comprando un humedal con suscripción popular; el campo de batalla de la segunda se ha movido a los artículos de la ley de evaluación ambiental y la definición de «desarrollo existente», y exige otro tipo de fuerza ciudadana: gente que sepa leer documentos oficiales y esté dispuesta a ir a los tribunales.
+
+## Después de que se fue el tifón Delfín Blanco
+
+El tifón Delfín Blanco se fue en agosto, su nombre quedará en los registros meteorológicos. El verdadero delfín blanco sigue en esa estrecha franja somera frente a Miaoli-Yunlin; la encuesta del año pasado de la Agencia de Conservación Oceánica registró 4 crías nuevas que desarrollaron manchas y muescas, obteniendo por primera vez su propio número.[^7]
+
+Wang Yu-chao comparó en la rueda de prensa de 2025 con la marsopa del Golfo de California, que solo quedan 10 y al menos están bajo protección. Dijo: «Esas dos especies parecen competir por ser la "segunda en extinguirse"».[^2] El resultado de esa carrera aún no está escrito.
+
+2002: investigadores empiezan a salir al mar a buscarlos. 2010: 30.000+ personas suscriben para comprarles tierra. 2020: el gobierno dibuja su casa en el mapa legal. 2026: alguien los lleva a los tribunales. Cada paso lo han dado los propios taiwaneses. Si esos 763 km² pueden convertirse en un mar verdaderamente seguro, la respuesta está en la zona de relleno del puerto de Taichung, en los barcos hinca-pilotes frente a Changhua, en las redes de enmalle de los puertos pesqueros de la costa occidental, y en qué delfín viene a la mente la próxima vez que alguien diga «delfín blanco».
+
+## Lecturas complementarias
+
+- [Agencia de Conservación Oceánica: Zona especial de conservación del delfín blanco en mares de Taiwán](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360)
+- [Grupo de Especialistas en Cetáceos de la UICN: Delfines jorobados taiwaneses](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/)
+- [Centro de Información Ambiental: Delfín blanco de Taiwán queda menos de 50, el académico Wang Yu-chao: población cae 3-4 % anual](https://e-info.org.tw/node/241746)
+- [Nuestra Isla: Días de relleno: puerto de Taichung y delfín blanco de Taiwán](https://ourisland.pts.org.tw/content/11919)
+- [Airiti: Competencia trófica potencial entre el delfín jorobado chino de la costa occidental de Taiwán y la pesca costera](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000)
 
 ## Fuentes de imágenes
 
-Las cuatro imágenes utilizadas en este artículo provienen todas de Wikimedia Commons, utilizando la URL directa de la imagen original, sin descargar el archivo de imagen; el autor es Zureks en todos los casos, con licencia **CC0 1.0 Universal Public Domain Dedication**.
+Las cuatro imágenes de este artículo provienen de Wikimedia Commons, usando URLs directas de los archivos originales sin descargarlas; el autor de todas es Zureks, bajo licencia **CC0 1.0 Universal Public Domain Dedication**.
 
 - Imagen 1: [Sousa chinensis (1) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%281%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sousa_chinensis_%281%29_by_Zureks.jpg/1280px-Sousa_chinensis_%281%29_by_Zureks.jpg
 - Imagen 2: [Sousa chinensis (2) by Zureks.jpg](https://commons.wikimedia.org/wiki/File:Sousa_chinensis_%282%29_by_Zureks.jpg) — https://upload.wikimedia.org/wikipedia/commons/b/be/Sousa_chinensis_%282%29_by_Zureks.jpg
@@ -173,18 +197,52 @@ Detalles de la licencia: [CC0 1.0 Universal Public Domain Dedication](https://cr
 
 ## Referencias
 
-[^1]: [Administración de Conservación de la Vida Silvestre Marina: Zona de Conservación de Delfines Blancos en las Aguas de Taiwán](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — Página oficial de especies y hábitat de la Administración de Conservación de la Vida Silvestre Marina, que explica la clasificación del delfín blanco chino, su hábitat estuarino costero, los 763 km² de hábitat importante y las seis categorías de amenazas antropogénicas.
+[^1]: [United Daily News: La circulación periférica del tifón Delfín Blanco roza el mar del norte; grupos ecologistas lanzan petición «Salvar al delfín blanco»](https://udn.com/news/story/7266/9679996) — Reportaje del 9 de agosto de 2026, registra vientos y lluvias del tifón y la petición conjunta de cinco grupos ecologistas «Salvar al delfín blanco, el puerto de Taichung no debe rellenar el mar para expandirse» con lista de organizaciones y demandas.
 
-[^2]: [Grupo de Especialistas en Cetáceos de la UICN SSC: Delfines jorobados de Taiwán](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/) — Artículo especial del Grupo de Especialistas en Cetáceos de la UICN, que organiza el registro científico de 2002, la descripción de la subespecie de 2015, estimaciones poblacionales, pérdida de hábitat y proporciones de lesiones por artes de pesca, marcando los años de los datos.
+[^2]: [Centro de Información Ambiental: Delfín blanco de Taiwán queda menos de 50, el académico Wang Yu-chao: población cae 3-4 % anual](https://e-info.org.tw/node/241746) — Reportaje del 18 de julio de 2025, cubre la rueda de prensa del 17 de julio de Wang Yu-chao, la Asociación Man-Ye y la Asociación de Ruido Subacuático, con estimaciones 99, 74, 45-50, tasa de caída 3-4 % y cálculo reproductivo.
 
-[^3]: [NOAA Fisheries: Delfín Jorobado de Taiwán](https://www.fisheries.noaa.gov/species/taiwanese-humpback-dolphin) — Página de especies en inglés de NOAA Fisheries, que registra menos de 100 individuos, la inclusión en la Ley de Especies en Peligro de Extinción en 2018 y amenazas como el enredo en artes de pesca, desarrollo costero y contaminación.
+[^3]: [Agencia de Conservación Oceánica: Zona especial de conservación del delfín blanco en mares de Taiwán](https://www.oca.gov.tw/ch/home.jsp?id=368&parentpath=0,296,360) — Portal oficial de la agencia con taxonomía, hábitat costero-estuarino, hábitat importante de 763 km² y seis categorías de amenazas antropogénicas.
 
-[^4]: [Taiwan Panorama: Protegiendo al mensajero del mar: El delfín blanco chino](https://www.taiwan-panorama.com/Articles/Details?Guid=040e5448-6eb5-4edc-9b5a-d53cb2bf1831&CatId=7&postname=%E5%AE%88%E8%AD%B7%E6%B5%B7%E6%B4%8B%E4%BD%BF%E8%80%85%E2%94%80%E2%94%80%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A) — Reportaje de 2010 de la revista oficial de cultura, que registra los nombres locales de "bai chu" y "pez Mazu", la investigación marina de 2002, observaciones tempranas del hábitat y el sitio de evaluación de impacto ambiental de Guoguang Petrochemical.
+[^4]: [Centro de Información Ambiental: El delfín blanco de Taiwán por fin tiene casa](https://e-info.org.tw/node/226436) — Reportaje de 2020 sobre el anuncio del hábitat importante: investigación, preanuncio, coordinación interinstitucional, 763 km² y tratamiento de derechos pesqueros existentes.
 
-[^5]: [Airiti: Competencia potencial de fuentes de alimento entre el delfín blanco chino y la pesca costera en el oeste de Taiwán](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000) — Página de detalles de la investigación de maestría de 2011 de Ke Meng-chen en la Universidad Nacional de Taiwán, que explica las 127 entrevistas a pescadores, indicadores de superposición de recursos, datos de capturas de redes de enmalle y problemas de gestión pesquera.
+[^5]: [Grupo de Especialistas en Cetáceos de la UICN: Delfines jorobados taiwaneses](https://iucn-csg.org/csg-focal-taxa/eastern-taiwan-strait-humpback-dolphins/) — Artículo de la UICN que resume registro científico 2002, descripción de subespecie 2015, estimaciones poblacionales, pérdida de hábitat y proporción de lesiones por artes de pesca, con fechas de datos.
 
-[^6]: [Info-Life: Los delfines blancos de Taiwán finalmente tienen hogar](https://e-info.org.tw/node/226436) — Reportaje de 2020 que registra la investigación del anuncio del hábitat importante de los delfines blancos, la propuesta preliminar, la coordinación interinstitucional, el alcance de 763 km² y el manejo de los derechos pesqueros existentes.
+[^6]: [NOAA Fisheries: Delfín jorobado taiwanés](https://www.fisheries.noaa.gov/species/taiwanese-humpback-dolphin) — Ficha en inglés de NOAA Fisheries: menos de 100 individuos, morfología y dieta, historia de vida, inclusión 2018 en Endangered Species Act, y amenazas como enmallamiento, desarrollo costero y contaminación.
 
-[^7]: [Nuestra Isla: Días de relleno de terreno: Puerto de Taichung y delfines blancos de Taiwán](https://ourisland.pts.org.tw/content/11919) — Reportaje de campo de 2026 que informa sobre el proyecto de relleno de 60 hectáreas del puerto de Taichung, la controversia de la evaluación de impacto ambiental, el conflicto entre ingeniería y hábitat, y las observaciones de entrevistados sobre grupos de cría.
+[^7]: [Commercial Times: Resultados del monitoreo del delfín blanco 2025 de la Agencia de Conservación Oceánica](https://www.ctee.com.tw/news/20260310701046-431401) — Reportaje del 10 de marzo de 2026: encuesta 2025 con >2.500 km, 30 individuos identificados, 25 avistamientos de crías, 4 crías con número oficial, 17 grupos avistados y hallazgos de grabadoras pasivas.
 
-[^8]: [Greenpeace Taiwan: El mensajero blanco en las olas del Estrecho de Taiwán](https://www.greenpeace.org/taiwan/update/29782/%E8%87%BA%E7%81%A3%E6%B5%B7%E5%B3%BD%E6%B5%AA%E8%A3%A1%E7%9A%84%E7%99%BD%E8%89%B2%E4%BF%A1%E4%BD%BF-%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%88%87%E8%87%BA%E7%81%A3%E7%99%BD%E6%B5%B7/) — Reportaje especial de Greenpeace Taiwan que organiza los nombres locales de "pez Mazu", morfología de la especie, métodos de investigación, amenazas al hábitat y contexto de defensa de la conservación; este artículo no trata los juicios de defensa como estadísticas oficiales.
+[^8]: [PTS News: Nuevo caso de varamiento mortal de delfín blanco; grupos ecologistas: cifra supera límite de supervivencia](https://news.pts.org.tw/article/783042) — Reportaje del 26 de noviembre de 2025: macho adulto OCA023 «Scissors» varado en Shengang, Changhua; al menos 10 varamientos mortales desde 2009; cálculo PBR de la Asociación Man-Ye.
+
+[^9]: [Taiwan Panorama: Guardián del océano — delfín jorobado chino](https://www.taiwan-panorama.com/Articles/Details?Guid=040e5448-6eb5-4edc-9b5a-d53cb2bf1831&CatId=7&postname=%E5%AE%88%E8%AD%B7%E6%B5%B7%E6%B4%8B%E4%BD%BF%E8%80%85%E2%94%80%E2%94%80%E4%B8%AD%E8%8F%AF%E7%99%BD%E6%B5%B7%E8%B1%9A) — Reportaje de 2010 de la revista cultural oficial: nombres locales «pez blanco» y «pez Mazu», encuestas marinas 2002, observaciones tempranas de hábitat y caso Kuokuang.
+
+[^10]: [Zoological Studies: Diagnosabilidad y descripción de una nueva subespecie de delfín jorobado del Indo-Pacífico del Estrecho de Taiwán](https://zoolstud.sinica.edu.tw/Journals/54/54-36.html) — Artículo de Wang, Yang y Hung (2015) en _Zoological Studies_ vol. 54 de Academia Sinica; define la subespecie _Sousa chinensis taiwanensis_ por patrones de manchas, aislamiento geográfico y diferencias conductuales.
+
+[^11]: [Wowo: Ruido de aerogeneradores, interferencia pesquera y otras 5 amenazas; delfín blanco de Taiwán solo quedan 60](https://wuo-wuo.com/report/instantnews/2025-20240705news) — Reportaje del 5 de julio de 2024: resume 70 individuos acumulados 2010-2024 según monitoreo de la Agencia, y estimación ~60 tras excluir no reavistados en 5 años.
+
+[^12]: [Nuestra Isla: Días de relleno: puerto de Taichung y delfín blanco de Taiwán](https://ourisland.pts.org.tw/content/11919) — Reportaje de campo 2026: obra de 60 ha, disputa de evaluación ambiental, conflicto obra-hábitat, y observaciones de testigos sobre tamaño de grupos y comportamiento de cría en el puerto.
+
+[^13]: [Airiti: Competencia trófica potencial entre el delfín jorobado chino de la costa occidental de Taiwán y la pesca costera](https://www.airitilibrary.com/Article/Detail/U0001-1608201119050000) — Detalle de la tesis de máster de Ko Meng-chen (NTU, 2011): 127 entrevistas, índices de solapamiento, datos de redes de enmalle y problemas de gestión pesquera.
+
+[^14]: [Animal Welfare Institute: Expertos delinean pasos necesarios para salvar al delfín blanco taiwanés](https://awionline.org/awi-quarterly/winter-2019/experts-outline-needed-steps-to-save-taiwanese-white-dolphin/) — Boletín invierno 2019 de AWI: taller de expertos agosto 2019 en Ontario, Canadá; consenso unánime para retirar redes de enmalle y de tres capas del hábitat; lista de medidas sobre canales, contaminación, caudal fluvial y ruido.
+
+[^15]: [NOWnews: Bahía sangrienta 3 / Tres fallos del eólico contra delfines: barco pesquero acecha, registros falsificados, ruido excesivo](https://www.nownews.com/news/6694592) — Serie del 16 de junio de 2025: incidente 14 abril 2025 madre-cría acosada por barco guardacostas frente a Changbin, regla de 30 min y 160 dB, 10 parques multados con 157,95 millones NT$.
+
+[^16]: [Business Weekly (Centro de Información Ambiental): Reglas de hincado de pilotes eólicos marinos y observadores de cetáceos](https://www.businessweekly.com.tw/focus/blog/3000112) — Artículo del 4 septiembre 2019 de Chen Wen-tzu: observación mínima 30 min antes de hincar y zona de vigilancia radio 750 m con parada obligatoria.
+
+[^17]: [United Daily News: Critican que zona de relleno del puerto de Taichung evita evaluación ambiental y afecta al delfín blanco; grupos ecologistas entregan notificación exigiendo paralización](https://udn.com/news/story/7266/9626241) — Reportaje de United Daily News del 14 julio 2026: notificación ciudadana al Ministerio de Ambiente, exigencia de multa y parada, disputa sobre >50 ha y calificación «dentro del rompeolas».
+
+[^18]: [Newtalk: 4 millones de m³ de desecho rellenan puerto de Taichung; ecologistas temen pérdida de hábitat del delfín blanco; 32 mil firmas en protesta](https://newtalk.tw/news/view/2026-09-01/1056736) — Reportaje del 1 septiembre 2026: 32.748 firmas y 195+ organizaciones, 4 millones m³ en zona sur, estimación ecologista de 14 millones m³ totales y 760 ha de mar perdido.
+
+[^19]: [CNA: Ecologistas: relleno del puerto de Taichung sin evaluación ambiental podría ser ilegal; demandarán en nombre del delfín blanco](https://www.cna.com.tw/news/aipl/202609160091.aspx) — Reportaje del 16 septiembre 2026: abogada Tsai Ya-ying explica umbral 50 ha para evaluación de segunda fase, anuncio de demanda ciudadana ante Tribunal Administrativo.
+
+[^20]: [PTS News: Temen que relleno del puerto de Taichung ponga en peligro al delfín blanco; ecologistas denuncian autoevaluación ecológica falsa de la empresa portuaria](https://news.pts.org.tw/article/828090) — Reportaje del 22 septiembre 2026: cuestionamiento de Hsu Wan-ling a la autoevaluación, postura del Ministerio de Transporte sobre continuidad del plan, respuesta de la Agencia de Conservación Oceánica respetando la calificación del Ministerio de Transporte.
+
+[^21]: [United Daily News (CNA): Acusan al puerto de Taichung de eludir revisión con relleno; Ministerio de Transporte: todo conforme a norma](https://udn.com/news/story/7314/9770715) — Reportaje del 22 septiembre 2026: Ministerio de Transporte explica revisión quinquenal del plan portuario, continuidad de aprobación 2016, y dos autoevaluaciones 2021 y 2023 conformes a normativa de entonces.
+
+[^22]: [Newtalk: Wu Den-yih niega enfadado: ¡Nunca dije que los delfines blancos giran!](https://newtalk.tw/news/view/2017-01-25/81375) — Reportaje del 25 enero 2017: Wu Den-yih, durante su campaña a la presidencia del KMT, niega haber dicho «los delfines blancos giran».
+
+[^23]: [Newtalk: Salvar al delfín blanco: se presenta el primer caso de fideicomiso ambiental de Taiwán](https://newtalk.tw/news/view/2010-07-07/6377) — Reportaje del 7 julio 2010: lanzamiento suscripción popular abril 2010, 30.000+ suscriptores, 160+ millones NT$ para comprar humedal en desembocadura del Zhuoshui, primer fideicomiso ambiental de Taiwán.
+
+[^24]: [Newtalk: Presidente de Kuokuang promete crear fundación para el delfín blanco](https://newtalk.tw/news/view/2010-07-13/6519) — Reportaje del 13 julio 2010: respuesta del presidente de Kuokuang al tema del delfín blanco, menciona la acción civil «1 acción 119 NT$» de fideicomiso ambiental.
+
+[^25]: [Mirror Media: «¡Hace 10 años tenía razón!» Ma Ying-jeou cita caso Kuokuang para pedir al gobierno Tsai que proteja arrecifes de algas](https://www.mirrormedia.mg/story/amp/20210422inv005) — Reportaje del 22 abril 2021: recuerda la rueda de prensa de Ma Ying-jeou en la Oficina Presidencial hace 10 años anunciando no apoyar el proyecto Kuokuang de 600.000 millones NT$.

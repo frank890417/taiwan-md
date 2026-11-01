@@ -1,28 +1,28 @@
 ---
-title: 'Puntos críticos de biodiversidad en Taiwán'
-description: 'Una isla de 36.000 km² alberga 59.000 especies: una densidad 100 veces superior a la media mundial'
+title: 'Puntos calientes de la biodiversidad en Taiwán'
+description: 'En los 36,000 km² de Taiwán conviven 59,000 especies conocidas, una densidad 100 veces superior al promedio mundial, con más del 30% de las especies siendo endémicas y únicas en el mundo. Su "ascensor climático" de 4,000 metros de altitud permite que esta isla replique las zonas climáticas de medio planeta en un territorio tan reducido: el salmón de dientes de sierra (Coreoperonus reardonii), que habita en la latitud más baja del mundo, solo queda en el arroyo Qichiawan; mientras que los hábitats de la salamandra de Taiwán, entre los 1,500 y 2,500 metros de altitud, se han reducido de 11 a 7 ubicaciones. Se estima que hay entre 200 y 600 osos negros en toda la isla, y cada uno requiere un espacio de actividad de 30 a 40 km²; en este escenario con la mayor densidad de vida del mundo, ¿cuánto espacio podrá reservarse aún para la fauna silvestre?'
 date: 2026-03-21
+category: 'Geography'
 tags:
   [
-    'Ecología',
-    'Biodiversidad',
-    'Especies endémicas',
-    'Conservación',
-    'Parques nacionales',
+    'ecología',
+    'biodiversidad',
+    'especies endémicas',
+    'conservación',
+    'parques nacionales',
   ]
 subcategory: '生態地理'
 author: 'Taiwan.md Contributors'
-readingTime: 8
-category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-05-02T01:17:17+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-10-21T02:19:52.566858+00:00'
 ---
 
 # Puntos críticos de biodiversidad en Taiwán

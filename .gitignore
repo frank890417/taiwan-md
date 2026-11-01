@@ -240,3 +240,5 @@ knowledge/**/*.bak
 
 # babel-dispatch gate-fail 時搬過來的未追蹤譯文（見 restore_head_or_quarantine）
 .babel-quarantine/
+docs/brand/source/terrain/.tiles/
+docs/brand/source/.cache/

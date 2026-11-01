@@ -145,23 +145,23 @@ Curtis Priem nhớ lại: "Ngày đầu tiên chúng tôi đã nghe Jensen. Chú
 
 ## Bản xát nơi nhà vệ sinh và bông tattoo NVIDIA của ông
 
-Năm 2024, Huang Jen-hsư­n được trao danh dự bác sĩ danh dự cho Đại học Đài Loan, được tạp chí The Economist bình chọn CEO xuất sắc nhất năm, và góp mặt trong danh sách 100 người ảnh hưởng lớn nhất thế giới của tạp chí Time. Năm 2025, ông cùng với nhà khoa học chính tại NVIDIA, Bill Dally, được trao Giải Kỹ thuật Nữ hoàng Elizabeth (Queen Elizabeth Prize for Engineering), cùng với các nhà tiên phong AI như Geoffrey Hinton, Yann LeCun, Fei-Fei Li, và lễ trao giải do Vua Charles III tự tay thực hiện tại Cung St James's[^12]。
+Năm 2024, Huang Jen-hsưn được trao danh dự bác sĩ danh dự cho Đại học Đài Loan, được tạp chí The Economist bình chọn CEO xuất sắc nhất năm, và góp mặt trong danh sách 100 người ảnh hưởng lớn nhất thế giới của tạp chí Time. Năm 2025, ông cùng với nhà khoa học chính tại NVIDIA, Bill Dally, được trao Giải Kỹ thuật Nữ hoàng Elizabeth (Queen Elizabeth Prize for Engineering), cùng với các nhà tiên phong AI như Geoffrey Hinton, Yann LeCun, Fei-Fei Li, và lễ trao giải do Vua Charles III tự tay thực hiện tại Cung St James's[^12]。
 
 Năm 2026, nhiều truyền thông trực tiếp gọi ông là "đấng sư thầm của AI", mỗi buổi thuyết trình công khai của ông đều được coi là thanh kính cho toàn ngành công nghiệp. Ngay cả những chiếc áo da mà ông mặc, những gánh hàng đường phố mà ông ghé ăn, cũng trở thành tiêu đề tin tức. Một học sinh kỹ thuật năm 16 tuổi, xuất hiện như một cậu nhỏ, đã bước từng bước để trở thành người mà cả thế giới lắng nghe. Và cách ông đáp lại tất cả điều đó, vẫn là mỗi quý lại lặng lẽ bay về Đài Loan, lẻn vào những quán ăn đường phố ở Tainan, trò chuyện bằng tiếng Hokkien với chủ quán。
 
 Nhưng ngoài tất cả những danh hiệu ấy, có một chi tiết nhỏ có thể nói lên được bản chất của ông. Khi thị trường vốn hóa của NVIDIA vượt qua 1 nghìn tỷ USD, ông đã giữ lời hứa với nhân viên bằng cách xăm logo của NVIDIA lên cánh tay mình。
 
-Tay cánh của Huang Jen-hsư­n bây giờ có một họa tiết thương hiệu doanh nghiệp. Khi còn 10 tuổi, người bạn cùng phòng của ông — người có đầy đủ bông tattoo trên cơ thể — dạy ông tập cường, và ông dạy bạn học đọc viết. Khoảng thời gian trôi qua nửa thế kỷ sau, đó chính là khoảng thời gian mang lại ROI cao nhất trong cuộc đời ông。
+Tay cánh của Huang Jen-hsưn bây giờ có một họa tiết thương hiệu doanh nghiệp. Khi còn 10 tuổi, người bạn cùng phòng của ông — người có đầy đủ bông tattoo trên cơ thể — dạy ông tập cường, và ông dạy bạn học đọc viết. Khoảng thời gian trôi qua nửa thế kỷ sau, đó chính là khoảng thời gian mang lại ROI cao nhất trong cuộc đời ông。
 
 ---
 
 **Đọc thêm**:
 
-- [Chang Jen-hsư­n](/vi/people/tsmc-morris-chang) — Đối tác then chốt của NVIDIA, người sáng lập TSMC, hơn 30 năm tình bằng hữu của hai người nối kết toàn bộ chuỗi cung ứng AI toàn cầu
-- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Công ty Đài Loan sản xuất chip tiên tiến nhất cho NVIDIA, "anh hùng thế giới" trong lời gọi của Huang Jen-hsư­n
-- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Các con chip của Huang Jen-hsư­n và Su Tzu-feng đều được sản xuất trên hòn đảo này, đây chính là cái lá chắn thép của Đài Loan
+- [Chang Jen-hsưn](/vi/people/tsmc-morris-chang) — Đối tác then chốt của NVIDIA, người sáng lập TSMC, hơn 30 năm tình bằng hữu của hai người nối kết toàn bộ chuỗi cung ứng AI toàn cầu
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Công ty Đài Loan sản xuất chip tiên tiến nhất cho NVIDIA, "anh hùng thế giới" trong lời gọi của Huang Jen-hsưn
+- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Các con chip của Huang Jen-hsưn và Su Tzu-feng đều được sản xuất trên hòn đảo này, đây chính là cái lá chắn thép của Đài Loan
 - [NVIDIA tại Đài Loan: Công ty đắt giá nhất thế giới nhưng chưa từng sản xuất một con chip nào](/vi/technology/nvidia-in-taiwan) — Công ty do ông sáng lập và nền kinh nghiệp của hòn đảo này cùng tồn tại: chip, máy chủ, trung tâm, và khoản đất trị giá 44.34 triệu USD
-- [Chi Hữu Tân: Người dạy AI "nghĩ từng bước một"](/vi/people/chi-huai-hsin) — Một người Đài Loan khác đứng ở tuyến đầu của AI, con chip của Huang Jen-hsư­n giúp AI chạy nhanh, nhưng tư duy chuỗi của Chi Hữu Tân giúp AI học cách lập luận từng bước
+- [Chi Hữu Tân: Người dạy AI "nghĩ từng bước một"](/vi/people/chi-huai-hsin) — Một người Đài Loan khác đứng ở tuyến đầu của AI, con chip của Huang Jen-hsưn giúp AI chạy nhanh, nhưng tư duy chuỗi của Chi Hữu Tân giúp AI học cách lập luận từng bước
 - [Jiang Zhencheng](/vi/people/andre-chiang-taiwanese-culinary-innovator) — Một người Đài Loan khác cũng lên tới đỉnh cao quốc tế, nhưng chọn con đường ngược lại: ở đỉnh cao, quyết định bước ra và từ chối để bất kỳ danh hiệu nào định nghĩa cái chết
 - [Kể chuyện về công nghệ Đài Loan: 100 điểm cho con chip, 60 điểm cho micro](/vi/technology/taiwan-tech-storytelling) — Đặt người giỏi kể chuyện về con chip của Đài Loan và ngành công nghiệp kém kể chuyện nhất cùng một bài, đo lường khoảng cách 40 điểm giữa họ
 

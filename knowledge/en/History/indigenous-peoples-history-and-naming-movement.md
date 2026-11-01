@@ -1,15 +1,15 @@
 ---
-title: "Taiwan Indigenous Peoples' History and Naming Rights Movement"
-description: 'In 1987, a 19-year-old Tsou youth faced execution at a Taipei execution ground. His death ignited the first spark of the naming rights movement.'
+title: "History of Taiwan's Indigenous Peoples and the Rectification of Names Movement"
+description: 'In 1987, 19-year-old Tsou youth Tang Ying-shen was executed by firing squad at the Taipei execution ground; his death ignited the initial spark of Taiwan''s Indigenous peoples'' rectification of names movement. From the founding of the Alliance of Taiwan Aborigines in 1984, the toppling of the Wu Feng bronze statue and the "Return Our Land" parade in 1988, to the 1994 constitutional amendment changing "mountain compatriots" to "indigenous peoples," and the 2005 Indigenous Peoples Basic Law adding the character "zu" (ethnic group), this path took 21 years. The Dutch''s "acculturated barbarians" and "wild barbarians," the Qing''s "cooked barbarians" and "raw barbarians," the Japanese colonial era''s "fanren" and "lifan," and the postwar "mountain compatriots" — every name was a lock; the first three times others named you, the last two times you seized the name back yourselves.'
 date: 2026-03-29
 category: 'History'
 tags:
   [
-    'indigenous peoples',
-    'naming rights movement',
-    'identity recognition',
-    'social movements',
-    'cultural preservation',
+    'Indigenous Peoples',
+    'Rectification of Names Movement',
+    'Identity Recognition',
+    'Social Movement',
+    'Cultural Preservation',
   ]
 subcategory: '史前與原住民'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-09-27T23:29:49+08:00'
+translatedAt: '2026-10-21T02:09:56.309687+00:00'
 ---
 
 # Taiwan Indigenous Peoples' History and Naming Rights Movement

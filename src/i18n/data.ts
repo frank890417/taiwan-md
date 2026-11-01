@@ -71,6 +71,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding 臻鼎',
     'data.company.sinopac-financial': 'SinoPac 永豐金',
     'data.company.winbond': 'Winbond 華邦電',
+    'data.company.aspeed': 'ASPEED 信驊',
+    'data.company.kinsus': 'Kinsus 景碩',
+    'data.company.pharmaessentia': 'PharmaEssentia 藥華藥',
+    'data.company.mpi': 'MPI 旺矽',
     'data.company.winway': 'WinWay 穎崴',
     'data.company.king-slide': 'King Slide 川湖',
     'data.company.kyec': 'KYEC 京元電子',
@@ -80,6 +84,7 @@ export const dataUI = {
     'data.sector.networking': 'Networking',
     'data.sector.cooling': 'Cooling',
     'data.sector.testing': 'Test & Measurement',
+    'data.sector.biotech': 'Biotech',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -91,24 +96,34 @@ export const dataUI = {
       'Polyester/fiber cycle down; old-economy, no AI story',
     'data.fellOff.giant-manufacturing':
       'Bicycle inventory glut; revenue down three years running',
+    'data.fellOff.uni-president':
+      'Market cap up about 8% since June, but not fast enough: #51, just outside the cut-off',
+    'data.fellOff.fareastone':
+      'Up about 19% since June, still short of the cut-off: #56',
+    'data.fellOff.bizlink':
+      'Market cap down about 35% since the June snapshot: #58',
+    'data.fellOff.kyec':
+      'Market cap down about 14% since the June snapshot: #62',
+    'data.fellOff.winway':
+      'Share price fell about 40%, from NT$8,085 at end-June to NT$4,795',
 
     // Standalone /companies page
     'data.companies.meta.title':
       "Taiwan's Top 50 Companies — The AI-Era Reshuffle",
     'data.companies.meta.description':
-      "An interactive bubble chart of Taiwan's 50 largest listed companies by market cap, revenue and headcount — and how the AI supply chain rewrote the rankings (2026/06 snapshot).",
+      "An interactive bubble chart of Taiwan's 50 largest listed companies by market cap, revenue and headcount — and how the AI supply chain keeps rewriting the rankings (2026/10/22 snapshot).",
     'data.companies.hero.title': "Taiwan's Top 50 Companies",
     'data.companies.hero.subtitle':
       'Market cap as bubble area — the corporate map of a 23-million-person island',
     'data.companies.hero.description':
       'Bigger bubble = larger market cap. Color = sector. Toggle to revenue or headcount, click a sector to filter, drag the bubbles around.',
     'data.companies.snapshot':
-      '📊 Source: TWSE, 2025 full-year revenue filings, annual reports · Snapshot 2026/06 (approximate, not investment advice)',
+      '📊 Source: TWSE and TPEx OpenAPI (close × shares outstanding), 2025 full-year revenue filings, annual reports · Snapshot 2026/10/22 (approximate, not investment advice)',
     'data.companies.story.title': 'The AI Boom Repriced the Whole Island',
     'data.companies.story.p1':
-      "In barely two years, the AI buildout rewrote Taiwan's corporate ranking. TSMC alone now accounts for 43.8% of the entire market — up from 39% — and the top 10 stocks make up about 61% of it.",
+      "In barely two years, the AI buildout rewrote Taiwan's corporate ranking. TSMC alone (about NT$61.8 trillion) accounts for 41.0% of the TWSE's total market cap, and the top 10 stocks make up about 59% of it.",
     'data.companies.story.p2':
-      'Behind TSMC, the risers are all AI supply chain: Delta jumped to #2 (up ~5× in a year on AI power), MediaTek surged, and a wave of PCB/substrate, cooling, testing and networking names — Elite Material, AVC, Chroma, Accton, Yageo — climbed into the top 50, pushing out roughly 20 of the old guard.',
+      'Since the June snapshot the list has been reshuffled again. MediaTek moved up to #2 (about NT$6.4 trillion) while Delta slipped from #2 to #3 (about NT$4.1 trillion, roughly 30% below June). Nan Ya Plastics jumped from #20 to #6, Nanya Technology doubled to #13, and King Slide and Largan both more than doubled. Five names entered — ASPEED, Advantech, Kinsus, PharmaEssentia and MPI — replacing Uni-President, Far EasTone, BizLink, KYEC and Winway; the cut-off for #50 rose from about NT$350 billion to NT$453 billion.',
     'data.companies.table.heading': '📋 Full Ranking',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Company',
@@ -118,21 +133,21 @@ export const dataUI = {
     'data.companies.table.employees': 'Employees',
     'data.companies.table.founded': 'Founded',
     'data.companies.insights.heading': '🔍 Key Insights',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       "TSMC's share of Taiwan's total market cap",
     'data.companies.insights.card1.detail':
-      'Up from 39% — one company ≈ four-fifths of everything else listed',
-    'data.companies.insights.card2.number': '61%',
+      'One company ≈ 70% of everything else on the TWSE combined',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Top 10 stocks as share of the market',
     'data.companies.insights.card2.detail':
       'Extreme concentration in a handful of large caps',
-    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      'New entrants from the AI supply chain',
+      'New entrants since the June snapshot',
     'data.companies.insights.card3.detail':
-      'PCB/substrate, cooling, testing, networking — absent two years ago',
+      'ASPEED (server BMC chips), Advantech (industrial PCs), Kinsus (IC substrates), PharmaEssentia (biotech), MPI (probe cards)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Financial holding companies in the top 50',
@@ -140,11 +155,11 @@ export const dataUI = {
       'Post-consolidation, the steady ballast of the index',
     'data.companies.fellOff.title': '📉 Who Fell Off the List',
     'data.companies.fellOff.intro':
-      'The AI repricing has losers too. These household names — steel, cement, textiles, bicycles, a former smartphone star — slipped out of the top 50 as capital crowded into the AI chain.',
+      'Falling off the list comes in two kinds. Steel, cement, textiles, bicycles and a former smartphone star slipped out of the top 50 earlier, as capital crowded into the AI chain. Since June, five more have been pushed out as the cut-off for #50 rose from about NT$350 billion to NT$453 billion.',
     'data.companies.fellOff.marketCapNow': 'Market cap now',
     'data.companies.method.heading': '📝 Notes',
     'data.companies.method.body':
-      "Market cap is derived from each stock's TWSE index weighting (2026/06) against a total market anchored on TSMC (≈NT$59tn / 43.8%). Revenue is full-year 2025 consolidated (for financial holdings, consolidated operating revenue including insurance). Headcount is approximate, on a group/consolidated basis where available — definitions vary across firms, so read the bars as orders of magnitude, not exact comparisons.",
+      "Market cap = closing price on 2026/10/22 × common shares outstanding (TWSE and TPEx OpenAPI; listed and OTC stocks, emerging board excluded). TSMC's share and the top-10 share are measured against the TWSE total (about NT$150.8 trillion); the top-50 share against TWSE plus TPEx (about NT$161.4 trillion). Revenue is full-year 2025 consolidated (for financial holdings, consolidated operating revenue including insurance); the five new entrants use their announced 2025 revenue rounded to NT$100 million, the rest carry over from the June version. Headcount is approximate, on a group/consolidated basis where available — definitions vary, so read it as an order of magnitude. For the five new entrants it is the latest figure we could find: ASPEED about 140 (press report), Advantech 8,849 and PharmaEssentia 600 (2024 reports), Kinsus 6,401 (end of 2024), MPI about 1,800 (undated source).",
     'data.companies.related': '📖 Related reading',
 
     // Category 1: Government Open Data
@@ -256,24 +271,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       "Taiwan punches far above its weight in the global economy. This country of 23 million people produces over 60% of the world's semiconductors, 92% of the most advanced chips, and houses the supply chain nerve center for everything from iPhones to Tesla vehicles.",
     'data.enterprise.story.p2':
-      "The interactive bubble chart below reveals Taiwan's economic DNA — where TSMC alone represents 43.8% of Taiwan's total market capitalization, equivalent to the combined value of four-fifths of all other listed companies. Behind the \"Silicon Shield\" narrative lies a concentrated ecosystem of precision manufacturing, from Foxconn's massive electronics assembly to ASE's semiconductor packaging empire.",
+      "The interactive bubble chart below reveals Taiwan's economic DNA — TSMC alone (about NT$61.8 trillion) represents 41.0% of the TWSE's total market capitalization, roughly 70% of the combined value of all other listed companies. Behind the \"Silicon Shield\" narrative lies a concentrated ecosystem of precision manufacturing, from Foxconn's massive electronics assembly to ASE's semiconductor packaging empire.",
     'data.enterprise.controls.sizeLabel': 'Bubble size by:',
     'data.enterprise.controls.marketCap': 'Market Cap',
     'data.enterprise.controls.revenue': 'Revenue',
     'data.enterprise.controls.employees': 'Employees',
     'data.enterprise.controls.filterAll': 'All',
     'data.enterprise.insights.heading': '🔍 Key Insights',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       "TSMC's share of Taiwan's total market cap",
     'data.enterprise.insights.card1.detail':
       'One company ≈ 2/3 of 1,000+ other listed companies',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       "Top 50 companies' share of total market cap",
     'data.enterprise.insights.card2.detail':
       "Taiwan's stock market highly concentrated in large enterprises",
-    'data.enterprise.insights.card3.number': '12',
+    'data.enterprise.insights.card3.number': '8',
     'data.enterprise.insights.card3.label':
       'Semiconductor-related companies in top 50',
     'data.enterprise.insights.card3.detail':
@@ -593,6 +608,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding 臻鼎',
     'data.company.sinopac-financial': 'SinoPac 永豐金',
     'data.company.winbond': 'Winbond 華邦電',
+    'data.company.aspeed': 'ASPEED 信驊',
+    'data.company.kinsus': 'Kinsus 景碩',
+    'data.company.pharmaessentia': 'PharmaEssentia 藥華藥',
+    'data.company.mpi': 'MPI 旺矽',
     'data.company.winway': 'WinWay 穎崴',
     'data.company.king-slide': 'King Slide 川湖',
     'data.company.kyec': 'KYEC 京元電子',
@@ -600,6 +619,7 @@ export const dataUI = {
     'data.sector.networking': 'ネットワーク機器',
     'data.sector.cooling': '放熱',
     'data.sector.testing': '検査・測定',
+    'data.sector.biotech': 'バイオ',
     'data.fellOff.china-steel':
       '鉄鋼市況の低迷と長年の赤字 — AIの追い風に乗れず',
     'data.fellOff.htc': 'スマートフォン事業の崩壊、VR／XRも規模に達せず',
@@ -608,21 +628,27 @@ export const dataUI = {
     'data.fellOff.far-eastern-new-century':
       'ポリエステル・化繊市況の下降、AIの題材を欠く伝統産業',
     'data.fellOff.giant-manufacturing': '自転車の在庫調整、売上は3年連続で減少',
+    'data.fellOff.uni-president':
+      '時価総額は6月比で約8%増だが、ラインに届かず51位',
+    'data.fellOff.fareastone': '6月比で約19%増、それでもラインに届かず56位',
+    'data.fellOff.bizlink': '時価総額は6月のスナップショットから約35%減、58位',
+    'data.fellOff.kyec': '時価総額は6月のスナップショットから約14%減、62位',
+    'data.fellOff.winway': '株価は6月末の8,085元から約4割下落し4,795元に',
     'data.companies.meta.title': '台湾トップ50企業 — AI時代の地殻変動',
     'data.companies.meta.description':
-      '時価総額・売上高・従業員数で見る台湾の上場企業トップ50のインタラクティブなバブルチャート。AIサプライチェーンがランキングをどう塗り替えたか（2026年6月時点）。',
+      '台湾の時価総額上位50社（上場・店頭）の時価総額・売上・従業員数をインタラクティブなバブルチャートで見る。AIサプライチェーンがランキングを書き換え続ける様子（2026/10/22スナップショット）。',
     'data.companies.hero.title': '台湾トップ50企業',
     'data.companies.hero.subtitle':
       'バブルの面積は時価総額 — 2,300万人の島の企業地図',
     'data.companies.hero.description':
       'バブルが大きいほど時価総額が大きい。色はセクターを表す。売上高や従業員数に切り替えたり、セクターをクリックして絞り込んだり、バブルをドラッグして動かせる。',
     'data.companies.snapshot':
-      '📊 出典：台湾証券取引所（TWSE）、2025年通期決算、年次報告書 · 2026年6月時点（概算、投資助言ではない）',
+      '📊 出典：TWSE・TPEx OpenAPI（終値×発行済株式数）、2025年通期売上の開示、各社年次報告書 · スナップショット 2026/10/22（概算値、投資助言ではありません）',
     'data.companies.story.title': 'AIブームが島全体を再評価した',
     'data.companies.story.p1':
-      'わずか2年で、AIへの大規模投資が台湾の企業ランキングを書き換えた。TSMC一社で市場全体の43.8%を占め — 39%から上昇 — 上位10銘柄で約61%に達する。',
+      'わずか2年で、AI投資は台湾の企業ランキングを書き換えた。TSMC1社（時価総額約61.8兆台湾ドル）で取引所（上場）市場全体の時価総額の41.0%を占め、上位10銘柄で約59%に達する。',
     'data.companies.story.p2':
-      'TSMCに続く上昇株はすべてAIサプライチェーンだ。Delta 台達電が2位に躍進し（AI電源で1年に約5倍）、MediaTek 聯發科が急騰、そしてPCB・基板、放熱、検査、ネットワークの一群 — Elite Material 台光電、AVC 奇鋐、Chroma 致茂、Accton 智邦、Yageo 國巨 — がトップ50に駆け上がり、旧来の顔ぶれ約20社を押し出した。',
+      '6月のスナップショット以降もランキングは入れ替わった。聯発科（MediaTek）が2位（約6.4兆）に上がり、台達電は2位から3位（約4.1兆、6月比で約3割減）へ。南亜プラスチックは20位から6位へ、南亜科技は倍増して13位、川湖と大立光も2倍以上になった。新たにランクインしたのは信驊、研華、景碩、薬華薬、旺矽の5社で、統一企業、遠傳電信、貿聯、京元電子、穎崴が圏外へ。50位のラインは約3,500億から4,533億に上がった。',
     'data.companies.table.heading': '📋 全ランキング',
     'data.companies.table.rank': '#',
     'data.companies.table.company': '企業',
@@ -632,30 +658,30 @@ export const dataUI = {
     'data.companies.table.employees': '従業員数',
     'data.companies.table.founded': '設立',
     'data.companies.insights.heading': '🔍 主な洞察',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       '台湾の時価総額合計に占めるTSMCの割合',
     'data.companies.insights.card1.detail':
-      '39%から上昇 — 一社で他の上場企業すべての約5分の4に相当',
-    'data.companies.insights.card2.number': '61%',
+      '1社で、取引所の残りの全上場企業の合計の約7割',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label': '市場に占める上位10銘柄の割合',
     'data.companies.insights.card2.detail': '少数の大型株への極端な集中',
-    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      'AIサプライチェーンからの新規参入企業',
+      '6月のスナップショット以降の新規ランクイン',
     'data.companies.insights.card3.detail':
-      'PCB・基板、放熱、検査、ネットワーク — 2年前には存在しなかった',
+      '信驊（サーバーBMCチップ）、研華（産業用PC）、景碩（ICパッケージ基板）、薬華薬（バイオ）、旺矽（プローブカード）',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label': 'トップ50に入る金融持株会社',
     'data.companies.insights.card4.detail':
       '統合後、指数の安定したバラスト（重し）',
     'data.companies.fellOff.title': '📉 リストから脱落した企業',
     'data.companies.fellOff.intro':
-      'AIによる再評価には敗者もいる。鉄鋼、セメント、繊維、自転車、かつてのスマートフォンの花形 — これらの誰もが知る名前は、資本がAIチェーンに殺到するなかでトップ50から滑り落ちた。',
+      'ランク外への脱落には2種類ある。鉄鋼・セメント・繊維・自転車・かつてのスマホ大手は、資金がAIチェーンに集中する中で先にトップ50から外れた。6月以降はラインが約3,500億から4,533億に上がり、さらに5社が押し出された。',
     'data.companies.fellOff.marketCapNow': '現在の時価総額',
     'data.companies.method.heading': '📝 注記',
     'data.companies.method.body':
-      '時価総額は、TSMC（約59兆台湾ドル／43.8%）を基準とした市場全体に対する各銘柄のTWSE指数構成比（2026年6月）から算出した。売上高は2025年通期の連結ベース（金融持株会社については保険を含む連結営業収益）。従業員数は概算で、可能な場合はグループ・連結ベースだが — 定義は企業によって異なるため、棒グラフは正確な比較ではなく桁数の目安として読んでほしい。',
+      '時価総額＝2026/10/22の終値×発行済普通株式数（TWSE・TPEx OpenAPI、上場と店頭、興櫃は除く）。TSMCと上位10社の比率は取引所（上場）市場の総額約150.8兆、上位50社の比率は上場＋店頭の合計約161.4兆を分母とする。売上は2025年通期の連結売上（金融持株会社は保険を含む連結営業収益）。新規ランクイン5社は公表された2025年通期売上を億単位に四捨五入、その他は6月版を引き継いでいる。従業員数は可能な限りグループ／連結基準の概数で、定義は企業ごとに異なるため桁感として見てほしい。新規5社は確認できた最新の数字：信驊は約140人（報道）、研華8,849人・薬華薬600人（2024年の報告書）、景碩6,401人（2024年末）、旺矽は約1,800人（年次不明の資料）。',
     'data.companies.related': '📖 関連記事',
 
     // Category 1: Government Open Data
@@ -755,24 +781,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'ひとつの島がどうやってグローバルサプライチェーンを支えているのか？',
     'data.enterprise.story.p2':
-      'TSMCの時価総額2,670億ドルからFoxconnの87万人の従業員まで、台湾上位50社がこの島の経済的背骨を形成しています。12の半導体企業が「シリコンの盾」の名を証明し、12の金融持株会社が安定を支え、大手OEMがグローバルなデジタルライフをつないでいます。バブルチャートで台湾が世界人口の2%で世界GDPの4%を創出する秘密を探ってみましょう。',
+      '下のインタラクティブなバブルチャートは台湾の経済のDNAを映し出す。TSMC1社（時価総額約61.8兆台湾ドル）で取引所全体の時価総額の41.0%を占め、他の全上場企業の合計の約7割に相当する。「シリコンシールド」の語りの裏には、鴻海の巨大な電子機器組立から日月光の半導体パッケージ帝国まで、精密製造の集中したエコシステムがある。',
     'data.enterprise.controls.sizeLabel': 'バブルサイズ：',
     'data.enterprise.controls.marketCap': '時価総額',
     'data.enterprise.controls.revenue': '売上高',
     'data.enterprise.controls.employees': '従業員数',
     'data.enterprise.controls.filterAll': 'すべて',
     'data.enterprise.insights.heading': '主要インサイト',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'TSMCが台湾株式市場の時価総額に占める割合',
     'data.enterprise.insights.card1.detail':
       '1社 ≈ 残り1,000社以上の上場企業の2/3',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       '上位50社が時価総額全体に占める割合',
     'data.enterprise.insights.card2.detail':
       '台湾の株式市場は大企業に高度に集中',
-    'data.enterprise.insights.card3.number': '12社',
+    'data.enterprise.insights.card3.number': '8社',
     'data.enterprise.insights.card3.label': '半導体企業が上位50入り',
     'data.enterprise.insights.card3.detail':
       '「シリコンの盾」を実証 -- 半導体は台湾の国防',
@@ -1059,6 +1085,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding 臻鼎',
     'data.company.sinopac-financial': 'SinoPac 永豐金',
     'data.company.winbond': 'Winbond 華邦電',
+    'data.company.aspeed': 'ASPEED 信驊',
+    'data.company.kinsus': 'Kinsus 景碩',
+    'data.company.pharmaessentia': 'PharmaEssentia 藥華藥',
+    'data.company.mpi': 'MPI 旺矽',
     'data.company.winway': 'WinWay 穎崴',
     'data.company.king-slide': 'King Slide 川湖',
     'data.company.kyec': 'KYEC 京元電子',
@@ -1066,6 +1096,7 @@ export const dataUI = {
     'data.sector.networking': '네트워킹',
     'data.sector.cooling': '냉각',
     'data.sector.testing': '테스트 및 계측',
+    'data.sector.biotech': '바이오',
     'data.fellOff.china-steel': '철강 경기 침체, 수년간 적자 — AI 순풍 없음',
     'data.fellOff.htc': '스마트폰 붕괴; VR/XR은 끝내 규모에 이르지 못함',
     'data.fellOff.taiwan-cement':
@@ -1073,21 +1104,28 @@ export const dataUI = {
     'data.fellOff.far-eastern-new-century':
       '폴리에스터/섬유 경기 하락; 구경제, AI 스토리 없음',
     'data.fellOff.giant-manufacturing': '자전거 재고 과잉; 3년 연속 매출 감소',
+    'data.fellOff.uni-president':
+      '시가총액은 6월 대비 약 8% 늘었지만 기준선에 못 미쳐 51위',
+    'data.fellOff.fareastone': '6월 대비 약 19% 증가에도 기준선에 못 미쳐 56위',
+    'data.fellOff.bizlink': '시가총액이 6월 스냅샷 대비 약 35% 감소, 58위',
+    'data.fellOff.kyec': '시가총액이 6월 스냅샷 대비 약 14% 감소, 62위',
+    'data.fellOff.winway':
+      '주가가 6월 말 8,085 대만달러에서 약 40% 하락해 4,795 대만달러로',
     'data.companies.meta.title': '대만 50대 기업 — AI 시대의 재편',
     'data.companies.meta.description':
-      '시가총액, 매출, 종업원 수 기준 대만 상장 50대 기업의 인터랙티브 버블 차트 — 그리고 AI 공급망이 어떻게 순위를 다시 썼는지 (2026/06 스냅샷).',
+      '대만 시가총액 상위 50대 상장·장외 기업의 시가총액, 매출, 직원 수를 인터랙티브 버블 차트로 보고, AI 공급망이 순위를 계속 어떻게 바꾸는지 살펴봅니다(2026/10/22 스냅샷).',
     'data.companies.hero.title': '대만 50대 기업',
     'data.companies.hero.subtitle':
       '버블 면적으로 본 시가총액 — 2,300만 인구 섬의 기업 지도',
     'data.companies.hero.description':
       '버블이 클수록 시가총액이 큼. 색상 = 업종. 매출 또는 종업원 수로 전환하고, 업종을 클릭해 필터링하고, 버블을 끌어보세요.',
     'data.companies.snapshot':
-      '📊 출처: TWSE, 2025년 연간 매출 공시, 연차보고서 · 스냅샷 2026/06 (근사치, 투자 조언 아님)',
+      '📊 출처: TWSE·TPEx OpenAPI(종가×발행주식수), 2025년 연간 매출 공시, 각사 연차보고서 · 스냅샷 2026/10/22(근사치이며 투자 조언이 아닙니다)',
     'data.companies.story.title': 'AI 붐이 섬 전체를 다시 가격 매겼다',
     'data.companies.story.p1':
-      '불과 2년 만에 AI 구축이 대만의 기업 순위를 다시 썼다. TSMC 한 곳이 이제 전체 시장의 43.8%를 차지하며 — 39%에서 상승 — 상위 10개 종목이 그 약 61%를 이룬다.',
+      '불과 2년 만에 AI 투자가 대만의 기업 순위를 다시 썼습니다. TSMC 한 곳(시가총액 약 61.8조 대만달러)이 증권거래소(상장) 전체 시가총액의 41.0%를 차지하고, 상위 10개 종목이 약 59%를 차지합니다.',
     'data.companies.story.p2':
-      'TSMC 뒤를 잇는 상승 기업들은 모두 AI 공급망이다: Delta는 AI 전력에 힘입어 1년 만에 약 5배 올라 2위로 도약했고, MediaTek가 급등했으며, PCB/기판, 냉각, 테스트, 네트워킹 기업들의 물결 — Elite Material, AVC, Chroma, Accton, Yageo — 이 50위 안에 진입하며 기존 강자 약 20곳을 밀어냈다.',
+      '6월 스냅샷 이후에도 순위는 다시 바뀌었습니다. 미디어텍이 2위(약 6.4조)로 올라섰고 델타는 2위에서 3위(약 4.1조, 6월 대비 약 30% 낮음)로 내려갔습니다. 난야플라스틱은 20위에서 6위로, 난야테크놀로지는 두 배가 되어 13위로 올랐고, 킹슬라이드와 라간도 두 배 넘게 올랐습니다. ASPEED, 어드밴텍, 킨서스, 파마에센시아, MPI 5곳이 새로 진입했고 유니프레지던트, 파이스톤, 비즈링크, KYEC, 윈웨이가 밀려났습니다. 50위 기준선은 약 3,500억에서 4,533억으로 올랐습니다.',
     'data.companies.table.heading': '📋 전체 순위',
     'data.companies.table.rank': '#',
     'data.companies.table.company': '기업',
@@ -1097,29 +1135,29 @@ export const dataUI = {
     'data.companies.table.employees': '종업원 수',
     'data.companies.table.founded': '설립',
     'data.companies.insights.heading': '🔍 핵심 인사이트',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       '대만 전체 시가총액에서 TSMC가 차지하는 비중',
     'data.companies.insights.card1.detail':
-      '39%에서 상승 — 한 기업이 나머지 모든 상장사의 약 5분의 4에 해당',
-    'data.companies.insights.card2.number': '61%',
+      '한 기업이 증권거래소 나머지 전체 상장사 합계의 약 70%',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       '시장에서 상위 10개 종목이 차지하는 비중',
     'data.companies.insights.card2.detail': '소수의 대형주에 극도로 집중',
-    'data.companies.insights.card3.number': '~20',
-    'data.companies.insights.card3.label': 'AI 공급망에서 새로 진입한 기업',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': '6월 스냅샷 이후 신규 진입',
     'data.companies.insights.card3.detail':
-      'PCB/기판, 냉각, 테스트, 네트워킹 — 2년 전에는 없었음',
+      'ASPEED(서버 BMC 칩), 어드밴텍(산업용 PC), 킨서스(IC 기판), 파마에센시아(바이오), MPI(프로브 카드)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label': '50위 안의 금융지주회사',
     'data.companies.insights.card4.detail': '통합 이후, 지수의 안정적인 무게추',
     'data.companies.fellOff.title': '📉 명단에서 탈락한 기업',
     'data.companies.fellOff.intro':
-      'AI 재평가에는 패자도 있다. 철강, 시멘트, 섬유, 자전거, 한때의 스마트폰 스타 — 이 익숙한 이름들은 자본이 AI 체인으로 몰리면서 50위 밖으로 밀려났다.',
+      '순위에서 밀려나는 경우는 두 가지입니다. 철강·시멘트·섬유·자전거·한때의 스마트폰 강자는 자금이 AI 체인으로 몰리면서 먼저 상위 50에서 빠졌습니다. 6월 이후에는 기준선이 약 3,500억에서 4,533억으로 오르면서 5곳이 더 밀려났습니다.',
     'data.companies.fellOff.marketCapNow': '현재 시가총액',
     'data.companies.method.heading': '📝 참고',
     'data.companies.method.body':
-      '시가총액은 TSMC(약 NT$59조 / 43.8%)를 기준으로 한 전체 시장 대비 각 종목의 TWSE 지수 비중(2026/06)에서 산출되었다. 매출은 2025년 연결 기준 전체 연간 실적(금융지주의 경우 보험을 포함한 연결 영업수익)이다. 종업원 수는 근사치이며 가능한 경우 그룹/연결 기준으로, 기업마다 정의가 다르므로 막대는 정확한 비교가 아닌 자릿수 수준으로 읽어야 한다.',
+      '시가총액 = 2026/10/22 종가 × 발행 보통주 수(TWSE·TPEx OpenAPI, 상장과 장외, 흥구는 제외). TSMC와 상위 10대 비중은 증권거래소(상장) 전체 약 150.8조, 상위 50대 비중은 상장+장외 합계 약 161.4조를 분모로 합니다. 매출은 2025년 연간 연결 매출(금융지주는 보험 포함 연결 영업수익)이며, 신규 진입 5곳은 공시된 2025년 연간 매출을 억 단위로 반올림했고 나머지는 6월판을 그대로 사용했습니다. 직원 수는 가능한 한 그룹/연결 기준의 근사치로, 기업마다 정의가 달라 규모 감각으로만 보세요. 신규 5곳은 확인 가능한 최신 수치입니다: ASPEED 약 140명(언론 보도), 어드밴텍 8,849명·파마에센시아 600명(2024년 보고서), 킨서스 6,401명(2024년 말), MPI 약 1,800명(연도 미표기 자료).',
     'data.companies.related': '📖 관련 읽을거리',
 
     // Category 1: Government Open Data
@@ -1217,24 +1255,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       '하나의 섬이 어떻게 글로벌 공급망을 지탱하는가?',
     'data.enterprise.story.p2':
-      'TSMC의 2,670억 시가총액에서 Foxconn의 87만 직원까지, 타이완 상위 50대 기업이 이 섬의 경제 척추를 이룹니다. 12개 반도체 기업이 "실리콘 방패"라는 이름을 증명하고, 12개 금융지주가 금융 안정을 지탱하며, 대형 OEM이 글로벌 디지털 생활을 연결합니다. 버블 차트로 타이완이 세계 인구의 2%로 글로벌 GDP의 4%를 창출하는 비결을 탐험해보세요.',
+      "아래 인터랙티브 버블 차트는 대만 경제의 DNA를 보여줍니다. TSMC 한 곳(시가총액 약 61.8조 대만달러)이 증권거래소 전체 시가총액의 41.0%를 차지하며, 이는 나머지 모든 상장사 합계의 약 70%에 해당합니다. '실리콘 방패' 서사 뒤에는 폭스콘의 대규모 전자제품 조립부터 ASE의 반도체 패키징 제국까지, 정밀 제조가 집중된 생태계가 있습니다.",
     'data.enterprise.controls.sizeLabel': '버블 크기:',
     'data.enterprise.controls.marketCap': '시가총액',
     'data.enterprise.controls.revenue': '매출',
     'data.enterprise.controls.employees': '직원 수',
     'data.enterprise.controls.filterAll': '전체',
     'data.enterprise.insights.heading': '핵심 인사이트',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'TSMC가 타이완 총 시가총액에서 차지하는 비중',
     'data.enterprise.insights.card1.detail':
       '1개 기업 ≈ 나머지 1,000개 상장사의 2/3',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       '상위 50대 기업이 총 시가총액에서 차지하는 비중',
     'data.enterprise.insights.card2.detail':
       '타이완 주식시장은 대기업에 고도로 집중',
-    'data.enterprise.insights.card3.number': '12개',
+    'data.enterprise.insights.card3.number': '8개',
     'data.enterprise.insights.card3.label': '반도체 기업 상위 50 진입',
     'data.enterprise.insights.card3.detail':
       '"실리콘 방패" 입증 — 반도체는 타이완의 국방',
@@ -1523,6 +1561,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac Financial',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -1532,6 +1574,7 @@ export const dataUI = {
     'data.sector.networking': 'Thiết bị mạng',
     'data.sector.cooling': 'Tản nhiệt',
     'data.sector.testing': 'Kiểm thử',
+    'data.sector.biotech': 'Công nghệ sinh học',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -1544,24 +1587,34 @@ export const dataUI = {
       'Ngành sợi hóa học polyester đi xuống, công nghiệp truyền thống thiếu động lực từ AI',
     'data.fellOff.giant-manufacturing':
       'Giải phóng tồn kho xe đạp, doanh thu suy giảm ba năm liên tiếp',
+    'data.fellOff.uni-president':
+      'Vốn hóa tăng khoảng 8% so với tháng 6 nhưng không đủ nhanh: hạng 51, ngay ngoài ngưỡng',
+    'data.fellOff.fareastone':
+      'Tăng khoảng 19% so với tháng 6, vẫn chưa tới ngưỡng: hạng 56',
+    'data.fellOff.bizlink':
+      'Vốn hóa giảm khoảng 35% so với ảnh chụp tháng 6: hạng 58',
+    'data.fellOff.kyec':
+      'Vốn hóa giảm khoảng 14% so với ảnh chụp tháng 6: hạng 62',
+    'data.fellOff.winway':
+      'Giá cổ phiếu giảm khoảng 40%, từ 8.085 TWD cuối tháng 6 xuống 4.795 TWD',
 
     // Standalone /companies page
     'data.companies.meta.title':
       '50 doanh nghiệp lớn nhất Đài Loan — Cuộc tái phân hạng trong kỷ nguyên AI',
     'data.companies.meta.description':
-      'Khám phá vốn hóa thị trường, doanh thu và số nhân viên của 50 doanh nghiệp niêm yết lớn nhất Đài Loan qua biểu đồ bong bóng tương tác, cùng cách chuỗi cung ứng AI viết lại bảng xếp hạng（snapshot 2026/06）。',
+      'Biểu đồ bong bóng tương tác về 50 công ty niêm yết lớn nhất Đài Loan theo vốn hóa, doanh thu và nhân sự — và cách chuỗi cung ứng AI liên tục viết lại bảng xếp hạng (ảnh chụp 22/10/2026).',
     'data.companies.hero.title': '50 doanh nghiệp lớn nhất Đài Loan',
     'data.companies.hero.subtitle':
       'Diện tích bong bóng thể hiện vốn hóa thị trường, phác họa bản đồ công nghiệp của hòn đảo 2300 vạn dân',
     'data.companies.hero.description':
       'Bong bóng càng lớn＝vốn hóa thị trường càng cao, màu sắc đại diện cho ngành. Có thể chuyển đổi sang doanh thu／số nhân viên, nhấp vào nhãn ngành để lọc và kéo bong bóng。',
     'data.companies.snapshot':
-      '📊 Nguồn dữ liệu：TWSE、công bố doanh thu cả năm 2025、báo cáo thường niên của các công ty · snapshot 2026/06（giá trị ước tính, không cấu thành khuyến nghị đầu tư）',
+      '📊 Nguồn: OpenAPI của TWSE và TPEx (giá đóng cửa × số cổ phiếu lưu hành), công bố doanh thu cả năm 2025, báo cáo thường niên · Ảnh chụp 22/10/2026 (số xấp xỉ, không phải lời khuyên đầu tư)',
     'data.companies.story.title': 'Làn sóng AI định giá lại toàn bộ hòn đảo',
     'data.companies.story.p1':
-      'Chỉ trong hai năm ngắn ngủi, hoạt động xây dựng hạ tầng AI đã viết lại bảng xếp hạng doanh nghiệp Đài Loan. Riêng TSMC chiếm 43.8% toàn thị trường（tăng đều từ 39%）, trong khi 10 cổ phiếu có tỷ trọng lớn nhất chiếm tổng cộng khoảng 61%。',
+      'Chỉ trong hai năm, làn sóng đầu tư AI đã viết lại bảng xếp hạng doanh nghiệp Đài Loan. Riêng TSMC (khoảng 61,8 nghìn tỷ TWD) chiếm 41,0% tổng vốn hóa sàn TWSE, và 10 cổ phiếu lớn nhất chiếm khoảng 59%.',
     'data.companies.story.p2':
-      'Sau TSMC, những doanh nghiệp vươn lên đều thuộc chuỗi cung ứng AI：Delta Electronics nhờ nguồn điện AI đã tiến lên vị trí số 2 chỉ trong một năm（vốn hóa tăng khoảng 5 lần）, MediaTek tăng vọt; hàng loạt tên tuổi PCB／đế mạch、tản nhiệt、kiểm thử、thiết bị mạng như Elite Material、AVC、Chroma、Accton、Yageo chen chân vào top 50, thay thế khoảng 20 gương mặt cũ。',
+      'Kể từ ảnh chụp tháng 6, bảng xếp hạng lại xáo trộn. MediaTek lên hạng 2 (khoảng 6,4 nghìn tỷ), Delta tụt từ hạng 2 xuống hạng 3 (khoảng 4,1 nghìn tỷ, thấp hơn tháng 6 khoảng 30%). Nan Ya Plastics nhảy từ hạng 20 lên hạng 6, Nanya Technology tăng gấp đôi lên hạng 13, King Slide và Largan cũng tăng hơn gấp đôi. Năm cái tên mới vào bảng — ASPEED, Advantech, Kinsus, PharmaEssentia và MPI — thay chỗ Uni-President, Far EasTone, BizLink, KYEC và Winway; ngưỡng hạng 50 tăng từ khoảng 350 tỷ lên 453 tỷ TWD.',
     'data.companies.table.heading': '📋 Bảng xếp hạng đầy đủ',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Doanh nghiệp',
@@ -1571,32 +1624,32 @@ export const dataUI = {
     'data.companies.table.employees': 'Số nhân viên',
     'data.companies.table.founded': 'Thành lập',
     'data.companies.insights.heading': '🔍 Nhận định chính',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       'Tỷ trọng của TSMC trong tổng vốn hóa thị trường chứng khoán Đài Loan',
     'data.companies.insights.card1.detail':
-      'Tăng từ 39%, riêng một doanh nghiệp tương đương khoảng bốn phần năm tổng số còn lại cộng lại',
-    'data.companies.insights.card2.number': '61%',
+      'Một công ty ≈ 70% tổng giá trị mọi công ty còn lại trên TWSE',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Tỷ trọng của 10 cổ phiếu có quyền số lớn nhất trong tổng vốn hóa',
     'data.companies.insights.card2.detail':
       'Tập trung cao độ vào một số ít cổ phiếu vốn hóa lớn',
-    'data.companies.insights.card3.number': 'Khoảng 20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      'Doanh nghiệp mới lọt bảng trong hai năm nhờ chuỗi cung ứng AI',
+      'Mới vào bảng kể từ ảnh chụp tháng 6',
     'data.companies.insights.card3.detail':
-      'PCB／đế chip, tản nhiệt, kiểm thử, thiết bị mạng — hai năm trước vẫn chưa có tên trong bảng',
+      'ASPEED (chip BMC cho máy chủ), Advantech (máy tính công nghiệp), Kinsus (đế IC), PharmaEssentia (công nghệ sinh học), MPI (thẻ thăm dò)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label': 'Số tập đoàn tài chính trong top 50',
     'data.companies.insights.card4.detail':
       'Sau sáp nhập, đây là trụ cột ổn định nhất của chỉ số',
     'data.companies.fellOff.title': '📉 Những ai đã rời bảng',
     'data.companies.fellOff.intro':
-      'Việc AI định giá lại thị trường cũng tạo ra những bên thua cuộc. Các tên tuổi quen thuộc toàn dân — thép, xi măng, dệt may, xe đạp và cả ngôi sao điện thoại một thời — đã rời top 50 khi dòng vốn đổ vào chuỗi AI.',
+      'Rơi khỏi bảng có hai kiểu. Thép, xi măng, dệt, xe đạp và một ông lớn điện thoại một thời đã tụt khỏi top 50 trước đó khi dòng vốn đổ vào chuỗi AI. Từ tháng 6, ngưỡng hạng 50 tăng từ khoảng 350 tỷ lên 453 tỷ TWD và thêm năm công ty bị đẩy ra.',
     'data.companies.fellOff.marketCapNow': 'Vốn hóa hiện tại',
     'data.companies.method.heading': '📝 Thuyết minh phương pháp',
     'data.companies.method.body':
-      'Vốn hóa được ước tính bằng cách lấy quyền số chỉ số của từng cổ phiếu trên TWSE vào 2026/06, nhân với tổng vốn hóa toàn thị trường được neo theo TSMC (khoảng NT$59 nghìn tỷ／43.8%). Doanh thu là doanh thu hợp nhất cả năm 2025 (tập đoàn tài chính dùng doanh thu hoạt động hợp nhất, bao gồm bảo hiểm). Số nhân viên là giá trị gần đúng, ưu tiên số liệu theo tập đoàn／hợp nhất, nhưng phạm vi ghi nhận của mỗi doanh nghiệp khác nhau; vì vậy, trục số nhân viên chỉ nên được xem theo cấp độ quy mô, không phải phép so sánh chính xác.',
+      'Vốn hóa = giá đóng cửa ngày 22/10/2026 × số cổ phiếu phổ thông đang lưu hành (OpenAPI của TWSE và TPEx; gồm niêm yết và OTC, không gồm thị trường đăng ký). Tỷ trọng của TSMC và top 10 tính trên tổng vốn hóa TWSE (khoảng 150,8 nghìn tỷ TWD); tỷ trọng top 50 tính trên TWSE cộng TPEx (khoảng 161,4 nghìn tỷ). Doanh thu là doanh thu hợp nhất cả năm 2025 (với tập đoàn tài chính là doanh thu hoạt động hợp nhất, gồm bảo hiểm); năm công ty mới dùng doanh thu 2025 đã công bố, làm tròn đến 100 triệu TWD, phần còn lại giữ như bản tháng 6. Số nhân sự là xấp xỉ theo cơ sở tập đoàn/hợp nhất khi có thể, định nghĩa mỗi nơi một khác nên hãy đọc như bậc độ lớn. Với năm công ty mới là số mới nhất tìm được: ASPEED khoảng 140 (báo chí), Advantech 8.849 và PharmaEssentia 600 (báo cáo 2024), Kinsus 6.401 (cuối 2024), MPI khoảng 1.800 (nguồn không ghi năm).',
     'data.companies.related': '📖 Đọc thêm',
 
     // Category 1: Government Open Data
@@ -1711,24 +1764,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Một hòn đảo nâng đỡ chuỗi cung ứng toàn cầu bằng cách nào?',
     'data.enterprise.story.p2':
-      'Từ mức vốn hóa 2,670 tỷ của TSMC đến 87 vạn nhân viên của Hon Hai, 50 doanh nghiệp lớn nhất Đài Loan tạo thành xương sống kinh tế của hòn đảo. 12 doanh nghiệp bán dẫn khẳng định danh xưng “lá chắn silicon”, 12 tập đoàn tài chính củng cố sự ổn định tài chính, còn các ông lớn gia công kết nối đời sống số toàn cầu. Hãy khám phá qua biểu đồ bong bóng cách Đài Loan, với 2% dân số thế giới, tạo ra 4% GDP toàn cầu.',
+      'Biểu đồ bong bóng tương tác bên dưới cho thấy DNA kinh tế của Đài Loan — riêng TSMC (khoảng 61,8 nghìn tỷ TWD) chiếm 41,0% tổng vốn hóa TWSE, tương đương khoảng 70% giá trị gộp của mọi công ty niêm yết còn lại. Đằng sau câu chuyện "Lá chắn Silicon" là một hệ sinh thái sản xuất chính xác tập trung, từ dây chuyền lắp ráp điện tử khổng lồ của Foxconn đến đế chế đóng gói bán dẫn của ASE.',
     'data.enterprise.controls.sizeLabel': 'Kích thước bong bóng:',
     'data.enterprise.controls.marketCap': 'Vốn hóa thị trường',
     'data.enterprise.controls.revenue': 'Doanh thu',
     'data.enterprise.controls.employees': 'Số nhân viên',
     'data.enterprise.controls.filterAll': 'Tất cả',
     'data.enterprise.insights.heading': 'Nhận định chính',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'TSMC chiếm tổng vốn hóa thị trường chứng khoán Đài Loan',
     'data.enterprise.insights.card1.detail':
       'Một công ty ≈ 2/3 tổng vốn hóa của hàng nghìn công ty niêm yết còn lại',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       '50 doanh nghiệp hàng đầu chiếm tổng vốn hóa thị trường chứng khoán Đài Loan',
     'data.enterprise.insights.card2.detail':
       'Thị trường chứng khoán Đài Loan tập trung cao độ vào các doanh nghiệp lớn',
-    'data.enterprise.insights.card3.number': '12 doanh nghiệp',
+    'data.enterprise.insights.card3.number': '8 doanh nghiệp',
     'data.enterprise.insights.card3.label':
       'Doanh nghiệp bán dẫn lọt bảng xếp hạng',
     'data.enterprise.insights.card3.detail':
@@ -2033,6 +2086,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -2042,6 +2099,7 @@ export const dataUI = {
     'data.sector.networking': 'Jaringan komunikasi',
     'data.sector.cooling': 'Pendinginan',
     'data.sector.testing': 'Pengujian',
+    'data.sector.biotech': 'Bioteknologi',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -2054,24 +2112,34 @@ export const dataUI = {
       'Lesunya industri serat poliester dan minimnya peluang AI dalam industri tradisional',
     'data.fellOff.giant-manufacturing':
       'Pengurangan persediaan sepeda dan penurunan pendapatan selama tiga tahun berturut-turut',
+    'data.fellOff.uni-president':
+      'Kapitalisasi naik sekitar 8% sejak Juni, tetapi kurang cepat: peringkat 51, tepat di luar batas',
+    'data.fellOff.fareastone':
+      'Naik sekitar 19% sejak Juni, masih di bawah batas: peringkat 56',
+    'data.fellOff.bizlink':
+      'Kapitalisasi turun sekitar 35% sejak snapshot Juni: peringkat 58',
+    'data.fellOff.kyec':
+      'Kapitalisasi turun sekitar 14% sejak snapshot Juni: peringkat 62',
+    'data.fellOff.winway':
+      'Harga saham turun sekitar 40%, dari NT$8.085 akhir Juni menjadi NT$4.795',
 
     // Standalone /companies page
     'data.companies.meta.title':
       '50 perusahaan terbesar Taiwan — perombakan pada era AI',
     'data.companies.meta.description':
-      'Lihat kapitalisasi pasar, pendapatan, dan jumlah karyawan dari 50 perusahaan terbuka terbesar Taiwan melalui diagram gelembung interaktif, serta bagaimana rantai pasok AI menyusun ulang peringkat tersebut (snapshot 2026/06).',
+      'Bagan gelembung interaktif 50 perusahaan tercatat terbesar Taiwan menurut kapitalisasi pasar, pendapatan, dan jumlah karyawan — dan bagaimana rantai pasok AI terus menulis ulang peringkat (snapshot 22/10/2026).',
     'data.companies.hero.title': '50 perusahaan terbesar Taiwan',
     'data.companies.hero.subtitle':
       'Luas gelembung menunjukkan kapitalisasi pasar, peta industri sebuah pulau berpenduduk 2300 laksa jiwa',
     'data.companies.hero.description':
       'Semakin besar gelembung＝semakin tinggi kapitalisasi pasar, sedangkan warna mewakili industri. Beralihlah antara pendapatan／jumlah karyawan, pilih label industri untuk memfilter, dan seret gelembung.',
     'data.companies.snapshot':
-      '📊 Sumber data: TWSE, pengumuman pendapatan setahun penuh 2025, laporan tahunan setiap perusahaan · snapshot 2026/06 (nilai perkiraan, bukan saran investasi)',
+      '📊 Sumber: OpenAPI TWSE dan TPEx (harga penutupan × saham beredar), laporan pendapatan setahun penuh 2025, laporan tahunan · Snapshot 22/10/2026 (perkiraan, bukan saran investasi)',
     'data.companies.story.title': 'Gelombang AI menilai ulang seluruh Taiwan',
     'data.companies.story.p1':
-      'Hanya dalam dua tahun, pembangunan AI telah menyusun ulang peringkat perusahaan Taiwan. TSMC sendiri mencakup 43.8% dari seluruh pasar (terus meningkat dari 39%), sedangkan gabungan 10 saham berkapitalisasi terbesar mencakup sekitar 61%.',
+      'Hanya dalam dua tahun, ledakan investasi AI menulis ulang peringkat korporasi Taiwan. TSMC sendiri (sekitar NT$61,8 triliun) menyumbang 41,0% dari total kapitalisasi pasar TWSE, dan 10 saham teratas sekitar 59%.',
     'data.companies.story.p2':
-      'Setelah TSMC, seluruh perusahaan yang melejit berasal dari rantai pasok AI: Delta Electronics melesat ke posisi ke-2 dalam setahun berkat catu daya AI (kapitalisasi pasarnya naik sekitar 5 kali lipat), MediaTek tumbuh pesat, sementara sederet nama di bidang PCB／substrat, pendinginan, pengujian, dan jaringan komunikasi seperti Elite Material, AVC, Chroma, Accton, dan Yageo menembus 50 besar, menggusur sekitar 20 perusahaan lama.',
+      'Sejak snapshot Juni, daftar kembali berubah. MediaTek naik ke peringkat 2 (sekitar NT$6,4 triliun) sementara Delta turun dari peringkat 2 ke 3 (sekitar NT$4,1 triliun, sekitar 30% di bawah Juni). Nan Ya Plastics melompat dari peringkat 20 ke 6, Nanya Technology berlipat dua ke peringkat 13, dan King Slide serta Largan sama-sama lebih dari dua kali lipat. Lima nama masuk — ASPEED, Advantech, Kinsus, PharmaEssentia, dan MPI — menggantikan Uni-President, Far EasTone, BizLink, KYEC, dan Winway; batas peringkat 50 naik dari sekitar NT$350 miliar menjadi NT$453 miliar.',
     'data.companies.table.heading': '📋 Peringkat lengkap',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Perusahaan',
@@ -2081,21 +2149,20 @@ export const dataUI = {
     'data.companies.table.employees': 'Jumlah karyawan',
     'data.companies.table.founded': 'Didirikan',
     'data.companies.insights.heading': '🔍 Wawasan utama',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       'Porsi TSMC dalam total kapitalisasi pasar saham Taiwan',
     'data.companies.insights.card1.detail':
-      'Naik dari 39%, satu perusahaan ini bernilai sekitar empat perlima dari gabungan seluruh perusahaan lainnya',
-    'data.companies.insights.card2.number': '61%',
+      'Satu perusahaan ≈ 70% dari gabungan semua perusahaan lain di TWSE',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Porsi 10 saham berbobot terbesar dalam total kapitalisasi pasar',
     'data.companies.insights.card2.detail':
       'Sangat terkonsentrasi pada segelintir saham berkapitalisasi besar',
-    'data.companies.insights.card3.number': 'Sekitar 20',
-    'data.companies.insights.card3.label':
-      'Pendatang baru dalam dua tahun berkat rantai pasok AI',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': 'Pendatang baru sejak snapshot Juni',
     'data.companies.insights.card3.detail':
-      'PCB／substrat, pendinginan, pengujian, dan jaringan komunikasi, dua tahun lalu belum masuk daftar',
+      'ASPEED (chip BMC server), Advantech (PC industri), Kinsus (substrat IC), PharmaEssentia (bioteknologi), MPI (probe card)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Jumlah perusahaan induk keuangan dalam 50 besar',
@@ -2103,11 +2170,11 @@ export const dataUI = {
       'Setelah konsolidasi, menjadi jangkar paling stabil dalam indeks',
     'data.companies.fellOff.title': '📉 Siapa yang keluar dari daftar',
     'data.companies.fellOff.intro':
-      'Penilaian ulang akibat AI juga melahirkan pihak yang kalah. Nama-nama besar yang dikenal luas ini——baja, semen, tekstil, sepeda, dan mantan raksasa ponsel——terlempar dari 50 besar saat modal membanjiri rantai AI.',
+      'Ada dua jenis yang keluar dari daftar. Baja, semen, tekstil, sepeda, dan mantan bintang ponsel lebih dulu tergeser dari 50 besar saat modal menumpuk di rantai AI. Sejak Juni, batas peringkat 50 naik dari sekitar NT$350 miliar menjadi NT$453 miliar dan lima perusahaan lagi tersingkir.',
     'data.companies.fellOff.marketCapNow': 'Kapitalisasi pasar saat ini',
     'data.companies.method.heading': '📝 Penjelasan metode',
     'data.companies.method.body':
-      'Kapitalisasi pasar diperkirakan dari bobot indeks setiap saham di TWSE pada 2026/06, dikalikan dengan total kapitalisasi pasar yang mengacu pada TSMC (sekitar NT$59 triliun／43.8%). Pendapatan adalah pendapatan konsolidasi sepanjang 2025 (perusahaan induk keuangan menggunakan pendapatan operasional konsolidasi, termasuk asuransi). Jumlah karyawan merupakan perkiraan, sedapat mungkin berdasarkan grup／konsolidasi, tetapi cakupan pengakuan tiap perusahaan berbeda. Karena itu, sumbu jumlah karyawan sebaiknya dipandang sebagai gambaran skala, bukan perbandingan yang presisi.',
+      'Kapitalisasi pasar = harga penutupan 22/10/2026 × saham biasa beredar (OpenAPI TWSE dan TPEx; saham tercatat dan OTC, papan emerging tidak termasuk). Porsi TSMC dan 10 teratas dihitung terhadap total TWSE (sekitar NT$150,8 triliun); porsi 50 teratas terhadap TWSE plus TPEx (sekitar NT$161,4 triliun). Pendapatan adalah pendapatan konsolidasi setahun penuh 2025 (untuk holding keuangan, pendapatan operasi konsolidasi termasuk asuransi); lima pendatang baru memakai pendapatan 2025 yang diumumkan, dibulatkan ke NT$100 juta, sisanya dari versi Juni. Jumlah karyawan adalah perkiraan berbasis grup/konsolidasi bila ada, definisinya berbeda-beda, jadi bacalah sebagai orde besaran. Untuk lima pendatang baru, angka terbaru yang bisa ditemukan: ASPEED sekitar 140 (media), Advantech 8.849 dan PharmaEssentia 600 (laporan 2024), Kinsus 6.401 (akhir 2024), MPI sekitar 1.800 (sumber tanpa tahun).',
     'data.companies.related': '📖 Bacaan lebih lanjut',
 
     // Category 1: Government Open Data
@@ -2218,24 +2285,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Bagaimana sebuah pulau menopang rantai pasok global?',
     'data.enterprise.story.p2':
-      'Dari kapitalisasi pasar TSMC sebesar 2,670 miliar hingga 87 ribu karyawan Hon Hai, 50 perusahaan terbesar Taiwan membentuk tulang punggung ekonomi negara ini. 12 perusahaan semikonduktor menegaskan julukan 「perisai silikon」, 12 perusahaan induk keuangan menopang stabilitas keuangan, dan para raksasa manufaktur kontrak menghubungkan kehidupan digital global. Jelajahi melalui diagram gelembung bagaimana Taiwan, dengan 2% populasi dunia, menghasilkan 4% GDP global.',
+      'Bagan gelembung interaktif di bawah memperlihatkan DNA ekonomi Taiwan — TSMC sendiri (sekitar NT$61,8 triliun) mewakili 41,0% total kapitalisasi pasar TWSE, setara sekitar 70% gabungan nilai semua perusahaan tercatat lainnya. Di balik narasi "Perisai Silikon" ada ekosistem manufaktur presisi yang terkonsentrasi, dari perakitan elektronik raksasa Foxconn hingga imperium pengemasan semikonduktor ASE.',
     'data.enterprise.controls.sizeLabel': 'Ukuran gelembung:',
     'data.enterprise.controls.marketCap': 'Kapitalisasi pasar',
     'data.enterprise.controls.revenue': 'Pendapatan',
     'data.enterprise.controls.employees': 'Jumlah karyawan',
     'data.enterprise.controls.filterAll': 'Semua',
     'data.enterprise.insights.heading': 'Wawasan utama',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'TSMC menyumbang total kapitalisasi pasar saham Taiwan',
     'data.enterprise.insights.card1.detail':
       'Satu perusahaan ≈ 2/3 dari ribuan perusahaan tercatat lainnya',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       '50 perusahaan terbesar menyumbang total kapitalisasi pasar saham Taiwan',
     'data.enterprise.insights.card2.detail':
       'Pasar saham Taiwan sangat terkonsentrasi pada perusahaan besar',
-    'data.enterprise.insights.card3.number': '12 perusahaan',
+    'data.enterprise.insights.card3.number': '8 perusahaan',
     'data.enterprise.insights.card3.label':
       'Perusahaan semikonduktor masuk dalam daftar',
     'data.enterprise.insights.card3.detail':
@@ -2542,6 +2609,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -2551,6 +2622,7 @@ export const dataUI = {
     'data.sector.networking': 'Redes e telecomunicações',
     'data.sector.cooling': 'Refrigeração',
     'data.sector.testing': 'Testes',
+    'data.sector.biotech': 'Biotecnologia',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -2563,24 +2635,34 @@ export const dataUI = {
       'Queda no setor de fibras de poliéster; indústria tradicional sem impulso da IA',
     'data.fellOff.giant-manufacturing':
       'Redução dos estoques de bicicletas; receita em queda por três anos consecutivos',
+    'data.fellOff.uni-president':
+      'Valor de mercado cerca de 8% maior desde junho, mas não o bastante: 51º, logo abaixo do corte',
+    'data.fellOff.fareastone':
+      'Alta de cerca de 19% desde junho, ainda abaixo do corte: 56º',
+    'data.fellOff.bizlink':
+      'Valor de mercado cerca de 35% menor que no retrato de junho: 58º',
+    'data.fellOff.kyec':
+      'Valor de mercado cerca de 14% menor que no retrato de junho: 62º',
+    'data.fellOff.winway':
+      'Ação caiu cerca de 40%, de NT$ 8.085 no fim de junho para NT$ 4.795',
 
     // Standalone /companies page
     'data.companies.meta.title':
       'As 50 maiores empresas de Taiwan — A reviravolta da era da IA',
     'data.companies.meta.description':
-      'Explore em um gráfico de bolhas interativo o valor de mercado, a receita e o número de funcionários das 50 maiores empresas listadas de Taiwan, e veja como a cadeia de suprimentos de IA está reescrevendo o ranking (snapshot de 2026/06).',
+      'Um gráfico de bolhas interativo das 50 maiores empresas listadas de Taiwan por valor de mercado, receita e número de funcionários — e como a cadeia de suprimentos de IA continua reescrevendo o ranking (retrato de 22/10/2026).',
     'data.companies.hero.title': 'As 50 maiores empresas de Taiwan',
     'data.companies.hero.subtitle':
       'A área das bolhas representa o valor de mercado — o panorama industrial de uma ilha com 2300 milhões de habitantes',
     'data.companies.hero.description':
       'Quanto maior a bolha, maior o valor de mercado; a cor representa o setor. Alterne entre receita／número de funcionários, selecione etiquetas de setores para filtrar e arraste as bolhas.',
     'data.companies.snapshot':
-      '📊 Fontes dos dados: TWSE, divulgações de receita do ano completo de 2025 e relatórios anuais das empresas · snapshot de 2026/06 (valores aproximados, não constitui recomendação de investimento)',
+      '📊 Fonte: OpenAPI da TWSE e da TPEx (fechamento × ações em circulação), divulgações de receita de 2025, relatórios anuais · Retrato de 22/10/2026 (valores aproximados, não é aconselhamento de investimento)',
     'data.companies.story.title': 'A onda da IA reprecificou toda a ilha',
     'data.companies.story.p1':
-      'Em apenas dois anos, a expansão da IA reescreveu o ranking empresarial de Taiwan. Sozinha, a TSMC passou a representar 43.8% de todo o mercado (ante 39%, em alta contínua), enquanto as 10 ações de maior peso somam cerca de 61%.',
+      'Em apenas dois anos, a expansão da IA reescreveu o ranking corporativo de Taiwan. Só a TSMC (cerca de NT$ 61,8 trilhões) responde por 41,0% do valor de mercado total da TWSE, e as 10 maiores ações somam cerca de 59%.',
     'data.companies.story.p2':
-      'Depois da TSMC, todas as empresas que avançaram pertencem à cadeia de suprimentos de IA: a Delta Electronics saltou para o 2º lugar em um ano graças às fontes de alimentação para IA (com valor de mercado multiplicado por cerca de 5), a MediaTek disparou, e nomes como Elite Material, AVC, Chroma, Accton e Yageo — de PCB／substratos, refrigeração, testes e redes — entraram em massa no top 50, substituindo cerca de 20 empresas tradicionais.',
+      'Desde o retrato de junho, a lista foi embaralhada de novo. A MediaTek subiu para o 2º lugar (cerca de NT$ 6,4 trilhões) e a Delta caiu do 2º para o 3º (cerca de NT$ 4,1 trilhões, aproximadamente 30% abaixo de junho). A Nan Ya Plastics saltou do 20º para o 6º, a Nanya Technology dobrou e foi ao 13º, e King Slide e Largan mais que dobraram. Cinco nomes entraram — ASPEED, Advantech, Kinsus, PharmaEssentia e MPI — no lugar de Uni-President, Far EasTone, BizLink, KYEC e Winway; o corte do 50º lugar subiu de cerca de NT$ 350 bilhões para NT$ 453 bilhões.',
     'data.companies.table.heading': '📋 Ranking completo',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Empresa',
@@ -2590,21 +2672,21 @@ export const dataUI = {
     'data.companies.table.employees': 'Número de funcionários',
     'data.companies.table.founded': 'Fundação',
     'data.companies.insights.heading': '🔍 Principais conclusões',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       'Participação da TSMC no valor total de mercado das ações de Taiwan',
     'data.companies.insights.card1.detail':
-      'Subiu de 39%; uma única empresa equivale a cerca de quatro quintos de todas as demais somadas',
-    'data.companies.insights.card2.number': '61%',
+      'Uma empresa ≈ 70% de todas as outras da TWSE somadas',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Participação das 10 maiores ações no valor total de mercado',
     'data.companies.insights.card2.detail':
       'Altamente concentrado em poucas ações de grandes empresas',
-    'data.companies.insights.card3.number': 'Cerca de 20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      'Novas no ranking em dois anos graças à cadeia de fornecimento de AI',
+      'Novas entradas desde o retrato de junho',
     'data.companies.insights.card3.detail':
-      'PCB／substratos, refrigeração, testes e equipamentos de rede; há dois anos, ainda não estavam no ranking',
+      'ASPEED (chips BMC para servidores), Advantech (PCs industriais), Kinsus (substratos de CI), PharmaEssentia (biotecnologia), MPI (probe cards)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Holdings financeiras entre as 50 maiores',
@@ -2612,11 +2694,11 @@ export const dataUI = {
       'Após as fusões, são a âncora mais estável do índice',
     'data.companies.fellOff.title': '📉 Quem saiu do ranking',
     'data.companies.fellOff.intro':
-      'A reprecificação provocada pela AI também teve perdedores. Estes nomes conhecidos em todo o país——siderurgia, cimento, indústria têxtil, bicicletas e uma antiga estrela dos celulares——saíram das 50 maiores enquanto o capital fluía para a cadeia de AI.',
+      'Sair da lista acontece de dois modos. Aço, cimento, têxteis, bicicletas e um ex-astro dos smartphones saíram antes do top 50, com o capital se concentrando na cadeia de IA. Desde junho, o corte do 50º lugar subiu de cerca de NT$ 350 bilhões para NT$ 453 bilhões e outras cinco foram empurradas para fora.',
     'data.companies.fellOff.marketCapNow': 'Valor de mercado atual',
     'data.companies.method.heading': '📝 Metodologia',
     'data.companies.method.body':
-      'O valor de mercado foi estimado multiplicando o peso de cada ação no índice da TWSE em 2026/06 pelo valor total do mercado, ancorado na TSMC (cerca de NT$59 trilhões／43.8%). A receita corresponde à receita consolidada de todo o ano de 2025 (para holdings financeiras, receita operacional consolidada, incluindo seguros). O número de funcionários é aproximado e, sempre que possível, segue a base do grupo／consolidada; como o escopo de contabilização varia entre as empresas, considere esse eixo apenas como uma ordem de grandeza, não como uma comparação precisa.',
+      'Valor de mercado = preço de fechamento de 22/10/2026 × ações ordinárias em circulação (OpenAPI da TWSE e da TPEx; ações listadas e de balcão, sem o mercado emergente). A fatia da TSMC e a das 10 maiores são medidas contra o total da TWSE (cerca de NT$ 150,8 trilhões); a das 50 maiores, contra TWSE mais TPEx (cerca de NT$ 161,4 trilhões). A receita é a consolidada de 2025 inteiro (para holdings financeiras, receita operacional consolidada incluindo seguros); as cinco novas entradas usam a receita de 2025 divulgada, arredondada para NT$ 100 milhões, e as demais seguem a versão de junho. O número de funcionários é aproximado, em base de grupo/consolidada quando possível — as definições variam, então leia como ordem de grandeza. Para as cinco novas entradas, é o dado mais recente encontrado: ASPEED cerca de 140 (imprensa), Advantech 8.849 e PharmaEssentia 600 (relatórios de 2024), Kinsus 6.401 (fim de 2024), MPI cerca de 1.800 (fonte sem data).',
     'data.companies.related': '📖 Leitura complementar',
 
     // Category 1: Government Open Data
@@ -2737,24 +2819,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Como uma ilha sustenta a cadeia global de fornecimento?',
     'data.enterprise.story.p2':
-      'Dos 267 bilhões em valor de mercado da TSMC aos 870 mil funcionários da Hon Hai, as 50 maiores empresas de Taiwan formam a espinha dorsal econômica da ilha. 12 empresas de semicondutores confirmam o nome de «escudo de silício», 12 holdings financeiras sustentam a estabilidade financeira e gigantes da manufatura por contrato conectam a vida digital global. Explore no gráfico de bolhas como Taiwan, com 2% da população mundial, gera 4% do GDP global.',
+      'O gráfico de bolhas interativo abaixo revela o DNA econômico de Taiwan — só a TSMC (cerca de NT$ 61,8 trilhões) representa 41,0% do valor de mercado total da TWSE, cerca de 70% do valor somado de todas as demais empresas listadas. Por trás da narrativa do "Escudo de Silício" está um ecossistema concentrado de manufatura de precisão, da gigantesca montagem eletrônica da Foxconn ao império de encapsulamento de semicondutores da ASE.',
     'data.enterprise.controls.sizeLabel': 'Tamanho da bolha:',
     'data.enterprise.controls.marketCap': 'Valor de mercado',
     'data.enterprise.controls.revenue': 'Receita',
     'data.enterprise.controls.employees': 'Número de funcionários',
     'data.enterprise.controls.filterAll': 'Todos',
     'data.enterprise.insights.heading': 'Principais insights',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'Participação da TSMC no valor total do mercado acionário de Taiwan',
     'data.enterprise.insights.card1.detail':
       'Uma empresa ≈ 2/3 das outras mil empresas listadas',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       'Participação das 50 maiores no valor total do mercado acionário de Taiwan',
     'data.enterprise.insights.card2.detail':
       'O mercado acionário de Taiwan é altamente concentrado em grandes empresas',
-    'data.enterprise.insights.card3.number': '12 empresas',
+    'data.enterprise.insights.card3.number': '8 empresas',
     'data.enterprise.insights.card3.label':
       'Empresas de semicondutores no ranking',
     'data.enterprise.insights.card3.detail':
@@ -3065,6 +3147,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'झेन डिंग Zhen Ding',
     'data.company.sinopac-financial': 'सिनोपैक फाइनेंशियल SinoPac',
     'data.company.winbond': 'विनबॉन्ड इलेक्ट्रॉनिक्स Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'विनवे WinWay',
     'data.company.king-slide': 'किंग स्लाइड King Slide',
     'data.company.kyec': 'किंग युआन इलेक्ट्रॉनिक्स KYEC',
@@ -3074,6 +3160,7 @@ export const dataUI = {
     'data.sector.networking': 'नेटवर्किंग',
     'data.sector.cooling': 'ताप अपव्यय',
     'data.sector.testing': 'परीक्षण',
+    'data.sector.biotech': 'बायोटेक',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -3086,25 +3173,35 @@ export const dataUI = {
       'पॉलिएस्टर और रासायनिक फाइबर क्षेत्र में मंदी, पारंपरिक उद्योग के पास AI से जुड़ा आकर्षण नहीं',
     'data.fellOff.giant-manufacturing':
       'साइकिल भंडार घटाने की प्रक्रिया के बीच राजस्व में लगातार तीन वर्षों से गिरावट',
+    'data.fellOff.uni-president':
+      'जून से बाज़ार पूंजीकरण लगभग 8% बढ़ा, पर काफ़ी नहीं: 51वां, सीमा के ठीक बाहर',
+    'data.fellOff.fareastone':
+      'जून से लगभग 19% ऊपर, फिर भी सीमा से नीचे: 56वां',
+    'data.fellOff.bizlink':
+      'जून के स्नैपशॉट से बाज़ार पूंजीकरण लगभग 35% घटा: 58वां',
+    'data.fellOff.kyec':
+      'जून के स्नैपशॉट से बाज़ार पूंजीकरण लगभग 14% घटा: 62वां',
+    'data.fellOff.winway':
+      'शेयर भाव जून के अंत के NT$8,085 से लगभग 40% गिरकर NT$4,795 हुआ',
 
     // Standalone /companies page
     'data.companies.meta.title':
       'ताइवान की शीर्ष 50 कंपनियां — AI युग में फेरबदल',
     'data.companies.meta.description':
-      'इंटरैक्टिव बबल चार्ट में ताइवान की बाजार पूंजीकरण के लिहाज से शीर्ष 50 सूचीबद्ध कंपनियों का बाजार मूल्य, राजस्व और कर्मचारी संख्या देखें, साथ ही जानें कि AI आपूर्ति शृंखला ने रैंकिंग को कैसे बदल दिया（2026/06 snapshot）。',
+      'बाज़ार पूंजीकरण, राजस्व और कर्मचारियों के आधार पर ताइवान की 50 सबसे बड़ी सूचीबद्ध कंपनियों का इंटरैक्टिव बबल चार्ट — और कैसे AI सप्लाई चेन रैंकिंग को लगातार नया रूप दे रही है (22/10/2026 स्नैपशॉट)।',
     'data.companies.hero.title': 'ताइवान की शीर्ष 50 कंपनियां',
     'data.companies.hero.subtitle':
       'बबल का क्षेत्रफल बाजार पूंजीकरण दर्शाता है—2300 लाख लोगों के द्वीप का औद्योगिक मानचित्र',
     'data.companies.hero.description':
       'बबल जितना बड़ा＝बाजार पूंजीकरण उतना अधिक; रंग उद्योग दर्शाता है। राजस्व／कर्मचारी संख्या के बीच बदलें, उद्योग टैग चुनकर फ़िल्टर करें और बबल खींचें।',
     'data.companies.snapshot':
-      '📊 डेटा स्रोत：TWSE、2025 के पूरे वर्ष की राजस्व घोषणाएं、कंपनियों की वार्षिक रिपोर्ट · snapshot 2026/06（अनुमानित आंकड़े, निवेश सलाह नहीं）',
+      '📊 स्रोत: TWSE और TPEx OpenAPI (क्लोज़िंग भाव × जारी शेयर), 2025 के पूरे वर्ष के राजस्व की घोषणाएं, वार्षिक रिपोर्ट · स्नैपशॉट 22/10/2026 (अनुमानित, निवेश सलाह नहीं)',
     'data.companies.story.title':
       'AI की लहर ने पूरे द्वीप का मूल्यांकन बदल दिया',
     'data.companies.story.p1':
-      'सिर्फ दो वर्षों में AI बुनियादी ढांचे ने ताइवान की कॉर्पोरेट रैंकिंग बदल दी। अकेली ताइवान सेमीकंडक्टर की पूरे बाजार में 43.8% हिस्सेदारी है（जो 39% से लगातार बढ़ी）, जबकि शीर्ष 10 दिग्गज शेयरों की संयुक्त हिस्सेदारी करीब 61% है।',
+      'सिर्फ़ दो साल में AI निर्माण ने ताइवान की कॉर्पोरेट रैंकिंग फिर से लिख दी। अकेली TSMC (लगभग NT$61.8 ट्रिलियन) TWSE के कुल बाज़ार पूंजीकरण का 41.0% है, और शीर्ष 10 शेयर लगभग 59% हैं।',
     'data.companies.story.p2':
-      'TSMC के बाद बढ़ने वाली सभी कंपनियां AI आपूर्ति शृंखला से जुड़ी हैं：डेल्टा इलेक्ट्रॉनिक्स AI बिजली समाधानों के दम पर एक वर्ष में दूसरे स्थान पर पहुंची（बाजार मूल्य करीब 5 गुना）, MediaTek में जोरदार उछाल आया, जबकि एलीट मटेरियल、एशिया वाइटल कंपोनेंट्स、क्रोमा、ऐक्टन और यागेओ जैसे PCB／सब्सट्रेट、ताप अपव्यय、परीक्षण और नेटवर्किंग क्षेत्र के नाम शीर्ष 50 में आ गए और करीब 20 पुराने नाम बाहर हो गए।',
+      'जून के स्नैपशॉट के बाद सूची फिर बदली है। MediaTek दूसरे स्थान (लगभग NT$6.4 ट्रिलियन) पर पहुंचा, जबकि Delta दूसरे से तीसरे स्थान (लगभग NT$4.1 ट्रिलियन, जून से करीब 30% कम) पर खिसका। Nan Ya Plastics 20वें से छठे स्थान पर कूदी, Nanya Technology दोगुनी होकर 13वें पर आई, और King Slide व Largan दोनों दोगुने से ज़्यादा हुए। पांच नाम सूची में आए — ASPEED, Advantech, Kinsus, PharmaEssentia और MPI — और Uni-President, Far EasTone, BizLink, KYEC व Winway बाहर हुए; 50वें स्थान की सीमा लगभग NT$350 अरब से बढ़कर NT$453 अरब हो गई।',
     'data.companies.table.heading': '📋 पूरी रैंकिंग',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'कंपनी',
@@ -3114,21 +3211,20 @@ export const dataUI = {
     'data.companies.table.employees': 'कर्मचारी संख्या',
     'data.companies.table.founded': 'स्थापना',
     'data.companies.insights.heading': '🔍 प्रमुख निष्कर्ष',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       'ताइवान के शेयर बाज़ार के कुल बाज़ार पूंजीकरण में TSMC की हिस्सेदारी',
     'data.companies.insights.card1.detail':
-      '39% से बढ़कर, अकेली एक कंपनी शेष सभी कंपनियों के संयुक्त मूल्य के लगभग चार-पाँचवें हिस्से के बराबर',
-    'data.companies.insights.card2.number': '61%',
+      'एक कंपनी ≈ TWSE की बाकी सभी कंपनियों के कुल मूल्य का लगभग 70%',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'कुल बाज़ार पूंजीकरण में शीर्ष 10 प्रमुख शेयरों की हिस्सेदारी',
     'data.companies.insights.card2.detail':
       'चंद बड़ी कंपनियों के शेयरों में अत्यधिक संकेंद्रण',
-    'data.companies.insights.card3.number': 'लगभग 20',
-    'data.companies.insights.card3.label':
-      'AI आपूर्ति शृंखला के कारण दो वर्षों में सूची में नई प्रविष्टियाँ',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': 'जून के स्नैपशॉट के बाद नई एंट्री',
     'data.companies.insights.card3.detail':
-      'PCB／सब्सट्रेट, ताप प्रबंधन, परीक्षण और नेटवर्क संचार कंपनियाँ दो वर्ष पहले सूची में नहीं थीं',
+      'ASPEED (सर्वर BMC चिप), Advantech (औद्योगिक PC), Kinsus (IC सब्सट्रेट), PharmaEssentia (बायोटेक), MPI (प्रोब कार्ड)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'शीर्ष 50 में वित्तीय होल्डिंग कंपनियों की संख्या',
@@ -3136,11 +3232,11 @@ export const dataUI = {
       'विलय के बाद, सूचकांक का सबसे स्थिर आधार',
     'data.companies.fellOff.title': '📉 सूची से कौन बाहर हुआ',
     'data.companies.fellOff.intro':
-      'AI के कारण नए मूल्यांकन में कुछ कंपनियाँ पिछड़ी भी हैं। इस्पात, सीमेंट, कपड़ा, साइकिल और कभी मोबाइल फ़ोन क्षेत्र की दिग्गज रहीं ये जानी-पहचानी कंपनियाँ——AI शृंखला में पूंजी उमड़ने के बीच शीर्ष 50 से बाहर हो गईं।',
+      'सूची से बाहर होने के दो तरह हैं। इस्पात, सीमेंट, कपड़ा, साइकिल और कभी का स्मार्टफ़ोन सितारा पहले ही शीर्ष 50 से बाहर हो गए, जब पूंजी AI श्रृंखला में उमड़ी। जून के बाद 50वें स्थान की सीमा लगभग NT$350 अरब से बढ़कर NT$453 अरब हुई और पांच और कंपनियां बाहर हो गईं।',
     'data.companies.fellOff.marketCapNow': 'वर्तमान बाज़ार पूंजीकरण',
     'data.companies.method.heading': '📝 कार्यप्रणाली',
     'data.companies.method.body':
-      'बाज़ार पूंजीकरण का अनुमान प्रत्येक शेयर के 2026/06 के TWSE सूचकांक भार को TSMC (लगभग NT$59 ट्रिलियन／43.8%) के आधार पर तय समूचे बाज़ार के कुल पूंजीकरण से गुणा करके लगाया गया है। राजस्व 2025 का पूरे वर्ष का समेकित राजस्व है (वित्तीय होल्डिंग कंपनियों के लिए बीमा सहित समेकित परिचालन आय)। कर्मचारियों की संख्या अनुमानित है और जहाँ तक संभव हो समूह／समेकित आधार पर ली गई है, लेकिन हर कंपनी में गणना का दायरा अलग है; इसलिए कर्मचारी संख्या वाले अक्ष को केवल परिमाण के संकेत के रूप में देखें, सटीक तुलना के रूप में नहीं।',
+      'बाज़ार पूंजीकरण = 22/10/2026 का क्लोज़िंग भाव × जारी साधारण शेयर (TWSE और TPEx OpenAPI; सूचीबद्ध और OTC, उभरता बोर्ड शामिल नहीं)। TSMC और शीर्ष 10 की हिस्सेदारी TWSE के कुल (लगभग NT$150.8 ट्रिलियन) के मुकाबले, और शीर्ष 50 की हिस्सेदारी TWSE+TPEx (लगभग NT$161.4 ट्रिलियन) के मुकाबले मापी गई है। राजस्व 2025 के पूरे वर्ष का समेकित राजस्व है (वित्तीय होल्डिंग के लिए बीमा सहित समेकित परिचालन राजस्व); पांच नई कंपनियों के लिए घोषित 2025 राजस्व NT$10 करोड़ तक पूर्णांकित है, बाकी जून संस्करण से लिए गए हैं। कर्मचारी संख्या जहां संभव हो समूह/समेकित आधार पर अनुमानित है; परिभाषाएं अलग-अलग हैं, इसलिए इसे परिमाण के क्रम के रूप में पढ़ें। पांच नई कंपनियों के लिए सबसे ताज़ा उपलब्ध आंकड़े: ASPEED लगभग 140 (मीडिया), Advantech 8,849 और PharmaEssentia 600 (2024 रिपोर्ट), Kinsus 6,401 (2024 के अंत), MPI लगभग 1,800 (बिना वर्ष वाला स्रोत)।',
     'data.companies.related': '📖 संबंधित आलेख',
 
     // Category 1: Government Open Data
@@ -3252,24 +3348,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'एक द्वीप वैश्विक आपूर्ति शृंखला को कैसे संभालता है？',
     'data.enterprise.story.p2':
-      'TSMC के 2,670 अरब बाज़ार पूंजीकरण से Hon Hai के 87 लाख कर्मचारियों तक, ताइवान की शीर्ष 50 कंपनियाँ इस द्वीप की आर्थिक रीढ़ बनाती हैं। 12 सेमीकंडक्टर कंपनियाँ「सिलिकॉन शील्ड」नाम को सार्थक करती हैं, 12 वित्तीय होल्डिंग कंपनियाँ वित्तीय स्थिरता को सहारा देती हैं और अनुबंध विनिर्माण की दिग्गज कंपनियाँ वैश्विक डिजिटल जीवन को आपस में जोड़ती हैं। बबल चार्ट के ज़रिए जानें कि ताइवान दुनिया की 2% आबादी के साथ वैश्विक GDP का 4% कैसे सृजित करता है।',
+      'नीचे का इंटरैक्टिव बबल चार्ट ताइवान की आर्थिक DNA दिखाता है — अकेली TSMC (लगभग NT$61.8 ट्रिलियन) TWSE के कुल बाज़ार पूंजीकरण का 41.0% है, यानी बाकी सभी सूचीबद्ध कंपनियों के कुल मूल्य का लगभग 70%। "सिलिकॉन शील्ड" की कहानी के पीछे सटीक विनिर्माण का केंद्रित पारिस्थितिकी तंत्र है, Foxconn की विशाल इलेक्ट्रॉनिक्स असेंबली से लेकर ASE के सेमीकंडक्टर पैकेजिंग साम्राज्य तक।',
     'data.enterprise.controls.sizeLabel': 'बबल का आकार：',
     'data.enterprise.controls.marketCap': 'बाज़ार पूंजीकरण',
     'data.enterprise.controls.revenue': 'राजस्व',
     'data.enterprise.controls.employees': 'कर्मचारियों की संख्या',
     'data.enterprise.controls.filterAll': 'सभी',
     'data.enterprise.insights.heading': 'प्रमुख निष्कर्ष',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'ताइवान शेयर बाज़ार के कुल पूंजीकरण में टीएसएमसी की हिस्सेदारी',
     'data.enterprise.insights.card1.detail':
       'एक कंपनी ≈ शेष हज़ार सूचीबद्ध कंपनियों के कुल मूल्य का 2/3',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       'ताइवान शेयर बाज़ार के कुल पूंजीकरण में शीर्ष 50 की हिस्सेदारी',
     'data.enterprise.insights.card2.detail':
       'ताइवान का शेयर बाज़ार बड़ी कंपनियों में अत्यधिक केंद्रित है',
-    'data.enterprise.insights.card3.number': '12 कंपनियां',
+    'data.enterprise.insights.card3.number': '8 कंपनियां',
     'data.enterprise.insights.card3.label': 'सेमीकंडक्टर कंपनियां सूची में',
     'data.enterprise.insights.card3.detail':
       '「सिलिकॉन शील्ड」की पुष्टि——सेमीकंडक्टर ताइवान की रक्षा का आधार हैं',
@@ -3567,6 +3663,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -3576,6 +3676,7 @@ export const dataUI = {
     'data.sector.networking': 'الشبكات',
     'data.sector.cooling': 'التبريد',
     'data.sector.testing': 'الاختبار',
+    'data.sector.biotech': 'التقنية الحيوية',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -3588,25 +3689,35 @@ export const dataUI = {
       'تراجع في البوليستر والألياف الكيميائية، والصناعات التقليدية تفتقر إلى قصة الذكاء الاصطناعي',
     'data.fellOff.giant-manufacturing':
       'تصريف مخزون الدراجات، وتراجع الإيرادات ثلاث سنوات متتالية',
+    'data.fellOff.uni-president':
+      'ارتفعت القيمة السوقية نحو 8% منذ يونيو لكن ليس بما يكفي: المركز 51 خارج الحد مباشرة',
+    'data.fellOff.fareastone':
+      'ارتفعت نحو 19% منذ يونيو وما زالت دون الحد: المركز 56',
+    'data.fellOff.bizlink':
+      'انخفضت القيمة السوقية نحو 35% عن لقطة يونيو: المركز 58',
+    'data.fellOff.kyec':
+      'انخفضت القيمة السوقية نحو 14% عن لقطة يونيو: المركز 62',
+    'data.fellOff.winway':
+      'هبط السهم نحو 40% من 8,085 دولارًا تايوانيًا في نهاية يونيو إلى 4,795',
 
     // Standalone /companies page
     'data.companies.meta.title':
       'أكبر 50 شركة في تايوان — إعادة ترتيب الأوراق في عصر الذكاء الاصطناعي',
     'data.companies.meta.description':
-      'رسم فقاعي تفاعلي لأكبر 50 شركة مدرجة في تايوان من حيث القيمة السوقية والإيرادات وعدد الموظفين، وكيف أعادت سلسلة توريد الذكاء الاصطناعي كتابة الترتيب (لقطة 2026/06).',
+      'مخطط فقاعات تفاعلي لأكبر 50 شركة مدرجة في تايوان حسب القيمة السوقية والإيرادات وعدد الموظفين، وكيف تواصل سلسلة توريد الذكاء الاصطناعي إعادة كتابة الترتيب (لقطة 22/10/2026).',
     'data.companies.hero.title': 'أكبر 50 شركة في تايوان',
     'data.companies.hero.subtitle':
       'مساحة الفقاعة هي القيمة السوقية — خريطة صناعات جزيرة يسكنها 23 مليون نسمة',
     'data.companies.hero.description':
       'كلما كبرت الفقاعة ارتفعت القيمة السوقية، واللون يدل على القطاع. يمكنك التبديل إلى الإيرادات أو عدد الموظفين، والتصفية بالضغط على وسم القطاع، وسحب الفقاعات.',
     'data.companies.snapshot':
-      '📊 المصادر: بورصة تايوان (TWSE)، وإعلانات إيرادات عام 2025 كاملاً، والتقارير السنوية للشركات · لقطة 2026/06 (قيم تقريبية، ولا تُعد نصيحة استثمارية)',
+      '📊 المصدر: واجهة TWSE وTPEx المفتوحة (سعر الإغلاق × الأسهم القائمة)، إفصاحات إيرادات 2025 كاملة، التقارير السنوية · لقطة 22/10/2026 (أرقام تقريبية وليست نصيحة استثمارية)',
     'data.companies.story.title':
       'موجة الذكاء الاصطناعي تعيد تسعير الجزيرة بأكملها',
     'data.companies.story.p1':
-      'في عامين اثنين فقط، أعاد بناء البنية التحتية للذكاء الاصطناعي كتابة ترتيب الشركات في تايوان. تستحوذ TSMC وحدها على 43.8% من السوق كاملةً (صعوداً من 39%)، وتشكّل أكبر 10 أسهم وزناً نحو 61% منها.',
+      'في عامين فقط أعاد بناء الذكاء الاصطناعي كتابة ترتيب الشركات التايوانية. وحدها TSMC (نحو 61.8 تريليون دولار تايواني) تمثل 41.0% من إجمالي القيمة السوقية لبورصة TWSE، وتشكل أكبر 10 أسهم نحو 59%.',
     'data.companies.story.p2':
-      'بعد TSMC، كل الصاعدين ينتمون إلى سلسلة توريد الذكاء الاصطناعي: قفزت دلتا (Delta) إلى المركز الثاني خلال عام واحد بفضل وحدات الطاقة للذكاء الاصطناعي (تضاعفت قيمتها السوقية نحو خمس مرات)، وانفجرت ميدياتك (MediaTek)، ودخلت أسماء مثل Elite Material وAVC وChroma وAccton وYageo — من لوحات PCB والركائز إلى التبريد والاختبار والشبكات — ضمن أكبر 50 شركة، فأزاحت نحو 20 وجهاً قديماً.',
+      'منذ لقطة يونيو أُعيد خلط القائمة مجددًا. صعدت MediaTek إلى المركز 2 (نحو 6.4 تريليون) بينما تراجعت Delta من المركز 2 إلى 3 (نحو 4.1 تريليون، أي أقل من يونيو بنحو 30%). قفزت Nan Ya Plastics من المركز 20 إلى 6، وتضاعفت Nanya Technology لتصل إلى المركز 13، وتضاعفت King Slide وLargan أكثر من مرتين. دخلت خمسة أسماء — ASPEED وAdvantech وKinsus وPharmaEssentia وMPI — بدل Uni-President وFar EasTone وBizLink وKYEC وWinway؛ وارتفع حد المركز 50 من نحو 350 مليار إلى 453 مليار دولار تايواني.',
     'data.companies.table.heading': '📋 الترتيب الكامل',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'الشركة',
@@ -3616,21 +3727,20 @@ export const dataUI = {
     'data.companies.table.employees': 'عدد الموظفين',
     'data.companies.table.founded': 'سنة التأسيس',
     'data.companies.insights.heading': '🔍 رؤى أساسية',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label':
       'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.companies.insights.card1.detail':
-      'ارتفعت من 39%، شركة واحدة تعادل أربعة أخماس مجموع كل ما تبقى',
-    'data.companies.insights.card2.number': '61%',
+      'شركة واحدة ≈ 70% من مجموع بقية شركات TWSE',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'حصة أكبر 10 أسهم وزناً من إجمالي القيمة السوقية',
     'data.companies.insights.card2.detail':
       'تركز عالٍ في عدد قليل من الأسهم الكبيرة',
-    'data.companies.insights.card3.number': 'حوالي 20',
-    'data.companies.insights.card3.label':
-      'دخلت القائمة خلال العامين الماضيين بفضل سلسلة التوريد الخاصة بالذكاء الاصطناعي',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': 'داخلون جدد منذ لقطة يونيو',
     'data.companies.insights.card3.detail':
-      'PCB/اللوحات الداعمة، التبريد، الاختبار، الاتصالات، لم تكن موجودة على القائمة قبل عامين',
+      'ASPEED (رقائق BMC للخوادم)، Advantech (حواسيب صناعية)، Kinsus (ركائز الدوائر المتكاملة)، PharmaEssentia (تقنية حيوية)، MPI (بطاقات المسبار)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'عدد الشركات المالية القابضة ضمن أكبر 50',
@@ -3638,11 +3748,11 @@ export const dataUI = {
       'بعد الدمج، أصبحت الحجر الأساس الأكثر استقرارًا في المؤشر',
     'data.companies.fellOff.title': '📉 من سقط من القائمة',
     'data.companies.fellOff.intro':
-      'لإعادة التسعير في عصر الذكاء الاصطناعي خاسرون أيضاً. هذه الأسماء المألوفة لدى كل تايواني — الصلب والأسمنت والنسيج والدراجات ونجم الهواتف الذكية السابق — انزلقت خارج قائمة أكبر 50 شركة عندما تدفقت الأموال نحو سلسلة توريد الذكاء الاصطناعي.',
+      'للخروج من القائمة نوعان. الصلب والإسمنت والنسيج والدراجات ونجم الهواتف الذكية السابق خرجوا مبكرًا من أكبر 50 مع تدفق رأس المال إلى سلسلة الذكاء الاصطناعي. ومنذ يونيو ارتفع حد المركز 50 من نحو 350 مليار إلى 453 مليار دولار تايواني فأُزيحت خمس شركات أخرى.',
     'data.companies.fellOff.marketCapNow': 'القيمة السوقية الحالية',
     'data.companies.method.heading': '📝 شرح المنهجية',
     'data.companies.method.body':
-      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة TSMC (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تُحتسب للشركات المالية القابضة إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
+      'القيمة السوقية = سعر إغلاق 22/10/2026 × الأسهم العادية القائمة (واجهة TWSE وTPEx المفتوحة؛ المدرجة والمتداولة خارج البورصة، دون السوق الناشئ). تُقاس حصة TSMC وحصة أكبر 10 إلى إجمالي TWSE (نحو 150.8 تريليون دولار تايواني)، وحصة أكبر 50 إلى TWSE زائد TPEx (نحو 161.4 تريليون). الإيرادات هي الموحدة لعام 2025 كاملًا (للقابضة المالية: الإيرادات التشغيلية الموحدة شاملة التأمين)؛ وتعتمد الشركات الخمس الجديدة إيرادات 2025 المعلنة مقربة إلى 100 مليون دولار تايواني، وبقية الشركات من نسخة يونيو. عدد الموظفين تقريبي على أساس المجموعة/الموحد حيثما أمكن، وتختلف التعريفات، فاقرأه كرتبة حجم. وللخمس الجديدة هو أحدث رقم وجدناه: ASPEED نحو 140 (تقرير صحفي)، Advantech 8,849 وPharmaEssentia 600 (تقارير 2024)، Kinsus 6,401 (نهاية 2024)، MPI نحو 1,800 (مصدر بلا تاريخ).',
     'data.companies.related': '📖 قراءة إضافية',
 
     // Category 1: Government Open Data
@@ -3755,24 +3865,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'كيف يمكن لجزيرة أن تدعم سلسلة التوريد العالمية؟',
     'data.enterprise.story.p2':
-      'من القيمة السوقية لشركة TSMC البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسكون (Foxconn)، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم «درع السيليكون»، وتدعم 12 شركة مالية قابضة الاستقرار المالي، وتربط عمالقة التصنيع التعاقدي الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
+      'يكشف مخطط الفقاعات التفاعلي أدناه الحمض النووي الاقتصادي لتايوان — وحدها TSMC (نحو 61.8 تريليون دولار تايواني) تمثل 41.0% من إجمالي القيمة السوقية لبورصة TWSE، أي نحو 70% من القيمة المجمعة لبقية الشركات المدرجة. وخلف رواية "درع السيليكون" منظومة مركزة من التصنيع الدقيق، من تجميع الإلكترونيات الضخم لدى Foxconn إلى إمبراطورية تغليف أشباه الموصلات لدى ASE.',
     'data.enterprise.controls.sizeLabel': 'حجم الفقاعة:',
     'data.enterprise.controls.marketCap': 'القيمة السوقية',
     'data.enterprise.controls.revenue': 'الإيرادات',
     'data.enterprise.controls.employees': 'عدد الموظفين',
     'data.enterprise.controls.filterAll': 'الكل',
     'data.enterprise.insights.heading': 'رؤى رئيسية',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label':
       'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.enterprise.insights.card1.detail':
       'شركة واحدة ≈ ثلثا (2/3) الشركات المدرجة الأخرى مجتمعة',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       'تمثل أكبر 50 شركة من إجمالي القيمة السوقية لسوق تايوان للأسهم',
     'data.enterprise.insights.card2.detail':
       'تركز سوق تايوان للأسهم بشكل كبير على الشركات الكبرى',
-    'data.enterprise.insights.card3.number': '12 شركة',
+    'data.enterprise.insights.card3.number': '8 شركة',
     'data.enterprise.insights.card3.label':
       'شركات أشباه الموصلات مدرجة في القائمة',
     'data.enterprise.insights.card3.detail':
@@ -4074,6 +4184,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -4083,6 +4197,7 @@ export const dataUI = {
     'data.sector.networking': 'Сетевое оборудование',
     'data.sector.cooling': 'Охлаждение',
     'data.sector.testing': 'Тестирование',
+    'data.sector.biotech': 'Биотехнологии',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel':
@@ -4095,24 +4210,34 @@ export const dataUI = {
       'Спад в полиэфирной и химической промышленности, традиционные отрасли без ИИ-тематики',
     'data.fellOff.giant-manufacturing':
       'Списание запасов велосипедов, выручка снижалась три года подряд',
+    'data.fellOff.uni-president':
+      'Капитализация выросла примерно на 8% с июня, но недостаточно: 51-е место, сразу за порогом',
+    'data.fellOff.fareastone':
+      'Рост около 19% с июня, всё ещё ниже порога: 56-е место',
+    'data.fellOff.bizlink':
+      'Капитализация снизилась примерно на 35% от июньского среза: 58-е место',
+    'data.fellOff.kyec':
+      'Капитализация снизилась примерно на 14% от июньского среза: 62-е место',
+    'data.fellOff.winway':
+      'Акция упала примерно на 40%: с 8 085 TWD в конце июня до 4 795 TWD',
 
     // Standalone /companies page
     'data.companies.meta.title':
       'Топ-50 компаний Тайваня — пересортировка в эпоху ИИ',
     'data.companies.meta.description':
-      'Интерактивная пузырьковая диаграмма капитализации, выручки и численности персонала топ-50 публичных компаний Тайваня, а также того, как цепочка поставок ИИ переписывает рейтинги (снимок от 2026/06).',
+      'Интерактивная пузырьковая диаграмма 50 крупнейших публичных компаний Тайваня по капитализации, выручке и численности — и как цепочка поставок ИИ продолжает переписывать рейтинг (срез на 22.10.2026).',
     'data.companies.hero.title': 'Топ-50 компаний Тайваня',
     'data.companies.hero.subtitle':
       'Площадь пузыря = капитализация, отраслевая карта острова с населением 23 млн человек',
     'data.companies.hero.description':
       'Чем больше пузырь, тем выше капитализация; цвет обозначает отрасль. Можно переключать выручку/численность персонала, фильтровать по тегам отраслей, перетаскивать пузыри.',
     'data.companies.snapshot':
-      '📊 Источники данных: TWSE, годовая отчетность о выручке за 2025 год, годовые отчеты компаний · снимок от 2026/06 (приблизительные значения, не являются инвестиционной рекомендацией)',
+      '📊 Источник: OpenAPI TWSE и TPEx (цена закрытия × акции в обращении), данные о выручке за 2025 год, годовые отчёты · Срез на 22.10.2026 (приблизительно, не инвестиционный совет)',
     'data.companies.story.title': 'Волна ИИ переоценивает весь остров',
     'data.companies.story.p1':
-      'За два года внедрение ИИ переписало корпоративные рейтинги Тайваня. Одна лишь TSMC занимает 43,8% всего рынка (с ростом с 39%), а на долю топ-10 акций с наибольшим весом приходится около 61%.',
+      'Всего за два года бум ИИ переписал корпоративный рейтинг Тайваня. Одна TSMC (около 61,8 трлн тайваньских долларов) занимает 41,0% суммарной капитализации TWSE, а 10 крупнейших акций — около 59%.',
     'data.companies.story.p2':
-      'После TSMC выросли все участники цепочки поставок ИИ: Delta Electronics благодаря ИИ-блокам питания за год поднялась на 2-е место (капитализация выросла примерно в 5 раз), MediaTek взорвала объемы, а такие компании, как Elite Material, AVC, Chroma, Accton, Yageo и другие из сферы печатных плат/подложек, охлаждения, тестирования и сетевого оборудования вытеснили около 20 старых игроков из топ-50.',
+      'С июньского среза список снова перетасовался. MediaTek поднялась на 2-е место (около 6,4 трлн), а Delta опустилась со 2-го на 3-е (около 4,1 трлн, примерно на 30% ниже июня). Nan Ya Plastics прыгнула с 20-го на 6-е место, Nanya Technology удвоилась и вышла на 13-е, King Slide и Largan выросли более чем вдвое. Вошли пять компаний — ASPEED, Advantech, Kinsus, PharmaEssentia и MPI — вместо Uni-President, Far EasTone, BizLink, KYEC и Winway; порог 50-го места вырос с примерно 350 млрд до 453 млрд.',
     'data.companies.table.heading': '📋 Полный рейтинг',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Компания',
@@ -4122,21 +4247,20 @@ export const dataUI = {
     'data.companies.table.employees': 'Численность персонала',
     'data.companies.table.founded': 'Основана',
     'data.companies.insights.heading': '🔍 Ключевые выводы',
-    'data.companies.insights.card1.number': '43,8%',
+    'data.companies.insights.card1.number': '41,0%',
     'data.companies.insights.card1.label':
       'Доля TSMC в общей капитализации тайваньской фондовой биржи',
     'data.companies.insights.card1.detail':
-      'Рост с 39%: одна компания равна четырем пятым от суммы всех остальных',
-    'data.companies.insights.card2.number': '61%',
+      'Одна компания ≈ 70% всех остальных компаний TWSE вместе взятых',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Доля топ-10 весовых акций в общей капитализации',
     'data.companies.insights.card2.detail':
       'Высокая концентрация в нескольких крупных акциях',
-    'data.companies.insights.card3.number': 'Около 20',
-    'data.companies.insights.card3.label':
-      'Новичков в рейтинге благодаря цепочке поставок ИИ за два года',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': 'Новые участники с июньского среза',
     'data.companies.insights.card3.detail':
-      'Печатные платы/подложки, охлаждение, тестирование, телекоммуникации — два года назад их здесь не было',
+      'ASPEED (серверные BMC-чипы), Advantech (промышленные ПК), Kinsus (подложки для ИС), PharmaEssentia (биотех), MPI (зондовые карты)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Количество финансовых холдингов в топ-50',
@@ -4144,11 +4268,11 @@ export const dataUI = {
       'После слияний — самый стабильный «балласт» в индексе',
     'data.companies.fellOff.title': '📉 Кто выбыл из рейтинга',
     'data.companies.fellOff.intro':
-      'Переоценка ИИ создаёт и проигравших. Эти национальные имена — сталь, цемент, текстиль, велосипеды, бывшие звёзды мобильной индустрии — выскользнули из топ-50, когда капитал устремился в цепочки поставок ИИ.',
+      'Выпасть из списка можно двумя способами. Сталь, цемент, текстиль, велосипеды и бывшая звезда смартфонов вышли из топ-50 раньше, когда капитал хлынул в цепочку ИИ. С июня порог 50-го места вырос с примерно 350 млрд до 453 млрд, и вытеснены ещё пять компаний.',
     'data.companies.fellOff.marketCapNow': 'Текущая капитализация',
     'data.companies.method.heading': '📝 Методология',
     'data.companies.method.body':
-      'Капитализация рассчитана на основе весовых коэффициентов акций на TWSE за июнь 2026 года, умноженных на общую капитализацию рынка, зафиксированную на TSMC (около 59 трлн NT$ / 43,8%). Выручка — консолидированная за полный 2025 год (для финансовых холдингов используется консолидированный операционный доход, включая страхование). Численность персонала — приблизительная, по возможности взята на уровне группы/консолидированной отчетности, но диапазоны признания различаются; воспринимайте ось численности персонала как порядок величины, а не как точное сравнение.',
+      'Капитализация = цена закрытия 22.10.2026 × обыкновенные акции в обращении (OpenAPI TWSE и TPEx; листинговые и внебиржевые, без растущего рынка). Доли TSMC и топ-10 считаются от общей капитализации TWSE (около 150,8 трлн), доля топ-50 — от TWSE плюс TPEx (около 161,4 трлн). Выручка — консолидированная за 2025 год (для финансовых холдингов — консолидированная операционная выручка, включая страхование); у пяти новичков — объявленная выручка за 2025 год, округлённая до 100 млн, у остальных — из июньской версии. Численность приблизительна, по группе/консолидации, где возможно; определения различаются, читайте как порядок величины. Для пяти новичков — последние найденные данные: ASPEED около 140 (пресса), Advantech 8 849 и PharmaEssentia 600 (отчёты 2024), Kinsus 6 401 (конец 2024), MPI около 1 800 (источник без даты).',
     'data.companies.related': '📖 Дополнительные материалы',
 
     // Category 1: Government Open Data
@@ -4269,24 +4393,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Как остров удерживает глобальную цепочку поставок?',
     'data.enterprise.story.p2':
-      'От капитализации TSMC в 2,67 млрд до 870 тысяч сотрудников Foxconn, топ-50 компаний Тайваня составляют экономический хребет этого острова. 12 полупроводниковых компаний подтверждают название «кремниевый щит», 12 финансовых холдингов обеспечивают финансовую стабильность, гиганты контрактного производства связывают глобальную цифровую жизнь. Исследуйте с помощью пузырьковой диаграммы, как Тайвань, имея 2% мирового населения, создаёт 4% мирового ВВП.',
+      'Интерактивная пузырьковая диаграмма ниже показывает экономическую ДНК Тайваня: одна TSMC (около 61,8 трлн тайваньских долларов) — это 41,0% общей капитализации TWSE, примерно 70% совокупной стоимости всех остальных публичных компаний. За рассказом о «Кремниевом щите» стоит сконцентрированная экосистема точного производства — от гигантской сборки электроники Foxconn до империи упаковки полупроводников ASE.',
     'data.enterprise.controls.sizeLabel': 'Размер пузыря:',
     'data.enterprise.controls.marketCap': 'Рыночная капитализация',
     'data.enterprise.controls.revenue': 'Выручка',
     'data.enterprise.controls.employees': 'Численность сотрудников',
     'data.enterprise.controls.filterAll': 'Все',
     'data.enterprise.insights.heading': 'Ключевые выводы',
-    'data.enterprise.insights.card1.number': '43,8%',
+    'data.enterprise.insights.card1.number': '41,0%',
     'data.enterprise.insights.card1.label':
       'Доля TSMC в общей рыночной капитализации Тайваня',
     'data.enterprise.insights.card1.detail':
       'Одна компания ≈ 2/3 от совокупной стоимости остальных 1000 публичных компаний',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label':
       'Доля 50 крупнейших компаний в общей рыночной капитализации Тайваня',
     'data.enterprise.insights.card2.detail':
       'Тайваньский фондовый рынок высоко концентрирован вокруг крупных корпораций',
-    'data.enterprise.insights.card3.number': '12 компаний',
+    'data.enterprise.insights.card3.number': '8 компаний',
     'data.enterprise.insights.card3.label':
       'Полупроводниковые предприятия в списке',
     'data.enterprise.insights.card3.detail':
@@ -4559,7 +4683,8 @@ export const dataUI = {
     'data.company.fareastone': 'Far EasTone',
     'data.company.hua-nan-financial': 'Hua Nan Financial Holding',
     'data.company.lite-on-technology': 'Lite-On Technology',
-    'data.company.taiwan-cooperative-bank': 'Taiwan Cooperative Financial Holding',
+    'data.company.taiwan-cooperative-bank':
+      'Taiwan Cooperative Financial Holding',
     'data.company.catcher-technology': 'Catcher Technology',
     'data.company.taiwan-high-speed-rail': 'Taiwan High Speed Rail',
     'data.company.htc': 'HTC',
@@ -4590,6 +4715,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding',
     'data.company.sinopac-financial': 'SinoPac',
     'data.company.winbond': 'Winbond',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay',
     'data.company.king-slide': 'King Slide',
     'data.company.kyec': 'KYEC',
@@ -4599,29 +4728,47 @@ export const dataUI = {
     'data.sector.networking': 'Netzwerktechnik',
     'data.sector.cooling': 'Kühltechnik',
     'data.sector.testing': 'Prüftechnik',
+    'data.sector.biotech': 'Biotechnologie',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
-    'data.fellOff.china-steel': 'Schwache Stahlkonjunktur, Verluste seit mehreren Jahren und kein Anschluss an den AI-Boom',
-    'data.fellOff.htc': 'Scheitern im Smartphone-Markt; VR／XR erreichte keine ausreichende Größenordnung',
-    'data.fellOff.taiwan-cement': 'Schwaches Zementgeschäft; der Ausbau der Energiespeicherung hat noch kein nennenswertes Volumen erreicht',
-    'data.fellOff.far-eastern-new-century': 'Abschwung bei Polyester und Chemiefasern; traditionellen Industrien fehlt der AI-Schub',
-    'data.fellOff.giant-manufacturing': 'Lagerabbau bei Fahrrädern; Umsatz seit drei Jahren rückläufig',
+    'data.fellOff.china-steel':
+      'Schwache Stahlkonjunktur, Verluste seit mehreren Jahren und kein Anschluss an den AI-Boom',
+    'data.fellOff.htc':
+      'Scheitern im Smartphone-Markt; VR／XR erreichte keine ausreichende Größenordnung',
+    'data.fellOff.taiwan-cement':
+      'Schwaches Zementgeschäft; der Ausbau der Energiespeicherung hat noch kein nennenswertes Volumen erreicht',
+    'data.fellOff.far-eastern-new-century':
+      'Abschwung bei Polyester und Chemiefasern; traditionellen Industrien fehlt der AI-Schub',
+    'data.fellOff.giant-manufacturing':
+      'Lagerabbau bei Fahrrädern; Umsatz seit drei Jahren rückläufig',
+    'data.fellOff.uni-president':
+      'Marktkapitalisierung seit Juni um etwa 8 % gestiegen, aber nicht schnell genug: Platz 51, knapp unter der Schwelle',
+    'data.fellOff.fareastone':
+      'Seit Juni rund 19 % im Plus, immer noch unter der Schwelle: Platz 56',
+    'data.fellOff.bizlink':
+      'Marktkapitalisierung gegenüber dem Juni-Stichtag um etwa 35 % gesunken: Platz 58',
+    'data.fellOff.kyec':
+      'Marktkapitalisierung gegenüber dem Juni-Stichtag um etwa 14 % gesunken: Platz 62',
+    'data.fellOff.winway':
+      'Aktienkurs um etwa 40 % gefallen, von 8.085 NT$ Ende Juni auf 4.795 NT$',
 
     // Standalone /companies page
-    'data.companies.meta.title': 'Taiwans 50 größte Unternehmen — Neuordnung im AI-Zeitalter',
+    'data.companies.meta.title':
+      'Taiwans 50 größte Unternehmen — Neuordnung im AI-Zeitalter',
     'data.companies.meta.description':
-      'Eine interaktive Blasengrafik zeigt Marktkapitalisierung, Umsatz und Beschäftigtenzahl der 50 wertvollsten börsennotierten Unternehmen Taiwans sowie die Neuordnung der Rangliste durch die AI-Lieferkette (snapshot 2026/06).',
+      'Interaktive Blasengrafik der 50 größten börsennotierten Unternehmen Taiwans nach Marktkapitalisierung, Umsatz und Beschäftigten — und wie die KI-Lieferkette die Rangliste immer wieder neu schreibt (Stichtag 22.10.2026).',
     'data.companies.hero.title': 'Taiwans 50 größte Unternehmen',
-    'data.companies.hero.subtitle': 'Die Blasenfläche entspricht der Marktkapitalisierung – die Industrielandschaft einer Insel mit 2300 Mio. Menschen',
+    'data.companies.hero.subtitle':
+      'Die Blasenfläche entspricht der Marktkapitalisierung – die Industrielandschaft einer Insel mit 2300 Mio. Menschen',
     'data.companies.hero.description':
       'Je größer die Blase, desto höher die Marktkapitalisierung; die Farbe kennzeichnet die Branche. Wechsel zwischen Umsatz／Beschäftigtenzahl, Filterung über Branchenlabels und Ziehen der Blasen möglich.',
     'data.companies.snapshot':
-      '📊 Datenquellen: TWSE, Umsatzmeldungen für das Gesamtjahr 2025, Geschäftsberichte der Unternehmen · snapshot 2026/06 (Näherungswerte, keine Anlageberatung)',
+      '📊 Quelle: OpenAPI von TWSE und TPEx (Schlusskurs × ausstehende Aktien), Umsatzmeldungen für das Gesamtjahr 2025, Geschäftsberichte · Stichtag 22.10.2026 (Näherungswerte, keine Anlageberatung)',
     'data.companies.story.title': 'Die AI-Welle bewertet die gesamte Insel neu',
     'data.companies.story.p1':
-      'In nur zwei Jahren hat der AI-Ausbau Taiwans Unternehmensrangliste neu geschrieben. Allein TSMC macht 43.8% des Gesamtmarkts aus – nach einem stetigen Anstieg von 39% – und die 10 größten Indexschwergewichte kommen zusammen auf rund 61%.',
+      'In nur zwei Jahren hat der KI-Ausbau die Unternehmensrangliste Taiwans neu geschrieben. Allein TSMC (rund 61,8 Billionen NT$) macht 41,0 % der gesamten Marktkapitalisierung der TWSE aus, die zehn größten Aktien zusammen etwa 59 %.',
     'data.companies.story.p2':
-      'Hinter TSMC stammen sämtliche Aufsteiger aus der AI-Lieferkette: Delta Electronics sprang dank Stromversorgungssystemen für AI binnen eines Jahres auf Platz 2 – bei einer etwa verfünffachten Marktkapitalisierung –, MediaTek legte stark zu, und zahlreiche Namen aus den Bereichen PCB／Substrate, Kühlung, Prüftechnik und Netzwerktechnik wie Elite Material, AVC, Chroma, Accton und Yageo rückten in die Top 50 vor und verdrängten rund 20 bisherige Unternehmen.',
+      'Seit dem Juni-Stichtag wurde die Liste erneut durchgemischt. MediaTek rückte auf Platz 2 vor (rund 6,4 Billionen), Delta fiel von Platz 2 auf 3 (rund 4,1 Billionen, etwa 30 % unter Juni). Nan Ya Plastics sprang von Platz 20 auf 6, Nanya Technology verdoppelte sich und landet auf Platz 13, King Slide und Largan legten beide um mehr als das Doppelte zu. Fünf Namen kamen neu hinein — ASPEED, Advantech, Kinsus, PharmaEssentia und MPI — und verdrängten Uni-President, Far EasTone, BizLink, KYEC und Winway; die Schwelle für Platz 50 stieg von rund 350 Mrd. auf 453 Mrd. NT$.',
     'data.companies.table.heading': '📋 Vollständige Rangliste',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Unternehmen',
@@ -4631,78 +4778,100 @@ export const dataUI = {
     'data.companies.table.employees': 'Beschäftigte',
     'data.companies.table.founded': 'Gegründet',
     'data.companies.insights.heading': '🔍 Zentrale Erkenntnisse',
-    'data.companies.insights.card1.number': '43.8%',
-    'data.companies.insights.card1.label': 'Anteil von TSMC am Gesamtmarktwert taiwanischer Aktien',
+    'data.companies.insights.card1.number': '41.0%',
+    'data.companies.insights.card1.label':
+      'Anteil von TSMC am Gesamtmarktwert taiwanischer Aktien',
     'data.companies.insights.card1.detail':
-      'Von 39% gestiegen – ein einziges Unternehmen entspricht etwa vier Fünfteln aller übrigen zusammen',
-    'data.companies.insights.card2.number': '61%',
-    'data.companies.insights.card2.label': 'Anteil der 10 größten Indexschwergewichte am Gesamtmarktwert',
-    'data.companies.insights.card2.detail': 'Starke Konzentration auf wenige Großunternehmen',
-    'data.companies.insights.card3.number': 'rund 20',
-    'data.companies.insights.card3.label': 'Durch die AI-Lieferkette binnen zwei Jahren neu in der Rangliste',
+      'Ein Unternehmen ≈ 70 % aller übrigen TWSE-Unternehmen zusammen',
+    'data.companies.insights.card2.number': '59%',
+    'data.companies.insights.card2.label':
+      'Anteil der 10 größten Indexschwergewichte am Gesamtmarktwert',
+    'data.companies.insights.card2.detail':
+      'Starke Konzentration auf wenige Großunternehmen',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': 'Neu dabei seit dem Juni-Stichtag',
     'data.companies.insights.card3.detail':
-      'PCB／Trägersubstrate, Kühlung, Tests und Netzwerktechnik – vor zwei Jahren noch nicht in der Rangliste',
+      'ASPEED (Server-BMC-Chips), Advantech (Industrie-PCs), Kinsus (IC-Substrate), PharmaEssentia (Biotech), MPI (Probe Cards)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label': 'Finanzholdings unter den Top 50',
-    'data.companies.insights.card4.detail': 'Nach den Fusionen die stabilsten Anker des Index',
+    'data.companies.insights.card4.detail':
+      'Nach den Fusionen die stabilsten Anker des Index',
     'data.companies.fellOff.title': '📉 Wer aus der Rangliste gefallen ist',
     'data.companies.fellOff.intro':
-      'Die Neubewertung durch AI kennt auch Verlierer. Diese landesweit bekannten Namen aus Stahl, Zement, Textilien und Fahrradbau sowie einstige Mobiltelefonstars rutschten aus den Top 50, als Kapital in die AI-Lieferkette strömte.',
+      'Es gibt zwei Arten, aus der Liste zu fallen. Stahl, Zement, Textilien, Fahrräder und ein früherer Smartphone-Star rutschten schon früher aus den Top 50, als das Kapital in die KI-Kette strömte. Seit Juni stieg die Schwelle für Platz 50 von rund 350 Mrd. auf 453 Mrd. NT$, und fünf weitere wurden hinausgedrängt.',
     'data.companies.fellOff.marketCapNow': 'Aktueller Marktwert',
     'data.companies.method.heading': '📝 Methodik',
     'data.companies.method.body':
-      'Der Marktwert wurde anhand der Indexgewichtung der einzelnen Aktien an der TWSE im 2026/06 berechnet, multipliziert mit dem Gesamtmarktwert, der über TSMC (rund NT$59 Bio.／43.8%) verankert wurde. Der Umsatz entspricht dem konsolidierten Gesamtjahresumsatz 2025; bei Finanzholdings gilt der konsolidierte Betriebsertrag einschließlich Versicherungen. Die Beschäftigtenzahlen sind Näherungswerte und beruhen möglichst auf Konzern- beziehungsweise Konsolidierungsbasis, doch der Erfassungsumfang unterscheidet sich je nach Unternehmen. Diese Achse ist daher als Größenordnung und nicht als präziser Vergleich zu verstehen.',
+      'Marktkapitalisierung = Schlusskurs vom 22.10.2026 × ausstehende Stammaktien (OpenAPI von TWSE und TPEx; börsen- und OTC-notiert, ohne Emerging Board). Der Anteil von TSMC und der Top 10 bezieht sich auf die TWSE-Gesamtsumme (rund 150,8 Billionen NT$), der Anteil der Top 50 auf TWSE plus TPEx (rund 161,4 Billionen). Der Umsatz ist der konsolidierte Umsatz des Gesamtjahres 2025 (bei Finanzholdings der konsolidierte operative Ertrag einschließlich Versicherung); die fünf Neuzugänge nutzen ihren gemeldeten Umsatz 2025, auf 100 Mio. NT$ gerundet, die übrigen stammen aus der Juni-Fassung. Beschäftigtenzahlen sind Näherungen auf Konzern-/konsolidierter Basis, soweit verfügbar; Definitionen unterscheiden sich, lesen Sie sie als Größenordnung. Für die fünf Neuzugänge sind es die neuesten auffindbaren Zahlen: ASPEED rund 140 (Presse), Advantech 8.849 und PharmaEssentia 600 (Berichte 2024), Kinsus 6.401 (Ende 2024), MPI rund 1.800 (Quelle ohne Jahr).',
     'data.companies.related': '📖 Weiterlesen',
 
     // Category 1: Government Open Data
     'data.category.1.title': 'Offene Regierungsdaten',
-    'data.category.1.description': 'Strukturierte Datensätze und Statistikportale staatlicher Stellen',
+    'data.category.1.description':
+      'Strukturierte Datensätze und Statistikportale staatlicher Stellen',
     'data.category.1.item.1.name': 'Regierungsportal für offene Daten',
     'data.category.1.item.1.desc':
       '2020 entwickelten Fachleute mit den dortigen Daten innerhalb von 72 Stunden eine Maskenkarte und lösten damit das Problem der Warteschlangen vor Apotheken im ganzen Land',
-    'data.category.1.item.2.name': 'Statistikdatenbank der Generaldirektion für Haushalt, Rechnungswesen und Statistik',
-    'data.category.1.item.2.desc': 'Zentrale nationale Statistiken zu Bevölkerung, Wirtschaft, Preisen und weiteren Bereichen',
+    'data.category.1.item.2.name':
+      'Statistikdatenbank der Generaldirektion für Haushalt, Rechnungswesen und Statistik',
+    'data.category.1.item.2.desc':
+      'Zentrale nationale Statistiken zu Bevölkerung, Wirtschaft, Preisen und weiteren Bereichen',
     'data.category.1.item.3.name': 'Wahldatenbank der Zentralen Wahlkommission',
-    'data.category.1.item.3.desc': 'Ergebnisse und Abstimmungsdaten vergangener Wahlen',
+    'data.category.1.item.3.desc':
+      'Ergebnisse und Abstimmungsdaten vergangener Wahlen',
     'data.category.1.item.4.name': 'Nationale Rechtsdatenbank',
-    'data.category.1.item.4.desc': 'Volltextsuche in sämtlichen Gesetzen, Verordnungen und Präzedenzfällen',
+    'data.category.1.item.4.desc':
+      'Volltextsuche in sämtlichen Gesetzen, Verordnungen und Präzedenzfällen',
     'data.category.1.item.5.name': 'Messnetz für Luftqualität',
     'data.category.1.item.5.desc': 'Echtzeit-Messdaten zu AQI und PM2.5',
 
     // Category 2: Interactive Maps & Visualization
     'data.category.2.title': 'Interaktive Karten und Visualisierungen',
-    'data.category.2.description': 'Werkzeuge für Echtzeitüberwachung, Geodaten und Umweltvisualisierung',
-    'data.category.2.item.1.name': 'Interaktive Karte der Unterseekabel Taiwans',
-    'data.category.2.item.1.desc': 'Privat entwickelte Echtzeitüberwachung von Unterseekabeln,ein Vorbild für Civic Tech',
-    'data.category.2.item.2.name': 'Cloud-Dienst für nationale Vermessungs- und Geodaten',
-    'data.category.2.item.2.desc': 'Kartenmaterial, Luftbilder und Katasterdaten aus Taiwan',
+    'data.category.2.description':
+      'Werkzeuge für Echtzeitüberwachung, Geodaten und Umweltvisualisierung',
+    'data.category.2.item.1.name':
+      'Interaktive Karte der Unterseekabel Taiwans',
+    'data.category.2.item.1.desc':
+      'Privat entwickelte Echtzeitüberwachung von Unterseekabeln,ein Vorbild für Civic Tech',
+    'data.category.2.item.2.name':
+      'Cloud-Dienst für nationale Vermessungs- und Geodaten',
+    'data.category.2.item.2.desc':
+      'Kartenmaterial, Luftbilder und Katasterdaten aus Taiwan',
     'data.category.2.item.3.name': 'Zentrum für Erdbebenmessung und -meldung',
-    'data.category.2.item.3.desc': 'Erdbebeninformationen in Echtzeit und historische Aufzeichnungen',
+    'data.category.2.item.3.desc':
+      'Erdbebeninformationen in Echtzeit und historische Aufzeichnungen',
     'data.category.2.item.4.name': 'Katastrophenschutzportal der Wasserbehörde',
-    'data.category.2.item.4.desc': 'Wasserlage, Flusspegel und Reservoirfüllstände in Echtzeit',
+    'data.category.2.item.4.desc':
+      'Wasserlage, Flusspegel und Reservoirfüllstände in Echtzeit',
     'data.category.2.item.5.name': 'Umweltdaten in Echtzeit',
-    'data.category.2.item.5.desc': 'Echtzeitüberwachung von Luftqualität, UV-Strahlung und Wasserqualität',
+    'data.category.2.item.5.desc':
+      'Echtzeitüberwachung von Luftqualität, UV-Strahlung und Wasserqualität',
 
     // Category 3: Civic Tech
     'data.category.3.title': 'Civic Tech',
-    'data.category.3.description': 'Open-Source-Communitys, Faktenprüfung und Werkzeuge für digitale Demokratie',
+    'data.category.3.description':
+      'Open-Source-Communitys, Faktenprüfung und Werkzeuge für digitale Demokratie',
     'data.category.3.item.1.name': 'g0v – Null-Regierung',
     'data.category.3.item.1.desc':
       '2012 gegründet, brachte die Community Civic-Tech-Projekte wie die Maskenkarte, Cofacts und vTaiwan hervor, die Taiwan verändert haben',
     'data.category.3.item.2.name': 'KKTIX-Veranstaltungen zu Civic Tech',
-    'data.category.3.item.2.desc': 'Zugang zu g0v-Hackathons und Veranstaltungen der Open-Data-Community',
+    'data.category.3.item.2.desc':
+      'Zugang zu g0v-Hackathons und Veranstaltungen der Open-Data-Community',
     'data.category.3.item.3.name': 'Cofacts – wahr oder falsch',
     'data.category.3.item.3.desc':
       'Jeder kann über LINE-Gruppen weitergeleitete Falschmeldungen zur Prüfung einreichen; inzwischen liegen Zehntausende Prüfberichte vor',
     'data.category.3.item.4.name': 'vTaiwan',
     'data.category.3.item.4.desc':
       'Ermittelt mit dem Polis-Algorithmus Konsens und hat politische Regelungen zu Uber, Fernunterricht und weiteren Themen erfolgreich beeinflusst',
-    'data.category.3.item.5.name': 'JOIN – Plattform für politische Beteiligung',
-    'data.category.3.item.5.desc': 'Regierungsvorschläge, Petitionen und politische Diskussionen',
+    'data.category.3.item.5.name':
+      'JOIN – Plattform für politische Beteiligung',
+    'data.category.3.item.5.desc':
+      'Regierungsvorschläge, Petitionen und politische Diskussionen',
 
     // Category 4: Data Journalism & Fact-Checking
     'data.category.4.title': 'Datenjournalismus und Faktenprüfung',
-    'data.category.4.description': 'Investigative Recherchen, Faktenprüfung und datenjournalistische Medien',
+    'data.category.4.description':
+      'Investigative Recherchen, Faktenprüfung und datenjournalistische Medien',
     'data.category.4.item.1.name': 'The Reporter',
     'data.category.4.item.1.desc':
       '2015 gegründet, Taiwans erstes gemeinnütziges Medium für investigative Recherchen, das wiederholt bedeutende öffentliche Themen aufgedeckt hat',
@@ -4710,20 +4879,27 @@ export const dataUI = {
     'data.category.4.item.2.desc':
       'Von der International Fact-Checking Network (IFCN) zertifiziert und externer Faktenprüfungspartner von Facebook',
     'data.category.4.item.3.name': 'READr 讀+',
-    'data.category.4.item.3.desc': 'Datenjournalismus und visualisierte Berichte mit offenen Daten',
+    'data.category.4.item.3.desc':
+      'Datenjournalismus und visualisierte Berichte mit offenen Daten',
     'data.category.4.item.4.name': 'ARTouch',
-    'data.category.4.item.4.desc': 'Taiwanisches Medium für Kunstnachrichten und fundierte Kommentare',
+    'data.category.4.item.4.desc':
+      'Taiwanisches Medium für Kunstnachrichten und fundierte Kommentare',
 
     // Category 5: Academic & Research
     'data.category.5.title': 'Wissenschaft und Forschung',
-    'data.category.5.description': 'Digitale Archive, Biodiversitätsdaten und AI-Korpora',
+    'data.category.5.description':
+      'Digitale Archive, Biodiversitätsdaten und AI-Korpora',
     'data.category.5.item.1.name': 'Offenes Museum der Academia Sinica',
     'data.category.5.item.1.desc': 'Digitale Sammlungen und Online-Kuration',
-    'data.category.5.item.2.name': 'Nationale Datenbank des kulturellen Gedächtnisses',
-    'data.category.5.item.2.desc': 'Digitale Bewahrung des kulturellen Gedächtnisses Taiwans',
+    'data.category.5.item.2.name':
+      'Nationale Datenbank des kulturellen Gedächtnisses',
+    'data.category.5.item.2.desc':
+      'Digitale Bewahrung des kulturellen Gedächtnisses Taiwans',
     'data.category.5.item.3.name': 'Taiwan Biodiversity Network',
-    'data.category.5.item.3.desc': 'Artenverbreitung und ökologische Beobachtungen',
-    'data.category.5.item.4.name': 'Taiwanisches souveränes AI-Trainingskorpus TAIC',
+    'data.category.5.item.3.desc':
+      'Artenverbreitung und ökologische Beobachtungen',
+    'data.category.5.item.4.name':
+      'Taiwanisches souveränes AI-Trainingskorpus TAIC',
     'data.category.5.item.4.desc': 'Lokale AI-Trainingsdatensätze aus Taiwan',
 
     // Meta
@@ -4733,7 +4909,8 @@ export const dataUI = {
 
     // Hero
     'data.hero.title': 'Taiwan in Daten',
-    'data.hero.subtitle': 'Mit interaktiven Visualisierungen und offenen Daten das wahre Gesicht einer Insel kennenlernen',
+    'data.hero.subtitle':
+      'Mit interaktiven Visualisierungen und offenen Daten das wahre Gesicht einer Insel kennenlernen',
     'data.hero.description':
       'Dies ist ein kuratierter Raum für Daten aus Taiwan. Von der Unternehmenslandschaft bis zu offenen Daten, von korrekten Umrissen Taiwans bis zu Experimenten mit digitaler Demokratie – mit interaktiven Visualisierungen und offenen Ressourcen lassen wir Zahlen Taiwans Geschichte erzählen.',
 
@@ -4741,43 +4918,54 @@ export const dataUI = {
     'data.enterprise.title': '🏢 Unternehmenslandschaft',
     'data.enterprise.story.p1': 'Wie trägt eine Insel die globale Lieferkette?',
     'data.enterprise.story.p2':
-      'Vom Marktwert TSMCs von 2,670 × 100 Mio. bis zu den 87 × 10.000 Beschäftigten von Hon Hai bilden Taiwans 50 größte Unternehmen das wirtschaftliche Rückgrat der Insel. 12 Halbleiterunternehmen bestätigen den Namen „Siliziumschild“, 12 Finanzholdings stützen die finanzielle Stabilität und Auftragsfertigungsriesen vernetzen das digitale Leben weltweit. Das Blasendiagramm zeigt, wie Taiwan mit 2% der Weltbevölkerung 4% des weltweiten GDP erwirtschaftet.',
+      'Die interaktive Blasengrafik unten zeigt Taiwans wirtschaftliche DNA — allein TSMC (rund 61,8 Billionen NT$) macht 41,0 % der gesamten TWSE-Marktkapitalisierung aus, etwa 70 % des zusammengerechneten Werts aller übrigen börsennotierten Unternehmen. Hinter der Erzählung vom „Silicon Shield“ steht ein konzentriertes Ökosystem präziser Fertigung, von Foxconns riesiger Elektronikmontage bis zu ASEs Imperium der Halbleiter-Verpackung.',
     'data.enterprise.controls.sizeLabel': 'Blasengröße:',
     'data.enterprise.controls.marketCap': 'Marktkapitalisierung',
     'data.enterprise.controls.revenue': 'Umsatz',
     'data.enterprise.controls.employees': 'Beschäftigtenzahl',
     'data.enterprise.controls.filterAll': 'Alle',
     'data.enterprise.insights.heading': 'Zentrale Erkenntnisse',
-    'data.enterprise.insights.card1.number': '43.8%',
-    'data.enterprise.insights.card1.label': 'Anteil von TSMC an der gesamten Marktkapitalisierung taiwanischer Aktien',
+    'data.enterprise.insights.card1.number': '41.0%',
+    'data.enterprise.insights.card1.label':
+      'Anteil von TSMC an der gesamten Marktkapitalisierung taiwanischer Aktien',
     'data.enterprise.insights.card1.detail':
       'Ein Unternehmen ≈ 2/3 der übrigen tausend börsennotierten Unternehmen',
-    'data.enterprise.insights.card2.number': '72%',
-    'data.enterprise.insights.card2.label': 'Anteil der 50 größten Unternehmen an der gesamten Marktkapitalisierung taiwanischer Aktien',
-    'data.enterprise.insights.card2.detail': 'Taiwans Aktienmarkt ist stark auf Großunternehmen konzentriert',
-    'data.enterprise.insights.card3.number': '12 Unternehmen',
-    'data.enterprise.insights.card3.label': 'Halbleiterunternehmen in der Rangliste',
-    'data.enterprise.insights.card3.detail': 'Bestätigung des „Siliziumschilds“ — Halbleiter sind Teil von Taiwans Landesverteidigung',
+    'data.enterprise.insights.card2.number': '76%',
+    'data.enterprise.insights.card2.label':
+      'Anteil der 50 größten Unternehmen an der gesamten Marktkapitalisierung taiwanischer Aktien',
+    'data.enterprise.insights.card2.detail':
+      'Taiwans Aktienmarkt ist stark auf Großunternehmen konzentriert',
+    'data.enterprise.insights.card3.number': '8 Unternehmen',
+    'data.enterprise.insights.card3.label':
+      'Halbleiterunternehmen in der Rangliste',
+    'data.enterprise.insights.card3.detail':
+      'Bestätigung des „Siliziumschilds“ — Halbleiter sind Teil von Taiwans Landesverteidigung',
     'data.enterprise.insights.card4.number': '12 Unternehmen',
-    'data.enterprise.insights.card4.label': 'Finanzunternehmen unter den Top 50',
-    'data.enterprise.insights.card4.detail': 'Stabilität nach der Konsolidierung der Finanzholdings',
+    'data.enterprise.insights.card4.label':
+      'Finanzunternehmen unter den Top 50',
+    'data.enterprise.insights.card4.detail':
+      'Stabilität nach der Konsolidierung der Finanzholdings',
     'data.enterprise.exploreLink': 'Vollständige Rangliste anzeigen →',
 
     // Budget Teaser Section
-    'data.budget.teaser.title': '💰 Zehn Jahre Gesamthaushalt: Wie die Regierung drei Billionen NT$ verteilt',
+    'data.budget.teaser.title':
+      '💰 Zehn Jahre Gesamthaushalt: Wie die Regierung drei Billionen NT$ verteilt',
     'data.budget.teaser.story.p1':
       'Der Gesamthaushalt der Zentralregierung für das Haushaltsjahr 115 wurde dieses Jahr erst am 14. August in dritter Lesung verabschiedet — so spät wie nie zuvor; die gesetzlich festgelegten Ausgaben stiegen innerhalb von zehn Jahren von 1.98 Billionen auf 2.99 Billionen NT$.',
     'data.budget.teaser.story.p2':
       'Diese Seite gliedert die Mittelverwendung anhand von Primärdaten der Generaldirektion für Haushalt, Rechnungswesen und Statistik in neun Bereiche; jeder Grafik ist die ursprüngliche Datentabelle beigefügt, sodass sowohl Quelle als auch Einzelheiten nachvollziehbar sind.',
-    'data.budget.teaser.card1.label': 'Gesetzlich festgelegte Ausgaben im Haushaltsjahr 115',
-    'data.budget.teaser.card1.detail': 'Vor zehn Jahren, im Haushaltsjahr 105, waren es nur 1.98 Billionen NT$',
+    'data.budget.teaser.card1.label':
+      'Gesetzlich festgelegte Ausgaben im Haushaltsjahr 115',
+    'data.budget.teaser.card1.detail':
+      'Vor zehn Jahren, im Haushaltsjahr 105, waren es nur 1.98 Billionen NT$',
     'data.budget.teaser.card2.label': 'Kürzungen durch den Legislativ-Yuan',
     'data.budget.teaser.card2.detail':
       'Repräsentationsausgaben von Behördenleitungen, Auslandsreisekosten und Ausgaben für Medienwerbung standen im Mittelpunkt der Kürzungen',
     'data.budget.teaser.card3.label': 'Zuwachs in zehn Jahren',
     'data.budget.teaser.card3.detail':
       'Vom Haushaltsjahr 105 bis 115 stiegen die gesetzlich festgelegten Ausgaben um mehr als die Hälfte',
-    'data.budget.teaser.cta': 'Vollständigen Zehnjahresüberblick zum Gesamthaushalt ansehen →',
+    'data.budget.teaser.cta':
+      'Vollständigen Zehnjahresüberblick zum Gesamthaushalt ansehen →',
 
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': '🌏 Taiwans Platz in der Welt',
@@ -4797,7 +4985,8 @@ export const dataUI = {
       'Unter den Top 15 weltweit, vs nominal $38K (große Kaufkraftdifferenz)',
 
     'data.taiwanVsWorld.semiconductor.number': '90%+',
-    'data.taiwanVsWorld.semiconductor.label': 'Weltmarktanteil bei modernen Chips',
+    'data.taiwanVsWorld.semiconductor.label':
+      'Weltmarktanteil bei modernen Chips',
     'data.taiwanVsWorld.semiconductor.context':
       'TSMC dominiert die Fertigung unter <7nm — das Herzstück digitaler Geräte weltweit',
 
@@ -4808,7 +4997,8 @@ export const dataUI = {
 
     'data.taiwanVsWorld.birthRate.number': '0.87',
     'data.taiwanVsWorld.birthRate.label': 'Geburtenrate (2024)',
-    'data.taiwanVsWorld.birthRate.context': 'Eine der niedrigsten weltweit — Herausforderung einer alternden Gesellschaft',
+    'data.taiwanVsWorld.birthRate.context':
+      'Eine der niedrigsten weltweit — Herausforderung einer alternden Gesellschaft',
 
     'data.taiwanVsWorld.convenience.number': '1/2,000 Personen',
     'data.taiwanVsWorld.convenience.label': 'Dichte an Convenience-Stores',
@@ -4817,54 +5007,69 @@ export const dataUI = {
 
     'data.taiwanVsWorld.hsr.number': '345 km',
     'data.taiwanVsWorld.hsr.label': 'Streckennetz der Hochgeschwindigkeitsbahn',
-    'data.taiwanVsWorld.hsr.context': '12 Bahnhöfe, täglich 18 Zehntausend Fahrgäste, Pünktlichkeitsquote 96%',
+    'data.taiwanVsWorld.hsr.context':
+      '12 Bahnhöfe, täglich 18 Zehntausend Fahrgäste, Pünktlichkeitsquote 96%',
 
     'data.taiwanVsWorld.healthcare.number': '99.9%',
-    'data.taiwanVsWorld.healthcare.label': 'Abdeckung der nationalen Krankenversicherung',
-    'data.taiwanVsWorld.healthcare.context': 'Allgemeine Krankenversicherung als weltweites Vorbild',
+    'data.taiwanVsWorld.healthcare.label':
+      'Abdeckung der nationalen Krankenversicherung',
+    'data.taiwanVsWorld.healthcare.context':
+      'Allgemeine Krankenversicherung als weltweites Vorbild',
 
     // Digital Democracy Timeline Section
-    'data.digitalDemocracy.title': '📡 Zeitleiste der digitalen Demokratie — 30 Jahre digitale Regierungsentwicklung',
+    'data.digitalDemocracy.title':
+      '📡 Zeitleiste der digitalen Demokratie — 30 Jahre digitale Regierungsentwicklung',
     'data.digitalDemocracy.story.p1':
       'Von der Digitalisierung der Verwaltung zur digitalen Demokratie: Taiwans Entwicklung führte vom E-Government über Open Government bis zur digitalen Resilienz.',
     'data.digitalDemocracy.story.p2':
       'Bewegen Sie den Mauszeiger über die einzelnen Meilensteine, um mehr über Taiwans einzigartiges Experiment mit digitaler Demokratie zu erfahren.',
 
     'data.timeline.1997.title': 'Start des E-Government-Programms',
-    'data.timeline.1997.desc': 'Beginn der Digitalisierung staatlicher Dienstleistungen',
+    'data.timeline.1997.desc':
+      'Beginn der Digitalisierung staatlicher Dienstleistungen',
 
     'data.timeline.2003.title': 'Förderprogramm für freie Software',
     'data.timeline.2003.desc': 'Behörden führen Open-Source-Software ein',
 
     'data.timeline.2012.title': 'Gründung von g0v',
-    'data.timeline.2012.desc': '2 Jahre vor der Sonnenblumen-Bewegung wird der Grundstein für Civic Tech gelegt',
+    'data.timeline.2012.desc':
+      '2 Jahre vor der Sonnenblumen-Bewegung wird der Grundstein für Civic Tech gelegt',
 
     'data.timeline.2013.title': 'Start von data.gov.tw',
-    'data.timeline.2013.desc': 'Taiwan tritt in das Zeitalter offener Daten ein',
+    'data.timeline.2013.desc':
+      'Taiwan tritt in das Zeitalter offener Daten ein',
 
     'data.timeline.2014.title': 'Sonnenblumen-Bewegung',
-    'data.timeline.2014.desc': 'Durchbruch für Civic Tech und Erwachen der digitalen Demokratie',
+    'data.timeline.2014.desc':
+      'Durchbruch für Civic Tech und Erwachen der digitalen Demokratie',
 
     'data.timeline.2015.title': 'Weltweit Platz eins bei offenen Daten',
-    'data.timeline.2015.desc': 'Drei Jahre in Folge weltweit führend (2015-2017)',
+    'data.timeline.2015.desc':
+      'Drei Jahre in Folge weltweit führend (2015-2017)',
 
-    'data.timeline.2016.title': 'Audrey Tang wird Digitalministerin ohne Geschäftsbereich',
+    'data.timeline.2016.title':
+      'Audrey Tang wird Digitalministerin ohne Geschäftsbereich',
     'data.timeline.2016.desc': 'Ein g0v-Hacker übernimmt ein Regierungsamt',
 
     'data.timeline.2020.title': 'Erfolg der Maskenkarte',
-    'data.timeline.2020.desc': 'In 72 Stunden entwickelt und während COVID-19 landesweit genutzt',
+    'data.timeline.2020.desc':
+      'In 72 Stunden entwickelt und während COVID-19 landesweit genutzt',
 
-    'data.timeline.2022.title': 'Gründung des Ministeriums für digitale Angelegenheiten',
-    'data.timeline.2022.desc': 'Digitale Regierungsführung wird auf Ministeriumsebene gehoben (moda)',
+    'data.timeline.2022.title':
+      'Gründung des Ministeriums für digitale Angelegenheiten',
+    'data.timeline.2022.desc':
+      'Digitale Regierungsführung wird auf Ministeriumsebene gehoben (moda)',
 
     'data.timeline.2023.title': 'TAIDE: Taiwans KI-Korpus',
     'data.timeline.2023.desc': 'Taiwans souveränes KI-Sprachmodell',
 
     'data.timeline.2024.title': 'Plurality exportiert digitale Demokratie',
-    'data.timeline.2024.desc': 'Taiwans Modell digitaler Demokratie findet weltweit Verbreitung',
+    'data.timeline.2024.desc':
+      'Taiwans Modell digitaler Demokratie findet weltweit Verbreitung',
 
     // Population Pyramid Section
-    'data.population.title': '👥 Bevölkerungsstruktur: Das Altersporträt einer Insel',
+    'data.population.title':
+      '👥 Bevölkerungsstruktur: Das Altersporträt einer Insel',
     'data.population.story.p1':
       '2025 liegt das Medianalter in Taiwan bei über 43 Jahren. Die einst junge Insel altert — nicht langsam, sondern mit einem der weltweit höchsten Tempi.',
     'data.population.story.p2':
@@ -4884,33 +5089,41 @@ export const dataUI = {
 
     'data.population.insights.card4.title': 'Gesamtbevölkerung',
     'data.population.insights.card4.subtitle': 'Zehntausend Personen',
-    'data.population.insights.card4.detail': '2,340 Zehntausend → <2,000 Zehntausend',
+    'data.population.insights.card4.detail':
+      '2,340 Zehntausend → <2,000 Zehntausend',
 
     // Taiwan Shape Section
     'data.taiwanShape.title': '🗺️ Die Form Taiwans',
-    'data.taiwanComparison.title': 'Taiwan aus Sicht der KI vs. das echte Taiwan',
+    'data.taiwanComparison.title':
+      'Taiwan aus Sicht der KI vs. das echte Taiwan',
     'data.taiwanComparison.aiGenerated':
       'Erstellt mit Claude Opus 4.6 (2025/3/22, nicht absichtlich verfälscht)',
     'data.taiwanComparison.correct': 'Korrekte Kontur',
-    'data.taiwanShape.story.p1': 'KI-Darstellungen Taiwans sind alle falsch. Das ist die korrekte Version.',
+    'data.taiwanShape.story.p1':
+      'KI-Darstellungen Taiwans sind alle falsch. Das ist die korrekte Version.',
     'data.taiwanShape.story.p2':
       'In den Trainingsdaten der meisten KI-Bildgeneratoren fehlen strukturierte geografische Daten zu Taiwan. Das Ergebnis sind verzerrte Formen, falsche Proportionen und sogar Verwechslungen mit anderen Inseln. Taiwan.md stellt eine korrekte, quelloffene und frei nutzbare SVG-Kontur Taiwans bereit – als Standardreferenz für alle Anwendungen, die zeigen müssen, wie Taiwan aussieht.',
 
     // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
-    'data.taiwanShape.teaser.title': '🗺️ Zum vollständigen offenen Kartendatensatz',
+    'data.taiwanShape.teaser.title':
+      '🗺️ Zum vollständigen offenen Kartendatensatz',
     'data.taiwanShape.teaser.desc':
       'SVG-Konturen, TopoJSON auf Landkreis-, Stadt- und Gemeindeebene, Anwendungsbeispiele für D3.js / Leaflet / Python / Vue, Verwaltungscodes und weitere offene Datenquellen – alles auf einer eigenen Seite.',
     'data.taiwanShape.teaser.cta': 'Zur Form Taiwans →',
 
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
-    'data.svg.card1.description': 'Kontur Taiwans als Icon — geeignet für Icons, Logos und kleine Größen',
+    'data.svg.card1.description':
+      'Kontur Taiwans als Icon — geeignet für Icons, Logos und kleine Größen',
     'data.svg.card2.title': 'taiwan-simplemaps.svg',
-    'data.svg.card2.description': 'SimpleMaps-Version — saubere Vektorgrafik, geeignet zum Einbetten in Webseiten',
+    'data.svg.card2.description':
+      'SimpleMaps-Version — saubere Vektorgrafik, geeignet zum Einbetten in Webseiten',
     'data.svg.card3.title': 'taiwan-location-map.svg',
-    'data.svg.card3.description': 'Geografische Lagekarte — mit Längen- und Breitengraden sowie Stadtmarkierungen',
+    'data.svg.card3.description':
+      'Geografische Lagekarte — mit Längen- und Breitengraden sowie Stadtmarkierungen',
     'data.svg.card4.title': 'taiwan-political-division.svg',
-    'data.svg.card4.description': 'Verwaltungskarte — Gliederung nach Landkreisen und Städten, vollständige Grenzen',
+    'data.svg.card4.description':
+      'Verwaltungskarte — Gliederung nach Landkreisen und Städten, vollständige Grenzen',
     'data.svg.button.download': 'SVG herunterladen',
     'data.svg.button.copy': 'Code kopieren',
     'data.svg.button.copied': '✅ Kopiert',
@@ -4922,7 +5135,8 @@ export const dataUI = {
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Offene Daten und digitale Demokratie',
     'data.openData.heading': '📊 Offene Daten',
-    'data.openData.story.p1': 'Von der Digitalisierung zur Öffnung: drei Jahrzehnte digitale Verwaltung in Taiwan',
+    'data.openData.story.p1':
+      'Von der Digitalisierung zur Öffnung: drei Jahrzehnte digitale Verwaltung in Taiwan',
     'data.openData.story.p2':
       '1997 startete das „Programm für elektronische Verwaltung“, 2013 ging data.gov.tw online, und Taiwan vollzog den Übergang von der elektronischen zur offenen Verwaltung. Von 2015-2017 belegte Taiwan dreimal in Folge den ersten Platz im „Global Open Data Index“. Aus der g0v-Bewegung gingen die Maskenkarte und der Faktencheck-Bot Cofacts hervor. Die Experimente der Digitalministerin Audrey Tang machten Taiwan zu einem weltweiten Erprobungsraum für digitale Demokratie.',
     'data.openData.story.p3':
@@ -4933,20 +5147,25 @@ export const dataUI = {
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Wissensgraph',
-    'data.knowledgeGraph.story.p1': 'Wie sind die 200+ Artikel von taiwan.md miteinander verknüpft?',
+    'data.knowledgeGraph.story.p1':
+      'Wie sind die 200+ Artikel von taiwan.md miteinander verknüpft?',
     'data.knowledgeGraph.story.p2':
       'Von Geschichte bis Geografie, von Kultur bis Technologie: Jeder Artikel ist ein Knoten im Netzwerk der Geschichten Taiwans. Durch Schlagwortverknüpfungen und Verweise aus Themenportalen verweben wir verstreutes Wissen zu einem lebendigen Graphen. Klicke dich hinein und erkunde die tieferen Strukturen des Wissens über Taiwan.',
     'data.knowledgeGraph.ctaButton': 'Wissensgraph erkunden',
-    'data.knowledgeGraph.ctaButton.description': 'Interaktives Netzwerk verknüpfter Artikel',
+    'data.knowledgeGraph.ctaButton.description':
+      'Interaktives Netzwerk verknüpfter Artikel',
 
     // Footer
     'data.footer.heading': 'Mehr entdecken',
     'data.footer.link1.name': 'Wirtschaft',
-    'data.footer.link1.description': 'Artikel und vertiefende Analysen zur Wirtschaft',
+    'data.footer.link1.description':
+      'Artikel und vertiefende Analysen zur Wirtschaft',
     'data.footer.link2.name': 'Wissensgraph',
-    'data.footer.link2.description': 'Visualisiertes Netzwerk verknüpfter Artikel',
+    'data.footer.link2.description':
+      'Visualisiertes Netzwerk verknüpfter Artikel',
     'data.footer.link3.name': 'Leitfaden zum Mitwirken',
-    'data.footer.link3.description': 'So kannst du am Aufbau von Taiwan.md mitwirken',
+    'data.footer.link3.description':
+      'So kannst du am Aufbau von Taiwan.md mitwirken',
 
     // Sector Names (Chinese)
     'data.sector.semiconductor': 'Halbleiter',
@@ -5048,6 +5267,10 @@ export const dataUI = {
     'data.company.zhen-ding': '臻鼎 Zhen Ding',
     'data.company.sinopac-financial': '永豐金 SinoPac',
     'data.company.winbond': '華邦電 Winbond',
+    'data.company.aspeed': '信驊 ASPEED',
+    'data.company.kinsus': '景碩 Kinsus',
+    'data.company.pharmaessentia': '藥華藥 PharmaEssentia',
+    'data.company.mpi': '旺矽 MPI',
     'data.company.winway': '穎崴 WinWay',
     'data.company.king-slide': '川湖 King Slide',
     'data.company.kyec': '京元電子 KYEC',
@@ -5057,6 +5280,7 @@ export const dataUI = {
     'data.sector.networking': '網通',
     'data.sector.cooling': '散熱',
     'data.sector.testing': '測試',
+    'data.sector.biotech': '生技',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
     'data.fellOff.china-steel': '鋼鐵景氣低迷、連年虧損，沒搭上 AI',
@@ -5064,22 +5288,29 @@ export const dataUI = {
     'data.fellOff.taiwan-cement': '水泥本業疲弱，轉型儲能尚未放量',
     'data.fellOff.far-eastern-new-century': '聚酯化纖景氣向下，傳產缺 AI 題材',
     'data.fellOff.giant-manufacturing': '自行車庫存去化，營收連三年衰退',
+    'data.fellOff.uni-president':
+      '市值較 6 月快照增約 8%，但漲幅追不上門檻，排第 51 名',
+    'data.fellOff.fareastone':
+      '市值較 6 月快照增約 19%，仍不及門檻，排第 56 名',
+    'data.fellOff.bizlink': '市值較 6 月快照縮水約 35%，排第 58 名',
+    'data.fellOff.kyec': '市值較 6 月快照縮水約 14%，排第 62 名',
+    'data.fellOff.winway': '股價從 6 月底的 8,085 元回落約四成，至 4,795 元',
 
     // Standalone /companies page
     'data.companies.meta.title': '台灣前 50 大企業 — AI 時代的洗牌',
     'data.companies.meta.description':
-      '用互動泡泡圖看台灣市值前 50 大上市企業的市值、營收與員工數，以及 AI 供應鏈如何重寫排行榜（2026/06 snapshot）。',
+      '用互動泡泡圖看台灣市值前 50 大上市櫃企業的市值、營收與員工數，以及 AI 供應鏈如何持續重寫排行榜（2026/10/22 快照）。',
     'data.companies.hero.title': '台灣前 50 大企業',
     'data.companies.hero.subtitle': '泡泡面積即市值，2300 萬人島嶼的產業版圖',
     'data.companies.hero.description':
       '泡泡越大＝市值越高，顏色代表產業。可切換營收／員工數、點產業標籤篩選、拖曳泡泡。',
     'data.companies.snapshot':
-      '📊 資料來源：TWSE、2025 全年營收公告、各公司年報 · snapshot 2026/06（近似值，不構成投資建議）',
+      '📊 資料來源：證交所與櫃買中心 OpenAPI（收盤價 × 已發行股數）、2025 全年營收公告、各公司年報 · 快照 2026/10/22（近似值，不構成投資建議）',
     'data.companies.story.title': 'AI 浪潮把整座島重新定價',
     'data.companies.story.p1':
-      '短短兩年，AI 建置就重寫了台灣的企業排行。台積電一家就佔了全市場 43.8%（從 39% 一路墊高），前 10 大權值股合計約 61%。',
+      '短短兩年，AI 建置就重寫了台灣的企業排行。台積電一家（市值約 61.8 兆）就佔了集中市場總市值的 41.0%，前 10 大權值股合計約 59%。',
     'data.companies.story.p2':
-      'TSMC 之後，漲上來的全是 AI 供應鏈：台達電靠 AI 電源一年衝上第 2（市值翻約 5 倍），聯發科爆量，台光電、奇鋐、致茂、智邦、國巨一票 PCB／載板、散熱、測試、網通名字擠進前 50，把約 20 家舊面孔換了下去。',
+      '從 6 月快照到現在，榜單又洗了一輪：聯發科升到第 2（約 6.4 兆），台達電從第 2 退到第 3（約 4.1 兆，比 6 月低約三成）；南亞從第 20 名衝到第 6、南亞科市值翻倍升到第 13，川湖、大立光也都翻過一倍。新進榜的有信驊、研華、景碩、藥華藥、旺矽五家，換下統一、遠傳、貿聯、京元電子、穎崴；第 50 名的門檻從約 3,500 億升到 4,533 億。',
     'data.companies.table.heading': '📋 完整排名',
     'data.companies.table.rank': '#',
     'data.companies.table.company': '企業',
@@ -5089,27 +5320,27 @@ export const dataUI = {
     'data.companies.table.employees': '員工數',
     'data.companies.table.founded': '成立',
     'data.companies.insights.heading': '🔍 關鍵洞察',
-    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.number': '41.0%',
     'data.companies.insights.card1.label': '台積電佔台股總市值比重',
     'data.companies.insights.card1.detail':
-      '從 39% 墊高，一家約等於其餘全部加起來的五分之四',
-    'data.companies.insights.card2.number': '61%',
+      '一家約等於集中市場其餘公司加總的七成',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label': '前 10 大權值股佔總市值',
     'data.companies.insights.card2.detail': '高度集中在少數大型股',
-    'data.companies.insights.card3.number': '約 20',
-    'data.companies.insights.card3.label': '兩年內因 AI 供應鏈新進榜',
+    'data.companies.insights.card3.number': '5',
+    'data.companies.insights.card3.label': '自 6 月快照以來新進榜',
     'data.companies.insights.card3.detail':
-      'PCB／載板、散熱、測試、網通，兩年前還不在榜上',
+      '信驊（伺服器 BMC 晶片）、研華（工業電腦）、景碩（IC 載板）、藥華藥（生技）、旺矽（探針卡）',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label': '前 50 大裡的金控數',
     'data.companies.insights.card4.detail': '整併後，指數裡最穩的壓艙石',
     'data.companies.fellOff.title': '📉 誰掉出了榜',
     'data.companies.fellOff.intro':
-      'AI 重新定價也有輸家。這些國民級的名字——鋼鐵、水泥、紡織、自行車、曾經的手機巨星——在資金湧入 AI 鏈時，滑出了前 50。',
+      '掉出榜有兩種。鋼鐵、水泥、紡織、自行車、曾經的手機巨星，在資金湧入 AI 鏈時先滑出了前 50；6 月之後，門檻從約 3,500 億升到 4,533 億，又有五家被擠出去。',
     'data.companies.fellOff.marketCapNow': '目前市值',
     'data.companies.method.heading': '📝 方法說明',
     'data.companies.method.body':
-      '市值由各股 2026/06 在 TWSE 的指數權重，乘上以台積電（約 NT$59 兆／43.8%）錨定的大盤總市值推算。營收為 2025 全年合併營收（金控採合併營業收入，含保險）。員工數為近似值，盡量取集團／合併基準，但各家認列範圍不一，員工數那一軸請當數量級看，別當精準對比。',
+      '市值＝2026/10/22 收盤價 × 已發行普通股數（證交所與櫃買中心 OpenAPI，含上市與上櫃、不含興櫃）。台積電與前 10 大的占比，分母是集中市場（上市）總市值約 150.8 兆；前 50 大的占比，分母是上市加上櫃合計約 161.4 兆。營收為 2025 全年合併營收（金控採合併營業收入，含保險）；新進榜五家採公告的 2025 全年營收（四捨五入至億），其餘沿用 6 月版。員工數盡量取集團／合併基準，但各家認列範圍不一，請當數量級看，別當精準對比；新進榜五家用的是目前查得到的最新數字：信驊約 140 人（媒體報導）、研華 8,849 人與藥華藥 600 人（2024 年度報告）、景碩 6,401 人（2024 年底）、旺矽約 1,800 人（來源未標年份）。',
     'data.companies.related': '📖 延伸閱讀',
 
     // Category 1: Government Open Data
@@ -5199,21 +5430,21 @@ export const dataUI = {
     'data.enterprise.title': '🏢 企業版圖',
     'data.enterprise.story.p1': '一座島嶼如何撐起全球供應鏈？',
     'data.enterprise.story.p2':
-      '從台積電的 2,670 億市值到鴻海的 87 萬員工，台灣前 50 大企業構成了這座島嶼的經濟脊椎。 12 家半導體企業印證「矽盾」之名，12 家金控撐起金融穩定，代工巨頭串聯起全球數位生活。用泡泡圖探索台灣如何以 2% 全球人口，創造 4% 全球 GDP。',
+      '從台積電約 61.8 兆的市值到鴻海的 83 萬員工，台灣前 50 大企業構成了這座島嶼的經濟脊椎。8 家半導體本業企業印證「矽盾」之名，12 家金控撐起金融穩定，代工巨頭串聯起全球數位生活。用泡泡圖探索台灣如何以 2% 全球人口，創造 4% 全球 GDP。',
     'data.enterprise.controls.sizeLabel': '泡泡大小：',
     'data.enterprise.controls.marketCap': '市值',
     'data.enterprise.controls.revenue': '營收',
     'data.enterprise.controls.employees': '員工數',
     'data.enterprise.controls.filterAll': '全部',
     'data.enterprise.insights.heading': '關鍵洞察',
-    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.number': '41.0%',
     'data.enterprise.insights.card1.label': '台積電佔台股總市值',
     'data.enterprise.insights.card1.detail':
       '一家公司 ≈ 其餘千家上市公司的 2/3',
-    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.number': '76%',
     'data.enterprise.insights.card2.label': '前 50 大佔台股總市值',
     'data.enterprise.insights.card2.detail': '台灣股市高度集中於大型企業',
-    'data.enterprise.insights.card3.number': '12 家',
+    'data.enterprise.insights.card3.number': '8 家',
     'data.enterprise.insights.card3.label': '半導體企業入榜',
     'data.enterprise.insights.card3.detail': '印證「矽盾」—— 半導體是台灣國防',
     'data.enterprise.insights.card4.number': '12 家',
@@ -5507,6 +5738,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding 臻鼎',
     'data.company.sinopac-financial': 'SinoPac 永豐金',
     'data.company.winbond': 'Winbond 華邦電',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay 穎崴',
     'data.company.king-slide': 'King Slide 川湖',
     'data.company.kyec': 'KYEC 京元電子',
@@ -5514,6 +5749,7 @@ export const dataUI = {
     'data.sector.networking': 'Réseaux',
     'data.sector.cooling': 'Refroidissement',
     'data.sector.testing': 'Test et mesure',
+    'data.sector.biotech': 'Biotechnologie',
     'data.fellOff.china-steel':
       "Récession de l'acier, des années de pertes — aucun vent porteur de l'IA",
     'data.fellOff.htc':
@@ -5524,22 +5760,32 @@ export const dataUI = {
       'Cycle polyester/fibres en baisse ; vieille économie, aucun récit IA',
     'data.fellOff.giant-manufacturing':
       "Surstock de vélos ; chiffre d'affaires en baisse trois années de suite",
+    'data.fellOff.uni-president':
+      "Capitalisation en hausse d'environ 8 % depuis juin, mais pas assez : 51e, juste sous le seuil",
+    'data.fellOff.fareastone':
+      "En hausse d'environ 19 % depuis juin, toujours sous le seuil : 56e",
+    'data.fellOff.bizlink':
+      "Capitalisation en baisse d'environ 35 % depuis l'instantané de juin : 58e",
+    'data.fellOff.kyec':
+      "Capitalisation en baisse d'environ 14 % depuis l'instantané de juin : 62e",
+    'data.fellOff.winway':
+      "Le cours a reculé d'environ 40 %, de 8 085 NT$ fin juin à 4 795 NT$",
     'data.companies.meta.title':
       "Les 50 premières entreprises de Taïwan — la redistribution de l'ère de l'IA",
     'data.companies.meta.description':
-      "Un graphique à bulles interactif des 50 plus grandes entreprises cotées de Taïwan par capitalisation boursière, chiffre d'affaires et effectifs — et comment la chaîne d'approvisionnement de l'IA a réécrit le classement (instantané 2026/06).",
+      "Un graphique à bulles interactif des 50 plus grandes sociétés cotées de Taïwan par capitalisation, chiffre d'affaires et effectifs — et comment la chaîne d'approvisionnement de l'IA continue de réécrire le classement (instantané du 22/10/2026).",
     'data.companies.hero.title': 'Les 50 premières entreprises de Taïwan',
     'data.companies.hero.subtitle':
       "La capitalisation boursière comme aire de bulle — la carte des entreprises d'une île de 23 millions d'habitants",
     'data.companies.hero.description':
       "Plus la bulle est grande, plus la capitalisation boursière est élevée. La couleur indique le secteur. Basculez vers le chiffre d'affaires ou les effectifs, cliquez sur un secteur pour filtrer, faites glisser les bulles.",
     'data.companies.snapshot':
-      "📊 Source : TWSE, déclarations de chiffre d'affaires annuel 2025, rapports annuels · Instantané 2026/06 (approximatif, ne constitue pas un conseil en investissement)",
+      "📊 Source : OpenAPI de la TWSE et de la TPEx (cours de clôture × actions en circulation), publications de chiffre d'affaires 2025, rapports annuels · Instantané du 22/10/2026 (valeurs approximatives, pas un conseil en investissement)",
     'data.companies.story.title': "Le boom de l'IA a revalorisé toute l'île",
     'data.companies.story.p1':
-      "En à peine deux ans, l'essor de l'IA a réécrit le classement des entreprises de Taïwan. TSMC représente à lui seul désormais 43,8 % de l'ensemble du marché — contre 39 % auparavant — et les 10 premières valeurs en constituent environ 61 %.",
+      "En deux ans à peine, l'essor de l'IA a réécrit le classement des entreprises taïwanaises. TSMC seule (environ 61,8 billions de NT$) pèse 41,0 % de la capitalisation totale de la TWSE, et les 10 plus grosses valeurs environ 59 %.",
     'data.companies.story.p2':
-      "Derrière TSMC, les gagnants relèvent tous de la chaîne d'approvisionnement de l'IA : Delta a bondi à la 2e place (multiplié par environ 5 en un an grâce à l'alimentation pour l'IA), MediaTek s'est envolé, et une vague de noms du PCB/substrat, du refroidissement, du test et des réseaux — Elite Material, AVC, Chroma, Accton, Yageo — a grimpé dans le top 50, en écartant une vingtaine des anciens acteurs.",
+      "Depuis l'instantané de juin, la liste a de nouveau été rebattue. MediaTek monte au 2e rang (environ 6,4 billions) tandis que Delta passe du 2e au 3e (environ 4,1 billions, soit environ 30 % de moins qu'en juin). Nan Ya Plastics bondit du 20e au 6e rang, Nanya Technology double et atteint le 13e, King Slide et Largan font plus que doubler. Cinq noms entrent — ASPEED, Advantech, Kinsus, PharmaEssentia et MPI — à la place d'Uni-President, Far EasTone, BizLink, KYEC et Winway ; le seuil du 50e rang passe d'environ 350 milliards à 453 milliards de NT$.",
     'data.companies.table.heading': '📋 Classement complet',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Entreprise',
@@ -5549,21 +5795,21 @@ export const dataUI = {
     'data.companies.table.employees': 'Effectifs',
     'data.companies.table.founded': 'Fondée',
     'data.companies.insights.heading': '🔍 Points clés',
-    'data.companies.insights.card1.number': '43,8 %',
+    'data.companies.insights.card1.number': '41,0 %',
     'data.companies.insights.card1.label':
       'Part de TSMC dans la capitalisation boursière totale de Taïwan',
     'data.companies.insights.card1.detail':
-      'Contre 39 % auparavant — une seule entreprise ≈ quatre cinquièmes de tout le reste des sociétés cotées',
-    'data.companies.insights.card2.number': '61 %',
+      'Une entreprise ≈ 70 % de toutes les autres de la TWSE réunies',
+    'data.companies.insights.card2.number': '59 %',
     'data.companies.insights.card2.label':
       'Part des 10 premières valeurs dans le marché',
     'data.companies.insights.card2.detail':
       'Concentration extrême sur une poignée de grandes capitalisations',
-    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      "Nouveaux entrants issus de la chaîne d'approvisionnement de l'IA",
+      "Nouveaux entrants depuis l'instantané de juin",
     'data.companies.insights.card3.detail':
-      'PCB/substrat, refroidissement, test, réseaux — absents il y a deux ans',
+      'ASPEED (puces BMC pour serveurs), Advantech (PC industriels), Kinsus (substrats de circuits intégrés), PharmaEssentia (biotechnologie), MPI (cartes à pointes)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Sociétés holding financières dans le top 50',
@@ -5571,11 +5817,11 @@ export const dataUI = {
       "Après consolidation, le lest stable de l'indice",
     'data.companies.fellOff.title': '📉 Qui est sorti de la liste',
     'data.companies.fellOff.intro':
-      "La revalorisation par l'IA fait aussi des perdants. Ces noms familiers — acier, ciment, textiles, vélos, une ancienne star du smartphone — sont sortis du top 50 à mesure que les capitaux affluaient vers la chaîne de l'IA.",
+      "On sort de la liste de deux façons. L'acier, le ciment, le textile, le vélo et une ancienne star du smartphone ont quitté plus tôt le top 50, quand les capitaux se sont portés sur la chaîne de l'IA. Depuis juin, le seuil du 50e rang est passé d'environ 350 milliards à 453 milliards de NT$ et cinq autres ont été éjectées.",
     'data.companies.fellOff.marketCapNow': 'Capitalisation boursière actuelle',
     'data.companies.method.heading': '📝 Notes',
     'data.companies.method.body':
-      "La capitalisation boursière est dérivée de la pondération de chaque valeur dans l'indice TWSE (2026/06) par rapport à un marché total ancré sur TSMC (≈59 000 Md NT$ / 43,8 %). Le chiffre d'affaires est le consolidé de l'exercice complet 2025 (pour les holdings financières, le chiffre d'affaires opérationnel consolidé incluant l'assurance). Les effectifs sont approximatifs, sur une base de groupe/consolidée lorsqu'elle est disponible — les définitions varient d'une entreprise à l'autre, donc lisez les barres comme des ordres de grandeur, et non comme des comparaisons exactes.",
+      "Capitalisation = cours de clôture du 22/10/2026 × actions ordinaires en circulation (OpenAPI de la TWSE et de la TPEx ; sociétés cotées et OTC, hors marché émergent). Les parts de TSMC et du top 10 sont rapportées au total de la TWSE (environ 150,8 billions de NT$) ; celle du top 50 à TWSE plus TPEx (environ 161,4 billions). Le chiffre d'affaires est le consolidé de l'année 2025 (pour les holdings financières, produit d'exploitation consolidé y compris l'assurance) ; les cinq nouveaux entrants utilisent le chiffre 2025 publié, arrondi à 100 millions de NT$, les autres reprennent la version de juin. Les effectifs sont approximatifs, sur base groupe/consolidée quand c'est possible ; les définitions varient, à lire comme un ordre de grandeur. Pour les cinq nouveaux, c'est le dernier chiffre trouvé : ASPEED environ 140 (presse), Advantech 8 849 et PharmaEssentia 600 (rapports 2024), Kinsus 6 401 (fin 2024), MPI environ 1 800 (source sans date).",
     'data.companies.related': '📖 Lectures associées',
 
     'data.category.1.title': 'Données ouvertes gouvernementales',
@@ -5679,24 +5925,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       "Taiwan pèse bien plus lourd que son poids dans l'économie mondiale. Ce pays de 23 millions d'habitants produit plus de 60 % des semi-conducteurs mondiaux, 92 % des puces les plus avancées, et abrite le centre névralgique de la chaîne d'approvisionnement pour tout, des iPhones aux véhicules Tesla.",
     'data.enterprise.story.p2':
-      "Le graphique interactif à bulles ci-dessous révèle l'ADN économique de Taiwan — où TSMC à elle seule représente 43,8 % de la capitalisation boursière totale de Taiwan, équivalente à la valeur combinée des quatre cinquièmes de toutes les autres sociétés cotées. Derrière le récit du « Bouclier de silicium » se cache un écosystème concentré de fabrication de précision, de l'assemblage électronique massif de Foxconn à l'empire du conditionnement de semi-conducteurs d'ASE.",
+      "Le graphique à bulles interactif ci-dessous révèle l'ADN économique de Taïwan — TSMC seule (environ 61,8 billions de NT$) représente 41,0 % de la capitalisation totale de la TWSE, soit environ 70 % de la valeur cumulée de toutes les autres sociétés cotées. Derrière le récit du « bouclier de silicium » se trouve un écosystème concentré de fabrication de précision, du gigantesque assemblage électronique de Foxconn à l'empire du packaging de semi-conducteurs d'ASE.",
     'data.enterprise.controls.sizeLabel': 'Taille des bulles selon :',
     'data.enterprise.controls.marketCap': 'Capitalisation boursière',
     'data.enterprise.controls.revenue': "Chiffre d'affaires",
     'data.enterprise.controls.employees': 'Employés',
     'data.enterprise.controls.filterAll': 'Tous',
     'data.enterprise.insights.heading': '🔍 Points clés',
-    'data.enterprise.insights.card1.number': '43.8 %',
+    'data.enterprise.insights.card1.number': '41.0 %',
     'data.enterprise.insights.card1.label':
       'Part de TSMC dans la capitalisation boursière totale de Taiwan',
     'data.enterprise.insights.card1.detail':
       'Une entreprise ≈ 2/3 des 1 000+ autres sociétés cotées',
-    'data.enterprise.insights.card2.number': '72 %',
+    'data.enterprise.insights.card2.number': '76 %',
     'data.enterprise.insights.card2.label':
       'Part des 50 premières entreprises dans la capitalisation totale',
     'data.enterprise.insights.card2.detail':
       'Le marché boursier taïwanais est très concentré dans les grandes entreprises',
-    'data.enterprise.insights.card3.number': '12',
+    'data.enterprise.insights.card3.number': '8',
     'data.enterprise.insights.card3.label':
       'Entreprises liées aux semi-conducteurs dans le top 50',
     'data.enterprise.insights.card3.detail':
@@ -5966,6 +6212,10 @@ export const dataUI = {
     'data.company.zhen-ding': 'Zhen Ding 臻鼎',
     'data.company.sinopac-financial': 'SinoPac 永豐金',
     'data.company.winbond': 'Winbond 華邦電',
+    'data.company.aspeed': 'ASPEED',
+    'data.company.kinsus': 'Kinsus',
+    'data.company.pharmaessentia': 'PharmaEssentia',
+    'data.company.mpi': 'MPI',
     'data.company.winway': 'WinWay 穎崴',
     'data.company.king-slide': 'King Slide 川湖',
     'data.company.kyec': 'KYEC 京元電子',
@@ -5973,6 +6223,7 @@ export const dataUI = {
     'data.sector.networking': 'Redes',
     'data.sector.cooling': 'Refrigeración',
     'data.sector.testing': 'Pruebas y medición',
+    'data.sector.biotech': 'Biotecnología',
     'data.fellOff.china-steel':
       'Caída del acero, años de pérdidas — sin impulso de la IA',
     'data.fellOff.htc':
@@ -5983,22 +6234,32 @@ export const dataUI = {
       'Ciclo del poliéster/fibra a la baja; economía tradicional, sin relato de IA',
     'data.fellOff.giant-manufacturing':
       'Exceso de inventario de bicicletas; ingresos a la baja durante tres años seguidos',
+    'data.fellOff.uni-president':
+      'Capitalización un 8 % mayor desde junio, pero no lo bastante rápido: puesto 51, justo bajo el corte',
+    'data.fellOff.fareastone':
+      'Sube cerca de un 19 % desde junio, aún por debajo del corte: puesto 56',
+    'data.fellOff.bizlink':
+      'Capitalización un 35 % menor que en la instantánea de junio: puesto 58',
+    'data.fellOff.kyec':
+      'Capitalización un 14 % menor que en la instantánea de junio: puesto 62',
+    'data.fellOff.winway':
+      'La acción cayó cerca de un 40 %, de 8085 NT$ a finales de junio a 4795 NT$',
     'data.companies.meta.title':
       'Las 50 mayores empresas de Taiwán — La reorganización de la era de la IA',
     'data.companies.meta.description':
-      'Un gráfico de burbujas interactivo de las 50 mayores empresas cotizadas de Taiwán por capitalización bursátil, ingresos y plantilla — y cómo la cadena de suministro de la IA reescribió la clasificación (instantánea 2026/06).',
+      'Un gráfico de burbujas interactivo de las 50 mayores empresas cotizadas de Taiwán por capitalización, ingresos y plantilla — y cómo la cadena de suministro de IA sigue reescribiendo el ranking (instantánea del 22/10/2026).',
     'data.companies.hero.title': 'Las 50 mayores empresas de Taiwán',
     'data.companies.hero.subtitle':
       'La capitalización bursátil como área de la burbuja — el mapa corporativo de una isla de 23 millones de personas',
     'data.companies.hero.description':
       'Burbuja más grande = mayor capitalización bursátil. Color = sector. Cambia a ingresos o plantilla, haz clic en un sector para filtrar, arrastra las burbujas.',
     'data.companies.snapshot':
-      '📊 Fuente: TWSE, declaraciones de ingresos anuales de 2025, informes anuales · Instantánea 2026/06 (aproximada, no es asesoramiento de inversión)',
+      '📊 Fuente: OpenAPI de TWSE y TPEx (cierre × acciones en circulación), publicaciones de ingresos de 2025, informes anuales · Instantánea del 22/10/2026 (valores aproximados, no es asesoramiento de inversión)',
     'data.companies.story.title': 'El auge de la IA revaloró toda la isla',
     'data.companies.story.p1':
-      'En apenas dos años, el despliegue de la IA reescribió la clasificación corporativa de Taiwán. TSMC por sí sola representa ahora el 43,8% de todo el mercado — frente al 39% anterior — y las 10 mayores acciones suponen alrededor del 61% de este.',
+      'En apenas dos años, el auge de la IA reescribió el ranking empresarial de Taiwán. Solo TSMC (unos 61,8 billones de NT$) representa el 41,0 % de la capitalización total de la TWSE, y las 10 mayores acciones suman cerca del 59 %.',
     'data.companies.story.p2':
-      'Detrás de TSMC, las que suben son todas de la cadena de suministro de la IA: Delta saltó al puesto n.º 2 (subió ~5 veces en un año gracias a la energía para IA), MediaTek se disparó, y una oleada de nombres de PCB/sustratos, refrigeración, pruebas y redes — Elite Material, AVC, Chroma, Accton, Yageo — escaló hasta las 50 primeras, desplazando a unas 20 de las veteranas.',
+      'Desde la instantánea de junio, la lista se volvió a barajar. MediaTek subió al puesto 2 (unos 6,4 billones) mientras Delta bajó del 2 al 3 (unos 4,1 billones, alrededor de un 30 % menos que en junio). Nan Ya Plastics saltó del puesto 20 al 6, Nanya Technology se duplicó hasta el 13, y King Slide y Largan más que duplicaron. Entraron cinco nombres — ASPEED, Advantech, Kinsus, PharmaEssentia y MPI — en lugar de Uni-President, Far EasTone, BizLink, KYEC y Winway; el corte del puesto 50 subió de unos 350 000 millones a 453 000 millones de NT$.',
     'data.companies.table.heading': '📋 Clasificación completa',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Empresa',
@@ -6009,21 +6270,21 @@ export const dataUI = {
     'data.companies.table.employees': 'Empleados',
     'data.companies.table.founded': 'Fundación',
     'data.companies.insights.heading': '🔍 Claves principales',
-    'data.companies.insights.card1.number': '43,8%',
+    'data.companies.insights.card1.number': '41,0%',
     'data.companies.insights.card1.label':
       'Cuota de TSMC en la capitalización bursátil total de Taiwán',
     'data.companies.insights.card1.detail':
-      'Frente al 39% anterior — una sola empresa ≈ cuatro quintas partes de todo lo demás cotizado',
-    'data.companies.insights.card2.number': '61%',
+      'Una empresa ≈ 70 % de todas las demás de la TWSE juntas',
+    'data.companies.insights.card2.number': '59%',
     'data.companies.insights.card2.label':
       'Las 10 mayores acciones como cuota del mercado',
     'data.companies.insights.card2.detail':
       'Concentración extrema en un puñado de grandes valores',
-    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.number': '5',
     'data.companies.insights.card3.label':
-      'Nuevas incorporaciones de la cadena de suministro de la IA',
+      'Nuevas entradas desde la instantánea de junio',
     'data.companies.insights.card3.detail':
-      'PCB/sustratos, refrigeración, pruebas, redes — ausentes hace dos años',
+      'ASPEED (chips BMC para servidores), Advantech (PC industriales), Kinsus (sustratos de CI), PharmaEssentia (biotecnología), MPI (tarjetas de sonda)',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
       'Sociedades holding financieras entre las 50 primeras',
@@ -6031,11 +6292,11 @@ export const dataUI = {
       'Tras la consolidación, el lastre estable del índice',
     'data.companies.fellOff.title': '📉 Quién quedó fuera de la lista',
     'data.companies.fellOff.intro':
-      'La revaloración por la IA también tiene perdedores. Estos nombres conocidos — acero, cemento, textiles, bicicletas, una antigua estrella de los smartphones — se quedaron fuera de las 50 primeras a medida que el capital se concentraba en la cadena de la IA.',
+      'Salir de la lista ocurre de dos maneras. El acero, el cemento, los textiles, las bicicletas y una antigua estrella del smartphone salieron antes del top 50 cuando el capital se volcó en la cadena de la IA. Desde junio, el corte del puesto 50 subió de unos 350 000 millones a 453 000 millones de NT$ y otras cinco quedaron fuera.',
     'data.companies.fellOff.marketCapNow': 'Capitalización bursátil actual',
     'data.companies.method.heading': '📝 Notas',
     'data.companies.method.body':
-      'La capitalización bursátil se deriva de la ponderación de cada acción en el índice TWSE (2026/06) frente a un mercado total anclado en TSMC (≈59 bln NT$ / 43,8%). Los ingresos son consolidados de todo el año 2025 (para las holding financieras, ingresos operativos consolidados incluyendo seguros). La plantilla es aproximada, sobre una base de grupo/consolidada cuando está disponible — las definiciones varían entre empresas, así que interpreta las barras como órdenes de magnitud, no como comparaciones exactas.',
+      'Capitalización = precio de cierre del 22/10/2026 × acciones ordinarias en circulación (OpenAPI de TWSE y TPEx; cotizadas y OTC, sin el mercado emergente). La cuota de TSMC y la del top 10 se miden sobre el total de la TWSE (unos 150,8 billones de NT$); la del top 50, sobre TWSE más TPEx (unos 161,4 billones). Los ingresos son los consolidados del año 2025 completo (en holdings financieras, ingresos de operación consolidados incluidos seguros); las cinco nuevas entradas usan sus ingresos de 2025 publicados, redondeados a 100 millones de NT$, y el resto procede de la versión de junio. La plantilla es aproximada, en base de grupo/consolidada cuando es posible; las definiciones varían, léala como orden de magnitud. Para las cinco nuevas es la cifra más reciente hallada: ASPEED unos 140 (prensa), Advantech 8849 y PharmaEssentia 600 (informes de 2024), Kinsus 6401 (fin de 2024), MPI unos 1800 (fuente sin fecha).',
     'data.companies.related': '📖 Lecturas relacionadas',
 
     'data.category.1.title': 'Datos Abiertos del Gobierno',
@@ -6134,24 +6395,24 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Taiwán supera con creces su peso en la economía global. Este país de 23 millones de personas produce más del 60 % de los semiconductores mundiales, el 92 % de los chips más avanzados, y alberga el centro neurálgico de la cadena de suministro para todo, desde iPhones hasta vehículos Tesla.',
     'data.enterprise.story.p2':
-      'El gráfico interactivo de burbujas a continuación revela el ADN económico de Taiwán — donde solo TSMC representa el 43,8 % de la capitalización de mercado total de Taiwán, equivalente al valor combinado de cuatro quintas partes de todas las demás empresas cotizadas. Detrás de la narrativa del "Escudo de Silicio" se encuentra un ecosistema concentrado de manufactura de precisión, desde el ensamblaje masivo de electrónica de Foxconn hasta el imperio de empaquetado de semiconductores de ASE.',
+      'El gráfico de burbujas interactivo de abajo revela el ADN económico de Taiwán — solo TSMC (unos 61,8 billones de NT$) representa el 41,0 % de la capitalización total de la TWSE, cerca del 70 % del valor conjunto de todas las demás empresas cotizadas. Detrás del relato del «Escudo de Silicio» hay un ecosistema concentrado de manufactura de precisión, del enorme ensamblaje electrónico de Foxconn al imperio de encapsulado de semiconductores de ASE.',
     'data.enterprise.controls.sizeLabel': 'Tamaño de burbuja según:',
     'data.enterprise.controls.marketCap': 'Cap. de Mercado',
     'data.enterprise.controls.revenue': 'Ingresos',
     'data.enterprise.controls.employees': 'Empleados',
     'data.enterprise.controls.filterAll': 'Todos',
     'data.enterprise.insights.heading': '🔍 Hallazgos Clave',
-    'data.enterprise.insights.card1.number': '43.8 %',
+    'data.enterprise.insights.card1.number': '41.0 %',
     'data.enterprise.insights.card1.label':
       'Porción de TSMC en la cap. de mercado total de Taiwán',
     'data.enterprise.insights.card1.detail':
       'Una empresa ≈ 2/3 de más de 1.000 empresas cotizadas',
-    'data.enterprise.insights.card2.number': '72 %',
+    'data.enterprise.insights.card2.number': '76 %',
     'data.enterprise.insights.card2.label':
       'Porción de las 50 principales empresas en la cap. de mercado total',
     'data.enterprise.insights.card2.detail':
       'El mercado bursátil de Taiwán está altamente concentrado en grandes empresas',
-    'data.enterprise.insights.card3.number': '12',
+    'data.enterprise.insights.card3.number': '8',
     'data.enterprise.insights.card3.label':
       'Empresas relacionadas con semiconductores en el top 50',
     'data.enterprise.insights.card3.detail':

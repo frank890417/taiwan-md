@@ -273,8 +273,8 @@ Toutes les images de cet article sont mises en cache dans `public/article-images
 
 [^22]: [Indigenous AI voice models: Māori (IEEE Spectrum)](https://spectrum.ieee.org/indigenous-ai-voice-models-maori) — Rapport sur la protection des droits de propriété intellectuelle et culturelle pour les langues autochtones.
 
-[^13]: [Conséquences du blocage de Wikipedia en Chine](https://udn.com/news/story/6656/8241591) — ; étude de comparaison par Citizen Lab sur Baidu Baike
-
 [^24]: [DeepSeek supprimant une réponse sur Taïwan après deux secondes (The Reporter)](https://www.storm.mg/article/5317299) — Rapport du 03/02/2025 sur la suppression automatique d'une réponse en anglais favorable à Taïwan par DeepSeek.
 
 [^25]: [Plateforme de vérification Cofacts](https://cofacts.tw/) — Outils pour signaler les informations suspectes et le formulaire de contact du centre de vérification des faits de Taïwan.
+
+[^23]: [Wikimedia censorship in mainland China](https://en.wikipedia.org/wiki/Wikimedia_censorship_in_mainland_China) — Wikipédia en chinois est bloqué en Chine continentale depuis le 23 avril 2019, ce que la Fondation Wikimedia a confirmé le 14 mai. La comparaison des entrées de Baidu Baike figure dans [Citizen Lab, étude de 2013](https://citizenlab.ca/research/a-large-scale-comparison-of-wikipedia-china-with-hudong-and-baidu-baike/) (Jason Q. Ng) : des entrées sensibles comme celle de Tiananmen y sont introuvables, tandis que d'autres comme la Révolution culturelle existent mais sont verrouillées et nettoyées — la preuve que « le silence » se remplit de la version des autres.

@@ -40,6 +40,7 @@ const translatePath = useTranslatedPath(lang);
 const homeLabel = t('article.home');
 const homeUrl = translatePath('/');
 const categoryUrl = translatePath(`/${category}`);
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -81,18 +82,13 @@ const categoryUrl = translatePath(`/${category}`);
         class="whitespace-nowrap font-['Inter','Satoshi',system-ui,sans-serif] text-[0.78rem] text-[rgba(248,241,233,0.65)] no-underline transition-colors duration-200 hover:text-[#f8f1e9]"
         >{homeLabel}</a
       >
-      <svg
-        class="flex-shrink-0 text-[rgba(248,241,233,0.3)]"
-        width="12"
-        height="12"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2.5"
-        aria-hidden="true"
-      >
-        <polyline points="9 18 15 12 9 6"></polyline>
-      </svg>
+      <Fragment
+        set:html={iconSvg(
+          'chevron',
+          '',
+          'flex-shrink-0 text-[rgba(248,241,233,0.3)]',
+        )}
+      />
       <a
         href={categoryUrl}
         class="whitespace-nowrap font-['Inter','Satoshi',system-ui,sans-serif] text-[0.78rem] font-semibold no-underline transition-colors duration-200 hover:opacity-70"
@@ -101,36 +97,26 @@ const categoryUrl = translatePath(`/${category}`);
       {
         subcategory && (
           <>
-            <svg
-              class="flex-shrink-0 text-[rgba(248,241,233,0.3)]"
-              width="12"
-              height="12"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2.5"
-              aria-hidden="true"
-            >
-              <polyline points="9 18 15 12 9 6" />
-            </svg>
+            <Fragment
+              set:html={iconSvg(
+                'chevron',
+                '',
+                'flex-shrink-0 text-[rgba(248,241,233,0.3)]',
+              )}
+            />
             <span class="whitespace-nowrap font-['Inter','Satoshi',system-ui,sans-serif] text-[0.78rem] text-[rgba(248,241,233,0.75)]">
               {subcategory}
             </span>
           </>
         )
       }
-      <svg
-        class="flex-shrink-0 text-[rgba(248,241,233,0.3)]"
-        width="12"
-        height="12"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2.5"
-        aria-hidden="true"
-      >
-        <polyline points="9 18 15 12 9 6"></polyline>
-      </svg>
+      <Fragment
+        set:html={iconSvg(
+          'chevron',
+          '',
+          'flex-shrink-0 text-[rgba(248,241,233,0.3)]',
+        )}
+      />
       <span
         class="max-w-[24ch] overflow-hidden text-ellipsis whitespace-nowrap font-['Inter','Satoshi',system-ui,sans-serif] text-[0.78rem] text-[rgba(248,241,233,0.85)]"
         aria-current="page">{title}</span

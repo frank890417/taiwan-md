@@ -3,9 +3,9 @@ title: 'DATA-REFRESH-PIPELINE'
 description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.4'
-last_updated: 2026-10-10
-last_session: '2026-10-10-060845-twmd-data-refresh-am（--no-sync 旗標取代手拼 runner）'
+current_version: 'v2.5'
+last_updated: 2026-10-23
+last_session: '2026-10-23-202836-data-hub（資料台灣指標過期接進告警）'
 sister_docs:
   - 'STATS-PIPELINE.md'
   - 'DASHBOARD-PIPELINE.md'
@@ -271,6 +271,14 @@ python3 scripts/tools/monitor-404.py --days 1
 
 ---
 
+### 資料台灣指標過期（告警 §12，2026-10-23 新增）
+
+不是獨立步驟：Step 7 跑 `generate-dashboard-alerts.mjs` 時，§12 呼叫 `python3 scripts/tools/data-hub-check.py --json`，/data 有指標過了「下一期該出來」的期限，就掛一條黃燈 `data-hub-stale`，owner 是本 routine，訊息列出過期的指標 id、期間與天數。期限的算法（cadence × 官方發布時滯）只在 `data-hub-check.py` 的 `MAX_AGE_DAYS` 一處，告警層不重算。
+
+**早班看到這條燈怎麼處理**：照 `python3 scripts/tools/data-hub-check.py --stale` 印出的出處網址找新一期官方數字。找到就改 `src/data/data-hub/indicators.json` 那一筆的 `value`、`period`、`asOf`（有 `series` 一併補一年），再跑一次 `data-hub-check.py` 確認燈滅，跟刷新 commit 一起收；機關還沒發布，就在 memory 記一句「查過，未發布」，燈留著。不估、不從新聞稿推算：這一頁的承諾是每個數字都找得到出處。同一條燈 firstSeen 超過 14 天，週體檢（`weekly-checkup.sh` §c3）會標旗，[ROUTINE-AUDIT-PIPELINE](ROUTINE-AUDIT-PIPELINE.md) Stage 4 升到 OBSERVER-QUEUE。
+
+---
+
 ### Prebuild dashboard 數據（script Step 7 — rebuild static JSON）
 
 ```bash
@@ -471,8 +479,12 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 
 **路徑清單收官要在 bash 裡跑**：Bash 工具的 shell 是 zsh，`git commit -- $FILES` 在 zsh 不會把變數拆成多個路徑，整串變成一個不存在的路徑而失敗（10-09、10-10 連兩班踩到，靠 `verify-commit-scope` 的檔數不符才看出沒 commit 進去）。包成 `bash -c '...'` 再跑。
 
+**拿共用 git 鎖用 `mkdir`、放鎖用 `rmdir`**（2026-10-25 twmd-data-refresh-am）：`/tmp/taiwan-md-git.lock` 是 babel dispatcher、push-every、pulse 共用的一把鎖，協定是「這個路徑上只會有目錄」。10-24 本 routine 收官時在那裡留下一個一般檔案，mkdir 從此對它永遠失敗、rmdir 永遠靜默失敗，babel 十九小時翻好的 34 篇譯文一篇都 commit 不進去，直到夜班造了 `lang-sync/gitlock.py` 才清掉。寫法：`for i in $(seq 1 60); do mkdir /tmp/taiwan-md-git.lock 2>/dev/null && break; sleep 5; done`，commit 完 `rmdir /tmp/taiwan-md-git.lock`，再 `ls` 一次確認路徑不在。不要用 `touch`、`>`、`flock` 這類會留下一般檔案的寫法。
+
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。
 
 _v2.3 | 2026-09-30 twmd-data-refresh-am — Step 11 加讀 `dashboard-build-perf.json` 的 `status`；`extract-build-perf.mjs` 自驗最新成功 run 年齡（>2 天換查詢重抓，仍舊寫 `stale-source`、exit 1）。觸發：當班最新 build 顯示 08-01，回查 git 歷史同症狀五次都以今天 mtime 過關。_
 
 _v2.4 | 2026-10-10 twmd-data-refresh-am — `refresh-data.sh --no-sync`：平行寫手在跑時跳過 Step 1 的 stash＋pull，落後 origin 就拒跑；§新 dashboard SOP 補「路徑清單收官包 bash -c」。觸發：10-03／10-08／10-09／10-10 四班都手拼 runner 跳 Step 1，zsh 拆不開路徑變數連兩班。_
+
+_v2.5 | 2026-10-23 data-hub — 告警 §12 `data-hub-stale`：Step 7 的告警產生器讀 `data-hub-check.py --json`，/data 指標過期就掛黃燈、owner 本 routine；新增 §資料台灣指標過期 寫早班的處理方式。觸發：哲宇要過期的指標列進當天告警；舊版 /data 的數字卡兩年沒人動，沒有任何燈亮過。_

@@ -10,7 +10,12 @@
     "datasets_claimed_asof": "2026-06-05",
     "procurement_records_claimed": 135000,
     "tools": 21,
-    "domains": 20
+    "domains": 20,
+    "datasets_official": 52556,
+    "datasets_official_asof": "2026-10-23",
+    "datasets_official_source": "data.gov.tw front API /api/front/dataset/list payload.search_count",
+    "hub_taiwan_listed": 53185,
+    "hub_taiwan_listed_asof": "2026-10-23"
   },
   "domains_version": "0.2",
   "tools": [
@@ -1740,5 +1745,10 @@
       "description": "地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數-按刑名及性別分，相關定義請參閱法務統計資訊網\\其他服務\\統計用詞解釋",
       "metadata_updated": "2025-06-25 11:51:48"
     }
-  ]
+  ],
+  "last_crawl_attempt": {
+    "at": "2026-10-23",
+    "result": "failed",
+    "detail": "MCP endpoint https://api.twinkleai.tw/mcp/ returned HTTP 401 Authorization Required with the Keychain-stored bearer token; tools/domains/showcase left as of 2026-06-10 crawl (crawled_at unchanged)"
+  }
 }

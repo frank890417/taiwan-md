@@ -608,7 +608,16 @@ def render(
     ga = analytics.get("ga", {})
     ga_t = ga.get("totals", {})
     if ga_t:
-        A("### GA4 7d 流量")
+        # 視窗標籤跟著資料走，不寫死：ga.totals 是 fetch 當下的視窗（目前 28 天），
+        # ga.topArticles7d 才是 7 天。兩個不同視窗同節並列過，標題卻只寫 7d，
+        # 週報因此連幾週把 28 天總量當成「這週的流量」寄給共生圈
+        # （REFLEXES #38 混維度；2026-10-25 週體檢抓到）
+        _ga_days = ga.get("days")
+        _ga_label = ga.get("label")
+        _ga_head = f"### GA4 {_ga_days}d 流量" if _ga_days else "### GA4 流量"
+        if _ga_label:
+            _ga_head += f"（{_ga_label}）"
+        A(_ga_head)
         A(
             f"Active users **{nfmt(ga_t.get('activeUsers'))}** / PV "
             f"**{nfmt(ga_t.get('screenPageViews'))}** / 平均 engagement "
@@ -618,7 +627,7 @@ def render(
         A("")
         top = ga.get("topArticles7d", [])[:8]
         if top:
-            A("Top 8 文章（7d views）：")
+            A("Top 8 文章（**7d** views — 跟上面的總量不同視窗）：")
             A("")
             for a in top:
                 path = a.get("path", "?")

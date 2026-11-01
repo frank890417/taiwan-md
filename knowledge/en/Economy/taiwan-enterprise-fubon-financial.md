@@ -1,29 +1,29 @@
 ---
-title: 'Taiwan Enterprise: Fubon Financial Holding'
-description: "From 10 to 60,000 People: How the Tsai Brothers Built Taiwan's Largest Financial Empire Over 60 Years"
+title: 'Taiwanese Enterprises: Fubon Financial Holding'
+description: 'In 1961, 32-year-old Tsai Wan-tsai founded Cathay Property Insurance in a 10-ping office on Hengyang Road in Taipei with 10 employees and NT$6 million in capital, choosing to focus on small clients neglected by state-owned insurance companies. After splitting from the Cathay Group in 1992 and acquiring Taipei Bank for NT$16.5 billion in 1997, Fubon expanded from property insurance into banking, telecommunications, baseball, media, and entertainment. It has grown into a financial holding company with total assets of NT$11.9 trillion, the highest market capitalization in Taiwan, and over 60,000 employees. This 65-year journey unpacks sibling succession, the power balance between political and economic interests, transoceanic geographical risks, as well as digital transformation and sustainable finance.'
 date: 2026-03-22
 category: 'Economy'
 tags:
   [
-    economy,
-    enterprise,
-    Fubon Financial,
-    Daniel Tsai,
-    financial services,
-    M&A,
-    digital transformation,
+    'Economy',
+    'Enterprise',
+    'Fubon Financial Holding',
+    'Tsai Ming-chung',
+    'Financial Industry',
+    'Mergers and Acquisitions',
+    'Digital Transformation',
   ]
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: '2026-05-01T15:38:13+08:00'
-subcategory: '企業列傳'
-featured: false
+translatedAt: '2026-10-21T01:56:24.609921+00:00'
 ---
 
 # Taiwan Enterprise: Fubon Financial Holding

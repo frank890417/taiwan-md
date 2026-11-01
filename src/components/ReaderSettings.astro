@@ -240,6 +240,7 @@ const STRINGS: Record<string, Strings> = {
 };
 
 const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
+import { iconSvg } from '../icons/taiwan-icons.mjs';
 ---
 
 <!--
@@ -258,20 +259,7 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
   title={t.backToTop}
   hidden
 >
-  <svg
-    width="20"
-    height="20"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    aria-hidden="true"
-  >
-    <line x1="12" y1="19" x2="12" y2="5"></line>
-    <polyline points="5 12 12 5 19 12"></polyline>
-  </svg>
+  <Fragment set:html={iconSvg('arrow-up')} />
 </button>
 
 <button
@@ -285,22 +273,7 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
 >
   <!-- Aa glyph — chosen over a gear because the panel is reading-focused.
        Keeps visual weight close to the .md button it sits next to. -->
-  <svg
-    width="20"
-    height="20"
-    viewBox="0 0 24 24"
-    fill="none"
-    stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-    aria-hidden="true"
-  >
-    <path d="M4 19l4-12 4 12"></path>
-    <path d="M5.5 15h5"></path>
-    <path d="M14 12.5a3.5 3.5 0 0 1 7 0V19"></path>
-    <path d="M14 16.5h7"></path>
-  </svg>
+  <Fragment set:html={iconSvg('type')} />
 </button>
 
 <aside

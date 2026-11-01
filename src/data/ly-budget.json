@@ -1,1699 +1,1954 @@
 {
- "meta": {
-  "unit": "億元（新臺幣）",
-  "generated": "2026-08-17",
-  "fiscalYears": [
-   105,
-   106,
-   107,
-   108,
-   109,
-   110,
-   111,
-   112,
-   113,
-   114,
-   115
-  ],
-  "notes": [
-   "歲出總額：行政院原列（proposed）／立法院法定（legal）／決算（final）三個 basis 分開存放，圖表標示以 basis 為準。",
-   "政事別九類：105-113 年度為決算審定數、114 年度為法定預算數、115 年度為預算案數（主計總處 115 年度總說明參考表 6 同一張時間序列表）。",
-   "機關別：主計總處《中央政府總預算》歲出機關別預算總表「主管別」彙總列；105-114 為法定預算數，115 為行政院提案數（三讀後法定表截至 2026-08-17 尚未上架）。",
-   "執行率＝決算數 ÷ 法定預算數（自算，未含追加預算）。",
-   "GDP 占比＝中央政府歲出總額 ÷ 當年名目 GDP；債務比＝1 年以上非自償債務 ÷ 前 3 年度 GDP 平均，兩者分母不同。"
-  ],
-  "sources": [
-   {
-    "zh": "行政院主計總處《中央政府總預算》105–115 年度歲出機關別預算總表（xls/xlsx 原檔）",
-    "en": "DGBAS Central Government General Budget, expenditure by agency FY2016–2026 (original xls/xlsx)",
-    "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=235176"
-   },
-   {
-    "zh": "主計總處《115 年度中央政府總預算案總說明》參考表 4、6（歷年歲出政事別、占 GDP 比率）",
-    "en": "DGBAS FY2026 budget general explanation, reference tables 4 & 6",
-    "url": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
-   },
-   {
-    "zh": "主計總處各年度「中央政府總預算案立法院審議結果」新聞稿",
-    "en": "DGBAS press releases on LY review results, each fiscal year",
-    "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744"
-   },
-   {
-    "zh": "行政院各年度中央政府總決算新聞稿（109–114 年度）",
-    "en": "Executive Yuan final-account press releases FY2020–2025",
-    "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
-   },
-   {
-    "zh": "財政部國庫署歷年各級政府債務概況表",
-    "en": "National Treasury Administration, government debt tables",
-    "url": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
-   },
-   {
-    "zh": "中央社 2026-08-14「115 年總預算減列 480 億元 創最晚三讀紀錄」",
-    "en": "CNA 2026-08-14 on the FY2026 passage",
-    "url": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-   },
-   {
-    "zh": "中央社 2025-01-21「立院三讀 114 年度總預算 刪減 2075 億元創新高」",
-    "en": "CNA 2025-01-21 on the FY2025 passage",
-    "url": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
-   },
-   {
-    "zh": "全國法規資料庫《預算法》第 51、54 條",
-    "en": "Budget Act, Articles 51 & 54",
-    "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=54"
-   }
-  ]
- },
- "years": [
-  {
-   "fy": 105,
-   "ce": 2016,
-   "era": "ma",
-   "proposed": 19982.0,
-   "legal": 19760.0,
-   "cut": 222.0,
-   "cutPct": 1.11,
-   "final": 19399.5,
-   "execRate": 98.18,
-   "revenueLegal": 18224.0,
-   "revenueProposed": 18446.0,
-   "gdpPct": 11.05,
-   "debt": 53393.1,
-   "debtPct": 33.0,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103682",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/105/105ctab/105c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 106,
-   "ce": 2017,
-   "era": "tsai",
-   "proposed": 19980.0,
-   "legal": 19740.0,
-   "cut": 240.0,
-   "cutPct": 1.2,
-   "final": 19273.0,
-   "execRate": 97.63,
-   "revenueLegal": 18411.0,
-   "revenueProposed": 18457.0,
-   "gdpPct": 10.7,
-   "debt": 53530.3,
-   "debtPct": 31.6,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103716",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/106/106ctab/106c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 107,
-   "ce": 2018,
-   "era": "tsai",
-   "proposed": 19918.0,
-   "legal": 19669.0,
-   "cut": 249.0,
-   "cutPct": 1.25,
-   "final": 19094.1,
-   "execRate": 97.08,
-   "revenueLegal": 19192.0,
-   "revenueProposed": 18974.0,
-   "gdpPct": 10.37,
-   "debt": 53735.3,
-   "debtPct": 30.7,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1",
-    "legal": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103752",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/107/107ctab/107c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 108,
-   "ce": 2019,
-   "era": "tsai",
-   "proposed": 20220.0,
-   "legal": 19980.0,
-   "cut": 240.0,
-   "cutPct": 1.19,
-   "final": 19558.1,
-   "execRate": 97.89,
-   "revenueLegal": 19924.0,
-   "revenueProposed": 19770.0,
-   "gdpPct": 10.31,
-   "debt": 53273.7,
-   "debtPct": 29.6,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=104361",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/108/108ctab/108c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 109,
-   "ce": 2020,
-   "era": "tsai",
-   "proposed": 21022.0,
-   "legal": 20776.0,
-   "cut": 246.0,
-   "cutPct": 1.17,
-   "final": 20393.5,
-   "execRate": 98.16,
-   "revenueLegal": 21070.0,
-   "revenueProposed": 21022.0,
-   "gdpPct": 10.18,
-   "debt": 55359.0,
-   "debtPct": 30.0,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=104329",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/109/109ctab/109c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 110,
-   "ce": 2021,
-   "era": "tsai",
-   "proposed": 21615.0,
-   "legal": 21359.0,
-   "cut": 256.0,
-   "cutPct": 1.18,
-   "final": 20890.7,
-   "execRate": 97.81,
-   "revenueLegal": 20534.0,
-   "revenueProposed": 20450.0,
-   "gdpPct": 9.59,
-   "debt": 57089.0,
-   "debtPct": 29.8,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103854",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/110/110ctab/110c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 111,
-   "ce": 2022,
-   "era": "tsai",
-   "proposed": 22784.0,
-   "legal": 22511.0,
-   "cut": 273.0,
-   "cutPct": 1.2,
-   "final": 22139.6,
-   "execRate": 98.35,
-   "revenueLegal": 22670.0,
-   "revenueProposed": 22391.0,
-   "gdpPct": 9.7,
-   "debt": 59204.9,
-   "debtPct": 29.2,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=200358",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/111/111ctab/111c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 112,
-   "ce": 2023,
-   "era": "tsai",
-   "proposed": 27191.0,
-   "legal": 26891.0,
-   "cut": 300.0,
-   "cutPct": 1.1,
-   "final": 26277.8,
-   "execRate": 97.72,
-   "revenueLegal": null,
-   "revenueProposed": null,
-   "gdpPct": 11.14,
-   "debt": 60577.9,
-   "debtPct": 28.1,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=230689",
-     "https://ws.dgbas.gov.tw/public/data/dgbas01/112/112ctab/112c歲出機關別預算總表.xls"
-    ]
-   }
-  },
-  {
-   "fy": 113,
-   "ce": 2024,
-   "era": "tsai",
-   "proposed": 28818.0,
-   "legal": 28519.0,
-   "cut": 299.0,
-   "cutPct": 1.04,
-   "final": 27841.8,
-   "execRate": 97.63,
-   "revenueLegal": 27252.0,
-   "revenueProposed": 27092.0,
-   "gdpPct": 10.88,
-   "debt": 61479.9,
-   "debtPct": 27.0,
-   "functionsBasis": "final",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744",
-    "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744",
-    "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=232850",
-     "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/232850/C歲出機關別預算總表.xlsx"
-    ]
-   }
-  },
-  {
-   "fy": 114,
-   "ce": 2025,
-   "era": "lai",
-   "proposed": 31324.7,
-   "legal": 29249.7,
-   "cut": 2075.0,
-   "cutPct": 6.62,
-   "final": null,
-   "execRate": null,
-   "revenueLegal": 31648.0,
-   "revenueProposed": 31533.7,
-   "gdpPct": 10.69,
-   "debt": 60730.4,
-   "debtPct": 25.2,
-   "functionsBasis": "legal",
-   "agencyBasis": "legal",
-   "sources": {
-    "proposed": "WebSearch synthesis (未直接開啟主計總處「114年度中央政府總預算案立法院審議結果」新聞稿逐字核對，原始頁面URL未尋得；建議查證 dgbas.gov.tw News n=3602 附近 s=233xxx)",
-    "legal": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，上年度預算數欄)",
-    "final": null,
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=234914",
-     "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/234914/C歲出機關別預算總表.xlsx"
-    ]
-   }
-  },
-  {
-   "fy": 115,
-   "ce": 2026,
-   "era": "lai",
-   "proposed": 30349.7,
-   "legal": 29869.7,
-   "cut": 480.0,
-   "cutPct": 1.58,
-   "final": null,
-   "execRate": null,
-   "revenueLegal": null,
-   "revenueProposed": 28622.5,
-   "gdpPct": 10.62,
-   "debt": 67503.0,
-   "debtPct": 26.5,
-   "functionsBasis": "proposed",
-   "agencyBasis": "proposed",
-   "sources": {
-    "proposed": "https://www.cna.com.tw/news/aipl/202608140278.aspx ; https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf",
-    "legal": "https://www.cna.com.tw/news/aipl/202608140278.aspx — 僅新聞交叉校對，非主計總處新聞稿原文（三讀日期2026-08-14，發稿當下查無主計總處「115年度中央政府總預算案立法院審議結果」新聞稿），歲入審議後數CNA報導6019.9939億元增列，因果不明確不予採信，故revenue留null",
-    "final": null,
-    "agencies": [
-     "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=235176",
-     "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b歲出機關別預算總表.xlsx"
-    ]
-   }
-  }
- ],
- "eras": [
-  {
-   "id": "ma",
-   "from": 2016,
-   "to": 2016,
-   "president": {
-    "zh": "馬英九政府編製",
-    "en": "Ma Ying-jeou gov't (compiled)"
-   },
-   "ly": {
-    "zh": "國民黨過半國會（第 8 屆）審議",
-    "en": "KMT-majority LY (8th) reviewed"
-   },
-   "cls": "era-a"
-  },
-  {
-   "id": "tsai",
-   "from": 2017,
-   "to": 2024,
-   "president": {
-    "zh": "蔡英文政府",
-    "en": "Tsai Ing-wen gov't"
-   },
-   "ly": {
-    "zh": "民進黨過半國會",
-    "en": "DPP-majority LY"
-   },
-   "cls": "era-b"
-  },
-  {
-   "id": "lai",
-   "from": 2025,
-   "to": 2026,
-   "president": {
-    "zh": "賴清德政府",
-    "en": "Lai Ching-te gov't"
-   },
-   "ly": {
-    "zh": "國民黨＋民眾黨過半國會",
-    "en": "KMT+TPP-majority LY"
-   },
-   "cls": "era-c"
-  }
- ],
- "functions": [
-  {
-   "id": "welfare",
-   "zh": "社會福利",
-   "en": "Social welfare"
-  },
-  {
-   "id": "edu",
-   "zh": "教育科學文化",
-   "en": "Education, science & culture"
-  },
-  {
-   "id": "defense",
-   "zh": "國防",
-   "en": "National defense"
-  },
-  {
-   "id": "econ",
-   "zh": "經濟發展",
-   "en": "Economic development"
-  },
-  {
-   "id": "general",
-   "zh": "一般政務",
-   "en": "General administration"
-  },
-  {
-   "id": "pension",
-   "zh": "退休撫卹",
-   "en": "Pensions"
-  },
-  {
-   "id": "debt",
-   "zh": "債務",
-   "en": "Debt service"
-  },
-  {
-   "id": "community",
-   "zh": "社區發展及環保",
-   "en": "Community & environment"
-  },
-  {
-   "id": "other",
-   "zh": "一般補助及其他",
-   "en": "Grants & other"
-  }
- ],
- "functionsByYear": {
-  "105": {
-   "welfare": 4600.7,
-   "edu": 3823.8,
-   "defense": 3093.0,
-   "econ": 2667.2,
-   "general": 1797.0,
-   "pension": 1468.3,
-   "debt": 1132.0,
-   "community": 174.6,
-   "other": 643.0
-  },
-  "106": {
-   "welfare": 4721.9,
-   "edu": 4012.9,
-   "defense": 3057.0,
-   "econ": 2567.3,
-   "general": 1760.1,
-   "pension": 1378.8,
-   "debt": 1018.1,
-   "community": 164.4,
-   "other": 592.5
-  },
-  "107": {
-   "welfare": 4873.4,
-   "edu": 3866.5,
-   "defense": 3137.4,
-   "econ": 2330.9,
-   "general": 1850.7,
-   "pension": 1276.5,
-   "debt": 1007.2,
-   "community": 180.0,
-   "other": 571.4
-  },
-  "108": {
-   "welfare": 4902.5,
-   "edu": 4069.5,
-   "defense": 3241.2,
-   "econ": 2416.6,
-   "general": 1853.7,
-   "pension": 1338.4,
-   "debt": 982.1,
-   "community": 185.4,
-   "other": 568.7
-  },
-  "109": {
-   "welfare": 5234.0,
-   "edu": 4120.6,
-   "defense": 3355.3,
-   "econ": 2500.9,
-   "general": 1907.7,
-   "pension": 1433.9,
-   "debt": 953.7,
-   "community": 229.4,
-   "other": 658.0
-  },
-  "110": {
-   "welfare": 5567.5,
-   "edu": 4119.4,
-   "defense": 3462.2,
-   "econ": 2505.8,
-   "general": 1957.5,
-   "pension": 1458.4,
-   "debt": 882.1,
-   "community": 207.9,
-   "other": 729.8
-  },
-  "111": {
-   "welfare": 6151.0,
-   "edu": 4414.6,
-   "defense": 3546.5,
-   "econ": 2552.7,
-   "general": 2046.0,
-   "pension": 1472.0,
-   "debt": 829.0,
-   "community": 262.3,
-   "other": 865.5
-  },
-  "112": {
-   "welfare": 7068.1,
-   "edu": 4817.8,
-   "defense": 3869.6,
-   "econ": 4761.7,
-   "general": 2255.8,
-   "pension": 1486.2,
-   "debt": 832.7,
-   "community": 280.9,
-   "other": 905.0
-  },
-  "113": {
-   "welfare": 7812.6,
-   "edu": 5380.9,
-   "defense": 4161.7,
-   "econ": 4341.4,
-   "general": 2383.2,
-   "pension": 1697.7,
-   "debt": 887.5,
-   "community": 278.8,
-   "other": 898.0
-  },
-  "114": {
-   "welfare": 8154.8,
-   "edu": 5828.8,
-   "defense": 4590.8,
-   "econ": 4170.6,
-   "general": 2648.7,
-   "pension": 1811.4,
-   "debt": 1063.1,
-   "community": 293.7,
-   "other": 687.9
-  },
-  "115": {
-   "welfare": 8318.0,
-   "edu": 5566.3,
-   "defense": 5488.1,
-   "econ": 4274.6,
-   "general": 3025.2,
-   "pension": 1844.2,
-   "debt": 1063.1,
-   "community": 266.1,
-   "other": 504.1
-  }
- },
- "agencies": [
-  {
-   "id": "mnd",
-   "zh": "國防部",
-   "en": "Ministry of National Defense",
-   "highlight": true
-  },
-  {
-   "id": "mohw",
-   "zh": "衛生福利部",
-   "en": "Ministry of Health and Welfare"
-  },
-  {
-   "id": "mol",
-   "zh": "勞動部",
-   "en": "Ministry of Labor"
-  },
-  {
-   "id": "moe",
-   "zh": "教育部",
-   "en": "Ministry of Education",
-   "note": {
-    "zh": "115 年度體育署拆出為運動部；財劃法修正後部分補助改列",
-    "en": "Sports Admin. spun off as Ministry of Sports in FY2026; some grants reclassified after the Fiscal Allocation Act amendment"
-   }
-  },
-  {
-   "id": "local",
-   "zh": "直轄市及縣市政府",
-   "en": "Grants to local governments",
-   "note": {
-    "zh": "105 年度名稱為「省市地方政府」",
-    "en": "Named 省市地方政府 in FY2016"
-   }
-  },
-  {
-   "id": "moa",
-   "zh": "農業部",
-   "en": "Ministry of Agriculture",
-   "note": {
-    "zh": "112 年 8 月農委會改制農業部",
-    "en": "Council of Agriculture became a ministry in Aug 2023"
-   }
-  },
-  {
-   "id": "mof",
-   "zh": "財政部",
-   "en": "Ministry of Finance"
-  },
-  {
-   "id": "motc",
-   "zh": "交通部",
-   "en": "Ministry of Transportation and Communications"
-  },
-  {
-   "id": "moea",
-   "zh": "經濟部",
-   "en": "Ministry of Economic Affairs"
-  },
-  {
-   "id": "vac",
-   "zh": "退輔會",
-   "en": "Veterans Affairs Council"
-  },
-  {
-   "id": "moi",
-   "zh": "內政部",
-   "en": "Ministry of the Interior"
-  },
-  {
-   "id": "nstc",
-   "zh": "國科會",
-   "en": "National Science and Technology Council",
-   "note": {
-    "zh": "111 年 7 月科技部改制國科會",
-    "en": "Ministry of Science and Technology became NSTC in Jul 2022"
-   }
-  },
-  {
-   "id": "moj",
-   "zh": "法務部",
-   "en": "Ministry of Justice"
-  },
-  {
-   "id": "exam",
-   "zh": "考試院",
-   "en": "Examination Yuan"
-  },
-  {
-   "id": "mofa",
-   "zh": "外交部",
-   "en": "Ministry of Foreign Affairs"
-  },
-  {
-   "id": "ey",
-   "zh": "行政院",
-   "en": "Executive Yuan (incl. councils)",
-   "note": {
-    "zh": "含國發會、陸委會、原民會、客委會、主計總處、人事總處、NCC、公平會、中選會、故宮等未獨立列項機關",
-    "en": "Includes NDC, MAC, CIP, HAC, DGBAS, DGPA, NCC, FTC, CEC, National Palace Museum etc."
-   }
-  },
-  {
-   "id": "oac",
-   "zh": "海洋委員會",
-   "en": "Ocean Affairs Council",
-   "note": {
-    "zh": "107 年 4 月海巡署改隸海洋委員會",
-    "en": "Coast Guard Admin. moved under OAC in Apr 2018"
-   }
-  },
-  {
-   "id": "jy",
-   "zh": "司法院",
-   "en": "Judicial Yuan"
-  },
-  {
-   "id": "moc",
-   "zh": "文化部",
-   "en": "Ministry of Culture",
-   "highlight": true
-  },
-  {
-   "id": "pres",
-   "zh": "總統府",
-   "en": "Office of the President"
-  },
-  {
-   "id": "moda",
-   "zh": "數位發展部",
-   "en": "Ministry of Digital Affairs",
-   "note": {
-    "zh": "111 年 8 月成立",
-    "en": "Established Aug 2022"
-   }
-  },
-  {
-   "id": "moenv",
-   "zh": "環境部",
-   "en": "Ministry of Environment",
-   "note": {
-    "zh": "112 年 8 月環保署改制環境部",
-    "en": "EPA became a ministry in Aug 2023"
-   }
-  },
-  {
-   "id": "sports",
-   "zh": "運動部",
-   "en": "Ministry of Sports",
-   "note": {
-    "zh": "115 年度新設，原教育部體育署",
-    "en": "New in FY2026, formerly Sports Administration under MOE"
-   }
-  },
-  {
-   "id": "ly",
-   "zh": "立法院",
-   "en": "Legislative Yuan"
-  },
-  {
-   "id": "cy",
-   "zh": "監察院",
-   "en": "Control Yuan"
-  },
-  {
-   "id": "ocac",
-   "zh": "僑務委員會",
-   "en": "Overseas Community Affairs Council"
-  },
-  {
-   "id": "fsc",
-   "zh": "金管會",
-   "en": "Financial Supervisory Commission"
-  },
-  {
-   "id": "reserve",
-   "zh": "預備金與準備",
-   "en": "Reserves",
-   "aggregate": true
-  },
-  {
-   "id": "aec",
-   "zh": "原子能委員會",
-   "en": "Atomic Energy Council",
-   "note": {
-    "zh": "112 年 9 月改制核安會（併入行政院主管）",
-    "en": "Reorganized as Nuclear Safety Commission in Sep 2023 (under EY)"
-   }
-  },
-  {
-   "id": "mtac",
-   "zh": "蒙藏委員會",
-   "en": "Mongolian & Tibetan Affairs Commission",
-   "note": {
-    "zh": "106 年 9 月裁撤",
-    "en": "Abolished Sep 2017"
-   }
-  }
- ],
- "agenciesByYear": {
-  "105": {
-   "pres": 170.1,
-   "ey": 246.4,
-   "ly": 36.8,
-   "jy": 248.4,
-   "exam": 264.3,
-   "cy": 23.0,
-   "moi": 869.0,
-   "mofa": 244.3,
-   "mnd": 3200.8,
-   "mof": 1960.5,
-   "moe": 2253.0,
-   "moj": 317.2,
-   "moea": 590.0,
-   "motc": 1121.2,
-   "mol": 1168.0,
-   "mtac": 1.3,
-   "ocac": 13.9,
-   "aec": 29.3,
-   "moa": 1217.9,
-   "mohw": 1986.7,
-   "moenv": 43.0,
-   "moc": 165.3,
-   "oac": 141.0,
-   "nstc": 466.5,
-   "fsc": 14.4,
-   "vac": 1246.5,
-   "local": 1625.8,
-   "reserve": 94.0
-  },
-  "106": {
-   "pres": 153.7,
-   "ey": 231.5,
-   "ly": 34.6,
-   "jy": 216.4,
-   "exam": 278.3,
-   "cy": 21.4,
-   "moi": 834.9,
-   "mofa": 243.3,
-   "mnd": 3192.8,
-   "mof": 1837.1,
-   "moe": 2406.0,
-   "moj": 312.8,
-   "moea": 532.2,
-   "motc": 1097.5,
-   "mol": 1234.4,
-   "mtac": 1.2,
-   "ocac": 13.2,
-   "aec": 27.2,
-   "moa": 1191.7,
-   "mohw": 2094.8,
-   "moenv": 46.5,
-   "moc": 188.5,
-   "oac": 140.5,
-   "nstc": 502.1,
-   "fsc": 14.3,
-   "vac": 1173.9,
-   "local": 1625.4,
-   "reserve": 94.0
-  },
-  "107": {
-   "pres": 135.4,
-   "ey": 239.3,
-   "ly": 35.0,
-   "jy": 219.8,
-   "exam": 264.8,
-   "cy": 21.1,
-   "moi": 845.2,
-   "mofa": 261.3,
-   "mnd": 3231.4,
-   "mof": 1829.4,
-   "moe": 2384.0,
-   "moj": 317.5,
-   "moea": 528.1,
-   "motc": 764.1,
-   "mol": 1303.0,
-   "ocac": 15.5,
-   "aec": 27.8,
-   "moa": 1278.8,
-   "mohw": 2168.9,
-   "moenv": 47.7,
-   "moc": 178.3,
-   "oac": 164.8,
-   "nstc": 395.5,
-   "fsc": 14.3,
-   "vac": 1160.0,
-   "local": 1621.2,
-   "reserve": 216.1
-  },
-  "108": {
-   "pres": 139.2,
-   "ey": 260.4,
-   "ly": 34.5,
-   "jy": 227.2,
-   "exam": 256.9,
-   "cy": 22.3,
-   "moi": 825.9,
-   "mofa": 259.4,
-   "mnd": 3404.8,
-   "mof": 1732.9,
-   "moe": 2457.6,
-   "moj": 336.3,
-   "moea": 517.8,
-   "motc": 790.3,
-   "mol": 1309.9,
-   "ocac": 13.0,
-   "aec": 25.5,
-   "moa": 1296.7,
-   "mohw": 2215.2,
-   "moenv": 50.2,
-   "moc": 197.4,
-   "nstc": 423.6,
-   "fsc": 15.3,
-   "oac": 174.8,
-   "vac": 1230.6,
-   "local": 1668.2,
-   "reserve": 94.0
-  },
-  "109": {
-   "pres": 140.3,
-   "ey": 263.0,
-   "ly": 35.1,
-   "jy": 233.2,
-   "exam": 257.8,
-   "cy": 22.0,
-   "moi": 622.1,
-   "mofa": 280.8,
-   "mnd": 3512.2,
-   "mof": 1684.6,
-   "moe": 2565.4,
-   "moj": 354.0,
-   "moea": 535.1,
-   "motc": 739.9,
-   "mol": 1519.8,
-   "ocac": 12.8,
-   "aec": 25.0,
-   "moa": 1622.3,
-   "mohw": 2311.0,
-   "moenv": 60.3,
-   "moc": 194.3,
-   "nstc": 418.2,
-   "fsc": 15.3,
-   "oac": 212.5,
-   "vac": 1282.3,
-   "local": 1762.1,
-   "reserve": 94.0
-  },
-  "110": {
-   "pres": 140.9,
-   "ey": 511.7,
-   "ly": 34.0,
-   "jy": 241.9,
-   "exam": 277.8,
-   "cy": 24.2,
-   "moi": 641.2,
-   "mofa": 291.7,
-   "mnd": 3617.7,
-   "mof": 1719.8,
-   "moe": 2573.2,
-   "moj": 348.5,
-   "moea": 533.4,
-   "motc": 711.8,
-   "mol": 1646.0,
-   "ocac": 12.8,
-   "aec": 24.6,
-   "moa": 1370.0,
-   "mohw": 2475.4,
-   "moenv": 56.6,
-   "moc": 176.4,
-   "nstc": 409.0,
-   "fsc": 15.7,
-   "oac": 244.5,
-   "vac": 1272.7,
-   "local": 1893.3,
-   "reserve": 94.0
-  },
-  "111": {
-   "pres": 144.2,
-   "ey": 251.7,
-   "ly": 34.3,
-   "jy": 247.7,
-   "exam": 263.3,
-   "cy": 25.0,
-   "moi": 789.2,
-   "mofa": 300.7,
-   "mnd": 3676.0,
-   "mof": 1731.7,
-   "moe": 2747.4,
-   "moj": 369.7,
-   "moea": 572.5,
-   "motc": 790.7,
-   "mol": 1808.9,
-   "ocac": 13.7,
-   "aec": 23.8,
-   "moa": 1470.4,
-   "mohw": 2737.1,
-   "moenv": 80.3,
-   "moc": 177.5,
-   "nstc": 474.6,
-   "fsc": 15.8,
-   "oac": 240.7,
-   "vac": 1297.7,
-   "local": 1965.5,
-   "reserve": 260.5
-  },
-  "112": {
-   "pres": 148.0,
-   "ey": 297.7,
-   "ly": 36.1,
-   "jy": 260.2,
-   "exam": 275.1,
-   "cy": 26.6,
-   "moi": 1253.9,
-   "mofa": 313.6,
-   "mnd": 4092.0,
-   "mof": 1775.1,
-   "moe": 2897.8,
-   "moj": 402.6,
-   "moea": 2139.0,
-   "motc": 1033.7,
-   "mol": 1998.9,
-   "ocac": 17.0,
-   "aec": 27.9,
-   "moa": 1506.7,
-   "mohw": 3680.0,
-   "moenv": 88.9,
-   "moc": 204.3,
-   "moda": 55.6,
-   "nstc": 514.9,
-   "fsc": 16.4,
-   "oac": 287.8,
-   "vac": 1271.3,
-   "local": 2146.2,
-   "reserve": 124.0
-  },
-  "113": {
-   "pres": 151.8,
-   "ey": 344.6,
-   "ly": 36.5,
-   "jy": 272.7,
-   "exam": 331.5,
-   "cy": 27.1,
-   "moi": 1114.7,
-   "mofa": 311.4,
-   "mnd": 4344.8,
-   "mof": 1763.9,
-   "moe": 3344.9,
-   "moj": 435.9,
-   "moea": 1818.9,
-   "motc": 1190.5,
-   "mol": 2869.2,
-   "moa": 1609.3,
-   "mohw": 3384.0,
-   "moenv": 78.0,
-   "moc": 259.2,
-   "moda": 71.0,
-   "ocac": 17.7,
-   "nstc": 582.8,
-   "fsc": 16.4,
-   "oac": 281.5,
-   "vac": 1290.3,
-   "local": 2302.5,
-   "reserve": 267.5
-  },
-  "114": {
-   "pres": 156.8,
-   "ey": 362.3,
-   "ly": 37.0,
-   "jy": 288.9,
-   "exam": 407.0,
-   "cy": 26.2,
-   "moi": 1476.9,
-   "mofa": 305.9,
-   "mnd": 4676.0,
-   "mof": 1699.5,
-   "moe": 3605.8,
-   "moj": 448.3,
-   "moea": 1096.9,
-   "motc": 1518.4,
-   "mol": 2926.8,
-   "moa": 1672.4,
-   "mohw": 3690.7,
-   "moenv": 74.4,
-   "moc": 279.0,
-   "moda": 50.8,
-   "ocac": 19.8,
-   "nstc": 684.9,
-   "fsc": 17.0,
-   "oac": 324.6,
-   "vac": 1309.1,
-   "local": 1865.1,
-   "reserve": 229.3
-  },
-  "115": {
-   "pres": 172.2,
-   "ey": 373.1,
-   "ly": 38.8,
-   "jy": 330.6,
-   "exam": 418.7,
-   "cy": 30.5,
-   "moi": 1187.3,
-   "mofa": 415.0,
-   "mnd": 5613.6,
-   "mof": 1689.4,
-   "moe": 2659.2,
-   "moj": 508.0,
-   "moea": 1480.3,
-   "motc": 1539.1,
-   "mol": 2970.7,
-   "moa": 1721.8,
-   "mohw": 3556.7,
-   "sports": 66.4,
-   "moenv": 66.9,
-   "moc": 272.6,
-   "moda": 104.0,
-   "ocac": 26.4,
-   "nstc": 793.7,
-   "fsc": 18.2,
-   "oac": 339.5,
-   "vac": 1325.6,
-   "local": 2501.1,
-   "reserve": 130.0
-  }
- },
- "defenseNato2026": {
-  "total": 9495,
-  "gdp_pct": 3.32,
-  "parts": [
-   {
-    "zh": "國防部主管預算",
-    "en": "MND budget",
-    "amount": 5614
-   },
-   {
-    "zh": "退輔會退除給付＋海巡署",
-    "en": "Veterans pensions + Coast Guard",
-    "amount": 1359
-   },
-   {
-    "zh": "特別預算（新式戰機 399＋海空戰力 293＋其他 1,176）",
-    "en": "Special budgets (F-16V 399 + sea-air 293 + other 1,176)",
-    "amount": 1868
-   },
-   {
-    "zh": "特種基金",
-    "en": "Special funds",
-    "amount": 654
-   }
-  ],
-  "function_only": 5488,
-  "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235226",
-  "source2": "https://www.mygopen.com/2025/09/Long-Term-Care.html"
- },
- "specialBudgets": [
-  {
-   "zh": "前瞻基礎建設",
-   "en": "Forward-looking Infrastructure",
-   "period": "2017–2025",
-   "amount": {
-    "zh": "第 1 期 1,071 億、第 2 期 2,230 億、第 3 期 2,298 億、第 4 期 2,098 億（執行 98.7%）、第 5 期 114 年度 666 億；條例上限 4,200 億",
-    "en": "Phase 1 NT$107.1B, 2 NT$223B, 3 NT$229.8B, 4 NT$209.8B (98.7% executed), 5 FY2025 NT$66.6B; statutory cap NT$420B"
-   },
-   "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/2e3f1347-173e-4dcd-b2c5-d29c6c53b166"
-  },
-  {
-   "zh": "新式戰機採購",
-   "en": "F-16V fighter procurement",
-   "period": "2020–2026",
-   "amount": {
-    "zh": "上限 2,500 億",
-    "en": "Cap NT$250B"
-   },
-   "source": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=189498"
-  },
-  {
-   "zh": "海空戰力提升計畫採購",
-   "en": "Sea-Air Combat Power Enhancement",
-   "period": "2022–2026",
-   "amount": {
-    "zh": "2,372.7 億；113 年度預算執行率 98.25%、簽約達成率 93.5%（兩個口徑）",
-    "en": "NT$237.27B; FY2024 budget utilization 98.25%, contracting rate 93.5% (two different metrics)"
-   },
-   "source": "https://www.cna.com.tw/news/aipl/202506100335.aspx"
-  },
-  {
-   "zh": "疫後強化經濟與社會韌性及全民共享經濟成果",
-   "en": "Post-pandemic resilience & shared prosperity",
-   "period": "2023–2025",
-   "amount": {
-    "zh": "特別決算歲出 3,690 億、節餘 109 億（約 97.0%）",
-    "en": "Final accounts NT$369B spent, NT$10.9B unspent (~97.0%)"
-   },
-   "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
-  },
-  {
-   "zh": "強化經濟社會及民生國安韌性",
-   "en": "Economic, social & national security resilience",
-   "period": "2025–2027",
-   "amount": {
-    "zh": "114-116 年度；115 年度總預算另舉債 2,992 億、特別預算舉債 1,008 億",
-    "en": "FY2025–27; FY2026 borrowing NT$299.2B (general) + NT$100.8B (special)"
-   },
-   "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235226"
-  }
- ],
- "cuts": {
-  "114": {
-   "date": "2025-01-21",
-   "proposed": 31324.69,
-   "legal": 29248.95,
-   "cut": 2075.74,
-   "cut_pct": 6.62,
-   "frozen_note": {
-    "zh": "另凍結約 2,600 億（公督盟單一來源）",
-    "en": "Plus ~NT$260B frozen (single source: CCW)"
-   },
-   "items": [
-    {
-     "zh": "國外旅費、特別費、媒體政策及業務宣導費",
-     "en": "Overseas travel, special allowances, media & policy publicity",
-     "kind": "cut",
-     "value": {
-      "zh": "統刪 60%",
-      "en": "60% across-the-board cut"
-     },
-     "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
-    },
-    {
-     "zh": "經濟部補貼台電",
-     "en": "MOEA subsidy to Taipower",
-     "kind": "cut",
-     "value": {
-      "zh": "約 1,000 億",
-      "en": "~NT$100B"
-     },
-     "source": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
-    },
-    {
-     "zh": "監察院業務費",
-     "en": "Control Yuan operating expenses",
-     "kind": "cut",
-     "value": {
-      "zh": "刪 96.5%",
-      "en": "96.5% cut"
-     },
-     "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
-    },
-    {
-     "zh": "立法院本院業務費",
-     "en": "LY own operating expenses",
-     "kind": "cut",
-     "value": {
-      "zh": "刪 46%",
-      "en": "46% cut"
-     },
-     "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
-    },
-    {
-     "zh": "文化部媒體宣傳費",
-     "en": "MOC media publicity",
-     "kind": "cut",
-     "value": {
-      "zh": "5,943 萬全刪",
-      "en": "NT$59.43M fully cut"
-     },
-     "source": "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434"
-    }
-   ]
-  },
-  "115": {
-   "date": "2026-08-14",
-   "proposed": 30349.74,
-   "legal": 29869.74,
-   "cut": 480,
-   "cut_pct": 1.58,
-   "cut_pct_alt": 1.689,
-   "items": [
-    {
-     "zh": "首長特別費",
-     "en": "Heads' special allowances",
-     "kind": "cut",
-     "value": {
-      "zh": "統刪 60%；行政院、監察院、司法院等 20 機關全刪、不得流用",
-      "en": "60% cut; fully cut for 20 agencies incl. EY, Control Yuan, Judicial Yuan; no reallocation"
-     },
-     "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-    },
-    {
-     "zh": "媒體政策及業務宣導費",
-     "en": "Media & policy publicity",
-     "kind": "cut",
-     "value": {
-      "zh": "除法定支出外統刪 50%",
-      "en": "50% cut except statutory items"
-     },
-     "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-    },
-    {
-     "zh": "國外旅費",
-     "en": "Overseas travel",
-     "kind": "cut",
-     "value": {
-      "zh": "最高統刪 70%",
-      "en": "Up to 70% cut"
-     },
-     "source": "https://news.ltn.com.tw/news/politics/breakingnews/5540035"
-    },
-    {
-     "zh": "軍事裝備及設施",
-     "en": "Military equipment & facilities",
-     "kind": "cut",
-     "value": {
-      "zh": "統刪 2.5%，科目自行調整",
-      "en": "2.5% cut, MND allocates"
-     },
-     "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-    },
-    {
-     "zh": "行政院長薪資",
-     "en": "Premier's salary",
-     "kind": "freeze",
-     "value": {
-      "zh": "9–12 月凍結（59:51 表決）",
-      "en": "Sep–Dec frozen (59–51 vote)"
-     },
-     "source": "https://udn.com/news/story/124984/9692218"
-    },
-    {
-     "zh": "無人機產業發展與採購",
-     "en": "Drone industry & procurement",
-     "kind": "kept",
-     "value": {
-      "zh": "634 億全數保留",
-      "en": "NT$63.4B fully retained"
-     },
-     "source": "https://focustaiwan.tw/politics/202608140026"
-    },
-    {
-     "zh": "文化部媒體宣傳費",
-     "en": "MOC media publicity",
-     "kind": "cut",
-     "value": {
-      "zh": "4,738 萬全刪（連續第二年）",
-      "en": "NT$47.38M fully cut (second year running)"
-     },
-     "source": "https://www.cna.com.tw/news/acul/202608140358.aspx"
-    }
-   ],
-   "ey_seven": {
-    "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx",
-    "items_zh": [
-     "NCC 8–12 月基本行政維持經費 5,782 萬全數刪除",
-     "政策宣導經費原列 13.79 億刪 6.84 億（近五成）",
-     "行政院新聞傳播處業務費遭刪，波及約用人員薪資",
-     "總統國務機要費刪 1,000 萬、凍 2,000 萬",
-     "行政院施政推展聯繫費刪 553.5 萬",
-     "人權與轉型正義預算大幅刪減",
-     "整體恐衝擊政府正常運作"
+  "meta": {
+    "unit": "億元（新臺幣）",
+    "generated": "2026-10-23",
+    "fiscalYears": [105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116],
+    "notes": [
+      "歲出總額：行政院原列（proposed）／立法院法定（legal）／決算（final）三個 basis 分開存放，圖表標示以 basis 為準。",
+      "政事別九類：105-113 年度為決算審定數、114 年度為法定預算數、115 年度為預算案數（主計總處 115 年度總說明參考表 6 同一張時間序列表）；116 年度為 116 年度預算案（主計總處 116 年度預算書，2026-10-22 更新）。116 年度預算書把 115 年度重新分類（見 fy116.restated115），所以 115→116 的政事別增減有一部分是重分類，不是錢真的移動。",
+      "機關別：主計總處《中央政府總預算》歲出機關別預算總表「主管別」彙總列；105-114 為法定預算數，115、116 為行政院提案數（115 年度三讀後法定表截至 2026-10-23 仍未上架）。",
+      "115 年度歲出法定數 29,869.7 億（原列 30,349.7 億、減列 480 億）；歲入法定數＝預算案 28,622.5 億 + 審議調整 6,020 億，依主計總處 2026-09-03 追加預算新聞稿勾稽。",
+      "114 年度決算：審計部審定歲出 29,332.1 億（2026-07-24），執行率分母＝法定 29,249.7 億 + 追加 819.4 億。116 年度預算案尚未三讀，legal／final 為 null。",
+      "執行率＝決算數 ÷ 法定預算數（自算）；有追加預算的年度（114）分母含追加預算。",
+      "GDP 占比＝中央政府歲出總額 ÷ 當年名目 GDP；債務比＝1 年以上非自償債務 ÷ 前 3 年度 GDP 平均，兩者分母不同。"
     ],
-    "items_en": [
-     "NCC Aug–Dec basic operating funds NT$57.82M fully cut",
-     "Policy publicity NT$1.379B cut by NT$684M (~50%)",
-     "EY Department of Information Services operating funds cut, hitting contract staff pay",
-     "Presidential state affairs fund cut NT$10M, frozen NT$20M",
-     "EY policy liaison fund cut NT$5.535M",
-     "Human rights & transitional justice budgets cut sharply",
-     "Overall risk to normal government operations"
+    "sources": [
+      {
+        "zh": "主計總處 2026-08-20「116 年度中央政府總預算案編列情形」新聞稿",
+        "en": "DGBAS press release 2026-08-20: FY2027 central government general budget bill",
+        "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+      },
+      {
+        "zh": "主計總處《116 年度中央政府總預算案》歲出政事別、機關別預算總表（xlsx，2026-10-22 更新）",
+        "en": "DGBAS FY2027 budget bill, expenditure by function and by agency (xlsx)",
+        "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582"
+      },
+      {
+        "zh": "主計總處 2026-09-03「行政院院會通過 115 年度中央政府總預算追加預算案」新聞稿",
+        "en": "DGBAS press release 2026-09-03: FY2026 supplementary budget bill",
+        "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+      },
+      {
+        "zh": "審計部 114 年度中央政府總決算審核報告（中央社 2026-07-24）",
+        "en": "National Audit Office FY2025 general final account (CNA 2026-07-24)",
+        "url": "https://www.cna.com.tw/news/aipl/202607240146.aspx"
+      },
+      {
+        "zh": "中央社 2026-10-16「立院朝野共識 10月底邀卓榮泰報告追加預算及總預算」",
+        "en": "CNA 2026-10-16 on the LY schedule for the FY2027 bill",
+        "url": "https://www.cna.com.tw/news/aipl/202610160078.aspx"
+      },
+      {
+        "zh": "行政院主計總處《中央政府總預算》105–115 年度歲出機關別預算總表（xls/xlsx 原檔）",
+        "en": "DGBAS Central Government General Budget, expenditure by agency FY2016–2026 (original xls/xlsx)",
+        "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=235176"
+      },
+      {
+        "zh": "主計總處《115 年度中央政府總預算案總說明》參考表 4、6（歷年歲出政事別、占 GDP 比率）",
+        "en": "DGBAS FY2026 budget general explanation, reference tables 4 & 6",
+        "url": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
+      },
+      {
+        "zh": "主計總處各年度「中央政府總預算案立法院審議結果」新聞稿",
+        "en": "DGBAS press releases on LY review results, each fiscal year",
+        "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744"
+      },
+      {
+        "zh": "行政院各年度中央政府總決算新聞稿（109–114 年度）",
+        "en": "Executive Yuan final-account press releases FY2020–2025",
+        "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
+      },
+      {
+        "zh": "財政部國庫署歷年各級政府債務概況表",
+        "en": "National Treasury Administration, government debt tables",
+        "url": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      {
+        "zh": "中央社 2026-08-14「115 年總預算減列 480 億元 創最晚三讀紀錄」",
+        "en": "CNA 2026-08-14 on the FY2026 passage",
+        "url": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+      },
+      {
+        "zh": "中央社 2025-01-21「立院三讀 114 年度總預算 刪減 2075 億元創新高」",
+        "en": "CNA 2025-01-21 on the FY2025 passage",
+        "url": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
+      },
+      {
+        "zh": "全國法規資料庫《預算法》第 51、54 條",
+        "en": "Budget Act, Articles 51 & 54",
+        "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=54"
+      }
     ]
-   }
-  }
- },
- "culture": {
-  "rows": [
-   {
-    "zh": "文化部主管原編列",
-    "en": "MOC budget as proposed",
-    "y114": {
-     "zh": "290 億",
-     "en": "NT$29.0B"
+  },
+  "years": [
+    {
+      "fy": 105,
+      "ce": 2016,
+      "era": "ma",
+      "proposed": 19982.0,
+      "legal": 19760.0,
+      "cut": 222.0,
+      "cutPct": 1.11,
+      "final": 19399.5,
+      "execRate": 98.18,
+      "revenueLegal": 18224.0,
+      "revenueProposed": 18446.0,
+      "gdpPct": 11.05,
+      "debt": 53393.1,
+      "debtPct": 33.0,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103682",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/105/105ctab/105c歲出機關別預算總表.xls"
+        ]
+      }
     },
-    "y115": {
-     "zh": "296 億",
-     "en": "NT$29.6B"
+    {
+      "fy": 106,
+      "ce": 2017,
+      "era": "tsai",
+      "proposed": 19980.0,
+      "legal": 19740.0,
+      "cut": 240.0,
+      "cutPct": 1.2,
+      "final": 19273.0,
+      "execRate": 97.63,
+      "revenueLegal": 18411.0,
+      "revenueProposed": 18457.0,
+      "gdpPct": 10.7,
+      "debt": 53530.3,
+      "debtPct": 31.6,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103716",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/106/106ctab/106c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 107,
+      "ce": 2018,
+      "era": "tsai",
+      "proposed": 19918.0,
+      "legal": 19669.0,
+      "cut": 249.0,
+      "cutPct": 1.25,
+      "final": 19094.1,
+      "execRate": 97.08,
+      "revenueLegal": 19192.0,
+      "revenueProposed": 18974.0,
+      "gdpPct": 10.37,
+      "debt": 53735.3,
+      "debtPct": 30.7,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1",
+        "legal": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103752",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/107/107ctab/107c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 108,
+      "ce": 2019,
+      "era": "tsai",
+      "proposed": 20220.0,
+      "legal": 19980.0,
+      "cut": 240.0,
+      "cutPct": 1.19,
+      "final": 19558.1,
+      "execRate": 97.89,
+      "revenueLegal": 19924.0,
+      "revenueProposed": 19770.0,
+      "gdpPct": 10.31,
+      "debt": 53273.7,
+      "debtPct": 29.6,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=104361",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/108/108ctab/108c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 109,
+      "ce": 2020,
+      "era": "tsai",
+      "proposed": 21022.0,
+      "legal": 20776.0,
+      "cut": 246.0,
+      "cutPct": 1.17,
+      "final": 20393.5,
+      "execRate": 98.16,
+      "revenueLegal": 21070.0,
+      "revenueProposed": 21022.0,
+      "gdpPct": 10.18,
+      "debt": 55359.0,
+      "debtPct": 30.0,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=104329",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/109/109ctab/109c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 110,
+      "ce": 2021,
+      "era": "tsai",
+      "proposed": 21615.0,
+      "legal": 21359.0,
+      "cut": 256.0,
+      "cutPct": 1.18,
+      "final": 20890.7,
+      "execRate": 97.81,
+      "revenueLegal": 20534.0,
+      "revenueProposed": 20450.0,
+      "gdpPct": 9.59,
+      "debt": 57089.0,
+      "debtPct": 29.8,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=103854",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/110/110ctab/110c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 111,
+      "ce": 2022,
+      "era": "tsai",
+      "proposed": 22784.0,
+      "legal": 22511.0,
+      "cut": 273.0,
+      "cutPct": 1.2,
+      "final": 22139.6,
+      "execRate": 98.35,
+      "revenueLegal": 22670.0,
+      "revenueProposed": 22391.0,
+      "gdpPct": 9.7,
+      "debt": 59204.9,
+      "debtPct": 29.2,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=200358",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/111/111ctab/111c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 112,
+      "ce": 2023,
+      "era": "tsai",
+      "proposed": 27191.0,
+      "legal": 26891.0,
+      "cut": 300.0,
+      "cutPct": 1.1,
+      "final": 26277.8,
+      "execRate": 97.72,
+      "revenueLegal": null,
+      "revenueProposed": null,
+      "gdpPct": 11.14,
+      "debt": 60577.9,
+      "debtPct": 28.1,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=230689",
+          "https://ws.dgbas.gov.tw/public/data/dgbas01/112/112ctab/112c歲出機關別預算總表.xls"
+        ]
+      }
+    },
+    {
+      "fy": 113,
+      "ce": 2024,
+      "era": "tsai",
+      "proposed": 28818.0,
+      "legal": 28519.0,
+      "cut": 299.0,
+      "cutPct": 1.04,
+      "final": 27841.8,
+      "execRate": 97.63,
+      "revenueLegal": 27252.0,
+      "revenueProposed": 27092.0,
+      "gdpPct": 10.88,
+      "debt": 61479.9,
+      "debtPct": 27.0,
+      "functionsBasis": "final",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744",
+        "legal": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744",
+        "final": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=232850",
+          "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/232850/C歲出機關別預算總表.xlsx"
+        ]
+      }
+    },
+    {
+      "fy": 114,
+      "ce": 2025,
+      "era": "lai",
+      "proposed": 31324.7,
+      "legal": 29249.7,
+      "cut": 2075.0,
+      "cutPct": 6.62,
+      "final": 29332.1,
+      "execRate": 97.55,
+      "legalWithSupp": 30069.1,
+      "supp": 819.4,
+      "revenueLegal": 31648.0,
+      "revenueProposed": 31533.7,
+      "gdpPct": 10.69,
+      "debt": 60730.4,
+      "debtPct": 25.2,
+      "functionsBasis": "legal",
+      "agencyBasis": "legal",
+      "sources": {
+        "proposed": "WebSearch synthesis (未直接開啟主計總處「114年度中央政府總預算案立法院審議結果」新聞稿逐字核對，原始頁面URL未尋得；建議查證 dgbas.gov.tw News n=3602 附近 s=233xxx)",
+        "legal": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，上年度預算數欄)",
+        "final": "https://www.cna.com.tw/news/aipl/202607240146.aspx ；審計部審定歲出 2兆9,332億餘元。審定數 2,933,211,942 千元取自 https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/236582/b歲出政事別預算比較總表(經資門併計).xlsx（116 年度預算書「前年度決算數」欄）",
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=234914",
+          "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/234914/C歲出機關別預算總表.xlsx"
+        ]
+      }
+    },
+    {
+      "fy": 115,
+      "ce": 2026,
+      "era": "lai",
+      "proposed": 30349.7,
+      "legal": 29869.7,
+      "cut": 480.0,
+      "cutPct": 1.58,
+      "final": null,
+      "execRate": null,
+      "suppPending": {
+        "expenditure": 6076.3,
+        "revenue": 828.0,
+        "status": "行政院 2026-09-03 通過，立法院 2026-10-02 一讀交付委員會；2026-10-23 院長報告。未三讀。",
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+      },
+      "revenueLegal": 34642.5,
+      "revenueProposed": 28622.5,
+      "gdpPct": 10.62,
+      "debt": 67503.0,
+      "debtPct": 26.5,
+      "functionsBasis": "proposed",
+      "agencyBasis": "proposed",
+      "sources": {
+        "proposed": "https://www.cna.com.tw/news/aipl/202608140278.aspx ; https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf",
+        "legal": "歲出：https://www.cna.com.tw/news/aipl/202608140278.aspx（三讀報導）；歲入與減列數：主計總處 2026-09-03「行政院院會通過115年度中央政府總預算追加預算案」新聞稿 https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661 ——「併計原預算案立法院審議調整數歲入增加6,020億元及歲出刪減480億元後」。歲入法定數＝預算案 28,622.53 億 + 6,020 億（主計總處四捨五入到億）。主計總處「115年度中央政府總預算案立法院審議結果」新聞稿與法定機關別表截至 2026-10-23 仍未上架。",
+        "final": null,
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=235176",
+          "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b歲出機關別預算總表.xlsx"
+        ]
+      }
+    },
+    {
+      "fy": 116,
+      "ce": 2027,
+      "era": "lai",
+      "proposed": 39266.0,
+      "legal": null,
+      "cut": null,
+      "cutPct": null,
+      "final": null,
+      "execRate": null,
+      "revenueLegal": null,
+      "revenueProposed": 39266.0,
+      "gdpPct": null,
+      "debt": 68831.0,
+      "debtPct": 23.4,
+      "functionsBasis": "proposed",
+      "agencyBasis": "proposed",
+      "sources": {
+        "proposed": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624 ; https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582（歷年中央政府收支概況表 116 年度 3,926,598 百萬元；主計總處新聞稿 2026-08-20：歲入歲出各 3 兆 9,266 億元）",
+        "legal": null,
+        "final": null,
+        "agencies": [
+          "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582",
+          "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/236582/b歲出機關別預算總表.xlsx",
+          "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/236582/b歲出機關別預算比較總表(經資門併計).xlsx"
+        ]
+      }
     }
-   },
-   {
-    "zh": "刪除",
-    "en": "Cut",
-    "y114": {
-     "zh": "11 億",
-     "en": "NT$1.1B"
-    },
-    "y115": {
-     "zh": "約 10 億",
-     "en": "~NT$1.0B"
-    },
-    "kind": "cut"
-   },
-   {
-    "zh": "凍結",
-    "en": "Frozen",
-    "y114": {
-     "zh": "34 億（業務費 30% 無差別凍結）",
-     "en": "NT$3.4B (30% of operating funds frozen across the board)"
-    },
-    "y115": {
-     "zh": "3.86 億",
-     "en": "NT$386M"
-    },
-    "kind": "freeze"
-   },
-   {
-    "zh": "媒體宣傳費",
-    "en": "Media publicity",
-    "y114": {
-     "zh": "5,943 萬全刪",
-     "en": "NT$59.43M fully cut"
-    },
-    "y115": {
-     "zh": "4,738 萬全刪（連續第二年，唯一被全刪的部會）",
-     "en": "NT$47.38M fully cut (second year running; the only ministry fully cut)"
-    },
-    "kind": "cut"
-   },
-   {
-    "zh": "公視／TaiwanPlus",
-    "en": "PTS / TaiwanPlus",
-    "y114": {
-     "zh": "合併刪 2.43 億",
-     "en": "NT$243M cut (combined)"
-    },
-    "y115": {
-     "zh": "公視刪 2,185 萬、凍 2 億；TaiwanPlus 刪 2 億",
-     "en": "PTS cut NT$21.85M & NT$200M frozen; TaiwanPlus cut NT$200M"
-    },
-    "kind": "mixed"
-   },
-   {
-    "zh": "文策院",
-    "en": "TAICCA",
-    "y114": {
-     "zh": "—",
-     "en": "—"
-    },
-    "y115": {
-     "zh": "刪凍逾 1 億",
-     "en": "Over NT$100M cut/frozen"
-    },
-    "kind": "mixed"
-   },
-   {
-    "zh": "公共媒體合計",
-    "en": "Public media total",
-    "y114": {
-     "zh": "—",
-     "en": "—"
-    },
-    "y115": {
-     "zh": "刪凍近 6 億",
-     "en": "Nearly NT$600M cut/frozen"
-    },
-    "kind": "mixed"
-   }
   ],
-  "sources": [
-   "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434",
-   "https://art.ltn.com.tw/article/breakingnews/5540343",
-   "https://udn.com/news/story/124984/9692266",
-   "https://udn.com/news/story/6656/9692417"
-  ]
- },
- "events": [
-  {
-   "date": "2024-01-13",
-   "fy": null,
-   "kind": "context",
-   "zh": "立委選舉：民進黨失去國會多數，國民黨與民眾黨合計過半",
-   "en": "Legislative election: DPP loses majority; KMT + TPP hold the floor"
-  },
-  {
-   "date": "2025-01-21",
-   "fy": 114,
-   "kind": "pass",
-   "zh": "114 年度總預算三讀：減列 2,075.74 億（6.6%，史上最高），另凍結約 2,600 億",
-   "en": "FY2025 budget passed: NT$207.6B cut (6.6%, record), ~NT$260B frozen",
-   "source": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
-  },
-  {
-   "date": "2025-03-12",
-   "fy": 114,
-   "kind": "key",
-   "zh": "立法院否決總預算與財劃法覆議案",
-   "en": "LY rejects EY's reconsideration requests on the budget and the Fiscal Allocation Act",
-   "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
-  },
-  {
-   "date": "2025-07-26",
-   "fy": null,
-   "kind": "context",
-   "zh": "大罷免第一波：24 席國民黨立委罷免案全數未通過",
-   "en": "Mass recall wave 1: all 24 KMT recall votes fail",
-   "source": "https://www.cna.com.tw/news/aipl/202507265011.aspx"
-  },
-  {
-   "date": "2025-08-21",
-   "fy": 115,
-   "kind": "context",
-   "zh": "行政院院會通過 115 年度總預算案：歲出 3 兆 349.74 億、歲入 2 兆 8,622.53 億",
-   "en": "Cabinet approves FY2026 budget: NT$3.035T spending, NT$2.862T revenue",
-   "source": "https://www.ey.gov.tw/File/DE632C4A7FC815A0"
-  },
-  {
-   "date": "2025-08-23",
-   "fy": null,
-   "kind": "context",
-   "zh": "大罷免第二波：7 案全數未通過",
-   "en": "Mass recall wave 2: all 7 fail",
-   "source": "https://hakkanews.tw/2025/07/23/215374/"
-  },
-  {
-   "date": "2025-08-29",
-   "fy": 114,
-   "kind": "context",
-   "zh": "114 年度追加預算 819 億通過",
-   "en": "FY2025 supplementary budget NT$81.9B passed",
-   "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
-  },
-  {
-   "date": "2025-08-31",
-   "fy": 115,
-   "kind": "context",
-   "zh": "115 年度總預算案送達立法院（另有 8/29 一說）",
-   "en": "FY2026 budget delivered to the LY (some sources say Aug 29)",
-   "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-  },
-  {
-   "date": "2025-09-30",
-   "fy": 115,
-   "kind": "context",
-   "zh": "院會邀行政院長、主計長、財政部長列席報告總預算案編製經過",
-   "en": "Premier, DGBAS and MOF report to the LY plenary on the budget",
-   "source": "https://ppg.ly.gov.tw/ppg/bills/301110158310000/details"
-  },
-  {
-   "date": "2025-11-30",
-   "fy": 115,
-   "kind": "key",
-   "zh": "預算法第 51 條期限（會計年度開始一個月前）屆滿，總預算案仍未付委",
-   "en": "Statutory deadline (one month before the fiscal year) passes; the bill is still not in committee",
-   "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=51"
-  },
-  {
-   "date": "2025-12-15",
-   "fy": null,
-   "kind": "key",
-   "zh": "行政院長卓榮泰依憲法第 37 條「不副署」立法院三讀的財劃法修正案（憲政首例）；理由含 115 年度須增加舉債 2,646 億、舉債占歲出比恐達 17.1%（逾公債法 15% 上限）",
-   "en": "Premier Cho Jung-tai declines to countersign the amended Fiscal Allocation Act under Constitution Art. 37, a first in ROC history; grounds include NT$264.6B more borrowing for FY2026 and a borrowing ratio of 17.1% (above the 15% statutory cap)",
-   "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/4cae91e8-e648-4e09-960d-841c5ddd128e"
-  },
-  {
-   "date": "2025-12-27",
-   "fy": 115,
-   "kind": "context",
-   "zh": "跨年前仍卡關：在野以未依法編列軍人待遇、警察人事條例預算為由；行政院稱有違憲疑慮已聲請釋憲",
-   "en": "Still stalled before New Year: opposition cites missing pay-raise budgets; EY says the laws are being challenged as unconstitutional",
-   "source": "https://www.cna.com.tw/news/aipl/202512270025.aspx"
-  },
-  {
-   "date": "2026-04-17",
-   "fy": 115,
-   "kind": "context",
-   "zh": "總預算案交付委員會審查（另有 4/21 一說）",
-   "en": "Budget referred to committees (some say Apr 21)",
-   "source": "https://ppg.ly.gov.tw/ppg/bills/301110158310000/details"
-  },
-  {
-   "date": "2026-07-02",
-   "fy": 115,
-   "kind": "context",
-   "zh": "教育及文化委員會審文化部：媒宣費 4,738 萬成焦點，召委裁示凍 800 萬",
-   "en": "Education & Culture Committee reviews MOC: NT$47.38M publicity in focus, NT$8M frozen",
-   "source": "https://www.cna.com.tw/news/acul/202607020152.aspx"
-  },
-  {
-   "date": "2026-07-21",
-   "fy": 115,
-   "kind": "context",
-   "zh": "視覺藝術聯盟聲明：「晶片可以讓台灣被需要，文化才能讓台灣被理解」",
-   "en": "Visual Arts Alliance statement: \"Chips make Taiwan needed; culture makes Taiwan understood\"",
-   "source": "https://www.rti.org.tw/news?uid=3&pid=221675"
-  },
-  {
-   "date": "2026-08-14",
-   "fy": 115,
-   "kind": "pass",
-   "zh": "115 年度總預算三讀：減列 480 億（1.58%）；史上最晚三讀",
-   "en": "FY2026 budget passed: NT$48B cut (1.58%); latest passage on record",
-   "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
-  },
-  {
-   "date": "2026-08-14",
-   "fy": 115,
-   "kind": "context",
-   "zh": "行政院晚間列「7 項非理性決議」；文化部長李遠：「損失的是台灣在世界的話語權」",
-   "en": "EY lists \"seven unreasonable resolutions\"; Culture Minister Lee: \"what is lost is Taiwan's voice in the world\"",
-   "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx"
-  },
-  {
-   "date": "2026-08-16",
-   "fy": 115,
-   "kind": "context",
-   "zh": "國民黨張雅屏反駁「351 天」：送案到付委卡 235 天，付委後實審 115 天",
-   "en": "KMT's Chang Ya-ping rebuts \"351 days\": 235 days stuck before committee, 115 days of actual review",
-   "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
-  }
- ],
- "days": [
-  {
-   "who": {
-    "zh": "總統賴清德",
-    "en": "President Lai Ching-te"
-   },
-   "n": 351,
-   "zh": "「總預算延宕 351 天」",
-   "en": "\"the budget was delayed 351 days\"",
-   "source": "https://www.cna.com.tw/news/aipl/202608140346.aspx"
-  },
-  {
-   "who": {
-    "zh": "立法院長韓國瑜",
-    "en": "Speaker Han Kuo-yu"
-   },
-   "n": 266,
-   "zh": "「總預算拖了 266 天終於審查完畢」",
-   "en": "\"after 266 days the review is finally done\"",
-   "source": "https://www.cna.com.tw/news/aipl/202608140281.aspx"
-  },
-  {
-   "who": {
-    "zh": "國民黨張雅屏",
-    "en": "KMT's Chang Ya-ping"
-   },
-   "n": 115,
-   "zh": "「付委後實質審查只有 115 天」",
-   "en": "\"only 115 days of substantive review after committee referral\"",
-   "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
-  }
- ],
- "voices": {
-  "gov": {
-   "zh": "行政院／文化部的說法",
-   "en": "Executive Yuan / Ministry of Culture",
-   "items": [
+  "eras": [
     {
-     "zh": "「損失的是台灣在世界的話語權，以及詮釋台灣主權觀點的管道。」——文化部長李遠，2026-08-14",
-     "en": "\"What is lost is Taiwan's voice in the world and a channel to explain Taiwan's view of its own sovereignty.\" — Culture Minister Lee Yuan, 2026-08-14",
-     "source": "https://art.ltn.com.tw/article/breakingnews/5540343"
+      "id": "ma",
+      "from": 2016,
+      "to": 2016,
+      "president": {
+        "zh": "馬英九政府編製",
+        "en": "Ma Ying-jeou gov't (compiled)"
+      },
+      "ly": {
+        "zh": "國民黨過半國會（第 8 屆）審議",
+        "en": "KMT-majority LY (8th) reviewed"
+      },
+      "cls": "era-a"
     },
     {
-     "zh": "行政院發言人李慧芝列出 7 項「非理性決議」：NCC 8–12 月基本行政經費全刪、政策宣導費刪近五成、國務機要費刪凍等——2026-08-14",
-     "en": "EY spokesperson Li Hui-chih lists seven \"unreasonable resolutions\": NCC's Aug–Dec operating funds fully cut, publicity budgets nearly halved, presidential state-affairs fund cut/frozen — 2026-08-14",
-     "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx"
+      "id": "tsai",
+      "from": 2017,
+      "to": 2024,
+      "president": {
+        "zh": "蔡英文政府",
+        "en": "Tsai Ing-wen gov't"
+      },
+      "ly": {
+        "zh": "民進黨過半國會",
+        "en": "DPP-majority LY"
+      },
+      "cls": "era-b"
     },
     {
-     "zh": "「多項不合理的刪除及凍結理由，展現出對文化部所有努力的否定，以及對文化工作者的不尊重。」——文化部新聞稿，回應 114 年度三讀",
-     "en": "\"Many unreasonable cut and freeze rationales negate everything the ministry has done and disrespect cultural workers.\" — MOC statement on the FY2025 budget",
-     "source": "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434"
+      "id": "lai",
+      "from": 2025,
+      "to": 2027,
+      "president": {
+        "zh": "賴清德政府",
+        "en": "Lai Ching-te gov't"
+      },
+      "ly": {
+        "zh": "國民黨＋民眾黨過半國會",
+        "en": "KMT+TPP-majority LY"
+      },
+      "cls": "era-c"
     }
-   ]
-  },
-  "opp": {
-   "zh": "在野黨（國民黨／民眾黨）的說法",
-   "en": "Opposition (KMT / TPP)",
-   "items": [
+  ],
+  "functions": [
     {
-     "zh": "「回顧 97 至 114 年度，中央總預算從送案到三讀需要 104 至 152 天，中位數約 139 天。115 年度付委後只審 115 天，不但沒有反常，還接近歷年較短的一端。」——國民黨考紀會主委張雅屏，2026-08-16",
-     "en": "\"From FY2008 to FY2025 the central budget took 104–152 days from submission to passage, median ~139. FY2026 got 115 days after referral — not abnormal, near the short end.\" — KMT's Chang Ya-ping, 2026-08-16",
-     "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+      "id": "welfare",
+      "zh": "社會福利",
+      "en": "Social welfare"
     },
     {
-     "zh": "「480 億元除以行政院原列歲出 3 兆 350 億元，約為 1.58%；低於 102 年度的 1.90%。」——張雅屏，同上",
-     "en": "\"NT$48B over the proposed NT$3.035T is about 1.58%, below FY2013's 1.90%.\" — Chang Ya-ping, ibid.",
-     "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+      "id": "edu",
+      "zh": "教育科學文化",
+      "en": "Education, science & culture"
     },
     {
-     "zh": "在野黨團 2025 年 12 月的付委條件：行政院須依法編列軍人待遇條例、警察人員人事條例相關預算——中央社 2025-12-27",
-     "en": "Opposition caucuses' condition for referral in Dec 2025: the EY must budget for the military pay and police personnel acts as passed — CNA 2025-12-27",
-     "source": "https://www.cna.com.tw/news/aipl/202512270025.aspx"
+      "id": "defense",
+      "zh": "國防",
+      "en": "National defense"
     },
     {
-     "zh": "「換掉一個卓榮泰，還有千千萬萬個卓榮泰，然後宣布解散國會」——國民黨立法院黨團書記長羅智強，2025-12-15",
-     "en": "\"Replace one Cho Jung-tai and there'll be thousands more, then dissolve the legislature.\" — KMT caucus secretary-general Lo Chih-chiang, 2025-12-15",
-     "source": "https://www.cna.com.tw/news/aipl/202512165003.aspx"
+      "id": "econ",
+      "zh": "經濟發展",
+      "en": "Economic development"
     },
     {
-     "zh": "「副署制度絕不能作為行政院否決立法院三讀通過法律的權力依據，這是扭曲憲法規範的權力濫用」——民眾黨立法院黨團總召黃國昌，2025-12-15",
-     "en": "\"The countersignature can never be a basis for the Executive Yuan to veto a law the legislature has passed; this is an abuse of power that distorts the Constitution.\" — TPP caucus leader Huang Kuo-chang, 2025-12-15",
-     "source": "https://www.cna.com.tw/news/aipl/202512165003.aspx"
+      "id": "general",
+      "zh": "一般政務",
+      "en": "General administration"
+    },
+    {
+      "id": "pension",
+      "zh": "退休撫卹",
+      "en": "Pensions"
+    },
+    {
+      "id": "debt",
+      "zh": "債務",
+      "en": "Debt service"
+    },
+    {
+      "id": "community",
+      "zh": "社區發展及環保",
+      "en": "Community & environment"
+    },
+    {
+      "id": "other",
+      "zh": "一般補助及其他",
+      "en": "Grants & other"
     }
-   ]
+  ],
+  "functionsByYear": {
+    "105": {
+      "welfare": 4600.7,
+      "edu": 3823.8,
+      "defense": 3093.0,
+      "econ": 2667.2,
+      "general": 1797.0,
+      "pension": 1468.3,
+      "debt": 1132.0,
+      "community": 174.6,
+      "other": 643.0
+    },
+    "106": {
+      "welfare": 4721.9,
+      "edu": 4012.9,
+      "defense": 3057.0,
+      "econ": 2567.3,
+      "general": 1760.1,
+      "pension": 1378.8,
+      "debt": 1018.1,
+      "community": 164.4,
+      "other": 592.5
+    },
+    "107": {
+      "welfare": 4873.4,
+      "edu": 3866.5,
+      "defense": 3137.4,
+      "econ": 2330.9,
+      "general": 1850.7,
+      "pension": 1276.5,
+      "debt": 1007.2,
+      "community": 180.0,
+      "other": 571.4
+    },
+    "108": {
+      "welfare": 4902.5,
+      "edu": 4069.5,
+      "defense": 3241.2,
+      "econ": 2416.6,
+      "general": 1853.7,
+      "pension": 1338.4,
+      "debt": 982.1,
+      "community": 185.4,
+      "other": 568.7
+    },
+    "109": {
+      "welfare": 5234.0,
+      "edu": 4120.6,
+      "defense": 3355.3,
+      "econ": 2500.9,
+      "general": 1907.7,
+      "pension": 1433.9,
+      "debt": 953.7,
+      "community": 229.4,
+      "other": 658.0
+    },
+    "110": {
+      "welfare": 5567.5,
+      "edu": 4119.4,
+      "defense": 3462.2,
+      "econ": 2505.8,
+      "general": 1957.5,
+      "pension": 1458.4,
+      "debt": 882.1,
+      "community": 207.9,
+      "other": 729.8
+    },
+    "111": {
+      "welfare": 6151.0,
+      "edu": 4414.6,
+      "defense": 3546.5,
+      "econ": 2552.7,
+      "general": 2046.0,
+      "pension": 1472.0,
+      "debt": 829.0,
+      "community": 262.3,
+      "other": 865.5
+    },
+    "112": {
+      "welfare": 7068.1,
+      "edu": 4817.8,
+      "defense": 3869.6,
+      "econ": 4761.7,
+      "general": 2255.8,
+      "pension": 1486.2,
+      "debt": 832.7,
+      "community": 280.9,
+      "other": 905.0
+    },
+    "113": {
+      "welfare": 7812.6,
+      "edu": 5380.9,
+      "defense": 4161.7,
+      "econ": 4341.4,
+      "general": 2383.2,
+      "pension": 1697.7,
+      "debt": 887.5,
+      "community": 278.8,
+      "other": 898.0
+    },
+    "114": {
+      "welfare": 8154.8,
+      "edu": 5828.8,
+      "defense": 4590.8,
+      "econ": 4170.6,
+      "general": 2648.7,
+      "pension": 1811.4,
+      "debt": 1063.1,
+      "community": 293.7,
+      "other": 687.9
+    },
+    "115": {
+      "welfare": 8318.0,
+      "edu": 5566.3,
+      "defense": 5488.1,
+      "econ": 4274.6,
+      "general": 3025.2,
+      "pension": 1844.2,
+      "debt": 1063.1,
+      "community": 266.1,
+      "other": 504.1
+    },
+    "116": {
+      "welfare": 11889.1,
+      "edu": 6133.9,
+      "defense": 6836.1,
+      "econ": 7591.4,
+      "general": 3201.9,
+      "pension": 1922.1,
+      "debt": 1063.1,
+      "community": 420.7,
+      "other": 207.7
+    }
   },
-  "third": {
-   "zh": "文化界與第三方",
-   "en": "Cultural sector & third parties",
-   "items": [
+  "agencies": [
     {
-     "zh": "「晶片可以讓台灣被需要，文化才能讓台灣被理解。」「監督政府不能以消滅台灣的發聲能力為代價。」——視覺藝術聯盟，2026-07-21",
-     "en": "\"Chips make Taiwan needed; culture makes Taiwan understood.\" \"Oversight must not come at the cost of Taiwan's ability to speak.\" — Visual Arts Alliance, 2026-07-21",
-     "source": "https://www.rti.org.tw/news?uid=3&pid=221675"
+      "id": "mnd",
+      "zh": "國防部",
+      "en": "Ministry of National Defense",
+      "highlight": true
     },
     {
-     "zh": "「拖了 266 天⋯⋯拜託朝野都能各退一步，在野黨展現成熟監督的國會高度，行政院展現尊重法治的憲政風範。」——立法院長韓國瑜，2026-08-14",
-     "en": "\"266 days... I plead with both sides to step back — the opposition to show mature oversight, the Executive Yuan to show respect for the rule of law.\" — Speaker Han Kuo-yu, 2026-08-14",
-     "source": "https://www.cna.com.tw/news/aipl/202608140281.aspx"
+      "id": "mohw",
+      "zh": "衛生福利部",
+      "en": "Ministry of Health and Welfare"
+    },
+    {
+      "id": "mol",
+      "zh": "勞動部",
+      "en": "Ministry of Labor"
+    },
+    {
+      "id": "moe",
+      "zh": "教育部",
+      "en": "Ministry of Education",
+      "note": {
+        "zh": "115 年度體育署拆出為運動部；財劃法修正後部分補助改列",
+        "en": "Sports Admin. spun off as Ministry of Sports in FY2026; some grants reclassified after the Fiscal Allocation Act amendment"
+      }
+    },
+    {
+      "id": "local",
+      "zh": "直轄市及縣市政府",
+      "en": "Grants to local governments",
+      "note": {
+        "zh": "105 年度名稱為「省市地方政府」",
+        "en": "Named 省市地方政府 in FY2016"
+      }
+    },
+    {
+      "id": "moa",
+      "zh": "農業部",
+      "en": "Ministry of Agriculture",
+      "note": {
+        "zh": "112 年 8 月農委會改制農業部",
+        "en": "Council of Agriculture became a ministry in Aug 2023"
+      }
+    },
+    {
+      "id": "mof",
+      "zh": "財政部",
+      "en": "Ministry of Finance"
+    },
+    {
+      "id": "motc",
+      "zh": "交通部",
+      "en": "Ministry of Transportation and Communications"
+    },
+    {
+      "id": "moea",
+      "zh": "經濟部",
+      "en": "Ministry of Economic Affairs"
+    },
+    {
+      "id": "vac",
+      "zh": "退輔會",
+      "en": "Veterans Affairs Council"
+    },
+    {
+      "id": "moi",
+      "zh": "內政部",
+      "en": "Ministry of the Interior"
+    },
+    {
+      "id": "nstc",
+      "zh": "國科會",
+      "en": "National Science and Technology Council",
+      "note": {
+        "zh": "111 年 7 月科技部改制國科會",
+        "en": "Ministry of Science and Technology became NSTC in Jul 2022"
+      }
+    },
+    {
+      "id": "moj",
+      "zh": "法務部",
+      "en": "Ministry of Justice"
+    },
+    {
+      "id": "exam",
+      "zh": "考試院",
+      "en": "Examination Yuan"
+    },
+    {
+      "id": "mofa",
+      "zh": "外交部",
+      "en": "Ministry of Foreign Affairs"
+    },
+    {
+      "id": "ey",
+      "zh": "行政院",
+      "en": "Executive Yuan (incl. councils)",
+      "note": {
+        "zh": "含國發會、陸委會、原民會、客委會、主計總處、人事總處、NCC、公平會、中選會、故宮等未獨立列項機關",
+        "en": "Includes NDC, MAC, CIP, HAC, DGBAS, DGPA, NCC, FTC, CEC, National Palace Museum etc."
+      }
+    },
+    {
+      "id": "oac",
+      "zh": "海洋委員會",
+      "en": "Ocean Affairs Council",
+      "note": {
+        "zh": "107 年 4 月海巡署改隸海洋委員會",
+        "en": "Coast Guard Admin. moved under OAC in Apr 2018"
+      }
+    },
+    {
+      "id": "jy",
+      "zh": "司法院",
+      "en": "Judicial Yuan"
+    },
+    {
+      "id": "moc",
+      "zh": "文化部",
+      "en": "Ministry of Culture",
+      "highlight": true
+    },
+    {
+      "id": "pres",
+      "zh": "總統府",
+      "en": "Office of the President"
+    },
+    {
+      "id": "moda",
+      "zh": "數位發展部",
+      "en": "Ministry of Digital Affairs",
+      "note": {
+        "zh": "111 年 8 月成立",
+        "en": "Established Aug 2022"
+      }
+    },
+    {
+      "id": "moenv",
+      "zh": "環境部",
+      "en": "Ministry of Environment",
+      "note": {
+        "zh": "112 年 8 月環保署改制環境部",
+        "en": "EPA became a ministry in Aug 2023"
+      }
+    },
+    {
+      "id": "sports",
+      "zh": "運動部",
+      "en": "Ministry of Sports",
+      "note": {
+        "zh": "115 年度新設，原教育部體育署",
+        "en": "New in FY2026, formerly Sports Administration under MOE"
+      }
+    },
+    {
+      "id": "ly",
+      "zh": "立法院",
+      "en": "Legislative Yuan"
+    },
+    {
+      "id": "cy",
+      "zh": "監察院",
+      "en": "Control Yuan"
+    },
+    {
+      "id": "ocac",
+      "zh": "僑務委員會",
+      "en": "Overseas Community Affairs Council"
+    },
+    {
+      "id": "fsc",
+      "zh": "金管會",
+      "en": "Financial Supervisory Commission"
+    },
+    {
+      "id": "reserve",
+      "zh": "預備金與準備",
+      "en": "Reserves",
+      "aggregate": true
+    },
+    {
+      "id": "aec",
+      "zh": "原子能委員會",
+      "en": "Atomic Energy Council",
+      "note": {
+        "zh": "112 年 9 月改制核安會（併入行政院主管）",
+        "en": "Reorganized as Nuclear Safety Commission in Sep 2023 (under EY)"
+      }
+    },
+    {
+      "id": "mtac",
+      "zh": "蒙藏委員會",
+      "en": "Mongolian & Tibetan Affairs Commission",
+      "note": {
+        "zh": "106 年 9 月裁撤",
+        "en": "Abolished Sep 2017"
+      }
     }
-   ]
+  ],
+  "agenciesByYear": {
+    "105": {
+      "pres": 170.1,
+      "ey": 246.4,
+      "ly": 36.8,
+      "jy": 248.4,
+      "exam": 264.3,
+      "cy": 23.0,
+      "moi": 869.0,
+      "mofa": 244.3,
+      "mnd": 3200.8,
+      "mof": 1960.5,
+      "moe": 2253.0,
+      "moj": 317.2,
+      "moea": 590.0,
+      "motc": 1121.2,
+      "mol": 1168.0,
+      "mtac": 1.3,
+      "ocac": 13.9,
+      "aec": 29.3,
+      "moa": 1217.9,
+      "mohw": 1986.7,
+      "moenv": 43.0,
+      "moc": 165.3,
+      "oac": 141.0,
+      "nstc": 466.5,
+      "fsc": 14.4,
+      "vac": 1246.5,
+      "local": 1625.8,
+      "reserve": 94.0
+    },
+    "106": {
+      "pres": 153.7,
+      "ey": 231.5,
+      "ly": 34.6,
+      "jy": 216.4,
+      "exam": 278.3,
+      "cy": 21.4,
+      "moi": 834.9,
+      "mofa": 243.3,
+      "mnd": 3192.8,
+      "mof": 1837.1,
+      "moe": 2406.0,
+      "moj": 312.8,
+      "moea": 532.2,
+      "motc": 1097.5,
+      "mol": 1234.4,
+      "mtac": 1.2,
+      "ocac": 13.2,
+      "aec": 27.2,
+      "moa": 1191.7,
+      "mohw": 2094.8,
+      "moenv": 46.5,
+      "moc": 188.5,
+      "oac": 140.5,
+      "nstc": 502.1,
+      "fsc": 14.3,
+      "vac": 1173.9,
+      "local": 1625.4,
+      "reserve": 94.0
+    },
+    "107": {
+      "pres": 135.4,
+      "ey": 239.3,
+      "ly": 35.0,
+      "jy": 219.8,
+      "exam": 264.8,
+      "cy": 21.1,
+      "moi": 845.2,
+      "mofa": 261.3,
+      "mnd": 3231.4,
+      "mof": 1829.4,
+      "moe": 2384.0,
+      "moj": 317.5,
+      "moea": 528.1,
+      "motc": 764.1,
+      "mol": 1303.0,
+      "ocac": 15.5,
+      "aec": 27.8,
+      "moa": 1278.8,
+      "mohw": 2168.9,
+      "moenv": 47.7,
+      "moc": 178.3,
+      "oac": 164.8,
+      "nstc": 395.5,
+      "fsc": 14.3,
+      "vac": 1160.0,
+      "local": 1621.2,
+      "reserve": 216.1
+    },
+    "108": {
+      "pres": 139.2,
+      "ey": 260.4,
+      "ly": 34.5,
+      "jy": 227.2,
+      "exam": 256.9,
+      "cy": 22.3,
+      "moi": 825.9,
+      "mofa": 259.4,
+      "mnd": 3404.8,
+      "mof": 1732.9,
+      "moe": 2457.6,
+      "moj": 336.3,
+      "moea": 517.8,
+      "motc": 790.3,
+      "mol": 1309.9,
+      "ocac": 13.0,
+      "aec": 25.5,
+      "moa": 1296.7,
+      "mohw": 2215.2,
+      "moenv": 50.2,
+      "moc": 197.4,
+      "nstc": 423.6,
+      "fsc": 15.3,
+      "oac": 174.8,
+      "vac": 1230.6,
+      "local": 1668.2,
+      "reserve": 94.0
+    },
+    "109": {
+      "pres": 140.3,
+      "ey": 263.0,
+      "ly": 35.1,
+      "jy": 233.2,
+      "exam": 257.8,
+      "cy": 22.0,
+      "moi": 622.1,
+      "mofa": 280.8,
+      "mnd": 3512.2,
+      "mof": 1684.6,
+      "moe": 2565.4,
+      "moj": 354.0,
+      "moea": 535.1,
+      "motc": 739.9,
+      "mol": 1519.8,
+      "ocac": 12.8,
+      "aec": 25.0,
+      "moa": 1622.3,
+      "mohw": 2311.0,
+      "moenv": 60.3,
+      "moc": 194.3,
+      "nstc": 418.2,
+      "fsc": 15.3,
+      "oac": 212.5,
+      "vac": 1282.3,
+      "local": 1762.1,
+      "reserve": 94.0
+    },
+    "110": {
+      "pres": 140.9,
+      "ey": 511.7,
+      "ly": 34.0,
+      "jy": 241.9,
+      "exam": 277.8,
+      "cy": 24.2,
+      "moi": 641.2,
+      "mofa": 291.7,
+      "mnd": 3617.7,
+      "mof": 1719.8,
+      "moe": 2573.2,
+      "moj": 348.5,
+      "moea": 533.4,
+      "motc": 711.8,
+      "mol": 1646.0,
+      "ocac": 12.8,
+      "aec": 24.6,
+      "moa": 1370.0,
+      "mohw": 2475.4,
+      "moenv": 56.6,
+      "moc": 176.4,
+      "nstc": 409.0,
+      "fsc": 15.7,
+      "oac": 244.5,
+      "vac": 1272.7,
+      "local": 1893.3,
+      "reserve": 94.0
+    },
+    "111": {
+      "pres": 144.2,
+      "ey": 251.7,
+      "ly": 34.3,
+      "jy": 247.7,
+      "exam": 263.3,
+      "cy": 25.0,
+      "moi": 789.2,
+      "mofa": 300.7,
+      "mnd": 3676.0,
+      "mof": 1731.7,
+      "moe": 2747.4,
+      "moj": 369.7,
+      "moea": 572.5,
+      "motc": 790.7,
+      "mol": 1808.9,
+      "ocac": 13.7,
+      "aec": 23.8,
+      "moa": 1470.4,
+      "mohw": 2737.1,
+      "moenv": 80.3,
+      "moc": 177.5,
+      "nstc": 474.6,
+      "fsc": 15.8,
+      "oac": 240.7,
+      "vac": 1297.7,
+      "local": 1965.5,
+      "reserve": 260.5
+    },
+    "112": {
+      "pres": 148.0,
+      "ey": 297.7,
+      "ly": 36.1,
+      "jy": 260.2,
+      "exam": 275.1,
+      "cy": 26.6,
+      "moi": 1253.9,
+      "mofa": 313.6,
+      "mnd": 4092.0,
+      "mof": 1775.1,
+      "moe": 2897.8,
+      "moj": 402.6,
+      "moea": 2139.0,
+      "motc": 1033.7,
+      "mol": 1998.9,
+      "ocac": 17.0,
+      "aec": 27.9,
+      "moa": 1506.7,
+      "mohw": 3680.0,
+      "moenv": 88.9,
+      "moc": 204.3,
+      "moda": 55.6,
+      "nstc": 514.9,
+      "fsc": 16.4,
+      "oac": 287.8,
+      "vac": 1271.3,
+      "local": 2146.2,
+      "reserve": 124.0
+    },
+    "113": {
+      "pres": 151.8,
+      "ey": 344.6,
+      "ly": 36.5,
+      "jy": 272.7,
+      "exam": 331.5,
+      "cy": 27.1,
+      "moi": 1114.7,
+      "mofa": 311.4,
+      "mnd": 4344.8,
+      "mof": 1763.9,
+      "moe": 3344.9,
+      "moj": 435.9,
+      "moea": 1818.9,
+      "motc": 1190.5,
+      "mol": 2869.2,
+      "moa": 1609.3,
+      "mohw": 3384.0,
+      "moenv": 78.0,
+      "moc": 259.2,
+      "moda": 71.0,
+      "ocac": 17.7,
+      "nstc": 582.8,
+      "fsc": 16.4,
+      "oac": 281.5,
+      "vac": 1290.3,
+      "local": 2302.5,
+      "reserve": 267.5
+    },
+    "114": {
+      "pres": 156.8,
+      "ey": 362.3,
+      "ly": 37.0,
+      "jy": 288.9,
+      "exam": 407.0,
+      "cy": 26.2,
+      "moi": 1476.9,
+      "mofa": 305.9,
+      "mnd": 4676.0,
+      "mof": 1699.5,
+      "moe": 3605.8,
+      "moj": 448.3,
+      "moea": 1096.9,
+      "motc": 1518.4,
+      "mol": 2926.8,
+      "moa": 1672.4,
+      "mohw": 3690.7,
+      "moenv": 74.4,
+      "moc": 279.0,
+      "moda": 50.8,
+      "ocac": 19.8,
+      "nstc": 684.9,
+      "fsc": 17.0,
+      "oac": 324.6,
+      "vac": 1309.1,
+      "local": 1865.1,
+      "reserve": 229.3
+    },
+    "115": {
+      "pres": 172.2,
+      "ey": 373.1,
+      "ly": 38.8,
+      "jy": 330.6,
+      "exam": 418.7,
+      "cy": 30.5,
+      "moi": 1187.3,
+      "mofa": 415.0,
+      "mnd": 5613.6,
+      "mof": 1689.4,
+      "moe": 2659.2,
+      "moj": 508.0,
+      "moea": 1480.3,
+      "motc": 1539.1,
+      "mol": 2970.7,
+      "moa": 1721.8,
+      "mohw": 3556.7,
+      "sports": 66.4,
+      "moenv": 66.9,
+      "moc": 272.6,
+      "moda": 104.0,
+      "ocac": 26.4,
+      "nstc": 793.7,
+      "fsc": 18.2,
+      "oac": 339.5,
+      "vac": 1325.6,
+      "local": 2501.1,
+      "reserve": 130.0
+    },
+    "116": {
+      "pres": 184.8,
+      "ey": 410.5,
+      "ly": 38.1,
+      "jy": 363.5,
+      "exam": 450.5,
+      "cy": 31.3,
+      "moi": 1122.8,
+      "mofa": 454.2,
+      "mnd": 6918.7,
+      "mof": 4027.7,
+      "moe": 2769.4,
+      "moj": 526.4,
+      "moea": 1624.1,
+      "motc": 2077.0,
+      "mol": 3251.2,
+      "moa": 1940.9,
+      "mohw": 6404.6,
+      "sports": 70.0,
+      "moenv": 78.9,
+      "moc": 287.6,
+      "moda": 120.9,
+      "ocac": 36.0,
+      "nstc": 897.3,
+      "fsc": 18.2,
+      "oac": 327.7,
+      "vac": 1298.6,
+      "local": 3072.1,
+      "reserve": 462.3
+    }
+  },
+  "defenseNato2026": {
+    "total": 9495,
+    "gdp_pct": 3.32,
+    "parts": [
+      {
+        "zh": "國防部主管預算",
+        "en": "MND budget",
+        "amount": 5614
+      },
+      {
+        "zh": "退輔會退除給付＋海巡署",
+        "en": "Veterans pensions + Coast Guard",
+        "amount": 1359
+      },
+      {
+        "zh": "特別預算（新式戰機 399＋海空戰力 293＋其他 1,176）",
+        "en": "Special budgets (F-16V 399 + sea-air 293 + other 1,176)",
+        "amount": 1868
+      },
+      {
+        "zh": "特種基金",
+        "en": "Special funds",
+        "amount": 654
+      }
+    ],
+    "function_only": 5488,
+    "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235226",
+    "source2": "https://www.mygopen.com/2025/09/Long-Term-Care.html"
+  },
+  "defenseNato2027": {
+    "total": 11225,
+    "gdp_pct": 3.93,
+    "gdp_pct_alt": 3.01,
+    "gdp_pct_note": {
+      "zh": "3.93% 以 115 年度計算基礎（114 年 8 月發布之 GDP 28.6 兆元）核算；3.01% 以 115 年 8 月發布之 116 年度預計 GDP 37.3 兆元核算（主計總處原文）",
+      "en": "3.93% on the FY2026 base (NT$28.6T GDP published Aug 2025); 3.01% on projected FY2027 GDP of NT$37.3T published Aug 2026 (DGBAS)"
+    },
+    "parts": [
+      {
+        "zh": "國防部主管預算",
+        "en": "MND budget",
+        "amount": 6919
+      },
+      {
+        "zh": "退輔會退除給付＋海巡署",
+        "en": "Veterans pensions + Coast Guard",
+        "amount": 1517
+      },
+      {
+        "zh": "特別預算（已編列及預計編列）",
+        "en": "Special budgets (enacted and planned)",
+        "amount": 2182
+      },
+      {
+        "zh": "非營業特種基金",
+        "en": "Non-business special funds",
+        "amount": 607
+      }
+    ],
+    "function_only": 6836,
+    "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624",
+    "source_note": "主計總處 2026-08-20 新聞稿：國防部主管 6,919 + 特別預算 2,182 + 非營業特種基金 607 + 輔導會退除役官兵退休給付 1,038 + 海巡署 479 = 11,225（億元）。政事別「國防支出」683,609,797 千元。"
+  },
+  "fy116": {
+    "fy": 116,
+    "ce": 2027,
+    "basis": "proposed",
+    "status": {
+      "zh": "預算案，尚未三讀：2026-08-20 行政院通過，2026-10-02 一讀交付委員會，2026-10-27 行政院長報告後進入審查",
+      "en": "Proposal, not passed: Cabinet approved 2026-08-20; first reading and committee referral 2026-10-02; Premier's briefing 2026-10-27 before review starts"
+    },
+    "as_of": "2026-10-23",
+    "expenditure": 39265.98,
+    "revenue": 39266.0,
+    "vsFy115Proposed": {
+      "base": 30349.74,
+      "delta": 8916.24,
+      "pct": 29.4
+    },
+    "debtRepay": 1790,
+    "borrowing": 1790,
+    "specialBorrowing": 178,
+    "highlights": {
+      "cashPayout": 2357,
+      "payAdjust": 392,
+      "welfare": 11889,
+      "welfarePct": 41.1,
+      "mnd": 6919,
+      "mndDelta": 1305,
+      "mndPct": 23.2,
+      "defenseNato": 11225,
+      "tech": 2292,
+      "education": 3728,
+      "flood": 570,
+      "publicWorks": 3794
+    },
+    "restated115": {
+      "welfare": 8428.2,
+      "edu": 5700.0,
+      "defense": 5488.1,
+      "econ": 4322.0,
+      "general": 3033.1,
+      "pension": 1844.2,
+      "debt": 1063.1,
+      "community": 287.7,
+      "other": 183.5
+    },
+    "supplementary115": {
+      "expenditure": 6076.3,
+      "revenue": 828.0,
+      "breakdown": "穩定民生 4,213、社福加碼 215、提升待遇 111、災後重建 77、強化國防 1,457、啟動兒少成長津貼 3（億元）",
+      "status": "2026-09-03 行政院通過；2026-10-02 一讀交付委員會；2026-10-23 院長報告；未三讀",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+    },
+    "sources": [
+      "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624",
+      "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582",
+      "https://www.ey.gov.tw/Page/9277F759E41CCD91/c9b62b00-c255-4c12-9eda-85409410beac"
+    ]
+  },
+  "specialBudgets": [
+    {
+      "zh": "前瞻基礎建設",
+      "en": "Forward-looking Infrastructure",
+      "period": "2017–2025",
+      "amount": {
+        "zh": "第 1 期 1,071 億、第 2 期 2,230 億、第 3 期 2,298 億、第 4 期 2,098 億（執行 98.7%）、第 5 期 114 年度 666 億；條例上限 4,200 億",
+        "en": "Phase 1 NT$107.1B, 2 NT$223B, 3 NT$229.8B, 4 NT$209.8B (98.7% executed), 5 FY2025 NT$66.6B; statutory cap NT$420B"
+      },
+      "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/2e3f1347-173e-4dcd-b2c5-d29c6c53b166"
+    },
+    {
+      "zh": "新式戰機採購",
+      "en": "F-16V fighter procurement",
+      "period": "2020–2026",
+      "amount": {
+        "zh": "上限 2,500 億",
+        "en": "Cap NT$250B"
+      },
+      "source": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=189498"
+    },
+    {
+      "zh": "海空戰力提升計畫採購",
+      "en": "Sea-Air Combat Power Enhancement",
+      "period": "2022–2026",
+      "amount": {
+        "zh": "2,372.7 億；113 年度預算執行率 98.25%、簽約達成率 93.5%（兩個口徑）",
+        "en": "NT$237.27B; FY2024 budget utilization 98.25%, contracting rate 93.5% (two different metrics)"
+      },
+      "source": "https://www.cna.com.tw/news/aipl/202506100335.aspx"
+    },
+    {
+      "zh": "疫後強化經濟與社會韌性及全民共享經濟成果",
+      "en": "Post-pandemic resilience & shared prosperity",
+      "period": "2023–2025",
+      "amount": {
+        "zh": "特別決算歲出 3,690 億、節餘 109 億（約 97.0%）",
+        "en": "Final accounts NT$369B spent, NT$10.9B unspent (~97.0%)"
+      },
+      "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
+    },
+    {
+      "zh": "強化經濟社會及民生國安韌性",
+      "en": "Economic, social & national security resilience",
+      "period": "2025–2027",
+      "amount": {
+        "zh": "114-116 年度共 5,447 億（原列 5,500 億、立法院減列 53 億，2025-10-17 三讀）；116 年度分配 1,463 億",
+        "en": "FY2025–27, NT$544.7B in total (NT$550B proposed, NT$5.3B cut, passed 2025-10-17); FY2027 share NT$146.3B"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235407"
+    },
+    {
+      "zh": "保衛國家安全及強化不對稱戰力計畫採購",
+      "en": "National security & asymmetric-warfare procurement",
+      "period": "2026–",
+      "amount": {
+        "zh": "第一批項目總經費 2,950 億；115 年度特別預算歲出 88.1 億（2026-05-29 三讀），全數舉債",
+        "en": "First batch NT$295B in total; FY2026 special budget NT$8.81B (passed 2026-05-29), all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236310"
+    },
+    {
+      "zh": "丹娜絲颱風及七二八豪雨災後復原重建",
+      "en": "Typhoon Danas & 7/28 flood recovery",
+      "period": "2025–2027",
+      "amount": {
+        "zh": "600 億（114 年度 191、115 年度 316、116 年度 93），2025-08-29 三讀，全數舉債",
+        "en": "NT$60B (FY2025 19.1, FY2026 31.6, FY2027 9.3), passed 2025-08-29, all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235257"
+    },
+    {
+      "zh": "花蓮馬太鞍溪堰塞湖災後重建",
+      "en": "Hualien Mataian Creek barrier lake reconstruction",
+      "period": "2025–2030",
+      "amount": {
+        "zh": "270 億（114 年度 38、115 年度 86、116 年度 86、117 年度 41、118 年度 10、119 年度 9），2025-12-02 三讀，全數舉債",
+        "en": "NT$27B (FY2025 3.8, FY2026 8.6, FY2027 8.6, FY2028 4.1, FY2029 1.0, FY2030 0.9), passed 2025-12-02, all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235537"
+    },
+    {
+      "zh": "116 年度總預算案內的特別預算",
+      "en": "Special budgets counted in the FY2027 bill",
+      "period": "2027",
+      "amount": {
+        "zh": "總預算舉債 1,790 億連同特別預算 178 億，合共 1,968 億；預估 116 年底債務未償餘額 6 兆 8,831 億、占前三年 GDP 平均 23.4%",
+        "en": "General-budget borrowing NT$179B plus NT$17.8B for special budgets = NT$196.8B; projected end-2027 outstanding debt NT$6.8831T, 23.4% of the 3-year average GDP"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+    }
+  ],
+  "cuts": {
+    "114": {
+      "date": "2025-01-21",
+      "proposed": 31324.69,
+      "legal": 29248.95,
+      "cut": 2075.74,
+      "cut_pct": 6.62,
+      "frozen_note": {
+        "zh": "另凍結約 2,600 億（公督盟單一來源）",
+        "en": "Plus ~NT$260B frozen (single source: CCW)"
+      },
+      "items": [
+        {
+          "zh": "國外旅費、特別費、媒體政策及業務宣導費",
+          "en": "Overseas travel, special allowances, media & policy publicity",
+          "kind": "cut",
+          "value": {
+            "zh": "統刪 60%",
+            "en": "60% across-the-board cut"
+          },
+          "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
+        },
+        {
+          "zh": "經濟部補貼台電",
+          "en": "MOEA subsidy to Taipower",
+          "kind": "cut",
+          "value": {
+            "zh": "約 1,000 億",
+            "en": "~NT$100B"
+          },
+          "source": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
+        },
+        {
+          "zh": "監察院業務費",
+          "en": "Control Yuan operating expenses",
+          "kind": "cut",
+          "value": {
+            "zh": "刪 96.5%",
+            "en": "96.5% cut"
+          },
+          "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
+        },
+        {
+          "zh": "立法院本院業務費",
+          "en": "LY own operating expenses",
+          "kind": "cut",
+          "value": {
+            "zh": "刪 46%",
+            "en": "46% cut"
+          },
+          "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
+        },
+        {
+          "zh": "文化部媒體宣傳費",
+          "en": "MOC media publicity",
+          "kind": "cut",
+          "value": {
+            "zh": "5,943 萬全刪",
+            "en": "NT$59.43M fully cut"
+          },
+          "source": "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434"
+        }
+      ]
+    },
+    "115": {
+      "date": "2026-08-14",
+      "proposed": 30349.74,
+      "legal": 29869.74,
+      "cut": 480,
+      "cut_pct": 1.58,
+      "cut_pct_alt": 1.689,
+      "items": [
+        {
+          "zh": "首長特別費",
+          "en": "Heads' special allowances",
+          "kind": "cut",
+          "value": {
+            "zh": "統刪 60%；行政院、監察院、司法院等 20 機關全刪、不得流用",
+            "en": "60% cut; fully cut for 20 agencies incl. EY, Control Yuan, Judicial Yuan; no reallocation"
+          },
+          "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+        },
+        {
+          "zh": "媒體政策及業務宣導費",
+          "en": "Media & policy publicity",
+          "kind": "cut",
+          "value": {
+            "zh": "除法定支出外統刪 50%",
+            "en": "50% cut except statutory items"
+          },
+          "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+        },
+        {
+          "zh": "國外旅費",
+          "en": "Overseas travel",
+          "kind": "cut",
+          "value": {
+            "zh": "最高統刪 70%",
+            "en": "Up to 70% cut"
+          },
+          "source": "https://news.ltn.com.tw/news/politics/breakingnews/5540035"
+        },
+        {
+          "zh": "軍事裝備及設施",
+          "en": "Military equipment & facilities",
+          "kind": "cut",
+          "value": {
+            "zh": "統刪 2.5%，科目自行調整",
+            "en": "2.5% cut, MND allocates"
+          },
+          "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+        },
+        {
+          "zh": "行政院長薪資",
+          "en": "Premier's salary",
+          "kind": "freeze",
+          "value": {
+            "zh": "9–12 月凍結（59:51 表決）",
+            "en": "Sep–Dec frozen (59–51 vote)"
+          },
+          "source": "https://udn.com/news/story/124984/9692218"
+        },
+        {
+          "zh": "無人機產業發展與採購",
+          "en": "Drone industry & procurement",
+          "kind": "kept",
+          "value": {
+            "zh": "634 億全數保留",
+            "en": "NT$63.4B fully retained"
+          },
+          "source": "https://focustaiwan.tw/politics/202608140026"
+        },
+        {
+          "zh": "文化部媒體宣傳費",
+          "en": "MOC media publicity",
+          "kind": "cut",
+          "value": {
+            "zh": "4,738 萬全刪（連續第二年）",
+            "en": "NT$47.38M fully cut (second year running)"
+          },
+          "source": "https://www.cna.com.tw/news/acul/202608140358.aspx"
+        }
+      ],
+      "ey_seven": {
+        "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx",
+        "items_zh": [
+          "NCC 8–12 月基本行政維持經費 5,782 萬全數刪除",
+          "政策宣導經費原列 13.79 億刪 6.84 億（近五成）",
+          "行政院新聞傳播處業務費遭刪，波及約用人員薪資",
+          "總統國務機要費刪 1,000 萬、凍 2,000 萬",
+          "行政院施政推展聯繫費刪 553.5 萬",
+          "人權與轉型正義預算大幅刪減",
+          "整體恐衝擊政府正常運作"
+        ],
+        "items_en": [
+          "NCC Aug–Dec basic operating funds NT$57.82M fully cut",
+          "Policy publicity NT$1.379B cut by NT$684M (~50%)",
+          "EY Department of Information Services operating funds cut, hitting contract staff pay",
+          "Presidential state affairs fund cut NT$10M, frozen NT$20M",
+          "EY policy liaison fund cut NT$5.535M",
+          "Human rights & transitional justice budgets cut sharply",
+          "Overall risk to normal government operations"
+        ]
+      }
+    }
+  },
+  "culture": {
+    "rows": [
+      {
+        "zh": "文化部主管原編列",
+        "en": "MOC budget as proposed",
+        "y114": {
+          "zh": "290 億",
+          "en": "NT$29.0B"
+        },
+        "y115": {
+          "zh": "296 億",
+          "en": "NT$29.6B"
+        }
+      },
+      {
+        "zh": "刪除",
+        "en": "Cut",
+        "y114": {
+          "zh": "11 億",
+          "en": "NT$1.1B"
+        },
+        "y115": {
+          "zh": "約 10 億",
+          "en": "~NT$1.0B"
+        },
+        "kind": "cut"
+      },
+      {
+        "zh": "凍結",
+        "en": "Frozen",
+        "y114": {
+          "zh": "34 億（業務費 30% 無差別凍結）",
+          "en": "NT$3.4B (30% of operating funds frozen across the board)"
+        },
+        "y115": {
+          "zh": "3.86 億",
+          "en": "NT$386M"
+        },
+        "kind": "freeze"
+      },
+      {
+        "zh": "媒體宣傳費",
+        "en": "Media publicity",
+        "y114": {
+          "zh": "5,943 萬全刪",
+          "en": "NT$59.43M fully cut"
+        },
+        "y115": {
+          "zh": "4,738 萬全刪（連續第二年，唯一被全刪的部會）",
+          "en": "NT$47.38M fully cut (second year running; the only ministry fully cut)"
+        },
+        "kind": "cut"
+      },
+      {
+        "zh": "公視／TaiwanPlus",
+        "en": "PTS / TaiwanPlus",
+        "y114": {
+          "zh": "合併刪 2.43 億",
+          "en": "NT$243M cut (combined)"
+        },
+        "y115": {
+          "zh": "公視刪 2,185 萬、凍 2 億；TaiwanPlus 刪 2 億",
+          "en": "PTS cut NT$21.85M & NT$200M frozen; TaiwanPlus cut NT$200M"
+        },
+        "kind": "mixed"
+      },
+      {
+        "zh": "文策院",
+        "en": "TAICCA",
+        "y114": {
+          "zh": "—",
+          "en": "—"
+        },
+        "y115": {
+          "zh": "刪凍逾 1 億",
+          "en": "Over NT$100M cut/frozen"
+        },
+        "kind": "mixed"
+      },
+      {
+        "zh": "公共媒體合計",
+        "en": "Public media total",
+        "y114": {
+          "zh": "—",
+          "en": "—"
+        },
+        "y115": {
+          "zh": "刪凍近 6 億",
+          "en": "Nearly NT$600M cut/frozen"
+        },
+        "kind": "mixed"
+      }
+    ],
+    "sources": [
+      "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434",
+      "https://art.ltn.com.tw/article/breakingnews/5540343",
+      "https://udn.com/news/story/124984/9692266",
+      "https://udn.com/news/story/6656/9692417"
+    ]
+  },
+  "events": [
+    {
+      "date": "2024-01-13",
+      "fy": null,
+      "kind": "context",
+      "zh": "立委選舉：民進黨失去國會多數，國民黨與民眾黨合計過半",
+      "en": "Legislative election: DPP loses majority; KMT + TPP hold the floor"
+    },
+    {
+      "date": "2025-01-21",
+      "fy": 114,
+      "kind": "pass",
+      "zh": "114 年度總預算三讀：減列 2,075.74 億（6.6%，史上最高），另凍結約 2,600 億",
+      "en": "FY2025 budget passed: NT$207.6B cut (6.6%, record), ~NT$260B frozen",
+      "source": "https://www.cna.com.tw/news/aipl/202501210214.aspx"
+    },
+    {
+      "date": "2025-03-12",
+      "fy": 114,
+      "kind": "key",
+      "zh": "立法院否決總預算與財劃法覆議案",
+      "en": "LY rejects EY's reconsideration requests on the budget and the Fiscal Allocation Act",
+      "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/b65ee0d0-646d-427b-a2df-1d34f421cc18"
+    },
+    {
+      "date": "2025-07-26",
+      "fy": null,
+      "kind": "context",
+      "zh": "大罷免第一波：24 席國民黨立委罷免案全數未通過",
+      "en": "Mass recall wave 1: all 24 KMT recall votes fail",
+      "source": "https://www.cna.com.tw/news/aipl/202507265011.aspx"
+    },
+    {
+      "date": "2025-08-21",
+      "fy": 115,
+      "kind": "context",
+      "zh": "行政院院會通過 115 年度總預算案：歲出 3 兆 349.74 億、歲入 2 兆 8,622.53 億",
+      "en": "Cabinet approves FY2026 budget: NT$3.035T spending, NT$2.862T revenue",
+      "source": "https://www.ey.gov.tw/File/DE632C4A7FC815A0"
+    },
+    {
+      "date": "2025-08-23",
+      "fy": null,
+      "kind": "context",
+      "zh": "大罷免第二波：7 案全數未通過",
+      "en": "Mass recall wave 2: all 7 fail",
+      "source": "https://hakkanews.tw/2025/07/23/215374/"
+    },
+    {
+      "date": "2025-08-29",
+      "fy": 114,
+      "kind": "context",
+      "zh": "114 年度追加預算 819 億通過",
+      "en": "FY2025 supplementary budget NT$81.9B passed",
+      "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/5c64507c-ab44-46a5-99ed-6b3a88745278"
+    },
+    {
+      "date": "2025-08-31",
+      "fy": 115,
+      "kind": "context",
+      "zh": "115 年度總預算案送達立法院（另有 8/29 一說）",
+      "en": "FY2026 budget delivered to the LY (some sources say Aug 29)",
+      "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+    },
+    {
+      "date": "2025-09-30",
+      "fy": 115,
+      "kind": "context",
+      "zh": "院會邀行政院長、主計長、財政部長列席報告總預算案編製經過",
+      "en": "Premier, DGBAS and MOF report to the LY plenary on the budget",
+      "source": "https://ppg.ly.gov.tw/ppg/bills/301110158310000/details"
+    },
+    {
+      "date": "2025-11-30",
+      "fy": 115,
+      "kind": "key",
+      "zh": "預算法第 51 條期限（會計年度開始一個月前）屆滿，總預算案仍未付委",
+      "en": "Statutory deadline (one month before the fiscal year) passes; the bill is still not in committee",
+      "source": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=51"
+    },
+    {
+      "date": "2025-12-15",
+      "fy": null,
+      "kind": "key",
+      "zh": "行政院長卓榮泰依憲法第 37 條「不副署」立法院三讀的財劃法修正案（憲政首例）；理由含 115 年度須增加舉債 2,646 億、舉債占歲出比恐達 17.1%（逾公債法 15% 上限）",
+      "en": "Premier Cho Jung-tai declines to countersign the amended Fiscal Allocation Act under Constitution Art. 37, a first in ROC history; grounds include NT$264.6B more borrowing for FY2026 and a borrowing ratio of 17.1% (above the 15% statutory cap)",
+      "source": "https://www.ey.gov.tw/Page/9277F759E41CCD91/4cae91e8-e648-4e09-960d-841c5ddd128e"
+    },
+    {
+      "date": "2025-12-27",
+      "fy": 115,
+      "kind": "context",
+      "zh": "跨年前仍卡關：在野以未依法編列軍人待遇、警察人事條例預算為由；行政院稱有違憲疑慮已聲請釋憲",
+      "en": "Still stalled before New Year: opposition cites missing pay-raise budgets; EY says the laws are being challenged as unconstitutional",
+      "source": "https://www.cna.com.tw/news/aipl/202512270025.aspx"
+    },
+    {
+      "date": "2026-04-17",
+      "fy": 115,
+      "kind": "context",
+      "zh": "總預算案交付委員會審查（另有 4/21 一說）",
+      "en": "Budget referred to committees (some say Apr 21)",
+      "source": "https://ppg.ly.gov.tw/ppg/bills/301110158310000/details"
+    },
+    {
+      "date": "2026-07-02",
+      "fy": 115,
+      "kind": "context",
+      "zh": "教育及文化委員會審文化部：媒宣費 4,738 萬成焦點，召委裁示凍 800 萬",
+      "en": "Education & Culture Committee reviews MOC: NT$47.38M publicity in focus, NT$8M frozen",
+      "source": "https://www.cna.com.tw/news/acul/202607020152.aspx"
+    },
+    {
+      "date": "2026-07-21",
+      "fy": 115,
+      "kind": "context",
+      "zh": "視覺藝術聯盟聲明：「晶片可以讓台灣被需要，文化才能讓台灣被理解」",
+      "en": "Visual Arts Alliance statement: \"Chips make Taiwan needed; culture makes Taiwan understood\"",
+      "source": "https://www.rti.org.tw/news?uid=3&pid=221675"
+    },
+    {
+      "date": "2026-08-14",
+      "fy": 115,
+      "kind": "pass",
+      "zh": "115 年度總預算三讀：減列 480 億（1.58%）；史上最晚三讀",
+      "en": "FY2026 budget passed: NT$48B cut (1.58%); latest passage on record",
+      "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+    },
+    {
+      "date": "2026-08-14",
+      "fy": 115,
+      "kind": "context",
+      "zh": "行政院晚間列「7 項非理性決議」；文化部長李遠：「損失的是台灣在世界的話語權」",
+      "en": "EY lists \"seven unreasonable resolutions\"; Culture Minister Lee: \"what is lost is Taiwan's voice in the world\"",
+      "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx"
+    },
+    {
+      "date": "2026-08-16",
+      "fy": 115,
+      "kind": "context",
+      "zh": "國民黨張雅屏反駁「351 天」：送案到付委卡 235 天，付委後實審 115 天",
+      "en": "KMT's Chang Ya-ping rebuts \"351 days\": 235 days stuck before committee, 115 days of actual review",
+      "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+    },
+    {
+      "date": "2026-08-20",
+      "fy": 116,
+      "kind": "context",
+      "zh": "行政院會通過 116 年度總預算案：歲入歲出各 3 兆 9,266 億，較 115 年度預算案增 29.4%；含普發現金 2,357 億、國防整體 1 兆 1,225 億",
+      "en": "Cabinet approves the FY2027 bill: NT$3.9266T revenue and expenditure, +29.4% on the FY2026 proposal; includes NT$235.7B universal cash payout, NT$1.1225T defense (NATO basis)",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+    },
+    {
+      "date": "2026-09-03",
+      "fy": 115,
+      "kind": "context",
+      "zh": "行政院提出 115 年度追加預算案：歲出 6,076 億、歲入 828 億；追加後 115 年度歲出 3 兆 5,946 億、歲入 3 兆 5,471 億",
+      "en": "Executive Yuan proposes a FY2026 supplementary budget: NT$607.6B expenditure, NT$82.8B revenue; FY2026 would reach NT$3.5946T spending",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+    },
+    {
+      "date": "2026-10-02",
+      "fy": 116,
+      "kind": "context",
+      "zh": "立法院院會：116 年度總預算案與 115 年度追加預算案一讀，交付委員會審查",
+      "en": "Legislative Yuan floor: FY2027 bill and the FY2026 supplementary bill pass first reading and go to committees",
+      "source": "https://udn.com/news/story/6656/9790010"
+    },
+    {
+      "date": "2026-10-16",
+      "fy": 116,
+      "kind": "context",
+      "zh": "朝野協商：10 月 23 日邀行政院長報告追加預算、10 月 27 日報告 116 年度總預算",
+      "en": "Cross-caucus deal: Premier to brief on the supplementary budget on 23 Oct and the FY2027 bill on 27 Oct",
+      "source": "https://www.cna.com.tw/news/aipl/202610160078.aspx"
+    }
+  ],
+  "days": [
+    {
+      "who": {
+        "zh": "總統賴清德",
+        "en": "President Lai Ching-te"
+      },
+      "n": 351,
+      "zh": "「總預算延宕 351 天」",
+      "en": "\"the budget was delayed 351 days\"",
+      "source": "https://www.cna.com.tw/news/aipl/202608140346.aspx"
+    },
+    {
+      "who": {
+        "zh": "立法院長韓國瑜",
+        "en": "Speaker Han Kuo-yu"
+      },
+      "n": 266,
+      "zh": "「總預算拖了 266 天終於審查完畢」",
+      "en": "\"after 266 days the review is finally done\"",
+      "source": "https://www.cna.com.tw/news/aipl/202608140281.aspx"
+    },
+    {
+      "who": {
+        "zh": "國民黨張雅屏",
+        "en": "KMT's Chang Ya-ping"
+      },
+      "n": 115,
+      "zh": "「付委後實質審查只有 115 天」",
+      "en": "\"only 115 days of substantive review after committee referral\"",
+      "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+    }
+  ],
+  "voices": {
+    "gov": {
+      "zh": "行政院／文化部的說法",
+      "en": "Executive Yuan / Ministry of Culture",
+      "items": [
+        {
+          "zh": "「損失的是台灣在世界的話語權，以及詮釋台灣主權觀點的管道。」——文化部長李遠，2026-08-14",
+          "en": "\"What is lost is Taiwan's voice in the world and a channel to explain Taiwan's view of its own sovereignty.\" — Culture Minister Lee Yuan, 2026-08-14",
+          "source": "https://art.ltn.com.tw/article/breakingnews/5540343"
+        },
+        {
+          "zh": "行政院發言人李慧芝列出 7 項「非理性決議」：NCC 8–12 月基本行政經費全刪、政策宣導費刪近五成、國務機要費刪凍等——2026-08-14",
+          "en": "EY spokesperson Li Hui-chih lists seven \"unreasonable resolutions\": NCC's Aug–Dec operating funds fully cut, publicity budgets nearly halved, presidential state-affairs fund cut/frozen — 2026-08-14",
+          "source": "https://www.cna.com.tw/news/aipl/202608140363.aspx"
+        },
+        {
+          "zh": "「多項不合理的刪除及凍結理由，展現出對文化部所有努力的否定，以及對文化工作者的不尊重。」——文化部新聞稿，回應 114 年度三讀",
+          "en": "\"Many unreasonable cut and freeze rationales negate everything the ministry has done and disrespect cultural workers.\" — MOC statement on the FY2025 budget",
+          "source": "https://www.moc.gov.tw/News_Content2.aspx?n=105&s=230434"
+        }
+      ]
+    },
+    "opp": {
+      "zh": "在野黨（國民黨／民眾黨）的說法",
+      "en": "Opposition (KMT / TPP)",
+      "items": [
+        {
+          "zh": "「回顧 97 至 114 年度，中央總預算從送案到三讀需要 104 至 152 天，中位數約 139 天。115 年度付委後只審 115 天，不但沒有反常，還接近歷年較短的一端。」——國民黨考紀會主委張雅屏，2026-08-16",
+          "en": "\"From FY2008 to FY2025 the central budget took 104–152 days from submission to passage, median ~139. FY2026 got 115 days after referral — not abnormal, near the short end.\" — KMT's Chang Ya-ping, 2026-08-16",
+          "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+        },
+        {
+          "zh": "「480 億元除以行政院原列歲出 3 兆 350 億元，約為 1.58%；低於 102 年度的 1.90%。」——張雅屏，同上",
+          "en": "\"NT$48B over the proposed NT$3.035T is about 1.58%, below FY2013's 1.90%.\" — Chang Ya-ping, ibid.",
+          "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+        },
+        {
+          "zh": "在野黨團 2025 年 12 月的付委條件：行政院須依法編列軍人待遇條例、警察人員人事條例相關預算——中央社 2025-12-27",
+          "en": "Opposition caucuses' condition for referral in Dec 2025: the EY must budget for the military pay and police personnel acts as passed — CNA 2025-12-27",
+          "source": "https://www.cna.com.tw/news/aipl/202512270025.aspx"
+        },
+        {
+          "zh": "「換掉一個卓榮泰，還有千千萬萬個卓榮泰，然後宣布解散國會」——國民黨立法院黨團書記長羅智強，2025-12-15",
+          "en": "\"Replace one Cho Jung-tai and there'll be thousands more, then dissolve the legislature.\" — KMT caucus secretary-general Lo Chih-chiang, 2025-12-15",
+          "source": "https://www.cna.com.tw/news/aipl/202512165003.aspx"
+        },
+        {
+          "zh": "「副署制度絕不能作為行政院否決立法院三讀通過法律的權力依據，這是扭曲憲法規範的權力濫用」——民眾黨立法院黨團總召黃國昌，2025-12-15",
+          "en": "\"The countersignature can never be a basis for the Executive Yuan to veto a law the legislature has passed; this is an abuse of power that distorts the Constitution.\" — TPP caucus leader Huang Kuo-chang, 2025-12-15",
+          "source": "https://www.cna.com.tw/news/aipl/202512165003.aspx"
+        }
+      ]
+    },
+    "third": {
+      "zh": "文化界與第三方",
+      "en": "Cultural sector & third parties",
+      "items": [
+        {
+          "zh": "「晶片可以讓台灣被需要，文化才能讓台灣被理解。」「監督政府不能以消滅台灣的發聲能力為代價。」——視覺藝術聯盟，2026-07-21",
+          "en": "\"Chips make Taiwan needed; culture makes Taiwan understood.\" \"Oversight must not come at the cost of Taiwan's ability to speak.\" — Visual Arts Alliance, 2026-07-21",
+          "source": "https://www.rti.org.tw/news?uid=3&pid=221675"
+        },
+        {
+          "zh": "「拖了 266 天⋯⋯拜託朝野都能各退一步，在野黨展現成熟監督的國會高度，行政院展現尊重法治的憲政風範。」——立法院長韓國瑜，2026-08-14",
+          "en": "\"266 days... I plead with both sides to step back — the opposition to show mature oversight, the Executive Yuan to show respect for the rule of law.\" — Speaker Han Kuo-yu, 2026-08-14",
+          "source": "https://www.cna.com.tw/news/aipl/202608140281.aspx"
+        }
+      ]
+    }
   }
- }
 }

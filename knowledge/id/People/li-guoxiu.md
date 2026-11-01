@@ -1,145 +1,122 @@
 ---
-title: 'Li Guoxiu'
-description: 'Pendiri Pipa Panggung (屏風表演班), Master Komedian Taiwan Terkemuka, Meninggal karena Kanker Usus Besar pada 2 Juli 2013, Berusia 58 Tahun'
+title: 'Li Kuo-hsiu'
+description: 'Pendiri Performing Arts Workshop, Raja Komedi Taiwan, wafat pada 2 Juli 2013 akibat kanker usus besar di usia 57 tahun'
 date: 2026-03-19
 category: 'People'
-tags: ['Li Guoxiu', 'Pipa Panggung', 'Komedi', 'Teater', 'Teater Taiwan']
+tags:
+  [
+    'Li Kuo-hsiu',
+    'Performing Arts Workshop',
+    'komedi',
+    'teater',
+    'drama Taiwan',
+  ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:11b55d270abdf3d3'
-sourceBodyHash: 'sha256:7ab58584d6fb7af7'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: 'ec4bf4b5f'
+sourceContentHash: 'sha256:6ce83dd89e705886'
+sourceBodyHash: 'sha256:874193c9926520f1'
+translatedAt: '2026-10-22T02:46:34+08:00'
 ---
 
-# Li Guoxiu: Raja Komedi Taiwan
+# Li Kuo-hsiu: Raja Komedi Taiwan
 
-Li Guoxiu adalah seorang master komedian yang sangat penting dalam sejarah teater modern Taiwan. Pada tahun 1986, ia mendirikan Pipa Panggung (屏風表演班), sebuah kompas artistik yang menciptakan karya-karya klasik seperti "Hamlet Bertipe Taiwan" (莎姆雷特), "Wahyu Opera Beijing" (京戲啟示錄), dan "Anggur Putri" (女兒紅). Dengan pendekatan yang memadu kedalaman humanis dengan bentuk pertunjukan berhumor, Li menjelajahi isu-isu sosial serius dalam gelak tawa, dan dijuluki "Raja Komedi Taiwan". Pada tahun 2013, ia meninggal akibat kanker usus besar pada usia 58 tahun, meninggalkan warisan teater yang signifikan.
+Li Kuo-hsiu adalah maestro komedi yang sangat berpengaruh dalam sejarah teater modern Taiwan. Pada tahun 1986, ia mendirikan Performing Arts Workshop (屏風表演班) dan menciptakan repertoar klasik seperti _Shamlet_, _The Peking Opera Revelation_, dan _Nü'er Hong_ (Merah Putri). Ia membungkus bentuk pertunjukan humor dengan kepedulian humaniora yang mendalam, mengeksplorasi isu-isu sosial yang serius di tengah gelak tawa, sehingga ia dijuluki sebagai "Raja Komedi Taiwan". Ia wafat pada tahun 2013 akibat kanker usus besar pada usia 57 tahun, meninggalkan warisan teater yang luar biasa.
 
-## Masa Tumbuh Kembang Anak Komplek Militer
+## Putra Pengrajin Sepatu Opera Peking
 
-Li Guoxiu lahir pada 30 Desember 1955 di Taipei. Ayahnya, Li Fei, adalah seorang petugas udara, sementara ibunya, Wang Guihua, adalah ibu rumah tangga. Tumbuh besar di komplek militer, Li Guoxiu sejak dini mengalami suasana budaya yang unik: logat berbagai provinsi yang bercampur aduk, karakter ketat keluarga militer, dan kerinduan yang mendalam terhadap tanah air.
+Li Kuo-hsiu lahir di Taipei pada 30 Desember 1955. Ayahnya, Li Shen-en, adalah seorang master pembuat sepatu tangan untuk Opera Peking. Ibunya berasal dari kampung halaman yang sama dengan ayahnya dan kemudian menjadi prototipe karakter utama dalam karyanya, _Nü'er Hong_. Hubungan ayahnya dengan Opera Peking inilah yang kelak dituangkan ke dalam karya semi-otobiografinya, _The Peking Opera Revelation_.
 
-Kehidupan di komplek militer memberikan Li Guoxiu materi kreatif yang berlimpah. Kehangatan dan dinginnya hubungan tetangga, kerinduan para veteran militer terhadap kampung halaman, dan identitas diri anak-anak dari komplek militer—semua elemen ini kemudian berulang kali muncul dalam karya dramatisnya.
+## Pelatihan Penyiaran di Shih Shin
 
-Pada masa sekolah menengah, Li Guoxiu bersekolah di Sekolah Menengah Atas Sukses, di mana ia mulai tertarik pada seni pertunjukan. Ia sering meniru selebriti komedi dari acara televisi, menunjukkan bakat komedi bawaan sejak lahir. Teman-teman sekelasnya percaya bahwa ia memiliki potensi untuk menjadi aktor, tetapi dalam pandangan tradisional, bermain teater bukanlah profesi yang sah.
+Li Kuo-hsiu menempuh pendidikan di Departemen Radio dan Televisi, Sekolah Menengah Kejuruan Berita Dunia (sekarang Departemen Radio, Televisi, dan Film, Universitas Shih Shin). Pada tahun 1980, ia memenangkan Penghargaan Penyuntingan Golden Bell Awards untuk bidang penyuntingan. Pada tahun 1982, ia meraih penghargaan "Aktor Baru Drama Paling Potensial" di Golden Bell Awards ke-17. Jauh sebelum memasuki dunia teater, ia telah mendapatkan pengakuan di industri penyiaran dan televisi.
 
-## Pencerahan Drama di Fu Ren
+## Era Performing Arts Workshop
 
-Pada tahun 1974, Li Guoxiu masuk ke Universitas Fu Ren untuk belajar di Departemen Sastra Tionghoa, sebuah titik balik dalam karirnya di teater. Selama berada di Fu Ren, ia berpartisipasi dalam kelompok drama di kampus, menerima pelatihan teater formal, dan secara bersamaan terpapar pada karya-karya drama klasik dunia.
+Pada tahun 1984, Li Kuo-hsiu bersama [Lai Sheng-chuan](/id/people/stan-lai-theater-innovation-master/) dan Li Li-chun mendirikan Performing Arts Workshop[^1] (Jin Shih-chieh adalah kolaborator, bukan pendiri). Ini menandai awal karier teater profesionalnya. Selama masa di workshop tersebut, ia berpartisipasi dalam penciptaan repertoar klasik seperti _That Night, We Said Crosstalk_, yang menunjukkan bakat aktingnya yang luar biasa.
 
-Selama masa kuliah, Li Guoxiu menunjukkan bakat ganda dalam penulisan naskah dan pertunjukan. Drama pendek yang diciptakannya sering membuat teman-teman sekelasnya tertawa terpingkal-pingkal, sekaligus menyentuh hati mereka. Konsep "senyum dengan air mata" ini akan muncul berulang kali dalam karya-karya Pipa Panggung (屏風表演班).
+Di Performing Arts Workshop, Li Kuo-hsiu mengumpulkan pengalaman kreatif dalam teater modern dan secara bertahap memantapkan niatnya untuk menempuh jalur independen bagi komedi khas Taiwan.
 
-Setelah lulus pada tahun 1978, Li Guoxiu menghadapi pilihan hidup yang penting. Keluarganya menginginkan agar ia bekerja di bidang yang stabil, tetapi di dalam hatinya, ia bersemangat untuk berdedikasi pada dunia teater. Pada akhirnya, ia memilih untuk mengikuti mimpinya sendiri dan memutuskan untuk menjadikan drama sebagai profesi seumur hidupnya.
+Selama periode tersebut, ia mulai merenungkan arah kreativitasnya. Ia menyadari bahwa dirinya sangat berbakat dalam akting komedi, sekaligus memiliki pengamatan yang tajam terhadap realitas sosial. Hal ini membuatnya memutuskan untuk menapaki jalan kreatif yang unik.
 
-## Periode Pertunjukan Layanan Kerja
+## Pendirian Performing Arts Workshop (屏風表演班)
 
-Pada tahun 1984, Li Guoxiu bersama dengan Stan Lai (賴聲川) dan Li Liqun mendirikan Pertunjukan Layanan Kerja[^1] (Jeo Shijie sebagai kolaborator, bukan pendiri). Ini adalah awal dari karir teater profesional Li. Selama masa di layanan kerja ini, ia berpartisipasi dalam penciptaan karya-karya klasik seperti "Pada Malam Itu, Kami Bercerita Mengenai Xiangsheng" (那一夜，我們說相聲), menunjukkan bakat pertunjukannya yang luar biasa.
+Pada Oktober 1986, Li Kuo-hsiu memutuskan untuk mendirikan Performing Arts Workshop (屏風表演班). Karya perdana grup ini adalah drama eksperimental bahasa tubuh _1812 and Some Performance_. Setelah mementaskan _The Story of the Roundabout_ pada tahun 1987, ia secara resmi meninggalkan Performing Arts Workshop. Nama grup tersebut diambil dari fungsi "sketsen" (屏風) yang berfungsi menghalangi angin dan hujan, melambangkan makna teater sebagai penyedia penghiburan spiritual bagi penonton.
 
-Di Pertunjukan Layanan Kerja, Li Guoxiu belajar metode penciptaan teater modern, terutama teknik penciptaan improv kolektif. Periode dua tahun latihan teater ini membuatnya yakin bahwa ia ingin mengambil jalur independen yang milik sepenuhnya pada komedi Taiwan.
+Misi pendirian Performing Arts Workshop adalah "membuat satu pertunjukan, menjalin sekelompok teman," sebuah kalimat yang mencerminkan betapa Li Kuo-hsiu mementingkan hubungan interpersonal dalam teater. Ia percaya bahwa teater bukan sekadar kreasi seni, melainkan komunikasi yang tulus antarmanusia.
 
-Selama berada di layanan kerja ini, Li Guoxiu mulai merenungkan arah penciptaannya. Ia menemukan bahwa dirinya sangat mahir dalam pertunjukan komedi, sekaligus memiliki pengamatan yang tajam terhadap realitas sosial. Ini membuatnya memutuskan untuk membuka jalan penciptaan yang unik.
-
-## Pendiri Pipa Panggung
-
-Pada tahun 1986, Li Guoxiu meninggalkan Pertunjukan Layanan Kerja dan mendirikan Pipa Panggung (屏風表演班). Nama kelompok berasal dari fungsi layar pemisah ("pipa" atau "屏風") yang melindungi dari angin dan hujan, melambangkan makna bahwa teater memberikan penghiburan spiritual bagi penonton.
-
-Tujuan pendiri Pipa Panggung adalah "mementaskan satu drama, berteman dengan sekelompok orang," ungkapan yang merefleksikan penghargaan Li terhadap hubungan interpersonal dalam teater. Ia percaya bahwa teater bukan hanya tentang penciptaan artistik, tetapi juga tentang komunikasi tulus antara sesama manusia.
-
-Pada periode awal, lokasi pertunjukan Pipa Panggung sangat sederhana, dan penonton tidak banyak, tetapi Li Guoxiu tetap berkomitmen untuk menciptakan setiap karya dengan sepenuh hati. Ia percaya bahwa selama karya cukup bagus, penonton pada akhirnya akan mengakuinya. Semangat ketekunan ini menopang kelompok teater selama masa-masa awal yang penuh tantangan.
+Pada masa awal, tempat pertunjukan Performing Arts Workshop sangat sederhana dan penontonnya tidak banyak, namun Li Kuo-hsiu bersikeras untuk mengerjakan setiap karya dengan sepenuh hati. Ia percaya bahwa selama karyanya cukup baik, penonton pada akhirnya akan mengakuinya. Semangat ketekunan inilah yang menopang grup tersebut melewati masa-masa awal yang sulit.
 
 ## Trilogi Klasik
 
-### Hamlet Bertipe Taiwan (1992)
+### _Shamlet_ (1992)
 
-Hamlet Bertipe Taiwan adalah karya perwakilan Li Guoxiu yang telah dipentaskan lebih dari seratus kali, dengan pengaruh yang paling mendalam. Drama ini memindahkan Hamlet karya Shakespeare ke latar belakang komplek militer Taiwan. Tokoh utama Sham adalah seorang pemuda dari komplek militer yang menghadapi konflik antara warisan ayah dan idealisme pribadi.
+_Shamlet_ adalah komedi paling populer karya Li Kuo-hsiu. Dipentaskan pertama kali pada tahun 1992, drama ini telah dipentaskan ulang berkali-kali; versi "狂潮版" (gelombang gila) pada tahun 2006 menampilkan dirinya sendiri di atas panggung, dan pada tahun 2024 dipentaskan kembali sebagai karya peringatan.
 
-Karya ini secara cerdas menggabungkan klasik Barat dengan pengalaman lokal Taiwan, dan melalui humor, mengeksplorasi isu-isu kehidupan yang serius. Pertunjukan Li Guoxiu memiliki kedalaman drama Shakespeare sekaligus kehangatan intimitas kehidupan kota Taiwan.
+### _The Peking Opera Revelation_ (1996)
 
-Hamlet Bertipe Taiwan telah dipentaskan lebih dari seratus kali, menjadi karya klasik dalam sejarah teater Taiwan. Karya ini memantapkan posisi Li Guoxiu dalam dunia teater Taiwan, dan membuktikan kemungkinan kesuksesan adaptasi yang dilokalkan.
+Dirilis pada tahun 1996, _The Peking Opera Revelation_ adalah karya semi-otobiografi yang diciptakan Li Kuo-hsiu untuk mengenang ayahnya. Karya ini menggunakan teknik cerita di dalam cerita yang berlapis untuk menyampaikan kisah yang melintasi setengah abad. Wang Yue pertama kali memerankan karakter "Bibi Kedua" dalam drama ini.
 
-### Wahyu Opera Beijing (1996)
+### _Nü'er Hong_ (2003)
 
-Wahyu Opera Beijing berpusat pada perjalanan hidup seorang pelaku opera Beijing, menggambarkan kesulitan teater tradisional dalam masyarakat modern. Li Guoxiu menggunakan pengalamannya sendiri dalam mempelajari opera Beijing sebagai basis untuk menciptakan karya semi-autobiografi ini.
+_Nü'er Hong_ dirilis pada tahun 2003, dengan karakter utama yang mengambil prototipe dari ibu Li Kuo-hsiu.
 
-Drama ini menyisipkan banyak nyanyian dan gerakan opera Beijing, dengan Li Guoxiu sendiri melakukan pertunjukan di panggung, menunjukkan keterampilan opera tradisional yang dalam. Ia menggunakan metode teater modern untuk menafsirkan kembali seni tradisional, membuat penonton muda mengenal keindahan opera Beijing.
+## Estetika Komedi dan Kepedulian Humaniora
 
-Karya ini memenangkan Penghargaan Tahunan Festival Seni Taishin Pertama (第一屆台新藝術獎年度大獎), dan penilaian internasional juga sangat tinggi. Wahyu Opera Beijing merepresentasikan pemikiran mendalam Li Guoxiu tentang budaya tradisional dan ungkapan modernnya.
+Komedi Li Kuo-hsiu berpusat pada kepedulian humaniora, menggunakan tawa untuk membawa observasi sosial yang tragis. Ia percaya bahwa komedi terbaik haruslah "membuat orang menangis di tengah tawa," memikirkan kehidupan di tengah kegembiraan.
 
-### Anggur Putri (1999)
+Karya-karyanya sering kali menyoroti nasib orang-orang kecil dan bersimpati pada kesulitan lapisan bawah masyarakat. Baik aktor Opera Peking maupun wanita tradisional, semuanya mendapatkan martabat dan kehangatan di bawah penanya.
 
-Anggur Putri adalah karya yang diciptakan Li Guoxiu untuk ibunya, menggambarkan kehidupan seorang perempuan tradisional. Ibu dalam drama ini mengorbankan mimpi-mimpinya sendiri demi keluarga, namun selalu mempertahankan sikap optimis dan kuat.
+Li Kuo-hsiu sangat mahir dalam menggunakan bahasa lokal Taiwan dan elemen budaya untuk menciptakan resonansi dengan penonton melalui situasi yang akrab bagi mereka. Dialognya hidup dan alami, penuh dengan kebijaksanaan hidup dan rasa humor.
 
-Karya ini menunjukkan pemahaman dan penghargaan Li Guoxiu yang mendalam terhadap perempuan. Dengan sentuhan yang lembut, ia menggambarkan kebesaran ibu, membawa emosi penonton yang mengalir dalam gelak tawa.
+## Pelatihan Aktor dan Edukasi Teater
 
-Kesuksesan Anggur Putri membuktikan bahwa Li Guoxiu bukan hanya aktor komedi yang berbakat, tetapi juga pengamat sifat manusia yang mendalam. Ia dapat menemukan keindahan yang luar biasa dalam kehidupan biasa.
+Li Kuo-hsiu bukan hanya penulis naskah dan aktor yang hebat, tetapi juga pendidik drama yang luar biasa. Ia membangun sistem pelatihan aktor yang terorganisir di Performing Arts Workshop, serta membina tokoh teater terkenal seperti Fan Kuang-yao dan Huang Chih-kai.
 
-## Estetika Komedi dan Kepedulian Kemanusiaan
+Ia sangat mementingkan pengalaman hidup aktor, percaya bahwa akting sejati berasal dari pengamatan mendalam terhadap kehidupan. Ia sering membawa para aktor untuk terjun ke berbagai lapisan masyarakat guna merasakan langsung kehidupan yang berbeda.
 
-Komedi Li Guoxiu berpusat pada kepedulian kemanusiaan, membawa pengamatan sosial yang tragis melalui gelak tawa. Ia percaya bahwa komedi terbaik seharusnya "membuat orang tertawa sambil menangis", dan melalui kegembiraan, orang dapat merenungkan kehidupan.
+Filosofi pengajarannya menekankan kata "ketulusan." Ia percaya bahwa seorang aktor harus jujur menghadapi dirinya sendiri agar dapat menciptakan karakter yang nyata dan menyentuh hati. Filosofi ini telah memengaruhi banyak aktor muda.
 
-Karya dramatisnya sering kali memperhatikan nasib tokoh-tokoh kecil, berempati dengan kesulitan lapisan sosial bawah. Baik itu veteran militer dari komplek, pelaku opera Beijing, atau perempuan tradisional, semuanya mendapatkan martabat dan kehangatan dalam tulisannya.
+## Karya Akhir dan Penyakit Fisik
 
-Li Guoxiu sangat terampil dalam menggunakan bahasa dan elemen budaya lokal Taiwan, membuat penonton beresonansi melalui situasi yang familiar. Dialog-dialognya segar dan alami, penuh dengan kebijaksanaan kehidupan dan humor.
+Pada akhir tahun 2000-an, kondisi fisik Li Kuo-hsiu mulai bermasalah, namun ia tetap bersikeras untuk terus berkarya dan tampil. Karya-karya akhirnya seperti _Six Justice Gang_ (2008) menunjukkan pemahamannya yang mendalam tentang kehidupan.
 
-## Pelatihan Aktor dan Pendidikan Teater
+Menghadapi rasa sakit, Li Kuo-hsiu menunjukkan sikap optimis. Ia sering berkata: "Hidup itu seperti buang air besar, seberapa keras pun kau mengejan, ia akan keluar juga." (Dikutip dari perkataan Li Kuo-hsiu dalam berbagai catatan wawancara[^2]). Filosofi hidup yang humoris ini menyentuh hati banyak penonton.
 
-Li Guoxiu bukan hanya penulisan naskah dan aktor yang luar biasa, tetapi juga pendidik teater yang cemerlang. Ia mendirikan sistem pelatihan aktor yang terstruktur di Pipa Panggung (屏風表演班), melatih tokoh-tokoh teater terkenal seperti Fan Guangyao dan Huang Zhikai.
+Ia mulai lebih banyak merenungkan masalah hidup dan mati, sehingga karya-karyanya penuh dengan eksplorasi makna kehidupan. Meskipun karya-karya tersebut memiliki nuansa kesedihan, mereka tetap mempertahankan humor dan kehangatan khasnya.
 
-Ia memberikan perhatian khusus pada pengalaman hidup aktor-aktor, percaya bahwa pertunjukan sejati berasal dari observasi teliti terhadap kehidupan. Ia sering membawa aktor-aktor memasuki berbagai lapisan masyarakat, secara langsung mengalami kehidupan yang berlainan.
+## Wafat yang Tiba-tiba dan Warisan Teater
 
-Filosofi pengajaran Li Guoxiu menekankan dua kata: "jujur". Ia percaya bahwa aktor harus jujur menghadapi diri mereka sendiri, baru dapat menciptakan karakter yang autentik dan menyentuh hati. Filosofi ini mempengaruhi banyak aktor muda.
+Pada 2 Juli 2013, Li Kuo-hsiu wafat akibat kanker usus besar pada usia 57 tahun[^3]. Berita ini mengejutkan seluruh dunia teater Taiwan, dan banyak orang berduka atas kehilangan maestro komedi ini.
 
-## Pencatat Budaya Komplek Militer
+Wafatnya Li Kuo-hsiu membuat orang meninjau kembali kontribusinya. Yang ia tinggalkan bukan sekadar daftar puluhan repertoar drama, melainkan sebuah sistem estetika tentang bagaimana komedi dapat memikul bobot kemanusiaan.
 
-Sebagai anak dari komplek militer, Li Guoxiu selalu memperhatikan transmisi budaya komplek militer. Banyak karyanya berlatar belakang komplek militer, mencatat cara hidup komunitas khusus ini.
+Performing Arts Workshop terus beroperasi setelah kepergiannya, berkomitmen untuk mempromosikan filosofi kreatif Li Kuo-hsiu agar semangatnya dapat diwariskan.
 
-Seiring dengan perkembangan urban, banyak komplek militer dihancurkan, dan karya-karya Li Guoxiu menjadi catatan budaya yang berharga. Ia menggunakan bentuk teater untuk menyimpan ingatan sejarah yang segera menghilang ini.
+## Pengaruh terhadap Teater Taiwan
 
-Li Guoxiu percaya bahwa budaya komplek militer adalah bagian penting dari masyarakat Taiwan, layak untuk dipahami dan dihormati. Karya-karyanya menghilangkan kesenjangan antara penduduk lokal dan pendatang, mempromosikan harmonisasi sosial.
+Li Kuo-hsiu merintis jalan bagi teater komedi modern di Taiwan dan membuktikan kemungkinan keberhasilan kreasi lokal. Karya-karyanya menetapkan standar baru bagi teater Taiwan dan memengaruhi banyak kreator generasi berikutnya.
 
-## Penciptaan Periode Akhir dan Penderitaan Tubuh
+Aktor dan kreator yang ia bina tersebar luas di dunia teater Taiwan, termasuk Fan Kuang-yao, Huang Chih-kai, Chen Li-hua, dan lainnya. Mereka terus menyebarkan filosofi kreatif dan metode pengajarannya.
 
-Setelah tahun 2000-an, kesehatan Li Guoxiu mulai bermasalah, namun ia tetap bersikeras untuk menciptakan dan melakukan pertunjukan. Karya-karya periode akhir seperti "Hui Yibang" (六義幫) (2007) dan "Tahun-tahun Keemasan" (黃金歲月) (2011) menunjukkan pemahaman mendalam Li tentang kehidupan.
+Keberhasilan Li Kuo-hsiu juga meningkatkan pengakuan masyarakat terhadap seni teater, membuat lebih banyak orang menyadari nilai dan pesona drama. Ia telah memberikan kontribusi penting bagi perkembangan teater di Taiwan.
 
-Menghadapi penderitaan, Li Guoxiu menunjukkan sikap optimis, dan ia sering berkata: "Hidup itu seperti buang air, seberapa kuat pun kamu tekan, pasti akan keluar." (Dikabarkan sebagai ucapan Li Guoxiu, dilihat dalam berbagai catatan wawancara[^2]) Filosofi hidup yang humoris ini menginspirasi jutaan penonton.
+Li Kuo-hsiu pernah berkata: "Jadilah manusia seperti Konfusius, lakukan pekerjaan seperti Laozi." Kalimat ini mencerminkan filosofi hidupnya dan menjelaskan mengapa ia mampu menciptakan karya yang begitu menghangatkan hati. Ia menggunakan seluruh hidupnya untuk membuktikan kekuatan komedi, serta menggunakan karyanya untuk membawa kegembiraan dan pemikiran tanpa batas bagi masyarakat Taiwan.
 
-Ia mulai memikirkan lebih banyak tentang masalah kehidupan dan kematian, dan karya-karyanya penuh dengan eksplorasi tentang makna kehidupan. Meskipun karya-karya ini membawa warna kesedihan, tetap mempertahankan humor dan kehangatan yang selalu dimilikinya.
+[^1]: Pendiri Performing Arts Workshop adalah Li Sheng-chuan, Li Kuo-hsiu, dan Li Li-chun; Jin Shih-chieh adalah aktor kolaborator penting, tetapi bukan pendiri. Lihat: Entri Wikipedia "Performing Arts Workshop" <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
 
-## Kematian Mendadak dan Warisan Teater
+[^2]: Perkataan Li Kuo-hsiu ini dapat ditemukan dalam banyak wawancara dan artikel peringatan. Lihat: Entri Wikipedia "Li Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; Situs resmi Performing Arts Workshop <http://www.ppt.org.tw/>
 
-Pada 2 Juli 2013, Li Guoxiu meninggal akibat kanker usus besar pada usia 58 tahun[^3]. Berita ini menggemparkan seluruh dunia teater Taiwan, dan banyak orang berduka atas hilangnya master komedia ini.
+[^3]: Li Kuo-hsiu wafat akibat kanker usus besar pada 2 Juli 2013 di usia 57 tahun (beberapa laporan menyebutkan usia 58 tahun berdasarkan usia tradisional). Lihat: Laporan ETtoday News 02/07/2013; Entri Wikipedia "Li Kuo-hsiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
 
-Kematian Li Guoxiu membuat orang-orang menghargai kembali kontribusinya. Ia meninggalkan bukan hanya daftar karya drama puluhan judul, tetapi juga sistem estetika yang menyeluruh tentang bagaimana komedi dapat membawa bobot kemanusiaan.
-
-Pipa Panggung terus beroperasi setelah kematiannya, dikelola oleh istrinya, Wang Yue. Kelompok teater berkomitmen untuk mempromosikan ide-ide kreatif Li Guoxiu, memastikan bahwa semangatnya terus berlanjut.
-
-## Pengaruh pada Teater Taiwan
-
-Li Guoxiu membuka jalan bagi teater komedia modern Taiwan, membuktikan kemungkinan kesuksesan penciptaan yang dilokalkan. Karya-karyanya menetapkan standar baru untuk teater Taiwan, dan mempengaruhi banyak seniman penciptaan generasi mendatang.
-
-Para aktor dan seniman penciptaan yang dilatihnya tersebar di seluruh dunia teater Taiwan, termasuk Fan Guangyao, Huang Zhikai, Chen Lihua dan lainnya. Orang-orang ini terus menyebarkan ide-ide kreatif dan metode pengajaran Li.
-
-Kesuksesan Li Guoxiu juga meningkatkan pengakuan sosial terhadap seni pertunjukan, membuat lebih banyak orang memahami nilai dan daya tarik drama. Ia membuat kontribusi penting bagi perkembangan teater Taiwan.
-
-Li Guoxiu pernah berkata: "Dalam menjalani kehidupan, jadilah seperti Confucius; dalam menjalani pekerjaan, jadilah seperti Laozi." Ucapan ini mencerminkan filosofi hidupnya, dan menjelaskan mengapa ia dapat menciptakan karya yang begitu hangat menyentuh hati. Ia menggunakan seumur hidupnya untuk membuktikan kekuatan komedi, dan juga membawa kegembiraan dan renungan yang tiada tara bagi masyarakat Taiwan melalui karyanya.
+[^5]: Performing Arts Workshop didirikan pada tahun 1986 dengan misi "membuat satu pertunjukan, menjalin sekelompok teman," dan telah mementaskan lebih dari 40 drama hingga sebelum wafatnya Li Kuo-hsiu. Lihat: Situs resmi Performing Arts Workshop <http://www.ppt.org.tw/>
 
 ## Referensi
 
-- [Situs Resmi Pipa Panggung](http://www.ppt.org.tw/) — Sejarah dan Materi Karya Teater
-- [Pameran Peringatan Li Guoxiu — Museum Drama Taiwan](http://thedrama.org.tw/) — Catatan Biografi dan Kreasi
-- [Sejarah Perkembangan Teater Modern Taiwan — Pusat Seni Tradisional Nasional](https://www.ncfta.gov.tw/) — Materi Sejarah Teater
-
-[^1]: Pendiri Pertunjukan Layanan Kerja adalah Stan Lai (賴聲川), Li Guoxiu, dan Li Liqun; Chin Shih-chieh adalah aktor kolaborasi penting, tetapi bukan pendiri. Lihat: Entri Wikipedia "Pertunjukan Layanan Kerja" <https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%BC%94%E5%B7%A5%E4%BD%9C%E5%9D%8A>
-
-[^2]: Ucapan Li Guoxiu ini muncul dalam berbagai wawancara dan artikel peringatan. Lihat: Entri Wikipedia "Li Guoxiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>; Situs Resmi Pipa Panggung <http://www.ppt.org.tw/>
-
-[^3]: Li Guoxiu meninggal akibat kanker usus besar pada 2 Juli 2013, berusia 58 tahun. Lihat: Laporan ETtoday Berita Awan 2013/07/02; Entri Wikipedia "Li Guoxiu" <https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%9C%8B%E4%BF%AE>
-
-[^4]: "Wahyu Opera Beijing" memenangkan Penghargaan Festival Seni Taishin Tahun Pertama (1997). Lihat: Situs Resmi Penghargaan Festival Seni Taishin <https://taishinarts.org.tw/>
-
-[^5]: Pipa Panggung didirikan pada tahun 1986, dengan moto pendiri "Pertunjukan satu drama, berteman dengan sekelompok orang", dan sebelum kematian Li Guoxiu, telah mempertunjukkan lebih dari 40 drama. Lihat: Situs Resmi Pipa Panggung <http://www.ppt.org.tw/>
+- [Situs Resmi Performing Arts Workshop](http://www.ppt.org.tw/) — Sejarah grup dan data karya
+- [Pameran Khusus Peringatan Li Kuo-hsiu — Taiwan Drama Museum](http://thedrama.org.tw/) — Biografi dan catatan kreatif
+- [Sejarah Perkembangan Teater Modern Taiwan — National Center for Traditional Arts](https://www.ncfta.gov.tw/) — Materi sejarah teater

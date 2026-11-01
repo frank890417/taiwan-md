@@ -2,7 +2,7 @@
 title: 'Sensibilidade taiwanesa: precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são bonitas?'
 description: 'Em 2008, um grupo de Tainan lançou o movimento “Apreço pelas Casas Antigas” e começou a olhar de outra forma para as próprias construções — onze anos antes de os coreanos se encantarem com as paisagens urbanas de Taiwan sob o rótulo “대만감성”. Mas, quando essa tendência explodiu em 2024 pelas lentes do K-pop, nós a apresentamos dentro do enquadramento de “exportação cultural” adotado pela Administração de Turismo e pelo Ministério da Cultura, como se aquele primeiro olhar só passasse a valer depois de receber a aprovação dos coreanos.'
 date: 2026-03-18
-category: 'pt'
+category: 'Culture'
 tags:
   [
     'sensibilidade taiwanesa',
@@ -18,10 +18,11 @@ tags:
   ]
 subcategory: '區域特色'
 author: 'Taiwan.md'
+difficulty: 'beginner'
+readingTime: 18
 featured: true
 lastVerified: 2026-07-18
 lastHumanReview: false
-readingTime: 18
 image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
@@ -31,11 +32,12 @@ sporeLinks:
     platform: 'threads'
     date: '2026-04-08'
     url: 'https://www.threads.com/@taiwandotmd/post/DW2whskkZot'
+relatedDiary: ['2026-07-18-104133-taiwan-sensibility']
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '54ed6c788'
-sourceContentHash: 'sha256:01da220d6681931b'
-sourceBodyHash: 'sha256:71edee5e89546764'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:568c29d1e1668c32'
+sourceBodyHash: 'sha256:ad0f6df167e4338c'
+translatedAt: '2026-10-20T08:55:03.551758+00:00'
 ---
 
 # Sensibilidade taiwanesa: precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são bonitas?
@@ -150,40 +152,40 @@ A história do cinema taiwanês, portanto, não oferece uma resposta limpa à pe
 
 Filmes podem ser revistos; casas, não. Quando desviamos a câmera do cinema para a rua, encontramos uma questão mais constrangedora: somos honestos sobre os motivos pelos quais demolimos as coisas antigas que estão desaparecendo?
 
-## Duas justificativas para uma passarela e inquilinos que ninguém consultou
+## Dois motivos para uma ponte e inquilinos que ninguém questiona
 
-Voltemos àquela passarela.
+Voltando àquela ponte.
 
-Construída em 1982, a passarela Heping–Xinsheng foi, ao longo de quatro décadas, uma das mais filmadas de Taipé. Além das fotos de casamento de Oh Hyuk, apareceu em obras de Edward Yang e Ang Lee[^23]. Na madrugada de 19 de novembro de 2024, foi demolida. A prefeitura alegou que “havia atingido uma vida útil de quarenta anos e apresentava problemas estruturais”. O problema é que essa justificativa contradizia um relatório encomendado pela própria prefeitura.
+A passarela Heping–Xinsheng foi construída em 1982 e, durante quarenta anos, foi uma das passarelas pedonais mais fotografadas de Taipé — além das fotos de casamento de Oh Hyuk, tanto Ang Lee quanto Edward Yang filmaram aqui[^23]. Na madrugada de 19 de novembro de 2024, ela foi demolida. O motivo dado pela prefeitura foi "tempo de uso de quarenta anos e problemas estruturais". O problema é que esse motivo contradiz os próprios relatórios em posse da prefeitura.
 
-Apenas seis meses antes da demolição, em 17 de maio de 2024, a Taiwan Integrated Disaster Prevention Engineering Consulting acabara de concluir uma inspeção estrutural da passarela. O resultado: bastava reparar as partes corroídas e perfuradas dos painéis decorativos externos; a estrutura em si não apresentava riscos[^24]. Uma arquiteta de sobrenome Ku, licenciada nos Estados Unidos, examinou posteriormente os registros do Sistema de Gestão de Pontes e Bueiros de Taipé e apontou a contradição: embora a inspeção declarasse explicitamente que “a estrutura não apresentava riscos”, o Escritório de Novas Construções mudou sua posição em menos de seis meses e afirmou que “a estrutura da passarela era preocupante”[^24].
+Apenas seis meses antes da demolição, em 17 de maio de 2024, uma empresa chamada "Taiwan Integrated Disaster Prevention Engineering Technology Consulting" havia acabado de concluir a inspeção estrutural da ponte, concluindo que: era necessário apenas reparar as partes onde os painéis decorativos externos estavam corroídos e perfurados, mas a estrutura em si estava segura[^24]. A Sra. Gu, que possui licença de arquiteta nos Estados Unidos, revisou posteriormente os registros do "Sistema de Gestão de Pontes e Viadutos de Taipé" e apontou essa contradição: embora a inspeção tenha determinado que a "estrutura estava segura", o Departamento de Engenharia da prefeitura mudou o discurso em menos de seis meses para dizer que a "estrutura da passarela era preocupante"[^24].
 
-E quanto à “vida útil de quarenta anos”? Em uma reunião de coordenação entre a prefeitura e os moradores, um vice-engenheiro-chefe de sobrenome Lin afirmou que a passarela ultrapassara a vida útil de quarenta anos e precisava ser demolida por problemas estruturais. Mas alguém presente, familiarizado com a legislação de edificações, contestou imediatamente: “O prazo de quarenta anos é, na verdade, a ‘vida útil mínima dos bens públicos (passarelas)’ definida pelo Ministério das Finanças para impedir que governos locais construam obras indiscriminadamente. Seu objetivo é prevenir irregularidades, não determinar a vida útil.”[^24] A organizadora da petição, Lin Wen-chun, também estava na reunião e registrou o embate. Uma norma financeira criada para evitar o desperdício de dinheiro público por governos locais foi usada como fundamento estrutural para demolir uma passarela.
+E quanto aos "quarenta anos de tempo de uso"? Em uma reunião de coordenação entre a prefeitura e os residentes, um vice-engenheiro-chefe do Departamento de Engenharia de Construções Novas afirmou na hora que a passarela já havia excedido o tempo de uso de quarenta anos e que sua demolição era necessária devido a problemas estruturais; mas um cidadão presente, familiarizado com as leis de construção, questionou imediatamente: "O prazo de 40 anos é, na verdade, uma 'idade mínima de uso para bens públicos (passarelas)' estabelecida pelo Ministério das Finanças para evitar que governos locais construam obras desordenadamente; o objetivo é prevenir a corrupção, não é um limite de vida útil da estrutura."[^24] (Lin Wen-chun, a organizadora da petição, também estava presente na reunião e registrou esse embate.) Uma norma financeira destinada a evitar que governos locais gastem dinheiro desnecessariamente foi usada como base estrutural para demolir uma ponte.
 
-Mais sutil ainda: a justificativa apresentada publicamente pelo prefeito Chiang Wan-an era diferente daquela dada pelo Departamento de Obras Públicas. Ele mencionou que menos de 10% dos pedestres usavam a passarela, que seus pilares obstruíam a visão dos motoristas e que acidentes haviam diminuído depois da demolição do Mercado Chung-hua e da passarela no cruzamento das avenidas Xinyi e Keelung[^25]. Dentro da própria prefeitura, nunca houve uma explicação única e compatível com as evidências para a pergunta “por que demolir?”.
+O que é ainda mais sutil é que o motivo da demolição declarado publicamente pelo prefeito [Chiang Wan-an](/people/蔣萬安) difere do da Secretaria de Obras: ele argumentou que a taxa de uso da passarela era inferior a 10%, que os pilares bloqueavam a visão dos motoristas e comparou a situação com a redução de acidentes de trânsito após a demolição do shopping Zhonghua e da passarela no cruzamento de Xinyi com a estrada Keelung[^25]. Internamente, a prefeitura nunca apresentou uma explicação unificada e condizente com as evidências sobre "por que demolir".
 
-> **✦** Nem a justificativa para demolir uma passarela coincide com o relatório encomendado pela própria prefeitura. Será que algumas dessas manifestações da “sensibilidade taiwanesa em desaparecimento” foram destruídas antes mesmo que nós explicássemos claramente por quê?
+> **✦** Até os motivos para demolir uma ponte não coincidem com os próprios relatórios encomendados. Será que parte dessa "sensibilidade taiwanesa que está desaparecendo" é algo que estamos demolindo sem sequer explicar claramente o porquê?
 
-Nem toda rua antiga teve o mesmo destino. A Rua Dihua, em Tataocheng, seguiu outro caminho: graças ao mecanismo de transferência de potencial construtivo (TDR), as fachadas das casas antigas foram preservadas sem demolições em larga escala. Mesmo nesse “caso de sucesso”, porém, acadêmicos continuam debatendo se o processo causou deslocamentos forçados ou elevou os preços dos imóveis[^26]. Nem o próprio método de preservação oferece uma resposta limpa.
+Nem toda rua histórica tem esse destino. A Rua Dihua, em Dadaocheng, seguiu um caminho diferente: através do mecanismo de Transferência de Direitos de Construção (TDR), as fachadas das casas antigas foram preservadas, evitando demolições em larga escala. Mas mesmo neste "caso de sucesso", há debates acadêmicos sobre se isso causou deslocamentos forçados ou se elevou excessivamente os preços dos imóveis[^26]. Até o próprio método de preservação não oferece uma resposta simples.
 
-![Trecho da Rua Dihua em março de 2024, preservando a largura original e as fachadas antigas](/article-images/culture/dihua-street-2024.webp)
-_Rua Dihua, seção 2, em 2024. As fachadas antigas foram preservadas por meio da transferência de potencial construtivo, formando um dos poucos bairros históricos de Taiwan que não foram demolidos. Mas até o custo desse “sucesso” continua sendo debatido na academia. Foto: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
+![Vista da Rua Dihua, Secção 2, em março de 2024, preservando a largura original e as fachadas das casas antigas](/article-images/culture/dihua-street-2024.webp)
+_Rua Dihua, Secção 2, em 2024. As fachadas das casas antigas foram preservadas pelo mecanismo de TDR, sendo um dos poucos bairros históricos de Taiwan que não foi demolido — mas mesmo sobre esse "sucesso", a academia ainda debate o seu custo. Photo: DONGIE 829 EFUOA / Wikimedia Commons, CC0._
 
-Também é preciso reconhecer honestamente que nem toda demolição tem justificativas tão suspeitas quanto a da passarela Heping–Xinsheng. Na mesma cidade, o conjunto habitacional Hsining foi classificado como construção com areia marinha devido ao excesso de cloretos — um risco de segurança com indicadores técnicos claros, não uma vaga “vida útil” mal explicada. A velha construção, usada por Tsai Ming-liang como locação em vários filmes, será demolida por razões muito mais sólidas[^27]. Em outra área, o conjunto Libá Royal, com quase quarenta anos e igualmente classificado como construção com areia marinha, esperou 25 anos para que sua renovação urbana finalmente começasse. Um morador idoso descreveu a notícia como ver a aurora em meio à escuridão[^28]. As demolições podem parecer iguais, mas algumas são suspeitas, enquanto outras foram desejadas pelos moradores durante metade de suas vidas.
+E para ser honesto, nem toda demolição tem motivos tão suspeitos quanto os da passarela Heping–Xinsheng. Na mesma cidade, o conjunto habitacional Xining foi classificado como uma "casa de areia marinha" devido ao alto teor de cloretos; este é um problema de segurança com indicadores técnicos claros, não uma questão vaga de "tempo de uso"; a demolição deste edifício antigo, onde Tsai Ming-liang filmou vários filmes, tem motivos muito mais sólidos[^27]. Por outro lado, no condomínio Libá Royal, que tem quase quarenta anos e foi identificado como casa de areia marinha, os moradores esperaram vinte e cinco anos até que a renovação urbana finalmente começasse; um senhor idoso descreveu a notícia como se visse o amanhecer em uma noite escura[^28]. Ambos são demolições, mas enquanto algumas são suspeitas, outras são algo que os próprios moradores imploraram por metade de suas vidas.
 
 ```tw-versus
-Passarela Heping–Xinsheng | Conjunto habitacional Hsining
-Relatório técnico de maio de 2024: estrutura sem riscos | Excesso de cloretos; classificado como construção com areia marinha
-Seis meses depois, a prefeitura mudou a versão para “problemas estruturais” | Risco de segurança baseado em indicadores técnicos claros
-O “prazo de 40 anos” era uma norma do Ministério das Finanças contra irregularidades | Locação de vários filmes de Tsai Ming-liang
-Fontes: reportagem de verificação do Yahoo News e NOWnews
+Passarela Heping–Xinsheng | Conjunto Xining
+Relatório técnico de maio de 2024: estrutura segura | Alto teor de cloretos, classificado como casa de areia marinha
+Prefeitura mudou o discurso após seis meses para "problemas estruturais" | Perigo de segurança com indicadores técnicos claros
+"Prazo de 40 anos" é na verdade norma antifraude do Ministério das Finanças | Locação de vários filmes de Tsai Ming-liang
+Fonte: Relatórios de verificação de fatos do Yahoo News e NOWnews
 ```
 
-Entretanto, seja a demolição suspeita ou necessária, um grupo quase não tem voz no debate: os inquilinos. A renovação urbana discute “transformação de direitos”, e o sujeito é sempre o proprietário. Quem aluga o imóvel conta legalmente apenas como terceiro. O artigo 58 da Lei de Renovação Urbana é explícito: quando um inquilino é obrigado a encerrar seu contrato por causa da renovação, a indenização que pode exigir do proprietário limita-se, na maioria dos casos, “ao equivalente a dois meses de aluguel”[^29].
+Mas, independentemente de a demolição ser suspeita ou necessária, há um grupo que quase não tem voz em toda essa discussão: os inquilinos. As renovações urbanas falam em "troca de direitos", e o sujeito da frase é sempre o proprietário com título de propriedade; quem aluga o imóvel é considerado apenas um terceiro perante a lei. O Artigo 58 da 《Lei de Renovação Urbana》 é muito claro: se um locatário for forçado a rescindir o contrato devido à renovação urbana, a compensação que ele pode solicitar ao proprietário, na maioria dos casos, é de apenas "o equivalente a dois meses de aluguel"[^29].
 
-Em um projeto de renovação na seção 2 da Rua Chongqing Norte, em Taipé, uma ótica foi retratada pela opinião pública como um “imóvel resistente” que bloqueava o processo na tentativa de obter uma parcela maior, porque os inquilinos ainda não haviam saído. A explicação da proprietária do negócio era bastante prosaica: “Na internet dizem todo tipo de coisa. Não somos tão maus. Temos uma disputa locatícia com o proprietário e o processo está na Justiça. Quando ele terminar, iremos embora.”[^30] Ela não tinha poder discursivo para confrontar uma narrativa já consolidada sobre “moradores resistentes”, assim como os inquilinos que passaram a maior parte da vida em casas antigas, mas não aparecem como sujeitos em nenhum documento de renovação urbana.
+Em um projeto de renovação urbana na Secção 2 da Chongqing North Road, em Taipé, uma ótica foi atacada pela opinião pública como sendo uma "resistência à renovação para obter uma fatia maior do lucro", simplesmente porque o inquilino não se mudou. A explicação da proprietária é muito comum: "A internet diz tudo; não somos tão ruins assim. É que temos um conflito de locação com o proprietário e estamos em processo judicial. Assim que o processo terminar, nós nos mudaremos."[^30] Ela não tem poder de fala para combater a narrativa já consolidada de "resistência à renovação", tal como os inquilinos que viveram em casas antigas por grande parte de suas vidas, mas não constam como sujeitos em nenhum documento de renovação urbana.
 
-Podemos não ser honestos nem sobre as razões das demolições, nem sobre as pessoas que desaparecem. Se não conseguimos explicar com clareza o que demolimos e por quê, tampouco se sustenta nossa confiança ao afirmar que “há muito tempo já sabíamos que nossas casas antigas eram bonitas”. Ao que parece, a tarefa de “voltar a nos enxergar” ainda não foi realmente concluída.
+Até mesmo os motivos da demolição e as pessoas que desaparecem podem ser narrados por nós de forma pouco honesta. Se não conseguimos explicar claramente o que demolimos e por que demolimos, então a confiança na frase "nós já víamos a beleza das nossas velhas casas há muito tempo" também perde o fundamento — parece que o ato de "ver a si mesmo novamente" ainda não foi realmente concluído.
 
 ## Wang Tsung-wei mudou três vezes de direção; agora é nossa vez de olhar primeiro
 

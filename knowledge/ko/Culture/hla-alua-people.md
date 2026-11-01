@@ -1,9 +1,9 @@
 ---
-title: '라알루와족: ‘난촹’에서 자신의 이름으로, 성패제(聖貝祭)가 지킨 것'
-description: '2014년 6월 26일, 라알루와족은 대만의 제15번째 공식 인정 원주민이 되었습니다. 이는 쯔오족(邹族)과의 단절이 아니라, 타오위안 사사(桃源四社), 성패제, 그리고 위기에 처한 모어 사이에서 ‘합쳐진 이름’을 다시 그 사용하는 이들에게 돌려주는 과정입니다.'
+title: "라알루와족: '남조우'에서 자신들의 이름으로, 성베제가 지킨 것은 무엇인가"
+description: '2014년 6월 26일, 라알루와족은 대만 제15호로 정식 인정받은 원주민족이 되었습니다. 이는 조우족과 관계를 끊는 것이 아니라, 도원사사(桃源四社)와 성베제(聖貝祭), 그리고 위기에 처한 족어 사이에서 한때 합병되었던 이름을 그것을 사용하는 사람들에게 다시 돌려준 것입니다.'
 date: 2026-08-18
 category: 'Culture'
-tags: ['라알루와족', "Hla'alua", '성패제(聖貝祭)', '원주민', '모어 부흥']
+tags: ['라알루와족', "Hla'alua", '성베제', '원주민족', '족어 부흥']
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-12T21:48:55+08:00'
+translatedAt: '2026-10-21T02:05:30.949820+00:00'
 ---
 
 > **30초 요약:** 2014년 6월 26일, 라알루와족과 카나카나푸족이 공식 인정받아 대만의 제15, 16번째 원주민이 되었습니다. 라알루와족의 이야기는 단순한 행정적 ‘분족(分族)’이 아닙니다. 타오위안 사사, 패(貝)를 중심으로 한 성패제, 그리고 부농어(布農語)와 국어(중국어), 교육 제도의 틈바구니에서 일상적 사용 공간이 점차 사라져 가는 모어와 연결됩니다. 정명(正名)이 진정으로 되찾고자 하는 것은,족인이 자신의 이름으로 자신의 이야기를 할 수 있는 권리입니다.
@@ -84,20 +84,20 @@ translatedAt: '2026-09-12T21:48:55+08:00'
 
 ## 참고 자료
 
-[^1]: [라알루와족｜원주민위원회](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 공식 민족 소개, 사사 분포, 성패제, 공예 및 사회 조직 자료.
+[^1]: [라알루와족｜원주민족위원회](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — 공식 족군 소개, 4개 마을 분포, 성베제, 공예 및 사회 조직 자료.
 
-[^2]: [‘분(分)’은 정서의 재연결｜원주민 문헌](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — 2014년 정명, 2012년 공청회 기록, 그리고 라알루와족과 쯔오족의 관계 및 요구 사항.
+[^2]: [「분」은 감정의 재연결｜원주민족문헌](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — 2014년 정명, 2012년 공청회, 그리고 라알루와족과 쭈족의 관계 및 요구 사항을 기록.
 
-[^3]: [‘라알루와’ ‘카나카나푸’ 원민 16족으로 증가｜공시 뉴스](https://news.pts.org.tw/article/272343) — 2014년 정명 승인, 두 민족이 제15 및 제16족이 된 것, 그리고 정명과 문화 언어 보존에 대한 뉴스 보도.
+[^3]: [「라알루와」「카나카나푸」 원주민 16족으로 증가｜공시뉴스넷](https://news.pts.org.tw/article/272343) — 2014년 정명 확정, 두 족이 제15, 제16족이 되었으며, 정명과 문화 언어 보존에 대한 뉴스 보도.
 
-[^4]: [문창 마케팅 - 마법 같은 성패: 라알루와족의 패신｜가오슝시 문화국](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — 지역 문화 출판이 소개하는 성패제의 현대적 흐름, 성패 권주 및 패 던져 복 받기.
+[^4]: [문화창조 마케팅－마법의 성베: 라알루와족의 베신｜가오슝시 정부 문화국](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — 지역 문화 출판에서 성베제 현대 절차, 성베 추천주 및 투베 탈복 소개.
 
-[^5]: [2025년 라알루와족 성패제 문화 학습 여행｜국립 가오슝 사범대학](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — 2025년 제례 문화 학습 행사의 장소 및 행사 설명.
+[^5]: [2025년 라알루와족 성베제 문화 학습 여행｜국립 가오슝 사범대학](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — 2025년 제의 문화 학습 활동의 현장 및 활동 설명.
 
-[^6]: [라알루와족 언어 유실과 부흥｜원주민 문헌](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — 언어 계보, 현장 인터뷰, 언어 유실 원인 및 부흥 구상.
+[^6]: [라알루와족 언어 소실과 부흥｜원주민족문헌](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — 언어 계보, 현장 인터뷰, 언어 소실 원인 및 부흥 구상.
 
-[^7]: [두 민족 지식 체계 구축 심포지엄 공유 성과 교류 촉진｜원시 뉴스](https://news.ipcf.org.tw/136202) — 2024년 두 민족 지식 연구, 라알루와어 음운 및 지식 사전 구축 보도.
+[^7]: [2족 지식 체계 구축 세미나 성과 공유로 교류 촉진｜원시뉴스넷](https://news.ipcf.org.tw/136202) — 2024년 두 족 지식 연구, 라알루와어 음운 및 지식 사전 구축 보도.
 
-[^8]: [라알루와족 Hla'alua｜국가문화기억고](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — 민족 분포, 사사, 2014년 정명 및 성패제의 문화 기억 항목.
+[^8]: [라알루와족 Hla'alua｜국가문화기억고](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — 족군 분포, 4개 마을, 2014년 정명 및 성베제의 문화 기억 항목.
 
-[^9]: [라알루와족｜원주민 문화 발전 센터](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — 원주민 문화 공원의 라알루와족 소개 진입점.
+[^9]: [라알루와족｜원주민족문화발전센터](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — 원주민족문화공원의 라알루와족 소개 입구.

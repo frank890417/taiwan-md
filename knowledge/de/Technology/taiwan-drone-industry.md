@@ -75,7 +75,7 @@ Aber das ist erst der Anfang. Im 1,25-Billionen-NT$-Sonderbudget des Regierungsr
 
 „Nicht-Rot-Lieferkette“ ist das zentrale Schlagwort der taiwanesischen Drohnenindustrie.
 
-Der globale Verbraucherdrohnenmarkt war lange Zeit von der chinesischen Firma DJI (Dàxiàng Chuàng​) dominiert, mit einem Marktanteil von über 70 %. Doch viele Regierungen betrachten DJI-Produkte als Sicherheitsrisiko: Die von Drohnen aufgenommenen Bilder und Flugdaten könnten an chinesische Server gesendet werden. Seit 2020 verbietet die US-Regierung Bundesbehörden, DJI-Produkte zu verwenden, und hat die Blaue Liste als Alternative eingerichtet[^6]。
+Der globale Verbraucherdrohnenmarkt war lange Zeit von der chinesischen Firma DJI (Dàxiàng Chuàng) dominiert, mit einem Marktanteil von über 70 %. Doch viele Regierungen betrachten DJI-Produkte als Sicherheitsrisiko: Die von Drohnen aufgenommenen Bilder und Flugdaten könnten an chinesische Server gesendet werden. Seit 2020 verbietet die US-Regierung Bundesbehörden, DJI-Produkte zu verwenden, und hat die Blaue Liste als Alternative eingerichtet[^6]。
 
 Taiwan hat hier eine Chance: Die USA und ihre Verbündeten brauchen eine Drohnenlieferungskette, die keine chinesischen Bauteile enthält. Taiwan verfügt über Halbleiter- und Präzisionsfertigung, ein enges sicheres Bündnis mit den USA und eigene militärische Anforderungen als Testfeld. Im 1,25-Billionen-Sonderbudget sind etwa 30 Milliarden NT$ für die Herstellung durch taiwanesische Unternehmen vorgesehen, um genau diese „Nicht-Rot-Lieferkette“ aufzubauen[^7]。
 

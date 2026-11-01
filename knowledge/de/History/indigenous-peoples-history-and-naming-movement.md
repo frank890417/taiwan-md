@@ -1,12 +1,12 @@
 ---
-title: 'Geschichte und Namensrektifizierungsbewegung der indigenen Völker Taiwans'
-description: '1987 wurde ein 19-jähriger Tsou-Jugendlicher auf dem Hinrichtungsplatz in Taipeh erschossen. Sein Tod entfachte den ersten Funken der Namensrektifizierungsbewegung.'
+title: 'Geschichte der taiwanesischen Ureinwohner und die Bewegung für die korrekte Namensgebung'
+description: '1987 wurde der 19-jährige Tsou-Jugendliche Tang Ying-shen auf dem Hinrichtungsplatz in Taipeh erschossen; sein Tod entfachte den ersten Funken der Bewegung für die korrekte Namensgebung der taiwanesischen Ureinwohner. Von der Gründung der Vereinigung für die Rechte der Ureinwohner 1984, über den Sturz der Wu-Feng-Statue und den „Gebt uns unser Land zurück“-Marsch 1988, bis zur Verfassungsänderung 1994, die „Shanbao“ in „Ureinwohner“ änderte, und dem Grundgesetz für die Ureinwohner 2005, das den Begriff „Volksgruppe“ hinzufügte – dieser Weg dauerte 21 Jahre. Die von den Niederländern vergebenen Bezeichnungen „zivilisierte Barbaren“ und „wilde Barbaren“, die der Qing-Dynastie „zivilisierte Barbaren“ und „rohe Barbaren“, die japanische Kolonialzeit „Barbaren“ und „Barbarenverwaltung“, sowie die Nachkriegszeit „Berglandsgenossen“ – jeder Name war ein Schloss; die ersten drei Male benannten andere für euch, die letzten beiden Male habt ihr den Namen selbst zurückerobert.'
 date: 2026-03-29
 category: 'History'
 tags:
   [
     'indigene Völker',
-    'Namensrektifizierungsbewegung',
+    'Bewegung für die korrekte Namensgebung',
     'Identität',
     'soziale Bewegung',
     'Kulturerhalt',
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-09-23T07:28:04+08:00'
+translatedAt: '2026-10-21T02:19:30.818606+00:00'
 ---
 
 # Geschichte und Namensrektifizierungsbewegung der indigenen Völker Taiwans

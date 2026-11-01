@@ -2,16 +2,16 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-10-19",
+    "last_census": "2026-10-25",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 745186,
-      "users": 461802
+      "views": 808842,
+      "users": 519420
     },
     "dev_noise": {
-      "views": 12251,
-      "users": 183
+      "views": 12528,
+      "users": 185
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
     "ephemeral_tail_note": "見 forks[] 末尾 id='(ephemeral-experiments)' — demo/在地化測試品牌,低信心,部署短暫"
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 494,
+        "views": 453,
         "users": 60
       },
       "confidence": "high",
@@ -107,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 474,
+        "views": 409,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -135,13 +135,13 @@
       "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
-        "views": 124,
-        "users": 76
+        "views": 125,
+        "users": 77
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 105,
-        "users": 70
+        "views": 87,
+        "users": 71
       },
       "confidence": "high",
       "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 203,
-        "users": 149
+        "views": 209,
+        "users": 155
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 199,
-        "users": 146
+        "views": 205,
+        "users": 152
       },
       "last_seen": "2026-10",
       "first_seen": "2026-07"
@@ -300,7 +300,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 68,
+        "views": 61,
         "users": 1
       },
       "last_seen": "2026-10",
@@ -434,6 +434,36 @@
       },
       "confidence": "high (status); medium (who)",
       "notes": "創 3/19 棄 3/26,一週內放棄。未改 vanilla 複本"
+    },
+    {
+      "id": "agy.theaken.com",
+      "label": "agy.theaken.com",
+      "hostnames": ["agy.theaken.com"],
+      "title_brands": [],
+      "type": "(unverified)",
+      "topic": "(unverified)",
+      "language": "",
+      "github": "",
+      "network_fork": null,
+      "credits_upstream": null,
+      "cognitive_layer": "(unverified)",
+      "ga_leaking": true,
+      "deployment": "agy.theaken.com",
+      "health": "",
+      "confidence": "low",
+      "notes": "auto-detected via GA leak — needs investigation",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 5,
+        "users": 1
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "last_seen": "2026-10",
+      "first_seen": "2026-10"
     },
     {
       "id": "web.archive.org",

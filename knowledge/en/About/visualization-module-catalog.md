@@ -15,10 +15,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:6617087ac0d0a536'
-sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
-translatedAt: '2026-07-31T02:01:51+08:00'
+sourceCommitSha: '756ab2957'
+sourceContentHash: 'sha256:e634c73174fd4145'
+sourceBodyHash: 'sha256:5fe923f8d157fe62'
+translatedAt: '2026-10-23T16:35:03.888845+00:00'
 ---
 
 # Visualization Module Catalog: Nineteen Ways to See Taiwan's Data
@@ -174,21 +174,21 @@ Taoyuan | 9.0 | 40.0
 Source: Ministry of the Interior Real Estate Information Platform
 ```
 
-## Dot Plot `tw-dot`
+## Dot Chart `tw-dot`
 
-Bar charts compare "quantity"; dot plots show "distribution." With all dots placed on the same scale, you can see who is clustered together and who is an outlier. One value per row creates a dot strip; two values create an interval ("from here to there"); three values (`Point Estimate | Lower Bound | Upper Bound`) create a polling-style "point estimate + uncertainty band." A ±3% sampling error should not be lost; this is the most common failure of honest representation during election years. `*` can also be used for emphasis.
+Bar charts compare **magnitude**; dot charts show **distribution**: every dot sits on the same ruler, so you can see who clusters together and who are outliers. One value per row gives a dot strip; two values draw a "from here to there" interval; three values (point estimate | lower bound | upper bound) produce a poll-style "point estimate + uncertainty interval band." A ±3% sampling error shouldn't be swallowed—this is the honest presentation most often lost in election years. `*` works the same way for emphasis.
 
 ```tw-dot
-The extremes of aging: Youngest to oldest counties (Percentage aged 65+, %)
+Two extremes of aging rates: youngest to oldest counties/cities (65+ share, %)
 Hsinchu County | 15.08 | Youngest in Taiwan
 Taoyuan | 16.72
 Taichung | 17.40
 New Taipei | 19.95
 Tainan | 20.48
 Kaohsiung | 20.79
-*Chiayi County | 24.11 | Oldest in Taiwan
-*Taipei | 24.18 | Oldest of the six major municipalities
-Source: Ministry of the Interior, Department of Household Registration, late 2025
+*Chiayi County | 24.11 | Highest aging index in Taiwan
+*Taipei | 24.18 | Highest in Taiwan
+Source: Ministry of the Interior, Department of Household Registration, end of 2025
 ```
 
 ## Stacked Bar `tw-stack`

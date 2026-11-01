@@ -1,15 +1,15 @@
 ---
-title: "Lin Ch'ing-hsia (Brigitte Lin)"
-description: 'Nascida em 1954 numa aldeia militar de Taipé, foi descoberta em 1972 no distrito de Ximending pelo realizador Sung Tsun-shou para protagonizar "Outside the Window", baseado no romance de Chiung Yao. Com a sua imagem pura, tornou-se a musa da era dos filmes de Chiung Yao, formando com Chin Han e Chin Hsiang-lin o clássico casal de ecrã que conquistou todo o mundo sinófono; o seu penteado e vestuário tornaram-se referências de moda. Em 1992, criou novo clássico do cinema de artes marciais com a sua interpretação de Invincible East, dançando em vestes vermelhas, atravessando assim as eras do cinema literário e de artes marciais.'
+title: 'Brigitte Lin'
+description: 'Nascida em 1954 e criada em uma vila de militares, ela foi descoberta pelo caça-talentos Yang Qi em Ximending, em 1972. Após passar por um teste, foi selecionada para protagonizar "Fora da Janela", baseado na obra de Qiong Yao. Com sua aparência pura, tornou-se a deusa da era dos filmes de Qiong Yao, formando com Qin Han e Qin Xianglin casais icônicos que encantaram todo o mundo de língua chinesa, tornando seus penteados e figurinos referências de moda. Em 1992, escreveu um clássico do cinema de artes marciais ao interpretar a personagem Dongfang Bubai, com suas vestes vermelhas esvoaçantes, abrangendo as eras do cinema artístico e do wuxia.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    "Lin Ch'ing-hsia",
-    'atriz',
-    'cinema de Chiung Yao',
-    'Invincible East',
-    'cinema sinófono',
+    'Brigitte Lin',
+    'Atriz',
+    'Filmes de Qiong Yao',
+    'Dongfang Bubai',
+    'Cinema de língua chinesa',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,47 +17,45 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'e53f17151'
-sourceContentHash: 'sha256:7e12cc4002fc2007'
-sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-16T00:53:12+08:00'
+sourceCommitSha: '5a694157b'
+sourceContentHash: 'sha256:d7565a0caf0e78ad'
+sourceBodyHash: 'sha256:c4c5c6f387033995'
+translatedAt: '2026-10-22T05:17:44.134808+00:00'
 ---
 
 # Lin Ch'ing-hsia: De Musa do Cinema Literário a Lenda das Artes Marciais
 
 Lin Ch'ing-hsia atravessa a era dos filmes literários de Chiung Yao e a dos filmes de artes marciais de Tsui Hark, sendo uma das atrizes mais representativas do cinema sinófono. Nos anos 70, com a sua imagem pura, tornou-se figura central do cinema de Chiung Yao; a partir do final dos anos 80, logrou uma transformação bem-sucedida, criando em "Invincible East" uma imagem de personagem subversiva. A sua carreira artística testemunhou a era de ouro do cinema sinófono.
 
-## O Caminho para o Estrelato de uma Rapariga de Aldeia Militar
+## O caminho de estrela da menina do vilarejo militar
 
-Lin Ch'ing-hsia nasceu a 3 de novembro de 1954 em Taipé, com ascendência em Shandong. O pai, Lin Wei-liang, era militar; a mãe, Lo Hsiu-yun, dona de casa. Crescida num ambiente de aldeia militar, Lin Ch'ing-hsia exibiu desde cedo uma beleza delicada e um temperamento tranquilo.
+Lin Ch'ing-hsia nasceu em 3 de novembro de 1954. Seus ancestrais eram de Laiyang, Shandong (embora as informações sobre seu local de nascimento variem na Wikipédia, o corpo do texto menciona Sanchong, condado de Taipei, enquanto a caixa de informações lista Dalin, Chiayi). Seu pai, Lin Wei-liang, serviu como médico militar no Exército Nacional durante a Guerra de Resistência e, após a aposentadoria, abriu uma pequena clínica em um vilarejo militar (_jun cun_); sua mãe, Ma Lan-ying, fazia trabalhos de costura em casa para ajudar nas despesas familiares. Tendo crescido em um ambiente de vilarejo militar, Lin Ch'ing-hsia demonstrou desde cedo uma aparência delicada e um temperamento tranquilo.
 
-Frequentou o liceu feminino Chinling, onde foi uma aluna exemplar, com grande interesse por literatura e arte. Em 1972, foi descoberta no distrito de Ximending pelo realizador Sung Tsun-shou, que a convidou para protagonizar "Outside the Window"; na altura, preparava-se para o exame de admissão à universidade e não tinha qualquer preparação para a carreira artística. [^1]
+Durante o ensino médio no Ginling Girls' High School, Lin Ch'ing-hsia foi uma excelente aluna, tanto em comportamento quanto em estudos, com um profundo interesse por literatura e artes. Em 1972, ela não foi aprovada no exame unificado de admissão à universidade, mas acabou encontrando o caça-talentos Yang Chi em Ximending. Por meio de uma indicação, ela participou do teste para o filme baseado na obra original de Chiung Yao, 《窗外》 (_Outside the Window_), sendo selecionada para o papel da protagonista Jiang Yan-rong, sob a direção de Sung Tsun-shou. [^1]
 
-Com o apoio da mãe, Lin Ch'ing-hsia decidiu tentar a representação cinematográfica. O seu primeiro filme, "Outside the Window" (1973), adaptado do romance de Chiung Yao, co-protagonizado por Chin Han, estabeleceu o seu estatuto no cinema literário. [^2]
+Seu primeiro filme, 《窗外》, foi lançado em agosto de 1973, adaptado do romance de Chiung Yao, consolidando sua posição no cinema de temática literária e artística. [^2]
 
-## A Musa do Cinema Literário na Era Chiung Yao
+## A Deusa Literária da Era dos Filmes de Chiung Yao
 
-O sucesso de "Outside the Window" em 1972 inaugurou a era Chiung Yao de Lin Ch'ing-hsia. Na década seguinte, protagonizou várias obras de Chiung Yao, como "The Young Ones", "My Love", "The Moon and the Bird".
+O sucesso de 《窗外》 em 1973 deu início à era de Lin Ch'ing-hsia nos filmes de Chiung Yao. Na década seguinte, ela protagonizou diversas obras de Chiung Yao, como 《彩雲飛》, 《心有千千結》 e 《月朦朧鳥朦朧》.
 
-A imagem pura de Lin Ch'ing-hsia encarnou perfeitamente as personagens femininas de Chiung Yao: ingénuas, bondosas, melancólicas e sensíveis. A sua parceria com Chin Han e Chin Hsiang-lin formou o clássico casal de ecrã que conquistou todo o mundo sinófono.
+A imagem pura de Lin Ch'ing-hsia interpretava perfeitamente as personagens femininas escritas por Chiung Yao: inocentes, bondosas e sentimentais. Suas colaborações com Qin Han e Qin Xiang-lin formaram casais clássicos nas telas, tornando-se um fenômeno em todo o mundo de língua chinesa.
 
-Neste período, Lin Ch'ing-hsia tornou-se ídolo de incontáveis raparigas; o seu penteado e vestuário ditavam a moda. Os filmes de Chiung Yao ganharam maior influência e sucesso comercial graças às suas interpretações.
+Nesse período, Lin Ch'ing-hsia tornou-se o ídolo de inúmeras jovens, sendo seu penteado e vestuário referências de moda. Os filmes de Chiung Yao também alcançaram maior influência e sucesso comercial graças às suas atuações.
 
-## Tentativas Diversificadas no Cinema Literário
+## Diversas tentativas no cinema de arte
 
-Além dos filmes de Chiung Yao, Lin Ch'ing-hsia experimentou outros tipos de cinema literário. Em 1979, colaborou com o realizador Li Hsing em "A Boat in the Ocean", revelando uma representação mais madura.
+Além dos filmes de Chiung Yao, Lin Ch'ing-hsia aceitou continuamente diferentes papéis em filmes de arte. 《我是一片雲》 (dirigido por Chen Hung-lie, 1977) e 《月朦朧鳥朦朧》 (dirigido por Chen Yao-chi, 1978) são obras desta fase de sua carreira. Em 1976, ela venceu o prêmio de Melhor Atriz no Festival de Cinema da Ásia-Pacífico pelo filme 《八百壯士》, e sua atuação começou a receber reconhecimento em festivais.
 
-"I Am a Cloud" (1981) é uma das suas obras-primas da era Chiung Yao; as cenas com Chin Han são profundamente comoventes. Este filme demonstrou a profunda mestria de Lin Ch'ing-hsia em cenas emocionais.
+No início dos anos 80, Lin Ch'ing-hsia começou a refletir sobre uma transição em sua carreira artística. Ela percebeu que a imagem única de "deusa do cinema de arte" poderia limitar seu espaço de desenvolvimento e começou a buscar oportunidades para romper com esse padrão.
 
-No início dos anos 80, Lin Ch'ing-hsia começou a refletir sobre a transformação da sua carreira artística. Percebeu que a imagem única de musa do cinema literário poderia limitar o seu espaço de desenvolvimento e começou a procurar oportunidades de ruptura.
+## Transição para Hong Kong e Colaboração com a Nova Onda
 
-## Mudança para Hong Kong e Colaboração com a Nova Vaga
+Na década de 1980, Lin Ch'ing-hsia mudou seu foco para o mercado cinematográfico de Hong Kong, uma decisão que transformou radicalmente sua carreira artística. O ambiente diversificado e comercial do cinema de Hong Kong ofereceu a ela um maior espaço para desenvolvimento.
 
-Em meados dos anos 80, Lin Ch'ing-hsia mudou-se para o mercado cinematográfico de Hong Kong, decisão que transformou radicalmente a sua carreira. O ambiente diversificado e comercializado do cinema de Hong Kong ofereceu-lhe maior espaço de desenvolvimento.
+Ela estabeleceu parcerias com diretores da Nova Onda de Hong Kong, experimentando diferentes tipos de personagens. Essas experiências tornaram sua atuação mais madura, preparando-a para assumir posteriormente os papéis nos filmes de artes marciais (_wuxia_) de Tsui Hark.
 
-Estabeleceu colaborações com realizadores da Nova Vaga de Hong Kong, experimentando diferentes tipos de personagens. Estas experiências amadureceram a sua representação, preparando-a para os filmes de artes marciais de Tsui Hark.
-
-Durante o período em Hong Kong, Lin Ch'ing-hsia manteve atividade em ambos os mercados, tornando-se uma das raras estrelas capazes de transitar entre os dois. O seu sucesso serviu de modelo para posteriores atores de Taiwan que procuraram carreira em Hong Kong.
+Durante seu período em Hong Kong, Lin Ch'ing-hsia manteve sua atuação tanto em Taiwan quanto em Hong Kong, tornando-se uma das poucas superestrelas capazes de transitar entre os mercados de ambos os lados. Seu sucesso serviu como um modelo para que atores de Taiwan passassem a atuar em Hong Kong posteriormente.
 
 ## Clássico das Artes Marciais: A Interpretação Subversiva de "Invincible East"
 
@@ -75,37 +73,35 @@ Além de "Invincible East", colaboraram também em "New Dragon Gate Inn" e outro
 
 Estas colaborações obtiveram sucesso tanto de bilheteira como de crítica, provando a acertada da sua transformação. Deixou de ser apenas a representante do cinema de Chiung Yao para se tornar uma verdadeira estrela de reconhecido talento interpretativo.
 
-## Expressões Diversificadas nos Anos 90
+## Diversidade de Atuações nos Anos 1990
 
-Os anos 90 foram o período mais ativo de Lin Ch'ing-hsia, no qual experimentou os mais variados tipos de personagens. Desde o wuxia de época até ao drama contemporâneo, brilhou em todos.
+O início da década de 1990 marcou o último grande auge de Lin Ch'ing-hsia antes de sua aposentadoria. Ela experimentou diversos tipos de papéis e, em 1990, conquistou o prêmio de Melhor Atriz no Golden Horse Awards pelo filme 《滾滾紅塵》. De dramas de artes marciais (wuxia) a dramas contemporâneos, suas performances foram excepcionais.
 
-A Jin Xiangyu em "New Dragon Gate Inn", a assassina loira em "Chungking Express", a Murong Yan em "Ashes of Time" — cada personagem possui um encanto único. Lin Ch'ing-hsia demonstrou uma amplitude interpretativa surpreendente.
+Jin Xiang-yu em 《新龍門客棧》, a assassina loira em 《重慶森林》 e Murong Yan em 《東邪西毒》 — cada personagem possuía um charme único. Lin Ch'ing-hsia demonstrou uma amplitude de atuação impressionante.
 
-"Chungking Express" e "Ashes of Time", de Wong Kar-wai, aproximaram Lin Ch'ing-hsia do cinema de autor, provando que não só era capaz em filmes comerciais como também dominava obras de maior exigência artística.
+Os filmes de Wong Kar-wai, 《重慶森林》 e 《東邪西毒》, aproximaram Lin Ch'ing-hsia do cinema de arte, provando que ela não era capaz apenas de protagonizar sucessos comerciais, mas também de dominar obras com maior valor artístico.
 
-## Retirada e Nova Fase de Vida
+## Aposentadoria e uma Nova Fase da Vida
 
-Em 1994, Lin Ch'ing-hsia anunciou a retirada, optando por dedicar-se à vida familiar. A decisão entristeceu inúmeros fãs, mas compreenderam a sua escolha de vida.
+Em 29 de junho de 1994, Lin Ch'ing-hsia casou-se com o empresário de Hong Kong Hsing Li-yuan em San Francisco e, posteriormente, afastou-se do meio artístico para se dedicar à vida familiar. Essa decisão causou pesar a inúmeros fãs, mas eles também compreenderam a sua escolha de vida.
 
-Após a retirada, Lin Ch'ing-hsia casou com o empresário de Hong Kong Hsing Li-yuan, tendo duas filhas. Passou a centrar a vida na família, aparecendo raramente em público, o que apenas aumentou o seu mistério.
+Após o casamento, ela teve duas filhas, nascidas em 1996 e 2001, respectivamente. Ela voltou o foco da sua vida para a família e raramente faz aparições públicas, o que aumentou ainda mais o seu ar de mistério.
 
-Embora retirada, a influência de Lin Ch'ing-hsia não diminuiu. Os seus clássicos continuam a ser reprisados na televisão, e novas gerações de espectadores descobrem o seu encanto através deles.
+Embora tenha se aposentado do cinema, a influência de Lin Ch'ing-hsia não diminuiu. Suas obras clássicas continuam sendo exibidas na televisão, permitindo que novas gerações de espectadores conheçam o seu charme através desses trabalhos.
 
-## Nova Tentativa na Escrita
+## Novas Tentativas na Escrita
 
-Após a retirada, Lin Ch'ing-hsia iniciou-se na escrita, publicando a coletânea de ensaios "Inside and Outside the Window" e outras obras. Com uma prosa delicada, regista reflexões sobre a vida e experiências pessoais.
+Após sua aposentadoria das telas, Lin Ch'ing-hsia começou a experimentar a escrita, publicando sucessivamente coletâneas de ensaios como 《窗裏窗外》 (2011) e 《雲去雲來》 (2014). Com uma escrita delicada, ela registra suas reflexões sobre a vida e suas experiências pessoais.
 
-A obra literária de Lin Ch'ing-hsia foi reconhecida pelo meio literário, provando que não é apenas uma excelente atriz, mas também uma escritora talentosa. Esta multiplicidade de talentos inspira ainda maior admiração.
+A produção literária de Lin Ch'ing-hsia obteve reconhecimento no meio literário, provando que ela não é apenas uma excelente atriz, mas também uma escritora talentosa. Esse talento multifacetado desperta ainda mais admiração por parte do público.
 
-Através da escrita, partilha experiências artísticas e reflexões de vida, permitindo aos fãs conhecer melhor o seu mundo interior. Estas obras tornaram-se valiosos documentos de história do cinema.
+Ela também utiliza seus textos para compartilhar suas experiências na atuação e suas reflexões sobre a vida, permitindo que os fãs compreendam de forma mais profunda seu mundo interior. Essas obras tornaram-se materiais valiosos para a história do cinema.
 
-## O Significado Especial dos Regressos Ocasionais
+## O significado especial de seus retornos ocasionais
 
-Embora formalmente retirada, Lin Ch'ing-hsia regressa ocasionalmente para projetos especiais. Em 2013, fez uma participação especial em "101 Proposals", suscitando enorme entusiasmo dos fãs.
+Embora tenha se afastado do cinema, Lin Ch'ing-hsia ainda aparece ocasionalmente em eventos públicos. Em janeiro de 2013, ela foi convidada para ser a primeira embaixadora cultural do programa "Nova Onda de Leitura" (閱讀新浪潮) do Ministério da Cultura e, em novembro do mesmo ano, atuou como convidada na 50ª cerimônia do Golden Horse Awards. Em 2023, ela recebeu o prêmio de Contribuição Vitalícia no Golden Horse Awards.
 
-Embora com pouco tempo de ecrã, cada regresso torna-se foco de atenção. A sua capacidade de convocação e influência são evidentes.
-
-Participa também em festivais e cerimónias de prémios; cada aparição causa sensação. O decantar dos anos tornou-a ainda mais elegante e cativante.
+Cada vez que ela aparece em festivais de cinema ou cerimônias de premiação, causa um grande impacto. O passar dos anos a tornou ainda mais elegante e cativante.
 
 ## Influência que Atravessa Eras
 

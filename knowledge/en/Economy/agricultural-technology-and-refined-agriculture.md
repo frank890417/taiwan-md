@@ -80,7 +80,7 @@ As IoT and AI technologies matured, Taiwan promoted "Smart Agriculture 4.0." Sen
 
 Taiwan is known as the "Orchid Kingdom" and is one of the world's most important producers and exporters of orchids:
 
-**Industry Scale**: In 2023, the total export value of orchids was US$197.68 million (approximately NT$6 billion), of which Phalaenopsis (moth orchids) accounted for US$159.38 million, or 80%. The top five markets were the United States, Japan, Vietnam, the Netherlands, and Canada[^1]. Taiwan accounts for approximately 30% of the global Phalaenopsis market; however, since 2014, the Netherlands has overtaken Taiwan to become number one with a market share of about 50%[^8].
+**Industry Scale**: In 2023, the total export value of orchids was US$197.68 million (approximately NT$6 billion), of which Phalaenopsis (moth orchids) accounted for US$159.38 million, or 80%. The top five markets were the United States, Japan, Vietnam, the Netherlands, and Canada[^1]. Taiwan accounts for approximately 30% of the global Phalaenopsis market; however, since 2014, the Netherlands has overtaken Taiwan to become number one with a market share of about 50%[^9].
 
 **Technical Advantages**: Tissue culture technology supports the mass propagation of high-quality seedlings; hybrid breeding creates new varieties with independent intellectual property rights; and precise environmental control (temperature, humidity, light) combined with standardized production processes ensures consistent quality.
 

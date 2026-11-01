@@ -1,22 +1,22 @@
 ---
-title: "Taiwan's Electricity Pricing Mechanism and Taipower: The 12.83% That Did Not Rise, Replaced by a NT$71.1 Billion Supplementary Budget"
-description: "On September 18, 2026, the Electricity Rate Review Committee decided to hold electricity prices steady from October through December. Taipower's review calculated a necessary adjustment of 12.83%, raising the average rate from NT$3.7823 to NT$4.2675 per kilowatt-hour, but instead of implementing the increase, the government sought a NT$71.1 billion supplementary budget from the legislature. This pattern traces back to the 2017 pricing formula, through a NT$150 billion capital injection in 2022, an 11% increase in 2024 against accumulated losses of NT$382.6 billion, to losses of NT$21.4 billion in the first seven months of this year and projected full-year losses exceeding NT$71.1 billion."
+title: "Taiwan's Electricity Pricing Mechanism and Taipower: That 12.83% Increase Didn't Happen, But the Bill Became a NT$71.1 Billion Supplementary Budget Request"
+description: "The September 18, 2026, Electricity Rate Review Committee resolved not to adjust rates from October to December. While Taipower's review suggested a 12.83% hike, the focus shifted to seeking a NT$71.1 billion government subsidy."
 date: 2026-10-14
 category: 'Economy'
 tags:
   [
     'Economy',
-    'electricity pricing',
+    'Electricity Rates',
     'Taipower',
     'Electricity Rate Review Committee',
-    'energy',
-    'prices',
-    'supplementary budget',
+    'Energy',
+    'Inflation',
+    'Supplementary Budget',
   ]
 subcategory: '能源與永續'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-10-14
+lastVerified: 2026-10-23
 lastHumanReview: false
 readingTime: 14
 curation: 'incubating'
@@ -26,136 +26,150 @@ rationale:
   where_it_hedges: '112 年累積虧損 3,826 億採立法院預算中心 113 年 8 月報告，今年全年虧損「逾 711 億」是經濟部 9 月 18 日的估計值，不是決算數，2022 年的 1,500 億與 2024 年的 1,000 億是「政府編列的增資與補助」，與這次的追加預算在會計科目上不完全相同。'
   whos_pushing_back: '主張電價該反映成本、不應以公務預算補貼的讀者，以及主張 711 億撥補只是把問題遞延、該先檢討台電成本結構的讀者。'
 translatedFrom: 'Economy/台灣電價機制與台電.md'
-sourceCommitSha: '75e7f4297'
-sourceContentHash: 'sha256:873b2d997a90fa55'
-sourceBodyHash: 'sha256:8a36a5227a1ed4ef'
-translatedAt: '2026-10-16T00:52:38+08:00'
+sourceCommitSha: '32789bc38'
+sourceContentHash: 'sha256:aa6da6e0a6abe0a2'
+sourceBodyHash: 'sha256:4960f809ab64a615'
+translatedAt: '2026-10-23T10:28:45+08:00'
 ---
 
-# Taiwan's Electricity Pricing Mechanism and Taipower: The 12.83% That Did Not Rise, Replaced by a NT$71.1 Billion Supplementary Budget
+# Taiwan's Electricity Pricing Mechanism and Taipower: That 12.83% Increase Didn't Happen, But the Bill Became a NT$71.1 Billion Supplementary Budget Request
 
-> **30-second overview:** On September 18, 2026, the Ministry of Economic Affairs convened the 115th Year, 2nd Electricity Rate Review Committee, which decided to hold electricity prices steady from October through December. Taipower's review calculated a necessary adjustment of 12.83%, raising the average rate from NT$3.7823 to NT$4.2675 per kilowatt-hour. The increase was not rejected—only deferred to the 3rd committee meeting in December—while the government first sought a NT$71.1 billion supplementary budget.
+> **30-Second Overview:** On September 18, 2026, the Ministry of Economic Affairs (MOEA) convened the second Electricity Rate Review Committee of 2026, resolving not to adjust electricity rates from October to December. Taipower's latest review calculated a necessary adjustment of 12.83%, raising the average price per kWh from NT$3.7823 to NT$4.2675. This increase was not rejected but deferred to the third committee meeting in December; instead, the priority has shifted to seeking a NT$71.1 billion government subsidy.
 
-**Keywords:** electricity pricing, Taipower, Electricity Rate Review Committee, supplementary budget, energy
+**Keywords**: Electricity rates, Taipower, Electricity Rate Review Committee, supplementary budget, energy
 
 ---
 
 ## The Afternoon the Meeting Adjourned
 
-On the afternoon of September 18, 2026, the Ministry of Economic Affairs convened the 115th Year, 2nd Electricity Rate Review Committee. At the post-meeting press conference, Vice Minister Lai Chien-hsin announced the conclusion: electricity rates would remain unchanged from October through December, with the rate adjustment decision "deferred," to be revisited at the 3rd committee meeting in December alongside transmission and distribution fee rate review, with any new rates taking effect January 1, 2027.[^1][^2][^4]
+On the afternoon of September 18, 2026, the MOEA held its second Electricity Rate Review Committee meeting of the year. At the post-meeting press conference, Deputy Minister Lai Chien-hsin concluded that electricity rates for October through December will remain at current levels. The adjustment "has not been decided" and will be discussed in December during the third review meeting alongside the review of transmission and distribution rates. If an adjustment is made in December, the new rates will apply starting January 1, 2027. [^1][^2][^4]
 
-A set of figures lay on the table. According to Taipower's rate review, the necessary adjustment was 12.83%, raising the average rate from NT$3.7823 to NT$4.2675 per kilowatt-hour—an increase of NT$0.4174 per unit. The ministry noted that if calculated at a reasonable profit margin of 5%, Taipower could expect to earn an average of NT$7.75 billion per month over the following three months.[^1]
+A set of numbers was originally on the table. According to Taipower's latest review, the required adjustment is 12.83%, raising the average price per kWh from NT$3.7823 to NT$4.2675—an increase of NT$0.4852 per kWh. [^13] Another figure in Taipower's presentation, NT$0.4174, represents the increase compared to the previous rate of NT$3.8501. [^13] The MOEA stated that if calculated with a reasonable profit margin of 5%, Taipower could expect to earn an average of NT$7.75 billion per month over the next three months following an adjustment. [^1]
 
-This set of figures was not rejected—only left on the table. The committee's priority was a different sum: a NT$71.1 billion government subsidy to Taipower, which would require legislative approval of a supplementary budget.[^1][^2]
+These numbers were not rejected; they were simply left on the table. The committee resolved to prioritize seeking a different sum: a NT$71.1 billion government subsidy for Taipower, which must be approved by the Legislative Yuan as a supplementary budget. [^1][^2]
 
-## Behind One Electricity Bill Stands a Company That Advances Its Own Costs
+## Behind One Electricity Bill Stands a Company Paying the Difference Upfront
 
-To understand the four words "deferred decision," one must first examine Taipower's profit-and-loss statement for this year. In fiscal year 2025, Taipower posted a pre-tax profit of NT$75.6 billion, ending three consecutive years of losses—a fact Chairman Tseng Wen-sheng and General Manager Kuo Tien-ho reported to shareholders at the June shareholders' meeting.[^8][^9] At that time, the company's public position was that stabilizing international fuel prices, combined with cost controls, would contain this year's losses.
+To understand what "not decided" really means, one must look at Taipower's income statement for this year. In 2025, Taipower recorded a pre-tax profit of NT$75.6 billion, ending three consecutive years of losses. Chairman Tseng Wen-sheng and General Manager Kuo Tien-ho reported this to shareholders during the annual general meeting in June. [^8][^9] At that time, the company's public stance was that with international fuel prices stabilizing and cost-cutting measures in place, losses were expected to narrow.
 
-Then the Middle East conflict disrupted the plan. According to the ministry, after the conflict erupted, international oil prices fluctuated between US$68 and US$132 per barrel. To stabilize domestic prices, Taipower continued absorbing fuel costs, absorbing approximately NT$71.1 billion from March through August. As of the end of July, Taipower had posted losses of NT$21.4 billion for the year; based on current international energy price volatility, full-year losses are projected to exceed NT$71.1 billion.[^1][^2] In other words, losses over the remaining five months could expand by another NT$50 billion, averaging over NT$10 billion per month.[^1]
+Then, conflict in the Middle East disrupted those plans. The MOEA explained that following the outbreak of hostilities, international oil prices have fluctuated between US$68 and US$132 per barrel. To stabilize consumer prices, Taipower has continued to absorb fuel costs, absorbing approximately NT$71.1 billion from March to August this year. As of the end of July, Taipower's losses stand at NT$21.4 billion; based on current international energy price volatility, full-year losses are projected to exceed NT$71.1 billion. [^1][^2] In other words, losses over the next five months could expand by another NT$50 billion, averaging more than NT$10 billion per month. [^1]
 
-Taipower Vice President Wang Yun-chun added two reasons at the post-meeting briefing: as of July, electricity industry natural gas costs continued to rise, and in subsequent months, off-peak electricity rates would resume, reducing sales revenue while fuel costs climbed, causing losses to widen in the remaining months.[^1]
+Taipower Deputy General Manager Wang Yun-chun added two reasons after the meeting: as of July, natural gas costs for the power industry are still rising, and in the coming months, the return to non-summer electricity rates will result in lower sales revenue while fuel costs remain high, widening the losses. [^1]
 
 ```tw-bars
-Taipower's Profit and Loss: From NT$75.6 Billion Profit to Projected Full-Year Loss Exceeding NT$71.1 Billion (NT$ billions)
-Fiscal Year 2025 (pre-tax) | 75.6
-2026 through end of July | -21.4
-2026 full year (ministry estimate) | -71.1
-Source: Central News Agency, September 18, 2026; Taipower 2026 Shareholders' Meeting (Cnyes, Economic Daily News, June 26, 2026)
+Taipower's Profit/Loss: From NT$75.6B profit to an estimated annual loss exceeding NT$71.1B (in billions)
+FY 2025 (Pre-tax) | 756
+Jan–July 2026 | -214
+Full Year 2026 (MOEA Estimate) | -711
+Source: CNA Sept 18, 2026; Taipower 2026 AGM (Chunghwa News, Economic Daily June 26, 2026)
 ```
 
 ## How That 12.83% Was Calculated
 
-Electricity pricing is not a figure the Executive Yuan can announce at will—a formula stands in front of it. Under Article 49 of the Electricity Act, retail electricity prices are set by the central competent authority. The current published "Public Electricity Utility Rate Calculation Formula" was announced and implemented by the Ministry of Economic Affairs on November 6, 2017.[^6] Under this formula's review and adjustment mechanism, electricity rates are reviewed twice annually, with increases and decreases generally not exceeding 3% per adjustment. However, when power supply costs rise or fall sharply and continuously, the Electricity Rate Review Committee may, considering the operation of the electricity price stabilization fund, make appropriate adjustments to the rate increase.[^5]
+Electricity prices are not figures the Executive Yuan can announce at will; there is a formula that governs them. According to Article 49 of the _Electricity Act_, electricity sales prices are determined by the central competent authority. The currently announced "Calculation Formula for Electricity Rates of Public Electricity Sales Businesses" was implemented by the MOEA on November 6, 2017. [^6] Under this formula's review mechanism, rates are reviewed twice a year. In principle, increases or decreases should not exceed 3% per review; however, when supply costs rise or fall significantly, the Electricity Rate Review Committee may make appropriate adjustments based on the operation of the Electricity Price Stabilization Fund. [^5]
 
-Thus the 12.83% figure is the result of Taipower inserting fuel costs, exchange rates, and power generation and procurement structure into the formula. Whether and by how much rates can rise is left to the committee to decide. At the September 18 meeting this year, the committee reviewed Taipower's cost control measures and found the relevant expenditures reasonable. Lai Chien-hsin conveyed the committee members' assessment: absent the Middle East conflict this year, Taipower would have had the opportunity to maintain profitability and gradually strengthen its finances. However, the conflict continues, international oil and gas prices fluctuate sharply, so committee members believed the government should prioritize providing a subsidy to reduce Taipower's financial pressure.[^1]
+Thus, the 12.83% figure is the result Taipower calculated after plugging fuel costs, exchange rates, and the power generation/purchase structure into the formula. Whether a hike can occur, and by how much, is left to the committee's decision. During the September 18 meeting, the committee reviewed Taipower's cost controls and deemed relevant expenditures reasonable. Lai Chien-hsin relayed the committee members' judgment: had there been no Middle East conflict this year, Taipower would have had the chance to maintain a surplus and gradually improve its finances. However, as the conflict continues and international oil and gas prices fluctuate wildly, members believe priority should be given to seeking government subsidies to reduce Taipower's financial pressure. [^1] According to the Energy Administration's presentation on decision-making methods, the committee generally decides by consensus and only holds a vote if opinions differ, using a roll-call vote where only the final ratio is recorded in the meeting conclusions. [^14] No vote was held this time; the "not decided" status resulted from discussions during a closed-door session after Taipower representatives left the room. [^15]
 
 ```tw-stack
-The Breakdown of Figures on the Committee's Table (NT$/kWh, NT$ billions)
+Breakdown of the numbers on the committee table (NT$/kWh, billions)
 Item | Value | Description
-Current average electricity rate | 3.7823 | Maintained by March 27, 2026 committee meeting
-Rate review necessary adjustment | 4.2675 | Taipower's current rate review
-Difference between the two | 0.4174 | Equivalent to 12.83% adjustment
-Fuel cost absorption, March–August | 71.1 billion | International oil price fluctuating between US$68–132 per barrel
-Loss through end of July this year | 21.4 billion | Full year estimated to exceed NT$71.1 billion
-Source: Central News Agency, PTS News, September 18, 2026; Ministry of Economic Affairs Energy Bureau Electricity Rate Review Committee press release
+Current Avg. Rate | 3.7823 | Maintained by March 27, 2026 Committee
+Proposed Review Rate | 4.2675 | Taipower's current review proposal
+Difference | 0.4852 | Equivalent to a 12.83% adjustment
+Mar–Aug Fuel Cost Absorption | NT$71.1B | Int'l oil fluctuating between US$68–132/barrel
+Losses through end of July | NT$21.4B | Full year estimated to exceed NT$71.1B
+Source: CNA, PTS reports Sept 18, 2026; MOEA Energy Administration Press Release
 ```
 
-## From NT$2.6253 to NT$3.7823
+## From 2.6253 to 3.7823
 
-This mechanism was last substantially tested in 2022, when the Russia-Ukraine war pushed fuel prices higher. On March 29, the committee decided to "revisit at a later date," setting a temporary meeting period of 2–3 months. At the June 27 interim meeting, the first tiered increase was implemented: residential users consuming 1,000 kWh or less per month, small shops, and low-voltage users saw no change; residential consumption above 1,001 kWh rose 9%; high-voltage and above users rose 15%. Agriculture, fisheries, food, department stores, restaurants, cinemas, fitness centers, and high schools and below were exempted.[^5]
+This mechanism was last heavily tested in 2022. After the Russia-Ukraine war drove up fuel prices, the committee decided on March 29 to "defer discussion," setting a temporary period of two to three months. On June 27, an extraordinary session implemented the first tiered hike: no adjustment for residential users consuming under 1,000 kWh per month, small shops, or low-voltage users; a 9% increase for residential users above 1,001 kWh; and a 15% increase for high-voltage users and above. Six industries—agriculture/fisheries, food, department stores, catering, cinemas, and gyms—as well as schools below the high school level, were excluded. [^5]
 
-The 2nd committee meeting in September that year made no further rate changes, maintaining an average of NT$2.8458 per kilowatt-hour, while the government planned to allocate NT$150 billion for capital injection into Taipower.[^5] The March 2023 committee meeting set the average electricity rate increase at 11%, with residential consumption of 700 kWh or less unchanged; September maintained NT$3.1154 per kilowatt-hour without change.[^5]
+In September of that same year, the second review session did not change electricity prices, maintaining an average of NT$2.8458 per kWh, while the government planned a NT$150 billion capital injection into Taipower. [^5] In March 2023, the committee set the average rate adjustment at 11%, with no adjustment for residential users under 700 kWh; in September, the rate remained unchanged at 3.1154. [^5]
 
-The turning point came at the March 22, 2024 committee meeting. A report from the Legislative Yuan Budget Center recorded the figures faced at that time: in fiscal years 111 and 112, Taipower's per-kilowatt-hour losses were NT$1.2 and NT$0.9 respectively, and accumulated losses in year 112 had reached NT$382.6 billion. Against such a balance sheet, the committee, on the premise of "NT$100 billion government subsidy," decided to raise the overall average electricity rate to NT$3.4518 per kilowatt-hour, effective April 1, with three accompanying resolutions, including one requesting Taipower to review the reasonableness of user classification provisions.[^5]
+The turning point came during the March 22, 2024, meeting. A report from the Legislative Yuan's Budget Center recorded the figures faced at that time: in 2022 and 2023, Taipower lost NT$1.2 and NT$0.9 per kWh sold, respectively, with cumulative losses reaching NT$382.6 billion by 2023. Given such a balance sheet, the committee—under the premise of a "NT$100 billion government subsidy"—resolved to raise the overall average rate to NT$3.4518, effective April 1, with three accompanying resolutions, one of which requested Taipower to review the rationality of user tiering regulations. [^5]
 
-This year's rhythm returned to the familiar pattern: the 1st committee meeting on March 27 decided not to adjust, maintaining an average of NT$3.7823 per kilowatt-hour,[^4][^7] and the 2nd meeting on September 18 deferred the decision, with the 3rd meeting in December to review transmission and distribution rates, international energy prices, government subsidies, and Taipower's finances together.[^1][^4]
+Prices moved twice more after March. The September 30, 2024, meeting resulted in no adjustment for residential and small shop users (totaling 14.52 million households, or 95.2% of users) across all progressive tiers; industrial rates used a 14% baseline, while industries with declining electricity use and output saw rates frozen or adjusted by only 7%. [^16] In October 2025, the average adjustment was 0.71%, with no change for industry and an increase of NT$0.1 per kWh for residential users under 700 kWh. [^17]
+
+This year's rhythm has returned to a familiar pattern: the first meeting on March 27 resolved not to adjust, maintaining an average of NT$3.7823 per kWh, [^4][^7] while the second meeting on September 18 resulted in "not decided," leaving the third meeting in December to consider transmission and distribution rates, international energy prices, government subsidies, and Taipower's finances all at once. [^1][^4]
 
 ```tw-line
-Average Electricity Rate Settled After Each "Deferred Decision" (NT$/kWh)
-Committee Meeting Date | Average Rate | Decision
+Average electricity rates finalized after each "not decided" (NT$/kWh)
+Resolution Date | Avg. Rate | Resolution
 2020-03-18 | 2.6253 | No adjustment
 2020-09-14 | 2.6253 | No adjustment
-2021-03-26 | 2.6253 | No adjustment; 0.5% trigger threshold established
+2021-03-26 | 2.6253 | No adjustment; set 0.5% trigger point
 2021-09-23 | 2.6253 | No adjustment
-2022-06-27 | 2.8458 | Interim meeting; first tiered increase
-2022-09-19 | 2.8458 | No adjustment; government allocates NT$150 billion capital injection
-2023-03-22 | 3.1154 | Average increase 11%
+2022-06-27 | 2.8458 | Extraordinary session, first tiered hike
+2022-09-19 | 2.8458 | No adjustment; NT$150B govt capital injection
+2023-03-22 | 3.1154 | 11% average adjustment
 2023-09-19 | 3.1154 | No adjustment
-2024-03-22 | 3.4518 | Average increase 11%, effective April 1
+2024-03-22 | 3.4518 | 11% average adjustment, effective April 1
 2026-03-27 | 3.7823 | No adjustment
-Source: Legislative Yuan Budget Center "Domestic Electricity Rate Adjustments Over the Past 5 Years" (August, Year 113); PTS News, March 27, 2026
+Source: Legislative Yuan Budget Center "Overview of Domestic Electricity Adjustments in the Last 5 Years" (Aug 2024); PTS News March 27, 2026
 ```
 
 ```tw-timeline
-2017 | Electricity pricing formula announced | November 6 announcement and implementation; reviewed twice annually, generally no more than 3% per adjustment
-2022 | NT$150 billion capital injection | September committee meeting defers adjustment; government allocates capital injection
-2024 | Accumulated losses of NT$382.6 billion | March 22: 11% increase to NT$3.4518 on premise of NT$100 billion government subsidy
-2026 | 2nd committee meeting | September 18: decision deferred; seeks NT$71.1 billion subsidy; revisit in December
-2027 | New rates | 3rd December committee meeting results effective January 1
-Source: Legislative Yuan Budget Center report, Ministry of Economic Affairs Energy Bureau press release, Central News Agency, September 18, 2026
+2017 | Formula Announced | Implemented Nov 6; reviewed twice yearly, principle 3% per review
+2022 | NT$150B Capital Injection | Sept meeting no adjustment; govt planned capital injection
+2024 | NT$382.6B Cumulative Loss | March 22: 11% hike to NT$3.4518 given NT$100B subsidy
+2026 | 2nd Review Meeting | Sept 18: "Not decided"; seeking NT$71.1B subsidy; Dec re-discussion
+2027 | New Rates | Results of Dec 3rd meeting apply from Jan 1
+Source: Legislative Yuan Budget Center, MOEA Energy Administration, CNA Sept 18, 2026
 ```
 
-## Who Advances the Cost, and What Difference It Makes
+## Who Pays Upfront, and What is the Difference?
 
-Arranging the three approaches side by side reveals the pattern: in 2022, the government allocated NT$150 billion for capital injection into Taipower; in 2024, it was an 11% increase on the premise of NT$100 billion subsidy; in 2026, the government first seeks NT$71.1 billion in supplementary budget, leaving the 12.83% increase to be discussed again in December.[^1][^5] The common thread across all three approaches is: the deficit does not disappear, only the accounting entry changes—the price increase is recorded on users' electricity bills, capital injections and subsidies on the government's budget, and the time difference between the two falls on Taipower's profit-and-loss statement.
+Looking at the three approaches side-by-side clarifies the pattern: in 2022, the government planned a NT$150 billion capital injection into Taipower; in 2024, an 11% hike was implemented under the premise of a NT$100 billion subsidy; and in 2026, the priority is seeking a NT$71.1 billion supplementary budget while deferring the 12.83% increase to December. [^1][^5] The commonality among these three methods is that the debt does not disappear; it is simply recorded under different accounts—the price hike is recorded on user bills, capital injections and subsidies are recorded in government budgets, and the time lag between the two falls onto Taipower's income statement.
 
-At the September 18 meeting, committee members also discussed an alternative cost-sharing approach: raising rates only for AIDC (AI data centers) and high-tech industries. Lai Chien-hsin conveyed that the committee believed a comprehensive review should be conducted rather than targeting one segment first, because different needs and industrial development opportunities must all be considered.[^1]
+During the September 18 meeting, members also discussed another way to share the burden: only raising rates for AIDC (AI Data Centers) and high-tech industries. Lai Chien-hsin noted that the meeting concluded that a comprehensive review should be conducted rather than targeting one specific sector immediately, as different needs and industrial development opportunities must both be considered. [^1]
 
-During the same period, the ministry made decisions on other energy prices: residential natural gas and bottled liquefied petroleum gas were frozen through year-end, with the same rationale of stabilizing prices.[^2] As for rumors that "electricity rates are definitely going up," a fact-checking platform had already clarified in September: the committee's decision was to defer adjustment; the circulating 12.83% and NT$4.2675 per kilowatt-hour were discussion items in the meeting, not settled policy.[^11] This distinction is worth remembering—"what Taipower's review calculated" and "what the committee ultimately decided" are two different figures at two different positions in this mechanism.[^1]
+During the same period, the MOEA also made decisions regarding other energy prices, freezing civilian natural gas and bottled gas prices until the end of the year to stabilize consumer prices. [^2] Regarding rumors that "electricity price hikes are a certainty," fact-checking platforms clarified in September that the committee's resolution was not to adjust for now; the circulating 12.83% and NT$4.2675 per kWh figures were part of the discussion, not a finalized decision. [^11] This distinction is worth remembering—"how much Taipower's review calculated" and "what the committee finally decided" are two different numbers at two different stages of this mechanism. [^1]
 
-## The Table in December
+## The December Table
 
-Only three things are certain going forward: a 3rd Electricity Rate Review Committee meeting will be held in December to review transmission and distribution rates,[^4] if an adjustment is made, new rates take effect January 1, 2027,[^1] and before then, whether the NT$71.1 billion supplementary budget passes depends on a legislative vote.[^1]
+Moving forward, only three things are certain: a third Electricity Rate Review Committee will be held in December to review all transmission and distribution rates, [^4] if an adjustment is made, the new rates will apply from January 1, 2027, [^1] and before that, whether the NT$71.1 billion supplementary budget passes rests with the Legislative Yuan. [^1] On October 16, party caucuses negotiated and agreed that on October 23, Premier Cho Jung-tai will be invited to report this supplementary budget to the Legislative Yuan, with review beginning after questioning is complete. [^18]
 
-For a household or small shop, the most practical part of this story is: electricity bills through December will look the same as in March, and what next year's bill looks like depends on a December meeting and a legislative vote finishing first. Taipower continues absorbing costs during this period, while the formula and committee continue separating "how much should it rise" from "should it rise at all" into two steps—precisely the design the 2017 formula left behind, and why every electricity pricing dispute over these years returns to the same picture.[^5][^6]
+For a household or a small shop, the most practical part of this story is: your electricity bills will look the same as they did in March until December; as for next year's bill, it depends on a December meeting and a subsequent vote in the Legislative Yuan. In the meantime, Taipower continues to absorb costs upfront, while the formula and the committee continue to separate "how much should rise" from "whether it should rise" into two steps—this is exactly the design left by the 2017 formula, and why every electricity dispute in recent years returns to this same scene. [^5][^6]
 
-**Further Reading:**
+**Further Reading**:
 
-- [Taiwan's Oil Pricing Mechanism and CPC: The NT$36 Saved, First Recorded Under a State-Owned Enterprise Standing in Front](/en/economy/taiwan-fuel-pricing-and-cpc) — The same "state-owned enterprise absorbs first, later compensated by budget" design, applied to petroleum products.
+- [Taiwan's Oil Pricing Mechanism and CPC: The NT$36 saved is recorded under the name of a company standing at the front line](/en/economy/taiwan-fuel-pricing-and-cpc) — The same "state enterprises absorb costs first, then compensated by budget later" design, applied to petroleum products.
 
 ## References
 
-[^1]: [Electricity rates frozen through year-end; Taipower's full-year loss projected to exceed NT$71.1 billion (Central News Agency, 2026-09-18)](https://www.cna.com.tw/news/afe/202609180272.aspx) — Records committee decision, 12.83% and NT$4.2675 per kWh, losses of NT$21.4 billion through July, full-year loss projection exceeding NT$71.1 billion, and statements by Lai Chien-hsin and Wang Yun-chun.
+[^1]: [Electricity prices frozen until end of year; Taipower's full-year loss estimated to exceed NT$71.1 billion (CNA, 2026-09-18)](https://www.cna.com.tw/news/afe/202609180272.aspx) — Records the committee resolution, the 12.83% and NT$4.2675 figures, the NT$21.4 billion loss through July, the projected NT$71.1 billion annual loss, and explanations from Lai Chien-hsin and Wang Yun-chun.
 
-[^2]: [October electricity rates frozen; committee seeks NT$71.1 billion government subsidy for Taipower (PTS News, 2026-09-18)](https://news.pts.org.tw/article/827713) — Post-meeting press conference content: fuel cost absorption of approximately NT$71.1 billion from March–August, international oil prices fluctuating between US$68–132 per barrel.
+[^2]: [Electricity rates frozen until end of year; Committee seeks NT$71.1B government subsidy for Taipower (PTS News, 2026-09-18)](https://news.pts.org.tw/article/827713) — MOEA post-meeting press conference content: absorbed fuel costs of ~NT$71.1 billion from March to August, international oil prices fluctuating between US$68–132/barrel.
 
-[^3]: [Ministry of Economic Affairs convenes Electricity Rate Review Committee; rates deferred, to be revisited year-end (PTS News, 2026-09-18)](https://news.pts.org.tw/article/827761) — Coverage of the 115th Year, 2nd Electricity Rate Review Committee proceedings and decisions.
+[^3]: [MOEA convenes Electricity Rate Review Committee; rates not adjusted, to be discussed again at year-end (PTS News, 2026-09-18)](https://news.pts.org.tw/article/827761) — Report on the proceedings and resolution of the second 2026 Electricity Rate Review Committee.
 
-[^4]: [News Release Section | Ministry of Economic Affairs Energy Bureau Electricity Price and Rate Review Information Disclosure Area](https://www3.moeaea.gov.tw/ele102/Content/NewsLetter/List.aspx?MmmID=654246033427256710) — Official press release index, including 2026-09-18 "Committee prioritizes seeking government supplementary budget; rate adjustment deferred" and 2026-03-27 "Committee decides rates unchanged."
+[^4]: [Press Release Area | MOEA Energy Administration: Electricity Rate Review Information Disclosure (MOEA)](https://www3.moeaea.gov.tw/ele102/Content/NewsLetter/List.aspx?MmmID=654246033427256710) — Official press release index, including the Sept 18, 2026 "Committee prioritizes seeking government subsidy; current adjustment not decided" and March 27, 2026 "Electricity rates not adjusted" releases.
 
-[^5]: [II. Domestic Electricity Rate Adjustments Over the Past 5 Years (Legislative Yuan Budget Center Special Research, August, Year 113)](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55581&pid=242288) — Formula review and adjustment mechanism, summary table of committee decisions from years 109–113, and figures such as "accumulated losses in year 112 reached NT$382.6 billion."
+[^5]: [II. Overview of Domestic Electricity Adjustments in the Last 5 Years (Legislative Yuan Budget Center Special Research, Aug 2024)](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55581&pid=242288) — Details on the review mechanism, summary table of committee resolutions from 2020 to 2024, and figures such as "cumulative losses reached NT$382.6 billion in 2023."
 
-[^6]: [Public Electricity Utility Rate Calculation Formula (Ministry of Economic Affairs Administered Regulations, November 6, Year 106 Announced)](https://law.moea.gov.tw/LawContent.aspx?id=GL000344) — Legal basis and announcement date of the current electricity pricing formula.
+[^6]: [Calculation Formula for Electricity Rates of Public Electricity Sales Businesses (MOEA Regulations, announced Nov 6, 2017)](https://law.moea.gov.tw/LawContent.aspx?id=GL000344) — Legal basis and announcement date of the current electricity pricing formula.
 
-[^7]: [Ministry of Economic Affairs: Electricity rates frozen from April; average maintained at NT$3.7823 per kWh (PTS News, 2026-03-27)](https://news.pts.org.tw/article/801034) — Official position on NT$3.7823 per kWh and this year's 1st committee meeting result.
+[^7]: [MOEA: Electricity rates frozen from April; average rate maintained at NT$3.7823 per kWh (PTS News, 2026-03-27)](https://news.pts.org.tw/article/801034) — Official stance on the NT$3.7823/kWh rate and results of the first 2026 committee meeting.
 
-[^8]: [Taipower Shareholders' Meeting: Ends Three Consecutive Years of Losses! Last Year Turned Profit of NT$75.6 Billion (Cnyes, 2026-06-26)](https://news.cnyes.com/news/id/6513586) — Coverage of Taipower's 2026 shareholders' meeting: fiscal year 2025 pre-tax profit of NT$75.6 billion, ending three consecutive years of losses.
+[^8]: [〈Taipower AGM〉Ends three consecutive years of losses! Last year turned a profit of NT$75.6B (Chunghwa News, 2026-06-26)](https://news.cnyes.com/news/id/6513586) — Report on Taipower's 2026 AGM: FY 2025 pre-tax profit of NT$75.6 billion, ending three years of losses.
 
-[^9]: [Taipower Shareholders' Meeting: Shareholders Voice Concerns: Policy-Driven Losses Should Not Be Borne by Private Shareholders (Economic Daily News, 2026-06-26)](https://money.udn.com/money/story/7307/9590668) — On-site record of the same shareholders' meeting, including shareholder remarks on "policy-driven losses."
+[^9]: [Taipower AGM Shareholders speak out: Policy-driven losses should not be borne by private shareholders (Economic Daily, 2026-06-26)](https://money.udn.com/money/story/7307/9590668) — On-site records from the same AGM, including shareholder comments on "policy-driven losses."
 
-[^10]: [Ministry freezes electricity rates until December meet (Taipei Times, 2026-09-19)](https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522) — English-language coverage comparing the 12.83% adjustment and NT$4.2675 per kWh, useful for cross-checking figure accuracy.
+[^10]: [Ministry freezes electricity rates until December meet (Taipei Times, 2026-09-19)](https://www.taipeitimes.com/News/front/archives/2026/09/19/2003864522) — English report comparing the 12.83% adjustment and NT$4.2675/kWh rate; useful for cross-checking numerical data.
 
-[^11]: [Fact Check: Rumor "Electricity Rates Definitely Going Up"? 12.83% Increase, NT$4.2675 per kWh? Misleading Description! (MyGoPen Fact Check, 2026-09)](https://www.mygopen.com/2026/09/Taipower.html) — Fact-check article noting that the committee decision was to defer adjustment; 12.83% and NT$4.2675 per kWh were discussion items, not settled policy.
+[^11]: [【Error】Rumors that "electricity prices are set to rise"? 12.83% increase to NT$4.2675 per kWh? Misleading description! (MyGoPen Fact Check, Sept 2026)](https://www.mygopen.com/2026/09/Taipower.html) — Fact-check article noting the committee's resolution was not to adjust, and that the 12.83% and NT$4.2675 figures were discussion points, not finalized decisions.
 
-[^12]: [Ministry of Economic Affairs Convenes 114th Year, 3rd Electricity Rate Review Committee; Decides 115th Year Transmission and Distribution Rates and Adjustments to Line Installation Fees (Ministry of Economic Affairs, 2025-12-03)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=121264) — Explains that the 3rd committee meeting's function is to review transmission and distribution rates, corresponding to this year's December meeting agenda.
+[^12]: [MOEA convenes 3rd Electricity Rate Review Committee of 2025; resolves transmission/distribution rates and line installation fees for FY 2026 (MOEA, 2025-12-03)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=121264) — Explains that the third committee's role is to review various transmission and distribution rates, corresponding to the agenda of this December's meeting.
+
+[^13]: [Taipower H2 2026 Electricity Review Proposal Presentation (MOEA Energy Administration, 2026-09-18)](http://ele.tri.org.tw/1150918/1150918-2/1150918-2-2) — States the proposed unit price of NT$4.2675 per kWh, the previous rate of NT$3.8501, and the cost breakdown for the NT$0.4174 increase (fuel, purchased power, and transmission/distribution).
+
+[^14]: [Presentation on Decision-Making Methods for Electricity Rate Review Committee (MOEA Energy Administration, 2026-09-18)](http://ele.tri.org.tw/1150918/1150918-2/1150918-2-1) — Official presentation stating that decisions are generally made by consensus; votes are only held if opinions differ, using roll-call voting where only the ratio is recorded, and individual member votes are not disclosed.
+
+[^15]: [Minutes of the 2nd Electricity Rate Review Committee of 2026 (MOEA Energy Administration, 2026-09-18)](http://ele.tri.org.tw/1150918/1150918-1/1150918-1-0) — Official record stating the process: Taipower report, member speeches, Taipower response, closed-door meeting; resolution column notes prioritizing NT$71.1B subsidy and "not decided" for current adjustment; decision method column states "agreed/noted."
+
+[^16]: [Minutes of the 2nd Electricity Rate Review Committee of 2024 (MOEA Energy Administration, 2024-09-30)](http://ele.tri.org.tw/1130930/1130930-1/1130930-1-0N) — Resolution states no adjustment for residential and small shop users (14.52 million households, 95.2%); industrial adjustment baseline at 14%, with freeze or reduction arrangements for declining industries.
+
+[^17]: [CNA: Report on the 2nd Electricity Rate Review Committee of 2025 (2025-09-19)](https://www.cna.com.tw/news/afe/202509190312.aspx) — Report on the results of the second 2025 meeting: average adjustment of 0.71%, no industrial adjustment, and NT$0.1 increase per kWh for residential users under 700 kWh, totaling ~NT$6.4 billion in additional revenue.
+
+[^18]: [United Daily News: Report on cross-party negotiations for supplementary budget (2026-10-17)](https://udn.com/news/story/6656/9820136) — Records the Oct 16 negotiation results: Premier Cho Jung-tai invited to report the FY 2026 central government supplementary budget on Oct 23, with review to follow questioning.

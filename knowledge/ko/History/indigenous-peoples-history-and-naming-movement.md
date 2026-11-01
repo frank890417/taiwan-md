@@ -1,19 +1,19 @@
 ---
-title: '타이완 원주민족 역사와 정명운동'
-description: '1987년, 스물도 안 된 쪼우족 청년이 타이베이 형장에서 총살되었다. 그의 죽음이 정명운동의 불씨를 댕겼다.'
+title: '대만 원주민 역사와 명칭 바로잡기 운동'
+description: "1987년, 19세의 鄒족(tsou) 청년 탕잉션이 타이베이 형장에서 총살형을 당했고, 그의 죽음은 대만 원주민 명칭 바로잡기 운동의 첫 불꽃을 지폈습니다. 1984년 원주민 권리 협의회 설립, 1988년 우펑 동상 철거와 '내 땅을 돌려달라' 행진부터, 1994년 헌법에서 '산포(山胞)'를 '원주민'으로 개정한 것, 그리고 2005년 원주민기본법에 '족(族)' 자를 추가하기까지 이 길은 21년이 걸렸습니다. 네덜란드의 귀화번과 야번, 청나라의 숙번과 생번, 일제강점기의 번인 이번 정책, 전후의 산포까지, 각각의 이름은 하나의 자물쇠였습니다. 앞선 세 번은 타인이 당신을 명명한 것이었으나, 마지막 두 번은 비로소 스스로 쟁취해낸 것입니다."
 date: 2026-03-29
 category: 'History'
+tags: ['원주민', '명칭 바로잡기 운동', '정체성', '사회 운동', '문화 보존']
 subcategory: '史前與原住民'
-tags: ['원주민족', '정명운동', '정체성', '사회운동', '문화보존']
-featured: false
 author: 'Taiwan.md'
-translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def'
-sourceContentHash: 'sha256:5abb3efb22ea6c92'
-sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-04-14T04:54:47+08:00'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
+translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
+sourceCommitSha: 'f4ae4fb8f'
+sourceContentHash: 'sha256:5abb3efb22ea6c92'
+sourceBodyHash: 'sha256:93eb4a0251be6dd2'
+translatedAt: '2026-10-21T02:09:25.188996+00:00'
 ---
 
 # 타이완 원주민족 역사와 정명운동

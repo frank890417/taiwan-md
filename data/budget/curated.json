@@ -32,7 +32,7 @@
     {
       "id": "lai",
       "from": 2025,
-      "to": 2026,
+      "to": 2027,
       "president": {
         "zh": "賴清德政府",
         "en": "Lai Ching-te gov't"
@@ -105,34 +105,26 @@
       "id": "mnd",
       "zh": "國防部",
       "en": "Ministry of National Defense",
-      "keys": [
-        "國防部"
-      ],
+      "keys": ["國防部"],
       "highlight": true
     },
     {
       "id": "mohw",
       "zh": "衛生福利部",
       "en": "Ministry of Health and Welfare",
-      "keys": [
-        "衛生福利部"
-      ]
+      "keys": ["衛生福利部"]
     },
     {
       "id": "mol",
       "zh": "勞動部",
       "en": "Ministry of Labor",
-      "keys": [
-        "勞動部"
-      ]
+      "keys": ["勞動部"]
     },
     {
       "id": "moe",
       "zh": "教育部",
       "en": "Ministry of Education",
-      "keys": [
-        "教育部"
-      ],
+      "keys": ["教育部"],
       "note": {
         "zh": "115 年度體育署拆出為運動部；財劃法修正後部分補助改列",
         "en": "Sports Admin. spun off as Ministry of Sports in FY2026; some grants reclassified after the Fiscal Allocation Act amendment"
@@ -142,10 +134,7 @@
       "id": "local",
       "zh": "直轄市及縣市政府",
       "en": "Grants to local governments",
-      "keys": [
-        "直轄市及縣市政府",
-        "省市地方政府"
-      ],
+      "keys": ["直轄市及縣市政府", "省市地方政府"],
       "note": {
         "zh": "105 年度名稱為「省市地方政府」",
         "en": "Named 省市地方政府 in FY2016"
@@ -155,10 +144,7 @@
       "id": "moa",
       "zh": "農業部",
       "en": "Ministry of Agriculture",
-      "keys": [
-        "農業部",
-        "農業委員會"
-      ],
+      "keys": ["農業部", "農業委員會"],
       "note": {
         "zh": "112 年 8 月農委會改制農業部",
         "en": "Council of Agriculture became a ministry in Aug 2023"
@@ -168,50 +154,37 @@
       "id": "mof",
       "zh": "財政部",
       "en": "Ministry of Finance",
-      "keys": [
-        "財政部"
-      ]
+      "keys": ["財政部"]
     },
     {
       "id": "motc",
       "zh": "交通部",
       "en": "Ministry of Transportation and Communications",
-      "keys": [
-        "交通部"
-      ]
+      "keys": ["交通部"]
     },
     {
       "id": "moea",
       "zh": "經濟部",
       "en": "Ministry of Economic Affairs",
-      "keys": [
-        "經濟部"
-      ]
+      "keys": ["經濟部"]
     },
     {
       "id": "vac",
       "zh": "退輔會",
       "en": "Veterans Affairs Council",
-      "keys": [
-        "國軍退除役官兵輔導委員會"
-      ]
+      "keys": ["國軍退除役官兵輔導委員會"]
     },
     {
       "id": "moi",
       "zh": "內政部",
       "en": "Ministry of the Interior",
-      "keys": [
-        "內政部"
-      ]
+      "keys": ["內政部"]
     },
     {
       "id": "nstc",
       "zh": "國科會",
       "en": "National Science and Technology Council",
-      "keys": [
-        "國家科學及技術委員會",
-        "科技部"
-      ],
+      "keys": ["國家科學及技術委員會", "科技部"],
       "note": {
         "zh": "111 年 7 月科技部改制國科會",
         "en": "Ministry of Science and Technology became NSTC in Jul 2022"
@@ -221,33 +194,25 @@
       "id": "moj",
       "zh": "法務部",
       "en": "Ministry of Justice",
-      "keys": [
-        "法務部"
-      ]
+      "keys": ["法務部"]
     },
     {
       "id": "exam",
       "zh": "考試院",
       "en": "Examination Yuan",
-      "keys": [
-        "考試院"
-      ]
+      "keys": ["考試院"]
     },
     {
       "id": "mofa",
       "zh": "外交部",
       "en": "Ministry of Foreign Affairs",
-      "keys": [
-        "外交部"
-      ]
+      "keys": ["外交部"]
     },
     {
       "id": "ey",
       "zh": "行政院",
       "en": "Executive Yuan (incl. councils)",
-      "keys": [
-        "行政院"
-      ],
+      "keys": ["行政院"],
       "note": {
         "zh": "含國發會、陸委會、原民會、客委會、主計總處、人事總處、NCC、公平會、中選會、故宮等未獨立列項機關",
         "en": "Includes NDC, MAC, CIP, HAC, DGBAS, DGPA, NCC, FTC, CEC, National Palace Museum etc."
@@ -257,10 +222,7 @@
       "id": "oac",
       "zh": "海洋委員會",
       "en": "Ocean Affairs Council",
-      "keys": [
-        "海洋委員會",
-        "海岸巡防署"
-      ],
+      "keys": ["海洋委員會", "海岸巡防署"],
       "note": {
         "zh": "107 年 4 月海巡署改隸海洋委員會",
         "en": "Coast Guard Admin. moved under OAC in Apr 2018"
@@ -270,34 +232,26 @@
       "id": "jy",
       "zh": "司法院",
       "en": "Judicial Yuan",
-      "keys": [
-        "司法院"
-      ]
+      "keys": ["司法院"]
     },
     {
       "id": "moc",
       "zh": "文化部",
       "en": "Ministry of Culture",
-      "keys": [
-        "文化部"
-      ],
+      "keys": ["文化部"],
       "highlight": true
     },
     {
       "id": "pres",
       "zh": "總統府",
       "en": "Office of the President",
-      "keys": [
-        "總統府"
-      ]
+      "keys": ["總統府"]
     },
     {
       "id": "moda",
       "zh": "數位發展部",
       "en": "Ministry of Digital Affairs",
-      "keys": [
-        "數位發展部"
-      ],
+      "keys": ["數位發展部"],
       "note": {
         "zh": "111 年 8 月成立",
         "en": "Established Aug 2022"
@@ -307,10 +261,7 @@
       "id": "moenv",
       "zh": "環境部",
       "en": "Ministry of Environment",
-      "keys": [
-        "環境部",
-        "環境保護署"
-      ],
+      "keys": ["環境部", "環境保護署"],
       "note": {
         "zh": "112 年 8 月環保署改制環境部",
         "en": "EPA became a ministry in Aug 2023"
@@ -320,9 +271,7 @@
       "id": "sports",
       "zh": "運動部",
       "en": "Ministry of Sports",
-      "keys": [
-        "運動部"
-      ],
+      "keys": ["運動部"],
       "note": {
         "zh": "115 年度新設，原教育部體育署",
         "en": "New in FY2026, formerly Sports Administration under MOE"
@@ -332,52 +281,38 @@
       "id": "ly",
       "zh": "立法院",
       "en": "Legislative Yuan",
-      "keys": [
-        "立法院"
-      ]
+      "keys": ["立法院"]
     },
     {
       "id": "cy",
       "zh": "監察院",
       "en": "Control Yuan",
-      "keys": [
-        "監察院"
-      ]
+      "keys": ["監察院"]
     },
     {
       "id": "ocac",
       "zh": "僑務委員會",
       "en": "Overseas Community Affairs Council",
-      "keys": [
-        "僑務委員會"
-      ]
+      "keys": ["僑務委員會"]
     },
     {
       "id": "fsc",
       "zh": "金管會",
       "en": "Financial Supervisory Commission",
-      "keys": [
-        "金融監督管理委員會"
-      ]
+      "keys": ["金融監督管理委員會"]
     },
     {
       "id": "reserve",
       "zh": "預備金與準備",
       "en": "Reserves",
-      "keys": [
-        "第二預備金",
-        "災害準備金",
-        "調整軍公教人員待遇準備"
-      ],
+      "keys": ["第二預備金", "災害準備金", "調整軍公教人員待遇準備"],
       "aggregate": true
     },
     {
       "id": "aec",
       "zh": "原子能委員會",
       "en": "Atomic Energy Council",
-      "keys": [
-        "原子能委員會"
-      ],
+      "keys": ["原子能委員會"],
       "note": {
         "zh": "112 年 9 月改制核安會（併入行政院主管）",
         "en": "Reorganized as Nuclear Safety Commission in Sep 2023 (under EY)"
@@ -387,9 +322,7 @@
       "id": "mtac",
       "zh": "蒙藏委員會",
       "en": "Mongolian & Tibetan Affairs Commission",
-      "keys": [
-        "蒙藏委員會"
-      ],
+      "keys": ["蒙藏委員會"],
       "note": {
         "zh": "106 年 9 月裁撤",
         "en": "Abolished Sep 2017"
@@ -471,10 +404,50 @@
       "en": "Economic, social & national security resilience",
       "period": "2025–2027",
       "amount": {
-        "zh": "114-116 年度；115 年度總預算另舉債 2,992 億、特別預算舉債 1,008 億",
-        "en": "FY2025–27; FY2026 borrowing NT$299.2B (general) + NT$100.8B (special)"
+        "zh": "114-116 年度共 5,447 億（原列 5,500 億、立法院減列 53 億，2025-10-17 三讀）；116 年度分配 1,463 億",
+        "en": "FY2025–27, NT$544.7B in total (NT$550B proposed, NT$5.3B cut, passed 2025-10-17); FY2027 share NT$146.3B"
       },
-      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235226"
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235407"
+    },
+    {
+      "zh": "保衛國家安全及強化不對稱戰力計畫採購",
+      "en": "National security & asymmetric-warfare procurement",
+      "period": "2026–",
+      "amount": {
+        "zh": "第一批項目總經費 2,950 億；115 年度特別預算歲出 88.1 億（2026-05-29 三讀），全數舉債",
+        "en": "First batch NT$295B in total; FY2026 special budget NT$8.81B (passed 2026-05-29), all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236310"
+    },
+    {
+      "zh": "丹娜絲颱風及七二八豪雨災後復原重建",
+      "en": "Typhoon Danas & 7/28 flood recovery",
+      "period": "2025–2027",
+      "amount": {
+        "zh": "600 億（114 年度 191、115 年度 316、116 年度 93），2025-08-29 三讀，全數舉債",
+        "en": "NT$60B (FY2025 19.1, FY2026 31.6, FY2027 9.3), passed 2025-08-29, all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235257"
+    },
+    {
+      "zh": "花蓮馬太鞍溪堰塞湖災後重建",
+      "en": "Hualien Mataian Creek barrier lake reconstruction",
+      "period": "2025–2030",
+      "amount": {
+        "zh": "270 億（114 年度 38、115 年度 86、116 年度 86、117 年度 41、118 年度 10、119 年度 9），2025-12-02 三讀，全數舉債",
+        "en": "NT$27B (FY2025 3.8, FY2026 8.6, FY2027 8.6, FY2028 4.1, FY2029 1.0, FY2030 0.9), passed 2025-12-02, all debt-financed"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235537"
+    },
+    {
+      "zh": "116 年度總預算案內的特別預算",
+      "en": "Special budgets counted in the FY2027 bill",
+      "period": "2027",
+      "amount": {
+        "zh": "總預算舉債 1,790 億連同特別預算 178 億，合共 1,968 億；預估 116 年底債務未償餘額 6 兆 8,831 億、占前三年 GDP 平均 23.4%",
+        "en": "General-budget borrowing NT$179B plus NT$17.8B for special budgets = NT$196.8B; projected end-2027 outstanding debt NT$6.8831T, 23.4% of the 3-year average GDP"
+      },
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
     }
   ],
   "cuts": {
@@ -886,6 +859,38 @@
       "zh": "國民黨張雅屏反駁「351 天」：送案到付委卡 235 天，付委後實審 115 天",
       "en": "KMT's Chang Ya-ping rebuts \"351 days\": 235 days stuck before committee, 115 days of actual review",
       "source": "https://news.ltn.com.tw/news/politics/breakingnews/5541885"
+    },
+    {
+      "date": "2026-08-20",
+      "fy": 116,
+      "kind": "context",
+      "zh": "行政院會通過 116 年度總預算案：歲入歲出各 3 兆 9,266 億，較 115 年度預算案增 29.4%；含普發現金 2,357 億、國防整體 1 兆 1,225 億",
+      "en": "Cabinet approves the FY2027 bill: NT$3.9266T revenue and expenditure, +29.4% on the FY2026 proposal; includes NT$235.7B universal cash payout, NT$1.1225T defense (NATO basis)",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+    },
+    {
+      "date": "2026-09-03",
+      "fy": 115,
+      "kind": "context",
+      "zh": "行政院提出 115 年度追加預算案：歲出 6,076 億、歲入 828 億；追加後 115 年度歲出 3 兆 5,946 億、歲入 3 兆 5,471 億",
+      "en": "Executive Yuan proposes a FY2026 supplementary budget: NT$607.6B expenditure, NT$82.8B revenue; FY2026 would reach NT$3.5946T spending",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+    },
+    {
+      "date": "2026-10-02",
+      "fy": 116,
+      "kind": "context",
+      "zh": "立法院院會：116 年度總預算案與 115 年度追加預算案一讀，交付委員會審查",
+      "en": "Legislative Yuan floor: FY2027 bill and the FY2026 supplementary bill pass first reading and go to committees",
+      "source": "https://udn.com/news/story/6656/9790010"
+    },
+    {
+      "date": "2026-10-16",
+      "fy": 116,
+      "kind": "context",
+      "zh": "朝野協商：10 月 23 日邀行政院長報告追加預算、10 月 27 日報告 116 年度總預算",
+      "en": "Cross-caucus deal: Premier to brief on the supplementary budget on 23 Oct and the FY2027 bill on 27 Oct",
+      "source": "https://www.cna.com.tw/news/aipl/202610160078.aspx"
     }
   ],
   "days": [
@@ -992,6 +997,31 @@
   },
   "sources": [
     {
+      "zh": "主計總處 2026-08-20「116 年度中央政府總預算案編列情形」新聞稿",
+      "en": "DGBAS press release 2026-08-20: FY2027 central government general budget bill",
+      "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624"
+    },
+    {
+      "zh": "主計總處《116 年度中央政府總預算案》歲出政事別、機關別預算總表（xlsx，2026-10-22 更新）",
+      "en": "DGBAS FY2027 budget bill, expenditure by function and by agency (xlsx)",
+      "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582"
+    },
+    {
+      "zh": "主計總處 2026-09-03「行政院院會通過 115 年度中央政府總預算追加預算案」新聞稿",
+      "en": "DGBAS press release 2026-09-03: FY2026 supplementary budget bill",
+      "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+    },
+    {
+      "zh": "審計部 114 年度中央政府總決算審核報告（中央社 2026-07-24）",
+      "en": "National Audit Office FY2025 general final account (CNA 2026-07-24)",
+      "url": "https://www.cna.com.tw/news/aipl/202607240146.aspx"
+    },
+    {
+      "zh": "中央社 2026-10-16「立院朝野共識 10月底邀卓榮泰報告追加預算及總預算」",
+      "en": "CNA 2026-10-16 on the LY schedule for the FY2027 bill",
+      "url": "https://www.cna.com.tw/news/aipl/202610160078.aspx"
+    },
+    {
       "zh": "行政院主計總處《中央政府總預算》105–115 年度歲出機關別預算總表（xls/xlsx 原檔）",
       "en": "DGBAS Central Government General Budget, expenditure by agency FY2016–2026 (original xls/xlsx)",
       "url": "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=235176"
@@ -1031,5 +1061,96 @@
       "en": "Budget Act, Articles 51 & 54",
       "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=54"
     }
-  ]
+  ],
+  "defense_nato_2027": {
+    "total": 11225,
+    "gdp_pct": 3.93,
+    "gdp_pct_alt": 3.01,
+    "gdp_pct_note": {
+      "zh": "3.93% 以 115 年度計算基礎（114 年 8 月發布之 GDP 28.6 兆元）核算；3.01% 以 115 年 8 月發布之 116 年度預計 GDP 37.3 兆元核算（主計總處原文）",
+      "en": "3.93% on the FY2026 base (NT$28.6T GDP published Aug 2025); 3.01% on projected FY2027 GDP of NT$37.3T published Aug 2026 (DGBAS)"
+    },
+    "parts": [
+      {
+        "zh": "國防部主管預算",
+        "en": "MND budget",
+        "amount": 6919
+      },
+      {
+        "zh": "退輔會退除給付＋海巡署",
+        "en": "Veterans pensions + Coast Guard",
+        "amount": 1517
+      },
+      {
+        "zh": "特別預算（已編列及預計編列）",
+        "en": "Special budgets (enacted and planned)",
+        "amount": 2182
+      },
+      {
+        "zh": "非營業特種基金",
+        "en": "Non-business special funds",
+        "amount": 607
+      }
+    ],
+    "function_only": 6836,
+    "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624",
+    "source_note": "主計總處 2026-08-20 新聞稿：國防部主管 6,919 + 特別預算 2,182 + 非營業特種基金 607 + 輔導會退除役官兵退休給付 1,038 + 海巡署 479 = 11,225（億元）。政事別「國防支出」683,609,797 千元。"
+  },
+  "fy116": {
+    "fy": 116,
+    "ce": 2027,
+    "basis": "proposed",
+    "status": {
+      "zh": "預算案，尚未三讀：2026-08-20 行政院通過，2026-10-02 一讀交付委員會，2026-10-27 行政院長報告後進入審查",
+      "en": "Proposal, not passed: Cabinet approved 2026-08-20; first reading and committee referral 2026-10-02; Premier's briefing 2026-10-27 before review starts"
+    },
+    "as_of": "2026-10-23",
+    "expenditure": 39265.98,
+    "revenue": 39266.0,
+    "vsFy115Proposed": {
+      "base": 30349.74,
+      "delta": 8916.24,
+      "pct": 29.4
+    },
+    "debtRepay": 1790,
+    "borrowing": 1790,
+    "specialBorrowing": 178,
+    "highlights": {
+      "cashPayout": 2357,
+      "payAdjust": 392,
+      "welfare": 11889,
+      "welfarePct": 41.1,
+      "mnd": 6919,
+      "mndDelta": 1305,
+      "mndPct": 23.2,
+      "defenseNato": 11225,
+      "tech": 2292,
+      "education": 3728,
+      "flood": 570,
+      "publicWorks": 3794
+    },
+    "restated115": {
+      "welfare": 8428.2,
+      "edu": 5700.0,
+      "defense": 5488.1,
+      "econ": 4322.0,
+      "general": 3033.1,
+      "pension": 1844.2,
+      "debt": 1063.1,
+      "community": 287.7,
+      "other": 183.5
+    },
+    "supplementary115": {
+      "expenditure": 6076.3,
+      "revenue": 828.0,
+      "breakdown": "穩定民生 4,213、社福加碼 215、提升待遇 111、災後重建 77、強化國防 1,457、啟動兒少成長津貼 3（億元）",
+      "status": "2026-09-03 行政院通過；2026-10-02 一讀交付委員會；2026-10-23 院長報告；未三讀",
+      "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236661"
+    },
+    "sources": [
+      "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=236624",
+      "https://www.dgbas.gov.tw/News_Content.aspx?n=3625&s=236582",
+      "https://www.ey.gov.tw/Page/9277F759E41CCD91/c9b62b00-c255-4c12-9eda-85409410beac"
+    ]
+  }
 }

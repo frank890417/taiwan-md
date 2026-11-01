@@ -1,0 +1,3086 @@
+{
+  "indicators/meta/license": {
+    "zh-TW": "Taiwan.md 的整理與文字以 CC BY-SA 4.0 授權；各數值的原始資料依提供機關的授權（政府資料以「政府資料開放授權條款第 1 版」為主，引用時須標示原提供機關）。",
+    "en": "Taiwan.md's compilation and text are licensed CC BY-SA 4.0. Each underlying value follows its publisher's licence (for government data, mainly Taiwan's Open Government Data License v1, which requires naming the original agency)."
+  },
+  "indicators/meta/method": {
+    "zh-TW": "每個數值都回到發布機構的原始頁面或統計表核對，研究原檔在 reports/research/2026-10/data-hub-r5*.md，附原文逐字。",
+    "en": "Every value was checked against the publisher's own page or statistical table; the research files with verbatim quotes are in reports/research/2026-10/data-hub-r5*.md."
+  },
+  "indicators/indicators/population/title": {
+    "zh-TW": "總人口",
+    "en": "Population"
+  },
+  "indicators/indicators/population/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/population/period": {
+    "zh-TW": "2026 年 9 月底",
+    "en": "end of September 2026"
+  },
+  "indicators/indicators/population/compare/period": {
+    "zh-TW": "2019 年底高點",
+    "en": "2019 peak"
+  },
+  "indicators/indicators/population/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/population/insight": {
+    "zh-TW": "2019 年底到頂之後起伏往下，比高點少了大約 39 萬人。",
+    "en": "Past its peak at the end of 2019 and drifting down since, about 390,000 below the high."
+  },
+  "indicators/indicators/population/why": {
+    "zh-TW": "2015 到 2025 年，總人口只少了 19 萬人，組成換得更兇：15 到 64 歲的人少了 142 萬，65 歲以上多了 173 萬。繳稅、繳保費的人變少，需要照顧的人變多。",
+    "en": "From 2015 to 2025 the total population fell by only 190,000, but the mix shifted far more: people aged 15–64 fell by 1.42 million while those 65 and over grew by 1.73 million. Fewer people paying taxes and premiums, more people needing care."
+  },
+  "indicators/indicators/births/title": {
+    "zh-TW": "出生數",
+    "en": "Births"
+  },
+  "indicators/indicators/births/unit": {
+    "zh-TW": "人",
+    "en": "babies"
+  },
+  "indicators/indicators/births/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/births/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/births/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/births/insight": {
+    "zh-TW": "十年少了一半；2024 年到 2025 年一年就少了 2.7 萬人。",
+    "en": "Half the number of ten years ago, and 27,000 fewer than the year before."
+  },
+  "indicators/indicators/births/why": {
+    "zh-TW": "今年出生的人數，大致決定 18 年後的高中畢業生，也決定之後役男與新進勞工有多少。2025 年出生的 10.8 萬人，2043 年到上大學的年紀。",
+    "en": "This year's births largely decide how many students finish high school 18 years later, and how many conscripts and new workers follow. The 107,812 babies of 2025 reach university age in 2043."
+  },
+  "indicators/indicators/fertility-rate/title": {
+    "zh-TW": "總生育率",
+    "en": "Total fertility rate"
+  },
+  "indicators/indicators/fertility-rate/unit": {
+    "zh-TW": "個孩子",
+    "en": "children per woman"
+  },
+  "indicators/indicators/fertility-rate/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/fertility-rate/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/fertility-rate/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/fertility-rate/insight": {
+    "zh-TW": "一位女性一生平均生不到 0.7 個孩子；人口要維持不減大約需要 2.1。",
+    "en": "A woman has fewer than 0.7 children on average over her lifetime; holding the population steady takes about 2.1."
+  },
+  "indicators/indicators/fertility-rate/why": {
+    "zh-TW": "低於 2.1，每一代就比上一代少。台灣在 1984 年跌破 2.1 之後沒有回去過，0.695 的意思是下一代大約只有這一代的三分之一。",
+    "en": "Below 2.1, each generation is smaller than the one before. Taiwan fell under 2.1 in 1984 and has never gone back; at 0.695 the next generation is roughly a third the size of this one."
+  },
+  "indicators/indicators/natural-increase/title": {
+    "zh-TW": "自然增加（出生減死亡）",
+    "en": "Natural increase (births minus deaths)"
+  },
+  "indicators/indicators/natural-increase/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/natural-increase/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/natural-increase/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/natural-increase/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/natural-increase/insight": {
+    "zh-TW": "2020 年起死亡多於出生，差距一年比一年大；2025 年死亡 20 萬人、出生 10.8 萬人。",
+    "en": "Deaths have outnumbered births since 2020 and the gap keeps widening: 200,000 deaths against 108,000 births in 2025."
+  },
+  "indicators/indicators/natural-increase/why": {
+    "zh-TW": "死亡多於出生之後，戶籍人口要撐住只能靠移入設籍的人，例如歸化的新住民與回台設籍的國人。2025 年單是自然減少就有 9.2 萬人。",
+    "en": "Once deaths outnumber births, the registered population can only hold steady through people who settle and register here, such as naturalised immigrant spouses and citizens returning from abroad. Natural decrease alone was 92,000 in 2025."
+  },
+  "indicators/indicators/aged-65-share/title": {
+    "zh-TW": "65 歲以上人口占比",
+    "en": "Share of population aged 65+"
+  },
+  "indicators/indicators/aged-65-share/period": {
+    "zh-TW": "2026 年 9 月底",
+    "en": "end of September 2026"
+  },
+  "indicators/indicators/aged-65-share/compare/period": {
+    "zh-TW": "2015 年底",
+    "en": "end of 2015"
+  },
+  "indicators/indicators/aged-65-share/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/aged-65-share/insight": {
+    "zh-TW": "2025 年 12 月底跨過 20%，台灣進入超高齡社會；14 歲以下只剩 11.2%。",
+    "en": "It crossed 20% at the end of December 2025, making Taiwan a super-aged society; under-15s are down to 11.2%."
+  },
+  "indicators/indicators/aged-65-share/why": {
+    "zh-TW": "超過兩成，代表每 5 個人就有 1 位 65 歲以上，照顧、醫療與年金的支出跟著墊高。2025 年 4 月，照顧台灣長輩的外籍看護已有 21.5 萬人。",
+    "en": "Above 20% means one person in five is 65 or older, and spending on care, healthcare and pensions rises with it. By April 2025, 215,000 foreign caregivers were looking after Taiwan's elderly."
+  },
+  "indicators/indicators/median-age/title": {
+    "zh-TW": "年齡中位數",
+    "en": "Median age"
+  },
+  "indicators/indicators/median-age/unit": {
+    "zh-TW": "歲",
+    "en": "years"
+  },
+  "indicators/indicators/median-age/period": {
+    "zh-TW": "2025 年底",
+    "en": "end of 2025"
+  },
+  "indicators/indicators/median-age/source/agency": {
+    "zh-TW": "內政部統計處",
+    "en": "Ministry of the Interior"
+  },
+  "indicators/indicators/median-age/insight": {
+    "zh-TW": "一半的人超過 45.7 歲；原住民族人口的年齡中位數是 34.9 歲，年輕將近 11 歲。",
+    "en": "Half the population is older than 45.7; for Indigenous peoples the median is 34.9, almost 11 years younger."
+  },
+  "indicators/indicators/median-age/why": {
+    "zh-TW": "一半的人超過 45.7 歲，選舉、勞動市場與消費的主力都跟著往上移。原住民族年輕將近 11 歲，老化的壓力在各族群之間並不平均。",
+    "en": "Half the population is over 45.7, so the centre of gravity of voting, work and spending moves older too. Indigenous peoples are nearly 11 years younger, so the pressure of ageing falls unevenly."
+  },
+  "indicators/indicators/life-expectancy/title": {
+    "zh-TW": "平均壽命",
+    "en": "Life expectancy at birth"
+  },
+  "indicators/indicators/life-expectancy/unit": {
+    "zh-TW": "歲",
+    "en": "years"
+  },
+  "indicators/indicators/life-expectancy/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/life-expectancy/compare/period": {
+    "zh-TW": "2019 年（疫情前）",
+    "en": "2019 (pre-pandemic)"
+  },
+  "indicators/indicators/life-expectancy/source/agency": {
+    "zh-TW": "內政部統計處",
+    "en": "Ministry of the Interior"
+  },
+  "indicators/indicators/life-expectancy/insight": {
+    "zh-TW": "女性 84.75 歲、男性 77.93 歲；縣市之間差了七歲半，臺北市 83.98 歲、臺東縣 76.49 歲。",
+    "en": "84.75 for women and 77.93 for men, with a seven-and-a-half-year gap between Taipei (83.98) and Taitung (76.49)."
+  },
+  "indicators/indicators/life-expectancy/why": {
+    "zh-TW": "活得久是醫療與生活條件的成績，也決定退休金要付多少年。縣市之間差七歲半：住在臺東的人，平均比臺北少活七年多。",
+    "en": "Long lives reflect healthcare and living conditions, and they decide how many years pensions must be paid. Counties differ by seven and a half years: people in Taitung live on average more than seven years less than people in Taipei."
+  },
+  "indicators/indicators/marriages/title": {
+    "zh-TW": "結婚對數",
+    "en": "Marriages"
+  },
+  "indicators/indicators/marriages/unit": {
+    "zh-TW": "對",
+    "en": "couples"
+  },
+  "indicators/indicators/marriages/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/marriages/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/marriages/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/marriages/insight": {
+    "zh-TW": "比前一年少 15.2%；其中 3,305 對是同性伴侶，18.5% 有一方是外籍或陸港澳配偶。",
+    "en": "Down 15.2% on the year; 3,305 were same-sex couples, and in 18.5% one partner was foreign or from China, Hong Kong or Macau."
+  },
+  "indicators/indicators/marriages/why": {
+    "zh-TW": "台灣的孩子幾乎都在婚姻裡出生，非婚生育只占 2% 到 4%，所以結婚數一掉，幾年後的出生數就跟著掉。2025 年結婚少了 15.2%。",
+    "en": "Almost every child in Taiwan is born within marriage (births outside it are only 2–4%), so when marriages fall, births follow a few years later. Marriages dropped 15.2% in 2025."
+  },
+  "indicators/indicators/same-sex-marriages/title": {
+    "zh-TW": "同性婚姻登記累計",
+    "en": "Same-sex marriages registered"
+  },
+  "indicators/indicators/same-sex-marriages/unit": {
+    "zh-TW": "對",
+    "en": "couples"
+  },
+  "indicators/indicators/same-sex-marriages/period": {
+    "zh-TW": "2019 年 5 月 24 日至 2026 年 9 月底",
+    "en": "24 May 2019 to end of September 2026"
+  },
+  "indicators/indicators/same-sex-marriages/source/agency": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "indicators/indicators/same-sex-marriages/insight": {
+    "zh-TW": "亞洲第一個同婚合法化的國家；累計數是本站把戶政司每年的登記數相加，每一年都是女性伴侶比男性多。",
+    "en": "Taiwan was the first in Asia to legalise same-sex marriage. The cumulative total is our sum of the annual registrations; women couples outnumber men every year."
+  },
+  "indicators/indicators/same-sex-marriages/why": {
+    "zh-TW": "這個數字記錄的是一項 2019 年以前不存在的權利被用了多少次。每一對登記，都在戶籍、繼承與醫療決定上取得法律上的配偶身分。",
+    "en": "This counts how often a right that did not exist before 2019 has been used. Each registration gives a couple legal spouse status in household registration, inheritance and medical decisions."
+  },
+  "indicators/indicators/spouses-new-residents/title": {
+    "zh-TW": "外籍與陸港澳配偶",
+    "en": "Foreign and mainland-born spouses"
+  },
+  "indicators/indicators/spouses-new-residents/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/spouses-new-residents/period": {
+    "zh-TW": "2026 年 8 月底",
+    "en": "end of August 2026"
+  },
+  "indicators/indicators/spouses-new-residents/compare/period": {
+    "zh-TW": "2016 年底",
+    "en": "end of 2016"
+  },
+  "indicators/indicators/spouses-new-residents/source/agency": {
+    "zh-TW": "內政部移民署",
+    "en": "National Immigration Agency"
+  },
+  "indicators/indicators/spouses-new-residents/insight": {
+    "zh-TW": "陸港澳配偶 39.4 萬人、外籍配偶 22.9 萬人，以女性為多；陸港澳部分計的是申請證件人數。",
+    "en": "393,700 from China, Hong Kong and Macau and 229,000 from other countries, mostly women; the mainland figure counts permit applicants."
+  },
+  "indicators/indicators/spouses-new-residents/why": {
+    "zh-TW": "62 萬名配偶與他們的孩子，讓台灣有不少家庭一開始就是跨國的。2025 年每 100 對新人，就有 18.5 對有一方是外籍或陸港澳配偶。",
+    "en": "622,000 spouses and their children mean many Taiwanese families are transnational from the start. In 2025, 18.5 of every 100 marrying couples included a foreign or mainland, Hong Kong or Macau spouse."
+  },
+  "indicators/indicators/migrant-workers/title": {
+    "zh-TW": "產業及社福移工",
+    "en": "Migrant workers"
+  },
+  "indicators/indicators/migrant-workers/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/migrant-workers/period": {
+    "zh-TW": "2025 年底",
+    "en": "end of 2025"
+  },
+  "indicators/indicators/migrant-workers/compare/period": {
+    "zh-TW": "2015 年底",
+    "en": "end of 2015"
+  },
+  "indicators/indicators/migrant-workers/source/agency": {
+    "zh-TW": "勞動部",
+    "en": "Ministry of Labor"
+  },
+  "indicators/indicators/migrant-workers/insight": {
+    "zh-TW": "十年增加近五成，印尼、越南、菲律賓三國占九成一；數字是本站把勞動部資料集各國籍列相加。",
+    "en": "Up almost 50% in ten years, with Indonesia, Vietnam and the Philippines making up 91%; the total is our sum of the ministry's rows by nationality."
+  },
+  "indicators/indicators/migrant-workers/why": {
+    "zh-TW": "出生減少、勞動人口縮小之後，製造業、營造、漁業與家庭照顧靠移工撐住。國發會估計人才缺口到 2030 年會擴大到 48 萬。",
+    "en": "As births fall and the workforce shrinks, factories, construction, fishing and home care lean on migrant workers. The National Development Council estimates the talent gap will widen to 480,000 by 2030."
+  },
+  "indicators/indicators/indigenous-population/title": {
+    "zh-TW": "原住民族人口",
+    "en": "Indigenous population"
+  },
+  "indicators/indicators/indigenous-population/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/indigenous-population/period": {
+    "zh-TW": "2025 年底",
+    "en": "end of 2025"
+  },
+  "indicators/indicators/indigenous-population/compare/period": {
+    "zh-TW": "2016 年底",
+    "en": "end of 2016"
+  },
+  "indicators/indicators/indigenous-population/source/agency": {
+    "zh-TW": "內政部統計處",
+    "en": "Ministry of the Interior"
+  },
+  "indicators/indicators/indigenous-population/insight": {
+    "zh-TW": "占總人口 2.7%，法定 16 族，阿美族 23.5 萬人最多；2024 年一年多了 2.3 萬人，通報沒有說明原因。",
+    "en": "2.7% of the population across 16 recognised peoples, the Amis largest at 235,000; numbers jumped by 23,000 in 2024 for reasons the ministry has not explained."
+  },
+  "indicators/indicators/indigenous-population/why": {
+    "zh-TW": "原住民族人口 2016 到 2025 年多了 7.6 萬人，年齡中位數比全國年輕將近 11 歲。語言復振、教育與傳統領域這些政策，要服務的人口在變多，也比較年輕。",
+    "en": "The Indigenous population grew by 76,000 between 2016 and 2025, and its median age is nearly 11 years below the national figure. Language revival, education and traditional-territory policies serve a population that is growing and younger."
+  },
+  "indicators/indicators/household-size/title": {
+    "zh-TW": "平均每戶人數",
+    "en": "Average household size"
+  },
+  "indicators/indicators/household-size/unit": {
+    "zh-TW": "人",
+    "en": "people"
+  },
+  "indicators/indicators/household-size/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/household-size/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/household-size/source/agency": {
+    "zh-TW": "行政院主計總處（家庭收支調查）",
+    "en": "DGBAS (Survey of Family Income and Expenditure)"
+  },
+  "indicators/indicators/household-size/insight": {
+    "zh-TW": "1991 年一戶 4.16 人，現在不到 2.7 人。",
+    "en": "Down from 4.16 people per household in 1991 to under 2.7 today."
+  },
+  "indicators/indicators/household-size/why": {
+    "zh-TW": "一戶從 1991 年的 4.16 人變成不到 2.7 人，家裡能分擔照顧的人變少了。同樣多的人需要更多間房子，照顧的工作也越來越常交給看護與長照服務。",
+    "en": "Households shrank from 4.16 people in 1991 to under 2.7, so fewer family members share the work of caring. The same population needs more homes, and more care is handed to paid caregivers and long-term care services."
+  },
+  "indicators/indicators/university-intake/title": {
+    "zh-TW": "大學入學生源（高三學生數）",
+    "en": "University intake pool (high-school seniors)"
+  },
+  "indicators/indicators/university-intake/unit": {
+    "zh-TW": "人",
+    "en": "students"
+  },
+  "indicators/indicators/university-intake/period": {
+    "zh-TW": "114 學年（2025-26）",
+    "en": "2025–26 school year"
+  },
+  "indicators/indicators/university-intake/compare/period": {
+    "zh-TW": "104 學年",
+    "en": "2015–16"
+  },
+  "indicators/indicators/university-intake/source/agency": {
+    "zh-TW": "教育部統計處",
+    "en": "Ministry of Education"
+  },
+  "indicators/indicators/university-intake/insight": {
+    "zh-TW": "十年少了 11 萬人；大專校院學生從 133.2 萬人降到 105.7 萬人，校數五年從 152 所減為 139 所。",
+    "en": "110,000 fewer in ten years; tertiary enrolment fell from 1.33 million to 1.06 million, and the number of institutions from 152 to 139 in five years."
+  },
+  "indicators/indicators/university-intake/why": {
+    "zh-TW": "大學收不到學生就得退場：教育部預測 130 學年大一新生只剩 15.1 萬人，近年停辦的 17 所私校留下 1,064 名教職員。",
+    "en": "Universities that cannot fill their seats close: the Ministry of Education projects only 151,000 first-year students in the 2041 academic year, and the 17 private colleges that recently shut left 1,064 staff behind."
+  },
+  "indicators/indicators/homeownership/title": {
+    "zh-TW": "自有住宅率",
+    "en": "Homeownership rate"
+  },
+  "indicators/indicators/homeownership/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/homeownership/source/agency": {
+    "zh-TW": "行政院主計總處（家庭收支調查）",
+    "en": "DGBAS (Survey of Family Income and Expenditure)"
+  },
+  "indicators/indicators/homeownership/insight": {
+    "zh-TW": "所得最低的兩成家庭是 77.17%，最高的兩成是 91.46%；租屋的家庭占 7.62%。",
+    "en": "77.17% for the poorest fifth of households and 91.46% for the richest; 7.62% of households rent."
+  },
+  "indicators/indicators/homeownership/why": {
+    "zh-TW": "八成四的家庭住在自己的房子裡，房價漲跌直接改變大多數家庭的資產。所得最低兩成的家庭，自有率低了 14 個百分點，房價對他們是門檻。",
+    "en": "With 84% of households owning their home, house prices move most families' wealth. For the poorest fifth, ownership is 14 points lower, and prices are a barrier rather than an asset."
+  },
+  "indicators/indicators/mortgage-burden/title": {
+    "zh-TW": "房貸負擔率",
+    "en": "Mortgage burden ratio"
+  },
+  "indicators/indicators/mortgage-burden/period": {
+    "zh-TW": "2025 年第 2 季",
+    "en": "Q2 2025"
+  },
+  "indicators/indicators/mortgage-burden/source/agency": {
+    "zh-TW": "內政部地政司",
+    "en": "Department of Land Administration, MOI"
+  },
+  "indicators/indicators/mortgage-burden/insight": {
+    "zh-TW": "中位數所得的家庭買一間中位數住宅（980 萬元），每月要拿可支配所得的四成三繳房貸。",
+    "en": "A median-income household buying a median home (NT$9.8 million) would spend 43% of disposable income on the mortgage each month."
+  },
+  "indicators/indicators/mortgage-burden/why": {
+    "zh-TW": "中位數所得的家庭買一間中位數住宅，每賺 100 元有 43 元先拿去繳房貸。這個比例決定一個家庭還剩多少錢養孩子、存退休金。",
+    "en": "A median-income family buying a median home spends 43 of every 100 dollars of disposable income on the mortgage. That share decides how much is left for raising children and saving for retirement."
+  },
+  "indicators/indicators/income-gap/title": {
+    "zh-TW": "家庭所得五等分位差距",
+    "en": "Household income gap, top vs bottom fifth"
+  },
+  "indicators/indicators/income-gap/unit": {
+    "zh-TW": "倍",
+    "en": "times"
+  },
+  "indicators/indicators/income-gap/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/income-gap/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/income-gap/source/agency": {
+    "zh-TW": "行政院主計總處（家庭收支調查）",
+    "en": "DGBAS (Survey of Family Income and Expenditure)"
+  },
+  "indicators/indicators/income-gap/insight": {
+    "zh-TW": "最高兩成家庭的可支配所得是最低兩成的 6.17 倍；扣掉每戶人數差異後是 3.73 倍。家庭可支配所得中位數 101.8 萬元。",
+    "en": "The richest fifth of households have 6.17 times the disposable income of the poorest fifth, or 3.73 times per person; the median household has NT$1.018 million."
+  },
+  "indicators/indicators/income-gap/why": {
+    "zh-TW": "這是政府每年檢查所得分配有沒有變好的那把尺。按每人計算只剩 3.73 倍，表示有一部分差距來自家戶人口數不同，人多的家庭總所得本來就比較高。",
+    "en": "This is the ruler the government uses each year to check whether income distribution is improving. Per person the ratio falls to 3.73, so part of the gap comes from household size: larger households naturally have higher total incomes."
+  },
+  "indicators/indicators/unemployment/title": {
+    "zh-TW": "失業率",
+    "en": "Unemployment rate"
+  },
+  "indicators/indicators/unemployment/period": {
+    "zh-TW": "2026 年 9 月",
+    "en": "September 2026"
+  },
+  "indicators/indicators/unemployment/compare/period": {
+    "zh-TW": "2025 年平均",
+    "en": "2025 average"
+  },
+  "indicators/indicators/unemployment/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/unemployment/insight": {
+    "zh-TW": "失業 40.5 萬人，就業 1,164 萬人，勞動力參與率 59.59%。",
+    "en": "405,000 unemployed and 11.64 million employed, with labour force participation at 59.59%."
+  },
+  "indicators/indicators/unemployment/why": {
+    "zh-TW": "失業率低，只說明想工作的人大多找得到工作。勞動力參與率 59.59% 是另一半：退休、照顧家人、在學這些沒在找工作的人，不算進失業。",
+    "en": "A low rate only says that most people looking for work find it. The participation rate of 59.59% is the other half: people who are retired, caring for family or studying are not looking, so they are not counted."
+  },
+  "indicators/indicators/median-earnings/title": {
+    "zh-TW": "全年總薪資中位數",
+    "en": "Median annual earnings"
+  },
+  "indicators/indicators/median-earnings/prefix": {
+    "zh-TW": "",
+    "en": "NT$"
+  },
+  "indicators/indicators/median-earnings/unit": {
+    "zh-TW": "元",
+    "en": ""
+  },
+  "indicators/indicators/median-earnings/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/median-earnings/compare/period": {
+    "zh-TW": "2023 年",
+    "en": "2023"
+  },
+  "indicators/indicators/median-earnings/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/median-earnings/insight": {
+    "zh-TW": "一半的受僱者一年領不到 54.6 萬元，平均每月約 4.55 萬；女性 51.2 萬、男性 58.5 萬。2025 年的數字 11 月底發布。",
+    "en": "Half of employees earn less than NT$546,000 a year, about NT$45,500 a month; women NT$512,000, men NT$585,000. The 2025 figure is due in late November."
+  },
+  "indicators/indicators/median-earnings/why": {
+    "zh-TW": "中位數比平均數更接近一般人的薪水。2016 到 2024 年最低工資漲了三成七，中位數只漲一成八，薪資底部和中間的距離在縮小。",
+    "en": "The median is closer to what an ordinary worker earns than the average is. From 2016 to 2024 the minimum wage rose 37% while the median rose 18%, so the floor is closing in on the middle."
+  },
+  "indicators/indicators/minimum-wage/title": {
+    "zh-TW": "最低工資（月薪）",
+    "en": "Minimum wage (monthly)"
+  },
+  "indicators/indicators/minimum-wage/prefix": {
+    "zh-TW": "",
+    "en": "NT$"
+  },
+  "indicators/indicators/minimum-wage/unit": {
+    "zh-TW": "元",
+    "en": ""
+  },
+  "indicators/indicators/minimum-wage/period": {
+    "zh-TW": "2026 年",
+    "en": "2026"
+  },
+  "indicators/indicators/minimum-wage/compare/period": {
+    "zh-TW": "2016 年",
+    "en": "2016"
+  },
+  "indicators/indicators/minimum-wage/source/agency": {
+    "zh-TW": "勞動部",
+    "en": "Ministry of Labor"
+  },
+  "indicators/indicators/minimum-wage/insight": {
+    "zh-TW": "時薪 196 元；勞動部已公布 2027 年起調為月薪 30,900 元、時薪 205 元，連續 11 年調升。",
+    "en": "NT$196 an hour; the ministry has announced NT$30,900 a month and NT$205 an hour from 2027, the eleventh rise in a row."
+  },
+  "indicators/indicators/minimum-wage/why": {
+    "zh-TW": "最低工資每年由勞方、資方與學者在審議會上決定，是成長分給基層的第一道管道。2025 年資方主張成長是半導體帶的、傳產與服務業還在困境，最後定在調漲 3.18%。",
+    "en": "Each year a council of labour, employers and academics sets the minimum wage, the first channel through which growth reaches the lowest-paid. In 2025 employers argued growth came from chips while traditional industries and services were struggling; the council settled on a 3.18% rise."
+  },
+  "indicators/indicators/working-hours/title": {
+    "zh-TW": "每月平均工時",
+    "en": "Average monthly working hours"
+  },
+  "indicators/indicators/working-hours/unit": {
+    "zh-TW": "小時",
+    "en": "hours"
+  },
+  "indicators/indicators/working-hours/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/working-hours/compare/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/working-hours/source/agency": {
+    "zh-TW": "勞動部（依主計總處薪資統計）",
+    "en": "Ministry of Labor (DGBAS earnings data)"
+  },
+  "indicators/indicators/working-hours/insight": {
+    "zh-TW": "工業及服務業受僱員工，其中正常工時 160.1 小時；工業部門 175.1 小時比服務業長。",
+    "en": "For employees in industry and services, 160.1 of them regular hours; industry works longer, at 175.1 hours."
+  },
+  "indicators/indicators/working-hours/why": {
+    "zh-TW": "每月 168.9 小時，一年大約 2,027 小時。工時長短決定下班後還剩多少時間給家人、進修與休息，工業部門的工時又比服務業更長。",
+    "en": "168.9 hours a month is about 2,027 a year. Working hours decide how much time is left for family, study and rest, and industry works longer hours than services."
+  },
+  "indicators/indicators/nhi-coverage/title": {
+    "zh-TW": "全民健保納保率",
+    "en": "National Health Insurance coverage"
+  },
+  "indicators/indicators/nhi-coverage/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/nhi-coverage/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/nhi-coverage/source/agency": {
+    "zh-TW": "衛生福利部統計處",
+    "en": "Ministry of Health and Welfare"
+  },
+  "indicators/indicators/nhi-coverage/insight": {
+    "zh-TW": "2,396 萬人在保；2010 年起都維持在 99% 以上。",
+    "en": "23.96 million people insured, above 99% every year since 2010."
+  },
+  "indicators/indicators/nhi-coverage/why": {
+    "zh-TW": "幾乎每個人都在保，看病不必先問有沒有保險，這是 1995 年 3 月 1 日開辦以來最直接的成績。人口變老之後醫療支出怎麼付，是接下來的題目。",
+    "en": "Almost everyone is covered, so nobody has to ask about insurance before seeing a doctor: the plainest result of the scheme since it began on 1 March 1995. How to pay for care as the population ages is the next question."
+  },
+  "indicators/indicators/doctors/title": {
+    "zh-TW": "每萬人口西醫師",
+    "en": "Physicians per 10,000 people"
+  },
+  "indicators/indicators/doctors/unit": {
+    "zh-TW": "人",
+    "en": "doctors"
+  },
+  "indicators/indicators/doctors/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/doctors/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/doctors/source/agency": {
+    "zh-TW": "衛生福利部統計處",
+    "en": "Ministry of Health and Welfare"
+  },
+  "indicators/indicators/doctors/insight": {
+    "zh-TW": "加上中醫與牙醫是每萬人 35 人；護理人員每萬人 84.1 人。",
+    "en": "35 per 10,000 including Chinese medicine practitioners and dentists; 84.1 nurses per 10,000."
+  },
+  "indicators/indicators/doctors/why": {
+    "zh-TW": "每萬人 24.2 位西醫師，十年多了將近三成。平均數看不見的是分布：醫師集中在都市與部分科別，偏鄉與急重症的人力缺口要看各縣市、各科的數字。",
+    "en": "24.2 Western-medicine doctors per 10,000 people is nearly 30% more than ten years ago. What the average hides is distribution: doctors cluster in cities and some specialties, and gaps in rural and acute care only show up county by county and specialty by specialty."
+  },
+  "indicators/indicators/cancer-deaths/title": {
+    "zh-TW": "癌症死亡",
+    "en": "Cancer deaths"
+  },
+  "indicators/indicators/cancer-deaths/unit": {
+    "zh-TW": "人",
+    "en": "deaths"
+  },
+  "indicators/indicators/cancer-deaths/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/cancer-deaths/source/agency": {
+    "zh-TW": "衛生福利部統計處",
+    "en": "Ministry of Health and Welfare"
+  },
+  "indicators/indicators/cancer-deaths/insight": {
+    "zh-TW": "占全部死亡的 27.5%，連續 44 年是十大死因第一名；肺癌、肝癌、結腸直腸癌連續 22 年排前三。",
+    "en": "27.5% of all deaths and the leading cause for 44 years running; lung, liver and colorectal cancer have been the top three for 22 years."
+  },
+  "indicators/indicators/cancer-deaths/why": {
+    "zh-TW": "癌症連續 44 年是死因第一名，人口越老，罹癌的人越多，這個數字很難降下來。篩檢能不能普及，決定多少人能在還治得好的階段被發現。",
+    "en": "Cancer has been the leading cause of death for 44 years, and the older the population, the more people get it, so this number is hard to bring down. How widely screening reaches decides how many cases are caught while they can still be treated."
+  },
+  "indicators/indicators/gdp-growth/title": {
+    "zh-TW": "經濟成長率",
+    "en": "Real GDP growth"
+  },
+  "indicators/indicators/gdp-growth/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/gdp-growth/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/gdp-growth/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/gdp-growth/insight": {
+    "zh-TW": "2010 年（10.25%）以來最高，主計總處 8 月預測 2026 年再到 11.05%。",
+    "en": "The highest since 2010 (10.25%); in August the statistics agency forecast 11.05% for 2026."
+  },
+  "indicators/indicators/gdp-growth/why": {
+    "zh-TW": "這一年出口暴增，資通與視聽產品一年多了 89.5%。在 AI、半導體與電子供應鏈上直接就業的人不到全體一成，多數人感受到的變化遠小於 8.76%。",
+    "en": "Exports surged that year, with ICT and audio-visual products up 89.5%. Fewer than one worker in ten is directly employed in the AI, semiconductor and electronics supply chain, so most people felt far less change than 8.76% suggests."
+  },
+  "indicators/indicators/gdp-nominal/title": {
+    "zh-TW": "國內生產毛額（名目）",
+    "en": "Nominal GDP"
+  },
+  "indicators/indicators/gdp-nominal/prefix": {
+    "zh-TW": "",
+    "en": "US$"
+  },
+  "indicators/indicators/gdp-nominal/unit": {
+    "zh-TW": "美元",
+    "en": ""
+  },
+  "indicators/indicators/gdp-nominal/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/gdp-nominal/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/gdp-nominal/seriesNote": {
+    "zh-TW": "序列單位：百萬美元",
+    "en": "Series in US$ million"
+  },
+  "indicators/indicators/gdp-nominal/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/gdp-nominal/insight": {
+    "zh-TW": "以新臺幣計是 28.7 兆元；十年之間以美元計多了七成以上，其中一年就多了約 1,209 億美元。",
+    "en": "NT$28.7 trillion in local currency; up more than 70% in dollar terms over ten years, about US$121 billion of it in the last year alone."
+  },
+  "indicators/indicators/gdp-nominal/why": {
+    "zh-TW": "GDP 是一年生產的總值，國家能收多少稅、能借多少錢都以它為分母。國防預算與政府債務，也都用占 GDP 多少來衡量。",
+    "en": "GDP is the total value produced in a year and the denominator for how much a state can tax and borrow. Defence spending and public debt are both measured as shares of it."
+  },
+  "indicators/indicators/gdp-per-capita/title": {
+    "zh-TW": "平均每人 GDP",
+    "en": "GDP per capita"
+  },
+  "indicators/indicators/gdp-per-capita/prefix": {
+    "zh-TW": "",
+    "en": "US$"
+  },
+  "indicators/indicators/gdp-per-capita/unit": {
+    "zh-TW": "美元",
+    "en": ""
+  },
+  "indicators/indicators/gdp-per-capita/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/gdp-per-capita/compare/period": {
+    "zh-TW": "2015 年",
+    "en": "2015"
+  },
+  "indicators/indicators/gdp-per-capita/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/gdp-per-capita/insight": {
+    "zh-TW": "十年多了 16,735 美元；這是總產出除以人口，跟一般人的薪水是兩件事（見社會類的薪資中位數）。",
+    "en": "Up US$16,735 in ten years. This is output divided by population, which is a different thing from what a typical worker earns (see the median wage under Society)."
+  },
+  "indicators/indicators/gdp-per-capita/why": {
+    "zh-TW": "跨國比較生活水準最常用這把尺，但它把企業利潤、政府收入都算進去再除以人口，所以會跑得比一般人口袋裡的錢快，要搭配薪資中位數一起看。",
+    "en": "This is the yardstick most often used to compare living standards across countries. It divides everything, corporate profits and government revenue included, by population, so it can run ahead of what ordinary people take home; read it alongside median earnings."
+  },
+  "indicators/indicators/cpi-inflation/title": {
+    "zh-TW": "消費者物價年增率",
+    "en": "Consumer price inflation"
+  },
+  "indicators/indicators/cpi-inflation/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/cpi-inflation/compare/period": {
+    "zh-TW": "2022 年高點",
+    "en": "2022 peak"
+  },
+  "indicators/indicators/cpi-inflation/source/agency": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "indicators/indicators/cpi-inflation/insight": {
+    "zh-TW": "經濟成長創新高的同一年，物價漲幅回落到 1.66%。",
+    "en": "In the same year growth hit a record, inflation eased back to 1.66%."
+  },
+  "indicators/indicators/cpi-inflation/why": {
+    "zh-TW": "物價漲幅是每一次加薪要先扣掉的部分：薪水漲得比物價慢，買得到的東西就變少。最低工資審議時，學者代表主張至少要以物價為底，就是這個道理。",
+    "en": "Inflation is what every pay rise is measured against: if wages grow slower than prices, people can buy less. That is why, in minimum-wage talks, academic members argue that inflation should be the floor."
+  },
+  "indicators/indicators/exports-total/title": {
+    "zh-TW": "出口總額",
+    "en": "Total exports"
+  },
+  "indicators/indicators/exports-total/prefix": {
+    "zh-TW": "",
+    "en": "US$"
+  },
+  "indicators/indicators/exports-total/unit": {
+    "zh-TW": "美元",
+    "en": ""
+  },
+  "indicators/indicators/exports-total/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/exports-total/compare/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/exports-total/source/agency": {
+    "zh-TW": "財政部統計處",
+    "en": "Ministry of Finance"
+  },
+  "indicators/indicators/exports-total/insight": {
+    "zh-TW": "一年增加 34.9%，進口也同時創新高；全年出超 1,571.4 億美元，同樣是紀錄。",
+    "en": "Up 34.9% in a year, with imports also at a record; the trade surplus of US$157.1 billion was a record too."
+  },
+  "indicators/indicators/exports-total/why": {
+    "zh-TW": "台灣經濟靠外銷，出口一年多 35%，經濟成長就跟著被推高。另一面是集中：電子零組件與資通視聽產品合計占七成四，國際景氣一轉向，衝擊也會一樣集中。",
+    "en": "Taiwan's economy runs on exports, and a 35% jump pushes growth up with it. The flip side is concentration: electronic components and ICT products make up 74%, so a turn in the global cycle would hit just as narrowly."
+  },
+  "indicators/indicators/exports-us-share/title": {
+    "zh-TW": "對美國出口占總出口比重",
+    "en": "United States' share of exports"
+  },
+  "indicators/indicators/exports-us-share/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/exports-us-share/compare/period": {
+    "zh-TW": "同年對中國大陸與香港",
+    "en": "China and Hong Kong, same year"
+  },
+  "indicators/indicators/exports-us-share/source/agency": {
+    "zh-TW": "財政部統計處",
+    "en": "Ministry of Finance"
+  },
+  "indicators/indicators/exports-us-share/insight": {
+    "zh-TW": "美國超過中國大陸與香港，成為台灣最大的出口市場，財政部說這是 26 年來第一次。",
+    "en": "The US overtook China and Hong Kong as Taiwan's largest export market, which the Ministry of Finance says is the first time in 26 years."
+  },
+  "indicators/indicators/exports-us-share/why": {
+    "zh-TW": "美國成了最大的買家，美國的關稅、出口管制與產業政策，就直接影響台灣的訂單與投資決定。",
+    "en": "With the United States now the biggest buyer, US tariffs, export controls and industrial policy directly shape Taiwan's orders and investment decisions."
+  },
+  "indicators/indicators/fx-reserves/title": {
+    "zh-TW": "外匯存底",
+    "en": "Foreign exchange reserves"
+  },
+  "indicators/indicators/fx-reserves/prefix": {
+    "zh-TW": "",
+    "en": "US$"
+  },
+  "indicators/indicators/fx-reserves/unit": {
+    "zh-TW": "美元",
+    "en": ""
+  },
+  "indicators/indicators/fx-reserves/period": {
+    "zh-TW": "2026 年 9 月底",
+    "en": "end of September 2026"
+  },
+  "indicators/indicators/fx-reserves/compare/period": {
+    "zh-TW": "2020 年 9 月底",
+    "en": "end of September 2020"
+  },
+  "indicators/indicators/fx-reserves/source/agency": {
+    "zh-TW": "中央銀行",
+    "en": "Central Bank"
+  },
+  "indicators/indicators/fx-reserves/insight": {
+    "zh-TW": "同一則公告註明，外資持有的台灣股票、債券與新臺幣存款折合 19,272 億美元，約是外匯存底的 3.2 倍。",
+    "en": "The same release notes that foreign holdings of Taiwanese stocks, bonds and NT dollar deposits equal US$1.93 trillion, about 3.2 times the reserves."
+  },
+  "indicators/indicators/fx-reserves/why": {
+    "zh-TW": "外匯存底是央行穩住新臺幣的彈藥。外資在台的股票、債券與存款是它的 3.2 倍，外資大進大出時，匯率與股市會一起晃。",
+    "en": "Foreign-exchange reserves are the central bank's ammunition for steadying the New Taiwan dollar. Foreign holdings of Taiwanese stocks, bonds and deposits are 3.2 times larger, so when foreign money moves, the currency and the stock market move together."
+  },
+  "indicators/indicators/twse-market-cap/title": {
+    "zh-TW": "上市公司總市值",
+    "en": "Listed companies' total market value"
+  },
+  "indicators/indicators/twse-market-cap/prefix": {
+    "zh-TW": "",
+    "en": "NT$"
+  },
+  "indicators/indicators/twse-market-cap/unit": {
+    "zh-TW": "元",
+    "en": ""
+  },
+  "indicators/indicators/twse-market-cap/period": {
+    "zh-TW": "2026 年 9 月底",
+    "en": "end of September 2026"
+  },
+  "indicators/indicators/twse-market-cap/compare/period": {
+    "zh-TW": "2025 年 12 月底",
+    "en": "end of December 2025"
+  },
+  "indicators/indicators/twse-market-cap/source/agency": {
+    "zh-TW": "臺灣證券交易所",
+    "en": "Taiwan Stock Exchange"
+  },
+  "indicators/indicators/twse-market-cap/insight": {
+    "zh-TW": "九個月多了 62 兆元；台積電一家的發行市值 64.3 兆元，約占四成一（本站以證交所兩個數字相除）。",
+    "en": "Up NT$62 trillion in nine months. TSMC alone is worth NT$64.3 trillion, about 41% of the total (our division of two exchange figures)."
+  },
+  "indicators/indicators/twse-market-cap/why": {
+    "zh-TW": "投資台股的人，不論自己買股還是買 ETF，資產都跟台積電綁得很緊：它一家約占上市總市值的四成一，台積電的股價一動，整個市場跟著動。",
+    "en": "Anyone invested in Taiwanese stocks, directly or through an ETF, is tied closely to TSMC: it alone is about 41% of the listed market, so when its share price moves, the whole market moves."
+  },
+  "indicators/indicators/taiex/title": {
+    "zh-TW": "加權指數年底收盤",
+    "en": "TAIEX year-end close"
+  },
+  "indicators/indicators/taiex/unit": {
+    "zh-TW": "點",
+    "en": "points"
+  },
+  "indicators/indicators/taiex/period": {
+    "zh-TW": "2025 年 12 月 31 日",
+    "en": "31 December 2025"
+  },
+  "indicators/indicators/taiex/compare/period": {
+    "zh-TW": "2015 年底",
+    "en": "end of 2015"
+  },
+  "indicators/indicators/taiex/source/agency": {
+    "zh-TW": "臺灣證券交易所",
+    "en": "Taiwan Stock Exchange"
+  },
+  "indicators/indicators/taiex/insight": {
+    "zh-TW": "十年漲到約 3.5 倍；2026 年 9 月底已收在 47,940 點。",
+    "en": "About 3.5 times its level ten years earlier; by the end of September 2026 it had closed at 47,940."
+  },
+  "indicators/indicators/taiex/why": {
+    "zh-TW": "十年漲到約 3.5 倍，有持股的家庭資產跟著膨脹，沒有持股的家庭沒有。資產漲得比薪水快，有沒有持股就成了家庭之間新的差距。",
+    "en": "Up about 3.5 times in ten years: households holding shares saw their wealth swell, households without them did not. When assets outpace wages, owning stocks becomes a new dividing line between families."
+  },
+  "indicators/indicators/ict-exports/title": {
+    "zh-TW": "資通與視聽產品出口",
+    "en": "ICT and audio-visual exports"
+  },
+  "indicators/indicators/ict-exports/prefix": {
+    "zh-TW": "",
+    "en": "US$"
+  },
+  "indicators/indicators/ict-exports/unit": {
+    "zh-TW": "美元",
+    "en": ""
+  },
+  "indicators/indicators/ict-exports/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/ict-exports/source/agency": {
+    "zh-TW": "財政部統計處",
+    "en": "Ministry of Finance"
+  },
+  "indicators/indicators/ict-exports/insight": {
+    "zh-TW": "一年增加 89.5%，其中電腦及附屬單元多了 986.5 億美元；跟電子零組件合計，占總出口七成四。",
+    "en": "Up 89.5% in a year, with computers and peripherals alone adding US$98.7 billion; together with electronic components it makes up 74% of all exports."
+  },
+  "indicators/indicators/ict-exports/why": {
+    "zh-TW": "這是 AI 熱潮落在台灣的那一部分：電腦及附屬單元一年多賣 986.5 億美元。成長來得越快、越集中，熱潮降溫時要調整的幅度也越大。",
+    "en": "This is the share of the AI boom that lands in Taiwan: computers and related units sold US$98.65 billion more in a single year. The faster and more concentrated the growth, the larger the adjustment when the boom cools."
+  },
+  "indicators/indicators/ic-industry-output/title": {
+    "zh-TW": "IC 產業產值",
+    "en": "IC industry output"
+  },
+  "indicators/indicators/ic-industry-output/prefix": {
+    "zh-TW": "",
+    "en": "NT$"
+  },
+  "indicators/indicators/ic-industry-output/unit": {
+    "zh-TW": "元",
+    "en": ""
+  },
+  "indicators/indicators/ic-industry-output/period": {
+    "zh-TW": "2025 年（2026 年 2 月估計）",
+    "en": "2025 (February 2026 estimate)"
+  },
+  "indicators/indicators/ic-industry-output/source/agency": {
+    "zh-TW": "工研院產業科技國際策略發展所",
+    "en": "ITRI Industry, Science and Technology International Strategy Center"
+  },
+  "indicators/indicators/ic-industry-output/insight": {
+    "zh-TW": "年增 22.7%，製造占約三分之二；這是工研院的估計值，今年已經上修過幾次。",
+    "en": "Up 22.7%, with manufacturing about two-thirds of it. This is ITRI's estimate, revised upward several times this year."
+  },
+  "indicators/indicators/ic-industry-output/why": {
+    "zh-TW": "竹科、中科、南科一整圈的上下游廠商與工程師，都靠這個產業。產值一年增加 22.7%，用電、用水與工程師的需求也跟著一起變大。",
+    "en": "The suppliers and engineers around the Hsinchu, Taichung and Tainan science parks all depend on this industry. With output up 22.7% in a year, demand for power, water and engineers grows with it."
+  },
+  "indicators/indicators/tsmc-foundry-share/title": {
+    "zh-TW": "台積電全球晶圓代工市占",
+    "en": "TSMC's share of global foundry revenue"
+  },
+  "indicators/indicators/tsmc-foundry-share/period": {
+    "zh-TW": "2026 年第 2 季",
+    "en": "Q2 2026"
+  },
+  "indicators/indicators/tsmc-foundry-share/compare/period": {
+    "zh-TW": "2025 年第 4 季",
+    "en": "Q4 2025"
+  },
+  "indicators/indicators/tsmc-foundry-share/source/agency": {
+    "zh-TW": "TrendForce 集邦科技",
+    "en": "TrendForce"
+  },
+  "indicators/indicators/tsmc-foundry-share/insight": {
+    "zh-TW": "分母是全球前十大晶圓代工廠的營收，不含英特爾、三星這類自己做晶片的公司自用的產能。",
+    "en": "Measured against the revenue of the world's top ten foundries, excluding chipmakers' in-house capacity."
+  },
+  "indicators/indicators/tsmc-foundry-share/why": {
+    "zh-TW": "市占這麼高，台積電一家的接單與擴產，就牽動台灣的出口、股市與用電。",
+    "en": "With a share this large, one company's orders and expansion plans move Taiwan's exports, stock market and electricity demand."
+  },
+  "indicators/indicators/rd-gdp/title": {
+    "zh-TW": "研發經費占 GDP",
+    "en": "R&D spending as share of GDP"
+  },
+  "indicators/indicators/rd-gdp/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/rd-gdp/compare/period": {
+    "zh-TW": "2020 年",
+    "en": "2020"
+  },
+  "indicators/indicators/rd-gdp/source/agency": {
+    "zh-TW": "國家科學及技術委員會",
+    "en": "National Science and Technology Council"
+  },
+  "indicators/indicators/rd-gdp/insight": {
+    "zh-TW": "全國研發經費首度破兆（10,493 億元），其中 85.8% 由民間部門出資。",
+    "en": "National R&D spending passed NT$1 trillion for the first time (NT$1.0493 trillion), 85.8% of it from the private sector."
+  },
+  "indicators/indicators/rd-gdp/why": {
+    "zh-TW": "全國研發經費第一次破兆，民間部門出資 85.8%。企業出的錢多半投向自己的產品，基礎研究與其他產業能分到多少，要看政府出的那一成多。",
+    "en": "National R&D spending passed NT$1 trillion for the first time, 85.8% of it from the private sector. Company money mostly goes into company products; how much reaches basic research and other industries depends on the government's smaller share."
+  },
+  "indicators/indicators/internet-use/title": {
+    "zh-TW": "個人上網率（12 歲以上）",
+    "en": "Internet use, age 12+"
+  },
+  "indicators/indicators/internet-use/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/internet-use/compare/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/internet-use/source/agency": {
+    "zh-TW": "數位發展部",
+    "en": "Ministry of Digital Affairs"
+  },
+  "indicators/indicators/internet-use/insight": {
+    "zh-TW": "連續幾年卡在八成七左右之後，第一次突破九成；家戶連網率 93.4%。",
+    "en": "After several years stuck around 87%, it passed 90% for the first time; 93.4% of households are connected."
+  },
+  "indicators/indicators/internet-use/why": {
+    "zh-TW": "九成以上的人上網之後，政府服務、繳費、報稅、預約掛號都往線上移。還沒上網的那一成，在越來越多服務只剩線上管道時最容易被落下。",
+    "en": "With nine in ten people online, government services, bills, tax filing and hospital bookings keep moving online. The tenth not yet online is most easily left behind as more services go online-only."
+  },
+  "indicators/indicators/mobile-payment/title": {
+    "zh-TW": "網路族行動支付使用率",
+    "en": "Mobile payment use among internet users"
+  },
+  "indicators/indicators/mobile-payment/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/mobile-payment/compare/period": {
+    "zh-TW": "2020 年",
+    "en": "2020"
+  },
+  "indicators/indicators/mobile-payment/source/agency": {
+    "zh-TW": "數位發展部",
+    "en": "Ministry of Digital Affairs"
+  },
+  "indicators/indicators/mobile-payment/insight": {
+    "zh-TW": "第一次過半；分母是會上網的人，不是全體人口。",
+    "en": "Above half for the first time; the base is people who use the internet, not the whole population."
+  },
+  "indicators/indicators/mobile-payment/why": {
+    "zh-TW": "行動支付過半，現金卻沒有退場：18 歲以上有 25% 只用現金，攤販有 76.1% 只收現金。支付方式的轉換，在夜市與傳統市場走得最慢。",
+    "en": "More than half of internet users pay by phone, yet cash has not gone away: 25% of adults use only cash, and 76.1% of street vendors accept only cash. The switch is slowest in night markets and traditional markets."
+  },
+  "indicators/indicators/power-gas/title": {
+    "zh-TW": "燃氣發電占比",
+    "en": "Natural gas share of power generation"
+  },
+  "indicators/indicators/power-gas/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/power-gas/compare/period": {
+    "zh-TW": "2016 年",
+    "en": "2016"
+  },
+  "indicators/indicators/power-gas/source/agency": {
+    "zh-TW": "經濟部能源署",
+    "en": "Energy Administration, MOEA"
+  },
+  "indicators/indicators/power-gas/insight": {
+    "zh-TW": "燃氣已經取代燃煤成為最大電源；燃煤從 45.9% 降到 35.3%，全年總發電量 2,897 億度。",
+    "en": "Gas has replaced coal as the largest source; coal fell from 45.9% to 35.3%, out of 289.7 billion kWh generated in the year."
+  },
+  "indicators/indicators/power-gas/why": {
+    "zh-TW": "天然氣幾乎全靠船運進口，法定安全存量約 11 天。燃氣占了將近一半的發電，電力供應就跟海上航線綁在一起。",
+    "en": "Natural gas arrives almost entirely by ship, and the legal safety stock is about 11 days. With gas producing nearly half the electricity, the power supply is tied to sea lanes."
+  },
+  "indicators/indicators/power-renewable/title": {
+    "zh-TW": "再生能源發電占比",
+    "en": "Renewable share of power generation"
+  },
+  "indicators/indicators/power-renewable/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/power-renewable/compare/period": {
+    "zh-TW": "2016 年",
+    "en": "2016"
+  },
+  "indicators/indicators/power-renewable/source/agency": {
+    "zh-TW": "經濟部能源署",
+    "en": "Energy Administration, MOEA"
+  },
+  "indicators/indicators/power-renewable/insight": {
+    "zh-TW": "十年從 127 億度增加到 386 億度，主力從水力換成太陽光電（43.4%）與風力。",
+    "en": "From 12.7 to 38.6 billion kWh in ten years, with the mainstay shifting from hydro to solar (43.4%) and wind."
+  },
+  "indicators/indicators/power-renewable/why": {
+    "zh-TW": "再生能源是台灣自己產的電，十年從 4.8% 變 13.3%。國際大客戶要求供應商用綠電生產，這個比例也決定台灣的產品能不能留在供應鏈裡。",
+    "en": "Renewables are electricity Taiwan makes for itself, up from 4.8% to 13.3% in ten years. Major global customers ask suppliers to produce with green power, so this share also decides whether Taiwanese products keep their place in supply chains."
+  },
+  "indicators/indicators/power-nuclear/title": {
+    "zh-TW": "核能發電占比",
+    "en": "Nuclear share of power generation"
+  },
+  "indicators/indicators/power-nuclear/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/power-nuclear/compare/period": {
+    "zh-TW": "2016 年",
+    "en": "2016"
+  },
+  "indicators/indicators/power-nuclear/source/agency": {
+    "zh-TW": "經濟部能源署",
+    "en": "Energy Administration, MOEA"
+  },
+  "indicators/indicators/power-nuclear/insight": {
+    "zh-TW": "2025 年全年還有 1.1%，因為最後一座核電廠到年中才停機；全年歸零要從 2026 年算起。",
+    "en": "Still 1.1% for 2025 because the last plant ran until mid-year; a full year at zero starts in 2026."
+  },
+  "indicators/indicators/power-nuclear/why": {
+    "zh-TW": "最後一座核電廠在 2025 年年中停機。同年的核三重啟公投，同意票 434 萬、占 74.17%，卻沒達到選舉人四分之一（約 500 萬票）的門檻，核電的去留在民意上還沒有定論。",
+    "en": "The last nuclear plant shut down in mid-2025. In a referendum that year on restarting it, 4.34 million voted yes, 74.17% of votes cast, but that fell short of the threshold of a quarter of eligible voters (about 5 million), so public opinion on nuclear power remains unsettled."
+  },
+  "indicators/indicators/ghg-emissions/title": {
+    "zh-TW": "溫室氣體總排放量",
+    "en": "Total greenhouse gas emissions"
+  },
+  "indicators/indicators/ghg-emissions/unit": {
+    "zh-TW": "百萬公噸 CO₂e",
+    "en": "Mt CO₂e"
+  },
+  "indicators/indicators/ghg-emissions/period": {
+    "zh-TW": "2024 年（2026 年清冊）",
+    "en": "2024 (2026 inventory)"
+  },
+  "indicators/indicators/ghg-emissions/compare/period": {
+    "zh-TW": "2023 年（2025 年清冊）",
+    "en": "2023 (2025 inventory)"
+  },
+  "indicators/indicators/ghg-emissions/source/agency": {
+    "zh-TW": "環境部氣候變遷署",
+    "en": "Climate Change Administration, MOENV"
+  },
+  "indicators/indicators/ghg-emissions/insight": {
+    "zh-TW": "扣掉碳匯後淨排放 251.4 百萬公噸，比 2005 年基準少 6.59%；製造部門占一半。清冊每年會回頭修正。",
+    "en": "Net of carbon sinks, 251.4 Mt, 6.59% below the 2005 baseline; manufacturing is half of the total. Each year's inventory revises earlier years."
+  },
+  "indicators/indicators/ghg-emissions/why": {
+    "zh-TW": "台灣把 2050 年淨零寫進法律，排放量就是檢查進度的那把尺。製造部門占一半，晶片擴產與減碳之間的拉扯，都會落在這個數字上。",
+    "en": "Taiwan has written net zero by 2050 into law, and this is the ruler for progress. Manufacturing produces half of emissions, so the tug-of-war between chip expansion and decarbonisation shows up here."
+  },
+  "indicators/indicators/forest-cover/title": {
+    "zh-TW": "森林覆蓋率",
+    "en": "Forest cover"
+  },
+  "indicators/indicators/forest-cover/period": {
+    "zh-TW": "第四次森林資源調查",
+    "en": "Fourth National Forest Inventory"
+  },
+  "indicators/indicators/forest-cover/source/agency": {
+    "zh-TW": "農業部林業及自然保育署",
+    "en": "Forestry and Nature Conservation Agency"
+  },
+  "indicators/indicators/forest-cover/insight": {
+    "zh-TW": "森林面積 219.7 萬公頃，其中 41.5 萬公頃長在法定林地以外。",
+    "en": "2.197 million hectares of forest, of which 415,000 hectares grow outside designated forest land."
+  },
+  "indicators/indicators/forest-cover/why": {
+    "zh-TW": "六成的土地是森林，水源、山坡的穩定與野生動植物都靠它。森林多不等於木材夠用：造紙所需木片的自給率只有 0.5%。",
+    "en": "Six-tenths of the land is forest, which holds water, steadies slopes and shelters wildlife. Plenty of forest does not mean plenty of timber: Taiwan supplies only 0.5% of the wood chips its paper industry uses."
+  },
+  "indicators/indicators/typhoons/title": {
+    "zh-TW": "颱風平均每年侵台個數",
+    "en": "Typhoons hitting Taiwan per year"
+  },
+  "indicators/indicators/typhoons/display": {
+    "zh-TW": "3 至 4 個",
+    "en": "3 to 4"
+  },
+  "indicators/indicators/typhoons/period": {
+    "zh-TW": "1911–2025 年統計",
+    "en": "1911–2025 record"
+  },
+  "indicators/indicators/typhoons/source/agency": {
+    "zh-TW": "交通部中央氣象署",
+    "en": "Central Weather Administration"
+  },
+  "indicators/indicators/typhoons/insight": {
+    "zh-TW": "115 年間共 382 個颱風侵襲台灣，八月最多。",
+    "en": "382 typhoons struck Taiwan over 115 years, most often in August."
+  },
+  "indicators/indicators/typhoons/why": {
+    "zh-TW": "颱風帶來一年裡很大一部分的雨，也帶來最大的災損。2024 年農業災損 526.51 億元，98.88% 來自颱風。",
+    "en": "Typhoons bring much of the year's rain and most of its damage. Of NT$52.65 billion in farm losses in 2024, 98.88% came from typhoons."
+  },
+  "indicators/indicators/species/title": {
+    "zh-TW": "已記錄物種數",
+    "en": "Recorded species"
+  },
+  "indicators/indicators/species/unit": {
+    "zh-TW": "種",
+    "en": "species"
+  },
+  "indicators/indicators/species/period": {
+    "zh-TW": "2026 年 10 月 23 日查詢",
+    "en": "queried 23 October 2026"
+  },
+  "indicators/indicators/species/source/agency": {
+    "zh-TW": "臺灣物種名錄 TaiCOL",
+    "en": "Catalogue of Life in Taiwan (TaiCOL)"
+  },
+  "indicators/indicators/species/insight": {
+    "zh-TW": "其中特有種 9,881 種，約占一成五；這是名錄資料庫的即時計數，含外來種，會隨更新變動。",
+    "en": "9,881 of them, about 15%, are endemic. This is a live count from the catalogue database, including introduced species, and changes as it is updated."
+  },
+  "indicators/indicators/species/why": {
+    "zh-TW": "將近一萬種特有種只在台灣找得到，在這裡消失就是從地球上消失，能保護它們的只有台灣。",
+    "en": "Nearly 10,000 endemic species live nowhere but Taiwan. If they disappear here they disappear from Earth, and only Taiwan can protect them."
+  },
+  "indicators/indicators/land-area/title": {
+    "zh-TW": "有效管轄土地面積",
+    "en": "Land area under effective jurisdiction"
+  },
+  "indicators/indicators/land-area/unit": {
+    "zh-TW": "平方公里",
+    "en": "km²"
+  },
+  "indicators/indicators/land-area/period": {
+    "zh-TW": "官方國情簡介",
+    "en": "official country profile"
+  },
+  "indicators/indicators/land-area/source/agency": {
+    "zh-TW": "行政院",
+    "en": "Executive Yuan"
+  },
+  "indicators/indicators/land-area/insight": {
+    "zh-TW": "包含台灣本島、澎湖、金門、馬祖與東沙等離島。",
+    "en": "Includes the main island of Taiwan plus Penghu, Kinmen, Matsu, Dongsha and other outlying islands."
+  },
+  "indicators/indicators/land-area/why": {
+    "zh-TW": "本島的山地與丘陵台地占了將近七成，平原與盆地只有三成一。六都住了全國 69.87% 的人，土地只占 30.12%。",
+    "en": "Mountains, hills and terraces make up nearly 70% of the main island; plains and basins only 31%. The six special municipalities hold 69.87% of the population on 30.12% of the land."
+  },
+  "indicators/indicators/yushan/title": {
+    "zh-TW": "玉山主峰海拔",
+    "en": "Elevation of Yushan"
+  },
+  "indicators/indicators/yushan/unit": {
+    "zh-TW": "公尺",
+    "en": "m"
+  },
+  "indicators/indicators/yushan/period": {
+    "zh-TW": "官方公告值",
+    "en": "official figure"
+  },
+  "indicators/indicators/yushan/source/agency": {
+    "zh-TW": "行政院",
+    "en": "Executive Yuan"
+  },
+  "indicators/indicators/yushan/insight": {
+    "zh-TW": "東亞第一高峰；一座三萬多平方公里的島，從海平面到將近四千公尺。",
+    "en": "The highest peak in East Asia: an island of some 36,000 km² that climbs from sea level to almost 4,000 metres."
+  },
+  "indicators/indicators/yushan/why": {
+    "zh-TW": "從海平面到將近四千公尺，台灣的氣候從熱帶到寒帶都有。山高也讓河短流急，下大雨時水來得快，乾旱時又留不住。",
+    "en": "From sea level to nearly 4,000 metres, Taiwan spans climates from tropical to alpine. High mountains also make rivers short and fast: in heavy rain the water comes quickly, and in a drought it cannot be held."
+  },
+  "indicators/indicators/rainfall/title": {
+    "zh-TW": "年平均降雨量",
+    "en": "Average annual rainfall"
+  },
+  "indicators/indicators/rainfall/display": {
+    "zh-TW": "約 2,500 毫米",
+    "en": "about 2,500 mm"
+  },
+  "indicators/indicators/rainfall/period": {
+    "zh-TW": "長期平均",
+    "en": "long-term average"
+  },
+  "indicators/indicators/rainfall/source/agency": {
+    "zh-TW": "交通部中央氣象署",
+    "en": "Central Weather Administration"
+  },
+  "indicators/indicators/rainfall/insight": {
+    "zh-TW": "是世界平均的 2.5 倍；但雨集中在梅雨與颱風季、河短流急，水留不太住。",
+    "en": "Two and a half times the world average, but it falls mostly in the plum-rain and typhoon seasons on short, steep rivers, so little of it stays."
+  },
+  "indicators/indicators/rainfall/why": {
+    "zh-TW": "雨量是世界平均的兩倍多，台灣卻常缺水，因為雨集中在梅雨與颱風季，河短流急又留不住。乾旱時，農業、工業與家庭用水得排先後。",
+    "en": "Rainfall is more than double the world average, yet Taiwan often runs short because the rain comes in the plum-rain and typhoon seasons and short, fast rivers cannot hold it. In a drought, farms, industry and households have to be put in order of priority."
+  },
+  "indicators/indicators/presidential-turnout/title": {
+    "zh-TW": "總統大選投票率",
+    "en": "Presidential election turnout"
+  },
+  "indicators/indicators/presidential-turnout/period": {
+    "zh-TW": "2024 年 1 月",
+    "en": "January 2024"
+  },
+  "indicators/indicators/presidential-turnout/compare/period": {
+    "zh-TW": "2020 年",
+    "en": "2020"
+  },
+  "indicators/indicators/presidential-turnout/source/agency": {
+    "zh-TW": "中央選舉委員會",
+    "en": "Central Election Commission"
+  },
+  "indicators/indicators/presidential-turnout/insight": {
+    "zh-TW": "選舉人 1,955 萬人，投票 1,405 萬人。",
+    "en": "19.55 million eligible voters, 14.05 million of whom voted."
+  },
+  "indicators/indicators/presidential-turnout/why": {
+    "zh-TW": "台灣沒有強制投票，投票率是選民自己決定出門的結果。投票率越高，當選人的民意基礎越完整，2016 年的 66.27% 是八屆裡最低的一次。",
+    "en": "Voting is not compulsory in Taiwan, so turnout reflects voters' own choice to go to the polls. The higher it is, the broader the winner's mandate; 66.27% in 2016 was the lowest of eight elections."
+  },
+  "indicators/indicators/presidential-turnout/seriesNote": {
+    "zh-TW": "八屆總統大選",
+    "en": "Eight presidential elections"
+  },
+  "indicators/indicators/legislature-seats/title": {
+    "zh-TW": "立法委員總席次",
+    "en": "Seats in the Legislative Yuan"
+  },
+  "indicators/indicators/legislature-seats/unit": {
+    "zh-TW": "席",
+    "en": "seats"
+  },
+  "indicators/indicators/legislature-seats/period": {
+    "zh-TW": "第 11 屆（2024 年起）",
+    "en": "11th term (from 2024)"
+  },
+  "indicators/indicators/legislature-seats/source/agency": {
+    "zh-TW": "立法院",
+    "en": "Legislative Yuan"
+  },
+  "indicators/indicators/legislature-seats/insight": {
+    "zh-TW": "區域 73 席、不分區 34 席、原住民 6 席；不分區依政黨票比例分配。",
+    "en": "73 constituency seats, 34 party-list seats and 6 Indigenous seats; party-list seats are shared out by party vote."
+  },
+  "indicators/indicators/legislature-seats/why": {
+    "zh-TW": "113 席決定法案與預算的去留。2024 年起沒有任何一黨過半，法案要過，就得跨黨找票。",
+    "en": "The 113 seats decide which bills and budgets pass. Since 2024 no party has held a majority, so legislation needs votes from across party lines."
+  },
+  "indicators/indicators/freedom-house/title": {
+    "zh-TW": "Freedom House 自由度",
+    "en": "Freedom House score"
+  },
+  "indicators/indicators/freedom-house/display": {
+    "zh-TW": "93／100",
+    "en": "93/100"
+  },
+  "indicators/indicators/freedom-house/period": {
+    "zh-TW": "2026 年報告",
+    "en": "2026 report"
+  },
+  "indicators/indicators/freedom-house/compare/display": {
+    "zh-TW": "94／100",
+    "en": "94/100"
+  },
+  "indicators/indicators/freedom-house/compare/period": {
+    "zh-TW": "2025 年報告",
+    "en": "2025 report"
+  },
+  "indicators/indicators/freedom-house/source/agency": {
+    "zh-TW": "Freedom House",
+    "en": "Freedom House"
+  },
+  "indicators/indicators/freedom-house/insight": {
+    "zh-TW": "列為「自由」；政治權利 38／40、公民自由 55／60。",
+    "en": "Rated Free: political rights 38/40, civil liberties 55/60."
+  },
+  "indicators/indicators/freedom-house/why": {
+    "zh-TW": "這個分數衡量選舉、言論、集會與司法的保障。台灣在戒嚴結束後三十多年內，從一黨威權走到 93 分。",
+    "en": "The score measures protections for elections, speech, assembly and the courts. Taiwan reached 93 within about three decades of the end of martial law, starting from one-party authoritarian rule."
+  },
+  "indicators/indicators/press-freedom/title": {
+    "zh-TW": "新聞自由指數名次",
+    "en": "World Press Freedom Index rank"
+  },
+  "indicators/indicators/press-freedom/display": {
+    "zh-TW": "第 28 名",
+    "en": "28th"
+  },
+  "indicators/indicators/press-freedom/period": {
+    "zh-TW": "2026 年（180 國）",
+    "en": "2026 (of 180)"
+  },
+  "indicators/indicators/press-freedom/compare/display": {
+    "zh-TW": "第 24 名",
+    "en": "24th"
+  },
+  "indicators/indicators/press-freedom/compare/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/press-freedom/source/agency": {
+    "zh-TW": "無國界記者 RSF",
+    "en": "Reporters Without Borders (RSF)"
+  },
+  "indicators/indicators/press-freedom/insight": {
+    "zh-TW": "分數從 77.04 降到 75.44，名次掉了四名。",
+    "en": "The score fell from 77.04 to 75.44, a drop of four places."
+  },
+  "indicators/indicators/press-freedom/why": {
+    "zh-TW": "無國界記者的評分看政治、經濟、法律、社會與安全五個面向，名次一年掉四名，代表記者的工作環境被評得更差。選舉與公共辯論，都建立在記者能不能自由報導上。",
+    "en": "Reporters Without Borders scores five areas: political, economic, legal, social and security. Falling four places in a year means journalists' working conditions were judged to have worsened. Elections and public debate rest on whether journalists can report freely."
+  },
+  "indicators/indicators/martial-law/title": {
+    "zh-TW": "戒嚴時期",
+    "en": "Martial law"
+  },
+  "indicators/indicators/martial-law/unit": {
+    "zh-TW": "年",
+    "en": "years"
+  },
+  "indicators/indicators/martial-law/period": {
+    "zh-TW": "1949 年 5 月 20 日至 1987 年 7 月 15 日",
+    "en": "20 May 1949 to 15 July 1987"
+  },
+  "indicators/indicators/martial-law/source/agency": {
+    "zh-TW": "行政院",
+    "en": "Executive Yuan"
+  },
+  "indicators/indicators/martial-law/insight": {
+    "zh-TW": "1949 年 5 月 19 日宣告、20 日起實施，到 1987 年 7 月 15 日解嚴；九年後台灣第一次直選總統。",
+    "en": "Declared on 19 May 1949 and in force from the 20th until it was lifted on 15 July 1987; nine years later Taiwan held its first direct presidential election."
+  },
+  "indicators/indicators/martial-law/why": {
+    "zh-TW": "戒嚴三十八年裡，軍事機關判決非現役軍人的刑事案件共 29,407 件。解嚴之後，報禁、動員戡亂與萬年國會在五年內陸續結束，轉型正義與政治檔案的開放也才能開始。",
+    "en": "During 38 years of martial law, military courts tried 29,407 criminal cases against civilians. Within five years of its end, the newspaper ban, the Period of Mobilization and the never-re-elected legislature were all gone, and transitional justice and the opening of political archives could begin."
+  },
+  "indicators/indicators/monuments/title": {
+    "zh-TW": "古蹟",
+    "en": "Designated monuments"
+  },
+  "indicators/indicators/monuments/unit": {
+    "zh-TW": "處",
+    "en": "sites"
+  },
+  "indicators/indicators/monuments/period": {
+    "zh-TW": "2026 年 5 月 31 日",
+    "en": "31 May 2026"
+  },
+  "indicators/indicators/monuments/source/agency": {
+    "zh-TW": "文化部（資料來源：文化資產局）",
+    "en": "Ministry of Culture (Bureau of Cultural Heritage)"
+  },
+  "indicators/indicators/monuments/insight": {
+    "zh-TW": "另有歷史建築 1,786 處、文化景觀 79 處、考古遺址 58 處，數的是已在文資系統登錄的件數。",
+    "en": "Plus 1,786 historic buildings, 79 cultural landscapes and 58 archaeological sites, counting entries registered in the heritage database."
+  },
+  "indicators/indicators/monuments/why": {
+    "zh-TW": "登錄成古蹟之後，拆除與改建都要經過審議。1,063 處古蹟加上 1,786 處歷史建築，是法律保護、不能說拆就拆的老房子與遺址。",
+    "en": "Once listed, a monument cannot be demolished or altered without review. These 1,063 monuments and 1,786 historic buildings are the old structures and sites the law protects from being torn down at will."
+  },
+  "indicators/indicators/museums/title": {
+    "zh-TW": "博物館及地方文化館",
+    "en": "Museums and local cultural centres"
+  },
+  "indicators/indicators/museums/unit": {
+    "zh-TW": "家",
+    "en": "venues"
+  },
+  "indicators/indicators/museums/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/museums/compare/period": {
+    "zh-TW": "2018 年",
+    "en": "2018"
+  },
+  "indicators/indicators/museums/source/agency": {
+    "zh-TW": "文化部統計處",
+    "en": "Ministry of Culture"
+  },
+  "indicators/indicators/museums/insight": {
+    "zh-TW": "2022、2023 年是 348 家的高點，2024 年少了 5 家。",
+    "en": "A high of 348 in 2022 and 2023, then five fewer in 2024."
+  },
+  "indicators/indicators/museums/why": {
+    "zh-TW": "博物館與地方文化館保存的是各地的文物、老照片與產業紀錄，館舍一關，這些收藏就得另找地方存放。2024 年比前一年少了 5 家。",
+    "en": "Museums and local culture halls hold each place's artefacts, old photographs and industrial records; when one closes, its collection has to find another home. There were five fewer in 2024 than the year before."
+  },
+  "indicators/indicators/isbn-titles/title": {
+    "zh-TW": "新書（ISBN 申請種數）",
+    "en": "New titles (ISBN applications)"
+  },
+  "indicators/indicators/isbn-titles/unit": {
+    "zh-TW": "種",
+    "en": "titles"
+  },
+  "indicators/indicators/isbn-titles/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/isbn-titles/compare/period": {
+    "zh-TW": "2023 年",
+    "en": "2023"
+  },
+  "indicators/indicators/isbn-titles/source/agency": {
+    "zh-TW": "文化部統計處（原始資料：國家圖書館 ISBN 中心）",
+    "en": "Ministry of Culture (from the National Central Library ISBN Center)"
+  },
+  "indicators/indicators/isbn-titles/insight": {
+    "zh-TW": "2020 年到 2021 年從 3.5 萬種跳到 5.8 萬種，疑似統計口徑改變，跨這兩年比較要小心。",
+    "en": "The count jumped from 35,000 to 58,000 between 2020 and 2021, apparently a change in how it is counted, so compare across those years with care."
+  },
+  "indicators/indicators/isbn-titles/why": {
+    "zh-TW": "一年五萬多種新書，平均每天一百五十種，從寫作、翻譯、編輯到印刷與書店的工作，都靠這個量撐著。",
+    "en": "More than 50,000 new titles a year, about 150 a day, sustain the work of writers, translators, editors, printers and bookshops."
+  },
+  "indicators/indicators/temples/title": {
+    "zh-TW": "登記有案寺廟",
+    "en": "Registered temples"
+  },
+  "indicators/indicators/temples/unit": {
+    "zh-TW": "座",
+    "en": "temples"
+  },
+  "indicators/indicators/temples/period": {
+    "zh-TW": "2015 年底（最新一次全國統計）",
+    "en": "end of 2015 (latest national count)"
+  },
+  "indicators/indicators/temples/source/agency": {
+    "zh-TW": "內政部統計處",
+    "en": "Ministry of the Interior"
+  },
+  "indicators/indicators/temples/insight": {
+    "zh-TW": "道教占 78.5%、佛教 19.3%；另有教會（堂）3,280 座。這是內政部能找到的最新年度，現況請以全國宗教資訊網為準。",
+    "en": "78.5% Taoist and 19.3% Buddhist, alongside 3,280 churches. This is the latest year the ministry has published; check its religion portal for current figures."
+  },
+  "indicators/indicators/temples/why": {
+    "zh-TW": "一萬兩千多座登記寺廟是地方生活的節點：廟會、陣頭、候選人拜票與社區公共事務，常常在廟口發生。",
+    "en": "More than 12,000 registered temples are nodes of local life: festivals, processions, campaign stops and community affairs often happen in front of a temple."
+  },
+  "indicators/indicators/domestic-film-share/title": {
+    "zh-TW": "國片觀影人次占比",
+    "en": "Taiwanese films' share of cinema admissions"
+  },
+  "indicators/indicators/domestic-film-share/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/domestic-film-share/compare/period": {
+    "zh-TW": "2017 年",
+    "en": "2017"
+  },
+  "indicators/indicators/domestic-film-share/source/agency": {
+    "zh-TW": "文化部統計處",
+    "en": "Ministry of Culture"
+  },
+  "indicators/indicators/domestic-film-share/insight": {
+    "zh-TW": "2020、2021 年衝到兩成以上，是疫情讓好萊塢片停映的那兩年；2024 年全國觀影 2,335 萬人次。",
+    "en": "It jumped above 20% in 2020 and 2021, the years the pandemic halted Hollywood releases; total admissions in 2024 were 23.4 million."
+  },
+  "indicators/indicators/domestic-film-share/why": {
+    "zh-TW": "國片在本地票房能拿到多少，影響台灣電影能不能回收成本、再拍下一部。2020、2021 年好萊塢片停映時衝到兩成以上，一般年份只有一成上下。",
+    "en": "How much of the local box office Taiwanese films take affects whether they can recoup their costs and fund the next one. When Hollywood releases stopped in 2020 and 2021 the share passed 20%; in a normal year it is around 10%."
+  },
+  "indicators/indicators/rice-per-capita/title": {
+    "zh-TW": "每人每年吃的白米",
+    "en": "Rice eaten per person per year"
+  },
+  "indicators/indicators/rice-per-capita/unit": {
+    "zh-TW": "公斤",
+    "en": "kg"
+  },
+  "indicators/indicators/rice-per-capita/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/rice-per-capita/compare/display": {
+    "zh-TW": "48.6 公斤",
+    "en": "48.6 kg"
+  },
+  "indicators/indicators/rice-per-capita/compare/period": {
+    "zh-TW": "2005 年",
+    "en": "2005"
+  },
+  "indicators/indicators/rice-per-capita/source/agency": {
+    "zh-TW": "農業部統計處（糧食供需年報）",
+    "en": "Ministry of Agriculture (food balance sheet)"
+  },
+  "indicators/indicators/rice-per-capita/insight": {
+    "zh-TW": "2025 年的 41.8 公斤是有紀錄以來最低，二十年少了將近 7 公斤；農業部把外送讓自己煮飯變少列為原因之一。",
+    "en": "2025's 41.8 kg is the lowest on record, nearly 7 kg less than twenty years earlier. The ministry cites food delivery, which means less home cooking, as one reason."
+  },
+  "indicators/indicators/rice-per-capita/why": {
+    "zh-TW": "米吃得少，國產米反而有剩，2025 年稻米的自給率是 107.3%。種稻的田要繼續種米還是改種別的，取決於米還賣不賣得掉。",
+    "en": "With less rice eaten, Taiwan now grows more than it needs: rice self-sufficiency was 107.3% in 2025. Whether paddy fields keep growing rice or switch crops depends on whether the rice still sells."
+  },
+  "indicators/indicators/meat-per-capita/title": {
+    "zh-TW": "每人每年肉類供給量",
+    "en": "Meat supply per person per year"
+  },
+  "indicators/indicators/meat-per-capita/unit": {
+    "zh-TW": "公斤",
+    "en": "kg"
+  },
+  "indicators/indicators/meat-per-capita/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/meat-per-capita/source/agency": {
+    "zh-TW": "農業部統計處",
+    "en": "Ministry of Agriculture"
+  },
+  "indicators/indicators/meat-per-capita/insight": {
+    "zh-TW": "跟穀類（87.6 公斤）幾乎一樣多，是白米的兩倍；蔬菜 108.8、水果 104.3 公斤最多。",
+    "en": "Almost the same as cereals (87.6 kg) and twice the rice; vegetables (108.8 kg) and fruit (104.3 kg) top the list."
+  },
+  "indicators/indicators/meat-per-capita/why": {
+    "zh-TW": "每人每年 86.8 公斤肉，按重量算已經跟穀類一樣多，是白米的兩倍。餐桌上的主角換了，台灣吃進去的熱量也只有三成是自己生產的。",
+    "en": "At 86.8 kg per person a year, meat now matches grains by weight and is twice the amount of white rice. The table has a new centrepiece, and only about 30% of the calories Taiwan eats are produced at home."
+  },
+  "indicators/indicators/food-self-sufficiency/title": {
+    "zh-TW": "糧食自給率（熱量）",
+    "en": "Food self-sufficiency (calories)"
+  },
+  "indicators/indicators/food-self-sufficiency/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/food-self-sufficiency/compare/period": {
+    "zh-TW": "1984 年（有統計的第一年）",
+    "en": "1984 (first year on record)"
+  },
+  "indicators/indicators/food-self-sufficiency/source/agency": {
+    "zh-TW": "農業部統計處",
+    "en": "Ministry of Agriculture"
+  },
+  "indicators/indicators/food-self-sufficiency/insight": {
+    "zh-TW": "1992 年第一次跌破四成，近二十年都在三成上下。稻米本身的自給率是 107.3%，缺口都在稻米以外的作物。",
+    "en": "Below 40% since 1992 and around 30% for two decades. Rice alone is 107.3% self-sufficient; the whole shortfall lies in crops other than rice."
+  },
+  "indicators/indicators/food-self-sufficiency/why": {
+    "zh-TW": "吃進去的熱量七成靠進口，海運一中斷，影響的就是每天的三餐，所以糧食自給率與戰略儲備會被放進國家安全一起談。",
+    "en": "Seventy percent of the calories Taiwan eats are imported; if shipping is cut off, everyday meals are affected. That is why food self-sufficiency and strategic reserves are discussed as national security."
+  },
+  "indicators/indicators/thsr-ridership/title": {
+    "zh-TW": "高鐵全年旅運量",
+    "en": "High-speed rail passengers per year"
+  },
+  "indicators/indicators/thsr-ridership/unit": {
+    "zh-TW": "人次",
+    "en": "trips"
+  },
+  "indicators/indicators/thsr-ridership/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/thsr-ridership/compare/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/thsr-ridership/source/agency": {
+    "zh-TW": "台灣高速鐵路公司（114 年年報）",
+    "en": "Taiwan High Speed Rail Corporation (2025 annual report)"
+  },
+  "indicators/indicators/thsr-ridership/insight": {
+    "zh-TW": "平均每天約 22.5 萬人次，座位利用率 71.59%。",
+    "en": "About 225,000 trips a day, with 71.59% of seats filled."
+  },
+  "indicators/indicators/thsr-ridership/why": {
+    "zh-TW": "高鐵把台北到高雄縮短到一個半小時左右，西部城市之間當天來回變得平常。12 個站都在西部，東部與離島不在這張網上。",
+    "en": "High-speed rail cut Taipei to Kaohsiung to about an hour and a half, making same-day trips between western cities ordinary. All 12 stations are in the west; the east and the outlying islands are not on the network."
+  },
+  "indicators/indicators/taipei-metro-daily/title": {
+    "zh-TW": "臺北捷運平均日運量",
+    "en": "Taipei Metro daily ridership"
+  },
+  "indicators/indicators/taipei-metro-daily/unit": {
+    "zh-TW": "人次",
+    "en": "trips"
+  },
+  "indicators/indicators/taipei-metro-daily/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/taipei-metro-daily/source/agency": {
+    "zh-TW": "臺北市政府主計處（依交通局統計）",
+    "en": "Taipei City Government (transport bureau figures)"
+  },
+  "indicators/indicators/taipei-metro-daily/insight": {
+    "zh-TW": "全年 7.7 億人次，比前一年多 3.7%；台北車站一站每天進出 30 萬人次。",
+    "en": "770 million trips a year, up 3.7%; Taipei Main Station alone sees 300,000 entries and exits a day."
+  },
+  "indicators/indicators/taipei-metro-daily/why": {
+    "zh-TW": "每天 210 萬人次搭捷運，台北是台灣少數可以不靠機車與汽車生活的地方。全國無車家庭的出門有 53.3% 靠公共運輸，有車家庭只有 13.7%。",
+    "en": "With 2.1 million trips a day, Taipei is one of the few places in Taiwan where you can live without a scooter or car. Nationally, households without a vehicle make 53.3% of their trips by public transport, against 13.7% for households with one."
+  },
+  "indicators/indicators/inbound-visitors/title": {
+    "zh-TW": "來台旅客",
+    "en": "Visitor arrivals"
+  },
+  "indicators/indicators/inbound-visitors/unit": {
+    "zh-TW": "人次",
+    "en": "arrivals"
+  },
+  "indicators/indicators/inbound-visitors/period": {
+    "zh-TW": "2025 年",
+    "en": "2025"
+  },
+  "indicators/indicators/inbound-visitors/compare/period": {
+    "zh-TW": "2024 年",
+    "en": "2024"
+  },
+  "indicators/indicators/inbound-visitors/source/agency": {
+    "zh-TW": "交通部觀光署（資料來源：內政部移民署）",
+    "en": "Tourism Administration (National Immigration Agency data)"
+  },
+  "indicators/indicators/inbound-visitors/insight": {
+    "zh-TW": "日本旅客 148 萬人次最多；同年國人出國 1,894 萬人次，是來台人數的 2.2 倍。",
+    "en": "Japan sent the most visitors, 1.48 million; the same year residents made 18.94 million trips abroad, 2.2 times as many."
+  },
+  "indicators/indicators/inbound-visitors/why": {
+    "zh-TW": "旅客的消費落在住宿、餐飲與交通，撐起很多地方的工作。國人出國的人次是來台旅客的兩倍多，這段落差，就是台灣觀光還能長大的空間。",
+    "en": "Visitor spending goes to hotels, restaurants and transport and supports jobs across the country. Taiwanese make more than twice as many trips abroad as visitors make to Taiwan; that gap is the room Taiwan's tourism still has to grow."
+  },
+  "indicators/indicators/olympic-medals/title": {
+    "zh-TW": "巴黎奧運獎牌",
+    "en": "Medals at Paris 2024"
+  },
+  "indicators/indicators/olympic-medals/display": {
+    "zh-TW": "2 金 5 銅",
+    "en": "2 gold, 5 bronze"
+  },
+  "indicators/indicators/olympic-medals/period": {
+    "zh-TW": "2024 年夏季奧運（以「中華台北」名義參賽）",
+    "en": "2024 Summer Olympics (competing as \"Chinese Taipei\")"
+  },
+  "indicators/indicators/olympic-medals/source/agency": {
+    "zh-TW": "國際奧會獎牌榜",
+    "en": "IOC medal table"
+  },
+  "indicators/indicators/olympic-medals/insight": {
+    "zh-TW": "金牌是李洋、王齊麟的羽球男雙，以及林郁婷的拳擊女子 57 公斤級。",
+    "en": "The golds came from Lee Yang and Wang Chi-lin in men's doubles badminton and Lin Yu-ting in women's 57 kg boxing."
+  },
+  "indicators/indicators/olympic-medals/why": {
+    "zh-TW": "台灣在奧運以「中華台北」名義參賽，用的是梅花會旗，不能用國旗。2024 年巴黎奧運麟洋配奪金那一夜，全場跟著會旗唱出國旗歌的歌詞。",
+    "en": "Taiwan competes at the Olympics as \"Chinese Taipei\" under the plum-blossom Olympic flag, not its national flag. On the night Lee Yang and Wang Chi-lin won gold in Paris in 2024, the crowd sang the words of the National Flag Anthem as the Olympic flag rose."
+  },
+  "threads/threads/fertility/question": {
+    "zh-TW": "出生的孩子少了一半，會先撞到誰？",
+    "en": "Births have halved. Who feels it first?"
+  },
+  "threads/threads/fertility/essay": {
+    "zh-TW": "1963 年，台灣出生了 42.7 萬個嬰兒，是有統計以來最多的一年。那一代的父母生四五個孩子很平常，1960 年的總生育率是 5.75。\n\n六十多年後，2025 年的出生數是 107,812 人，只剩當年的四分之一。總生育率在 1984 年跌破維持人口不減所需的 2.1，之後再也沒有回到 2.1，2025 年的 0.695 是歷史最低。\n\n生得少，最直接的原因是結婚的人少了。台灣的孩子幾乎都在婚姻裡出生，非婚生育只占 2% 到 4%，結婚數一掉，出生數幾年後就跟著掉。2025 年結婚 104,376 對，比前一年少了 15.2%。\n\n出生數會像一道浪往前推：少生的孩子 6 年後是國小新生，18 年後是大學新生，也差不多是役男與新進勞工。這道浪已經推過國小，正在推過大學。同一段時間，65 歲以上的人在 2025 年底跨過總人口的兩成，台灣進入超高齡社會。",
+    "en": "In 1963, 427,000 babies were born in Taiwan, the most in any year on record. Four or five children was ordinary for that generation of parents: the total fertility rate in 1960 was 5.75.\n\nSixty-odd years later, 2025 saw 107,812 births, a quarter of that peak. Fertility fell below the 2.1 needed to keep the population stable in 1984 and has never returned to it; 0.695 in 2025 is the lowest ever recorded.\n\nThe most direct reason is that fewer people marry. Almost every child in Taiwan is born within marriage (births outside it are only 2–4%), so when marriages fall, births follow a few years later. In 2025, 104,376 couples married, 15.2% fewer than the year before.\n\nBirths move forward like a wave: children not born today are missing from primary school six years later, and from university, the army and the workforce about eighteen years later. The wave has already passed through primary schools and is now reaching universities. Meanwhile, at the end of 2025 people aged 65 and over passed a fifth of the population, making Taiwan a super-aged society."
+  },
+  "threads/threads/fertility/chart/body": {
+    "zh-TW": "七十年間，14 歲以下從四成三掉到一成一，65 歲以上從 2% 爬到兩成（占總人口 %）\n年 | 0–14 歲 | 15–64 歲 | 65 歲以上\n1955 | 43.41 | 54.14 | 2.45\n1975 | 35.37 | 61.13 | 3.50\n1995 | 23.77 | 68.60 | 7.64\n2015 | 13.57 | 73.92 | 12.51\n2025 | 11.51 | 68.43 | 20.06\n來源：內政部戶政司人口統計資料（各年底三階段人口），1970 年以前不含金門、連江",
+    "en": "In seventy years, under-15s fell from 43% to 11% of the population and over-65s rose from 2% to 20% (% of total)\nYear | Ages 0–14 | 15–64 | 65 and over\n1955 | 43.41 | 54.14 | 2.45\n1975 | 35.37 | 61.13 | 3.50\n1995 | 23.77 | 68.60 | 7.64\n2015 | 13.57 | 73.92 | 12.51\n2025 | 11.51 | 68.43 | 20.06\nSource: Department of Household Registration, year-end population by age group; figures before 1975 exclude Kinmen and Lienchiang"
+  },
+  "threads/threads/fertility/chain/0/layer": {
+    "zh-TW": "國小",
+    "en": "Primary schools"
+  },
+  "threads/threads/fertility/chain/0/text": {
+    "zh-TW": "2026 年，小一新生少到只開得成一個班的國小，全台已經有 110 所。",
+    "en": "By 2026, 110 primary schools across Taiwan had so few first-graders that they could open only one class."
+  },
+  "threads/threads/fertility/chain/1/layer": {
+    "zh-TW": "大學",
+    "en": "Universities"
+  },
+  "threads/threads/fertility/chain/1/text": {
+    "zh-TW": "近年停辦的 17 所私立大專留下 1,064 名教職員，透過教育部媒合平台轉職成功的只有 14%。",
+    "en": "The 17 private colleges that recently closed left 1,064 staff behind; only 14% found new jobs through the Ministry of Education's matching platform."
+  },
+  "threads/threads/fertility/chain/2/layer": {
+    "zh-TW": "國防",
+    "en": "Defence"
+  },
+  "threads/threads/fertility/chain/2/text": {
+    "zh-TW": "役男在 2023 年首度跌破 10 萬人（97,828 人），推估到 2031 年只剩 7.4 萬。",
+    "en": "Men of conscription age fell below 100,000 for the first time in 2023 (97,828) and are projected to drop to 74,000 by 2031."
+  },
+  "threads/threads/fertility/chain/3/layer": {
+    "zh-TW": "職場",
+    "en": "Workforce"
+  },
+  "threads/threads/fertility/chain/3/text": {
+    "zh-TW": "國發會估計人才缺口會從 40 萬擴大到 2030 年的 48 萬。2025 年 4 月，移工人數達到 83 萬。",
+    "en": "The National Development Council expects the talent gap to widen from 400,000 to 480,000 by 2030. In April 2025, migrant workers numbered 830,000."
+  },
+  "threads/threads/fertility/chain/4/layer": {
+    "zh-TW": "照顧與年金",
+    "en": "Care and pensions"
+  },
+  "threads/threads/fertility/chain/4/text": {
+    "zh-TW": "照顧台灣長輩的外籍看護有 21.5 萬人。勞保的破產年靠撥補 3,870 億元，才從 2028 年延到 2031 年。",
+    "en": "215,000 foreign caregivers look after Taiwan's elderly. Labour insurance was kept solvent from 2028 to 2031 only by a NT$387 billion injection."
+  },
+  "threads/threads/fertility/next": {
+    "zh-TW": "2025 年出生的 10.8 萬人，2031 年上小學、2043 年到上大學的年紀。學校要怎麼合併或轉型、移工與新住民怎麼在台灣安身、長照與勞保的錢從哪裡來，這些決定都還來得及在這道浪抵達之前做。",
+    "en": "The 107,812 children born in 2025 start primary school in 2031 and reach university age in 2043. How schools merge or change, how migrant workers and new immigrants settle in Taiwan, and how long-term care and labour insurance are funded can all still be decided before the wave arrives."
+  },
+  "threads/threads/chips/question": {
+    "zh-TW": "台灣怎麼變成晶片之島，又為此付出了什麼？",
+    "en": "How did Taiwan become the chip island, and what has it cost?"
+  },
+  "threads/threads/chips/essay": {
+    "zh-TW": "戰後的台灣先靠稻米與蔗糖換外匯，工業出口則從替別人加工起步：1966 年 12 月 3 日高雄加工出口區啟用，廠商在區內加工進口原料、產品全部外銷。1980 年 12 月 15 日新竹科學園區啟用，1987 年 2 月台積電成立，只替別人製造晶片、不做自己品牌的晶圓代工，從這裡開始。\n\n2025 年，機械及電機設備（晶片、伺服器、電腦都在這一類）占了出口的八成，2001 年是五成五。資通與視聽產品一年出口 2,511.5 億美元，比前一年多了 89.5%。2026 年第 2 季，台積電拿下全球前十大晶圓代工營收的 72.5%。\n\n晶圓廠需要穩定的電、大量的水與成群的工程師，產業越擴張，這些資源就越常要跟農業與傳統產業一起分。\n\n晶片讓台灣有了全世界都需要的東西，出口、股市與用電也因此繞著同一個產業轉：2026 年 9 月底，台積電一家約占上市公司總市值的四成一。這份集中是台灣的籌碼，也讓台灣的景氣跟一個產業綁在一起。",
+    "en": "After the war Taiwan earned foreign exchange first from rice and sugar; its industrial exports started with processing work for others: on 3 December 1966 the Kaohsiung Export Processing Zone opened, where firms imported raw materials, processed them and exported everything. Hsinchu Science Park opened on 15 December 1980, and in February 1987 TSMC was founded on a new model, the pure-play foundry that makes chips for others and sells no brand of its own.\n\nIn 2025, machinery and electrical equipment (the category that includes chips, servers and computers) made up 80% of exports, up from 55% in 2001. Exports of ICT and audio-visual products reached US$251.15 billion, 89.5% more than the year before. In the second quarter of 2026, TSMC took 72.5% of the revenue of the world's ten largest foundries.\n\nChip fabs need steady power, a great deal of water and crowds of engineers, and the more the industry expands, the more often those resources have to be shared with farming and traditional industry.\n\nChips gave Taiwan something the whole world needs, and exports, the stock market and electricity now revolve around a single industry: at the end of September 2026, TSMC alone was about 41% of the listed market's value. That concentration is Taiwan's leverage, and it also ties Taiwan's fortunes to one industry."
+  },
+  "threads/threads/chips/chart/body": {
+    "zh-TW": "機械及電機設備占出口的比重，從 2001 年的五成五升到 2025 年的八成（%）\n年 | 機械及電機設備\n2001 | 55.2\n2005 | 49.7\n2010 | 48.1\n2015 | 52.6\n2020 | 63.2\n2024 | 73.2\n2025 | 80.4\n來源：財政部統計處進出口貿易統計（HS 第十六類含晶片、伺服器、電腦，以出口值除以出口總額）",
+    "en": "Machinery and electrical equipment rose from 55% of exports in 2001 to 80% in 2025 (%)\nYear | Machinery and electrical equipment\n2001 | 55.2\n2005 | 49.7\n2010 | 48.1\n2015 | 52.6\n2020 | 63.2\n2024 | 73.2\n2025 | 80.4\nSource: Ministry of Finance, Department of Statistics, trade statistics (HS Section XVI, which includes chips, servers and computers, divided by total exports)"
+  },
+  "threads/threads/chips/chain/0/layer": {
+    "zh-TW": "電",
+    "en": "Electricity"
+  },
+  "threads/threads/chips/chain/0/text": {
+    "zh-TW": "台積電 2023 年用電 247.75 億度，占全台 8.96%。標準普爾預測，2030 年可能達到全台的 23.7%。",
+    "en": "TSMC used 24.775 billion kWh in 2023, 8.96% of Taiwan's total. S&P projects it could reach 23.7% by 2030."
+  },
+  "threads/threads/chips/chain/1/layer": {
+    "zh-TW": "水與農田",
+    "en": "Water and farmland"
+  },
+  "threads/threads/chips/chain/1/text": {
+    "zh-TW": "台積電每天用水超過 20 萬噸，台南四座再生水廠每天供應的 8.1 萬噸幾乎全給台積電。嘉南農田在 2021 與 2023 年兩度停灌。",
+    "en": "TSMC uses more than 200,000 tonnes of water a day, and almost all 81,000 tonnes a day from Tainan's four water-recycling plants go to it. Chianan farmland stopped irrigating in 2021 and again in 2023."
+  },
+  "threads/threads/chips/chain/2/layer": {
+    "zh-TW": "傳統產業",
+    "en": "Traditional industry"
+  },
+  "threads/threads/chips/chain/2/text": {
+    "zh-TW": "螺絲業面臨人才與電力的雙重排擠，業者說年輕人更傾向進高科技廠，傳承成了難題。",
+    "en": "The screw and fastener industry is squeezed for both workers and electricity; owners say young people would rather join high-tech fabs, leaving no one to take over."
+  },
+  "threads/threads/chips/chain/3/layer": {
+    "zh-TW": "地緣政治",
+    "en": "Geopolitics"
+  },
+  "threads/threads/chips/chain/3/text": {
+    "zh-TW": "台積電掌握全球約 90% 到 92% 的 5 奈米以下先進製程。NVIDIA 在給美國證管會的年報裡，把供應鏈集中在亞太、仰賴台積電列為風險。",
+    "en": "TSMC makes about 90–92% of the world's chips at 5 nanometres and below. In its annual report to the US SEC, NVIDIA lists its concentration in the Asia-Pacific and its reliance on TSMC as risks."
+  },
+  "threads/threads/chips/next": {
+    "zh-TW": "晶片的訂單跟著 AI 走，主計總處預測 2026 年經濟成長 11.05%。接下來要看電與水跟不跟得上：再生能源 2025 年占發電 13.3%，國際客戶要求的綠電，台灣得自己產得出來。",
+    "en": "Chip orders follow AI, and the statistics agency forecasts 11.05% growth for 2026. What to watch is whether power and water can keep up: renewables were 13.3% of generation in 2025, and the green power global customers demand has to be produced in Taiwan."
+  },
+  "threads/threads/earning/question": {
+    "zh-TW": "2025 年經濟長了 8.76%，這些錢從哪裡來，又落在哪裡？",
+    "en": "The economy grew 8.76% in 2025. Where did the money come from, and where did it land?"
+  },
+  "threads/threads/earning/essay": {
+    "zh-TW": "2025 年台灣的經濟成長率是 8.76%，2010 年以來最高，平均每人 GDP 39,515 美元。同一年，出口總額增加 34.9%，資通與視聽產品一年就多賣了一千一百多億美元。\n\n2000 到 2025 年，扣掉物價後的每人 GDP 變成 2.4 倍，受僱員工扣掉物價後的每月經常性薪資只多了 5.5%，其中 2000 到 2020 年幾乎沒動。名目薪資同一段時間漲了 41%，大部分被物價吃掉。\n\n成長落在誰身上，從產業之間的落差就看得出來：在 AI、半導體與電子供應鏈上直接就業的人不到全體一成，餐飲業每人每月總薪資只有電子零組件製造業的 34.6%。\n\n薪資的地板倒是動得比中間快：2016 到 2024 年，最低工資漲了三成七，薪資中位數漲了一成八。2026 年的最低工資是月薪 29,500 元，2027 年起再調到 30,900 元。",
+    "en": "Taiwan's economy grew 8.76% in 2025, the fastest since 2010, and GDP per person reached US$39,515. In the same year total exports rose 34.9%, and sales of ICT and audio-visual products alone rose by more than US$110 billion.\n\nFrom 2000 to 2025, real GDP per person grew 2.4 times, while employees' real regular monthly earnings rose only 5.5%, and barely moved at all between 2000 and 2020. Nominal pay rose 41% over the same period; most of it was eaten by prices.\n\nWho the growth reaches shows in the gap between industries: fewer than one worker in ten is directly employed in the AI, semiconductor and electronics supply chain, and a restaurant worker's total monthly pay is only 34.6% of that in electronic-component manufacturing.\n\nThe floor has moved faster than the middle: from 2016 to 2024 the minimum wage rose 37% while median pay rose 18%. The 2026 minimum wage is NT$29,500 a month, rising to NT$30,900 from 2027."
+  },
+  "threads/threads/earning/chart/body": {
+    "zh-TW": "二十五年間，每人實質 GDP 變成 2.4 倍，實質月薪只多 5.5%（2000 年＝100）\n年 | 每人實質 GDP | 實質經常性薪資\n2000 | 100 | 100\n2005 | 119.2 | 100.8\n2010 | 144.7 | 97.3\n2015 | 164.7 | 98.9\n2020 | 190.4 | 104.1\n2025 | 243.8 | 105.5\n來源：主計總處國民所得統計（連鎖實質 GDP，除以年中人口）、薪資及生產力統計（工業及服務業全體受僱員工每月實質經常性薪資，2021 年價格）。兩者的物價平減方式不同，只比大方向，薪資不含年終與加班",
+    "en": "Over 25 years, real GDP per person grew 2.4 times while real monthly pay rose only 5.5% (2000 = 100)\nYear | Real GDP per person | Real regular pay\n2000 | 100 | 100\n2005 | 119.2 | 100.8\n2010 | 144.7 | 97.3\n2015 | 164.7 | 98.9\n2020 | 190.4 | 104.1\n2025 | 243.8 | 105.5\nSources: DGBAS national accounts (chained real GDP divided by mid-year population) and earnings statistics (real regular monthly earnings of all employees in industry and services, 2021 prices). The two use different price deflators, so compare direction only; pay excludes bonuses and overtime"
+  },
+  "threads/threads/earning/chain/0/layer": {
+    "zh-TW": "收入分配",
+    "en": "Income distribution"
+  },
+  "threads/threads/earning/chain/0/text": {
+    "zh-TW": "研究台灣經濟的學者江岷樺 2026 年 1 月撰文指出：收入最高的 10% 拿走全台 48% 的收入，最底層的 50% 只分到 12%。",
+    "en": "In January 2026, economist Min-Hua Chiang wrote that the top 10% of earners receive 48% of all income in Taiwan and the bottom 50% only 12%."
+  },
+  "threads/threads/earning/chain/1/layer": {
+    "zh-TW": "薪資的中間",
+    "en": "The middle of the pay scale"
+  },
+  "threads/threads/earning/chain/1/text": {
+    "zh-TW": "全體受僱員工有七成薪水低於平均，這個比例連續六年往上，2026 年上半年第一次過七成。",
+    "en": "Seventy percent of employees earn less than the average wage; the share has risen six years in a row and passed 70% for the first time in the first half of 2026."
+  },
+  "threads/threads/earning/chain/2/layer": {
+    "zh-TW": "薪資的地板",
+    "en": "The wage floor"
+  },
+  "threads/threads/earning/chain/2/text": {
+    "zh-TW": "2025 年最低工資審議，資方主張成長是半導體帶的、傳產與服務業還在困境，勞方說物價對低所得的人更有感，最後定在調漲 3.18%。",
+    "en": "At the 2025 minimum-wage review, employers argued growth came from chips while traditional industries and services were struggling; labour said low earners feel prices more. The council settled on 3.18%."
+  },
+  "threads/threads/earning/chain/3/layer": {
+    "zh-TW": "居住",
+    "en": "Housing"
+  },
+  "threads/threads/earning/chain/3/text": {
+    "zh-TW": "2024 年第 4 季，全國房價所得比 10.76 倍，臺北市 16.43 倍、新北市 14.08 倍。",
+    "en": "In the fourth quarter of 2024, house prices were 10.76 times annual household income nationwide, 16.43 times in Taipei and 14.08 times in New Taipei."
+  },
+  "threads/threads/earning/next": {
+    "zh-TW": "成長會不會落到多數人身上，要看三個數字一起動：薪資中位數、最低工資，以及扣掉物價後的實質薪資。2025 年的薪資中位數會在 11 月底公布。",
+    "en": "Whether growth reaches most people depends on three numbers moving together: median pay, the minimum wage and real wages after inflation. Median pay for 2025 is published at the end of November."
+  },
+  "threads/threads/bowl/question": {
+    "zh-TW": "台灣人吃進去的東西，有多少是台灣自己種的？",
+    "en": "How much of what Taiwan eats does Taiwan grow?"
+  },
+  "threads/threads/bowl/essay": {
+    "zh-TW": "1948 年，台灣的佃農約占農家的 38.7%。土地改革之後，農地落到自耕農手上，1965 年佃農家庭的比例降到 12.61%，今天的小農結構從這裡開始。\n\n之後的六十年，餐桌換了樣子：2001 年每人一年吃 50.1 公斤白米，2025 年剩 41.8 公斤，現在每人每年的肉類有 86.8 公斤，按重量算跟穀類幾乎一樣多。\n\n以熱量計算的糧食自給率，1984 年是 55.6%，1992 年第一次跌破四成，2025 年是 30.4%，吃進去的熱量七成靠進口。稻米反而自給有餘：2025 年稻米的自給率是 107.3%，國產米比國內吃得掉的還多，缺口都在稻米以外的作物。",
+    "en": "In 1948, tenant farmers made up about 38.7% of farming households in Taiwan. Land reform put the land in the hands of owner-farmers, and by 1965 the share of tenant households had fallen to 12.61%; today's pattern of small family farms starts here.\n\nOver the following sixty years the dinner table changed: in 2001 each person ate 50.1 kg of white rice a year, in 2025 41.8 kg, and meat now comes to 86.8 kg per person a year, by weight almost as much as all grains.\n\nMeasured in calories, food self-sufficiency was 55.6% in 1984, fell below 40% for the first time in 1992 and stood at 30.4% in 2025: seven in ten calories are imported. Rice is the exception, with a self-sufficiency rate of 107.3% in 2025, more than the country eats; the whole shortfall lies in crops other than rice."
+  },
+  "threads/threads/bowl/chart/body": {
+    "zh-TW": "以熱量計算的糧食自給率，從 1984 年的 55.6% 降到 2025 年的 30.4%（%）\n年 | 糧食自給率\n1984 | 55.60\n1989 | 45.41\n1994 | 38.49\n1999 | 35.76\n2004 | 32.05\n2009 | 31.85\n2014 | 34.19\n2019 | 32.24\n2024 | 30.78\n2025 | 30.36\n來源：農業部統計處糧食自給率（熱量）開放資料，現行修正序列",
+    "en": "Food self-sufficiency, measured in calories, fell from 55.6% in 1984 to 30.4% in 2025 (%)\nYear | Self-sufficiency\n1984 | 55.60\n1989 | 45.41\n1994 | 38.49\n1999 | 35.76\n2004 | 32.05\n2009 | 31.85\n2014 | 34.19\n2019 | 32.24\n2024 | 30.78\n2025 | 30.36\nSource: Ministry of Agriculture, food self-sufficiency (calories) open data, current revised series"
+  },
+  "threads/threads/bowl/chain/0/layer": {
+    "zh-TW": "產業",
+    "en": "Industry"
+  },
+  "threads/threads/bowl/chain/0/text": {
+    "zh-TW": "2024 年初級農林漁牧業只占 GDP 的 1.5%，就業 49 萬人。連同食品製造、批發零售與餐飲，整條農食鏈占 GDP 6.8%。",
+    "en": "In 2024, primary farming, forestry, fishing and livestock were just 1.5% of GDP, employing 490,000 people. Counting food manufacturing, wholesale, retail and restaurants, the whole agri-food chain was 6.8% of GDP."
+  },
+  "threads/threads/bowl/chain/1/layer": {
+    "zh-TW": "種田的人",
+    "en": "Farmers"
+  },
+  "threads/threads/bowl/chain/1/text": {
+    "zh-TW": "2020 年農業經營者的平均年齡是 64.4 歲。45 歲以下的青農，占比從 1980 年的 39.61% 降到 2015 年的 5.64%。",
+    "en": "The average farm operator was 64.4 years old in 2020. Farmers under 45 fell from 39.61% of the total in 1980 to 5.64% in 2015."
+  },
+  "threads/threads/bowl/chain/2/layer": {
+    "zh-TW": "農地",
+    "en": "Farmland"
+  },
+  "threads/threads/bowl/chain/2/text": {
+    "zh-TW": "約 76% 的農業經營不到一公頃，平均農場規模 1.1 公頃。",
+    "en": "About 76% of farms are smaller than one hectare; the average farm is 1.1 hectares."
+  },
+  "threads/threads/bowl/chain/3/layer": {
+    "zh-TW": "進口",
+    "en": "Imports"
+  },
+  "threads/threads/bowl/chain/3/text": {
+    "zh-TW": "2025 年進口水果的產值 302 億元，第一次突破 300 億，五年漲了 44.5%。",
+    "en": "Imported fruit was worth NT$30.2 billion in 2025, passing NT$30 billion for the first time, up 44.5% in five years."
+  },
+  "threads/threads/bowl/chain/4/layer": {
+    "zh-TW": "水",
+    "en": "Water"
+  },
+  "threads/threads/bowl/chain/4/text": {
+    "zh-TW": "嘉南的農田在 2021 與 2023 年兩度停灌，把水讓給半導體業。",
+    "en": "Chianan farmland stopped irrigating in 2021 and again in 2023 so the water could go to the semiconductor industry."
+  },
+  "threads/threads/bowl/next": {
+    "zh-TW": "接下來要看三件事：自給率能不能守在三成以上、接手種田的人從哪裡來、下一次乾旱時水先給誰。",
+    "en": "Three things to watch: whether self-sufficiency holds above 30%, where the next generation of farmers comes from, and who gets the water first in the next drought."
+  },
+  "threads/threads/democracy/question": {
+    "zh-TW": "戒嚴結束三十多年後，台灣的民主用數字看長什麼樣子？",
+    "en": "More than thirty years after martial law, what does Taiwan's democracy look like in numbers?"
+  },
+  "threads/threads/democracy/essay": {
+    "zh-TW": "1949 年 5 月 20 日起，台灣全省戒嚴，到 1987 年 7 月 15 日零時才解除，一共三十八年。這三十八年裡，集會、結社、辦報與選舉都受到限制，政治案件交給軍事機關審判。\n\n解嚴之後，台灣只用了九年，就從報禁解除、國會全面改選走到 1996 年的總統直選，2000 年第一次政黨輪替。\n\n今天用國際的尺來量，自由之家 2026 年給台灣 93 分，政治權利 38／40、公民自由 55／60。無國界記者的新聞自由指數，台灣 2026 年排第 28 名，比前一年掉了四名。總統大選的投票率在八屆之間從 66.27% 到 82.69%，2024 年是 71.86%。\n\n這套民主從解嚴算起還不到四十年，很多規則還在調整：罷免與公投的門檻怎麼訂、戒嚴時期的檔案怎麼開放、新聞自由怎麼守住。門檻訂在哪裡，決定了投出去的票要多少張才算數。",
+    "en": "From 20 May 1949, Taiwan was placed under martial law; it was lifted at midnight on 15 July 1987, thirty-eight years later. In those years assembly, association, publishing and elections were restricted, and political cases were tried by military courts.\n\nAfter martial law, it took Taiwan only nine years to go from lifting the newspaper ban and fully re-electing its legislature to a direct presidential election in 1996; the first change of ruling party came in 2000.\n\nMeasured by international yardsticks today, Freedom House gives Taiwan 93 points in 2026: 38 of 40 for political rights and 55 of 60 for civil liberties. In Reporters Without Borders' press freedom index, Taiwan ranked 28th in 2026, down four places. Turnout across eight presidential elections has ranged from 66.27% to 82.69%; in 2024 it was 71.86%.\n\nThis democracy is less than forty years old counting from the end of martial law, and many of its rules are still being settled: the thresholds for recalls and referendums, how archives from the martial-law era are opened, how press freedom is protected. Where each threshold is set decides how many votes it takes for a result to count."
+  },
+  "threads/threads/democracy/chart/body": {
+    "zh-TW": "1947 | 二二八事件 | 2 月 27 日台北緝菸事件，隔天罷工、罷市與請願擴及全台\n1949 | 戒嚴 | 5 月 20 日起臺灣全省戒嚴\n1987 | 解嚴 | 7 月 15 日零時起，臺灣地區解除戒嚴\n1991 | 終止動員戡亂 | 5 月 1 日零時終止，同日公布憲法增修條文\n1992 | 國會全面改選 | 5 月修正刑法第一百條，12 月立法院第一次全面改選\n1996 | 第一次總統直選 | 3 月 23 日投票，投票率 76.04%\n2000 | 第一次政黨輪替 | 5 月 20 日不同政黨的總統就任\n2005 | 廢除國民大會 | 修憲改由公民複決\n2019 | 同性婚姻 | 5 月 24 日《司法院釋字第七四八號解釋施行法》施行\n來源：國家人權博物館、國家發展委員會檔案管理局、立法院議政博物館、全國法規資料庫、總統府、中央選舉委員會",
+    "en": "1947 | The 228 Incident | A clash over contraband cigarettes in Taipei on 27 February; the next day strikes, shop closures and petitions spread across Taiwan\n1949 | Martial law | Declared across Taiwan Province from 20 May\n1987 | Martial law lifted | From midnight on 15 July in the Taiwan area\n1991 | Period of Mobilization ends | Ended at midnight on 1 May; constitutional amendments promulgated the same day\n1992 | Legislature fully re-elected | Article 100 of the Criminal Code amended in May; first full election of the Legislative Yuan in December\n1996 | First direct presidential election | Voting on 23 March, turnout 76.04%\n2000 | First change of ruling party | A president from a different party took office on 20 May\n2005 | National Assembly abolished | Constitutional amendments now go to a public referendum\n2019 | Same-sex marriage | The act implementing Judicial Yuan Interpretation No. 748 took effect on 24 May\nSources: National Human Rights Museum, National Archives Administration, Legislative Yuan Parliamentary Museum, Laws & Regulations Database, Office of the President, Central Election Commission"
+  },
+  "threads/threads/democracy/chain/0/layer": {
+    "zh-TW": "司法",
+    "en": "Courts"
+  },
+  "threads/threads/democracy/chain/0/text": {
+    "zh-TW": "戒嚴 38 年內，軍事機關判決非現役軍人的刑事案件共 29,407 件。",
+    "en": "Over the 38 years of martial law, military courts tried 29,407 criminal cases against civilians."
+  },
+  "threads/threads/democracy/chain/1/layer": {
+    "zh-TW": "媒體",
+    "en": "Media"
+  },
+  "threads/threads/democracy/chain/1/text": {
+    "zh-TW": "報禁時期合法報紙只有約 31 家，1988 年 1 月 1 日解除之後，這個市場要面對數百個想進場的人。",
+    "en": "Under the newspaper ban there were only about 31 licensed papers; after it ended on 1 January 1988, that market faced hundreds of would-be entrants."
+  },
+  "threads/threads/democracy/chain/2/layer": {
+    "zh-TW": "選舉",
+    "en": "Elections"
+  },
+  "threads/threads/democracy/chain/2/text": {
+    "zh-TW": "1996 年第一次總統直選，1,088 萬人投票，李登輝與連戰拿下 54% 的選票。",
+    "en": "At the first direct presidential election in 1996, 10.88 million people voted, and Lee Teng-hui and Lien Chan won 54% of the vote."
+  },
+  "threads/threads/democracy/chain/3/layer": {
+    "zh-TW": "轉型正義",
+    "en": "Transitional justice"
+  },
+  "threads/threads/democracy/chain/3/text": {
+    "zh-TW": "促轉會四年任期撤銷有罪判決共 5,983 件，包括美麗島事件案。",
+    "en": "In its four-year term the Transitional Justice Commission annulled 5,983 guilty verdicts, including those in the Formosa Incident case."
+  },
+  "threads/threads/democracy/chain/4/layer": {
+    "zh-TW": "制度門檻",
+    "en": "Thresholds"
+  },
+  "threads/threads/democracy/chain/4/text": {
+    "zh-TW": "2025 年大罷免投票率 55.83%，是罷免史新高，二十五案全數未過。同一天的核三公投，同意票 434 萬、占 74.17%，卻沒達到全國選舉人四分之一（約 500 萬票）的門檻。",
+    "en": "Turnout in the 2025 mass recall votes was 55.83%, a record for recalls, yet all 25 failed. In a referendum the same day on the Maanshan nuclear plant, 4.34 million voted yes, 74.17% of votes cast, but that fell short of the threshold of a quarter of all eligible voters (about 5 million)."
+  },
+  "threads/threads/democracy/next": {
+    "zh-TW": "接下來要看的是 2026 年 11 月 28 日地方選舉的投票率，以及新聞自由的名次能不能回升。",
+    "en": "What to watch next: turnout at the local elections on 28 November 2026, and whether Taiwan's press-freedom ranking recovers."
+  },
+  "threads/threads/island/question": {
+    "zh-TW": "三萬六千平方公里的島，裝得下多少地形與生命？",
+    "en": "How much terrain and life fits on an island of 36,000 km²?"
+  },
+  "threads/threads/island/essay": {
+    "zh-TW": "台灣本島的山地與丘陵台地占了將近七成，玉山主峰 3,952 公尺。從海平面到將近四千公尺，全擠在三萬六千平方公里裡，河短流急。年平均降雨約 2,500 毫米，是世界平均的兩倍多，雨水卻很快流回海裡。\n\n人住得很集中：2025 年底，六都住了全國 69.87% 的人，土地只占 30.12%，全國平均每平方公里 644 人。\n\n1911 到 2025 年，共有 382 個颱風侵襲台灣，每年約 3 到 4 個，颱風季的豪雨也常引發山崩。\n\n台灣記錄到 6.6 萬多種生物（包含外來種），其中將近一萬種是特有種，六成的土地是森林。",
+    "en": "Mountains, hills and terraces make up nearly 70% of Taiwan's main island, and Yushan's main peak stands 3,952 metres high. Sea level to nearly 4,000 metres is packed into 36,000 square kilometres, so rivers are short and fast. Average rainfall of about 2,500 mm a year is more than double the world average, yet the water runs quickly back to the sea.\n\nPeople live close together: at the end of 2025 the six special municipalities held 69.87% of the population on 30.12% of the land, and the national average is 644 people per square kilometre.\n\nFrom 1911 to 2025, 382 typhoons struck Taiwan, three or four in a typical year, and heavy typhoon rains often set off landslides.\n\nMore than 66,000 species have been recorded in Taiwan (introduced species included), nearly 10,000 of them endemic, and six-tenths of the land is forest."
+  },
+  "threads/threads/island/chart/body": {
+    "zh-TW": "22 縣市人口密度：臺北市每平方公里 8,975 人，臺東縣 59 人（全國平均 644）\n臺北市 | 8,975\n新竹市 | 4,376\n嘉義市 | 4,358\n基隆市 | 2,710\n新北市 | 1,971\n桃園市 | 1,929\n臺中市 | 1,295\n彰化縣 | 1,126\n高雄市 | 921\n金門縣 | 919\n臺南市 | 845\n澎湖縣 | 841\n雲林縣 | 504\n連江縣 | 473\n新竹縣 | 418\n苗栗縣 | 292\n屏東縣 | 282\n嘉義縣 | 249\n宜蘭縣 | 210\n南投縣 | 114\n花蓮縣 | 68\n臺東縣 | 59\n來源：內政部戶政司 2025 年底鄉鎮市區人口與土地面積（各縣市加總後相除）",
+    "en": "Population density in 22 counties and cities: Taipei has 8,975 people per km², Taitung 59 (national average 644)\nTaipei City | 8,975\nHsinchu City | 4,376\nChiayi City | 4,358\nKeelung City | 2,710\nNew Taipei City | 1,971\nTaoyuan City | 1,929\nTaichung City | 1,295\nChanghua County | 1,126\nKaohsiung City | 921\nKinmen County | 919\nTainan City | 845\nPenghu County | 841\nYunlin County | 504\nLienchiang County | 473\nHsinchu County | 418\nMiaoli County | 292\nPingtung County | 282\nChiayi County | 249\nYilan County | 210\nNantou County | 114\nHualien County | 68\nTaitung County | 59\nSource: Department of Household Registration, township population and land area at the end of 2025, summed by county"
+  },
+  "threads/threads/island/chain/0/layer": {
+    "zh-TW": "颱風",
+    "en": "Typhoons"
+  },
+  "threads/threads/island/chain/0/text": {
+    "zh-TW": "2024 年農業總災損 526.51 億元，颱風占了 98.88%，幾乎都來自凱米、山陀兒、康芮三個颱風。",
+    "en": "Farm losses in 2024 totalled NT$52.65 billion, 98.88% of it from typhoons, almost all from Gaemi, Krathon and Kong-rey."
+  },
+  "threads/threads/island/chain/1/layer": {
+    "zh-TW": "山崩",
+    "en": "Landslides"
+  },
+  "threads/threads/island/chain/1/text": {
+    "zh-TW": "2009 年莫拉克颱風，小林村被獻肚山崩塌的土石掩埋，官方記載 407 人罹難。",
+    "en": "During Typhoon Morakot in 2009, Xiaolin village was buried by a landslide from Mount Xiandu; official records list 407 dead."
+  },
+  "threads/threads/island/chain/2/layer": {
+    "zh-TW": "地震",
+    "en": "Earthquakes"
+  },
+  "threads/threads/island/chain/2/text": {
+    "zh-TW": "經濟部公告的活動斷層有 36 條，板塊的造山運動還在進行。",
+    "en": "The Ministry of Economic Affairs lists 36 active faults; the tectonic forces that built the mountains are still at work."
+  },
+  "threads/threads/island/chain/3/layer": {
+    "zh-TW": "氣候變遷",
+    "en": "Climate change"
+  },
+  "threads/threads/island/chain/3/text": {
+    "zh-TW": "中研院的模擬推估，本世紀末影響台灣的颱風每年可能只有 1 到 2 個，但 4 級以上強颱的比例會增加超過 150%，降雨強度增加 40%。",
+    "en": "Academia Sinica simulations suggest that by the end of the century only one or two typhoons a year may affect Taiwan, but the share of Category 4 and stronger storms could rise by more than 150% and rainfall intensity by 40%."
+  },
+  "threads/threads/island/next": {
+    "zh-TW": "接下來要看人口與災害的地圖怎麼疊在一起：七成的人住在六都，老化指數最高的卻是嘉義縣、金門縣與基隆市。颱風變強的時候，救災與照顧的人力要放在哪裡，是接下來的題目。",
+    "en": "What to watch is how the maps of people and hazards overlap: seven in ten people live in the six municipalities, yet the highest ageing indexes are in Chiayi County, Kinmen County and Keelung City. Where rescue and care workers should be placed as typhoons grow stronger is the next question."
+  },
+  "threads/threads/moving/question": {
+    "zh-TW": "台灣人每天怎麼移動，又怎麼付錢？",
+    "en": "How do people in Taiwan get around, and how do they pay?"
+  },
+  "threads/threads/moving/essay": {
+    "zh-TW": "2007 年高鐵通車，台北到高雄縮短到一個半小時左右。2008 年高鐵一年載客 3,058 萬人次，2025 年是 8,207 萬人次，平均每天約 22.5 萬人次。台北捷運每天還有 210 萬人次。\n\n機車還是很多人的日常：2025 年底全國登記的機車有 1,467 萬輛，用年底人口換算，每千人約 630 輛。\n\n付錢的方式也在換：網路族使用行動支付的比率 2025 年第一次過半，零售與餐飲業的付款金額裡，行動支付從 2017 年的 0.6% 升到 2023 年的 11.2%，現金從 41.1% 降到 23.0%。",
+    "en": "High-speed rail opened in 2007, cutting Taipei to Kaohsiung to about an hour and a half. It carried 30.58 million passengers in 2008 and 82.07 million in 2025, about 225,000 a day. The Taipei metro adds 2.1 million trips a day.\n\nScooters are still part of daily life for many: at the end of 2025 there were 14.67 million registered scooters, about 630 for every 1,000 people.\n\nThe way people pay is changing too: in 2025 more than half of internet users used mobile payment for the first time, and in retail and restaurants mobile payment's share of spending rose from 0.6% in 2017 to 11.2% in 2023, while cash fell from 41.1% to 23.0%."
+  },
+  "threads/threads/moving/chart/body": {
+    "zh-TW": "高鐵一年的旅客，十七年長到 2.7 倍，只有疫情那兩年往下掉（萬人次）\n年 | 高鐵旅運量\n2008 | 3058\n2009 | 3235\n2010 | 3694\n2011 | 4163\n2012 | 4453\n2013 | 4749\n2014 | 4802\n2015 | 5056\n2016 | 5659\n2017 | 6057\n2018 | 6396\n2019 | 6741\n2020 | 5724\n2021 | 4346\n2022 | 5416\n2023 | 7309\n2024 | 7825\n2025 | 8207\n來源：台灣高速鐵路公司歷年年報與營運報告",
+    "en": "High-speed rail passengers grew 2.7 times in seventeen years, dipping only in the two pandemic years (10,000 trips)\nYear | Passengers\n2008 | 3058\n2009 | 3235\n2010 | 3694\n2011 | 4163\n2012 | 4453\n2013 | 4749\n2014 | 4802\n2015 | 5056\n2016 | 5659\n2017 | 6057\n2018 | 6396\n2019 | 6741\n2020 | 5724\n2021 | 4346\n2022 | 5416\n2023 | 7309\n2024 | 7825\n2025 | 8207\nSource: Taiwan High Speed Rail Corporation annual and operating reports"
+  },
+  "threads/threads/moving/chain/0/layer": {
+    "zh-TW": "城鄉",
+    "en": "Town and country"
+  },
+  "threads/threads/moving/chain/0/text": {
+    "zh-TW": "高鐵沿西部平原設 12 站，2024 年載客約 7,825 萬人次。東部與離島不在這張網上。",
+    "en": "High-speed rail runs 12 stations along the western plains and carried about 78.25 million passengers in 2024. The east and the outlying islands are not on the network."
+  },
+  "threads/threads/moving/chain/1/layer": {
+    "zh-TW": "機車",
+    "en": "Scooters"
+  },
+  "threads/threads/moving/chain/1/text": {
+    "zh-TW": "83.7% 的家戶有機車，主要靠大眾運輸的人只有約 12.5%。",
+    "en": "83.7% of households own a scooter; only about 12.5% of people rely mainly on public transport."
+  },
+  "threads/threads/moving/chain/2/layer": {
+    "zh-TW": "偏鄉公車",
+    "en": "Rural buses"
+  },
+  "threads/threads/moving/chain/2/text": {
+    "zh-TW": "無車家庭有 53.3% 的出門靠公共運輸。公路客運駕駛從 2019 年的 5,646 人，掉到 2024 年的 3,551 人。",
+    "en": "Households without a vehicle make 53.3% of their trips by public transport. Intercity bus drivers fell from 5,646 in 2019 to 3,551 in 2024."
+  },
+  "threads/threads/moving/chain/3/layer": {
+    "zh-TW": "補位",
+    "en": "Filling the gaps"
+  },
+  "threads/threads/moving/chain/3/text": {
+    "zh-TW": "偏鄉公共運輸涵蓋率從 2016 年的 70%，爬到 2025 年 3 月的 94.37%，目標是 2028 年達到 100%。",
+    "en": "Public-transport coverage in rural areas rose from 70% in 2016 to 94.37% in March 2025, with a target of 100% by 2028."
+  },
+  "threads/threads/moving/next": {
+    "zh-TW": "接下來要看：偏鄉的公車司機補不補得回來，以及支付換軌的時候，只收現金的攤販與只用現金的人會不會被落下。",
+    "en": "What to watch: whether rural bus driver numbers recover, and whether cash-only vendors and cash-only customers are left behind as payments switch over."
+  },
+  "sources/groups/official/title": {
+    "zh-TW": "官方統計與開放資料",
+    "en": "Official statistics and open data"
+  },
+  "sources/groups/official/intro": {
+    "zh-TW": "政府資料開放平臺是目錄，真正的統計多半住在各部會自己的網站。查一個數字，先找負責發布它的那個機關。",
+    "en": "The national open-data portal is a catalogue; most statistics actually live on each ministry's own site. To look up a number, start with the agency that publishes it."
+  },
+  "sources/groups/official/items/0/name": {
+    "zh-TW": "政府資料開放平臺",
+    "en": "Government Open Data Platform (data.gov.tw)"
+  },
+  "sources/groups/official/items/0/org": {
+    "zh-TW": "數位發展部",
+    "en": "Ministry of Digital Affairs"
+  },
+  "sources/groups/official/items/0/good": {
+    "zh-TW": "全國資料集的總目錄，52,556 個資料集（2026-10-23），整份清單可以下載成 CSV。",
+    "en": "The national catalogue: 52,556 datasets as of 23 Oct 2026, and the whole list can be downloaded as CSV."
+  },
+  "sources/groups/official/items/0/tip": {
+    "zh-TW": "很多資料集是同一張表一年一份，把標題裡的民國年去掉後只剩約 4.35 萬個不同標題；要時間序列得自己拼。",
+    "en": "Many datasets are the same table split by year; strip the ROC year from titles and only about 43,500 distinct ones remain, so you assemble the time series yourself."
+  },
+  "sources/groups/official/items/1/name": {
+    "zh-TW": "中華民國統計資訊網",
+    "en": "National Statistics, R.O.C. (Taiwan)"
+  },
+  "sources/groups/official/items/1/org": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "sources/groups/official/items/1/good": {
+    "zh-TW": "經濟成長率、物價、失業率、薪資等重要指標的第一手發布，當天新聞稿與發布時程都在這裡。",
+    "en": "First release of headline indicators such as GDP growth, prices, unemployment and wages, with same-day press releases and the release calendar."
+  },
+  "sources/groups/official/items/1/tip": {
+    "zh-TW": "伺服器沒送中繼憑證，用程式抓（Python、curl、Node）會連線失敗，瀏覽器正常。",
+    "en": "The server omits its intermediate certificate, so scripted downloads (Python, curl, Node) fail while browsers work."
+  },
+  "sources/groups/official/items/2/name": {
+    "zh-TW": "縣市重要統計指標查詢系統",
+    "en": "County and City Key Statistics"
+  },
+  "sources/groups/official/items/2/org": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS"
+  },
+  "sources/groups/official/items/2/good": {
+    "zh-TW": "22 縣市同一口徑的土地、人口、婚育、年齡結構等指標，適合做縣市比較。",
+    "en": "Land, population, marriage, births and age structure for all 22 counties and cities on one basis, ideal for comparisons."
+  },
+  "sources/groups/official/items/3/name": {
+    "zh-TW": "薪情平臺",
+    "en": "Earnings Platform"
+  },
+  "sources/groups/official/items/3/org": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS"
+  },
+  "sources/groups/official/items/3/good": {
+    "zh-TW": "薪資中位數與分布的互動查詢，是政府做給大眾看的儀表板裡做得最好的之一。",
+    "en": "Interactive wage medians and distributions; one of the best public-facing government dashboards."
+  },
+  "sources/groups/official/items/4/name": {
+    "zh-TW": "三大普查統計資料平臺",
+    "en": "Census Data Platform"
+  },
+  "sources/groups/official/items/4/org": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS"
+  },
+  "sources/groups/official/items/4/good": {
+    "zh-TW": "人口及住宅、農林漁牧業、工業及服務業普查；唯一細到統計區的來源。",
+    "en": "Population and housing, agriculture, and industry censuses; the only source down to statistical-area level."
+  },
+  "sources/groups/official/items/5/name": {
+    "zh-TW": "戶政司人口統計",
+    "en": "Household Registration Statistics"
+  },
+  "sources/groups/official/items/5/org": {
+    "zh-TW": "內政部戶政司",
+    "en": "Department of Household Registration, MOI"
+  },
+  "sources/groups/official/items/5/good": {
+    "zh-TW": "每月的人口、出生、死亡、結婚、離婚，細到村里，同婚統計也在這裡。",
+    "en": "Monthly population, births, deaths, marriages and divorces down to village level, including same-sex marriage figures."
+  },
+  "sources/groups/official/items/6/name": {
+    "zh-TW": "社會經濟資料服務平台",
+    "en": "Socio-Economic Data Service Platform"
+  },
+  "sources/groups/official/items/6/org": {
+    "zh-TW": "內政部",
+    "en": "Ministry of the Interior"
+  },
+  "sources/groups/official/items/6/good": {
+    "zh-TW": "把統計數字綁到最小統計區的圖資，做地圖分析的起點。",
+    "en": "Statistics attached to the smallest statistical areas, the starting point for map analysis."
+  },
+  "sources/groups/official/items/7/name": {
+    "zh-TW": "海關進出口貿易統計",
+    "en": "Customs Trade Statistics"
+  },
+  "sources/groups/official/items/7/org": {
+    "zh-TW": "財政部統計處",
+    "en": "Ministry of Finance"
+  },
+  "sources/groups/official/items/7/good": {
+    "zh-TW": "按國家、按貨品的進出口，每月發布。",
+    "en": "Imports and exports by country and product, released monthly."
+  },
+  "sources/groups/official/items/8/name": {
+    "zh-TW": "中央銀行統計",
+    "en": "Central Bank statistics"
+  },
+  "sources/groups/official/items/8/org": {
+    "zh-TW": "中央銀行",
+    "en": "Central Bank of the Republic of China (Taiwan)"
+  },
+  "sources/groups/official/items/8/good": {
+    "zh-TW": "利率、匯率、貨幣與外匯存底的權威時間序列。",
+    "en": "The authoritative series for interest rates, exchange rates, money supply and foreign reserves."
+  },
+  "sources/groups/official/items/8/tip": {
+    "zh-TW": "有些檔案仍是 Big5 編碼。",
+    "en": "Some files are still Big5-encoded."
+  },
+  "sources/groups/official/items/9/name": {
+    "zh-TW": "能源統計",
+    "en": "Energy statistics"
+  },
+  "sources/groups/official/items/9/org": {
+    "zh-TW": "經濟部能源署",
+    "en": "Energy Administration, MOEA"
+  },
+  "sources/groups/official/items/9/good": {
+    "zh-TW": "發電結構、再生能源、能源供需的月資料，格式乾淨。",
+    "en": "Clean monthly data on the power mix, renewables and energy supply."
+  },
+  "sources/groups/official/items/10/name": {
+    "zh-TW": "台電開放資料",
+    "en": "Taipower open data"
+  },
+  "sources/groups/official/items/10/org": {
+    "zh-TW": "台灣電力公司",
+    "en": "Taiwan Power Company"
+  },
+  "sources/groups/official/items/10/good": {
+    "zh-TW": "逐機組即時發電、系統供需、各鄉鎮用電，每 10 分鐘更新，不用金鑰。",
+    "en": "Real-time output by generating unit, system supply and demand, and electricity use by township, updated every 10 minutes with no key."
+  },
+  "sources/groups/official/items/11/name": {
+    "zh-TW": "環境資料開放平臺",
+    "en": "Environmental Data Open Platform"
+  },
+  "sources/groups/official/items/11/org": {
+    "zh-TW": "環境部",
+    "en": "Ministry of Environment"
+  },
+  "sources/groups/official/items/11/good": {
+    "zh-TW": "空品、水質、廢棄物、環評；API 文件是政府平台裡寫得最清楚的一個。",
+    "en": "Air and water quality, waste and impact assessments; its API documentation is the clearest among government platforms."
+  },
+  "sources/groups/official/items/11/tip": {
+    "zh-TW": "不註冊每支 API 一天 300 次，註冊後 5,000 次。",
+    "en": "300 calls a day per API without an account, 5,000 with one."
+  },
+  "sources/groups/official/items/12/name": {
+    "zh-TW": "TDX 運輸資料流通服務",
+    "en": "TDX Transport Data eXchange"
+  },
+  "sources/groups/official/items/12/org": {
+    "zh-TW": "交通部",
+    "en": "Ministry of Transportation and Communications"
+  },
+  "sources/groups/official/items/12/good": {
+    "zh-TW": "公車、鐵路、航空、自行車、停車的即時資料；欄位一致、有多語，是開發者生態最成熟的一個。",
+    "en": "Real-time buses, rail, flights, bikes and parking; consistent fields, multilingual, and the most mature developer ecosystem."
+  },
+  "sources/groups/official/items/13/name": {
+    "zh-TW": "氣象資料開放平臺",
+    "en": "CWA Open Weather Data"
+  },
+  "sources/groups/official/items/13/org": {
+    "zh-TW": "交通部中央氣象署",
+    "en": "Central Weather Administration"
+  },
+  "sources/groups/official/items/13/good": {
+    "zh-TW": "預報、觀測、地震、海象；全國下載次數最多的兩個資料集都是它的地震報告。",
+    "en": "Forecasts, observations, earthquakes and sea conditions; the two most downloaded datasets in the country are its earthquake reports."
+  },
+  "sources/groups/official/items/14/name": {
+    "zh-TW": "中選會選舉資料庫",
+    "en": "CEC Election Database"
+  },
+  "sources/groups/official/items/14/org": {
+    "zh-TW": "中央選舉委員會",
+    "en": "Central Election Commission"
+  },
+  "sources/groups/official/items/14/good": {
+    "zh-TW": "歷屆總統、立委、地方選舉、公投與罷免的投開票結果，投票後 7 日內更新。",
+    "en": "Results of every presidential, legislative and local election, referendum and recall, updated within 7 days of voting."
+  },
+  "sources/groups/official/items/15/name": {
+    "zh-TW": "立法院開放資料服務平台",
+    "en": "Legislative Yuan Open Data"
+  },
+  "sources/groups/official/items/15/org": {
+    "zh-TW": "立法院",
+    "en": "Legislative Yuan"
+  },
+  "sources/groups/official/items/15/good": {
+    "zh-TW": "議案、表決、質詢、委員發言，幾乎每天更新，不用金鑰。",
+    "en": "Bills, votes, interpellations and speeches, updated almost daily with no key."
+  },
+  "sources/groups/official/items/16/name": {
+    "zh-TW": "證交所與櫃買中心 OpenAPI",
+    "en": "TWSE and TPEx OpenAPI"
+  },
+  "sources/groups/official/items/16/org": {
+    "zh-TW": "臺灣證券交易所、證券櫃檯買賣中心",
+    "en": "Taiwan Stock Exchange, Taipei Exchange"
+  },
+  "sources/groups/official/items/16/good": {
+    "zh-TW": "個股收盤、成交與上市櫃公司基本資料，兩邊合計三百多個端點，不用金鑰。",
+    "en": "Daily prices, trading and company profiles for listed firms, over 300 endpoints combined, no key needed."
+  },
+  "sources/groups/official/items/16/tip": {
+    "zh-TW": "同一筆回應裡，日期欄用民國（1151022），成立日期卻是西元（19501229）；數值全部是字串。",
+    "en": "Within a single response the date field is in ROC years (1151022) while the founding date is Gregorian (19501229), and every number is a string."
+  },
+  "sources/groups/official/items/17/name": {
+    "zh-TW": "農業資料開放平臺",
+    "en": "Agriculture Open Data"
+  },
+  "sources/groups/official/items/17/org": {
+    "zh-TW": "農業部",
+    "en": "Ministry of Agriculture"
+  },
+  "sources/groups/official/items/17/good": {
+    "zh-TW": "農產品行情、漁業、畜牧，有 1,718 個資料集；糧食供需統計另在農業部統計處。",
+    "en": "Produce prices, fisheries and livestock across 1,718 datasets; food supply statistics are published separately by its statistics office."
+  },
+  "sources/groups/official/items/18/name": {
+    "zh-TW": "文化統計",
+    "en": "Culture statistics"
+  },
+  "sources/groups/official/items/18/org": {
+    "zh-TW": "文化部統計處",
+    "en": "Ministry of Culture"
+  },
+  "sources/groups/official/items/18/good": {
+    "zh-TW": "博物館、圖書館、出版、電影、文化資產的年度數據。",
+    "en": "Annual figures for museums, libraries, publishing, film and cultural heritage."
+  },
+  "sources/groups/local/title": {
+    "zh-TW": "地方政府",
+    "en": "Local governments"
+  },
+  "sources/groups/local/items/0/name": {
+    "zh-TW": "臺北市資料大平臺",
+    "en": "Taipei Open Data (data.taipei)"
+  },
+  "sources/groups/local/items/0/org": {
+    "zh-TW": "臺北市政府",
+    "en": "Taipei City Government"
+  },
+  "sources/groups/local/items/0/good": {
+    "zh-TW": "24 個主題分類，可以線上預覽、下載與 API 介接。",
+    "en": "24 topic categories with online preview, downloads and API access."
+  },
+  "sources/groups/local/items/1/name": {
+    "zh-TW": "臺北城市儀表板",
+    "en": "Taipei City Dashboard"
+  },
+  "sources/groups/local/items/1/org": {
+    "zh-TW": "臺北市政府資訊局",
+    "en": "Taipei Department of Information Technology"
+  },
+  "sources/groups/local/items/1/good": {
+    "zh-TW": "捷運進出、YouBike、施工、社宅進度的即時儀表板，程式碼開源，是全國少見的市政儀表板。",
+    "en": "Live dashboard of metro flows, YouBike, roadworks and social housing; open source and a rare example of a city dashboard."
+  },
+  "sources/groups/local/items/2/name": {
+    "zh-TW": "新北市資料開放平臺",
+    "en": "New Taipei Open Data"
+  },
+  "sources/groups/local/items/2/org": {
+    "zh-TW": "新北市政府",
+    "en": "New Taipei City Government"
+  },
+  "sources/groups/local/items/2/good": {
+    "zh-TW": "目錄筆數最多的直轄市之一。",
+    "en": "One of the largest municipal catalogues."
+  },
+  "sources/groups/local/items/2/tip": {
+    "zh-TW": "API 端點要帶授權才回資料。",
+    "en": "API endpoints require authorization."
+  },
+  "sources/groups/local/items/3/name": {
+    "zh-TW": "臺南市與高雄市資料開放平台",
+    "en": "Tainan and Kaohsiung open data"
+  },
+  "sources/groups/local/items/3/org": {
+    "zh-TW": "臺南市政府、高雄市政府",
+    "en": "Tainan and Kaohsiung city governments"
+  },
+  "sources/groups/local/items/3/good": {
+    "zh-TW": "兩市都提供整份資料清冊下載，最容易用程式串接。",
+    "en": "Both publish a downloadable inventory of every dataset, the easiest to integrate programmatically."
+  },
+  "sources/groups/civic/title": {
+    "zh-TW": "公民科技與民間資料庫",
+    "en": "Civic tech and independent databases"
+  },
+  "sources/groups/civic/intro": {
+    "zh-TW": "民間接住了政府沒做的事：把資料整理成 API、替只給即時值的資料留下歷史、把預算審議拆成一筆一筆。",
+    "en": "Civil society picks up what government leaves undone: turning data into APIs, keeping history for feeds that only show the present, and breaking budget reviews into individual line items."
+  },
+  "sources/groups/civic/items/0/name": {
+    "zh-TW": "歐噴資料庫",
+    "en": "OpenFun Database"
+  },
+  "sources/groups/civic/items/0/org": {
+    "zh-TW": "歐噴有限公司",
+    "en": "OpenFun Ltd."
+  },
+  "sources/groups/civic/items/0/good": {
+    "zh-TW": "3,445 份以上整理好的公共資料集，多數附 AI 說明書，CC BY 4.0，也有給 AI 代理人讀的 llms.txt。",
+    "en": "Over 3,445 cleaned public datasets, most with an AI-readable guide, under CC BY 4.0, plus an llms.txt for AI agents."
+  },
+  "sources/groups/civic/items/0/tip": {
+    "zh-TW": "查詢要 Token；2026 年全站免費試用，之後的價格未公布。",
+    "en": "Queries need a token; free trial for all of 2026, with later pricing not yet published."
+  },
+  "sources/groups/civic/items/1/name": {
+    "zh-TW": "立法院 API（LYAPI）",
+    "en": "Legislative Yuan API (LYAPI)"
+  },
+  "sources/groups/civic/items/1/org": {
+    "zh-TW": "歐噴有限公司",
+    "en": "OpenFun Ltd."
+  },
+  "sources/groups/civic/items/1/good": {
+    "zh-TW": "議案、立委、公報、會議與影片的結構化 API，持續更新。",
+    "en": "A structured API for bills, legislators, gazettes, meetings and video, actively maintained."
+  },
+  "sources/groups/civic/items/2/name": {
+    "zh-TW": "中央政府總預算案審查監督平台",
+    "en": "Central Government Budget Review Watch"
+  },
+  "sources/groups/civic/items/2/org": {
+    "zh-TW": "公民監督國會聯盟、READr",
+    "en": "Citizen Congress Watch, READr"
+  },
+  "sources/groups/civic/items/2/good": {
+    "zh-TW": "每一筆預算刪減與凍結的提案人與理由，看得到審議細節；程式碼與資料都開源。本站的總預算十年看長期趨勢，兩者互補。",
+    "en": "Who proposed each budget cut or freeze and why, down to the line item; code and data are open. Taiwan.md's Budget Decade covers the long-term trend, so the two complement each other."
+  },
+  "sources/groups/civic/items/3/name": {
+    "zh-TW": "Cofacts 真的假的開放資料",
+    "en": "Cofacts open data"
+  },
+  "sources/groups/civic/items/3/org": {
+    "zh-TW": "Cofacts 社群",
+    "en": "Cofacts community"
+  },
+  "sources/groups/civic/items/3/good": {
+    "zh-TW": "群眾查核 LINE 訊息累積的資料集，放在 Hugging Face，CC BY-SA 4.0。",
+    "en": "A dataset built from crowd-sourced fact-checks of LINE messages, hosted on Hugging Face under CC BY-SA 4.0."
+  },
+  "sources/groups/civic/items/4/name": {
+    "zh-TW": "開放台灣民間租屋資料",
+    "en": "Open Taiwan rental data"
+  },
+  "sources/groups/civic/items/4/org": {
+    "zh-TW": "g0v 社群",
+    "en": "g0v community"
+  },
+  "sources/groups/civic/items/4/good": {
+    "zh-TW": "2018 年起長期整理租屋網的公開資訊，聚合成月、季、年資料。",
+    "en": "Public listing data from rental sites, collected since 2018 and aggregated by month, quarter and year."
+  },
+  "sources/groups/civic/items/5/name": {
+    "zh-TW": "台電發電資料封存",
+    "en": "Taipower generation archive"
+  },
+  "sources/groups/civic/items/5/org": {
+    "zh-TW": "個人維護（GitHub kiang/taipower_data）",
+    "en": "Individually maintained (GitHub kiang/taipower_data)"
+  },
+  "sources/groups/civic/items/5/good": {
+    "zh-TW": "台電網站只給即時值，這個 repo 把它每天存進 git，留下了官方沒保存的歷史。",
+    "en": "Taipower's site only shows the present; this repository commits it to git every day, keeping history the official site does not."
+  },
+  "sources/groups/civic/items/5/tip": {
+    "zh-TW": "欄位說明與授權需要自己確認。",
+    "en": "Check field definitions and licensing yourself."
+  },
+  "sources/groups/civic/items/6/name": {
+    "zh-TW": "g0v 社群日曆",
+    "en": "g0v community calendar"
+  },
+  "sources/groups/civic/items/6/org": {
+    "zh-TW": "g0v 零時政府",
+    "en": "g0v"
+  },
+  "sources/groups/civic/items/6/good": {
+    "zh-TW": "黑客松與公民科技活動，想找人一起做資料專案的入口。",
+    "en": "Hackathons and civic-tech events; the place to find collaborators for a data project."
+  },
+  "sources/groups/media/title": {
+    "zh-TW": "資料新聞",
+    "en": "Data journalism"
+  },
+  "sources/groups/media/intro": {
+    "zh-TW": "這些團隊把資料做成報導。多數報導沒有附上底層資料，引用數字時回到它們標明的官方來源。",
+    "en": "These teams turn data into reporting. Most stories do not publish their underlying data, so cite the official source they name."
+  },
+  "sources/groups/media/items/0/name": {
+    "zh-TW": "報導者",
+    "en": "The Reporter (twreporter)"
+  },
+  "sources/groups/media/items/0/org": {
+    "zh-TW": "非營利媒體",
+    "en": "Non-profit newsroom"
+  },
+  "sources/groups/media/items/0/good": {
+    "zh-TW": "固定編制設計、工程、資料整理；事故地圖、政治獻金等深度資料報導。",
+    "en": "Dedicated design, engineering and data staff; in-depth data stories on traffic accidents, political donations and more."
+  },
+  "sources/groups/media/items/1/name": {
+    "zh-TW": "READr",
+    "en": "READr"
+  },
+  "sources/groups/media/items/1/org": {
+    "zh-TW": "鏡傳媒",
+    "en": "Mirror Media"
+  },
+  "sources/groups/media/items/1/good": {
+    "zh-TW": "少數明確承諾公開報導資料的團隊，GitHub 上有資料與程式。",
+    "en": "One of the few teams that explicitly commits to publishing its data, with data and code on GitHub."
+  },
+  "sources/groups/media/items/2/name": {
+    "zh-TW": "中央社新聞圖表",
+    "en": "CNA news graphics"
+  },
+  "sources/groups/media/items/2/org": {
+    "zh-TW": "中央通訊社",
+    "en": "Central News Agency"
+  },
+  "sources/groups/media/items/2/good": {
+    "zh-TW": "幾乎每天一張的新聞圖表，預算、經濟、選舉都有。",
+    "en": "News graphics almost daily, covering the budget, the economy and elections."
+  },
+  "sources/groups/media/items/3/name": {
+    "zh-TW": "公視新聞實驗室",
+    "en": "PTS News Lab"
+  },
+  "sources/groups/media/items/3/org": {
+    "zh-TW": "公共電視",
+    "en": "Public Television Service"
+  },
+  "sources/groups/media/items/3/good": {
+    "zh-TW": "數位敘事專題，資料來源寫在專題裡。",
+    "en": "Digital storytelling projects with sources noted in each piece."
+  },
+  "sources/groups/media/items/4/name": {
+    "zh-TW": "Taiwan Data Stories",
+    "en": "Taiwan Data Stories"
+  },
+  "sources/groups/media/items/4/org": {
+    "zh-TW": "獨立創作者",
+    "en": "Independent creators"
+  },
+  "sources/groups/media/items/4/good": {
+    "zh-TW": "珍奶、百岳、街頭小吃、高齡化等主題的捲動式資料敘事，會把資料限制寫出來。",
+    "en": "Scrollytelling data stories on bubble tea, Taiwan's 100 peaks, street food and ageing, with data limitations spelled out."
+  },
+  "sources/groups/academic/title": {
+    "zh-TW": "學術調查與文化典藏",
+    "en": "Academic surveys and cultural archives"
+  },
+  "sources/groups/academic/items/0/name": {
+    "zh-TW": "臺灣百年歷史地圖",
+    "en": "Taiwan Historical Maps"
+  },
+  "sources/groups/academic/items/0/org": {
+    "zh-TW": "中央研究院 GIS 中心",
+    "en": "Academia Sinica GIS Center"
+  },
+  "sources/groups/academic/items/0/good": {
+    "zh-TW": "百年來的歷史地圖，用 WMTS 標準服務，QGIS 等軟體可以直接疊圖。",
+    "en": "A century of historical maps served via the WMTS standard, ready to overlay in QGIS and similar tools."
+  },
+  "sources/groups/academic/items/0/tip": {
+    "zh-TW": "服務頁沒寫授權，引用前要自己確認。",
+    "en": "The service page states no licence, so confirm before reuse."
+  },
+  "sources/groups/academic/items/1/name": {
+    "zh-TW": "學術調查研究資料庫（SRDA）",
+    "en": "Survey Research Data Archive (SRDA)"
+  },
+  "sources/groups/academic/items/1/org": {
+    "zh-TW": "中央研究院",
+    "en": "Academia Sinica"
+  },
+  "sources/groups/academic/items/1/good": {
+    "zh-TW": "學界與政府的調查原始資料，附問卷與編碼簿；台灣選舉與民主化調查、社會變遷調查都由這裡釋出。",
+    "en": "Raw survey data from academia and government, with questionnaires and codebooks; Taiwan's election and social change surveys are released here."
+  },
+  "sources/groups/academic/items/2/name": {
+    "zh-TW": "重要政治態度分佈趨勢圖",
+    "en": "Trends in core political attitudes"
+  },
+  "sources/groups/academic/items/2/org": {
+    "zh-TW": "政治大學選舉研究中心",
+    "en": "Election Study Center, National Chengchi University"
+  },
+  "sources/groups/academic/items/2/good": {
+    "zh-TW": "台灣人／中國人認同、統獨立場、政黨偏好，1992 年起的長期序列。",
+    "en": "Long-run series since 1992 on Taiwanese/Chinese identity, independence/unification views and party preference."
+  },
+  "sources/groups/academic/items/2/tip": {
+    "zh-TW": "民調的問法不同，結果就不同；引用時一併說明是哪一份調查。",
+    "en": "Different question wording yields different results; always say which survey a figure comes from."
+  },
+  "sources/groups/academic/items/3/name": {
+    "zh-TW": "國家文化記憶庫 2.0",
+    "en": "Taiwan Cultural Memory Bank 2.0"
+  },
+  "sources/groups/academic/items/3/org": {
+    "zh-TW": "文化部、國立臺灣歷史博物館",
+    "en": "Ministry of Culture, National Museum of Taiwan History"
+  },
+  "sources/groups/academic/items/3/good": {
+    "zh-TW": "標示 CC 授權或公眾領域的典藏可以直接下載。",
+    "en": "Items marked with a CC licence or public domain can be downloaded directly."
+  },
+  "sources/groups/academic/items/3/tip": {
+    "zh-TW": "Open API 要申請金鑰並提供固定 IP。",
+    "en": "The open API requires an application, a key and a fixed IP address."
+  },
+  "sources/groups/academic/items/4/name": {
+    "zh-TW": "開放博物館",
+    "en": "Open Museum"
+  },
+  "sources/groups/academic/items/4/org": {
+    "zh-TW": "中央研究院數位文化中心",
+    "en": "Academia Sinica Center for Digital Cultures"
+  },
+  "sources/groups/academic/items/4/good": {
+    "zh-TW": "百萬件以上藏品，註冊後可以用來策展。",
+    "en": "Over a million collection items that registered users can curate into exhibitions."
+  },
+  "sources/groups/international/title": {
+    "zh-TW": "國際上有台灣這一列的資料庫",
+    "en": "International databases that include Taiwan"
+  },
+  "sources/groups/international/intro": {
+    "zh-TW": "做國際比較時，先確認資料庫裡有沒有台灣這一列。下面這些有；名稱怎麼寫，見上方「國際資料庫」那一節。",
+    "en": "Before comparing internationally, check that a database has a Taiwan row at all. These do; for how each one names Taiwan, see the international databases section above."
+  },
+  "sources/groups/international/items/0/name": {
+    "zh-TW": "IMF 世界經濟展望",
+    "en": "IMF World Economic Outlook"
+  },
+  "sources/groups/international/items/0/org": {
+    "zh-TW": "國際貨幣基金",
+    "en": "International Monetary Fund"
+  },
+  "sources/groups/international/items/0/good": {
+    "zh-TW": "GDP、成長率與預測，可以跟其他經濟體用同一套方法比較。",
+    "en": "GDP, growth and forecasts, comparable with other economies on one method."
+  },
+  "sources/groups/international/items/1/name": {
+    "zh-TW": "Penn World Table",
+    "en": "Penn World Table"
+  },
+  "sources/groups/international/items/1/org": {
+    "zh-TW": "格羅寧根大學",
+    "en": "University of Groningen"
+  },
+  "sources/groups/international/items/1/good": {
+    "zh-TW": "購買力平價的長期總體序列。",
+    "en": "Long-run macro series at purchasing-power parity."
+  },
+  "sources/groups/international/items/2/name": {
+    "zh-TW": "Our World in Data",
+    "en": "Our World in Data"
+  },
+  "sources/groups/international/items/2/org": {
+    "zh-TW": "牛津大學團隊",
+    "en": "Oxford-based team"
+  },
+  "sources/groups/international/items/2/good": {
+    "zh-TW": "跨國比較的圖表與 CSV，用 country=~TWN 就能只抓台灣。",
+    "en": "Cross-country charts and CSVs; add country=~TWN to pull Taiwan alone."
+  },
+  "sources/groups/international/items/3/name": {
+    "zh-TW": "V-Dem 民主多樣性",
+    "en": "V-Dem"
+  },
+  "sources/groups/international/items/3/org": {
+    "zh-TW": "哥德堡大學 V-Dem 研究所",
+    "en": "V-Dem Institute, University of Gothenburg"
+  },
+  "sources/groups/international/items/3/good": {
+    "zh-TW": "民主程度的專家編碼指標，1900 年起。",
+    "en": "Expert-coded democracy indicators from 1900 onward."
+  },
+  "sources/groups/international/items/4/name": {
+    "zh-TW": "ITU DataHub",
+    "en": "ITU DataHub"
+  },
+  "sources/groups/international/items/4/org": {
+    "zh-TW": "國際電信聯盟",
+    "en": "International Telecommunication Union"
+  },
+  "sources/groups/international/items/4/good": {
+    "zh-TW": "網路使用率等電信指標的國際比較。",
+    "en": "International comparisons of telecom indicators such as internet use."
+  },
+  "sources/groups/international/items/5/name": {
+    "zh-TW": "CSIS ChinaPower 防空識別區資料",
+    "en": "CSIS ChinaPower ADIZ data"
+  },
+  "sources/groups/international/items/5/org": {
+    "zh-TW": "美國戰略與國際研究中心",
+    "en": "Center for Strategic and International Studies"
+  },
+  "sources/groups/international/items/5/good": {
+    "zh-TW": "中國軍機進入台灣防空識別區的每日紀錄，署名編者。",
+    "en": "Daily records of Chinese military aircraft entering Taiwan's air defence identification zone, with named compilers."
+  },
+  "sources/groups/international/items/5/tip": {
+    "zh-TW": "各來源對次數的口徑不同（進入 ADIZ 或周邊偵獲、飛機與艦艇是否合計），數字對不上很常見。",
+    "en": "Sources count differently (entering the ADIZ versus detected nearby, aircraft and ships combined or not), so their totals often disagree."
+  },
+  "sources/groups/finance/title": {
+    "zh-TW": "財經彙整平台",
+    "en": "Financial data platforms"
+  },
+  "sources/groups/finance/intro": {
+    "zh-TW": "民間做得最完整的台灣資料彙整幾乎都在財經領域，多為商業服務，使用前看清條款。",
+    "en": "The most complete private compilations of Taiwanese data are almost all financial and mostly commercial, so read the terms first."
+  },
+  "sources/groups/finance/items/0/name": {
+    "zh-TW": "財報狗",
+    "en": "StatementDog"
+  },
+  "sources/groups/finance/items/0/org": {
+    "zh-TW": "民間公司",
+    "en": "Private company"
+  },
+  "sources/groups/finance/items/0/good": {
+    "zh-TW": "把上市櫃財報做成圖表與選股條件，多數功能免費。",
+    "en": "Charts and screening built from listed companies' filings; most features are free."
+  },
+  "sources/groups/finance/items/1/name": {
+    "zh-TW": "財經M平方",
+    "en": "MacroMicro"
+  },
+  "sources/groups/finance/items/1/org": {
+    "zh-TW": "民間公司",
+    "en": "Private company"
+  },
+  "sources/groups/finance/items/1/good": {
+    "zh-TW": "總體經濟圖表與研究。",
+    "en": "Macroeconomic charts and research."
+  },
+  "sources/groups/finance/items/2/name": {
+    "zh-TW": "台灣經濟新報（TEJ）",
+    "en": "Taiwan Economic Journal (TEJ)"
+  },
+  "sources/groups/finance/items/2/org": {
+    "zh-TW": "民間公司",
+    "en": "Private company"
+  },
+  "sources/groups/finance/items/2/good": {
+    "zh-TW": "三十多年的證券與總經資料庫，學術研究常用。",
+    "en": "A securities and macro database with over 30 years of history, widely used in academic research."
+  },
+  "sources/pitfalls/0/title": {
+    "zh-TW": "民國紀年",
+    "en": "ROC calendar years"
+  },
+  "sources/pitfalls/0/body": {
+    "zh-TW": "三成左右的資料集標題帶民國年，欄位裡的「114」是西元 2025 年；同一支 API 也可能民國、西元混用。",
+    "en": "About three in ten dataset titles carry ROC years: \"114\" in a field means 2025. A single API can mix ROC and Gregorian dates."
+  },
+  "sources/pitfalls/1/title": {
+    "zh-TW": "Big5 編碼",
+    "en": "Big5 encoding"
+  },
+  "sources/pitfalls/1/body": {
+    "zh-TW": "約一成資料集仍是 Big5 編碼的 CSV，直接用 UTF-8 打開會是亂碼，先轉碼。",
+    "en": "About one dataset in ten is still a Big5-encoded CSV, which turns to gibberish if opened as UTF-8; convert it first."
+  },
+  "sources/pitfalls/2/title": {
+    "zh-TW": "只給 PDF",
+    "en": "PDF-only releases"
+  },
+  "sources/pitfalls/2/body": {
+    "zh-TW": "1,187 個資料集只有 PDF，月報也常是 PDF；要用程式讀得先解析。",
+    "en": "1,187 datasets exist only as PDFs, and monthly bulletins often are too, so they have to be parsed before use."
+  },
+  "sources/pitfalls/3/title": {
+    "zh-TW": "平均數跟中位數",
+    "en": "Mean versus median"
+  },
+  "sources/pitfalls/3/body": {
+    "zh-TW": "薪資平均數會被高薪拉高，中位數才是一半的人賺得比這少的那條線；人力銀行的薪資調查跟主計總處口徑不同，不能直接比。",
+    "en": "Average wages are pulled up by high earners; the median is the line half of workers fall below. Job-site salary surveys use a different basis from official statistics and cannot be compared directly."
+  },
+  "sources/pitfalls/4/title": {
+    "zh-TW": "同一個數字有好幾個版本",
+    "en": "One number, several versions"
+  },
+  "sources/pitfalls/4/body": {
+    "zh-TW": "台灣人口在國際彙整站上能差到十幾萬人，因為各自用不同年份、不同推估。查台灣的數字，以發布它的台灣官方機關為準，並寫出期間。",
+    "en": "International aggregators disagree on Taiwan's population by over a hundred thousand because they use different years and estimates. Use the Taiwanese agency that publishes the figure, and state the period."
+  },
+  "sources/pitfalls/5/title": {
+    "zh-TW": "官方資料會消失",
+    "en": "Official data can disappear"
+  },
+  "sources/pitfalls/5/body": {
+    "zh-TW": "政府網站常只給即時值不留歷史，也會整批下架（疾管署 2026 年 8 月一次下架 234 個病例統計資料集）。用到的資料，記下取得日期與網址。",
+    "en": "Government sites often show only the present and can withdraw data in bulk (in August 2026 the CDC pulled 234 case-statistics datasets at once). Record the date and URL of anything you use."
+  },
+  "sources/pitfalls/6/title": {
+    "zh-TW": "授權要顯名",
+    "en": "Attribution is mandatory"
+  },
+  "sources/pitfalls/6/body": {
+    "zh-TW": "政府資料開放授權條款允許商業使用、與 CC BY 4.0 相容，但沒有標示原提供機關，就視為自始沒有取得授權。",
+    "en": "Taiwan's open government data licence allows commercial use and is compatible with CC BY 4.0, but reuse without naming the original agency counts as never having been licensed."
+  },
+  "sources/pitfalls/7/title": {
+    "zh-TW": "國際資料庫可能沒有台灣",
+    "en": "International databases may lack Taiwan"
+  },
+  "sources/pitfalls/7/body": {
+    "zh-TW": "世界銀行、WHO、UNESCO、UNDP 都沒有台灣這一列。用它們做國際比較時，台灣那一格要改用台灣官方統計，並註明來源不同。",
+    "en": "The World Bank, WHO, UNESCO and UNDP have no Taiwan row. When comparing with them, fill Taiwan's cell from Taiwan's official statistics and note the different source."
+  },
+  "intl/rows/0/note": {
+    "zh-TW": "國家列表 296 筆沒有台灣；中國那一欄註明「不含 Taiwan, China」，世界銀行請讀者改看台灣政府網站",
+    "en": "None of its 296 economies is Taiwan; the China series is footnoted as excluding \"Taiwan, China\", and the Bank refers readers to Taiwan's own government sites"
+  },
+  "intl/rows/1/note": {
+    "zh-TW": "2025 年 HDI 時間序列 206 個經濟體，沒有台灣",
+    "en": "The 2025 HDI time series covers 206 economies, without Taiwan"
+  },
+  "intl/rows/2/note": {
+    "zh-TW": "234 個國家代碼裡沒有台灣，健康指標查不到台灣",
+    "en": "No Taiwan among its 234 country codes, so no Taiwan health indicators"
+  },
+  "intl/rows/3/note": {
+    "zh-TW": "教育統計的 462 個地理單位沒有台灣",
+    "en": "None of its 462 geographic units for education statistics is Taiwan"
+  },
+  "intl/rows/4/note": {
+    "zh-TW": "代碼 158 存在，名稱寫成「東亞其他未指明地區」，底下沒有任何資料",
+    "en": "Code 158 exists under this name and holds no data"
+  },
+  "intl/rows/5/note": {
+    "zh-TW": "有完整的 GDP、成長率與預測，名稱帶「Province of China」",
+    "en": "Full GDP, growth and forecast series, labelled with \"Province of China\""
+  },
+  "intl/rows/6/note": {
+    "zh-TW": "人口推估有台灣這一列，名稱以「China」開頭",
+    "en": "Taiwan has its own row in the projections, under a name that starts with \"China\""
+  },
+  "intl/rows/7/note": {
+    "zh-TW": "網路使用率等電信指標有台灣",
+    "en": "Telecom indicators such as internet use include Taiwan"
+  },
+  "intl/rows/8/note": {
+    "zh-TW": "2026 年報告台灣排第 26",
+    "en": "Taiwan ranks 26th in the 2026 report"
+  },
+  "intl/rows/9/note": {
+    "zh-TW": "長期人均 GDP 序列有台灣",
+    "en": "Long-run GDP per capita series includes Taiwan"
+  },
+  "intl/rows/10/note": {
+    "zh-TW": "國家代碼標準；TW／TWN／158 這組代碼本身是各資料庫串接台灣的鑰匙",
+    "en": "The country-code standard; its TW / TWN / 158 codes are how other databases join Taiwan"
+  },
+  "intl/rows/11/note": {
+    "zh-TW": "代碼表有這一列，實際勞動資料覆蓋多少尚未查證",
+    "en": "Listed in the code table; actual labour data coverage not yet verified"
+  },
+  "intl/rows/12/note": {
+    "zh-TW": "以「台澎金馬個別關稅領域」身分加入（2002）",
+    "en": "A member since 2002 as the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu"
+  },
+  "intl/rows/13/note": {
+    "zh-TW": "台灣不是會員，科技指標等部分資料集有台灣；PISA 也用這個名稱",
+    "en": "Not a member; some datasets such as science and technology indicators, and PISA, include Taiwan under this name"
+  },
+  "intl/rows/14/note": {
+    "zh-TW": "2026 年台灣排第 4",
+    "en": "Taiwan ranks 4th in 2026"
+  },
+  "intl/rows/15/note": {
+    "zh-TW": "PPP 實質 GDP 等總體序列，到 2023 年",
+    "en": "PPP real GDP and other macro series, to 2023"
+  },
+  "intl/rows/16/note": {
+    "zh-TW": "名稱用 Taiwan；有沒有台灣看它用的上游資料，上游是世界銀行或 UNDP 的圖就沒有",
+    "en": "Uses \"Taiwan\", but coverage follows its upstream source: charts built on World Bank or UNDP data have no Taiwan"
+  },
+  "intl/rows/17/note": {
+    "zh-TW": "有台灣頁面，人口一格的來源是 Wikidata，不是官方統計",
+    "en": "Has a Taiwan page, though its population figure comes from Wikidata, not an official statistics office"
+  },
+  "intl/rows/18/note": {
+    "zh-TW": "民主指標，文件寫明中國條目不含台灣、港澳",
+    "en": "Democracy indices; its documentation states the China unit excludes Taiwan, Hong Kong and Macau"
+  },
+  "intl/rows/19/note": {
+    "zh-TW": "2026 年 93／100，列為「自由」",
+    "en": "93/100 in 2026, rated Free"
+  },
+  "intl/rows/20/note": {
+    "zh-TW": "2026 年 180 國第 28",
+    "en": "28th of 180 in 2026"
+  },
+  "intl/rows/21/note": {
+    "zh-TW": "2025 年 68 分，182 國第 24",
+    "en": "68 points in 2025, 24th of 182"
+  },
+  "intl/selfComputed/hdi/name": {
+    "zh-TW": "人類發展指數（HDI）",
+    "en": "Human Development Index (HDI)"
+  },
+  "intl/selfComputed/hdi/rank": {
+    "zh-TW": "依 UNDP 公式編算，2023 年排名第 21",
+    "en": "Computed with the UNDP formula; 21st for 2023"
+  },
+  "intl/selfComputed/hdi/by": {
+    "zh-TW": "行政院主計總處",
+    "en": "DGBAS, Executive Yuan"
+  },
+  "intl/selfComputed/gii/name": {
+    "zh-TW": "性別不平等指數（GII）",
+    "en": "Gender Inequality Index (GII)"
+  },
+  "intl/selfComputed/gii/rank": {
+    "zh-TW": "依 UNDP 公式編算，2023 年 173 國第 13",
+    "en": "Computed with the UNDP formula; 13th of 173 for 2023"
+  },
+  "intl/selfComputed/gii/by": {
+    "zh-TW": "行政院性別平等處",
+    "en": "Department of Gender Equality, Executive Yuan"
+  },
+  "intl/selfComputed/ggi/name": {
+    "zh-TW": "全球性別落差指數（GGI）",
+    "en": "Global Gender Gap Index (GGI)"
+  },
+  "intl/selfComputed/ggi/rank": {
+    "zh-TW": "依 WEF 公式編算，2025 年 148 國第 35",
+    "en": "Computed with the WEF formula; 35th of 148 for 2025"
+  },
+  "intl/selfComputed/ggi/by": {
+    "zh-TW": "行政院性別平等處",
+    "en": "Department of Gender Equality, Executive Yuan"
+  },
+  "story/overview/kicker": {
+    "zh-TW": "從 1950 年看到今天",
+    "en": "From 1950 to today"
+  },
+  "story/overview/title": {
+    "zh-TW": "七十五年，台灣變成今天這個樣子",
+    "en": "Seventy-five years: how Taiwan became what it is today"
+  },
+  "story/overview/essay": {
+    "zh-TW": "1950 年底，台灣有 755 萬人，那一年出生了 32 萬個嬰兒。1951 年平均每人 GDP 換算成美元是 154 元（名目，當年 1 美元兌 10.3 元新臺幣），1960 年農業還占全國產值的二成八。戒嚴令從 1949 年 5 月 20 日起實施，一實施就是三十八年。\n\n接下來七十五年，人口一路長到 2019 年底 2,360 萬人的高點，然後開始減少。出生數在 1963 年最多，有 42.7 萬人，2025 年只剩 10.8 萬人。平均每人 GDP 在 2025 年是 39,515 美元，農業占產值跌到 1.44%，工業的比重則從 2000 年之後回升，2025 年是 43.45%，是 1987 年以來最高。\n\n這些變化發生的先後，解釋了台灣今天的很多樣子：經濟起飛在戒嚴時期就開始了，1966 年高雄加工出口區啟用，1980 年新竹科學園區啟用。民主化接在經濟成熟之後，1987 年解嚴，同一年台積電成立，1996 年第一次總統直選，2000 年第一次政黨輪替。\n\n所以今天的台灣同時是這幾件事：5 奈米以下的先進晶片約九成由台積電生產，每 5 個人就有 1 位 65 歲以上，解嚴到現在還不到四十年。三件事互相牽動，晶片帶來的成長要撐起一個正在變老的社會，成長怎麼分配，交給一個年輕的民主來決定。\n\n下面七章，每一章從一個數字切進去：它怎麼變成今天這樣、會推動社會的哪些地方，再連到站上相關的文章。",
+    "en": "At the end of 1950 Taiwan had 7.55 million people, and 320,000 babies were born that year. GDP per person in 1951 came to US$154 (nominal, at that year's rate of NT$10.3 to the dollar), and in 1960 farming still made up 28% of national output. Martial law took effect on 20 May 1949 and lasted thirty-eight years.\n\nOver the next seventy-five years, the population grew to a peak of 23.6 million at the end of 2019 and then began to fall. Births peaked in 1963 at 427,000; in 2025 there were 108,000. GDP per person reached US$39,515 in 2025; farming's share of output fell to 1.44%, while industry's share has climbed back since 2000, to 43.45% in 2025, its highest since 1987.\n\nThe order in which these changes happened explains a great deal about Taiwan today: the economic take-off began under martial law, with the Kaohsiung Export Processing Zone opening in 1966 and Hsinchu Science Park in 1980. Democratisation followed a mature economy: martial law was lifted in 1987, the year TSMC was founded; the first direct presidential election came in 1996 and the first change of ruling party in 2000.\n\nSo Taiwan today is several things at once. About 90% of the world's most advanced chips, at 5 nanometres and below, are made by TSMC; one person in five is 65 or older; and martial law ended less than forty years ago. The three pull on one another: the growth chips bring has to support an ageing society, and how that growth is shared is decided by a young democracy.\n\nEach of the seven chapters below starts from one number: how it came to be what it is, what it sets in motion across society, and which stories on the site tell more."
+  },
+  "story/overview/chartTitle": {
+    "zh-TW": "出生數最多的一年是 1963 年，人口要到 2019 年才到頂",
+    "en": "Births peaked in 1963; the population did not peak until 2019"
+  },
+  "story/overview/source": {
+    "zh-TW": "內政部戶政司人口統計資料（年底人口、出生數、三階段人口）、主計總處國民所得統計（平均每人 GDP、產業結構）。1970 年以前的人口與出生數不含金門、連江（1963 年出生數是含金馬的全國數字）。每人 GDP 以當年匯率換算成美元，1955 到 1960 年的下降來自匯率變動。1960 到 1980 年的產業結構是舊制國民所得口徑，跟之後的數字不宜直接相減。",
+    "en": "Department of Household Registration (year-end population, births, population by age group); DGBAS national accounts (GDP per person, industry structure). Population and births before 1975 exclude Kinmen and Lienchiang (the 1963 birth figure is the national total including them). GDP per person is converted to US dollars at each year's exchange rate; the fall from 1955 to 1960 reflects the exchange rate. Industry shares for 1960–1980 use an older national-accounts definition and should not be compared directly with later figures."
+  },
+  "story/overview/bands/population/label": {
+    "zh-TW": "人口",
+    "en": "Population"
+  },
+  "story/overview/bands/population/unit": {
+    "zh-TW": "人，年底",
+    "en": "people, year-end"
+  },
+  "story/overview/bands/births/label": {
+    "zh-TW": "出生數",
+    "en": "Births"
+  },
+  "story/overview/bands/births/unit": {
+    "zh-TW": "人，全年",
+    "en": "per year"
+  },
+  "story/overview/bands/aged/label": {
+    "zh-TW": "65 歲以上",
+    "en": "Aged 65+"
+  },
+  "story/overview/bands/aged/unit": {
+    "zh-TW": "占總人口 %",
+    "en": "% of population"
+  },
+  "story/overview/bands/gdppc/label": {
+    "zh-TW": "平均每人 GDP",
+    "en": "GDP per person"
+  },
+  "story/overview/bands/gdppc/unit": {
+    "zh-TW": "美元，名目",
+    "en": "US$, nominal"
+  },
+  "story/overview/bands/agri/label": {
+    "zh-TW": "農業占產值",
+    "en": "Farming's share of output"
+  },
+  "story/overview/bands/agri/unit": {
+    "zh-TW": "占 GDP %",
+    "en": "% of GDP"
+  },
+  "story/overview/eras/0/label": {
+    "zh-TW": "戒嚴時期（1949–1987）",
+    "en": "Martial law (1949–1987)"
+  },
+  "story/overview/eras/1/label": {
+    "zh-TW": "解嚴之後",
+    "en": "After martial law"
+  },
+  "story/overview/marks/0/label": {
+    "zh-TW": "高雄加工出口區啟用",
+    "en": "Kaohsiung Export Processing Zone opens"
+  },
+  "story/overview/marks/1/label": {
+    "zh-TW": "新竹科學園區啟用",
+    "en": "Hsinchu Science Park opens"
+  },
+  "story/overview/marks/2/label": {
+    "zh-TW": "解嚴、台積電成立",
+    "en": "Martial law lifted; TSMC founded"
+  },
+  "story/overview/marks/3/label": {
+    "zh-TW": "全民健保開辦",
+    "en": "National Health Insurance begins"
+  },
+  "story/overview/marks/4/label": {
+    "zh-TW": "第一次總統直選",
+    "en": "First direct presidential election"
+  },
+  "story/overview/marks/5/label": {
+    "zh-TW": "第一次政黨輪替",
+    "en": "First change of ruling party"
+  },
+  "story/overview/marks/6/label": {
+    "zh-TW": "人口到頂（年底 2,360 萬人）",
+    "en": "Population peaks (23.6 million at year-end)"
+  }
+}

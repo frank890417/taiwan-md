@@ -1,6 +1,6 @@
 ---
 title: 'Jay Chou'
-description: 'A shy young man playing piano on a talent show, his debut album rewrote the history of Mandopop; through original styles, he proved creativity could be profitable and that Mandopop could conquer the world while maintaining Eastern characteristics.'
+description: 'A shy young man playing the piano on a talent show, his debut album rewrote the history of Mandopop. Through his original musical style, he proved to the music industry that songwriting could be commercially successful. With multiple albums, he demonstrated that Mandopop can maintain its Eastern identity while conquering the global stage. From a young creator whose manuscripts were repeatedly rejected, he has become a true musical revolutionary who disrupted the entire industry.'
 date: 2026-03-23
 category: 'People'
 tags:
@@ -9,9 +9,9 @@ tags:
     'Jay Chou',
     'Mandopop',
     'Singer',
-    'Composition',
+    'Songwriting',
     'R&B',
-    'Chinese Style',
+    'Zhongguofeng',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -29,7 +29,7 @@ lifeTree:
     extractedBy: 'Taiwan.md (Semiont) β-r5'
     extractedAt: '2026-04-26 13:30 +0800'
     note: '原文 references = 維基 / Time / IFPI / 鏡週刊 / 華視 / Block Tempo / Dcard 等。Counterfactual 主要對照同代華語流行（孫燕姿、王力宏、陶喆、吳青峰）的路徑。'
-  intro: '一個 1997 年在《超級新人王》上彈鋼琴的害羞 18 歲男孩，三年後改寫華語流行音樂歷史。從寫歌被退稿三年的助理到全球銷量冠軍。每個 turning（被退稿、自創公司、跨界導演、政治模糊）都有他沒走的路。'
+  intro: '一個 1997 年在《超級新人王》上彈鋼琴的害羞 18 歲男孩，三年後改寫華語流行音樂歷史。從作品屢遭退稿到全球銷量冠軍。每個 turning（被退稿、自創公司、跨界導演、政治模糊）都有他沒走的路。'
   themes:
     - id: 'original-mainstream'
       label: '原創 vs 主流公式'
@@ -49,38 +49,38 @@ lifeTree:
       age: 0
       type: 'given'
       theme: 'original-mainstream'
-      label: '1979 年生於台北'
-      scene: '家庭背景小康。從小學鋼琴。內向、害羞。'
+      label: '1979 年生於臺北縣林口鄉'
+      scene: '1979 年 1 月 18 日出生於臺北縣林口鄉（今新北市林口區）。'
     - id: 'super-newcomer'
       year: 1997
       month: 8
       age: 18
       type: 'choice'
       theme: 'original-mainstream'
-      scene: '台視《超級新人王》舞台。為高中同學伴奏的鋼琴手，害羞到不敢看鏡頭'
+      scene: 'TVBS-G《超級新人王》舞台。為高中同學伴奏的鋼琴手'
       chose:
         label: '上節目當伴奏'
-        consequence: '主持人吳宗憲注意到他樂譜寫得工工整整、和弦進行有想法。被簽進阿爾發音樂當助理。月薪兩萬，泡茶買便當 + 無止境創作。'
+        consequence: '主持人吳宗憲欣賞他的樂譜、認為他有潛力，之後在阿爾發音樂旗下多位歌手的歌曲中採用他的創作。'
       alternatives:
         - label: '不上節目'
           plausibility: 'structural'
           note: '同代會彈鋼琴的高中生很多沒被注意到，最後走音樂老師或考音樂系。如果他不上 1997 那場節目，吳宗憲不會看見他，後面 25 年華語樂壇歷史完全不同。'
         - label: '上節目想當主角自己唱'
           plausibility: 'structural'
-          note: '常規選秀路徑：主動爭取唱主歌位置。如果走，會被當「另一個唱抒情歌的男生」評估，可能淘汰，不會以「鋼琴助理」身份建立品味。'
+          note: '常規選秀路徑：主動爭取唱主歌位置。如果走，會被當「另一個唱抒情歌的男生」評估，可能淘汰，不會以伴奏鋼琴手的身份建立品味。'
     - id: 'three-years-rejected'
       year: 1999
       age: 21
       type: 'choice'
       theme: 'original-mainstream'
-      scene: '寫了上百首歌，全部被退稿。劉德華退《眼淚知道》、張惠妹退《忍者》。原因都是「太奇怪、太超前、市場接受不了」'
+      scene: '部分作品因風格特殊被退稿，例如劉德華的《眼淚知道》、張惠妹的《忍者》'
       chose:
         label: '繼續寫不放棄 + 等到江蕙收下《落雨聲》'
         consequence: '第一首被採用的歌。為《Jay》專輯鋪路。三年退稿期養成「我的東西不是給別人改的，我自己唱」的決心。'
       alternatives:
         - label: '退稿後改寫成市場喜歡的版本'
           plausibility: 'structural'
-          note: '常規路徑：年輕製作助理會根據退稿 feedback 不斷修改。如果走，可能更早有歌被採用但失去獨特風格，後來《Jay》不會發生。'
+          note: '常規路徑：年輕創作者會根據退稿 feedback 不斷修改。如果走，可能更早有歌被採用但失去獨特風格，後來《Jay》不會發生。'
         - label: '放棄音樂'
           plausibility: 'structural'
           note: '三年退稿足以讓多數人轉行。如果走，會去做別的工作，可能成為一個小有才華的素人音樂人。'
@@ -93,7 +93,7 @@ lifeTree:
       scene: '阿爾發音樂決定讓他自己出專輯'
       chose:
         label: '《Jay》全自製 + 融合 Rap/R&B/搖滾/古典/二胡 Hip-Hop'
-        consequence: '亞洲賣破百萬。改變唱片工業生態：證明音樂人可以做自己、創新可以賺錢。「華語樂壇相信公式」變「相信冒險」。'
+        consequence: '改變唱片工業生態：證明音樂人可以做自己、創新可以賺錢。「華語樂壇相信公式」變「相信冒險」。'
       alternatives:
         - label: '走標準偶像歌手路'
           plausibility: 'structural'
@@ -192,36 +192,34 @@ lifeTree:
           plausibility: 'structural'
           note: '常規華語天王路徑。如果走，能省成本但失去「亞洲流行天王」的國際品牌定位。'
 translatedFrom: 'People/周杰倫.md'
-sourceCommitSha: '2ad8c8cc2'
-sourceContentHash: 'sha256:f7b44615a84043f8'
-sourceBodyHash: 'sha256:15c277d38e9e5f3f'
-translatedAt: '2026-10-15T12:42:34+08:00'
+sourceCommitSha: '266b6b9f1'
+sourceContentHash: 'sha256:86256c6f2ae0a88a'
+sourceBodyHash: 'sha256:67921cd65544f76e'
+translatedAt: '2026-10-23T06:42:28.347366+00:00'
 ---
 
 # Jay Chou
 
-> **30-Second Overview:** In 1997, a shy 18-year-old boy played the piano on _Super New King_; three years later, his debut album rewrote the history of Mandopop. Jay Chou is more than just a singer; he is the man who made the entire music industry believe that "originality can sell." From 2000 to the present, he has used 16 albums to prove that Mandopop can conquer the global stage while preserving its Eastern identity.
+> **30-second overview:** In 1997, a shy 18-year-old boy played the piano on _Super New King_; three years later, his debut album rewrote the history of Mandopop. Jay Chou is more than just a singer; he is the person who made the entire music industry believe that "originality can sell." From 2000 to the present, he has used 16 albums to prove that Mandopop can maintain its Eastern characteristics while conquering the global stage.
 
-In 1999, inside the studios of JVR Music, Jay Chou was experiencing his Nth consecutive rejection. Andy Lau did not want his "Tears Know" (_Yanlei Zhidao_), and A-Mei rejected his "Ninja" (_Renzhe_). The entire Mandopop industry seemed to be telling this young creator: your music is too ahead of its time.
+Before his debut, many of Jay Chou's songs were rejected. Andy Lau did not accept his 《眼淚知道》 (Tears Know), and A-Mei also rejected 《忍者》 (Ninja) because of their unique styles.
 
-No one predicted that this 21-year-old production assistant would overturn everything just one year later.
+In 1999, Jolin Tsai sang 《落雨聲》 (Sound of Rain), which he co-wrote with Vincent Fang; this was the first song of his to be sold.
 
-## From Talent Show Supporting Act to Music Revolutionary
+## From Talent Show Supporting Act to Musical Revolutionary
 
-In August 1997, on the stage of TTV's _Super New King_, Jay Chou was not the protagonist. He was merely a pianist accompanying a high school classmate, too shy to even look at the camera. However, host Jacky Wu noticed a detail: this boy's musical scores were meticulously written, and his chord progressions were highly inventive.
+In August 1997, on the stage of TVBS-G's 《超級新人王》 (Super Newcomer King), Jay Chou was not the protagonist. He was a pianist accompanying his high school classmates. The host, Jacky Wu, admired his musical scores and recognized his potential; subsequently, he began using Jay Chou's compositions for various singers under Alfa Music.
 
-"I felt at the time that this person had something," Jacky Wu later recalled. No one remembered who the singers were in that talent show, but everyone remembered the boy playing the piano. After years of honing his craft behind the scenes, Jacky Wu signed Jay Chou to Alfa Music as an assistant with a monthly salary of NT$20,000. His duties included making tea, buying lunch boxes, and endless composition. During this period, Jay Chou wrote hundreds of songs, but every single one was rejected. Too strange, too avant-garde, the market cannot accept it—these were the reasons he heard for three years.
+Some of his works were rejected due to their unique styles, including Andy Lau's "Tears Know" (_Yanlei Zhidao_) and A-Mei's "Ninja" (_Renzhe_). In 1999, Jiang Hui sang "Sound of Rain" (_Luoyu Sheng_), the first collaboration between him and Vincent Fang, which was his first song to be sold.
 
-A turning point finally arrived in 1999. Jody Chiang accepted "Rainy Sounds" (_Luoyu Sheng_), a collaboration between him and Vincent Fang, marking Jay Chou's first accepted song.
+## 2000: A Musical Revolution via a Single Album
 
-## 2000: A Musical Revolution via One Album
-
-On November 7, 2000, Jay Chou's debut album _Jay_ was released. The opening track "Cute Woman" (_Ke'ai Nüren_) paired rap with R&B rhythms; "Perfectionism" (_Wanmei Zhuyi_) blended rock with classical piano; and "Nüzi" (_Niangzi_) directly brought the _erhu_ into the world of Hip-Hop.
+On November 7, 2000, Jay Chou released his debut album, 《Jay》. The opening track "Cute Woman" (_Ke'ai Nüren_) paired rap with R&B rhythms; "Perfectionism" (_Wanmei Zhuyi_) blended rock with classical piano; and "Nangong" (_Niangzi_) went as far as bringing the _erhu_ directly into the world of hip-hop.
 
 > **💡 Did You Know?**  
-> _Jay_ did something unprecedented: it proved that Mandopop could fuse everything together and sell exceptionally well. _Jay_ sold over a million copies in Asia, turning Jay Chou from an assistant into a superstar overnight.
+> 《Jay》 did something unprecedented: it proved that Mandopop could fuse everything together—and sell incredibly well. Jay Chou moved from being a behind-the-scenes creator to the center stage.
 
-More importantly, he changed the entire ecosystem of the recording industry. Before _Jay_, the formula for success in the Mandopop scene was simple: find someone who can sing, give them a few ballads, and package them as an idol. Jay Chou proved another path: musicians can be themselves, and innovation can be profitable.
+More importantly, he changed the entire ecosystem of the recording industry. Before 《Jay》, the formula for success in the Mandopop scene was simple: find someone who can sing, give them a few ballads, and package them as an idol. Jay Chou proved there was another way: musicians can be themselves, and innovation can be profitable.
 
 ## The Pioneer of "Chinese Style" Pop Music
 

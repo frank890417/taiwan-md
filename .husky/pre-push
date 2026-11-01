@@ -23,6 +23,36 @@ export PATH="$PATH:/usr/local/bin:/opt/homebrew/bin:/Users/cheyuwu/.bun/bin"
 # ─────────────────────────────────────────────────────────────────────────
 REPO="$(git rev-parse --show-toplevel 2>/dev/null)" || exit 0
 
+# ─────────────────────────────────────────────────────────────────────────
+# 解析可用的 Python 直譯器（2026-10-20 新增）
+#
+# 為什麼需要：這支 hook 底下的閘門工具需要 Python 3.11+（tomllib / PEP 604 註解），
+# 但 macOS 系統自帶的 /usr/bin/python3 是 **3.9**（Apple 不隨 OS 更新 Python）。
+# 在那種機器上，article-health.py 會以 ModuleNotFoundError **crash**，exit code 1，
+# 而 hook 把「exit != 0」一律解讀成「內容違規」→ 印出
+# 「⛔ 本次改動的 knowledge/*.md 有 HARD fail」。
+# **那是指錯方向的診斷**：跟文章的內容毫無關係，卻讓貢獻者去改一個沒問題的文章，
+# 或者（更常見）直接 --no-verify 繞過，等於把所有閘門一起關掉。
+#
+# 這裡在跑閘門**之前**先解析出真正能用的直譯器；找不到就明確報「環境缺執行器」，
+# 不讓「工具壞掉」被誤讀成「文章違規」。
+#
+# 找不到時的逃生：TWMD_SKIP_PREPUSH_SWEEP=1（CI 仍會擋）。
+# 庫：scripts/tools/lib/resolve-python.sh（exit 0=找到 / 3=找不到）
+# ─────────────────────────────────────────────────────────────────────────
+PY_BIN="python3"
+PY_RESOLVER="$REPO/scripts/tools/lib/resolve-python.sh"
+if [ -f "$PY_RESOLVER" ]; then
+  if _py_resolved="$(bash "$PY_RESOLVER" 2>/dev/null)"; then
+    [ -n "$_py_resolved" ] && PY_BIN="$_py_resolved"
+  else
+    # 解析失敗（exit 3＝找不到 3.11+）。診斷訊息由 lib 印在 stderr，
+    # 這裡只補一句「這不是內容問題」，避免又被誤讀成文章違規。
+    echo "🧬 pre-push: ⚠️ 閘門執行器不可用（找不到 Python 3.11+）— 閘門將無法檢查你的改動。"
+    echo "   這 **不是** 你的文章有問題；上面的訊息有安裝方法。CI 仍會用 Python 3.12 擋。"
+  fi
+fi
+
 # 1. parallel-actor / remote-ahead 狀態（共用 lib，含 git fetch）
 LIB="$REPO/scripts/tools/lib/check-parallel-actor.sh"
 if [ -x "$LIB" ]; then
@@ -66,7 +96,7 @@ elif [ "$SWEEP_SCOPE" = "changed" ] && [ -f "$REPO/scripts/tools/article-health.
     BAD=0
     for f in $CHANGED; do
       [ -f "$f" ] || continue
-      python3 "$REPO/scripts/tools/article-health.py" "$f" --profile=ci-deploy --quiet >/dev/null 2>&1 || BAD=1
+      "$PY_BIN" "$REPO/scripts/tools/article-health.py" "$f" --profile=ci-deploy --quiet >/dev/null 2>&1 || BAD=1
     done
     if [ "$BAD" = "1" ]; then
       echo "🧬 pre-push: ⛔ 本次改動的 knowledge/*.md 有 HARD fail — 修掉再推對方分支。"
@@ -75,11 +105,11 @@ elif [ "$SWEEP_SCOPE" = "changed" ] && [ -f "$REPO/scripts/tools/article-health.
   fi
   echo "🧬 pre-push: ✅ 本次改動檔全綠（推往非本庫 remote，全站掃描在對方樹上無意義，已退成 changed-only）"
 elif [ -f "$REPO/scripts/tools/article-health.py" ] && command -v python3 >/dev/null 2>&1; then
-  if ! python3 "$REPO/scripts/tools/article-health.py" --all --profile=ci-deploy --quiet >/dev/null 2>&1; then
+  if ! "$PY_BIN" "$REPO/scripts/tools/article-health.py" --all --profile=ci-deploy --quiet >/dev/null 2>&1; then
     echo ""
     echo "🧬 pre-push: ⛔ 全站 article-health 有 HARD fail — CI 一定會紅、deploy 不會發生。先在本機修掉再 push。"
     echo "   哪幾篇＋哪個 check："
-    echo "     python3 scripts/tools/article-health.py --all --profile=ci-deploy | grep -B30 'passed=False' | grep -E '🧬 knowledge|🔴'"
+    echo "     $PY_BIN scripts/tools/article-health.py --all --profile=ci-deploy | grep -B30 'passed=False' | grep -E '🧬 knowledge|🔴'"
     echo "   這道 gate 防的是「新 check / prettier mangle 讓不在本次 commit 的舊檔失格」——pre-commit 只驗 staged 抓不到。"
     echo "   逃生（routine 真的不能停）：TWMD_SKIP_PREPUSH_SWEEP=1 git push …（reflog 留痕，CI 仍會擋）"
     exit 1
@@ -137,7 +167,7 @@ if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" != "1" ] &&
   command -v python3 >/dev/null 2>&1; then
   # || true 必要：--check 對 out-of-sync（非 orphan）也 exit 1，husky sh -e 下賦值失敗會靜默炸整個 hook
   # （2026-07-24 實測：article-health ✅ 後 hook 無訊息 fail code 1——正是下面註解說要避免的「被 out-of-sync 遮蔽」）
-  tf_out="$(python3 "$REPO/scripts/tools/sync-translations-json.py" --check 2>&1 || true)"
+  tf_out="$("$PY_BIN" "$REPO/scripts/tools/sync-translations-json.py" --check 2>&1 || true)"
   if printf '%s' "$tf_out" | grep -q "Orphan translations"; then
     echo ""
     echo "🧬 pre-push: ⛔ 偵測到 orphan 譯本（translatedFrom 指向已刪除的中文 source）— CD prebuild 會 exit 2、deploy 不會發生。先在本機修掉再 push。"
@@ -145,6 +175,34 @@ if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" != "1" ] &&
     echo "   修：把 orphan 譯本 frontmatter 的 translatedFrom 改指新 slug，或刪掉該譯本 + redirect。"
     echo "   逃生（routine 真的不能停）：TWMD_SKIP_PREPUSH_SWEEP=1 git push …（reflog 留痕，CI 仍會擋）"
     exit 1
+  fi
+fi
+
+# 2b-3. correctness gate — TypeScript / Astro 型別。HARD fail → block。只在這次 push 動到 src/ 時跑（~20s）。
+#     `check:types` 從來只活在 CI 的 Engineering contracts job 裡，本機一道都沒有。
+#     而 routine 是 main-direct push（不開 PR），所以型別錯誤從 push 到有人看 CI 之間完全沒有閘門：
+#     2026-10-22 識別系統 v2 把 `categoryIcons[slug]` 寫進 TopicCard.astro（.mjs 推不出索引簽章），
+#     main 連紅六輪、20 小時，隔天早班才看到。更貴的是它排在那條 job 的第一步，
+#     後面四道 npm audit 全部 skipped —— 一個型別錯誤把整排安全閘門一起關掉。
+#     只在動到 src/ 時跑，babel 那種每天幾十次的譯文 push 完全不受影響。
+#     逃生：TWMD_SKIP_TYPES=1。
+if [ "${TWMD_SKIP_TYPES:-0}" = "1" ]; then
+  echo "🧬 pre-push: TWMD_SKIP_TYPES=1，跳過型別閘門（CI 仍會擋）"
+elif command -v npm >/dev/null 2>&1 && git rev-parse --verify -q origin/main >/dev/null 2>&1; then
+  # || true：origin/main 剛被別人推走時 diff 仍可能失敗，不讓賦值失敗在 sh -e 下靜默炸掉整個 hook
+  _src_touched="$(git diff --name-only origin/main...HEAD 2>/dev/null | grep -cE '^(src/|astro\.config\.mjs|tsconfig\.json)' || true)"
+  case "$_src_touched" in ''|*[!0-9]*) _src_touched=0 ;; esac
+  if [ "$_src_touched" -gt 0 ]; then
+    if ! npm run check:types >/tmp/twmd-check-types.log 2>&1; then
+      echo ""
+      echo "🧬 pre-push: ⛔ 型別閘門紅了（本次 push 動到 $_src_touched 個 src/ 檔）— CI 的 contracts job 第一步就會死在這裡，後面四道 npm audit 連跑都不會跑。"
+      # astro check 的輸出帶 ANSI 色碼，先剝掉再抓，否則錨在行首的 pattern 一條都對不上
+      sed -E 's/\x1b\[[0-9;]*m//g' /tmp/twmd-check-types.log | grep -E '^src/|error ts\(' | head -10
+      echo "   明細：npm run check:types"
+      echo "   逃生：TWMD_SKIP_TYPES=1 git push …（reflog 留痕，CI 仍會擋）"
+      exit 1
+    fi
+    echo "🧬 pre-push: ✅ 型別閘門全綠（$_src_touched 個 src/ 檔）"
   fi
 fi
 

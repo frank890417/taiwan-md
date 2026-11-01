@@ -1,63 +1,55 @@
 ---
 title: 'Brigitte Lin'
-description: "Lahir pada 1954 di kampung veteran Taipei, ia ditemukan oleh sutradara Song Cunshou di Ximending pada 1972 untuk membintangi 'Di Luar Jendela' karya asli Qiong Yao, menjadi dewi era film Qiong Yao dengan penampilannya yang murni, membentuk pasangan layar klasik yang melanda dunia berbahasa China bersama Qin Han dan Qin Xianglin; gaya rambut dan pakaiannya menjadi ikon mode. Pada 1992, ia kembali menulis klasik layar film bela diri dengan peran Dongfang Bubai yang menari dalam merah, melintasi era seni sastra dan bela diri."
+description: 'Lahir pada tahun 1954 dan tumbuh di desa militer, ia ditemukan oleh pencari bakat Yang Qi di Ximending pada tahun 1972. Setelah melalui audisi melalui perkenalan tersebut, ia terpilih sebagai pemeran utama dalam film adaptasi karya Qiong Yao, "Chuāng Wài" (Di Luar Jendela). Dengan parasnya yang murni, ia menjadi dewi di era film-film Qiong Yao dan membentuk pasangan layar lebar klasik bersama Qin Han dan Qin Xianglin yang sangat populer di seluruh dunia berbahasa Mandarin; gaya rambut dan pakaiannya pun menjadi ikon mode. Pada tahun 1992, ia mengukir sejarah klasik dalam genre wuxia melalui peran Dongfang Bubai yang mengenakan gaun merah terbang, melintasi dua era seni sastra dan bela diri.'
 date: 2026-03-19
 category: 'People'
 tags:
-  [
-    'Brigitte Lin',
-    'Aktris',
-    'Film Qiong Yao',
-    'Dongfang Bubai',
-    'Film Berbahasa Tionghoa',
-  ]
+  ['Brigitte Lin', 'Aktor', 'Film Qiong Yao', 'Dongfang Bubai', 'Film Mandarin']
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: 'e53f17151'
-sourceContentHash: 'sha256:7e12cc4002fc2007'
-sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-10-15T23:40:25.769352+00:00'
+sourceCommitSha: '5a694157b'
+sourceContentHash: 'sha256:d7565a0caf0e78ad'
+sourceBodyHash: 'sha256:c4c5c6f387033995'
+translatedAt: '2026-10-22T05:48:55.737986+00:00'
 ---
 
 # Lin Ching-hsia: Dari Dewi Film Sastra ke Legenda Wuxia
 
 Lin Ching-hsia melintasi dua era: film sastra Chiung Yao dan film wuxia Tsui Hark, menjadi salah satu aktris paling representatif di layar perak berbahasa Tionghoa. Di era 1970-an, dengan citra murni ia menjadi figur inti film Chiung Yao; di akhir 1980-an ia berhasil bertransformasi, menciptakan peran yang mengejutkan dalam 《東方不敗》. Karier aktingnya menyaksikan era emas film berbahasa Tionghoa.
 
-## Jalan Seorang Gadis Bunkermil Menuju Bintang
+## Perjalanan Bintang Gadis Desa Militer
 
-Lin Ching-hsia lahir pada 3 November 1954 di Taipei, asal leluhur dari Shantung. Ayahnya Lin Wei-liang adalah seorang prajurit, ibunya Lo Hsiu-yun adalah ibu rumah tangga. Tumbuh di lingkungan bunkermil, Lin Ching-hsia sejak kecil sudah menampakkan penampilan yang bersih dan temperamen yang tenang.
+Lin Ching-hsia lahir pada 3 November 1954, dengan asal leluhur dari Laiyang, Shandong (catatan Wikipedia mengenai tempat kelahirannya bervariasi; teks utama menyebutkan Sanchong, Kabupaten Taipei, sementara kotak informasi mencantumkan Dalin, Chiayi). Ayahnya, Lin Wei-liang, menjabat sebagai dokter militer di tentara nasional selama Perang Perlawanan terhadap Jepang, dan setelah pensiun, ia membuka klinik kecil di desa militer (_jun cun_); ibunya, Ma Lan-ying, melakukan pekerjaan sulam di rumah untuk membantu ekonomi keluarga. Tumbuh dalam lingkungan desa militer, Lin Ching-hsia sejak kecil telah menunjukkan penampilan yang jernih serta elegan dan pembawaan yang tenang.
 
-Sekolah menengah di Chinling Girls' High School, Lin Ching-hsia adalah siswa berprestasi yang memiliki minat kuat pada sastra dan seni. Pada 1972 di Ximending, ia ditemukan oleh sutradara Sung Tsun-shou yang mengundangnya membintangi 《窗外》, saat itu ia sedang mempersiapkan ujian masuk perguruan tinggi dan tidak memiliki persiapan untuk karier akting. [^1]
+Saat menempuh pendidikan menengah di SMA Putri Jinling, Lin Ching-hsia adalah siswi berprestasi yang memiliki minat mendalam terhadap sastra dan seni. Pada tahun 1972, ia gagal dalam ujian masuk universitas, namun kemudian bertemu dengan pencari bakat Yang Chi di Ximending. Melalui perkenalan tersebut, ia mengikuti audisi untuk film berdasarkan karya asli Chiung Yao berjudul 《窗外》, dan terpilih sebagai pemeran utama wanita, Jiang Yan-rong, di bawah arahan sutradara Song Cunshou. [^1]
 
-Dengan dukungan ibunya, Lin Ching-hsia memutuskan untuk mencoba akting film. Film pertamanya 《窗外》（1973） diadaptasi dari novel Chiung Yao, berakting bersama Chin Han, meneguhkan posisinya di film sastra. [^2]
+Film pertamanya, 《窗外》, dirilis pada Agustus 1973, yang diadaptasi dari novel karya Chiung Yao, serta mengukuhkan posisinya dalam genre film sastra. [^2]
 
-## Era Film Chiung Yao: Dewi Sastra
+## Dewi Sastra di Era Film Chiung Yao
 
-Keberhasilan 《窗外》 pada 1972 membuka era film Chiung Yao bagi Lin Ching-hsia. Dalam sepuluh tahun berikutnya, ia membintangi banyak karya Chiung Yao seperti 《彩雲飛》、 《心有千千結》、 《月朦朧鳥朦朧》.
+Kesuksesan 《窗外》 pada tahun 1973 membuka era film Chiung Yao bagi Lin Ching-hsia. Dalam sepuluh tahun berikutnya, ia membintangi berbagai karya Chiung Yao seperti 《彩雲飛》, 《心有千千結》, dan 《月朦朧鳥朦朧》.
 
-Citra murni Lin Ching-hsia sempurna memerankan tokoh wanita karya Chiung Yao: murni, baik hati, dan penuh perasaan. Kolaborasinya dengan Chin Han dan Chin Hsiang-lin membentuk pasangan layar klasik, merajalela di seluruh dunia Tionghoa.
+Citra murni Lin Ching-hsia menginterpretasikan karakter perempuan dalam tulisan Chiung Yao dengan sempurna: polos, baik hati, dan sentimental. Kolaborasinya dengan Chin Han dan Chin Hsiang-lin membentuk pasangan layar lebar klasik yang sangat populer di seluruh dunia Tionghoa.
 
-Lin Ching-hsia masa itu menjadi idola ribuan gadis remaja, gaya rambut dan pakaiannya menjadi tren mode. Film Chiung Yao juga berkat aktingnya memperoleh pengaruh dan keberhasilan komersial yang lebih besar.
+Pada periode ini, Lin Ching-hsia menjadi idola bagi banyak gadis remaja; gaya rambut dan pakaiannya pun menjadi tren mode. Film-film Chiung Yao juga memperoleh pengaruh dan kesuksesan komersial yang lebih besar berkat penampilannya.
 
-## Percobaan Beragam dalam Film Sastra
+## Eksperimen Beragam dalam Film Seni
 
-Selain film Chiung Yao, Lin Ching-hsia juga mencoba jenis film sastra lain. Pada 1979 berkolaborasi dengan sutradara Li Hsing dalam 《汪洋中的一條船》, menampilkan akting yang lebih dewasa.
+Selain film-film Chiung Yao, Lin Ching-hsia terus mengambil berbagai peran dalam film seni. 《我是一片雲》 (disutradarai oleh Chen Hung-lieh) pada tahun 1977 dan 《月朦朧鳥朦朧》 (disutradarai oleh Chen Yao-chi) pada tahun 1978 adalah karya-karyanya pada fase ini. Pada tahun 1976, ia memenangkan penghargaan Aktris Terbaik di Asia Pacific Film Festival melalui film 《八百壯士》, yang menandai awal pengakuan terhadap kemampuan aktingnya di ajang festival film.
 
-《我是一片雲》 pada 1981 adalah salah satu representatif film Chiung Yao-nya, adegan berhadapan dengan Chin Han sangat menyentuh. Karya ini menampilkan kedalaman keterampilan Lin Ching-hsia dalam adegan emosional.
+Pada awal 1980-an, Lin Ching-hsia mulai memikirkan transformasi dalam karier hiburannya. Ia menyadari bahwa citra tunggal sebagai "dewi film seni" mungkin akan membatasi ruang perkembangannya, sehingga ia mulai mencari peluang untuk melakukan terobosan.
 
-Awal 1980-an, Lin Ching-hsia mulai memikirkan transformasi karier aktingnya. Ia menyadari citra dewi sastra yang tunggal mungkin membatasi ruang pengembangannya, mulai mencari peluang untuk terobosan.
+## Merambah Hong Kong dan Bekerja Sama dengan New Wave
 
-## Pindah ke Hong Kong dan Kolaborasi dengan New Wave
+Pada tahun 1980-an, Lin Qingxia merambah pasar film Hong Kong, sebuah keputusan yang sepenuhnya mengubah perjalanan karier aktingnya. Lingkungan film Hong Kong yang beragam dan komersial memberikan ruang pengembangan yang lebih besar baginya.
 
-Tengah 1980-an, Lin Ching-hsia pindah ke pasar film Hong Kong, keputusan ini mengubah total karier aktingnya. Lingkungan film Hong Kong yang beragam dan komersial memberikan ruang pengembangan yang lebih luas baginya.
+Ia menjalin kerja sama dengan para sutradara Hong Kong New Wave dan mencoba berbagai jenis peran. Pengalaman-pengalaman ini membuat kemampuan aktingnya semakin matang, mempersiapkannya untuk mengambil peran dalam film-film wuxia karya Tsui Hark di kemudian hari.
 
-Ia membangun hubungan kerja dengan sutradara New Wave Hong Kong, mencoba peran berjenis berbeda. Pengalaman ini membuat aktingnya lebih matang, menyiapkannya untuk film wuxia Tsui Hark nantinya.
-
-Selama masa di Hong Kong, Lin Ching-hsia mempertahankan pengembangan di Taiwan dan Hong Kong, menjadi salah satu bintang langka yang mampu melintasi kedua pasar. Kesuksesannya menjadi teladan bagi aktor Taiwan berikutnya yang masuk ke Hong Kong.
+Selama masa merambah Hong Kong tersebut, Lin Qingxia tetap menjaga perkembangan karier di kedua wilayah, Taiwan dan Hong Kong, menjadikannya salah satu dari sedikit megabintang yang mampu menembus pasar di kedua wilayah tersebut. Kesuksesannya menjadi teladan bagi aktor-aktor Taiwan lainnya untuk merambah industri film Hong Kong di masa depan.
 
 ## Klasik Wuxia: Peran Menyejutkan dalam 《東方不敗》
 
@@ -75,37 +67,35 @@ Selain 《東方不敗》, keduanya juga berkolaborasi dalam 《新龍門客棧�
 
 Karya-karya kolaborasi ini sukses di boks office dan reputasi, membuktikan kebenaran transformasi Lin Ching-hsia. Ia tidak lagi hanya perwakilan film Chiung Yao, melainkan benar-benar bintang besar aliran akting.
 
-## Ekspresi Beragam pada 1990-an
+## Ekspresi Multidimensi pada 1990-an
 
-1990-an adalah periode paling aktif Lin Ching-hsia, ia mencoba berbagai jenis peran yang berbeda. Dari wuxia kost
+Awal 1990-an merupakan puncak terakhir sebelum Lin Qingxia pensiun dari dunia akting. Ia mencoba berbagai jenis peran yang berbeda, dan pada tahun 1990, ia berhasil meraih penghargaan Aktris Terbaik di Golden Horse Awards melalui film 《滚滚红尘》 (Red Dust). Dari drama wuxia kostum hingga drama modern, ia memberikan penampilan yang luar biasa.
 
-Jin Xiangyu dalam _New Dragon Gate Inn_, pembunuh bayaran berambut pirang dalam _Chungking Express_, dan Murong Yan dalam _Ashes of Time_ — setiap karakter memiliki daya tarik uniknya masing-masing. Lin Qingxia menunjukkan rentang akting yang menakjubkan.
+Jin Xiangyu dalam 《新龙门客栈》 (New Dragon Gate Inn), pembunuh wanita berambut pirang dalam 《重庆森林》 (Chungking Express), dan Murong Yan dalam 《东邪西毒》 (Ashes of Time)—setiap karakter memiliki pesona yang unik. Lin Qingxia menunjukkan rentang kemampuan akting yang menakjubkan.
 
-_Chungking Express_ dan _Ashes of Time_ karya Wong Kar-wai menghubungkan Lin Qingxia dengan film seni, membuktikan bahwa ia tidak hanya mampu memerankan film komersial, tetapi juga menguasai karya dengan nilai seni yang lebih tinggi.
+Film karya Wong Kar-wai, 《重庆森林》 (Chungking Express) dan 《东邪西毒》 (Ashes of Time), menghubungkan Lin Qingxia dengan film seni, membuktikan bahwa ia tidak hanya mampu membintangi film komersial, tetapi juga dapat menguasai karya-karya dengan nilai artistik yang tinggi.
 
-## Pensunan dan Tahap Baru Kehidupan
+## Pensiun dari Dunia Film dan Fase Baru Kehidupan
 
-1994, Lin Qingxia mengumumkan pensunannya, memilih untuk fokus pada kehidupan keluarga. Keputusan ini membuat penggemar film yang tak terhitung jumlahnya merasa sayang, namun juga memahami pilihan hidupnya.
+Pada 29 Juni 1994, Lin Qingxia menikah dengan pengusaha Hong Kong Xing Liyuan di San Francisco, dan setelah itu ia menarik diri dari dunia perfilman untuk fokus pada kehidupan keluarga. Keputusan ini membuat banyak penggemar merasa menyesal, namun mereka juga memahami pilihan hidupnya tersebut.
 
-Setelah pensun, Lin Qingxia menikah dengan pengusaha Xing Liyuan dan dikaruniai dua putri. Ia memindahkan fokus hidup ke keluarga, jarang muncul di publik, semakin menambah aura misteriusnya.
+Setelah menikah, ia dikaruniai dua anak perempuan yang masing-masing lahir pada tahun 1996 dan 2001. Ia mengalihkan fokus hidupnya ke keluarga dan jarang muncul di hadapan publik, yang justru menambah kesan misterius pada dirinya.
 
-Meskipun pensun, pengaruh Lin Qingxia tidak meredup. Karya-karya klasiknya terus tayang ulang di televisi, dan penonton generasi baru pun mengenal pesonanya lewat karya-karya tersebut.
+Meskipun telah pensiun dari dunia film, pengaruh Lin Qingxia tidak memudar. Karya-karya klasiknya terus ditayangkan ulang di televisi, dan generasi penonton baru pun mengenal pesonanya melalui karya-karya tersebut.
 
-## Percobaan Baru dalam Penulisan
+## Upaya Baru dalam Penulisan Kreatif
 
-Setelah pensun, Lin Qingxia mulai mencoba penulisan, menerbitkan kumpulan esai _Di Dalam dan Di Luar Jendela_ dan lain-lain. Ia mencatat renungan hidup dan pengalaman pribadi dengan gaya tulis yang halus.
+Setelah pensiun dari dunia film, Lin Qingxia mulai mencoba penulisan kreatif dan secara berturut-turut menerbitkan kumpulan esai seperti 《窗裏窗外》 (2011) dan 《雲去雲來》 (2014). Ia menggunakan gaya bahasa yang halus untuk mencatat perenungan hidup dan pengalaman pribadinya.
 
-Karya tulis Lin Qingxia mendapat pengakuan dari kalangan sastra, membuktikan bahwa ia bukan hanya aktris berbakat, tetapi juga penulis berbakat. Keberagaman bakat ini semakin menimbulkan rasa hormat.
+Karya tulis Lin Qingxia mendapatkan pengakuan dari dunia sastra, membuktikan bahwa ia bukan hanya seorang aktris yang luar biasa, tetapi juga seorang penulis yang berbakat. Bakat yang beragam ini membuat orang semakin mengaguminya.
 
-Ia juga berbagi pengalaman akting dan renungan hidup lewat tulisan, memungkinkan penggemar memahami dunia batinnya lebih dalam. Karya-karya ini menjadi Arsip sejarah film yang berharga.
+Ia juga berbagi pengalaman di dunia hiburan dan pemikiran hidupnya melalui tulisan, sehingga para penggemar dapat memahami dunia batinnya secara lebih mendalam. Karya-karya ini telah menjadi materi sejarah film yang berharga.
 
-## Makna Khusus dari Kemunculan Kembali Sesekali
+## Makna Khusus dari Kemunculan Kembali yang Jarang
 
-Meskipun sudah pensun resmi, Lin Qingxia sesekali kembali untuk proyek-proyek khusus. Tahun 2013 ia cameo di _101st Proposal_, memicu perhatian hangat dari penggemar.
+Meskipun telah pensiun dari dunia hiburan, Lin Qingxia masih sesekali muncul di acara-acara publik. Pada Januari 2013, ia diundang untuk menjadi duta budaya pertama bagi program "Reading New Wave" yang diselenggarakan oleh Kementerian Kebudayaan, dan pada November tahun yang sama, ia hadir sebagai tamu kehormatan dalam upacara penganugerahan Golden Horse Awards ke-50. Pada tahun 2023, ia dianugerahi Penghargaan Pencapaian Seumur Hidup (Lifetime Achievement Award) di Golden Horse Awards.
 
-Meskipun perannya tidak besar, setiap kemunculan kembali selalu jadi sorotan. Terlihat jelas daya tarik dan pengaruh Lin Qingxia.
-
-Ia juga hadir di sejumlah festival film dan acara penghargaan, dan setiap kehadirannya selalu menimbulkan gemparan. Pengaruh waktu justru membuatnya semakin anggun mempesona.
+Setiap kali ia muncul di festival film maupun upacara penganugerahan, kehadirannya selalu menimbulkan sensasi. Kedewasaan seiring berjalannya waktu membuatnya tampil semakin anggun dan memikat.
 
 ## Pengaruh yang Melampaui Era
 

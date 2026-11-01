@@ -1,10 +1,16 @@
 ---
-title: "Das Volk der Hla'alua: Vom «Südlichen Tsou» zum eigenen Namen – was das Miatungusu-Fest bewahrt"
-description: "Am 26. Juni 2014 wurden die Hla'alua als 15. indigene Volksgruppe Taiwans offiziell anerkannt. Dies war keine Abspaltung von den Tsou, sondern die Rückgabe eines einst zusammengefügten Namens an jene, die ihn tragen – zwischen den vier Gemeinden von Taoyuan, dem Miatungusu-Fest und einer vom Aussterben bedrohten Sprache."
+title: "Hla'alua: Von den „Süd-Tsou“ zu ihrem eigenen Namen – was das Miatungusu-Fest bewahrt"
+description: "Am 26. Juni 2014 wurden die Hla'alua als 15. indigene Volksgruppe Taiwans offiziell anerkannt. Dies bedeutet keinen Bruch mit den Tsou, sondern dass ein einst zusammengefügter Name in den vier Gemeinden von Taoyuan, beim Miatungusu-Fest und in der vom Aussterben bedrohten Sprache an jene zurückgegeben wurde, die ihn tragen."
 date: 2026-08-18
 category: 'Culture'
 tags:
-  ["Hla'alua", 'Miatungusu', 'indigene Völker Taiwans', 'Sprachrevitalisierung']
+  [
+    "Hla'alua",
+    "Hla'alua",
+    'Miatungusu',
+    'indigene Völker',
+    'Sprachrevitalisierung',
+  ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-10-21T02:08:46.921752+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Am 26. Juni 2014 erhielten die Hla'alua und die Kanakanavu die offizielle Anerkennung und wurden zur 15. bzw. 16. indigenen Volksgruppe Taiwans. Die Geschichte der Hla'alua ist nicht nur eine administrative «Teilung»: Sie betrifft die vier Gemeinden von Taoyuan, das Miatungusu-Fest mit seinen Muscheln im Zentrum und eine Sprache, die in den Zwängen von Bunun, Guoyu und dem Bildungssystem allmählich ihren Alltagsraum verlor. Was die Namenskorrektur wirklich zurückerobern will, ist das Recht der Angehörigen, ihre eigene Geschichte in ihrem eigenen Namen zu erzählen.
@@ -83,22 +89,22 @@ Daher liegt die Bedeutung der Hla'alua nicht in der Zahl «Taiwan hat eine 15. G
 
 Beim nächsten Miatungusu wird der Zeremonienmeister wieder Muschel, Wein und Angehörige gegenüberstehen. Diese Handlung wirkt klein, doch sie beantwortet eine grosse Frage: Wenn ein Name einst von anderen vereinnahmt wurde – wer ist noch bereit, ihn zurückzuholen?
 
-## Referenzen
+## Quellen
 
-[^1]: [Hla'alua｜Rat der indigenen Völker](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Offizielle Gruppenkurzinformation, Verteilung der vier Gemeinden, Miatungusu, Handwerk und Sozialorganisation.
+[^1]: [Hla'alua-Volk | Rat der indigenen Völker](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Offizielle Einführung der Ethnie, Verteilung der vier Gemeinden, Miatungusu (Heiliges Muschelfest), Handwerk und Informationen zur sozialen Organisation.
 
-[^2]: [«Teilung» als erneute emotionale Verbindung｜Dokumentation der indigenen Völker](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Dokumentiert die Namenskorrektur 2014, die Anhörung 2012 sowie Beziehung und Forderungen zwischen Hla'alua und Tsou.
+[^2]: [„Fen“ ist die emotionale Wiederverbindung | Dokumentation der indigenen Völker](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Dokumentiert die offizielle Namensanerkennung 2014, die öffentliche Anhörung 2012 sowie die Beziehung und Forderungen zwischen dem Hla'alua-Volk und dem Tsou-Volk.
 
-[^3]: [«Hla'alua», «Kanakanavu» – Indigene Völker auf 16 erhöht｜PTS News](https://news.pts.org.tw/article/272343) — Billigung der Namenskorrektur 2014, beide Gruppen werden 15. und 16. Gruppe, Nachrichtenbericht über Namenskorrektur und Kultur- und Spracherhalt.
+[^3]: [„Hla'alua“ und „Kanakanavu“: Indigene Völker erhöhen sich auf 16 | PTS News](https://news.pts.org.tw/article/272343) — Offizielle Namensanerkennung 2014, beide Völker werden zum 15. und 16. Volk, sowie Nachrichtenberichte über Namensanerkennung und Erhalt von Kultur und Sprache.
 
-[^4]: [Kulturmarketing – Magische heilige Muschel: Der Muschelgott der Hla'alua｜Kulturamt der Stadt Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Lokale Kulturpublikation stellt zeitgenössischen Ablauf des Miatungusu, Weindarbringung an die heilige Muschel und Muschelwerfen um Glück vor.
+[^4]: [Kulturelles kreatives Marketing – Magisches Heiliges Muschelfest: Der Muschelgott der Hla'alua | Kulturamt der Stadt Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Lokale Kulturpublikation stellt den zeitgenössischen Ablauf des Miatungusu, die Weinopferzeremonie und das Werfen der Muscheln zur Erlangung von Glück vor.
 
-[^5]: [Kulturlerreise zum Miatungusu der Hla'alua 2025｜Nationale Pädagogische Universität Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Veranstaltungsorte und Beschreibung der Ritual-Kulturlerreise 2025.
+[^5]: [Kulturelle Lernreise zum Miatungusu der Hla'alua 2025 | Nationale Pädagogische Universität Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Ort und Beschreibung der kulturellen Lernaktivitäten des Ritualfestes 2025.
 
-[^6]: [Sprachverlust und -revitalisierung der Hla'alua｜Dokumentation der indigenen Völker](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Sprachgenealogie, Feldinterviews, Gründe des Sprachverlusts und Revitalisierungskonzepte.
+[^6]: [Sprachverlust und Revitalisierung der Hla'alua-Sprache | Dokumentation der indigenen Völker](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Sprachgenealogie, Feldinterviews, Gründe für den Sprachverlust und Konzepte zur Revitalisierung.
 
-[^7]: [Symposium zum Aufbau des Wissenssystems der beiden Völker teilt Ergebnisse und fördert Austausch｜Indigenous Television](https://news.ipcf.org.tw/136202) — Bericht über die Wissensforschung der beiden Völker 2024, Hla'alua-Phonologie und Aufbau des Wissenswörterbuchs.
+[^7]: [Aufbau der Wissenssysteme zweier Völker: Symposium teilt Ergebnisse und fördert Austausch | Indigenous Television News](https://news.ipcf.org.tw/136202) — Bericht über die Wissensforschung der beiden Völker 2024, den Aufbau der Phonologie und des Wissenswörterbuchs der Hla'alua-Sprache.
 
-[^8]: [Hla'alua｜Nationales Kulturgedächtnis](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Kultureintrag zu Gruppenverteilung, vier Gemeinden, Namenskorrektur 2014 und Miatungusu.
+[^8]: [Hla'alua-Volk Hla'alua | Nationale Kulturgedächtnisdatenbank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Einträge zum kulturellen Gedächtnis über Verteilung der Ethnie, vier Gemeinden, Namensanerkennung 2014 und Miatungusu.
 
-[^9]: [Hla'alua｜Zentrum für Entwicklung der indigenen Kultur](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Einführung der Hla'alua im Kulturpark der indigenen Völker.
+[^9]: [Hla'alua-Volk | Zentrum für kulturelle Entwicklung der indigenen Völker](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Eingangsportal zur Einführung der Hla'alua im Kulturpark der indigenen Völker.

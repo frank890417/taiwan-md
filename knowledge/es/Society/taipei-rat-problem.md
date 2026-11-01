@@ -19,10 +19,10 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-07-27T06:21:30+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:01:10.585524+00:00'
 ---
 
 # La plaga de ratas en Taipéi: Desde el decreto antirrábico del Gobierno General de 1896 hasta el virus Hanta en el distrito de Da'an en 2026
@@ -77,23 +77,23 @@ Cuando los criadores de cerdos dejan de recoger residuos de cocina en todo el ci
 
 📝 **Nota del curador:** En enero de 2026, el Ministerio de Agricultura terminó una vía de "residuos de cocina → cerdos" que había existido durante medio siglo; a finales de ese mismo mes, apareció el primer caso de muerte por Hanta en 25 años en Taipéi. Estos dos eventos no son una coincidencia, son el resultado de un sistema que redistribuye las calorías.
 
-## V. La elección del gobierno municipal: Esparcir veneno y la reacción que provoca
+## V. La elección del gobierno municipal: el uso de veneno y la reacción que este provocó
 
-Ante la explosión de la opinión pública, la respuesta del Bureau de Protección Ambiental de Taipéi fue "veneno preciso", utilizando productos químicos ambientales aprobados por el gobierno central (mayormente anticoagulantes como "Ratex"), enfatizando la seguridad de las mascotas[^23].
+Ante la explosión de la opinión pública, la respuesta del Bureau de Protección Ambiental de Taipéi fue realizar una «dosificación de precisión», utilizando productos químicos ambientales aprobados por el gobierno central (principalmente anticoagulantes como «Ke Mie Shu») y enfatizando que se velaría por la seguridad de las mascotas[^23].
 
-Pero esta elección fue rechazada casi de inmediato por tres fuerzas simultáneamente:
+Sin embargo, esta elección fue rechazada casi de inmediato por tres fuerzas distintas:
 
-**1. El Ministerio de Ambiente central**: El ministro de Ambiente, Peng Chih-ming, pidió públicamente el 2 de mayo que el control de roedores debe adoptar el principio de "tres no para ratas", con "la limpieza ambiental como principal y el veneno como auxiliar": no permitir que las ratas vengan, no permitir que las ratas vivan, no permitir que las ratas coman. El propio FAQ de control de roedores domésticos del Bureau de Protección Ambiental también estaba escrito así[^24][^25].
+**1. El Ministerio de Ambiente**: El ministro de Ambiente, Peng Chi-ming, hizo un llamamiento público el 2 de mayo instando a que el control de roedores se base en el principio de las «tres no para ratas» —no dejar que vengan, no dejar que vivan y no dejar que coman—, priorizando la «limpieza ambiental sobre la dosificación química». De hecho, el propio FAQ de prevención de ratas domésticas del Bureau de Protección Ambiental sigue esta misma línea[^24][^25].
 
-**2. La comunidad ecológica**: El equipo de Sun Yuan-hsün del Laboratorio de Ecología de Aves de la Universidad Nacional de Pingtung publicó en 2019 en _Science of the Total Environment_ un estudio que indicaba que los rapaces de Taiwán (buitre negro, halcón orejudo, halcón peregrino) presentaban **residuos generalizados de rodenticidas anticoagulantes**, y que la concentración estaba altamente correlacionada con la política gubernamental de "semanas de exterminio de roedores" promovida durante mucho tiempo[^26][^27].
+**2. La comunidad ecológica**: El equipo liderado por Sun Tsung-min, del Laboratorio de Ecología de Aves de la Universidad de Ciencia y Tecnología de Pingtung, publicó un estudio en _Science of the Total Environment_ en 2019 que señalaba que se detectaban **residuos de rodenticidas anticoagulantes de forma generalizada** en las aves rapaces de Taiwán (como el milano negro, el águila de Crested y el halcón peregrino), y que la concentración estaba estrechamente relacionada con la «semana de exterminio de roedores» promovida por el gobierno durante largo tiempo[^26][^27].
 
-**3. La propia lección histórica del Ministerio de Agricultura**: Debido a una serie de eventos de muerte por envenenamiento de buitres negros, el Comité de Agricultura (ahora Ministerio de Agricultura) comenzó a cancelar gradualmente en 2015 la "Semana Nacional de Exterminio de Roedores en Tierras Agrícolas" que había estado en vigor durante **40 años**, declarando oficialmente que la gobernanza de plagas de roedores en Taiwán pasaba de "esparcir veneno" a la ciencia y la ecología amigable[^28][^29].
+**3. Las lecciones históricas del propio Ministerio de Agricultura**: Debido a una serie de incidentes de envenenamiento y muerte de milanos negros, el Consejo de Agricultura (actual Ministerio de Agricultura) comenzó a cancelar gradualmente la «Semana Nacional de Exterminio de Roedores en Tierras Agrícolas», una práctica que había durado **40 años**, marcando así el fin oficial de la era del «uso de veneno» para avanzar hacia una gestión de plagas científica y ecológicamente responsable en Taiwán[^28][^29].
 
-En otras palabras: **cuando el departamento agrícola ya había salido de la era de la "semana de exterminio de roedores" debido a la conservación de rapaces, el esparcimiento de veneno en las calles del Bureau de Protección Ambiental de Taipéi en 2026 equivale a recoger la herramienta que el campo rural abandonó hace solo una década para usarla en la ciudad.**
+En otras palabras: **cuando el sector agrícola ya ha abandonado la era de la «semana de exterminio» por la conservación de las aves rapaces, el Bureau de Protección Ambiental de Taipéi, al dosificar veneno en las calles en 2026, está recuperando una herramienta que el mundo rural dejó atrás hace diez años para aplicarla en la ciudad.**
 
-El 4 de mayo, el director del Bureau de Protección Ambiental, Hsu Shih-chun, se vio obligado a ceder, diciendo que intentaría "integrar y publicar la información de llenado de madrigueras, información de uso de venenos y mapas de zonas de calor relativas"[^30]; al día siguiente, el alcalde, Ko Wen-je, salió a prometer que se elaborarían medidas de respuesta específicas para "la limpieza ambiental integral de la zona urbana"[^31][^32]. El legislador opositor, Hsu Shu-hua, atacó simultáneamente: las reuniones interdepartamentales solo se celebraron tres veces, medio paso tarde[^33].
+El 4 de mayo, el director del Bureau de Protección Ambiental, Hsu Shih-shun, se vio obligado a ceder, afirmando que intentarían «rellenar las madrigueras e integrar y publicar la información sobre el uso de productos químicos junto con los mapas de zonas de calor relativas»[^30]. Al día siguiente, el alcalde [Tsai Wan-an](/people/蔣萬安) se presentó para prometer la elaboración de medidas de respuesta concretas para una «limpieza ambiental integral en la zona urbana»[^31][^32]. Paralelamente, la concejala de la oposición Hsu Shu-hua lanzó una crítica: las reuniones interdepartamentales solo se han celebrado tres veces; van un paso por detrás[^33].
 
-📝 **Nota del curador:** "Esparcir veneno es visible, limpiar grietas no lo es": esta es la economía política fundamental de la gobernanza de la plaga de ratas en Taipéi. Bajo la presión electoral, lo visible es más importante que lo efectivo.
+📝 **Nota del curador:** «El veneno se ve, pero los huecos y grietas no» —esta es la economía política fundamental de la gestión de ratas en Taipéi. Bajo la presión electoral, lo que es visible resulta más importante que lo que es efectivo.
 
 ## VI. La infraestructura invisible: Alcantarillas combinadas, pasillos cubiertos (qilou), mercados nocturnos
 

@@ -156,7 +156,7 @@ Desa Matas-an pasca-banjir juga menampilkan sisi baru hubungan etnis. Bencana me
 
 ## Demokrasi Bencana Era Digital
 
-###救援 Partisipatif: Dari Penerima Pasif ke Kolaborator Aktif
+### 救援 Partisipatif: Dari Penerima Pasif ke Kolaborator Aktif
 
 Manajemen bencana tradisional mengikuti logika hierarkis "atasan memerintahkan, bawahan melaksanakan", korban dilihat sebagai objek yang menunggu救援.救援 bencana era digital menampilkan ciri "tata kelola partisipatif": korban bersuara melalui media sosial, relawan mengorganisir diri melalui jaringan, membentuk jaringan救援 multi-sentris[^3].
 

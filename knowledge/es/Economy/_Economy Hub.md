@@ -96,16 +96,16 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[tsmc]]​: Desarrollo del líder de la industria de semiconductores global
-- [[Parque Científico de Hsinchu]]​: Lugar de origen de la industria de alta tecnología de Taiwán
-- [[Cuatro Tigres Asiáticos]]​: Comparación internacional del milagro económico taiwanés
-- [[Industria de Semiconductores]]​: Base tecnológica de la posición de Isla del Silicio de Taiwán
-- [[Industrialización Orientada a la Exportación]]​: Estrategia de desarrollo para el despegue económico de Taiwán
-- [[Reforma Agraria]]​: Punto de partida de la modernización económica de Taiwán
-- [[Diez Grandes Proyectos de Construcción]]​: Infraestructura para el desarrollo económico de Taiwán
-- [[Industria de Servicios]]​: Transformación modernizadora de la estructura económica de Taiwán
-- [[Ecosistema Startup]]​: Construcción del entorno de innovación y emprendimiento de Taiwán
-- [[Desarrollo Sostenible]]​: Nueva dirección de transformación verde de la economía taiwanesa
+- [[tsmc]]: Desarrollo del líder de la industria de semiconductores global
+- [[Parque Científico de Hsinchu]]: Lugar de origen de la industria de alta tecnología de Taiwán
+- [[Cuatro Tigres Asiáticos]]: Comparación internacional del milagro económico taiwanés
+- [[Industria de Semiconductores]]: Base tecnológica de la posición de Isla del Silicio de Taiwán
+- [[Industrialización Orientada a la Exportación]]: Estrategia de desarrollo para el despegue económico de Taiwán
+- [[Reforma Agraria]]: Punto de partida de la modernización económica de Taiwán
+- [[Diez Grandes Proyectos de Construcción]]: Infraestructura para el desarrollo económico de Taiwán
+- [[Industria de Servicios]]: Transformación modernizadora de la estructura económica de Taiwán
+- [[Ecosistema Startup]]: Construcción del entorno de innovación y emprendimiento de Taiwán
+- [[Desarrollo Sostenible]]: Nueva dirección de transformación verde de la economía taiwanesa
 
 ---
 

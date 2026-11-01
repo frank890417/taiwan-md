@@ -1,130 +1,130 @@
 ---
-title: 'Cetáceos de Taiwán'
-description: 'Hogar de un tercio de las especies de cetáceos del mundo: desde la caza ballenera del pasado hasta el avistamiento de ballenas actual, ¿cómo se ha transformado Taiwán en un centro de referencia de investigación en ecología marina?'
+title: 'Cetáceos en Taiwán'
+description: 'Hábitat de un tercio de las especies de cetáceos del mundo: desde la antigua caza hasta el avistamiento actual, ¿cómo se ha convertido Taiwán en un centro de investigación marina?'
 date: 2026-03-19
-author: '海女'
 category: 'Nature'
-subcategory: '野生動物'
 tags:
   [
     'Taiwán',
-    'Cetáceos',
-    'Océano',
-    'Naturaleza',
-    'Conservación',
-    'Avistamiento de ballenas',
-    'Delfín jorobado del Indo-Pacífico',
-    'Corriente Kuroshio',
+    'cetáceos',
+    'océano',
+    'naturaleza',
+    'conservación',
+    'avistamiento de ballenas',
+    'delfín blanco de China',
+    'Kuroshio',
   ]
-readingTime: 12
+subcategory: '野生動物'
+author: '海女'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fa8568c6d129180a'
-sourceBodyHash: 'sha256:7c0ff1bf77404541'
-translatedAt: '2026-05-17T05:33:00Z'
-featured: false
+sourceCommitSha: '67b47e6e2'
+sourceContentHash: 'sha256:25aeb2d906c8c30f'
+sourceBodyHash: 'sha256:de417ec564a13cee'
+translatedAt: '2026-10-21T12:32:42+08:00'
 ---
 
-# Cetáceos de Taiwán
+# Cetáceos en Taiwán
 
 ## Resumen en 30 segundos
 
-Taiwán se encuentra en el margen del noroeste del Océano Pacífico; su ubicación geográfica privilegiada y su compleja topografía submarina han dado origen a una ecología marina diversa. Las aguas del este están nutridas por la Corriente Kuroshio (Kuroshio Current), mientras que el oeste alberga una amplia plataforma continental.
+Taiwán se encuentra en el margen del Pacífico Noroeste. Su ubicación geográfica privilegiada y su compleja topografía submarina albergan una diversa ecología marina. Las aguas del este son nutridas por la corriente de **Kuroshio**, mientras que el oeste cuenta con una amplia plataforma continental.
 
-En estas aguas se han registrado más de **32 especies** de cetáceos, lo que representa más de un tercio de las especies de cetáceos del mundo.[^2] Desde los juguetones delfines rotatorios y los misteriosos cachalotes, hasta el delfín jorobado del Indo-Pacífico «pez Matsu» en peligro crítico de extinción, Taiwán no solo es un hábitat fundamental para los cetáceos, sino también un punto clave de biodiversidad marina global.
-
----
-
-## Por qué es importante
-
-Los cetáceos se encuentran en la cima de la cadena alimentaria marina y son **especies indicadoras** de la salud oceánica. Su presencia refleja la abundancia y el equilibrio de todo el ecosistema. La actitud de Taiwán hacia los cetáceos refleja también una profunda transformación de los valores de la isla: desde la historia de la caza ballenera de posguerra en la década de 1950, pasando por la prohibición total de la caza en la década de 1990, hasta la salida del primer barco de avistamiento de ballenas en 1997, la sociedad taiwanesa ha pasado de «explotar el océano» a «acercarse a él y protegerlo». Este proceso documenta con claridad el despertar de la conciencia ambiental en Taiwán.
+En estas aguas se han registrado **33 especies** de cetáceos (incluyendo una ballena gris en la lista provisional), lo que representa aproximadamente un tercio de las más de 90 especies existentes en el mundo. [^2] Desde los vivaces delfines giradores y los misteriosos cachalotes, hasta el delfín blanco de China (_Sousa chinensis taiwanensis_), conocido como el «pez de Mazu» y que se encuentra en peligro crítico de extinción (población del oeste de Taiwán); Taiwán no es solo un hábitat importante para los cetáceos, sino también un punto clave para la biodiversidad marina global.
 
 ---
 
-## Un hábitat privilegiado
+## Por qué son importantes
 
-Taiwán está rodeada de mar, pero los entornos marinos de las costas este y oeste son radicalmente distintos, lo que ha dado lugar a una gran diversidad de ecosistemas de cetáceos:
-
-### Aguas del este: autopista de aguas profundas
-
-La línea costera del este desciende abruptamente, y a poca distancia de la orilla la profundidad supera los 1.000 metros. Además, la corriente principal de la **Corriente Kuroshio** fluye hacia el norte pegada a la costa este, y sus aguas cálidas traen una gran cantidad de peces migratorios y cefalópodos. Este es el paraíso de los cetáceos de buceo profundo y pelágicos, como los cachalotes, los zifios y diversas especies de delfines.
-
-### Aguas del oeste: guardería de aguas someras
-
-El Estrecho de Taiwán es una amplia plataforma continental con aguas poco profundas (una media de unos 60 metros) y un relieve suave. Es el hábitat ideal para los cetáceos costeros, siendo los más conocidos la subespecie endémica **delfín jorobado del Indo-Pacífico** (_Sousa chinensis taiwanensis_) y la **marsopa de aletas derechas**.
+Los cetáceos ocupan la cima de la cadena alimentaria marina, por lo que son **especies indicadoras** de la salud del océano. Su presencia refleja la abundancia y el equilibrio de todo el ecosistema. La actitud de Taiwán hacia los cetáceos también refleja un profundo cambio en los valores de la isla: desde la caza comercial de ballenas tras la guerra y los métodos de pesca por expulsión en Penghu, pasando por su clasificación como especie protegida en 1990, hasta el inicio del primer barco de avistamiento en 1997; la sociedad taiwanesa ha pasado de «utilizar el océano» a «acercarse y proteger el océano». Este proceso documenta claramente el despertar de la conciencia ambiental en Taiwán.
 
 ---
 
-## Estrellas de los cetáceos más comunes en Taiwán
+## Un entorno de hábitat privilegiado
 
-Según datos de varamientos y estudios marinos de años, las aguas que rodean Taiwán albergan una gran riqueza de especies. A continuación, presentamos a algunos de estos «vecinos del mar» más comunes:
+Taiwán está rodeada de mar, pero los entornos marinos de las costas este y oeste son radicalmente distintos, lo que crea una diversidad de ecosistemas para los cetáceos:
 
-### Delfín rotatorio (Spinner Dolphin)
+### Aguas del este: La autopista de aguas profundas
 
-**«Bailarines del mar»**. Les encanta surfear en la proa de los barcos y pueden saltar fuera del agua realizando múltiples giros en el aire, lo que los convierte en la especie más fácil de avistar en las excursiones de avistamiento de ballenas de la costa este: son juguetones, activos y suelen aparecer en grandes grupos.
+La topografía de la costa este desciende abruptamente, con zonas de aguas profundas muy cerca de la orilla. La corriente principal de **Kuroshio** atraviesa estas aguas, aportando corrientes cálidas. Este es el paraíso de los cetáceos de buceo profundo y de mar abierto, como cachalotes, zifios y diversas especies de delfines.
+
+### Aguas del oeste: La guardería de aguas poco profundas
+
+El estrecho de Taiwán es una amplia plataforma continental con aguas relativamente poco profundas (un promedio de unos 60 metros) y un relieve suave. Este entorno es ideal para los cetáceos costeros, siendo los más famosos el subespecie endémica **delfín blanco de China** (_Sousa chinensis taiwanensis_) y el **marsopa de Risso**.
+
+---
+
+## Estrellas de los cetáceos comunes en Taiwán
+
+Según los datos históricos de varamientos y estudios en el mar, las especies en las aguas circundantes a Taiwán son extremadamente ricas. Aquí presentamos algunos de sus «vecinos marinos» más comunes:
+
+### Delfín girador (Spinner Dolphin)
+
+**«Los bailarines de ballet del mar»**. Les encanta cabalgar las olas en la proa de los barcos y pueden saltar fuera del agua realizando múltiples giros en el aire. Es uno de los delfines más comunes en los avistamientos del este, junto con el delfín de Risso, siendo una de las especies con más registros visuales en las aguas de Hualien y Taitung; son muy activos y suelen aparecer en grupos.
 
 ### Delfín de Risso (Risso's Dolphin)
 
-También conocido como **delfín de Risso**. Su cuerpo está cubierto de marcas blancas (medallas que dejan las interacciones sociales) y tiene la cabeza redonda y roma; suele ser más tranquilo y prefiere las aguas profundas, con varamientos registrados con cierta frecuencia en la costa de Taiwán.
+También conocido como **delfín de Risso**. Su cuerpo está cubierto de cicatrices blancas (que son como medallas de sus interacciones sociales), tiene una cabeza redondeada y suele ser más tranquilo. Prefiere las zonas de aguas profundas, aunque se han registrado ejemplares varados en la costa de Taiwán.
 
 ### Cachalote (Sperm Whale)
 
-**«Campeón de buceo en aguas profundas»**. Es el odontoceto más grande del mundo, con una enorme cabeza cuadrada. Suelen avistarse en aguas frente a Hualien y Shitiping; pueden sumergirse hasta 2.000 metros de profundidad y aguantar la respiración más de una hora. Ver su chorro de agua inclinado es un gran privilegio para los amantes del avistamiento de ballenas.
+**«Los campeones del buceo profundo»**. Es el mayor de los cetáceos con dientes y posee una enorme cabeza cuadrada. En Taiwán, los avistamientos se concentran principalmente frente a las costas de Hualien y Taitung. Pueden sumergirse a más de 2,000 metros y permanecer bajo el agua durante más de una hora; un buceo normal suele ser de unos 400 metros durante media hora. Ver su columna de agua inclinada al respirar es una gran suerte para los observadores.
 
-### Delfín jorobado del Indo-Pacífico (Indo-Pacific Humpback Dolphin)
+### Delfín blanco de China (Indo-Pacific Humpback Dolphin)
 
-**«Pez Matsu»**. Habita las costas occidentales desde Miaoli hasta Tainan, y recibe su nombre porque es más fácil de avistar cuando el mar está en calma, alrededor de la fecha del nacimiento de la diosa Matsu (tercer mes del calendario lunar). Es una subespecie endémica **en peligro crítico de extinción** (Critically Endangered); la población total se estima entre 45 y 50 individuos según el estudio más reciente de 2025, de los cuales más del 60 % presenta heridas externas; se enfrenta a una grave crisis de supervivencia.[^1]
+**«El pez de Mazu»**. Habita en la costa oeste, desde Miaoli hasta Tainan. Los pescadores dicen que aparecen en grandes cantidades alrededor del cumpleaños de la diosa Mazu (el tercer mes del calendario lunar), por lo que se le llama el «pez de Mazu». Es una subespecie en **peligro crítico** de extinción (_Sousa chinensis taiwanensis_, cuyo estatus taxonómico aún está bajo estudio) [^2]. Organizaciones civiles estiman que la población total es de unos 45 a 50 individuos, y que aproximadamente el 60% presenta lesiones externas visibles (según reportes de la agencia CNA en julio de 2025) [^1]; la Administración de Conservación Marina estima unos 48 ejemplares para 2024 mediante métodos de marcado y recaptura.
 
 ---
 
-## De la caza ballenera al avistamiento de ballenas: un giro histórico
+## De la caza al avistamiento: Un giro histórico
 
-### 1950-1980: la era de la caza ballenera
+### Desde la posguerra hasta 1981: La era de la caza
 
-En los primeros años de la posguerra, Taiwán vivió una etapa de caza ballenera. En **Bahía Banana**, en Kenting (Pingtung), se instaló una estación ballenera donde se cazaban cetáceos para usar su carne como alimento o como producto económico. Fue una época en la que se explotaba el océano para sobrevivir.
+La caza comercial de ballenas en Taiwán comenzó en 1913 por parte de japoneses en Nanwan, Kenting; se reanudó en 1955 tras la guerra y más tarde se trasladó a **Xiangjiaowan**, en Pingtung, hasta que fue prohibida en julio de 1981 debido a la presión internacional. La carne y el aceite de ballena se exportaban mayoritariamente a Japón. [^8]
 
-### 1990: un punto de inflexión para la conservación
+### 1990: El punto de inflexión para la conservación
 
-En 1990, un incidente en las islas Penghu en el que se mató ilegalmente a gran número de delfines generó atención internacional y un fuerte revuelo en la opinión pública nacional. Este fue el punto de inflexión para la conservación de cetáceos en Taiwán. Ese mismo año, el gobierno incluyó a los cetáceos en la lista de especies protegidas por la _Ley de Conservación de Vida Silvestre_, prohibiendo totalmente la caza, el sacrificio y el comercio.
+En 1990, los medios internacionales revelaron que en Sagang, Penghu, se utilizaban métodos de pesca por expulsión para cazar delfines masivamente, lo que provocó una fuerte presión de la opinión pública nacional e internacional. [^4] Esto marcó un antes y un después en la conservación de cetáceos en Taiwán. En agosto de ese mismo año, todas las especies del orden Cetacea fueron clasificadas como animales salvajes protegidos, prohibiendo su caza por parte de los pescadores.
 
-### 1997: el año inaugural del avistamiento de ballenas
+### 1997: El año cero del avistamiento
 
-En julio de 1997, el primer barco de avistamiento de ballenas de Taiwán, el «Haijing», realizó su viaje inaugural en Shitiping, Hualien. Esto marcó el cambio en la relación entre los taiwaneses y los cetáceos, pasando de la «caza» a la «observación». La actividad de avistamiento de ballenas se extendió por la costa este (puerto de Wushi en Yilan, puerto de Hualien, puerto de Shiti en Hualien, Chenggong en Taitung), permitiendo que más personas se acercaran al conocimiento de la ecología marina.[^3]
+En julio de 1997, el primer barco de avistamiento de Taiwán, el «Haijing», zarpó desde el puerto de Shiti, en Hualien. Esto marcó la transición de la relación entre los taiwaneses y los cetáceos: de la «caza» a la «observación». La actividad de avistamiento se expandió rápidamente por la costa este (puertos de Wushi en Yilan, Hualien, Shiti y Chenggong en Taitung), fomentando el conocimiento del ecosistema marino. [^3]
 
 ---
 
 ## Investigación y ciencia ciudadana
 
-Desde la década de 1990, la investigación científica sobre cetáceos en Taiwán ha echado raíces profundas. Entre los principales impulsores se encuentran:
+Desde la década de 1990, la investigación científica sobre cetáceos se ha consolidado en Taiwán, impulsada principalmente por:
 
-- **Instituciones académicas**: Universidad Nacional de Taiwán (equipo de la profesora Zhou Lianxiang), Universidad Nacional Cheng Kung (equipo del profesor Wang Jianping, actualmente sucedido por el profesor Wang Haowen como director del Centro de Cetáceos), Universidad Nacional Chiayi (equipo del profesor Yang Weicheng, actualmente adscrito a la Universidad Nacional de Taiwán), entre otras.
-- **Museos**: Museo Nacional de Ciencias Naturales (Yao Qiuru, investigadora asociada), Museo Nacional de Biología Marina.
-- **Organizaciones civiles**: Fundación Educativa Marítima Kuroshio (Hualien), Asociación Taiwanesa de Cetáceos (New Taipei), Asociación Ecológica de Corazón Salvaje de Taiwán, entre otras.
+- **Instituciones académicas**: Universidad Nacional de Taiwán (profesores como Chou Lien-hsiang y Yang Wei-cheng), Universidad Nacional de Chung Hsing (Centro de Investigación de Cetáceos, dirigido actualmente por Wang Hao-wen).
+- **Museos**: Museo Nacional de Ciencias Naturales (investigadora Yao Chiu-ju).
+- **Organizaciones civiles**: Fundación de Educación Cultural Marina Kuroshio (Hualien), Asociación de Cetáceos de China (Nueva Taipéi), Alianza para la Conservación del Delfín Blanco de China, entre otras.
 
-Estas entidades llevan a cabo desde hace años estudios de avistamientos marinos, identificación individual mediante Photo-ID, monitoreo acústico auditivo, análisis patológico de varamientos e investigación de ecología poblacional. En los últimos años, han integrado la **ciencia ciudadana** para fomentar que los turistas de avistamiento de ballenas y los pescadores reporten avistamientos, creando una enorme base de datos de cetáceos.
+Estas entidades realizan investigaciones constantes de avistamiento en el mar, identificación individual mediante fotografía (Photo-ID), monitoreo acústico, análisis patológico de varamientos y estudios ecológicos de población. En años recientes, se ha integrado la **ciencia ciudadana**, alentando al público a reportar avistamientos, mientras la Administración de Conservación Marina promueve programas de formación para científicos ciudadanos marinos.
 
 ---
 
-## Desafíos urgentes: el camino de la conservación
+## Desafíos urgentes: El camino hacia la conservación
 
-Aunque ya no hay caza a gran escala, los cetáceos de Taiwán enfrentan graves amenazas antropogénicas:
+Aunque ya no existe la caza a gran escala, los cetáceos en Taiwán enfrentan graves amenazas antropogénicas:
 
-1.  **Pérdida y fragmentación de hábitat**: el desarrollo de parques eólicos marinos frente a la costa oeste y los proyectos de recuperación de tierras del mar comprimen directamente el espacio vital del delfín jorobado del Indo-Pacífico.
-2.  **Conflicto con la pesca**: artes de pesca como las redes de enmalle de deriva y las líneas de palangre pueden causar la captura accidental (bycatch) o el enredo y lesiones de los cetáceos.
-3.  **Ruido submarino**: el ruido generado por la navegación de barcos y la hinca de pilotes en obras civiles interfiere con la comunicación y la orientación de los cetáceos, que dependen de su audición.
-4.  **Contaminación marina**: ingestión accidental de residuos plásticos, metales pesados y acumulación de contaminantes orgánicos persistentes (POPs) en la cadena alimentaria.
+1.  **Pérdida y fragmentación del hábitat**: El desarrollo de parques eólicos marinos en el oeste y los proyectos de recuperación de tierras están comprimiendo directamente el espacio vital del delfín blanco de China.
+2.  **Conflictos con la pesca**: Métodos como las redes de enmalle o el palangre pueden causar capturas accidentales (_bycatch_) o lesiones por enredo.
+3.  **Ruido submarino**: El ruido generado por la navegación de barcos y los trabajos de cimentación de ingeniería interfiere con la comunicación y localización acústica de los cetáceos.
+4.  **Contaminación marina**: Ingestión de basura plástica, así como la acumulación de metales pesados y contaminantes orgánicos persistentes (POPs) en la cadena alimentaria.
 
-La Administración de Conservación Marina del Consejo de Asuntos Marítimos ha anunciado el «Plan de Conservación del Delfín Jorobado del Indo-Pacífico» y promueve el «Plan de Conservación de Cetáceos», con el objetivo de salvar a estos seres marinos mediante el establecimiento de hábitats críticos y la regulación del impacto de los desarrollos.
+La Administración de Conservación Marina del Consejo de Océanos ha designado áreas de hábitat crítico para el delfín blanco de China (vigente desde el 1 de septiembre de 2020, abarcando Miaoli, Taichung, Changhua y Yunlin), y en 2024 anunció el «Plan de Conservación de Cetáceos» para intentar salvar a estos espíritus del mar mediante la protección de hábitats clave y la regulación del impacto del desarrollo.
 
 ---
 
 ## Conclusión
 
-La historia de los cetáceos en Taiwán es una historia sobre «ver».
+La historia de los cetáceos en Taiwán es una historia sobre «aprender a ver».
 
-Antes, veíamos carne y aceite; ahora, vemos vida y asombro. Cuando estés en la borda de un barco en la costa este y veas el destello de un delfín rotatorio saltando fuera del agua, entenderás: **el océano no es solo un almacén de recursos, sino un hogar para la vida.**
+Antes, lo que veíamos era carne y aceite; ahora, vemos vida y asombro. Cuando estés al borde de un barco en la costa este y veas el destello de un delfín girador saltando fuera del agua, comprenderás: **el océano no es solo un almacén de recursos, sino un hogar lleno de vida.**
 
 Proteger a los cetáceos no es solo proteger a una especie animal, sino proteger todo el territorio azul que nos rodea y nutre a esta isla.
 
@@ -132,16 +132,18 @@ Proteger a los cetáceos no es solo proteger a una especie animal, sino proteger
 
 ## Referencias
 
-[^1]: [Estudio poblacional del delfín jorobado del Indo-Pacífico - The News Lens](https://www.thenewslens.com/article/255968) — Confirma el estudio más reciente de 2025: población entre 45 y 50 individuos, con más del 60 % presentando heridas externas.
+[^1]: [Investigación de la población del delfín blanco de China - The News Lens](https://www.thenewslens.com/article/255968) — Reporte de prensa sobre la población estimada de 45-50 ejemplares, con un 60% presentando lesiones (también reportado por CNA el 17-07-2025).
 
-[^2]: [Plan de Conservación de Cetáceos - Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Versión pública del Plan de Conservación del Delfín Jorobado del Indo-Pacífico y los Cetáceos de la Administración de Conservación Marina.
+[^2]: [Plan de Conservación de Cetáceos - Administración de Conservación Marina del Consejo de Océanos](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Anuncio oficial del plan de conservación para el delfín blanco de China y otros cetáceos.
 
-[^3]: [Guía de avistamiento de ballenas responsable - Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Normas para el ecoturismo de avistamiento de ballenas en Taiwán.
+[^3]: [Guía de avistamiento responsable y turismo de avistamiento en aguas de Taiwán - Administración de Conservación Marina del Consejo de Océanos](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Normativas para el ecoturismo de avistamiento en Taiwán.
 
-[^4]: [Asociación Taiwanesa de Cetáceos](https://www.whale.org.tw/) — Organización civil que impulsa la investigación y la conservación de cetáceos en Taiwán.
+[^4]: [Asociación de Cetáceos de China](https://www.whale.org.tw/) — Organización civil que promueve la investigación y conservación de cetáceos en Taiwán.
 
-[^5]: [Fundación Educativa Marítima Kuroshio](https://www.kuroshio.org.tw/newsite/) — Institución de Hualien dedicada a la investigación de cetáceos y al impulso de la ciencia ciudadana.
+[^5]: [Fundación de Educación Cultural Marina Kuroshio](https://www.kuroshio.org.tw/newsite/) — Institución promotora de la investigación de cetáceos y la ciencia ciudadana en Hualien.
 
-[^6]: [Asociación Ecológica de Corazón Salvaje de Taiwán](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organización que aboga por la conservación del delfín jorobado del Indo-Pacífico.
+[^6]: [Alianza para la Conservación del Delfín Blanco de China](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organización de incidencia para la protección del delfín blanco de China (la Asociación Ecológica Wild Taiwan es uno de los grupos fundadores).
 
-[^7]: [Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/) — Autoridad de conservación marina de Taiwán, que impulsa la protección del hábitat de los cetáceos y la regulación del desarrollo costero.
+[^7]: [Administración de Conservación Marina del Consejo de Océanos](https://www.oca.gov.tw/) — Autoridad competente en conservación marina en Taiwán, encargada de la protección de hábitats y regulación del desarrollo.
+
+[^8]: [Especial sobre caza de ballenas - Taipei Times](https://taipeitimes.com/News/feat/archives/2023/02/26/2003795049) — Reporte sobre el inicio de la caza comercial por japoneses en Nanwan, Kenting (1913), su reanudación tras la guerra (1955) y su prohibición en julio de 1981.

@@ -18,27 +18,48 @@ jobs:
           cache: npm
       - run: npm ci --ignore-scripts --no-audit
       - run: npm audit --audit-level=high
+      # 下面這些跟 audit 公告無關（型別、契約測試、830 個 python 測試），所以同樣加
+      # `if: !cancelled()`：2026-10-24 實測，根 audit 一紅就把它們全變 skipped，
+      # 一條 job 只真的報了一件事。閘門強度不變，任一步紅整條 job 仍然紅。
       - run: npm run test:contracts
+        if: ${{ !cancelled() }}
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+        if: ${{ !cancelled() }}
       - run: pip install PyYAML==6.0.3 pytest==9.1.1
+        if: ${{ !cancelled() }}
       - run: python -m pytest tests -q
+        if: ${{ !cancelled() }}
       - run: npm run prebuild:fork-graph
+        if: ${{ !cancelled() }}
       - run: npm run check:types
+        if: ${{ !cancelled() }}
+      # 以下四個子專案互相獨立，所以用 `if: !cancelled()` 讓其中一個紅掉時
+      # 另外三個照樣跑完。沒有這一行的話，步驟是循序的、第一個紅的就讓後面
+      # 全部 skipped——2026-10-24 那次 main 的 run 就是這樣：repo 根的 audit
+      # 紅了，後面十一個步驟（含 check:types、pytest、四個子專案）全是
+      # skipped，一條 job 只報了一件事。閘門強度不變：任一步紅，整條 job 仍然紅。
       - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm run check && npm run build
         working-directory: docs/semiont/harvest/ui
+        if: ${{ !cancelled() }}
       - run: npm ci --ignore-scripts && npm audit --audit-level=high && npx tsc --noEmit
         working-directory: docs/semiont/harvest/backend
+        if: ${{ !cancelled() }}
       - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm test
         working-directory: workers/mcp
+        if: ${{ !cancelled() }}
       # cli 的 vitest 在 2026-10-08 前只跑在 npm-publish-cli.yml 裡，而那條靠
       # `cli-v*` tag 觸發——意思是 CLI 的紅燈要等到「發佈那一刻」才會被看到。
       # 實際代價：mailmap.test.js 因為 execSync 預設 1 MB buffer 被倉庫自己的
       # git log 長過去而紅掉，沒有任何一班知道，直到有人為了別的事手動跑它
       # （#1789 / #1790 那一班）。發佈前才跑的測試，等於沒有在守任何東西。
+      # 掛上之後它仍然一次都沒跑過：10-08 掛在 harvest/ui 的紅後面，10-24 掛在
+      # workers/mcp（undici 只有 breaking change 修得掉，OBSERVER-QUEUE）的紅後面。
+      # 上面那行 `if: !cancelled()` 就是為了讓這一步終於會被執行。
       - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm test
         working-directory: cli
+        if: ${{ !cancelled() }}
   feedback-db:
     runs-on: ubuntu-latest
     services:

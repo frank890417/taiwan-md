@@ -1,18 +1,18 @@
 ---
-title: 'Mini Taiwan Pulse: Menggambar Taiwan sebagai Peta yang Bernapas dengan Mata Seorang Kurator'
-description: 'Pada 2026, analis data Migu menumpuk data terbuka Taiwan yang tersebar—pesawat, kapal, kereta api, bus, dan truk sampah—menjadi sebuah peta yang bernapas. Kerja berat mengambil data diserahkan kepada AI, tetapi keputusan mengenai lapisan mana yang dipadukan, warna apa yang digunakan, dan lapisan mana yang ditonjolkan bergantung pada mata kuratorial yang terlatih melalui perencanaan kota.'
+title: 'Mini Taiwan Pulse: Menggunakan Mata Kurator untuk Melukis Taiwan Menjadi Peta yang Bernapas'
+description: 'Pada tahun 2026, analis data Migu menyeret sebuah file CSV ke dalam Kepler.gl, dan peta Taiwan pertama muncul di layarnya. Dua tahun kemudian, proyek mini-taiwan-pulse yang paling populer telah mengumpulkan 375 bintang di GitHub, menggabungkan lima jenis data real-time—langit, laut, daratan, jalanan, dan pengelolaan limbah—menjadi sebuah peta bergerak. Dengan data terbuka sebanyak 50.000 entri dari pemerintah pusat dan lebih dari dua puluh platform kota/kabupaten, otak manusia tidak akan sanggup memproses semuanya; solusinya bukanlah menambah orang, melainkan menyerahkannya kepada sistem yang diatur oleh AI Agent yang dapat berkembang sendiri, di mana manusia hanya bertanggung jawab untuk mengajukan pertanyaan dan melakukan verifikasi. Dari mata kurator yang dilatih melalui perencanaan kota, hingga pipeline kebakaran yang berjalan otomatis di dalam tmux, bagaimana GitHub satu orang bisa tumbuh menjadi sebuah galaksi bintang.'
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
     'Teknologi',
-    'Teknologi sipil',
-    'Data terbuka',
-    'Visualisasi data',
-    'Proyek sumber terbuka',
+    'Teknologi Kewarganegaraan',
+    'Data Terbuka',
+    'Visualisasi Data',
+    'Proyek Sumber Terbuka',
     'TDX',
     'Three.js',
-    'Kecerdasan buatan',
+    'Kecerdasan Buatan',
     'AI Agent',
     'GIS',
   ]
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T09:31:38.668967+00:00'
+translatedAt: '2026-10-21T00:59:50.409094+00:00'
 ---
 
 # Mini Taiwan Pulse: Menggambar Taiwan sebagai Peta yang Bernapas dengan Mata Seorang Kurator

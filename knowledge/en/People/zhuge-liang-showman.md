@@ -1,142 +1,98 @@
 ---
-title: 'Zhu Ge Liang'
-description: 'Born Xie Xinda in 1946 in Zuoying, Kaohsiung, he was the son of a blacksmith and a vegetable vendor. After dropping out of elementary school, he began apprenticing in Taiwanese Opera at age 15. He rose to fame in the 1960s by imitating pop stars at night markets. During the 1970s, as Taiwan''s economy boomed and demand for nighttime entertainment grew, the show stage culture emerged. He blended traditional opera, folk storytelling, and popular elements into his signature "Zhu-style humor," using improvised rhyming in Taiwanese to bring grassroots language to television variety shows. He passed away from colon cancer in May 2017.'
+title: 'Chu Ko-liang'
+description: 'Chu Ko-liang (1946–2017, birth name Hsieh Hsin-ta) was born in Kaohsiung''s Zuoying District, left home at 14 to join a theater troupe, took the hosting stage at the Blue Diamond Grand Cabaret at 31, and became a household name across Taiwan in the 1980s with his "Chu Ko-liang Cabaret Show" videotapes.'
 date: 2026-03-19
 category: 'People'
-tags:
-  ['Zhu Ge Liang', 'Show Stage', 'Comedy', 'Variety Show', 'Taiwanese Hokkien']
+tags: ['Chu Ko-liang', 'cabaret', 'comedy', 'variety show', 'Taiwanese']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-10-22
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: '9be0c5314'
-sourceContentHash: 'sha256:d55c93f02208554f'
-sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-10-15T23:24:52.092197+00:00'
+sourceCommitSha: 'b13002258'
+sourceContentHash: 'sha256:207c26e5b764aafa'
+sourceBodyHash: 'sha256:e8b115a1f996f620'
+translatedAt: '2026-10-23T02:24:41+08:00'
 ---
 
-# Chu Ke-liang: The People's King of Taiwan Show Culture
+# Chu Ko-liang: From Cabaret Stage to Lunar New Year Films, the King of Taiwanese Entertainment
 
-From a military dependents' village in Zuoying, Kaohsiung, to television screens across the nation, Chu Ke-liang built his own comedic language through what became known as "Chu-style humor." His Taiwanese-language rapping, improvisational wit, and grassroots perspective made him a beloved figure for decades, someone working-class audiences considered "one of us." In May 2017, he passed away from colorectal cancer at the age of 70.
+Chu Ko-liang (1946–2017), birth name Hsieh Hsin-ta, changed his name to Hsieh Yu-chen after his 2009 comeback. He rose to fame in the 1980s through cabaret show videotapes that saturated every corner of Taiwan, and was grouped with Chang Fei and Hsing Feng as the "Chu in the South, Chang in the North, Hsing in the Middle." In 1993 he fled from gambling debts and disappeared for a decade. A single line in 2009 — "I went abroad for advanced studies" — made all of Taiwan laugh and welcome him back. The following year he won the Golden Bell Award for Best Variety Show Host, and in his final years he released a Lunar New Year film almost every holiday season.
 
-## A Grassroots Path to Stardom
+## Timeline
 
-Chu Ke-liang, born Hsin Ta Hsieh on December 6, 1946, was born in Zuoying District, Kaohsiung[^1]. His father, Hsieh Huo-yen, was a blacksmith, and his mother sold vegetables at the market — the family lived in modest circumstances. He grew up in the military dependents' village area of Zuoying, deeply immersed in the local popular culture.
+| Year                  | Event                                                                                                                                                                                                                                         |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1946                  | Born 6 December in Kaohsiung Zuoying[^1]                                                                                                                                                                                                      |
+| 1960 (approx. age 14) | Left Zuoying to join the "New Theater Troupe," became a disciple of Lin Sung-yen, started learning from backstage curtain-pulling[^1]                                                                                                         |
+| 1977 (age 31)         | Played the comic role "Chu Ko-liang" in Yu Chi-tung's production of _Liao Tiending_; the stage name stuck. Joined the Blue Diamond Grand Cabaret as director and screenwriter, then debuted as host when filling in for the regular emcee[^1] |
+| 1988                  | Shot and wounded behind the Blue Diamond Grand Cabaret on 8 October[^1]                                                                                                                                                                       |
+| 1993                  | Fled after accumulating massive gambling debts; briefly returned in 1997, left show business again in 1999[^1]                                                                                                                                |
+| 2009                  | Spotted by _Apple Daily_ reporters in February; returned on 24 April via a Tsann Kuen 3C commercial; began hosting FTV's _Chu Ko-liang's Club_ in August[^1]                                                                                  |
+| 2010                  | Won the 45th Golden Bell Award for Best Variety Show Host on 22 October with Hou Yi-chun for _Chu Ko-liang's Club_[^1]                                                                                                                        |
+| 2011                  | Began releasing a starring Lunar New Year film every year: _Chicken Chop Hero_, _Big Tail Sea Bass_, _Dadaocheng_, _Double Happiness Arrives_[^1]                                                                                             |
+| 2014                  | Confirmed diagnosis of stage II colorectal cancer on 30 May[^1]                                                                                                                                                                               |
+| 2017                  | Promoted final film _Master Angler_ in January; died 15 May at NTU Hospital, aged 70[^1]                                                                                                                                                      |
 
-He dropped out of school after elementary due to financial hardship and began working to help support the family. At age 15, he encountered Taiwanese opera (歌仔戲, _koa-á-hì_) and apprenticed to learn traditional theater — an experience that laid the foundation for his future performances.
+## Growing Up in Zuoying, Joining a Troupe in His Teens
 
-In the 1960s, he began performing on the streets of night markets (夜市), imitating popular singers and film stars of the day. His lively act gradually earned him a local reputation.
+Chu Ko-liang came from the Hsieh clan of Wujia in Zuoying, with ancestral roots in Hui'an, Quanzhou. According to Wikipedia's compilation, his father was a vegetable vendor who ran a stall; business was good because of the large military garrison in Zuoying, and all three brothers had to help out. As a child, Chu Ko-liang delivered vegetables by bicycle[^1].
 
-## The Rise of Show Culture
+He showed performing talent while attending Jiucheng Elementary School. His class monitor, the future writer Chen Fang-ming, recalled that when Chu Ko-liang got into trouble and the teacher moved to administer corporal punishment, he improvised a comic routine on the spot; the whole class burst into laughter and the punishment was dropped[^1].
 
-As Taiwan's economy took off in the 1970s, demand for nighttime entertainment grew, and show culture (秀場文化) emerged in response. Chu Ke-liang seized this opportunity and began performing at venues across the island.
+At 14 he left Zuoying for the New Theater Troupe, became a disciple of Lin Sung-yen, and started by pulling curtains backstage, wandering with the troupe from place to place. At 17, during a run from Checheng, Pingtung to Yuli, Hualien, the troupe's lead actor Toa-a-tu (矮仔塗) injured his foot on a nail; Chu Ko-liang volunteered to step in, performed well, and from then on became a professional screenwriter and actor[^1].
 
-His act blended traditional opera, folk storytelling, and modern pop elements into a distinctive "Chu-style." His Taiwanese-language rapping ability — improvising rhyming verses on the spot — was especially beloved by audiences.
+## Blue Diamond Grand Cabaret: Debut at Thirty-One
 
-His show performances often wove in commentary on current events and social satire, giving voice to ordinary citizens through humor. This close-to-the-people style propelled him to rapid fame.
+At 31, Yu Chi-tung (then performing as Yu Tung-jung) cast him in _Liao Tiending_ as the comic character "Chu Ko-liang," a breakout performance; he simply adopted the role name as his stage name. Recommended by Chang Chien and Chang Ti, he joined the Blue Diamond Grand Cabaret founded by Yang Teng-kuei as director and screenwriter. One night the regular host Fei Chen-ling was absent; he filled in, and his hosting career began[^1].
 
-## The Golden Age of TV Variety Shows
+His first partner was Kang Hung; later Yu Tien, Huang Hsi-tien, and others joined. In that era a cabaret show typically interviewed singers, had them sing, then everyone performed a short skit together. They also often dressed as spirit mediums (jitong) or Taoist priests, letting singers ask about romance, career, even the next winning lottery (ta-chia-lo) numbers. The laughs mostly came from his off-the-cuff, freewheeling ad-libs[^1].
 
-As Taiwan's television industry flourished in the 1980s, Chu Ke-liang successfully transitioned to the variety show world. His program _Chu Ke-liang's Cabaret Show_ (《豬哥亮歌廳秀》) became one of the most popular variety shows of its era[^2].
+In the 1980s, _Chu Ko-liang Cabaret Show_ videotapes swept Taiwan. Pirated copies also circulated in the Hokkien-speaking region; many viewers in Quanzhou, Zhangzhou, and Xiamen grew up renting his tapes and discs[^1].
 
-The show followed a cabaret format, combining singing, dance, and comedy sketches. Chu Ke-liang's unique hosting style and improvisational talent kept the program full of surprises and laughter.
+## The Microphone Hung Around His Neck
 
-He was especially skilled at guest interaction — whether with celebrities or ordinary audience members, he could draw out the entertaining side of anyone. This approachability was a key factor in his success.
+Early on there were no wireless microphones; holding a mic while performing was awkward. He had a flash of inspiration and hung the microphone around his neck with a cord — it became his trademark. Even after wireless mics appeared, he kept wearing it that way, leaving both hands free for skits and making physical comedy with guests easier[^1].
 
-## A One-of-a-Kind Performance Style
+He put on no airs at work. In his early shows he handled every detail himself, treated the cast like family, ate meals with them, saying this was "passed down from Master Lin Sung-yen." Before every shoot he insisted on worshipping the Earth God (Tu-ti-kung), the Ground Deity (Ti-chi-chu), and the "good brothers" (wandering spirits), personally instructing the crew on how to make the offerings[^1].
 
-Chu Ke-liang's performance style was truly singular, forged through years of real-world honing from night market stages to show venues. Language artistry was his most distinctive hallmark: he was a master of Taiwanese-language rap, able to improvise rhyming, tongue-twisting verses on the fly, each performance brimming with street smarts and humor.
+## Ten Years on the Run and "Advanced Studies Abroad"
 
-He also made skillful use of exaggerated physical gestures and facial expressions — carrying the flair of Taiwanese opera while remaining thoroughly modern. Grassroots humor was at his core: his material drew from the lived experiences of ordinary people, so audiences laughed and then felt there was truth in it. His improvisational reflexes were especially remarkable — he could generate comedy in real time based on whatever was happening on stage, making every performance full of unpredictable surprises.
+Chu Ko-liang was addicted to the ta-chia-lo lottery and Mark Six. Reports say he once won NT$140 million, then lost heavily, amassing huge gambling debts, and fled in 1993. He briefly resurfaced in 1997, vanished again in 1999 — ten years gone[^1].
 
-These qualities were tempered over years in the high-pressure environment of live show performances, forming a unique Chu-style performance system. Anyone who could hold a venue for two hours had technique as a baseline; the real core was the genuine emotional connection with the audience.
+He later said that during those years he applied for jobs everywhere and was rejected every time; he couldn't even get hired as a building superintendent, and at one point considered becoming a monk[^1].
 
-## Controversy and a Period of Downtime
+On 19 February 2009, _Apple Daily_ reporters photographed him at a black-wheel (o-den) stall in Chaozhou, Pingtung. On 24 April the same year, Tsann Kuen 3C released his commercial monologue: in Taiwanese he said, "Haven't seen everyone for over ten years, because I 'went abroad for advanced studies.'" That line became the shorthand for his lost decade[^1].
 
-In the mid-1990s, Chu Ke-liang was forced to step away from show business due to gambling debts. During this period, he lived in mainland China while his entertainment career in Taiwan came to a standstill.
+On 5 June he visited Yang Teng-kuei at Gala Television (GTV); the two publicly reconciled, and his bridge back into show business was rebuilt[^1].
 
-The media extensively covered his personal life, including relationship disputes and debt issues, which somewhat tarnished his image. But grassroots audiences' affection for him never fully faded.
+## After the Comeback: _Chu Ko-liang's Club_ and the Lunar New Year Films
 
-This low period gave Chu Ke-liang time for deep personal reflection and a renewed perspective on his relationship with his audience. His eventual comeback was rooted in performance itself.
+His first variety show after returning was FTV's _Chu Ko-liang's Club_, whose ratings once broke 10%. In 2010 he and Hou Yi-chun won the Golden Bell Award for Best Variety Show Host for this program[^1].
 
-## A Glorious Comeback and a Second Career Peak
+Per Wikipedia, his per-episode hosting fee rose from NT$300,000 on FTV's _Chu Ko-liang's Club_ to NT$700,000 on CTV's _Ten Thousand Shows: Chu King_, then NT$850,000 on CTS's _CTS King Chu Ko-liang Show_, setting a record high for Taiwanese hosts[^1].
 
-In the late 2000s, Chu Ke-liang returned to the Taiwan entertainment scene and launched a second career peak. Programs he hosted, such as _Chu Ke-liang's Club_ (《豬哥會社》), once again won audience favor[^3].
+Starting in 2011, he released a starring Lunar New Year film every year: _Chicken Chop Hero_, _Big Tail Sea Bass_, _Dadaocheng_, _Double Happiness Arrives_, _Big Tail Sea Bass 2_ — each grossing over NT$100 million — until 2017's _Master Angler_ (NT$69.32 million) broke the streak; that was also his final film[^1].
 
-Post-comeback, his performances grew more refined — while maintaining his original style, he also placed greater emphasis on production quality. He collaborated with younger entertainers, demonstrating strong adaptability.
+## The Last Three Years
 
-In the 2010s, he appeared in several films, including the box-office hit _David Loman_ (《大尾鱸鰻》).
+On 30 May 2014 he confirmed a stage II colorectal cancer diagnosis. Worried about treatment side effects, he did not begin aggressive therapy immediately, prioritizing work and trying Chinese herbal medicine, acupuncture, and folk remedies. In 2016 his condition worsened; ascites reached 6,600 ml. He was hospitalized for emergency surgery on 6 September; by then the cancer had metastasized to the abdomen, liver, and lungs[^1].
 
-## A New Venture into Film
+In January 2017, despite his frail state, he promoted _Master Angler_ and taped a New Year's Eve special. He said willpower kept him going: "Looking at my family, my children, that kind of heavenly bond makes me want to live on." In February he joined the Singang Fengtian Temple Mazu pilgrimage procession — his last public appearance[^1].
 
-In his later years, Chu Ke-liang took on film roles, playing a key part in director Chiu Li-kwan's _David Loman_ series, which posted impressive box-office results[^4].
+On the morning of 11 May he called Yu Tien to catch up; the long-standing rift between them (dubbed the "Yu-Chu Complex" by the media) was finally resolved. At 5:10 a.m. on 15 May, he passed away at NTU Hospital[^1].
 
-He successfully transferred his television variety experience to the big screen, proving the market potential for Taiwanese-language comedy films.
+## Farewell
 
-His film performances retained his signature humor while also revealing a precise understanding of character.
+On 20 June the funeral was held at the New Taipei City Funeral Parlor. The family cast moon blocks for guidance; the deity indicated Taoist rites for the seventh-day ceremony and the funeral. After cremation, his ashes were interred at the Keelung Yongheng Cultural Park. Thousands of fans attended; the funeral procession circled the entire Banqiao area[^1].
 
-## Contributions to Taiwanese-Language Culture
+## What Remains
 
-Chu Ke-liang was a major force in Taiwanese-language popular culture, and his performances gave the language a prominent place in modern media. During an era of Mandarinization, he insisted on performing in Taiwanese.
+Most of his performing career used Taiwanese (Tâi-gí), giving him recognition throughout the Hokkien-speaking world — including Hokkien communities in China and Southeast Asia. As for who he influenced and how much he changed later variety shows, such assessments easily become hyperbolic; this article does not draw conclusions on others' behalf. What is verifiable: audiences watched him in three distinct eras — the 1980s videotapes, the 2010 Golden Bell win, and the consecutive blockbuster Lunar New Year films of his later years.
 
-His Taiwanese-language rapping skills influenced many later performers, including Peng Chia-chia and Hsu Hsiao-shun, both of whom have cited his influence. Chu Ke-liang established an important tradition in Taiwanese-language comedy performance.
-
-His act also preserved many elements of traditional Taiwanese culture, including Taiwanese opera vocal styles and folk storytelling, making him significant for cultural transmission.
-
-## A Deep Bond with His Audience
-
-Chu Ke-liang's greatest success lay in the deep emotional bond he forged with his audience. His performances were always full of sincerity, and audiences could feel his dedication.
-
-He was especially beloved by audiences in central and southern Taiwan and among working-class viewers, who saw him as "one of us." This sense of closeness was a crucial factor enabling his decades-long career.
-
-Even during his period of absence, many loyal fans continued to support him — proof of his special place in the hearts of his audience.
-
-## Influence on Taiwan's Variety Show Culture
-
-Chu Ke-liang pioneered an important model for locally produced variety shows in Taiwan, influencing countless programs that followed. His hosting style was imitated and studied by many who came after him.
-
-He demonstrated the commercial viability of Taiwanese-language variety programming, opening up an important market segment for the television industry. This was significant for the development of Taiwan's television culture.
-
-Well-known variety hosts such as Jacky Wu and Hu Gua have both acknowledged Chu Ke-liang's influence. He established an important performance tradition for Taiwan's variety show world.
-
-## Battling Cancer in His Later Years
-
-In 2014, Chu Ke-liang was diagnosed with colorectal cancer and began treatment. Even through illness, he continued to work, showing remarkable willpower.
-
-During his cancer battle, he cherished every moment with family and fans, giving his all in every performance. His optimistic attitude in the face of disease moved many people.
-
-In interviews, he shared his reflections on life, saying that being able to bring joy to audiences was his greatest achievement. This love for performance was deeply admirable.
-
-## Farewell in 2017
-
-On May 15, 2017, Chu Ke-liang passed away from colorectal cancer at National Taiwan University Hospital, at the age of 70[^5]. His death prompted widespread mourning across Taiwan, with figures from all walks of life expressing their remembrance.
-
-His funeral was attended by many friends from the entertainment industry and devoted fans — a deeply moving scene. His passing marked the end of an era, as Taiwan's show culture lost one of its most important representatives.
-
-The media extensively reviewed his career, affirming his significant contributions to Taiwan's entertainment culture. His performance footage has become a precious cultural asset.
-
-## Cultural Legacy
-
-Chu Ke-liang left behind a living record of decades of Taiwan's grassroots culture. His performance footage spans from night market stages to the golden age of television, documenting the rapid transformation of Taiwan's social fabric.
-
-The Taiwanese-language comedy tradition he pioneered continues to influence later performers, many of whom have learned technique and spirit from his work.
-
-Chu Ke-liang proved that an entertainer from humble beginnings could achieve greatness, and his life story has inspired countless people with dreams of show business.
-
-"Chu-style humor" has become a unique genre of Taiwanese comedy, and his performance footage serves as a historical archive documenting Taiwan's grassroots culture.
-
-Linguists analyzing the structure of Chu-style humor have identified several core elements: the tonal phonology of Taiwanese creates natural rhyming effects; Hokkien double entendres allow a single word to carry two meanings simultaneously; street slang mixed with classical Chinese vocabulary creates a sense of contrast; and a wealth of contextual allusions — insider references where "if you get it, you get it" — built a space of shared understanding between him and his core audience.
+In 2022, his eldest son Hsieh Shun-fu and a startup team used virtual-real compositing technology to produce an AI video "Master Chu and the Little Monk," with his third daughter Hsieh Chin-ching voicing the Little Monk[^1].
 
 ## References
 
-[^1]: Wikipedia entry for "Zhu Ge Liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, birthplace: Zuoying District, Kaohsiung City
-
-[^2]: Liberty Times, "Zhu Ge Liang's Funeral: 10,000 People Bid Farewell", https://news.ltn.com.tw/, May 21, 2017
-
-[^3]: Taiwan Television Database, https://tv.nccu.edu.tw/, "Zhu Ge Hui She" program records
-
-[^4]: Central News Agency, "The Great Tail Snapper Box Office Exceeds NT$300 Million", https://www.cna.com.tw/, February 2013 box office report
-
-[^5]: UDN News, "Zhu Ge Liang Passes Away on May 15 at Age 70", https://udn.com/, May 15, 2017
+[^1]: Wikipedia entry "Chu Ko-liang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE (accessed 2026-10-22; life, timeline, performing style, illness and funeral sections)

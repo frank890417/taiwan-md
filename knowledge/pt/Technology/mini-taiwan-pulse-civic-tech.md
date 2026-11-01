@@ -1,19 +1,19 @@
 ---
-title: 'Mini Taiwan Pulse: com olhar curatorial, Taiwan se transforma em um mapa que respira'
-description: 'Em 2026, o analista de dados Migu sobrepôs os dados abertos dispersos de Taiwan — aviões, navios, trens, ônibus e caminhões de lixo — para formar um mapa que respira. O trabalho pesado de coletar os dados ficou a cargo da IA, mas decidir quais camadas combinar, quais cores usar e qual camada destacar depende de um olhar curatorial formado pelo planejamento urbano.'
+title: 'Mini Taiwan Pulse: Com olhos de curador, transformando Taiwan em um mapa que respira'
+description: 'Em 2026, o analista de dados Migu arrastou um arquivo CSV para o Kepler.gl e a primeira vez que um mapa de Taiwan surgiu na tela. Dois anos depois, o popular mini-taiwan-pulse acumulou 375 estrelas no GitHub, sobrepondo cinco tipos de dados em tempo real — céu, oceano, terra, ruas e coleta de resíduos — para criar um mapa dinâmico. Com mais de 50.000 registros do governo central e dados abertos de mais de vinte cidades e condados, o cérebro humano não conseguiria processar tudo; sua solução não foi contratar mais pessoas, mas sim entregar a tarefa a um sistema autônomo orquestrado por agentes de IA, onde os humanos apenas formulam as perguntas e validam os resultados. De olhos curadores treinados em planejamento urbano a uma pipeline de detecção de incêndios que roda sozinha no tmux, como o GitHub de uma única pessoa se transformou em uma galáxia.'
 date: 2026-04-19
 category: 'Technology'
 tags:
   [
     'Tecnologia',
-    'Tecnologia cívica',
-    'Dados abertos',
-    'Visualização de dados',
-    'Projeto de código aberto',
+    'Civic Tech',
+    'Dados Abertos',
+    'Visualização de Dados',
+    'Projeto Open Source',
     'TDX',
     'Three.js',
-    'Inteligência artificial',
-    'Agente de IA',
+    'Inteligência Artificial',
+    'AI Agent',
     'GIS',
   ]
 subcategory: '公民科技'
@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-06-25'
     url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '52052ddaa'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:0128d89b548611d1'
 sourceBodyHash: 'sha256:ce5c6e11aac7eea6'
-translatedAt: '2026-10-13T09:32:17.685576+00:00'
+translatedAt: '2026-10-21T01:00:03.772792+00:00'
 ---
 
 # Mini Taiwan Pulse: com olhar curatorial, Taiwan se transforma em um mapa que respira

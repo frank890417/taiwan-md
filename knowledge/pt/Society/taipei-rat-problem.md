@@ -19,10 +19,10 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '44b9afeef'
-sourceContentHash: 'sha256:ea94b427916538a7'
-sourceBodyHash: 'sha256:bcba667c74795d16'
-translatedAt: '2026-07-27T01:41:51+08:00'
+sourceCommitSha: 'fd14e36db'
+sourceContentHash: 'sha256:314ea9aeacf65f74'
+sourceBodyHash: 'sha256:388eb831d18aa5ba'
+translatedAt: '2026-10-20T09:03:25.479670+00:00'
 ---
 
 # O problema dos ratos em Taipé: do decreto de peste bubônica de 1896 do Governo-Geral ao hantavírus no distrito de Da'an em 2026
@@ -77,23 +77,23 @@ Quando os suinocultores deixaram de fazer a coleta diária pela cidade, quando a
 
 📝 **Nota do curador:** Janeiro de 2026: o Ministério da Agricultura encerrou um circuito de meio século "restos → porcos"; fim do mesmo mês: Taipé registra a primeira morte por hantavírus em 25 anos. Não é coincidência, é a consequência de um sistema redistribuindo calorias.
 
-## Cinco, a escolha da prefeitura: espalhar veneno, e o rebote que o veneno causa
+## Cinco, a escolha da prefeitura: o uso de raticidas e a reação resultante
 
-Diante da explosão de opinião pública, a resposta da Agência de Proteção Ambiental de Taipé foi "aplicação direcionada de raticidas", usando agrotóxicos ambientais aprovados pelo governo central (maioria anticoagulantes "bromadiolona"), enfatizando a segurança de animais de estimação[^23].
+Diante da explosão de indignação popular, a resposta do Departamento de Proteção Ambiental de Taipé foi o "uso de raticidas de precisão", utilizando produtos químicos ambientais aprovados pelo governo central (em sua maioria anticoagulantes para "eliminar ratos"), enfatizando que a segurança dos animais de estimação seria preservada[^23].
 
-Mas essa escolha foi quase instantaneamente rechaçada por três forças simultâneas:
+No entanto, essa escolha foi quase imediatamente contestada por três frentes simultâneas:
 
-**1. Ministério do Meio Ambiente (central)**: A ministra Peng Chi-ming (彭啓明) em 2 de maio conclamou publicamente que o controle de roedores deve seguir o princípio dos "três nãos" — não deixar rato vir, não deixar rato morar, não deixar rato comer —, com "manejo ambiental como principal, raticida como complementar". O próprio FAQ de prevenção de ratos domésticos da Agência de Taipé diz exatamente isso[^24][^25].
+**1. Ministério do Meio Ambiente (Governo Central)**: O Ministro do Meio Ambiente, Peng Chi-ming, fez um apelo público em 2 de maio, afirmando que o controle de roedores deve seguir o princípio dos "Três Nãos" para prevenção — priorizar a organização ambiental e usar raticidas apenas como auxílio: não permitir que os ratos venham, não permitir que eles se instalem e não permitir que eles comam. O próprio FAQ de controle de ratos domésticos do Departamento de Proteção Ambiental segue essa diretriz[^24][^25].
 
-**2. Academia ecológica**: A equipe de Sun Yuan-hsun (孫元勳) do Departamento de Ecologia de Aves da Universidade de Ciência e Tecnologia de Pingtung publicou em 2019 no _Science of the Total Environment_ que rapinas de Taiwan (milhafre-preto, gavião-de-cauda-vermelha, falcão-peregrino) apresentam **resíduos de anticoagulantes raticidas de forma generalizada**, com concentrações altamente correlacionadas às "semanas de extermínio de ratos" promovidas historicamente pelo governo[^26][^27].
+**2. Comunidade Ecológica**: Uma pesquisa publicada em 2019 na revista _Science of the Total Environment_ pelo grupo de Sun Yuan-hsun, do Laboratório de Ecologia de Aves da National Pingtung University of Science and Technology, indicou que **resíduos de raticidas anticoagulantes foram detectados rotineiramente** no organismo de aves de rapina em Taiwan (como o milhafre-preto, o gavião-de-crista e o falcão-peregrino), e que as concentrações estavam altamente correlacionadas com a "Semana de Controle de Roedores" promovida pelo governo ao longo dos anos[^26][^27].
 
-**3. A própria lição histórica do Ministério da Agricultura**: Devido a uma série de mortes de milhafres por envenenamento, o Conselho de Agricultura (hoje Ministério da Agricultura) a partir de 2015 foi progressivamente cancelando a **"Semana Nacional de Extermínio de Ratos em Terras Agrícolas"** que durava **40 anos**, declarando oficialmente a transição do "espalhar veneno" para o manejo científico e ecologicamente amigável[^28][^29].
+**3. As lições históricas do próprio Ministério da Agricultura**: Devido a uma série de mortes por envenenamento de milhafres-pretos, o Conselho de Agricultura (atual Ministério da Agricultura) começou a cancelar gradualmente a "Semana Nacional de Controle de Roedores em Terras Agrícolas" — uma prática que durou **40 anos** — desde 2015, declarando formalmente que a gestão de pragas em Taiwan estava migrando do uso de raticidas para métodos científicos e ecologicamente amigáveis[^28][^29].
 
-Resumindo: **justamente quando o setor agrícola já havia abandonado a "semana de extermínio" por causa da conservação de rapinas, a Agência de Proteção Ambiental de Taipé em 2026 recolhe a ferramenta que o campo descartou dez anos antes e a aplica nas ruas da cidade.**
+Em outras palavras: **enquanto o setor agrícola já havia deixado para trás a era da "Semana de Controle de Roedores" em prol da conservação das aves de rapina, o Departamento de Proteção Ambiental de Taipé, ao aplicar raticidas nas ruas em 2026, estava pegando uma ferramenta que as zonas rurais haviam abandonado há dez anos e aplicando-a na cidade.**
 
-Em 4 de maio, o diretor da Agência, Hsu Shih-hsun (徐世勳), cedeu e disse que tentaria "vedar tocas de ratos, integrar e divulgar mapa de calor relativo com informações de aplicação de raticidas"[^30]; no dia seguinte, o prefeito Chiang Wan-an (蔣萬安) prometeu elaborar medidas concretas de "limpeza e desinfecção ambiental integrada da área urbana"[^31][^32]. A vereadora da oposição Hsu Shu-hua (許淑華) atacou em paralelo: reuniões interdepartamentais realizadas apenas três vezes, resposta lenta[^33].
+Em 4 de maio, o diretor do Departamento de Proteção Ambiental, Hsu Shih-shun, foi forçado a recuar, dizendo que tentaria "preencher as tocas de ratos e integrar as informações sobre o uso de produtos químicos com mapas de áreas de calor relativo para divulgação pública"[^30]; no dia seguinte, o prefeito [Chiang Wan-an](/people/蔣萬安) comprometeu-se a elaborar medidas concretas de "limpeza e desinfecção ambiental em toda a área urbana"[^31][^32]. A vereadora da oposição, Hsu Shu-hua, criticou a medida simultaneamente: as reuniões interdepartamentais ocorreram apenas três vezes, um ritmo lento demais[^33].
 
-📝 **Nota do curador:** "Espalhar veneno dá para ver, vedar frestas não" — essa é a economia política mais fundamental do controle de ratos em Taipé. Sob pressão eleitoral, o visível importa mais que o eficaz.
+📝 **Nota do Curador:** "O uso de raticidas é visível; a limpeza de frestas e buracos não é" — esta é a economia política fundamental da gestão de ratos em Taipé. Sob pressão eleitoral, o que é visível torna-se mais importante do que o que é eficaz.
 
 ## Seis, a infraestrutura invisível: esgoto misto, alpendres, mercados noturnos
 

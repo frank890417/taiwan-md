@@ -1,127 +1,61 @@
 ---
 title: 'Jolin Tsai'
-description: 'La reina del pop que no era genio: la profesora de baile que dijo que "no servía para bailar" y que veinticinco años después se convirtió en la artista de canto y baile con más premios en la historia de los Premios Golden Melody'
+description: 'En 1998 ganó el primer puesto en la categoría de canto del «New Voice Singing Competition», y posteriormente se consolidó como la reina del pop mandopop mediante álbumes y giras; «Rose Boy» le valió su tercer premio a la Canción del Año en los Golden Melody Awards.'
 date: 2026-03-24
 category: 'People'
 tags:
   [
-    'Personaje',
+    'Personajes',
     'Cantante',
-    'Mundo del espectáculo',
+    'Espectáculo',
     'Derechos LGBTQ+',
-    'Música pop',
+    'Pop',
     'Premios Golden Melody',
   ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-24
+lastVerified: 2026-10-23
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:1eed0b39727d52a4'
-sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
-translatedAt: '2026-05-09T14:31:06Z'
+sourceCommitSha: 'b8a8d446b'
+sourceContentHash: 'sha256:345d4b4b29007280'
+sourceBodyHash: 'sha256:6048e5ad66169502'
+translatedAt: '2026-10-23T20:40:14+08:00'
 ---
 
-> **Resumen en 30 segundos:** En 1998, una profesora de baile dijo de ella que "no servía para bailar". Veinticinco años después, su concierto incluía una actuación con anillas a diez metros de altura sobre el suelo, sin doble. La carrera de Jolin Tsai es una historia sobre el talento terrenal (_dìcái_): no depender del don innato, sino tratar cada álbum como un examen de resistencia física. Cuatro premios a Mejor Cantante Femenina de Lengua Mandarina en los Premios Golden Melody (金曲獎), una recaudación acumulada de más de 4,000 millones de dólares taiwaneses en giras, y una canción —«Rose Boy»— que hizo que toda la industria musical china empezara a hablar de igualdad de género.
+> **Resumen en 30 segundos:** En 1998 ganó la categoría de canto en el «New Voice Singing Competition», al año siguiente firmó con Universal Music y lanzó «1019». Durante los más de veinte años siguientes, lanzó álbum tras álbum, y sus giras fueron desde «J1» hasta «Pleasure». En 2019, «Rose Boy» le valió su tercer premio a la Canción del Año en los Golden Melody Awards.
 
-El 20 de abril de 2000, Ye Yongzhi (葉永鋕), estudiante de tercer año de secundaria en la Escuela Secundaria Gaoshu del condado de Pingtung, entró al baño durante el recreo y no volvió a salir. Durante mucho tiempo había sufrido acoso escolar por su comportamiento femenino, y las circunstancias de su muerte siguen siendo objeto de debate. Dieciocho años después, Jolin Tsai convirtió su historia en una canción.
+## Cronología
 
-Este comienzo parece no tener relación alguna con una reina del pop. Pero Jolin Tsai es Jolin Tsai precisamente porque su historia nunca fue solo sobre cantar y bailar.
+- **1998**: Su nombre de nacimiento era Tsai Yi-ling (蔡宜凌), en mayo participó en el «New Voice Singing Competition» coorganizado por MTV Mandarin y Sony Music, y el 11 de agosto ganó el primer puesto en la categoría de canto.
+- **1999**: En marzo firmó con Universal Music, el 10 de septiembre lanzó su primer álbum «1019», su agencia inicial era Big Voice Entertainment (大聲音樂).
+- **2000 a 2005**: Lanzó sucesivamente «Don't Stop», «Show Your Love», «Lucky Number», «Look at Me 72 Changes» (2003), «Castle», «J-Game».
+- **2004 a 2006**: Gira mundial J1.
+- **2006 a 2009**: Gira mundial «Dancing Forever» (唯舞獨尊).
+- **Álbumes de 2006 a 2009**: «Dancing Diva» (舞孃) (2006), «Agent J» (特務J) (2007), «Butterfly» (花蝴蝶) (2009).
+- **2007**: Ganó el premio a la Mejor Cantante de Mandopop en los Golden Melody Awards con «Dancing Diva», y «The Day You Marry Me» (今天妳要嫁給我) ganó Canción del Año.
+- **2010 a 2013**: Lanzó «Myself» (2010), «Muse» (2012), y realizó la gira mundial Myself.
+- **2013**: «The Great Artist» (大藝術家) ganó Canción del Año en los Golden Melody Awards.
+- **2014 a 2016**: «Play» (呸) (2014), gira mundial Play (2015 a 2016).
+- **2018 a 2019**: Lanzó «Ugly Beauty», gira mundial de 2019 a 2024.
+- **2019**: «Rose Boy» (玫瑰少年) ganó Canción del Año en los Golden Melody Awards.
+- **2025 a 2027**: Lanzó «Pleasure», inició la gira mundial Pleasure.
+- **2026**: «Pleasure» ganó el premio a la Mejor Cantante de Mandopop en los Golden Melody Awards, su segundo galardón en esta categoría.
 
-## La última de la clase de baile
+## Premios Golden Melody
 
-En 1998, la joven de diecisiete años Cai Yiling (蔡宜凌), originaria de Xinzhuang, participó en el concurso de canto _New Voice Showdown_ de MTV y ganó el primer lugar. Al año siguiente firmó con Universal Music, adoptó el nombre artístico "Jolin Tsai" (蔡依林) y lanzó su primer álbum, _1019_. El disco se vendió, pero el problema no tardó en aparecer: prácticamente no tenía base de baile.
+Según Wikipedia, ha ganado un total de nueve Golden Melody Awards. Fue nominada cinco veces a Mejor Cantante de Mandopop, ganando dos (2007, 2026); y ganó tres veces Canción del Año (2007, 2013, 2019).
 
-No era "base débil", era cero. No podía tocar el suelo al agacharse, movía brazos y piernas de forma descoordinada, y su coordinación corporal estaba entre las peores de su generación. La evaluación de la profesora de baile fue directa: "No sirves para bailar".
+## Nombre
 
-La mayoría de los cantantes habrían optado por la ruta lírica, explotando sus fortalezas y evitando sus debilidades. Jolin Tsai hizo lo contrario: decidió convertir su punto más débil en su sello distintivo.
+Su nombre de nacimiento era Tsai Yi-ling (蔡宜凌), luego lo cambió a Tsai Yi-ling (蔡宜翎), después a Tsai Yi-ling (蔡依翎), y en su carrera artística usa el nombre artístico Jolin Tsai (蔡依林).
 
-> **📝 Nota del curador**
-> Casi todas las artistas de canto y baile en la escena pop mundial —desde Beyoncé hasta Jennifer López— recibieron formación en danza desde la infancia.
-> Jolin Tsai hizo lo inverso: primero fue cantante, después aprendió a bailar desde cero y finalmente llevó su cuerpo al nivel de una gimnasta profesional.
-> Esta trayectoria de crecimiento "de ingeniería inversa" es extremadamente rara en la música pop internacional.
+## Baile
 
-## Cada álbum, un examen de resistencia
-
-2003, con el álbum _See My 72 Transformations_ (看我 72 變), marcó un punto de inflexión. El álbum vendió más de 300,000 copias en Taiwán, y Jolin Tsai ganó por primera vez el campeonato de ventas anuales de álbumes para artistas femeninas. Pero el cambio real no fueron las ventas: a partir de entonces estableció un patrón: con cada nuevo álbum, debía aprender una nueva habilidad corporal.
-
-Pole dance (2006, _Dancing Diva_ / 舞孃). Magia (2007, _Agent J_ / 特務J). Gimnasia con cintas (2010, _Myself_; en concierto realizó movimientos profesionales en caballo con arcos). Anillas aéreas (2018, gira mundial _Ugly Beauty_, a diez metros de altura, sin doble).
-
-En sus propias palabras: "No soy un genio, soy _dìcái_ (talento terrenal)." Esta frase se convirtió con el tiempo en el núcleo de su marca personal. El concierto en el Taipei Arena de 2007 se tituló directamente _Dìcái_.
-
-En los textos promocionales de su álbum bajo Sony Music, Jolin Tsai dijo: "Antes, si no alcanzaba el cien por cien, me sentía muy culpable; creía que no era alguien digno de mención." Esta autoexigencia casi obsesiva impulsó su evolución, y años después se convirtió en el tema psicológico que deseaba superar.
-
-> **💡 ¿Sabías que...?**
-> El nombre real de Jolin Tsai es Cai Yiling (蔡宜凌); "Yilin" (依林) fue su nombre artístico.
-> Posteriormente cambió oficialmente su nombre a Cai Yiling (蔡依翎), pero en su carrera artística sigue utilizando "Jolin Tsai" (蔡依林).
-
-## La aritmética detrás de los 4,000 millones de recaudación
-
-Los números no mienten. Desde 2007 hasta la fecha, Jolin Tsai ha realizado seis grandes giras:
-
-| Gira        | Año       | Ciudades | Funciones | Espectadores | Recaudación (NTD) |
-| ----------- | --------- | -------- | --------- | ------------ | ----------------- |
-| Myself      | 2010-2013 | 31       | 35        | 600,000      | ~1,500 millones   |
-| Play        | 2015-2017 | 23       | 34        | —            | ~1,500 millones   |
-| Ugly Beauty | 2019-2024 | 23       | 34        | 600,000      | ~1,500 millones   |
-| Pleasure    | 2025-     | En curso | —         | —            | —                 |
-
-Las tres giras suman más de 100 funciones y una recaudación acumulada de más de 4,000 millones de dólares taiwaneses. En el panorama musical chino, esta cifra está en la misma liga que [Jay Chou](es/People/jay-chou/) (周杰倫) y Mayday (五月天). Es la cantante femenina con mayor recaudación de taquilla en Taiwán desde la década de 2000, sin excepción.
-
-Pero detrás de las cifras de taquilla, lo que llama la atención es el coste de producción. El presupuesto de producción del álbum _Ugly Beauty_ superó los 100 millones de dólares taiwaneses, algo casi sin precedentes en la industria discográfica china. Jolin Tsai y su equipo producen cada actuación como un desafío al límite físico; esta es tanto su propuesta de venta como su ventaja competitiva.
-
-## «Rose Boy»: una canción que cambió una conversación
-
-En diciembre de 2018, Jolin Tsai lanzó su decimocuarto álbum, _Ugly Beauty_, que incluía la canción «Rose Boy» (玫瑰少年), inspirada en el caso de Ye Yongzhi. La letra fue coescrita por Ashin (阿信), vocalista de Mayday (五月天): "Nacer humano no es un crimen, no tienes que disculparte."
-
-Esta fue la primera vez en la historia de la música pop china que una artista del nivel de Jolin Tsai abordaba directamente los temas de derechos LGBTQ+ y acoso escolar.
-
-El 29 de junio de 2019, en la ceremonia de entrega de la 30.ª edición de los Premios Golden Melody (金曲獎), «Rose Boy» ganó el premio a Canción del Año. Jolin Tsai, entre lágrimas, dijo en el escenario: "Ye Yongzhi me recordó que, en cualquier situación, yo podría ser cierto tipo de minoría, así que debo usar la empatía para amar a las personas a mi alrededor. Esta canción es para él, y también para todos los que alguna vez creyeron que no tenían absolutamente ninguna oportunidad ni opción. Debes recordar elegirte a ti mismo y apoyarte a ti mismo." (Fuente: reportaje de los Premios Golden Melody de la Agencia Central de Noticias)
-
-Cinco días antes, el 24 de mayo de 2019, Taiwán se había convertido en el primer país de Asia en legalizar el matrimonio entre personas del mismo sexo. «Rose Boy» pasó de ser una canción a convertirse en un símbolo de época.
-
-> **⚠️ Punto de vista controvertido**
-> En 2023, a Jolin Tsai se le exigió que no interpretara «Rose Boy» en sus conciertos en China continental.
-> La propia censura reforzó el significado simbólico de la canción: las canciones prohibidas suelen ser las que realmente tocan la herida.
-
-## Del perfeccionismo a _Ugly Beauty_
-
-El concepto central del álbum _Ugly Beauty_ es más revelador que las canciones en sí. Jolin Tsai explicó que en esos años comenzó a leer obras de psicología de Carl Jung y descubrió que había estado reprimiendo durante mucho tiempo su lado "imperfecto". En una entrevista exclusiva con Sony Music, admitió: "Para mí, enfrentar mi lado 'feo' es parte de las emociones. Cuando empiezas a enfrentarlo, es cuando realmente eres libre."
-
-Este es un giro fascinante: alguien que construyó su carrera sobre la "búsqueda constante de la perfección" dedicó un álbum entero a cuestionar la "perfección" misma. De "si no alcanzo el cien por cien, no valgo la pena" a "lo feo y lo bello son lo mismo", este camino le tomó casi veinte años.
-
-> **📝 Nota del curador**
-> Si la primera mitad de la carrera de Jolin Tsai fue "demostrar con el cuerpo que el talento terrenal puede ganar",
-> la segunda mitad es "admitir con la música que el perfeccionismo en sí mismo es una herida".
-> Ambas narrativas juntas conforman su historia completa.
-
-## Pastel de fondant y el tiempo libre de una reina asiática
-
-En noviembre de 2016, Jolin Tsai viajó a Reino Unido con un pastel de fondant con forma de Marilyn Monroe para participar en el concurso internacional de pastelería "Cake International". Ganó la medalla de oro. Ese mismo año, también había obtenido la medalla de plata en otro concurso internacional de fondant.
-
-El hecho de que una reina del pop asiática viajara a Reino Unido para competir en pastelería de fondant dice más sobre ella que cualquier medalla. En sus propias palabras: "No soporto abandonar algo antes de haberlo aprendido bien." —Esta frase, aplicada al baile, la gimnasia, el pole dance y el fondant, no ha cambiado en veinte años.
-
-## Cuatro premios a Mejor Cantante Femenina
-
-El historial de Jolin Tsai en los Premios Golden Melody merece mención aparte. Ha ganado cuatro premios a Mejor Cantante Femenina de Lengua Mandarina, el máximo récord en la historia de los premios. Sumando otros galardones como Canción del Año, es la artista de canto y baile con más premios en la historia de los Golden Melody.
-
-La revista estadounidense _Billboard_ la denominó "Queen of C-Pop" (Reina del Pop Chino), señalando que en la década de 2000, Jolin Tsai y Jay Chou definieron conjuntamente la era dorada de la música pop taiwanesa.
-
-> **✦** "Ye Yongzhi me recordó que, en cualquier situación, yo podría ser cierto tipo de minoría." — Jolin Tsai, Premios Golden Melody 2019
-
-El 30 de diciembre de 2025, la sexta gira mundial de Jolin Tsai, _Pleasure_, se inauguró en el Taipei Dome con tres funciones consecutivas para la Nochevieja. Inspirada en _El jardín de las delicias_ de El Bosco, la artista de cuarenta y cuatro años seguía en el escenario, seguía aprendiendo cosas nuevas y seguía usando su cuerpo para decir esa vieja frase: "No soy un genio, pero puedo esforzarme más que uno."
-
-Sin embargo, más allá de las cifras de taquilla, quizá lo que más debería recordarse es aquella noche de 2019. Cuando Jolin Tsai pronunció el nombre de Ye Yongzhi en el escenario de los Premios Golden Melody, en ese instante la muerte de un adolescente, una canción pop y toda la actitud de una sociedad hacia el género chocaron en una misma frase. Eso no era entretenimiento: era el punto más lejano al que la cultura pop puede llegar.
+Según Wikipedia, citando al profesor de baile Chang Sheng-feng (張勝豐): Jolin Tsai observaba muy detenidamente los movimientos escénicos de Madonna, y al actuar buscaba lograr efectos similares. También le apasionan los pasteles de fondant, y ha participado en concursos ganando premios.
 
 ## Referencias
 
-- [«Rose Boy» gana Canción del Año en los Golden Melody; Jolin Tsai recuerda a Ye Yongzhi entre lágrimas — Agencia Central de Noticias](https://www.cna.com.tw/news/firstnews/201906295014.aspx) (fuente primaria)
-- [Discurso de aceptación y lista completa de la 30.ª edición de los Premios Golden Melody — BIOS monthly](https://www.biosmonthly.com/article/10033) (fuente primaria)
-- [Gira mundial Myself — Wikipedia](https://zh.wikipedia.org/zh-tw/Myself%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
-- [Ugly Beauty World Tour — Wikipedia](https://en.m.wikipedia.org/wiki/Ugly_Beauty_World_Tour) (inglés)
-- [Jolin Tsai UGLY BEAUTY Edición especial — Sony Music](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty/) (fuente primaria)
-- [Caso de Ye Yongzhi — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%91%89%E6%B0%B8%E9%8B%95%E4%BA%8B%E4%BB%B6)
-- [Jolin Tsai gana medalla de oro en Cake International — GirlStyle](https://girlstyle.com/sg/article/3987/8-times-jolin-tsai-wow-ed-us-with-her-cakes) (inglés)
-- [Gira mundial Pleasure — Wikipedia](https://zh.wikipedia.org/zh-hant/Pleasure%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
+- [Jolin Tsai — Wikipedia](https://zh.wikipedia.org/zh-tw/蔡依林)

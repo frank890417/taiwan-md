@@ -1,16 +1,16 @@
 ---
-title: 'Hsu Chiao-hsin: de la hija de una tienda de desayunos a la legisladora del "presupuesto de defensa de 800.000 millones" y su audiencia joven'
-description: 'Diputada por el séptimo distrito de Taipéi. Nacida en 1989 en una familia de dueños de un restaurante de desayunos en Taipéi, se convirtió en la miembro más joven del Comité Central de la KMT en 2013. En 2024, venció a Hsu Shu-hua con 89.727 votos para entrar en el Legislativo. En 2025, su revocación fue rechazada pese a alcanzar el umbral con 62.000 votos; en 2026, su propuesta de 800.000 millones para defensa chocó con la versión del partido de 380.000 millones+N, provocando que Ji Lin-lien le advirtiera: "no hagas algo que beneficie a tus amigos y dañe a tus enemigos".'
+title: 'Hsu Chiao-hsin: de hija de dueños de una tienda de desayunos a legisladora de la «compra de armas de 800 mil millones» y el rejuvenecimiento de su audiencia'
+description: 'La legisladora del séptimo distrito electoral de Taipéi, Hsu Chiao-hsin, nació el 18 de noviembre de 1989 en una tienda de desayunos occidental que operaba todo el año en el distrito de Xinyi. Su nombre original era Hsu Mei-feng, pero lo cambió debido al incidente del video sexual de Chu Mei-feng. El 13 de noviembre de 2013, a los 24 años, ocupó el escaño más joven en el Comité Central del Kuomintang en su decimonovena sesión. El 13 de enero de 2024, fue elegida legisladora con 89.727 votos, derrotando a Hsu Shu-hua. El 26 de julio de 2025, el caso de revocación obtuvo 62.633 votos de acuerdo, alcanzando el umbral, pero fue rechazado. El 27 de abril de 2026, en las negociaciones de compra de armas, presentó una versión de NT$800 mil millones, chocando con la propuesta del partido de NT$380 mil millones más N; Chi Lin-lien la señaló nominalmente para no hacer cosas que aleguen a los enemigos y duela a los aliados. Los tres casos —el falso espionaje comunista, el IPEF y los documentos clasificados sobre ayuda a Ucrania— se desglosan uno a uno para analizar esta trayectoria de rejuvenecimiento de la audiencia.'
 date: 2026-05-03
 category: 'People'
 tags:
   [
-    'políticos',
-    'legisladores',
+    'Figura política',
+    'Legislador',
     'Kuomintang',
-    'Ala Combativa (Blue)',
-    'séptimo distrito de Taipéi',
-    'elecciones legislativas 2024',
+    'Azul combativo',
+    'Séptimo distrito electoral de Taipéi',
+    'Legislador 2024',
   ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ researchReport: 'reports/research/2026-05/徐巧芯.md'
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'People/徐巧芯.md'
-sourceCommitSha: '200949f47'
+sourceCommitSha: 'f4ae4fb8f'
 sourceContentHash: 'sha256:a962a822b6113a98'
 sourceBodyHash: 'sha256:77a2ffda234c910d'
-translatedAt: '2026-07-27T03:39:56+08:00'
+translatedAt: '2026-10-21T01:43:22.156015+00:00'
 ---
 
 # Hsu Chiao-hsin: de la hija de una tienda de desayunos a la legisladora del "presupuesto de defensa de 800.000 millones" y su audiencia joven

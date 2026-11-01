@@ -170,7 +170,7 @@ _Ваньвань (Ху Цзявэй). — Photo: chungkeng ryu / Wikimedia Comm
 
 - [2008 год Тайбэйская международная книжная ярмарка (стенд Ляньхэ сианшан)](https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
 - [2007 год церемония премии «Всемирная китайская блогосфера»](https://commons.wikimedia.org/wiki/File:2007GlobalChineseBlogAward_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
-- [Портрет Ваньвань (Ху Цзявэй)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped) — chungkeng ryu, CC BY-SA 2.0
+- [Портрет Ваньвань (Ху Цзявэй)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped).jpg>) — chungkeng ryu, CC BY-SA 2.0
 
 **Работы Ваньвань (Fair use, редакционное использование):** ниже приведены редакционные цитаты самих работ Ваньвань; авторские права на аватарки лысого человечка, обложки книг, стикеры LINE принадлежат Ваньвань (Ху Цзявэй).
 

@@ -1,2630 +1,1281 @@
 ---
+/**
+ * data.template.astro — /data「資料台灣」資料中樞（v2，2026-10-23）
+ *
+ * 設計報告：reports/design-data-hub-evolution-2026-10-23.md
+ *
+ * 三層＋四個支撐區塊：
+ *   §1 數字之間的線（跨主題的問題）→ §2 台灣的數字（指標總表）→
+ *   §3 國際資料庫裡的台灣 → §4 站上的圖（全站文章量化圖表索引）→
+ *   §5 深度資料專題 → §6 資料從哪裡來 → §7 下載與 API → §8 方法
+ *
+ * 內容 SSOT 在 src/data/data-hub/*.json，數字一個都不寫進 i18n 字串
+ * （v1 的八張數字卡就是寫在字串裡才兩年沒人更新）。全部 build 時產生語意
+ * HTML 與 inline SVG；JS 只做子導覽 scroll-spy 跟分類篩選，沒有 JS 時
+ * 內容一樣全部看得到（graph.md §三.9、§六）。
+ */
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
+import Icon from '../components/Icon.astro';
+import IndicatorCard, {
+  type CardLabels,
+} from '../components/data-hub/IndicatorCard.astro';
+import ImpactChain, {
+  type ChainStep,
+} from '../components/data-hub/ImpactChain.astro';
+import TimeBands, { type Band } from '../components/data-hub/TimeBands.astro';
+import TerrainRidge from '../components/brand/TerrainRidge.astro';
+import ArticleCard from '../components/ArticleCard.astro';
 import {
   getLangFromUrl,
   useTranslations,
   useTranslatedPath,
 } from '../i18n/utils';
-import {
-  getCompanyConfigs,
-  getCategories,
-  sectorColors,
-} from '../utils/dataConfig';
-import contentStats from '../data/content-stats.json';
+import { getCategoryConfigs, categoryList } from '../utils/categoryConfig';
+import { categoryIcons } from '../icons/taiwan-icons.mjs';
+import { getCompanyConfigs } from '../utils/dataConfig';
 import ly from '../data/ly-budget.json';
-import { fmtYi, fmtPct } from '../utils/budgetViz';
+import { fmtYi } from '../utils/budgetViz';
+import opendata from '../data/opendata-curation.json';
+import elections from '../data/elections-2026.json';
+import mapMarkers from '../data/map-markers.json';
+import {
+  indicatorsData,
+  threadsData as threadsJson,
+  sourcesData as sourcesJson,
+  intlData as intlJson,
+  storyData as storyJson,
+  groupByCategory,
+  loc,
+  formatIndicator,
+  formatNumber,
+  type ValueFormat,
+  type Indicator,
+  type Loc,
+} from '../utils/data-hub';
+import { getCorpusCharts, summarizeCharts } from '../utils/data-charts';
+import { renderVizBlock } from '../utils/article-render';
+import {
+  getArticleByZhPath,
+  getArticleShipDate,
+  type ArticleSummary,
+} from '../utils/articles-index';
+import { trimSummary } from '../utils/article-embeds';
+import '../styles/data-hub.css';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const translatePath = useTranslatedPath(lang);
+const prefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const cats = getCategoryConfigs(t);
+const catName = (c: string) => cats[c]?.name ?? c;
+const catColor = (c: string) => `var(--cat-${c})`;
+const catIcon = (c: string) =>
+  (categoryIcons as Record<string, string>)[c] ?? 'chart';
+const fill = (s: string, vars: Record<string, string | number>) =>
+  s.replace(/\{(\w+)\}/g, (_, k) => String(vars[k] ?? ''));
 
-// Get companies from centralized config
+// ── 站上文章：zh 路徑 → 本語言的那一篇（沒有譯文就不出連結）──────────────
+type Read = { title: string; href: string; category: string };
+const readCache = new Map<string, Promise<Read | null>>();
+function resolveRead(zhPath: string): Promise<Read | null> {
+  let hit = readCache.get(zhPath);
+  if (!hit) {
+    hit = (async () => {
+      const [folder, ...rest] = zhPath.split('/');
+      const slug = rest.join('/');
+      if (!folder || !slug) return null;
+      const r = await getArticleByZhPath(lang, folder.toLowerCase(), slug);
+      if (!r || (lang !== 'zh-TW' && r.lang !== lang)) return null;
+      return {
+        title: r.article.title,
+        href: `${prefix}/${r.article.category}/${encodeURIComponent(r.article.slug)}`,
+        category: r.article.category,
+      };
+    })();
+    readCache.set(zhPath, hit);
+  }
+  return hit;
+}
+async function resolveReads(paths: string[] = [], max = 3): Promise<Read[]> {
+  const out = (await Promise.all(paths.map(resolveRead))).filter(
+    (r): r is Read => !!r,
+  );
+  return out.slice(0, max);
+}
+
+// ── §2 指標 ──────────────────────────────────────────────────────────
+const indicators: Indicator[] = indicatorsData.indicators;
+const byId = new Map(indicators.map((i) => [i.id, i]));
+const grouped = groupByCategory(indicators);
+const groupOrder = (categoryList as string[])
+  .filter((c) => grouped.has(c))
+  .sort((a, b) => grouped.get(b)!.length - grouped.get(a)!.length);
+const indReads = new Map<string, Read[]>();
+for (const ind of indicators) {
+  indReads.set(ind.id, await resolveReads(ind.articles, 3));
+}
+const headline = indicators.filter((i) => i.headline).slice(0, 6);
+// 機構數：去掉「（資料來源：…）」這類括號註記再數，同一個機關不重複算
+const sourceAgencies = new Set(
+  indicators.map((i) =>
+    loc(i.source.agency, 'zh-TW')
+      .replace(/[（(][^）)]*[）)]/g, '')
+      .trim(),
+  ),
+);
+const cardLabels: CardLabels = {
+  compare: t('dh.card.compare'),
+  source: t('dh.card.source'),
+  download: t('dh.card.download'),
+  reads: t('dh.card.reads'),
+  permalink: t('dh.card.permalink'),
+  why: t('dh.card.why'),
+  year: t('dh.card.year'),
+  value: t('dh.card.value'),
+  basis: {
+    official: t('dh.basis.official'),
+    estimate: t('dh.basis.estimate'),
+    projection: t('dh.basis.projection'),
+    ranking: t('dh.basis.ranking'),
+  },
+};
+
+// ── 文內嵌入卡（tw-article 同款：共用 ArticleCard embed 密度）────────────
+// 跟 utils/article-embeds.ts 同一套規則：zh 路徑反查本語言譯文，譯文還沒出生就
+// 退回 zh 文章＋zh 連結；上站日優先取譯文自己的，沒有就取 zh 原文的。
+type Embed = {
+  article: ArticleSummary;
+  lang: string;
+  href: string;
+  note?: string;
+  date?: string;
+};
+const localeFor = (l: string) =>
+  l === 'en' ? 'en-US' : l === 'zh-TW' ? 'zh-TW' : l;
+function fmtShipDate(iso: string): string | undefined {
+  if (!iso) return undefined;
+  const dt = new Date(iso);
+  if (Number.isNaN(dt.getTime())) return undefined;
+  if (lang === 'zh-TW')
+    return `${dt.getFullYear()} 年 ${dt.getMonth() + 1} 月 ${dt.getDate()} 日`;
+  return dt.toLocaleDateString(localeFor(lang), {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+}
+async function resolveEmbed(zhPath: string, note?: Loc): Promise<Embed | null> {
+  const [folder, ...rest] = zhPath.split('/');
+  const slug = rest.join('/');
+  if (!folder || !slug) return null;
+  const hit = await getArticleByZhPath(lang, folder.toLowerCase(), slug);
+  if (!hit) return null;
+  let ship = await getArticleShipDate(
+    hit.lang,
+    hit.article.category,
+    hit.article.slug,
+  );
+  if (!ship && hit.lang !== 'zh-TW') {
+    ship = await getArticleShipDate('zh-TW', folder.toLowerCase(), slug);
+  }
+  const p = hit.lang === 'zh-TW' ? '' : `/${hit.lang}`;
+  return {
+    article: hit.article,
+    lang: hit.lang,
+    href: `${p}/${hit.article.category}/${encodeURIComponent(hit.article.slug)}`,
+    note: note ? loc(note, lang) : undefined,
+    date: fmtShipDate(ship),
+  };
+}
+
+// ── 七章（原「數字之間的線」）────────────────────────────────────────
+type Thread = {
+  id: string;
+  categories: string[];
+  question: Loc;
+  /** 章的正文，段落以空行分隔（報告 §10.4） */
+  essay: Loc;
+  /** 章首大字用哪個指標 */
+  lead?: string;
+  /** 長期主圖：tw-* 模組與各語言的 fenced block 內文 */
+  chart?: { module: string; body: Loc };
+  /** 影響鏈：層面＋一句有年份的事實＋站內文章 */
+  chain?: { layer: Loc; text: Loc; article?: string }[];
+  /** 接下來看什麼 */
+  next?: Loc;
+  /** 延伸閱讀嵌入卡（正文真的講到的那幾篇） */
+  embeds?: { path: string; note?: Loc }[];
+  indicators: string[];
+  articles: string[];
+};
+const threads = await Promise.all(
+  (threadsJson.threads as Thread[]).map(async (th, i) => {
+    const chain: ChainStep[] = await Promise.all(
+      (th.chain ?? []).map(async (c) => {
+        const r = c.article ? await resolveRead(c.article) : null;
+        return {
+          layer: loc(c.layer, lang),
+          text: loc(c.text, lang),
+          href: r?.href,
+          articleTitle: r?.title,
+        };
+      }),
+    );
+    const embeds = (
+      await Promise.all(
+        (th.embeds ?? []).map((e) => resolveEmbed(e.path, e.note)),
+      )
+    ).filter((e): e is Embed => !!e);
+    const chartBody = th.chart ? loc(th.chart.body, lang) : '';
+    return {
+      ...th,
+      no: String(i + 1).padStart(2, '0'),
+      leadInd: th.lead ? byId.get(th.lead) : undefined,
+      leadV:
+        th.lead && byId.get(th.lead)
+          ? formatIndicator(byId.get(th.lead)!, lang)
+          : undefined,
+      inds: th.indicators
+        .map((id) => byId.get(id))
+        .filter((i): i is Indicator => !!i),
+      reads: embeds.length ? [] : await resolveReads(th.articles, 6),
+      chainSteps: chain,
+      embedCards: embeds,
+      chartHtml:
+        th.chart && chartBody
+          ? renderVizBlock(th.chart.module, chartBody, lang)
+          : '',
+      paragraphs: loc(th.essay, lang).split(/\n\n+/),
+    };
+  }),
+);
+
+// ── 總覽：七十五年 ────────────────────────────────────────────────────
+type StoryBand = {
+  id: string;
+  label: Loc;
+  unit: Loc;
+  format: ValueFormat;
+  decimals?: number;
+  zero?: boolean;
+  series: [number, number][];
+};
+const ov = (storyJson as any).overview as
+  | {
+      kicker: Loc;
+      title: Loc;
+      essay: Loc;
+      chartTitle: Loc;
+      source: Loc;
+      x0: number;
+      x1: number;
+      bands: StoryBand[];
+      eras: { from: number; to: number; label: Loc }[];
+      marks: { year: number; label: Loc }[];
+    }
+  | undefined;
+const ovBands: Band[] = (ov?.bands ?? []).map((b) => ({
+  id: b.id,
+  label: loc(b.label, lang),
+  unit: loc(b.unit, lang),
+  zero: b.zero,
+  series: b.series,
+  fmt: (v: number) =>
+    formatNumber(v, b.format, lang, b.decimals) +
+    (b.format === 'percent' ? '%' : ''),
+}));
+
+// ── §4 站上的圖 ──────────────────────────────────────────────────────
+// 「關於」分類是 Taiwan.md 寫自己（產線、孢子、模組型錄）的文章，不是台灣的資料，不收
+const charts = (await getCorpusCharts(lang)).filter(
+  (c) => c.category !== 'about',
+);
+const chartStats = summarizeCharts(charts);
+const chartGroups = (categoryList as string[])
+  .map((c) => ({ cat: c, items: charts.filter((x) => x.category === c) }))
+  .filter((g) => g.items.length > 0);
+// 精選：每個分類挑一張有來源、畫得出形狀的圖（折線／斜率／長條優先）
+const FEATURE_ORDER = [
+  'tw-line',
+  'tw-multiples',
+  'tw-slope',
+  'tw-bars',
+  'tw-dot',
+];
+const FEATURE_CATS = [
+  'society',
+  'economy',
+  'geography',
+  'culture',
+  'food',
+  'lifestyle',
+];
+const featured = FEATURE_CATS.map((c) => {
+  const pool = charts.filter((x) => x.category === c && x.source);
+  for (const m of FEATURE_ORDER) {
+    const hit = pool.find((x) => x.module === m);
+    if (hit) return hit;
+  }
+  return undefined;
+})
+  .filter((c): c is NonNullable<typeof c> => !!c)
+  .slice(0, 6)
+  .map((c) => ({ ...c, html: renderVizBlock(c.module, c.raw, lang) }))
+  .filter((c) => c.html);
+
+// ── §5 深度專題入口：數字都從各自的 SSOT 讀 ─────────────────────────────
+const budgetYears = ly.years as any[];
+// 最後一筆可能是還沒三讀的預算案（legal 為 null），主數字用最近一個法定年度
+const budgetLatest =
+  [...budgetYears].reverse().find((y) => y.legal) ??
+  budgetYears[budgetYears.length - 1];
+const budgetNext = budgetYears.find(
+  (y) => y.fy > budgetLatest.fy && y.proposed && !y.legal,
+);
 const companies = getCompanyConfigs(t);
+const top50Cap = companies.reduce((s, c) => s + (c.marketCap || 0), 0);
+const tsmc = companies[0];
+const isMyriad = ['zh-TW', 'ja', 'ko'].includes(lang);
+const capText = (yi: number) =>
+  isMyriad
+    ? fmtYi(yi, lang)
+    : `NT$${new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(yi / 10000)}T`;
+const electionDate = new Intl.DateTimeFormat(lang, {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(new Date(`${(elections as any).election.date}T00:00:00+08:00`));
+const odTotals = (opendata as any).totals ?? {};
+const portals = [
+  {
+    href: translatePath('/budget'),
+    icon: 'coins',
+    title: t('dh.portal.budget.t'),
+    desc: t('dh.portal.budget.d'),
+    num: fmtYi(budgetLatest.legal ?? budgetLatest.proposed, lang),
+    sub: budgetNext
+      ? fill(t('dh.portal.budget.n2'), {
+          fy: budgetLatest.fy,
+          next: budgetNext.fy,
+          nextTotal: fmtYi(budgetNext.proposed, lang),
+        })
+      : fill(t('dh.portal.budget.n'), { fy: budgetLatest.fy }),
+  },
+  {
+    href: translatePath('/companies'),
+    icon: 'chart',
+    title: t('dh.portal.companies.t'),
+    desc: t('dh.portal.companies.d'),
+    num: `${((tsmc.marketCap / top50Cap) * 100).toFixed(0)}%`,
+    sub: fill(t('dh.portal.companies.n'), { total: capText(top50Cap) }),
+  },
+  {
+    href: translatePath('/opendata'),
+    icon: 'archive',
+    title: t('dh.portal.opendata.t'),
+    desc: t('dh.portal.opendata.d'),
+    num: odTotals.domains ? String(odTotals.domains) : '',
+    sub: t('dh.portal.opendata.n'),
+  },
+  {
+    href: translatePath('/elections/2026'),
+    icon: 'ballot',
+    title: t('dh.portal.elections.t'),
+    desc: t('dh.portal.elections.d'),
+    num: electionDate,
+    sub: t('dh.portal.elections.n'),
+  },
+  {
+    href: translatePath('/map'),
+    icon: 'map',
+    title: t('dh.portal.map.t'),
+    desc: t('dh.portal.map.d'),
+    num: new Intl.NumberFormat(lang).format((mapMarkers as any[]).length),
+    sub: t('dh.portal.map.n'),
+  },
+  {
+    href: translatePath('/taiwan-shape'),
+    icon: 'island',
+    title: t('dh.portal.shape.t'),
+    desc: t('dh.portal.shape.d'),
+    num: 'SVG · TopoJSON',
+    sub: t('dh.portal.shape.n'),
+  },
+];
 
-const sectors = [...new Set(companies.map((c) => c.sector))];
+// ── §6 來源目錄、§3 國際資料庫 ────────────────────────────────────────
+type SourceItem = {
+  name: Loc;
+  org?: Loc;
+  url: string;
+  good: Loc;
+  meta?: string[];
+  tip?: Loc;
+};
+type SourceGroup = { id: string; title: Loc; intro?: Loc; items: SourceItem[] };
+const sourceGroups = (sourcesJson.groups ?? []) as SourceGroup[];
+// 格式／存取標籤：中文標籤在 sources.json 的 tags 字典裡有各語言寫法，CSV、API 這類原樣顯示
+const sourceTags = ((sourcesJson as any).tags ?? {}) as Record<string, Loc>;
+const tagText = (m: string) => (sourceTags[m] ? loc(sourceTags[m], lang) : m);
+const pitfalls = (sourcesJson.pitfalls ?? []) as { title: Loc; body: Loc }[];
+const intlRows = intlJson.rows as {
+  db: string;
+  kind: string;
+  label: string;
+  url: string;
+  note: Loc;
+}[];
+const intlCount = (k: string) => intlRows.filter((r) => r.kind === k).length;
+const selfComputed = intlJson.selfComputed as {
+  id: string;
+  name: Loc;
+  value: string;
+  rank: Loc;
+  by: Loc;
+  url: string;
+}[];
 
-// Get categories from centralized config
-const dataCategories = getCategories(t);
+// ── 子導覽 ───────────────────────────────────────────────────────────
+const toc = [
+  ...(ov ? [{ id: 's-overview', label: t('dh.nav.overview') }] : []),
+  { id: 's-threads', label: t('dh.nav.threads') },
+  { id: 's-numbers', label: t('dh.nav.numbers') },
+  { id: 's-intl', label: t('dh.nav.intl') },
+  { id: 's-charts', label: t('dh.nav.charts') },
+  { id: 's-portals', label: t('dh.nav.portals') },
+  { id: 's-sources', label: t('dh.nav.sources') },
+  { id: 's-machine', label: t('dh.nav.machine') },
+  { id: 's-method', label: t('dh.nav.method') },
+];
 
-// Budget teaser section — three numbers pulled live from the /budget SSOT
-// (src/data/ly-budget.json), same derivation as src/templates/budget.template.astro
-// so the two pages never disagree.
-const budgetYears = ly.years;
-const budgetLatest = budgetYears[budgetYears.length - 1];
-const budgetFirst = budgetYears[0];
-const budgetCuts115 = (ly.cuts as any)['115'];
-const budgetGrowth =
-  budgetLatest.legal && budgetFirst.legal
-    ? ((budgetLatest.legal - budgetFirst.legal) / budgetFirst.legal) * 100
-    : null;
+const verifiedAt = indicatorsData.meta.verifiedAt;
+const verifiedText = new Intl.DateTimeFormat(lang, {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(new Date(`${verifiedAt}T00:00:00+08:00`));
+const site = 'https://taiwan.md';
+const datasetLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: t('dh.ld.name'),
+  description: t('dh.ld.description'),
+  url: `${site}${translatePath('/data')}`,
+  inLanguage: lang,
+  isAccessibleForFree: true,
+  license: 'https://creativecommons.org/licenses/by-sa/4.0/',
+  creator: { '@type': 'Organization', name: 'Taiwan.md', url: site },
+  spatialCoverage: {
+    '@type': 'Place',
+    name: 'Taiwan',
+    sameAs: 'https://www.wikidata.org/wiki/Q865',
+  },
+  dateModified: verifiedAt,
+  variableMeasured: indicators.map((i) => loc(i.title, lang)),
+  distribution: [
+    {
+      '@type': 'DataDownload',
+      encodingFormat: 'text/csv',
+      contentUrl: `${site}/data/taiwan-indicators.csv`,
+    },
+    {
+      '@type': 'DataDownload',
+      encodingFormat: 'application/json',
+      contentUrl: `${site}/data/taiwan-indicators.json`,
+    },
+  ],
+};
 ---
 
 <Layout
   lang={lang}
-  title={t('data.meta.title')}
-  description={t('data.meta.description')}
+  title={t('dh.meta.title')}
+  description={t('dh.meta.description')}
   readerSettings={true}
 >
-  <!--
-    Phase 7.6 — data.template.astro (Tier 1, partial)
-    Wrappers migrated to inline Tailwind: `.data-hub`, `.hero`,
-    `.hero-title`, `.hero-subtitle`, `.hero-desc`, `.section-divider`,
-    `.story-intro`, `.section-title`, `.story-text`. Kept scoped
-    (d3 / repeating / :global() territory):
-    - All .comparison-card / .country-bar / .company-card repeats
-    - .bubble-controls + .toggle-btn / .sector-btn .active state
-    - :global(.tooltip) for the d3 bubble chart
-    - All d3-styled SVG nodes and population pyramid bars
-    - Responsive overrides for the repeating patterns
-  -->
-  <main
-    class="data-page min-h-screen bg-[image:var(--surface-panel-dark)] text-[#e2e8f0]"
-  >
-    <!-- Hero -->
-    <PageHero
-      bgTone="dark"
-      titleVariant="gradient"
-      titleGradient="linear-gradient(135deg,#38bdf8,#818cf8,#c084fc)"
-      titleSize="clamp"
-      containerWidth="wide"
-      title={t('data.hero.title')}
-      subtitle={t('data.hero.subtitle')}
-    >
-      <p
-        class="mx-auto mt-4 max-w-[600px] text-base leading-[1.7] text-[#cbd5e1]"
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400..600&display=swap"
+  />
+  <main class="data-hub min-h-screen">
+    <div class="dh-hero">
+      <TerrainRidge
+        class="dh-hero-ridge"
+        stroke="rgba(233, 240, 238, 0.3)"
+        accent="#45c2ab"
+        bg="var(--dh-hero-bg)"
+        strokeWidth={3.4}
+      />
+      <PageHero
+        eyebrow={t('dh.hero.eyebrow')}
+        title={t('dh.hero.title')}
+        subtitle={t('dh.hero.subtitle')}
+        titleSize="clamp"
+        containerWidth="wide"
+        bgTone="dark"
+        accentColor="#45c2ab"
       >
-        {t('data.hero.description')}
-      </p>
-    </PageHero>
-
-    <!-- Taiwan vs World Infographic Section -->
-    <section class="taiwan-vs-world-section" id="global">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.taiwanVsWorld.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.taiwanVsWorld.story.p1')}</p>
-          <p>{t('data.taiwanVsWorld.story.p2')}</p>
-        </div>
-      </div>
-
-      <div
-        class="mx-auto grid max-w-[var(--container-wide)] grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-6 px-8 max-[640px]:grid-cols-[1fr]"
-      >
-        <div class="comparison-card">
-          <div class="card-emoji">📏</div>
-          <div class="card-number">{t('data.taiwanVsWorld.area.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.area.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.area.context')}</div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">💰</div>
-          <div class="card-number">{t('data.taiwanVsWorld.gdp.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.gdp.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.gdp.context')}</div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">🏭</div>
-          <div class="card-number">
-            {t('data.taiwanVsWorld.semiconductor.number')}
-          </div>
-          <div class="card-label">
-            {t('data.taiwanVsWorld.semiconductor.label')}
-          </div>
-          <div class="card-context">
-            {t('data.taiwanVsWorld.semiconductor.context')}
-          </div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">🗳️</div>
-          <div class="card-number">
-            {t('data.taiwanVsWorld.democracy.number')}
-          </div>
-          <div class="card-label">
-            {t('data.taiwanVsWorld.democracy.label')}
-          </div>
-          <div class="card-context">
-            {t('data.taiwanVsWorld.democracy.context')}
-          </div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">👶</div>
-          <div class="card-number">
-            {t('data.taiwanVsWorld.birthRate.number')}
-          </div>
-          <div class="card-label">
-            {t('data.taiwanVsWorld.birthRate.label')}
-          </div>
-          <div class="card-context">
-            {t('data.taiwanVsWorld.birthRate.context')}
-          </div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">🏪</div>
-          <div class="card-number">
-            {t('data.taiwanVsWorld.convenience.number')}
-          </div>
-          <div class="card-label">
-            {t('data.taiwanVsWorld.convenience.label')}
-          </div>
-          <div class="card-context">
-            {t('data.taiwanVsWorld.convenience.context')}
-          </div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">🚄</div>
-          <div class="card-number">{t('data.taiwanVsWorld.hsr.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.hsr.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.hsr.context')}</div>
-        </div>
-
-        <div class="comparison-card">
-          <div class="card-emoji">🏥</div>
-          <div class="card-number">
-            {t('data.taiwanVsWorld.healthcare.number')}
-          </div>
-          <div class="card-label">
-            {t('data.taiwanVsWorld.healthcare.label')}
-          </div>
-          <div class="card-context">
-            {t('data.taiwanVsWorld.healthcare.context')}
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Population Pyramid Section -->
-    <section class="population-section" id="population">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.population.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.population.story.p1')}</p>
-          <p>{t('data.population.story.p2')}</p>
-        </div>
-      </div>
-
-      <!-- Population Pyramid Chart -->
-      <div class="pyramid-container">
-        <div id="population-pyramid"></div>
-
-        <!-- Year Slider -->
-        <div class="year-slider-container">
-          <div class="slider-track">
-            <div class="slider-thumb" id="yearThumb"></div>
-          </div>
-          <div class="year-labels">
-            <span>2000</span>
-            <span>2010</span>
-            <span>2025</span>
-            <span>2050</span>
-          </div>
-          <div class="current-year" id="currentYear">2025</div>
-        </div>
-      </div>
-
-      <!-- Key Insights Cards (dynamic, syncs with slider) -->
-      <div class="insights">
-        <div class="insight-grid">
-          <div class="insight-card">
-            <div class="insight-label" id="insightLabel1">
-              {t('data.population.insights.card1.title')}
-            </div>
-            <div class="insight-number" id="insightValue1">43</div>
-            <div class="insight-detail" id="insightUnit1">
-              {t('data.population.insights.card1.subtitle')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-label" id="insightLabel2">
-              {t('data.population.insights.card2.title')}
-            </div>
-            <div class="insight-number" id="insightValue2">0.87</div>
-            <div class="insight-detail" id="insightUnit2">
-              {t('data.population.insights.card2.subtitle')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-label" id="insightLabel3">
-              {t('data.population.insights.card3.title')}
-            </div>
-            <div class="insight-number" id="insightValue3">18%</div>
-            <div class="insight-detail" id="insightUnit3">
-              {t('data.population.insights.card3.subtitle')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-label" id="insightLabel4">
-              {t('data.population.insights.card4.title')}
-            </div>
-            <div class="insight-number" id="insightValue4">2,340</div>
-            <div class="insight-detail" id="insightUnit4">
-              {t('data.population.insights.card4.subtitle')}
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Taiwan Shape Section — now a teaser linking to the standalone /taiwan-shape page -->
-    <section class="taiwan-shape-section" id="shape">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.taiwanShape.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.taiwanShape.story.p1')}</p>
-          <p>{t('data.taiwanShape.story.p2')}</p>
-        </div>
-      </div>
-
-      <!-- AI vs Real Taiwan Comparison -->
-      <div class="taiwan-comparison">
-        <h3 class="comparison-title">{t('data.taiwanComparison.title')}</h3>
-        <div class="comparison-grid">
-          <div class="comparison-item wrong">
-            <div class="svg-container">
-              <img
-                src="/assets/svg/ai-taiwan-wrong.svg"
-                alt="AI Generated Taiwan (Wrong)"
-              />
-            </div>
-            <div class="comparison-label wrong">
-              {t('data.taiwanComparison.aiGenerated')}
-            </div>
-          </div>
-          <div class="comparison-vs">VS</div>
-          <div class="comparison-item correct">
-            <div class="svg-container">
-              <img
-                src="/assets/svg/taiwan-icon-wiki.svg"
-                alt="Correct Taiwan Shape"
-              />
-            </div>
-            <div class="comparison-label correct">
-              {t('data.taiwanComparison.correct')}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- CTA to standalone page -->
-      <div class="shape-cta-card">
-        <div class="shape-cta-content">
-          <h3>
-            {t('data.taiwanShape.teaser.title')}
-          </h3>
-          <p>
-            {t('data.taiwanShape.teaser.desc')}
-          </p>
-          <a href={translatePath('/taiwan-shape')} class="btn btn-primary">
-            {t('data.taiwanShape.teaser.cta')}
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Digital Democracy Timeline Section -->
-    <section class="digital-democracy-section" id="democracy">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.digitalDemocracy.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.digitalDemocracy.story.p1')}</p>
-          <p>{t('data.digitalDemocracy.story.p2')}</p>
-        </div>
-      </div>
-
-      <!-- Horizontal Timeline -->
-      <div class="timeline-container">
-        <div class="timeline-horizontal">
-          <div class="timeline-item" data-year="1997">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">1997</div>
-              <div class="timeline-title">{t('data.timeline.1997.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.1997.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2003">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2003</div>
-              <div class="timeline-title">{t('data.timeline.2003.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2003.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2012">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2012</div>
-              <div class="timeline-title">{t('data.timeline.2012.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2012.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2013">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2013</div>
-              <div class="timeline-title">{t('data.timeline.2013.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2013.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2014">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2014</div>
-              <div class="timeline-title">{t('data.timeline.2014.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2014.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2015">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2015</div>
-              <div class="timeline-title">{t('data.timeline.2015.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2015.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2016">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2016</div>
-              <div class="timeline-title">{t('data.timeline.2016.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2016.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2020">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2020</div>
-              <div class="timeline-title">{t('data.timeline.2020.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2020.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2022">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2022</div>
-              <div class="timeline-title">{t('data.timeline.2022.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2022.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2023">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2023</div>
-              <div class="timeline-title">{t('data.timeline.2023.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2023.desc')}</div>
-            </div>
-          </div>
-
-          <div class="timeline-item" data-year="2024">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-year">2024</div>
-              <div class="timeline-title">{t('data.timeline.2024.title')}</div>
-              <div class="timeline-desc">{t('data.timeline.2024.desc')}</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Open Data Categories (3-column grid) -->
-      <div class="open-data-section" id="opendata">
-        <h3
-          class="section-title"
-          style="margin-top: 5rem; margin-bottom: 2rem;"
-        >
-          {t('data.openData.heading')}
-        </h3>
-        <div class="data-categories-grid">
-          {
-            dataCategories.map((cat) => (
-              <div class="data-category-card">
-                <div class="category-header">
-                  <span class="category-icon">{cat.icon}</span>
-                  <div>
-                    <h4 class="category-title">{cat.title}</h4>
-                    <p class="category-desc">{cat.description}</p>
-                  </div>
-                </div>
-                <ul class="item-list">
-                  {cat.items.map((item) => (
-                    <li class="item">
-                      <a
-                        href={item.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        class="item-link"
-                      >
-                        {item.name}
+        <p class="dh-hero-lede">{t('dh.hero.lede')}</p>
+        {
+          headline.length > 0 && (
+            <section class="dh-today" aria-labelledby="dh-today-h">
+              <h2 class="dh-today-h" id="dh-today-h">
+                {t('dh.today.h')}
+              </h2>
+              <ul class="dh-today-grid">
+                {headline.map((ind) => {
+                  const v = formatIndicator(ind, lang);
+                  return (
+                    <li style={`--dh-cat:${catColor(ind.category)}`}>
+                      <a href={`#ind-${ind.id}`}>
+                        <div class="dh-today-v">
+                          {v.prefix}
+                          {v.number}
+                          {v.unit && <small>{v.unit}</small>}
+                        </div>
+                        <div class="dh-today-l">{loc(ind.title, lang)}</div>
+                        <div class="dh-today-p">{loc(ind.period, lang)}</div>
                       </a>
-                      <span class="item-desc">— {item.desc}</span>
+                    </li>
+                  );
+                })}
+              </ul>
+              <p class="dh-today-foot">
+                {fill(t('dh.today.foot'), { date: verifiedText })}
+              </p>
+            </section>
+          )
+        }
+      </PageHero>
+    </div>
+
+    <nav class="dh-subnav" aria-label={t('dh.subnav.label')} id="dh-subnav">
+      <div class="dh-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    {
+      ov && (
+        <section class="dh-section is-tint" id="s-overview">
+          <div class="dh-wrap">
+            <header class="dh-sec-head">
+              <p class="dh-kicker">{loc(ov.kicker, lang)}</p>
+              <h2 class="dh-h2 is-display">{loc(ov.title, lang)}</h2>
+            </header>
+            <div class="dh-essay is-lead">
+              {loc(ov.essay, lang)
+                .split(/\n\n+/)
+                .map((p) => (
+                  <p>{p}</p>
+                ))}
+            </div>
+            {ovBands.length > 0 && (
+              <TimeBands
+                title={loc(ov.chartTitle, lang)}
+                bands={ovBands}
+                eras={ov.eras.map((e) => ({ ...e, label: loc(e.label, lang) }))}
+                marks={ov.marks.map((m) => ({
+                  ...m,
+                  label: loc(m.label, lang),
+                }))}
+                x0={ov.x0}
+                x1={ov.x1}
+                source={loc(ov.source, lang)}
+                sourceLabel={t('dh.tb.source')}
+                yearLabel={t('dh.card.year')}
+                tableCaption={loc(ov.chartTitle, lang)}
+                marksLabel={t('dh.tb.marks')}
+              />
+            )}
+            <nav class="dh-ch-index" aria-labelledby="dh-ch-index-h">
+              <h3 class="dh-ch-index-h" id="dh-ch-index-h">
+                {t('dh.overview.index')}
+              </h3>
+              <ol>
+                {threads.map((th) => (
+                  <li>
+                    <a href={`#thread-${th.id}`}>
+                      <span class="dh-ch-index-no">{th.no}</span>
+                      <span>{loc(th.question, lang)}</span>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- §1 七章：每章一個問題，固定六段（報告 §10.4） -->
+    <div class="dh-chapters" id="s-threads">
+      {
+        threads.map((th, i) => (
+          <section
+            class:list={['dh-section', 'dh-ch', i % 2 === 1 && 'is-tint']}
+            id={`thread-${th.id}`}
+            aria-labelledby={`thread-${th.id}-q`}
+          >
+            <div class="dh-wrap dh-ch-grid">
+              <aside class="dh-ch-side">
+                <span class="dh-ch-no" aria-hidden="true">
+                  {th.no}
+                </span>
+                <ul class="dh-thread-cats" aria-label={t('dh.threads.cats')}>
+                  {th.categories.map((c) => (
+                    <li class="dh-chip" style={`--dh-cat:${catColor(c)}`}>
+                      <Icon name={catIcon(c) as any} />
+                      {catName(c)}
                     </li>
                   ))}
                 </ul>
+                {th.leadInd && th.leadV && (
+                  <a class="dh-ch-lead" href={`#ind-${th.leadInd.id}`}>
+                    <span class="dh-ch-lead-v">
+                      {th.leadV.prefix}
+                      {th.leadV.number}
+                      {th.leadV.unit && <small>{th.leadV.unit}</small>}
+                    </span>
+                    <span class="dh-ch-lead-l">
+                      {loc(th.leadInd.title, lang)}
+                    </span>
+                    <span class="dh-ch-lead-p">
+                      {loc(th.leadInd.period, lang)}
+                    </span>
+                  </a>
+                )}
+              </aside>
+              <div class="dh-ch-body">
+                <h2 class="dh-ch-q" id={`thread-${th.id}-q`}>
+                  {loc(th.question, lang)}
+                </h2>
+                <div class="dh-essay">
+                  {th.paragraphs.map((p) => (
+                    <p>{p}</p>
+                  ))}
+                </div>
+                {th.chartHtml && (
+                  <div class="dh-ch-chart" set:html={th.chartHtml} />
+                )}
+                {th.chainSteps.length > 0 && (
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.why')}</h3>
+                    <ImpactChain
+                      steps={th.chainSteps}
+                      label={`${t('dh.ch.why')}：${loc(th.question, lang)}`}
+                      fromLabel={t('dh.ch.from')}
+                    />
+                  </div>
+                )}
+                {th.next && (
+                  <p class="dh-ch-next">
+                    <b>{t('dh.ch.next')}</b>
+                    {loc(th.next, lang)}
+                  </p>
+                )}
+                {th.inds.length > 0 && (
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.nums')}</h3>
+                    <div class="dh-thread-nums">
+                      {th.inds.map((ind) => (
+                        <a href={`#ind-${ind.id}`} class="dh-thread-num">
+                          <IndicatorCard
+                            ind={ind}
+                            lang={lang}
+                            catName={catName(ind.category)}
+                            catColor={catColor(ind.category)}
+                            labels={cardLabels}
+                            reads={[]}
+                            compact
+                          />
+                        </a>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {th.embedCards.length > 0 && (
+                  <div class="dh-ch-block">
+                    <h3 class="dh-ch-h">{t('dh.ch.reads')}</h3>
+                    <div class="tw-article dh-embeds">
+                      {th.embedCards.map((c) => {
+                        const cat = cats[c.article.category];
+                        return (
+                          <ArticleCard
+                            density="embed"
+                            href={c.href}
+                            title={c.article.title}
+                            description={
+                              c.note ?? trimSummary(c.article.description)
+                            }
+                            categoryLabel={cat?.name}
+                            categoryColor={cat?.color}
+                            categoryIcon={cat?.icon}
+                            date={c.date}
+                            coverImage={c.article.image || undefined}
+                            curation={c.article.curation}
+                            openIn="same-tab"
+                            dataAttrs={{
+                              'data-ga-section': 'data_hub_embed',
+                              'data-tw-embed-lang': c.lang,
+                            }}
+                          />
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
+                {th.reads.length > 0 && (
+                  <ul
+                    class="dh-thread-reads"
+                    aria-label={t('dh.threads.reads')}
+                  >
+                    {th.reads.map((r) => (
+                      <li>
+                        <span class="dh-read-cat">{catName(r.category)}</span>
+                        <a href={r.href}>{r.title}</a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </div>
-            ))
-          }
-        </div>
-      </div>
-    </section>
+            </div>
+          </section>
+        ))
+      }
+    </div>
 
-    <!-- Enterprise Landscape -->
-    <section class="companies-section" id="enterprise">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.enterprise.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.enterprise.story.p1')}</p>
-          <p>{t('data.enterprise.story.p2')}</p>
-        </div>
-      </div>
-
-      <!-- Bubble Chart Controls -->
-      <div
-        class="mx-auto mb-8 flex max-w-[var(--container-wide)] flex-col gap-4 px-8 max-[768px]:flex-col max-[768px]:items-start"
-      >
-        <div
-          class="flex flex-wrap items-center gap-2 [&>label]:text-[0.9rem] [&>label]:font-semibold [&>label]:text-[#94a3b8]"
-        >
-          <label>{t('data.enterprise.controls.sizeLabel')}</label>
-          <button class="toggle-btn active" data-mode="marketCap">
-            {t('data.enterprise.controls.marketCap')}
-          </button>
-          <button class="toggle-btn" data-mode="revenue">
-            {t('data.enterprise.controls.revenue')}
-          </button>
-          <button class="toggle-btn" data-mode="employees">
-            {t('data.enterprise.controls.employees')}
-          </button>
-        </div>
-        <div class="flex flex-wrap gap-[0.4rem]">
-          <button class="sector-btn active" data-sector="all">
-            {t('data.enterprise.controls.filterAll')}
-          </button>
+    <!-- §2 台灣的數字 -->
+    <section class="dh-section is-tint" id="s-numbers">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.numbers.kicker')}</p>
+        <h2 class="dh-h2">
           {
-            sectors.slice(0, 8).map((s) => (
-              <button
-                class="sector-btn"
-                data-sector={s}
-                style={`--sector-color: ${sectorColors[s] || '#888'}`}
+            fill(t('dh.numbers.h2'), {
+              n: indicators.length,
+              agencies: sourceAgencies.size,
+            })
+          }
+        </h2>
+        <p class="dh-lede">{t('dh.numbers.lede')}</p>
+        <ul
+          class="dh-filter"
+          id="dh-filter"
+          aria-label={t('dh.filter.label')}
+          hidden
+        >
+          <li>
+            <button type="button" data-filter="all" aria-pressed="true">
+              {t('dh.filter.all')}
+              <span class="dh-filter-n">{indicators.length}</span>
+            </button>
+          </li>
+          {
+            groupOrder.map((c) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter={c}
+                  aria-pressed="false"
+                  style={`--dh-cat:${catColor(c)}`}
+                >
+                  <Icon name={catIcon(c) as any} />
+                  {catName(c)}
+                  <span class="dh-filter-n">{grouped.get(c)!.length}</span>
+                </button>
+              </li>
+            ))
+          }
+        </ul>
+        {
+          groupOrder.map((c) => (
+            <section
+              class="dh-group"
+              data-group={c}
+              style={`--dh-cat:${catColor(c)}`}
+              aria-labelledby={`dh-g-${c}`}
+            >
+              <h3 class="dh-group-h" id={`dh-g-${c}`}>
+                <Icon name={catIcon(c) as any} />
+                {catName(c)}
+                <a href={`${prefix}/${c}`}>{t('dh.numbers.toHub')}</a>
+              </h3>
+              <div class="dh-ind-grid">
+                {grouped.get(c)!.map((ind) => (
+                  <IndicatorCard
+                    ind={ind}
+                    lang={lang}
+                    catName={catName(c)}
+                    catColor={catColor(c)}
+                    labels={cardLabels}
+                    reads={indReads.get(ind.id) ?? []}
+                  />
+                ))}
+              </div>
+            </section>
+          ))
+        }
+        <p class="dh-note">
+          {t('dh.numbers.download')}
+          <a class="dh-link" href="/data/taiwan-indicators.csv" download>CSV</a>
+          ·
+          <a class="dh-link" href="/data/taiwan-indicators.json">JSON</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- §3 國際資料庫裡的台灣 -->
+    <section class="dh-section is-dark" id="s-intl">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.intl.kicker')}</p>
+        <h2 class="dh-h2">{t('dh.intl.h2')}</h2>
+        <p class="dh-lede">
+          {
+            fill(t('dh.intl.lede'), {
+              total: intlRows.length,
+              taiwan: intlCount('taiwan'),
+              province: intlCount('province'),
+              ct: intlCount('chinese-taipei') + intlCount('taiwan-china'),
+              absent: intlCount('absent'),
+            })
+          }
+        </p>
+        <div class="dh-table-wrap">
+          <table class="dh-table">
+            <caption class="tw-sr-only">{t('dh.intl.caption')}</caption>
+            <thead>
+              <tr>
+                <th scope="col">{t('dh.intl.col.db')}</th>
+                <th scope="col">{t('dh.intl.col.how')}</th>
+                <th scope="col">{t('dh.intl.col.label')}</th>
+                <th scope="col">{t('dh.intl.col.note')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {
+                intlRows.map((r) => (
+                  <tr>
+                    <th scope="row">
+                      <a
+                        class="dh-link"
+                        href={r.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {r.db}
+                      </a>
+                    </th>
+                    <td>
+                      <span
+                        class={`dh-label is-${r.kind === 'taiwan' ? 'own' : r.kind === 'absent' ? 'absent' : r.kind === 'province' ? 'prc' : 'ct'}`}
+                      >
+                        {t(`dh.intl.kind.${r.kind}` as any)}
+                      </span>
+                    </td>
+                    <td>{r.label === '—' ? '—' : <code>{r.label}</code>}</td>
+                    <td>{loc(r.note, lang)}</td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+        <h3 class="dh-h3">{t('dh.intl.self.h')}</h3>
+        <p class="dh-lede">{t('dh.intl.self.lede')}</p>
+        <ul class="dh-machine">
+          {
+            selfComputed.map((s) => (
+              <li>
+                <div class="dh-machine-t">{loc(s.name, lang)}</div>
+                <div class="dh-portal-n">{s.value}</div>
+                <div>{loc(s.rank, lang)}</div>
+                <div class="dh-src-org">
+                  <a
+                    class="dh-link"
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {loc(s.by, lang)}
+                  </a>
+                </div>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="dh-note">
+          <strong>{t('dh.intl.policy.h')}</strong>
+          {t('dh.intl.policy.body')}
+        </p>
+      </div>
+    </section>
+
+    <!-- §4 站上的圖 -->
+    <section class="dh-section" id="s-charts">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.charts.kicker')}</p>
+        <h2 class="dh-h2">
+          {
+            fill(t('dh.charts.h2'), {
+              charts: chartStats.charts,
+              articles: chartStats.articles,
+            })
+          }
+        </h2>
+        <p class="dh-lede">{t('dh.charts.lede')}</p>
+        {
+          featured.length > 0 && (
+            <div class="dh-charts-feature">
+              {featured.map((c) => (
+                <figure
+                  class="dh-chart-card"
+                  style={`--dh-cat:${catColor(c.category)}`}
+                >
+                  <Fragment set:html={c.html} />
+                  <figcaption class="dh-chart-from">
+                    {catName(c.category)} · <a href={c.url}>{c.articleTitle}</a>
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          )
+        }
+        <div class="dh-chart-index">
+          {
+            chartGroups.map((g) => (
+              <section
+                class="dh-chart-cat"
+                style={`--dh-cat:${catColor(g.cat)}`}
               >
-                <span
-                  class="sector-dot"
-                  style={`background: ${sectorColors[s] || '#888'}`}
-                />
-                {t(`data.sector.${s}`)}
-              </button>
+                <h4>
+                  <Icon name={catIcon(g.cat) as any} />
+                  {catName(g.cat)}
+                  <span>
+                    {fill(t('dh.charts.count'), { n: g.items.length })}
+                  </span>
+                </h4>
+                <ul>
+                  {g.items.slice(0, 6).map((c) => (
+                    <li>
+                      <a href={c.url}>
+                        <span class="dh-ct-title">{c.title}</span>
+                        <span class="dh-ct-from">{c.articleTitle}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                {g.items.length > 6 && (
+                  <details class="dh-more">
+                    <summary>
+                      {fill(t('dh.charts.more'), { n: g.items.length - 6 })}
+                    </summary>
+                    <ul>
+                      {g.items.slice(6).map((c) => (
+                        <li>
+                          <a href={c.url}>
+                            <span class="dh-ct-title">{c.title}</span>
+                            <span class="dh-ct-from">{c.articleTitle}</span>
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                )}
+              </section>
             ))
           }
         </div>
       </div>
+    </section>
 
-      <!-- Bubble Chart Container -->
-      <div id="bubble-chart"></div>
+    <!-- §5 深度資料專題 -->
+    <section class="dh-section is-tint" id="s-portals">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.portals.kicker')}</p>
+        <h2 class="dh-h2">{t('dh.portals.h2')}</h2>
+        <ul class="dh-portals">
+          {
+            portals.map((p) => (
+              <li class="dh-portal">
+                <a href={p.href}>
+                  <span class="dh-portal-t">
+                    <Icon name={p.icon as any} />
+                    {p.title}
+                  </span>
+                  <span class="dh-portal-d">{p.desc}</span>
+                  {p.num && (
+                    <span class="dh-portal-n">
+                      {p.num}
+                      <small>{p.sub}</small>
+                    </span>
+                  )}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </section>
 
-      <!-- Key Insights -->
-      <div class="insights">
-        <div class="insight-grid">
-          <div class="insight-card">
-            <div class="insight-number">
-              {t('data.enterprise.insights.card1.number')}
-            </div>
-            <div class="insight-label">
-              {t('data.enterprise.insights.card1.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.enterprise.insights.card1.detail')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-number">
-              {t('data.enterprise.insights.card2.number')}
-            </div>
-            <div class="insight-label">
-              {t('data.enterprise.insights.card2.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.enterprise.insights.card2.detail')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-number">
-              {t('data.enterprise.insights.card3.number')}
-            </div>
-            <div class="insight-label">
-              {t('data.enterprise.insights.card3.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.enterprise.insights.card3.detail')}
-            </div>
-          </div>
-          <div class="insight-card">
-            <div class="insight-number">
-              {t('data.enterprise.insights.card4.number')}
-            </div>
-            <div class="insight-label">
-              {t('data.enterprise.insights.card4.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.enterprise.insights.card4.detail')}
-            </div>
-          </div>
+    <!-- §6 資料從哪裡來 -->
+    <section class="dh-section" id="s-sources">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.sources.kicker')}</p>
+        <h2 class="dh-h2">{t('dh.sources.h2')}</h2>
+        <p class="dh-lede">{t('dh.sources.lede')}</p>
+        <div class="dh-src-groups">
+          {
+            sourceGroups.map((g) => (
+              <section aria-labelledby={`dh-src-${g.id}`}>
+                <h3 class="dh-h3" id={`dh-src-${g.id}`}>
+                  {loc(g.title, lang)}
+                </h3>
+                {g.intro && <p class="dh-lede">{loc(g.intro, lang)}</p>}
+                <ul class="dh-src-list">
+                  {g.items.map((s) => (
+                    <li class="dh-src">
+                      <div class="dh-src-name">
+                        <a
+                          href={s.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {loc(s.name, lang)}
+                        </a>
+                      </div>
+                      {s.org && (
+                        <div class="dh-src-org">{loc(s.org, lang)}</div>
+                      )}
+                      <p class="dh-src-good">{loc(s.good, lang)}</p>
+                      {s.meta && s.meta.length > 0 && (
+                        <ul class="dh-src-meta">
+                          {s.meta.map((m) => (
+                            <li>{tagText(m)}</li>
+                          ))}
+                        </ul>
+                      )}
+                      {s.tip && <p class="dh-src-tip">{loc(s.tip, lang)}</p>}
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))
+          }
         </div>
-        <div class="explore-more">
-          <a href={translatePath('/companies')} class="explore-link">
-            {t('data.enterprise.exploreLink')}
-          </a>
+        {
+          pitfalls.length > 0 && (
+            <>
+              <h3 class="dh-h3">{t('dh.sources.pitfalls')}</h3>
+              <ul class="dh-pitfalls">
+                {pitfalls.map((p) => (
+                  <li>
+                    <strong>{loc(p.title, lang)}</strong>
+                    {loc(p.body, lang)}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §7 給開發者與 AI -->
+    <section class="dh-section is-code" id="s-machine">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.machine.kicker')}</p>
+        <h2 class="dh-h2">{t('dh.machine.h2')}</h2>
+        <p class="dh-lede">{t('dh.machine.lede')}</p>
+        <ul class="dh-machine">
+          <li>
+            <div class="dh-machine-t">
+              <Icon name="download" />{t('dh.machine.indicators.t')}
+            </div>
+            {t('dh.machine.indicators.d')}
+            <code
+              >https://taiwan.md/data/taiwan-indicators.csv
+              https://taiwan.md/data/taiwan-indicators.json</code
+            >
+          </li>
+          <li>
+            <div class="dh-machine-t">
+              <Icon name="code" />{t('dh.machine.api.t')}
+            </div>
+            {t('dh.machine.api.d')}
+            <code
+              >https://taiwan.md/api/articles.json
+              https://taiwan.md/api/stats.json</code
+            >
+          </li>
+          <li>
+            <div class="dh-machine-t">
+              <Icon name="plug" />{t('dh.machine.mcp.t')}
+            </div>
+            {t('dh.machine.mcp.d')}
+            <code
+              >npx -y taiwanmd mcp install --client claude-code npx mcp-remote
+              https://mcp.taiwan.md</code
+            >
+            <a class="dh-link" href={translatePath('/mcp')}
+              >{t('dh.machine.mcp.more')}</a
+            >
+          </li>
+          <li>
+            <div class="dh-machine-t">
+              <Icon name="markdown" />{t('dh.machine.raw.t')}
+            </div>
+            {t('dh.machine.raw.d')}
+            <code
+              >https://taiwan.md/llms.txt https://taiwan.md/raw/economy/{
+                '{slug}'
+              }.md</code
+            >
+          </li>
+          <li>
+            <div class="dh-machine-t">
+              <Icon name="branch" />{t('dh.machine.repo.t')}
+            </div>
+            {t('dh.machine.repo.d')}
+            <code>https://github.com/frank890417/taiwan-md</code>
+          </li>
+        </ul>
+        <div class="dh-cite">
+          <strong>{t('dh.machine.cite.h')}</strong>
+          <code>{fill(t('dh.machine.cite.body'), { date: verifiedAt })}</code>
         </div>
       </div>
     </section>
 
-    <!-- Central Budget Teaser -->
-    <section class="budget-section" id="budget">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">{t('data.budget.teaser.title')}</h2>
-        <div class="story-text">
-          <p>{t('data.budget.teaser.story.p1')}</p>
-          <p>{t('data.budget.teaser.story.p2')}</p>
-        </div>
-      </div>
-
-      <div class="insights">
-        <div class="insight-grid">
-          <div class="insight-card">
-            <div class="insight-number">
-              {fmtYi(budgetLatest.legal, lang)}
-            </div>
-            <div class="insight-label">
-              {t('data.budget.teaser.card1.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.budget.teaser.card1.detail')}
-            </div>
+    <!-- §8 方法 -->
+    <section class="dh-section" id="s-method">
+      <div class="dh-wrap">
+        <p class="dh-kicker">{t('dh.method.kicker')}</p>
+        <h2 class="dh-h2">{t('dh.method.h2')}</h2>
+        <div class="dh-method">
+          <div>
+            <h3>{t('dh.method.pick.h')}</h3>
+            <p>{t('dh.method.pick.body')}</p>
           </div>
-          <div class="insight-card">
-            <div class="insight-number">
-              {fmtYi(budgetCuts115.cut, lang)}
-              <small>{fmtPct(-budgetCuts115.cut_pct, 1)}</small>
-            </div>
-            <div class="insight-label">
-              {t('data.budget.teaser.card2.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.budget.teaser.card2.detail')}
-            </div>
+          <div>
+            <h3>{t('dh.method.verify.h')}</h3>
+            <p>{t('dh.method.verify.body')}</p>
           </div>
-          <div class="insight-card">
-            <div class="insight-number">
-              {budgetGrowth === null ? '—' : fmtPct(budgetGrowth, 0)}
-            </div>
-            <div class="insight-label">
-              {t('data.budget.teaser.card3.label')}
-            </div>
-            <div class="insight-detail">
-              {t('data.budget.teaser.card3.detail')}
-            </div>
+          <div>
+            <h3>{t('dh.method.update.h')}</h3>
+            <p>{fill(t('dh.method.update.body'), { date: verifiedText })}</p>
           </div>
-        </div>
-        <div class="explore-more">
-          <a href={translatePath('/budget')} class="explore-link">
-            {t('data.budget.teaser.cta')}
-          </a>
+          <div>
+            <h3>{t('dh.method.naming.h')}</h3>
+            <p>{t('dh.method.naming.body')}</p>
+          </div>
+          <div>
+            <h3>{t('dh.method.error.h')}</h3>
+            <p>
+              {t('dh.method.error.body')}
+              <a
+                class="dh-link"
+                href="https://github.com/frank890417/taiwan-md/issues"
+                target="_blank"
+                rel="noopener noreferrer">GitHub Issues</a
+              >
+            </p>
+          </div>
         </div>
       </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="data-footer">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <h3 class="footer-title">{t('data.footer.heading')}</h3>
-      <div class="footer-links">
-        <a href="/economy" class="footer-link">
-          <span class="footer-icon">📈</span>
-          <div class="footer-text">
-            <span class="footer-name">{t('data.footer.link1.name')}</span>
-            <span class="footer-desc">
-              {t('data.footer.link1.description')}
-            </span>
-          </div>
-        </a>
-        <a href="/graph" class="footer-link">
-          <span class="footer-icon">🕸️</span>
-          <div class="footer-text">
-            <span class="footer-name">{t('data.footer.link2.name')}</span>
-            <span class="footer-desc">
-              {t('data.footer.link2.description')}
-            </span>
-          </div>
-        </a>
-        <a href="/contribute" class="footer-link">
-          <span class="footer-icon">✋</span>
-          <div class="footer-text">
-            <span class="footer-name">{t('data.footer.link3.name')}</span>
-            <span class="footer-desc">
-              {t('data.footer.link3.description')}
-            </span>
-          </div>
-        </a>
-      </div>
-    </footer>
+    <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
   </main>
 
-  <!-- D3 Bubble Chart Script -->
-  <script define:vars={{ companies, sectorColors, lang }}>
-    const data = companies;
-    const colors = sectorColors;
-    const currentLang = lang;
-
-    // Load D3
-    const script = document.createElement('script');
-    script.src = 'https://d3js.org/d3.v7.min.js';
-    script.onload = () => initBubbleChart(data, colors, currentLang);
-    document.head.appendChild(script);
-
-    function initBubbleChart(data, colors, lang) {
-      const container = document.getElementById('bubble-chart');
-      const width = container.clientWidth;
-      const height = Math.max(500, window.innerHeight * 0.5);
-
-      let currentMode = 'marketCap';
-      let currentSector = 'all';
-
-      const svg = d3
-        .select('#bubble-chart')
-        .append('svg')
-        .attr('width', width)
-        .attr('height', height)
-        .attr('viewBox', `0 0 ${width} ${height}`);
-
-      const tooltip = d3
-        .select('#bubble-chart')
-        .append('div')
-        .attr('class', 'tooltip')
-        .style('opacity', 0);
-
-      function getValue(d) {
-        return d[currentMode] || 0;
-      }
-
-      function getRadius(d) {
-        const val = getValue(d);
-        const maxVal = d3.max(data, getValue);
-        const minR = 12;
-        const maxR = Math.min(width, height) * 0.15;
-        return minR + (maxR - minR) * Math.sqrt(val / maxVal);
-      }
-
-      const simulation = d3
-        .forceSimulation(data)
-        .force('center', d3.forceCenter(width / 2, height / 2))
-        .force('charge', d3.forceManyBody().strength(3))
-        .force(
-          'collision',
-          d3
-            .forceCollide()
-            .radius((d) => getRadius(d) + 1.5)
-            .strength(0.8),
-        )
-        .force('x', d3.forceX(width / 2).strength(0.05))
-        .force('y', d3.forceY(height / 2).strength(0.05));
-
-      const nodes = svg
-        .selectAll('g.node')
-        .data(data)
-        .join('g')
-        .attr('class', 'node')
-        .call(
-          d3
-            .drag()
-            .on('start', (e, d) => {
-              if (!e.active) simulation.alphaTarget(0.3).restart();
-              d.fx = d.x;
-              d.fy = d.y;
-            })
-            .on('drag', (e, d) => {
-              d.fx = e.x;
-              d.fy = e.y;
-            })
-            .on('end', (e, d) => {
-              if (!e.active) simulation.alphaTarget(0);
-              d.fx = null;
-              d.fy = null;
-            }),
-        );
-
-      const circles = nodes
-        .append('circle')
-        .attr('r', (d) => getRadius(d))
-        .attr('fill', (d) => colors[d.sector] || '#888')
-        .attr('fill-opacity', 0.8)
-        .attr('stroke', (d) => colors[d.sector] || '#888')
-        .attr('stroke-width', 2)
-        .attr('stroke-opacity', 0.3)
-        .style('cursor', 'grab');
-
-      const labels = nodes
-        .append('text')
-        .attr('text-anchor', 'middle')
-        .attr('dominant-baseline', 'central')
-        .attr('fill', '#fff')
-        .attr('font-weight', '600')
-        .attr('pointer-events', 'none');
-
-      // 億 is 10^8. The old code kept the 億-denominated number but relabelled
-      // it "B" (10^9) for every non-zh-TW reader, overstating every company
-      // tenfold: TSMC's 590,000 億 (NT$59T) read as "590,000 B" = NT$590T.
-      // Convert the value instead of renaming the unit, and always say TWD —
-      // a bare "B" reads as USD to most readers (#1317).
-      // zh-TW / ja / ko count in 億·억 natively; everyone else gets billions.
-      const isZh = ['zh-TW', 'ja', 'ko'].includes(lang);
-      function metricNumber(v) {
-        if (currentMode === 'employees') return v.toLocaleString();
-        if (isZh) return v.toLocaleString();
-        return (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
-      }
-      function metricUnit() {
-        if (currentMode === 'employees') return isZh ? ' 人' : '';
-        return isZh ? ' 億 TWD' : 'B TWD';
-      }
-
-      // Company names arrive as "<Latin> <漢字>" (en/es/fr/…) or "<漢字> <Latin>"
-      // (zh-TW/ja/ko). Splitting on the first space truncated 45 of the 70
-      // companies to a meaningless token — TSMC showed as "Taiwan", 中鋼
-      // (China Steel) as "China", and 台積電 / 台灣大哥大 became two
-      // indistinguishable "Taiwan" bubbles. Take the leading same-script run
-      // so each label stays whole in whatever script that language uses.
-      function shortLabel(name) {
-        const isCJK = (c) => /[㐀-鿿豈-﫿぀-ヿ]/.test(c);
-        const s = String(name || '').trim();
-        if (!s) return s;
-        const lead = isCJK(s[0]);
-        let out = '';
-        for (const ch of s) {
-          if (isCJK(ch) !== lead) break;
-          out += ch;
-        }
-        return out.trim() || s;
-      }
-
-      // Redraw each label from the CURRENT mode/sector. Labels used to be
-      // drawn once at init, so switching the size metric (市值/營收/員工數)
-      // or a sector left the old market-cap number frozen on a resized
-      // bubble, so the value stopped matching the bubble it sat on (#1223).
-      function renderLabels() {
-        labels.each(function (d) {
-          const el = d3.select(this);
-          el.selectAll('tspan').remove();
-          el.text(null);
-          if (currentSector !== 'all' && d.sector !== currentSector) return;
-          const r = getRadius(d);
-          const shortName = shortLabel(d.name);
-          if (r > 40) {
-            el.append('tspan')
-              .attr('x', 0)
-              .attr('dy', '-0.3em')
-              .attr('font-size', `${Math.min(12, r / 4)}px`)
-              .text(shortName);
-            el.append('tspan')
-              .attr('x', 0)
-              .attr('dy', '1.2em')
-              .attr('font-size', `${Math.min(10, r / 5)}px`)
-              .attr('fill-opacity', 0.8)
-              .text(metricNumber(getValue(d)) + metricUnit());
-          } else if (r > 20) {
-            el.attr('font-size', `${Math.min(10, r / 3)}px`).text(shortName);
-          } else {
-            el.attr('font-size', '8px').text(shortName.slice(0, 2));
-          }
-        });
-      }
-
-      renderLabels();
-
-      // Get tooltip labels from translations
-      const tooltipData = {
-        marketCap: lang === 'zh-TW' ? '市值' : 'Market Cap',
-        revenue: lang === 'zh-TW' ? '營收' : 'Revenue',
-        employees: lang === 'zh-TW' ? '員工' : 'Employees',
-        founded: lang === 'zh-TW' ? '成立' : 'Founded',
-        unit: isZh ? '億 TWD' : 'B TWD',
-        people: lang === 'zh-TW' ? '人' : '',
-        year: lang === 'zh-TW' ? '年' : '',
-      };
-      // Same 億→B conversion as the bubble labels; tooltip and label must not
-      // disagree about the same company (#1317).
-      const money = (v) =>
-        isZh
-          ? v.toLocaleString()
-          : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
-
-      nodes
-        .on('mouseover', (e, d) => {
-          tooltip.transition().duration(200).style('opacity', 1);
-          tooltip
-            .html(
-              `
-            <strong>${d.name}</strong><br/>
-            <span style="color:${colors[d.sector] || '#888'}">● ${d.sector}</span><br/>
-            ${tooltipData.marketCap}：${money(d.marketCap)} ${tooltipData.unit}<br/>
-            ${tooltipData.revenue}：${money(d.revenue)} ${tooltipData.unit}<br/>
-            ${tooltipData.employees}：${d.employees.toLocaleString()} ${tooltipData.people}<br/>
-            ${tooltipData.founded}：${d.founded} ${tooltipData.year}
-          `,
-            )
-            .style('left', e.pageX + 15 + 'px')
-            .style('top', e.pageY - 10 + 'px');
-          d3.select(e.currentTarget)
-            .select('circle')
-            .attr('fill-opacity', 1)
-            .attr('stroke-width', 3);
-        })
-        .on('mouseout', (e) => {
-          tooltip.transition().duration(300).style('opacity', 0);
-          d3.select(e.currentTarget)
-            .select('circle')
-            .attr('fill-opacity', 0.8)
-            .attr('stroke-width', 2);
-        })
-        .on('click', (e, d) => {
-          e.stopPropagation();
-          if (d.articleUrl) {
-            window.location.href = d.articleUrl;
-          }
-        })
-        .style('cursor', (d) => (d.articleUrl ? 'pointer' : 'default'));
-
-      simulation.on('tick', () => {
-        nodes.attr('transform', (d) => {
-          d.x = Math.max(getRadius(d), Math.min(width - getRadius(d), d.x));
-          d.y = Math.max(getRadius(d), Math.min(height - getRadius(d), d.y));
-          return `translate(${d.x},${d.y})`;
-        });
-      });
-
-      // Toggle controls
-      document.querySelectorAll('.toggle-btn').forEach((btn) => {
-        btn.addEventListener('click', () => {
-          document
-            .querySelectorAll('.toggle-btn')
-            .forEach((b) => b.classList.remove('active'));
-          btn.classList.add('active');
-          currentMode = btn.dataset.mode;
-          updateBubbles();
-        });
-      });
-
-      document.querySelectorAll('.sector-btn').forEach((btn) => {
-        btn.addEventListener('click', () => {
-          document
-            .querySelectorAll('.sector-btn')
-            .forEach((b) => b.classList.remove('active'));
-          btn.classList.add('active');
-          currentSector = btn.dataset.sector;
-          updateBubbles();
-        });
-      });
-
-      function updateBubbles() {
-        circles
-          .transition()
-          .duration(600)
-          .attr('r', (d) => {
-            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
-            return getRadius(d);
-          })
-          .attr('fill-opacity', (d) => {
-            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
-            return 0.8;
-          });
-
-        // Re-render labels so the number inside each bubble matches the
-        // active size metric and the current sector filter (#1223).
-        renderLabels();
-
-        simulation
-          .force(
-            'collision',
-            d3
-              .forceCollide()
-              .radius((d) => {
-                if (currentSector !== 'all' && d.sector !== currentSector)
-                  return 0;
-                return getRadius(d) + 1.5;
-              })
-              .strength(0.8),
-          )
-          .alpha(0.6)
-          .restart();
-      }
-    }
-  </script>
-
-  <!-- Population Pyramid Script -->
-  <!-- Population Pyramid client 邏輯（477 行）在 src/scripts/data-client.js —
-       2026-06-13 抽出：原 define:vars inline 每語言頁各內嵌一份；改 Astro processed
-       module 後共用一份 hashed bundle + 瀏覽器可快取。lang 改讀 <html lang>。-->
   <script>
-    import '../scripts/data-client.js';
-  </script>
-
-  <!-- SVG Copy Function -->
-  <script is:inline define:vars={{ lang }}>
-    async function copySVG(filename, btn) {
-      const currentLang = lang;
-      try {
-        const res = await fetch('/assets/svg/' + filename);
-        const text = await res.text();
-        await navigator.clipboard.writeText(text);
-        const orig = btn.textContent;
-        btn.textContent = currentLang === 'zh-TW' ? '✅ 已複製' : '✅ Copied';
-        setTimeout(() => (btn.textContent = orig), 2000);
-      } catch (e) {
-        btn.textContent = currentLang === 'zh-TW' ? '❌ 複製失敗' : '❌ Failed';
-        setTimeout(
-          () =>
-            (btn.textContent =
-              currentLang === 'zh-TW' ? '複製代碼' : 'Copy SVG'),
-          2000,
+    // 漸進增強：1) 子導覽量 header 底緣＋scroll-spy；2) 指標分類篩選（沒有 JS 時篩選列隱藏、全部卡片照常顯示）
+    const subnav = document.getElementById('dh-subnav');
+    if (subnav) {
+      const measure = () => {
+        const hc = document.getElementById('header-container');
+        const b = hc ? hc.getBoundingClientRect().bottom : 56;
+        document.documentElement.style.setProperty(
+          '--dh-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
         );
-      }
-    }
-  </script>
-
-  <!-- Chart.js Visualization Script -->
-  <script
-    define:vars={{
-      contentStats,
-      articlesAddedLabel: t('data.chart.articlesAdded'),
-    }}
-  >
-    // Load Chart.js
-    const chartScript = document.createElement('script');
-    chartScript.src =
-      'https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js';
-    chartScript.onload = () => initContentCharts();
-    document.head.appendChild(chartScript);
-
-    function initContentCharts() {
-      const stats = contentStats;
-
-      // Category Distribution Chart (Doughnut)
-      const categoryCtx = document.getElementById('categoryChart');
-      if (categoryCtx) {
-        const categoryData = Object.entries(stats.categories)
-          .filter(([cat]) => cat !== 'root')
-          .sort((a, b) => b[1] - a[1]);
-
-        new Chart(categoryCtx, {
-          type: 'doughnut',
-          data: {
-            labels: categoryData.map(([cat]) => cat),
-            datasets: [
-              {
-                data: categoryData.map(([, count]) => count),
-                backgroundColor: [
-                  '#3b82f6',
-                  '#8b5cf6',
-                  '#ec4899',
-                  '#f59e0b',
-                  '#10b981',
-                  '#06b6d4',
-                  '#84cc16',
-                  '#f97316',
-                  '#ef4444',
-                  '#6366f1',
-                  '#8b5cf6',
-                  '#ec4899',
-                  '#f59e0b',
-                  '#10b981',
-                  '#06b6d4',
-                ],
-                borderWidth: 2,
-                borderColor: '#1e293b',
-                hoverBorderWidth: 3,
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-              legend: {
-                position: 'bottom',
-                labels: {
-                  color: '#e2e8f0',
-                  font: { size: 11 },
-                  padding: 12,
-                  usePointStyle: true,
-                },
-              },
-              tooltip: {
-                backgroundColor: 'rgba(0, 0, 0, 0.8)',
-                titleColor: '#e2e8f0',
-                bodyColor: '#e2e8f0',
-                borderColor: 'rgba(255, 255, 255, 0.1)',
-                borderWidth: 1,
-                callbacks: {
-                  label: function (context) {
-                    const total = context.dataset.data.reduce(
-                      (a, b) => a + b,
-                      0,
-                    );
-                    const percentage = ((context.raw / total) * 100).toFixed(1);
-                    return `${context.label}: ${context.raw} 篇 (${percentage}%)`;
-                  },
-                },
-              },
-            },
-          },
-        });
-      }
-
-      // Growth Timeline Chart (Line)
-      const growthCtx = document.getElementById('growthChart');
-      if (growthCtx) {
-        const growthData = stats.dailyGrowth || [];
-
-        new Chart(growthCtx, {
-          type: 'line',
-          data: {
-            labels: growthData.map((d) => d.date),
-            datasets: [
-              {
-                label: articlesAddedLabel,
-                data: growthData.map((d) => d.count),
-                borderColor: '#3b82f6',
-                backgroundColor: 'rgba(59, 130, 246, 0.1)',
-                borderWidth: 3,
-                fill: true,
-                tension: 0.4,
-                pointBackgroundColor: '#3b82f6',
-                pointBorderColor: '#1e293b',
-                pointBorderWidth: 2,
-                pointRadius: 5,
-                pointHoverRadius: 7,
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-              x: {
-                ticks: {
-                  color: '#94a3b8',
-                  font: { size: 11 },
-                },
-                grid: {
-                  color: 'rgba(148, 163, 184, 0.1)',
-                },
-              },
-              y: {
-                beginAtZero: true,
-                ticks: {
-                  color: '#94a3b8',
-                  font: { size: 11 },
-                },
-                grid: {
-                  color: 'rgba(148, 163, 184, 0.1)',
-                },
-              },
-            },
-            plugins: {
-              legend: {
-                display: false,
-              },
-              tooltip: {
-                backgroundColor: 'rgba(0, 0, 0, 0.8)',
-                titleColor: '#e2e8f0',
-                bodyColor: '#e2e8f0',
-                borderColor: 'rgba(255, 255, 255, 0.1)',
-                borderWidth: 1,
-              },
-            },
-            elements: {
-              point: {
-                hoverBackgroundColor: '#60a5fa',
-              },
-            },
-          },
-        });
-      }
-    }
-  </script>
-
-  <style>
-    /* Phase 7.6: hero, main wrapper, comparison-cards grid,
-       bubble-controls, size-toggle, sector-filters all migrated
-       to inline Tailwind utilities on the markup above.
-       Kept scoped below: cross-section primitives (section-divider,
-       story-intro, section-title, story-text) used 5-6 times
-       each, and all d3/chart/card repeating patterns. */
-
-    /* Section Divider (used × 6 across sections) */
-    .section-divider {
-      padding: 2rem 0;
-      display: flex;
-      justify-content: center;
-    }
-
-    .divider-line {
-      width: 100px;
-      height: 3px;
-      background: linear-gradient(90deg, transparent, #60a5fa, transparent);
-      border-radius: 2px;
-    }
-
-    /* Story Block */
-    .story-intro {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem 2rem;
-    }
-
-    .section-title {
-      font-size: 2rem;
-      font-weight: 800;
-      color: #f8fafc;
-      margin-bottom: 1rem;
-      text-align: center;
-    }
-
-    .story-text {
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 16px;
-      padding: 2rem;
-    }
-
-    .story-text p {
-      color: #cbd5e1;
-      line-height: 1.8;
-      margin-bottom: 1rem;
-      font-size: 1rem;
-    }
-
-    .story-text p:first-child {
-      font-size: 1.1rem;
-      color: #93c5fd;
-      font-weight: 600;
-    }
-
-    .story-text p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Enterprise Section */
-    .companies-section {
-      padding: 2rem 0 4rem;
-    }
-
-    /* Budget Teaser Section — reuses .story-intro / .insights / .insight-card
-       from the Enterprise section above; only the section padding is new. */
-    .budget-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .toggle-btn {
-      padding: 0.4rem 1rem;
-      border: 2px solid rgba(255, 255, 255, 0.2);
-      border-radius: 20px;
-      background: rgba(255, 255, 255, 0.05);
-      color: #cbd5e1;
-      cursor: pointer;
-      font-size: 0.85rem;
-      transition: all 0.2s;
-    }
-
-    .toggle-btn.active {
-      background: #3b82f6;
-      color: #fff;
-      border-color: #3b82f6;
-    }
-
-    .sector-btn {
-      padding: 0.3rem 0.8rem;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      border-radius: 15px;
-      background: rgba(255, 255, 255, 0.05);
-      color: #cbd5e1;
-      cursor: pointer;
-      font-size: 0.8rem;
-      display: flex;
-      align-items: center;
-      gap: 0.3rem;
-      transition: all 0.2s;
-    }
-
-    .sector-btn.active {
-      background: rgba(255, 255, 255, 0.1);
-      border-color: rgba(255, 255, 255, 0.4);
-      font-weight: 600;
-    }
-
-    .sector-dot {
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      display: inline-block;
-    }
-
-    #bubble-chart {
-      position: relative;
-      width: 100%;
-      max-width: 1400px;
-      margin: 0 auto;
-      min-height: 500px;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 16px;
-      overflow: hidden;
-      background: #1a1a2e;
-    }
-
-    :global(.tooltip) {
-      position: absolute;
-      background: rgba(0, 0, 0, 0.9);
-      color: #fff;
-      padding: 12px 16px;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      line-height: 1.5;
-      pointer-events: none;
-      z-index: 100;
-      max-width: 280px;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
-
-    .insights {
-      max-width: 1400px;
-      margin: 2rem auto 0;
-      padding: 0 2rem;
-    }
-
-    .insight-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .insight-card {
-      background: rgba(255, 255, 255, 0.04);
-      border-radius: 12px;
-      padding: 1.5rem;
-      text-align: center;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-    }
-
-    .insight-number {
-      font-size: 1.8rem;
-      font-weight: 800;
-      color: #60a5fa;
-      margin-bottom: 0.3rem;
-    }
-
-    .insight-label {
-      font-weight: 600;
-      color: #e2e8f0;
-      font-size: 0.9rem;
-      margin-bottom: 0.3rem;
-    }
-
-    .insight-detail {
-      font-size: 0.8rem;
-      color: #94a3b8;
-    }
-
-    .explore-more {
-      text-align: center;
-    }
-
-    .explore-link {
-      display: inline-block;
-      color: #60a5fa;
-      text-decoration: none;
-      font-weight: 600;
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      transition: all 0.2s;
-    }
-
-    .explore-link:hover {
-      background: rgba(96, 165, 250, 0.1);
-      color: #93c5fd;
-    }
-
-    /* Taiwan Shape Section */
-    .taiwan-shape-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .shape-cta-card {
-      margin: 3rem auto 0;
-      max-width: 820px;
-      padding: 0 2rem;
-    }
-    .shape-cta-content {
-      background: linear-gradient(
-        135deg,
-        rgba(199, 62, 58, 0.12),
-        rgba(74, 144, 226, 0.08)
+      };
+      measure();
+      window.addEventListener('resize', measure, { passive: true });
+      setTimeout(measure, 800);
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
       );
-      border: 1.5px solid rgba(199, 62, 58, 0.35);
-      border-radius: 16px;
-      padding: 2rem 2.2rem;
-      text-align: center;
-    }
-    .shape-cta-content h3 {
-      font-size: 1.4rem;
-      margin: 0 0 0.8rem;
-      color: #fff;
-      font-weight: 700;
-    }
-    .shape-cta-content p {
-      color: rgba(255, 255, 255, 0.85);
-      line-height: 1.7;
-      margin: 0 0 1.5rem;
-      font-size: 0.98rem;
-    }
-    .shape-cta-content .btn {
-      display: inline-flex;
-      padding: 0.7rem 1.6rem;
-      background: #c73e3a;
-      color: #fff;
-      border-radius: 10px;
-      border: 1.5px solid #c73e3a;
-      font-weight: 600;
-      text-decoration: none;
-      transition: all 0.2s;
-    }
-    .shape-cta-content .btn:hover {
-      background: #a8332f;
-      border-color: #a8332f;
-      transform: translateY(-1px);
-    }
-
-    .svg-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 1.5rem;
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    .svg-card {
-      background: rgba(255, 255, 255, 0.05);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 16px;
-      overflow: hidden;
-      transition: all 0.3s;
-    }
-
-    .svg-card:hover {
-      border-color: rgba(255, 255, 255, 0.2);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-    }
-
-    .svg-preview {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 2rem;
-      background: rgba(255, 255, 255, 0.95);
-      height: 140px;
-    }
-
-    .svg-preview img {
-      max-height: 100px;
-      max-width: 80px;
-      filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.1));
-    }
-
-    .svg-info {
-      padding: 1.5rem;
-    }
-
-    .svg-info h3 {
-      font-family: 'Courier New', monospace;
-      font-size: 0.9rem;
-      color: #e2e8f0;
-      margin-bottom: 0.5rem;
-    }
-
-    .svg-desc {
-      color: #cbd5e1;
-      margin-bottom: 0.25rem;
-      font-size: 0.9rem;
-    }
-
-    .svg-meta {
-      color: #94a3b8;
-      font-size: 0.8rem;
-      margin-bottom: 1rem;
-    }
-
-    .svg-actions {
-      display: flex;
-      gap: 0.5rem;
-      flex-wrap: wrap;
-    }
-
-    .btn {
-      display: inline-block;
-      padding: 0.4rem 1rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      text-decoration: none;
-      cursor: pointer;
-      border: none;
-      font-family: inherit;
-      transition: all 0.2s;
-      font-weight: 600;
-    }
-
-    .btn-primary {
-      background: #3b82f6;
-      color: #fff;
-    }
-
-    .btn-primary:hover {
-      background: #2563eb;
-    }
-
-    .btn-outline {
-      background: transparent;
-      color: #60a5fa;
-      border: 1px solid #60a5fa;
-    }
-
-    .btn-outline:hover {
-      background: rgba(96, 165, 250, 0.1);
-    }
-
-    .usage-example {
-      max-width: 1400px;
-      margin: 3rem auto 0;
-      padding: 0 2rem;
-    }
-
-    .usage-example h3 {
-      color: #f8fafc;
-      margin-bottom: 1rem;
-      font-size: 1.2rem;
-    }
-
-    .code-block {
-      background: #1e293b;
-      border-radius: 12px;
-      padding: 1.5rem;
-      overflow-x: auto;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
-
-    .code-block code {
-      color: #e2e8f0;
-      font-size: 0.85rem;
-      line-height: 1.6;
-      white-space: pre;
-    }
-
-    .license-note {
-      margin-top: 1rem;
-      color: #94a3b8;
-      font-size: 0.9rem;
-    }
-
-    .license-note a {
-      color: #60a5fa;
-      text-decoration: none;
-    }
-
-    .license-note a:hover {
-      text-decoration: underline;
-    }
-
-    /* Population Pyramid Section */
-    .population-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .pyramid-container {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    #population-pyramid {
-      width: 100%;
-      min-height: 600px;
-      background: rgba(255, 255, 255, 0.02);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 16px;
-      overflow: hidden;
-    }
-
-    #population-pyramid :global(svg) {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-
-    .year-slider-container {
-      margin: 2rem auto 0;
-      max-width: 400px;
-      text-align: center;
-    }
-
-    .slider-track {
-      position: relative;
-      width: 100%;
-      height: 8px;
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 4px;
-      margin-bottom: 1rem;
-      cursor: pointer;
-    }
-
-    .slider-track::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899, #f59e0b);
-      border-radius: 4px;
-      opacity: 0.6;
-    }
-
-    .slider-thumb {
-      position: absolute;
-      width: 24px;
-      height: 24px;
-      background: #60a5fa;
-      border: 3px solid #0f172a;
-      border-radius: 50%;
-      top: -8px;
-      cursor: grab;
-      transition: all 0.2s ease;
-      box-shadow: 0 2px 12px rgba(96, 165, 250, 0.4);
-    }
-
-    .slider-thumb:hover {
-      transform: scale(1.1);
-      box-shadow: 0 4px 20px rgba(96, 165, 250, 0.6);
-    }
-
-    .slider-thumb:active {
-      cursor: grabbing;
-      transform: scale(1.05);
-    }
-
-    .year-labels {
-      display: flex;
-      justify-content: space-between;
-      color: #94a3b8;
-      font-size: 0.9rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .current-year {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #60a5fa;
-      margin-top: 0.5rem;
-    }
-
-    .population-section .insights {
-      max-width: 1000px;
-      margin: 3rem auto 0;
-      padding: 0 2rem;
-    }
-
-    .population-section .insight-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .population-section .insight-card {
-      background: rgba(255, 255, 255, 0.04);
-      border-radius: 12px;
-      padding: 1.5rem;
-      text-align: center;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      transition: all 0.3s ease;
-    }
-
-    .population-section .insight-card:hover {
-      background: rgba(255, 255, 255, 0.08);
-      border-color: rgba(255, 255, 255, 0.15);
-      transform: translateY(-2px);
-    }
-
-    .population-section .insight-number {
-      font-size: 1.6rem;
-      font-weight: 800;
-      color: #60a5fa;
-      margin-bottom: 0.3rem;
-      line-height: 1.2;
-    }
-
-    .population-section .insight-label {
-      font-weight: 600;
-      color: #e2e8f0;
-      font-size: 0.95rem;
-      margin-bottom: 0.3rem;
-    }
-
-    .population-section .insight-detail {
-      font-size: 0.8rem;
-      color: #94a3b8;
-      line-height: 1.4;
-    }
-
-    /* Taiwan vs World Section */
-    .taiwan-vs-world-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .comparison-card {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 16px;
-      padding: 2rem;
-      text-align: center;
-      transition: all 0.3s ease;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .comparison-card:hover {
-      transform: translateY(-4px);
-      border-color: rgba(255, 255, 255, 0.15);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-    }
-
-    .comparison-card::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      height: 3px;
-      background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
-      opacity: 0;
-      transition: opacity 0.3s ease;
-    }
-
-    .comparison-card:hover::before {
-      opacity: 1;
-    }
-
-    .card-emoji {
-      font-size: 2.5rem;
-      margin-bottom: 1rem;
-      display: block;
-    }
-
-    .card-number {
-      font-size: 2.2rem;
-      font-weight: 900;
-      color: #60a5fa;
-      margin-bottom: 0.5rem;
-      line-height: 1;
-    }
-
-    .card-label {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: #e2e8f0;
-      margin-bottom: 0.75rem;
-      line-height: 1.3;
-    }
-
-    .card-context {
-      font-size: 0.9rem;
-      color: #cbd5e1;
-      line-height: 1.5;
-    }
-
-    /* Digital Democracy Timeline Section */
-    .digital-democracy-section {
-      padding: 2rem 0 6rem;
-    }
-
-    .timeline-container {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem 4rem;
-    }
-
-    /* Horizontal Timeline for Desktop */
-    .timeline-horizontal {
-      position: relative;
-      padding: 8rem 0 8rem;
-      overflow: visible;
-    }
-
-    .timeline-horizontal::before {
-      content: '';
-      position: absolute;
-      top: 50%;
-      left: 5%;
-      right: 5%;
-      height: 3px;
-      background: linear-gradient(to right, #3b82f6, #8b5cf6, #ec4899);
-      transform: translateY(-50%);
-      z-index: 1;
-    }
-
-    .timeline-horizontal .timeline-item {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      cursor: pointer;
-    }
-
-    .timeline-horizontal .timeline-item[data-year='1997'] {
-      left: 5%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2003'] {
-      left: 14%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2012'] {
-      left: 23%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2013'] {
-      left: 32%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2014'] {
-      left: 41%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2015'] {
-      left: 50%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2016'] {
-      left: 59%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2020'] {
-      left: 68%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2022'] {
-      left: 77%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2023'] {
-      left: 86%;
-    }
-    .timeline-horizontal .timeline-item[data-year='2024'] {
-      left: 95%;
-    }
-
-    .timeline-dot {
-      width: 12px;
-      height: 12px;
-      background: #3b82f6;
-      border: 3px solid #0f172a;
-      border-radius: 50%;
-      position: relative;
-      transform: translateX(-50%);
-      transition: all 0.3s ease;
-      z-index: 2;
-    }
-
-    .timeline-item:hover .timeline-dot {
-      background: #60a5fa;
-      transform: translateX(-50%) scale(1.3);
-      box-shadow: 0 0 15px rgba(96, 165, 250, 0.6);
-    }
-
-    .timeline-content {
-      position: absolute;
-      bottom: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      margin-bottom: 15px;
-      background: rgba(30, 41, 59, 0.9);
-      backdrop-filter: blur(8px);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 8px;
-      padding: 0.5rem 0.75rem;
-      min-width: 160px;
-      max-width: 220px;
-      text-align: center;
-      opacity: 1;
-      pointer-events: auto;
-      transition: all 0.3s ease;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-      z-index: 10;
-    }
-
-    .timeline-item:hover .timeline-content {
-      transform: translateX(-50%) translateY(-5px);
-      background: rgba(30, 41, 59, 0.95);
-      box-shadow: 0 8px 25px rgba(96, 165, 250, 0.2);
-    }
-
-    .timeline-year {
-      font-size: 0.85rem;
-      font-weight: 700;
-      color: #3b82f6;
-      margin-bottom: 0.25rem;
-    }
-
-    .timeline-title {
-      font-size: 0.75rem;
-      font-weight: 600;
-      color: #e2e8f0;
-      margin-bottom: 0.25rem;
-      line-height: 1.3;
-    }
-
-    .timeline-desc {
-      font-size: 0.65rem;
-      color: #94a3b8;
-      line-height: 1.4;
-    }
-
-    /* Alternate above/below layout */
-    .timeline-horizontal .timeline-item:nth-child(odd) .timeline-content {
-      bottom: 100%;
-      top: auto;
-      margin-bottom: 15px;
-    }
-
-    .timeline-horizontal .timeline-item:nth-child(even) .timeline-content {
-      top: 100%;
-      bottom: auto;
-      margin-top: 15px;
-      margin-bottom: 0;
-    }
-
-    /* Open Data 3-Column Grid */
-    .data-categories-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    .data-categories-grid .data-category-card:nth-child(4),
-    .data-categories-grid .data-category-card:nth-child(5) {
-      grid-column: span 1;
-      margin: 0 auto;
-      max-width: 400px;
-    }
-
-    /* Open Data Section (now part of digital democracy) */
-    .digital-democracy-section .data-categories {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem;
-      display: flex;
-      flex-direction: column;
-      gap: 1.5rem;
-    }
-
-    .data-categories {
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem;
-      display: flex;
-      flex-direction: column;
-      gap: 1.5rem;
-    }
-
-    .data-category-card {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 16px;
-      padding: 2rem;
-      transition: border-color 0.2s ease;
-    }
-
-    .data-category-card:hover {
-      border-color: rgba(255, 255, 255, 0.15);
-    }
-
-    .category-header {
-      display: flex;
-      align-items: flex-start;
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .category-icon {
-      font-size: 2rem;
-      line-height: 1;
-      flex-shrink: 0;
-    }
-
-    .category-title {
-      font-size: 1.3rem;
-      font-weight: 700;
-      color: #f1f5f9;
-      margin-bottom: 0.25rem;
-    }
-
-    .category-desc {
-      font-size: 0.9rem;
-      color: #94a3b8;
-      line-height: 1.5;
-    }
-
-    .item-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 0.75rem;
-    }
-
-    .item {
-      padding: 0.6rem 0;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-      line-height: 1.6;
-    }
-
-    .item:last-child {
-      border-bottom: none;
-      padding-bottom: 0;
-    }
-
-    .item-link {
-      color: #7dd3fc !important;
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 0.95rem;
-      border-bottom: 1px solid transparent;
-      transition: all 0.2s ease;
-    }
-
-    .item-link:hover {
-      color: #bae6fd !important;
-      border-bottom-color: #bae6fd;
-    }
-
-    .item-desc {
-      color: #cbd5e1;
-      font-size: 0.85rem;
-    }
-
-    /* Knowledge Graph Section */
-    .knowledge-graph-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .graph-cta {
-      text-align: center;
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    .graph-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 1.5rem;
-      padding: 1.5rem 2rem;
-      background: rgba(255, 255, 255, 0.06);
-      color: #e2e8f0;
-      text-decoration: none;
-      border-radius: 16px;
-      font-weight: 600;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      transition: all 0.3s ease;
-      min-width: 320px;
-    }
-
-    .graph-btn:hover {
-      background: rgba(255, 255, 255, 0.1);
-      border-color: rgba(255, 255, 255, 0.2);
-      transform: translateY(-2px);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-    }
-
-    .graph-icon {
-      font-size: 2rem;
-      flex-shrink: 0;
-    }
-
-    .graph-text {
-      flex: 1;
-      text-align: left;
-    }
-
-    .graph-title {
-      display: block;
-      font-size: 1.1rem;
-      color: #f1f5f9;
-      margin-bottom: 0.2rem;
-    }
-
-    .graph-desc {
-      display: block;
-      font-size: 0.85rem;
-      color: #94a3b8;
-      font-weight: normal;
-    }
-
-    .graph-arrow {
-      font-size: 1.5rem;
-      color: #60a5fa;
-      flex-shrink: 0;
-    }
-
-    /* Content Analytics Section */
-    .content-analytics-section {
-      padding: 2rem 0 4rem;
-    }
-
-    .charts-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-      gap: 2rem;
-      max-width: 1200px;
-      margin: 0 auto 3rem;
-      padding: 0 2rem;
-    }
-
-    .chart-card {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 16px;
-      padding: 2rem;
-      transition: all 0.3s ease;
-    }
-
-    .chart-card:hover {
-      border-color: rgba(255, 255, 255, 0.15);
-      transform: translateY(-2px);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-    }
-
-    .chart-card h3 {
-      color: #f8fafc;
-      font-size: 1.3rem;
-      margin-bottom: 0.5rem;
-      font-weight: 700;
-    }
-
-    .chart-desc {
-      color: #94a3b8;
-      font-size: 0.9rem;
-      margin-bottom: 1.5rem;
-      line-height: 1.5;
-    }
-
-    .chart-wrapper {
-      position: relative;
-      height: 300px;
-      width: 100%;
-    }
-
-    .stats-summary {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1.5rem;
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    .stat-item {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 12px;
-      padding: 2rem;
-      text-align: center;
-      transition: all 0.3s ease;
-    }
-
-    .stat-item:hover {
-      border-color: rgba(255, 255, 255, 0.15);
-      background: rgba(255, 255, 255, 0.08);
-    }
-
-    .stat-number {
-      font-size: 2.5rem;
-      font-weight: 900;
-      background: linear-gradient(135deg, #3b82f6, #8b5cf6);
-      background-clip: text;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      margin-bottom: 0.5rem;
-      line-height: 1;
-    }
-
-    .stat-label {
-      color: #cbd5e1;
-      font-size: 1rem;
-      font-weight: 600;
-    }
-
-    /* Footer */
-    .data-footer {
-      padding: 2rem 0 4rem;
-    }
-
-    .footer-title {
-      text-align: center;
-      color: #f8fafc;
-      margin-bottom: 2rem;
-      font-size: 1.5rem;
-    }
-
-    .footer-links {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1rem;
-      max-width: 1400px;
-      margin: 0 auto;
-      padding: 0 2rem;
-    }
-
-    .footer-link {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      padding: 1rem 1.5rem;
-      background: rgba(255, 255, 255, 0.04);
-      color: #cbd5e1;
-      text-decoration: none;
-      border-radius: 12px;
-      transition: all 0.2s;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-    }
-
-    .footer-link:hover {
-      background: rgba(255, 255, 255, 0.08);
-      border-color: rgba(255, 255, 255, 0.2);
-      color: #e2e8f0;
-    }
-
-    .footer-icon {
-      font-size: 1.5rem;
-      flex-shrink: 0;
-    }
-
-    .footer-text {
-      flex: 1;
-    }
-
-    .footer-name {
-      display: block;
-      font-weight: 600;
-      margin-bottom: 0.2rem;
-    }
-
-    .footer-desc {
-      display: block;
-      font-size: 0.85rem;
-      color: #94a3b8;
-    }
-
-    /* Responsive */
-    @media (max-width: 768px) {
-      .hero {
-        padding: 2.5rem 1rem 2rem;
-      }
-
-      .story-intro {
-        padding: 0 1rem 1.5rem;
-      }
-
-      .story-text {
-        padding: 1.5rem;
-      }
-
-      .section-title {
-        font-size: 1.6rem;
-      }
-
-      .svg-grid {
-        grid-template-columns: 1fr;
-        padding: 0 1rem;
-      }
-
-      .data-categories {
-        padding: 0 1rem;
-      }
-
-      .data-category-card {
-        padding: 1.5rem;
-      }
-
-      .category-header {
-        gap: 0.75rem;
-      }
-
-      .category-icon {
-        font-size: 1.5rem;
-      }
-
-      .category-title {
-        font-size: 1.2rem;
-      }
-
-      .insight-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 0.75rem;
-      }
-
-      .graph-btn {
-        flex-direction: column;
-        text-align: center;
-        gap: 1rem;
-        min-width: auto;
-      }
-
-      .graph-text {
-        text-align: center;
-      }
-
-      .footer-links {
-        grid-template-columns: 1fr;
-        padding: 0 1rem;
-      }
-
-      /* Taiwan vs World responsive */
-      .comparison-card {
-        padding: 1.5rem;
-      }
-
-      .card-emoji {
-        font-size: 2rem;
-      }
-
-      .card-number {
-        font-size: 1.8rem;
-      }
-
-      /* Timeline responsive - Mobile: Vertical layout */
-      .timeline-container {
-        padding: 0 1rem 2rem;
-      }
-
-      .timeline-horizontal {
-        padding: 1rem 0;
-        max-height: none;
-        overflow: visible;
-      }
-
-      .timeline-horizontal::before {
-        top: 0;
-        bottom: 0;
-        left: 2rem;
-        right: auto;
-        width: 3px;
-        height: auto;
-        background: linear-gradient(to bottom, #3b82f6, #8b5cf6, #ec4899);
-        transform: none;
-      }
-
-      .timeline-horizontal .timeline-item {
-        position: relative;
-        top: auto;
-        left: auto !important;
-        transform: none;
-        margin-bottom: 2rem;
-        display: block;
-      }
-
-      .timeline-horizontal .timeline-item .timeline-dot {
-        position: absolute;
-        left: 2rem;
-        top: 1rem;
-        transform: translateX(-50%);
-      }
-
-      .timeline-horizontal .timeline-item .timeline-content {
-        position: static;
-        opacity: 1;
-        pointer-events: auto;
-        transform: none;
-        margin-left: 4rem;
-        margin-bottom: 0;
-        background: rgba(255, 255, 255, 0.04);
-        backdrop-filter: none;
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        text-align: left;
-        min-width: auto;
-        max-width: none;
-        padding: 1.25rem;
-      }
-
-      .timeline-horizontal .timeline-item:hover .timeline-content {
-        transform: none;
-      }
-
-      .timeline-horizontal .timeline-item .timeline-year {
-        font-size: 1rem;
-        color: #60a5fa;
-      }
-
-      .timeline-horizontal .timeline-item .timeline-title {
-        font-size: 0.9rem;
-        color: #f1f5f9;
-      }
-
-      .timeline-horizontal .timeline-item .timeline-desc {
-        font-size: 0.8rem;
-        color: #cbd5e1;
-      }
-
-      /* Content Analytics responsive */
-      .charts-grid {
-        grid-template-columns: 1fr;
-        padding: 0 1rem;
-        gap: 1.5rem;
-      }
-
-      .chart-card {
-        padding: 1.5rem;
-      }
-
-      .chart-wrapper {
-        height: 250px;
-      }
-
-      .stats-summary {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 1rem;
-        padding: 0 1rem;
-      }
-
-      .stat-item {
-        padding: 1.5rem;
-      }
-
-      .stat-number {
-        font-size: 2rem;
-      }
-
-      /* Open Data Grid - Mobile: Single column */
-      .data-categories-grid {
-        grid-template-columns: 1fr;
-        padding: 0 1rem;
-      }
-
-      .data-categories-grid .data-category-card:nth-child(4),
-      .data-categories-grid .data-category-card:nth-child(5) {
-        grid-column: auto;
-        margin: 0;
-        max-width: none;
-      }
-
-      /* Population Pyramid responsive */
-      .pyramid-container {
-        padding: 0 1rem;
-      }
-
-      #population-pyramid {
-        min-height: 500px;
-      }
-
-      .year-slider-container {
-        max-width: 300px;
-      }
-
-      .year-labels {
-        font-size: 0.8rem;
-      }
-
-      .current-year {
-        font-size: 1.3rem;
-      }
-
-      .population-section .insights {
-        padding: 0 1rem;
-      }
-
-      .population-section .insight-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 0.75rem;
-      }
-
-      .population-section .insight-card {
-        padding: 1.25rem;
-      }
-
-      .population-section .insight-number {
-        font-size: 1.4rem;
+      const sections = links
+        .map((a) => document.getElementById(a.dataset.target!))
+        .filter((s): s is HTMLElement => !!s);
+      const setActive = (id: string) => {
+        links.forEach((a) =>
+          a.classList.toggle('is-active', a.dataset.target === id),
+        );
+        const a = links.find((l) => l.dataset.target === id);
+        if (a && subnav.scrollWidth > subnav.clientWidth)
+          a.scrollIntoView({
+            block: 'nearest',
+            inline: 'center',
+            behavior: 'smooth',
+          });
+      };
+      if ('IntersectionObserver' in window) {
+        // 只看視窗中線：區塊很長時 intersectionRatio 一直很小，用比例挑會卡在第一區
+        const io = new IntersectionObserver(
+          (entries) => {
+            entries.forEach((e) => {
+              if (e.isIntersecting) setActive((e.target as HTMLElement).id);
+            });
+          },
+          { rootMargin: '-45% 0px -54% 0px', threshold: 0 },
+        );
+        sections.forEach((s) => io.observe(s));
       }
     }
 
-    @media (max-width: 480px) {
-      .hero {
-        padding: 2rem 1rem;
-      }
-
-      .svg-card {
-        margin: 0 -0.5rem;
-      }
-
-      .svg-preview {
-        height: 120px;
-      }
-
-      .insight-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .btn {
-        font-size: 0.8rem;
-        padding: 0.4rem 0.8rem;
-      }
-
-      #bubble-chart {
-        min-height: 400px;
-      }
-
-      /* Population pyramid mobile */
-      .pyramid-container {
-        padding: 0 0.5rem;
-      }
-
-      #population-pyramid {
-        min-height: 400px;
-      }
-
-      .year-slider-container {
-        max-width: 250px;
-      }
-
-      .population-section .insight-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .population-section .insight-card {
-        padding: 1rem;
-      }
+    const filter = document.getElementById('dh-filter');
+    if (filter) {
+      filter.hidden = false;
+      const buttons = Array.from(
+        filter.querySelectorAll<HTMLButtonElement>('button[data-filter]'),
+      );
+      const groups = Array.from(
+        document.querySelectorAll<HTMLElement>('.dh-group[data-group]'),
+      );
+      buttons.forEach((btn) =>
+        btn.addEventListener('click', () => {
+          const key = btn.dataset.filter!;
+          buttons.forEach((b) =>
+            b.setAttribute('aria-pressed', String(b === btn)),
+          );
+          groups.forEach(
+            (g) => (g.hidden = key !== 'all' && g.dataset.group !== key),
+          );
+        }),
+      );
+      // 從別處點進某張卡（#ind-xxx）時，確保它所在的分組是開的
+      const reveal = () => {
+        const id = location.hash.slice(1);
+        if (!id.startsWith('ind-')) return;
+        const card = document.getElementById(id);
+        const g = card?.closest<HTMLElement>('.dh-group');
+        if (g?.hidden) {
+          groups.forEach((x) => (x.hidden = false));
+          buttons.forEach((b) =>
+            b.setAttribute('aria-pressed', String(b.dataset.filter === 'all')),
+          );
+          card?.scrollIntoView();
+        }
+      };
+      window.addEventListener('hashchange', reveal);
     }
-
-    /* Taiwan AI vs Real Comparison */
-    .taiwan-comparison {
-      margin: 3rem auto 4rem;
-      max-width: 800px;
-      padding: 0 2rem;
-    }
-
-    .comparison-title {
-      text-align: center;
-      color: #f8fafc;
-      margin-bottom: 2rem;
-      font-size: 1.3rem;
-    }
-
-    .comparison-grid {
-      display: flex;
-      align-items: flex-start;
-      justify-content: center;
-      gap: 2rem;
-      flex-wrap: wrap;
-    }
-
-    .comparison-item {
-      flex: 1;
-      min-width: 200px;
-      text-align: center;
-    }
-
-    .svg-container {
-      width: 150px;
-      height: 150px;
-      margin: 0 auto 1rem;
-      padding: 1rem;
-      border-radius: 16px;
-      transition: all 0.3s ease;
-    }
-
-    .comparison-item.wrong .svg-container {
-      background: rgba(255, 107, 107, 0.1);
-      border: 2px solid rgba(255, 107, 107, 0.3);
-    }
-
-    .comparison-item.correct .svg-container {
-      background: rgba(16, 185, 129, 0.1);
-      border: 2px solid rgba(16, 185, 129, 0.3);
-    }
-
-    .comparison-item:hover .svg-container {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-    }
-
-    .svg-container img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-    }
-
-    .comparison-label {
-      font-size: 1rem;
-      font-weight: 600;
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      display: inline-block;
-    }
-
-    .comparison-label.wrong {
-      color: #fca5a5;
-      background: rgba(255, 107, 107, 0.1);
-    }
-
-    .comparison-label.correct {
-      color: #86efac;
-      background: rgba(16, 185, 129, 0.1);
-    }
-
-    .comparison-vs {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #64748b;
-      margin: 0 1rem;
-      align-self: center;
-    }
-
-    @media (max-width: 640px) {
-      .comparison-grid {
-        flex-direction: column;
-        gap: 1rem;
-      }
-
-      .comparison-vs {
-        margin: 0;
-        transform: rotate(90deg);
-      }
-
-      .svg-container {
-        width: 120px;
-        height: 120px;
-      }
-    }
-  </style>
+  </script>
 </Layout>

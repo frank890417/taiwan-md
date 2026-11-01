@@ -1,0 +1,398 @@
+{
+  "checked_at": "2026-10-23T20:42:03+08:00",
+  "external_total": 23,
+  "external_bad": [],
+  "internal_total": 26,
+  "internal_bad": [],
+  "external": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js",
+      "status": 200,
+      "final_url": "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js",
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/",
+      "status": 200,
+      "final_url": "https://data.gov.tw/",
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/10858",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/10858",
+      "api": {
+        "live": true,
+        "title": "台灣電力公司核能發電廠位置及機組設備",
+        "status": "已上架",
+        "agency": "台灣電力股份有限公司",
+        "changed": "2026-06-01 11:16:23.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/10859",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/10859",
+      "api": {
+        "live": true,
+        "title": "台灣電力公司近10年核能發電績效及減碳效益",
+        "status": "已上架",
+        "agency": "台灣電力股份有限公司",
+        "changed": "2026-06-23 08:33:49.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/10918",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/10918",
+      "api": {
+        "live": true,
+        "title": "攤販經營概況調查",
+        "status": "已上架",
+        "agency": "行政院主計總處",
+        "changed": "2026-06-24 17:53:56.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/121267",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/121267",
+      "api": {
+        "live": true,
+        "title": "臺北市國民住宅配售(租)情形",
+        "status": "已上架",
+        "agency": "臺北市政府都市發展局",
+        "changed": "2026-10-13 20:01:57.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/132348",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/132348",
+      "api": {
+        "live": true,
+        "title": "臺北市政府公報",
+        "status": "已上架",
+        "agency": "臺北市政府秘書處",
+        "changed": "2026-10-21 11:34:10.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/14208",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/14208",
+      "api": {
+        "live": true,
+        "title": "機動車輛登記數統計",
+        "status": "已上架",
+        "agency": "交通部公路局",
+        "changed": "2026-10-01 17:33:15.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/147936",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/147936",
+      "api": {
+        "live": true,
+        "title": "桃園市地方稅各項稅捐實徵淨額與預算數及上年同期比較每年統計",
+        "status": "已上架",
+        "agency": "桃園市政府地方稅務局",
+        "changed": "2026-10-09 10:16:43.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/15035",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/15035",
+      "api": {
+        "live": true,
+        "title": "地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數(統計)",
+        "status": "已上架",
+        "agency": "法務部統計處",
+        "changed": "2026-06-01 14:25:11.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/155779",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/155779",
+      "api": {
+        "live": true,
+        "title": "臺北市政府社會住宅包租代管媒合統計資料",
+        "status": "已上架",
+        "agency": "臺北市政府都市發展局",
+        "changed": "2026-10-13 20:59:39.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/177569",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/177569",
+      "api": {
+        "live": true,
+        "title": "115年4月花蓮縣各項稅捐實徵淨額與預算數及上年同期比較-本月數",
+        "status": "已上架",
+        "agency": "花蓮縣地方稅務局",
+        "changed": "2026-06-04 16:03:22.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/20254",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/20254",
+      "api": {
+        "live": true,
+        "title": "全民健康保險保險對象人數按類別性別年齡層統計",
+        "status": "已上架",
+        "agency": "衛生福利部中央健康保險署",
+        "changed": "2026-08-19 14:20:01.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/23719",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/23719",
+      "api": {
+        "live": true,
+        "title": "全民健康保險各級政府補助弱勢保險對象統計資料",
+        "status": "已上架",
+        "agency": "衛生福利部中央健康保險署",
+        "changed": "2026-10-21 09:35:02.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/25932",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/25932",
+      "api": {
+        "live": true,
+        "title": "桃園市A1及A2類道路交通事故每年統計-傷亡人數統計(91至114年)",
+        "status": "已上架",
+        "agency": "桃園市政府警察局",
+        "changed": "2026-10-22 10:05:56.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/27491",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/27491",
+      "api": {
+        "live": true,
+        "title": "選舉人數",
+        "status": "已上架",
+        "agency": "中央選舉委員會",
+        "changed": "2026-06-01 23:24:14.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/7264",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/7264",
+      "api": {
+        "live": true,
+        "title": "與政府機關有巨額採購，且在履約期間之廠商名單",
+        "status": "已上架",
+        "agency": "行政院公共工程委員會",
+        "changed": "2026-06-01 09:09:08.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/7554",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/7554",
+      "api": {
+        "live": true,
+        "title": "衛生福利部全民健康保險會委員會議議事錄",
+        "status": "已上架",
+        "agency": "衛生福利部全民健康保險會",
+        "changed": "2026-06-01 09:24:28.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://data.gov.tw/dataset/85028",
+      "status": 200,
+      "final_url": "https://data.gov.tw/dataset/85028",
+      "api": {
+        "live": true,
+        "title": "臺中市列管夜市",
+        "status": "已上架",
+        "agency": "臺中市政府經濟發展局",
+        "changed": "2026-06-15 10:13:09.000000"
+      },
+      "ok": true
+    },
+    {
+      "url": "https://gazette.nat.gov.tw/",
+      "status": 200,
+      "final_url": "https://gazette.nat.gov.tw/egFront/",
+      "ok": true
+    },
+    {
+      "url": "https://hub.twinkleai.tw/",
+      "status": 200,
+      "final_url": "https://hub.twinkleai.tw/",
+      "ok": true
+    },
+    {
+      "url": "https://lvr.land.moi.gov.tw/",
+      "status": 200,
+      "final_url": "https://lvr.land.moi.gov.tw/",
+      "ok": true
+    },
+    {
+      "url": "https://web.pcc.gov.tw/",
+      "status": 200,
+      "final_url": "https://web.pcc.gov.tw/pis/",
+      "ok": true
+    }
+  ],
+  "internal": [
+    {
+      "href": "/culture/台灣棒球文化",
+      "knowledge": "knowledge/Culture/台灣棒球文化.md",
+      "ok": true
+    },
+    {
+      "href": "/economy",
+      "knowledge": "knowledge/Economy",
+      "ok": true
+    },
+    {
+      "href": "/economy/台灣企業：中華電信",
+      "knowledge": "knowledge/Economy/台灣企業：中華電信.md",
+      "ok": true
+    },
+    {
+      "href": "/economy/夜市經濟學",
+      "knowledge": "knowledge/Economy/夜市經濟學.md",
+      "ok": true
+    },
+    {
+      "href": "/food/台灣咖啡產業",
+      "knowledge": "knowledge/Food/台灣咖啡產業.md",
+      "ok": true
+    },
+    {
+      "href": "/food/夜市文化",
+      "knowledge": "knowledge/Food/夜市文化.md",
+      "ok": true
+    },
+    {
+      "href": "/food/茶文化",
+      "knowledge": "knowledge/Food/茶文化.md",
+      "ok": true
+    },
+    {
+      "href": "/geography/台灣地圖怎麼讀",
+      "knowledge": "knowledge/Geography/台灣地圖怎麼讀.md",
+      "ok": true
+    },
+    {
+      "href": "/lifestyle/台灣交通系統",
+      "knowledge": "knowledge/Lifestyle/台灣交通系統.md",
+      "ok": true
+    },
+    {
+      "href": "/lifestyle/台灣教育制度",
+      "knowledge": "knowledge/Lifestyle/台灣教育制度.md",
+      "ok": true
+    },
+    {
+      "href": "/lifestyle/台灣機車文化",
+      "knowledge": "knowledge/Lifestyle/台灣機車文化.md",
+      "ok": true
+    },
+    {
+      "href": "/lifestyle/台灣醫療與全民健保",
+      "knowledge": "knowledge/Lifestyle/台灣醫療與全民健保.md",
+      "ok": true
+    },
+    {
+      "href": "/nature/台灣氣候危機與淨零轉型",
+      "knowledge": "knowledge/Nature/台灣氣候危機與淨零轉型.md",
+      "ok": true
+    },
+    {
+      "href": "/nature/台灣環境運動史",
+      "knowledge": "knowledge/Nature/台灣環境運動史.md",
+      "ok": true
+    },
+    {
+      "href": "/nature/颱風",
+      "knowledge": "knowledge/Nature/颱風.md",
+      "ok": true
+    },
+    {
+      "href": "/politics/2026 九合一選舉",
+      "knowledge": "knowledge/Politics/2026 九合一選舉.md",
+      "ok": true
+    },
+    {
+      "href": "/politics/中央政府總預算",
+      "knowledge": "knowledge/Politics/中央政府總預算.md",
+      "ok": true
+    },
+    {
+      "href": "/society/台灣偏鄉教育",
+      "knowledge": "knowledge/Society/台灣偏鄉教育.md",
+      "ok": true
+    },
+    {
+      "href": "/society/台灣司法改革與預防性羈押制度",
+      "knowledge": "knowledge/Society/台灣司法改革與預防性羈押制度.md",
+      "ok": true
+    },
+    {
+      "href": "/society/台灣少子化危機",
+      "knowledge": "knowledge/Society/台灣少子化危機.md",
+      "ok": true
+    },
+    {
+      "href": "/society/台灣與核能的討論",
+      "knowledge": "knowledge/Society/台灣與核能的討論.md",
+      "ok": true
+    },
+    {
+      "href": "/society/台灣邦交國與國際外交",
+      "knowledge": "knowledge/Society/台灣邦交國與國際外交.md",
+      "ok": true
+    },
+    {
+      "href": "/society/國宅與居住正義",
+      "knowledge": "knowledge/Society/國宅與居住正義.md",
+      "ok": true
+    },
+    {
+      "href": "/society/太陽花學運",
+      "knowledge": "knowledge/Society/太陽花學運.md",
+      "ok": true
+    },
+    {
+      "href": "/society/社會住宅與居住正義",
+      "knowledge": "knowledge/Society/社會住宅與居住正義.md",
+      "ok": true
+    },
+    {
+      "href": "/society/誰算低薪",
+      "knowledge": "knowledge/Society/誰算低薪.md",
+      "ok": true
+    }
+  ]
+}

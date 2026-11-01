@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-19T22:06:23Z",
-  "total": 1143,
-  "flagged": 722,
+  "timestamp": "2026-10-25T22:06:44Z",
+  "total": 1154,
+  "flagged": 727,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -547,7 +547,7 @@
     {
       "file": "technology/雷亞遊戲.md",
       "score": 4,
-      "reasons": "空洞詞16個; 未人工審核"
+      "reasons": "空洞詞17個; 未人工審核"
     },
     {
       "file": "technology/台灣資安產業發展.md",
@@ -1015,6 +1015,11 @@
       "reasons": "空洞詞5個; 未人工審核; 分號4個; 英式短句開場10處"
     },
     {
+      "file": "society/全社會防衛韌性.md",
+      "score": 4,
+      "reasons": "僅2個URL; 未人工審核; 塑膠句1個; 稀薄段落×1"
+    },
+    {
       "file": "society/LGBTQ.md",
       "score": 6,
       "reasons": "空洞詞17個; 未人工審核; 塑膠句2個; 稀薄段落×1"
@@ -1406,13 +1411,8 @@
     },
     {
       "file": "nature/台灣穿山甲.md",
-      "score": 4,
-      "reasons": "未人工審核; 分號7個; 稀薄段落×7"
-    },
-    {
-      "file": "nature/台灣白海豚.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句5個"
+      "score": 5,
+      "reasons": "未人工審核; 分號9個; 稀薄段落×7"
     },
     {
       "file": "nature/台灣環境運動史.md",
@@ -1506,13 +1506,13 @@
     },
     {
       "file": "politics/第一次總統直選.md",
-      "score": 5,
-      "reasons": "空洞詞8個; 未人工審核; 分號11個; 英式短句開場3處"
+      "score": 6,
+      "reasons": "空洞詞9個; 未人工審核; 分號11個; 英式短句開場3處"
     },
     {
       "file": "politics/議員制度.md",
       "score": 6,
-      "reasons": "空洞詞6個; 未人工審核; 連續bullet4行; 分號7個; 稀薄段落×2"
+      "reasons": "空洞詞6個; 未人工審核; 連續bullet4行; 分號8個; 稀薄段落×2"
     },
     {
       "file": "politics/中選會制度.md",
@@ -1615,11 +1615,6 @@
       "reasons": "空洞詞7個; 未人工審核; 破折號11個"
     },
     {
-      "file": "people/陳映真.md",
-      "score": 4,
-      "reasons": "未人工審核; 稀薄段落×2; 價值上升詞×3"
-    },
-    {
       "file": "people/蘇貞昌.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句1個; 稀薄段落×3"
@@ -1648,6 +1643,11 @@
       "file": "people/呱吉.md",
       "score": 5,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句4個; 英式短句開場4處"
+    },
+    {
+      "file": "people/豬哥亮.md",
+      "score": 4,
+      "reasons": "僅1個URL; 未人工審核; 稀薄段落×4"
     },
     {
       "file": "people/阿翰.md",
@@ -1722,7 +1722,7 @@
     {
       "file": "people/周杰倫.md",
       "score": 6,
-      "reasons": "未人工審核; 塑膠句2個; 破折號7個; 稀薄段落×5; 無腳註"
+      "reasons": "未人工審核; 塑膠句2個; 破折號6個; 稀薄段落×6; 無腳註"
     },
     {
       "file": "people/蔣經國.md",
@@ -1781,8 +1781,8 @@
     },
     {
       "file": "people/沈伯洋.md",
-      "score": 4,
-      "reasons": "破折號11個; 分號7個; 英式短句開場4處"
+      "score": 6,
+      "reasons": "空洞詞6個; 破折號11個; 分號9個; 英式短句開場4處"
     },
     {
       "file": "people/楊勇緯.md",
@@ -1890,6 +1890,11 @@
       "reasons": "未人工審核; 連續bullet4行; 塑膠句2個; 稀薄段落×1"
     },
     {
+      "file": "people/李國修.md",
+      "score": 5,
+      "reasons": "未人工審核; 教科書開場; 稀薄段落×2"
+    },
+    {
       "file": "people/徐巧芯.md",
       "score": 6,
       "reasons": "未人工審核; 破折號11個; 分號10個; 英式短句開場5處"
@@ -1923,6 +1928,11 @@
       "file": "people/林昶佐.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 英式短句開場9處; 後段清單堆砌48%"
+    },
+    {
+      "file": "people/林青霞.md",
+      "score": 4,
+      "reasons": "空洞詞5個; 未人工審核; 稀薄段落×3"
     },
     {
       "file": "people/朴旻曙.md",
@@ -2045,6 +2055,11 @@
       "reasons": "未人工審核; 塑膠句8個; 英式短句開場5處"
     },
     {
+      "file": "people/林俊傑.md",
+      "score": 9,
+      "reasons": "年份僅1個; 僅2個URL; 未人工審核; 後段清單堆砌33%; 稀薄段落×5"
+    },
+    {
       "file": "people/林心如.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句8個"
@@ -2071,8 +2086,8 @@
     },
     {
       "file": "people/江蕙.md",
-      "score": 5,
-      "reasons": "未人工審核; 塑膠句1個; 後段清單堆砌41%"
+      "score": 4,
+      "reasons": "僅1個URL; 未人工審核; 稀薄段落×2"
     },
     {
       "file": "people/簡立峰.md",
@@ -2141,8 +2156,8 @@
     },
     {
       "file": "people/蔡依林.md",
-      "score": 5,
-      "reasons": "未人工審核; 破折號6個; 稀薄段落×2; 無腳註"
+      "score": 9,
+      "reasons": "bullet密度30%; 僅1個URL; 未人工審核; 連續bullet14行; 後段清單堆砌41%; 稀薄段落×4"
     },
     {
       "file": "people/伍佰.md",
@@ -2188,11 +2203,6 @@
       "file": "people/諸葛四郎.md",
       "score": 5,
       "reasons": "空洞詞6個; 未人工審核; 塑膠句3個; 英式短句開場4處"
-    },
-    {
-      "file": "people/陳幸妤.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 分號6個; 稀薄段落×1"
     },
     {
       "file": "people/葉國一.md",
@@ -2258,6 +2268,11 @@
       "file": "people/戴資穎.md",
       "score": 7,
       "reasons": "空洞詞12個; 塑膠句2個; 英式短句開場3處; 套路結尾; 無腳註"
+    },
+    {
+      "file": "people/桂綸鎂.md",
+      "score": 6,
+      "reasons": "年份3個; 未人工審核; 教科書開場; 稀薄段落×6"
     },
     {
       "file": "people/呂捷.md",
@@ -2357,7 +2372,7 @@
     {
       "file": "people/林郁婷.md",
       "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 稀薄段落×22"
+      "reasons": "未人工審核; 分號5個; 稀薄段落×7"
     },
     {
       "file": "people/童子賢.md",
@@ -2371,8 +2386,8 @@
     },
     {
       "file": "people/蕭敬騰.md",
-      "score": 6,
-      "reasons": "年份僅0個; 空洞詞8個; 稀薄段落×5"
+      "score": 11,
+      "reasons": "bullet密度31%; 僅1個URL; 未人工審核; 連續bullet15行; 後段清單堆砌71%; 稀薄段落×3"
     },
     {
       "file": "people/李仙得.md",
@@ -2735,6 +2750,11 @@
       "reasons": "未人工審核; 後段清單堆砌41%"
     },
     {
+      "file": "history/西班牙北台灣十六年.md",
+      "score": 4,
+      "reasons": "僅1個URL; 未人工審核; 塑膠句1個; 英式短句開場4處"
+    },
+    {
       "file": "history/國家鐵道博物館.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句5個; 英式短句開場3處"
@@ -3092,7 +3112,7 @@
     {
       "file": "geography/用數據看台灣22縣市.md",
       "score": 5,
-      "reasons": "未人工審核; 分號12個; 英式短句開場6處"
+      "reasons": "未人工審核; 分號11個; 英式短句開場6處"
     },
     {
       "file": "geography/台灣五大地形與地理結構.md",
@@ -3578,6 +3598,11 @@
       "file": "culture/誠品書店.md",
       "score": 9,
       "reasons": "空洞詞9個; 未人工審核; 塑膠句8個; 稀薄段落×7; 價值上升詞×3"
+    },
+    {
+      "file": "culture/支語誤判學.md",
+      "score": 6,
+      "reasons": "年份僅0個; 僅2個URL; 未人工審核; 英式短句開場3處"
     },
     {
       "file": "culture/台灣感性.md",

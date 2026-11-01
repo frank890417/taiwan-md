@@ -67,30 +67,30 @@ From the shameful boycott signs at Japanese airports in the 1990s to the "super 
 
 ## Footnotes
 
-1. [Book of Stray Dog Incidents in Taiwan from 1950 to 2022](https://animal-friendly.co/pet/39823/) by Animal Friendly. [↩](#user-content-fnref-1)
+[^1]: [Book of Stray Dog Incidents in Taiwan from 1950 to 2022](https://animal-friendly.co/pet/39823/) — Animal Friendly's chronicle of Taiwan's stray dog incidents from 1950 to 2022
 
-2. [Reports on the Stray Dog Problem in Taiwan by Foreign Groups](https://h2friends.com/board/hstr/4959.html), July 26, 1998. [↩](#user-content-fnref-2)
+[^2]: [Reports on the Stray Dog Problem in Taiwan by Foreign Groups](https://h2friends.com/board/hstr/4959.html) — H2 Friends' 1998 report on international groups covering Taiwan's stray dog problem
 
-3. [Administrative Management of Our Country's Stray Dogs and Cats](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) from the Ministry of Agriculture Animal Protection Information Network. [↩](#user-content-fnref-3)
+[^3]: [Administrative Management of Our Country's Stray Dogs and Cats](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Ministry of Agriculture Animal Protection Information Network paper on the administrative management of stray dogs and cats
 
-4. [The Foundation and 1990s Development of Animal Protection in Taiwan by Life Care Association](https://www.lca.org.tw/article/3651), Life Care Association. [↩](#user-content-fnref-4)
+[^4]: [The Foundation and 1990s Development of Animal Protection in Taiwan by Life Care Association](https://www.lca.org.tw/article/3651) — Life Care Association's account of its founding and 1990s animal protection work in Taiwan
 
-5. [Past and Present of the Animal Protection Act in Taiwan!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) from National Taichung University of Education. [↩](#user-content-fnref-5)
+[^5]: [Past and Present of the Animal Protection Act in Taiwan!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — National Taichung University of Education study on the past and present of Taiwan's Animal Protection Act
 
-6. [Don't Let Me Be a Stray - Our Island](https://ourisland.pts.org.tw/content/968), PTS News Network. [↩](#user-content-fnref-6)
+[^6]: [Don't Let Me Be a Stray - Our Island](https://ourisland.pts.org.tw/content/968) — Public Television Service's Our Island feature on the problem of stray animals
 
-7. [Twelve Nights (Taiwan Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29), Wikipedia. [↩](#user-content-fnref-10)
+[^10]: [Twelve Nights (Taiwan Film) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Wikipedia entry on the 2013 Taiwanese film Twelve Nights
 
-8. [Interviewing _Twelve Nights_ on Day Zero](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B), Annie News. [↩](#user-content-fnref-11)
+[^11]: [Interviewing Twelve Nights on Day Zero](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Annie News interview with the crew of Twelve Nights on the film's release day
 
-9. [From Temporary Shelter to Final Resting Place: The Truth of Public Shelters After the End of Twelve Nights](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters), Reporter The Reporter. [↩](#user-content-fnref-7) [↩2](#user-content-fnref-7-2)
+[^7]: [From Temporary Shelter to Final Resting Place: The Truth of Public Shelters After the End of Twelve …](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — The Reporter on the state of public shelters six years after the zero-culling policy took effect
 
-10. [Who Owns the Habitat in the Wild—Ecological and Public Health Crisis Amid Dog Killing](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife), Reporter The Reporter. [↩](#user-content-fnref-12)
+[^12]: [Who Owns the Habitat in the Wild—Ecological and Public Health Crisis Amid Dog Killing](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — The Reporter on the ecological and public health crisis from conflict between stray dogs and wildlife
 
-11. [Over Half of Rescued Pangolins, 1/3 of Wild Leopards Killed by Dogs: Special Center Accuses Arbitrary Feeding](https://www.agriharvest.tw/archives/102801/), AgriHarvest Media. [↩](#user-content-fnref-13)
+[^13]: [Over Half of Rescued Pangolins, 1/3 of Wild Leopards Killed by Dogs: Special Center Accuses Arbitrar…](https://www.agriharvest.tw/archives/102801/) — AgriHarvest report on dog attacks on pangolins and leopards and the alleged arbitrary feeding of wildlife
 
-12. [Taiwan Leopard Conservation Association: More Active Management Needed for Stray Dogs and Cats](https://www.twlcat.org/2025/07/4830/), Taiwan Leopard Conservation Association. [↩](#user-content-fnref-14)
+[^14]: [Taiwan Leopard Conservation Association: More Active Management Needed for Stray Dogs and Cats](https://www.twlcat.org/2025/07/4830/) — Taiwan Leopard Conservation Association calling for more active management of stray dogs and cats
 
-13. [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784), Taipei Times. [↩](#user-content-fnref-8)
+[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Taipei Times report on the Taoyuan airport posters featuring quarantine dogs going viral
 
-14. [Animal Protection Act - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95), Wikipedia. [↩](#user-content-fnref-9)
+[^9]: [Animal Protection Act - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Wikipedia entry on Taiwan's Animal Protection Act

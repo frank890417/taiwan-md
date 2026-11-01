@@ -1,15 +1,15 @@
 ---
-title: 'O povo Hla''alua: de "Tsou do Sul" ao seu próprio nome, o que o Miatungusu preservou'
-description: "Em 26 de junho de 2014, o povo Hla'alua tornou-se o 15.º povo indígena oficialmente reconhecido em Taiwan. Não se trata de romper com os Tsou, mas de, entre as quatro comunidades de Taoyuan, o Miatungusu e uma língua em perigo, devolver às pessoas que o usam um nome que fora fundido noutro."
+title: 'Povo Hla''alua: de "Zau do Sul" ao seu próprio nome, o que o Festival Sagrado da Concha preservou'
+description: "Em 26 de junho de 2014, o povo Hla'alua tornou-se o 15º grupo indígena oficialmente reconhecido em Taiwan. Isso não significa um rompimento com o povo Tsou, mas sim a devolução de um nome que outrora foi fundido às pessoas que o utilizam, entre as quatro comunidades de Taoyuan, o Festival Sagrado da Concha e a revitalização de sua língua ameaçada."
 date: 2026-08-18
 category: 'Culture'
 tags:
   [
+    "Povo Hla'alua",
     "Hla'alua",
-    "Hla'alua",
-    'Miatungusu',
-    'povos indígenas',
-    'revitalização linguística',
+    'Festival Sagrado da Concha',
+    'Povos Indígenas',
+    'Revitalização Linguística',
   ]
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/拉阿魯哇族.md'
-sourceCommitSha: 'd2302dccb'
-sourceContentHash: 'sha256:a02c70297f1ffa93'
+sourceCommitSha: '0692df4d6'
+sourceContentHash: 'sha256:2b7f1bca46070aff'
 sourceBodyHash: 'sha256:136fcbce54ee6de7'
-translatedAt: '2026-09-12T02:30:18+08:00'
+translatedAt: '2026-10-21T02:07:20.068275+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 26 de junho de 2014, os povos Hla'alua e Kanakanavu obtiveram reconhecimento oficial, tornando-se o 15.º e 16.º povos indígenas de Taiwan. A história dos Hla'alua não é apenas uma "divisão étnica" administrativa: envolve as quatro comunidades de Taoyuan, o Miatungusu centrado nas conchas, e uma língua que foi perdendo espaço de uso quotidiano nas frestas do Bunun, do mandarim e do sistema educativo. O que a retificação do nome verdadeiramente busca recuperar é a possibilidade de o povo contar a sua própria história com o seu próprio nome.
@@ -91,20 +91,20 @@ Na próxima Miatungusu, o oficiante continuará diante da concha, do vinho e do 
 
 ## Referências
 
-[^1]: [Povo Hla'alua｜Conselho dos Povos Indígenas](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Introdução oficial do povo, distribuição das quatro comunidades, Miatungusu, artesanato e dados de organização social.
+[^1]: [Povo Hla'alua | Conselho das Nações Indígenas](https://www.cip.gov.tw/zh-tw/tribe/grid-list/DE7E75BDD1F53F90D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Introdução oficial do grupo étnico, distribuição das quatro comunidades, Festival de Shell (Shengbei), artesanato e dados sobre organização social.
 
-[^2]: ["Separar" é a religação do afeto｜Literatura dos Povos Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Regista a retificação de 2014, a audiência pública de 2012, e a relação e reivindicações entre Hla'alua e Tsou.
+[^2]: ['Fen' é a reconexão emocional | Documentação das Nações Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/191) — Registros da renomeação de 2014, audiência pública de 2012, bem como as relações e reivindicações entre os povos Hla'alua e Tsou.
 
-[^3]: ["Hla'alua", "Kanakanavu": povos indígenas aumentam para 16｜Rede de Notícias PTS](https://news.pts.org.tw/article/272343) — Aprovação da retificação em 2014, os dois povos tornam-se o 15.º e 16.º, e notícia sobre retificação e preservação cultural e linguística.
+[^3]: ['Hla'alua' e 'Kanakaunafu' aumentam o número de povos indígenas para 16 | PTS News](https://news.pts.org.tw/article/272343) — Reportagem sobre a aprovação da renomeação em 2014, tornando os dois grupos o 15º e o 16º povo indígena, além da preservação cultural e linguística.
 
-[^4]: [Marketing cultural — Concha mágica: o deus-concha dos Hla'alua｜Departamento de Cultura do Governo de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publicação cultural local apresenta o fluxo contemporâneo do Miatungusu, a oferenda de vinho à concha e o arremesso da concha.
+[^4]: [Marketing Criativo – Shell Mágica: O Deus Concha do Povo Hla'alua | Departamento de Cultura do Governo de Kaohsiung](https://khcc.kcg.gov.tw/rwd_home04.aspx?ID=$0063&IDK=2&EXEC=D&DATA=68818&AP=$0063_HISTORY-0%5E$0063_PN-1) — Publicação cultural local apresentando os processos contemporâneos do Festival de Shell, a oferenda de vinho e o ritual de lançar conchas para obter bênçãos.
 
-[^5]: [Viagem de aprendizagem cultural do Miatungusu Hla'alua 2025｜Universidade Normal Nacional de Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Terrenos e descrição da atividade de aprendizagem ritual de 2025.
+[^5]: [Jornada de Aprendizado Cultural do Festival de Shell Hla'alua 2025 | Universidade Nacional de Kaohsiung](https://c.nknu.edu.tw/uo/Case_Detail.aspx?Hid=215) — Descrição dos locais e atividades para o aprendizado da cultura ritualística em 2025.
 
-[^6]: [Perda e revitalização da língua Hla'alua｜Literatura dos Povos Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Genealogia linguística, entrevistas de terreno, causas da perda linguística e propostas de revitalização.
+[^6]: [Perda e Revitalização da Língua Hla'alua | Documentação das Nações Indígenas](https://ihc.cip.gov.tw/EJournal/EJournalCat/189) — Genealogia linguística, entrevistas de campo, causas da perda linguística e conceitos para a revitalização.
 
-[^7]: [Simpósio de construção dos sistemas de conhecimento dos dois povos partilha resultados e promove intercâmbio｜Rede de Notícias TITV](https://news.ipcf.org.tw/136202) — Relatório de 2024 sobre investigação do conhecimento dos dois povos, fonologia Hla'alua e construção do dicionário de conhecimento.
+[^7]: [Compartilhamento de resultados do seminário sobre a construção do sistema de conhecimento de dois povos para promover o intercâmbio | PTS News](https://news.ipcf.org.tw/136202) — Reportagem sobre a pesquisa de conhecimento dos dois povos em 2024 e a construção da fonologia e do dicionário de conhecimento da língua Hla'alua.
 
-[^8]: [Povo Hla'alua Hla'alua｜Banco Nacional de Memória Cultural](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Entrada de memória cultural com distribuição do povo, quatro comunidades, retificação de 2014 e Miatungusu.
+[^8]: [Povo Hla'alua | Memória Cultural Nacional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=488279) — Entradas de memória cultural sobre a distribuição étnica, as quatro comunidades, a renomeação de 2014 e o Festival de Shell.
 
-[^9]: [Povo Hla'alua｜Centro de Desenvolvimento Cultural dos Povos Indígenas](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Portal de introdução dos Hla'alua no parque cultural dos povos indígenas.
+[^9]: [Povo Hla'alua | Centro de Desenvolvimento Cultural das Nações Indígenas](https://www.tacp.gov.tw/about/sixteen-tribes/%E6%8B%89%E9%98%BF%E9%AD%AF%E5%93%87%E6%97%8F) — Portal de introdução ao povo Hla'alua no Parque Cultural das Nações Indígenas.
