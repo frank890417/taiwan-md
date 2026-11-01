@@ -124,7 +124,8 @@ const officialResourceUrls = {
 const electionCopy: Record<string, ElectionCopy> = {
   'zh-TW': {
     meta: {
-      title: '2026 九合一選舉：11/28 投票日、縣市長候選人、怎麼投票',
+      title:
+        '2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票',
       description:
         '2026 九合一選舉在 11 月 28 日（週六）上午 8 點到下午 4 點投票。這頁整理 22 個縣市長選區、81 位候選人的名單，告訴你投票要帶國民身分證、去哪裡投，也說明同一天舉行的全國性公投第 22 案。每項資料都附中選會或法規來源，不放民調、不背書任何候選人。',
     },
@@ -1832,7 +1833,9 @@ type UpgradeCopy = {
   candidates: {
     metaLine: string;
     metaLineNumbered: string;
+    metaLinePartial: string;
     orderNote: string;
+    orderNotePartial: string; // {areas}
     incumbentPrefix: string;
     incumbentLinkText: string;
     incumbentSuffix: string;
@@ -1947,7 +1950,11 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
     candidates: {
       metaLine: '依中選會審定名單・號次 10/23 抽籤後更新・資料日期 {date}',
       metaLineNumbered: '依中選會審定名單・依號次排列・資料日期 {date}',
+      metaLinePartial:
+        '依中選會審定名單・已抽籤選區依號次排列・資料日期 {date}',
       orderNote: '號次抽籤前，同一選區依登記日期先後排列。',
+      orderNotePartial:
+        '已公布抽籤結果的選區依號次排列；{areas}選委會還沒公布，暫依登記日期先後排列。',
       incumbentPrefix: '；「現任」標示依',
       incumbentLinkText: '中央社整理',
       incumbentSuffix: '',
@@ -2095,8 +2102,12 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
         'CEC-approved list · ballot numbers added after the Oct 23 draw · data as of {date}',
       metaLineNumbered:
         'CEC-approved list · ordered by ballot number · data as of {date}',
+      metaLinePartial:
+        'CEC-approved list · ordered by ballot number where the draw is published · data as of {date}',
       orderNote:
         'Until the ballot-number draw, candidates in each race are listed by registration date.',
+      orderNotePartial:
+        'Races with a published draw are listed by ballot number; {areas} have not published results yet, so those keep registration order.',
       incumbentPrefix: '; “Incumbent” labels follow ',
       incumbentLinkText: 'Central News Agency (CNA) reporting',
       incumbentSuffix: '',
@@ -2248,7 +2259,11 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
       metaLine:
         '中央選挙委員会の審定名簿・番号は10/23の抽選後に更新・データ日付 {date}',
       metaLineNumbered: '中央選挙委員会の審定名簿・番号順・データ日付 {date}',
+      metaLinePartial:
+        '中央選挙委員会の審定名簿・抽選済みの選挙区は番号順・データ日付 {date}',
       orderNote: '番号の抽選までは、選挙区ごとに登録日順で並べています。',
+      orderNotePartial:
+        '抽選結果が公表された選挙区は番号順です。{areas}はまだ結果が公表されていないため、登録日順のままです。',
       incumbentPrefix: '。「現職」の表示は',
       incumbentLinkText: '中央通訊社（CNA）の整理',
       incumbentSuffix: 'による',
@@ -2397,7 +2412,11 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
         '중앙선거위원회 심사 확정 명단 · 기호는 10/23 추첨 후 업데이트 · 자료 기준일 {date}',
       metaLineNumbered:
         '중앙선거위원회 심사 확정 명단 · 기호 순 · 자료 기준일 {date}',
+      metaLinePartial:
+        '중앙선거위원회 심사 확정 명단 · 추첨 결과가 공개된 선거구는 기호 순 · 자료 기준일 {date}',
       orderNote: '기호 추첨 전까지는 선거구별로 등록일 순으로 배열합니다.',
+      orderNotePartial:
+        '추첨 결과가 공개된 선거구는 기호 순으로 배열합니다. {areas} 선거위원회는 아직 결과를 공개하지 않아 등록일 순을 유지합니다.',
       incumbentPrefix: '; ‘현직’ 표시는 ',
       incumbentLinkText: '중앙통신사(CNA) 정리',
       incumbentSuffix: ' 기준',
@@ -2549,8 +2568,12 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
         'Liste validée par la CEC · numéros ajoutés après le tirage du 23/10 · données au {date}',
       metaLineNumbered:
         'Liste validée par la CEC · par numéro de bulletin · données au {date}',
+      metaLinePartial:
+        'Liste validée par la CEC · par numéro de bulletin là où le tirage est publié · données au {date}',
       orderNote:
         'Jusqu’au tirage des numéros, les candidats de chaque circonscription sont classés par date d’enregistrement.',
+      orderNotePartial:
+        'Les circonscriptions dont le tirage est publié sont classées par numéro de bulletin ; pour {areas}, le résultat n’est pas encore publié et l’ordre d’enregistrement est conservé.',
       incumbentPrefix: ' ; mention « en poste » selon ',
       incumbentLinkText: 'l’agence CNA',
       incumbentSuffix: '',
@@ -2704,8 +2727,12 @@ const upgradeCopy: Record<UpLang, UpgradeCopy> = {
         'Lista aprobada por la CEC · números tras el sorteo del 23/10 · datos al {date}',
       metaLineNumbered:
         'Lista aprobada por la CEC · por número de papeleta · datos al {date}',
+      metaLinePartial:
+        'Lista aprobada por la CEC · por número de papeleta donde el sorteo ya se publicó · datos al {date}',
       orderNote:
         'Hasta el sorteo de números, las candidaturas de cada contienda se ordenan por fecha de registro.',
+      orderNotePartial:
+        'Las contiendas con sorteo publicado se ordenan por número de papeleta; en {areas} aún no se ha publicado el resultado, así que se mantiene el orden de registro.',
       incumbentPrefix: '; indicación «en el cargo» según ',
       incumbentLinkText: 'la agencia CNA',
       incumbentSuffix: '',
@@ -3076,6 +3103,12 @@ const orderedCandidates = (r: Race) =>
     ? [...r.candidates].sort((a, b) => (a.number ?? 0) - (b.number ?? 0))
     : r.candidates;
 const allNumbered = electionsData.races.every(isNumbered);
+// 部分選區已公布抽籤結果時，說明文字點名還沒公布的選區
+const pendingAreas = electionsData.races
+  .filter((r) => !isNumbered(r))
+  .map((r) => areaLabel(r.area));
+const partlyNumbered =
+  !allNumbered && pendingAreas.length < electionsData.races.length;
 const totalCandidates = electionsData.races.reduce(
   (n, r) => n + r.candidates.length,
   0,
@@ -3217,7 +3250,11 @@ const candFilters = [
 ];
 // 資料日期不在連字號斷行：把 {date} 前後拆開，日期包進 <time>
 const metaParts = (
-  allNumbered ? up.candidates.metaLineNumbered : up.candidates.metaLine
+  allNumbered
+    ? up.candidates.metaLineNumbered
+    : partlyNumbered
+      ? up.candidates.metaLinePartial
+      : up.candidates.metaLine
 ).split('{date}');
 // 中文與日文句子之間不加空格，其他語言加
 const sentenceGap = isZh || upLang === 'ja' ? '' : ' ';
@@ -3424,7 +3461,17 @@ import { icons } from '../icons/taiwan-icons.mjs';
                 races: electionsData.races.length,
                 count: totalCandidates,
               })
-            }{!allNumbered && sentenceGap + up.candidates.orderNote}
+            }{
+              !allNumbered &&
+                sentenceGap +
+                  (partlyNumbered
+                    ? fill(up.candidates.orderNotePartial, {
+                        areas: pendingAreas.join(
+                          isZh || upLang === 'ja' ? '、' : ', ',
+                        ),
+                      })
+                    : up.candidates.orderNote)
+            }
           </p>
           <p class="el-sec-meta">
             {metaParts[0]}<time
