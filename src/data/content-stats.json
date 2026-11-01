@@ -6,14 +6,14 @@
     "Economy": 960,
     "Food": 1068,
     "Geography": 984,
-    "History": 1068,
+    "History": 1104,
     "Lifestyle": 552,
     "Music": 444,
     "Nature": 492,
     "People": 3552,
     "Politics": 252,
     "Society": 1464,
-    "Technology": 816,
+    "Technology": 828,
     "resources": 24
   },
   "dailyGrowth": [
@@ -791,12 +791,16 @@
     },
     {
       "date": "2026-10-23",
-      "count": 1
+      "count": 5
     },
     {
       "date": "2026-10-24",
       "count": 12
+    },
+    {
+      "date": "2026-10-25",
+      "count": 24
     }
   ],
-  "updated": "2026-10-23"
+  "updated": "2026-10-25"
 }

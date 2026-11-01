@@ -78,7 +78,7 @@ Lịch sử lan truyền của «Ài ài ài, thế nào, thế nào», thay vì
 
 Điểm cười của nó xuất phát từ tư thế và ngữ khí, hiệu quả chính trị thì xuất phát từ ký ức. Những người đã xem tranh chấp gốc, có thể nhận ra Vương Hồng Vi và đại phế truất chỉ trong vài động tác; những người chưa xem video gốc, cũng có thể chỉ coi đó như một loại «thế thì bạn muốn làm sao» thông dụng. Chính vì nó có thể được các phe phái khác nhau biểu diễn lại, câu nói này mới từ một động tác công phòng biến thành một im lăng chính trị.
 
-## 參考資料
+## Tài liệu tham khảo
 
 [^1]: [Lập viện tiếp tục xem xét Luật bầu cử phế truất bùng nổ xung đột: Lâm Thổ Yến cáo buộc bị Vương Hồng Vi tát đến chảy máu](https://www.cna.com.tw/news/aipl/202407080022.aspx) — Trung ương社，2024-07-08。Báo dẫn Lâm Thổ Yến cáo buộc bị Vương Hồng Vi liên tục tát nhiều cái tát, bông tai bị tát rơi, cằm chảy máu và sẽ đi khám thương tích.
 

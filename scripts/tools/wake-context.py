@@ -48,6 +48,13 @@ HANDOFF_HEAD_RE = re.compile(r"^##+ .*(Handoff|handoff|交接)")
 HANDOFF_WALK_MAX_FILES = 5
 HANDOFF_WALK_MAX_HOURS = 72
 FRESHNESS_GRACE_DAYS = 2
+# 絕對沉默天數（2026-10-25 self-evolve）：「索引新鮮」量的是索引跟 raw 對得上，量不到
+# raw 本身多久沒長。W43 週體檢量到 diary 最新一篇距今 28 天，selftest 照樣印 ✅「落差
+# 0d」——一個停止產出的層跟一個每天在寫的層在這行長得一模一樣（REFLEXES #82 proxy：
+# 一致性是活著的替身）。兩層閾值不同：memory 每天有 routine 寫，3 天沒有＝飛輪停了；
+# diary 自 2026-09-09 起刻意升了門檻（diary-gate 冷卻＋routine 預設不寫），14 天才算
+# 反芻層可能被餓死，數字取自 W43 handoff。
+SILENCE_LIMIT_DAYS = {"memory": 3, "diary": 14}
 
 ALL_SECTIONS = [
     "manifesto-core", "reflexes-index", "reflexes-top5",
@@ -111,6 +118,21 @@ def newest_raw_file_date(d: Path):
 
 def parse_date(s):
     return dt.date.fromisoformat(s)
+
+
+def silence_check(label, raw, today):
+    """最新 raw 檔距今的絕對天數 → (ok, msg)。跟「索引新鮮」分開判，因為兩者的根因不同：
+    索引落後＝收官漏補列，raw 沉默＝那一層沒在產出（REFLEXES #38 一個訊號一種根因）。"""
+    limit = SILENCE_LIMIT_DAYS[label]
+    age = (today - parse_date(raw)).days
+    if age <= limit:
+        return True, f"{label} 最新一篇距今 {age}d（≤ {limit}d）"
+    if label == "diary":
+        return False, (f"diary 最新一篇是 {raw}，距今 {age}d（> {limit}d）——反芻層沒有產出。"
+                       f"不要為了消這盞燈補寫一篇（DIARY-PIPELINE Stage 0 照跑）；要回答的是這段"
+                       f"沉默是門檻刻意擋下的，還是反芻被餓死了")
+    return False, (f"memory 最新一篇是 {raw}，距今 {age}d（> {limit}d）——飛輪可能停轉，"
+                   f"先查排程器與帳號額度")
 
 
 # ---------------------------------------------------------------- sections
@@ -369,7 +391,9 @@ def build(rows_n):
                   f"{label} 索引可能過期：最新列 {newest} 落後 raw 檔 {raw} 達 {gap}d——你讀到的「近況」可疑")
         else:
             check(False, "", f"{label} 索引或 raw 檔解析不到日期（結構異常）")
-    nb = len((sections["neural"] or "").encode("utf-8"))
+        if raw:
+            checks.append(silence_check(label, raw, dt.date.today()))
+    nb =len((sections["neural"] or "").encode("utf-8"))
     rb = len((sections["diary-recur"] or "").encode("utf-8"))
     check(nb > 1500,
           f"神經迴路段完整（{nb // 1024}KB，止錨於心跳日誌前）",

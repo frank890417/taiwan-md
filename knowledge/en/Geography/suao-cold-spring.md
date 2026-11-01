@@ -18,7 +18,7 @@ sourceBodyHash: 'sha256:6e4c77ec70105e99'
 translatedAt: '2026-09-11T02:28:44+08:00'
 ---
 
-> **30-Second Overview:** Located in Su'ao Township, Yilan County, the Su'ao Cold Spring maintains a year-round temperature of approximately 22°C. The water contains abundant carbon dioxide, creating fine bubbles at the pool's bottom. It is both a geological phenomenon and a living facility for the port town: people once washed clothes, bathed, and made soda by the springs; today, the Cold Spring Park and Ali Shi Cold Spring continue this local memory. [↩︎](#參考資料)
+> **30-Second Overview:** Located in Su'ao Township, Yilan County, the Su'ao Cold Spring maintains a year-round temperature of approximately 22°C. The water contains abundant carbon dioxide, creating fine bubbles at the pool's bottom. It is both a geological phenomenon and a living facility for the port town: people once washed clothes, bathed, and made soda by the springs; today, the Cold Spring Park and Ali Shi Cold Spring continue this local memory. [↩︎](#references)
 
 The Su'ao Cold Spring is not hidden in deep mountains but lies about 300 meters in front of Su'ao Railway Station in the urban area. The Tourism Bureau of the Ministry of Transportation and Communications records it as a low-temperature mineral spring discovered in 1928. Local cultural memory, however, preserves the story of Chiu Chung-hsing drinking the spring water in 1895 and subsequently researching and developing it. Both dates exist in official records and cannot be crudely merged into a single, uncontested year. [^1] [^2]
 

@@ -240,3 +240,106 @@ test('定義區塊本身不算引用（不會自己引用自己）', () => {
   assert.equal(leftoverLabels(html).length, 0);
   assert.deepEqual(supIds(html), ['fnref-1'], '只有正文那一次產生 <sup>');
 });
+
+// ════════════════════════════════════════════════════════════════════════
+// issue #1890：自訂 fence 裡的腳註被 escape 成字面 HTML
+//
+// `processFootnotes()` 跑在模組 fence 之前，所以 fence 的 text slot 拿到的
+// 已經是 `<sup>` HTML，再走一次 `_esc()` 就變成讀者看得到的字面 `&lt;sup …`。
+// 全庫實測受影響的 fence（2026-10-25 ground-truth 掃描，依腳註引用數排序）：
+// tw-timeline 915 / tw-versus 539 / tw-stat 530 / tw-note 199 / tw-quote 13。
+// （投稿者原票提到 tw-figure，但實測它一個腳註引用都沒有，所以不在這批。）
+//
+// 修法是只還原 renderer 自己印出來的那一個精確字樣，不是做通用的
+// 「escape 但保留 HTML」——所以**負控制比正向測試重要**：長得像卻不是
+// 我們印的字樣，必須維持 escaped。
+// ════════════════════════════════════════════════════════════════════════
+
+/** 字面殘留的 escaped tag（讀者會看到的那種亂碼）。 */
+function escapedTagLeftovers(html) {
+  return [...html.matchAll(/&lt;(sup|a|img|script)\b/g)].map((m) => m[1]);
+}
+
+const FENCE_CASES = [
+  [
+    'tw-timeline',
+    '```tw-timeline\n- year: 2020\n  title: 某事件[^1]\n  desc: 說明[^1]\n```',
+  ],
+  ['tw-versus', '```tw-versus\n甲 | 乙\n左欄[^1] | 右欄[^1]\n```'],
+  ['tw-stat', '```tw-stat\n九成[^1] | 市佔 | 註記[^1]\n```'],
+  ['tw-note', '```tw-note\n說明\n這一段帶腳註[^1]。\n```'],
+  ['tw-quote', '```tw-quote\n這句話帶腳註[^1]\n— 某人，某職\n```'],
+];
+
+for (const [kind, fence] of FENCE_CASES) {
+  test(`${kind} fence 內的腳註要渲染成可點的上標，不是字面 tag`, () => {
+    const md = `${fence}\n\n[^1]: [來源](https://example.com) — 說明。\n`;
+    const html = render(md);
+
+    assert.deepEqual(
+      escapedTagLeftovers(html),
+      [],
+      `${kind}: 讀者不該看到字面 &lt;sup（issue #1890）`,
+    );
+    assert.ok(
+      /<sup id="fnref-1"><a href="#fn-1" class="footnote-ref"/.test(html),
+      `${kind}: 應該產出真正的 <sup> 上標`,
+    );
+    assert.deepEqual(footnoteIds(html), ['1'], `${kind}: 文末要有腳註條目`);
+  });
+}
+
+// ──── 負控制：長得像但不是我們印的，一律維持 escaped ────
+
+test('負控制：fence 內的 <script> / <img onerror> 必須維持 escaped', () => {
+  const md =
+    '```tw-timeline\n' +
+    '- year: 2020\n' +
+    '  title: <script>alert(1)</script>\n' +
+    '  desc: <img src=x onerror=alert(1)>\n' +
+    '```\n';
+  const html = render(md);
+
+  assert.ok(!/<script>/.test(html), '<script> 不可以變成真標籤');
+  assert.ok(!/<img\s/.test(html), '<img> 不可以變成真標籤');
+  assert.ok(/&lt;script&gt;/.test(html), '<script> 應該還是 escaped');
+  assert.ok(/&lt;img/.test(html), '<img> 應該還是 escaped');
+});
+
+test('負控制：手寫的假上標（不是 renderer 印的）必須維持 escaped', () => {
+  // 形狀像，但 class / aria-label 不是 processFootnotes() 的那一套。
+  const md =
+    '```tw-timeline\n' +
+    '- year: 2020\n' +
+    '  title: <sup id="fnref-evil"><a href="#fn-evil">1</a></sup>\n' +
+    '  desc: <sup id="fnref-x"><a href="#fn-x" class="evil" aria-label="x">1</a></sup>\n' +
+    '```\n';
+  const html = render(md);
+
+  // ⚠️ 判準要找**未 escape 的 `<`**：`_esc` 不動雙引號，所以 escaped 的
+  // `&lt;sup id="fnref-evil"&gt;` 自己就含有 `id="fnref-evil"` 這個子串——
+  // 用子串比對會把 escaped 的形式誤判成真標籤（這條負控制第一次跑就是
+  // 這樣假紅的，REFLEXES #99 尺先驗再用）。
+  assert.ok(!/<sup id="fnref-evil"/.test(html), 'fnref-evil 不可以變成真標籤');
+  assert.ok(
+    !/<a href="#fn-x" class="evil"/.test(html),
+    '假連結不可以變成真標籤',
+  );
+  assert.ok(/&lt;sup id="fnref-evil"/.test(html), '假上標應該還是 escaped');
+});
+
+test('負控制：屬性值不受影響（aria-label 不該被塞進真 HTML）', () => {
+  // tw-waffle 的 aria-label 走 _esc（不是 _escText）。標題帶腳註時，
+  // 屬性值裡必須是 escaped 的字樣，否則雙引號會把屬性提早收掉。
+  const md =
+    '```tw-waffle\n標題[^1]\n甲 | 3\n乙 | 7\n```\n\n' +
+    '[^1]: [來源](https://example.com) — 說明。\n';
+  const html = render(md);
+
+  const m = html.match(/aria-label="([^"]*)"/);
+  assert.ok(m, '應該有 aria-label');
+  assert.ok(
+    !/<sup/.test(m[1]),
+    'aria-label 的值裡不可以出現真的 <sup>（會提早收掉屬性）',
+  );
+});

@@ -1,178 +1,204 @@
 ---
-title: 'Lâm Úc Đình: Từ võ đài ngầm Tân Trang đến huy chương vàng Olympic Paris, cô gái quyền Anh đơn độc và cả Đài Loan đã gánh vác trên vai'
-description: 'Ngày 11 tháng 8 năm 2024, tại sân Roland Garros ở Paris, Lâm Úc Đình đã giành huy chương vàng quyền Anh đầu tiên trong lịch sử Olympic của Đài Loan với phong độ áp đảo. Bắt đầu từ võ đài ngầm Trường Trung học Ngưng Ca, cô đã trải qua thất bại tại Olympic Tokyo, sự khiêu khích bằng cử chỉ "X" từ đối thủ tứ kết, các cuộc đấu trí chính trị quốc tế và nạn bắt nạt trên mạng xuyên quốc gia. Bài viết này phân tích sâu sắc triết lý "Phù thủy" của cô, đóng góp hậu trường của huấn luyện viên Lý Thừa Uy, sự tiến hóa kỹ thuật, khoa học giới tính, vị trí giảng dạy tại trường đại học, sức gắn kết xã hội và tình cảm cách mạng của các nữ quyền Anh, đồng thời ghi lại những tiến bộ sử thi mới nhất khi World Boxing chính thức công nhận tư cách tham dự của cô vào năm 2026.'
+title: 'Lin Yu-ting: Từ đội quyền anh trường trung học Yingge đến huy chương vàng Olympic Paris'
+description: 'Vào tháng 8 năm 2024, Lin Yu-ting đã đánh bại đối thủ người Ba Lan với tỷ số 5-0 trong trận tranh huy chương vàng hạng cân 57kg nữ tại Olympic Paris, mang về tấm huy chương vàng quyền anh đầu tiên cho Đài Loan tại Thế vận hội. Bài viết này tổng hợp hành trình của cô từ khi bắt đầu tại đội quyền anh trường trung học Yingge, thất bại tại Olympic Tokyo, việc bị tước huy chương đồng tại Giải vô địch thế giới 2023 và những tranh cãi về giới tính trong thời gian diễn ra Olympic Paris, cũng như các thông tin về công tác giảng dạy, giải thưởng sau khi giành vàng và tình hình thi đấu gần đây vào năm 2026; mọi thông tin đều có nguồn dẫn cụ thể.'
 date: 2026-08-12
 category: 'People'
 tags:
   [
-    'Lâm Úc Đình',
+    'Lin Yu-ting',
     'Olympic Paris',
-    'Quyền Anh',
-    'Tăng Tự Cường',
-    'Lý Thừa Uy',
+    'Quyền anh',
+    'Tseng Tzu-chiang',
+    'Li Cheng-wei',
     'Tranh cãi giới tính',
-    'Ánh sáng Đài Loan',
+    'Niềm tự hào Đài Loan',
     'World Boxing',
   ]
 subcategory: '體育'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-08-12
+lastVerified: 2026-10-23
 lastHumanReview: false
 curation: 'incubating'
-readingTime: 25
+readingTime: 8
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'pre-toolkit'
-sourceContentHash: 'sha256:requeue-section-loss'
-sourceBodyHash: 'sha256:requeue-section-loss'
-translatedAt: '2026-10-15T03:32:03.214913+00:00'
+sourceCommitSha: 'df33f3cbd'
+sourceContentHash: 'sha256:9e1b5b650e967399'
+sourceBodyHash: 'sha256:985c4de8119ecefa'
+translatedAt: '2026-10-24T01:07:54.955466+00:00'
 ---
 
-Ngày 11 tháng 8 năm 2024 (giờ Đài Loan), trên nền đất đỏ của sân Roland Garros ở Paris, khi tiếng chuông trận chung kết hạng cân 57kg nữ vang lên, vận động viên Lâm Úc Đình đã giành chiến thắng tuyệt đối với tỷ số 5-0 trước vận động viên Ba Lan Julia Szeremeta [^1][^2]. Giống như sau thất bại tại Olympic Tokyo, cô lại một lần nữa cõng huấn luyện viên Tăng Tự Cường—người đồng hành cùng cô suốt mười lăm năm—một cảnh tượng không chỉ hoàn thành mong ước nhiều năm của hai thầy trò mà còn mang về cho Đài Loan huy chương vàng quyền Anh đầu tiên trong lịch sử Olympic [^3][^5]. Tuy nhiên, sức nặng của chiếc huy chương này vượt xa giới hạn vật lý của chính nó—trong hơn một tháng trước khi nó chạm đất, Lâm Úc Đình đã buộc phải đứng trên tâm bão dư luận toàn cầu, chịu đựng sự chất vấn về giới tính và nạn săn lùng ma quái xuyên quốc gia [^5].
+Vào ngày 11 tháng 8 năm 2024 (giờ Đài Loan), Lâm Úc Đình (Lin Yu-ting) đã đánh bại vận động viên người Ba Lan Julia Szeremeta với tỉ số 5-0 trong trận chung kết quyền anh hạng cân 57kg nữ tại Olympic Paris, mang về tấm huy chương vàng quyền anh Olympic đầu tiên cho Đài Loan[^1][^2]. Sau trận đấu, theo truyền thống "có huy chương vàng là cõng huấn luyện viên", cô đã cõng huấn luyện viên Tăng Tự-cường (Tseng Tzu-chiang) đi một đoạn đường[^3]. Trong kỳ Olympic này, cô cùng với vận động viên người Algeria Imane Khelif đã bị cuốn vào những tranh cãi về giới tính; Chủ tịch Ủy ban Olympic Quốc tế Thomas Bach đã tái khẳng định rằng cả hai là phụ nữ từ khi sinh ra và có quyền tham gia thi đấu[^4].
 
-![Tổng thống và Phó tổng thống tiếp đón đoàn thể thao Olympic Paris 2024](https://upload.wikimedia.org/wikipedia/commons/3/3d/08.16_%E7%B8%BD%E7%B5%B1%E8%88%87%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C2024%E5%B9%B4%E7%AC%AC33%E5%B1%86%E5%B7%B4%E9%BB%8E%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%BB%A3%E8%A1%A8%E5%9C%98%E3%80%8D_%2853926734865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Tổng thống và Phó Tổng thống tiếp đón đoàn đại biểu tham dự Olympic Paris 2024](https://upload.wikimedia.org/wikipedia/commons/3/3d/08.16_%E7%B8%BD%E7%B5%B1%E8%88%87%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C2024%E5%B9%B4%E7%AC%AC33%E5%B1%86%E5%B7%B4%E9%BB%8E%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%BB%A3%E8%A1%A8%E5%9C%98%E3%80%8D_%2853926734865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-## Bao cát trong tầng hầm và những cú đấm của cha nhắm vào mẹ
+## Ý nguyện ban đầu: Bảo vệ mẹ
 
-Nhìn lại quỹ đạo trưởng thành của Lâm Úc Đình, quyền Anh ban đầu không phải là sự khao khát lãng mạn về thể thao, mà là một cơ chế phòng vệ bản năng. Bóng ma bạo lực gia đình thời thơ ấu khiến cô sớm cảm nhận được sự tàn nhẫn và bất lực của hiện thực. Trong nhiều lần phỏng vấn, cô đã thẳng thắn thừa nhận: "Khi còn nhỏ, bố thường đánh mẹ, nên tôi tham gia đội quyền Anh, hy vọng có thể dùng sức mình để bảo vệ mẹ." [^9][^10]. Những mảnh vỡ từ xung đột gia đình đã trở thành nỗi lo âu thời niên thiếu của cô, và đội quyền Anh trong tầng hầm Trường Trung học Ngưng Ca ở Tân Bắc Thành là nơi trú ẩn giúp cô thoát khỏi thực tại và rèn luyện ý chí [^11].
+Lâm Úc Đình sinh năm 1995 tại thị trấn Ưng Ca, huyện Đài Bắc (nay là quận Ưng Ca, thành phố Tân Bắc), là con út trong số bốn anh chị em[^4]. Khi còn học trung học cơ sở, cô từng chia sẻ với truyền thông Đài Loan rằng: "Khi còn nhỏ, bố thường xuyên đánh mẹ, vì vậy tôi đã gia nhập đội quyền anh với hy vọng có thể dùng sức mạnh của chính mình để bảo vệ mẹ."[^4] Sau khi cha rời khỏi nhà, một mình mẹ cô đã làm lụng vất vả để nuôi nấng gia đình[^4]. Cô cũng nhắc đến việc cùng anh trai xem bộ phim 《Hajime no Ippo》 (First Punch) khi còn nhỏ là một trong những cơ duyên dẫn dắt cô đến với quyền anh[^4].
 
-## Cách mạng quyền anh cơ sở giữa hoàn cảnh gian nan
+## Đội quyền anh trường trung học cơ sở Ưng Ca và Tăng Tự-cường
 
-Môi trường huấn luyện lúc bấy giờ cực kỳ đơn sơ, không có trang bị bảo hộ hàng đầu hay đội ngũ y tế, chỉ có những cái túi cát thô ráp, những bức tường vẩy mòn và mồ hôi ngày nào cũng chảy. Chính tại đây, cô gặp được huấn luyện viên Tăng Tự Cường — người thay đổi cả cuộc đời cô[^7][^8]. Tăng Tự Cường nhận ra trong mắt cô gái gầy yếu ấy một sự cứng đầu không chịu thua, từ đó hai người xây dựng nên một mối liên kết chặt chẽ như cha con, vừa là thầy trò vừa là bạn bè, mở ra một cuộc cách mạng quyền anh cơ sở tại Đài Loan kéo dài hơn mười năm[^7][^8].
+Tăng Tự-cường từng là vận động viên quyền anh giành huy chương vàng tại Đại hội Thể thao Toàn quốc, nhưng phải rời sàn đấu do chấn thương thể thao. Từ năm 2008, ông gia nhập đội quyền anh trường trung học cơ sở Ưng Ca với vai trò huấn luyện viên[^5]. Khi Lâm Úc Đình mới gia nhập đội, chiều cao của cô chỉ vỏn vẹn 140 cm, và ban đầu Tăng Tự-cường không mấy kỳ vọng vào cô[^4]. Tuy nhiên, chỉ sau hơn hai tháng tập luyện, cô đã giành được vị trí thứ hai ở hạng cân nữ trung học cơ sở tại Giải vô địch quyền anh Cúp Tổng thống toàn quốc[^3].
 
 ```tw-stat
-5：0 | Tỷ số trận chung kết vàng Paris | Chiến thắng áp đảo đối thủ (bốn trận toàn thắng)
-15 năm | Thầy trò đồng hành | Huấn luyện viên Tăng Tự Cường đồng hành suốt đường
-1st | Kỷ lục vị trí lịch sử | Huy chương vàng quyền anh đầu tiên trong lịch sử Olympic Đài Loan
-Nguồn: Báo cáo sự kiện Olympic Paris và phỏng vấn huấn luyện viên Tăng Tự Cường, chính Lâm Úc Đình (xem chú thích phần trước)[^1][^2][^7][^8][^9]
+5：0 | Tỉ số trận chung kết vàng Paris | Đánh bại vận động viên Ba Lan Julia Szeremeta
+Khoảng 15 năm | Thâm niên thầy trò | Lại Thanh Đức (Lai Ching-te) đã đề cập qua video rằng Tăng Tự-cường đã đồng hành cùng Lâm Úc Đình khoảng 15 năm
+1st | Huy chương vàng quyền anh Olympic của Đài Loan | Tấm huy chương vàng quyền anh Olympic đầu tiên của Đài Loan
+Nguồn: BBC tiếng Trung, AP và CNA[^6][^2][^7]
 ```
 
-## "Chúng tôi cũng muốn trở thành phù thủy của chính mình": Sự cộng hưởng triết lý thầy trò
+## Tập luyện cùng nam giới và kiểm soát cân nặng
 
-Trong suốt mười lăm năm hợp tác, Tăng Tự Cường và Lâm Úc Đình đã phát triển một sự ăn ý độc đáo. Tăng Tự Cường từng đưa ra triết lý nổi tiếng về "Phù thủy": "Chúng tôi cũng phải trở thành phù thủy của chính mình, chỉ là người lái định mệnh của bản thân." [^7][^12]. Câu nói này trở thành lớp lá chắn tinh thần vững chắc nhất trong lòng Lâm Úc Đình khi đối mặt với những tạp âm bên ngoài dữ dội. Hai thầy trò đã từng bước biến điều không thể thành có thể thông qua sự tự giác cực kỳ nghiêm khắc và quá trình huấn luyện khoa học, ngay cả trong môi trường còn thiếu thốn về nguồn lực.
+Tăng Tự-cường đã nói với cô rằng: "Nếu em cứ tập luyện như một cô gái, em sẽ không bao giờ tiến bộ được." Vì vậy, Lâm Úc Đình bắt đầu tập luyện cùng với các vận động viên nam[^4]. Em họ kiêm người tập cùng của cô, Hứa Hạo Tường (Hsu Hao-chang), chia sẻ với BBC rằng những cú đấm của nam giới nặng hơn, đôi khi cô không chịu nổi và bị chảy máu mũi, nhưng sau khi lau sạch máu mũi, cô lại tiếp tục tập luyện[^6].
 
-## Trò chơi chiến thuật: Bản giao hưởng đòn chích dài trên nền đất đỏ Roland Garros
+Quyền anh được phân chia theo hạng cân, vì vậy kiểm soát trọng lượng là một phần tất yếu trong sinh hoạt hàng ngày. Trong cuộc phỏng vấn độc quyền với 《CommonWealth Magazine》 (Thiên hạ tạp chí), khi nói về tính tự kỷ luật của vận động viên, Tăng Tự-cường cho biết nếu bữa trưa lỡ ăn quá nhiều hoặc uống trà sữa cùng bạn bè, thì bữa tối phải tiết chế lại, bởi vì cân nặng không được phép ảnh hưởng đến hạng cân thi đấu[^8]. Hứa Hạo Tường nhớ lại rằng trước thềm Olympic Rio, tại Trung tâm Huấn luyện Quốc gia, để kiểm soát cân nặng, Lâm Úc Đình đã dùng hai chiếc bát khi ăn: một bát đựng rau xanh và một bát đựng nước nóng để trần rau qua nước; cô còn mặc những bộ đồ dài tay dày cộm khi tập luyện nhằm ép cơ thể ra mồ hôi nhiều hơn[^6].
 
-Trong bốn trận đấu tại Olympic Paris, Lâm Úc Đình đã thể hiện trình độ chiến thuật rất cao. Với chiều cao 1m75, cô tận dụng tối đa lợi thế tầm tay để kiểm soát nhịp độ trận đấu ở khoảng cách xa [^13]. Tân Hoa Xã và tờ The New York Times phân tích rằng lối đánh của Lâm Úc Đình "bình tĩnh và đầy phản công"; cô không vội vàng tấn công mà thông qua những cú "chích dài (Long Jab)" chính xác liên tục làm nhiễu trọng tâm đối thủ, buộc đối phương lộ sơ hở trong sự bồn chồn, sau đó đáp trả bằng những cú móc gọn gàng [^47][^48]. Sự "thống trị tao nhã" này giúp cô giành chiến thắng với tỷ số cách biệt 5-0 trong cả bốn trận đấu.
+## Người tập cùng Lý Thừa-uy
 
-![Ảnh chân dung Lâm Úc Đình](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yu-Ting%2C_Lin.jpg/960px-Yu-Ting%2C_Lin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+Lý Thừa-uy (Li Cheng-wei) là người tập cùng lâu năm của Lâm Úc Đình (Lin Yu-ting), đồng thời cũng là đàn em khóa dưới tại Đại học Văn hóa[^9]. Ngay từ khi còn theo học tại Trường Công thương Anh Ca (Yingge), anh đã được Tăng Tự-cường kéo đến để hỗ trợ Lâm Úc Đình tập luyện, và là người giữ vai trò người tập cùng lâu nhất trong đội[^10]. Theo báo cáo của tờ 《商周》 (Business Weekly), Tăng Tự-cường đã tìm kiếm Lý Thừa-uy vào năm 2015 và mô tả rằng "Lâm tập gì, Lý sẽ tập đó"; tính đến thời điểm đưa tin, anh đã làm người tập cùng được 9 năm[^11].
 
-📝 Ghi chú của người biên tập: Trong thế giới thể thao cạnh tranh, thiên tài không hiếm, điều hiếm là việc đi đến đỉnh cao thế giới từ một môi trường cơ sở thiếu thốn nguồn lực, vốn là một con đường ít được biết đến và đầy thương tổn. Sự kết hợp giữa Lâm Úc Đình và Tăng Tự Cường đã thể hiện sức sống kiên cường nhất của thể thao cơ sở Đài Loan—không phải nhờ những phép màu ngẫu nhiên, mà là nhờ ký ức cơ bắp đứng dậy sau vô số lần gục ngã.
+📝 Ghi chú của người biên soạn: Khi thu thập tài liệu, tôi đặc biệt chú ý đến những người xung quanh Lâm Úc Đình. Huấn luyện viên Tăng Tự-cường đã dẫn dắt đội quyền anh trường Trung học cơ sở Anh Ca từ năm 2008[^5], người tập cùng Lý Thừa-uy đã đồng hành cùng cô tập luyện từ thời trung học[^10], và sau thất bại tại Olympic Tokyo, cô lại tiếp tục ở lại để hỗ trợ Hoàng Tiêu-văn (Huang Hsiao-wen) huấn luyện[^12]. Đoạn đường cô cõng huấn luyện viên bước đi sau khi trận tranh huy chương vàng kết thúc[^3], phía sau đó là một đội ngũ nhỏ đã cùng nhau tập luyện bền bỉ trong nhiều năm.
 
-## Mất nước và ý chí: Cái giá đằng sau việc giảm cân cực độ
+![Chân dung Lâm Úc Đình](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yu-Ting%2C_Lin.jpg/960px-Yu-Ting%2C_Lin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
-Quyền Anh là một cuộc chiến với chiếc cân. Ở hạng cân 57kg, Lâm Úc Đình phải thực hiện chế độ ăn uống cực kỳ nghiêm ngặt và "giảm cân bằng cách mất nước" trước trận đấu [^38]. Huấn luyện viên Tăng Tự Cường tiết lộ rằng sự đòi hỏi của Lâm Úc Đình đối với bản thân gần như là tự hành hạ: nếu bữa trưa bị tiêu thụ một ly trà sữa do giao tiếp xã hội, thì bữa tối phải nhịn ăn nghiêm ngặt, thậm chí trước trận đấu cô còn tiến hành huấn luyện đổ mồ hôi cường độ cao để loại bỏ nước trong cơ thể, chỉ nhằm đạt được trọng lượng chính xác khi cân [^38][^39].
+## Từ huy chương vàng hạng mục trẻ đến huy chương vàng Á vận hội
 
-## Người hùng thầm lặng chín năm: Lý Thừa Uy—đối thủ tập luyện hậu trường
+BBC đã tổng hợp thành tích thi đấu của cô: giành huy chương vàng tại Giải vô địch quyền anh nữ trẻ và thanh thiếu niên thế giới năm 2013 tại Bulgaria, trở thành vận động viên Đài Loan đầu tiên giành huy chương vàng ở hạng mục trẻ tại một giải đấu quyền anh thế giới; giành huy chương đồng Á vận hội và huy chương vàng Giải vô địch thế giới năm 2018, là vận động viên Đài Loan đầu tiên giành huy chương vàng tại Giải vô địch quyền anh thế giới; lần thứ hai đoạt huy chương vàng tại Giải vô địch thế giới ở Istanbul vào năm 2022; và giành huy chương vàng tại Á vận hội Hàng Châu năm 2023, trở thành nữ võ sĩ quyền anh Đài Loan đầu tiên trong lịch sử giành được huy chương vàng Á vận hội[^4].
 
-Đằng sau ánh hào quang của Lâm Úc Đình là một "đối thủ bóng ma" không thể thiếu—Lý Thừa Uy, người anh khóa dưới cô vài tuổi, sinh viên đại học và là đối thủ tập luyện vàng. Từ năm 2015, để tìm kiếm đối tượng có thể mô phỏng sức mạnh và tốc độ của các vận động viên nam hàng đầu thế giới, huấn luyện viên Tăng Tự Cường đã đặc biệt sắp xếp cho Lý Thừa Uy làm đối thủ tập luyện riêng cho Lâm Úc Đình [^21][^22]. Trong chín năm, Lý Thừa Uy gần như "luyện gì thì cô ấy tập đó", chịu đựng cường độ va đập và khối lượng huấn luyện ngang bằng với các vận động viên đội tuyển quốc gia [^21][^23].
+## Rio và Tokyo: Hai lần thất bại
 
-## Lần đầu lên bục tại Tokyo Olympic và thất bại đau thương
+Tại vòng loại Olympic Rio 2016, cô chỉ thiếu đúng một trận thắng nữa là có được tấm vé tham dự Thế vận hội[^4]. Trích dẫn lời của huấn luyện viên Tăng Tự-cường (Tseng Tzu-chiang) từ _Sports Note_, sau trận đấu ông đã nói với Lâm Úc Đình (Lin Yu-ting): "Huấn luyện viên xin lỗi em, vì đã không thể đưa em đến đỉnh cao nhất, nhưng điều đó không có nghĩa là điểm kết thúc của em." Lâm Úc Đình đã đáp lại: "Thầy ơi, thầy đi đến đâu, em sẽ theo đến đó."[^5]
 
-Tuy nhiên, con đường của một vận động viên chưa bao giờ trải đầy hoa hồng. Tại Olympic Tokyo 2020, Lâm Úc Đình, người mang kỳ vọng giành huy chương, lần đầu tiên bước lên sân khấu cao nhất nhưng lại bất ngờ thua ở vòng đầu, nuốt trọn thất bại nặng nề nhất trong sự nghiệp thể thao [^3][^15]. Sau trận đấu, cô không tìm lý do bào chữa cho bản thân mà lặng lẽ trở về phòng tập, nuốt nước mắt vào bụng.
+Tại Olympic Tokyo diễn ra vào năm 2021, Lâm Úc Đình tham dự với tư cách hạt giống số một và xếp hạng nhất thế giới, nhưng đã thất bại ngay tại vòng 16 đội[^4], thua sát nút 2-3 trước võ sĩ người Philippines Pechercito[^13]. Trong bài phỏng vấn với tờ _The Reporter_ vào năm 2021, cô chia sẻ rằng lúc đó bản thân vô cùng thất vọng về chính mình, đã "sụp đổ và khóc nức nở", may mắn thay huấn luyện viên Tăng Tự-cường đã không ngừng động viên, thậm chí còn đề nghị cô chuyển đổi vai trò, ở lại để đồng hành tập luyện cùng võ sĩ hạng 51kg Hoàng Tiêu-văn (Huang Hsiao-wen)[^12]. Cùng bài báo đó cũng đề cập rằng, ông Tăng Tự-cường đã sớm đấu tranh để thuê chuyên gia tâm lý thể thao nhằm hỗ trợ các vận động viên trẻ nhận biết và bày tỏ sự lo lắng, căng thẳng cũng như nỗi sợ hãi của bản thân[^12].
 
-## Sự can thiệp của tư vấn tâm lý thể thao và "Phương pháp chuyển dịch điểm đau"
+Cô cũng nói về áp lực khi bị coi là một hình mẫu: "Tôi luôn bị xem là hình mẫu và được đặt nhiều kỳ vọng, huấn luyện viên cũng hy vọng tôi có thể dẫn dắt các đàn em, điều này đương nhiên tạo ra áp lực, và tôi vẫn đang không ngừng học cách đối mặt với nó."[^12]
 
-Đối mặt với áp lực tâm lý to lớn sau thất bại tại Olympic Tokyo, huấn luyện viên Tăng Tự Cường đã sớm tìm kiếm sự giúp đỡ từ các nhà tâm lý học thể thao (như Hồng Tử Phong [Hong Zifeng]...) [^6][^16]. Lâm Úc Đình đã học được "phương pháp chuyển dịch điểm đau", biến nỗi uất hận vì thất bại thành sự ủng hộ đồng đội và việc tái cấu trúc ám ảnh về các chi tiết kỹ thuật [^40]. Sự tôi luyện về khả năng phục hồi tâm lý này đã giúp cô giữ được sự bình tĩnh trong cơn bão toàn cầu tại Olympic Paris.
+## Giải vô địch thế giới 2023: Bị tước huy chương đồng
 
-## Cơn bão vô cớ tại Giải vô địch thế giới New Delhi và cái bẫy thể chế
-
-Vừa khi cô điều chỉnh tâm thế, trở lại vị trí số một thế giới, một thử thách lớn hơn đã âm thầm降临 tại Giải vô địch thế giới New Delhi năm 2023. Lúc bấy giờ, cô bất ngờ bị Liên đoàn Quyền Anh Quốc tế (IBA) lấy lý do "chỉ số sinh hóa bất thường" không rõ ràng để hủy bỏ tư cách huy chương đồng[^3][^4][^17]. Quyết định này thiếu cơ sở khoa học minh bạch và các kênh khiếu nại chính đáng, gieo mầm cho những tranh cãi sau này trên sân khấu thể thao quốc tế.
+Vào tháng 3 năm 2023, Lâm Úc Đình (Lin Yu-ting) đã giành được huy chương đồng tại Giải vô địch thế giới diễn ra ở New Delhi, nhưng sau đó Hiệp hội Quyền anh Quốc tế (IBA) đã tước bỏ tấm huy chương này với lý do "chỉ số sinh học giới tính bất thường" trước giải đấu[^4]. Sau khi cô trở về Đài Loan, Cục Thể thao thuộc Bộ Giáo dục Đài Loan đã khởi động một cuộc điều tra chuyên biệt và vào tháng 4 cùng năm, cơ quan này thông báo kết quả kiểm tra hoàn toàn phù hợp với các quy định thi đấu quốc tế[^4].
 
 ```tw-timeline
-2021 | Thất bại Olympic Tokyo | Lần đầu chạm đến đỉnh cao nhưng dừng bước ở vòng đầu, sau trận mang huấn luyện viên lên vai và hứa sẽ trở lại đỉnh cao.
-2023 | Cơn bão giới tính tại Giải vô địch thế giới | Bị IBA lấy lý do kết quả kiểm tra sinh hóa bất thường để tước huy chương đồng, gặp phải thất bại thể chế lớn nhất trong sự nghiệp vận động.
-2024 | Vinh quang Olympic Paris | Chịu đựng áp lực săn phù thủy dư luận xuyên quốc gia toàn cầu, giành vàng với thành tích 4 trận 5-0, hoàn thành Grand Slam lịch sử.
-2026 | World Boxing công nhận | Sau một năm rưỡi khiếu nại, Liên đoàn Quyền Anh Thế giới chính thức công nhận tư cách tham賽, trả lại sự trong sạch.
-Nguồn: Báo dẫn Olympic Tokyo, tranh cãi IBA tước huy chương đồng và báo dẫn World Boxing công nhận năm 2026 trích dẫn trong bài này[^3][^4][^15][^17]
+2016 | Vòng loại Olympic Rio | Dừng bước khi chỉ thiếu một trận thắng nữa để giành vé dự Olympic.
+2021 | Olympic Tokyo | Thi đấu với tư cách hạt giống số 1 và xếp hạng nhất thế giới, nhưng thất bại ở vòng 16 đội.
+2023 | Bị tước huy chương đồng Giải vô địch thế giới | IBA tước huy chương với lý do "chỉ số sinh học giới tính bất thường" trước giải đấu; Cục Thể thao thông báo vào tháng 4 cùng năm rằng kết quả kiểm tra phù hợp với quy định thi đấu quốc tế.
+2024 | Huy chương vàng Olympic Paris | Thắng áp đảo vận động viên Ba Lan với tỷ số 5-0 trong trận chung kết, giành tấm huy chương vàng quyền anh Olympic đầu tiên cho Đài Loan.
+2026 | World Boxing công nhận | Ngày 19 tháng 3, đơn khiếu nại được thông qua, xác nhận có thể tham gia Giải vô địch Quyền anh châu Á.
+2026 | Á vận hội Nagoya | Thắng 5-0 trong trận tranh huy chương vàng hạng cân 60kg nữ, bảo vệ thành công chức vô địch Á vận hội.
+Nguồn: Tổng hợp từ các báo cáo của BBC tiếng Trung, AP, TVBS và CNA[^4][^2][^14][^15]
 ```
 
-## Nạn nhân cuộc chiến quyền lực quản trị thể thao quốc tế và giải thích khoa học
+## Sự đối đầu giữa IBA và Ủy ban Olympic Quốc tế
 
-Phân tích sâu về vụ việc này, IBA (Tổng hội Quyền Anh Quốc tế) trong những năm gần đây do các bê bối tài chính, hối lộ trọng tài và sự lãnh đạo của Chủ tịch Umar Kremlev [Umar Kremlev] có nguồn gốc Nga, luôn ở trong trạng thái đối đầu với Ủy ban Olympic Quốc tế (IOC) [^18][^41]. Vụ việc Lâm Úc Đình và vận động viên Algeria Imane Khelif bị IBA gây khó dễ đã bị giới truyền thông xem là công cụ đấu tranh chính trị của IBA nhằm gây áp lực lên IOC và giành quyền thống trị quyền Anh quốc tế [^18][^19].
+BBC đưa tin, vào tháng 6 năm 2023, Ủy ban Olympic Quốc tế (IOC) đã trục xuất Hiệp hội Quyền anh Quốc tế (IBA) với lý do "vấn đề quản lý nội bộ" [^6]. Theo Associated Press (AP), tranh chấp giữa hai bên xoay quanh phương thức quản lý của IBA dưới sự dẫn dắt của vị chủ tịch người Uzbekistan và Nga, việc tài chính được hỗ trợ bởi tập đoàn năng lượng nhà nước Nga Gazprom, cũng như tính công bằng trong các giải đấu và hệ thống chấm điểm [^16]. Khoản nợ gần 20 triệu đô la Mỹ của IBA đã được thanh toán trong nhiệm kỳ của Umar Kremlev, tuy nhiên IOC phản đối việc IBA phụ thuộc vào tài chính từ tập đoàn Gazprom [^16].
 
-## Săn lùng ma quái xuyên quốc gia và cuộc chiến nhãn mác giới tính của J.K. Rowling
+Khi trả lời phỏng vấn với BBC trước trận tranh huy chương vàng, Tăng Tự-Cường (Tseng Tzu-chiang) cho biết IBA đưa ra các cáo buộc nhưng không có bằng chứng, nhằm mục đích giành lại quyền kiểm soát các giải đấu quyền anh quốc tế [^6]. Phía IBA cũng đưa ra những tuyên bố không nhất quán: Giám đốc điều hành Chris Roberts nói với BBC rằng cả hai đều có nhiễm sắc thể XY; trong khi đó, Chủ tịch Kremlev lại phát biểu tại buổi họp báo ngày 5 tháng 8 rằng nồng độ testosterone của cả hai là rất cao. Cả hai bên đều từ chối tiết lộ thêm chi tiết về các xét nghiệm [^6].
 
-Mặc dù Ủy ban Olympic Quốc tế đã nhiều lần bảo lãnh, nhưng trước thềm Olympic Paris 2024, vết thương này đã bị cố ý phóng đại. Nhà văn nổi tiếng J.K. Rowling [J.K. Rowling] và huyền thoại quần vợt Martina Navratilova [Martina Navratilova] cùng nhiều nhân vật công chúng xuyên quốc gia khác đã phát động những nghi ngờ vô cớ trên các nền tảng mạng xã hội, gộp chung đặc điểm sinh lý của Lâm Úc Đình với tranh chấp bình đẳng giới [^5][^20][^32][^42][^43].
+## Olympic Paris: Tranh cãi về giới tính và trận bán kết
 
-## Sự khiêu khích bằng cử chỉ "X" ở tứ kết và sự phản công thầm lặng
+Trong thời gian diễn ra Thế vận hội, J.K. Rowling và McGgan đã chia sẻ lại các bài báo trên mạng xã hội nhằm nghi ngờ tư cách thi đấu của Lâm Úc Đình (Lin Yu-ting), tuy nhiên Ủy ban Olympic Quốc tế (IOC) và Cục Thể thao đã phản hồi rằng cô hoàn toàn phù hợp với các quy định của giải đấu[^17]. Ban tổ chức môn quyền anh tại Olympic Paris cùng IOC cũng đã đưa ra tuyên bố để đáp trả những nghi vấn này[^18]. Các chính trị gia thuộc cả phe Xanh và phe Xanh lam tại Đài Loan cũng đã lên tiếng về vấn đề này[^19].
 
-Trong trận tứ kết hạng cân 57kg nữ tại Olympic Paris, Lâm Úc Đình đã giành chiến thắng tuyệt đối với tỷ số 5-0 trước vận động viên Thổ Nhĩ Kỳ Esra Yıldız Kahraman [^21]. Tuy nhiên, sau thất bại, Kahraman lại giơ hai tay tạo thành cử chỉ "X" trên võ đài, ám chỉ tranh chấp giới tính của Lâm Úc Đình [^21][^33]. Đối mặt với sự khiêu khích và rắc rối bên ngoài của đối thủ, Lâm Úc Đình đã chọn thể hiện phong thái một vận động viên cao cấp sau trận đấu, không đáp trả bằng hành vi nào, mà dùng thực lực tuyệt đối để khiến mọi tạp âm dừng lại bên lề võ đài.
+Tăng Tự Cường (Tseng Tzu-chiang) tiết lộ rằng sau khi đến Paris chuẩn bị cho giải đấu, Lâm Úc Đình đã đóng các tài khoản mạng xã hội và không xem các tin tức trên mạng; cô cũng mang theo những cuốn sách liên quan đến "kỹ năng thành công" để đọc nhằm ổn định tâm lý, giống như thói quen mỗi khi ra nước ngoài thi đấu trước đây[^6]. Trong thời gian diễn ra Olympic, cô từng chia sẻ: 「Vì chúng ta đã đứng ra để thi đấu, nên thực tế những sóng gió này tôi có thể xem là do đối thủ quá sợ hãi thực lực của chúng ta, nên mới lôi ra một vài khuyết điểm để gây chuyện; tôi sẽ chỉ thể hiện tốt hơn trên sàn đấu mà thôi.」[^20] Sau trận tranh huy chương vàng, cô cũng nói với BBC: 「Nếu bạn bị ảnh hưởng, điều đó có nghĩa là chiến thuật của họ đã thành công.」[^6]
 
-## Từ Paris đến Đài Bắc: "Giọng nói công lý" trong mắt truyền thông quốc tế
+Tại trận bán kết, Lâm Úc Đình đã đánh bại vận động viên Thổ Nhĩ Kỳ với tỉ số 5-0, trở thành vận động viên quyền anh đầu tiên trong lịch sử Đài Loan tiến vào trận tranh huy chương vàng Olympic. Sau trận đấu, đối thủ đã kéo dây rào để thể hiện sự lịch sự, nhưng sau đó lại đưa tay ra dấu X trên võ đài nhằm phản đối tranh cãi về giới tính; Lâm Úc Đình đã giữ thái độ bình tĩnh đối diện và bước xuống võ đài để gửi lời cảm ơn tới toàn thể khán giả[^21].
 
-Sau khi giành huy chương, đánh giá của truyền thông toàn cầu đã chuyển từ nghi ngờ sang tôn kính. DW (Đức) nhận định đây là chiến thắng "sức mạnh vượt qua hận thù" [^49]; BBC trình bày chi tiết về cách cô thực hiện lời hứa với mẹ [^3]. Tân Hoa Xã thẳng thắn rằng sự điềm tĩnh mà Lâm Úc Đình thể hiện khi đối mặt với áp lực dữ dội là một trong những biểu hiện tinh thần thể thao cảm động nhất của kỳ Olympic này [^50].
+## Trận tranh huy chương vàng
 
-## Sự phản kháng lặng lẽ và gánh nặng của hình mẫu thế hệ kế cận
+Associated Press (AP) mô tả rằng Lâm Úc Đình (Lin Yu-ting), với chiều cao 175 cm, thường cao hơn và thanh mảnh hơn đối thủ, giành chiến thắng nhờ kỹ thuật và góc đánh thay vì sức mạnh[^2]. Trong trận tranh huy chương vàng, ngay từ đầu cô đã sử dụng cú đấm thẳng tay trái dài để giữ khoảng cách với đối thủ Celimeta (20 tuổi), đồng thời kết nối các chuỗi đòn liên tiếp[^2]. AP cũng viết rằng cô đã nỗ lực duy trì sự bình tĩnh và điềm tĩnh trong suốt giải quyền anh tại Thế vận hội, ngay cả khi thế giới bên ngoài phần lớn đang chỉ trích và bóp méo hình ảnh của cô[^2]. Khi gọi video cho cô, Tổng thống Lại Thanh Đức (Lai Ching-te) đã đề cập đến việc cô giành chiến thắng với tỉ số 5-0 trong mọi trận đấu dưới áp lực khổng lồ[^7].
 
-Đối diện với nạn bắt nạt trên mạng xuyên quốc gia như mưa, Lâm Úc Đình đã chọn con đường khó khăn nhưng đầy phẩm giá: giữ im lặng, dùng thực lực để lên tiếng. Khi hồi tưởng lại hành trình này, cô từng thừa nhận: "Bị coi là hình mẫu thế hệ kế cận cũng là một áp lực." [^4]. Áp lực này không chỉ đến từ thắng thua trên sàn đấu, mà còn đến từ việc phải duy trì phẩm giá và sự bình tĩnh của một vận động viên giữa những lời buộc tội vô cớ.
+Mẹ của Lâm Úc Đình chia sẻ trước trận đấu rằng con gái đã yêu cầu bà tắt mạng xã hội để tập trung chuẩn bị; trước trận tranh huy chương vàng, con gái nói với bà rằng mình đã sẵn sàng và mong bà hãy yên tâm. Sau trận đấu, người mẹ nói: "Trong lòng tôi, con bé luôn là người giỏi nhất!". Trước đó, tại thành phố Tân Bắc, đã có hơn 2.000 người dân tập trung để theo dõi trực tiếp trận đấu[^6]. Theo báo cáo của AP, Lâm Úc Đình đã bật khóc nức nở khi bước lên bục nhận giải và nghe quốc ca Đài Loan[^2]. Cô quỳ xuống hôn sàn đấu, sau đó quay sang ôm lấy Tăng Tự-cường (Tseng Tzu-chiang), người đã đồng hành cùng cô một chặng đường dài[^3].
 
-## Sức gắn kết xã hội vượt qua chiến thắng và hiện tượng "Con gái Đài Loan"
+Tờ Sports Note đưa tin, Tăng Tự-cường đã phản hồi một cách hài hước sau trận đấu: "Cảm ơn J.K. Rowling đã để cả thế giới nhìn thấy niềm tự hào của Đài Loan. Chúng ta chỉ làm những gì chúng ta muốn làm, nghe những gì chúng ta muốn nghe, vì vậy chúng ta cũng phải trở thành phù thủy của chính mình."[^5]
 
-Quá trình giành huy chương vàng của Lâm Úc Đình tại Olympic Paris đã trở thành điểm gắn kết cảm xúc tập thể sâu sắc nhất trong xã hội Đài Loan trong những năm gần đây. Trong bối cảnh chính trị và dư luận bị chia rẽ cao độ, toàn bộ Đài Loan đã đồng lòng cổ vũ cho "con gái Đài Loan" này, bất kể đảng phái hay thế hệ. Câu chuyện của cô không chỉ thay đổi định kiến truyền thống về sức mạnh và ngoại hình của vận động viên nữ, mà còn trở thành tài liệu giảng dạy tốt nhất về bình đẳng giới và chống bắt nạt [^22][^23][^34].
+## Sau khi trở về Đài Loan: "Con gái Đài Loan", đại sứ công ích và các hợp đồng quảng cáo
 
-## Giá trị thương mại và hoạt động từ thiện: Phụ nữ là gì?
+Sau khi trở về Đài Loan, Lâm Úc Đình (Lin Yu-ting) đã chia sẻ về niềm vinh dự khi được gọi là "Con gái Đài Loan", đồng thời bày tỏ mong muốn trở thành một tấm gương tốt hơn[^22]. Cục Thể thao đã bổ nhiệm cô làm Đại sứ Công ích Quốc gia nhằm thúc đẩy các hoạt động chống bắt nạt học đường[^22]. Vào tháng 2 năm 2025, với tư cách là Đại sứ Công ích chống bắt nạt, cô đã tham gia diễn xuất trong video tuyên truyền phòng chống bắt nạt học đường của Bộ Giáo dục, đồng thời tự trải lòng về việc từng phải chịu đựng bạo lực ngôn từ do phong cách ăn mặc trung tính của mình[^23].
 
-Sau khi giành huy chương, tầm ảnh hưởng của Lâm Úc Đình đã vượt ra ngoài lĩnh vực thể thao. Cô được mời làm đại sứ cho nhãn hiệu băng vệ sinh **Kotex (Đáng tin)**, tuyên bố lớn trong quảng cáo "Phụ nữ là gì?", thách thức các khuôn mẫu giới tính và biến việc quảng bá thương mại thành một phong trào xã hội về sự tự định nghĩa của phụ nữ [^44][^46].
+Hợp đồng quảng cáo chính thức đầu tiên của cô sau khi giành huy chương vàng là một thương hiệu băng vệ sinh. Thương hiệu này đã ủng hộ đội quyền anh Ưng Ca (Yingge) suốt 10 năm qua, và vẫn sát cánh hỗ trợ cô ngay cả trong thời điểm tấm huy chương đồng tại Giải vô địch thế giới năm 2023 của cô bị hủy bỏ[^24]. Theo báo cáo từ 《Marie Claire》, thương hiệu này là "Băng vệ sinh Thiên Thiên" (Everyday Sanitary Napkin) của công ty Taiwan Kang Chiang[^25]. Video quảng cáo hình ảnh bắt đầu bằng thông điệp: "Nếu tôi không phải là con gái, thì thế nào mới là con gái? Con gái không sinh ra để sống theo tưởng tượng của bất kỳ ai", nhằm khuyến khích phụ nữ trở thành phiên bản mà chính họ mong muốn[^24].
 
-## Học vấn chuyên sâu và sự ra đời của giáo sư huy chương vàng
+## Giảng dạy và Giải thưởng
 
-Sau khi giành huy chương Olympic, Lâm Úc Đình không dừng lại. Cô đã học từ cử nhân, thạc sĩ đến tiến sĩ tại Khoa Thể dục Đại học Văn hóa; sau khi trở về nước trong vinh quang, cô được bổ nhiệm làm giảng viên chính thức cấp trợ lý tại Khoa Thể dục của Đại học Văn hóa [^24][^25]. Cô mang kinh nghiệm thực chiến đỉnh cao mười lăm năm vào giới học thuật và trở thành một "giáo sư huy chương vàng" của thể thao Đài Loan.
+Vào tháng 8 năm 2024, Hiệu trưởng Đại học Văn Hóa (Wunhwa University) Vương Tử Kỳ (Wang Tzu-chi) khi đến sân bay đón cô đã cho biết Lâm Úc Đình (Lin Yu-ting) sẽ giảng dạy tại khoa Thể dục của trường, đồng thời bắt đầu chương trình nghiên cứu tiến sĩ vào tháng 8[^26]. Cùng năm đó, cô tham dự buổi tập huấn giáo viên mới của Đại học Văn Hóa với tư cách là giảng viên chuyên trách khoa Thể dục[^27]. Trong một thông cáo báo chí của Đại học Văn Hóa đăng tải trên nền tảng tin tức của Trung ương Xã vào tháng 10 năm 2026, cô được gọi là Phó giáo sư thuộc khoa Thể dục của trường[^15].
 
-## Vinh dự nhận Giải thưởng Tinh hoa Vận động viên và sự công nhận cao nhất của quốc gia
+Tại Giải thưởng Tinh Anh (Elite Awards) ngày 20 tháng 12 năm 2024, Lâm Úc Đình đã được chọn là Nữ vận động viên xuất sắc nhất năm, trong khi Tăng Tự Cường (Tseng Tzu-chiang) được chọn là Huấn luyện viên xuất sắc nhất[^28]. Trong bài phát biểu nhận giải, cô đã trích dẫn lời của Socrates: "Chỉ qua giông bão mới có thể thành tựu nhân sinh, chỉ cần nội tâm đủ mạnh mẽ, ta có thể chiến thắng tất cả"[^29].
 
-Ngày 20 tháng 12 năm 2024, Cục Thể dục và Thể thao Bộ Giáo dục chính thức tổ chức "Lễ trao giải Tinh hoa Vận động viên năm 113", Lâm Úc Đình không hề do dự mà giành được "Giải vận động viên nữ xuất sắc nhất", còn người thầy của cô là Tăng Tự Cường cũng nhận được "Giải huấn luyện viên xuất sắc nhất" [^26][^27]. Trong bài phát biểu nhận giải, Lâm Úc Đình đã trích dẫn câu nói nổi tiếng của Socrates: "Trải qua phong ba bão táp để hoàn thành cuộc đời", khuyến khích mọi người đối mặt với nghịch cảnh [^27].
+Viện Hành chính đã trao tặng Huân chương Thể thao Quốc Quang cùng tiền thưởng, trong đó Lâm Úc Đình nhận tổng cộng NT$20,9 triệu. Khoản này bao gồm NT$20 triệu tiền thưởng huy chương vàng Olympic, và NT$900.000 tiền thưởng huy chương đồng từ Giải vô địch thế giới năm 2023 vốn đã bị hủy bỏ trước đó[^30].
 
-## Tiến bộ mới nhất năm 2026: Sự công nhận chính thức của World Boxing
+## Sân đấu sau Olympic: World Boxing và Á vận hội
 
-Sau một thời gian dài bị cấm thi đấu và khiếu nại về giới tính, vào ngày 19 tháng 3 năm 2026, Ủy ban Y tế của tổ chức quyền Anh quốc tế mới thành lập "World Boxing (WB)" đã gửi thư cho Hiệp hội Quyền Anh Trung Hoa Dân Quốc, công nhận tư cách tham dự của Lâm Úc Đình [^51][^52]. Quyết định này đã chấm dứt hoàn toàn bóng ma từ thời IBA, cho phép Lâm Úc Đình tham gia Giải Vô địch Châu Á năm 2026 và giành huy chương đồng, gỡ bỏ chướng ngại vật cho SEA Games Nagoya trong tương lai [^53][^54].
+Theo đưa tin từ TVBS, sau kỳ Olympic, các quy trình kiểm tra giới tính của World Boxing vẫn còn mơ hồ khiến Lâm Úc Đình (Lin Yu-ting) không thể tham gia thi đấu. Phải đến ngày 19 tháng 3 năm 2026, cô mới thông qua quá trình khiếu nại và được xác nhận có đủ điều kiện tham dự Giải vô địch quyền anh châu Á[^14]. Tờ _Tự do Thời báo_ đưa tin, Ủy ban Y tế của World Boxing đã gửi công văn tới Hiệp hội Quyền anh Trung Hoa Dân Quốc (Đài Loan), công nhận cô có tư cách thi đấu ở hạng cân nữ[^31]. Trong trận đấu đầu tiên sau Olympic tại Giải vô địch quyền anh châu Á năm 2026, cô đã giành được huy chương đồng[^32]; tại trận bán kết, cô để thua võ sĩ Triều Tiên Won Eun-kyung do bị đếm giây sau khi trượt chân ở thời điểm 23 giây trước khi trận đấu kết thúc[^14].
 
-## "Phong cách Lâm Úc Đình": Mỹ học trung tính và sự tự nhận diện của Gen Z
+Tại Á vận hội Aichi-Nagoya năm 2026, cô đã tăng hạng lên hạng cân 60kg nữ. Trong trận tranh huy chương vàng, cô đánh bại võ sĩ Dương Thành Vũ (Yang Chengyu) của Trung Quốc với tỉ số 5-0, bảo vệ thành công ngôi vô địch Á vận hội và trở thành vận động viên đầu tiên của quốc gia giành hai huy chương vàng liên tiếp ở bộ môn quyền anh tại Á vận hội[^15].
 
-Ảnh hưởng của Lâm Úc Đình đã vượt ra ngoài thể thao. Mái tóc ngắn, đường nét kiên nghị và phong cách ăn mặc trung tính tự tin của cô đã tạo ra sự cộng hưởng lớn trong thế hệ trẻ Đài Loan (Gen Z). Cô đã chứng minh rằng cái đẹp không chỉ có một tiêu chuẩn duy nhất; sức mạnh của phụ nữ có thể được định nghĩa thông qua mồ hôi và cơ bắp. Sự va chạm văn hóa này thúc đẩy sự hiểu biết sâu sắc hơn và tính bao dung của xã hội Đài Loan đối với phổ giới [^55][^56].
+## Bộ tứ mỹ nhân quyền anh
 
-## Tình thầy trò sâu nặng: Phương pháp huấn luyện "không phân biệt giới tính" của Tăng Tự Cường
-
-Trong quá trình huấn luyện Lâm Úc Đình, huấn luyện viên Tăng Tự Cường luôn tuân thủ nguyên tắc: "Nếu con gái tự rèn luyện như phụ nữ thì sẽ không bao giờ tiến bộ." [^10]. Ông sắp xếp cho Lâm Úc Đình tập luyện với các vận động viên nam, thậm chí để cô tham gia vào chu trình huấn luyện của đội nam. Mô hình huấn luyện phá vỡ rào cản giới tính này không chỉ nâng cao khả năng đối kháng của Lâm Úc Đình mà còn định hình tầm nhìn trên sàn đấu khác biệt của cô [^57][^58].
-
-## Hoàn trả tiền thưởng cho địa phương và vận động xã hội từ thiện
-
-Sau khi nhận được khoản tiền thưởng quốc gia lên tới hàng chục triệu đồng và các giải thưởng tài trợ doanh nghiệp, Lâm Úc Đình đã chọn cách tiếp tục đóng góp cho thể thao quyền Anh cơ sở và công ích xã hội bằng cách nhận lương trọn đời hàng tháng và quyên góp một phần tiền thưởng [^28][^29]. Cô nhiều lần tham gia các hoạt động vận động chống bắt nạt và trao quyền cho phụ nữ, dùng kinh nghiệm của bản thân để khuyến khích vô số người trẻ đang ở trong hoàn cảnh khó khăn [^30][^37].
-
-## Sự bảo vệ của cộng đồng Ngưng Ca: Vinh quang thị trấn nhỏ vươn ra thế giới
-
-Thành công của Lâm Úc Đình không phải là một kỳ tích đơn lẻ, mà là thành quả chung được bảo vệ bởi cộng đồng thể thao cơ sở khu vực Ngưng Ca, Tân Bắc Thành. Từ Trường Trung học Ngưng Ca đến Trường Công nghiệp Ngưng Ca, các huấn luyện viên địa phương và người dân nhiệt tình đã âm thầm cung cấp địa điểm và nguồn lực trong nhiều năm, biến thị trấn nhỏ này thành cái nôi của nhân tài quyền Anh Đài Loan.
-
-## Tình cảm cách mạng của "Tứ hậu Quyền Anh": Sự ủng hộ từ Trần Niệm Cầm, Hoàng Tiểu Văn và Ngô Thi Nghi
-
-Trong quá trình nữ quyền Anh Đài Loan vươn ra trường quốc tế, Lâm Úc Đình cùng các vận động viên xuất sắc như Trần Niệm Cầm [Chen Nianqin], Hoàng Tiểu Văn [Huang Xiaowen] và Ngô Thi Nghi [Wu Shiyi] được gọi chung là "Tứ hậu Quyền Anh Đài Loan". Họ đã hỗ trợ lẫn nhau, tập luyện chung và chia sẻ nước mắt trong vô số giải đấu trong và ngoài nước ở hạng cân của mình; tình cảm cách mạng sâu sắc này trở thành chỗ dựa tinh thần ấm áp nhất cho nhau [^36].
-
-## Vinh quang tại Roland Garros và người thầy gánh vác cả Đài Loan
-
-Khi tiếng chuông trận vàng vang lên, Lâm Úc Đình quỳ xuống sàn đấu hôn đất đỏ, sau đó cõng vững chắc huấn luyện viên Tăng Tự Cường trên lưng. Sự cõng này mang theo tình thầy trò không rời nửa đời, là hành trình gian khổ của quyền Anh Đài Loan từ hoang vu đến thế giới, và là một sự phản đòn mạnh mẽ hơn lời nói [^3][^5]. Lâm Úc Đình đã dùng nắm đấm của mình để chứng minh rằng sức mạnh thực sự không cần phải được biện hộ bằng lời nói, mà là khả năng ngẩng cao đầu tiến về khoảnh khắc vinh quang thuộc về mình khi đối mặt với sự bất công và nghi ngờ.
+Theo báo cáo từ TVBS, đội tuyển quyền anh Trung Hoa Dân Quốc (Đài Loan) đã giành được 6 suất tham dự Olympic Paris (4 nữ, 2 nam), với các nữ võ sĩ là Lâm Úc Đình, Trần Niệm-kim, Hoàng Tiêu-văn và Ngô Thi Nghi; truyền thông đã gọi họ là "Bộ tứ mỹ nhân quyền anh"[^33]. Sau thất bại tại Olympic Tokyo, Lâm Úc Đình đã ở lại để cùng tập luyện với Hoàng Tiêu-văn, người sau đó đã giành được tấm huy chương Olympic đầu tiên cho nền quyền anh Đài Loan[^12]. Trong một video trực tuyến, Tổng thống Lại Thanh Đức (Lai Ching-te) cho biết trong thời gian diễn ra Olympic Paris, dù Hoàng Tiêu-văn đã mất đi cơ hội do sai sót của trọng tài nhưng vẫn ở lại Paris để hỗ trợ huấn luyện và làm bạn tập, trong khi Trần Niệm-kim đã giành được huy chương đồng[^7].
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [TuanGiao International — Quyền Anh Olympic / Lâm Úc Đình giành huy chương vàng! Tổng hợp phân tích sâu về "tranh cãi giới tính"](https://global.udn.com/global_vision/story/8662/8151597) — Báo cáo của United News Agency
+[^1]: [Corner International — Quyền anh Olympic / Lin Yu-ting giành huy chương vàng! Tổng hợp phân tích chuyên sâu về "tranh cãi giới tính"](https://global.udn.com/global_vision/story/8662/8151597) — Lin Yu-ting đã đánh bại võ sĩ người Ba Lan Imane Khelif trong trận tranh huy chương vàng để giành lấy tấm huy chương vàng.
 
-[^2]: [Wikipedia — Lâm Úc Đình](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E9%83%81%E5%A9%B7) — Mục Wikipedia
+[^2]: [Associated Press (AP) — Võ sĩ Lin Yu-ting giành huy chương vàng, nối tiếp bước chân Imane Khelif khép lại một kỳ Olympic đầy rẫy những sự kiểm soát chặt chẽ](https://apnews.com/article/olympics-2024-boxing-lin-khelif-28d3e1a46ed8fe5c1aa6cd612e2561ca) — Lin Yu-ting cao 175 cm, thường cao hơn và mảnh khảnh hơn đối thủ, giành chiến thắng nhờ kỹ thuật và góc đánh; trong trận chung kết, cô đã kiểm soát khoảng cách bằng những cú chọc trái dài, đồng thời bài viết cũng mô tả sự nỗ lực giữ bình tĩnh của cô trong suốt kỳ Olympic.
 
-[^3]: [BBC News tiếng Trung — Lâm Úc Đình giành huy chương vàng Olympic Paris và thực hiện lời hứa với mẹ trong tranh chấp giới tính](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Báo cáo của BBC News tiếng Trung
+[^3]: [天下文化 (Skyland Culture) — Cuộc đời thực đằng sau tấm huy chương vàng Olympic của Lin Yu-ting](https://bookzone.cwgv.com.tw/article/34168) — Mô tả việc Lin Yu-ting theo thói quen đã đứng dậy và quỳ xuống hôn sàn đấu sau trận chung kết, cùng với thành tích thi đấu của cô sau khi gia nhập đội quyền anh.
 
-[^4]: [Báo chí viên — 【Lời thú nhận của vận động viên Olympic】 Lâm Úc Đình: Bị coi là hình mẫu thế hệ kế cận, cũng là một áp lực](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — Xem tài liệu bổ sung trong liên kết gốc
+[^4]: [BBC News tiếng Trung — Lin Yu-ting là ai: Từ việc học võ để bảo vệ người mẹ bị bạo hành đến cuộc chinh chiến tại trận chung kết quyền anh Olympic](https://www.bbc.com/zhongwen/trad/chinese-news-69254423) — Tiểu sử của Lin Yu-ting, mục đích ban đầu khi tập boxing là "bảo vệ mẹ", lời dặn dò của Tăng Tự-cường (Tseng Tzu-chiang) rằng "hãy tập luyện như một người con gái", thành tích thi đấu qua các năm và quá trình bị tước huy chương đồng vào năm 2023.
 
-[^5]: [TuanGiao International — Vận động viên quyền Anh Lâm Úc Đình bị nghi ngờ "không phải phụ nữ", cuộc chiến giới tính mà J.K. Rowling đã nhầm lẫn](https://global.udn.com/global_vision/story/8662/8131527) — Báo cáo của United News Agency
+[^5]: [Sports Note — 【Nhân vật】Người đàn ông mà Lin Yu-ting đã đứng dậy: "Chúng ta cũng phải trở thành phù thủy của chính mình, chỉ làm những gì chúng ta muốn và nghe những gì chúng ta muốn."](https://running.biji.co/index.php?q=news&act=info&id=110827) — Trải nghiệm huấn luyện của Tăng Tự-cường, cuộc đối thoại giữa thầy và trò sau vòng loại Olympic Rio, và phản hồi của ông về việc "trở thành phù thủy của chính mình" sau trận chung kết giành huy chương vàng.
 
-[^6]: [LBD Sports News — Bản tin Quyền Anh Olympic》Vấn đề giới tính bị hiểu sai nghiêm trọng, IOC đưa ra tuyên bố ủng hộ](https://www.ltsports.com.tw/article/172262) — Xem tài liệu bổ sung trong liên kết gốc
+[^6]: [BBC News tiếng Trung — Lin Yu-ting thực hiện lời hứa với mẹ giữa những tranh cãi về giới tính tại Olympic Paris khi giành huy chương vàng](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Chiến thắng 5-0 của Lin Yu-ting trong trận chung kết, chia sẻ từ mẹ cô và em họ Hứa Hạo-tường (Hsu Hao-hsiang), các diễn biến tiếp theo của IBA và Ủy ban Olympic Quốc tế, cùng cuộc phỏng vấn trước trận đấu của Tăng Tự-cường.
 
-[^7]: [Sports Notes — 【Nhân vật】 Người đàn ông mà Lâm Úc Đình gánh vác: "Chúng tôi cũng muốn trở thành phù thủy của chính mình"](https://running.biji.co/index.php?q=news&act=info&id=110827) — Xem tài liệu bổ sung trong liên kết gốc
+[^7]: [CNA — Tổng thống Lại chúc mừng qua video tới Lin Yu-ting và Trần Niệm-kim (Chen Nien-chin), khen ngợi tinh thần đồng hành tập luyện của Hoàng Tiêu-văn (Huang Hsiao-wen)](https://www.cna.com.tw/news/aspt/202408110200.aspx) — Lại Thanh-đức (Lai Ching-te) gọi video xuyên quốc gia chúc mừng Lin Yu-ting và Trần Niệm-kim, đề cập đến các trận thắng 5-0, việc huấn luyện viên đồng hành khoảng 15 năm, cũng như việc Hoàng Tiêu-văn ở lại Paris để hỗ trợ tập luyện.
 
-[^8]: [VERVE — Con đường ra đời của nữ quyền Anh Lâm Úc Đình—Cuộc cách mạng quyền Anh của huấn luyện viên Tăng Tự Cường](https://www.verve.com.tw/pages/coach-zengs-boxing-revolution-the-birth-of-gold-medal-boxing-queen-lin-yuting) — Xem tài liệu bổ sung trong liên kết gốc
+[^8]: [天下雜誌 (CommonWealth Magazine) — Người đứng sau tấm huy chương vàng Olympic, phỏng vấn độc quyền huấn luyện viên của Lin Yu-ting là Tăng Tự-cường: "Vận động viên đã hy sinh quá nhiều, và huấn luyện viên cũng vậy..."](https://www.cw.com.tw/article/5132247) — Tăng Tự-cường nói về chế độ ăn uống hàng ngày và kiểm soát cân nặng của vận động viên: nếu bữa trưa ăn nhiều hoặc uống trà sữa thì bữa tối phải tiết chế.
 
-[^9]: [United News Agency — Viết nên thành tích tốt nhất lịch sử Quyền Anh Đài Loan! Lâm Úc Đình chinh phục trận vàng Olympic với 11 câu chuyện nhỏ](https://udn.com/news/story/121721/8148581) — Báo cáo của United News Agency
+[^9]: [Yahoo News — Độc quyền / Người trợ giúp giành huy chương vàng của Lin Yu-ting, "người tập cùng" đã lộ diện! Lý Thừa-uy (Li Cheng-wei) là "đàn em khóa dưới tại Đại học Văn hóa"](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%9E%97%E9%83%81%E5%A9%B7%E5%A5%AA%E9%87%91%E5%B9%AB%E6%89%8B-%E9%99%AA%E7%B7%B4%E5%93%A1-%E7%8F%BE%E8%BA%AB-%E6%9D%8E%E6%89%BF%E5%A8%81%E6%98%AF-124700912.html) — Lý Thừa-uy là đàn em khóa dưới tại Đại học Văn hóa và là người tập cùng (sparring partner) của Lin Yu-ting.
 
-[^10]: [BBC News tiếng Trung — Lâm Úc Đình là ai: Từ việc tập luyện để bảo vệ mẹ sau bạo lực gia đình đến tham chiến trong trận chung kết quyền Anh Olympic](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Báo cáo của BBC News tiếng Trung
+[^10]: [TSNA News — Những thất bại tại Olympic của Lin Yu-ting đã trở thành động lực tinh thần giúp người tập cùng Lý Thừa-uy trở thành vận động viên quốc gia](https://tsna.com/article/68148) — Lý Thừa-uy được Tăng Tự-cường kéo đến để tập luyện cùng Lin Yu-ting từ khi còn theo học trường Công thương Ưng Ca, là người tập cùng lâu nhất trong đội.
 
-[^11]: [Tianxia Culture — Cuộc đời thực sự đằng sau huy chương vàng Olympic của Lâm Úc Đình](https://bookzone.cwgv.com.tw/article/34168) — Bài viết chuyên đề của Tianxia Culture
+[^11]: [Business Weekly — Giống đối thủ hơn cả đối thủ! Lý Thừa-uy, người tập cùng giành huy chương vàng của Lin Yu-ting](https://www.businessweekly.com.tw/careers/blog/3016578) — Tăng Tự-cường đã tìm kiếm Lý Thừa-uy để làm người tập cùng vào năm 2015, "Lin tập gì, Lý tập đó", và đã đồng hành được 9 năm.
+
+[^12]: [The Reporter — 【Lời tự sự của vận động viên Olympic】Lin Yu-ting: Việc bị coi là hình mẫu cho hậu bối cũng là một loại áp lực](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — Lin Yu-ting nói về thất bại tại Olympic Tokyo năm 2021, việc chuyển sang hỗ trợ Hoàng Tiêu-văn tập luyện và áp lực khi trở thành hình mẫu; bài báo cũng đề cập đến việc Tăng Tự-cường đã thuê chuyên gia tâm lý thể thao.
+
+[^13]: [Liberty Sports — Quyền anh Olympic: Không e ngại tranh cãi giới tính trước trận đấu! Lin Yu-ting thắng áp đảo 5-0 giành chiến thắng đầu tiên tại Olympic và tiến vào top 8](https://www.ltsports.com.tw/article/171986) — Lin Yu-ting đã để thua 2-3 trước võ sĩ người Philippines Nesthy Petecio trong vòng 16 đội tại Olympic Tokyo.
+
+[^14]: [TVBS News — Lin Yu-ting giành huy chương đồng tại Giải vô địch quyền anh châu Á! Trận đấu kịch tính với Triều Tiên, bị trượt chân dẫn đến bị đếm giây và "tiếc nuối thua đối thủ mạnh"](https://news.tvbs.com.tw/sports/3170909) — Lin Yu-ting đã thông qua đơn khiếu nại vào ngày 19 tháng 3 năm 2026 và được xác nhận có thể tham gia Giải vô địch châu Á; cô đã để thua võ sĩ Triều Tiên Won Eun-gyeong trong trận bán kết và giành huy chương đồng.
+
+[^15]: [CNA News Platform — Phó giáo sư Lin Yu-ting hai lần liên tiếp vô địch quyền anh tại Á vận hội, Đại học Văn hóa dẫn đoàn đón mừng huy chương vàng](https://www.cna.com.tw/postwrite/chi/446002) — Thông cáo báo chí của Đại học Trung Quốc Văn Hóa: Phó giáo sư Lin Yu-ting đã đánh bại Dương Thành-vũ (Yang Cheng-yu) với tỷ số 5-0 ở hạng cân 60kg nữ tại Á vận hội Aichi-Nagoya năm 2026, bảo vệ thành công chức vô địch.
+
+[^16]: [Associated Press (AP) — IOC bãi nhiệm cơ quan quản lý quyền anh, nhưng môn thể thao này vẫn sẽ góp mặt tại Thế vận hội Paris](https://apnews.com/article/boxing-olympics-ioc-iba-paris-1338983c3c1d0ccef6936f8a3fe34154) — IOC chấm dứt tư cách Olympic của IBA do các vấn đề về quản trị; IBA đang đối mặt với khoản nợ gần 20 triệu USD và sự phụ thuộc tài chính vào Tập đoàn Khí đốt Gazprom của Nga
+
+[^17]: [PTS News — J.K. Rowling nghi ngờ giới tính của 'Nữ hoàng quyền anh Đài Loan' Lâm Úc Đình; IOC và Cục Thể thao: Phù hợp với quy định thi đấu](https://news.pts.org.tw/article/707611) — J.K. Rowling và McGran chia sẻ bài viết trên mạng xã hội nhằm nghi ngờ tư cách tham gia thi đấu của Lâm Úc Đình, IOC và Cục Thể thao đã phản hồi rằng cô hoàn toàn phù hợp với các quy định
+
+[^18]: [PTS News — Vấn đề giới tính của Lâm Úc Đình lại bị lợi dụng để gây tranh cãi; IOC nhấn mạnh tư cách thi đấu không có vấn đề gì](https://news.pts.org.tw/article/708105) — Nhóm công tác quyền anh của Ban tổ chức Olympic Paris và IOC đã ra tuyên bố phản hồi trước những nghi vấn về giới tính của Lâm Úc Đình
+
+[^19]: [TVBS News — Ủng hộ 'Nữ hoàng quyền anh Đài Loan'! Phe Xanh và phe Xanh lam kêu gọi chính phủ kiện J.K. Rowling xuyên đại dương](https://news.tvbs.com.tw/politics/2572757) — Các chính trị gia thuộc phe Xanh và phe Xanh lam tại Đài Loan đã lên tiếng phản hồi trước những nghi vấn của Rowling và McGran đối với Lâm Úc Đình
+
+[^20]: [UDN — Viết nên thành tích xuất sắc nhất lịch sử quyền anh Đài Loan! 11 câu chuyện nhỏ về việc Lâm Úc Đình tiến vào trận tranh huy chương vàng Olympic](https://udn.com/news/story/121721/8148581) — Lâm Úc Đình nói về việc đối thủ lợi dụng tranh cãi giới tính để 'làm trò' và phản hồi rằng cô 'sẽ chỉ thể hiện tốt hơn trên sàn đấu'
+
+[^21]: [PTS News — Lâm Úc Đình thắng 5-0 tiến vào trận tranh huy chương vàng, viết lại thành tích quyền anh Olympic tốt nhất của quốc gia](https://news.pts.org.tw/article/708890/amp) — Tại trận bán kết, cô đã đánh bại vận động viên Thổ Nhĩ Kỳ với tỷ số 5-0; đối thủ đã ra dấu tay chữ X trên sàn đấu sau trận đấu, nhưng Lâm Úc Đình vẫn giữ thái độ bình tĩnh đối mặt
+
+[^22]: [CNA — Lâm Úc Đình khi trở về Đài Loan cảm thấy vinh dự khi được gọi là 'Con gái Đài Loan', hy vọng trở thành tấm gương tốt hơn để soi sáng cho người khác](https://www.cna.com.tw/news/aspt/202408130041.aspx) — Lâm Úc Đình chia sẻ về danh hiệu 'Con gái Đài Loan' và trách nhiệm làm gương, đồng thời được Cục Thể thao bổ nhiệm làm Đại sứ Công ích Quốc gia phòng chống bạo lực học đường
+
+[^23]: [UDN — Lâm Úc Đình tự tiết lộ từng bị bạo lực ngôn từ vì phong cách ăn mặc trung tính, kêu gọi những người đứng xem hãy lên tiếng ủng hộ](https://udn.com/news/story/6885/8557753) — Với tư cách là Đại sứ Công ích phòng chống bạo lực học đường, Lâm Úc Đình đã tham gia diễn xuất trong video tuyên truyền của Bộ Giáo dục và tự tiết lộ việc từng bị bạo lực ngôn từ do phong cách ăn mặc trung tính
+
+[^24]: [PTS News — Video hình ảnh khuyến khích phụ nữ; Lâm Úc Đình làm đại diện cho các sản phẩm vệ sinh phụ nữ](https://news.pts.org.tw/article/711250) — Lâm Úc Đình trở thành người đại diện cho một thương hiệu băng vệ sinh, thương hiệu này đã hỗ trợ đội quyền anh Ưng Ca trong 10 năm; video quảng bá bắt đầu bằng câu hỏi 'Nếu tôi không phải là con gái, thì thế nào mới là con gái?'
+
+[^25]: [Marie Claire — Thế nào là hình mẫu của một người phụ nữ? Tranh cãi giới tính của Lâm Úc Đình và sự việc Trần Thi Viện đón máy bay cho thấy tư tưởng bài xích phụ nữ trên mạng luôn tồn tại](https://www.marieclaire.com.tw/community/opinion/80924) — Lâm Úc Đình trở thành đại sứ thương hiệu cho dòng sản phẩm băng vệ sinh 'Tian Tian' của Kang Chiang Đài Loan
+
+[^26]: [Economic Daily News — Hiệu trưởng Đại học Văn Hóa dẫn đoàn đón mừng chủ nhân huy chương vàng Olympic Lâm Úc Đình khải hoàn trở về](https://www.1111.com.tw/news/jobns/157257) — Hiệu trưởng Đại học Văn Hóa đã đón máy bay và cho biết Lâm Úc Đình sẽ đảm nhiệm giảng dạy tại khoa thể dục và bắt đầu chương trình tiến sĩ vào tháng 8
+
+[^27]: [Economic Daily News — Lâm Úc Đình xuất hiện tại hội nghị tập huấn giáo viên mới của Đại học Văn Hóa](https://www.1111.com.tw/news/jobns/157508) — Lâm Úc Đình tham dự buổi tập huấn giáo viên mới năm 2024 của Đại học Văn Hóa, cô sẽ đảm nhiệm vị trí giảng viên chuyên trách tại khoa thể dục
+
+[^28]: [Yahoo Sports — Giải thưởng Tinh Anh: Thầy trò Tăng Tự Cường và Lâm Úc Đình cùng đoạt giải, chiếm 3 trên 8 hạng mục về quyền anh](https://tw.sports.yahoo.com/news/%E7%B2%BE%E8%8B%B1%E7%8D%8E-%E6%9B%BE%E8%87%AA%E5%BC%B7-%E6%9E%97%E9%83%81%E5%A9%B7%E5%B8%AB%E5%BE%92%E9%9B%99%E7%8D%B2%E7%8D%8E-8%E7%8D%8E%E9%A0%85%E6%8B%B3%E6%93%8A%E5%B0%B1%E4%BD%94-%E5%8D%8A-113521495.html) — Giải thưởng Tinh Anh: Lâm Úc Đình giành giải Vận động viên nữ xuất sắc nhất, Tăng Tự Cường giành giải Huấn luyện viên xuất sắc nhất
+
+[^29]: [ETtoday Sports — Tin nhanh/Công bố Vận động viên nam và nữ xuất sắc nhất năm của Giải thưởng Tinh Anh: Đường Gia Hồng và Lâm Úc Đình đoạt giải](https://sports.ettoday.net/news/2877588) — Trong bài phát biểu nhận giải, Lâm Úc Đình đã trích dẫn câu nói của Socrates: 'Chỉ qua sóng gió mới có thể thành tựu cuộc đời'
+
+[^30]: [PTS News — Tổng tiền thưởng Quốc Quang đạt kỷ lục 460 triệu Đài đô la, Lâm Úc Đình nhận 20,9 triệu Đài đô la nhờ huy chương vàng Olympic](https://news.pts.org.tw/article/727734) — Tổng số tiền thưởng Quốc Quang của Lâm Úc Đình là NT$20.9 million (bao gồm NT$20 million cho huy chương vàng Olympic và NT$900,000 tiền thưởng bổ sung cho huy chương đồng Giải vô địch thế giới)
+
+[^31]: [Tự do Thời báo — Quyền anh: World Boxing chính thức công nhận Lin Du Ting tham gia thi đấu, cảm ơn Hiệp hội nước nhà đã phối hợp hết mình](https://sports.ltn.com.tw/news/breakingnews/5378222) — Hội đồng Y tế của World Boxing đã gửi thư tới Hiệp hội Quyền anh Trung Hoa Dân Quốc, xác nhận Lin Du Ting có đủ tư cách thi đấu ở hạng cân nữ
+
+[^32]: [United News Agency — Quyền anh / Không thể vượt qua đối thủ giành huy chương bạc Á vận hội Triều Tiên, Lin Du Ting giành huy chương đồng tại Giải vô địch châu Á trong trận đấu đầu tiên sau Olympic](https://udn.com/news/story/7001/9424587) — Lin Du Ting đã giành được huy chương đồng tại Giải vô địch quyền anh châu Á năm 2026, đây là trận đấu đầu tiên của cô sau kỳ Olympic
+
+[^33]: [TVBS News — Olympic Paris / Bốn nữ võ sĩ vàng quyền anh quyết tâm chinh phục "Grand Slam huy chương", Lin Du Ting muốn xóa tan nỗi tiếc nuối từ Olympic Tokyo](https://news.tvbs.com.tw/sports/2558979) — Lin Du Ting, Chen Nien-chin, Huang Hsiao-wen và Wu Shih-yi được mệnh danh là "Bốn nữ võ sĩ vàng quyền anh", đội tuyển quyền anh Trung Hoa Dân Quốc đã giành được 6 suất tham dự Olympic

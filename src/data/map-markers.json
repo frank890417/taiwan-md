@@ -4004,6 +4004,17 @@
     "city": "台北"
   },
   {
+    "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+    "lat": 23.56326,
+    "lng": 119.577553,
+    "category": "history",
+    "region": "islands",
+    "link": "/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+    "lang": "zh-TW",
+    "desc": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
+    "city": "澎湖"
+  },
+  {
     "title": "林爽文事件：清帝國如何重新學會治理臺灣",
     "lat": 24.085998,
     "lng": 120.531476,
@@ -4078,6 +4089,17 @@
     "link": "/history/%E6%BA%90%E8%88%88%E7%89%9B%E8%88%87%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E6%AD%B7%E5%8F%B2",
     "lang": "zh-TW",
     "desc": "台灣牛肉自給率僅4.6%，卻在2024年誕生全國第一個民間認證牛品種。源興牛的故事，是一個94歲的老人、19頭野生黑牛、和一碗凌晨的溫體湯共同寫成的產業突圍劇本。",
+    "city": "台南"
+  },
+  {
+    "title": "熱蘭遮城：一座城堡的四個名字",
+    "lat": 22.990415,
+    "lng": 120.153214,
+    "category": "history",
+    "region": "south",
+    "link": "/history/%E7%86%B1%E8%98%AD%E9%81%AE%E5%9F%8E",
+    "lang": "zh-TW",
+    "desc": "1624 年，荷蘭人在台南大員重建一座堡壘，先叫奧蘭治城，兩年後改名熱蘭遮城。1662 年鄭成功圍城九個月，荷蘭長官揆一交出鑰匙，這裡變成明鄭的王城。清代城牆被拆去蓋億載金城，日本時代內城被剷平，2022 年文化部把殘蹟合併更名為「熱蘭遮堡遺構」。四個名字，四段統治。",
     "city": "台南"
   },
   {
@@ -4200,6 +4222,17 @@
     "lang": "zh-TW",
     "desc": "1982 年，低放射性廢棄物被送進達悟族人的家園；1998 年，族人以「驅逐惡靈」要求搬走，台電也曾承諾 2002 年底前遷出。四十多年後，蘭嶼留下的不只是一座貯存場，而是一場關於安全、同意與誰能決定家園的未完協商。",
     "city": "台東"
+  },
+  {
+    "title": "西班牙北台灣十六年：從和平島到淡水的殖民嘗試",
+    "lat": 25.17145,
+    "lng": 121.440294,
+    "category": "history",
+    "region": "north",
+    "link": "/history/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E5%8F%B0%E7%81%A3%E5%8D%81%E5%85%AD%E5%B9%B4",
+    "lang": "zh-TW",
+    "desc": "1626 年 5 月，西班牙艦隊從馬尼拉北上，在雞籠港登陸，於和平島築起聖薩爾瓦多城。十六年間，他們在淡水建聖多明哥城、派人進入台北盆地探路、與噶瑪蘭族衝突，卻始終靠馬尼拉補助維持駐軍。1642 年 8 月，荷蘭人攻陷雞籠，西班牙退出台灣，留下的只有地名與幾段城牆。",
+    "city": "新北"
   },
   {
     "title": "西螺大橋：十五年停擺，七個月把南北接起來",
@@ -7118,14 +7151,14 @@
   },
   {
     "title": "陳映真：從竹南到北京的統派文學良心",
-    "lat": 24.55615,
-    "lng": 120.824126,
+    "lat": 22.667287,
+    "lng": 121.493061,
     "category": "people",
-    "region": "central",
+    "region": "east",
     "link": "/people/%E9%99%B3%E6%98%A0%E7%9C%9F",
     "lang": "zh-TW",
-    "desc": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年創立中國統一聯盟並任首任主席，2006 年中風後遷居北京、2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中以「許南村」筆名介入的關鍵理論家。",
-    "city": "苗栗"
+    "desc": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年與胡秋原等人成立中國統一聯盟並任首任主席，2006 年定居北京、同年中風，2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中反駁余光中等人批評的主要代表之一。",
+    "city": "台東"
   },
   {
     "title": "陳樹菊：一個台東菜販，用五十年菜錢捐出數千萬的慈善人生",
@@ -8976,6 +9009,17 @@
     "city": "台北"
   },
   {
+    "title": "قلعة زيلانديا: أربعة أسماء لقلعة واحدة",
+    "lat": 22.999707,
+    "lng": 120.161353,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "في عام 1624، أعاد الهولنديون بناء حصن في دايوان بمدينة تاي난، سُمي أولاً قلعة أورانج، ثم تغير اسمه إلى قلعة زيلانديا بعد عامين. في عام 1662، حاصر كوجينغ (Zheng Chenggong) القلعة لمدة تسعة أشهر حتى سلم الحاكم الهولندي كوي (Aguilar) المفاتيح، لتتحول إلى مدينة ملكية لمملكة تايوان (مينغ تشنغ). خلال عهد أسرة تشينغ، هُدمت الأسوار لبناء حصن إيتشاي جين تشنغ، وفي العصر الياباني سُوِّي الجزء الداخلي بالأرض، وفي عام 2022 دمجت وزارة الثقافة البقايا وأطلقت عليها اسم \"بقايا قلعة زيلانديا\". أربعة أسماء، لأربعة فترات حكم.",
+    "city": "台南"
+  },
+  {
     "title": "كان أول مرة لكرة القاعد التايوانية في بوابة كيو، فريقاً من المدرسة الزراعية في تشياي: كيف افتتحت الباب أمام تايوان؟",
     "lat": 23.478929,
     "lng": 120.449378,
@@ -9405,6 +9449,17 @@
     "city": "南投"
   },
   {
+    "title": "Fort Zeelandia: Vier Namen für eine Festung",
+    "lat": 22.997226,
+    "lng": 120.168441,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "1624 errichteten die Niederländer eine Festung in Dajuan, Tainan, die zunächst Fort Oranje hieß und zwei Jahre später in Fort Zeelandia umbenannt wurde. 1662 belagerte Koxinga die Festung neun Monate lang; nach der Kapitulation des niederländischen Gouverneurs Coen wurde sie zur königlichen Residenz der Ming-Zheng-Dynastie. Während der Qing-Zeit wurden die Mauern für den Bau der Yizai Jin Cheng abgetragen, in der japanischen Ära wurde die Innenstadt eingeebnet, und 2022 vereinte das Kulturministerium die Überreste unter dem Namen „Relikte des Fort Zeelandia“. Vier Namen, vier Herrschaftsepochen.",
+    "city": "台南"
+  },
+  {
     "title": "Taichung Hafen: Wie ein Stein die Wushe zum Meer führte und die Küste neu schrieb",
     "lat": 24.155026,
     "lng": 120.66951,
@@ -9766,6 +9821,17 @@
     "lang": "en",
     "desc": "On April 17, 1954, Tsou intellectual Uong'e Yata'uyungana was executed by firing squad at the Anken execution ground. Alishan, celebrated as a scenic destination, is in truth a mountain of memory rewritten by two empires in succession.",
     "city": "嘉義"
+  },
+  {
+    "title": "Fort Zeelandia: A Castle with Four Names",
+    "lat": 22.994265,
+    "lng": 120.156708,
+    "category": "history",
+    "region": "south",
+    "link": "/en/history/fort-zeelandia",
+    "lang": "en",
+    "desc": "In 1624, the Dutch rebuilt a fort at Dayuan in Tainan, first naming it Fort Oranje, then renaming it Fort Zeelandia two years later. In 1662, after a nine-month siege by Koxinga, Dutch Governor Coyett handed over the keys, and it became the Ming-Zheng royal capital. During the Qing era, walls were dismantled to build Eternal Golden Castle; in the Japanese era, the inner fortress was leveled; in 2022, the Ministry of Culture merged the remnants and renamed them the \"Fort Zeelandia Remains.\" Four names, four regimes.",
+    "city": "台南"
   },
   {
     "title": "Taichung Port: How a Single Truckload of Stones Pushed Wūqí Toward the Sea and Rewrote the Coastline",
@@ -10219,6 +10285,17 @@
     "city": "台北"
   },
   {
+    "title": "Fort Zeelandia: los cuatro nombres de una fortaleza",
+    "lat": 22.998502,
+    "lng": 120.167549,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "En 1624, los holandeses reconstruyeron un fuerte en Dawan, Tainan, llamado inicialmente Fort Oranje y renombrado Fort Zeelandia dos años después. En 1662, tras nueve meses de asedio por Koxinga, el gobernador holandés entregó las llaves, convirtiéndolo en la ciudad real del Reino de Tungning. Durante la dinastía Qing, sus muros fueron desmantelados para construir el Yizai Jin Cheng; en la era japonesa, la ciudad interior fue nivelada, y en 2022, el Ministerio de Cultura fusionó los restos bajo el nombre de «Restos del Fuerte Zeelandia». Cuatro nombres, cuatro periodos de dominio.",
+    "city": "台南"
+  },
+  {
     "title": "Taichung: Cómo una piedra empujó a Wūqí hacia el mar y reescribió la costa",
     "lat": 24.15242,
     "lng": 120.681177,
@@ -10657,6 +10734,17 @@
     "lang": "zh-TW",
     "desc": "À 7 h 30 du matin, sous les vieux arbres au bord du parc Yongkang, des grands-pères waishengren sont assis sur les bancs de pierre, journal du matin à la main. En 1922, les Japonais y planifièrent Shōwachō ; les enseignants et personnels de l’Université impériale de Taipei vivaient dans les dortoirs de style japonais du 7, rue Qingtian. Après 1947, des fonctionnaires waishengren et des professeurs de l’Université nationale de Taïwan reprirent ces mêmes logements : Ma Ting-ying s’installa à Qingtian 76, Zhou Dewei dans l’actuelle Wistaria Tea House. En 1958, Yang Bing-yi ouvrit Din Tai Fung comme commerce d’huile alimentaire sur la section 2 de Xinyi Road ; en 1972, il se mit à vendre des xiaolongbao. Aujourd’hui, dans la file qui s’étire jusqu’au virage de Jinshan South Road, on entend plus de japonais et de coréen que de mandarin. Trois générations d’habitants se superposent sur une même rue de 600 mètres.",
     "city": "台北"
+  },
+  {
+    "title": "Fort Zeelandia : un fort aux quatre noms",
+    "lat": 22.995216,
+    "lng": 120.161801,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "En 1624, les Néerlandais reconstruisent un fort à Tayouan (Tainan), d'abord nommé Fort Orange, puis rebaptisé Fort Zeelandia deux ans plus tard. En 1662, Koxinga assiège le fort pendant neuf mois ; le gouverneur néerlandais Coyett remet les clés, et le lieu devient la capitale du royaume de Tungning. Sous la dynastie Qing, les murailles sont démolies pour construire le Fort de l'Or Éternel ; à l'époque japonaise, le fort intérieur est rasé. En 2022, le ministère de la Culture fusionne les vestiges et les renomme « vestiges du Fort Zeelandia ». Quatre noms, quatre périodes de domination.",
+    "city": "台南"
   },
   {
     "title": "Les déchets nucléaires de Lanyu : promis pour 2002, quarante ans de barils jaunes laissés sur place",
@@ -11220,6 +11308,17 @@
     "city": "苗栗"
   },
   {
+    "title": "ज़ीलैंडिया किला: एक किले के चार नाम",
+    "lat": 23.000511,
+    "lng": 120.168902,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "1624 में, डच लोगों ने ताइनान के दयुआन (Dauuan) में एक किला बनाया, जिसे पहले ऑरेंज किला कहा गया और दो साल बाद इसका नाम बदलकर ज़ीलैंडिया किला कर दिया गया। 1662 में झेंग चेंग-गोंग (Zheng Chenggong) द्वारा नौ महीने तक घेराबंदी किए जाने के बाद, डच अधिकारी कॉइपर (Coijers) ने इसकी चाबियाँ सौंप दीं, जिससे यह मिंग-झेंग राजवंश का शाही शहर बन गया। किंग राजवंश के दौरान इसकी दीवारों को ईचीज़ाई स्वर्ण किले (Yizicai Golden Fort) के निर्माण के लिए हटा दिया गया, जापानी शासन के दौरान आंतरिक किले को समतल कर दिया गया, और 2022 में संस्कृति मंत्रालय ने इन अवशेषों को मिलाकर \"ज़ीलैंडिया किला अवशेष\" (Fort Zeelandia Relics) नाम दिया। चार नाम, चार शासन काल।",
+    "city": "台南"
+  },
+  {
     "title": "ताइचुंग बंदरगाह: एक पत्थर ने कैसे वूची को समुद्र की ओर धकेला, और तट रेखा को फिर से लिख दिया",
     "lat": 24.150516,
     "lng": 120.667475,
@@ -11737,6 +11836,17 @@
     "city": "南投"
   },
   {
+    "title": "Fort Zeelandia: Empat Nama untuk Sebuah Benteng",
+    "lat": 22.99411,
+    "lng": 120.16145,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Pada tahun 1624, orang Belanda membangun kembali sebuah benteng di Dawan, Tainan, yang awalnya bernama Fort Oranje, lalu berganti nama menjadi Fort Zeelandia dua tahun kemudian. Pada tahun 1662, Koxinga mengepung benteng tersebut selama sembilan bulan hingga Gubernur Coen menyerahkan kunci, menjadikannya kota kerajaan Ming Zheng. Pada masa Dinasti Qing, temboknya dibongkar untuk membangun Yizai Jincheng, dan pada era Jepang, bagian dalam benteng diratakan. Pada tahun 2022, Kementerian Kebudayaan menggabungkan sisa-sisa tersebut dan mengubah namanya menjadi \"Situs Fort Zeelandia\". Empat nama, empat periode pemerintahan.",
+    "city": "台南"
+  },
+  {
     "title": "Pelabuhan Taichung: Bagaimana Sebuah Batu Mendorong Wuqi ke Laut, dan Menulis Ulang Pesisir",
     "lat": 24.140408,
     "lng": 120.670834,
@@ -11792,15 +11902,15 @@
     "city": "新北"
   },
   {
-    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
-    "lat": 25.02697,
-    "lng": 121.565887,
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Anda Menekan \"Deklarasi Sesuai\", Siapa yang Anda Beri Kuasa",
+    "lat": 24.987166,
+    "lng": 121.295287,
     "category": "lifestyle",
     "region": "north",
     "link": "/lifestyle/ezway",
     "lang": "zh-TW",
-    "desc": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
-    "city": "台北"
+    "desc": "Ponsel bergetar, notifikasi menampilkan deretan nama barang yang tak terlalu dipahami, Anda menekan \"Deklarasi Sesuai\", dan secara hukum yang selesai adalah sebuah surat kuasa pengurusan kepabeanan. Sebanyak 7,59 juta orang di Taiwan pernah mendaftar di aplikasi ini. Setelah sebuah unggahan viral pada Agustus 2026, banyak orang baru pertama kali mencari tahu siapa yang mengoperasikannya: Gateway Information Network Taiwan (GIN), perusahaan tercatat bursa yang sahamnya 36,11% dipegang Kementerian Keuangan, kurang dari separuh. Pada saat yang sama, ambang bebas pajak NT$2.000 untuk kedua kalinya diusulkan pemerintah untuk diturunkan. Siapa yang menanggung biaya jalan pintas ini, dan siapa yang sejak awal tak pernah sempat bersuara.",
+    "city": "桃園"
   },
   {
     "title": "Jembatan Taipei Air Terjun Motor: Energi Rakyat di Aliran Baja dan Estetika Perkotaan",
@@ -15598,6 +15708,17 @@
     "city": "新北"
   },
   {
+    "title": "ゼーランディア城：一つの城が持つ四つの名前",
+    "lat": 22.99082,
+    "lng": 120.162064,
+    "category": "history",
+    "region": "south",
+    "link": "/ja/history/fort-zeelandia",
+    "lang": "ja",
+    "desc": "1624年、オランダ人が台南の大員に要塞を再建し、当初はオルラニエ城と名付けられたが、2年後にゼーランディア城へと改名された。1662年には鄭成功による9ヶ月間の包囲戦を経て、オランダ総督が鍵を引き渡し、明鄭の王城となった。清代には城壁が取り壊され億載金城の建設に用いられ、日本統治時代には内城が平らにならされた。2022年、文化部はこれらの遺構を統合し「ゼーランディア堡遺構」と改称した。四つの名前は、四つの統治時代を象徴している。",
+    "city": "台南"
+  },
+  {
     "title": "円山大飯店：赤い宮殿の秘密のトンネルと権力交代",
     "lat": 25.039225,
     "lng": 121.560221,
@@ -15849,6 +15970,17 @@
     "lang": "ja",
     "desc": "帝国の警察が残した監視文書の中に、台湾人がいかに抵抗したかの地図が隠されていた。1920年代、議会請願・農民組合・地下共産党という三つの路線が同時に燃え上がり、互いに燃え移っていった",
     "city": "台中"
+  },
+  {
+    "title": "スペイン北台湾十六年：平和島から淡水への植民地化の試み",
+    "lat": 25.162057,
+    "lng": 121.43811,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/spanish-northern-taiwan-1626-1642",
+    "lang": "ja",
+    "desc": "1626年5月、スペイン艦隊がマニラから北上し、キールン港に上陸、平和島にサン・サルバドル城を築いた。十六年間、彼らは淡水にサント・ドミンゴ城を建設し、台北盆地へ探検隊を派遣し、カバラン族と衝突したが、常にマニラからの補助金で駐軍を維持していた。1642年8月、オランダ軍がキールンを陥落させ、スペインは台湾から撤退し、地名といくつかの城壁だけを残した。",
+    "city": "新北"
   },
   {
     "title": "台中州庁：一つの行政庁舎がいかに都市を秩序立て、市民によって再利用されたか",
@@ -16113,6 +16245,17 @@
     "lang": "ja",
     "desc": "1895年の乙未の役（台湾割譲戦争）において、三人の外国人が最も重要な外語目撃文献を残した——日本の写真師・遠藤誠の凱旋アルバム、アメリカ人記者・ダビッドソンの従軍手帳、日本の牧師・細川瀏の渡台日記。問題は彼らが何を見たかではなく、誰のために見たかだ。",
     "city": "台南"
+  },
+  {
+    "title": "東寧王国：二十一年、台湾を国号に刻んだ王朝",
+    "lat": 23.578406,
+    "lng": 119.576746,
+    "category": "history",
+    "region": "islands",
+    "link": "/ja/history/tungning-kingdom",
+    "lang": "ja",
+    "desc": "1662年2月、オランダ長官コイエットがゼーランディア城で鍵を引き渡し、鄭成功（てい・せいこう／チェン・チョンコン）がこの島を「東寧」に変えました。その後二十一年、鄭氏は一府二州三司を置き、軍隊を各地に屯田させ、陳永華（ちん・えいか／チン・ヨンホア）を派遣して国政を総理し、日本やイギリス東インド会社と通商しました。1683年7月の澎湖海戦で施琅（し・ろう／シー・ラン）が劉国軒（りゅう・こくけん／リュウ・コクケン）の水師を破り、10月に鄭克塽（てい・こくしゅう／テイ・コクシュウ）が清に降伏し、東寧は歴史の中へ消えました。",
+    "city": "澎湖"
   },
   {
     "title": "呉鳳伝説：地方の物語が帝国の教科書に書き換えられた経緯",
@@ -17545,14 +17688,14 @@
     "city": "台南"
   },
   {
-    "title": "陳映真：竹南から北京へ至った統一派文学の良心",
+    "title": "陳映真：竹南から北京へ——統派文学の良心",
     "lat": 24.560134,
     "lng": 120.826658,
     "category": "people",
     "region": "central",
     "link": "/ja/people/chen-yingzhen",
     "lang": "ja",
-    "desc": "陳映真（1937–2016）は本名を陳永善といい、苗栗県竹南に生まれ、鶯歌で育ちました。1964 年の「将軍族」は、外省人の退役老兵と台湾の年少娼婦の悲劇を描いて名声を得ました。1968 年には「民主台湾聯盟案」により 10 年の刑を宣告されました（1975 年、蔣介石の死去に伴う特赦で早期出獄）。1985 年に『人間』雑誌を創刊し、台湾のルポルタージュ文学の先駆けとなりました。1988 年に中国統一聯盟を創設し、初代主席を務めました。2006 年に脳卒中を発症した後、北京へ移住し、2016 年に北京で病没しました。彼は台湾戦後文学において最も論争的な統一派作家であり、郷土文学論争に「許南村」の筆名で介入した重要な理論家でもあります。",
+    "desc": "陳映真（1937–2016）、本名陳永善、苗栗県竹南鎮生まれ、鶯歌で育つ。1964年『将軍族』で外省籍退役兵と台湾の雛妓の悲劇を描き注目される。1968年「民主台湾連盟事件」で懲役10年（1975年蔣介石死去の特赦で仮釈放）。1985年『人間』誌を創刊し台湾報告文学の先駆けとなる。1988年胡秋原らと中国統一連盟を設立し初代主席に就任、2006年北京に定住・同年脳卒中、2016年北京で病没。台湾戦後最大の論争的統派作家であり、郷土文学論争で余光中らの批判を反駁した主要代表の一人。",
     "city": "苗栗"
   },
   {
@@ -18304,14 +18447,14 @@
     "city": "台南"
   },
   {
-    "title": "賴和（ライ・ホー）：台湾本島衫（ほんとうしゃつ）を着た「彰化の媽祖」と、曲がらない秤の棒",
+    "title": "頼和（ライ・ホー）：本島衫を纏った「彰化の媽祖」、そして決して妥協しない「秤仔（天秤）」",
     "lat": 24.078073,
     "lng": 120.531938,
     "category": "people",
     "region": "central",
     "link": "/ja/people/lai-ho-father-of-taiwanese-literature",
     "lang": "ja",
-    "desc": "1943年の大晦日前夜、彰化の名医・賴和は慣例通り、貧しい患者の未払い帳票を燃やした。「台湾新文学の父」と讃えられるこの医師は、植民地の圧政の中でメスで命を救い、筆で不正を批判し、その作品「一桿稱仔（いっかんはかりこ）」は今なお台湾が権力の暴力に抗う文化的象徴となっている。",
+    "desc": "1943年の除夕前、彰化の名医・頼和は慣例として貧しい患者の未払い帳單を焼き捨てた。「台湾新文学の父」と称されるこの医師は、植民地支配の高圧的な状況下でメスで人を救い、筆を剣として不公正を批判した。彼の作品『一桿「稱仔」』は、今なお権力の暴力に抗う台湾の文化的象徴となっている。",
     "city": "彰化"
   },
   {
@@ -21142,6 +21285,17 @@
     "city": "南投"
   },
   {
+    "title": "열란차성: 한 성채의 네 가지 이름",
+    "lat": 22.996626,
+    "lng": 120.158025,
+    "category": "history",
+    "region": "south",
+    "link": "/ko/history/fort-zeelandia",
+    "lang": "ko",
+    "desc": "1624년, 네덜란드인들이 타이난 대원에서 한 요새를 재건해 처음엔 오란치성, 2년 후 열란차성이라 불렀다. 1662년 정성공이 9개월간 포위한 끝에 네덜란드 장관 코이타가 열쇠를 넘기며 이곳은 명정의 왕성이 되었다. 청대에 성벽이 헐려 억재금성을 짓는 데 쓰였고, 일제강점기 내성이 깎여 평탄해졌으며, 2022년 문화부가 잔적을 합병해 '열란차보 유구'로 개명했다. 네 개의 이름, 네 시기의 통치.",
+    "city": "台南"
+  },
+  {
     "title": "국가 철도 박물관: 기차 운행만을 위한 공장, 어떻게 도시로 되돌아왔는가",
     "lat": 25.026034,
     "lng": 121.562711,
@@ -21835,6 +21989,17 @@
     "city": "高雄"
   },
   {
+    "title": "Fort Zeelandia: Os quatro nomes de um castelo",
+    "lat": 22.997353,
+    "lng": 120.155031,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Em 1624, os holandeses reconstruíram uma fortaleza em Da-yuan, Tainan, chamando-a inicialmente de Fort Oranje; dois anos depois, mudou para Fort Zeelandia. Em 1662, após nove meses de cerco por Koxinga, o governador holandês entregou as chaves, e o local tornou-se a cidade real de Ming Zheng. Durante a dinastia Qing, as muralhas foram desmontadas para construir o Yizai Jincheng; na era japonesa, a parte interna foi nivelada; em 2022, o Ministério da Cultura unificou os vestígios sob o nome \"Estruturas do Forte Zeelandia\". Quatro nomes, quatro períodos de governo.",
+    "city": "台南"
+  },
+  {
     "title": "Porto de Taichung: como uma pedra lançou Wuqi ao mar e reescreveu a costa",
     "lat": 24.144299,
     "lng": 120.667169,
@@ -22218,6 +22383,17 @@
     "lang": "zh-TW",
     "desc": "В полдень у старого дерева в парке Ванькан сидит дедушка с газетой. В 1922 году японцы здесь спланировали район Сёва, жили в японских общежитиях профессора Тайбэйского императорского университета; после 1947 года те же общежития заняли представители провинции, масть проживал в доме №76 на улице Чиньтянь, чжоу дэвэй — в фиолетовом дворе. В 1958 году янь биньци создал сеть \"Динтайфэн\" для продажи масла, в 1972 году перешел на пельмени, а сегодня в очереди у входа слышен японский и корейский больше, чем мандарин. Три поколения жителей наложены на одну и ту же 600-метровую улицу.",
     "city": "台北"
+  },
+  {
+    "title": "Форт Зееландия: одна крепость — четыре названия",
+    "lat": 22.99932,
+    "lng": 120.157968,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "В 1624 году голландцы перестроили форт в Таюане (Тайнань), сначала назвали его Оранже-стад, через два года — Форт Зееландия. В 1662 году Чжэнь Чэньгун (Коксингга) осадил его девять месяцев, голландский губернатор Койт сдал ключи, и здесь возникло царство Минь Чжэнь. В эпоху Цин стены разобрали для строительства форта Ицзай цзиньчэнь, в японскую эпоху внутренний город выровняли, а в 2022 году Министерство культуры объединило руины и переименовало в «Руины форта Зееландия». Четыре названия — четыре эпохи правления.",
+    "city": "台南"
   },
   {
     "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
@@ -22680,6 +22856,17 @@
     "lang": "zh-TW",
     "desc": "Trung đội không quân số 34 thành lập năm 1952, thực hiện những nhiệm vụ trinh sát độ cao cực thấp nguy hiểm nhất giữa sương mù Chiến tranh Lạnh. Họ hợp tác với CIA Mỹ, trao đổi cuộc sống của 148 thành viên để lấy được tình báo quan trọng, nhưng bị im lặng trong lịch sử suốt bốn mươi năm. Đến những năm 1990, khi quan hệ hai bờ eo biển Đài Loan hòa hoãn, tro cốt của những liệt sĩ mới dần được gia đình đón về Đài Loan an táng, hoàn tất phần ghép gia đình bị mất nửa thế kỷ.",
     "city": "新竹"
+  },
+  {
+    "title": "Fort Zeelandia: Bốn cái tên của một tòa thành",
+    "lat": 23.000185,
+    "lng": 120.163533,
+    "category": "history",
+    "region": "south",
+    "link": "/history/fort-zeelandia",
+    "lang": "zh-TW",
+    "desc": "Năm 1624, người Hà Lan tái thiết một pháo đài tại Đại Viên, Đài Nam, ban đầu gọi là Fort Oranje, hai năm sau đổi tên thành Fort Zeelandia. Năm 1662, sau khi Trịnh Thành Công bao vây thành suốt chín tháng, thống đốc Hà Lan buộc phải bàn giao chìa khóa, nơi đây trở thành vương thành của nhà Minh Trịnh. Dưới thời nhà Thanh, tường thành bị dỡ bỏ để xây dựng Ức Tái Kim Thành; thời Nhật Bản, nội thành bị san phẳng; đến năm 2022, Bộ Văn hóa đã hợp nhất các di tích và đổi tên thành \"Di tích pháo đài Zeelandia\". Bốn cái tên, bốn giai đoạn cai trị.",
+    "city": "台南"
   },
   {
     "title": "Gia Nghĩa Nông Lâm: Một đội bóng á quân, làm thế nào để mở cửa Koshien cho Taiwan",

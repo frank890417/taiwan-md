@@ -130,7 +130,7 @@ Les glycines du pavillon Zitetu fleurissent chaque printemps. Zhou Yu, âgé de 
 - [Dongfang meiren (Oriental Beauty) — Wikipedia](https://en.wikipedia.org/wiki/Dongfang_meiren) (Processus de fabrication du thé Oriental Beauty et entomologie)
 - [紫藤廬 — 維基百科](https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%97%A4%E5%BB%AC) (Histoire du pavillon de thé, Zhou Dewei, mouvement démocratique)
 - [Wistaria Tea House — Wikipedia](https://en.wikipedia.org/wiki/Wistaria_Tea_House) (En anglais, designation de monument historique et signification culturelle)
-- [John Dodd (tea merchant) — Wikipedia](<https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant) (Histoire de l'exportation du Formosa Oolong)
+- [John Dodd (tea merchant) — Wikipedia](<https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant)>) (Histoire de l'exportation du Formosa Oolong)
 - [Bubble tea — Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea) (Origine du thé au lait de perles et diffusion mondiale)
 - [茶業改良場（TRES）](https://www.tres.gov.tw/) (Source primaire, institut officiel taïwanais de recherche sur le thé)
 

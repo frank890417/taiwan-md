@@ -56,20 +56,20 @@ Desde el Festival de Música Oceánica de Gongliao, Spring Scream hasta Megaport
 - 🔢 **Influencia de música en streaming**: Los cantantes taiwaneses representan más del 60% en las listas de chino mandarín de Asia en Spotify, las canciones de cantantes como Jay Chou, Mayday y Jolin Tsai acumulan miles de millones de reproducciones
 
 ![Escena musical taiwanesa](/images/wiki/f80cd70cdca2.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*信義區*Xinyi_District*松智路*Songzhi_Road*松壽路*Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*信義區*Xinyi_District*松智路*Songzhi_Road*松壽路*Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0_
 
 ## Lectura Adicional
 
-- [[Golden Melody Awards]]​: Desarrollo histórico del máximo honor del mundo de la música en chino mandarín
-- [[mayday]]​: El camino musical de la banda de rock en chino mandarín
-- [[jay-chou]]​: El creador de la música pop de estilo chino
-- [[蔡依林]]​: La carrera artística de la reina del pop asiático
-- [[No Party for Cao Dong]]​: Banda representativa de la música independiente taiwanesa
-- [[Cultura de Live House]]​: Base importante de la escena musical taiwanesa
-- [[Festivales de Música Taiwaneses]]​: Desde el Festival de Música Oceánica de Gongliao hasta Megaport Festival
-- [[Música Independiente]]​: El floreciente desarrollo de la creación independiente taiwanesa
-- [[Música Pop en Chino Mandarín]]​: La posición de Taiwán en el mundo de la música en chino mandarín
-- [[Música Indígena]]​: Expresión musical contemporánea de la cultura austronesia
+- [[Golden Melody Awards]]: Desarrollo histórico del máximo honor del mundo de la música en chino mandarín
+- [[mayday]]: El camino musical de la banda de rock en chino mandarín
+- [[jay-chou]]: El creador de la música pop de estilo chino
+- [[蔡依林]]: La carrera artística de la reina del pop asiático
+- [[No Party for Cao Dong]]: Banda representativa de la música independiente taiwanesa
+- [[Cultura de Live House]]: Base importante de la escena musical taiwanesa
+- [[Festivales de Música Taiwaneses]]: Desde el Festival de Música Oceánica de Gongliao hasta Megaport Festival
+- [[Música Independiente]]: El floreciente desarrollo de la creación independiente taiwanesa
+- [[Música Pop en Chino Mandarín]]: La posición de Taiwán en el mundo de la música en chino mandarín
+- [[Música Indígena]]: Expresión musical contemporánea de la cultura austronesia
 
 ---
 

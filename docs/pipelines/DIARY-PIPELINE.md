@@ -314,6 +314,8 @@ exit 1 = 擋下，**照擋**。不准以「這次特別」「我熟了」自我�
 
 最後一列是唯一的入口，判準是**理解改變了**，不是**有感觸**。有感觸每天都有。
 
+**第四列指回自己的時候**（2026-10-25 self-evolve 判定，回答 W43 週體檢「0b 是否漏算 weekly-report 席位」）：照設計，不是漏算。你若就是 `twmd-weekly-report-sun`，這段反芻的家就是你正在寫的週報（[WEEKLY-REPORT-PIPELINE](WEEKLY-REPORT-PIPELINE.md) 把週報定義為跨 session 的第一人稱反芻），不需要再寫一篇；你若是 `twmd-self-evolve-weekly`，家是本班 memory 的 Beat 5，因為這個席位的產出是 canonical 修改，不是散文。兩個席位都只在「理解改變的是我自己，不是這一週的形狀」時回到最後一列判。代價要知道：routine 預設不寫＋週度席位被路由回自己，日記層實際上只剩人觸發 session 與少數例外在餵，所以沉默天數由 `wake-context.py` selftest 量（diary 超過 14 天亮 ⚠️），燈亮時要回答的是沉默的成因，不是補一篇。
+
 #### 0c. routine session 的預設是不寫
 
 routine 收官時 diary 的預設動作是 **skip**，要寫才需要理由，理由要寫進 memory 的收官 checklist。三條全中才寫：

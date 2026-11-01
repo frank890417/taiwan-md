@@ -1,6 +1,6 @@
 ---
-title: 'Lin Yu-ting: From a New Taipei Underground Boxing Gym to Paris Olympic Gold, the Lonely Queen of Boxing Carrying the Weight of All of Taiwan'
-description: 'On August 11, 2024, at the Roland Garros stadium in Paris, Lin Yu-ting claimed Taiwan''s first-ever Olympic boxing gold medal with a dominant performance. Starting from an underground gym in Yingge Junior High School, she overcame the defeat at the Tokyo Olympics, the "X" gesture provocation from her quarterfinal opponent, international political maneuvering, and global cyberbullying. This article deeply deconstructs her "Magician" philosophy, the behind-the-scenes contributions of long-time sparring partner Li Cheng-wei, her technical evolution, gender science, her teaching position at Chinese Culture University, social cohesion, and the revolutionary camaraderie of the "Four Queens of Taiwanese Boxing," concluding with the latest epic development of World Boxing officially recognizing her eligibility in 2026.'
+title: 'Lin Yu-ting: From Yingge Junior High School Boxing Team to Paris Olympic Gold Medalist'
+description: "In August 2024, Lin Yu-ting defeated a Polish athlete with a 5-0 score in the women's 57kg gold medal match at the Paris Olympics, winning Taiwan's first Olympic boxing gold. This article summarizes her journey starting from the Yingge Junior High School boxing team, her defeat at the Tokyo Olympics, the disqualification of her 2023 World Championships bronze medal, and the gender controversy during the Paris Olympics, as well as her teaching career, awards after winning gold, and recent competition status for 2026. Every claim includes a source."
 date: 2026-08-12
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Lin Yu-ting',
     'Paris Olympics',
     'Boxing',
-    'Zeng Ziqiang',
-    'Li Cheng-wei',
+    'Tseng Tzu-chiang',
+    'Lee Chia-ling',
     'Gender Controversy',
     'Pride of Taiwan',
     'World Boxing',
@@ -17,161 +17,188 @@ tags:
 subcategory: '體育'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-08-12
+lastVerified: 2026-10-23
 lastHumanReview: false
 curation: 'incubating'
-readingTime: 25
+readingTime: 8
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'pre-toolkit'
-sourceContentHash: 'sha256:requeue-section-loss'
-sourceBodyHash: 'sha256:requeue-section-loss'
-translatedAt: '2026-10-15T03:57:35.679322+00:00'
+sourceCommitSha: 'df33f3cbd'
+sourceContentHash: 'sha256:9e1b5b650e967399'
+sourceBodyHash: 'sha256:985c4de8119ecefa'
+translatedAt: '2026-10-24T00:46:40.381611+00:00'
 ---
 
-On August 11, 2024 (Taiwan time), on the red clay of the Roland Garros stadium in Paris, as the bell rang for the women's 57 kg gold medal bout, Taiwanese athlete Lin Yu-ting defeated Polish fighter Julia Szeremeta with a decisive 5-0 victory[^1][^2]. After the match, just as she had done following her loss at the Tokyo Olympics, she once again hoisted her coach of fifteen years, Zeng Ziqiang, onto her back. This moment not only fulfilled the long-held dream of the teacher and student but also secured Taiwan's first-ever Olympic boxing gold medal[^3][^5]. However, the weight of this gold medal far exceeded the physical limits of the medal itself—more than a month before it was awarded, Lin Yu-ting was forced to stand at the forefront of global public opinion, bearing a tidal wave of gender-based skepticism and transnational cyber-hunting[^5].
+On August 11, 2024 (Taiwan time), Lin Yu-ting defeated Poland's Julia Szeremeta with a 5-0 score in the women's 57kg boxing gold medal match at the Paris Olympics, winning Taiwan's first Olympic boxing gold medal[^1][^2]. Following her tradition of "carrying the coach once the gold is won," she carried her coach, Tseng Tzu-chiang, for a distance after the match[^3]. During these Olympics, she and Algeria's Imane Khelif were both embroiled in gender controversies; IOC President Thomas Bach reaffirmed that both women were born female and had the right to compete[^4].
 
-![President and Vice President Meet the 2024 Paris Olympic Delegation](https://upload.wikimedia.org/wikipedia/commons/3/3d/08.16_%E7%B8%BD%E7%B5%B1%E8%88%87%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C2024%E5%B9%B4%E7%AC%AC33%E5%B1%86%E5%B7%B4%E9%BB%8E%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%BB%A3%E8%A1%A8%E5%9C%98%E3%80%8D_%2853926734865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![President and Vice President receiving the 2024 Paris Olympic delegation](https://upload.wikimedia.org/wikipedia/commons/3/3d/08.16_%E7%B8%BD%E7%B5%B1%E8%88%87%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C2024%E5%B9%B4%E7%AC%AC33%E5%B1%86%E5%B7%B4%E9%BB%8E%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%BB%A3%E8%A1%A8%E5%9C%98%E3%80%8D_%2853926734865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-## The Basement Punching Bag and the Father's Punches Toward the Mother
+## The Original Intention to Protect Her Mother
 
-Tracing Lin Yu-ting's growth trajectory, boxing was initially not born out of a romantic longing for sport, but rather an instinctual act of self-defense. The shadow of domestic violence in her childhood made her experience the cruelty and helplessness of reality at a very young age. She has often stated in interviews: "When I was little, my father often hit my mother, so I joined the boxing team, hoping I could use my own strength to protect my mother."[^9][^10]. Fragments of family conflict became the anxiety of her youth, and the makeshift boxing team in the basement of Yingge Junior High School in New Taipei City became her sanctuary for escaping reality and forging her will[^11].
+Lin Yu-ting was born in 1995 in Yingge Township, Taipei County (now Yingge District, New Taipei City), and is the youngest of four siblings[^4]. During a junior high school interview with Taiwanese media, she said: "When I was little, my father often hit my mother, so I joined the boxing team, hoping I could use my own strength to protect her."[^4] After her father left home, her mother worked to support the family[^4]. She also mentioned that watching _Hajime no Ippo_ (Fighting Spirit) with her older brother was one of the catalysts for her interest in boxing[^4].
 
-## Grassroots Boxing Revolution in Adversity
+## Yingge Junior High Boxing Team and Tseng Tzu-chiang
 
-The training environment at the time was extremely rudimentary, with no top-tier protective gear or medical team, only rough sandbags, mottled walls, and day after day of sweat. It was here that she met Coach Zeng Ziqiang, who would change her life[^7][^8]. Zeng Ziqiang saw the unyielding stubbornness in this frail girl's eyes, and the two built a close bond like father and daughter, both teacher and friend, embarking on a grassroots boxing revolution in Taiwan that lasted over a decade[^7][^8].
+Tseng Tzu-chiang was once a gold medalist in the National Games, but retired due to sports injuries. He joined the Yingge Junior High School boxing team as a coach in 2008[^5]. When Lin Yu-ting first joined the team, she was only 140 cm tall, and Tseng Tzu-chiang was initially not optimistic about her[^4]. However, after training for just over two months, she secured second place in the junior high girls' division at the National Presidential Cup Boxing Championships[^3].
 
 ```tw-stat
-5：0 | Paris Gold Medal Match Score | Overwhelming Victory Over Opponents (Four Wins in Four Matches)
-15 年 | Years of Teacher-Student Companionship | Coach Zeng Ziqiang Accompanied Throughout
-1st | Historical Status Record | First Boxing Gold Medal in Taiwan's Olympic History
-Source: Paris Olympics Event Reports and Interviews with Coach Zeng Ziqiang and Lin Yu-ting Herself (See Previous Section Footnotes)[^1][^2][^7][^8][^9]
+5:0 | Paris Gold Medal Match Score | Defeated Poland's Julia Szeremeta
+Approx. 15 years | Years of mentorship | Lai Ching-te mentioned during a video call that Tseng Tzu-chiang has accompanied Lin Yu-ting for about 15 years
+1st | Taiwan's Olympic Boxing Gold | Taiwan's first Olympic boxing gold medal
+Source: BBC Chinese, AP, and CNA[^6][^2][^7]
 ```
 
-## "We Must Also Become Our Own Magicians": The Philosophical Resonance of Teacher and Student
+## Sparring with Men and Weight Management
 
-Over fifteen years of collaboration, Zeng Ziqiang and Lin Yu-ting developed a unique trust and默契 (tacit understanding). Zeng Ziqiang once proposed the famous "Magician" philosophy: "We must also become our own magicians, steering only our own destinies."[^7][^12]. This sentence became the most solid spiritual shield for Lin Yu-ting when facing the overwhelming noise of the outside world. Through extreme self-discipline and scientific training, the teacher and student transformed the impossible into the possible step by step in an environment with relatively scarce resources.
+Tseng Tzu-chiang told her: "If you train as if you are a girl, you will never improve." Consequently, Lin Yu-ting began sparring with male boxers[^4]. Her cousin and sparring partner, Hsu Hao-chang, told the BBC that men's punches are heavier; sometimes she couldn't handle it and would get nosebleeds, but she would wipe them away and continue training[^6].
 
-## Tactical Game: The Symphony of Long Jabs on the Roland Garros Red Clay
+Boxing is categorized by weight classes, making weight management a daily necessity. In an interview with _CommonWealth Magazine_ regarding athletes' self-discipline, Tseng Tzu-chiang noted that if an athlete eats a large meal or drinks pearl milk tea with friends at lunch, they must exercise restraint at dinner, as weight cannot affect their competition weight class[^8]. Hsu Hao-chang recalled that before the Rio Olympics at the National Training Center, Lin Yu-ting used two bowls during meals to control her weight—one for vegetables and one for hot water to rinse the vegetables. She also trained in heavy long-sleeved clothing to induce more sweat[^6].
 
-In the four matches of the Paris Olympics, Lin Yu-ting demonstrated a high level of tactical literacy. At 175 cm tall, she fully utilized her reach advantage, controlling the pace of the fight at a long distance[^13]. Analysis from the Associated Press and _The New York Times_ pointed out that Lin Yu-ting's fighting style was "steady and full of counterattacks"; she did not rush to attack but instead constantly disrupted her opponents' balance with precise "long jabs," forcing them to reveal flaws in their anxiety, and then countering with crisp hooks[^47][^48]. This "elegant dominance" allowed her to win all four matches with a significant 5-0 margin.
+## Sparring Partner Lee Cheng-wei
+
+Lee Cheng-wei is Lin Yu-ting's long-term sparring partner and a junior at Culture University[^9]. He was recruited by Tseng Tzu-chiang to spar with Lin while he was studying at Yingge Commercial & Industrial High School, making him the longest-serving sparring partner in the team[^10]. According to a report by _CommonWealth_, Tseng Tzu-chiang scouted Lee in 2015, describing him as someone who "practices whatever Lin practices"; by the time of the report, he had already served as a sparring partner for nine years[^11].
+
+📝 Curator's Note: While organizing this data, I noticed the people surrounding Lin Yu-ting. Coach Tseng Tzu-chiang has led the Yingge Junior High School boxing team since 2008[^5], and sparring partner Lee Cheng-wei has been training with her since high school[^10]. After her defeat at the Tokyo Olympics, she also stayed to accompany Huang Hsiao-wen in training[^12]. That moment after the gold medal match when she carried her coach on her back[^3] was supported by a small team that has trained together for many years.
 
 ![Portrait of Lin Yu-ting](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yu-Ting%2C_Lin.jpg/960px-Yu-Ting%2C_Lin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
-📝 Curator's Note: In the world of competitive sports, genius is not rare; what is rare is taking a niche and painful path in a resource-scarce grassroots environment and turning it into the pinnacle of the world. The combination of Lin Yu-ting and Zeng Ziqiang demonstrates the most moving resilience of Taiwan's grassroots sports—not relying on accidental miracles, but on the muscle memory of standing up again countless times after being knocked down.
+## From Youth Gold to Asian Games Gold
 
-## Dehydration and Willpower: The Cost Behind Extreme Weight Cutting
+The BBC summarized her competitive achievements: In 2013, she won gold at the World Junior and Youth Women's Boxing Championships in Bulgaria, becoming the first Taiwanese athlete to win a gold medal in a youth category at a world boxing event; in 2018, she won an Asian Games bronze and a World Championship gold, becoming Taiwan's first boxer to win a gold medal at the World Championships; in 2022, she secured her second World Championship gold in Istanbul; and in 2023, she won gold at the Hangzhou Asian Games, becoming the first female boxer in Taiwan's history to win an Asian Games gold medal[^4].
 
-Boxing is a war against the scale. In the 57 kg weight class, Lin Yu-ting had to undergo extremely strict dietary management and "dehydration weight cutting" before the matches[^38]. Coach Zeng Ziqiang revealed that Lin Yu-ting's demands on herself were nearly masochistic: if she drank a cup of bubble tea for social reasons at lunch, she had to strictly fast at dinner, and even used high-intensity sweating training before the matches to drain the water from her body, just to hit the target precisely when weighed[^38][^39].
+## Rio and Tokyo: Two Defeats
 
-## Nine Years of Unsung Heroes: The Behind-the-Scenes Blood and Sweat of Sparring Partner Li Cheng-wei
+During the 2016 Rio Olympics qualifiers, she was only one win away from securing an Olympic berth[^4]. Citing Tseng Tzu-chiang in _Sports Note_, the coach told Lin Yu-ting after the match: "Coach is sorry; I couldn't lead you to the highest peak, but that doesn't mean this is your finish line." Lin Yu-ting replied: "Coach, wherever you go, I will go."[^5]
 
-Behind Lin Yu-ting's radiance stands an indispensable "shadow opponent"—Li Cheng-wei, a junior student at Chinese Culture University a few years younger than her and a gold-medal sparring partner. Since 2015, to find an object capable of simulating the power and speed of top-tier male athletes worldwide, Coach Zeng Ziqiang specifically arranged for Li Cheng-wei to serve as Lin Yu-ting's exclusive sparring partner[^21][^22]. For nine years, Li Cheng-wei almost "spars whatever Lin Yu-ting spars," enduring high-intensity impacts and training volumes equivalent to those of national team male athletes[^21][^23].
+At the Tokyo Olympics held in 2021, Lin Yu-ting competed as the top seed and world number one, but lost in the round of 16[^4], falling 2–3 to the Philippine athlete Nietes[^13]. In a 2021 interview with _The Reporter_, she said she was extremely disappointed in herself at the time and "broke down in tears." Fortunately, her coach Tseng Tzu-chiang continuously encouraged her and even suggested she switch roles to stay and accompany Huang Hsiao-wen of the 51kg weight class during training[^12]. The same report mentioned that Tseng Tzu-chiang had sought to hire a sports psychologist early on to help young athletes recognize and express their anxiety, nervousness, and fear[^12].
 
-## The Debut at the Tokyo Olympics and the Painful Defeat
+She also spoke about the pressure of being treated as a role model: "I have always been treated as a role model with high expectations. My coach also hopes I can lead the junior students, which naturally creates pressure. I am constantly learning how to handle it."[^12]
 
-However, an athlete's journey is never smooth. At the 2020 Tokyo Olympics, Lin Yu-ting, carrying the heavy hope of winning gold, made her debut at the highest hall but unexpectedly lost in the first round, swallowing the heaviest defeat of her sports career[^3][^15]. After the match, she did not make excuses for herself but silently returned to the training ground, swallowing her tears.
+## 2023 World Championships: Bronze Medal Stripped
 
-## Intervention in Sports Psychology Counseling and the "Pain Point Transfer Method"
-
-Facing the immense psychological pressure after the Tokyo Olympics defeat, Coach Zeng Ziqiang sought the assistance of sports psychologists (such as Hong Zi-feng) early on[^6][^16]. Lin Yu-ting learned the "Pain Point Transfer Method," transforming the grief and anger of defeat into support for teammates and a paranoid reconstruction of technical details[^40]. This tempering of psychological resilience allowed her to maintain steady breathing even in the global storm of the Paris Olympics.
-
-## The Unprovoked Storm at the New Delhi World Championships and the Institutional Trap
-
-Just as she was adjusting her mindset and returning to world No. 1, a greater test quietly descended at the 2023 New Delhi World Championships. At that time, she was stripped of her bronze medal eligibility without warning by the International Boxing Association (IBA) on the grounds of unspecified "abnormal biochemical indicators"[^3][^4][^17]. This decision lacked transparent scientific basis and proper appeal channels, planting the seeds for subsequent international sports controversy.
+In March 2023, Lin Yu-ting won a bronze medal at the World Championships in New Delhi, but the International Boxing Association (IBA) subsequently stripped her of the medal, citing "abnormal gender biochemical indices" prior to the competition[^4]. Following her return to Taiwan, the Sports Administration of the Ministry of Education launched a special investigation and announced in April of the same year that her test results complied with international competition regulations[^4].
 
 ```tw-timeline
-2021 | Tokyo Olympics Setback | First appearance at the highest stage ended unexpectedly in the first round; afterward she carried her coach on her back and vowed to return to the summit.
-2023 | World Championships Gender Storm | Stripped of bronze medal by IBA citing abnormal biochemical test, suffered the greatest institutional setback of her athletic career.
-2026 | World Boxing Recognition | After year-and-a-half of appeals, World Boxing officially recognized her eligibility, vindicating her.
-Source: Tokyo Olympics, IBA bronze medal revocation controversy, and 2026 World Boxing recognition reports cited in this article[^3][^4][^15][^17]
+2016 | Rio Olympics Qualifiers | Stopped just one win short of securing an Olympic berth.
+2021 | Tokyo Olympics | Competed as the top seed and world number one, but lost in the Round of 16.
+2023 | World Championship Bronze Stripped | The IBA stripped her of the medal citing "abnormal gender biochemical indices" prior to the competition; the Sports Administration announced in April that test results complied with international regulations.
+2024 | Paris Olympics Gold Medal | Defeated a Polish athlete 5-0 in the gold medal match, winning Taiwan's first Olympic boxing gold medal.
+2026 | World Boxing Recognition | On March 19, an appeal was passed, confirming eligibility to participate in the Asian Boxing Championships.
+2026 | Nagoya Asian Games | Won the women's 60kg gold medal match 5-0, successfully defending her Asian Games gold medal.
+Source: Reports from BBC News Chinese, AP, TVBS, and CNA[^4][^2][^14][^15]
 ```
 
-## A Victim of Power Struggles in International Sports Governance and Scientific Interpretation
+## Conflict Between the IBA and the IOC
 
-A deep analysis of this storm reveals that the IBA (International Boxing Association), dominated in recent years by financial scandals, referee bribery, and its Russian-background president Umar Kremlev, has been in a state of opposition to the International Olympic Committee (IOC) for a long time[^18][^41]. The events of Lin Yu-ting and Algerian fighter Imane Khelif being targeted by the IBA were viewed by the outside world as political tools used by the IBA to pressure the IOC and compete for dominance in international boxing[^18][^19].
+According to BBC reports, the International Olympic Committee (IOC) removed the International Boxing Association (IBA) in June 2023 due to "internal management issues" [^6]. The Associated Press noted that the dispute between the two parties centers on the management style led by Uzbek and Russian officials within the IBA, its financial support from the Russian state-owned energy company Gazprom, and the fairness of competitions and scoring [^16]. While the IBA's nearly US$20 million debt was settled during Umar Kremlev's tenure, the IOC opposes the IBA's financial reliance on Gazprom [^16].
 
-## Transnational Cyber-Hunting and J.K. Rowling's Gender Label War
+In a BBC interview prior to the gold medal match, Tseng Tzu-chiang stated that the IBA makes allegations without providing evidence because they want to regain control over international boxing competitions [^6]. The statements from the IBA side have been inconsistent: CEO Chris Roberts told the BBC that both individuals tested positive for XY chromosomes; however, President Kremlev stated during a press conference on August 5 that both individuals had very high testosterone levels. Both parties refused to disclose further testing details [^6].
 
-Although the IOC has backed her multiple times, this wound was maliciously amplified on the eve of the 2024 Paris Olympics. Internationally renowned author J.K. Rowling and tennis legend Martina Navratilova, along with other transnational public figures, launched baseless questions on social media platforms, conflating Lin Yu-ting's physiological characteristics with gender equality controversies[^5][^20][^32][^42][^43].
+## Paris Olympics: Gender Controversy and the Semifinals
 
-## The "X" Gesture Provocation in the Quarterfinals and the Silent Counterattack
+During the Olympics, J.K. Rowling and Maggie McGowan reposted reports on social media questioning Lin Yu-ting's eligibility; however, the International Olympic Committee (IOC) and the Sports Administration responded that she complied with all competition regulations[^17]. The boxing working group of the Paris Organizing Committee for the Olympic and Paralympic Games and the IOC also issued statements in response to the doubts[^18]. Political figures from both the Pan-Blue and Pan-Green camps in Taiwan also expressed their stances on this matter[^19].
 
-In the women's 57 kg quarterfinals of the Paris Olympics, Lin Yu-ting defeated Turkish fighter Esra Yıldız Kahraman with a decisive 5-0[^21]. However, after the match, Kahraman made an "X" gesture with both hands on the ring, alluding to Lin Yu-ting's gender controversy[^21][^33]. Facing the opponent's provocation and off-ring disturbances, Lin Yu-ting chose to demonstrate high sportsmanship after the match, not dancing to the tune, but using absolute strength to silence all noise at the ring's edge.
+Tseng Tzu-chiang revealed that after arriving in Paris to prepare, Lin Yu-ting closed her social media accounts and stopped checking online messages. As she has done when competing abroad in the past, she brought books related to "success studies" to use reading as a way to stabilize her emotions[^6]. During the Olympics, she stated: "Since we have all stepped up to compete, I can view these storms as perhaps opponents being too intimidated by our strength and picking at flaws to make an issue of them; I will simply perform even better on the field."[^20] After the gold medal match, she also told the BBC: "If you are affected, it means their tactics have succeeded."[^6]
 
-## From Paris to Taipei: The "Voice of Justice" in International Media
+In the semifinals, Lin Yu-ting defeated a Turkish athlete with a score of 5-0, becoming the first boxer in Taiwan's history to advance to an Olympic gold medal match. After the bout, her opponent politely pulled up the ring ropes for her and then made an "X" hand gesture on stage to protest the gender controversy; Lin Yu-ting responded calmly, stepping down from the ring to thank the entire audience[^21].
 
-After winning gold, global media evaluations shifted from skepticism to tribute. Deutsche Welle (DW) evaluated this as a victory of "strength overcoming hatred"[^49]; BBC detailed how she fulfilled her promise to her mother[^3]. The Associated Press stated more directly that Lin Yu-ting's calmness in the face of overwhelming pressure was one of the most moving embodiments of the Olympic spirit in these Games[^50].
+## The Gold Medal Match
 
-## Silent Resistance and the Burden of Being a Role Model for Juniors
+The Associated Press described how the 175-cm tall Lin Yu-ting is typically taller and leaner than her opponents, winning through technique and angles rather than raw power[^2]. In the gold medal match, she used long left jabs from the start to keep the 20-year-old Séléma Tatlides at a distance while connecting combinations[^2]. The AP also wrote that she worked hard to remain calm and composed throughout the entire Olympic boxing tournament, even as much of the outside world criticized and misrepresented her[^2]. During a video call with her, Lai Ching-te mentioned that she had won every single match 5-0 under immense pressure[^7].
 
-Facing the sky-filling transnational cyberbullying, Lin Yu-ting chose the most difficult yet most dignified path: staying silent and letting her strength speak. In reflecting on this emotional journey, she admitted: "Being seen as a role model for juniors is also a kind of pressure."[^4]. This pressure comes not only from victory and defeat on the competitive field but also from the necessity of maintaining an athlete's dignity and calmness amidst baseless accusations.
+Before the competition, Lin Yu-ting's mother said her daughter asked her to turn off social media so she could focus on her preparations; before the gold medal match, her daughter told her she was ready and to not worry. After the match, her mother said, "In my heart, she will always be the greatest!" Prior to the event, more than 2,000 people gathered in New Taipei City to watch the live broadcast[^6]. The AP reported that Lin Yu-ting broke down in tears upon standing on the podium and hearing the national anthem of Taiwan[^2]. She knelt to kiss the ring, then carried Tseng Tzu-chiang on her back for a short distance[^3].
 
-## Social Cohesion Beyond Victory and Defeat and the "Daughter of Taiwan" Phenomenon
+According to Sports Note, Tseng Tzu-chiang responded humorously after the match: "Thank you, J.K. Rowling, for letting the whole world see the pride of Taiwan. We only do what we want to do and listen to what we want to hear, so we must also become our own magicians."[^5]
 
-Lin Yu-ting's gold medal process at the Paris Olympics unexpectedly became the deepest point of collective emotional cohesion in Taiwan society in recent years. In a highly polarized political and public opinion environment, all of Taiwan, crossing party lines and generations, held its breath in support of this "Daughter of Taiwan." Her story not only changed society's traditional stereotypes about female athletes' muscle and appearance but also became the best textbook for gender equality and anti-bullying education[^22][^23][^34].
+## After Returning to Taiwan: "Taiwan's Daughter," Public Interest Ambassador, and Endorsements
 
-## Commercial Value and Public Welfare Endorsements: What is a Girl?
+Upon returning to Taiwan, Lin Yu-ting spoke about the honor of being called "Taiwan's Daughter" and expressed her hope to become a better role model[^22]. The Sports Administration has appointed her as a national public interest ambassador to promote anti-bullying efforts[^22]. In February 2025, in her capacity as an anti-bullying ambassador, she appeared in a promotional video for the Ministry of Education regarding campus bullying prevention, where she revealed that she had previously suffered verbal bullying due to her gender-neutral dressing style[^23].
 
-After winning gold, Lin Yu-ting's influence extended beyond the sports circle. She was invited to serve as the spokesperson for the sanitary napkin brand **Kotex**, loudly declaring "What is a girl?" in the advertisement, challenging gender stereotypes and turning commercial endorsement into a social movement about female self-definition[^44][^46].
+Her first official endorsement after winning gold was for a sanitary napkin brand. The brand has supported the Yingge boxing team for 10 years and provided crucial support even when her 2023 World Championship bronze medal was revoked[^24]. According to a report by 《Marie Claire》, this brand is "Tian Tian Sanitary Napkin" from Taiwan Kang-Chuang[^25]. The promotional video opens with the line, "If I am not a girl, then what is a girl? A girl is not born to fit someone else's imagination," encouraging women to become whoever they want to be[^24].
 
-## Academic Advancement and the Birth of a Gold-Medal Professor
+## Faculty and Awards
 
-After winning the Olympic gold, Lin Yu-ting's pace did not stop. Having pursued her bachelor's and master's degrees from the Department of Physical Education at Chinese Culture University up to her doctoral studies, she was hired as a full-time assistant professor-level technical staff member in the Department of Physical Education at Chinese Culture University after returning triumphantly[^24][^25]. She brought her fifteen years of top-tier practical experience into the academic hall, becoming the "Gold-Medal Professor" of Taiwan's sports scene.
+In August 2024, when Culture University President Wang Tzu-chi went to the airport to welcome her, he stated that Lin Yu-ting would teach in the university's Department of Physical Education and would begin her doctoral studies in August[^26]. That same year, she attended the Culture University New Faculty Workshop as a full-time instructor in the Department of Physical Education[^27]. A Culture University press release published on the CNA News Platform in October 2026 referred to her as an Associate Professor in the Department of Physical Education[^15].
 
-## Winning the Sports Elite Award and the Highest National Recognition
+At the Elite Awards on December 20, 2024, Lin Yu-ting was selected as Female Athlete of the Year, and Tseng Tzu-chiang was selected as Best Coach[^28]. In her acceptance speech, she quoted Socrates: "Only by experiencing wind and rain can one achieve a fulfilling life; as long as the heart is strong enough, one can overcome anything"[^29].
 
-On December 20, 2024, the Ministry of Education's Sports Administration officially held the "113th Sports Elite Award Ceremony," where Lin Yu-ting unsurprisingly won the "Best Female Athlete Award," while her mentor Zeng Ziqiang also won the "Best Coach Award"[^26][^27]. In her acceptance speech, Lin Yu-ting quoted the Socratic saying "Experiencing storms shapes life," encouraging the public to face adversity[^27].
+The Executive Yuan awarded her the Guoguang Sports Medal along with prize money. Lin Yu-ting received a total of NT$20.9 million, which included an Olympic gold medal bonus of NT$20 million and an additional NT$900,000 to compensate for the bronze medal prize money that was canceled during the 2023 World Championships[^30].
 
-## 2026 Latest Development: Official Recognition by the World Boxing Alliance (World Boxing)
+## Post-Olympic Competition: World Boxing and the Asian Games
 
-After a year and a half of gender controversy bans and appeals, on March 19, 2026, the medical committee of the newly formed international boxing organization "World Boxing Alliance (World Boxing, WB)" officially wrote to the Republic of China Boxing Association, recognizing Lin Yu-ting's eligibility to compete[^51][^52]. This decision completely ended the gloom of the IBA era, allowing Lin Yu-ting to participate in the 2026 Asian Championships and win a bronze medal, clearing obstacles for the future Nagoya Asian Games[^53][^54].
+According to TVBS, gender testing procedures by World Boxing remained ambiguous following the Olympics, preventing Lin Yu-ting from competing until an appeal was successful on March 19, 2026, confirming her eligibility for the Asian Boxing Championships[^14]. _Liberty Times_ reported that the World Boxing Medical Committee sent a letter to the Chinese Taipei Boxing Association, recognizing her eligibility for the women's category[^31]. In her first bout after the Olympics at the 2026 Asian Boxing Championships, she won a bronze medal[^32], losing in the semifinals to North Korean athlete Won Eun-gyeong after slipping and receiving a count 23 seconds before the end of the match[^14].
 
-## The "Lin Yu-ting Style": Neutral Aesthetics and Gen Z's Self-Identity
+At the 2026 Aichi-Nagoya Asian Games, she moved up to the women's 60kg weight class. In the gold medal match, she defeated Chinese athlete Yang Chengyu by a score of 5–0, successfully defending her Asian Games gold medal and becoming Taiwan's first athlete to win boxing gold in two consecutive Asian Games[^15].
 
-Lin Yu-ting's influence has transcended sports. Her short hair, resolute lines, and confident androgynous outfits have sparked huge resonance among Taiwan's younger generation (Gen Z). She proved that beauty has only one standard, and that female power can be defined through sweat and muscle. This cultural impact has driven Taiwan society toward a deeper understanding and tolerance of the gender spectrum[^55][^56].
+## The Four Golden Girls of Boxing
 
-## Deep Teacher-Student Bond: Zeng Ziqiang's "Gender-Blind" Training Method
-
-When training Lin Yu-ting, Coach Zeng Ziqiang always adhered to the principle: "If you train yourself as a girl, you will never improve"[^10]. He arranged for Lin Yu-ting to spar with male athletes, even letting her participate in the male team's training cycles. This training model that breaks gender barriers not only enhanced Lin Yu-ting's competitiveness but also shaped her unique ring perspective[^57][^58].
-
-## Bonus Feedback to Localities and Public Welfare Advocacy
-
-After receiving national glory bonuses and corporate sponsorship rewards totaling tens of millions of yuan, Lin Yu-ting chose to continuously give back to grassroots boxing and social public welfare through a lifelong monthly pension and donations of part of the bonus[^28][^29]. She has participated multiple times in anti-bullying and women's empowerment advocacy activities, using her own experience to encourage countless young people in the depths of despair[^30][^37].
-
-## The Guardianship of the Yingge Community: A Small Town's Glory from the Basement to the World
-
-Lin Yu-ting's success is not an isolated miracle but the fruit of the joint guardianship of the grassroots sports community in Yingge, New Taipei City. From Yingge Junior High School to Yingge Industrial High School, local coaches and enthusiastic citizens have silently provided venues and resources for years, making this small town the cradle of Taiwan's boxing talents.
-
-## The Revolutionary Emotion of the "Four Queens of Boxing": Support from Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi
-
-In the process of Taiwanese women's boxing stepping onto the world stage, Lin Yu-ting is referred to as one of the "Four Queens of Taiwanese Boxing" alongside outstanding female fighters Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi. They have supported each other through countless domestic and international competitions in their respective weight classes, with shared training and intertwined tears, this deep revolutionary emotion becoming each other's warmest psychological backing[^36].
-
-## The Glory of Roland Garros and the Teacher Carrying All of Taiwan on His Back
-
-When the bell rang to end the gold medal match, Lin Yu-ting knelt on the ring to kiss the red clay, then steadily carried her coach Zeng Ziqiang on her back. This carry bore the teacher-student friendship that never left each other's side for over a decade, the arduous journey of Taiwanese boxing from barrenness to the world, and a powerful, silent reply that speaks louder than words[^3][^5]. Lin Yu-ting proved with her fists that true strength does not need to be defended with words, but lies in walking head-high toward one's own moment of glory in the face of injustice and skepticism.
+TVBS reported that the Chinese Taipei boxing team secured six spots (4 women, 2 men) at the Paris Olympics. The female athletes were Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi, whom the media dubbed the "Four Golden Girls of Boxing"[^33]. After her defeat at the Tokyo Olympics, Lin Yu-ting stayed behind to support Huang Hsiao-wen's training; Huang later won Taiwan's first Olympic boxing medal[^12]. In a video message, Lai Ching-te noted that although Huang Hsiao-wen lost an opportunity during the Paris Olympics due to a refereeing error, she remained in Paris to assist as a sparring partner, while Chen Nien-chin secured a bronze medal[^7].
 
 ---
 
 ## References
 
-[^1]: [Cornerstone International — Olympic Boxing / Lin Yu-ting Wins Gold! In-Depth Analysis and Compilation of "Gender Controversy"](https://global.udn.com/global_vision/story/8662/8151597) — United Daily News Report
+[^1]: [Corner International — Olympic Boxing / Lin Yu-ting wins gold! A deep dive analysis of the 'gender controversy'](https://global.udn.com/global_vision/story/8662/8151597) — Lin Yu-ting defeated Polish athlete Seweryna Smerek in the gold medal match to win the gold.
 
-[^2]: [Wikipedia — Lin Yu-ting](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E9%83%81%E5%A9%B7) — Wikipedia Entry
+[^2]: [Associated Press (AP) — Boxer Lin Yu-ting wins gold, following Imane Khelif to conclude an Olympics filled with scrutiny](https://apnews.com/article/olympics-2024-boxing-lin-khelif-28d3e1a46ed8fe5c1aa6cd612e2561ca) — Standing 175 cm tall, Lin is typically taller and leaner than her opponents, winning through technique and angles; the description notes how she used long left jabs to control distance in the gold medal match and describes her efforts to remain calm and composed during the Olympics.
 
-[^3]: [BBC News Chinese — Lin Yu-ting Wins Gold at Paris Olympics, Fulfilling Promise to Mother Amid Gender Controversy](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — BBC News Chinese Report
+[^3]: [CommonWealth Culture — The real life behind Lin Yu-ting's Olympic gold medal](https://bookzone.cwgv.com.tw/article/34168) — Describes Lin Yu-ting's customary actions after the gold medal match, such as carrying Tseng Tzu-chiang on her back and kneeling to kiss the ring, as well as her competition record since joining the boxing team.
 
-[^4]: [The Reporter — [Confessions of an Olympic Athlete] Lin Yu-ting: Being Seen as a Role Model for Juniors is Also a Kind of Pressure](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — See original link content for supplementary data
+[^4]: [BBC News Chinese — Who is Lin Yu-ting: From learning martial arts to protect her mother from domestic violence to fighting in the Olympic boxing finals](https://www.bbc.com/zhongwen/trad/chinese-news-69254423) — Lin Yu-ting's life story, her original motivation for boxing to 'protect Mom,' Tseng Tzu-chiang's advice to 'train as if you are a girl,' her competition records over the years, and the details regarding her 2023 bronze medal disqualification.
 
-[^5]: [Cornerstone International — Boxer Lin Yu-ting Suspected "Not Female," J.K. Rowling Also Mistaken in Gender War](https://global.udn.com/global_vision/story/8662/8131527) — United Daily News Report
+[^5]: [Sports Note — (Profile) The man Lin Yu-ting carries on her back: 'We must also become our own magicians, doing only what we want to do and listening only to what we want to hear.'](https://running.biji.co/index.php?q=news&act=info&id=110827) — Tseng Tzu-chiang's experience as a coach, the mentor-student dialogue after the Rio Olympics qualifiers, and his response of 'becoming one's own magician' after the gold medal match.
 
-[^6]: [Lifetech Sports — Olympic Boxing Weekly Report] Gender Issues Severely Misleading, IOC Issues Statement to Support](https://www.ltsports.com.tw/article/172262) — See original link content for supplementary data
+[^6]: [BBC News Chinese — Lin Yu-ting fulfills her promise to her mother amidst Paris Olympic gold medal gender controversy](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Lin Yu-ting's 5-0 victory in the gold medal match, statements from her mother and cousin Hsu Hao-chang, the aftermath involving the IBA and the IOC, and Tseng Tzu-chiang's pre-match interview.
 
-[^7]: [Sports Note — [Profile] The Man Lin Yu-ting Carried on Her Back: "We Must Also Become Our Own Magicians"](https://running.biji.co/index.php?q=news&act=info&id=110827) — See original link content for supplementary data
+[^7]: [CNA — President Lai congratulates Lin Yu-ting and Chen Nien-chin via video call, praising Huang Hsiao-wen's spirit as a sparring partner](https://www.cna.com.tw/news/aspt/202408110200.aspx) — Lai Ching-te held a video call with Lin Yu-ting and Chen Nien-chin, discussing the 5-0 victories in every match, the coach's companionship of approximately 15 years, and Huang Hsiao-wen staying in Paris to serve as a sparring partner.
 
-[^8]: [VERVE — The Birth Path of Gold-Medal Queen Lin Yu-ting — Coach Zeng Ziqiang's Boxing Revolution](https://www.verve.com.tw/pages/coach-zengs-boxing-revolution-the-birth-of-gold-medal-boxing-queen-lin-yuting) — See original link content for supplementary data
+[^8]: [CommonWealth Magazine — The driving force behind the Olympic gold: An interview with Lin Yu-ting's coach Tseng Tzu-chiang: 'Athletes sacrifice too much, and so do coaches...'](https://www.cw.com.tw/article/5132247) — Tseng Tzu-chiang discusses athletes' daily diet and weight management: if they eat too much at lunch or drink pearl milk tea, they must be disciplined at dinner.
 
-[^9]: [United Daily News — Writing the Best Record in Taiwanese Boxing History! Lin Yu-ting Breaks into Olympic Gold Medal Match, 11 Small Stories](https://udn.com/news/story/121721/8148581) — United Daily News Report
+[^9]: [Yahoo News — Exclusive / The 'sparring partner' who helped Lin Yu-ting win gold appears! Lee Cheng-wei is a 'junior from Culture University'](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%9E%97%E9%83%81%E5%A9%B7%E5%A5%AA%E9%87%91%E5%B9%AB%E6%89%8B-%E9%99%AA%E7%B7%B4%E5%93%A1-%E7%8F%BE%E8%BA%AB-%E6%9D%8E%E6%89%BF%E5%A8%81%E6%98%AF-124700912.html) — Lee Cheng-wei is Lin Yu-ting's junior from Culture University and her sparring partner.
 
-[^10]: [BBC News Chinese — Who is Lin Yu-ting: From Practicing Martial Arts to Protect Mother from Domestic Violence to Fighting in Olympic Boxing Final](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — BBC News Chinese Report
+[^10]: [TSNA Sports News Team — Lin Yu-ting's Olympic setback turns into spiritual nourishment, helping sparring partner Lee Cheng-wei become a national athlete](https://tsna.com/article/68148) — Lee Cheng-wei was brought in by Tseng Tzu-chiang to spar with Lin Yu-ting while studying at Yingge Commercial & Industrial Vocational High School, and he has been the longest-serving member of the sparring team.
 
-[^11]: [CommonWealth Magazine — The Real Life Behind Lin Yu-ting's Olympic Gold Medal](https://bookzone.cwgv.com.tw/article/34168) — CommonWealth Magazine Special Article
+[^11]: [Business Weekly — More like an opponent than an opponent! Lin Yu-ting's gold medal sparring partner Lee Cheng-wei](https://www.businessweekly.com.tw/careers/blog/3016578) — Tseng Tzu-chiang scouted Lee Cheng-wei to be a sparring partner in 2015; 'whatever Lin practices, Lee practices,' and he has been sparring for 9 years.
+
+[^12]: [The Reporter — (Confessions of an Olympian) Lin Yu-ting: Being treated as a role model for juniors is also a form of pressure](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — Lin Yu-ting discusses her 2021 defeat at the Tokyo Olympics, her transition to training with Huang Hsiao-wen, and the pressure of being a role model; the report also mentions that Tseng Tzu-chiang hired a sports psychologist.
+
+[^13]: [Liberty Sports — Olympic Boxing: Unfazed by pre-match gender controversy! Lin Yu-ting wins 5-0 to secure first Olympic victory and advance to top 8](https://www.ltsports.com.tw/article/171986) — Lin Yu-ting lost 2-3 to Filipino athlete Nesthy Petecio in the round of 16 at the Tokyo Olympics.
+
+[^14]: [TVBS News — Lin Yu-ting wins bronze at Boxing Championships! Fierce battle against North Korea; slipped and received a count, 'regrettably losing to a strong opponent'](https://news.tvbs.com.tw/sports/3170909) — On March 19, 2026, Lin Yu-ting's appeal was passed, confirming her eligibility for the Championships; she lost to North Korean athlete Won Eun-gyeong in the semifinals of the Championships, earning a bronze medal.
+
+[^15]: [CNA News Platform — Associate Professor Lin Yu-ting achieves second consecutive Asian Games boxing title; Culture University leads delegation to welcome gold medalist](https://www.cna.com.tw/postwrite/chi/446002) — Chinese Culture University press release: Associate Professor Lin Yu-ting won the women's 60kg gold at the 2026 Aichi-Nagoya Asian Games by defeating Yang Chengyu 5-0, defending her title.
+
+[^16]: [AP — IOC banishes boxing governing body from Olympics, but the sport will still be at the Paris Games](https://apnews.com/article/boxing-olympics-ioc-iba-paris-1338983c3c1d0ccef6936f8a3fe34154) — The IOC terminated IBA's Olympic status due to governance issues; IBA faces nearly US$20 million in debt and financial dependence on Russia's Gazprom.
+
+[^17]: [PTS News — J.K. Rowling questions gender of Taiwan's boxing queen Lin Yu-ting; IOC and Sports Administration: Complies with competition regulations](https://news.pts.org.tw/article/707611) — J.K. Rowling and McGran shared reports on social media questioning Lin Yu-ting's eligibility; the IOC and the Sports Administration responded that she meets all requirements.
+
+[^18]: [PTS News — Lin Yu-ting's gender issue exploited again; IOC emphasizes eligibility is secure](https://news.pts.org.tw/article/708105) — The Paris Olympics boxing working group and the IOC issued statements responding to questions regarding Lin Yu-ting's gender.
+
+[^19]: [TVBS News — Supporting the 'Taiwan Boxing Queen'! Blue and Green camps urge government to sue J.K. Rowling overseas](https://news.tvbs.com.tw/politics/2572757) — Taiwanese politicians from both the Pan-Blue and Pan-Green camps responded to the questioning of Lin Yu-ting by Rowling and McGran.
+
+[^20]: [UDN — Writing the best chapter in Taiwan boxing history! Lin Yu-ting advances to Olympic gold medal match; 11 small stories](https://udn.com/news/story/121721/8148581) — Lin Yu-ting discusses opponents using gender controversy to 'make a scene' and her response that she will 'only perform better on the field.'
+
+[^21]: [PTS News — Lin Yu-ting advances to gold medal match with 5-0 victory, rewriting Taiwan's best Olympic boxing record](https://news.pts.org.tw/article/708890/amp) — Defeated the Turkish athlete 5-0 in the semifinals; despite the opponent making an 'X' gesture on stage after the match, Lin Yu-ting remained calm.
+
+[^22]: [CNA — Lin Yu-ting honored to be called 'Taiwan's Daughter' upon return; hopes to be a better role model to light up others](https://www.cna.com.tw/news/aspt/202408130041.aspx) — Lin Yu-ting discussed the title of 'Taiwan's Daughter' and her responsibility as a role model, and was appointed by the Sports Administration as a national public welfare ambassador against bullying.
+
+[^23]: [UDN — Lin Yu-ting reveals she was once verbally bullied for gender-neutral dressing; calls on bystanders to stand up and show support](https://udn.com/news/story/6885/8557753) — Acting as an anti-bullying ambassador, Lin Yu-ting appeared in a promotional video for the Ministry of Education and revealed she had previously faced verbal bullying due to her gender-neutral style.
+
+[^24]: [PTS News — Image video encourages women; Lin Yu-ting endorses menstrual products](https://news.pts.org.tw/article/711250) — Lin Yu-ting became a spokesperson for a sanitary pad brand that has supported the Yingge Boxing Team for 10 years; the promotional video opens with 'If I am not a girl, what is a girl?'
+
+[^25]: [Marie Claire — What should a girl look like? Lin Yu-ting's gender controversy and the Chen Shih-yuan airport incident: Online misogyny has always existed](https://www.marieclaire.com.tw/community/opinion/80924) — Lin Yu-ting became a brand ambassador for Taiwan's Kang Chiang 'Tian Tian Sanitary Napkin' brand.
+
+[^26]: [Economic Daily — President of Culture University leads team to welcome Olympic gold medalist Lin Yu-ting home](https://www.1111.com.tw/news/jobns/157257) — The President of Culture University met her at the airport, stating that Lin Yu-ting will teach in the Department of Physical Education and begin doctoral studies in August.
+
+[^27]: [Economic Daily — Lin Yu-ting appears at Culture University new faculty workshop](https://www.1111.com.tw/news/jobns/157508) — Lin Yu-ting attended the 2024 Culture University new faculty workshop and will serve as a full-time teacher in the Department of Physical Education.
+
+[^28]: [Yahoo Sports — Elite Awards: Mentor Tseng Tzu-chiang and student Lin Yu-ting both win awards; boxing accounts for 3 out of 8 awards](https://tw.sports.yahoo.com/news/%E7%B2%BE%E8%8B%B1%E7%8D%8E-%E6%9B%BE%E8%87%AA%E5%BC%B7-%E6%9E%97%E9%83%81%E5%A9%B7%E5%B8%AB%E5%BE%92%E9%9B%99%E7%8D%B2%E7%8D%8E-8%E7%8D%8E%E9%A0%85%E6%8B%B3%E6%93%8A%E5%B0%B1%E4%BD%94-%E5%8D%8A-113521495.html) — Elite Awards: Lin Yu-ting won Best Female Athlete, and Tseng Tzu-chiang won Best Coach.
+
+[^29]: [ETtoday Sports — Breaking: Elite Awards annual best male and female athletes announced; Tang Chia-hung and Lin Yu-ting win awards](https://sports.ettoday.net/news/2877588) — In her acceptance speech, Lin Yu-ting quoted Socrates: 'Only through experiencing wind and rain can one achieve life.'
+
+[^30]: [PTS News — Record-breaking NT$460 million in national glory bonuses distributed; Lin Yu-ting awarded NT$20.9 million for Olympic gold](https://news.pts.org.tw/article/727734) — Lin Yu-ting's total national glory bonuses amount to NT$20.9 million (NT$20 million for the Olympic gold medal plus a supplemental NT$900,000 for her World Championship bronze medal).
+
+[^31]: [Liberty Times — Boxing: World Boxing Officially Recognizes Lin Yu-ting's Participation, Thanks National Association for Full Cooperation](https://sports.ltn.com.tw/news/breakingnews/5378222) — The World Boxing Medical Committee sent a letter to the Chinese Taipei Boxing Association, confirming Lin Yu-ting's eligibility to compete in the women's division.
+
+[^32]: [UDN — Boxing / After Failing to Match North Korea's Asian Games Silver, Lin Yu-ting Wins Bronze at Asian Championships in First Post-Olympic Bout](https://udn.com/news/story/7001/9424587) — In her first match after the Olympics, Lin Yu-ting won a bronze medal at the 2026 Asian Boxing Championships.
+
+[^33]: [TVBS News — Paris Olympics / The 'Four Golden Girls' of Boxing Aim for a Medal Grand Slam; Lin Yu-ting Seeks to Erase the Resentment from the Tokyo Olympics](https://news.tvbs.com.tw/sports/2558979) — Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi are collectively known as the 'Four Golden Girls' of boxing; the Chinese Taipei boxing team has secured 6 Olympic spots.

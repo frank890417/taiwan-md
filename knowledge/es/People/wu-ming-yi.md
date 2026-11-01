@@ -225,7 +225,7 @@ El ojo compuesto ha evolucionado hasta convertirse en el entrenamiento de observ
 
 Una vez que se apagan los neones del set de Sanchiao, el centro comercial fictivo será demolido otra vez. La memoria de la demolición real en 1992 y la segunda desaparición del set alrededor de 2020 se superponen en un mismo pasillo. Si el lector recorre ese soportal en la serie de PTS, está usando los ojos de otro para vivir una vez más un espacio que ya no existe.
 
-En la web oficial del Booker, la obra _The Stolen Bicycle_ de 2018 sigue figurando como _Longlisted_; en la línea de la nacionalidad del autor, tras varios cambios y reversiones, dice "Taiwan". [^23][^2⁠5] Esa línea solo aporta profundidad. Lo que realmente sigue en movimiento son los neones del centro comercial, el óxido en las cadenas, las olas de plástico del Pacífico y las pilas de libros en las ventanas de las librerías de Hualien: todo sigue siendo visto simultáneamente por el mismo par de ojos.
+En la web oficial del Booker, la obra _The Stolen Bicycle_ de 2018 sigue figurando como _Longlisted_; en la línea de la nacionalidad del autor, tras varios cambios y reversiones, dice "Taiwan". [^23][^25] Esa línea solo aporta profundidad. Lo que realmente sigue en movimiento son los neones del centro comercial, el óxido en las cadenas, las olas de plástico del Pacífico y las pilas de libros en las ventanas de las librerías de Hualien: todo sigue siendo visto simultáneamente por el mismo par de ojos.
 
 Los ojos compuestos siguen rotando. Mientras haya alguien que mire así, las cosas desaparecidas tendrán la oportunidad de ser reescritas.
 

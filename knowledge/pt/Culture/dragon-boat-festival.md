@@ -173,7 +173,7 @@ Aquele ovo na prova do exame de admissão que se exige derrubar, e aquele ovo qu
 ## Créditos das imagens
 
 - [Dllu / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Two_Zongzi_styles.jpg) — CC BY-SA 4.0 (imagem de abertura: dois estilos de zongzi)
-- [Mk2010 / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Auspicious_plants_(Dragon_Boat_Festival) — CC BY-SA 3.0 (plantas apotropaicas na porta no Festival do Barco-Dragão)
+- [Mk2010 / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Auspicious_plants_(Dragon_Boat_Festival).jpg>) — CC BY-SA 3.0 (plantas apotropaicas na porta no Festival do Barco-Dragão)
 - [玄史生 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Standing_Eggs_Event_of_2017_Taipei_Dragon_Boat_Festival_20170530a.jpg) — CC0 (atividade de ovo em pé no Festival do Barco-Dragão de Taipé 2017)
 - [玄史生 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Small_Dragon_Boat_Racing_in_afternoon_20170530a.jpg) — CC0 (corrida de barcos-dragão na Margem Dajia de Taipé 2017)
 - [Tony Tseng / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spectators_watch_the_start_of_the_race_during_the_2015_Lukang_Dragon_Boat_Festival.jpg) — CC BY 2.0 (corrida de barcos-dragão do Festival do Barco-Dragão de Lukang 2015)

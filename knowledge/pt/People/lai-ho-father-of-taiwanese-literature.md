@@ -1,114 +1,114 @@
 ---
-title: "Lai Ho: Vestindo a 'camisa de ilha' da 'Mazu de Changhua', e sua balança romana que nunca cedeu"
-description: "Na véspera do Ano Novo Lunar de 1943, o renomado médico de Changhua, Lai Ho, queimava rotineiramente as contas devedoras de pacientes pobres. Este médico, aclamado como 'Pai da Nova Literatura de Taiwan', sob intensa pressão colonial salvava vidas com o bisturi e combatia a injustiça com a pena; sua obra 'Uma Balança Romana' permanece até hoje como símbolo cultural da resistência de Taiwan à violência do poder."
+title: 'Lai Ho: A "Mazu de Changhua" que vestia trajes locais e sua balança que nunca se curvou'
+description: 'Antes da véspera de Ano Novo de 1943, o renomado médico de Changhua, Lai Ho, queimava as dívidas de seus pacientes pobres. Conhecido como o "Pai da Nova Literatura de Taiwan", ele usou seu bisturi para salvar vidas e sua caneta para combater a injustiça sob a opressão colonial.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'Lai Ho',
     'Literatura de Taiwan',
     'Changhua',
-    'Período de Ocupação Japonesa',
+    'Período de Dominação Japonesa',
     'História da Medicina',
     'Movimentos Sociais',
   ]
-readingTime: 12
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ea423174510ba903'
+sourceCommitSha: '716685aa1'
+sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-10-24T09:47:30+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Lai Ho (1894-1943) foi o médico-escritor mais influente do período de ocupação japonesa. Com uma mão empunhava o bisturi para tratar os pobres, sendo reverenciado como «Mazu de Changhua» e «Imortal Ho»; com a outra, empunhava a pena para inaugurar a literatura vernacular de Taiwan, criticando a injustiça do domínio colonial. Sua vida condensou a luta e a dignidade do povo taiwanês sob o domínio japonês, especialmente seu gesto anual de queimar as notas promissórias dos pacientes na véspera do Ano Novo Lunar, e seus escritos na prisão, que ainda hoje são paradigmas da ética médica e do espírito humanista de Taiwan.
+> **Resumo em 30 segundos:** Lai Ho (1894-1943) foi o médico e escritor mais influente do período de dominação japonesa. Com uma mão, usava o bisturi para tratar os pobres, sendo venerado como a "Mazu de Changhua" e "He-zai Xian"; com a outra, empunhava a caneta para fundar a literatura vernácula de Taiwan e criticar as injustiças do governo colonial. Sua vida sintetiza a luta e a dignidade dos taiwaneses sob o domínio japonês; especialmente seu ato de bondade de queimar as notas promissórias de seus pacientes todos os anos na véspera de Ano Novo, e seus escritos produzidos na prisão, que permanecem como modelos do espírito humanista e da ética médica em Taiwan.
 
-> «O mundo não permite que a tirania exista; os bravos devem lutar pela justiça.»[^1]
+"O mundo não permite a existência do poder; o guerreiro deve lutar pela justiça."[^1]
 
-Em 8 de dezembro de 1941, no dia do ataque a Pearl Harbor, um médico de bigode fino, vestindo a _camisa de ilha_ (traje tradicional leve de Taiwan), foi levado pela polícia militar japonesa em Changhua sem qualquer justificativa. Era sua segunda prisão. Na cela, em papel grosseiro, escreveu um _Diário de Prisão_ carregado de opressão e reflexão.
+Em 8 de dezembro de 1941, no dia do ataque a Pearl Harbor, um médico em Changhua, com bigode e vestindo _benshandam_ (trajes tradicionais leves de Taiwan), foi levado pela polícia militar japonesa sem qualquer motivo. Esta foi a segunda vez que ele foi preso. Na prisão, ele escreveu o "Diário de Prisão", repleto de reflexões e sentimentos contidos.
 
-Esse médico chamava-se Lai Ho, mas é mais amplamente conhecido como o «Pai da Nova Literatura de Taiwan».
+Este médico chamava-se Lai Ho, mas sua identidade mais conhecida é a de "Pai da Nova Literatura de Taiwan".
 
-### O «Mazu de Changhua» no consultório: de Chiayi a Xiamen, o despertar de um médico
+### A "Mazu de Changhua" no consultório: do despertar em Chiayi ao serviço em Xiamen
 
-Em 1914, após formar-se na Escola de Medicina do Governo-Geral de Taiwan, Lai Ho estagiou em Taipé e, entre 1914 e 1915, serviu no Hospital de Chiayi do Governo-Geral (antecessor do atual Hospital de Chiayi do Ministério da Saúde e Bem-Estar).[^2] Em 1918, partiu para o Hospital Boai em Gulangyu, Xiamen, onde testemunhou as correntes de pensamento do Movimento de 4 de Maio e a realidade social chinesa; retornou a Taiwan em 1919 e abriu a «Clínica Lai Ho» em Changhua.[^3]
+Em 1914, após se graduar na Escola Médica do Governo-Geral de Taiwan, Lai Ho realizou seu estágio em Taipé e, entre 1914 e 1915, trabalhou no Hospital de Chiayi do Governo-Geral de Taiwan (precursor do atual Hospital de Chiayi do Ministério da Saúde e Bem-Estar).[^2] Em 1918, viajou para o Hospital Bo'ai na ilha de Gulangyu, em Xiamen, onde serviu como médico, vivenciando as correntes de pensamento do Movimento de Quatro de Maio e a realidade social da China. Ao retornar a Taiwan em 1919, abriu o "Consultório Médico Lai Ho" em Changhua.[^3]
 
-Na era colonial de rígida hierarquia de classes, Lai Ho escolheu abandonar o terno ocidental e vestir longamente a _camisa de ilha_; isso não era apenas estilo, mas uma recusa ao aparato burocrático colonial e uma tomada de posição ao lado do povo humilde.[^4]
+Em uma era colonial de rígidas hierarquias de classe, Lai Ho escolheu deixar de lado os ternos ocidentais para vestir habitualmente o _benshandam_. Isso não era apenas um estilo de vestimenta, mas uma declaração política de rejeição ao sistema burocrático colonial e de solidariedade com as classes populares.[^4]
 
-A população local o reverenciava como «Mazu de Changhua», «Imortal Ho» ou «Hua Tuo reencarnado». O mais comovente era seu ritual anual na véspera do Ano Novo Lunar: queimava as contas médicas dos pacientes pobres, para que pudessem «passar o ano sem dívidas». Houve paciente que veio na véspera pagar; ele sorriu e disse: «A nota já foi queimada, não precisa devolver.»[^5] Ao lado da clínica ficava o «Salão de Proteção Mútua» (asilo de mendigos), onde ele frequentemente convidava velhos poetas ambulantes a tocar _yueqin_ e copiava canções populares como «Canção do Ano Xin-you» (sobre a revolta de Tai Chao-chun), entrelaçando prática médica e preservação cultural.[^6]
+A população local o reverenciava como a "Mazu de Changhua", "He-zai Xian" ou uma "reencarnação de Hua Tuo". O gesto mais emocionante era seu costume anual antes da véspera de Ano Novo: queimar as faturas médicas de pacientes pobres para que eles pudessem "passar o Ano Novo sem dívidas". Certa vez, um paciente correu para pagar a dívida na véspera de Ano Novo, e ele sorriu dizendo: "A nota promissória já foi queimada; não se preocupe em pagar."[^5] Ao lado do consultório ficava o "Linbaoguan" (um abrigo para necessitados), onde ele frequentemente convidava velhos bardos para tocar a _yueqin_ e transcrevia canções folclóricas, como a "Canção de Xinyou" (sobre a insurreição de Dai Wan-sheng), unindo a prática médica à preservação cultural.[^6]
 
-### Aquela balança romana quebrada: o rugido literário após o incidente de Erlin
+### A balança quebrada: o grito literário após o Incidente de Erlin
 
-A literatura de Lai Ho sempre esteve umbilicalmente ligada a eventos históricos concretos. Em 1925, eclodiu o «Incidente dos Camponeses de Cana de Erlin», em que agricultores resistiram à exploração da Associação de Açúcar e foram reprimidos pela polícia; isso o inspirou a escrever seu primeiro poema novo, «Sacrifício sob o Despertar».[^7] Publicado em fevereiro de 1926, «Uma 'Balança Romana'» é a representação por excelência desse espírito de resistência.
+A literatura de Lai Ho sempre esteve intrinsecamente ligada a eventos históricos concretos. Com a eclosão do "Incidente dos Agricultores de Cana de Erlin" em 1925, onde camponeses foram reprimidos pela polícia ao resistirem à exploração da companhia açucareira, ele foi inspirado a escrever seu primeiro poema moderno, "Sacrifício sob a Consciência".[^7] Publicado em fevereiro de 1926, o poema "Uma Balança" (_Yi gan 'cheng-zai'_) tornou-se o símbolo desse espírito de resistência.
 
-No conto, a balança romana quebrada pelo policial simboliza a violência do poder colonial que manipula a lei arbitrariamente.[^8] No posfácio, Lai Ho menciona que a obra foi profundamente influenciada por «Crainquebille», de Anatole France, mas a transmutou em experiência local taiwanesa, exibindo a «resistência dos fracos».[^9]
+A balança quebrada pelo policial na história simboliza a violência dos colonizadores que manipulam as leis e o poder arbitrariamente.[^8] Em um posfácio, Lai Ho mencionou que a obra foi influenciada por _Clamrose_, de Anatole France, mas ele a transformou em uma experiência local de Taiwan, demonstrando a "resistência dos fracos".[^9]
 
-Além disso, o poema longo «Elegia do Sul», publicado em abril de 1931 no _Taiwan Shinminpo_ sob o pseudônimo «Andersen», é uma obra maior que pranteia o Incidente de Musha e denuncia a violência colonial.[^10]
+Além disso, o longo poema "Elegia do País do Sul", publicado em abril de 1931 sob o pseudônimo "An-du-sheng" no _Taiwan Shinmin Bao_, é uma obra crucial que lamenta o Incidente de Wushe e denuncia a violência colonial.[^10]
 
-### «Avançar»: lucidez na escuridão e preocupação com a cisão entre esquerda e direita
+### "Avançar": lucidez na escuridão e a preocupação com as divisões
 
-Em 1927, a Associação Cultural de Taiwan enfrentou grave cisão entre esquerda e direita. Como diretor da associação, Lai Ho angustiava-se com o desgaste interno. Em seu ensaio «Avançar», escreveu em linguagem alegórica:
+Em 1927, a Associação Cultural de Taiwan enfrentava graves divisões entre as alas esquerda e direita. Como membro do conselho da associação, Lai Ho estava profundamente preocupado com o desgaste interno do movimento. Em seu ensaio "Avançar", ele utilizou uma linguagem alegórica para escrever:
 
-> «Nesta escuridão, nem por isso deixa de ser possível avançar. Não sabemos de onde vem a coragem que nos faz caminhar sem medo rumo à estrada desconhecida.»[^11]
+"Nesta escuridão, não há sequer a possibilidade de não seguir em frente. Não sabemos de onde vem a coragem que nos permite avançar sem medo rumo ao desconhecido."[^11]
 
-O final mostra os dois personagens separando-se, simbolizando a divergência entre intelectuais sobre a via de luta. Ele clamava pela unidade, para que forças limitadas não se consumissem em lutas internas.[^12] Essa solicitude também se manifestou no apoio a jovens escritores: Yang Kui, Wang Sing-nan, Lu Ho-jo, Wu Cho-liu, Yeh Shih-tao e outros todos receberam sua orientação e cuidado.[^13]
+O desfecho da história mostra dois personagens seguindo caminhos opostos, simbolizando as divergências dos intelectuais sobre as linhas de resistência. Ele clamava pela unidade para evitar o esgotamento das forças limitadas do movimento.[^12] Esse cuidado também se refletia em seu apoio a escritores mais jovens; figuras como Yang Kui, Wang Shi-lang, Lü He-ruo, Wu Tuo-liu e Yeh Shih-tao receberam sua orientação e amparo.[^13]
 
-### Língua e identidade: costurando o taiwanês nas fraturas
+### Linguagem e Identidade: costurando o taiwanês entre as lacunas
 
-Lai Ho, formado em estudos clássicos chineses, sob treinamento médico ocidental moderno e contexto colonial, moveu-se sempre entre o «taiwanês escrito» e o vernacular chinês. Ao criar, pensava primeiro em chinês clássico, redigia em mandarim e, deliberadamente, inseria vocábulos do minnan (taiwanês) como _cheng-a_ (balança romana), _khoan_ (lento/despreocupado), _khek-khui_ (apertado/difícil), buscando aproximar-se da língua cotidiana e da vivência do povo taiwanês.[^14]
+Com formação tradicional em estudos clássicos chineses, mas treinado na medicina ocidental moderna e vivendo sob o contexto colonial, Lai Ho explorou constantemente a fronteira entre o "texto em taiwanês" e o vernáculo chinês. Ao criar, ele frequentemente pensava primeiro em chinês clássico e escrevia em mandarim, mas deliberadamente incorporava vocabulário do Minnan (taiwanês), como _cheng-zai_, _lang_ ou _ke-kuei_, buscando aproximar sua obra da linguagem cotidiana e das experiências de vida do povo de Taiwan.[^14]
 
-| Obra importante                              | Data de publicação | Tema central e relação histórica                                                      |
-| -------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------- |
-| «O Burburinho»                               | 1926.01            | Crítica a costumes feudais e desperdício, retrato realista da vida nas camadas baixas |
-| «Uma 'Balança Romana'»                       | 1926.02            | Crítica à violência legal, resposta ao incidente dos camponeses de Erlin              |
-| «O Sr. Cobra»                                | 1930.01            | Conflito entre medicina moderna e crenças populares, crítica social                   |
-| «Elegia do Sul»                              | 1931.04            | Pranto pelo Incidente de Musha, poema longo de protesto do período japonês            |
-| «A História do Homem que Gosta de Processos» | 1934.12            | Sátira à exploração do povo pelo sistema legal colonial                               |
+| Obra Importante                                               | Data de Publicação | Tema Central e Contexto Histórico                                                 |
+| :------------------------------------------------------------ | :----------------- | :-------------------------------------------------------------------------------- |
+| 〈Dou Nao Re〉 (Agitação)                                     | 1926.01            | Crítica aos costumes feudais e ao desperdício; retrato da vida das classes baixas |
+| 〈Yi gan 'cheng-zai'〉 (Uma Balança)                          | 1926.02            | Crítica à violência jurídica; resposta ao Incidente de Erlin                      |
+| 〈She Xian Sheng〉 (O Sr. Cobra)                              | 1930.01            | Conflito entre medicina moderna e crenças populares; crítica social               |
+| 〈Nan Guo Ai Ge〉 (Elegia do País do Sul)                     | 1931.04            | Lamento pelo Incidente de Wushe; importante poema de protesto da era colonial     |
+| 〈Shan Song De Ren De Gu Shi〉 (A História de um Homem Justo) | 1934.12            | Sátira sobre a exploração do povo pelo sistema jurídico colonial                  |
 
-### O eco do bravo: o totem literário no Santuário dos Mártires
+### O eco do guerreiro: o totem literário no Templo dos Mártires
 
-Em 31 de janeiro de 1943, Lai Ho faleceu de doença cardíaca aos 49 anos (50 pela contagem tradicional). Nasceu em 1894, ano em que Taiwan foi cedida ao Japão, e morreu dois anos antes da rendição japonesa, testemunhando meio século de sofrimento colonial. Em seu testamento, humildemente disse que suas obras «não valem nada, queimar não faz mal».[^15]
+Em 31 de janeiro de 1943, Lai Ho faleceu de doença cardíaca aos 49 anos (50 pela idade tradicional). Nascido em 1894, o ano em que Taiwan foi cedida ao Japão, e falecido dois anos antes da derrota japonesa, ele testemunhou meio século de sofrimento colonial. Em seu testamento, ele disse humildemente que suas obras "não tinham valor e não haveria problema se fossem queimadas".[^15]
 
-Após a guerra, Lai Ho foi incluído no Santuário dos Mártires em 1951, removido em 1958 por razões políticas e reintegrado em 1984 após reabilitação.[^16] Hoje, ao pé do Monte Bagua em Changhua, o «Muro de Poemas de Lai Ho» (cem chapas de aço) grava sua obra; todo ano, no «Dia de Lai Ho», atividades perpetuam seu espírito.[^17]
+Após a guerra, Lai Ho foi incluído no Templo dos Mártires em 1951, removido por razões políticas em 1958, e reintegrado após sua reabilitação em 1984.[^16] Hoje, na base da Montanha Bagua em Changhua, a "Parede Poética de Lai Ho" (composta por cem placas de aço) grava suas obras, e atividades anuais no "Dia de Lai Ho" mantêm vivo seu espírito.[^17]
 
-📝 **Nota do curador**: A história de Lai Ho ensina que a resistência mais forte não são armas, mas a compaixão pelas pessoas e a sede inextinguível por justiça. Suas palavras e a imagem da _camisa de ilha_ tornaram-se o DNA da literatura de Taiwan, dando às gerações posteriores a coragem de seguir adiante mesmo na escuridão.
+📝 **Nota do Curador**: A história de Lai Ho nos ensina que a resistência mais poderosa não é uma arma, mas a compaixão pelo ser humano e o desejo inextinguível por justiça. Sua escrita e sua imagem vestindo trajes locais tornaram-se o DNA da literatura de Taiwan, permitindo que as gerações futuras mantenham a coragem de avançar mesmo na escuridão.
 
 ### Referências
 
-[^1]: [Lai Ho «Wu-ren», _Taiwan Minpao_ 1925](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Poesia inicial de Lai Ho, expressa a consciência de luta: «O mundo não permite que a tirania exista; os bravos devem lutar pela justiça»
+[^1]: [Lai Ho 〈Wu Ren〉 (Página do autor na WikiSource)](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Um poema em estilo _qiyan lüshi_; o verso "O mundo não permite a existência do poder; o guerreiro deve lutar pela justiça" provém desta obra. O ano de publicação original em jornais ainda é incerto: a WikiSource apenas o lista no intervalo 1918–1943 sem data específica. A nota anterior mencionava "Taiwan Minbao, 1925", mas o link não suporta esse ano e foi removido em 2026-10-24 (issue #1897). Para a data exata, consulte as _Obras Completas de Lai Ho_ ou a Fundação Cultural Lai Ho.
 
-[^8]: [Yeh Shih-tao _História Esquemática da Literatura de Taiwan_ (Avant-garde Publishing, 1987)](https://search.worldcat.org/title/16894890) — Primeira obra sistemática de história literária de Taiwan, descreve «Uma Balança Romana» como representação da crítica à violência legal colonial
+[^8]: [Yeh Shih-tao, 《História da Literatura de Taiwan》 (Editora Qianwei, 1987)](https://search.worldcat.org/title/16894890) — O primeiro tratado sistemático sobre a história literária de Taiwan, descrevendo "Uma Balança" como uma obra representativa da crítica à violência jurídica colonial.
 
-[^9]: [Lai Ho, posfácio de «Uma 'Balança Romana'», 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lai Ho relata a inspiração de «Crainquebille», de France, para esta obra
+[^9]: [Posfácio de Lai Ho 〈Uma Balança〉, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lai Ho relata como _Clamrose_, de Anatole France, inspirou esta obra.
 
-[^17]: [Departamento de Cultura do Condado de Changhua: Trilha Literária do Monte Bagua e Muro de Poemas de Lai Ho](https://www.bocach.gov.tw/) — Cem chapas de aço gravam a obra de Lai Ho; todo ano o «Dia de Lai Ho» perpetua seu espírito
+[^17]: [Departamento de Cultura do Condado de Changhua: Trilha Literária da Montanha Bagua e Parede Poética de Lai Ho](https://www.bocach.gov.tw/) — Cem placas de aço gravadas com as obras de Lai Ho; o "Dia de Lai Ho" mantém seu espírito anualmente.
 
-[^11]: [Lai Ho, ensaio «Avançar», _Taiwan Minpao_ 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Em linguagem alegórica, expõe a preocupação com a cisão da Associação Cultural, clama pela unidade para evitar desgaste interno
+[^11]: [Ensaio de Lai Ho 〈Avançar〉, 《Taiwan Minbao》, 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Uso de alegoria para expressar a preocupação com a divisão da Associação Cultural; apelo à unidade para evitar o desgaste interno.
 
-[^15]: [Lin Jui-mei _Lai Ho e o Movimento da Nova Literatura de Taiwan_ (Avant-garde Publishing)](https://search.worldcat.org/title/35884019) — Obra clássica de estudos sobre Lai Ho, inclui o testamento: «não valem nada, queimar não faz mal»
+[^15]: [Lin Jui-ming, 《Lai Ho e o Movimento da Nova Literatura de Taiwan》 (Editora Qianwei)](https://search.worldcat.org/title/35884019) — Obra clássica de estudo sobre Lai Ho, incluindo sua modesta declaração no testamento: "não tinham valor e não haveria problema se fossem queimadas".
 
-[^12]: [Associação Soka Gakkai de Taiwan «Lai Ho: Humanista da Ação»](https://www.twsgi.org.tw/index-author.php?author_id=129) — Coluna de crítica literária sobre Lai Ho: ver conteúdo no link original
+[^12]: [Soka Taiwan 〈Lai Ho: Um Humanista em Ação〉](https://www.twsgi.org.tw/index-author.php?author_id=129) — Coluna de crítica literária sobre Lai Ho; ver detalhes no link original.
 
-[^2]: [Lai Ho — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Vida 1894-1943 + formatura em escola médica + estágio no Hospital de Chiayi e outros dados básicos
+[^8]: [Lai Ho — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Dados biográficos básicos (1894-1943), graduação médica e estágio no Hospital de Chiayi.
 
-[^3]: [Memória de Taiwan — Biblioteca Nacional](https://tm.ncl.edu.tw/) — + [Open Museum Acervo Lai Ho](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Registro de serviço no Hospital Boai de Gulangyu, Xiamen, em 1918
+[^3]: [Memória de Taiwan — Biblioteca Nacional](https://tm.ncl.edu.tw/) — + [Acervo Open Museum Lai Ho](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Registros do serviço de Lai Ho no Hospital Bo'ai em Xiamen, 1918.
 
-[^4]: [Site oficial da Fundação Cultural Lai Ho](https://www.laiho.org.tw/) — Registro da postura política do uso da _camisa de ilha_
+[^4]: [Site Oficial da Fundação Cultural Lai Ho](https://www.laiho.org.tw/) — Registro sobre o uso político dos trajes locais (_benshandam_).
 
-[^5]: [Fundação Cultural Lai Ho: Testemunho oral da queima de contas](https://www.laiho.org.tw/) — «Mazu de Changhua», «Imortal Ho» queimava notas de pacientes pobres toda véspera de Ano Novo
+[^5]: [Fundação Cultural Lai Ho: Relatos sobre o costume de queimar faturas](https://www.laiho.org.tw/) — Sobre os títulos de "Mazu de Changhua" e "He-zai Xian" queimando dívidas de pacientes pobres na véspera de Ano Novo.
 
-[^6]: [Fundação Cultural Lai Ho: Salão de Proteção Mútua e cuidado social](https://www.laiho.org.tw/) — Ao lado da clínica, o «Salão de Proteção Mútua» convidava velhos poetas a copiar canções populares como «Canção do Ano Xin-you»
+[^6]: [Fundação Cultural Lai Ho: O Linbaoguan e o cuidado social](https://www.laiho.org.tw/) — Sobre o abrigo ao lado do consultório onde bardos eram convidados para transcrever canções folclóricas como "Canção de Xinyou".
 
-[^7]: [Museu Digital da Literatura Açucareira de Taiwan: Incidente de Erlin e «Sacrifício sob o Despertar»](https://jiayichinese.pixnet.net/blog/posts/8041877028) — Incidente dos camponeses de cana de Erlin em 1925 inspirou o primeiro poema novo de Lai Ho
+[^7]: [Museu Digital da Indústria Açucareira de Taiwan: O Incidente de Erlin e 〈Sacrifício sob a Consciência〉](https://jiayichinese.pixnet.net/blog/posts/8041877028) — Como o incidente de 1925 inspirou o primeiro poema moderno de Lai Ho.
 
-[^10]: [«Elegia do Sul» — Wikisource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Publicado em 25/04/1931 e 02/05/1931 no _Taiwan Shinminpo_, poema longo pranteando o Incidente de Musha
+[^10]: [〈Elegia do País do Sul〉 — WikiSource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Publicado em 25/04/1931 e 02/05 no _Taiwan Shinmin Bao_; longo poema lamentando o Incidente de Wushe.
 
-[^13]: [Yeh Shih-tao _História Esquemática da Literatura de Taiwan_ — Registro de apoio a jovens](https://search.worldcat.org/title/16894890) — Registros de Lai Ho orientando Yang Kui, Wang Sing-nan, Lu Ho-jo, Wu Cho-liu, Yeh Shih-tao e outros
+[^13]: [Yeh Shih-tao, 《História da Literatura de Taiwan》 — Registros de apoio a novos escritores](https://search.worldcat.org/title/16894890) — Registro do apoio de Lai Ho a escritores como Yang Kui, Wang Shi-lang, Lü He-ruo, Wu Tuo-liu e Yeh Shih-tao.
 
-[^14]: [Pesquisa sobre uso da língua na Obra Completa de Lai Ho — Lin Jui-mei et al.](https://www.laiho.org.tw/) — Exploração do «taiwanês escrito» com fusão de três camadas: chinês clássico, mandarim e minnan
+[^14]: [Estudo sobre o uso da linguagem nas Obras Completas de Lai Ho — Editado por Lin Jui-ming et al.](https://www.laiho.org.tw/) — A exploração do "texto em taiwanês" através da fusão de chinês clássico, mandarim e Minnan.
 
-[^16]: [Santuário dos Mártires (Taiwan) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Lai Ho incluído em 1951 / removido em 1958 por política / reintegrado em 1984 após reabilitação
+[^16]: [Templo dos Mártires (Taiwan) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Registros sobre a inclusão de Lai Ho em 1951, remoção política em 1958 e reabilitação em 1984.

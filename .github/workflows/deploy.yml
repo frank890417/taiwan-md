@@ -270,7 +270,11 @@ jobs:
   # visibility。它不讀程式碼、不信任何中間指標。
   font-gate:
     name: Font visibility gate (live)
-    runs-on: ubuntu-latest
+    # 2026-11-01: ubuntu-latest 換成 26.04 後，playwright 1.59.1 沒有對應的
+    # chromium build（"Playwright does not support chromium on ubuntu26.04-x64"），
+    # 閘門在 install 階段就死、正式站的字型檢查等於沒跑。build job 用
+    # ubuntu-24.04-arm + 同版本 playwright 是綠的（run 41281536831），這裡跟著釘。
+    runs-on: ubuntu-24.04
     needs: deploy
     timeout-minutes: 10
     steps:

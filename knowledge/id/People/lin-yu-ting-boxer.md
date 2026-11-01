@@ -1,6 +1,6 @@
 ---
-title: 'Lin Yu-ting: Dari Geng Tinju Bawah Tanah di Xinzhuang hingga Medali Emas Olimpiade Paris, Sang Juara Tunggal dan Seluruh Taiwan yang Ia Pikul'
-description: 'Pada 11 Agustus 2024, di lapangan Roland Garros, Lin Yu-ting meraih medali emas tinju pertama dalam sejarah Taiwan dengan penampilan dominan. Dari geng tinju bawah tanah di Sekolah Menengah Kejuruan Yingge, ia melewati kegagalan Olimpiade Tokyo, provokasi "X" dari lawan perempat final, permainan politik internasional, dan perundungan siber lintas negara. Artikel ini mengurai filosofi "Penyihir"-nya, kontribusi mentor Li Cheng-wei di belakang layar, evolusi teknik, ilmu gender, posisi akademik universitas budaya, kohesi sosial, serta emosi revolusioner dari empat juara tinju wanita, sekaligus mencatat kemajuan epik terbaru ketika World Boxing secara resmi mengakui kelayakannya pada tahun 2026.'
+title: 'Lin Yu-ting: Dari Tim Tinju SMP Yingge ke Medali Emas Olimpiade Paris'
+description: 'Agustus 2024, Lin Yu-ting di final medali emas putri 57 kg Olimpiade Paris mengalahkan atlet Polandia dengan skor 5-0, meraih medali emas tinju Olimpiade pertama bagi Taiwan. Artikel ini merangkum perjalanannya dari memulai di tim tinju SMP Yingge, kekalahan di Olimpiade Tokyo, pencabutan medali perunggu Kejuaraan Dunia 2023, dan kontroversi gender selama Olimpiade Paris, serta jabatan pengajar, penghargaan, dan perkembangan kejuaraan 2026 setelah meraih emas, setiap klaim disertai sumber.'
 date: 2026-08-12
 category: 'People'
 tags:
@@ -17,162 +17,188 @@ tags:
 subcategory: '體育'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-08-12
+lastVerified: 2026-10-23
 lastHumanReview: false
 curation: 'incubating'
-readingTime: 25
+readingTime: 8
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: 'pre-toolkit'
-sourceContentHash: 'sha256:requeue-section-loss'
-sourceBodyHash: 'sha256:requeue-section-loss'
-translatedAt: '2026-10-15T03:50:18.782027+00:00'
+sourceCommitSha: 'df33f3cbd'
+sourceContentHash: 'sha256:9e1b5b650e967399'
+sourceBodyHash: 'sha256:985c4de8119ecefa'
+translatedAt: '2026-10-24T01:11:59.233184+00:00'
 ---
 
-Pada tanggal 11 Agustus 2024 (waktu Taiwan), di atas tanah merah lapangan Roland Garros di Paris, ketika lonceng pertandingan emas kelas 57 kg wanita berdentang, atlet Taiwan Lin Yu-ting mengalahkan atlet Polandia Julia Szeremeta dengan keunggulan mutlak lima banding nol[^1][^2]. Seperti setelah kekalahan Olimpiade Tokyo, ia kembali mengangkat pelatihnya Tseng Tzu-chiang—yang telah menemaninya selama lima belas tahun—setelah pertandingan. Momen ini tidak hanya mewujudkan keinginan bertahun-tahun antara guru dan murid, tetapi juga membawa medali emas tinju pertama dalam sejarah Taiwan[^3][^5]. Namun, berat medali emas ini jauh melebihi batas fisik dari medali itu sendiri—sebelum ia mendarat, Lin Yu-ting terpaksa berdiri di pusat badai opini global, menanggung tuduhan gender yang masif dan perburuan penyihir siber lintas negara[^5].
+Pada 11 Agustus 2024 (waktu Taiwan), Lin Yu-ting di final emas tinju putri 57 kg Olimpiade Paris mengalahkan atlet Polandia Julia Szeremeta dengan skor 5-0, meraih medali emas Olimpiade tinju pertama bagi Taiwan[^1][^2]. Setelah pertandingan, mengikuti kebiasaan "mendapat emas lalu menggendong pelatih", ia menggendong pelatihnya Zeng Zi-qiang berjalan sejenak[^3]. Selama Olimpiade ini, ia bersama atlet Aljazair Imane Khelif terlibat kontroversi gender, dan ketua IOC Thomas Bach menegaskan keduanya lahir sebagai perempuan dan berhak berkompetisi[^4].
 
 ![Presiden dan Wakil Presiden Menerima Delegasi Olimpiade Paris 2024](https://upload.wikimedia.org/wikipedia/commons/3/3d/08.16_%E7%B8%BD%E7%B5%B1%E8%88%87%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C2024%E5%B9%B4%E7%AC%AC33%E5%B1%86%E5%B7%B4%E9%BB%8E%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%BB%A3%E8%A1%A8%E5%9C%98%E3%80%8D_%2853926734865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-## Kantong Pasir di Ruang Bawah Tanah dan Pukulan Ayah pada Ibu
+## Motivasi Awal Melindungi Ibu
 
-Melihat jejak pertumbuhan Lin Yu-ting, tinju awalnya bukanlah karena kekaguman romantis terhadap olahraga, melainkan bentuk pertahanan naluriah. Bayangan kekerasan dalam rumah tangga di masa kecil membuatnya merasakan kejamnya kenyataan dan ketidakberdayaan sejak dini. Dalam beberapa wawancara, ia pernah mengakui: "Ketika saya masih kecil, ayah sering memukul ibu, jadi saya bergabung dengan tim tinju, berharap saya bisa melindungi ibu dengan kekuatan saya sendiri."[^9][^10]. Pecahan konflik keluarga membentuk kecemasan masa mudanya, dan klub tinju di ruang bawah tanah Sekolah Menengah Kejuruan Yingge di Kota New Taipei menjadi tempat perlindungan baginya untuk melarikan diri dari kenyataan dan menguji kemauannya[^11].
+Lin Yu-ting lahir pada 1995 di Kecamatan Yingge, Kabupaten Taipei (sekarang Kota Baru Taipei), dan adalah anak bungsu dari empat bersaudara[^4]. Saat SMP, ia menerima wawancara media Taiwan dan berkata: "Saat kecil, ayah sering memukul ibu, jadi saya bergabung dengan tim tinju, berharap bisa menggunakan kekuatan sendiri untuk melindungi ibu."[^4] Setelah ayah pergi, ibu bekerja menopang keluarga[^4]. Ia juga menyebut bahwa menonton 《第一神拳》 bersama kakaknya saat kecil menjadi salah satu pemicu kenalannya dengan tinju[^4].
 
-## Revolusi Tinju Akar Rumput di Fasilitas yang Serba Terbatas
+## Tim Tinju SMP Yingge dan Zeng Zi-qiang
 
-Kondisi pelatihan saat itu sangatlah sederhana; tidak ada perlengkapan pelindung kelas atas maupun tim medis, yang ada hanyalah samsak kasar, dinding yang kusam, dan keringat yang mengucur hari demi hari. Justru di sinilah, ia bertemu dengan pelatihnya, Tseng Tzu-chiang, yang mengubah hidupnya[^7][^8]. Tseng Tzu-chiang melihat kegigihan seorang gadis kurus yang tidak mau menyerah pada keadaan; sejak saat itu, keduanya membangun ikatan erat layaknya ayah dan anak, sekaligus guru dan teman, guna memulai sebuah revolusi tinju akar rumput di Taiwan yang berlangsung selama belasan tahun[^7][^8].
+Zeng Zi-qiang pernah menjadi atlet tinju beremah emas Pekan Olahraga Nasional; karena cedera olahraga ia meninggalkan arena kompetisi, dan sejak 2008 mulai melatih tim tinju SMP Yingge[^5]. Saat baru bergabung dengan tim tinju, tinggi badan Lin Yu-ting hanya 140 cm, dan Zeng Zi-qiang awalnya tidak terlalu optimis soal potensinya[^4]. Setelah berlatih lebih dari dua bulan, ia meraih juara kedua kategori putri SMP di Kejuaraan Tinju Piala Presiden Tingkat Nasional[^3].
 
 ```tw-stat
-5:0 | Skor Pertandingan Emas Paris | Kemenangan telak atas lawan (empat kemenangan beruntun)
-15 Tahun | Masa Kebersamaan Guru dan Murid | Pelatih Tseng Tzu-chiang mendampingi sepanjang perjalanan
-1st | Rekor Status Sejarah | Medali emas tinju pertama dalam sejarah Olimpiade Taiwan
-Sumber: Laporan pertandingan Olimpiade Paris serta wawancara dengan pelatih Tseng Tzu-chiang dan Lin Yu-ting sendiri (lihat catatan kaki sebelumnya) [^1][^2][^7][^8][^9]
+5：0 | Skor final emas Paris | Mengalahkan atlet Polandia Julia Szeremeta
+约 15 年 | Tahun keakraban guru-murid | Saat video call, Lai Ching-te menyebut Zeng Zi-qiang mendampingi Lin Yu-ting sekitar 15 tahun
+1st | Emas Olimpiade tinju Taiwan | Medali emas Olimpiade tinju pertama Taiwan
+Sumber: BBC Chinese, Associated Press, dan laporan CNA[^6][^2][^7]
 ```
 
-## "Kami Juga Harus Menjadi Penyihir Kami Sendiri": Resonansi Filosofis Guru dan Murid
+## Berlatih Sparring dengan Pria dan Manajemen Berat Badan
 
-Selama lima belas tahun kerja sama, Tseng Tzu-chiang dan Lin Yu-ting mengembangkan kesamaan kepercayaan yang unik. Tseng Tzu-chiang pernah mengajukan filosofi terkenal tentang "Penyihir": "Kita juga harus menjadi penyihir kita sendiri, hanya mengemudikan takdir kita."[^7][^12]. Kalimat ini menjadi perisai spiritual terkuat di dalam hati Lin Yu-ting ketika menghadapi kebisingan eksternal yang masif. Melalui disiplin diri yang sangat ketat dan pelatihan ilmiah, guru dan murid itu mengubah hal yang mustahil menjadi mungkin dalam lingkungan dengan sumber daya yang relatif terbatas.
+Zeng Zi-qiang berkata padanya: "Jika kau berlatih seolah-olah kau perempuan, kau tidak akan pernah maju." Maka Lin Yu-ting mulai berlatih tinju bersama pria[^4]. Keponakannya sekaligus sparring partner, Xu Hao-xiang, memberitahu BBC bahwa pukulan pria lebih berat, dan ia terkadang tidak tahan hingga hidung berdarah, namun setelah menyeka darah hidungnya ia terus melatih[^6].
 
-## Permainan Taktik: Simfoni Jab Panjang di Tanah Merah Roland Garros
+Tinju dibagi kelas berat, sehingga pengendalian berat badan menjadi rutinitas harian. Zeng Zi-qiang dalam wawancara eksklusif 《天下雜誌》 membahas disiplin atlet: jika makan siang makan besar dengan teman atau minum bubble tea, makan malam harus dikurangi, karena berat badan tidak boleh mempengaruhi kelas berat pertandingan[^8]. Xu Hao-xiang mengingat, sebelum Olimpiade Rio di Pusat Pelatihan Nasional, untuk mengontrol berat badan, Lin Yu-ting saat makan menggunakan dua mangkuk, satu berisi sayur hijau, satu berisi air panas, dia merendam sayurnya dalam air panas, dan bahkan berlatih memakai baju lengan tebal berat untuk memakarkan keringat lebih banyak[^6].
 
-Dalam empat pertandingan Olimpiade Paris, Lin Yu-ting menunjukkan kecerdasan taktis tingkat tinggi. Dengan tinggi 175 cm, ia memanfaatkan keunggulan jangkauannya untuk mengontrol ritme pertandingan dari jarak jauh[^13]. Analisis oleh Associated Press dan The New York Times menunjukkan bahwa gaya bertarung Lin Yu-ting "tenang namun penuh serangan balik"; ia tidak terburu-buru menyerang, melainkan terus mengganggu pusat gravitasi lawan dengan "Jab Panjang" yang presisi, memaksa lawan untuk menunjukkan celah dalam kegelisahan mereka, lalu melakukan serangan balik dengan pukulan kait yang gesit[^47][^48]. "Dominasi yang elegan" ini membuatnya menang telak 5:0 di keempat pertandingannya.
+## Sparring Partner Li Cheng-wei
 
-![Foto Potret Lin Yu-ting](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yu-Ting%2C_Lin.jpg/960px-Yu-Ting%2C_Lin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+Li Cheng-wei adalah sparring partner jangka panjang Lin Yu-ting, serta junior di Universitas Chinese Culture[^9]. Saat menuntut di SMK Yingge, ia direkrut oleh Tseng Tzu-chiang untuk menemani Lin Yu-ting berlatih tinju, dan menjadi sparring partner paling lama di tim tersebut[^10]. Menurut laporan Commercial Times, Tseng Tzu-chiang merekrut Li Cheng-wei pada 2015, mendeskripsikannya sebagai "Lin latihan apa, Li latihan itu", dan hingga saat dilaporkan ia telah menjabat sparring partner selama 9 tahun[^11]。
 
-📝 Catatan Kurator: Dalam dunia olahraga kompetitif, kejeniusan tidak langka; yang langka adalah berjalan menuju puncak dunia dari lingkungan akar rumput yang kekurangan sumber daya, dingin, dan penuh luka. Kombinasi Lin Yu-ting dan Tseng Tzu-chiang menunjukkan ketahanan paling menyentuh dari olahraga akar rumput Taiwan—bukan karena keajaiban kebetulan, tetapi karena memori otot untuk bangkit kembali setelah berkali-kali dijatuhkan.
+📝 Catatan Kurator: Saat menyusun data, saya memperhatikan orang-orang di sekitar Lin Yu-ting. Pelatih Tseng Tzu-chiang memimpin tim tinju SMP Yingge sejak 2008[^5], sparring partner Li Cheng-wei menemani dia berlatih sejak SMA[^10], setelah kekalahan di Olimpiade Tokyo dia tetap tinggal menemani Huang Hsiao-wen berlatih[^12]. Jalan yang ditempuhnya memunggung pelatih setelah final emas[^3], di baliknya ada tim kecil yang telah berlatih bersama bertahun-tahun。
 
-## Dehidrasi dan Kehendak: Harga di Balik Penurunan Berat Badan Ekstrem
+![Foto profil Lin Yu-ting](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yu-Ting%2C_Lin.jpg/960px-Yu-Ting%2C_Lin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
-Tinju adalah perang melawan timbangan. Lin Yu-ting, dalam kelas 57 kg, harus menjalani manajemen diet yang sangat ketat dan "penurunan berat badan melalui dehidrasi" sebelum pertandingan[^38]. Pelatih Tseng Tzu-chiang mengungkapkan bahwa tuntutan Lin Yu-ting terhadap dirinya sendiri hampir bersifat penyiksaan: jika makan siang dikonsumsi minuman boba karena bersosialisasi, maka makan malam harus menjalani puasa ketat, bahkan menghilangkan kelembapan tubuh melalui latihan berkeringat intensif sebelum pertandingan, hanya untuk mencapai target berat badan secara akurat[^38][^39].
+## Dari Emas Tingkat Remaja ke Emas Asian Games
 
-## Pahlawan Tak Bernama Selama Sembilan Tahun: Keringat dan Darah Li Cheng-wei, Pendamping Latihan
+BBC merangkai prestasi lapangannya: 2013 memperoleh emas di Kejuaraan Dunia Tinju Remaja dan Junior Putri di Bulgaria, menjadi atlet pertama Taiwan yang meraih emas di ajang tinju dunia tingkat remaja; 2018 meraih perunggu Asian Games dan emas Kejuaraan Dunia, menjadi atlet pertama Taiwan yang memenangkan emas Kejuaraan Dunia Tinju; 2022 meraih emas kedua di Kejuaraan Dunia di Istanbul; 2023 meraih emas Asian Games Hangzhou, menjadi peborak wanita pertama Taiwan yang memenangkan emas Asian Games[^4]。
 
-Di balik cahaya Lin Yu-ting, ada "lawan bayangan" yang tak tergantikan—Li Cheng-wei, senior universitas yang beberapa tahun lebih muda. Sejak 2015, untuk mencari lawan yang dapat meniru kekuatan dan kecepatan atlet pria papan atas dunia, pelatih Tseng Tzu-chiang secara khusus mengatur Li Cheng-wei sebagai pendamping latihan eksklusif Lin Yu-ting[^21][^22]. Selama sembilan tahun, Li Cheng-wei hampir "melatih apa pun yang dilatih Lin," menanggung pukulan berintensitas tinggi dan volume pelatihan setara dengan atlet tim nasional pria[^21][^23].
+## Rio dan Tokyo: Dua Kali Kekalahan
 
-## Debut Pahit di Olimpiade Tokyo
+2016 kualifikasi Olimpiade Rio, dia hanya kurang satu kemenangan untuk mendapatkan tiket Olimpiade[^4]. Catatan Olahraga mengutip ucapan Tseng Tzu-chiang, setelah pertandingan dia berkata kepada Lin Yu-ting: "Maaf ya, Coach tidak bisa membawamu ke puncak tertinggi, tapi itu tidak berarti ini adalah ujungmu." Lin Yu-ting menjawab: "Coach, ke mana pun kau pergi, aku akan ikut ke sana."[^5]
 
-Namun, perjalanan seorang atlet tidak pernah mulus. Pada Olimpiade Tokyo 2020, Lin Yu-ting yang membawa harapan medali tertinggi debut di panggung tertinggi, tetapi secara mengejutkan kalah di babak awal, menelan kekalahan terberat dalam karier olahraganya[^3][^15]. Setelah pertandingan, ia tidak mencari alasan untuk dirinya sendiri, melainkan diam-diam kembali ke arena latihan dan menelan air matanya.
+Olimpiade Tokyo yang diselenggarakan 2021, Lin Yu-ting berpartisipasi sebagai unggulan pertama, peringkat dunia nomor satu, tapi kalah di babak 16 besar pertama[^4], dengan skor 2-3 kalah dari atlet Filipina Petecio[^13]. Dalam wawancara The Reporter 2021, dia berkata, saat itu sangat kecewa pada diri sendiri, "hancur berkeping-keping menangis", untungnya coach Tseng Tzu-chiang terus menguatkan semangat, bahkan menyarankan dia berganti peran, tinggal menemani Huang Hsiao-wen kelas 51 kg berlatih[^12]. Laporan yang sama menyebut, Tseng Tzu-chiang sejak lama berusaha merekrut psikolog olahraga, membimbing atlet muda mengenal dan mengekspresikan kecemasan, ketegangan, dan ketakutan mereka[^12].
 
-## Intervensi Konseling Psikologi Olahraga dan "Metode Pemindahan Titik Sakit"
+Dia juga membicarakan tekanan dijadikan teladan: "Aku selalu dijadikan teladan, dipikul harapan besar, coach juga berharap aku menggerakkan junior, tentu saja menciptakan tekanan, aku terus belajar cara mengatasinya."[^12]
 
-Menghadapi tekanan psikologis yang besar setelah kekalahan Olimpiade Tokyo, pelatih Tseng Tzu-chiang segera mencari bantuan dari psikolog olahraga (seperti Hong Zi-feng) sejak dini[^6][^16]. Lin Yu-ting mempelajari "metode pemindahan titik sakit," mengubah kesedihan karena kegagalan menjadi dukungan terhadap rekan setim dan rekonstruksi obsesif terhadap detail teknis[^40]. Pengasahan ketahanan psikologis ini memungkinkannya untuk tetap tenang di tengah badai global Olimpiade Paris.
+## Kejuaraan Dunia 2023: Medali Perunggu Dicabut
 
-## Badai Tanpa Alasan di Kejuaraan Dunia New Delhi dan Jebakan Institusional
-
-Tepat saat ia sedang menyesuaikan mentalitas untuk kembali ke peringkat satu dunia, ujian yang lebih besar datang secara diam-diam pada Kejuaraan Dunia 2023 di New Delhi. Saat itu, tanpa peringatan sebelumnya, ia didiskualifikasi dari medali perunggu oleh International Boxing Association (IBA) dengan alasan "anomali indeks biokimia" yang tidak jelas[^3][^4][^17]. Keputusan ini kurang memiliki dasar ilmiah yang transparan dan saluran banding yang semestinya, sehingga menanam benih kontroversi dalam dunia olahraga internasional di kemudian hari.
+Maret 2023, Lin Yu-ting meraih medali perunggu di Kejuaraan Dunia New Delhi, lalu International Boxing Association (IBA) mencabut medalinya dengan alasan "indeks biokimia gender abnormal" sebelum pertandingan[^4]. Departemen Olahraga Kementerian Pendidikan Taiwan meluncurkan investigasi khusus setelah dia pulang ke Taiwan, dan pada April tahun yang sama mengumumkan hasil tes memenuhi ketentuan partisipasi internasional[^4].
 
 ```tw-timeline
-2021 | Kegagalan Olimpiade Tokyo | Pertama kali menginjakkan kaki di panggung tertinggi namun terhenti secara tak terduga di babak pertama; setelah pertandingan, ia menggendong pelatihnya dan berjanji untuk kembali ke puncak.
-2023 | Badai Gender Kejuaraan Dunia | Medali perunggu dicabut oleh IBA dengan alasan anomali tes biokimia, mengalami hambatan institusional terbesar dalam karier atletiknya.
-2024 | Puncak Olimpiade Paris | Menahan tekanan perburuan penyihir (witch hunt) dari opini publik global lintas negara, meraih emas dengan menyapu bersih empat pertandingan dengan skor 5-0, menyelesaikan Grand Slam sejarah.
-2026 | Pengakuan World Boxing | Setelah melalui proses banding selama satu setengah tahun, World Boxing secara resmi mengakui kelayakan partisipasinya dan memulihkan nama baiknya.
-Sumber: Kutipan dari laporan Olimpiade Tokyo, kontroversi pencabutan medali perunggu oleh IBA, dan pengakuan World Boxing tahun 2026[^3][^4][^15][^17]
+2016 | Kualifikasi Olimpiade Rio | Hanya satu kemenangan lagi untuk mendapatkan tiket Olimpiade, namun berhenti di sana.
+2021 | Olimpiade Tokyo | Bertanding sebagai benih pertama, peringkat dunia nomor satu, kalah di ronde pertama 16 besar.
+2023 | Medali Perunggu Kejuaraan Dunia Dicabut | IBA mencabut medali dengan alasan "indeks biokimia gender abnormal" sebelum pertandingan, Departemen Olahraga pada April tahun yang sama mengumumkan hasil tes memenuhi ketentuan partisipasi internasional.
+2024 | Medali Emas Olimpiade Paris | Di final emas menang 5-0 melawan atlet Polandia, meraih medali emas Olimpiade tinju pertama bagi Taiwan.
+2026 | World Boxing Mengakui | 19 Maret lolos banding, dikonfirmasi dapat berpartisipasi di Kejuaraan Tinju Asia.
+2026 | Asian Games Nagoya | Final emas putri 60 kg menang 5-0, berhasil mempertahankan medali emas Asian Games.
+Sumber: BBC Chinese, Associated Press, TVBS, dan platform berita Central News Agency[^4][^2][^14][^15]
 ```
 
-## Korban Perebutan Kekuasaan Tata Kelola Dunia Olahraga dan Interpretasi Ilmiah
+## IBA dengan Perlawanan Komite Olimpiade Internasional
 
-Menganalisis badai ini lebih dalam, IBA telah lama berada dalam oposisi dengan International Olympic Committee (IOC) karena skandal keuangan, suap juri, dan dipimpin oleh ketua Umar Kremlev yang memiliki latar belakang Rusia[^18][^41]. Insiden Lin Yu-ting dan atlet Aljazair Imane Khelif yang diganggu IBA dianggap sebagai alat permainan politik IBA untuk menekan IOC dan memperebutkan dominasi tinju internasional[^18][^19].
+BBC melaporkan, Komite Olimpiade Internasional (IOC) pada Juni 2023 karena "masalah manajemen internal" mencabut keanggotaan Asosiasi Tinju Internasional (IBA)[^6]. Associated Press (AP) menegaskan, perselisihan kedua belah pihak berpusat pada cara pengelolaan IBA yang dipimpin oleh presiden berkebangsaan Uzbekistan dan Rusia, keuangan yang didanai oleh perusahaan energi milik negara Rusia Gazprom, serta keadilan pertandingan dan penilaian[^16]. Utang IBA sebesar hampir 20 juta dolar AS dilunasi selama masa jabatan Kremlev (Umar Kremlev), sedangkan IOC justru menentang ketergantungan finansial IBA pada Gazprom[^16].
 
-## Perburuan Penyihir Siber Lintas Negara dan Perang Label Gender J.K. Rowling
+Tseng Tzu-chiang dalam wawancara BBC sebelum final emas berkata, IBA mengajukan tuduhan tetapi tidak bisa menunjukkan bukti, bertujuan untuk mengambil kembali kendali acara tinju internasional[^6]. Pernyataan pihak IBA tidak konsisten: Direktur Eksekutif Roberts (Chris Roberts) memberitahu BBC, kedua atlet tersebut terdeteksi memiliki kromosom XY; sedangkan ketua Kremlev pada konferensi pers 5 Agustus menyatakan, kadar testosteron kedua atlet sangat tinggi. Kedua pihak sama-sama menolak mengungkap detail pengujian lebih lanjut[^6].
 
-Meskipun diakui berkali-kali oleh Komite Olimpiade Internasional, luka ini diperbesar secara jahat menjelang Olimpiade Paris 2024. Tokoh publik lintas negara seperti penulis terkenal J.K. Rowling dan legenda tenis Martina Navratilova melancarkan tuduhan tanpa dasar di platform media sosial, mencampuradukkan karakteristik fisiologis Lin Yu-ting dengan kontroversi kesetaraan gender[^5][^20][^32][^42][^43].
+## Olimpiade Paris: Kontroversi Gender dan Semifinal
 
-## Provokasi Gerakan "X" di Perempat Final dan Balasan Senyap
+Selama Olimpiade, J.K. Rowling dan McGregor di platform media sosial membagikan laporan, mempertanyakan kualifikasi Lin Yu-ting untuk berpartisipasi, IOC dan Administrasi Olahraga menanggapi bahwa dia memenuhi peraturan kompetisi[^17]. Kelompok Kerja Tinju Persiapan Olimpiade Paris dan IOC juga mengeluarkan pernyataan menanggapi pertanyaan[^18]. Tokoh politik biru-hijau Taiwan sama-sama menyatakan sikapnya mengenai hal ini[^19].
 
-Dalam perempat final kelas 57 kg wanita Olimpiade Paris, Lin Yu-ting mengalahkan atlet Turki Esra Yıldız Kahraman dengan skor lima banding nol[^21]. Namun, setelah kekalahan, Kahraman membuat gerakan "X" dengan kedua tangannya di ring, menyindir kontroversi gender Lin Yu-ting[^21][^33]. Menghadapi provokasi dan keributan di luar arena dari lawannya, Lin Yu-ting memilih untuk menunjukkan sportivitas tingkat tinggi setelah pertandingan, tidak ikut berdansa, membuat semua kebisingan berhenti di tepi ring dengan kekuatan mutlaknya.
+Tseng Tzu-chiang mengungkapkan, setelah Lin Yu-ting tiba di Paris untuk persiapan, dia menutup media sosial, tidak melihat pesan internet, dan seperti biasa saat pergi ke luar negeri bertanding, dia membawa buku-buku terkait «ilmu kesuksesan», menggunakan membaca untuk menstabilkan perasaannya[^6]. Dia selama Olimpiade berkata: «Karena kita semua berdiri keluar untuk bertanding, sebenarnya badai-badai ini tentu juga bisa saya anggap mungkin karena lawan terlalu takut pada kekuatan kita, jadi mencari-cari kesalahan untuk dibuat masalah, saya hanya akan di arena berprestasi lebih baik.»[^20] Setelah final emas, dia juga berkata kepada BBC: «Jika kamu terpengaruh, itu berarti taktik lawan berhasil.»[^6]
 
-## Dari Paris ke Taipei: "Suara Keadilan" dalam Media Internasional
+Dalam semifinal, Lin Yu-ting dengan skor 5-0 mengalahkan atlet Turki, menjadi atlet pertama dalam sejarah tinju Taiwan yang lolos ke final emas Olimpiade. Setelah pertandingan, lawannya menarik tali pinggir ring untuknya sebagai tanda sopan santun, lalu di atas ring membuat gerakan X, memprotes kontroversi gender, Lin Yu-ting dengan tenang menghadapinya, turun dari ring mengucapkan terima kasih kepada seluruh penonton[^21].
 
-Setelah meraih medali emas, penilaian media global beralih dari keraguan menjadi penghormatan. Deutsche Welle (DW) menilai ini sebagai kemenangan "kekuatan mengalahkan kebencian"[^49]; BBC merinci bagaimana ia memenuhi janjinya kepada ibunya[^3]. Associated Press lebih tegas mengatakan bahwa ketenangan yang ditunjukkan Lin Yu-ting dalam menghadapi tekanan masif adalah salah satu manifestasi semangat olahraga paling menyentuh di Olimpiade kali ini[^50].
+## Pertarungan Emas
 
-## Perlawanan Senyap dan Beban Sebagai Teladan Generasi Muda
+Associated Press menggambarkan, Lin Yu-ting yang ber tinggi 175 sentimeter biasanya lebih tinggi dan lebih ramping dari lawan-lawaninya, menang dengan teknik dan sudut bukan kekuatan[^2]. Di final emas, ia sejak awal menggunakan jab kiri panjang untuk menjaga jarak dengan Selenemeta berusia 20 tahun, dan menyambungkan kombinasi pukulan[^2]. Associated Press juga menulis, ia berusaha menjaga ketenangan sepanjang turnamen tinju Olimpiade, meskipun sebagian besar dunia mengecam dan memutarbalikkan fakta tentang dirinya[^2]. Saat Lai Ching-te melakukan video call dengannya, ia menyebutkan bahwa di bawah tekanan besar, ia memenangkan setiap pertarungan dengan skor 5-0[^7].
 
-Menghadapi perundungan siber lintas negara yang tak ada habisnya, Lin Yu-ting memilih jalan yang paling sulit namun paling bermartabat: tetap diam, berbicara dengan kekuatan. Ketika merenungkan perjalanan batin ini, ia pernah mengakui: "Dijadikan teladan bagi generasi muda juga merupakan tekanan."[^4]. Tekanan ini tidak hanya berasal dari hasil di arena kompetisi, tetapi juga dari keharusan untuk mempertahankan martabat dan ketenangan seorang atlet di tengah tuduhan yang tidak berdasar.
+Ibu Lin Yu-ting sebelum pertandingan berkata, putrinya memintanya mematikan media sosial, dan akan mempersiapkan diri dengan baik; sebelum final emas, putrinya berkata padanya bahwa dirinya sudah siap, agar ibu tenang. Setelah pertandingan ibu berkata: "Dia selalu paling hebat di hatiku!" Di depan Kantor Pemerintah Kota New Taipei, lebih dari 2000 warga berkumpul menonton siaran langsung[^6]. Associated Press melaporkan, Lin Yu-ting naik podium, mendengar lagu kebangsaan Taiwan lalu menangis tidak terkendali[^2]. Ia berlutut mencium ring, kemudian menggendong Zeng Zi-qiang berjalan segak jauhnya[^3].
 
-## Kohesi Sosial Melampaui Kemenangan dan Fenomena "Putri Taiwan"
+Catatan Olahraga melaporkan, Zeng Zi-qiang setelah pertandingan dengan humor menjawab: "Terima kasih J.K. Rowling, membuat seluruh dunia melihat kebanggaan Taiwan, kita hanya melakukan apa yang kita mau, mendengar apa yang ingin kita dengarkan, jadi kita juga harus menjadi penyihir kita sendiri."[^5]
 
-Proses Lin Yu-ting meraih medali emas di Olimpiade Paris secara tak terduga menjadi titik fokus emosional kolektif terdalam dalam masyarakat Taiwan baru-baru ini. Dalam lingkungan politik dan opini yang sangat terbelah, seluruh Taiwan bersimpati untuk "putri Taiwan" ini melintasi partai dan generasi. Kisahnya tidak hanya mengubah stereotip tradisional tentang kekuatan fisik dan penampilan atlet wanita, tetapi juga menjadi materi pelajaran terbaik untuk pendidikan kesetaraan gender dan anti-perundungan[^22][^23][^34].
+## Setelah Pulang ke Taiwan: Putri Taiwan, Duta Kebajikan, dan Endorsement
 
-## Nilai Komersial dan Advokasi Amal: Apa Itu Perempuan?
+Setelah pulang ke Taiwan, Lin Yu-ting berbicara tentang kehormatan disebut "Putri Taiwan", dan berharap menjadi teladan yang lebih baik[^22]. Sports Administration menunjuknya sebagai Duta Kebajikan Nasional untuk mendorong pekerjaan anti-bullying[^22]. Februari 2025, dalam kapasitasnya sebagai Duta Kebajikan Anti-bullying, ia berperan dalam video kampanye pencegahan bullying sekolah Kementerian Pendidikan, dan mengungkapkan pernah mengalami bullying verbal karena penampilan netral gender[^23].
 
-Setelah meraih medali emas, pengaruh Lin Yu-ting melampaui lingkaran olahraga. Ia diundang sebagai duta merek pembalut **Kotex (Andal)**, secara lantang menyatakan "Apa itu perempuan?" dalam iklan, menantang stereotip gender dan mengubah endorsement komersial menjadi gerakan sosial tentang definisi diri wanita[^44][^46].
+Endorsement pertamanya setelah meraih emas adalah merek pembalut; merek tersebut telah mendukung Tim Tinju Yingge selama 10 tahun, dan tetap memberikan bantuan tepat waktu ketika medali perunggu Kejuaraan Dunia 2023-nya dicabut[^24]. Menurut laporan _Marie Claire_, merek ini adalah "Tiantian Pembalut" milik Kangjiang Taiwan[^25]. Video imagenya dibuka dengan "Saya bukan gadis, apa itu gadis? Gadis, tidak lahir untuk imajinasi siapapun.", mendorong wanita menjadi diri yang mereka inginkan[^24].
 
-## Pendidikan Akademik Lanjutan dan Kelahiran Profesor Emas
+## Jabatan Pengajar dan Penghargaan
 
-Setelah meraih medali emas Olimpiade, langkah Lin Yu-ting tidak berhenti. Dari sarjana hingga doktor di Departemen Olahraga Universitas Budaya, ia direkrut sebagai staf pengajar paruh waktu tingkat asisten profesor di Departemen Ilmu Keolahragaan Universitas Budaya setelah kembali ke tanah air[^24][^25]. Ia membawa pengalaman praktis elit selama lima belas tahun ke panggung akademik, menjadi "Profesor Emas" dalam dunia olahraga Taiwan.
+Pada Agustus 2024, saat Rektor Universitas Culture Wang Tzu-chi menyambutnya di bandara, ia menyatakan bahwa Lin Yu-ting akan mengajar di Jurusan Olahraga universitas tersebut dan memulai studi program doktor pada bulan Agustus[^26]. Tahun yang sama, dalam kapasitasnya sebagai dosen tetap Jurusan Olahraga, ia menghadiri pelatihan dosen baru Universitas Culture[^27]. Siaran pers Universitas Culture yang dipublikasikan di Platform Berita CNA pada Oktober 2026 menyebutnya sebagai lektor kepala Jurusan Ilmu Olahraga universitas tersebut[^15].
 
-## Menerima Penghargaan Elit Olahraga dan Pengakuan Tertinggi Negara
+Dalam Penghargaan Elite tanggal 20 Desember 2024, Lin Yu-ting dipilih sebagai Atlet Wanita Terbaik Tahunan, dan Zeng Zi-qiang dipilih sebagai Pelatih Terbaik[^28]. Dalam pidato penerimaan penghargaan, ia mengutip kata-kata Socrates: 「經歷風雨才能成就人生，只要內心足夠強大，就能夠戰勝一切」[^29].
 
-Pada 20 Desember 2024, Departemen Pendidikan dan Kebudayaan secara resmi mengadakan "Upacara Penghargaan Elit Olahraga Tahun 113," di mana Lin Yu-ting tanpa keraguan menerima "Penghargaan Atlet Wanita Terbaik," sementara guru besarnya Tseng Tzu-chiang juga menerima "Penghargaan Pelatih Terbaik"[^26][^27]. Dalam pidato penerimaannya, Lin Yu-ting mengutip pepatah Socrates, "Melewati badai untuk mencapai kehidupan," mendorong publik untuk menghadapi kesulitan[^27].
+Kabinet menganugerahkan Medali Olahraga Guoguang beserta hadiah uangnya; Lin Yu-ting menerima total NT$20,9 juta, di antaranya hadiah emas Olimpiade sebesar NT$20 juta, serta tambahan hadiah perunggu Kejuaraan Dunia 2023 yang dibatalkan sebesar NT$900 ribu[^30].
 
-## Perkembangan Terbaru 2026: Pengakuan Resmi World Boxing (WB)
+## Pasca-Olimpiade: World Boxing dan Asian Games
 
-Setelah menjalani periode larangan dan banding selama satu setengah tahun karena kontroversi gender, pada tanggal 19 Maret 2026, komite medis "World Boxing" yang baru didirikan secara resmi mengirim surat kepada Asosiasi Tinju Republik Tiongkok (Taiwan), mengakui kelayakan Lin Yu-ting untuk berkompetisi[^51][^52]. Keputusan ini sepenuhnya mengakhiri kegelapan era IBA, memungkinkan Lin Yu-ting untuk berpartisipasi dalam Kejuaraan Asia 2026 dan meraih medali perunggu, membersihkan jalan untuk Asian Games Nagoya di masa depan[^53][^54].
+TVBS melaporkan, prosedur pemeriksaan gender World Boxing pasca-Olimpiade kabur, Lin Yu-ting tidak dapat berpartisipasi hingga 19 Maret 2026 ketika dia lolos banding dan dikonfirmasi dapat berpartisipasi di Kejuaraan Tinju Asia[^14]. Liberty Times melaporkan, Komite Medis World Boxing mengirim surat ke Asosiasi Tinju Republik Tiongkok (Taiwan), menetapkan dia memenuhi kualifikasi kategori putri[^31]. Di pertarungan pertamanya pasca-Olimpiade, Kejuaraan Tinju Asia 2026, dia meraih perunggu[^32], kalah di semifinal dari pemain Korea Utara Won Un-gyong, terpeleset 23 detik sebelum pertandingan berakhir dan dihitung[^14].
 
-## "Gaya Lin Yu-ting": Estetika Netral dan Identitas Diri Gen Z
+Di Asian Games Aichi-Nagoya 2026, dia naik ke kelas 60 kg putri, di final emas menang 5-0 atas pemain Tiongkok Yang Chengyu, berhasil mempertahankan emas Asian Games, menjadi atlet pertama negara kita yang memenangkan emas tinju Asian Games dua kali berturut-turut[^15].
 
-Pengaruh Lin Yu-ting telah melampaui olahraga. Rambut pendeknya, garis yang tegas, dan pakaian netral yang percaya diri memicu resonansi besar di kalangan generasi muda Taiwan (Gen Z). Ia membuktikan bahwa kecantikan tidak hanya memiliki satu standar, dan kekuatan wanita dapat didefinisikan melalui keringat dan otot. Guncangan budaya ini mendorong pemahaman dan inklusi masyarakat Taiwan terhadap spektrum gender secara lebih mendalam[^55][^56].
+## Empat Putri Tinju
 
-## Kedekatan Guru-Murid: Metode Latihan "Tanpa Memandang Gender" Tseng Tzu-chiang
-
-Selama melatih Lin Yu-ting, pelatih Tseng Tzu-chiang selalu berpegangan pada prinsip "Jika kamu berlatih sebagai perempuan, kamu tidak akan pernah maju."[^10]. Ia mengatur agar Lin Yu-ting bertanding melawan atlet pria, bahkan membiarkannya berpartisipasi dalam siklus latihan tim pria. Model pelatihan yang melampaui batas gender ini tidak hanya meningkatkan daya tahan Lin Yu-ting, tetapi juga membentuk pandangan ringnya yang unik[^57][^58].
-
-## Pengembalian Hadiah ke Daerah dan Advokasi Amal
-
-Setelah menerima hadiah besar hingga puluhan juta dari National Tsing Hua University dan sponsor perusahaan, Lin Yu-ting memilih untuk terus berkontribusi pada olahraga tinju akar rumput dan kegiatan amal sosial dengan menerima gaji bulanan seumur hidup dan menyumbangkan sebagian hadiahnya[^28][^29]. Ia berulang kali berpartisipasi dalam inisiatif anti-perundungan dan pemberdayaan wanita, menggunakan pengalamannya untuk mendorong banyak kaum muda yang berada di titik terendah[^30][^37].
-
-## Perlindungan Komunitas Yingge: Kejayaan Kota Kecil dari Ruang Bawah Tanah ke Dunia
-
-Kesuksesan Lin Yu-ting bukanlah keajaiban yang berdiri sendiri, melainkan buah dari komunitas olahraga akar rumput di wilayah Yingge, New Taipei. Dari Sekolah Menengah Kejuruan Yingge hingga Sekolah Bisnis Yingge, para pelatih lokal dan warga yang bersemangat diam-diam menyediakan tempat dan sumber daya selama bertahun-tahun, menjadikan kota kecil ini sebagai tempat lahirnya talenta tinju Taiwan.
-
-## Emosi Revolusioner dari "Empat Juara Tinju Wanita": Chen Nian-ching, Huang Xiao-wen, dan Wu Shi-yi
-
-Dalam proses kenaikan tinju wanita Taiwan ke panggung dunia, Lin Yu-ting bersama dengan atlet hebat seperti Chen Nian-ching, Huang Xiao-wen, dan Wu Shi-yi disebut sebagai "Empat Juara Tinju Wanita Taiwan." Mereka saling mendukung, berlatih bersama, dan berbagi air mata dalam berbagai kompetisi domestik dan internasional di kelas masing-masing. Ikatan revolusioner yang mendalam ini menjadi sandaran psikologis terhangat bagi mereka[^36].
-
-## Kemuliaan Roland Garros dan Guru yang Memikul Seluruh Taiwan
-
-Ketika lonceng pertandingan emas berdentang, Lin Yu-ting berlutut di atas ring untuk mencium tanah merah, kemudian dengan mantap memanggul pelatih Tseng Tzu-chiang di punggungnya. Panggulan ini membawa ikatan guru-murid yang setia selama lebih dari sepuluh tahun, perjalanan sulit tinju Taiwan dari padang tandus ke dunia, dan merupakan serangan balik kuat yang senyap namun lebih keras daripada suara[^3][^5]. Lin Yu-ting membuktikan dengan kepalan tangannya bahwa kekuatan sejati tidak perlu dibela dengan kata-kata, tetapi terletak pada kemampuan untuk terus melangkah maju menuju momen kejayaan miliknya sendiri ketika menghadapi ketidakadilan dan keraguan.
+TVBS melaporkan, tim tinju Republik Tiongkok (Taiwan) meraih 6 kuota di Olimpiade Paris (4 putri, 2 putra), peboks putrinya adalah Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, dan Wu Shih-yi, media menyebut mereka "Empat Putri Tinju"[^33]. Setelah kalah di Olimpiade Tokyo, Lin Yu-ting tinggal menemani latihan Huang Hsiao-wen, yang kemudian meraih medali Olimpiade pertama tinju Taiwan[^12]. Lai Ching-te dalam video call mengatakan, di Olimpiade Paris Huang Hsiao-wen kehilangan kesempatan karena kesalahan wasit, tetap tinggal di Paris membantu melatih sparring partner, sementara Chen Nien-chin meraih perunggu[^7].
 
 ---
 
 ## Referensi
 
-[^1]: [International Corner — Tinju Olimpiade/Lin Yu-ting Meraih Emas! Analisis Mendalam "Kontroversi Gender" Terkumpul](https://global.udn.com/global_vision/story/8662/8151597) — Laporan United News Agency
+[^1]: [轉角國際 — Olahraga Tinju Olimpiade/Lin Yu-ting Meraih Emas! Analisis Mendalam «Kontroversi Gender»](https://global.udn.com/global_vision/story/8662/8151597) — Lin Yu-ting mengalahkan atlet Polandia Seline Meta di final emas, meraih medali emas.
 
-[^2]: [Wikipedia — Lin Yu-ting](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E9%83%81%E5%A9%B7) — Entri Wikipedia
+[^2]: [美聯社 AP — Tinju Lin Yu-ting Meraih Emas, Mengikuti Imane Khelif untuk Mengakhiri Olimpiade Penuh Pengawasan](https://apnews.com/article/olympics-2024-boxing-lin-khelif-28d3e1a46ed8fe5c1aa6cd612e2561ca) — Lin Yu-ting ber tinggi 175 cm, biasanya lebih tinggi dan ramping dari lawan, menang dengan teknik dan sudut; di final emas dia mengontrol jarak dengan left jab panjang, dan digambarkan dia berusaha menjaga ketenangan selama Olimpiade.
 
-[^3]: [BBC News Bahasa Mandarin — Lin Yu-ting Memenuhi Janji kepada Ibunya Saat Meraih Emas di Olimpiade Paris dengan Kontroversi Gender](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Laporan BBC News Bahasa Mandarin
+[^3]: [天下文化 — Kehidupan Nyata di Balik Medali Emas Olimpiade Lin Yu-ting](https://bookzone.cwgv.com.tw/article/34168) — Menggambarkan setelah final emas Lin Yu-ting menggendong Zeng Zi-qiang sesuai kebiasaan, lutut mengecup ring, serta prestasi pertandingannya setelah bergabung ke tim tinju.
 
-[^4]: [Reporter — 【Pengakuan Atlet Olimpiade】Lin Yu-ting: Dijadikan Teladan Generasi Muda, Itu Juga Tekanan](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — Lihat materi tambahan dalam tautan asli
+[^4]: [BBC News Chinese — Siapa Lin Yu-ting: Dari Belajar Bela Diri Melindungi Ibu Korban KDRT ke Final Tinju Olimpiade](https://www.bbc.com/zhongwen/trad/chinese-news-69254423) — Riwayat hidup Lin Yu-ting, motivasi awal belajar tinju «melindungi ibu», pesan Zeng Zi-qiang «melatihmu seperti seorang gadis», prestasi turnamen over the years, dan proses pencabutan medali perunggu 2023.
 
-[^5]: [International Corner — Atlet Tinju Lin Yu-ting Dicurigai "Bukan Perempuan", Perang Gender yang Salah Paham oleh J.K. Rowling](https://global.udn.com/global_vision/story/8662/8131527) — Laporan United News Agency
+[^5]: [運動筆記 — 【Tokoh】Pria yang Digendong Lin Yu-ting: «Kita Harus Menjadi Penyihir Sendiri, Hanya Lakukan Apa yang Kita Inginkan, Dengarkan Apa yang Kita Ingin Dengarkan.»](https://running.biji.co/index.php?q=news&act=info&id=110827) — Pengalaman pelatihan Zeng Zi-qiang, dialog guru-murid setelah kualifikasi Olimpiade Rio, serta responsnya «menjadi penyihir sendiri» setelah final emas.
 
-[^6]: [Liberty Times Sports — Buletin Tinju Olimpiade》Isu Gender Disalahpahami Secara Parah dan Pernyataan Dukungan dari IOC](https://www.ltsports.com.tw/article/172262) — Lihat materi tambahan dalam tautan asli
+[^6]: [BBC News Chinese — Lin Yu-ting Meraih Emas Olimpiade Paris di Tengah Kontroversi Gender, Menepati Janji ke Ibu](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Lin Yu-ting menang 5-0 di final emas, pernyataan ibu dan sepupu Xu Hao-xiang, lanjutan IBA dan IOC, serta wawancara pra-pertandingan Zeng Zi-qiang.
 
-[^7]: [Sports Notes — 【Tokoh】Pria yang Dipikul Lin Yu-ting: "Kita Juga Harus Menjadi Penyihir Kita Sendiri"](https://running.biji.co/index.php?q=news&act=info&id=110827) — Lihat materi tambahan dalam tautan asli
+[^7]: [中央社 — Presiden Lai Video Call Ucapkan Selamat ke Lin Yu-ting dan Chen Nien-chin, Pujian Semangat Sparring Huang Hsiao-wen](https://www.cna.com.tw/news/aspt/202408110200.aspx) — Lai Ching-te video call transsamudera dengan Lin Yu-ting dan Chen Nien-chin, membahas kemenangan 5-0 setiap pertemuan, pelatih mendampingi ~15 tahun, serta Huang Hsiao-wen tinggal di Paris untuk sparring.
 
-[^8]: [VERVE — Jalan Kelahiran Juara Tunggal Lin Yu-ting—Revolusi Tinju Pelatih Tseng Tzu-chiang](https://www.verve.com.tw/pages/coach-zengs-boxing-revolution-the-birth-of-gold-medal-boxing-queen-lin-yuting) — Lihat materi tambahan dalam tautan asli
+[^8]: [天下雜誌 — Orang di Balik Medali Emas Olimpiade, Wawancara Pelatih Lin Yu-ting Zeng Zi-qiang: «Atlet Berkorban Terlalu Banyak, Pelatih Pun Sama......»](https://www.cw.com.tw/article/5132247) — Zeng Zi-qiang membahas diet harian dan pengendalian berat badan atlet: jika makan siang terlalu banyak atau minum bubble tea, makan malam harus dikurangi.
 
-[^9]: [United News Agency — Menulis Prestasi Terbaik Sejarah Tinju Taiwan! 11 Kisah Kecil Lin Yu-ting di Pertandingan Emas Olimpiade](https://udn.com/news/story/121721/8148581) — Laporan United News Agency
+[^9]: [Yahoo新聞 — Eksklusif/ Penolong Emas Lin Yu-ting «Sparring Partner» Muncul! Li Cheng-wei Adalah «Junior Universitas Wenhua»](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E6%9E%97%E9%83%81%E5%A9%B7%E5%A5%AA%E9%87%91%E5%B9%AB%E6%89%8B-%E9%99%AA%E7%B7%B4%E5%93%A1-%E7%8F%BE%E8%BA%AB-%E6%9D%8E%E6%89%BF%E5%A8%81%E6%98%AF-124700912.html) — Li Cheng-wei adalah junior Lin Yu-ting di Universitas Wenhua dan sparring partner.
 
-[^10]: [BBC News Bahasa Mandarin — Siapa Lin Yu-ting: Dari Berlatih untuk Melindungi Ibu yang Mengalami Kekerasan Dalam Rumah Tangga hingga Bertanding di Babak Final Tinju Olimpiade](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — Laporan BBC News Bahasa Mandarin
+[^10]: [TSNA體育新聞團隊 — Kegagalan Olimpiade Lin Yu-ting Menjadi Inspirasi, Membantu Sparring Partner Li Cheng-wei Terpilih Jadi Atlet Nasional](https://tsna.com/article/68148) — Sejak SMA Yingge Vocational, Li Cheng-wei direkrut Zeng Zi-qiang untuk sparring Lin Yu-ting, menjadi sparring paling lama di tim.
 
-[^11]: [Tianxia Culture — Kisah Nyata di Balik Medali Emas Lin Yu-ting di Olimpiade](https://bookzone.cwgv.com.tw/article/34168) — Artikel khusus Tianxia Culture
+[^11]: [商周 — Lebih Mirip Lawan dari pada Lawan! Sparring Partner Emas Lin Yu-ting, Li Cheng-wei](https://www.businessweekly.com.tw/careers/blog/3016578) — Zeng Zi-qiang merekrut Li Cheng-wei sebagai sparring partner 2015, «Apa yang Lin latih, Li latih», sudah 9 tahun sparring.
+
+[^12]: [報導者 — 【Pengakuan Atlet Olimpiade】Lin Yu-ting: Dijadikan Teladan Junior, Itu Pun Tekanan](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — Lin Yu-ting 2021 membahas kekalahan Olimpiade Tokyo, beralih mendampingi latihan Huang Hsiao-wen dan tekanan jadi teladan; liputan juga menyebut Zeng Zi-qiang merekrut psikolog olahraga.
+
+[^13]: [麗台運動報 — Tinju Olimpiade» Tak Takut Kontroversi Gender Pra-Pertandingan! Lin Yu-ting Menang Sempurna 5-0 Raih Kemenangan Pertama Olimpiade Lolos ke 8 Besar](https://www.ltsports.com.tw/article/171986) — Lin Yu-ting di babak 16 besar Olimpiade Tokyo kalah 2-3 dari atlet Filipina Petecio.
+
+[^14]: [TVBS新聞網 — Lin Yu-ting Raih Perunggu Kejuaraan Asia Tinju! Lawan Korea Utara Pertarungan Sengit, Terpeleset Kena Hitungan «Kalah Sayang dari Lawan Tangguh»](https://news.tvbs.com.tw/sports/3170909) — Lin Yu-ting pada 19 Maret 2026 lolos banding, dikonfirmasi bisa ikut Kejuaraan Asia; di semifinal kalah dari atlet Korea Utara Won Eun-kyung, meraih perunggu.
+
+[^15]: [中央社訊息平台 — Lektor Lin Yu-ting Juara Berturut-turut Asian Games Tinju, Universitas Culture Datang Menjemput di Bandara](https://www.cna.com.tw/postwrite/chi/446002) — Pers rilis Universitas Culture China: Lektor Lin Yu-ting di Asian Games 2026 Aichi-Nagoya kategori putri 60 kg menang 5-0 atas Yang Cheng-yu, mempertahankan emas.
+
+[^16]: [Associated Press AP — IOC melarang badan pengurus tinju dari Olimpiade, tetapi cabang olahraga tersebut tetap akan diadakan di Olimpiade Paris](https://apnews.com/article/boxing-olympics-ioc-iba-paris-1338983c3c1d0ccef6936f8a3fe34154) — IOC menghentikan status Olimpiade IBA karena masalah tata kelola; IBA memiliki utang hampir 20 juta dolar AS dan ketergantungan finansial pada Gazprom Rusia
+
+[^17]: [PTS News — JK Rowling mempertanyakan gender juara tinju Taiwan Lin Yu-ting; IOC, Sports Administration: memenuhi peraturan kompetisi](https://news.pts.org.tw/article/707611) — J.K. Rowling dan McGregor di media sosial membagikan laporan, mempertanyakan kelayakan Lin Yu-ting berkompetisi; IOC dan Sports Administration menjawab bahwa dia memenuhi peraturan
+
+[^18]: [PTS News — Isu gender Lin Yu-ting kembali dihangatkan; IOC menegaskan kelayakan tanpa masalah](https://news.pts.org.tw/article/708105) — Kelompok Kerja Tinju Komite Persiapan Olimpiade Paris dan IOC mengeluarkan pernyataan menanggapi pertanyaan tentang gender Lin Yu-ting
+
+[^19]: [TVBS News — Dukung 'Ratu Tinju Taiwan'! Biru-Hijau mengajak pemerintah menuntut JK Rowling ke pengadilan di seberang selat](https://news.tvbs.com.tw/politics/2572757) — Tokoh politik Biru-Hijau Taiwan menanggapi pertanyaan Rowling dan McGregor terhadap Lin Yu-ting
+
+[^20]: [UDN — Mencatat prestasi terbaik dalam sejarah tinju Taiwan! Lin Yu-ting lolos ke final emas Olimpiade, 11 cerita kecil](https://udn.com/news/story/121721/8148581) — Lin Yu-ting membahas lawan yang memanfaatkan kontroversi gender, serta responsnya 'hanya akan menampilkan performa yang lebih baik di atas ring'
+
+[^21]: [PTS News — Lin Yu-ting menang 5-0 lolos ke final emas, menulis ulang rekor terbaik tinju Olimpiade negara kita](https://news.pts.org.tw/article/708890/amp) — Semifinal: mengalahkan atlet Turki 5-0, lawan menunjukkan isyarat X di atas ring setelah pertandingan, Lin Yu-ting menanggapi dengan tenang
+
+[^22]: [CNA — Lin Yu-ting pulang ke Taiwan, berbahagia disebut 'Putri Taiwan'; berharap jadi teladan yang lebih baik menerangi orang lain](https://www.cna.com.tw/news/aspt/202408130041.aspx) — Lin Yu-ting membahas gelar 'Putri Taiwan' dan tanggung jawab sebagai teladan, serta ditunjuk oleh Sports Administration sebagai Duta Kebangsaan Anti-Bullying
+
+[^23]: [UDN — Lin Yu-ting mengungkap pernah dibully verbal karena penampilan netral; mengajak penonton berani memberikan dukungan](https://udn.com/news/story/6885/8557753) — Lin Yu-ting sebagai Duta Anti-Bullying membintangi video kampanye Kementerian Pendidikan, dan mengungkap pernah mengalami bullying verbal karena penampilan netral
+
+[^24]: [PTS News — Video image menginspirasi wanita; Lin Yu-ting jadi duta produk menstruasi](https://news.pts.org.tw/article/711250) — Lin Yu-ting menjadi duta merek pembalut, merek tersebut mendukung Tim Tinju Yingge selama 10 tahun; video image dimulai dengan 'Aku bukan gadis, apa itu gadis?'
+
+[^25]: [Marie Claire — Apa penampilan yang seharusnya dimiliki gadis? Kontroversi gender Lin Yu-ting, insiden Chen Shi-yuan di bandara, misogini di internet selalu ada](https://www.marieclaire.com.tw/community/opinion/80924) — Lin Yu-ting menjadi Duta Besar merek 'Tianti Pembalut' Taiwan Kangjiang
+
+[^26]: [Sankei News — Rektor Universitas Culture memimpin tim menyambut kejuaraan emas Olimpiade Lin Yu-ting yang pulang dengan kemenangan](https://www.1111.com.tw/news/jobns/157257) — Rektor Universitas Culture menjemput di bandara, menyatakan Lin Yu-ting akan mengajar di Jurusan Olahraga dan memulai program doktor pada bulan Agustus
+
+[^27]: [Sankei News — Lin Yu-ting hadir di Workshop Guru Baru Universitas Culture](https://www.1111.com.tw/news/jobns/157508) — Lin Yu-ting menghadiri Workshop Guru Baru 2024 Universitas Culture, akan menjabat sebagai dosen tetap Jurusan Olahraga
+
+[^28]: [Yahoo Kimo Olahraga — Penghargaan Elite: Zeng Zi-qiang dan Lin Yu-ting guru-murid keduanya mendapat penghargaan; 3 dari 8 penghargaan untuk tinju](https://tw.sports.yahoo.com/news/%E7%B2%BE%E8%8B%B1%E7%8D%8E-%E6%9B%BE%E8%87%AA%E5%BC%B7-%E6%9E%97%E9%83%81%E5%A9%B7%E5%B8%AB%E5%BE%92%E9%9B%99%E7%8D%B2%E7%8D%8E-8%E7%8D%8E%E9%A0%85%E6%8B%B3%E6%93%8A%E5%B0%B1%E4%BD%94-%E5%8D%8A-113521495.html) — Penghargaan Elite: Lin Yu-ting mendapat Atlet Wanita Terbaik, Zeng Zi-qiang mendapat Pelatih Terbaik
+
+[^29]: [ETtoday Olahraga — Breaking: Pemenang Atlet Terbaik Tahunan Penghargaan Elite Tang Jia-hong dan Lin Yu-ting](https://sports.ettoday.net/news/2877588) — Pidato penerimaan penghargaan Lin Yu-ting mengutip Socrates 'Hanya melalui badai kehidupan dapat terwujud'
+
+[^30]: [PTS News — Total Hadiah Guoguang mencapai NT$460 juta rekor tertinggi; Lin Yu-ting emas Olimpiade menerima NT$20,9 juta](https://news.pts.org.tw/article/727734) — Total hadiah Guoguang Lin Yu-ting NT$20,9 juta (emas Olimpiade NT$20 juta ditambah tambahan perunggu Kejuaraan Dunia NT$900 ribu)
+
+[^31]: [Liberty Times — Tinju: Federasi Tinju Dunia Resmi Mengesahkan Partisipasi Lin Yu-ting, Terima Kasih Asosiasi Tinju Taiwan yang Sepenuhnya Bekerja Sama](https://sports.ltn.com.tw/news/breakingnews/5378222) — Komite Medis World Boxing mengirim surat ke Asosiasi Tinju Republik China, menetapkan bahwa Lin Yu-ting memenuhi syarat untuk berpartisipasi di kategori putri.
+
+[^32]: [United Daily News — Tinju: Kalah dari Pemenang Perak Asian Games Korea Utara, Lin Yu-ting Meraih Perunggu di Kejuaraan Asia Pasca-Olimpiade Pertama](https://udn.com/news/story/7001/9424587) — Lin Yu-ting meraih medali perunggu di Kejuaraan Tinju Asia 2026 pada pertarungan pertamanya pasca-Olimpiade.
+
+[^33]: [TVBS News — Olimpiade Paris: Empat Peboks Emas Berburu 'Grand Slam Medali', Lin Yu-ting Ingin Hapus Kekecewaan Olimpiade Tokyo](https://news.tvbs.com.tw/sports/2558979) — Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, dan Wu Shih-yi dikenal sebagai 'Empat Peboks Emas Tinju', tim tinju Republik China memperoleh 6 kuota Olimpiade.

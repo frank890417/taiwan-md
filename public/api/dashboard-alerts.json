@@ -1,69 +1,29 @@
 {
-  "lastUpdated": "2026-10-23T22:07:36.916Z",
+  "lastUpdated": "2026-10-25T22:08:19.675Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 8,
+  "count": 3,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=18.4（少 20.4 分）",
+      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=18.2（少 20.45 分）",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "routine-silent-twmd-distill-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-distill-weekly 沉默死亡：2026-10-17T19:12 fire 後 146.9h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 03:12（台北），還有 21 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-10-18"
-    },
-    {
-      "id": "routine-silent-twmd-news-lens-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-news-lens-weekly 沉默死亡：2026-10-17T17:00 fire 後 149.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 01:00（台北），還有 19 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-news-lens-weekly",
-      "firstSeen": "2026-10-18"
-    },
-    {
-      "id": "routine-silent-twmd-self-evolve-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-10-17T20:06 fire 後 146h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 04:06（台北），還有 22 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-10-18"
-    },
-    {
       "id": "routine-silent-twmd-terminology-trends-monthly",
       "severity": "yellow",
-      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 451.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 12.2 天",
+      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 499.5h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-05 10:34（台北），還有 10.2 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-terminology-trends-monthly",
       "firstSeen": "2026-10-07"
     },
     {
-      "id": "routine-silent-twmd-weekly-report-sun",
-      "severity": "yellow",
-      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-10-17T18:03 fire 後 148.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 10-25 02:03（台北），還有 20 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-weekly-report-sun",
-      "firstSeen": "2026-10-18"
-    },
-    {
-      "id": "probe-stale",
-      "severity": "yellow",
-      "message": "探測器落後 12 天（最新 reports/probe/2026-10-11.md）> 9 天 — news-lens-weekly 漏跑一週，向外看的眼睛閉著",
-      "source": "reports/probe/",
-      "owner": "twmd-news-lens-weekly",
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "data-hub-stale",
       "severity": "yellow",
-      "message": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2025-06-30，已 481 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
+      "message": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2025-06-30，已 483 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
       "source": "data-hub-check.py × src/data/data-hub/indicators.json",
       "owner": "twmd-data-refresh",
       "firstSeen": "2026-10-23"

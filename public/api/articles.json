@@ -825,24 +825,6 @@
     "path": "hi/Technology/backslash-in-cjk-fonts.md"
   },
   {
-    "title": "「본섬 셔츠」를 입은 「장화 마조」 라이허, 그리고 타협하지 않던 저울대",
-    "description": "1943년 제야 직전, 장화 명의 라이허가 가난한 환자들의 진료비 빚 장부를 불태우는 관행을 이어갔다. 「타이완 신문학의 아버지」라 불리는 이 의사는 식민 고압 아래서 수술칼로 사람을 살리고 붓을 들어 부당함을 비판했으며, 그의 작품 〈저울 한 자루〉는 오늘날까지도 타이완이 권력의 폭력에 맞서 싸우는 문화적 상징으로 남아 있다.",
-    "category": "ko",
-    "tags": [
-      "라이허",
-      "타이완 문학",
-      "장화",
-      "일제 강점기",
-      "의료사",
-      "사회운동"
-    ],
-    "url": "https://taiwan.md/ko/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 19,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "ko/People/lai-ho-father-of-taiwanese-literature.md"
-  },
-  {
     "title": "「살개의 섬」에서 무처분제로까지: 대만 동물보호의 40년 구원 여정",
     "description": "1990년대 대만은 유해견에 대한 잔혹한 처치로 인해 국제적으로 '살개의 섬'이라 불렸으며, 일본 공항에서는 관광 거부 현수막이 등장하기도 했다. 1998년 《동물보호법》 제정에서 2017년 전면 무처분제 도입까지, 이는 생명 가치 재정의에 관한 사회운동이었다.",
     "category": "ko",
@@ -8068,6 +8050,24 @@
     "path": "ja/Geography/administrative-divisions-of-taiwan.md"
   },
   {
+    "title": "台湾の技術年会文化：COSCUPからHITCONへの年間移動",
+    "description": "台湾では毎年、一連の技術年会が定期的に開催されています：COSCUPは2006年からオープンソースコミュニティの共同主催で続き、プログラムは40以上のコミュニティトラックで構成されています；SITCONは学生自らが13年間運営し、延べ1万4千人の参加者と1,400人のボランティアを集めています；HITCONの年間プログラムは2005年から途切れることなく続き、さらにコミュニティ向け、企業向け、セキュリティコンテストなどの分野別イベントに分化しています。これらの年会の主催者はほぼ全員が無報酬のボランティアで、運営資金はスポンサーシップによって賄われ、講演者・ボランティア・学生が同じ会場群を行き来することで、台湾特有の技術コミュニティの季節が形成されています。",
+    "category": "ja",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "オープンソース",
+      "年会",
+      "ボランティア"
+    ],
+    "url": "https://taiwan.md/ja/technology/taiwan-tech-conference-culture",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "台湾の乖乖文化：緑色のスナックがいかにしてテック業界の守護神となったか",
     "description": "研究生のコンピュータからTSMCの装置まで、なぜ台湾人は緑色の乖乖が機器を「おとなしく」稼働させると信じるのか",
     "category": "ja",
@@ -11458,6 +11458,24 @@
     "featured": false,
     "date": "2026-03-28",
     "path": "Society/台灣志工文化與公益參與.md"
+  },
+  {
+    "title": "台灣技術年會文化：從 COSCUP 到 HITCON 的年度遷徙",
+    "description": "台灣每年有一批技術年會固定登場：COSCUP 從 2006 年辦到現在，由開放原始碼社群聯合主辦，議程由四十多個社群軌組成；SITCON 由學生自己籌辦十三年，累積一萬四千名參與者與一千四百名志工；HITCON 的年度議程從 2005 年一路排到現在，還拆出社群、企業與資安競賽等分眾場次。這些年會的主辦者幾乎都是不領薪水的志工，經費來自贊助，講者、志工與學生在同一批場地之間流動，形成一種台灣特有的技術圈季節。",
+    "category": "Technology",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "開源",
+      "年會",
+      "志工"
+    ],
+    "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E6%8A%80%E8%A1%93%E5%B9%B4%E6%9C%83%E6%96%87%E5%8C%96",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "Technology/台灣技術年會文化.md"
   },
   {
     "title": "台灣步道文化與公民守護",
@@ -16764,6 +16782,24 @@
     "path": "ja/Art/ximen-red-house.md"
   },
   {
+    "title": "西班牙北台灣十六年：從和平島到淡水的殖民嘗試",
+    "description": "1626 年 5 月，西班牙艦隊從馬尼拉北上，在雞籠港登陸，於和平島築起聖薩爾瓦多城。十六年間，他們在淡水建聖多明哥城、派人進入台北盆地探路、與噶瑪蘭族衝突，卻始終靠馬尼拉補助維持駐軍。1642 年 8 月，荷蘭人攻陷雞籠，西班牙退出台灣，留下的只有地名與幾段城牆。",
+    "category": "History",
+    "tags": [
+      "西班牙",
+      "北台灣",
+      "和平島",
+      "聖薩爾瓦多城",
+      "紅毛城",
+      "荷西時期"
+    ],
+    "url": "https://taiwan.md/history/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E5%8F%B0%E7%81%A3%E5%8D%81%E5%85%AD%E5%B9%B4",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "History/西班牙北台灣十六年.md"
+  },
+  {
     "title": "西螺大橋：十五年停擺，七個月把南北接起來",
     "description": "1937 年，濁水溪上的橋先完成了 32 座橋墩，橋身卻被戰爭留下的鋼鐵短缺卡住。十五年後，美援鋼材、地方請願與跨國工程隊伍在 1952 年七個月內把它接完。西螺大橋因此不只是遠東第一長橋，也是一段戰後台灣把交通、冷戰、臺糖運輸與地方記憶疊在同一條鋼桁架上的歷史。如今它仍在使用，也持續面對保存與安全的選擇。",
     "category": "History",
@@ -16887,14 +16923,14 @@
     "path": "ja/Politics/first-direct-presidential-election.md"
   },
   {
-    "title": "医療法：機関規制と市場とのせめぎ合いの40年",
-    "description": "台湾医療法は1986年に公布され、2017年に医師の刑事責任が改正され、2026年には三交代制の看護師患者比が法制化された。法律で「一人の看護師が最大何床を担当できるか」は定められるが、「その看護師が実際にいるかどうか」は定められない——32万枚の看護師免許があるのに、臨床現場に残っているのは19万双の手だけだ。これは健保法でも医師法でもない、台湾における「病院」という機関がどう存在するかの根本法であり、また医療の公益性と市場メカニズムが40年間解けないでいる綱引きでもある。",
+    "title": "医療法：機関規制と市場のせめぎ合いの40年",
+    "description": "台湾の医療法は1986年に公布され、2017年に医師の刑事責任が見直され、2026年には三交代制の看護師・患者比が法に盛り込まれた。法律は「看護師1人が受け持てる最大の病床数」を書けても、「その看護師がいるかどうか」までは書けない。看護師免許は32万人分あるのに、臨床に残るのは19万人。これは健保法でも医師法でもない、台湾の「病院」という機関がいかに存在するかを定めた根幹の法であり、医療の公益性と市場メカニズムが40年間解けずにきた綱引きでもある。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/medical-care-act",
-    "readingTime": 88,
+    "readingTime": 118,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ja/Society/medical-care-act.md"
   },
   {
@@ -19130,6 +19166,42 @@
     "path": "ja/Culture/donggang-king-boat-festival.md"
   },
   {
+    "title": "東寧王国：二十一年、台湾を国号に刻んだ王朝",
+    "description": "1662年2月、オランダ長官コイエットがゼーランディア城で鍵を引き渡し、鄭成功（てい・せいこう／チェン・チョンコン）がこの島を「東寧」に変えました。その後二十一年、鄭氏は一府二州三司を置き、軍隊を各地に屯田させ、陳永華（ちん・えいか／チン・ヨンホア）を派遣して国政を総理し、日本やイギリス東インド会社と通商しました。1683年7月の澎湖海戦で施琅（し・ろう／シー・ラン）が劉国軒（りゅう・こくけん／リュウ・コクケン）の水師を破り、10月に鄭克塽（てい・こくしゅう／テイ・コクシュウ）が清に降伏し、東寧は歴史の中へ消えました。",
+    "category": "ja",
+    "tags": [
+      "明鄭",
+      "東寧王国",
+      "鄭成功",
+      "鄭経",
+      "陳永華",
+      "澎湖海戦"
+    ],
+    "url": "https://taiwan.md/ja/history/tungning-kingdom",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/History/tungning-kingdom.md"
+  },
+  {
+    "title": "東寧王國：二十一年，一個把台灣寫進國號的王朝",
+    "description": "1662 年 2 月，荷蘭長官揆一在熱蘭遮城交出鑰匙，鄭成功把這座島變成「東寧」。此後二十一年，鄭氏設一府二州三司、把軍隊散到各地屯田、派陳永華總理國政，也與日本、英國東印度公司做生意。1683 年 7 月澎湖海戰，施琅擊潰劉國軒的水師，10 月鄭克塽降清，東寧走進歷史。",
+    "category": "History",
+    "tags": [
+      "明鄭",
+      "東寧王國",
+      "鄭成功",
+      "鄭經",
+      "陳永華",
+      "澎湖海戰"
+    ],
+    "url": "https://taiwan.md/history/%E6%9D%B1%E5%AF%A7%E7%8E%8B%E5%9C%8B",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "History/東寧王國.md"
+  },
+  {
     "title": "板南線：二つの都市を地下に縫い合わせる26.5km",
     "description": "1999年12月24日、板南線は西門、龍山寺、市政府を結び、その後頂埔と南港展覧館へと延伸した。この23駅、26.5kmの地下鉄は、板橋・台北・南港の通勤時間、商業流、徒歩ルート、そして土地の想像を書き換え、誰が人流を受け取り、誰が変化を負うのか、そして最後の500メートルがどのように歩き終えられるのかという問題を残した。",
     "category": "ja",
@@ -19414,19 +19486,8 @@
     "path": "ja/People/brigitte-lin-legendary-actress.md"
   },
   {
-    "title": "林俊傑: 싱가포르 1981년생, 《江南》에서 JJ20까지의 중국어 창작 천왕",
-    "description": "1981/3/27 싱가포르에서 출생. 4세에 피아노를 배움. 2003년 《樂行者》 첫 정규앨범(아시아 120만 장). 2004년 《江南》/《第二天堂》(180만 장). 2024/4 심장병으로 일상 복용 필요. JJ20 FINAL LAP 투어(2024‑25, 40도시, 77공연, 260만 관객). 2024/11 《초월하는 음표: 林俊傑 20주년》 전기.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/jj-lin-singaporean-mandopop-king.md"
-  },
-  {
     "title": "林俊傑：新加坡1981，《江南》到JJ20的華語創作天王",
-    "description": "1981/3/27生於新加坡。4歲學鋼琴。2003年《樂行者》首專（亞洲120萬張）。2004年《江南》/《第二天堂》（180萬張）。2024/4心臟病需日常用藥。JJ20 FINAL LAP巡演（2024-25，40城，77場，260萬觀眾）。2024/11《超越音符：林俊傑20周年》傳記。",
+    "description": "1981年生於新加坡，1999年從海蝶唱片的訓練班出道。《樂行者》（2003）、《第二天堂》（2004）兩張專輯各在亞洲賣出逾120萬與180萬張，金曲獎拿過最佳新人與兩次最佳國語男歌手。JJ20世界巡迴2022至2024年演出77場。",
     "category": "People",
     "tags": [
       "音樂",
@@ -19437,10 +19498,21 @@
       "金曲獎"
     ],
     "url": "https://taiwan.md/people/%E6%9E%97%E4%BF%8A%E5%82%91",
-    "readingTime": 8,
+    "readingTime": 4,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/林俊傑.md"
+  },
+  {
+    "title": "林俊傑（JJ Lin）：1981年シンガポール生まれ、『江南』からJJ20へと続く華語ポップスの創作天王",
+    "description": "1981年シンガポール生まれ。1999年に海蝶唱片的養成クラスを経てデビュー。『樂行者』（2003年）と『第二天堂』（2004年）はアジアで計300万枚超のセールスを記録。金曲奨最優秀新人賞および最優秀華語男性歌手賞を複数回受賞した。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 6,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "林宥嘉：25点満点の〈Creep〉から、自分が完璧である必要がないと認めるまでの17年",
@@ -19501,23 +19573,23 @@
     "path": "People/林昶佐.md"
   },
   {
-    "title": "林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣",
-    "description": "2024年8月11日，巴黎羅蘭蓋洛斯球場上，林郁婷以壓倒性姿態摘下台灣奧運史上首面拳擊金牌。從鶯歌國中的地下拳館出發，她歷經東京奧運挫敗、四強賽對手的「X」手勢挑釁、國際政治博弈與全球跨國網路霸凌。本文深度解構其「魔法師」哲學、長年陪練員李承威的幕後貢獻、技術演變、性別科學、文化大學教職、社會凝聚力與拳擊四后的革命情感，並收錄 2026 年 World Boxing 正式認可其參賽資格的最新史詩進展。",
+    "title": "林郁婷：從鶯歌國中拳擊隊到巴黎奧運金牌",
+    "description": "2024年8月，林郁婷在巴黎奧運女子57公斤級金牌戰以5比0擊敗波蘭選手，為台灣贏得第一面奧運拳擊金牌。本文整理她從鶯歌國中拳擊隊起步、東京奧運落敗、2023年世錦賽銅牌被取消與巴黎奧運期間的性別爭議，以及奪金後的教職、獎項與2026年的賽事近況，每項說法皆附來源。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E6%9E%97%E9%83%81%E5%A9%B7",
-    "readingTime": 21,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-08-12",
     "path": "People/林郁婷.md"
   },
   {
-    "title": "林郁婷：新莊の地下拳闘場からパリ五輪金メダルへ、孤高の女王が背負った台湾全土",
-    "description": "2024年8月11日、パリのローラン・ギャロス球場で、林郁婷が圧倒的な強さで台湾五輪史上初のボクシング金メダルを獲得。鶯歌国中（中学校）の地下拳闘場から出発し、東京五輪の挫折、準決勝での相手の「X」ジェスチャー挑発、国際政治の駆け引き、世界的なネットリンチを経験。「魔法使い」哲学、長年のスパーリングパートナー李承威の貢献、技術的進化、ジェンダー科学、中国文化大学教職、社会的凝集力、そして「ボクシング四后」の革命的情感を深く解説。2026年World Boxingによる出場資格正式承認の最新展開も収録。",
+    "title": "林郁婷：鶯歌国中ボクシング部からパリ五輪金メダルへ",
+    "description": "2024年8月、林郁婷はパリ五輪女子57キロ級決勝でポーランド選手を5対0で破り、台湾に初のオリンピックボクシング金メダルをもたらしました。本稿では、鶯歌国中ボクシング部でのスタート、東京五輪での敗退、2023年世界選手権銅メダル剥奪、パリ五輪期間中の性別を巡る論争、そして金メダル獲得後の教職・表彰・2026年の大会近況までを整理し、すべての記述に出典を付けています。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/lin-yu-ting-boxer",
-    "readingTime": 28,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-08-12",
     "path": "ja/People/lin-yu-ting-boxer.md"
@@ -25357,32 +25429,23 @@
     "path": "People/陳思宏.md"
   },
   {
-    "title": "陳映真：竹南から北京へ至った統一派文学の良心",
-    "description": "陳映真（1937–2016）は本名を陳永善といい、苗栗県竹南に生まれ、鶯歌で育ちました。1964 年の「将軍族」は、外省人の退役老兵と台湾の年少娼婦の悲劇を描いて名声を得ました。1968 年には「民主台湾聯盟案」により 10 年の刑を宣告されました（1975 年、蔣介石の死去に伴う特赦で早期出獄）。1985 年に『人間』雑誌を創刊し、台湾のルポルタージュ文学の先駆けとなりました。1988 年に中国統一聯盟を創設し、初代主席を務めました。2006 年に脳卒中を発症した後、北京へ移住し、2016 年に北京で病没しました。彼は台湾戦後文学において最も論争的な統一派作家であり、郷土文学論争に「許南村」の筆名で介入した重要な理論家でもあります。",
+    "title": "陳映真：竹南から北京へ——統派文学の良心",
+    "description": "陳映真（1937–2016）、本名陳永善、苗栗県竹南鎮生まれ、鶯歌で育つ。1964年『将軍族』で外省籍退役兵と台湾の雛妓の悲劇を描き注目される。1968年「民主台湾連盟事件」で懲役10年（1975年蔣介石死去の特赦で仮釈放）。1985年『人間』誌を創刊し台湾報告文学の先駆けとなる。1988年胡秋原らと中国統一連盟を設立し初代主席に就任、2006年北京に定住・同年脳卒中、2016年北京で病没。台湾戦後最大の論争的統派作家であり、郷土文学論争で余光中らの批判を反駁した主要代表の一人。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/chen-yingzhen",
-    "readingTime": 28,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/chen-yingzhen.md"
   },
   {
     "title": "陳映真：從竹南到北京的統派文學良心",
-    "description": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年創立中國統一聯盟並任首任主席，2006 年中風後遷居北京、2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中以「許南村」筆名介入的關鍵理論家。",
+    "description": "陳映真（1937–2016）本名陳永善，生於苗栗竹南、成長於鶯歌。1964 年〈將軍族〉以外省退伍老兵與台灣雛妓的悲劇成名，1968 年因「民主台灣聯盟案」被判 10 年（1975 蔣介石逝世特赦提前出獄）。1985 年創辦《人間》雜誌開創台灣報告文學先河。1988 年與胡秋原等人成立中國統一聯盟並任首任主席，2006 年定居北京、同年中風，2016 年病逝於北京。他是台灣戰後最具爭議的統派作家，也是鄉土文學論戰中反駁余光中等人批評的主要代表之一。",
     "category": "People",
-    "tags": [
-      "人物",
-      "陳映真",
-      "將軍族",
-      "山路",
-      "社會寫實主義",
-      "鄉土文學",
-      "統派",
-      "民主台灣聯盟案"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/people/%E9%99%B3%E6%98%A0%E7%9C%9F",
-    "readingTime": 21,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/陳映真.md"
@@ -29973,6 +30036,23 @@
     "path": "ja/Culture/penghu-folk-culture.md"
   },
   {
+    "title": "熱蘭遮城：一座城堡的四個名字",
+    "description": "1624 年，荷蘭人在台南大員重建一座堡壘，先叫奧蘭治城，兩年後改名熱蘭遮城。1662 年鄭成功圍城九個月，荷蘭長官揆一交出鑰匙，這裡變成明鄭的王城。清代城牆被拆去蓋億載金城，日本時代內城被剷平，2022 年文化部把殘蹟合併更名為「熱蘭遮堡遺構」。四個名字，四段統治。",
+    "category": "History",
+    "tags": [
+      "熱蘭遮城",
+      "安平古堡",
+      "荷蘭東印度公司",
+      "鄭成功",
+      "國定古蹟"
+    ],
+    "url": "https://taiwan.md/history/%E7%86%B1%E8%98%AD%E9%81%AE%E5%9F%8E",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "History/熱蘭遮城.md"
+  },
+  {
     "title": "緣起故事 — Taiwan.md 的誕生",
     "description": "從街頭散步的靈感，到為世界策展台灣的完整入口",
     "category": "About",
@@ -31543,24 +31623,6 @@
     "path": "People/賴和.md"
   },
   {
-    "title": "賴和（ライ・ホー）：台湾本島衫（ほんとうしゃつ）を着た「彰化の媽祖」と、曲がらない秤の棒",
-    "description": "1943年の大晦日前夜、彰化の名医・賴和は慣例通り、貧しい患者の未払い帳票を燃やした。「台湾新文学の父」と讃えられるこの医師は、植民地の圧政の中でメスで命を救い、筆で不正を批判し、その作品「一桿稱仔（いっかんはかりこ）」は今なお台湾が権力の暴力に抗う文化的象徴となっている。",
-    "category": "ja",
-    "tags": [
-      "賴和",
-      "台湾文学",
-      "彰化",
-      "日本統治時代",
-      "医療史",
-      "社会運動"
-    ],
-    "url": "https://taiwan.md/ja/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 18,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "ja/People/lai-ho-father-of-taiwanese-literature.md"
-  },
-  {
     "title": "賴清徳：礦工家庭から総統府への公共衛生医師",
     "description": "台湾第16代総統。中華民国憲政史上初、副総統身分で総統選に立ち当選した政治家",
     "category": "ja",
@@ -31712,6 +31774,24 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "People/Ceylan.md"
+  },
+  {
+    "title": "頼和（ライ・ホー）：本島衫を纏った「彰化の媽祖」、そして決して妥協しない「秤仔（天秤）」",
+    "description": "1943年の除夕前、彰化の名医・頼和は慣例として貧しい患者の未払い帳單を焼き捨てた。「台湾新文学の父」と称されるこの医師は、植民地支配の高圧的な状況下でメスで人を救い、筆を剣として不公正を批判した。彼の作品『一桿「稱仔」』は、今なお権力の暴力に抗う台湾の文化的象徴となっている。",
+    "category": "ja",
+    "tags": [
+      "頼和",
+      "台湾文学",
+      "彰化",
+      "日本統治時代",
+      "医療史",
+      "社会運動"
+    ],
+    "url": "https://taiwan.md/ja/people/lai-ho-father-of-taiwanese-literature",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "ja/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
     "title": "館長：一軒のジムがいかにして政治のマイクとなったか",
@@ -33768,17 +33848,6 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "pt/History/taiwan-transitional-justice.md"
-  },
-  {
-    "title": "A Lei de Assistência Médica: 40 anos de tensão entre a regulação institucional e o mercado",
-    "description": "A Lei de Assistência Médica de Taiwan foi promulgada em 1986, a responsabilidade penal dos médicos foi revisada em 2017 e a proporção de enfermeiros por turno foi incorporada à lei em 2026. A lei consegue definir \"quantas camas no máximo um enfermeiro pode atender\", mas não consegue definir \"se há enfermeiros disponíveis\". Das 320 mil licenças de enfermagem, restam apenas 190 mil pares de mãos na clínica. Esta não é a Lei de Seguro de Saúde nem a Lei dos Médicos, mas sim a lei fundamental que rege a existência da instituição \"hospital\" em Taiwan, e a tensão de 40 anos entre a assistência médica pública e os mecanismos de mercado que ainda não foi resolvida.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/medical-care-act",
-    "readingTime": 313,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "pt/Society/medical-care-act.md"
   },
   {
     "title": "A lei dos entregadores: a lei construiu o piso, mas acima dele o algoritmo continua no comando",
@@ -38664,12 +38733,12 @@
     "path": "vi/History/taiwan-elections-and-party-politics.md"
   },
   {
-    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
-    "description": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Anda Menekan \"Deklarasi Sesuai\", Siapa yang Anda Beri Kuasa",
+    "description": "Ponsel bergetar, notifikasi menampilkan deretan nama barang yang tak terlalu dipahami, Anda menekan \"Deklarasi Sesuai\", dan secara hukum yang selesai adalah sebuah surat kuasa pengurusan kepabeanan. Sebanyak 7,59 juta orang di Taiwan pernah mendaftar di aplikasi ini. Setelah sebuah unggahan viral pada Agustus 2026, banyak orang baru pertama kali mencari tahu siapa yang mengoperasikannya: Gateway Information Network Taiwan (GIN), perusahaan tercatat bursa yang sahamnya 36,11% dipegang Kementerian Keuangan, kurang dari separuh. Pada saat yang sama, ambang bebas pajak NT$2.000 untuk kedua kalinya diusulkan pemerintah untuk diturunkan. Siapa yang menanggung biaya jalan pintas ini, dan siapa yang sejak awal tak pernah sempat bersuara.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/ezway",
-    "readingTime": 174,
+    "readingTime": 186,
     "featured": true,
     "date": "2026-08-04",
     "path": "id/Lifestyle/ezway.md"
@@ -40232,6 +40301,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
+    "title": "Budaya Konferensi Teknologi Taiwan: Migrasi Tahunan dari COSCUP hingga HITCON",
+    "description": "Taiwan memiliki rangkaian konferensi teknologi tahunan yang tetap: COSCUP sejak 2006 oleh komunitas open source, SITCON selama 13 tahun oleh mahasiswa, dan HITCON sejak 2005 dengan berbagai sesi khusus.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/taiwan-tech-conference-culture",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "Budaya Kopi Taiwan: Pulau yang Menjual 600 Juta Cangkir Kopi di Convenience Store Setiap Tahun",
@@ -43914,70 +43994,70 @@
     "path": "de/Music/hsien-ching-chen.md"
   },
   {
-    "title": "Chen Yingzhen : de Zhunan à Pékin, conscience littéraire pro-unification",
-    "description": "Chen Yingzhen (1937-2016), de son vrai nom Chen Yongshan, est né à Zhunan, Miaoli, et a grandi à Yingge. En 1964, il se fait connaître avec La Tribu des généraux, tragédie mettant en scène un ancien soldat waishengren démobilisé et une jeune prostituée taïwanaise. En 1968, il est condamné à dix ans de prison dans l’« affaire de l’Alliance démocratique de Taïwan » ; il est libéré plus tôt en 1975 à la faveur d’une grâce accordée après la mort de Chiang Kai-shek. En 1985, il fonde le magazine Renjian, qui ouvre la voie à la littérature de reportage à Taïwan. En 1988, il crée l’Alliance pour l’unification de la Chine et en devient le premier président. Après un AVC en 2006, il s’installe à Pékin, où il meurt en 2016. Il est l’écrivain pro-unification le plus controversé de la littérature taïwanaise d’après-guerre, ainsi qu’un théoricien clé intervenu sous le pseudonyme de Xu Nancun dans la controverse sur la littérature du terroir.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/chen-yingzhen",
-    "readingTime": 85,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/chen-yingzhen.md"
-  },
-  {
-    "title": "Chen Yingzhen: Dari Zhunan ke Peking, Seorang Sastrawan Pro-Indonesia yang Kontroversial",
-    "description": "Chen Yingzhen (1937–2016), nama asli Chen Yongshan, lahir di Zhunan, Miaoli, dan tumbuh di Yingge, Taipei. Pada 1964, karyanya \"Keluarga Jender\" mendapat pengakuan dengan kisah tragis seorang mantan prajurit dari Tiongkok darisana dan seorang gadis muda dari Taiwan. Pada 1968, ia ditangkap dalam kasus \"Ikatan Demokrasi Taiwan\" dan dihukum 10 tahun (dibiayai karena pengampunan pasca-meninggalnya Chiang Kai-shek pada 1975). Pada 1985, ia mendirikan majalah \"Manusia\" yang membuka jalan bagi sastra laporan Taiwan. Pada 1988, ia mendirikan \"Ikatan Persatuan China\" dan menjadi ketuanya pertama. Setelah menderita serangan saraf pada 2006, ia pindah ke Beijing dan meninggal di sana pada 2016. Ia adalah salah satu penulis pro-Indonesia paling kontroversial dalam sejarah sastra Taiwan pasca-perang.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/chen-yingzhen",
-    "readingTime": 73,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "id/People/chen-yingzhen.md"
-  },
-  {
-    "title": "Chen Yingzhen: Das konfessionelle Literaturgewissen von Zhunan bis Peking",
-    "description": "Chen Yingzhen (1937–2016), ursprünglich Chen Yongshan, geboren in Zhunan, Miaoli, und aufgewachsen in Yingge, Taipei. Er wurde durch das Drama der Soldaten und der jungen Prostituierten berühmt; 1985 gründete er die Zeitschrift *Renjian* (Mensch) und leitete 1988 die China-Einheitsliga. Nach einem Schlaganfall zog er nach Peking und starb dort im Jahr 2016.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/chen-yingzhen",
-    "readingTime": 80,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "de/People/chen-yingzhen.md"
-  },
-  {
-    "title": "Chen Yingzhen: de Chu-nan a Pequim, a consciência literária da facção pró-unificação",
-    "description": "Chen Yingzhen (1937–2016), nome verdadeiro Chen Yong-shan, nasceu em Chu-nan, Miaoli, cresceu em Ying-ko. Ficou famoso em 1964 com \"A Raça dos Generais\" pela tragédia de um veterano da China continental e uma jovem prostituta taiwanesa. Em 1968, foi condenado a 10 anos pelo \"Caso da Aliança Democrática de Taiwan\" (libertado antecipadamente em 1975 após anistia pela morte de Chiang Kai-shek). Fundou a revista \"Human World\" em 1985, pioneira do reportagem literária em Taiwan. Fundou a Aliança para a Unificação da China em 1988 como primeiro presidente. Mudou-se para Pequim após AVC em 2006, faleceu lá em 2016. Foi o escritor pró-unificação mais controverso do pós-guerra em Taiwan e teórico chave na polêmica da literatura nativista sob o pseudônimo \"Hsu Nan-tsun\".",
+    "title": "Chen Ying-chen: A Consciência Literária Unificadora de Zhunan a Pequim",
+    "description": "Chen Ying-chen (1937–2016), nome de batismo Chen Yung-shan, nasceu em Zhunan, Miaoli, e cresceu em Yingge. Ficou famoso em 1964 com \"A Tribo do General\", uma tragédia sobre veteranos e prostitutas; foi condenado a 10 anos em 1968 pelo Caso da Liga Democrática de Taiwan. Fundou a revista Renjian em 1985, pioneira no não-ficção literária em Taiwan. Em 1988, fundou a Liga para a Unificação da China como seu primeiro presidente. Viveu em Pequim a partir de 2006, onde faleceu em 2016.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/chen-yingzhen",
-    "readingTime": 76,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/chen-yingzhen.md"
   },
   {
-    "title": "Chen Yingzhen: la conciencia literaria pro-unificación de Zhunan a Pekín",
-    "description": "Chen Yingzhen (1937–2016), cuyo nombre de nacimiento fue Chen Yongshan, nació en Zhunan, Miaoli, y creció en Yingge. En 1964 se hizo conocido con “La tribu de los generales”, tragedia sobre un veterano waishengren y una joven prostituta taiwanesa; en 1968 fue condenado a 10 años por el “caso de la Alianza Democrática de Taiwán” (salió anticipadamente en 1975 por una amnistía tras la muerte de Chiang Kai-shek). En 1985 fundó la revista Renjian, que abrió camino a la literatura de reportaje en Taiwán. En 1988 fundó la Alianza para la Unificación de China y fue su primer presidente; tras sufrir un derrame cerebral en 2006 se trasladó a Pekín, donde murió en 2016. Fue el escritor pro-unificación más controvertido del Taiwán de posguerra y también un teórico clave que intervino en el debate de la literatura nativista con el seudónimo “Xu Nancun”.",
+    "title": "Chen Ying-zhen: The Unificationist Literary Conscience from Zhunan to Beijing",
+    "description": "Chen Ying-zhen (1937–2016), born Chen Yung-shan, was a prominent writer and political intellectual known for his works on social realism and his leadership in the China Unification Alliance.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/chen-yingzhen",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/chen-yingzhen.md"
+  },
+  {
+    "title": "Chen Yingzhen : de Zhunan à Pékin, la conscience littéraire de l'unificationnisme",
+    "description": "Chen Yingzhen (1937–2016), de son vrai nom Chen Yongshan, né à Zhunan (Miaoli) et ayant grandi à Yingge. Il se fait connaître en 1964 avec « La Tribu des généraux », tragédie d'un vétéran continentale et d'une jeune prostituée taïwanaise. En 1968, condamné à 10 ans pour l'« Affaire de l'Alliance pour un Taïwan démocratique » (libéré par anticipation en 1975 après la mort de Tchang Kaï-chek). En 1985, il fonde la revue « Renjian », pionnière du reportage littéraire à Taïwan. En 1988, il cofonde l'Alliance pour l'unification de la Chine et en devient le premier président. Il s'installe à Pékin en 2006, y souffre d'un AVC la même année, et y décède en 2016. Figure la plus controversée de l'unificationnisme littéraire taïwanais d'après-guerre, il fut aussi le principal répondant aux critiques de Yu Guangzhong et d'autres lors du débat sur la littérature nativiste.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/chen-yingzhen",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/chen-yingzhen.md"
+  },
+  {
+    "title": "Chen Yingzhen: Dari Zhunan ke Beijing, Nurani Sastra Pro-Penyatuan",
+    "description": "Chen Yingzhen (1937–2016), nama aslinya Chen Yongshan, lahir di Zhunan, Miaoli, dan besar di Yingge. Pada 1964, ia terkenal berkat karya 'Keluarga Jenderal' yang menggambarkan tragedi mantan tentara veteran dari provinsi lain dan pelacur muda Taiwan. Pada 1968, ia dihukum 10 tahun penjara karena 'Kasus Aliansi Taiwan Demokrasi' (dibebaskan lebih awal pada 1975 berkat amnesti setelah Chiang Kai-shek meninggal). Pada 1985, ia mendirikan majalah 'Renjian' yang memulai aliran sastra reportase di Taiwan. Pada 1988, bersama Hu Qiuyuan dan lain-lain, ia mendirikan Aliansi Penyatuan China dan menjabat sebagai ketua pertamanya. Pada 2006, ia menetap di Beijing dan tahun yang sama menderita stroke, lalu meninggal dunia di Beijing pada 2016. Ia adalah penulis pro-penyatuan paling kontroversial di Taiwan pasca-perang, serta salah satu tokoh utama yang membantah kritik Yu Guangzhong dan lain-lain dalam perdebatan sastra nativis.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/chen-yingzhen",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/chen-yingzhen.md"
+  },
+  {
+    "title": "Chen Yingzhen: de Zhunan a Pekín, la conciencia literaria del campo unificacionista",
+    "description": "Chen Yingzhen (1937–2016), de nombre real Chen Yong-shan, nació en Zhunan, Miaoli, y creció en Yingge. Saltó a la fama en 1964 con \"La raza de los generales\", que narra la tragedia de un veterano retirado de China continental y una joven prostituta taiwanesa. En 1968 fue condenado a 10 años por el \"Caso de la Alianza Democrática de Taiwán\" (salió en libertad anticipada tras la amnistía de 1975 por la muerte de Chiang Kai-shek). En 1985 fundó la revista \"Renjian\", pionera del periodismo narrativo en Taiwán. En 1988 cofundó la Alianza para la Unificación de China y fue su primer presidente; en 2006 se estableció en Pekín, sufrió un ictus ese mismo año y falleció allí en 2016. Es el escritor unificacionista más controvertido de la posguerra en Taiwán y una figura clave en la polémica sobre la literatura nativista al replicar a Yu Kwang-chung y otros.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/chen-yingzhen",
-    "readingTime": 82,
+    "readingTime": 74,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/chen-yingzhen.md"
   },
   {
-    "title": "Chen Yingzhen: The Pro-Unification Literary Conscience from Zhunan to Beijing",
-    "description": "Chen Yingzhen (1937-2016), born Chen Yongshan, was born in Zhunan, Miaoli, and grew up in Yingge. In 1964, “The General’s Clan” made his name through the tragedy of a mainlander veteran and a young Taiwanese prostitute; in 1968, he was sentenced to 10 years in prison in the “Democratic Taiwan Alliance case” (he was released early under a special amnesty after Chiang Kai-shek’s death in 1975). In 1985, he founded Renjian magazine, pioneering reportage literature in Taiwan. In 1988, he founded the China Unification Alliance and served as its first chair. After suffering a stroke in 2006, he moved to Beijing, where he died in 2016. He was postwar Taiwan’s most controversial pro-unification writer, as well as a key theorist who intervened in the Nativist Literature debate under the pen name “Xu Nancun.”",
-    "category": "en",
+    "title": "Chen Yingzhen: Von Zhunan nach Peking – Das literarische Gewissen der Einigungsbewegung",
+    "description": "Chen Yingzhen (1937–2016), bürgerlich Chen Yongshan, geboren in Zhunan (Miaoli), aufgewachsen in Yingge. 1964 bekannt durch „Die Generalsclique“ (Tragödie eines Festlandchina-Veteranen und einer taiwanesischen Zwangsprostituierten), 1968 im „Fall Demokratischer Taiwan-Bund“ zu 10 Jahren verurteilt (1975 vorzeitig entlassen nach Chiang Kai-sheks Tod). 1985 gründete er die Zeitschrift „Renjian“ und begründete Taiwans Reportageliteratur. 1988 Mitbegründer und erster Vorsitzender der Chinesischen Einigungsallianz, zog 2006 nach Peking, erlitt dort einen Schlaganfall, starb 2016 in Peking. Er war Taiwans umstrittenster pro-chinesischer Einigungsschriftsteller der Nachkriegszeit und Hauptvertreter der Nativistischen-Literatur-Debatte gegen Yu Guangzhong u. a.",
+    "category": "de",
     "tags": [],
-    "url": "https://taiwan.md/en/people/chen-yingzhen",
-    "readingTime": 80,
+    "url": "https://taiwan.md/de/people/chen-yingzhen",
+    "readingTime": 70,
     "featured": false,
     "date": "2026-03-19",
-    "path": "en/People/chen-yingzhen.md"
+    "path": "de/People/chen-yingzhen.md"
   },
   {
     "title": "Chen Yu-hsun",
@@ -47889,6 +47969,17 @@
     "path": "pt/Technology/taiwan-game-jam-community.md"
   },
   {
+    "title": "Con datos vemos los 22 condados y ciudades de Taiwán: los más y menos densos difieren 151 veces, los mayores y los niños pasan de uno a uno a casi tres a uno",
+    "description": "En la misma isla, Taipéi tiene 8.975 hab./km² y el condado de Taitung solo 59, una diferencia de 151 veces. Con datos del Departamento de Registro Civil del Ministerio del Interior a finales de 2025, retratamos los 22 condados y ciudades: siete de cada diez personas se apiñan en el 30 % del territorio, la mayor proporción de ancianos está en la densísima Taipéi, y la mayor ratio ancianos/niños en el condado de Chiayi, casi tres a uno. En los 22 condados y ciudades, sin excepción, las muertes ya superan a los nacimientos.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-06-06",
+    "path": "es/Geography/data-taiwan-22-cities.md"
+  },
+  {
     "title": "Con đường cầu vồng của Đài Loan: Từ cuộc đấu tranh đường phố đến tình yêu trong \"hành tinh Wai-Meng\"",
     "description": "Năm 2017, Tòa án Tối cao Đài Loan phát hành Giải thích Hiến pháp số 748, mở ra con đường hôn nhân cùng giới hợp pháp. Từ cuộc đấu tranh độc thân của Tỳ Gia Vệ, đến sự trAlert giáo dục giới tính của Diệp Vĩnh Thụ, rồi đến những khoảnh khắc ngọt ngào hằng ngày của Wai & Meng — cộng đồng LGBTQ+ Đài Loan đã viết nên chương mới về bình quyền tại châu Á như thế nào?",
     "category": "vi",
@@ -48987,6 +49078,17 @@
     "path": "pt/Food/hand-shaken-drink-culture.md"
   },
   {
+    "title": "Cultura das conferências técnicas de Taiwan: de COSCUP a HITCON, a migração anual",
+    "description": "Todos os anos, Taiwan realiza uma série fixa de conferências técnicas: COSCUP ocorre desde 2006, organizada em conjunto por comunidades de código aberto, com uma programação composta por mais de quarenta trilhas comunitárias; SITCON é organizada por estudantes há treze anos, acumulando catorze mil participantes e mil e quatrocentos voluntários; a programação anual de HITCON ocorre ininterruptamente desde 2005, tendo se expandido em eventos distintos para comunidades, empresas e competições de segurança da informação. Os organizadores dessas conferências são quase inteiramente voluntários não remunerados, o financiamento vem de patrocínios, e palestrantes, voluntários e estudantes circulam entre os mesmos locais, criando uma temporada característica do meio técnico de Taiwan.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/technology/taiwan-tech-conference-culture",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "Cultura das livrarias independentes de Taiwan: como um livro se torna a sala de estar de um lugar",
     "description": "Da história da Rua Chongqing Sul, Wenluoting e da Livraria Tangshan até as micro-livrarias de Guanshan, Pinglin, Changbin e Penghu, compreenda como as livrarias independentes de Taiwan, em meio a guerras de desconto, leitura digital e pressão de aluguel, reorganizam curadoria, memória local, leitura de imigrantes, questões de gênero, cultura dos povos originários e relações comunitárias em espaços públicos, e examinam os custos reais de subsídios, logística, trabalho e revitalização local.",
     "category": "pt",
@@ -49095,6 +49197,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "es/Culture/taiwan-historic-streets-and-commercial-districts.md"
+  },
+  {
+    "title": "Cultura de las conferencias tecnológicas en Taiwán: la migración anual desde COSCUP hasta HITCON",
+    "description": "Taiwán cuenta con un ciclo anual de conferencias tecnológicas: COSCUP (comunidad de código abierto), SITCON (organizada por estudiantes) e HITCON (ciberseguridad).",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/taiwan-tech-conference-culture",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "Cultura de los animales callejeros en Taiwán: de Doce noches a la muerte del gato leopardo, el dilema del tranvía entre protección animal y conservación silvestre",
@@ -49592,6 +49705,24 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "fr/Lifestyle/taiwan-arcade-culture-and-streetscapes.md"
+  },
+  {
+    "title": "Culture des conférences techniques de Taïwan : de COSCUP à HITCON, la migration annuelle",
+    "description": "Chaque année, Taïwan accueille une série de conférences techniques récurrentes : COSCUP se tient depuis 2006, co-organisée par les communautés du logiciel libre, avec un programme composé de plus de quarante pistes communautaires ; SITCON est organisée par des étudiants depuis treize ans, accumulant 14 000 participants et 1 400 bénévoles ; le programme annuel de HITCON se déroule sans interruption depuis 2005 et s'est décliné en événements distincts pour les communautés, les entreprises et les compétitions de sécurité. Les organisateurs de ces conférences sont presque tous des bénévoles non rémunérés, le financement provient de sponsors, et conférenciers, bénévoles et étudiants circulent entre les mêmes lieux, créant une saison propre au milieu technique taïwanais.",
+    "category": "fr",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "open source",
+      "conférence",
+      "bénévole"
+    ],
+    "url": "https://taiwan.md/fr/technology/taiwan-tech-conference-culture",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "Culture des desserts glacés à Taïwan",
@@ -51104,6 +51235,17 @@
     "path": "de/Politics/village-chief-system.md"
   },
   {
+    "title": "Das Königreich Dongning: Ein einundzwanzigjähriges Regime, das Taiwan in seinen Staatsnamen aufnahm",
+    "description": "Im Februar 1662 übergab der niederländische Gouverneur Hendrik Caus (揆一) die Schlüssel von Fort Zeelandia an Zheng Chenggong, der die Insel zu „Dongning“ machte. In den folgenden 21 Jahren etablierte die Familie Zheng eine Verwaltung mit einer Präfektur, zwei Präfekturen und drei Aufsichtsbehörden, siedelte Soldaten als Bauern an, entsandte Chen Yonghua zur Staatsführung und handelte mit Japan sowie der Britischen Ostindien-Kompanie. Nach der Seeschlacht von Penghu im Juli 1683 besiegte Shi Lang die Flotte von Liu Guoxuan; im Oktober ergab sich Zheng Kechang dem Qing-Regime, womit das Zeitalter von Dongning endete.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/tungning-kingdom",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/History/tungning-kingdom.md"
+  },
+  {
     "title": "Das Lächeln eiszeitlicher Relikte: Hundert Jahre Geschichte und der technologische Schutz des taiwanischen Salamanders",
     "description": "Tief im taiwanischen Hochgebirge tragen fünf endemische Salamanderarten still die Erinnerung an die Eiszeit in sich. Sie sind Indikatoren für die Gesundheit alpiner Ökosysteme und stehen im Zentrum einer hundertjährigen Geschichte wissenschaftlicher Erkundung, taxonomischer Richtigstellung und sogar geopferter Menschenleben. Der Durchbruch bei der künstlichen Brutzucht im Jahr 2025 bringt diesen „lächelnden Hochgebirgsgeistern“ neue Hoffnung.",
     "category": "de",
@@ -51130,6 +51272,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "de/Culture/tsou-mayasvi-festival.md"
+  },
+  {
+    "title": "Das Medizinrecht: Vier Jahrzehnte zwischen institutioneller Regulierung und Marktdynamik",
+    "description": "Das taiwanesische Medizinrecht wurde 1986 verkündet, im Jahr 2017 hinsichtlich der strafrechtlichen Haftung von Ärzten reformiert und wird 2026 das Verhältnis von Pflegepersonal zu Patienten in drei Schichten gesetzlich verankern. Das Gesetz kann festlegen, „wie viele Betten eine Pflegekraft maximal betreuen darf“, aber es kann nicht garantieren, „ob überhaupt genügend Pflegekräfte vorhanden sind“ – bei 320.000 ausgestellten Pflegezertifikaten bleiben klinisch nur noch 190.000 Hände übrig. Dies ist weder das Krankenversicherungsgesetz noch das Ärztegesetz; es ist das Fundament der Existenz von „Krankenhäusern“ in Taiwan und das seit vier Jahrzehnten ungelöste Spannungsfeld zwischen dem Gemeinwohl im Gesundheitswesen und Marktmechanismen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/medical-care-act",
+    "readingTime": 355,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "de/Society/medical-care-act.md"
   },
   {
     "title": "Das Ökosystem von Lanyu: Der Lebenscode am Rand des Kuroshio",
@@ -52809,6 +52962,17 @@
     "path": "fr/Geography/taiwan-urban-development-and-rural-urban-divide.md"
   },
   {
+    "title": "Dezesseis anos de Espanha no norte de Taiwan: das tentativas coloniais na Ilha Heping até Tamsui",
+    "description": "Em maio de 1626, uma frota espanhola partiu de Manila e desembarcou no porto de Keelung, erguendo a cidade de San Salvador na Ilha Heping. Durante dezesseis anos, construíram a cidade de Santo Domingo em Tamsui, exploraram a bacia de Taipé e entraram em conflito com o povo Kavalan, dependendo sempre do apoio de Manila para manter as tropas. Em agosto de 1642, os holandeses tomaram Keelung e a Espanha retirou-se de Taiwan, deixando apenas nomes de lugares e alguns trechos de muralhas.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/History/spanish-northern-taiwan-1626-1642.md"
+  },
+  {
     "title": "Dì bản tạp hóa và mạng lưới thông tin cộng đồng của cô bán đồ ăn sáng",
     "description": "Thật hay giả, tôi cứ nghĩ các cô này chỉ gọi người ta là \"trai đẹp\", bài viết về cách những cô chủ tiệm bánh mì trở thành trung tâm thông tin của cả khu phố.",
     "category": "vi",
@@ -54138,6 +54302,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "de/History/hukou-camp-shengli-road-memory.md"
+  },
+  {
+    "title": "Dieciséis años de España en el norte de Taiwán: de la Isla de la Paz a Tamsui, un intento colonial",
+    "description": "En mayo de 1626, la flota española zarpó desde Manila hacia el norte, desembarcó en el puerto de Keelung y construyó la ciudad de San Salvador en la Isla de la Paz. Durante dieciséis años, edificaron la ciudad de Santo Domingo en Tamsui, enviaron expediciones a la cuenca de Taipéi y chocaron con el pueblo Kavalan, pero siempre dependieron de los subsidios de Manila para mantener su guarnición. En agosto de 1642, los holandeses tomaron Keelung y España se retiró de Taiwán, dejando solo algunos topónimos y tramos de muralla.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "Điểm nóng đa dạng sinh học tại Đài Loan",
@@ -58350,6 +58525,17 @@
     "path": "es/Society/taiwan-indigenous-education-and-language-revival.md"
   },
   {
+    "title": "Enam Belas Tahun Spanyol di Taiwan Utara: Upaya Kolonisasi dari Pulau Heping hingga Tamsui",
+    "description": "Pada Mei 1626, armada Spanyol berlayar ke utara dari Manila, mendarat di Pelabuhan Keelung, dan membangun Kota San Salvador di Pulau Heping. Selama enam belas tahun, mereka membangun Kota Santo Domingo di Tamsui, mengirim pasukan untuk menjelajahi Cekungan Taipei, serta terlibat konflik dengan suku Kavalan, namun tetap bergantung pada bantuan Manila untuk mempertahankan garnisun. Pada Agustus 1642, Belanda menaklukkan Keelung dan Spanyol mundur dari Taiwan, hanya menyisakan nama tempat dan beberapa sisa tembok kota.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/History/spanish-northern-taiwan-1626-1642.md"
+  },
+  {
     "title": "Encyclopædia Tân Đại Đài Loan: Giấc mơ tri thức quốc gia 500 triệu đồng",
     "description": "Năm 2004, Đài Loan đã ra mắt dự án kỹ thuật tri thức lớn nhất lịch sử — \"Encyclopædia Tân Đại Đài Loan\". Từ bức tranh đẹp 1,4 tỷ đồng ban đầu của ông Vương Vinh Văn cho tới khoản ngân sách thực tế 520 triệu đồng, dự án trải qua ba lần cập nhật hệ thống và phát triển giấy phép, cuối cùng đóng cửa trang web độc lập vào năm 2014. Đây không chỉ là lịch sử chuyển đổi công nghệ, mà còn là sự chuyển đổi tư duy sâu sắc của nhà nước trong thời đại số: từ \"người định nghĩa uy tín\" sang \"người cung cấp tài nguyên mở\".",
     "category": "vi",
@@ -60955,6 +61141,83 @@
     "path": "de/Nature/the-ornithology-of-formosa.md"
   },
   {
+    "title": "Fort Zeelandia : un fort aux quatre noms",
+    "description": "En 1624, les Néerlandais reconstruisent un fort à Tayouan (Tainan), d'abord nommé Fort Orange, puis rebaptisé Fort Zeelandia deux ans plus tard. En 1662, Koxinga assiège le fort pendant neuf mois ; le gouverneur néerlandais Coyett remet les clés, et le lieu devient la capitale du royaume de Tungning. Sous la dynastie Qing, les murailles sont démolies pour construire le Fort de l'Or Éternel ; à l'époque japonaise, le fort intérieur est rasé. En 2022, le ministère de la Culture fusionne les vestiges et les renomme « vestiges du Fort Zeelandia ». Quatre noms, quatre périodes de domination.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/fort-zeelandia",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: A Castle with Four Names",
+    "description": "In 1624, the Dutch rebuilt a fort at Dayuan in Tainan, first naming it Fort Oranje, then renaming it Fort Zeelandia two years later. In 1662, after a nine-month siege by Koxinga, Dutch Governor Coyett handed over the keys, and it became the Ming-Zheng royal capital. During the Qing era, walls were dismantled to build Eternal Golden Castle; in the Japanese era, the inner fortress was leveled; in 2022, the Ministry of Culture merged the remnants and renamed them the \"Fort Zeelandia Remains.\" Four names, four regimes.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/fort-zeelandia",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: Bốn cái tên của một tòa thành",
+    "description": "Năm 1624, người Hà Lan tái thiết một pháo đài tại Đại Viên, Đài Nam, ban đầu gọi là Fort Oranje, hai năm sau đổi tên thành Fort Zeelandia. Năm 1662, sau khi Trịnh Thành Công bao vây thành suốt chín tháng, thống đốc Hà Lan buộc phải bàn giao chìa khóa, nơi đây trở thành vương thành của nhà Minh Trịnh. Dưới thời nhà Thanh, tường thành bị dỡ bỏ để xây dựng Ức Tái Kim Thành; thời Nhật Bản, nội thành bị san phẳng; đến năm 2022, Bộ Văn hóa đã hợp nhất các di tích và đổi tên thành \"Di tích pháo đài Zeelandia\". Bốn cái tên, bốn giai đoạn cai trị.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/fort-zeelandia",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: Empat Nama untuk Sebuah Benteng",
+    "description": "Pada tahun 1624, orang Belanda membangun kembali sebuah benteng di Dawan, Tainan, yang awalnya bernama Fort Oranje, lalu berganti nama menjadi Fort Zeelandia dua tahun kemudian. Pada tahun 1662, Koxinga mengepung benteng tersebut selama sembilan bulan hingga Gubernur Coen menyerahkan kunci, menjadikannya kota kerajaan Ming Zheng. Pada masa Dinasti Qing, temboknya dibongkar untuk membangun Yizai Jincheng, dan pada era Jepang, bagian dalam benteng diratakan. Pada tahun 2022, Kementerian Kebudayaan menggabungkan sisa-sisa tersebut dan mengubah namanya menjadi \"Situs Fort Zeelandia\". Empat nama, empat periode pemerintahan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/fort-zeelandia",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: los cuatro nombres de una fortaleza",
+    "description": "En 1624, los holandeses reconstruyeron un fuerte en Dawan, Tainan, llamado inicialmente Fort Oranje y renombrado Fort Zeelandia dos años después. En 1662, tras nueve meses de asedio por Koxinga, el gobernador holandés entregó las llaves, convirtiéndolo en la ciudad real del Reino de Tungning. Durante la dinastía Qing, sus muros fueron desmantelados para construir el Yizai Jin Cheng; en la era japonesa, la ciudad interior fue nivelada, y en 2022, el Ministerio de Cultura fusionó los restos bajo el nombre de «Restos del Fuerte Zeelandia». Cuatro nombres, cuatro periodos de dominio.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/fort-zeelandia",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: Os quatro nomes de um castelo",
+    "description": "Em 1624, os holandeses reconstruíram uma fortaleza em Da-yuan, Tainan, chamando-a inicialmente de Fort Oranje; dois anos depois, mudou para Fort Zeelandia. Em 1662, após nove meses de cerco por Koxinga, o governador holandês entregou as chaves, e o local tornou-se a cidade real de Ming Zheng. Durante a dinastia Qing, as muralhas foram desmontadas para construir o Yizai Jincheng; na era japonesa, a parte interna foi nivelada; em 2022, o Ministério da Cultura unificou os vestígios sob o nome \"Estruturas do Forte Zeelandia\". Quatro nomes, quatro períodos de governo.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/fort-zeelandia",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/History/fort-zeelandia.md"
+  },
+  {
+    "title": "Fort Zeelandia: Vier Namen für eine Festung",
+    "description": "1624 errichteten die Niederländer eine Festung in Dajuan, Tainan, die zunächst Fort Oranje hieß und zwei Jahre später in Fort Zeelandia umbenannt wurde. 1662 belagerte Koxinga die Festung neun Monate lang; nach der Kapitulation des niederländischen Gouverneurs Coen wurde sie zur königlichen Residenz der Ming-Zheng-Dynastie. Während der Qing-Zeit wurden die Mauern für den Bau der Yizai Jin Cheng abgetragen, in der japanischen Ära wurde die Innenstadt eingeebnet, und 2022 vereinte das Kulturministerium die Überreste unter dem Namen „Relikte des Fort Zeelandia“. Vier Namen, vier Herrschaftsepochen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/fort-zeelandia",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/History/fort-zeelandia.md"
+  },
+  {
     "title": "Fórum Pensar: 14 anos de pedra de toque do presidente derrotado a recipiente de diálogo democrático transpartidário",
     "description": "Em 2 de maio de 2026, o ex-presidente do Partido Popular James Soong, a presidente do Partido do Poder da Era Wang Wan-yu, Miao Po-ya do Partido Social-Democrata e o veterinário da Fresh Milk Workshop Kung Chien-chia apareceram simultaneamente na lista de autores de '30 anos, 30 pessoas, 30 perspectivas'. Este fórum online fundado por Tsai Ing-wen após sua derrota em 2012, acumulou quase 5.800 artigos em 14 anos, atravessou a cisão quando Chien Chih-chung assumiu a presidência do conselho, atravessou a distância de 9 anos sem grande reformulação durante o período de governo, e em 2026 ainda responde a uma pergunta pendente desde o primeiro dia: uma plataforma chamada 'Fundação Educacional Tsai Ing-wen' consegue sustentar um diálogo democrático transpartidário?",
     "category": "pt",
@@ -61941,17 +62204,6 @@
     "featured": false,
     "date": "2026-07-29",
     "path": "de/Food/international-brand-localization-taiwan.md"
-  },
-  {
-    "title": "Gesetzgebung im Gesundheitswesen: Vierzig Jahre zwischen institutionellen Normen und Marktspannungen",
-    "description": "Das taiwanische Gesundheitsgesetz wurde 1986 erlassen, die Strafbarkeit von Ärzten 2017 geändert und das Verhältnis Pflegekraft zu Patient in drei Schichten für 2026 gesetzlich verankert. Das Gesetz kann festlegen, wie viele Betten eine Krankenschwester maximal betreuen darf, aber es kann nicht bestimmen, ob diese Krankenschwester überhaupt existiert – von 320.000 Pflegezertifikaten sind in der Klinik nur noch 190.000 Hände vorhanden. Dies ist weder das Krankenversicherungsgesetz noch das Ärztegesetz, sondern die grundlegende Grundlage für die Existenz der Institution „Krankenhaus“ in Taiwan und ein vierzigjähriger Konflikt zwischen dem öffentlichen Wohl des Gesundheitswesens und den Marktmechanismen.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/society/medical-care-act",
-    "readingTime": 323,
-    "featured": false,
-    "date": "2026-07-15",
-    "path": "de/Society/medical-care-act.md"
   },
   {
     "title": "Gesundheit für alle: Taiwans medizinisches Wunder",
@@ -67718,17 +67970,6 @@
     "path": "en/Geography/hukou-old-street.md"
   },
   {
-    "title": "Hukum Kesehatan: Empat Puluh Tahun Antara Norma Institusi dan Daya Tarik Pasar",
-    "description": "Hukum Kesehatan Taiwan diumumkan pada 1986, mengubah kewajiban pidana dokter pada 2017, dan memasukkan rasio perawat per pasien ke dalam hukum pada 2026. Hukum dapat menuliskan 'berapa tempat tidur yang bisa ditangani oleh satu perawat', namun tidak dapat menuliskan 'apakah perawat itu ada'—320.000 lisensi perawat, namun hanya tersisa 190.000 tangan klinis. Ini bukanlah hukum asuransi kesehatan, bukanlah hukum dokter, melainkan adalah landasan bagaimana 'rumah sakit' ini ada sebagai institusi, serta adalah pertarik yang belum terpecahkan selama empat puluh tahun antara sifat sukarela (publik) layanan kesehatan dan mekanisme pasar.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/medical-care-act",
-    "readingTime": 310,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "id/Society/medical-care-act.md"
-  },
-  {
     "title": "Human Magazine: Eine stille Revolution, initiiert durch Fotografie und Text – der Ursprung der Reportageliteratur in Taiwan",
     "description": "47 Ausgaben, vier Jahre, eine stille Revolution, die durch Fotografie und Text ausgelöst wurde – der Beginn der Reportageliteratur in Taiwan",
     "category": "de",
@@ -70579,73 +70820,59 @@
     "path": "en/Culture/jiutian-xuannu-belief.md"
   },
   {
-    "title": "JJ Lin : Singapour 1981, du tube « Jiangnan » à la tournée JJ20, roi de la création mandopop",
-    "description": "Né le 27 mars 1981 à Singapour. Piano à 4 ans. 2003 : premier album *Music Voyager* (1,2 million d'exemplaires en Asie). 2004 : *The Second Heaven* / « Jiangnan » (1,8 million). Avril 2024 : révèle une maladie cardiaque nécessitant un traitement quotidien. Tournée mondiale JJ20 FINAL LAP (2024-25, 40 villes, 77 concerts, 2,6 millions de spectateurs). Novembre 2024 : publication de la biographie *Beyond the Notes : 20 ans de JJ Lin*.",
+    "title": "JJ Lin : né à Singapour en 1981, le roi de la création musicale mandarine de « Jiangnan » à JJ20",
+    "description": "Né en 1981 à Singapour, il débute en 1999 via les classes de formation de Hype Records. Ses albums « Music Walker » (2003) et « Second Paradise » (2004) se sont vendus respectivement à plus de 1,2 million et 1,8 million d'exemplaires en Asie ; il a remporté le prix du meilleur nouvel artiste et deux fois celui du meilleur chanteur masculin de musique mandarine aux Golden Melody Awards. Sa tournée mondiale JJ20 a compté 77 concerts entre 2022 et 2024.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 27,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
-    "title": "JJ Lin: Cantautor singapurense nacido en 1981, del éxito «Jiangnan» a la gira JJ20",
-    "description": "Nacido el 27/3/1981 en Singapur. Comenzó a estudiar piano a los 4 años. En 2003 publicó su primer álbum, *Music Voyager* (1,2 millones de copias en Asia). En 2004, *El Octavo Día* / «Jiangnan» (1,8 millones de copias). En abril de 2024 reveló un problema cardíaco que requiere medicación diaria. Gira mundial JJ20 FINAL LAP (2024-25, 40 ciudades, 77 conciertos, 2,6 millones de espectadores). En noviembre de 2024 se publicó la biografía *Más allá de las notas: 20 años de JJ Lin*.",
-    "category": "es",
-    "tags": [
-      "音樂",
-      "創作歌手",
-      "華語流行",
-      "新加坡",
-      "流行音樂",
-      "金曲獎"
-    ],
-    "url": "https://taiwan.md/es/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/jj-lin-singaporean-mandopop-king.md"
-  },
-  {
-    "title": "JJ Lin: Lahir di Singapura 1981, dari \"Jiangnan\" ke JJ20, Raja Kreator Mandarin",
-    "description": "Lahir 27 Maret 1981 di Singapura. Belajar piano usia 4 tahun. 2003 album perdana \"Music Voyager\" (1,2 juta kopi di Asia). 2004 \"Jiangnan\"/\"Second Heaven\" (1,8 juta kopi). April 2024 mengungkap penyakit jantung memerlukan obat rutin. Tur JJ20 FINAL LAP (2024-25, 40 kota, 77 konser, 2,6 juta penonton). November 2024 terbit biografi \"Beyond the Notes: JJ Lin 20th Anniversary\".",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "id/People/jj-lin-singaporean-mandopop-king.md"
-  },
-  {
-    "title": "JJ Lin: Singapore 1981, the Mandopop King of Creation from 'River South' to JJ20",
-    "description": "Born 1981/3/27 in Singapore. Began piano at age 4. 2003 debut album 'Music Voyager' (1.2 million copies in Asia). 2004 'River South'/'The Second Heaven' (1.8 million copies). 2024/4 heart condition requiring daily medication. JJ20 FINAL LAP World Tour (2024-25, 40 cities, 77 shows, 2.6 million attendees). 2024/11 biography 'Beyond the Notes: JJ Lin 20th Anniversary'.",
+    "title": "JJ Lin: Born in Singapore, 1981; From \"Jiangnan\" to the Mandopop King of JJ20",
+    "description": "Born in Singapore in 1981, he debuted via Hype Records' training program in 1999. His albums *Music Journey* (2003) and *Second Paradise* (2004) sold over 1.2 million and 1.8 million copies across Asia respectively; he is a Golden Melody Award winner for Best New Artist and two-time Best Mandarin Male Singer. The JJ20 World Tour performed 77 shows from 2022 to 2024.",
     "category": "en",
-    "tags": [
-      "音樂",
-      "創作歌手",
-      "華語流行",
-      "新加坡",
-      "流行音樂",
-      "金曲獎"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 24,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
-    "title": "JJ Lin: Singapore 1981, từ \"Jiangnan\" đến JJ20, Vua sáng tác nhạc Hoa",
-    "description": "Sinh 1981/3/27 tại Singapore. Học piano từ 4 tuổi. 2003 album đầu \"Wonderful Crazy\" (1,2 triệu bản toàn Châu Á). 2004 \"Sept\" / \"Destination\" (1,8 triệu bản). 2024/4 bệnh tim cần dùng thuốc hàng ngày. Lưu diễn JJ20 FINAL LAP (2024-25, 40 thành phố, 77 show, 2,6 triệu khán giả). 2024/11 hồi ký \"Beyond Note: JJ Lin 20 năm\".",
-    "category": "vi",
+    "title": "JJ Lin: Lahir di Singapura 1981, Raja Kreator Musik Mandarin dari \"Jiangnan\" hingga JJ20",
+    "description": "Lahir di Singapura tahun 1981, memulai debut melalui kelas pelatihan Hay Music pada 1999. Album \"Music Walker\" (2003) dan \"Second Paradise\" (2004) masing-masing terjual lebih dari 1,2 juta dan 1,8 juta kopi di Asia; pemenang Best New Artist dan dua kali Best Mandarin Male Singer di Golden Melody Awards. Tur dunia JJ20 mencakup 77 pertunjukan dari 2022 hingga 2024.",
+    "category": "id",
     "tags": [],
-    "url": "https://taiwan.md/vi/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 24,
+    "url": "https://taiwan.md/id/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 13,
     "featured": false,
     "date": "2026-03-19",
-    "path": "vi/People/jj-lin-singaporean-mandopop-king.md"
+    "path": "id/People/jj-lin-singaporean-mandopop-king.md"
+  },
+  {
+    "title": "JJ Lin: nacido en Singapur en 1981, el rey de la composición en mandarín desde «Jiangnan» hasta JJ20",
+    "description": "Nacido en Singapur en 1981, debutó tras formarse en Hype Record en 1999. Sus álbumes «Music Walker» (2003) y «Second Heaven» (2004) vendieron más de 1,2 y 1,8 millones de copias en Asia, respectivamente; ha ganado el Golden Melody Award como Mejor Artista Revelación y dos veces como Mejor Artista Masculino de Mandarín. Su gira mundial JJ20 realizó 77 conciertos entre 2022 y 2024.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/jj-lin-singaporean-mandopop-king.md"
+  },
+  {
+    "title": "JJ Lin: Nascido em Singapura em 1981, o rei da composição Mandopop de \"Jiangnan\" a JJ20",
+    "description": "Nascido em Singapura em 1981, estreou em 1999 após treinamento na Hay Music. Seus álbuns venderam milhões na Ásia e ele venceu vários Golden Melody Awards.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "pt/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "JJ Lin: Singapur 1981, vom „Jiangnan“ zur JJ20-Krone des chinesischsprachigen Mandopop",
@@ -70657,28 +70884,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "de/People/jj-lin-singaporean-mandopop-king.md"
-  },
-  {
-    "title": "JJ Lin: Singapura 1981, de \"Jiangnan\" ao JJ20, o rei da criação mandopop",
-    "description": "Nasceu em 27/3/1981 em Singapura. Aos 4 anos começou piano. 2003 álbum de estreia \"Music Voyager\" (1,2 milhões na Ásia). 2004 \"Second Heaven\"/\"Jiangnan\" (1,8 milhões). Abril 2024 revelou doença cardíaca requer medicação diária. Turnê JJ20 FINAL LAP (2024-25, 40 cidades, 77 shows, 2,6 milhões de espectadores). Novembro 2024 biografia \"Beyond the Notes: 20 Anos de JJ Lin\".",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "pt/People/jj-lin-singaporean-mandopop-king.md"
-  },
-  {
-    "title": "JJ Lin：シンガポール生まれ1981年、『江南』からJJ20までの華語創作天王",
-    "description": "1981年3月27日シンガポールで生まれ。4歳でピアノを学び始める。2003年にデビュー作『楽行者』をリリース（アジアで120万枚）。2004年に『江南』／『第二天堂』で180万枚を売り上げる。2024年4月に心臓病で日常的に薬を服用していることを公表。JJ20 FINAL LAPツアー（2024‑2025年、40都市、77公演、260万人観客）。2024年11月に伝記『超越音符：JJ Lin 20周年』が出版。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 11,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ja/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "Jody Chiang : l'icône du Hokkien issue des cabarets Nakasi de Beitou",
@@ -72187,6 +72392,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "id/Food/taiwan-banana-kingdom.md"
+  },
+  {
+    "title": "Kerajaan Tungning: Dua Puluh Satu Tahun, Sebuah Dinasti yang Memasukkan Taiwan ke dalam Nama Negaranya",
+    "description": "Pada Februari 1662, Gubernur Belanda Coyett menyerahkan kunci Kastil Zeelandia, dan Koxinga mengubah pulau ini menjadi \"Tungning\". Selama dua puluh satu tahun setelahnya, keluarga Zheng mendirikan satu prefectur, dua prefectur (zhou), dan tiga departemen, menyebarkan pasukan ke berbagai wilayah untuk menggarap tanah (tuntian), menunjuk Chen Yonghua untuk mengelola pemerintahan negara, dan juga berdagang dengan Jepang serta Kompani Hindia Timur Inggris. Pada Juli 1683, dalam Perang Laut Penghu, Shi Lang menghancurkan angkatan laut Liu Guoxuan; pada Oktober, Zheng Keshuang menyerah kepada Dinasti Qing, dan Kerajaan Tungning berakhir menjadi sejarah.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/tungning-kingdom",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "id/History/tungning-kingdom.md"
   },
   {
     "title": "Kerajinan Tradisional Taiwan dan Warisan Budaya Takberwujud: Pengakuan Institusional Tiba, Sistem Magang Hilang",
@@ -76329,17 +76545,6 @@
     "path": "fr/History/wu-feng-legend.md"
   },
   {
-    "title": "La Ley de Asistencia Médica: Cuatro décadas de tensión entre la regulación institucional y el mercado",
-    "description": "La Ley de Asistencia Médica de Taiwán fue promulgada en 1986, se modificó la responsabilidad penal de los médicos en 2017 y la relación enfermero-paciente de tres turnos se incorporó a la ley en 2026. La ley puede escribir «cuántas camas puede atender como máximo una enfermera», pero no puede escribir «si existe esa enfermera»: de las 320.000 licencias de enfermería, solo quedan 190.000 manos en la clínica. Esta no es la Ley de Seguro Médico, ni la Ley de Médicos, es la ley raíz sobre cómo existe la institución del «hospital» en Taiwán, y la tensión sin resolver durante cuarenta años entre la utilidad pública de la asistencia médica y los mecanismos de mercado.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/society/medical-care-act",
-    "readingTime": 327,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "es/Society/medical-care-act.md"
-  },
-  {
     "title": "La ley especial de reparto: el derecho construyó el suelo, pero por encima sigue mandando el algoritmo",
     "description": "A las cero horas del 21 de julio de 2026 entró en vigor la primera ley especial de reparto de Taiwán: un mínimo de 45 nuevos dólares taiwaneses por pedido. Ese mismo día, un repartidor recibió dos pedidos —4,4 km y 8,6 km— con la misma remuneración de 90 dólares. Desde la muerte de dos repartidores durante el puente del Día Nacional de 2019 hasta estos 28 artículos pasaron seis años. Pero la ley evita deliberadamente responder si son o no empleados, y tampoco toca el algoritmo de asignación de pedidos que en realidad determina sus ingresos: en la primera semana de vigencia, ni siquiera había respuesta sobre cuántos inspectores locales habían salido a fiscalizar.",
     "category": "es",
@@ -76459,17 +76664,6 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "fr/Society/remote-area-schools-education-act.md"
-  },
-  {
-    "title": "La Loi sur les établissements de santé : Quarante ans de tensions entre normes institutionnelles et dynamiques de marché",
-    "description": "La Loi sur les établissements de santé, promulguée en 1986, a vu la responsabilité pénale des médecins révisée en 2017 et le ratio infirmier-médecin en trois équipes inscrit dans la loi en 2026. La loi peut déterminer « le nombre maximal de lits qu'une infirmière peut gérer », mais elle ne peut pas déterminer « s'il y a une infirmière disponible ». Sur les 320 000 licences d'infirmières, seules 190 000 mains sont disponibles sur le terrain. Ce n'est ni la Loi sur l'assurance maladie ni la Loi sur les médecins, mais la loi fondamentale qui régit l'existence même de l'« hôpital » à Taïwan, et la tension non résolue depuis quarante ans entre la nature publique des soins de santé et les mécanismes de marché.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/medical-care-act",
-    "readingTime": 343,
-    "featured": false,
-    "date": "2026-05-10",
-    "path": "fr/Society/medical-care-act.md"
   },
   {
     "title": "La machine perpétuelle du don : FAB DAO et l'expérience sociale du projet des Cent Sommets",
@@ -77333,8 +77527,8 @@
     "path": "de/People/lai-ching-te.md"
   },
   {
-    "title": "Lai Ho : le « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais",
-    "description": "À la veille du Nouvel An de 1943, Lai Ho, médecin renommé de Changhua, brûla comme à son habitude les factures impayées de ses patients les plus démunis. Ce médecin, salué comme le « père de la littérature taïwanaise moderne », sauva des vies au scalpel sous l'oppression coloniale tout combattant l'injustice de sa plume. Son œuvre Une « balance » demeure aujourd'hui un symbole culturel de la résistance taïwanaise face à la violence du pouvoir.",
+    "title": "Lai He : la « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais",
+    "description": "Avant le réveillon de 1943, le célèbre médecin de Changhua, Lai He, brûlait les dettes de ses patients pauvres. Père de la nouvelle littérature taïwanaise, il soignait par le scalpel et critiquait l'injustice par la plume sous la pression coloniale.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/lai-ho-father-of-taiwanese-literature",
@@ -77344,15 +77538,37 @@
     "path": "fr/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
-    "title": "Lai Ho: 'Mamah Chonghua' yang Mengenakan Kain Tubuh Pulau, dan Tongkat yang Tak Pernah Menyerah",
-    "description": "Sebelum Tahun 1943, dokter terkenal Chonghua Lai Ho secara rutin membakar tagihan hutang pasien miskin. Dokter yang diakui sebagai 'Bapak Sastra Baru Taiwan' ini, di bawah tekanan kolonial, menggunakan pisau operasi untuk menyelamatkan nyawa dan pensil sebagai pedang untuk menentang ketidakadilan. Karyanya 'Tongkat 'Chieh'' masih menjadi simbol budaya melawan kekerasan otoritas hingga hari ini.",
+    "title": "Lai He: \"Mazu Changhua\" yang Mengenakan Pakaian Lokal, dan Timbangannya yang Tidak Pernah Kompromi",
+    "description": "Sebelum Malam Tahun Baru 1943, dokter terkenal Changhua, Lai He, seperti biasa membakar tagihan utang pasien miskin. Dokter yang dijuluki \"Bapak Sastra Baru Taiwan\" ini, di bawah tekanan kolonial, menyelamatkan nyawa dengan pisau bedah dan mengkritik ketidakadilan dengan pena; karyanya \"Seorang ''Timbangan''\" tetap menjadi simbol budaya Taiwan dalam melawan kekerasan kekuasaan hingga hari ini.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 41,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-04-28",
     "path": "id/People/lai-ho-father-of-taiwanese-literature.md"
+  },
+  {
+    "title": "Lai He: The \"Mazu of Changhua\" in Local Attire, and His Uncompromising Scales",
+    "description": "Before New Year''s Eve in 1943, the renowned Changhua physician Lai He habitually burned the debt records of his poor patients. Known as the \"Father of Taiwan New Literature,\" he used his scalpel to save lives and his pen as a sword against injustice under colonial rule; his work \"A Pair of Scales\" remains a cultural symbol of Taiwan''s resistance against systemic violence.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/lai-ho-father-of-taiwanese-literature",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "en/People/lai-ho-father-of-taiwanese-literature.md"
+  },
+  {
+    "title": "Lai Ho: A \"Mazu de Changhua\" que vestia trajes locais e sua balança que nunca se curvou",
+    "description": "Antes da véspera de Ano Novo de 1943, o renomado médico de Changhua, Lai Ho, queimava as dívidas de seus pacientes pobres. Conhecido como o \"Pai da Nova Literatura de Taiwan\", ele usou seu bisturi para salvar vidas e sua caneta para combater a injustiça sob a opressão colonial.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/lai-ho-father-of-taiwanese-literature",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "pt/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
     "title": "Lai Ho: Der „Mazu von Changhua“ im Inselkleid und sein unverbiegsamer Waagebalken",
@@ -77366,45 +77582,23 @@
     "path": "de/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
-    "title": "Lai Ho: el \"Mazu de Changhua\" vestido con la camisa de la isla, y su balanza que nunca transigió",
-    "description": "Antes de la Nochevieja de 1943, Lai Ho, célebre médico de Changhua, quemó como cada año las cuentas impacientes de sus pacientes más pobres. Este médico, considerado el \"padre de la nueva literatura taiwanesa\", salvó vidas con el bisturí y denunció la injusticia con la pluma bajo la opresión colonial. Su obra Una balanza (\"Chengzi\") sigue siendo hoy un símbolo cultural de la resistencia taiwanesa contra la violencia del poder.",
+    "title": "Lai Ho: la «Mazu de Changhua» que vestía ropas locales y su balanza inquebrantable",
+    "description": "Antes de la víspera de Año Nuevo de 1943, el célebre médico de Changhua, Lai Ho, quemó las facturas de sus pacientes más pobres. Este médico, apodado el «padre de la nueva literatura taiwanesa», salvó vidas con su bisturí y usó su pluma como espada contra la injusticia bajo la opresión colonial.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 44,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-04-28",
     "path": "es/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
-    "title": "Lai Ho: The 'Changhua Mazu' in a Native Shirt, and His Unyielding Steelyard",
-    "description": "On the eve of Lunar New Year's Day 1943, the Changhua physician Lai Ho burned his poor patients' unpaid bills, as was his annual custom. This doctor celebrated as the 'Father of Taiwanese New Literature' wielded a scalpel to heal the sick and a pen to expose injustice under colonial repression; his story 'A Steelyard' remains to this day a cultural symbol of resistance against the violence of power.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "en/People/lai-ho-father-of-taiwanese-literature.md"
-  },
-  {
-    "title": "Lai Ho: Vestindo a 'camisa de ilha' da 'Mazu de Changhua', e sua balança romana que nunca cedeu",
-    "description": "Na véspera do Ano Novo Lunar de 1943, o renomado médico de Changhua, Lai Ho, queimava rotineiramente as contas devedoras de pacientes pobres. Este médico, aclamado como 'Pai da Nova Literatura de Taiwan', sob intensa pressão colonial salvava vidas com o bisturi e combatia a injustiça com a pena; sua obra 'Uma Balança Romana' permanece até hoje como símbolo cultural da resistência de Taiwan à violência do poder.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-04-28",
-    "path": "pt/People/lai-ho-father-of-taiwanese-literature.md"
-  },
-  {
-    "title": "Lại Hòa: Người mặc áo bản đảo của \"Tràng Hoa Mẫu Tổ\", và cây cân nhỏ không bao giờ thỏa hiệp của ông",
-    "description": "Tối Giao thừa năm 1943, danh y Tràng Hoa Lại Hòa theo lệ thường thiêu hủy các khoản nợ của bệnh nhân nghèo. Vị y sư được mệnh danh là \"Cha đẻ của Văn học mới Đài Loan\", dưới áp lực thực dân vừa dùng dao mổ cứu người, vừa dùng bút như gươm chỉ trích bất công, tác phẩm 〈Một cây \"cân nhỏ\"〉 của ông cho đến nay vẫn là biểu tượng văn hóa của Đài Loan trong đối kháng với bạo lực quyền lực.",
+    "title": "Lại Hòa: \"Mẫu Thượng\" vùng Chương Hóa trong bộ y phục bản đảo, và chiếc cân không bao giờ thỏa hiệp",
+    "description": "Trước đêm giao thừa năm 1943, danh y Chương Hóa Lại Hòa (Lai He) đã đốt đi các hóa đơn nợ của bệnh nhân nghèo. Vị bác sĩ được mệnh danh là \"Cha đẻ của văn học mới Đài Loan\" này đã dùng dao mổ cứu người và dùng ngòi bút làm kiếm để phê phán bất công dưới ách thống trị thực dân.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 38,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-04-28",
     "path": "vi/People/lai-ho-father-of-taiwanese-literature.md"
@@ -77637,15 +77831,15 @@
     "path": "vi/People/jeremy-lin.md"
   },
   {
-    "title": "Lâm Úc Đình: Từ võ đài ngầm Tân Trang đến huy chương vàng Olympic Paris, cô gái quyền Anh đơn độc và cả Đài Loan đã gánh vác trên vai",
-    "description": "Ngày 11 tháng 8 năm 2024, tại sân Roland Garros ở Paris, Lâm Úc Đình đã giành huy chương vàng quyền Anh đầu tiên trong lịch sử Olympic của Đài Loan với phong độ áp đảo. Bắt đầu từ võ đài ngầm Trường Trung học Ngưng Ca, cô đã trải qua thất bại tại Olympic Tokyo, sự khiêu khích bằng cử chỉ \"X\" từ đối thủ tứ kết, các cuộc đấu trí chính trị quốc tế và nạn bắt nạt trên mạng xuyên quốc gia. Bài viết này phân tích sâu sắc triết lý \"Phù thủy\" của cô, đóng góp hậu trường của huấn luyện viên Lý Thừa Uy, sự tiến hóa kỹ thuật, khoa học giới tính, vị trí giảng dạy tại trường đại học, sức gắn kết xã hội và tình cảm cách mạng của các nữ quyền Anh, đồng thời ghi lại những tiến bộ sử thi mới nhất khi World Boxing chính thức công nhận tư cách tham dự của cô vào năm 2026.",
+    "title": "Lâm Tuấn Kiệt: Sinh năm 1981 tại Singapore, từ \"Giang Nam\" đến thiên vương sáng tác nhạc Hoa ngữ với JJ20",
+    "description": "Sinh năm 1981 tại Singapore, ra mắt từ lớp đào tạo của Hype Record vào năm 1999. Hai album \"Nhạc Hành Giả\" (2003) và \"Đệ Nhị Thiên Đường\" (2004) đạt doanh số lần lượt hơn 1,2 triệu và 1,8 triệu bản khắp châu Á; từng đoạt giải Tân binh xuất sắc nhất và hai lần Nam ca sĩ nhạc Quốc ngữ xuất sắc nhất tại Giải Kim Khúc. Chuyến lưu diễn thế giới JJ20 đã tổ chức 77 đêm diễn từ năm 2022 đến 2024.",
     "category": "vi",
     "tags": [],
-    "url": "https://taiwan.md/vi/people/lin-yu-ting-boxer",
-    "readingTime": 70,
+    "url": "https://taiwan.md/vi/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-08-12",
-    "path": "vi/People/lin-yu-ting-boxer.md"
+    "date": "2026-03-19",
+    "path": "vi/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "Lâm Ương Mẫn: tác giả của \"Vật Thông Hiềm Đài Loan\" và một bộ sử thi tiếng Đài 9.000 dòng",
@@ -80085,6 +80279,17 @@
     "path": "pt/Society/taiwan-regenerative-medicine-laws.md"
   },
   {
+    "title": "Lei Médica: Quarenta anos de regulamentação institucional e tensões de mercado",
+    "description": "A Lei Médica de Taiwan foi promulgada em 1986, teve a responsabilidade criminal dos médicos alterada em 2017 e prevê a inclusão da proporção enfermeiro-paciente por turno em 2026. A lei consegue estipular \"quantos pacientes um enfermeiro pode cuidar no máximo\", mas não consegue garantir \"se existem esses enfermeiros\" — de 320 mil licenças de enfermagem, restam apenas 190 mil mãos na prática clínica. Esta não é a Lei do Seguro de Saúde nem a Lei Médica; é a lei fundamental que define como as instituições hospitalares existem em Taiwan, representando também o impasse de quarenta anos entre o interesse público da saúde e os mecanismos de mercado.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/medical-care-act",
+    "readingTime": 331,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "pt/Society/medical-care-act.md"
+  },
+  {
     "title": "Leicha: How a Bowl of Sweet Tea Transformed Post-War Immigrant Cuisine into Beipu’s Signature",
     "description": "In March 1999, a specialty shop on Beipu Old Street brought leicha, once kept within the home, out to the streets. From the savory tea soup brought by Heipo immigrants to the sweet drink made with peanuts, sesame, and brown rice, and then to different versions in Taoyuan and overseas, leicha is not an unchanged ancient method, but the result of being rewritten by immigrants, policies, tastes, tourism, and countless pestles.",
     "category": "en",
@@ -80972,6 +81177,17 @@
     "featured": true,
     "date": "2026-04-05",
     "path": "fr/Food/zongzi-rice-dumpling.md"
+  },
+  {
+    "title": "Ley de Medicina: Cuarenta años de regulaciones institucionales y tensiones de mercado",
+    "description": "La Ley de Medicina de Taiwán fue promulgada en 1986, se reformó la responsabilidad penal médica en 2017 y la ratio enfermero-paciente por turnos entrará en vigor en 2026. La ley puede estipular \"cuántas camas puede atender como máximo un enfermero\", pero no puede garantizar \"si existen esos enfermeros\": de 320,000 licencias de enfermería, solo quedan 190,000 manos en la práctica clínica. Esto no es la Ley del Seguro Nacional de Salud ni la Ley de Médicos; es la ley fundamental que rige la existencia de las \"instituciones hospitalarias\" en Taiwán, y representa una tensión de cuarenta años entre el interés público médico y los mecanismos de mercado que aún no se ha resuelto.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/medical-care-act",
+    "readingTime": 348,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "es/Society/medical-care-act.md"
   },
   {
     "title": "Leyes gemelas de medicina regenerativa x 30 años de mRNA: cómo el Estado incorporó dos medicamentos salvavidas a su regulación",
@@ -82964,70 +83180,81 @@
     "path": "en/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md"
   },
   {
-    "title": "Lin Yu-ting : du ring de boxe souterrain à la médaille d'or des Jeux Olympiques de Paris, l'histoire de Taïwan portée par une championne solitaire",
-    "description": "Le 11 août 2024, sur le terrain de Roland Garros à Paris, Lin Yu-ting a remporté avec une domination écrasante la première médaille d'or en boxe dans l'histoire olympique de Taïwan. De ses débuts dans un club souterrain à Yingge, elle a traversé les déceptions des Jeux de Tokyo, les provocations de ses adversaires en quart de finale, les jeux politiques internationaux et le harcèlement transnational sur Internet. Cet article décortique sa philosophie de « magicienne », la contribution discrète de son entraîneur Li Cheng-wei, son évolution technique, la science du genre, son poste universitaire, la cohésion sociale et l'émotion révolutionnaire des quatre reines de la boxe, en incluant les développements épiques récents où World Boxing a officiellement reconnu sa qualification en 2026.",
+    "title": "Lin Yu-ting : de l'équipe de boxe du collège de Yingge à la médaille d'or olympique de Paris",
+    "description": "En août 2024, Lin Yu-ting a remporté la médaille d'or olympique dans la catégorie des 57 kg féminins à Paris en battant une athlète polonaise 5 à 0, offrant ainsi à Taïwan sa première médaille d'or olympique en boxe. Cet article retrace son parcours, depuis ses débuts dans l'équipe de boxe du collège de Yingge, sa défaite aux Jeux olympiques de Tokyo, l'annulation de sa médaille de bronze aux Championnats du monde 2023 et la controverse sur le genre lors des JO de Paris, ainsi que ses activités d'enseignement, ses récompenses après sa victoire et ses actualités sportives pour 2026. Chaque affirmation est accompagnée de sa source.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/lin-yu-ting-boxer",
-    "readingTime": 76,
+    "readingTime": 118,
     "featured": false,
     "date": "2026-08-12",
     "path": "fr/People/lin-yu-ting-boxer.md"
   },
   {
-    "title": "Lin Yu-ting: Dari Geng Tinju Bawah Tanah di Xinzhuang hingga Medali Emas Olimpiade Paris, Sang Juara Tunggal dan Seluruh Taiwan yang Ia Pikul",
-    "description": "Pada 11 Agustus 2024, di lapangan Roland Garros, Lin Yu-ting meraih medali emas tinju pertama dalam sejarah Taiwan dengan penampilan dominan. Dari geng tinju bawah tanah di Sekolah Menengah Kejuruan Yingge, ia melewati kegagalan Olimpiade Tokyo, provokasi \"X\" dari lawan perempat final, permainan politik internasional, dan perundungan siber lintas negara. Artikel ini mengurai filosofi \"Penyihir\"-nya, kontribusi mentor Li Cheng-wei di belakang layar, evolusi teknik, ilmu gender, posisi akademik universitas budaya, kohesi sosial, serta emosi revolusioner dari empat juara tinju wanita, sekaligus mencatat kemajuan epik terbaru ketika World Boxing secara resmi mengakui kelayakannya pada tahun 2026.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/lin-yu-ting-boxer",
-    "readingTime": 70,
-    "featured": false,
-    "date": "2026-08-12",
-    "path": "id/People/lin-yu-ting-boxer.md"
-  },
-  {
-    "title": "Lin Yu-ting: do ginásio subterrâneo de Xinzhuang ao ouro olímpico em Paris, a rainha solitária do boxe e o Taiwan inteiro que ela carregou nas costas",
-    "description": "Em 11 de agosto de 2024, no estádio Roland Garros em Paris, Lin Yu-ting conquistou com autoridade a primeira medalha de ouro olímpica do boxe na história de Taiwan. Partindo do ginásio subterrâneo da Escola Secundária Yingge, ela superou a derrota em Tóquio, o gesto de \"X\" provocador da adversária na semifinal, jogos políticos internacionais e linchamento virtual transfronteiriço. Este artigo desmonta em profundidade sua filosofia de \"mago\", a contribuição nos bastidores do sparring de longa data Li Cheng-wei, a evolução técnica, a ciência de gênero, o cargo docente na Universidade da Cultura, a coesão social e o sentimento revolucionário das \"quatro rainhas do boxe\", além de registrar o avanço histórico de 2026 com o reconhecimento formal de sua elegibilidade pela World Boxing.",
+    "title": "Lin Yu-ting: Da equipe de boxe da Escola Secundária de Yingge à medalha de ouro nas Olimpíadas de Paris",
+    "description": "Em agosto de 2024, Lin Yu-ting derrotou a atleta polonesa por 5 a 0 na final feminina dos 57 kg nas Olimpíadas de Paris, conquistando a primeira medalha de ouro olímpica do boxe para Taiwan. Este artigo detalha sua trajetória desde o início na equipe de boxe da Escola Secundária de Yingge, a derrota nas Olimpíadas de Tóquio, a anulação da medalha de bronze no Campeonato Mundial de 2023 e as controvérsias de gênero durante as Olimpíadas de Paris, além de informações sobre sua carreira docente, prêmios após a conquista do ouro e seu status competitivo para 2026, com fontes incluídas para cada afirmação.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/lin-yu-ting-boxer",
-    "readingTime": 67,
+    "readingTime": 108,
     "featured": false,
     "date": "2026-08-12",
     "path": "pt/People/lin-yu-ting-boxer.md"
   },
   {
-    "title": "Lin Yu-ting: From a New Taipei Underground Boxing Gym to Paris Olympic Gold, the Lonely Queen of Boxing Carrying the Weight of All of Taiwan",
-    "description": "On August 11, 2024, at the Roland Garros stadium in Paris, Lin Yu-ting claimed Taiwan''s first-ever Olympic boxing gold medal with a dominant performance. Starting from an underground gym in Yingge Junior High School, she overcame the defeat at the Tokyo Olympics, the \"X\" gesture provocation from her quarterfinal opponent, international political maneuvering, and global cyberbullying. This article deeply deconstructs her \"Magician\" philosophy, the behind-the-scenes contributions of long-time sparring partner Li Cheng-wei, her technical evolution, gender science, her teaching position at Chinese Culture University, social cohesion, and the revolutionary camaraderie of the \"Four Queens of Taiwanese Boxing,\" concluding with the latest epic development of World Boxing officially recognizing her eligibility in 2026.",
+    "title": "Lin Yu-ting: Dari Tim Tinju SMP Yingge ke Medali Emas Olimpiade Paris",
+    "description": "Agustus 2024, Lin Yu-ting di final medali emas putri 57 kg Olimpiade Paris mengalahkan atlet Polandia dengan skor 5-0, meraih medali emas tinju Olimpiade pertama bagi Taiwan. Artikel ini merangkum perjalanannya dari memulai di tim tinju SMP Yingge, kekalahan di Olimpiade Tokyo, pencabutan medali perunggu Kejuaraan Dunia 2023, dan kontroversi gender selama Olimpiade Paris, serta jabatan pengajar, penghargaan, dan perkembangan kejuaraan 2026 setelah meraih emas, setiap klaim disertai sumber.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/lin-yu-ting-boxer",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "id/People/lin-yu-ting-boxer.md"
+  },
+  {
+    "title": "Lin Yu-ting: del equipo de boxeo de la secundaria Yingge al oro olímpico de París",
+    "description": "En agosto de 2024, Lin Yu-ting derrotó a la boxeadora polaca 5-0 en la final de los 57 kg femeninos de los Juegos Olímpicos de París, consiguiendo la primera medalla de oro olímpica en boxeo para Taiwán. Este artículo recopila su trayectoria desde el equipo de boxeo de la secundaria Yingge, su derrota en los Juegos Olímpicos de Tokio, la revocación de su medalla de bronce en el Campeonato Mundial de 2023 y la controversia de género durante los Juegos Olímpicos de París, así como su puesto docente, premios y novedades competitivas de 2026 tras ganar el oro, cada afirmación con su fuente.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/lin-yu-ting-boxer",
+    "readingTime": 105,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "es/People/lin-yu-ting-boxer.md"
+  },
+  {
+    "title": "Lin Yu-ting: From Yingge Junior High School Boxing Team to Paris Olympic Gold Medalist",
+    "description": "In August 2024, Lin Yu-ting defeated a Polish athlete with a 5-0 score in the women's 57kg gold medal match at the Paris Olympics, winning Taiwan's first Olympic boxing gold. This article summarizes her journey starting from the Yingge Junior High School boxing team, her defeat at the Tokyo Olympics, the disqualification of her 2023 World Championships bronze medal, and the gender controversy during the Paris Olympics, as well as her teaching career, awards after winning gold, and recent competition status for 2026. Every claim includes a source.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/lin-yu-ting-boxer",
-    "readingTime": 71,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-08-12",
     "path": "en/People/lin-yu-ting-boxer.md"
   },
   {
-    "title": "Lin Yu-ting: Vom Kellerkampf in New Taipei bis zum Goldmedaillon in Paris – die alleingestellte Titanin und das, was sie für Taiwan trägt",
-    "description": "Am 11. August 2024, im Roland-Garros-Stadion in Paris, setzte sich Lin Yu-ting mit 5:0 gegen die polnische Boxerin Julia Szeremeta durch und sicherte Taiwan zum ersten Mal olympisches Boxengold. Vom Untergrundkämpfen in der Schule in Yingge über die Niederlage in Tokio, die X-Geste der Konkurrenzen bis hin zu internationalen politischen Machtspielen und globalen Cyber-Mobbing – diese Analyse beleuchtet ihre \"Magier\"-Philosophie, die Rolle ihres Trainerassistenz Li Cheng-wei, technische Entwicklungen, Geschlechterwissenschaft, akademische Karriere, soziale Kohäsion und emotionale Revolutionen im Frauenboxen. Enthält auch aktuelle Entwicklungen bezüglich der Anerkennung durch World Boxing im Jahr 2026.",
+    "title": "Lin Yu-ting: Từ đội quyền anh trường trung học Yingge đến huy chương vàng Olympic Paris",
+    "description": "Vào tháng 8 năm 2024, Lin Yu-ting đã đánh bại đối thủ người Ba Lan với tỷ số 5-0 trong trận tranh huy chương vàng hạng cân 57kg nữ tại Olympic Paris, mang về tấm huy chương vàng quyền anh đầu tiên cho Đài Loan tại Thế vận hội. Bài viết này tổng hợp hành trình của cô từ khi bắt đầu tại đội quyền anh trường trung học Yingge, thất bại tại Olympic Tokyo, việc bị tước huy chương đồng tại Giải vô địch thế giới 2023 và những tranh cãi về giới tính trong thời gian diễn ra Olympic Paris, cũng như các thông tin về công tác giảng dạy, giải thưởng sau khi giành vàng và tình hình thi đấu gần đây vào năm 2026; mọi thông tin đều có nguồn dẫn cụ thể.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/lin-yu-ting-boxer",
+    "readingTime": 110,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "vi/People/lin-yu-ting-boxer.md"
+  },
+  {
+    "title": "Lin Yu-ting: Vom Boxteam der Yingge Junior High School zur Goldmedaille bei den Olympischen Spielen in Paris",
+    "description": "Im August 2024 besiegte Lin Yu-ting im Goldmedaillenkampf der Frauen bis 57 kg bei den Olympischen Spielen in Paris ihre polnische Gegnerin mit 5:0 und sicherte Taiwan die erste olympische Goldmedaille im Boxen. Der Artikel fasst ihren Werdegang vom Boxteam der Yingge Junior High School, ihre Niederlage bei den Olympischen Spielen in Tokio, die Aberkennung ihrer Bronzemedaille bei den Weltmeisterschaften 2023, die Geschlechterkontroverse während der Olympischen Spiele in Paris sowie ihre Lehrtätigkeit, Auszeichnungen und Wettkampfupdates für 2026 nach dem Goldgewinn zusammen – jede Aussage ist mit Quellen belegt.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/lin-yu-ting-boxer",
-    "readingTime": 69,
+    "readingTime": 107,
     "featured": false,
     "date": "2026-08-12",
     "path": "de/People/lin-yu-ting-boxer.md"
-  },
-  {
-    "title": "Lín Yùtíng: Del gimnasio subterráneo de Xīnzhuāng a la medalla de oro olímpica en París, la solitaria reina del boxeo y todo Taiwán a sus espaldas",
-    "description": "El 11 de agosto de 2024, en el estadio Roland Garros de París, Lín Yùtíng se coronó con una actitud aplastante como la primera medallista de oro olímpica en boxeo de la historia de Taiwán. Desde el gimnasio subterráneo de la Escuela Secundaria Yingge, atravesó la derrota en los Juegos de Tokio, el gesto provocador de «X» de su rival en las semifinales, la geopolítica internacional y el ciberacoso transnacional. Este artículo desmonta en profundidad su filosofía de «mago», el contribución póstuma de su compañero de entrenamiento Lǐ Chéngwēi, la evolución técnica, la ciencia de género, su cargo docente en la Universidad de Cultura, la cohesión social y la emoción revolucionaria de las «cuatro reinas del boxeo femenino», y recoge el último avance épico del reconocimiento oficial de su elegibilidad para competir por World Boxing en 2026.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/lin-yu-ting-boxer",
-    "readingTime": 78,
-    "featured": false,
-    "date": "2026-08-12",
-    "path": "es/People/lin-yu-ting-boxer.md"
   },
   {
     "title": "Lin-Shuangwen-Vorfall: Wie das Qing-Reich Taiwan neu zu regieren lernte",
@@ -83964,6 +84191,17 @@
     "path": "fr/Society/delivery-platform-law.md"
   },
   {
+    "title": "Loi sur les soins médicaux : quarante ans de normes institutionnelles et de tensions du marché",
+    "description": "La loi taïwanaise sur les soins médicaux a été promulguée en 1986, la responsabilité pénale des médecins a été modifiée en 2017, et le ratio infirmier-patient pour trois équipes a été inscrit dans la loi en 2026. La loi peut prescrire « le nombre maximal de lits qu'un infirmier peut prendre en charge », mais elle ne peut pas garantir « la présence effective de cet infirmier » — 320 000 licences d'infirmiers, mais il ne reste que 190 000 paires de mains en clinique. Ce n'est pas la loi sur l'assurance maladie, ni la loi sur les médecins, c'est la loi fondamentale qui régit l'existence de l'institution « hôpital » à Taïwan, et c'est aussi le tiraillement non résolu depuis quarante ans entre la vocation publique des soins de santé et les mécanismes du marché.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/medical-care-act",
+    "readingTime": 334,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "fr/Society/medical-care-act.md"
+  },
+  {
     "title": "Lon can dứa: Món ngọt nào đã giúp Đài Loan kiếm ngoại tệ sau chiến tranh?",
     "description": "Nhà máy đầu tiên ở Phượng Sơn, Cao Hùng năm 1902 đã biến dứa từ giống địa phương chua nhỏ thành sản phẩm đóng hộp xuất khẩu. Nhà máy đường Thái Đông mở rộng thị trường Âu Mỹ vào năm 1957 với viện trợ Mỹ, lao động nữ và dây chuyền năm tuyến. Đến năm 1969, lượng xuất khẩu đạt 4,43 triệu thùng, sau đó chuyển hướng sang dứa tươi trong những năm 1980. Dứa không biến mất, nó chỉ thay đổi vị trí từ công nghiệp ngoại thương sang thị trường nội địa.",
     "category": "vi",
@@ -84675,12 +84913,12 @@
     "path": "vi/Society/remote-area-schools-education-act.md"
   },
   {
-    "title": "Luật Y tế: Bốn mươi năm giãn co giữa quy chuẩn định chế và áp lực thị trường",
-    "description": "Luật Y tế Đài Loan công bố năm 1986, sửa trách nhiệm hình sự bác sĩ năm 2017, tỷ lệ điều dưỡng ba ca vào pháp luật năm 2026. Luật viết được \"một điều dưỡng tối đa chăm sóc bao nhiêu giường bệnh\", nhưng viết không nổi \"có hay không có cái giường bệnh đó\" — 32 vạn chứng chỉ điều dưỡng, lâm sàng chỉ còn 19 vạn cặp tay. Đây không phải luật bảo hiểm y tế, không phải luật bác sĩ, mà là luật cơ bản về cách tồn tại của \"bệnh viện\" tại Đài Loan, cũng là mâu thuẫn bốn mươi năm chưa giải quyết được giữa tính công ích y tế và cơ chế thị trường.",
+    "title": "Luật Y tế: Bốn thập kỷ giữa quy định tổ chức và sự giằng co thị trường",
+    "description": "Luật Y tế Đài Loan được công bố vào năm 1986, sửa đổi trách nhiệm hình sự của bác sĩ vào năm 2017 và đưa tỷ lệ điều dưỡng-bệnh nhân theo ba ca trực vào luật vào năm 2026. Luật có thể quy định rõ \"một điều dưỡng tối đa chăm sóc bao nhiêu giường\", nhưng lại không thể viết ra được liệu \"có đủ số lượng điều dưỡng đó hay không\" — trong số 320.000 chứng chỉ hành nghề điều dưỡng, thực tế lâm sàng chỉ còn lại 190.000 bàn tay. Đây không phải là Luật Bảo hiểm Y tế, cũng không phải Luật Bác sĩ, mà là luật nền tảng cho sự tồn tại của các tổ chức \"bệnh viện\" tại Đài Loan, đồng thời là sự giằng co suốt bốn thập kỷ chưa có lời giải giữa tính công ích y tế và cơ chế thị trường.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/medical-care-act",
-    "readingTime": 266,
+    "readingTime": 317,
     "featured": false,
     "date": "2026-07-15",
     "path": "vi/Society/medical-care-act.md"
@@ -86245,9 +86483,9 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/medical-care-act",
-    "readingTime": 282,
+    "readingTime": 283,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "en/Society/medical-care-act.md"
   },
   {
@@ -88647,6 +88885,17 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "vi/Technology/taiwan-vr-metaverse-rise-and-fall.md"
+  },
+  {
+    "title": "Mười sáu năm Tây Ban Nha tại Bắc Đài Loan: Từ Đảo Hòa Bình đến Đàn Thủy - Nỗ lực thực dân",
+    "description": "Tháng 5 năm 1626, hạm đội Tây Ban Nha từ Ma Ni La đi về phía bắc, đổ bộ tại cảng Cát Lồng, xây dựng thành San Salvador trên Đảo Hòa Bình. Trong mười sáu năm, họ xây thành Santo Domingo tại Đàn Thủy, phái người vào bồn địa Đài Bắc thám dò, xung đột với người Kavalan, nhưng luôn phải nhờ viện trợ từ Ma Ni La để duy trì lực lượng đồn trú. Tháng 8 năm 1642, người Hà Lan chiếm được Cát Lồng, Tây Ban Nha rút khỏi Đài Loan, chỉ để lại tên địa danh và vài đoạn tường thành.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "Musée d'art de New Taipei : les roseaux au bord de la rivière Dahan et une esthétique urbaine « inachevée »",
@@ -91130,6 +91379,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "en/People/nick-star-streamer.md"
+  },
+  {
+    "title": "Nick Star: تحويل غرفة البث المباشر إلى حلبة ملاكمة، وإيصال الموقف أمام الكاميرا",
+    "description": "منذ عام 2024، مزج صانع المحتوى التايواني Nick Star الملاكمة والألعاب ومكالمات الفيديو والتفاعل المباشر في نوع من العروض الشبكية عالية الكثافة. وفي عام 2025، دفع بالهوية الخاصة والموقف التايواني إلى نفس الكاميرا عبر أغنية \"أنا مزدوج الميول الجنسية\" والبث المباشر عبر الحدود. لا تبسّط هذه المقالة شخصه إلى \"مؤثر يسعى للمشاهدات\"، بل تتعقب كيف يضع صانع محتوى الحلبة وغرفة الدردشة والموسيقى والجدل في نفس اللحظة الآنية، وتوضح ما يمكن للمواد العامة إثباته وما لا تستطيع إثباته.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/nick-star-streamer",
+    "readingTime": 97,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ar/People/nick-star-streamer.md"
   },
   {
     "title": "NickStar: Biến phòng livestream thành sàn đấu, và đưa lập trường ra trước ống kính",
@@ -99383,6 +99643,28 @@
     "path": "pt/Food/taiwan-fruit-kingdom.md"
   },
   {
+    "title": "Reino de Dongning: veintiún años de una dinastía que incluyó a Taiwán en su nombre oficial",
+    "description": "En febrero de 1662, el gobernador holandés Maetsuycker entregó las llaves de Fort Zeelandia, y Zheng Chenggong convirtió la isla en «Dongning». Durante los siguientes veintiún años, el clan Zheng estableció una administración de un prefectura, dos prefecturas y tres departamentos, dispersó al ejército para cultivar tierras, nombró a Chen Yonghua para dirigir el Estado y comerció con Japón y la Compañía Británica de las Indias Orientales. Tras la batalla naval de Penghu en julio de 1683, Shi Lang derrotó a la flota de Liu Guoxuan; en octubre, Zheng Kechang se rindió a la dinastía Qing, poniendo fin al periodo de Dongning.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/tungning-kingdom",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "es/History/tungning-kingdom.md"
+  },
+  {
+    "title": "Reino de Dongning: Vinte e um anos de uma dinastia que incluiu Taiwan em seu nome oficial",
+    "description": "Em fevereiro de 1662, o governador holandês Maetsuycker entregou as chaves de Zeelandia, e Zheng Chenggong transformou a ilha em \"Dongning\". Nos 21 anos seguintes, o clã Zheng estabeleceu uma estrutura administrativa, colonizou terras com militares, nomeou Chen Yonghua para governar e comercializou com o Japão e a Companhia Britânica das Índias Orientais. Em julho de 1683, na Batalha de Penghu, Shi Lang derrotou a marinha de Liu Guo-xuan; em outubro, Zheng Ke-chang rendeu-se à dinastia Qing, pondo fim a Dongning.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/tungning-kingdom",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "pt/History/tungning-kingdom.md"
+  },
+  {
     "title": "Reino de las frutas de Taiwán: esta isla cultiva cada fruta como vida y memoria",
     "description": "Desde la mañana en las colinas de Yujing, los viejos manzanos de Mandau, la subasta de Binhang al amanecer, hasta las abuelas pelando cáscaras, pasando por los escarabajos de lichi y las granjas con trabajadores extranjeros: esta isla subtropical convierte la fruta en una forma de diálogo con la tierra, con generaciones y con el mundo.",
     "category": "es",
@@ -100081,6 +100363,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "id/Food/taiwan-bread-and-baking.md"
+  },
+  {
+    "title": "Royaume de Dongning : vingt et un ans d'une dynastie ayant inscrit Taïwan dans son nom officiel",
+    "description": "En février 1662, le gouverneur néerlandais Coen signa l'acte de reddition à Fort Zeelandia, et Koxinga transforma l'île en « Dongning ». Durant vingt et un ans, le clan Zheng administra l'île avec une structure complexe, développa l'agriculture militaire, instaura les examens impériaux et commerça avec le Japon et la Compagnie britannique des Indes orientales. En 1683, après la bataille navale de Penghu où Shi Lang écrasa la flotte de Liu Guo-xuan, Zheng Ke-chang se rendit à la dynastie Qing, marquant la fin de Dongning.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/tungning-kingdom",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/History/tungning-kingdom.md"
   },
   {
     "title": "Royaume de la banane : comment un fruit a propulsé Qishan vers Tokyo et ramené la mondialisation dans les champs",
@@ -101015,6 +101308,28 @@
     "featured": false,
     "date": "2026-04-17",
     "path": "fr/Society/earthquakes-in-taiwan.md"
+  },
+  {
+    "title": "Seize ans de l'Espagne dans le nord de Taïwan : des tentatives coloniales de l'île Heping à Tamsui",
+    "description": "En mai 1626, une flotte espagnole remonte de Manille pour débarquer à Keelung et fonder San Salvador sur l'île Heping. Durant seize ans, ils bâtissent San Domingo à Tamsui et entrent en conflit avec les Kavalan, tout en dépendant des subsides de Manille. En août 1642, les Hollandais s'emparent de Keelung, marquant le retrait espagnol de Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "fr/History/spanish-northern-taiwan-1626-1642.md"
+  },
+  {
+    "title": "Seizeize Jahre spanisches Nordtaiwan: Koloniale Versuche von Hepingdao bis Tamsui",
+    "description": "Im Mai 1626 segelte eine spanische Flotte von Manila nach Norden, landete im Hafen von Keelung und errichtete auf Hepingdao die Stadt San Salvador. In den folgenden sechzehn Jahren bauten sie in Tamsui die Stadt Santo Domingo, erkundeten das Becken von Taipeh und gerieten in Konflikte mit den Kavalan, blieben jedoch stets von Hilfslieferungen aus Manila abhängig. Im August 1642 eroberten die Niederländer Keelung, woraufhin sich die Spanier aus Taiwan zurückzogen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "Sejarah Ambang Hak Pilih: Dari 20 Tahun ke 18 Tahun, Perjalanan Dua Dekade Amandemen Konstitusi yang Belum Tuntas",
@@ -102319,12 +102634,12 @@
     "path": "en/Culture/shopping-design.md"
   },
   {
-    "title": "Shopping Design: a revista que te ensina a comprar design, no fim quem você deve discernir é ela mesma",
-    "description": "Lançada em 2006, com a primeira edição dedicada ao branco, a Shopping Design transformou, ao longo de vinte anos, o design de termo de showroom em verbo do dia a dia de visitar lojas e escolher produtos. O que ela realmente ensinou a Taiwan foi que o \"discernimento\" pode ser treinado como uma habilidade — e ela expandiu essa habilidade para listas anuais dos 100 melhores, publicações trimestrais, carnavais, e também para a mesma licença de \"publicação de revistas + serviços de publicidade\" da empresa-mãe. No fim, esta revista que te ensina a discernir pede que você discerna justamente a ela mesma.",
+    "title": "Shopping Design: a revista que ensina a comprar design e que, no fim, pede que você distinga a ela mesma",
+    "description": "Fundada em 2006, com uma primeira edição dedicada ao branco, a Shopping Design transformou em vinte anos o design de termo de feira em verbo cotidiano de quem passeia por lojas e escolhe objetos. O que ela realmente ensinou a Taiwan é que o discernimento pode ser treinado como habilidade, e ela o ampliou em lista anual dos cem melhores, revista trimestral e festival, e também até a licença da empresa-mãe, que registra ao mesmo tempo edição de revistas e serviços de publicidade. Assim, a revista que ensina você a distinguir acaba pedindo que você distinga a ela mesma.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/culture/shopping-design",
-    "readingTime": 124,
+    "readingTime": 128,
     "featured": false,
     "date": "2026-07-13",
     "path": "pt/Culture/shopping-design.md"
@@ -103005,6 +103320,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "es/Lifestyle/leofoo-village-theme-park.md"
+  },
+  {
+    "title": "Sixteen Years of Spanish Rule in Northern Taiwan: Colonial Attempts from Heping Island to Tamsui",
+    "description": "In May 1626, a Spanish fleet sailed north from Manila, landing at Keelung Harbor and establishing Fort San Salvador on Heping Island. Over sixteen years, they built Fort Santo Domingo in Tamsui, explored the Taipei Basin, and clashed with the Kavalan people, all while relying on Manila for supplies to maintain a garrison of 200–300 men. In August 1642, the Dutch captured Keelung, leading to the Spanish withdrawal from Taiwan, leaving behind only place names and fragments of castle walls.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "Skadron Kelelawar Hitam: Pahlawan Tanpa Nama di Malam Gelap dan Perjalanan Sendirian Menyeberangi Selat",
@@ -110793,6 +111119,17 @@
     "path": "en/Society/taiwan-teacher-discipline-dilemma.md"
   },
   {
+    "title": "Taiwan's Tech Conference Culture: The Annual Migration from COSCUP to HITCON",
+    "description": "Taiwan hosts a fixed cycle of annual tech conferences: COSCUP, co-organized by the open-source community since 2006; SITCON, student-run for thirteen years with 14,000 participants; and HITCON, which has maintained an annual schedule since 2005. Driven by volunteers and sponsorships, these events create a unique seasonal rhythm within Taiwan's tech ecosystem.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/technology/taiwan-tech-conference-culture",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "Taiwan's Tech Storytelling: 100-Point Chips, 60-Point Microphones",
     "description": "Taiwan makes 100-point chips but tends to describe them in the voice of a supplier briefing. For the same chip, Qualcomm tells a myth and MediaTek reads out a spec sheet; NVIDIA makes none of its chips with its own hands, yet its net profit is double that of its foundry. The market worked out this 40-point gap long ago, and the bill is printed right in the net margin.",
     "category": "en",
@@ -112089,6 +112426,24 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "de/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
+    "title": "Taiwanische Technologie-Konferenzkultur: Die jährliche Migration von COSCUP bis HITCON",
+    "description": "Jährlich finden in Taiwan eine Reihe von Technologie-Konferenzen statt: COSCUP wird seit 2006 von Open-Source-Communities gemeinsam veranstaltet, mit einem Programm aus über vierzig Community-Tracks; SITCON wird seit dreizehn Jahren von Studierenden selbst organisiert, mit 14.000 Teilnehmenden und 1.400 Freiwilligen; HITCONs jährliches Programm läuft seit 2005 ununterbrochen und hat sich in Community-, Unternehmens- und Security-Wettbewerbs-Formate aufgespalten. Die Organisatoren dieser Konferenzen sind fast ausschließlich unbezahlt tätige Freiwillige, die Finanzierung stammt aus Sponsoring, und Referent:innen, Freiwillige und Studierende zirkulieren zwischen denselben Veranstaltungsorten – eine für Taiwan typische Tech-Saison.",
+    "category": "de",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "Open Source",
+      "Konferenz",
+      "Freiwillige"
+    ],
+    "url": "https://taiwan.md/de/technology/taiwan-tech-conference-culture",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "de/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "Taiwanische Teekultur",
@@ -115672,6 +116027,17 @@
     "path": "en/Culture/kavalan-people.md"
   },
   {
+    "title": "The Kingdom of Tungning: Twenty-One Years of a Dynasty That Wrote Taiwan into Its Name",
+    "description": "In February 1662, Dutch Governor VOC official Pieter de Carpentier handed over the keys to Fort Zeelandia, and Koxinga transformed the island into \"Tungning.\" For the next twenty-one years, the Zheng clan established a complex administration, settled troops as farmers, appointed Chen Yonghua to manage state affairs, and traded with Japan and the British East India Company. Following the Battle of Penghu in July 1683, Shi Lang crushed Liu Guoxuan''s navy; by October, Zheng Keqiang surrendered to the Qing, bringing Tungning to an end.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/tungning-kingdom",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "en/History/tungning-kingdom.md"
+  },
+  {
     "title": "The KMT Government's Relocation to Taiwan and Postwar Reconstruction",
     "description": "Yen Chia-kan came from Fujian and witnessed the history of the KMT government's 1949 relocation to Taiwan. 1.2 million soldiers and civilians, 38 years of martial law, land reform: how did this history reshape Taiwan?",
     "category": "en",
@@ -117890,12 +118256,12 @@
     "path": "vi/Lifestyle/toll-station.md"
   },
   {
-    "title": "Trần Ánh Chân: Từ Chúc Nam đến Bắc Kinh của những nhà văn độc lập thống nhất",
-    "description": "Trần Ánh Chân (1937–2016), tên khai sinh Trần Vĩnh Thiện, sinh tại Chúc Nam, Miêu Lật, lớn lên ở Anh Ca. Năm 1964, tác phẩm \"Tộc Lính Tướng\" nổi tiếng qua tragedia giữa một cựu binh lão Đại lục bị mưu sinh bằng nhạc và một cô gái trẻ bị bán thành mại dâm của Đài Loan. Năm 1968 vì \"Vụ Liên Minh Dân chủ Đài Loan\" bị kết án 10 năm (1975 được ân xá khi Tưởng Giới Thạch qua đời). Năm 1985 sáng lập Tạp chí Nhân Gian khai phá tiên phong báo cáo văn học Đài Loan. Năm 1988 thành lập Liên Minh Thống nhất Trung Quốc và làm chủ tịch đầu tiên, năm 2006 bị tai biến giữa đường và chuyển cư Bắc Kinh, năm 2016 qua đời tại Bắc Kinh. Ông là một trong những nhà văn tranh cãi nhất và có ảnh hưởng sâu sắc thế kỳ sau chiến tranh Đài Loan, đồng thời là một nhà lý thuyết chủ chốt trong cuộc tranh luận văn học địa phương với bút danh \"Hứa Nam Thôn\".",
+    "title": "Trần Ánh Chân: Lương tâm văn học phái Thống nhất từ Trúc Nam đến Bắc Kinh",
+    "description": "Trần Ánh Chân (1937–2016), tên thật là Trần Vĩnh Thiện, sinh tại Trúc Nam, Miêu Lật và lớn lên tại Ưng Ca. Ông nổi tiếng với tác phẩm \"Tướng quân tộc\" (1964) viết về bi kịch giữa cựu binh ngoại tỉnh và gái mại dâm Đài Loan; từng bị kết án 10 năm tù vì \"Vụ án Liên minh Dân chủ Đài Loan\" (ra tù sớm năm 1975 nhờ đặc xá sau khi Tưởng Giới Thạch qua đời). Năm 1985, ông sáng lập tạp chí \"Nhân gian\", mở đường cho dòng văn học phóng sự tại Đài Loan. Năm 1988, ông cùng Hồ Thu Nguyên thành lập Liên minh Thống nhất Trung Quốc và giữ chức Chủ tịch đầu tiên. Ông định cư tại Bắc Kinh từ năm 2006, qua đời tại đây vào năm 2016. Ông là nhà văn phái Thống nhất gây tranh cãi nhất hậu chiến tại Đài Loan, đồng thời là đại diện tiêu biểu phản bác các quan điểm của Dư Quang Trung trong cuộc luận chiến về văn học hương thổ.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/chen-yingzhen",
-    "readingTime": 78,
+    "readingTime": 69,
     "featured": false,
     "date": "2026-03-19",
     "path": "vi/People/chen-yingzhen.md"
@@ -120176,6 +120542,17 @@
     "path": "id/Society/delivery-platform-law.md"
   },
   {
+    "title": "Undang-Undang Medis: Empat Dekade Regulasi Institusi dan Tarik-Ulur Pasar",
+    "description": "Undang-Undang Medis Taiwan diumumkan pada tahun 1986, direvisi mengenai tanggung jawab pidana dokter pada tahun 2017, dan rasio perawat-pasien tiga shift akan dimasukkan ke dalam undang-undang pada tahun 2026. Hukum dapat menuliskan \"berapa jumlah maksimal pasien yang ditangani satu perawat\", tetapi tidak dapat menuliskan \"apakah ada perawat tersebut\" — dari 320.000 lisensi perawat, hanya tersisa 190.000 tangan di klinik. Ini bukan Undang-Undang Jaminan Kesehatan, bukan pula Undang-Undang Dokter, melainkan dasar hukum tentang bagaimana institusi \"rumah sakit\" di Taiwan eksis, sekaligus tarik-ulur selama empat puluh tahun antara kepentingan publik medis dan mekanisme pasar yang belum terpecahkan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/medical-care-act",
+    "readingTime": 338,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "id/Society/medical-care-act.md"
+  },
+  {
     "title": "United Front Tour Groups: Cognitive Contest in Soft Rain — From Discount Tours to Influencer Traffic",
     "description": "In June 2024, Potter King exposed the CCP's plan to invite 10 Taiwanese influencer groups to China, triggering Taiwanese society's deeper anxiety about new-generation 'united front' operations. From cheap turnkey-hospitality trips to influencer trips paid for by the millions, the core of this cross-strait cognitive contest was never to make Taiwanese believe China is good — it was to make Taiwan break its own ranks.",
     "category": "en",
@@ -120751,6 +121128,17 @@
     "path": "vi/Culture/taiwan-independent-bookstores.md"
   },
   {
+    "title": "Văn hóa hội nghị công nghệ tại Đài Loan: Từ COSCUP đến HITCON và những cuộc dịch chuyển thường niên",
+    "description": "Tại Đài Loan, các hội nghị công nghệ như COSCUP, SITCON và HITCON được vận hành chủ yếu bởi tình nguyện viên, tạo nên một hệ sinh thái kỹ thuật đặc thù với sự luân chuyển liên tục giữa diễn giả, tình nguyện viên và sinh viên.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/technology/taiwan-tech-conference-culture",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "Văn hóa in chữ rời Đài Loan: Chữ chì đã ép ngôn ngữ công cộng lên giấy như thế nào",
     "description": "Theo dõi quá trình in chữ rời của Đài Loan, từ các bản tin nhà thờ, báo chí thời Nhật chiếm đóng, cụm in Văn Hoa, đến các xưởng in tại Thượng Hải sau chiến tranh và Xưởng đúc chữ Nhật Tinh (Ri Xing), để hiểu cách thức các ký tự tiếng Đài ngữ thông tục, tin tức báo chí, sách giáo khoa, tài liệu chính phủ và thông tin thương mại được sao chép ổn định. Đồng thời, xem xét việc bộ chữ chì, phông chữ, lao động thợ thủ công và lưu trữ kỹ thuật số đã cùng nhau cấu thành một hệ thống sản xuất ngôn ngữ công cộng như thế nào, và suy ngẫm về cách bảo tồn máy móc cũ cũng là bảo tồn quy trình và tri thức cơ thể con người.",
     "category": "vi",
@@ -121091,17 +121479,6 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "pt/About/seeing-taiwan-quotes.md"
-  },
-  {
-    "title": "Ver Taiwán en datos: los 22 condados y ciudades — la brecha entre el más denso y el más vacío es de 151 veces, la proporción de ancianos y niños pasa de 1:1 a casi 3:1",
-    "description": "En la misma isla, Taipéi tiene 8.975 habitantes por km² y Taitung solo 59, una diferencia de 151 veces. Con datos del Departamento de Registro Civil del Ministerio del Interior a finales de 2025, se dibuja un retrato verificable de los 22 condados y ciudades: el 70 % de la población se concentra en el 30 % del territorio, la mayor proporción de ancianos está precisamente en la más densa Taipéi, y la mayor proporción ancianos-niños en el condado de Chiayi roza los 3:1. Sin excepción, en los 22 condados y ciudades las defunciones ya superan a los nacimientos.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/geography/data-taiwan-22-cities",
-    "readingTime": 79,
-    "featured": false,
-    "date": "2026-06-06",
-    "path": "es/Geography/data-taiwan-22-cities.md"
   },
   {
     "title": "Ver Taiwán: Impresiones históricas de la isla",
@@ -121887,6 +122264,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "vi/Food/taiwan-banana-kingdom.md"
+  },
+  {
+    "title": "Vương quốc Đông Ninh: 21 năm của một triều đại đưa tên Đài Loan vào quốc hiệu",
+    "description": "Tháng 2 năm 1662, Thống đốc Hà Lan Coen trao chìa khóa thành Zeelandia, Trịnh Thành Công đã biến hòn đảo này thành \"Đông Ninh\". Trong 21 năm sau đó, họ Trịnh thiết lập hệ thống hành chính một phủ hai châu ba ty, đưa quân đội đi khẩn hoang khắp nơi, cử Trần Vĩnh Hoa quản lý quốc chính, đồng thời giao thương với Nhật Bản và Công ty Đông Ấn Anh. Sau trận hải chiến Bành Hồ tháng 7 năm 1683, Thi Lang đánh bại thủy quân của Lưu Quốc Hiên, đến tháng 10 Trịnh Khắc Sảng hàng Thanh, vương quốc Đông Ninh chính thức khép lại trang sử.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/tungning-kingdom",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "vi/History/tungning-kingdom.md"
   },
   {
     "title": "Vương quốc Hải tặc: Kỹ thuật đảo ngược mô phỏng thời gian, được viết vào gen niềm tin của TSMC",
@@ -129507,25 +129895,25 @@
     "path": "ru/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
-    "title": "Закон о доставке: законодательно выровненный пол, а выше — уже алгоритмы",
-    "description": "В полночь 21 июля 2026 года в Тайване вступил первый в стране закон, посвящённый доставке: минимальная оплата за заказ — 45 иен. В тот же день один курьер получил два заказа — на 4,4 км и 8,6 км — и заработал по 90 иен за каждый. С 2019 года, когда во время национального праздника двое курьеров погибли на дороге, до этих 28 статей понадобилось шесть лет. Однако этот закон намеренно не отвечает на вопрос, являются ли они сотрудниками, и не касается собой настоящей причины, влияющей на доход — алгоритма распределения заказов. На первой же неделе после вступления в силу закона даже местные инспекторы не смогли дать ответов по поводу проверок.",
+    "title": "Закон о доставке: пол построен, но всё, что выше пола, по-прежнему решает алгоритм",
+    "description": "В 00:00 21 июля 2026 года на Тайване вступил в силу первый специальный закон о службах доставки: минимум NT$45 за каждый заказ. В тот же день один курьер получил два заказа — на 4,4 и на 8,6 километра, — и за оба ему предложили по NT$90. От гибели двух курьеров на дороге в дни национального праздника 2019 года до этих 28 статей прошло шесть лет. А сам закон намеренно не отвечает, считаются ли курьеры работниками, и не трогает алгоритм распределения заказов, который на деле определяет заработок. К концу первой недели не было ясно даже, сколько человек на местах будут проверять соблюдение закона.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/delivery-platform-law",
-    "readingTime": 222,
+    "readingTime": 323,
     "featured": false,
     "date": "2026-07-25",
     "path": "ru/Society/delivery-platform-law.md"
   },
   {
-    "title": "Закон о здравоохранении: сорок лет между нормами учреждений и рыночным давлением",
-    "description": "Закон о здравоохранении Тайваня, принятый в 1986 году, с поправками к уголовной ответственности врачей в 2017 году и законодательным закреплением соотношения медсестра/пациент для трехсменного дежурства в 2026 году. Закон может прописать «сколько коек может обслуживать одна медсестра», но не может ответить на вопрос «есть ли такая медсестра» — 320 тысяч лицензий медсестер, а в клиниках осталось всего 190 тысяч рук. Это не закон о медицинском страховании и не закон о врачах; это фундаментальный закон существования института «больницы» в Тайване, и он отражает сорокалетний конфликт между общественной пользой и рыночным механизмом.",
+    "title": "Закон о медицине: сорок лет регулирования учреждений и рыночного противостояния",
+    "description": "Закон о медицине на Тайване был обнародован в 1986 году, в 2017 году были внесены поправки об уголовной ответственности врачей, а в 2026 году в закон должны быть включены нормы о соотношении численности медсестер и пациентов в три смены. Закон может прописать, «за каким максимальным количеством коек закреплена одна медсестра», но не может решить проблему «наличия самих медсестер» — из 320 тысяч лицензий на сестринское дело в клиниках осталось лишь 190 тысяч рук. Это не закон о медицинском страховании и не закон о врачах, это основополагающий закон, определяющий существование таких учреждений, как «больницы» на Тайване, а также сорок лет неразрешенного конфликта между общественной значимостью медицины и рыночными механизмами.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/medical-care-act",
-    "readingTime": 297,
+    "readingTime": 333,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ru/Society/medical-care-act.md"
   },
   {
@@ -130458,6 +130846,17 @@
     "path": "ru/Society/koreans-in-taiwan.md"
   },
   {
+    "title": "Королевство Дуннин: двадцать один год династии, включившей название Тайваня в имя государства",
+    "description": "В феврале 1662 года голландский губернатор Кой в Зейлан (Формозе) передал ключи от крепости, и Чжэн Сэнгун превратил остров в «Дуннин». В течение последующих двадцати одного года клан Чжэн создал административную систему из одной префектуры, двух округов и трех управлений, расселил войска для ведения сельского хозяйства, назначил Чэнь Юнхуа управлять государством и вел торговлю с Японией и Британской Ост-Индской компанией. После битвы при Пэнху в июле 1683 года флот Ши Лана разгромил силы Лю Госюаня, а в октябре Чжэн Кэцзюна сдался империи Цин, положив конец эпохе Дуннин.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/tungning-kingdom",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/History/tungning-kingdom.md"
+  },
+  {
     "title": "Королевство фруктов Таиланда: этот остров относится к каждому фрукту, как к жизни и памяти, которые он сажает",
     "description": "От раннего утра на склонах горы Юйцинь, старого дерева мандариновой цитрусовой в Мату, ночных аукционов на берегу реки Мянцзянь, бабушки, очищающей фрукты, до улитой фиговой муки и иностранных мигрантов-работников в фермерских хозяйствах: этот субтропический остров превращает фрукты в способ общения с землёй, поколениями и миром.",
     "category": "ru",
@@ -130860,6 +131259,17 @@
     "path": "ru/Food/taiwan-lu-wei-braised-snacks.md"
   },
   {
+    "title": "Культура технических конференций на Тайване: ежегодная миграция от COSCUP до HITCON",
+    "description": "Ежегодно на Тайване проходят ключевые технологические конференции: COSCUP, организованная сообществом открытого ПО, SITCON, созданная студентами, и HITCON, специализирующаяся на кибербезопасности.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/technology/taiwan-tech-conference-culture",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "Культура троп Тайваня и гражданская охрана",
     "description": "От Ассоциации тысячелитных троп до платформы iTrail: исследование уникальной культуры охраны троп Тайваня и духа гражданской науки",
     "category": "ru",
@@ -131013,12 +131423,12 @@
     "path": "ru/Technology/taiwan-ai-labs.md"
   },
   {
-    "title": "Лай Хо: в бэньдаосане «Мацзу Чжанхуа» и его непокорный чэнцзы",
-    "description": "На канун Нового года 1943 года известный врач Чжанхуа Лай Хо по обычаю сжигал долговые расписки бедных пациентов. Этот врач, которого называют «отцом новой тайваньской литературы», в условиях колониального давления спасал жизни скальпелем и критиковал несправедливость пером; его произведение «Один чэнцзы» до сих пор является культурным символом тайваньского сопротивления насилию власти.",
+    "title": "Лай Хэ: «Мацзу из Чанхуа» в традиционном одеянии и его непоколебимые весы",
+    "description": "В канун китайского Нового года 1943 года знаменитый врач из Чанхуа Лай Хэ, согласно традиции, сжигал долговые расписки бедных пациентов. Врач, прозванный «отцом новой литературы Тайваня», спасал людей скальпелем и использовал перо как меч против несправедливости колониального режима; его произведение «Весы» остается культурным символом сопротивления власти на Тайване.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 41,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-04-28",
     "path": "ru/People/lai-ho-father-of-taiwanese-literature.md"
@@ -131369,12 +131779,12 @@
     "path": "ru/Art/lin-ching-yao-artist.md"
   },
   {
-    "title": "Лин Цзюньцзе: Сингапур 1981, «Цзяннан» до JJ20 — король китайского авторского поп-музыка",
-    "description": "27 марта 1981 года — рождение в Сингапуре. 4 года — фортепиано. 2003 — дебютный альбом «Лесин» (1,2 млн в Азии). 2004 — «Цзяннан» / «Второй рай» (1,8 млн). Апрель 2024 — сердечное заболевание, ежедневные лекарства. Тур JJ20 FINAL LAP (2024-25, 40 городов, 77 концертов, 2,6 млн зрителей). Ноябрь 2024 — биография «За пределами нот: Лин Цзюньцзе 20-летие».",
+    "title": "Лин Цзюньцзе: Король китайской поп-музыки от «Цзяннань» до JJ20, рожденный в Сингапуре в 1981 году",
+    "description": "Родился в Сингапуре в 1981 году; дебютировал в 1999 году после обучения в школе лейбла H쫙 Music. Альбомы «Music Walker» (2003) и «Second Heaven» (2004) разошлись тиражом более 1,2 и 1,8 млн копий в Азии; лауреат премий Золотой кубок за лучший дебют и дважды за лучшего исполнителя мандарин-поп. Мировое турне JJ20 (2022–2024) охватило 77 концертов.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 24,
+    "readingTime": 13,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/jj-lin-singaporean-mandopop-king.md"
@@ -131512,12 +131922,12 @@
     "path": "ru/People/freddy-lim.md"
   },
   {
-    "title": "Линь Юй-тин: от подвального боксёрского зала в Синьчжуане до золотой медали Олимпиады в Париже — одинокая королева ринга и весь Тайвань на её плечах",
-    "description": "11 августа 2024 года на стадионе Ролан-Гаррос в Париже Линь Юй-тин с превосходством завоевала первую в истории Тайваня олимпийскую золотую медаль по боксу. Путь от подвального зала в средней школе Иньге через поражение в Токио, провокационный жест соперницы «крест», международную политическую игру и глобальное кибербуллинг. Статья глубоко разбирает её философию «мага», вклад многолетнего спарринг-партнёра Ли Чэнь-вэя, техническую эволюцию, гендерную науку, преподавательство в Университете Культуры, общественное консолидирование и революционную солидарность «четырёх королёв ринга», а также фиксирует исторический прорыв 2026 года — официальное признание её допуска к соревнованиям Всемирной боксёрской лигой.",
+    "title": "Линь Юйтин: от боксерской секции средней школы Инге до золотой медали Олимпийских игр в Париже",
+    "description": "В августе 2024 года Линь Юйтин одержала победу над польской спортсменкой со счетом 5:0 в финальном бою в женской весовой категории до 57 кг на Олимпийских играх в Париже, завоевав для Тайваня первую олимпийскую золотую медаль в боксе. В данной статье систематизирована информация о ее пути от боксерской секции средней школы Инге, поражении на Олимпийских играх в Токио, аннулировании бронзовой медали чемпионата мира 2023 года и спорах о поле во время парижской Олимпиады, а также сведения о ее преподавательской деятельности, наградах после завоевания золота и текущем состоянии соревнований в 2026 году; каждое утверждение сопровождается источником.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/lin-yu-ting-boxer",
-    "readingTime": 66,
+    "readingTime": 105,
     "featured": false,
     "date": "2026-08-12",
     "path": "ru/People/lin-yu-ting-boxer.md"
@@ -137272,6 +137682,17 @@
     "path": "ru/History/formosa-historical-name.md"
   },
   {
+    "title": "Форт Зееландия: одна крепость — четыре названия",
+    "description": "В 1624 году голландцы перестроили форт в Таюане (Тайнань), сначала назвали его Оранже-стад, через два года — Форт Зееландия. В 1662 году Чжэнь Чэньгун (Коксингга) осадил его девять месяцев, голландский губернатор Койт сдал ключи, и здесь возникло царство Минь Чжэнь. В эпоху Цин стены разобрали для строительства форта Ицзай цзиньчэнь, в японскую эпоху внутренний город выровняли, а в 2022 году Министерство культуры объединило руины и переименовало в «Руины форта Зееландия». Четыре названия — четыре эпохи правления.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/fort-zeelandia",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/History/fort-zeelandia.md"
+  },
+  {
     "title": "Форум «Сысянь»: 14 лет — от камня испытания проигравшего президента до сосуда межпартийного демократического диалога",
     "description": "2 мая 2026 года бывший председатель Народной партии Сун Чжуйу, председатель партии «Эпоха силы» Ван Ванью, член Национального комитета Социал-демократической партии Мяо Боя, ветеринар и основатель «Свежего молока» Гунь Цзяньцзя одновременно появились в списке авторов проекта «30 лет, 30 человек, 30 взглядов». Этот интернет-форум, основанный Цай И-вэнь после поражения на выборах 2012 года, за 14 лет накопил почти 5800 статей, пережил разделение, когда Цзянь Чжунь стал председателем совета директоров, и 9-летний дистанционный период президентства без крупного редизайна, и в 2026 году всё ещё отвечает на вопрос, висевший с первого дня: может ли платформа под названием «Фонд образования Сяоинь» выдержать межпартийный демократический диалог?",
     "category": "ru",
@@ -138749,12 +139170,12 @@
     "path": "ru/People/chen-wen-yu-plant-breeder.md"
   },
   {
-    "title": "Чэнь Иньчжэнь: от Чжунаня до Пекина — литературная совесть сторонников объединения",
-    "description": "Чэнь Иньчжэнь (1937–2016), родное имя Чэнь Юньшань, родился в Чжунане (Мяоли), вырос в Иньгэ. В 1964 году рассказ «Цзюньцзюй» о трагедии ветеранов с материка и тайваньских девочек-проституток принес ему славу. В 1968 году по делу «Демократический союз Тайваня» приговорён к 10 годам (вышел досрочно по амнистии 1975 года после смерти Чан Кайши). В 1985 году основал журнал «Жэньцзянь», заложив основы тайваньской репортажной литературы. В 1988 году создал Китайский союз за объединение и возглавил его. После инсульта 2006 года переехал в Пекин, где скончался в 2016 году. Самый противоречивый сторонник объединения среди тайваньских писателей послевоенного периода, ключевой теоретик споров о литературе коренных мест под псевдонимом Сю Наньцунь.",
+    "title": "Чэнь Инчжэнь: совесть сторонников объединения в литературе, от Чжунаня до Пекина",
+    "description": "Чэнь Инчжэнь (1937–2016), урожденный Чэнь Юншань, родился в Чжунане (Мяоли) и вырос в Инцзе. Прославился рассказом «Клан генералов» (1964) о трагедии ветерана-соотечественника и тайваньской девушки. Был приговорен к 10 годам за «Дело Союза демократического Тайваня» (освобожден в 1975 г.). Основал журнал «Жэньцзянь» (1985), стал лидером сторонников объединения с Китаем и прожил последние годы в Пекине.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/chen-yingzhen",
-    "readingTime": 73,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/chen-yingzhen.md"
@@ -139022,6 +139443,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ru/Culture/taiwan-pinball-night-market.md"
+  },
+  {
+    "title": "Шестнадцать лет испанского присутствия на севере Тайваня: колониальные попытки от острова Хэпин до Даньшуя",
+    "description": "В мае 1626 года испанский флот, поднявшись из Манилы, высадился в порту Цзилун и основал город Сан-Сальвадор на острове Хэпин. В течение шестнадцати лет они строили город Санто-Доминго в Даньшуе, исследовали бассейн Тайбэя и конфликтовали с народом ами, существуя лишь за счет поставок из Манилы. В августе 1642 года голландцы захватили Цзилун, и испанцы покинули Тайвань, оставив после себя лишь топонимы и фрагменты крепостных стен.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ru/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "Шесть пальцев бездны: как полностью англоязычный интерфейс After Effects стал входной точкой для тайваньских создателей",
@@ -143950,6 +144382,17 @@
     "path": "ar/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
+    "title": "تشن ينغ تشن: ضمير الأدب الموحد من تشونان إلى بكين",
+    "description": "تشن ينغ تشن (1937–2016)، اسمه الأصلي تشن يونغ شان، ولد في تشونان بمقاطعة مياولي ونشأ في يينغ غي. اشتهر عام 1964 بقصة \"عرق الجنرالات\" التي تناولت مأساة جندي متقاعد من خارج المقاطعة وفتاة تايوانية؛ وحُكم عليه بالسجن 10 سنوات عام 1968 في قضية \"اتحاد تايوان الديمقراطي\". أسس مجلة \"رين جيان\" (الإنسان) عام 1985، وكان أول رئيس للاتحاد الصيني للتوحيد عام 1988. استقر في بكين عام 2006 وتوفي بها عام 2016.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chen-yingzhen",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ar/People/chen-yingzhen.md"
+  },
+  {
     "title": "تشن يو-شون",
     "description": "مخرج كوميدي تايواني نشأ في قرى الجنود، أسس لغة إبداعية للكوميديا المحلية عبر خمسة أفلام طويلة، متميزًا باستكشاف قضايا الحياة العميقة من خلال الفكاهة التايوانية والدفء الإنساني في مواقف عبثية؛ استلهم أسلوبه من عمالقة الكوميديا في هوليوود، وحصد جائزة أفضل فيلم روائي في جوائز غولدن هورس عن فيلم \"عيد الحب المفقود\"، مما منح أسلوبه اعترافًا خارجيًا رفيع المستوى.",
     "category": "ar",
@@ -143959,17 +144402,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/chen-yu-hsun-taiwan-comedy-film-magician.md"
-  },
-  {
-    "title": "تشن يينغ-تشين: من تشونان إلى بكين، ضمير الأدب الموحد",
-    "description": "تشن يينغ-تشين (1937–2016)، واسمه الحقيقي تشن يونغ-شان، وُلد في تشونان بمقاطعة مياولي ونشأ في يينغه. اشتهر عام 1964 بـ \"عشيرة الجنرالات\" التي تصور مأساة جندي متقاعد من البر الرئيسي وعاهرة تايوانية شابة. حُكم عليه بالسجن 10 أعوام عام 1968 في \"قضية رابطة تايوان الديمقراطية\" (أفرج عنه مبكراً بعفو خاص بعد وفاة تشيانغ كاي شيك عام 1975). أسس مجلة \"الإنسانية\" عام 1985 رائداً للأدب التقريري في تايوان. أسس \"رابطة توحيد الصين\" عام 1988 وترأسها، انتقل إلى بكين بعد إصابته بسكتة دماغية عام 2006، وتوفي هناك عام 2016. يُعد أكثر الكتاب الموحدين إثارة للجدل في تايوان ما بعد الحرب، ونظيراً رئيسياً في جدل الأدب المحلي باسمه المستعار \"شو نان-تسون\".",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/chen-yingzhen",
-    "readingTime": 59,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ar/People/chen-yingzhen.md"
   },
   {
     "title": "تشنغ تشو-يو: كاتب قصيدة \"الخطأ\" الشريد، يستقر أخيراً في كينمن",
@@ -145085,6 +145517,24 @@
     "path": "ar/Food/taiwan-seafood-culture.md"
   },
   {
+    "title": "ثقافة المؤتمرات التقنية السنوية في تايوان: من COSCUP إلى HITCON في الهجرة السنوية",
+    "description": "تايوان تستضيف مجموعة ثابتة من المؤتمرات التقنية السنوية: COSCUP يُعقد منذ عام 2006 بتنظيم مشترك من مجتمعات البرمجيات مفتوحة المصدر، وجدول أعماله يتكون من أكثر من أربعين مسارًا مجتمعيًا؛ SITCON ينظمه الطلاب بأنفسهم منذ ثلاثة عشر عامًا، متراكمًا 14,000 مشارك و1,400 متطوع؛ وجدول أعمال HITCON السنوي يمتد من عام 2005 حتى الآن، مع انبثاق فعاليات متخصصة للمجتمعات والشركات ومسابقات الأمن السيبراني. منظمو هذه المؤتمرات هم في الغالب متطوعون غير مأجورين، والتمويل يأتي من الرعاية، والمتحدثون والمتطوعون والطلاب يتدفقون بين نفس مجموعة الأماكن، مشكلين موسمًا تقنيًا تايوانيًا مميزًا.",
+    "category": "ar",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "مفتوح المصدر",
+      "مؤتمر سنوي",
+      "متطوع"
+    ],
+    "url": "https://taiwan.md/ar/technology/taiwan-tech-conference-culture",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/Technology/taiwan-tech-conference-culture.md"
+  },
+  {
     "title": "ثقافة المحرمات الصوتية في تايوان: لماذا يجعل الرقم «أربعة» المجتمع بأكمله يتخطى الطوابق؟",
     "description": "من عدم وجود طابق رابع في المستشفيات إلى بيع لوحة السيارة 8888 بسعر خيالي، حساسية التايوانيين تجاه التوافق الصوتي تُعتبر من الأعلى في العالم",
     "category": "ar",
@@ -145787,17 +146237,6 @@
     "featured": false,
     "date": "2026-07-05",
     "path": "ar/Geography/jinguashi.md"
-  },
-  {
-    "title": "جيه جي لين: سنغافورة 1981، من «جيانغ نان» إلى JJ20 ملك الإبداع في البوب الصيني",
-    "description": "ولد في 27 مارس 1981 في سنغافورة. تعلم العزف على البيانو في سن الرابعة. ألبومه الأول «المسافر الموسيقي» (2003) بيع منه 1.2 مليون نسخة في آسيا. ألبومه الثاني «الجنة الثانية» (2004) مع أغنية «جيانغ نان» بيع منه 1.8 مليون نسخة. في أبريل 2024 كشف عن إصابته بمرض قلبي يتطلب أدوية يومية. جولة JJ20 FINAL LAP العالمية (2024-2025) شملت 40 مدينة، 77 حفلة، و2.6 مليون متفرج. في نوفمبر 2024 صدرت سيرته الذاتية «ما وراء النوتات: جيه جي لين 20 عاماً».",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ar/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "جيوجيو شي: حذف أكثر مقاطع الترجيص رواجًا، كان بداية ليصبح صانع معرفة مستقل",
@@ -146914,6 +147353,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ar/Society/taiwan-pigeon-racing.md"
+  },
+  {
+    "title": "ست عشرة سنة من الوجود الإسباني في شمال تايوان: محاولات استعمارية من جزيرة هيبينغ إلى دان شوي",
+    "description": "في مايو 1626، أبحر الأسطول الإسباني شمالًا من مانيلا وهبط في ميناء جيلونج، حيث أسس مدينة سان سالفادور في جزيرة شياولياو (جزيرة هيبينغ حاليًا). على مدار ست عشرة سنة، بنوا مدينة سانتو دومينغو في دان شوي، وأرسلوا مستكشفين إلى حوض تايبيه، ودخلوا في صراعات مع شعب غاملان؛ لكنهم ظلوا يعتمدون كليًا على إمدادات مانيلا لإعالة حاميتهم. وفي أغسطس 1642، استولى الهولنديون على جيلونج، وانسحبت إسبانيا من تايوان، ولم يتبقَّ سوى أسماء المواقع وبقايا بعض الجدران.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "ستان شيه: من كشك بيض البط في لوكانغ، إلى علامة تجارية تسمى تايوان",
@@ -148886,14 +149336,14 @@
     "path": "ar/Society/delivery-platform-law.md"
   },
   {
-    "title": "قانون الرعاية الصحية: المعايير المؤسسية والصراع بين السوق عبر أربعين عاماً",
-    "description": "تم نشر قانون الرعاية الصحية في تايوان عام 1986، وتم تعديل المسؤولية الجنائية للأطباء عام 2017، وتم إدراج نسبة ثلاثة مرضى لكل ممرضة في القانون عام 2026. يمكن للقانون أن يحدد «أقصى عدد أسرّة يمكن لممرضة واحدة التكفل بها»، لكنه لا يستطيع أن يحدد «هل توجد تلك الممرضة أم لا». هناك 320000 رخصة تدريبية للممرضات، لكن في العمل السريري يبقى فقط 190000 يداً عاملة. هذا ليس قانون التأمين الصحي، ولا قانون الأطباء، بل هو الأساس الذي يوجد عليه «المستشفى» كمؤسسة في تايوان، وهو أيضاً الصراع الذي لم يتحلّ منه النظام العام على مدى أربعين عاماً بين الطابع الخيري للرعاية الصحية والآلية السوقية.",
+    "title": "قانون الرعاية الطبية: أربعون عاماً من التنظيم المؤسسي والصراع مع آليات السوق",
+    "description": "تم إعلان قانون الرعاية الطبية في تايوان عام 1986، وتم تعديل المسؤولية الجنائية للأطباء في عام 2017، ومن المقرر إدراج نسبة الممرضين إلى المرضى في المناوبات الثلاث ضمن القانون في عام 2026. يمكن للقانون أن يحدد \"أقصى عدد من الأسرة التي يمكن لممرضة واحدة رعايتها\"، لكنه لا يستطيع تحديد \"ما إذا كان هناك ممرضون متاحون\" — فمن بين 320 ألف رخصة تمريض، لم يتبقَّ في الممارسة السريرية سوى 190 ألف يد. هذا ليس قانون التأمين الصحي ولا قانون الأطباء، بل هو القانون الأساسي الذي يحدد كيفية وجود مؤسسة \"المستشفى\" في تايوان، وهو أيضاً الصراع المستمر منذ أربعين عاماً بين المصلحة العامة للرعاية الطبية وآليات السوق دون حل.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/medical-care-act",
-    "readingTime": 250,
+    "readingTime": 275,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "ar/Society/medical-care-act.md"
   },
   {
@@ -149081,6 +149531,17 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "ar/Lifestyle/taiwan-high-speed-rail.md"
+  },
+  {
+    "title": "قلعة زيلانديا: أربعة أسماء لقلعة واحدة",
+    "description": "في عام 1624، أعاد الهولنديون بناء حصن في دايوان بمدينة تاي난، سُمي أولاً قلعة أورانج، ثم تغير اسمه إلى قلعة زيلانديا بعد عامين. في عام 1662، حاصر كوجينغ (Zheng Chenggong) القلعة لمدة تسعة أشهر حتى سلم الحاكم الهولندي كوي (Aguilar) المفاتيح، لتتحول إلى مدينة ملكية لمملكة تايوان (مينغ تشنغ). خلال عهد أسرة تشينغ، هُدمت الأسوار لبناء حصن إيتشاي جين تشنغ، وفي العصر الياباني سُوِّي الجزء الداخلي بالأرض، وفي عام 2022 دمجت وزارة الثقافة البقايا وأطلقت عليها اسم \"بقايا قلعة زيلانديا\". أربعة أسماء، لأربعة فترات حكم.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/fort-zeelandia",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/History/fort-zeelandia.md"
   },
   {
     "title": "قمة البحر والجبل في الجزيرة: البيئة والمناظر الطبيعية للمتنزهات الوطنية في تايوان",
@@ -149451,12 +149912,12 @@
     "path": "ar/People/lai-ching-te.md"
   },
   {
-    "title": "لاي هو: مرتديًا الزي التقليدي التايواني «مازو تشانغهوا»، وتلك الموازين التي لم تتنازل أبدًا",
-    "description": "في عشية رأس السنة عام 1943، أحرق الطبيب الشهير في تشانغهوا، لاي هو، كعادته فواتير ديون المرضى الفقراء. هذا الطبيب الذي لُقّب بـ «أب الأدب التايواني الجديد»، أنقذ الأرواح بمشرطه في ظل القمع الاستعماري، وانتقد الظلم بقلمه سيفًا، ولا يزال عمله «ميزان واحد» رمزًا ثقافيًا لتايوان في مواجهة عنف السلطة حتى اليوم.",
+    "title": "لاي هي: \"مازو تشانغوا\" بزيّ الجزيرة، وميزانه الذي لم يساوم أبدًا",
+    "description": "قبل ليلة رأس السنة الصينية عام 1943، اعتاد الطبيب الشهير في تشانغوا، لاي هي، حرق فواتير ديون المرضى الفقراء. هذا الطبيب الملقب بـ \"أب الأدب الجديد في تايوان\"، أنقذ الأرواح بمشرطه وانتقد الظلم بقلمه تحت وطأة الاستعمار؛ ولا تزال قصيدته \"ميزان\" رمزًا ثقافيًا لتايوان في مواجهة عنف السلطة.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 34,
+    "readingTime": 36,
     "featured": false,
     "date": "2026-04-28",
     "path": "ar/People/lai-ho-father-of-taiwanese-literature.md"
@@ -149932,6 +150393,17 @@
     "path": "ar/People/brigitte-lin-legendary-actress.md"
   },
   {
+    "title": "لين جون جيه: مولود سنغافورة عام 1981، ملك الإبداع الموسيقي في عالم الـ Mandopop من \"Jiangnan\" إلى \"JJ20\"",
+    "description": "ولد في سنغافورة عام 1981، وبدأ مسيرته عبر مدرسة تسجيلات Hype Record في عام 1999. حققت ألبوماته \"Music Walker\" (2003) و\"Second Heaven\" (2004) مبيعات تجاوزت 1.2 مليون و1.8 مليون نسخة في آسيا، وحصد جوائز Golden Melody لأفضل فنان صاعد وأفضل مغني ماندرين لعامين. قدم 77 عرضًا ضمن جولة JJ20 العالمية بين عامي 2022 و2024.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ar/People/jj-lin-singaporean-mandopop-king.md"
+  },
+  {
     "title": "لين جيا تشن: من كتابة كلمات فريق الأرض إلى رقصة الميم في مطعم الفطور، يغني انتظام الآيدولز بتحرّره الخاص",
     "description": "في عام 2022، دخل لين جيا تشن أنظار الجمهور كعضو في فريق الأرض في برنامج \"أتوم بويز\"، وشارك في كتابة كلمات أغنية النهائيات. وفي عام 2026، أنجز ديمو أغنية \"Love Me Again\" في غرفته، منتقلًا من صرخات الروك إلى خطوات رقص في أزقة تايبيه الليلية ومطاعم الفطور. الأمر الأكثر إثارة في هذا المسار أنه لم يغادر إطار الآيدولز، بل كتب حسّ الحياة داخل الإطار، محوّلًا خبرة الفريق إلى خلفية لإبداعه الشخصي.",
     "category": "ar",
@@ -150004,12 +150476,12 @@
     "path": "ar/People/lin-yang-min.md"
   },
   {
-    "title": "لين يو تينغ: من صالة الملاكمة السرية في سينجوانغ إلى ذهبية أولمبياد باريس، بطلة الملاكمة الوحيدة التي حملت تايوان بأكملها على ظهرها",
-    "description": "في 11 أغسطس 2024، على ملعب رولان غاروس في باريس، أحرزت لين يو تينغ بأداء ساحق أول ميدالية ذهبية في الملاكمة في تاريخ تايوان الأولمبي. انطلاقًا من صالة الملاكمة السرية في مدرسة يينغه الإعدادية، مرت بمسيرة شملت انتكاسة أولمبياد طوكيو، واستفزاز منافستها في نصف النهائي بإشارة \"إكس\"، واللعبة السياسية الدولية، والتنمر الإلكتروني العابر للحدود. يحلل هذا المقال بعمق فلسفتها \"الساحر\"، وإسهامات شريك تدريبها الطويل لي تشينغ-وي خلف الكواليس، وتطور تقنياتها، وعلم الجندر، ووظيفتها الأكاديمية في جامعة الثقافة، وقوة التماسك الاجتماعي، ومشاعر الثورة المشتركة بين بطلات الملاكمة الأربع، ويسجل التطور الملحمي الأخير لعام 2026 باعتراف \"وورلد بوكسينغ\" الرسمي بأهليتها للمشاركة.",
+    "title": "لين يو-تينغ: من فريق الملاكمة في مدرسة يينغه الإعدادية إلى ذهبية أولمبياد باريس",
+    "description": "في أغسطس 2024، هزمت لين يو-تينغ الملاكمة البولندية بنتيجة 5-0 في نهائي وزن 57 كجم للسيدات في أولمبياد باريس، محققة أول ذهبية أولمبية في الملاكمة لتايوان. تلخص هذه المقالة مسيرتها من انطلاقتها في فريق الملاكمة بمدرسة يينغه الإعدادية، وخسارتها في أولمبياد طوكيو، وسحب ميداليتها البرونزية في بطولة العالم 2023، والجدل حول جنسها خلال أولمبياد باريس، بالإضافة إلى منصبها التدريسي وجوائزها وأحدث مشاركاتها في 2026 بعد تتويجها بالذهب، مع توثيق كل معلومة بمصادرها.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/people/lin-yu-ting-boxer",
-    "readingTime": 58,
+    "readingTime": 87,
     "featured": false,
     "date": "2026-08-12",
     "path": "ar/People/lin-yu-ting-boxer.md"
@@ -151087,6 +151559,17 @@
     "path": "ar/Food/taiwan-banana-kingdom.md"
   },
   {
+    "title": "مملكة دونغنينغ: إحدى وعشرون سنة، سلالة كتبت اسم تايوان في اسمها الرسمي",
+    "description": "في فبراير 1662، سلم الحاكم الهولندي كوي ي مفاتيح مدينة زيلانديا، وحوّل تشنغ تشنغ غونغ هذه الجزيرة إلى \"دونغنينغ\". على مدار إحدى وعشرين سنة تالية، أنشأت عائلة تشنغ نظامًا إداريًا من محافظة وولايتين وثلاث دوائر، ونشرت الجيش في الأراضي الزراعية، وعيّنت تشن تشين يونغ هوا لإدارة شؤون الدولة، كما مارست التجارة مع اليابان وشركة الهند الشرقية البريطانية. وفي يوليو 1683، سحق شي لانغ أسطول ليو غو تشوان في معركة بنغهو البحرية، وفي أكتوبر استسلم تشنغ كي تشانغ لأسرة تشينغ، لتنتهي حقبة دونغنينغ في التاريخ.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/tungning-kingdom",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ar/History/tungning-kingdom.md"
+  },
+  {
     "title": "من «جزيرة قتل الكلاب» إلى صفر إعدام: طريق الخلاص الأربعين عاماً لحماية الحيوانات في تايوان",
     "description": "في التسعينيات، لُقبت تايوان دولياً بـ«جزيرة قتل الكلاب» بسبب معاملتها القاسية للكلاب الضالة، حتى ظهرت لافتات مقاطعة السياحة في مطارات اليابان. من تشريع «قانون حماية الحيوانات» عام 1998 إلى تطبيق «صفر إعدام» شامل عام 2017، إنها حركة اجتماعية حول إعادة تعريف قيمة الحياة.",
     "category": "ar",
@@ -151922,17 +152405,6 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "ar/Food/beef-noodle-soup.md"
-  },
-  {
-    "title": "نيك ستار: تحويل غرفة البث المباشر إلى حلبة ملاكمة، وإيصال الموقف أمام الكاميرا",
-    "description": "منذ عام 2024، مزج نيك ستار الملاكمة والألعاب ومكالمات الفيديو والتفاعل المباشر في نوع من العروض الشبكية عالية الكثافة. وفي عام 2025، دفع بالهوية الخاصة والموقف التايواني إلى نفس الكاميرا عبر أغنية \"أنا مزدوج الميول الجنسية\" والبث المباشر عبر الحدود. لا تبسّط هذه المقالة شخصه إلى \"مؤثر يسعى للمشاهدات\"، بل تتعقب كيف يضع صانع محتوى الحلبة وغرفة الدردشة والموسيقى والجدل في نفس اللحظة الآنية، وتوضح ما يمكن للمواد العامة إثباته وما لا تستطيع إثباته.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/nick-star-streamer",
-    "readingTime": 96,
-    "featured": false,
-    "date": "2026-08-20",
-    "path": "ar/People/nick-star-streamer.md"
   },
   {
     "title": "نيه يونغ تشن: أول عضو AGI في تايوان، عشرون سنة من تصميم الألبومات إلى نظام الهوية الوطنية",
@@ -153344,6 +153816,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "hi/Food/flying-fish-tao-people.md"
+  },
+  {
+    "title": "उत्तरी ताइवान में स्पेनिश शासन के सोलह वर्ष: हेपिंग द्वीप से दानशुई तक औपनिवेशिक प्रयास",
+    "description": "मई 1626 में, स्पेनिश बेड़ा मनीला से उत्तर की ओर बढ़ा और जीलोंग बंदरगाह पर उतरा, जहाँ उन्होंने हेपिंग द्वीप पर सैन साल्वाडोर शहर बसाया। सोलह वर्षों तक, उन्होंने दानशुई में सैन डोमिंगो शहर बनाया, ताइपे बेसिन का पता लगाने के लिए दल भेजे और गाओलांग (噶瑪蘭) लोगों के साथ संघर्ष किया, लेकिन वे हमेशा मनीला से मिलने वाली सहायता पर निर्भर रहे। अगस्त 1642 में, डच सेना ने जीलोंग पर कब्जा कर लिया और स्पेन ताइवान से पीछे हट गया, पीछे छोड़ गया तो केवल कुछ स्थान नाम और दीवारों के अवशेष।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/History/spanish-northern-taiwan-1626-1642.md"
   },
   {
     "title": "एआई कक्षा में प्रवेश करता है: तीन सौ सहायक एजेंट, प्रशिक्षण के बाद अकेले शिक्षक को स्वागत करते हैं",
@@ -155037,12 +155520,12 @@
     "path": "hi/People/chen-tzu-jian.md"
   },
   {
-    "title": "चेन यिंगझेन: झुनान से बीजिंग तक के एकीकरणवादी साहित्यिक विवेक",
-    "description": "चेन यिंगझेन (1937–2016) का मूल नाम चेन योंगशान था, जन्म मियाओली के झुनान में हुआ, पले-बढ़े यिंगगो में। 1964 में \"द जेनरल्स क्लैन\" से प्रसिद्धि मिली जिसमें मुख्यभूमि चीन के सेवानिवृत्त सैनिक और ताइवान की युवा वेश्या की त्रासदी थी, 1968 में \"डेमोक्रेटिक ताइवान अलायंस केस\" में 10 साल की सजा (1975 में चियांग काई-शेक के निधन पर क्षमादान से जल्दी रिहा)। 1985 में ''रेंजियान'' पत्रिका स्थापित कर ताइवान की रिपोर्ताज साहित्य की शुरुआत की। 1988 में चाइना यूनिफिकेशन अलायंस की स्थापना कर पहले अध्यक्ष बने, 2006 में स्ट्रोक के बाद बीजिंग चले गए, 2016 में बीजिंग में निधन। वे ताइवान के युद्धोत्तर सबसे विवादास्पद एकीकरणवादी लेखक थे, और ग्रामीण साहित्य 논쟁 में \"श्यू नानचुन\" छद्म नाम से हस्तक्षेप करने वाले प्रमुख सिद्धांतकार।",
+    "title": "चेन यिंगझेन: झू नान से बीजिंग तक के एकीकरणवादी साहित्यिक विवेक",
+    "description": "चेन यिंगझेन (1937–2016) का मूल नाम चेन योंगशान था, जन्म मियाओली के झू नान में हुआ, पले-बढ़े यिंग गे में। 1964 में \"द जियांग जुन जू\" (將軍族) से प्रसिद्धि मिली जो मुख्यभूमि के सेवानिवृत्त सैनिक और ताइवानी युवा वेश्या की त्रासदी पर आधारित थी, 1968 में \"डेमोक्रेटिक ताइवान अलायंस केस\" के कारण 10 साल की सजा (1975 में चियांग काई-शेक के निधन पर क्षमादान से जल्दी रिहाई)। 1985 में \"रें जियान\" (人間) पत्रिका स्थापित कर ताइवान में रिपोर्ताज साहित्य की शुरुआत की। 1988 में हू चिउ-युआन आदि के साथ चाइना यूनिफिकेशन अलायंस की स्थापना कर पहले अध्यक्ष बने, 2006 में बीजिंग में बस गए, उसी साल आघात लगा, 2016 में बीजिंग में निधन। वे ताइवान के युद्धोत्तर सबसे विवादास्पद एकीकरणवादी लेखक थे, और स्थानीय साहित्य विवाद में यू गुआंग-झोंग आदि की आलोचना का खंडन करने वाले प्रमुख प्रतिनिधियों में से एक।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/chen-yingzhen",
-    "readingTime": 71,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/chen-yingzhen.md"
@@ -155537,6 +156020,17 @@
     "path": "hi/People/ji-lin-lian.md"
   },
   {
+    "title": "ज़ीलैंडिया किला: एक किले के चार नाम",
+    "description": "1624 में, डच लोगों ने ताइनान के दयुआन (Dauuan) में एक किला बनाया, जिसे पहले ऑरेंज किला कहा गया और दो साल बाद इसका नाम बदलकर ज़ीलैंडिया किला कर दिया गया। 1662 में झेंग चेंग-गोंग (Zheng Chenggong) द्वारा नौ महीने तक घेराबंदी किए जाने के बाद, डच अधिकारी कॉइपर (Coijers) ने इसकी चाबियाँ सौंप दीं, जिससे यह मिंग-झेंग राजवंश का शाही शहर बन गया। किंग राजवंश के दौरान इसकी दीवारों को ईचीज़ाई स्वर्ण किले (Yizicai Golden Fort) के निर्माण के लिए हटा दिया गया, जापानी शासन के दौरान आंतरिक किले को समतल कर दिया गया, और 2022 में संस्कृति मंत्रालय ने इन अवशेषों को मिलाकर \"ज़ीलैंडिया किला अवशेष\" (Fort Zeelandia Relics) नाम दिया। चार नाम, चार शासन काल।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/fort-zeelandia",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/History/fort-zeelandia.md"
+  },
+  {
     "title": "ज़ुन: जूनियर हाई के दूसरे वर्ष के कमरे से दो चैनलों के दस लाख तक, एक YouTuber का वयस्कता रिकॉर्ड",
     "description": "ज़ुन ने जूनियर हाई के दूसरे वर्ष से गेमप्ले कमेंट्री बनाना शुरू किया, 19 साल की उम्र में उस समय ताइवान का सबसे कम उम्र का दस लाख सब्सक्राइबर वाला YouTuber बना, फिर अपने सेकेंडरी चैनल को भी दस लाख तक पहुंचाया। चौदह कैलेंडर वर्षों के आंकड़े दर्ज करते हैं कि कैसे उसने रचनात्मक बोझ, पारिवारिक उथल-पुथल और प्रायोजन गलतियों का सामना करते हुए धीरे-धीरे वयस्कता की ओर कदम बढ़ाया।",
     "category": "hi",
@@ -155568,17 +156062,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "hi/People/jay-chou.md"
-  },
-  {
-    "title": "जे जे लिन (林俊傑): सिंगापुर 1981, 'जियांगनान' (《江南》) से JJ20 तक मंदारिन रचना सम्राट",
-    "description": "27 मार्च 1981 को सिंगापुर में जन्म। 4 वर्ष की आयु में पियानो सीखा। 2003 में पहला एल्बम 'यू शिंग जे' (《樂行者》) (एशिया में 12 लाख प्रतियां)। 2004 में 'जियांगनान' (《江南》) / 'डी यी तियान तांग' (《第二天堂》) (18 लाख प्रतियां)। अप्रैल 2024 में हृदय रोग का खुलासा, दैनिक दवा आवश्यक। JJ20 FINAL LAP विश्व दौरा (2024-25, 40 शहर, 77 शो, 26 लाख दर्शक)। नवंबर 2024 में जीवनी 'चाओ युए यिन फू: लिन जुन जे 20 झोउ निआन' (《超越音符：林俊傑20周年》) प्रकाशित।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/jj-lin-singaporean-mandopop-king",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "hi/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "ज़ेंग बोएन: हँसी के कारण को समझ सकते हैं, समाज के भावनात्मक वजन को नहीं",
@@ -155967,6 +156450,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "hi/Society/dpp-founding.md"
+  },
+  {
+    "title": "डोंगनिंग साम्राज्य: इक्कीस वर्ष, एक राजवंश जिसने ताइवान को अपने राष्ट्र के नाम में शामिल किया",
+    "description": "फरवरी 1662 में, डच गवर्नर कॉइ (揆一) ने ज़ीलैंडिया (Zeelandia) शहर की चाबियाँ सौंप दीं, और ज़ेंग चेंगगोंग (鄭成功) ने इस द्वीप को \"डोंगनिंग\" बना दिया। इसके बाद के इक्कीस वर्षों तक, ज़ेंग परिवार ने एक प्रान्त, दो ज़ू (州) और तीन विभागों की स्थापना की, सेना को कृषि भूमि पर तैनात किया, चेन योंगहुआ (陳永華) को शासन की कमान सौंपी, और जापान तथा ब्रिटिश ईस्ट इंडिया कंपनी के साथ व्यापार किया। जुलाई 1683 में पेंगहु समुद्री युद्ध में, शि लांग (施琅) ने लियू गुओक्सुआन (劉國軒) की नौसेना को पराजित कर दिया, और अक्टूबर में ज़ेंग कशिआंग (鄭克塽) ने किंग राजवंश के सामने आत्मसमर्पण कर दिया, जिससे डोंगनिंग का इतिहास समाप्त हो गया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/tungning-kingdom",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/History/tungning-kingdom.md"
   },
   {
     "title": "डोमिडोरो: \"गलतियाँ पकड़ने\" को एक सार्वजनिक प्रदर्शन बना देना, हँसी के पीछे सवाल यह है कि किसके पास किसे सुधारने का अधिकार है",
@@ -157565,6 +158059,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "hi/Technology/taiwan-tech-storytelling.md"
+  },
+  {
+    "title": "ताइवान की तकनीकी सम्मेलनों की संस्कृति: COSCUP से HITCON तक का वार्षिक प्रवास",
+    "description": "ताइवान में हर साल कुछ प्रमुख तकनीकी सम्मेलन आयोजित होते हैं: COSCUP 2006 से ओपन सोर्स समुदाय द्वारा आयोजित किया जा रहा है; SITCON पिछले तेरह वर्षों से छात्रों द्वारा संचालित है; और HITCON 2005 से निरंतर जारी है। ये आयोजन मुख्य रूप से स्वयंसेवकों द्वारा संचालित होते हैं, जिनका वित्तपोषण प्रायोजन (sponsorship) से होता है, जिससे वक्ता, स्वयंसेवक और छात्र एक ही तकनीकी चक्र में घूमते रहते हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/taiwan-tech-conference-culture",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "hi/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "ताइवान की दीर्घकालिक देखभाल प्रणाली का विकास",
@@ -160491,6 +160996,17 @@
     "path": "hi/Society/the-reporter-investigative-journalism.md"
   },
   {
+    "title": "दलों से परे चार पैमाने: ज़मीन के टुकड़े से स्वास्थ्य बीमा कार्ड तक, अपनी राजनीति से लंबी जीने वाली ताइवान की नीतियाँ",
+    "description": "एक पाठक नीले-हरे खेमों की गाली-गलौज से तंग आकर ताइवान के काम आई चीज़ें याद रखना चाहता था। हमने सत्तर वर्षों की ग्यारह नीतियाँ, अधिनायकवादी शासन द्वारा कृषि भूमि के जबरन अधिग्रहण वाले भूमि सुधार, मार्शल लॉ की समाप्ति और स्वास्थ्य बीमा से लेकर अब भी विवादित समलैंगिक विवाह और अग्रगामी बुनियादी ढांचा योजना तक, दलीय पैमाने से नहीं बल्कि जीवन-यापन, लोकतंत्र, नागरिक अधिकार और संप्रभुता के चार पैमानों से मापीं। निष्कर्ष उलटा है: जो नीतियाँ अपनी राजनीति से लंबी जीती हैं, उनका जन्म-दिन सबसे झगड़ालू रहा।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/bipartisan-good-policy",
+    "readingTime": 211,
+    "featured": false,
+    "date": "2026-06-13",
+    "path": "hi/History/bipartisan-good-policy.md"
+  },
+  {
     "title": "दस बड़ी परियोजनाएं: दस अरब डॉलर के विदेशी मुद्रा भंडार पर दो हजार अरब का दांव",
     "description": "1973 में ताइवान का विदेशी मुद्रा भंडार केवल 10 अरब डॉलर था, फिर भी चियांग चिंग-कुओ ने दस बड़ी परियोजनाओं को आगे बढ़ाने के लिए लगभग 3000 अरब न्यू ताइवान डॉलर निवेश करने की घोषणा की। यह न केवल तेल संकट और राजनयिक अलगाव का सामना करने के लिए एक आर्थिक मोड़ था, बल्कि जापानी औपनिवेशिक काल की विरासत वाली योजनाओं को पुनः पैकेज करके राष्ट्रीय पहचान के राजनीतिक आख्यान में बदलने का एक प्रयास भी था।",
     "category": "hi",
@@ -160874,17 +161390,6 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "hi/Culture/blue-white-slippers.md"
-  },
-  {
-    "title": "नीले-हरे के दायरे से परे चार पैमाने: एक खेत के टुकड़े से एक स्वास्थ्य बीमा कार्ड तक, ताइवान की वे नीतियाँ जो अपनी राजनीतिक जड़ों से आगे निकल गईं",
-    "description": "एक पाठक नीले-हरे खेमों की खाने की मेज पर होने वाली परस्पर आरोप-प्रत्यारोप से थक गया था, और ताइवान के लिए वास्तव में अच्छी चीजों को याद रखना चाहता था। इसलिए हमने सत्तर साल की ग्यारह नीतियों को ढूंढा, अधिनायकवादी जबरन कृषि भूमि अधिग्रहण के भूमि सुधार, मार्शल लॉ की समाप्ति, सार्वभौमिक स्वास्थ्य बीमा, से लेकर अभी भी विवादित समलैंगिक विवाह और भविष्योन्मुखी बुनियादी ढांचे तक, जानबूझकर नीले-हरे पैमानों का उपयोग नहीं किया, बल्कि जनजीवन, लोकतंत्र, नागरिक अधिकार, संप्रभुता के चार पैमानों का इस्तेमाल किया। निष्कर्ष कुछ हद तक प्रतिकूल है: जो नीतियाँ अपनी पार्टीगत उत्पत्ति से आगे निकल गईं, उनके जन्म का दिन अक्सर सबसे तीखी बहस का दिन होता था।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/history/bipartisan-good-policy",
-    "readingTime": 171,
-    "featured": false,
-    "date": "2026-06-13",
-    "path": "hi/History/bipartisan-good-policy.md"
   },
   {
     "title": "नेशनल स्पेस सेंटर: एक ऐसे देश के लिए अंतरिक्ष एजेंसी बनाना जिसमें नाम भी पूरा नहीं हुआ था, तीस-दो साल लगे",
@@ -161827,12 +162332,12 @@
     "path": "hi/People/black-cat-teacher.md"
   },
   {
-    "title": "ब्लैक बियर अकादमी: एक ऐसा सिविल डिफेंस स्कूल जो आशा करता है कि एक दिन खुद की ज़रूरत न हो",
-    "description": "2021 में, पाँच स्वयंसेवकों ने एक कैफ़े में पाँच घंटे बातचीत की और फैसला किया कि वे टाइवान के लोगों को युद्ध का सामना करना सिखाएँगे — कुछ घटनाओं को संपन्न करने के बाद अधिकारी दो मिलियन वन आठ सौ हज़ार घाटा हो गया। अगले साल, रूस ने यूक्रेन में घुसा और चाओ सिंग सेन ने छह करोड़ रुपये दान किए और तीन वर्षों में तीन करोड़ वन मिलियन के ब्लैक बियर वीरों की माँग की। इसने रक्त बांधने, निर्वासन और धोखाधड़ी रोकथाम की शिक्षा दी है; यह साफ़ कहता है कि यह 'सैन्य नागरिकों को नहीं सिक्हा रहा है'; जितना वह गंभीरता से सिखाता है, उतना ही चीन ने इसे ताइवान के अलगाववादियों की सूची में डाल दिया और द्वीप पर इसे राजनीतिक फुटबॉल बना दिया। एक ऐसा स्कूल जो युद्ध के कारण पैदा हुआ है, लेकिन आशा करता है कि एक दिन उसकी ज़रूरत न हो।",
+    "title": "ब्लैक बियर अकादमी: एक नागरिक रक्षा स्कूल जो उम्मीद करता है कि एक दिन उसे अस्तित्व में रहने की आवश्यकता नहीं होगी",
+    "description": "२०२१ में, पांच स्वयंसेवकों ने एक कॉफी शॉप में पांच घंटे बात की और ताइवान के लोगों को युद्ध का सामना करना सिखाने का फैसला किया — कुछ कार्यक्रम आयोजित करने के बाद वे २१०,००० न्यू ताइवान डॉलर के कर्ज में डूब गए। अगले साल रूस ने यूक्रेन पर आक्रमण किया, रॉबर्ट त्साओ ने ६० करोड़ दान दिए, और तीन वर्षों में तीस लाख ब्लैक बियर योद्धाओं का लक्ष्य घोषित किया। यह टूर्निकेट, निकासी, धोखाधड़ी रोकथाम सिखाता है, स्पष्ट रूप से कहता है कि \"यह बिल्कुल मिलिशिया प्रशिक्षण नहीं है\"; जितना गंभीरता से यह पढ़ाता है, उतना ही इसे चीन द्वारा ताइवान स्वतंत्रता सूची में डाल दिया जाता है और द्वीप पर राजनीतिक फुटबॉल बना दिया जाता है। युद्ध से पैदा हुआ एक स्कूल, फिर भी उम्मीद करता है कि एक दिन इसकी आवश्यकता नहीं पड़ेगी।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/kuma-academy-civil-defense-school",
-    "readingTime": 133,
+    "readingTime": 163,
     "featured": false,
     "date": "2026-06-21",
     "path": "hi/Society/kuma-academy-civil-defense-school.md"
@@ -163137,12 +163642,12 @@
     "path": "hi/People/lai-ching-te.md"
   },
   {
-    "title": "लाई हो: बेनताओ शान पहनने वाले \"चांगहुआ माज़ू\", और उनकी वह चेंग-ए जो कभी समझौता नहीं करती",
-    "description": "1943 की नववर्ष पूर्व संध्या पर, चांगहुआ के प्रसिद्ध चिकित्सक लाई हो ने हमेशा की तरह गरीब मरीजों के बकाया बिल जला दिए। \"ताइवान नए साहित्य के पिता\" कहे जाने वाले इस चिकित्सक ने औपनिवेशिक दबाव में हाथ में सर्जन का चाकू लेकर गरीबों को बचाया और कलम को तलवार बनाकर अन्याय की आलोचना की; उनकी कृति 〈एक \"चेंग-ए\"〉 आज भी ताइवान द्वारा सत्ता की हिंसा का प्रतिरोध करने का सांस्कृतिक प्रतीक है।",
+    "title": "लाई हो: स्थानीय पहनावे वाले \"चांगहुआ माज़ू\", और उनका कभी न झुकने वाला तराजू",
+    "description": "1943 के चंद्र नव वर्ष से पहले, चांगहुआ के प्रसिद्ध चिकित्सक लाई हो (Lai Ho) गरीब मरीजों के ऋण बिल जला दिया करते थे। \"ताइवान के नए साहित्य के पिता\" कहे जाने वाले इस चिकित्सक ने औपनिवेशिक दमन के बीच सर्जरी से जीवन बचाया और कलम को हथियार बनाकर अन्याय के विरुद्ध आवाज उठाई। उनकी रचना 〈एक तराजू〉 (Yi Gan \"Cheng-zai\") आज भी सत्ता की हिंसा के खिलाफ ताइवान का एक सांस्कृतिक प्रतीक है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/lai-ho-father-of-taiwanese-literature",
-    "readingTime": 38,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-04-28",
     "path": "hi/People/lai-ho-father-of-taiwanese-literature.md"
@@ -163299,6 +163804,17 @@
     "path": "hi/People/lin-chia-chen-singer.md"
   },
   {
+    "title": "लिन ज्युन-जे: 1981 में सिंगापुर में जन्मे, \"जियांगनान\" से JJ20 तक मंदारिन संगीत के रचनाकार सम्राट",
+    "description": "1981 में सिंगापुर में जन्मे, उन्होंने 1999 में हैडी म्यूज़िक (Hadi Music) के प्रशिक्षण कार्यक्रम से शुरुआत की। उनके दो एल्बमों, \"द ट्रैवलर\" (2003) और \"सेकंड हेवन\" (2004) ने एशिया में क्रमशः 1.2 मिलियन और 1.8 मिलियन से अधिक प्रतियां बेचीं। उन्होंने गोल्डन रिकॉर्ड अवार्ड्स में सर्वश्रेष्ठ नए कलाकार और दो बार सर्वश्रेष्ठ मंदारिन पुरुष गायक का पुरस्कार जीता है। JJ20 वर्ल्ड टूर के तहत 2022 से 2024 के बीच उन्होंने 77 शो किए।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/jj-lin-singaporean-mandopop-king.md"
+  },
+  {
     "title": "लिन पाई-ली (बैरी लैम)： शंघाई 1949, क्वांटा कंप्यूटर के संस्थापक और 20 वर्षों से कैंसर से लड़ते हुए नोटबुक ODM के बादशाह",
     "description": "1949/4/24 को शंघाई में जन्मे। 1988 में सी.सी. लिआंग आदि के साथ क्वांटा कंप्यूटर की स्थापना की। 2005 में फेफड़ों के एडेनोकार्सिनोमा का निदान (20+ वर्षों से कैंसर से लड़ रहे)। क्वांटा का 2025 राजस्व 2 ट्रिलियन NTD पार, NVIDIA का महत्वपूर्ण AI सर्वर भागीदार, Fortune 500। बेटे के उत्तराधिकार का मुद्दा चर्चा में। 2026 में अभी भी अध्यक्ष।",
     "category": "hi",
@@ -163354,12 +163870,12 @@
     "path": "hi/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md"
   },
   {
-    "title": "लिन यू-टिंग: शिंझुआंग के भूमिगत मुक्केबाजी जिम से पेरिस ओलंपिक स्वर्ण तक, एकाकी मुक्केबाजी रानी और उसके द्वारा उठाया गया पूरा ताइवान",
-    "description": "11 अगस्त 2024 को, पेरिस के रोलां गैरोस स्टेडियम में, लिन यू-टिंग ने ताइवान के ओलंपिक इतिहास में पहली मुक्केबाजी स्वर्ण पदक जीती। यिंगगे जूनियर हाई के भूमिगत मुक्केबाजी जिम से शुरू करके, वह टोक्यो ओलंपिक की हार, सेमीफाइनल में प्रतिद्वंद्वी के \"X\" इशारे की उकसावे, अंतरराष्ट्रीय राजनीतिक जोड़तोड़ और वैश्विक सीमा-पार साइबर धमकी से गुजरी। यह लेख उनके \"जादूगर\" दर्शन, लंबे समय के स्पारिंग पार्टनर ली चेंग-वेई के पर्दे के पीछे के योगदान, तकनीकी विकास, लिंग विज्ञान, कल्चर यूनिवर्सिटी में शिक्षण पद, सामाजिक एकजुटता और मुक्केबाजी की चार रानियों की क्रांतिकारी भावना का गहन विश्लेषण करता है, और 2026 में वर्ल्ड बॉक्सिंग द्वारा उनकी भागीदारी योग्यता की आधिकारिक मान्यता की नवीनतम ऐतिहासिक प्रगति को शामिल करता है।",
+    "title": "लिन युटिंग: यिंगगे जूनियर हाई स्कूल की मुक्केबाजी टीम से पेरिस ओलंपिक स्वर्ण पदक तक",
+    "description": "अगस्त 2024 में, लिन युटिंग ने पेरिस ओलंपिक महिला 57 किग्रा वर्ग के स्वर्ण पदक मुकाबले में पोलैंड की खिलाड़ी को 5-0 से हराकर ताइवान के लिए मुक्केबाजी में पहला ओलंपिक स्वर्ण पदक जीता। यह लेख उनके यिंगगे जूनियर हाई स्कूल की मुक्केबाजी टीम से शुरुआत करने, टोक्यो ओलंपिक में हार, 2023 विश्व मुक्केबाजी चैंपियनशिप में कांस्य पदक रद्द होने और पेरिस ओलंपिक के दौरान लिंग संबंधी विवादों के साथ-साथ स्वर्ण पदक जीतने के बाद उनके शिक्षण करियर, पुरस्कारों और 2026 की प्रतियोगिताओं की वर्तमान स्थिति का विवरण देता है; प्रत्येक दावे के साथ स्रोत संलग्न हैं।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/lin-yu-ting-boxer",
-    "readingTime": 68,
+    "readingTime": 105,
     "featured": false,
     "date": "2026-08-12",
     "path": "hi/People/lin-yu-ting-boxer.md"
@@ -169282,6 +169798,24 @@
     "path": "ko/Society/poisoned-potato-cognitive-warfare-taiwan.md"
   },
   {
+    "title": "동녕왕국: 21년, 국호에 타이완을 새긴 왕조",
+    "description": "1662년 2월, 네덜란드 장관 규일이 열란차성에서 열쇠를 넘겨주자 정성공은 이 섬을 '동녕'으로 바꾸었다. 이후 21년간 정씨는 일부 이주 삼사를 두고, 군대를 곳곳에 둔전시키고, 진영화에게 국정을 맡겼으며, 일본 및 영국 동인도회사와 통상했다. 1683년 7월 팽호 해전에서 시랑이 유국헌의 수군을 격파하고, 10월 정극상이 청에 항복하면서 동녕은 역사가 되었다.",
+    "category": "ko",
+    "tags": [
+      "명정",
+      "동녕왕국",
+      "정성공",
+      "정경",
+      "진영화",
+      "팽호 해전"
+    ],
+    "url": "https://taiwan.md/ko/history/tungning-kingdom",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/History/tungning-kingdom.md"
+  },
+  {
     "title": "동물원과 전시 동물의 윤리",
     "description": "철장 속 코끼리에서 Xpark 수모 벽까지—대만이 전시 동물과의 관계를 재정의하다",
     "category": "ko",
@@ -169506,6 +170040,24 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/People/lai-ching-te.md"
+  },
+  {
+    "title": "라이허: 본도삼(本島衫)을 입은 '창화 마조', 그리고 타협하지 않는 그의 저울",
+    "description": "1943년 설 전날, 창화의 명의 라이허는 가난한 환자들의 미납 영수증을 관례대로 태웠다. '타이완 신문학의 아버지'로 불리는 이 의사는 식민 지배의 압박 속에서 메스로 사람을 구하고 펜을 검 삼아 불의를 비판했으며, 그의 작품 〈저울(一桿「稱仔」)〉은 오늘날까지 권력의 폭력에 저항하는 타이완의 문화적 상징으로 남아 있다.",
+    "category": "ko",
+    "tags": [
+      "라이허",
+      "타이완 문학",
+      "창화",
+      "일제강점기",
+      "의료사",
+      "사회 운동"
+    ],
+    "url": "https://taiwan.md/ko/people/lai-ho-father-of-taiwanese-literature",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "ko/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
     "title": "란위 생태계: 쿠로시오 해류 접경지의 생명 암호",
@@ -170112,12 +170664,12 @@
     "path": "ko/People/lin-yang-min.md"
   },
   {
-    "title": "린위팅(林郁婷): 신좡의 지하 권투장부터 파리 올림픽 금메달까지, 고독한 권투 여제와 그녀가 짊어진 타이완 전체",
-    "description": "2024년 8월 11일, 파리 롤랑 가로스 경기장에서 린위팅은 압도적인 기량으로 타이완 복싱 역사상 첫 올림픽 금메달을 목에 걸었다.",
+    "title": "린위팅: 잉거 국립중학교 복싱팀에서 파리 올림픽 금메달까지",
+    "description": "2024년 8월, 린위팅은 파리 올림픽 여자 57kg급 금메달 결정전에서 폴란드 선수를 5-0으로 격파하며 대만에 첫 올림픽 복싱 금메달을 안겼습니다. 본문은 그녀가 잉거 국립중학교 복싱팀에서 시작해 도쿄 올림픽의 패배, 2023년 세계 선수권 대회 동메달 취소 및 파리 올림픽 기간 중 발생한 성별 논란, 그리고 금메달 획득 후의 교직 활동, 수상 내역 및 2026년 경기 근황을 정리하였으며 각 내용은 출처를 포함하고 있습니다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/lin-yu-ting-boxer",
-    "readingTime": 33,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-08-12",
     "path": "ko/People/lin-yu-ting-boxer.md"
@@ -170171,6 +170723,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ko/People/lin-chia-chen-singer.md"
+  },
+  {
+    "title": "린쥔지에(JJ Lin): 1981년 싱가포르 출생, 〈강남〉에서 JJ20까지의 화어권 싱어송라이터 황제",
+    "description": "1981년 싱가포르 출생. 1999년 해蝶(HIM) 레코드 트레이닝 클래스를 통해 데뷔했다. 《樂行者》(2003), 《第二天堂》(2004) 두 앨범은 아시아에서 각각 120만 장과 180만 장 이상의 판매고를 올렸으며, 골든차이니즈뮤직어워드(金曲獎)에서 신인상과 최우수 국어 남성 가수상을 두 차례 수상했다. JJ20 월드 투어는 2022년부터 2024년까지 총 77회 공연을 진행했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
     "title": "린징야오(林經堯): 태극 운수에서 알고리즘까지, 그가 「존재하지만 보이지 않는 것」으로 답하다",
@@ -171978,6 +172541,17 @@
     "path": "ko/Society/taiwan-tv-content-rating-system.md"
   },
   {
+    "title": "스페인의 타이완 북부 16년: 허핑다오에서 단수이까지의 식민 시도",
+    "description": "1626년 5월, 스페인 함대가 마닐라에서 북상하여 지룽항에 상륙하고 허핑다오(和平島)에 산 살바도르 성을 건설했다. 16년 동안 그들은 단수이에 산토 도밍고 성을 세우고, 타이베이 분지로 탐사대를 파견하며 가람(噶瑪蘭)족과 충돌했으나, 줄곧 마닐라의 보조에 의지해 주둔군을 유지했다. 1642년 8월, 네덜란드군이 지룽을 함락하자 스페인은 타이완에서 철수했으며, 남은 것은 지명과 몇 구간의 성벽뿐이었다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/History/spanish-northern-taiwan-1626-1642.md"
+  },
+  {
     "title": "승리로(勝利路)의 두 얼굴: 기갑병 정변부터 '대형 주차장'까지, 후커우의 기억",
     "description": "신주(新竹) 후커우 승리로, 병영 담장 한쪽에는 전차와 정치적 폭풍이, 다른 한쪽에는 민가와 복지사, 그리고 사라진 영화관이 있다. 이 글은 이웃과 사고, 그리고 사회 정의에 관한 지역사이다.",
     "category": "ko",
@@ -172897,6 +173471,23 @@
     "path": "ko/People/lien-ying.md"
   },
   {
+    "title": "열란차성: 한 성채의 네 가지 이름",
+    "description": "1624년, 네덜란드인들이 타이난 대원에서 한 요새를 재건해 처음엔 오란치성, 2년 후 열란차성이라 불렀다. 1662년 정성공이 9개월간 포위한 끝에 네덜란드 장관 코이타가 열쇠를 넘기며 이곳은 명정의 왕성이 되었다. 청대에 성벽이 헐려 억재금성을 짓는 데 쓰였고, 일제강점기 내성이 깎여 평탄해졌으며, 2022년 문화부가 잔적을 합병해 '열란차보 유구'로 개명했다. 네 개의 이름, 네 시기의 통치.",
+    "category": "ko",
+    "tags": [
+      "열란차성",
+      "안핑고보",
+      "네덜란드 동인도 회사",
+      "정성공",
+      "국정고적"
+    ],
+    "url": "https://taiwan.md/ko/history/fort-zeelandia",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/History/fort-zeelandia.md"
+  },
+  {
     "title": "염수 봉포: 한 포성 도시, 어떻게 역병의 기억을 염수 거리 위에 남겼는가",
     "description": "염수 봉포는 단순한 원소절 밤의 불꽃놀이 기적이 아니라, 관제 신앙, 포성 공예, 지역 협력 및 공공 안전이 함께 지탱하는 대만의 민속이다.",
     "category": "ko",
@@ -173742,7 +174333,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/society/medical-care-act",
-    "readingTime": 141,
+    "readingTime": 140,
     "featured": false,
     "date": "2026-07-15",
     "path": "ko/Society/medical-care-act.md"
@@ -175829,12 +176420,12 @@
     "path": "ko/People/chen-yu-hsun-taiwan-comedy-film-magician.md"
   },
   {
-    "title": "천잉전: 주난에서 베이징까지 이어진 통일파 문학의 양심",
-    "description": "천잉전(1937–2016)은 본명 천융산으로, 먀오리 주난에서 태어나 잉거에서 성장했다. 1964년 〈장군족〉에서 외성인 퇴역 노병과 대만 미성년 성매매 여성의 비극을 그려 이름을 알렸고, 1968년 「민주대만연맹 사건」으로 징역 10년을 선고받았다(1975년 장제스 사망 특사로 조기 출옥). 1985년 《인간》 잡지를 창간해 대만 르포르타주 문학의 선구를 열었다. 1988년 중국통일연맹을 창립하고 초대 주석을 맡았으며, 2006년 뇌졸중 이후 베이징으로 이주했고 2016년 베이징에서 병사했다. 그는 대만 전후 문학에서 가장 논쟁적인 통일파 작가이자, 향토문학 논쟁에 「쉬난춘」이라는 필명으로 개입한 핵심 이론가였다.",
+    "title": "천잉전: 주난에서 베이징까지, 통파(統派) 문학의 양심",
+    "description": "천잉전(1937–2016, 본명 천융산)은 타이완 전후 가장 논쟁적인 작가이자 중국 통일을 주장한 지식인이다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/chen-yingzhen",
-    "readingTime": 33,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/chen-yingzhen.md"
@@ -176752,6 +177343,24 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "ko/Technology/taiwan-tech-storytelling.md"
+  },
+  {
+    "title": "타이완 기술 컨퍼런스 문화: COSCUP에서 HITCON까지의 연례적 이동",
+    "description": "타이완에는 매년 정기적으로 열리는 기술 컨퍼런스가 있다. 2006년부터 오픈 소스 커뮤니티가 공동 주최해 온 COSCUP, 학생들이 13년 동안 운영하며 14,000명의 참가자를 모은 SITCON, 그리고 2005년부터 시작되어 커뮤니티와 기업, 보안 경진대회 등으로 세분화된 HITCON이 그 주인공이다. 이 컨퍼런스들은 대부분 무보수 자원봉사자들이 주도하며 후원을 통해 운영되는데, 연사·자원봉사자·학생들이 동일한 장소를 순환하며 타이완 특유의 기술 생태계 시즌을 형성한다.",
+    "category": "ko",
+    "tags": [
+      "COSCUP",
+      "SITCON",
+      "HITCON",
+      "오픈 소스",
+      "컨퍼런스",
+      "자원봉사"
+    ],
+    "url": "https://taiwan.md/ko/technology/taiwan-tech-conference-culture",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ko/Technology/taiwan-tech-conference-culture.md"
   },
   {
     "title": "타이완 기업: 델타 일렉트로닉스 (台達電子)",
@@ -181020,6 +181629,28 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Economy/taiwan-startup-ecosystem-overview.md"
+  },
+  {
+    "title": "スペイン北台湾十六年：平和島から淡水への植民地化の試み",
+    "description": "1626年5月、スペイン艦隊がマニラから北上し、キールン港に上陸、平和島にサン・サルバドル城を築いた。十六年間、彼らは淡水にサント・ドミンゴ城を建設し、台北盆地へ探検隊を派遣し、カバラン族と衝突したが、常にマニラからの補助金で駐軍を維持していた。1642年8月、オランダ軍がキールンを陥落させ、スペインは台湾から撤退し、地名といくつかの城壁だけを残した。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/history/spanish-northern-taiwan-1626-1642",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/History/spanish-northern-taiwan-1626-1642.md"
+  },
+  {
+    "title": "ゼーランディア城：一つの城が持つ四つの名前",
+    "description": "1624年、オランダ人が台南の大員に要塞を再建し、当初はオルラニエ城と名付けられたが、2年後にゼーランディア城へと改名された。1662年には鄭成功による9ヶ月間の包囲戦を経て、オランダ総督が鍵を引き渡し、明鄭の王城となった。清代には城壁が取り壊され億載金城の建設に用いられ、日本統治時代には内城が平らにならされた。2022年、文化部はこれらの遺構を統合し「ゼーランディア堡遺構」と改称した。四つの名前は、四つの統治時代を象徴している。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/history/fort-zeelandia",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-10-20",
+    "path": "ja/History/fort-zeelandia.md"
   },
   {
     "title": "セイラン：注目されて有名になり、注目されることで台湾を去る",

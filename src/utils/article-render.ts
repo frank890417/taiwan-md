@@ -380,6 +380,29 @@ renderer.image = ({ href, title, text }) => {
 const _esc = (s: string) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
+// `processFootnotes()` 跑在模組 fence 之前，所以 fence 的 text slot 拿到的字串裡
+// 腳註**已經是** `<sup id="fnref-N">…</sup>` HTML。再走一次 `_esc()`，`<` 變 `&lt;`，
+// 讀者在時間軸／對比／數字卡裡看到的是一串字面 tag，點不到也沒有文末條目
+// （issue #1890：全庫 451 檔 / 2,151 處）。
+//
+// 修法刻意**不是**寫一個「escape 但保留 HTML」的通用函式：`_esc` 是這個 renderer 的
+// HTML 注入邊界，全檔 96 個呼叫點，開一道通用白名單等於在每個 slot 上開縫。
+// 這裡只還原 `processFootnotes()` 自己印出來的那一個精確字樣——形狀固定、由我們
+// 自己生成，label 限不含空白與引號、num 限數字，其餘一律維持 escaped。
+//
+// ⚠️ 只能用在**文字內容** slot，不能用在屬性值（`aria-label="…"` / `alt="…"` /
+// `data-tw-note="…"`）：還原出來的 `<sup>` 自己帶雙引號，塞進屬性會把屬性提早收掉。
+// 屬性位置一律繼續用 `_esc`。
+const _FN_REF_ESCAPED =
+  /&lt;sup id="(fnref-[^\s"<>&]+)"&gt;&lt;a href="#(fn-[^\s"<>&]+)" class="footnote-ref" aria-label="([^"<>&]*)"&gt;(\d+)&lt;\/a&gt;&lt;\/sup&gt;/g;
+
+const _escText = (s: string) =>
+  _esc(s).replace(
+    _FN_REF_ESCAPED,
+    (_m, supId, fnId, aria, num) =>
+      `<sup id="${supId}"><a href="#${fnId}" class="footnote-ref" aria-label="${aria}">${num}</a></sup>`,
+  );
+
 function renderTwModule(lang: string, raw: string): string {
   let lines = raw
     .split('\n')
@@ -410,7 +433,7 @@ function renderTwModule(lang: string, raw: string): string {
   });
   if (lines.length === 0 && !src) return '';
   const _src = src
-    ? `<p class="tw-mod-src">${_esc(_locale.srcPrefix)}${_esc(src)}</p>`
+    ? `<p class="tw-mod-src">${_esc(_locale.srcPrefix)}${_escText(src)}</p>`
     : '';
 
   // 跨模組「標題」列：資料模組第一列若不含 `|` 視為模組標題（graph.md：標題說 takeaway）。
@@ -522,7 +545,7 @@ function renderTwModule(lang: string, raw: string): string {
     const body = rows
       .map((r) => {
         const [l = '', rr = ''] = r.split('|').map((s) => s.trim());
-        return `<div class="tw-versus-row"><div class="tw-versus-cell">${tagA}${_esc(l)}</div><div class="tw-versus-cell">${tagB}${_esc(rr)}</div></div>`;
+        return `<div class="tw-versus-row"><div class="tw-versus-cell">${tagA}${_escText(l)}</div><div class="tw-versus-cell">${tagB}${_escText(rr)}</div></div>`;
       })
       .join('');
     return (
@@ -591,10 +614,12 @@ function renderTwModule(lang: string, raw: string): string {
           .split('|')
           .map((s) => s.trim());
         return (
-          `<div class="tw-timeline-item"><div class="tw-timeline-year">${_esc(year)}</div>` +
+          `<div class="tw-timeline-item"><div class="tw-timeline-year">${_escText(year)}</div>` +
           `<div class="tw-timeline-node"></div>` +
-          `<div class="tw-timeline-content"><div class="tw-timeline-title">${_esc(t)}</div>` +
-          (desc ? `<div class="tw-timeline-desc">${_esc(desc)}</div>` : '') +
+          `<div class="tw-timeline-content"><div class="tw-timeline-title">${_escText(t)}</div>` +
+          (desc
+            ? `<div class="tw-timeline-desc">${_escText(desc)}</div>`
+            : '') +
           `</div></div>`
         );
       })
@@ -610,9 +635,9 @@ function renderTwModule(lang: string, raw: string): string {
           .split('|')
           .map((s) => s.trim());
         return (
-          `<div class="tw-stat-card"><div class="tw-stat-val">${_esc(val)}</div>` +
-          (label ? `<div class="tw-stat-label">${_esc(label)}</div>` : '') +
-          (note ? `<div class="tw-stat-note">${_esc(note)}</div>` : '') +
+          `<div class="tw-stat-card"><div class="tw-stat-val">${_escText(val)}</div>` +
+          (label ? `<div class="tw-stat-label">${_escText(label)}</div>` : '') +
+          (note ? `<div class="tw-stat-note">${_escText(note)}</div>` : '') +
           `</div>`
         );
       })
@@ -678,9 +703,9 @@ function renderTwModule(lang: string, raw: string): string {
     const qt = q.replace(/^[「『]/, '').replace(/[」』]$/, '');
     const [name = '', role = ''] = by.split('|').map((s) => s.trim());
     const byHtml = name
-      ? `<figcaption class="tw-quote-by"><b>${_esc(name)}</b>${role ? `，${_esc(role)}` : ''}</figcaption>`
+      ? `<figcaption class="tw-quote-by"><b>${_escText(name)}</b>${role ? `，${_escText(role)}` : ''}</figcaption>`
       : '';
-    return `<figure class="tw-quote"><blockquote class="tw-quote-text">${_esc(qt)}</blockquote>${byHtml}</figure>${_src}`;
+    return `<figure class="tw-quote"><blockquote class="tw-quote-text">${_escText(qt)}</blockquote>${byHtml}</figure>${_src}`;
   }
 
   if (lang === 'tw-source') {
@@ -1557,7 +1582,7 @@ function renderTwModule(lang: string, raw: string): string {
     }
     if (lines.length === 0) return '';
     const warn = kind === '註' || kind === '更正';
-    const bodyHtml = lines.map((l) => `<p>${_esc(l)}</p>`).join('');
+    const bodyHtml = lines.map((l) => `<p>${_escText(l)}</p>`).join('');
     return `<aside class="tw-note${warn ? ' tw-note--warn' : ''}"><span class="tw-note-chip">【${_esc(kind)}】</span><div class="tw-note-body">${bodyHtml}</div></aside>${_src}`;
   }
 

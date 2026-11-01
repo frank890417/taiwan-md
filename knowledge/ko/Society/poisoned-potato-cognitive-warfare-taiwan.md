@@ -314,7 +314,7 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ---
 
-##延伸阅读
+## 더 읽을거리
 
 - [인지전](/ko/society/cognitive-warfare-against-taiwan) — 공산당 정보 조작의 전체 프레임과 대만 사회 반제 메커니즘
 - [2026 정습회와 국공 10년 재회](/ko/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 동시 양안 관계의 다른 inflection point
@@ -325,7 +325,7 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ---
 
-## 图片来源
+## 이미지 출처
 
 - **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
 - **Inline §200ppm 단락**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)

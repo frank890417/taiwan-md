@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1148 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,924 article-versions
+- 📖 **1152 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,976 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,28 +95,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1148  |
-| 🇹🇼 Chinese (zh-TW)             | 1148  |
-| 🇺🇸 English (en)                | 1150  |
-| 🇯🇵 日本語 (ja)                 | 1150  |
-| 🇰🇷 한국어 (ko)                 | 1150  |
-| 🇪🇸 Español (es)                | 1150  |
-| 🇫🇷 Français (fr)               | 1150  |
-| 🇻🇳 Tiếng Việt (vi)             | 1150  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1150  |
-| 🇵🇹 Português (pt)              | 1150  |
-| 🇮🇳 हिन्दी (hi)                 | 1150  |
-| 🇸🇦 العربية (ar)                | 1150  |
-| 🇷🇺 Русский (ru)                | 1150  |
-| 🌐 Deutsch (de)                | 1150  |
+| 📄 Total articles (zh-TW SSOT) | 1152  |
+| 🇹🇼 Chinese (zh-TW)             | 1152  |
+| 🇺🇸 English (en)                | 1154  |
+| 🇯🇵 日本語 (ja)                 | 1154  |
+| 🇰🇷 한국어 (ko)                 | 1154  |
+| 🇪🇸 Español (es)                | 1154  |
+| 🇫🇷 Français (fr)               | 1154  |
+| 🇻🇳 Tiếng Việt (vi)             | 1154  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1154  |
+| 🇵🇹 Português (pt)              | 1154  |
+| 🇮🇳 हिन्दी (hi)                 | 1154  |
+| 🇸🇦 العربية (ar)                | 1154  |
+| 🇷🇺 Русский (ru)                | 1154  |
+| 🌐 Deutsch (de)                | 1154  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 80    |
-| ⭐ GitHub Stars                | 1228  |
+| ⭐ GitHub Stars                | 1231  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 43    |
-| 📅 Articles last 30 days       | 187   |
+| 📅 Articles last 7 days        | 51    |
+| 📅 Articles last 30 days       | 193   |
 
 <!-- STATS:END -->
 
@@ -603,27 +603,27 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4" width="100px;" alt=""/><br /><sub><b>weilin lai</b></sub></a><br />💻 🐛</td>
     <td align="center"><a href="https://github.com/audreyt"><img src="https://avatars.githubusercontent.com/u/20723?v=4" width="100px;" alt=""/><br /><sub><b>audreyt</b></sub></a><br />💻 🌍</td>
+    <td align="center"><a href="https://github.com/CKS40660"><img src="https://avatars.githubusercontent.com/u/118961951?v=4" width="100px;" alt=""/><br /><sub><b>CKS40660</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/ting-hong-shieh"><img src="https://avatars.githubusercontent.com/u/32212900?v=4" width="100px;" alt=""/><br /><sub><b>ting-hong-shieh</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="100px;" alt=""/><br /><sub><b>Ray Tien</b></sub></a><br />💻 🖋️</td>
-    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
+    <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/LucasFutures"><img src="https://avatars.githubusercontent.com/u/339159617?v=4" width="100px;" alt=""/><br /><sub><b>LucasFutures</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
+    <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="100px;" alt=""/><br /><sub><b>Ray Tien</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/wegoliao"><img src="https://avatars.githubusercontent.com/u/10190551?v=4" width="100px;" alt=""/><br /><sub><b>wegoliao</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/kwt-klure"><img src="https://avatars.githubusercontent.com/u/53093680?v=4" width="100px;" alt=""/><br /><sub><b>kwt-klure</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/jessejs0202"><img src="https://avatars.githubusercontent.com/u/247524286?v=4" width="100px;" alt=""/><br /><sub><b>jessejs0202</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/benben6515"><img src="https://avatars.githubusercontent.com/u/61361198?v=4" width="100px;" alt=""/><br /><sub><b>benben6515</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/siansiansu"><img src="https://avatars.githubusercontent.com/u/33391637?v=4" width="100px;" alt=""/><br /><sub><b>siansiansu</b></sub></a><br />💻 🖋️</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/siansiansu"><img src="https://avatars.githubusercontent.com/u/33391637?v=4" width="100px;" alt=""/><br /><sub><b>siansiansu</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/Lisa123wang"><img src="https://avatars.githubusercontent.com/u/103297468?v=4" width="100px;" alt=""/><br /><sub><b>Lisa</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/Johnwang860424"><img src="https://avatars.githubusercontent.com/u/43649946?v=4" width="100px;" alt=""/><br /><sub><b>Johnwang</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/jekyll530"><img src="https://avatars.githubusercontent.com/u/150101610?v=4" width="100px;" alt=""/><br /><sub><b>jekyll530</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/f312213213"><img src="https://avatars.githubusercontent.com/u/71749524?v=4" width="100px;" alt=""/><br /><sub><b>David</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/Yo0GuitarIT"><img src="https://avatars.githubusercontent.com/u/118150842?v=4" width="100px;" alt=""/><br /><sub><b>Chen Yu Ling</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/CKS40660"><img src="https://avatars.githubusercontent.com/u/118961951?v=4" width="100px;" alt=""/><br /><sub><b>CKS40660</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/expectingshadowland-maker"><img src="https://avatars.githubusercontent.com/u/276374199?v=4" width="100px;" alt=""/><br /><sub><b>expectingshadowland-maker</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/jacky1822"><img src="https://avatars.githubusercontent.com/u/94786796?v=4" width="100px;" alt=""/><br /><sub><b>jacky1822</b></sub></a><br />🖋️</td>
   </tr>

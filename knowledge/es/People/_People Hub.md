@@ -122,43 +122,43 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[ang-lee]]​: El director de habla china más exitoso de Hollywood
-- [[tsmc-morris-chang]]​: El constructor del imperio TSMC
-- [[tsai-ing-wen]]​: La primera líder femenina elegida democráticamente en el mundo de habla china
-- [[lin-hwai-min]]​: El líder espiritual de Cloud Gate Dance Theatre
-- [[lee-yuan-tseh]]​: El primer ganador del Premio Nobel de Taiwán
-- [[hou-hsiao-hsien]]​: El director poeta del Nuevo Cine Taiwanés
-- [[tai-tzu-ying]]​: La reina taiwanesa del bádminton mundial
-- [[施振榮]]​: Pionero de la internacionalización de marcas taiwanesas
-- [[terry-gou]]​: Creador del reino global de fabricación por contrato
-- [[audrey-tang]]​: Promotora de la democracia digital
-- [[kuo-hsing-chun-olympic-weightlifting-champion]]​: Medalla de oro olímpica en levantamiento de pesas de Tokio, poseedora de tres récords olímpicos
-- [[El Dúo Lin-Yang]]​: Primera medalla de oro olímpica en la historia del bádminton taiwanés
-- [[yang-yung-wei-judo-olympic-silver]]​: Primer ganador de medalla olímpica de judo taiwanés
-- [[Lee Chih-kai]]​: Medalla de plata en caballo con arcos, "Chico Voltereta"
-- [[齊柏林]]​: Director del documental aéreo "Beyond Beauty: Taiwan from Above"
-- [[Aaron Nieh]]​: Diseñador de Golden Melody Awards y diseño visual nacional
-- [[crowd-lu-indie-folk-treasure]]​: Rey de Golden Melody y actor versátil
-- [[andre-chiang-taiwanese-culinary-innovator]]​: Chef de los 50 mejores restaurantes del mundo
-- [[jensen-huang]]​: Fundador de NVIDIA, impulsor de la revolución de IA
-- [[lin-hwai-min]]​: Fundador de Cloud Gate Dance Theatre, gigante de la danza moderna asiática
-- [[李登輝]]​: "Sr. Democracia", impulsó la revolución silenciosa de democratización de Taiwán
-- [[Ta-You Wu]]​: Padre de la física china, cultivó a varios ganadores del Premio Nobel
-- [[施振榮]]​: Proponente de la teoría de la curva de la sonrisa, fundador de Acer
-- [[chien-ming-wang-mlb-sinker-ace]]​: As lanzador de los New York Yankees, leyenda de la bola sinker
-- [[陳偉殷]]​: Representante del béisbol taiwanés en Estados Unidos, 16 victorias en dos temporadas consecutivas de las Grandes Ligas
-- [[terry-gou]]​: Fundador del imperio Foxconn, el mayor fabricante electrónico por contrato del mundo
-- [[Stan Chang]]​: Padrino del turismo, dedicado a la educación en áreas remotas después de retirarse
-- [[annette-lu]]​: Pionera feminista taiwanesa, primera mujer vicepresidenta en el mundo de habla china
-- [[高俊明]]​: Pastor de derechos humanos, prisionero de conciencia durante el período de ley marcial
-- [[蔡依林]]​: Reina del pop asiático, reina de Golden Melody
-- [[mayday]]​: Sinónimo de rock en chino mandarín, mejor banda de Golden Melody
-- [[wei-te-sheng-taiwanese-epic-filmmaker]]​: Director de "Cape No. 7" y "Warriors of the Rainbow: Seediq Bale"
-- [[chen-shu-chu-vegetable-vendor-philanthropist]]​: Vendedora de verduras de Taitung, una de las 100 personas más influyentes de TIME
-- [[jimmy-liao]]​: Autor de libros ilustrados, obras internacionalmente conocidas como "Turn Left, Turn Right"
-- [[jeremy-lin]]​: Leyenda de "Linsanity" en la NBA, máxima visibilidad de atleta taiwanés-estadounidense
-- [[Ju Tzong-ching]]​: Padrino de la percusión, llevó lo minoritario a lo mainstream
-- [[kevin-lin-ultramarathon-desert-pioneer]]​: Aventurero taiwanés, primero en cruzar el desierto del Sahara
+- [[ang-lee]]: El director de habla china más exitoso de Hollywood
+- [[tsmc-morris-chang]]: El constructor del imperio TSMC
+- [[tsai-ing-wen]]: La primera líder femenina elegida democráticamente en el mundo de habla china
+- [[lin-hwai-min]]: El líder espiritual de Cloud Gate Dance Theatre
+- [[lee-yuan-tseh]]: El primer ganador del Premio Nobel de Taiwán
+- [[hou-hsiao-hsien]]: El director poeta del Nuevo Cine Taiwanés
+- [[tai-tzu-ying]]: La reina taiwanesa del bádminton mundial
+- [[施振榮]]: Pionero de la internacionalización de marcas taiwanesas
+- [[terry-gou]]: Creador del reino global de fabricación por contrato
+- [[audrey-tang]]: Promotora de la democracia digital
+- [[kuo-hsing-chun-olympic-weightlifting-champion]]: Medalla de oro olímpica en levantamiento de pesas de Tokio, poseedora de tres récords olímpicos
+- [[El Dúo Lin-Yang]]: Primera medalla de oro olímpica en la historia del bádminton taiwanés
+- [[yang-yung-wei-judo-olympic-silver]]: Primer ganador de medalla olímpica de judo taiwanés
+- [[Lee Chih-kai]]: Medalla de plata en caballo con arcos, "Chico Voltereta"
+- [[齊柏林]]: Director del documental aéreo "Beyond Beauty: Taiwan from Above"
+- [[Aaron Nieh]]: Diseñador de Golden Melody Awards y diseño visual nacional
+- [[crowd-lu-indie-folk-treasure]]: Rey de Golden Melody y actor versátil
+- [[andre-chiang-taiwanese-culinary-innovator]]: Chef de los 50 mejores restaurantes del mundo
+- [[jensen-huang]]: Fundador de NVIDIA, impulsor de la revolución de IA
+- [[lin-hwai-min]]: Fundador de Cloud Gate Dance Theatre, gigante de la danza moderna asiática
+- [[李登輝]]: "Sr. Democracia", impulsó la revolución silenciosa de democratización de Taiwán
+- [[Ta-You Wu]]: Padre de la física china, cultivó a varios ganadores del Premio Nobel
+- [[施振榮]]: Proponente de la teoría de la curva de la sonrisa, fundador de Acer
+- [[chien-ming-wang-mlb-sinker-ace]]: As lanzador de los New York Yankees, leyenda de la bola sinker
+- [[陳偉殷]]: Representante del béisbol taiwanés en Estados Unidos, 16 victorias en dos temporadas consecutivas de las Grandes Ligas
+- [[terry-gou]]: Fundador del imperio Foxconn, el mayor fabricante electrónico por contrato del mundo
+- [[Stan Chang]]: Padrino del turismo, dedicado a la educación en áreas remotas después de retirarse
+- [[annette-lu]]: Pionera feminista taiwanesa, primera mujer vicepresidenta en el mundo de habla china
+- [[高俊明]]: Pastor de derechos humanos, prisionero de conciencia durante el período de ley marcial
+- [[蔡依林]]: Reina del pop asiático, reina de Golden Melody
+- [[mayday]]: Sinónimo de rock en chino mandarín, mejor banda de Golden Melody
+- [[wei-te-sheng-taiwanese-epic-filmmaker]]: Director de "Cape No. 7" y "Warriors of the Rainbow: Seediq Bale"
+- [[chen-shu-chu-vegetable-vendor-philanthropist]]: Vendedora de verduras de Taitung, una de las 100 personas más influyentes de TIME
+- [[jimmy-liao]]: Autor de libros ilustrados, obras internacionalmente conocidas como "Turn Left, Turn Right"
+- [[jeremy-lin]]: Leyenda de "Linsanity" en la NBA, máxima visibilidad de atleta taiwanés-estadounidense
+- [[Ju Tzong-ching]]: Padrino de la percusión, llevó lo minoritario a lo mainstream
+- [[kevin-lin-ultramarathon-desert-pioneer]]: Aventurero taiwanés, primero en cruzar el desierto del Sahara
 
 ---
 

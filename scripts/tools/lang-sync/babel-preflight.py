@@ -357,8 +357,28 @@ def check_codex() -> dict:
     if not path:
         return {"available": False, "hint": "codex CLI 不在 PATH（訂閱層算力缺席）"}
     r = subprocess.run(["codex", "--version"], capture_output=True, text=True, timeout=20)
-    return {"available": r.returncode == 0, "path": path,
-            "version": (r.stdout or r.stderr).strip()[:60]}
+    version = (r.stdout or r.stderr).strip()[:60]
+    if r.returncode != 0:
+        return {"available": False, "path": path, "version": version}
+    # 版本號跟 `codex login status` 都量不到登入有沒有過期（2026-10-26 babel-nightly：
+    # 兩者都說正常，實際每次 exec 都 401「access token could not be refreshed」，
+    # 整夜的 Tier 1 掉到 nemotron 而判定照印 healthy）。這裡用 backend 同一條
+    # `codex exec` 路徑打一句極短的請求，量的是「這一層今晚翻不翻得動」。
+    try:
+        p = subprocess.run(["codex", "exec", "--skip-git-repo-check", "Reply with exactly: OK"],
+                           stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=120)
+    except subprocess.TimeoutExpired:
+        return {"available": False, "path": path, "version": version,
+                "hint": f"{version}，但試打一句 120 秒沒回（訂閱層算力缺席）"}
+    if p.returncode != 0:
+        err = p.stdout + p.stderr
+        if "401" in err or "sign in again" in err or "refreshed" in err:
+            why = "登入過期，要在這台機器重新 `codex login`（身份授權層，只有哲宇能補）"
+        else:
+            why = f"試打一句 exit={p.returncode}"
+        return {"available": False, "path": path, "version": version,
+                "hint": f"{version}，但{why}"}
+    return {"available": True, "path": path, "version": version}
 
 
 def main():
@@ -453,7 +473,7 @@ def main():
         elif tr.get("samples"):
             print(f"   ✅ 實績檢查  近兩日 {tr['samples']} 筆，無明顯弱適配")
         print(f"   {'✅' if cx.get('available') else '➖'} codex      "
-              f"{cx.get('version') or cx.get('hint')}")
+              f"{cx.get('hint') or cx.get('version')}")
         sr = report["slug_registration"]
         if sr.get("unslugged"):
             n = len(sr["unslugged"])

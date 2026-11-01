@@ -164,7 +164,7 @@ Joeman을 단순히 3C YouTuber로 부르면 그가 실제로 구축한 능력�
 
 **자료 검토 및 정리 날짜: 2026년 8월 16일.** 채널 구독자 수, 영상 수, 플랫폼 콘텐츠는 동적 자료이므로 원본 페이지의 최신 표시를 기준으로 해야 한다. 사법 단락은 중화중앙사, 연합보 및 관련 보도를 각각 기술하며, 미디어 평론을 사법 결론과 혼동하지 않는다.
 
-##延伸阅读
+## 더 읽을거리
 
 - [Joeman 공식 YouTube 채널](https://www.youtube.com/@joeman)
 - [Joeman: 마리화나 사건 사과 영상](https://www.youtube.com/watch?v=d0zhS5BccjI)

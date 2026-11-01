@@ -479,6 +479,8 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 
 **路徑清單收官要在 bash 裡跑**：Bash 工具的 shell 是 zsh，`git commit -- $FILES` 在 zsh 不會把變數拆成多個路徑，整串變成一個不存在的路徑而失敗（10-09、10-10 連兩班踩到，靠 `verify-commit-scope` 的檔數不符才看出沒 commit 進去）。包成 `bash -c '...'` 再跑。
 
+**拿共用 git 鎖用 `mkdir`、放鎖用 `rmdir`**（2026-10-25 twmd-data-refresh-am）：`/tmp/taiwan-md-git.lock` 是 babel dispatcher、push-every、pulse 共用的一把鎖，協定是「這個路徑上只會有目錄」。10-24 本 routine 收官時在那裡留下一個一般檔案，mkdir 從此對它永遠失敗、rmdir 永遠靜默失敗，babel 十九小時翻好的 34 篇譯文一篇都 commit 不進去，直到夜班造了 `lang-sync/gitlock.py` 才清掉。寫法：`for i in $(seq 1 60); do mkdir /tmp/taiwan-md-git.lock 2>/dev/null && break; sleep 5; done`，commit 完 `rmdir /tmp/taiwan-md-git.lock`，再 `ls` 一次確認路徑不在。不要用 `touch`、`>`、`flock` 這類會留下一般檔案的寫法。
+
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。
 
 _v2.3 | 2026-09-30 twmd-data-refresh-am — Step 11 加讀 `dashboard-build-perf.json` 的 `status`；`extract-build-perf.mjs` 自驗最新成功 run 年齡（>2 天換查詢重抓，仍舊寫 `stale-source`、exit 1）。觸發：當班最新 build 顯示 08-01，回查 git 歷史同症狀五次都以今天 mtime 過關。_

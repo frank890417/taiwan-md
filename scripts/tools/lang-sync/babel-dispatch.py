@@ -130,6 +130,7 @@ OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS, ENABLED_TRANSLATION_LANGS  # noqa: E402
+import gitlock  # noqa: E402 — 共用鎖路徑上的假鎖（一般檔案）先清再拿
 import status as status_lib  # noqa: E402 — reuse body_hash()/body_hash_pure() (same algo status.py uses)
 # OBSERVER-QUEUE #67（2026-10-10 哲宇拍板 B）：open-PR 過濾＋人寫的譯文不覆蓋。
 # 判斷邏輯全在 contributor_guard.py，這裡只在取 target 時問一句。
@@ -402,6 +403,7 @@ def git_lock_commit(lang: str, worker_labels: set, files: list, log: Logger) -> 
        reformat. Recovery now goes through restore_head_or_quarantine() too.
     """
     n_files = len(files)
+    gitlock.clear_impostor(log)
     tries = 0
     while True:
         try:
@@ -411,7 +413,7 @@ def git_lock_commit(lang: str, worker_labels: set, files: list, log: Logger) -> 
             tries += 1
             if tries > 120:
                 log(f"🔴 git lock timeout, skipping commit this round ({lang})")
-                return False
+                return None   # 跟 commit 失敗（False）分開：呼叫端會把這批放回待 commit
             time.sleep(1)
 
     try:
@@ -1382,7 +1384,16 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
         files.append(str(HUMAN_STALE_PROPOSALS.relative_to(REPO)))
     subprocess.run(["python3", "scripts/tools/sync-translations-json.py"], cwd=REPO, capture_output=True, text=True)
     subprocess.run(["python3", "scripts/tools/lang-sync/status.py"], cwd=REPO, capture_output=True, text=True)
-    git_lock_commit(lang, workers, files, log)
+    if git_lock_commit(lang, workers, files, log) is None:
+        # 等不到鎖時這批譯文已驗過、在工作樹上、status 也算它 fresh，不放回待 commit 就
+        # 再也沒有路徑會 commit 它（2026-10-24 鎖路徑被一般檔案佔住十九小時，34 篇這樣變成孤兒）
+        derived = {str(FAIL_MEMO.relative_to(REPO)), str(HUMAN_STALE_PROPOSALS.relative_to(REPO))}
+        with state.lock:
+            state.pending_ok[lang] += n
+            state.pending_workers[lang] |= workers
+            state.pending_files[lang].extend(f for f in files if f not in derived)
+            state.pending_since.setdefault(lang, time.monotonic())
+        log(f"↩️  {lang} 的 {n} 篇放回待 commit，下次 flush 再試")
 
 
 PATCH_REJECT_ESCALATE = 5

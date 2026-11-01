@@ -1,142 +1,142 @@
 ---
-title: 'Trần Ánh Chân: Từ Chúc Nam đến Bắc Kinh của những nhà văn độc lập thống nhất'
-description: 'Trần Ánh Chân (1937–2016), tên khai sinh Trần Vĩnh Thiện, sinh tại Chúc Nam, Miêu Lật, lớn lên ở Anh Ca. Năm 1964, tác phẩm "Tộc Lính Tướng" nổi tiếng qua tragedia giữa một cựu binh lão Đại lục bị mưu sinh bằng nhạc và một cô gái trẻ bị bán thành mại dâm của Đài Loan. Năm 1968 vì "Vụ Liên Minh Dân chủ Đài Loan" bị kết án 10 năm (1975 được ân xá khi Tưởng Giới Thạch qua đời). Năm 1985 sáng lập Tạp chí Nhân Gian khai phá tiên phong báo cáo văn học Đài Loan. Năm 1988 thành lập Liên Minh Thống nhất Trung Quốc và làm chủ tịch đầu tiên, năm 2006 bị tai biến giữa đường và chuyển cư Bắc Kinh, năm 2016 qua đời tại Bắc Kinh. Ông là một trong những nhà văn tranh cãi nhất và có ảnh hưởng sâu sắc thế kỳ sau chiến tranh Đài Loan, đồng thời là một nhà lý thuyết chủ chốt trong cuộc tranh luận văn học địa phương với bút danh "Hứa Nam Thôn".'
+title: 'Trần Ánh Chân: Lương tâm văn học phái Thống nhất từ Trúc Nam đến Bắc Kinh'
+description: 'Trần Ánh Chân (1937–2016), tên thật là Trần Vĩnh Thiện, sinh tại Trúc Nam, Miêu Lật và lớn lên tại Ưng Ca. Ông nổi tiếng với tác phẩm "Tướng quân tộc" (1964) viết về bi kịch giữa cựu binh ngoại tỉnh và gái mại dâm Đài Loan; từng bị kết án 10 năm tù vì "Vụ án Liên minh Dân chủ Đài Loan" (ra tù sớm năm 1975 nhờ đặc xá sau khi Tưởng Giới Thạch qua đời). Năm 1985, ông sáng lập tạp chí "Nhân gian", mở đường cho dòng văn học phóng sự tại Đài Loan. Năm 1988, ông cùng Hồ Thu Nguyên thành lập Liên minh Thống nhất Trung Quốc và giữ chức Chủ tịch đầu tiên. Ông định cư tại Bắc Kinh từ năm 2006, qua đời tại đây vào năm 2016. Ông là nhà văn phái Thống nhất gây tranh cãi nhất hậu chiến tại Đài Loan, đồng thời là đại diện tiêu biểu phản bác các quan điểm của Dư Quang Trung trong cuộc luận chiến về văn học hương thổ.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'nhân vật',
+    'Nhân vật',
     'Trần Ánh Chân',
-    'Tộc Lính Tướng',
-    'Sơn Lộ',
-    'chủ nghĩa hiện thực xã hội',
-    'văn học địa phương',
-    'thống nhất',
-    'Vụ Liên Minh Dân chủ Đài Loan',
+    'Tướng quân tộc',
+    'Sơn lộ',
+    'Chủ nghĩa hiện thực xã hội',
+    'Văn học hương thổ',
+    'Phái Thống nhất',
+    'Vụ án Liên minh Dân chủ Đài Loan',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-05-13
+lastVerified: 2026-10-24
 lastHumanReview: false
-why_this_hook: 'Trần Ánh Chân là một trong những nhà văn cánh tả ít ỏi của Đài Loan sau chiến tranh công khai chủ trương thống nhất Trung Quốc, quãng đời của ông vượt qua Khủng bố Trắng, cuộc tranh luận văn học địa phương, phong trào báo cáo văn học, cuối cùng định cư Bắc Kinh, là trường hợp chính để quan sát sự phân kỳ của những trí thức cánh tả Đài Loan thời hậu chiến.'
-whats_excluded: 'Bài này tập trung vào thành tích văn học và lập trường chính trị của Trần Ánh Chân. Không xét sâu: (1) Cách Trung Quốc đại lục tưởng niệm qua đời của ông với quy cách cao (năm 2016 thi hài được phủ cờ Đảng Cộng Sản Trung Quốc, đưa vào Lăng Cách Mệnh Bát Bảo Sơn, Tập Cận Bình gửi điện viếng thăm), (2) Các luận điểm phê phán của dòng địa phương Đài Loan (Diệp Thạch Thích, Phương Ruỹ Kim và những cuộc tranh luận lâu dài), (3) Những người bị cáo khác trong Vụ Liên Minh Dân chủ Đài Loan 1968 (Lý Tác Thành, Vũ Diệu Trung, Trần Thuật Khổng, Khỳ Diên Lương và 36 người khác) và số phận tiếp theo. Độc giả muốn hiểu rõ tính tranh cãi của Trần Ánh Chân cần đọc thêm tài liệu từ quan điểm dòng địa phương Đài Loan.'
-where_it_hedges: 'Lập trường chính trị của Trần Ánh Chân (thống nhất Trung Quốc) khác biệt đáng kể với ý kiến chủ lưu của đa số xã hội Đài Loan, bài viết lấy lời nói và tác phẩm của chính Trần Ánh Chân làm trục tường thuật, trình bày mạch suy nghĩ và quãng đường sáng tác của ông, không đánh giá tính đúng sai của lập trường của ông.'
+why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
+whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
+where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:f3b9ab94d7f541be'
-sourceBodyHash: 'sha256:8eae051539404383'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '1e1fa6d8b'
+sourceContentHash: 'sha256:3831859a15865550'
+sourceBodyHash: 'sha256:f7b35c999a33373c'
+translatedAt: '2026-10-25T00:44:32+08:00'
 ---
 
-# Trần Ánh Chân: Từ Chúc Nam đến Bắc Kinh của những nhà văn độc lập thống nhất
+# Trần Ánh Chân: Lương tâm văn học phái Thống nhất từ Trúc Nam đến Bắc Kinh
 
-> **Tổng quan 30 giây:** Trần Ánh Chân (1937–2016), tên khai sinh Trần Vĩnh Thiện, sinh năm 1937 tại huyện Chúc Nam, Miêu Lật, sau chuyển cư và lớn lên ở Anh Ca. Năm 1959 bắt đầu phát biểu bằng tác phẩm "Quán Mì", năm 1964 tác phẩm "Tộc Lính Tướng" nổi tiếng qua tragedia giữa một cựu binh lão gốc Đại lục "Mặt Tam Giác" và một cô gái trẻ mại dâm gốc Đài Loan "Gái Gầy Nhỏ" trong một đoàn nhạc giải trí. Năm 1968 vì "Vụ Liên Minh Dân chủ Đài Loan" bị bắt, bị kết án 10 năm, năm 1975 được ân xá khi Tưởng Giới Thạch qua đời, được thả sớm. Năm 1977-78 trong cuộc tranh luận văn học địa phương dùng bút danh "Hứa Nam Thôn" tham gia. Năm 1985 sáng lập Tạp chí Nhân Gian mở đường tiên phong báo cáo văn học Đài Loan. Năm 1988 thành lập Liên Minh Thống nhất Trung Quốc và làm chủ tịch đầu tiên, năm 2006 được bầu vào Hội đồng toàn quốc Hiệp hội Nhà văn Trung Quốc lần thứ bảy, cùng năm sau khi bị tai biến giữa đường chuyển cư Bắc Kinh, sau khi bị tai biến lần thứ hai năm 2010 nằm liệt giường lâu dài, năm 2016 ngày 22 tháng 11 qua đời tại Bắc Kinh.
+> **Tóm tắt trong 30 giây:** Trần Ánh Chân (1937–2016), tên thật là Trần Vĩnh Thiện, sinh năm 1937 tại trấn Trúc Nam, huyện Miêu Lật, sau đó chuyển đến Ưng Ca, huyện Đài Bắc để trưởng thành. Năm 1959, ông bắt đầu sự nghiệp với tác phẩm "Tiệm mì". Năm 1964, ông nổi danh qua truyện ngắn "Tướng quân tộc", kể về bi kịch của một cựu binh gốc đại lục tên "Mặt tam giác" và cô gái mại dâm Đài Loan "Tiểu sấu nha đầu" trong một ban nhạc giải trí. Năm 1968, ông bị bắt vì "Vụ án Liên minh Dân chủ Đài Loan" và bị kết án 10 năm tù; sau đó được ra tù sớm vào năm 1975 nhờ lệnh đặc xá sau khi Tưởng Giới Thạch qua đời. Trong cuộc luận chiến văn học hương thổ năm 1977-78, ông đã công bố các bài viết như "Điểm mù của văn học hương thổ" để phản bác Dư Quang Trung và những người khác. Năm 1985, ông sáng lập tạp chí "Nhân gian", mở đầu cho dòng văn học phóng sự tại Đài Loan. Năm 1988, ông cùng Hồ Thu Nguyên thành lập Liên minh Thống nhất Trung Quốc và giữ chức Chủ tịch đầu tiên. Năm 2006, ông định cư tại Bắc Kinh theo lời mời của Đại học Nhân dân Trung Quốc, cùng năm đó bị đột quỵ. Năm 2010, ông được bổ nhiệm làm Phó Chủ tịch danh dự Ủy ban Toàn quốc khóa VII của Hiệp hội Nhà văn Trung Quốc. Ông qua đời vì bệnh tại Bắc Kinh vào ngày 22 tháng 11 năm 2016.
 
-Trần Ánh Chân, một trong những nhà văn cánh tả tranh cãi nhất và có ảnh hưởng sâu sắc nhất trong lịch sử văn học thời hậu chiến Đài Loan. Tên khai sinh Trần Vĩnh Thiện, sinh năm 1937 tại huyện Chúc Nam, Miêu Lật, do hoàn cảnh gia đình chuyển cư và lớn lên ở Anh Ca, thị trấn Đài Bắc, quãng đời lớn lên vượt qua sự gián đoạn lịch sử giữa cuối thời Nhật trị và đầu thời kỳ hậu chiến. Ông bằng những tác phẩm như "Tộc Lính Tướng", "Sơn Lộ", "Toà nhà Washington" phân tích tâm lý thuộc địa Đài Loan, cấu trúc giai cấp và tình huống lịch sử phân chia giữa hai bờ. Trần Ánh Chân không chỉ là một nhà tiểu thuyết gia và người tiên phong phong trào báo cáo văn học, còn là một trí thức chính trị rõ ràng chủ trương thống nhất Trung Quốc, lập trường của ông được xếp vào "thống nhất" trong tiến trình địa phương hóa Đài Loan, khác biệt đáng kể với ý kiến chủ lưu của đa số xã hội Đài Loan. Các tác phẩm và suy nghĩ của ông ảnh hưởng sâu sắc đến xây dựng lý thuyết phong trào văn học địa phương Đài Loan, cũng giúp cho dòng thống nhất Đài Loan sau này có một cột mốc tinh thần có thành tích văn học. [^1]
+Trần Ánh Chân là một trong những nhà văn cánh tả gây tranh cãi và có ảnh hưởng nhất trong lịch sử văn học hậu chiến của Đài Loan. Tên thật là Trần Vĩnh Thiện, sinh năm 1937 tại trấn Trúc Nam, huyện Miêu Lật, năm 1944 ông cùng bác và cha ruột đến Ưng Ca lánh nạn, quá trình trưởng thành trải qua sự đứt gãy lịch sử giữa cuối thời kỳ Nhật trị và đầu thời kỳ hậu chiến. Thông qua các tác phẩm như "Tướng quân tộc", "Sơn lộ", loạt truyện "Tòa nhà Washington", ông đã phân tích tâm lý thuộc địa, cấu trúc giai cấp và bối cảnh lịch sử chia cắt hai bờ của Đài Loan. Trần Ánh Chân không chỉ là tiểu thuyết gia và người tiên phong trong phong trào văn học phóng sự, mà còn là một trí thức chính trị ủng hộ rõ rệt lập trường thống nhất Trung Quốc. Trong tiến trình bản địa hóa tại Đài Loan, lập trường của ông được xếp vào "phái Thống nhất", tạo nên sự khác biệt đáng kể so với quan điểm chủ lưu của xã hội Đài Loan. Tác phẩm và tư tưởng của ông đã ảnh hưởng sâu sắc đến việc xây dựng lý luận cho phong trào văn học hương thổ Đài Loan, đồng thời trở thành một cột mốc tinh thần có thành tựu văn chương cho phe phái Thống nhất tại Đài Loan sau này. [^1]
 
-## Tư tưởng khai sáng của thanh niên thời hậu chiến
+## Khởi đầu tư tưởng của thanh niên hậu chiến
 
-Trần Ánh Chân lớn lên trong thời kỳ phức tạp của Đài Loan hậu chiến, bối cảnh lịch sử đặc biệt này ảnh hưởng sâu sắc đến thế giới quan và định hướng sáng tác của ông. Sinh năm 1937 tại huyện Chúc Nam, Miêu Lật, tuổi thơ chính giữa giai đoạn cuối cùng của thời Nhật trị, sau khi chuyển cư Anh Ca, thanh thiếu niên của ông trải qua Sự kiện 228, Khủng bố Trắng và các loạt biến động chính trị. Những sự kiện lịch sử này khiến thanh niên Trần Ánh Chân bắt đầu suy ngẫm về chính trị, xã hội và bản chất con người.
+Trần Ánh Chân trưởng thành trong thời đại phức tạp của Đài Loan hậu chiến, bối cảnh lịch sử đặc biệt này đã ảnh hưởng sâu sắc đến thế giới quan và hướng sáng tác của ông. Sinh năm 1937 tại Trúc Nam, Miêu Lật, tuổi thơ của ông trùng với giai đoạn cuối thời kỳ Nhật trị; năm 1944 đến Ưng Ca lánh nạn, sau đó trải qua những biến động chính trị như Sự kiện 228 và Khủng bố trắng tại Đài Loan. Những sự kiện lịch sử này đã khiến Trần Ánh Chân khi còn trẻ bắt đầu suy ngẫm về các vấn đề chính trị, xã hội và nhân tính.
 
-Thời học trung học, Trần Ánh Chân đã thể hiện sự quan tâm đậm đà đến văn học và tư tưởng. Ông đọc tất cả những tác phẩm văn học Trung Tây. Ngoài những nhà văn Nga như Tolstoi, Dostoiewski, Gorky với sự quan tâm đến người dân tầng dưới cộng hưởng với ông, **tác phẩm Tần Túc tác động quyết định đến hình thành tư tưởng của ông**. Chính Trần Ánh Chân đã nhắc lại nhiều lần trong các cuộc phỏng vấn rằng, Tần Túc cho ông nhìn thấy "làm sao văn học trở thành vũ khí phê phán xã hội", đây là sắc độ tinh thần của sáng tác sau này của ông.
+Sáng tác của ông chịu ảnh hưởng từ trào lưu tư tưởng xã hội chủ nghĩa và Lỗ Tấn, nhằm truyền bá chủ nghĩa hiện thực trong văn đàn Đài Loan.
 
-Năm 1957, Trần Ánh Chân thi đậu vào Đại học Đạm Giang (nay là Đại học Đạm Giang) khoa Ngoại ngữ.[^2] Thời kỳ đại học, ông không chỉ biểu hiện xuất sắc trong học tập, lúc này cũng bắt đầu hình thành quan điểm chính trị và xã hội của riêng mình. Ông tiếp xúc với lý thuyết chủ nghĩa Mác, bắt đầu dùng phương pháp phân tích giai cấp để quan sát xã hội Đài Loan. Tư tưởng cánh tả này ảnh hưởng sâu sắc đến định hướng sáng tác của những thập kỷ tiếp theo, cũng trở thành nền tảng tư tưởng cho con đường "thống nhất Trung Quốc" chính trị của ông sau này.[^2]
+Tháng 9 năm 1958, Trần Ánh Chân thi đỗ khoa Ngoại ngữ thuộc Trường Cao đẳng Anh văn Đạm Giang. [^2] Trong thời gian đại học, ông không chỉ thể hiện sự ưu tú trong học tập mà còn bắt đầu hình thành các quan niệm chính trị và xã hội của riêng mình. Ông tiếp cận với lý thuyết Marx-Lenin và bắt đầu sử dụng phương pháp phân tích giai cấp để quan sát xã hội Đài Loan. Tư tưởng cánh tả này đã ảnh hưởng sâu sắc đến lộ trình sáng tác trong nhiều thập kỷ sau đó, đồng thời trở thành nền tảng tư tưởng cho lập trường chính trị "thống nhất Trung Quốc" của ông. [^2]
 
-## Khởi đầu và nổi tiếng trong sáng tác văn học
+## Khởi đầu sáng tác và sự nổi danh
 
-Năm 1959, Trần Ánh Chân 22 tuổi công bố tác phẩm đầu tay "Quán Mì" trên Tạp chí Bút Tập, chính thức bắt đầu sự nghiệp sáng tác văn học. Tác phẩm nhỏ này mô tả cuộc sống của chủ một quán mì vỉa hè, mặc dù chiều dài không dài nhưng đã thể hiện đặc điểm sáng tác của ông là quan tâm đến những người dân tầng dưới.
+Năm 1959, ở tuổi 22, Trần Ánh Chân công bố tác phẩm đầu tay "Tiệm mì" trên tạp chí _Bút Hối_, chính thức bắt đầu sự nghiệp văn chương. Sự kiện này bắt nguồn từ lời mời của Uất Thiên Thông gửi bài cho tạp chí _Bút Hối_.
 
-Đầu thập niên 1960, Trần Ánh Chân liên tiếp công bố nhiều truyện ngắn, từ từ xây dựng danh tiếng trong giới văn chương. "Tôi và anh trai Khang Hùng" (Em trai Khang Hùng) mô tả sự lẫn lộn của những người trẻ tuổi dưới tác động của hiện đại hoá, "Truyện cười của Đường Khiêm" (Vở hề của Đường Khiêm) xem xét tình cảnh tinh thần của những trí thức, những tác phẩm này đều thể hiện khả năng quan sát sắc sảo của ông đối với vấn đề xã hội.
+Đầu thập niên 1960, Trần Ánh Chân liên tục công bố các truyện ngắn, sau đó được tập hợp trong các tuyển tập như _Em trai tôi Khang Hùng_ (1959–1964) và _Hài kịch của Đường Thiến_ (1964–1967).
 
-Tác phẩm nổi tiếng "Tộc Lính Tướng" công bố năm 1964 (Tạp chí Văn học Hiện đại kỳ 19) là tác phẩm gây dựng danh tiếng của Trần Ánh Chân, cũng là dấu mốc của phong cách sáng tác của ông trưởng thành. Tác phẩm mô tả thảm kịch tình yêu của hai nhân vật tầng dưới xã hội: "Mặt Tam Giác" là một cựu binh lão gốc Đại lục hơn 40 tuổi, sau năm 1949 chuyên cư cùng Chính phủ Quốc Dân Đảng sang Đài Loan lạc lõng, sống bằng cách thổi kèn nhỏ trong một đoàn nhạc giải trí; "Gái Gầy Nhỏ" là một cô gái trẻ gốc thành phố Hoa Liên gia đình nghèo của Đài Loan, vì hoàn cảnh gia đình bị bán thành mại dâm, cô từ chối "bán thân" trốn chạy, cuối cùng làm nữ chủ trò múa lố trong cùng một đoàn nhạc giải trí để kiếm sống. Hai người gặp nhau phụ thuộc vào nhau ở tầng dưới, cuối cùng kết thúc bằng cách tự tử cùng nhau.
+Tác phẩm "Tướng quân tộc" công bố năm 1964 là tác phẩm làm nên tên tuổi của Trần Ánh Chân, đồng thời đánh dấu sự trưởng thành trong phong cách sáng tác của ông. Tiểu thuyết mô tả bi kịch tình yêu của hai nhân vật ở tầng lớp đáy xã hội: "Mặt tam giác" là một người đàn ông gần 40 tuổi, cựu quân nhân giải ngũ, sống bằng nghề thổi kèn trong một ban nhạc giải trí; "Tiểu sấu nha đầu" là một thiếu nữ 15-16 tuổi xuất thân từ gia đình nghèo khó ở Đài Đông, vì hoàn cảnh mà bị bán làm kỹ nữ, sau khi trốn đến Đài Bắc đã gia nhập cùng ban nhạc đó với vai trò vũ công hề. Hai người gặp gỡ và nương tựa vào nhau nơi đáy xã hội; "Mặt tam giác" đã để lại sổ tiết kiệm lương hưu cho cô để chuộc thân, nhưng việc chuộc thân không thành, cô lại bị bán đi lần nữa. Năm năm sau họ tái ngộ, và ngày hôm sau cả hai cùng tự sát tại một ruộng mía.
 
-"Tộc Lính Tướng" là một trong những tác phẩm đầu tiên trong lịch sử văn học Đài Loan chạm vào chủ đề "tình huống của những cựu binh quân đội gốc ngoài tỉnh ở Đài Loan", Trần Ánh Chân bằng bút pháp tế nhị mô tả cách mà hai cuộc sống tầng dưới hoàn toàn không liên quan sau khi phân chia hai bờ, chiến tranh nội bộ Trung Quốc, cấu trúc kinh tế tầng dưới Đài Loan gặp nhau và đi tới cùng một con đường chết. Năm 1999 "Tộc Lính Tướng" được Hội đồng Văn hóa chọn vào danh sách "30 tác phẩm kinh điển văn học Đài Loan", là tác phẩm đại diện thành tích văn học Trần Ánh Chân.[^3]
+Qua "Tướng quân tộc", viết về cảnh ngộ của cựu binh ngoại tỉnh và thiếu nữ Đài Loan, Trần Ánh Chân đã dùng ngòi bút tinh tế để khắc họa việc hai sinh mệnh ở tầng lớp đáy vốn có thể chẳng liên quan gì đến nhau, nhưng do cuộc nội chiến Trung Quốc và cấu trúc kinh tế phân hóa tại Đài Loan mà lại giao thoa trên cùng một con đường chết. Năm 1999, "Tướng quân tộc" đã được Hội Phát triển Văn hóa của Hành chính Viện đưa vào danh sách "30 tác phẩm văn học Đài Loan kinh điển". [^3]
 
-## Sơn Lộ: Tiền bộ chuộc tội trễ muộn của Khủng bố Trắng
+## "Sơn lộ": Sự chuộc lỗi muộn màng của thời kỳ Khủng bố trắng
 
-Tác phẩm trung thiên "Sơn Lộ" công bố năm 1983 là một trong những tác phẩm đại diện nhất của Trần Ánh Chân sau khi thả tù, cũng là một văn bản sớm quan trọng xử lý lịch sử Khủng bố Trắng trong văn học Đài Loan.[^3]
+"Sơn lộ" viết năm 1983, đăng trên tạp chí _Văn Quý_, cùng với "Linh đăng hoa" là những tiểu thuyết mà Trần Ánh Chân dùng để xử lý chủ đề Khủng bố trắng. [^8]
 
-Nhân vật cốt lõi của tác phẩm Thái Thiên Huệ là thành viên gia đình của những người chịu ảnh hưởng từ những vụ án chính trị thập niên 1950: người yêu của cô Lý Quốc Mộc vì Khủng bố Trắng nhập ngục, chết trong ngục tù, sau đó Thái Thiên Huệ sống trong một hình thức tự hy sinh chuộc tội bằng cách sống hết phần đời còn lại, thực hiện những lời hứa chưa hoàn thành của Lý Quốc Mộc — chuyển đến khu vực sơn phố để phục vụ người dân tầng dưới. Cấu trúc câu chuyện xen kẽ giữa thời gian và ký ức, Trần Ánh Chân thông qua quan điểm của Thái Thiên Huệ, trình bày cách mà những gia đình bị cáo buộc chính trị chịu dựng trọng lực lịch sử im lặng dưới sự cai trị áp lực.
+Tiểu thuyết bắt đầu từ việc bà lão Thái Thiên Huệ đột ngột mất đi ý chí sinh tồn, dần suy yếu rồi qua đời; câu chuyện hồi tưởng lại những ngày tháng lao động làm lụng tại vùng núi Ưng Ca của bà, và cuối cùng hé lộ quá khứ thời trẻ qua một bức thư tiếng Nhật: anh hai của bà đã phản bội hai người đồng đội, một người bị xử bắn, một người bị kết án tù chung thân tại đảo Lục đảo; kể từ đó, bà dành phần đời còn lại để sống trong sự chuộc lỗi. [^8]
 
-"Sơn Lộ" chỉ trực tiếp tác động lâu dài của Khủng bố Trắng đối với tinh thần và lựa chọn đạo đức của cá nhân, là một hình mẫu quan trọng của Trần Ánh Chân kết hợp lập trường chính trị cánh tả với thực hành văn học.[^3]
+## "Tòa nhà Washington": Phê phán tư bản xuyên quốc gia và tầng lớp trung gian
 
-## Toà nhà Washington: Phê phán vốn đa quốc gia và Mại dâm thương mại
+Loạt tác phẩm "Tòa nhà Washington" là nhóm tác phẩm quan trọng sau lần bị bắt thứ hai của Trần Ánh Chân vào năm 1979, tập trung vào sự xâm lược của các doanh nghiệp đa quốc gia đối với kinh tế, văn hóa và tâm hồn của thế giới thứ ba. Ngày 3 tháng 10 năm 1979, ông bị Tổng cục Cảnh bị đưa đến Cục Điều tra để thẩm vấn; dưới sự ký tên phản đối của Thi Minh Đức, Trần Cổ Ứng, [白先勇](/vi/people/pai-hsien-yung-literary-master/), Trịnh Sầu Dư và những người khác, ông đã được trả tự do sau khoảng 36 giờ.
 
-"Toà nhà Washington" là một chuỗi tác phẩm quan trọng của Trần Ánh Chân thập niên 1980. Tác phẩm lấy một toà nhà doanh nghiệp đa quốc gia nằm tại Đài Bắc làm cảnh trung tâm, tập trung mô tả cách thức hoạt động của các công ty nước ngoài ở Đài Loan, cũng như những nhân viên địa phương Đài Loan đóng vai trò "mại dâm thương mại" như thế nào — thay người nước ngoài có vốn đóng vai trò trung gian, phục vụ lợi ích vốn đa quốc gia trong khi cách ly bản thân khỏi đất đai và nhân dân của mình.
+Các tiểu thuyết và luận thuyết trong giai đoạn này của ông đều quan tâm đến vị thế của Đài Loan dưới tác động của tư bản xuyên quốc gia và chủ nghĩa tư bản phụ thuộc.
 
-Trần Ánh Chân trong chuỗi tác phẩm này rõ ràng thể hiện phê phán của ông đối với "chủ nghĩa tư bản phụ thuộc": quá trình hiện đại hoá của Đài Loan, theo hiểu biết của ông, là một quá trình đầu tư nước ngoài được trung gian bằng giai cấp mại dâm thương mại, thiếu nền tảng tích lũy tự chủ địa phương. Loại hình phê phán cấu trúc nước ngoài này, kế thừa các luận điểm chính trị cánh tả thập niên 1980 trở đi của ông, cũng giúp cho "Toà nhà Washington" trở thành một tác phẩm đại diện hình mẫu hiện thực xã hội chủ nghĩa trong lịch sử văn học Đài Loan.
+## Vụ án Liên minh Dân chủ Đài Loan năm 1968
 
-## Vụ Liên Minh Dân chủ Đài Loan 1968
+Ngày 31 tháng 7 năm 1968, chính quyền Quốc dân đảng đã lấy lý do "tổ chức đọc các sách cánh tả như Marx-Lenin, Lỗ Tấn và tán phát tuyên truyền cộng sản" để bắt giữ 36 người, trong đó có Trần Ánh Chân, Lý Sáng Thành, Ngô Diệu Trung, Trần Thuất Khổng, Khâu Diên Lượng... Đây chính là "**Vụ án Liên minh Dân chủ Đài Loan**" (một số tài liệu ghi là "Vụ án Đồng minh Dân chủ Đài Loan"). Vào thời điểm đó, Trần Ánh Chân đang đảm nhiệm vai trò ủy viên biên tập của tạp chí _Văn học Quý san_, các văn nhân như [黃春明](/vi/people/huang-chun-ming-taiwanese-literary-master/) và Uất Thiên Thông cũng bị liên lụy, vì vậy vụ việc còn được gọi là "Sự kiện Văn Quý". [^4]
 
-Ngày 31 tháng 7 năm 1968, Chính phủ Quốc Dân Đảng với cáo buộc "tổ chức đọc sách của Mác Tư, Tần Túc và những nhà văn cánh tả khác cũng như phổ biến tuyên truyền cộng sản", bắt giữ Trần Ánh Chân, Lý Tác Thành, Vũ Diệu Trung, Trần Thuật Khổng, Khỳ Diên Lương và những người khác tổng cộng 36 người, đây chính là "**Vụ Liên Minh Dân chủ Đài Loan**" (một số tài liệu viết thành "Vụ Tổng hợp Dân chủ Đài Loan"). Vào thời điểm sự kiện, Trần Ánh Chân là ủy viên ban biên tập Tạp chí Văn học Quý kỳ, vụ án liên quan đến những nhà văn khác như Uỷ Thiên Hãng và những nhà văn khác, do đó cũng được gọi là "sự kiện Tạp chí Văn học Quý kỳ".[^4]
+Lưu ý: Nguyên nhân bắt giữ năm 1968 là do "Vụ án Liên minh Dân chủ Đài Loan", **không phải là "Liên minh Thống nhất Trung Quốc" do chính Trần Ánh Chân thành lập năm 1988**. Tổ chức sau là một tổ chức chính trị được thành lập 13 năm sau khi ông ra tù, tên gọi gần giống nhau nhưng là hai sự kiện hoàn toàn khác biệt.
 
-Lưu ý: Lý do bị bắt năm 1968 là "Vụ Liên Minh Dân chủ Đài Loan", **không phải** "Liên Minh Thống nhất Trung Quốc" năm 1988 do chính Trần Ánh Chân sáng lập. Cái sau là tổ chức chính trị do ông tự thành lập 13 năm sau khi thả tù, tên gọi tương tự nhưng là hai sự kiện hoàn toàn khác nhau.
+Ngày 31 tháng 12 năm 1968, Trần Ánh Chân bị kết án 10 năm tù, lần lượt bị chuyển đến nhà tù Thái Nguyên ở Đài Đông và Sơn Trang Lục đảo (Nhà tù giáo huấn Lục đảo). Trong tù, ông không ngừng tư duy và viết lách, trái lại còn suy ngẫm sâu sắc hơn về các vấn đề xã hội và quan hệ hai bờ. Năm 1975, nhờ lệnh đặc xá nhân dịp kỷ niệm 100 ngày mất của Tưởng Giới Thạch, Trần Ánh Chân đã được ra tù sớm ba năm.
 
-Ngày 31 tháng 12 năm 1968, Trần Ánh Chân bị kết án 10 năm tù, lần lượt được chuyển đi Nhà tù Thái Nguyên Đài Đông và Núi Xanh (Nhà tù Cảm huấn Núi Xanh của Đài Loan). Trong tù, ông không dừng suy ngẫm và sáng tác, mà tỏ ra suy tư còn tinh tế hơn về vấn đề xã hội và mối quan hệ hai bờ. Năm 1975 sau khi Tưởng Giới Thạch qua đời, ông được ân xá, Trần Ánh Chân được thả sớm ba năm.
+Trải nghiệm lao tù này càng củng cố lập trường cánh tả và chủ trương chính trị "thống nhất Trung Quốc" của ông. Ông bắt đầu suy nghĩ kỹ lưỡng hơn về vị thế của Đài Loan trong cục diện Chiến tranh Lạnh, cũng như vận mệnh chung của người dân Đài Loan với các dân tộc bị áp bức ở Á, Phi và Mỹ Latinh. Sau khi ra tù năm 1975, ông trở lại văn đàn với tư tưởng chín chắn hơn và phong cách sắc nét hơn. Các tác phẩm thời kỳ này như _Sơn lộ_, loạt _Tòa nhà Washington_... đều thể hiện sự nắm bắt thực tế xã hội và lòng quan tâm đến vận mệnh nhân dân của ông.
 
-Quãng thời gian này trong tù khiến lập trường cánh tả của Trần Ánh Chân và chủ trương chính trị "thống nhất Trung Quốc" vậy là vững chắc hơn. Ông bắt đầu suy tư sâu hơn vị trí của Đài Loan trong trật tự Chiến tranh Lạnh, cũng như số phận chung của người dân Đài Loan và các dân tộc bị áp bức ở châu Á, châu Phi, Mỹ La-tinh. Sau khi thả tù năm 1975, ông quay trở lại giới văn chương với tư tưởng trưởng thành hơn và phong cách hiểu biết sâu sắc hơn. Những tác phẩm của khoảng thời gian này như "Sơn Lộ", "Toà nhà Washington" và những tác phẩm khác, đều thể hiện sự nắm bắt của ông đối với hiện thực xã hội và quan tâm đến số phận nhân dân.
+## Nhà lý luận của phong trào văn học hương thổ
 
-## Nhà lý thuyết phong trào văn học địa phương
+Vào thập niên 1970, phong trào văn học hương thổ trỗi dậy tại Đài Loan. Năm 1976, Trần Ánh Chân làm biên tập cho tạp chí _Hạ Triều_. Trong cuộc luận chiến văn học hương thổ năm 1977–78, ông đã công bố các bài viết như "Xây dựng phong cách văn học dân tộc", "Văn học đến từ xã hội, phản ánh xã hội", "Điểm mù của văn học hương thổ" để phản bác quan điểm của Dư Quang Trung và những người khác cho rằng văn học hương thổ có xu hướng thiên về văn học công nông binh; do đó ông được xem là một trong những đại diện chính của phái văn học hương thổ. [^5]
 
-Thập niên 1970, Đài Loan nổi lên một phong trào văn học địa phương, Trần Ánh Chân là một nhà lý thuyết quan trọng và người thực hiện của phong trào này. Ông không chỉ sáng tác rất nhiều những tác phẩm văn học địa phương xuất sắc, cũng cung cấp hướng dẫn lý thuyết cho phong trào này.
+"Hứa Nam Thôn" là một trong những bút danh của ông, ví dụ như bài "Hy vọng mới của nghệ thuật hiện thực" đăng trên tập 3 của _Thi Triều_ năm 1978. Các bài luận chiến nêu trên lại được đăng dưới tên thật Trần Ánh Chân.
 
-Trần Ánh Chân cho rằng, thực sự là văn học địa phương không phải là mô tả đơn giản của cuộc sống nông thôn. Nó cần phải phản ánh gương mặt thực của xã hội Đài Loan, quan tâm đến số phận của người dân tầng dưới. Ông nhấn mạnh truyền thống hiện thực chủ nghĩa của văn học, phản đối khái niệm "nghệ thuật vì nghệ thuật", chủ trương văn học cần phục vụ nhân dân, phục vụ tiến bộ xã hội.
+Trong thập niên 1980, ông tiếp tục tham gia công tác biên tập cho _Văn Quý_, _Hạ Triều_, và đối đầu với các nhân sĩ phái bản địa Đài Loan trong cuộc luận chiến "Nút thắt Trung Quốc" và "Nút thắt Đài Loan", trong đó có Trần Phương Minh.
 
-Trong "cuộc tranh luận văn học địa phương" năm 1977-78, Trần Ánh Chân dùng bút danh "**Hứa Nam Thôn**" tham gia tranh luận, công bố rất nhiều bài viết lý thuyết cốt lõi, kiên định bảo vệ giá trị và ý nghĩa của văn học địa phương. Trong cuộc tranh luận, ông với Diệp Thạch Thích về sự khác biệt trong lập trường của "ý thức Đài Loan" và "ý thức Trung Quốc" tiến hành tranh luận lâu dài. Diệp Thạch Thích chủ trương văn học địa phương cần phải bám rễ vào kinh nghiệm lịch sử địa phương Đài Loan, phát triển ra tính độc lập chủ thể của văn học Đài Loan riêng biệt, Trần Ánh Chân lại cho rằng văn học địa phương là "văn học dân tộc Trung Quốc" biểu hiện tại một địa phương. Tranh luận này trở thành điểm khởi đầu của sự khác biệt "thứ tự địa phương" và "thứ tự thống nhất" của giới văn chương Đài Loan sau này, ảnh hưởng kéo dài tới nay.[^5]
+## Biên tập tạp chí và quảng bá văn hóa
 
-## Chỉnh sửa tạp chí và quảng bá văn hóa
+Ngoài sáng tác tiểu thuyết, Trần Ánh Chân còn dấn thân vào công tác biên tập, nỗ lực quảng bá văn hóa tiến bộ. Năm 1985, ông sáng lập tạp chí _Nhân gian_. Tạp chí này sử dụng hình thức văn học phóng sự để bám sát các vấn đề xã hội Đài Loan như lao động, môi trường, vấn đề người bản địa...
 
-Ngoài sáng tác tiểu thuyết, Trần Ánh Chân cũng tham gia vào công tác chỉnh sửa, cố gắng quảng bá văn hóa tiến bộ. Năm 1985, ông sáng lập Tạp chí Nhân Gian, tạp chí này bằng hình thức báo cáo văn học, tiếp cận báo cáo các vấn đề xã hội Đài Loan khác nhau, bao gồm vấn đề của công nhân, vấn đề môi trường, vấn đề của những người bản địa.
+Triết lý xuất bản của tạp chí _Nhân gian_ thể hiện quan điểm văn hóa nhất quán của Trần Ánh Chân: những người làm văn hóa nên đi sâu vào đời sống nhân dân, thấu hiểu nỗi khổ của họ, dùng con chữ và hình ảnh để ghi lại cuộc sống xã hội chân thực. _Nhân gian_ là tạp chí tháng, xuất bản từ tháng 11 năm 1985 đến tháng 9 năm 1989 với tổng cộng 47 số, được coi là người tiên phong cho dòng văn học phóng sự tại Đài Loan.
 
-Nguyên lý hoạch định của Tạp chí Nhân Gian thể hiện chủ trương văn hóa lâu nay của Trần Ánh Chân: những người làm công tác văn hóa nên bước vào giữa nhân dân, hiểu được khổ đau của nhân dân, dùng chữ và ảnh để ghi chép cuộc sống xã hội thực. Tạp chí mặc dù chỉ phát hành năm năm thôi rồi đóng cửa (1985–1989), nhưng sức ảnh hưởng vẫn kéo dài tới nay, được coi là một mốc đá tảng của báo cáo văn học Đài Loan.
+Thông qua tạp chí _Nhân gian_, Trần Ánh Chân đã bồi dưỡng một đội ngũ những người làm văn hóa ưu tú, bao gồm nhiếp ảnh gia, nhà văn, phóng viên... Những người này sau đó đã tiếp tục thực hành niềm tin văn hóa của ông trên nhiều vị trí khác nhau trong giới văn hóa Đài Loan. [^6]
 
-Thông qua Tạp chí Nhân Gian, Trần Ánh Chân đã đào tạo ra một đội ngũ những người làm công tác văn hóa xuất sắc, bao gồm những nhà nhiếp ảnh, nhà văn, phóng viên v.v. Những người này sau đó tiếp tục thực hiện tin tưởng văn hóa của Trần Ánh Chân trong các vị trí khác nhau trong giới văn hóa Đài Loan.[^6]
+## Thành tựu văn học và địa vị lịch sử
 
-## Thành tích văn học và vị trí lịch sử
+Địa vị của Trần Ánh Chân trong lịch sử văn học Đài Loan là rất cao quý. Ông cùng với [白先勇](/vi/people/pai-hsien-yung-literary-master/), [黃春明](/vi/people/huang-chun-ming-taiwanese-literary-master/), Vương Trinh Hòa và những người khác đã tạo nên đội ngũ quan trọng của văn học hiện đại Đài Loan. Điểm khác biệt là, nếu nói [白先勇](/vi/people/pai-hsien-yung-literary-master/) quan tâm đến thế giới tinh thần của trí thức đô thị, [黃春明](/vi/people/huang-chun-ming-taiwanese-literary-master/) mô tả thú vui sinh hoạt của những con người nhỏ bé, thì Trần Ánh Chân lại tập trung vào các vấn đề cấu trúc của toàn xã hội.
 
-Vị trí của Trần Ánh Chân trong lịch sử văn học Đài Loan là cao quý. Ông cùng với Bạch Tiên Dũng (白先勇), Hoàng Xuân Minh (黃春明), Vương Trinh Hòa và những nhân vật khác lập thành một đội ngũ quan trọng văn học hiện đại Đài Loan. Khác biệt ở chỗ, nếu như Bạch Tiên Dũng (白先勇) quan tâm đến thế giới tinh thần của những trí thức thành phố, Hoàng Xuân Minh (黃春明) mô tả chiều sâu cuộc sống của những con người nhỏ, thì Trần Ánh Chân lại quan tâm đến vấn đề cấu trúc của toàn bộ xã hội.
+Tác phẩm của ông mang sắc thái u buồn và trăn trở, nhưng cũng đầy lòng nhân đạo. Năm 2004, đoàn múa Vân Môn đã chuyển thể các chương như "Tướng quân tộc", "Mặt trời tự chiếu sáng", "Ôi! Susanna", "Sơn lộ", "Mây"... thành vở múa kịch _Trần Ánh Chân - Phong cảnh_. Năm 2018, đoàn kịch Đạo Hỏa đã chuyển thể "Sơn lộ" thành kịch sân khấu _Trên đường núi_.
 
-Những tác phẩm của ông có tinh thần phê phán xã hội mạnh mẽ và sắc thái nhân đạo sâu sắc, tiêm nhập nội dung hiện thực chủ nghĩa cho văn học Đài Loan. Những nhân vật dưới bút của ông mặc dù đa số là người dân tầng dưới, nhưng những nhân vật này đều có tính cách nổi bật và thế giới nội tâm sâu sắc, thể hiện sự hiểu biết của tác giả đối với bản chất con người.
+## Chủ tịch Liên minh Thống nhất và 10 năm tại Bắc Kinh
 
-Trần Ánh Chân cũng có ảnh hưởng sâu xa đối với những nhà văn Đài Loan sau này. Rất nhiều nhà văn đều từ những tác phẩm của ông mà tiếp thu dưỡng phần, học tập thái độ sáng tác của ông là quan tâm đến hiện thực xã hội, quan tâm đến khổ đau của nhân dân. Dương Thanh Thúc, Tống Trạch Lai và những nhà văn văn học địa phương khác đều từng bày tỏ rằng bị Trần Ánh Chân khai sáng.[^7]
+Ngày 4 tháng 4 năm 1988, Liên minh Thống nhất Trung Quốc được thành lập tại Đài Bắc bởi sự phối hợp giữa tạp chí _Trung Hoa_ và Hiệp hội Hạ Triều. Trần Ánh Chân cùng Hồ Thu Nguyên và những người khác là những người sáng lập, và ông giữ chức Chủ tịch đầu tiên. Tổ chức này phản đối độc lập Đài Loan và thúc đẩy thống nhất hai bờ, được coi là một tổ chức phái Thống nhất; năm 2019 đã đăng ký thành đảng chính trị mang tên "Đảng Liên minh Thống nhất". Việc thành lập Liên minh Thống nhất Trung Quốc là bước ngoặt quan trọng khi Trần Ánh Chân chuyển từ một nhà văn sang một trí thức chính trị. Ông không còn chỉ là một nhà văn cánh tả viết tiểu thuyết, mà đã chọn đứng ở vị trí trung tâm của phe phái Thống nhất tại Đài Loan.
 
-## Chủ tịch Liên Minh Thống nhất và 10 năm tại Bắc Kinh
+Tháng 6 năm 2006, theo lời mời của Đại học Nhân dân Trung Quốc, Trần Ánh Chân đảm nhiệm vai trò giáo sư thỉnh giảng và định cư tại Bắc Kinh. Cùng năm đó, ngày 26 tháng 9, ông nhập viện tại Bệnh viện Triều Dương, Bắc Kinh do bị đột quỵ; đến ngày 16 tháng 10, ông lại bị đột quỵ lần nữa và rơi vào trạng thái hôn mê sâu. Tháng 6 năm 2010, Hiệp hội Nhà văn Trung Quốc đã thông qua việc cho ông gia nhập và trao chức vụ Phó Chủ tịch danh dự Ủy ban Toàn quốc khóa VII. Ông là người thứ hai không có quốc tịch đại lục được giữ chức danh này sau Kim Dung, đồng thời là người Đài Loan đầu tiên gia nhập hiệp hội này.
 
-Năm 1988, Trần Ánh Chân tự thành lập "**Liên Minh Thống nhất Trung Quốc**" tại Đài Loan và đóng vai trò chủ tịch đầu tiên. Tổ chức này chủ trương "thống nhất hai bờ, phục hưng Trung Hoa", là một trong những tổ chức thống nhất quy mô lớn nhất của Đài Loan sau bãi bỏ thiết quân luật, cho tới nay vẫn còn hoạt động. Thành lập Liên Minh Thống nhất Trung Quốc, là một điểm chuyển biến chính từ nhà văn sáng tác sang nhân vật trí thức chính trị của Trần Ánh Chân. Ông không còn chỉ là một nhà văn cánh tả sáng tác truyện, ông lựa chọn đứng vào vị trí cốt lõi của phe thống nhất Đài Loan.
+Ngày 22 tháng 11 năm 2016, Trần Ánh Chân qua đời tại Bắc Kinh, hưởng thọ 79 tuổi. Ngày 1 tháng 12, lễ tang được tổ chức tại Đại lễ đường Nhà tang lễ Bát Bảo Sơn, Bắc Kinh với sự tham dự của hơn 60 người thân hữu từ Đài Loan; tại hiện trường có vòng hoa gửi tới từ Chủ tịch Chính hiệp Du Chính Thanh, Phó Thủ tướng Lưu Diên Đông và Bộ trưởng Ban Thống nhất Mặt trận Trung ương Tôn Xuân Lan. [^9]
 
-Năm 2006, Trần Ánh Chân được bầu vào Hội đồng toàn quốc Hiệp hội Nhà văn Trung Quốc lần thứ bảy, đây là một vị trí có ý nghĩa chính trị trong hệ thống Cộng hòa Nhân dân Trung Hoa. Cùng năm ông bị tai biến giữa đường tại Đài Loan, sau đó chuyên cư Bắc Kinh để điều trị và phục hồi. Năm 2010 Trần Ánh Chân bị tai biến lần thứ hai, kể từ đó nằm liệt giường lâu dài cho đến khi qua đời năm 2016 đều không còn quay trở lại Đài Loan.
-
-Ngày 22 tháng 11 năm 2016, Trần Ánh Chân qua đời tại Bắc Kinh, thọ 79 tuổi. Phía Trung Quốc đại lục áp dụng những cách thức tưởng niệm quy cách cao đối với qua đời của ông: thi hài được phủ cờ Đảng Cộng Sản Trung Quốc, hài cốt được chôn cất tại Lăng Cách Mệnh Bát Bảo Sơn, Tập Cận Bình gửi điện viếng thăm. Sự tôn vinh này thể hiện phía ĐCSTQ xác nhận lập trường chính trị của Trần Ánh Chân, cũng khiến ông trở thành một nhân vật có ý nghĩa biểu tượng sâu sắc trong cuộc đấu tranh văn hóa chính trị giữa hai bờ.
-
-Quãng đường của Trần Ánh Chân (sinh tại Chúc Nam Miêu Lật, lớn lên ở Anh Ca, sáng tác ở Đài Bắc, nhập ngục tại Núi Xanh, sáng lập Tạp chí Nhân Gian ở Đài Bắc, nằm liệt ở Bắc Kinh, được chôn cất tại Bát Bảo Sơn) là một trong những lựa chọn cá nhân tranh cãi nhất của những trí thức cánh tả thời hậu chiến Đài Loan. Thành tích văn học của ông không thể phủ nhận, nhưng lập trường chính trị của ông (thống nhất Trung Quốc) khác biệt đáng kể với ý kiến chủ lưu của đa số xã hội Đài Loan. Phe địa phương Đài Loan lâu nay duy trì thái độ phê phán đối với ông, các nhà bình luận bộ phận như Diệp Thạch Thích, Phương Ruỹ Kim đã có những bài viết tranh luận lâu dài với chủ trương "văn học dân tộc Trung Quốc" của Trần Ánh Chân.
+Quỹ đạo cuộc đời của Trần Ánh Chân (sinh ra ở Trúc Nam, Miêu Lật; lớn lên ở Ưng Ca; viết lách tại Đài Bắc; ngồi tù tại Lục đảo; sáng lập _Nhân gian_ tại Đài Bắc; lâm bệnh tại Bắc Kinh) là một trong những lựa chọn cá nhân gây tranh cãi nhất của giới trí thức cánh tả hậu chiến tại Đài Loan. Lập trường chính trị (thống nhất Trung Quốc) của ông có sự khác biệt rõ rệt với quan điểm chủ lưu của xã hội Đài Loan, và ông từng đối đầu trực tiếp với Trần Phương Minh trong các cuộc luận chiến. Sau khi ông qua đời, Trần Phương Minh cũng đã công khai bày tỏ lòng tiếc thương.
 
 ## Giải thưởng và tác phẩm
 
-Trần Ánh Chân nhận được nhiều vinh danh quan trọng về thành tích văn học:
+Trần Ánh Chân đã nhận được nhiều sự công nhận quan trọng về thành tựu văn học:
 
-- **Năm 1979**: Bằng tác phẩm "Xe tải chạy đêm" nhận Giải thưởng Văn học Vũ Trệu Lưu lần thứ hai
-- **Năm 2009**: Nhận Giải thưởng Văn học Hoa ngôn thế giới Hoa lần thứ mười (do Báo Tinh Châu Hoa ngôn từ Malaysia tổ chức, được xem là giải thưởng quan trọng trong giới văn học Hoa)
+- **Năm 1979**: Nhận giải chính tiểu thuyết tại giải thưởng văn học **Ngô Trác Lưu** lần thứ 10.
+- **Năm 2003**: Nhận giải thưởng văn học Hoa văn thế giới **Hoa Tung** lần thứ 2.
 
-Những tác phẩm đại diện của ông bao gồm những bộ truyện ngắn như "Tộc Lính Tướng", "Tôi và em trai Khang Hùng", "Truyện cười của Đường Khiêm", "Xe tải chạy đêm", "Toà nhà Washington" chuỗi tác phẩm, "Sơn Lộ", "Công viên Trung Hiếu" và những tác phẩm khác; những bộ sưu tập luận văn bao gồm những tác phẩm công bố dưới bút danh "Hứa Nam Thôn" như "Sự hoạn cuồng của người có hiểu biết" (Kiến thức có độ lệch). Năm 2017 Ấn khắc Văn học công bố "Toàn bộ Tác phẩm Trần Ánh Chân" 23 tập, đây là tài liệu lần đầu đầy đủ nhất để nghiên cứu Trần Ánh Chân.[^7]
+Năm 2001, nhà sách Hồng Phạm đã tập hợp các truyện ngắn và trung thiên của ông thành sáu tập mang tên _Tuyển tập tiểu thuyết Trần Ánh Chân_, bao gồm: _Em trai tôi Khang Hùng_, _Hài kịch của Đường Thiến_, _Một ngày của nhân viên văn phòng_, _Vạn Thương Đế Quân_, _Linh đăng hoa_, và _Công viên Trung Hiếu_. Các tập phê bình có cuốn _Sự cố chấp của người trí thức_. Nhà nghiên cứu Triệu Cương có tác phẩm _Cầu sách: Con đường văn học của Trần Ánh Chân_. [^7]
 
 ## Tài liệu tham khảo
 
-[^1]: [Trần Ánh Chân — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) — Tiểu sử hoàn chỉnh của Trần Ánh Chân, bao gồm sinh năm 1937 tại Chúc Nam Miêu Lật, tên khai sinh Trần Vĩnh Thiện, ghi chép chủ tịch đầu tiên Liên Minh Thống nhất Trung Quốc năm 1988.
+[^1]: [Trần Ánh Chân — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) — Tiểu sử đầy đủ của Trần Ánh Chân, bao gồm các ghi chép về việc sinh năm 1937 tại Trúc Nam, Miêu Lật, tên thật là Trần Vĩnh Thiện, và là Chủ tịch đầu tiên của Liên minh Thống nhất Trung Quốc năm 1988.
 
-[^2]: [Trần Vĩnh Thiện (Trần Ánh Chân) — Kho ký ức nhân quyền quốc gia](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) — Ghi chép chính thức của Bảo tàng nhân quyền quốc gia về vụ án chính trị và tiểu sử của Trần Ánh Chân.
+[^2]: [Trần Vĩnh Thiện (Trần Ánh Chân) — Kho lưu trữ ký ức nhân quyền quốc gia](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) — Hồ sơ chính thức của Bảo tàng Nhân quyền Quốc gia về các vụ án chính trị và tiểu sử của Trần Ánh Chân.
 
-[^3]: [Tộc Lính Tướng — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) — Ghi chép công bố tác phẩm "Tộc Lính Tướng" năm 1964 Tạp chí Văn học Hiện đại kỳ 19, cốt truyện "Mặt Tam Giác" và "Gái Gầy Nhỏ", dữ liệu về việc được chọn vào danh sách "30 tác phẩm kinh điển văn học Đài Loan" năm 1999.
+[^3]: [Tướng quân tộc — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) — Thông tin về tác phẩm "Tướng quân tộc" năm 1964, cốt truyện về Mặt tam giác và Tiểu sấu nha đầu, và việc được chọn vào danh sách "30 tác phẩm văn học Đài Loan kinh điển" năm 1999.
 
-[^4]: [Vụ Liên Minh Dân chủ Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) — Ghi chép hoàn chỉnh vụ Liên Minh Dân chủ Đài Loan ngày 31 tháng 7 năm 1968, bao gồm danh sách 36 người bị bắt, ghi chép Trần Ánh Chân bị kết án 10 năm ngày 31 tháng 12 năm 1968, ghi chép ân xá năm 1975 được thả sớm. Xem thêm [Chu Hữu Huân: Tháng 7 năm 1968, Vụ Liên Minh Dân chủ Đài Loan](https://chuckchu.com.tw/article/318).
+[^4]: [Vụ án Liên minh Dân chủ Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) — Hồ sơ đầy đủ về Vụ án Liên minh Dân chủ Đài Loan ngày 31/7/1968, bao gồm danh sách 36 người bị bắt, việc Trần Ánh Chân bị kết án 10 năm vào ngày 31/12/1968 và được đặc xá ra tù sớm năm 1975. Xem thêm [Chu Hựu Huân: Tháng 7 năm 1968, Vụ án Liên minh Dân chủ Đài Loan](https://chuckchu.com.tw/article/318).
 
-[^5]: [Trần Ánh Chân Bán kỳ: Thế kỷ của sự phản bội — Tạp chí Gương](https://www.mirrormedia.mg/story/20170213pol001/) — Báo cáo bối cảnh tranh luận văn học địa phương Trần Ánh Chân dùng bút danh "Hứa Nam Thôn" tham gia, tranh luận với Diệp Thạch Thích.
+[^5]: [Phần ngoại truyện về Trần Ánh Chân: Thời đại của sự phản bội — Mirror Media](https://www.mirrormedia.mg/story/20170213pol001/) — Bài báo đưa tin về tiểu sử Trần Ánh Chân và bối cảnh cuộc luận chiến văn học hương thổ.
 
-[^6]: [Sáng lập Tạp chí Nhân Gian, khai phá tiên phong báo cáo văn học Đài Loan — TNL Bình luận quan trọng mạng](https://www.thenewslens.com/article/54825) — Quá trình phát hành Tạp chí Nhân Gian (1985–1989) và định vị phong trào báo cáo văn học Trần Ánh Chân.
+[^6]: [Sáng lập tạp chí "Nhân gian", mở đường cho dòng văn học phóng sự Đài Loan — TNL Critical Review](https://www.thenewslens.com/article/54825) — Quá trình xuất bản của tạp chí _Nhân gian_ (1985–1989) và vị thế của phong trào văn học phóng sự do Trần Ánh Chân dẫn dắt.
 
-[^7]: [Tìm kiếm: Con đường văn học của Trần Ánh Chân — Trung ương thông tấn mỗi tuần đọc sách tốt](https://www.cna.com.tw/proj_goodbook/literature/633) — Triệu Cương tác "Tìm kiếm: Con đường văn học của Trần Ánh Chân" (Liên Kinh 2011) bình luận học thuật quan điểm thống nhất. Xem thêm [Báo Nhân dân Hải ngoài: Trần Ánh Chân "sẽ chết không sửa đổi phái thống nhất"](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), xác định lập trường chính trị của Trần Ánh Chân theo cách của chính thức Trung Quốc khi tưởng niệm.
+[^7]: [Cầu sách: Con đường văn học của Trần Ánh Chân — CNA Weekly Good Books](https://www.cna.com.tw/proj_goodbook/literature/633) — Cuốn _Cầu sách: Con đường văn học của Trần Ánh Chân_ (Liên Kinh 2011) của Triệu Cương, một bình luận học thuật từ góc nhìn phái Thống nhất. Xem thêm [Báo Nhân Dân bản hải ngoại: Trần Ánh Chân "người phái thống nhất chết không hối cải"](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), sự định danh của chính quyền Trung Quốc về lập trường chính trị của Trần Ánh Chân.
+
+[^8]: [Tin tức và bình luận về sự qua đời của Trần Ánh Chân — Mirror Media](https://www.mirrormedia.mg/story/20161128pol001) — Tác phẩm "Sơn lộ" đăng trên _Văn Quý_ năm 1983, tình tiết về Thái Thiên Huệ và sự phản bội của người anh hai đối với đồng đội.
+
+[^9]: [Lễ tang Trần Ánh Chân: Bạn bè văn đàn tiễn đưa chặng đường cuối — CNA](https://www.cna.com.tw/news/acn/201612010347.aspx) — Lễ tang tại Nhà tang lễ Bát Bảo Sơn, Bắc Kinh ngày 1/12/2016 và danh sách các vòng hoa gửi tới.
 
 ## Đọc thêm
 
-- [Phòng trưng bày văn học Đài Loan — Trần Ánh Chân](https://www.nmtl.gov.tw/) — Tiểu sử, bảng biểu năm tác phẩm của Trần Ánh Chân và lưu trữ bản thảo
-- Bạch Tiên Dũng (白先勇) — Người đương đại nhà văn Đài Loan nổi tiếng, được biết đến qua "Người Đài Bắc"
+- [Bảo tàng Văn học Đài Loan — Trần Ánh Chân](https://www.nmtl.gov.tw/) — Tiểu sử, niên biểu tác phẩm và lưu trữ bản thảo của Trần Ánh Chân.
+- [白先勇](/people/白先勇) — Nhà văn nổi tiếng cùng thời tại Đài Loan, được biết đến với tác phẩm _Người Đài Bắc_.

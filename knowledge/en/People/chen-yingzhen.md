@@ -1,139 +1,142 @@
 ---
-title: 'Chen Yingzhen: The Pro-Unification Literary Conscience from Zhunan to Beijing'
-description: 'Chen Yingzhen (1937-2016), born Chen Yongshan, was born in Zhunan, Miaoli, and grew up in Yingge. In 1964, “The General’s Clan” made his name through the tragedy of a mainlander veteran and a young Taiwanese prostitute; in 1968, he was sentenced to 10 years in prison in the “Democratic Taiwan Alliance case” (he was released early under a special amnesty after Chiang Kai-shek’s death in 1975). In 1985, he founded Renjian magazine, pioneering reportage literature in Taiwan. In 1988, he founded the China Unification Alliance and served as its first chair. After suffering a stroke in 2006, he moved to Beijing, where he died in 2016. He was postwar Taiwan’s most controversial pro-unification writer, as well as a key theorist who intervened in the Nativist Literature debate under the pen name “Xu Nancun.”'
+title: 'Chen Ying-zhen: The Unificationist Literary Conscience from Zhunan to Beijing'
+description: 'Chen Ying-zhen (1937–2016), born Chen Yung-shan, was a prominent writer and political intellectual known for his works on social realism and his leadership in the China Unification Alliance.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'People',
-    'Chen Yingzhen',
-    'The General’s Clan',
+    'Chen Ying-zhen',
+    'The General Clan',
     'Mountain Road',
     'Social Realism',
     'Nativist Literature',
-    'Pro-Unification',
+    'Unificationist',
     'Democratic Taiwan Alliance Case',
   ]
-lastVerified: 2026-05-13
-lastHumanReview: false
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-10-24
+lastHumanReview: false
+why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
+whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
+where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:f3b9ab94d7f541be'
-sourceBodyHash: 'sha256:8eae051539404383'
-translatedAt: '2026-05-16T05:07:54+08:00'
+sourceCommitSha: '1e1fa6d8b'
+sourceContentHash: 'sha256:3831859a15865550'
+sourceBodyHash: 'sha256:f7b35c999a33373c'
+translatedAt: '2026-10-25T00:44:27+08:00'
 ---
 
-# Chen Yingzhen: The Pro-Unification Literary Conscience from Zhunan to Beijing
+# Chen Ying-zhen: The Unificationist Literary Conscience from Zhunan to Beijing
 
-> **30-Second Overview:** Chen Yingzhen (1937-2016), born Chen Yongshan, was born in 1937 in Zhunan Township, Miaoli County, and later moved to Yingge, then in Taipei County, where he grew up. He entered the literary scene in 1959 with “Noodle Stall,” and became famous in 1964 with “The General’s Clan,” a tragedy about the entertainment troupe lives of the mainlander veteran “Triangle Face” and the young Taiwanese prostitute “Skinny Little Girl.” In 1968, he was arrested in the “Democratic Taiwan Alliance case,” sentenced to 10 years, and released early in 1975 under a special amnesty after Chiang Kai-shek’s death. During the 1977-78 Nativist Literature debate, he intervened under the pen name “Xu Nancun.” In 1985, he founded Renjian magazine, pioneering reportage literature in Taiwan. In 1988, he founded the China Unification Alliance and served as its first chair. In 2006, he was elected a member of the Seventh National Committee of the China Writers Association; after suffering a stroke that same year, he moved to Beijing. After a second stroke in 2010, he remained bedridden for years and died of illness in Beijing on November 22, 2016.
+> **30-Second Overview:** Chen Ying-zhen (1937–2016), born Chen Yung-shan, was born in Zhunan Township, Miaoli County, and later grew up in Yingge, Taipei County. He rose to fame in 1959 with "Noodle Stall" and in 1964 with "The General Clan," a tragedy involving a mainland veteran "Triangle Face" and a young Taiwanese prostitute "Little Skinny Girl" in an entertainment troupe. In 1968, he was arrested due to the "Democratic Taiwan Alliance Case" and sentenced to 10 years; he was released early in 1975 following an amnesty after the death of Chiang Kai-shek. During the Nativist literature debates of 1977–78, he published essays such as "The Blind Spot of Nativist Literature" to rebut critics like Yu Kwang-chung. In 1985, he founded _Human_ magazine, pioneering reportage literature in Taiwan. In 1988, he co-founded the China Unification Alliance with Hu Chiu-yuan and served as its first chairman. In 2006, at the invitation of Renmin University, he settled in Beijing, suffered a stroke that same year, and passed away in Beijing in 2016.
 
-Chen Yingzhen was one of the most controversial and influential left-wing writers in postwar Taiwanese literary history. Born Chen Yongshan in Zhunan Township, Miaoli County, in 1937, he moved during childhood to Yingge Township, Taipei County, due to family circumstances. His growth spanned the historical rupture between the late Japanese colonial period and the early postwar era. In works such as “The General’s Clan,” “Mountain Road,” and the Washington Building series, he analyzed Taiwan’s colonial psychology, class structure, and the historical condition of cross-strait division. Chen Yingzhen was not only a novelist and pioneer of the reportage literature movement; he was also a political intellectual who explicitly advocated Chinese unification. During Taiwan’s process of localization, this position was classified as “pro-unification” and diverged sharply from mainstream opinion in much of Taiwanese society. His works and thought deeply shaped the theoretical construction of Taiwan’s Nativist Literature movement, while also giving Taiwan’s later pro-unification camp a spiritual benchmark with genuine literary achievement.[^1]
+Chen Ying-zhen was one of the most controversial and influential leftist writers in Taiwan's post-war literary history. Born Chen Yung-shan in Zhunan, Miaoli County in 1937, he fled to Yingge with his uncle and father in 1944, a transition that spanned the end of the Japanese colonial period and the early post-war era. Through works such as "The General Clan," "Mountain Road," and the _Washington Building_ series, he analyzed Taiwan's colonial psychology, class structures, and the historical predicament caused by the cross-Strait division. Chen was not only a novelist and a pioneer of the reportage literature movement but also a political intellectual who explicitly advocated for China unification. His stance led him to be categorized as a "unificationist" during Taiwan's localization process, placing him in significant divergence from the mainstream opinion in Taiwanese society. His works and ideas profoundly influenced the theoretical construction of the Nativist literature movement and provided a literary benchmark for subsequent pro-unification camps in Taiwan. [^1]
 
-## The Intellectual Awakening of a Postwar Youth
+## Intellectual Enlightenment of Post-War Youth
 
-Chen Yingzhen grew up in the complex era of postwar Taiwan, and this particular historical background profoundly shaped his worldview and creative direction. Born in Zhunan, Miaoli, in 1937, his childhood coincided with the final years of Japanese rule. After moving to Yingge as a young child, he experienced political upheavals such as the February 28 Incident and the White Terror during his adolescence. These historical events led the young Chen Yingzhen to begin thinking about questions of politics, society, and human nature.
+Chen Ying-zhen grew up during a complex era in post-war Taiwan, a historical background that deeply shaped his worldview and creative direction. Born in Zhunan in 1937, his childhood coincided with the end of Japanese rule; he moved to Yingge for refuge in 1944 and subsequently experienced the political upheavals of post-war Taiwan, including the February 28 Incident and the White Terror. These historical events prompted the young Chen to contemplate questions of politics, society, and human nature.
 
-During secondary school, Chen Yingzhen already showed a strong interest in literature and ideas. He read extensively in Chinese and foreign literature. He was fascinated by the concern for the lower classes shown by Russian writers such as Tolstoy, Dostoevsky, and Gorky, while **Lu Xun’s works had a decisive influence on the formation of his thought**. Chen Yingzhen himself mentioned many times in interviews that Lu Xun showed him “how literature could become a weapon of social critique,” which became the spiritual ground of his later writing.
+His writing was influenced by socialist currents and Lu Xun, promoting realism within the Taiwanese literary scene.
 
-In 1957, Chen Yingzhen was admitted to the Department of Foreign Languages and Literatures at Tamkang College of Arts and Sciences, today’s Tamkang University.[^2] During university, he not only excelled academically; he also began forming his own political and social views. He encountered Marxist theory and began using class analysis to observe Taiwanese society. This left-wing thought deeply influenced the direction of his writing over the following decades, and also became the intellectual foundation for his later move toward a political stance of “Chinese unification.”[^2]
+In September 1958, Chen Ying-zhen enrolled in the Department of Foreign Languages at Tamkang Junior College of Arts and Sciences. [^2] During his college years, he not only excelled academically but also began forming his own political and social views. He encountered Marxist theory and began using class analysis to observe Taiwanese society. This leftist thought profoundly influenced his creative direction for decades and served as the ideological foundation for his later political stance of "China unification." [^2]
 
-## The Beginnings of Literary Creation and His Rise to Fame
+## Literary Beginnings and Rise to Fame
 
-In 1959, the 22-year-old Chen Yingzhen published his debut work “Noodle Stall” in the magazine Bihui, formally beginning his literary career. The story depicts the life of the owner of a small noodle stall. Although brief, it already revealed the creative feature that would define him: attention to people at the bottom of society.
+In 1959, at age 22, Chen Ying-zhen published his debut work, "Noodle Stall," in _Bi Hui_ magazine, officially beginning his literary career. This was prompted by an invitation from Wei Tian-ts'ung to submit work to the magazine.
 
-In the early 1960s, Chen Yingzhen successively published a number of short stories and gradually built his reputation in the literary world. “My Younger Brother Kangxiong” portrays young people’s bewilderment under the impact of modernization, while “The Comedy of Tang Qian” explores the spiritual predicament of intellectuals. These works all showed his sharp power of observation regarding social problems.
+In the early 1960s, Chen published a series of short stories, which were later collected in volumes such as _My Brother Kang-hsiung_ (1959–1964) and _Tang Chien's Comedy_ (1964–1967).
 
-Published in 1964 in issue 19 of Modern Literature, “The General’s Clan” was Chen Yingzhen’s breakthrough work and a marker of the maturation of his creative style. The story describes the tragic love of two people at the bottom of society: “Triangle Face” is a mainlander veteran approaching 40 who came to Taiwan with the Nationalist government in 1949, drifted into an entertainment troupe, and survived by playing the trumpet; “Skinny Little Girl” is a young woman from an impoverished family in Hualien, Taiwan, who was sold into prostitution because of her family’s circumstances. She refused to “sell herself” and escaped, eventually making a living in the same entertainment troupe by dancing as a female clown. The two meet and depend on each other at the bottom of society, and ultimately die by suicide together.
+The 1964 publication of "The General Clan" was Chen's breakthrough work and a sign of his mature literary style. The novel depicts the tragic romance between two people from the bottom of society: "Triangle Face," a nearly forty-year-old bachelor retired from the National Revolutionary Army who earns a living playing the trumpet in an entertainment troupe; and "Little Skinny Girl," a fifteen or sixteen-year-old girl from a poor family in Taitung, sold into prostitution due to her family's circumstances. After escaping to Taipei, she joins the same troupe as a dancing clown. The two find solace in each other at the bottom of society; Triangle Face leaves his pension savings for her to buy her freedom, but the attempt fails, and she is sold again. They reunite five years later and commit suicide together in a sugarcane field the next day.
 
-“The General’s Clan” was one of the earliest works in Taiwanese literary history to touch on the “condition of mainlander veterans in Taiwan.” With delicate prose, Chen Yingzhen depicted how, after the division across the Taiwan Strait, two lower-class lives that might originally have had nothing to do with each other came to converge on the same dead end because of the Chinese Civil War and the lower-class structure of Taiwan’s economy. In 1999, “The General’s Clan” was selected by the Council for Cultural Affairs for “30 Classics of Taiwanese Literature,” making it a representative work of Chen Yingzhen’s literary achievement.[^3]
+By writing about the plight of mainland veterans and young Taiwanese women, "The General Clan" used delicate prose to depict how two marginalized lives—who might otherwise have had nothing in common—were brought together on a path to death by the cross-Strait division, the Chinese Civil War, and the economic marginalization of Taiwan's social structure. In 1999, "The General Clan" was selected as one of the "Thirty Classics of Taiwan Literature" by the Council for Cultural Affairs. [^3]
 
-## Mountain Road: A Belated Atonement for the White Terror
+## _Mountain Road_: A Delayed Atonement for the White Terror
 
-The novella Mountain Road, published in 1983, was one of Chen Yingzhen’s most representative works after his release from prison, as well as an important early text in Taiwanese literature to directly address the history of the White Terror.[^3]
+Written in 1983 and published in _Wen Ji_, "Mountain Road" is one of Chen's novels dealing with the White Terror, alongside "Bellflower." [^8]
 
-The central figure of the story, Cai Qianhui, is a family member of a victim of a 1950s political case: her lover Li Guomu was imprisoned during the White Terror and died in prison. Thereafter, Cai Qianhui spends the rest of her life in a form of atoning self-sacrifice, fulfilling the commitment that Li Guomu could not complete: going into the mountains to serve the people at the bottom of society. The story’s structure alternates between time and memory. Through Cai Qianhui’s perspective, Chen Yingzhen presents how the families of political prisoners bore a silent historical weight under high-pressure rule.
+The novel begins with an elderly woman, Tsai Chien-hui, suddenly losing her will to live and gradually wasting away. It traces back through her life of labor in the mountains of Yingge, finally revealing her past through a Japanese letter: her second brother betrayed two comrades—one was executed by firing squad, while the other was sentenced to life imprisonment on Green Island. She spent the rest of her life seeking atonement for this act. [^8]
 
-Mountain Road directly addresses the long-term effects of the White Terror on individual spirit and ethical choice. It is an important example of Chen Yingzhen’s combination of left-wing political stance and literary practice.[^3]
+## _The Washington Building_: Critique of Transnational Capital and Compradorism
 
-## Washington Building: A Critique of Transnational Capital and Compradors
+The _Washington Building_ series is a significant body of work produced after Chen's second arrest in 1979, shifting focus toward the aggression of transnational corporations against the economy, culture, and psyche of the Third World. On October 3, 1979, he was taken to the Investigation Bureau by the Headquarters of Police Security; he was released approximately 36 hours later following a joint protest signed by figures such as Shih Ming-te, Chen Ku-ying, /en/people/pai-hsien-yung-literary-master/, and Cheng Chou-yu.
 
-The Washington Building series was an important body of work by Chen Yingzhen in the 1980s. Centered on a transnational corporate office building in Taipei, the fiction focuses on how American multinational companies operated in Taiwan, and on how local Taiwanese employees played the role of “compradors” within the structure of foreign-capital enterprises: acting as intermediaries for outside capital, serving the interests of transnational capital, and becoming alienated from their own land and people.
-
-In this series, Chen Yingzhen clearly presented his critique of “dependent capitalism.” In his understanding, Taiwan’s modernization was a process of foreign-capital import dependent on transnational capital and mediated by a comprador class, lacking a foundation of autonomous local accumulation. This critique of the structure of foreign capital was of a piece with his left-wing political discourse after the 1980s, and made Washington Building a representative text of the socialist realist line in Taiwanese literary history.
+His novels and discourses during this period focused on Taiwan's position under transnational capital and dependent capitalism.
 
 ## The 1968 Democratic Taiwan Alliance Case
 
-On July 31, 1968, the Nationalist government arrested Chen Yingzhen, Li Zuocheng, Wu Yaozhong, Chen Shukong, Qiu Yanliang, and others, 36 people in total, on the grounds that they had “organized readings of left-wing books such as Marxist-Leninist works and Lu Xun and disseminated communist propaganda.” This was the “**Democratic Taiwan Alliance case**” (some sources write it as the “Democratic Taiwan League case”). At the time, Chen Yingzhen was an editorial board member of Literary Quarterly. Because the case also affected other writers such as Huang Chun-ming and Wei Tiancong, it was also called the “Literary Quarterly Incident.”[^4]
+On July 31, 1968, the Nationalist government arrested 36 people, including Chen Ying-zhen, Li Ch'eng-tsung, Wu Yao-chung, Chen Shu-kung, and Chiu Yen-liang, on charges of "organizing the reading of leftist books such as Marx and Lenin and spreading communist propaganda." This was the "**Democratic Taiwan Alliance Case**" (some documents refer to it as the Democratic Taiwan Union Case). At the time, Chen served as an editorial committee member for _Literature Quarterly_, and writers like /en/people/huang-chun-ming-taiwanese-literary-master/ and Wei Tian-ts'ung were also implicated, leading the incident to be known as the "_Wen Ji_ Incident." [^4]
 
-Note: the reason for the 1968 arrest was the “Democratic Taiwan Alliance case,” **not the “China Unification Alliance” that Chen Yingzhen personally founded in 1988**. The latter was a political organization established 13 years after his release from prison. The names are similar, but they refer to two entirely different events.
+Note: The 1968 arrest was due to the "Democratic Taiwan Alliance Case," **not the "China Unification Alliance" founded by Chen Ying-zhen in 1988**. The latter was a political organization established 13 years after his release; while the names are similar, they were two entirely different events.
 
-On December 31, 1968, Chen Yingzhen was sentenced to 10 years in prison and was successively transferred to Taiyuan Prison in Taitung and Green Island Lodge, the Green Island Reform and Re-education Prison. In prison, he did not stop thinking and writing; instead, he thought even more carefully about social problems and cross-strait relations. After Chiang Kai-shek’s death in 1975, Chen Yingzhen was released three years early under a special amnesty.
+On December 31, 1968, Chen was sentenced to 10 years in prison and transferred successively to Taitung Taiyuan Prison and Green Island Mountain Villa (Green Island Correctional Institution). In prison, he did not cease thinking or writing; instead, he reflected more deeply on social issues and cross-Strait relations. He was released three years early in 1975 due to an amnesty following the death of Chiang Kai-shek.
 
-This imprisonment further consolidated Chen Yingzhen’s left-wing position and his political advocacy of “Chinese unification.” He began to think more carefully about Taiwan’s place in the Cold War order, as well as the shared fate of the Taiwanese people and oppressed peoples in Asia, Africa, and Latin America. After his release in 1975, he returned to the literary world with more mature thought and a more distinct style. Works from this period, such as Mountain Road and the Washington Building series, all embodied his grasp of social reality and his concern for the fate of the people.
+This imprisonment experience further solidified Chen's leftist stance and his political advocacy for "China unification." He began to think more rigorously about Taiwan's position within the Cold War framework and the shared destiny of the Taiwanese people with oppressed nations in Asia, Africa, and Latin America. After his release in 1975, he returned to the literary world with more mature ideas and a sharper style. Works from this period, such as _Mountain Road_ and the _Washington Building_ series, embody his grasp of social reality and his concern for the fate of the people.
 
-## A Theorist of the Nativist Literature Movement
+## Theorist of the Nativist Literature Movement
 
-In the 1970s, the Nativist Literature movement emerged in Taiwan, and Chen Yingzhen was an important theorist and practitioner of this movement. He not only created a large number of outstanding works of nativist literature, but also provided theoretical guidance for the movement.
+In the 1970s, the Nativist literature movement emerged in Taiwan. In 1976, Chen Ying-zhen served as an editor for _Summer Tide_ magazine. During the Nativist literature debates of 1977–78, he published essays such as "Establishing a Style for National Literature," "Literature Comes from Society and Reflects Society," and "The Blind Spot of Nativist Literature" to rebut criticisms by Yu Kwang-chung and others who argued that Nativist literature tended toward "worker-peasant-soldier" literature. Consequently, he was regarded as one of the primary representatives of the Nativist school. [^5]
 
-Chen Yingzhen believed that genuine nativist literature was not a simple depiction of rural life. It should reflect the true face of Taiwanese society and care about the fate of people at the bottom. He emphasized literature’s realist tradition, opposed the notion of art for art’s sake, and argued that literature should serve the people and social progress.
+"Xu Nan-cun" was one of his pseudonyms, used, for example, in "New Hope for Realist Art," published in the third issue of _Poetry Tide_ in 1978. The aforementioned debate essays, however, were published under his real name.
 
-During the 1977-78 “Nativist Literature debate,” Chen Yingzhen intervened under the pen name “**Xu Nancun**,” publishing several key theoretical essays and firmly defending the value and significance of nativist literature. In the debate, he entered a long-running argument with Yeh Shih-tao over their divergent positions on “Taiwan consciousness” and “Chinese consciousness.” Yeh Shih-tao argued that nativist literature should be rooted in Taiwan’s own historical experience and develop an independent subjectivity for Taiwanese literature. Chen Yingzhen, by contrast, believed that nativist literature was a local expression in Taiwan of “Chinese national literature.” This debate became the starting point of the later split between “nativist” and “pro-unification” camps in Taiwanese literary circles, and its influence continues to the present.[^5]
+In the 1980s, he continued to participate in the editorial work of _Wen Ji_ and _Summer Tide_, and engaged in debates with the Taiwan localization faction—including opponents such as Chen Fang-ming—during the "China Knot" vs. "Taiwan Knot" controversies.
 
 ## Magazine Editing and Cultural Promotion
 
-Beyond fiction writing, Chen Yingzhen also devoted himself to editorial work and to promoting progressive culture. In 1985, he founded Renjian magazine. Through the form of reportage literature, the magazine closely reported on a range of problems in Taiwanese society, including labor issues, environmental issues, and Indigenous issues.
+Beyond his fiction, Chen Ying-zhen devoted himself to editorial work, striving to promote progressive culture. In 1985, he founded _Human_ magazine, which used reportage literature to closely report on various social issues in Taiwan, including labor, environmental, and Indigenous issues.
 
-Renjian magazine’s publishing philosophy embodied Chen Yingzhen’s consistent cultural position: cultural workers should go among the people, understand their suffering, and use words and images to record real social life. Although the magazine ceased publication after only five years (1985-1989), its influence continues to this day and it is regarded as a milestone in Taiwanese reportage literature.
+The editorial philosophy of _Human_ reflected Chen's consistent cultural advocacy: cultural workers should enter the grassroots, understand the suffering of the people, and use text and imagery to record real social life. _Human_ was a monthly publication that ran from November 1985 to September 1989, totaling 47 issues, and is considered a pioneer of reportage literature in Taiwan.
 
-Through Renjian magazine, Chen Yingzhen cultivated a group of outstanding cultural workers, including photographers, writers, and journalists. These people later continued to practice Chen Yingzhen’s cultural convictions in different positions across Taiwan’s cultural world.[^6]
+Through _Human_, Chen nurtured a group of excellent cultural workers, including photographers, writers, and journalists. These individuals went on to practice Chen's cultural convictions in various roles within the Taiwanese cultural sphere. [^6]
 
-## Literary Achievement and Historical Position
+## Literary Achievement and Historical Status
 
-Chen Yingzhen’s place in Taiwanese literary history is eminent. Together with [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/), [Huang Chun-ming](/en/people/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe, and others, he formed an important lineup in modern Taiwanese literature. The difference is that if [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/) was concerned with the spiritual world of urban intellectuals, and [Huang Chun-ming](/en/people/huang-chun-ming-taiwanese-literary-master/) depicted the everyday charms of ordinary people’s lives, then Chen Yingzhen was concerned with structural problems in society as a whole.
+Chen Ying-zhen holds a high status in Taiwan's literary history. Alongside /en/people/pai-hsien-yung-literary-master/, /en/people/huang-chun-ming-taiwanese-literary-master/, and Wang Zhen-he, he formed an essential part of modern Taiwanese literature. The distinction lies in their focus: if /en/people/pai-hsien-yung-literary-master/ focused on the spiritual world of urban intellectuals and /en/people/huang-chun-ming-taiwanese-literary-master/ described the charms of life for ordinary people, Chen Ying-zhen focused on the structural problems of society as a whole.
 
-His works possess a strong spirit of social critique and a deep humanitarian quality, injecting realist content into Taiwanese literature. Although most of the characters he wrote were people from the lower classes, they all have vivid personalities and profound inner worlds, reflecting the author’s understanding of human nature.
+His works are imbued with tones of melancholy and anguish, yet carry a sense of humanitarian concern. In 2004, the Cloud Gate Dance Theatre adapted chapters from "The General Clan," "The Sun Shining by Itself," "Oh! Susanna," "Mountain Road," and "Cloud" into the dance drama _Chen Ying-zhen: Landscapes_. In 2018, the Fire Thief Theater adapted "Mountain Road" into the stage play _On the Mountain Road_.
 
-Chen Yingzhen also had a far-reaching influence on later Taiwanese writers. Many writers drew nourishment from his works and learned from his creative attitude of paying attention to social reality and caring about the suffering of the people. Nativist literature writers such as Yang Qingchu and Song Zelai both said they had been inspired by Chen Yingzhen.
+## Chairman of the Unification Alliance and Ten Years in Beijing
 
-## Chair of the China Unification Alliance and 10 Years in Beijing
+On April 4, 1988, the China Unification Alliance was founded in Taipei by _China Magazine_ and the Summer Tide Federation. Chen Ying-zhen and Hu Chiu-yuan were among its founders, and he served as its first chairman. The organization, which opposes Taiwan independence and promotes cross-Strait unification, is considered a pro-unification group; in 2019, it registered as a political party named the "Unification Alliance Party." The founding of the China Unification Alliance marked a key turning point in Chen's transition from a man of letters to a political intellectual. He was no longer just a leftist writer of fiction; he chose to stand at the core of Taiwan's pro-unification camp.
 
-In 1988, Chen Yingzhen personally founded the “**China Unification Alliance**” in Taiwan and served as its first chair. The organization advocated “cross-strait unification and the rejuvenation of China,” and was one of the largest pro-unification political groups in Taiwan after the lifting of martial law. It remains in operation today. The founding of the China Unification Alliance marked a key turning point in Chen Yingzhen’s shift from writer to political intellectual. He was no longer simply a left-wing fiction writer; he chose to stand at the core of Taiwan’s pro-unification camp.
+In June 2006, at the invitation of Renmin University, Chen Ying-zhen settled in Beijing to serve as a visiting professor. On September 26 of that year, he was admitted to Beijing Chaoyang Hospital due to a stroke; on October 16, he suffered another stroke and fell into a deep coma. In June 2010, the China Writers Association approved his membership and appointed him Honorary Vice Chairman of the Seventh National Committee. He was the second non-mainland Chinese person to hold this honorary position after Jin Yong, and the first Taiwanese person to join the association.
 
-In 2006, Chen Yingzhen was elected a member of the Seventh National Committee of the China Writers Association, a position within the institutional structure of the People’s Republic of China with political implications. That same year, after suffering a stroke in Taiwan, he moved to Beijing for treatment and recuperation. In 2010, Chen Yingzhen suffered a second stroke and thereafter remained bedridden for years, never returning to Taiwan before his death in 2016.
+Chen Ying-zhen passed away in Beijing on November 22, 2016, at the age of 79. On December 1, a farewell ceremony was held at the Babaoshan Funeral Hall in Beijing. More than sixty friends and relatives from Taiwan attended, and wreaths were presented by high-ranking officials including Yu Zheng-sheng (Chairman of the CPPCC), Liu Yan-dong (Vice Premier), and Sun Chun-lan (Head of the United Front Work Department). [^9]
 
-On November 22, 2016, Chen Yingzhen died in Beijing at the age of 79. Mainland China arranged high-level commemorations after his death: his body was covered with the Chinese Communist Party flag, his ashes were interred at Babaoshan Revolutionary Cemetery, and Xi Jinping sent a message of condolence. These posthumous honors showed the Chinese Communist Party’s affirmation of Chen Yingzhen’s political position, and also made him an exceptionally symbolic figure in cross-strait cultural and political contestation.
-
-Chen Yingzhen’s life trajectory - born in Zhunan, Miaoli; raised in Yingge; writing in Taipei; imprisoned on Green Island; founding Renjian in Taipei; bedridden in Beijing; buried at Babaoshan - was one of the most controversial individual choices among Taiwan’s postwar left-wing intellectuals. His literary achievement is undeniable, but his political stance of Chinese unification diverged sharply from mainstream opinion in much of Taiwanese society. Taiwan’s nativist camp has long maintained a critical stance toward him; nativist critics such as Yeh Shih-tao and Peng Ruijin repeatedly wrote essays debating Chen Yingzhen’s argument for “Chinese national literature.”
+Chen Ying-zhen's life trajectory—born in Zhunan, raised in Yingge, writing in Taipei, imprisoned on Green Island, founding _Human_ in Taipei, and falling ill in Beijing—represents one of the most controversial personal choices among Taiwan's post-war leftist intellectuals. His political stance (China unification) diverged significantly from the mainstream opinion in Taiwanese society, leading to debates with figures like Chen Fang-ming. Following his death, Chen Fang-ming also publicly expressed his condolences.
 
 ## Awards and Works
 
-Chen Yingzhen received several important forms of recognition for his literary achievement:
+Chen Ying-zhen received several important recognitions for his literary achievements:
 
-- **1979**: Won the second **Wu Zhuoliu Literary Award** for “Night Freight”
-- **2009**: Received the 10th **Hua Zong World Chinese Literature Award** (organized by Malaysia’s Sin Chew Daily, regarded as an important award in the Chinese-language literary world)
+- **1979**: Won the Fiction Prize at the 10th **Wu Tu-liu Literary Award**
+- **2003**: Won the 2nd **Flower Trace World Chinese Literature Award**
 
-His representative works include the story collections The General’s Clan, My Younger Brother Kangxiong, The Comedy of Tang Qian, Night Freight, the Washington Building series, Mountain Road, Zhongxiao Park, and others; his collections of criticism include The Paranoia of Intellectuals, published under the pen name “Xu Nancun.” In 2017, INK Literary Monthly Publishing released the 23-volume Complete Works of Chen Yingzhen, the most comprehensive primary material for the study of Chen Yingzhen.[^7]
+In 2001, Hung Fan Publishing collected his short and medium-length stories into six volumes titled _The Collected Fiction of Chen Ying-zhen_, which include _My Brother Kang-hsiung_, _Tang Chien's Comedy_, _A Day in the Life of an Office Worker_, _The Emperor of All Merchants_, _Bellflower_, and _Zhongxiao Park_. His critical essays were collected in volumes such as _The Paranoia of the Intellectual_. Researcher Zhao Gang authored _Seeking: The Literary Path of Chen Ying-zhen_. [^7]
 
 ## References
 
-[^1]: [Chen Yingzhen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) - A complete biography of Chen Yingzhen, including records of his 1937 birth in Zhunan, Miaoli, his birth name Chen Yongshan, and his role as the first chair of the China Unification Alliance in 1988.
+[^1]: [Chen Ying-zhen — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) — Full biography of Chen Ying-zhen, including birth in Zhunan, Miaoli in 1937, real name Chen Yung-shan, and his role as the first chairman of the China Unification Alliance in 1988.
 
-[^2]: [Chen Yongshan (Chen Yingzhen) - National Human Rights Memory Bank](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) - The National Human Rights Museum’s official record of Chen Yingzhen’s political case and life.
+[^2]: [Chen Yung-shan (Chen Ying-zhen) — National Human Rights Archives](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) — Official records from the National Human Rights Museum regarding Chen Ying-zhen's political cases and life.
 
-[^3]: [The General’s Clan - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) - Records of the publication of “The General’s Clan” in issue 19 of Modern Literature in 1964, the plot involving Triangle Face and Skinny Little Girl, and its selection in 1999 for “30 Classics of Taiwanese Literature.”
+[^3]: [The General Clan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) — Information on the 1964 work "The General Clan," its plot involving Triangle Face and Little Skinny Girl, and its selection for the "Thirty Classics of Taiwan Literature" in 1999.
 
-[^4]: [Democratic Taiwan Alliance case - Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) - A complete record of the Democratic Taiwan Alliance case of July 31, 1968, including the list of 36 arrested persons, Chen Yingzhen’s 10-year sentence on December 31, 1968, and his early release under special amnesty in 1975. See also [Chu Youxun: July 1968, the Democratic Taiwan Alliance case](https://chuckchu.com.tw/article/318).
+[^4]: [Democratic Taiwan Alliance Case — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) — Full records of the Democratic Taiwan Alliance Case on July 31, 1968, including the list of 36 arrested individuals, Chen Ying-zhen's 10-year sentence on 1968/12/31, and his early release via amnesty in 1975. See also [Chu Yu-hsun: July 1968, the Democratic Taiwan Alliance Case](https://chuckchu.com.tw/article/318).
 
-[^5]: [Chen Yingzhen Extra: The Age of Betrayal - Mirror Media](https://www.mirrormedia.mg/story/20170213pol001/) - Contextual reporting on Chen Yingzhen’s role in the Nativist Literature debate, his intervention under the pen name Xu Nancun, and his debate with Yeh Shih-tao.
+[^5]: [Chen Ying-zhen Extra: An Era of Betrayal — Mirror Media](https://www.mirrormedia.mg/story/20170213pol001/) — Report on Chen Ying-zhen's life and the context of the Nativist literature debates.
 
-[^6]: [Founding Renjian magazine and pioneering Taiwanese reportage literature - The News Lens](https://www.thenewslens.com/article/54825) - The publishing history of Renjian magazine (1985-1989) and Chen Yingzhen’s place in the reportage literature movement.
+[^6]: [Founding _Human_ Magazine, Pioneering Taiwan's Reportage Literature — TNL The News Lens](https://www.thenewslens.com/article/54825) — The publication history of _Human_ magazine (1985–1989) and Chen Ying-zhen's role in the reportage literature movement.
 
-[^7]: [Quest: Chen Yingzhen’s Literary Path - CNA Weekly Good Reads](https://www.cna.com.tw/proj_goodbook/literature/633) - An academic review, from a pro-unification perspective, of Zhao Gang’s Quest: Chen Yingzhen’s Literary Path (Linking Publishing, 2011). See also [People’s Daily Overseas Edition: Chen Yingzhen, a “pro-unificationist who never repented”](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), the Chinese official commemorative characterization of Chen Yingzhen’s political position.
+[^7]: [Seeking: The Literary Path of Chen Ying-zhen — CNA Weekly Good Books](https://www.cna.com.tw/proj_goodbook/literature/633) — Academic review from a unificationist perspective of Zhao Gang's _Seeking: The Literary Path of Chen Ying-zhen_ (Lianji, 2011). See also [People's Daily Overseas Edition: Chen Ying-zhen, the "Unrepentant Unificationist"](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), the official Chinese characterization of his political stance.
+
+[^8]: [Reports and Critiques on Chen Ying-zhen's Passing — Mirror Media](https://www.mirrormedia.mg/story/20161128pol001) — Details on "Mountain Road" being published in _Wen Ji_ in 1983, and the plot involving Tsai Chien-hui and her brother's betrayal of comrades.
+
+[^9]: [Chen Ying-zhen's Farewell: Literary Friends Bid Final Farewell — CNA](https://www.cna.com.tw/news/acn/201612010347.aspx) — Details on the farewell ceremony at Beijing Babaoshan Funeral Hall on December 1, 2016, and the list of wreaths sent.
 
 ## Further Reading
 
-- [National Museum of Taiwan Literature - Chen Yingzhen](https://www.nmtl.gov.tw/) - Chen Yingzhen’s life, chronology of works, and manuscript collections
-- [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/) - A major Taiwanese literary figure of the same generation, known for Taipei People
+- [Museum of National Taiwan Literature — Chen Ying-zhen](https://www.nmtl.gov.tw/) — Biography, chronology of works, and manuscript archives of Chen Ying-zhen.
+- [/en/people/pai-hsien-yung-literary-master/](/people/白先勇) — A prominent contemporary Taiwanese literary master, best known for _Taipei People_.

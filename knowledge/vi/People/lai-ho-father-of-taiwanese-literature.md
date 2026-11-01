@@ -1,16 +1,16 @@
 ---
-title: 'Lại Hòa: Người mặc áo bản đảo của "Tràng Hoa Mẫu Tổ", và cây cân nhỏ không bao giờ thỏa hiệp của ông'
-description: 'Tối Giao thừa năm 1943, danh y Tràng Hoa Lại Hòa theo lệ thường thiêu hủy các khoản nợ của bệnh nhân nghèo. Vị y sư được mệnh danh là "Cha đẻ của Văn học mới Đài Loan", dưới áp lực thực dân vừa dùng dao mổ cứu người, vừa dùng bút như gươm chỉ trích bất công, tác phẩm 〈Một cây "cân nhỏ"〉 của ông cho đến nay vẫn là biểu tượng văn hóa của Đài Loan trong đối kháng với bạo lực quyền lực.'
+title: 'Lại Hòa: "Mẫu Thượng" vùng Chương Hóa trong bộ y phục bản đảo, và chiếc cân không bao giờ thỏa hiệp'
+description: 'Trước đêm giao thừa năm 1943, danh y Chương Hóa Lại Hòa (Lai He) đã đốt đi các hóa đơn nợ của bệnh nhân nghèo. Vị bác sĩ được mệnh danh là "Cha đẻ của văn học mới Đài Loan" này đã dùng dao mổ cứu người và dùng ngòi bút làm kiếm để phê phán bất công dưới ách thống trị thực dân.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Lại Hòa',
     'Văn học Đài Loan',
-    'Tràng Hoa',
+    'Chương Hóa',
     'Thời kỳ Nhật trị',
-    'Lịch sử y tế',
-    'Movimiento xã hội',
+    'Lịch sử y khoa',
+    'Phong trào xã hội',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,96 +19,96 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:ea423174510ba903'
+sourceCommitSha: '716685aa1'
+sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-07-26T10:36:33+08:00'
+translatedAt: '2026-10-24T09:47:28+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Lại Hòa (1894-1943) là y sư - nhà văn có ảnh hưởng nhất thời kỳ Nhật trị. Một tay cầm dao mổ cứu chữa cho dân nghèo, được tôn kính là "Tràng Hoa Mẫu Tổ" và "Hòa Tử Tiên"; một tay cầm bút khai sáng văn học tiếng nói Đài Loan, chỉ trích sự bất công của thống trị thực dân. Cuộc đời ông là hình thu nhỏ của sự đấu tranh và phẩm giá của người Đài Loan dưới sự thống trị của Nhật Bản, đặc biệt là việc thiêu hủy giấy nợ bệnh nhân mỗi năm Giao thừa như một举义 hành của y đức, cũng như những văn bản viết trong tù, cho đến nay vẫn là khuôn mẫu của y đức và tinh thần nhân văn Đài Loan.
+> **Tóm tắt trong 30 giây:** Lại Hòa (1894–1943) là bác sĩ kiêm nhà văn có tầm ảnh hưởng nhất thời kỳ Nhật trị. Một tay ông cầm dao mổ cứu giúp dân nghèo, được tôn kính là "Mẫu Thượng vùng Chương Hóa" và "Hòa Tử Tiên"; tay kia ông cầm bút khai phá nền văn học bạch thoại Đài Loan, phê phán sự bất công của chính quyền thực dân. Cuộc đời ông là hình ảnh thu nhỏ cho sự đấu tranh và lòng tự trọng của người dân Đài Loan dưới ách thống trị của Nhật Bản; đặc biệt là nghĩa cử cao đẹp đốt bỏ giấy nợ của bệnh nhân vào mỗi dịp giao thừa, cùng những dòng chữ viết trong ngục tối, cho đến nay vẫn là tấm gương sáng về y đức và tinh thần nhân văn của Đài Loan.
 
-「Thế gian chưa cho quyền lực tồn tại, dũng sĩ đương vì nghĩa đấu tranh.」[^1]
+"Thế gian chưa cho phép quyền lực tồn tại, dũng sĩ phải vì nghĩa mà đấu tranh." [^1]
 
-Ngày 8 tháng 12 năm 1941, ngày sự kiện Trân Châu Cảng bùng nổ, một y sư tại thành phố Tràng Hoa, để râu tám chữ, mặc áo bản đảo (trang phục truyền thống nhẹ nhàng của Đài Loan), không vì lý do gì bị cảnh sát hiến pháp Nhật Bản bắt đi. Đây là lần thứ hai ông nhập ngục. Trong tù, ông dùng loại giấy thô ráp viết nhật ký đầy ắp sự ức chế và suy tư.
+Ngày 8 tháng 12 năm 1941, ngay trong ngày sự kiện Trân Châu Cảng bùng nổ, một bác sĩ tại thành phố Chương Hóa với bộ ria mép chữ bát, mặc y phục bản đảo (trang phục truyền thống nhẹ nhàng của Đài Loan) đã bị cảnh sát hiến binh Nhật bắt đi mà không có bất kỳ lý do nào. Đây là lần thứ hai ông phải vào tù trong đời. Trong ngục, ông đã dùng những tờ giấy thô sơ để viết nên cuốn _Nhật ký trong ngục_ đầy rẫy những suy tư và sự kìm nén.
 
-Vị y sư này tên là Lại Hòa, nhưng danh tính được biết đến rộng rãi hơn là "Cha đẻ của Văn học mới Đài Loan".
+Vị bác sĩ này tên là Lại Hòa (Lai He), nhưng danh tính được biết đến rộng rãi hơn của ông chính là "Cha đẻ của văn học mới Đài Loan".
 
-### Trong phòng khám của "Tràng Hoa Mẫu Tổ": Từ Chiayi đến Ha Môn, sự thức tỉnh của người thầy thuốc
+### "Mẫu Thượng" vùng Chương Hóa trong phòng khám: Sự thức tỉnh của người thầy thuốc từ Gia Nghĩa đến Hạ Môn
 
-Năm 1914, sau khi tốt nghiệp Trường Y học Phủ Thống đốc Đài Loan, Lại Hòa thực tập tại Đài Bắc, và từ 1914 đến 1915 làm việc tại Viện Y tế Chiayi của Phủ Thống đốc Đài Loan (tiền thân của Bệnh viện Chiayi Bộ Y tế Phúc lợi ngày nay).[^2] Năm 1918, ông đi xa đến Bệnh viện Bác Ái tại Cổ Lãng Dự, Ha Môn làm y nhân, trực tiếp chứng kiến tư潮 Ngũ Tứ vận động và thực tại xã hội Trung Quốc, năm 1919 trở về Đài Loan mở "Y quán Lại Hòa" tại Tràng Hoa.[^3]
+Năm 1914, sau khi tốt nghiệp Trường Y thuộc Phủ Tổng đốc Đài Loan, Lại Hòa bắt đầu thực tập tại Đài Bắc và làm việc tại Bệnh viện Gia Nghĩa thuộc Phủ Tổng đốc (tiền thân của Bệnh viện Gia Nghĩa thuộc Bộ Y tế và Phúc lợi hiện nay) trong giai đoạn 1914–1915. [^2] Năm 1918, ông đi xa đến làm bác sĩ tại Bệnh viện Bác Ái trên đảo Cổ Lãng Tự, Hạ Môn, trực tiếp trải nghiệm luồng tư tưởng của Phong trào Ngũ Tứ và thực tế xã hội Trung Quốc; sau khi trở về Đài Loan vào năm 1919, ông đã mở "Lại Hòa Y quán" tại Chương Hóa. [^3]
 
-Trong thời kỳ thực dân phân cấp forest nghiêm ngặt, Lại Hòa chọn cởi bỏ vest, lâu dài mặc áo bản đảo, điều này không chỉ là phong cách ăn mặc, mà là một biểu thái chính trị từ chối thể chế quan lại thực dân, đứng về phía nhân dân cơ층.[^4]
+Trong thời đại thực dân với sự phân chia giai cấp nghiêm ngặt, Lại Hòa đã chọn cởi bỏ những bộ Âu phục để mặc y phục bản đảo trong suốt thời gian dài. Đây không chỉ là phong cách ăn mặc, mà còn là một thái độ chính trị: từ chối hệ thống quan liêu thực dân và đứng về phía tầng lớp nhân dân thấp kém. [^4]
 
-Dân địa phương tôn xưng ông là "Tràng Hoa Mẫu Tổ", "Hòa Tử Tiên" hoặc "Hoa Tuần tái thế". Động người nhất là lệ thường hàng năm trước Giao thừa của ông: thiêu hủy hóa đơn y tế của bệnh nhân nghèo, để họ "vô nợ qua năm". Có bệnh nhân Giao thừa vội đến trả tiền, ông cười nói: "Giấy nợ đã烧了, miễn trả không sao."[^5] Bên cạnh y quán là "Láng giềng bảo quán" (nhà điều dưỡng khổ đau), ông thường mời các già lữ du ca sĩ đàn nguyệt, chép lại dân ca như 〈Tân Dậu Nhất Ca Thơ〉 (về khởi nghĩa Đai Vạn Sinh), khiến thực hành y khoa và bảo tồn văn hóa gắn bó chặt chẽ.[^6]
+Người dân địa phương tôn kính gọi ông là "Mẫu Thượng vùng Chương Hóa", "Hòa Tử Tiên" hoặc "Hoa Đà tái thế". Điều cảm động nhất chính là thói quen của ông trước mỗi đêm giao thừa: đốt bỏ hóa đơn viện phí của những bệnh nhân nghèo để họ có thể "ăn Tết không nợ nần". Có bệnh nhân vội vàng đến trả tiền vào đêm giao thừa, ông chỉ cười nói: "Giấy nợ đã đốt rồi, không trả cũng không sao." [^5] Bên cạnh y quán là "Lân Bảo Quán" (nhà cho người ăn xin), nơi ông thường mời các nghệ sĩ hát rong già chơi đàn nguyệt và chép lại các bài dân ca như _Tân Dậu Nhất Ca Thi_ (về cuộc khởi nghĩa của Đới Vạn Sinh), kết hợp chặt chẽ giữa thực hành y tế và bảo tồn văn hóa. [^6]
 
-### Cây cân nhỏ gãy: Tiếng rống văn học sau sự kiện Nhị Lâm
+### Chiếc cân bị gãy: Tiếng thét văn học sau sự kiện Nhị Lâm
 
-Văn học của Lại Hòa luôn gắn liền chặt chẽ với các sự kiện lịch sử cụ thể. Năm 1925 "Sự kiện nông dân mía Nhị Lâm" bùng nổ, nông dân phản kháng sự bóc lột của hội xã chế đường bị cảnh sát trấn áp, kích thích ông viết bài thơ mới đầu tiên 〈Hy sinh dưới sự thức tỉnh〉.[^7] 〈Một cây "cân nhỏ"〉 xuất bản tháng 2 năm 1926, là đại diện điển hình của tinh thần chống cự này.
+Văn chương của Lại Hòa luôn gắn liền với các sự kiện lịch sử cụ thể. Năm 1925, khi "Sự kiện nông dân trồng mía Nhị Lâm" bùng nổ — cuộc kháng chiến của nông dân chống lại sự bóc lột của công ty đường bị cảnh sát đàn áp — ông đã viết nên bài thơ mới đầu tiên mang tên _Sự hy sinh dưới sự giác ngộ_. [^7] Tác phẩm _Một chiếc cân_ (一桿「稱仔」) công bố vào tháng 2 năm 1926 chính là đại diện cho tinh thần đấu tranh này.
 
-Cây cân nhỏ bị tuần cảnh gãy trong truyện, tượng trưng cho bạo lực quyền lực mà thực dân tùy tiện thao túng pháp luật.[^8] Lại Hòa trong hậu ký nhắc đến, tác phẩm này chịu ảnh hưởng sâu sắc từ 〈Cờ La Cốt Bi〉 của nhà văn Pháp Pháp Lãng Sĩ (Anatole France), nhưng ông đã chuyển hóa nó thành trải nghiệm在地 của Đài Loan, thể hiện "sự chống cự của người yếu thế".[^9]
+Hình ảnh chiếc cân bị cảnh sát tuần tra bẻ gãy trong câu chuyện tượng trưng cho sự bạo lực của kẻ thực dân khi tùy ý thao túng luật pháp và quyền lực. [^8] Trong lời hậu ký, Lại Hòa có nhắc đến việc tác phẩm này chịu ảnh hưởng sâu sắc từ tác phẩm _Clagny_ của nhà văn Pháp Anatole France, nhưng ông đã chuyển hóa nó thành trải nghiệm bản địa của Đài Loan để thể hiện "sự kháng cự của kẻ yếu". [^9]
 
-Ngoài ra, bài thơ dài 〈Ai ca Nam quốc〉 xuất bản tháng 4 năm 1931 trên 《Đài Loan Tân Dân Báo》 dưới bút danh "An Đô Sinh", là tác phẩm quan trọng truy điệu sự kiện Vụ Xã, tố cáo bạo lực thực dân.[^10]
+Ngoài ra, bài trường thi _Nam quốc ai ca_ (Khúc bi ca phương Nam) đăng trên tờ _Đài Loan Tân Dân Báo_ dưới bút danh "An Đô Sinh" vào tháng 4 năm 1931, là một tác phẩm quan trọng nhằm tưởng niệm sự kiện Vũ Xã và tố cáo bạo lực thực dân. [^10]
 
-### 〈Tiến về phía trước〉: Sự tỉnh táo trong bóng tối và nỗi lo phân chia tả hữu
+### 〈Tiến lên〉: Sự tỉnh táo trong bóng tối và nỗi lo về sự chia rẽ tả hữu
 
-Năm 1927, Hiệp hội Văn hóa Đài Loan đối mặt phân chia tả hữu nghiêm trọng. Làm lý事 của hội, Lại Hòa cảm thấy lo lắng sâu sắc về sự tiêu hao nội bộ. Trong văn xuôi 〈Tiến về phía trước〉, ông dùng bút pháp ẩn dụ viết:
+Năm 1927, Hiệp hội Văn hóa Đài Loan đối mặt với sự chia rẽ nghiêm trọng giữa phe tả và phe hữu. Với tư cách là lý sự của Hiệp hội, Lại Hòa vô cùng lo lắng trước sự tiêu hao nội bộ của phong trào. Trong bài tản văn _Tiến lên_, ông đã dùng bút pháp ngụ ngôn để viết:
 
-「Trong bóng tối này, vẫn không có lý do không tiến về phía trước. Chúng ta không biết can đảm từ đâu mà đến, khiến chúng ta không hề e ngại, tiến về con đường chưa biết.」[^11]
+"Trong bóng tối này, thậm chí không có khả năng nào là không tiến về phía trước. Chúng ta không biết lòng dũng cảm từ đâu đến, mà có thể khiến chúng ta tiến về con đường chưa biết kia mà không chút sợ hãi." [^11]
 
-Kết thúc truyện hai người chia tay nhau, tượng trưng cho sự bất đồng đường lối của trí thức trong con đường chống cự. Ông kêu gọi đoàn kết, tránh hao mòn thực lực hữu hạn.[^12] Lo lắng này cũng thể hiện qua việc nâng đỡ các nhà văn hậu tiến, Dương Quý, Vương Thư Lang, Lữ Hạc Nhược, Ngô Trọc Lưu, Diệp Thạch Thao... đều từng nhận sự hướng dẫn và chăm sóc của ông.[^13]
+Kết thúc câu chuyện là cảnh hai người chia tay nhau, tượng trưng cho sự bất đồng trong lộ trình đấu tranh của giới trí thức. Ông kêu gọi sự đoàn kết để tránh việc tiêu hao sức mạnh hữu hạn vào những mâu thuẫn nội bộ. [^12] Sự quan tâm này cũng thể hiện qua việc ông nâng đỡ các nhà văn hậu bối như Dương Khuê (Yang Kui), Vương Thi Lang (Wang Shi-lang), Lữ Hách Nhược (Lu He-ruo), Ngô Trác Lưu (Wu Zhuo-liu), Diệp Thạch Thao (Yeh Shih-tao)... [^13]
 
-### Ngôn ngữ và nhận diện bản sắc: Khâu vá "tiếng Đài" trong những đứt gãy
+### Ngôn ngữ và bản sắc: Khâu vá tiếng Đài Loan giữa những đứt gãy
 
-Lại Hòa nhận giáo dục Hán học truyền thống, trong đào tạo y khoa hiện đại và ngữ cảnh thực dân, luôn khám phá giữa "văn ngôn Đài Loan" và văn bạch thoại Trung Quốc. Khi sáng tác, ông thường tư duy bằng văn Hán, viết bằng tiếng Bắc Kinh, sau đó cố ý dung nhập các từ tiếng Mân Nam (tiếng Đài) như "cân nhỏ, 贌, 刻虧", phấn đấu sát gần ngôn ngữ đời thường và trải nghiệm sống của đồng bào Đài Loan.[^14]
+Được đào tạo theo nền Hán học truyền thống, nhưng dưới sự huấn luyện y khoa hiện đại và bối cảnh thực dân, Lại Hòa luôn tìm tòi giữa "văn viết tiếng Đài" và văn bạch thoại Trung Quốc. Khi sáng tác, ông thường tư duy bằng Hán văn, viết bằng tiếng Bắc Kinh, sau đó cố ý lồng ghép các từ vựng tiếng Mân Nam (tiếng Đài) như "称仔" (chiếc cân), "贌" (cửa hàng), "刻虧" (lỗ vốn)... nhằm nỗ lực tiếp cận ngôn ngữ đời thường và trải nghiệm sống của người dân Đài Loan. [^14]
 
-| Tác phẩm quan trọng                    | Ngày xuất bản | Chủ đề cốt lõi và liên hệ lịch sử                                           |
-| -------------------------------------- | ------------- | --------------------------------------------------------------------------- |
-| 〈Đấu Náo Nhiệt〉                      | 1926.01       | Phê phán tục lệ phong kiến và sự lãng phí, miêu tả thực tại đời sống cơ层   |
-| 〈Một cây "cân nhỏ"〉                  | 1926.02       | Phê phán bạo lực pháp luật, hồi điệp sau sự kiện nông dân mía Nhị Lâm       |
-| 〈Ông Trùm〉                           | 1930.01       | Xung đột y học hiện đại với tín ngưỡng dân gian, phê phán xã hội            |
-| 〈Ai ca Nam quốc〉                     | 1931.04       | Truy điệu sự kiện Vụ Xã, bài thơ dài phản kháng quan trọng thời kỳ Nhật trị |
-| 〈Câu chuyện của người hay kiện tụng〉 | 1934.12       | Châm biếm thể chế pháp luật thực dân bóc lột nhân dân                       |
+| Tác phẩm quan trọng                | Ngày công bố | Chủ đề cốt lõi và liên hệ lịch sử                                                  |
+| :--------------------------------- | :----------- | :--------------------------------------------------------------------------------- |
+| 〈Đấu náo nhiệt〉                  | 01/1926      | Phê phán hủ tục phong kiến và sự lãng phí, mô tả thực trạng đời sống tầng lớp dưới |
+| 〈Một chiếc cân〉                  | 02/1926      | Phê phán bạo lực pháp luật, hưởng ứng sau sự kiện nông dân Nhị Lâm                 |
+| 〈Ngài Rắn〉                       | 01/1930      | Xung đột giữa y học hiện đại và tín ngưỡng dân gian, phê phán xã hội               |
+| 〈Nam quốc ai ca〉                 | 04/1931      | Tưởng niệm sự kiện Vũ Xã, bài trường thi phản kháng quan trọng thời Nhật trị       |
+| 〈Câu chuyện về người thiện kiện〉 | 12/1934      | Châm biếm hệ thống pháp luật thực dân bóc lột nhân dân                             |
 
-### Dư âm của dũng sĩ: Hình tượng văn học được phong thờ tại Trung Liệt Tự
+### Dư âm của dũng sĩ: Biểu tượng văn học được thờ tại Đền Trung Liệt
 
-Ngày 31 tháng 1 năm 1943, Lại Hòa qua đời vì bệnh tim, hưởng năm 49 tuổi (tuổi hư 50). Ông sinh năm 1894 — năm Đài Loan bị nhường cho Nhật Bản, mất năm 1943 — hai năm trước khi Nhật Bản đầu hàng, một đời trọn vẹn chứng kiến nửa thế kỷ khổ đau thực dân. Di chúc ông khiêm tốn gọi tác phẩm của mình "không có giá trị gì,烧了 cũng không sao".[^15]
+Ngày 31 tháng 1 năm 1943, Lại Hòa qua đời vì bệnh tim ở tuổi 49 (tuổi mụ là 50). Ông sinh vào năm 1894 — năm Đài Loan bị nhượng cho Nhật Bản, và mất hai năm trước khi Nhật Bản thất bại — cả cuộc đời ông là chứng nhân trọn vẹn cho nửa thế kỷ khổ đau dưới ách thực dân. Trong di chúc, ông khiêm tốn nói rằng các tác phẩm của mình "chẳng có giá trị gì, đốt đi cũng không sao". [^15]
 
-Sau chiến tranh, Lại Hòa năm 1951 được nhập thờ tại Trung Liệt Tự, năm 1958 vì yếu tố chính trị bị di chuyển ra, năm 1984 sau khi bình phản lại được phong thờ.[^16] Ngày nay "Tường Thơ Lại Hòa" (gồm trăm tấm thép) tại chân núi Bát Quái Sơn khắc tác phẩm ông, hàng năm "Ngày Lại Hòa" vẫn có hoạt động kế thừa tinh thần của ông.[^17]
+Sau chiến tranh, năm 1951, Lại Hòa được đưa vào thờ tại Đền Trung Liệt; đến năm 1958, ông bị đưa ra khỏi đền vì các yếu tố chính trị, và sau khi được minh oan vào năm 1984, ông đã được tôn thờ trở lại. [^16] Ngày nay, "Tường thơ Lại Hòa" (được ghép từ hàng trăm tấm thép) dưới chân núi Bát Quái, Chương Hóa có khắc các tác phẩm của ông; hoạt động "Ngày Lại Hòa" hàng năm vẫn tiếp nối tinh thần của ông. [^17]
 
-📝 **Ghi chú của người tổ chức triển lãm**: Câu chuyện của Lại Hòa nói với chúng ta, sự chống cự mạnh mẽ nhất không phải là vũ khí, mà là lòng thương người và khao khát công lý không bao giờ tắt. Văn chương và hình ảnh áo bản đảo của ông, đã trở thành DNA của văn học Đài Loan, để người sau trong bóng tối vẫn giữ can đảm tiến về phía trước.
+📝 **Ghi chú của giám tuyển**: Câu chuyện về Lại Hòa dạy chúng ta rằng, sự kháng cự mạnh mẽ nhất không phải là vũ khí, mà là lòng trắc ẩn đối với con người và khát vọng công lý không bao giờ tắt. Những dòng chữ và hình ảnh y phục bản đảo của ông đã trở thành DNA của văn học Đài Loan, giúp hậu thế vẫn giữ được lòng dũng cảm để tiến về phía trước ngay cả trong bóng tối.
 
 ### Tài liệu tham khảo
 
-[^1]: [Lại Hòa 〈Người chúng ta〉, 《Đài Loan Dân Báo》1925](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Thơ作早期 của Lại Hòa, thể hiện ý thức chống cự "Thế gian chưa cho quyền lực tồn tại, dũng sĩ đương vì nghĩa đấu tranh"
+[^1]: [Lại Hòa 〈Ngô nhân〉 (Trang tác giả trên WikiSource)](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Thất ngôn luật thi, câu "Thế gian chưa cho phép quyền lực tồn tại, dũng sĩ phải vì nghĩa mà đấu tranh" xuất phát từ đây. Năm xuất bản gốc và báo chí đăng tải cần được kiểm chứng: WikiSource chỉ liệt kê trong khoảng 1918–1943 mà không ghi ngày cụ thể; chú thích này trước đó viết "Tạp chí Dân báo Đài Loan 1925" nhưng liên kết đó không hỗ trợ năm ấy, đã loại bỏ vào 24/10/2026 (issue #1897). Để xác định năm chính xác, vui lòng tra cứu _Lại Hòa Toàn Tập_ hoặc Quỹ Văn hóa Giáo dục Lại Hòa.
 
-[^8]: [Diệp Thạch Thao 《Đại cương sử văn học Đài Loan》 (Nhà xuất bản Tiền vệ, 1987)](https://search.worldcat.org/title/16894890) — Tác phẩm sử văn học Đài Loan hệ thống đầu tiên, miêu tả 〈Một cây cân nhỏ〉 là tác phẩm đại diện phê phán bạo lực pháp luật thực dân
+[^8]: [Diệp Thạch Thao 《Lịch sử văn học Đài Loan》 (Nhà xuất bản Tiền Vệ, 1987)](https://search.worldcat.org/title/16894890) — Công trình nghiên cứu hệ thống đầu tiên về lịch sử văn học Đài Loan, mô tả 〈Một chiếc cân〉 là tác phẩm đại diện phê phán bạo lực pháp luật thực dân.
 
-[^9]: [Lại Hòa hậu ký 〈Một cây "cân nhỏ"〉, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lại Hòa tự thuật về sự启发 của Pháp Lãng Sĩ 〈Cờ La Cốt Bi〉 đối với tác phẩm này
+[^9]: [Hậu ký tác phẩm 〈Một chiếc cân〉 của Lại Hòa, 1926](https://zh.wikisource.org/zh-hant/%E4%B8%80%E6%A1%BF%E2%80%9C%E7%A8%B1%E4%BB%94%E2%80%9D) — Lại Hòa tự thuật về sự ảnh hưởng của tác phẩm _Clagny_ (Anatole France) đối với tác phẩm này.
 
-[^17]: [Sở Văn hóa huyện Tràng Hoa: Con đường văn học Bát Quái Sơn và Tường Thơ Lại Hòa](https://www.bocach.gov.tw/) — Trăm tấm thép khắc tác phẩm Lại Hòa, hàng năm "Ngày Lại Hòa" kế thừa tinh thần ông
+[^17]: [Cục Văn hóa huyện Chương Hóa: Đường mòn văn học núi Bát Quái và Tường thơ Lại Hòa](https://www.bocach.gov.tw/) — Hàng trăm tấm thép khắc tác phẩm của Lại Hòa, "Ngày Lại Hòa" hàng năm tiếp nối tinh thần ông.
 
-[^11]: [Lại Hòa văn xuôi 〈Tiến về phía trước〉, 《Đài Loan Dân Báo》1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Bút pháp ẩn dụ viết nỗi lo phân chia Hiệp hội Văn hóa, kêu gọi đoàn kết tránh hao mòn thực lực
+[^11]: [Tản văn 〈Tiến lên〉 của Lại Hòa, 《Đài Loan Dân báo》 1928](https://zh.wikisource.org/zh-hant/Author:%E8%B3%B4%E5%92%8C) — Dùng bút pháp ngụ ngôn viết về nỗi lo chia rẽ trong Hiệp hội Văn hóa, kêu gọi đoàn kết tránh tiêu hao sức mạnh.
 
-[^15]: [Lâm Thụy Minh 《Lại Hòa với vận động Văn học mới Đài Loan》 (Nhà xuất bản Tiền vệ)](https://search.worldcat.org/title/35884019) — Tác phẩm kinh điển nghiên cứu Lại Hòa, chứa di chúc "không có giá trị gì,烧了 cũng không sao" khiêm tốn
+[^15]: [Lâm Thụy Minh 《Lại Hòa và Phong trào văn học mới Đài Loan》 (Nhà xuất bản Tiền Vệ)](https://search.worldcat.org/title/35884019) — Tác phẩm nghiên cứu kinh điển về Lại Hòa, bao gồm lời khiêm tốn trong di chúc "chẳng có giá trị gì, đốt đi cũng không sao".
 
-[^12]: [Hội Sáng Giá Đài Loan 〈Lại Hòa: Người nhân đạo hành động〉](https://www.twsgi.org.tw/index-author.php?author_id=129) — Chuyên mục phê bình văn học Lại Hòa: xem chi tiết tại liên kết gốc
+[^12]: [Soka Gakkai Đài Loan 〈Lại Hòa: Nhà nhân đạo hành động〉](https://www.twsgi.org.tw/index-author.php?author_id=129) — Chuyên mục phê bình văn học Lại Hòa: Xem chi tiết nội dung trong liên kết gốc.
 
-[^2]: [Lại Hòa — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Sinh평 1894-1943 + tốt nghiệp y học + thực tập viện y tế Chiayi等基本资料
+[^2]: [Lại Hòa — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E5%92%8C) — Thông tin cơ bản về cuộc đời 1894-1943 + tốt nghiệp trường y + thực tập tại Bệnh viện Gia Nghĩa...
 
-[^3]: [Ký ức Đài Loan — Quốc gia Thư viện](https://tm.ncl.edu.tw/) — + [Open Museum 典藏 Lại Hòa](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — 1918 ghi chép làm việc tại Bệnh viện Bác Ái Cổ Lãng Dự, Ha Môn
+[^3]: [Ký ức Đài Loan — Thư viện Quốc gia](https://tm.ncl.edu.tw/) — + [Bộ sưu tập Lại Hòa tại Open Museum](https://openmuseum.tw/muse/digi_object/c1553216db10682602d4f7eb307f6917) — Hồ sơ làm việc tại Bệnh viện Bác Ái, Cổ Lãng Tự, Hạ Môn năm 1918.
 
-[^4]: [Trang web chính thức Quỹ Văn hóa Giáo dục Lại Hòa](https://www.laiho.org.tw/) — Ghi chép biểu thái chính trị của phong cách mặc áo bản đảo
+[^4]: [Trang web chính thức của Quỹ Văn hóa Giáo dục Lại Hòa](https://www.laiho.org.tw/) — Ghi chép về thái độ chính trị qua phong cách mặc y phục bản đảo.
 
-[^5]: [Quỹ Văn hóa Giáo dục Lại Hòa: Truyền miệng lệ thường烧帳單](https://www.laiho.org.tw/) — "Tràng Hoa Mẫu Tổ", "Hòa Tử Tiên" hàng năm Giao thừa烧 giấy nợ bệnh nhân nghèo
+[^5]: [Quỹ Văn hóa Giáo dục Lại Hòa: Lời kể về thói quen đốt hóa đơn](https://www.laiho.org.tw/) — "Mẫu Thượng vùng Chương Hóa", "Hòa Tử Tiên" đốt giấy nợ của bệnh nhân nghèo vào mỗi đêm giao thừa.
 
-[^6]: [Quỹ Văn hóa Giáo dục Lại Hòa: Láng giềng bảo quán và quan tâm xã hội](https://www.laiho.org.tw/) — Bên cạnh y quán "Láng giềng bảo quán" mời già lữ du ca sĩ chép dân ca như 〈Tân Dậu Nhất Ca Thơ〉
+[^6]: [Quỹ Văn hóa Giáo dục Lại Hòa: Lân Bảo Quán và sự quan tâm xã hội](https://www.laiho.org.tw/) — "Lân Bảo Quán" cạnh y quán, nơi mời các nghệ sĩ hát rong già chép lại dân ca như 〈Tân Dậu Nhất Ca Thi〉.
 
-[^7]: [Quán Văn học Số Nghiệp Đường Đài Loan: Sự kiện Nhị Lâm và 〈Hy sinh dưới sự thức tỉnh〉](https://jiayichinese.pixnet.net/blog/posts/8041877028) — Sự kiện nông dân mía Nhị Lâm năm 1925 kích thích Lại Hòa bài thơ mới đầu tiên
+[^7]: [Bảo tàng Văn học Số Ngành Đường Đài Loan: Sự kiện Nhị Lâm và 〈Sự hy sinh dưới sự giác ngộ〉](https://jiayichinese.pixnet.net/blog/posts/8041877028) — Sự kiện nông dân trồng mía Nhị Lâm năm 1925 đã khơi nguồn cho bài thơ mới đầu tiên của Lại Hòa.
 
-[^10]: [〈Ai ca Nam quốc〉 — Wiki文庫](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — 1931-04-25 + 05-02 xuất bản trên 《Đài Loan Tân Dân Báo》, bài thơ dài truy điệu sự kiện Vụ Xã
+[^10]: [〈Nam quốc ai ca〉 — WikiSource](https://zh.wikisource.org/zh-hant/%E5%8D%97%E5%9C%8B%E5%93%80%E6%AD%8C) — Xuất bản ngày 25/04 hoặc 02/05/1931 trên tờ 《Đài Loan Tân Dân Báo》, bài trường thi tưởng niệm sự kiện Vũ Xã.
 
-[^13]: [Diệp Thạch Thao 《Đại cương sử văn học Đài Loan》 — Ghi chép nâng đỡ hậu tiến](https://search.worldcat.org/title/16894890) — Ghi chép Lại Hòa nâng đỡ Dương Quý / Vương Thư Lang / Lữ Hạc Nhược / Ngô Trọc Lưu / Diệp Thạch Thao等後進作家
+[^13]: [Diệp Thạch Thao 《Lịch sử văn học Đài Loan》 — Ghi chép về việc nâng đỡ hậu bối](https://search.worldcat.org/title/16894890) — Ghi chép về việc Lại Hòa hỗ trợ các nhà văn hậu bối như Dương Khuê / Vương Thi Lang / Lữ Hách Nhược / Ngô Trác Lưu / Diệp Thạch Thao...
 
-[^14]: [Nghiên cứu vận dụng ngôn ngữ Toàn tập Lại Hòa — Lâm Thụy Minh等編](https://www.laiho.org.tw/) — Khám phá "văn ngôn Đài Loan" ba lớp dung hợp: văn Hán + tiếng Bắc Kinh + tiếng Mân Nam
+[^14]: [Nghiên cứu vận dụng ngôn ngữ trong Lại Hòa Toàn Tập — Biên soạn bởi Lâm Thụy Minh và cộng sự](https://www.laiho.org.tw/) — Sự khám phá "văn viết tiếng Đài" thông qua sự kết hợp ba tầng: Hán văn + tiếng Bắc Kinh + tiếng Mân Nam.
 
-[^16]: [Trung Liệt Tự (Đài Loan) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Ghi chép Lại Hòa 1951 nhập thờ / 1958因政治移出 / 1984 bình phản重新奉祀纪录
+[^16]: [Đền Trung Liệt (Đài Loan) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E7%83%88%E7%A5%A0_%28%E8%87%BA%E7%81%A3%29) — Hồ sơ Lại Hòa được thờ năm 1951 / bị đưa ra khỏi đền vì chính trị năm 1958 / được minh oan và thờ lại năm 1984.

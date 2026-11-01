@@ -32,15 +32,19 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pon
 readingTime: 18
 relatedDiary: ['2026-07-13-073739-三班護病比']
 sporeLinks:
-  [
-    "{'id': 157, 'platform': 'threads', 'date': '2026-07-15', 'url': 'https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B'}",
-    "{'id': 158, 'platform': 'x', 'date': '2026-07-15', 'url': 'https://x.com/taiwandotmd/status/2077235621287084160'}",
-  ]
+  - id: 157
+    platform: 'threads'
+    date: '2026-07-15'
+    url: 'https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B'
+  - id: 158
+    platform: 'x'
+    date: '2026-07-15'
+    url: 'https://x.com/taiwandotmd/status/2077235621287084160'
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:a253f62d3df56358'
-sourceBodyHash: 'sha256:3a7e69bdd14827b6'
-translatedAt: '2026-07-31T02:01:51+08:00'
+sourceCommitSha: 'bf8f59be7'
+sourceContentHash: 'sha256:dd206c9d583175cc'
+sourceBodyHash: 'sha256:c6593b85f2a24ba6'
+translatedAt: '2026-10-25T17:21:45.476825+00:00'
 ---
 
 > **30-Second Overview**: The Medical Care Act does not regulate individual physicians (that is the 1943 Medical Practitioners Act), nor does it regulate health insurance payments (that is the 1994 National Health Insurance Act). It regulates how institutions—hospitals, clinics, and medical legal entities—exist, how they advertise, and how they handle disputes. Promulgated in 1986 with 91 articles in full, it underwent major revision in 2004 to expand to 123 articles and introduce the "medical legal entity" system. In 2017, Article 82 was amended to change physician criminal liability to a "dual-element" standard. In May 2026, the nurse-to-patient ratio was codified into law. Yet over these forty years, the first article’s mandate to "promote the sound development of the medical profession" has met a reality where 83% of hospitals and 74% of hospital beds are privately owned; the attrition rate of emergency physicians is two to three times higher than in the United States; nurses are leaving in droves, collapsing from exhaustion, until the legislature finally codified the nurse-to-patient ratio.
@@ -326,17 +330,17 @@ In 2019, influencer Li Ke Tai Tai uploaded a "Cervical Cancer Self-Sampling Tool
 
 But enforcement resources can never catch up with the number of violations. _The Reporter_’s special report on physician manpower distribution pointed out that in three years, about 300 self-pay clinics were added nationwide[^58]; the expansion speed of the medical aesthetics market far exceeds the burden limit of inspection manpower. Internet platforms, Instagram, Threads, Douyin, Xiaohongshu, every new medium spawns new advertising variants. The MOHW updated the "Internet Providing Medical Information" management measures multiple times in 2017 and 2021, but in this race between law and market, the law is always chasing.
 
-## Remote Area Medical Dual-Track: 508 People Per Physician vs. 10,000
+## The Medical Dual-Track in Remote Areas: One Doctor per 508 People vs. 10,000 People
 
-Article 1 Paragraph 2 of the Medical Care Act writes "reasonably distribute medical resources." The actual distribution status is presented with a set of figures:
+Article 1, Paragraph 2 of the Medical Care Act stipulates the "reasonable distribution of medical resources." The actual distribution is reflected in a stark set of figures:
 
-The national average is 508 people per physician. But in some remote townships (Changhua Fuxing, Kinmen Jinsha, Jinning, etc.), each physician serves over 10,000 people[^59]. The gap is **approx. 20 times**.
+The national average is one doctor serving 508 people. However, in certain townships in remote areas (such as Fuxing in Changhua, Jinsha and Jinning in Kinmen), each doctor serves more than 10,000 people[^59]. This is a discrepancy of **approximately 20 times**.
 
-More extreme figures: Miaoli County Shitan Township, Chiayi City Dapu Township, Kinmen County Wuhu—three townships **have no physicians** on site[^59]. Another 9 townships have only 1 physician.
+Even more extreme figures: Shitan Township in Miaoli County, Dapu Township in Chiayi County, and Wuqiu in Kinmen—these three townships have **no resident doctors at all**[^59]. Additionally, nine other townships have only one doctor.
 
-How to supplement remote area medical care? The MOHW promotes the "Mountain and Offshore Area Medical Payment Efficiency Improvement Plan" (IDS):巡回 medical care, fixed-point outpatient, specialist outpatient, offshore aircraft station model, air transfer review center. Plus the public-funded physician plan—2016 to 2025 recruited 1,250 public-funded physicians, as of 2022 already recruited 758[^59].
+How is remote medical care being supplemented? The MOHW has promoted the "Improvement of Medical Benefit Efficiency in Mountainous and Offshore Islands Areas" (IDS) project, which includes mobile medical services, fixed-point clinics, specialist clinics, offshore aircraft stationing models, and an aerial referral review center. This is coupled with the Publicly Funded Physician Program—a total of 1,250 publicly funded physicians were to be recruited between 2016 and 2025; as of 2022, 758 have been recruited[^59].
 
-But the part that cannot be filled is shown in infant mortality rates. _The Reporter_’s 2018 investigation found that Taitung, Pingtung, and southern Hualian are Taiwan’s three major high-child-mortality zones[^60]; insufficient medical resources are directly reflected in the most vulnerable population.
+However, the gaps that remain unaddressed are evident in infant and child mortality rates. An investigation by _The Reporter_ in 2018 found that Taitung, Pingtung, and southern Hualien are the three highest child mortality areas in Taiwan[^60], showing that insufficient medical resources directly impact the most vulnerable populations.
 
 ## The Tension Unresolved After Forty Years
 

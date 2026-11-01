@@ -197,7 +197,7 @@ _30 مارس 2014، مسيرة مناهضة اتفاقية الخدمات تمل
 - [دمى مسرح الدمى التايواني (الصورة الرئيسية)](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
 - [ياقولت](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
 - [نداء جيببي 1990s](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
-- [مسيرة عباد الشمس مناهضة اتفاقية الخدمات 2014](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253) — Photo: tenz1225, 2014, CC BY-SA 2.0
+- [مسيرة عباد الشمس مناهضة اتفاقية الخدمات 2014](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
 - [أبراج سكن تامشوي نيو تايبيه](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
 
 ## المراجع

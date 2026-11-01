@@ -63,7 +63,7 @@ Tidak peduli angin kencang, hujan lebat, jembatan hancur, atau jalan terblokir, 
 ## Tempat yang Hanya Bisa Ditingani oleh Bambu Teduh, di Situ Lahir dan Berkembangnya Kerajaan Pengrajin Makan
 
 ![Badlands tanah lempung Tiongkok lama di Kaohsiung, punggung gunung berwarna abu-abu putih terpapar terbuka, di kejauhan pohon hijau reda dan pemukiman kecil](/article-images/food/tianliao-moon-world-badlands-2019.webp)
-_​Badlands tanah lempung Tiongkok lama di Kaohsiung, yang sering disebut "Bulan di Luar Angkasa". Neimen justru terletak di tepi lereng yang hampir tidak bisa ditanami apa pun. Foto: StevenK234, 2019. [CC BY-SA 4.0 melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg)._
+_Badlands tanah lempung Tiongkok lama di Kaohsiung, yang sering disebut "Bulan di Luar Angkasa". Neimen justru terletak di tepi lereng yang hampir tidak bisa ditanami apa pun. Foto: StevenK234, 2019. [CC BY-SA 4.0 melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg)._
 
 Untuk memahami bagaimana disiplin medan ini terbentuk, pertama-tama kita perlu melihat sebidang tanah yang sangat sulit ditanami.
 

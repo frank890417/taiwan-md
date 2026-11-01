@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-23T22:06:00Z",
-  "total": 1150,
-  "flagged": 726,
+  "timestamp": "2026-10-25T22:06:44Z",
+  "total": 1154,
+  "flagged": 727,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1615,11 +1615,6 @@
       "reasons": "空洞詞7個; 未人工審核; 破折號11個"
     },
     {
-      "file": "people/陳映真.md",
-      "score": 4,
-      "reasons": "未人工審核; 稀薄段落×2; 價值上升詞×3"
-    },
-    {
       "file": "people/蘇貞昌.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句1個; 稀薄段落×3"
@@ -2060,6 +2055,11 @@
       "reasons": "未人工審核; 塑膠句8個; 英式短句開場5處"
     },
     {
+      "file": "people/林俊傑.md",
+      "score": 9,
+      "reasons": "年份僅1個; 僅2個URL; 未人工審核; 後段清單堆砌33%; 稀薄段落×5"
+    },
+    {
       "file": "people/林心如.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句8個"
@@ -2372,7 +2372,7 @@
     {
       "file": "people/林郁婷.md",
       "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 稀薄段落×22"
+      "reasons": "未人工審核; 分號5個; 稀薄段落×7"
     },
     {
       "file": "people/童子賢.md",
@@ -2748,6 +2748,11 @@
       "file": "history/湖口營區與勝利路記憶.md",
       "score": 4,
       "reasons": "未人工審核; 後段清單堆砌41%"
+    },
+    {
+      "file": "history/西班牙北台灣十六年.md",
+      "score": 4,
+      "reasons": "僅1個URL; 未人工審核; 塑膠句1個; 英式短句開場4處"
     },
     {
       "file": "history/國家鐵道博物館.md",

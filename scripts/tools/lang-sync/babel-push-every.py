@@ -62,6 +62,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+import gitlock  # noqa: E402
 
 GIT_LOCK = Path("/tmp/taiwan-md-git.lock")   # 跟 babel-dispatch.py git_lock_commit 同一把
 LOG = REPO / ".taiwanmd" / "babel-push.log"
@@ -120,6 +121,7 @@ def ahead_behind() -> tuple[int, int]:
 
 
 def acquire_lock(max_wait: int = 180) -> bool:
+    gitlock.clear_impostor(log)
     for _ in range(max_wait):
         try:
             GIT_LOCK.mkdir()

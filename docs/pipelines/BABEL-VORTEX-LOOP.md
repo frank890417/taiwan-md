@@ -50,6 +50,10 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
    `launchctl kickstart -k`，只 kill 會用舊指令行重生）、supervisor 的環境（launchd 沒有 shell
    profile，直譯器路徑寫死在 wrapper 裡）、進程載入的程式碼是不是磁碟上的新版（dispatcher 每輪
    開頭自比，變了會印 `🔄 本進程載入的程式碼已經比磁碟上的舊` 然後在輪間收工重生）
+5. **鎖還是不是鎖**（v1.99，2026-10-25）：`/tmp/taiwan-md-git.lock` 只能是目錄（mkdir 拿、rmdir 放）。
+   10-24 有人手動拿鎖留下一個一般檔案，三支工具等滿逾時十九小時，34 篇驗過的譯文變孤兒，log 只寫
+   「等不到 git 鎖」。現在 `gitlock.clear_impostor()` 在每次拿鎖前清掉一般檔案並印 🔴，pulse 對一般檔案
+   與持有超過 20 分鐘的鎖印 🔴，dispatcher 等不到鎖時把那批放回待 commit。**手動拿鎖一律 `mkdir`／`rmdir`**。
 
 **落地**（v1.65）：gap 是工作樹口徑——status.py 讀工作樹，沒 commit 的譯文照算 fresh。
 `babel-pulse` 的 `孤兒=N` 列出工作樹有、HEAD 沒有、也不在活產線批次裡的譯文；**孤兒 > 0 時

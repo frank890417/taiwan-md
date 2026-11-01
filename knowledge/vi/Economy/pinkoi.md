@@ -131,7 +131,7 @@ Do đó, nền tảng cũng để lại những vấn đề chưa giải quyết
 
 Nhìn lại ba người sáng lập khởi nghiệp từ Đài Bắc năm 2011, bản chất phi thường của Pinkoi vẫn rõ ràng: nó không coi tiêu dùng nhỏ giới là thị trường cần được giáo dục, mà là coi chính những người tiêu dùng nhỏ giới như là một thế giới cần được phục vụ tốt. Liệu nền tảng có thể duy trì cam kết này, phụ thuộc vào liệu nó có sẵn sàng dành thời gian xử lý những việc không thể hoàn thành bằng một cú nhấp chuột.
 
-## 延伸閱讀
+## Đọc thêm
 
 Nếu muốn từ Pinkoi tiếp tục hiểu về thiết kế và nền kinh tế nền tảng tại Đài Loan, có thể đặt nó cạnh các phương tiện truyền thông thiết kế tại Đài Loan, gọi vốn cộng đồng và các nền tảng mạng khác. Tính đặc biệt của Pinkoi không nằm ở việc nó đại diện cho toàn bộ ngành công nghiệp thiết kế, mà nằm ở việc nó đặt "sáng tạo, xuyên biên giới và tiêu dùng hàng ngày" vào cùng một nền tảng, khiến vấn đề của nhà thiết kế cũng trở thành vấn đề về logistics, dữ liệu và cộng đồng.[^4] [^6] [^9]
 

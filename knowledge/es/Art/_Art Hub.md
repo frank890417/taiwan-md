@@ -69,10 +69,10 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Temas Relacionados
 
-- [[_Culture Hub|Cultura]]​: El suelo cultural de la creación artística
-- [[_Technology Hub|Tecnología]]​: El apoyo técnico del arte de nuevos medios
-- [[_History Hub|Historia]]​: El contexto histórico del desarrollo artístico
-- [[_Society Hub|Sociedad]]​: La preocupación por temas sociales del arte contemporáneo
+- [[_Culture Hub|Cultura]]: El suelo cultural de la creación artística
+- [[_Technology Hub|Tecnología]]: El apoyo técnico del arte de nuevos medios
+- [[_History Hub|Historia]]: El contexto histórico del desarrollo artístico
+- [[_Society Hub|Sociedad]]: La preocupación por temas sociales del arte contemporáneo
 
 ---
 

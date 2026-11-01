@@ -1,142 +1,142 @@
 ---
-title: 'Chen Yingzhen: de Chu-nan a Pequim, a consciência literária da facção pró-unificação'
-description: 'Chen Yingzhen (1937–2016), nome verdadeiro Chen Yong-shan, nasceu em Chu-nan, Miaoli, cresceu em Ying-ko. Ficou famoso em 1964 com "A Raça dos Generais" pela tragédia de um veterano da China continental e uma jovem prostituta taiwanesa. Em 1968, foi condenado a 10 anos pelo "Caso da Aliança Democrática de Taiwan" (libertado antecipadamente em 1975 após anistia pela morte de Chiang Kai-shek). Fundou a revista "Human World" em 1985, pioneira do reportagem literária em Taiwan. Fundou a Aliança para a Unificação da China em 1988 como primeiro presidente. Mudou-se para Pequim após AVC em 2006, faleceu lá em 2016. Foi o escritor pró-unificação mais controverso do pós-guerra em Taiwan e teórico chave na polêmica da literatura nativista sob o pseudônimo "Hsu Nan-tsun".'
+title: 'Chen Ying-chen: A Consciência Literária Unificadora de Zhunan a Pequim'
+description: 'Chen Ying-chen (1937–2016), nome de batismo Chen Yung-shan, nasceu em Zhunan, Miaoli, e cresceu em Yingge. Ficou famoso em 1964 com "A Tribo do General", uma tragédia sobre veteranos e prostitutas; foi condenado a 10 anos em 1968 pelo Caso da Liga Democrática de Taiwan. Fundou a revista Renjian em 1985, pioneira no não-ficção literária em Taiwan. Em 1988, fundou a Liga para a Unificação da China como seu primeiro presidente. Viveu em Pequim a partir de 2006, onde faleceu em 2016.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Figuras',
-    'Chen Yingzhen',
-    'A Raça dos Generais',
-    'A Estrada da Montanha',
+    'Pessoas',
+    'Chen Ying-chen',
+    'A Tribo do General',
+    'Caminho na Montanha',
     'Realismo Social',
-    'Literatura Nativista',
-    'Facção Pró-Unificação',
-    'Caso da Aliança Democrática de Taiwan',
+    'Literatura de Raiz',
+    'Unificação',
+    'Caso da Liga Democrática de Taiwan',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-05-13
+lastVerified: 2026-10-24
 lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
-whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的高規格悼念（2016 年遺體覆蓋中國共產黨黨旗、八寶山革命公墓安葬、習近平致電悼念），(2) 台灣本土派陣營對其統派立場的批判（葉石濤、彭瑞金等的長期論爭），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
+whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:f3b9ab94d7f541be'
-sourceBodyHash: 'sha256:8eae051539404383'
-translatedAt: '2026-07-26T11:16:46+08:00'
+sourceCommitSha: '1e1fa6d8b'
+sourceContentHash: 'sha256:3831859a15865550'
+sourceBodyHash: 'sha256:f7b35c999a33373c'
+translatedAt: '2026-10-25T00:44:34+08:00'
 ---
 
-# Chen Yingzhen: de Chu-nan a Pequim, a consciência literária da facção pró-unificação
+# Chen Ying-chen: A Consciência Literária Unificadora de Zhunan a Pequim
 
-> **Resumo em 30 segundos:** Chen Yingzhen (1937–2016), nome verdadeiro Chen Yong-shan, nasceu em 1937 na vila de Chu-nan, condado de Miaoli, e depois mudou-se para a vila de Ying-ko, condado de Taipé, onde cresceu. Em 1959 estreou com "A Barraca de Macarrão", e em 1964 ganhou fama com "A Raça dos Generais", retratando a tragédia de um veterano da China continental, "Rosto Triangular", e uma jovem prostituta taiwanesa, "Pequena Magricela", numa trupe de entretenimento. Em 1968 foi preso pelo "Caso da Aliança Democrática de Taiwan", condenado a 10 anos, e libertado antecipadamente em 1975 após anistia pela morte de Chiang Kai-shek. Em 1977-78 interveio na polêmica da literatura nativista sob o pseudônimo "Hsu Nan-tsun". Em 1985 fundou a revista _Human World_, abrindo caminho para o reportagem literária em Taiwan. Em 1988 fundou a Aliança para a Unificação da China e foi seu primeiro presidente. Em 2006 foi eleito membro do 7º Comitê Nacional da Associação de Escritores da China, sofreu AVC no mesmo ano e mudou-se para Pequim. Em 2010 sofreu segundo AVC e ficou acamado até falecer em Pequim em 22 de novembro de 2016.
+> **Resumo em 30 segundos:** Chen Ying-chen (1937–2016), nome de batismo Chen Yung-shan, nasceu em 1937 na cidade de Zhunan, condado de Miaoli, e mudou-se para Yingge, no condado de Taipei, onde cresceu. Estreou em 1959 com "A Barraca de Macarrão" e tornou-se famoso em 1964 com "A Tribo do General", uma tragédia envolvendo um veterano do continente chamado "Rosto Triangular" e uma jovem prostituta taiwanesa chamada "Garota Magrinha" em uma banda de entretenimento. Foi preso em 1968 devido ao "Caso da Liga Democrática de Taiwan" e condenado a 10 anos, sendo libertado antecipadamente em 1975 após o anistia pela morte de Chiang Kai-shek. Entre 1977 e 1978, publicou textos como "O Ponto Cego da Literatura de Raiz" para rebater críticas de figuras como Yu Kwang-chung. Em 1985, fundou a revista _Renjian_, inaugurando o gênero do não-ficção literário (reportagem literária) em Taiwan. Em 1988, fundou a Liga para a Unificação da China com Hu Chiu-yuan e outros, servindo como seu primeiro presidente. Em 2006, mudou-se para Pequim a convite da Universidade Renmin da China; no mesmo ano, sofreu um derrame. Em 2010, tornou-se vice-presidente honorário do sétimo comitê nacional da Associação de Escritores da China e faleceu em Pequim em 22 de novembro de 2016.
 
-Chen Yingzhen é um dos escritores de esquerda mais controversos e influentes da história literária de Taiwan no pós-guerra. Nome verdadeiro Chen Yong-shan, nasceu em 1937 na vila de Chu-nan, condado de Miaoli. Na infância, devido a dificuldades familiares, mudou-se para a vila de Ying-ko, condado de Taipé, crescendo num período que atravessou a ruptura histórica entre o final do domínio japonês e o início do pós-guerra. Através de obras como "A Raça dos Generais", "A Estrada da Montanha" e a série _O Edifício Washington_, dissecou a psicologia colonial, a estrutura de classes e a condição histórica da divisão entre os dois lados do estreito. Chen Yingzhen não foi apenas romancista e pioneiro do movimento de reportagem literária, mas também um intelectual político que defendia explicitamente a unificação da China, posição que no processo de nativização de Taiwan foi classificada como "pró-unificação" (統派), divergindo significativamente da opinião majoritária da sociedade taiwanesa. Sua obra e seu pensamento influenciaram profundamente a construção teórica do movimento de literatura nativista em Taiwan, fornecendo ao campo pró-unificação posterior um marco espiritual com credenciais literárias. [^1]
+Chen Ying-chen foi um dos escritores de esquerda mais controversos e influentes da história literária do pós-guerra em Taiwan. Nascido como Chen Yung-shan em 1937, em Zhunan, condado de Miaoli, ele refugiou-se em Yingge com seu tio e pai em 1944, vivenciando a ruptura histórica entre o final do período colonial japonês e o início do pós-guerra. Através de obras como "A Tribo do General", "Caminho na Montanha" e a série "Edifício Washington", ele analisou a psicologia colonial de Taiwan, sua estrutura de classes e a condição histórica da divisão entre os dois lados do estreito. Chen não foi apenas um romancista e pioneiro do movimento de reportagem literária, mas também um intelectual político que defendia explicitamente a unificação com a China, uma posição classificada como "unificadora" (统派) no processo de localização de Taiwan, divergindo significativamente da opinião pública predominante na sociedade taiwanesa. Sua obra e pensamento influenciaram profundamente a construção teórica do movimento de Literatura de Raiz (_Xiangtu_) em Taiwan, servindo também como um marco espiritual para o campo unificador taiwanês subsequente. [^1]
 
-## O despertar intelectual de um jovem do pós-guerra
+## Iluminação Intelectual da Juventude do Pós-Guerra
 
-Chen Yingzhen cresceu na complexa era do pós-guerra em Taiwan, e esse pano de fundo histórico especial moldou profundamente sua visão de mundo e direção criativa. Nasceu em 1937 em Chu-nan, Miaoli, e sua infância coincidiu com o final do domínio japonês. Após mudar-se para Ying-ko, sua adolescência atravessou turbulências políticas como o Incidente 228 e o Terror Branco. Esses eventos históricos levaram o jovem Chen Yingzhen a refletir sobre política, sociedade e natureza humana.
+Chen Ying-chen cresceu em uma era complexa no pós-guerra de Taiwan, um contexto histórico que moldou profundamente sua visão de mundo e direção criativa. Nascido em Zhunan em 1937, viveu o fim do domínio japonês na infância e, após refugiar-se em Yingge em 1944, enfrentou as turbulências políticas do pós-guerra, como o Incidente 2-28 e o Terror Branco. Esses eventos históricos levaram o jovem Chen a refletir sobre política, sociedade e a natureza humana.
 
-No ensino médio, Chen Yingzhen já demonstrava forte interesse por literatura e pensamento. Leu vorazmente obras literárias chinesas e estrangeiras. Além do cuidado de escritores russos como Tolstói, Dostoiévski e Gorki com o povo humilde, **a obra de Lu Xun teve influência decisiva na formação de seu pensamento**. O próprio Chen Yingzhen mencionou em diversas entrevistas que Lu Xun lhe mostrou "como a literatura pode se tornar arma de crítica social", o que se tornou o fundo espiritual de sua escrita posterior.
+Sua escrita foi influenciada pelas correntes socialistas e por Lu Xun, promovendo o realismo no cenário literário de Taiwan.
 
-Em 1957, Chen Yingzhen ingressou no Departamento de Línguas Estrangeiras do Colégio de Artes e Ciências Tamkang (atual Universidade Tamkang). [^2] No período universitário, além de se destacar academicamente, começou a formar suas concepções políticas e sociais. Entrou em contato com a teoria marxista e passou a observar a sociedade taiwanesa com método de análise de classes. Esse pensamento de esquerda influenciou profundamente sua trajetória criativa nas décadas seguintes, tornando-se também a base ideológica para sua posterior posição política de "unificação da China". [^2]
+Em setembro de 1958, Chen Ying-chen ingressou no Departamento de Línguas Estrangeiras do Colégio Técnico de Tamkang. [^2] Durante a universidade, além de seu excelente desempenho acadêmico, ele começou a formar seus próprios conceitos políticos e sociais. Ao entrar em contato com a teoria marxista, passou a observar a sociedade taiwanesa através da análise de classes. Esse pensamento de esquerda influenciou profundamente suas décadas de criação e tornou-se a base ideológica para sua futura posição política de "unificação com a China". [^2]
 
-## Início e consagração na criação literária
+## Início da Carreira Literária e Fama
 
-Em 1959, aos 22 anos, Chen Yingzhen publicou sua estreia "A Barraca de Macarrão" na revista _Pincel Hui_, iniciando oficialmente sua carreira literária. O conto retrata a vida de um pequeno proprietário de barraca de macarrão, e embora curto, já revelava sua característica de atenção aos humildes.
+Em 1959, aos 22 anos, Chen Ying-chen publicou seu primeiro trabalho, "A Barraca de Macarrão", na revista _Bi Hui_, iniciando oficialmente sua carreira literária após um convite de Wei Tian-tsung.
 
-No início dos anos 1960, Chen Yingzhen publicou sucessivamente vários contos, firmando reputação no meio literário. _Meu Irmão Mais Novo Kang-hsiung_ descreve a perplexidade de jovens sob o impacto da modernização; _A Comédia de Tang Chien_ explora o dilema espiritual de intelectuais. Essas obras demonstravam sua aguda capacidade de observação dos problemas sociais.
+No início da década de 1960, ele publicou sucessivos contos que mais tarde foram reunidos em coletâneas como _Meu Irmão Kang-hsiung_ (1959–1964) e _A Comédia de Tang Qian_ (1964–1967).
 
-"A Raça dos Generais" (revista _Literatura Moderna_, nº 19), publicada em 1964, é a obra que consagrou Chen Yingzhen e marca a maturidade de seu estilo. O conto narra o trágico amor de dois marginalizados: "Rosto Triangular" é um veterano da China continental, perto dos quarenta, que veio a Taiwan com o governo nacionalista em 1949 e acabou numa trupe de entretenimento, vivendo de tocar corneta; "Pequena Magricela" é uma jovem de família pobre de Hualien, vendida como prostituta, que foge recusando "vender o corpo" e acaba na mesma trupe como palhaça dançarina. Os dois se encontram e se apoiam no fundo da sociedade, terminando em duplo suicídio.
+"A Tribo do General", publicada em 1964, foi a obra que o consagrou e marcou a maturidade de seu estilo. O conto descreve o amor trágico de duas figuras marginalizadas: "Rosto Triangular", um homem de quase quarenta anos, veterano do exército nacional, que sobrevive tocando trompete em uma banda de entretenimento; e "Garota Magrinha", uma jovem de quinze ou dezesseis anos de uma família pobre de Taitung, vendida para a prostituição devido à miséria de sua família. Após fugir para Taipé, ela se junta à mesma banda como uma pequena palhaça dançarina. Os dois encontram apoio mútuo na base da pirâmide social; Rosto Triangular deixa seu caderneta de aposentadoria para que ela possa comprar sua liberdade, mas o plano falha e ela é vendida novamente. Cinco anos depois, eles se reencontram e cometem suicídio juntos em um campo de cana-de-açúcar no dia seguinte.
 
-"A Raça dos Generais" é um dos primeiros romances na história literária de Taiwan a abordar a "condição de veteranos da China continental em Taiwan". Chen Yingzhen traça com delicadeza como duas vidas originalmente alheias, após a divisão entre os dois lados do estreito e a marginalização na estrutura econômica taiwanesa, convergem para o mesmo beco sem saída. Em 1999, "A Raça dos Generais" foi selecionada pelo Conselho de Assuntos Culturais para os "30 Clássicos da Literatura de Taiwan", sendo a obra representativa de Chen Yingzhen. [^3]
+Ao retratar a condição de marginalidade de um veterano do continente e de uma jovem taiwanesa, Chen descreveu com sensibilidade como duas vidas que poderiam não ter conexão se cruzaram em um caminho sem saída devido à Guerra Civil Chinesa e à estrutura econômica de base em Taiwan. Em 1999, "A Tribo do General" foi selecionada para os "Trinta Clássicos da Literatura de Taiwan" pelo Conselho para as Artes Literárias do Executivo. [^3]
 
-## _A Estrada da Montanha_: a tardia expiação do Terror Branco
+## "Caminho na Montanha": Uma Expiação Tardia do Terror Branco
 
-O romance médio _A Estrada da Montanha_, publicado em 1983, é uma das obras mais representativas de Chen Yingzhen após sair da prisão, e também um dos primeiros textos importantes da literatura taiwanesa a enfrentar frontalmente a história do Terror Branco. [^3]
+Escrito em 1983 e publicado na revista _Wen Ji_, "Caminho na Montanha" é um dos contos de Chen Ying-chen que aborda o período do Terror Branco, assim como "Flor de Sino". [^8]
 
-A protagonista Tsai Chien-hui é familiar de uma vítima de caso político dos anos 1950: seu amante Li Kuo-mu foi preso pelo Terror Branco e morreu na cadeia; Tsai Chien-hui passa o resto da vida numa expiação de auto-sacrifício, cumprindo a promessa que Li não pôde realizar — ir às montanhas servir o povo humilde. A estrutura narrativa entrelaça tempo e memória, e Chen Yingzhen, pela perspectiva de Tsai Chien-hui, mostra como familiares de presos políticos suportaram o peso silencioso da história sob governo de alta pressão.
+O conto começa com a perda súbita da vontade de viver da idosa Tsai Chien-hui, que definha até a morte. A narrativa retrocede para seus dias de trabalho árduo nas montanhas de Yingge e culmina em uma carta escrita em japonês que revela seu passado: seu segundo irmão traiu dois companheiros de armas — um foi executado por fuzilamento e o outro foi condenado à prisão perpétua na Ilha Verde (Green Island). Ela passou o resto de sua vida buscando expiação. [^8]
 
-_A Estrada da Montanha_ aponta diretamente o impacto de longo prazo do Terror Branco sobre o espírito e as escolhas éticas dos indivíduo, sendo uma demonstração importante da união entre a posição política de esquerda de Chen Yingzhen e sua prática literária. [^3]
+## "Edifício Washington": Crítica ao Capital Transnacional e ao Compradorismo
 
-## _O Edifício Washington_: capital transnacional e crítica ao comprador
+A série "Edifício Washington" é um conjunto importante de obras produzidas após a segunda prisão de Chen Ying-chen em 1979, focando na agressão das corporações transnacionais sobre a economia, cultura e psique do Terceiro Mundo. Em 3 de outubro de 1979, ele foi detido pela Investigação Central sob custódia da sede de segurança; após um protesto assinado por figuras como Shi Ming-te, Chen Ku-ying, [白先勇](/pt/people/pai-hsien-yung-literary-master/), e Zheng Chou-yu, foi libertado cerca de 36 horas depois.
 
-A série _O Edifício Washington_ é um importante conjunto de obras de Chen Yingzhen nos anos 1980. O romance tem como cenário central um edifício de empresa transnacional em Taipé, focando no modo de operação de uma companhia americana em Taiwan e em como empregados locais atuam como "compradores" na estrutura do capital estrangeiro — servindo de intermediários para o capital externo, atendendo aos interesses das transnacionais enquanto se desligam de sua própria terra e povo.
+Seus contos e discursos desse período concentram-se na situação de Taiwan sob o capitalismo transnacional e o capitalismo de dependência.
 
-Nesta série, Chen Yingzhen expõe explicitamente sua crítica ao "capitalismo dependente": a modernização de Taiwan, em sua compreensão, é um processo de entrada de capital externo mediado pela camada compradora, dependente do capital transnacional, sem base de acumulação autônoma local. Essa crítica à estrutura do capital externo está em continuidade com seu discurso político de esquerda pós-anos 1980, fazendo de _O Edifício Washington_ um texto representativo da linha de realismo socialista na história literária de Taiwan.
+## O Caso da Liga Democrática de Taiwan de 1968
 
-## O Caso da Aliança Democrática de Taiwan de 1968
+Em 31 de julho de 1968, o governo nacionalista prendeu 36 pessoas, incluindo Chen Ying-chen, Li Cheng-tsung, Wu Yao-chung, Chen Shu-kong e Chiu Yen-liang, sob a acusação de "organizar a leitura de livros de esquerda como Marx, Engels e Lu Xun e disseminar propaganda comunista". Este evento é conhecido como o "**Caso da Liga Democrática de Taiwan**" (algumas fontes chamam de Caso da Aliança Democrática de Taiwan). Na época, Chen era editor da revista _Wenxue Jikan_, e intelectuais como [黃春明](/pt/people/huang-chun-ming-taiwanese-literary-master/) e Wei Tian-tsung também foram envolvidos, razão pela qual o evento é também chamado de "Incidente Wen Ji". [^4]
 
-Em 31 de julho de 1968, o governo nacionalista prendeu Chen Yingzhen, Li Tso-cheng, Wu Yao-chung, Chen Shu-kung, Chiu Yen-liang e outras 36 pessoas, sob a acusação de "organizar leitura de livros marxistas-leninistas e de Lu Xun, e difundir propaganda comunista". Este é o "**Caso da Aliança Democrática de Taiwan**" (parte da bibliografia grafada como "Caso da Aliança Democrática de Taiwan"). Na época, Chen Yingzhen era editor da _Revista Literária Trimestral_, e o caso atingiu outros escritores como Huang Chun-ming e Wei Te-chun, sendo também chamado de "Incidente da Revista Literária Trimestral". [^4]
+**Nota:** O motivo da prisão em 1968 foi o Caso da Liga Democrática de Taiwan, **não a "Liga para a Unificação da China" fundada por Chen Ying-chen em 1988**. Esta última foi uma organização política estabelecida 13 anos após sua libertação; os nomes são semelhantes, mas tratam-se de eventos completamente distintos.
 
-**Atenção:** O motivo da prisão em 1968 foi o "Caso da Aliança Democrática de Taiwan", **não a "Aliança para a Unificação da China" que Chen Yingzhen fundou pessoalmente em 1988**. Esta última é uma organização política criada 13 anos após sua libertação; os nomes são semelhantes, mas são dois eventos completamente distintos.
+Em 31 de dezembro de 1968, Chen Ying-chen foi condenado a 10 anos de prisão, sendo transferido para a Prisão de Taiyuan, em Taitung, e depois para o San Zhuang na Ilha Verde (Prisão de Reeducação da Ilha Verde). Na prisão, ele não parou de pensar ou escrever; pelo contrário, refletiu mais profundamente sobre questões sociais e as relações entre os dois lados do estreito. Em 1975, devido à anistia celebrando o centenário da morte de Chiang Kai-shek, Chen foi libertado três anos antes do prazo.
 
-Em 31 de dezembro de 1968, Chen Yingzhen foi condenado a 10 anos de prisão, sendo transferido sucessivamente para a Prisão de Taiyuan em Taitung e para a Vila de Montanha de Lüdao (Prisão de Reeducação de Lüdao). Na prisão não parou de pensar e escrever; pelo contrário, refletiu ainda mais detidamente sobre problemas sociais e relações entre os dois lados do estreito. Após a morte de Chiang Kai-shek em 1975, beneficiou-se de anistia e saiu três anos antes.
+Essa experiência prisional consolidou sua posição de esquerda e seu apoio político à unificação com a China. Ele começou a analisar mais detalhadamente a posição de Taiwan no contexto da Guerra Fria e o destino comum do povo taiwanês com as nações oprimidas da Ásia, África e América Latina. Após sair da prisão em 1975, retornou ao cenário literário com um pensamento mais maduro e um estilo mais nítido. Obras desse período, como "Caminho na Montanha" e a série "Edifício Washington", refletem sua compreensão da realidade social e sua preocupação com o destino do povo.
 
-Essa experiência carcerária consolidou ainda mais sua posição de esquerda e sua reivindicação política de "unificação da China". Passou a refletir mais minuciosamente sobre a posição de Taiwan na estrutura da Guerra Fria e o destino comum do povo taiwanês com as nações oprimidas da Ásia, África e América Latina. Após sair em 1975, retornou ao meio literário com pensamento mais maduro e estilo mais nítido. Obras deste período como _A Estrada da Montanha_ e a série _O Edifício Washington_ encarnam sua compreensão da realidade social e sua preocupação com o destino do povo.
+## Teórico do Movimento de Literatura de Raiz
 
-## Teórico do movimento de literatura nativista
+Na década de 1970, surgiu em Taiwan o movimento de Literatura de Raiz (_Xiangtu_). Em 1976, Chen Ying-chen atuou como editor da revista _Xia Chao_. Durante as disputas teóricas da Literatura de Raiz em 1977–78, ele publicou artigos como "Estabelecendo o Estilo da Literatura Nacional", "A Literatura Reflete a Sociedade" e "O Ponto Cego da Literatura de Raiz", refutando críticas de figuras como Yu Kwang-chung, que argumentavam que a literatura de raiz tendia a uma literatura puramente operária ou camponesa. Por isso, ele é considerado um dos principais representantes dessa vertente. [^5]
 
-Nos anos 1970, surgiu em Taiwan o movimento de literatura nativista, e Chen Yingzhen foi um de seus principais teóricos e praticantes. Não apenas criou grande quantidade de excelentes obras nativistas, como também forneceu orientação teórica ao movimento.
+"Xu Nan-cun" foi um de seus pseudônimos, usado, por exemplo, no artigo "A Nova Esperança da Arte Realista" publicado em 1978 na terceira edição de _Shi Chao_. Os artigos de debate mencionados acima foram publicados sob o nome real de Chen Ying-chen.
 
-Chen Yingzhen considerava que a verdadeira literatura nativista não é mera descrição da vida rural. Deve refletir a face real da sociedade taiwanesa e preocupar-se com o destino do povo humilde. Enfatizava a tradição realista da literatura, opunha-se à noção de arte pela arte, e defendia que a literatura deve servir ao povo e ao progresso social.
+Na década de 1980, ele continuou envolvido na edição de _Wen Ji_ e _Xia Chao_, e enfrentou intelectuais da vertente localista taiwanesa, como Chen Fang-ming, nos debates entre os conceitos de "Nó da China" (_Zhongguo Jie_) e "Nó de Taiwan" (_Taiwan Jie_).
 
-Na "polêmica da literatura nativista" de 1977-78, Chen Yingzhen interveio sob o pseudônimo "**Hsu Nan-tsun**", publicando vários artigos teóricos decisivos, defendendo firmemente o valor e o significado da literatura nativista. Na polêmica, travou longo debate com Ye Shih-tao sobre as posições divergentes de "consciência taiwanesa" e "consciência chinesa". Ye Shih-tao sustentava que a literatura nativista deve enraizar-se na experiência histórica local de Taiwan, desenvolvendo uma subjetividade literária taiwanesa independente; Chen Yingzhen argumentava que a literatura nativista é uma "expressão local da literatura nacional chinesa" em Taiwan. Esse debate tornou-se o ponto de partida da divergência posterior entre os campos "nativista" (本土派) e "pró-unificação" (統派) no meio literário taiwanês, com influência até hoje. [^5]
+## Edição de Revistas e Promoção Cultural
 
-## Edição de revistas e promoção cultural
+Além da escrita de ficção, Chen Ying-chen dedicou-se ao trabalho editorial, empenhado na promoção de uma cultura progressista. Em 1985, fundou a revista _Renjian_, que utilizava o formato de reportagem literária para abordar diversos problemas sociais de Taiwan, incluindo questões trabalhistas, ambientais e dos povos indígenas.
 
-Além da criação romanesca, Chen Yingzhen dedicou-se ao trabalho editorial, empenhado em promover a cultura progressista. Em 1985, fundou a revista _Human World_, que em formato de reportagem literária abordava de perto vários problemas da sociedade taiwanesa, incluindo questões trabalhistas, ambientais e indígenas.
+A filosofia editorial da _Renjian_ refletia as convicções culturais constantes de Chen: os trabalhadores culturais devem ir ao povo, compreender seus sofrimentos e registrar a vida social real através de palavras e imagens. A _Renjian_ era uma revista mensal, publicada entre novembro de 1985 e setembro de 1989, totalizando 47 edições, sendo considerada pioneira na literatura de reportagem em Taiwan.
 
-A filosofia editorial de _Human World_ encarnava a constante reivindicação cultural de Chen Yingzhen: trabalhadores culturais devem entrar no meio popular, conhecer o sofrimento do povo, e registrar com texto e imagem a vida social real. A revista durou apenas cinco anos (1985–1989), mas sua influência persiste, sendo considerada um marco do reportagem literária em Taiwan.
+Através da revista _Renjian_, Chen Ying-chen formou um grupo de excelentes trabalhadores culturais, incluindo fotógrafos, escritores e jornalistas, que mais tarde continuariam a praticar suas crenças culturais em diversos campos do setor cultural taiwanês. [^6]
 
-Através de _Human World_, Chen Yingzhen formou um grupo de excelentes trabalhadores culturais, incluindo fotógrafos, escritores, jornalistas. Essas pessoas depois continuaram a praticar as convicções culturais de Chen Yingzhen em diferentes posições no meio cultural taiwanês. [^6]
+## Conquistas Literárias e Status Histórico
 
-## Realizações literárias e posição histórica
+O status de Chen Ying-chen na história literária de Taiwan é elevado. Ao lado de [白先勇](/pt/people/pai-hsien-yung-literary-master/), [黃春明](/pt/people/huang-chun-ming-taiwanese-literary-master/) e Wang Zhen-he, ele compõe o elenco importante da literatura moderna de Taiwan. A diferença é que, enquanto [白先勇](/pt/people/pai-hsien-yung-literary-master/) foca no mundo espiritual da intelectualidade urbana e [黃春明](/pt/people/huang-chun-ming-taiwanese-literary-master/) descreve o cotidiano das pessoas comuns, Chen Ying-chen concentrou-se nos problemas estruturais de toda a sociedade.
 
-A posição de Chen Yingzhen na história literária de Taiwan é elevada. Juntamente com Pai Hsien-yung (白先勇), Huang Chun-ming (黃春明), Wang Chen-ho e outros, compôs um importante elenco da literatura moderna taiwanesa. A diferença é que, se Pai Hsien-yung atenta ao mundo espiritual de intelectuais urbanos, e Huang Chun-ming descreve o sabor de vida de pequenos personagens, Chen Yingzhen foca nos problemas estruturais de toda a sociedade.
+Suas obras são carregadas de tons melancólicos e angustiantes, mas também de um profundo humanismo. Em 2004, a companhia de dança Cloud Gate adaptou capítulos como "A Tribo do General", "O Sol que Brilha Sozinho", "Oh! Susanna", "Caminho na Montanha" e "Nuvens" para o espetáculo de dança _Chen Ying-chen: Paisagens_. Em 2018, o grupo teatral Dao Huo adaptou "Caminho na Montanha" para a peça teatral _Na Estrada da Montanha_.
 
-Suas obras possuem forte espírito de crítica social e profunda cor humanista, injetando conteúdo realista na literatura taiwanesa. Seus personagens são na maioria gente humilde, mas todos têm personalidade nítida e mundo interior profundo, encarnando a compreensão do autor sobre a natureza humana.
+## Presidente da Liga Unificadora e os 10 Anos em Pequim
 
-Chen Yingzhen influenciou profundamente escritores taiwaneses posteriores. Muitos autores nutriram-se de sua obra, aprendendo sua atitude criativa de atenção à realidade social e compaixão pelo sofrimento do povo. Escritores nativistas como Yang Ching-chu e Sung Tse-lai já declararam ter sido inspirados por Chen Yingzhen.
+Em 4 de abril de 1988, a Liga para a Unificação da China foi fundada em Taipé por iniciativa da revista _Zhonghua_ e da Federação Xia Chao; Chen Ying-chen e Hu Chiu-yuan foram entre os fundadores, e ele serviu como seu primeiro presidente. A organização opunha-se à independência de Taiwan e promovia a unificação entre os dois lados do estreito, sendo considerada um grupo unificador; em 2019, registrou-se como o partido político "Partido da Liga para a Unificação". A fundação da Liga marcou a transição crucial de Chen de escritor para intelectual político. Ele deixou de ser apenas um escritor de esquerda que escrevia romances para ocupar uma posição central no campo unificador de Taiwan.
 
-## Presidente da Aliança Unificadora e 10 anos em Pequim
+Em junho de 2006, Chen Ying-chen aceitou o convite da Universidade Renmin da China para servir como professor visitante, estabelecendo residência em Pequim. Em 26 de setembro do mesmo ano, foi internado no Hospital Chaoyang, em Pequim, devido a um derrame; em 16 de outubro, sofreu outro derrame e entrou em coma profundo. Em junho de 2010, a Associação de Escritores da China aprovou sua adesão, concedendo-lhe o cargo de vice-presidente honorário do sétimo comitê nacional. Ele foi o segundo não-continental (da China continental) a receber este título honorário após Jin Yong, e o primeiro taiwanense a ingressar na associação.
 
-Em 1988, Chen Yingzhen fundou pessoalmente em Taiwan a "**Aliança para a Unificação da China**" e assumiu como primeiro presidente. A organização defende "unificação dos dois lados do estreito, revitalização da China", sendo uma das maiores organizações políticas pró-unificação no Taiwan pós-lei marcial, em operação até hoje. A fundação da Aliança marcou a virada chave de Chen Yingzhen de escritor para intelectual político. Não era mais apenas um romancista de esquerda; escolheu colocar-se no centro do campo pró-unificação de Taiwan.
+Em 22 de novembro de 2016, Chen Ying-chen faleceu em Pequim, aos 79 anos. Em 1º de dezembro, seu funeral foi realizado no grande salão do Crematório de Baoshan, em Pequim; mais de sessenta amigos e familiares de Taiwan compareceram, e coroas de flores foram enviadas por figuras como Yu Zheng-sheng (Presidente do CPPCC), Liu Yan-dong (Vice-Primeiro-Ministro) e Sun Chun-lan (Chefe do Departamento de Assuntos de Unificação). [^9]
 
-Em 2006, Chen Yingzhen foi eleito membro do 7º Comitê Nacional da Associação de Escritores da China, cargo com conotação política no sistema da República Popular da China. No mesmo ano, sofreu AVC em Taiwan e mudou-se para Pequim para tratamento e recuperação. Em 2010 sofreu segundo AVC, ficando acamado longamente, sem nunca mais retornar a Taiwan até falecer em 2016.
+A trajetória de vida de Chen Ying-chen (nascimento em Zhunan, crescimento em Yingge, escrita em Taipé, prisão na Ilha Verde, fundação da _Renjian_ em Taipé e enfermidade em Pequim) é uma das escolhas individuais mais controversas entre os intelectuais de esquerda do pós-guerra em Taiwan. Sua posição política (unificação com a China) divergia significativamente da opinião pública predominante em Taiwan, tendo enfrentado debates com Chen Fang-ming. Após sua morte, Chen Fang-ming também expressou publicamente seu luto.
 
-Em 22 de novembro de 2016, Chen Yingzhen faleceu em Pequim, aos 79 anos. O lado da China continental dispensou-lhe honras de alto nível: o corpo foi coberto com a bandeira do Partido Comunista Chinês, as cinzas depositadas no Cemitério Revolucionário de Babaoshan, e Xi Jinping enviou mensagem de condolências. Essas honras fúnebres mostram a afirmação do PCC à posição política de Chen Yingzhen, tornando-o figura de forte simbolismo no embate cultural-político entre os dois lados do estreito.
+## Prêmios e Obras
 
-A trajetória de vida de Chen Yingzhen (nascido em Chu-nan, Miaoli; crescido em Ying-ko; escrevendo em Taipé; preso em Lüdao; fundando _Human World_ em Taipé; doente em Pequim; sepultado em Babaoshan) é uma das escolhas pessoais mais controversas de um intelectual de esquerda no Taiwan pós-guerra. Seu mérito literário é inegável, mas sua posição política (unificação da China) diverge significativamente da opinião majoritária da sociedade taiwanesa. O campo nativista mantém crítica de longa data; Ye Shih-tao, Peng Jui-chin e outros críticos nativistas escreveram diversas vezes debatendo a tese de "literatura nacional chinesa" de Chen Yingzhen.
+Chen Ying-chen recebeu vários reconhecimentos importantes por suas conquistas literárias:
 
-## Prêmios e obras
+- **1979**: Vencedor do prêmio principal de romance no 10º **Prêmio Literário Wu Tu-liu**.
+- **2003**: Vencedor da 2ª edição do **Prêmio de Literatura Chinesa Mundial Hua Zong**.
 
-Chen Yingzhen obteve vários reconhecimentos importantes em realização literária:
-
-- **1979**: ganhou o 2º **Prêmio Literário Wu Cho-liu** com "O Trem Noturno de Carga"
-- **2009**: ganhou o 10º **Prêmio Mundial de Literatura Chinesa Huazong** (promovido pelo _Sin Chew Daily_ da Malásia, considerado prêmio importante no meio literário sinófono)
-
-Suas obras representativas abrangem coletâneas de contos _A Raça dos Generais_, _Meu Irmão Mais Novo Kang-hsiung_, _A Comédia de Tang Chien_, _O Trem Noturno de Carga_, a série _O Edifício Washington_, _A Estrada da Montanha_, _Parque Chung-hsiao_, entre outras; coletâneas de ensaios incluem _A Teimosia dos Intelectuais_ publicada sob o pseudônimo "Hsu Nan-tsun". Em 2017, a Ink Literary Publishing lançou _Obras Completas de Chen Yingzhen_ em 23 volumes, o material de primeira mão mais completo para pesquisa sobre Chen Yingzhen. [^7]
+Em 2001, a livraria Hung Fan reuniu seus contos e novelas em seis volumes intitulados _Coleção de Contos de Chen Ying-chen_, que incluem: _Meu Irmão Kang-hsiung_, _A Comédia de Tang Qian_, _Um Dia de um Assalariado_, _O Imperador Wan Shang_, _Flor de Sino_ e _Parque Zhongxiao_. Existem também coletâneas de ensaios como _O Paranoidismo dos Intelectuais_. O pesquisador Zhao Gang escreveu _Busca: O Caminho Literário de Chen Ying-chen_. [^7]
 
 ## Referências
 
-[^1]: [Chen Yingzhen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) — Vida completa de Chen Yingzhen, incluindo nascimento em 1937 em Chu-nan, Miaoli, nome verdadeiro Chen Yong-shan, primeiro presidente da Aliança para a Unificação da China em 1988, etc.
+[^1]: [Chen Ying-chen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%98%A0%E7%9C%9F) — Biografia completa de Chen Ying-chen, incluindo nascimento em Zhunan, Miaoli em 1937, nome de batismo Chen Yung-shan e seu papel como primeiro presidente da Liga para a Unificação da China em 1988.
 
-[^2]: [Chen Yong-shan (Chen Yingzhen) — Arquivo Nacional de Memória dos Direitos Humanos](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) — Registro oficial do Museu Nacional de Direitos Humanos sobre o caso político e a vida de Chen Yingzhen.
+[^2]: [Chen Yung-shan (Chen Ying-chen) — Arquivo Nacional de Memória dos Direitos Humanos](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3202) — Registro oficial do Museu Nacional de Direitos Humanos sobre os casos políticos e a vida de Chen Ying-chen.
 
-[^3]: [A Raça dos Generais — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) — Registro da publicação de "A Raça dos Generais" na _Literatura Moderna_ nº 19 em 1964, enredo de Rosto Triangular e Pequena Magricela, seleção para os "30 Clássicos da Literatura de Taiwan" em 1999.
+[^3]: [A Tribo do General — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%B0%87%E8%BB%8D%E6%97%8F) — Informações sobre a obra "A Tribo do General" (1964), o enredo de Rosto Triangular e Garota Magrinha, e sua seleção para os "Trinta Clássicos da Literatura de Taiwan" em 1999.
 
-[^4]: [Caso da Aliança Democrática de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) — Registro completo do Caso da Aliança Democrática de Taiwan em 31 de julho de 1968, incluindo lista dos 36 presos, condenação de Chen Yingzhen em 31/12/1968 a 10 anos, libertação antecipada por anistia em 1975. Ver também [Chu Yu-hsun: Julho de 1968, o Caso da Aliança Democrática de Taiwan](https://chuckchu.com.tw/article/318).
+[^4]: [Caso da Liga Democrática de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E8%81%AF%E7%9B%9F%E6%A1%88) — Registro completo do caso de 31 de julho de 1968, incluindo a lista dos 36 presos, a condenação de Chen Ying-chen a 10 anos em 31/12/1968 e sua libertação por anistia em 1975. Veja também [Chu You-hsun: Julho de 1968, o Caso da Liga Democrática de Taiwan](https://chuckchu.com.tw/article/318).
 
-[^5]: [Episódio extra de Chen Yingzhen: a era da traição — Mirror Media](https://www.mirrormedia.mg/story/20170213pol001/) — Reportagem sobre a polêmica da literatura nativista, intervenção sob pseudônimo Hsu Nan-tsun, debate com Ye Shih-tao.
+[^5]: [Extra sobre Chen Ying-chen: A Era da Traição — Mirror Media](https://www.mirrormedia.mg/story/20170213pol001/) — Reportagem sobre a vida de Chen Ying-chen e o contexto dos debates da Literatura de Raiz.
 
-[^6]: [Fundação da revista _Human World_, pioneira do reportagem literária em Taiwan — TNL The News Lens](https://www.thenewslens.com/article/54825) — Histórico editorial de _Human World_ (1985–1989) e posicionamento de Chen Yingzhen no movimento de reportagem literária.
+[^6]: [Fundação da revista Renjian, inaugurando o não-ficção literário em Taiwan — TNL News](https://www.thenewslens.com/article/54825) — História da publicação da revista _Renjian_ (1985–1989) e a posição do movimento de reportagem literária de Chen Ying-chen.
 
-[^7]: [Em busca: o caminho literário de Chen Yingzhen — Livro da Semana da CNA](https://www.cna.com.tw/proj_goodbook/literature/633) — _Em busca: o caminho literário de Chen Yingzhen_ de Chao Kang (Linking 2011), crítica acadêmica da perspectiva pró-unificação. Ver também [People's Daily Overseas Edition: Chen Yingzhen "unificador que não se arrepende na morte"](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), definição oficial chinesa da posição política de Chen Yingzhen.
+[^7]: [Busca: O Caminho Literário de Chen Ying-chen — CNA Weekly Good Books](https://www.cna.com.tw/proj_goodbook/literature/633) — Crítica acadêmica sob a perspectiva unificadora do livro _Busca: O Caminho Literário de Chen Ying-chen_ (Lianjing, 2011), de Zhao Gang. Veja também [People's Daily Overseas Edition: Chen Ying-chen, o "Unificador que se recusa a mudar"](http://paper.people.com.cn/hqrw/html/2016-12/06/content_1759284.htm), a caracterização oficial chinesa da posição política de Chen Ying-chen.
 
-## Leitura complementar
+[^8]: [Relatos e Críticas sobre o falecimento de Chen Ying-chen — Mirror Media](https://www.mirrormedia.mg/story/20161128pol001) — Detalhes sobre a publicação de "Caminho na Montanha" em 1983 na revista _Wen Ji_ e o enredo envolvendo Tsai Chien-hui e a traição do irmão.
 
-- [Museu da Literatura de Taiwan — Chen Yingzhen](https://www.nmtl.gov.tw/) — Vida, cronologia de obras e acervo de manuscritos de Chen Yingzhen
-- [Pai Hsien-yung](/pt/people/pai-hsien-yung-literary-master) — Nomeada da literatura taiwanesa da mesma geração, célebre por _Taipei People_
+[^9]: [Funeral de Chen Ying-chen: Amigos da literatura prestam última homenagem — CNA](https://www.cna.com.tw/news/acn/201612010347.aspx) — Detalhes sobre o funeral em 1º de dezembro de 2016 no Crematório de Baoshan, Pequim, e a lista de coroas de flores enviadas.
+
+## Leitura Adicional
+
+- [Museu da Literatura de Taiwan — Chen Ying-chen](https://www.nmtl.gov.tw/) — Biografia, cronologia de obras e acervo de manuscritos de Chen Ying-chen.
+- [白先勇](/pt/people/pai-hsien-yung-literary-master/) — Escritor contemporâneo de Taiwan, famoso por _As Pessoas de Taipé_.
