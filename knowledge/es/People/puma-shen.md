@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: 'choice'
       theme: 'scholar-public'
-      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
       chose:
         label: '不否認、剪短髮、準備'
-        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
       alternatives:
         - label: '婉拒提名'
           plausibility: 'structural'
@@ -317,7 +317,7 @@ lifeTree:
         - label: '辭立委先全力競選'
           plausibility: 'structural'
           note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: 'mayor-nominated-2026'
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: 'event'
       theme: 'scholar-public'
       label: '民進黨正式徵召沈伯洋參選台北市長'
-      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -532,7 +532,7 @@ Pasó el Día de San Valentín (14 de febrero) en el avión. Tras regresar, escr
 
 ## De diana a candidato
 
-A principios de abril de 2026, la sede de campaña del PDP celebró una reunión. Según la sección política de [United Daily News](https://udn.com/), fuentes internas revelaron que el partido planeaba nominar a Shen Bo-yang para competir por la alcaldía de Taipéi.[^62] A mediados y finales de abril, la decisión era prácticamente un hecho. El exministro del Interior Hsu Kuo-yung respaldó públicamente la nominación.[^63] Una encuesta de TVBS de diciembre de 2025 mostraba que el alcalde en ejercicio de Taipéi, Chiang Wan-an, tenía un apoyo de aproximadamente el 64 %, mientras que Shen Bo-yang alcanzaba alrededor del 22 %.[^64] Una gran desventaja, pero el resultado electoral no está dentro del alcance de este artículo.
+A principios de abril de 2026, la sede de campaña del PDP celebró una reunión. Según la sección política de [United Daily News](https://udn.com/), fuentes internas revelaron que el partido planeaba nominar a Shen Bo-yang para competir por la alcaldía de Taipéi.[^62] A mediados y finales de abril, la decisión era prácticamente un hecho. El exministro del Interior Hsu Kuo-yung respaldó públicamente la nominación.[^63]
 
 El 25 de abril, se cortó el peinado afro que llevaba desde hacía más de diez años y compartió escenario por primera vez con Chiang Wan-an en el Festival Cultural de Madre e Hija del Templo Cihui de Songshan.[^65] Yang Guo se cortó el pelo corto.
 
@@ -541,197 +541,3 @@ El 13 de mayo de 2026, el rumor se volvió oficial. El Comité Ejecutivo Central
 ![Shen Bo-yang vestido con una camiseta negra, gafas, de pie en el escenario sosteniendo un micrófono, con una banda en el pecho que dice «Rechazar el trabajo de frente unido»](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _19 de abril de 2025, Shen Bo-yang asiste a la manifestación «Rechazar el trabajo de frente unido, proteger Taiwán». La persona cuyas coordenadas fueron marcadas, elige seguir subiendo al escenario público. Foto: KOKUYO. CC BY-SA 4.0 vía Wikimedia Commons._
-
-En el momento del reclutamiento, la situación electoral era muy desigual. La encuesta del Centro de Encuestas TVBS del 27 de mayo mostraba a Chiang Wan-an con un 58 % y a Shen Bo-yang con un 30 %, una brecha de 28 puntos porcentuales; incluso entre los jóvenes de 20 a 29 años, el 37 % de Shen Bo-yang era inferior al 60 % de Chiang Wan-an.[^69] Los medios internacionales describieron este enfrentamiento como un desafío con pocas probabilidades de éxito.
-
-Cinco meses después, la brecha se había reducido, pero cuánto depende de a quién se pregunte. La encuesta de la misma serie publicada por TVBS el 8 de octubre mostraba a Chiang Wan-an con un 49 % y a Shen Bo-yang con un 41 %, reduciendo la brecha de 28 a 8 puntos porcentuales; en el tramo de 20 a 29 años, la situación se invirtió: Shen Bo-yang con un 52 %, Chiang Wan-an con un 44 %; además, un 11 % aún no se había decidido.[^70] La segunda oleada publicada por la Asociación Xinmin el 20 de octubre mostraba la dirección opuesta: Shen Bo-yang con un 50,3 %, Chiang Wan-an con un 33,3 %, pasando de un retraso de 1,2 puntos porcentuales en septiembre a una ventaja de 17 puntos.[^71] Las dos encuestas tienen muestras y métodos de ponderación diferentes, y concejales del KMT en Taipéi también cuestionaron públicamente la imparcialidad de esta última; la diferencia entre las dos lecturas es mayor que el error de muestreo de cualquiera de las dos, por lo que en este momento solo se puede decir que «la brecha se está reduciendo», no «quién lidera». El día de votación es el 28 de noviembre; el calendario electoral completo y los portales de cada candidato están en la página [Elecciones nueve en uno de 2026](/es/politics/2026-local-elections-taiwan/).
-
-```tw-dot
-Dos encuestas de octubre para la alcaldía de Taipéi, diferencia mayor que el error de muestreo de cada una (apoyo %, estimación puntual e intervalo de error)
-Chiang Wan-an／TVBS 10-08 | 49 | 46.1 | 51.9 | Titular, busca reelección
-*Shen Bo-yang／TVBS 10-08 | 41 | 38.1 | 43.9 | Nominado por el PDP
-Chiang Wan-an／Xinmin 10-20 | 33.3 | 30.3 | 36.3 | La misma persona, otra encuesta
-*Shen Bo-yang／Xinmin 10-20 | 50.3 | 47.3 | 53.3 | La misma persona, otra encuesta
-Fuente: Centro de Encuestas TVBS 2026-10-08; Asociación Xinmin 2026-10-20
-```
-
-```tw-note
-Nota
-Ambas son encuestas telefónicas a ciudadanos de 20 años o más con domicilio en Taipéi; la pregunta es «si votara ahora, ¿a quién votaría?», no una predicción del resultado del 28/11. La de TVBS se realizó el 10/3 y 10/5-7, muestra válida de 1.120 personas, error de muestreo de ±2,9 puntos porcentuales al 95 % de confianza. La de la Asociación Xinmin fue diseñada y analizada por Tai Li-an, ejecutada por Beacon Market Research, entrevistas del 14 al 16 de octubre, muestra válida de 1.075 personas (teléfono fijo 753,
-
-## ¿Dónde está ahora el joven que se inclinó
-
-Volvamos a esa tarde de fregar el suelo. En el momento en que Shen Bo-yang se detuvo, él rodeó las manchas de agua. El joven se inclinó ante él. Más de diez años después, él está en el otro extremo del parte policial de la Oficina de Seguridad Pública de Chongqing, le grabaron el carácter «muerte» en la ropa a su esposa, y las coordenadas satelitales cerca de su casa fueron señaladas públicamente por una cuenta de Weibo china.
-
-Él mismo escribió una frase muy corta en junio de 2025. El día en que la empresa de su padre fue sancionada por el PCCh, respondió en Facebook con cuatro caracteres: «**Muy honrado**.»[^40]
-
-La pregunta del joven en el centro de observación juvenil ese día sigue en él: «¿Por qué nuestra actitud hacia las personas tiene tanta diferencia en distintos lugares?» Investigó esta pregunta durante veinte años. Al final, lo que investigaba lo encontró a él, marcándolo como presa. Pero investigó lo suficiente para saber que la presa no necesita convertirse primero en victim, puede convertirse primero en quien pregunta—así que desde La Haya en los Países Bajos hasta el Bundestag alemán, y luego a Francia, en cada parada usó la misma gramática para decir lo mismo: ustedes pueden tratarme así, y yo sigo haciendo mi trabajo.
-
-En mayo de 2026 se puso la banda de campaña para librar otra batalla electoral. Pero en el mapa satelital del PCCh, las coordenadas del blanco siguen en el mismo lugar.
-
----
-
-**Lecturas complementarias**:
-
-- [Academia del Oso Negro](/es/society/kuma-academy-civil-defense-school) — organización civil de educación en defensa civil cofundada por Shen Bo-yang y Ho Cheng-hui, una escuela que «espera que algún día Taiwán ya no la necesite»
-- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — marco completo de la guerra de información del PCCh contra Taiwán, Shen Bo-yang es uno de los principales investigadores
-- [Ba Jiong](/es/people/pa-chiung-political-youtuber) — YouTuber taiwanés también blanco del PCCh, en noviembre de 2025 el PCCh ofreció una recompensa de hasta 250,000 yuanes chinos por él
-- [Lai Ching-te](/es/people/lai-ching-te) — en la misma lista de «elementos obstinados de la independencia de Taiwán», en noviembre de 2025 expresó públicamente su apoyo a Shen Bo-yang
-- [Defensa de Taiwán y modernización militar](/es/society/taiwan-defense-modernization) — la relación complementaria entre la educación en defensa civil de la Academia del Oso Negro y la defensa nacional total
-- [El país invisible](/es/art/invisible-nation) — el documental termina con taiwaneses tomando una clase de defensa civil, la Academia del Oso Negro es precisamente la versión real de esa clase final
-
-## Fuentes de imágenes
-
-Este artículo utiliza 6 imágenes con licencia CC / dominio público / fair use editorial, todas almacenadas en caché en `public/article-images/people/` para evitar enlaces directos a los servidores de origen; además se incrustan 2 videos oficiales de la Agencia Central de Noticias.
-
-- [Imagen de la campaña electoral 2024 de Shen Bo-yang (hero)](https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg) — Foto: 曾成訓 / Flickr, CC BY 2.0
-- [Retrato oficial de Shen Bo-yang como legislador](https://commons.wikimedia.org/wiki/File:Puma_Shen_2024.jpg) — Foto: 立法院 Legislative Yuan, Attribution (se debe citar la fuente)
-- [Shen Bo-yang dando una conferencia en Black Bear Academy](https://commons.wikimedia.org/wiki/File:Dr_Puma_Shen_at_Kuma_Academy_Lecture_24_Feb_2023.jpg) — Foto: S099001 / Wikimedia Commons, CC BY 4.0
-- [Shen Bo-yang en conferencia sobre guerra de información en Chiayi](https://commons.wikimedia.org/wiki/File:Puma_Shen%27s_lecture_about_information_warfare_in_Chiayi_20210227a.jpg) — Foto: 嘉義縣人力發展所 Chiayi County Human Resources Development Center, Attribution (se debe citar la fuente)
-- [Shen Bo-yang en el acto «Rechazar la统战, proteger Taiwán»](https://commons.wikimedia.org/wiki/File:2025.04.19_%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83_13.jpg) — Foto: KOKUYO / Wikimedia Commons, CC BY-SA 4.0
-- [Portada del libro «Mejor engañar a Taiwán que atacarlo»](https://www.locuspublishing.com/book/detail/10514) — Imagen: 大塊文化 Locus Publishing, fair use editorial commentary
-
-Videos incrustados: [Shen Bo-yang viaja a Alemania para explicar los ataques de desinformación contra Taiwán](https://www.youtube.com/watch?v=VFbmWlBmGP4), [Shen Bo-yang viaja a Países Bajos para asistir a conferencia internacional](https://www.youtube.com/watch?v=o-OhWUHV4W4), ambos del canal oficial de la Agencia Central de Noticias (CNA).
-
-## Referencias
-
-[^1]: [Mirror Weekly serie 'A fondo': El profesor que disecciona el mal](https://www.mirrormedia.mg/story/20190427pol002) — Segunda entrega de la serie de perfiles de Mirror Weekly del 27-04-2019, que registra la libreta de contactos de la infancia de Shen Bo-yang, la comparación de clases entre Fuxing/Jianzhong, el caso del supermercado del先輩, la visita al centro de observación juvenil, la impresión de Irvine como la ciudad más segura de EE. UU., cinco profesores del examen oral que le instaron a regresar a Taiwán, la teoría del ídolo Yang Guo, entre otras escenas; es la fuente clave del 'origin scene' del giro académico de Shen Bo-yang hacia la criminología.
-
-[^2]: [Instituto de Criminología de la Universidad Nacional de Taipéi: Página del profesor Shen Bo-yang](https://crm.ntpu.edu.tw/index.php?option=module&lang=cht&task=pageinfo&id=119) — Página oficial del profesor de la universidad, confirma que Shen Bo-yang es actualmente profesor asociado y director del instituto, con áreas de investigación en derecho penal, sociología jurídica, política criminal y delitos de cuello blanco.
-
-[^3]: [Sitio web oficial de Black Bear Academy: Sobre nosotros](https://kuma-academy.org/about) — Página oficial de Black Bear Academy que presenta a los fundadores Shen Bo-yang y He Cheng-hui, el trasfondo de su creación, el diseño curricular y la idea de 'defensa nacional total'.
-
-[^4]: [Red global del Yuan Legislativo: Datos del legislador Shen Bo-yang](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=54301&pid=237147) — Página oficial del Yuan Legislativo con los datos del legislador Shen Bo-yang, que confirma su toma de posesión el 1 de febrero de 2024 como legislador de la undécima legislatura.
-
-[^5]: [Agencia Central de Noticias: La policía de Chongqing abre una investigación contra Shen Bo-yang](https://www.cna.com.tw/news/aipl/202510280086.aspx) — Informe de CNA del 28-10-2025 que registra íntegramente el parte policial de la Oficina de Seguridad Pública de Chongqing por el que se abre una investigación contra Shen Bo-yang por 'sospecha de secesión nacional', e incluye la respuesta original de Shen Bo-yang en Facebook.
-
-[^6]: [Liberty Times: CCTV dedica 7 minutos y medio a 'exponer' a Shen Bo-yang](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — Artículo de Liberty Times del 9-11-2025 que recoge la emisión por CCTV de un reportaje de 7 minutos y medio 'exponiendo' a Shen Bo-yang, con la advertencia: 'Detente, o el siguiente serás tú'.
-
-[^7]: [Liberty Times: Cuenta de Weibo china publica coordenadas del domicilio y trabajo de Shen Bo-yang usando satélite comercial](https://news.ltn.com.tw/news/politics/breakingnews/5297941) — Exclusiva de Liberty Times de enero de 2026: una cuenta de Weibo paga por imágenes del satélite Jilin-1 para publicar las coordenadas del domicilio de Shen Bo-yang (cerca del Parque Forestal Daan) y su lugar de trabajo (Sección 1 de la calle Jinnan, cerca del órgano legislativo), y el medio oficial 'Hoy el Estrecho' lo reenvía.
-
-[^8]: [Liberty Times: Sin temer a la orden de busca y captura del PCCh, Shen Bo-yang viaja a Francia y completa una misión diplomática de 8 días](https://news.ltn.com.tw/news/politics/breakingnews/5344003) — Artículo de Liberty Times de febrero de 2026 que detalla la salida de Shen Bo-yang el 7-2-2026 para una misión diplomática de 8 días, pasando el Día de San Valentín en el avión, y la comparación mutua entre el 'Pequeño Libro Naranja' francés y el manual de defensa nacional de Taiwán.
-
-[^9]: [Wikipedia: Entrada de Shen Bo-yang](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Entrada de la Wikipedia en chino de Shen Bo-yang, que resume su origen familiar, formación y trayectoria temprana, incluyendo su paso por el jardín de infancia Fuxing, la primaria Fuxing, la secundaria Fuxing y el instituto Jianguo.
-
-[^10]: [Mirror Weekly 'Una mirada profunda': Perfil de Shen Bo-yang](https://www.mirrormedia.mg/story/20190427pol001) — Primera entrega de la serie de Mirror Weekly del 27-04-2019, que narra la incursión de Shen Bo-yang en la industria de la enseñanza privada durante la universidad, el origen de su nombre artístico 'Puma' (撲馬) y su posterior giro académico.
-
-[^11]: [Cuenta oficial de Shen Bo-yang en Threads @pumashen](https://www.threads.com/@pumashen) — Cuenta oficial de Shen Bo-yang en la plataforma Meta Threads.
-
-[^12]: [Wikipedia: Puma Shen](https://en.wikipedia.org/wiki/Puma_Shen) — Entrada de la Wikipedia en inglés de Puma Shen, que recoge su cronología académica: máster en Derecho por la Universidad de Pensilvania (2007), máster en Derecho Penal por la Universidad Nacional de Taiwán (2008), doctorado por la Universidad de California, Irvine (2017), con los directores de tesis Henry Pontell y Elliott Currie.
-
-[^13]: [Wikipedia: Shen Bo-yang (sección sobre su decisión de regresar a Taiwán)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E4%BC%AF%E6%B4%8B) — La Wikipedia en chino resume cómo Shen Bo-yang, tras obtener el doctorado en 2017, rechazó ofertas de plazas fijas en universidades estadounidenses como la Universidad Estatal de Carolina del Norte y optó por desarrollar su carrera en Taiwán.
-
-[^14]: [Shen Bo-yang en Threads: Autodescripción de su doctorado](https://www.threads.com/@pumashen/post/DXcG-fKlP1S) — En Threads, Shen Bo-yang explica que su doctorado pertenece a la School of Social Ecology (Escuela de Ecología Social) de la Universidad de California, Irvine, abarcando criminología, planificación urbana, políticas públicas y psicología ambiental.
-
-[^15]: [USCC: Testimonio de Puma Shen sobre operaciones de influencia del PCCh (PDF)](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — PDF del testimonio de Shen Bo-yang ante la USCC en marzo de 2023, que analiza punto por punto las múltiples líneas burocráticas de la guerra de información del PCCh contra Taiwán (Ministerio de Seguridad del Estado, Departamento Central de Trabajo del Frente Unido, Oficina de Asuntos de Taiwán del Comité Central, sistema del EPL, red de la Liga de la Juventud Comunista) con sus respectivas herramientas y ritmos, constituyendo la fuente académica original de su marco analítico de 'cinco líneas'.
-
-[^16]: [Sitio web oficial de Doublethink Lab](https://doublethinklab.org/) — Sitio web oficial del Laboratorio Democrático de Taiwán, que presenta el contexto de la fundación de la organización (2019), sus objetivos de investigación y el papel de Puma Shen como presidente.
-
-[^17]: [Taipei Times: Lanzamiento del China Index por Doublethink Lab](https://www.taipeitimes.com/News/taiwan/archives/2022/04/28/2003777359) — Taipei Times del 28-04-2022 informa sobre el lanzamiento del China Index por Doublethink Lab el 25-04-2022 y la estructura de diseño de sus nueve dimensiones con noventa y nueve indicadores.
-
-[^18]: [USCC: PDF del testimonio de Puma Shen](https://www.uscc.gov/sites/default/files/2023-03/Puma_Shen_Testimony.pdf) — Página oficial de la Comisión de Revisión Económica y de Seguridad entre EE. UU. y China para descargar el PDF completo del testimonio de Puma Shen en 2023, que abarca la estrategia de guerra de información del PCC contra Taiwán y la base de datos del China Index.
-
-[^19]: [Da Kuo Culture: Página del libro «Mejor engañar a Taiwán que atacarlo»](https://www.locuspublishing.com/book/detail/10514) — Página oficial de la editorial Da Kuo Culture que presenta el libro coescrito por Puma Shen y Wu Ming-hsuan «Mejor engañar a Taiwán que atacarlo: Preguntas y respuestas sobre la guerra cognitiva de China contra Taiwán», publicado en julio de 2024, con su contexto y estructura de contenidos.
-
-[^20]: [Wikipedia: Entrada de la Academia del Oso Negro](https://zh.wikipedia.org/zh-hans/%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2) — Wikipedia en chino resume la historia de la Academia del Oso Negro, cofundada por Puma Shen y Ho Cheng-hui, establecida formalmente en diciembre de 2021.
-
-[^21]: [Lista pública de cursos de la Academia del Oso Negro](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Calendario público de cursos en la plataforma oen de la Academia del Oso Negro, que incluye contenidos básicos de defensa civil como bomberos, búsqueda y rescate, evacuación, identificación de información, AED/RCP, etc.
-
-[^22]: [Liberty Times: Robert Tsao dona 30 mil millones contra el comunismo para defender Taiwán, 6 mil millones para la Academia del Oso Negro](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — Liberty Times del 01-09-2022 informa sobre la rueda de prensa en la que el ex presidente de UMC, Robert Tsao, anunció una donación de 30 mil millones de NT$ para combatir el comunismo y defender Taiwán, de los cuales 6 mil millones de NT$ se destinan a la Academia del Oso Negro.
-
-[^23]: [Liberty Times: Declaraciones de Puma Shen en la rueda de prensa de los Guerreros del Oso Negro](https://news.ltn.com.tw/news/politics/breakingnews/4044669) — Liberty Times cita textualmente las declaraciones de Puma Shen en la rueda de prensa de recaudación de 6 mil millones de NT$ de la Academia del Oso Negro el 01-09-2022.
-
-[^24]: [Liberty Times: Plan de la Academia del Oso Negro para entrenar a 3 millones de personas en 3 años](https://news.ltn.com.tw/news/politics/paper/1565297) — Liberty Times informa sobre el objetivo y cronograma de la Academia del Oso Negro para entrenar a tres millones de «Guerreros del Oso Negro» en tres años.
-
-[^25]: [Liberty Times: Mecanismo de desembolso trimestral y verificación de los 6 mil millones de NT$](https://news.ltn.com.tw/news/politics/breakingnews/4045927) — Liberty Times informa sobre el diseño del mecanismo de ejecución de la donación de 6 mil millones de NT$ de Robert Tsao a la Academia del Oso Negro, que prevé desembolsos trimestrales y verificación según el plan.
-
-[^26]: [Liberty Times: Lista de espera de más de 3000 personas para el primer campamento básico de la Academia del Oso Negro](https://news.ltn.com.tw/news/politics/paper/1538534) — Liberty Times informa que la Academia del Oso Negro abrió su primer campamento básico en septiembre de 2022, con una lista de espera de más de 3000 personas, lo que refleja la alta demanda de educación en defensa civil en la sociedad taiwanesa.
-
-[^27]: [Información pública de cursos de la Academia del Oso Negro](https://kuma-academy.oen.tw/events/2a1FgPxa82dXvk4kCA50wRJIlto) — Anuncio de cursos en la plataforma oen de la Academia del Oso Negro, que enumera módulos completos como bomberos, búsqueda y rescate, atención médica, evacuación, ciberseguridad, prevención de fraude, AED/RCP, vendajes hemostáticos, etc.
-
-[^28]: [PTS News: Entrenamiento al aire libre «Operación Urraca Azul» de la Academia del Oso Negro](https://news.pts.org.tw/article/743411) — PTS News informa sobre el ejercicio de campo semestral «Operación Urraca Azul» de la Academia del Oso Negro, que simula los procedimientos de evacuación y atención médica de no combatientes en tiempo de guerra.
-
-[^29]: [Publicación de Puma Shen en X: Problema de identidad de la Academia del Oso Negro](https://x.com/pumashen/status/1847806524867170555) — El propio Puma Shen publica en X explicando que, debido a su cargo como subdirector ejecutivo del think tank del DPP y su calidad de legislador, las normas legales le impiden actuar como representante legal de la Academia del Oso Negro.
-
-[^30]: [CNA: Puma Shen en segundo lugar en la lista de legisladores at-large del DPP para 2024](https://www.cna.com.tw/news/aipl/202311155003.aspx) — CNA del 15-11-2023 informa que el DPP publicó su lista de legisladores at-large para 2024, con Puma Shen en segundo lugar (la primera es Lin Yueh-chin).
-
-[^31]: [People News: Los diez principales proyectos de enmienda de seguridad nacional del grupo legislativo del PDP](https://www.fountmedia.io/article/276323) — People News informa sobre la lista de diez enmiendas de seguridad nacional impulsadas por el grupo legislativo del PDP bajo el liderazgo de Shen Bo-yang, que incluyen la Ley de Relaciones entre los Pueblos del Estrecho de Taiwán, la Ley de Relaciones entre Hong Kong y Macao, la Ley de Nacionalidad, la Ley de Seguridad Nacional, la Ley de Seguridad de las Comunicaciones, la Ley Antinfiltración, la Ley de Seguridad de la Información, el Código Penal, el Código Penal de las Fuerzas Armadas y la Ley de Trabajo de Inteligencia Nacional.
-
-[^32]: [Información oficial de la Comisión de Relaciones Exteriores y Defensa Nacional del Yuan Legislativo](https://www.ly.gov.tw/Pages/List.aspx?nodeid=46775) — La página de la Comisión de Relaciones Exteriores y Defensa Nacional en el sitio web global del Yuan Legislativo, que registra la rotación de los presidentes de la comisión durante el undécimo período de sesiones (Shen Bo-yang se desempeñó como uno de los presidentes en 2025).
-
-[^33]: [Storm Media: La Oficina de Asuntos de Taiwán señala a Shen Bo-yang, Robert Tsao y la Academia Oso Negro](https://www.storm.mg/article/5254288) — Storm Media, 14 de octubre de 2024, informa el registro textual completo del anuncio del portavoz de la Oficina de Asuntos de Taiwán, Chen Binhua, en una conferencia de prensa, de incluir a Shen Bo-yang, Robert Tsao y la Academia Oso Negro en la lista de «elementos obstinados de la independencia de Taiwán».
-
-[^34]: [Agencia Central de Noticias: Shen Bo-yang responde en Facebook a la apertura de una investigación](https://www.cna.com.tw/news/aipl/202510280086.aspx) — Agencia Central de Noticias, 28 de octubre de 2025, informa citando textualmente la publicación original de Shen Bo-yang en Facebook ese día, incluyendo pasajes como «Esta es la sexta vez en un año», «Resolver al que plantea el problema... realmente muy comunista» y «A los taiwaneses no les da miedo».
-
-[^35]: [Taipei Times: Sanciones a la empresa del padre de Shen](https://www.taipeitimes.com/News/taiwan/archives/2025/06/05/2003838105) — Taipei Times, 5 de junio de 2025, informa que el Partido Comunista Chino anunció sanciones contra la empresa Chao Yi Ltd. del padre de Shen Bo-yang, Shen Tu-cheng, prohibiendo transacciones con empresas/individuos del continente.
-
-[^36]: [Agencia Central de Noticias: Aduanas anula el registro de Sicuens](https://www.cna.com.tw/news/acn/202507160341.aspx) — Agencia Central de Noticias, 16 de julio de 2025, informa que la aduana china anuló la calificación de registro de importador de la empresa familiar de Shen Bo-yang, Sicuens International Co. Ltd.
-
-[^37]: [Revista Business Today: CCTV emite un reportaje de 7 minutos y medio para desenmascarar a Shen Bo-yang](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — Revista Business Today, 9 de noviembre de 2025, informa que el canal de noticias de la Televisión Central de China emitió un reportaje especial de siete minutos y medio para desenmascarar a Shen Bo-yang, y reproduce la respuesta original de Shen en Facebook: «falso documental» y «Nobody cares».
-
-[^38]: [Agencia Central de Noticias: Base legal del delito de secesión: las Veintidós Medidas para castigar la independencia de Taiwán](https://www.cna.com.tw/news/aipl/202510280086.aspx) — Agencia Central de Noticias informa que la base legal para la apertura del caso por la policía de Chongqing es el Código Penal y las «Opiniones sobre el castigo legal de los elementos obstinados de la independencia de Taiwán por los delitos de secesión e incitación a la secesión» (conocidas como las «Veintidós Medidas contra la independencia de Taiwán»).
-
-[^39]: [Agencia Xinhua: Texto original del parte policial de Chongqing](http://www.news.cn/20251028/c50bf44d994d4ac99af0b6be8f264223/c.html) — Agencia Xinhua, 28 de octubre de 2025, publica el texto original del parte policial de la Oficina de Seguridad Pública de Chongqing, que incluye la dirección de correo electrónico para denuncias CQGACTD@163.com y el número de teléfono 023-65697660.
-
-[^40]: [Feng Media cnews.com.tw: Respuesta de Shen Bo-yang a las sanciones contra la empresa de su padre](https://cnews.com.tw/235250605a02/) — Feng Media, 5 de junio de 2025, informa la respuesta textual de Shen Bo-yang a las sanciones del Partido Comunista Chino contra la empresa Chao Yi de su padre: «Es un gran honor que en apenas un año ya haya sido sancionado por la Oficina de Asuntos de Taiwán por tercera vez», «Una tontería tan grande, creo que solo China puede hacerla», y su interpretación de que las sanciones son represalia por su impulso de proyectos de ley de seguridad nacional.
-
-[^41]: [Liberty Times: CCTV advierte «el próximo eres tú»](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — Liberty Times, 9 de noviembre de 2025, informa sobre la advertencia en la voz en off del reportaje de CCTV «Desenmascarar a Shen Bo-yang»: «Detente, de lo contrario el próximo eres tú», y analiza su significado intimidatorio.
-
-[^42]: [Taipei Times: Declaración del Consejo de Asuntos Continentales sobre la represión transnacional](https://www.taipeitimes.com/News/taiwan/archives/2025/10/29/2003846284) — Taipei Times, 29 de octubre de 2025, informa la declaración oficial del Consejo de Asuntos Continentales que define la apertura de investigación y enjuiciamiento contra Shen Bo-yang por parte del Partido Comunista Chino como «represión transnacional» (transnational repression).
-
-[^43]: [Revista Business Today: Reportaje de 7 minutos y medio de CCTV sobre Shen Bo-yang (extracto de la respuesta de Shen en Facebook)](https://www.businesstoday.com.tw/article/category/183027/post/202511090007/) — Revista Business Today transcribe textualmente la publicación de Shen Bo-yang en Facebook del 9 de noviembre, incluyendo la frase: «¿No podrían ser creativos por una vez? Cada vez que predigo lo que van a hacer, ustedes lo hacen exactamente».
-
-[^44]: [Agencia Central de Noticias: Shen Bo-yang responde en video a CCTV con «un país a cada lado»](https://www.cna.com.tw/news/aipl/202511090131.aspx) — Agencia Central de Noticias, 9 de noviembre de 2025, informa que Shen Bo-yang publicó un video corto respondiendo a CCTV, citando directamente tres segmentos: «Taiwán y China son un país a cada lado», «No se ilusionen pensando en extender sus manos a Taiwán mediante la fabricación de cargos» y «Se lo advierto a CCTV: dedíquense seriamente a su propaganda interna».
-
-[^45]: [Human Rights Watch: Declaración de Maya Wang](https://www.hrw.org/news/2025/10/31/china-dubious-criminal-investigation-of-taiwanese-legislator) — Texto completo de la declaración del 31 de octubre de 2025 de Maya Wang, directora adjunta para Asia de Human Rights Watch, que condena este caso del Partido Comunista Chino como «ley china que impone abuso de poder transfronterizo».
-
-[^47]: [CNA: El Departamento de Estado de EE. UU. expresa preocupación por la investigación de China sobre Shen Bo-yang](https://www.cna.com.tw/news/aipl/202511150018.aspx) — CNA informó el 2025-11-15 que el Departamento de Estado de EE. UU. expresó preocupación pública por la investigación de China sobre Shen Bo-yang, y criticó que este movimiento socava las normas del statu quo a ambos lados del estrecho.
-
-[^48]: [Liberty Times: El cofundador de IPAC, Luke de Pulford, respalda firmemente a Shen Bo-yang](https://news.ltn.com.tw/news/politics/breakingnews/5247849) — Liberty Times informó sobre el contenido de la publicación pública del cofundador de IPAC, Luke de Pulford, en la que respalda firmemente a Shen Bo-yang.
-
-[^49]: [Liberty Times: La Comisión de Relaciones Exteriores y Defensa Nacional del Yuan Legislativo aprueba una propuesta de condena](https://news.ltn.com.tw/news/politics/breakingnews/5250860) — Liberty Times informó el 2025-11-19 que la Comisión de Relaciones Exteriores y Defensa Nacional del Yuan Legislativo aprobó una propuesta de condena ad hoc contra la presentación de una investigación por parte del PCCh sobre Shen Bo-yang, incluidos los discursos originales de los proponentes como Wang Ding-yu.
-
-[^50]: [Liberty Times: China ofrece recompensa por los YouTubers 'Ba Jiong' y 'Min Nan Lang'](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Liberty Times informó en noviembre de 2025 los detalles de la recompensa emitida por la policía china contra los YouTubers 'Ba Jiong' y 'Min Nan Lang', con un máximo de 250.000 renminbi.
-
-[^51]: [Liberty Times: Shen Bo-yang revela cámara de aguja en la puerta de su casa y cartas amenazantes](https://news.ltn.com.tw/news/politics/breakingnews/5163138) — Liberty Times informó el 2025-08-31 que Shen Bo-yang, en el programa 'Figuras de la época' de Cheng Hung-yi, reveló por primera vez el incidente de una cámara de aguja disfrazada como tornillo de motocicleta en la puerta de su casa, una carta amenazante con la palabra 'muerte' escrita en una foto con su esposa, amenazas de degollar a su hija, y la reacción de ansiedad e insomnio de su esposa Tseng Hsin-hui.
-
-[^52]: [ETtoday 'Figuras en la línea de fuego': Entrevista sobre la adopción de la hija de Shen Bo-yang y Tseng Hsin-hui](https://www.ettoday.net/news/20240706/2771565.htm) — ETtoday el 2024-07-06 la columna Figuras en la línea de fuego informó el proceso completo de la adopción de la hija 'Mochi' por parte de Shen Bo-yang y su esposa Tseng Hsin-hui a través de la Fundación Li Hsin, incluyendo el proceso de 2 años y medio, el concepto de 'mamá de vientre', la escena 'la primera vez que realmente fui necesario', y las opiniones de Shen Bo-yang sobre los lazos de sangre.
-
-[^53]: [United Daily News: Intervención de Shen Bo-yang en la audiencia del Bundestag alemán](https://udn.com/news/story/124655/9136657) — United Daily News informó el 2025-11-12 sobre la participación de Shen Bo-yang en la audiencia del Bundestag alemán 'Amenazas de la desinformación de estados dictatoriales a la democracia y los derechos humanos', incluyendo el proceso y las citas de la entrevista posterior.
-
-[^54]: [CNA: Reunión de IPAC en La Haya, foto grupal de Shen Bo-yang y Fan Yun](https://www.cna.com.tw/news/aipl/202511210369.aspx) — CNA informó el 2025-11-21, registrando a Shen Bo-yang y Fan Yun asistiendo a la reunión de la Alianza Interparlamentaria sobre China (IPAC) en la entrada de la Corte Penal Internacional en La Haya, Países Bajos.
-
-[^55]: [Taipei Times: Shen en el panel de la Internacional Liberal en La Haya](https://www.taipeitimes.com/News/front/archives/2025/11/23/2003847673) — Taipei Times informó el 2025-11-23 sobre el discurso de Shen Bo-yang en el panel del 209º Comité Ejecutivo de la Internacional Liberal, incluyendo tres citas: 'China es un tigre de papel', 'propaganda simbólica para audiencias domésticas', 'Este es el lugar donde los dictadores son juzgados por crímenes de guerra o genocidio'.
-
-[^56]: [Ministerio de Relaciones Exteriores: Condena enérgicamente el doxxing del PCCh sobre la residencia de Shen Bo-yang](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121443) — Sitio web oficial del Ministerio de Relaciones Exteriores de la República de China 2026-01-03 texto completo de la declaración de condena, incluyendo tres frases oficiales: 'El doxxing, esta despreciable táctica de autoritarismo digital', 'Pérdida del límite civilizatorio, profundamente despreciable', 'Los colaboradores internos que cooperen con China en la represión transnacional deben ser sancionados legalmente'.
-
-[^57]: [Liberty Times: La Agencia de Policía Nacional vela plenamente por la seguridad de Shen Bo-yang](https://news.ltn.com.tw/news/politics/breakingnews/5298005) — Liberty Times informó el 2026-01-03 que la Agencia de Policía Nacional respondió al incidente de geolocalización por satélite, anunciando esfuerzos plenos para garantizar la seguridad de Shen Bo-yang y castigar severamente a los colaboradores locales.
-
-[^58]: [Taiwan News: Meta y Google eliminan publicaciones de imágenes satelitales](https://www.taiwannews.com.tw/news/6276185) — Taiwan News informó el 2026-01-05 que Meta y Google, a solicitud del Ministerio de Asuntos Digitales, eliminaron las publicaciones, videos e imágenes relacionadas con las imágenes satelitales de Shen Bo-yang publicadas por '孤烟暮蟬' y '今日海峽'.
-
-[^59]: [Liberty Times: Respuesta de Shen Bo-yang en Facebook el 1/3 sobre 'autocolectiva inferioridad' y 'Useful Idiots'](https://news.ltn.com.tw/news/politics/breakingnews/5298010) — Liberty Times informó el 2026-01-03 la respuesta de Shen Bo-yang en Facebook al incidente de geolocalización por satélite, incluyendo: 'China marcó las coordenadas de Shen Bo-yang, pero lo que revelaron es su complejo de inferioridad colectiva hacia el Taiwán democrático', cita académica de 'Useful Idiots', análisis de 'mala imitación del incidente del aeropuerto de Kansai', entre otros.
-
-[^60]: [Liberty Times: Shen Bo-yang revela la estrategia de tres ejes de China para 2026 para aislar a Taiwán](https://news.ltn.com.tw/news/politics/breakingnews/5321342) — Liberty Times informó el 2026-01-24 la larga publicación de Shen Bo-yang en Facebook revelando los tres ejes del PCCh: 'desarme físico, cambio cognitivo mental, monopolio de recursos electorales', incluyendo su autocrítica original: 'Mi mayor función debería seguir siendo la de un blanco'.
-
-[^61]: [Taipei Times: Shen regresa de misión de 8 días en Francia](https://www.taipeitimes.com/News/taiwan/archives/2026/02/16/2003852414) — Taipei Times informó el 2026-02-16 que Shen Bo-yang completó una misión diplomática de 8 días en Francia, pasó el Día de San Valentín en el avión, y tras regresar publicó en Facebook prometiendo 'Seguiré estando en la primera línea con mi país' - traducción completa.
-
-[^62]: [United Daily News: Planean nominar a Shen Bo-yang para la alcaldía de Taipéi](https://udn.com/news/story/124652/9422462) — United Daily News, informe de abril de 2026, registra la reunión del comité de campaña del PDP el 7 de abril para discutir; fuentes cercanas revelan el plan de nominar a Shen Bo-yang como candidato a la alcaldía de Taipéi.
-
-[^63]: [United Daily News: El exministro del Interior Hsu Kuo-yung respalda a Shen Bo-yang para la alcaldía de Taipéi](https://udn.com/news/story/124652/9442093) — United Daily News informa que el exministro del Interior Hsu Kuo-yung respalda públicamente la candidatura de Shen Bo-yang a la alcaldía de Taipéi.
-
-[^64]: [Centro de Encuestas TVBS: Encuesta de alcaldía de Taipéi de diciembre de 2025](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — El Centro de Encuestas TVBS publica en diciembre de 2025 el PDF completo de la encuesta para la alcaldía de Taipéi: Chiang Wan-an 64 %, Shen Bo-yang 22 %.
-
-[^65]: [United Daily News: Shen Bo-yang cambia de imagen y comparte escenario por primera vez con Chiang Wan-an](https://udn.com/news/story/124652/9463754) — United Daily News, 25 de abril de 2026, informa que Shen Bo-yang abandona su peinado «explosivo» y comparte escenario por primera vez con Chiang Wan-an en el Festival Cultural de Madres e Hijas del Templo Cihui de Songshan; la prensa lo compara con figuras como Takuya Kimura, Chang Hsiao-chuan y Bae Yong-joon.
-
-[^66]: [United Daily News: ¡Confirmado! El PDP decide oficialmente nominar a Shen Bo-yang para la alcaldía de Taipéi](https://udn.com/news/story/124652/9499591) — United Daily News, 13 de mayo de 2026, informa que el Comité Ejecutivo Central del PDP aprueba oficialmente la nominación de Shen Bo-yang para la alcaldía de Taipéi; el presidente Lai Ching-te, quien también preside el partido, le coloca personalmente la banda de campaña a Shen Bo-yang y juntos se toman de la mano gritando «¡Dong suan!».
-
-[^67]: [Yahoo Noticias: Shen Bo-yang se postula oficialmente contra Chiang Wan-an; Lai Ching-te elogia que es «la única opción para la alcaldía de Taipéi»](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Citas directas de la rueda de prensa del 13 de mayo de 2026, en la que Lai Ching-te describe a Shen Bo-yang como quien «posee la altura de una visión internacional, la amplitud de una gobernanza transversal y la calidez de la preocupación por los ciudadanos» y «la única opción para la alcaldía de Taipéi», y la declaración de Shen Bo-yang al aceptar la nominación: «Decido postularme a la alcaldía de Taipéi, permítanme ser su alcalde».
-
-[^68]: [Focus Taiwan: El PDP designa a Puma Shen para la elección a la alcaldía de Taipéi](https://focustaiwan.tw/politics/202605130025) — La versión en inglés de la Agencia Central de Noticias, Focus Taiwan, del 13 de mayo de 2026 informa que la fecha de votación es el 28 de noviembre de 2026, el oponente es el alcalde de Taipéi del KMT, Chiang Wan-an, que busca la reelección, y cita a Lai Ching-te destacando la experiencia de Shen Bo-yang en ONG como la Academia del Oso Negro y el Laboratorio de Democracia de Taiwán, así como su formación transversal en criminología, derecho y políticas públicas.
-
-[^69]: [United Daily News: La última encuesta de Taipéi revela que Chiang Wan-an supera a Shen Bo-yang por 28 puntos porcentuales](https://udn.com/news/story/124652/9529403) — United Daily News informa que el Centro de Encuestas TVBS publicó el 27 de mayo de 2026 una encuesta para la alcaldía de Taipéi: Chiang Wan-an 58 %, Shen Bo-yang 30 %, diferencia de 28 puntos porcentuales; en el grupo de 20 a 29 años, Shen Bo-yang obtiene 37 %, también por debajo del 60 % de Chiang Wan-an.
-
-[^70]: [Liberty Times: ¡La última encuesta de TVBS revela! Chiang Wan-an 49 %, Shen Bo-yang 41 %, la brecha de cuatro meses se reduce a un dígito](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Liberty Times, 8 de octubre de 2026, informa que el Centro de Encuestas TVBS publicó ese día una encuesta para la alcaldía de Taipéi: Chiang Wan-an 49 %, Shen Bo-yang 41 %, la diferencia se redujo de 28 puntos porcentuales a finales de mayo a 8, 11 % indecisos; en el grupo de 20 a 29 años, Shen Bo-yang 52 % frente a 44 % de Chiang Wan-an, revirtiendo el 37 % de mayo. Encuesta realizada el 3/10 y del 5 al 7/10, muestra válida de 1.120 personas, error de muestreo ±2,9 puntos porcentuales.
-
-[^71]: [Liberty Times: ¡Gran vuelco! Encuesta de Taipéi: Shen Bo-yang 50,3 % supera a Chiang Wan-an 33,3 %, lidera por 17 puntos porcentuales](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Liberty Times, 20 de octubre de 2026, informa sobre la segunda oleada de la encuesta de la Asociación Shinmin para la alcaldía de Taipéi: Shen Bo-yang 50,3 %, Chiang Wan-an 33,3 %, un vuelco de 17 puntos porcentuales respecto a septiembre (Chiang 41,7 %, Shen 40,5 %). Diseño y análisis del cuestionario a cargo de Dai Li-an, encuesta telefónica realizada por Beacon Market Research del 14 al 16 de octubre, 1.075 entrevistas completadas (753 fijas, 322 móviles), error de muestreo máximo ±3,0 puntos porcentuales. El artículo también señala que, antes de la publicación de la oleada anterior, concejales del KMT en Taipéi cuestionaron su imparcialidad.
-```

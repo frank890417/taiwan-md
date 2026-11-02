@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: 'choice'
       theme: 'scholar-public'
-      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
       chose:
         label: '不否認、剪短髮、準備'
-        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
       alternatives:
         - label: '婉拒提名'
           plausibility: 'structural'
@@ -317,7 +317,7 @@ lifeTree:
         - label: '辭立委先全力競選'
           plausibility: 'structural'
           note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: 'mayor-nominated-2026'
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: 'event'
       theme: 'scholar-public'
       label: '民進黨正式徵召沈伯洋參選台北市長'
-      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -530,7 +530,7 @@ Ngày 7 tháng 2, ông bay sang Pháp để thực hiện nhiệm vụ ngoại g
 
 ## Từ bia bắn đến ứng cử viên
 
-Đầu tháng 4 năm 2026, Ủy ban Tuyển chọn của Đảng Dân tiến đã tổ chức cuộc họp. Theo báo cáo chuyên mục chính trị của [United Daily News](https://udn.com/), các nguồn tin thân cận tiết lộ rằng nội bộ đảng đang dự định đề cử Thẩm Bá Dương (Puma Shen) tranh cử Thị trưởng Đài Bắc. [^62] Đến trung tuần tháng 4, mọi chuyện gần như đã được định đoạt. Cựu Bộ trưởng Nội vụ Từ Quốc Dũng đã công khai ủng hộ ông. [^63] Khảo sát của TVBS vào tháng 12 năm 2025 cho thấy tỷ lệ ủng hộ Thị trưởng đương nhiệm Tưởng Vạn An (Chiang Wan-an) đạt khoảng 64%, trong khi Thẩm Bá Dương chỉ đạt khoảng 22%. [^64] Dù bị tụt lại rất xa, nhưng cục diện thắng thua của cuộc bầu cử không nằm trong phạm vi của bài viết này.
+Đầu tháng 4 năm 2026, Ủy ban Tuyển chọn của Đảng Dân tiến đã tổ chức cuộc họp. Theo báo cáo chuyên mục chính trị của [United Daily News](https://udn.com/), các nguồn tin thân cận tiết lộ rằng nội bộ đảng đang dự định đề cử Thẩm Bá Dương (Puma Shen) tranh cử Thị trưởng Đài Bắc. [^62] Đến trung tuần tháng 4, mọi chuyện gần như đã được định đoạt. Cựu Bộ trưởng Nội vụ Từ Quốc Dũng đã công khai ủng hộ ông. [^63]
 
 Ngày 25 tháng 4, ông đã cắt bỏ mái tóc xù đã gắn bó với mình hơn mười năm, lần đầu tiên đứng cùng sân khấu với Tưởng Vạn An tại Lễ hội Văn hóa Mẹ và Con ở Từ Huệ Đường, Tùng Sơn. [^65] Dương Quá đã cắt tóc ngắn đi.
 
@@ -539,24 +539,6 @@ Ngày 13 tháng 5 năm 2026, mọi chuyện từ tin đồn đã trở thành ch
 ![Thẩm Bá Dương mặc áo thun đen, đeo kính, cầm micro đứng trên sân khấu, trước ngực đeo dải băng in dòng chữ "Từ chối thống nhất chiến](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _Ngày 19 tháng 4 năm 2025, Thẩm Bá Dương tham dự đại hội "Từ chối thống nhất chiến, bảo vệ Đài Loan". Những người bị gắn tọa độ đã chọn tiếp tục đứng trên sân khấu công khai. Photo: KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
-
-Tại thời điểm được triệu tập, cục diện bầu cử rất chênh lệch. Cuộc khảo sát ngày 27 tháng 5 của Trung tâm Khảo sát TVBS cho thấy Tưởng Vạn An đạt 58%, Thẩm Bá Dương đạt 30%, khoảng cách là 28 điểm phần trăm; ngay cả ở nhóm cử tri trẻ từ 20 đến 29 tuổi, tỷ lệ 37% của Thẩm Bá Dương cũng thấp hơn mức 60% của Tưởng Vạn An. [^69] Truyền thông quốc tế mô tả cuộc đối đầu này là một thử thách với khả năng thắng lợi không cao.
-
-Năm tháng sau, khoảng cách đã được thu hẹp, nhưng thu hẹp đến đâu còn tùy thuộc vào việc hỏi ai. Cùng một chuỗi khảo sát do TVBS công bố ngày 8 tháng 10 cho thấy Tưởng Vạn An đạt 49%, Thẩm Bá Dương đạt 41%, khoảng cách giảm từ 28 điểm phần trăm xuống còn 8 điểm; ở phân khúc 20 đến 29 tuổi, kết quả đảo ngược lại với Thẩm Bá Dương đạt 52% và Tưởng Vạn An đạt 44%; ngoài ra có 11% chưa quyết định. [^70] Ngược lại, đợt khảo sát thứ hai do Hiệp hội Tín Dân công bố vào ngày 20 tháng 10 lại đi theo hướng khác: Thẩm Bá Dương đạt 50,3%, Tưởng Vạn An đạt 33,3%, từ việc tụt hậu 1,2 điểm phần trăm trong tháng 9 đã trở thành dẫn trước 17 điểm phần trăm. [^71] Do phương pháp lấy mẫu và trọng số của hai bên khác nhau, các nghị sĩ Hội đồng Thành phố Đài Bắc thuộc Quốc Dân Đảng cũng đã công khai nghi ngờ tính khách quan của cuộc khảo sát sau; khoảng cách giữa hai con số lớn hơn bất kỳ sai số lấy mẫu nào của riêng mỗi bên, vì vậy điều có thể nói lúc này là "khoảng cách đang thu hẹp", chứ không phải "ai đang dẫn trước". Ngày bỏ phiếu là 28 tháng 11, lịch trình bầu cử đầy đủ và thông tin các ứng cử viên có tại trang [Bầu cử cửu hợp nhất 2026](/vi/politics/2026-local-elections-taiwan/).
-
-```tw-dot
-Hai cuộc khảo sát Thị trưởng Đài Bắc vào tháng 10, khoảng cách lớn hơn sai số lấy mẫu của mỗi bên (Tỷ lệ ủng hộ %, giá trị ước tính và khoảng sai số)
-Tưởng Vạn An／TVBS 08-10 | 49 | 46.1 | 51.9 | Đương nhiệm, tìm cách tái đắc cử
-*Thẩm Bá Dương／TVBS 08-10 | 41 | 38.1 | 43.9 | Đảng Dân tiến đề cử
-Tưởng Vạn An／Hiệp hội Tín Dân 20-10 | 33.3 | 30.3 | 36.3 | Cùng một người, cuộc khảo sát khác
-*Thẩm Bá Dương／Hiệp hội Tín Dân 20-10 | 50.3 | 47.3 | 53.3 | Cùng một người, cuộc khảo sát khác
-Nguồn: Trung tâm Khảo sát Dư luận TVBS 08-10-2026; Hiệp hội Tín Dân 20-10-2026
-```
-
-```tw-note
-Giải thích
-Cả hai đều là khảo sát qua điện thoại đối với công dân trên 20 tuổi có hộ khẩu tại Đài Bắc, câu hỏi là "Nếu bỏ phiếu ngay bây giờ bạn sẽ bầu cho ai", không phải dự đoán kết quả ngày 28/11. Khảo sát của TVBS thực hiện vào các ngày 3/10 và 5-7/10, mẫu hiệu quả 1.120 người, sai số lấy mẫu ±2,9 điểm phần trăm ở mức tin cậy 95%. Khảo sát của Hiệp hội Tín Dân do Đới Lập An thiết kế phân tích, Bích Khắc Nghiên cứu Thị trường thực hiện phỏng vấn điện thoại, thực hiện từ 14/10 đến 16/10, mẫu hiệu quả 1.075 người (điện thoại cố định 753, điện thoại di động 322), sai số lấy mẫu tối đa ±3,0 điểm phần trăm. Khoảng giá trị là giá trị ước tính cộng trừ sai số lấy mẫu tương ứng, không bao gồm sai số do trọng số và tỷ lệ từ chối trả lời.
-```
 
 Từ cái cúi chào của cậu thiếu niên lau nhà đến bộ phim tài liệu giả tưởng của Đài Loan Trung ương Truyền hình (CCTV), từ nghiên cứu luận văn trên một bàn làm việc đến tọa độ trên ảnh vệ tinh, từ "không thể làm người phụ trách Học viện Gấu Đen" đến "chính thức tranh cử Thị trưởng Đài Bắc", vị thế của Thẩm Bá Dương đã thay đổi nhiều lần. Ông dùng cùng một câu nói để chú thích cho mỗi sự thay đổi: "Tôi là bia bắn." Câu nói này vừa là sự tự giễu, vừa là một quan sát học thuật bình tĩnh. Trong diễn ngôn về Đài Loan của ĐCSTQ, ông thực sự chính là mục tiêu bị nhắm tới. Một học giả tự nhận lấy cái nhãn mà mình đang nghiên cứu để dán lên chính bản thân mình và tiếp tục công việc; người làm được điều này không nhiều.
 
@@ -720,8 +702,6 @@ Video nhúng: [Thẩm Bá Dương tới Đức giải thích về việc Đài L
 
 [^63]: [United News Agency: Từ Quốc Dũng ủng hộ Thẩm Bá Dương tranh cử tại Đài Bắc](https://udn.com/news/story/124652/9442093) — United News Agency đưa tin về nội dung Cựu Bộ trưởng Nội vụ Từ Quốc Dũng công khai ủng hộ Thẩm Bá Dương trong cuộc đua giành ghế Thị trưởng Đài Bắc.
 
-[^64]: [Trung tâm Khảo sát TVBS: Khảo sát Thị trưởng Đài Bắc tháng 12/2025](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Toàn văn tệp PDF về kết quả khảo sát Thị trưởng Đài Bắc do Trung tâm Khảo sát TVBS công bố vào tháng 12/2025, cho thấy tỷ lệ ủng hộ Tưởng Vạn An là 64% và Thẩm Bá Dương là 22%.
-
 [^65]: [United News Agency: Thẩm Bá Dương thay đổi diện mạo, lần đầu đứng chung sân khấu với Tưởng Vạn An](https://udn.com/news/story/124652/9463754) — Báo cáo của United News Agency ngày 25/04/2026 về việc Thẩm Bá Dương từ bỏ kiểu tóc xù, lần đầu tiên cùng Tưởng Vạn An xuất hiện tại Lễ hội Văn hóa Mẹ và Con tại Từ Huệ Đường Tùng Sơn, kèm theo các chủ đề so sánh với các tài tử như Kimura Takuya, Trương Hiếu Toàn hay Bùi Dũng Tuấn.
 
 [^66]: [United News Agency: Đã xác định! Đảng Dân tiến chính thức chốt Thẩm Bá Dương tranh cử Thị trưởng Đài Bắc](https://udn.com/news/story/124652/9499591) — Báo cáo của United News Agency ngày 13/05/2026 về việc Ban Chấp hành Trung ương Đảng Dân tiến chính thức quyết định triệu tập Thẩm Bá Dương tranh cử Thị trưởng Đài Bắc; Tổng thống Lại Thanh Đức, người kiêm nhiệm Chủ tịch Đảng, đã đích thân đeo băng rôn tranh cử cho Thẩm Bá Dương và cùng nắm tay hô vang khẩu hiệu chiến thắng.
@@ -729,9 +709,3 @@ Video nhúng: [Thẩm Bá Dương tới Đức giải thích về việc Đài L
 [^67]: [Yahoo News: Thẩm Bá Dương chính thức tranh cử đối đầu Tưởng Vạn An, Lại Thanh Đức khen ngợi là ứng viên không thể thay thế cho chức Thị trưởng Đài Bắc](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Trích dẫn trực tiếp từ buổi họp báo ngày 13/05/2026, bao gồm lời của ông Lại Thanh Đức nhận định Thẩm Bá Dương "sở hữu tầm nhìn quốc tế cao độ, chiều rộng quản trị đa lĩnh vực và sự ấm áp trong quan tâm đến người dân", là "ứng viên không thể thay thế cho chức Thị trưởng Đài Bắc"; cùng phát biểu chấp thuận triệu tập của Thẩm Bá Dương: "Tôi quyết định tranh cử Thị trưởng Đài Bắc, xin hãy để tôi trở thành thị trưởng của các bạn".
 
 [^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Bản tin tiếng Anh của Thông tấn xã Trung ương Focus Taiwan ngày 13/05/2026, xác nhận ngày bỏ phiếu là 28/11/2026, đối thủ là Thị trưởng đương nhiệm thuộc đảng Quốc dân Tưởng Vạn An; đồng thời dẫn lời ông Lại Thanh Đức khẳng định kinh nghiệm hoạt động NGO của Thẩm Bá Dương tại Học viện Gấu Đen và Phòng thí nghiệm Dân chủ Đài Loan, cùng nền tảng đa ngành về tội phạm học, luật pháp và chính sách công.
-
-[^69]: [United News Agency: Khảo sát mới nhất tại Đài Bắc cho thấy Tưởng Vạn An dẫn trước Thẩm Bá Dương 28 điểm phần trăm](https://udn.com/news/story/124652/9529403) — United News Agency đưa tin về kết quả khảo sát Thị trưởng Đài Bắc do Trung tâm Khảo sát Dư luận TVBS công bố ngày 27/05/2026: tỷ lệ ủng hộ Tưởng Vạn An là 58%, Thẩm Bá Dương là 30%, cách biệt 28 điểm phần trăm; ở nhóm cử tri trẻ từ 20 đến 29 tuổi, tỷ lệ của Thẩm Bá Dương đạt 37%, vẫn thấp hơn mức 60% của Tưởng Vạn An.
-
-[^70]: [Liberty Times: Khảo sát mới nhất của TVBS! Tỷ lệ ủng hộ Tưởng Vạn An đạt 49%, Thẩm Bá Dương đạt 41%, khoảng cách thu hẹp còn một chữ số sau 4 tháng](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Báo cáo của Liberty Times ngày 08/10/2026 về kết quả khảo sát Thị trưởng Đài Bắc do Trung tâm Khảo sát TVBS công bố cùng ngày: Tưởng Vạn An đạt 49%, Thẩm Bá Dương đạt 41%, khoảng cách đã thu hẹp từ 28 điểm phần trăm hồi cuối tháng 5 xuống còn 8 điểm phần trăm, trong khi 11% chưa quyết định; ở độ tuổi 20-29, Thẩm Bá Dương đạt 52% so với 44% của Tưởng Vạn An, một sự đảo chiều so với mức 37% hồi tháng 5. Cuộc khảo sát thực hiện vào ngày 03/10 và từ 05/10 đến 07/10, mẫu hiệu quả là 1.120 người, sai số lấy mẫu ±2,9 điểm phần trăm.
-
-[^71]: [Liberty Times: Lội ngược dòng ngoạn mục! Khảo sát tại Đài Bắc cho thấy Thẩm Bá Dương đạt 50,3% vượt qua Tưởng Vạn An 33,3%, dẫn trước 17 điểm phần trăm](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Báo cáo của Liberty Times ngày 20/10/2026 về đợt khảo sát thứ hai dành cho Thị trưởng Đài Bắc của Hiệp hội Tín đồ: Thẩm Bá Dương đạt 50,3%, Tưởng Vạn An đạt 33,3%, đảo ngược tình thế 17 điểm phần trăm so với kết quả tháng 9 (Tưởng 41,7%, Thẩm 40,5%). Thiết kế và phân tích bảng câu hỏi do Đới Lập An thực hiện, phỏng vấn qua điện thoại do Nghiên cứu Thị trường Biken thực hiện, thời gian khảo sát từ 14/10 đến 16/10, hoàn thành thành công 1.075 cuộc gọi (753 điện thoại cố định, 322 điện thoại di động), sai số lấy mẫu tối đa ±3,0 điểm phần trăm. Bản tin cũng ghi nhận trước khi công bố đợt khảo sát trước đó của hiệp hội này, đã có một Nghị sĩ Hội đồng Thành phố Đài Bắc thuộc đảng Quốc dân nghi ngờ về tính công bằng.

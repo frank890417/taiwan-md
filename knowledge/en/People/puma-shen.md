@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: 'choice'
       theme: 'scholar-public'
-      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
       chose:
         label: '不否認、剪短髮、準備'
-        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
       alternatives:
         - label: '婉拒提名'
           plausibility: 'structural'
@@ -317,7 +317,7 @@ lifeTree:
         - label: '辭立委先全力競選'
           plausibility: 'structural'
           note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: 'mayor-nominated-2026'
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: 'event'
       theme: 'scholar-public'
       label: '民進黨正式徵召沈伯洋參選台北市長'
-      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -530,7 +530,7 @@ He spent Valentine's Day (February 14) on a plane. After returning, he wrote on 
 
 ## From Target to Candidate
 
-In early April 2026, the DPP campaign committee convened a meeting. According to a political report by the [United Daily News](https://udn.com/), insiders revealed the party planned to tap Shen Bo-yang to run for Taipei mayor. [^62] By mid-to-late April it was all but settled. Former Interior Minister Hsu Kuo-yung publicly endorsed him. [^63] A TVBS poll from December 2025 showed incumbent Taipei Mayor Chiang Wan-an at roughly 64% support, while Shen Bo-yang stood at about 22%. [^64] Trailing by a wide margin, though the election outcome is beyond the scope of this article.
+In early April 2026, the DPP campaign committee convened a meeting. According to a political report by the [United Daily News](https://udn.com/), insiders revealed the party planned to tap Shen Bo-yang to run for Taipei mayor. [^62] By mid-to-late April it was all but settled. Former Interior Minister Hsu Kuo-yung publicly endorsed him. [^63]
 
 On April 25, he cut off the explosion hairstyle he had worn for over a decade and shared a stage with Chiang Wan-an for the first time at the Songshan Cihui Temple Mother-Daughter Cultural Festival. [^65] Yang Guo cut his hair short.
 
@@ -539,24 +539,6 @@ On May 13, 2026, rumor became official. The DPP Central Executive Committee fina
 ![Shen Bo-yang wearing a black T-shirt and glasses, standing on stage holding a microphone, a sash printed with the words "Reject United Front" draped across his chest](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _April 19, 2025, Shen Bo-yang attends the "Reject United Front, Defend Taiwan" rally. The man whose coordinates were published chooses to keep standing on the public stage. Photo: KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
-
-At the moment of nomination, the race was lopsided. A TVBS Poll Center survey on May 27 showed Chiang Wan-an at 58%, Shen Bo-yang at 30%, a 28-point gap; even among voters aged 20–29, Shen's 37% trailed Chiang's 60%. [^69] International media framed the contest as an uphill battle with low odds.
-
-Five months later, the gap had narrowed — but to where depends on who you ask. TVBS's October 8 release of the same tracking series put Chiang at 49%, Shen at 41%, shrinking the gap from 28 points to 8; among the 20–29 cohort the figures flipped to Shen 52%, Chiang 44%; another 11% remained undecided. [^70] The Taiwan Public Opinion Foundation's (TPOF) second wave published October 20 showed the opposite direction: Shen at 50.3%, Chiang at 33.3%, turning a 1.2-point deficit in September into a 17-point lead. [^71] The two polls differ in sampling and weighting; KMT Taipei city councilors have publicly questioned the latter's impartiality; the spread between the two readings exceeds either poll's own sampling error, so all one can say at this moment is "the gap is narrowing," not "who is ahead." Election day is November 28; the full election calendar and candidate portals are on the [2026 Nine-in-One Elections](/en/politics/2026-local-elections-taiwan/) page.
-
-```tw-dot
-Two October Taipei mayoral polls, gap exceeds each poll's own sampling error (support %, point estimate with confidence interval)
-Chiang Wan-an / TVBS 10-08 | 49 | 46.1 | 51.9 | Incumbent, seeking re-election
-*Shen Bo-yang / TVBS 10-08 | 41 | 38.1 | 43.9 | DPP nominee
-Chiang Wan-an / TPOF 10-20 | 33.3 | 30.3 | 36.3 | Same person, different poll
-*Shen Bo-yang / TPOF 10-20 | 50.3 | 47.3 | 53.3 | Same person, different poll
-Source: TVBS Poll Center 2026-10-08; Taiwan Public Opinion Foundation 2026-10-20
-```
-
-```tw-note
-Note
-Both are telephone surveys of Taipei-registered citizens aged 20 and above, asking "who would you vote for if the election were held today," not a prediction of the 11/28 result. The TVBS poll interviewed on 10/3 and 10/5–7, valid sample 1,120, 95% confidence level, sampling error ±2.9 percentage points. The TPOF poll was designed and analyzed by Tai Li-an, executed by Biken Market Research, fielded 10/14–10/16, valid sample 1,075 (landline 753, mobile 322), maximum sampling error ±3.0 percentage points. The intervals shown are point estimates plus/minus each poll's own sampling error, excluding weighting and non-response error.
-```
 
 From the bow of the floor-mopping teenager to CCTV's pseudo-documentary, from a single desk's academic research to coordinates on a satellite image, from "cannot be the person in charge of Black Bear Academy" to "officially running for Taipei mayor," Shen Bo-yang's position has shifted several times. He uses the same sentence to footnote every shift: "I am the target." The line is both self-deprecation and cool scholarly observation. In the CCP's narrative on Taiwan, he truly is the one meant to be in the crosshairs. A scholar takes the label used to mark his research subject, sticks it on himself, and keeps working; few people manage that.
 
@@ -722,8 +704,6 @@ Embedded media: [Shen Bo-yang travels to Germany to explain Taiwan's disinformat
 
 [^63]: [UDN: Former Interior Minister Hsu Kuo-yung endorses Puma Shen for Taipei mayor](https://udn.com/news/story/124652/9442093) — UDN reports on former Interior Minister Hsu Kuo-yung publicly endorsing Puma Shen's bid for Taipei mayor.
 
-[^64]: [TVBS Poll Center: December 2025 Taipei Mayoral Poll](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — TVBS Poll Center released the full PDF of the December 2025 Taipei mayoral poll: Chiang Wan-an 64% support, Puma Shen 22%.
-
 [^65]: [UDN: Puma Shen transforms, shares stage with Chiang Wan-an for first time](https://udn.com/news/story/124652/9463754) — UDN April 25, 2026 report: Puma Shen ditches his 'explosion hair', appears on stage with Chiang Wan-an for the first time at the Songshan Cihui Hall Mother-Daughter Cultural Festival; comparisons drawn to Takuya Kimura, Joseph Chang, Bae Yong-joon.
 
 [^66]: [UDN: Confirmed! DPP officially decides Puma Shen to run for Taipei mayor](https://udn.com/news/story/124652/9499591) — UDN May 13, 2026 report: DPP Central Executive Committee officially nominates Puma Shen for Taipei mayor; President Lai Ching-te, also party chair, personally drapes campaign sash on Shen, they hold hands and shout 'Freeze garlic!' (a Taiwanese phrase meaning 'no problem').
@@ -731,9 +711,3 @@ Embedded media: [Shen Bo-yang travels to Germany to explain Taiwan's disinformat
 [^67]: [Yahoo News: Puma Shen officially runs against Chiang Wan-an; Lai Ching-te praises him as 'the only choice for Taipei mayor'](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Direct quotes from May 13, 2026 press conference: Lai Ching-te calls Shen 'possessing the height of international vision, breadth of cross-domain governance, and warmth of care for citizens' and 'the only choice for Taipei mayor'; Shen accepts nomination: 'I decide to run for Taipei mayor, please let me be your mayor.'
 
 [^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Focus Taiwan (CNA English) May 13, 2026 report confirms election date November 28, 2026, opponent is KMT Taipei Mayor Chiang Wan-an seeking re-election; cites Lai Ching-te affirming Shen's NGO experience at Black Bear Academy and Taiwan Democracy Lab, and cross-disciplinary background in criminology, law, and public policy.
-
-[^69]: [UDN: Latest Taipei poll shows Chiang Wan-an leading Puma Shen by 28 percentage points](https://udn.com/news/story/124652/9529403) — UDN reports TVBS Poll Center May 27, 2026 Taipei mayoral poll: Chiang Wan-an 58%, Puma Shen 30%, gap 28 points; among 20-29 age group, Shen 37% still lower than Chiang's 60%.
-
-[^70]: [Liberty Times: Latest TVBS poll reveals Chiang Wan-an 49%, Puma Shen 41%, gap down to single digits after 4 months](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Liberty Times October 8, 2026 reports TVBS Poll Center same-day Taipei mayoral poll: Chiang 49%, Shen 41%, gap narrowed from 28 points in late May to 8 points, 11% undecided; ages 20-29 Shen 52% vs Chiang 44%, reversing May's 37%. Survey conducted Oct 3 and Oct 5-7, valid sample 1,120, sampling error ±2.9 percentage points.
-
-[^71]: [Liberty Times: Major turnaround! Taipei poll: Shen 50.3% overtakes Chiang 33.3%, leading by 17 points](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Liberty Times October 20, 2026 reports Shinmin Association second-wave Taipei mayoral poll: Shen 50.3%, Chiang 33.3%, a 17-point swing from September's Chiang 41.7%, Shen 40.5%. Questionnaire design and analysis by Tai Li-an, telephone interviews by Beacon Market Research, conducted Oct 14-16, 1,075 completed interviews (753 landline, 322 mobile), maximum sampling error ±3.0 percentage points. Report notes KMT Taipei city councilors questioned the association's impartiality before previous poll release.
