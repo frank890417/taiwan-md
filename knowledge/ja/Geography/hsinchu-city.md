@@ -28,17 +28,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 17
-researchReport: reports/research/2026-05/新竹市.md
+researchReport: 'reports/research/2026-05/新竹市.md'
 series: '22 縣市系列（batch 4）'
-image: /article-images/geography/hsinchu-east-gate-2015.webp
-imageCredit: Jiang / Wikimedia Commons
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG
+image: '/article-images/geography/hsinchu-east-gate-2015.webp'
+imageCredit: 'Jiang / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-26T20:08:18+08:00'
+translatedAt: '2026-11-02T11:53:17.434094+00:00'
 ---
 
 # 新竹市：1733年に竹を植えて築いた竹塹、1980年に台積電を生んだ揺籃
@@ -204,17 +204,17 @@ StoryStudioの逐語記録。「**新竹は南東から北西に向かってラ�
 
 ## 関連記事
 
-- [基隆市](/ja/geography/keelung-city) — 22県市シリーズのパイロット版。1626年のスペイン人上陸から1984年の世界第7位のコンテナ港まで続く港町の記憶。新竹と同じく冷戦最前線基地（基隆の和平島 対 新竹の空軍基地）と省轄市としての運命を持つ
-- [嘉義市](/ja/geography/chiayi-city) — 22県市シリーズ。同じく県治の移転によって分割された省轄市（1991年の嘉義県治の太保移転 対 1989年の新竹県治の竹北移転）。二つの県市分治の帰結を比較する
-- [苗栗県](/ja/geography/miaoli-county) — 22県市シリーズ。1887年に新竹県から分立した隣県。竹科の後龍園区と銅鑼園区はどちらも苗栗にあり、新竹の産業が波及した先
-- [南投県](/ja/geography/nantou-county) — 22県市シリーズ。唯一海に面さない県。新竹と同じく「規模≠重要性」の地理構造を持つ（南投は中部山脈系全体を、新竹は半導体産業集積全体を支える）
-- [桃園市](/ja/geography/taoyuan-city) — 新竹の北隣。1973年の工研院設立時、最初は桃園の龍潭への設置が検討されたが、後に新竹が選ばれた。竹科龍潭園区は桃園と新竹にまたがる
-- [新竹県](/ja/geography/hsinchu-county) — 1982年に新竹市から分立独立し、1989年に県治が竹北へ移転。宝山郷は台積電の2ナノメートル工場が立地する隣県
-- [台湾半導体産業](/technology/台灣半導體產業) — 1973年の工研院から2025年の台積電2ナノメートルまでの完全な産業史。新竹はそのすべての時間軸における物理的な座標である
-- [台積電](/companies/台積電) — 1987年に新竹科学園区で設立。2025年第4四半期に宝山工場で2ナノメートルプロセスの量産を開始
-- [冷戦期の台湾](/history/冷戰時期的台灣) — 黒蝙蝠中隊と黒猫中隊による偵察行動の歴史。新竹空軍基地はこの歴史の中心地である
-- [台湾科学園区](/geography/台灣科學園區) — 1980年の新竹、1996年の南科、2003年の中科、2025年の高雄超大型園区に至る、科学園区の完全な歴史
-- [鶏籠中元祭](/culture/雞籠中元祭) — 新竹城隍廟と同じ清代の地方信仰体系に属する。「死者を受け入れる」二つの儀式を比較する（基隆は1884年のフランス軍の亡魂を、新竹城隍廟は台湾全土の神鬼を司る）
+- [基隆市](/ja/geography/keelung-city) — 22県市シリーズ・パイロット版：1626年のスペイン人による旗立てから、1984年に世界第7位のコンテナ港となった港湾都市の記憶。新竹と同様に冷戦の最前線基地（基隆・和平島 vs 新竹空軍基地）としての側面と、直轄市（省轄市）としての運命を持つ。
+- [嘉義市](/ja/geography/chiayi-city) — 22県市シリーズ：同じく県庁の移転によって分割された直轄市（1991年の嘉義県庁の太保への移転 vs 1989年の新竹県庁の竹北への移転）。二つの異なる県市分治の結果を比較する。
+- [苗栗県](/ja/geography/miaoli-county) — 22県市シリーズ：1887年に新竹県から分離した隣接県。竹科（新竹科学園区）の後龍園区と銅鑼園区は共に苗栗にあり、新竹からの産業の波及が見られる。
+- [南投県](/ja/geography/nantou-county) — 22県市シリーズ：唯一海に面していない県。新竹と同様に「規模 ≠ 重要性」という地理構造を持つ（南投が中部山脈システム全体を支え、新竹が半導体クラスター全体を支える）。
+- [桃園市](/ja/geography/taoyuan-city) — 新竹の北隣。ITRI（工業技術研究院）が1973年に設立された際、当初は桃園龍潭への設置を検討していたが、最終的に新竹に決定した。竹科の龍潭園区は桃園と新竹にまたがっている。
+- [新竹県](/ja/geography/hsinchu-county) — 1982年に新竹市から分離して独立、1989年に県庁が竹北へ移転。宝山郷はTSMC（台湾積体電路製造）の2ナノメートル工場がある場所の隣接県である。
+- [台湾の半導体産業](/ja/technology/taiwan-semiconductor-industry) — 1973年のITRI設立から2025年のTSMC 2ナノメートルに至る完全な産業史。新竹はそのすべてのタイムラインにおける物理的な座標である。
+- [TSMC（台積電）](/ja/economy/tsmc) — 1987年に新竹科学園区に設立。2025年第4四半期には、宝山工場にて2ナノメートルプロセスの量産を開始する。
+- [冷戦時代の台湾](/history/冷戰時期的台灣) — 黒蝙蝠中隊（ブラックバット部隊）と黒猫中隊（ブラックキャット部隊）の偵察行動史。新竹空軍基地はこの歴史の中心地である。
+- [台湾科学園区](/ja/technology/science-park-development) — 1980年の新竹、1996年の南科、2003年の中科、そして2025年の高雄超大型園区に至る、科学園区の完全な歴史。
+- [基隆中元祭](/culture/雞籠中元祭) — 新竹城隍廟と同じく清代の地方信仰システムに属する。二つの異なる「死者を祀る」儀式を比較（基隆は1884年の仏軍の亡霊を祀り、新竹城隍廟は台湾全土の神仏や幽霊を司る）。
 
 ## 画像出典
 
