@@ -114,6 +114,8 @@ body {
 .app-hero img {
   width: 100%;
   height: auto;
+  max-height: 62vh;
+  object-fit: contain;
   display: block;
   background: var(--app-paper-2);
 }

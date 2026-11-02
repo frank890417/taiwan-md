@@ -147,6 +147,9 @@ final class AppModel {
     /// 用日期當種子，在精選與長文裡挑一篇；同一天在 App 與 Widget 一致
     func dailyPick(_ date: Date = Date(), lang: ContentLanguage? = nil) -> ArticleMeta? {
         let all = packs.allMeta(lang ?? readableLang).filter { $0.category != .About }
+        // 截圖用：-TWPickKey Food/台灣早餐文化 指定今天那一篇
+        if let k = UserDefaults.standard.string(forKey: "TWPickKey"), Calendar.current.isDateInToday(date),
+           let m = all.first(where: { $0.key == k }) { return m }
         var pool = all.filter { $0.featured && $0.chars > 3000 }
         if pool.count < 30 { pool = all.filter { $0.chars > 4000 } }
         guard !pool.isEmpty else { return all.first }

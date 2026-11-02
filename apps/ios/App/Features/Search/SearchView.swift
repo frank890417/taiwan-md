@@ -41,6 +41,10 @@ struct SearchView: View {
         .searchable(text: $query, placement: .navigationBarDrawer(displayMode: .always),
                     prompt: L.t("搜尋 \(L.articles(model.packs.allMeta(lang).count))", "Search \(L.articles(model.packs.allMeta(lang).count))", "\(L.articles(model.packs.allMeta(lang).count))を検索"))
         .onSubmit(of: .search) { runFull() }
+        .task {
+            // 截圖用：-TWSearch 茶
+            if query.isEmpty, let q = UserDefaults.standard.string(forKey: "TWSearch") { query = q; runFull() }
+        }
         .onChange(of: query) { _, q in
             full = nil
             let engine = SearchEngine(store: model.packs)

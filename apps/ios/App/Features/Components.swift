@@ -80,8 +80,10 @@ struct CoverImage: View {
             LinearGradient(colors: [meta.category.tint, meta.category.tint.opacity(0.65)],
                            startPoint: .topLeading, endPoint: .bottomTrailing)
             Image(systemName: meta.category.symbol)
-                .font(.system(size: 64, weight: .light))
-                .foregroundStyle(.white.opacity(0.25))
+                .font(.system(size: 54, weight: .light))
+                .foregroundStyle(.white.opacity(0.22))
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+                .padding(18)
             if let url = meta.imageURL {
                 AsyncImage(url: url, transaction: Transaction(animation: .easeOut(duration: 0.25))) { phase in
                     if case .success(let img) = phase {
