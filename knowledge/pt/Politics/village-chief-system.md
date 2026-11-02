@@ -1,14 +1,14 @@
 ---
-title: 'Sistema de chefes de vila e bairro: 7.748 chefes eleitos, a unidade política mais básica de Taiwan'
-description: 'O escritório de bairro às 5h30, subsídio mensal de 45 mil, mais de 60% sem filiação partidária — o chefe de vila/bairro é o cargo político que menos parece "política" nas eleições de Taiwan, e a prova mais completa da democratização taiwanesa. Do sistema baojia da era japonesa à eleição direta de 1950, estes 7.748 cargos — mais que as lojas 7-Eleven — operam há oitenta anos a mediação de relações locais.'
+title: 'O sistema de chefes de vila e bairro: 7.748 líderes eleitos, a unidade política mais básica de Taiwan'
+description: 'Escritórios abertos às 5h30 da manhã, subsídio de NT$ 54.000 mensais, mais de 60% sem partido — os chefes de vila e bairro são o cargo político menos "político" em Taiwan e a prova mais completa de sua democratização.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'chefe de vila/bairro',
-    'autogoverno de base',
-    'lei do sistema local',
-    'baojia da era japonesa',
+    'chefe de vila e bairro',
+    'autonomia local',
+    'Lei do Sistema de Governo Local',
+    'sistema Baojia da era japonesa',
     'eleições 2026',
   ]
 subcategory: '選舉制度'
@@ -18,267 +18,271 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: '837e22b9a'
-sourceContentHash: 'sha256:cce4699f9fdc3697'
-sourceBodyHash: 'sha256:48ef53002db1337d'
-translatedAt: '2026-07-28T06:15:59+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:968a60e9d47e825b'
+sourceBodyHash: 'sha256:c77c8cceb31c23cb'
+translatedAt: '2026-11-03T00:30:15+08:00'
 ---
 
-# Sistema de chefes de vila e bairro: 7.748 chefes eleitos, a unidade política mais básica de Taiwan
+# O sistema de chefes de vila e bairro: 7.748 líderes eleitos, a unidade política mais básica de Taiwan
 
-> **Visão geral em 30 segundos:** 7.748 chefes de vila e bairro em todo Taiwan — mais que as 6.600 lojas do 7-Eleven. Mandato de 4 anos, subsídio mensal de cerca de 45 mil, isto não é salário, é o subsídio operacional que o governo entrega a "agentes de relações locais". O chefe de vila/bairro é o **único cargo nas eleições de Taiwan onde candidatos sem filiação partidária são dominantes**, mais de 60% não têm filiação; a taxa de reeleição é surpreendentemente alta, a vantagem do titular é várias vezes a de outros cargos públicos. A história deste cargo remonta ao sistema baojia da era japonesa, herdado diretamente com mudança de nome após a guerra, eleito pelo povo desde 1950 — antes dos prefeitos de condado/cidade. O chefe de vila/bairro não parece "política", mas é a evidência de que a autogestão de Taiwan cresceu de baixo para cima.
-
----
-
-## O escritório de bairro às 5h30
-
-Às 5h30 da manhã, a porta de ferro de um escritório de bairro numa viela do distrito de Wanhua, em Taipé, é erguida lentamente. A luz do escritório acende primeiro, antes mesmo das lojas de café da manhã. Um chefe de bairro no terceiro mandato está a conferir a lista de marmitas a entregar hoje — doze idosos a viver sozinhos, quem precisa de comida mole, quem trocou de dentadura recentemente, quem esteve internado ontem e teve alta hoje, ele sabe tudo de cor, mais detalhado que o sistema de dados dos moradores.
-
-Às 7h, ele completa uma volta de moto. No caminho de volta ao escritório atende três chamadas: um morador reporta que o candeeiro da viela pisca; uma mãe pergunta sobre a inscrição para as atividades do bairro no próximo semestre; uma senhora diz que o cão do vizinho ladrou a noite toda, espera que o chefe de bairro "vá falar" — não chamar a polícia, é ir falar.
-
-Às 9h, liga o computador, entra no sistema de chefes de vila/bairro do Ministério do Interior, carrega a ata da assembleia de moradores da noite anterior. Às 10h, o escritório distrital liga, pergunta se pode ajudar numa sessão de divulgação de assuntos de registrais na próxima semana. Às 11h, recebe no escritório um veterano de honra que acabou de sair do hospital, ajuda a preencher um formulário de pedido de subsídio — o formulário está no escritório distrital, mas este veterano não sabe andar de metro.
-
-À tarde, faz a ronda pelas vielas do bairro. Ao fim do dia, de volta ao escritório, organiza os documentos de coordenação dos locais de votação — a votação nove-em-um de 28 de novembro de 2026 aproxima-se, ele tem de confirmar o local de votação do seu bairro. Às 19h, assembleia de moradores. Às 21h, após o encerramento, compra uma bola de arroz numa loja de conveniência para o jantar.
-
-Este chefe de bairro, **existem 7.748 em todo Taiwan**.
+> **Resumo em 30 segundos:** Existem 7.748 chefes de vila (cun) e bairro (li) em todo o país — mais do que as mais de 6.600 lojas da 7-Eleven. O mandato é de 4 anos, com um subsídio de despesas mensais de NT$ 54.000; isso não é um salário, mas uma ajuda de custo para o "agente de relações locais". Este é o único cargo nas eleições de Taiwan onde os **candidatos sem partido são dominantes**, representando mais de 60%; a taxa de reeleição é surpreendentemente alta, com a vantagem de quem já ocupa o cargo ser várias vezes superior à de outros cargos públicos. A história deste cargo remonta ao sistema Baojia (保甲) da era do domínio japonês, herdando o nome após a guerra e sendo eleito diretamente desde 1950 — antes mesmo da eleição direta de prefeitos e governadores. O chefe de vila não parece muito "político", mas é a prova de que a autonomia em Taiwan cresceu de baixo para cima.
 
 ---
 
-## 7.748 chefes eleitos
+## O escritório às cinco e meia da manhã
 
-7.748 — este número supera a rede líder de lojas de conveniência. No final de 2024, Taiwan tinha cerca de 6.800 lojas 7-Eleven, mais de 1.100 PX Mart[^1]. A densidade de chefes de vila/bairro é maior que a das lojas de conveniência onde se vai todos os dias comprar café e bolas de arroz.
+Às cinco e meia da manhã, a porta de enrolar de um beco no distrito de Wanhua, em Taipé, é levantada lentamente. As luzes do escritório do bairro acendem antes mesmo das lojas de café da manhã. Um chefe de bairro que está em seu terceiro mandato está conferindo as marmitas que serão entregues hoje — na lista há doze idosos que moram sozinhos; quem prefere comida macia, quem trocou os dentes recentemente, quem saiu do hospital ontem e voltou hoje; ele memoriza tudo, com mais detalhes do que o sistema de dados dos residentes.
 
-Composição concreta (conforme anúncio eleitoral da Comissão Eleitoral Central 2026 e estatísticas do Departamento de Assuntos Civis do Ministério do Interior)[^2]:
+Às sete, ele termina uma ronda de moto. No caminho de volta ao escritório, atende três chamadas: um morador reclama que a luz do poste na entrada do beco está piscando; uma mãe quer saber sobre as inscrições para as atividades comunitárias do próximo semestre; uma senhora diz que o cachorro da casa em frente latiu a noite toda e espera que o chefe de bairro "vá dar um jeito" — não para chamar a polícia, mas apenas para conversar.
 
-- **Chefes de bairro de municípios especiais** cerca de 4.800 — a base mais elementar nas seis metrópoles
-- **Chefes de vila de condados** (vilas, cidades) cerca de 1.800 — principalmente em Hualien, Taitung, Yunlin, Chiayi, Tainan, Miaoli, Nantou, Pingtung
-- **Chefes de bairro de cidades provinciais** cerca de 1.100 — por exemplo bairros dentro de Keelung, Hsinchu, Chiayi
-- **Total 7.748** (o definitivo conforme anúncio eleitoral 2026 da Comissão Eleitoral Central)
+Às nove, ele liga o computador, acessa o sistema de chefes de vila e bairro do Ministério do Interior e faz o upload da ata da reunião comunitária da noite anterior. Às dez, a administração do distrito liga perguntando se ele pode ajudar em uma campanha de conscientização sobre o registro civil na próxima semana. Às onze, ele se senta no escritório para atender um veterano que acabou de sair do hospital, ajudando-o a preencher um formulário de solicitação de benefícios — o formulário fica na administração do distrito, mas este veterano não sabe usar o metrô.
 
-Estes 7.748 cargos são eleitos simultaneamente, concentrados num só dia: 28 de novembro de 2026 — no mesmo boletim de voto que prefeito de município especial, prefeito de condado/cidade, vereador, prefeito de vila/cidade, chefe de distrito indígena, representante de distrito indígena, representante de vila/cidade, formando o nono quadrado do termo "nove-em-um"[^3].
+À tarde, faz uma inspeção pelas ruas. Ao entardecer, volta ao escritório para organizar os documentos de coordenação dos locais de votação — as eleições "nove em um" de 28 de novembro de 2026 estão se aproximando, e ele precisa verificar o local de votação do seu bairro. Às sete da noite, ocorre a reunião comunitária. Após o encerramento às nove, ele compra um onigiri em uma loja de conveniência para o jantar.
 
-Entre os nove cargos, os outros oito têm marcas partidárias, debates de políticas, grandes comícios. **A única exceção** é o chefe de vila/bairro — a maioria dos candidatos não apresenta filiação partidária, não faz comícios, não imprime folhetos elaborados. O que fazem é tocar campainha porta a porta, apresentar-se "sou o fulano da casa ao lado", e enfiar o cartão na caixa de correio.
+Existem **7.748** desses chefes de vila e bairro em todo Taiwan.
 
 ---
 
-## Base legal: escondida nos últimos três artigos da Lei do Sistema Local
+## 7.748 líderes eleitos
 
-A posição legal do chefe de vila/bairro está escrita nos artigos 59 a 61 da Lei do Sistema Local — a lei inteira tem 88 artigos, o chefe de vila/bairro fica no final[^4].
+7.748 — este número é maior do que o número de lojas da principal rede de conveniência. No final de 2024, a 7-Eleven tinha cerca de 6.800 lojas em Taiwan, e a PX Mart tinha mais de 1.100[^1]. A densidade de chefes de vila e bairro é maior do que a das lojas onde as pessoas compram café e onigiris todos os dias.
 
-O artigo 59 estabelece que cada vila/bairro tem um chefe, eleito pelos moradores conforme a lei, mandato de quatro anos, pode ser reeleito. A frase-chave é "**pode ser reeleito**" — sem limite de mandatos. Um chefe de vila/bairro pode teoricamente fazer cinco, oito, doze mandatos — desde que vença a cada quatro anos, continua. Na prática, chefes com três ou mais reeleições são muitos, com cinco ou mais não são raros[^5].
+Composição detalhada (baseada no anúncio das eleições de 2026 da Comissão Eleitoral Central e estatísticas do Departamento de Assuntos Civis do Ministério do Interior)[^2]:
 
-O artigo 60 estabelece que o chefe de vila/bairro recebe ordens e supervisão do prefeito de vila/cidade/distrito, trata dos assuntos da vila/bairro e dos assuntos delegados. "**Assuntos delegados**" estas quatro palavras são o verdadeiro conteúdo do trabalho diário — a lei não enumera, mas na prática abrange tudo.
+- **Chefes de bairro (li) em municípios especiais** (as seis grandes metrópoles): cerca de 4.800 — a base mais profunda nessas áreas.
+- **Chefes de vila (cun) em áreas não metropolitanas** (municípios rurais/vilas): cerca de 1.800 — concentrados principalmente em províncias como Hualien, Taitung, Yunlin, Chiayi, Nantou, Pingtung, etc.
+- **Chefes de bairro (li) em cidades de condados**: cerca de 1.100 — por exemplo, os bairros dentro das cidades de Keelung, Hsinchu e Chiayi.
+- **Total de 7.748** (sujeito ao anúncio oficial da Comissão Eleitoral Central para 2026).
 
-O artigo 61 estabelece que o chefe de vila/bairro é cargo não remunerado, mas **o escritório de vila/cidade/distrito inscreve no orçamento o subsídio para assuntos do chefe**, pago mensalmente. Desde 2007 este subsídio foi unificado para 45.000 novos dólares taiwaneses[^6]. "Cargo não remunerado" três palavras são importantes — significa que o chefe de vila/bairro **não é funcionário público**, não tem seguro laboral/saúde, não tem pensão, não tem sistema de avaliação de funcionários. O chefe recebe "subsídio para assuntos", não salário.
+Esses 7.748 cargos serão renovados simultaneamente em 28 de novembro de 2026 — votando no mesmo dia e na mesma cédula que prefeitos de municípios especiais, governadores de condados, vereadores, prefeitos de vilas/municípios, chefes de distrito indígena, representantes de distrito indígena e representantes de cidadãos de vilas/municípios. É este o "nono quadrado" do termo "eleições nove em um"[^3].
 
-O desenho legal de "cargo não remunerado" mais 45 mil de subsídio mensal esconde uma postura subtil — o chefe de vila/bairro é definido como "**pessoa local com vontade de servir**", não empregado do Estado. Esta definição afeta toda a economia política do cargo.
-
----
-
-## Competências legais vs. trabalho real
-
-A lei escreve três competências legais[^4]:
-
-1. **Convocar assembleia de moradores** — pelo menos uma vez por ano, discutir assuntos públicos da vila/bairro
-2. **Executar assuntos delegados pelo escritório de vila/cidade/distrito** — fazer chegar as políticas do nível superior às famílias
-3. **Refletir a vontade popular** — encaminhar as necessidades dos moradores para cima
-
-Mas qualquer chefe de vila/bairro no cargo dirá que estas três são apenas a ponta do iceberg. A lista real de trabalho é muito mais longa[^7][^8]:
-
-**Mediação de conflitos vizinhos** — infiltração do andar de cima, disputas de lugar de estacionamento, ruído de animais, controvérsias de separação de lixo. O chefe não é polícia, nem juiz, nem árbitro, mas é muitas vezes o último amortecedor antes do conflito ir para a queixa policial. Um chefe experiente consegue resolver 70% dos conflitos vizinhos na sala de chá do escritório.
-
-**Acompanhamento de idosos a viver sozinhos** — entregar marmitas, acompanhar consultas, lembrar de pagar água/luz, alertar quando a casa não tem movimento há dias. O índice de envelhecimento de Taiwan já ultrapassou 100[^9], o chefe de vila/bairro é a pessoa fora da secretaria de assuntos sociais que mais cedo detecta anomalias nos idosos.
-
-**Coordenação de locais de votação** — a cada eleição a Comissão Eleitoral Central tem de instalar mais de 17.000 locais de votação[^10], cada local precisa de espaço, fluxo, acessibilidade, tudo com ajuda do chefe. Os locais costumam ser escolas primárias, centros de atividades, templos — a coordenação destes espaços está praticamente toda nas mãos do chefe.
-
-**Comunicação de catástrofes** — tufões, sismos, inundações, incêndios. O chefe é a terminação nervosa mais periférica do sistema local de proteção civil; quando falta luz e água, o primeiro telefone dos moradores muitas vezes não é 1999 nem 119, é o chefe.
-
-**Construção comunitária** — churrasco do festival do meio outono, ovos em pé no festival do barco dragão, viagens para idosos, aulas para mães, aulas de talentos para crianças. Estas atividades não são obrigatórias, mas quem as faz tem boa reputação, é reeleito cinco vezes.
-
-**Apoio a assuntos registrais** — ajudar idosos que não sabem usar computador a preencher formulários, explicar processo de mudança de residência, transmitir novas políticas do escritório distrital.
-
-Esta lista não tem teto. Um chefe no terceiro mandato consegue dizer o nome de 70-80% das famílias do bairro — não é capacidade profissional, é capital de relações vizinhas acumulado em doze anos.
+Dos nove cargos, os outros oito terão símbolos partidários, debates de políticas e grandes comícios. A **única exceção** é o chefe de vila ou bairro — a maioria dos candidatos não tem partido, não faz comícios e não imprime folhetos luxuosos. O que eles fazem é bater de porta em porta, apresentar-se como "sou fulano, seu vizinho" e colocar um cartão de visitas na caixa de correio.
 
 ---
 
-## Do baojia à vila/bairro: oitenta anos de sucessão institucional
+## Base Legal: As três últimas cláusulas da 《Lei do Sistema de Governo Local》
 
-A unidade de governança local "vila/bairro" não foi inventada pela República da China. O seu antecessor é o **sistema baojia** da era japonesa[^11][^12].
+O status jurídico deste cargo está escrito nos artigos 59 a 61 da 《Lei do Sistema de Governo Local》 — de um total de 88 artigos, os chefes de vila e bairro estão no final da lei[^4].
 
-Em 1898, o Governo-Geral de Taiwan japonês promulgou o "Regulamento Baojia", reorganizando a organização baojia existente desde o final da era Qing como terminação da governança colonial. Dez famílias um jia, dez jia um bao, cada bao com um chefe de bao, cada jia com um chefe de jia — recomendados pelos moradores locais (embora a lista precisasse de aprovação do Governo-Geral), mandato de dois anos. As funções do baojia eram vastas: registo populacional, higiene e prevenção epidémica, cobrança de impostos, manutenção da ordem, mobilização de trabalho forçado.
+O Artigo 59 estabelece que cada vila ou bairro terá um "chefe de vila (cunzhang) ou chefe de bairro (lizhang)", eleito pelos residentes conforme a lei, com mandato de quatro anos, permitindo reeleição consecutiva. A palavra-chave aqui é "**reeleição consecutiva**" — não há limite de mandatos. Teoricamente, um chefe pode servir por cinco, oito ou doze mandatos — desde que vença a cada quatro anos. Na prática, muitos servem mais de três mandatos, e não é raro encontrar pessoas com mais de cinco[^5].
 
-O sistema baojia operou em Taiwan por 47 anos, até ser abolido em 1945 pós-guerra. Mas a unidade de base "baojia" não desapareceu realmente — foi renomeada.
+O Artigo 60 estabelece que o chefe de bairro/vila está sob a direção e supervisão do prefeito (de município, cidade ou distrito) para realizar assuntos oficiais da vila/bairro e tarefas delegadas. As palavras "**tarefas delegadas**" são o verdadeiro conteúdo do trabalho diário — a lei não as lista, mas na prática elas abrangem de tudo.
 
-Em 1946, a Secretaria do Governador Provincial de Taiwan aboliu o baojia, criou "vilas" (zonas rurais) e "bairros" (zonas urbanas)[^13]. "Chefe de bao" renomeado "chefe de vila/bairro", mas limites, número de famílias, estrutura organizacional herdados em grande parte. Muitos chefes de bao da era japonesa transitaram diretamente para primeiros chefes de vila/bairro pós-guerra na primeira reorganização de 1946.
+O Artigo 61 estabelece que o cargo é não remunerado (sem salário fixo), mas **os escritórios municipais/distritais alocam um subsídio de despesas para o chefe de vila/bairro**, pago mensalmente. O valor está no Artigo 7 do 《Regulamento sobre o Pagamento de Despesas de Representantes Populares Locais e Subsídios de Despesas de Chefes de Vila e Bairro》: NT$ 50.000 por mês para cada vila/bairro, com um acréscimo de 20% para áreas indígenas. O mesmo artigo vincula esse valor aos ajustes de benefícios para funcionários públicos e militares; os valores ajustados e as datas de vigência são anunciados pelo Ministério do Interior[^6]. Esse valor permaneceu em NT$ 45.000 por muito tempo, sendo ajustado para NT$ 50.000 em uma reforma de 2022, com vigência a partir da posse dos novos chefes em 25 de dezembro daquele ano[^27]. O Ministério do Interior anunciou um novo aumento para julho de 2026: NT$ 54.000 para vilas/bairros comuns e NT$ 64.800 para áreas indígenas, retroativo a 1º de julho de 2026; em 1º de janeiro de 2027, com o aumento salarial geral dos funcionários públicos, os valores subirão para NT$ 56.160 e NT$ 67.392, respectivamente[^28]. As palavras "**não remunerado**" são cruciais — isso significa que o chefe de bairro/vila **não é um funcionário público**, não possui benefícios de seguro saúde ou previdência, nem passa por avaliações de desempenho de servidores públicos. O que eles recebem é um "subsídio de despesas", não um salário.
 
-A partir de 1950, a província de Taiwan implementou autogoverno local, chefes de vila/bairro passaram a ser **eleitos diretamente pelos moradores**[^13]. Este momento é anterior à eleição direta de prefeitos de condado/cidade — a eleição direta de prefeitos só aconteceu em 1950 na primeira eleição de prefeitos da província de Taiwan[^14], chefe de vila/bairro e prefeito partiram juntos, mas **o chefe de vila/bairro nunca teve a eleição direta interrompida**, enquanto a de prefeito sofreu ajustes por legislação central nos anos 1960-1990.
-
-Em 1999 a Lei do Sistema Local foi promulgada, o sistema de chefes de vila/bairro integrado nesta lei, tornando-se oficialmente cargo de autogoverno de base unificado nacionalmente[^4].
-
-De 1898 criação do baojia, a 1946 renomeação, a 1950 eleição direta, a 1999 integração legal — esta **sucessão institucional de 128 anos** é a evidência da continuidade da governança de base em Taiwan. O esqueleto administrativo deixado pelo sistema colonial japonês foi preenchido com conteúdo de eleição direta pela democratização pós-guerra, funcionando até hoje.
+O design jurídico de ser "não remunerado" com um subsídio de mais de 50 mil é uma postura sutil — o chefe é posicionado como um "**residente local servindo à comunidade por vocação**", e não como um empregado do Estado. Esse posicionamento influencia toda a economia política do cargo.
 
 ---
 
-## Por que este cargo é dominantemente sem filiação partidária
+## Atribuições Legais vs. Trabalho Real
 
-Entre os nove cargos, o chefe de vila/bairro é o **único** onde sem filiação partidária são maioria[^15].
+A lei lista três atribuições legais[^4]:
 
-Este fenómeno não é acidental, é determinado pela escala.
+1. **Convocar assembleias de residentes** — pelo menos uma vez por ano, para discutir assuntos públicos da vila/bairro.
+2. **Executar tarefas delegadas pela administração municipal/distrital** — levar as políticas do governo superior até as residências.
+3. **Refletir a opinião pública** — reportar as necessidades dos residentes aos níveis superiores.
 
-**Escala demasiado pequena**: um bairro tem em média 2.000 a 5.000 pessoas, uma vila rural pode ter apenas 200-500[^16]. Nesta escala, se o candidato ganha ou não não depende de posição partidária, mas de **ele conhecer os moradores, os moradores conhecerem ele**. Um candidato que sabe o nome das famílias vale mais que qualquer nomeação partidária.
+Mas qualquer chefe em exercício dirá que isso é apenas a ponta do iceberg. A lista de trabalho real é muito mais longa[^7][^8]:
 
-**Facções locais muito mais fortes que filiação**: clãs locais (especialmente centro-sul e ilhas), associações de conterrâneos, comissões de templos, associações de agricultores, associações de pescadores, sindicatos industriais — a influência destas organizações no nível vila/bairro supera em muito a dos partidos[^17]. Um candidato pode pertencer a uma comissão de templo e a uma associação de agricultores, mas na eleição não usa esses logos, usa o seu próprio nome.
+**Mediação de conflitos de vizinhança** — vazamentos entre andares, disputas de estacionamento, barulho de animais de estimação, controvérsias sobre coleta de lixo. O chefe não é policial, juiz ou árbitro, mas frequentemente é o último amortecedor antes que o conflito chegue à polícia. Um chefe experiente consegue resolver 70% dos conflitos no "cantinho do chá" de seu escritório.
 
-**Vantagem do titular extremamente forte**: a taxa de reeleição de chefes de vila/bairro mantém-se longamente acima de 70-80%[^15]. Um chefe no terceiro mandato já serviu doze anos, conhece o número de cada candeeiro de cada viela, a situação familiar de cada família, cada funcionário de cada janela do escritório — este capital acumulado é muito difícil de um novo candidato alcançar em quatro meses de campanha.
+**Cuidado com idosos que moram sozinhos** — entregar marmitas, acompanhar em consultas médicas, lembrar de pagar contas de água/luz, ou reportar quando uma casa fica sem atividade por vários dias. O índice de envelhecimento de Taiwan ultrapassou 100[^9], e o chefe é a primeira pessoa, além do Departamento de Bem-Estar Social, a notar anomalias em idosos.
 
-**Filialção pode ser passivo**: pôr marca partidária na propaganda de chefe de vila/bairro pode irritar a outra metade dos moradores. O chefe tem de servir "todos os moradores" — independentemente de posição — por isso o custo de filiação supera o benefício. Muitos chefes, mesmo inclinados a certo partido privadamente, registram-se publicamente como sem filiação.
+**Coordenação de locais de votação** — em cada eleição, a Comissão Eleitoral estabelece mais de 17.000 locais de votação em Taiwan[^10]. Cada local precisa de ajuda com o espaço, fluxo e acessibilidade. Os locais costumam ser escolas primárias, centros comunitários ou templos — o poder de coordenação desses espaços está quase todo nas mãos do chefe.
 
-Estes quatro fatores sobrepostos criaram a ecologia única da eleição de chefe de vila/bairro: **filiação partidária não é variável central, relações pessoais e registo de serviço é que são**.
+**Notificação de desastres** — tufões, terremotos, inundações, incêndios. O chefe é o nervo periférico do sistema de defesa civil local; quando falta luz ou água, a primeira ligação que os moradores fazem muitas vezes não é para o 1999 ou 119, mas para o chefe.
 
----
+**Construção comunitária** — churrascos de Meio de Outono, atividades de feriados, turismo para idosos, aulas para mães ou oficinas para crianças. Essas atividades não são obrigatórias, mas chefes que as realizam ganham boa reputação e são reeleitos por muitos mandatos.
 
-## Economia política: 45 mil não é salário
+**Apoio ao registro civil** — ajudar idosos que não sabem usar computadores a preencher formulários, explicar processos de mudança de residência ou transmitir novas políticas do distrito.
 
-Subsídio mensal 45 mil, este número é frequentemente mal entendido como "salário mensal do chefe 45 mil" — não é[^6].
-
-**O significado de "subsídio para assuntos"**: este dinheiro não é salário pessoal do chefe, é o custo operacional que o governo paga — inclui água/luz/internet do escritório, material de escritório/fotocópias, gasolina para deslocações, chá e snacks para receber moradores, custos de impressão de boletins ou folhetos de atividades. **O chefe deve suportar pessoalmente todas as despesas relacionadas com o cargo**, descontadas do subsídio.
-
-Na prática, um chefe que serve a sério vê 45 mil frequentemente insuficientes. Muitos completam do próprio bolso — imprimir os seus próprios pares de versos de ano novo para dar aos moradores, dar envelopes vermelhos a idosos no ano novo, subsidiar aluguer de equipamento para atividades.
-
-**Há ainda subsídio de atividades**: além do subsídio mensal, cada governo de condado/cidade inscreve subsídio de atividades de vila/bairro, subsídio de assuntos, subsídio de convívio de ano novo, etc., valores flutuam conforme finanças locais[^18]. Estes subsídios são de uso específico, exigem comprovativos.
-
-**Não pode receber salário formal como vereadores**: vereadores como titulares de cargo público recebem mensalmente verba de investigação, verba de presença, check-up de saúde, etc., somando cerca de dezenas de milhares[^19], e têm seguro laboral/saúde e subsídios de visitas de estudo do conselho. O chefe não tem nada disto — não é titular de cargo público.
-
-**Pluriactividade comum**: devido ao desenho "cargo não remunerado + 45 mil subsídio", muitos chefes precisam de pluriactividade para sobreviver — conduzir táxi, pequeno negócio, agente de seguros, reformado a receber pensão + subsídio. Poucos vivem só do trabalho de chefe, especialmente em vilas pequenas do centro-sul.
-
-Esta estrutura económica determina que tipo de pessoa se candidata — geralmente **já com base económica, quer servir a terra, tem tempo, rede de contactos ampla**, meia-idade a reformados. Jovens têm dificuldade estrutural — não é que não possam ser eleitos, é que economicamente não aguentam.
+Essa lista não tem fim. Um chefe em seu terceiro mandato consegue saber o nome de 70% a 80% dos moradores — isso não é habilidade de vendas, é capital de relacionamento acumulado por doze anos.
 
 ---
 
-## Tensões estruturais
+## Do Baojia às Vilas e Bairros: Oitenta Anos de Herança Institucional
 
-O sistema de chefes de vila/bairro roda há oitenta anos, acumulou algumas tensões não totalmente resolvidas.
+A unidade de governança local chamada vila ou bairro não foi inventada pela República da China (Taiwan). Seu predecessor foi o **sistema Baojia** (保甲) durante o período do domínio japonês[^11][^12].
 
-**Diferença enorme entre urbano e rural**: um bairro do distrito de Xinyi em Taipé pode ter mais de 10.000 pessoas, mas uma vila montanhosa de Hualien pode ter apenas 200. Mesmo subsídio de 45 mil, mesma estrutura salarial, carga de trabalho difere em mais de vinte vezes[^20]. Chefe urbano serve densidade populacional alta, assuntos administrativos complexos; chefe rural serve pouca população mas área geográfica pode abranger várias vilas naturais, uma volta demora duas-três horas.
+Em 1898, o Governo-Geral de Taiwan promulgou o "Regulamento Baojia", reorganizando a estrutura existente do final da dinastia Qing para servir como a ponta final da governança colonial. Dez famílias formavam um _jia_, dez _jia_ formavam um _bao_. Cada _bao_ tinha um chefe (_baozheng_) e cada _jia_ tinha um líder (_jiazhang_) — eleitos pelos próprios residentes (embora a lista precisasse de aprovação do Governo-Geral), com mandatos de dois anos. As funções eram amplas: registro de residência, higiene/epidemia, cobrança de impostos, manutenção da ordem e mobilização de trabalho.
 
-Esta diferença já motivou propostas de reforma — por exemplo ajustar subsídio por escalões populacionais — mas cada revisão legal esbarra em "7.748 vilas/bairros nacionais envolvidos demasiado amplamente" e dificilmente avança.
+O sistema Baojia operou em Taiwan por 47 anos, sendo abolido após a guerra em 1945. Mas a unidade básica "Baojia" não desapareceu — ela apenas mudou de nome.
 
-**Proporção de mulheres baixa**: chefes de vila/bairro tradicionalmente dominados por homens. A taxa de participação política de base das mulheres em Taiwan subiu gradualmente em representantes, vereadores, prefeitos, mas no nível chefe de vila/bairro a subida é mais lenta[^21]. Causas complexas: os espaços da política vizinha tradicional (templos, associações agrícolas/pescas, clãs) têm barreiras mais altas para mulheres; horário de trabalho longo e irregular do chefe é barreira estrutural para mulheres com maior responsabilidade de cuidado familiar; redes de recursos de campanha tradicionalmente dominadas por homens.
+Em 1946, o Governo Provincial de Taiwan aboliu o Baojia e estabeleceu as "Vilas" (_cun_, para áreas rurais) e os "Bairros" (_li_, para áreas urbanas)[^13]. O cargo de _baozheng_ tornou-se chefe de vila ou bairro, mas as fronteiras, o número de domicílios e a estrutura organizacional foram amplamente herdados. Muitos líderes Baojia da era japonesa transicionaram diretamente para os primeiros chefes de vila/bairro no pós-guerra durante a reforma de 1946.
 
-Nos últimos anos áreas urbanas veem mais mulheres chefes — especialmente em bairros jovens de Taipé, Novo Taipé, Taichung — mas a média nacional continua baixa.
+A partir de 1950, com a implementação da autonomia local em Taiwan, os chefes passaram a ser **eleitos diretamente pelos residentes**[^13]. Este marco ocorreu antes mesmo da eleição direta de prefeitos e governadores — que só foi implementada na primeira eleição de governadores e prefeitos em 1950[^14]. Embora tenham começado juntos, a eleição de chefes de vila/bairro **nunca sofreu interrupção**, enquanto as eleições para prefeitos e governadores passaram por vários ajustes legislativos entre as décadas de 1960 e 1990.
 
-**Fenómeno "vilas de testa de ferro"**: poucas vilas/bairros são criticadas como extensão de redes políticas e não autogoverno real[^22]. "Vila de testa de ferro" refere-se a vila onde a eleição quase não tem competição, titular reeleito vinte-trinta anos, taxa de presença na assembleia extremamente baixa, escritório na prática controlado por rede específica. Proporção não alta, mas na academia e organizações cívicas a discutir qualidade de autogoverno de base é repetidamente mencionado.
+Com a aprovação da 《Lei do Sistema de Governo Local》 em 1999, o sistema foi integrado à lei, tornando-se oficialmente o cargo de autonomia local padronizado em todo o país[^4].
 
-Reformas correspondentes discutidas incluem: obrigar declaração pública de bens dos chefes (atualmente só parte dos 7.748 cargos exige), introduzir mecanismo de avaliação de serviço, reforçar estatuto legal da assembleia de moradores para dar real poder de participação. Estas discussões até hoje não formaram versão unificada de revisão legal nacional.
+Desde a criação do Baojia em 1898, passando pela mudança de nome em 1946, a eleição direta em 1950 e a integração legal em 1999 — esses **128 anos de continuidade institucional** são a prova da persistência da governança de base em Taiwan. A estrutura administrativa deixada pelo sistema colonial japonês foi preenchida com o conteúdo democrático do pós-guerra, operando até hoje.
 
 ---
 
-## Comparação internacional: o chefe de vila/bairro é muito Taiwan
+## Por que este cargo é dominado por candidatos sem partido
 
-Muitos países têm "unidade mais básica de governança local", mas lógicas de operação várias.
+Entre os nove cargos eleitos, o chefe de vila/bairro é o **único** onde os independentes (sem partido) são maioria[^15].
 
-**Japão: presidente de associação de autogoverno (団地組織)** — as associações de bairro, autogoverno, distritos japoneses são organizações sem fins lucrativos baseadas em laços geográficos, **não nível formal de governança governamental**[^23]. Presidente eleito pelos moradores, sem força legal vinculativa, adesão à associação é voluntária. Japão não tem cargo correspondente ao chefe de vila/bairro taiwanês de "titular de cargo público eleito" — o cargo público eleito mais básico é vereador municipal.
+Este fenômeno não é acidental; é uma questão de escala.
 
-**Coreia do Sul: sistema tongbanjang** — sob o "dong" coreano há "tong" (통) e "ban" (반), tongjang e banjang eleitos pelos moradores ou nomeados pelo governo do dong[^24]. Este sistema é mais achatado que o chefe de vila/bairro taiwanês, mas poderes e recursos de tongjang/banjang são muito menores.
+**A escala é muito pequena**: um bairro tem entre 2.000 e 5.000 pessoas, e uma vila rural pode ter apenas 200 a 500[^16]. Nesse nível, o sucesso de um candidato não depende de ideologia partidária, mas de **se ele conhece os moradores e se eles o conhecem**. Um candidato que sabe o nome dos vizinhos é mais útil do que qualquer indicação partidária.
 
-**França: prefeito maire** — o prefeito francês (maire) tem poder administrativo real, pode emitir ordens administrativas, emitir certidões de nascimento/casamento, executar orçamento municipal[^25]. O maire francês corresponde mais ao nível prefeito de vila/cidade de Taiwan, não a chefe de vila/bairro.
+**As facções locais são muito mais fortes que os partidos**: clãs locais (especialmente no sul e em ilhas), associações de conterrâneos, comitês de templos, associações agrícolas ou pesqueiras e sindicatos industriais têm uma influência muito maior no nível da vila do que os partidos políticos[^17]. Um candidato pode pertencer a um comitê de templo e a uma associação agrícola, mas ele não usa esses logotipos na campanha; ele usa o próprio nome.
 
-**EUA: captain de precinct** — em alguns estados o precinct tem captain, mas é cargo de organização interna partidária, não cargo público governamental[^26].
+**A vantagem do incumbente é fortíssima**: a taxa de reeleição de chefes de vila/bairro mantém-se consistentemente acima de 70% ou 80%[^15]. Um chefe em seu terceiro mandato já serviu por doze anos; ele conhece o número de cada poste de luz, a situação familiar de cada casa e os funcionários de cada repartição pública — este capital acumulado é quase impossível de ser alcançado por um novo candidato em apenas quatro meses de campanha.
 
-Em contraste, **o chefe de vila/bairro taiwanês é um híbrido raro**: estatuto legal de cargo público eleito, competências concretas, subsídio orçamental, 7.748 cargos generalizados nacionalmente; mas definido como "cargo não remunerado", não conta como funcionário público, fortemente localizado, cor partidária ténue. Este híbrido pode ser resultado especial de Taiwan herdado do sistema baojia japonês, mais oitenta anos de evolução autogovernativa.
+**O partido pode ser um ônus**: imprimir o símbolo de um partido no material de campanha pode alienar a metade da população que não concorda com aquela ideologia. O chefe deve servir a "todos os moradores" — independentemente do partido — portanto, o custo de ter um partido é maior que o benefício. Muitos chefes, mesmo tendo inclinação privada por um partido, registram-se publicamente como independentes.
+
+A soma desses quatro fatores cria um ecossistema único: **o partido não é a variável central; as relações pessoais e o histórico de serviço são**.
+
+---
+
+## Economia Política: NT$ 54.000 não é salário
+
+O subsídio mensal de NT$ 54.000 é frequentemente mal interpretado como "o salário do chefe é NT$ 54.000" — mas não é[^6].
+
+**O significado de "subsídio de despesas"**: este dinheiro não é para o uso pessoal do chefe, mas sim para cobrir custos operacionais pagos pelo governo — incluindo eletricidade e internet do escritório, papelaria, combustível para serviços oficiais, chá e lanches para os moradores, e impressão de boletins ou folhetos de atividades. **O chefe deve arcar com todos os gastos pessoais relacionados ao cargo** usando esse subsídio.
+
+Na prática, para um chefe que trabalha seriamente, NT$ 54.000 muitas vezes não é suficiente. Muitos chefes usam o próprio dinheiro para cobrir a diferença — imprimindo seus próprios calendários ou decorações de Ano Novo para os moradores, ou subsidiando o aluguel de equipamentos para eventos comunitários.
+
+**Existem subsídios extras para atividades**: além do subsídio mensal, as prefeituras e governos provinciais alocam verbas específicas para atividades comunitárias, operações de bairro e celebrações de Ano Novo, com valores que variam conforme a situação fiscal de cada localidade[^18]. Esses fundos são carimbados e exigem prestação de contas.
+
+**Não é possível receber o salário formal de um vereador**: um vereador, como funcionário público eleito, recebe verbas de pesquisa, diárias e outros benefícios que somam mais de NT$ 100.000 mensais[^19], além de seguro saúde e auxílios de viagem. O chefe de vila/bairro não tem isso — ele não é um funcionário público.
+
+**O trabalho de meio período é comum**: devido ao design de "cargo não remunerado + subsídio de despesas", muitos chefes precisam de outros empregos para sobreviver — dirigindo táxi, pequenos negócios, corretores de seguros ou, após a aposentadoria, combinando sua pensão com o subsídio do cargo. Poucas pessoas vivem exclusivamente do cargo, especialmente em vilas pequenas no sul e centro de Taiwan.
+
+Essa estrutura econômica determina quem se candidata: geralmente são pessoas de **meia-idade ou aposentados que já possuem estabilidade financeira, desejam servir à comunidade, têm tempo disponível e uma rede de contatos ampla**. Para os jovens, há uma dificuldade estrutural — não é que não possam ser eleitos, mas é economicamente difícil sustentar o cargo.
+
+---
+
+## Tensões Estruturais
+
+O sistema de chefes de vila/bairro opera há oitenta anos, acumulando algumas tensões não resolvidas.
+
+**A enorme disparidade entre urbano e rural**: um bairro em Xinyi, Taipé, pode ter mais de 10.000 pessoas, enquanto uma vila montanhosa em Hualien pode ter apenas 200. O subsídio é o mesmo e a estrutura salarial é a mesma, mas a carga de trabalho pode ser vinte vezes maior[^20]. No urbano, a densidade populacional é alta e os assuntos administrativos são complexos; no rural, a população é pouca, mas a área geográfica pode abranger várias aldeias naturais, exigindo horas de deslocamento.
+
+Houve propostas de reforma para ajustar o subsídio com base na população, mas cada tentativa legislativa esbarra na dificuldade de que "mexer nos 7.748 cargos afeta muita gente".
+
+**Baixa proporção de mulheres**: tradicionalmente, o cargo é dominado por homens. Embora a participação política feminina tenha crescido em níveis de vereadores e governadores, no nível de chefes de vila/bairro o crescimento é mais lento[^21]. As razões são complexas: os espaços da política de vizinhança (templos, associações, clãs) têm barreiras de entrada maiores para mulheres; as longas e irregulares horas de trabalho dificultam a conciliação com responsabilidades familiares; e as redes de recursos de campanha são tradicionalmente masculinas.
+
+Recentemente, tem surgido cada vez mais mulheres em áreas urbanas — especialmente em bairros jovens de Taipé, Novo Taipé e Taichung — mas a média nacional ainda é baixa.
+
+**O fenômeno dos "bairros de fachada"**: alguns poucos bairros são criticados por serem extensões de redes políticas em vez de autêntica autonomia[^22]. Os chamados "bairros de fachada" referem-se a locais onde quase não há competição eleitoral, o incumbente está no poder há décadas, a participação nas assembleias é mínima e o escritório é controlado por um grupo específico de contatos. Embora não seja a maioria, esse fenômeno é frequentemente discutido por acadêmicos e grupos civis sobre a qualidade da autonomia local.
+
+As discussões de reforma incluem: declaração obrigatória de bens para os chefes (atualmente apenas uma parte dos 7.748 cargos precisa declarar), introdução de mecanismos de avaliação de desempenho e o fortalecimento do status legal das assembleias comunitárias para garantir participação real. Até agora, essas discussões não resultaram em uma reforma nacional unificada.
+
+---
+
+## Comparação Internacional: O chefe de bairro é muito "Taiwan"
+
+Muitos países têm unidades de governança local na base, mas a lógica de funcionamento varia.
+
+**Japão: Presidente da Associação de Autonomia (Chonaikai)** — as associações de bairro no Japão são organizações sem fins lucrativos baseadas em laços locais, **não são um nível formal de governo**[^23]. O presidente é eleito pelos residentes, mas não tem poder coercitivo legal e a adesão à associação é voluntária. O Japão não possui o equivalente ao "cargo público eleito local" que temos em Taiwan; os cargos eleitos mais básicos são os vereadores municipais/distritais.
+
+**Coreia do Sul: Sistema Tong-Ban** — abaixo do _dong_ (bairro), existem o _tong_ e o _ban_. Os líderes são escolhidos pelos residentes ou nomeados pelo governo do bairro[^24]. Este sistema é mais plano que o de Taiwan, mas os poderes e recursos dos líderes sul-coreanos são muito menores que os dos chefes taiwaneses.
+
+**França: Maire (Prefeito)** — o _maire_ na França tem poder administrativo real, pode emitir ordens administrativas, assinar certidões de nascimento/casamento e executar orçamentos municipais[^25]. O _maire_ francês aproxima-se mais do nível de um prefeito de município em Taiwan do que de um chefe de bairro.
+
+**EUA: Precinct Captain** — em alguns estados americanos, existe a figura do capitão de distrito, mas este é um cargo dentro da organização partidária, não um cargo público governamental[^26].
+
+Em contraste, **o chefe de vila/bairro em Taiwan é um híbrido raro**: tem status legal de cargo eleito, possui atribuições específicas, recebe subsídios orçamentários e está presente em todos os 7.748 pontos do país; mas ao mesmo tempo é "não remunerado", não é funcionário público, é fortemente localizado e tem pouca cor partidária. Esse híbrido é o resultado especial da herança do sistema Baojia japonês combinada com oitenta anos de evolução democrática.
 
 ---
 
 ## Pontos de observação para 2026
 
-Antes do dia de votação de 28 de novembro de 2026, a eleição de chefes de vila/bairro tem alguns indicadores a observar:
+Antes do dia da votação em 28 de novembro de 2026, há alguns indicadores importantes:
 
-**Se a proporção de sem filiação se mantém**: nas últimas eleições de chefe de vila/bairro, proporção de sem filiação sempre acima de 60%. 2026 se mantém, é teste do fenómeno "facções maiores que partidos" na política de base taiwanesa.
+**A proporção de independentes se manterá?**: Nas últimas eleições, os independentes superaram 60%. Se isso se mantiver em 2026, será um teste para o fenômeno de que "as facções locais são maiores que os partidos" na política de base de Taiwan.
 
-**Fenómeno "chefes jovens" em áreas urbanas**: nos últimos anos áreas urbanas veem casos de 30-40 anos a desafiar chefes velhos de 70+ anos no cargo. Estes chefes jovens costumam usar redes sociais, fazer construção comunitária, organizar atividades parentais — modelo de serviço diferente do tradicional. 2026 verá mais destes desafios, especialmente em áreas metropolitanas de Taipé, Novo Taipé, Taichung, Taoyuan.
+**O fenômeno dos "jovens chefes" em áreas urbanas**: Recentemente, vimos candidatos de 30-40 anos desafiando incumbentes de mais de 70 anos. Esses jovens costem usar redes sociais, fazer revitalização comunitária e organizar atividades para famílias — um modelo diferente do tradicional. Veremos mais desses desafios em Taipé, Novo Taipé, Taichung e Taoyuan.
 
-**Variação na proporção de mulheres chefes**: se consegue romper teto histórico.
+**Mudança na proporção de mulheres**: Se conseguirão romper o teto histórico de participação feminina.
 
-**Alternância geracional de facções locais**: muitos chefes atuais já são segunda/terceira geração de sucessão familiar (pai-filho, pai-filha, casal em revezamento). 2026 grande número de titulares entra nos 70+, velocidade e direção da alternância geracional merece atenção.
+**Renovação geracional das facções locais**: Muitos chefes atuais são da segunda ou terceira geração (sucessão pai-filho, pai-filha ou cônjuges). Com muitos incumbentes ultrapassando os 70 anos em 2026, a velocidade e direção dessa sucessão serão cruciais.
 
-**Vagas de chefe em áreas de êxodo populacional**: Hualien, Taitung, Yunlin, Chiayi, Miaoli, Nantou e outras áreas com êxodo populacional grave, certas vilas podem ter situação de ninguém se candidatar. Comissão Eleitoral Central em eleições passadas já estatistificou este fenómeno — 2026 será mais grave?
+**Vagas em áreas de declínio populacional**: Em zonas rurais com forte emigração (Hualien, Taitung, Yunlin, etc.), pode haver bairros sem candidatos. A Comissão Eleitoral tem monitorado esse fenômeno — será pior em 2026?
 
-Estes não são observações noticiosas, são observações estruturais. A eleição de chefe de vila/bairro raramente faz manchetes, mas a sua tendência de longo prazo fala do pulsar da governança de base de Taiwan.
-
----
-
-## Conclusão: a política que menos parece política
-
-O chefe de vila/bairro é o cargo político que **menos parece "política" nas eleições de Taiwan**.
-
-Sem debates partidários, sem livros brancos de políticas, sem anúncios de TV, sem transmissão integral de sessões de apresentação de plataformas. Um boletim com 7.748 cargos — a maioria vota e esquece em quem votou, mas todos os dias cruza-se com o seu chefe na viela.
-
-Mas este cargo é também **a prova mais completa da democratização de Taiwan**. Do sistema baojia colonial, à renomeação pós-guerra, à eleição direta de 1950, à integração legal de 1999 — em cada nó histórico existe representante eleito na base mais elementar. Oitenta anos sem interrupção de eleições de chefe de vila/bairro, é o facto de a autogestão de Taiwan ter crescido de baixo para cima.
-
-O nono quadrado da eleição nove-em-um, tão banal que quase invisível. Mas 7.748 chefes eleitos no mesmo dia, esta escala noutros sistemas democráticos asiáticos não encontra correspondente — **esta é a densidade da autogestão de base de Taiwan**.
-
-Na manhã de 28 de novembro de 2026, quando entrar no local de votação, receberá nove boletins de cores diferentes. O último costuma ser o de chefe de vila/bairro — o nome nesse boletim, é a pessoa que nos últimos três mandatos esteve às 5h30 a ajudar a deitar lixo, entregar marmita à avó ao lado, atender telefone a meia-noite para resolver o cão do vizinho a ladrar.
-
-Isso não é política. É a infraestrutura democrática mais de base de Taiwan, a rodar todos os dias, há oitenta anos sem parar.
+Essas não são observações jornalísticas passageiras, mas estruturais. As eleições de chefes de bairro raramente viram manchetes, mas suas tendências de longo prazo revelam o pulsar da governança local de Taiwan.
 
 ---
 
-**Leitura complementar**: [Hub Política](/politics) · [eleições nove-em-um de 2026 (2026 九合一選舉)] · [o que são as eleições nove-em-um (九合一選舉是什麼)] · [sistema de vereadores (議員制度)] · [chefe de distrito indígena de município especial (直轄市山地原住民區長)] · [Hub Sociedade](/society)
+## Conclusão: A política que menos parece política
+
+O chefe de vila ou bairro é o **cargo político que menos parece "política" em Taiwan**.
+
+Não há debates partidários, livros brancos de políticas, comerciais na TV ou transmissões ao vivo de debates. É apenas um dos 7.748 nomes em uma cédula — a maioria das pessoas vota e esquece quem escolheu, mas todos os dias você passará por ele no seu beco.
+
+Contudo, este cargo é também a **prova mais completa da democratização de Taiwan**. Desde o sistema colonial Baojia, passando pela mudança de nome no pós-guerra, a eleição direta em 1950 e a integração legal em 1999 — cada nó histórico tem um representante eleito na base. As eleições ininterruptas por oitenta anos são o fato de que a autonomia de Taiwan cresceu de baixo para cima.
+
+O nono quadrado das eleições "nove em um" é tão comum que quase se torna invisível. Mas a renovação simultânea de 7.748 líderes eleitos é uma escala que não encontra paralelo em outros sistemas democráticos da Ásia — **esta é a densidade da autonomia local de Taiwan**.
+
+Na manhã de 28 de novembro de 2026, ao entrar no local de votação, você receberá nove cédulas de cores diferentes. A última costuma ser a do chefe de bairro — o nome naquela cédula pertence à pessoa que, nas últimas três eleições, ajudou a recolher seu lixo às cinco da manhã, entregou uma marmita para sua vizinha idosa ou atendeu o telefone no meio da noite para resolver o barulho do cachorro da casa em frente.
+
+Isso não é política. É a infraestrutura democrática de Taiwan: a mais profunda, que opera todos os dias e que não parou há oitenta anos.
+
+---
+
+**Leitura Adicional**: [Hub Político](/politics) · [Eleições Nove em Um 2026](/pt/politics/2026-local-elections-taiwan/) · [O que são as eleições nove em um](/pt/politics/nine-in-one-elections-explained/) · [Sistema de Vereadores](/pt/politics/city-councilor-system-taiwan/) · [Chefes de distrito indígena em municípios especiais](/pt/politics/indigenous-district-chief-system/) · [Society Hub](/society)
 
 🧬
 
-_v1.0 | 2026-05-27 | Nascido da directiva de Zheyu: série eleições 2026 Tier 1.3 — deixar um registo de história institucional para o nono quadrado da eleição nove-em-um._
+_v1.0 | 2026-05-27 | Nascido da diretiva de Zheyu: Série Eleições 2026 Tier 1.3 — Uma história institucional para o nono quadrado das eleições nove em um._
 
 ## Referências
 
-[^1]: [Relatório Anual 2024 da Associação de Cadeias e Franquias](https://www.cca.org.tw/) — Estatísticas totais de lojas de conveniência e supermercados em Taiwan
+[^1]: [Relatório Anual da Associação de Franquias e Cadeias 2024](https://www.cca.org.tw/) — Estatísticas de lojas de conveniência e supermercados em Taiwan
 
-[^2]: [Comissão Eleitoral Central — Estatísticas históricas de eleições de cargos públicos locais](https://web.cec.gov.tw/) — Comissão Eleitoral Central — Estatísticas históricas de eleições de cargos públicos locais Fonte oficial
+[^2]: [Comissão Eleitoral Central — Estatísticas das Eleições de Funcionários Públicos Locais de Várias Décadas](https://web.cec.gov.tw/) — Fonte oficial da Comissão Eleitoral Central
 
-[^3]: [Eleições de cargos públicos locais de 2026 da República da China — Wikipédia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Eleições de cargos públicos locais de 2026 da República da China — Wikipédia Fonte oficial
+[^3]: [Eleições de Funcionários Públicos Locais da República da China (Taiwan) de 2026 — Wikipédia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Fonte oficial da Wikipédia para as eleições de 2026
 
-[^4]: [Artigos 59-61 da Lei do Sistema Local — Base de Dados Nacional de Leis](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artigos 59-61 da Lei do Sistema Local — Base de Dados Nacional de Leis Fonte oficial
+[^4]: [Artigos 59-61 da 《Lei do Sistema de Governo Local》 — Base de Dados Legislativa Nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Fonte oficial da base de dados legislativa
 
-[^5]: [Departamento de Assuntos Civis do Ministério do Interior — Dados básicos de chefes de vila/bairro](https://www.moi.gov.tw/cl.aspx?n=4360) — Departamento de Assuntos Civis do Ministério do Interior — Dados básicos de chefes de vila/bairro Fonte oficial
+[^5]: [Departamento de Assuntos Civis do Ministério do Interior — Dados Básicos dos Chefes de Vila e Bairro](https://www.moi.gov.tw/cl.aspx?n=4360) — Fonte oficial do Ministério do Interior
 
-[^6]: [Subsídio para assuntos de chefes de vila/bairro — Ordem interpretativa do Ministério do Interior](https://www.moi.gov.tw/) — Desde 2007, 45.000 novos dólares taiwaneses mensais
+[^6]: [Regulamento sobre o Pagamento de Despesas de Representantes Populares Locais e Subsídios de Despesas de Chefes de Vila e Bairro](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Base de Dados Legislativa Nacional. Artigo 7, Parágrafo 1: O subsídio é alocado pelos escritórios municipais/distritais; NT$ 50.000 por mês para cada vila/bairro, com acréscimo de 20% para áreas indígenas; ajustes anuais proporcionais conforme anunciado pelo Ministério do Interior.
 
-[^7]: [Um dia de chefe de bairro — The Reporter](https://www.twreporter.org/) — Série especial sobre trabalho diário de chefes de vila/bairro
+[^7]: [Um dia na vida de um chefe de bairro — The Reporter](https://www.twreporter.org/) — Série especial sobre o trabalho diário dos chefes de bairro
 
-[^8]: [Competências e prática de chefes de vila/bairro — Departamento de Assuntos Civis do Ministério do Interior](https://www.moi.gov.tw/) — Explicação de competências legais e assuntos delegados
+[^8]: [Atribuições e Prática dos Chefes de Bairro — Departamento de Assuntos Civis do Ministério do Interior](https://www.moi.gov.tw/) — Explicação de atribuições legais e tarefas delegadas
 
-[^9]: [Departamento de Estatística do Ministério do Interior — Índice de envelhecimento populacional](https://www.moi.gov.tw/stat/) — Proporção de população acima de 65 anos e rácio de dependência em Taiwan
+[^9]: [Departamento de Estatística do Ministério do Interior — Índice de Envelhecimento Populacional](https://www.moi.gov.tw/stat/) — Proporção da população com mais de 65 anos em Taiwan e razão de dependência
 
-[^10]: [Comissão Eleitoral Central — Instalação de locais de votação](https://web.cec.gov.tw/) — Total nacional de locais de votação e princípios de instalação
+[^10]: [Comissão Eleitoral Central — Estabelecimento de Locais de Votação](https://web.cec.gov.tw/) — Total de locais de votação e princípios de estabelecimento em Taiwan
 
-[^11]: [Sistema baojia (Taiwan) — Wikipédia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Evolução institucional 1898-1945 da era japonesa
+[^11]: [Sistema Baojia (Taiwan) — Wikipédia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Evolução do sistema durante o período japonês 1898-1945
 
-[^12]: [Sistema baojia de Taiwan na era japonesa — Arquivo Nacional de História de Taiwan](https://www.th.gov.tw/) — Sistema baojia de Taiwan na era japonesa — Arquivo Nacional de História de Taiwan Fonte oficial
+[^12]: [O Sistema Baojia em Taiwan durante o Período Japonês — Arquivo de Documentos de Taiwan do Palácio de História Nacional](https://www.th.gov.tw/) — Fonte oficial do Palácio de História Nacional
 
-[^13]: [Autogoverno local da província de Taiwan — Arquivo Nacional da Comissão de Desenvolvimento Nacional](https://www.archives.gov.tw/) — Registos históricos da reorganização de vilas/bairros de 1946 e eleição direta de 1950
+[^13]: [Autonomia Local da Província de Taiwan — Administração de Arquivos do Conselho de Desenvolvimento Nacional](https://www.archives.gov.tw/) — Materiais históricos sobre a reforma de 1946 e eleição direta de 1950
 
-[^14]: [Primeira eleição de prefeitos de condado/cidade da província de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Evolução da eleição direta de prefeitos de 1950
+[^14]: [Primeira Eleição de Governadores e Prefeitos da Província de Taiwan — Wikipédia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Evolução da eleição direta em 1950
 
-[^15]: [Facções locais e política de base — Investigação de política local de Wang Yeli](https://www.airitilibrary.com/) — Análise académica de filiação partidária e taxa de reeleição de chefes de vila/bairro
+[^15]: [Facções Locais e Política de Base — Estudos Políticos Locais de Wang Ye-li](https://www.airitilibrary.com/) — Análise acadêmica sobre partidos e reeleição de chefes de bairro
 
-[^16]: [Ministério do Interior — Estatísticas de escalões populacionais de vilas/bairros](https://www.moi.gov.tw/) — Diferenças de escala populacional entre bairros urbanos e vilas rurais
+[^16]: [Ministério do Interior — Estatísticas de Escala Populacional de Vilas e Bairros](https://www.moi.gov.tw/) — Diferenças entre bairros urbanos e vilas rurais
 
-[^17]: [Autogoverno local de Taiwan — Liu Chieh-lun](https://www.taaze.tw/) — Facções locais, clãs, comissões de templos e eleições de base
+[^17]: [Autonomia Local em Taiwan — Liu Chieh-lun](https://www.taaze.tw/) — Facções locais, clãs, comitês de templos e eleições de base
 
-[^18]: [Regulamentos de subsídio de assuntos de vilas/bairros dos governos de condado/cidade](https://law.moj.gov.tw/) — Normas de inscrição de subsídios de atividades de vilas/bairros por condado/cidade
+[^18]: [Regulamento para Subsídios de Atividades de Vilas e Bairros dos Governos Municipais/Provinciais](https://law.moj.gov.tw/) — Normas de alocação de subsídios para atividades locais
 
-[^19]: [Lei de pagamento de despesas de representantes locais e subsídio para assuntos de chefes de vila/bairro](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040039) — Padrões de pagamento de verba de investigação de vereadores, etc.
+[^19]: [Regulamento sobre o Pagamento de Despesas de Representantes Populares Locais e Subsídios de Despesas de Chefes de Vila e Bairro](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Padrões de pagamento para vereadores (Anexo do Artigo 5)
 
-[^20]: [Diferença de carga de trabalho de vilas/bairros entre áreas metropolitanas e rurais — Relatório de investigação do Yuan de Controlo](https://www.cy.gov.tw/) — Diferença de carga de trabalho de vilas/bairros entre áreas metropolitanas e rurais — Relatório de investigação do Yuan de Controlo Fonte oficial
+[^20]: [Diferença no Volume de Trabalho entre Áreas Urbanas e Rurais — Relatório de Investigação do Controle Yuan](https://www.cy.gov.tw/) — Fonte oficial do Controle Yuan sobre a disparidade de carga de trabalho
 
-[^21]: [Variação da proporção de mulheres chefes de vila/bairro — Comité de Igualdade de Género do Yuan Executivo](https://gec.ey.gov.tw/) — Variação da proporção de mulheres chefes de vila/bairro — Comité de Igualdade de Género do Yuan Executivo Fonte oficial
+[^21]: [Mudança na Proporção de Mulheres Chefes de Bairro — Conselho de Igualdade de Gênero do Executivo](https://gec.ey.gov.tw/) — Fonte oficial do Conselho de Igualdade de Gênero
 
-[^22]: [Qualidade de autogoverno de base e participação de moradores — The News Lens](https://theinitium.com/) — Qualidade de autogoverno de base e participação de moradores — The News Lens Fonte oficial
+[^22]: [Qualidade da Autonomia Local e Participação dos Residentes — The Initium](https://theinitium.com/) — Fonte oficial sobre a qualidade da autonomia local
 
-[^23]: [Associações de bairro do Japão — Ministério dos Assuntos Internos e Comunicações](https://www.soumu.go.jp/) — Associações de bairro do Japão — Ministério dos Assuntos Internos e Comunicações Fonte oficial
+[^23]: [Chonaikai no Japão — Ministério dos Assuntos Internos](https://www.soumu.go.jp/) — Fonte oficial do governo japonês sobre associações de bairro
 
-[^24]: [Sistema tongbanjang coreano — Ministério do Interior e Segurança](https://www.mois.go.kr/) — Sistema tongbanjang coreano — Ministério do Interior e Segurança Fonte oficial
+[^24]: [Sistema Tong-Ban na Coreia — Ministério da Administração e Segurança](https://www.mois.go.kr/) — Fonte oficial do governo sul-coreano
 
-[^25]: [O prefeito em França — Service-Public](https://www.service-public.fr/) — O prefeito em França — Service-Public Fonte oficial
+[^25]: [Le maire en France — Service-Public](https://www.service-public.fr/) — Fonte oficial do serviço público francês sobre o papel do prefeito
 
-[^26]: [Captain de precinct — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Captain de precinct — Ballotpedia Fonte oficial
+[^26]: [Precinct captain — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Fonte sobre a figura de capitão de distrito nos EUA
+
+[^27]: [Regulamento sobre o Pagamento de Despesas de Representantes Populares Locais e Subsídios de Despesas de Chefes de Vila e Bairro — Histórico](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020039) — Histórico de reformas na Base de Dados Legislativa Nacional. Inclui a mudança de NT$ 45k para NT$ 50k em dez/2022 e a mais recente reforma de jun/2024 com vigência em jan/2025.
+
+[^28]: [Ajuste de subsídios para chefes de bairro conforme aumento salarial dos funcionários públicos! — Ministério do Interior](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Comunicado de imprensa do Ministério do Interior (16/07/2026): Detalhes sobre o aumento para NT$ 54.000 em julho de 2026 e o ajuste subsequente em janeiro de 2027, incluindo áreas indígenas.
