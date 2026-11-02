@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-15T06:51:28+08:00'
+translatedAt: '2026-11-02T15:17:54.602740+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Hiệu sách độc lập tại Đài Loan không phải là một mô hình cố định mà là một phương thức kinh doanh gắn kết việc tuyển chọn sách, quy mô không gian và mối quan hệ công chúng. Nó có thể nằm dưới tầng hầm của khu đại học ở Đài Bắc, hoặc ẩn mình trên phố cổ Quan Sơn, bên đường Trường Bành hay trong ngõ nhỏ ở Bành Hồ. Hiệu sách bán sách, nhưng thường làm hơn là sắp đặt những cuộc gặp gỡ cho độc giả xa lạ, gìn giữ một ngôn ngữ có thể được tiếp tục kể của địa phương. Từ các con phố sách trên Trọng Tinh Nam Lộ, hiệu sách văn học tại Ôn La Đình, đến các không gian thu nhỏ ở thị trấn và đảo nhỏ, chúng đối mặt với những vấn đề khác nhau về giảm giá, logistics, tiền thuê nhà và dân số, nhưng tất cả đều trả lời cùng một câu hỏi: làm thế nào để một địa phương giúp sách và độc giả khó được nhìn thấy tìm thấy nhau. Giá trị này không thể thay thế vấn đề doanh thu, nhưng nó cho thấy tại sao sau thời đại giảm giá trực tuyến và đọc kỹ thuật số, vẫn có người sẵn sàng đặt cược tiền thuê cửa hàng, thời gian và cuộc đời mình lên những kệ sách.
@@ -124,9 +124,9 @@ Khi một cuốn sách được đặt lên kệ, chủ tiệm thực chất đ�
 
 ## Đọc thêm
 
-- [Lịch sử văn học Đài Loan](/vi/art/history-of-taiwanese-literature): Hiểu bối cảnh lâu dài về tính công cộng của việc đọc thông qua tác giả, tác phẩm và lĩnh vực văn học.
-- [Văn hóa in ấn thủ công Đài Loan](/culture/台灣活版印刷文化): Theo dõi cách sách, báo chí và ngôn ngữ công cộng được tạo ra cụ thể bằng kỹ thuật in ấn.
-- [Bản tin giáo xứ Đài Loan](/vi/culture/taiwan-church-news): Hiểu cách các tổ chức tôn giáo cùng với xuất bản ban đầu và ngôn ngữ hình thành cộng đồng độc giả.
+- [Lịch sử văn học Đài Loan](/vi/art/history-of-taiwanese-literature): Hiểu về bối cảnh lâu dài của tính công cộng trong việc đọc thông qua các tác giả, tác phẩm và không gian văn học.
+- [Văn hóa in ấn Đài Loan](/vi/culture/taiwan-letterpress-printing): Theo dấu cách mà kỹ thuật in ấn đã cụ thể hóa việc sản xuất sách, báo chí và ngôn ngữ công cộng.
+- [Công báo Giáo hội Đài Loan](/vi/culture/taiwan-church-news): Hiểu về cách các hoạt động xuất bản sơ khai, ngôn ngữ và tổ chức tôn giáo cùng nhau hình thành nên cộng đồng độc giả.
 
 ## Tài liệu tham khảo
 

@@ -23,10 +23,10 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ef8fab38e'
-sourceContentHash: 'sha256:d196b7664449f36f'
-sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:322922074ebc6f22'
+sourceBodyHash: 'sha256:532e9b8210a860d0'
+translatedAt: '2026-11-02T14:53:32.357242+00:00'
 ---
 
 # Nghệ thuật đa phương tiện mới của Đài Loan
@@ -131,34 +131,34 @@ Trương Từ Triển mang kỹ thuật giấy chôn vào mỹ thuật đương 
 
 ## Thách thức
 
-Những thành tựu của Nghệ thuật đa phương tiện mới Đài Loan không nên che dấu những khó khăn cấu trúc mà nó đang phải đối mặt.
+Những thành tựu của nghệ thuật truyền thông mới (new media art) tại Đài Loan không nên che lấp đi những khó khăn mang tính cấu trúc mà lĩnh vực này đang đối mặt.
 
-Vấn đề của thị trường sưu tập là cơ bản nhất: những cài đặt tương tác khó có thể trưng bày trong không gian tư nhân, những tác phẩm VR cần những thiết bị đặc biệt để có thể trải nghiệm, những tác phẩm kỹ thuật số phải đối mặt với rủi ro công nghệ lỗi thời khi lưu trữ. Đa số những nghệ sĩ đa phương tiện mới Đài Loan vẫn phụ thuộc cao độ vào trợ cấp từ bộ công vụ và yêu cầu từ bảo tàng mỹ thuật, hệ sinh thái này khi chính sách ổn định thì có thể vận hành, khi chính sách quay hướng thì rất mỏng manh.
+Vấn đề cốt lõi nằm ở thị trường sưu tập: các tác phẩm sắp đặt tương tác rất khó trưng bày trong không gian riêng tư, các tác phẩm VR đòi hỏi thiết bị chuyên dụng để trải nghiệm, và việc bảo tồn các tác phẩm kỹ thuật số luôn đối mặt với rủi ro lỗi thời về công nghệ. Đa số các nghệ sĩ truyền thông mới tại Đài Loan vẫn phụ thuộc cao độ vào các khoản trợ cấp từ khu vực công và các đơn hàng ủy thác từ bảo tàng; hệ sinh thái này có thể vận hành ổn định khi chính sách nhất quán, nhưng sẽ trở nên cực kỳ mong manh khi có sự chuyển dịch về mặt chính sách.
 
-Năm 2023, tác giả Vũ Đạm Như dùng Midjourney để sinh ra hình ảnh đã gây ra những tranh cãi về bản quyền tác giả, bộc lộ sự mơ hồ của xã hội Đài Loan đối với định nghĩa của sáng tạo AI. Hướng dẫn quy phạm hiện tại của Cục Sở hữu trí tuệ Đài Loan công nhận "về nguyên tắc những thành quả trí tuệ được sinh ra bởi máy móc không hưởng bản quyền tác giả", nhưng trong thực tế hợp tác nhân-máy ngày càng phức tạp, ranh giới này đang nhanh chóng tan chảy. Những nghệ sĩ như Hứa Gia Duy, Cố Quảng Dũng đều có kinh nghiệm lâu dài ở nước ngoài, làm sao để giữ cho nhân tài ở lại khi họ chuyển động quốc tế và vẫn duy trì kết nối với hệ sinh thái Đài Loan, luôn là một câu hỏi chưa có lời giải.
+Năm 2023, tranh chấp bản quyền phát sinh từ việc nhà văn Ngô Đạm Như (Wu Tan-ju) sử dụng Midjourney để tạo hình ảnh đã phơi bày sự mơ hồ của xã hội Đài Loan trong việc định nghĩa sáng tạo bằng AI. Các nguyên tắc hướng dẫn hiện hành của Cục Sở hữu trí tuệ Đài Loan xác định rằng "về nguyên tắc, các thành quả trí tuệ do máy móc tạo ra không được hưởng bản quyền", nhưng trong thực tế khi sự hợp tác giữa người và máy ngày càng trở nên phức tạp, ranh giới này đang nhanh chóng bị xóa nhòa. Các nghệ sĩ như Hứa Gia Duy (Hsu Chia-wei), Cố Quảng Nghị (Ku Guang-yi) đều có kinh nghiệm cư trú lâu năm tại nước ngoài; làm thế nào để những tài năng này vẫn duy trì được sự kết nối với hệ sinh thái Đài Loan trong quá trình luân chuyển quốc tế luôn là một bài toán chưa có lời giải.
 
-Đối diện với ngành công nghiệp mỹ thuật số của Trung Quốc đại lục mở rộng nhanh chóng dưới sự đẩy đẩy của tư bản, cơ sở hạ tầng Metaverse được chính phủ Hàn Quốc đầu tư hùng hậu, chiến lược của Đài Loan rất rõ ràng: không so quy mô, so sâu độ. Vấn đề không phải từ lúc nào là Đài Loan có làm được hay không, mà là liệu hệ sinh thái này có thể luôn hỗ trợ những nghệ sĩ thực hiện những thí nghiệm khó khăn hơn hay không.
+Đối mặt với ngành công nghiệp nghệ thuật kỹ thuật số đang mở rộng nhanh chóng nhờ nguồn vốn thúc đẩy tại Trung Quốc đại lục, hay cơ sở hạ tầng Metaverse được chính phủ Hàn Quốc đầu tư mạnh tay, chiến lược của Đài Loan rất rõ ràng: không so về quy mô, mà so về chiều sâu. Vấn đề chưa bao giờ là việc Đài Loan có làm được hay không, mà là liệu hệ sinh thái này có thể tiếp tục hỗ trợ các nghệ sĩ thực hiện những thử nghiệm khó khăn hơn hay không.
 
-Khi danh sách hội đồng giám khảo năm 2025 của Lễ hội Nghệ thuật Điện tử Linz xuất hiện tên của Dương Vũ Hiền, không ai đặc biệt ngạc nhiên, những nghệ sĩ Đài Loan hàng năm đều ở đó. Cái "điều hiển nhiên" này là kết quả tích lũy bốn mươi năm: từ máy quay video được mượn của Viên Quảng Minh, đến những ngón tay bay lượn trong không gian trống rỗng của Hoàng Tâm Kiện, đến những nhịp thở của 697 cánh hoa cơ khí của Hảo Hoa Lang Máy Công. Đài Loan không bao giờ là nơi có nhiều tài nguyên nhất, nhưng trong lĩnh vực này của Nghệ thuật đa phương tiện mới, nó làm được một điều hiếm: cho máy móc có linh hồn.
+Khi cái tên Dương Vũ Hiền (Yang Yu-hsien) xuất hiện trong danh sách giám khảo của Liên hoan Nghệ thuật Điện tử Linz năm 2025, không ai cảm thấy quá ngạc nhiên, bởi các nghệ sĩ Đài Loan vẫn luôn hiện diện ở đó hàng năm. Sự "hiển nhiên" này là kết quả của quá trình tích lũy suốt bốn thập kỷ: từ chiếc máy quay video mà Viên Quảng Minh (Yuan Kuang-ming) đã mượn, đến những ngón tay bay lượn trong hư không của Hoàng Tâm Kiện (Huang Hsin-chien), cho đến nhịp thở của 697 cánh hoa cơ khí của Huang Xin-jian. Đài Loan chưa bao giờ là nơi có nguồn lực dồi dào nhất, nhưng trong lĩnh vực nghệ thuật truyền thông mới, họ đã làm được một điều hiếm thấy: thổi hồn vào máy móc.
 
 ---
 
 **Đọc thêm**:
 
-- [Phát triển Văn học Đương đại Đài Loan](/art/Phát-triển-Văn-học-Đương-đại-Đài-Loan) — Hệ sinh thái sáng tạo đương đại Đài Loan ra đời cùng thời kỳ Nghệ thuật đa phương tiện, hiểu bối cảnh toàn diện của các vòng tròn văn hóa
-- [Sân khấu và Nghệ thuật Biểu diễn Đài Loan](/vi/art/taiwanese-theater-and-performing-arts) — Lịch sử giáo dục Phương Đông của những người sáng tạo xuyên lĩnh vực như Hoàng Dịch, giao điểm của cơ thể và công nghệ
-- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một con đường khác của mỹ thuật hình ảnh Đài Loan, chia sẻ sân khấu liên hoan phim với Nghệ thuật đa phương tiện
-- [Cộng đồng mã nguồn mở và g0v](/vi/technology/open-source-and-g0v) — Một khía cạnh khác của văn hóa công nghệ Đài Loan, giao điểm của tinh thần mã nguồn mở và các vòng tròn mỹ thuật
-- [Lịch sử Công nghiệp Truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Sự thay đổi của phương tiện truyền thông từ phát thanh truyền hình đến OTT, bối cảnh định chế của công nghệ hình ảnh
-- [justfont và Phát triển Kiểu chữ Đài Loan](/vi/technology/justfont-and-taiwan-typography) — Một nhóm người sáng tạo khác đứng ở giao điểm thiết kế, công nghệ và nhận dạng văn hóa: những người nuôi dạy lại từng nét chữ Đài Loan
-- [Tạ Đức Kính](/vi/art/tehching-hsieh-performance-artist) — Phương tiện cơ thể trước kỹ thuật đa phương tiện, tiên phong nghệ thuật hành động Đài Loan và đại sư quốc tế của năm hành động trong một năm
-- [Vương Tân Nhân (A Luàn)](/vi/art/wang-hsin-jen-artist) — Người đầu tiên đăng lên Art Blocks là một nghệ sĩ sinh thành Đài Loan, nhân vật chính của akaSwap và kế hoạch báo tập FAB DAO
-- [Vương Liên Thịnh (Tôm Ba)](/vi/art/wang-lien-cheng-artist) — Người chiến thắng Giải Lumen 2017 trong loại điêu khắc, thành viên i/O Lab và chủ tịch Lễ hội Tiếng Im lặng, đại diện Nghệ thuật Cài đặt Âm thanh Đài Loan
-- [Ngô Triết Vũ](/vi/people/che-yu-wu) — Nghệ sĩ đa phương tiện mới gọi mình là "thợ đồng hồ thời cổ đại", Biennale Venice Cấu trúc Cá nhân × Art Basel Miami × người sáng lập dự án mã nguồn mở Taiwan.md
-- [Báo cáo Viên: Cứu Báo cáo Điều tra Khỏi các mục Kinh doanh Thành Tài sản Công cộng Một thập niên](/vi/society/the-reporter-investigative-journalism) — Cùng được điều khiển bởi cộng đồng công dân, phát triển xuyên ranh, một trường hợp Taiwan-DNA khác, thể hiện một con đường khác của xây dựng tài sản công cộng bởi xã hội công dân sau năm 2015
-- [justfont và Phát triển Kiểu chữ Đài Loan: Từ 25 năm Hòa Khang đến 76 phút của Kim Xuân Bảy Chục Phút Lịch sử Kiểu chữ Nhỏ](/vi/technology/justfont-and-taiwan-typography) — Kiểu chữ như cơ sở hạ tầng văn hóa, cùng Nghệ thuật đa phương tiện mới chú ý đến tính chủ thể hình ảnh của Đài Loan một khía cạnh khác
-- [Cáp biển: Nhìn thấy tại Đỉnh Khiên Quân Tư, Không thấy được Tại Dưới Mạch sống](/vi/technology/submarine-cables-taiwan-lifeline) — 99% của triển lãm và hợp tác chiến lược Nghệ thuật đa phương tiện mới xuyên quốc gia chạy trên cáp biển, bài viết này bộc lộ cơ sở hạ tầng văn hóa kỹ thuật số không nhìn thấy được này
-- [Niệp Vĩnh Chân](/vi/people/nieh-yung-jen) — Thành viên AGI Liên minh Thiết kế Đồ họa Quốc tế đầu tiên của Đài Loan, vị trí chiến lược của Xưởng Thực hành Vĩnh chân Khẩn cấp và Văn hóa Hình ảnh Đương đại Đài Loan
+- [Sự phát triển văn học đương đại Đài Loan](/vi/art/contemporary-taiwanese-literature) — Hệ sinh thái sáng tạo đương đại Đài Loan trỗi dậy cùng thời điểm với nghệ thuật truyền thông mới, giúp hiểu rõ bối cảnh tổng thể của vòng tròn văn hóa.
+- [Nhà hát và Nghệ thuật biểu diễn Đài Loan](/vi/art/taiwanese-theater-and-performing-arts) — Bối cảnh nghệ thuật biểu diễn của các nhà sáng tạo đa ngành như Hoàng Dực (Huang Yi), điểm giao thoa giữa cơ thể và công nghệ.
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một mạch nguồn khác của nghệ thuật hình ảnh Đài Loan, cùng chia sẻ sân khấu liên hoan phim với nghệ thuật truyền thông mới.
+- [Cộng đồng mã nguồn mở và g0v](/vi/technology/open-source-and-g0v) — Một khía cạnh khác của văn hóa công nghệ Đài Loan, sự giao thoa giữa tinh thần mã nguồn mở và giới nghệ thuật.
+- [Lịch sử ngành truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Sự tiến hóa của truyền thông từ phát thanh - truyền hình đến OTT, bối cảnh thể chế của công nghệ hình ảnh.
+- [justfont và sự phát triển phông chữ tại Đài Loan](/vi/technology/justfont-and-taiwan-typography) — Một nhóm nhà sáng tạo khác đứng tại ranh giới giữa thiết kế, công nghệ và bản sắc văn hóa: những người đã tỉ mỉ nuôi dưỡng từng nét chữ của Đài Loan.
+- [Tạ Đức Khánh (Tehching Hsieh)](/vi/art/tehching-hsieh-performance-artist) — Phương tiện cơ thể trước kỷ nguyên truyền thông mới, bậc thầy nghệ thuật trình diễn quốc tế với các dự án "One Year Performance" và là người tiên phong của nghệ thuật hành vi tại Đài Loan.
+- [Vương Tân Nhân (A-Luan)](/vi/art/wang-hsin-jen-artist) — Nghệ sĩ nghệ thuật tạo sinh (generative art) đầu tiên của Đài Loan lên Art Blocks, nhân vật cốt lõi của dự án akaSwap và FAB DAO Bách Nhạc.
+- [Vương Liên Thịnh (Hạ Ba)](/vi/art/wang-lien-cheng-artist) — Người giành giải nhất hạng mục điêu khắc tại Lumen Prize 2017, thành viên i/O Lab và người tổ chức Lễ hội Mất tiếng (Silent Festival), đại diện cho nghệ thuật sắp đặt âm thanh Đài Loan.
+- [Ngô Triết Vũ (Wu Che-yu)](/vi/people/che-yu-wu) — Nghệ sĩ truyền thông mới tự nhận là "thợ đồng hồ cổ", người khởi xướng dự án mã nguồn mở Taiwan.md tại Venice Biennale Personal Structures × Art Basel Miami.
+- [Báo cáo giả: Mười năm cứu vãn báo chí điều tra từ hạng mục kinh doanh thành tài sản công](/vi/society/the-reporter-investigative-journalism) — Một trường hợp "DNA Đài Loan" khác được thúc đẩy bởi cộng đồng công dân và phát triển đa ngành, cho thấy một con đường khác để xây dựng tài sản công của xã hội dân sự sau năm 2015.
+- [justfont và sự phát triển phông chữ tại Đài Loan: Lược sử phông chữ từ 25 năm của Huashan đến 76 phút của Jinxuan](/vi/technology/justfont-and-taiwan-typography) — Phông chữ như một hạ tầng văn hóa, một chiều kích khác cũng quan tâm đến tính chủ thể thị giác của Đài Loan tương tự như nghệ thuật truyền thông mới.
+- [Cáp quang biển: Có thể thấy trên "Lá chắn Silicon", nhưng không thể thấy dưới mạch máu](/vi/technology/submarine-cables-taiwan-lifeline) — 99% các buổi trình diễn và hợp tác giám tuyển nghệ thuật truyền thông mới xuyên quốc gia đều đi qua cáp biển; bài viết này hé lộ hạ tầng văn hóa kỹ thuật số vô hình này.
+- [Niết Vĩnh Chân (Nie Yong-zhen)](/vi/people/nieh-yung-jen) — Thành viên đầu tiên của Đài Loan trong Liên minh Thiết kế Đồ họa Quốc tế AGI, studio Yongzhen Jizhi và vị thế giám tuyển trong văn hóa thị giác đương đại Đài Loan.
 
 ## Tài liệu tham khảo
 
