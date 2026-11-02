@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
 last_updated: 2026-11-02
-last_session: '2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調停刊 P0＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -177,7 +177,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### 選前十日民調停刊 EVOLVE — 11/17 晚撤〈沈伯洋〉〈蔣萬安〉〈陳致中〉十三語的民調區塊，11/28 16:00 後放回
+### 選前十日民調禁止期 EVOLVE — 11/18 00:00 至 11/28 16:00〈沈伯洋〉〈蔣萬安〉〈陳致中〉凍結不改
 
 - **Type**: `EVOLVE`
 - **Category**: People
@@ -185,14 +185,15 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Requested**: 2026-11-02 by twmd-desk（選罷法第 53 條第 3 項：投票日前十日起至投票截止前，不得以任何方式發布、報導、散布、評論或引述民調）
-- **Angle-expires**: 2026-11-17（必須在 11/18 00:00 前 push 並讀回線上；放回不早於 11/28 16:00）
+- **Angle-expires**: 2026-11-28（16:00 投票截止後本條歸檔）
 - **Notes**:
-  - 撤：`python3 scripts/tools/election-poll-blackout.py --check` → 列出的「⚠️ 無標記」譯本先手動把民調段拿掉或補上 `<!-- poll-blackout:start/end -->` → `--strip --apply` → 跑 `article-health --profile=ci-deploy`（2026-11-02 試撤過，三篇撤完都 hard=0）→ commit「選前十日民調停刊」→ push → 線上讀回三篇 zh 與 en 不含民調表
-  - 放回：11/28 16:00 投票截止後 `git revert <撤下那個 commit>`，不要手動重貼（證據鏈留在 git）；放回時順便接下一條的開票後補段
-  - 期間 babel 若重譯這三篇，譯本可能沒帶標記：撤之前一定要再跑一次 `--check`
-  - 停刊期間全站不新增任何 2026 候選人或選情的民調引述（含孢子、選舉專頁、新文章）；〈2026 九合一選舉〉裡的「整合民調產生共推人選」是提名程序，不是民調數字，不撤
-  - 2026-11-02 已先處理：〈陳致中〉那份台中市長民調報導缺計畫主持人與母體數，八項不齊，依〈沈伯洋〉〈蔣萬安〉同一把尺把支持度數字、tw-dot、tw-note 拿掉（zh＋十二語），只留記者會一句並包進標記
-- **Reference**: [scripts/tools/election-poll-blackout.py](../../scripts/tools/election-poll-blackout.py) / [reports/research/2026-11/沈伯洋.md](../../reports/research/2026-11/沈伯洋.md) §5.3
+  - 哲宇 2026-11-02 拍板：**不撤，明確標注時間**。兩篇民調表標題寫「截至 11 月 2 日」，說明寫三份都在 11/2 以前發布、11/18 起到投票截止不更新也不增補
+  - 依據：法條沒有明文要求撤下禁止期前已發布的內容；中選會 99.01.12 中選法字第0980007819號函釋（禁止期前立的民調看板）說個案審酌、作為與不作為都算，所以期間的重點是「不再發布」
+  - 凍結窗內不做的事：不改這三篇 zh（含錯字、補段，有急事先問哲宇）；不新增任何 2026 候選人或選情的民調引述（含孢子、選舉專頁、新文章）；不把這三篇重翻成新語言（`config/babel-hold.tsv` 已讓 babel-dispatch 在窗內自動跳過，所有機器 git pull 即生效）
+  - 11/17 前若 babel 把兩篇新版翻出來，譯本帶著民調表在禁止期前上線，可以；之後凍結
+  - 〈陳致中〉那份台中民調八項不齊，數字已在 2026-11-02 拿掉（zh＋十二語），不放回
+  - 工具：`python3 scripts/tools/election-poll-blackout.py --check` 看三篇與譯本的標記；`--strip` 保留給日後真的需要撤下時用
+- **Reference**: [scripts/tools/election-poll-blackout.py](../../scripts/tools/election-poll-blackout.py) / [config/babel-hold.tsv](../../config/babel-hold.tsv)
 
 ### 沈伯洋＋蔣萬安 EVOLVE — 11/28 開票後補結果，兩篇同一天同一把尺
 
@@ -207,7 +208,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 兩篇同一個 commit 補，不要一篇先上：結果以中選會 `db.cec.gov.tw` 一手為準
   - 〈沈伯洋〉照研究報告 §6.3：30 秒概覽最後一句與 description、民調段後加開票結果（民調表留作選前紀錄）、結尾兩段依結果重寫但首尾呼應不變、lifeTree 加 11-28 節點、若當選補立委職務異動
   - 〈蔣萬安〉同位置對稱補：30 秒概覽、description、選戰二末段、lifeTree
-  - 11/13–11/27 若有第二場辯論或公辦政見發表會：兩篇選戰節末各補一句（場次、日期、主辦）
+  - 11/13–11/17 若有第二場辯論或公辦政見發表會：兩篇選戰節末各補一句（場次、日期、主辦）；11/18 以後舉行的，等開票後補段時一起寫（凍結窗內不改這兩篇）
   - 共用區塊（查核表、攻防核心、民調表）兩篇必須一字相同，改完 diff 一次
   - 年份寫法兩篇不一致（〈沈伯洋〉正文用國字「四月二十五日」，〈蔣萬安〉用「2026 年 4 月 25 日」），開票後補段時一起統一成阿拉伯數字
   - 回連卡片已判定不加：〈蔣萬安〉tw-\* 已滿 4 個（四張時間軸），回連靠第 276 行行內連結與延伸閱讀，兩篇都連得到對方
