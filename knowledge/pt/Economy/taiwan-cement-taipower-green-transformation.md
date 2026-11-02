@@ -1,16 +1,16 @@
 ---
-title: 'Taiwan Cement: a lenda da transformação verde da primeira empresa listada de Taiwan'
-description: 'Em 1962, a bolsa de valores de Taiwan nasceu por sua causa, o código 1101 simboliza a origem do mercado acionário taiwanês. Ao longo de 76 anos sob três gerações da família Koo, a Taiwan Cement usou forno após forno de cimento para testemunhar o milagre da construção de Taiwan, transformando-se hoje em empresa verde para enfrentar a era da neutralidade de carbono'
+title: 'TCC: A Transição Verde da Primeira Empresa Listada de Taiwan'
+description: 'A Bolsa de Valores de Taiwan nasceu em 1962 por causa dela, e o código de ações 1101 simboliza a origem do mercado de ações de Taiwan. Gerida pela família Ku por três gerações ao longo de 76 anos, a TCC testemunhou o milagre da construção de Taiwan através de seus fornos de cimento; hoje, ela se transforma em uma empresa verde para enfrentar a era da neutralidade de carbono.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
-    'Economy',
+    'Economia',
     'Empresa',
-    'Indústria de cimento',
-    'Materiais de construção',
-    'Privatização de empresa estatal',
-    'Transformação verde',
+    'Indústria de Cimento',
+    'Materiais de Construção',
+    'Privatização',
+    'Transição Verde',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-07-26T02:07:21+08:00'
+translatedAt: '2026-11-02T01:27:16.960783+00:00'
 ---
 
 > **Visão geral em 30 segundos**
@@ -108,16 +108,16 @@ A indústria cimenteira global responde por cerca de 7-8% das emissões de carbo
 
 ## Referências
 
-[^1]: [Taiwan Cement — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — História completa da Taiwan Cement, incluindo fundação em 1946, privatização em 1954, listagem em 1962.
+[^1]: [Taiwan Cement — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Histórico completo da Taiwan Cement, incluindo a fundação em 1946, a privatização em 1954 e a listagem na bolsa em 1962.
 
-[^2]: [Relatório Anual 2024 da Taiwan Cement Corporation](https://www.taiwancement.com/) — Dados financeiros e de negócios mais recentes do grupo Taiwan Cement.
+[^2]: [Relatório Anual de 2024 da Taiwan Cement Corporation](https://www.taiwancement.com/) — Dados financeiros e operacionais mais recentes do Grupo Taiwan Cement.
 
-[^3]: [CommonWealth Magazine: A empresa listada mais antiga de Taiwan — Taiwan Cement opera em 13 países, tem 27 subsidiárias, virou o jogo com «descimento»](https://www.cw.com.tw/article/5130723) — Reportagem sobre estratégia de transformação verde e layout diversificado da Taiwan Cement.
+[^3]: [Taiwan Business Weekly: A empresa listada mais antiga de Taiwan, a Taiwan Cement, opera em 13 países com 27 subsidiárias e se reinventa através da 'descarbonização do cimento'](https://www.cw.com.tw/article/5130723) — Reportagem sobre a estratégia de transição verde e a diversificação do Grupo Taiwan Cement.
 
-[^4]: [Mirror Media: Recordando Koo Chen-fu e a inovação da Taiwan Cement — Chang An-ping: transformação total em empresa verde](https://www.mirrormedia.mg/story/20210209fin001) — Entrevista sobre direção da transformação verde após Chang An-ping assumir.
+[^4]: [Mirror Media: Relembrando Ku Jen-fu e a inovação da Taiwan Cement; Chang An-ping: Foco total na transição para uma empresa verde](https://www.mirrormedia.mg/story/20210209fin001) — Entrevista sobre a direção da transição ecológica da Taiwan Cement após a sucessão de Chang An-ping.
 
-[^5]: [TEJ Taiwan Economic Journal: Construindo o reino do cimento de Taiwan — a jornada de crescimento da família Koo e do grupo Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Registo completo da trajetória das três gerações da família Koo e da gestão da Taiwan Cement.
+[^5]: [TEJ Taiwan Economic News: Construindo o reino do cimento em Taiwan, a jornada de crescimento da família Ku e do Grupo Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Registro completo do contexto de gestão da família Ku e do Grupo Taiwan Cement ao longo de três gerações.
 
-[^6]: [Koo Yen Cho-yun e a aliança matrimonial da família Koo Chen-fu — Estabelecimento do reino do cimento de Taiwan e expansão para energia verde — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Registo completo da privatização de 1954, Lin Po-shou como primeiro presidente, Koo Chen-fu como diretor-geral adjunto, rede de alianças matrimoniais familiares.
+[^6]: [O casamento entre as famílias Ku, Yen, Chuo-yun e Ku Jen-fu estabeleceu o reino do cimento em Taiwan e expandiu para a energia verde — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Registro completo da privatização da Taiwan Cement em 1954, de Lin Po-shou como o primeiro presidente, do cargo de assistente de Ku Jen-fu e das redes de alianças familiares.
 
-[^7]: [Morte súbita de Koo Cheng-yun — cunhado Chang An-ping assume grupo Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirma o falecimento de Koo Cheng-yun a 23/1/2017 e a identidade de «cunhado» de Chang An-ping (Koo Hua-ju é filha mais nova de Koo Chen-fu). Ver também [Mirror Media: Bastidores da morte súbita de Koo Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Morte súbita de Ku Cheng-yun; cunhado Chang An-ping assume o Grupo Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirmação dos detalhes do falecimento de Ku Cheng-yun em 23/01/2017 e da relação de Chang An-ping como 'cunhado' (Ku Huai-ju é a filha mais nova de Ku Jen-fu). Veja também [Mirror Media: Os bastidores da morte súbita de Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

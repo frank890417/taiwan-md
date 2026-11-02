@@ -18,10 +18,10 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 10
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-02T01:02:27.383771+00:00'
 ---
 
 > **Resumo em 30 segundos:** Chang Chih-chi é um dos YouTubers de atualidades mais influentes de Taiwan, cujo canal «Shasha77» se destaca pelo estilo de resumos com atualizações diárias e apresentação de múltiplos pontos de vista. Ele começou no design de informação, procurando, através da «tradução», fazer com que temas sérios entrassem no radar do grande público, e continua a buscar espaço para o diálogo numa sociedade polarizada. Este artigo explora como ele transformou a mudança social num bom negócio e a sua trajetória de gestão de confiança e influência num ambiente complexo.
@@ -66,11 +66,11 @@ Perante a onda de IA e o impacto dos vídeos curtos, Chang Chih-chi demonstra a 
 
 Para Chang Chih-chi, empreender e gerir o canal é um processo contínuo de tentativa e erro. Define-se como de vida simples: o sistema de pedidos no telemóvel só guarda pratos fixos, toda a energia é investida em «repetir coisas aborrecidas mas certas».[^1] Num hoje em que a polarização dificilmente se inverte, ele não busca o rumo, mas tenta encontrar na sociedade de Taiwan aquele grupo que «não gosta de discutir coisas de forma agitada», prosseguindo uma maratona sobre a compreensão.
 
-## Leituras complementares
+## Leitura Complementar
 
-- **[A Di (阿滴)](/pt/people/ray-du-english-youtuber/)**: cofundador da Associação de Criadores Audiovisuais de Novos Media de Taiwan, ambos YouTubers de conhecimento da geração «chefe de bairro»
-- **[Ba Jiong (八炯)](/pt/people/pa-chiung-political-youtuber/)**: também centrado em comentário de atualidades, mas segue a via da «zombaria e contra-infiltração», outra estratégia de auto-media
-- **[Transição Democrática de Taiwan](/pt/history/taiwan-democratization/)**: contexto da evolução do debate público em Taiwan por trás do estilo de curadoria de «apresentação paralela de perspetivas» de Chang Chih-chi
+- **[A-Di](/pt/people/ray-du-english-youtuber)**: Co-fundador da Associação de Criadores de Conteúdo de Mídia Digital de Taiwan; ambos pertencem à geração de YouTubers de conteúdo educativo do tipo "Lao-zhang" (líder comunitário).
+- **[Ba Jiong](/pt/people/pa-chiung-political-youtuber)**: Também focado em comentários sobre atualidades, mas utiliza uma estratégia de mídia independente baseada na "sátira contra a propaganda".
+- **[Transição Democrática de Taiwan](/pt/history/taiwan-democratization)**: O contexto da evolução do debate público em Taiwan por trás do estilo de curadoria de "múltiplas perspectivas" de Chang Chih-chi.
 
 ---
 

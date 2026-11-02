@@ -1,27 +1,27 @@
 ---
-title: 'HeySong Soda e Sarsaparilla: de "produto de terceira categoria" ridicularizado à lenda centenária que derrotou o domínio da Coca-Cola'
-description: 'Esta não é apenas uma garrafa comum de refrigerante, mas a história de sobrevivência de como o capital nacional de Taiwan, sob controle colonial japonês e nas ondas da globalização, conseguiu sobreviver graças a "ativos de 17 dólares" e "Meu Futuro Não É Um Sonho".'
-date: '2026-04-16'
-author: 'Taiwan.md Contributors'
+title: "Blacklist Soda e Seven-Up: De 'produtos de terceira categoria' ridicularizados a desafiantes do domínio da Coca-Cola"
+description: 'Esta não é apenas uma bebida gaseificada comum, mas a história de sobrevivência do capital nacional de Taiwan, que conseguiu resistir ao controle durante o período colonial japonês e às ondas de globalização através de seus ativos e resiliência.'
+date: 2026-04-16
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
-    'HeySong Soda',
-    'HeySong Sarsaparilla',
-    'marca de Taiwan',
-    'cultura alimentar',
+    'Blacklist Soda',
+    'Blacklist Seven-Up',
+    'Marcas de Taiwan',
+    'Cultura Gastronômica',
     'Chang Yu-sheng',
   ]
-readingTime: '12'
-lastVerified: '2026-04-16'
-lastHumanReview: 'false'
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-16
+lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-02T01:36:52.099977+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

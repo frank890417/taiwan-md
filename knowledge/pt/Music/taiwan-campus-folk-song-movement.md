@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T12:07:02+08:00'
+translatedAt: '2026-11-02T00:50:34.474127+00:00'
 ---
 
 # O Movimento da Música Popular Taiwanesa
@@ -145,12 +145,12 @@ Num mundo globalizado hoje, talvez precise pensarmos mais: neste mundo cheio de 
 
 O Movimento da Música Popular de Taiwan nos dá a resposta: não tenha medo de usar sua própria língua e contar suas próprias histórias para criar. Porque só assim, podemos deixar a nossa própria voz neste mundo.
 
-## Leitura Adicional
+## Leitura Complementar
 
-- [Desenvolvimento da Música Popular de Taiwan](/music/台灣流行音樂發展) — Depois da música popular, a linha principal da música popular chinesa de Lu Daoyou a Chen Qizhen e Zhang Xuan
-- [Literatura de Taiwan após o fim do estado de sítio](/pt/art/post-martial-law-taiwanese-literature) — Outro movimento de consciência cultural que surgiu em 1987, com a mesma origem espiritual de "cantar a nossa própria música"
-- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outra linha do despertar cultural local de Taiwan nos anos 1970-80
-- [Sanmao](/pt/people/san-mao) — Escritora da letra original de "Oliveira", cuja letra foi reescrita e se espalhou pelo mundo chinês
+- [O desenvolvimento da música popular de Taiwan](/pt/music/golden-melodies-legacy-taiwan-pop-music) — O eixo principal da música pop em mandarim, desde Luo Dayou até Cheer Chen e Anais (Chang Hsu), após o movimento das canções folclóricas.
+- [A literatura de Taiwan após o fim da Lei Marcial](/pt/art/post-martial-law-taiwanese-literature) — Outro movimento de conscientização cultural após o fim da Lei Marcial em 1987, com a mesma origem espiritual do conceito de "cantar as próprias canções" das músicas folclóricas.
+- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — O Movimento do Novo Cinema de Taiwan, que ocorreu na mesma época e serviu como outro eixo para o despertar da cultura local em Taiwan nas décadas de 1970 e 1980.
+- [San Mao](/pt/people/san-mao) — A letrista original de 〈Olive Tree〉; sua letra tornou-se amplamente conhecida no mundo de língua chinesa após ser adaptada.
 
 ---
 

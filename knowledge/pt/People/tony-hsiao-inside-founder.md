@@ -2,9 +2,7 @@
 title: "Tony Hsiao: de PM de jogos a fundador do INSIDE, o 'chefe de bairro' do círculo de internet de Taiwan"
 description: "Em 2009, seis pessoas da internet lançaram um blog colaborativo, e assim nasceu o INSIDE, a observação de tendências de internet 'empurrada goela abaixo'. Tony Hsiao (fOx) também cofundou o iCook, e as duas plataformas de internet mais conhecidas de Taiwan se tornaram suas obras — e ambas foram vendidas para a mesma empresa. Ele agora continua no papel de observador dizendo a Taiwan: não se preocupe demais com a tecnologia."
 date: 2026-04-27
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'INSIDE',
@@ -14,14 +12,18 @@ tags:
     'internet de Taiwan',
     'fOx',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/蕭上農.md'
+harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0c7501412dac27dc'
-sourceBodyHash: 'sha256:9108cdc7ca125f4b'
-translatedAt: '2026-07-25T12:45:42+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:cf3dd21873bec862'
+sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
+translatedAt: '2026-11-02T01:12:48.461538+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Tony Hsiao (alcunha na internet: fOx) é cofundador do INSIDE, a observação de tendências de internet "empurrada goela abaixo", e do iCook (愛料理). Em 2009, ele e cinco amigos lançaram uma das primeiras mídias de tecnologia com viés analítico de Taiwan; em 2011, lançaram a maior plataforma de receitas de Taiwan. As duas empresas foram vendidas, respectivamente em 2018 e 2022, para o mesmo comprador: o Grupo de Mídia The News Lens (TNL Media Group). Hoje, ele atua como observador da internet em podcasts e programas de mídia, sendo uma das vozes mais convidadas para falar de tendências no círculo tecnológico de Taiwan.
@@ -90,30 +92,30 @@ O que o "chefe de bairro" faz é conectar pessoas. O que Tony Hsiao faz também 
 
 Essa rede explica em parte por que ele conseguiu tocar INSIDE e iCook simultaneamente, e por que permanece ativo como observador após as vendas — em outras palavras, "o círculo de internet de Taiwan o conhece" não desapareceu porque suas empresas foram adquiridas.
 
-## Diante da IA: o homem que diz "não se preocupe"
+## Enfrentando a IA: Aquele que diz "não se preocupe"
 
-Em maio de 2023, seis meses após o lançamento do ChatGPT, o iCook lançou uma função de assistência a receitas por IA.[^wazaiii] No mesmo período, Tony Hsiao usou ferramentas de IA para criar um app de escanear cartões de visita, colocou na loja e fatura稳定 mais de dez mil dólares taiwaneses por mês.[^tnl]
+Em maio de 2023, seis meses após o lançamento do ChatGPT, o iCook lançou uma função de auxílio de receitas por IA. [^wazaiii] No mesmo período, Hsiao Shang-nung lançou um aplicativo de escaneamento de cartões de visita baseado em ferramentas de IA, gerando uma renda estável de mais de NT$ 10.000 por mês. [^tnl]
 
-Ele diz: "Sou um otimista tecnológico, claro que acho que a tecnologia torna nossas vidas mais ricas e convenientes."[^wazaiii]
+Ele afirma: "Sou um otimista tecnológico; é claro que sinto que a tecnologia torna nossas vidas mais prósperas e convenientes." [^wazaiii]
 
-Também diz: "O botão de controle não está em nossas mãos, então preocupar-se não adianta; eu também tendo a não me preocupar."[^wazaiii]
+Ele também diz: "O botão de controle não está em nossas mãos, então se preocupar é inútil; eu tendo a não me preocupar." [^wazaiii]
 
-Essa é sua postura constante diante de cada onda tecnológica: observar, experimentar, e depois dizer a todos para não ficarem ansiosos demais. Da era das criptomoedas à era da IA, a atitude é a mesma.
+Esta é a sua postura constante diante de cada onda tecnológica: observar, experimentar e depois dizer às pessoas para não ficarem tão ansiosas. Da era das criptomoedas à era da IA, sua atitude permanece a mesma.
 
-Atualmente, ele aparece regularmente no quadro "Leitura de Tendências" do programa _Hora de Lanxuan_ da Rede Pop da BCC (中廣流行網), apresenta o podcast "Side Chat" (塞掐 Side Chat), e segue fazendo a tradução periódica de tendências para o círculo tecnológico de Taiwan.
+Atualmente, ele aparece regularmente no segmento "Tendências de Leitura" do programa _Lan Hsuan Time_ na radio de música popular da BCC, além de apresentar o podcast 「塞掐 Side Chat」, continuando a traduzir tendências periodicamente para o setor tecnológico de Taiwan.
 
 ---
 
-O blog colaborativo de 2009 agora pertence a outros. A plataforma de receitas de 2011, também.
+Aquele blog de notas colaborativas de 2009 agora pertence a outra pessoa. A plataforma de receitas de 2011 também.
 
-Tony Hsiao continua aqui. A observação continua. Ele transformou o "continuar observando" em si na próxima coisa a fazer.
+Hsiao Shang-nung ainda está aqui. A observação continua. Ele transformou o próprio ato de "continuar observando" em seu próximo empreendimento.
 
-**Leitura complementar**:
+**Leituras complementares**:
 
-- [INSIDE, a observação de tendências de internet "empurrada goela abaixo"](https://www.inside.com.tw/) — mídia de tecnologia cofundada por Tony Hsiao, hoje pertencente ao Grupo de Mídia The News Lens, segue cobrindo a indústria tecnológica de Taiwan e do mundo
-- [iCook 愛料理](https://icook.tw/) — maior plataforma de receitas de Taiwan, cofundada por Tony Hsiao, hoje pertencente ao Grupo de Mídia The News Lens
-- [Audrey Tang (唐鳳)](唐鳳) — primeira ministra do Desenvolvimento Digital de Taiwan, que também define sua carreira por "transpor múltiplos domínios"
-- [Ecossistema de startups de Taiwan (台灣新創生態系)](台灣新創生態系) — panorama geral do empreendedorismo de internet em Taiwan; INSIDE e iCook são casos representativos
+- [INSIDE, a observação de tendências de internet "empurrada goela abaixo"](https://www.inside.com.tw/) — Mídia tecnológica cofundada por Hsiao Shang-nung, atualmente pertencente ao Komap Media Group, que continua reportando sobre as indústrias tecnológicas de Taiwan e do mundo.
+- [iCook](https://icook.tw/) — A maior plataforma de receitas de Taiwan, cofundada por Hsiao Shang-nung, atualmente pertencente ao Komap Media Group.
+- [Audrey Tang](/pt/people/audrey-tang) — Primeira ministra do Ministério do Desenvolvimento Digital de Taiwan, que também define sua carreira como "transversal a múltiplos campos".
+- [Ecossistema de startups de Taiwan](/pt/economy/taiwan-startup-ecosystem-overview) — O contexto geral do desenvolvimento do empreendedorismo digital em Taiwan; INSIDE e iCook são casos representativos desse cenário.
 
 ## Referências
 

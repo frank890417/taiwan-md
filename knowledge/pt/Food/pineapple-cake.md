@@ -2,9 +2,7 @@
 title: 'Bolo de abacaxi: de lanche eleitoral a "tijolo de ouro" taiwanês com faturamento anual de 25 bilhões'
 description: 'Em 1945, a padaria Yen Hsin-fa em Taichung aprimorou o tradicional bolo de dragão e fênix no pequeno bolo de abacaxi. Da transformação do recheio de melão de inverno na década de 1970 devido à contração das exportações, até 2009, quando a SunnyHills resgatou o sabor agridoce do abacaxi nativo, este pequeno "tijolo de ouro" esteve entrelaçado com o destino da agricultura taiwanesa por oitenta anos; hoje, seu faturamento anual ultrapassa 25 bilhões de novos dólares taiwaneses, tornando-se o sabor mais representativo de Taiwan para visitantes estrangeiros.'
 date: 2026-04-24
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
     'Bolo de abacaxi',
@@ -14,15 +12,17 @@ tags:
     'SunnyHills',
     'Yen Hsin-fa',
   ]
-readingTime: 8
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:d40713778c8c010e'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-02T01:51:27.965518+00:00'
 ---
 
 > **Resumo de 30 segundos:** O bolo de abacaxi é o microcosmo do encontro entre a agricultura e a arte de panificação de Taiwan. 1945: Yen Shu-mu, da Yen Hsin-fa em Taichung, cria o protótipo; década de 1970: o bloqueio às exportações de abacaxi impulsiona o recheio cremoso de melão de inverno; 2009: a SunnyHills recoloca o abacaxi nativo (variedade Kaien) no centro do palco. Hoje, este pequeno tijolo de ouro fatura mais de 25 bilhões de TWD por ano e é, para o turista estrangeiro, _o_ sabor de Taiwan.
@@ -65,11 +65,11 @@ Por trás de cada bolo de abacaxi, está o esforço de agricultores e mestres pa
 
 Em 2006, o Governo da Cidade de Taipé realizou o primeiro "Festival Cultural do Bolo de Abacaxi de Taipé", elevando o doce de pastelaria tradicional ao palco internacional por meio de concursos, marketing e branding[^10]. O evento alavancou a notoriedade do bolo de abacaxi e impulsionou indústrias correlatas, consolidando-o como o "tijolo de ouro" indispensável na mala de todo turista. O sucesso do bolo de abacaxi inspirou diversas localidades de Taiwan a desenvolver suas próprias lembranças características, tornando-se paradigma de revitalização local e marketing cultural.
 
-## Leitura complementar
+## Leitura adicional
 
-- [Cultura de bolos e biscoitos de Taiwan (台灣糕餅文化)](/pt/food/taiwan-pastry-culture) — O gene milenar da arte dos bolos chineses (漢餅) e da confeitaria moderna; leia junto com o bolo de abacaxi para ver a transformação da panificação taiwanesa
-- [Macarrão com carne bovina (牛肉麵)](/pt/food/beef-noodle-soup) — Outro pilar que define a memória gustativa taiwanesa, "diplomacia popular" por excelência; contraponto interno/externo ao bolo de abacaxi
-- [Modernização da agricultura de Taiwan (台灣農業現代化)](/economy/台灣農業現代化) — Do impasse produção-venda à virada agroindustrial; o bolo de abacaxi é um dos trechos dessa longa estrada
+- [Cultura de doces e bolos de Taiwan](/pt/food/taiwan-pastry-culture) — A herança da técnica dos bolos de massa de trigo (_hanbing_) e a genética das sobremesas modernas; veja a transformação dos doces taiwaneses junto com o bolo de abacaxi.
+- [Macarrão com carne bovina (Niu Rou Mian)](/pt/food/beef-noodle-soup) — Outro representante da "diplomacia popular" que define a memória gustativa de Taiwan, servindo como um contraponto interno e externo ao bolo de abacaxi.
+- [Modernização da agricultura em Taiwan](/pt/economy/taiwan-agricultural-modernization) — Dos dilemas de produção e comercialização à transformação das empresas agrícolas; o bolo de abacaxi é uma etapa nessa longa jornada.
 
 ## Referências
 

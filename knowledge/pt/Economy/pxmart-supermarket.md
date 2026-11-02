@@ -12,10 +12,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-14T06:58:44+08:00'
+translatedAt: '2026-11-02T02:03:01.703055+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 1998, o magnata imobiliário Lin Min-hsiung assumiu as estações de bem-estar militar, público e docente, que acumulavam prejuízos consecutivos e contavam com apenas 66 lojas. Como "forasteiro", estabeleceu a linha de sobrevivência de "20% mais barato, 2% de lucro" e, a pulso, abriu caminho para o supermercado no espaço apertado entre o 7-Eleven e os gigantes do atacarejo. Hoje, o PX Mart é o senhor do varejo com faturamento anual acima de 200 bilhões e 1.200 pontos de venda, mas as controvérsias de monopólio e as dores da transformação digital testam este "plataforma de vida" para os próximos vinte anos.
@@ -58,14 +58,14 @@ Lin Min-hsiung já disse que o PX Mart é o "centro de bem-estar dos taiwaneses"
 
 ---
 
-## Leitura complementar
+## Leitura Adicional
 
-- **[Mascote](/pt/lifestyle/mascot-culture-in-taiwan)** — Urso PX Mart e Open General: a gestão de IP de mascotes do varejo
-- **[Cultura das lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture)** — PX Mart, 7-Eleven, FamilyMart no varejo de Taiwan
-- **[Economia de entrega de Taiwan](/economy/台灣外送經濟)** — Como a entrega em uma hora do PX Mart se espreme no mercado foodpanda / Uber Eats
-- **[Pagamento móvel de Taiwan](/pt/technology/taiwan-mobile-payment)** — Do PXPay Plus e outras ferramentas, aceitação por comerciantes ao respaldo em dinheiro, entender por que普及 e 通用 são diferentes
-- **[História da publicidade em Taiwan](/pt/culture/taiwan-advertising-history)** — A Ogilvy por trás da "estética econômica" do PX Mart, e a história centenária da publicidade em Taiwan, do monopólio da atenção ao marketing emocional
-- **[Empresa de Taiwan: Uni-President Enterprises](/pt/economy/taiwan-enterprise-uni-president)** — Uni-President compra Carrefour, PX Mart compra RT-Mart, a outra metade da história da consolidação dos dois gigantes do varejo de Taiwan
+- **[Mascote](/pt/lifestyle/mascot-culture-in-taiwan)** — Urso do Bem-Estar do PX Mart e Open Jiang: A Gestão de IP de Mascotes do Varejo
+- **[Cultura das Lojas de Conveniência em Taiwan](/pt/lifestyle/convenience-store-culture)** — PX Mart, 7-Eleven e FamilyMart no Varejo de Taiwan
+- **[Economia de Delivery em Taiwan](/pt/lifestyle/food-delivery-platforms-taiwan)** — Como a Entrega Rápida do PX Mart Entrou no Mercado do foodpanda e Uber Eats
+- **[Pagamentos Móveis em Taiwan](/pt/technology/taiwan-mobile-payment)** — Do PX Pay e Outras Ferramentas à Adesão de Comerciantes e Reserva em Dinheiro: Por Que Universalização e Popularização São Diferentes
+- **[História da Publicidade em Taiwan](/pt/culture/taiwan-advertising-history)** — A Ogilvy por Trás da "Estética Econômica" do PX Mart, e o Século da Publicidade em Taiwan: do Monopólio da Atenção ao Marketing Emocional
+- **[Empresa de Taiwan: Uni-President Enterprises](/pt/economy/taiwan-enterprise-uni-president)** — Uni-President Compra Carrefour, PX Mart Compra RT-Mart: A Outra Metade da Consolidação dos Dois Gigantes do Varejo de Taiwan
 
 ## Referências
 
