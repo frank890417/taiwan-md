@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c875'
-sourceContentHash: 'sha256:4a54c99c213cd153'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-09-24T16:38:42.378765+00:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T08:54:35.730500+00:00'
 ---
 
 # Taiwanische Staatenbeziehungen und internationale Diplomatie: 12 Staaten, 113 Vertretungen, 177 visumfreie Länder
@@ -262,32 +262,33 @@ Namun, secara hukum internasional terdapat empat risiko nyata:
 
 Selama 12 negara pengakuan tersebut ada, argumen ini tidak dapat bertahan. Oleh karena itu, makna dari ke-12 negara ini sendiri terbatas; maknanya adalah bahwa mereka **bukan nol**.
 
-## Tiga Angka
+## Drei Zahlen
 
 ```
 12             113            177
-Staaten mit diplomatischen Beziehungen     Auslandsvertretungen       Reisepässe gültig in
+Diplomatische    Auslandsvertretungen  Länder, die mit dem
+Partner                              Reisepass zugänglich sind
 ```
 
-12 Länder erkennen die Regierung der Republik China (Taiwan) als „legitime Regierung Chinas“ an.
-113 Vertretungen repräsentieren Taiwan weltweit und erledigen praktische Geschäfte.
-In 177 Ländern können Staatsbürger von Taiwan einreisen, obwohl diese die Republik China nicht anerkennen.
+12 Länder erkennen die Regierung der Republik China (Taiwan) als die „legitime Regierung Chinas“ an.
+113 Vertretungen weltweit repräsentieren Taiwan und erledigen praktische Angelegenheiten.
+177 Länder erkennen die Republik China nicht an, lassen aber taiwanische Staatsbürger einreisen.
 
-Das Europäische Parlament stimmte mit 432 Ja-Stimmen gegen eine Resolution mit 2758 Nein-Stimmen ab. Als Tsai Ing-wen im Mai 2024 abtrat, gab es 12 Staaten mit diplomatischen Beziehungen; sie besuchte das Europäische Parlament im Oktober nach ihrem Rücktritt. Bonnie Glaser sprach von einem Moment der Abhängigkeit von TSMC. Mark Lambert sagte, dass die Resolution 2758 Taiwan nicht erwähnt habe.
+Das Europäische Parlament verabschiedete die Resolution 2758 mit 432 Ja-Stimmen gegen 275-Stimmen. Als Tsai Ing-wen im Mai 2024 ihr Amt niederlegte, gab es noch 12 diplomatische Partner; im Oktober nach ihrem Ausscheiden wurde sie eingeladen, das Europäische Parlament zu besuchen. Bonnie Glaser erwähnte, dass die Abhängigkeit von TSMC einen Moment lang existierte. Mark Lambert sagte, dass die Resolution 2758 Taiwan nicht erwähnt.
 
-All dies geschieht gleichzeitig. Es gibt keine Bezeichnung namens „internationaler Status Taiwans“.
+All diese Dinge geschehen gleichzeitig. Es gibt keinen einzelnen Punkt namens „der internationale Status Taiwans“.
 
-Wenn es eine gäbe, wäre sie weder 12 noch 113 noch 177, noch 90 % oder 30 %.
+Wenn es ihn gäbe, wäre dieser Wert weder 12 noch 113, noch 177, noch 90 % oder 30 %.
 
-Sie ist der Abstand zwischen diesen Zahlen.
+Er liegt in der Distanz zwischen diesen Zahlen.
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Taiwanische Verteidigung und Militärmodernisierung](/de/society/taiwan-defense-modernization) — Wenn nur 12 Staaten diplomatische Beziehungen haben, ist die militärische Selbstverteidigung eine weitere Säule, um „nicht Null“ zu bleiben
-- [Taiwanstraße-Krise und Entwicklung der Beziehungen zwischen den beiden Seiten](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Wie drei Krisen die diplomatische Isolation und Sicherheitsangst Taiwans geformt haben
-- [TSMC](/business/台積電) — Die materielle Grundlage des Silberschilds und seine strukturelle Fragilität
-- [Tsou Yung-tai](/de/people/cho-jung-tai) — Der Pfad der Taiwan-Zölle 32→20→15 % im Jahr 2026 + die Kabinettskoordination bei Lai Ching-te in Schweden
-- [Taiwan und Schweden](/de/society/taiwan-eswatini-relations) — Die einzige afrikanische Insel unter den 12 Staaten mit diplomatischen Beziehungen: Eine ganze Geschichte von der Normalisierung im Jahr 1968 bis zum Besuch von Lai Ching-te im Jahr 2026
+- [Taiwans Verteidigung und militärische Modernisierung](/de/society/taiwan-defense-modernization) — Wenn nur noch 12 diplomatische Partner übrig sind, ist die militärische Selbstverteidigung eine weitere Säule, um „nicht bei Null“ zu bleiben
+- [Die Taiwanstraße-Krise und die Entwicklung der Beziehungen auf beiden Seiten der Taiwanstraße](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Wie drei Krisen die diplomatische Isolation und die Sicherheitsängste Taiwans geformt haben
+- [TSMC](/de/economy/tsmc) — Die materielle Basis des „Silicon Shield“ und seine strukturelle Verwundbarkeit
+- [Zhuo Rongtai](/de/people/cho-jung-tai) — Der Pfad der US-Taiwan-Zölle von 32 % → 20 % → 15 % im Jahr 2026 + Kabinettskoordinator des Besuchs von Lai Ching-te in Swastini
+- [Taiwan und Swastini](/de/society/taiwan-eswatini-relations) — Die einzige verbleibende afrikanische Verbindung unter den 12 diplomatischen Partnern: Die vollständige Geschichte von der Aufnahme diplomatischer Beziehungen am selben Tag im Jahr 1968 bis zum Besuch von Lai Ching-te im Jahr 2026
 
 ## Quellenangaben
 
