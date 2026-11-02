@@ -35,10 +35,10 @@ imageCredit: 'Jiang / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-09T19:42:13.909204+00:00'
+translatedAt: '2026-11-02T10:57:48.847235+00:00'
 ---
 
 # Hsinchu : la cité de bambou de Zhuqian plantée en 1733, berceau de TSMC en 1980
@@ -202,19 +202,19 @@ Vue depuis la chaîne centrale, Hsinchu est la dernière pente avant que la mous
 
 La prochaine fois que vous irez à Hsinchu, ne vous contentez pas de visiter les usines de puces dans le parc scientifique. Essayez de vous lever à six heures du matin et de rester debout devant Yingximen pour sentir le vent. Vous retiendrez une chose : **les strates que porte cette cité dépassent de loin les trois caractères « cité technologique »**. C'est une cité plantée en 1733, qui a vécu 293 ans grâce au vent, et qui continue d'être portée par le vent.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Keelung](/fr/geography/keelung-city) — Pilote de la série des 22 municipalités et comtés : de la prise de possession espagnole en 1626 au 7e plus grand port à conteneurs du monde en 1984, la mémoire d'une cité portuaire qui, comme Hsinchu, abritait une base de front de la Guerre froide (île de Heping à Keelung vs base aérienne de Hsinchu) et le destin d'une municipalité provinciale
-- [Chiayi](/fr/geography/chiayi-city) — Série des 22 municipalités et comtés : une autre municipalité provinciale séparée par le transfert du siège du comté (siège du comté de Chiayi transféré à Taibao en 1991 vs siège du comté de Hsinchu transféré à Zhubei en 1989), comparaison des conséquences de deux séparations municipalité/comté
-- [Comté de Miaoli](/fr/geography/miaoli-county) — Série des 22 municipalités et comtés : voisin séparé du comté de Hsinchu en 1887, les parcs de Houlong et Tongluo du parc scientifique de Hsinchu sont tous deux dans le comté de Miaoli, les retombées industrielles de Hsinchu
-- [Comté de Nantou](/fr/geography/nantou-county) — Série des 22 municipalités et comtés : le seul comté sans accès à la mer, partage avec Hsinchu une structure géographique où « taille ≠ importance » (Nantou soutient tout le système montagneux central / Hsinchu soutient tout le pôle de semi-conducteurs)
-- [Taoyuan](/fr/geography/taoyuan-city) — Voisin nord de Hsinchu, lorsque l'ITRI fut fondé en 1973, Longtan à Taoyuan fut initialement envisagé, puis Hsinchu fut choisi ; le parc de Longtan du parc scientifique chevauche Taoyuan et Hsinchu
-- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Séparé de la municipalité de Hsinchu en 1982, siège du comté transféré à Zhubei en 1989, le canton de Baoshan est le site de l'usine de 2 nanomètres de TSMC
-- [Industrie taïwanaise des semi-conducteurs](/technology/台灣半導體產業) — L'histoire industrielle complète de l'ITRI en 1973 au procédé 2 nanomètres de TSMC en 2025, Hsinchu étant la coordonnée physique de toutes les chronologies
-- [TSMC](/companies/台積電) — Fondée en 1987 dans le parc scientifique de Hsinchu, le procédé 2 nanomètres entra en production en série à l'usine de Baoshan au quatrième trimestre 2025
-- [Taïwan pendant la Guerre froide](/history/冷戰時期的台灣) — L'histoire des missions de reconnaissance de l'Escadrille des Chauves-souris noires et de l'Escadrille des Chats noirs, la base aérienne de Hsinchu étant le centre de cette histoire
-- [Parcs scientifiques de Taïwan](/geography/台灣科學園區) — L'histoire complète des parcs scientifiques : Hsinchu en 1980, parc du sud en 1996, parc central en 2003, méga-parc de Kaohsiung en 2025
-- [Festival des Esprits de Zhongyuan à Keelung](/culture/雞籠中元祭) — Appartenant au même système de croyances locales sous les Qing que le Temple du Dieu de la Cité de Hsinchu, comparaison de deux rituels d'« accueil des morts » (Keelung accueille les âmes des soldats français de 1884 / le Temple du Dieu de la Cité de Hsinchu gère les esprits de tout Taïwan)
+- [Keelung](/fr/geography/keelung-city) — Série des 22 comtés et villes (pilote) : mémoire de la ville portuaire depuis l'implantation du drapeau espagnol en 1626 jusqu'au 7e port à conteneurs mondial en 1984, avec comme Hsinchu une base de première ligne de la Guerre froide (île de la Paix de Keelung vs base aérienne de Hsinchu) et le destin de ville provinciale
+- [Chiayi](/fr/geography/chiayi-city) — Série des 22 comtés et villes : autre ville provinciale scindée par le déplacement du chef-lieu de comté (1991 déplacement du chef-lieu du comté de Chiayi à Taibao vs 1989 déplacement du chef-lieu du comté de Hsinchu à Zhubei), comparaison des conséquences de deux types de séparation comté-ville
+- [Miaoli](/fr/geography/miaoli-county) — Série des 22 comtés et villes : comté voisin détaché du comté de Hsinchu en 1887, les parcs de Houlong et de Tungluo du Parc scientifique de Hsinchu se trouvent tous deux à Miaoli, débordement industriel de Hsinchu
+- [Nantou](/fr/geography/nantou-county) — Série des 22 comtés et villes : seul comté sans littoral, structure géographique « taille ≠ importance » comme Hsinchu (Nantou soutient tout le système de la chaîne centrale / Hsinchu soutient toute la grappe des semi-conducteurs)
+- [Taoyuan](/fr/geography/taoyuan-city) — Voisin du nord de Hsinchu, l'ITRI envisagé initialement à Longtan (Taoyuan) lors de sa création en 1973, puis implanté à Hsinchu ; le parc de Longtan du Parc scientifique s'étend entre Taoyuan et Hsinchu
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Séparé de la ville de Hsinchu en 1982, chef-lieu déplacé à Zhubei en 1989, comté voisin où se trouve le township de Baoshan, site de l'usine 2 nm de TSMC
+- [Industrie des semi-conducteurs de Taïwan](/fr/technology/taiwan-semiconductor-industry) — Histoire complète de l'industrie de l'ITRI en 1973 au 2 nm de TSMC en 2025, Hsinchu en est la coordonnée physique de toute la chronologie
+- [TSMC](/fr/economy/tsmc) — Fondée en 1987 dans le Parc scientifique de Hsinchu, production de masse du procédé 2 nm lancée au 4e trimestre 2025 à l'usine de Baoshan
+- [Taïwan pendant la Guerre froide](/history/冷戰時期的台灣) — Histoire des opérations de reconnaissance des escadrons Black Bat et Black Cat, la base aérienne de Hsinchu en est le centre
+- [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — Histoire complète des parcs scientifiques : 1980 Hsinchu, 1996 Parc du Sud, 2003 Parc du Centre, 2025 méga-parc de Kaohsiung
+- [Festival Zhongyuan de Keelung](/culture/雞籠中元祭) — Appartenant au même système de croyances locales de l'époque Qing que le Temple du Dieu de la Ville de Hsinchu, comparaison de deux rites « d'accueil des morts » (Keelung accueille les âmes des soldats français de 1884 / Temple du Dieu de la Ville de Hsinchu gère les divinités et fantômes de toute Taïwan)
 
 ## Sources des images
 
