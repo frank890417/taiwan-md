@@ -348,7 +348,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-02 | 054100-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移；本班是營運機 10-25 後第一個真的起得來的排程 session，#1892 看似已解待下一班確認 | 看飛輪活沒活，看 runs 不看 lastRunAt | [→](memory/2026-11-02-054100-twmd-routine-sync.md) |
 | 2026-11-02 | 060935-twmd-embeddings-nightly | 停擺七夜後第一次重建：13 語 14,873 向量 0 fail，verify PASS，`cb8c0b5d9`；〈竹山鎮〉〈西螺鎮〉進索引；主樹被 dirty 檔擋住，改從 origin/main 開 worktree 重建 | 乾淨的 worktree 少了 gitignored 衍生檔 | [→](memory/2026-11-02-060935-twmd-embeddings-nightly.md) |
 | 2026-11-02 | 061113-twmd-data-refresh-am | 登入恢復後第一班自己起來的早班：快轉追上 origin 後 14 步全過、0 stale，文章 1154；週末週班十條沉默燈是同一個登入過期的投影 | 用自己的存在證明排程活著，只證明被叫起來 | [→](memory/2026-11-02-061113-twmd-data-refresh-am.md) |
-| 2026-11-02 | 054914-twmd-desk | 飛輪恢復當天集中推進：#1903 二十區號次換成選委會一手公告並上線、contracts 四處 audit 清零、INBOX 對帳；核能與金馬獎研究完成，核能脊椎等哲宇 | 子代回報都親驗了，唯一出錯的是自己順手填的颱風英文名 | [→](memory/2026-11-02-054914-twmd-desk.md) |
+| 2026-11-02 | 054914-twmd-desk | 飛輪恢復當天集中推進：#1903 號次換成選委會一手公告、contracts 清零；〈金馬獎〉NEW 與核能 EVOLVE（哲宇選 A 量尺版）查證修訂後上線 | 查證抓到最重的錯都在論點句與引語歸屬，不在數字 | [→](memory/2026-11-02-054914-twmd-desk.md) |
 | 2026-11-02 | 064815-twmd-spore-harvest-am | 登入恢復後第一班收割：#29 李洋回覆 @itsryo_yu 問首班捷運（C 桶，10-27 留言等了七天），#29／#170 重抓數字；重試一次，無重複 | 停擺的代價有一部分落在等回答的讀者身上 | [→](memory/2026-11-02-064815-twmd-spore-harvest-am.md) |
 | 2026-11-02 | 071031-twmd-feedback-triage | 停擺七天後 92 筆待處理，74 筆冒充本產線第 3c 步索取後端金鑰，偵測器命中 0；排除 39 筆照樣跑完，11 筆乾淨的開 #1936–#1946，兩道對賬 102/102 與 101/102 | 閘門認得攻擊者打破框架，認不得攻擊者住進框架 | [→](memory/2026-11-02-071031-twmd-feedback-triage.md) |
 | 2026-11-02 | 090254-twmd-maintainer-daily | 前一班開的 11 筆 issue 有 10 筆 slug 指不到任何文章，關掉標 invalid；讀者抓到的村里長事務費，三篇各自錯法不同且 2022 年就過期，改成 5 萬 4；CLI 發佈卡在權杖 | 往外查證很勤，往自己佇列查證沒啟動，把第三次確認講成第一次發現 | [→](memory/2026-11-02-090254-twmd-maintainer-daily.md) |
