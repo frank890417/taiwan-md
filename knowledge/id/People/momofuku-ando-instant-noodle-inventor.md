@@ -1,18 +1,18 @@
 ---
-title: 'Wu Baifu (Momofuku Ando): Dari Puzi, Chiayi ke Meja Makan Global, Gen Taiwan dengan Kemasan Jepang yang Legendaris di Dunia'
-description: 'Pada tahun 1961, Momofuku Ando membeli hak paten mi instan milik Chang Kuo-wen seharga 23 juta yen. Ini bukan sekadar transaksi bisnis, melainkan pertarungan lintas negara soal hak definisi penemuan. Pengusaha asal Puzi, Chiayi ini mengubah jiwa mi ayam tradisional Taiwan menjadi makanan nasional Jepang, dan melalui "Chicken Ramen" cup noodles, ia mengubah radikal kebiasaan makan global. Artikel ini mendalami titik awal kewirausahaannya di Taiwan masa pendudukan Jepang, introspeksi saat dipenjara pasca perang, serta keterikatan identitas dan keluarga di antara dua negara.'
+title: 'Momofuku Ando: Dari Puzi, Chiayi ke Meja Makan Dunia, Gen Taiwan dalam Kemasan Jepang'
+description: 'Pada tahun 1961, Momofuku Ando membeli hak paten mi instan milik Chang Kuo-wen seharga 23 juta yen. Ini bukan sekadar transaksi bisnis, melainkan sebuah perebutan pengaruh lintas negara mengenai definisi penemuan. Pengusaha yang berasal dari Puzi, Chiayi ini mengubah jiwa mi ayam tradisional Taiwan menjadi makanan pokok rakyat Jepang, dan melalui cup noodle "Cup Noodle", ia sepenuhnya mengubah kebiasaan makan global. Artikel ini mengeksplorasi secara mendalam titik awal kewirausahaannya di Taiwan masa pendudukan Jepang, refleksi setelah dipenjara pasca-perang, serta keterikatan identitas dan keluarga di antara kedua negara.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Wu Baifu',
     'Momofuku Ando',
-    'mi instan',
-    'sejarah Taiwan',
-    'budaya kuliner',
+    'Momofuku Ando',
+    'Mi Instan',
+    'Sejarah Taiwan',
+    'Budaya Kuliner',
     'Nissin Foods',
-    'mi cup',
-    'sejarah pasca perang',
+    'Cup Noodle',
+    'Sejarah Pasca-Perang',
     'Dadaocheng',
   ]
 subcategory: '歷史人物'
@@ -22,10 +22,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:6e3924ea5d9a1832'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-09-13T10:37:16.129087+00:00'
+translatedAt: '2026-11-02T00:36:00.442477+00:00'
 ---
 
 > **30 Detik Ringkasan:**
