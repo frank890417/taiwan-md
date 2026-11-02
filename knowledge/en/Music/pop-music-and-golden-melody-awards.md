@@ -28,10 +28,10 @@ rationale:
   whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
 relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '7701a4867'
-sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-09-20T10:44:17.880815+00:00'
+translatedAt: '2026-11-02T18:49:05.366063+00:00'
 ---
 
 # Golden Melody Awards: Taiwan Honors Its Own Music, and the Moments Remembered for a Lifetime Across Thirty-Five Years
@@ -258,12 +258,13 @@ After thirty-odd years, the Golden Melody Awards aren't really about giving out 
 
 ## Further Reading
 
-- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The full rise-and-fall history of the industry from the record era to the streaming age; the Golden Melody Awards are the official yardstick along this timeline
-- [Evolution of Taiwanese Hokkien Songs](/en/music/taiwanese-hokkien-song-evolution) — From sentimental ballads to Lin Qiang's "Marching Forward" and its rock turn, how Taiwanese-language songs entered the mainstream
-- [Taiwan Indigenous Music Traditions](/en/music/indigenous-music-traditions) — From tribal songs to Chen Chien-nien and ABAO, the roots and contemporary face of Indigenous music in Taiwan
-- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators like Sangpuy, Panai, and ABAO
-- [Taiwan Indie Music Scene](/en/music/indie-music-scene) — How No Party for Cao Dong, StreetVoice, and their generation bypassed the record industry to reach the Golden Melody stage
-- [Golden Bell Awards](/en/culture/golden-bell-awards) — The oldest of the "Three Golden Awards": forged for radio in 1965, sixty-one years of winners documenting whose hands held Taiwan's television
+- [Taiwanese Popular Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — A complete history of the industry's rise and fall, from the record industry to the streaming era; the Golden Melody Awards serve as the official milestones along this timeline.
+- [The Evolution of Taiwanese Songs](/en/music/taiwanese-hokkien-song-evolution) — From sorrowful ballads to Lin Chiang’s rock turn in 〈Marching Forward〉: how _Tâi-gí_ songs entered the mainstream.
+- [Indigenous Music Traditions in Taiwan](/en/music/indigenous-music-traditions) — From tribal folk songs to Chen Chien-nian and Aba, the roots and contemporary state of Indigenous music.
+- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators such as Ji Xiao-jun, Panai, and Aba.
+- [Taiwanese Indie Music](/en/music/indie-music-scene) — How bands like No Party for Cao Dong and the "StreetVoice generation" bypassed the record industry to reach the highest stages of the Golden Melody Awards.
+- [Golden Bell Awards](/en/culture/golden-bell-awards) — The oldest of the "Three Golds": a bell cast for radio in 1965; sixty-one years of award lists recording who holds the reins of Taiwanese television.
+- [Golden Horse Awards](/art/金馬獎) — The film award among the "Three Golds": how eligibility has expanded session by session, moving from only accepting Mandarin films to being nationality-blind.
 
 ## Image Sources
 
