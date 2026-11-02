@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T16:41:47+08:00",
-    "zhCommitHead": "6ab222eb6",
+    "lastUpdated": "2026-11-02T17:06:09+08:00",
+    "zhCommitHead": "436fdfa49",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1157,
-        "fresh": 1120,
-        "stale": 23,
+        "fresh": 1121,
+        "stale": 22,
         "metadata_stale": 12,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1119,
+        "stale": 23,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1157,
-        "fresh": 1119,
-        "stale": 23,
+        "fresh": 1120,
+        "stale": 22,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
@@ -92,24 +92,24 @@
       },
       "ar": {
         "total_zh": 1157,
-        "fresh": 1117,
-        "stale": 25,
+        "fresh": 1118,
+        "stale": 24,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1157,
-        "fresh": 1117,
-        "stale": 25,
+        "fresh": 1118,
+        "stale": 24,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1157,
-        "fresh": 1103,
-        "stale": 33,
+        "fresh": 1104,
+        "stale": 32,
         "metadata_stale": 19,
         "missing": 2,
         "orphan": 0
@@ -34760,8 +34760,8 @@
           "sourceContentHash": "sha256:533b8db87f48f6de",
           "sourceBodyHash": "sha256:8a6bcaa4a83cff70",
           "translatedAt": "2026-11-02T06:50:36.917475+00:00",
-          "translationLastCommit": "07c8467d",
-          "translationLastModified": "2026-10-10T23:00:26+08:00",
+          "translationLastCommit": "436fdfa4",
+          "translationLastModified": "2026-11-02T16:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "bytes": 127051,
@@ -34962,8 +34962,8 @@
           "sourceContentHash": "sha256:4e382a7fba09b7dd",
           "sourceBodyHash": "sha256:83fcd71da8d50603",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "436fdfa4",
+          "translationLastModified": "2026-11-02T16:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "bytes": 84811,
@@ -35606,20 +35606,18 @@
         "en": {
           "path": "en/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:575572d1dd581d19",
-          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:8647f4437b5dfe36",
+          "sourceBodyHash": "sha256:d7402441fbb7f358",
           "translatedAt": "2026-08-03T15:01:44.482093+00:00",
           "translationLastCommit": "c0e73f55",
           "translationLastModified": "2026-10-10T23:13:40+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 52308,
+          "bytes": 52307,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-semiconductor-industry.md",
@@ -35774,20 +35772,18 @@
         "ru": {
           "path": "ru/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:575572d1dd581d19",
-          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:8647f4437b5dfe36",
+          "sourceBodyHash": "sha256:d7402441fbb7f358",
           "translatedAt": "2026-08-03T16:42:24.457018+00:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 83099,
+          "bytes": 83098,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/taiwan-semiconductor-industry.md",
@@ -79300,20 +79296,18 @@
         "de": {
           "path": "de/Society/taiwan-diplomatic-allies-and-international-relations.md",
           "translatedFrom": "Society/台灣邦交國與國際外交.md",
-          "sourceCommitSha": "669a4c875",
-          "sourceContentHash": "sha256:4a54c99c213cd153",
-          "sourceBodyHash": "sha256:e6881f1d2b6924ed",
-          "translatedAt": "2026-09-24T16:38:42.378765+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:a769a15322237001",
+          "sourceBodyHash": "sha256:0558fdc7cb927ea0",
+          "translatedAt": "2026-11-02T08:54:35.730500+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 42770,
+          "bytes": 42962,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -171886,20 +171880,18 @@
         "ko": {
           "path": "ko/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "813fde2d6",
-          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
-          "sourceBodyHash": "sha256:4f8e5414cbe29614",
-          "translatedAt": "2026-09-21T19:07:34.352531+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9d679c3b9e055699",
+          "sourceBodyHash": "sha256:71b357541a22d4f7",
+          "translatedAt": "2026-11-02T08:55:00.675920+00:00",
           "translationLastCommit": "822c2202",
           "translationLastModified": "2026-10-10T23:14:00+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 53846,
+          "bytes": 57320,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+14 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-fruit-kingdom.md",
@@ -185292,20 +185284,18 @@
         "ja": {
           "path": "ja/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "5add39fc8",
-          "sourceContentHash": "sha256:1c18939671190740",
-          "sourceBodyHash": "sha256:c336900c050cb32f",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:029c5b96b80df013",
+          "sourceBodyHash": "sha256:695400871e5b12aa",
           "translatedAt": "2026-07-28T17:22:16+08:00",
           "translationLastCommit": "00ef6a7a",
           "translationLastModified": "2026-09-22T00:50:05+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 51207,
+          "bytes": 51206,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/great-recall-movement-2024.md",
@@ -185428,20 +185418,18 @@
         "ar": {
           "path": "ar/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "5add39fc8",
-          "sourceContentHash": "sha256:1c18939671190740",
-          "sourceBodyHash": "sha256:c336900c050cb32f",
-          "translatedAt": "2026-07-28T03:07:47+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:029c5b96b80df013",
+          "sourceBodyHash": "sha256:695400871e5b12aa",
+          "translatedAt": "2026-11-02T08:42:12.282233+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 66562,
+          "bytes": 86257,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/great-recall-movement-2024.md",
