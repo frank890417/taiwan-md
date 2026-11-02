@@ -1,19 +1,20 @@
 ---
-title: '헤이송 사이다와 사스: "삼류 음료"라는 조롱을 이기고 콜라 강자를 물리친 백년 전설'
-description: '이것은 단순한 탄산음료가 아니다. 일본 통치와 세계화의 물결 속에서 타이완 민족 자본이 "17위안 자산"과 "나의 미래는 아직 꿈이 아니다"라는 믿음으로 살아남아온 생존의 역사다.'
+title: "헤이송 소다와 사스: 비웃음받던 '삼류 제품'에서 콜라 패권을 물리치기까지"
+description: "이것은 단순한 탄산음료가 아니라, 대만 민족 자본이 일제 강점기의 통제와 글로벌화의 물결 속에서 어떻게 '17원의 자산'과 '내 미래는 꿈이 아니야'를 통해 살아남았는지에 대한 생존사이다."
 date: 2026-04-16
+category: 'Food'
+tags: ['헤이송 소다', '헤이송 사스', '대만 브랜드', '식문화', '장위성']
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
-category: Food
-tags: ['헤이송 사이다', '헤이송 사스', '타이완 브랜드', '음식 문화', '장위성']
-readingTime: 12
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-translatedFrom: Food/黑松.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'Food/黑松.md'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-02T01:24:37.005403+00:00'
 ---
 
 > **30초 개요:**

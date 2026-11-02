@@ -1,27 +1,28 @@
 ---
-title: '경쟁 컵 쌓기(Sport Stacking): 1.915초의 온라인 경매 "유행 아이템"에서 아시아를 석권한 43금의 전설'
-description: '2025년 대만 대표팀이 다롄 아시안컵에서 43금을 획득하고 7개 세계 기록을 경신하며, 한때 "구멍 뚫린 컵 쌓기"라는 조롱을 받았던 이 종목이 대만에서 가장 지배적인 경기 종목으로 부상했다. 린멍신(林孟欣)부터 세데크족 소녀 사마바쑤오(莎瑪巴紹)에 이르기까지, 대만 컵 쌓기는 0.001초의 한계를 추구하는 동시에 특수교육 재활과 일반-특수 통합교육(普特融合)에서 사회적 새로운 높이를 쌓아 올렸다.'
-category: Society
+title: "스포츠 스태킹: 1.915초의 온라인 쇼핑 '트렌드 아이템'에서 아시아를 휩쓴 43개의 금메달까지"
+description: "2025년 대만 대표팀은 다롄 아시아컵에서 43개의 금메달을 획득하고 7개의 세계 기록을 경신하며, 과거 '구멍 뚫린 컵 쌓기'라고 조롱받던 이 스포츠를 대만에서 가장 압도적인 경기 종목으로 만들었다. 린멍신부터 세데크족 소녀 샤마바샤오에 이르기까지, 대만의 스포츠 스태킹은 0.001초의 한계에 도전할 뿐만 아니라 특수 교육 재활과 통합 교육을 통해 사회적 새로운 높이를 쌓아 올리고 있다."
+date: 2026-04-28
+category: 'Society'
 tags:
   [
-    '경쟁 컵 쌓기',
+    '스포츠 스태킹',
     '린멍신',
-    '사마바쑤오',
+    '샤마바샤오',
     '세계 기록',
-    '일반-특수 통합',
-    '사회 공융',
+    '통합 교육',
+    '사회적 포용',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 10
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-05-01T22:19:01+08:00'
-featured: false
+translatedAt: '2026-11-02T01:58:48.852873+00:00'
 ---
 
 > **30초 요약:**

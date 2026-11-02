@@ -10,10 +10,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:45+08:00'
+translatedAt: '2026-11-02T01:33:38.877871+00:00'
 ---
 
 # 타이완의 스트리트 아트와 그래피티 문화
@@ -84,5 +84,5 @@ translatedAt: '2026-10-15T15:59:45+08:00'
 
 ## 연관 읽기
 
-- [타이완 현대 미술](/culture/台灣當代藝術) — 타이완 스트리트 아트와 현대 미술 생태계의 교차점
-- [타이완 전자 음악과 파티 문화](/ko/music/taiwan-electronic-music-and-party-culture) — 스트리트 아트와 서브컬처 뿌리를 공유하는 전자 음악 현장
+- [타이완 현대 미술](/ko/art/contemporary-art) — 타이완 거리 예술과 현대 미술 생태계의 교차점
+- [타이완 전자 음악과 파티 문화](/ko/music/taiwan-electronic-music-and-party-culture) — 거리 예술과 하위문화적 뿌리를 공유하는 전자 음악 씬

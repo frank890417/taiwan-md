@@ -11,10 +11,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-18T00:53:01+08:00'
+translatedAt: '2026-11-02T01:46:33.507443+00:00'
 ---
 
 > **30초 요약:** 1998년, 부동산 거물인 린민슝은 매년 적자를 기록하고 단 66개 매장만 남았던 군공교 복지점을 인수했다. 그는 '외부인'의 자세로 "20% 저렴, 2% 이윤"이라는 생존선을 정하고, 유니버설 슈퍼마켓과 대형마트 거인들 사이의 틈새를 비집고 슈퍼마켓의 살 길을 개척했다. 오늘날 추련복리센터는 연 매출 2천억 위안(대만 달러)을 돌파하고 1,200개 매장을 보유한 소매업 지배자가 되었지만, 그 빠른 확장의 배후에 있는 독점 논란과 디지털 전환의 고통은 이 '생활 플랫폼'이 앞으로 맞이할 20년을 시험대에 올리고 있다.
@@ -57,14 +57,14 @@ translatedAt: '2026-09-18T00:53:01+08:00'
 
 ---
 
-## 심화 독해
+## 연관 읽을거리
 
-- **[마스코트](/ko/lifestyle/mascot-culture-in-taiwan)** — 추련복리곰과 Open의 만남: 소매 마스코트 IP 경영학
-- **[타이완 편의점 문화](/ko/lifestyle/convenience-store-culture)** — 추련복리센터, 7-Eleven, 패밀리마트의 타이완 소매 시장 위치
-- **[타이완 배달 경제](/economy/台灣外送經濟)** — 추련복리센터의 스마트 배송은 어떻게 foodpanda/Uber Eats 시장에 진입했는가
-- **[타이완 모바일 결제](/ko/technology/taiwan-mobile-payment)** — 전체결제 등 여러 도구, 가맹점 수용부터 현금 비상까지, 보급과 범용성의 차이를 이해하다
-- **[타이완 광고사 역사](/ko/culture/taiwan-advertising-history)** — 추련복리센터 '경제 미학' 뒤의 오메이와 타이완 광고가 주의력 독점에서 감성 마케팅으로 이행한 100년사
-- **[타이완 기업: 유니버설 그룹](/ko/economy/taiwan-enterprise-uni-president)** — 유니버설이 까르푸를 인수하고 추련복리센터가 다준파를 인수하다, 타이완 소매업 두 거인의 통합 이야기의 또 다른 반쪽
+- **[마스코트](/ko/lifestyle/mascot-culture-in-taiwan)** — PX Mart 복리웅(福利熊)과 Open장(Open將): 소매업 마스코트의 IP 경영학
+- **[타이완 편의점 문화](/ko/lifestyle/convenience-store-culture)** — PX Mart, 7-Eleven, FamilyMart가 타이완 소매업에서 차지하는 위치
+- **[타이완 배달 경제](/ko/lifestyle/food-delivery-platforms-taiwan)** — PX Mart '샤오스다(小時達)'는 어떻게 foodpanda / Uber Eats 시장에 진입했나
+- **[타이완 모바일 결제](/ko/technology/taiwan-mobile-payment)** — 全支付(PX Pay) 등 다양한 도구, 가맹점 수용부터 현금 예비 수단까지, 보급과 범용성의 차이 이해하기
+- **[타이완 광고사](/ko/culture/taiwan-advertising-history)** — PX Mart '경제 미학' 뒤의 오길비, 그리고 타이완 광고가 주의력 독점에서 감동 마케팅으로 변화해 온 100년사
+- **[타이완 기업: 통일기업(Uni-President)](/ko/economy/taiwan-enterprise-uni-president)** — 통일그룹의 까르푸 인수와 PX Mart의 RT-Mart 합병, 타이완 소매업 양대 산맥 통합의 또 다른 이야기
 
 ## 참고 자료
 
