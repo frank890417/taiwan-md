@@ -1,15 +1,15 @@
 ---
-title: 'Hệ thống Chức vụ Trưởng Làng: 7.748 Vị trí do người dân bầu cử, đơn vị chính trị cơ sở sâu nhất của Đài Loan'
-description: 'Sáng sớm lúc 5 giờ 30 phút, văn phòng Trưởng Làng ở một con hẻm ở Quận Wanhua, Đài Bắc, cửa sổ kim loại bị kéo từ từ mở ra. Đèn phòng hành lực sáng hơn cả quán cà phê. Một Trưởng Làng đã bốn năm liền giữ chức đang kiểm kê danh sách cà phi giao cho hôm nay — ghi chép ai cần ăn mềm, ai gần đó vừa rồi khỏe mạnh, ai hôm qua vì bệnh đã về lại nhà. Bảng danh sách ghi tên 12 người cai chiếu, anh nhớ từng tên riêng như danh sách trong hệ thống dữ liệu làng, dù không có.'
+title: 'Chế độ Trưởng thôn, Trưởng ấp: 7.748 lãnh đạo dân cử, đơn vị chính trị cơ sở nhất của Đài Loan'
+description: 'Văn phòng ấp mở cửa lúc 5 giờ rưỡi sáng, trợ cấp sự vụ 54.000 Đài tệ, hơn 60% không đảng phái — Trưởng thôn, Trưởng ấp là chức danh chính trị ít mang tính "chính trị" nhất trong các cuộc bầu cử tại Đài Loan, đồng thời là minh chứng hoàn chỉnh nhất cho quá trình dân chủ hóa của hòn đảo này. Từ chế độ Bảo giáp thời Nhật thuộc đến việc trực tiếp dân cử từ năm 1950, vị trí có số lượng còn nhiều hơn cả 7-Eleven trên toàn Đài Loan này đã vận hành vai trò đại diện quan hệ địa phương suốt 80 năm qua.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Trưởng Làng',
+    'Trưởng thôn Trưởng ấp',
     'Tự trị cơ sở',
-    'Luật Hệ thống địa phương',
-    'Bảo bả (thời kỳ Nhật tâm)',
-    '2026 chọn quyền',
+    'Luật Chế độ Địa phương',
+    'Chế độ Bảo giáp thời Nhật thuộc',
+    'Bầu cử 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -18,259 +18,271 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: '837e22b9a'
-sourceContentHash: 'sha256:cce4699f9fdc3697'
-sourceBodyHash: 'sha256:48ef53002db1337d'
-translatedAt: '2026-07-28T08:16:22+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:968a60e9d47e825b'
+sourceBodyHash: 'sha256:c77c8cceb31c23cb'
+translatedAt: '2026-11-03T00:30:06+08:00'
 ---
 
-# Hệ thống Chức vụ Trưởng Làng: 7.748 Vị trí do người dân bầu cử, đơn vị chính trị cơ sở sâu nhất của Đài Loan
+# Chế độ Trưởng thôn, Trưởng ấp: 7.748 lãnh đạo dân cử, đơn vị chính trị cơ sở nhất của Đài Loan
 
-> **Tóm tắt 30 giây:** Trên toàn đảo, 7.748 Trưởng Làng — hơn nhiều so với số cửa hàng của chuỗi tiện lợi 7-Eleven. Nhiệm kỳ bốn năm, tháng thợ nghiệp khoảng 45.000 nhà nước đồng. Đây không phải là lương thực, mà là khoản hỗ trợ vận hành dành cho "người đại diện quan hệ địa phương." Trưởng Làng là **chức vụ duy nhất** trong các vị trí bầu cử có tỷ lệ người chưa gắn mác chính trị chiếm đa số, hơn sáu phần trăm không gắn bằng tờ khai tài khoản chính trị; tỷ lệ giữ chức lâu dài khiến cho lợi thế của người hiện nay gấp nhiều lần so với các công chức khác. Lịch sử chức vụ này bắt nguồn từ hệ thống bảo bả thời Nhật tâm, kế thừa bằng tên gọi khác sau chiến tranh, và từ năm 1950 đều được bầu cử trực tiếp — sớm hơn cả việc bầu cử các thị trấn và tỉnh. Trưởng Làng không giống như một "chính trị" truyền thống, nhưng đóng vai trò là bằng chứng hoàn chỉnh nhất về quyền tự trị cơ sở của Đài Loan.
-
----
-
-## Buổi sáng sớm tại Văn phòng Trưởng Làng
-
-Sáng sớm 5 giờ 30 phút, một cửa sổ kim loại ở một con hẻm ở Quận Wanhua, Đài Bắc, bị kéo từ từ mở ra. Văn phòng Trưởng Làng đèn sáng hơn cả quán cà phê. Một Trưởng Làng đã bốn năm liền giữ chức đang kiểm kê danh sách cà phi giao cho hôm nay — ghi chép ai cần ăn mềm, ai gần đó vừa rồi khỏe mạnh, ai hôm qua vì bệnh đã về lại nhà. Bảng danh sách ghi tên 12 người cai chiếu, anh nhớ từng tên riêng như danh sách trong hệ thống dữ liệu làng, dù không có.
+> **Tổng quan trong 30 giây:** Toàn Đài Loan có 7.748 trưởng thôn, trưởng ấp — nhiều hơn cả hơn 6.600 cửa hàng 7-Eleven. Nhiệm kỳ 4 năm, trợ cấp sự vụ hàng tháng là 54.000 Đài tệ; đây không phải lương, mà là khoản hỗ trợ văn phòng do chính phủ giao cho "người đại diện quan hệ địa phương". Trưởng thôn, trưởng ấp là chức danh duy nhất mà **ứng cử viên không đảng phái chiếm ưu thế (dominant)** trong các cuộc bầu cử tại Đài Loan, với hơn 60% không thuộc đảng phái nào; tỷ lệ tái đắc cử cao đến kinh ngạc, lợi thế của người đương nhiệm gấp nhiều lần so với các chức vụ công khác. Lịch sử của vị trí này có thể truy nguyên từ chế độ Bảo giáp thời Nhật thuộc, được đổi tên và kế thừa trực tiếp sau chiến tranh, và bắt đầu được dân cử từ năm 1950 — sớm hơn cả việc dân cử Thị trưởng hay Huyện trưởng. Trưởng thôn, trưởng ấp không giống "chính trị", nhưng lại là minh chứng cho sự phát triển của nền tự trị Đài Loan từ tầng lớp thấp nhất đi lên.
 
 ---
 
-## 7.748 Vị trí do Người Dân Bầu Cử
+## Văn phòng ấp mở cửa lúc 5 giờ rưỡi sáng
 
-7.748 — con số này lớn hơn nhiều so với số cửa hàng của chuỗi tiện lợi đầu tiên. Vào cuối năm 2024, tổng số cửa hàng của 7-Eleven trên toàn đảo khoảng 6.800, trong khi đó là 1.100 cửa hàng của Lotte Mart[^1]. Độ sâu của Trưởng Làng cao hơn cả số cửa hàng bạn đi mua cà phê hàng ngày.
+5 giờ rưỡi sáng, cánh cửa cuốn của một con hẻm tại quận Wanhua (Vạn Hoa), thành phố Đài Bắc chậm rãi được kéo lên. Đèn trong văn phòng ấp sáng trước cả các tiệm ăn sáng. Một trưởng ấp đã tái đắc cử ba nhiệm kỳ đang kiểm kê danh sách cơm hộp cần gửi đi trong ngày — trong danh sách có 12 người cao tuổi sống một mình, ai muốn ăn đồ mềm, ai vừa mới thay răng, ai hôm qua nhập viện nay vừa về nhà, ông ghi nhớ từng người một, còn chi tiết hơn cả hệ thống dữ liệu cư dân.
 
-Cấu trúc cụ thể (dựa trên thông báo bầu cử năm 2026 của Ủy ban Bầu cử và thống kê của Bộ Nội các về công dân)[^2]:
+7 giờ, ông chạy một vòng quanh khu vực bằng xe máy. Trên đường về văn phòng ấp, ông nhận được ba cuộc điện thoại: một hộ dân phản ánh đèn đường đầu hẻm bị nhấp nháy; một người mẹ muốn hỏi về việc đăng ký hoạt động cho cư dân vào học kỳ tới; một bà nội trợ phàn nàn rằng con chó nhà đối diện sủa suốt đêm qua, hy vọng trưởng ấp "qua nói một tiếng" — không phải là báo cảnh sát, mà là sang nhắc nhở.
 
-- **Trưởng Làng ở các thành phố trực thuộc trung ương** khoảng 4.800 vị trí — là đơn vị chính trị cơ sở nhất trong vòng sáu thành phố
-- **Chức vụ Trưởng Làng ở các tỉnh, thị xã** (khoảng 1.800 vị trí) — chủ yếu ở vùng đồng bằng Nam Bộ, hồ gươm, liêu hiếp, nam hạ, phong tục, và các tỉnh ngoại khác
-- **Trưởng Làng ở các tỉnh thành** (khoảng 1.100 vị trí) — ví dụ như Hạ Long thành phố, Hạ Long thành phố, Chi Liêng thành phố
-- **Tổng cộng 7.748 vị trí** (xác nhận cuối cùng dựa trên thông báo bầu cử năm 2026 của Ủy ban Bầu cử)
+9 giờ, ông mở máy tính, đăng nhập vào hệ thống Trưởng thôn, Trưởng ấp của Bộ Nội vụ để tải lên biên bản cuộc họp đại hội cư dân tối qua. 10 giờ, văn phòng quận gọi đến hỏi xem tuần sau ông có thể hỗ trợ một buổi tuyên truyền về hộ tịch hay không. 11 giờ, ông ngồi tại văn phòng tiếp một cựu quân nhân (榮民) vừa từ bệnh viện về, giúp ông ấy điền đơn xin phúc lợi — thực tế đơn này phải nộp ở văn phòng quận, nhưng vị cựu quân nhân này không biết cách đi tàu điện ngầm.
 
-Các 7.748 vị trí này đều được bầu cử đồng thời vào ngày 28 tháng 11 năm 2026 — cùng ngày với các chức vụ thành phố trực thuộc trung, tỉnh, đại biểu, chưởng mãn thị xã, đại biểu dân tộc nguyên thủy, và đại biểu dân tộc nguyên thủy thành phố — đây là "grid thứ chín" của từ "nine-in-one"[^3].
+Buổi chiều, ông đi tuần tra trong ấp. Chạng vạng tối, ông trở về văn phòng để sắp xếp tài liệu phối hợp địa điểm bỏ phiếu bầu cử — cuộc bầu cử "Cửu hợp nhất" (九合一選舉) ngày 28 tháng 11 năm 2026 đang đến gần, ông cần phải đi xác nhận mặt bằng cho điểm bỏ phiếu của ấp mình. 7 giờ tối, đại hội cư dân diễn ra. Sau khi tan họp lúc 9 giờ, ông mua một nắm cơm tại cửa hàng tiện lợi để ăn tối.
 
-Trong các chức vụ này, bảy chức vụ còn lại đều có biểu tượng chính trị, có tranh luận chính sách, có sự kiện hội đồng lớn. **Đơn vị duy nhất ngoại lệ** là Trưởng Làng — phần lớn các ứng cử viên không bằng chứng tượng chính trị, không tổ chức sự kiện hội đồng, không in thương mại DM đẹp mắt. Họ thường làm điều này là gõ cửa nhà dân, tự giới thiệu bản thân "tôi là người bạn kề bên," sau đó đưa thẻ giới thiệu vào hộp thư.
+Vị trưởng ấp này, trên toàn Đài Loan có tới **7.748 người**.
 
 ---
 
-## Nền tảng pháp lý: Ba đoạn cuối của "Luật Hệ thống địa phương"
+## 7.748 lãnh đạo dân cử
 
-Chức vụ Trưởng Làng này được quy định trong Ba đoạn cuối của "Luật Hệ thống địa phương" — toàn bộ luật 88 đoạn, Trưởng Làng xuất hiện ở vị trí cuối cùng[^4].
+7.748 — con số này lớn hơn cả số lượng cửa hàng của chuỗi cửa hàng tiện lợi hàng đầu. Cuối năm 2024, 7-Eleven có khoảng hơn 6.800 cửa hàng trên toàn Đài Loan, và PX Mart (全聯) có hơn 1.100 cửa hàng[^1]. Mật độ trưởng thôn, trưởng ấp còn cao hơn cả các cửa hàng tiện lợi nơi mọi người mua cà phê hay cơm nắm mỗi ngày.
 
-Đoạn 59 quy định mỗi làng có một Trưởng Làng, được bầu bằng pháp luật bởi người dân làng, nhiệm kỳ bốn năm, có thể giữ chức liên tục. Từ khóa then chính của đoạn này là "**giữ chức khi được bầu lại**" — không có giới hạn nhiệm kỳ. Một Trưởng Làng lý thuyết có thể giữ chức năm lần, tám lần, mười hai lần — chỉ cần bầu cử thắng mỗi bốn năm, người ấy có thể giữ chức mãi. Thực tế, có rất nhiều Trưởng Làng giữ chức hơn ba năm, và cũng không hiếm khi có người giữ chức hơn năm năm[^5].
+Cấu trúc cụ thể (dựa trên thông báo bầu cử năm 2026 của Ủy ban Bầu cử Trung ương và thống kê từ Cục Dân chính, Bộ Nội vụ) [^2]:
 
-Đoạn 60 quy định Trưởng Làng phải tuân th_order và giám sát của Chưởng mãn tỉnh, thị xã, hoặc thành phố — thực hiện công việc công nghệ và chuyên giao. Cụm từ "**chuyên giao**" là nội dung thực tế của Trưởng Làng trong công việc hàng ngày — luật không liệt kê cụ thể, nhưng thực hành thực tế bao phủ mọi khía cạnh.
+- **Trưởng ấp tại các thành phố trực thuộc trung ương** khoảng 4.800 vị — cấp cơ sở nhất trong phạm vi sáu đô thị lớn.
+- **Trưởng thôn tại các khu vực không phải thành phố trực thuộc trung ương** (hương, trấn) khoảng 1.800 vị — chủ yếu ở các huyện như Hoa Đông, Vân Gia Nam, Miêu Lật, Nam Đầu, Bình Đông.
+- **Trưởng ấp tại các khu vực không phải thành phố trực thuộc trung ương** (thành phố thuộc huyện) khoảng 1.100 vị — ví dụ như các ấp trong thành phố Cơ Long, thành phố Tân Trúc, thành phố Gia Nghĩa.
+- **Tổng cộng 7.748 vị** (con số cuối cùng sẽ căn cứ theo thông báo bầu cử năm 2026 của Ủy ban Bầu cử Trung ương).
 
-Đoạn 61 quy định Trưởng Làng là chức vụ không lương, nhưng **các công ty tỉnh, thị xã, hoặc thành phố sẽ xuất kế ngân sách cho chi trả hoạt động Trưởng Làng hàng tháng**. Từ năm 2007, khoản chi trả này đồng nhất là 45.000 nhà nước đồng[^6]. Ba chữ "không lương" rất quan trọng — nghĩa là Trưởng Làng **không phải là công nhân**, không có bảo hiểm xã hội, không có nghỉ hưu, không có hệ thống đánh giá công việc của công chức. Trưởng Làng nhận là "chi trả hoạt động," không phải lương thực.
+  7.748 vị trí này sẽ cùng được bầu lại, tập trung vào ngày 28 tháng 11 năm 2026 — cùng bỏ phiếu trong một lá phiếu với Thị trưởng thành phố trực thuộc trung ương, Huyện trưởng, Nghị sĩ, Thị trưởng hương trấn, Trưởng khu vực người bản địa, Đại biểu dân cư khu vực người bản địa và Đại biểu dân cư hương trấn. Đây chính là "ô thứ chín" của thuật ngữ "Cửu hợp nhất" (九合一選舉) [^3].
 
-Thiết kế pháp lý "không lương + 45.000 nhà nước đồng chi trả hoạt động" phản ánh một quan điểm tinh tế — Trưởng Làng được xác định như "**người dân địa phương có mong muốn phục vụ làng**" — không phải là nhân viên của quốc gia. Quan điểm này ảnh hưởng đến sinh kế chính trị của vị trí này.
-
----
-
-## Quyền hạn pháp lý vs. Công việc thực tế
-
-Luật quy định ba quyền hạn pháp lý[^4]:
-
-1. **Tổ chức họp đại hội người dân làng** — ít nhất một lần mỗi năm, thảo luận về công việc công cộng làng
-2. **Thực hiện công việc giao nhiệm của chính quyền tỉnh, thị xã, hoặc thành phố** — chuyển chính sách của chính phủ cấp cao xuống từng hộ gia đình
-3. **Phản ánh ý kiến dân cư** — đưa nhu cầu của người dân làng lên báo cáo
-
-Nhưng bất kỳ Trưởng Làng hiện nay đều sẽ nói với bạn, ba quyền hạn này chỉ là mặt trên mặt đángng. Danh sách công việc thực tế dài hơn[^7][^8]:
-
-**Giải quyết tranh chấp lân cận** — tràn ngập nước, tranh chấp chỗ đậu xe, tiếng ồn của thú cưng, tranh chấp phân loại rác thải. Trưởng Làng không phải là cảnh sát, không phải là thẩm phán, không phải là người giải quyết tranh chấp, nhưng thường xuyên là người cuối cùng trước khi xung đột kéo dài đến báo cáo cảnh sát hay tố quốc. Một Trưởng Làng có kinh nghiệm có thể giải quyết bảy phần trăm các tranh chấp lân cận tại không gian trà của văn phòng làng.
-
-**Chăm sóc người cai chiếu độc thân** — giao cà phê, đi cùng khám bệnh, nhắc nhở đến tiền điện nước, phát hiện người ở nhà không di chuyển trong vài ngày thì báo cáo. Chỉ số lão hóa dân số của Đài Loan đã vượt 100[^9], Trưởng Làng là người đầu tiên ngoài Bộ Xã hội nhận ra dấu hiệu bất thường của người cai chiếu.
-
-**Phối hợp chỗ bầu cử** — mỗi lần bầu cử, Ủy ban Bầu cử sẽ thiết lập hơn 17.000 chỗ bầu cử trên toàn đảo[^10], mỗi chỗ bầu cử cần xác nhận địa điểm, lối đi, và thiết bị hỗ trợ người khuyết tật — các quyền lợi này gần như nằm trong tay Trưởng Làng. Chỗ bầu cử thường được thiết lập tại trường cấp ba địa phương, trung tâm hoạt động cộng đồng, hay chùa chiền — quyền hạn phối hợp của các địa điểm này gần như nằm trong tay Trưởng Làng.
-
-**Báo cáo sự cố** — bão lũ, động đất, inundasi, cháy nổ. Trưởng Làng là nơi cuối cùng của hệ thống phòng chống thiên tai địa phương, khi tắt điện, tắt nước hoặc xảy ra cháy, người dân đầu tiên gọi điện không phải là 1999 hay 119, mà là Trưởng Làng.
-
-**Xây dựng cộng đồng** — hoa đăng trâu, hoa đăng lụa, du lịch mùa xuân, lớp học mẹ bỉ, vòng hội nghị trẻ em. Các sự kiện này không bắt buộc, nhưng Trưởng Làng làm tốt sẽ có danh tiếng tốt, và họ sẽ được giữ chức lâu dài.
-
-**Hỗ trợ hồ sơ hộ khẩu** — giúp người cai chiếu không biết dùng máy tính điền form, giải thích quy trình chuyển hồ sơ, truyền đạt chính sách mới của chính quyền tỉnh.
-
-Danh sách này không có giới hạn. Một Trưởng Làng đã giữ chức ba năm có thể nhớ ra tên của bảy mươi bảy phần trăm người dân làng — đây không phải là khả năng kinh doanh, mà là vốn quan hệ lân cận được tích lũy trong 12 năm.
+Trong chín loại chức danh, tám loại còn lại đều có biểu tượng đảng phái, có tranh luận chính sách và các buổi vận động quy mô lớn. **Ngoại lệ duy nhất** chính là trưởng thôn, trưởng ấp — hầu hết ứng cử viên không treo đảng kỳ, không tổ chức mít tinh lớn, cũng không in tờ rơi (DM) bóng bẩy. Việc họ làm là đến từng nhà nhấn chuông, tự giới thiệu "Tôi là [tên] ở cạnh nhà", rồi nhét danh thiếp vào hòm thư.
 
 ---
 
-## Từ Bảo bả đến Trưởng Làng: Bảy mươi năm tiếp nối hệ thống
+## Cơ sở pháp lý: Nằm ở ba điều cuối cùng của 《Luật Chế độ Địa phương》
 
-Đơn vị quản lý cơ sở này không phải do Nhật tâm thiết kế. Nguyên mẫu của nó là **hệ thống bảo bả thời Nhật tâm**[^11][^12].
+Địa vị pháp lý của chức danh trưởng thôn, trưởng ấp được viết từ Điều 59 đến Điều 61 của 《Luật Chế độ Địa phương》 — trong tổng số 88 điều của bộ luật này, trưởng thôn, trưởng ấp nằm ở những điều cuối cùng [^4].
 
-Năm 1898, ủy ban hành chính của Nhật tâm thiên địa đề xuất "Bộ luật Bảo bả," tái tổ chức lại cấu trúc bảo bả đã tồn tại từ thời cuối của triều đại Hán chính xác thành lớp cuối cùng của hệ thống quản lý thực dân. Mười hộ một bảo, mười bảo một bảo vệ, mỗi bảo có bảo trưởng và mỗi hộ có người dẫn độn — được chọn bằng người dân địa phương (dù danh sách đề xuất cần được ủy ban hành chính phê duyệt), nhiệm kỳ hai năm. Chức năng của hệ thống bảo bả rất rộng: đăng ký hộ khẩu, phòng chống dịch bệnh, thuế, giữ an ninh, tổng hợp công việc.
+Điều 59 quy định mỗi thôn hoặc ấp thiết lập một "Trưởng thôn" hoặc "Trưởng ấp", do cư dân bầu chọn theo pháp luật, nhiệm kỳ 4 năm, nếu được bầu lại thì có thể tiếp tục tại chức. Từ khóa quan trọng ở đây là "**được bầu lại thì có thể tiếp tục tại chức**" (連選得連任) — không có giới hạn số nhiệm kỳ. Về lý thuyết, một trưởng thôn có thể làm 5 nhiệm kỳ, 8 nhiệm kỳ hoặc 12 nhiệm kỳ — miễn là cứ mỗi bốn năm lại thắng cử một lần. Trên thực tế, có rất nhiều trưởng thôn đã tái đắc cử trên ba nhiệm kỳ, và việc tái đắc cử trên năm nhiệm kỳ cũng không phải là hiếm [^5].
 
-Hệ thống bảo bả hoạt động trên toàn đảo trong 47 năm, đến năm 1945 sau chiến tranh thì bị ngừng hoạt động. Nhưng "bảo bả" như một đơn vị quản lý cơ sở không thực sự biến mất — nó bị đổi tên.
+Điều 60 quy định trưởng thôn, trưởng ấp chịu sự chỉ đạo và giám sát của Thị trưởng (hương, trấn, thị, khu) và thực hiện các công vụ của thôn ấp cũng như các vấn đề được giao phó. Bốn chữ "**vấn đề được giao phó**" (交辦事項) chính là nội dung thực tế trong công việc hàng ngày của họ — luật pháp không liệt kê cụ thể, nhưng trên thực tế thì bao quát tất cả mọi thứ.
 
-Năm 1946, ủy ban hành chính của tỉnh Đài Loan đã ngừng bảo bả, thiết lập "làng" (khu vực nông thôn) và "thị xã" (khu vực đô thị)[^13]. "Bảo trưởng" đổi tên thành "Trưởng Làng" và "Trưởng Thị xã," nhưng ranh giới, số hộ khẩu, và cấu trúc tổ chức vẫn giữ nguyên. Nhiều người bảo bả thời Nhật tâm đã trực tiếp chuyển sang làm Trưởng Làng đầu tiên sau chiến tranh.
+Điều 61 quy định trưởng thôn, trưởng ấp là chức danh không hưởng lương (vô cấp chức), nhưng **được văn phòng hương (trấn, thị, khu) lập dự toán trợ cấp sự vụ cho trưởng thôn, trưởng ấp** và chi trả hàng tháng. Số tiền được ghi tại Điều 7 của 《Điều lệ Chi trả Phí Đại biểu Dân ý Địa phương và Trợ cấp Sự vụ cho Trưởng thôn, Trưởng ấp》: mỗi thôn/ấp là 50.000 Đài tệ mỗi tháng, các khu vực người bản địa sẽ được cộng thêm 20%. Cùng điều khoản này cũng gắn khoản tiền này với chế độ đãi ngộ của quân nhân và công chức; khi có sự điều chỉnh chung cho các đối tượng này, khoản trợ cấp cũng sẽ được điều chỉnh theo tỷ lệ tương ứng, số tiền sau điều chỉnh và ngày có hiệu lực sẽ do Bộ Nội vụ thông báo [^6]. Con số này đã đứng yên ở mức 45.000 Đài tệ trong thời gian dài, đến năm 2022 luật sửa đổi thành 50.000 Đài tệ, áp dụng từ ngày nhậm chức của các trưởng thôn mới vào ngày 25 tháng 12 cùng năm [^27]; Bộ Nội vụ thông báo vào tháng 7 năm 2026 sẽ điều chỉnh tăng lên, các thôn/ấp thông thường là 54.000 Đài tệ mỗi tháng, khu vực người bản địa là 64.800 Đài tệ, có hiệu lực hồi tố từ ngày 1 tháng 7 năm 2026; vào ngày đầu năm 2027, cùng với đợt tăng lương của quân nhân và công chức là 4%, số tiền sẽ lần lượt lên tới 56.160 Đài tệ và 67.392 Đài tệ [^28]. Ba chữ "**không hưởng lương**" (無給職) rất quan trọng — nó có nghĩa là trưởng thôn **không phải là công chức**, không có phúc lợi bảo hiểm y tế hay bảo hiểm lao động, không có lương hưu và không thuộc hệ thống đánh giá công chức. Thứ mà trưởng thôn nhận được là "trợ cấp sự vụ", không phải tiền lương.
 
-Từ năm 1950, tỉnh Đài Loan triển khai tự quản địa phương, Trưởng Làng chuyển thành **được bầu trực tiếp bởi người dân làng**[^13]. Điều này sớm hơn việc bầu cử các thị trấn và tỉnh — bầu cử các thị trấn và tỉnh mới được thực hiện trong lễ chọn thị trấn và tỉnh đầu tiên của tỉnh Đài Loan vào năm 1950[^14], Trưởng Làng và thị trấn, tỉnh cùng bắt đầu, nhưng **Trưởng Làng từng bị ngắt bầu cử**, trong khi bầu cử thị trấn và tỉnh lại chịu đựng nhiều sự chỉnh sửa qua các năm 1960-1990.
-
-Năm 1999, "Luật Hệ thống địa phương" được thông qua, hệ thống Trưởng Làng được tích hợp vào luật này, trở thành vị trí tự trị cơ sở thống nhất quốc gia[^4].
-
-Từ năm 1898 khi bảo bả được thiết lập, đến năm 1946 đổi tên, đến năm 1950 bầu cử trực tiếp, đến năm 1999 tích hợp pháp luật — bảy trăm năm tuần tục hệ thống này là bằng chứng về tính liên tục của quản lý cơ sở của Đài Loan. Khung hành chính thời Nhật tâm để lại, được tái sinh lại bằng nội dung bầu cử dân chủ sau chiến tranh, vận hành đến ngày nay.
+Thiết kế pháp lý về việc "không hưởng lương" nhưng kèm theo hơn 50.000 Đài tệ trợ cấp hàng tháng ẩn chứa một thái độ tinh tế — trưởng thôn được định vị là "**những người địa phương có tâm huyết phục vụ quê hương**", chứ không phải nhân viên của nhà nước. Định vị này ảnh hưởng đến toàn bộ nền kinh tế chính trị của chức danh này.
 
 ---
 
-## Tại sao vị trí này có tỷ lệ người chưa gắn mác chính trị cao?
+## Quyền hạn pháp định vs. Công việc thực tế
 
-Trong các chức vụ bầu cử, Trưởng Làng là **đơn vị duy nhất** có tỷ lệ người chưa gắn mác chính trị chiếm đa số[^15].
+Luật pháp quy định ba quyền hạn pháp định [^4]:
 
-Hiện tượng này không phải là ngẫu nhiên, mà là do quy mô quyết định.
+1. **Triệu tập đại hội cư dân thôn ấp** — ít nhất mỗi năm một lần để thảo luận về các công việc chung của thôn ấp.
+2. **Thực hiện các vấn đề được giao phó bởi văn phòng hương trấn thị khu** — đưa các chính sách của chính quyền cấp trên đến từng hộ gia đình.
+3. **Phản ánh ý kiến dân cư** — báo cáo các nhu cầu của cư dân lên cấp trên.
 
-**Quy mô quá nhỏ:** Một thị xã trung bình có 2.000 đến 5.000 người, và các làng ở nông thôn có thể chỉ có 200-500 người[^16]. Ở quy mô nhỏ này, khả năng thắng của một ứng cử viên không phụ thuộc vào quan điểm chính trị, mà phụ thuộc vào **người ấy có nhận diện hay không với người dân làng, và người dân làng có nhận diện hay không với người ấy**. Một ứng cử viên Trưởng Làng có thể nhớ tên người dân làng, sẽ có giá trị hơn bất kỳ lời đề nghị chính trị nào.
+Nhưng bất kỳ trưởng thôn, trưởng ấp đương nhiệm nào cũng sẽ nói với bạn rằng ba điều này chỉ là phần nổi của tảng băng chìm. Danh sách công việc thực tế dài hơn nhiều [^7][^8]:
 
-**Đảng phủ mạnh hơn tài trợ chính trị:** Các tổ chức địa phương như hội họa ngũ sĩ (đặc biệt ở miền Nam và các đảo), hội cũ họ, hội đình đệ, hội nông dân, hội cá nhân, hội công nhân — sức ảnh hưởng của các tổ chức này ở cấp độ làng vượt trội so với các đảng chính trị[^17]. Một ứng cử viên có thể thuộc hội đình đệ và hội nông dân, nhưng khi bầu cử không bằng các biểu tượng chính trị, người ấy chỉ bằng chứng tượng riêng.
+**Hòa giải tranh chấp hàng xóm** — rò rỉ nước giữa tầng trên và tầng dưới, tranh chấp chỗ đậu xe, tiếng ồn thú cưng, tranh cãi về phân loại rác. Trưởng thôn không phải cảnh sát, không phải thẩm phán, cũng không phải trọng tài, nhưng thường là lớp đệm cuối cùng trước khi xung đột dẫn đến việc báo cảnh sát. Một trưởng ấp có kinh nghiệm có thể giải quyết 70% các tranh chấp hàng xóm ngay tại phòng trà của văn phòng ấp.
 
-**Lợi thế giữ chức rất mạnh:** Tỷ lệ giữ chức Trưởng Làng lâu dài kéo dài ở mức bảy đến tám phần trăm[^15]. Một Trưởng Làng đã giữ chức ba năm đã phục vụ mười hai năm, anh ấy quen thuộc với mỗi con hẻm, mỗi địa chỉ, mỗi người xử lý công việc tại văn phòng tỉnh — vốn kinh nghiệm này là người mới không thể theo kịp trong vòng bốn tháng chương trình bầu cử.
+**Chăm sóc người cao tuổi sống một mình** — đưa cơm hộp, đi cùng khi đi khám bệnh, nhắc nhở đóng tiền điện nước, báo cáo khi thấy nhà dân nhiều ngày không có động tĩnh. Chỉ số già hóa của Đài Loan đã vượt quá 100 [^9], trưởng thôn là những người đầu tiên phát hiện ra sự bất thường của người cao tuổi ngoài cơ quan xã hội.
 
-**Biểu tượng chính trị có thể là bất lợi:** In biểu tượng chính trị lên tài liệu Trưởng Làng, có thể khiến một phần dân số khác quan điểm phản cảm. Trưởng Làng cần phục vụ "tất cả người dân làng" — bất kể quan điểm — nên việc gắn bằng chính trị sẽ có chi phí cao hơn lợi ích. Nhiều Trưởng Làng dù thực sự có xu hướng chính trị nhất định, công khai đều đăng ký là không gắn mác chính trị.
+**Phối hợp địa điểm bỏ phiếu bầu cử** — trong mỗi kỳ bầu cử, Ủy ban Bầu cử Trung ương phải thiết lập hơn 17.000 điểm bỏ phiếu trên toàn Đài Loan [^10], mỗi điểm bỏ phiếu đều cần trưởng thôn hỗ trợ về mặt bằng, luồng di chuyển và các thiết bị không rào cản. Các điểm bỏ phiếu thường được đặt tại trường tiểu học, trung tâm hoạt động hoặc đền chùa trong ấp — quyền phối hợp các địa điểm này gần như nằm trong tay trưởng thôn.
 
-Bốn yếu tố này tích lũy, tạo nên sinh thái độc đáo của bầu cử Trưởng Làng: **chính trị không phải là biến số cốt lõi, mà là quan hệ cá nhân và hồ sơ phục vụ mới là quan trọng.**
+**Thông báo thiên tai** — bão, động đất, ngập lụt, hỏa hoạn. Trưởng thôn là dây thần kinh cuối cùng của hệ thống phòng chống thiên tai địa phương; khi mất điện mất nước, cuộc gọi đầu tiên mà cư dân thực hiện thường không phải cho số 1999 cũng chẳng phải 119, mà là cho trưởng thôn.
 
----
+**Xây dựng cộng đồng** — tiệc nướng Trung thu, trò chơi trứng ngày Đoan Ngọ, du lịch dưỡng lão, lớp học dành cho các bà mẹ, lớp năng khiếu cho trẻ em. Những hoạt động này không mang tính bắt buộc, nhưng những trưởng thôn biết tổ chức sẽ có uy tín tốt và có thể tái đắc cử đến năm nhiệm kỳ.
 
-## Sinh kế chính trị: 45.000 nhà nước đồng không phải lương thực
+**Hỗ trợ hộ tịch** — giúp đỡ người già không biết dùng máy tính điền đơn, giải thích quy trình chuyển hộ khẩu, truyền đạt các chính sách mới của văn phòng quận.
 
-Chi trả hoạt động 45.000 nhà nước đồng mỗi tháng, con số này thường bị hiểu lầm là "lương thực Trưởng Làng 45.000 nhà nước đồng" — không phải[^6].
-
-Ba chữ "chi trả hoạt động" có ý nghĩa riêng: Khoản tiền này không dành cho lương thực Trưởng Làng cá nhân, mà là ngân sách nhà nước trả tiền vận hành — bao gồm điện nước mạng internet tại văn phòng làng, giấy tờ văn phòng, xăng cho công việc, tiền dùng cho người dân làng trong hoạt động, in và thiết kế tài liệu hoạt động làng. **Trưởng Làng cần tự bù đắp mọi chi phí liên quan đến chức vụ từ khoản chi trả này.**
-
-Thực tế, một Trưởng Làng nghiên cứu và phục vụ chân chất, 45.000 nhà nước đồng thường không đủ dùng. Nhiều Trưởng Làng sẽ tự bỏ tiền bổ sung chênh lệch — in thông tin năm mới giao cho người dân làng, phát tiền mừng năm đối với người cai chiếu độc thân, thuê thiết bị cho hoạt động.
-
-**Chi trả hoạt động khác từ các tỉnh, thành phố:** Ngoài chi trả hoạt động hàng tháng, mỗi tỉnh, thành phố còn lên kế hoạch riêng cho chi trả hoạt động làng, chi trả công việc làng, chi trả hoạt động năm mới, v.v., số tiền tùy thuộc vào tình trạng tài chính của tỉnh, thành phố[^18]. Các khoản này dùng riêng, cần kèm theo chứng từ kế toán.
-
-**Không thể nhận lương chính thức như đại biểu tỉnh:** Đại biểu tỉnh như một công chức, tháng họ nhận học bạ, chi phí tham dự, kiểm tra sức khỏe và tổng cộng khoảng mười lăm nghìn nhà nước đồng, kèm theo bảo hiểm xã hội và khoản trợ cấp hội đồng. Trưởng Làng không có những thứ này — họ không phải là công chức.
-
-**Thường xuyên làm việc phụ:** Do thiết kế "không lương + 45.000 nhà nước đồng chi trả hoạt động," nhiều Trưởng Làng phải làm việc phụ để sinh sinh — lái xe taxi, mở tiệm nhỏ, làm nhà bảo hiểm, hoặc khi về hưu làm Trưởng Làng để nhận lương hưu + chi trả hoạt động. Không có nhiều người chỉ dựa vào chức vụ Trưởng Làng để sinh sinh, đặc biệt là các làng nông thôn nhỏ ở miền Nam.
-
-Cấu trúc sinh kế này quyết định loại người nào sẽ xuất hiện tranh cử Trưởng Làng — thường là người đã có nền tảng sinh kế, muốn phục vụ làng, có thời gian, và có mạng lưới quan hệ rộng rãi. Người trẻ chọn làng trưởng có yếu tố cấu trúc khó khăn — không phải vì không đủ tài năng, mà vì sinh kế không đủ.
+Danh sách này là không giới hạn. Một trưởng ấp đã tái đắc cử ba nhiệm kỳ có thể gọi tên được 70-80% hộ dân trong ấp — đây không phải là năng lực bán hàng, mà là vốn liếng quan hệ láng giềng tích lũy suốt 12 năm.
 
 ---
 
-## Áp lực cấu trúc
+## Từ Bảo giáp đến Thôn ấp: 80 năm kế thừa chế độ
 
-Hệ thống Trưởng Làng vận hành bảy mươi năm, tích lũy một số áp lực chưa được giải quyết hoàn toàn.
+Đơn vị quản trị địa phương "thôn ấp" này không phải do Trung Hoa Dân Quốc phát minh ra. Tiền thân của nó là **chế độ Bảo giáp** thời kỳ Nhật thuộc [^11][^12].
 
-**Khoảng cách giữa đô thị và nông thôn lớn đến mức:** Người dân trong một thị xã ở Đài Bắc có thể có hơn một mươi nghìn người, nhưng làng ở nông thôn có thể chỉ có 200 người. Cùng 45.000 nhà nước đồng chi trả hoạt động, cùng cấu trúc lương, khối lượng công việc khác nhau tới mức hai mươi lần[^20]. Trưởng Làng ở đô thị phục vụ người dân dày đặc, công việc phức tạp; Trưởng Làng ở nông thôn phục vụ ít người nhưng phạm vi địa lý có thể kéo dài qua nhiều làng tự nhiên, cần di chuyển một vòng có thể mất hai ba giờ.
+Năm 1898, Phủ Tổng đốc Đài Loan thời Nhật thuộc ban hành 《Điều lệ Bảo giáp》, tổ chức lại hệ thống Bảo giáp sẵn có từ cuối thời nhà Thanh thành mạng lưới quản trị cơ sở nhất của thực dân. Mười hộ một Giáp, mười Giáp một Bảo, mỗi Bảo thiết lập Bảo chính, mỗi Giáp thiết lập Giáp trưởng — do cư dân địa phương tự bầu chọn (mặc dù danh sách đề cử cần được Phủ Tổng đốc phê duyệt), nhiệm kỳ hai năm. Chức năng của chế độ Bảo giáp rất rộng: đăng ký hộ khẩu, phòng chống dịch bệnh, thu thuế, duy trì an ninh và huy động lao dịch.
 
-Khoảng cách này đã được đề xuất sửa đổi — ví dụ điều chỉnh số tiền chi trả dựa trên dân số, nhưng mỗi lần sửa đổi luật đều gặp khó khăn do "7.748 vị trí Trưởng Làng trên toàn quốc diễn biến quá rộng."
+Chế độ Bảo giáp đã vận hành tại Đài Loan trong 47 năm, cho đến khi bị bãi bỏ sau chiến tranh vào năm 1945. Tuy nhiên, đơn vị cơ sở "Bảo giáp" không thực sự biến mất — nó chỉ được đổi tên.
 
-**Tỷ lệ phụ nữ thấp:** Trưởng Làng truyền thống thường là nam giới. Tỷ lệ phụ nữ tham gia chính trị ở cấp đại biểu, hội đồng, thị trấn và tỉnh đang tăng dần, nhưng tỷ lệ phụ nữ ở cấp Trưởng Làng tăng chậm hơn[^21]. Nguyên nhân phức tạp: các không gian chính trị lân cận truyền thống (chùa chiền, hội nông dân, hội đình đệ) có ngưỡng cử tham gia phụ nữ cao; công việc Trưởng Làng kéo dài và không định kỳ gây áp lực lên trách nhiệm chăm sóc gia đình với phụ nữ; mạng lưới tài trợ chương trình truyền thống chủ yếu do nam giới lãnh đạo.
+Năm 1946, Ban Hành chính Tỉnh Đài Loan bãi bỏ Bảo giáp, thay thế bằng "Thôn" (khu vực nông thôn) và "Ấp" (khu vực đô thị) [^13]. Chức danh "Bảo chính" được đổi thành "Trưởng thôn", "Trưởng ấp", nhưng ranh giới, số hộ và cấu trúc tổ chức về cơ bản là kế thừa. Nhiều Bảo chính thời Nhật thuộc đã trực tiếp chuyển tiếp trở thành những trưởng thôn, trưởng ấp đầu tiên sau chiến tranh trong đợt cải cách năm 1946.
 
-Gần đây, các khu đô thị đang xuất hiện nhiều Trưởng Làng phụ nữ — đặc biệt là ở các thị xã trẻ ở Đài Bắc, Đài Nam, Taipei, Taoyuan — nhưng tỷ lệ trung bình quốc gia vẫn thấp.
+Từ năm 1950, khi tỉnh Đài Loan thực hiện tự trị địa phương, trưởng thôn và trưởng ấp đã được chuyển sang hình thức **do cư dân trực tiếp bầu chọn** [^13]. Thời điểm này còn sớm hơn cả việc dân cử Thị trưởng hay Huyện trưởng — việc dân cử Thị trưởng/Huyện trưởng phải đợi đến kỳ bầu cử đầu tiên của tỉnh Đài Loan vào năm 1950 mới được thực hiện [^14]. Trưởng thôn và Thị trưởng/Huyện trưởng cùng xuất phát một lúc, nhưng **việc dân cử trưởng thôn chưa bao giờ bị gián đoạn**, trong khi việc dân cử Thị trưởng/Huyện trưởng đã trải qua vài lần điều chỉnh luật pháp từ trung ương trong giai đoạn 1960-1990.
 
-**Hiện tượng "làng người đầu":** Một số làng bị chỉ trích là không phải là đơn vị tự trị thực sự, mà chỉ là sự mở rộng của quan hệ chính trị[^22]. Thuật ngữ "làng người đầu" chỉ ra rằng trong một số làng, cuộc bầu cử gần như không có cạnh tranh, Trưởng Làng giữ chức hai ba mươi năm, tỷ lệ tham dự họp đại hội người dân thấp, và văn phòng làng thực sự nằm trong tay một mạng lưới quan hệ nhất định. Hiện tượng này không phổ biến, nhưng thường xuyên được đề cập trong các nghiên cứu học thuật và các tổ chức công dân khi thảo luận về chất lượng tự trị cơ sở.
+Năm 1999, 《Luật Chế độ Địa phương》 được thông qua, chế độ trưởng thôn, trưởng ấp được tích hợp vào bộ luật này, chính thức trở thành chức danh tự trị cơ sở thống nhất trên toàn quốc [^4].
 
-Các đề xuất sửa đổi bao gồm: bắt buộc công khai tài sản khai báo của Trưởng Làng (hiện tại trong số 7.748 vị trí, chỉ một phần có điều kiện khai báo), thiết lập hệ thống đánh giá dịch vụ Trưởng Làng, và tăng cường quyền lợi họp đại hội người dân để người dân có quyền tham gia thực sự. Các đề xuất này cho đến nay chưa được chuyển thành quy chế thống nhất trên toàn quốc.
+Từ việc thiết lập Bảo giáp năm 1898, đến đổi tên năm 1946, đến dân cử trực tiếp năm 1950, và tích hợp pháp lý năm 1999 — **sự kế thừa chế độ suốt 128 năm** này là minh chứng cho tính liên tục trong quản trị cơ sở của Đài Loan. Khung hành chính để lại từ chế độ thực dân Nhật thuộc đã được lấp đầy bởi nội dung dân cử sau chiến tranh, và vẫn vận hành cho đến ngày nay.
 
 ---
 
-## So sánh quốc tế: Trưởng Làng rất đặc sách của Đài Loan
+## Tại sao chức danh này lại chiếm ưu thế không đảng phái
 
-Nhiều quốc gia có "đơn vị chính trị cơ sở nhất," nhưng cách hoạt động khác nhau.
+Trong chín loại chức danh, trưởng thôn, trưởng ấp là **duy nhất** có tỷ lệ không đảng phái chiếm đa số [^15].
 
-**Nhật Bản: Chưởng mãn hội đồng (tổ chức địa phương)** — các hội đồng thị xã, hội đồng tỉnh, hội đồng quận ở Nhật Bản là các tổ chức phi nhà nước, **không phải là lớp quản lý chính thức của nhà nước**[^23]. Chưởng mãn hội đồng được chọn bằng người dân, không có quyền lực pháp lý, và việc tham gia vào hội đồng cũng là tùy chọn. Nhật Bản không có vị trí bầu cử chính trị tương đương Trưởng Làng — vị trí bầu cử chính trị sâu nhất của Nhật Bản là đại biểu hội đồng thị xã.
+Hiện tượng này không phải ngẫu nhiên, mà do quy mô quyết định.
 
-**Hàn Quốc: Hệ thống Trưởng đơn vị (통반장 제도)** — Hàn Quốc có "đơn vị" (통) và "đơn vị con" (반) dưới chùa, Trưởng đơn vị và Trưởng đơn vị con được chọn bằng người dân hoặc do chính quyền thị xã phân công[^24]. Hệ thống này phẳng hơn Trưởng Làng Đài Loan, nhưng quyền lực và nguồn lực của Trưởng đơn vị và Trưởng đơn vị con thấp hơn nhiều so với Trưởng Làng Đài Loan.
+**Quy mô quá nhỏ**: Trung bình một ấp có từ 2.000 đến 5.000 dân, còn một thôn ở vùng nông thôn có thể chỉ có 200-500 người [^16]. Ở quy mô này, việc ứng cử viên có thắng hay không không phụ thuộc vào lập trường đảng phái, mà phụ thuộc vào việc **họ có quen biết cư dân hay không, và cư dân có biết họ hay không**. Một ứng cử viên trưởng thôn có thể gọi tên từng hộ dân sẽ hiệu quả hơn bất kỳ sự đề cử nào từ các chính đảng.
 
-**Pháp: Chưởng mãn maire** — Chưởng mãn ở Pháp có quyền lực thực sự, có thể ban hành lệnh hành chính, ký xác nhận giấy tờ sinh nhập kết hôn, và thực hiện ngân sách thành phố[^25]. Chưởng mãn ở Pháp gần như tương đương với Trưởng Làng ở cấp tỉnh, thành phố, không phải Trưởng Làng cấp làng.
+**Phe phái mạnh hơn đảng phái**: Các tổ chức địa phương như dòng tộc (đặc biệt ở miền Trung, miền Nam và các đảo), hội đồng hương, ban quản lý đền chùa, hiệp hội nông nghiệp, hiệp hội ngư nghiệp, công đoàn ngành nghề — tầm ảnh hưởng của các tổ chức này ở cấp thôn ấp lớn hơn nhiều so với chính đảng [^17]. Một ứng cử viên có thể vừa thuộc ban quản lý một ngôi đền, vừa thuộc một hiệp hội nông nghiệp, nhưng khi bầu cử họ sẽ không treo logo của những tổ chức đó; cái họ treo chính là tên của mình.
 
-**Hoa Kỳ: Chưởng mãn khu vực (precinct captain)** — trong một số tiểu bang, vị trí "khu vực" (precinct) có chưởng mãn, nhưng đây là vị trí tổ chức nội bộ của đảng, không phải là công chức chính phụ[^26].
+**Lợi thế đương nhiệm cực mạnh**: Tỷ lệ tái đắc cử của trưởng thôn luôn duy trì ở mức trên 70-80% [^15]. Một trưởng thôn đã làm ba nhiệm kỳ tức là đã phục vụ suốt 12 năm, họ thông thuộc số hiệu đèn đường của từng con hẻm, hoàn cảnh gia đình của từng hộ, và cả người phụ trách tại các cửa sổ hành chính của văn phòng công sở — vốn liếng tích lũy này là thứ mà ứng cử viên mới rất khó có thể đuổi kịp trong vòng 4 tháng vận động tranh cử.
 
-So sánh lại, **Trưởng Làng Đài Loan là một phương tiện kết hợp độc đáo**: vị trí được bầu cử là công chức chính trị có quyền lực pháp lý, có quyền hạn cụ thể, có ngân sách hỗ trợ, và có 7.748 vị trí phổ biến trên toàn quốc; nhưng được xác định là "không lương," không phải là công chức, mạnh mẽ là địa phương, ít tượng trưng chính trị. Loại phương tiện này có thể là kết quả của sự tiếp nối từ hệ thống bảo bả thời Nhật tâm, và được tái sinh lại bằng nội dung bầu cử dân chủ sau bảy mươi năm tự trị.
+**Đảng phái đôi khi lại là một gánh nặng**: Việc in biểu tượng đảng phái lên tài liệu vận động của trưởng thôn có thể gây phản cảm cho một nửa số cư dân có lập trường khác. Trưởng thôn cần phục vụ "tất cả cư dân" — bất kể lập trường nào — vì vậy cái giá phải trả khi treo đảng kỳ cao hơn lợi ích thu về. Nhiều trưởng thôn dù riêng tư có thiên hướng theo một đảng nào đó, nhưng khi công khai vẫn đăng ký là không đảng phái.
+
+Sự cộng hưởng của bốn yếu tố này đã tạo nên một hệ sinh thái độc đáo cho bầu cử trưởng thôn, trưởng ấp: **Đảng phái không phải biến số cốt lõi, quan hệ cá nhân và hồ sơ phục vụ mới là then chốt**.
+
+---
+
+## Kinh tế chính trị: 54.000 Đài tệ không phải tiền lương
+
+Con số 54.000 Đài tệ trợ cấp sự vụ hàng tháng thường bị hiểu lầm là "lương tháng của trưởng thôn là 54.000 Đài tệ" — nhưng thực tế không phải vậy [^6].
+
+**Ý nghĩa của cụm từ "trợ cấp sự vụ"**: Khoản tiền này không phải lương cá nhân cho trưởng thôn, mà là chi phí vận hành do chính phủ chi trả — bao gồm điện nước internet của văn phòng ấp, văn phòng phẩm, photocopy, xăng xe đi công tác, trà nước bánh ngọt tiếp đãi cư dân, và chi phí in ấn bản tin hoặc tờ rơi hoạt động của thôn ấp. **Trưởng thôn phải tự chi trả mọi khoản chi liên quan đến chức danh** bằng cách khấu trừ từ khoản trợ cấp này.
+
+Trên thực tế, với một trưởng thôn tận tâm phục vụ, 54.000 Đài tệ thường không đủ dùng. Nhiều trưởng thôn phải tự bỏ tiền túi để bù đắp phần thiếu hụt — như in câu đối Tết tặng cư dân, phát bao lì xì cho người già neo đơn dịp năm mới, hay bù tiền thuê thiết bị khi tổ chức hoạt động.
+
+**Có thêm các khoản trợ cấp hoạt động khác**: Ngoài trợ cấp sự vụ hàng tháng, chính quyền các huyện, thành phố còn lập các mục như trợ cấp hoạt động thôn ấp, trợ cấp nghiệp vụ thôn ấp, trợ cấp chúc Tết, v.v., với số tiền dao động tùy theo tình hình tài chính của địa phương [^18]. Các khoản này được quy định sử dụng cho mục đích cụ thể và phải có chứng từ quyết toán.
+
+**Không được nhận lương chính thức như Nghị sĩ**: Nghị sĩ huyện/thành phố là công chức, tổng thu nhập từ phí nghiên cứu, phí tham dự họp, khám sức khỏe... lên tới hơn 100.000 Đài tệ [^19], đồng thời có bảo hiểm y tế và trợ cấp khảo sát nghị viện. Trưởng thôn không có những thứ này — họ không phải là công chức.
+
+**Việc làm thêm rất phổ biến**: Do thiết kế "không hưởng lương + hơn 50.000 Đài tệ trợ cấp sự vụ", nhiều trưởng thôn phải làm thêm nghề tay trái để sinh sống — như lái taxi, kinh doanh nhỏ, đại lý bảo hiểm, hoặc sau khi nghỉ hưu thì làm trưởng thôn để nhận lương hưu cộng với trợ cấp. Không có nhiều người có thể sống hoàn toàn dựa vào công việc trưởng thôn, đặc biệt là ở các thôn nhỏ tại miền Trung và miền Nam.
+
+Cấu trúc kinh tế này quyết định loại người nào sẽ ra tranh cử trưởng thôn — thường là **những người đã có nền tảng kinh tế, muốn phục vụ quê hương, có thời gian và mạng lưới quan hệ rộng**, thuộc độ tuổi trung niên đến nghỉ hưu. Đối với giới trẻ, việc tranh cử trưởng thôn gặp khó khăn về mặt cấu trúc — không phải là họ không trúng cử được, mà là họ không thể trụ vững về mặt kinh tế.
+
+---
+
+## Những căng thẳng mang tính cấu trúc
+
+Chế độ trưởng thôn, trưởng ấp vận hành suốt 80 năm đã tích lũy một số căng thẳng chưa được giải quyết triệt để.
+
+**Khoảng cách lớn giữa đô thị và nông thôn**: Một ấp tại quận Xinyi (Tín Nghĩa), thành phố Đài Bắc có thể có dân số hơn 10.000 người, nhưng một thôn miền núi ở Hualien (Hoa Liên) có thể chỉ có 200 người. Cùng một mức trợ cấp sự vụ, cùng cấu trúc tiền lương, nhưng khối lượng công việc chênh lệch tới hơn 20 lần [^20]. Trưởng ấp đô thị đối mặt với mật độ dân số cao và các thủ tục hành chính phức tạp; trưởng thôn nông thôn tuy ít dân nhưng phạm vi địa lý có thể trải dài qua nhiều làng tự nhiên, chạy một vòng mất hai đến ba tiếng đồng hồ.
+
+Sự chênh lệch này từng được đề xuất cải cách — ví dụ như điều chỉnh mức trợ cấp theo quy mô dân số — nhưng mỗi lần sửa luật đều khó tiến triển vì "việc động chạm đến 7.748 thôn ấp trên toàn quốc là quá rộng lớn".
+
+**Tỷ lệ phụ nữ còn thấp**: Trưởng thôn truyền thống thường do nam giới chiếm ưu thế (dominant). Tỷ lệ tham gia chính trị cơ sở của phụ nữ Đài Loan đã tăng dần ở cấp đại biểu dân cử, nghị sĩ, thị trưởng/huyện trưởng, nhưng tỷ lệ phụ nữ ở cấp trưởng thôn tăng lên rất chậm [^21]. Nguyên nhân rất phức tạp: các không gian chính trị láng giềng truyền thống (đền chùa, hiệp hội nông ngư nghiệp, dòng tộc) có rào cản tham gia cao đối với phụ nữ; thời gian làm việc của trưởng thôn dài và không ổn định là trở ngại cấu trúc đối với phụ nữ vốn có trách nhiệm chăm sóc gia đình nặng nề hơn; mạng lưới nguồn lực tranh cử truyền thống cũng do nam giới nắm giữ.
+
+Những năm gần đây, tại các khu vực đô thị xuất hiện ngày càng nhiều nữ trưởng ấp — đặc biệt là ở các ấp trẻ thuộc Đài Bắc, Tân Bắc, Đài Trung, v.v. — nhưng trung bình toàn quốc vẫn còn thấp.
+
+**Hiện tượng "Ấp người đầu" (人頭里)**: Một số ít thôn ấp bị chỉ trích là sự mở rộng của mạng lưới quan hệ chính trị thay vì thực sự tự trị [^22]. Cái gọi là "Ấp người đầu" ám chỉ những ấp mà bầu cử hầu như không có cạnh tranh, người đương nhiệm tái đắc cử hai, ba mươi năm, tỷ lệ tham dự đại hội cư dân cực thấp, và văn phòng ấp thực chất bị thao túng bởi một nhóm quan hệ nhất định. Hiện tượng này chiếm tỷ lệ không cao, nhưng thường xuyên được nhắc đến trong các cuộc thảo luận học thuật và của các tổ chức dân sự về chất lượng tự trị cơ sở.
+
+Các thảo luận cải cách tương ứng bao gồm: bắt buộc công khai kê khai tài sản trưởng thôn (hiện tại chỉ một phần trong số 7.748 vị trí phải kê khai), đưa vào cơ chế đánh giá phục vụ trưởng thôn, tăng cường địa vị pháp lý của đại hội cư dân để người dân có quyền tham gia thực sự. Những thảo luận này cho đến nay vẫn chưa hình thành được một phiên bản sửa đổi luật thống nhất toàn quốc.
+
+---
+
+## So sánh quốc tế: Trưởng thôn rất "Đài Loan"
+
+Nhiều quốc gia đều có "đơn vị quản trị địa phương cơ sở nhất", nhưng logic vận hành lại khác nhau.
+
+**Nhật Bản: Chủ tịch hội tự trị (Địa duy đoàn thể)** — Các hội phường (Chōnaikai), hội tự trị, hội khu của Nhật Bản là các tổ chức phi lợi nhuận dựa trên mối liên hệ địa phương, **không phải là cấp quản trị chính thức của chính phủ** [^23]. Chủ tịch hội tự trị do cư dân bầu chọn, không có tính cưỡng chế pháp lý, và việc tham gia vào hội tự trị cũng là tự nguyện. Nhật Bản không có "chức vụ công địa phương dân cử" tương đương với trưởng thôn Đài Loan — chức vụ dân cử cơ sở nhất là Nghị sĩ thành phố/thị trấn/làng.
+
+**Hàn Quốc: Chế độ Thống-Ban (Tong-Ban)** — Dưới cấp "Động" của Hàn Quốc có "Thống" (tong) và "Ban" (ban), Trưởng thống và Trưởng ban do cư dân bầu chọn hoặc do chính quyền Động bổ nhiệm [^24]. Chế độ này phẳng hơn so với Đài Loan, nhưng quyền hạn và nguồn lực của Trưởng thống/Trưởng ban ít hơn nhiều so với trưởng thôn Đài Loan.
+
+**Pháp: Thị trưởng (Maire)** — Thị trưởng của một ngôi làng ở Pháp có quyền hành chính thực chất, có thể ban hành mệnh lệnh hành chính, ký giấy chứng sinh, giấy chứng nhận kết hôn và thực hiện ngân sách đô thị [^25]. Thị trưởng ở Pháp gần với cấp Thị trưởng hương trấn của Đài Loan hơn là cấp trưởng thôn.
+
+**Mỹ: Precinct captain** — Ở một số bang tại Mỹ có vai trò "captain" trong khu vực bầu cử (precinct), nhưng đây là chức vụ trong tổ chức nội bộ của đảng phái, không phải chức vụ công của chính phủ [^26].
+
+Đối chiếu lại, **trưởng thôn, trưởng ấp ở Đài Loan là một sự kết hợp hiếm thấy**: Địa vị pháp lý là chức vụ dân cử, có quyền hạn cụ thể, có ngân sách trợ cấp, và có tới 7.748 vị trí phổ biến khắp cả nước; nhưng đồng thời lại được định vị là "không hưởng lương", không phải công chức, mang tính địa phương hóa cực mạnh và ít màu sắc đảng phái. Sự kết hợp này có lẽ là kết quả đặc biệt từ việc kế thừa chế độ Bảo giáp thời Nhật thuộc và trải qua 80 năm biến đổi theo hướng tự trị hóa tại Đài Loan.
 
 ---
 
 ## Các điểm quan sát cho năm 2026
 
-Trước ngày bầu cử ngày 28 tháng 11 năm 2026, các vị trí Trưởng Làng có một số điểm cần chú ý:
+Trước ngày bầu cử 28 tháng 11 năm 2026, có một số chỉ số đáng chú ý trong cuộc bầu cử trưởng thôn, trưởng ấp:
 
-**Tỷ lệ người chưa gắn mác chính trị có giữ được ổn định không:** Trong các kỳ bầu cử Trưởng Làng trước đây, tỷ lệ người chưa gắn mác chính trị luôn duy trì trên sáu phần trăm. Năm 2026 có giữ được tỷ lệ này không, là thử thách cho hiện tượng "đảng phủ mạnh hơn tài trợ chính trị" của chính trị cơ sở.
+**Tỷ lệ không đảng phái có tiếp tục duy trì hay không**: Trong các kỳ bầu cử trước, tỷ lệ không đảng phái luôn ở mức trên 60%. Liệu năm 2026 có duy trì được tỷ lệ này hay không sẽ là bài kiểm tra cho hiện tượng "phe phái lớn hơn đảng phái" trong chính trị cơ sở Đài Loan.
 
-**Hiện tượng "Trưởng Làng trẻ" ở khu đô thị:** Gần đây, các khu đô thị xuất hiện các trường hợp trẻ tuổi (30-40 tuổi) tranh cử giành chức Trưởng Làng thay vì người cao tuổi (70 tuổi trở lên) đang giữ chức. Nhóm trẻ này thường dùng truyền thông xã hội xây dựng, làm hoạt động cộng đồng, và tổ chức các hoạt động cho trẻ em — khác biệt so với cách làm truyền thống của Trưởng Làng. Năm 2026 sẽ thấy nhiều trường hợp tranh cử hơn, đặc biệt ở các khu đô thị như Đài Bắc, Đài Nam, Taipei, Taoyuan.
+**Hiện tượng "Trưởng ấp trẻ" tại khu vực đô thị**: Những năm gần đây, tại các đô thị xuất hiện những trường hợp người ở độ tuổi 30-40 thách thức các trưởng ấp lão thành trên 70 tuổi. Nhóm trưởng ấp trẻ này thường sử dụng mạng xã hội để quản lý, làm xây dựng cộng đồng và tổ chức các hoạt động gia đình — khác hẳn với mô hình phục vụ truyền thống. Năm 2026 sẽ thấy nhiều sự thách thức như vậy hơn, đặc biệt là ở các khu vực đô thị như Đài Bắc, Tân Bắc, Đài Trung, Đào Viên.
 
-**Thay đổi tỷ lệ phụ nữ Trưởng Làng:** Liệu có thể vượt qua mức lịch sử?
+**Sự thay đổi tỷ lệ phụ nữ làm trưởng ấp**: Liệu có thể phá vỡ giới hạn tỷ lệ lịch sử hay không.
 
-**Thế hệ chuyển tiếp của các phụ bộ địa phương:** Nhiều Trưởng Làng hiện nay đang là người thứ hai, ba của gia đình — cha con, vợ chồng kế thừa. Năm 2026 sẽ có nhiều Trưởng Làng đang về tuổi bảy mươi lên, và tốc độ và hướng chuyển tiếp thế hệ sẽ là điều tốn mắt quan sát.
+**Sự chuyển giao thế hệ của phe phái địa phương**: Nhiều trưởng thôn đương nhiệm đã là thế hệ thứ hai, thứ ba kế thừa gia đình (cha truyền con nối, cha truyền con gái, vợ chồng tiếp sức). Năm 2026 sẽ có một lượng lớn người đương nhiệm bước sang tuổi trên 70, tốc độ và hướng đi của sự chuyển giao thế hệ là điều đáng quan sát.
 
-**Thiếu hụt Trưởng Làng ở các khu vực bị di cư dân số:** Các làng ở miền đông, miền Nam Trung Hoa, Liêu Hiếp, Nam Hạ, Phong Tục có tỷ lệ di cư dân số nghiêm trọng, một số làng có thể không có người nào tranh cử. Các kỳ bầu cử trước đây đã thống kê hiện tượng này — năm 2026 có nghiêm trọng hơn không?
+**Sự thiếu hụt trưởng thôn tại các khu vực dân số di cư**: Tại các vùng nông thôn có tình trạng di cư nghiêm trọng như Hoa Đông, Vân Gia, Miêu Lật, Nam Đầu, một số thôn có thể rơi vào tình trạng không có người tranh cử. Ủy ban Bầu cử Trung ương đã từng thống kê hiện tượng này trong các kỳ bầu cử trước — liệu năm 2026 có trở nên nghiêm trọng hơn?
 
-Các quan sát này không phải là các quan sát mang tính tin tức, mà là các quan sát về cấu trúc dài hạn. Các vị trí Trưởng Làng hiếm khi lên đầu báo, nhưng xu hướng dài hạn của chúng kể cho thấy nhịp sống của quản lý cơ sở của Đài Loan.
-
----
-
-## Kết luận: Chính trị không giống như chính trị
-
-Trưởng Làng là chức vụ bầu cử của Đài Loan **ít nhất giống như một "chính trị" truyền thống**.
-
-Không có tranh luận đảng phủ, không có bản thảo chính sách, không có quảng cáo trên tivi, không có phát sóng trực tiếp các buổi lễ chính trị. Trên một tờ giấy bầu cử có bảy nghìn bảy trăm bốn mươi chức vụ, trong đó một chức vụ duy nhất — bạn sẽ bỏ qua và quên đi ai bạn đã bầu, nhưng người ấy mỗi ngày sẽ xuất hiện tại ngã rẽ phía trước mặt bạn, giao cà phê cho người cai chiếu độc thân, hoặc đi giúp đỡ người kề bên.
-
-Nhưng chức vụ này lại là **bằng chứng hoàn chỉnh nhất về sự phát triển dân chủ của Đài Loan**. Từ giai đoạn cuối cùng của hệ thống bảo bả thời Nhật tâm, đổi tên sau chiến tranh, bầu cử trực tiếp từ năm 1950, đến khi tích hợp vào "Luật Hệ thống địa phương" năm 1999 — mỗi điểm lịch sử đều có người bầu cử xuất hiện tại đơn vị cơ sở nhất. Hệ thống bầu cử Trưởng Làng không bị ngắt lại trong bảy năm, đó là bằng chứng về quyền tự trị cơ sở được phát triển từ đáy tăm lên.
-
-Lưới chữ "nine-in-one" của cuộc bầu cử, vị trí thứ chín, trông bình thường đến mức gần như không thấy. Nhưng bảy nghìn bảy trăm bốn mươi vị trí Trưởng Làng cùng thay đổi ngày 28 tháng 11 năm 2026, quy mô này không có phản đồ trong các hệ thống dân chủ châu Á khác — **đó là mật độ tự trị cơ sở của Đài Loan.**
-
-Vào sáng sớm ngày 28 tháng 11 năm 2026, khi bạn bước vào chỗ bầu cử, bạn sẽ nhận được tám tờ giấy bầu cử màu khác nhau. Chức vụ cuối cùng thường là Trưởng Làng — trên tờ giấy bầu cử này, tên người là người mà bạn hôm qua đã gặp lần cuối cùng tại ngã rẽ, đang dọn rác, giao cà phê cho người cai chiếu độc thân, hoặc đi gặp người bạn kề bên vì tiếng chó kêu vào ban đêm.
-
-Đó không phải là chính trị. Đó là nền tảng xây dựng dân chủ đang hoạt động tại đáy tăm của Đài Loan.
+Đây không phải là những quan sát mang tính tin tức, mà là những quan sát mang tính cấu trúc. Bầu cử trưởng thôn ít khi lên trang nhất, nhưng xu hướng dài hạn của nó nói lên nhịp đập quản trị cơ sở của Đài Loan.
 
 ---
 
-**Đọc thêm:** [Trung tâm Chính trị](/politics) · [[2026 九合一選舉]] · [[九合一選舉是什麼]] · [[議員制度]] · [[直轄市山地原住民區長]] · [Trung tâm Xã hội](/society)
+## Kết luận: Thứ chính trị ít giống "chính trị" nhất
+
+Trưởng thôn, trưởng ấp là **chức danh chính trị ít mang tính "chính trị" nhất** trong các cuộc bầu cử tại Đài Loan.
+
+Không có tranh luận đảng phái, không có sách trắng chính sách, không có quảng cáo truyền hình, cũng không có livestream toàn bộ buổi trình bày quan điểm chính trị. Đó chỉ là một trong 7.748 vị trí trên một lá phiếu — hầu hết mọi người sau khi bỏ phiếu xong sẽ quên mất mình đã bầu cho ai, nhưng mỗi ngày họ đều sẽ lướt qua trưởng ấp của mình ngay tại đầu hẻm.
+
+Tuy nhiên, chức danh này cũng là **minh chứng hoàn chỉnh nhất cho quá trình dân chủ hóa của Đài Loan**. Từ điểm cuối của chế độ Bảo giáp thời Nhật thuộc, đến việc đổi tên kế thừa sau chiến tranh, đến dân cử năm 1950 và tích hợp pháp lý năm 1999 — mỗi nút thắt lịch sử đều có sự hiện diện của đại diện dân cử ở tầng lớp thấp nhất. Cuộc bầu cử trưởng thôn không bị gián đoạn suốt 80 năm là một sự thật về việc nền tự trị Đài Loan đã lớn lên từ dưới đáy đi lên như thế nào.
+
+Ô thứ chín của cuộc bầu cử "Cửu hợp nhất" bình dị đến mức gần như vô hình. Nhưng việc 7.748 lãnh đạo dân cử cùng bầu lại trong một ngày là một quy mô không thể tìm thấy sự tương ứng trong các hệ thống dân chủ khác ở châu Á — **đó chính là mật độ tự trị cơ sở của Đài Loan**.
+
+Vào sáng sớm ngày bầu cử 28 tháng 11 năm 2026, khi bạn bước vào điểm bỏ phiếu, bạn sẽ nhận được chín lá phiếu với các màu sắc khác nhau. Lá phiếu cuối cùng thường là trưởng thôn — cái tên trên lá phiếu đó chính là người mà trong ba nhiệm kỳ qua vẫn luôn giúp bạn đổ rác lúc 5 giờ rưỡi sáng, đưa cơm hộp cho bà cụ hàng xóm, hay nghe điện thoại xử lý tiếng chó sủa nửa đêm.
+
+Đó không phải là chính trị. Đó là hạ tầng dân chủ của Đài Loan, vận hành mỗi ngày và chưa bao giờ dừng lại suốt 80 năm qua.
+
+---
+
+**Đọc thêm**: [Chính trị Hub](/politics) · [Bầu cử Cửu hợp nhất 2026](/vi/politics/2026-local-elections-taiwan/) · [Bầu cử Cửu hợp nhất là gì](/vi/politics/nine-in-one-elections-explained/) · [Chế độ Nghị sĩ](/vi/politics/city-councilor-system-taiwan/) · [Trưởng khu vực người bản địa tại thành phố trực thuộc trung ương](/vi/politics/indigenous-district-chief-system/) · [Society Hub](/society)
 
 🧬
 
-_v1.0 | 2026-05-27 | Được tạo ra dựa trên chỉ dẫn của chương trình Chế bày: 2026 Bầu cử nine-in-one — để để lại lịch sử hệ thống cho lưới chữ thứ chín của cuộc bầu cử._
+_v1.0 | 2026-05-27 | Ra đời từ chỉ thị của Triết Vũ (哲宇): Chuỗi bài bầu cử 2026 Tier 1.3 — Để lại một phần lịch sử chế độ cho ô thứ chín của cuộc bầu cử Cửu hợp nhất._
 
 ## Tài liệu tham khảo
 
-[^1]: [Báo cáo năm 2024 của Hiệp hội Kênh tiện lợi và Liên doanh](https://www.cca.org.tw/) — Thống kê số lượng cửa hàng tiện lợi và siêu thị trên toàn đảo
+[^1]: [Báo cáo năm 2024 của Hiệp hội Chuỗi cửa hàng và Nhượng quyền](https://www.cca.org.tw/) — Thống kê tổng số cửa hàng tiện lợi và siêu thị trên toàn Đài Loan
 
-[^2]: [Ủy ban Bầu cử — Thống kê các kỳ bầu cử vị trí địa phương](https://web.cec.gov.tw/) — Nguồn dữ liệu chính thức của Ủy ban Bầu cử — Thống kê các kỳ bầu cử vị trí địa phương
+[^2]: [Ủy ban Bầu cử Trung ương — Thống kê các kỳ bầu cử công chức địa phương](https://web.cec.gov.tw/) — Nguồn dữ liệu chính thức từ Ủy ban Bầu cử Trung ương về thống kê các kỳ bầu cử công chức địa phương
 
-[^3]: [2026 năm Chính phổ quốcgia các vị trí bầu cử địa phương — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Nguồn dữ liệu chính thức Wikipedia
+[^3]: [Bầu cử công chức địa phương Trung Hoa Dân Quốc năm 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Nguồn dữ liệu chính thức từ Wikipedia về cuộc bầu cử công chức địa phương Trung Hoa Dân Quốc năm 2026
 
-[^4]: [Điều 59-61 của "Luật Hệ thống địa phương" — Cơ sở dữ liệu pháp luật quốc gia](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Nguồn dữ liệu chính thức của "Luật Hệ thống địa phương"
+[^4]: [Điều 59-61 《Luật Chế độ Địa phương》 — Cơ sở dữ liệu pháp luật toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Nguồn dữ liệu chính thức từ Cơ sở dữ liệu pháp luật về Điều 59-61 của Luật Chế độ Địa phương
 
-[^5]: [Bộ Nội các — Thông tin cơ bản về Trưởng Làng](https://www.moi.gov.tw/cl.aspx?n=4360) — Nguồn dữ liệu chính thức của Bộ Nội các
+[^5]: [Cục Dân chính, Bộ Nội vụ — Thông tin cơ bản về Trưởng thôn, Trưởng ấp](https://www.moi.gov.tw/cl.aspx?n=4360) — Nguồn dữ liệu chính thức từ Cục Dân chính, Bộ Nội vụ về thông tin cơ bản của trưởng thôn, trưởng ấp
 
-[^6]: [Chi trả hoạt động Trưởng Làng — Thông tư giải thích của Bộ Nội các](https://www.moi.gov.tw/) — Từ năm 2007, chi trả hàng tháng là 45.000 nhà nước đồng
+[^6]: [Điều lệ Chi trả Phí Đại biểu Dân ý Địa phương và Trợ cấp Sự vụ cho Trưởng thôn, Trưởng ấp](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Cơ sở dữ liệu pháp luật toàn quốc. Điều 7 Khoản 1: Trợ cấp sự vụ cho trưởng thôn, trưởng ấp do văn phòng hương (trấn, thị, khu) lập dự toán, mỗi thôn (ấp) là 50.000 Đài tệ mỗi tháng, đối với khu vực người bản địa sẽ tăng thêm 20%; các khoản phụ cấp khác sẽ được điều chỉnh theo cùng tỷ lệ khi có đợt điều chỉnh chung hàng năm, số tiền sau điều chỉnh và ngày có hiệu lực sẽ do Bộ Nội vụ thông báo.
 
-[^7]: [Một ngày làng Trưởng — Nhà báo The Reporter](https://www.twreporter.org/) — Chuyên đề về công việc hàng ngày của Trưởng Làng
+[^7]: [Một ngày của Trưởng ấp — The Reporter](https://www.twreporter.org/) — Chuỗi chuyên đề về công việc hàng ngày của trưởng thôn, trưởng ấp
 
-[^8]: [Quyền hạn và công việc thực tế của Trưởng Làng — Bộ Nội các](https://www.moi.gov.tw/) — Giải thích về quyền hạn pháp lý và công việc giao nhiệm
+[^8]: [Quyền hạn và thực tế công việc của Trưởng thôn, Trưởng ấp — Cục Dân chính, Bộ Nội vụ](https://www.moi.gov.tw/) — Giải thích về quyền hạn pháp định và các vấn đề được giao phó
 
-[^9]: [Bộ Nội các — Chỉ số lão hóa dân số](https://www.moi.gov.tw/stat/) — Tỷ lệ người cai chiếu và tỷ lệ phụ thuộc của Đài Loan
+[^9]: [Cục Thống kê, Bộ Nội vụ — Chỉ số già hóa dân số](https://www.moi.gov.tw/stat/) — Tỷ lệ dân số trên 65 tuổi và tỷ lệ phụ thuộc tại Đài Loan
 
-[^10]: [Ủy ban Bầu cử — Thiết lập chỗ bầu cử](https://web.cec.gov.tw/) — Tổng số chỗ bầu cử trên toàn quốc và nguyên tắc thiết lập
+[^10]: [Ủy ban Bầu cử Trung ương — Thiết lập điểm bỏ phiếu](https://web.cec.gov.tw/) — Tổng số điểm bỏ phiếu và nguyên tắc thiết lập trên toàn quốc
 
-[^11]: [Hệ thống bảo bả (Đài Loan) — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Lịch sử hệ thống bảo bả thời Nhật tâm 1898-1945
+[^11]: [Chế độ Bảo giáp (Đài Loan) — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Lịch sử phát triển chế độ giai đoạn 1898-1945 thời Nhật thuộc
 
-[^12]: [Hệ thống bảo bả thời Nhật tâm — Bảo tàng Lịch sử Quốc gia Đài Loan](https://www.th.gov.tw/) — Nguồn dữ liệu chính thức của Bảo tàng Lịch sử Quốc gia Đài Loan
+[^12]: [Chế độ Bảo giáp tại Đài Loan thời kỳ Nhật thuộc — Lưu trữ Văn kiện Đài Loan, Học viện Quốc sử](https://www.th.gov.tw/) — Nguồn dữ liệu chính thức từ Lưu trữ Văn kiện Đài Loan về chế độ Bảo giáp tại Đài Loan thời Nhật thuộc
 
-[^13]: [Tự trị địa phương của tỉnh Đài Loan — Bộ Quản lý Tài liệu lịch sử](https://www.archives.gov.tw/) — Lịch sử đổi tên và bầu cử trực tiếp năm 1946 và 1950
+[^13]: [Tự trị địa phương tỉnh Đài Loan — Cục Quản lý Lưu trữ, Ủy ban Phát triển Quốc gia](https://www.archives.gov.tw/) — Tài liệu lịch sử về cải cách thôn ấp năm 1946 và dân cử năm 1950
 
-[^14]: [Kỳ bầu cử đầu tiên của thị trấn và tỉnh của tỉnh Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Lịch sử bầu cử thị trấn và tỉnh đầu tiên năm 1950
+[^14]: [Kỳ bầu cử Thị trưởng/Huyện trưởng đầu tiên của tỉnh Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Lịch sử dân cử Thị trưởng/Huyện trưởng năm 1950
 
-[^15]: [Chính trị cơ sở và Trưởng Làng không gắn mác chính trị — Nghiên cứu chính trị địa phương của Vương Nhiệt Đức](https://www.airitilibrary.com/) — Phân tích học thuật về tỷ lệ người chưa gắn mác chính trị và tỷ lệ giữ chức của Trưởng Làng
+[^15]: [Phe phái địa phương và chính trị cơ sở — Nghiên cứu chính trị địa phương của Vương Nghiệp Lập (王業立)](https://www.airitilibrary.com/) — Phân tích học thuật về đảng phái và tỷ lệ tái đắc cử của trưởng thôn, trưởng ấp
 
-[^16]: [Bộ Nội các — Thống kê quy mô dân số các làng](https://www.moi.gov.tw/) — Sự khác biệt về quy mô dân số giữa làng đô thị và làng nông thôn
+[^16]: [Bộ Nội vụ — Thống kê quy mô dân số thôn ấp](https://www.moi.gov.tw/) — Sự khác biệt về quy mô dân số giữa ấp đô thị và thôn nông thôn
 
-[^17]: [Tự trị địa phương — Lương Gia tịch](https://www.taaze.tw/) — Về hệ thống quan hệ địa phương, tổ chức hội đình đệ, chùa chiền và chính trị cơ sở
+[^17]: [Tự trị địa phương Đài Loan — Lưu Giới Luân (劉介倫)](https://www.taaze.tw/) — Phe phái địa phương, dòng tộc, ban quản lý đền chùa và bầu cử cơ sở
 
-[^18]: [Quy chế chi trả hoạt động làng của các tỉnh, thành phố](https://law.moj.gov.tw/) — Quy chế thiết lập ngân sách cho hoạt động làng
+[^18]: [Biện pháp trợ cấp nghiệp vụ thôn ấp của chính quyền huyện/thành phố](https://law.moj.gov.tw/) — Quy định lập dự toán trợ cấp hoạt động thôn ấp của các huyện, thành phố
 
-[^19]: [Điều lệ chi trả hoạt động và quyền lợi của đại biểu tỉnh](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040039) — Tiêu chuẩn chi trả học bạ, chi phí tham dự và kiểm tra sức khỏe của đại biểu tỉnh
+[^19]: [Điều lệ Chi trả Phí Đại biểu Dân ý Địa phương và Trợ cấp Sự vụ cho Trưởng thôn, Trưởng ấp](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Tiêu chuẩn chi trả phí nghiên cứu của Nghị sĩ, v.v. (Phụ lục Điều 5)
 
-[^20]: [Báo cáo kiểm tra khoảng cách giữa hoạt động làng đô thị và làng nông thôn — Hội đồng Giám sát](https://www.cy.gov.tw/) — Báo cáo chính thức của Hội đồng Giám sát về khoảng cách hoạt động giữa làng đô thị và làng nông thôn
+[^20]: [Chênh lệch khối lượng công việc giữa khu vực đô thị và nông thôn — Báo cáo điều tra của Viện Giám sát](https://www.cy.gov.tw/) — Nguồn dữ liệu chính thức từ Viện Giám sát về chênh lệch khối lượng công việc thôn ấp giữa đô thị và nông thôn
 
-[^21]: [Thay đổi tỷ lệ phụ nữ Trưởng Làng — Hội đồng Bình đẳng giới nữ](https://gec.ey.gov.tw/) — Thông tin chính thức về tỷ lệ phụ nữ Trưởng Làng
+[^21]: [Sự thay đổi tỷ lệ phụ nữ làm trưởng thôn, trưởng ấp — Hội Bình đẳng giới Hành chính Viện](https://gec.ey.gov.tw/) — Nguồn dữ liệu chính thức từ Hội Bình đẳng giới Hành chính Viện về sự thay đổi tỷ lệ phụ nữ làm trưởng thôn, trưởng ấp
 
-[^22]: [Chất lượng tự trị cơ sở và tham gia người dân làng — Báo chí The Initium](https://theinitium.com/) — Báo chí chính thức về chất lượng tự trị cơ sở và tham gia người dân làng
+[^22]: [Chất lượng tự trị cơ sở và sự tham gia của cư dân — The Initium (端傳媒)](https://theinitium.com/) — Nguồn dữ liệu chính thức từ The Initium về chất lượng tự trị cơ sở và sự tham gia của cư dân
 
-[^23]: [Hệ thống hội đồng thị xã Nhật Bản — Bộ Nội các](https://www.soumu.go.jp/) — Thông tin chính thức về hệ thống hội đồng thị xã Nhật Bản
+[^23]: [Chōnaikai ở Nhật Bản — Tổng vụ tỉnh](https://www.soumu.go.jp/) — Nguồn dữ liệu chính thức từ Bộ Tổng vụ Nhật Bản về Chōnaikai
 
-[^24]: [Hệ thống Trưởng đơn vị Hàn Quốc — Bộ Nội các Hàn Quốc](https://www.mois.go.kr/) — Thông tin chính thức về hệ thống Trưởng đơn vị Hàn Quốc
+[^24]: [Chế độ Thống-Ban ở Hàn Quốc — Bộ Hành chính và An toàn](https://www.mois.go.kr/) — Nguồn dữ liệu chính thức từ Bộ Hành chính và An toàn Hàn Quốc về chế độ Thống-Ban
 
-[^25]: [Chưởng mãn maire ở Pháp — Dịch vụ công Pháp](https://www.service-public.fr/) — Thông tin chính thức về chức năng và quyền lực của chưởng mãn maire
+[^25]: [Le maire en France — Service-Public](https://www.service-public.fr/) — Nguồn dữ liệu chính thức từ Service-Public về Thị trưởng tại Pháp
 
-[^26]: [Chưởng mãn khu vực — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Thông tin chính thức về chức vụ chưởng mãn khu vực
+[^26]: [Precinct captain — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Nguồn dữ liệu chính thức từ Ballotpedia về Precinct captain
+
+[^27]: [Điều lệ Chi trả Phí Đại biểu Dân ý Địa phương và Trợ cấp Sự vụ cho Trưởng thôn, Trưởng ấp — Lịch sử sửa đổi](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020039) — Lịch sử sửa đổi tại Cơ sở dữ liệu pháp luật toàn quốc. Sửa đổi Điều 7 và 10 được công bố ngày 4 tháng 5 năm Dân Quốc 111, trong đó Điều 7 có hiệu lực từ ngày 25 tháng 12 năm 111, tức lần điều chỉnh từ 45.000 lên 50.000 Đài tệ; lần sửa đổi mới nhất là ngày 19 tháng 6 năm Dân Quốc 113, có hiệu lực từ ngày 1 tháng 1 năm 114.
+
+[^28]: [Phối hợp tăng lương quân nhân và công chức! Bộ Nội vụ tăng trợ cấp cho trợ lý nghị sĩ và trưởng thôn, có hiệu lực từ 1/7, đầu năm tới sẽ tăng thêm 4% — Bộ Nội vụ](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Thông cáo báo chí ngày 16 tháng 7 năm 2026 của Cục Dân chính, Bộ Nội vụ: Trợ cấp sự vụ cho mỗi thôn (ấp) sẽ tăng từ 50.000 Đài tệ lên 54.000 Đài tệ kể từ ngày 1 tháng 7; vào ngày đầu năm 2027 sẽ tăng lên 56.160 Đài tệ; khu vực người bản địa do cần sự chăm sóc đặc biệt sẽ tăng từ 60.000 lên 64.800 Đài tệ, và đến ngày đầu năm 2027 sẽ là 67.392 Đài tệ. Kinh phí cần thiết do Hành chính Viện lập dự toán bổ sung khoảng 300 triệu Đài tệ và phải qua sự thẩm định của Lập pháp Viện.

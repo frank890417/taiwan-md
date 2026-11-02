@@ -20,23 +20,22 @@ featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
 rationale:
-  why_this_hook: 'Mở đầu từ đêm Trần Á Lan giành giải nam chính năm 2022, chứ không từ danh sách đài phát thanh năm 1965 hay quá trình thay đổi thể chế: một kép nam hát hí bước lên bục nhận giải Nam diễn viên chính chương trình kịch, dựng lên ngay lập tức luận điểm "mỗi năm Kim Chung vạch một đường ranh cho Đài Loan"; lịch sử thể chế (năm lần đổi tay, quy chế khen thưởng) được nén lại thành một mục và một dòng thời gian, không làm xương sống chính.'
-  whats_excluded: 'Không đánh giá diễn xuất và chất lượng tác phẩm hay dở (chủ quan); không so sánh với giải thưởng và quy mô ngành của Hồng Kông, Nhật Bản, Hàn Quốc (giới hạn dung lượng); không viết về phân loại, mua vé, lao động hậu trường và lương bổng, hiệu quả thương mại của giải thưởng, quy trình sửa quy chế và ngân sách (ngoài phạm vi); điều khoản về người Đại lục, điều khoản xuất xứ, việc hủy tư cách vì "giờ lành", Kim Chung 51 quá giờ — những sự kiện thuần thể chế hoặc tranh cãi đơn lẻ này bị cắt trong vòng này (quá xa con người); danh mục hiện vật của triển lãm đặc biệt 60/60 không liệt kê.'
-  where_it_hedges: 'Năm truyền hình được đưa vào giải ghi là "khoảng 1970" (trang chính thức và báo năm 1971 lệch nhau một năm); giai đoạn 1981–1997 ba đài cũ không có ngoại lệ chỉ tính những năm có trao giải (1994, 1996 nhường lượt cho phát thanh); ngưỡng của Giải Đặc biệt Phát thanh không ghi con số cụ thể (không tra được trong quy chế); năm Ngô Tiến Thành vào TTV không tra được nguồn gốc nên không viết; phản ứng của chính Dương Lệ Hoa khi học trò đoạt giải chỉ có lời kể lại của Trần Á Lan, chính văn chỉ viết "gọi điện báo tin vui"; lễ trao giải chưa diễn ra, bài viết dừng lại ở danh sách đề cử.'
-  whos_pushing_back: 'Độc giả cho rằng Kim Chung chỉ là trọng tài thẩm mỹ của ban giám khảo, danh sách phản ánh tác phẩm hay dở chứ không phải "vạch ranh cho Đài Loan"; người cho rằng đường ranh do vốn và nền tảng đẩy tới, Kim Chung chỉ xác nhận sau (chính văn tách riêng bằng câu "cửa là do nhà nước mở, đường ranh là do giám khảo vạch"); người nghi ngờ Đài Loan Công cộng vừa là đơn vị được đề cử nhiều nhất vừa là đơn vị tiếp sóng; người chất vấn việc tác phẩm tiếng Khách được đề cử nhiều có yếu tố chính trị (chính văn chỉ ghi lại câu hỏi và câu trả lời của Tào Thụy Nguyên); phía giám khảo trong tranh cãi giải phát thanh bị bỏ trống.'
+  why_this_hook: '從陳亞蘭 2022 年拿走男主角獎那一晚進去，而不是從 1965 年的電台名單或制度沿革：一位歌仔戲小生站上戲劇節目男主角獎的台，把「金鐘每年替台灣劃一條線」這個論點一次立起來；制度史（五次換手、獎勵要點）壓成一節與一條時間軸，不當主脊。'
+  whats_excluded: '不做演技與作品優劣評價（主觀）；不比較港日韓獎項與產業規模（篇幅）；不寫分級、購票、幕後勞動與薪資、得獎商業效益、要點修法程序與預算（不在範疇）；大陸地區人士條款、原產地條款、良辰吉時取消資格、金鐘 51 超時等純制度或單一爭議事件本輪砍掉（離人太遠）；60/60 特展物件清單不列。'
+  where_it_hedges: '電視納入年份寫「1970 年前後」（官網與 1971 年報紙相差一年）；1981–1997 老三台無例外只指有頒獎的年份（1994、1996 輪到廣播）；廣播特別獎門檻不寫數字（要點查無）；吳進成入台視年份查無一手不寫；楊麗花本人對徒弟得獎的反應只有陳亞蘭轉述，正文只寫「打電話報喜」；典禮尚未舉行，文章停在名單。'
+  whos_pushing_back: '認為金鐘是評審品味裁判、名單反映作品好壞而非「台灣劃線」的讀者；認為線是資本與平台推的、金鐘只是事後追認的人（正文用「門是要點開的，線是評審劃的」分開回應）；懷疑公視同時是最大入圍者與轉播方的人；質疑客家作品大量入圍有政治因素的人（正文只記提問與曹瑞原回應）；廣播從缺爭議中的評審方。'
 readingTime: 15
-researchReport: reports/research/2026-09/金鐘獎.md
+researchReport: 'reports/research/2026-09/金鐘獎.md'
 image: '/article-images/culture/golden-bell-45th-main-stage-2010.webp'
 imageCredit: '☼ うみ 目覚めたら / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:45th_TV_Golden_Bell_Awards_Presentation_main_stage_20101022.jpg'
-relatedDiary:
-  - 2026-09-19-003000-news-radar
+relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Culture/金鐘獎.md'
-sourceCommitSha: 'ff39af227'
-sourceContentHash: 'sha256:641571b11a5e3ea9'
-sourceBodyHash: 'sha256:02baeff9cbce935a'
-translatedAt: '2026-09-25T00:53:03+08:00'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:1c2ced1aaf70624b'
+sourceBodyHash: 'sha256:5e774c69559104df'
+translatedAt: '2026-11-02T18:25:01.659554+00:00'
 ---
 
 # Giải Kim Chung: Sau mười bảy năm luân phiên giữa ba đài, mỗi năm Đài Loan lại vạch một đường ranh cho "truyền hình của chúng ta"
@@ -159,35 +158,36 @@ Năm 2020 còn có một nhóm người tự bước ra ngoài đường ranh: n
 
 Một đường ranh vạch ra, người trong ranh lên sân khấu, người ngoài ranh lên tiếng. Kim Chung năm nào cũng tranh cãi, tranh cãi đều xoay quanh chuyện này. Hai chiếc còn lại trong "ba giải vàng", [Giải Âm nhạc Vàng](/vi/music/pop-music-and-golden-melody-awards/) quản âm nhạc, Kim Mã quản điện ảnh, mỗi giải có đường ranh riêng của mình.
 
-## Đường ranh của năm nay, phải đến tối 24 tháng 10 mới được vạch ra
+## Ranh giới của năm nay, mãi đến tối 24 tháng 10 mới được vạch ra
 
-Ba lễ trao giải của lần thứ 61 đều tổ chức ở Trung tâm Âm nhạc Đại chúng Đài Bắc (Bắc Lưu), phát thanh trao trước vào ngày 17 tháng 10, hạng mục Chương trình ngày 23 tháng 10, hạng mục Kịch ngày 24 tháng 10.[^52] Danh sách đã in xong: «The World Between Us II» và «Quên rồi, tôi vẫn nhớ» (忘了我記得) cùng đứng đầu với mười ba đề cử mỗi bên, một bên thuộc hệ thống Đài Loan Công cộng, một bên là Netflix.[^53] Năm bộ phim Đài Loan trên Netflix cộng lại có bốn mươi đề cử, thông cáo báo chí nói đây là con số cao nhất lịch sử, nhưng ba năm trước, lần thứ 58, con số này cũng đã là bốn mươi.[^54][^55]
+Cả ba buổi lễ của Giải Kim Chung (Golden Bell Awards) lần thứ 61 đều diễn ra tại Trung tâm Văn hóa Bắc Lưu (Taipei Music Center). Lễ trao giải hạng mục Chương trình sẽ diễn ra vào ngày 17 tháng 10, hạng mục Chương trình truyền hình vào ngày 23 tháng 10, và hạng mục Phim truyền hình vào ngày 24 tháng 10. [^52] Danh sách đề cử đã được in xong: 《Chúng ta và khoảng cách của cái ác II》 (我們與惡的距離 II) và 《Quên tôi hay nhớ tôi》 (忘了我記得) cùng dẫn đầu với 13 đề cử mỗi bộ, một bên thuộc hệ thống đài Công sứ Đài Loan (PTS), một bên là Netflix. [^53] Năm tác phẩm phim Đài Loan của Netflix đạt tổng cộng 40 đề cử; theo thông cáo báo chí, đây là con số kỷ lục mới, dù tại kỳ giải thứ 58 cách đây ba năm họ cũng đã đạt được 40 đề cử. [^54][^55]
 
-Đêm hạng mục Kịch năm ngoái, buổi phát trực tiếp trên YouTube chính thức cùng lúc có gần mười bảy vạn người xem trực tuyến.[^56] Đêm trước đó, lễ trao giải hạng mục Chương trình, Tiểu S giành giải MC chương trình tạp kỹ, nói: "Mẹ ơi, dù chị con không còn nữa nhưng con vẫn còn đây." Cùng đêm đó Thái Khang Vĩnh nói, dù thời đại thay đổi thế nào, con người vẫn cần có người đồng hành.[^57] Bạn có lẽ cũng là một trong mười bảy vạn người đó, cầm điện thoại chờ một cái tên được xướng lên.
+Vào đêm trao giải hạng mục Phim truyền hình năm ngoái, buổi phát trực tiếp trên YouTube chính thức đã thu hút gần 170.000 người xem cùng lúc. [^56] Tại lễ trao giải hạng mục Chương trình vào tối hôm trước đó, Tiểu S (Dee Hsu) đã giành giải Người dẫn chương trình giải trí, cô chia sẻ: "Mẹ ơi, tuy chị con không còn nữa nhưng con vẫn ở đây." Cùng đêm đó, Thái Khang Vĩnh (Kevin Tsai) cũng nói rằng, dù thời đại có thay đổi thế nào, con người vẫn luôn cần sự đồng hành. [^57] Có lẽ bạn cũng là một trong 170.000 người đó, đang chờ đợi một cái tên được xướng lên qua màn hình điện thoại.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/4wPnqGZdB90" title="2025第60屆金鐘獎－戲劇類 頒獎典禮現場LIVE直播" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Kênh chính thức của Giải Kim Chung: bản lưu trực tiếp lễ trao giải hạng mục Kịch lần thứ 60 năm 2025. Đêm đó cùng lúc có gần mười bảy vạn người xem trực tuyến, Liên Bỉnh Phát và Dương Cẩn Hoa lần lượt giành giải nam nữ diễn viên chính trong đêm này._
+_Kênh chính thức của Giải Kim Chung: Lưu trữ phát trực tiếp lễ trao giải hạng mục Phim truyền hình lần thứ 60 năm 2025. Buổi lễ này đã thu hút gần 170.000 người xem trực tuyến, Liên Bính Phát (Lien Bing-fa) và Dương Cẩn Hoa (Yang Chin-hua) lần lượt giành giải Nam/Nữ diễn viên chính xuất sắc nhất trong đêm này._
 
-Trước và sau lễ trao giải năm ngoái, Cục Ảnh nhạc tổ chức triển lãm đặc biệt "60/60" tại Hoa Sơn, biến danh sách sáu mươi lần trao giải thành thứ có thể nhìn thấy được, đạo cụ nguyên bản chiếc máy chém đầu rồng trong «Bao Thanh Thiên» được trưng bày ngay trong khu triển lãm.[^58] Ba mươi năm trước, thời Kim Siêu Quần đoạt giải nhờ bộ phim này, danh sách vẫn còn đang luân phiên giữa ba cái tên.
+Trước và sau buổi lễ năm ngoái, Cục Điện ảnh và Truyền hình đã tổ chức triển lãm đặc biệt "60/60" tại Hoa Sơn, biến danh sách những người từng được xướng tên qua 60 kỳ giải thành những vật phẩm hữu hình; ngay cả đạo cụ nguyên bản là chiếc máy chém trong phim 《Bao Thanh Thiên》 cũng được trưng bày tại triển lãm. [^58] Vào thời điểm ba mươi năm trước, khi Kim Siêu Quần (Chin Chao-chun) giành giải nhờ bộ phim này, danh sách đề cử vẫn còn luân chuyển giữa vỏn vẹn ba cái tên.
 
-Năm nay đã có một giải được trao trước: Giải Cống hiến đặc biệt thuộc về Ngô Tiến Thành. Vào thời chưa có đồ họa máy tính, ông vẽ tay từng nét bản thiết kế bối cảnh và bản thi công suốt hơn bốn mươi năm, được gọi là "đạo diễn trên giấy". Ông từng là chỉ đạo mỹ thuật cho «Anh Rồng Em Hổ» (龍兄虎弟), cũng từng là chỉ đạo mỹ thuật cho các vở hát hí của Dương Lệ Hoa.[^59]
+Năm nay, có một giải thưởng đã được trao trước, đó là Giải Cống hiến Đặc biệt dành cho Ngô Tiến Thành (Wu Chin-cheng). Trong thời đại chưa có đồ họa máy tính, ông đã dành hơn 40 năm để vẽ tay từng nét thiết kế bối cảnh và bản vẽ thi công, nên được mệnh danh là "Đạo diễn trên giấy". Ông từng làm giám đốc mỹ thuật cho phim 《Long huynh hổ đệ》 (Dragon and Tiger) và cũng từng làm giám đốc mỹ thuật cho các vở hát kịch truyền thống (Gezaixi) của Dương Lệ Hoa (Yang Li-hua). [^59]
 
-Vào thời Dương Lệ Hoa diễn hát hí trên truyền hình, Giải Chương trình kịch vẫn còn luân phiên giữa ba cái tên, Ngô Tiến Thành khi đó đang vẽ phông cảnh cho vở diễn của bà. Mấy chục năm sau, học trò của bà giành giải Nam diễn viên chính, câu cuối cùng trên sân khấu là "Tôi yêu Đài Loan, tôi yêu người hâm mộ, tôi yêu các bạn, tôi yêu hát hí", rời sân khấu là gọi điện ngay cho bà.[^1] Người vẽ phông cảnh nhận Giải Cống hiến đặc biệt. Cùng một chiếc chuông, ghi lại hai con người — một trước ống kính, một sau hậu trường.
+Vào thời đại mà Dương Lệ Hoa diễn hát kịch trên truyền hình, giải hạng mục Chương trình truyền hình vẫn còn luân chuyển giữa ba cái tên, còn Ngô Tiến Thành thì đang vẽ bối cảnh cho các vở diễn của bà. Nhiều thập kỷ sau, học trò của bà giành lấy giải Nam diễn viên chính xuất sắc nhất, và câu nói cuối cùng trên sân khấu là: "Tôi yêu Đài Loan, tôi yêu người hâm mộ, tôi yêu các bạn, tôi yêu hát kịch truyền thống", rồi ngay khi xuống đài, cô ấy đã gọi điện cho bà. [^1] Người vẽ bối cảnh nay nhận được Giải Cống hiến Đặc biệt. Cùng một tiếng chuông, đã ghi dấu hai con người: một người trước ánh đèn sân khấu và một người phía sau hậu trường.
 
-Đêm ấy năm 1965 ở Trung Sơn Đường, Nghiêm Gia Cam trao ra tám chiếc chuông vàng, không một chiếc thuộc về truyền hình. Tối ngày 24 tháng 10 năm 2026, đèn ở Bắc Lưu vẫn chưa sáng. Đường ranh của năm nay vạch ở đâu, ai ở trong ranh, ai vẫn còn ở ngoài, phải đợi đến đêm đó mới được xướng lên.
+Đêm năm 1965 tại Trung Sơn Đường, Nghiêm Gia Cám (Yen Chia-kan) đã trao đi tám giải Kim Chung trong khi lúc đó chưa hề có lấy một chiếc tivi nào. Vào tối ngày 24 tháng 10 năm 2026, đèn tại Trung tâm Văn hóa Bắc Lưu vẫn chưa sáng. Ranh giới của năm nay nằm ở đâu, ai ở trong ranh giới và ai còn ở bên ngoài, tất cả phải đợi đến đêm đó mới được xướng tên.
 
 ---
 
 **Đọc thêm**:
 
-- [Đài Loan Công cộng](/vi/society/pts-public-television-service/) — Tập đoàn phát thanh truyền hình công cộng khai đài năm 1998 đã đi từ «Đã từng» tới sáu mươi đề cử ở lần thứ 61 như thế nào, cái tên xuất hiện nhiều nhất trong danh sách này
-- [Q Series](/vi/art/qseries-drama-platform/) — Kế hoạch liên tiếp giành Giải Chương trình kịch hai lần vào 2017, 2018, lần đầu tiên cột đơn vị đoạt giải xuất hiện tên "Hảo Phong Quang"
-- [Lịch sử ngành truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history/) — Cơ cấu ngành độc quyền mười bảy năm của ba đài cũ được hình thành ra sao, và bị truyền hình cáp cùng các nền tảng phá vỡ như thế nào
-- [Khung giờ vàng 8 giờ tối](/vi/culture/taiwan-prime-time-drama/) — Thời của «Ngôi sao biết lòng tôi», «Bao Thanh Thiên», người Đài Loan xem gì vào lúc 8 giờ tối
-- [Giải Âm nhạc Vàng](/vi/music/pop-music-and-golden-melody-awards/) — Chiếc còn lại trong ba giải vàng, nơi Đài Loan tự trao giải cho âm nhạc của mình, ghi lại thứ âm thanh nào đáng được nhớ tới
+- [Công sứ Đài Loan (PTS)](/vi/society/pts-public-television-service) — Tập đoàn truyền thông công ích thành lập năm 1998 đã đi từ 《Từng có》 (曾經) đến việc đạt 60 đề cử ở kỳ thứ 61 như thế nào, và những cái tên thường xuyên xuất hiện nhất trong danh sách này.
+- [植劇場 (Plant)](/vi/art/qseries-drama-platform) — Dự án liên tiếp giành giải hạng mục Chương trình truyền hình hai năm 2017 và 2018, lần đầu tiên cột đơn vị đoạt giải xuất hiện tên "Hảo Phong Quang" (好風光).
+- [Lịch sử ngành truyền hình Đài Loan](/vi/technology/taiwan-television-industry-history) — Cấu trúc ngành công nghiệp vốn bị độc quyền bởi "Ba đài lớn" trong 17 năm đã hình thành như thế nào, và được mở rộng bởi truyền hình cáp và các nền tảng ra sao.
+- [Phim giờ vàng (Bát điểm đương)](/vi/culture/taiwan-prime-time-drama) — Vào thời đại của 《Tinh tinh tri ngã tâm》 (星星知我心) và 《Bao Thanh Thiên》, người Đài Loan xem gì vào lúc 8 giờ tối?
+- [Giải Kim Khúc (Golden Melody Awards)](/vi/music/pop-music-and-golden-melody-awards) — Một trong "Tam Kim", nơi Đài Loan vinh danh âm nhạc của chính mình và ghi dấu những âm thanh đáng được nhớ đến.
+- [Giải Kim Mã (Golden Horse Awards)](/art/金馬獎) — Giải điện ảnh trong "Tam Kim": Qua từng năm, phạm vi đăng ký đã được nới lỏng, từ việc chỉ nhận phim tiếng Phổ thông đến việc không còn phân biệt quốc tịch.
 
 ## Nguồn hình ảnh
 
