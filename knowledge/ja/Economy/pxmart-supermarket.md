@@ -1,9 +1,9 @@
 ---
-title: '全聯福利中心：黒い臭い福利店から台湾の小売王への逆襲'
-description: '1998年、林敏雄が66軒の「黒くて臭い」軍公教福利店を引き継ぐ。「安く20%、利益2%」という鉄の規律で25年間1,200軒に拡大。これは小売革命でも、建築業者が「値を下げる」ロジックでスーパーを台湾人の生活プラットフォームに変えた伝説でもある。'
+title: 'PX Mart（全聯福利中心）：不評如潮的福利社から台湾小売業の王者への逆襲'
+description: '1998年に林敏雄が引き継いだ66軒の「古臭い」軍公教福利販売所は、「20%安く、利益は2%」という鉄の規律により、25年間で1,200店舗まで拡大しました。これは単なる小売革命ではなく、一人のビジネスリーダーがいかにして「利益を還元する」論理を用い、スーパーマーケットを台湾人の生活に密着したプラットフォームへと変貌させたかという伝説です。'
 date: 2026-04-21
 category: 'Economy'
-tags: ['全聯', '林敏雄', '小売業', '全支付', '台湾経済']
+tags: ['PX Mart', '林敏雄', '小売業', '全支付', '台湾経済']
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -11,10 +11,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-22T17:41:05+08:00'
+translatedAt: '2026-11-02T01:58:22.997244+00:00'
 ---
 
 > **30秒概覧：** 1998年、不動産大王の林敏雄が、赤字を続け、店舗数わずか66軒の軍公教福利店を引き継ぐ。彼は「外行」の立場で、「安く20%、利益2%」という生存の赤線を定め、ユニファムートと量販店の巨人の間隙を駆け抜けてスーパーの道を切り開いた。今や全聯は年間売上2,000億を突破し、1,200軒の店舗を誇る小売王だが、その急速な拡大の裏にある独占論争とデジタル変革の痛みは、この「生活プラットフォーム」の次の20年を試している。
@@ -57,14 +57,14 @@ translatedAt: '2026-09-22T17:41:05+08:00'
 
 ---
 
-## 関連読物
+## 関連記事
 
-- **[吉祥物](/ja/lifestyle/mascot-culture-in-taiwan)** — 全聯福利熊とOpenのコラボレーション：小売吉祥物のIP経営論
-- **[台湾のコンビニ文化](/ja/lifestyle/convenience-store-culture)** — 全聯、7-Eleven、ファミリーマートが台湾小売における位置
-- **[台湾のデリバリー経済](/economy/台灣外送經濟)** — 全聯の小時達がどのようにfoodpanda / Uber Eatsの市場に進出したか
-- **[台湾のモバイル決済](/ja/technology/taiwan-mobile-payment)** — 全支付を含む様々なツール、店舗の受付、現金の備蓄から、普及と普遍性の違いを理解する
-- **[台湾の広告史](/ja/culture/taiwan-advertising-history)** — 全聯の「経済美学」の背後にあるオムニア、そして台湾の広告が注意の独占から感動マーケティングへの百年の歴史
-- **[台湾企業：統一企業](/ja/economy/taiwan-enterprise-uni-president)** — 統一がユニファムートを買収、全聯が大潤発を買収する、台湾小売双璧のもう一つの物語
+- **[マスコットキャラクター](/ja/lifestyle/mascot-culture-in-taiwan)** — 全聯福利熊（PX Mart Bear）と Open 将：小売業におけるマスコットIPの経営学
+- **[台湾のコンビニエンスストア文化](/ja/lifestyle/convenience-store-culture)** — 台湾の小売市場における全聯、セブンイレブン、ファミリーマートの位置付け
+- **[台湾のデリバリー経済](/ja/lifestyle/food-delivery-platforms-taiwan)** — 全聯「小時達」はいかにして foodpanda / Uber Eats の市場に食い込んだか
+- **[台湾のモバイル決済](/ja/technology/taiwan-mobile-payment)** — 全支付（Pi Wallet）をはじめとする各種ツール、加盟店での導入から現金への備えまで、「普及」と「汎用」の違いを理解する
+- **[台湾の広告史](/ja/culture/taiwan-advertising-history)** — 全聯の「経済美学」を支えたオムニコム、および台湾の広告がアテンションの独占から感動マーケティングへと至った100年の歴史
+- **[台湾企業：統一企業](/ja/economy/taiwan-enterprise-uni-president)** — 統一グループによるカルフール買収、全聯による大潤発（RT-Mart）との統合。台湾小売界の二大巨頭による再編のもう一つの物語
 
 ## 参考資料
 

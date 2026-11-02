@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T23:57:56.275953+00:00'
+translatedAt: '2026-11-02T01:40:28.179535+00:00'
 ---
 
 # 台湾のストリートアートとグラフィティ文化
@@ -83,7 +83,7 @@ Instagramなどのソーシャルメディアの普及は、ストリートア�
 
 [^6]: [Pow! Wow! Taiwan 公式サイト](https://powwowtaiwan.com/) — 台湾国際ストリートアートフェスティバルの過去の活動記録。
 
-## 関連記事
+## 延伸閱讀
 
-- [台湾現代アート](/culture/台湾現代アート) — 台湾のストリートアートと現代アートの生態系の交差点
-- [台湾のエレクトロニックミュージックとパーティーカルチャー](/ja/music/taiwan-electronic-music-and-party-culture) — ストリートアートとサブカルチャーの根源を共有するエレクトロニックミュージックシーン
+- [台湾の現代アート](/ja/art/contemporary-art) — 台湾のストリートアートと現代アートのエコシステムの交差点
+- [台湾のエレクトロニック・ミュージックとパーティー文化](/ja/music/taiwan-electronic-music-and-party-culture) — ストリートアートとサブカルチャーのルーツを共有する電子音楽シーン

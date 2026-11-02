@@ -1,19 +1,20 @@
 ---
-title: '黒松サイダーとサルサパリラ：嘲笑された「三流商品」からコーラの覇主を撃退する百年の伝説'
-description: 'これはただの炭酸飲料ではなく、台湾の民族資本が日本の統治統制とグローバル化の波の中で、「17元の資産」と「我的未來不是夢」を糧に生き延びてきた生存の歴史です。'
+title: '黒松汽水とサザ：嘲笑された「三流品」からコーラ覇者に立ち向かうまで'
+description: 'これは単なる炭酸飲料の物語ではありません。日本統治時代の統制とグローバル化の波の中で、台湾の民族資本がいかにして「17元の資産」と「私の未来は夢ではない」を武器に生き抜いてきたかという生存の歴史です。'
 date: 2026-04-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-tags: ['黒松サイダー', '黒松サルサパリラ', '台湾ブランド', '飲食文化', '張雨生']
-readingTime: 12
+tags: ['黒松汽水', '黒松サザ', '台湾ブランド', '飲食文化', '張雨生']
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-05-01T18:02:56+08:00'
-featured: false
+translatedAt: '2026-11-02T01:33:16.724421+00:00'
 ---
 
 > **30秒概要：**
