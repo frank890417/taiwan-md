@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-12T19:57:22+08:00'
+translatedAt: '2026-11-02T15:34:31.272156+00:00'
 ---
 
 # تحديث صيد الأسماك في تايوان: كيف ربطت شبكة صيد واحدة ميناء تشيانتشن والمحيطات الثلاثة ومائدة جزيرة
@@ -164,8 +164,8 @@ _مصدر الصورة: [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://co
 
 [^10]: [دراسة حالة مشروع خطة بناء إدارة صيد متعددة التنوع](https://ws.ndc.gov.tw/001/administrator/10/relfile/0/12936/d6f3e5bd-684d-4ea7-9595-6b925c5124e0.pdf) — صفحة تقرير بحثي للجنة التنمية الوطنية، تناقش وظائف موانئ الصيد، وتنويع الصناعة، والبناء المحلي، وتحول الصيد.
 
-## قراءة موسعة
+## قراءات إضافية
 
-- [أصل صيد تايوان](/ar/history/taiwan-fishery-origins) — النصف الأول من نفس البحر: التجارب المائية في الحقبة اليابانية، وأسواق السمك، واستلام التقنية بعد الحرب
+- [أصول صناعة الصيد في تايوان](/ar/history/taiwan-fishery-origins) — النصف الأول من نفس الحقبة البحرية: تجارب المنتجات المائية خلال فترة الحكم الياباني، وأسواق الأسماك، واستلام التقنيات في فترة ما بعد الحرب
 - [تاريخ التجارة البحرية في تايوان](/ar/history/taiwan-maritime-trade-history)
-- [تاريخ صناعة السكر في تايوان](/history/台灣糖業史)
+- [تاريخ صناعة السكر في تايوان](/ar/economy/taiwan-sugar-industry)
