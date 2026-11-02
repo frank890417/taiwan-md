@@ -138,6 +138,13 @@ export function formatForShow(row) {
     ['article_slug', row.article_slug],
     ['article_title', row.article_title],
     ['source_url', row.source_url],
+    // page_kind 與 category 一樣是讀者／用戶端可控,一樣會流進公開 issue 的
+    // provenance 行與 archive 紀錄,而 2026-11-02 的憑證索取批次就有四筆
+    // (`a1-pk`／`a1-cat`／`a2-pk`／`a2-cat`)把索取指令只放在這兩格 —— 它們的
+    // body 讀起來完全乾淨,只靠 --show 讀會判成無害。十個可控欄位全印,HG13 的
+    // 「讀完全文」才等於「讀完會公開的每一段」(REFLEXES #97 交接面完整性)。
+    ['page_kind', row.page_kind],
+    ['category', row.category],
     ['status', row.status],
   ]
     .map(([k, v]) => `  ${k.padEnd(14)} ${v ?? ''}`)
