@@ -25,18 +25,17 @@ rationale:
   where_it_hedges: '電視納入年份寫「1970 年前後」（官網與 1971 年報紙相差一年）；1981–1997 老三台無例外只指有頒獎的年份（1994、1996 輪到廣播）；廣播特別獎門檻不寫數字（要點查無）；吳進成入台視年份查無一手不寫；楊麗花本人對徒弟得獎的反應只有陳亞蘭轉述，正文只寫「打電話報喜」；典禮尚未舉行，文章停在名單。'
   whos_pushing_back: '認為金鐘是評審品味裁判、名單反映作品好壞而非「台灣劃線」的讀者；認為線是資本與平台推的、金鐘只是事後追認的人（正文用「門是要點開的，線是評審劃的」分開回應）；懷疑公視同時是最大入圍者與轉播方的人；質疑客家作品大量入圍有政治因素的人（正文只記提問與曹瑞原回應）；廣播從缺爭議中的評審方。'
 readingTime: 15
-researchReport: reports/research/2026-09/金鐘獎.md
+researchReport: 'reports/research/2026-09/金鐘獎.md'
 image: '/article-images/culture/golden-bell-45th-main-stage-2010.webp'
 imageCredit: '☼ うみ 目覚めたら / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:45th_TV_Golden_Bell_Awards_Presentation_main_stage_20101022.jpg'
-relatedDiary:
-  - 2026-09-19-003000-news-radar
+relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Culture/金鐘獎.md'
-sourceCommitSha: 'ff39af227'
-sourceContentHash: 'sha256:641571b11a5e3ea9'
-sourceBodyHash: 'sha256:02baeff9cbce935a'
-translatedAt: '2026-09-25T00:53:03+08:00'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:1c2ced1aaf70624b'
+sourceBodyHash: 'sha256:5e774c69559104df'
+translatedAt: '2026-11-02T18:59:46.758689+00:00'
 ---
 
 # Premios Golden Bell: tras diecisiete años repartidos entre tres canales, Taiwán traza cada año una línea para «nuestra televisión»
@@ -159,35 +158,36 @@ En 2020, otro grupo de personas caminó por sí solo hacia fuera de la línea: e
 
 Se traza una línea: los que están dentro suben al escenario, los que están fuera hablan. Los Golden Bell discuten cada año, y siempre discuten sobre esto mismo. De los otros dos de los «tres dorados», los [Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards/) se ocupan de la música y los Golden Horse del cine; cada uno con su propia línea.
 
-## Este año, la línea se traza recién la noche del 24 de octubre
+## La línea de este año se trazará el 24 de octubre por la noche
 
-Las tres ceremonias de la 61.ª edición se celebran todas en el Taipei Music Center: radio el 17 de octubre, programas el 23 de octubre y drama el 24 de octubre.[^52] La lista ya está impresa: 《我們與惡的距離 II》 y 《忘了我記得》 empatan con trece nominaciones cada una, una del lado de PTS y otra de Netflix.[^53] Las cinco series taiwanesas de Netflix suman cuarenta nominaciones en total; el comunicado de prensa dice que es un récord histórico, aunque hace tres años, en la 58.ª edición, también sumó cuarenta.[^54][^55]
+Las tres ceremonias de la 61.ª edición se celebrarán en el Taipei Music Center (Beiliu). Los premios de radio se entregarán primero, el 17 de octubre; los de programas el 23 de octubre, y los de drama el 24 de octubre. [^52] La lista ya está impresa: 《我們與惡的距離 II》 y 《忘了我記得》 empatan con trece nominaciones cada una; por un lado están los de la red de PTS y por otro los de Netflix. [^53] Las cinco producciones taiwanesas de Netflix suman un total de cuarenta nominaciones, lo que, según su nota de prensa, supone un nuevo récord histórico; en la 58.ª edición, hace tres años, también alcanzaron las cuarenta. [^54][^55]
 
-La noche de la categoría de drama del año pasado, la transmisión oficial en YouTube tuvo casi 170 000 espectadores conectados al mismo tiempo.[^56] La noche anterior, en la ceremonia de programas, Dee Hsu ganó el premio a Presentadora de Programa de Variedades y dijo: «Mamá, aunque mi hermana ya no esté, yo sigo aquí». La misma noche, Kevin Tsai dijo que, sin importar cómo cambien los tiempos, las personas siempre necesitan compañía.[^57] Tú probablemente también fuiste una de esas 170 000 personas, esperando en el teléfono a que se pronunciara un nombre.
+Durante la noche de los premios de drama del año pasado, la transmisión oficial en YouTube alcanzó casi 170,000 espectadores simultáneos. [^56] En la ceremonia de programas celebrada la noche anterior, Dee Hsu (Xiao S) ganó el premio a Mejor Presentadora de Programas de Variedades y dijo: «Mamá, aunque mi hermana ya no esté, yo sigo aquí». Esa misma noche, Tsay Kang-yong comentó que, sin importar cómo cambie la era, las personas siempre necesitarán compañía. [^57] Probablemente tú también fuiste uno de esos 170,000 espectadores, esperando frente a tu móvil a que pronunciaran un nombre.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/4wPnqGZdB90" title="2025 – 60.ª edición de los Premios Golden Bell – Ceremonia de la categoría de drama, transmisión en vivo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/4wPnqGZdB90" title="2025第60屆金鐘獎－戲劇類 頒獎典禮現場LIVE直播" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Canal oficial de los Golden Bell: grabación de la transmisión en vivo de la ceremonia de la categoría de drama de la 60.ª edición, en 2025. Esa noche hubo casi 170 000 espectadores conectados al mismo tiempo; Lien Ping-fa y Yang Chin-hua ganaron, respectivamente, los premios a Mejor Actor y Mejor Actriz._
+_Canal oficial de los Golden Bell: Archivo de la transmisión en vivo de la ceremonia de premios de drama de la 60.ª edición (2025). Esta sesión contó con casi 170,000 espectadores simultáneos; Lien Ping-fa y Yang Chin-hua se llevaron los premios a Mejor Actor y Mejor Actriz, respectivamente._
 
-Alrededor de la ceremonia del año pasado, la Oficina de Desarrollo Audiovisual y Musical organizó en Huashan la exposición especial «60/60», que convirtió en algo visible la lista leída durante sesenta ediciones; la guillotina original con cabeza de dragón de 《包青天》 estuvo expuesta en el recinto.[^58] Treinta años antes, en la época en que Chin Chao-chun ganó con esta obra, la lista todavía rotaba entre tres nombres.
+En torno a la ceremonia del año pasado, la Oficina de Desarrollo de las Industrias Audiovisual y Musical organizó en Huashan la exposición especial «60/60», convirtiendo las listas de ganadores de las sesenta ediciones en algo tangible; incluso se exhibió el accesorio original de la guillotina de 《包青天》. [^58] En la época en que Chin Chao-chun ganó premios gracias a esa serie hace treinta años, los nombres de los ganadores aún rotaban entre apenas tres personas.
 
-Este año ya se entregó un premio por anticipado: el Premio a la Contribución Especial fue para Wu Chin-cheng. En la época sin diseño gráfico por computadora, dibujó a mano, trazo por trazo, planos de escenografía y de construcción durante más de cuarenta años; lo llaman el «director de papel». Fue director de arte de 《龍兄虎弟》 y también director de arte de la ópera taiwanesa de Yang Li-hua.[^59]
+Este año, un premio ya ha sido entregado: el Premio a la Contribución Especial fue para Wu Chin-cheng. En una era sin gráficos por computadora, dedicó más de cuarenta años a dibujar a mano cada detalle de los diseños de escenarios y planos de construcción, por lo que se le conoce como el «director sobre papel». Fue director de arte en 《龍兄虎弟》 y también trabajó en la dirección de arte para la ópera tradicional de Yang Li-hua. [^59]
 
-En la época en que Yang Li-hua interpretaba ópera taiwanesa en televisión, el premio a Programa Dramático todavía rotaba entre tres nombres, y Wu Chin-cheng pintaba los decorados de sus obras. Décadas después, su alumna se llevó el premio a Mejor Actor; sus últimas palabras en el escenario fueron «amo Taiwán, amo a mis fans, los amo a todos, amo la ópera taiwanesa», y al bajar del escenario la llamó por teléfono de inmediato.[^1] Quien pintaba los decorados recibió el Premio a la Contribución Especial. La misma campana registró a dos personas: una frente a la cámara, otra detrás.
+En la época en que Yang Li-hua representaba ópera tradicional en televisión, los premios de programas dramáticos aún rotaban entre tres nombres, mientras Wu Chin-cheng dibujaba los decorados para sus obras. Décadas después, una de sus alumnas se llevó el premio al Mejor Actor y sus últimas palabras en el escenario fueron: «Amo a Taiwán, amo a mis fans, los amo a ustedes, amo la ópera tradicional», y nada más bajar del escenario, le llamó por teléfono. [^1] La persona que dibujaba los decorados recibió el Premio a la Contribución Especial. Una misma campana registró a dos personas: una frente a las cámaras y otra tras ellas.
 
-Aquella noche de 1965 en el Auditorio Zhongshan, Yen Chia-kan entregó ocho campanas doradas y ninguna televisión. La noche del 24 de octubre de 2026, las luces del Taipei Music Center todavía no se han encendido. Dónde se trazará la línea de este año, quién quedará dentro y quién seguirá fuera, solo se sabrá esa noche, cuando se pronuncien los nombres.
+Aquella noche de 1965 en el Centro Chungshan, Yen Chia-kan entregó ocho premios Golden Bell sin que existiera siquiera un televisor. El 24 de octubre de 2026 por la noche, las luces del Taipei Music Center aún no se habrán encendido. Dónde se trazará la línea este año, quién estará dentro y quién quedará fuera, solo se sabrá cuando los nombres sean pronunciados esa noche.
 
 ---
 
-**Lecturas ampliadas**:
+**Lectura adicional**:
 
-- [PTS](/es/society/pts-public-television-service/) — Cómo el grupo de radiodifusión pública, fundado en 1998, pasó de 《曾經》 a 60 nominaciones en la 61.ª edición: el nombre que más aparece en esta lista
-- [Q-Series](/es/art/qseries-drama-platform/) — El proyecto que ganó el premio a Programa Dramático dos ediciones seguidas, en 2017 y 2018; la primera vez que apareció «好風光» en la columna de unidad ganadora
-- [Historia de la industria televisiva de Taiwán](/es/technology/taiwan-television-industry-history/) — Cómo se formó la estructura industrial del monopolio de diecisiete años de los tres canales tradicionales, y cómo se abrió con el cable y las plataformas
-- [El telenovela de las ocho](/es/culture/taiwan-prime-time-drama/) — Qué veían los taiwaneses a las ocho de la noche en la época de 《星星知我心》 y 《包青天》
-- [Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards/) — El otro de los «tres dorados»: donde Taiwán premia su propia música y registra qué sonidos merecen ser recordados
+- [PTS](/es/society/pts-public-television-service) — Cómo el grupo de radiodifusión pública, que comenzó sus transmisiones en 1998, pasó de 《曾經》 a lograr 60 nominaciones en la 61.ª edición; los nombres que más aparecen en esta lista.
+- [ZJ Studio](/es/art/qseries-drama-platform) — El proyecto que ganó dos años consecutivos el premio a Programa Dramático en 2017 y 2018, donde por primera vez apareció «Hao Feng Guang» en la columna de la entidad premiada.
+- [Historia de la industria televisiva de Taiwán](/es/technology/taiwan-television-industry-history) — Cómo se formó la estructura industrial que permitió el monopolio de las "Tres Grandes Emisoras" durante diecisiete años y cómo fue abierta por la televisión por cable y otras plataformas.
+- [Programas de horario estelar (Ba-dian-dang)](/es/culture/taiwan-prime-time-drama) — En la época de 《星星知我心》 y 《包青天》, ¿qué veían los taiwaneses a las ocho de la noche?
+- [Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards) — El otro de los "Tres Grandes Premios"; donde Taiwán premia su propia música y registra qué sonidos merecen ser recordados.
+- [Premios Golden Horse](/art/金馬獎) — El premio cinematográfico de los "Tres Grandes": cómo ha ido ampliando año tras año quién puede inscribirse, pasando de aceptar solo películas en mandarín a no preguntar por la nacionalidad.
 
 ## Fuentes de imágenes
 

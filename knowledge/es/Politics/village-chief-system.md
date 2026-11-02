@@ -1,277 +1,288 @@
 ---
-title: 'Sistema de juntas de aldea y barrio: 7.748 juntas electas, la unidad política más básica de Taiwán'
-description: 'La oficina de barrio abierta a las cinco y media de la mañana, un subsidio mensual de 45.000 por gastos operativos, más del 60 % sin afiliación partidista: los jefes de aldea y barrio son el cargo político menos "político" de las elecciones taiwanesas, y también la evidencia más completa de la democratización de Taiwán. Desde el sistema baojia de la era colonial japonesa hasta las elecciones directas de 1950, estos 7.748 cargos —más que los establecimientos de 7-Eleven en toda la isla— representan ochenta años de representación de las relaciones locales.'
+title: 'El sistema de jefes de aldea y barrio: 7,748 líderes electos, la unidad política más básica de Taiwán'
+description: 'Oficinas abiertas a las 5:30 a. m., NT$54,000 de subsidio mensual y más del 60 % sin partido: el jefe de barrio es el cargo menos «político» en las elecciones de Taiwán y la prueba más completa de su democratización.'
 date: 2026-05-27
-author: 'Taiwan.md'
 category: 'Politics'
+tags:
+  [
+    'jefe de barrio',
+    'autonomía local',
+    'Ley de Instituciones Locales',
+    'sistema Baojia',
+    'elecciones 2026',
+  ]
 subcategory: '選舉制度'
-tags: ['村里長', '基層自治', '地方制度法', '日治保甲', '2026選舉']
-readingTime: 12
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: false
-translatedFrom: Politics/村里長制度.md
-sourceCommitSha: 837e22b9
-sourceContentHash: sha256:cce4699f9fdc3697
-sourceBodyHash: sha256:48ef53002db1337d
-translatedAt: 2026-07-11T00:35:00+08:00
+readingTime: 12
+translatedFrom: 'Politics/村里長制度.md'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:968a60e9d47e825b'
+sourceBodyHash: 'sha256:c77c8cceb31c23cb'
+translatedAt: '2026-11-03T00:29:58+08:00'
 ---
 
-# Sistema de juntas de aldea y barrio: 7.748 juntas electas, la unidad política más básica de Taiwán
+# El sistema de jefes de aldea y barrio: 7,748 líderes electos, la unidad política más básica de Taiwán
 
-> **Panorama en 30 segundos:** 7.748 jefes de aldea y barrio en toda la isla —más que las más de 6.600 tiendas de 7-Eleven. Mandato de cuatro años, subsidio mensual de unos 45.000 por gastos operativos. Esto no es un salario, es un subsidio de oficina que el gobierno entrega al "agente de relaciones locales". Los jefes de aldea y barrio son el **único cargo en las elecciones taiwanesas donde los candidatos sin afiliación partidista son dominantes**: más del 60 % no se presentan con partido; la tasa de reelección es asombrosamente alta, y la ventaja del titular es varias veces mayor que en otros cargos públicos. La historia de este cargo se remonta al sistema baojia de la era colonial japonesa, heredado directamente tras la guerra con un cambio de nombre, y ha sido elegido por sufragio directo desde 1950 —antes que los magistrados de condado y alcaldes—. Este cargo no parece muy "político", pero es la evidencia de cómo la autonomía taiwanesa creció desde la base.
-
----
-
-## La oficina de barrio a las cinco y media de la mañana
-
-A las cinco y media de la mañana, la persiana metálica de un callejón en el distrito de Wanhua, Taipéi, se levanta lentamente. La luz de la oficina de barrio se enciende primero, antes que la del puesto de desayuno. Un jefe de barrio que lleva tres mandatos consecutivos está contando las comidas preparadas que debe entregar ese día: la lista incluye doce personas mayores que viven solas, quién necesita comida blanda, quién se hizo un tratamiento dental recién, quién estuvo hospitalizado el día anterior y acaba de volver. Se lo sabe todo de memoria, con más detalle que el sistema de datos de residentes.
-
-A las siete, recorre el barrio en motocicleta. De regreso a la ofición recibe tres llamadas: un vecino reporta que la farola del callejón parpadea; una madre pregunta por la inscripción en actividades comunitarias del próximo semestre; una señora dice que el perro del vecino de enfrente ladró toda la noche y pide al jefe de barrio que "vaya a hablar" —no a llamar a la policía, sino a hablar.
-
-A las nueve, enciende la computadora, accede al sistema de jefes de aldea y barrio del Ministerio del Interior y carga el acta de la asamblea vecinal de la noche anterior. A las diez, la oficina de distrito llama para preguntarle si puede ayudar la próxima semana con una campaña de información del registro civil. A las once, recibe en la oficina a un veterano del ejército recién salido del hospital y le ayuda a llenar una solicitud de prestaciones sociales —el formulario está disponible en la oficina de distrito, pero este veterano no sabe tomar el metro.
-
-Por la tarde, recorre el barrio. Al anochecer, vuelve a la oficina para organizar los documentos de coordinación de la mesa electoral —la votación unificada del 28 de noviembre de 2026 se acerca, y debe confirmar el lugar de votación de su barrio. A las siete de la noche, asamblea vecinal. A las nueve, tras la asamblea, compra un onigiri (bola de arroz) en una tienda de conveniencia para cenar.
-
-Este jefe de barrio tiene **7.748 homólogos** en toda la isla.
+> **Resumen en 30 segundos:** Hay 7,748 jefes de aldea y barrio (村里長) en todo Taiwán, superando las más de 6,600 tiendas 7-Eleven. Su mandato es de 4 años y reciben un subsidio de gestión de NT$54,000 mensuales; esto no es un salario, sino una ayuda para gastos de oficina entregada por el gobierno a estos «agentes de relaciones locales». Es el **único cargo en las elecciones de Taiwán donde los candidatos independientes son dominantes**, con más del 60 % sin afiliación partidista. Su tasa de reelección es asombrosamente alta, con una ventaja de incumbencia muy superior a otros cargos públicos. Su historia se remonta al sistema Baojia (保甲) de la era colonial japonesa, heredado tras la guerra y elegido por voto popular desde 1950, incluso antes que los alcaldes de condados o ciudades. El cargo de jefe de barrio no parece «política», pero es la evidencia de cómo la autonomía en Taiwán ha crecido desde su base más profunda.
 
 ---
 
-## 7.748 juntas electas
+## La oficina del barrio a las cinco y media de la mañana
 
-7.748 —una cifra superior al número de establecimientos de la mayor cadena de tiendas de conveniencia. A finales de 2024, 7-Eleven tenía unas 6.800 tiendas en Taiwán, y PX Mart (全聯) unas 1.100[^1]. La densidad de jefes de aldea y barrio es mayor que la de las tiendas de conveniencia donde la gente compra café y onigiri todos los días.
+A las cinco y media de la mañana, la persiana metálica de un callejón en el distrito de Wanhua, Taipéi, se levanta lentamente. Las luces de la oficina del barrio (里辦公處) se encienden antes que las de cualquier tienda de desayunos. Un jefe de barrio que ha sido reelegido tres veces está contando los almuerboxes que debe repartir hoy: en su lista hay doce ancianos que viven solos; recuerda quién prefiere comida blanda, quién se acaba de hacer dentadura nueva o quién regresó ayer del hospital, anotándolo todo con más detalle que el sistema de datos de los residentes.
 
-La composición específica (según el anuncio electoral de la CEC de 2026 y las estadísticas de la Dirección de Asuntos Civiles del Ministerio del Interior)[^2]:
+A las siete, termina su primera ronda en moto. De camino a la oficina, recibe tres llamadas: un vecino informa que una farola parpadea; una madre pregunta por la inscripción a las actividades comunitarias del próximo trimestre; una señora dice que el perro de la casa de enfrente ha ladrado toda la noche y espera que el jefe de barrio «vaya a hablar con ellos» — no para llamar a la policía, sino para mediar.
 
-- **Jefes de barrio en municipios especiales**: unos 4.800 —el nivel más bajo dentro de las seis grandes ciudades
-- **Jefes de aldea en áreas no municipales** (municipios y distritos): unos 1.800 —principalmente en los condados de Hualien, Taitung, Yunlin, Chiayi, Miaoli, Nantou, Pingtung, etc.
-- **Jefes de barrio en ciudades bajo jurisdicción de condado** (ciudades administradas por condados): unos 1.100 —por ejemplo, los barrios dentro de Keelung, Hsinchu y Chiayi
-- **Total: 7.748** (la cifra definitiva se confirmará en el anuncio electoral de la CEC de 2026)
+A las nueve, abre el ordenador e inicia sesión en el sistema de jefes de barrio del Ministerio del Interior para subir las actas de la reunión vecinal de anoche. A las diez, lo llama la oficina del distrito para pedirle ayuda con una campaña de divulgación sobre el registro civil la próxima semana. A las once, recibe en su oficina a un veterano de guerra que acaba de salir del hospital para ayudarle a rellenar un formulario de asistencia social; el formulario está físicamente en la oficina del distrito, pero este veterano no sabe usar el metro.
 
-Estos 7.748 cargos se eligen simultáneamente el 28 de noviembre de 2026 —el mismo día en que se vota por alcaldes de municipios especiales, magistrados de condado, concejales, alcaldes de municipio, jefes de distritos indígenas de montaña, representantes de distritos indígenas, representantes de municipio y concejales de municipio, todo en una misma jornada electoral. Ese es el noveno casillero de la llamada "elección unificada de nueve en uno"[^3].
+Por la tarde, recorre el barrio inspeccionando zonas. Al atardecer, vuelve a la oficina para organizar los documentos de coordinación de los centros de votación — las elecciones locales (九合一選舉) del 28 de noviembre de 2026 se acercan, y debe confirmar el recinto de votación de su zona. A las siete de la tarde, reunión vecinal. Tras la sesión a las nueve, compra un onigiri en una tienda de conveniencia para cenar.
 
-De los nueve cargos, los otros ocho llevan símbolos partidistas, incluyen debates de políticas y grandes mítines. **La única excepción** son los jefes de aldea y barrio: la mayoría de los candidatos no se presentan con partido, no organizan mítines ni imprimen folletos elaborados. Lo que hacen es tocar puerta por puerta, presentarse diciendo "soy el vecino de al lado, tal" y dejar su tarjeta en el buzón.
+Este jefe de barrio es uno de **7,748** en todo Taiwán.
 
 ---
 
-## Base legal: las últimas tres leyes de la Ley de Gobierno Local
+## 7,748 líderes electos
 
-El estatus legal del cargo de jefe de aldea y barrio está establecido en los artículos 59 a 61 de la Ley de Gobierno Local (_地方制度法_) —de un total de 88 artículos, los jefes de aldea y barrio aparecen en la sección final[^4].
+7,748: esta cifra supera el número de tiendas de la cadena líder de tiendas de conveniencia. A finales de 2024, había unos 6,800 establecimientos de 7-Eleven[^1] y más de 1,100 de PX Mart en Taiwán. La densidad de jefes de barrio es mayor que la de las tiendas donde la gente compra café o comida a diario.
 
-El artículo 59 establece que cada aldea y barrio tendrá un "jefe de aldea o barrio", elegido por los residentes conforme a la ley, con un mandato de cuatro años y posibilidad de reelección consecutiva. La frase clave es "**reelección consecutiva permitida**" —sin límite de mandatos. Un jefe de aldea o barrio puede, en teoría, servir cinco, ocho o doce mandatos —siempre que gane las elecciones cada cuatro años. En la práctica, muchos llevan tres mandatos o más, y no es raro encontrar quienes superan los cinco mandatos[^5].
+Composición específica (según el anuncio de las elecciones de 2026 de la Comisión Electoral Central y estadísticas del Departamento de Asuntos Civiles del Ministerio del Interior) [^2]:
 
-El artículo 60 establece que los jefes de aldea y barrio están bajo la dirección y supervisión del alcalde de municipio (distrito, ciudad o distrito), y deben encargarse de los asuntos de la aldea o barrio y de las tareas encomendadas. Las "**tareas encomendadas**" son el verdadero contenido del trabajo diario del jefe de aldea o barrio —la ley no las enumera, pero en la práctica abarcan todo.
+- **Jefes de barrio en municipios de especial municipalidad**: unos 4,800 — la base más baja en las seis grandes metrópolis.
+- **Jefes de aldea (村長) en zonas no metropolitanas** (municipios rurales o urbanos): unos 1,800 — principalmente en condados como Hualien, Taitung, Yunlin, Chiayi, Nantou, Pingtung, etc.
+- **Jefes de barrio en ciudades de condado**: unos 1,100 — por ejemplo, los barrios dentro de las ciudades de Keelung, Hsinchu o Chiayi.
+- **Total: 7,748** (sujeto a la convocatoria oficial de la CEC para 2026).
 
-El artículo 61 establece que los jefes de aldea y barrio son cargos sin remuneración (_sin salario_), pero que las oficinas de municipio (distrito, ciudad o distrito) asignarán un **subsidio por gastos operativos**. Desde 2007, este subsidio se fijó uniformemente en 45.000 nuevos dólares taiwaneses mensuales[^6]. Las palabras "sin remuneración" son importantes: significan que el jefe de aldea o barrio **no es funcionario público**, no tiene prestaciones de salud ni laborales, ni pensión, ni sistema de evaluación de funcionarios. Lo que recibe es un "subsidio operativo", no un salario.
+Estos 7,748 cargos se renuevan simultáneamente el 28 de noviembre de 2026 — al votar en la misma papeleta que los alcaldes de municipios especiales, alcaldes de condados, concejales, alcaldes de municipios rurales, jefes de distritos indígenas, representantes de distrito indígena y representantes ciudadanos de municipio, se completa el noveno espacio del término «elecciones locales» (九合一) [^3].
 
-El diseño legal de "sin remuneración" más un subsidio mensual de 45.000 refleja una postura sutil: el jefe de aldea o barrio se define como una "**persona local con vocación de servicio**", no como empleado del Estado. Esta definición influye en toda la economía política del cargo.
-
----
-
-## Atribuciones legales vs. trabajo real
-
-La ley establece tres atribuciones formales[^4]:
-
-1. **Convocar asambleas de residentes** —al menos una al año, para discutir asuntos públicos de la aldea o barrio
-2. **Ejecutar las tareas encomendadas por la oficina de municipio** —traducir las políticas del gobierno superior a nivel de hogar
-3. **Reflejar la voluntad popular** —reportar las necesidades de los residentes a niveles superiores
-
-Pero cualquier jefe de aldea o barrio en activo dirá que estas tres son solo la punta del iceberg. La lista de trabajo real es mucho más larga[^7][^8]:
-
-**Mediación de conflictos vecinales** —filtraciones entre pisos, disputas por estacionamiento, ruido de mascotas, conflictos por clasificación de residuos. El jefe de aldea o barrio no es policía, juez ni árbitro, pero suele ser el último amortiguador antes de que el conflicto llegue a la comisaría. Un jefe de barrio experimentado puede resolver el 70 % de los conflictos vecinales en la sala de té de la oficina de barrio.
-
-**Atención a personas mayores que viven solas** —entregar comidas preparadas, acompañar a citas médicas, recordar el pago de servicios públicos, alertar cuando no se ha visto actividad en casa durante varios días. El índice de envejecimiento de Taiwán ya superó el 100[^9], y los jefes de aldea y barrio son a menudo los primeros en detectar anomalías en personas mayores, antes incluso que los servicios sociales.
-
-**Coordinación de mesas electorales** —en cada elección, la CEC debe establecer más de 17.000 mesas de votación en toda la isla[^10], y cada una requiere coordinación de espacio, señalización y accesibilidad, con la asistencia del jefe de aldea o barrio. Las mesas suelen ubicarse en escuelas primarias, centros comunitarios o templos del barrio —y la coordinación de estos espacios recae casi siempre en el jefe de barrio.
-
-**Reporte de desastres** —tifones, terremotos, inundaciones, incendios. Los jefes de aldea y barrio son las terminaciones nerviosas más periféricas del sistema local de prevención de desastres. Cuando se corta la luz o el agua, la primera llamada del vecino no suele ser al 1999 ni al 119, sino al jefe de barrio.
-
-**Desarrollo comunitario** —asados de medio otoño, actividades de festival del bote del dragón, excursiones para mayores, talleres para madres, clases de talento infantil. Estas actividades no son obligatorias, pero un jefe de barrio que las organiza gana reputación y puede ser reelegido cinco veces.
-
-**Asistencia en trámites de registro civil** —ayudar a personas mayores que no saben usar computadoras a llenar formularios, explicar procedimientos de cambio de domicilio, informar sobre nuevas políticas de la oficina de distrito.
-
-Esta lista no tiene límite. Un jefe de barrio que lleva tres mandatos puede conocer los nombres del 70-80 % de los residentes de su barrio —no es capacidad profesional, es capital relacional acumulado durante doce años.
+De los nueve tipos de cargos, los otros ocho tendrán símbolos de partidos, debates de políticas y grandes mítines. La **única excepción** es el jefe de barrio: la mayoría de los candidatos no llevan partido, no organizan mítines ni imprimen folletos sofisticados. Lo que hacen es tocar puerta tras puerta, presentarse diciendo «soy fulano, el vecino de al lado» y deslizar su tarjeta en el buzón.
 
 ---
 
-## De baojia a aldea y barrio: ochenta años de herencia institucional
+## Base legal: tres artículos al final de la 《Ley de Instituciones Locales》
 
-La unidad de gobernanza local "aldea y barrio" no fue inventada por la República de China. Su predecesor es el **sistema baojia** de la era colonial japonesa[^11][^12].
+El estatus legal de este cargo se encuentra en los artículos 59 al 61 de la 《Ley de Instituciones Locales》 — de un total de 88 artículos, el cargo de jefe de barrio aparece casi al final [^4].
 
-En 1898, el Gobierno General de Taiwán bajo dominio japonés promulgó el Reglamento Baojia, reorganizando las estructuras baojia existentes desde finales de la era Qing como la unidad más periférica de la gobernanza colonial. Diez hogares formaban un _jia_ (甲), diez _jia_ formaban un _bao_ (保); cada _bao_ tenía un _baozheng_ (保正) y cada _jia_ un _jiazheng_ (甲長), elegidos por los residentes locales (aunque las listas requerían aprobación del Gobierno General), con mandatos de dos años. Las funciones del sistema baojia eran amplias: registro de hogares, prevención de epidemias, recaudación de impuestos, mantenimiento del orden, movilización de mano de obra.
+El artículo 59 establece que cada aldea o barrio tendrá un «jefe de aldea» (村長) o «jefe de barrio» (里長), elegido por los residentes según la ley para un mandato de cuatro años, con posibilidad de reelección. La clave aquí es «**reelección sucesiva**» (連選得連任): no hay límite de mandatos. Teóricamente, un jefe puede servir cinco, ocho o doce mandatos, siempre que gane cada cuatro años. En la práctica, hay muchos que han servido más de tres mandatos y no es raro ver a algunos con más de cinco [^5].
 
-El sistema baojia operó en Taiwán durante 47 años, hasta su abolición tras la guerra en 1945. Pero la unidad básica "bao" no desapareció realmente —fue renombrada.
+El artículo 60 dispone que el jefe de barrio está bajo la dirección y supervisión del alcalde del municipio o distrito (鄉、鎮、市、區) para gestionar los asuntos públicos locales y las tareas encomendadas. Esas cuatro palabras, «**tareas encomendadas**» (交辦事項), constituyen el verdadero núcleo de su trabajo diario; la ley no las enumera, pero en la práctica abarcan de todo.
 
-En 1946, la Oficina del Gobernador Provincial de Taiwán abolió el sistema baojia y estableció las "aldeas" (村, en áreas rurales) y los "barrios" (里, en áreas urbanas)[^13]. Los _baozheng_ pasaron a ser "jefes de aldea" y "jefes de barrio", pero las fronteras, el número de hogares y la estructura organizativa se heredaron en gran medida. Muchos _baozheng_ de la época colonial pasaron directamente a ser los primeros jefes de aldea y barrio de la posguerra en la primera reforma de 1946.
+El artículo 61 estipula que el cargo es **sin sueldo** (無給職), pero **el ayuntamiento del municipio o distrito debe asignar un subsidio para asuntos de barrio**, pagadero mensualmente. El importe se detalla en el artículo 7 de la 《Ordenanza sobre el Pago de Gastos de Representantes Populares Locales y Subsidios para Asuntos de Jefes de Aldea y Barrio》: NT$50,000 por mes por cada barrio, con un aumento del 20 % para las zonas indígenas. Esta misma norma vincula este subsidio a los ajustes de los funcionarios militares y docentes; cuando se ajustan los sueldos de estos sectores, el subsidio se ajusta proporcionalmente [^6]. Este importe se mantuvo en NT$45,000 durante años hasta que una reforma en 2022 lo subió a NT$50,000, aplicándose desde la toma de posesión de los nuevos jefes el 25 de diciembre de ese año [^27]. El Ministerio del Interior anunció en julio de 2026 un nuevo aumento: NT$54,000 para barrios comunes y NT$64,800 para zonas indígenas, con efecto retroactivo al 1 de julio de 2026; tras el ajuste salarial general de enero de 2027, pasarán a ser NT$56,160 y NT$67,392 respectivamente [^28]. El término «sin sueldo» es crucial: significa que el jefe de barrio **no es funcionario público**, no tiene seguridad social ni pensión del Estado, ni está sujeto al sistema de evaluación de funcionarios. Lo que reciben es un «subsidio de gestión», no un salario.
 
-En 1950, la provincia de Taiwán implementó la autonomía local, y los jefes de aldea y barrio pasaron a ser **elegidos directamente por los residentes**[^13]. Este momento es anterior a la elección directa de magistrados de condado y alcalces —la elección directa de magistrados y alcalces se implementó en la primera elección provincial de 1950[^14], y los jefes de aldea y barrio corrieron al mismo tiempo, pero **la elección directa de jefes de aldea y barrio nunca se interrumpió**, mientras que la de magistrados y alcalces sufrió varios ajustes legislativos centrales entre las décadas de 1960 y 1990.
-
-En 1999 se promulgó la Ley de Gobierno Local, integrando el sistema de jefes de aldea y barrio en esta ley y convirtiéndolo formalmente en un cargo de autonomía de base unificado a nivel nacional[^4].
-
-Desde el establecimiento del sistema baojia en 1898, pasando por el cambio de nombre en 1946, las elecciones directas en 1950 y la integración legal en 1999 —esta **herencia institucional de 128 años** es evidencia de la continuidad de la gobernanza de base en Taiwán. El esqueleto administrativo dejado por el sistema colonial japonés fue rellenado con contenido democrático tras la guerra, y sigue funcionando hasta hoy.
+El diseño legal de un cargo «sin sueldo» con un subsidio de más de 50,000 es una postura sutil: el jefe de barrio se define como un «**ciudadano local con vocación de servicio para su comunidad**», no como un empleado del Estado. Esta definición influye en toda la economía política del cargo.
 
 ---
 
-## Por qué este cargo está dominado por candidatos sin afiliación partidista
+## Funciones legales vs. Trabajo real
 
-De los nueve cargos de la elección unificada, los jefes de aldea y barrio son el **único** donde los candidatos sin afiliación partidista son mayoría[^15].
+La ley establece tres funciones principales [^4]:
 
-Este fenómeno no es casual, está determinado por la escala.
+1. **Convocar asambleas vecinales** — al menos una vez al año para discutir asuntos públicos locales.
+2. **Ejecutar las tareas encomendadas por el ayuntamiento** — llevar las políticas del gobierno superior a cada hogar.
+3. **Reflejar la opinión pública** — informar de las necesidades de los residentes a las autoridades superiores.
 
-**Escala demasiado pequeña**: una aldea o barrio tiene en promedio entre 2.000 y 5.000 habitantes; las aldeas en áreas rurales pueden tener solo 200-500 personas[^16]. A esta escala, si un candidato gana o no no depende de su posición partidista, sino de **si conoce a los residentes y si los residentes lo conocen a él**. Un candidato que pueda llamar a los vecinos por su nombre tiene más utilidad que cualquier nominación partidista.
+Sin embargo, cualquier jefe de barrio en funciones te dirá que esto es solo la punta del iceberg. La lista de trabajo real es mucho más extensa [^7][^8]:
 
-**Las facciones locales son mucho más fuertes que la afiliación partidista**: los clanes locales (especialmente en el centro-sur y las islas), las asociaciones de paisanos, los consejos de administración de templos, las cooperativas agrícolas, las cooperativas pesqueras, los sindicatos industriales —la influencia de estas organizaciones a nivel de aldea o barrio es mucho mayor que la de los partidos políticos[^17]. Un candidato puede pertenecer a un consejo de templo y a una cooperativa agrícola, pero en la elección no lleva estos logotipos: lleva su propio nombre.
+**Mediación de conflictos vecinales**: filtraciones de agua entre pisos, disputas por aparcamiento, ruido de mascotas o problemas con el reciclaje. El jefe de barrio no es policía ni juez, pero suele ser la última barrera antes de que un conflicto llegue a la policía. Un jefe experimentado puede resolver el 70 % de los conflictos vecinales en la mesa de su oficina.
 
-**Ventaja del titular extremadamente fuerte**: la tasa de reelección de jefes de aldea y barrio se ha mantenido consistentemente entre el 70 y el 80 % o más[^15]. Un jefe de barrio que lleva tres mandatos ha servido doce años: conoce el número de cada farola de cada callejón, la situación familiar de cada hogar, al encargado de cada ventanilla de la oficina de distrito —este capital acumulado es difícil de alcanzar para un nuevo candidato en una campaña de cuatro meses.
+**Cuidado de ancianos que viven solos**: repartir almuerzos, acompañar al médico, recordar el pago de suministros o dar aviso si una casa lleva días sin actividad. Con un índice de envejecimiento en Taiwán superior a 100 [^9], el jefe de barrio es la primera persona, fuera de los servicios sociales, en detectar anomalías en los ancianos.
 
-**La afiliación partidista puede ser una carga**: imprimir el símbolo de un partido en la propaganda de un jefe de aldea o barrio puede alienar a los residentes de la otra tendencia política. El jefe de aldea o barrio debe servir a "todos los residentes" —sin importar su posición—, por lo que el costo de llevar afiliación partidista supera al beneficio. Muchos jefes de aldea y barrio, aunque en privado simpatizan con cierto partido, se registran públicamente como sin afiliación.
+**Coordinación de centros de votación**: en cada elección, la CEC debe establecer más de 17,000 centros de votación en todo el país [^10]. Cada centro requiere ayuda del jefe de barrio para la logística, el flujo de personas y las instalaciones accesibles. Los centros suelen ser escuelas primarias locales, centros comunitarios o templos; el control sobre estos espacios recae casi totalmente en el jefe de barrio.
 
-Estos cuatro factores combinados crean el ecosistema único de las elecciones de jefes de aldea y barrio: **la partidista no es la variable central, las relaciones personales y el historial de servicio lo son**.
+**Notificación de desastres**: tifones, terremotos, inundaciones o incendios. El jefe de barrio es el nervio terminal del sistema de defensa civil local. Cuando se corta la luz o el agua, la primera llamada de los vecinos suele ser al jefe de barrio, no al 1999 ni al 119.
+
+**Construcción comunitaria**: barbacoas de Medio Otoño, actividades infantiles, viajes para mayores o talleres para madres. Estas actividades no son obligatorias, pero un jefe que las organiza gana buena reputación y es reelegido durante muchos mandatos.
+
+**Apoyo en trámites civiles**: ayudar a ancianos que no usan ordenadores a rellenar formularios, explicar procesos de cambio de residencia o transmitir nuevas políticas del distrito.
+
+Esta lista no tiene fin. Un jefe reelegido tres veces puede conocer los nombres del 70-80 % de los residentes de su zona; esto no es capacidad comercial, es capital de relaciones vecinales acumulado durante doce años.
 
 ---
 
-## Economía política: 45.000 no es un salario
+## Del Baojia a la aldea: ochenta años de herencia institucional
 
-El subsidio mensual de 45.000 por gastos operativos a menudo se malinterpreta como "el jefe de aldea o barrio gana 45.000 al mes" —no es así[^6].
+La unidad de gestión local actual no fue inventada por la República de China (Taiwán). Su predecesora fue el **sistema Baojia** (保甲制度) de la era colonial japonesa [^11][^12].
 
-**El significado de "subsidio por gastos operativos"**: este dinero no es un salario personal para el jefe de aldea o barrio, sino un costo de oficina pagado por el gobierno —incluye agua, electricidad, internet y teléfono de la oficina de barrio, papelería, fotocopias, gasolina para gestiones oficiales, té y refrigerios para los residentes, impresión de boletines comunitarios o folletos de actividades. **El jefe de aldea o barrio debe cubrir de su bolsillo todos los gastos relacionados con el cargo**, deducidos del subsidio operativo.
+En 1898, el Gobierno General de Taiwán promulgó el «Reglamento Baojia», reorganizando las estructuras existentes del final de la dinastía Qing para convertirlas en la base de la gobernanza colonial. Se organizaba en grupos de diez hogares para formar un _jia_, y diez _jia_ para formar un _bao_. Cada _bao_ tenía un jefe (_baozheng_) y cada _jia_ un líder (_jiazhang_), elegidos por los residentes (aunque la lista debía ser aprobada por el Gobierno General) con mandatos de dos años. Sus funciones eran amplias: registro de población, higiene y prevención de epidemias, recaudación de impuestos, mantenimiento del orden y movilización de mano de obra.
 
-En la práctica, para un jefe de barrio que sirve con dedicación, 45.000 a menudo no son suficientes. Muchos jefes de aldea y barrio ponen de su propio bolsillo para cubrir la diferencia —imprimen sus propios calendarios de Año Nuevo para los residentes, dan sobres rojos a personas mayores que viven solas en Año Nuevo Lunar, subsidian el alquiler de equipamiento para actividades.
+El sistema Baojia operó en Taiwán durante 47 años hasta su abolición tras la guerra en 1945. Pero la unidad básica no desapareció; simplemente cambió de nombre.
 
-**Subsidios adicionales para actividades de barrio**: además del subsidio mensual por gastos operativos, los gobiernos de cada condado y ciudad asignan partidas separadas para subsidios de actividades de aldea y barrio, subsidios de operaciones de aldea y barrio, subsidios de reuniones de Año Nuevo, etc., cuyas cantidades varían según la situación financiera del condado o ciudad[^18]. Estos subsidios son de uso específico y requieren comprobantes de liquidación.
+En 1946, la Administración Provincial de Taiwán abolió el Baojia y estableció las «aldeas» (村, zonas rurales) y los «barrios» (里, zonas urbanas) [^13]. El cargo de _baozheng_ pasó a ser jefe de aldea o barrio, pero los límites, el número de hogares y la estructura organizativa se mantuvieron casi intactos. Muchos líderes del sistema Baojia pasaron directamente a ser los primeros jefes de las nuevas unidades en la reforma de 1946.
 
-**No pueden recibir el salario formal de un concejal de condado o ciudad**: los concejales de condado y ciudad, como funcionarios públicos, reciben honorarios de investigación, dietas de asistencia, chequeos médicos, etc., que suman entre 100.000 y 200.000 mensuales[^19], además de prestaciones de salud y laborales y subsidios de investigación del concejo. Los jefes de aldea y barrio no tienen nada de esto —no son funcionarios públicos.
+A partir de 1950, con la implementación de la autonomía local en la provincia de Taiwán, los jefes de aldea y barrio pasaron a ser **elegidos directamente por los residentes** [^13]. Este hito fue anterior a la elección directa de alcaldes de condados y ciudades, que se implementó en las primeras elecciones de 1950 [^14]. Aunque empezaron al mismo tiempo, la elección de jefes de barrio **nunca ha sido interrumpida**, mientras que la de alcaldes sufrió varios ajustes debido a reformas centrales entre 1960 y 1990.
 
-**El pluriempleo es común**: debido al diseño de "sin remuneración + subsidio operativo de 45.000", muchos jefes de aldea y barrio deben tener otro empleo para vivir —taxistas, pequeños negocios, agentes de seguros, jubilados que son jefes de barrio y cobran pensión más subsidio. Pocos viven exclusivamente del cargo de jefe de aldea o barrio, especialmente los jefes de aldea en pequeñas aldeas del centro-sur.
+Con la aprobación de la 《Ley de Instituciones Locales》 en 1999, el sistema se integró formalmente en esta ley como una posición de autonomía local unificada en todo el país [^4].
 
-Esta estructura económica determina qué tipo de personas se presentan a jefe de aldea o barrio —generalmente **personas de mediana edad o jubiladas con base económica estable, vocación de servicio, tiempo disponible y amplia red de contactos**. Para los jóvenes, presentarse a jefe de aldea o barrio tiene una dificultad estructural —no es que no puedan ganar, sino que económicamente no es sostenible.
+Desde la creación del Baojia en 1898, pasando por el cambio de nombre en 1946, la elección directa en 1950 y la integración legal en 1999, estos **128 años de continuidad institucional** son evidencia de la estabilidad de la gobernanza local en Taiwán. El esqueleto administrativo dejado por el régimen colonial fue rellenado con contenido democrático tras la guerra, funcionando hasta hoy.
+
+---
+
+## ¿Por qué este cargo es predominantemente independiente?
+
+De los nueve tipos de cargos, el jefe de barrio es el **único** donde los independientes son mayoría [^15].
+
+Este fenómeno no es casualidad; se debe a la escala.
+
+**La escala es demasiado pequeña**: un barrio tiene una población media de 2,000 a 5,000 personas, y una aldea rural puede tener solo entre 200 y 500 [^16]. En este contexto, ganar no depende de la ideología partidista, sino de si **el candidato conoce a los vecinos y si los vecinos lo conocen a él**. Un candidato que pueda llamar a cada residente por su nombre es más útil que cualquier nominación de partido.
+
+**Las facciones son mucho más fuertes que los partidos**: las familias locales (especialmente en el sur y centro, e islas periféricas), las asociaciones de compatriotas, los comités de gestión de templos, las asociaciones agrícolas o pesqueras y los sindicatos industriales tienen una influencia en el barrio mucho mayor que cualquier partido político [^17]. Un candidato puede pertenecer a un comité de un templo y a una asociación agrícola, pero no usará esos logotipos en la campaña; usará su propio nombre.
+
+**La ventaja del incumbente es extrema**: la tasa de reelección se mantiene habitualmente por encima del 70-80 % [^15]. Un jefe que lleva tres mandatos ha servido doce años; conoce el número de cada farola, la situación familiar de cada hogar y al funcionario encargado en la oficina municipal. Este capital acumulado es casi imposible de alcanzar para un nuevo candidato en una campaña de cuatro meses.
+
+**El partido puede ser una carga**: imprimir el símbolo de un partido en los folletos de un jefe de barrio puede alienar a la otra mitad de los residentes con ideologías opuestas. El jefe debe servir a «todos los vecinos», sin importar su postura, por lo que el coste de la afiliación suele superar al beneficio. Muchos jefes, aunque tengan inclinaciones privadas, se registran públicamente como independientes.
+
+La suma de estos factores crea un ecosistema único: **el partido no es la variable clave; las relaciones personales y el historial de servicio lo son**.
+
+---
+
+## Economía política: NT$54,000 no es un salario
+
+El subsidio mensual de NT$54,000 suele malinterpretarse como «el sueldo del jefe de barrio» — pero no lo es [^6].
+
+**El significado de «subsidio para asuntos»**: este dinero no es para el beneficio personal del jefe, sino para cubrir los gastos de gestión: electricidad e internet de la oficina, papelería y fotocopias, gasolina para desplazamientos oficiales, té y aperitivos para recibir a los vecinos, o la impresión de boletines y folletos. **El jefe de barrio debe cubrir de su propio bolsillo todos los gastos relacionados con el cargo** utilizando este subsidio.
+
+En realidad, para un jefe que trabaja con dedicación, NT$54,000 suele ser insuficiente. Muchos usan sus propios ahorros para cubrir la diferencia: imprimiendo sus propios calendarios o decoraciones para el Año Nuevo, repartiendo sobres rojos a ancianos solos o subsidiando el alquiler de equipos para eventos comunitarios.
+
+**Existen subsidios adicionales para actividades**: además del subsidio mensual, los gobiernos locales asignan partidas para actividades comunitarias, tareas operativas y celebraciones de Año Nuevo, con importes que varían según la situación financiera de cada municipio [^18]. Estos fondos están destinados a fines específicos y requieren comprobantes de gastos.
+
+**No reciben el salario formal de un concejal**: un concejal municipal es un funcionario público con un sueldo de investigación, dietas por asistencia y chequeos médicos que suman más de cien mil dólares mensuales [^19], además de beneficios de seguridad social y ayudas para viajes oficiales. El jefe de barrio no tiene nada de esto; no es un funcionario.
+
+**El trabajo a tiempo parcial es común**: debido al diseño de «sin sueldo + subsidio de gestión», muchos jefes deben tener otros empleos para subsistir: conducir taxis, gestionar pequeños negocios, trabajar en seguros o, tras la jubilación, combinar su pensión con el subsidio del cargo. No hay mucha gente que viva exclusivamente de ser jefe de barrio, especialmente en las aldeas pequeñas del sur y centro.
+
+Esta estructura económica determina quién se postula: generalmente personas de mediana edad o jubiladas que **ya tienen una base económica, desean servir a su comunidad, tienen tiempo y una red de contactos amplia**. Para los jóvenes, el obstáculo es estructural: no es que no puedan ganar, es que la economía del cargo no les permite sostenerlo.
 
 ---
 
 ## Tensiones estructurales
 
-El sistema de jefes de aldea y barrio ha funcionado durante ochenta años y ha acumulado varias tensiones que no se han resuelto completamente.
+El sistema de jefes de barrio ha acumulado tensiones que aún no se han resuelto del todo.
 
-**La brecha entre áreas urbanas y rurales es enorme**: un barrio en el distrito de Xinyi, Taipéi, puede tener más de 10.000 habitantes, pero una aldea de montaña en Hualien puede tener solo 200 personas. Con el mismo subsidio de 45.000 y la misma estructura salarial, la carga de trabajo puede diferir en más de veinte veces[^20]. Los jefes de barrio urbanos atienden alta densidad poblacional y trámites administrativos complejos; los jefes de aldea rurales atienden menos población pero su área geográfica puede abarcar varias aldeas naturales, y un recorrido completo puede tomar dos o tres horas.
+**La brecha entre lo urbano y lo rural es enorme**: un barrio en el distrito de Xinyi, Taipéi, puede tener más de 10,000 personas, mientras que una aldea en las montañas de Hualien puede tener solo 200. Con el mismo subsidio y la misma estructura salarial, la carga de trabajo puede variar hasta veinte veces [^20]. El jefe urbano gestiona alta densidad y burocracia compleja; el rural gestiona poca población pero en un área geográfica que puede abarcar varios pueblos naturales, requiriendo horas de desplazamiento.
 
-Esta brecha ha sido objeto de propuestas de reforma —por ejemplo, ajustar el monto del subsidio según rangos de población—, pero cada intento de reforma legislativa se ha visto obstaculizado por el argumento de que "los 7.748 aldeas y barrios de toda la isla implican un impacto demasiado amplio".
+Se ha propuesto reformar esto (por ejemplo, ajustando los subsidios según la población), pero cada intento de reforma se estanca porque «afecta a demasiados de los 7,748 cargos del país».
 
-**Baja proporción de mujeres**: los jefes de aldea y barrio han sido tradicionalmente dominados por hombres. Aunque la participación política de las mujeres en Taiwán ha aumentado gradualmente a nivel de legisladores, concejales y magistrados/alcaldes, la proporción de mujeres a nivel de jefes de aldea y barrio ha crecido más lentamente[^21]. Las razones son complejas: los espacios tradicionales de la política vecinal (templos, cooperativas agrícolas y pesqueras, clanes) tienen barreras de entrada más altas para las mujeres; las largas e irregulares jornadas de trabajo de los jefes de aldea y barrio son un obstáculo estructural para mujeres con responsabilidades de cuidado familiar; las redes de recursos para campañas han sido tradicionalmente dominadas por hombres.
+**Baja proporción de mujeres**: tradicionalmente, el cargo ha sido dominado por hombres. Aunque la participación política femenina ha crecido en otros niveles (concejales, alcaldes), en el nivel de barrio el aumento es más lento [^21]. Las razones son complejas: los espacios tradicionales de política local (templos, asociaciones agrícolas, clanes) tienen barreras de entrada más altas para las mujeres; las largas e irregulares horas de trabajo dificultan la conciliación familiar; y las redes de recursos de campaña suelen estar dominadas por hombres.
 
-En años recientes han surgido más jefas de barrio en áreas urbanas —especialmente en barrios jóvenes de Taipéi, Nuevo Taipéi, Taichung, Taoyuan—, pero el promedio nacional sigue siendo bajo.
+En años recientes han aparecido más mujeres en zonas urbanas — especialmente en barrios jóvenes de Taipéi, Nuevo Taipéi o Taichung — pero el promedio nacional sigue siendo bajo.
 
-**Fenómeno de las "aldeas títere" (人頭里)**: un número reducido de aldeas y barrios han sido criticados como extensiones de redes de influencia política en lugar de verdadera autonomía[^22]. El llamado "aldea títere" se refiere a elecciones en una aldea o barrio donde prácticamente no hay competencia, el titular ha sido reelegido durante dos o tres décadas, la asistencia a las asambleas vecinales es extremadamente baja, y la oficina de barrio está controlada de facto por redes de influencia específicas. Este fenómeno no es mayoritario, pero se menciona repetidamente en discusiones académicas y de la sociedad civil sobre la calidad de la autonomía de base.
+**El fenómeno de los «barrios de fachada»**: algunos sectores critican que ciertos barrios son extensiones de redes políticas en lugar de unidades autónomas [^22]. Se refiere a zonas donde casi no hay competencia electoral, el incumbente lleva décadas en el cargo, la asistencia a las asambleas es mínima y la oficina está controlada por un grupo cerrado de contactos. Aunque no es masivo, es un tema recurrente en debates académicos sobre la calidad de la autonomía local.
 
-Las discusiones de reforma correspondientes incluyen: hacer obligatoria la declaración patrimonial de los jefes de aldea y barrio (actualmente solo algunos de los 7.748 cargos requieren declaración), introducir mecanismos de evaluación del servicio de los jefes de aldea y barrio, fortalecer el estatus legal de las asambleas vecinales para dar a los residentes un derecho real de participación. Hasta la fecha, estas discusiones no han producido una versión de reforma legislativa unificada a nivel nacional.
+Las propuestas de reforma incluyen: la declaración obligatoria de patrimonio para los jefes (actualmente solo una parte de los 7,748 debe hacerlo), la introducción de sistemas de evaluación del servicio y el fortalecimiento del estatus legal de las asambleas vecinales para garantizar la participación real.
 
 ---
 
-## Comparación internacional: los jefes de aldea y barrio son muy taiwaneses
+## Comparación internacional: El jefe de barrio es muy taiwanés
 
-Muchos países tienen "unidades de gobernanza local de nivel más bajo", pero la lógica operativa varía.
+Muchos países tienen unidades de gestión local básica, pero su lógica de funcionamiento varía.
 
-**Japón: presidentes de asociaciones de vecindario (自治会, _chōnaikai_)** —las asociaciones de vecindario, asociaciones de barrio y asociaciones de distrito en Japón son organizaciones comunitarias sin fines de lucro, **no un nivel formal de gobierno**[^23]. Los presidentes de estas asociaciones son elegidos por los residentes, sin poder legal vinculante, y la membresía en las asociaciones es voluntaria. Japón no tiene un "cargo público local elegido" equivalente al jefe de aldea o barrio taiwanés —el cargo público elegido de nivel más bajo es el concejal municipal.
+**Japón: Presidentes de asociaciones de vecinos (自治会) [Chijikai]** — las asociaciones en Japón son grupos sin ánimo de lucro basados en la vecindad, **no son un nivel formal de gobierno** [^23]. Sus presidentes son elegidos por los residentes pero no tienen autoridad legal obligatoria; unirse a ellas es voluntario. En Japón no existe el equivalente al «cargo público electo» del jefe de barrio taiwanés; el cargo electo más básico es el concejal municipal.
 
-**Corea del Sur: sistema de _tongbanjang_ (통반장)** —bajo el nivel de _dong_ (distrito urbano) en Corea del Sur existen _tong_ (통) y _ban_ (반), con jefes de _tong_ y _ban_ elegidos por los residentes o designados por la oficina de _dong_[^24]. Este sistema es más plano que el de los jefes de aldea y barrio taiwaneses, pero las atribuciones y recursos de los jefes de _tong_ y _ban_ son mucho menores.
+**Corea del Sur: Sistema de Tong y Ban** — bajo el _dong_ (barrio), existen el _tong_ y el _ban_. Los líderes son elegidos por los residentes o designados por el gobierno del distrito [^24]. Este sistema es más plano que el de Taiwán, pero sus líderes tienen mucha menos autoridad y recursos.
 
-**Francia: _maire_ (alcalde de comuna)** —el _maire_ francés tiene poder administrativo sustancial, puede emitir órdenes administrativas, firmar certificados de nacimiento y matrimonio, ejecutar el presupuesto municipal[^25]. El _maire_ francés está más cerca del nivel de alcalde de municipio taiwanés, no del jefe de aldea o barrio.
+**Francia: El alcalde (maire)** — el alcalde francés tiene poder administrativo real: puede emitir órdenes, firmar certificados de nacimiento o matrimonio y ejecutar presupuestos municipales [^25]. El _maire_ se parece más a un alcalde de municipio en Taiwán que a un jefe de barrio.
 
-**Estados Unidos: _precinct captain_** —en algunos estados de EE. UU. existe el rol de _captain_ a nivel de _precinto_ electoral, pero este es un cargo interno de organización partidista, no un cargo público gubernamental[^26].
+**EE. UU.: Precinct captain** — en algunos estados existen estos roles, pero son cargos dentro de la organización de un partido político, no cargos públicos del gobierno [^26].
 
-En comparación, **el jefe de aldea o barrio taiwanés es un híbrido poco común**: estatus legal de cargo público elegido, con atribuciones específicas, subsidio presupuestario y 7.748 cargos distribuidos por toda la isla; pero al mismo tiempo definido como "sin remuneración", no considerado funcionario público, fuertemente localizado y con escasa coloración partidista. Este híbrido puede ser el resultado especial de la herencia del sistema baojia de la era colonial japonesa, combinada con ochenta años de evolución hacia la autonomía.
+En contraste, **el jefe de barrio en Taiwán es un híbrido poco común**: tiene estatus legal de cargo electo, funciones específicas, subsidio presupuestario y una presencia nacional masiva (7,748 puestos); pero se define como «sin sueldo», no es funcionario, es profundamente local y tiene un color partidista muy tenue. Este híbrido es el resultado especial de la evolución desde el sistema Baojia colonial hacia ochenta años de democratización local.
 
 ---
 
 ## Puntos de observación para 2026
 
-Antes del día de votación del 28 de noviembre de 2026, hay varios indicadores dignos de observación en las elecciones de jefes de aldea y barrio:
+Antes del día de las elecciones el 28 de noviembre de 2026, hay varios indicadores clave:
 
-**¿Se mantendrá la proporción de candidatos sin afiliación partidista?**: en las elecciones anteriores de jefes de aldea y barrio, la proporción de sin afiliación ha estado por encima del 60 %. Si esta proporción se mantiene en 2026 pondrá a prueba el fenómeno de que "las facciones locales pesan más que los partidos" en la política de base taiwanesa.
+**Si la proporción de independientes se mantiene**: en las últimas elecciones, los independientes superaron el 60 %. Si esto se mantiene en 2026, será una prueba de que en la política de base de Taiwán «las facciones pesan más que los partidos».
 
-**El fenómeno de los "jóvenes jefes de barrio" en áreas urbanas**: en años recientes han surgido casos de candidatos de 30-40 años que desafían a jefes de barrio mayores de 70 años con muchos mandatos. Estos jóvenes jefes de barrio suelen usar redes sociales, hacer desarrollo comunitario y organizar actividades para familias —un modelo de servicio diferente al tradicional. En 2026 se verán más de estos desafíos, especialmente en las áreas metropolitanas de Taipéi, Nuevo Taipéi, Taichung y Taoyuan.
+**El fenómeno de los «jóvenes jefes» en zonas urbanas**: recientemente han surgido casos de personas de 30-40 años desafiando a líderes de más de 70 años. Estos jóvenes suelen usar redes sociales, hacer gestión comunitaria y organizar actividades familiares, diferenciándose del modelo tradicional. Veremos más de esto en Taipéi, Nuevo Taipéi, Taichung y Taoyuan.
 
-**Cambio en la proporción de jefas de barrio**: si se puede superar el límite histórico.
+**Cambios en la proporción de mujeres**: si logran romper el techo histórico de participación femenina.
 
-**Relevo generacional en las facciones locales**: muchos jefes de aldea y barrio en activo ya son de segunda o tercera generación familiar (padre-hija, padre-hijo, relevo conyugal). En 2026, muchos titulares actuales superarán los setenta años, y la velocidad y dirección del relevo generacional merecen observación.
+**Relevo generacional en las facciones locales**: muchos jefes actuales son de segunda o tercera generación (herencia familiar). Con muchos líderes alcanzando los 70 años, la velocidad y dirección del relevo será crucial.
 
-**Vacantes de jefes de aldea en áreas con éxodo poblacional**: en áreas rurales con fuerte emigración como Hualien, Taitung, Yunlin, Chiayi, Miaoli y Nantou, algunas aldeas pueden quedar sin candidatos. La CEC ha documentado este fenómeno en elecciones anteriores —¿será más grave en 2026?
+**Escasez de candidatos en zonas con despoblación**: en áreas rurales de Hualien, Taitung o Nantou, es posible que algunos pueblos no tengan candidatos. La CEC ha registrado este fenómeno antes; ¿será más grave en 2026?
 
-Estas no son observaciones noticiosas, son observaciones estructurales. Las elecciones de jefes de aldea y barrio rara vez aparecen en los titulares, pero sus tendencias a largo plazo reflejan el pulso de la gobernanza de base en Taiwán.
-
----
-
-## Conclusión: el cargo político menos político
-
-Los jefes de aldea y barrio son el cargo político **menos "político"** de las elecciones taiwanesas.
-
-Sin debates partidistas, sin libros blancos de políticas, sin anuncios televisivos, sin transmisiones en vivo de mítines. Uno de los 7.748 cargos en una papeleta electoral —la mayoría de la gente olvida por quién votó en cuanto sale de la urna, pero cada día se cruza con su jefe de barrio en la esquina de su calle.
-
-Sin embargo, este cargo es también **la evidencia más completa de la democratización de Taiwán**. Desde la unidad colonial más periférica del sistema baojia de la era japonesa, pasando por el cambio de nombre tras la guerra, las elecciones directas de 1950 y la integración legal de 1999 —en cada nodo histórico ha existido representación elegida por sufragio directo en el nivel más bajo. Ochenta años ininterrumpidos de elecciones de jefes de aldea y barrio son el hecho de que la autonomía taiwanesa creció desde la base.
-
-El noveno casillero de la elección unificada de nueve en uno, casi invisible por su cotidianidad. Pero 7.748 juntas electas renovándose el mismo día —esta magnitud no tiene equivalente en otros sistemas democráticos de Asia— **esta es la densidad de la autonomía de base taiwana**.
-
-La mañana del 28 de noviembre de 2026, cuando entres en la mesa de votación, recibirás nueve papeletas de diferentes colores. La última suele ser la de jefe de aldea o barrio —el nombre en esa papeleta pertenece a la persona que durante los últimos tres mandatos te ha ayudado a sacar la basura a las cinco y media de la mañana, ha llevado comida preparada a la abuela de al lado y ha tomado llamadas a medianoche por el perro del vecino de enfrente.
-
-Eso no es política. Es la infraestructura democrática más básica de Taiwán, que funciona todos los días, que no se ha detenido en ochenta años.
+Estas no son observaciones mediáticas, sino estructurales. Las elecciones de barrio rara vez son noticia de primera plana, pero sus tendencias a largo plazo dictan el pulso de la gobernanza local en Taiwán.
 
 ---
 
-**Lectura adicional**: [Centro de Política](/politics) · 2026 九合一選舉 (zh only — convert to plain text + Chinese parenthesis) · 九合一選舉是什麼 (zh only — convert to plain text + Chinese parenthesis) · 議員制度 (zh only — convert to plain text + Chinese parenthesis) · 直轄市山地原住民區長 (zh only — convert to plain text + Chinese parenthesis) · [Centro de Sociedad](/society)
+## Conclusión: La política que menos parece política
+
+El jefe de barrio es **el cargo político que menos parece «política» en las elecciones de Taiwán**.
+
+Sin debates partidistas, sin libros blancos de políticas, sin anuncios televisivos ni transmisiones en directo de mítines. Es uno de los 7,748 cargos en una papeleta; la mayoría de la gente vota y olvida a quién eligió, pero cada día se cruzará con su jefe de barrio en la esquina del callejón.
+
+Sin embargo, este cargo es también **la prueba más completa de la democratización de Taiwán**. Desde el sistema colonial Baojia, pasando por la transición tras la guerra, la elección directa de 1950 y la integración legal de 1999, cada nodo histórico ha mantenido representantes electos en la base. Ochenta años de elecciones ininterrumpidas son la prueba de que la autonomía en Taiwán ha crecido desde abajo hacia arriba.
+
+Es el noveno espacio de las elecciones locales, tan común que casi es invisible. Pero que 7,748 líderes electos voten el mismo día es una escala que no tiene equivalente en otros sistemas democráticos de Asia — **esa es la densidad de la autonomía local de Taiwán**.
+
+La mañana del 28 de noviembre de 2026, cuando entres al centro de votación, recibirás nueve papeletas de distintos colores. La última suele ser la del jefe de barrio; el nombre en esa papeleta pertenece a la persona que, durante los últimos tres mandatos, ha estado allí a las cinco y media de la mañana recogiendo basura, llevando comida a una anciana o atendiendo llamadas por un perro ladrando en mitad de la noche.
+
+Eso no es política. Es la infraestructura democrática más profunda de Taiwán, la que funciona cada día y no se ha detenido en ochenta años.
+
+---
+
+**Lecturas adicionales**: [Hub Político](/politics) · [Elecciones locales 2026](/es/politics/2026-local-elections-taiwan/) · [¿Qué son las elecciones locales?](/es/politics/nine-in-one-elections-explained/) · [Sistema de concejales](/es/politics/city-councilor-system-taiwan/) · [Jefes de distrito indígena](/es/politics/indigenous-district-chief-system/) · [Society Hub](/society)
 
 🧬
 
-_v1.0 | 2026-05-27 | Nacido de la directiva de Cheyu: Serie electoral 2026, Nivel 1.3 — dejando un registro institucional para el noveno casillero de la elección unificada de nueve en uno._
+_v1.0 | 2026-05-27 | Nacido de la directiva de Zheyu: Serie Elecciones 2026 Tier 1.3 — Un registro histórico institucional para el noveno espacio de las elecciones locales._
 
 ## Referencias
 
-[^1]: [Informe anual 2024 de la Asociación de Cadenas y Franquicias](https://www.cca.org.tw/) — Estadísticas del número total de tiendas de conveniencia y supermercados en toda la isla
+[^1]: [Informe Anual 2024 de la Asociación de Tiendas de Conveniencia y Franquicias](https://www.cca.org.tw/) — Estadísticas de tiendas de conveniencia y supermercados en Taiwán.
 
-[^2]: [Comisión Electoral Central — Estadísticas de elecciones de funcionarios locales anteriores](https://web.cec.gov.tw/) — Fuente oficial de datos de la Comisión Electoral Central
+[^2]: [Comisión Electoral Central — Estadísticas de elecciones de funcionarios locales anteriores](https://web.cec.gov.tw/) — Fuente oficial de datos de la CEC.
 
-[^3]: [Elecciones de funcionarios locales de la República de China 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Fuente oficial de datos
+[^3]: [Elecciones de funcionarios locales de la República de China 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Fuente oficial de Wikipedia para las elecciones de 2026.
 
-[^4]: [Ley de Gobierno Local, artículos 59-61 — Base de datos de regulaciones nacionales](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Fuente oficial de datos
+[^4]: [Artículos 59-61 de la 《Ley de Instituciones Locales》 — Base de Datos Legislativa Nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Fuente oficial de la base de datos legal.
 
-[^5]: [Dirección de Asuntos Civiles, Ministerio del Interior — Datos básicos de jefes de aldea y barrio](https://www.moi.gov.tw/cl.aspx?n=4360) — Fuente oficial de datos
+[^5]: [Departamento de Asuntos Civiles del Ministerio del Interior — Datos básicos de jefes de aldea y barrio](https://www.moi.gov.tw/cl.aspx?n=4360) — Fuente oficial del Ministerio del Interior.
 
-[^6]: [Subsidio por gastos operativos de jefes de aldea y barrio — Interpretación del Ministerio del Interior](https://www.moi.gov.tw/) — 45.000 nuevos dólares taiwaneses mensuales desde 2007
+[^6]: [Ordenanza sobre el Pago de Gastos de Representantes Populares Locales y Subsidios para Asuntos de Jefes de Aldea y Barrio](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Base de Datos Legislativa Nacional. Artículo 7, párrafo 1: Los subsidios para asuntos de jefes de aldea/barrio son asignados por los ayuntamientos; NT$50,000 mensuales por unidad, con un aumento del 20 % en zonas indígenas; los ajustes anuales se anuncian por el Ministerio del Interior.
 
-[^7]: [Un día en la vida de un jefe de barrio — The Reporter](https://www.twreporter.org/) — Serie especial sobre el trabajo diario de los jefes de aldea y barrio
+[^7]: [Un día en la vida de un jefe de barrio — The Reporter](https://www.twreporter.org/) — Serie especial sobre el trabajo diario de los jefes de barrio.
 
-[^8]: [Atribuciones y práctica de jefes de aldea y barrio — Dirección de Asuntos Civiles, Ministerio del Interior](https://www.moi.gov.tw/) — Explicación de atribuciones legales y tareas encomendadas
+[^8]: [Funciones y práctica de los jefes de barrio — Departamento de Asuntos Civiles del Ministerio del Interior](https://www.moi.gov.tw/) — Explicación de funciones legales y tareas encomendadas.
 
-[^9]: [Dirección de Estadísticas, Ministerio del Interior — Índice de envejecimiento poblacional](https://www.moi.gov.tw/stat/) — Proporción de población mayor de 65 años y tasa de dependencia en Taiwán
+[^9]: [Departamento de Estadística del Ministerio del Interior — Índice de envejecimiento poblacional](https://www.moi.gov.tw/stat/) — Proporción de población mayor de 65 años en Taiwán.
 
-[^10]: [Comisión Electoral Central — Establecimiento de mesas de votación](https://web.cec.gov.tw/) — Número total de mesas de votación en toda la isla y principios de establecimiento
+[^10]: [Comisión Electoral Central — Establecimiento de centros de votación](https://web.cec.gov.tw/) — Principios y número total de centros de votación en el país.
 
-[^11]: [Sistema baojia (Taiwán) — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Evolución del sistema de 1898-1945 durante la era colonial japonesa
+[^11]: [Sistema Baojia (Taiwán) — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Evolución del sistema durante la era colonial (1898-1945).
 
-[^12]: [El sistema baojia en Taiwán durante la era colonial japonesa — Archivo de Documentos de Taiwán, Academia Nacional de Historia](https://www.th.gov.tw/) — Fuente oficial de datos
+[^12]: [El sistema Baojia en Taiwán durante la era colonial — Archivo de Documentos de Taiwán del Palacio Nacional](https://www.th.gov.tw/) — Fuente oficial histórica.
 
-[^13]: [Autonomía local en la provincia de Taiwán — Administración de Archivos, Consejo de Desarrollo Nacional](https://www.archives.gov.tw/) — Documentos históricos sobre la reforma de aldeas y barrios de 1946 y las elecciones directas de 1950
+[^13]: [Autonomía local de la provincia de Taiwán — Administración de Archivos del Consejo para el Desarrollo Nacional](https://www.archives.gov.tw/) — Material histórico sobre la reforma de 1946 y la elección directa de 1950.
 
-[^14]: [Primera elección de magistrados de condado y alcalces en la provincia de Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Evolución de la elección directa de magistrados y alcalces en 1950
+[^14]: [Primeras elecciones de alcaldes de condado en la provincia de Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Historia de la elección directa de alcaldes en 1950.
 
-[^15]: [Facciones locales y política de base — Investigación de política local de Wang Yeli](https://www.airitilibrary.com/) — Análisis académico de la afiliación partidista y tasas de reelección de jefes de aldea y barrio
+[^15]: [Facciones locales y política de base — Estudio de política local de Wang Ye-li](https://www.airitilibrary.com/) — Análisis académico sobre afiliación partidista y reelección.
 
-[^16]: [Ministerio del Interior — Estadísticas por rango de población de aldeas y barrios](https://www.moi.gov.tw/) — Diferencias en la escala poblacional entre barrios urbanos y aldeas rurales
+[^16]: [Ministerio del Interior — Estadísticas por escala de población en aldeas y barrios](https://www.moi.gov.tw/) — Diferencias de escala entre zonas urbanas y rurales.
 
-[^17]: [Autonomía local en Taiwán — Liu Jielun](https://www.taaze.tw/) — Facciones locales, clanes, consejos de templos y elecciones de base
+[^17]: [Autonomía local en Taiwán — Liu Chieh-lun](https://www.taaze.tw/) — Facciones locales, clanes y comités de templos en elecciones de base.
 
-[^18]: [Regulaciones de subsidios para operaciones de aldea y barrio de los gobiernos de condado y ciudad](https://law.moj.gov.tw/) — Normas para la asignación de subsidios de actividades de aldea y barrio en cada condado y ciudad
+[^18]: [Reglamento de subsidios para asuntos de aldeas y barrios de los gobiernos municipales](https://law.moj.gov.tw/) — Normas de asignación de subsidios para actividades locales.
 
-[^19]: [Regulación sobre remuneración de representantes locales y subsidio por gastos operativos de jefes de aldea y barrio](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040039) — Estándares de honorarios de investigación para concejales, etc.
+[^19]: [Ordenanza sobre el Pago de Gastos de Representantes Populares Locales y Subsidios para Asuntos de Jefes de Aldea y Barrio](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Estándares de pago para concejales (Anexo del artículo 5).
 
-[^20]: [Diferencia en carga de trabajo de aldea y barrio entre áreas metropolitanas y rurales — Informe de investigación del Yuan de Control](https://www.cy.gov.tw/) — Fuente oficial de datos
+[^20]: [Diferencia en volumen de trabajo entre zonas urbanas y rurales — Informe de investigación del Control Yuan](https://www.cy.gov.tw/) — Fuente oficial sobre la carga de trabajo según la zona.
 
-[^21]: [Cambio en la proporción de jefas de barrio — Consejo de Igualdad de Género del Yuan Ejecutivo](https://gec.ey.gov.tw/) — Fuente oficial de datos
+[^21]: [Cambios en la proporción de mujeres jefas de barrio — Consejo para la Igualdad de Género del Ejecutivo](https://gec.ey.gov.tw/) — Fuente oficial sobre la participación femenina.
 
-[^22]: [Calidad de la autonomía de base y participación vecinal — Initium Media](https://theinitium.com/) — Fuente oficial de datos
+[^22]: [Calidad de la autonomía local y participación vecinal — The Initium](https://theinitium.com/) — Fuente oficial sobre la calidad de la gestión local.
 
-[^23]: [Asociaciones de vecindario en Japón — Ministerio de Asuntos Internos y Comunicaciones](https://www.soumu.go.jp/) — Fuente oficial de datos
+[^23]: [Chōnaikai (Japón) — Ministerio de Asuntos Internos](https://www.soumu.go.jp/) — Fuente oficial sobre las asociaciones de vecinos en Japón.
 
-[^24]: [Sistema _tongbanjang_ en Corea del Sur — Ministerio de Seguridad y Administración Pública](https://www.mois.go.kr/) — Fuente oficial de datos
+[^24]: [Sistema Tong-Ban en Corea — Ministerio de la Administración de Seguridad y Asuntos Internos](https://www.mois.go.kr/) — Fuente oficial sobre el sistema coreano.
 
-[^25]: [El _maire_ en Francia — Service-Public](https://www.service-public.fr/) — Fuente oficial de datos
+[^25]: [Le maire en France — Service-Public](https://www.service-public.fr/) — Fuente oficial sobre las funciones del alcalde en Francia.
 
-[^26]: [_Precinct captain_ — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Fuente oficial de datos
+[^26]: [Precinct captain — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Fuente sobre los roles de distrito en EE. UU.
+
+[^27]: [Ordenanza sobre el Pago de Gastos de Representantes Populares Locales y Subsidios para Asuntos de Jefes de Aldea y Barrio — Evolución](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020039) — Registro de reformas en la Base de Datos Legislativa Nacional (incluyendo el ajuste de NT$45,000 a NT$50,000).
+
+[^28]: [¡Ajuste salarial para funcionarios! El Ministerio del Interior aumenta los subsidios para asistentes de concejales y jefes de barrio desde el 1/7; aumento adicional del 4% en Año Nuevo — Ministerio del Interior](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Nota de prensa del Ministerio del Interior (16/07/2026) sobre los nuevos importes de subsidios.
