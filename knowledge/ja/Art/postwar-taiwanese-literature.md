@@ -2,8 +2,7 @@
 title: '戦後台湾文学：言えなかったことから、言い方を学ぶまで（1945-1987）'
 description: '1945年8月、葉石濤（ようせきとう）20歳、日本陸軍から除隊して台南に戻り、原稿紙を開いたが、漢字が一文字も書けなかった。この白紙は42年間待つことになる。その間に訪れたのは、失語、投獄、論争、そして迂回を学ぶことだった。1987年2月、彼は232ページの本を出版した。書名にあったのは「台湾」という二文字だけだった。'
 date: 2026-04-26
-category: Art
-subcategory: '文學'
+category: 'Art'
 tags:
   [
     '戦後文学',
@@ -16,16 +15,17 @@ tags:
     '言語断層',
     '戒厳時期',
   ]
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
-researchReport: reports/research/2026-04/戰後台灣文學.md
+researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ccb549fdb85f9bc6'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: '2026-05-01T14:48:26+08:00'
+translatedAt: '2026-11-02T13:54:26.334410+00:00'
 ---
 
 > **30秒概覧**：戦後42年（1945-1987）、台湾文壇は「言えない」という条件の中で生き続けた。日本語は使えない、二二八事件は語れない、台湾が中国以外の何であるかも言えない、郷土も語れない。しかし各世代の作家はそれぞれ異なる迂回路を学び、「どう言うか」を習得していった。葉石濤（ようせきとう）は1945年の白紙から1987年の232ページの『台湾文学史綱』まで、失語・3年間の投獄・10年以上の沈黙・1965年の〈台湾の郷土文学〉・1985年の「土地なくして文学なし」を経た。白先勇（はくせんゆう）は防空壕の中でカフカを読んだ。王文興（おうぶんこう）は7年かけて批判を受けた『家変』を書いた。林海音（りんかいおん）は一篇の詩のために聯合報副刊編集長を辞した。余光中（よこうちゅう）は「狼が来た」と叫んで郷土文学論戦を起こした。李昂（りあん）は1983年に林市に豚の解体刀で夫を切り刻ませた。この42年が残したのは、迂回の言語学の体系だった。
@@ -158,15 +158,16 @@ translatedAt: '2026-05-01T14:48:26+08:00'
 
 ---
 
-## 延伸読書
+## 参考文献
 
-- [戒厳解除後台湾文学](/ja/art/post-martial-law-taiwanese-literature) — 1987年戒厳解除後から2000年の本土化・ジェンダー・母語多元爆発
-- [現代台湾文学](/ja/art/contemporary-taiwanese-literature) — 21世紀の呉明益の国際化・林奕含・デジタルの波
-- [台湾文学史](/ja/art/history-of-taiwanese-literature) — 荷蘭・清代・日治・戦後から現代まで
-- [日治時期文学](/ja/art/taiwanese-literature-during-japanese-rule) — 賴和・呂赫若・張文環・楊逵の日治期の出発点
-- [白色テロ](/history/白色恐怖) — 葉石濤の投獄・楊逵の緑島・呂赫若の鹿窟の政治的背景
-
----
+- [解嚴後の台湾文学](/ja/art/post-martial-law-taiwanese-literature) — 1987年の戒厳令解除後から2000年までの本土化、ジェンダー、母語の多様な爆発
+- [現代台湾文学](/ja/art/contemporary-taiwanese-literature) — 21世紀の呉明益の国際化、林奕含、デジタルの波
+- [台湾文学史](/ja/art/history-of-taiwanese-literature) — オランダ統治時代、明清時代、日本統治時代、戦後から現代までの全体的な脈絡
+- [日本統治時代の文学](/ja/art/taiwanese-literature-during-japanese-rule) — 賴和、呂赫若、張文環、楊逵の日本統治時代の起点は、戦後の失語のもう一つの端
+- [林良](/ja/people/lin-liang-childrens-literature) — 戦後に海を渡って台湾に来た児童文学の奠基人、『国語日報』57年のキャリア、「淺語の芸術」が戦後数世代の台湾の子供たちの文学の起点を定義した
+- [白色テロ](/ja/history/taiwan-white-terror) — 葉石濤の投獄、楊逵の緑島、呂赫若の鹿窟の政治的背景
+- [二二八事件](/ja/history/228-incident) — 1947年の文壇への衝撃（王添灯、楊逵、葉陶）
+- [戒厳時代](/ja/history/martial-law-era) — 1949-1987年の文壇活動の政治的条件
 
 ## 参考資料
 
