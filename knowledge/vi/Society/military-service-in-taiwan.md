@@ -13,15 +13,16 @@ tags:
   ]
 subcategory: '社會制度'
 author: 'Taiwan.md Contributors'
-readingTime: 12
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-11-02T20:34:12.044704+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Chế độ nghĩa vụ quân sự là dấu ấn xã hội sâu sắc nhất trên hòn đảo này trong hơn nửa thế kỷ qua. Từ thời kỳ "ba năm binh" dưới chế độ thiết quân luật cho đến việc khôi phục nghĩa vụ một năm như hiện nay, đây không chỉ là sự thay đổi về con số thời hạn, mà còn là bức tranh chân thực về cách Đài Loan đối mặt với áp lực địa chính trị. Bài viết này sẽ đưa bạn đi từ những tiếng trầm trồ như tại "Giải Kim Mã" trong buổi bốc thăm nghĩa vụ, đến hiện trường tác chiến hiện đại của diễn tập Hán Quang (Han Kuang) — nơi ngay cả siêu thị cũng được đưa vào kịch bản diễn tập — đồng thời phân tích sâu về tiêu chuẩn miễn nghĩa vụ, chế độ sinh hoạt huấn luyện tân binh, các loại hình nghĩa vụ thay thế và sự chuyển đổi sang thực chiến hóa của chế độ huấn luyện dự bị mới.
@@ -98,8 +99,9 @@ Chế độ nghĩa vụ quân sự của Đài Loan là một cuộc đối tho�
 
 ## Đọc thêm
 
-- [Ký ức về doanh trại Hồ Khẩu và đường Thắng Lợi](/vi/history/hukou-camp-shengli-road-memory) — Ký ức thường nhật về không gian quân sự
-- [Học viện Gấu Đen (Black Bear Academy)](/vi/society/kuma-academy-civil-defense-school) — Phiên bản đương đại của ý thức phòng vệ dân sự
+- [Trại Hộ Khẩu và ký ức đường Thắng Lợi](/vi/history/hukou-camp-shengli-road-memory) — Ký ức thường ngày của không gian quân sự
+- [Học viện Gấu Đen](/vi/society/kuma-academy-civil-defense-school) — Phiên bản đương đại của ý thức phòng vệ dân sự
+- [Giải Kim Mã](/art/金馬獎) — Giải Kim Mã của người điện ảnh và "Giải Kim Mã" trong miệng các chàng trai phục vụ nghĩa vụ có cùng một nguồn gốc, đều lấy từ chữ đầu của Kim Môn và Mã Tộc
 
 ## Tài liệu tham khảo
 

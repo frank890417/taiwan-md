@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8130ad5ab40eae13'
-sourceBodyHash: 'sha256:f699c0cd2ccbe17d'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-02T20:19:15.034384+00:00'
 ---
 
 # Cuộc bầu cử "chín hợp nhất" là gì？
@@ -122,35 +122,35 @@ Mỗi loại vị trí đều có câu chuyện lịch sử riêng của nó. Nh
 
 ---
 
-## Sự căng thẳng trong thiết kế chế độ
+## Sự căng thẳng trong thiết kế thể chế
 
-Định dạng chín hợp nhất thoạt nhìn có vẻ tự nhiên, nhưng đằng sau nó có nhiều căng thẳng cấu trúc, mỗi cái vẫn đang tiếp tục tiến hóa:
+Cấu trúc "chín hợp nhất" này nhìn qua có vẻ tự nhiên, nhưng thực chất ẩn chứa nhiều sự căng thẳng về mặt cấu trúc, và mỗi yếu tố đều đang tiếp tục tiến hóa:
 
-### Nâng cấp vs tự trị địa phương
+### Nâng cấp hành chính vs. Tự trị địa phương
 
-"Nâng cấp" là một khái niệm lõi tâm trong quản lý thành phố của Đài Loan — từ thành phố do tỉnh quản lý trở thành thành phố trực thuộc, quy mô ngân sách, biên chế nhân sự, cấp bậc hành chính đều thay đổi. Nhưng nâng cấp cũng mang theo tác dụng phụ là "mất chức vụ trưởng được bầu cử": vị trí thị trưởng đã được bầu cử khi là thành phố do tỉnh quản lý sẽ mất đi tính được bầu cử sau nâng cấp (chuyển thành trưởng khu được bổ nhiệm).
+"Nâng cấp" (升格 - shengge) là khái niệm cốt lõi trong quản trị đô thị tại Đài Loan — khi một thành phố tỉnh trực thuộc chuyển thành thành phố trực thuộc trung ương, quy mô ngân sách, biên chế nhân sự và cấp bậc hành chính đều sẽ thay đổi. Tuy nhiên, việc nâng cấp cũng mang lại tác dụng phụ là "mất đi người đứng đầu do dân bầu": địa vị "Thị trưởng" vốn được dân bầu ở các thành phố cấp huyện sẽ biến mất sau khi nâng cấp (trở thành Quận trưởng do bổ nhiệm).
 
-Khi năm thành phố trực thuộc nâng cấp năm 2010, tác dụng phụ này lần đầu tiên xảy ra quy mô lớn, đặc biệt là ba xã bản địa miền núi ở Cao Hùng (Na Ma Xia, Đào Nguyên, Mậu Lâm) mất đi vị thế trưởng xã được bầu cử. Khi Đào Viên nâng cấp năm 2014, cùng tranh chấp xảy ra lại (xã Phục Hưng). Quốc hội Lập pháp năm 2014 thông qua sửa đổi Luật Chế độ Địa phương để bù đắp tình trạng này, thành lập chức vụ "Trưởng khu bản địa miền núi thành phố trực thuộc" mới.
+Tác dụng phụ này đã xảy ra trên quy mô lớn lần đầu tiên khi năm đô thị trực thuộc trung ương được nâng cấp vào năm 2010, đặc biệt là việc tước bỏ địa vị dân cử của các hương trưởng tại ba hương miền núi thuộc huyện Cao Hùng (Namasia / Taoyuan / Maolin). Khi Đào Viên nâng cấp vào năm 2014, tranh cãi tương tự lại tiếp diễn (tại hương Phục Hưng). Để khắc phục, vào năm 2014, Lập pháp viện đã thông qua sửa đổi 《Luật Chế độ Địa phương》, thiết lập mới chức danh "Quận trưởng khu vực người bản địa miền núi thuộc thành phố trực thuộc trung ương".
 
-Nhưng vị thế được bầu cử của trưởng xã/thị trấn ở khu vực bằng phẳng đến nay vẫn bị mất vì nâng cấp — vấn đề cấu trúc này vẫn chưa được xử lý phổ biến [^10]।
+Tuy nhiên, địa vị dân cử của các thị trưởng và hương trưởng ở vùng đồng bằng vẫn tiếp tục biến mất do việc nâng cấp hành chính — vấn đề cấu trúc này vẫn chưa được khắc phục một cách phổ quát [^10].
 
-### Cộng sự thành phố trực thuộc vs Cộng sự lập pháp — sự phân kỳ chế độ
+### Sự khác biệt thể chế giữa Nghị sĩ thành phố trực thuộc trung ương vs. Ủy viên Lập pháp
 
-Từ năm 2008, các cộng sự lập pháp chuyển sang "Chế độ bầu cử đơn khu vực hai phiếu" (區域 + không phân loại), nhưng cộng sự thành phố/tỉnh vẫn dùng chế độ "Bầu cử đa phương khu vực — bỏ phiếu không chuyển nhượng được" (SNTV) được thiết kế từ những năm 1980 — đây là các đại diện được bầu cử cùng loại, nhưng thiết kế chế độ hoàn toàn khác.
+Năm 2008, các Ủy viên Lập pháp đã chuyển sang "hệ thống bầu cử hai phiếu tại đơn vị bầu cử duy nhất" (khu vực + danh sách không phân chia khu vực), trong khi các Nghị sĩ hội đồng thành phố/huyện cho đến nay vẫn áp dụng hệ thống "phiếu đơn không chuyển đổi tại đa số khu vực bầu cử (SNTV)" được thiết kế từ những năm 1980 — dù cùng là đại diện do dân bầu, nhưng thiết kế thể chế lại hoàn toàn khác biệt.
 
-Sự phân kỳ này đã kéo dài 18 năm. Đằng sau là mối liên kết giữa các phái hệ địa phương và lợi ích chính đảng — nhưng ảnh hưởng của SNTV đối với các đảng nhỏ, thế lực thứ ba, và tính đại diện đa dạng ở cấp cộng sự còn sâu sắc hơn ở cấp cộng sự lập pháp. Xem chi tiết tại Chế độ cộng sự (中文原名：議員制度).
+Sự phân tách này đã tồn tại suốt 18 năm. Đằng sau đó là sự gắn kết giữa các phe phái địa phương và lợi ích đảng phái — nhưng ảnh hưởng của SNTV đối với các đảng nhỏ / thế lực thứ ba / tính đại diện đa dạng ở cấp độ nghị sĩ sâu sắc hơn nhiều so với cấp độ Ủy viên Lập pháp. Xem chi tiết tại [Chế độ Nghị sĩ](/vi/politics/city-councilor-system-taiwan/).
 
-### Nghịch lý quy mô trưởng xóm/làng
+### Nghịch lý về quy mô của Trưởng thôn/Trưởng ấp
 
-Toàn Đài Loan có 7.748 trưởng xóm/làng — nhiều hơn 6.600 cửa hàng 7-Eleven. Mỗi bốn năm có 7.748 cuộc bầu cử nhỏ quy mô được tiến hành song song. Nhưng mỗi xóm/làng trung bình chỉ có 2.000-5.000 cử tri, kinh tế chính trị của chức vụ này hoàn toàn khác với tám loại vị trí khác — ứng cử viên độc lập chiếm ưu thế, tỷ lệ tái tranh cử vượt 80%, hỗ trợ hàng tháng 45.000 won không được tính là lương, các phái hệ và quan hệ cá nhân quan trọng hơn lập trường đảng phái [^11]।
+Toàn Đài Loan có 7.748 trưởng thôn/ấp — còn nhiều hơn cả số lượng hơn 6.600 cửa hàng 7-Eleven. Cứ mỗi bốn năm lại có 7.748 cuộc bầu cử quy mô nhỏ diễn ra đồng thời. Tuy nhiên, trung bình mỗi thôn/ấp chỉ có từ 2.000 đến 5.000 cử tri; kinh tế chính trị của vị trí này hoàn toàn khác biệt so với tám vị trí còn lại — những người không đảng phái chiếm ưu thế (dominant), tỷ lệ tái đắc cử trên 80%, khoản trợ cấp hàng tháng 54.000 Đài tệ không được tính là lương, và các mối quan hệ phe phái hay cá nhân quan trọng hơn cả đảng phái [^11].
 
-Xem thảo luận chi tiết tại Chế độ trưởng xóm/làng (中文原名：村里長制度).
+Thảo luận chi tiết xem tại [Chế độ Trưởng thôn/ấp](/vi/politics/village-chief-system/).
 
-### Bản dạo kép của khu bản địa miền núi
+### Thân phận kép của các khu vực người bản địa
 
-Khu bản địa miền núi thành phố trực thuộc là "khu vực thành phố trực thuộc" trong ý nghĩa pháp lý + "đơn vị tự trị của dân tộc bản địa" — bản dạo kép này tạo ra căng thẳng đa chiều trong phân bổ tài nguyên, chính sách văn hóa, quản lý đất đai. Trưởng khu phải điều phối giữa chính phủ thành phố trực thuộc, Ủy ban Vấn đề Dân tộc Bản địa Trung ương, và hội đồng bộ tộc, công việc hoàn toàn khác với "trưởng khu" thông thường.
+Các khu vực người bản địa miền núi thuộc thành phố trực thuộc trung ương mang thân phận kép: vừa là "đơn vị hành chính thuộc thành phố trực thuộc trung ương" về mặt pháp lý, vừa là "đơn vị tự trị của người bản địa" — thân phận kép này tạo ra sự căng thẳng đa chiều trong phân bổ nguồn lực, chính sách văn hóa và quản lý đất đai. Quận trưởng phải điều phối giữa ba tầng nấc: Chính quyền thành phố trực thuộc trung ương, Hội đồng Ủy viên Bản địa Trung ương (Council of Indigenous Peoples) và Hội đồng bộ lạc; công việc này hoàn toàn khác biệt so với "Quận trưởng" thông thường.
 
-Xem chi tiết tại Trưởng khu bản địa miền núi thành phố trực thuộc (中文原名：直轄市山地原住民區長).
+Xem chi tiết tại [Quận trưởng khu vực người bản địa miền núi thuộc thành phố trực thuộc trung ương](/vi/politics/indigenous-district-chief-system/).
 
 ---
 
@@ -209,34 +209,38 @@ Cửa hàng curation giải pháp của cơ sở hạ tầng dân chủ: [Chính
 
 ## Tài liệu tham khảo
 
-[^1]: [中華民國第十四屆地方公職人員選舉 — 維基百科](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Cuộc bầu cử công chức địa phương thứ 14 của Trung Hoa Dân Quốc, lần đầu tiên hoàn chỉnh chín loại vị trí cùng ngày
+---
 
-[^2]: [中華民國地方公職人員選舉 — 維基百科總覽條目](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Cuộc bầu cử công chức địa phương của Trung Hoa Dân Quốc — Bài tổng quan Wikipedia — Dữ liệu chính thức
+_v1.0 | 27-05-2026 | Bài viết neo (anchor article) Tier 1.1 #1 được hình thành sau khi thực hiện chỉ thị của Triết Vũ 「Hãy đưa tất cả các loại bài viết vào article-inbox từng cái một」 + quyết định cuối cùng từ Option D._
 
-[^3]: [2026年中華民國地方公職人員選舉 — 維基百科](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Cuộc bầu cử công chức địa phương 2026 của Trung Hoa Dân Quốc — Lịch trình công vụ bầu cử của Ủy ban Bầu cử Trung ương
+[^1]: [Bầu cử công chức địa phương khóa thứ 14 của Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Mục bầu cử 'Cửu hợp nhất' năm 2014, lần đầu tiên có đầy đủ chín chức vụ cùng một ngày
 
-[^4]: [公職人員選舉罷免法 — 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Luật Bầu cử Rã Miễn Công chức — Cơ sở dữ liệu pháp luật Quốc gia — Dữ liệu chính thức
+[^2]: [Tổng quan về Bầu cử công chức địa phương tại Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Tổng quan về Bầu cử công chức địa phương tại Trung Hoa Dân Quốc — Wikipedia, nguồn dữ liệu chính thức
 
-[^5]: [中華民國縣市 — 維基百科](https://zh.wikipedia.org/wiki/中華民國縣市) — Tỉnh thành của Trung Hoa Dân Quốc — Wikipedia — Dữ liệu chính thức
+[^3]: [Bầu cử công chức địa phương năm 2026 tại Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Lịch trình công tác bầu cử năm 2026 của Ủy ban Bầu cử Trung ương
 
-[^6]: [台北市行政沿革 — 北市府民政局](https://ca.gov.taipei/) — Lịch phát triển hành chính Đài Bắc — Cục Dân chính thành phố Đài Bắc — Dữ liệu chính thức
+[^4]: [Luật Bầu cử và Bãi miễn Công chức — Cơ sở dữ liệu pháp luật toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Luật Bầu cử và Bãi miễn Công chức — Cơ sở dữ liệu pháp luật toàn quốc, nguồn dữ liệu chính thức
 
-[^7]: [1994年中華民國直轄市長選舉 — 維基百科](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Cuộc bầu cử thị trưởng thành phố trực thuộc 1994 của Trung Hoa Dân Quốc — Wikipedia — Dữ liệu chính thức
+[^5]: [Các huyện và thành phố của Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Các huyện và thành phố của Trung Hoa Dân Quốc — Wikipedia, nguồn dữ liệu chính thức
 
-[^8]: [2010年中華民國直轄市改制 — 維基百科](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Cải cách thành phố trực thuộc 2010 của Trung Hoa Dân Quốc — Wikipedia — Dữ liệu chính thức
+[^6]: [Lịch sử hành chính Thành phố Đài Bắc — Cục Dân chính Chính quyền Thành phố Đài Bắc](https://ca.gov.taipei/) — Lịch sử hành chính Thành phố Đài Bắc — Cục Dân chính Chính quyền Thành phố Đài Bắc, nguồn dữ liệu chính thức
 
-[^9]: [地方制度法 — 全國法規資料庫](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Luật Chế độ Địa phương — Điều 83-1 đến 83-12 (Khu bản địa miền núi thành phố trực thuộc)
+[^7]: [Bầu cử Thị trưởng trực thuộc trung ương năm 1994 tại Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Bầu cử Thị trưởng trực thuộc trung ương năm 1994 tại Trung Hoa Dân Quốc — Wikipedia, nguồn dữ liệu chính thức
 
-[^10]: [報導者 — 升格後的失落民選](https://www.twreporter.org/) — Những lựa chọn bị mất sau nâng cấp — Phân tích về tác dụng phụ của nâng cấp (liên kết bài báo cụ thể cần được thêm vào)
+[^8]: [Cải cách hệ thống thành phố trực thuộc trung ương năm 2010 tại Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Cải cách hệ thống thành phố trực thuộc trung ương năm 2010 tại Trung Hoa Dân Quốc — Wikipedia, nguồn dữ liệu chính thức
 
-[^11]: [內政部民政司 — 村里長基本資料](https://www.moi.gov.tw/) — Bộ Nội vụ, Cục Dân chính — Dữ liệu cơ bản về trưởng xóm/làng — Dữ liệu chính thức
+[^9]: [Luật Chế độ Địa phương — Cơ sở dữ liệu pháp luật toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Điều 83-1 đến 83-12 (Khu vực dân tộc thiểu số miền núi tại các thành phố trực thuộc trung ương)
 
-[^12]: [中央選舉委員會 — 2026選務時程](https://web.cec.gov.tw/) — Ủy ban Bầu cử Trung ương — Lịch trình công vụ bầu cử 2026 — Dữ liệu chính thức
+[^10]: [The Reporter — Sự mất mát của bầu cử dân cử sau khi nâng cấp cấp hành chính](https://www.twreporter.org/) — Phân tích về tác dụng phụ của việc nâng cấp cấp hành chính (liên kết báo cáo cụ thể đang chờ bổ sung)
 
-[^13]: Bảng thông tin bầu cử của Ủy ban Bầu cử Trung ương — Thiết kế màu sắc của lá phiếu bầu
+[^11]: [Điều chỉnh lương theo quân đội, công chức và giáo viên! Bộ Nội vụ tăng trợ cấp cho trợ lý nghị sĩ và trưởng thôn/làng có hiệu lực từ 01/07, tiếp tục tăng thêm 4% vào ngày đầu năm tới — Bộ Nội vụ](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Thông cáo báo chí của Cục Dân chính thuộc Bộ Nội vụ ngày 16 tháng 7 năm 2026. Trợ cấp sự vụ cho trưởng thôn/làng được điều chỉnh từ NT$50,000 mỗi tháng lên NT$54,000 kể từ ngày 1 tháng 7 năm 2026; tại các khu vực dân tộc thiểu số, mức trợ cấp được điều chỉnh từ NT$60,000 lên NT$64,800.
 
-[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Ủy ban Bầu cử Liên bang — Ngày bầu cử — Dữ liệu chính thức
+[^12]: [Ủy ban Bầu cử Trung ương — Lịch trình công tác bầu cử năm 2026](https://web.cec.gov.tw/) — Ủy ban Bầu cử Trung ương — Lịch trình công tác bầu cử năm 2026, nguồn dữ liệu chính thức
 
-[^15]: [統一地方選挙 — 維基百科日文版](https://ja.wikipedia.org/wiki/統一地方選挙) — Cuộc bầu cử địa phương thống nhất — Phiên bản Wikipedia tiếng Nhật
+[^13]: Công báo bầu cử của Ủy ban Bầu cử Trung ương — Thiết kế màu sắc phiếu bầu
 
-[^16]: [전국동시지방선거 — 維基百科韓文版](https://ko.wikipedia.org/wiki/전국동시지방선거) — Cuộc bầu cử địa phương toàn quốc cùng thời gian — Phiên bản Wikipedia tiếng Hàn
+[^14]: [Ủy ban Bầu cử Liên bang — Ngày bầu cử](https://www.fec.gov/) — Federal Election Commission — Election Day, nguồn dữ liệu chính thức
+
+[^15]: [Bầu cử địa phương thống nhất — Wikipedia tiếng Nhật](https://ja.wikipedia.org/wiki/統一地方選挙) — Bầu cử địa phương thống nhất — Wikipedia tiếng Nhật, nguồn dữ liệu chính thức
+
+[^16]: [Bầu cử địa phương đồng thời toàn quốc — Wikipedia tiếng Hàn](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipedia tiếng Hàn, nguồn dữ liệu chính thức
