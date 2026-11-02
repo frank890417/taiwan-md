@@ -12,10 +12,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-18T00:52:58+08:00'
+translatedAt: '2026-11-02T02:05:02.046792+00:00'
 ---
 
 > **30-Second Summary:** In 1998, real estate tycoon Lin Min-hsiung took over the military and government welfare stations, which were suffering from annual losses and only had 66 stores. As an "outsider," he established a survival red line of "20% cheaper, 2% profit," carving out a path for supermarkets amidst the competition between Uni-Mart and large hypermarkets. Today, FamilyMart is a retail giant with over NT$200 billion in annual revenue and 1,200 stores, but the monopoly controversies and digital transformation pains behind its rapid expansion are testing this "living platform" for the next two decades.
@@ -60,12 +60,12 @@ Lin Min-hsiung once said that FamilyMart was "the welfare center of the Taiwanes
 
 ## Further Reading
 
-- **[Mascot](/en/lifestyle/mascot-culture-in-taiwan)** — The IP Management of FamilyMart Bear and Open: Retail Mascot Studies
-- **[Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture)** — The Position of FamilyMart, 7-Eleven, and Family Mart in Taiwan's Retail Landscape
-- **[Taiwan Delivery Economy](/economy/台灣外送經濟)** — How FamilyMart Instant Delivery Squeezed into the foodpanda / Uber Eats Market
-- **[Taiwan Mobile Payment](/en/technology/taiwan-mobile-payment)** — Understanding the Difference Between Popularity and Universality: From PXPay and Other Tools to Merchant Acceptance and Cash Backup
-- **[Taiwan Advertising History](/en/culture/taiwan-advertising-history)** — Ogilvy Behind FamilyMart's "Economic Aesthetics," and a Century of Taiwan Advertising from Attention Monopoly to Emotional Marketing
-- **[Taiwan Corporations: Uni-Mart Group](/en/economy/taiwan-enterprise-uni-president)** — The Other Half of the Story of Taiwan's Retail Duopoly Consolidation: Uni-Mart Acquiring Carrefour, FamilyMart Acquiring RT-Mart
+- **[Mascots](/en/lifestyle/mascot-culture-in-taiwan)** — PX Mart Welfare Bear and Open Chat: The IP management of retail mascots
+- **[Taiwanese Convenience Store Culture](/en/lifestyle/convenience-store-culture)** — The position of PX Mart, 7-Eleven, and FamilyMart in Taiwan's retail landscape
+- **[Taiwan's Delivery Economy](/en/lifestyle/food-delivery-platforms-taiwan)** — How PX Mart Hour-Delivery broke into the foodpanda / Uber Eats market
+- **[Mobile Payments in Taiwan](/en/technology/taiwan-mobile-payment)** — From various tools like AllPay to merchant acceptance and cash backups: understanding why popularity differs from universality
+- **[History of Advertising in Taiwan](/en/culture/taiwan-advertising-history)** — Ogilvy behind PX Mart's "Economy Aesthetics," and the century-long history of Taiwanese advertising from attention monopoly to emotional marketing
+- **[Taiwanese Enterprises: Uni-President Enterprises](/en/economy/taiwan-enterprise-uni-president)** — The other half of the story regarding the consolidation of Taiwan's retail giants, as Uni-President merges with Carrefour and PX Mart merges with RT-Mart
 
 ## References
 

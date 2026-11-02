@@ -1,19 +1,26 @@
 ---
-title: 'China Steel: The Iron-Head Minister and the Steel Legend of the Ten Major Construction Projects'
-description: "From Zhao Yaodong's shrewd technology negotiations in Europe and America to the first wisp of white smoke rising over Xiaogang in Kaohsiung, China Steel spent 50 years forging Taiwan's heavy-industry backbone — the brightest jewel among the Ten Major Construction Projects"
+title: 'China Steel: The Iron-Willed Minister and the Steel Backbone of the Ten Major Construction Projects'
+description: "From Zhao Yaodong's strategic negotiations in Europe and America to acquire technology, to the first wisp of white smoke rising from Kaohsiung's Xiaogang, China Steel spent 50 years building the backbone of Taiwan's heavy industry, becoming the most successful jewel of the Ten Major Construction Projects."
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
+tags:
+  [
+    'Economy',
+    'Enterprise',
+    'Steel Industry',
+    'Ten Major Construction Projects',
+    'Heavy Industry',
+  ]
 subcategory: '企業列傳'
-tags: ['Economy', '企業', '鋼鐵業', '十大建設', '重工業']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-05-15T15:39:39+08:00'
+translatedAt: '2026-11-02T02:35:57.266107+00:00'
 ---
 
 > **30-Second Overview**
@@ -24,13 +31,13 @@ translatedAt: '2026-05-15T15:39:39+08:00'
 
 In the early 1970s, as the CSC preparatory office negotiated technology cooperation for integrated steelmaking, it approached several European steelmakers. However, the terms they offered came bundled with requirements to purchase designated equipment and restrictions on Taiwan's future technological development. Zhao Yaodong deemed the conditions excessively onerous and proactively broke off the European negotiations, turning instead to the United States for a more equitable cooperation model.[^2]
 
-## Technology Cooperation with America's McLouth Steel
+## Technical Cooperation with U.S. McLouth Steel
 
-Zhao Yaodong decided to leave Europe and seek cooperation in the United States. The American steel industry was initially skeptical of Taiwan's industrial capabilities, believing that a newly industrialized East Asian economy — just emerging from an import-substitution policy — would be hard-pressed to operate integrated steelmaking facilities, a capital-intensive, long-supply-chain industrial undertaking.[^2]
+Zhao Yaodong decided to leave Europe and turn to the United States for cooperation. The U.S. steel industry was initially skeptical of Taiwan's industrial capabilities, believing that an East Asian economy that had just started from an import substitution policy would struggle to operate integrated steelmaking — a capital-intensive, long-supply-chain industrial facility.[^2]
 
-At this critical juncture, Zhao Yaodong demonstrated the rigor of an engineer and the wisdom of a businessman. He spoke neither of sentiment nor of politics, but presented precise data sets to prove Taiwan's industrial foundation and workforce quality. He proposed a deal that gave the Americans a reason to come to the table: technology transfer and long-term cooperation, rather than a simple equipment purchase.
+At the critical moment, Zhao Yaodong demonstrated an engineer's rationality and a businessman's acumen. He spoke neither of sentiment nor politics, but used precise data sets to prove Taiwan's industrial foundation and workforce quality. He proposed a solution that persuaded the U.S. side to engage: technology transfer and long-term cooperation, rather than a simple equipment purchase.
 
-In 1972, CSC signed a technology cooperation agreement with **McLouth Steel** of Michigan, an integrated steelmaker, and engaged the American consulting firm C.E. Lummus for engineering design support. The negotiation not only saved Taiwan a substantial sum of money but, more importantly, secured technological autonomy. Zhao Yaodong's strategy ensured that CSC would from the outset possess the capacity to absorb, improve, and independently develop technology — rather than merely serve as an equipment buyer.
+In 1972, CSC signed a technical cooperation agreement with the U.S. **McLouth Steel** Corporation (an integrated steel mill in Michigan) and engaged the U.S. C.E. Lummus consulting firm to provide engineering design support. This negotiation not only saved Taiwan enormous funds; more importantly, it secured technological autonomy. Zhao Yaodong's strategy enabled CSC from the outset to possess the capacity to absorb, improve, and independently develop technology, rather than merely serving as an equipment buyer.
 
 ## The First Wisp of White Smoke Over Xiaogang
 
@@ -76,12 +83,12 @@ CSC's current chairman is **Huang Chien-chih** (assumed office in 2024), succeed
 
 ## References
 
-[^1]: [China Steel Corporation — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — History of China Steel Corporation, including its 1971 founding, 1977 blast furnace ignition, and 1995 privatization.
+[^1]: [China Steel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — History of China Steel Corporation, including its establishment in 1971, blast furnace ignition in 1977, and privatization in 1995.
 
-[^2]: [Epoch Times: Iron-Head Minister Deep in the People's Hearts — Zhao Yaodong Creates the CSC Legend](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Account of Zhao Yaodong's technology cooperation negotiations with America's McLouth Steel and the origin of the "Iron-Head Minister" nickname from his 1981 tenure as Minister of Economic Affairs.
+[^2]: [The Epoch Times: 'Iron-Head Minister' Deeply Rooted in People's Hearts, Chao Yao-tung Creates China Steel Legend](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Chao Yao-tung's negotiations for technical cooperation with the US McLouth Steel and the origin of the 'Iron-Head Minister' nickname during his tenure as Minister of Economic Affairs in 1981.
 
-[^3]: [China Steel Corporation Official Website and 2024 Annual Report](https://www.csc.com.tw/) — Latest operational data and annual report of the CSC Group.
+[^3]: [China Steel Corporation Official Website and 2024 Annual Report](https://www.csc.com.tw/) — Latest operational data and annual report of China Steel Group.
 
-[^4]: [Ten Major Construction Projects — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Background of the Republic of China's Ten Major Construction Projects policy and CSC's role within it.
+[^4]: [Ten Major Construction Projects — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Policy background of the Republic of China's Ten Major Construction Projects and China Steel's positioning.
 
-[^5]: [World Steel Association Statistics](https://worldsteel.org/) — Global steelmaker rankings and production capacity statistics.
+[^5]: [World Steel Association Statistical Data](https://worldsteel.org/) — Global steel plant rankings and capacity statistics.

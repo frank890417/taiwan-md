@@ -1,27 +1,28 @@
 ---
-title: "Sport Stacking: Taiwan's 43-Gold Rise from Viral Cup Fad"
-description: 'Taiwan won 43 golds and set 7 world records at the 2025 Dalian Asian Cup. A once-mocked cup game became elite sport, rehab tool, and inclusive classroom.'
-category: Society
+title: 'Sport Stacking: From a 1.915-Second Viral Trend to Sweeping Asia with 43 Gold Medals'
+description: 'In 2025, the Taiwan team won 43 gold medals and broke 7 world records at the Dalian Asia Cup, turning a sport once mocked as "stacking cups with holes" into Taiwan''s most dominant competitive event. From Lin Meng-xin to Seediq girl Shama Basao, Taiwan''s sport stacking not only pursues the 0.001-second limit but also stacks new social heights in special education rehabilitation and inclusive education.'
+date: 2026-04-28
+category: 'Society'
 tags:
   [
-    'sport-stacking',
-    'lin-meng-hsin',
-    'sama-basaw',
-    'world-records',
-    'inclusive-education',
-    'social-inclusion',
+    'Sport Stacking',
+    'Lin Meng-xin',
+    'Shama Basao',
+    'World Records',
+    'Inclusive Education',
+    'Social Inclusion',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 10
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-04-29T23:10:18+08:00'
-featured: false
+translatedAt: '2026-11-02T02:14:36.694002+00:00'
 ---
 
 > **30-Second Overview:**
