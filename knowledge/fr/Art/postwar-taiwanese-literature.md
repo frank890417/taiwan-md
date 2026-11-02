@@ -2,8 +2,7 @@
 title: "Littérature taïwanaise d'après-guerre : apprendre à dire ce qui ne pouvait pas l'être (1945-1987)"
 description: "En août 1945, Ye Shih-tao, âgé de 20 ans, revient à Tainan après avoir été démobilisé de l'armée impériale japonaise. Il ouvre une feuille de papier et ne parvient pas à écrire un seul caractère en mandarin. Cette page blanche devra attendre 42 ans. Entre-temps : mutisme, prison, polémiques, apprentissage de la détourne. En février 1987, il publie un livre de 232 pages dont le titre ne contient que le mot « Taïwan »."
 date: 2026-04-26
-category: Art
-subcategory: '文學'
+category: 'Art'
 tags:
   [
     "Littérature d'après-guerre",
@@ -16,15 +15,17 @@ tags:
     'Rupture linguistique',
     'Période de la loi martiale',
   ]
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Art/戰後台灣文學.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ccb549fdb85f9bc6'
+researchReport: 'reports/research/2026-04/戰後台灣文學.md'
+translatedFrom: 'Art/戰後台灣文學.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:d9fdf198e900c6a6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-02T13:15:47.495397+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes** : pendant 42 ans d'après-guerre (1945-1987), le monde littéraire taïwanais a vécu sous la condition de « ne pas pouvoir dire » : ne pas pouvoir écrire en japonais, ne pas pouvoir parler du 228, ne pas pouvoir dire que Taïwan était autre chose que la Chine, ne pas pouvoir évoquer la terre natale. Mais chaque génération d'écrivains a appris, par des détours différents, « comment le dire ». Ye Shih-tao est passé de cette page blanche de 1945 à cette _Histoire de la littérature taïwanaise_ de 232 pages en 1987, en traversant le mutisme, trois ans de prison, plus d'une décennie de silence, l'essai de 1965 « La littérature nativiste de Taïwan », puis en 1985 « Sans terre, pas de littérature ». Bai Xianyong lisait Kafka dans un abri antiaérien. Wang Wenxing a mis sept ans à écrire _La Transformation familiale_, un livre qui lui valut des critiques virulentes. Lin Haiyin a démissionné de son poste de rédactrice en chef adjointe du supplément littéraire d'un quotidien pour un seul poème. Yu Kwang-chung a crié « Le loup ! » pour lancer la polémique contre la littérature nativiste. En 1983, Li Ang a fait prendre à Lin Shi un boucherin pour découper son mari. Ce que ces 42 ans ont laissé derrière eux, c'est tout un art du détour linguistique.
@@ -157,18 +158,16 @@ Les 42 années suivantes seront écrites par d'autres.
 
 ---
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — de la levée de la loi martiale en 1987 à l'an 2000 : explosion de la localisation, du genre et de la diversité linguistique maternelle
-- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — le XXIe siècle : internationalisation de Wu Ming-yi, Lin Yi-han, vague numérique
-- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — le fil conducteur global de l'époque hollandaise, des dynasties Ming et Qing, de l'époque coloniale japonaise, de l'après-guerre à l'époque contemporaine
-- [Littérature de l'époque coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — le point de départ colonial de Lai He, Lü Hèruo, Zhang Wenhuan et Yang Kui, l'autre extrémité du mutisme d'après-guerre
-- [Lin Liang](/fr/people/lin-liang-childrens-literature) — pionnier de la littérature jeunesse venu de Chine continentale après-guerre, 57 ans de carrière au _Mandarin Daily News_, « l'art du langage simple » a défini le point de départ littéraire de plusieurs générations d'enfants taïwanais
-- [Terreur blanche](/history/白色恐怖) — le contexte politique de l'emprisonnement de Ye Shih-tao, de Yang Kui à l'île Verte et de Lü Hèruo à Luku
-- [Incident du 228](/fr/history/228-incident) — l'impact sur le monde littéraire en 1947 (Wang Tian-deng, Yang Kui, Ye Tao)
-- [Période de la loi martiale](/fr/history/martial-law-era) — les conditions politiques de l'activité littéraire de 1949 à 1987
-
----
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — De la levée de la loi martiale en 1987 à l’an 2000 : explosion de la nativisation, du genre, de la diversité des langues maternelles
+- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — Internationalisation de Wu Ming-yi, Lin Yi-han, vague numérique au XXIe siècle
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Contexte global de la période néerlandaise, Ming-Qing, colonisation japonaise, après-guerre à l’époque contemporaine
+- [Littérature de l’époque coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le point de départ à l’époque coloniale japonaise de Lai He, Lü Hèruo, Zhang Wenhuan, Yang Kui, est l’autre extrémité du mutisme d’après-guerre
+- [Lin Liang](/fr/people/lin-liang-childrens-literature) — Fondateur de la littérature pour enfants ayant traversé le détroit vers Taïwan après la guerre, carrière de 57 ans au Guoyu Ribao, _« l’art du langage simple »_ a défini le point de départ littéraire de plusieurs générations d’enfants taïwanais d’après-guerre
+- [Terreur blanche](/fr/history/taiwan-white-terror) — Contexte politique de l’emprisonnement de Ye Shih-tao, de Yang Kui à l’île Verte, de Lü Hèruo à Lukou
+- [Incident du 228](/fr/history/228-incident) — Choc de 1947 sur le monde littéraire (Wang Tiandeng, Yang Kui, Ye Tao)
+- [Période de la loi martiale](/fr/history/martial-law-era) — Conditions politiques de l’activité littéraire de 1949 à 1987
 
 ## Références
 
