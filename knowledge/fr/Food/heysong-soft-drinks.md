@@ -1,26 +1,27 @@
 ---
-title: "HeySong Soda et Sarsaparilla : de la « boisson de troisième catégorie » moquée au centenaire d'une marque qui a tenu tête aux géants du cola"
-description: "Ce n'est pas une simple boisson gazeuse, mais l'histoire de survie d'un capital national taïwanais, naviguant entre la domination japonaise et les vagues de la mondialisation, et qui a tenu bon grâce à « 17 dollars d'actifs » et à la chanson « Mon avenir n'est pas un rêve »."
+title: 'Hei Fong Soda et Seven-Up : de la « marchandise de troisième classe » moquée à la défaite du géant du cola'
+description: "Ceci n'est pas une simple boisson gazeuse, mais l'histoire de la survie du capital national taïwanais qui, entre le contrôle de l'époque coloniale japonaise et les vagues de la mondialisation, a réussi à perdurer grâce à ses « actifs de 17 dollars » et son slogan « Mon avenir n'est pas un rêve »."
 date: 2026-04-16
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
-    'HeySong soda',
-    'HeySong sarsaparille',
-    'marque taïwanaise',
-    'culture alimentaire',
+    'Hei Fong Soda',
+    'Hei Fong Seven-Up',
+    'Marque taïwanaise',
+    'Culture culinaire',
     'Chang Yu-sheng',
   ]
-readingTime: 12
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-translatedFrom: Food/黑松.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'Food/黑松.md'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-02T01:24:58.730180+00:00'
 ---
 
 > **En 30 secondes :**

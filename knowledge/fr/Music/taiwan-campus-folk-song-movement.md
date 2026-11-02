@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T23:27:01+08:00'
+translatedAt: '2026-11-02T00:35:20.961168+00:00'
 ---
 
 # Le mouvement de la chanson folklorique de Taïwan
@@ -147,10 +147,10 @@ La réponse du mouvement folklorique de Taïwan est la suivante : n'ayez pas peu
 
 ## Lectures complémentaires
 
-- [Développement de la musique pop à Taïwan](/music/台灣流行音樂發展) — L'axe principal de la pop sinophone, de Lo Ta-you à Cheer Chen et Zhang Xuan.
-- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Un autre mouvement de conscience culturelle apparu après 1987, partageant le même esprit que « chanter ses propres chansons ».
-- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Le mouvement du Nouveau Cinéma taïwanais, une autre facette de l'éveil culturel local dans les années 1970-80.
-- [San Mao](/fr/people/san-mao) — L'auteure originale des paroles de _L'arbre d'olivier_, dont les textes ont conquis le monde sinophone après avoir été mis en musique.
+- [L'évolution de la musique populaire à Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'axe principal de la musique pop en langue chinoise, de Lo Ta-yu à Cheer Chen et Anais (Chang Hsien), après l'ère du _míngé_ (chanson folklorique).
+- [La littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Un autre mouvement d'éveil culturel après 1987, partageant la même essence que l'esprit « chanter ses propres chansons » du _míngé_.
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Le mouvement du Nouveau Cinéma taïwanais, un autre axe de l'éveil culturel local à Taïwan durant les années 1970 et 1980.
+- [San Mao](/fr/people/san-mao) — L'auteure originale des paroles de 《L'olivier》 (_Gǎnlǎn shù_), dont les paroles, après avoir été adaptées, ont conquis le monde sinophone.
 
 ---
 

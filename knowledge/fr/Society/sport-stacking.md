@@ -1,27 +1,28 @@
 ---
-title: "Sport stacking : d'un gadget internet à 1,915 seconde à une légende asiatique de 43 médailles d'or"
-description: "En 2025, l'équipe taïwanaise a remporté 43 médailles d'or et battu 7 records du monde lors de la Coupe d'Asie à Dalian, transformant ce sport autrefois moqué comme un « empilement de gobelets troués » en discipline dominante à Taïwan. De Lin Mengxin à Sama Basaw, jeune fille du peuple Seediq, le sport stacking taïwanais ne vise pas seulement la limite des 0,001 seconde, mais atteint de nouveaux sommets sociaux grâce à la rééducation spécialisée et à l'éducation inclusive."
-category: Society
+title: "Sport Stacking : de l'objet tendance vendu en ligne en 1,915 s aux 43 médailles d'or qui ont conquis l'Asie"
+description: "Lors de la Coupe d'Asie 2025 à Dalian, l'équipe taïwanaise a remporté 43 médailles d'or et battu 7 records du monde, faisant de ce sport, autrefois moqué comme le « jeu des gobelets percés », la discipline la plus dominante de Taïwan. De Lin Meng-hsin à Sama Basho, une jeune fille de l'ethnie Seediq, le sport stacking taïwanais ne recherche pas seulement l'extrême précision au millième de seconde, mais atteint également de nouveaux sommets sociaux grâce à la rééducation spécialisée et à l'éducation inclusive."
+date: 2026-04-28
+category: 'Society'
 tags:
   [
-    sport stacking,
-    Lin Mengxin,
-    Sama Basaw,
-    records du monde,
-    éducation inclusive,
-    inclusion sociale,
+    'Sport Stacking',
+    'Lin Meng-hsin',
+    'Sama Basho',
+    'Record du monde',
+    'Éducation inclusive',
+    'Inclusion sociale',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 10
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-05-01T22:19:06+08:00'
-featured: false
+translatedAt: '2026-11-02T01:59:14.270424+00:00'
 ---
 
 > **En 30 secondes :**

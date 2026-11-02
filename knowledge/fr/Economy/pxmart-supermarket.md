@@ -18,10 +18,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-18T00:53:04+08:00'
+translatedAt: '2026-11-02T01:47:33.466344+00:00'
 ---
 
 > **Résumé en 30 secondes :** En 1998, le magnat de l'immobilier **Lin Min-hsiung** reprend un réseau de 66 points de vente sociaux militaires et publics en perte de 66 sites. Sous l’œil de ses concurrents — les hypermarchés comme Carrefour et les épiceries de proximité comme 7-Eleven — il impose une règle stricte : « 20 % moins cher, 2 % de marge ». Aujourd’hui, Auchan Life est devenu un géant du commerce taïwanais avec plus de 1 200 points de vente et un chiffre d’affaires dépassant 20 milliards de dollars. Mais derrière cette croissance fulgurante se cachent des controverses sur le monopole et des défis liés à la transformation numérique.
@@ -64,14 +64,14 @@ En 2026, Auchan Life compte plus de 1 250 points de vente à Taïwan, avec un ob
 
 ---
 
-## Lecture complémentaire
+## Lectures complémentaires
 
-- **[Personnage mascotte](/fr/lifestyle/mascot-culture-in-taiwan)** — L’ours en peluche d’Auchan Life et son partenariat avec Open : l’art de gérer une image de marque
-- **[Culture des épiceries de quartier à Taïwan](/fr/lifestyle/convenience-store-culture)** — La place d’Auchan Life, 7-Eleven et FamilyMart dans le commerce taïwanais
-- **[Économie de livraison à Taïwan](/economy/台灣外送經濟)** — Comment Auchan Life Hours a pénétré le marché de _foodpanda_ / _Uber Eats_
-- **[Paiement mobile à Taïwan](/fr/technology/taiwan-mobile-payment)** — De Auchan Pay et autres outils, à la nécessité des solutions de paiement universelles
-- **[Histoire de la publicité à Taïwan](/fr/culture/taiwan-advertising-history)** — Derrière l’« esthétique économique » d’Auchan Life, l’agence Ogilvy et l’évolution de la publicité taïwanaise
-- **[Entreprise taïwanaise : l’Union Commercialisée](/fr/economy/taiwan-enterprise-uni-president)** — L’Union rachète Carrefour, Auchan Life rachète Aucher : l’autre face de la bataille des géants du commerce
+- **[Mascottes](/fr/lifestyle/mascot-culture-in-taiwan)** — L'ours de PX Mart et le futur d'Open : l'exploitation de l'IP des mascottes de la vente au détail
+- **[La culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture)** — La place de PX Mart, 7-Eleven et FamilyMart dans le commerce de détail taïwanais
+- **[L'économie de la livraison à domicile à Taïwan](/fr/lifestyle/food-delivery-platforms-taiwan)** — Comment le service de livraison rapide de PX Mart a réussi à s'imposer face à foodpanda et Uber Eats
+- **[Le paiement mobile à Taïwan](/fr/technology/taiwan-mobile-payment)** — Comprendre la différence entre l'adoption massive et l'usage universel, des multiples outils comme AllPay à l'acceptation par les commerçants et le maintien du cash en secours
+- **[Histoire de la publicité à Taïwan](/fr/culture/taiwan-advertising-history)** — L'agence Ogilvy derrière « l'esthétique économique » de PX Mart, et un siècle d'histoire de la publicité taïwanaise, de la monopolisation de l'attention au marketing émotionnel
+- **[Entreprises taïwanaises : Uni-President Enterprises](/fr/economy/taiwan-enterprise-uni-president)** — L'autre moitié de l'histoire des géants du commerce de détail à Taïwan : quand Uni-President absorbe Carrefour et que PX Mart fusionne avec RT-Mart
 
 ## Sources
 

@@ -2,7 +2,6 @@
 title: "Gâteau à l'ananas : des collations électorales au « lingot d'or » taïwanais d'une valeur de production de 25 milliards de dollars NT"
 description: "En 1945, la pâtisserie Yan Xinfafa de Taichung a transformé le gâteau traditionnel « dragon-phénix » en un petit gâteau à l'ananas. De la transition vers la garniture à la courge d'hiver dans les années 1970 face au déclin des exportations, au retour en 2009 de la marque SunnyHills à l'acidité authentique de l'ananas local, ce petit « lingot d'or » a, en quatre-vingts ans, toujours été lié au destin agricole de Taïwan. Aujourd'hui, sa valeur de production annuelle dépasse les 25 milliards de dollars NT et il est devenu la saveur la plus représentative de Taïwan dans l'esprit des visiteurs étrangers."
 date: 2026-04-24
-author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
   [
@@ -13,15 +12,17 @@ tags:
     'SunnyHills',
     'Yan Xinfafa',
   ]
-readingTime: 8
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d40713778c8c010e'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-05-01T22:19:06+08:00'
+translatedAt: '2026-11-02T01:41:33.484998+00:00'
 ---
 
 > **En 30 secondes :** Le gâteau à l'ananas est un condensé de l'intersection entre l'agriculture taïwanaise et l'art de la pâtisserie. Fondé en 1945 par Yan Xinfafa à Taichung, il a évolué dans les années 1970 vers une garniture à la courge d'hiver en raison du déclin des exportations d'ananas, puis est revenu sur le devant de la scène après 2009 grâce à la démarche « ananas local » de SunnyHills. Aujourd'hui, ce petit lingot d'or dépasse les 25 milliards de dollars NT de valeur de production annuelle et est devenu la saveur la plus représentative de Taïwan dans l'esprit des visiteurs étrangers.
@@ -64,11 +65,11 @@ Derrière chaque gâteau à l'ananas se cachent les efforts des agriculteurs et 
 
 En 2006, la municipalité de Taipei a organisé la première « Fête culturelle du gâteau à l'ananas de Taipei », propulsant avec succès le gâteau à l'ananas, d'une pâtisserie traditionnelle, sur la scène internationale grâce à des concours, du marketing et du branding[^10]. Cet événement a accru la notoriété du gâteau à l'ananas et stimulé le développement des industries connexes, en faisant le cadeau souvenir « lingot d'or » incontournable pour les touristes visitant Taïwan. Le succès du gâteau à l'ananas a inspiré les différentes régions de Taïwan à développer des cadeaux souvenirs caractéristiques, devenant un modèle de revitalisation locale et de marketing culturel.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Culture de la pâtisserie taïwanaise](/fr/food/taiwan-pastry-culture) — Les gènes multicouches de l'art des gâteaux han et des desserts modernes ; à lire avec le gâteau à l'ananas pour comprendre la transformation de la pâtisserie taïwanaise
-- [Nouilles au bœuf](/fr/food/beef-noodle-soup) — Un autre représentant de la « diplomatie populaire » qui définit la mémoire gustative taïwanaise ; un miroir intérieur-extérieur du gâteau à l'ananas
-- [Modernisation de l'agriculture taïwanaise](/economy/台灣農業現代化) — Des difficultés de production et de commercialisation à la transition vers l'agro-industrie, le gâteau à l'ananas est un chapitre de ce long parcours
+- [La culture de la pâtisserie taïwanaise](/fr/food/taiwan-pastry-culture) — L'héritage des techniques de pâtisserie chinoise et l'évolution vers les desserts modernes : comprendre la transformation de la pâtisserie à Taïwan aux côtés du gâteau à l'ananas
+- [Nouilles au bœuf](/fr/food/beef-noodle-soup) — Un autre représentant de la « diplomatie populaire » qui définit la mémoire gustative de Taïwan, offrant un contraste entre saveurs locales et internationales avec le gâteau à l'ananas
+- [La modernisation de l'agriculture taïwanaise](/fr/economy/taiwan-agricultural-modernization) — Des difficultés de production et de vente à la transformation des entreprises agricoles : le gâteau à l'ananas est une étape clé de ce long parcours
 
 ## Références
 

@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:48+08:00'
+translatedAt: '2026-11-02T01:34:20.865251+00:00'
 ---
 
 # L'art urbain et la culture du graffiti à Taïwan
@@ -85,5 +85,5 @@ Les technologies numériques ouvrent également de nouvelles possibilités. La p
 
 ## Lectures complémentaires
 
-- [Art contemporain taïwanais](/culture/台灣當代藝術) — La convergence entre l'art urbain et l'écosystème de l'art contemporain à Taïwan
-- [Musique électronique et culture des fêtes à Taïwan](/fr/music/taiwan-electronic-music-and-party-culture) — La scène de la musique électronique partageant les mêmes racines contre-culturelles que l'art urbain
+- [L'art contemporain à Taïwan](/fr/art/contemporary-art) — La convergence entre l'art urbain et l'écosystème de l'art contemporain à Taïwan.
+- [Musique électronique et culture de la fête à Taïwan](/fr/music/taiwan-electronic-music-and-party-culture) — La scène de la musique électronique, partageant les mêmes racines de contre-culture que l'art urbain.
