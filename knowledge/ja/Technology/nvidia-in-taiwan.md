@@ -25,9 +25,9 @@ researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '0df538d8c'
-sourceContentHash: 'sha256:b9e05b9a2ffc12db'
-sourceBodyHash: 'sha256:5412b8ae390af1fa'
+sourceCommitSha: '1ec0df23'
+sourceContentHash: 'sha256:533b8db87f48f6de'
+sourceBodyHash: 'sha256:8a6bcaa4a83cff70'
 translatedAt: '2026-09-23T00:44:41.339794+00:00'
 ---
 
