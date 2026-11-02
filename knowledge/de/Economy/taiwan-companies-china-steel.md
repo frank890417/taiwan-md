@@ -1,6 +1,6 @@
 ---
-title: 'China Steel: Der „Eisenkopf-Minister“ und die Stahllegende der Zehn Großbauprojekte'
-description: 'Von Zhao Yao-dongs Verhandlungsgeschick in Europa und den USA bis zum ersten weißen Rauch über Kaohsiung Xiaogang: China Steel baute in 50 Jahren das Rückgrat von Taiwans Schwerindustrie auf und ist die erfolgreichste Perle der Zehn Großbauprojekte.'
+title: 'China Steel: Der eiserne Minister und das stählerne Rückgrat der Zehn Großprojekte'
+description: 'Von Zhao Yaodongs Verhandlungen in Europa und Amerika, bei denen er technologisches Know-how sicherte, bis zum ersten weißen Rauch, der über Kaohsiung-Xiaogang aufstieg – China Steel hat in 50 Jahren das Rückgrat der taiwanischen Schwerindustrie geschmiedet und ist die erfolgreichste Perle der Zehn Großprojekte.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Wirtschaft',
     'Unternehmen',
     'Stahlindustrie',
-    'Zehn Großbauprojekte',
+    'Zehn Großprojekte',
     'Schwerindustrie',
   ]
 subcategory: '企業列傳'
@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-09-17T06:43:49+08:00'
+translatedAt: '2026-11-02T02:05:30.857704+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -31,13 +31,13 @@ translatedAt: '2026-09-17T06:43:49+08:00'
 
 Anfang der 1970er Jahre kontaktierte das Vorbereitungsbüro von China Steel bei Verhandlungen über Technologiekooperation für integrierte Stahlwerke mehrere europäische Stahlunternehmen, doch diese stellten Bedingungen, die gekoppelte Ausrüstungsbeschaffung und Beschränkungen der späteren technologischen Entwicklung Taiwans vorsahen. Zhao Yao-dong hielt die Bedingungen für unannehmbar, brach die Verhandlungen mit europäischer Seite aktiv ab und wandte sich den USA zu, um ein partnerschaftlicheres Kooperationsmodell zu suchen.[^2]
 
-## Technologiekooperation mit dem US-Unternehmen McLouth Steel
+## Technische Kooperation mit dem US-Unternehmen McLouth Steel
 
-Zhao Yao-dong entschied, Europa zu verlassen und in den USA nach Kooperation zu suchen. Die US-Stahlindustrie begegnete Taiwans industriellen Fähigkeiten zunächst mit Skepsis: Ein ostasiatischer Wirtschaftsraum, der gerade erst von der Importsubstitutionspolitik aufgestiegen war, könne schwerlich integrierte Stahlwerke bedienen – kapitalintensive Industrieanlagen mit langen Lieferketten.[^2]
+Zhao Yao-dong entschied sich, Europa zu verlassen und sich den USA für eine Kooperation zuzuwenden. Die US-Stahlindustrie zeigte sich zunächst skeptisch gegenüber Taiwans industriellen Fähigkeiten und hielt ein ostasiatisches Wirtschaftssystem, das gerade erst von einer Importsubstitutionspolitik gestartet war, für unfähig, eine integrierte Stahlproduktion – eine kapitalintensive Industrieanlage mit langer Lieferkette – zu betreiben.[^2]
 
-Im entscheidenden Moment zeigte Zhao Yao-dong die Rationalität eines Ingenieurs und die Klugheit eines Kaufmanns. Er sprach nicht von Sentimentalität, nicht von Politik, sondern legte präzise Datenreihen vor, die Taiwans industrielle Basis und Arbeitskräftequalität belegten. Er unterbreitete einen Vorschlag, der die US-Seite zum Einstieg bewegen sollte: Technologietransfer und langfristige Kooperation statt reiner Ausrüstungskauf.
+In diesem entscheidenden Moment bewies Zhao Yao-dong die Rationalität eines Ingenieurs und die Weisheit eines Geschäftsmanns. Er sprach nicht von Sentimentalität, nicht von Politik, sondern nutzte nur präzise Daten, um Taiwans industrielle Basis und Arbeitskräftequalität zu belegen. Er legte ein Angebot vor, das die US-Seite zum Einsteigen bewegte: Technologietransfer und langfristige Kooperation statt reinen Anlagenkaufs.
 
-1972 unterzeichneten China Steel und das US-Unternehmen **McLouth Steel** (ein integriertes Stahlwerk in Michigan) ein Technologiekooperationsabkommen und beauftragten das US-Beratungsunternehmen C.E. Lummus mit ingenieurtechnischer Unterstützung. Diese Verhandlung sparte Taiwan nicht nur enorme Mittel, sondern sicherte vor allem technologische Autonomie. Zhao Yao-dongs Strategie befähigte China Steel von Anfang an, Technologie aufzunehmen, zu verbessern und eigenständig weiterzuentwickeln, statt nur Ausrüstungskäufer zu bleiben.
+1972 unterzeichneten China Steel und das US-Unternehmen **McLouth Steel** (ein integriertes Stahlwerk in Michigan) ein Technologiekooperationsabkommen und beauftragten das US-Beratungsunternehmen C.E. Lummus mit ingenieurtechnischer Designunterstützung. Diese Verhandlung sparte Taiwan nicht nur enorme Mittel, sondern sicherte vor allem technologische Autonomie. Zhao Yao-dongs Strategie versetzte China Steel von Anfang an in die Lage, Technologie aufzunehmen, zu verbessern und eigenständig weiterzuentwickeln, anstatt nur als Anlagenkäufer aufzutreten.
 
 ## Der erste weiße Rauch über Xiaogang
 
@@ -81,14 +81,14 @@ China Steel ist ein vergleichsweise erfolgreicher kommerzieller Fall unter den Z
 
 Der aktuelle Vorstandsvorsitzende von China Steel ist **Huang Chien-chih** (Amtsantritt 2024), Vorgänger war **Weng Chao-tung** (Amtszeit 2022–2024).[^3]
 
-## Quellen
+## Referenzen
 
-[^1]: [China Steel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Geschichte der China Steel Corporation, einschließlich Gründung 1971, Hochofenanzündung 1977, Privatisierung 1995.
+[^1]: [China Steel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Geschichte der China Steel Corporation, einschließlich Gründung 1971, Inbetriebnahme des Hochofens 1977, Privatisierung 1995.
 
-[^2]: [Epoch Times: Eisenkopf-Minister tief im Volksherz verwurzelt – Zhao Yao-dong schuf China-Steel-Legende](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Verlauf von Zhao Yao-dongs Technologiekooperationsverhandlungen mit US-McLouth-Steel und Herkunft des Spitznamens „Eisenkopf-Minister“ aus seiner Amtszeit als Wirtschaftsminister 1981.
+[^2]: [The Epoch Times: „Eisenkopf-Minister“ tief im Volk verwurzelt, Zhao Yaodong begründet China-Steel-Legende](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Der Verlauf der Technologiekooperationsverhandlungen von Zhao Yaodong mit dem US-amerikanischen McLouth Steel sowie die Herkunft des Spitznamens „Eisenkopf-Minister“ aus seiner Amtszeit als Wirtschaftsminister 1981.
 
 [^3]: [Offizielle Website der China Steel Corporation und Geschäftsbericht 2024](https://www.csc.com.tw/) — Neueste Betriebsdaten und Jahresberichte der China-Steel-Gruppe.
 
-[^4]: [Zehn Großbauprojekte — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Politikhintergrund der Zehn Großbauprojekte der Republik China und Positionierung von China Steel.
+[^4]: [Zehn Großbauprojekte — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Politischer Hintergrund der Zehn Großbauprojekte der Republik China und die Positionierung von China Steel.
 
-[^5]: [Statistische Daten der World Steel Association](https://worldsteel.org/) — Weltweite Stahlwerksrankings und Kapazitätsstatistiken.
+[^5]: [Statistische Daten der World Steel Association](https://worldsteel.org/) — Weltrangliste der Stahlwerke und Kapazitätsstatistiken.
