@@ -1,20 +1,21 @@
 ---
-title: 金馬獎から漢光演習まで：台湾男性の集団的成人儀式と生存訓練
-description: 1945年以降、台湾の兵役は3年間から4ヶ月へと短縮され、2024年には再び1年制に戻りました。数百万人が関わるこの集合的な記憶は、「么兩三四五六拐八勾洞（特定の口令）」という合図だけでなく、この島がグレーゾーン下で生き延びるための緊張感そのものです。
+title: '金馬賞から漢光演習へ：台湾の男性における集団的な成人式と生存訓練'
+description: '1945年から現在に至るまで、台湾の兵役は3年から4ヶ月へと短縮され、2024年には再び1年制に戻りました。数百万人に関わるこの集団的な記憶は、単なる号令の暗唱にとどまらず、グレーゾーンにおけるこの島の生存の緊張感を象徴しています。'
 date: 2026-07-17
 category: 'Society'
+tags: ['兵役', '国防', '義務兵役', '漢光演習', '金馬賞']
 subcategory: '社會制度'
-tags: ['兵役', '国防', '義務役', '漢光演習', '金馬獎']
-readingTime: 12
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-23T23:06:50+08:00'
-author: 'Taiwan.md Contributors'
+translatedAt: '2026-11-02T20:28:39.457043+00:00'
 ---
 
 > **30秒概観：** 台湾の兵役制度は、この島が半世紀以上にわたって刻んできた最も深い社会的な印です。戒厳令下の「三年兵」から現代の1年制義務役への回帰まで、これは単なる期間の数字的変動ではなく、地政学的な圧力に直面する台湾の現実的な姿を映し出しています。本稿では、抽選現場での「金馬獎（キンマー・ジャー）」に対する驚きから、スーパーマーケットさえ訓練対象となる現代の戦備現場である漢光演習までを辿り、免役基準、新兵訓練のスケジュール、各種代替役、そして実戦化への転換といった側面を深く分析します。
@@ -91,10 +92,11 @@ author: 'Taiwan.md Contributors'
 
 ### 参考文献
 
-## 関連読書
+## 関連記事
 
-- [湖口営区と勝利路の記憶](/ja/history/hukou-camp-shengli-road-memory) — 軍事空間における日常的な記憶
-- [黒熊学院](/ja/society/kuma-academy-civil-defense-school) — 民間防衛意識の現代的側面
+- [湖口営区と勝利路の記憶](/ja/history/hukou-camp-shengli-road-memory) — 軍事空間における日常の記憶
+- [黒熊学院（Black Bear Academy）](/ja/society/kuma-academy-civil-defense-school) — 民間防衛意識の現代版
+- [金馬奨](/art/金馬獎) — 映画人の「金馬奨」と兵役志願者が口にする「金馬奨」は同じ語源であり、いずれも金門・馬祖の頭文字に由来する
 
 ## 参考資料
 
