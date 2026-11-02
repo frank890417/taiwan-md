@@ -2,9 +2,7 @@
 title: 'Taiwan’s Diplomatic Allies and International Diplomacy: 12 Allies, 113 Overseas Offices, Visa-Free Access to 177 Countries (2026)'
 description: 'On January 15, 2024, 48 hours after Lai Ching-te was elected president, Nauru announced the severance of diplomatic relations, reducing Taiwan’s diplomatic allies from 13 to 12. Yet that same year, Taiwan had 113 overseas offices, its passport provided access to 177 countries, TSMC produced 90% of the world’s advanced chips, and the European Parliament passed a resolution by 432:60:71 opposing China’s distortion of UN General Assembly Resolution 2758. Recognition on paper is shrinking, the shadow network is expanding, and the interpretive battle over international law is turning.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '國際關係'
 tags:
   [
     'diplomacy',
@@ -14,10 +12,12 @@ tags:
     'United Nations',
     'silicon shield',
   ]
+subcategory: '國際關係'
+author: 'Taiwan.md Contributors'
 readingTime: 16
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 51
     platform: 'threads'
@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c87'
-sourceContentHash: 'sha256:03188362c6b1e61a'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-05-26T05:10:57+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T12:31:14.483422+00:00'
 ---
 
 # Taiwan’s Diplomatic Allies and International Diplomacy: 12 Allies, 113 Overseas Offices, Visa-Free Access to 177 Countries
@@ -266,29 +266,29 @@ As long as Taiwan maintains 12 diplomatic allies, that discourse cannot stand. S
 
 ```
 12             113            177
-Diplomatic     Overseas       Passport
-allies         offices        access
+Diplomatic       Overseas       Countries
+Allies           Missions       Accessible via Passport
 ```
 
-Twelve countries recognize Taiwan’s Republic of China government as the “legitimate government of China.”
-One hundred thirteen offices represent Taiwan around the world in handling practical affairs.
-One hundred seventy-seven countries do not recognize the Republic of China, but allow Taiwanese citizens to enter.
+12 countries recognize the government of the Republic of China in Taiwan as "the legitimate government of China."
+113 missions around the world represent Taiwan and handle practical affairs.
+177 countries do not recognize the ROC, but they let Taiwanese citizens walk right in.
 
-The European Parliament passed an anti-2758-distortion resolution with 432 votes in favor. When Tsai Ing-wen left office in May 2024, Taiwan had 12 diplomatic allies; after leaving office, she was invited to visit the European Parliament in October. Bonnie Glaser spoke of a moment when dependence on TSMC became clear. Mark Lambert said 2758 does not mention Taiwan.
+The European Parliament passed Resolution 2758 with 432 votes in favor and 275 against. When Tsai Ing-wen left office in May 2024, there were 12 diplomatic allies; after stepping down, she was invited to visit the European Parliament in October. Bonnie Glaser once said there was a moment when reliance on TSMC [was absolute]. Mark Lambert has stated that Resolution 2758 does not mention Taiwan.
 
-These things are happening at the same time. There is no single thing called “Taiwan’s international status.”
+These things are happening simultaneously. There is no single line item called "Taiwan's international status."
 
-If there is, that thing is not 12, nor 113, nor 177, nor 90% or 30%.
+If such a thing existed, it would not be 12, nor 113, nor 177, nor 90% or 30%.
 
 It is the distance between these numbers.
 
 **Further Reading**:
 
-- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — When diplomatic allies are down to 12, military self-defense is another pillar for maintaining “not zero”
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How three crises shaped Taiwan’s diplomatic isolation and security anxiety
-- [TSMC](/business/台積電) — The material foundation of the silicon shield and its structural fragility
-- [Cho Jung-tai](/en/people/cho-jung-tai) — The 2026 U.S.-Taiwan tariff trajectory of 32→20→15% + the cabinet coordinator for Lai Ching-te’s visit to Eswatini
-- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Africa’s last remaining piece among the 12 diplomatic allies, the full 58-year story from establishing relations on the same day in 1968 to Lai Ching-te’s 2026 visit
+- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — When only 12 diplomatic allies remain, military self-defense is another pillar for maintaining "not zero"
+- [The Taiwan Strait Crisis and Cross-Strait Relations Development](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How three crises shaped Taiwan's diplomatic isolation and security anxiety
+- [TSMC](/en/economy/tsmc) — The material basis of the silicon shield and its structural vulnerabilities
+- [Zhuo Rongtai](/en/people/cho-jung-tai) — The 2026 US-Taiwan tariff trajectory from 32% $\rightarrow$ 20% $\rightarrow$ 15% + the cabinet coordinator for Lai Ching-te's visit to Eswatini
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — The complete 58-year story of the only remaining piece of Africa among the 12 diplomatic allies, from establishing ties on the same day in 1968 to Lai Ching-te's visit in 2026
 
 ## References
 
