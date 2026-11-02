@@ -1,26 +1,26 @@
 ---
-title: 'China Steel: El ministro de hierro y la leyenda del acero en las Diez Grandes Construcciones'
-description: 'Desde las negociaciones de Zhao Yaodong en Europa y Estados Unidos para obtener tecnología, hasta la primera columna de humo blanco que se elevó en Siaogang, Kaohsiung, China Steel construyó durante 50 años la columna vertebral de la industria pesada de Taiwán, siendo la perla más exitosa de las Diez Grandes Construcciones'
+title: 'China Steel: El líder de hierro y la columna vertebral de acero de los Diez Grandes Proyectos de Construcción'
+description: 'Desde las astutas negociaciones tecnológicas de Zhao Yaodong en Europa y Estados Unidos, hasta la primera columna de humo blanco que se elevó en Xiaogang, Kaohsiung, China Steel ha forjado la columna vertebral de la industria pesada de Taiwán durante 50 años, siendo la joya más exitosa de los Diez Grandes Proyectos de Construcción.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
-    'Economy',
-    'Empresas',
-    'Industria siderúrgica',
-    'Diez Grandes Construcciones',
+    'Economía',
+    'Empresa',
+    'Industria del acero',
+    'Diez Grandes Proyectos de Construcción',
     'Industria pesada',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-05-15T15:39:40+08:00'
+translatedAt: '2026-11-02T02:07:21.224330+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -31,13 +31,13 @@ translatedAt: '2026-05-15T15:39:40+08:00'
 
 A principios de la década de 1970, la oficina preparatoria de China Steel, al negociar acuerdos de cooperación tecnológica para la producción integral de acero, mantuvo contacto con varias siderúrgicas europeas. Sin embargo, las condiciones impuestas por estas incluían la compra obligatoria de equipos vinculados a proveedores específicos y restricciones al desarrollo tecnológico posterior de Taiwán. Zhao Yaodong consideró que las condiciones eran excesivamente duras e interrumpió voluntariamente las negociaciones con Europa, orientándose hacia Estados Unidos en busca de un modelo de cooperación más equitativo.[^2]
 
-## La cooperación técnica con McLouth Steel de Estados Unidos
+## Cooperación técnica con McLouth Steel de Estados Unidos
 
-Zhao Yaodong decidió abandonar Europa y buscar cooperación en Estados Unidos. La industria siderúrgica estadounidense mostró inicialmente escepticismo respecto a la capacidad industrial de Taiwán, considerando que una economía asiática oriental que apenas comenzaba a superar la política de sustitución de importaciones difícilmente podría operar instalaciones industriales de producción integral de acero, un sector intensivo en capital y con cadenas de suministro largas.[^2]
+Zhao Yaodong decidió dejar Europa y buscar la cooperación en Estados Unidos. Inicialmente, la industria siderúrgica estadounidense se mostró escéptica ante la capacidad industrial de Taiwán; consideraban que para una economía del este de Asia que acababa de iniciarse con políticas de sustitución de importaciones, sería difícil operar equipos industriales de procesos integrados, los cuales requieren un gran capital y cadenas de suministro prolongadas. [^2]
 
-En el momento decisivo, Zhao Yaodong demostró la racionalidad de un ingeniero y la sabiduría de un empresario. No apeló a sentimientos ni a argumentos políticos, sino que presentó conjuntos precisos de datos para demostrar la base industrial y la calidad del capital humano de Taiwán. Propuso un esquema que resultara atractivo para la parte estadounidense: transferencia tecnológica y cooperación a largo plazo, en lugar de una simple compra de equipos.
+En el momento crítico, Zhao Yaodong demostró la racionalidad de un ingeniero y la sabiduría de un hombre de negocios. No apeló a la nostalgia ni habló de política; solo utilizó conjuntos de datos precisos para demostrar la base industrial y la cualificación de la mano de obra en Taiwán. Propuso un plan que convenció a la parte estadounidense para participar: transferencia tecnológica y cooperación a largo plazo, en lugar de una simple compraventa de equipos.
 
-En 1972, China Steel firmó un acuerdo de cooperación técnica con la empresa **McLouth Steel** (una planta de producción integral de acero en el estado de Míchigan) y contrató a la consultora estadounidense C.E. Lummus para brindar apoyo en diseño de ingeniería. Esta negociación no solo permitió a Taiwán ahorrar una enorme suma de dinero, sino que, lo más importante, garantizó la autonomía tecnológica. La estrategia de Zhao Yaodong permitió que China Steel, desde el inicio, contara con la capacidad de absorber, mejorar y desarrollar tecnología de forma autónoma, en lugar de limitarse a ser un comprador de equipos.
+En 1972, China Steel firmó un acuerdo de cooperación técnica con la empresa estadounidense **McLouth Steel** (una planta de procesos integrados en Michigan) y contrató a la consultora estadounidense C.E. Lummus para recibir apoyo en el diseño de ingeniería. Esta negociación no solo ahorró una enorme cantidad de fondos a Taiwán, sino que, lo más importante, permitió obtener autonomía tecnológica. La estrategia de Zhao Yaodong permitió que China Steel tuviera, desde el principio, la capacidad de absorber, mejorar y desarrollar tecnología por cuenta propia, en lugar de actuar únicamente como un comprador de equipos.
 
 ## La primera columna de humo blanco en Siaogang
 
@@ -83,12 +83,12 @@ El actual presidente del consejo de China Steel es **Huang Chien-chih** (asumió
 
 ## Referencias
 
-[^1]: [China Steel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Historia de China Steel Corporation, incluyendo su fundación en 1971, la ignición del alto horno en 1977 y la privatización en 1995.
+[^1]: [China Steel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Evolución de China Steel Corporation, incluyendo su fundación en 1971, el encendido del alto horno en 1977 y su privatización en 1995.
 
-[^2]: [Epoch Times: El ministro de hierro que se ganó al pueblo — Zhao Yaodong y la leyenda de China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Relato de las negociaciones de Zhao Yaodong con McLouth Steel de Estados Unidos y del origen del apodo "ministro de hierro" durante su gestión como ministro de Economía en 1981.
+[^2]: [The Epoch Times: El 'Ministro de Cabeza de Hierro' profundamente arraigado en el corazón del pueblo; Zhao Yaodong crea la leyenda de China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Detalles sobre las negociaciones de cooperación técnica con McLouth Steel en Estados Unidos y el origen del apodo "Ministro de Cabeza de Hierro" durante su mandato como Ministro de Economía en 1981.
 
-[^3]: [Sitio web oficial de China Steel Corporation y reporte anual 2024](https://www.csc.com.tw/) — Datos operativos más recientes del grupo China Steel y reportes anuales.
+[^3]: [Sitio web oficial de China Steel Corporation e informe anual de 2024](https://www.csc.com.tw/) — Datos operativos más recientes e informes anuales del Grupo China Steel.
 
-[^4]: [Diez Grandes Construcciones — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexto de la política de las Diez Grandes Construcciones de la República de China y el posicionamiento de China Steel.
+[^4]: [Diez Grandes Proyectos de Construcción — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexto de la política de los Diez Grandes Proyectos de Construcción de la República de China y el posicionamiento de China Steel.
 
-[^5]: [Estadísticas de la Asociación Mundial del Acero](https://worldsteel.org/) — Clasificación mundial de plantas siderúrgicas y estadísticas de capacidad de producción.
+[^5]: [Estadísticas de la World Steel Association](https://worldsteel.org/) — Clasificación de las plantas siderúrgicas mundiales y estadísticas de capacidad de producción.

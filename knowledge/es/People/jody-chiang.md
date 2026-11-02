@@ -1,15 +1,15 @@
 ---
-title: 'Jody Chiang: La reina del taiwanés surgida de los Nakasi de Beitou'
-description: 'Jody Chiang (nombre real Chiang Shu-hui, nacida en 1961 en Kaohsiung) se mudó a Taipéi a los 9 años y comenzó su carrera cantando en los locales Nakasi de Beitou. En 1992, su álbum "Voz del corazón tras el alcohol" vendió 1,16 millones de copias en Taiwán, siendo el único álbum en taiwanés que ha superado el millón según registros oficiales. Ganó cuatro veces consecutivas el premio a la Mejor Cantante Femen Prevista en los Golden Melody Awards entre 2000 y 2003; se retiró en 2015 y regresó en 2024 durante la gala del Día Nacional en el Taipei Dome.'
+title: 'Jiang Hui: cantante taiwanesa originaria del nakasi de Beitou'
+description: 'Jiang Hui (nombre real Jiang Shuhui, nacida en 1961 en Kaohsiung) se mudó a Taipéi con su familia a los 9 años y comenzó a cantar en el nakasi de Beitou. En 1992, su álbum «La voz del corazón tras la copa» vendió 1,16 millones de copias en Taiwán, siendo el único álbum en taiwanés en superar el millón según registros oficiales. Entre 2000 y 2003 ganó cuatro veces consecutivas el Premio Golden Melody a la mejor intérprete femenina en taiwanés, se retiró en 2015 y reapareció en 2024 en el concierto del Día Nacional en el Taipei Dome.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'Jody Chiang',
-    'música pop en taiwanés',
-    'Golden Melody Awards',
-    'Nakasi de Beitou',
-    'cultura de Taiwán',
+    'Jiang Hui',
+    'música pop taiwanesa',
+    'Premios Golden Melody',
+    'nakasi de Beitou',
+    'cultura taiwanesa',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T08:42:17+08:00'
+translatedAt: '2026-11-02T02:23:58.016820+00:00'
 ---
 
 # Jody Chiang: surgida de los Nakasi de Beitou, con el único álbum en taiwanés que superó el millón de copias
