@@ -1,0 +1,856 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		023EB5C1B322C4B6860D0537 /* TimelineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E7F0B6B25FD181CA42EAC4 /* TimelineView.swift */; };
+		04758ED36BAA4C978FE5CBB9 /* PackStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8864D752BDFC34542FCD60C /* PackStore.swift */; };
+		0A3CBFBCB6123246B62EB749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31D5840C7C7C73E250BA26C1 /* Assets.xcassets */; };
+		0B61D94AF4DA73949DB1D011 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCD054525FC0FEC9914012CA /* Language.swift */; };
+		10D6B5F8A12A1E26BDCDE3EF /* TaiwanMDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 658C383F5E4A4A0B002FFAA8 /* TaiwanMDTests.swift */; };
+		10E167920FD6EE6D6906CCF9 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527C99736DA9596455596ADB /* TodayView.swift */; };
+		13714C06BB3AC4EE4DEB96F6 /* timeline-eras.json in Resources */ = {isa = PBXBuildFile; fileRef = 135CF3B1370750A5E0932C7C /* timeline-eras.json */; };
+		1F1BF759A580BD699FE2CF89 /* reader.css in Resources */ = {isa = PBXBuildFile; fileRef = 1D3FD184EA7D48E46803E335 /* reader.css */; };
+		25A985A529F79FCCCA33105C /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = C828344B3A46E25488378301 /* Library.swift */; };
+		3ABB3646EBE993B567543BCE /* pack-en.sqlite.lzma in Resources */ = {isa = PBXBuildFile; fileRef = 3F7F27F8012D1553AB7BFCCD /* pack-en.sqlite.lzma */; };
+		3C6F286EEA498DEC12B4D98B /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D67A1233035FE3F1D6B61D /* ExploreView.swift */; };
+		47E7E7555E869EF2CC972452 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F995E27DE8C0AE71CAE8689 /* RootView.swift */; };
+		4F28DA25B717FFC5992B315D /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610DC7B7CC51E920AE76BCED /* Article.swift */; };
+		56DD60603687C35CF9EA0563 /* pack-zh-TW.sqlite.lzma in Resources */ = {isa = PBXBuildFile; fileRef = A14C229DD0147E36374FCA4C /* pack-zh-TW.sqlite.lzma */; };
+		5D0BE0A46FA67FCAF21D70E5 /* Era.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BEFF4504A7A60540634550 /* Era.swift */; };
+		5FAB2A4D0CDBDE6181BA782D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10CA82DD72617F521736962A /* Assets.xcassets */; };
+		60D8D66D7B8D403CD35B6B30 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 60B68AB7C55C0BC71F342E91 /* InfoPlist.strings */; };
+		64513F30421C1DA8564D637A /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45112C750DBC54D253C57CC /* ReaderView.swift */; };
+		6CB6104516A4D84C419FD56E /* ReaderDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EADDAA014BD1B732B0110DB /* ReaderDocument.swift */; };
+		76E63CBF78BDFFC4262BD1F5 /* TextNormalizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3AFFBF58A0CB185E044E4B /* TextNormalizer.swift */; };
+		78DBC3CD476A429AC00D0F4B /* TaiwanMDWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 7F5F18C2930A4921FE09F14B /* TaiwanMDWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		79DF2972C2C3DA03DE43E663 /* PackUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7D3EEC67D69237D38C631E /* PackUpdater.swift */; };
+		8127E27EA7105F1F4967E777 /* L.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7187D8E6BD9DBDD2135756 /* L.swift */; };
+		82D77E5303926D83C318B71A /* pack-ja.sqlite.lzma in Resources */ = {isa = PBXBuildFile; fileRef = F0224B4E302DF7076ED0C9B1 /* pack-ja.sqlite.lzma */; };
+		897E64E320028E26E0EC3BBB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21579B0599D0516D3D1EB6C2 /* SettingsView.swift */; };
+		8D2A4AB601173252D4206F41 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15E5590383B45DECBE9A29B /* SearchView.swift */; };
+		8DC2872D432366EB9260325E /* ArticleWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE128221EDAE81A3C7A71C1 /* ArticleWebView.swift */; };
+		90522B73D9102C2243EB052E /* TodayArticleWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8FFA4387F1D27189787F85 /* TodayArticleWidget.swift */; };
+		90B9468737B5A020C3608152 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0350F65CFF6D46E35F41BD75 /* Category.swift */; };
+		936BBD690794DA6414BB15B1 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F600097B05D1FCC8526D536 /* AppModel.swift */; };
+		9A6820B08B36FC04B68DFE61 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F9B828EDF3D7A997EB8667A /* AboutView.swift */; };
+		A7B092681D69716128DB70CA /* TaiwanMDApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7C312FCC89FE686E1437E /* TaiwanMDApp.swift */; };
+		A834312982A8491C26E59F7E /* packs-index.json in Resources */ = {isa = PBXBuildFile; fileRef = 71D3922A0EC8AA21793110F5 /* packs-index.json */; };
+		AD8C162312D447E03E12587D /* tokens.css in Resources */ = {isa = PBXBuildFile; fileRef = E87E457D1D202A53A010E31E /* tokens.css */; };
+		BFE3E85ACF00BBDB69C802C2 /* reader.js in Resources */ = {isa = PBXBuildFile; fileRef = 6AED5C5F312BA80C82CDCE14 /* reader.js */; };
+		DE3CDB4F5B2ED4AC8072293D /* normalize-cases.json in Resources */ = {isa = PBXBuildFile; fileRef = 320628F0BD713939C3B71082 /* normalize-cases.json */; };
+		E2C5D540BCC88133429934C8 /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D4D58E2DE60F57B0927D103 /* LibraryView.swift */; };
+		E4A1241C34B9606FB704DD55 /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ACF923C17D56143808AB5E /* Components.swift */; };
+		E9FFA511AEA586984D8D6E0D /* SearchEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94E000DE9394FD2016E5405 /* SearchEngine.swift */; };
+		EB54AD02F7E840FFA90B163E /* article-modules.css in Resources */ = {isa = PBXBuildFile; fileRef = C489AF9E308D4831ED109C89 /* article-modules.css */; };
+		EB960FA7180ED948256085CF /* SQLiteDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFC6148B9CE26AED1EE1172 /* SQLiteDB.swift */; };
+		F862EE905D6D63AAEE5D0804 /* WidgetSnapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F86E757F5C9C59788C583B72 /* WidgetSnapshot.swift */; };
+		FE59DD80DF4543A806DE4728 /* WidgetSnapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = F86E757F5C9C59788C583B72 /* WidgetSnapshot.swift */; };
+		FE97105AA09AE4ED0A8E0FA6 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F2E49CB6D7DCB219961D7308 /* PrivacyInfo.xcprivacy */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AFBD7441D7034D540B495B35 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7AA585A45B781C30D7A0BE90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 277826174BA14258E37BADCC;
+			remoteInfo = TaiwanMDWidget;
+		};
+		B20102C1DBD7CF3D2F9ECDB5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7AA585A45B781C30D7A0BE90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 943CC482647D1773DED3DD74;
+			remoteInfo = TaiwanMD;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1886D4592D38725407C8E704 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				78DBC3CD476A429AC00D0F4B /* TaiwanMDWidget.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0350F65CFF6D46E35F41BD75 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		0F7E9EDEB91CAE49481BE970 /* TaiwanMD.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = TaiwanMD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F9B828EDF3D7A997EB8667A /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		10CA82DD72617F521736962A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		12234FF15625AB6158B5D510 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		135CF3B1370750A5E0932C7C /* timeline-eras.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "timeline-eras.json"; sourceTree = "<group>"; };
+		1D3FD184EA7D48E46803E335 /* reader.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = reader.css; sourceTree = "<group>"; };
+		1F600097B05D1FCC8526D536 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		20D67A1233035FE3F1D6B61D /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		21579B0599D0516D3D1EB6C2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		25E7F0B6B25FD181CA42EAC4 /* TimelineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineView.swift; sourceTree = "<group>"; };
+		31D5840C7C7C73E250BA26C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		320628F0BD713939C3B71082 /* normalize-cases.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "normalize-cases.json"; sourceTree = "<group>"; };
+		34ACF923C17D56143808AB5E /* Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		3A7D3EEC67D69237D38C631E /* PackUpdater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackUpdater.swift; sourceTree = "<group>"; };
+		3F7F27F8012D1553AB7BFCCD /* pack-en.sqlite.lzma */ = {isa = PBXFileReference; path = "pack-en.sqlite.lzma"; sourceTree = "<group>"; };
+		527C99736DA9596455596ADB /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		5DE128221EDAE81A3C7A71C1 /* ArticleWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleWebView.swift; sourceTree = "<group>"; };
+		610DC7B7CC51E920AE76BCED /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		658C383F5E4A4A0B002FFAA8 /* TaiwanMDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanMDTests.swift; sourceTree = "<group>"; };
+		6AED5C5F312BA80C82CDCE14 /* reader.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = reader.js; sourceTree = "<group>"; };
+		712028412B4EE917713C8899 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		71D3922A0EC8AA21793110F5 /* packs-index.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "packs-index.json"; sourceTree = "<group>"; };
+		7D4D58E2DE60F57B0927D103 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		7EADDAA014BD1B732B0110DB /* ReaderDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderDocument.swift; sourceTree = "<group>"; };
+		7F5F18C2930A4921FE09F14B /* TaiwanMDWidget.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = TaiwanMDWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F995E27DE8C0AE71CAE8689 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		9E3AFFBF58A0CB185E044E4B /* TextNormalizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextNormalizer.swift; sourceTree = "<group>"; };
+		9F81A11CF1F43391A8E8253C /* TaiwanMDTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = TaiwanMDTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A14C229DD0147E36374FCA4C /* pack-zh-TW.sqlite.lzma */ = {isa = PBXFileReference; path = "pack-zh-TW.sqlite.lzma"; sourceTree = "<group>"; };
+		A6A7C312FCC89FE686E1437E /* TaiwanMDApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaiwanMDApp.swift; sourceTree = "<group>"; };
+		B8864D752BDFC34542FCD60C /* PackStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackStore.swift; sourceTree = "<group>"; };
+		BCD054525FC0FEC9914012CA /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
+		C15E5590383B45DECBE9A29B /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		C489AF9E308D4831ED109C89 /* article-modules.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "article-modules.css"; sourceTree = "<group>"; };
+		C828344B3A46E25488378301 /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
+		CF8FFA4387F1D27189787F85 /* TodayArticleWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayArticleWidget.swift; sourceTree = "<group>"; };
+		DACFBA6FD433E1B0D35D4EC3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E6BEFF4504A7A60540634550 /* Era.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Era.swift; sourceTree = "<group>"; };
+		E87E457D1D202A53A010E31E /* tokens.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = tokens.css; sourceTree = "<group>"; };
+		EA7187D8E6BD9DBDD2135756 /* L.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L.swift; sourceTree = "<group>"; };
+		F0224B4E302DF7076ED0C9B1 /* pack-ja.sqlite.lzma */ = {isa = PBXFileReference; path = "pack-ja.sqlite.lzma"; sourceTree = "<group>"; };
+		F2E49CB6D7DCB219961D7308 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		F45112C750DBC54D253C57CC /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
+		F86E757F5C9C59788C583B72 /* WidgetSnapshot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetSnapshot.swift; sourceTree = "<group>"; };
+		F94E000DE9394FD2016E5405 /* SearchEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchEngine.swift; sourceTree = "<group>"; };
+		FAFC6148B9CE26AED1EE1172 /* SQLiteDB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SQLiteDB.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		018DC2533FD5E655C93B3CE9 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				C15E5590383B45DECBE9A29B /* SearchView.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		03AFD01A3FF34E1036E9AB85 /* Explore */ = {
+			isa = PBXGroup;
+			children = (
+				20D67A1233035FE3F1D6B61D /* ExploreView.swift */,
+			);
+			path = Explore;
+			sourceTree = "<group>";
+		};
+		1BE6DFD0A495DF098574A93A /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				C828344B3A46E25488378301 /* Library.swift */,
+				B8864D752BDFC34542FCD60C /* PackStore.swift */,
+				3A7D3EEC67D69237D38C631E /* PackUpdater.swift */,
+				F94E000DE9394FD2016E5405 /* SearchEngine.swift */,
+				FAFC6148B9CE26AED1EE1172 /* SQLiteDB.swift */,
+				9E3AFFBF58A0CB185E044E4B /* TextNormalizer.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		309013EAC1BDC92A67EEAC6D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				135CF3B1370750A5E0932C7C /* timeline-eras.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		30E0C1FBD2EE0DA88B8BBF36 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				F86E757F5C9C59788C583B72 /* WidgetSnapshot.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		345A7EE66460EF02A8B2F2CC /* Web */ = {
+			isa = PBXGroup;
+			children = (
+				C489AF9E308D4831ED109C89 /* article-modules.css */,
+				1D3FD184EA7D48E46803E335 /* reader.css */,
+				6AED5C5F312BA80C82CDCE14 /* reader.js */,
+				E87E457D1D202A53A010E31E /* tokens.css */,
+			);
+			path = Web;
+			sourceTree = "<group>";
+		};
+		4981ABF909E29B6FBA1D9589 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				34ACF923C17D56143808AB5E /* Components.swift */,
+				03AFD01A3FF34E1036E9AB85 /* Explore */,
+				66CD2B6561C0DB3D9BC54932 /* Library */,
+				E3D36A65E30835FBE1A3D76E /* Reader */,
+				018DC2533FD5E655C93B3CE9 /* Search */,
+				A18837B75E423AAE8A78B355 /* Settings */,
+				5048177F5BF1D4BDD3EB90D3 /* Timeline */,
+				5D079833DEC2FBB9C734EB6B /* Today */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		5048177F5BF1D4BDD3EB90D3 /* Timeline */ = {
+			isa = PBXGroup;
+			children = (
+				25E7F0B6B25FD181CA42EAC4 /* TimelineView.swift */,
+			);
+			path = Timeline;
+			sourceTree = "<group>";
+		};
+		5D079833DEC2FBB9C734EB6B /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				527C99736DA9596455596ADB /* TodayView.swift */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+		66CD2B6561C0DB3D9BC54932 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				7D4D58E2DE60F57B0927D103 /* LibraryView.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		6C2A353616AF452ECDF6DD37 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				1F600097B05D1FCC8526D536 /* AppModel.swift */,
+				7F995E27DE8C0AE71CAE8689 /* RootView.swift */,
+				A6A7C312FCC89FE686E1437E /* TaiwanMDApp.swift */,
+				1BE6DFD0A495DF098574A93A /* Data */,
+				4981ABF909E29B6FBA1D9589 /* Features */,
+				8F1AC18F13B28B05E907C162 /* Model */,
+				9D286899A7A661101426C1E9 /* Resources */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		8F1AC18F13B28B05E907C162 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				610DC7B7CC51E920AE76BCED /* Article.swift */,
+				0350F65CFF6D46E35F41BD75 /* Category.swift */,
+				E6BEFF4504A7A60540634550 /* Era.swift */,
+				EA7187D8E6BD9DBDD2135756 /* L.swift */,
+				BCD054525FC0FEC9914012CA /* Language.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9D286899A7A661101426C1E9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				31D5840C7C7C73E250BA26C1 /* Assets.xcassets */,
+				F2E49CB6D7DCB219961D7308 /* PrivacyInfo.xcprivacy */,
+				309013EAC1BDC92A67EEAC6D /* Data */,
+				60B68AB7C55C0BC71F342E91 /* InfoPlist.strings */,
+				FDE0273F00CE4BE5E08DA202 /* Packs */,
+				345A7EE66460EF02A8B2F2CC /* Web */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A18837B75E423AAE8A78B355 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				0F9B828EDF3D7A997EB8667A /* AboutView.swift */,
+				21579B0599D0516D3D1EB6C2 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		A2B66BF830F9699A42D5FEBA /* Widget */ = {
+			isa = PBXGroup;
+			children = (
+				10CA82DD72617F521736962A /* Assets.xcassets */,
+				CF8FFA4387F1D27189787F85 /* TodayArticleWidget.swift */,
+			);
+			path = Widget;
+			sourceTree = "<group>";
+		};
+		DBD0F03E11C125A35BD55CE6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0F7E9EDEB91CAE49481BE970 /* TaiwanMD.app */,
+				9F81A11CF1F43391A8E8253C /* TaiwanMDTests.xctest */,
+				7F5F18C2930A4921FE09F14B /* TaiwanMDWidget.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DD18E92FEC85585398A52EF1 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				320628F0BD713939C3B71082 /* normalize-cases.json */,
+				658C383F5E4A4A0B002FFAA8 /* TaiwanMDTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		E3D36A65E30835FBE1A3D76E /* Reader */ = {
+			isa = PBXGroup;
+			children = (
+				5DE128221EDAE81A3C7A71C1 /* ArticleWebView.swift */,
+				7EADDAA014BD1B732B0110DB /* ReaderDocument.swift */,
+				F45112C750DBC54D253C57CC /* ReaderView.swift */,
+			);
+			path = Reader;
+			sourceTree = "<group>";
+		};
+		EF2EC0D881F49220EA7AB955 = {
+			isa = PBXGroup;
+			children = (
+				6C2A353616AF452ECDF6DD37 /* App */,
+				30E0C1FBD2EE0DA88B8BBF36 /* Shared */,
+				DD18E92FEC85585398A52EF1 /* Tests */,
+				A2B66BF830F9699A42D5FEBA /* Widget */,
+				DBD0F03E11C125A35BD55CE6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FDE0273F00CE4BE5E08DA202 /* Packs */ = {
+			isa = PBXGroup;
+			children = (
+				3F7F27F8012D1553AB7BFCCD /* pack-en.sqlite.lzma */,
+				F0224B4E302DF7076ED0C9B1 /* pack-ja.sqlite.lzma */,
+				A14C229DD0147E36374FCA4C /* pack-zh-TW.sqlite.lzma */,
+				71D3922A0EC8AA21793110F5 /* packs-index.json */,
+			);
+			path = Packs;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		277826174BA14258E37BADCC /* TaiwanMDWidget */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6C27CC1C8CBD0A715895358B /* Build configuration list for PBXNativeTarget "TaiwanMDWidget" */;
+			buildPhases = (
+				B7095FC5AB3412EEFBCDEAD6 /* Sources */,
+				526AC0519A5D505CE6A438C6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TaiwanMDWidget;
+			packageProductDependencies = (
+			);
+			productName = TaiwanMDWidget;
+			productReference = 7F5F18C2930A4921FE09F14B /* TaiwanMDWidget.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		943CC482647D1773DED3DD74 /* TaiwanMD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 59A72DA6E4499BEAFE55BDAB /* Build configuration list for PBXNativeTarget "TaiwanMD" */;
+			buildPhases = (
+				F446C9E6A2C40CC7ED44639C /* Sources */,
+				2FB0212137B249193F9A005A /* Resources */,
+				1886D4592D38725407C8E704 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ABD9ECED1C9C4057B3549B7C /* PBXTargetDependency */,
+			);
+			name = TaiwanMD;
+			packageProductDependencies = (
+			);
+			productName = TaiwanMD;
+			productReference = 0F7E9EDEB91CAE49481BE970 /* TaiwanMD.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D20B0C1E087CD92E7027661E /* TaiwanMDTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 767025075BD8135EF2BA9CF3 /* Build configuration list for PBXNativeTarget "TaiwanMDTests" */;
+			buildPhases = (
+				070F620DC485DC23F17F4CB9 /* Sources */,
+				36310979F2780F4EB372B224 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B4F7B71DE697B64746ADBF0C /* PBXTargetDependency */,
+			);
+			name = TaiwanMDTests;
+			packageProductDependencies = (
+			);
+			productName = TaiwanMDTests;
+			productReference = 9F81A11CF1F43391A8E8253C /* TaiwanMDTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7AA585A45B781C30D7A0BE90 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					277826174BA14258E37BADCC = {
+						DevelopmentTeam = UXN5GBD9Q5;
+						ProvisioningStyle = Automatic;
+					};
+					943CC482647D1773DED3DD74 = {
+						DevelopmentTeam = UXN5GBD9Q5;
+						ProvisioningStyle = Automatic;
+					};
+					D20B0C1E087CD92E7027661E = {
+						DevelopmentTeam = UXN5GBD9Q5;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 342039C92CFDCDF1E044230E /* Build configuration list for PBXProject "TaiwanMD" */;
+			developmentRegion = "zh-Hant";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+				ja,
+				"zh-Hant",
+			);
+			mainGroup = EF2EC0D881F49220EA7AB955;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DBD0F03E11C125A35BD55CE6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				943CC482647D1773DED3DD74 /* TaiwanMD */,
+				277826174BA14258E37BADCC /* TaiwanMDWidget */,
+				D20B0C1E087CD92E7027661E /* TaiwanMDTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2FB0212137B249193F9A005A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A3CBFBCB6123246B62EB749 /* Assets.xcassets in Resources */,
+				60D8D66D7B8D403CD35B6B30 /* InfoPlist.strings in Resources */,
+				FE97105AA09AE4ED0A8E0FA6 /* PrivacyInfo.xcprivacy in Resources */,
+				EB54AD02F7E840FFA90B163E /* article-modules.css in Resources */,
+				3ABB3646EBE993B567543BCE /* pack-en.sqlite.lzma in Resources */,
+				82D77E5303926D83C318B71A /* pack-ja.sqlite.lzma in Resources */,
+				56DD60603687C35CF9EA0563 /* pack-zh-TW.sqlite.lzma in Resources */,
+				A834312982A8491C26E59F7E /* packs-index.json in Resources */,
+				1F1BF759A580BD699FE2CF89 /* reader.css in Resources */,
+				BFE3E85ACF00BBDB69C802C2 /* reader.js in Resources */,
+				13714C06BB3AC4EE4DEB96F6 /* timeline-eras.json in Resources */,
+				AD8C162312D447E03E12587D /* tokens.css in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		36310979F2780F4EB372B224 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE3CDB4F5B2ED4AC8072293D /* normalize-cases.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		526AC0519A5D505CE6A438C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FAB2A4D0CDBDE6181BA782D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		070F620DC485DC23F17F4CB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				10D6B5F8A12A1E26BDCDE3EF /* TaiwanMDTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7095FC5AB3412EEFBCDEAD6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				90522B73D9102C2243EB052E /* TodayArticleWidget.swift in Sources */,
+				FE59DD80DF4543A806DE4728 /* WidgetSnapshot.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F446C9E6A2C40CC7ED44639C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A6820B08B36FC04B68DFE61 /* AboutView.swift in Sources */,
+				936BBD690794DA6414BB15B1 /* AppModel.swift in Sources */,
+				4F28DA25B717FFC5992B315D /* Article.swift in Sources */,
+				8DC2872D432366EB9260325E /* ArticleWebView.swift in Sources */,
+				90B9468737B5A020C3608152 /* Category.swift in Sources */,
+				E4A1241C34B9606FB704DD55 /* Components.swift in Sources */,
+				5D0BE0A46FA67FCAF21D70E5 /* Era.swift in Sources */,
+				3C6F286EEA498DEC12B4D98B /* ExploreView.swift in Sources */,
+				8127E27EA7105F1F4967E777 /* L.swift in Sources */,
+				0B61D94AF4DA73949DB1D011 /* Language.swift in Sources */,
+				25A985A529F79FCCCA33105C /* Library.swift in Sources */,
+				E2C5D540BCC88133429934C8 /* LibraryView.swift in Sources */,
+				04758ED36BAA4C978FE5CBB9 /* PackStore.swift in Sources */,
+				79DF2972C2C3DA03DE43E663 /* PackUpdater.swift in Sources */,
+				6CB6104516A4D84C419FD56E /* ReaderDocument.swift in Sources */,
+				64513F30421C1DA8564D637A /* ReaderView.swift in Sources */,
+				47E7E7555E869EF2CC972452 /* RootView.swift in Sources */,
+				EB960FA7180ED948256085CF /* SQLiteDB.swift in Sources */,
+				E9FFA511AEA586984D8D6E0D /* SearchEngine.swift in Sources */,
+				8D2A4AB601173252D4206F41 /* SearchView.swift in Sources */,
+				897E64E320028E26E0EC3BBB /* SettingsView.swift in Sources */,
+				A7B092681D69716128DB70CA /* TaiwanMDApp.swift in Sources */,
+				76E63CBF78BDFFC4262BD1F5 /* TextNormalizer.swift in Sources */,
+				023EB5C1B322C4B6860D0537 /* TimelineView.swift in Sources */,
+				10E167920FD6EE6D6906CCF9 /* TodayView.swift in Sources */,
+				F862EE905D6D63AAEE5D0804 /* WidgetSnapshot.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ABD9ECED1C9C4057B3549B7C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 277826174BA14258E37BADCC /* TaiwanMDWidget */;
+			targetProxy = AFBD7441D7034D540B495B35 /* PBXContainerItemProxy */;
+		};
+		B4F7B71DE697B64746ADBF0C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 943CC482647D1773DED3DD74 /* TaiwanMD */;
+			targetProxy = B20102C1DBD7CF3D2F9ECDB5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		60B68AB7C55C0BC71F342E91 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DACFBA6FD433E1B0D35D4EC3 /* en */,
+				12234FF15625AB6158B5D510 /* ja */,
+				712028412B4EE917713C8899 /* zh-Hant */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		414BDAC1F941E357ED3D484E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaiwanMD.app/TaiwanMD";
+			};
+			name = Release;
+		};
+		4D465D743FDDA594A67D3785 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Config/Widget.entitlements;
+				INFOPLIST_FILE = "Config/Widget-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app.widget;
+				PRODUCT_NAME = TaiwanMDWidget;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		6BCDB182EE47D4C028EC49F7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = UXN5GBD9Q5;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		80E84AC26AE276571A322FE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = UXN5GBD9Q5;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		8504C062400C53A31A338267 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Config/TaiwanMD.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Config/App-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app;
+				PRODUCT_NAME = TaiwanMD;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		C188F42B1CE868D5748602BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app.tests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TaiwanMD.app/TaiwanMD";
+			};
+			name = Debug;
+		};
+		DB569383F3CF43E71A321A84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Config/Widget.entitlements;
+				INFOPLIST_FILE = "Config/Widget-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app.widget;
+				PRODUCT_NAME = TaiwanMDWidget;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		FA54D3E348016A2FF03B6C35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Config/TaiwanMD.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Config/App-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = md.taiwan.app;
+				PRODUCT_NAME = TaiwanMD;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		342039C92CFDCDF1E044230E /* Build configuration list for PBXProject "TaiwanMD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				80E84AC26AE276571A322FE1 /* Debug */,
+				6BCDB182EE47D4C028EC49F7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		59A72DA6E4499BEAFE55BDAB /* Build configuration list for PBXNativeTarget "TaiwanMD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8504C062400C53A31A338267 /* Debug */,
+				FA54D3E348016A2FF03B6C35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		6C27CC1C8CBD0A715895358B /* Build configuration list for PBXNativeTarget "TaiwanMDWidget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D465D743FDDA594A67D3785 /* Debug */,
+				DB569383F3CF43E71A321A84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		767025075BD8135EF2BA9CF3 /* Build configuration list for PBXNativeTarget "TaiwanMDTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C188F42B1CE868D5748602BA /* Debug */,
+				414BDAC1F941E357ED3D484E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7AA585A45B781C30D7A0BE90 /* Project object */;
+}

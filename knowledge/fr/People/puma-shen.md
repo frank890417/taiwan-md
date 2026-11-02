@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: 'choice'
       theme: 'scholar-public'
-      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
       chose:
         label: '不否認、剪短髮、準備'
-        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
       alternatives:
         - label: '婉拒提名'
           plausibility: 'structural'
@@ -317,7 +317,7 @@ lifeTree:
         - label: '辭立委先全力競選'
           plausibility: 'structural'
           note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: 'mayor-nominated-2026'
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: 'event'
       theme: 'scholar-public'
       label: '民進黨正式徵召沈伯洋參選台北市長'
-      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -530,7 +530,7 @@ Il a passé la Saint-Valentin (14 février) dans l'avion. À son retour, il a é
 
 ## De la cible au candidat
 
-Début avril 2026, le comité de sélection du Parti démocratique progressiste (DPP) tient une réunion. Selon un rapport de la section politique de [United Daily News](https://udn.com/), des sources proches du dossier révèlent que le parti envisage de désigner Shen Bo-yang comme candidat à la mairie de Taipei. [^62] À la mi-avril, la décision semble presque actée. L'ancien ministre de l'Intérieur, Hsu Kuo-yung, apporte publiquement son soutien. [^63] Un sondage de TVBS réalisé en décembre 2025 montre que le taux de soutien pour le maire actuel, Chiang Wan-an, est d'environ 64 %, contre environ 22 % pour Shen Bo-yang. [^64] Bien qu'il soit largement distancé, l'issue de la compétition électorale ne relève pas du champ de cet article.
+Début avril 2026, le comité de sélection du Parti démocratique progressiste (DPP) tient une réunion. Selon un rapport de la section politique de [United Daily News](https://udn.com/), des sources proches du dossier révèlent que le parti envisage de désigner Shen Bo-yang comme candidat à la mairie de Taipei. [^62] À la mi-avril, la décision semble presque actée. L'ancien ministre de l'Intérieur, Hsu Kuo-yung, apporte publiquement son soutien. [^63]
 
 Le 25 avril, il se coupe sa coupe afro qu'il portait depuis plus de dix ans et partage pour la première fois la scène avec Chiang Wan-an lors du festival culturel « Mère-Fille » au temple Songshan Cihui. [^65] Yang Guo s'est coupé les cheveux courts.
 
@@ -539,24 +539,6 @@ Le 13 mai 2026, les rumeurs deviennent officielles. Le Comité exécutif central
 ![Shen Bo-yang portant un t-shirt noir et des lunettes, tenant un micro sur scène, avec une écharpe portant l'inscription « Refuser l'unification par la manipulation »](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _Le 19 avril 2025, Shen Bo-yang assiste à la convention « Refuser l'unification, protéger Taïwan ». Celui dont les coordonnées ont été signalées choisit de continuer à se tenir sur la scène publique. Photo : KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
-
-Au moment de sa désignation, l'écart électoral est immense. Selon un sondage du centre de sondage TVBS du 27 mai, Chiang Wan-an recueille 58 % des voix contre 30 % pour Shen Bo-yang, soit un écart de 28 points ; même chez les jeunes de 20 à 29 ans, le score de 37 % de Shen Bo-yang reste inférieur aux 60 % de Chiang Wan-an. [^69] Les médias internationaux décrivent ce duel comme un défi aux chances de réussite limitées.
-
-Cinq mois plus tard, l'écart s'est réduit, mais pour savoir jusqu'où, tout dépend de qui pose la question. Dans la même série d'enquêtes publiée par TVBS le 8 octobre, Chiang Wan-an est à 49 % et Shen Bo-yang à 41 %, l'écart passant de 28 points à 8 points ; dans la tranche des 20-29 ans, la tendance s'inverse avec 52 % pour Shen Bo-yang contre 44 % pour Chiang Wan-an, tandis que 11 % des sondés n'ont pas encore pris de décision. [^70] À l'inverse, la deuxième vague d'enquêtes publiée le 20 octobre par l'Association Xinmin montre une tendance opposée : Shen Bo-yang est à 50,3 % et Chiang Wan-an à 33,3 %, passant d'un retard de 1,2 point en septembre à une avance de 17 points. [^71] Les échantillons et les méthodes de pondération des deux instituts étant différents, les conseillers municipaux du KMT à Taipei ont publiquement remis en question l'impartialité de la seconde étude ; l'écart entre les deux résultats étant supérieur à la marge d'erreur propre à chaque échantillon, on peut seulement affirmer à cet instant que « l'écart se réduit » plutôt que de désigner un leader. Le jour du vote est le 28 novembre ; le calendrier électoral complet et les portails des candidats sont disponibles sur la page consacrée aux [Élections locales de 2026](/fr/politics/2026-local-elections-taiwan/).
-
-```tw-dot
-Deux sondages d'octobre pour la mairie de Taipei, l'écart est supérieur à leurs marges d'erreur respectives (soutien %, estimation ponctuelle et intervalle d'erreur)
-Chiang Wan-an／TVBS 08-10 | 49 | 46.1 | 51.9 | Actuel, en quête de réélection
-*Shen Bo-yang／TVBS 08-10 | 41 | 38.1 | 43.9 | Nommé par le DPP
-Chiang Wan-an／Xinmin 20-10 | 33.3 | 30.3 | 36.3 | Même personne, une autre enquête
-*Shen Bo-yang／Xinmin 20-10 | 50.3 | 47.3 | 53.3 | Même personne, une autre enquête
-Source : Centre de sondage TVBS 2026-10-08 ; Association Xinmin 2026-10-20
-```
-
-```tw-note
-Note explicative
-Les deux enquêtes sont des sondages téléphoniques auprès de citoyens de plus de vingt ans résidant à Taipei, demandant « pour qui voteriez-vous si l'élection avait lieu maintenant », et non une prédiction du résultat du 28/11. L'enquête TVBS a été menée les 03/10 et du 05 au 07/10, avec un échantillon valide de 1 120 personnes, une marge d'erreur de ±2,9 points avec un niveau de confiance de 95 %. L'enquête de l'Association Xinmin a été conçue et analysée par Tai Li-an et réalisée par l'institut d'études de marché Biken ; elle s'est déroulée du 14 au 16/10, avec un échantillon valide de 1 075 personnes (753 lignes fixes, 322 mobiles), pour une marge d'erreur maximale de ±3,0 points. L'intervalle correspond à l'estimation ponctuelle plus ou moins la marge d'erreur respective, sans inclure les erreurs dues à la pondération ou aux refus de répondre.
-```
 
 De la révérence du jeune garçon qui passait la serpillière au faux documentaire de la télévision centrale (CCTV), de la recherche de thèse sur un bureau aux coordonnées sur une image satellite, de l'impossibilité d'être le responsable de la Black Bear Academy à sa candidature officielle à la mairie de Taipei, la position de Shen Bo-yang a changé plusieurs fois. Il utilise la même phrase pour commenter chaque changement : « Je suis une cible. » Cette phrase est à la fois une autodérision et une observation académique lucide. Dans le récit du PCC concernant Taïwan, il est précisément celui qui doit être visé. Un chercheur qui s'approprie l'étiquette de son propre objet d'étude pour la porter sur lui-même tout en continuant son travail ; peu de gens sont capables de faire cela.
 
@@ -720,8 +702,6 @@ Vidéos intégrées : [Shen Bo-yang se rend en Allemagne pour expliquer les atta
 
 [^63]: [udn news : Hsu Kuo-yung soutient la candidature de Shen Po-yang pour Taipei](https://udn.com/news/story/124652/9442093) — udn news rapporte le soutien public de l'ancien ministre de l'Intérieur, Hsu Kuo-yung, à la candidature de Shen Po-yang pour la mairie de Taipei.
 
-[^64]: [Centre de sondage TVBS : Sondage de décembre 2025 pour la mairie de Taipei](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Le texte intégral du PDF publié par le centre de sondage TVBS en décembre 2025 concernant les intentions de vote pour la mairie de Taipei, indiquant un taux de soutien de 64 % pour Chiang Wan-an et de 22 % pour Shen Po-yang.
-
 [^65]: [udn news : Shen Po-yang change de look et partage la scène avec Chiang Wan-an pour la première fois](https://udn.com/news/story/124652/9463754) — Un reportage d'udn news le 25 avril 2026 sur le nouveau style de Shen Po-yang (abandonnant sa coupe afro), sa première apparition aux côtés de Chiang Wan-an lors du festival culturel Maman et Enfant au temple Cihui de Songshan, et les comparaisons médiatiques avec des célébrités telles que Takuya Kimura, Chang Hsiao-chuan ou Leon Lai.
 
 [^66]: [udn news : C'est confirmé ! Le DPP décide officiellement de la candidature de Shen Po-yang à la mairie de Taipei](https://udn.com/news/story/124652/9499591) — udn news rapporte le 13 mai 2026 que le comité exécutif central du DPP a officiellement validé l'investiture de Shen Po-yang pour la mairie de Taipei, le président Lai Ching-te, qui occupe également la présidence du parti, ayant personnellement installé l'écharpe de campagne de Shen et s'étant tenu à ses côtés pour proclamer la victoire.
@@ -729,9 +709,3 @@ Vidéos intégrées : [Shen Bo-yang se rend en Allemagne pour expliquer les atta
 [^67]: [Yahoo News : La candidature officielle de Shen Po-yang face à Chiang Wan-an ; Lai Ching-te le qualifie de candidat idéal pour Taipei](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Citations directes de la conférence de presse du 13 mai 2026, incluant Lai Ching-te affirmant que Shen Po-yang « possède une vision internationale, une envergure de gouvernance transsectorielle et une chaleur humaine envers les citoyens », le désignant comme « le candidat idéal pour la mairie de Taipei », ainsi que la déclaration de Shen Po-yang acceptant l'investiture : « J'ai décidé de me présenter à la mairie de Taipei, permettez-moi d'être votre maire ».
 
 [^68]: [Focus Taiwan : Le DPP choisit Puma Shen pour la course à la mairie de Taipei](https://focustaiwan.tw/politics/202605130025) — L'édition anglaise de l'agence Centrale News Agency, Focus Taiwan, rapporte le 13 mai 2026 que la date du scrutin est fixée au 28 novembre 2026 contre le maire sortant du KMT Chiang Wan-an, citant Lai Ching-te qui salue l'expérience de Shen Po-yang dans les ONG comme Black Bear Academy et Taiwan Lab, ainsi que son parcours multidisciplinaire en criminologie, droit et politiques publiques.
-
-[^69]: [udn news : Dernier sondage à Taipei révélant une avance de 28 points de Chiang Wan-an sur Shen Po-yang](https://udn.com/news/story/124652/9529403) — udn news rapporte le sondage pour la mairie de Taipei publié par le centre de sondage TVBS le 27 mai 2026 : 58 % de soutien pour Chiang Wan-an contre 30 % pour Shen Po-yang, soit un écart de 28 points ; chez les 20-29 ans, Shen Po-yang recueille 37 %, ce qui reste inférieur aux 60 % de Chiang Wan-an.
-
-[^70]: [Liberty Times : Dernier sondage TVBS ! 49 % pour Chiang Wan-an et 41 % pour Shen Po-yang, l'écart se réduit à un chiffre en 4 mois](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Liberty Times rapporte le 8 octobre 2026 le sondage de la mairie de Taipei publié par le centre TVBS : Chiang Wan-an est à 49 % et Shen Po-yang à 41 %, l'écart étant passé de 28 points fin mai à seulement 8 points, avec 11 % d'indécis ; chez les 20-29 ans, Shen Po-yang passe de 37 % en mai à 52 % contre 44 % pour Chiang Wan-an. Enquêtes réalisées les 3 et du 5 au 7 octobre sur un échantillon valide de 1 120 personnes, avec une marge d'erreur de ±2,9 points.
-
-[^71]: [Liberty Times : Renversement total ! Sondage à Taipei : Shen Po-yang dépasse Chiang Wan-an avec 50,3 % contre 33,3 %, soit une avance de 17 points](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Liberty Times rapporte le 20 octobre 2026 la deuxième vague de sondages pour la mairie de Taipei de l'Association des électeurs de confiance : Shen Po-yang à 50,3 % et Chiang Wan-an à 33,3 %, un renversement de 17 points par rapport aux chiffres de septembre (41,7 % pour Chiang et 40,5 % pour Shen). La conception et l'analyse du questionnaire ont été réalisées par Tai-An, et les entretiens téléphoniques exécutés par Bicken Market Research, avec 1 075 répondants complétés entre le 14 et le 16 octobre (753 lignes fixes, 322 mobiles), marge d'erreur maximale de ±3,0 points. Le rapport mentionne également que des conseillers municipaux du KMT avaient déjà remis en question l'impartialité de l'association avant la publication de la vague précédente.

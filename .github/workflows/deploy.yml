@@ -3,6 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # iOS App 原始碼不影響網站，只改 App 時不重建（同一個 push 碰到網站檔就照常建）
+    paths-ignore:
+      - 'apps/**'
   workflow_dispatch:
 
 permissions:
@@ -250,6 +253,8 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
+          # 放行 public/.well-known/（iOS Universal Links 的 apple-app-site-association）
+          include-hidden-files: true
 
   deploy:
     environment:

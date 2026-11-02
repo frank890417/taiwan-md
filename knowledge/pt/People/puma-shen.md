@@ -306,10 +306,10 @@ lifeTree:
       age: 43
       type: 'choice'
       theme: 'scholar-public'
-      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。TVBS 12 月民調顯示蔣萬安約 64%、沈伯洋約 22%。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
+      scene: '民進黨選對會 4/7 開會。聯合報政治版報導，黨內擬推沈伯洋戰台北市長。前內政部長徐國勇公開背書。4/25 他剪掉跟了十多年的爆炸頭，第一次與蔣萬安在松山慈惠堂母娘文化季同台'
       chose:
         label: '不否認、剪短髮、準備'
-        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」民調大幅落後但這篇文章不負責解選情。值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
+        consequence: '從學者→立委→也許北市長候選人，沈伯洋的位置變了好幾次。但他用同一句話替每一次變動下註腳：「我是箭靶。」值得記下的是，一位被中共在衛星圖上標註座標的人，在被標註的城市裡準備競選市長——這個 framing 本身就是答覆。'
       alternatives:
         - label: '婉拒提名'
           plausibility: 'structural'
@@ -317,7 +317,7 @@ lifeTree:
         - label: '辭立委先全力競選'
           plausibility: 'structural'
           note: '另一條激進路徑。多數現任立委不會 burn boats。如果他這樣做，象徵 commitment 但實際上要承擔失敗後的政治真空。'
-      sources: ['^62', '^63', '^64', '^65']
+      sources: ['^62', '^63', '^65']
     - id: 'mayor-nominated-2026'
       year: 2026
       month: 5
@@ -326,8 +326,8 @@ lifeTree:
       type: 'event'
       theme: 'scholar-public'
       label: '民進黨正式徵召沈伯洋參選台北市長'
-      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。TVBS 五月二十七日民調蔣萬安百分之五十八、沈伯洋百分之三十，差距二十八個百分點。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
-      sources: ['^66', '^67', '^68', '^69']
+      scene: '兼任黨主席的總統賴清德親自替他披上競選背帶、一起喊「凍蒜」，稱他「具備國際視野的高度、跨域治理的廣度，以及對市民關懷的溫度」，是「台北市長不二人選」。沈伯洋接下背帶：「我決定參選台北市長，請讓我成為你的市長。」投票日訂在十一月二十八日，對手是尋求連任的蔣萬安。一個被中國用衛星圖標出住家座標的人，要選的正是那座被標註的城市的市長。'
+      sources: ['^66', '^67', '^68']
 sporeLinks:
   - id: 47
     platform: 'threads'
@@ -530,7 +530,7 @@ Ele passou o Dia dos Namorados (14 de fevereiro) no avião. Ao retornar ao país
 
 ## Do alvo ao candidato
 
-No início de abril de 2026, o comitê de seleção do DPP convocou uma reunião. Segundo uma reportagem da seção política do [United Daily News](https://udn.com/), fontes informadas revelaram que o partido planejava indicar Shen Bo-yang como seu candidato à prefeitura de Taipé.[^62] Em meados de abril, isso já parecia quase certo. O ex-ministro do Interior, Hsu Kuo-yung, deu um apoio público.[^63] Uma pesquisa da TVBS de dezembro de 2025 mostrava que o atual prefeito de Taipé, Chiang Wan-an, tinha cerca de 64% de apoio, enquanto Shen Bo-yang tinha cerca de 22%.[^64] Embora estivesse em desvantagem considerável, o desenrolar da eleição não é o foco deste artigo.
+No início de abril de 2026, o comitê de seleção do DPP convocou uma reunião. Segundo uma reportagem da seção política do [United Daily News](https://udn.com/), fontes informadas revelaram que o partido planejava indicar Shen Bo-yang como seu candidato à prefeitura de Taipé.[^62] Em meados de abril, isso já parecia quase certo. O ex-ministro do Interior, Hsu Kuo-yung, deu um apoio público.[^63]
 
 Em 25 de abril, ele cortou o cabelo estilo "afro" que mantinha há mais de dez anos e, pela primeira vez, dividiu o palco com Chiang Wan-an no Festival Cultural Mãe e Filha no Templo Cihui, em Songshan.[^65] Yang Guo agora tinha o cabelo curto.
 
@@ -539,24 +539,6 @@ Em 13 de maio de 2026, os rumores tornaram-se oficiais. O Comitê Executivo Cent
 ![Shen Bo-yang veste uma camiseta preta, usa óculos e segura um microfone no palco, com uma faixa no peito onde se lê "Rejeite a unificação sob pressão"](/article-images/people/puma-shen-reject-united-front-rally-2025.webp)
 
 _19 de abril de 2025, Shen Bo-yang participa da convenção "Rejeite a unificação sob pressão, proteja Taiwan". A pessoa cujas coordenadas foram marcadas escolheu continuar ocupando o palco público. Foto: KOKUYO. CC BY-SA 4.0 via Wikimedia Commons._
-
-No momento da convocação, a disparidade eleitoral era grande. Uma pesquisa do Centro de Pesquisas da TVBS em 27 de maio mostrava Chiang Wan-an com 58% e Shen Bo-yang com 30%, uma diferença de 28 pontos percentuais; mesmo entre o grupo jovem de 20 a 29 anos, os 37% de Shen Bo-yang eram inferiores aos 60% de Chiang Wan-an.[^69] A mídia internacional descreveu esse confronto como um desafio com poucas chances de vitória.
-
-Cinco meses depois, a diferença diminuiu, mas o quanto ela diminuiu depende de quem você pergunta. Na mesma série de pesquisas divulgada pela TVBS em 8 de outubro, Chiang Wan-an tinha 49% e Shen Bo-yang 41%, reduzindo a diferença de 28 para 8 pontos percentuais; no segmento de 20 a 29 anos, o cenário se inverteu para 52% de Shen Bo-yang contra 44% de Chiang Wan-an, com 11% ainda indecisos.[^70] Já a segunda onda de pesquisas divulgada pela Associação Xinmin em 20 de outubro mostrou a direção oposta: Shen Bo-yang com 50,3% e Chiang Wan-an com 33,3%, transformando o atraso de 1,2 pontos percentuais registrado em setembro em uma liderança de 17 pontos percentuais.[^71] Como as amostras e os métodos de ponderação das duas instituições são diferentes, e vereadores do KMT em Taipé questionaram publicamente a imparcialidade da segunda, a diferença entre os dois números é maior do que a margem de erro de qualquer uma das pesquisas. Portanto, o que se pode dizer no momento é que "a diferença está diminuindo", e não "quem está liderando". O dia da votação foi 28 de novembro; o cronograma eleitoral completo e as informações sobre os candidatos podem ser encontrados na página das [Eleições Locais de 2026](/pt/politics/2026-local-elections-taiwan/).
-
-```tw-dot
-Duas pesquisas para prefeito de Taipé em outubro, com diferença superior à margem de erro individual (Apoio %, estimativa pontual e intervalo de erro)
-Chiang Wan-an／TVBS 08/10 | 49 | 46.1 | 51.9 | Atual, busca reeleição
-*Shen Bo-yang／TVBS 08/10 | 41 | 38.1 | 43.9 | Indicado pelo DPP
-Chiang Wan-an／Xinmin 20/10 | 33.3 | 30.3 | 36.3 | Mesma pessoa, outra pesquisa
-*Shen Bo-yang／Xinmin 20/10 | 50.3 | 47.3 | 53.3 | Mesma pessoa, outra pesquisa
-Fonte: Centro de Pesquisas de Opinião da TVBS 08/10/2026; Associação Xinmin 20/10/2026
-```
-
-```tw-note
-Explicação
-Ambas são pesquisas telefônicas com cidadãos residentes em Taipé acima de 20 anos, perguntando "em quem você votaria se a eleição fosse hoje", não sendo uma previsão do resultado de 28/11. A da TVBS entrevistou nos dias 03/10 e de 05 a 07/10, com amostra válida de 1.120 pessoas, margem de erro de ±2,9 pontos percentuais com nível de confiança de 95%. A da Associação Xinmin foi projetada e analisada por Tai Li-an e executada pela Biken Market Research via telefone, com entrevistas entre 14/10 e 16/10, amostra válida de 1.075 pessoas (753 telefones residenciais, 322 celulares), com margem de erro máxima de ±3,0 pontos percentuais. O intervalo é a estimativa pontual somada ou subtraída da respectiva margem de erro, não incluindo erros causados por ponderação ou recusa de entrevista.
-```
 
 Do reverência do "menino que passa o esfregão" ao falso documentário da CCTV; da pesquisa de tese em uma escrivaninha às coordenadas em imagens de satélite; de "não poder ser o responsável pela Black Bear Academy" a "candidato oficial à prefeitura de Taipé", a posição de Shen Bo-yang mudou várias vezes. Ele usou a mesma frase para legendar cada mudança: "Eu sou o alvo." Essa frase é tanto uma autodepreciação quanto uma observação acadêmica fria. Na narrativa da China continental sobre Taiwan, ele é, de fato, aquele que deve ser visado. Poucas pessoas conseguem pegar o rótulo do objeto de seu próprio estudo e colá-lo em si mesmas para continuar o trabalho.
 
@@ -720,8 +702,6 @@ Vídeos incorporados: [Shen Bo-yang viaja à Alemanha para explicar ataques de d
 
 [^63]: [UDN: Xu Guog-yong apoia Shen Bo-yang na disputa por Taipei](https://udn.com/news/story/124652/9442093) — Reportagem do UDN detalhando o apoio público do ex-ministro do Interior, Xu Guog-yong, à candidatura de Shen Bo-yang para a prefeitura de Taipei.
 
-[^64]: [Centro de Pesquisas TVBS: Pesquisa para Prefeito de Taipei (Dezembro de 2025)](https://cc.tvbs.com.tw/portal/file/poll_center/2025/20251208/f76262efaa46dd37ae3df58e65b2d1eb.pdf) — Texto completo em PDF da pesquisa para prefeito de Taipei publicada pelo Centro de Pesquisas TVBS em dezembro de 2025, mostrando 64% de apoio para Chiang Wan-an e 22% para Shen Bo-yang.
-
 [^65]: [UDN: Shen Bo-yang muda visual e divide o palco com Chiang Wan-an pela primeira vez](https://udn.com/news/story/124652/9463754) — Reportagem do UDN em 25/04/2026 sobre Shen Bo-yang abandonando seu cabelo volumoso, dividindo o palco pela primeira vez com Chiang Wan-an no Festival Cultural Mãe e Filha no Templo Cihui de Songshan, gerando comparações externas com figuras como Takuya Kimura, Chang Hsiao-chuan e Leon Lai.
 
 [^66]: [UDN: Confirmado! DPP decide oficialmente o lançamento de Shen Bo-yang para a prefeitura de Taipei](https://udn.com/news/story/124652/9499591) — Reportagem do UDN em 13/05/2026 informando que o Comitê Executivo Central do DPP aprovou formalmente a convocação de Shen Bo-yang para concorrer à prefeitura de Taipei; o presidente Lai Ching-te, que também atua como presidente do partido, vestiu pessoalmente o colete de campanha para Shen e segurou sua mão para proclamar a vitória.
@@ -729,9 +709,3 @@ Vídeos incorporados: [Shen Bo-yang viaja à Alemanha para explicar ataques de d
 [^67]: [Yahoo News: Shen Bo-yang concorre oficialmente contra Chiang Wan-an; Lai Ching-te diz ser o candidato ideal para Taipei](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%AD%A3%E5%BC%8F%E5%8F%83%E9%81%B8%E5%B0%8D%E6%88%B0%E8%94%A3%E8%90%AC%E5%AE%89-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AE%9A%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E4%B8%8D%E4%BA%8C%E4%BA%BA%E9%81%B8-105042647.html) — Citações diretas da coletiva de imprensa em 13/05/2026, incluindo Lai Ching-te afirmando que Shen Bo-yang "possui uma visão internacional elevada, amplitude na governança intersetorial e calor no cuidado com os cidadãos", sendo o "candidato ideal para a prefeitura de Taipei", e as palavras de Shen Bo-yang ao aceitar a convocação: "Decidi concorrer à prefeitura de Taipei, por favor, deixe-me ser o seu prefeito".
 
 [^68]: [Focus Taiwan: DPP taps Puma Shen for Taipei mayoral race](https://focustaiwan.tw/politics/202605130025) — Reportagem da Focus Taiwan (edição em inglês da CNA) em 13/05/2026, confirmando a data da eleição para 28 de novembro de 2026 contra o atual prefeito do KMT que busca reeleição, Chiang Wan-an, citando Lai Ching-te ao elogiar a experiência de Shen Bo-yang em ONGs como Black Bear Academy e Taiwan Lab, além de sua formação interdisciplinar em criminologia, direito e políticas públicas.
-
-[^69]: [UDN: Última pesquisa em Taipei revela Chiang Wan-an com 28 pontos de vantagem sobre Shen Bo-yang](https://udn.com/news/story/124652/9529403) — Reportagem do UDN sobre a pesquisa para prefeito de Taipei publicada pelo Centro de Pesquisas de Opinião Pública da TVBS em 27/05/2026: 58% de apoio para Chiang Wan-an e 30% para Shen Bo-yang, uma diferença de 28 pontos percentuais; entre o público jovem de 20 a 29 anos, os 37% de Shen Bo-yang também ficaram abaixo dos 60% de Chiang Wan-an.
-
-[^70]: [Liberty Times: Última pesquisa da TVBS revela! Apoio de Chiang Wan-an em 49% e Shen Bo-yang em 41%; diferença cai para um dígito em 4 meses](https://news.ltn.com.tw/news/politics/breakingnews/5600275) — Reportagem do Liberty Times em 08/10/2026 sobre a pesquisa para prefeito de Taipei divulgada pelo Centro de Pesquisas TVBS no mesmo dia: Chiang Wan-an com 49% e Shen Bo-yang com 41%, reduzindo a diferença de 28 pontos percentuais do final de maio para 8 pontos, com 11% indecisos; na faixa de 20-29 anos, Shen Bo-yang atingiu 52% contra 44% de Chiang Wan-an, uma reversão em relação aos 37% de maio. Entrevistas realizadas entre 03/10 e 05-07/10, com amostra válida de 1.120 pessoas e margem de erro de ±2,9 pontos percentuais.
-
-[^71]: [Liberty Times: Grande reviravolta! Pesquisa em Taipei mostra Shen Bo-yang com 50,3% superando Chiang Wan-an com 33,3%, liderança de 17 pontos](https://news.ltn.com.tw/news/politics/breakingnews/5611939) — Reportagem do Liberty Times em 20/10/2026 sobre a segunda onda da pesquisa para prefeito de Taipei da Associação de Credibilidade Eleitoral: Shen Bo-yang com 50,3% e Chiang Wan-an com 33,3%, uma reversão de 17 pontos percentuais em relação aos dados de setembro (Chiang 41,7%, Shen 40,5%). O design e análise do questionário foram feitos por Tai Li-an, com entrevistas telefônicas executadas pela Biken Market Research; entrevistas realizadas entre 14/10 e 16/10, com 1.075 entrevistas concluídas com sucesso (753 telefones residenciais, 322 celulares), margem de erro máxima de ±3,0 pontos percentuais. A reportagem também registra que um vereador do KMT em Taipei já havia questionado a imparcialidade da associação antes da divulgação da onda anterior da pesquisa.

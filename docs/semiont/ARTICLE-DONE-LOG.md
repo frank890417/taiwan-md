@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-10-14
-last_session: '2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-11-02
+last_session: '2026-11-02-twmd-desk（中華職棒 PR #1948 歸檔；沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,26 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 中華職棒 — 2026-11-02 twmd-desk 歸檔（貢獻者 tboydar 以 PR #1948 交稿，當日 merge＋heal）
+
+- **Article**: [knowledge/Culture/中華職棒.md](../../knowledge/Culture/中華職棒.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1948 merge commit `84ffb9721`），對應 INBOX 2026-10-25 news-lens 探測器 P1 NEW 條目
+- **Heal**：Sonnet 逐條查證 62 個事實（3 ❌、24 ⚠️、35 ✅）。三個錯：黑鷹事件寫成 1997 年（應為 1996 年爆發、1997 年檢調大舉逮捕）；description 與概覽把中信鯨解散放在黑象事件之後（實際早一年）；「場均與營收都是全世界棒球聯盟第四高」只是維基編者自己的比較，營收部分不成立。另把「1997 年觀眾破千萬」改成累計、「31 億」標明是自由時報估算的六隊總營收、黑米案改寫成檢調懷疑並補二審結果、黑象段拿掉可交叉辨識被告的描述；原本兩條腳註（一條撐起全文）拆成 31 條
+- **待補**：INBOX 已轉 EVOLVE P2（封王那一晚開場、人物、圖、早期沿革第二來源）
+
+### 沈伯洋＋蔣萬安 — 2026-11-02 twmd-desk 完成（EVOLVE 一對，台北市長選舉投票前上線）
+
+- **Article**: [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md)、[knowledge/People/蔣萬安.md](../../knowledge/People/蔣萬安.md)（commit `79742de3b`）
+- **Pipeline**: REWRITE-PIPELINE-SINGLE — EVOLVE，兩篇並排編排（各一位 Opus 研究＋寫手 → 沈四段、蔣三段 Sonnet 查證 → 一個乾淨脈絡的並排編輯室 2.5-R → 原寫手各改一輪）
+- **哲宇原話**：舊文寫得不錯，大幅增補後上線／辯論、民調和選戰攻防全部都要寫／兩邊一起進化／辯論完整轉錄當研究材料／不用一直問
+- **對稱處理**：兩篇共用同一張十一列查核表、同一組七件攻防的事實與原話、同一張民調表；背書每篇最多兩則、選戰段不放策展人筆記；description 選戰句同一個骨架；篇幅 16,006 與 17,444 CJK（差 9%）
+- **民調**：選罷法第 53 條要八項齊備，十二份裡查得到八項的只有東森 10-27、11-02 與韜略 11-02，其餘不引述；表頭標明「截至 11 月 2 日」，11/18 起到投票截止凍結不改、babel 窗內不重翻（哲宇拍板不撤，INBOX P0）。同日把線上〈沈伯洋〉十三語舊版裡五份八項不齊的民調撤掉（`bad1eae00`）
+- **辯論**：10/31 三立官方完整版本機轉錄（faster-whisper 分段重跑、OpenCC 轉繁）只當定位材料，進正文的引語對已發表逐字稿或影音時間戳；台灣事實查核中心十一份報告逐條列進查核表
+- **查證與修正**：沈約 16 ❌ 127 ⚠️、蔣 4 ❌ 81 ⚠️，全數處理；舊版〈沈伯洋〉開場有杜撰細節、多處記者轉述被寫成直接引語，都改回有出處的版本。編輯室判初稿「讀者會覺得偏沈（中等）」，修訂刪掉敘事者評價與策展人筆記、lifeTree 只留事實節點
+- **品質**：沈 185 腳註／7 張圖、蔣 197 腳註／8 張圖；stage-3-5／stage-4／prose-health／opening-readability 四道 gate hard=0；〈蔣萬安〉拿掉 `curation: incubating`
+- **Research**: [reports/research/2026-11/沈伯洋.md](../../reports/research/2026-11/沈伯洋.md)、[reports/research/2026-11/蔣萬安.md](../../reports/research/2026-11/蔣萬安.md)
+- **待補**：11/28 開票後兩篇同一天補結果（INBOX 已開 P0，期限 12/5）
 
 ### 台灣與核能的討論 — 2026-11-02 twmd-desk 完成（EVOLVE，接 11/28 公投第 22 案，開票前上線）
 

@@ -182,21 +182,11 @@ Lời nói của chính ông được ghi lại vào năm 2023. Trong thời gia
 
 ## Người không thể đăng ký, giờ đang đọc phiếu bầu của người khác
 
+<!-- poll-blackout:start -->
+
 Vào sáng ngày 17 tháng 8 năm 2026, ông ngồi trên bàn ghế chính giữa hội nghị báo chí, công bố một cuộc khảo sát dư báu cho chức danh thị trưởng Thung Thiên.
 
-Thái Anh Văn (Tổng Khúc Đoàn) có 42.8% hỗ trợ, Lại Thanh Đức (Đảng Dân Chủ Tiến) có 36.1%, chênh lệch 6.7 điểm phần trăm. Mức độ dự báo chiến thắng cho Thái Anh Văn là 48.2% so với 23.6% của Lại Thanh Đức. Bình luận của ông là: "Khoảng cách giữa hai người thu hẹp, cho thấy vụ thuốc độc đối với phe phái màu xanh ở Thung Thiên gây thiệt hại" và ông cũng nói: "Thung Thiên rất có khả năng thay đổi, cơ hội lớn"[^49].
-
-```tw-dot
-2026 Thung Thiên thị trưởng hỗ trợ độ (%) (kèm khoảng tin cậy 95%)
-Thái Anh Văn | 42.8 | 39.9 | 45.7
-Lại Thanh Đức | 36.1 | 33.2 | 39.0
-Nguồn: Viện Nghiên cứu Chính sách Tân Đài, đơn đặt hàng: Quỹ Cẩm Thạch, khảo sát qua điện thoại từ ngày 11 đến 13 tháng 8 năm 2026
-```
-
-```tw-note
-Giải thích
-Bảng trên là ước lượng điểm số hỗ trợ và khoảng sai số lấy mẫu với mức tin cậy 95% (±2.88 điểm phần trăm), hoàn thành 1,159 mẫu hợp lệ, đối tượng khảo sát là cư dân đăng ký tại Thung Thiên, từ 20 tuổi trở lên. Khoảng trống được tính từ giá trị sai số đã công bố, nhằm nhắc nhở rằng ước lượng điểm số không phải là giá trị chắc chắn.
-```
+<!-- poll-blackout:end -->
 
 Viện Nghiên cứu Chính sách Tân Đài, nơi công bố khảo sát này, là nơi do Thái Vĩnh Mẫn thành lập vào tháng 1 năm 2010. Ngày 1 tháng 9 năm 2016, Thái Vĩnh Mẫn tặng viện cho Quỹ Cẩm Thạch, và từ thời điểm đó, Thái Chí Trung (Chen Chih-chung) đã giữ chức giám đốc thực thi cho đến tháng 8 năm 2026[^50]. Đại diện pháp lý đăng ký của Quỹ Cẩm Thạch là nghị viên lập pháp Thái Băng Phi (Chen Ting-fei), người giữ chức vụ giám đốc tại quỹ này — hai vị trí khác nhau[^51].
 
