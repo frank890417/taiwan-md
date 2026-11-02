@@ -1,0 +1,134 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "UXN5GBD9Q5.md.taiwan.app"
+        ],
+        "components": [
+          {
+            "/": "/raw/*",
+            "exclude": true,
+            "comment": "純文字路由留給瀏覽器"
+          },
+          {
+            "/": "/*/raw/*",
+            "exclude": true
+          },
+          {
+            "/": "/about/*",
+            "comment": "中文 about 文章"
+          },
+          {
+            "/": "/history/*",
+            "comment": "中文 history 文章"
+          },
+          {
+            "/": "/geography/*",
+            "comment": "中文 geography 文章"
+          },
+          {
+            "/": "/culture/*",
+            "comment": "中文 culture 文章"
+          },
+          {
+            "/": "/food/*",
+            "comment": "中文 food 文章"
+          },
+          {
+            "/": "/art/*",
+            "comment": "中文 art 文章"
+          },
+          {
+            "/": "/music/*",
+            "comment": "中文 music 文章"
+          },
+          {
+            "/": "/technology/*",
+            "comment": "中文 technology 文章"
+          },
+          {
+            "/": "/nature/*",
+            "comment": "中文 nature 文章"
+          },
+          {
+            "/": "/people/*",
+            "comment": "中文 people 文章"
+          },
+          {
+            "/": "/politics/*",
+            "comment": "中文 politics 文章"
+          },
+          {
+            "/": "/society/*",
+            "comment": "中文 society 文章"
+          },
+          {
+            "/": "/economy/*",
+            "comment": "中文 economy 文章"
+          },
+          {
+            "/": "/lifestyle/*",
+            "comment": "中文 lifestyle 文章"
+          },
+          {
+            "/": "/*/about/*",
+            "comment": "譯文 about 文章"
+          },
+          {
+            "/": "/*/history/*",
+            "comment": "譯文 history 文章"
+          },
+          {
+            "/": "/*/geography/*",
+            "comment": "譯文 geography 文章"
+          },
+          {
+            "/": "/*/culture/*",
+            "comment": "譯文 culture 文章"
+          },
+          {
+            "/": "/*/food/*",
+            "comment": "譯文 food 文章"
+          },
+          {
+            "/": "/*/art/*",
+            "comment": "譯文 art 文章"
+          },
+          {
+            "/": "/*/music/*",
+            "comment": "譯文 music 文章"
+          },
+          {
+            "/": "/*/technology/*",
+            "comment": "譯文 technology 文章"
+          },
+          {
+            "/": "/*/nature/*",
+            "comment": "譯文 nature 文章"
+          },
+          {
+            "/": "/*/people/*",
+            "comment": "譯文 people 文章"
+          },
+          {
+            "/": "/*/politics/*",
+            "comment": "譯文 politics 文章"
+          },
+          {
+            "/": "/*/society/*",
+            "comment": "譯文 society 文章"
+          },
+          {
+            "/": "/*/economy/*",
+            "comment": "譯文 economy 文章"
+          },
+          {
+            "/": "/*/lifestyle/*",
+            "comment": "譯文 lifestyle 文章"
+          }
+        ]
+      }
+    ]
+  }
+}
