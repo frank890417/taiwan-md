@@ -1,26 +1,26 @@
 ---
-title: "China Steel: o 'Ministro de Cabeça de Ferro' e a Lenda do Aço dos Dez Grandes Projetos"
-description: 'Das negociações de Chao Yao-tung na Europa e EUA para obter tecnologia, até a primeira fumaça branca subindo em Hsiao-kang, Kaohsiung, a China Steel usou 50 anos para construir a espinha dorsal da indústria pesada de Taiwan, sendo a pérola mais bem-sucedida dos Dez Grandes Projetos'
+title: 'China Steel: O Ministro de Cabeça de Ferro e a Espinha Dorsal de Aço das Dez Grandes Construções'
+description: 'Desde Zhao Yao-dong negociar com a Europa e a América para obter tecnologia com sabedoria, até a primeira nesga de fumo branco subir em Xiaogang, Kaohsiung, a China Steel usou 50 anos para construir a espinha dorsal da indústria pesada de Taiwan, sendo a pérola mais bem-sucedida das Dez Grandes Construções.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
-    'Economy',
+    'Economia',
     'Empresa',
     'Indústria siderúrgica',
-    'Dez Grandes Projetos',
+    'Dez Grandes Construções',
     'Indústria pesada',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-07-26T02:07:21+08:00'
+translatedAt: '2026-11-02T02:33:27.166738+00:00'
 ---
 
 > **Visão geral em 30 segundos**
@@ -31,13 +31,13 @@ translatedAt: '2026-07-26T02:07:21+08:00'
 
 No início dos anos 1970, o escritório preparatório da China Steel negociava cooperação técnica em siderurgia integrada com diversas usinas europeias, mas estas impunham condições como compra casada de equipamentos e restrições ao desenvolvimento tecnológico posterior de Taiwan. Chao Yao-tung considerou as condições excessivas e interrompeu voluntariamente as negociações com a Europa, voltando-se para os EUA em busca de um modelo de cooperação mais equitativo.[^2]
 
-## Cooperação técnica com a americana McLouth Steel
+## Cooperação técnica com a McLouth Steel dos EUA
 
-Chao Yao-tung decidiu deixar a Europa e buscar parceria nos EUA. A indústria siderúrgica americana inicialmente duvidava da capacidade industrial de Taiwan, considerando que uma economia do Leste Asiático recém-saída de políticas de substituição de importações teria dificuldade em operar equipamentos industriais de capital intensivo e longas cadeias de suprimento como a siderurgia integrada.[^2]
+Chao Yao-tung decidiu deixar a Europa e voltar-se para os EUA em busca de cooperação. A indústria siderúrgica americana inicialmente manteve ceticismo quanto à capacidade industrial de Taiwan, considerando que uma economia do Leste Asiático que acabara de iniciar sua política de substituição de importações teria dificuldade em operar instalações industriais de alto capital e longa cadeia de suprimentos como a siderurgia integrada.[^2]
 
-No momento decisivo, Chao Yao-tung demonstrou a racionalidade de um engenheiro e a sagacidade de um comerciante. Não apelou a sentimentos nem a política; usou apenas conjuntos precisos de dados para provar a base industrial e a qualidade da mão de obra de Taiwan. Propôs uma solução que tornou os americanos dispostos a entrar: transferência de tecnologia e cooperação de longo prazo, e não mera compra e venda de equipamentos.
+No momento crucial, Chao Yao-tung demonstrou a racionalidade de um engenheiro e a perspicácia de um empresário. Ele não apelou ao sentimento nem à política, usando apenas conjuntos de dados precisos para provar a base industrial e a qualidade da mão de obra de Taiwan. Ele apresentou uma proposta que tornou os americanos dispostos a participar: transferência de tecnologia e cooperação de longo prazo, em vez de mera compra e venda de equipamentos.
 
-Em 1972, a China Steel assinou acordo de cooperação técnica com a **McLouth Steel** (usina integrada de Michigan, EUA) e contratou a consultoria americana C.E. Lummus para suporte de engenharia. Essa negociação não apenas economizou vastos recursos para Taiwan; o mais importante foi garantir a autonomia tecnológica. A estratégia de Chao Yao-tung fez com que a China Steel, desde o início, possuísse capacidade de absorver, melhorar e desenvolver tecnologia por conta própria, em vez de ser apenas compradora de equipamentos.
+Em 1972, a China Steel assinou um acordo de cooperação técnica com a empresa americana **McLouth Steel** (uma siderúrgica integrada no Michigan) e contratou a empresa de consultoria americana C.E. Lummus para fornecer suporte de projeto de engenharia. Essa negociação não apenas economizou enormes fundos para Taiwan, mas, mais importante, garantiu autonomia tecnológica. A estratégia de Chao Yao-tung permitiu que a China Steel, desde o início, possuísse a capacidade de absorver, melhorar e desenvolver tecnologia por conta própria, em vez de atuar apenas como compradora de equipamentos.
 
 ## A primeira fumaça branca em Hsiao-kang
 
@@ -83,12 +83,12 @@ O atual presidente do conselho da China Steel é **Huang Chien-chih** (assumiu e
 
 ## Referências
 
-[^1]: [China Steel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — História da China Steel Corporation, incluindo fundação em 1971, ignição do alto-forno em 1977, privatização em 1995.
+[^1]: [China Steel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — História da China Steel, incluindo fundação em 1971, acendimento do alto-forno em 1977 e privatização em 1995.
 
-[^2]: [Epoch Times: Ministro de Cabeça de Ferro enraizado no coração do povo — Chao Yao-tung cria a lenda da China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Processo de negociação de cooperação técnica com a americana McLouth Steel e origem do apelido "Ministro de Cabeça de Ferro" durante seu mandato como ministro da Economia em 1981.
+[^2]: [The Epoch Times: Ministro 'Cabeça de Ferro' profundamente enraizado no coração do povo, Zhao Yao-dong cria a lenda da China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — O processo de negociação de cooperação técnica de Zhao Yao-dong com a McLouth Steel nos EUA e a origem do apelido 'Ministro Cabeça de Ferro' durante seu mandato como Ministro da Economia em 1981.
 
-[^3]: [Site oficial da China Steel Corporation e relatório anual de 2024](https://www.csc.com.tw/) — Dados operacionais mais recentes e relatórios anuais do grupo China Steel.
+[^3]: [Site oficial da China Steel e Relatório Anual de 2024](https://www.csc.com.tw/) — Dados operacionais mais recentes e relatório anual do grupo China Steel.
 
-[^4]: [Dez Grandes Projetos — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexto da política dos Dez Grandes Projetos da República da China e posicionamento da China Steel.
+[^4]: [Dez Grandes Construções — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexto da política das Dez Grandes Construções da República da China e posicionamento da China Steel.
 
-[^5]: [Dados estatísticos da World Steel Association](https://worldsteel.org/) — Ranking global de usinas siderúrgicas e estatísticas de capacidade.
+[^5]: [Dados estatísticos da Associação Mundial do Aço](https://worldsteel.org/) — Ranking global de siderúrgicas e estatísticas de capacidade de produção.

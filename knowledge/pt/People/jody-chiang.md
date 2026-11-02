@@ -1,14 +1,14 @@
 ---
-title: 'Jiang Hui: a rainha do taiwanês nascida no nakashi de Beitou'
-description: 'Jiang Hui (nome de nascimento Jiang Shuhui, nascida em 1961 em Kaohsiung) mudou-se com a família para Taipé aos 9 anos, indo cantar em casas de nakashi em Beitou. Em 1992, "A Voz do Coração Após o Álcool" vendeu 1,16 milhão de cópias em Taiwan, sendo o único álbum em taiwanês a ultrapassar um milhão nos registros oficiais. De 2000 a 2003, ganhou quatro Prémios Golden Melody consecutivos de melhor cantora em dialeto/taiwanês, aposentou-se em 2015 e retornou em 2024 no show do Dia Nacional no Taipei Dome.'
+title: 'Jody Chiang: A cantora de Hokkien originária do Nakasi de Beitou'
+description: 'Jody Chiang (nome real Jiang Shu-hui, nascida em Kaohsiung em 1961) mudou-se para Taipei com a família aos 9 anos e começou a cantar nos locais de Nakasi em Beitou. Em 1992, o álbum "Confissões após o álcool" vendeu 1,16 milhão de cópias em Taiwan, sendo o único álbum em língua Hokkien a ultrapassar um milhão de vendas segundo os registos oficiais. Venceu quatro vezes consecutivas o prémio de Melhor Cantora de Hokkien no Golden Melody Awards entre 2000 e 2003; aposentou-se em 2015 e regressou em 2024 na celebração do Dia Nacional no Taipei Dome.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'Jiang Hui',
-    'música pop em taiwanês',
-    'Prémios Golden Melody',
-    'nakashi de Beitou',
+    'Jody Chiang',
+    'música pop de Hokkien',
+    'Golden Melody Awards',
+    'Nakasi de Beitou',
     'cultura de Taiwan',
   ]
 subcategory: '音樂與表演'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T08:42:21+08:00'
+translatedAt: '2026-11-02T03:32:18.521574+00:00'
 ---
 
 # Jiang Hui: nascida no nakashi de Beitou, cantou o único álbum em taiwanês a ultrapassar um milhão de cópias
