@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8130ad5ab40eae13'
-sourceBodyHash: 'sha256:f699c0cd2ccbe17d'
-translatedAt: '2026-07-26T21:33:24+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-02T20:20:55.675245+00:00'
 ---
 
 # O que são as eleições "Nove em Um"?
@@ -124,35 +124,33 @@ Cada cargo tem sua própria história. Mas o número "nove" não foi decidido na
 
 ## Tensões no desenho institucional
 
-O cenário das "Nove em Um" parece natural, mas na verdade esconde muitas tensões estruturais, cada uma das quais ainda está em evolução:
+Embora o cenário das "Nove em Um" pareça natural, ele esconde diversas tensões estruturais que continuam em evolução:
 
-### Ascensão administrativa vs. Autonomia local
+### Elevação de status vs. Autonomia local
 
-"Ascensão" é um conceito central na governança urbana de Taiwan — passar de cidade subordinada ao condado para capital altera o tamanho do orçamento, a estrutura de pessoal e o nível administrativo. Mas a ascensão também traz o efeito colateral de "perder o chefe eleito pela população": o status de eleição popular do cargo de "prefeito" de uma cidade subordinada ao condado desaparece após a ascensão (tornando-se um chefe de distrito nomeado).
+A "elevação de status" (升格) é um conceito central na governança urbana de Taiwan — ao passar de cidade sob jurisdição provincial para município especial (cidade direta), a escala do orçamento, o quadro de pessoal e o nível administrativo mudam. No entanto, essa elevação traz o efeito colateral da "perda de chefes eleitos": o status de "prefeito" de uma cidade que antes era subordinada ao condado desaparece após a elevação (passando a ser um distrito administrado por um chefe nomeado).
 
-Esse efeito colateral ocorreu em grande escala pela primeira vez durante a ascensão das "Cinco Capitais" em 2010, especialmente nos três distritos montanheses do condado de Kaohsiung (Namasia, Taoyuan e Maolin), onde o status de eleição popular dos chefes de distrito foi revogado. Em 2014, a ascensão de Taoyuan desencadeou a mesma controvérsia (distrito de Fuxing). O Legislativo Yuan aprovou em 2014 uma emenda à Lei do Sistema Local, criando o cargo de "chefe do distrito nativo montanhês da capital" para remediar a situação.
+Esse efeito colateral ocorreu em larga escala pela primeira vez durante a elevação das cinco grandes cidades em 2010, especialmente quando o status de chefes eleitos dos três municípios de montanha do condado de Kaohsiung (Namasia / Taoyuan / Maolin) foi revogado. A mesma controvérsia foi desencadeada novamente na elevação de Taoyuan em 2014 (município de Fuxing). Em 2014, o Legislativo aprovou uma emenda à 《Lei do Sistema Local》 para remediar a situação com a criação do cargo de "Chefe de Distrito de Povos Indígenas de Montanha de Municípios Especiais".
 
-No entanto, o status de eleição popular dos prefeitos de município/condado em áreas planas ainda desaparece devido à ascensão — este problema estrutural ainda não recebeu uma solução generalizada [^10].
+Contudo, o status de chefes eleitos de vilas e cidades em áreas de planície continua a desaparecer devido às elevações — este problema estrutural ainda não recebeu uma solução generalizada [^10].
 
-### Divergência institucional entre Deputados da Capital e Legisladores
+### Divergência institucional entre Vereadores de Municípios Especiais vs. Membros do Legislativo
 
-Os legisladores foram convertidos em 2008 para o "sistema de duas cédulas em distritos uninominais" (regional + proporcional), enquanto os deputados dos condados/cidades ainda seguem o "sistema SNTV de múltiplos distritos" projetado na década de 1980 — embora ambos sejam representantes eleitos, o desenho institucional é completamente diferente.
+Em 2008, os membros do Legislativo passaram para o "sistema de dois votos em distrito uninominal" (distrito + lista proporcional), enquanto os vereadores de condados e cidades ainda utilizam o sistema de "voto único não transferível em distritos plurinominais (SNTV)" desenhado na década de 1980 — ambos são representantes eleitos, mas com desenhos institucionais completamente diferentes.
 
-Essa divergência persiste há 18 anos. Por trás disso, há a vinculação entre facções locais e interesses partidários — mas o impacto do SNTV na representação de pequenos partidos, terceira força e diversidade no nível de deputados é muito mais profundo do que no nível dos legisladores. Para mais detalhes, consulte [[議員制度]].
+Essa divergência persiste há 18 anos. Por trás dela, está o vínculo entre facções locais e interesses partidários — mas o impacto do SNTV sobre pequenos partidos, terceiras forças e a representatividade plural é muito mais profundo no nível dos vereadores do que no dos membros do Legislativo. Para detalhes, veja [Sistema de Vereadores](/pt/politics/city-councilor-system-taiwan/).
 
-### A paradoxal escala dos chefes de vilarejo/ligang
+### O paradoxo da escala dos chefes de vila e bairro
 
-7.748 chefes de vilarejo/ligang em todo o país — mais do que as mais de 6.600 lojas da 7-Eleven. A cada quatro anos, 7.748 pequenas eleições são realizadas simultaneamente. Mas cada ligang tem, em média, apenas 2.000 a 5.000 eleitores; a economia política deste cargo é diferente dos outros oito cargos — dominado por independentes, taxa de reeleição superior a 80%, subsídio mensal de 45.000 TWD não é considerado salário, facções e relações pessoais são mais importantes do que partidos [^11].
+Existem 7.748 chefes de vila e bairro em todo o Taiwan — mais do que as mais de 6.600 lojas 7-Eleven. A cada quatro anos, 7.748 pequenas eleições ocorrem simultaneamente. No entanto, cada vila ou bairro tem, em média, apenas entre 2.000 e 5.000 eleitores. A política econômica deste cargo é totalmente diferente dos outros oito cargos — o domínio de candidatos independentes é alto, a taxa de reeleição supera 80%, o subsídio mensal de NT$54.000 não é considerado salário, e as relações de facção e pessoais são mais importantes do que a filiação partidária [^11].
 
-Para uma discussão detalhada, consulte [[村里長制度]].
+Para uma discussão detalhada, veja [Sistema de Chefes de Vila e Bairro](/pt/politics/village-chief-system/).
 
-### A dupla identidade das áreas nativas montanhesas
+### A dupla identidade dos distritos indígenas
 
-Os distritos nativos montanheses das capitais são, juridicamente, "distritos da capital" + "unidades de autonomia dos povos nativos" — essa dupla identidade gera múltiplas tensões na distribuição de recursos, políticas culturais e gestão de terras. O chefe do distrito deve coordenar entre o governo municipal da capital, a Comissão de Assuntos Nativos do governo central e as reuniões tribais, diferindo completamente do trabalho de um "chefe de distrito" comum.
+Os distritos de povos indígenas de montanha em municípios especiais possuem uma dupla identidade jurídica: são "distritos sob jurisdição municipal" + "unidades de autonomia indígena". Essa dualidade gera múltiplas tensões na distribuição de recursos, políticas culturais e gestão de terras. O chefe do distrito precisa coordenar entre três níveis — o governo municipal especial, o Conselho de Assuntos Indígenas do governo central e os conselhos tribais —, o que é um trabalho completamente diferente de um "chefe de distrito" comum.
 
-Para mais detalhes, consulte [[直轄市山地原住民區長]].
-
----
+Para detalhes, veja [Chefe de Distrito de Povos Indígenas de Montanha de Municípios Especiais](/pt/politics/indigenous-district-chief-system/).
 
 ## Cenário concreto de nove cargos em uma cédula
 
@@ -209,38 +207,38 @@ Portal de curadoria da infraestrutura democrática: [Political Hub](/politics)
 
 ## Referências
 
-[^1]: [Eleição de Funcionários Públicos Locais da 14ª Legislatura da República da China — Wikipédia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Artigo sobre as eleições Nove em Um de 2014, a primeira com nove cargos completos votados simultaneamente
-
-[^2]: [Eleição de Funcionários Públicos Locais da República da China — Artigo de visão geral da Wikipédia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Eleição de Funcionários Públicos Locais da República da China — Artigo de visão geral da Wikipédia Fonte oficial
-
-[^3]: [Eleição de Funcionários Públicos Locais da República da China em 2026 — Wikipédia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Cronograma eleitoral de 2026 da Comissão Central de Eleições
-
-[^4]: [Lei de Eleição e Referendo de Funcionários Públicos — Banco de Dados de Regulamentos Nacionais](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Lei de Eleição e Referendo de Funcionários Públicos — Banco de Dados de Regulamentos Nacionais Fonte oficial
-
-[^5]: [Condados e Cidades da República da China — Wikipédia](https://zh.wikipedia.org/wiki/中華民國縣市) — Condados e Cidades da República da China — Wikipédia Fonte oficial
-
-[^6]: [Evolução Administrativa de Taipé — Departamento de Assuntos Civis do Governo Municipal de Taipé](https://ca.gov.taipei/) — Evolução Administrativa de Taipé — Departamento de Assuntos Civis do Governo Municipal de Taipé Fonte oficial
-
-[^7]: [Eleição de Prefeitos das Capitais da República da China em 1994 — Wikipédia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Eleição de Prefeitos das Capitais da República da China em 1994 — Wikipédia Fonte oficial
-
-[^8]: [Transformação em Capitais da República da China em 2010 — Wikipédia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Transformação em Capitais da República da China em 2010 — Wikipédia Fonte oficial
-
-[^9]: [Lei do Sistema Local — Banco de Dados de Regulamentos Nacionais](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artigos 83-1 a 83-12 (Distritos Nativos Montanheses das Capitais)
-
-[^10]: [The Reporter — A Perda da Eleição Popular Após a Ascensão](https://www.twreporter.org/) — Análise dos efeitos colaterais da ascensão (link de reportagem específica a ser complementado)
-
-[^11]: [Departamento de Assuntos Civis do Ministério do Interior — Dados Básicos dos Chefes de Vilarejo/Ligang](https://www.moi.gov.tw/) — Departamento de Assuntos Civis do Ministério do Interior — Dados Básicos dos Chefes de Vilarejo/Ligang Fonte oficial
-
-[^12]: [Comissão Central de Eleições — Cronograma Eleitoral de 2026](https://web.cec.gov.tw/) — Comissão Central de Eleições — Cronograma Eleitoral de 2026 Fonte oficial
-
-[^13]: Boletim Eleitoral da Comissão Central de Eleições — Design das cores das cédulas
-
-[^14]: [Comissão Eleitoral Federal — Election Day](https://www.fec.gov/) — Comissão Eleitoral Federal — Election Day Fonte oficial
-
-[^15]: [Eleições Locais Unificadas — Wikipédia em Japonês](https://ja.wikipedia.org/wiki/統一地方選挙) — Eleições Locais Unificadas — Wikipédia em Japonês Fonte oficial
-
-[^16]: [전국동시지방선거 — Wikipédia em Coreano](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipédia em Coreano Fonte oficial
-
 ---
 
-_v1.0 | 2026-05-27 | Nascido sob a diretiva de Zheyu "coloque todos os artigos um por um no article-inbox" + aprovação da Opção D, artigo âncora Tier 1.1 #1._
+_v1.0 | 27-05-2026 | Artigo âncora Tier 1.1 #1, criado após a diretiva de Zheyu "coloque todos os tipos de artigos um por um no article-inbox" + decisão final da Opção D._
+
+[^1]: [14ª Eleição de Funcionários Públicos Locais da República da China — Wikipédia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Entrada sobre as Eleições de Nove em Um de 2014, a primeira vez que os nove cargos foram integrados no mesmo dia
+
+[^2]: [Eleições de Funcionários Públicos Locais da República da China — Visão Geral na Wikipédia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Visão geral das Eleições de Funcionários Públicos Locais da República da China — Fonte oficial de dados
+
+[^3]: [Eleições de Funcionários Públicos Locais da República da China de 2026 — Wikipédia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Cronograma eleitoral de 2026 da Comissão Eleitoral Central
+
+[^4]: [Lei de Eleição e Revogação de Funcionários Públicos — Base de Dados Nacional de Regulamentações](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Lei de Eleição e Revogação de Funcionários Públicos — Fonte oficial de dados
+
+[^5]: [Condados e Cidades da República da China — Wikipédia](https://zh.wikipedia.org/wiki/中華民國縣市) — Condados e Cidades da República da China — Wikipédia — Fonte oficial de dados
+
+[^6]: [Evolução Administrativa de Taipei — Departamento de Assuntos Civis do Governo Municipal de Taipei](https://ca.gov.taipei/) — Evolução Administrativa de Taipei — Departamento de Assuntos Civis do Governo Municipal de Taipei — Fonte oficial de dados
+
+[^7]: [Eleição de Prefeitos de Municípios Especialmente Administrados da República da China de 1994 — Wikipédia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Eleição de Prefeitos de Municípios Especialmente Administrados da República da China de 1994 — Wikipédia — Fonte oficial de dados
+
+[^8]: [Reforma dos Municípios Especialmente Administrados da República da China de 2010 — Wikipédia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Reforma dos Municípios Especialmente Administrados da República da China de 2010 — Wikipédia — Fonte oficial de dados
+
+[^9]: [Lei do Sistema Local — Base de Dados Nacional de Regulamentações](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artigos 83-1 a 83-12 (Distritos de Povos Indígenas de Montanha em Municípios Especialmente Administrados)
+
+[^10]: [The Reporter — A Perda da Representação Eleita após a Promoção de Status](https://www.twreporter.org/) — Análise dos efeitos colaterais da promoção de status (link específico da reportagem pendente)
+
+[^11]: [Acompanhando o ajuste salarial de militares, professores e funcionários públicos! O Ministério do Interior aumenta as subsídios para assistentes de vereadores e chefes de aldeia/vizinhança com efeito a partir de 1º de julho; aumento adicional de 4% no dia de Ano Novo do próximo ano — Ministério do Interior](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Comunicado de imprensa do Departamento de Assuntos Civis do Ministério do Interior em 16 de julho de 2026. A subsídio para assuntos de chefes de aldeia/vizinhança aumentou de NT$50.000 mensais para NT$54.000 a partir de 1º de julho de 2026; nas regiões de povos indígenas, aumentou de NT$60.000 para NT$64.800.
+
+[^12]: [Comissão Eleitoral Central — Cronograma Eleitoral de 2026](https://web.cec.gov.tw/) — Comissão Eleitoral Central — Cronograma Eleitoral de 2026 — Fonte oficial de dados
+
+[^13]: Boletim Eleitoral da Comissão Eleitoral Central — Design de cores das cédulas
+
+[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Federal Election Commission — Election Day — Fonte oficial de dados
+
+[^15]: [Eleições Locais Unificadas — Wikipédia (Versão em Japonês)](https://ja.wikipedia.org/wiki/統一地方選挙) — Eleições Locais Unificadas — Wikipédia (Versão em Japonês) — Fonte oficial de dados
+
+[^16]: [전국동시지방선거 — Wikipédia (Versão em Coreano)](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipédia (Versão em Coreano) — Fonte oficial de dados

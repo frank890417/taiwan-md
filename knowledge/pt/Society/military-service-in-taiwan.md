@@ -2,9 +2,7 @@
 title: 'Do Prêmio Golden Horse ao Exercício Hann Kuang: O Rito de Passagem Coletivo e o Treinamento de Sobrevivência dos Homens em Taiwan'
 description: "De 1945 até hoje, o serviço militar em Taiwan encurtou de três anos para quatro meses, e em 2024 retornou ao regime de um ano. Esta memória coletiva que envolve milhões de pessoas não é apenas o comando 'um, dois, três, quatro, cinco, seis, setenta, oitenta, noventa, buraco', mas também a tensão de sobrevivência da ilha na zona cinzenta."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社會制度'
 tags:
   [
     'Serviço militar',
@@ -13,15 +11,18 @@ tags:
     'Exercício Hann Kuang',
     'Prêmio Golden Horse',
   ]
-readingTime: 12
+subcategory: '社會制度'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-25T21:33:46+08:00'
+translatedAt: '2026-11-02T20:47:07.102650+00:00'
 ---
 
 > **Resumo em 30 segundos:** O sistema de serviço militar em Taiwan é a marca social mais profunda desta ilha ao longo de mais de meio século. Desde o "três anos de serviço" durante a Lei Marcial até a restauração do regime de um ano hoje, isso não é apenas uma mudança numérica no período de serviço, mas o verdadeiro retrato de Taiwan enfrentando a pressão geopolítica. Este artigo leva você ao local do sorteio com os gritos do "Prêmio Golden Horse" e ao cenário moderno de prontidão de combate do Exercício Hann Kuang, onde até os supermercados são incluídos nos exercícios, e analisa em profundidade os padrões de isenção, a rotina do treinamento básico, os vários tipos de serviço alternativo e a transformação para a prática do chamado de reserva.
@@ -101,10 +102,11 @@ O sistema de serviço militar em Taiwan é um diálogo de longo prazo sobre "res
 
 ### Fontes de Referência
 
-## Para Continuar Lendo
+## Leitura adicional
 
-- [Memórias do Campo de HuKou e da Rua da Vitória](/pt/history/hukou-camp-shengli-road-memory) — Memórias cotidianas do espaço militar
-- [Academia do Urso Negro](/pt/society/kuma-academy-civil-defense-school) — A versão contemporânea da consciência de defesa civil
+- [Base de Hukou e Memórias da Estrada da Vitória](/pt/history/hukou-camp-shengli-road-memory) — Memórias cotidianas do espaço militar
+- [Academia Urso Negro](/pt/society/kuma-academy-civil-defense-school) — Versão contemporânea da consciência de defesa civil
+- [Golden Horse](/art/金馬獎) — O Golden Horse dos cineastas e o "Golden Horse" na boca dos recrutas têm a mesma origem: ambos vêm dos primeiros caracteres de Kinmen e Matsu
 
 ## Referências
 

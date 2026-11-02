@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:51:05+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:35:46.821879+00:00'
 ---
 
 # O sistema de referendos de Taiwan: escrito na Constituição em 1947, esperou 56 anos por uma lei
@@ -99,19 +99,20 @@ O pêndulo oscilou de volta em novembro de 2025: o Legislativo aprovou uma revis
 
 Assim chegou-se à situação de 2026: em 28 de novembro, no dia da eleição local, o caso nº 22 seria votado simultaneamente. Quando o presidente da Comissão Eleitoral Central divulgou a estimativa de tempo de apuração, a cena daquela noite de 2018 era na verdade a origem daquele número.[^4]
 
-## Por que essa linha merece ser lembrada
+## Por que esta linha vale a pena lembrar
 
-Ao desdobrar cada debate, o sistema de referendos de Taiwan realmente está equilibrando apenas três coisas repetidamente.
+Se você abrir cada uma das controvérsias, verá que o sistema de referendo de Taiwan na verdade só pesa três coisas na balança.
 
-No primeiro prato da balança está o limiar: o problema dos seis casos de 2004 e 2008 era que o limiar era muito rigoroso, os votos foram mobilizados mas não aprovados; após a mudança para o sistema de um quarto em 2017, o problema mudou para o outro lado — baixa taxa de comparecimento combinada com alta proporção de apoio ainda pode não ser aprovada, o caso nº 21 de 2025 é essa combinação. No segundo prato está a capacidade administrativa eleitoral; o ano de dez casos no mesmo dia levou a capacidade dos locais de votação ao limite, daí o desvinculamento de 2019, e após o desvinculamento o calor da discussão sobre referendos foi questionado, daí o re-vinculamento de 2025. No terceiro prato está "cuja opinião entra naquela cédula", o que depende de se a assinatura requer papel e se votação fora do domicílio é permitida, e essas duas questões ainda estão aguardando a lei que estabeleça o método de implementação.[^6]
+No primeiro prato está o limiar: o problema dos seis casos de 2004 e 2008 era que o limiar era demasiado rigoroso, os votos saíram mas não passaram; depois da mudança para o regime de um quarto em 2017, o problema mudou para o outro lado — baixa participação eleitoral combinada com alta proporção de aprovação ainda pode resultar em não aprovação, e o Caso 21 de 2025 é exatamente essa combinação. O segundo prato é a capacidade operacional eleitoral: o ano com dez casos no mesmo dia levou a capacidade dos locais de votação ao limite, daí o desvinculamento de 2019; depois do desvinculamento, o calor do debate sobre referendos foi questionado, daí a revinculação de 2025. O terceiro prato é "de quem a opinião consegue entrar naquela cédula", o que depende de se a subscrição exige papel, se os eleitores fora do domicílio podem votar, e essas duas coisas ainda estão à espera da lei de modalidades de implementação.[^6]
 
-Nenhuma dessas três coisas é puramente uma questão técnica; cada uma é recalculada novamente no palco político. E os vestígios deixados pelo sistema são fáceis de identificar: em que ano houve revisão, qual artigo foi revisado, qual foi a taxa de comparecimento, o limiar era um quarto ou metade. Ao alinhar esses números por ano, vê-se o processo de como essa ilha aprendeu a usar democracia direta enquanto ajustava seu próprio recipiente.
+Nenhuma dessas três coisas é jamais um problema puramente técnico; cada vez elas são recalculadas no cenário político. E as marcas deixadas pelo sistema são fáceis de reconhecer: em que ano se alterou a lei, qual artigo foi alterado, qual foi a participação eleitoral, se o limiar era um quarto ou metade. Alinhar esses números por ano é justamente o processo de como esta ilha aprende a usar direitos civis diretos enquanto ajusta o seu próprio recipiente.
 
 **Leitura complementar**:
 
-- [Sistema da Comissão Eleitoral Central](/pt/politics/central-election-commission) — o órgão que conduz um caso de referendo do início ao fim, desde apresentação e assinatura até votação
-- [História dos limiares de direito de voto](/pt/politics/voting-rights-threshold-history) — a linha que determina quem tem direito de entrar em um local de votação também foi revisada ao longo do tempo
-- [Eleição de 9 de novembro de 2026](/politics/2026 九合一選舉) — a outra metade da cédula de 28 de novembro
+- [Sistema da Comissão Eleitoral Central](/pt/politics/central-election-commission) — o órgão que leva os casos de referendo da proposta, subscrição até à votação
+- [Histórico dos limiares do direito de voto](/pt/politics/voting-rights-threshold-history) — a linha de quem tem qualificação para entrar no local de votação também foi sendo alterada ao longo do tempo
+- [Eleições unificadas de 2026](/politics/2026 九合一選舉) — a outra metade desta cédula de 28 de novembro
+- [Discussão sobre energia nuclear em Taiwan](/pt/society/taiwan-nuclear-debate) — o próprio tema do Caso 22: o fecho do Reator 3 da Central Nuclear 3 está em análise, a "condição de consenso social" foi colocada no referendo do mesmo dia
 
 ## Referências
 
