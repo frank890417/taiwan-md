@@ -61,11 +61,12 @@ final class AppModel {
         if let t = d.string(forKey: "TWTab"), let tab = AppTab(rawValue: t) { self.tab = tab }
     }
 
-    /// 首次啟動：確保目前內容語言可讀；不在內建三包的語言先解壓中文墊著
+    /// 首次啟動：確保目前內容語言可讀。內容語言不在內建三包時先墊英文（中文介面則墊中文），
+    /// 並在不計費的網路下自動下載該語言。
     @MainActor
     func bootstrap() async {
         if !(await packs.ensure(contentLang)) {
-            _ = await packs.ensure(.zhTW)
+            _ = await packs.ensure(fallbackLang)
         }
         ready = true
         if let k = UserDefaults.standard.string(forKey: "TWArticle") { open(ArticleRef(lang: readableLang, key: k)) }
@@ -77,11 +78,19 @@ final class AppModel {
         }
         refreshWidget()
         await updater.checkIfDue(wifiOnly: wifiOnly)
+        if !packs.isInstalled(contentLang), !(wifiOnly && updater.isExpensiveNetwork) {
+            await updater.download(contentLang)
+            refreshWidget()
+        }
     }
+
+    /// 內容語言的包還沒好時用哪一包墊：中文介面墊中文，其他墊英文
+    var fallbackLang: ContentLanguage { L.ui == .zh ? .zhTW : .en }
 
     /// 現在可以讀的語言：內容語言的包還沒裝好就退回中文
     var readableLang: ContentLanguage {
-        packs.isInstalled(contentLang) ? contentLang : (packs.isInstalled(.zhTW) ? .zhTW : contentLang)
+        for l in [contentLang, fallbackLang, .zhTW, .en] where packs.isInstalled(l) { return l }
+        return contentLang
     }
 
     func setContentLang(_ lang: ContentLanguage) async {

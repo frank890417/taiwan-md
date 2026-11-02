@@ -41,8 +41,11 @@ struct ArticleCard: View {
 
     var body: some View {
         ZStack(alignment: .bottomLeading) {
-            CoverImage(meta: meta)
+            // 圖片放在固定尺寸的容器上當 overlay，scaledToFill 才不會撐寬卡片、溢到隔壁
+            Color.clear
+                .frame(maxWidth: .infinity)
                 .frame(height: height)
+                .overlay { CoverImage(meta: meta) }
                 .clipped()
             LinearGradient(colors: [.clear, .black.opacity(0.72)], startPoint: .center, endPoint: .bottom)
             VStack(alignment: .leading, spacing: 6) {

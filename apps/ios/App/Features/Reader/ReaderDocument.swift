@@ -44,10 +44,10 @@ enum ReaderDocument {
         <body>
         <main class="app-article">
           <header class="app-head">
-            <div class="app-cat" style="--cat:\(m.category.hexString)">\(esc(cat))</div>
+            <div class="app-cat" style="--cat:\(m.category.hexString)"><bdi>\(esc(cat))</bdi></div>
             <h1>\(esc(m.title))</h1>
             \(m.description.isEmpty ? "" : "<p class=\"app-desc\">\(esc(m.description))</p>")
-            <div class="app-meta">\(esc(L.minutes(m.readingTime)))\(updated.isEmpty ? "" : " · " + esc(updated))</div>
+            <div class="app-meta"><bdi>\(esc(L.minutes(m.readingTime)))\(updated.isEmpty ? "" : " · " + esc(updated))</bdi></div>
           </header>
           \(hero)
           <article class="article-body">\(body)</article>

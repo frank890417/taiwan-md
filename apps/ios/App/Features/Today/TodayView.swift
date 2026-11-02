@@ -93,10 +93,10 @@ struct TodayView: View {
                 .font(.subheadline.weight(.semibold))
                 .foregroundStyle(.secondary)
             if lang != model.contentLang {
-                Label(L.t("\(model.contentLang.nativeName) 內容包未下載，先顯示中文",
-                          "\(model.contentLang.nativeName) pack not downloaded — showing Chinese",
-                          "\(model.contentLang.nativeName) 未ダウンロードのため中国語を表示"),
-                      systemImage: "info.circle")
+                Label(L.t("\(model.contentLang.nativeName) 內容包下載中，先顯示\(lang.nativeName)",
+                          "\(model.contentLang.nativeName) pack not downloaded yet — showing \(lang.nativeName)",
+                          "\(model.contentLang.nativeName) は未ダウンロードのため\(lang.nativeName)で表示"),
+                      systemImage: "arrow.down.circle")
                     .font(.footnote).foregroundStyle(.orange)
             }
         }

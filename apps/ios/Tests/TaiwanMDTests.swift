@@ -91,3 +91,39 @@ struct SearchEngineTests {
         #expect(en?.path == "/en/history/228-incident")
     }
 }
+
+/// Universal Links：網站網址 → 內容包裡的同一篇
+@Suite(.serialized)
+struct DeepLinkTests {
+    @MainActor
+    func model() async -> AppModel {
+        let m = AppModel()
+        _ = await m.packs.ensure(.zhTW)
+        _ = await m.packs.ensure(.en)
+        return m
+    }
+
+    @Test @MainActor func chinesePercentEncodedURL() async {
+        let m = await model()
+        let url = URL(string: "https://taiwan.md/history/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6/")!
+        #expect(m.article(forWebURL: url)?.key == "History/二二八事件")
+    }
+
+    @Test @MainActor func englishURL() async {
+        let m = await model()
+        let url = URL(string: "https://taiwan.md/en/history/228-incident/")!
+        #expect(m.article(forWebURL: url)?.key == "History/二二八事件")
+    }
+
+    @Test @MainActor func nonArticlePagesStayOnWeb() async {
+        let m = await model()
+        #expect(m.article(forWebURL: URL(string: "https://taiwan.md/data/")!) == nil)
+        #expect(m.article(forWebURL: URL(string: "https://example.com/history/x/")!) == nil)
+    }
+
+    @Test @MainActor func taiwanmdSchemeOpensArticle() async {
+        let m = await model()
+        m.handle(url: WidgetSnapshot.articleURL(lang: "zh-TW", key: "Food/珍珠奶茶"))
+        #expect(m.paths[.today]?.last == .article(ArticleRef(lang: .zhTW, key: "Food/珍珠奶茶")))
+    }
+}
