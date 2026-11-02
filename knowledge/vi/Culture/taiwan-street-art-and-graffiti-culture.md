@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:49+08:00'
+translatedAt: '2026-11-02T01:41:57.719500+00:00'
 ---
 
 # Nghệ thuật đường phố và văn hóa Graffiti tại Đài Loan
@@ -91,5 +91,5 @@ Công nghệ kỹ thuật số cũng đang mở ra những khả năng mới. T�
 
 ## Đọc thêm
 
-- [Nghệ thuật đương đại Đài Loan](/culture/台灣當代藝術) — Sự giao thoa giữa nghệ thuật đường phố và hệ sinh thái nghệ thuật đương đại Đài Loan
-- [Âm nhạc điện tử và Văn hóa tiệc tùng Đài Loan](/vi/music/taiwan-electronic-music-and-party-culture) — Cảnh quan âm nhạc điện tử chia sẻ chung nguồn gốc văn hóa phụ với nghệ thuật đường phố
+- [Nghệ thuật đương đại Đài Loan](/vi/art/contemporary-art) — Sự giao thoa giữa nghệ thuật đường phố và hệ sinh thái nghệ thuật đương đại tại Đài Loan
+- [Âm nhạc điện tử và văn hóa tiệc tùng tại Đài Loan](/vi/music/taiwan-electronic-music-and-party-culture) — Cảnh quan âm nhạc điện tử có cùng nguồn gốc văn hóa phụ với nghệ thuật đường phố

@@ -18,10 +18,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-18T00:53:05+08:00'
+translatedAt: '2026-11-02T01:59:44.818164+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 1998, đại gia bất động sản Lâm Mẫn Hùng tiếp nhận các cơ sở phúc lợi quân đội và giáo dục vốn thua lỗ triền miên với chỉ 66 cửa hàng. Với tư cách một "người ngoài cuộc", ông đã đặt ra ranh giới sinh tồn là "giá rẻ 20%, lợi nhuận 2%", và bằng cách nào đó, đã tạo ra con đường sống cho siêu thị giữa sự cạnh tranh của các tập đoàn bách hóa và cửa hàng tiện lợi. Ngày nay, PX Mart là một bá chủ bán lẻ với doanh thu hàng năm vượt 200 tỷ Đài tệ và sở hữu 1.200 cửa hàng, nhưng những tranh cãi về độc quyền và cơn đau chuyển đổi số đằng sau sự mở rộng nhanh chóng này đang thử thách hai mươi năm tiếp theo của "nền tảng sinh hoạt" này.
@@ -66,12 +66,12 @@ Lâm Mẫn Hùng từng nói, PX là "trung tâm phúc lợi của người dân
 
 ## Đọc thêm
 
-- **[Linh vật](/vi/lifestyle/mascot-culture-in-taiwan)** — Học thuyết vận hành IP linh vật PX và Open: Quản lý thương hiệu đại diện bán lẻ
-- **[Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture)** — Vị trí của PX Mart, 7-Eleven và FamilyMart trong ngành bán lẻ Đài Loan
-- **[Kinh tế giao hàng tận nhà Đài Loan](/economy/台灣外送經濟)** — PX Mart tích hợp vào thị trường foodpanda / Uber Eats như thế nào
-- **[Thanh toán di động Đài Loan](/vi/technology/taiwan-mobile-payment)** — Hiểu sự khác biệt giữa phổ cập và tính phổ quát, từ AllPay và nhiều công cụ khác đến việc chấp nhận của thương gia và dự phòng tiền mặt
-- **[Lịch sử quảng cáo Đài Loan](/vi/culture/taiwan-advertising-history)** — Ogilvy đằng sau "thẩm mỹ kinh tế" của PX, và lịch sử 100 năm của quảng cáo Đài Loan từ độc quyền sự chú ý đến tiếp thị cảm xúc
-- **[Doanh nghiệp Đài Loan: Tập đoàn United](/vi/economy/taiwan-enterprise-uni-president)** — Câu chuyện còn lại về việc United mua Carrefour và PX sáp nhập Dajunfa, hai gã khổng lồ bán lẻ Đài Loan
+- **[Linh vật](/vi/lifestyle/mascot-culture-in-taiwan)** — PX Mart Bear và Open: Bài học về quản trị IP của các linh vật bán lẻ
+- **[Văn hóa cửa hàng tiện lợi tại Đài Loan](/vi/lifestyle/convenience-store-culture)** — Vị thế của PX Mart, 7-Eleven và FamilyMart trong ngành bán lẻ Đài Loan
+- **[Nền kinh tế giao hàng tận nơi tại Đài Loan](/vi/lifestyle/food-delivery-platforms-taiwan)** — Cách dịch vụ PX Mart Hourly Delivery thâm nhập thị trường foodpanda / Uber Eats
+- **[Thanh toán di động tại Đài Loan](/vi/technology/taiwan-mobile-payment)** — Từ các công cụ như AllPay đến việc chấp nhận thanh toán của thương mại và dự phòng tiền mặt: Hiểu về sự khác biệt giữa phổ biến và thông dụng
+- **[Lịch sử quảng cáo Đài Loan](/vi/culture/taiwan-advertising-history)** — Ogilvy đứng sau "thẩm mỹ kinh tế" của PX Mart, và lịch sử trăm năm của quảng cáo Đài Loan từ độc quyền sự chú ý đến marketing cảm xúc
+- **[Doanh nghiệp Đài Loan: Uni-President](/vi/economy/taiwan-enterprise-uni-president)** — Câu chuyện về nửa còn lại trong cuộc hợp nhất của hai gã khổng lồ bán lẻ Đài Loan: Uni-President sáp nhập Carrefour và PX Mart sáp nhập RT-Mart
 
 ## Tài liệu tham khảo
 

@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T09:17:00+08:00'
+translatedAt: '2026-11-02T00:49:39.008261+00:00'
 ---
 
 # Phong trào nhạc dân gian Đài Loan
@@ -145,12 +145,12 @@ Trong thời đại toàn cầu hóa, chúng ta có thể cần nghĩ xem: Trong
 
 Phong trào nhạc dân gian Đài Loan trả lời cho chúng ta: Đừng sợ hãi khi dùng ngôn ngữ và câu chuyện của chính mình để sáng tạo. Bởi vì chỉ có như vậy, chúng ta mới có thể để lại âm thanh thực sự thuộc về chúng ta trên thế giới này.
 
-## Tài liệu tham khảo
+## Đọc thêm
 
-- [Phát triển nhạc pop Đài Loan](/music/台灣流行音樂發展) — Dòng trục chính từ La Đại (Luo Da) đến Trần Thư Tinh (Chen Qichen), Trần Hoa (Zhang Xuan) sau khi nhạc dân gian kết thúc
-- [Văn học Đài Loan sau giải phóng kiểm duyệt](/vi/art/post-martial-law-taiwanese-literature) — Một phong trào nhận thức văn hóa khác vào năm 1987, có cùng nguồn gốc với tinh thần "hát câu ca của chính mình" của nhạc dân gian
-- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một trục khác của sự tỉnh thức văn hóa cộng đồng địa phương của Đài Loan vào những năm 1970-80
-- [Tam Mỹ (Sanmao)](/vi/people/san-mao) — Người viết lời gốc của "[Cây ô liu]"，lời ca sau khi được sửa đổi lan truyền khắp không gian quan hệ tốc độ
+- [Sự phát triển của nhạc Pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Trục chính của dòng nhạc Hoa ngữ từ sau thời kỳ nhạc dân ca, trải dài từ La Đại Hữu (Lo Ta-yu) đến Trần Khởi Trinh (Cheer Chen) và Trương Huyền (Audrey Chen).
+- [Văn học Đài Loan sau giải tỏa thiết quân luật](/vi/art/post-martial-law-taiwanese-literature) — Một phong trào tự thức văn hóa khác sau khi bãi bỏ thiết quân luật vào năm 1987, có cùng nguồn gốc tinh thần với tư tưởng "hát câu ca của chính mình" trong nhạc dân ca.
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Phong trào Điện ảnh mới Đài Loan diễn ra cùng thời kỳ, là một trục khác của sự thức tỉnh văn hóa bản địa Đài Loan trong những năm 1970-1980.
+- [Tam Mao (San Mao)](/vi/people/san-mao) — Tác giả gốc của ca khúc 〈Cây Ô-liu〉, lời bài hát sau khi được viết lại đã lan tỏa khắp thế giới Hoa ngữ.
 
 ---
 

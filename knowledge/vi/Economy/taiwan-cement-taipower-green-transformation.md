@@ -1,6 +1,6 @@
 ---
-title: 'Đài Loan Cement: Huyền thoại chuyển đổi xanh của công ty niêm yết đầu tiên tại Đài Loan'
-description: 'Ra đời cùng Sở Giao dịch Chứng khoán Đài Loan năm 1962, mã cổ phiếu 1101 là biểu tượng khởi nguồn của thị trường chứng khoán Đài Loan. Sau 76 năm được ba thế hệ gia tộc họ Cố điều hành, Đài Loan Cement đã chuyển đổi thành công thành doanh nghiệp xanh, mở ra con đường mới trong kỷ nguyên trung hòa carbon dưới áp lực giảm phát thải toàn cầu.'
+title: 'TCC: Sự chuyển đổi xanh của công ty niêm yết đầu tiên tại Đài Loan'
+description: 'Sàn giao dịch chứng khoán Đài Loan ra đời vào năm 1962 nhờ sự hiện diện của doanh nghiệp này, với mã cổ phiếu 1101 tượng trưng cho nguồn gốc của thị trường chứng khoán Đài Loan. Trải qua 76 năm quản lý qua ba thế hệ nhà họ Cô, TCC đã dùng những lò xi măng để minh chứng cho kỳ tích xây dựng Đài Loan, và giờ đây đang chuyển mình thành doanh nghiệp xanh để đối mặt với kỷ nguyên trung hòa carbon.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-02T01:25:46.834957+00:00'
 ---
 
 > **Tóm tắt 30 giây**
@@ -107,16 +107,16 @@ Tỷ lệ phát thải carbon toàn cầu của ngành xi măng khoảng 7-8% (d
 
 ## Tài liệu tham khảo
 
-[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Toàn bộ lịch sử của Taiwan Cement, bao gồm các ghi nhận về việc thành lập năm 1946, tư nhân hóa năm 1954 và niêm yết năm 1962.
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Lịch sử phát triển đầy đủ của Taiwan Cement (Tai Ni), bao gồm các mốc thời gian như thành lập năm 1946, tư nhân hóa năm 1954 và niêm yết năm 1962.
 
-[^2]: [Báo cáo thường niên Đài Loan Cement Co., Ltd. năm 2024](https://www.taiwancement.com/) — Dữ liệu tài chính và hoạt động mới nhất của tập đoàn Đài Loan Cement.
+[^2]: [Báo cáo thường niên năm 2024 của Công ty Cổ phần Xi măng Đài Loan](https://www.taiwancement.com/) — Dữ liệu tài chính và hoạt động kinh doanh mới nhất của Tập đoàn Taiwan Cement.
 
-[^3]: [Tạp chí Thiên Hạ: Công ty niêm yết lâu đời nhất Đài Loan, Taiwan Cement vươn ra 13 quốc gia với 27 công ty con nhờ chiến lược "giảm xi măng"](https://www.cw.com.tw/article/5130723) — Báo cáo về chiến lược chuyển đổi xanh và sự đa dạng hóa của Đài Loan Cement.
+[^3]: [Tạp chí Common Wealth: Công ty niêm yết lâu đời nhất Đài Loan - Taiwan Cement vươn mình nhờ chiến lược "thoát ly xi măng", hiện diện tại 13 quốc gia và sở hữu 27 công ty con](https://www.cw.com.tw/article/5130723) — Báo cáo về chiến lược chuyển đổi xanh và bố cục đa dạng hóa của Taiwan Cement.
 
-[^4]: [Kính Tuần Gian: Hồi tưởng Cố Chấn Phủ nói về sự đổi mới của Taiwan Cement; Trương An Bình: Quyết tâm chuyển đổi thành công ty xanh](https://www.mirrormedia.mg/story/20210209fin001) — Phỏng vấn về định hướng chuyển đổi xanh của Đài Loan Cement sau khi ông Trương An Bình nhậm chức.
+[^4]: [Mirror Media: Hồi tưởng về Cố Chấn Phủ và sự đổi mới tại Taiwan Cement; Trương An Bình: Dốc toàn lực chuyển đổi thành doanh nghiệp xanh](https://www.mirrormedia.mg/story/20210209fin001) — Phỏng vấn về định hướng chuyển đổi xanh của Taiwan Cement sau khi Trương An Bình tiếp quản.
 
-[^5]: [TEJ Báo Kinh tế Đài Loan: Xây dựng vương quốc xi măng Đài Loan, hành trình tăng trưởng của gia tộc họ Cố và tập đoàn Đài Loan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Ghi chép đầy đủ về quá trình điều hành của ba thế hệ gia tộc họ Cố với Đài Loan Cement.
+[^5]: [TEJ Taiwan Economic Journal: Xây dựng đế chế xi măng Đài Loan, hành trình tăng trưởng của gia tộc họ Cố và Tập đoàn Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Ghi chép đầy đủ về ba thế hệ gia tộc họ Cố và bối cảnh điều hành của Taiwan Cement.
 
-[^6]: [Cung cấp thông tin từ hôn nhân giữa Cố Nghiêm Trác Vân (Goo Yanzhuo) và Cố Chấn Phủ, xây dựng vương quốc Taiwan Cement vươn ra năng lượng xanh — Thông tấn xã Trung ương](https://www.cna.com.tw/news/afe/202502050178.aspx) — Ghi chép đầy đủ về sự tư nhân hóa Đài Loan Cement năm 1954, ông Lâm Bách Thọ làm Chủ tịch đầu tiên, chức vụ Phó Tổng giám đốc của ông Cố Chấn Phủ và mạng lưới kết hôn gia tộc.
+[^6]: [Liên minh hôn nhân giữa gia tộc Cố Nghiêm Trác Vân và Cố Chấn Phủ: Thiết lập đế chế xi măng Đài Loan và lấn sân sang năng lượng xanh — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Ghi chép đầy đủ về việc tư nhân hóa Taiwan Cement năm 1954, Lâm Bách Thọ là Chủ tịch đầu tiên, chức vụ Hiệp lý của Cố Chấn Phủ và mạng lưới liên minh gia tộc.
 
-[^7]: [Cố Thành Duẫn qua đời đột ngột; con rể Trương An Bình tiếp quản tập đoàn Đài Loan Cement — Thời báo Tự do](https://news.ltn.com.tw/news/focus/paper/1073619) — Xác nhận quá trình ông Cố Thành Duẫn qua đời vào ngày 23/1/2017 và thân phận "con rể" của ông Trương An Bình (Cố Hoài Như là con gái út của ông Cố Chấn Phủ). Xem thêm [Kính Tuần Gian: Bí mật cái chết đột ngột của Cố Thành Duẫn](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Cố Thành Doãn đột ngột qua đời, em rể Trương An Bình tiếp quản Tập đoàn Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Xác nhận diễn biến về sự ra đi của Cố Thành Doãn vào ngày 23/01/2017 và thân phận "em rể" của Trương An Bình (Cố Hoài Như là con gái út của Cố Chấn Phủ). Xem thêm [Mirror Media: Nội tình về sự ra đi đột ngột của Cố Thành Doãn](https://www.mirrormedia.mg/story/20170124bus004).

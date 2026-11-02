@@ -1,108 +1,108 @@
 ---
-title: "Nước ngọt Hắc Tùng và Sa Sĩ: Từ 'hàng ba' bị chê bai đến truyền kỳ trăm năm đánh bại các ông lớn cola"
-description: "Đây không phải là một chai nước ngọt có ga bình thường, mà là một sử sự tồn vong của vốn dân tộc Đài Loan trong làn sóng thống chế ngày xưa và toàn cầu hóa, về cách họ nhờ '17 đồng tài sản' và 'Tương lai của tôi không phải giấc mơ' mà sống sót."
+title: 'Nước ngọt HeySong và Sarsaparilla: Từ "hàng hạng ba" bị chế giễu đến việc đánh bại các đế chế Cola'
+description: 'Đây không chỉ là một chai nước giải khát có ga thông thường, mà là câu chuyện sinh tồn của tư bản dân tộc Đài Loan giữa sự kiểm soát thời kỳ Nhật thuộc và làn sóng toàn cầu hóa, bằng cách dựa vào "tài sản 17 Đài tệ" và tinh thần "tương lai của tôi không phải là mơ".'
 date: 2026-04-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
-    'Nước ngọt Hắc Tùng',
-    'Hắc Tùng Sa Sĩ',
+    'Nước ngọt HeySong',
+    'HeySong Sarsaparilla',
     'Thương hiệu Đài Loan',
     'Văn hóa ẩm thực',
-    'Trương Vũ Sanh',
+    'Trương Vũ Sinh',
   ]
-readingTime: 12
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-07-26T02:07:15+08:00'
+translatedAt: '2026-11-02T05:45:25+08:00'
 ---
 
-> **Tóm tắt 30 giây:**
-> Năm 1925, Trương Văn Kỳ tại ga sau nhà ga Đài Bắc thành lập Hình Hân Thương Hội, khai mở hành trình trăm năm của Hắc Tùng. Nó từng bị Nhật商 khinh thường gọi là "nước ngọt ba", cũng từng trong năm 1949 cải cách tiền tệ thấy tài sản co lại trong chốc lát chỉ còn 17 đồng. Tuy nhiên, chính chai nước này có nguồn gốc từ Root Beer của Mỹ, du nhập Đài Loan qua Thượng Hải, đã trong thập niên 1980 hòa quyện cùng giọng hát Trương Vũ Sanh, trở thành biểu tượng văn hóa kiên cường nhất trong ký ức tập thể người Đài Loan.
+> **Tóm tắt trong 30 giây:**
+> Năm 1925, Trương Văn Kỷ (Chang Wen-chi) đã thành lập Thương hội Tiến Hinh tại ga sau Đài Bắc, mở ra hành trình trăm năm của HeySong. Thương hiệu này từng bị các doanh nghiệp Nhật khinh miệt gọi là "nước ngọt hạng ba", và cũng từng chứng kiến tài sản bị thu hẹp xuống chỉ còn 17 Đài tệ trong cuộc cải cách tiền tệ năm 1949. Tuy nhiên, chính thức uống độc đáo có nguồn gốc từ Root Beer của Mỹ, được du nhập vào Đài Loan qua Thượng Hải này, đã hòa quyện cùng tiếng hát của Trương Vũ Sinh (Chang Yu-sheng) vào thập niên 1980, trở thành một biểu tượng văn hóa kiên cường nhất trong ký ức tập thể của người dân Đài Loan.
 
-Năm 1924 cuối, đường Chánh Châu Đài Bắc, ga sau nhà ga, không khí ngập mùi than khói và sự phấn khích của buôn bán. Trương Văn Kỳ 22 tuổi gom đủ vốn, mua lại một nhà máy sản xuất "nước ngọt bi" (marble soda) tên "Niko Niko"[^1]. Lúc bấy giờ chàng có lẽ chưa ngờ, sự nghiệp "mát lạnh" này sẽ trải qua hai lần gần như bị triệt tiêu tài sản, và cuối cùng biến thành nước uống quốc dân đại diện nhất Đài Loan[^2].
+Vào cuối năm 1924, tại khu vực ga sau đường Trịnh Châu, Đài Bắc, không khí tràn ngập khói than và sự náo nhiệt của việc kinh doanh. Trương Văn Kỷ khi đó 22 tuổi đã tích góp đủ vốn để mua lại nhà máy "Niko Niko" chuyên sản xuất nước ngọt bi (marble soda)[^1]. Có lẽ lúc bấy giờ ông không ngờ rằng, "sự nghiệp giải khát" này sẽ trải qua hai lần suýt mất trắng tài sản và cuối cùng trở thành thức uống quốc dân tiêu biểu nhất của Đài Loan[^2].
 
-### Từ Thượng Hải đến Đài Loan: Sự chuyển sinh在地 của Root Beer
+### Từ Thượng Hải đến Đài Loan: Sự tái sinh bản địa của Root Beer
 
-Sản phẩm nổi tiếng nhất của Hắc Tùng — "Hắc Tùng Sa Sĩ", nguồn gốc thực chất là một cuộc thử nghiệm khẩu vị跨 quốc gia. Nguyên mẫu của Sa Sĩ là Root Beer (nước ngọt rễ cây) phổ biến tại Mỹ, thập niên 1930 du nhập vào Thượng Hải[^3]. Trương Văn Kỳ khi khảo sát tại Thượng Hải phát hiện ra loại đồ uống có vị thảo dược đặc biệt này, sau đó đưa về Đài Loan, thêm bí quyết độc quyền điều chế, cải良 thành "Hắc Tùng Sa Sĩ" phù hợp hơn với khẩu vị người Đài Loan[^4].
+Sản phẩm nổi tiếng nhất của HeySong là "HeySong Sarsaparilla", thực chất là kết quả của một cuộc thử nghiệm hương vị xuyên quốc gia. Nguyên mẫu của Sarsaparilla là món Root Beer (nước rễ cây) phổ biến tại Mỹ, loại đồ uống này đã được du nhập vào Thượng Hải vào thập niên 1930[^3]. Trong một chuyến khảo sát tại Thượng Hải, Trương Văn Kỷ đã phát hiện ra thức uống có hương vị thảo mộc độc đáo này, sau đó ông đưa nó về Đài Loan, kết hợp với công thức bí truyền để cải tiến thành "HeySong Sarsaparilla" phù hợp hơn với khẩu vị người Đài Loan[^4].
 
-Tuy nhiên, thập niên 1930 tại Đài Loan, thị trường nước ngọt có giai cấp. Hàng Nhật Bản nhập khẩu như Kirin (麒麟), Mitsuya (三矢) được xem là "nước ngọt một", trong khi hàng sản xuất nội địa Đài Loan bị Nhật商 chê bai là "hàng ba"[^5]. Để phản công, Trương Văn Kỳ năm 1931 chính thức tung ra "Nước ngọt Hắc Tùng", cố gắng dùng thương hiệu nội địa chất lượng cao để đột phá[^6].
+Tuy nhiên, tại Đài Loan vào thập niên 1930, thị trường nước ngọt có sự phân chia giai cấp rõ rệt. Các thương hiệu nhập khẩu từ Nhật Bản như Kirin hay Mitsuya được xem là "nước ngọt hạng nhất", trong khi các sản phẩm sản xuất tại địa phương Đài Loan lại bị các doanh nghiệp Nhật chế giễu là "hàng hạng ba"[^5]. Để đáp trả, vào năm 1931, Trương Văn Kỷ đã chính thức tung ra "Nước ngọt HeySong", nỗ lực bứt phá bằng một thương hiệu nội địa chất lượng cao[^6].
 
-### Thời kỳ đen tối bị đánh số: Khi thương hiệu biến mất
+### Thời kỳ đen tối bị đánh số: Khi nhãn hiệu biến mất
 
-Thử thách thực sự không chỉ là cạnh tranh, mà còn là chính trị. Năm 1938, khi bóng ma chiến tranh thế giới thứ hai bao trùm, Tổng đốc phủ Đài Loan thực hiện chính sách "Tổ hợp thống chế", bán ép tiếp quản tất cả nhà máy nước ngọt dân营[^7]. Nhà máy Trung Luân mới xong của Hắc Tùng, bị đánh số lạnh lùng thành "Nhà máy thứ tám"[^5].
+Thách thức thực sự không chỉ đến từ cạnh tranh mà còn từ chính trị. Năm 1938, dưới bóng đen của Thế chiến thứ hai, Phủ Toàn quyền Đài Loan đã thực thi chính sách "Tổ hợp Kiểm soát", tiếp quản một cách bán cưỡng chế tất cả các nhà máy nước ngọt tư nhân[^7]. Nhà máy Trung Luân vừa mới xây dựng xong của HeySong đã bị đánh số một cách lạnh lùng là "Nhà máy số 8"[^5].
 
-"Hình như chuyên xây cho tổ hợp thống chế vậy," em trai Trương Văn Kỳ là Trương Hữu Thịnh lúc bấy giờ thở dài bất lực (theo 《Hắc Tùng trăm năm chi đạo》)[^5]. Những năm đó, thương hiệu Hắc Tùng bị bãi bỏ, chỉ được sản xuất nước ngọt dán nhãn thống nhất "Nam Tiến" (南進) hoặc "Tổ hợp" (組合). Đó là một giai đoạn đen tối mất hoàn toàn quyền điều hành, giấc mơ thương hiệu của người Đài Loan bị ép im lặng dưới máy móc chiến tranh[^7].
+"Cảm giác như nhà máy được xây dựng đặc biệt để phục vụ cho Tổ hợp Kiểm soát vậy," Trương Hữu Thịnh (Chang Yu-sheng), em trai của Trương Văn Kỷ, đã cảm thán đầy bất lực vào thời điểm đó (theo cuốn _Con đường trăm năm của HeySong_)[^5]. Trong những năm ấy, nhãn hiệu của HeySong bị bãi bỏ, họ chỉ có thể sản xuất nước ngọt với nhãn mác thống nhất mang tên "Nam Tiến" hoặc "Tổ hợp". Đây là một giai đoạn đen tối khi quyền điều hành hoàn toàn bị mất đi, giấc mơ thương hiệu của người Đài Loan buộc phải im tiếng dưới guồng quay của cỗ máy chiến tranh[^7].
 
-📝 Ghi chú người biên soạn: Thương hiệu yếu đuối nhất, không phải lúc không có tiền, mà là lúc không được phép nhắc đến tên mình.
+📝 _Ghi chú của người giám tuyển: Thời điểm thương hiệu mong manh nhất không phải là khi thiếu tiền, mà là khi ngay cả cái tên cũng không được phép nhắc đến._
 
-### Ký tích 17 đồng: Từ tài sản归零 đến khởi đầu lại
+### Phép màu 17 Đài tệ: Từ trắng tay đến khởi đầu mới
 
-Năm 1945 Đài Loan quang phục, Trương Hữu Thịnh hào hứng nói: "Nghành nước ngọt theo đó lại thấy ánh sáng." [^5] Nhưng trớ trêu của số phận chưa kết thúc. Năm 1949, Chính phủ Quốc dân thực hiện cải cách tiền tệ, quy định "bốn vạn đồng cũ đổi một đồng mới"[^8].
+Năm 1945, sau khi Đài Loan quang phục, Trương Hữu Thịnh đã phấn khởi nói: "Ngành nước ngọt đã thấy lại ánh sáng."[^5] Nhưng trò đùa của số phận vẫn chưa dừng lại. Năm 1949, Chính phủ Quốc dân thực hiện cải cách tiền tệ, quy định "40.000 Đài tệ cũ đổi lấy 1 Đài tệ mới"[^8].
 
-Chỉ thị này đối với Hắc Tùng là một cú đánh triệt để. 68 vạn đồng cũ Trương Văn Kỳ đầu tư tích lũy sau chiến tranh, sau đổi tiền trong chốc lát co lại thành chỉ còn 17 đồng mới[^5]. Chủ tịch hiện tại Trương Bân Đường đến nay vẫn mang theo bản sao danh sách cổ đông, nhắc nhở mình "đừng quên năm xưa"[^8].
+Chính sách này là một cú giáng hủy diệt đối với HeySong. Tổng tài sản đầu tư tích lũy sau chiến tranh của Trương Văn Kỷ trị giá 680.000 Đài tệ cũ, sau khi quy đổi đã lập tức thu hẹp xuống chỉ còn vỏn vẹn 17 Đài tệ mới[^5]. Chủ tịch đương nhiệm Trương Bân Đường (Chang Pin-tang) cho đến nay vẫn luôn mang theo bản sao của sổ cổ đông năm đó để tự nhắc nhở mình "đừng quên năm xưa"[^8].
 
-17 đồng này không làm nhà Trương lui bước, ngược lại khơi dậy sự kiên cường mạnh mẽ hơn. Năm 1950, Hắc Tùng Sa Sĩ chính thức ra mắt, vị đặc biệt mang hơi vị thuốc này, bất ngờ hợp với thói quen "hỏa khí" (giảm nhiệt) trong ẩm thực người Đài Loan, khai mở thời hoàng kim của Hắc Tùng[^9].
+Số tiền 17 Đài tệ này không làm gia tộc họ Trương chùn bước, mà ngược lại còn kích thích sự kiên cường mạnh mẽ hơn. Năm 1950, HeySong Sarsaparilla chính thức ra mắt thị trường. Hương vị độc đáo mang hơi hướng giống như thuốc thảo mộc đó đã vô tình phù hợp với thói quen ăn uống "giảm hỏa khí" (thanh nhiệt) của người Đài Loan, mở ra thời hoàng kim cho HeySong[^9].
 
-### Tránh bóng ma SARS: Sự kiện đổi tên HeySong
+### Tránh bóng đen SARS: Giai thoại đổi tên của HeySong
 
-Từ năm 1950 ra mắt, Hắc Tùng Sa Sĩ luôn dùng "Sarsaparilla" làm tên thương hiệu tiếng Anh. Tuy nhiên, năm 2003 Đài Loan bùng phát dịch SARS, do viết tắt và phát âm của "Sarsaparilla" quá gần với SARS, để tránh liên tưởng tiêu cực từ người tiêu dùng, Hắc Tùng ngay lập tức đổi tên tiếng Anh thành "HeySong Sarsaparilla", tên tiếng Trung giữ nguyên, và dùng đến nay[^3].
+Kể từ khi ra mắt vào năm 1950, HeySong Sarsaparilla luôn sử dụng "Sarsaparilla" làm tên thương hiệu tiếng Anh. Tuy nhiên, khi dịch bệnh SARS bùng phát tại Đài Loan vào năm 2003, do chữ viết tắt và cách phát âm của "Sarsaparilla" cực kỳ gần với "SARS", để tránh việc người tiêu dùng có những liên tưởng tiêu cực, HeySong đã ngay lập tức đổi tên tiếng Anh thành "HeySong Sarsaparilla", trong khi tên tiếng Trung vẫn giữ nguyên như hiện nay[^3].
 
-Về lần đổi tên này, dân gian còn có một thuyết khác: cho rằng do các đối thủ Sa Sĩ khác gia nhập thị trường, Hắc Tùng để tăng cường nhận diện thương hiệu và bảo hộ quyền thương hiệu, mới quyết định thêm tên doanh nghiệp "HeySong"[^3]. Dù động cơ thực tế ra sao, lần đổi tên này đã trở thành một chú thích thú vị trong sử thương hiệu Đài Loan, xen kẽ với sự kiện xã hội lớn.
+Về việc đổi tên này, dân gian cũng có một cách giải thích khác: cho rằng do các đối thủ cạnh tranh cùng dòng Sarsaparilla gia nhập thị trường, HeySong quyết định thêm tên doanh nghiệp "HeySong" vào để tăng cường nhận diện thương hiệu và bảo vệ quyền nhãn hiệu[^3]. Dù động cơ thực sự là gì, việc đổi tên này đã trở thành một chú thích thú vị trong lịch sử thương hiệu Đài Loan, đan xen với một sự kiện xã hội trọng đại.
 
-### Tương lai của tôi không phải giấc mơ: Dấu ấn奋鬥 trong giai điệu
+### Tương lai của tôi không phải là mơ: Dấu ấn phấn đấu trong tiếng hát
 
-Vào thập niên 1980, Hắc Tùng Sa Sĩ đón nhận khoảnh khắc văn hóa rực rỡ nhất trong sử thương hiệu. Năm 1988, Hắc Tùng Sa Sĩ tung ra một quảng cáo do샛별 ca sĩ Trương Vũ Sanh đóng, nhạc nền chính là bài hát lan tỏa khắp ngõ ngách "Tương lai của tôi không phải giấc mơ"[^10].
+Bước sang thập niên 1980, HeySong Sarsaparilla đón nhận khoảnh khắc văn hóa huy hoàng nhất trong lịch sử thương hiệu. Năm 1988, HeySong đã tung ra một quảng cáo với sự góp mặt của ca sĩ mới nổi Trương Vũ Sinh, và nhạc nền chính là ca khúc "Tương lai của tôi không phải là mơ" (My Future is Not a Dream) đã làm mưa làm gió khắp các ngõ ngách[^10].
 
-Bài hát này cùng Hắc Tùng Sa Sĩ kết hợp, chính xác bắt trọn không khí xã hội Đài Loan sau khi giải nghiêm, kinh tế cất cánh, khát vọng và tinh thần奋鬥 của giới trẻ. Giọng hát trong trẻo của Trương Vũ Sanh hòa quyện cùng cảm giác sảng khoái của bọt khí Hắc Tùng Sa Sĩ, khiến "Hắc Tùng Sa Sĩ" không còn chỉ là một chai nước uống, mà thành了 Đại diện cho giấc mơ Đài Loan[^11].
+Sự kết hợp giữa bài hát này và HeySong Sarsaparilla đã nắm bắt chính xác tinh thần phấn đấu và khát vọng tương lai của giới trẻ Đài Loan trong thời kỳ kinh tế cất cánh sau khi bãi bỏ thiết quân luật. Giọng hát trong trẻo của Trương Vũ Sinh hòa quyện cùng cảm giác sảng khoái từ những bọt khí của HeySong Sarsaparilla, khiến sản phẩm này không còn chỉ là một chai nước giải khát, mà trở thành biểu tượng cho giấc mơ Đài Loan[^11].
 
-📝 Ghi chú người biên soạn: Ở Đài Loan, thuật toán mạnh mẽ nhất thường không phải dữ liệu, mà là tình cảm "cửa hàng tạp hóa" giữa người với người, và những giai điệu đúng lúc thấm vào lòng người.
+📝 _Ghi chú của người giám tuyển: Tại Đài Loan, thuật toán mạnh mẽ nhất thường không phải là dữ liệu, mà là tình cảm kiểu "tiệm tạp hóa" giữa người với người, và những giai điệu có thể chạm đến trái tim vào những thời điểm then chốt._
 
-### Cuộc chuyển biến của sự trung thực: Bão Hoàng cam tố năm 1984
+### Bước ngoặt về uy tín: Cơn bão chervosol năm 1984
 
-Trước khi giọng hát Trương Vũ Sanh vang lên, Hắc Tùng từng đối mặt khủng hoảng triệt để. Năm 1984, Hội bảo vệ người tiêu dùng kiểm nghiệm phát hiện Sa Sĩ trên thị trường chứa chất gây ung thư "Hoàng cam tố" (Safrole)[^12]. Hắc Tùng không chọn cách biện hộ, mà ngay lập tức tuyên bố thu hồi toàn bộ Sa Sĩ trên thị trường, và triệt để thay đổi công thức, nghiên cứu ra vị mới hoàn toàn không chứa Hoàng cam tố[^13]. Cái "đứt tay cứu người" này, dù gây thiệt hại khổng lồ, đã đổi lấy niềm tin lâu dài của người tiêu dùng.
+Trước khi tiếng hát của Trương Vũ Sinh vang lên, HeySong từng đối mặt với một cuộc khủng hoảng mang tính hủy diệt. Năm 1984, Hiệp hội Người tiêu dùng đã kiểm nghiệm và phát hiện Sarsaparilla đang bán trên thị trường có chứa chất gây ung thư "chervosol" (guaiacol)[^12]. HeySong đã không chọn cách biện minh, mà ngay lập tức tuyên bố thu hồi toàn bộ sản phẩm Sarsaparilla trên thị trường, đồng thời thay đổi hoàn toàn công thức để nghiên cứu ra hương vị mới không còn chứa chất này[^13]. Hành động "quyết đoán cắt bỏ phần đau đớn" này dù gây tổn thất lớn nhưng đã giành được sự tin tưởng lâu dài từ người tiêu dùng.
 
-### Hậu韵: Chai bọt thêm muối
+### Dư âm: Chai nước có ga pha thêm muối
 
-Hắc Tùng ngày nay đã trải qua trăm năm, từ nước ngọt bi đến máy bán hàng tự động thông minh tương tác, nó vẫn đứng vững trên đường phố Đài Loan[^14]. Dân gian truyền miệng "Sa Sĩ thêm muối" có thể giảm hỏa khí, Hắc Tùng năm 2000 thuận thế tung ra sản phẩm "Sa Sĩ thêm muối"[^15].
+Ngày nay, HeySong đã đi qua hành trình trăm năm, từ nước ngọt bi đến các máy bán hàng tự động thông minh, thương hiệu này vẫn hiện diện trên khắp đường phố Đài Loan[^14]. Dân gian truyền tai nhau bí quyết "Sarsaparilla thêm muối" giúp thanh nhiệt, và HeySong thậm chí đã tung ra sản phẩm "HeySong Sarsaparilla thêm muối" vào năm 2000[^15].
 
-Năm 2025, Hắc Tùng kỷ niệm 100 năm thành lập[^1]. Nhìn lại điểm xuất phát 17 đồng, câu chuyện Hắc Tùng cho chúng ta thấy: trên đảo đảo này, những thương hiệu bền vững nhất, thường là những người trong lúc tối tăm nhất, vẫn tin rằng "sự mát lạnh" có thể mang lại hy vọng.
+Năm 2025, HeySong kỷ niệm 100 năm thành lập[^1]. Nhìn lại điểm khởi đầu từ 17 Đài tệ, câu chuyện của HeySong nói với chúng ta rằng: trên hòn đảo Đài Loan này, những thương hiệu bền bỉ nhất thường là những thương hiệu vẫn luôn tin rằng "sự mát lành" có thể mang lại hy vọng ngay cả trong những thời khắc đen tối nhất.
 
-### Nguồn
+### Nguồn tham khảo
 
-[^1]: [Trang web chính thức Hắc Tùng: Tìm hiểu Hắc Tùng](https://www.heysong.com.tw/about/) — Trang web chính thức Cổ phần Hắc Tùng, chứa sử lịch sử trăm năm và giới thiệu thương hiệu
+[^1]: [Trang web chính thức của HeySong: Tìm hiểu về HeySong](https://www.heysong.com.tw/about/) — Trang web chính thức của Công ty Cổ phần HeySong, bao gồm lịch sử phát triển trăm năm và giới thiệu thương hiệu.
 
-[^2]: [Readmoo: Không chỉ đồ uống, mà là ký ức — Phong hoa trăm năm Hắc Tùng](https://news.readmoo.com.tw/2017/08/09/heysong/) — Nhìn lại sử thương hiệu Hắc Tùng, từ nước ngọt bi đến梳 lý ký ức văn hóa hiện đại
+[^2]: [Readmoo: Không chỉ là đồ uống, mà còn là ký ức — Sự huy hoàng trăm năm của HeySong](https://news.readmoo.com.tw/2017/08/09/heysong/) — Nhìn lại lịch sử thương hiệu HeySong, từ nước ngọt bi đến những ký ức văn hóa hiện đại.
 
-[^3]: [Wikipedia: Hắc Tùng Sa Sĩ](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9D%BE%E6%B2%99%E5%A3%AB) — Điều mục Hắc Tùng Sa Sĩ, chứa nguyên do đổi tên SARS và sử lịch sử đồ uống Sa Sĩ
+[^3]: [Wikipedia: HeySong Sarsaparilla](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9D%BE%E6%B2%99%E5%A3%AB) — Mục từ HeySong Sarsaparilla, bao gồm lý do đổi tên vì SARS và lịch sử phát triển của đồ uống Sarsaparilla.
 
-[^4]: [Sedaijin: Vị Đài Loan trong nước ngọt! Tại sao Hắc Tùng Sa Sĩ lại thâm nhập tuổi thơ mọi người?](https://sedaijin.com/tw/p/106/about-hey-song-sarsaparilla) — Phân tích lý do Hắc Tùng Sa Sĩ dung nhập thói quen ẩm thực và ký ức tập thể Đài Loan
+[^4]: [Sedaijin: Nước ngọt vị Đài Loan! Tại sao HeySong Sarsaparilla có thể ăn sâu vào tuổi thơ của mỗi người?](https://sedaijin.com/tw/p/106/about-hey-song-sarsaparilla) — Phân tích lý do HeySong Sarsaparilla hòa nhập vào thói quen ăn uống và ký ức tập thể của Đài Loan.
 
-[^5]: [Phong Truyền媒: Năm xưa "nước ngọt ba" sản xuất Đài Loan, làm sao chống lại ma chưởng hội xã Nhật Bản?](https://www.storm.mg/lifestyle/308618) — Báo đạo sử sáng lập Hắc Tùng, chứa khinh thường "nước ngọt ba" ngày Nhật trị và áp chế tổ hợp thống chế
+[^5]: [Phong Chuan Mei: Nước ngọt "hạng ba" sản xuất tại Đài Loan năm xưa, đã kháng cự như thế nào trước móng vuốt của các công ty Nhật Bản?](https://www.storm.mg/lifestyle/308618) — Báo cáo về lịch sử khởi nghiệp của HeySong, bao gồm sự khinh miệt đối với "nước ngọt hạng ba" thời Nhật thuộc và sự áp chế của Tổ hợp Kiểm soát.
 
-[^6]: [Bộ Nông nghiệp: 【Điển tàng lịch sử】 Vị carbonic sử Đài Loan — Từ nước ngọt bi đến chiến tranh trăm năm Hắc Tùng Sa Sĩ](https://www.agriharvest.tw/archives/76924/) — Bài viết điển tàng Bộ Nông nghiệp,梳 lý sử cạnh tranh nước ngọt có ga Đài Loan từ Nhật trị đến nay
+[^6]: [Bộ Nông nghiệp: 【Lưu trữ lịch sử】Vị carbonat của lịch sử Đài Loan: Từ nước ngọt bi đến cuộc chiến trăm năm của HeySong Sarsaparilla](https://www.agriharvest.tw/archives/76924/) — Bài viết lưu trữ của Bộ Nông nghiệp, hệ thống hóa lịch sử cạnh tranh đồ uống có ga tại Đài Loan từ thời Nhật thuộc đến nay.
 
-[^7]: [Trang web chính thức Hắc Tùng: Sự tích niên biểu năm 1938](https://www.heysong.com.tw/about/history/) — Niên biểu lịch sử chính thức, ghi nhận thời kỳ tổ hợp thống chế nhà máy bị đánh số thành nhà máy thứ tám
+[^7]: [Trang web chính thức của HeySong: Ghi chép lịch sử - Mục năm 1938](https://www.heysong.com.tw/about/history/) — Niên biểu lịch sử chính thức, ghi lại việc nhà máy bị đánh số là Nhà máy số 8 trong thời kỳ Tổ hợp Kiểm soát.
 
-[^8]: [Phong Truyền媒: Năm xưa "nước ngọt ba" sản xuất Đài Loan, làm sao chống lại ma chưởng hội xã Nhật Bản? (Trang 2)](https://www.storm.mg/lifestyle/308618?page=2) — Tiếp báo đạo, chứa kỳ tích 17 đồng và tác động cải cách tiền tệ đến tài sản Hắc Tùng
+[^8]: [Phong Chuan Mei: Nước ngọt "hạng ba" sản xuất tại Đài Loan năm xưa, đã kháng cự như thế nào trước móng vuốt của các công ty Nhật Bản? (Trang 2)](https://www.storm.mg/lifestyle/308618?page=2) — Trang tiếp theo của báo cáo, bao gồm phép màu 17 Đài tệ và tác động của cải cách tiền tệ đối với tài sản của HeySong.
 
-[^9]: [Văn hóa Thiên Hạ: Thời đại "nước ngọt đen" Hắc Tùng khai mở](https://bookzone.cwgv.com.tw/article/8540) — Phân tích năm 1950 Hắc Tùng Sa Sĩ ra mắt sau khai mở thị trường "nước ngọt đen" Đài Loan
+[^9]: [Tianxia Culture: Thời đại "nước ngọt đen" do HeySong mở ra](https://bookzone.cwgv.com.tw/article/8540) — Phân tích về việc HeySong Sarsaparilla khai phá thị trường "nước ngọt đen" tại Đài Loan sau khi ra mắt năm 1950.
 
-[^10]: [Báo Thời quang: Quảng cáo Hắc Tùng Sa Sĩ năm 1988: Trương Vũ Sanh "Tương lai của tôi không phải giấc mơ"](https://time.udn.com/udntime/story/122835/6403586) — Hình ảnh quảng cáo gốc năm 1988 và bối cảnh lịch sử biểu diễn của Trương Vũ Sanh
+[^10]: [Bao Shi Guang: Quảng cáo HeySong Sarsaparilla năm 1988: Trương Vũ Sinh với "Tương lai của tôi không phải là mơ"](https://time.udn.com/udntime/story/122835/6403586) — Hồ sơ lịch sử về hình ảnh quảng cáo gốc năm 1988 và bối cảnh biểu diễn của Trương Vũ Sinh.
 
-[^11]: [Trung ương社: Hắc Tùng ôm lấy biến cách bước tới trăm năm tiếp theo](https://www.cna.com.tw/news/afe/202504140278.aspx) — Báo đạo trăm năm 2025, nói về chuyển型 thương hiệu và di sản văn hóa quảng cáo Trương Vũ Sanh
+[^11]: [CNA: HeySong ôm lấy sự đổi mới, tiến tới thế kỷ tiếp theo](https://www.cna.com.tw/news/afe/202504140278.aspx) — Báo cáo kỷ niệm 100 năm vào năm 2025, thảo luận về chuyển đổi thương hiệu và di sản văn hóa từ quảng cáo của Trương Vũ Sinh.
 
-[^12]: [Cao công Bắc Tân: Thưởng thức Hắc Tùng sáu mươi năm (PDF)](https://www.ntvs.ntpc.edu.tw/var/file/0/1000/img/148/2010110921193508.pdf) — Bài viết học thuật nhìn lại, chứa sự việc bão Hoàng cam tố năm 1984 và toàn bộ quá trình thu hồi
+[^12]: [Trường Trung học Thực nghiệp Cao đẳng Tân Bắc: 60 năm thưởng thức HeySong (PDF)](https://www.ntvs.ntpc.edu.tw/var/file/0/1000/img/148/2010110921193508.pdf) — Bài viết hồi cứu mang tính học thuật, bao gồm toàn bộ sự việc về cơn bão chervosol năm 1984 và việc thu hồi sản phẩm.
 
-[^13]: [Trung tâm Thông tin Môi trường: Bão Sa Sĩ qua lại](https://e-info.org.tw/node/95629) — Báo đạo Trung tâm Thông tin Môi trường, ghi nhận Hắc Tùng năm 1984 đổi công thức ứng phó khủng hoảng Hoàng cam tố
+[^13]: [Trung tâm Thông tin Môi trường: Sự đến và đi của cơn bão Sarsaparilla](https://e-info.org.tw/node/95629) — Báo cáo từ Trung tâm Thông tin Môi trường, ghi lại việc HeySong thay đổi công thức để ứng phó với khủng hoảng chervosol năm 1984.
 
-[^14]: [Trang web chính thức Hắc Tùng: Sự tích niên biểu năm 1959](https://www.heysong.com.tw/about/history/) — Niên biểu lịch sử chính thức, ghi nhận cột mốc hiện đại hóa kênh phân phối như máy bán hàng tự động
+[^14]: [Trang web chính thức của HeySong: Ghi chép lịch sử - Mục năm 1959](https://www.heysong.com.tw/about/history/) — Niên biểu lịch sử chính thức, ghi lại cột mốc bố trí các kênh phân phối hiện đại như máy bán hàng tự động.
 
-[^15]: [Tín Truyền媒: Mùa hè chính là phải uống một ly: Hắc Tùng Sa Sĩ — Đồ uống mát quốc dân kinh điển người Đài Loan](https://www.cmmedia.com.tw/home/articles/23235) — Đặc稿 Tín Truyền媒, chứa phương thuốc dân gian Sa Sĩ thêm muối và sự việc năm 2000 Sa Sĩ thêm muối ra mắt
+[^15]: [Xin Chuan Mei: Mùa hè là phải uống một ly: HeySong Sarsaparilla - Thức uống quốc dân kinh điển của người Đài Loan](https://www.cmmedia.com.tw/home/articles/23235) — Bài viết đặc biệt của Xin Chuan Mei, bao gồm bí quyết dân gian thêm muối vào Sarsaparilla và quá trình ra mắt sản phẩm Sarsaparilla thêm muối năm 2000.

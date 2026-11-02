@@ -20,10 +20,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0c7501412dac27dc'
-sourceBodyHash: 'sha256:9108cdc7ca125f4b'
-translatedAt: '2026-09-28T08:43:09+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:cf3dd21873bec862'
+sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
+translatedAt: '2026-11-02T01:11:37.264861+00:00'
 ---
 
 > **30 giây tóm tắt:** Tiêu Thượng Nông (fOx) là đồng sáng lập INSIDE Những điều quan sát xu hướng mạng xã hội và iCook (gọi tắt iCook). Năm 2009, ông cùng năm người bạn bắt đầu một trong những trang báo công nghệ đầu tiên mang góc nhìn phân tích tại Đài Loan, năm 2011 cùng ra mắt nền tảng công thức nấu ăn lớn nhất. Hai công ty này đều bị tập đoàn truyền thông TNL Media Group mua vào năm 2018 và 2022.
@@ -92,30 +92,30 @@ Anh trai trưởng làm việc của ông là kết nối người với ngườ
 
 Mối quan hệ này một phần giải thích tại sao ông có thể đồng thời hoạt động tại INSIDE và iCook, và vẫn duy trì vai trò quan sát sau khi bán công ty — nói cách khác, "cộng đồng mạng tại Đài Loan biết ông" không bị mất đi vì công ty của ông đã bị bán.
 
-## Đối mặt với AI: Người nói "không cần lo lắng"
+## Đối mặt với AI: Người nói rằng "đừng lo lắng"
 
-Tháng 5 năm 2023, sau khi ChatGPT ra mắt khoảng sáu tháng, iCook ra mắt tính năng hỗ trợ công thức nấu ăn bằng AI.[^wazaiii] Vào thời điểm đó, Tiêu Thượng Nông cũng sử dụng công cụ AI để phát triển một ứng dụng quét thẻ tên, đưa lên cửa hàng ứng dụng và thu nhập ổn định hàng chục nghìn USD mỗi tháng.[^tnl]
+Vào tháng 5 năm 2023, nửa năm sau khi ChatGPT ra mắt, iCook đã giới thiệu tính năng hỗ trợ công thức nấu ăn bằng AI. [^wazaiii] Cùng thời điểm đó, Tiêu Thượng Nông (Fox Hsiao) cũng đưa một ứng dụng quét danh thiếp sử dụng công cụ AI lên kệ, mang về nguồn thu ổn định hơn NT$10.000 mỗi tháng. [^tnl]
 
-Ông nói: "Tôi là một người tăng trưởng công nghệ, tất nhiên sẽ thấy công nghệ làm cuộc sống của chúng ta trở nên phong phú và tiện lợi hơn."[^wazaiii]
+Ông nói: "Tôi là một người lạc quan về công nghệ, tất nhiên tôi cảm thấy công nghệ giúp cuộc sống của chúng ta trở nên phong phú và tiện lợi hơn." [^wazaiii]
 
-Ông cũng nói: "Vì hệ thống không phải do chúng tôi kiểm soát, nên việc lo lắng là vô ích. Tôi thường không lo lắng."[^wazaiii]
+Ông cũng chia sẻ: "Nút điều khiển hoàn toàn không nằm trong tay chúng ta, vì vậy lo lắng cũng vô ích, tôi có xu hướng chọn cách không bận tâm." [^wazaiii]
 
-Đây là thái độ nhất quán khi ông đối mặt với mọi làn sóng công nghệ mới: quan sát, thử nghiệm, rồi nói với mọi người rằng không cần quá lo lắng. Từ thời kỳ tiền tệ điện tử đến kỷ nguyên AI đều có thái độ tương tự.
+Đây là thái độ nhất quán của ông trước mỗi làn sóng công nghệ: quan sát, thử nghiệm, và sau đó nói với mọi người rằng đừng quá lo lắng. Từ thời đại tiền điện tử cho đến kỷ nguyên AI, thái độ của ông vẫn luôn như vậy.
 
-Hiện tại, ông xuất hiện định kỳ trong phần "Xu hướng đọc" của chương trình giải trí trên sóng BCC, dẫn podcast "Side Chat", tiếp tục cung cấp dịch vụ dịch thuật xu hướng cho cộng đồng công nghệ tại Đài Loan.
+Hiện tại, ông thường xuyên xuất hiện trong chuyên mục "Xu hướng đọc" (Reading Trends) thuộc chương trình Lan Xuan Time trên Đài Phát thanh Trung ương (BCC) Pop Radio, đồng thời dẫn dắt podcast 「塞掐 Side Chat」, tiếp tục đóng vai trò là người chuyển ngữ các xu hướng định kỳ cho giới công nghệ Đài Loan.
 
 ---
 
-Nhóm blog của năm 2009 hiện đang thuộc sở hữu của người khác. Nền tảng công thức nấu ăn của năm 2011 cũng vậy.
+Blog cộng tác năm 2009 đó giờ đã thuộc về người khác. Nền tảng công thức nấu ăn năm 2011 cũng vậy.
 
-Tiêu Thượng Nông vẫn còn. Quan sát vẫn tiếp tục. Ông đã biến "tiếp tục quan sát" thành một công việc tiếp theo.
+Tiêu Thượng Nông vẫn ở đó. Sự quan sát vẫn đang tiếp diễn. Ông biến chính việc "tiếp tục quan sát" thành bước đi tiếp theo của mình.
 
 **Đọc thêm**:
 
-- [INSIDE Những điều quan sát xu hướng mạng xã hội](https://www.inside.com.tw/) — Trang báo công nghệ do Tiêu Thượng Nông cùng đồng sáng lập, hiện đang thuộc sở hữu của TNL Media Group, tiếp tục báo cáo về công nghiệp công nghệ tại Đài Loan và toàn cầu
-- [iCook](https://icook.tw/) — Nền tảng công thức nấu ăn lớn nhất tại Đài Loan do Tiêu Thượng Nông cùng đồng sáng lập, hiện đang thuộc sở hữu của TNL Media Group
-- [Đường Phượng](/vi/people/audrey-tang) — Trưởng bộ phát triển kỹ thuật số đầu tiên của Đài Loan, cũng định nghĩa sự nghiệp của mình qua nhiều lĩnh vực khác nhau
-- [Hệ sinh thái khởi nghiệp tại Đài Loan](/vi/economy/taiwan-startup-ecosystem-overview) — Bối cảnh phát triển tổng thể của khởi nghiệp mạng xã hội tại Đài Loan, INSIDE và iCook đều là các ví dụ tiêu biểu
+- [INSIDE Những điều quan sát xu hướng mạng xã hội](https://www.inside.com.tw/) — Phương tiện truyền thông công nghệ do Tiêu Thượng Nông đồng sáng lập, hiện thuộc Tập đoàn Truyền thông The News Lens, chuyên đưa tin về ngành công nghệ tại Đài Loan và toàn cầu.
+- [iCook 愛料理](https://icook.tw/) — Nền tảng công thức nấu ăn lớn nhất Đài Loan do Tiêu Thượng Nông đồng sáng lập, hiện thuộc Tập đoàn Truyền thông The News Lens.
+- [Đường Phượng (Audrey Tang)](/vi/people/audrey-tang) — Bộ trưởng đầu tiên của Bộ Phát triển Kỹ thuật số Đài Loan, người cũng định nghĩa sự nghiệp của mình là "vượt qua nhiều lĩnh vực".
+- [Hệ sinh thái khởi nghiệp Đài Loan](/vi/economy/taiwan-startup-ecosystem-overview) — Bối cảnh phát triển tổng thể của khởi nghiệp internet tại Đài Loan, trong đó INSIDE và iCook đều là những trường hợp điển hình.
 
 ## Các nguồn tham khảo
 
