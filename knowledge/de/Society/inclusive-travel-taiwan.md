@@ -1,15 +1,15 @@
 ---
-title: 'Taiwan-Modelle für ein altersgerechtes, inklusives Reisen und Leben: Wenn menschliche Wärme die wichtigste Barrierefreiheit ist'
-description: 'Wie Taiwan aus der Perspektive von Familien betrachtet, wie menschliche Wärme und inklusive Einrichtungen die Bedeutung von „Familienurlaub“ in einer Gesellschaft neu definieren, die rasch ins Super-Senioren-Alter eintritt.'
+title: 'Inklusives Reisen und Lebensstil für alle Generationen in Taiwan: Wenn Herzlichkeit zur Barrierefreiheit wird'
+description: 'Aus der Perspektiv einer Familie betrachtet: Wie die taiwanische Gesellschaft durch zwischenmenschliche Wärme und inklusive Einrichtungen den Begriff „Reisen als Familie“ auf dem Weg in eine superalternde Gesellschaft neu definiert.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Inklusion im Alter',
-    'barrierefreies Reisen',
-    'Super-Senioren-Gesellschaft',
+    'Generationenübergreifende Inklusion',
+    'Barrierefreies Reisen',
+    'Superalternde Gesellschaft',
     'Familienkultur',
-    'soziale Resilienz',
+    'Soziale Resilienz',
   ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:30+08:00'
+translatedAt: '2026-11-02T15:24:05.885340+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

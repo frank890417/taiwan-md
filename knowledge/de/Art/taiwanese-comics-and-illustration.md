@@ -22,10 +22,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 11
 translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
 sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-02T15:35:22.293203+00:00'
 ---
 
 # Taiwan-Comics
@@ -115,9 +115,9 @@ Taiwans Comic-Revival ist gleichzeitig Industrie- und Identitätsfrage. Wenn tai
 
 ## Weiterführende Literatur
 
-- [Taiwan Anime-Kultur](/de/culture/taiwan-anime-culture) — Lesersicht auf Anime-Konsumkultur: Cosplay, Dōjinshi, Anime-Messen, Generationen-Erinnerung
-- [Taiwan-Film](/de/art/taiwanese-cinema) — Eine weitere Achse taiwanischer visueller Narration
-- [Taiwanische zeitgenössische Literaturentwicklung](/art/台灣當代文學發展) — Textebene der Evolution taiwanischen kreativen Selbstbewusstseins
+- [Taiwanische Anime- und Manga-Kultur](/de/culture/taiwan-anime-culture) — Die Konsumkultur aus Sicht der Leser: Cosplay, Doujinshi, Anime-Messen und Generationenerinnerungen
+- [Taiwanese Film](/de/art/taiwanese-cinema) — Eine weitere Achse der visuellen Erzählweise Taiwans
+- [Die Entwicklung der zeitgenössischen Literatur in Taiwan](/de/art/contemporary-taiwanese-literature) — Die literarische Ebene der Evolution des schöpferischen Selbstbewusstseins Taiwans
 
 ## Quellen
 

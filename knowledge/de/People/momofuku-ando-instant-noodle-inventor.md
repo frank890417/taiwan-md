@@ -1,19 +1,19 @@
 ---
-title: 'Momofuku Ando (Wu Baifu): Von Pukou in Chiayi bis zum globalen Tisch – Die Legende der taiwanesischen Gene und japanischer Verpackung'
-description: 'Im Jahr 1961 kaufte Momofuku Ando die Patentansprüche von Chang Kuo-wen für Instantnudeln für 23 Millionen Yen. Dies war nicht nur ein Geschäftsvorfall, sondern ein internationaler Kampf um das Erfindungsrecht. Dieser Unternehmer aus Pukou in Chiayi verwandelte die Seele der traditionellen taiwanesischen „Garnelenstreifen"-Nudeln in ein nationales japanisches Lebensmittel und revolutionierte globale Essgewohnheiten mit den Cup Noodles. Der Artikel untersucht seinen Start als Unternehmer im japanisch besetzten Taiwan, seine Erkenntnisse nach dem Krieg und die Verstrickung seiner Identität und Familie zwischen beiden Ländern.'
+title: 'Momofuku Ando: Von Puzi in Chiayi auf die globalen Esstische – Taiwanische Wurzeln und japanisches Branding'
+description: 'Im Jahr 1961 kaufte Momofuku Ando die Patentanmelderechte für Instant-Nudeln von Chang Kuo-wen für 23 Millionen Yen. Dies war nicht nur ein Geschäft, sondern ein internationaler Machtkampf um die Definition einer Erfindung. Der Unternehmer, der aus Puzi in Chiayi stammte, transformierte die Seele der traditionellen taiwanischen Hühnchen-Faden-Suppe (Jisi Mian) in ein japanisches Nationalgericht und veränderte durch „Cup Noodles“ die weltweiten Ernährungsgewohnheiten grundlegend. Dieser Artikel untersucht tiefgreifend seinen unter japanischer Kolonialherrschaft in Taiwan beginnenden Unternehmersweg, seine Erkenntnisse nach der Inhaftierung nach dem Krieg sowie die Verflechtungen von Identität und Familie zwischen beiden Ländern.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Wu Baifu',
     'Momofuku Ando',
-    'Instantnudeln',
-    'taiwanischer Geschichte',
+    'Ando Momofuku',
+    'Instant-Nudeln',
+    'Taiwanische Geschichte',
     'Esskultur',
     'Nissin Foods',
     'Cup Noodles',
     'Nachkriegsgeschichte',
-    'Taichang',
+    'Dadaocheng',
   ]
 subcategory: '歷史人物'
 author: 'idlccp1984'
@@ -22,10 +22,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-02T15:56:04.927103+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:**
