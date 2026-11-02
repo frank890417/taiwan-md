@@ -19,15 +19,19 @@ featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
 sporeLinks:
-  [
-    "{'id': 51, 'platform': 'threads', 'date': '2026-04-29', 'url': 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'}",
-    "{'id': 52, 'platform': 'x', 'date': '2026-04-29', 'url': 'https://x.com/taiwandotmd/status/2049358488246349945'}",
-  ]
+  - id: 51
+    platform: 'threads'
+    date: '2026-04-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'
+  - id: 52
+    platform: 'x'
+    date: '2026-04-29'
+    url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c875'
-sourceContentHash: 'sha256:03188362c6b1e61a'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-07-27T11:12:34.347701+00:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T12:22:14.211880+00:00'
 ---
 
 # Aliados diplomáticos e diplomacia internacional de Taiwan: 12 aliados, 113 representações e acesso sem visto a 177 países
@@ -261,31 +265,29 @@ Enquanto Taiwan mantiver 12 aliados, esse argumento não se sustenta. O signific
 ## Três números
 
 ```
-12                    113                    177
-aliados diplomáticos  representações externas  destinos acessíveis pelo passaporte
+12             113            177
+aliados diplomáticos    representações no exterior    acesso com passaporte
 ```
 
-Doze países reconhecem o governo da República da China (Taiwan), em Taiwan, como o “governo legítimo da China”.
+12 países reconhecem o governo da República da China (Taiwan) como o "governo legítimo da China".
+113 representações no mundo representam Taiwan lidando com assuntos práticos.
+177 países não reconhecem a República da China, mas permitem que cidadãos taiwaneses entrem.
 
-Cento e treze representações defendem Taiwan no mundo e administram assuntos concretos.
+O Parlamento Europeu aprovou com 432 votos a resolução contra a 2758. Quando Tsai Ing-wen deixou o cargo em maio de 2024, os aliados diplomáticos eram 12; após deixar o cargo, em outubro, foi convidada a visitar o Parlamento Europeu. Bonnie Glaser disse que a dependência da TSMC teve um momento. Mark Lambert disse que a 2758 não menciona Taiwan.
 
-Cento e setenta e sete países não reconhecem a República da China (Taiwan), mas permitem a entrada de cidadãos taiwaneses.
+Essas coisas acontecem simultaneamente. Não existe uma linha chamada "status internacional de Taiwan".
 
-O Parlamento Europeu aprovou a resolução contra a distorção da Resolução 2758 com 432 votos favoráveis. Quando Tsai Ing-wen deixou o cargo, em maio de 2024, Taiwan tinha 12 aliados; em outubro, já fora da Presidência, ela foi convidada a visitar o Parlamento Europeu. Bonnie Glaser falou sobre o momento em que o mundo percebeu sua dependência da TSMC. Mark Lambert afirmou que a Resolução 2758 não menciona Taiwan.
-
-Tudo isso acontece ao mesmo tempo. Não existe uma única linha chamada “posição internacional de Taiwan”.
-
-Se ela existe, não é 12, nem 113, nem 177, nem 90% ou 30%.
+Se existisse, essa coisa não seria 12, nem 113, nem 177, nem 90% ou 30%.
 
 É a distância entre esses números.
 
-**Leituras complementares**:
+**Leitura complementar**:
 
-- [Defesa nacional e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Quando restam apenas 12 aliados, a autodefesa militar é outro pilar que impede o número de chegar a zero
-- [Crises no estreito de Taiwan e evolução das relações entre os dois lados](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Como três crises moldaram o isolamento diplomático e a ansiedade de segurança de Taiwan
-- [TSMC](/business/台積電) — A base material do escudo de silício e sua vulnerabilidade estrutural
-- [Cho Jung-tai](/pt/people/cho-jung-tai) — A trajetória das tarifas entre Estados Unidos e Taiwan em 2026, de 32% para 20% e depois 15%, e o coordenador ministerial da visita de Lai Ching-te a Essuatíni
-- [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — O último aliado africano entre os 12: a história completa dos 58 anos entre o estabelecimento de relações no mesmo dia, em 1968, e a visita de Lai Ching-te em 2026
+- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Quando os aliados diplomáticos restam 12, a autodefesa militar é o outro pilar para manter "não é 0"
+- [Crises no Estreito de Taiwan e desenvolvimento das relações entre os dois lados do estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Como três crises moldaram o isolamento diplomático e a ansiedade de segurança de Taiwan
+- [TSMC](/pt/economy/tsmc) — A base material do escudo de silício e sua fragilidade estrutural
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — Trajetória 2026 tarifas EUA-Taiwan 32→20→15% + coordenador do gabinete para visita de Lai Ching-te a Essuatíni
+- [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — O único bloco africano remanescente entre os 12 aliados diplomáticos, dos 58 anos completos desde o estabelecimento de relações no mesmo dia em 1968 até a visita de Lai Ching-te em 2026
 
 ## Referências
 
