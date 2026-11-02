@@ -2,9 +2,7 @@
 title: 'Taiwanese Comics'
 description: 'From Liu Hsing-chin and Ao Yu-hsiang of the 1970s “Kingdom of Comics,” to Chen Uen’s conquest of Japan in 1991 as an “Asian Treasure,” Tsai Chih-chung’s comic adaptation of classical philosophy in Zhuangzi Speaks, and then the 2010 Golden Comic Awards and the 2017 Creative Comic Collection, Taiwanese comics have passed through a downturn under the pressure of Japanese manga and are now recovering their own original voice.'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
     'Comics',
@@ -16,16 +14,18 @@ tags:
     'Creative Comic Collection',
     'Ruan Guang-min',
   ]
-readingTime: 11
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
-translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
-sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-05-24T05:06:32+08:00'
 difficulty: 'beginner'
+readingTime: 11
+translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
+sourceBodyHash: 'sha256:dd1128570e96c06e'
+translatedAt: '2026-11-02T16:23:16.741212+00:00'
 ---
 
 # Taiwanese Comics
@@ -115,9 +115,9 @@ The revival of Taiwanese comics is both an industrial question and a question of
 
 ## Further Reading
 
-- [Taiwanese anime and manga culture](/en/culture/taiwan-anime-culture) — Anime, manga, and comics consumption culture from the reader’s perspective: cosplay, doujinshi, anime conventions, and generational memory
-- [Taiwanese cinema](/en/art/taiwanese-cinema) — Another axis of visual storytelling in Taiwan
-- [The development of contemporary Taiwanese literature](/art/台灣當代文學發展) — The literary layer in the evolution of Taiwan’s creative self-awareness
+- [Taiwan's anime and manga culture](/en/culture/taiwan-anime-culture) — A reader's perspective on anime and manga consumer culture: cosplay, doujinshi, anime conventions, generational memories
+- [Taiwanese cinema](/en/art/taiwanese-cinema) — Another axis of Taiwan's visual narrative
+- [Development of Taiwan's contemporary literature](/en/art/contemporary-taiwanese-literature) — The textual layer of the evolution of Taiwan's creative self-awareness
 
 ## References
 

@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-11T09:34:29+08:00'
+translatedAt: '2026-11-02T16:06:22.589565+00:00'
 ---
 
 # Agricultural Cooperatives Do More Than Sell Fertilizer: How Taiwan's Rural Public Organizations Evolved from Colonial Institutions to Credit Department Reforms
@@ -128,9 +128,9 @@ The historical position of agricultural cooperatives lies here. The state’s ag
 
 ## Further Reading
 
-- [Taiwan Land Reform](/en/history/taiwan-land-reform) — The institutional background of agricultural cooperative improvement and the reorganization of post-war rural power
-- [Development of Taiwan Agricultural Modernization](/en/economy/taiwan-agricultural-modernization) — Another thread concerning agricultural cooperative extension, agricultural technology, and industrial transformation
-- [History of Taiwan’s Tap Water](/history/台灣自來水史) — Comparative reading shifting from rural organizations to public infrastructure systems
+- [Land Reform in Taiwan](/en/history/taiwan-land-reform) — The institutional background of agricultural cooperative improvements and the post-war restructuring of rural power.
+- [Development of Agricultural Modernization in Taiwan](/en/economy/taiwan-agricultural-modernization) — Another thread concerning the promotion by agricultural cooperatives, agricultural technology, and industrial transformation.
+- [History of Taiwan's Tap Water](/en/geography/taiwan-tap-water) — A comparative reading on the transition from rural organizations to public infrastructure systems.
 
 ## References
 

@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-11T03:12:09+08:00'
+translatedAt: '2026-11-02T15:51:10.639236+00:00'
 ---
 
 # Taiwan's Fisheries Modernization: How a Fishing Net Connects Qianzhen, the Three Oceans, and the Island's Table
@@ -166,6 +166,6 @@ Today, when people buy a fish at the market, they see weight, price, and origin.
 
 ## Further Reading
 
-- [The Origins of Taiwan's Fisheries](/en/history/taiwan-fishery-origins) — The first half of the same sea: Japanese colonial aquaculture research, fish markets, and postwar technical reception
-- [The History of Taiwan's Marine Trade](/en/history/taiwan-maritime-trade-history)
-- [The History of Taiwan's Sugar Industry](/history/台灣糖業史)
+- [Origins of Taiwan's Fisheries](/en/history/taiwan-fishery-origins) — The First Half of the Same Sea: Japanese Colonial Fisheries Experiments, Fish Markets, and Postwar Technology Transfer
+- [History of Taiwan's Maritime Trade](/en/history/taiwan-maritime-trade-history)
+- [History of Taiwan's Sugar Industry](/en/economy/taiwan-sugar-industry)

@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-11T05:40:14+08:00'
+translatedAt: '2026-11-02T15:35:47.789650+00:00'
 ---
 
 > **30-Second Overview:** Taiwan's independent bookstore culture is not a fixed store type, but a business model that binds curation judgment, spatial scale, and public relations. It may be located in the basement of a university town, or hidden in the old streets of Guanshan, beside a highway in Changbin, or in the alleys of Penghu. Bookstores sell books, but more often, they arrange encounters for unfamiliar readers and preserve a language for a place that can continue to be spoken. From the book streets of Chongqing South Road and the humanistic bookstores of Wenluotin to the micro-spaces of small towns and offshore islands, they face different challenges regarding discounts, logistics, rent, and population, yet all answer the same question: how does a place ensure that hard-to-see books meet their readers? This value cannot replace revenue concerns, but it explains why people are still willing to bet on store rent, time, and life on a row of bookshelves after the rise of online discounts and digital reading.
@@ -124,8 +124,8 @@ When a book is placed on the shelf, the owner has actually made a choice for the
 
 ## Further Reading
 
-- [Taiwan Literary History](/en/art/history-of-taiwanese-literature): Understand the long-term background of reading publicness through authors, works, and literary fields.
-- [Taiwan Letterpress Printing Culture](/culture/台灣活版印刷文化): Trace how books, newspapers, and public language were concretely manufactured by printing technology.
+- [History of Taiwan Literature](/en/art/history-of-taiwanese-literature): Understand the long-term background of reading publicness through writers, works, and literary spaces.
+- [Letterpress Printing Culture in Taiwan](/en/culture/taiwan-letterpress-printing): Trace how books, newspapers, and public language were concretely manufactured by printing technology.
 - [Taiwan Church News](/en/culture/taiwan-church-news): Understand how early publishing, language, and religious organizations jointly formed reader communities.
 
 ## References
