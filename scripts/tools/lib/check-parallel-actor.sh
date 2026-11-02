@@ -84,13 +84,18 @@ fi
 #    只報告不升級 status：工作樹裡有東西不代表會撞 git（pre-push 用 --status，不受影響），
 #    它要回答的是「這台機器上還有誰的工作沒落地」，給甦醒的人讀。
 #    新鮮度切兩段：2 小時內有改動 = 可能有人正在用，別碰；超過 24 小時 = 疑似孤兒，收屍看這裡。
+#    2026-11-02 修：pre-push 從工作樹推送時，git 會把 GIT_DIR 設成「推送那棵樹」的 gitdir 傳給 hook。
+#    沿用這個環境去 `git -C <別的工作樹> status`，git 會拿推送者的索引去比別人的檔案：每棵樹都被當成
+#    幾千個改動、逐檔重算雜湊（單棵 0.4 秒變 10 秒以上），21 棵樹讓 pre-push 卡了十二分鐘，兩個 session
+#    同時被擋住。這一段查別的工作樹，一律先把 GIT_* 位置變數拿掉，讓 git 從 -C 的目錄自己找。
+wtgit() { env -u GIT_DIR -u GIT_WORK_TREE -u GIT_INDEX_FILE -u GIT_PREFIX -u GIT_COMMON_DIR git "$@"; }
 wt_lines=""
 now_epoch="$(date +%s)"
 while IFS= read -r wt; do
   [ -z "$wt" ] && continue
   [ "$wt" = "$REPO" ] && continue
   [ -d "$wt" ] || { wt_lines="${wt_lines}\n  🌳 ${wt}：登記在 git 但目錄不見了（git worktree prune 可清）"; continue; }
-  wt_dirty="$(git -C "$wt" status --porcelain 2>/dev/null | wc -l | tr -d ' ')"
+  wt_dirty="$(wtgit -C "$wt" status --porcelain 2>/dev/null | wc -l | tr -d ' ')"
   [ "${wt_dirty:-0}" -eq 0 ] && continue
   newest=0
   while IFS= read -r f; do
@@ -98,7 +103,7 @@ while IFS= read -r wt; do
     m="$(stat -f %m "$wt/$f" 2>/dev/null || stat -c %Y "$wt/$f" 2>/dev/null || echo 0)"
     [ "$m" -gt "$newest" ] && newest="$m"
   done <<EOF_FILES
-$(git -C "$wt" status --porcelain 2>/dev/null | sed -E 's/^.{3}//; s/.* -> //; s/^"(.*)"$/\1/')
+$(wtgit -C "$wt" status --porcelain 2>/dev/null | sed -E 's/^.{3}//; s/.* -> //; s/^"(.*)"$/\1/')
 EOF_FILES
   if [ "$newest" -gt 0 ]; then
     age_h=$(( (now_epoch - newest) / 3600 ))
