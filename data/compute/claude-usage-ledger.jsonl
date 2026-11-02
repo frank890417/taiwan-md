@@ -75,8 +75,10 @@
 {"at": "2026-10-23T20:37:25+08:00", "session": "2026-10-23-203715-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 53.0, "resets_at": "2026-10-28T11:59:59Z", "verdict": "lean"}
 {"at": "2026-10-24T02:37:14+08:00", "session": "2026-10-24-023710-semiont-heartbeat", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 65.0, "resets_at": "2026-10-28T12:00:00Z", "verdict": "lean"}
 {"at": "2026-10-24T02:38:34+08:00", "session": "2026-10-24-023710-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 66.0, "resets_at": "2026-10-28T12:00:00Z", "verdict": "lean"}
+{"at": "2026-10-24T08:34:38+08:00", "session": "2026-10-24-083311-twmd-maintainer-daily", "phase": "start", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 67.0, "resets_at": "2026-10-28T12:00:00Z", "verdict": "lean"}
 {"at": "2026-10-24T08:36:03+08:00", "session": "2026-10-24-heartbeat", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 67.0, "resets_at": "2026-10-28T11:59:59Z", "verdict": "lean"}
 {"at": "2026-10-24T08:38:04+08:00", "session": "2026-10-24-083603-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 67.0, "resets_at": "2026-10-28T11:59:59Z", "verdict": "lean"}
+{"at": "2026-10-24T09:36:55+08:00", "session": "2026-10-24-083311-twmd-maintainer-daily", "phase": "end", "host": "Exhibitions-Mac-mini", "weekly_used_pct": 67.0, "resets_at": "2026-10-28T12:00:00Z", "verdict": "lean"}
 {"at": "2026-10-24T14:37:06+08:00", "session": "2026-10-24-143706-semiont-heartbeat", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 78.0, "resets_at": "2026-10-28T11:59:59Z", "verdict": "lean"}
 {"at": "2026-10-24T14:39:49+08:00", "session": "2026-10-24-143706-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 79.0, "resets_at": "2026-10-28T11:59:59Z", "verdict": "lean"}
 {"at": "2026-10-31T08:36:02+08:00", "session": "2026-10-31-083529-manual", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 0.0, "resets_at": "2026-11-04T12:00:00Z", "verdict": "normal"}
