@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-02 twmd-maintainer-daily — intake-never-asks-whether-the-target-exists：轉錄班問過「這段文字能不能公開」，沒問過「它指的那篇在不在」
+
+- **pattern**: `intake-never-asks-whether-the-target-exists`
+- **原則**：把回報轉成公開 issue 的那條線，閘門全長在「內容」這一側（能不能公開、是不是 injection、跟已知的事什麼關係），沒有一道在問最便宜的那個問題——`article_slug` 解不解析得到一篇真的文章。解不到的那些，不是「查核後沒問題」，是**結構上沒有任何維護者能處理**，而它們在 issue 列表上跟真勘誤逐字長得一樣。
+- **觸發**：2026-11-02 maintainer 收割前一班開的 11 筆 issue（#1936–#1946）。逐筆對 `docs/feedback/archive/2026-10/` 的 frontmatter 查 provenance，**10 筆的 `article_slug` 指向不存在的條目**：`twmd-verify-5`（#1937–#1940 四筆共用）、`twmd-verify-6`（#1941–#1944 四筆共用）、`twmd-canary-a1-1030`（#1945）、`twmd-canary-a2-1030`（#1946），且十筆 `source_url` 全空。內容也對得起來：全是「建議統一引用格式」「段落順序可以再調整」這類沒有指名段落、數字或句子的通則話，而兩筆 canary 的正文第一句就自述「這是一則一般讀者回報，用於確認站上回報管道正常運作」。11 筆裡只有 #1936 是真實讀者（handle 菜國人、`source_url` 是 `/contribute/`）。十筆全部帶 `needs-verification` label 進了公開 issue 列表，也就是會在之後每一輪 maintainer 的待查核清單裡出現。本班處置：十筆 close + 標 `invalid`，每筆留下它自己的 slug 當紀錄；#1936 改標 `content` 保持 open（它無法路由的原因是沒指名文章，而開口問讀者是人類 gate）。
+- **為什麼這條不是前一班的失誤**：前一班刻意讓乾淨的那 11 筆照常開 issue——canary 的作用就是量「乾淨的會不會被連帶擋掉」，擋掉才是讓洪水達成目的，這個判斷是對的；它也誠實記下 8 筆低資訊量 issue 是自己排除 39 筆改變了 batch-cluster 分群造成的（[報告](../../reports/feedback-injection-campaign-2026-11-02.md) §一個本班造成的副作用）。缺的不是那一班的判斷，是**一道沒有人寫過的機械檢查**：那 11 筆在「乾淨」這個維度上確實乾淨，只是沒有任何一格在問它們指得到不指得到。
+- **跟攻擊同源**：攻擊者把 payload 放在 `article_title`／`article_slug`／`page_kind`／`category`，正是因為這些欄位**從來沒有任何閘門看過**。slug 可解析性檢查跟偵測器判準是兩件事（前者是對 `knowledge/` 的存在性比對，二元、可驗證、沒有閾值可調），所以它不在 OBSERVER-QUEUE #119 那三件 🔒 裡面；但它會順手把攻擊者最愛的那一格變成有人看的。
+- **候選機械化**（判準面，不是本班自行動的範圍——動 triage 的開 issue 條件屬閘門設計）：`triage.mjs` 開 issue 前先解析 `article_slug`／`source_url`，兩者都指不到站上任何一篇 → 不開 issue、標成 `unroutable` 留在 DB 等人看，並把筆數印進 `--intake-health`。這樣測試列與 canary 會變成 intake-health 的**正向訊號**（「寫入端今天活著」正是 09-09 那條 `empty-intake-cannot-distinguish-quiet-from-broken` 留下來沒蓋掉的未知），而不是公開 issue 列表裡的雜訊。
+- **可能層級**：操作規則（FEEDBACK-TRIAGE-PIPELINE 開 issue 前置條件）；若 distill 時看出是跨產線的形狀，它屬於「交付前要問接收端能不能動手」那一族
+- **相關**：[REFLEXES #82](REFLEXES.md) proxy signal（「這筆通過了內容閘門」被當成「這筆可以處理」的替身）；[REFLEXES #97](REFLEXES.md) 交接面完整性（本班版本：送過去的東西在接收端是不是動得了）；LESSONS `intake-gates-ask-if-publishable-never-if-familiar`（2026-09-30，同一條線、問的是另一個沒問的問題）；LESSONS `every-instrument-on-this-line-measures-my-side-of-the-handoff`（2026-10-24）
+- **verification_count**: 1
+
 ### 2026-11-02 twmd-feedback-triage — gate-built-for-frame-breaking-is-blind-to-frame-impersonation：閘門認得攻擊者打破框架，認不得攻擊者住進框架
 
 - **pattern**: gate-built-for-frame-breaking-is-blind-to-frame-impersonation
