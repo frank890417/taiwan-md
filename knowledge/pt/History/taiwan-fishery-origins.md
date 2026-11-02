@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-11T05:40:15+08:00'
+translatedAt: '2026-11-02T15:53:28.446255+00:00'
 ---
 
 # O porto pesqueiro não é só para sair ao mar: como a pesca de Taiwan foi refeita por navios de ensaio, mercados de peixe e um grupo de talentos técnicos
@@ -140,12 +140,12 @@ Há ainda uma camada frequentemente ignorada: o trabalho das mulheres e das fam�
 
 Da mesma forma, as estradas, o fabrico de gelo, a eletricidade e o armazenamento trazidos pela modernização portuária ligaram a vila piscatória à cadeia de abastecimento da cidade, mas tornaram o lugar mais dependente do preço do combustível, de compradores de fora e da calendarização das obras públicas. Quando o mercado de peixe declina, o que fica não é um problema isolado de edifício, mas o afrouxamento de todo um ritmo de vida. É também por isso que a história da pesca merece ser relida para além da produção: a captura no mar é só o começo; a história verdadeiramente longa acontece depois de o navio atracar.
 
-## Leituras complementares
+## Leituras Complementares
 
-- [Modernização da pesca de Taiwan](/pt/history/taiwan-fishery-modernization) — A segunda metade do mesmo mar: frotas de alto mar, zona económica exclusiva e responsabilidades do Estado de bandeira
-- [História das associações de agricultores de Taiwan](/pt/history/taiwan-farmers-association-history) — Organização rural, finanças e a mudança institucional da janela pública local
-- [História dos correios de Taiwan](/history/台灣郵政史) — Outra infraestrutura pública que liga o local, a logística e a administração nacional
-- [História do abastecimento de água de Taiwan](/history/台灣自來水史) — Como engenharia, higiene e quotidiano urbano formam juntos uma instituição
+- [Modernização da pesca em Taiwan](/pt/history/taiwan-fishery-modernization) — A segunda metade do mesmo mar: frotas de águas profundas, Zona Econômica Exclusiva e a responsabilidade do Estado de bandeira
+- [História das associações agrícolas de Taiwan](/pt/history/taiwan-farmers-association-history) — Organizações rurais, finanças e as mudanças institucionais nas janelas de serviços públicos locais
+- [História dos correios de Taiwan](/pt/lifestyle/taiwan-postal-service-history) — Outra infraestrutura pública que conectou o local, a logística e a administração estatal
+- [História da água encanada em Taiwan](/pt/geography/taiwan-tap-water) — Como engenharia, saneamento e o cotidiano urbano formaram instituições em conjunto
 
 ## Referências
 

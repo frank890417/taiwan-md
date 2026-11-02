@@ -2,7 +2,7 @@
 title: 'Quadrinhos de Taiwan'
 description: 'Do reino dos quadrinhos das décadas de 1970 e 1980, com Liu Hsing-chin e Ao Yu-hsiang, à conquista do Japão por Chen Uen, que em 1991 se tornou o “Tesouro da Ásia”; de Tsai Chih-chung transformando a filosofia clássica em quadrinhos com “Chuang-tzu fala”, ao Prêmio Golden Comic de 2010 e à coletânea criativa CCC de 2017 — depois de atravessar um longo período de declínio sob a pressão dos mangás japoneses, os quadrinhos de Taiwan estão reencontrando sua voz autoral.'
 date: 2026-03-20
-category: 'pt'
+category: 'Art'
 tags:
   [
     'quadrinhos',
@@ -19,12 +19,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
+difficulty: 'beginner'
 readingTime: 11
 translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
 sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-02T16:21:32.873414+00:00'
 ---
 
 # Quadrinhos de Taiwan
@@ -112,11 +113,11 @@ A estética oriental de Chen Uen, os quadrinhos filosóficos de Tsai Chih-chung,
 
 O renascimento dos quadrinhos taiwaneses é, ao mesmo tempo, uma questão industrial e de identidade cultural. Quando os quadrinistas de Taiwan começam a retratar as histórias do país com seus próprios traços e os leitores passam a se identificar com as obras locais, o que vemos é a reconstrução da confiança cultural. Essa confiança pertence a uma consciência cultural aberta: valoriza as qualidades das culturas estrangeiras e, ao mesmo tempo, preserva as características da própria cultura.
 
-## Leituras complementares
+## Leitura adicional
 
-- [Cultura de anime e mangá em Taiwan](/pt/culture/taiwan-anime-culture) — A cultura de consumo de anime e mangá sob a perspectiva dos leitores: cosplay, dōjinshi — publicações independentes de fãs —, convenções e memórias geracionais
-- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outro eixo das narrativas visuais taiwanesas
-- [Desenvolvimento da literatura contemporânea de Taiwan](/art/台灣當代文學發展) — A dimensão textual da evolução da consciência autoral taiwanesa
+- [Cultura de anime e mangá em Taiwan](/pt/culture/taiwan-anime-culture) — A cultura de consumo sob a perspectiva do leitor: cosplay, doujinshi, convenções de anime e memórias geracionais
+- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outra vertente da narrativa visual de Taiwan
+- [Desenvolvimento da literatura contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — A camada textual da evolução da autoconsciência criativa em Taiwan
 
 ## Referências
 

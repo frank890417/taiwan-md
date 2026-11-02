@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-12T02:30:18+08:00'
+translatedAt: '2026-11-02T16:03:23.332160+00:00'
 ---
 
 # A associação de agricultores não é só venda de fertilizantes: como a organização pública rural de Taiwan passou do sistema colonial à reforma do departamento de crédito
@@ -128,9 +128,9 @@ A posição histórica da associação está justamente aqui. A política agríc
 
 ## Leituras complementares
 
-- [Reforma agrária de Taiwan](/pt/history/taiwan-land-reform) — Contexto institucional da melhoria das associações e da reorganização do poder rural no pós-guerra
-- [Desenvolvimento da modernização agrícola de Taiwan](/pt/economy/taiwan-agricultural-modernization) — Outra pista sobre extensão das associações, tecnologia agrícola e transformação industrial
-- [História do abastecimento de água de Taiwan](/history/台灣自來水史) — Leitura comparativa da organização rural para o sistema institucional de infraestrutura pública
+- [Reforma Agrária em Taiwan](/pt/history/taiwan-land-reform) — O contexto institucional da melhoria das associações de agricultores e da reestruturação do poder rural no pós-guerra
+- [Desenvolvimento da Modernização Agrícola em Taiwan](/pt/economy/taiwan-agricultural-modernization) — Outra linha de investigação sobre a promoção pelas associações de agricultores, tecnologia agrícola e transformação industrial
+- [História da Água Encanada em Taiwan](/pt/geography/taiwan-tap-water) — Uma leitura comparativa sobre a transição das organizações rurais para o sistema de infraestrutura pública
 
 ## Referências
 
