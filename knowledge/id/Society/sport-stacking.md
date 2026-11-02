@@ -1,28 +1,28 @@
 ---
-title: 'Sport Stacking: Dari "Barang Hits" Viral 1,915 Detik ke Legenda 43 Emas yang Menyapu Bersih Asia'
-description: 'Timnas Taiwan di Kejuaraan Asia Dalian 2025 meraih 43 emas dan memecahkan 7 rekor dunia, mengubah olahraga yang pernah diejek "menumpuk cangkir berlubang" menjadi cabang olahraga paling dominan Taiwan. Dari Lin Meng-hsin ke gadis suku Seediq Sama Basaw, sport stacking Taiwan tidak hanya mengejar batas 0,001 detik, tapi juga menorehkan ketinggian sosial baru dalam rehabilitasi pendidikan khusus dan pendidikan inklusif.'
+title: 'Sport Stacking: Dari Produk Tren Lelang Online 1,915 Detik hingga Menyapu 43 Medali Emas di Asia'
+description: 'Tim perwakilan Taiwan berhasil meraih 43 medali emas dan memecahkan 7 rekor dunia pada Piala Asia Dalian 2025, menjadikan olahraga yang pernah diejek sebagai "menumpuk gelas berlubang" ini sebagai cabang kompetisi paling dominan di Taiwan. Dari Lin Meng-hsin hingga gadis suku Seediq, Shama Bashao, sport stacking Taiwan tidak hanya mengejar batas ekstrem 0,001 detik, tetapi juga membangun standar sosial baru melalui rehabilitasi pendidikan khusus dan integrasi pendidikan inklusif.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'Sport Stacking',
     'Lin Meng-hsin',
-    'Sama Basaw',
+    'Shama Bashao',
     'Rekor Dunia',
     'Pendidikan Inklusif',
     'Inklusi Sosial',
   ]
-readingTime: 10
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 10
 translatedFrom: 'Society/疊杯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
-translatedAt: '2026-07-26T03:58:07+08:00'
+translatedAt: '2026-11-02T02:09:49.710505+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

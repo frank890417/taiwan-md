@@ -18,10 +18,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-23T02:56:16+08:00'
+translatedAt: '2026-11-02T02:00:12.568583+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada tahun 1998, taipan properti Lin Min-hsiung mengambil alih koperasi militer dan pegawai negeri yang merugi selama bertahun-tahun dengan hanya 66 gerai. Sebagai "orang luar," ia menetapkan garis merah bertahan hidup: "murah 20%, laba 2%," dan secara paksa menciptakan jalan bagi supermarket di antara raksasa minimarket terpadu dan grosir. Kini, FamilyMart adalah penguasa ritel dengan pendapatan tahunan melebihi 200 miliar dan 1.200 gerai, tetapi kontroversi monopoli dan rasa sakit transformasi digital di balik ekspansi cepatnya sedang menguji dua puluh tahun berikutnya bagi "platform kehidupan" ini.
@@ -66,12 +66,12 @@ Lin Min-hsiung pernah mengatakan bahwa FamilyMart adalah "pusat kesejahteraan ma
 
 ## Bacaan Lanjutan
 
-- **[Maskot](/id/lifestyle/mascot-culture-in-taiwan)** — Kisah pengelolaan IP maskot FamilyMart dan Open: Studi Kasus Maskot Ritel
-- **[Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture)** — Posisi FamilyMart, 7-Eleven, dan Family Mart di pasar ritel Taiwan
-- **[Ekonomi Pengiriman Taiwan](/economy/台灣外送經濟)** — Bagaimana Hours Delivery FamilyMart berhasil masuk ke pasar foodpanda / Uber Eats
-- **[Pembayaran Seluler Taiwan](/id/technology/taiwan-mobile-payment)** — Memahami perbedaan antara adopsi dan universalitas, dari PXPay hingga penerimaan pedagang kas fisik
-- **[Sejarah Iklan Taiwan](/id/culture/taiwan-advertising-history)** — Ogilvy di balik "Estetika Ekonomi" FamilyMart, dan sejarah seratus tahun iklan Taiwan dari monopoli perhatian ke pemasaran yang menyentuh hati
-- **[Perusahaan Taiwan: Grup Unifikasi](/id/economy/taiwan-enterprise-uni-president)** — Kisah paruh kedua penggabungan dua raksasa ritel Taiwan: Unifikasi mengakuisisi Carrefour, FamilyMart mengakuisisi RT-Mart
+- **[Maskot](/id/lifestyle/mascot-culture-in-taiwan)** — PX Mart Bear dan Open: Ilmu manajemen IP maskot ritel
+- **[Budaya Minimarket di Taiwan](/id/lifestyle/convenience-store-culture)** — Posisi PX Mart, 7-Eleven, dan FamilyMart dalam ritel Taiwan
+- **[Ekonomi Pengiriman Makanan di Taiwan](/id/lifestyle/food-delivery-platforms-taiwan)**) — Bagaimana layanan pengantaran cepat PX Mart dapat menembus pasar foodpanda / Uber Eats
+- **[Pembayaran Seluler di Taiwan](/id/technology/taiwan-mobile-payment)** — Dari berbagai alat seperti AllPay, penerimaan oleh pedagang hingga cadangan tunai; memahami perbedaan antara popularitas dan universalitas
+- **[Sejarah Periklanan di Taiwan](/id/culture/taiwan-advertising-history)** — Ogilvy di balik "Estetika Ekonomi" PX Mart, dan sejarah seratus tahun periklanan Taiwan dari monopoli perhatian hingga pemasaran yang menyentuh hati
+- **[Perusahaan Taiwan: Uni-President Enterprises](/id/economy/taiwan-enterprise-uni-president)** — Uni-President mengakuisisi Carrefour, PX Mart bergabung dengan RT-Mart; sisi lain dari cerita konsolidasi dua raksasa ritel Taiwan
 
 ## Referensi
 

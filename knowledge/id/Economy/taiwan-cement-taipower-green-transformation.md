@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Cement: Transformasi Hijau Perusahaan Pertama yang Terdaftar di Taiwan'
-description: 'Didirikan pada 1962 untuk Bursa Efek Taiwan, kode saham 1101 melambangkan asal-usul Taiwan Stock Exchange. Dipimpin tiga generasi keluarga Gu selama 76 tahun, Taiwan Cement menyaksikan keajaiban konstruksi Taiwan melalui serangkaian kilang semen, dan kini bertransformasi menjadi perusahaan hijau untuk menghadapi era netral karbon'
+title: 'TCC: Transformasi Hijau Perusahaan Publik Pertama di Taiwan'
+description: 'Bursa Efek Taiwan lahir pada tahun 1962 karenanya, dengan kode saham 1101 yang melambangkan asal-usul pasar saham Taiwan. Dikelola oleh tiga generasi keluarga Ku selama 76 tahun, TCC telah menyaksikan keajaiban pembangunan Taiwan melalui deretan tanur semennya, dan kini bertransformasi menjadi perusahaan hijau untuk menghadapi era netralitas karbon.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Perusahaan',
     'Industri Semen',
     'Bahan Bangunan',
-    'Privatisasi Usaha Negara',
+    'Privatisasi BUMN',
     'Transformasi Hijau',
   ]
 subcategory: '企業列傳'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-02T01:26:31.611993+00:00'
 ---
 
 > **Tinjauan 30 Detik**
@@ -108,16 +108,16 @@ Emisi karbon global industri semen mencapai sekitar 7-8% (data International Ene
 
 ## Referensi
 
-[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Riwayat lengkap Taiwan Cement, mencakup pencatatan 1946 pendiri, 1954 privatisasi, 1962 terdaftar, dll.
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Sejarah lengkap TCC, termasuk catatan pendirian pada tahun 1946, privatisasi pada tahun 1954, dan pencatatan saham (listing) pada tahun 1962.
 
-[^2]: [Taiwan Cement Corporation 2024 Annual Report](https://www.taiwancement.com/) — Data keuangan dan bisnis terbaru Taiwan Cement Group.
+[^2]: [Laporan Tahunan Taiwan Cement Corporation 2024](https://www.taiwancement.com/) — Data keuangan dan operasional terbaru dari Grup TCC.
 
-[^3]: [CommonWealth Magazine: Taiwan's Oldest Listed Company Taiwan Cement Spans 13 Countries, Raising 27 Subsidiaries, Relies on "De-Cement" Turning Over](https://www.cw.com.tw/article/5130723) — Strategi transformasi hijau Taiwan Cement dan laporan tata letak diversifikasi.
+[^3]: [Majalah CommonWealth: Perusahaan Terlama yang Melantai di Bursa Taiwan, TCC Merambah 13 Negara dan Memiliki 27 Anak Perusahaan, Bangkit Melalui Strategi "Lepas dari Semen"](https://www.cw.com.tw/article/5130723) — Laporan mengenai strategi transformasi hijau dan diversifikasi bisnis TCC.
 
-[^4]: [Mirror Media: Remembering Gu Zhenfu on Taiwan Cement Innovation Zhang Anping: Fully Transform into Green Enterprise](https://www.mirrormedia.mg/story/20210209fin001) — Wawancara arah transformasi hijau Taiwan Cement setelah pengambilalihan Zhang Anping.
+[^4]: [Mirror Media: Mengenang Ku Jen-fu dalam Membahas Inovasi TCC, Chang An-ping: Berupaya Penuh Bertransformasi Menjadi Perusahaan Hijau](https://www.mirrormedia.mg/story/20210209fin001) — Wawancara mengenai arah transformasi hijau TCC setelah Chang An-ping menjabat.
 
-[^5]: [TEJ Taiwan Economic News: Building Taiwan Cement Kingdom, Gu Family and Taiwan Cement Group Growth Journey](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Catatan lengkap konteks manajemen Gu tiga generasi dan Taiwan Cement.
+[^5]: [TEJ Taiwan Economic Journal: Membangun Kerajaan Semen Taiwan, Perjalanan Pertumbuhan Keluarga Ku dan Grup TCC](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Catatan lengkap mengenai tiga generasi keluarga Ku dan konteks manajemen TCC.
 
-[^6]: [Gu Yan Zhuoyun and Gu Zhenfu Family Marriage Alliance Build Taiwan Cement Kingdom Cross into Green Energy — Central News Agency](https://www.cna.com.tw/news/afe/202502050178.aspx) — Pencatatan lengkap 1954 privatisasi Taiwan Cement, Lin Baishou ketua direktur pertama, posisi wakil direktur umum Gu Zhenfu, jaringan perkawinan keluarga lengkap.
+[^6]: [Pernikahan Antar-keluarga Ku Yen-tzu dan Ku Jen-fu Membangun Kerajaan Semen Taiwan dan Merambah Energi Hijau — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Catatan lengkap mengenai privatisasi TCC pada tahun 1954, Lin Po-shou sebagai ketua dewan direksi pertama, posisi asisten manajer Ku Jen-fu, serta jaringan pernikahan keluarga.
 
-[^7]: [Gu Chengyun Sudden Death Ipar Zhang Anping Takes over Taiwan Cement Group — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Konfirmasi proses 2017/1/23 kematian Gu Chengyun dan identitas "ipar" Zhang Anping (Gu Huairu adalah putri bungsu Gu Zhenfu). Lihat juga [Mirror Media: Gu Chengyun Sudden Death Inside Story](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Wafatnya Ku Cheng-yun secara Mendadak, Adik Ipar Chang An-ping Mengambil Alih Grup TCC — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Konfirmasi mengenai proses wafatnya Ku Cheng-yun pada 23/01/2017 dan status Chang An-ping sebagai "adik ipar" (Ku Huai-ju adalah putri bungsu Ku Jen-fu). Lihat juga [Mirror Media: Fakta di Balik Wafatnya Mendadak Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

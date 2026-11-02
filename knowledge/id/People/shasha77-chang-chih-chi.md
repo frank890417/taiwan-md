@@ -2,20 +2,20 @@
 title: "Zhang Zhiqi: Dari 'Gambar dan Teks Tidak Sesuai' ke 'Zhiqi Qiqi', Mencari 'Kurator Informasi' untuk Dialog di Era yang Terbelah"
 description: "Seorang desainer informasi yang dikenal dengan update harian selama tujuh tahun dan 1,65 juta subscriber di 'Zhiqi Qiqi', menerjemahkan isu sosial kompleks menjadi ringkasan praktis. Ia terus mencari kemungkinan dialog dalam masyarakat Taiwan di era yang terbelah."
 date: 2026-04-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   ['Zhang Zhiqi', 'Zhiqi Qiqi', 'Desain Informasi', 'YouTuber', 'Isu Sosial']
-readingTime: 10
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
-featured: false
+readingTime: 10
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: '2026-07-25T21:33:43+08:00'
+translatedAt: '2026-11-02T01:02:01.830233+00:00'
 ---
 
 > **Ringkasan 30 detik:** Zhang Zhiqi adalah salah satu YouTuber berita terkini paling berpengaruh di Taiwan. Salurannya, "Zhiqi Qiqi", dikenal karena gaya ringkasan praktis yang memperbandingkan berbagai perspektif dan diperbarui setiap hari. Ia memulai karier dalam desain informasi, berusaha membawa isu serius ke pandangan publik melalui "terjemahan" (menerjemahkan konsep rumit menjadi mudah dipahami), dan terus mencari ruang untuk dialog di tengah masyarakat yang terpolarisasi. Artikel ini mengeksplorasi bagaimana ia mengubah transformasi sosial menjadi bisnis yang menguntungkan, serta prosesnya dalam mengelola kepercayaan dan pengaruh di lingkungan yang kompleks.
@@ -62,9 +62,9 @@ Bagi Zhang Zhiqi, kewirausahaan dan pengelolaan saluran adalah proses trial-and-
 
 ## Bacaan Lanjutan
 
-- **[A-Di](/id/people/ray-du-english-youtuber/)**: Co-pendiri Asosiasi Pencipta Audio-Video Media Baru Taiwan, keduanya adalah YouTuber berbasis pengetahuan dari generasi "Lizhangbo" (Kepala Desa).
-- **[Ba Jiong](/id/people/pa-chiung-political-youtuber/)**: Juga berfokus pada komentar berita terkini, tetapi menggunakan strategi media mandiri lain dengan jalur "perang psikologis sarkastik".
-- **[Transisi Demokrasi Taiwan](/id/history/taiwan-democratization/)**: Konteks evolusi diskusi publik Taiwan di balik gaya kurasi "perbandingan perspektif" Zhang Zhiqi.
+- **[A Di](/id/people/ray-du-english-youtuber)**: Salah satu pendiri Asosiasi Kreator Media Baru Taiwan; keduanya merupakan YouTuber tipe edukasi dari generasi "Li Zhang Bo".
+- **[Ba Jiong](/id/people/pa-chiung-political-youtuber)**: Sama-sama berfokus pada komentar isu terkini, namun menggunakan strategi media mandiri lain dengan pendekatan "satir terhadap propaganda".
+- **[Transformasi Demokrasi Taiwan](/id/history/taiwan-democratization)**: Konteks evolusi diskusi publik di Taiwan yang melatarbelakangi gaya kurasi "penyajian berbagai sudut pandang" milik Zhang Zhiqi.
 
 ---
 

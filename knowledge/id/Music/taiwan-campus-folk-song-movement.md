@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T02:54:03.659988+00:00'
+translatedAt: '2026-11-02T00:50:05.336372+00:00'
 ---
 
 # Gerakan Lagu Rakyat Taiwan
@@ -147,10 +147,10 @@ Jawaban dari gerakan lagu rakyat Taiwan adalah: jangan takut menciptakan dengan 
 
 ## Bacaan Lanjutan
 
-- [Perkembangan Musik Pop Taiwan](/music/台灣流行音樂發展) — Sumbu utama musik pop Mandarin dari Lo Ta-yu hingga Chen Ch'i-chen, Chang Hsüan setelah lagu rakyat
-- [Sastra Taiwan Pasca-Pembukaan Hukum Darurat](/id/art/post-martial-law-taiwanese-literature) — Gerakan kesadaran budaya lain pasca-pembukaan hukum darurat 1987, sejalan dengan semangat lagu rakyat "menyanyikan lagu sendiri"
-- [Film Taiwan](/id/art/taiwanese-cinema) — Gerakan film baru Taiwan pada masa yang sama, sumbu lain kebangkitan budaya lokal Taiwan era 1970-1980
-- [Sanmao](/id/people/san-mao) — Penulis lirik asli "Pohon Zaitun", liriknya diubah dan menyebar ke seluruh dunia Mandarin
+- [Perkembangan Musik Populer Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Garis waktu utama musik populer berbahasa Mandarin dari era setelah lagu rakyat, mulai dari Lo Ta-yu hingga Cheer Chen dan Chang Hsien
+- [Sastra Taiwan Pasca-Pencabutan Darurat](/id/art/post-martial-law-taiwanese-literature) — Gerakan kesadaran budaya lainnya setelah pencabutan darurat pada tahun 1987, yang memiliki akar semangat yang sama dengan gerakan "menyanyikan lagu sendiri" dalam musik rakyat
+- [Film Taiwan](/id/art/taiwanese-cinema) — Gerakan Film Baru Taiwan yang terjadi pada periode yang sama, merupakan garis waktu lain dari kebangkitan budaya lokal Taiwan pada era 1970-an hingga 1980-an
+- [San Mao](/id/people/san-mao) — Penulis asli lirik lagu 〈Pohon Zaitun〉, liriknya menjadi sangat populer di seluruh dunia berbahasa Mandarin setelah diaransemen ulang
 
 ---
 
