@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-10T20:25:00+08:00'
+translatedAt: '2026-11-02T15:02:06.785481+00:00'
 ---
 
 # ताइवान मत्स्य पालन का आधुनिकीकरण: एक मछली पकड़ने का जाल कैसे च्येनचेन, तीन महासागरों और एक द्वीप की भोजन तालिका को जोड़ता है
@@ -164,8 +164,8 @@ _चित्र स्रोत: [Zhengbin Fishing Port, Keelung, Taiwan 2019](
 
 [^10]: [मत्स्य विविधीकरण प्रबंधन निर्माण योजना आयोग शोध मामला](https://ws.ndc.gov.tw/001/administrator/10/relfile/0/12936/d6f3e5bd-684d-4ea7-9595-6b925c5124e0.pdf) — राष्ट्रीय विकास परिषद शोध रिपोर्ट विवरण पृष्ठ, मत्स्य बंदरगाह कार्य, उद्योग विविधीकरण, स्थानीय निर्माण और मत्स्य परिवर्तन पर चर्चा करता है।
 
-## विस्तारित पठन
+## आगे पढ़ें
 
-- [ताइवान मत्स्य मूल](/hi/history/taiwan-fishery-origins) — उसी समुद्र का पहला भाग: दिन उपनिवेश जलीय कृषि परीक्षण, मछली बाजार और युद्धोत्तर तकनीकी अधिग्रहण
-- [ताइवान समुद्री व्यापार इतिहास](/hi/history/taiwan-maritime-trade-history)
-- [ताइवान चीनी उद्योग इतिहास](/history/台灣糖業史)
+- [ताइवान मत्स्य पालन की उत्पत्ति](/hi/history/taiwan-fishery-origins) — उसी समुद्र के एक ही हिस्से का पहला भाग: जापानी औपनिवेशिक काल के जलीय परीक्षण, मछली बाजार और युद्धोत्तर तकनीकी प्राप्ति
+- [ताइवान समुद्री व्यापार का इतिहास](/hi/history/taiwan-maritime-trade-history)
+- [ताइवान चीनी उद्योग का इतिहास](/hi/economy/taiwan-sugar-industry)
