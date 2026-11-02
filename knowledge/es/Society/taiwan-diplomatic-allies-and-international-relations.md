@@ -2,9 +2,7 @@
 title: 'Aliados diplomáticos y relaciones internacionales de Taiwán: 12 aliados, 113 oficinas, 177 países con exención de visado (2026)'
 description: 'El 15 de enero de 2024, 48 horas después de que Lai Ching-te fuera elegido presidente, Nauru anunció la ruptura de relaciones diplomáticas, reduciendo el número de aliados de 13 a 12. Pero ese mismo año Taiwán contaba con 113 oficinas en el exterior, su pasaporte permitía viajar a 177 países, TSMC producía el 90 % de los chips avanzados del mundo, y el Parlamento Europeo aprobó por 432:60:71 una resolución contra la distorsión por parte de China de la Resolución 2758 de la ONU. El reconocimiento formal se contrae, la red en la sombra se expande y la batalla por la interpretación del derecho internacional se está invirtiendo.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '國際關係'
 tags:
   [
     'diplomacia',
@@ -14,10 +12,12 @@ tags:
     'Naciones Unidas',
     'escudo de silicio',
   ]
+subcategory: '國際關係'
+author: 'Taiwan.md Contributors'
 readingTime: 16
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 51
     platform: 'threads'
@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c87'
-sourceContentHash: 'sha256:03188362c6b1e61a'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-05-26T05:10:57+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T11:56:33.062454+00:00'
 ---
 
 # Aliados diplomáticos y relaciones internacionales de Taiwán: 12 aliados, 113 oficinas, 177 países con exención de visado
@@ -262,33 +262,33 @@ Pero en el plano del derecho internacional hay cuatro riesgos reales:
 
 Mantener 12 aliados diplomáticos hace que ese argumento no se sostenga. Por lo tanto, el valor de esos 12 países en sí mismo es limitado; su valor reside en que **no son 0**.
 
-## Tres cifras
+## Tres números
 
 ```
 12             113            177
-Aliados        Oficinas       Países accesibles
-diplomáticos   en el exterior con el pasaporte
+Aliados        Misiones       Países que
+diplomáticos   en el exterior pasaportes permiten
 ```
 
-12 países reconocen al gobierno de la República de China en Taiwán como «el gobierno legítimo de China».
-113 oficinas representan a Taiwán en el mundo y gestionan asuntos prácticos.
-177 países no reconocen a la República de China, pero dejan entrar a los ciudadanos taiwaneses.
+12 países reconocen al gobierno de la República de China (Taiwán) como «el gobierno legítimo de China».
+113 misiones en el exterior representan a Taiwán y gestionan asuntos prácticos en todo el mundo.
+177 países no reconocen a la República de China, pero permiten la entrada de ciudadanos taiwaneses.
 
-El Parlamento Europeo aprobó por 432 votos a favor la resolución contra la distorsión de la 2758. Cuando Tsai Ing-wen dejó el cargo en mayo de 2024, los aliados eran 12; en octubre, fue invitada a visitar el Parlamento Europeo. Bonnie Glaser habló de un momento de dependencia de TSMC. Mark Lambert dijo que la 2758 no menciona a Taiwán.
+El Parlamento Europeo aprobó la resolución 2758 con 432 votos a favor y 275 contra. Cuando Tsai Ing-wen dejó el cargo en mayo de 2024, había 12 aliados diplomáticos; tras su salida, fue invitada a visitar el Parlamento Europeo en octubre. Bonnie Glaser mencionó que la dependencia de TSMC tuvo un momento crítico. Mark Lambert afirmó que la resolución 2758 no menciona a Taiwán.
 
-Todo esto ocurre simultáneamente. No existe algo llamado «el estatus internacional de Taiwán».
+Todas estas cosas están sucediendo simultáneamente. No existe algo llamado «el estatus internacional de Taiwán».
 
-Si existiera, no sería 12, ni 113, ni 177, ni el 90 % ni el 30 %.
+Si existiera, ese algo no sería el 12, ni el 113, ni el 177, ni un 90 % o un 30 %.
 
-Sería la distancia entre esas cifras.
+Es la distancia entre esos números.
 
-**Lecturas complementarias**:
+**Lecturas adicionales**:
 
-- [[Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization)] — Cuando los aliados se reducen a 12, la autodefensa militar es otro pilar para mantener el «no ser 0»
-- [[Crisis del Estrecho y desarrollo de las relaciones entre ambas orillas](/es/history/taiwan-strait-crises-and-cross-strait-relations)] — Cómo tres crisis moldearon el aislamiento diplomático y la ansiedad de seguridad de Taiwán
-- [[TSMC](/business/台積電)] — La base material del escudo de silicio y su vulnerabilidad estructural
-- [[Cho Jung-tai](/es/people/cho-jung-tai)] — Trayectoria arancelaria EE. UU.-Taiwán 32→20→15 % en 2026 + coordinación del gabinete para la visita de Lai Ching-te a Esuatini
-- [[Taiwán y Esuatini](/es/society/taiwan-eswatini-relations)] — La historia completa de 58 años, desde el establecimiento de relaciones el mismo día en 1968 hasta la visita de Lai Ching-te en 2026, del último aliado africano entre los 12
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Cuando solo quedan 12 aliados diplomáticos, la autodefensa militar es otro pilar para mantener el «no ser 0».
+- [La crisis del estrecho y el desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Cómo tres crisis han moldeado el aislamiento diplomático y la ansiedad de seguridad en Taiwán.
+- [TSMC](/es/economy/tsmc) — La base material del escudo de silicio y su vulnerabilidad estructural.
+- [Zhuo Rongtai](/es/people/cho-jung-tai) — El coordinador de gabinete para la trayectoria de los aranceles EE. UU.-Taiwán 2026 (del 32 % al 20 % y luego al 15 %) + la visita de Lai Ching-te a Eswatini.
+- [Taiwán y Eswatini](/es/society/taiwan-eswatini-relations) — De los 12 aliados diplomáticos, África solo conserva uno; la historia completa de 58 años, desde el establecimiento de relaciones en la misma fecha en 1968 hasta la visita de Lai Ching-te en 2026.
 
 ## Referencias
 
