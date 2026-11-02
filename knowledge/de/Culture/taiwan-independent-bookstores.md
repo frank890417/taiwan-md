@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-11-02T13:47:57.577711+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Unabhängige Buchläden in Taiwan sind keine feste Geschäftsform, sondern eine Betriebsweise, bei der die Auswahl von Büchern, die räumliche Dimension und die öffentliche Beziehung miteinander verbunden sind. Sie können sich im Keller eines Universitätsviertels in Taipeh befinden, sie können versteckt in den alten Gassen von Guanshan, neben der Changbin-Straße oder in einer Gasse auf Penghu liegen. Buchläden verkaufen Bücher, aber häufiger arrangieren sie Begegnungen für fremde Leser und bewahren eine Sprache, die weiter gesprochen werden kann, für einen Ort. Die Herausforderungen – Rabatte, Logistik, Miete und Bevölkerungsfragen – unterscheiden sich zwischen den Buchstraßen von Chongqing South Road, den Buchhandlungen in Wenluo Ting und den Mikro-Räumen in kleinen Städten und auf Inseln, doch sie beantworten dieselbe Frage: Wie lässt ein Ort Bücher und Leser begegnen, die sonst unsichtbar wären? Dieser Wert kann nicht durch Einnahmen ersetzt werden, aber er erklärt, warum manche Menschen trotz Online-Rabatten und digitalem Lesen bereit sind, ihr Geschäft an Regalen zu riskieren.
@@ -122,11 +122,11 @@ Die Kultur der unabhängigen Buchläden in Taiwan ist daher keine einfache Gesch
 
 Wenn ein Buch auf ein Regal gelegt wird, hat der Besitzer bereits eine Auswahl für den Leser getroffen. Wenn der Leser eintritt, kann er den Laden mit seinen eigenen Fragen verändern. Dieser Wechsel macht den Buchladen zu einem Wohnzimmer des Ortes – nicht weil er immer still oder immer romantisch ist, sondern weil er bereit ist, Fremden einen Stuhl anzubieten.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Geschichte der Literatur in Taiwan](/de/art/history-of-taiwanese-literature): Langfristiger Hintergrund zum Verständnis der öffentlichen Lesbarkeit durch Autoren, Werke und literarische Räume.
-- [Druckkultur in Taiwan](/culture/台灣活版印刷文化): Verfolgung, wie Bücher, Zeitungen und öffentliche Sprache durch Drucktechnologie hergestellt wurden.
-- [Kirchliche Mitteilungen in Taiwan](/de/culture/taiwan-church-news): Verständnis der frühen Publikationen, Sprachen und religiösen Organisationen, die Gemeinschaften von Lesern bildeten.
+- [Geschichte der taiwanischen Literatur](/de/art/history-of-taiwanese-literature): Ein tieferer Einblick in den langfristigen Hintergrund der Lesepublikkeit durch die Betrachtung von Autoren, Werken und literarischen Räumen.
+- [Die Kultur des Letterpress-Drucks in Taiwan](/de/culture/taiwan-letterpress-printing): Eine Untersuchung darüber, wie Bücher, Zeitungen und die öffentliche Sprache durch Drucktechniken konkret geschaffen wurden.
+- [Taiwan Church Bulletin](/de/culture/taiwan-church-news): Ein Verständnis dafür, wie der frühe Buchdruck, Sprache und religiöse Organisationen gemeinsam eine Lesergemeinschaft formten.
 
 ## Quellenangaben
 
