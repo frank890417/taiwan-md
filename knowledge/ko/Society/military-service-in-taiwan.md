@@ -2,19 +2,20 @@
 title: '금마상부터 한빛연습까지: 타이완 남성의 집단적 성인식과 생존 훈련'
 description: "1945년 이후 타이완의 병역은 3년에서 4개월로 단축되었다가, 2024년에 다시 1년제로 복귀했다. 수백만 명이 관련된 이 집단 기억은 단순히 '모두 다 똑같은'이라는 구호가 아니라, 회색 지대(gray zone)에 놓인 이 섬의 생존 긴장감 그 자체이다."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社會制度'
 tags: ['병역', '국방', '의무복무', '한빛연습', '금마상']
-readingTime: 12
+subcategory: '社會制度'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-02T20:49:55.764113+00:00'
 ---
 
 > **30초 요약:** 타이완의 병역 제도는 이 섬이 반세기가 넘는 동안 지닌 가장 심오한 사회적 각인이다. 계엄령 시기의 '3년 복무'에서 오늘날 1년제 의무복무로 회귀하기까지, 이는 단순한 복무 기간의 숫자 변화가 아니라 지정학적 압력에 맞서는 타이완의 실제적인 반영이다. 본문은 추첨 현장에서의 '금마상(金馬獎)' 놀라움부터, 슈퍼마켓까지 훈련에 포함되는 현대 전비(戰備) 현장, 그리고 면제 기준, 신식 훈련 일정, 각종 대체 복무 및 실전화된 소집(召集)으로의 전환을 심층적으로 분석한다.
@@ -94,10 +95,11 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ### 참고 자료
 
-## 추가 독서
+## 확장 읽기
 
-- [후쿠코(湖口) 막사 및 승리로 기억](/ko/history/hukou-camp-shengli-road-memory) — 군사 공간의 일상적 기억
-- [흑웅학원(黑熊學院)](/ko/society/kuma-academy-civil-defense-school) — 민간 방위 의식의 현대적 버전
+- [후커우 영구와 승리로의 기억](/ko/history/hukou-camp-shengli-road-memory) — 군사 공간의 일상 기억
+- [흑곰 학원](/ko/society/kuma-academy-civil-defense-school) — 민간 방위 의식의 현대적 버전
+- [금마장](/art/金馬獎) — 영화인들의 금마장과 복무병들이 말하는 「금마장」은 같은 근원에서 나왔으며, 모두 진먼(金門)과 마쭈(馬祖)의 첫 글자에서 유래했다
 
 ## 참고 문헌
 
