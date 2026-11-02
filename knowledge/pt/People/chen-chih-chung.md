@@ -182,21 +182,11 @@ Sua própria declaração foi feita em 2023. Durante seu período de prisão, el
 
 ## Quem não pode se registrar, agora lê o voto de outros
 
+<!-- poll-blackout:start -->
+
 Na manhã de 17 de agosto de 2026, ele estava sentado à mesa principal da coletiva de imprensa, divulgando uma pesquisa de opinião sobre a eleição do prefeito de Taichung.
 
-O Partido Nacionalista (KMT) tinha Jiang Chi-chung com 42,8% de apoio, e o Partido Progressista Democrático (DPP) tinha He Xin-chun com 36,1%, uma diferença de 6,7 pontos percentuais. Em termos de probabilidade de vitória, Jiang Chi-chung estava em 48,2% contra 23,6% para He Xin-chun. Seu comentário foi: "A redução da diferença mostra que o caso do óleo tóxico prejudicou a imagem do KMT em Taichung", e ele acrescentou: "Taichung tem grande potencial para uma mudança, é muito possível" [^49].
-
-```tw-dot
-Pesquisa de Apoio ao Prefeito de Taichung (%, com intervalo de confiança de 95%) - 2026
-Jiang Chi-chung | 42.8 | 39.9 | 45.7
-He Xin-chun | 36.1 | 33.2 | 39.0
-Fonte: Think Tank Nacional Taiwan, comissionado pela Fundação Kaida Gran, pesquisa de campo realizada entre 11 e 13 de agosto de 2026
-```
-
-```tw-note
-Explicação
-A tabela acima mostra a estimativa do apoio e o intervalo de erro amostral sob o nível de confiança de 95% (± 2.88 pontos percentuais), com um total de 1.159 amostras válidas, sendo os entrevistados residentes em Taichung com mais de 20 anos. O intervalo foi calculado a partir do erro divulgado, visando lembrar que a estimativa não é um valor definitivo.
-```
+<!-- poll-blackout:end -->
 
 O Think Tank Nacional Taiwan, que publicou esta pesquisa, foi fundado por Koo Kuan-min em janeiro de 2010. Em 1º de setembro de 2016, Koo Kuan-min doou o think tank para a Fundação Kaida Gran, e Chen Chi-chung assumiu como diretor executivo a partir daquele momento, permanecendo no cargo até agosto de 2026 [^50]. O representante legal registrado da Fundação Kaida Gran é o legislador Chen Ting-fei, que ocupa o cargo de diretor executivo na fundação; são posições distintas [^51].
 

@@ -183,21 +183,11 @@ Su propia declaración fue en 2023. Durante su período de encarcelamiento, emit
 
 ## Quien no puede registrarse, ahora lee las papeletas de otros
 
+<!-- poll-blackout:start -->
+
 A media mañana del 17 de agosto de 2026, se sentó en la mesa principal de una conferencia de prensa y presentó una encuesta sobre las elecciones para alcalde de Taichang.
 
-El Partido Nacionalista (KMT) tenía al candidato Jiang Chi-chung con un apoyo del 42.8%, mientras que el Partido Progresista Democrático (DPP) tenía a He Hsin-chun con un 36.1%, una diferencia de 6.7 puntos porcentuales. En cuanto a la probabilidad de ganar, Jiang Chi-chung estaba en un 48.2% frente al 23.6% de He Hsin-chun. Su comentario fue que "la reducción de la brecha muestra que el caso del aceite venenoso ha afectado al campamento azul en Taichang", y añadió que "es muy probable que Taichang cambie su rumbo, hay mucho potencial" [^49].
-
-```tw-dot
-Apoyo a los candidatos para alcalde de Taichang (%, con intervalo de confianza del 95%)
-Jiang Chi-chung | 42.8 | 39.9 | 45.7
-He Hsin-chun | 36.1 | 33.2 | 39.0
-Fuente: Think Tank Nacional de Taipéi, encomendado por la Fundación Kaida Gran, encuesta realizada del 11 al 13 de agosto de 2026 en la ciudad.
-```
-
-```tw-note
-Explicación
-La tabla muestra las estimaciones de apoyo y el margen de error muestral bajo un nivel de confianza del 95% (± 2.88 puntos porcentuales). Se completaron 1,159 muestras válidas, y los encuestados eran residentes mayores de 20 años en la ciudad de Taichang. El intervalo se calculó a partir del error publicado, con el propósito de recordar que las estimaciones no son valores definitivos.
-```
+<!-- poll-blackout:end -->
 
 El Think Tank Nacional de Taipéi, que publicó esta encuesta, fue fundado por Koo Kuan-min en enero de 2010. El 1 de septiembre de 2016, Koo Kuan-min donó el think tank a la Fundación Kaida Gran, y Chen Chi-chung ha sido director ejecutivo desde entonces, hasta agosto de 2026 [^50]. La representante legal registrada de la Fundación Kaida Gran es el legislador Chen Ting-fei; su título en la fundación es el de directora ejecutiva, lo que son dos puestos diferentes [^51].
 

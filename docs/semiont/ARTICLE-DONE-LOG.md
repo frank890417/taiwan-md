@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-10-14
-last_session: '2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-11-02
+last_session: '2026-11-02-twmd-desk（沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,19 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 沈伯洋＋蔣萬安 — 2026-11-02 twmd-desk 完成（EVOLVE 一對，台北市長選舉投票前上線）
+
+- **Article**: [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md)、[knowledge/People/蔣萬安.md](../../knowledge/People/蔣萬安.md)（commit `79742de3b`）
+- **Pipeline**: REWRITE-PIPELINE-SINGLE — EVOLVE，兩篇並排編排（各一位 Opus 研究＋寫手 → 沈四段、蔣三段 Sonnet 查證 → 一個乾淨脈絡的並排編輯室 2.5-R → 原寫手各改一輪）
+- **哲宇原話**：舊文寫得不錯，大幅增補後上線／辯論、民調和選戰攻防全部都要寫／兩邊一起進化／辯論完整轉錄當研究材料／不用一直問
+- **對稱處理**：兩篇共用同一張十一列查核表、同一組七件攻防的事實與原話、同一張民調表；背書每篇最多兩則、選戰段不放策展人筆記；description 選戰句同一個骨架；篇幅 16,006 與 17,444 CJK（差 9%）
+- **民調**：選罷法第 53 條要八項齊備，十二份裡查得到八項的只有東森 10-27、11-02 與韜略 11-02，其餘不引述；整段包在 poll-blackout 標記裡，11/17 晚撤、11/28 16:00 後放回（INBOX P0）。同日把線上〈沈伯洋〉十三語舊版裡五份八項不齊的民調撤掉（`bad1eae00`）
+- **辯論**：10/31 三立官方完整版本機轉錄（faster-whisper 分段重跑、OpenCC 轉繁）只當定位材料，進正文的引語對已發表逐字稿或影音時間戳；台灣事實查核中心十一份報告逐條列進查核表
+- **查證與修正**：沈約 16 ❌ 127 ⚠️、蔣 4 ❌ 81 ⚠️，全數處理；舊版〈沈伯洋〉開場有杜撰細節、多處記者轉述被寫成直接引語，都改回有出處的版本。編輯室判初稿「讀者會覺得偏沈（中等）」，修訂刪掉敘事者評價與策展人筆記、lifeTree 只留事實節點
+- **品質**：沈 185 腳註／7 張圖、蔣 197 腳註／8 張圖；stage-3-5／stage-4／prose-health／opening-readability 四道 gate hard=0；〈蔣萬安〉拿掉 `curation: incubating`
+- **Research**: [reports/research/2026-11/沈伯洋.md](../../reports/research/2026-11/沈伯洋.md)、[reports/research/2026-11/蔣萬安.md](../../reports/research/2026-11/蔣萬安.md)
+- **待補**：11/28 開票後兩篇同一天補結果（INBOX 已開 P0，期限 12/5）
 
 ### 台灣與核能的討論 — 2026-11-02 twmd-desk 完成（EVOLVE，接 11/28 公投第 22 案，開票前上線）
 

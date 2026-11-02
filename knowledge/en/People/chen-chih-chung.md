@@ -182,21 +182,11 @@ His own words, left behind in 2023, say it all. During his imprisonment, he issu
 
 ## Cannot Register, Now Reading Others' Votes
 
+<!-- poll-blackout:start -->
+
 On the morning of August 17, 2026, he sat at the main table of a press conference and released a poll on the Taichung mayoral race.
 
-KMT candidate Chiang Chi-chen had 42.8% support, DPP candidate Ho Hsin-chun had 36.1%, a gap of 6.7 percentage points. The likelihood of winning was 48.2% for Chiang Chi-chen versus 23.6% for Ho Hsin-chun. His comment was that "the gap has narrowed, showing that the oil scandal has hurt the blue camp's chances in Taichung," and that "Taichung is very likely to change hands, with much to be done"[^49].
-
-```tw-dot
-2026 Taichung Mayor Support (%) (including 95% confidence interval)
-Chiang Chi-chen | 42.8 | 39.9 | 45.7
-Ho Hsin-chun | 36.1 | 33.2 | 39.0
-Source: New Taiwan National Development Research Institute, commissioned by the Kadaguan Foundation, surveyed by phone from August 11 to 13, 2026
-```
-
-```tw-note
-Explanation
-The above table shows the estimated support points and the sampling error interval at the 95% confidence level (±2.88 percentage points), with a total of 1,159 valid samples. The survey targets are residents aged 20 and above registered in Taichung City. The interval is calculated based on the published error values, intended to remind readers that the estimates are not definitive values.
-```
+<!-- poll-blackout:end -->
 
 The New Taiwan National Development Research Institute that released this poll was founded by Kurt Ku in January 2010. On September 1, 2016, Kurt Ku donated the institute to the Kadaguan Foundation, and since then Chen Chih-chung has served as its executive director, remaining in the position until August 2026[^50]. The legal representative of the Kadaguan Foundation is Legislative Yuan member Chen Ting-fei, whose title at the foundation is executive director—this represents two different positions[^51].
 
