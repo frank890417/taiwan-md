@@ -2,9 +2,7 @@
 title: 'From Golden Horse Awards to Hanwha Exercises: The Collective Rite of Passage and Survival Drill for Taiwanese Men'
 description: "From 1945 onward, Taiwan's military service has shifted from a three-year term to four months, and then back to a one-year system in 2024. This collective memory, involving millions of people, is more than just the command phrase 'one two three four five six seven eight nine zero'; it represents the island's survival tension within a gray zone."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社會制度'
 tags:
   [
     'Military Service',
@@ -13,15 +11,18 @@ tags:
     'Hanwha Exercises',
     'Golden Horse Awards',
   ]
-readingTime: 12
+subcategory: '社會制度'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-02T20:39:26.769568+00:00'
 ---
 
 > **30 Second Overview:** Taiwan's military service system is one of the deepest social imprints of this island over half a century. From the "three-year conscription" era during martial law to the current mandatory one-year term, this is not merely a numerical change in service length; it is an authentic reflection of Taiwan confronting geopolitical pressure. This article takes you from the gasp of surprise at the draft lottery—the "Golden Horse Award"—to the modern preparedness scene where even supermarkets are included in Hanwha exercises, deeply analyzing the practical transformation across exemption standards, new training schedules, various substitute services, and modernized reserve duty calls.
@@ -98,8 +99,9 @@ Taiwan's military service system is a long-term dialogue about "responsibility" 
 
 ## Further Reading
 
-- [Memory of Hukou Camp and Victory Road](/en/history/hukou-camp-shengli-road-memory) — Daily memories of military space
-- [Black Bear Academy](/en/society/kuma-academy-civil-defense-school) — Contemporary version of civil defense consciousness
+- [Memories of Hukou Camp and Shengli Road](/en/history/hukou-camp-shengli-road-memory) — Everyday memories of military spaces
+- [Black Bear Academy](/en/society/kuma-academy-civil-defense-school) — A contemporary version of civilian defense awareness
+- [Golden Horse Awards](/art/金馬獎) — The "Golden Horse Awards" for filmmakers and the one mentioned by conscripts share the same origin: the first characters of Kinmen and Matsu
 
 ## Sources
 
