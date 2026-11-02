@@ -1,31 +1,31 @@
 ---
-title: '台湾漫画'
-description: '1970年代の漫画王国を築いた劉興欽、敖幼祥から、1991年に鄭問が日本を征服して「アジアの至宝」と称され、蔡志忠が『荘子説』で古典哲学を漫画化した時代を経て、2010年の金漫賞、2017年のCCC創作集へ——台湾漫画は日本漫画の猛撃による低潮を乗り越え、今まさに自らのオリジナルな声を取り戻しつつある。'
+title: '台湾マンガ'
+description: '1970年代のマンガ王国を築いた劉興欽や敖幼祥から、1991年に日本を征服し「アジアの至宝」と呼ばれた鄭問、古典哲学をマンガ化した蔡志忠の『荘子説』、そして2010年の金漫奨や2017年のCCC創作集に至るまで。台湾マンガは日本マンガの攻勢による低迷期を乗り越え、独自のオリジナリティを取り戻しつつあります。'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
-    '漫画',
+    'マンガ',
     '鄭問',
     '蔡志忠',
     '劉興欽',
     '敖幼祥',
-    '金漫賞',
+    '金漫奨',
     'CCC創作集',
     '阮光民',
   ]
-readingTime: 11
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
-translatedFrom: Art/台灣漫畫.md
-sourceCommitSha: 85926aa3b
-sourceContentHash: sha256:5275019358614716
-sourceBodyHash: sha256:dd1128570e96c06e
-translatedAt: 2026-05-24T05:06:32+08:00
 difficulty: 'beginner'
+readingTime: 11
+translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
+sourceBodyHash: 'sha256:dd1128570e96c06e'
+translatedAt: '2026-11-02T16:20:40.312869+00:00'
 ---
 
 # 台湾漫画
@@ -115,9 +115,9 @@ CCCの成功は、作品の品質向上だけでなく、台湾漫画に対す�
 
 ## 関連記事
 
-- [台湾アニメ文化](/ja/culture/taiwan-anime-culture) —— 読者視点のアニメ・マンガ消費文化：コスプレ、同人誌、アニメ・マンガイベント、世代の記憶
-- [台湾映画](/ja/art/taiwanese-cinema) —— 台湾の視覚的語りのもう一つの軸
-- [台湾現代文学の発展](/art/台湾現代文学の発展) —— 台湾の創作における自己意識の変遷（文字の層）
+- [台湾のアニメ・マンガ文化](/ja/culture/taiwan-anime-culture) — 読者視点によるアニメ・マンガ消費文化：コスプレ、同人誌、コミックマーケット、世代の記憶
+- [台湾映画](/ja/art/taiwanese-cinema) — 台湾の視覚的ナラティブにおけるもう一つの軸
+- [台湾現代文学の発展](/ja/art/contemporary-taiwanese-literature) — 台湾の創作における自己意識の進化を示す文字の層
 
 ## 参考文献
 

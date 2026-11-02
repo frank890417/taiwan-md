@@ -1,6 +1,6 @@
 ---
-title: '台湾漁業の現代化：一張の漁網がいかに前鎮、三大洋と一つの島の食卓をつなぐか'
-description: '日治時期の漁業行政、戦後の前鎮漁港と冷凍設備から、1979年の遠洋漁業発展方案、1982年の排他的経済水域制度、2005年の国際制裁まで、台湾漁業がいかに沿岸の漁業から外洋産業へと転換したかを追跡する。漁業学校、水産試験、養殖輸出、漁村家庭、港湾の多元化、船旗国責任について整理し、産量成長の背後にある資源、労働、地方統治、国際規則を説明する。'
+title: '台湾の漁業近代化：一枚の漁網がいかにして前鎮、三大洋、そして島の食卓を繋いできたか'
+description: '日本統治時代の漁政、戦後の前鎮漁港と冷凍設備から、1979年の遠洋漁業発展方案、1982年の排他的経済水域制度、そして2005年の国際制裁に至るまで、台湾の漁業がいかにして沿岸漁業から海洋を越える産業へと変貌を遂げたかを辿ります。また、漁業学校、水産試験、養殖輸出、漁村の家庭、港湾の多様化、旗国責任についても整理し、生産量の成長の背後にある資源、労働、地方自治、そして国際的なルールについて解説します。'
 date: 2026-08-21
 category: 'History'
 tags: ['漁業', '遠洋漁業', '漁港', '戦後経済', '海洋文化']
@@ -17,10 +17,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-26T10:22:46+08:00'
+translatedAt: '2026-11-02T15:36:27.978646+00:00'
 ---
 
 # 台湾漁業の現代化：一張の漁網がいかに前鎮、三大洋と一つの島の食卓をつなぐか
@@ -157,8 +157,8 @@ _画像出典：[Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wi
 
 [^10]: [漁業多元化經營建設計畫委託研究案](https://ws.ndc.gov.tw/001/administrator/10/relfile/0/12936/d6f3e5bd-684d-4ea7-9595-6b925c5124e0.pdf) — 国家発展委員会研究報告詳細ページ、漁港機能、産業多元化、地方建設、漁業転型を論じ。
 
-## 延伸閲讀
+## 延伸閱讀
 
-- [台灣漁業起源](/ja/history/taiwan-fishery-origins) — 同じ海の前半：日治水産試験、魚市場、戦後技術接収
-- [台灣海洋貿易史](/ja/history/taiwan-maritime-trade-history)
-- [台灣糖業史](/history/台灣糖業史)
+- [台湾漁業の起源](/ja/history/taiwan-fishery-origins) — 同一海域における前半戦：日本統治時代の水産試験、魚市場、および戦後の技術継承
+- [台湾海洋貿易史](/ja/history/taiwan-maritime-trade-history)
+- [台湾糖業史](/ja/economy/taiwan-sugar-industry)
