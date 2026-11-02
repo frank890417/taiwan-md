@@ -1,9 +1,16 @@
 ---
-title: '타이완의 전 연령 포용 여행과 생활 문화: 인간미가 가장 강력한 무장애 시설이 되다'
-description: "가정의 시각으로 관찰한 타이완 사회가 인간적인 정(情)과 포용적 시설을 통해 초고령사회로 나아가는 과정에서 '온 가족 함께 여행'의 의미를 재정의하는 방식."
+title: '대만의 전 연령 포용적 관광과 생활 문화: 정(情)이 무장애 시설이 될 때'
+description: "가족의 관점에서 대만 사회가 초고령 사회로 나아가는 과정에서, 특유의 따뜻한 인심과 포용적 시설을 통해 '온 가족이 함께하는 여행'의 의미를 어떻게 재정의하고 있는지 살펴봅니다."
 date: 2026-03-23
 category: 'Society'
-tags: ['전연령포용', '무장애여행', '초고령사회', '가족문화', '사회회복탄력성']
+tags:
+  [
+    '전 연령 포용',
+    '무장애 관광',
+    '초고령 사회',
+    '가족 문화',
+    '사회적 회복탄력성',
+  ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
 featured: false
@@ -12,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T21:18:58+08:00'
+translatedAt: '2026-11-02T15:16:45.299027+00:00'
 ---
 
 > **30초 요약:**

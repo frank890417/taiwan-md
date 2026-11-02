@@ -17,10 +17,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-12T18:24:51+08:00'
+translatedAt: '2026-11-02T14:23:13.602050+00:00'
 ---
 
 # 타이완 어업의 현대화: 한 장의 그물이 전진항, 3대양과 한 섬의 식탁을 어떻게 잇는가
@@ -157,8 +157,8 @@ _사진 출처: [Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wi
 
 [^10]: [어업 다각화 경영 건설 계획 위탁 연구안](https://ws.ndc.gov.tw/001/administrator/10/relfile/0/12936/d6f3e5bd-684d-4ea7-9595-6b925c5124e0.pdf) — 국가발전위원회 연구 보고서 상세 페이지, 어항 기능, 산업 다각화, 지역 건설, 어업 전환을 논의한다.
 
-## 더 읽을 거리
+## 연관 읽기
 
-- [타이완 어업 기원](/ko/history/taiwan-fishery-origins) — 동일한 바다의上半场: 일제 수산 시험, 어시장, 전후 기술 인수
+- [타이완 어업의 기원](/ko/history/taiwan-fishery-origins) — 같은 바다의 전반전: 일제강점기 수산시험, 어시장 및 전후 기술 수용
 - [타이완 해양 무역사](/ko/history/taiwan-maritime-trade-history)
-- [타이완 제당사](/history/台灣糖業史)
+- [타이완 당업사](/ko/economy/taiwan-sugar-industry)
