@@ -1,32 +1,32 @@
 ---
-title: "Yoichi Hatta: de leyenda hidráulica a 'gran canal que muerde', la impronta colonial de un tecnócrata"
-description: "En la década de 1920, el ingeniero japonés Yoichi Hatta construyó el embalse de Wushantou y el Gran Canal de Chianan en la llanura de Chianan, en Taiwán. Esta obra de escala mundial trajo abundantes cosechas agrícolas, pero debido a su carácter de explotación colonial y a la pesada carga impuesta a los agricultores, algunos campesinos la llamaron el 'gran canal que muerde'. Este artículo examina en profundidad los méritos y deméritos de Yoichi Hatta, la doble cara de su filosofía de gestión y la compleja impronta que esta historia dejó en la sociedad taiwanesa."
+title: 'Yoichi Hatta: De la ingeniería hidráulica al «Gran Canal que muerde», la huella colonial de un tecnócrata'
+description: 'En la década de 1920, el ingeniero japonés Yoichi Hatta construyó el embalse de Wushantou y el Gran Canal de Chianan en la llanura de Chianan, Taiwán. Aunque esta obra de ingeniería de clase mundial trajo cosechas abundantes, también fue apodada por algunos agricultores como el «Gran Canal que muerde» debido a su naturaleza de explotación colonial y la pesada carga impuesta a los campesinos. Este artículo explora en profundidad los méritos y fallos de Yoichi Hatta, la dualidad de su filosofía de gestión y la compleja huella que este periodo histórico dejó en la sociedad taiwanesa.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Yoichi Hatta',
     'Gran Canal de Chianan',
     'Embalse de Wushantou',
-    'período de dominio japonés',
-    'explotación colonial',
-    'agricultura taiwanesa',
-    'evaluación histórica',
+    'Periodo de ocupación japonesa',
+    'Explotación colonial',
+    'Agricultura de Taiwán',
+    'Evaluación histórica',
   ]
-readingTime: 15
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 15
 translatedFrom: 'People/八田與一.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:6b0f80761ab45ab9'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:9f1665215c6b5da8'
 sourceBodyHash: 'sha256:2885ebb0691722a3'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-02T15:51:35.891085+00:00'
 ---
 
-> **Panorama en 30 segundos:** En 1920, el ingeniero japonés Yoichi Hatta dirigió la construcción del embalse de Wushantou y del Gran Canal de Chianan en la llanura de Chianan, en Taiwán. Esta infraestructura hidráulica, elogiada como un “milagro de ingeniería”, transformó tierras áridas en el granero arrocero de Taiwán. Sin embargo, detrás de ella se encontraban el saqueo de los recursos taiwaneses por parte del gobierno colonial japonés y el sufrimiento de los agricultores obligados a aplicar el “sistema de rotación trienal”, hasta el punto de que llegó a conocerse como el “gran canal que muerde”. La decisión de Hatta de “despedir primero a los empleados excelentes” durante una reducción de personal ha sido interpretada como una forma de consideración humanitaria, pero también generó controversias de gestión. Esta historia, desde el suicidio por ahogamiento de su esposa Sotoki Hatta en la desesperación de la posguerra hasta el incidente contemporáneo de la decapitación de su estatua, nos recuerda una y otra vez que la evaluación de los méritos y deméritos de un constructor colonial nunca es unidimensional, sino que está cargada de contradicciones y tensiones.
+> **Resumen en 30 segundos:** En 1920, el ingeniero japonés Yoichi Hatta dirigió la construcción del embalse de Wusantou y el Gran Canal de Chianan en la llanura de Chianan, Taiwán. Esta obra hidráulica, aclamada como un «milagro de la ingeniería», transformó tierras baldías en el granero de Taiwán. Sin embargo, tras ella se escondía la explotación de los recursos de Taiwán por parte del gobierno colonial japonés y el sufrimiento de los agricultores obligados a implementar el «sistema de rotación trienal», lo que le valió el apodo de 「el Gran Canal que muerde a la gente」. La decisión de Yoichi Hatta de «priorizar el despido de empleados excelentes» durante los recortes de personal, aunque interpretada por algunos como un acto de humanidad, también generó controversia en su gestión. Esta historia —marcada por el desesperado suicidio por inmersión tras la guerra de la esposa de Hatta, fuera de su linaje familiar, y por el incidente contemporáneo del decapitación de su estatua— nos recuerda constantemente que la evaluación de los constructores coloniales nunca es unidimensional, sino que está llena de contradicciones y tensiones.
 
 ## Una visión que atravesó épocas: el nacimiento del Gran Canal de Chianan y su contexto colonial
 

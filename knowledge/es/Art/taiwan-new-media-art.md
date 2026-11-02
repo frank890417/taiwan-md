@@ -23,10 +23,10 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ef8fab38'
-sourceContentHash: 'sha256:d196b7664449f36f'
-sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: '2026-06-13T00:00:00Z'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:322922074ebc6f22'
+sourceBodyHash: 'sha256:532e9b8210a860d0'
+translatedAt: '2026-11-02T14:25:03.357380+00:00'
 ---
 
 # El arte de nuevos medios en Taiwán
@@ -131,34 +131,34 @@ Taiwán tiene una superficie de 36.000 km², una población de 23 millones de ha
 
 ## Desafíos
 
-Los logros del arte de nuevos medios en Taiwán no deben ocultar los dilemas estructurales a los que se enfrenta.
+Los logros del arte de nuevos medios en Taiwán no deben ocultar los dilemas estructurales que enfrenta.
 
-El problema del mercado de coleccionismo es el más fundamental: las instalaciones interactivas son difíciles de exhibir en espacios privados, las obras de RV requieren equipos especiales para su experiencia, y la conservación de obras digitales enfrenta el riesgo de obsolescencia tecnológica. La mayoría de los artistas de nuevos medios de Taiwán siguen dependiendo en gran medida de las subvenciones públicas y los encargos de museos; este ecosistema funciona cuando las políticas son estables, pero es muy vulnerable cuando cambian de dirección.
+El problema más fundamental reside en el mercado de coleccionismo: las instalaciones interactivas son difíciles de exhibir en espacios privados, las obras de RV requieren equipos especiales para su experiencia y la preservación de las obras digitales enfrenta el riesgo de la obsolescencia tecnológica. La mayoría de los artistas de nuevos medios en Taiwán siguen dependiendo en gran medida de las subvenciones del sector público y de encargos de museos; este ecosistema funciona cuando las políticas son estables, pero resulta muy vulnerable cuando hay cambios en las directrices gubernamentales.
 
-En 2023, la controversia sobre derechos de autor provocada por la escritora Dan-Ru Wu al utilizar imágenes generadas por Midjourney expuso la ambigüedad de la sociedad taiwanesa respecto a la definición de la creación mediante IA. Las directrices vigentes de la Oficina de Propiedad Intelectual de Taiwán establecen que "los resultados de inteligencia generados por máquinas, en principio, no gozan de derechos de autor", pero en la realidad de una colaboración entre humanos y máquinas cada vez más compleja, esta frontera se está difuminando rápidamente. Artistas como Chia-Wei Hsu y Kuang-Yi Gu tienen largas experiencias de residencia en el extranjero; cómo mantener a los talentos vinculados al ecosistema taiwánés mientras fluyen internacionalmente sigue siendo un problema sin resolver.
+En 2023, la controversia sobre los derechos de autor provocada por el uso de Midjourney para generar imágenes por parte de la escritora Wu Tan-ju expuso la ambigüedad de la sociedad taiwanesa respecto a la definición de la creación por IA. Las directrices actuales de la Oficina de Propiedad Intelectual de Taiwán determinan que «los resultados intelectuales generados por máquinas, en principio, no gozan de derechos de autor», pero ante la realidad de una colaboración humano-máquina cada vez más compleja, esta línea se está desdibujando rápidamente. Artistas como Hsu Chia-wei y Ku Guang-yi tienen experiencias de residencia prolongada en el extranjero; cómo lograr que este talento mantenga su vínculo con el ecosistema de Taiwán mientras fluye internacionalmente sigue siendo un enigma sin resolver.
 
-Ante la rápida expansión de la industria del arte digital impulsada por el capital en China continental y la infraestructura del metaverso financiada a gran escala por el gobierno de Corea del Sur, la estrategia de Taiwán es clara: no competir en escala, competir en profundidad. La pregunta nunca ha sido si Taiwán puede lograrlo, sino si este ecosistema podrá seguir apoyando a los artistas para que realicen experimentos más arriesgados.
+Frente a la rápida expansión de la industria del arte digital impulsada por el capital en China continental, y ante las masivas inversiones del gobierno de Corea del Sur en infraestructura de metaverso, la estrategia de Taiwán es clara: no compite en escala, sino en profundidad. El problema nunca ha sido si Taiwán es capaz de hacerlo, sino si este ecosistema puede sostener continuamente a los artistas para que realicen experimentos cada vez más difíciles.
 
-Cuando en 2025 el nombre de Yu Shien Yang apareció en la lista de premiados del Festival Ars Electronica de Linz, nadie se sorprendió especialmente: los artistas taiwaneses están allí todos los años. Esta "naturalidad" es el resultado de cuarenta años de acumulación: desde la cámara de video prestada de Kuang-Yu Yuan, hasta los dedos de Hsin-Chien Huang volando en el vacío, hasta la respiración de los 697 pétalos mecánicos de LuxuryLogico. Taiwán nunca ha sido el que más recursos tiene, pero en el campo del arte de nuevos medios, ha logrado algo poco común: dar alma a las máquinas.
+Cuando el nombre de Yang Yu-hsien apareció en la lista de jurados del Festival de Artes Electrónicas de Linz en 2025, nadie se sorprendió especialmente; los artistas taiwaneses están allí cada año. Esta sensación de «normalidad» es el resultado de cuarenta años de acumulación: desde la videocámara que Yuan Kuang-ming tomó prestada, hasta los dedos de Huang Hsin-chien volando en el vacío, pasando por el aliento de las 697 flores mecánicas de 《豪華朗機工》. Taiwán nunca ha sido el país con más recursos, pero en el campo del arte de nuevos medios, ha logrado algo excepcional: dotar de alma a la máquina.
 
 ---
 
-**Lecturas complementarias**:
+**Lecturas adicionales**:
 
-- [Desarrollo de la literatura contemporánea en Taiwán](/art/台灣當代文學發展) — El ecosistema creativo contemporáneo taiwánés que surgió en paralelo al arte de nuevos medios, para comprender el contexto general del mundo cultural.
-- [Teatro y artes escénicas en Taiwán](/es/art/taiwanese-theater-and-performing-arts) — El trasfondo en artes escénicas de creadores interdisciplinares como Huang Yi, en la intersección entre cuerpo y tecnología.
-- [Cine taiwánés](/es/art/taiwanese-cinema) — Otra vertiente del arte audiovisual taiwánés, que comparte escenario festivalero con el arte de nuevos medios.
-- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v) — Otra faceta de la cultura tecnológica taiwánés: la intersección entre el espíritu de código abierto y el mundo del arte.
-- [Historia de la industria televisiva en Taiwán](/es/technology/taiwan-television-industry-history) — La evolución mediática de la radiodifusión a OTT, el contexto institucional de la tecnología audiovisual.
-- [justfont y el desarrollo tipográfico en Taiwán](/es/technology/justfont-and-taiwan-typography) — Otro grupo de creadores en la intersección del diseño, la tecnología y la identidad cultural: quienes recuperan trazo a trazo la tipografía de Taiwán.
-- [Tehching Hsieh](/es/art/tehching-hsieh-performance-artist) — El medio corporal antes de los nuevos medios: pionero del arte de acción taiwánés y maestro internacional de las cinco performances de un año.
-- [Wang Xin-Ren (A-Luan)](/es/art/wang-hsin-jen-artist) — Primer artista generativo taiwánés en Art Blocks, figura central del proyecto FAB DAO Hundred Peaks y de akaSwap.
-  [Wang Lian-Cheng (Shrimp Dad)](/es/art/wang-lien-cheng-artist) — Ganador del primer premio en la categoría de escultura del Lumen Prize 2017, miembro de i/O Lab y director del festival Lacking Sound, representante del arte de instalaciones sonoras en Taiwán.
-- [Wu Che-Yu](/es/people/che-yu-wu) — Artista de nuevos medios que se autodenomina "relojero antiguo", participante en la Bienal de Venecia Personal Structures × Art Basel Miami × promotor del proyecto de código abierto Taiwan.md.
-- [The Reporter: diez años rescatando el periodismo de investigación de un rubro comercial a un bien público](/es/society/the-reporter-investigative-journalism) — Otro caso de ADN taiwánés impulsado por la comunidad ciudadana y de crecimiento transversal, que muestra otra vía de construcción de bienes públicos por parte de la sociedad civil a partir de 2015.
-- [justfont y el desarrollo tipográfico en Taiwán: una pequeña historia tipográfica de los veinticinco años de Dynafund a los setenta y seis minutos de Jin-Syuan](/es/technology/justfont-and-taiwan-typography) — La tipografía como infraestructura cultural, otra dimensión que, al igual que el arte de nuevos medios, se ocupa de la subjetividad visual taiwanesa.
-- [Cables submarinos: visibles en la cima del escudo de silicio, invisibles en el fondo como lifeline](/es/technology/submarine-cables-taiwan-lifeline) — El 99% de las colaboraciones curatoriales y exposiciones internacionales de arte de nuevos medios transcurren por cable submarino; este artículo revela esta infraestructura cultural digital invisible.
-- [Aaron Nieh (聶永真)](/es/people/nieh-yung-jen) — Primer miembro taiwanés de la Alliance Graphique Internationale (AGI), y la posición curatorial del estudio forever·true en la cultura visual contemporánea de Taiwán.
+- [El desarrollo de la literatura contemporánea en Taiwán](/es/art/contemporary-taiwanese-literature) — El ecosistema de creación contemporánea que surgió junto al arte de nuevos medios; para entender el contexto general del círculo cultural.
+- [Teatro y artes escénicas en Taiwán](/es/art/taiwanese-theater-and-performing-arts) — El trasfondo de las artes escénicas de creadores interdisciplinarios como Huang Yi, en la intersección entre el cuerpo y la tecnología.
+- [Cine de Taiwán](/es/art/taiwanese-cinema) — Otra vertiente del arte visual de Taiwán, que comparte escenarios de festivales con el arte de nuevos medios.
+- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v) — Otra faceta de la cultura tecnológica de Taiwán, donde el espíritu del código abierto se cruza con el círculo artístico.
+- [Historia de la industria televisiva de Taiwán](/es/technology/taiwan-television-industry-history) — La evolución de los medios desde la radiodifusión hasta el OTT; el contexto institucional de la tecnología de imagen.
+- [justfont y el desarrollo de las tipografías en Taiwán](/es/technology/justfont-and-taiwan-typography) — Otro grupo de creadores situados en la frontera entre el diseño, la tecnología y la identidad cultural: quienes han recuperado los caracteres de Taiwán trazo a trazo.
+- [Tehching Hsieh](/es/art/tehching-hsieh-performance-artist) — El medio corporal previo a los nuevos medios; pionero del arte de acción en Taiwán y maestro internacional de las «One Year Performances».
+- [Wang Shin-jen (A-Luan)](/es/art/wang-hsin-jen-artist) — El primer artista de arte generativo de Taiwán en entrar en Art Blocks; figura central de akaSwap y del proyecto FAB DAO Bai-yue.
+- [Wang Lien-sheng (Xia-ba)](/es/art/wang-lien-cheng-artist) — Ganador del primer premio en la categoría de escultura en el Lumen Prize 2017, miembro de i/O Lab y organizador de Shisheng Festival; representante del arte de instalaciones sonoras en Taiwán.
+- [Wu Che-yu](/es/people/che-yu-wu) — Artista de nuevos medios que se autodenomina «antiguo relojero», iniciador del proyecto de código abierto Taiwan.md para la Bienal de Venecia Personal Structures × Art Basel Miami.
+- [The Reporter: Diez años salvando el periodismo de investigación como bien público](/es/society/the-reporter-investigative-journalism) — Otro caso de "ADN de Taiwán" impulsado por la comunidad ciudadana y con crecimiento interdisciplinario, que muestra otra vía para la construcción de bienes públicos tras 2015.
+- [justfont y el desarrollo de las tipografías en Taiwán: una pequeña historia tipográfica desde los 25 años de Huashan hasta los 76 minutos de Jinxuan](/es/technology/justfont-and-taiwan-typography) — La tipografía como infraestructura cultural, otra dimensión que, al igual que el arte de nuevos medios, se interesa por la subjetividad visual de Taiwán.
+- [Cables submarinos: visibles desde el Escudo de Silicio, invisibles bajo sus arterias](/es/technology/submarine-cables-taiwan-lifeline) — El 99% de las exhibiciones y colaboraciones curatoriales de arte de nuevos medios transnacionales dependen de los cables submarinos; este artículo revela esta infraestructura cultural digital invisible.
+- [Nie Yung-chen](/es/people/nieh-yung-jen) — El primer miembro taiwanés de la AGI (Association of Grand International Graphic Design), con su estudio Yung-chen Rapid Prototyping y su posición en la curaduría de la cultura visual contemporánea de Taiwán.
 
 ## Referencias
 

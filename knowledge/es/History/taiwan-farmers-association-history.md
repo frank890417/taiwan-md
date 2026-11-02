@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-11T23:06:49+08:00'
+translatedAt: '2026-11-02T15:37:05.643692+00:00'
 ---
 
 # El gremio agrícola no solo vende fertilizantes: Cómo la organización pública rural de Taiwán evolucionó desde el sistema colonial hasta la reforma de las secciones crediticias
@@ -126,11 +126,11 @@ El gremio no se ha conservado inalterado desde el período colonial hasta hoy. E
 
 La posición histórica del gremio está aquí. Las políticas agrícolas del Estado ingresan a la vida local a través de él, y la competencia por recursos locales regresa al sistema institucional a través de él. Solo comprendiendo este camino de ida y vuelta se puede entender cómo el gremio, al mismo tiempo que ofrece servicios, soporta la presión del control y la competencia.
 
-## Lecturas complementarias
+## Lecturas adicionales
 
-- [Reforma agraria en Taiwán](/es/history/taiwan-land-reform) — El contexto institucional de la mejora de los gremios y la reconfiguración del poder rural posbélico
-- [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — Otra línea de la promoción de gremios, la tecnología agrícola y la transformación industrial
-- [Historia del agua potable en Taiwán](/history/台灣自來水史) — Lectura comparativa desde la organización rural hacia el sistema de infraestructura pública
+- [Reforma agraria en Taiwán](/es/history/taiwan-land-reform) — El contexto institucional de la mejora de los gremios agrícolas y la reestructuración del poder rural tras la guerra.
+- [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — Otra línea sobre la promoción de los gremios agrícolas, la tecnología agraria y la transformación industrial.
+- [Historia del agua corriente en Taiwán](/es/geography/taiwan-tap-water) — Una lectura comparativa sobre la transición desde las organizaciones rurales hacia el sistema de infraestructuras públicas.
 
 ## Referencias
 

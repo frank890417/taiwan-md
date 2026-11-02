@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-11T03:20:23+08:00'
+translatedAt: '2026-11-02T15:27:00.337966+00:00'
 ---
 
 # Más allá de la salida al mar: cómo la pesca de Taiwán fue reconfigurada por barcos experimentales, mercados de pescado y un grupo de profesionales técnicos
@@ -142,10 +142,10 @@ De manera similar, las carreteras, la producción de hielo, la electricidad y el
 
 ## Lecturas adicionales
 
-- [La modernización de la pesca de Taiwán](/es/history/taiwan-fishery-modernization) — La segunda mitad del mismo mar: flotas de altura, zonas económicas exclusivas y responsabilidad del Estado de pabellón
-- [Historia de las cooperativas agrícolas de Taiwán](/es/history/taiwan-farmers-association-history) — Cambios institucionales en organizaciones rurales, finanzas y ventanas públicas locales
-- [Historia de los correos de Taiwán](/history/台灣郵政史) — Otra infraestructura pública que conecta lo local, la logística y la administración estatal
-- [Historia del agua potable de Taiwán](/history/台灣自來水史) — Cómo ingeniería, higiene y vida urbana forman conjuntamente el sistema
+- [La modernización de la pesca en Taiwán](/es/history/taiwan-fishery-modernization) — La segunda mitad del mismo mar: flotas de altura, zonas económicas exclusivas y la responsabilidad del Estado de abanderamiento
+- [Historia de las asociaciones agrícolas de Taiwán](/es/history/taiwan-farmers-association-history) — Organizaciones rurales, finanzas y los cambios institucionales en las ventanillas públicas locales
+- [Historia de Correos de Taiwán](/es/lifestyle/taiwan-postal-service-history) — Otra infraestructura pública que conecta lo local, la logística y la administración estatal
+- [Historia del agua corriente en Taiwán](/es/geography/taiwan-tap-water) — Cómo la ingeniería, la higiene y la vida cotidiana urbana formaron juntos un sistema institucional
 
 ## Fuentes
 
