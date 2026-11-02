@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T14:50:10+08:00",
-    "zhCommitHead": "281336539",
+    "lastUpdated": "2026-11-02T15:34:30+08:00",
+    "zhCommitHead": "8af7a3ea0",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 25,
+        "fresh": 1119,
+        "stale": 24,
         "metadata_stale": 12,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1157,
-        "fresh": 1116,
-        "stale": 26,
+        "fresh": 1117,
+        "stale": 25,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1157,
-        "fresh": 1117,
-        "stale": 25,
+        "fresh": 1118,
+        "stale": 24,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
@@ -84,32 +84,32 @@
       },
       "hi": {
         "total_zh": 1157,
-        "fresh": 1112,
-        "stale": 29,
+        "fresh": 1113,
+        "stale": 28,
         "metadata_stale": 14,
         "missing": 2,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1157,
-        "fresh": 1115,
-        "stale": 27,
+        "fresh": 1116,
+        "stale": 26,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1157,
-        "fresh": 1115,
-        "stale": 27,
+        "fresh": 1116,
+        "stale": 26,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1157,
-        "fresh": 1102,
-        "stale": 34,
+        "fresh": 1103,
+        "stale": 33,
         "metadata_stale": 19,
         "missing": 2,
         "orphan": 0
@@ -34594,20 +34594,18 @@
         "en": {
           "path": "en/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "0df538d8c",
-          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
-          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:533b8db87f48f6de",
+          "sourceBodyHash": "sha256:8a6bcaa4a83cff70",
           "translatedAt": "2026-09-16T11:40:00.516433+00:00",
           "translationLastCommit": "3c67e212",
           "translationLastModified": "2026-10-10T23:33:38+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "bytes": 69543,
+          "bytes": 69542,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/nvidia-in-taiwan.md",
@@ -34760,20 +34758,18 @@
         "ru": {
           "path": "ru/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "0df538d8c",
-          "sourceContentHash": "sha256:a7a044b9c6def84a",
-          "sourceBodyHash": "sha256:5412b8ae390af1fa",
-          "translatedAt": "2026-09-26T04:56:03.323089+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:533b8db87f48f6de",
+          "sourceBodyHash": "sha256:8a6bcaa4a83cff70",
+          "translatedAt": "2026-11-02T06:50:36.917475+00:00",
           "translationLastCommit": "07c8467d",
           "translationLastModified": "2026-10-10T23:00:26+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "bytes": 119806,
+          "bytes": 127051,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/nvidia-in-taiwan.md",
@@ -34822,9 +34818,9 @@
         "ja": {
           "path": "ja/Technology/justfont-and-taiwan-typography.md",
           "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:50da80d49885286c",
-          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:4e382a7fba09b7dd",
+          "sourceBodyHash": "sha256:83fcd71da8d50603",
           "translatedAt": "2026-06-14T00:35:00+08:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
@@ -34832,10 +34828,8 @@
           "footnoteDefs": 65,
           "bytes": 57904,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/justfont-and-taiwan-typography.md",
@@ -34944,8 +34938,8 @@
           "sourceContentHash": "sha256:4e382a7fba09b7dd",
           "sourceBodyHash": "sha256:83fcd71da8d50603",
           "translatedAt": "2026-07-28T03:07:46+08:00",
-          "translationLastCommit": "0e249950",
-          "translationLastModified": "2026-10-10T23:16:36+08:00",
+          "translationLastCommit": "8af7a3ea",
+          "translationLastModified": "2026-11-02T14:50:10+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "bytes": 112502,
@@ -34956,9 +34950,9 @@
         "ar": {
           "path": "ar/Technology/justfont-and-taiwan-typography.md",
           "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:50da80d49885286c",
-          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:4e382a7fba09b7dd",
+          "sourceBodyHash": "sha256:83fcd71da8d50603",
           "translatedAt": "2026-07-27T20:03:46+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
@@ -34966,10 +34960,8 @@
           "footnoteDefs": 65,
           "bytes": 70270,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/justfont-and-taiwan-typography.md",
@@ -35660,20 +35652,18 @@
         "ko": {
           "path": "ko/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:575572d1dd581d19",
-          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:8647f4437b5dfe36",
+          "sourceBodyHash": "sha256:d7402441fbb7f358",
           "translatedAt": "2026-08-03T15:34:38.519247+00:00",
           "translationLastCommit": "88fb98f8",
           "translationLastModified": "2026-10-10T23:34:00+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 56790,
+          "bytes": 56789,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-semiconductor-industry.md",
@@ -35768,20 +35758,18 @@
         "hi": {
           "path": "hi/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:575572d1dd581d19",
-          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:8647f4437b5dfe36",
+          "sourceBodyHash": "sha256:d7402441fbb7f358",
           "translatedAt": "2026-08-03T16:38:58.928018+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 110214,
+          "bytes": 110213,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-semiconductor-industry.md",
@@ -172078,20 +172066,18 @@
         "de": {
           "path": "de/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "813fde2d6",
-          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
-          "sourceBodyHash": "sha256:4f8e5414cbe29614",
-          "translatedAt": "2026-09-23T08:25:43.486906+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9d679c3b9e055699",
+          "sourceBodyHash": "sha256:71b357541a22d4f7",
+          "translatedAt": "2026-11-02T07:05:57.622246+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 56540,
+          "bytes": 62227,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+14 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
