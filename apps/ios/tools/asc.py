@@ -57,7 +57,13 @@ def call(method, path, body=None):
         detail = e.read().decode(errors='replace')
         try:
             errs = json.loads(detail).get('errors', [])
-            detail = ' | '.join(f"{x.get('code')}: {x.get('detail')} {x.get('source', '')}" for x in errs)
+            lines = []
+            for x in errs:
+                lines.append(f"{x.get('code')}: {x.get('detail')} {x.get('source', '')}")
+                for path, subs in (x.get('meta', {}).get('associatedErrors') or {}).items():
+                    for sub in subs:
+                        lines.append(f"    ↳ {sub.get('code')}: {sub.get('detail')}")
+            detail = '\n'.join(lines)
         except Exception:
             pass
         raise SystemExit(f'❌ {method} {path} → {e.code} {detail}')
@@ -245,8 +251,12 @@ REVIEW_NOTES = open(os.path.join(STORE, 'review-notes.txt'), encoding='utf-8').r
 
 def cmd_review_notes():
     v = version()
+    # 電話是個人資料，只從環境變數讀，不寫進 repo：ASC_REVIEW_PHONE='+886 …' tools/asc.py review-notes
+    phone = os.environ.get('ASC_REVIEW_PHONE')
+    if not phone:
+        raise SystemExit('需要環境變數 ASC_REVIEW_PHONE（帶國碼）')
     attrs = {'contactFirstName': 'Che-Yu', 'contactLastName': 'Wu', 'contactEmail': 'taiwanmd@monoame.com',
-             'demoAccountRequired': False, 'notes': REVIEW_NOTES}
+             'contactPhone': phone, 'demoAccountRequired': False, 'notes': REVIEW_NOTES}
     cur = get(f"v1/appStoreVersions/{v['id']}/appStoreReviewDetail").get('data')
     if cur:
         call('PATCH', f"v1/appStoreReviewDetails/{cur['id']}", {'data': {
@@ -255,7 +265,28 @@ def cmd_review_notes():
         call('POST', 'v1/appStoreReviewDetails', {'data': {
             'type': 'appStoreReviewDetails', 'attributes': attrs,
             'relationships': {'appStoreVersion': {'data': {'type': 'appStoreVersions', 'id': v['id']}}}}})
-    print('  審查備註與聯絡人 ✓（電話待本人在網頁填）')
+    print('  審查備註與聯絡人 ✓')
+
+
+def cmd_submit():
+    """送審：建立（或沿用）審查提交、放入版本 1.0、送出。缺什麼 Apple 會逐項回錯誤，不會半途送出。"""
+    v = version()
+    subs = get(f'v1/reviewSubmissions?filter[app]={APP_ID}&filter[platform]=IOS&limit=20')['data']
+    open_sub = next((s for s in subs if s['attributes']['state'] in ('READY_FOR_REVIEW',)), None)
+    if not open_sub:
+        open_sub = call('POST', 'v1/reviewSubmissions', {'data': {
+            'type': 'reviewSubmissions', 'attributes': {'platform': 'IOS'},
+            'relationships': {'app': {'data': {'type': 'apps', 'id': APP_ID}}}}})['data']
+    items = get(f"v1/reviewSubmissions/{open_sub['id']}/items")['data']
+    if not items:
+        call('POST', 'v1/reviewSubmissionItems', {'data': {
+            'type': 'reviewSubmissionItems',
+            'relationships': {'reviewSubmission': {'data': {'type': 'reviewSubmissions', 'id': open_sub['id']}},
+                              'appStoreVersion': {'data': {'type': 'appStoreVersions', 'id': v['id']}}}}})
+    r = call('PATCH', f"v1/reviewSubmissions/{open_sub['id']}", {'data': {
+        'type': 'reviewSubmissions', 'id': open_sub['id'], 'attributes': {'submitted': True}}})
+    print('  送審 ✓', r['data']['attributes']['state'], r['data']['attributes'].get('submittedDate'))
+    print('  版本狀態', version()['attributes']['appStoreState'])
 
 
 if __name__ == '__main__':
