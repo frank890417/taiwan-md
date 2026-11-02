@@ -32,9 +32,9 @@ shot() {  # 檔名 等待秒數 啟動參數…
 # 第一次啟動先解壓內容包
 xcrun simctl launch "$UDID" md.taiwan.app >/dev/null; sleep 8
 shot 1-today 4 -TWLang zh-TW -TWPickKey "Food/台灣早餐文化"
-shot 2-article 5 -TWLang zh-TW -TWArticle "Food/台灣水果王國"
+shot 2-article 6 -TWLang zh-TW -TWArticle "Music/落日飛車"
 shot 3-search 5 -TWLang zh-TW -TWTab search -TWSearch "茶"
 shot 4-timeline 3 -TWLang zh-TW -TWTab explore -TWOpen timeline
-shot 5-japanese 6 -TWLang ja -TWArticle "Food/台灣美食總覽"
+shot 5-japanese 6 -TWLang ja -TWArticle "Culture/群島思維"
 xcrun simctl status_bar "$UDID" clear
 echo "✅ 截圖完成"

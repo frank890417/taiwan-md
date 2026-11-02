@@ -48,7 +48,9 @@ struct SearchEngine {
         let byKey = Dictionary(store.allMeta(lang).map { ($0.key, $0) }, uniquingKeysWith: { a, _ in a })
         return ranked.compactMap { key, score in
             guard let m = byKey[key] else { return nil }
-            let snippet = scope == .fullText ? Self.snippet(db: db, key: key, terms: terms) : nil
+            // 標題已經命中就顯示描述；只有正文命中時才取正文片段
+            let titleHit = terms.allSatisfy { TextNormalizer.normalize(m.title).contains($0) }
+            let snippet = scope == .fullText && !titleHit ? Self.snippet(db: db, key: key, terms: terms) : nil
             return Hit(meta: m, score: score, snippet: snippet)
         }
     }

@@ -18,7 +18,6 @@ struct SearchView: View {
                     ForEach(full) { hit in row(hit) }
                 } header: {
                     Text(L.t("全文 \(full.count) 筆", "\(full.count) full-text results", "全文 \(full.count) 件"))
-                        + Text(elapsed.map { String(format: " · %.0f ms", $0 * 1000) } ?? "")
                 }
                 if full.isEmpty { empty }
             } else {
