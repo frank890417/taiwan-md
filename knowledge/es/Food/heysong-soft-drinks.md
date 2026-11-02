@@ -1,26 +1,27 @@
 ---
-title: 'HeySong Soda y Sarsaparilla: De la "mercancía de tercera clase" ridiculizada a la leyenda centenaria que derrotó al imperio de la cola'
-description: 'No es una simple bebida carbonatada, sino una historia de supervivencia del capital nacional taiwanés bajo el dominio colonial japonés y la ola de globalización, que sobrevivió gracias a "17 dólares de activos" y a la canción "Mi futuro no es un sueño".'
+title: 'Heimsong Soda y Seven-Up: de ser considerados productos de "tercera clase" a desafiar al imperio de la Coca-Cola'
+description: 'Esta no es una simple bebida carbonatada, sino la historia de supervivencia del capital nacional taiwanés que, entre el control de la era colonial japonesa y las olas de la globalización, logró salir adelante gracias a sus activos y su espíritu de superación.'
 date: 2026-04-16
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
-    'HeySong Soda',
-    'HeySong Sarsaparilla',
-    'Marcas taiwanesas',
+    'Heimsong Soda',
+    'Heimsong Seven-Up',
+    'Marca taiwanesa',
     'Cultura gastronómica',
     'Chang Yu-sheng',
   ]
-readingTime: 12
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-translatedFrom: Food/黑松.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'Food/黑松.md'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: 2026-05-02T01:17:17+08:00
-featured: false
+translatedAt: '2026-11-02T01:24:47.999437+00:00'
 ---
 
 > **Panorama en 30 segundos:**

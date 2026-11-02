@@ -18,10 +18,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-18T00:53:02+08:00'
+translatedAt: '2026-11-02T01:47:05.979671+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1998, el magnate inmobiliario Lin Min-hsiung tomó el control de los centros de bienestar para militares, funcionarios y docentes, que arrastraban pérdidas crónicas y apenas contaban con 66 locales. Desde su posición de "forastero", impuso la línea roja de supervivencia "20 % más barato, 2 % de margen", abriéndose paso a la fuerza en el estrecho margen entre el gigante de las tiendas de conveniencia Uni-President (7-ELEVEN) y los colosos del formato cash-and-carry. Hoy PX Mart es el amo del comercio minorista con una facturación anual superior a 200 000 millones y 1200 puntos de venta, pero las controversias por monopolio y los dolores de la transformación digital ponen a prueba el próximo cuarto de siglo de esta "plataforma de vida".
@@ -64,14 +64,14 @@ Lin Min-hsiung dijo una vez que PX Mart es el "centro de bienestar de los taiwan
 
 ---
 
-## Lecturas recomendadas
+## Lectura adicional
 
-- **[Mascotas](/es/lifestyle/mascot-culture-in-taiwan)** — El oso PX Mart y Open Jiang: la gestión de IP de las mascotas minoristas
-- **[Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture)** — PX Mart, 7-Eleven, FamilyMart en el comercio minorista taiwanés
-- **[Economía del reparto en Taiwán](/economy/台灣外送經濟)** — Cómo la entrega en una hora de PX Mart se cuela en el mercado de foodpanda / Uber Eats
-- **[Pagos móviles en Taiwán](/es/technology/taiwan-mobile-payment)** — Desde PXPay Plus y otras herramientas, la aceptación por comercios hasta el respaldo en efectivo, entender por qué普及 y 通用 son distintos
-- **[Historia de la publicidad en Taiwán](/es/culture/taiwan-advertising-history)** — La Ogilvy detrás de la "estética económica" de PX Mart, y el siglo de la publicidad taiwanesa del monopolio de la atención al marketing emocional
-- **[Empresa taiwanesa: Uni-President](/es/economy/taiwan-enterprise-uni-president)** — Uni-President absorbe Carrefour, PX Mart absorbe RT-Mart, la otra mitad de la historia de la consolidación del dúo minorista taiwanés
+- **[Mascotas](/es/lifestyle/mascot-culture-in-taiwan)** — El oso de PX Mart y el Open Just: la gestión de propiedad intelectual (IP) de las mascotas minoristas
+- **[La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture)** — El posicionamiento de PX Mart, 7-Eleven y FamilyMart en el sector minorista de Taiwán
+- **[La economía del delivery en Taiwán](/es/lifestyle/food-delivery-platforms-taiwan)** — Cómo el servicio de entrega rápida de PX Mart logró entrar en el mercado de foodpanda / Uber Eats
+- **[Pagos móviles en Taiwán](/es/technology/taiwan-mobile-payment)** — Desde diversas herramientas como PX Pay hasta la aceptación por parte de comercios y el respaldo del efectivo: entender la diferencia entre popularidad y uso universal
+- **[Historia de la publicidad en Taiwán](/es/culture/taiwan-advertising-history)** — La agencia Ogilvy detrás de la «estética económica» de PX Mart, y la historia de cien años de la publicidad taiwanesa, desde el monopolio de la atención hasta el marketing emocional
+- **[Empresas taiwanesas: Uni-President Enterprises](/es/economy/taiwan-enterprise-uni-president)** — La otra mitad de la historia sobre la consolidación de los dos gigantes del sector minorista en Taiwán: la fusión de Uni-President con Carrefour y la de PX Mart con RT-Mart
 
 ## Referencias
 

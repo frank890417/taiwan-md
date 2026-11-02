@@ -2,7 +2,6 @@
 title: 'Pastel de piña: de aperitivo electoral a un "lingote dorado" taiwanés con un valor de producción de 25 mil millones de dólares'
 description: 'En 1945, la pastelería Yan Xinfá de Taichung reformuló el tradicional pastel de fénix y dragón en el pequeño pastel de piña. Desde la transición hacia el relleno de calabaza china durante la contracción de las exportaciones en la década de 1970, hasta que en 2009 Shan Zhi Qiu (Colina del Calor Suave) recuperó el sabor agridulce original de la piña nativa, este pequeño "lingote dorado" ha estado entrelazado durante ocho décadas con el destino agrícola de Taiwán. Hoy su valor de producción supera los 25 mil millones de dólares taiwaneses y se ha convertido en el sabor más representativo de Taiwán para los visitantes extranjeros.'
 date: 2026-04-24
-author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
   [
@@ -13,15 +12,17 @@ tags:
     'Shan Zhi Qiu',
     'Yan Xinfá',
   ]
-readingTime: 8
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
-featured: false
-translatedFrom: Food/鳳梨酥.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d40713778c8c010e'
+readingTime: 8
+translatedFrom: 'Food/鳳梨酥.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-02T01:41:18.237408+00:00'
 ---
 
 > **Resumen en 30 segundos:** El pastel de piña (鳳梨酥) es el punto de encuentro entre la agricultura y la repostería artesanal de Taiwán. Fundado en 1945 por Yan Xinfá en Taichung, en la década de 1970 desarrolló su cremoso relleno de calabaza china (冬瓜) ante la caída de las exportaciones de piña, y a partir de 2009 recuperó la atención del público gracias a la apuesta de Shan Zhi Qiu por la piña nativa. Hoy este pequeño lingote dorado supera un valor de producción anual de 25 mil millones de dólares taiwaneses y se ha convertido en el sabor más representativo de Taiwán para los visitantes extranjeros.
@@ -64,11 +65,11 @@ Detrás de cada pastel de piña hay el esfuerzo de los agricultores y maestros p
 
 En 2006, el Gobierno de la Ciudad de Taipéi organizó el primer "Festival Cultural del Pastel de Piña de Taipéi", logrando llevar este pastel tradicional al escenario internacional mediante concursos, marketing y empaque de marca[^10]. Este evento elevó la fama del pastel de piña e impulsó el desarrollo de industrias relacionadas, convirtiéndolo en el recuerdo de viaje "lingote dorado" imprescindible para los turistas que visitan Taiwán. El éxito del pastel de piña inspiró una tendencia en todo Taiwán para desarrollar recuerdos de viaje regionales característicos, convirtiéndose en un modelo de revitalización local y marketing cultural.
 
-## Lectura adicional
+## Lecturas adicionales
 
-- [Cultura de la repostería taiwanesa](/es/food/taiwan-pastry-culture) — Los genes de mil capas de la artesanía de los pasteles chinos y los postres modernos; junto con el pastel de piña, muestra la transformación de la repostería taiwanesa
-- [Sopa de fideos con carne de res](/es/food/beef-noodle-soup) — Otro representante de la "diplomacia popular" que define la memoria gustativa taiwanesa; complementa al pastel de piña como reflejo interno y externo
-- [Modernización agrícola de Taiwán](/economy/台灣農業現代化) — De las dificultades de producción y comercialización a la transformación en empresa agrícola; el pastel de piña es un tramo de este largo camino
+- [Cultura de la repostería en Taiwán](/es/food/taiwan-pastry-culture) — La herencia de los pasteles de harina de trigo y los postres modernos: observa la transformación de la repostería taiwanesa junto al pastel de piña.
+- [Sopa de fideos con ternera](/es/food/beef-noodle-soup) — Otro exponente de la «diplomacia popular» que define la memoria gustativa de Taiwán, creando un contraste entre lo local y lo internacional frente al pastel de piña.
+- [Modernización de la agricultura en Taiwán](/es/economy/taiwan-agricultural-modernization) — Desde los desafíos de producción y comercialización hasta la transformación de las empresas agrícolas: el pastel de piña es una etapa en este largo camino.
 
 ## Referencias
 
