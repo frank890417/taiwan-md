@@ -1,31 +1,31 @@
 ---
-title: 'Wu Baifu (Momofuku Ando): de Puzi, Chiayi, a las mesas del mundo, una leyenda global con genes taiwaneses y empaque japonés'
-description: 'En 1961, Momofuku Ando compró por 23 millones de yenes el derecho de solicitud de patente de fideos instantáneos de Zhang Guowen. No fue solo una transacción comercial, sino también una pugna transnacional por el derecho a definir la invención. Este empresario nacido en Puzi, Chiayi, transformó el alma de los tradicionales fideos jisi de Taiwán en un alimento nacional japonés y, mediante los fideos en taza Cup Noodles, modificó radicalmente los hábitos alimentarios globales. Este artículo examina en profundidad sus inicios empresariales en el Taiwán bajo dominio japonés, las reflexiones surgidas de su encarcelamiento de posguerra y los enredos de identidad y familia entre ambos países.'
+title: 'Wu Baifu (Momofuku Ando): de Puzi, Chiayi, a la mesa global, genes taiwaneses y empaque japonés'
+description: 'En 1961, Momofuku Ando compró por 23 millones de yenes los derechos de patente de fideos instantáneos de Chang Kuo-wen. Esto no fue solo una transacción comercial, sino una lucha transfronteriza por el derecho a definir la invención. Este empresario originario de Puzi, Chiayi, transformó el alma de los fideos de pollo tradicionales taiwaneses en un alimento nacional japonés, y a través de los fideos en tazón «Chicken Ramen» cambió radicalmente los hábitos alimentarios mundiales. Este artículo examina en profundidad sus inicios empresariales en el Taiwán bajo dominio japonés, sus reflexiones tras ser encarcelado después de la guerra, y los enredos de su identidad y familia entre los dos países.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Wu Baifu',
     'Momofuku Ando',
     'fideos instantáneos',
     'historia de Taiwán',
-    'cultura alimentaria',
+    'cultura gastronómica',
     'Nissin Foods',
-    'fideos en taza',
+    'fideos en tazón',
     'historia de posguerra',
     'Dadaocheng',
   ]
-readingTime: 20
+subcategory: '歷史人物'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-02T16:20:51.708652+00:00'
 ---
 
 > **Panorama en 30 segundos:**

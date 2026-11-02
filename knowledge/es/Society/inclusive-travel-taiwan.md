@@ -1,13 +1,13 @@
 ---
-title: 'Turismo y cultura de vida inclusiva para todas las edades en Taiwán: cuando el calor humano se convierte en la mejor instalación accesible'
-description: 'Desde la perspectiva familiar, se observa cómo la sociedad taiwanesa, a través del calor humano y las instalaciones inclusivas, redefine el significado de "viajar en familia" en el camino hacia una sociedad superenvejecida.'
+title: 'Turismo y cultura de vida inclusiva para todas las edades en Taiwán: cuando la calidez humana se convierte en accesibilidad'
+description: 'Desde una perspectiva familiar, se observa cómo la sociedad taiwanesa utiliza tanto su calidez humana como sus instalaciones inclusivas para redefinir el significado de "viajar en familia" en el camino hacia una sociedad de superenvejecimiento.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'inclusión para todas las edades',
+    'inclusión generacional',
     'turismo accesible',
-    'sociedad superenvejecida',
+    'sociedad de superenvejecimiento',
     'cultura familiar',
     'resiliencia social',
   ]
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:30+08:00'
+translatedAt: '2026-11-02T15:59:47.205575+00:00'
 ---
 
 > **Resumen en 30 segundos:**
