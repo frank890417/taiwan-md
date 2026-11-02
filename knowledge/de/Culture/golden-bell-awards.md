@@ -1,6 +1,6 @@
 ---
-title: 'Golden Bell Awards: Nach siebzehn Jahren im Wechsel zwischen drei Sendern zieht Taiwan jedes Jahr eine neue Linie für „unser Fernsehen“'
-description: 'Am 22. Oktober 2022 betrat Chen Ya-lan (陳亞蘭) im Anzug die Bühne der Sun-Yat-sen-Gedenkhalle und gewann als Koa-á-hì-Darstellerin einer männlichen Hauptrolle den Preis für den besten Hauptdarsteller einer Dramaserie – als erste Frau in siebenundfünfzig Jahren. Diese 1965 für den Rundfunk gegossene Glocke wechselte siebzehn Jahre lang nur zwischen den drei Namen TTV, CTV und CTS; später zogen der öffentliche Rundfunk PTS, Hakka-Dramen und ein vietnamesischer Schauspieler nach und nach in die Liste ein. Die Golden Bell Awards verleihen jedes Jahr Preise für schauspielerische Leistung, ziehen dabei aber in Wirklichkeit eine Linie: Wer als Taiwans Fernsehen zählt, und wer noch außerhalb dieser Linie steht.'
+title: 'Golden Bell Awards: Nach siebzehn Jahren des Wechsels zwischen drei Sendern zieht Taiwan jedes Jahr eine neue Grenze für „unser Fernsehen“'
+description: 'Am 22. Oktober 2022 betrat Chen Ya-lan im Anzug die Bühne des Sun Yat-sen Memorial Hall und gewann als erste Frau in 57 Jahren den Preis für den besten Hauptdarsteller in einer Dramaserie durch ihre Darstellung eines jungen Geza-Opera-Sängers. Diese 1965 für den Rundfunk gegossene Glocke wechselte siebzehn Jahre lang nur zwischen drei Namen: TTV, CTV und CTS; später hielten die PTS, Hakka-Dramen und vietnamesische Schauspieler nacheinander Einzug in die Liste. Die Golden Bell Awards verleihen jedes Jahr Preise für schauspielerische Leistungen, doch was sie wirklich tun, ist das Ziehen einer Linie: Wer zählt zum taiwanesischen Fernsehen und wer steht noch außerhalb dieser Grenze?'
 date: 2026-09-18
 category: 'Culture'
 tags:
@@ -10,28 +10,32 @@ tags:
     'Rundfunk',
     'PTS',
     'Netflix',
-    'BAMID',
+    'Filmbüro',
     'Preisverleihung',
-    'Taiwan-Oper',
+    'Geza-Oper',
   ]
 subcategory: '出版與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+rationale:
+  why_this_hook: '從陳亞蘭 2022 年拿走男主角獎那一晚進去，而不是從 1965 年的電台名單或制度沿革：一位歌仔戲小生站上戲劇節目男主角獎的台，把「金鐘每年替台灣劃一條線」這個論點一次立起來；制度史（五次換手、獎勵要點）壓成一節與一條時間軸，不當主脊。'
+  whats_excluded: '不做演技與作品優劣評價（主觀）；不比較港日韓獎項與產業規模（篇幅）；不寫分級、購票、幕後勞動與薪資、得獎商業效益、要點修法程序與預算（不在範疇）；大陸地區人士條款、原產地條款、良辰吉時取消資格、金鐘 51 超時等純制度或單一爭議事件本輪砍掉（離人太遠）；60/60 特展物件清單不列。'
+  where_it_hedges: '電視納入年份寫「1970 年前後」（官網與 1971 年報紙相差一年）；1981–1997 老三台無例外只指有頒獎的年份（1994、1996 輪到廣播）；廣播特別獎門檻不寫數字（要點查無）；吳進成入台視年份查無一手不寫；楊麗花本人對徒弟得獎的反應只有陳亞蘭轉述，正文只寫「打電話報喜」；典禮尚未舉行，文章停在名單。'
+  whos_pushing_back: '認為金鐘是評審品味裁判、名單反映作品好壞而非「台灣劃線」的讀者；認為線是資本與平台推的、金鐘只是事後追認的人（正文用「門是要點開的，線是評審劃的」分開回應）；懷疑公視同時是最大入圍者與轉播方的人；質疑客家作品大量入圍有政治因素的人（正文只記提問與曹瑞原回應）；廣播從缺爭議中的評審方。'
 readingTime: 15
-researchReport: reports/research/2026-09/金鐘獎.md
+researchReport: 'reports/research/2026-09/金鐘獎.md'
 image: '/article-images/culture/golden-bell-45th-main-stage-2010.webp'
 imageCredit: '☼ うみ 目覚めたら / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:45th_TV_Golden_Bell_Awards_Presentation_main_stage_20101022.jpg'
-relatedDiary:
-  - 2026-09-19-003000-news-radar
+relatedDiary: ['2026-09-19-003000-news-radar']
 translatedFrom: 'Culture/金鐘獎.md'
-sourceCommitSha: 'ff39af227'
-sourceContentHash: 'sha256:641571b11a5e3ea9'
-sourceBodyHash: 'sha256:02baeff9cbce935a'
-translatedAt: '2026-09-25T00:53:04+08:00'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:1c2ced1aaf70624b'
+sourceBodyHash: 'sha256:5e774c69559104df'
+translatedAt: '2026-11-02T18:48:37.087995+00:00'
 ---
 
 # Golden Bell Awards: Nach siebzehn Jahren im Wechsel zwischen drei Sendern zieht Taiwan jedes Jahr eine neue Linie für „unser Fernsehen“
@@ -154,35 +158,36 @@ Außerhalb der Linie stehen nicht nur Menschen aus dem Rundfunk. Seit 2013 sind 
 
 Eine Linie wird gezogen: Wer innerhalb steht, tritt auf die Bühne; wer außerhalb steht, erhebt die Stimme. Der Golden Bell streitet jedes Jahr, und immer geht es um genau das. Die anderen beiden der „drei Goldenen“ – der [Golden Melody Award](/de/music/pop-music-and-golden-melody-awards/) für Musik und der Golden Horse Award für Film – ziehen jeweils ihre eigene Linie.
 
-## Die Linie dieses Jahres wird erst am Abend des 24. Oktober gezogen
+## Die diesjährige Linie wird erst am Abend des 24. Oktober gezogen
 
-Alle drei Zeremonien der 61. Verleihung finden im Taipei Music Center statt: Rundfunk wird zuerst am 17. Oktober vergeben, Sachformate am 23. Oktober, Drama am 24. Oktober.[^52] Die Nominierungslisten sind bereits gedruckt: _The World Between Us II_ und _Forgotten, Yet I Remember_ (忘了我記得) liegen mit jeweils dreizehn Nominierungen gleichauf – die eine aus dem PTS-System, die andere von Netflix.[^53] Fünf taiwanesische Netflix-Serien kommen zusammen auf vierzig Nominierungen; die PR-Mitteilung nennt das einen historischen Höchststand, dabei waren es schon vor drei Jahren, bei der 58. Verleihung, ebenfalls vierzig.[^54][^55]
+Die drei Zeremonien der 61. Ausgabe finden alle im Taipei Music Center statt: Die Radio-Awards werden am 17. Oktober verliehen, die Kategorie Programme am 23. Oktober und die Kategorie Drama am 24. Oktober. [^52] Die Liste ist bereits gedruckt: 《我們與惡的距離 II》 (The World Between Us II) und 《忘了我記得》 (Forget Me Not) liegen mit jeweils dreizehn Nominierungen gleichauf – die eine Seite repräsentiert das öffentliche Fernsehen (PTS), die andere Netflix. [^53] Insgesamt kommt Netflix auf vierzig Nominierungen für fünf taiwanesische Produktionen, was laut Pressemitteilung einen neuen Rekord darstellt; bereits bei der 58. Ausgabe vor drei Jahren erreichte der Streaming-Riese ebenfalls vierzig Nominierungen. [^54][^55]
 
-Bei der Drama-Zeremonie im vergangenen Jahr verfolgten auf dem offiziellen YouTube-Livestream gleichzeitig fast 170.000 Menschen die Übertragung.[^56] Am Abend zuvor, bei der Sachformate-Zeremonie, gewann Xiao S (小 S) den Preis für die beste Moderatorin eines Unterhaltungsformats und sagte: „Mama, auch wenn meine Schwester nicht mehr hier ist, bin ich noch da.“ Am selben Abend sagte Kevin Tsai (蔡康永), egal wie sich die Zeiten änderten, Menschen brauchten immer Begleitung.[^57] Wahrscheinlich waren auch Sie einer dieser 170.000, die auf dem Handy warteten, bis ein Name verlesen wurde.
+Während der gestrigen Drama-Zeremonie schauten fast 170.000 Menschen gleichzeitig den offiziellen YouTube-Livestream. [^56] Bei der Vorabend-Zeremonie für Programme gewann „Little S“ (Blackie Chen) den Preis als beste Moderatorin einer Varieté-Show und sagte: „Mama, obwohl meine Schwester nicht mehr da ist, bin ich noch hier.“ Am selben Abend sagte Tsai Kang-yong, dass Menschen – egal wie sich die Zeiten ändern – immer Begleitung brauchen. [^57] Wahrscheinlich gehörten Sie auch zu diesen 170.000 Menschen, die am Handy darauf warteten, dass ein Name vorgelesen wird.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/4wPnqGZdB90" title="2025第60屆金鐘獎－戲劇類 頒獎典禮現場LIVE直播" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Offizieller Kanal der Golden Bell Awards: Archivaufzeichnung der Live-Übertragung der Drama-Preisverleihung der 60. Verleihung 2025. Bei dieser Zeremonie waren gleichzeitig fast 170.000 Menschen online; Lien Ping-fa und Yang Chin-hua (楊謹華) gewannen an diesem Abend die Preise für den besten Hauptdarsteller und die beste Hauptdarstellerin._
+_Offizieller Golden Bell Kanal: Archiv des Livestreams der 60. Golden Bell Awards für die Kategorie Drama im Jahr 2025. Fast 170.000 Menschen waren gleichzeitig online; in dieser Folge gewannen Lien Ping-fa und Yang Chin-hua jeweils die Preise für die besten Hauptdarsteller (männlich/weiblich)._
 
-Im Vorfeld der Zeremonie des Vorjahres richtete das Bureau of Audiovisual and Music Industry Development in Huashan die Sonderausstellung „60/60“ aus, die die Nominierungslisten von sechzig Verleihungen sichtbar machte; das Original-Requisit der Guillotinenklinge mit Drachenkopf aus _Justice Bao_ stand mitten in der Ausstellung.[^58] Dreißig Jahre zuvor, als Jin Chao-chun mit dieser Serie den Preis gewann, wechselte die Liste noch zwischen nur drei Namen.
+Rund um die gestrige Zeremonie veranstaltete das Bureau of Audiovisual and Music Industry Development eine Sonderausstellung mit dem Titel „60/60“ im Huashan Creative Park. Dort wurden die über die sechzig Ausgaben hinweg genannten Namen in greifbare Objekte verwandelt; so wurde etwa das Original-Requisit des „Drachenkopfs“ (Longtouzha) aus der Serie 《包青天》 (Justice Pao) ausgestellt. [^58] In der Ära vor dreißig Jahren, als Jin Chao-chun mit dieser Serie Preise gewann, wechselten die Namen auf der Liste noch zwischen nur drei Personen.
 
-Dieses Jahr ist bereits ein Preis vorab vergeben worden: der Preis für den besonderen Verdienst, an Wu Chin-cheng (吳進成). In einer Zeit ohne Computergrafik zeichnete er über vierzig Jahre lang Strich für Strich Bühnenbild- und Bauentwürfe von Hand und wird deshalb „der Regisseur auf dem Papier“ genannt. Er war künstlerischer Leiter bei _Bumbling Brothers_ (龍兄虎弟) und ebenso künstlerischer Leiter der Koa-á-hì-Produktionen von Yang Li-hua.[^59]
+In diesem Jahr wurde ein Preis bereits im Vorfeld verliehen: Der Special Contribution Award ging an Wu Chin-cheng. In einer Zeit ohne Computeranimationen zeichnete er über vierzig Jahre lang Szenenentwürfe und Konstruktionspläne mühsam von Hand; er wird deshalb als „Regisseur auf dem Papier“ bezeichnet. Er war der künstlerische Leiter für 《龍兄虎弟》 (Dragon Brothers) und arbeitete ebenfalls als Szenenbildner für die Geza-Opern von Yang Li-hua. [^59]
 
-In den Jahren, als Yang Li-hua im Fernsehen Koa-á-hì spielte, wechselte der Dramapreis noch zwischen drei Namen, und Wu Chin-cheng malte die Bühnenbilder für ihre Stücke. Jahrzehnte später gewann ihre Schülerin den Preis für den besten Hauptdarsteller; ihr letzter Satz auf der Bühne war: „Ich liebe Taiwan, ich liebe meine Fans, ich liebe euch alle, ich liebe Koa-á-hì“ – kaum von der Bühne, rief sie Yang Li-hua an.[^1] Der Mann, der die Bühnenbilder malte, erhielt den Preis für den besonderen Verdienst. Ein und dieselbe Glocke hat beide festgehalten: die Person vor und die Person hinter der Kamera.
+Als Yang Li-hua in der Ära, in der Geza-Opern im Fernsehen ausgestrahlt wurden, noch die Bühne dominierte, wechselte der Preis für beste Dramaproduktion noch zwischen drei Namen, während Wu Chin-cheng bereits ihre Bühnenbilder zeichnete. Jahrzehnte später gewann eine ihrer Schülerinnen den Preis für die beste Hauptdarstellerin und sagte als letzten Satz auf der Bühne: „Ich liebe Taiwan, ich liebe meine Fans, ich liebe euch, ich liebe Geza-Opern“, und rief sie direkt nach dem Abgang an. [^1] Der Mann, der die Kulissen malte, erhielt nun den Special Contribution Award. Dieselbe Glocke hat so zwei Menschen festgehalten – einen vor und einen hinter der Bühne.
 
-In jener Nacht 1965 in der Zhongshan Hall überreichte Yen Chia-kan acht Golden Bells, ohne dass auch nur ein einziges Fernsehen dabei war. Am Abend des 24. Oktober 2026 sind die Lichter im Taipei Music Center noch nicht angegangen. Wo die Linie dieses Jahres verläuft, wer innerhalb und wer noch außerhalb steht – das wird erst in jener Nacht verlesen.
+In jener Nacht im Jahr 1965 im Zhongshan Hall wurden acht Golden Bell Awards von Yan Chia-kan verliehen, obwohl es noch keinen einzigen Fernseher gab. Am Abend des 24. Oktober 2026 werden die Lichter im Taipei Music Center noch nicht brennen. Wo die Linie dieses Jahres gezogen wird, wer innerhalb und wer außerhalb der Linie steht, wird erst in jener Nacht verkündet werden.
 
 ---
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [PTS](/de/society/pts-public-television-service) — Wie die 1998 gegründete öffentlich-rechtliche Rundfunkgruppe von _Once_ bis zu sechzig Nominierungen bei der 61. Verleihung kam, der Name, der auf dieser Liste am häufigsten erscheint
-- [Zhi Ju Chang (植劇場)](/de/art/qseries-drama-platform) — Das Projekt, das 2017 und 2018 zwei Verleihungen in Folge den Dramapreis gewann und erstmals den Namen „Hao Feng Guang“ in der Preisträger-Spalte erscheinen ließ
-- [Geschichte der taiwanesischen Fernsehindustrie](/de/technology/taiwan-television-industry-history) — Wie die Industriestruktur, in der die alten drei Sender siebzehn Jahre lang das Monopol hielten, entstand und wie sie von Kabelfernsehen und Plattformen aufgebrochen wurde
-- [Die 20-Uhr-Sendung](/de/culture/taiwan-prime-time-drama) — Was die Taiwaner in der Ära von _Star Knows My Heart_ und _Justice Bao_ um acht Uhr abends sahen
-- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — Der andere der „drei Goldenen“: Wie Taiwan seine eigene Musik auszeichnet und festhält, welche Klänge es wert sind, erinnert zu werden
+- [PTS](/de/society/pts-public-television-service) — Wie die 1998 gegründete öffentlich-rechtliche Gruppe von 《曾經》 bis hin zu 60 Nominierungen bei der 61. Ausgabe gelang; die Namen, die auf dieser Liste am häufigsten auftauchen.
+- [Zhi-Theater](/de/art/qseries-drama-platform) — Das Projekt, das 2017 und 2018 in Folge den Preis für beste Dramaproduktion gewann; zum ersten Mal erschien in der Spalte der Preisträger „Hao Feng Guang“.
+- [Geschichte der taiwanesischen Fernsehindustrie](/de/technology/taiwan-television-industry-history) — Wie die Industriestruktur entstand, die siebzehn Jahre lang von den „drei großen Sendern“ dominiert wurde, und wie sie durch Kabelfernsehen und neue Plattformen geöffnet wurde.
+- [Prime Time](/de/culture/taiwan-prime-time-drama) — In der Ära von 《星星知我心》 (Stars Know My Heart) und 《包青天》 (Justice Pao): Was die Taiwaner um acht Uhr abends sahen.
+- [Golden Melody Awards](/de/music/pop-music-and-golden-melody-awards) — Der andere der „drei großen Preise“: Taiwans eigene Musikverleihung, die festhält, welche Klänge es wert sind, erinnert zu werden.
+- [Golden Horse Awards](/art/金馬獎) — Der Filmpreis unter den „drei großen Preisen“: Eine Entwicklung, bei der die Teilnahmebedingungen Jahr für Jahr gelockert wurden – vom reinen Mandarindrama hin zur Unabhängigkeit von der Nationalität.
 
 ## Bildquellen
 
