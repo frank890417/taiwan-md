@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T03:05:32+08:00",
-    "zhCommitHead": "7ceb2cede",
+    "lastUpdated": "2026-11-03T03:07:54+08:00",
+    "zhCommitHead": "f082ba6b5",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -76,16 +76,16 @@
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1133,
+        "fresh": 1134,
         "stale": 17,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 3,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1158,
-        "fresh": 1126,
-        "stale": 23,
+        "fresh": 1127,
+        "stale": 22,
         "metadata_stale": 6,
         "missing": 3,
         "orphan": 0
@@ -6930,20 +6930,18 @@
         "pt": {
           "path": "pt/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-20T14:22:24.491584+00:00",
+          "translatedAt": "2026-11-02T19:06:05.249669+00:00",
           "translationLastCommit": "283a1d9c",
           "translationLastModified": "2026-10-10T23:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 47156,
+          "bytes": 47453,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/pop-music-and-golden-melody-awards.md",
@@ -60430,8 +60428,8 @@
           "sourceContentHash": "sha256:36a6756b7629a9b0",
           "sourceBodyHash": "sha256:5b971b7718b762d0",
           "translatedAt": "2026-11-02T17:20:46.335696+00:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "f082ba6b",
+          "translationLastModified": "2026-11-03T03:05:32+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "bytes": 99313,
@@ -95506,20 +95504,18 @@
         "hi": {
           "path": "hi/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:495a4502c5bee0ff",
-          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
-          "translatedAt": "2026-08-02T16:21:18.322860+00:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:d01e4dc65a504478",
+          "sourceBodyHash": "sha256:42ff4d82e10867fc",
+          "translatedAt": "2026-11-02T19:07:26.772588+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 50678,
+          "bytes": 51907,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/nine-in-one-elections-explained.md",
@@ -233352,8 +233348,8 @@
           "sourceContentHash": "sha256:1c2ced1aaf70624b",
           "sourceBodyHash": "sha256:5e774c69559104df",
           "translatedAt": "2026-11-02T18:28:01.640904+00:00",
-          "translationLastCommit": "bcc6b00b",
-          "translationLastModified": "2026-09-25T01:15:15+08:00",
+          "translationLastCommit": "f082ba6b",
+          "translationLastModified": "2026-11-03T03:05:32+08:00",
           "inferred": false,
           "footnoteDefs": 59,
           "bytes": 64918,
