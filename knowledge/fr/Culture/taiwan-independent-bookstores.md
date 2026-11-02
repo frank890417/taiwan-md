@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '台灣究竟有多少家獨立書店，因書店定義、登記狀態與調查年份不同而有差異。文中保留來源各自的時間與統計口徑，不將約兩百家、兩百多家、八百六十九家等數字混寫成同一個現況答案。'
   whos_pushing_back: '反對把獨立書店浪漫化成不必計算成本的文化英雄，也反對把書店只看成能被電商價格取代的零售店。本文同時檢視補助治理、折扣制度、房租、勞動與社群經營的矛盾。'
 translatedFrom: 'Culture/台灣獨立書店.md'
-sourceCommitSha: '1919362ee'
-sourceContentHash: 'sha256:6207d486dffbdfd0'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9582cc144abfd48c'
 sourceBodyHash: 'sha256:a33d52837bb11fe8'
-translatedAt: '2026-09-11T11:06:12+08:00'
+translatedAt: '2026-11-02T14:52:28.255082+00:00'
 ---
 
 > **En 30 secondes :** Les librairies indépendantes à Taïwan ne constituent pas un type de magasin fixe, mais une méthode de gestion qui lie le jugement de sélection des livres, l'échelle spatiale et les relations publiques. Elles peuvent se trouver dans le sous-sol de l'université de Taipei, ou être cachées dans la vieille rue de Guanshan, le long de la route de Changbin ou dans les ruelles de Penghu. Les librairies vendent des livres, mais font souvent plus pour organiser la rencontre entre des lecteurs inconnus et préserver pour un lieu un langage qui peut continuer à être raconté. De la rue des livres de Chongqingnan aux librairies humanistes de Wenluotin, en passant par les micro-espaces des petites villes et des îles, elles font face à des problèmes différents de rabais, de logistique, de loyer et de démographie, mais répondent toutes à la même question : comment un lieu permet-il aux livres et aux lecteurs, peu visibles par ailleurs, de se rencontrer ? Cette valeur ne remplace pas la question du chiffre d'affaires, mais elle explique pourquoi, après les rabais en ligne et la lecture numérique, des personnes sont toujours disposées à miser sur le loyer du magasin, le temps et leur vie sur une rangée d'étagères.
@@ -122,11 +122,11 @@ La culture des librairies indépendantes à Taïwan n'est donc pas une histoire 
 
 Lorsqu'un livre est placé sur l'étagère, le propriétaire a déjà fait un choix pour le lecteur. Après que le lecteur est entré, il peut à son tour changer la librairie avec ses propres questions. Cet aller-retour fait de la librairie le salon d'un lieu, non pas parce qu'elle est toujours silencieuse ou toujours romantique, mais parce qu'elle est toujours disposée à laisser une chaise pour les inconnus.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) : Comprendre le contexte à long terme de la sphère publique de la lecture à travers les auteurs, les œuvres et le champ littéraire.
-- [Culture de l'imprimerie en relief taïwanaise](/culture/台灣活版印刷文化) : Suivre comment les livres, les journaux et le langage public sont concrètement fabriqués par les techniques d'imprimerie.
-- [Bulletin public de l'Église taïwanaise](/fr/culture/taiwan-church-news) : Comprendre comment les premières publications, le langage et les organisations religieuses ont conjointement formé la communauté des lecteurs.
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) : pour comprendre le contexte à long terme de la publicité de la lecture publique à travers les écrivains, les œuvres et les sphères littéraires.
+- [Culture de l'imprimerie à Taïwan](/fr/culture/taiwan-letterpress-printing) : pour retracer comment les livres, les journaux et le langage public ont été concrètement produits par les techniques d'impression.
+- [Taiwan Church News](/fr/culture/taiwan-church-news) : pour comprendre comment l'édition précoce, la langue et les organisations religieuses ont contribué ensemble à former des communautés de lecteurs.
 
 ## Références
 

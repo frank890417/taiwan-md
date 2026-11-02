@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '沿近海小船漁民、受僱船員、漁村家庭與海洋保育倡議者，提醒產量導向政策的成本沒有平均分配。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業現代化.md'
-sourceCommitSha: 'b12fbf568'
-sourceContentHash: 'sha256:84a9ef52691dd2f8'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:1e5370e62033b4b2'
 sourceBodyHash: 'sha256:68c0d956335b9413'
-translatedAt: '2026-09-11T05:48:40+08:00'
+translatedAt: '2026-11-02T15:17:31.100984+00:00'
 ---
 
 # Modernisation de la pêche taïwanaise : Comment un filet relie Qianzhen, les trois océans et la table d'une île
@@ -166,6 +166,6 @@ Aujourd'hui, lorsque les gens achètent un poisson sur le marché, ils voient le
 
 ## Lectures complémentaires
 
-- [L'origine de la pêche taïwanaise](/fr/history/taiwan-fishery-origins) — La première moitié de la même mer : expériences aquatiques de l'époque coloniale japonaise, marchés aux poissons et réception technique d'après-guerre
-- [L'histoire du commerce maritime taïwanais](/fr/history/taiwan-maritime-trade-history)
-- [L'histoire de l'industrie sucrière taïwanaise](/history/台灣糖業史)
+- [Les origines de la pêche à Taïwan](/fr/history/taiwan-fishery-origins) — La première moitié du même chapitre : l'expérimentation halieutique sous l'occupation japonaise, les marchés aux poissons et la réception des technologies d'après-guerre
+- [Histoire du commerce maritime à Taïwan](/fr/history/taiwan-maritime-trade-history)
+- [Histoire de l'industrie sucrière à Taïwan](/fr/economy/taiwan-sugar-industry)
