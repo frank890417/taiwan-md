@@ -1,0 +1,31 @@
+{
+  "locales": {
+    "zh-Hant": {
+      "name": "Taiwan.md",
+      "subtitle": "台灣開源知識庫，離線也能讀",
+      "promotionalText": "一千多篇有出處的台灣長文，13 種語言，沒有網路也能讀、也能搜。內容每天跟網站同步。",
+      "description": "Taiwan.md 是一個開源的台灣知識庫。一千多篇策展長文，從二二八、珍珠奶茶到台積電，從原住民族到金曲獎，用台灣人自己的話寫，每一篇都附出處，再翻譯成 13 種語言。\n\n這個 App 把全部內容裝進手機。\n\n・離線閱讀：中文、英文、日文內建在 App 裡，第一次打開就能讀；其他 10 種語言在設定裡下載\n・離線搜尋：標題、摘要、全文都搜得到，查一個字也可以\n・時間軸：從三萬年前的南島原鄉到今天，八個時代，每個事件連到對應的文章\n・今日一篇：每天一篇長文，也能放在主畫面小工具\n・收藏與閱讀進度：讀到一半的文章，下次從同一個地方接著讀\n・13 種語言：同一篇文章可以直接切換語言，阿拉伯文由右到左排版\n・閱讀設定：字級、深色模式；腳註點一下就看得到出處\n\n內容以 CC BY-SA 4.0 授權，由 Taiwan.md 貢獻者共同撰寫。每篇都能在 GitHub 上看到原始檔與修改紀錄，發現錯誤可以直接回報。App 的程式碼以 MIT 授權公開。\n\n不需要帳號，沒有廣告，不追蹤，不收集任何資料。",
+      "keywords": "台灣,知識庫,台灣史,歷史,文化,離線閱讀,原住民,美食,人物,教育,旅遊,Taiwan"
+    },
+    "en-US": {
+      "name": "Taiwan.md",
+      "subtitle": "Open Taiwan knowledge, offline",
+      "promotionalText": "1,000+ sourced long-form articles about Taiwan in 13 languages. Read and search everything without a connection; content syncs with the website daily.",
+      "description": "Taiwan.md is an open-source knowledge base about Taiwan. More than a thousand curated long-form articles, from the 228 Incident and bubble tea to TSMC, from Indigenous peoples to the Golden Melody Awards, written in Taiwanese people's own words, each with sources, and translated into 13 languages.\n\nThis app keeps all of it on your phone.\n\n• Read offline: Chinese, English and Japanese are built in and work on first launch; download the other 10 languages in Settings\n• Search offline: titles, summaries and full text, even single-character queries\n• Timeline: eight eras from Austronesian origins 30,000 years ago to today, each event linked to its article\n• Today's read: one long-form article a day, also as a Home Screen widget\n• Bookmarks and reading progress: pick up where you left off\n• 13 languages: switch any article to another language; Arabic reads right to left\n• Reading options: text size, dark mode, and tap a footnote to see its source\n\nContent is by Taiwan.md contributors under CC BY-SA 4.0. Every article's source file and edit history is public on GitHub, and anyone can report a correction. The app's code is MIT-licensed.\n\nNo account, no ads, no tracking, no data collected.",
+      "keywords": "Taiwan,history,culture,offline,reader,knowledge,Indigenous,food,travel,Taipei,Formosa,education"
+    },
+    "ja": {
+      "name": "Taiwan.md",
+      "subtitle": "オフラインで読める台湾の知識",
+      "promotionalText": "出典付きの台湾の長文記事が千本以上、13 言語。ネットがなくても読めて検索できます。コンテンツは毎日サイトと同期します。",
+      "description": "Taiwan.md は台湾についてのオープンソースの知識ベースです。二二八事件やタピオカミルクティー、TSMC から先住民族、金曲獎まで、千本以上の長文記事を台湾の人びと自身の言葉で書き、すべてに出典を付け、13 言語に翻訳しています。\n\nこのアプリはそのすべてを端末に保存します。\n\n・オフライン閲覧：中国語・英語・日本語を内蔵し、初回からすぐ読めます。ほかの 10 言語は設定からダウンロード\n・オフライン検索：タイトル、概要、本文まで検索できます\n・年表：3 万年前のオーストロネシアの源郷から現在まで 8 つの時代。出来事ごとに記事へ\n・今日の一篇：毎日一本の長文。ホーム画面のウィジェットにも\n・ブックマークと読書位置：読みかけの記事は次回同じ場所から\n・13 言語：記事ごとに言語を切り替えられます。アラビア語は右から左に表示\n・読書設定：文字サイズ、ダークモード。脚注をタップすると出典を表示\n\nコンテンツは Taiwan.md 貢献者による CC BY-SA 4.0。すべての記事の原文と編集履歴は GitHub で公開され、誤りはだれでも報告できます。アプリのコードは MIT ライセンスです。\n\nアカウント不要、広告なし、トラッキングなし、データ収集なし。",
+      "keywords": "台湾,歴史,文化,オフライン,知識,先住民,グルメ,旅行,台北,教育,Taiwan"
+    }
+  },
+  "common": {
+    "supportUrl": "https://github.com/frank890417/taiwan-md/issues",
+    "marketingUrl": "https://taiwan.md/",
+    "privacyPolicyUrl": "https://taiwan.md/privacy/",
+    "copyright": "2026 Taiwan.md contributors"
+  }
+}
