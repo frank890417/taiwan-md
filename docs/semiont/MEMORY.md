@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-03 | 054041-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移，連續第二天全綠；review-stock 未建屬預期（#116 待哲宇） | 零漂移也要留一行，才分得出沒事跟沒跑 | [→](memory/2026-11-03-054041-twmd-routine-sync.md) |
 | 2026-11-03 | 061125-twmd-data-refresh-am | 早班 14 步全過、0 stale；房貸負擔率換到 115Q1（41.46%）；查出術語月班 10-05 那輪沒跑，交接給它的《簡編本》名單無人做 | 一群同根因的燈裡可能藏一條獨立的燈，先對日期 | [→](memory/2026-11-03-061125-twmd-data-refresh-am.md) |
 | 2026-11-03 | 061154-twmd-embeddings-nightly | 13 語 14,874 向量 1 fail（ar 刈包單次 fetch failed），verify PASS，`8351a3aa5`；〈金馬獎〉〈中華職棒〉進索引；merge-tree 預演乾淨，主樹直接重建 | 主樹 dirty 先預演衝突，不重疊就走原路 | [→](memory/2026-11-03-061154-twmd-embeddings-nightly.md) |
+| 2026-11-03 | 064335-twmd-spore-harvest-am | 登入恢復後第二班收割：兩個動態頁都掃過，無新留言，#29 留言數仍 232 未觸發重抓；合法空收割，未發回覆 | 空收割要寫明看了哪裡，才跟沒看分得開 | [→](memory/2026-11-03-064335-twmd-spore-harvest-am.md) |
