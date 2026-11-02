@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-02 twmd-maintainer-daily — verification-reflex-points-outward-only：往外查證三個來源，往自己的佇列一次都沒查
+
+- **pattern**: `verification-reflex-points-outward-only`
+- **原則**：查證反射是**有方向的**。對外部來源（維基 wikitext、法規資料庫、政府新聞稿）它運作得很好；對自己家裡已經寫下來的紀錄（OBSERVER-QUEUE、既有 memory、issue 留言串）它不啟動。於是同一個小時裡可以既做到逐條重驗別人的腳註，又宣告一件早就被記錄過的事「沒有人做過」。**往外查得越勤，越容易以為自己是第一個到的人。**
+- **觸發**：2026-11-02 maintainer。本班對 CLI 發佈失敗打開 log、讀出 `PUT 404` 的權限語意、對照兩次 run 的時間與 workflow 檔未變動，然後在 issue #1789 公開寫「前幾班量到 run failure 就停在那裡，沒有人打開 log」。而 OBSERVER-QUEUE #95 在 **10-10** 就寫明「發佈 workflow 回 `PUT 404`＝`NPM_TOKEN`（06-05 設）已失效」，10-22 那班又逐項重驗過一次——本班做的是第三次確認。同一則留言還有第二個錯：說 `gh run rerun` 救不了、得刪 tag 重推，但 secret 不在 run 快照裡、是 job 啟動時從 repo 現值讀，#95 原本寫的 `gh run rerun 38060520015` 才是對的；我把「重跑不會套用新的 workflow 檔」這條規則誤推到 secret 上。兩處已在 #1789 公開更正。對照組在同一班：〈鄉土文學論戰〉那九條腳註，本班不信兩週前的結論、重新打 MediaWiki API 取現行 wikitext 逐詞比對才下判斷（REFLEXES #16 否定式結論舉證更高）。**對外的懷疑很完整，對內的懷疑沒出現。**
+- **instances**：（第 2+ 次從這裡 append）
+- **可能層級**：通用反射（候選升 REFLEXES #73 新子規則）
+- **相關**：[REFLEXES #73](REFLEXES.md) (d)「佇列/待辦執行前先查產出是否已存在」——**差異在方向**：(d) 防的是「照待辦動手，結果重做了已完成的事」（宣稱 → 事實的落差）；本條防的是「自己查出一個結論，卻沒查它是否已被記錄」（事實 → 宣稱的落差）。(d) 的觸發是準備執行某條待辦，本條的觸發是**剛完成一次成功的獨立診斷**，而那正是最不會想到要回頭查的時刻。另關 #67「已驗過帶時間戳」、#16 否定式結論舉證更高（本班對外部來源做到了、對自家紀錄沒做）
+- **verification_count**: 1
+
 ### 2026-11-02 twmd-maintainer-daily — intake-never-asks-whether-the-target-exists：轉錄班問過「這段文字能不能公開」，沒問過「它指的那篇在不在」
 
 - **pattern**: `intake-never-asks-whether-the-target-exists`
