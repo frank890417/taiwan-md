@@ -1,28 +1,26 @@
 ---
-title: 'Công ty Thép Trung Quốc (Đài Loan): Bộ trưởng Thép Đầu cứng và truyền thuyết thép của Mười dự án lớn'
-description: 'Từ cuộc đàm phán Âu-Mỹ của Triệu Yêu Đông chiếm đoạt công nghệ, đến làn khí trắng đầu tiên tung lên tại Tiểu Cảng Cao Hùng, Công ty Thép Trung Quốc đã dùng 50 năm để xây dựng xương sống công nghiệp nặng của Đài Loan, là viên ngọc sáng nhất của Mười dự án lớn'
-imageAlt: 'Công ty Thép Trung Quốc (Đài Loan) tại Cao Hùng'
+title: 'Trung Thép: Bộ trưởng đầu sắt và cột sống thép của Mười đại công trình'
+description: 'Từ việc Triệu Diêu Đông đàm phán ở châu Âu và Mỹ để khéo léo giành lấy công nghệ, đến làn khói trắng đầu tiên bốc lên tại Tiểu Cảng, Cao Hùng, Trung Thép đã dùng 50 năm xây dựng nên cột sống công nghiệp nặng của Đài Loan, là viên ngọc quý thành công nhất trong Mười đại công trình.'
+date: 2026-03-20
+category: 'Economy'
 tags:
   [
-    'Economy',
+    'Kinh tế',
     'Doanh nghiệp',
-    'Công nghiệp thép',
-    'Mười dự án lớn',
+    'Ngành thép',
+    'Mười đại công trình',
     'Công nghiệp nặng',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
-date: 2026-03-20
-category: 'Economy'
 featured: false
-readingTime: 5
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
-sourceBodyHash: 'sha256:204bc05a0920a7fd'
-translatedAt: 2026-07-31T12:00:00Z
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
+sourceBodyHash: 'sha256:ec289a352e872076'
+translatedAt: '2026-11-02T02:28:34.132349+00:00'
 ---
 
 > **30 giây tổng quan**
@@ -33,13 +31,13 @@ translatedAt: 2026-07-31T12:00:00Z
 
 Đầu 1970, cơ quan chuẩn bị Công ty Thép Trung Quốc đàm phán hợp tác công nghệ với nhiều nhà máy Châu Âu, nhưng họ buộc mua thiết bị và hạn chế phát triển công nghệ tương lai của Đài Loan. Triệu Yêu Đông cho rằng điều kiện quá khắt khe, ngừng đàm phán với Châu Âu để tìm kiếm hợp tác công bằng hơn với Mỹ. [^2]
 
-## McLouth Steel: hợp tác công nghệ
+## Hợp tác kỹ thuật với McLouth Steel của Mỹ
 
-Ngành công nghiệp thép Mỹ lúc đầu hoài nghi Đài Loan, cho rằng nền kinh tế mới thay thế nhập khẩu khó vận hành luyện thép quy trình tích hợp — lĩnh vực đòi hỏi vốn lớn và chuỗi cung ứng dài. [^2]
+Triệu Yêu Đông quyết định rời Châu Âu, chuyển sang tìm kiếm hợp tác với Mỹ. Ngành thép Mỹ ban đầu giữ thái độ hoài nghi đối với năng lực công nghiệp của Đài Loan, cho rằng một nền kinh tế Đông Á vừa mới khởi động từ chính sách thay thế nhập khẩu, khó có thể vận hành những thiết bị công nghiệp quy trình tích hợp luyện thép vốn nặng nề, chuỗi cung ứng dài. [^2]
 
-Triệu Yêu Đông thể hiện lý trí kỹ sư và sáng suất kinh doanh: không nói cảm xúc, không bàn chính trị, chỉ dùng số liệu chứng minh nền tảng công nghiệp và nhân lực Đài Loan. Ông đưa ra phương án khiến Mỹ sẵn sàng tham gia: chuyển giao công nghệ và hợp tác dài hạn, không phải mua bán thiết bị.
+Trong khoảnh khắc then chốt, Triệu Yêu Đông thể hiện sự lý tính của kỹ sư và trí tuệ của thương nhân. Ông không nói về tình cảm, không bàn về chính trị, chỉ dùng từng bộ con số chính xác để chứng minh cơ sở công nghiệp và chất lượng nhân lực của Đài Loan. Ông đưa ra một đề xuất khiến phía Mỹ đồng ý tham gia: chuyển giao công nghệ và hợp tác lâu dài, chứ không đơn thuần là mua bán thiết bị.
 
-Năm 1972, Công ty Thép Trung Quốc ký hợp tác công nghệ với **McLouth Steel** (nhà máy tích hợp Michigan) và công ty tư vấn C.E. Lummus cung cấp hỗ trợ thiết kế. Cuộc đàm phán này không chỉ tiết kiệm vốn, quan trọng hơn là tranh thủ quyền tự chủ công nghệ. Triệu Yêu Đông giúp Công ty Thép Trung Quốc ngay từ đầu có khả năng tiếp thu, cải tiến và tự phát triển công nghệ, thay vì chỉ mua thiết bị.
+Năm 1972, Công ty Thép Trung Quốc ký kết hiệp định hợp tác kỹ thuật với công ty **McLouth Steel** của Mỹ (nhà máy luyện thép quy trình tích hợp tại bang Michigan), và thuê công ty tư vấn C.E. Lummus của Mỹ cung cấp hỗ trợ thiết kế kỹ thuật. Cuộc đàm phán này không chỉ giúp Đài Loan tiết kiệm một khoản tiền khổng lồ, quan trọng hơn là giành được quyền tự chủ công nghệ. Chiến lược của Triệu Yêu Đông khiến Công ty Thép Trung Quốc ngay từ đầu đã sở hữu khả năng hấp thụ, cải tiến và tự phát triển công nghệ, thay vì chỉ đóng vai người mua thiết bị.
 
 ## Lò cao đầu tiên (1977)
 
@@ -85,12 +83,12 @@ Chủ tịch Công ty Thép Trung Quốc hiện tại là **Hoàng Kiến Trí**
 
 ## Tài liệu tham khảo
 
-[^1]: [Công ty Thép Trung Quốc — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Lịch sử phát triển Công ty Thép Trung Quốc, bao gồm thành lập năm 1971, lò cao châm ngòi năm 1977, tư nhân hoá năm 1995.
+[^1]: [Trung Quốc Thép — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Lịch sử hình thành Công ty Thép Trung Quốc, bao gồm thành lập năm 1971, đốt lò cao năm 1977, tư nhân hóa năm 1995.
 
-[^2]: [Epoch Times: Bộ trưởng Thép Đầu cứng sâu đậm trong lòng dân — Triệu Yêu Đông tạo nên truyền thuyết Công ty Thép Trung Quốc](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Quy trình đàm phán hợp tác công nghệ McLouth Steel của Mỹ của Triệu Yêu Đông và bản ghi ghi biệt danh "Bộ trưởng Thép Đầu cứng" từ nhiệm kỳ Bộ trưởng Kinh tế 1981.
+[^2]: [Đại Kỷ Nguyên: Bộ trưởng 'Đầu Sắt' sâu trong tâm dân, Triệu Diêu Đông tạo nên truyền thuyết Trung Quốc Thép](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Quá trình đàm phán hợp tác kỹ thuật với McLouth Steel (Mỹ) của Triệu Diêu Đông cũng như nguồn gốc biệt danh 'Bộ trưởng Đầu Sắt' từ nhiệm kỳ Bộ trưởng Kinh tế năm 1981.
 
-[^3]: [Công ty Thép Trung Quốc — Trang web chính thức và báo cáo năm 2024](https://www.csc.com.tw/) — Dữ liệu hoạt động mới nhất và báo cáo thường niên của Tập đoàn Công ty Thép Trung Quốc.
+[^3]: [Trang web chính thức của Công ty Thép Trung Quốc và Báo cáo năm 2024](https://www.csc.com.tw/) — Dữ liệu kinh doanh mới nhất và báo cáo hàng năm của Tập đoàn Trung Quốc Thép.
 
-[^4]: [Mười dự án lớn — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Bối cảnh chính sách Mười dự án lớn và vị thế Công ty Thép Trung Quốc.
+[^4]: [Mười đại công trình — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Bối cảnh chính sách Mười đại công trình của Cộng hòa Trung Hoa và định vị của Trung Quốc Thép.
 
-[^5]: [Dữ liệu thống kê của Hiệp hội Thép Thế giới](https://worldsteel.org/) — Xếp hạng nhà máy thép toàn cầu và thống kê sản lượng.
+[^5]: [Số liệu thống kê Hiệp hội Thép Thế giới](https://worldsteel.org/) — Xếp hạng và thống kê sản năng các nhà máy thép trên toàn cầu.

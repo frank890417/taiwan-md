@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T11:46:27+08:00",
-    "zhCommitHead": "1ce749727",
+    "lastUpdated": "2026-11-02T11:46:48+08:00",
+    "zhCommitHead": "e30c85e60",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1157,
-        "fresh": 1119,
-        "stale": 23,
+        "fresh": 1116,
+        "stale": 26,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1157,
-        "fresh": 1117,
-        "stale": 25,
+        "fresh": 1114,
+        "stale": 28,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "es": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1157,
-        "fresh": 1117,
-        "stale": 26,
+        "fresh": 1114,
+        "stale": 29,
         "metadata_stale": 12,
         "missing": 2,
         "orphan": 0
       },
       "id": {
         "total_zh": 1157,
-        "fresh": 1115,
-        "stale": 24,
+        "fresh": 1112,
+        "stale": 27,
         "metadata_stale": 16,
         "missing": 2,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1157,
-        "fresh": 1114,
-        "stale": 27,
+        "fresh": 1111,
+        "stale": 30,
         "metadata_stale": 14,
         "missing": 2,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1115,
+        "stale": 27,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1157,
-        "fresh": 1104,
-        "stale": 32,
+        "fresh": 1101,
+        "stale": 35,
         "metadata_stale": 19,
         "missing": 2,
         "orphan": 0
@@ -13368,8 +13368,8 @@
           "sourceContentHash": "sha256:73098b4d90132614",
           "sourceBodyHash": "sha256:ec289a352e872076",
           "translatedAt": "2026-11-02T02:09:25.008716+00:00",
-          "translationLastCommit": "f129c1fa",
-          "translationLastModified": "2026-05-15T16:40:46+08:00",
+          "translationLastCommit": "e30c85e6",
+          "translationLastModified": "2026-11-02T11:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 11610,
@@ -24938,8 +24938,8 @@
           "sourceContentHash": "sha256:7fe5c0e65f686049",
           "sourceBodyHash": "sha256:9ab688e1a6cc5330",
           "translatedAt": "2026-11-02T03:08:45.235566+00:00",
-          "translationLastCommit": "96ddb296",
-          "translationLastModified": "2026-10-10T22:58:04+08:00",
+          "translationLastCommit": "e30c85e6",
+          "translationLastModified": "2026-11-02T11:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 161772,
@@ -58665,10 +58665,10 @@
     },
     "Society/電網韌性.md": {
       "zh": {
-        "lastCommit": "e80217d1",
-        "lastModified": "2026-09-19T01:09:12+08:00",
-        "contentHash": "sha256:b47bd1e69ecf0593",
-        "bodyHash": "sha256:57a68bead4c3e5e8"
+        "lastCommit": "795b0924",
+        "lastModified": "2026-11-02T09:34:49+08:00",
+        "contentHash": "sha256:8afab7fd2baefe89",
+        "bodyHash": "sha256:6f5dfd62ce507bbd"
       },
       "translations": {
         "en": {
@@ -58684,8 +58684,10 @@
           "footnoteDefs": 9,
           "bytes": 30351,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-grid-resilience.md",
@@ -58700,8 +58702,10 @@
           "footnoteDefs": 9,
           "bytes": 34817,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-grid-resilience.md",
@@ -58716,8 +58720,10 @@
           "footnoteDefs": 9,
           "bytes": 28011,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/taiwan-grid-resilience.md",
@@ -58732,8 +58738,10 @@
           "footnoteDefs": 9,
           "bytes": 31890,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/taiwan-grid-resilience.md",
@@ -58748,8 +58756,10 @@
           "footnoteDefs": 9,
           "bytes": 38072,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Society/taiwan-grid-resilience.md",
@@ -58764,8 +58774,10 @@
           "footnoteDefs": 9,
           "bytes": 40196,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Society/taiwan-grid-resilience.md",
@@ -58780,8 +58792,10 @@
           "footnoteDefs": 9,
           "bytes": 32016,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Society/taiwan-grid-resilience.md",
@@ -58796,8 +58810,10 @@
           "footnoteDefs": 9,
           "bytes": 32553,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Society/taiwan-grid-resilience.md",
@@ -58812,8 +58828,10 @@
           "footnoteDefs": 9,
           "bytes": 70990,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Society/taiwan-grid-resilience.md",
@@ -58828,8 +58846,10 @@
           "footnoteDefs": 9,
           "bytes": 43705,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/taiwan-grid-resilience.md",
@@ -58844,8 +58864,10 @@
           "footnoteDefs": 9,
           "bytes": 56856,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Society/taiwan-grid-resilience.md",
@@ -58860,8 +58882,10 @@
           "footnoteDefs": 9,
           "bytes": 34073,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -60491,10 +60515,10 @@
     },
     "Society/台灣與核能的討論.md": {
       "zh": {
-        "lastCommit": "95c3b1af",
-        "lastModified": "2026-07-19T09:52:57+08:00",
-        "contentHash": "sha256:5d718d4ccb9dca76",
-        "bodyHash": "sha256:b97d2d0eea4b5afe"
+        "lastCommit": "94c18756",
+        "lastModified": "2026-11-02T10:24:33+08:00",
+        "contentHash": "sha256:36a6756b7629a9b0",
+        "bodyHash": "sha256:5b971b7718b762d0"
       },
       "translations": {
         "en": {
@@ -60510,8 +60534,8 @@
           "footnoteDefs": 52,
           "bytes": 62820,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "ja": {
           "path": "ja/Society/taiwan-nuclear-debate.md",
@@ -60526,8 +60550,8 @@
           "footnoteDefs": 52,
           "bytes": 66845,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "ko": {
           "path": "ko/Society/taiwan-nuclear-debate.md",
@@ -60542,8 +60566,8 @@
           "footnoteDefs": 52,
           "bytes": 61398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "es": {
           "path": "es/Society/taiwan-nuclear-debate.md",
@@ -60558,8 +60582,8 @@
           "footnoteDefs": 52,
           "bytes": 69011,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "fr": {
           "path": "fr/Society/taiwan-nuclear-debate.md",
@@ -60574,8 +60598,8 @@
           "footnoteDefs": 52,
           "bytes": 72093,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "vi": {
           "path": "vi/Society/taiwan-nuclear-debate.md",
@@ -60590,8 +60614,8 @@
           "footnoteDefs": 52,
           "bytes": 79372,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "id": {
           "path": "id/Society/taiwan-nuclear-debate.md",
@@ -60606,8 +60630,8 @@
           "footnoteDefs": 52,
           "bytes": 51460,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "pt": {
           "path": "pt/Society/taiwan-nuclear-debate.md",
@@ -60622,8 +60646,8 @@
           "footnoteDefs": 52,
           "bytes": 54300,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "hi": {
           "path": "hi/Society/taiwan-nuclear-debate.md",
@@ -60638,8 +60662,8 @@
           "footnoteDefs": 52,
           "bytes": 125947,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "ar": {
           "path": "ar/Society/taiwan-nuclear-debate.md",
@@ -60654,8 +60678,8 @@
           "footnoteDefs": 52,
           "bytes": 92357,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "ru": {
           "path": "ru/Society/taiwan-nuclear-debate.md",
@@ -60670,8 +60694,8 @@
           "footnoteDefs": 52,
           "bytes": 96108,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         },
         "de": {
           "path": "de/Society/taiwan-nuclear-debate.md",
@@ -60686,8 +60710,8 @@
           "footnoteDefs": 52,
           "bytes": 67940,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (71→52)"
         }
       }
     },
@@ -92897,10 +92921,10 @@
     },
     "Politics/台灣公投制度.md": {
       "zh": {
-        "lastCommit": "5e33e3a1",
-        "lastModified": "2026-10-17T23:05:12+08:00",
-        "contentHash": "sha256:b34bdfae9c38257f",
-        "bodyHash": "sha256:75b37912e4958f22"
+        "lastCommit": "795b0924",
+        "lastModified": "2026-11-02T09:34:49+08:00",
+        "contentHash": "sha256:48c356865c14b441",
+        "bodyHash": "sha256:b97308b257831927"
       },
       "translations": {
         "en": {
@@ -92916,8 +92940,10 @@
           "footnoteDefs": 10,
           "bytes": 18590,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Politics/taiwan-referendum-system.md",
@@ -92932,8 +92958,10 @@
           "footnoteDefs": 10,
           "bytes": 17448,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Politics/taiwan-referendum-system.md",
@@ -92948,8 +92976,10 @@
           "footnoteDefs": 10,
           "bytes": 17151,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Politics/taiwan-referendum-system.md",
@@ -92964,8 +92994,10 @@
           "footnoteDefs": 10,
           "bytes": 21192,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Politics/taiwan-referendum-system.md",
@@ -92980,8 +93012,10 @@
           "footnoteDefs": 10,
           "bytes": 18130,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Politics/taiwan-referendum-system.md",
@@ -92996,8 +93030,10 @@
           "footnoteDefs": 10,
           "bytes": 25316,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Politics/taiwan-referendum-system.md",
@@ -93012,8 +93048,10 @@
           "footnoteDefs": 10,
           "bytes": 20229,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Politics/taiwan-referendum-system.md",
@@ -93028,8 +93066,10 @@
           "footnoteDefs": 10,
           "bytes": 20426,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Politics/taiwan-referendum-system.md",
@@ -93044,8 +93084,10 @@
           "footnoteDefs": 10,
           "bytes": 38755,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Politics/taiwan-referendum-system.md",
@@ -93060,8 +93102,10 @@
           "footnoteDefs": 10,
           "bytes": 23522,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Politics/taiwan-referendum-system.md",
@@ -93076,8 +93120,10 @@
           "footnoteDefs": 10,
           "bytes": 32780,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "path": "de/Politics/taiwan-referendum-system.md",
@@ -93092,8 +93138,10 @@
           "footnoteDefs": 10,
           "bytes": 19170,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -132460,8 +132508,8 @@
           "sourceContentHash": "sha256:96851634cab2df15",
           "sourceBodyHash": "sha256:2198acf02b5a4cd9",
           "translatedAt": "2026-11-02T02:24:44.554149+00:00",
-          "translationLastCommit": "18cc689f",
-          "translationLastModified": "2026-10-23T10:17:37+08:00",
+          "translationLastCommit": "e30c85e6",
+          "translationLastModified": "2026-11-02T11:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 7592,
@@ -189347,9 +189395,9 @@
     },
     "History/蘭嶼核廢料.md": {
       "zh": {
-        "lastCommit": "7fbc0ea7",
-        "lastModified": "2026-10-31T08:37:38+08:00",
-        "contentHash": "sha256:32042f77cac1568f",
+        "lastCommit": "795b0924",
+        "lastModified": "2026-11-02T09:34:49+08:00",
+        "contentHash": "sha256:9867c53ac5d9146d",
         "bodyHash": "sha256:ca4e6cf11aa6f741"
       },
       "translations": {
@@ -189368,7 +189416,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "ja": {
@@ -189386,7 +189434,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "ko": {
@@ -189404,7 +189452,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "es": {
@@ -189422,7 +189470,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "fr": {
@@ -189440,7 +189488,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "vi": {
@@ -189458,7 +189506,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "id": {
@@ -189476,7 +189524,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "pt": {
@@ -189494,7 +189542,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "hi": {
@@ -189512,7 +189560,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "ar": {
@@ -189530,7 +189578,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "ru": {
@@ -189548,7 +189596,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         },
         "de": {
@@ -189566,7 +189614,7 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
+          "commitsBehind": 2,
           "diffSummary": "+5 -8"
         }
       }
