@@ -23,9 +23,9 @@ lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:50da80d49885286c'
-sourceBodyHash: 'sha256:dcea1d33e3c8824c'
+sourceCommitSha: '1ec0df23'
+sourceContentHash: 'sha256:4e382a7fba09b7dd'
+sourceBodyHash: 'sha256:83fcd71da8d50603'
 translatedAt: '2026-06-14T00:35:00+08:00'
 image: '/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp'
 imageCredit: 'justfont / flyingV'
