@@ -418,6 +418,17 @@
     "city": "新竹"
   },
   {
+    "title": "金馬獎：從只收國語片到不問國籍，自家電影常輸也不把門關上",
+    "lat": 25.026253,
+    "lng": 121.572822,
+    "category": "art",
+    "region": "north",
+    "link": "/art/%E9%87%91%E9%A6%AC%E7%8D%8E",
+    "lang": "zh-TW",
+    "desc": "1963 年，反串梁山伯的香港演員凌波來台北領獎，評審拿不定該給影帝還是影后，另開了一個特別獎。這座 1962 年只收國語片、要「配合國策」的獎，後來一屆一屆放寬誰能報名，1996 年納入大陸片，2007 年起不以華語為主的片也能報名。台灣片常因此在自家輸掉最佳劇情片，門沒有關回去。第 63 屆 11 月 22 日揭曉。",
+    "city": "台北"
+  },
+  {
     "title": "金馬賓館當代美術館",
     "lat": 22.63026,
     "lng": 120.297025,
@@ -6325,14 +6336,14 @@
     "city": "高雄"
   },
   {
-    "title": "沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上",
+    "title": "沈伯洋：他研究中國認知戰，後來被中國公安立案偵查",
     "lat": 25.027592,
     "lng": 121.561072,
     "category": "people",
     "region": "north",
     "link": "/people/%E6%B2%88%E4%BC%AF%E6%B4%8B",
     "lang": "zh-TW",
-    "desc": "二〇二一年沈伯洋與戰略學者何澄輝共同創辦黑熊學院，曹興誠捐六億支持，目標三年訓練三百萬民防志士。二〇二四年二月以民進黨不分區立委身份入國會。二〇二五年十月二十八日，他成為首位被中國以「分裂國家罪」立案偵查的台灣民選政治人物，央視配上「起底」專題警告「下一個就是你」。二〇二六年元旦中國微博帳號用商用衛星公布他在台北的住家與工作地座標；情人節他在飛往法國的飛機上度過。五月十三日民進黨正式徵召他參選台北市長，要選的正是那座被衛星圖標出座標的城市。",
+    "desc": "犯罪學者沈伯洋大學時參觀少年監獄，兩個拖地的少年向他鞠躬道謝；他後來研究中共對台資訊戰、共同創辦黑熊學院，二〇二五年被重慶公安以涉嫌分裂國家罪立案偵查。二〇二六年他代表民進黨參選台北市長，抽到三號，十月三十一日與蔣萬安電視辯論，十一月二十八日投票。",
     "city": "台北"
   },
   {
@@ -6721,14 +6732,14 @@
     "city": "台北"
   },
   {
-    "title": "蔣萬安：律師出身的台北市長，任內的大巨蛋、都更、公館圓環與財劃法之爭",
+    "title": "蔣萬安：律師出身的台北市長，第一次以現任身分求連任",
     "lat": 25.026176,
     "lng": 121.566895,
     "category": "people",
     "region": "north",
     "link": "/people/%E8%94%A3%E8%90%AC%E5%AE%89",
     "lang": "zh-TW",
-    "desc": "蔣萬安是中國國民黨籍的台北市長，在美國當過律師，做過兩屆立委，2022 年三方角逐中當選。任內大巨蛋取得使用執照，市府撤銷京華城的容積獎勵、推都更、把生育獎勵金加倍，辦了雙北世壯運，拆除和平新生天橋與公館圓環，也和行政院爭財劃法修法後的捷運補助，並多次以市長身分在二二八追思會上致歉。",
+    "desc": "2023 年 1 月，剛上任的蔣萬安戴著安全帽走進大巨蛋，說要符合法律規定才給使用執照。四年裡他經手輝達落腳北士科、都更與免費營養午餐，拆了公館圓環，提議遷走松山機場，警方搜索同志酒吧後他也出面道歉。2026 年他代表國民黨爭取連任台北市長，抽到 5 號，10 月 31 日與沈伯洋電視辯論，11 月 28 日投票。",
     "city": "台北"
   },
   {
@@ -7531,7 +7542,7 @@
     "region": "north",
     "link": "/politics/%E6%9D%91%E9%87%8C%E9%95%B7%E5%88%B6%E5%BA%A6",
     "lang": "zh-TW",
-    "desc": "凌晨五點半的里辦公處、4.5 萬月支事務補助、超過六成無黨籍 — 村里長是台灣選舉中最不像「政治」的政治職位，也是台灣民主化最完整的證據。從日治保甲到 1950 直選，這個全台 7,748 個比 7-Eleven 還多的職位，運轉著八十年的在地關係代理。",
+    "desc": "凌晨五點半的里辦公處、5 萬 4 月支事務補助、超過六成無黨籍 — 村里長是台灣選舉中最不像「政治」的政治職位，也是台灣民主化最完整的證據。從日治保甲到 1950 直選，這個全台 7,748 個比 7-Eleven 還多的職位，運轉著八十年的在地關係代理。",
     "city": "台北"
   },
   {
@@ -7920,15 +7931,15 @@
     "city": "台北"
   },
   {
-    "title": "台灣與核能的討論：反核曾是民主運動的共同語言，氣候危機卻把每一方都洗了牌",
-    "lat": 22.039336,
-    "lng": 121.553671,
+    "title": "台灣與核能的討論：核三的 589 項審查意見之後，社會共識還沒有一把尺",
+    "lat": 22.011929,
+    "lng": 120.752158,
     "category": "society",
-    "region": "east",
+    "region": "south",
     "link": "/society/%E5%8F%B0%E7%81%A3%E8%88%87%E6%A0%B8%E8%83%BD%E7%9A%84%E8%A8%8E%E8%AB%96",
     "lang": "zh-TW",
-    "desc": "2025 年 8 月，434 萬人投下「重啟核三」同意票、贏了七成四，卻因投票率沒過門檻算輸。四十年三場公投，台灣從反核共識走到非核家園，又在三個月內親手把關掉的反應爐推向重啟。這場辯論早已超過「核能好不好」的是非題，而是一個社會怎麼決定一件時間壓力相反的事：核廢要安穩十萬年、減碳要十年內達成、缺電是此刻。",
-    "city": "台東"
+    "desc": "2026 年 9 月，核安會照核子反應器設施管制法的換照程序提出 589 項審查意見，核定台電的核三再運轉計畫。重啟的三個條件裡，社會有共識怎樣才算，法規沒有寫。11 月 28 日第 22 案與九合一同日投票，國民黨的理由書說要把近八成民意化成政策，民進黨團幹事長說通過就重啟「跳得太快」，34 個團體說不應拿它當重啟的政治授權。",
+    "city": "屏東"
   },
   {
     "title": "台灣補習班文化：一條街的興衰，與一整個社會的焦慮帳單",
@@ -8833,17 +8844,6 @@
     "city": "彰化"
   },
   {
-    "title": "تايوان للأسمنت (台泥)： أسطورة التحول الأخضر لأول شركة مدرجة في تايوان",
-    "lat": 22.990844,
-    "lng": 120.167115,
-    "category": "economy",
-    "region": "south",
-    "link": "/economy/taiwan-cement-taipower-green-transformation",
-    "lang": "zh-TW",
-    "desc": "تأسست بورصة تايوان للأوراق المالية عام 1962 من أجلها، ويرمز رمز السهم 1101 إلى أصل سوق الأسهم التايواني. عبر ثلاثة أجيال من عائلة كو (辜家) تدير الشركة منذ 76 عاماً، شهدت تايوان للأسمنت بمعامل أسمنتها معجزة البناء في تايوان، وتتحول اليوم إلى شركة خضراء لمواجهة عصر الحياد الكربوني.",
-    "city": "台南"
-  },
-  {
     "title": "تشونغلي: مدينة أخرى داخل مدينة تاويوان — لماذا يقول البعض إن تشونغلي ليست تاويوان؟",
     "lat": 24.993891,
     "lng": 121.303345,
@@ -8952,6 +8952,17 @@
     "lang": "zh-TW",
     "desc": "في ظهيرة يوم السبت، يصطف الطلاب أمام المسرح الأحمر الطوب في زقاق 5 بشارع غولينغ، وبجانبه متحف التاريخ الوطني الذي بُني عام 1955 وبركة زهور اللوتس في الحديقة النباتية بتايبيه التي أُعيد تنظيمها عام 1921. هذا الشارع البالغ طوله 1.2 كيلومتر، كان يُدعى \"ساكوما-تشو\" عام 1922، وأُعيد تسميته \"غولينغ\" عام 1947 مستمداً من بلدة غولينغ في جبل لُو شان بمقاطعة جيانغشي. بعد الحرب عام 1945، ترك اليابانيون المنسحبون كتبهم على جوانب الطريق لتصبح أول شارع للكتب المستعملة في تايوان، وبلغ أوجه في ستينيات القرن العشرين مع أكثر من 200 بائع متجول، ثم نُقل الباعة إلى تحت جسر غواهوا بعد افتتاحه عام 1973. في 15 يونيو 1961، قتل المراهق ماو وو (16 عاماً) زميلته ليو مين (15 عاماً) بسكين الكشافة في هذا الشارع، وبعد 30 عاماً صور يانغ ده-تشانغ الحادثة في فيلم مدته 237 دقيقة. هُدِم شارع الكتب، وانتقل الباعة، وذهب الطلاب لشراء الكتب في أماكن أخرى، وبقي مركز الشرطة الأحمر الطوب من الحقبة اليابانية، ومتحف القصر الصيني من حقبة الحكومة الوطنية، وبركة زهور اللوتس التي لم تتحرك منذ 1921.",
     "city": "台北"
+  },
+  {
+    "title": "مدينة هسينتشو: من \"جو تشيان\" المحاطة بالخيزران عام 1733، إلى مهد شركة TSMC عام 1980",
+    "lat": 24.797417,
+    "lng": 120.96769,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/hsinchu-city",
+    "lang": "zh-TW",
+    "desc": "في عام 1733، قام شو تشي مين بزراعة الخيزران حول مدينة جو تشيان لتشكيل سور ترابي بطول 1408 أمتار. وفي عام 1829، اكتمل بناء السور الحجري، ولا تزال بوابة يينغ شي قائمة بجانب الخندق المائي حتى اليوم. وبعد 247 عامًا، وتحديدًا في 15 ديسمبر 1980، قص تشيانغ جينغ كو الشريط الأحمر لأول منطقة علمية في تايوان على بعد 5 كيلومترات من البوابة. بين عامي 1953 و1974، انطلق 148 فردًا من سرب الخفافيش السود من هذه \"مدينة الرياح\" لاستطلاع الصين القارية ولم يعودوا أبدًا. مدينة تابعة للمقاطعة يسكنها 450 ألف نسمة، شكلت جبهة الحرب الباردة، وأقدم مدينة صينية مبنية في الشمال، وتضم جامعتين رائدتين، ونقطة انطلاق لـ 90% من الرقائق عالية المستوى عالميًا. لقب \"مدينة الرياح\" يحمل طابعًا أدبيًا، لكن جميع صناعات هذه المدينة مرتبطة بالرياح.",
+    "city": "新竹"
   },
   {
     "title": "مقاطعة مياو لي: المقاطعة ذات الرقبة الصعبة من الكاكيا، التي اختارت محافظًا زاد ديونها بمقدار الضعف خلال ثماني سنوات",
@@ -9625,15 +9636,15 @@
     "city": "台北"
   },
   {
-    "title": "Taiwans Corona-Pandemie und die Impfstoffe: Die erkauften achtzehn Monate und die Spritze, die zu spät kam",
-    "lat": 24.556013,
-    "lng": 120.817057,
+    "title": "Debatten über Taiwan und Kernenergie: Nach den 589 Prüfberichten zum Kernkraftwerk Maanshan fehlt ein Maßstab für den gesellschaftlichen Konsens",
+    "lat": 21.999654,
+    "lng": 120.75218,
     "category": "society",
-    "region": "central",
-    "link": "/society/taiwan-covid-pandemic-and-vaccines",
+    "region": "south",
+    "link": "/society/taiwan-nuclear-debate",
     "lang": "zh-TW",
-    "desc": "Taiwan hielt COVID-19 fast 18 Monate lang draußen – bis März 2021 kamen nur 117.000 Impfdosen an. 2022 hinkte bei Omicron die dritte Dosis für ältere Menschen hinterher; das mittlere Sterbealter stieg auf 82 Jahre, zehn Jahre mehr als im Vorjahr. Weitere Gruppen – abgelehnte Entschädigungsanträge, ausgebrannte Pflegekräfte, eingesperrte Wanderarbeiter – bleiben bis heute unerfasst.",
-    "city": "苗栗"
+    "desc": "Im September 2026 legte die Atomkommission im Rahmen des Verfahrens zur Erneuerung der Lizenz gemäß dem Gesetz über die Kontrolle von Kernreaktoranlagen 589 Prüfberichte vor, um den Plan der Taiwan Power Company für den Wiederbetrieb des Kernkraftwerks Maanshan zu genehmigen. Die gesetzlichen Regelungen definieren nicht, was unter den drei Bedingungen für einen Wiederbetrieb als gesellschaftlicher Konsens gilt. Am 28. November findet die Abstimmung über Fall 22 zeitgleich mit den neun lokalen Wahlen statt. Während die Begründung der Kuomintang fordert, fast 80 % der öffentlichen Meinung in Politik umzusetzen, erklärte der Fraktionsgeschäftsführer der DPP, ein Durchgehen wäre ein zu „überstürzter Schritt“ zum Wiederbetrieb. 34 Organisationen erklärten zudem, dies dürfe nicht als politische Bevollmächtigung für den Wiederstart genutzt werden.",
+    "city": "屏東"
   },
   {
     "title": "Penghu International Art Island: An art museum without a gallery that borrows the entire island as an exhibition space",
@@ -10010,6 +10021,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Taiwan's Nuclear Energy Debate: After the 589 Review Opinions on the Third Nuclear Power Plant, There Is Still No Yardstick for Social Consensus",
+    "lat": 22.013314,
+    "lng": 120.746067,
+    "category": "society",
+    "region": "south",
+    "link": "/en/society/taiwan-nuclear-debate",
+    "lang": "en",
+    "desc": "In September 2026, the Atomic Energy Council issued 589 review opinions under the license renewal procedure of the Nuclear Reactor Facility Regulation Act, approving Taipower''s plan to restart the Third Nuclear Power Plant. Among the three conditions for restart, the regulations do not specify what constitutes social consensus. On November 28, Referendum No. 22 was voted on the same day as the nine-in-one elections. The KMT''s rationale stated it would turn nearly 80% public opinion into policy; the DPP caucus whip said passage would mean restarting \"too fast\"; 34 groups said it should not be used as political authorization for restart.",
+    "city": "屏東"
+  },
+  {
     "title": "Chiang Hsien-yi: tras huir de Taiwán durante cuarenta y cinco años, solo al volver a casa pudo pintar las mejores obras de su vida",
     "lat": 22.760999,
     "lng": 121.150589,
@@ -10195,6 +10217,17 @@
     "lang": "zh-TW",
     "desc": "Un sábado por la tarde, estudiantes hacen fila frente al teatro de ladrillo rojo al final del callejón 5 de la calle Guling; al lado están el Museo Nacional de Historia, construido en 1955, y el estanque de lotos del Jardín Botánico de Taipéi, reorganizado en 1921. Esta calle de 1,2 kilómetros se llamó Sakuma-chō en 1922 y en 1947 fue rebautizada como calle Guling, nombre tomado de Lushan, en Jiangxi. Después de la guerra de 1945, los libros que los japoneses no pudieron llevarse al retirarse se pusieron en la calle y formaron la primera calle de libros usados de Taiwán; en su apogeo, en la década de 1960, tuvo más de 200 puestos. Tras la apertura del puente Guanghua en abril de 1973, los vendedores fueron reorganizados y trasladados bajo el paso elevado Guanghua. El 15 de junio de 1961, en esta calle, Mao Wu, de 16 años, mató con un cuchillo scout a Liu Min, de 15; en 1991 Edward Yang convirtió el caso en una película de 237 minutos. La calle de libros fue desmantelada, los puestos se mudaron y los estudiantes empezaron a comprar libros en otros lugares; lo que quedó fue el antiguo edificio de ladrillo rojo de una comisaría de la época japonesa, un museo de posguerra de estilo palaciego chino y el estanque de lotos que permanece allí desde 1921.",
     "city": "台北"
+  },
+  {
+    "title": "Hsinchu: de la ciudad amurallada con bambú en 1733 a la cuna de TSMC en 1980",
+    "lat": 24.806097,
+    "lng": 120.974036,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/hsinchu-city",
+    "lang": "zh-TW",
+    "desc": "En 1733, el oficial Xu Zhimin plantó bambú para rodear la ciudad; en 1980, Chiang Ching-kuo inauguró el parque científico que daría origen a TSMC.",
+    "city": "新竹"
   },
   {
     "title": "La calle antigua de Hukou: al mudarse el tren en 1929, la calle de ladrillo rojo quedó inmóvil durante un siglo",
@@ -10470,6 +10503,17 @@
     "lang": "zh-TW",
     "desc": "El 15 de febrero de 2020 murió el primer paciente de COVID-19 de Taiwán, un taxista pirata que nunca había salido del país. Taiwán mantuvo la pandemia a raya casi dieciocho meses, pero las vacunas llegaron tarde y en 2022 la tercera dosis de mayores seguía retrasada: la mediana de edad de los fallecidos ese año fue 82 años. Otros grupos que pagaron el precio siguen sin estadísticas.",
     "city": "苗栗"
+  },
+  {
+    "title": "Taiwán y el debate sobre la energía nuclear: tras las 589 opiniones de revisión de la Central Nuclear No. 3, el consenso social aún no tiene una vara de medir",
+    "lat": 22.004239,
+    "lng": 120.751241,
+    "category": "society",
+    "region": "south",
+    "link": "/society/taiwan-nuclear-debate",
+    "lang": "zh-TW",
+    "desc": "En septiembre de 2026, la Comisión de Seguridad Nuclear, siguiendo el procedimiento de renovación de licencia bajo la Ley de Regulación de Instalaciones de Reactores Nucleares, presentó 589 opiniones de revisión y aprobó el plan de Taipower para la operación continua de la Central Nuclear No. 3. Entre las tres condiciones para el reinicio, no hay regulación que defina qué cuenta como consenso social. El 28 de noviembre, el Caso No. 22 se votó el mismo día que las elecciones de los nueve en uno; la fundamentación del KMT decía convertir en política el casi 80 % de la opinión pública, el secretario general del grupo parlamentario del DPP dijo que su aprobación reiniciaría «demasiado rápido», y 34 grupos afirmaron que no debería usarse como autorización política para el reinicio.",
+    "city": "屏東"
   },
   {
     "title": "Jiang Hsien-yi : après avoir fui Taïwan pendant quarante-cinq ans, ce n'est qu'en rentrant chez lui qu'il a peint les meilleures œuvres de sa vie",
@@ -10769,17 +10813,6 @@
     "city": "台南"
   },
   {
-    "title": "Les déchets nucléaires de Lanyu : promis pour 2002, quarante ans de barils jaunes laissés sur place",
-    "lat": 22.039904,
-    "lng": 121.545917,
-    "category": "history",
-    "region": "east",
-    "link": "/history/orchid-island-nuclear-waste",
-    "lang": "zh-TW",
-    "desc": "En 1982, des déchets radioactifs de faible activité ont été envoyés dans le territoire des Tao ; en 1998, les habitants ont exigé leur déplacement sous le prétexte d'« expulser les démons », et la Taipower avait également promis leur évacuation avant fin 2002. Quarante ans plus tard, Lanyu ne garde pas seulement un site de stockage, mais une négociation inachevée sur la sécurité, le consentement et la capacité de décider de l'avenir de leur foyer.",
-    "city": "台東"
-  },
-  {
     "title": "Taïwan : Comment un bloc de pierre a projeté Wūqí vers la mer et réécrit la côte",
     "lat": 24.147022,
     "lng": 120.678748,
@@ -10943,6 +10976,17 @@
     "lang": "zh-TW",
     "desc": "Le 15 février 2020, un chauffeur de taxi clandestin qui n'avait jamais quitté Taïwan meurt : c'est le premier décès du COVID-19 à Taïwan. Grâce au contrôle des frontières et à une carte d'assurance maladie, Taïwan tient la pandémie à distance pendant près de dix-huit mois — en 2020, seuls 799 cas sont confirmés et 7 personnes meurent. Mais les premiers vaccins n'arrivent qu'en mars 2021, et seulement 117 000 doses ; quand Omicron frappe en 2022, la troisième dose des personnes âgées est encore en retard. Cette année-là, l'âge médian des décès atteint 82 ans, dix ans de plus que l'année précédente. D'autres groupes qui ont payé le prix — les demandes d'indemnisation rejetées, ceux qui ont quitté l'hôpital, ceux confinés dans leurs dortoirs — restent, pour beaucoup, absents de toute statistique à ce jour.",
     "city": "苗栗"
+  },
+  {
+    "title": "Débats sur le nucléaire à Taïwan : après les 589 avis d'examen de la centrale de Maanshan, la société manque toujours de critères pour définir un consensus",
+    "lat": 22.009213,
+    "lng": 120.739944,
+    "category": "society",
+    "region": "south",
+    "link": "/society/taiwan-nuclear-debate",
+    "lang": "zh-TW",
+    "desc": "En septembre 2026, conformément aux procédures de renouvellement de licence de la Loi sur le contrôle des installations nucléaires, la Commission de la sécurité nucléaire a émis 589 avis d'examen pour approuver le plan de redémarrage de la centrale de Maanshan de Taipower. Parmi les trois conditions du redémarrage, la réglementation ne précise pas ce qui constitue un consensus social. Le 28 novembre, le cas n°22 sera soumis au vote le même jour que les neuf référendums locaux ; le KMT soutient qu'il faut transformer près de 80 % de l'opinion publique en politique, tandis que le secrétaire général du groupe parlementaire du DPP affirme que passer au redémarrage dès l'approbation serait « aller trop vite », et 34 organisations affirment que cela ne doit pas servir de mandat politique pour le redémarrage.",
+    "city": "屏東"
   },
   {
     "title": "Le développement sportif de Taïwan et les Jeux Olympiques : une équipe nommée « Chine Taipei »",
@@ -11638,17 +11682,6 @@
     "city": "高雄"
   },
   {
-    "title": "Budaya Toko Buku Independen Taiwan: Bagaimana Sebuah Buku Menjadi Ruang Tamu Suatu Tempat",
-    "lat": 23.045,
-    "lng": 121.163,
-    "category": "culture",
-    "region": "east",
-    "link": "/culture/taiwan-independent-bookstores",
-    "lang": "zh-TW",
-    "desc": "Dari sejarah Jalan Chongqing Nanlu (重慶南路), Wenluoding (溫羅汀), dan Toko Buku Tangshan (唐山書店), hingga toko buku mikro di Guanshan (關山), Pinglin (坪林), Changbin (長濱), dan Penghu (澎湖), memahami bagaimana toko buku independen Taiwan menyusun ulang pemilihan buku, kenangan lokal, bacaan migran, isu gender, budaya suku asli, dan hubungan komunitas menjadi ruang publik di tengah perang diskon, bacaan digital, dan tekanan sewa, serta meninjau biaya nyata subsidi, logistik, tenaga kerja, dan pemberdayaan lokal.",
-    "city": "台東"
-  },
-  {
     "title": "Wayang Kulit: Dari 'Gua Wayang Kulit' Mituo ke Perang Kera-Keong di Era Kōminka",
     "lat": 22.621185,
     "lng": 120.305622,
@@ -12076,6 +12109,17 @@
     "lang": "zh-TW",
     "desc": "Pada tahun 1985, perumahan nasional Chenggong dijual NT$67,000 per ping namun tak ada pembeli; seorang ketua RT tua mengumpulkan NT$400,000 sebagai uang muka untuk membelinya; empat puluh tahun kemudian alamat yang sama mendekati NT$1,000,000 per ping. Perumahan nasional seharusnya adalah alat untuk 'membantu rakyat mampu membeli rumah', tetapi tidak pernah dilengkapi gerbang pemulihan nilai tambah, sehingga subsidi publik akhirnya menjadi aset pribadi pembeli awal. Pada 2026, Taoyuan memasang kembali gerbang tersebut, setara dengan mengakui kesalahan perumahan nasional.",
     "city": "台北"
+  },
+  {
+    "title": "Diskusi Taiwan dan Energi Nuklir: Setelah 589 Opini Peninjauan PLTN Ketiga, Belum Ada Tolok Ukur untuk Konsensus Sosial",
+    "lat": 22.008612,
+    "lng": 120.746435,
+    "category": "society",
+    "region": "south",
+    "link": "/society/taiwan-nuclear-debate",
+    "lang": "zh-TW",
+    "desc": "Pada September 2026, Komisi Keamanan Nuklir mengajukan 589 opini peninjauan sesuai prosedur pembaruan lisensi Undang-Undang Pengendalian Fasilitas Reaktor Nuklir, guna menetapkan rencana pengoperasian kembali PLTN Ketiga oleh Taipower. Di antara tiga syarat untuk memulai kembali operasional, regulasi tidak merinci bagaimana konsensus sosial harus didefinisikan. Pada 28 November, Kasus ke-22 akan dipungut suaranya bersamaan dengan sembilan referendum lainnya; dalam dokumen alasannya, Partai Kuomintang menyatakan perlunya mengubah hampir 80% opini publik menjadi kebijakan, sementara Sekretaris Jenderal Fraksi Partai Progresif Demokratik mengatakan bahwa memulai kembali operasional segera setelah disetujui adalah hal yang 'terlalu terburu-buru', dan 34 kelompok menyatakan bahwa hal tersebut tidak boleh dijadikan mandat politik untuk pengoperasian kembali.",
+    "city": "屏東"
   },
   {
     "title": "国家より大きなアルゴリズミック・アート：私はなぜ台湾のためにナレッジベースを書いたのか",
@@ -13596,14 +13640,14 @@
     "city": "台北"
   },
   {
-    "title": "台泥：台湾初の上場企業のグリーン転換伝説",
+    "title": "台泥：台湾初の上場企業によるグリーン転換",
     "lat": 22.999427,
     "lng": 120.16417,
     "category": "economy",
     "region": "south",
     "link": "/ja/economy/taiwan-cement-taipower-green-transformation",
     "lang": "ja",
-    "desc": "1962年、台湾証券取引所はこの会社のために設立され、証券コード1101は台湾株式市場の起源を象徴しています。辜家三代による76年間の経営のもと、台泥は一つ又一つのセメントキルンで台湾の建設の奇跡を目撃し、今やカーボンニュートラル時代に挑むグリーン企業へと転換を遂げました。",
+    "desc": "1962年、台湾証券取引所は彼らのために誕生しました。銘柄コード1101は台湾株式市場の起源を象徴しています。辜家による3代76年の経営を経て、台泥は数々のセメント窯とともに台湾の建設奇跡を見守ってきました。現在はグリーン企業へと転換し、カーボンニュートラルの時代に挑んでいます。",
     "city": "台南"
   },
   {
@@ -14476,14 +14520,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾のフルーツ王国：この島は一つ一つの果物を生命と記憶として育てている",
+    "title": "台湾フルーツ王国：この島は、すべての果実を命と記憶として育てている",
     "lat": 25.037091,
     "lng": 121.568156,
     "category": "food",
     "region": "north",
     "link": "/ja/food/taiwan-fruit-kingdom",
     "lang": "ja",
-    "desc": "玉井の斜面での早朝、麻豆産の老木柑、濱江の早朝競り、皮を剥くおばあさんから、ライチのツマグロヒゲや外国人労働者の果園まで：この亜熱帯の島は、フルーツを土地、世代、そして世界と対話する方法にしている。",
+    "desc": "玉井の山腹に訪れる朝、麻豆の文旦の老木、浜沿いの早朝競り、皮をむくおばあちゃん、そしてライチの椿セミと外国人技能実習生がいる果樹園まで。この亜熱帯の島では、フルーツが土地や世代、そして世界と対話するための手段となっています。",
     "city": "台北"
   },
   {
@@ -15873,14 +15917,14 @@
     "city": "台北"
   },
   {
-    "title": "蘭嶼の核廃料：2002年の約束、残された四十年の黄色いドラム缶",
+    "title": "蘭嶼の核廃棄物：2002年までに撤去すると約束したのに、四十年残された黄色いドラム缶",
     "lat": 22.027153,
     "lng": 121.555756,
     "category": "history",
     "region": "east",
     "link": "/ja/history/orchid-island-nuclear-waste",
     "lang": "ja",
-    "desc": "1982年、低放射性廃棄物がタオ族（達悟族）の故郷に送られた。1998年、族人は「悪霊の追放」を名目に撤去を要求し、台電も2002年末までの移設を約束した。四十年以上経った今、蘭嶼に残されたのは貯蔵施設だけではなく、安全性、同意、そして誰が故郷の未来を決定するのかについての、未解決の協議である。",
+    "desc": "1982年、低レベル放射性廃棄物がダウ族（達悟族）の故郷に運び込まれた。1998年、族人たちは「悪霊を追い払う」として移設を要求し、台電も2002年末までの移設を約束した。四十余年後、蘭嶼に残されたのは一つの貯蔵場だけでなく、安全、同意、そして誰が故郷の未来を決められるかという、まだ終わらない交渉である。",
     "city": "台東"
   },
   {
@@ -16082,14 +16126,14 @@
     "city": "台北"
   },
   {
-    "title": "魚港は出海だけではない：台湾漁業はどのように実験船、魚市場、そして一群技術者によって再構築されたか",
+    "title": "漁港はただ出航する場所ではない：台湾の漁業はいかにして試験船、魚市場、そして技術者集団によって再構築されたのか",
     "lat": 22.634854,
     "lng": 120.295833,
     "category": "history",
     "region": "south",
     "link": "/ja/history/taiwan-fishery-origins",
     "lang": "ja",
-    "desc": "日治時代の水産実験と凌海丸、八斗子や高雄魚市場から、戦後の技術者、米援の遠洋漁業、東石漁村まで、台湾漁業が港口、冷蔵、教育、資金、そして地域生活の間でどのように変容していったのかを追う。",
+    "desc": "日本統治時代の水産試験研究や凌海丸、八斗子と高雄の魚市場から、戦後の技術人材、米国援助による遠洋漁業、そして東石の漁村に至るまで、台湾の漁業が港湾、冷蔵技術、教育、資金、そして地域生活の間でどのように変容してきたのかを辿ります。",
     "city": "高雄"
   },
   {
@@ -17435,14 +17479,14 @@
     "city": "高雄"
   },
   {
-    "title": "阿爆（阿仍仍）：パイワン族の言葉を金曲賞年度アルバムに送り込んだフューチャーポップの歌手",
+    "title": "阿爆（Aljenljeng Tjaluvie）：パイワン族語を金曲奨年間アルバムへと導いたFuture Popシンガー",
     "lat": 22.622585,
     "lng": 120.30485,
     "category": "people",
     "region": "south",
     "link": "/ja/people/aljenljeng-tjaluvie-abao",
     "lang": "ja",
-    "desc": "2020年、金曲賞31の年度アルバム賞は、全編パイワン族語のエレクトロニック・アルバム『kinakaian 母親の舌』に授与された。阿爆（アルジェンルジェン・チャルヴィエ、1981年台東金峰生まれ）はR&Bデュオ「Abao & Brandy」でデビューし、10年間看護師として働いた後、2019年にDizparityと共に族語をフューチャーポップに昇華させ、「原住民音楽＝保存」という枠組みを書き換えた。",
+    "desc": "2020年、第31回金曲奨年間アルバム賞は、全編パイワン族語のエレクトロニック・ミュージック『kinakaian 母親の舌頭』が受賞しました。阿爆（Aljenljeng Tjaluvie、1981年台東県金峰郷生まれ）は、R&Bデュオ「Abao & Brandy」でデビューし、10年間の看護師生活を経て、2019年にDizparityと共に族語をFuture Popへと昇華させ、「先住民音楽＝保存」という概念を書き換えました。",
     "city": "高雄"
   },
   {
@@ -18381,14 +18425,14 @@
     "city": "台北"
   },
   {
-    "title": "江蕙：北投のナカシ出身、台湾語の天后",
+    "title": "江蕙：北投那卡西出身の台湾語歌手",
     "lat": 22.622037,
     "lng": 120.307452,
     "category": "people",
     "region": "south",
     "link": "/ja/people/jody-chiang",
     "lang": "ja",
-    "desc": "江蕙（本名：江淑惠、1961年高雄生まれ）は9歳で家族と夜逃げ同然に台北へ移り、北投のナカシで歌い始めました。1992年の『酒後の心声』は台湾で116万枚を売り上げ、公式記録で唯一のミリオン達成台湾語アルバムとなりました。2000年から2003年にかけて金曲賞台湾語女性歌手賞を4連覇し、2015年に引退、2024年に台北ドームの国慶晩会で復帰しました。",
+    "desc": "江蕙（本名・江淑恵、1961年高雄生まれ）は9歳の時に家族とともに夜逃げ同然で台北へ移り、北投の那卡西で歌って回りました。1992年の『酒後の心声』は台湾で116万枚を売り上げ、公式記録で唯一ミリオンを突破した台湾語アルバムとなりました。2000年から2003年にかけて4年連続で金曲賞台湾語部門最優秀女性歌手賞を受賞し、2015年に引退、2024年に台北ドームの国慶晩餐会で復帰しました。",
     "city": "高雄"
   },
   {
@@ -18788,14 +18832,14 @@
     "city": "台南"
   },
   {
-    "title": "呉百福（安藤百福）：嘉義朴子から世界の食卓へ、台湾の遺産と日本の包装が生んだグローバルな伝説",
+    "title": "呉百福（安藤百福）：嘉義朴子から世界の食卓へ、台湾のルーツと日本での展開",
     "lat": 23.474513,
     "lng": 120.453422,
     "category": "people",
     "region": "south",
     "link": "/ja/people/momofuku-ando-instant-noodle-inventor",
     "lang": "ja",
-    "desc": "1961年、安藤百福は2300万円で張国文のインスタント麺特許申請権を買収した。これは単なるビジネス取発ではなく、発明の定義権をめぐる国際的な攻防であった。嘉義朴子出身のこの起業家は、台湾伝統の鶏絲麺（チーースーミエン）の魂を日本の国民食へと変え、「カップヌードル」を通じて世界の食習慣を根本から変えた。本稿では、日本統治下台湾での事業の起点、戦後の獄中での悟り、そして二つの国を行き交ったアイデンティティと家族の葛藤を深く掘り下げる。",
+    "desc": "1961年、安藤百福は2,300万日円で張国文のインスタントラーメン特許申請権を購入しました。これは単なるビジネス取引ではなく、発明の定義権を巡る国際的な攻防でもありました。嘉義県朴子出身のこの起業家は、台湾の伝統的な鶏絲麺（ジーシーミェン）の魂を日本の国民食へと昇華させ、「カップヌードル」を通じて世界の食習慣を根本から変えました。本記事では、日治時代の台湾における創業の原点、戦後の投獄生活での悟り、そして二国間にまたがるアイデンティティと家族の葛藤について深く掘り下げます。",
     "city": "嘉義"
   },
   {
@@ -19558,14 +19602,14 @@
     "city": "台北"
   },
   {
-    "title": "九合一選挙とは何か？九つの職位、四回の昇格、三十年の地方自治の進化史",
+    "title": "九合一選挙とは何か？9つの役職、4度の昇格、30年にわたる地方自治の進化史",
     "lat": 25.035219,
     "lng": 121.571996,
     "category": "politics",
     "region": "north",
     "link": "/ja/politics/nine-in-one-elections-explained",
     "lang": "ja",
-    "desc": "「九合一」という言葉が広く使われるようになったのは2014年が初めてです。その背景には、1967年の台北・高雄昇格、1979年の高雄昇格、2010年の五都昇格、2014年の桃園昇格という四回の都市地理の再編と、1994年の直轄市長初の民選、1999年の《地方制度法》による統合、2014年の直轄市山地原住民區長新設という三つの制度的転換点があります。同日に九つの職位 — 直轄市長 / 直轄市議員 / 縣市長 / 縣市議員 / 鄉鎮市長 / 鄉鎮市民代表 / 山地原住民區長 / 山地原住民區民代表 / 村里長 — を投票するという形態は、台湾の三十年にわたる地方自治の進化の結晶です。",
+    "desc": "「九合一」という言葉は2014年に初めて広く使われました。その背景には、1967年の台北・高雄の昇格、1979年の高雄の昇格、2010年の五都昇格、2014年の桃園の昇格という4度の都市地理再編があります。さらに、1994年の直轄市長初の民選、1999年の《地方制度法》による統合、2014年の山地原住民区長の設置という3つの制度的節目が重なっています。同日に投票が行われる9つの役職（直轄市長 / 直轄市議員 / 県市長 / 県市議員 / 郷鎮市長 / 郷鎮市民代表 / 山地原住民区長 / 山地原住民区民代表 / 村里長）は、台湾における30年間の地方自治の進化が積み重なった結晶です。",
     "city": "台北"
   },
   {
@@ -19591,14 +19635,14 @@
     "city": "彰化"
   },
   {
-    "title": "村里長制度：7,748人の民選首長、台湾で最も基層の政治単位",
+    "title": "村里長制度：7,748人の民選首長、台湾で最も基層にある政治単位",
     "lat": 25.030356,
     "lng": 121.55739,
     "category": "politics",
     "region": "north",
     "link": "/ja/politics/village-chief-system",
     "lang": "ja",
-    "desc": "午前5時半の里オフィス、月額4.5万台湾ドルの事務補助、6割超が無所属です。村里長は台湾の選挙で最も「政治」らしくない政治職であり、台湾民主化の最も完全な証拠でもあります。日本統治時代の保甲から1950年の直接選挙まで、台湾全域に7,748あり、7-Elevenよりも多いこの職位は、80年にわたる在地関係の代理機能を動かしてきました。",
+    "desc": "午前5時半の里事務所、月額5万4千元の事務補助費、6割を超える無党籍 — 村里長は台湾の選挙において最も「政治」らしくない政治職であり、民主化の最も完全な証拠でもある。日本統治時代の保甲制度から1950年の直選へ。セブンイレブンよりも多い全台7,748のポストが、80年にわたり地域の関係性を代行している。",
     "city": "台北"
   },
   {
@@ -19811,14 +19855,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾の全年齢共生旅行と生活文化：人情味が最強のバリアフリー設備となる時",
+    "title": "台湾の全世代共生型観光と生活文化：人の温かみがバリアフリーになる時",
     "lat": 25.03183,
     "lng": 121.566776,
     "category": "society",
     "region": "north",
     "link": "/ja/society/inclusive-travel-taiwan",
     "lang": "ja",
-    "desc": "家庭の視点から観察する、台湾社会が「人情味」と共生的な施設を通じて、超高齢化社会への道のりで「家族で旅行すること」の意味を再定義している過程。",
+    "desc": "家族の視点から、台湾社会がどのように人情味と共生施設を通じて、超高齢社会へと向かう道のりの中で「家族全員での旅行」の意味を再定義しているのかを考察します。",
     "city": "台北"
   },
   {
@@ -20174,15 +20218,15 @@
     "city": "台北"
   },
   {
-    "title": "台湾と原子力をめぐる議論：反原発はかつて民主運動の共通言語でしたが、気候危機が各陣営の前提を組み替えました",
-    "lat": 22.029888,
-    "lng": 121.553409,
+    "title": "台湾と核エネルギーを巡る議論：核三廠の589項の審査意見を経て、社会的な合意形成にはまだ明確な基準がない",
+    "lat": 22.681022,
+    "lng": 120.486938,
     "category": "society",
-    "region": "east",
+    "region": "south",
     "link": "/ja/society/taiwan-nuclear-debate",
     "lang": "ja",
-    "desc": "2025 年 8 月、434 万人が「第三原発再稼働」に賛成票を投じ、74% を得たにもかかわらず、投票率が基準に届かず敗北扱いになりました。40 年で 3 度の住民投票を経て、台湾は反原発の合意から非核の故郷へ進み、さらに 3 か月のうちに、自ら停止した原子炉を再稼働へ押し出しました。この議論はすでに「原子力はよいか悪いか」という二択を超えています。核廃棄物は 10 万年安定させなければならず、脱炭素は 10 年以内に達成しなければならず、電力不足は今この瞬間の問題です。時間圧力が互いに逆向きの課題を、社会がどう決めるのかという問いなのです。",
-    "city": "台東"
+    "desc": "2026年9月、核安会は原子力炉施設管制法の更新手続きに基づき589項の審査意見を提示し、台電による核三廠の再稼働計画を承認しました。再稼働に向けた3つの条件について、どのような状態が合意形成されたと言えるのか、法規には明記されていません。11月28日の第22号案件は九合一公投と同日に投票が行われます。国民党の理由書では「約8割の民意を政策に反映させるべき」と述べ、民進党団の幹事長は「可決されれば即再稼働となるのは早すぎる」と主張し、34の団体は「これを再稼働のための政治的授権として扱うべきではない」と述べています。",
+    "city": "屏東"
   },
   {
     "title": "台湾サギ鳩：誰もがチャンスを得られるように、幼鳩を「裁判のない風」に飛ばす",
@@ -20438,14 +20482,14 @@
     "city": "台南"
   },
   {
-    "title": "AIハードウェア・サプライチェーン：台湾がクラウドを「実体のある機械」に変える場所",
+    "title": "AI ハードウェアサプライチェーン：台湾がクラウドを機械に変える場所",
     "lat": 25.02621,
     "lng": 121.565746,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/ai-hardware-supply-chain",
     "lang": "ja",
-    "desc": "生成AIはクラウドサービスのように見えますが、実際には物理的な経路を必要とします。チップ設計、ウェハー製造、封止、メモリ、電力、冷却、マザーボード、ラックに至るまで。台湾の重要性はTSMCだけでなく、この経路の重要な関門が集結している点にあります。",
+    "desc": "生成 AI はクラウドサービスのように見えますが、実際には設計・製造・封装・メモリ・電力・冷却・マザーボード・ラックまで一連の物理的な工程が必要です。台湾の重要性は TSMC だけでなく、この工程の複数の重要関門が台湾に集中していることにあります。この共同利益は実在しますが、水電・炭素排出・所得分配・海外進出・地政学リスクを伴っており、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えています。",
     "city": "台北"
   },
   {
@@ -21340,17 +21384,6 @@
     "city": "台北"
   },
   {
-    "title": "란유의 핵폐기물: 2002년 이전출을 약속했으나, 40년째 노란색 통이 남아있다",
-    "lat": 22.025399,
-    "lng": 121.54769,
-    "category": "history",
-    "region": "east",
-    "link": "/ko/history/orchid-island-nuclear-waste",
-    "lang": "ko",
-    "desc": "1982년 저방사성 폐기물이 다워족인의 고향으로 반입되었습니다. 1998년 주민들은 '악령 추방'을 요구하며 이전을 요구했고, 대만전기(Taipower)도 2002년 말까지 이전할 것을 약속했습니다. 40여 년이 지난 지금, 란유에 남아있는 것은 저장소 한 곳만이 아니라 안전, 동의, 그리고 고향을 결정할 권리에 관한 미완의 협상입니다.",
-    "city": "台東"
-  },
-  {
     "title": "타이중항: 한 돌멩이가 우치(梧棲)를 바다로 밀어내고 해안을 다시 쓰다",
     "lat": 24.141769,
     "lng": 120.671344,
@@ -21733,6 +21766,17 @@
     "link": "/ko/society/taiwan-higher-education-expansion-and-decline",
     "lang": "ko",
     "desc": "1994년 410 시위가 '대학 광설(廣設)'을 외친 지 채 20년도 안 되어 대학이 58개에서 148개로 불어났고, 순재학률이 70%를 돌파했다. 이어 저출산의 벽이 닥쳤다: 학생 수가 2012년 정점에 달했으나 퇴장 조례는 2022년에야 입법되었다. 가오펑(高鳳), 융다(永達), 다오장(稻江)이 차례로 문을 닫았고, 융다에 배치된 학생 중 거의 3분의 1이 졸업까지 가지 못했으며, 퇴장 교사의 전직 성공률은 14%에 불과했다. 이는 문을 여는 규칙만 설계된 실험이었다 — 문을 닫는 규칙은 10년 늦게 도착했고, 혜택은 실재했으나 분산되었으며, 청구서는 선택권이 가장 없는 사람들에게 떨어졌다.",
+    "city": "屏東"
+  },
+  {
+    "title": "대만과 원자력에 관한 논의: 마굿(核三)에 대한 589개 심사 의견 이후, 사회적 합의를 가늠할 기준이 부재하다",
+    "lat": 22.011276,
+    "lng": 120.739473,
+    "category": "society",
+    "region": "south",
+    "link": "/ko/society/taiwan-nuclear-debate",
+    "lang": "ko",
+    "desc": "2026년 9월, 원자력안전위원회는 원자력시설 통제법의 허가 갱신 절차에 따라 589개의 심사 의견을 제시하며 대만전력(台電)의 마굿 재가동 계획을 승인했다. 재가동을 위한 세 가지 조건 중, 사회적 합의가 어느 정도 수준이어야 하는지에 대해서는 법규에 명시되어 있지 않다. 11월 28일 제22호 안건이 9개 지방 선거와 같은 날 투표를 진행하는 가운데, 국민당은 이유서를 통해 민의의 약 80%를 정책에 반영해야 한다고 주장했고, 민진당 의원총회 간사는 통과 시 즉각 재가동하는 것은 '너무 성급하다'고 말했으며, 34개 단체는 이를 재가동을 위한 정치적 권한으로 삼아서는 안 된다고 밝혔다.",
     "city": "屏東"
   },
   {
@@ -22627,6 +22671,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Дискуссии о ядерной энергии на Тайване: после 589 замечаний по проверке АЭС Лоулу, в обществе всё еще нет единого критерия общественного консенсуса",
+    "lat": 22.012252,
+    "lng": 120.738972,
+    "category": "society",
+    "region": "south",
+    "link": "/society/taiwan-nuclear-debate",
+    "lang": "zh-TW",
+    "desc": "В сентябре 2026 года Комиссия по ядерной безопасности, следуя процедуре продления лицензии согласно Закону о контроле над ядерными реакторными установками, выдвинула 589 замечаний и утвердила план перезапуска АЭС Лоулу компанией Taipower. В трех условиях возобновления работы не прописано в законодательстве, что именно общество будет считать достижением консенсуса. 28 ноября, в день голосования по 22-му вопросу и девяти вопросам о референдуме, партия Гоминьдан заявила в своем обосновании о необходимости превратить почти 80% общественного мнения в государственную политику, в то время как секретарь фракции Демократической прогрессивной партии заявил, что перезапуск сразу после принятия решения — это «слишком быстрый скачок». При этом 34 группы заявили, что этот вопрос не должен служить политическим мандатом на возобновление использования ядерной энергии.",
+    "city": "屏東"
+  },
+  {
     "title": "Po-Hao Chi: Người từ Kinh tế học bước vào Thế giới Âm thanh, dùng Thuật toán để đặt Câu hỏi: Liệu bạn có thực sự Lắng nghe?",
     "lat": 25.030099,
     "lng": 121.568345,
@@ -22757,17 +22812,6 @@
     "lang": "zh-TW",
     "desc": "Người Đài Nam gọi cá măng sữa là \"cá nhà\", nhưng nguồn gốc của nó là kỹ thuật nuôi trồng được Công ty Đông Ấn Hà Lan mang từ Indonesia, xuất hiện sớm hơn 37 năm so với Trịnh Thành Công đến Đài Loan năm 1661. Diện tích 4.500 hecta cánh đồng cá và hơn 7 cách chế biến cho một con cá là những di tích sống động của 400 năm lịch sử nuôi trồng này.",
     "city": "台南"
-  },
-  {
-    "title": "Bánh sứa (鳳梨酥): Từ bánh điểm tâm tiếp khách bầu cử đến \"viên gạch vàng\" của Đài Loan với doanh thu năm 250 tỷ",
-    "lat": 25.030464,
-    "lng": 121.565902,
-    "category": "food",
-    "region": "north",
-    "link": "/food/pineapple-cake",
-    "lang": "zh-TW",
-    "desc": "Năm 1945, tiệm bánh Nhan Tân Phát tại Đài Trung cải tiến bánh Long Phụng truyền thống thành bánh sứa nhỏ gọn. Từ việc chuyển đổi dùng nhân bí đao vào những năm 1970 do xuất khẩu thu hẹp, đến năm 2009 Vi Nhiệt Sơn Khâu tìm lại hương vị chua ngọt bản gốc của sứa địa phương, viên \"gạch vàng\" nhỏ bé này suốt tám mươi năm luôn gắn liền với vận mệnh nông nghiệp Đài Loan, nay doanh thu năm đã vượt 250 tỷ Tân Đài tệ, trở thành hương vị Đài Loan điển hình nhất trong tâm trí du khách quốc tế.",
-    "city": "台北"
   },
   {
     "title": "Đường sắt lâm nghiệp A Li Sơn: Một tuyến đường đưa gỗ lên núi, lưu giữ di sản văn hóa dài 71,6 km",

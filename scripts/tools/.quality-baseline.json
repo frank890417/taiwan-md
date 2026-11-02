@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-01T22:07:12Z",
-  "total": 1156,
-  "flagged": 723,
+  "timestamp": "2026-11-02T22:06:50Z",
+  "total": 1158,
+  "flagged": 721,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -965,11 +965,6 @@
       "reasons": "未人工審核; 塑膠句1個; 分號4個; 英式短句開場4處"
     },
     {
-      "file": "society/台灣與核能的討論.md",
-      "score": 5,
-      "reasons": "空洞詞6個; 未人工審核; 塑膠句1個; 破折號7個; 稀薄段落×1"
-    },
-    {
       "file": "society/慈濟.md",
       "score": 4,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 分號6個"
@@ -1527,7 +1522,7 @@
     {
       "file": "politics/村里長制度.md",
       "score": 6,
-      "reasons": "未人工審核; 連續bullet4行; 分號6個; 英式短句開場3處; 稀薄段落×2"
+      "reasons": "未人工審核; 連續bullet4行; 分號8個; 英式短句開場3處; 稀薄段落×2"
     },
     {
       "file": "politics/選舉公報.md",
@@ -1763,11 +1758,6 @@
       "file": "people/唐鳳.md",
       "score": 5,
       "reasons": "塑膠句1個; 破折號15個; 分號8個; 英式短句開場5處"
-    },
-    {
-      "file": "people/沈伯洋.md",
-      "score": 6,
-      "reasons": "空洞詞6個; 破折號11個; 分號9個; 英式短句開場4處"
     },
     {
       "file": "people/楊勇緯.md",

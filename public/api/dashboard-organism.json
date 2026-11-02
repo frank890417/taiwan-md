@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T22:07:17.510Z",
+  "lastUpdated": "2026-11-02T22:06:55.259Z",
   "organs": [
     {
       "id": "heart",
@@ -10,17 +10,17 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 12,
-        "articlesLast30Days": 195,
-        "totalArticles": 1154,
-        "selfProducedLast7Days": 0,
-        "selfProducedLast30Days": 1,
-        "contributedLast7Days": 12,
-        "newArticlesLast7Days": 2,
-        "newArticlesLast30Days": 31,
-        "contributedNewLast7Days": 2,
-        "updatedNotNewLast7Days": 10,
-        "shadowScoreNewOnly": 30
+        "articlesLast7Days": 25,
+        "articlesLast30Days": 194,
+        "totalArticles": 1156,
+        "selfProducedLast7Days": 3,
+        "selfProducedLast30Days": 4,
+        "contributedLast7Days": 22,
+        "newArticlesLast7Days": 3,
+        "newArticlesLast30Days": 33,
+        "contributedNewLast7Days": 0,
+        "updatedNotNewLast7Days": 22,
+        "shadowScoreNewOnly": 50
       }
     },
     {
@@ -33,18 +33,18 @@
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
-        "humanReviewedCount": 198,
-        "totalArticles": 1154,
-        "humanReviewedPercent": 17.2,
+        "humanReviewedCount": 197,
+        "totalArticles": 1156,
+        "humanReviewedPercent": 17,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 18.2,
-          "plugin_pass_rate": 70.1,
+          "review_coverage": 18,
+          "plugin_pass_rate": 70.2,
           "plugin_health": 100,
           "citation_density": 94.3,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 9.2
+          "external_rulers": 9.5
         }
       }
     },
@@ -127,7 +127,7 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1154,
+          "zh-TW": 1156,
           "en": 1153,
           "ja": 1153,
           "ko": 1153,

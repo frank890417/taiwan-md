@@ -1,5 +1,5 @@
 {
-  "totalArticles": 15016,
+  "totalArticles": 15018,
   "totalCategories": 27,
   "estimatedContributors": 80,
   "totalTags": 9005,
@@ -78,7 +78,7 @@
     },
     {
       "name": "Culture",
-      "count": 117
+      "count": 118
     },
     {
       "name": "About",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Art",
-      "count": 51
+      "count": 52
     },
     {
       "name": "resources",
@@ -115,20 +115,20 @@
   ],
   "topTags": [
     {
-      "name": "Economy",
-      "count": 61
-    },
-    {
       "name": "人物",
       "count": 59
     },
     {
+      "name": "Economy",
+      "count": 57
+    },
+    {
       "name": "企業",
-      "count": 53
+      "count": 51
     },
     {
       "name": "YouTuber",
-      "count": 48
+      "count": 47
     },
     {
       "name": "ODM",
@@ -196,15 +196,15 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 15016,
+    "zh-TW": 15018,
     "en": 0
   },
-  "lastUpdated": "2026-11-01T22:07:01.060Z",
-  "stars": 1233,
+  "lastUpdated": "2026-11-02T22:06:40.331Z",
+  "stars": 1234,
   "forks": 188,
-  "zhPages": 1154,
+  "zhPages": 1156,
   "languagePages": {
-    "zh-TW": 1154,
+    "zh-TW": 1156,
     "en": 1155,
     "ja": 1155,
     "ko": 1155,
@@ -219,5 +219,5 @@
     "de": 1155
   },
   "enPages": 1155,
-  "totalPages": 1154
+  "totalPages": 1156
 }

@@ -964,3 +964,17 @@
 {"ts": "2026-10-24T22:06:06Z", "slug": "inbox:中共跨境鎮壓 NEW — 黃逸豪、卡米地與沈伯洋家人（需哲宇裁定）", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-11-01T22:07:31Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "793db0aeb996"}
 {"ts": "2026-11-01T22:07:31Z", "slug": "inbox:1977-78 鄉土文學論戰 NEW — History event 戰後文化史", "stage": "inbox", "status": "in-progress", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "台灣與核能的討論", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "金馬獎", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "金馬獎", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "金馬獎", "stage": "ship", "status": "done", "source": "observed", "sha": "d84eb84116bd"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "金馬獎", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "沈伯洋", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "沈伯洋", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "沈伯洋", "stage": "ship", "status": "done", "source": "observed", "sha": "53346be17707"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "沈伯洋", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "蔣萬安", "stage": "ship", "status": "done", "source": "observed", "sha": "919bf9849835"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "金鐘獎", "stage": "ship", "status": "done", "source": "observed", "sha": "03778502890a"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "陳致中", "stage": "ship", "status": "done", "source": "observed", "sha": "66219f5083c2"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "台灣公投制度", "stage": "ship", "status": "done", "source": "observed", "sha": "489f45a93337"}
+{"ts": "2026-11-02T22:07:05Z", "slug": "中華職棒", "stage": "inbox", "status": "pending", "source": "observed"}

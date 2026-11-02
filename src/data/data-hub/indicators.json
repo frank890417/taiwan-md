@@ -829,30 +829,30 @@
         "zh-TW": "房貸負擔率",
         "en": "Mortgage burden ratio"
       },
-      "value": 43.12,
+      "value": 41.46,
       "format": "percent",
       "decimals": 2,
       "period": {
-        "zh-TW": "2025 年第 2 季",
-        "en": "Q2 2025"
+        "zh-TW": "2026 年第 1 季",
+        "en": "Q1 2026"
       },
-      "asOf": "2025-06-30",
+      "asOf": "2026-03-31",
       "source": {
         "agency": {
-          "zh-TW": "內政部地政司",
-          "en": "Department of Land Administration, MOI"
+          "zh-TW": "內政部不動產資訊平台",
+          "en": "Real Estate Information Platform, MOI"
         },
-        "url": "https://www.moi.gov.tw/News_Content.aspx?n=4&s=334813"
+        "url": "https://pip.moi.gov.tw/Publicize/Info/E1050"
       },
       "basis": "official",
       "cadence": "quarterly",
       "insight": {
-        "zh-TW": "中位數所得的家庭買一間中位數住宅（980 萬元），每月要拿可支配所得的四成三繳房貸。",
-        "en": "A median-income household buying a median home (NT$9.8 million) would spend 43% of disposable income on the mortgage each month."
+        "zh-TW": "中位數所得的家庭買一間中位數住宅（966 萬元），每月要拿可支配所得的四成一繳房貸。",
+        "en": "A median-income household buying a median home (NT$9.66 million) would spend 41% of disposable income on the mortgage each month."
       },
       "why": {
-        "zh-TW": "中位數所得的家庭買一間中位數住宅，每賺 100 元有 43 元先拿去繳房貸。這個比例決定一個家庭還剩多少錢養孩子、存退休金。",
-        "en": "A median-income family buying a median home spends 43 of every 100 dollars of disposable income on the mortgage. That share decides how much is left for raising children and saving for retirement."
+        "zh-TW": "中位數所得的家庭買一間中位數住宅，每賺 100 元有 41 元先拿去繳房貸。這個比例決定一個家庭還剩多少錢養孩子、存退休金。",
+        "en": "A median-income family buying a median home spends 41 of every 100 dollars of disposable income on the mortgage. That share decides how much is left for raising children and saving for retirement."
       },
       "articles": [
         "Society/居住正義",
