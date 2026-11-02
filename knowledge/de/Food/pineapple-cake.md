@@ -19,10 +19,10 @@ lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:d40713778c8c010e'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-02T01:39:46.549063+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Ananasplunder sind das Ergebnis der taiwanesischen Landwirtschaft und Backkunst. 1945 gegründet von Yen Hsin-fu in Taichung, entwickelte man in den 1970er Jahren aufgrund von Exportproblemen mit Ananas eine dichte Kürbiskreme, und ab 2009 brachte Nanshan Mountain mit seiner Bodenananas-Route den ursprünglichen Säure-Geschmack zurück. Heute ist dieser kleine Goldblock im Wert von über 25 Milliarden NT-Dollar auch für ausländische Besucher der typischste Geschmack von Taiwan.
@@ -67,9 +67,9 @@ Im Jahr 2006 organisierte die Taipeler Stadtregierung das erste „Taipeler Anan
 
 ## Weiterführende Literatur
 
-- [Taiwanesische Kuchenkultur](/de/food/taiwan-pastry-culture) — Die Genetik der Kuchenfertigkeit und moderne Desserts, zusammen mit Ananasplunder, zeigen die Transformation der taiwanesischen Kuchen
-- [Rindfleisch-Nudeln](/de/food/beef-noodle-soup) — Ein weiteres typisches Geschmackserinnerung Taiwans als „Volksdiplomatie“, ein Gegenstück zur Ananasplunder
-- [Modernisierung der taiwanesischen Landwirtschaft](/economy/台灣農業現代化) — Von der Produktionskrise zur Transformation der Landwirtschaft, die Ananasplunder ist ein Teil davon
+- [Taiwanische Gebäckkultur](/de/food/taiwan-pastry-culture) — Die vielschichtigen Gene der chinesischen Teigwarenkunst und modernen Desserts; im Kontext mit Ananasplunder die Transformation des taiwanischen Gebäcks betrachten
+- [Rindfleischsuppe](/de/food/beef-noodle-soup) — Ein weiteres Beispiel für „Volksdiplomatie“, das die kulinarische Identität Taiwans prägt, als Gegenstück zum Ananasplunder für den In- und Auslandsgeschmack
+- [Modernisierung der taiwanischen Landwirtschaft](/de/economy/taiwan-agricultural-modernization) — Vom Problem der Produktion und Vermarktung bis zur Transformation landwirtschaftlicher Unternehmen; Ananasplunder ist ein Teil dieses langen Weges
 
 ## Quellen
 

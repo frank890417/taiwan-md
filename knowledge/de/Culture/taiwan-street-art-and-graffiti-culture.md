@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '3d90cfd59'
-sourceContentHash: 'sha256:9d5872fcc273adaa'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:17b6d5ecf9a613ef'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-10-15T15:59:57+08:00'
+translatedAt: '2026-11-02T01:32:46.151205+00:00'
 ---
 
 # Street Art und Graffiti-Kultur in Taiwan
@@ -85,5 +85,5 @@ Digitale Technologien eröffnen neue Möglichkeiten. Dynamische Projektionen auf
 
 ## Weiterführende Literatur
 
-- [Zeitgenössische Kunst in Taiwan](/culture/台灣當代藝術) — Die Schnittstelle zwischen taiwanesischer Street Art und dem zeitgenössischen Kunstökosystem
-- [Elektronische Musik und Partykultur in Taiwan](/de/music/taiwan-electronic-music-and-party-culture) — Die elektronische Musikszene, die dieselben subkulturellen Wurzeln wie die Street Art teilt
+- [Zeitgenössische Kunst in Taiwan](/de/art/contemporary-art) — Die Schnittstelle zwischen Street Art und dem Ökosystem zeitgenössischer Kunst in Taiwan
+- [Elektronische Musik und Partykultur in Taiwan](/de/music/taiwan-electronic-music-and-party-culture) — Die elektronische Musikszene, die mit der Street Art dieselben subkulturellen Wurzeln teilt

@@ -18,10 +18,10 @@ lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 10
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b7728f29d3dbc9e2'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9dcb097daa80cdd6'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-02T00:42:44.039982+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Chang Zhi-qi ist einer der einflussreichsten Nachrichten-YouTuber Taiwans, dessen Kanal „Zhiqi 77“ für seinen Stil von täglichen Updates und komparativen Zusammenfassungen bekannt ist. Er begann im Bereich des Informationsdesigns und versucht durch „Übersetzung“, ernste Themen in die öffentliche Sicht zu bringen und sucht in einer polarisierten Gesellschaft kontinuierlich nach Räumen für den Dialog. Dieser Artikel untersucht, wie er die Transformation der Gesellschaft zu einem erfolgreichen Geschäft gemacht hat und seinen Weg beim Aufbau von Vertrauen und Einfluss in komplexen Umgebungen beleuchtet.
@@ -66,13 +66,11 @@ Angesichts der Welle der Künstlichen Intelligenz und des Einflusses kurzer Vide
 
 Für Chang Zhi-qi war die Gründung und Führung des Kanals ein Prozess ständiger Experimente. Er bezeichnete sein Leben als einfach; das Bestellsystem seines Telefons speichert nur feste Gerichte, und er konzentriert seine gesamte Energie darauf, „langweilige, aber korrekte Dinge zu wiederholen.“[^1] In der heutigen Zeit, in der die Polarisierung kaum umkehrbar ist, strebt er nicht nach allgemeiner Zustimmung, sondern versucht, jene Gruppen in der taiwanesischen Gesellschaft zu finden, die „keine leidenschaftlichen Diskussionen mögen“, und führt so einen Marathon des Verständnisses fort.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- **[A Di](/de/people/ray-du-english-youtuber)**: Mitbegründer der Taiwan New Media Creator Association; beide sind Wissens-YouTuber aus der Generation der „Dorftagsführer“.
-- **[Ba Jiong](/de/people/pa-chiung-political-youtuber)**: Eine andere Strategie des Self-Media, die sich auf politische Kommentare konzentriert, aber den Weg des „spöttischen Anti-Kriegs“-Ansatzes geht.
-- **[Taiwanische Demokratische Transformation](/de/history/taiwan-democratization)**: Der Kontext der öffentlichen Debatte in Taiwan hinter Chang Zhi-quis kuratorischer Stil der „Darstellung verschiedener Sichtweisen“.
-
----
+- **[A-Di](/de/people/ray-du-english-youtuber)**: Mitbegründer der Vereinigung der taiwanesischen New-Media-Content-Creator; beide gehören zur Generation der Wissens-YouTuber, die als „Lizhangbo“-Generation (Dorfvorsteher-Generation) bekannt ist.
+- **[Ba Jiong](/de/people/pa-chiung-political-youtuber)**: Ebenfalls mit Schwerpunkt auf aktueller Zeitgeschehen, verfolgt jedoch eine andere Strategie für Selfmade-Medien, nämlich den Ansatz des „spöttischen Widerstands gegen die Vereinigungspropaganda“.
+- **[Demokratische Transformation Taiwans](/de/history/taiwan-democratization)**: Der Kontext der Entwicklung der öffentlichen Debatte in Taiwan hinter dem kuratorischen Stil von Chang Chih-chi, der auf das „Darlegen verschiedener Standpunkte“ setzt.
 
 ## Referenzen
 

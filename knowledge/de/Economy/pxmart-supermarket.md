@@ -18,10 +18,10 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '4dd14cf66'
-sourceContentHash: 'sha256:6ebac68ebf527a7d'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-02T01:44:21.462753+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 1998 übernahm Immobilienmogul Lin Min-hsiung das milliardenschwere, nur noch 66 Filialen umfassende Militär- und Beamten-Wohlfahrtsgeschäft. Mit der Devise „20 % günstiger, 2 % Gewinn“ kämpfte er sich durch den Druck von Massenvermarktern wie Carrefour und Metro sowie den Convenience-Stores von 7-Eleven. Heute ist Wanfang ein Retail-Riese mit über 2.000 Millionen Jahresumsatz und 1.200 Filialen – doch Monopolvorwürfe und Digitalisierungsschmerzen stellen die Plattform vor die Herausforderung des nächsten Jahrzehnts.
@@ -66,12 +66,12 @@ Lin Min-hsiung sagte einst: „Wanfang ist das Wohlfahrtszentrum aller Taiwanese
 
 ## Weiterführende Literatur
 
-- **[Mascot](/de/lifestyle/mascot-culture-in-taiwan)** — Wanfang-Bär und Open: IP-Management für Retail-Mascots
-- **[Kultur der Convenience-Stores in Taiwan](/de/lifestyle/convenience-store-culture)** — Positionen von Wanfang, 7-Eleven und FamilyMart im taiwanesischen Einzelhandel
-- **[Taiwanesische Lieferwirtschaft](/economy/台灣外送經濟)** — Wie Wanfang Express in den Markt von foodpanda / Uber Eats drang
-- **[Taiwanesische mobile Zahlungen](/de/technology/taiwan-mobile-payment)** — Von Wanfang Pay und anderen Tools, Händlerakzeptanz bis Reservegeld: Warum Verbreitung und Allgemeingültigkeit unterschiedlich sind
-- **[Geschichte der taiwanesischen Werbung](/de/culture/taiwan-advertising-history)** — Die Ökonomie hinter Wanfangs „Wirtschaftsästhetik“: Ogilvy & Mather und der Weg von Aufmerksamkeitsmonopol bis emotionale Werbung
-- **[Unternehmen in Taiwan: Uni-President](/de/economy/taiwan-enterprise-uni-president)** — Uni-President übernimmt Carrefour, Wanfang übernimmt Carrefour: Die andere Seite der Retail-Konsolidierung
+- **[Maskottchen](/de/lifestyle/mascot-culture-in-taiwan)** — Der PX Mart Welfare Bear und Open: Die IP-Strategie von Einzelhandelsmaskottchen
+- **[Die Kultur der Convenience Stores in Taiwan](/de/lifestyle/convenience-store-culture)** — Die Position von PX Mart, 7-Eleven und FamilyMart im taiwanesischen Einzelhandel
+- **[Die Lieferwirtschaft in Taiwan](/de/lifestyle/food-delivery-platforms-taiwan)**) — Wie PX Mart Hour Delivery in den Markt von foodpanda / Uber Eats vordringt
+- **[Mobile Payment in Taiwan](/de/technology/taiwan-mobile-payment)** — Von verschiedenen Tools wie AllPay über die Akzeptanz bei Händlern bis hin zu Bargeldreserven: Den Unterschied zwischen Verbreitung und universeller Nutzung verstehen
+- **[Die Geschichte der Werbung in Taiwan](/de/culture/taiwan-advertising-history)** — Ogilvy hinter der „Ästhetik des Wirtschaftens“ von PX Mart und die hundertjährige Geschichte der taiwanesischen Werbung vom Monopol auf Aufmerksamkeit bis zum Emotional Marketing
+- **[Taiwanische Unternehmen: Uni-President](/de/economy/taiwan-enterprise-uni-president)** — Die andere Seite der Geschichte über die Konsolidierung der beiden taiwanesischen Einzelhandelsriesen: Uni-President übernimmt Carrefour und PX Mart übernimmt RT-Mart
 
 ## Quellen
 

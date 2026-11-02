@@ -1,15 +1,15 @@
 ---
-title: 'HeySong-Sarsaparilla: Die legende vom "Dreigestirn" zur Sarsaparilla, die die Cola-Bosse schlug'
-description: 'Dies ist kein gewöhnlicher Softdrink, sondern die Geschichte des taiwanesischen Kapitals, das in der japanischen Kolonialherrschaft und der Globalisierung mit "17 Dollar an Vermögen" und "Meine Zukunft ist kein Traum" überlebte.'
+title: 'Heisong Soda und Sarsaparilla: Vom belächelten „Drittklassprodukt“ zum Herausforderer der Cola-Giganten'
+description: 'Dies ist nicht nur ein gewöhnliches Erfrischungsgetränk, sondern die Überlebensgeschichte des taiwanischen nationalen Kapitals, das sich unter japanischer Kolonialherrschaft und in der Welle der Globalisierung durch „17-Yuan-Vermögen“ und den Geist von „Meine Zukunft ist kein Traum“ behauptete.'
 date: 2026-04-16
 category: 'Food'
 tags:
   [
-    'HeySong',
-    'HeySong-Sarsaparilla',
-    'taiwanesische Marke',
-    'Getränkekultur',
-    'Chang Yusheng',
+    'Heisong Soda',
+    'Heisong Sarsaparilla',
+    'Taiwanische Marken',
+    'Essenskultur',
+    'Chang Yu-sheng',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
@@ -18,10 +18,10 @@ lastVerified: 2026-04-16
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-02T01:22:57.999026+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

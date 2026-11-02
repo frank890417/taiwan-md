@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Cement: Die legendäre grüne Transformation Taiwans erster börsennotierter Unternehmen'
-description: '1962 wurde die Taiwaner Börse für sie gegründet; die Aktienkennzeichnung 1101 symbolisiert den Ursprung der taiwanesischen Börse. Über drei Generationen der Gua-Familie (76 Jahre) und den Bau von Zementöfen, die taiwanische Wunder der Entwicklung bezeugten, hat Taiwan Cement nun begonnen, sich als grünes Unternehmen im Zeitalter der Klimaneutralität zu transformieren.'
+title: 'TCC: Die grüne Transformation des ersten börsennotierten Unternehmens Taiwans'
+description: 'Die Taiwan Stock Exchange wurde 1962 für es geschaffen; die Aktiencode 1101 symbolisiert den Ursprung des taiwanesischen Aktienmarktes. Nach 76 Jahren Familienführung durch drei Generationen der Familie Ku haben die Zementöwarte von TCC das Wunder des taiwanesischen Infrastrukturbaus bezeugt. Heute transformiert sich das Unternehmen zu einem grünen Betrieb, um die Ära der CO2-Neutralität zu meistern.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Zementindustrie',
     'Baustoffe',
     'Privatisierung',
-    'grüne Transformation',
+    'Grüne Transformation',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：台泥.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:b019710168a5543e'
 sourceBodyHash: 'sha256:144f62335cbc632a'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-02T01:06:36.022428+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -106,18 +106,18 @@ Taiwan Cements Transformationspfad weist mehrere charakteristische Merkmale auf:
 
 Die globale Zementindustrie verursacht etwa 7–8 % der weltweiten CO₂-Emissionen (Daten der International Energy Agency, IEA) und zählt zu den schwer abbaubaren Branchen. Taiwan Cements Transformation ist noch nicht abgeschlossen und muss langfristig beobachtet werden. [^2]
 
-## Quellen
+## Referenzen
 
-[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Vollständige Unternehmensgeschichte einschließlich Gründung 1946, Privatisierung 1954 und Börsengang 1962.
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Vollständige Geschichte von Taiwan Cement, einschließlich der Gründung 1946, der Privatisierung 1954 und des Börsengangs 1962.
 
-[^2]: [Taiwan Cement Corporation 2024 Jahresbericht](https://www.taiwancement.com/) — Neueste Finanz- und Geschäftsdaten des Konzerns.
+[^2]: [Taiwan Cement Corporation Geschäftsbericht 2024](https://www.taiwancement.com/) — Aktuelle Finanz- und Geschäftsdaten der Taiwan Cement Gruppe.
 
-[^3]: [Caijing: Taiwan Cement, Taiwans ältestes börsennotiertes Unternehmen, betreibt in 13 Ländern, unterhält 27 Tochtergesellschaften und erhebt sich durch ‚Entzement‘](https://www.cw.com.tw/article/5130723) — Bericht über Taiwans grüne Transformationsstrategie und Diversifizierung.
+[^3]: [CommonWealth Magazine: Taiwans ältestes börsennotiertes Unternehmen, Taiwan Cement, agiert in 13 Ländern mit 27 Tochtergesellschaften und wandelt sich durch „Abkehr vom Zement“](https://www.cw.com.tw/article/5130723) — Bericht über die grüne Transformationsstrategie und die Diversifizierung von Taiwan Cement.
 
-[^4]: [Mirror Weekly: Erinnerung an Gua Zhenfu über Innovationen; Zhang Anping: Wir setzen uns voll auf die grüne Transformation](https://www.mirrormedia.mg/story/20210209fin001) — Interview mit Zhang Anping über die Richtung der grünen Transformation nach seiner Übernahme.
+[^4]: [Mirror Media: Rückblick auf Ku Jen-fu und die Innovation bei Taiwan Cement; Chang An-ping: Voller Einsatz für die Transformation zum grünen Unternehmen](https://www.mirrormedia.mg/story/20210209fin001) — Interview über die Richtung der grünen Transformation von Taiwan Cement nach der Übernahme durch Chang An-ping.
 
-[^5]: [TEJ Taiwan Wirtschaftszeitung: Der Aufbau des taiwanesischen Zementreichs – Die Wachstumsreise der Gua-Familie und Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Umfassende Dokumentation der Entwicklung der Gua-Familie und Taiwan Cement.
+[^5]: [TEJ Taiwan Economic Journal: Aufbau eines taiwanischen Zementkönigreichs – Die Wachstumsreise der Familie Ku und der Taiwan Cement Gruppe](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Vollständige Dokumentation der drei Generationen der Familie Ku und der Managementstruktur von Taiwan Cement.
 
-[^6]: [Gua Yizhuo und Gua Zhenfu: Durch eine Familienheirat gründen sie das taiwanesische Zementreich und erweitern es in die erneuerbaren Energien — Central News Agency](https://www.cna.com.tw/news/afe/202502050178.aspx) — Vollständige Dokumentation der Privatisierung 1954, des ersten Vorstandsvorsitzenden Lin Boshou, des stellvertretenden Direktors Gua Zhenfu und des Familiennetzwerks.
+[^6]: [Die Verbindung zwischen den Familien Ku, Yen, Zhuo, Yun sowie Ku Jen-fu und der Aufbau eines taiwanischen Zementkönigreichs mit Ausweitung auf grüne Energie — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Vollständige Aufzeichnungen über die Privatisierung von Taiwan Cement 1954, Lin Po-shou als erster Vorstandsvorsitzender, Ku Jen-fu in der Position des Assistenten des Präsidenten und das Netzwerk der familiären Verbindungen.
 
-[^7]: [Gua Chengyun plötzlich verstorben; Ehemann Zhang Anping übernimmt Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Bestätigung des Todesfalls von Gua Chengyun am 23. Januar 2017 und der Identität von Zhang Anping als Ehemann (Gua Huiru, die jüngste Tochter von Gua Zhenfu). Siehe auch [Mirror Weekly: Hintergrund des plötzlichen Todes von Gua Chengyun](https://www.mirrormedia.mg/story/20170124bus004).
+[^7]: [Plötzlicher Tod von Ku Cheng-yun; Schwager Chang An-ping übernimmt die Taiwan Cement Gruppe — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Bestätigung des Todes von Ku Cheng-yun am 23.01.2017 und der Status von Chang An-ping als „Schwager“ (Ku Huai-ju ist die jüngere Tochter von Ku Jen-fu). Siehe auch [Mirror Media: Hintergründe zum plötzlichen Tod von Ku Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).
