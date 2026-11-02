@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-26T05:17:38+08:00'
+translatedAt: '2026-11-02T20:34:33.851740+00:00'
 ---
 
 > **Ringkasan 30 detik:** Sistem wajib militer Taiwan adalah jejak sosial paling mendalam yang telah ditinggalkan oleh pulau ini selama lebih dari setengah abad. Dari "tiga tahun dinas" di era darurat militer hingga kembali ke wajib militer satu tahun hari ini, ini bukan sekadar perubahan angka masa dinas, melainkan cerminan nyata Taiwan dalam menghadapi tekanan geopolitik. Artikel ini membawa Anda memasuki momen "Golden Horse Award" yang diucapkan saat pengundian, hingga ke现场 kesiapan perang modern di mana supermarket pun dimasukkan ke dalam latihan, serta menganalisis secara mendalam standar pembebasan dinas, jadwal pelatihan baru, berbagai jenis dinas alternatif, dan transformasi praktis dari panggilan cadangan baru.
@@ -104,8 +104,9 @@ Sistem wajib militer Taiwan adalah dialog jangka panjang tentang "tanggung jawab
 
 ## Bacaan Lanjutan
 
-- [Memori Bukit Chenggong dan Jalan Shengli](/id/history/hukou-camp-shengli-road-memory) — Memori sehari-hari ruang militer
-- [Akademi Beruang Hitam](/id/society/kuma-academy-civil-defense-school) — Versi kontempender kesadaran pertahanan sipil
+- [Kompleks Militer Hukou dan Kenangan Jalan Victoria](/id/history/hukou-camp-shengli-road-memory) — Kenangan Sehari-hari Ruang Militer
+- [Akademi Beruang Hitam](/id/society/kuma-academy-civil-defense-school) — Versi Kontemporer Kesadaran Pertahanan Sipil
+- [Penghargaan Golden Horse](/art/金馬獎) — Penghargaan Golden Horse para sinemetikus dan "Golden Horse" dalam percakapan prajurit wajib militer berasal dari sumber yang sama, yaitu huruf pertama Kinmen dan Matsu
 
 ## Referensi
 

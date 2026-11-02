@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8130ad5ab40eae13'
-sourceBodyHash: 'sha256:f699c0cd2ccbe17d'
-translatedAt: '2026-07-30T22:54:32+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-02T19:36:33.443798+00:00'
 ---
 
 # Apa Itu Pemilu Sembilan-in-Satu?
@@ -122,37 +122,35 @@ Tiap jabatan punya sejarah sendiri. Tapi angka "sembilan" ini bukan keputusan UU
 
 ---
 
-## Tegangan Desain Sistem
+## Ketegangan dalam Desain Institusional
 
-Format Sembilan-in-Satu kelihat alami, tapi di baliknya ada banyak tegangan struktural, masing-masing masih berevolusi sampai sekarang：
+Format "Sembilan-in-Satu" ini tampak alami, namun di baliknya terdapat banyak ketegangan struktural yang masing-masing masih terus berevolusi:
 
-### Naik Status vs Otonomi Daerah
+### Peningkatan Status vs. Otonomi Daerah
 
-"Naik status" adalah konsep inti tata kelola kota Taiwan — dari kota provinsi jadi Kota Langsung, skala anggaran, kepegawaian, tingkatan administrasi semuanya berubah. Tapi naik status bawa "efek samping kehilangan kepala daerah terpilih rakyat": asalnya Walikota Kabupaten terpilih rakyat, naik status jadi Camat penunjukan.
+"Peningkatan status" (升格) adalah konsep inti dalam tata kelola kota di Taiwan — dari kota di bawah administrasi provinsi menjadi kota metropolitan (直轄市), skala anggaran, struktur personel, dan tingkat administratif semuanya akan berubah. Namun, peningkatan status juga membawa efek samping berupa "hilangnya kepala daerah terpilih": status pemilihan langsung bagi "walikota" yang sebelumnya merupakan kota di bawah administrasi kabupaten akan hilang setelah peningkatan status (berubah menjadi kepala distrik yang ditunjuk).
 
-Naik status Lima Kota 2010 efek samping ini pertama kali terjadi massal, khusunya tiga Kecamatan Pegunungan Kaohsiung (Namasia / Taoyuan / Maolin) kehilangan status Camat terpilih rakyat. 2014 Taoyuan naik status memicu kontroversi sama (Fuxing). DPR 2014 lewat revisi UU Sistem Daerah, membentuk jabatan "Kepala Daerah Pegunungan Orang Asli Kota Langsung" sebagai penanggulangan.
+Efek samping ini terjadi secara massal untuk pertama kalinya saat peningkatan status lima kota metropolitan pada tahun 2010, terutama ketika status pemilihan langsung bagi para kepala desa di tiga desa pegunungan di Kabupaten Kaohsiung (Namasia / Taoyuan / Maolin) dicabut. Kontroversi serupa kembali muncul saat peningkatan status Taoyuan pada tahun 2014 (Desa Fuxing). Untuk mengatasinya, Legislatif melalui amandemen 《UU Sistem Daerah》 pada tahun 2014 menetapkan posisi baru "Kepala Distrik Penduduk Asli Pegunungan di Kota Metropolitan" sebagai solusi.
 
-Tapi Camat/Kepala Kota Kabupaten di dataran tetap kehilangan status terpilih rakyat akibat naik status — masalah struktural ini sampai sekarang belum dapat penanggulangan universal [^10]。
+Namun, status pemilihan langsung bagi walikota atau kepala kecamatan di dataran rendah masih terus hilang akibat peningkatan status hingga saat ini — masalah struktural ini belum mendapatkan solusi yang menyeluruh [^10].
 
-### Anggota DPRD Kota Langsung vs Anggota Lembaga Legislatif: Divergensi Sistem
+### Perbedaan Institusional antara Anggota Dewan Kota Metropolitan vs. Legislator
 
-Anggota Lembaga Legislatif 2008 berubah jadi "Daerah Pilihan Tunggal Dua Suara" (Daerah + Non-Daerah), Anggota DPRD Kabupaten/Kota sampai sekarang masih pakai desain 1980-an "Daerah Pilihan Majemuk Catat Tunggal Non-Transferable (SNTV)" — sama-sama wakil rakyat terpilih, desain sistem beda total.
+Pada tahun 2008, sistem pemilihan anggota Legislatif berubah menjadi "sistem dua suara di distrik tunggal" (distrik + daftar partai), sementara anggota dewan kabupaten/kota hingga kini masih menggunakan sistem "Single Non-Transferable Vote (SNTV) dalam distrik jamak" yang dirancang pada tahun 1980-an — meskipun keduanya adalah perwakilan terpilih, desain institusionalnya sangat berbeda.
 
-Divergensi ini bertahan 18 tahun. Di baliknya ada ikatan kepentingan faksi lokal dan partai — tapi dampak SNTV ke partai kecil / kekuatan ketiga / representasi multivokal di tingkat DPRD jauh lebih dalam dari tingkat legislatif. Detail lihat [Sistem Anggota DPRD (議員制度)]。
+Perbedaan ini telah bertahan selama 18 tahun. Di baliknya terdapat keterikatan antara faksi lokal dan kepentingan partai politik — namun dampak SNTV terhadap partai kecil / kekuatan ketiga / representasi yang beragam jauh lebih mendalam di tingkat anggota dewan dibandingkan dengan legislator. Detail selengkapnya dapat dilihat pada [Sistem Anggota Dewan](/id/politics/city-councilor-system-taiwan/).
 
 ### Paradoks Skala Kepala Desa/Kelurahan
 
-7.748 Kepala Desa/Kelurahan seluruh Taiwan — lebih banyak dari 7-Eleven 6.600+ gerai. Setiap empat tahun 7.748 pemilu skala kecil berlangsung serentak. Tapi rata-rata pemilih per desa/kelurahan cuma 2.000-5.000 orang, ekonomi politik jabatan ini beda total dengan delapan jabatan lain — non-partai dominan, tingkat terpilih kembali >80%, tunjangan bulanan 45 ribu bukan gaji, faksi dan hubungan pribadi lebih penting dari partai [^11]。
+Terdapat 7.748 kepala desa/kelurahan di seluruh Taiwan — jumlah ini bahkan lebih banyak daripada 6.600 gerai 7-Eleven. Setiap empat tahun, 7.748 pemilihan skala kecil berlangsung secara serentak. Namun, rata-rata pemilih di setiap desa/kelurahan hanya berjumlah 2.000 hingga 5.000 orang. Ekonomi politik dari posisi ini sangat berbeda dengan delapan jabatan lainnya — kandidat independen sangat dominan, tingkat terpilih kembali (re-election) melebihi 80%, subsidi bulanan sebesar NT$54.000 tidak dianggap sebagai gaji, dan hubungan faksi serta personal jauh lebih penting daripada afiliasi partai [^11].
 
-Bahas detail lihat [Sistem Kepala Desa/Kelurahan (村里長制度)]。
+Diskusi mendalam dapat dilihat pada [Sistem Kepala Desa/Kelurahan](/id/politics/village-chief-system/).
 
-### Identitas Ganda Daerah Orang Asli
+### Identitas Ganda Distrik Penduduk Asli
 
-Daerah Pegunungan Orang Asli Kota Langsung secara hukum adalah "Daerah Kota Langsung" + "Unit Otonomi Suku Asli" — identitas ganda bikin tegangan multi-lapis di alokasi sumber daya, kebudayaan, pengelolaan tanah. Kepala daerah harus koordinasi di antara Pemerintah Kota Langsung, Komisi Urusan Orang Asli Pusat, Rapat Suku tiga lapis, beda total kerja "Camat" biasa.
+Distrik penduduk asli pegunungan di kota metropolitan memiliki identitas ganda secara hukum: sebagai "wilayah administratif kota metropolitan" + "unit otonomi penduduk asli" — identitas ganda ini menciptakan ketegangan multidimensi dalam alokasi sumber daya, kebijakan budaya, dan manajemen lahan. Seorang kepala distrik harus melakukan koordinasi di antara tiga lapisan: pemerintah kota metropolitan, Dewan Pengembangan Urusan Penduduk Asli Pusat, dan dewan suku (tribal council), yang mana pekerjaannya sangat berbeda dengan "kepala distrik" pada umumnya.
 
-Detail lihat [Kepala Daerah Pegunungan Orang Asli Kota Langsung (直轄市山地原住民區長)]。
-
----
+Detail selengkapnya dapat dilihat pada [Kepala Distrik Penduduk Asli Pegunungan di Kota Metropolitan](/id/politics/indigenous-district-chief-system/).
 
 ## Skenario Konkret: Satu Surat Suara Sembilan Jabatan
 
@@ -209,38 +207,38 @@ Pintu masuk kurasi infrastruktur demokrasi: [Hub Politik](/politics)
 
 ## Referensi
 
-[^1]: [Pemilu Pejabat Publik Daerah Ke-14 Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Entri Pemilu Sembilan-in-Satu 2014, pertama kali sembilan jabatan lengkap serentak
-
-[^2]: [Pemilu Pejabat Publik Daerah Republik Tiongkok — Entri Ringkasan Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Pemilu Pejabat Publik Daerah Republik Tiongkok — Entri Ringkasan Wikipedia Sumber Resmi
-
-[^3]: [Pemilu Pejabat Publik Daerah Republik Tiongkok 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Jadwal Pemilu 2026 KPU Pusat
-
-[^4]: [UU Pemilihan dan Pemberhentian Pejabat Publik — Basis Data Hukum Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — UU Pemilihan dan Pemberhentian Pejabat Publik — Basis Data Hukum Nasional Sumber Resmi
-
-[^5]: [Kabupaten/Kota Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Kabupaten/Kota Republik Tiongkok — Wikipedia Sumber Resmi
-
-[^6]: [Sejarah Administrasi Taipei — Dinas Sipil Kota Taipei](https://ca.gov.taipei/) — Sejarah Administrasi Taipei — Dinas Sipil Kota Taipei Sumber Resmi
-
-[^7]: [Pemilu Walikota Kota Langsung Republik Tiongkok 1994 — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Pemilu Walikota Kota Langsung Republik Tiongkok 1994 — Wikipedia Sumber Resmi
-
-[^8]: [Reorganisasi Kota Langsung Republik Tiongkok 2010 — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Reorganisasi Kota Langsung Republik Tiongkok 2010 — Wikipedia Sumber Resmi
-
-[^9]: [UU Sistem Daerah — Basis Data Hukum Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Pasal 83-1 sampai 83-12 (Daerah Pegunungan Orang Asli Kota Langsung)
-
-[^10]: [The Reporter — Kehilangan Terpilih Rakyat Pasca Naik Status](https://www.twreporter.org/) — Analisis Efek Samping Naik Status (Link Laporan Konkret Akan Ditambah)
-
-[^11]: [Dinas Pemerintahan Dalam Negeri Kementerian Dalam Negeri — Data Dasar Kepala Desa/Kelurahan](https://www.moi.gov.tw/) — Dinas Pemerintahan Dalam Negeri Kementerian Dalam Negeri — Data Dasar Kepala Desa/Kelurahan Sumber Resmi
-
-[^12]: [Komisi Pemilihan Pusat — Jadwal Pemilu 2026](https://web.cec.gov.tw/) — Komisi Pemilihan Pusat — Jadwal Pemilu 2026 Sumber Resmi
-
-[^13]: Buletin Pemilu KPU Pusat — Desain Warna Surat Suara
-
-[^14]: [Komisi Pemilihan Federal — Hari Pemilu](https://www.fec.gov/) — Komisi Pemilihan Federal — Hari Pemilu Sumber Resmi
-
-[^15]: [Pemilu Serentak Daerah — Wikipedia Versi Jepang](https://ja.wikipedia.org/wiki/統一地方選挙) — Pemilu Serentak Daerah — Wikipedia Versi Jepang Sumber Resmi
-
-[^16]: [전국동시지방선거 — Wikipedia Versi Korea](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipedia Versi Korea Sumber Resmi
-
 ---
 
-_v1.0 | 2026-05-27 | Lahir dari directive Yu Zhe "artikel tolong masukkan satu-satu ke article-inbox" + Option D putuskan Tier 1.1 #1 anchor article. |_
+_v1.0 | 2026-05-27 | Lahir dari arahan Zheyu "Tolong masukkan semua jenis artikel satu per satu ke article-inbox" + setelah keputusan Option D, ini adalah anchor article Tier 1.1 #1._
+
+[^1]: [Pemilihan Pejabat Publik Daerah ke-14 Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Entri Pemilihan Sembilan-dalam-Satu tahun 2014, pertama kalinya sembilan jenis jabatan dipilih secara lengkap pada hari yang sama
+
+[^2]: [Pemilihan Pejabat Publik Daerah Republik Tiongkok — Entri Tinjauan Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Pemilihan Pejabat Publik Daerah Republik Tiongkok — Entri Tinjauan Wikipedia, sumber data resmi
+
+[^3]: [Pemilihan Pejabat Publik Daerah Republik Tiongkok tahun 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Jadwal administrasi pemilihan Komisi Pemilihan Umum (CEC) tahun 2026
+
+[^4]: [Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik — Database Peraturan Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik — Database Peraturan Nasional, sumber data resmi
+
+[^5]: [Kabupaten dan Kota di Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Kabupaten dan Kota di Republik Tiongkok — Wikipedia, sumber data resmi
+
+[^6]: [Evolusi Administratif Kota Taipei — Biro Urusan Sipil Pemerintah Kota Taipei](https://ca.gov.taipei/) — Evolusi Administratif Kota Taipei — Biro Urusan Sipil Pemerintah Kota Taipei, sumber data resmi
+
+[^7]: [Pemilihan Walikota Kotamadya Tahun 1994 Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Pemilihan Walikota Kotamadya Tahun 1994 Republik Tiongkok — Wikipedia, sumber data resmi
+
+[^8]: [Restrukturisasi Kotamadya Tahun 2010 Republik Tiongkok — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Restrukturisasi Kotamadya Tahun 2010 Republik Tiongkok — Wikipedia, sumber data resmi
+
+[^9]: [Undang-Undang Sistem Pemerintahan Daerah — Database Peraturan Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Pasal 83-1 hingga 83-12 (Distrik Penduduk Asli Pegunungan di Kotamadya)
+
+[^10]: [The Reporter — Kehilangan Pemilihan Rakyat Setelah Peningkatan Status](https://www.twreporter.org/) — Analisis efek samping peningkatan status (tautan laporan spesifik akan segera ditambahkan)
+
+[^11]: [Menyesuaikan Kenaikan Gaji Militer, Guru, dan Pegawai Negeri! Kementerian Dalam Negeri Meningkatkan Tunjangan Asisten Anggota Dewan dan Kepala Desa/Dusun yang Berlaku Mulai 1 Juli, Akan Naik Lagi 4% pada Tahun Baru Depan — Kementerian Dalam Negeri](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Siaran pers Departemen Urusan Sipil Kementerian Dalam Negeri tanggal 16 Juli 2026. Tunjangan urusan kepala desa/dusun dari NT$50.000 per bulan disesuaikan menjadi NT$54.000, dan untuk wilayah penduduk asli dari NT$60.000 disesuaikan menjadi NT$64.800 mulai 1 Juli 2026.
+
+[^12]: [Komisi Pemilihan Umum Pusat — Jadwal Administrasi Pemilihan 2026](https://web.cec.gov.tw/) — Komisi Pemilihan Umum Pusat — Jadwal Administrasi Pemilihan 2026, sumber data resmi
+
+[^13]: Buletin Pemilihan Komisi Pemilihan Umum — Desain Warna Surat Suara
+
+[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Federal Election Commission — Election Day, sumber data resmi
+
+[^15]: [Pemilihan Lokal Serentak — Wikipedia Bahasa Jepang](https://ja.wikipedia.org/wiki/統一地方選挙) — Pemilihan Lokal Serentak — Wikipedia Bahasa Jepang, sumber data resmi
+
+[^16]: [전국동시지방선거 (Pemilihan Lokal Serentak Nasional) — Wikipedia Bahasa Korea](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipedia Bahasa Korea, sumber data resmi

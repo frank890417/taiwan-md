@@ -1,17 +1,17 @@
 ---
-title: '309 Buku Laporan Keuangan Kepala Desa: Penantang yang Mengeluarkan Rp 300 Ribu dan Rp 1,2 Juta Sama-Sama Punya Tingkat Kemenangan 30 Persen'
-description: 'Seorang fresh graduate di Desa Taifeng, Kota Changhua, menerima 732 suara pada 2022 dan mengeluarkan Rp 32.750 dari kantong sendiri. Dari 13.988 calon kepala desa/dusun se-Taiwan tahun itu, hanya 309 orang meninggalkan buku laporan keuangan politik di Komisi Pengawas. Ketika membandingkan 309 buku tersebut dengan hasil pemungutan suara, muncul fakta yang berlawanan dengan intuisi: di antara penantang tanpa status incumbent, tingkat kemenangan mereka yang mengeluarkan paling sedikit dan yang mengeluarkan paling banyak hampir sama.'
+title: '309 Buku Rekening Kepala Desa: Penantang yang Menghabiskan NT$30.000 dan NT$120.000, Tingkat Kemenangan Keduanya 30 Persen'
+description: 'Seorang pemula yang baru lulus di desa Taifeng, Kota Changhua, memperoleh 732 suara pada 2022, dan setelah pemilu ia mengeluarkan uang sendiri sebesar NT$3,275. Tahun itu, dari 13.988 calon kepala desa/kelurahan di seluruh Taiwan, hanya 309 orang yang meninggalkan buku rekening donasi politik di Yuan Kontrol. Ketika 309 buku rekening ini dikaitkan dengan hasil hitung suara, bagi penantang non-incumbent, tingkat kemenangan bagi yang menghabiskan di bawah NT$30.000 dan di atas NT$120.000 sama-sama berada di sekitar 30 persen — jumlah dana mencerminkan seberapa lama seseorang telah mengelola desa, namun sulit mengubah penantang menjadi kepala desa.'
 date: 2026-09-28
 category: 'Politics'
 tags:
   [
-    'kepala desa/dusun',
-    'keuangan politik',
-    'biaya pemilihan',
-    'calon amatir',
-    'Komisi Pengawas',
-    'pemilihan 2022',
-    'pemilihan 2026',
+    'kepala desa',
+    'donasi politik',
+    'biaya pemilu',
+    'pemula mencalonkan diri',
+    'Yuan Kontrol',
+    'pemilu 2022',
+    'pemilu 2026',
   ]
 subcategory: '選舉制度'
 author: 'bblawyer918'
@@ -22,139 +22,137 @@ difficulty: 'intermediate'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'Politics/309本里長帳簿.md'
-sourceCommitSha: '5a9cd9398'
-sourceContentHash: 'sha256:9ce152768ea44921'
-sourceBodyHash: 'sha256:60bb46f6e4722d51'
-translatedAt: '2026-09-30T09:01:28+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:9da6ac74278aa12e'
+sourceBodyHash: 'sha256:f6dc7e3946b055ef'
+translatedAt: '2026-11-02T20:23:52.771795+00:00'
 ---
 
-# 309 Buku Laporan Keuangan Kepala Desa: Penantang yang Mengeluarkan Rp 300 Ribu dan Rp 1,2 Juta Sama-Sama Punya Tingkat Kemenangan 30 Persen
+# 309 Buku Rekening Kepala Desa: Tantangan yang Membelanjakan NT$30.000 dan NT$120.000, Tingkat Kemenangan Keduanya 30%
 
-> **Ringkasan 30 detik:** Pada 26 November 2022, seorang fresh graduate di Desa Taifeng, Kota Changhua, menerima 732 suara dan menempati urutan kedua dari tiga calon. Buku laporan yang dia daftarkan di Komisi Pengawas mencatat: pendapatan Rp 469.770, pengeluaran Rp 502.520, dan dia mengeluarkan Rp 32.750 dari kantong sendiri. Tahun itu, 13.988 orang terdaftar sebagai calon kepala desa/dusun se-Taiwan, tetapi hanya 309 orang yang membuka rekening khusus keuangan politik dan melaporkan setiap transaksi. Ketika membandingkan 309 buku laporan ini dengan hasil pemungutan suara satu per satu, muncul fakta yang berlawanan dengan intuisi: di antara penantang tanpa status incumbent, tingkat kemenangan mereka yang mengeluarkan paling sedikit (seperempat terendah) dan yang mengeluarkan paling banyak (seperempat tertinggi) hampir sama.
+> **Ringkasan 30 Detik:** 26 November 2022, seorang pemula yang baru lulus kuliah tidak lama sebelumnya di Desa Taifeng, Kota Changhua, mendapatkan 732 suara, peringkat kedua dari tiga orang. Buku rekening yang dilaporkannya ke Lembaga Pengawasan mencatat: pemasukan NT$46.977, pengeluaran NT$50.252, dia menambah dari uang sendiri NT$3.275. Tahun itu, 13.988 orang mendaftar sebagai calon kepala desa di seluruh Taiwan, hanya 309 orang yang membuka rekening khusus dana politik dan melaporkan setiap uang seperti dia. Membandingkan 309 buku rekening ini dengan hasil pemungutan suara satu per satu akan mengungkapkan hal yang bertentangan dengan intuisi: di antara penantang yang tidak memiliki jabatan incumbent, perempat yang paling sedikit belanja dan perempat yang paling banyak belanja, tingkat kemenangannya hampir sama.
 
----
+## Suara Pembacaan Suara di Tempat Pemungutan Suara Pertama
 
-## Suara Penghitungan Suara di TPS Pertama
+Malam pemungutan suara, dia menunggu di tempat pemungutan suara pertama di dalam desa. Petugas membuka lembar suara satu per satu, membacakan nama calon: siapa-siapa satu suara, siapa-siapa satu suara.
 
-Malam penghitungan suara, dia berjaga di TPS pertama di desa itu. Petugas membuka satu per satu surat suara dan menyebutkan nama calon: si A satu suara, si B satu suara.
+Suara ini memiliki ritmenya sendiri. Dia kemudian teringat, selama mengetahui kira-kira proporsi suara yang keluar dari setiap kotak suara di masa lalu, dan mendengar frekuensi namanya muncul dalam pembacaan suara, dia sudah kira-kira tahu di hatinya. Ini adalah sinyal paling objektif.
 
-Suara itu memiliki ritmenya sendiri. Kemudian dia mengingat kembali, selama dia tahu berapa persentase suara yang biasanya keluar dari setiap kotak suara, dan mendengarkan frekuensi namanya disebut dalam penghitungan, dia bisa memperkirakan hasilnya. Itu adalah sinyal paling objektif.
+Sinyal yang lebih awal muncul pada malam sebelumnya. Undang-Undang Pemilihan dan Penarikan Pejabat Publik mengatur, selama masa kampanye tidak boleh melakukan kegiatan kampanye publik setelah pukul 22.00 setiap malam, dan pada hari pemungutan suara dilarang seharian penuh[^3]. Beberapa jam sebelum pukul 22.00 malam terakhir sebelum pemilu, adalah waktu perjuangan terakhir bagi calon, katanya, bagaimana orang di jalan menanggapi Anda, pada saat itulah Anda bisa merasakannya.
 
-Sinyal lebih awal muncul malam sebelumnya. Undang-Undang tentang Pemilihan dan Penarikan Kembali Pejabat Publik menetapkan bahwa selama periode kampanye, kegiatan kampanye terbuka tidak boleh dilakukan setelah pukul 22.00 setiap hari, dan dilarang sepenuhnya pada hari pemungutan suara[^3]. Beberapa jam sebelum pukul 22.00 malam terakhir sebelum pemilihan adalah waktu perjuangan terakhir kandidat, katanya, bagaimana orang-orang di jalan merespons Anda, pada saat itu Anda bisa merasakannya.
+Angka akhirnya adalah: calon terpilih 1.339 suara, dia 732 suara, calon lain yang direkomendasikan partai 532 suara, tingkat partisipasi 63,3%[^4].
 
-Angka akhirnya adalah: pemenang 1.339 suara, dia 732 suara, calon lain yang direkomendasikan partai 532 suara, tingkat partisipasi 63,3%[^4].
+## Membayar Sendiri NT$3.275 dari Kantong Sendiri
 
-## Sebuah Buku Laporan yang Rugi Rp 32.750
+Alasannya mencalonkan diri sangat langsung: ia punya visi berbeda untuk daerahnya, menyampaikannya tidak berbuah, jadi ia turun langsung mencoba berkompetisi.
 
-Alasan dia mencalonkan diri sangat langsung: dia memiliki visi berbeda untuk daerah, protes tidak efektif, jadi dia turun sendiri untuk mencoba.
+Masih ada beberapa lapis rasa ingin tahu di bawahnya. Ia ingin tahu apa sebenarnya yang dilakukan seorang kepala desa. Ia juga pernah mendengar opini: operasi satuan tempur Tiongkok terhadap Taiwan menjadikan kuil dan kepala desa sebagai sasaran kerja di tingkat akar rumput. Ia ingin pergi sendiri melihatnya. Nanti tim peneliti Gu Ming-jun, Wakil Dekan Institut Sosiologi Universitas Tsinghua, berdasarkan laporan resmi Tiongkok yang menggambarkan jaringan satuan tempur, memang memasukkan kuil, persatuan petani/nelayan, dan kepala desa ke dalam daftar sasaran utama[^13]. Ia juga ingin berwirausaha di komunitas, mengira kalau kepala desa itu profesi, ia bisa sambil melakukan hal yang disukai sambil punya penghasilan.
 
-Ada beberapa lapisan keingintahuan di bawahnya. Dia ingin tahu apa yang sebenarnya dilakukan oleh seorang kepala desa. Dia juga pernah mendengar satu pendapat: Tiongkok melakukan pekerjaan penyatuan terhadap Taiwan dengan menargetkan kuil dan kepala desa/dusun sebagai objek kerja tingkat akar rumput. Dia ingin melihatnya sendiri. Kemudian tim penelitian Profesor Asosiasi Gu Ming-jun dari Sekolah Sosiologi Universitas Tsing Hua, berdasarkan jaringan penyatuan yang digambar dari laporan resmi Tiongkok, memang menempatkan kuil, asosiasi pertanian-perikanan, dan kepala desa/dusun dalam daftar target utama[^13]. Dia juga ingin memulai usaha di komunitas, berpikir bahwa jika kepala desa adalah sebuah profesi, dia bisa melakukan hal yang dia sukai sambil memiliki pendapatan.
+Desain hukum tidak selaras dengan bayangannya. Pasal 61 Undang-Undang Sistem Daerah menetapkan kepala desa adalah **jabatan tanpa gaji**, yang dianggarapkan kantor desa adalah "biaya bantuan urusan"[^5], pada 2022 diubah dari NT$45.000 per bulan menjadi NT$50.000, berlaku 25 Desember 2022, Kementerian Dalam Negeri pada Juli 2026 mengumumkan kenaikan lagi menjadi NT$54.000 (daerah suku asli NT$64.800)[^6]. Uang ini dipakai untuk keperluan kantor kepala desa, secara hukum tidak dihitung sebagai gaji.
 
-Desain hukum tidak sesuai dengan imajinasinya. Pasal 61 Undang-Undang tentang Sistem Pemerintahan Lokal menyatakan dengan jelas bahwa kepala desa/dusun adalah **posisi tanpa gaji**, yang dianggarkan oleh kantor pemerintah adalah "biaya bantuan operasional"[^5], pada tahun 2022 sebesar Rp 450.000 per bulan, diubah menjadi Rp 500.000 per bulan pada tahun 2024[^6]. Uang ini digunakan untuk mendukung operasional kantor desa/dusun, dan secara hukum tidak dianggap sebagai gaji.
+Ia membuka rekening khusus, menerima sepuluh donasi perorangan. Pemberi donasi ada sepupu perempuan dan suaminya yang tinggal di kabupaten/kota lain, teman kuliah dan SMA, serta dua tiga warga desa. Warga-warga ini dulu pernah menantang kepala desa Amtsinhaber, menganggap pemuda ini sebagai penerus tongkat estafet, berapapun peluang menangnya, mereka ingin menyatakan dukungan. Ditambah NT$6.000 donasi anonim, total penerimaan NT$46.977[^1].
 
-Dia membuka rekening khusus dan menerima sepuluh sumbangan pribadi. Penyumbang termasuk kakak perempuan dan kakak ipar yang tinggal di luar kabupaten, teman kuliah dan sekolah menengah, dan juga dua atau tiga penduduk desa. Penduduk desa ini sebelumnya pernah menantang kepala desa/dusun incumbent, menganggap pemuda ini sebagai penerus, dan ingin menunjukkan dukungan mereka terlepas dari peluang menang. Ditambah sumbangan anonim Rp 60.000, total pendapatan Rp 469.770[^1].
+Di dalam NT$50.252 pengeluaran yang dilaporkan, biaya kampanye memakan NT$49.252, sisanya NT$1.000 untuk bensin[^1]. Pos terbesar di buku kas adalah NT$17.000 untuk mikrofon perekam dan antarmuka audio, diikuti NT$10.763 balon ransel, lalu papan papan, megaphone nirkabel genggaman, dan foto profil. Masih ada NT$2.820 untuk saringan cetak sutra, ia pakai saringan itu sendiri mencetak kaos kampanye.
 
-Dari pengeluaran Rp 502.520 yang dilaporkan, biaya promosi mencapai Rp 492.520, sisanya Rp 10.000 untuk bahan bakar[^1]. Item terbesar dalam laporan adalah Rp 170.000 untuk mikrofon rekaman dan antarmuka rekaman, diikuti Rp 107.630 untuk balon tas punggung, kemudian papan nama, pengeras suara genggam nirkabel, dan foto profil. Ada juga Rp 28.200 untuk pencetakan layar sutra, yang dia gunakan untuk mencetak sendiri kaos kampanye.
+Pendaftaran calon kepala desa 2022 wajib setor uang jaminan NT$50.000, suara tidak mencapai sepersepuluh total pemilih maka disita[^3]. Pemilih Desa Taifeng 4.195 orang, ambang batas kira-kira 420 suara. Ia mendapat 732 suara, uang jaminan dikembalikan. Pemilu ini di atas kertas, uang yang ia keluarkan sendiri adalah NT$3.275.
 
-Pada tahun 2022, pendaftaran kepala desa/dusun memerlukan jaminan Rp 500.000, dan jika suara kurang dari 10% dari total pemilih, jaminan akan disita[^3]. Desa Taifeng memiliki 4.195 pemilih, ambang batas sekitar 420 suara. Dia menerima 732 suara, jaminan dikembalikan. Dalam laporan keuangan pemilihan ini, uang yang dia keluarkan sendiri adalah Rp 32.750.
+## 13.988 Calon, Hanya 309 Buku Rekening
 
-## 13.988 Calon, Hanya 309 Buku Laporan
+Buku rekennya dapat dilacak, karena ia membuka rekening khusus.
 
-Buku laporan dia bisa ditemukan karena dia membuka rekening khusus.
+Pasal 10 《Undang-Undang Dana Politik》 mengatur, calon harus terlebih dahulu membuka rekening khusus di institusi keuangan dan mendapat izin Lembaga Pengawasan, baru dapat menerima dana politik[^2]. Sebaliknya, jika seorang calon mengeluarkan semua biaya dari saku sendiri, tidak menerima uang dari siapapun, ia tidak perlu membuka rekening, dan tidak akan ada buku rekening.
 
-Pasal 10 Undang-Undang tentang Keuangan Politik menetapkan bahwa calon yang akan mencalonkan diri harus terlebih dahulu membuka rekening khusus di lembaga keuangan dan mendapat izin dari Komisi Pengawas untuk menerima keuangan politik[^2]. Sebaliknya, jika seorang kandidat mengeluarkan semua biaya sendiri dan tidak menerima uang dari siapa pun, dia tidak perlu membuka rekening dan tidak akan memiliki buku laporan.
+Pada tahun 2022, di seluruh Taiwan terdapat 7.731 desa/kelurahan dan 13.988 calon[^4], namun hanya 309 orang yang meninggalkan buku rekening pemilu di Platform Publikasi Dana Politik Terbuka Lembaga Pengawasan, sekitar 2,2%[^1]. Sisanya 97,8% berapa uang yang dikeluarkan dan untuk apa, tidak terlihat di data publik.
 
-Dari 7.731 desa/dusun dan 13.988 calon se-Taiwan pada tahun 2022[^4], hanya 309 orang yang meninggalkan buku laporan pemilihan di platform pencarian publik Komisi Pengawas untuk Keuangan Politik, sekitar 2,2%[^1]. 97,8% sisanya, berapa banyak uang yang mereka keluarkan dan untuk apa, tidak terlihat dalam data publik.
+Tahun itu juga ada 3.058 desa/kelurahan yang hanya memiliki satu calon terdaftar, mencapai empat puluh persen dari seluruh desa/kelurahan[^4].
 
-Tahun itu juga ada 3.058 desa/dusun yang hanya memiliki satu calon terdaftar, mewakili 40% dari semua desa/dusun[^4].
+Di antara 309 buku rekening ini, 10 di antaranya berasal dari satu program masyarakat sipil yang sama. Perusahaan sosial \"Jitsugen Kaisha\" pada Oktober 2021 meluncurkan \"Akademi Kepala Desa Independen\", menulis sebuah buku panduan lengkap kepala desa, mengadakan 6 bengkel di seluruh Taiwan, mendorong lebih dari 30 orang untuk mencalonkan diri, dan membantu 10 di antar mereka mengumpulkan dana politik[^8][^9]. Warga muda dari Desa Taifeng, adalah perwakilan Changhua di antara 10 orang tersebut.
 
-Di antara 309 buku laporan ini, 10 buku berasal dari satu program masyarakat sipil yang sama. Perusahaan sosial "Realisasi Asosiasi" meluncurkan "Akademi Kepala Desa/Dusun Independen" pada Oktober 2021, menulis panduan penggunaan lengkap kepala desa/dusun, menyelenggarakan 6 lokakarya di seluruh Taiwan, mendorong lebih dari 30 orang untuk mencalonkan diri, dan membantu 10 orang di antaranya mengumpulkan keuangan politik[^8][^9]. Pemuda di Desa Taifeng ini adalah perwakilan Changhua dari 10 orang tersebut.
+> 📝 **Catatan Kurator**: Sistem publikasi dana politik dirancang di sekitar \"menerima uang\". Ia memungkinkan pemilih melihat calon berhutang budi kepada siapa, namun seorang calon yang sepenuhnya mengandalkan dana sendiri, dalam sistem ini tidak meninggalkan catatan apa pun. Akibatnya, yang paling bersedia membuka bukunya, justru sering kali adalah orang yang paling tidak memiliki sumber daya, harus meminta kepada kerabat dan teman, yaitu pemula.
 
-> 📝 **Catatan Kurator:** Sistem pengungkapan keuangan politik dirancang di sekitar "menerima uang". Ini memungkinkan pemilih melihat siapa yang menjadi utang budi oleh kandidat, tetapi seorang kandidat yang sepenuhnya mengeluarkan uang sendiri tidak meninggalkan catatan apa pun dalam sistem ini. Hasilnya, mereka yang paling bersedia membuka buku laporan mereka sering kali adalah amatir yang paling kekurangan sumber daya dan harus meminta bantuan dari keluarga dan teman.
+## Ke Mana Uang Itu Pergi
 
-## Uang Pergi Ke Mana
+Rincian pengeluaran 309 buku rekening diklasifikasikan ulang berdasarkan tujuan[^10], total sekitar NT$28,46 juta, empat teratasnya adalah: makan-minum tamu 20,5%, pencetakan materi kampanye 16,5%, kantor dan tempat kegiatan 15,9%, papan reklame, spanduk, dan bendera 15,0%. Hadiah 11,8%, biaya personel 5,7%.
 
-Dengan mengklasifikasi ulang rincian pengeluaran dari 309 buku laporan berdasarkan tujuan[^10], total sekitar Rp 284,6 juta, empat teratas adalah: hiburan dan makanan 20,5%, pencetakan materi promosi 16,5%, kantor dan lokasi acara 15,9%, papan nama dan bendera 15,0%. Hadiah mencapai 11,8%, biaya personel 5,7%.
+Pengeluaran digital seperti video, iklan Facebook, foto profil hanya 1,2%, dari 309 orang hanya 21 orang yang mengeluarkan biaya ini.
 
-Pengeluaran digital seperti video, iklan Facebook, dan foto profil hanya mencapai 1,2%, hanya 21 dari 309 orang yang mengeluarkan uang untuk ini.
+Perbedaan angka per orang sangat besar. Median penggalangan dana NT$45.314, median pengeluaran NT$54.500, dari 309 orang ada 237 orang (77%) pengeluaran lebih besar dari pemasukan, kekurangannya harus ditanggung sendiri[^1]. Rata-rata, median biaya per suara yang diperoleh adalah NT$62.
 
-Angka setiap orang sangat berbeda. Median pendapatan adalah Rp 453.140, median pengeluaran adalah Rp 545.000, dari 309 orang ada 237 orang (77%) yang pengeluarannya lebih besar dari pendapatan, dan mereka harus menutup selisihnya sendiri[^1]. Rata-rata, untuk setiap suara yang diterima, biaya median adalah Rp 620.
+Di tingkat kepala desa, pengeluaran sebuah kampanye tetap berupa meja-meja makan dan bendera-bendera.
 
-Di tingkat kepala desa/dusun, biaya satu kampanye pemilihan masih berupa satu meja demi satu meja makanan, satu bendera demi satu bendera.
+## Baik banyak maupun sedikit uang yang dikeluarkan, tingkat kemenangan tetap tiga puluh persen
 
-## Mengeluarkan Banyak atau Sedikit, Tingkat Kemenangan Sama-Sama 30 Persen
+Bagian paling menarik dari data ini muncul saat kita menempatkan buku rekening dan hasil pemungutan suara berdampingan[^4].
 
-Tempat paling menarik dari data ini muncul ketika membandingkan buku laporan dengan hasil pemungutan suara[^4].
+Lihat keseluruhannya terlebih dahulu: median pengeluaran pemenang NT$82.765, pecundang NT$45.787. Sepintas terlihat seperti mengeluarkan lebih banyak uang membuat menang lebih mudah.
 
-Pertama lihat keseluruhan: median pengeluaran pemenang Rp 827.650, yang kalah Rp 457.870. Sekilas terlihat seperti semakin banyak uang yang dikeluarkan semakin mudah menang.
+Saat memisahkan pejabat Amtsinhaber dan penantang, gambarannya berubah. Dari 73 orang yang sudah menjadi ketua lingkungan sejak 2018, 61 orang berhasil dipilih kembali pada 2022, tingkat kemenangan 84%, median pengeluaran NT$106.842. 229 penantang tanpa status Amtsinhaber hanya memiliki tingkat kemenangan 27%.
 
-Ketika dipisahkan antara incumbent dan penantang, gambarannya berubah. 73 orang yang sudah menjadi kepala desa/dusun sejak 2018, pada tahun 2022 ada 61 orang yang berhasil terpilih kembali, tingkat kemenangan 84%, median pengeluaran Rp 1.068.420. 229 penantang tanpa status incumbent hanya memiliki tingkat kemenangan 27%.
+Kemudian 229 penantang ini dibagi menjadi empat kuartil berdasarkan tinggi rendahnya pengeluaran:
 
-Kemudian bagi 229 penantang ini berdasarkan pengeluaran dari terendah hingga tertinggi menjadi empat bagian yang sama:
+| Rentang Pengeluaran (NT$) | Terpilih / Jumlah | Tingkat Kemenangan |
+| :------------------------ | :---------------- | :----------------- |
+| 1.233 – 32.000            | 13 / 46           | 28%                |
+| 32.349 – 63.000           | 14 / 47           | 30%                |
+| 64.444 – 122.665          | 13 / 47           | 28%                |
+| 123.600 – 869.890         | 14 / 47           | 30%                |
 
-| Rentang Pengeluaran (Rp) | Menang / Jumlah | Tingkat Kemenangan |
-| :----------------------- | :-------------- | :----------------- |
-| 12.330 – 320.000         | 13 / 46         | 28%                |
-| 323.490 – 630.000        | 14 / 47         | 30%                |
-| 644.440 – 1.226.650      | 13 / 47         | 28%                |
-| 1.236.000 – 8.698.900    | 14 / 47         | 30%                |
+Orang yang mengeluarkan sedikit lebih dari seribu dan orang yang mengeluarkan delapan ratusan ribu diletakkan dalam tabel yang sama, tingkat kemenangan mereka berada dalam rentang yang sama. Kesan "pemenang mengeluarkan lebih banyak" dalam angka keseluruhan, terutama berasal dari ketua lingkungan Amtsinhaber: mereka memang lebih mudah menang, dan juga lebih bersedia mengeluarkan uang.
 
-Orang yang mengeluarkan puluhan ribu rupiah dan orang yang mengeluarkan delapan ratus ribu rupiah, ketika diletakkan di tabel yang sama, tingkat kemenangan mereka jatuh dalam rentang yang sama. Kesan "pemenang mengeluarkan lebih banyak" dalam angka keseluruhan terutama berasal dari kepala desa/dusun incumbent: mereka memang lebih mudah menang, dan juga lebih rela mengeluarkan uang.
+Di antara 21 kandidat yang memiliki pengeluaran digital, 11 orang terpilih. Sampel terlalu kecil, dan bercampur antara Amtsinhaber dan penantang, angka ini tidak dapat menjelaskan sebab-akibat.
 
-Di antara 21 kandidat dengan pengeluaran digital, 11 orang menang. Sampel terlalu kecil, dan juga mencampur incumbent dengan penantang, angka ini tidak bisa menjelaskan hubungan sebab-akibat.
+> 📝 **Catatan Kurator**: Kalimat "pemilihan hanyalah membandingkan uang", pada tingkat ketua lingkungan perlu diubah cara pertanyaannya. Uang lebih seperti termometer, mengukur seberapa lama seorang kandidat telah mengelola kegiatan di lingkungan dan berapa banyak orang yang bersedia mengeluarkan uang untuknya, namun sulit langsung mengubah seorang penantang menjadi ketua lingkungan. Dalam pemilihan desa/lingkungan dengan masa jabatan empat tahun dan empat puluh persen kandidat tunggal, yang benar-benar langka adalah waktu.
 
-> 📝 **Catatan Kurator:** Pernyataan "pemilihan adalah tentang uang" perlu diajukan ulang di tingkat kepala desa/dusun. Uang lebih seperti termometer, mengukur berapa lama seorang kandidat telah membangun jaringan di desa/dusun dan berapa banyak orang yang bersedia mengeluarkan uang untuk dia, tetapi sulit untuk langsung mengubah seorang penantang menjadi kepala desa/dusun. Dalam pemilihan desa/dusun yang diadakan setiap empat tahun dengan 40% kompetisi satu calon, yang benar-benar langka adalah waktu.
+## 97,8% yang Tak Terlihat
 
-## Yang Tidak Terlihat: 97,8% Sisanya
+Analisis ini memiliki keterbatasan yang tak terelakkan: 309 orang adalah minoritas yang memilih membuka rekening sendiri.
 
-Analisis ini memiliki satu keterbatasan yang tidak dapat dihindari: 309 orang adalah minoritas yang memilih membuka rekening sendiri.
+Orang yang bersedia membuka rekening, mungkin memang lebih mengutamakan transparansi, bisa jadi karena ada bantuan terencana, atau benar-benar perlu menggalang dana dari orang lain. 13.679 kandidat tanpa buku rekening itu, pengeluaran mereka mungkin lebih tinggi, mungkin lebih rendah. Oleh karena itu, kesimpulan di atas hanya berlaku "di antara orang yang meninggalkan buku rekening", tidak dapat digeneralisasikan ke seluruh kandidat.
 
-Orang-orang yang bersedia membuka rekening mungkin memang lebih peduli dengan transparansi, atau mungkin karena ada program yang membantu, atau memang perlu mengumpulkan dana dari orang lain. 13.679 kandidat tanpa buku laporan mungkin mengeluarkan biaya lebih tinggi, atau mungkin lebih rendah. Jadi kesimpulan di atas hanya bisa dikatakan "berlaku di antara orang-orang yang meninggalkan buku laporan", tidak bisa diterapkan ke semua kandidat.
+Keterbatasan lain ada pada hukum itu sendiri. 《Undang-Undang Dana Politik》 menempatkan situasi kandidat meminjam uang dari dirinya sendiri atau keluarganya di posisi yang relatif ambigu, artikel [Transparansi Dana Politik](/id/politics/political-donation-transparency/) Taiwan.md sudah merangkum celah ini. "Uang sendiri yang dibayarkan" yang tercatat di buku rekening, tidak tentu mencerminkan total biaya sebuah pemilu.
 
-Keterbatasan lain terletak pada hukum itu sendiri. Undang-Undang tentang Keuangan Politik menempatkan situasi di mana kandidat meminjam uang dari diri sendiri atau keluarga dalam posisi yang relatif kabur, dan artikel Taiwan.md tentang [transparansi keuangan politik](/id/politics/political-donation-transparency/) telah merangkum celah ini. "Uang yang dikeluarkan sendiri" di buku laporan tidak harus mencerminkan biaya penuh dari satu pemilihan.
+Sistem juga dalam penyesuaian. Juli 2026, Komisi Pemilihan Pusat menurunkan jaminan kandidat kepala desa dari NT$50.000 menjadi NT$30.000[^7]. Bagi seorang kandidat dengan pengeluaran median lebih dari NT$50.000, ini membuat ambang awal kandidatur berkurang NT$20.000.
 
-Sistem juga sedang disesuaikan. Juli 2026, Komisi Pemilihan Pusat menurunkan jaminan kandidat kepala desa/dusun dari Rp 500.000 menjadi Rp 300.000[^7]. Bagi seorang kandidat dengan median pengeluaran lebih dari Rp 500.000, ini mengurangi ambang batas awal untuk mencalonkan diri sebesar Rp 200.000.
+## 2026, Buku Rekening Berikutnya
 
-## 2026, Batch Buku Laporan Berikutnya
+Dari 10 calon Akademi Kepala Desa/Lurah Independen itu, akhirnya 4 orang terpilih, di antaranya satu orang sudah menjabat sebagai kepala desa/lurah yang sedang menjabat dan juga salah satu pendiri Akademi. Berdasarkan tabel rekapitulasi pendaftaran Komisi Pemilihan Pusat September 2026, dari 10 orang itu ada 3 orang yang mendaftar kembali sebagai calon, di antaranya dua orang adalah pemenang 2022[^11].
 
-10 kandidat dari Akademi Kepala Desa/Dusun Independen tahun itu, pada akhirnya 4 orang menang, salah satunya sudah menjadi kepala desa/dusun incumbent dan juga salah satu pendiri akademi. Menurut tabel ringkasan pendaftaran Komisi Pemilihan Pusat September 2026, dari 10 orang ini ada 3 orang yang mendaftar lagi untuk mencalonkan diri, di antaranya dua adalah pemenang 2022[^11].
+Orang muda dari Desa Taifeng tidak terdaftar dalam daftar tersebut.
 
-Pemuda di Desa Taifeng tidak ada dalam daftar.
-
-Calon kepala desa/dusun 2026 dapat mulai menerima keuangan politik mulai 20 Agustus[^12]. Menurut hukum, kandidat harus melaporkan dalam tiga bulan setelah hari pemungutan suara, dan Komisi Pengawas akan mengumumkan dalam enam bulan setelah batas waktu[^2]. Setelah pemungutan suara pada 28 November, batch berikutnya dari buku laporan kepala desa/dusun akan muncul di platform paling lambat akhir Agustus 2027. Pada saat itu kita bisa menghitung lagi: apakah tingkat kemenangan orang yang mengeluarkan Rp 300.000 dan Rp 1,2 juta masih sama.
+Calon kepala desa/lurah 2026 dapat mulai menerima dana politik sejak 20 Agustus[^12]. Menurut undang-undang, calon harus melaporkan dalam tiga bulan setelah hari pemungutan suara, dan Lembaga Pengawasan mempublikasikan dalam enam bulan setelah batas waktu[^2]. Setelah pemungutan suara 28 November, buku rekening kepala desa/lurah batch berikutnya paling lambat akan muncul di platform sebelum akhir Agustus 2027. Saat itu bisa dihitung lagi: apakah tingkat kemenangan orang yang mengeluarkan NT$30.000 dan NT$120.000 masih sama.
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Sistem Kepala Desa/Dusun](/id/politics/village-chief-system) — 7.748 pemimpin terpilih, bagaimana unit politik tingkat paling dasar Taiwan beroperasi
-- [Transparansi Keuangan Politik](/id/politics/political-donation-transparency) — Desain sistem pelaporan dan celah "meminjam dari diri sendiri"
-- [Pemilihan Sembilan Serentak 2026](/id/politics/2026-local-elections-taiwan) — Batch buku laporan berikutnya akan dihasilkan dari pemilihan ini
+- [Sistem Kepala Desa/Lurah](/id/politics/village-chief-system) — 7.748 kepala daerah terpilih, bagaimana unit politik paling dasar Taiwan beroperasi
+- [Transparansi Dana Politik](/id/politics/political-donation-transparency) — Desain sistem pelaporan dan lubang "memimpin dana ke diri sendiri"
+- [Pemilihan Serentak 2026](/id/politics/2026-local-elections-taiwan) — Buku rekening batch berikutnya akan dihasilkan dari pemilihan ini
 
 ## Referensi
 
-[^1]: [Platform Pencarian Publik Keuangan Politik Komisi Pengawas](https://ardata.cy.gov.tw/) — Buku Laporan Akuntansi Calon Kepala Desa/Dusun Pemilihan Tahun 111. Statistik artikel ini menggunakan 309 versi perbaikan terbaru dari pengajuan pertama yang diunduh melalui API platform, tidak termasuk laporan surplus.
+[^1]: [Platform Publikasi Dana Politik Terbuka Lembaga Pengawasan](https://ardata.cy.gov.tw/) — Laporan akuntansi calon kandidat pemilihan Kepala Desa/Lurah tahun 111 (2022). Statistik dalam artikel ini menggunakan 309 laporan pertama versi koreksi terbaru yang diunduh melalui API platform, tidak termasuk laporan sisa.
 
-[^2]: [Undang-Undang tentang Keuangan Politik](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Basis Data Peraturan Nasional, Pasal 10 (Rekening Khusus), Pasal 12 (Periode Penerimaan), Pasal 21 (Pelaporan dan Pengungkapan).
+[^2]: [Undang-Undang Dana Politik](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Basis Data Regulasi Nasional, Pasal 10 (rekening khusus), Pasal 12 (periode penerimaan), Pasal 21 (pelaporan dan publikasi).
 
-[^3]: [Undang-Undang tentang Pemilihan dan Penarikan Kembali Pejabat Publik](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Basis Data Peraturan Nasional, Pasal 32 (Jaminan dan Ambang Batas Pengembalian), Pasal 56 (Batasan Waktu Kegiatan Kampanye Harian).
+[^3]: [Undang-Undang Pemilihan dan Penarikan Pejabat Publik](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Basis Data Regulasi Nasional, Pasal 32 (jaminan dan ambang pengembalian), Pasal 56 (batas waktu kegiatan kampanye harian).
 
-[^4]: [Basis Data Komisi Pemilihan Pusat](https://db.cec.gov.tw/) — Hasil Pemungutan Suara Pemilihan Kepala Desa/Dusun 2022 untuk Setiap Desa/Dusun. Jumlah kandidat, jumlah desa/dusun kompetisi satu calon, dan tingkat kemenangan penantang adalah hasil penjumlahan penulis berdasarkan hasil pemungutan suara desa/dusun dan perbandingan dengan 309 buku laporan (302 orang berhasil dibandingkan).
+[^4]: [Basis Data Pemilihan Komisi Pemilihan Pusat](https://db.cec.gov.tw/) — Hasil penghitungan suara pemilihan Kepala Desa/Lurah 2022 per desa/lurah. Jumlah kandidat, jumlah desa dengan kandidat tunggal, dan tingkat kemenangan penantang, dihitung penulis berdasarkan hasil penghitungan per desa dan dibandingkan dengan 309 buku akun (302 orang berhasil dibandingkan).
 
-[^5]: [Undang-Undang tentang Sistem Pemerintahan Lokal](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Basis Data Peraturan Nasional, Pasal 61: Kepala Desa/Dusun adalah posisi tanpa gaji.
+[^5]: [Undang-Undang Sistem Daerah](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Basis Data Regulasi Nasional, Pasal 61: Kepala Desa/Lurah adalah jabatan tanpa gaji.
 
-[^6]: [Peraturan tentang Pemberian Biaya Pejabat Opini Lokal dan Subsidi Biaya Operasional Kepala Desa/Dusun](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Basis Data Peraturan Nasional, Pasal 7, saat ini Rp 500.000 per bulan (diubah Juni 2024).
+[^6]: [Peraturan Subsidi Biaya Perwakilan Rakyat Daerah dan Biaya Urusan Kepala Desa/Lurah](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Basis Data Regulasi Nasional, Pasal 7 ayat utama: NT$50.000 per bulan, wilayah suku asli tambah 20%, dan mengatur penyesuaian tunjangan secara proporsional saat penyesuaian umum, diumumkan tanggal efektif oleh Kementerian Dalam Negeri; angka NT$50.000 berasal dari versi revisi 4 Mei 2022 (tahun 111), berlaku 25 Desember 2022; NT$54.000 mulai Juli 2026 adalah penyesuaian Kementerian Dalam Negeri berdasarkan pasal ini.
 
-[^7]: [Komisi Pemilihan Pusat Menurunkan Jaminan Calon Walikota/Bupati, Kepala Desa/Dusun Minimal Menjadi Rp 300.000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Berita Agensi Sentral, 22-07-2026.
+[^7]: [Komisi Pemilihan Pusat Turunkan Jaminan Kandidat Walikota/Kepala Desa, Minimum NT$30.000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Agensi Berita Pusat (CNA), 22 Juli 2026.
 
-[^8]: [Apakah "Gelombang Partisipasi Akar Rumput Generasi Gerakan 318" Surut? Kesulitan dan Terobosan Kepala Desa/Dusun Muda](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — Reporter Taiwan, Kong De-lian, 05-09-2022.
+[^8]: [「Gelombang Kandidat Generasi Gerakan Mahasiswa 318」 Surut? Dilema dan Jalan Keluar Kepala Desa Muda](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Kong De-lian, 5 September 2022.
 
-[^9]: [【Pertama Kali Mencalonkan Diri Kepala Desa/Dusun, Langsung Mahir】Lokakarya Satu Hari](https://captain-village.a-sociate.tw/2022-workshop/) — Realisasi Asosiasi・Akademi Kepala Desa/Dusun Independen.
+[^9]: [【Berkampanye Pemilihan Kepala Desa Pertama Kali】 Bengkel Sehari](https://captain-village.a-sociate.tw/2022-workshop/) — Akademi Kepala Desa/Lurah Independen - Realisasi Masyarakat.
 
-[^10]: Metode klasifikasi: Berdasarkan kolom "Tujuan Pengeluaran" dan "Objek Pengeluaran" dari buku laporan akuntansi, rincian diklasifikasikan menjadi delapan kategori: makanan, promosi, papan nama, hadiah, lokasi, personel, video digital, dan lainnya. Kategori digital hanya menghitung tujuan yang secara eksplisit menyebutkan video, iklan, fotografi, atau objek pengeluaran adalah Meta, Google, atau perusahaan pemasaran digital. Klasifikasi ini adalah definisi penulis sendiri, berbeda dari kategori yang ditentukan oleh hukum dalam Pasal 20 Undang-Undang tentang Keuangan Politik.
+[^10]: Metode klasifikasi: berdasarkan kolom 'Tujuan Pengeluaran' dan 'Objek Pengeluaran' laporan akuntansi, rincian diklasifikasikan ke delapan kategori: makanan minum, propaganda, papan iklan, hadiah, venue, personel, digital audio visual, dan lain-lain. Kategori digital hanya mencakup yang tercantum jelas di kolom tujuan sebagai video, iklan, fotografi, atau objek pengeluaran berupa Meta, Google, perusahaan pemasaran digital. Klasifikasi ini ditetapkan penulis, berbeda dengan subjek hukum Pasal 20 Undang-Undang Dana Politik.
 
-[^11]: [Tabel Ringkasan Pendaftaran Pemilihan Pejabat Lokal Tahun 115 Komisi Pemilihan Pusat](https://web.cec.gov.tw/central/article/64709) — Daftar Pendaftaran Kepala Desa/Dusun, Tanggal Pembuatan Tabel 7 September Tahun 115, Total 14.039 Catatan.
+[^11]: [Komisi Pemilihan Pusat Tabel Rekapitulasi Pendaftaran Kandidat Pemilihan Pejabat Publik Daerah Tahun 115](https://web.cec.gov.tw/central/article/64709) — Daftar pendaftaran Kepala Desa/Lurah, tanggal pembuatan tabel 7 September 2026 (tahun 115), total 14.039 entri.
 
-[^12]: [Pemilihan Lokal Tahun 115 Akan Segera Tiba! Kementerian Dalam Negeri Mengungkapkan "4 Trik" Keuangan Politik](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Kementerian Dalam Negeri, Periode Penerimaan Keuangan Politik Calon Pemilihan Lokal Tahun 2026 dan Pengingat Pelaporan.
+[^12]: [Pemilihan Daerah Tahun 115 Akan Datang! Kementerian Dalam Negeri Ungkap '4 Tips' Dana Politik](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Kementerian Dalam Negeri, pengingat periode penerimaan dan pelaporan dana politik calon kandidat pemilihan daerah 2026.
 
-[^13]: [Profesor Tsing Hua Gu Ming-jun Mengungkapkan Jaringan Penyatuan Tiongkok terhadap Taiwan yang Luas: Mencakup Kuil, Pedagang Kaki Lima, Asosiasi Pertanian-Perikanan, Kepala Desa/Dusun, Sekolah, Media, Komunitas Adat](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Watchout, Zhu Nai-ying, 22-01-2024.
+[^13]: [Ahli Universitas Tsinghua Gu Ming-jun Ungkap Jaringan Satuan Tempur Tiongkok Komunis ke Taiwan: Mencakup Kuil, Pedagang Kaki Lima, Persatuan Pertanian/Perikanan, Kepala Desa/Lurah, Sekolah, Media, Suku](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Watchout, Zhu Nai-ying, 22 Januari 2024.
