@@ -37,9 +37,9 @@ sporeLinks:
     date: '2026-05-25'
     url: 'https://x.com/taiwandotmd/status/2058735515021783190'
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:575572d1dd581d19'
-sourceBodyHash: 'sha256:d37164a7592bd08a'
+sourceCommitSha: '1ec0df23'
+sourceContentHash: 'sha256:8647f4437b5dfe36'
+sourceBodyHash: 'sha256:d7402441fbb7f358'
 translatedAt: '2026-08-09T10:41:15+08:00'
 ---
 
