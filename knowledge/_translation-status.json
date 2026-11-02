@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T07:48:53+08:00",
-    "zhCommitHead": "6b1b682a0",
+    "lastUpdated": "2026-11-02T08:33:20+08:00",
+    "zhCommitHead": "16f3194a1",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1157,
-        "fresh": 1094,
-        "stale": 34,
+        "fresh": 1095,
+        "stale": 33,
         "metadata_stale": 27,
         "missing": 2,
         "orphan": 0
@@ -78704,8 +78704,8 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T22:15:16.098015+00:00",
-          "translationLastCommit": "1ac74a99",
-          "translationLastModified": "2026-09-26T21:47:25+08:00",
+          "translationLastCommit": "16f3194a",
+          "translationLastModified": "2026-11-02T07:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 91,
           "bytes": 155370,
@@ -78836,20 +78836,18 @@
         "de": {
           "path": "de/Society/taiwan-covid-pandemic-and-vaccines.md",
           "translatedFrom": "Society/台灣新冠疫情與疫苗.md",
-          "sourceCommitSha": "fa44ba5a9",
-          "sourceContentHash": "sha256:daafe72a2d9637c8",
-          "sourceBodyHash": "sha256:40600aa18fa8f8d1",
-          "translatedAt": "2026-09-26T23:27:07+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:8f341a7241775e16",
+          "sourceBodyHash": "sha256:840d9f2932e4646b",
+          "translatedAt": "2026-11-02T00:02:45.449126+00:00",
           "translationLastCommit": "6d7360e7",
           "translationLastModified": "2026-09-27T00:40:56+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 157597,
+          "bytes": 162180,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -13"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
