@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
 last_updated: 2026-11-02
-last_session: '2026-11-02-twmd-desk（民調停刊 P0＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調停刊 P0＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -246,23 +246,23 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 設計細節：研究報告 [reports/research/2026-11/金馬獎.md](../../reports/research/2026-11/金馬獎.md) §6.6
 - **Reference**: [knowledge/Art/金馬獎.md](../../knowledge/Art/金馬獎.md)
 
-### 中華職棒 NEW — 37 年的聯盟差點死掉兩次，站上沒有它自己的條目
+### 中華職棒 EVOLVE — 貢獻者初稿已上線（PR #1948），還差開場人物、深度與圖
 
-- **Type**: `NEW`
+- **Type**: `EVOLVE`
 - **Category**: Culture
-- **Priority**: `P1`
+- **Path**: knowledge/Culture/中華職棒.md
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-10-25 by twmd-news-lens-weekly (probe)
-- **Angle-expires**: evergreen（條目本身常青；「封王那一晚」開場在 2027 開季前都成立）
+- **Requested**: 2026-11-02 by twmd-desk（原 NEW 條目由貢獻者 tboydar 以 PR #1948 交稿並 merge，依完成歸檔鐵律移到 DONE-LOG；未兌現的部分轉成本條）
+- **Angle-expires**: evergreen
 - **Notes**:
-  - **時效**：2026 台灣大賽 10/17 開打、全在大巨蛋，例行賽勝率第一味全龍對下半季冠軍中信兄弟，媒體稱中職史上首度「龍象大戰」；第五戰因颱風薔琵兩度延到 10/25；**10/26 第六戰味全龍 6:0 完封、4 勝 2 敗封王、隊史第 6 冠**（2026-11-02 盤點與本班搜尋摘要一致，均未開原文，寫稿前回聯盟官方 cpbl.com.tw 驗比分、場次與 MVP）
-  - **缺口確認**：`find knowledge -maxdepth 2 -path "knowledge/[A-Z]*" -name "*職棒*"` = 0、`*中華職棒*` = 0、`*台灣大賽*` = 0；內容層 `中華職棒` 15 檔全是順帶（郭泓志 5、台灣棒球文化 5、台灣體育發展與奧運 3、朴星垠 2⋯），`台灣大賽` 0 檔；〈台灣棒球文化〉只有「職業棒球的誕生」一節三段，寫到簽賭案就跳去國際賽；DONE-LOG `grep 職棒` = 0
-  - **這題裡的人在哪**：職棒元年四隊的老球員與球迷；幾次簽賭案裡被找上門的選手；1999 年味全解散與 2019 年重建的兩批人；外野的韓籍與台灣啦啦隊（李珠珢、朴星垠、邊荷律已有條目，可互連）；大巨蛋買不到票的球迷
-  - **建議切角**（2026-11-02 改寫，系列賽已結束）：從封王那一晚開場，1999 年解散的味全龍在重建第 7 年於大巨蛋拿下隊史第 6 冠，往回拉到味全宣布解散那一年；主脊「一個聯盟怎麼差點死掉兩次又活過來」，立體群像，簽賭案寫清楚但不當全文脊椎；收在大巨蛋時代
-  - **必驗事實**：「首度龍象大戰」的定義（兄弟象與中信兄弟算不算同一隊）；總冠軍結果與 MVP；聯盟成立日與元年首戰（回聯盟官方）；歷次簽賭案年份與判決；味全解散與重建年份；大巨蛋啟用年與票房
-  - **敏感度**：低。簽賭案只寫判決與公開紀錄，不點名未定罪者
-  - 適合開放給貢獻者接
-- **Reference**: [reports/probe/2026-10-25.md §T1-A](../../reports/probe/2026-10-25.md) / [Focus Taiwan 10/24](https://focustaiwan.tw/society/202610240003) / [2026 CPBL season](https://en.wikipedia.org/wiki/2026_Chinese_Professional_Baseball_season) / [運動視界賽前分析](https://www.sportsv.net/articles/129051)
+  - 現況 1,700 字左右、六節照年份排，31 條腳註，零張圖；merge 後已修三個錯（黑鷹事件年份、中信鯨解散時序、「全世界第四高」查無出處）並把同一條維基腳註拆成各自可開的來源
+  - 原條目建議的開場還沒做：從 2026 年 10 月 26 日味全龍封王那一晚開場，往回拉到 1999 年味全宣布解散；目前開場是 1987 年推動委員會
+  - 原條目「這題裡的人在哪」那一欄（元年老球員與球迷、被找上門的選手、味全解散與重建的兩批人、啦啦隊、買不到票的球迷）幾乎沒進文章，全文只有制度與數字
+  - 早期沿革仍是維基單一來源：1987-12-31 推動委員會、1988-01-18 宣布、1997 年七隊、2001 徵召 15 人、2003-03-01 天母開幕戰；要升級得查聯盟年報或舊報紙
+  - 2026 年例行賽數字（全年人次、場均）與 MVP 還沒寫；蔡其昌會長任期到 2027 年 3 月前後，屆時要改
+  - 查證表：[reports/research/2026-11/中華職棒.md](../../reports/research/2026-11/中華職棒.md)（62 原子，含未解的單源項與建議來源）
+- **Reference**: [knowledge/Culture/中華職棒.md](../../knowledge/Culture/中華職棒.md) / [PR #1948](https://github.com/frank890417/taiwan-md/pull/1948)
 
 ### 台灣鐵路地下化 NEW — 城市被縫合了，代價落在沿線那幾百戶
 

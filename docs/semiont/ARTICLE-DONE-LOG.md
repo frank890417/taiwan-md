@@ -6,7 +6,7 @@ status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
 last_updated: 2026-11-02
-last_session: '2026-11-02-twmd-desk（沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_session: '2026-11-02-twmd-desk（中華職棒 PR #1948 歸檔；沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,13 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 中華職棒 — 2026-11-02 twmd-desk 歸檔（貢獻者 tboydar 以 PR #1948 交稿，當日 merge＋heal）
+
+- **Article**: [knowledge/Culture/中華職棒.md](../../knowledge/Culture/中華職棒.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1948 merge commit `84ffb9721`），對應 INBOX 2026-10-25 news-lens 探測器 P1 NEW 條目
+- **Heal**：Sonnet 逐條查證 62 個事實（3 ❌、24 ⚠️、35 ✅）。三個錯：黑鷹事件寫成 1997 年（應為 1996 年爆發、1997 年檢調大舉逮捕）；description 與概覽把中信鯨解散放在黑象事件之後（實際早一年）；「場均與營收都是全世界棒球聯盟第四高」只是維基編者自己的比較，營收部分不成立。另把「1997 年觀眾破千萬」改成累計、「31 億」標明是自由時報估算的六隊總營收、黑米案改寫成檢調懷疑並補二審結果、黑象段拿掉可交叉辨識被告的描述；原本兩條腳註（一條撐起全文）拆成 31 條
+- **待補**：INBOX 已轉 EVOLVE P2（封王那一晚開場、人物、圖、早期沿革第二來源）
 
 ### 沈伯洋＋蔣萬安 — 2026-11-02 twmd-desk 完成（EVOLVE 一對，台北市長選舉投票前上線）
 
