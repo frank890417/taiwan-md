@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T01:53:07+08:00",
-    "zhCommitHead": "e18c146d3",
+    "lastUpdated": "2026-11-03T02:38:12+08:00",
+    "zhCommitHead": "7916ff993",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1129,
+        "fresh": 1130,
         "stale": 20,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
       },
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1158,
-        "fresh": 1127,
-        "stale": 23,
+        "fresh": 1128,
+        "stale": 22,
         "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1128,
-        "stale": 19,
+        "fresh": 1129,
+        "stale": 18,
         "metadata_stale": 8,
         "missing": 3,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1115,
-        "stale": 29,
+        "fresh": 1116,
+        "stale": 28,
         "metadata_stale": 11,
         "missing": 3,
         "orphan": 0
@@ -6844,20 +6844,18 @@
         "ko": {
           "path": "ko/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-20T10:47:45.754803+00:00",
+          "translatedAt": "2026-11-02T18:17:34.972993+00:00",
           "translationLastCommit": "3c20aad3",
           "translationLastModified": "2026-09-22T00:49:37+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 50366,
+          "bytes": 50690,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/pop-music-and-golden-melody-awards.md",
@@ -60510,18 +60508,18 @@
         "de": {
           "path": "de/Society/taiwan-nuclear-debate.md",
           "translatedFrom": "Society/台灣與核能的討論.md",
-          "sourceCommitSha": "95c3b1afd",
-          "sourceContentHash": "sha256:828aff612a05168f",
-          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
-          "translatedAt": "2026-09-22T00:42:03.453317+00:00",
+          "sourceCommitSha": "94c187560",
+          "sourceContentHash": "sha256:36a6756b7629a9b0",
+          "sourceBodyHash": "sha256:5b971b7718b762d0",
+          "translatedAt": "2026-11-02T17:53:31.799104+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
-          "footnoteDefs": 52,
-          "bytes": 67940,
+          "footnoteDefs": 71,
+          "bytes": 103613,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (71→52)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -189212,8 +189210,8 @@
           "sourceContentHash": "sha256:32042f77cac1568f",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
           "translatedAt": "2026-11-02T05:45:45+08:00",
-          "translationLastCommit": "b260767f",
-          "translationLastModified": "2026-09-12T14:13:49+08:00",
+          "translationLastCommit": "7916ff99",
+          "translationLastModified": "2026-11-03T01:53:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 38674,
@@ -233340,38 +233338,34 @@
         "vi": {
           "path": "vi/Culture/golden-bell-awards.md",
           "translatedFrom": "Culture/金鐘獎.md",
-          "sourceCommitSha": "ff39af227",
-          "sourceContentHash": "sha256:641571b11a5e3ea9",
-          "sourceBodyHash": "sha256:02baeff9cbce935a",
-          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:1c2ced1aaf70624b",
+          "sourceBodyHash": "sha256:5e774c69559104df",
+          "translatedAt": "2026-11-02T18:25:01.659554+00:00",
           "translationLastCommit": "bcc6b00b",
           "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
           "footnoteDefs": 59,
-          "bytes": 71867,
+          "bytes": 71763,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/golden-bell-awards.md",
           "translatedFrom": "Culture/金鐘獎.md",
-          "sourceCommitSha": "ff39af227",
-          "sourceContentHash": "sha256:641571b11a5e3ea9",
-          "sourceBodyHash": "sha256:02baeff9cbce935a",
-          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:1c2ced1aaf70624b",
+          "sourceBodyHash": "sha256:5e774c69559104df",
+          "translatedAt": "2026-11-02T18:28:01.640904+00:00",
           "translationLastCommit": "bcc6b00b",
           "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
           "footnoteDefs": 59,
-          "bytes": 60654,
+          "bytes": 64918,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/golden-bell-awards.md",

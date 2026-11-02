@@ -28,10 +28,10 @@ rationale:
   whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
 relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '7701a4867'
-sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-09-20T10:47:45.754803+00:00'
+translatedAt: '2026-11-02T18:17:34.972993+00:00'
 ---
 
 # 금곡장: 타이완이 자기 음악에 상을 주고, 35년 동안 평생 기억될 순간들
@@ -260,11 +260,13 @@ _제37회(2026) 금곡장 시상식 오프닝. A-Lin이 처음으로 진행을 �
 
 ## 더 읽을거리
 
-- [타이완 대중음악](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 음반 산업에서 스트리밍 시대까지 이어지는 산업 흥망의 전체 역사. 금곡장은 이 흐름 위의 공식 눈금이다.
-- [타이완어 노래의 발전](/ko/music/taiwanese-hokkien-song-evolution) — 애절한 비가에서 린창 〈앞으로 가자〉의 록 전환까지, 타이완어 노래가 어떻게 주류로 들어갔는가.
-- [타이완 원주민 음악 전통](/ko/music/indigenous-music-traditions) — 부족 가요에서 천젠녠과 아바오까지, 원주민 음악의 뿌리와 현재.
-- [현대 원주민 싱어송라이터](/ko/music/contemporary-indigenous-singer-songwriters) — 지샤오쥔, 파나이, 아바오로 이어지는 창작자들의 소리와 처지.
-- [타이완 독립음악](/ko/music/indie-music-scene) — 차오둥과 StreetVoice 세대가 어떻게 음반 산업을 우회해 금곡장의 가장 높은 무대에 올랐는가.
+- [타이완 대중음악](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 음반 산업에서 스트리밍 시대까지의 산업 흥망사 전체, 금곡장은 이 선상의 공식 척도
+- [타이완 타이위 노래의 진화](/ko/music/taiwanese-hokkien-song-evolution) — 비련의 슬픈 노래에서 린창 〈앞으로 가자〉의 록 전환까지, 타이위 노래가 어떻게 주류로 들어왔나
+- [타이완 원주민 음악 전통](/ko/music/indigenous-music-traditions) — 부족 가요에서 천젠녠, 아바오까지, 원주민 음악의 뿌리와 현재
+- [동시대 원주민 창작 가수](/ko/music/contemporary-indigenous-singer-songwriters) — 지샤오쥔, 바나이, 아바오 이 계열 창작자의 목소리와 처지
+- [타이완 인디 음악](/ko/music/indie-music-scene) — 차오둥, 지에성 세대가 어떻게 음반 산업을 우회해 금곡장 최고 무대에 올랐나
+- [금종장](/ko/culture/golden-bell-awards) — 삼금 중 가장 오래된 상: 1965년 라디오를 위해 주조한 종, 61년 수상 명단이 기록한 타이완의 텔레비전이 누구 손에 있었나
+- [금마장](/art/金馬獎) — 삼금의 영화상: 회마다 참가 자격을 완화해, 국어 영화만 받던 것에서 국적을 불문하게 되기까지
 
 ## 이미지 출처
 
