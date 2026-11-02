@@ -1,31 +1,31 @@
 ---
-title: 'Wu Baifu (Momofuku Ando) : de Puzi, Chiayi, aux tables du monde, une légende mondiale aux gènes taïwanais et à l’emballage japonais'
-description: 'En 1961, Momofuku Ando acheta à Zhang Guowen les droits de demande de brevet des nouilles instantanées pour 23 millions de yens. Ce ne fut pas seulement une transaction commerciale, mais aussi une lutte transnationale autour du droit de définir l’invention. Cet entrepreneur originaire de Puzi, dans le comté de Chiayi, transforma l’âme des jisi mian traditionnelles taïwanaises en aliment national japonais, puis bouleversa en profondeur les habitudes alimentaires mondiales grâce aux nouilles en gobelet « Cup Noodles ». Cet article examine en détail ses débuts entrepreneuriaux à Taïwan sous domination japonaise, les prises de conscience nées de son emprisonnement après-guerre, ainsi que les enchevêtrements d’identité et de famille entre les deux pays.'
+title: "Momofuku Ando : de Puzi à Chiayi aux tables du monde, l'héritage taïwanais sous un emballage japonais"
+description: "En 1961, Momofuku Ando a acheté les droits de brevet des nouilles instantanées de Chang Kuo-wen pour 23 millions de yens. Plus qu'une simple transaction commerciale, ce fut une lutte transnationale sur la définition même de l'invention. Cet entrepreneur originaire de Puzi, à Chiayi, a transformé l'âme des nouilles au poulet effilées traditionnelles de Taïwan en un aliment national japonais, changeant radicalement les habitudes alimentaires mondiales grâce aux nouilles instantanées « Cup Noodles ». Cet article explore en profondeur ses débuts entrepreneuriaux sous l'occupation japonaise à Taïwan, ses réflexions après son incarcération d'après-guerre, ainsi que les complexités de son identité et de sa famille entre les deux pays."
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
-    'Wu Baifu',
     'Momofuku Ando',
-    'nouilles instantanées',
-    'histoire de Taïwan',
-    'culture alimentaire',
+    'Momofuku Ando',
+    'Nouilles instantanées',
+    'Histoire de Taïwan',
+    'Culture culinaire',
     'Nissin Foods',
-    'nouilles en gobelet',
-    'histoire d’après-guerre',
+    'Cup Noodles',
+    "Histoire d'après-guerre",
     'Dadaocheng',
   ]
-readingTime: 20
+subcategory: '歷史人物'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-02T16:20:55.234755+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
