@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '歷次公投的票數與投票率採維基百科彙整表（該表逐案標明來源為中選會），2026 年第 22 案採遠見與壹蘋新聞對中選會審議結果的報導，開票時間的估計是主委在記者會的預估，不是保證。'
   whos_pushing_back: '主張公投門檻應再降低、讓多數民意更容易成案的一方，以及主張公投容易被動員與假訊息帶走、門檻不該放太寬的一方。'
 translatedFrom: 'Politics/台灣公投制度.md'
-sourceCommitSha: '5e33e3a1c'
-sourceContentHash: 'sha256:b34bdfae9c38257f'
-sourceBodyHash: 'sha256:75b37912e4958f22'
-translatedAt: '2026-10-20T00:51:09+08:00'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:48c356865c14b441'
+sourceBodyHash: 'sha256:b97308b257831927'
+translatedAt: '2026-11-02T20:07:32.419618+00:00'
 ---
 
 # Taiwans Referendumsystem: 1947 in die Verfassung geschrieben, 56 Jahre auf ein Gesetz gewartet
@@ -99,19 +99,20 @@ Das Pendel schwang 2025 im November zurück: Das Parlament verabschiedete eine �
 
 So ergibt sich die Situation 2026: Am 28. November bei der Lokalwahl wird gleichzeitig über Fall 22 abgestimmt. Als der Vorsitzende der Zentrale Wahlkommission seine Schätzung zur Auszählungsdauer aussprach, war das Bild von jener Nacht 2018 eigentlich bereits die Herkunft dieser Zahl.[^4]
 
-## Warum diese Geschichte es wert ist, erinnert zu werden
+## Warum diese Linie es wert ist, sich zu merken
 
-Wenn man jeden einzelnen Streit auseinandernimmt, gibt es nur drei Dinge, die das taiwanesische Referendumsystem immer wieder abwägt.
+Wenn man jede Auseinandersetzung auseinanderfaltet, gewichtet Taiwans Referendumssystem tatsächlich immer nur drei Dinge.
 
-Auf der einen Seite der Waage liegt die Schwelle: Das Problem der sechs Fälle 2004 und 2008 war, dass die Schwelle zu hoch war – Stimmen wurden mobilisiert, kamen aber nicht durch; nach der Änderung 2017 zur Ein-Viertel-Regel verschob sich das Problem auf die andere Seite, niedrige Wahlbeteiligung plus hohe Zustimmung konnte immer noch nicht ausreichen, Fall 21 von 2025 war genau diese Kombination. Auf der anderen Seite liegt die Wahlverwaltungskapazität – das Jahr mit zehn Fällen am selben Tag trieb die Kapazität der Wahllokale an ihre Grenzen, daher kam es 2019 zur Entkopplung, aber nach der Entkopplung wurde die Diskussionsintensität der Referenden in Frage gestellt, daher kam es 2025 zur erneuten Bindung. Die dritte Seite ist „wessen Meinung kommt auf diesen Stimmzettel", was davon abhängt, ob Unterschriftensammlung Papier braucht und ob Fernabstimmung möglich ist – und beide Fragen warten immer noch auf Durchführungsgesetze.[^6]
+Auf der ersten Waagschale liegt die Hürde: Das Problem der sechs Fälle von 2004 und 2008 lag in der zu hohen Hürde – die Stimmen kamen zustande, schafften es aber nicht darüber; nach der Umstellung 2017 auf das Ein-Viertel-Quorum verlagerte sich das Problem auf die andere Seite: niedrige Wahlbeteiligung bei hoher Zustimmungsquote kann dennoch scheitern, Fall 21 von 2025 ist genau diese Kombination. Die zweite Seite ist die Kapazität der Wahlverwaltung: Zehn Fälle an einem Tag trieben die Belastbarkeit der Wahllokale an die Grenze, woraufhin 2019 die Entkopplung erfolgte; nach der Entkopplung wurde die Diskussionsintensität der Referenden wieder infrage gestellt, woraufhin 2025 die Wiederankopplung folgte. Die dritte Seite ist die Frage, „wessen Meinung es auf jenen Stimmzettel schafft“ – sie hängt davon ab, ob die Unterschriftensammlung in Papierform erfolgen muss und ob Nicht-Ortsansässige wählen dürfen, und beide Punkte harren noch des Ausführungsgesetzes.[^6]
 
-Keines dieser drei Dinge ist je ein rein technisches Problem gewesen, jedes Mal wurde es auf dem politischen Spielfeld neu berechnet. Und die Spuren, die das System hinterlässt, sind leicht zu erkennen: In welchem Jahr wurde geändert, welcher Artikel wurde geändert, wie hoch war die Wahlbeteiligung, war die Schwelle ein Viertel oder die Hälfte. Wenn man diese Zahlen nach Jahren anordnet, sieht man, wie diese Insel gelernt hat, direkte Demokratie zu nutzen, während sie gleichzeitig ihren eigenen Behälter anpasst.
+Keines dieser drei Dinge war je ein rein technisches Problem; jedes Mal wurde es auf der politischen Bühne neu ausgerechnet. Und die Spuren, die das System hinterlassen hat, sind gut erkennbar: in welchem Jahr das Gesetz geändert wurde, welcher Paragraph, wie hoch die Wahlbeteiligung war, ob das Quorum ein Viertel oder die Hälfte betrug. Stellt man diese Zahlen chronologisch nebeneinander, so zeigt sich der Prozess, wie diese Insel einerseits lernt, direkte Bürgerrechte anzuwenden, und andererseits ihren eigenen Rahmen anpasst.
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Zentrale Wahlkommission](/de/politics/central-election-commission) — Die Behörde, die Referendumsanträge von der Einreichung über die Unterschriftensammlung bis zur Abstimmung bearbeitet
-- [Geschichte der Wahlschwellen](/de/politics/voting-rights-threshold-history) — Die Linie, wer berechtigt ist, ein Wahllokal zu betreten, wurde ebenfalls mehrfach geändert
-- [Wahl 2026](/politics/2026 九合一選舉) — Die andere Hälfte des Stimmzettels vom 28. November
+- [System der Zentralen Wahlkommission](/de/politics/central-election-commission) — Die Behörde, die einen Referendumsfall von der Einreichung über die Unterschriftensammlung bis zur Abstimmung begleitet
+- [Geschichte der Wahlrechtshürden](/de/politics/voting-rights-threshold-history) — Die Linie, wer berechtigt ist, ins Wahllokal zu treten, wurde ebenfalls Schritt für Schritt gezogen
+- [2026 Neun-in-eins-Wahl](/politics/2026 九合一選舉) — Die andere Hälfte jenes Stimmzettels am 28. November
+- [Taiwans Atomkraft-Diskussion](/de/society/taiwan-nuclear-debate) — Fall 22 selbst: Kuosheng Block für Block in Prüfung, „gesellschaftlicher Konsens“ als Bedingung wurde in dieselbe Volksabstimmung gelegt
 
 ## Quellenangaben
 

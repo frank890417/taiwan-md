@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-02T20:22:56.704544+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Das Wehrpflichtsystem Taiwans ist die tiefgreifendste soziale Marke dieser Insel in mehr als einem halben Jahrhundert. Vom „Drei-Jahres-Soldaten“ während der Kriegsrechtszeit bis zur heutigen Wiederherstellung der einjährigen Dienstpflicht spiegelt dies nicht nur eine Änderung der Dienstzeiten wider, sondern zeigt die reale Reaktion Taiwans auf geopolitischen Druck. Dieser Text führt Sie von den Schockrufen beim Losverfahren zum modernen Einsatzszenario bei den Han-Kuang-Manövern, bei dem sogar Supermärkte trainiert werden, und analysiert eingehend die Befreiungskriterien, den Trainingsplan, verschiedene Ersatzdienstformen und die praxisorientierte Transformation der neuen Einberufungen.
@@ -102,10 +102,11 @@ Das Wehrpflichtsystem Taiwans ist ein langfristiger Dialog über „Verantwortun
 
 ### Referenzen
 
-## Vertiefte Lektüre
+## Weiterführende Literatur
 
-- [Hukou-Lager und Siegesstraßen-Erinnerungen](/de/history/hukou-camp-shengli-road-memory) — Alltägliche Erinnerung des Militärraums
-- [Black Bear Academy](/de/society/kuma-academy-civil-defense-school) — Die moderne Version des zivilen Verteidigungsbewusstseins
+- [Erinnerungen an das Hukou-Camp und die Shengli Road](/de/history/hukou-camp-shengli-road-memory) — Alltägliche Erinnerungen an militärische Räume
+- [Black Bear Academy](/de/society/kuma-academy-civil-defense-school) — Eine zeitgenössische Version des zivilen Verteidigungsbewusstseins
+- [Golden Horse Awards](/art/金馬獎) — Die Golden Horse Awards der Filmemacher und die von den Wehrdienstpflichtigen erwähnten „Golden Horse Awards“ haben denselben Ursprung; beide leiten sich von den ersten Schriftzeichen für Kinmen und Matsu ab
 
 ## Quellenangaben
 
