@@ -1,12 +1,12 @@
 ---
-title: 'Pariwisata dan Kehidupan Inklusif di Taiwan: Ketika Sentuhan Kemanusiaan Menjadi Fasilitas Aksesibilitas Terkuat'
-description: 'Mengamati masyarakat Taiwan dari perspektif keluarga, bagaimana sentuhan kemanusiaan dan fasilitas inklusif mendefinisikan ulang makna "berkeluarga bepergian" dalam perjalanan menuju masyarakat super-lansia.'
+title: 'Pariwisata dan Budaya Hidup Inklusif Segala Usia di Taiwan: Ketika Kemanusiaan Menjadi Fasilitas Tanpa Hambatan'
+description: 'Mengamati dari perspektif keluarga bagaimana masyarakat Taiwan melalui kehangatan kemanusiaan dan fasilitas inklusif, dalam menuju masyarakat super-lansia, mendefinisikan ulang makna "berkeluarga bepergian bersama".'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Inklusivitas Lansia',
-    'Pariwisata Aksesibel',
+    'Inklusif Segala Usia',
+    'Pariwisata Tanpa Hambatan',
     'Masyarakat Super-Lansia',
     'Budaya Keluarga',
     'Ketahanan Sosial',
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T20:55:30+08:00'
+translatedAt: '2026-11-02T16:19:29.233046+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

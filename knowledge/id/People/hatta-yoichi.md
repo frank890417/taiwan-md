@@ -1,17 +1,17 @@
 ---
-title: 'Yichi Hatta: Dari Legenda Hidraulik hingga "Sungai Besar yang Menggigit Manusia", Jejak Kolonial Birokrat Teknis'
-description: 'Pada 1920-an, insinyur Jepang Yichi Hatta membangun Bendungan Wushantou dan Kanal Besar Jiannan di Dataran Jiannan, Taiwan. Proyek bertaraf dunia ini membawa panen pertanian yang melimpah, namun juga memiliki sifat eksploitasi kolonial dan beban berat bagi petani, sehingga oleh sebagian petani disebut sebagai "Sungai Besar yang Menggigit Manusia". Artikel ini akan mengeksplorasi secara mendalam keberhasilan dan kegagalan Yichi Hatta, dualitas filosofi manajemennya, serta jejak kompleks yang ditinggalkan sejarah ini dalam masyarakat Taiwan.'
+title: 'Yoichi Hatta: Dari Rekayasa Irigasi hingga "Saluran Besar Pemangsa Rakyat", Jejak Kolonialisme Sang Teknokrat'
+description: 'Pada tahun 1920-an, insinyur Jepang Yoichi Hatta membangun Waduk Wusantou dan Saluran Besar Jianan di Dataran Jiā-Nán, Taiwan. Proyek kelas dunia ini, selain membawa panen pertanian yang melimpah, juga dijuluki oleh sebagian petani sebagai "Saluran Besar Pemangsa Rakyat" karena sifat eksploitasi kolonialnya dan beban berat yang ditanggung para petani. Artikel ini akan membahas secara mendalam kontribusi dan kesalahan Yoichi Hatta, dualitas filosofi manajemennya, serta jejak sejarah kompleks yang ditinggalkan dalam masyarakat Taiwan.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'Yichi Hatta',
-    'Kanal Besar Jiannan',
-    'Bendungan Wushantou',
-    'Periode Pemerintahan Jepang',
+    'Yoichi Hatta',
+    'Saluran Besar Jianan',
+    'Waduk Wusantou',
+    'Era Penjajahan Jepang',
     'Eksploitasi Kolonial',
     'Pertanian Taiwan',
-    'Penilaian Sejarah',
+    'Evaluasi Sejarah',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,13 +20,13 @@ lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'People/八田與一.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:6b0f80761ab45ab9'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:9f1665215c6b5da8'
 sourceBodyHash: 'sha256:2885ebb0691722a3'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-02T16:08:56.025119+00:00'
 ---
 
-> **Ringkasan 30 detik:** Pada tahun 1920, insinyur Jepang Yichi Hatta (八田與一) memimpin pembangunan Bendungan Wushantou dan Kanal Besar Jiannan di Dataran Jiannan, Taiwan. Proyek irigasi yang dijuluki sebagai "keajaiban teknik" ini mengubah tanah gersang menjadi lumbung padi Taiwan. Namun, di baliknya terdapat perampasan sumber daya Taiwan oleh pemerintah kolonial Jepang, serta darah dan air mata petani yang dipaksa menerapkan "sistem rotasi tiga tahun", bahkan hingga dijuluki sebagai "Sungai Besar yang Menggigit Manusia". Keputusan Yichi Hatta untuk "memecat karyawan unggul lebih dulu" saat pemutusan hubungan kerja, meski ditafsirkan sebagai kepedulian kemanusiaan, juga memicu kontroversi manajemen. Sejarah ini, melalui bunuh diri dengan cara terjun ke air oleh istri Yichi Hatta, Yichi Waidai-shu (八田外代樹) yang putus asa pasca-perang, serta peristiwa pemenggalan patung tembaga Yichi Hatta di era kontemporer, terus mengingatkan kita bahwa penilaian terhadap pembangunan oleh penjajah bukanlah hal yang satu dimensi, melainkan penuh kontradiksi dan ketegangan.
+> **Ringkasan 30 Detik:** Pada tahun 1920, insinyur Jepang Yichi Hatta memimpin pembangunan Waduk Wusantou dan Kanal Besar Jiannan di dataran Jiannan, Taiwan. Pembangunan irigasi yang dijuluki sebagai "keajaiban teknik" ini mengubah lahan tandus menjadi lumbung padi Taiwan. Namun, di balik itu terdapat eksploitasi sumber daya Taiwan oleh pemerintah kolonial Jepang serta penderitaan petani yang dipaksa menerapkan "sistem rotasi tiga tahun", bahkan proyek ini sempat dijuluki sebagai "Kanal Besar Pemangsa Manusia". Keputusan Yichi Hatta untuk "memprioritaskan pemutusan hubungan kerja terhadap karyawan berprestasi" saat melakukan pengurangan staf, meskipun ditafsirkan sebagai bentuk kepedulian kemanusiaan, juga memicu kontroversi manajemen. Sejarah ini—melalui peristiwa tragis istri Yichi Hatta yang bunuh diri dengan melompat ke air karena putus asa pasca-perang, hingga insiden pemenggalan patung perunggu di era modern—terus mengingatkan kita bahwa penilaian terhadap jasa dan kesalahan seorang pembangun kolonial tidak pernah bersifat tunggal, melainkan penuh dengan kontradiksi dan ketegangan.
 
 ## Visi yang Melampaui Zaman: Kelahiran dan Konteks Kolonial Kanal Besar Jiannan
 

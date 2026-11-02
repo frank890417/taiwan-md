@@ -1,10 +1,8 @@
 ---
 title: 'Komik Taiwan'
 description: 'Dari Liu Hsing-chin dan Ao You-hsiang pada era kejayaan “Kerajaan Komik” tahun 1970-an, Chen Uen yang menaklukkan Jepang pada 1991 dan menjadi “Harta Karun Asia”, serta Tsai Chih-chung yang mengadaptasi filsafat klasik ke dalam komik melalui Zhuangzi Berkata, hingga Penghargaan Komik Emas pada 2010 dan CCC Creative Collection pada 2017—komik Taiwan telah melewati masa suram akibat gempuran manga Jepang dan kini sedang menemukan kembali suara orisinalnya.'
-date: '2026-03-20'
-author: 'Taiwan.md'
+date: 2026-03-20
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
     'komik',
@@ -16,15 +14,18 @@ tags:
     'CCC Creative Collection',
     'Juan Kuang-min',
   ]
-readingTime: '11'
-lastVerified: '2026-05-16'
-lastHumanReview: 'true'
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-05-16
+lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 11
 translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
 sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-02T16:21:11.264508+00:00'
 ---
 
 # Komik Taiwan
@@ -114,9 +115,9 @@ Kebangkitan komik Taiwan sekaligus merupakan persoalan industri dan identitas bu
 
 ## Bacaan Lanjutan
 
-- [Budaya Anime dan Komik Taiwan](/id/culture/taiwan-anime-culture) — budaya konsumsi anime dan komik dari sudut pandang pembaca: _cosplay_, _dōjinshi_, pameran anime dan komik, serta ingatan antargenerasi
-- [Film Taiwan](/id/art/taiwanese-cinema) — poros lain dalam narasi visual Taiwan
-- [Perkembangan Sastra Kontemporer Taiwan](/art/台灣當代文學發展) — ranah tekstual dalam evolusi kesadaran diri kreatif Taiwan
+- [Budaya Anime dan Manga Taiwan](/id/culture/taiwan-anime-culture) — Budaya konsumsi anime dan manga dari perspektif pembaca: cosplay, fanzine (doujinshi), eksibisi anime, dan memori antargenerasi
+- [Film Taiwan](/id/art/taiwanese-cinema) — Sumbu lain dalam narasi visual Taiwan
+- [Perkembangan Sastra Kontemporer Taiwan](/id/art/contemporary-taiwanese-literature) — Lapisan tekstual dari evolusi kesadaran diri kreatif di Taiwan
 
 ## Referensi
 

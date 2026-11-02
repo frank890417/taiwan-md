@@ -1,16 +1,16 @@
 ---
-title: 'Nuklir Lan Yu: Janji 2002, Tinggalnya Tong Kuning Empat Puluh Tahun'
-description: 'Tahun 1982, limbah radioaktif rendah dikirim ke tanah leluhur suku Tao; 1998, warga menuntut pemindahan dengan "mengusir roh jahat", Taipower pernah berjanji pindah sebelum akhir 2002. Empat puluh tahun kemudian, Lan Yu tidak hanya menyimpan satu tempat penampungan, melainkan negosiasi tak selesai soal keamanan, persetujuan, dan siapa yang berhak menentukan masa depan tanah air.'
+title: 'Limbah Nuklir di Lanyu: Janji Tahun 2002 yang Meninggalkan Tong Kuning Selama Empat Dekade'
+description: 'Pada tahun 1982, limbah radioaktif tingkat rendah dikirim ke tanah air suku Tao; pada 1998, mereka menuntut pemindahan dengan alasan "mengusir roh jahat", dan Taipower sempat berjanji untuk memindahkannya sebelum akhir 2002. Lebih dari empat puluh tahun kemudian, yang tersisa di Lanyu bukan sekadar tempat penyimpanan, melainkan negosiasi yang belum usai mengenai keamanan, persetujuan, dan siapa yang berhak menentukan masa depan tanah air mereka.'
 date: 2026-08-15
 category: 'History'
 tags:
   [
-    'Lan Yu',
-    'Suku Tao',
-    'Limbah Nuklir',
-    'Keadilan Lingkungan',
-    'Masyarakat Adat',
-    'Energi Nuklir',
+    'Lanyu',
+    'suku Tao',
+    'limbah nuklir',
+    'keadilan lingkungan',
+    'masyarakat adat',
+    'energi nuklir',
   ]
 subcategory: 'Taiwan history'
 author: 'Taiwan.md Contributors'
@@ -20,102 +20,103 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:65e86deccc5676be'
-sourceBodyHash: 'sha256:c479bb28dd01bd12'
-translatedAt: '2026-09-12T19:57:13+08:00'
+sourceCommitSha: '7fbc0ea76'
+sourceContentHash: 'sha256:32042f77cac1568f'
+sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
+translatedAt: '2026-11-02T05:45:30+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Tahun 1982, Lan Yu mulai menerima limbah radioaktif rendah dari seluruh Taiwan; 1996 tempat penampungan penuh, namun tak menjadikan "penyimpanan sementara" berakhir. Suku Tao sejak 1988 berulang kali menuntut pemindahan, investigasi kebenaran resmi 2018 juga membuka kembali proses penetapan lokasi. Artikel ini tidak menuturkan kesimpulan "aman" atau "berbahaya" bagi pihak manapun, melainkan menanyakan: jika sebuah tanah air dipilih jadi tempat penampungan tanpa pengetahuan warganya, apakah angka pemantauan belakangan bisa sendirian menjawab soal keadilan?
+> **Ringkasan 30 Detik:** Pada tahun 1982, Lanyu mulai menerima limbah radioaktif tingkat rendah dari berbagai wilayah di Taiwan; pada tahun 1996 tempat penyimpanan tersebut mencapai kapasitas penuh, namun hal itu tidak mengakhiri masa "penyimpanan sementara". Suku Tao telah berulang kali menuntut pemindahan lokasi sejak tahun 1988, dan investigasi kebenaran resmi pada tahun 2018 kembali membuka proses penetapan lokasi tersebut ke hadapan publik. Artikel ini tidak menyatakan kesimpulan tentang "aman" atau "bahaya" bagi pihak mana pun, melainkan mempertanyakan: jika sebuah tanah air dipilih sebagai tempat penyimpanan tanpa sepengetahuan penduduknya, dapatkah angka-angka pemantauan di kemudian hari menjawab persoalan keadilan secara mandiri?
 
-_Extensi: [Tempat Penampungan Limbah Radioaktif Rendah Lan Yu.](https://service.taipower.com.tw/nbmi/downloads/image/specialreport/20240821-1918001.jpg)_
+_Baca selengkapnya: [Tempat Penyimpanan Limbah Radioaktif Tingkat Rendah Lanyu.](https://service.taipower.com.tw/nbmi/downloads/image/specialreport/20240821-1918001.jpg)_
 
-_Sumber Gambar: Situs Khusus Operasi Belakang Nuklir Taipower "Pemandangan Lan Yu Kembali Terlihat Sepanjang Sepuluh Tahun, Ikatannya dengan Nusantara Setengah Abad" September 2022. [^3]_
+_Sumber gambar: Situs web khusus operasional hilir nuklir Taipower 〈September 2022 "Lan"yu Menampilkan Kembali Keindahan, Menghubungkan Polinesia Selama Setengah Abad〉. [^3]_
 
-## 1982, Tong Kuning Tiba Lebih Dulu dari Kebenaran
+## 1982, Tong Kuning Tiba Sebelum Kebenaran
 
-Tempat Penampungan Limbah Radioaktif Rendah Lan Yu bukan bangunan terisolasi yang tiba-tiba muncul. Halaman sejarah bahasa Inggris NRC mencatat, 1972, AEC mengundang sarjana, lembaga penelitian nuklir, dan Taipower menilai tambang bekas, dataran tinggi, pulau tak berpenghuni, dan pulau terluar; saat itu "pembuangan laut masa depan" masih masuk pertimbangan teknologi penanganan limbah radioaktif rendah. 1975 akhir, Eksekutif Yuan menetapkan rencana pembangunan; 1978 mulai tahap pertama konstruksi. [^1]
+Tempat penyimpanan limbah radioaktif tingkat rendah Lanyu bukanlah sebuah bangunan terisolasi yang muncul secara tiba-tiba. Halaman sejarah dalam bahasa Inggris dari Komisi Keamanan Nuklir (Nuclear Safety Commission) mencatat bahwa pada tahun 1972, Dewan Energi Nuklir (Atomic Energy Council) mengumpulkan para akademisi, lembaga penelitian nuklir, dan Taipower untuk mengevaluasi tambang yang ditinggalkan, dataran tinggi, pulau tak berpenghuni, dan pulau-pulau terluar; saat itu "pembuangan ke laut" masih menjadi salah satu pertimbangan dalam teknologi pembuangan limbah radioaktif tingkat rendah. Pada akhir tahun 1975, pemerintah menyetujui rencana pembangunan; pada tahun 1978, tahap pertama konstruksi dimulai. [^1]
 
-Sejarah ini penting, bukan untuk membalikkan tempat penampungan Lan Yu hari ini jadi proyek yang sejak awal gagal, tapi mengingatkan kita: ia lahir di era ekspansi nuklir cepat, saat pembuangan laut belum jadi tabu. Alasan pemilihan lokasi tertulis: isolasi topografi, penduduk jarang, angkutan laut lancar. Kondisi yang sama, nanti jadi titik awal suku Tao mempertanyakan "siapa yang dianggap layak diisolasi". [^1]
+Alasan mengapa sejarah ini penting bukanlah untuk memandang tempat penyimpanan Lanyu saat ini sebagai proyek yang ditakdirkan gagal sejak awal, melainkan untuk mengingatkan kita: ia lahir di era ekspansi energi nuklir yang cepat, di mana pembuangan ke laut belum dianggap sebagai hal yang tabu. Alasan pemilihan lokasi mencantumkan isolasi topografi, populasi yang sedikit, dan kemudahan transportasi laut. Kondisi yang sama inilah yang kemudian menjadi titik awal bagi suku Tao untuk mempertanyakan "siapa yang dianggap sebagai orang yang boleh diisolasi". [^1]
 
-1982, tempat penampungan resmi menerima limbah radioaktif. Data NRC mencatat, areal punya 23 parit penampungan, kapasitas desain 133.728 tong. Juli 1990, tugas pengelolaan dialihkan dari AEC ke Taipower. [^2] Artikel khusus Taipower mencatat, tempat penampungan 1996 penuh, sejak itu tak terima limbah radioaktif rendah baru. [^3]
+Pada tahun 1982, tempat penyimpanan tersebut secara resmi mulai menerima limbah radioaktif. Data Komisi Keamanan Nuklir mencatat bahwa terdapat 23 parit penyimpanan dengan kapasitas desain sebesar 133.728 tong. Pada Juli 1990, tanggung jawab pengelolaan diserahkan dari Dewan Energi Nuklir kepada Taipower. [^2] Artikel khusus dari Taipower sendiri mencatat bahwa tempat penyimpanan tersebut mencapai kapasitas penuh pada tahun 1996, dan sejak saat itu tidak lagi menerima limbah radioaktif tingkat rendah yang baru. [^3]
 
-"Tak terima yang baru" mudah didengar "masalah selesai". Tapi waktu sebuah tempat penampungan, tak berhenti di hari tong terakhir masuk. Tong masih di pulau, parit masih butuh perawatan, kontrak sewa lahan, pemantauan lingkungan, dan pemilihan lokasi penempatan final masih butuh yang bertanggung jawab.
+Kalimat "tidak lagi menerima yang baru" sangat mudah disalahartikan sebagai "masalah telah selesai". Namun, masa berlaku sebuah tempat penyimpanan tidak berhenti pada hari tong terakhir dimasukkan. Tong-tong tersebut masih ada di pulau, parit-parit harus tetap dipelihara, dan tanggung jawab atas sewa tanah, pemantauan lingkungan, serta pemilihan lokasi pembuangan akhir tetap harus dijalankan oleh seseorang.
 
-_Extensi: [Lokasi Pemeriksaan Tong Limbah Nuklir Lan Yu, Terlihat Petugas dan Tong Limbah Nuklir.](https://i.ytimg.com/vi/ecjm-DVpcA8/maxresdefault.jpg)_
+_Baca selengkapnya: [Lokasi kerja perapian tong limbah nuklir Lanyu, memperlihatkan petugas dan tong limbah nuklir.](https://i.ytimg.com/vi/ecjm-DVpcA8/maxresdefault.jpg)_
 
-_Sumber Gambar: [Halaman Detail Video PTS "Pulau Kita" "Kaleng Kuning dan Aku"](https://www.youtube.com/watch?v=ecjm-DVpcA8); Thumbnail adalah tautan panas asli video._
+_Sumber gambar: [Halaman detail video PTS "Our Island" 〈Kaleng Kuning dan Saya〉](https://www.youtube.com/watch?v=ecjm-DVpcA8); thumbnail adalah tautan langsung asli dari video._
 
-## Suku Tao Melihat Bukan Satu Fasilitas, Tapi Rumah yang Ditulis Ulang
+## Yang Dilihat Suku Tao Bukanlah Fasilitas, Melainkan Rumah yang Ditulis Ulang
 
-Bagi suku Tao, Lan Yu bukan lahan kosong yang dihitung "kepadatan penduduk". Artikel penelitian Taiwan Insight menunjuk, kehidupan suku Tao erat dengan laut, sungai, air tanah, ladang, dan aktivitas pengambilan. Risiko limbah nuklir tak cuma soal dosis dan peraturan, tapi termasuk dampak psikologis dan budaya terhadap kepercayaan tradisional dan kenyamanan jasmani. [^4]
+Bagi suku Tao, Lanyu bukanlah lahan kosong yang dapat dihitung berdasarkan "kepadatan penduduk". Artikel penelitian dari Taiwan Insight menunjukkan bahwa kehidupan suku Tao terikat erat dengan laut, sungai, air tanah, ladang pertanian, dan aktivitas pengumpulan hasil alam. Risiko yang dibawa oleh limbah nuklir bukan hanya soal dosis radiasi dan regulasi, tetapi juga mencakup dampak psikologis dan budaya terhadap kepercayaan tradisional serta kesejahteraan fisik. [^4]
 
-Laporan PTS "Pulau Kita" menuliskan skala kehidupan itu lebih konkret: laut adalah ayah di mata anak, ladang talas adalah pelukan ibu. Talas bukan cuma tanaman, tapi bagian makanan sehari-hari dan upacara. [^5] Ini bukan meromantisasi pulau, tapi jelasin kenapa "apakah lingkungan luar area di bawah standar" dengan "apakah tanah air cocok ditempatin limbah nuklir" dalam pengalaman suku tak pernah jadi persoalan yang sama.
+Laporan dari program PTS "Our Island" menggambarkan skala kehidupan ini secara lebih konkret: laut adalah sosok ayah di mata anak-anak, dan ladang talas adalah pelukan seorang ibu. Talas bukan sekadar tanaman pangan, melainkan bagian dari diet harian dan upacara adat. [^5] Ini bukan upaya untuk meromantisasi pulau tersebut, melainkan penjelasan mengapa "apakah lingkungan di luar lokasi berada di bawah standar" dan "apakah tanah air ini layak menjadi tempat limbah nuklir" bukanlah pertanyaan yang sama dalam pengalaman suku Tao.
 
-Februari 1998, ratusan warga suku Tao yang tinggal di Taipei pernah ke depan kantor pusat Taipower menuntut hapus tempat penampungan, aksi bernama "Mengusir Roh Jahat Lan Yu". Taiwan Insight mencatat, Taipower pernah berjanji pindah sebelum akhir 2002, tapi pemilihan lokasi penempatan final gagal, pengalihan tak kunjung terlaksana. [^4] PTS mencatat, 1988–1991, Lan Yu tiga tahun berturut-turut 20 Februari gelar kegiatan anti-nuklir mengusir roh jahat. [^5]
+Pada Februari 1998, ratusan anggota suku Tao yang tinggal di Taipei mendatangi kantor pusat Taipower untuk menuntut pemindahan tempat penyimpanan, dengan aksi protes bertajuk "mengusir roh jahat Lanyu". Taiwan Insight mencatat bahwa Taipower pernah berjanji untuk memindahkan tempat penyimpanan sebelum akhir tahun 2002, namun kegagalan dalam pemilihan lokasi pembuangan akhir menyebabkan penundaan relokasi. [^4] PTS juga mencatat bahwa antara tahun 1988 hingga 1991, Lanyu mengadakan kegiatan anti-nuklir untuk mengusir roh jahat selama tiga tahun berturut-turut pada tanggal 20 Februari. [^5]
 
-Protes tak bermula dari "sikap anti-nuklir" abstrak, tapi dari pengalaman ditahuin, disembunyikan, dijanjiin, ditunggu tak kelar. Orang yang dulu tak tau rumahnya mau diisi apa, belakangan mesti belajar puluhan tahun soal nuklida, parit penampungan, peraturan, supaya bisa minta negara hitungin janji sendiri.
+Perlawanan ini tidak dimulai dari "posisi anti-nuklir" yang abstrak, melainkan akumulasi pengalaman dari diberitahu, disembunyikan, dijanjikan, namun tidak kunjung mendapatkan hasil. Mereka yang saat itu tidak tahu apa yang akan diletakkan di tanah air mereka, harus menghabiskan puluhan tahun kemudian untuk mempelajari jenis nuklir, parit penyimpanan, dan regulasi, hanya agar bisa menuntut negara mempertanggungjawabkan kata-katanya.
 
-_Extensi: [Gambar Berita Penataan Ulang Tong Limbah Nuklir Lan Yu.](https://i.ytimg.com/vi/AJ0IAUFhLnw/hqdefault.jpg)_
+_Baca selengkapnya: [Cuplikan berita penataan ulang tong limbah nuklir Lanyu.](https://i.ytimg.com/vi/AJ0IAUFhLnw/hqdefault.jpg)_
 
-_Sumber Gambar: [Halaman Detail Video Berita PTS 2011 Penataan Tong Limbah Nuklir Lan Yu](https://www.youtube.com/watch?v=AJ0IAUFhLnw); Thumbnail adalah tautan panas asli video._
+_Sumber gambar: [Halaman detail video berita penataan tong limbah nuklir Lanyu tahun 2011 oleh PTS](https://www.youtube.com/watch?v=AJ0IAUFhLnw); thumbnail adalah tautan langsung asli dari video._
 
-## Satu Tempat Penampungan, Dua Bahasa "Keamanan"
+## Satu Tempat Penyimpanan, Dua Bahasa "Keamanan"
 
-Penjelasan NRC soal tempat penampungan cukup konkret: limbah didudukkan dulu, masukkan drum baja, lalu taruh ke parit beton. Parit punya sistem koleksi air resapan, dikumpulkan lalu diolah pakai konsentrator. Penguasa sebut desain ini "penghalang berlapisan", dan catat sejak Tahun Minguo 85 (1996) terapkan langkah pelepasan aktivitas nol. [^6]
+Penjelasan Komisi Keamanan Nuklir mengenai tempat penyimpanan sangatlah teknis: limbah dikonsolidasi terlebih dahulu, kemudian dimasukkan ke dalam tong baja, lalu ditempatkan ke dalam parit beton. Parit dilengkapi dengan sistem pengumpulan air infiltrasi yang kemudian diproses dengan alat konsentrator. Otoritas terkait menyebut desain ini sebagai penghalang berlapis (multiple barriers), dan menyatakan bahwa sejak tahun ke-85 Republik Tiongkok (Taiwan), langkah-langkah nol emisi aktivitas radioaktif telah diterapkan. [^6]
 
-Halaman pemantauan lingkungan Taipower jelasin, pemantauan tahunan meliputi udara, air laut, air minum, air sungai, air tanah, hasil pertanian/perikanan/peternakan, tanah, dan pasir pantai. Kesimpulan Taipower: sampel lingkungan tahunan aman, pemantauan paralel juga dalam rentang variasi radiasi latar. [^7] Data ini setengah yg tak bisa kurang buat paham metode pengawasan resmi.
+Halaman deteksi lingkungan yang diterbitkan Taipower menjelaskan bahwa pemantauan tahunan mencakup udara, air laut, air minum, air sungai, air tanah, produk pertanian/perikanan/peternakan, tanah, dan pasir pantai. Kesimpulan Taipower adalah bahwa sampel lingkungan selama bertahun-tahun berada dalam rentang aman, dan menyatakan bahwa pemantauan paralel juga berada dalam rentang fluktuasi radiasi latar belakang. [^7] Data ini merupakan separuh bagian yang tak terpisahkan untuk memahami metode pengawasan resmi.
 
-Setengah lain, biarkan pembaca lihat "keamanan" di tengah kontroversi dipakai gimana. Laporan PTS 2012 menunjuk, 1982–1996 Lan Yu terima lebih 97.000 tong limbah nuklir, disimpan di 23 parit terbuka. Laporan juga sebut proyek pemeriksaan temuin banyak tong karat dan rusak parah. [^5] Laporan yang sama juga tunjukkan Taipower, AEC, dan sarjana beda tafsir soal hasil sampling Cs-137, Co-60 dan standar yang dipakai. Ini bukan jadiin laporan lama hakim terakhir, tapi simpan bentuk asli kontroversi: data lingkungan yang sama, bisa beda makna publik gara-geda beda lokasi sampling, standar banding, dan paham risiko.
+Separuh lainnya adalah membiarkan pembaca melihat bagaimana kata "aman" digunakan dalam perdebatan. Laporan PTS tahun 2012 menunjukkan bahwa antara tahun 1982 hingga 1996, Lanyu menerima lebih dari 97.000 tong limbah nuklir yang disimpan dalam 23 parit terbuka. Laporan tersebut juga menyebutkan bahwa proyek penataan menemukan banyak bagian tong yang berkarat dan rusak. [^5] Laporan yang sama juga menyajikan perbedaan interpretasi antara Taipower, Dewan Energi Nuklir, dan para akademisi mengenai hasil pengambilan sampel Sesium-137 (Cs-137), Kobalt-60 (Co-60), serta standar yang berlaku. Ini bukan bertujuan menjadikan laporan lama sebagai hakim terakhir, melainkan mempertahankan bentuk asli dari kontroversi tersebut: data lingkungan yang sama dapat menghasilkan makna publik yang berbeda karena perbedaan lokasi pengambilan sampel, standar perbandingan, dan pemahaman risiko.
 
-Komunitas _Taipei Times_ 2011 juga nyentuh sampling tanah, Cs-137, Co-60, dan perdebatan standar berbeda, tapi ia komentar, bukan penelitian asli. [^8] Maka, yg bisa ditulis ketat bukan "Lan Yu terbukti tercemar" atau "Lan Yu nggak ada masalah", tapi: pemantauan terkait pernah bikin kontroversi publik, resmi dan kritikus beda soal standar, lokasi sampling, dan tafsir data. Caranya lebih lambat, tapi lebih dekat fakta dari ngehakimi pembaca duluan.
+Editorial _Taipei Times_ tahun 2011 juga menyebutkan perdebatan mengenai pengambilan sampel tanah, Sesium-137, Kobalt-60, dan berbagai standar, namun tulisan tersebut adalah sebuah opini, bukan penelitian asli. [^8] Oleh karena itu, yang dapat ditulis secara ketat bukanlah "Lanyu telah terbukti tercemar" atau "Lanyu sama sekali tidak bermasalah", melainkan: pemantauan terkait pernah memicu kontroversi publik, di mana pihak resmi dan pengkritik tidak sepakat mengenai standar, lokasi pengambilan sampel, serta interpretasi data. Gaya penulisan seperti ini memang lebih lambat, namun lebih mendekati fakta daripada memberikan vonis prematur kepada pembaca.
 
-## 2018, Negara Akhirnya Balik Tanya "Dulu Gimana Keputusannya"
+## 2018, Negara Akhirnya Bertanya Kembali "Bagaimana Keputusan Itu Diambil Dulu"
 
-1 Agustus 2016, Presiden mewakili pemerintah minta maaf ke masyarakat adat, dan janji selidik proses keputusan simpan limbah nuklir di Lan Yu. Kelompok Investigasi Kebenaran Penetapan Tempat Penampungan Limbah Nuklir Lan Yu Eksekutif Yuan nanti terbitin _Buku Laporan Investigasi Kebenaran Penetapan Tempat Penampungan Limbah Nuklir Lan Yu_, diterbitin Komisi Masyarakat Adat September 2018, tebal 746 halaman. [^9]
+Pada 1 Agustus 2016, Presiden mewakili pemerintah meminta maaf kepada masyarakat adat dan berjanji untuk menyelidiki proses pengambilan keputusan penyimpanan limbah nuklir di Lanyu. Tim Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu dari Eksekutif kemudian menyelesaikan "Laporan Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu", yang diterbitkan oleh Komisi Masyarakat Adat pada September 2018 dengan total 746 halaman. [^9]
 
-Pentingnya laporan ini, bukan cuma tebal, tapi ngesor persoalan dari "nilai pemantauan sekarang berapa" ke "penilaian penetapan dulu, perencanaan penetapan, konsultasi warga, pengambilan tanah, dan proses keputusannya apa". Daftar isi buku nampilin bab-bab itu, juga jelasin laporan diposisikan jadi rujukan perdamaian dan negosiasi setara dengan masyarakat adat belakangan. [^9]
+Pentingnya laporan ini bukan hanya karena ketebalannya, melainkan karena ia menggeser pertanyaan dari "berapa nilai pemantauan saat ini" menjadi "bagaimana evaluasi penetapan, perencanaan, konsultasi suku, pengadaan tanah, dan proses pengambilan keputusan pada masa itu". Daftar isi buku tersebut mencantumkan bab-bab ini, dan menjelaskan bahwa laporan tersebut diposisikan sebagai referensi untuk rekonsiliasi dan negosiasi yang setara dengan masyarakat adat di masa depan. [^9]
 
-Tafsiran Taiwan Insight ke laporan menunjuk, dokumen resmi tak buktiin keputusan penetapan dapat persetujuan berdasar pengetahuan suku Tao. Artikel juga bagi kontroversi jadi tiga: ketidakadilan distribusi, ketidakadilan pengakuan, dan pengeluaran prosedural. [^4] Artinya, investigasi kebenaran tak jadiin limbah nuklir cuma benda yg ditanganin rekayasa. Ia nyambung balik parit beton ke sejarah tanah, suku, dan kekuasaan negara.
+Interpretasi Taiwan Insight terhadap laporan tersebut menunjukkan bahwa dokumen resmi tidak membuktikan bahwa keputusan penetapan telah mendapatkan persetujuan berdasarkan informasi (informed consent) dari suku Tao. Artikel tersebut juga membagi kontroversi ke dalam tiga aspek: ketidakadilan distribusi, pengakuan ketidakadilan, dan eksklusi prosedural. [^4] Dengan kata lain, investigasi kebenaran tidak mengubah limbah nuklir menjadi sekadar objek yang hanya perlu ditangani dengan metode teknis. Ia menghubungkan kembali sejarah parit semen tersebut dengan tanah, kelompok etnis, dan kekuasaan negara.
 
-## Kompensasi Bisa Dihitung Uang, Tapi Tak Pasti Bisa Hitung Balik Tanah Air
+## Kompensasi Bisa Dihitung dengan Uang, Namun Belum Tentu Bisa Menghitung Kembali Tanah Air
 
-29 November 2019, Taiwan Insight catat, aktivis anti-nuklir suku Tao di depan Eksekutif Yuan tolak kompensasi ganti pindahan. Mereka minta bangun platform komunikasi, bikin penempatan limbah nuklir dan kompensasi masuk hukum, juga minta dana dialihkan ke pindahan. [^4] Pilihan ini tak usah ditafsir "suku tak butuh kompensasi", tapi dipahami: kalau inti masalahnya tanah air ditentukan siapa, nominal tak tentu ganti persetujuan dan pindahan.
+Pada 29 November 2019, Taiwan Insight mencatat bahwa aktivis anti-nuklir suku Tao di depan kantor Eksekutif menolak kompensasi sebagai pengganti relokasi. Mereka menuntut pembentukan platform komunikasi, agar pengelolaan limbah nuklir dan kompensasi masuk ke dalam sistem hukum, serta menuntut agar dana dialihkan untuk proses pemindahan. [^4] Pilihan ini tidak perlu ditafsirkan sebagai "suku Tao tidak butuh kompensasi", melainkan harus dipahami sebagai: ketika inti dari sebuah masalah adalah tentang siapa yang menentukan nasib tanah air mereka, jumlah uang belum tentu dapat menggantikan persetujuan dan relokasi.
 
-Di sini ada kontradiksi masyarakat Taiwan akrab, tapi sering dibahas terpisah: negara bisa pakai bahasa rekayasa jelasin parit gimana cegah bocor, pakai angka pemantauan jelasin lingkungan gimana di bawah batas, juga pakai dana bali jelasin daerah dapat apa. Tapi yang ditanyain suku mungkin kalimat lain — kenapa keputusan ini bukan kita ikut tentuin dari awal?
+Di sini terdapat kontradiksi yang sangat akrab dalam masyarakat Taiwan namun sering dibahas secara terpisah: negara dapat menggunakan bahasa teknis untuk menjelaskan bagaimana parit mencegah infiltrasi, menggunakan angka pemantauan untuk menjelaskan bahwa lingkungan berada di bawah ambang batas, dan juga dapat menggunakan uang kompensasi untuk menjelaskan apa yang didapat oleh daerah tersebut. Namun, yang mungkin ditanyakan oleh suku Tao adalah hal lain—mengapa keputusan ini tidak melibatkan kami sejak awal?
 
-Taruh kalimat ini balik ke sejarah nuklir Taiwan, Lan Yu bukan cuma soal geografis "limbah nuklir diletakkan di mana". Ia nampilin kepentingan energi gimana nyambung ke tata kelola tanah, juga nampilin persetujuan berdasar pengetahuan masyarakat adat bukan prosedur halaman terakhir kebijakan, tapi prasyarat sebuah tempat bisa diambil risiko seluruh negara.
+Jika kalimat ini dikembalikan ke dalam sejarah energi nuklir Taiwan, Lanyu bukan sekadar pertanyaan geografis tentang "di mana limbah nuklir diletakkan". Ia memperlihatkan bagaimana kepentingan energi terhubung dengan tata kelola tanah, dan menunjukkan bahwa persetujuan berdasarkan informasi dari masyarakat adat bukanlah sekadar prosedur di halaman terakhir presentasi kebijakan, melainkan prasyarat yang menentukan apakah suatu tempat boleh digunakan untuk memikul risiko seluruh negara.
 
-## Tong Kuning Masih Ada, Waktu Tak Nutup Kasus Buat Pihak Manapun
+## Tong Kuning Masih Ada, Waktu Belum Menutup Kasus bagi Pihak Mana Pun
 
-Hingga halaman pengawasan bahasa Inggris NRC update Desember 2024, tempat penampungan Lan Yu masih tercantum objek pengawasan limbah radioaktif rendah. Halaman itu juga simpan sejarah 1970-an penetapan, 1982 penerimaan, 1990 alih ke Taipower. [^2] Taipower di artikel khusus 2022 jelasin tempat penampungan masih dikelola unit belakang nuklir, dan nyamain pemeliharaan keamanan dengan restorasi ekologi. [^3]
+Hingga pembaruan halaman pengawasan bahasa Inggris oleh Komisi Keamanan Nuklir pada Desember 2024, tempat penyimpanan Lanyu masih terdaftar sebagai objek pengawasan limbah radioaktif tingkat rendah. Halaman tersebut juga menyimpan sejarah pemilihan lokasi tahun 1970-an, penerimaan pada tahun 1982, dan penyerahan kepada Taipower pada tahun 1990. [^2] Sementara itu, Taipower dalam artikel khusus tahun 2022 menjelaskan bahwa tempat penyimpanan masih dikelola oleh unit hilir nuklir, dan menempatkan pemeliharaan keamanan serta restorasi ekologi sebagai bagian dari pekerjaan mereka. [^3]
 
-Halaman resmi ini tak beri tanggal selesai buat masalah pindahan. Ia bilang fasilitas gimana operasional, gimana dipantau, gimana dirawat. Laporan investigasi kebenaran dan sejarah protes suku Tao justru nanya, kenapa di data sekarang tak kelihatan bukti dapat persetujuan berdasar pengetahuan suku Tao, dan kenapa janji belakangan tak beres di 2002.
+Halaman-halaman resmi ini tidak memberikan tanggal penyelesaian untuk masalah relokasi. Mereka memberi tahu kita bagaimana fasilitas beroperasi, bagaimana cara memantau, dan bagaimana cara merawatnya. Laporan investigasi kebenaran dan sejarah perjuangan suku Tao justru mempertanyakan mengapa dalam data yang ada tidak terlihat bukti adanya persetujuan berdasarkan informasi dari suku Tao, serta mengapa janji-janji di masa lalu tidak berakhir pada tahun 2002.
 
-Tong kuning Lan Yu jadi benda sejarah Taiwan, bukan gara-gara ia kelihatan istimewa, tapi gara-gara ia tekan empat puluh tahun waktu di satu tempat konkret: satu pulau, segelintir warga, 23 parit, dan masa depan yang belum disepakati bersama. Akhir yang sesungguhnya, bukan cuma pindahin tong dari satu koordinat peta ke koordinat lain. Ia mesti biarkan orang yang dulu dikucilkan, jadi orang yang nentuin koordinat selanjutnya.
+Alasan mengapa tong kuning di Lanyu menjadi sebuah objek dalam sejarah Taiwan bukanlah karena penampilannya yang istimewa, melainkan karena ia menekan waktu selama lebih dari empat puluh tahun ke dalam satu tempat yang konkret: sebuah pulau, sekelompok penduduk, 23 parit, dan sebuah masa depan yang belum disepakati bersama. Akhir yang sesungguhnya tidak akan sekadar memindahkan tong dari satu koordinat di peta ke koordinat lainnya. Ia juga harus menjadikan mereka yang pernah dikecualikan sebagai orang-orang yang menentukan koordinat berikutnya.
 
 ## Bacaan Lanjutan
 
-- [Buku Laporan Investigasi Kebenaran Penetapan Tempat Penampungan Limbah Nuklir Lan Yu Eksekutif Yuan](https://alilin.cip.gov.tw/Book/670)
-- [Komisi Keamanan Nuklir: Penjelasan Pengawasan Keamanan Tempat Penampungan Lan Yu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
-- [Taiwan Insight: Perjuangan Rakyat Tao untuk Keadilan Lingkungan dan Subjektivitas di Pulau Orkid](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
+- [Laporan Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu oleh Eksekutif](https://alilin.cip.gov.tw/Book/670)
+- [Komisi Keamanan Nuklir: Penjelasan Pengawasan Keamanan Tempat Penyimpanan Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
+- [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
+- [Diskusi mengenai Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Peninjauan kembali Pembangkit Listrik Tenaga Nuklir (PLTN) Ko-rong pada tahun 2026 dan referendum kasus ke-22: "Solusi Limbah Nuklir" adalah salah satu dari tiga syarat untuk memulai kembali PLTN; Lanyu dan kolam bahan bakar PLTN Ko-rong masih menunggu tempat pembuangan.
 
 ## Referensi
 
-[^1]: [Komisi Keamanan Nuklir: Pengawasan Tempat Penampungan Lan-yu](https://www.nusc.gov.tw/english/Fuel-Cycle-and-Materials-Regulation/The-Oversight-of-Lan-yu-Storage-Site-159.html) — Halaman sejarah resmi bahasa Inggris NRC, jelasin penilaian penetapan 1972, penetapan 1975, mulai konstruksi 1978, dan pembuangan laut pernah masuk pertimbangan penanganan awal.
+[^1]: [Nuclear Safety Commission: The Oversight of Lan-yu Storage Site](https://www.nusc.gov.tw/english/Fuel-Cycle-and-Materials-Regulation/The-Oversight-of-Lan-yu-Storage-Site-159.html) — Halaman sejarah resmi dalam bahasa Inggris dari Komisi Keamanan Nuklir, menjelaskan evaluasi pemilihan lokasi tahun 1972, persetujuan tahun 1975, dimulainya konstruksi tahun 1978, dan pembuangan ke laut yang pernah menjadi pertimbangan awal.
 
-[^2]: [Komisi Keamanan Nuklir: Pengawasan Tempat Penampungan Lan-yu](https://www.nusc.gov.tw/english/Fuel-Cycle-and-Materials-Regulation/The-Oversight-of-Lan-yu-Storage-Site-159.html) — Data pengawasan bahasa Inggris NRC update 2024, catat 23 parit, kapasitas desain 133.728 tong, penerimaan 1982, alih ke Taipower 1990.
+[^2]: [Nuclear Safety Commission: The Oversight of Lan-yu Storage Site](https://www.nusc.gov.tw/english/Fuel-Cycle-and-Materials-Regulation/The-Oversight-of-Lan-yu-Storage-Site-159.html) — Data pengawasan bahasa Inggris dari Komisi Keamanan Nuklir yang diperbarui pada tahun 2024, mencatat 23 parit, kapasitas desain 133.728 tong, penerimaan pada tahun 1982, dan penyerahan kepada Taipower pada tahun 1990.
 
-[^3]: [Situs Khusus Operasi Belakang Nuklir Taipower: September 2022 "Lan" Yu Pemandangan Kembali Terlihat, Ikatannya dengan Nusantara Setengah Abad](https://service.taipower.com.tw/nbmi/detail/yk4240/) — Artikel khusus Taipower jelasin tempat penampungan mulai pakai 1982, alih 1990, penuh 1996, serta sikap resmi Taipower soal pemeliharaan keamanan dan restorasi ekologi.
+[^3]: [Situs web khusus operasional hilir nuklir Taipower: September 2022 "Lan"yu Menampilkan Kembali Keindahan, Menghubungkan Polinesia Selama Setengah Abad](https://service.taipower.com.tw/nbmi/detail/yk4240/) — Artikel khusus Taipower yang menjelaskan pengoperasian tempat penyimpanan sejak 1982, penyerahan pada 1990, kapasitas penuh pada 1996, serta posisi resmi Taipower terhadap pemeliharaan keamanan dan restorasi ekologi.
 
-[^4]: [Taiwan Insight: Perjuangan Rakyat Tao untuk Keadilan Lingkungan dan Subjektivitas di Pulau Orkid](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/) — Artikel Pusat Studi Taiwan Universitas Nottingham, analisis keadilan lingkungan suku Tao, protes 1998, janji pindahan 2002, dan kontroversi persetujuan berdasar pengetahuan.
+[^4]: [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/) — Artikel dari Pusat Studi Taiwan Universitas Nottingham, menganalisis keadilan lingkungan suku Tao, protes tahun 1998, janji relokasi tahun 2002, dan kontroversi persetujuan berdasarkan informasi.
 
-[^5]: [PTS "Pulau Kita": Kaleng Kuning dan Aku](https://ourisland.pts.org.tw/content/307) — Laporan Televisi Publik 1988–1991 protes, jumlah dan karat tong nuklir, kontroversi sampling lingkungan, dan pengalaman hidup warga soal tanah air.
+[^5]: [PTS "Our Island": Kaleng Kuning dan Saya](https://ourisland.pts.org.tw/content/307) — Laporan televisi publik mengenai protes 1988–1991, jumlah tong limbah nuklir dan korosi, kontroversi pengambilan sampel lingkungan, serta pengalaman hidup penduduk di tanah air mereka.
 
-[^6]: [Komisi Keamanan Nuklir: Penjelasan Pengawasan Keamanan Tempat Penampungan Lan Yu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html) — Halaman pengawasan bahasa Indonesia NRC, jelasin lima lapis penghalang, pencegahan bocor parit, pengolahan air resapan, dan langkah pelepasan aktivitas nol.
+[^6]: [Komisi Keamanan Nuklir: Penjelasan Pengawasan Keamanan Tempat Penyimpanan Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html) — Halaman regulasi bahasa Mandarin dari Komisi Keamanan Nuklir, menjelaskan lima lapisan penghalang, pencegahan infiltrasi parit, pengolahan air infiltrasi, dan langkah-langkah nol emisi aktivitas radioaktif.
 
-[^7]: [Perusahaan Listrik Taiwan: Kondisi Operasional Tempat Penampungan Limbah Radioaktif Rendah Lan Yu – Pemantauan Lingkungan](https://www.taipower.com.tw/2289/2363/2391/2396/10878/) — Halaman info lingkungan Taipower, daftar item sampling udara, air, hasil pertanian/perikanan/peternakan, tanah, pasir pantai, dan kesimpulan pemantauan resmi.
+[^7]: [Taiwan Power Company: Status Operasional Tempat Penyimpanan Limbah Radioaktif Tingkat Rendah Lanyu – Deteksi Lingkungan](https://www.taipower.com.tw/2289/2363/2391/2396/10878/) — Halaman informasi lingkungan Taipower, mencantumkan item pengambilan sampel seperti udara, air, produk pertanian/perikanan/peternakan, tanah, dan pasir pantai serta kesimpulan pemantauan resmi.
 
-[^8]: [Taipei Times: KOMUNITAS: Hidup di Tanah Terbakar Nuklir](https://www.taipeitimes.com/News/editorials/archives/2011/12/02/2003519706) — Komunitas bahasa Inggris 2011, rangkum perdebatan publik sampling Cs-137, Co-60, dan penerapan standar; artikel ini posisikan sebagai sumber komentar, bukan penelitian asli.
+[^8]: [Taipei Times: EDITORIAL: Living in a nuclear wasteland](https://www.taipeitimes.com/News/editorials/archives/2011/12/02/2003519706) — Editorial bahasa Inggris tahun 2011, merangkum kontroversi publik mengenai pengambilan sampel Sesium-137, Kobalt-60, dan penerapan standar; artikel ini memposisikannya sebagai sumber opini, bukan penelitian asli.
 
-[^9]: [Alilin Perpustakaan Elektronik Masyarakat Adat: Buku Laporan Investigasi Kebenaran Penetapan Tempat Penampungan Limbah Nuklir Lan Yu](https://alilin.cip.gov.tw/Book/670) — Halaman laporan investigasi satu tangan 746 halaman terbitan Komisi Masyarakat Adat 2018, nampilin bab penilaian penetapan, konsultasi warga, pengambilan tanah, analisis keputusan, dll.
+[^9]: [Alilin Indigenous E-book Store: Laporan Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu](https://alilin.cip.gov.tw/Book/670) — Halaman laporan investigasi tangan pertama setebal 746 halaman yang diterbitkan oleh Komisi Masyarakat Adat pada tahun 2018, mencantumkan bab-bab seperti evaluasi penetapan, konsultasi suku, pengadaan tanah, dan analisis pengambilan keputusan.
