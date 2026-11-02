@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:852e24aefb540676'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:f0f0fee4c84405d0'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: '2026-10-10T12:07:00+08:00'
+translatedAt: '2026-11-02T00:43:19.420393+00:00'
 ---
 
 # The Taiwan Folk Song Movement
@@ -145,12 +145,12 @@ In today's globalized world, we may need to think even more: In this world full 
 
 The Taiwan Folk Song Movement gives us the answer: Don't be afraid to create with your own language and your own stories. Because only in this way can we leave a truly our own voice in this world.
 
-## Extended Reading
+## Further Reading
 
-- [Development of Taiwan Popular Music](/music/台灣流行音樂發展) — After folk songs, from Lu Daohai to Chen Qizhen and Zhang Xuan, the mainstream axis of Chinese pop music
-- [Taiwan Literature After the Lifting of Martial Law](/en/art/post-martial-law-taiwanese-literature) — Another cultural self-awareness movement after 1987, with the same source as the folk song "singing your own songs" spirit
-- [Taiwan Film](/en/art/taiwanese-cinema) — The Taiwan New Cinema movement of the same period, another axis of Taiwan's local cultural awakening in the 1970s and 1980s
-- [Sanmao](/en/people/san-mao) — The original lyricist of "Olive Tree," whose lyrics were rewritten and spread throughout the Chinese-speaking world
+- [Development of Taiwan Popular Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The mainstream axis of Mandopop from Lo Ta-yu to Cheer Chen and Anais (Chang Hsu) following the folk song era.
+- [Taiwanese Literature after Martial Law](/en/art/post-martial-law-taiwanese-literature) — Another movement of cultural awakening after the lifting of martial law in 1987, sharing the same spirit as the folk song movement's "sing your own songs."
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — The contemporaneous Taiwan New Cinema movement, another axis of local cultural awakening in Taiwan during the 1970s and 1980s.
+- [San Mao](/en/people/san-mao) — The original lyricist of "Olive Tree," whose lyrics spread throughout the Chinese-speaking world after being adapted.
 
 ---
 

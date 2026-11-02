@@ -1,11 +1,7 @@
 ---
-translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d40713778c8c010e'
-sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Pineapple Cake: From Election Refreshments to a NT$25 Billion 'Golden Brick'"
 description: "In 1945, Yan Shin-Fa Bakery in Taichung transformed the traditional wedding pastry into the petite pineapple cake. From the winter melon-filling pivot of the 1970s under declining export fortunes, to SunnyHills' 2009 revival of the tart, fibrous native pineapple, this small 'golden brick' has been intertwined with Taiwan's agricultural fate for eight decades, and its annual production value now exceeds NT$25 billion — the most representative Taiwanese flavor in the minds of foreign visitors."
+date: 2026-04-24
 category: 'Food'
 tags:
   [
@@ -16,12 +12,17 @@ tags:
     'SunnyHills',
     'Yan Shin-Fa',
   ]
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
-date: 2026-04-24
 featured: false
-readingTime: 8
 lastVerified: 2026-04-24
 lastHumanReview: false
+readingTime: 8
+translatedFrom: 'Food/鳳梨酥.md'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:9eb46329e221026d'
+sourceBodyHash: 'sha256:d1a328d777682bdd'
+translatedAt: '2026-11-02T01:57:43.557510+00:00'
 ---
 
 > **30-second overview:** Pineapple cake is the intersection of Taiwan's agriculture and baking craftsmanship. Founded by Yan Shin-Fa in Taichung in 1945, it shifted to a smooth winter melon filling in the 1970s when pineapple exports declined, then returned to public awareness via SunnyHills' "native pineapple" approach after 2009. Today, this small golden brick has an annual production value exceeding NT$25 billion and has become the most representative Taiwanese flavor in the minds of foreign visitors.
@@ -66,9 +67,9 @@ In 2006, the Taipei City Government held the first "Taipei Pineapple Cake Cultur
 
 ## Further Reading
 
-- [Taiwan Pastry Culture](/en/food/taiwan-pastry-culture) — The thousand-layer DNA of Chinese pastry craftsmanship and modern desserts; read alongside pineapple cake for Taiwan's pastry transformation
-- [Beef Noodle Soup](/en/food/beef-noodle-soup) — Another "grassroots diplomatic" representative defining Taiwan's flavor memories; an interior-exterior contrast with pineapple cake
-- [Taiwan Agricultural Modernization](/economy/台灣農業現代化) — From production and sales difficulties to agribusiness transformation; pineapple cake is one chapter in this long road
+- [Taiwanese Pastry Culture](/en/food/taiwan-pastry-culture) — The layered genes of Han pastry craftsmanship and modern desserts; exploring the transformation of Taiwanese pastries alongside pineapple cake.
+- [Beef Noodle Soup](/en/food/beef-noodle-soup) — Another representative of "grassroots diplomacy" that defines Taiwan's culinary memory, serving as an internal and external counterpart to pineapple cake.
+- [Modernization of Taiwan's Agriculture](/en/economy/taiwan-agricultural-modernization) — From production and marketing dilemmas to the transformation of agribusiness; pineapple cake is one milestone on this long journey.
 
 ## References
 

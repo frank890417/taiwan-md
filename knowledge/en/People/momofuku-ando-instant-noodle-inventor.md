@@ -1,31 +1,31 @@
 ---
-title: 'Wu Baifu (Momofuku Ando): From Puzi, Chiayi to Tables Worldwide, a Global Legend of Taiwanese Genes and Japanese Packaging'
-description: "In 1961, Momofuku Ando purchased Chang Kuo-wen's patent application rights for instant noodles for 23 million yen. This was not merely a commercial transaction, but a transnational contest over the right to define an invention. This entrepreneur from Puzi, Chiayi transformed the spirit of Taiwan's traditional shredded-chicken noodles into a Japanese national food, and through Cup Noodles fundamentally changed eating habits around the world. This article examines in depth his entrepreneurial beginnings in Japanese-ruled Taiwan, the insights he gained from postwar imprisonment, and the entanglements of identity and family between Taiwan and Japan."
+title: 'Momofuku Ando: From Puzi, Chiayi to Global Dining Tables—Taiwanese Genes in Japanese Packaging'
+description: "In 1961, Momofuku Ando purchased Chang Kuo-wen's instant noodle patent rights for 23 million yen. This was more than a mere business transaction; it was a transnational struggle over the definition of invention. This entrepreneur, born in Puzi, Chiayi, transformed the soul of Taiwan's traditional shredded chicken noodles into a Japanese national staple and revolutionized global eating habits through 'Cup Noodles.' This article explores his entrepreneurial beginnings in colonial Taiwan, his reflections after imprisonment post-war, and the complexities of identity and family between the two nations."
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
-    'Wu Baifu',
     'Momofuku Ando',
+    'Ando Momofuku',
     'Instant Noodles',
     'Taiwan History',
     'Food Culture',
     'Nissin Foods',
     'Cup Noodles',
-    'Postwar History',
+    'Post-war History',
     'Dadaocheng',
   ]
-readingTime: 20
+subcategory: '歷史人物'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 20
 translatedFrom: 'People/吳百福.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-02T00:33:48.273020+00:00'
 ---
 
 > **30-second overview:**

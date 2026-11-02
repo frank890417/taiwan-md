@@ -1,26 +1,27 @@
 ---
-title: "HeySong Sarsaparilla: From a Mocked 'Third-Rate' Drink to the Century-Long Legend That Defeated the Cola Giants"
-description: "This is not an ordinary carbonated beverage — it is a survival story of how Taiwanese national capital, through Japanese colonial control and the tides of globalization, survived on '17 dollars in assets' and a song called 'My Future Is Not a Dream.'"
-category: Food
+title: 'Hei Fong Soda and Seven-Up: From Mocked "Third-Rate Goods" to Defeating the Cola Hegemony'
+description: 'This is not just an ordinary carbonated beverage, but a survival history of Taiwan''s national capital—how it survived through Japanese colonial control and waves of globalization by relying on its "17-yuan assets" and the spirit of "My Future is Not a Dream."'
+date: 2026-04-16
+category: 'Food'
 tags:
   [
-    'HeySong sarsaparilla',
-    'HeySong soft drinks',
-    'Taiwan brand',
-    'food culture',
-    'Chang Yu-Sheng',
+    'Hei Fong Soda',
+    'Hei Fong Seven-Up',
+    'Taiwanese Brands',
+    'Food Culture',
+    'Chang Yu-sheng',
   ]
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
-date: 2026-04-16
-readingTime: 12
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-translatedFrom: Food/黑松.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'Food/黑松.md'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-05-01T12:53:58+08:00'
-featured: false
+translatedAt: '2026-11-02T01:33:06.019268+00:00'
 ---
 
 > **30-Second Overview:**
