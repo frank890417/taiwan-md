@@ -1,13 +1,13 @@
 ---
-title: 'Du lịch và Văn hóa Sống Toàn Diện ở Đài Loan: Khi Tình Cảm Trở Thành Cơ Sở Vật Chất Hữu Tác Động Mạnh Mẽ Nhất'
-description: 'Quan sát từ góc độ gia đình về cách xã hội Đài Loan định nghĩa lại ý nghĩa của "du lịch cùng cả nhà" trên con đường tiến tới xã hội siêu cao niên thông qua tình cảm và các cơ sở vật chất hòa nhập.'
+title: 'Du lịch và văn hóa sống hòa nhập đa thế hệ tại Đài Loan: Khi tình người trở thành một phần của cơ sở hạ tầng không rào cản'
+description: 'Quan sát từ góc độ gia đình về cách xã hội Đài Loan thông qua tình người và các thiết bị hỗ trợ hòa nhập để định nghĩa lại ý nghĩa của việc "cả gia đình cùng nhau đi du lịch" trên con đường tiến tới xã hội siêu già.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Toàn diện',
+    'Hòa nhập đa thế hệ',
     'Du lịch không rào cản',
-    'Xã hội siêu cao niên',
+    'Xã hội siêu già',
     'Văn hóa gia đình',
     'Khả năng phục hồi xã hội',
   ]
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: 'fe3f96e02'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:0f023e33872fbd7d'
 sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
-translatedAt: '2026-10-09T21:18:58+08:00'
+translatedAt: '2026-11-02T16:08:08.419669+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

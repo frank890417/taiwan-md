@@ -1,10 +1,8 @@
 ---
 title: 'Truyện tranh Đài Loan'
 description: 'Từ Lưu Hưng Khâm, Ngao Ấu Tường của thời kỳ “vương quốc truyện tranh” thập niên 1970, đến Trịnh Vấn chinh phục Nhật Bản và trở thành “báu vật châu Á” năm 1991, Thái Chí Trung dùng Trang Tử thuyết để chuyển thể triết học cổ điển thành truyện tranh, rồi Giải Truyện tranh Vàng năm 2010 và Tuyển tập sáng tác CCC năm 2017—truyện tranh Đài Loan đã vượt qua giai đoạn thoái trào dưới sức ép của manga Nhật Bản và đang tìm lại tiếng nói nguyên bản của mình.'
-date: '2026-03-20'
-author: 'Taiwan.md'
+date: 2026-03-20
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
   [
     'truyện tranh',
@@ -16,15 +14,18 @@ tags:
     'Tuyển tập sáng tác CCC',
     'Nguyễn Quang Dân',
   ]
-readingTime: 11
-lastVerified: '2026-05-16'
-lastHumanReview: true
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-05-16
+lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 11
 translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5275019358614716'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:617e339d1ce44ab3'
 sourceBodyHash: 'sha256:dd1128570e96c06e'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-02T16:19:26.801179+00:00'
 ---
 
 # Truyện tranh Đài Loan
@@ -114,9 +115,9 @@ Sự phục hưng của truyện tranh Đài Loan vừa là vấn đề công ng
 
 ## Đọc thêm
 
-- [Văn hóa truyện tranh và hoạt hình Đài Loan](/vi/culture/taiwan-anime-culture) — Văn hóa tiêu thụ truyện tranh và hoạt hình từ góc nhìn độc giả: cosplay, dōjinshi, triển lãm truyện tranh–hoạt hình và ký ức thế hệ
-- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một trục khác của nghệ thuật tự sự thị giác Đài Loan
-- [Sự phát triển của văn học đương đại Đài Loan](/art/台灣當代文學發展) — Bình diện văn chương trong quá trình tiến hóa của ý thức sáng tạo Đài Loan
+- [Văn hóa anime và manga Đài Loan](/vi/culture/taiwan-anime-culture) — Văn hóa tiêu dùng anime/manga dưới góc nhìn độc giả: cosplay, fanzine (doujinshi), triển lãm anime/manga và ký ức thế hệ
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một trục diễn ngôn thị giác khác của Đài Loan
+- [Sự phát triển văn học đương đại Đài Loan](/vi/art/contemporary-taiwanese-literature) — Tầng lớp văn bản trong sự tiến hóa ý thức tự thân của sáng tạo Đài Loan
 
 ## Tài liệu tham khảo
 
