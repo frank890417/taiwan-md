@@ -1,0 +1,7 @@
+Taiwan.md is an open-source, non-commercial knowledge base about Taiwan (https://taiwan.md, source: https://github.com/frank890417/taiwan-md). This app is a native reader for its 1,150+ curated, sourced articles in 13 languages.
+
+- All content works offline. Chinese, English and Japanese are bundled in the app; feel free to test in Airplane Mode. Other languages can be downloaded in Settings > Offline packs.
+- Native features: offline full-text search, a timeline of Taiwan's history, bookmarks and reading progress, a Today's Read widget, per-article language switching, and Universal Links for taiwan.md.
+- Content updates: the app downloads updated content packs from the project's public GitHub Release "app-packs". Each pack is a SQLite database containing article text and HTML only; no executable code is downloaded.
+- No accounts, no user-generated content, no ads, no analytics, no tracking. External links open in Safari.
+- Some history articles describe violence (for example the 228 Incident and the martial law era) in text; our age rating answers reflect this.
