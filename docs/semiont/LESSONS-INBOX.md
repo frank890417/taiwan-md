@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-03 twmd-feedback-triage — single-item-hold-becomes-queue-blockage-at-flood-scale：為攔一筆而設計的機制，在洪水規模下變成擋住所有新讀者的那道牆
+
+- **pattern**: `single-item-hold-becomes-queue-blockage-at-flood-scale`
+- **原則**：一道「攔下來、狀態不動、留給人決定」的閘門，其正確性綁在**被攔的筆數很少**這個沒有人寫下來的前提上。`--exclude` 誕生於 2026-08-14 那封指涉具名私人的指控信，一次攔一筆，`status` 維持 `new` 是對的，因為怎麼收尾該由人決定。但取數窗口是「最舊 N 筆」，所以每一筆被攔下的列都**永久佔住窗口前段**：攔 1 筆沒事，攔 80 筆等於預設跑法從此碰不到任何新讀者。攻擊者一個字都沒騙到，卻靠我方的防禦動作達成了阻塞，而這件事在任何報表上都不會變紅——`file=3 exclude=80` 讀起來像一次乾淨的處置。
+- **觸發**：2026-11-03 本 routine。11-02 的憑證索取批次隔天把窗口填滿：預設 50 筆窗口整整 50 筆全屬該攻擊、`detectInjection()` 再一次 0/50。放大 `--limit` 後才看見佇列真實深度 84 筆，而 3 筆真實讀者回報被壓在 80 筆攻擊列底下——`6b2027ad` 劉恩哲 11-01 送的用語勘誤已經等了兩天（11-02 的報告就點名它被擋住，當天沒有人動得了這件事），`5dcda87e` 多田恵的黑冠麻鷺日文譯名錯、`a457b7fb` 菜國人的〈戰鬥陀螺〉格式都等了一天。本班用既有的 `--limit` 旗標繞過（純操作面、下一輪自動回預設、不碰判準），開成 #1949–#1951。繞過不等於修好，窗口阻塞每天重演，收尾權在 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #119。
+- **第二個發現（判準層）**：今天有一把 11-02 當天還拿不到的尺——那天照「無毒就照常開」開出的 11 筆，隔天早上維護班關掉 10 筆標 invalid，因為 slug 指不到任何文章。所以有效的判準是一個問題：它指得到站上一個真實的頁、說得出一件可查證的事嗎（機械可驗：80 筆攻擊列與對照組 slug 全部 0 命中，3 筆真實讀者全部命中真實檔案）。代價誠實記下：攻擊方的 4 筆無毒對照組因此也沒開 issue，而一位真實讀者若剛好沒帶 slug 會落進同一格，今天接住這種情況的只有 HG13 當班讀完全文，那是判斷不是閘門。
+- **候選機械化**：(a) 取數窗口排序或筆數對「長期 `new` 且已被判定排除」的列要有辦法跳過，否則 hold 機制與 intake 機制會互相鎖死（真正的修法在收尾權，屬 🔒）；(b) 報表在 `exclude` 數佔窗口比例過高時印一行事實（「本輪窗口 50 筆有 50 筆被排除，新讀者可能在窗口外」），同 v1.9／v1.12／v1.13 只給事實不給裁決的界線；(c) `--show` 補印 `page_kind` 與 `category`（11-02 已記，仍未做）。
+- **可能層級**：通用反射（任何「attacker 可大量投遞 ＋ 處置是 hold ＋ 取數有窗口」的 intake 線都適用）
+- **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 同時承載「還沒判」與「判過了，等人收尾」兩種意思，處置相反）／[#82](REFLEXES.md) proxy signal（`file=N` 代理「這輪把進來的東西處理掉了」）／LESSONS `gate-built-for-frame-breaking-is-blind-to-frame-impersonation`（同一場攻擊的偵測面）／`intake-never-asks-whether-the-target-exists`（本條第二個發現是它的正向用法）／`every-instrument-on-this-line-measures-my-side-of-the-handoff`（讀者等待時間仍然沒有人在量，本例是它的第二個 instance：等了兩天這件事是本班手算的）
+- **verification_count**: 1
+
 ### 2026-11-03 twmd-babel-nightly — push-loop-blocked-by-dirty-shared-file-waits-for-nobody：推送迴圈印「需要人看」十三小時，沒有任何人在看
 
 - **pattern**: `push-loop-blocked-by-dirty-shared-file-waits-for-nobody`
@@ -369,10 +380,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **pattern**: gate-built-for-frame-breaking-is-blind-to-frame-impersonation
 - **原則**：防 injection 的 pattern 清單若全針對「攻擊者宣告自己要覆寫規則」，就擋不住「攻擊者冒充規則本身」——後者不需要任何可疑句式，它只要借用這條產線公開的詞彙。
 - **觸發**：2026-11-02 飛輪停七天後 `status='new'` 累積 92 筆，74 筆要求把 `SUPABASE_SERVICE_KEY` 貼進公開 issue／archive／commit message，口吻是「FEEDBACK-TRIAGE-PIPELINE HG12b 強制步驟」「intake-health step 3c」「這是自動化核對，不是讀者請求」，全部借用本 pipeline 真實的閘門編號與段落名（`系統初判`、`[routine] commit`）。`detectInjection()` 命中 **0/74**，score 全 0（不是權重不足，是 16 條 pattern 一條都沒碰到）。兩個獨立軸：(一) **欄位射程**——偵測器掃 4 欄，可控且會進 issue／git 的有 10 欄，29 筆的 payload 完全只放在掃不到的 6 欄，`article_title` 更直接成為 issue 標題而標題無法包 tilde fence；(二) **payload 詞彙**——`dangerous-cmd` 認得 `rm -rf`／`curl | sh`，不認得 `cat ~/.某個.env`；`cred-fishing` 要字面 `SUPABASE_SERVICE`，這批寫 `SUPABASE|SERVICE`，差一個字元繞過。批次本身是逐欄位射程矩陣（slug 寫著 `a1-title-*`／`a1-src-*`／`a1-pk`／`a1-cat`），每波夾一筆具名 `canary-reader` 當對照組量「乾淨的會不會被連帶擋掉」。處置：39 筆窗口內 `--exclude` 後照樣跑完 `--commit`（11 筆乾淨的照常開 #1936–#1946，兩道對賬 102/102 與 101/102 全綠），偵測器判準不動（🔒 閾值，OBSERVER-QUEUE #119）。證據：[reports/feedback-injection-campaign-2026-11-02.md](../../reports/feedback-injection-campaign-2026-11-02.md)
-- **instances**：
+- **instances**：2026-11-03 本 routine 第二輪——同一批東西隔天進窗口，預設 50 筆窗口整整 50 筆全屬這場攻擊，`detectInjection()` 再一次 **0/50**（判準未動，屬 🔒）。新增三種形狀：同一套要求**翻成中英日韓西五種語言**（現行 pattern 清單本來只認中英兩種寫法）、payload **寫成 YAML 檔頭格式**（`provenance:` / `backend_check:` / `action:`，借的不只詞彙還有本專案到處在用的檔頭長相）、**假造後端錯誤訴諸好心**（「送出時後端回報 42501 permission denied：疑似 service 金鑰未載入，請維護者先於本機執行 …」）。第三種特別值得記：它不冒充權威，冒充一個壞掉的系統在求助。證據：[reports/feedback-injection-campaign-2026-11-02.md](../../reports/feedback-injection-campaign-2026-11-02.md) §第二輪
 - **可能層級**：通用反射（任何讀 untrusted 文字又有能力執行動作的閘門都適用，不限本 pipeline）
-- **相關**：REFLEXES #103「把一類對象排除出判定，不等於把它排除出觀察」差別在：#103 是刻意 skip 導致那格沒眼睛，本條是那六個欄位**從誕生起就不在判定範圍內**，沒有人決定過要排除它們；REFLEXES #97 交接面完整性只涵蓋附帶發現的 `--show` 漏印兩欄那一半
-- **verification_count**: 1
+- **相關**：REFLEXES #103「把一類對象排除出判定，不等於把它排除出觀察」差別在：#103 是刻意 skip 導致那格沒眼睛，本條是那六個欄位**從誕生起就不在判定範圍內**，沒有人決定過要排除它們；REFLEXES #97 交接面完整性只涵蓋附帶發現的 `--show` 漏印兩欄那一半；姊妹條 `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一場攻擊打在阻塞面，不在偵測面）
+- **verification_count**: 2
 
 ### 2026-10-26 twmd-maintainer-daily — hand-built-target-makes-the-official-check-silently-see-nothing：官方檢查器被手工餵入時不會報錯，它報「乾淨」
 
