@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T17:39:35+08:00",
-    "zhCommitHead": "83ecc7a86",
+    "lastUpdated": "2026-11-02T17:51:17+08:00",
+    "zhCommitHead": "d141f7361",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1157,
-        "fresh": 1118,
-        "stale": 24,
+        "fresh": 1119,
+        "stale": 23,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
@@ -24090,8 +24090,8 @@
           "sourceContentHash": "sha256:8cca491527e42676",
           "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
           "translatedAt": "2026-07-31T04:48:15+08:00",
-          "translationLastCommit": "919d3ee9",
-          "translationLastModified": "2026-07-31T07:41:34+08:00",
+          "translationLastCommit": "d141f736",
+          "translationLastModified": "2026-11-02T17:39:35+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 57900,
@@ -185312,8 +185312,8 @@
           "sourceContentHash": "sha256:029c5b96b80df013",
           "sourceBodyHash": "sha256:695400871e5b12aa",
           "translatedAt": "2026-11-02T07:54:20.613220+00:00",
-          "translationLastCommit": "db8c390c",
-          "translationLastModified": "2026-09-22T00:50:12+08:00",
+          "translationLastCommit": "d141f736",
+          "translationLastModified": "2026-11-02T17:39:35+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "bytes": 63306,
@@ -185424,20 +185424,18 @@
         "ru": {
           "path": "ru/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "5add39fc8",
-          "sourceContentHash": "sha256:1c18939671190740",
-          "sourceBodyHash": "sha256:c336900c050cb32f",
-          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:029c5b96b80df013",
+          "sourceBodyHash": "sha256:695400871e5b12aa",
+          "translatedAt": "2026-11-02T09:40:02.257886+00:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 81737,
+          "bytes": 98604,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/great-recall-movement-2024.md",
