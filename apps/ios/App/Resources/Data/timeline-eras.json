@@ -1,0 +1,1461 @@
+{
+  "$comment": "時間台灣（/timeline）策展資料層 SSOT。時代分期依據：曹永和臺灣島史觀 + NMTH 斯土斯民八展區 + knowledge/History/_History Hub.md 既有分期。事件年份逐條對站內已查核文章驗證（reports/timeline-page-design-2026-07-16.md §八）。文章引用格式 Category/slug，對應 knowledge/ 路徑；template 於 build 時 fail-loud 驗證 zh 索引存在。多語策略：Localized inline struct（幾何與 slug 語言無關，文字欄六語）。 v2（2026-07-16 進化）：新增 figures（時代人物列，People 從 articles 抽出）與 events[].link（事件連到站內文章，同一條 fail-loud resolve）。人物 chip 短名由 template 從文章標題「名字：副標」切出，不在此重複。",
+  "eras": [
+    {
+      "id": "austronesian",
+      "color": "#a0703c",
+      "yearsLabel": {
+        "zh-TW": "約 3 萬年前–17 世紀",
+        "en": "c. 30,000 years ago – 17th century",
+        "ja": "約3万年前–17世紀",
+        "ko": "약 3만 년 전–17세기",
+        "es": "hace ~30 000 años – siglo XVII",
+        "fr": "il y a ~30 000 ans – XVIIᵉ siècle"
+      },
+      "title": {
+        "zh-TW": "島的第一批人",
+        "en": "The Island's First Peoples",
+        "ja": "島の最初の人びと",
+        "ko": "섬의 첫 사람들",
+        "es": "Los primeros habitantes de la isla",
+        "fr": "Les premiers habitants de l'île"
+      },
+      "subtitle": {
+        "zh-TW": "史前與南島起源",
+        "en": "Prehistory & Austronesian origins",
+        "ja": "先史とオーストロネシアの起源",
+        "ko": "선사시대와 오스트로네시아 기원",
+        "es": "Prehistoria y orígenes austronesios",
+        "fr": "Préhistoire et origines austronésiennes"
+      },
+      "intro": {
+        "zh-TW": "在任何政權抵達之前，這座島已經有三萬年的人類故事。長濱文化的人在八仙洞敲打石器；六千年前，大坌坑文化的聚落開始農耕。語言學與考古證據指向同一件事：台灣很可能是南島語族的原鄉，今天從馬達加斯加到復活節島的四億人，語言的根都連回這座島。原住民族不是「史前」的註腳，是持續生活到今天的主體。",
+        "en": "Long before any regime arrived, this island already held thirty thousand years of human stories. People of the Changbin culture knapped stone tools in the Baxian Caves; six thousand years ago, Dapenkeng farming settlements appeared. Linguistics and archaeology point to the same conclusion: Taiwan is very likely the homeland of the Austronesian peoples — the linguistic roots of 400 million people from Madagascar to Easter Island trace back to this island. Indigenous peoples are not a footnote to 'prehistory'; they are living subjects of this story to this day.",
+        "ja": "いかなる政権が来るよりも前に、この島にはすでに3万年の人類の物語があった。長浜文化の人びとは八仙洞で石器を打ち、6千年前には大坌坑文化の集落が農耕を始めた。言語学と考古学は同じ結論を指す：台湾はオーストロネシア語族の原郷である可能性が高い。マダガスカルからイースター島まで4億人の言語の根が、この島につながっている。原住民族は「先史」の脚注ではなく、今日まで生き続ける主体である。",
+        "ko": "어떤 정권이 도착하기 훨씬 전부터 이 섬에는 이미 3만 년의 인류 이야기가 있었다. 창빈 문화 사람들은 바셴 동굴에서 석기를 만들었고, 6천 년 전에는 다번컹 문화의 농경 취락이 나타났다. 언어학과 고고학은 같은 결론을 가리킨다. 타이완은 오스트로네시아어족의 원향일 가능성이 높으며, 마다가스카르에서 이스터섬까지 4억 명의 언어적 뿌리가 이 섬으로 이어진다. 원주민족은 '선사'의 각주가 아니라 오늘날까지 살아가는 주체다.",
+        "es": "Mucho antes de la llegada de cualquier régimen, esta isla ya guardaba treinta mil años de historias humanas. La gente de la cultura Changbin tallaba herramientas de piedra en las cuevas de Baxian; hace seis mil años aparecieron los asentamientos agrícolas de Dapenkeng. La lingüística y la arqueología apuntan a lo mismo: Taiwán es muy probablemente la tierra de origen de los pueblos austronesios — las raíces lingüísticas de 400 millones de personas, de Madagascar a la Isla de Pascua, se remontan a esta isla. Los pueblos indígenas no son una nota al pie de la «prehistoria»: son protagonistas vivos hasta hoy.",
+        "fr": "Bien avant l'arrivée de tout régime, cette île portait déjà trente mille ans d'histoires humaines. Les gens de la culture de Changbin taillaient la pierre dans les grottes de Baxian ; il y a six mille ans apparaissaient les villages agricoles de Dapenkeng. La linguistique et l'archéologie convergent : Taïwan est très probablement le foyer d'origine des peuples austronésiens — les racines linguistiques de 400 millions de personnes, de Madagascar à l'île de Pâques, remontent à cette île. Les peuples autochtones ne sont pas une note de bas de page de la « préhistoire » : ils en sont les sujets vivants jusqu'à aujourd'hui."
+      },
+      "events": [
+        {
+          "year": {
+            "zh-TW": "約 3 萬年前",
+            "en": "c. 30,000 BP",
+            "ja": "約3万年前",
+            "ko": "약 3만 년 전",
+            "es": "~30 000 años",
+            "fr": "~30 000 ans"
+          },
+          "title": {
+            "zh-TW": "長濱文化",
+            "en": "Changbin culture",
+            "ja": "長浜文化",
+            "ko": "창빈 문화",
+            "es": "Cultura Changbin",
+            "fr": "Culture de Changbin"
+          },
+          "desc": {
+            "zh-TW": "台灣目前最早的人類活動證據，以台東八仙洞遺址最具代表性。",
+            "en": "The earliest evidence of human activity in Taiwan, best represented by the Baxian Caves in Taitung.",
+            "ja": "台湾最古の人類活動の証拠。台東の八仙洞遺跡が代表的。",
+            "ko": "타이완에서 가장 오래된 인류 활동의 증거로, 타이둥 바셴 동굴 유적이 대표적이다.",
+            "es": "La evidencia más antigua de actividad humana en Taiwán, representada por las cuevas de Baxian en Taitung.",
+            "fr": "La plus ancienne trace d'activité humaine à Taïwan, illustrée par les grottes de Baxian à Taitung."
+          },
+          "link": "History/史前時代與原住民"
+        },
+        {
+          "year": {
+            "zh-TW": "約 6 千年前",
+            "en": "c. 6,000 BP",
+            "ja": "約6千年前",
+            "ko": "약 6천 년 전",
+            "es": "~6000 años",
+            "fr": "~6000 ans"
+          },
+          "title": {
+            "zh-TW": "大坌坑文化",
+            "en": "Dapenkeng culture",
+            "ja": "大坌坑文化",
+            "ko": "다번컹 문화",
+            "es": "Cultura Dapenkeng",
+            "fr": "Culture de Dapenkeng"
+          },
+          "desc": {
+            "zh-TW": "新石器時代的農耕聚落出現；台灣被認為是南島語族擴散的可能原鄉。",
+            "en": "Neolithic farming settlements appear; Taiwan is considered the likely homeland of the Austronesian expansion.",
+            "ja": "新石器時代の農耕集落が出現。台湾はオーストロネシア語族拡散の原郷と考えられている。",
+            "ko": "신석기 농경 취락이 나타났다. 타이완은 오스트로네시아어족 확산의 원향으로 여겨진다.",
+            "es": "Aparecen asentamientos agrícolas neolíticos; Taiwán se considera la probable cuna de la expansión austronesia.",
+            "fr": "Apparition de villages agricoles néolithiques ; Taïwan est considérée comme le foyer probable de l'expansion austronésienne."
+          },
+          "link": "History/史前時代與原住民"
+        },
+        {
+          "year": {
+            "zh-TW": "鐵器時代",
+            "en": "Iron Age",
+            "ja": "鉄器時代",
+            "ko": "철기시대",
+            "es": "Edad del Hierro",
+            "fr": "Âge du fer"
+          },
+          "title": {
+            "zh-TW": "十三行文化",
+            "en": "Shisanhang culture",
+            "ja": "十三行文化",
+            "ko": "스싼항 문화",
+            "es": "Cultura Shisanhang",
+            "fr": "Culture de Shisanhang"
+          },
+          "desc": {
+            "zh-TW": "北台灣出現懂得煉鐵的聚落，台灣進入鐵器時代。",
+            "en": "Iron-smelting settlements appear in northern Taiwan as the island enters the Iron Age.",
+            "ja": "北台湾に製鉄を知る集落が現れ、台湾は鉄器時代に入る。",
+            "ko": "북부 타이완에 제철 기술을 가진 취락이 나타나며 철기시대로 접어든다.",
+            "es": "Asentamientos que dominan la fundición de hierro aparecen en el norte de Taiwán.",
+            "fr": "Des villages maîtrisant la métallurgie du fer apparaissent dans le nord de Taïwan."
+          },
+          "link": "History/史前時代與原住民"
+        },
+        {
+          "year": "1584",
+          "title": {
+            "zh-TW": "進入歐洲航海文獻",
+            "en": "Enters European navigation records",
+            "ja": "ヨーロッパの航海文献に登場",
+            "ko": "유럽 항해 문헌에 등장",
+            "es": "Entra en los registros náuticos europeos",
+            "fr": "Entre dans les archives maritimes européennes"
+          },
+          "desc": {
+            "zh-TW": "西班牙船長 Gali 的航海日誌記下「As Ilhas Fermosas」；「福爾摩沙」之名要到荷蘭時代之後才真正確立。",
+            "en": "Spanish captain Francisco Gali's log records 'As Ilhas Fermosas'; the name 'Formosa' only became established after the Dutch era.",
+            "ja": "スペイン船長ガリの航海日誌に「As Ilhas Fermosas」と記される。「フォルモサ」の名が定着するのはオランダ時代以降。",
+            "ko": "스페인 선장 갈리의 항해일지에 'As Ilhas Fermosas'가 기록된다. '포르모사'라는 이름은 네덜란드 시대 이후에야 정착했다.",
+            "es": "El diario del capitán español Francisco Gali registra «As Ilhas Fermosas»; el nombre «Formosa» solo se consolidó tras la era neerlandesa.",
+            "fr": "Le journal du capitaine espagnol Francisco Gali note « As Ilhas Fermosas » ; le nom « Formosa » ne s'imposera qu'après l'époque hollandaise."
+          },
+          "link": "History/福爾摩沙"
+        }
+      ],
+      "anchors": ["History/史前時代與原住民"],
+      "articles": [
+        "History/台灣原住民族歷史與正名運動",
+        "History/台灣島史觀",
+        "History/福爾摩沙",
+        "Culture/群島思維",
+        "Nature/台灣島嶼博物學"
+      ]
+    },
+    {
+      "id": "age-of-sail",
+      "color": "#31708e",
+      "yearsLabel": "1624–1662",
+      "title": {
+        "zh-TW": "世界航線上的福爾摩沙",
+        "en": "Formosa on the World's Sea Lanes",
+        "ja": "世界航路の上のフォルモサ",
+        "ko": "세계 항로 위의 포르모사",
+        "es": "Formosa en las rutas del mundo",
+        "fr": "Formosa sur les routes du monde"
+      },
+      "subtitle": {
+        "zh-TW": "荷西競逐",
+        "en": "Dutch & Spanish rivalry",
+        "ja": "オランダ・スペインの角逐",
+        "ko": "네덜란드·스페인 각축",
+        "es": "Pugna neerlandesa y española",
+        "fr": "Rivalité hollando-espagnole"
+      },
+      "intro": {
+        "zh-TW": "十七世紀，台灣第一次被寫進世界貿易地圖。荷蘭東印度公司在大員蓋起熱蘭遮城，西班牙人在北邊的基隆、淡水築堡；鹿皮、蔗糖與絲綢從這裡流向日本與歐洲。對島上的原住民聚落來說，這是第一次與殖民體制正面相遇。",
+        "en": "In the 17th century, Taiwan was written onto the world's trade map for the first time. The Dutch East India Company built Fort Zeelandia at Tayouan while the Spanish fortified Keelung and Tamsui in the north; deerskin, sugar and silk flowed from here to Japan and Europe. For the island's Indigenous communities, it was the first head-on encounter with colonial rule.",
+        "ja": "17世紀、台湾は初めて世界の貿易地図に書き込まれた。オランダ東インド会社は大員にゼーランディア城を築き、スペイン人は北の基隆・淡水に砦を構えた。鹿皮、砂糖、絹がここから日本とヨーロッパへ流れた。島の原住民集落にとっては、植民地体制との最初の正面からの出会いだった。",
+        "ko": "17세기, 타이완은 처음으로 세계 무역 지도에 등장했다. 네덜란드 동인도회사는 타이오안에 젤란디아 요새를 세웠고, 스페인은 북쪽 지룽과 단수이에 성채를 쌓았다. 사슴 가죽과 설탕, 비단이 이곳에서 일본과 유럽으로 흘러갔다. 섬의 원주민 공동체에게는 식민 체제와의 첫 정면 조우였다.",
+        "es": "En el siglo XVII, Taiwán entró por primera vez en el mapa del comercio mundial. La Compañía Neerlandesa de las Indias Orientales levantó el fuerte Zeelandia en Tayouan, mientras los españoles fortificaban Keelung y Tamsui en el norte; pieles de ciervo, azúcar y seda fluían desde aquí hacia Japón y Europa. Para las comunidades indígenas fue el primer encuentro frontal con el régimen colonial.",
+        "fr": "Au XVIIᵉ siècle, Taïwan fut inscrite pour la première fois sur la carte du commerce mondial. La Compagnie néerlandaise des Indes orientales bâtit le fort Zeelandia à Tayouan tandis que les Espagnols fortifiaient Keelung et Tamsui au nord ; peaux de cerf, sucre et soie partaient d'ici vers le Japon et l'Europe. Pour les communautés autochtones de l'île, ce fut la première rencontre frontale avec le régime colonial."
+      },
+      "events": [
+        {
+          "year": "1624",
+          "title": {
+            "zh-TW": "荷蘭東印度公司抵達大員",
+            "en": "The Dutch East India Company arrives at Tayouan",
+            "ja": "オランダ東インド会社、大員に到達",
+            "ko": "네덜란드 동인도회사, 타이오안 도착",
+            "es": "La VOC llega a Tayouan",
+            "fr": "La VOC arrive à Tayouan"
+          },
+          "desc": {
+            "zh-TW": "在今天的台南建立商館與熱蘭遮城，台灣南部進入荷蘭統治。",
+            "en": "A trading post and Fort Zeelandia are built in present-day Tainan; southern Taiwan comes under Dutch rule.",
+            "ja": "現在の台南に商館とゼーランディア城を建設。南部台湾はオランダ統治下に入る。",
+            "ko": "지금의 타이난에 상관과 젤란디아 요새를 세우고, 남부 타이완이 네덜란드 통치에 들어간다.",
+            "es": "Se construyen una factoría y el fuerte Zeelandia en la actual Tainan; el sur de Taiwán queda bajo dominio neerlandés.",
+            "fr": "Un comptoir et le fort Zeelandia sont bâtis dans l'actuelle Tainan ; le sud de Taïwan passe sous domination néerlandaise."
+          },
+          "link": "History/荷西明鄭時期"
+        },
+        {
+          "year": "1626",
+          "title": {
+            "zh-TW": "西班牙人進入北台灣",
+            "en": "The Spanish enter northern Taiwan",
+            "ja": "スペイン人、北台湾に進出",
+            "ko": "스페인, 북부 타이완 진출",
+            "es": "Los españoles entran en el norte",
+            "fr": "Les Espagnols entrent dans le nord"
+          },
+          "desc": {
+            "zh-TW": "於基隆、淡水築城，與南方的荷蘭人對峙。",
+            "en": "Forts rise at Keelung and Tamsui, facing off against the Dutch in the south.",
+            "ja": "基隆・淡水に築城し、南のオランダ人と対峙する。",
+            "ko": "지룽과 단수이에 성을 쌓고 남쪽의 네덜란드와 대치한다.",
+            "es": "Levantan fuertes en Keelung y Tamsui, frente a los neerlandeses del sur.",
+            "fr": "Des forts s'élèvent à Keelung et Tamsui, face aux Néerlandais du sud."
+          },
+          "link": "Geography/基隆市"
+        },
+        {
+          "year": "1642",
+          "title": {
+            "zh-TW": "荷蘭驅逐西班牙",
+            "en": "The Dutch expel the Spanish",
+            "ja": "オランダ、スペインを駆逐",
+            "ko": "네덜란드, 스페인 축출",
+            "es": "Los neerlandeses expulsan a los españoles",
+            "fr": "Les Néerlandais chassent les Espagnols"
+          },
+          "desc": {
+            "zh-TW": "荷蘭東印度公司擊敗西班牙人，成為島上唯一的歐洲殖民勢力。",
+            "en": "The VOC defeats the Spanish, becoming the island's sole European colonial power.",
+            "ja": "オランダ東インド会社がスペイン人を破り、島で唯一のヨーロッパ植民勢力となる。",
+            "ko": "네덜란드 동인도회사가 스페인을 물리치고 섬의 유일한 유럽 식민 세력이 된다.",
+            "es": "La VOC derrota a los españoles y queda como única potencia colonial europea en la isla.",
+            "fr": "La VOC défait les Espagnols et devient la seule puissance coloniale européenne de l'île."
+          }
+        }
+      ],
+      "anchors": ["History/荷西明鄭時期", "History/熱蘭遮城"],
+      "articles": [
+        "History/台灣海洋貿易史",
+        "History/西班牙北台灣十六年",
+        "Geography/台南市",
+        "Geography/澎湖縣",
+        "Geography/基隆市"
+      ]
+    },
+    {
+      "id": "tungning",
+      "color": "#a04a3f",
+      "yearsLabel": "1662–1683",
+      "title": {
+        "zh-TW": "海上王朝",
+        "en": "The Kingdom on the Sea",
+        "ja": "海の王朝",
+        "ko": "바다의 왕조",
+        "es": "El reino del mar",
+        "fr": "Le royaume sur la mer"
+      },
+      "subtitle": {
+        "zh-TW": "明鄭時期",
+        "en": "The Zheng (Tungning) era",
+        "ja": "鄭氏（東寧）時代",
+        "ko": "정씨(둥닝) 시대",
+        "es": "La era Zheng (Tungning)",
+        "fr": "L'ère Zheng (Tungning)"
+      },
+      "intro": {
+        "zh-TW": "1662 年，鄭成功在九個月的圍城後迫使荷蘭人開城投降，在台灣建立東寧王國——漢人政權第一次以這座島為根據地。二十一年間，制度與移民陸續上岸，直到 1683 年施琅的艦隊攻下澎湖。",
+        "en": "In 1662, after a nine-month siege, Koxinga (Zheng Chenggong) forced the Dutch to surrender and founded the Kingdom of Tungning — the first Han regime based on this island. For twenty-one years, institutions and migrants came ashore, until Shi Lang's fleet took Penghu in 1683.",
+        "ja": "1662年、鄭成功は9か月の包囲戦の末にオランダ人を開城させ、台湾に東寧王国を建てた。漢人政権が初めてこの島を本拠地とした。21年のあいだ制度と移民が次々に上陸し、1683年、施琅の艦隊が澎湖を落とすまで続いた。",
+        "ko": "1662년, 정성공은 9개월의 포위전 끝에 네덜란드의 항복을 받아내고 타이완에 둥닝 왕국을 세웠다. 한인 정권이 처음으로 이 섬을 근거지로 삼은 것이다. 21년 동안 제도와 이주민이 잇따라 상륙했고, 1683년 시랑의 함대가 펑후를 함락하며 막을 내렸다.",
+        "es": "En 1662, tras nueve meses de asedio, Koxinga (Zheng Chenggong) forzó la rendición neerlandesa y fundó el Reino de Tungning: el primer régimen han con base en esta isla. Durante veintiún años llegaron instituciones y migrantes, hasta que la flota de Shi Lang tomó Penghu en 1683.",
+        "fr": "En 1662, après neuf mois de siège, Koxinga (Zheng Chenggong) contraignit les Néerlandais à la reddition et fonda le royaume de Tungning — le premier régime han établi sur cette île. Pendant vingt-et-un ans, institutions et migrants débarquèrent, jusqu'à la prise de Penghu par la flotte de Shi Lang en 1683."
+      },
+      "events": [
+        {
+          "year": "1662",
+          "title": {
+            "zh-TW": "熱蘭遮城開城",
+            "en": "Fort Zeelandia surrenders",
+            "ja": "ゼーランディア城、開城",
+            "ko": "젤란디아 요새 항복",
+            "es": "Se rinde el fuerte Zeelandia",
+            "fr": "Le fort Zeelandia se rend"
+          },
+          "desc": {
+            "zh-TW": "鄭成功擊敗荷蘭長官揆一，建立東寧王國。",
+            "en": "Koxinga defeats Dutch governor Frederick Coyett and founds the Kingdom of Tungning.",
+            "ja": "鄭成功がオランダ長官コイエットを破り、東寧王国を建てる。",
+            "ko": "정성공이 네덜란드 장관 코예트를 물리치고 둥닝 왕국을 세운다.",
+            "es": "Koxinga derrota al gobernador Frederick Coyett y funda el Reino de Tungning.",
+            "fr": "Koxinga défait le gouverneur Frederick Coyett et fonde le royaume de Tungning."
+          },
+          "link": "People/鄭成功"
+        },
+        {
+          "year": "1683",
+          "title": {
+            "zh-TW": "澎湖海戰",
+            "en": "The Battle of Penghu",
+            "ja": "澎湖海戦",
+            "ko": "펑후 해전",
+            "es": "La batalla de Penghu",
+            "fr": "La bataille de Penghu"
+          },
+          "desc": {
+            "zh-TW": "施琅攻下澎湖，鄭氏投降，明鄭三代二十一年落幕。",
+            "en": "Shi Lang takes Penghu and the Zheng regime surrenders, ending twenty-one years and three generations of Tungning rule.",
+            "ja": "施琅が澎湖を攻略し鄭氏は降伏。三代21年の東寧支配が幕を閉じる。",
+            "ko": "시랑이 펑후를 함락하자 정씨 정권이 항복하고, 3대 21년의 둥닝 통치가 끝난다.",
+            "es": "Shi Lang toma Penghu y el régimen Zheng se rinde: acaban veintiún años y tres generaciones de Tungning.",
+            "fr": "Shi Lang prend Penghu, le régime Zheng capitule : fin de vingt-et-un ans et trois générations de Tungning."
+          },
+          "link": "History/荷西明鄭時期"
+        }
+      ],
+      "anchors": ["People/鄭成功", "History/東寧王國"],
+      "articles": [
+        "History/荷西明鄭時期",
+        "History/熱蘭遮城",
+        "Food/虱目魚粥",
+        "Food/蚵仔煎"
+      ]
+    },
+    {
+      "id": "qing",
+      "color": "#8a6d3b",
+      "yearsLabel": "1683–1895",
+      "title": {
+        "zh-TW": "唐山過台灣",
+        "en": "Crossing the Black Water Ditch",
+        "ja": "唐山から台湾へ",
+        "ko": "탕산에서 타이완으로",
+        "es": "La travesía desde Tangshan",
+        "fr": "La traversée depuis Tangshan"
+      },
+      "subtitle": {
+        "zh-TW": "清領時期",
+        "en": "The Qing era",
+        "ja": "清朝統治期",
+        "ko": "청 통치기",
+        "es": "La era Qing",
+        "fr": "L'ère Qing"
+      },
+      "intro": {
+        "zh-TW": "1684 年，台灣被併入清帝國版圖，卻在渡台禁令下長期是帝國的邊陲。兩百年間，移民一波波渡過黑水溝，「一府二鹿三艋舺」的港市依序興起；民變與械鬥不斷，直到十九世紀末的開港與建省，台灣才在世界貿易與帝國防線上重新變得重要。",
+        "en": "In 1684 Taiwan was annexed into the Qing empire, yet under the crossing ban it long remained the empire's frontier. For two centuries migrants braved the Black Water Ditch wave after wave, and the port towns of 'first Tainan, second Lukang, third Bangka' rose in turn; uprisings and feuds never ceased, until the treaty ports and provincehood of the late 19th century made Taiwan matter again — to world trade and to the empire's defenses.",
+        "ja": "1684年、台湾は清帝国の版図に組み込まれたが、渡台禁令の下で長らく帝国の辺境だった。二百年のあいだ移民は波のように黒水溝（台湾海峡）を渡り、「一府二鹿三艋舺」の港町が順に興った。民変と械闘は絶えず、19世紀末の開港と建省でようやく、台湾は世界貿易と帝国防衛線の上で再び重要になった。",
+        "ko": "1684년 타이완은 청 제국의 판도에 편입되었지만, 도항 금지령 아래 오랫동안 제국의 변경이었다. 200년 동안 이주민들이 파도처럼 헤이수이거우(타이완 해협)를 건넜고, '일부 이록 삼멍가'의 항구 도시들이 차례로 일어났다. 민란과 계투가 끊이지 않다가, 19세기 말의 개항과 성 승격으로 타이완은 세계 무역과 제국 방어선 위에서 다시 중요해졌다.",
+        "es": "En 1684 Taiwán fue anexionada al imperio Qing, pero bajo la prohibición de cruce siguió siendo mucho tiempo la periferia del imperio. Durante dos siglos los migrantes cruzaron ola tras ola la «Zanja de Agua Negra», y los puertos de «primero Tainan, segundo Lukang, tercero Bangka» florecieron por turnos; revueltas y feudos no cesaron hasta que los puertos abiertos y la provincia de finales del XIX devolvieron a Taiwán su importancia.",
+        "fr": "En 1684, Taïwan fut annexée à l'empire Qing, mais resta longtemps sa périphérie sous l'interdiction de traversée. Deux siècles durant, les migrants franchirent vague après vague le « fossé d'eau noire », et les ports de « d'abord Tainan, puis Lukang, puis Bangka » s'élevèrent tour à tour ; révoltes et vendettas ne cessèrent qu'avec l'ouverture des ports et l'érection en province à la fin du XIXᵉ siècle."
+      },
+      "events": [
+        {
+          "year": "1684",
+          "title": {
+            "zh-TW": "併入清帝國",
+            "en": "Annexed by the Qing empire",
+            "ja": "清帝国に編入",
+            "ko": "청 제국 편입",
+            "es": "Anexión al imperio Qing",
+            "fr": "Annexion par l'empire Qing"
+          },
+          "desc": {
+            "zh-TW": "設台灣府，隸屬福建省；同時頒布渡台禁令，限制移民攜眷來台。",
+            "en": "Taiwan Prefecture is established under Fujian Province; a crossing ban restricts migrants from bringing families.",
+            "ja": "台湾府を設置し福建省に編入。同時に渡台禁令が敷かれ、家族を連れた移民が制限される。",
+            "ko": "타이완부를 설치해 푸젠성에 소속시키고, 도항 금지령으로 가족 동반 이주를 제한한다.",
+            "es": "Se crea la prefectura de Taiwán bajo Fujian; la prohibición de cruce impide llevar a las familias.",
+            "fr": "La préfecture de Taïwan est créée sous le Fujian ; l'interdiction de traversée empêche d'emmener sa famille."
+          },
+          "link": "History/清治時期"
+        },
+        {
+          "year": "1721",
+          "title": {
+            "zh-TW": "朱一貴事件",
+            "en": "The Zhu Yigui uprising",
+            "ja": "朱一貴事件",
+            "ko": "주일귀의 난",
+            "es": "El levantamiento de Zhu Yigui",
+            "fr": "Le soulèvement de Zhu Yigui"
+          },
+          "desc": {
+            "zh-TW": "清領台灣的民變年代揭幕；其後林爽文（1786）、戴潮春（1862）事件相繼爆發。",
+            "en": "The age of uprisings under Qing rule begins; the Lin Shuangwen (1786) and Dai Chaochun (1862) revolts follow.",
+            "ja": "清朝統治下の民変の時代が幕を開ける。林爽文（1786）、戴潮春（1862）の乱が続く。",
+            "ko": "청 통치기 민란의 시대가 막을 올린다. 임상문(1786), 대조춘(1862)의 난이 뒤따랐다.",
+            "es": "Comienza la era de las revueltas bajo los Qing; siguen las de Lin Shuangwen (1786) y Dai Chaochun (1862).",
+            "fr": "L'ère des révoltes sous les Qing s'ouvre ; suivront celles de Lin Shuangwen (1786) et Dai Chaochun (1862)."
+          },
+          "link": "People/朱一貴"
+        },
+        {
+          "year": "1858",
+          "title": {
+            "zh-TW": "開港通商",
+            "en": "Treaty ports open",
+            "ja": "開港通商",
+            "ko": "개항 통상",
+            "es": "Apertura de puertos",
+            "fr": "Ouverture des ports"
+          },
+          "desc": {
+            "zh-TW": "天津條約後，淡水、安平、雞籠、打狗陸續開港，茶、糖、樟腦銷向世界。",
+            "en": "After the Treaty of Tianjin, Tamsui, Anping, Keelung and Takau open in turn; tea, sugar and camphor ship worldwide.",
+            "ja": "天津条約の後、淡水・安平・鶏籠・打狗が順に開港。茶、砂糖、樟脳が世界へ売られていく。",
+            "ko": "톈진 조약 이후 단수이, 안핑, 지룽, 다거우가 차례로 개항하고 차, 설탕, 장뇌가 세계로 팔려나간다.",
+            "es": "Tras el Tratado de Tianjin abren Tamsui, Anping, Keelung y Takau; té, azúcar y alcanfor parten al mundo.",
+            "fr": "Après le traité de Tianjin, Tamsui, Anping, Keelung et Takau ouvrent tour à tour ; thé, sucre et camphre partent vers le monde."
+          },
+          "link": "History/19世紀的樟腦戰爭"
+        },
+        {
+          "year": "1874",
+          "title": {
+            "zh-TW": "牡丹社事件",
+            "en": "The Mudan Incident",
+            "ja": "牡丹社事件",
+            "ko": "무단서 사건",
+            "es": "El incidente de Mudan",
+            "fr": "L'incident de Mudan"
+          },
+          "desc": {
+            "zh-TW": "日本出兵恆春半島；清廷從消極治理轉向積極經營台灣。",
+            "en": "Japan sends troops to the Hengchun peninsula; the Qing court shifts from neglect to active governance of Taiwan.",
+            "ja": "日本が恒春半島に出兵。清朝は消極統治から台湾の積極経営へ転じる。",
+            "ko": "일본이 헝춘 반도에 출병하자, 청 조정은 소극적 통치에서 적극 경영으로 돌아선다.",
+            "es": "Japón envía tropas a la península de Hengchun; la corte Qing pasa a gobernar Taiwán activamente.",
+            "fr": "Le Japon envoie des troupes dans la péninsule de Hengchun ; la cour Qing passe à une gouvernance active de Taïwan."
+          }
+        },
+        {
+          "year": "1885",
+          "title": {
+            "zh-TW": "台灣建省",
+            "en": "Taiwan becomes a province",
+            "ja": "台湾、省に昇格",
+            "ko": "타이완 성 승격",
+            "es": "Taiwán se convierte en provincia",
+            "fr": "Taïwan devient une province"
+          },
+          "desc": {
+            "zh-TW": "劉銘傳出任首任巡撫，鐵路、電報與新式建設陸續展開。",
+            "en": "Liu Mingchuan becomes the first governor; railways, telegraphs and modern works begin.",
+            "ja": "劉銘伝が初代巡撫に就任。鉄道、電信、近代建設が次々と始まる。",
+            "ko": "류밍촨이 초대 순무로 부임하고 철도, 전신 등 근대 건설이 시작된다.",
+            "es": "Liu Mingchuan es el primer gobernador; comienzan ferrocarriles, telégrafos y obras modernas.",
+            "fr": "Liu Mingchuan devient premier gouverneur ; chemins de fer, télégraphe et travaux modernes commencent."
+          },
+          "link": "People/劉銘傳"
+        },
+        {
+          "year": "1895",
+          "title": {
+            "zh-TW": "馬關條約",
+            "en": "The Treaty of Shimonoseki",
+            "ja": "下関条約",
+            "ko": "시모노세키 조약",
+            "es": "El Tratado de Shimonoseki",
+            "fr": "Le traité de Shimonoseki"
+          },
+          "desc": {
+            "zh-TW": "清帝國把台灣割讓給日本。",
+            "en": "The Qing empire cedes Taiwan to Japan.",
+            "ja": "清帝国が台湾を日本に割譲する。",
+            "ko": "청 제국이 타이완을 일본에 할양한다.",
+            "es": "El imperio Qing cede Taiwán a Japón.",
+            "fr": "L'empire Qing cède Taïwan au Japon."
+          },
+          "link": "History/乙未之役"
+        }
+      ],
+      "anchors": ["History/清治時期"],
+      "articles": [
+        "History/清法戰爭",
+        "History/羅發號事件與卓杞篤",
+        "History/19世紀的樟腦戰爭",
+        "Geography/艋舺",
+        "Geography/大稻埕"
+      ],
+      "figures": [
+        {
+          "ref": "People/朱一貴",
+          "name": {
+            "zh-TW": "朱一貴",
+            "en": "Chu Yi-kuei",
+            "ja": "朱一貴",
+            "ko": "주이구이",
+            "es": "Chu Yi-kuei",
+            "fr": "Zhu Yigui"
+          }
+        },
+        {
+          "ref": "People/郁永河",
+          "name": {
+            "zh-TW": "郁永河",
+            "en": "Yu Yonghe",
+            "ja": "郁永河",
+            "ko": "위융허",
+            "es": "Yu Yong-he",
+            "fr": "Yu Yonghe"
+          }
+        },
+        {
+          "ref": "People/劉銘傳",
+          "name": {
+            "zh-TW": "劉銘傳",
+            "en": "Liu Ming-chuan",
+            "ja": "劉銘伝",
+            "ko": "류명전",
+            "es": "Liu Ming-chuan",
+            "fr": "Liu Ming-chuan"
+          }
+        },
+        {
+          "ref": "People/馬偕",
+          "name": {
+            "zh-TW": "馬偕",
+            "en": "George Mackay",
+            "ja": "マッカイ",
+            "ko": "조지 매케이",
+            "es": "George Mackay",
+            "fr": "George Mackay"
+          }
+        },
+        {
+          "ref": "People/史溫侯",
+          "name": {
+            "zh-TW": "史溫侯",
+            "en": "Robert Swinhoe",
+            "ja": "スウィンホー",
+            "ko": "스원후",
+            "es": "Robert Swinhoe",
+            "fr": "Robert Swinhoe"
+          }
+        }
+      ]
+    },
+    {
+      "id": "japanese",
+      "color": "#3e6b54",
+      "yearsLabel": "1895–1945",
+      "title": {
+        "zh-TW": "殖民與現代化",
+        "en": "Colonial Rule and Modernization",
+        "ja": "植民地と近代化",
+        "ko": "식민 통치와 근대화",
+        "es": "Colonización y modernización",
+        "fr": "Colonisation et modernisation"
+      },
+      "subtitle": {
+        "zh-TW": "日治時期",
+        "en": "The Japanese era",
+        "ja": "日本統治時代",
+        "ko": "일본 통치 시대",
+        "es": "La era japonesa",
+        "fr": "L'ère japonaise"
+      },
+      "intro": {
+        "zh-TW": "五十年的殖民統治是一場不對等的現代化：縱貫鐵路、自來水、公學校與嘉南大圳改變了島的地貌，警察國家與差別待遇也同時降臨。武裝抗日在 1915 年後轉入政治與文化——文化協會、議會請願，一代台灣人開始用現代的語言爭取自己的位置。",
+        "en": "Fifty years of colonial rule brought an unequal modernization: trunk railways, running water, public schools and the Chianan Canal reshaped the island, while a police state and systematic discrimination arrived with them. After 1915, armed resistance turned political and cultural — through the Taiwan Cultural Association and petitions for a parliament, a generation of Taiwanese began claiming their place in a modern voice.",
+        "ja": "50年の植民地統治は不平等な近代化だった。縦貫鉄道、水道、公学校、嘉南大圳が島の姿を変えると同時に、警察国家と差別待遇もやってきた。武装抗日は1915年以降、政治と文化に転じる。文化協会、議会設置請願——ひとつの世代の台湾人が、近代の言葉で自らの居場所を求め始めた。",
+        "ko": "50년의 식민 통치는 불평등한 근대화였다. 종관 철도, 상수도, 공학교, 자난 대수로가 섬의 모습을 바꾸는 동시에 경찰국가와 차별 대우도 함께 왔다. 무장 항일은 1915년 이후 정치와 문화로 방향을 틀었다. 문화협회와 의회 설치 청원을 통해, 한 세대의 타이완인들이 근대의 언어로 자신의 자리를 요구하기 시작했다.",
+        "es": "Cincuenta años de dominio colonial trajeron una modernización desigual: el ferrocarril troncal, el agua corriente, las escuelas públicas y el canal de Chianan transformaron la isla, mientras llegaban también el estado policial y la discriminación. Tras 1915 la resistencia armada se volvió política y cultural: con la Asociación Cultural de Taiwán y las peticiones de un parlamento, una generación empezó a reclamar su lugar con lenguaje moderno.",
+        "fr": "Cinquante ans de domination coloniale apportèrent une modernisation inégale : chemin de fer, eau courante, écoles publiques et canal de Chianan transformèrent l'île, tandis qu'arrivaient l'État policier et la discrimination. Après 1915, la résistance armée devint politique et culturelle — avec l'Association culturelle de Taïwan et les pétitions pour un parlement, une génération se mit à revendiquer sa place dans une langue moderne."
+      },
+      "events": [
+        {
+          "year": "1895",
+          "title": {
+            "zh-TW": "乙未之役",
+            "en": "The War of 1895",
+            "ja": "乙未戦争",
+            "ko": "을미전쟁",
+            "es": "La guerra de 1895",
+            "fr": "La guerre de 1895"
+          },
+          "desc": {
+            "zh-TW": "馬關條約割台，台灣民主國曇花一現，各地武裝抵抗持續數月。",
+            "en": "After the cession, the short-lived Republic of Formosa rises and falls; armed resistance continues for months across the island.",
+            "ja": "割譲後、台湾民主国は短命に終わり、各地の武装抵抗が数か月続く。",
+            "ko": "할양 이후 타이완 민주국은 단명했고, 각지의 무장 저항이 수개월간 이어졌다.",
+            "es": "Tras la cesión, la efímera República de Formosa nace y cae; la resistencia armada dura meses.",
+            "fr": "Après la cession, l'éphémère République de Formose naît et tombe ; la résistance armée dure des mois."
+          },
+          "link": "History/乙未之役"
+        },
+        {
+          "year": "1908",
+          "title": {
+            "zh-TW": "縱貫鐵路全線通車",
+            "en": "The trunk railway is completed",
+            "ja": "縦貫鉄道が全線開通",
+            "ko": "종관 철도 전 구간 개통",
+            "es": "Se completa el ferrocarril troncal",
+            "fr": "Le chemin de fer troncal est achevé"
+          },
+          "desc": {
+            "zh-TW": "基隆到高雄一日可達，全島第一次被鐵路縫起來。",
+            "en": "Keelung to Kaohsiung in a single day — the island is stitched together by rail for the first time.",
+            "ja": "基隆から高雄まで一日で到達。島が初めて鉄道でひとつに縫い合わされた。",
+            "ko": "지룽에서 가오슝까지 하루 만에 닿게 되며, 섬이 처음으로 철도로 이어졌다.",
+            "es": "De Keelung a Kaohsiung en un día: la isla queda cosida por el ferrocarril por primera vez.",
+            "fr": "De Keelung à Kaohsiung en un jour — l'île est cousue par le rail pour la première fois."
+          },
+          "link": "History/台灣鐵道史"
+        },
+        {
+          "year": "1915",
+          "title": {
+            "zh-TW": "西來庵事件",
+            "en": "The Tapani (Xilai Temple) Incident",
+            "ja": "西来庵事件",
+            "ko": "시라이안 사건",
+            "es": "El incidente de Tapani",
+            "fr": "L'incident de Tapani"
+          },
+          "desc": {
+            "zh-TW": "最後一場大規模武裝抗日；此後反抗運動轉向政治與文化。",
+            "en": "The last large-scale armed uprising; resistance turns to politics and culture thereafter.",
+            "ja": "最後の大規模武装蜂起。以後、抵抗運動は政治と文化へ向かう。",
+            "ko": "마지막 대규모 무장 봉기. 이후 저항 운동은 정치와 문화로 향한다.",
+            "es": "El último gran levantamiento armado; la resistencia se vuelve política y cultural.",
+            "fr": "Le dernier grand soulèvement armé ; la résistance devient politique et culturelle."
+          }
+        },
+        {
+          "year": "1921",
+          "title": {
+            "zh-TW": "台灣文化協會成立",
+            "en": "The Taiwan Cultural Association is founded",
+            "ja": "台湾文化協会が発足",
+            "ko": "타이완 문화협회 창립",
+            "es": "Se funda la Asociación Cultural de Taiwán",
+            "fr": "Fondation de l'Association culturelle de Taïwan"
+          },
+          "desc": {
+            "zh-TW": "蔣渭水與林獻堂發起，演講、讀報與議會請願啟蒙一整個世代。",
+            "en": "Founded by Chiang Wei-shui and Lin Hsien-tang; lectures, reading circles and parliament petitions awaken a generation.",
+            "ja": "蔣渭水と林献堂が発起。講演会、読報会、議会設置請願が世代全体を啓蒙する。",
+            "ko": "장웨이수이와 린셴탕이 발기했다. 강연과 신문 읽기 모임, 의회 청원이 한 세대를 일깨웠다.",
+            "es": "Fundada por Chiang Wei-shui y Lin Hsien-tang; charlas, círculos de lectura y peticiones despiertan a una generación.",
+            "fr": "Fondée par Chiang Wei-shui et Lin Hsien-tang ; conférences, cercles de lecture et pétitions éveillent une génération."
+          },
+          "link": "People/蔣渭水"
+        },
+        {
+          "year": "1930",
+          "title": {
+            "zh-TW": "霧社事件",
+            "en": "The Musha (Wushe) Incident",
+            "ja": "霧社事件",
+            "ko": "우서 사건",
+            "es": "El incidente de Wushe",
+            "fr": "L'incident de Wushe"
+          },
+          "desc": {
+            "zh-TW": "莫那·魯道率賽德克族人起事，日治時期規模最大的原住民武裝抗日；同年嘉南大圳完工。",
+            "en": "Mona Rudao leads the Seediq uprising, the largest Indigenous armed resistance of the era; the Chianan Canal is completed the same year.",
+            "ja": "モーナ・ルダオ率いるセデック族が蜂起。日本統治期最大の原住民武装抗日となる。同年、嘉南大圳が完成。",
+            "ko": "모나 루다오가 이끄는 세디크족이 봉기한, 일본 통치기 최대의 원주민 무장 항일. 같은 해 자난 대수로가 완공됐다.",
+            "es": "Mona Rudao lidera el alzamiento seediq, la mayor resistencia indígena armada de la era; ese año se termina el canal de Chianan.",
+            "fr": "Mona Rudao mène le soulèvement seediq, la plus grande résistance autochtone armée de l'époque ; le canal de Chianan est achevé la même année."
+          },
+          "link": "People/莫那·魯道"
+        },
+        {
+          "year": "1945",
+          "title": {
+            "zh-TW": "二戰結束",
+            "en": "World War II ends",
+            "ja": "第二次世界大戦が終結",
+            "ko": "제2차 세계대전 종전",
+            "es": "Termina la Segunda Guerra Mundial",
+            "fr": "Fin de la Seconde Guerre mondiale"
+          },
+          "desc": {
+            "zh-TW": "日本投降，五十年殖民統治落幕。",
+            "en": "Japan surrenders; fifty years of colonial rule come to an end.",
+            "ja": "日本が降伏し、50年の植民地統治が幕を下ろす。",
+            "ko": "일본이 항복하며 50년의 식민 통치가 막을 내린다.",
+            "es": "Japón se rinde; terminan cincuenta años de dominio colonial.",
+            "fr": "Le Japon capitule ; cinquante ans de domination coloniale s'achèvent."
+          }
+        }
+      ],
+      "anchors": ["History/日治時期"],
+      "articles": [
+        "History/乙未之役",
+        "History/日治時期臺灣社會運動",
+        "History/蓬萊米",
+        "History/台灣鐵道史",
+        "Art/日治時期文學",
+        "Geography/西門町"
+      ],
+      "figures": [
+        {
+          "ref": "People/蔣渭水",
+          "name": {
+            "zh-TW": "蔣渭水",
+            "en": "Chiang Wei-shui",
+            "ja": "蔣渭水",
+            "ko": "장위수",
+            "es": "Chiang Wei-shui",
+            "fr": "Chiang Wei-shui"
+          }
+        },
+        {
+          "ref": "People/八田與一",
+          "name": {
+            "zh-TW": "八田與一",
+            "en": "Yoichi Hatta",
+            "ja": "八田與一",
+            "ko": "핫타 요이치",
+            "es": "Yoichi Hatta",
+            "fr": "Hatta Yoichi"
+          }
+        },
+        {
+          "ref": "People/莫那·魯道",
+          "name": {
+            "zh-TW": "莫那·魯道",
+            "en": "Mona Rudao",
+            "ja": "モーナ・ルダオ",
+            "ko": "모나·루다오",
+            "es": "Mona Rudao",
+            "fr": "Mona Rudao"
+          }
+        },
+        {
+          "ref": "People/杜聰明",
+          "name": {
+            "zh-TW": "杜聰明",
+            "en": "Du Congming",
+            "ja": "杜聰明",
+            "ko": "두총명",
+            "es": "Du Congming",
+            "fr": "Du Cong-ming"
+          }
+        },
+        {
+          "ref": "People/賴和",
+          "name": {
+            "zh-TW": "賴和",
+            "en": "Lai Ho",
+            "ja": "賴和",
+            "ko": "라이허",
+            "es": "Lai Ho",
+            "fr": "Lai Ho"
+          }
+        },
+        {
+          "ref": "People/鄧雨賢",
+          "name": {
+            "zh-TW": "鄧雨賢",
+            "en": "Deng Yuxian",
+            "ja": "鄧雨賢",
+            "ko": "덩위셴",
+            "es": "Deng Yuxian",
+            "fr": "Deng Yu-xian"
+          }
+        },
+        {
+          "ref": "People/陳澄波",
+          "name": {
+            "zh-TW": "陳澄波",
+            "en": "Chen Cheng-po",
+            "ja": "陳澄波",
+            "ko": "천청보",
+            "es": "Chen Cheng-po",
+            "fr": "Chen Cheng-po"
+          }
+        }
+      ]
+    },
+    {
+      "id": "postwar",
+      "color": "#5f6672",
+      "yearsLabel": "1945–1987",
+      "title": {
+        "zh-TW": "戒嚴的年代",
+        "en": "The Martial Law Years",
+        "ja": "戒厳の時代",
+        "ko": "계엄의 시대",
+        "es": "Los años de la ley marcial",
+        "fr": "Les années de loi martiale"
+      },
+      "subtitle": {
+        "zh-TW": "戰後台灣",
+        "en": "Postwar Taiwan",
+        "ja": "戦後台湾",
+        "ko": "전후 타이완",
+        "es": "El Taiwán de posguerra",
+        "fr": "Taïwan d'après-guerre"
+      },
+      "intro": {
+        "zh-TW": "戰後的台灣在期待中迎來新政府，卻在 1947 年的槍聲裡碎裂。二二八之後是三十八年的戒嚴與白色恐怖；同一段時間，土地改革、加工出口區與十大建設把台灣推成「經濟奇蹟」。壓抑與起飛並存，是這個年代的兩張臉。",
+        "en": "Postwar Taiwan welcomed its new government with hope, only to be shattered by gunfire in 1947. After the 228 Incident came thirty-eight years of martial law and White Terror; in those same decades, land reform, export processing zones and the Ten Major Construction Projects propelled Taiwan into an 'economic miracle'. Repression and takeoff, side by side — the two faces of this era.",
+        "ja": "戦後の台湾は期待のなかで新政府を迎えたが、1947年の銃声で砕かれた。二・二八事件の後には38年の戒厳令と白色テロが続く。同じ時代に、土地改革、輸出加工区、十大建設が台湾を「経済奇跡」へ押し上げた。抑圧と離陸の共存——それがこの時代の二つの顔である。",
+        "ko": "전후 타이완은 기대 속에 새 정부를 맞았지만 1947년의 총성으로 부서졌다. 2·28 사건 이후 38년의 계엄과 백색테러가 이어졌다. 같은 시기에 토지개혁, 수출가공구, 10대 건설이 타이완을 '경제 기적'으로 밀어올렸다. 억압과 도약의 공존, 그것이 이 시대의 두 얼굴이다.",
+        "es": "El Taiwán de posguerra recibió con esperanza a su nuevo gobierno, hasta que los disparos de 1947 lo quebraron. Tras el Incidente 228 vinieron treinta y ocho años de ley marcial y Terror Blanco; en esas mismas décadas, la reforma agraria, las zonas de procesamiento de exportaciones y las Diez Grandes Construcciones impulsaron el «milagro económico». Represión y despegue, las dos caras de esta era.",
+        "fr": "Taïwan d'après-guerre accueillit son nouveau gouvernement avec espoir, avant d'être brisée par les coups de feu de 1947. Après l'incident 228 vinrent trente-huit ans de loi martiale et de Terreur blanche ; dans les mêmes décennies, réforme agraire, zones franches d'exportation et Dix Grands Chantiers propulsèrent le « miracle économique ». Répression et décollage, côte à côte — les deux visages de cette époque."
+      },
+      "events": [
+        {
+          "year": "1945",
+          "title": {
+            "zh-TW": "中華民國接收台灣",
+            "en": "The Republic of China takes over Taiwan",
+            "ja": "中華民国が台湾を接収",
+            "ko": "중화민국의 타이완 접수",
+            "es": "La República de China asume Taiwán",
+            "fr": "La République de Chine reprend Taïwan"
+          },
+          "desc": {
+            "zh-TW": "二戰結束，行政長官公署接收台灣，台灣人普遍抱著脫離殖民的期待。",
+            "en": "As WWII ends, the provincial administration takes over; Taiwanese widely hope for an end to colonial rule.",
+            "ja": "終戦後、行政長官公署が台湾を接収。台湾人は植民地からの脱却に期待を抱いた。",
+            "ko": "종전 후 행정장관공서가 타이완을 접수했고, 타이완인들은 식민 지배의 종식을 기대했다.",
+            "es": "Al acabar la guerra, la administración provincial asume el control; los taiwaneses esperan dejar atrás el colonialismo.",
+            "fr": "À la fin de la guerre, l'administration provinciale prend le relais ; les Taïwanais espèrent en finir avec le colonialisme."
+          },
+          "link": "History/國民政府遷台與戰後重建"
+        },
+        {
+          "year": "1947",
+          "title": {
+            "zh-TW": "二二八事件",
+            "en": "The 228 Incident",
+            "ja": "二・二八事件",
+            "ko": "2·28 사건",
+            "es": "El Incidente 228",
+            "fr": "L'incident 228"
+          },
+          "desc": {
+            "zh-TW": "查緝私菸的衝突蔓延全島，政府鎮壓造成大量死傷，成為此後數十年的禁忌。",
+            "en": "A crackdown on contraband cigarettes ignites island-wide unrest; the government's suppression kills many and becomes a taboo for decades.",
+            "ja": "闇タバコ摘発の衝突が全島に広がり、政府の鎮圧で多数の死傷者が出た。以後数十年の禁忌となる。",
+            "ko": "밀수 담배 단속에서 비롯된 충돌이 섬 전체로 번졌고, 정부의 진압으로 많은 사상자가 났다. 이후 수십 년의 금기가 됐다.",
+            "es": "Una redada contra cigarrillos de contrabando desata disturbios en toda la isla; la represión causa numerosas víctimas y se vuelve tabú durante décadas.",
+            "fr": "Une descente contre des cigarettes de contrebande embrase toute l'île ; la répression fait de nombreuses victimes et devient un tabou pour des décennies."
+          },
+          "link": "History/二二八事件"
+        },
+        {
+          "year": "1949",
+          "title": {
+            "zh-TW": "戒嚴與遷台",
+            "en": "Martial law and the retreat to Taiwan",
+            "ja": "戒厳令と台湾移転",
+            "ko": "계엄령과 타이완 이전",
+            "es": "Ley marcial y retirada a Taiwán",
+            "fr": "Loi martiale et repli sur Taïwan"
+          },
+          "desc": {
+            "zh-TW": "中華民國政府遷台；戒嚴令實施 38 年 56 天，白色恐怖時代開始。",
+            "en": "The ROC government retreats to Taiwan; martial law lasts 38 years and 56 days, and the White Terror begins.",
+            "ja": "中華民国政府が台湾へ移転。戒厳令は38年56日続き、白色テロの時代が始まる。",
+            "ko": "중화민국 정부가 타이완으로 옮겨온다. 계엄령은 38년 56일간 이어졌고 백색테러의 시대가 시작됐다.",
+            "es": "El gobierno de la República de China se retira a Taiwán; la ley marcial dura 38 años y 56 días y comienza el Terror Blanco.",
+            "fr": "Le gouvernement de la République de Chine se replie sur Taïwan ; la loi martiale durera 38 ans et 56 jours, la Terreur blanche commence."
+          },
+          "link": "History/戒嚴時期"
+        },
+        {
+          "year": {
+            "zh-TW": "1950 年代",
+            "en": "1950s",
+            "ja": "1950年代",
+            "ko": "1950년대",
+            "es": "Años 1950",
+            "fr": "Années 1950"
+          },
+          "title": {
+            "zh-TW": "土地改革",
+            "en": "Land reform",
+            "ja": "土地改革",
+            "ko": "토지개혁",
+            "es": "Reforma agraria",
+            "fr": "Réforme agraire"
+          },
+          "desc": {
+            "zh-TW": "從三七五減租到耕者有其田，農村結構重組，為工業化鋪路。",
+            "en": "From rent reduction to 'land to the tiller', rural society is restructured, paving the way for industrialization.",
+            "ja": "三七五減租から耕者有其田へ。農村構造が再編され、工業化への道が敷かれた。",
+            "ko": "소작료 인하에서 경자유전까지, 농촌 구조가 재편되며 공업화의 길이 닦였다.",
+            "es": "De la rebaja de rentas al «la tierra para quien la trabaja»: el campo se reestructura y abre paso a la industrialización.",
+            "fr": "De la baisse des fermages à « la terre au laboureur », les campagnes se restructurent, ouvrant la voie à l'industrialisation."
+          }
+        },
+        {
+          "year": "1971",
+          "title": {
+            "zh-TW": "退出聯合國",
+            "en": "Leaving the United Nations",
+            "ja": "国連脱退",
+            "ko": "유엔 탈퇴",
+            "es": "Salida de la ONU",
+            "fr": "Départ de l'ONU"
+          },
+          "desc": {
+            "zh-TW": "10 月 25 日，中華民國失去聯合國席位，台灣的國際處境劇變。",
+            "en": "On October 25 the ROC loses its UN seat; Taiwan's international standing changes drastically.",
+            "ja": "10月25日、中華民国は国連の議席を失い、台湾の国際的立場は激変する。",
+            "ko": "10월 25일 중화민국이 유엔 의석을 잃으며 타이완의 국제적 처지가 급변한다.",
+            "es": "El 25 de octubre la República de China pierde su asiento en la ONU; la posición internacional de Taiwán cambia drásticamente.",
+            "fr": "Le 25 octobre, la République de Chine perd son siège à l'ONU ; la position internationale de Taïwan bascule."
+          },
+          "link": "History/退出聯合國"
+        },
+        {
+          "year": "1973",
+          "title": {
+            "zh-TW": "十大建設",
+            "en": "The Ten Major Construction Projects",
+            "ja": "十大建設",
+            "ko": "10대 건설",
+            "es": "Las Diez Grandes Construcciones",
+            "fr": "Les Dix Grands Chantiers"
+          },
+          "desc": {
+            "zh-TW": "石油危機中逆勢投資基礎建設，高速公路、大煉鋼廠與桃園機場陸續完成。",
+            "en": "Counter-cyclical infrastructure investment amid the oil crisis: the freeway, steel mill and Taoyuan airport follow.",
+            "ja": "石油危機のさなかに逆張りのインフラ投資。高速道路、製鉄所、桃園空港が次々に完成する。",
+            "ko": "석유 위기 속의 역발상 인프라 투자. 고속도로, 제철소, 타오위안 공항이 잇따라 완공된다.",
+            "es": "Inversión en infraestructuras a contracorriente durante la crisis del petróleo: autopista, acería y aeropuerto de Taoyuan.",
+            "fr": "Investissements d'infrastructure à contre-courant pendant la crise pétrolière : autoroute, aciérie et aéroport de Taoyuan."
+          },
+          "link": "History/十大建設"
+        },
+        {
+          "year": "1979",
+          "title": {
+            "zh-TW": "美麗島事件",
+            "en": "The Formosa (Meilidao) Incident",
+            "ja": "美麗島事件",
+            "ko": "메이리다오 사건",
+            "es": "El incidente de Formosa",
+            "fr": "L'incident de Formosa"
+          },
+          "desc": {
+            "zh-TW": "12 月 10 日高雄的人權遊行遭鎮壓；其後的大審判反而喚醒整個社會。",
+            "en": "A human-rights march in Kaohsiung on December 10 is suppressed; the trials that follow awaken society instead.",
+            "ja": "12月10日、高雄の人権デモが鎮圧される。しかし続く大裁判が、かえって社会を目覚めさせた。",
+            "ko": "12월 10일 가오슝의 인권 행진이 진압됐지만, 뒤이은 재판이 오히려 사회를 일깨웠다.",
+            "es": "La marcha por los derechos humanos en Kaohsiung el 10 de diciembre es reprimida; los juicios posteriores despiertan a la sociedad.",
+            "fr": "La marche pour les droits humains à Kaohsiung, le 10 décembre, est réprimée ; les procès qui suivent réveillent la société."
+          },
+          "link": "History/美麗島事件"
+        },
+        {
+          "year": "1980",
+          "title": {
+            "zh-TW": "新竹科學園區成立",
+            "en": "The Hsinchu Science Park opens",
+            "ja": "新竹サイエンスパーク設立",
+            "ko": "신주 과학단지 설립",
+            "es": "Abre el Parque Científico de Hsinchu",
+            "fr": "Ouverture du parc scientifique de Hsinchu"
+          },
+          "desc": {
+            "zh-TW": "半導體產業在此起步，日後長成「護國群山」。",
+            "en": "The semiconductor industry takes root here, later growing into the 'sacred mountains protecting the nation'.",
+            "ja": "半導体産業がここから歩み出し、のちに「護国の山々」へと育つ。",
+            "ko": "반도체 산업이 이곳에서 첫발을 떼어, 훗날 '나라를 지키는 산맥'으로 자란다.",
+            "es": "La industria de semiconductores echa raíces aquí y crecerá hasta ser las «montañas que protegen la nación».",
+            "fr": "L'industrie des semi-conducteurs y prend racine, avant de devenir les « montagnes sacrées protégeant la nation »."
+          },
+          "link": "Technology/半導體產業"
+        }
+      ],
+      "anchors": ["History/二二八事件", "History/戒嚴時期"],
+      "articles": [
+        "History/國民政府遷台與戰後重建",
+        "History/台灣白色恐怖",
+        "History/綠島監獄",
+        "History/台灣眷村歷史",
+        "Economy/經濟奇蹟",
+        "History/十大建設",
+        "History/退出聯合國",
+        "History/美麗島事件",
+        "History/心戰",
+        "Society/外省人",
+        "Music/台灣民歌運動"
+      ],
+      "figures": [
+        {
+          "ref": "People/蔣中正",
+          "name": {
+            "zh-TW": "蔣中正",
+            "en": "Chiang Kai-shek",
+            "ja": "蔣中正",
+            "ko": "장제스",
+            "es": "Chiang Kai-shek",
+            "fr": "Tchang Kaï-chek"
+          }
+        },
+        {
+          "ref": "People/孫運璿",
+          "name": {
+            "zh-TW": "孫運璿",
+            "en": "Sun Yun-suan",
+            "ja": "孫運璿",
+            "ko": "손윤쉐안",
+            "es": "Sun Yun-suan",
+            "fr": "Sun Yun-suan"
+          }
+        },
+        {
+          "ref": "People/陳映真",
+          "name": {
+            "zh-TW": "陳映真",
+            "en": "Chen Yingzhen",
+            "ja": "陳映真",
+            "ko": "천잉전",
+            "es": "Chen Yingzhen",
+            "fr": "Chen Yingzhen"
+          }
+        },
+        {
+          "ref": "People/三毛",
+          "name": {
+            "zh-TW": "三毛",
+            "en": "San Mao",
+            "ja": "三毛",
+            "ko": "三毛",
+            "es": "San Mao",
+            "fr": "San Mao"
+          }
+        },
+        {
+          "ref": "People/郭金發",
+          "name": {
+            "zh-TW": "郭金發",
+            "en": "Kuo Chin-fa",
+            "ja": "郭金発",
+            "ko": "궈진파오",
+            "es": "Kuo Chin-fa",
+            "fr": "Kuo Chin-fa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "democratization",
+      "color": "#b45309",
+      "yearsLabel": "1987–2000",
+      "title": {
+        "zh-TW": "寧靜革命",
+        "en": "The Quiet Revolution",
+        "ja": "静かなる革命",
+        "ko": "조용한 혁명",
+        "es": "La revolución silenciosa",
+        "fr": "La révolution tranquille"
+      },
+      "subtitle": {
+        "zh-TW": "民主化",
+        "en": "Democratization",
+        "ja": "民主化",
+        "ko": "민주화",
+        "es": "Democratización",
+        "fr": "Démocratisation"
+      },
+      "intro": {
+        "zh-TW": "從解嚴到首次政黨輪替只用了十三年。街頭、法庭、國會與投票所輪流當主場，一部憲政體制在不流血的改革中被翻新——台灣用一場「寧靜革命」把自己變成民主國家。",
+        "en": "From the end of martial law to the first transfer of power took just thirteen years. Streets, courtrooms, parliament and polling booths took turns as the main stage while a constitutional order was rebuilt without bloodshed — Taiwan made itself a democracy through a 'quiet revolution'.",
+        "ja": "戒厳令の解除から初の政権交代まで、わずか13年。街頭、法廷、国会、投票所が代わる代わる主舞台となり、憲政体制は流血なき改革のなかで刷新された。台湾は「静かなる革命」によって自らを民主国家に変えたのである。",
+        "ko": "계엄 해제에서 첫 정권 교체까지 겨우 13년이 걸렸다. 거리와 법정, 국회와 투표소가 번갈아 주 무대가 되었고, 헌정 체제는 피 흘리지 않는 개혁 속에 새로 쓰였다. 타이완은 '조용한 혁명'으로 스스로를 민주국가로 만들었다.",
+        "es": "Del fin de la ley marcial a la primera alternancia pasaron solo trece años. Calles, tribunales, parlamento y urnas se turnaron como escenario principal mientras el orden constitucional se renovaba sin derramar sangre: Taiwán se hizo democracia mediante una «revolución silenciosa».",
+        "fr": "De la levée de la loi martiale à la première alternance, il ne fallut que treize ans. Rues, tribunaux, parlement et urnes se relayèrent comme scène principale tandis que l'ordre constitutionnel se refondait sans effusion de sang — Taïwan s'est faite démocratie par une « révolution tranquille »."
+      },
+      "events": [
+        {
+          "year": "1986",
+          "title": {
+            "zh-TW": "民進黨成立",
+            "en": "The DPP is founded",
+            "ja": "民進党結成",
+            "ko": "민진당 창당",
+            "es": "Se funda el PDP",
+            "fr": "Fondation du PDP"
+          },
+          "desc": {
+            "zh-TW": "9 月 28 日，戒嚴令尚未解除，第一個實質反對黨先誕生了。",
+            "en": "On September 28, with martial law still in force, the first real opposition party is born.",
+            "ja": "9月28日、戒厳令がまだ解かれぬうちに、最初の実質的な野党が誕生した。",
+            "ko": "9월 28일, 계엄령이 풀리기도 전에 첫 실질적 야당이 먼저 태어났다.",
+            "es": "El 28 de septiembre, con la ley marcial aún vigente, nace el primer partido opositor real.",
+            "fr": "Le 28 septembre, la loi martiale encore en vigueur, le premier vrai parti d'opposition voit le jour."
+          },
+          "link": "History/台灣選舉與政黨政治"
+        },
+        {
+          "year": "1987",
+          "title": {
+            "zh-TW": "解除戒嚴",
+            "en": "Martial law is lifted",
+            "ja": "戒厳令解除",
+            "ko": "계엄 해제",
+            "es": "Se levanta la ley marcial",
+            "fr": "Levée de la loi martiale"
+          },
+          "desc": {
+            "zh-TW": "7 月 15 日，38 年戒嚴落幕。",
+            "en": "On July 15, thirty-eight years of martial law come to an end.",
+            "ja": "7月15日、38年におよぶ戒厳令が幕を下ろす。",
+            "ko": "7월 15일, 38년의 계엄이 막을 내린다.",
+            "es": "El 15 de julio terminan treinta y ocho años de ley marcial.",
+            "fr": "Le 15 juillet, trente-huit ans de loi martiale prennent fin."
+          },
+          "link": "History/戒嚴時期"
+        },
+        {
+          "year": "1990",
+          "title": {
+            "zh-TW": "野百合學運",
+            "en": "The Wild Lily student movement",
+            "ja": "野百合学生運動",
+            "ko": "들백합 학생운동",
+            "es": "El movimiento estudiantil del Lirio Silvestre",
+            "fr": "Le mouvement étudiant du Lys sauvage"
+          },
+          "desc": {
+            "zh-TW": "3 月 16 日起，學生集結中正紀念堂廣場，要求國會全面改選、廢除臨時條款。",
+            "en": "From March 16, students fill Chiang Kai-shek Memorial plaza, demanding full parliamentary re-election and an end to the Temporary Provisions.",
+            "ja": "3月16日から学生が中正紀念堂広場に集結し、国会の全面改選と臨時条項の廃止を求めた。",
+            "ko": "3월 16일부터 학생들이 중정기념당 광장에 모여 국회 전면 개선과 임시조관 폐지를 요구했다.",
+            "es": "Desde el 16 de marzo los estudiantes llenan la plaza del Memorial de Chiang Kai-shek exigiendo la reelección total del parlamento.",
+            "fr": "À partir du 16 mars, les étudiants occupent l'esplanade du mémorial Tchang Kaï-chek, exigeant le renouvellement complet du parlement."
+          },
+          "link": "Society/野百合學運"
+        },
+        {
+          "year": "1991",
+          "title": {
+            "zh-TW": "憲政改革啟動",
+            "en": "Constitutional reform begins",
+            "ja": "憲政改革が始動",
+            "ko": "헌정 개혁 시작",
+            "es": "Comienza la reforma constitucional",
+            "fr": "Début de la réforme constitutionnelle"
+          },
+          "desc": {
+            "zh-TW": "廢除動員戡亂時期臨時條款，「萬年國會」退場，隔年立法院全面改選。",
+            "en": "The Temporary Provisions are abolished and the 'eternal parliament' retires; the Legislative Yuan is fully re-elected the next year.",
+            "ja": "動員戡乱時期臨時条項が廃止され、「万年国会」が退場。翌年、立法院は全面改選される。",
+            "ko": "동원감란시기 임시조관이 폐지되고 '만년국회'가 물러났다. 이듬해 입법원이 전면 개선된다.",
+            "es": "Se derogan las Disposiciones Temporales y el «parlamento eterno» se retira; al año siguiente se renueva todo el Yuan Legislativo.",
+            "fr": "Les Dispositions temporaires sont abolies, le « parlement éternel » se retire ; le Yuan législatif est entièrement renouvelé l'année suivante."
+          },
+          "link": "History/台灣民主轉型"
+        },
+        {
+          "year": "1996",
+          "title": {
+            "zh-TW": "首次總統直選",
+            "en": "The first direct presidential election",
+            "ja": "初の総統直接選挙",
+            "ko": "첫 총통 직선",
+            "es": "Primera elección presidencial directa",
+            "fr": "Première élection présidentielle directe"
+          },
+          "desc": {
+            "zh-TW": "3 月 23 日，台灣人第一次直接選出自己的總統。",
+            "en": "On March 23, the Taiwanese people directly elect their president for the first time.",
+            "ja": "3月23日、台湾の人びとが初めて自らの手で総統を選んだ。",
+            "ko": "3월 23일, 타이완 사람들이 처음으로 자신의 총통을 직접 뽑았다.",
+            "es": "El 23 de marzo, los taiwaneses eligen directamente a su presidente por primera vez.",
+            "fr": "Le 23 mars, les Taïwanais élisent directement leur président pour la première fois."
+          },
+          "link": "History/民主化"
+        },
+        {
+          "year": "2000",
+          "title": {
+            "zh-TW": "首次政黨輪替",
+            "en": "The first transfer of power",
+            "ja": "初の政権交代",
+            "ko": "첫 정권 교체",
+            "es": "Primera alternancia en el poder",
+            "fr": "Première alternance au pouvoir"
+          },
+          "desc": {
+            "zh-TW": "陳水扁當選總統，政權和平轉移，民主鞏固跨出關鍵一步。",
+            "en": "Chen Shui-bian wins the presidency; power changes hands peacefully — a key step in consolidating democracy.",
+            "ja": "陳水扁が総統に当選し、政権は平和裏に移行。民主主義の定着へ決定的な一歩となる。",
+            "ko": "천수이볜이 총통에 당선되고 정권이 평화적으로 이양된다. 민주주의 공고화의 결정적 한 걸음이었다.",
+            "es": "Chen Shui-bian gana la presidencia; el poder cambia de manos en paz, un paso clave para consolidar la democracia.",
+            "fr": "Chen Shui-bian remporte la présidence ; le pouvoir change de mains pacifiquement — une étape clé de la consolidation démocratique."
+          },
+          "link": "People/陳水扁"
+        }
+      ],
+      "anchors": ["History/台灣民主轉型"],
+      "articles": [
+        "History/民主化",
+        "Society/野百合學運",
+        "History/台灣選舉與政黨政治",
+        "History/臺灣前途決議文",
+        "Society/民主制度"
+      ],
+      "figures": [
+        {
+          "ref": "People/李登輝",
+          "name": {
+            "zh-TW": "李登輝",
+            "en": "Lee Teng-hui",
+            "ja": "李登輝",
+            "ko": "이덩후이",
+            "es": "Lee Teng-hui",
+            "fr": "Lee Teng-hui"
+          }
+        },
+        {
+          "ref": "People/鄭南榕",
+          "name": {
+            "zh-TW": "鄭南榕",
+            "en": "Zheng Nanrong",
+            "ja": "鄭南榕",
+            "ko": "정남용",
+            "es": "Zheng Nanrong",
+            "fr": "Zheng Nanrong"
+          }
+        },
+        {
+          "ref": "People/施明德",
+          "name": {
+            "zh-TW": "施明德",
+            "en": "Shih Ming-te",
+            "ja": "施明德",
+            "ko": "스밍더",
+            "es": "Shih Ming-teh",
+            "fr": "Shih Ming-teh"
+          }
+        },
+        {
+          "ref": "People/呂秀蓮",
+          "name": {
+            "zh-TW": "呂秀蓮",
+            "en": "Annette Lu Hsiu-lien",
+            "ja": "呂秀蓮",
+            "ko": "뤼슈렌",
+            "es": "Annette Lu",
+            "fr": "Annette Lu"
+          }
+        },
+        {
+          "ref": "People/陳菊",
+          "name": {
+            "zh-TW": "陳菊",
+            "en": "Chen Chu",
+            "ja": "陳菊",
+            "ko": "진국",
+            "es": "Chen Chu",
+            "fr": "Chen Chu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "contemporary",
+      "color": "#0f766e",
+      "yearsLabel": {
+        "zh-TW": "2000–現在",
+        "en": "2000–present",
+        "ja": "2000–現在",
+        "ko": "2000–현재",
+        "es": "2000–presente",
+        "fr": "2000–aujourd'hui"
+      },
+      "title": {
+        "zh-TW": "交會仍在進行",
+        "en": "The Crossroads Continues",
+        "ja": "交わりはつづく",
+        "ko": "교차는 계속된다",
+        "es": "El cruce continúa",
+        "fr": "La rencontre continue"
+      },
+      "subtitle": {
+        "zh-TW": "當代台灣",
+        "en": "Contemporary Taiwan",
+        "ja": "現代台湾",
+        "ko": "현대 타이완",
+        "es": "Taiwán contemporáneo",
+        "fr": "Taïwan contemporain"
+      },
+      "intro": {
+        "zh-TW": "政黨輪替成為日常，公民社會學會上街，也學會立法。半導體把這座島放進全世界的口袋，同婚合法化讓它成為亞洲第一；地緣張力沒有消失，但台灣人已經習慣一邊面對，一邊把日子過成自己的樣子。歷史沒有寫完——最新的一段，正在你我手上。",
+        "en": "Transfers of power became routine; civil society learned to take the streets and to legislate. Semiconductors put this island in everyone's pocket, and marriage equality made it Asia's first; geopolitical tension has not gone away, but the Taiwanese have learned to face it while living life on their own terms. History is not finished — its newest chapter is being written by you and me.",
+        "ja": "政権交代は日常になり、市民社会は街頭に出ることも、立法することも学んだ。半導体はこの島を世界中のポケットに入れ、同性婚の合法化はアジア初となった。地政学的な緊張は消えていないが、台湾の人びとはそれと向き合いながら、自分らしい日々を生きることに慣れている。歴史はまだ書き終わっていない——最新の一節は、あなたとわたしの手の中にある。",
+        "ko": "정권 교체는 일상이 되었고, 시민사회는 거리로 나서는 법도 입법하는 법도 배웠다. 반도체는 이 섬을 전 세계의 주머니에 넣었고, 동성혼 합법화는 아시아 최초가 되었다. 지정학적 긴장은 사라지지 않았지만, 타이완 사람들은 그것을 마주하면서도 자기다운 일상을 살아가는 데 익숙해졌다. 역사는 아직 다 쓰이지 않았다. 가장 새로운 한 단락은 당신과 나의 손에 있다.",
+        "es": "La alternancia se volvió rutina; la sociedad civil aprendió a salir a la calle y a legislar. Los semiconductores metieron esta isla en el bolsillo del mundo y el matrimonio igualitario la hizo primera en Asia; la tensión geopolítica no ha desaparecido, pero los taiwaneses han aprendido a afrontarla mientras viven a su manera. La historia no está terminada: su capítulo más nuevo se escribe entre tú y yo.",
+        "fr": "L'alternance est devenue routine ; la société civile a appris à descendre dans la rue comme à légiférer. Les semi-conducteurs ont mis cette île dans la poche du monde entier, et le mariage pour tous en a fait la première en Asie ; la tension géopolitique n'a pas disparu, mais les Taïwanais ont appris à l'affronter tout en vivant à leur façon. L'histoire n'est pas finie — son chapitre le plus récent s'écrit entre vous et moi."
+      },
+      "events": [
+        {
+          "year": "2014",
+          "title": {
+            "zh-TW": "太陽花學運",
+            "en": "The Sunflower Movement",
+            "ja": "ひまわり学生運動",
+            "ko": "해바라기 운동",
+            "es": "El Movimiento Girasol",
+            "fr": "Le mouvement des Tournesols"
+          },
+          "desc": {
+            "zh-TW": "學生佔領立法院 24 天，重新定義了公民參與。",
+            "en": "Students occupy the Legislative Yuan for 24 days, redefining civic participation.",
+            "ja": "学生が立法院を24日間占拠し、市民参加を定義し直した。",
+            "ko": "학생들이 입법원을 24일간 점거하며 시민 참여를 다시 정의했다.",
+            "es": "Los estudiantes ocupan el Yuan Legislativo durante 24 días y redefinen la participación ciudadana.",
+            "fr": "Les étudiants occupent le Yuan législatif pendant 24 jours et redéfinissent la participation citoyenne."
+          },
+          "link": "Society/太陽花學運"
+        },
+        {
+          "year": "2017",
+          "title": {
+            "zh-TW": "釋字第 748 號",
+            "en": "Interpretation No. 748",
+            "ja": "司法院釈字第748号",
+            "ko": "대법관 해석 제748호",
+            "es": "Interpretación n.º 748",
+            "fr": "Interprétation n° 748"
+          },
+          "desc": {
+            "zh-TW": "大法官宣告民法未保障同婚違憲——亞洲第一個由最高司法機關承認同婚權利的國家。",
+            "en": "The grand justices rule that excluding same-sex marriage is unconstitutional — a first for any top court in Asia.",
+            "ja": "大法官が、同性婚を保障しない民法を違憲と判断。アジアで初めて最高司法機関が同性婚の権利を認めた。",
+            "ko": "대법관들이 동성혼을 보장하지 않는 민법을 위헌으로 판단했다. 아시아 최초로 최고 사법기관이 동성혼 권리를 인정한 것이다.",
+            "es": "Los magistrados declaran inconstitucional excluir el matrimonio igualitario: primera vez en Asia que lo hace un alto tribunal.",
+            "fr": "Les grands juges déclarent inconstitutionnelle l'exclusion du mariage homosexuel — une première pour une haute cour en Asie."
+          },
+          "link": "Society/台灣同婚與性別平權"
+        },
+        {
+          "year": "2018",
+          "title": {
+            "zh-TW": "國家人權博物館成立",
+            "en": "The National Human Rights Museum opens",
+            "ja": "国家人権博物館が開館",
+            "ko": "국가인권박물관 개관",
+            "es": "Abre el Museo Nacional de Derechos Humanos",
+            "fr": "Ouverture du Musée national des droits humains"
+          },
+          "desc": {
+            "zh-TW": "白色恐怖的不義遺址成為面向公眾的記憶機構。",
+            "en": "Sites of White Terror injustice become public institutions of memory.",
+            "ja": "白色テロの不義の遺跡が、公衆に開かれた記憶の機関となる。",
+            "ko": "백색테러의 불의의 현장이 대중을 향한 기억의 기관이 된다.",
+            "es": "Los lugares de la injusticia del Terror Blanco se convierten en instituciones públicas de memoria.",
+            "fr": "Les lieux d'injustice de la Terreur blanche deviennent des institutions publiques de mémoire."
+          },
+          "link": "History/國家人權博物館"
+        },
+        {
+          "year": "2019",
+          "title": {
+            "zh-TW": "同婚合法化",
+            "en": "Marriage equality becomes law",
+            "ja": "同性婚が合法化",
+            "ko": "동성혼 합법화",
+            "es": "El matrimonio igualitario es ley",
+            "fr": "Le mariage pour tous devient loi"
+          },
+          "desc": {
+            "zh-TW": "5 月 24 日專法施行，台灣成為亞洲第一個同婚合法的國家。",
+            "en": "The special act takes effect on May 24; Taiwan becomes the first country in Asia to legalize same-sex marriage.",
+            "ja": "5月24日に特別法が施行され、台湾はアジアで初めて同性婚を合法化した国となる。",
+            "ko": "5월 24일 특별법이 시행되며, 타이완은 아시아 최초로 동성혼을 합법화한 나라가 된다.",
+            "es": "La ley especial entra en vigor el 24 de mayo; Taiwán es el primer país de Asia en legalizar el matrimonio igualitario.",
+            "fr": "La loi spéciale entre en vigueur le 24 mai ; Taïwan devient le premier pays d'Asie à légaliser le mariage homosexuel."
+          },
+          "link": "Society/台灣同婚與性別平權"
+        },
+        {
+          "year": "2025",
+          "title": {
+            "zh-TW": "大罷免",
+            "en": "The Great Recall",
+            "ja": "大リコール",
+            "ko": "대파면 운동",
+            "es": "La Gran Revocatoria",
+            "fr": "Le Grand Rappel"
+          },
+          "desc": {
+            "zh-TW": "朝小野大的格局下爆發史上最大規模罷免行動，公民動能持續改寫規則。",
+            "en": "Under a divided government, the largest recall campaign in history erupts; civic energy keeps rewriting the rules.",
+            "ja": "少数与党の構図の下、史上最大規模のリコール運動が起こる。市民のエネルギーはルールを書き換え続けている。",
+            "ko": "여소야대 구도에서 사상 최대 규모의 파면 운동이 일어난다. 시민의 동력은 계속 규칙을 다시 쓰고 있다.",
+            "es": "Bajo un gobierno dividido estalla la mayor campaña revocatoria de la historia; la energía cívica sigue reescribiendo las reglas.",
+            "fr": "Dans un contexte de gouvernement minoritaire éclate la plus grande campagne de rappel de l'histoire ; l'énergie citoyenne continue de réécrire les règles."
+          },
+          "link": "History/大罷免"
+        }
+      ],
+      "anchors": ["Society/太陽花學運", "Society/台灣同婚與性別平權"],
+      "articles": [
+        "History/台灣轉型正義",
+        "History/國家人權博物館",
+        "History/台海危機與兩岸關係發展",
+        "History/大罷免",
+        "Technology/半導體產業",
+        "Technology/赤燭遊戲",
+        "Music/滅火器樂團",
+        "Music/閃靈",
+        "Society/台灣媒體與新聞自由",
+        "Nature/台灣環境運動史"
+      ],
+      "figures": [
+        {
+          "ref": "People/陳水扁",
+          "name": {
+            "zh-TW": "陳水扁",
+            "en": "Chen Shui-bian",
+            "ja": "陳水扁",
+            "ko": "천수이볜",
+            "es": "Chen Shui-bian",
+            "fr": "Chen Shui-bian"
+          }
+        },
+        {
+          "ref": "People/馬英九",
+          "name": {
+            "zh-TW": "馬英九",
+            "en": "Ma Ying-jeou",
+            "ja": "馬英九",
+            "ko": "마잉주",
+            "es": "Ma Ying-jeou",
+            "fr": "Ma Ying-jeou"
+          }
+        },
+        {
+          "ref": "People/蔡英文",
+          "name": {
+            "zh-TW": "蔡英文",
+            "en": "Tsai Ing-wen",
+            "ja": "蔡英文",
+            "ko": "채잉웬",
+            "es": "Tsai Ing-wen",
+            "fr": "Tsai Ing-wen"
+          }
+        },
+        {
+          "ref": "People/賴清德",
+          "name": {
+            "zh-TW": "賴清德",
+            "en": "Lai Ching-te",
+            "ja": "頼清徳",
+            "ko": "라이칭더",
+            "es": "Lai Ching-te",
+            "fr": "Lai Ching-te"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+# Taiwan.md iOS App — xcodegen 設定。改完跑 tools/gen-project.sh 重產 TaiwanMD.xcodeproj（兩者都進 git）。
+# 規劃：reports/ios-app-implementation-plan-2026-11-02.md
+name: TaiwanMD
+options:
+  bundleIdPrefix: md.taiwan
+  deploymentTarget:
+    iOS: "18.0"
+  createIntermediateGroups: true
+  developmentLanguage: zh-Hant
+settings:
+  base:
+    DEVELOPMENT_TEAM: UXN5GBD9Q5
+    CODE_SIGN_STYLE: Automatic
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: 1.0.0
+    CURRENT_PROJECT_VERSION: "1"
+    TARGETED_DEVICE_FAMILY: "1"
+    SUPPORTS_MACCATALYST: NO
+    SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
+    SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+targets:
+  TaiwanMD:
+    type: application
+    platform: iOS
+    sources:
+      - path: App
+      - path: Shared
+    info:
+      path: Config/App-Info.plist
+      properties:
+        CFBundleDisplayName: Taiwan.md
+        CFBundleDevelopmentRegion: zh-Hant
+        CFBundleLocalizations: [zh-Hant, en, ja]
+        CFBundleURLTypes:
+          - CFBundleURLName: md.taiwan.app
+            CFBundleURLSchemes: [taiwanmd]
+        ITSAppUsesNonExemptEncryption: false
+        LSApplicationCategoryType: public.app-category.reference
+        UILaunchScreen:
+          UIColorName: LaunchBackground
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UIApplicationSupportsIndirectInputEvents: true
+        LSSupportsOpeningDocumentsInPlace: false
+    entitlements:
+      path: Config/TaiwanMD.entitlements
+      properties:
+        com.apple.security.application-groups: [group.md.taiwan.app]
+        com.apple.developer.associated-domains: [applinks:taiwan.md]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: md.taiwan.app
+        PRODUCT_NAME: TaiwanMD
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        ENABLE_PREVIEWS: YES
+    dependencies:
+      - target: TaiwanMDWidget
+  TaiwanMDWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: Widget
+      - path: Shared
+    info:
+      path: Config/Widget-Info.plist
+      properties:
+        CFBundleDisplayName: Taiwan.md
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: Config/Widget.entitlements
+      properties:
+        com.apple.security.application-groups: [group.md.taiwan.app]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: md.taiwan.app.widget
+        PRODUCT_NAME: TaiwanMDWidget
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        SKIP_INSTALL: YES
+  TaiwanMDTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Tests
+    dependencies:
+      - target: TaiwanMD
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: md.taiwan.app.tests
+        GENERATE_INFOPLIST_FILE: YES
+schemes:
+  TaiwanMD:
+    build:
+      targets:
+        TaiwanMD: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - TaiwanMDTests
+    archive:
+      config: Release

@@ -1,0 +1,296 @@
+/**
+ * tokens.css — Taiwan.md Design System (Single Source of Truth)
+ *
+ * All design tokens live here. Everything else (global.css @layer base,
+ * component scoped styles, template scoped styles) reads from these
+ * custom properties.
+ *
+ * ⚠️ DO NOT add new colors, spacing, or fonts inline elsewhere.
+ * ⚠️ DO NOT override these vars in nested scopes unless absolutely needed.
+ *
+ * Origin: extracted verbatim from Layout.astro :root block as part of
+ * Tailwind refactor Phase 1 (2026-04-10).
+ *
+ * Phase 7 cleanup (2026-04-10): pruned ~20 unused tokens that were
+ * only referenced by the now-deleted @theme bridge and tw-* class
+ * library. Every token below has at least one live `var(--...)` use
+ * somewhere in src/ (templates, pages, components, or global.css
+ * @layer base) as of that cleanup.
+ */
+
+:root {
+  /* === Container widths（頁面層主容器三檔，2026-06-10 統一；2026-07-23 加寬）===
+   * 改這裡 = 全站生效；頁面 template 一律 max-w-[var(--container-*)]，
+   * 不再 hardcode px（特例頁的 bespoke 行寬除外，如 soundscape/bench）。
+   * prose:   敘事閱讀頁（home / about / semiont / diary）
+   * article: 文章頁雙欄（TOC + 正文 + sidebar）
+   * wide:    hub / grid / 時間軸頁（explore / latest / changelog / data...），
+   *          與 Header / Footer / CategoryGrid 同寬
+   */
+  --container-prose: 900px;
+  --container-article: 1440px;
+  --container-wide: 1560px;
+
+  /* === Spacing scale === */
+  --space-page-x: clamp(1rem, 2vw, 2rem);
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 2.5rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  /* === Radius === */
+  --radius-chip: 16px;
+
+  /* === Shadow === */
+  --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
+  --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
+
+  /* === Taiwan Typography System === */
+  --font-title: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
+  --font-reading:
+    'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  --font-interface:
+    'Noto Sans TC', 'Source Han Sans TC', 'PingFang TC', sans-serif;
+  --font-quote: 'jf-lanyangming', 'Noto Serif TC', serif;
+  /* Legacy compatibility alias — still used in 4 files */
+  --font-editorial: var(--font-title);
+
+  /* === Title sizes === */
+  --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
+  --title-minor-size: 1.1rem;
+  --title-line-height: 1.2;
+  --title-letter-spacing: 0;
+
+  /* === Reader colors (light theme defaults, 2026-05-01 γ-late) ===
+   * Pragmatic v1: not yet a full re-tokenization of every hex in src/.
+   * The five vars below cover the largest reading surfaces (body bg,
+   * body ink, soft ink, surface card, accent link). global.css @layer
+   * base reads them; the dark override below flips them in one place.
+   */
+  --color-bg: #ffffff;
+  --color-bg-soft: #f8fafc;
+  --color-ink: #1a1a2e;
+  --color-ink-soft: #475569;
+  --color-surface: #ffffff;
+  --color-border: rgba(15, 23, 42, 0.08);
+  --color-accent: #3b82f6;
+
+  /* === Reader font-size scale (2026-05-01 γ-late) ===
+   * data-text-size on <html>: '' (default) | 'large' | 'xlarge'.
+   * Multiplied into body font-size in global.css.
+   */
+  --reader-size-scale: 1;
+
+  /* ===================================================================
+   * Phase 2 semantic tokens (2026-07-06) — pure indirection, LIGHT only.
+   * Every value below is byte-identical to a hardcoded value currently
+   * living in a consumer. Dark-theme overrides are a LATER wave; do not
+   * add data-theme='dark' values for these yet.
+   * =================================================================== */
+
+  /* --- Category colors ---
+   * SSOT = src/utils/categoryConfig.ts; regenerate if that changes
+   * (pragmatic hand-mirror, v1). Each category: base color, +"20" alpha
+   * light variant, and the 135deg gradient. */
+  --cat-about: #4b5563;
+  --cat-about-light: #4b556320;
+  --cat-about-gradient: linear-gradient(135deg, #4b5563, #6b7280);
+  --cat-history: #92400e;
+  --cat-history-light: #f59e0b20;
+  --cat-history-gradient: linear-gradient(135deg, #92400e, #d97706);
+  --cat-geography: #065f46;
+  --cat-geography-light: #059f4620;
+  --cat-geography-gradient: linear-gradient(135deg, #065f46, #10b981);
+  --cat-culture: #7c3aed;
+  --cat-culture-light: #7c3aed20;
+  --cat-culture-gradient: linear-gradient(135deg, #7c3aed, #a855f7);
+  --cat-food: #ea580c;
+  --cat-food-light: #ea580c20;
+  --cat-food-gradient: linear-gradient(135deg, #ea580c, #f97316);
+  --cat-art: #be185d;
+  --cat-art-light: #be185d20;
+  --cat-art-gradient: linear-gradient(135deg, #be185d, #ec4899);
+  --cat-music: #0891b2;
+  --cat-music-light: #0891b220;
+  --cat-music-gradient: linear-gradient(135deg, #0891b2, #06b6d4);
+  --cat-technology: #1d4ed8;
+  --cat-technology-light: #1d4ed820;
+  --cat-technology-gradient: linear-gradient(135deg, #1d4ed8, #3b82f6);
+  --cat-nature: #15803d;
+  --cat-nature-light: #15803d20;
+  --cat-nature-gradient: linear-gradient(135deg, #15803d, #22c55e);
+  --cat-people: #b45309;
+  --cat-people-light: #b4530920;
+  --cat-people-gradient: linear-gradient(135deg, #b45309, #f59e0b);
+  --cat-society: #475569;
+  --cat-society-light: #47556920;
+  --cat-society-gradient: linear-gradient(135deg, #475569, #64748b);
+  --cat-economy: #c2410c;
+  --cat-economy-light: #c2410c20;
+  --cat-economy-gradient: linear-gradient(135deg, #c2410c, #ea580c);
+  --cat-lifestyle: #4d7c0f;
+  --cat-lifestyle-light: #4d7c0f20;
+  --cat-lifestyle-gradient: linear-gradient(135deg, #4d7c0f, #65a30d);
+  --cat-politics: #7c2d12;
+  --cat-politics-light: #7c2d1220;
+  --cat-politics-gradient: linear-gradient(135deg, #7c2d12, #ea580c);
+
+  /* --- Status / semantic colors ---
+   * Dashboard vital-card left borders (src/styles/dashboard.css). */
+  --status-vital-heartbeat: #f87171;
+  --status-vital-cells: #3b82f6;
+  --status-vital-immunity: #4ade80;
+  --status-vital-dna: #8b5cf6;
+  --status-vital-revision: #f59e0b;
+  /* Glass surfaces (src/styles/dashboard.css): vital/organ/ca/ga cards
+   * at 0.6; defense-line panel at 0.5. */
+  --surface-glass: rgba(255, 255, 255, 0.6);
+  --surface-glass-backdrop: rgba(255, 255, 255, 0.5);
+  /* Bench tier / refusal color ramp (src/templates/bench.template.astro
+   * tierColor + refusalColor). */
+  --status-tier-excellent: #4fd1b0;
+  --status-tier-good: #fbbf24;
+  --status-tier-fair: #fb923c;
+  --status-tier-poor: #ef4444;
+  --status-tier-unknown: #9ca3af;
+
+  /* --- Scene / surface / gradient tokens ---
+   * Each mirrors an EXACT hardcoded value; role-named. */
+  /* ArticleHero dark overlay (src/components/ArticleHero.astro). */
+  --hero-overlay-dark: linear-gradient(
+    to bottom,
+    rgba(10, 22, 19, 0.35) 0%,
+    rgba(10, 22, 19, 0.55) 45%,
+    rgba(10, 22, 19, 0.82) 100%
+  );
+  /* Dark slate panel — shared byte-identical across CommunityFeedback +
+   * companies/data templates. NOTE: the Tailwind arbitrary form there is
+   * linear-gradient(135deg,#0f172a_0%,#1e293b_100%); the "_" are spaces
+   * and stops (0%/100%) are explicit. Consumers: */
+  /*   src/components/home/CommunityFeedback.astro:67 */
+  /*   src/templates/companies.template.astro:31 */
+  /*   src/templates/data.template.astro:47 */
+  --surface-panel-dark: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  /* Footer dark surface (src/components/Footer.astro bg-[#1a2e1a]). Footer
+   * was just edited; this only adds the token — no consumer change required
+   * this wave. */
+  --surface-footer: #1a2e1a;
+  /* ReadingPath scene (src/components/ReadingPath.astro). */
+  --scene-nature-bg: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+  --scene-nature-step-line: linear-gradient(
+    180deg,
+    rgba(34, 197, 94, 0.3) 0%,
+    #22c55e 25%,
+    #16a34a 50%,
+    #15803d 75%,
+    rgba(34, 197, 94, 0.3) 100%
+  );
+  /* Nature CTA — ReadingPath continue button + number marker
+   * (src/components/ReadingPath.astro). */
+  --cta-nature: linear-gradient(135deg, #22c55e, #16a34a);
+  /* Amber CTA — RandomDiscovery roll button
+   * (src/components/home/RandomDiscovery.astro:58). */
+  --cta-amber: linear-gradient(135deg, #f59e0b, #d97706);
+  /* Indigo CTA — contribute template
+   * (src/templates/contribute.template.astro:1467). */
+  --cta-indigo: linear-gradient(135deg, #6366f1, #8b5cf6);
+
+  /* --- Layout token --- */
+  --floating-cluster-reserve: 210px; /* keep in sync with the fixed bottom-right floating cluster in ReaderSettings.astro (back-to-top + Aa + .md chips); consumed by ArticleSidebar.astro max-h */
+
+  color-scheme: light;
+}
+
+/* === Per-language CJK glyph correctness (#1306) ===
+   The stacks above are Traditional-Chinese-only, and until now nothing
+   overrode them per language — so Japanese and Korean pages rendered their
+   kanji/hanja with Taiwanese glyph forms. A reader put it precisely: 日文的
+   「言」字第一筆是「橫」而中文是「點」. Same codepoint, different correct
+   shape; Unicode unifies them, the font decides, and we were handing every
+   language the TC font.
+
+   Deliberately system-first, no new webfont request: ja/ko readers almost
+   always have their own system CJK fonts installed, so preferring those costs
+   nothing to load and gets the glyph shapes right. The TC webfonts stay at the
+   end of the stack as the shared fallback, which keeps the typographic roles
+   (serif for titles, sans for reading) identical across languages — this is a
+   correctness fix, not a redesign. */
+:root:lang(ja) {
+  --font-title:
+    'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif TC', serif;
+  --font-reading:
+    'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic', 'Noto Sans TC', sans-serif;
+  --font-interface:
+    'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic', 'Noto Sans TC', sans-serif;
+  --font-quote:
+    'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif TC', serif;
+}
+
+:root:lang(ko) {
+  --font-title:
+    'Noto Serif KR', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Serif TC',
+    serif;
+  --font-reading:
+    'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Noto Sans TC',
+    sans-serif;
+  --font-interface:
+    'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Noto Sans TC',
+    sans-serif;
+  --font-quote: 'Noto Serif KR', 'Apple SD Gothic Neo', 'Noto Serif TC', serif;
+}
+
+:root[data-theme='dark'] {
+  --color-bg: #050505;
+  --color-bg-soft: #0d0d0f;
+  --color-ink: #f1f5f9;
+  /* slate-300 not slate-400 — at 4-5% body bg the slate-400 (#94a3b8)
+   * read as too dim for sidebar metadata / TOC chrome / "share" labels
+   * etc. slate-300 stays clearly secondary against --color-ink while
+   * remaining legible on near-black. */
+  --color-ink-soft: #cbd5e1;
+  --color-surface: #141418;
+  --color-border: rgba(241, 245, 249, 0.16);
+  --color-accent: #60a5fa;
+
+  /* Phase 2 token dark overrides (2026-07-06 dark rollout).
+   * Only the tokens whose LIGHT value breaks on a near-black bg get an
+   * override here. Deliberately NOT overridden (their light value already
+   * reads correctly on dark): --surface-panel-dark / --surface-footer /
+   * --hero-overlay-dark (already dark by design); the saturated
+   * --status-vital-* / --status-tier-* / --cta-* gradients (bright enough
+   * on dark). --cat-* stay light-only pending the 4-palette convergence
+   * decision. */
+  --surface-glass: rgba(
+    255,
+    255,
+    255,
+    0.05
+  ); /* white-60% glass → faint lift on near-black */
+  --surface-glass-backdrop: rgba(255, 255, 255, 0.04);
+  --scene-nature-bg: linear-gradient(
+    135deg,
+    #0d1f16 0%,
+    #0a1912 100%
+  ); /* light-mint section → dark forest green */
+  color-scheme: dark;
+}
+
+/* Scale on :root so every `rem`-based value (Tailwind utilities, .prose
+ * font-size, hero clamp() values) resizes together. Scaling only `body`
+ * left every `text-[…rem]` Tailwind class untouched, so the toggle had
+ * no visible effect on the actual reading surface.
+ *
+ * Baseline: global.css sets `html { font-size: 118% }` as the comfortable-
+ * reading default. We multiply on top of that rather than replace it, so
+ * "Standard" (no attribute) stays at 118%, "Large" = 118% × 1.125, and
+ * "X-Large" = 118% × 1.25. Otherwise Standard would actually render
+ * larger than Large (118% > 1.125rem when rem resolves to 16px). */
+:root[data-text-size='large'] {
+  --reader-size-scale: 1.125;
+  font-size: 132.75%; /* 118 × 1.125 */
+}
+:root[data-text-size='xlarge'] {
+  --reader-size-scale: 1.25;
+  font-size: 147.5%; /* 118 × 1.25 */
+}
