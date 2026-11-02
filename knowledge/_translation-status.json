@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T17:51:17+08:00",
-    "zhCommitHead": "d141f7361",
+    "lastUpdated": "2026-11-02T18:14:41+08:00",
+    "zhCommitHead": "88fdfe68f",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1157,
-        "fresh": 1121,
-        "stale": 22,
+        "fresh": 1122,
+        "stale": 21,
         "metadata_stale": 12,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1157,
-        "fresh": 1119,
-        "stale": 23,
+        "fresh": 1120,
+        "stale": 22,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1157,
-        "fresh": 1120,
+        "fresh": 1121,
         "stale": 22,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 2,
         "orphan": 0
       },
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1157,
-        "fresh": 1120,
-        "stale": 22,
+        "fresh": 1121,
+        "stale": 21,
         "metadata_stale": 13,
         "missing": 2,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1157,
-        "fresh": 1104,
-        "stale": 32,
+        "fresh": 1105,
+        "stale": 31,
         "metadata_stale": 19,
         "missing": 2,
         "orphan": 0
@@ -24050,20 +24050,18 @@
         "ja": {
           "path": "ja/Technology/taiwan-tungsten-supply-chain.md",
           "translatedFrom": "Technology/台灣鎢供應鏈.md",
-          "sourceCommitSha": "d6fdcf866",
-          "sourceContentHash": "sha256:56ac16371a296013",
-          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "sourceCommitSha": "1ec0df23",
+          "sourceContentHash": "sha256:8cca491527e42676",
+          "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
           "translatedAt": "2026-07-28T19:24:14+08:00",
           "translationLastCommit": "004b98ac",
           "translationLastModified": "2026-10-10T23:46:16+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 51323,
+          "bytes": 51322,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-tungsten-supply-chain.md",
@@ -24106,8 +24104,8 @@
           "sourceContentHash": "sha256:8cca491527e42676",
           "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
           "translatedAt": "2026-07-31T04:48:15+08:00",
-          "translationLastCommit": "53022789",
-          "translationLastModified": "2026-07-31T06:13:59+08:00",
+          "translationLastCommit": "88fdfe68",
+          "translationLastModified": "2026-11-02T17:51:17+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 62218,
@@ -171906,20 +171904,18 @@
         "fr": {
           "path": "fr/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "813fde2d6",
-          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
-          "sourceBodyHash": "sha256:4f8e5414cbe29614",
-          "translatedAt": "2026-09-26T04:23:50.763335+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9d679c3b9e055699",
+          "sourceBodyHash": "sha256:71b357541a22d4f7",
+          "translatedAt": "2026-11-02T10:03:35.587447+00:00",
           "translationLastCommit": "96ddb296",
           "translationLastModified": "2026-10-10T22:58:04+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 60483,
+          "bytes": 64977,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+14 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-fruit-kingdom.md",
@@ -185258,20 +185254,18 @@
         "en": {
           "path": "en/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "5add39fc8",
-          "sourceContentHash": "sha256:1c18939671190740",
-          "sourceBodyHash": "sha256:c336900c050cb32f",
-          "translatedAt": "2026-07-24T15:52:19+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:029c5b96b80df013",
+          "sourceBodyHash": "sha256:695400871e5b12aa",
+          "translatedAt": "2026-11-02T09:54:40.884865+00:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 50186,
+          "bytes": 56171,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/great-recall-movement-2024.md",
@@ -185328,8 +185322,8 @@
           "sourceContentHash": "sha256:029c5b96b80df013",
           "sourceBodyHash": "sha256:695400871e5b12aa",
           "translatedAt": "2026-11-02T08:04:35.794664+00:00",
-          "translationLastCommit": "27cd14fc",
-          "translationLastModified": "2026-09-22T00:50:19+08:00",
+          "translationLastCommit": "88fdfe68",
+          "translationLastModified": "2026-11-02T17:51:17+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "bytes": 65766,
@@ -190334,20 +190328,18 @@
         "de": {
           "path": "de/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "9cef725ce",
-          "sourceContentHash": "sha256:e16b55988a799eab",
-          "sourceBodyHash": "sha256:cf2cbcf164430410",
-          "translatedAt": "2026-09-26T05:14:51.414217+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:22c130b523d2e4bf",
+          "sourceBodyHash": "sha256:2b1b811b734b6f00",
+          "translatedAt": "2026-11-02T09:54:17.680568+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 45623,
+          "bytes": 45861,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -200320,20 +200312,18 @@
         "ko": {
           "path": "ko/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:a080d46f3075a396",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
-          "translatedAt": "2026-09-08T21:16:33.590907+00:00",
+          "translatedAt": "2026-11-02T09:56:33.067671+00:00",
           "translationLastCommit": "61ad9d87",
           "translationLastModified": "2026-09-09T06:40:38+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 50285,
+          "bytes": 50293,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/hsinchu-city.md",
