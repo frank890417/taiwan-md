@@ -2,9 +2,7 @@
 title: "Del 'Premio Kinmen' a los ejercicios Hanwha: El rito de madurez colectiva y el ensayo de supervivencia del hombre taiwanés"
 description: "Desde 1945, el servicio militar en Taiwán se ha reducido de tres años a cuatro meses, y nuevamente se restableció al servicio de un año en 2024. Esta memoria colectiva que involucra a millones de personas es más que una orden de 'uno dos tres cuatro cinco seis siete ocho nueve cero'; es la tensión de supervivencia de esta isla en una zona gris."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社會制度'
 tags:
   [
     'Servicio Militar',
@@ -13,15 +11,18 @@ tags:
     'Ejercicios Hanwha',
     'Premio Kinmen',
   ]
-readingTime: 12
+subcategory: '社會制度'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:58596add4d279eb3'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-02T20:32:19.768789+00:00'
 ---
 
 > **Resumen de 30 segundos:** El sistema de servicio militar en Taiwán es la marca social más profunda de esta isla en medio siglo. Desde los "tres años de servicio" durante el período de ocupación, hasta el restablecimiento del servicio obligatorio de un año hoy, esto no es solo una variación numérica del tiempo de servicio; es un reflejo real de cómo Taiwán enfrenta la presión geopolítica. Este artículo te lleva desde el grito de asombro en el sitio de sorteo del "Premio Kinmen" hasta el campo moderno de preparación militar donde incluso los supermercados se incluyen en los ejercicios Hanwha, analizando profundamente la transición práctica de estándares de exención, horarios de entrenamiento y las diversas formas de servicio alternativo.
@@ -98,10 +99,11 @@ El sistema de servicio militar de Taiwán es un diálogo continuo sobre "respons
 
 ### Referencias
 
-## Lecturas Adicionales
+## Lectura adicional
 
-- [Recuerdos del Campamento Hukou y la Ruta de la Victoria](/es/history/hukou-camp-shengli-road-memory) — Memoria cotidiana del espacio militar
-- [Academia Black Bear](/es/society/kuma-academy-civil-defense-school) — Versión contemporánea de la conciencia de defensa civil
+- [Memorias del campamento de Hukou y la calle Shengli](/es/history/hukou-camp-shengli-road-memory) — Recuerdos cotidianos de espacios militares
+- [Academia Oso Negro (Black Bear Academy)](/es/society/kuma-academy-civil-defense-school) — Una versión contemporánea de la conciencia de defensa civil
+- [Premios Golden Horse](/art/金馬獎) — El origen de los premios cinematográficos Golden Horse y el «Golden Horse» mencionado por los reclutas es el mismo: las primeras sílabas de Kinmen y Matsu
 
 ## Materiales de Referencia
 
