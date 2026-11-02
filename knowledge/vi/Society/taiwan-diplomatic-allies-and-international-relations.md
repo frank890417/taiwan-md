@@ -2,9 +2,7 @@
 title: 'Ngoại giao quốc tế và các nước bang giao của Đài Loan: 12 nước bang giao, 113 cơ quan đại diện, miễn thị thực tại 177 quốc gia (2026)'
 description: 'Ngày 15 tháng 1 năm 2024, chỉ 48 giờ sau khi Lại Thanh Đức đắc cử tổng thống, Nauru tuyên bố cắt đứt quan hệ ngoại giao, khiến số nước bang giao giảm từ 13 xuống còn 12. Tuy nhiên, cùng năm đó, Đài Loan có 113 cơ quan đại diện ở nước ngoài, hộ chiếu được miễn thị thực hoặc hưởng thủ tục nhập cảnh thuận lợi tại 177 quốc gia và vùng lãnh thổ, TSMC sản xuất 90% chip tiên tiến của thế giới, còn Nghị viện châu Âu thông qua nghị quyết phản đối Trung Quốc xuyên tạc Nghị quyết 2758 của Đại hội đồng Liên Hợp Quốc với tỷ lệ 432:60:71. Sự công nhận trên giấy tờ đang thu hẹp, mạng lưới ngoại giao không chính thức đang mở rộng, còn cuộc chiến diễn giải luật quốc tế đang đảo chiều.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '國際關係'
 tags:
   [
     'ngoại giao',
@@ -14,10 +12,12 @@ tags:
     'Liên Hợp Quốc',
     'lá chắn silicon',
   ]
+subcategory: '國際關係'
+author: 'Taiwan.md Contributors'
 readingTime: 16
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 51
     platform: 'threads'
@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c87'
-sourceContentHash: 'sha256:03188362c6b1e61a'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-07-18T18:59:51+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T12:07:07.589856+00:00'
 ---
 
 # Ngoại giao quốc tế và các nước bang giao của Đài Loan: 12 nước bang giao, 113 cơ quan đại diện, miễn thị thực tại 177 quốc gia
@@ -264,32 +264,31 @@ Chừng nào còn duy trì 12 nước bang giao, lập luận này không thể 
 
 ## Ba con số
 
-```text
-12                    113                    177
-nước bang giao        cơ quan đại diện       nơi hộ chiếu có thể đến
+```
+12             113            177
+Nước bang giao   Cơ quan đại diện  Số quốc gia
+                                  hộ chiếu có thể đến
 ```
 
-Mười hai quốc gia công nhận chính phủ Trung Hoa Dân Quốc tại Đài Loan là “chính phủ hợp pháp của Trung Quốc”.
+12 quốc gia công nhận chính phủ Trung Hoa Dân Quốc (Đài Loan) là "chính phủ hợp pháp của Trung Quốc".
+113 cơ quan đại diện đang thay mặt Đài Loan xử lý các nghiệp vụ thực tế trên thế giới.
+177 quốc gia không công nhận Trung Hoa Dân Quốc, nhưng vẫn cho phép công dân Đài Loan bước vào.
 
-Một trăm mười ba cơ quan đại diện thay mặt Đài Loan xử lý các công việc thực tế trên khắp thế giới.
+Nghị quyết 2758 đã được Nghị viện châu Âu thông qua với 432 phiếu thuận và 275 chống. Khi Thái Anh Văn (Tsai Ing-wen) rời nhiệm sở vào tháng 5 năm 2024, số nước bang giao là 12; sau khi từ nhiệm, bà đã nhận lời mời thăm Nghị viện châu Âu vào tháng 10. Bonnie Glaser từng nói rằng sự phụ thuộc vào TSMC đã có một khoảnh khắc [đạt đỉnh]. Mark Lambert cũng từng khẳng định Nghị quyết 2758 không hề nhắc đến Đài Loan.
 
-Một trăm bảy mươi bảy quốc gia không công nhận Trung Hoa Dân Quốc, nhưng cho phép công dân Đài Loan bước qua biên giới.
+Những điều này đang diễn ra đồng thời. Không tồn tại một khái niệm nào gọi là "vị thế quốc tế của Đài Loan".
 
-Nghị viện châu Âu có 432 phiếu thuận cho nghị quyết phản đối việc xuyên tạc Nghị quyết 2758. Khi Thái Anh Văn mãn nhiệm vào tháng 5 năm 2024, Đài Loan còn 12 nước bang giao; đến tháng 10 sau khi rời nhiệm sở, bà được mời thăm Nghị viện châu Âu. Bonnie Glaser từng nói đã có một thời khắc mọi người nhận ra sự phụ thuộc vào TSMC. Mark Lambert từng nói Nghị quyết 2758 không hề viết về Đài Loan.
+Nếu có, thì thứ đó không phải là 12, cũng không phải 113, không phải 177, cũng không phải 90% hay 30%.
 
-Tất cả những điều này xảy ra cùng lúc. Không tồn tại một tuyến duy nhất mang tên “vị thế quốc tế của Đài Loan”.
+Nó chính là khoảng cách giữa những con số này.
 
-Nếu có, thứ đó không phải là 12, cũng không phải 113, 177, 90% hay 30%.
+**Đọc thêm**:
 
-Nó là khoảng cách giữa những con số ấy.
-
-**Đọc thêm:**
-
-- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — khi chỉ còn 12 nước bang giao, năng lực tự vệ quân sự là một trụ cột khác giúp duy trì trạng thái “không phải 0”
-- [Khủng hoảng eo biển Đài Loan và sự phát triển của quan hệ hai bờ eo biển](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — ba cuộc khủng hoảng đã định hình tình trạng cô lập ngoại giao và nỗi lo an ninh của Đài Loan như thế nào
-- [TSMC](/business/台積電) — nền tảng vật chất và tính dễ tổn thương mang tính cấu trúc của lá chắn silicon
-- [Trác Vinh Thái](/vi/people/cho-jung-tai) — lộ trình thuế quan Hoa Kỳ–Đài Loan năm 2026 từ 32% xuống 20% rồi 15%, cùng vai trò điều phối nội các trong chuyến thăm Eswatini của Lại Thanh Đức
-- [Đài Loan và Eswatini](/vi/society/taiwan-eswatini-relations) — mảnh ghép cuối cùng tại châu Phi trong số 12 nước bang giao, với toàn bộ câu chuyện 58 năm từ ngày thiết lập quan hệ năm 1968 đến chuyến thăm của Lại Thanh Đức năm 2026
+- [Quốc phòng và hiện đại hóa quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Khi chỉ còn 12 nước bang giao, tự vệ quân sự là một trụ cột khác để duy trì trạng thái "không phải bằng 0"
+- [Khủng hoảng eo biển Đài Loan và sự phát triển quan hệ hai bờ](/vi/history/taiwan-strait-crises-and-cross-strait-relations) — Ba cuộc khủng hoảng đã định hình sự cô lập ngoại giao và nỗi lo ngại an ninh của Đài Loan như thế nào
+- [TSMC](/vi/economy/tsmc) — Nền tảng vật chất của "lá chắn silicon" và sự mong manh mang tính cấu trúc của nó
+- [Trác Vinh Thái (Zhuo Rongtai)](/vi/people/cho-jung-tai) — Quỹ đạo thuế quan Mỹ-Đài Loan từ 32% $\rightarrow$ 20% $\rightarrow$ 15% vào năm 2026 + Điều phối viên nội các trong chuyến thăm Swaziland của Lại Thanh Đức
+- [Đài Loan và Swaziland](/vi/society/taiwan-eswatini-relations) — Câu chuyện trọn vẹn suốt 58 năm từ khi thiết lập quan hệ ngoại giao cùng ngày vào năm 1968 cho đến chuyến thăm của Lại Thanh Đức vào năm 2026, với châu Phi là mảnh ghép duy nhất còn lại trong số 12 nước bang giao
 
 ## Tài liệu tham khảo
 
