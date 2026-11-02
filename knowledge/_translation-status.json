@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-02T08:42:15+08:00",
-    "zhCommitHead": "5d29ea148",
+    "lastUpdated": "2026-11-02T09:21:57+08:00",
+    "zhCommitHead": "e4ca6414d",
     "totalZh": 1157,
     "activeLanguages": [
       "en",
@@ -20,69 +20,53 @@
     "summary": {
       "en": {
         "total_zh": 1157,
-        "fresh": 1112,
-        "stale": 21,
-        "metadata_stale": 22,
+        "fresh": 1111,
+        "stale": 24,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1157,
         "fresh": 1110,
-        "stale": 23,
-        "metadata_stale": 22,
+        "stale": 25,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1157,
         "fresh": 1111,
-        "stale": 22,
-        "metadata_stale": 22,
+        "stale": 24,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "es": {
         "total_zh": 1157,
-        "fresh": 1111,
-        "stale": 22,
-        "metadata_stale": 22,
+        "fresh": 1110,
+        "stale": 25,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1157,
-        "fresh": 1111,
-        "stale": 22,
-        "metadata_stale": 22,
+        "fresh": 1110,
+        "stale": 25,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1157,
         "fresh": 1109,
-        "stale": 25,
-        "metadata_stale": 21,
+        "stale": 27,
+        "metadata_stale": 19,
         "missing": 2,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1157,
-        "fresh": 1108,
-        "stale": 22,
-        "metadata_stale": 25,
-        "missing": 2,
-        "orphan": 0
-      },
-      "pt": {
-        "total_zh": 1157,
-        "fresh": 1110,
-        "stale": 22,
-        "metadata_stale": 23,
-        "missing": 2,
-        "orphan": 0
-      },
-      "hi": {
         "total_zh": 1157,
         "fresh": 1108,
         "stale": 24,
@@ -90,27 +74,43 @@
         "missing": 2,
         "orphan": 0
       },
+      "pt": {
+        "total_zh": 1157,
+        "fresh": 1110,
+        "stale": 24,
+        "metadata_stale": 21,
+        "missing": 2,
+        "orphan": 0
+      },
+      "hi": {
+        "total_zh": 1157,
+        "fresh": 1107,
+        "stale": 27,
+        "metadata_stale": 21,
+        "missing": 2,
+        "orphan": 0
+      },
       "ar": {
         "total_zh": 1157,
-        "fresh": 1112,
-        "stale": 21,
-        "metadata_stale": 22,
+        "fresh": 1111,
+        "stale": 24,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1157,
-        "fresh": 1111,
-        "stale": 22,
-        "metadata_stale": 22,
+        "fresh": 1110,
+        "stale": 25,
+        "metadata_stale": 20,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1157,
         "fresh": 1095,
-        "stale": 33,
-        "metadata_stale": 27,
+        "stale": 35,
+        "metadata_stale": 25,
         "missing": 2,
         "orphan": 0
       }
@@ -4586,38 +4586,34 @@
         "en": {
           "path": "en/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T12:07:00+08:00",
+          "translatedAt": "2026-11-02T00:43:19.420393+00:00",
           "translationLastCommit": "b1981212",
           "translationLastModified": "2026-10-10T17:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16159,
+          "bytes": 16221,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T12:07:01+08:00",
+          "translatedAt": "2026-11-02T00:43:46.414503+00:00",
           "translationLastCommit": "418f91dc",
           "translationLastModified": "2026-10-10T15:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17352,
+          "bytes": 17659,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/taiwan-campus-folk-song-movement.md",
@@ -4670,110 +4666,98 @@
         "vi": {
           "path": "vi/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T09:17:00+08:00",
+          "translatedAt": "2026-11-02T00:49:39.008261+00:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 22714,
+          "bytes": 22903,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T02:54:03.659988+00:00",
+          "translatedAt": "2026-11-02T00:50:05.336372+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16396,
+          "bytes": 16598,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T12:07:02+08:00",
+          "translatedAt": "2026-11-02T00:50:34.474127+00:00",
           "translationLastCommit": "9bdd9c0d",
           "translationLastModified": "2026-10-10T17:04:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 17437,
+          "bytes": 17681,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T12:07:02+08:00",
+          "translatedAt": "2026-11-02T00:50:58.970247+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 35080,
+          "bytes": 35291,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-11T01:05:50+08:00",
+          "translatedAt": "2026-11-02T00:51:29.219107+00:00",
           "translationLastCommit": "e28908ac",
           "translationLastModified": "2026-10-11T04:35:36+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 24009,
+          "bytes": 24221,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:852e24aefb540676",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f0f0fee4c84405d0",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-10-10T16:54:48+08:00",
+          "translatedAt": "2026-11-02T00:51:55.360997+00:00",
           "translationLastCommit": "c0a140a9",
           "translationLastModified": "2026-10-10T19:47:32+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 26798,
+          "bytes": 27005,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/taiwan-campus-folk-song-movement.md",
@@ -16452,56 +16436,50 @@
         "ko": {
           "path": "ko/Economy/taiwan-cement-taipower-green-transformation.md",
           "translatedFrom": "Economy/台灣企業：台泥.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceCommitSha": "2c18749ee",
+          "sourceContentHash": "sha256:b019710168a5543e",
           "sourceBodyHash": "sha256:144f62335cbc632a",
-          "translatedAt": "2026-05-15T15:39:39+08:00",
+          "translatedAt": "2026-11-02T01:09:31.071063+00:00",
           "translationLastCommit": "f129c1fa",
           "translationLastModified": "2026-05-15T16:40:46+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 14502,
+          "bytes": 14514,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-cement-taipower-green-transformation.md",
           "translatedFrom": "Economy/台灣企業：台泥.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceCommitSha": "2c18749ee",
+          "sourceContentHash": "sha256:b019710168a5543e",
           "sourceBodyHash": "sha256:144f62335cbc632a",
-          "translatedAt": "2026-05-15T15:39:40+08:00",
+          "translatedAt": "2026-11-02T01:10:15.389444+00:00",
           "translationLastCommit": "76527342",
           "translationLastModified": "2026-05-25T05:49:38+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 15993,
+          "bytes": 15888,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-cement-taipower-green-transformation.md",
           "translatedFrom": "Economy/台灣企業：台泥.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceCommitSha": "2c18749ee",
+          "sourceContentHash": "sha256:b019710168a5543e",
           "sourceBodyHash": "sha256:144f62335cbc632a",
-          "translatedAt": "2026-05-15T15:39:40+08:00",
+          "translatedAt": "2026-11-02T01:11:00.756990+00:00",
           "translationLastCommit": "f129c1fa",
           "translationLastModified": "2026-05-15T16:40:46+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 16926,
+          "bytes": 16859,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-cement-taipower-green-transformation.md",
@@ -16614,20 +16592,18 @@
         "de": {
           "path": "de/Economy/taiwan-cement-taipower-green-transformation.md",
           "translatedFrom": "Economy/台灣企業：台泥.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceCommitSha": "2c18749ee",
+          "sourceContentHash": "sha256:b019710168a5543e",
           "sourceBodyHash": "sha256:144f62335cbc632a",
-          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translatedAt": "2026-11-02T01:06:36.022428+00:00",
           "translationLastCommit": "5430a11f",
           "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 15193,
+          "bytes": 15451,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -78648,7 +78624,7 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T21:55:10.939183+00:00",
-          "translationLastCommit": "36eeff93",
+          "translationLastCommit": "1c15654f",
           "translationLastModified": "2026-11-02T07:43:34+08:00",
           "inferred": false,
           "footnoteDefs": 91,
@@ -78682,7 +78658,7 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T22:05:47.137789+00:00",
-          "translationLastCommit": "6b1b682a",
+          "translationLastCommit": "0c52b3d3",
           "translationLastModified": "2026-11-02T07:43:54+08:00",
           "inferred": false,
           "footnoteDefs": 91,
@@ -78698,7 +78674,7 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T22:15:16.098015+00:00",
-          "translationLastCommit": "16f3194a",
+          "translationLastCommit": "cf3474df",
           "translationLastModified": "2026-11-02T07:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 91,
@@ -78714,7 +78690,7 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T22:25:07.523174+00:00",
-          "translationLastCommit": "5d29ea14",
+          "translationLastCommit": "8e9dbe57",
           "translationLastModified": "2026-11-02T08:33:20+08:00",
           "inferred": false,
           "footnoteDefs": 91,
@@ -78748,8 +78724,8 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-01T22:50:37.267609+00:00",
-          "translationLastCommit": "d4b1ceab",
-          "translationLastModified": "2026-10-10T22:59:12+08:00",
+          "translationLastCommit": "0c8ec193",
+          "translationLastModified": "2026-11-02T08:42:15+08:00",
           "inferred": false,
           "footnoteDefs": 91,
           "bytes": 150583,
@@ -94631,10 +94607,10 @@
     },
     "Politics/309本里長帳簿.md": {
       "zh": {
-        "lastCommit": "5a9cd939",
-        "lastModified": "2026-09-30T08:52:55+08:00",
-        "contentHash": "sha256:9ce152768ea44921",
-        "bodyHash": "sha256:60bb46f6e4722d51"
+        "lastCommit": "d7d7c2e3",
+        "lastModified": "2026-11-02T08:55:13+08:00",
+        "contentHash": "sha256:9da6ac74278aa12e",
+        "bodyHash": "sha256:f6dc7e3946b055ef"
       },
       "translations": {
         "en": {
@@ -94650,8 +94626,10 @@
           "footnoteDefs": 13,
           "bytes": 16748,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ja": {
           "path": "ja/Politics/village-chief-campaign-ledgers.md",
@@ -94666,8 +94644,10 @@
           "footnoteDefs": 13,
           "bytes": 17953,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ko": {
           "path": "ko/Politics/village-chief-campaign-ledgers.md",
@@ -94682,8 +94662,10 @@
           "footnoteDefs": 13,
           "bytes": 17052,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "es": {
           "path": "es/Politics/village-chief-campaign-ledgers.md",
@@ -94698,8 +94680,10 @@
           "footnoteDefs": 13,
           "bytes": 16064,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "fr": {
           "path": "fr/Politics/village-chief-campaign-ledgers.md",
@@ -94714,8 +94698,10 @@
           "footnoteDefs": 13,
           "bytes": 20343,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "vi": {
           "path": "vi/Politics/village-chief-campaign-ledgers.md",
@@ -94730,8 +94716,10 @@
           "footnoteDefs": 13,
           "bytes": 20374,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "id": {
           "path": "id/Politics/village-chief-campaign-ledgers.md",
@@ -94746,8 +94734,10 @@
           "footnoteDefs": 13,
           "bytes": 18087,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "pt": {
           "path": "pt/Politics/village-chief-campaign-ledgers.md",
@@ -94762,8 +94752,10 @@
           "footnoteDefs": 13,
           "bytes": 17498,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "hi": {
           "path": "hi/Politics/village-chief-campaign-ledgers.md",
@@ -94778,8 +94770,10 @@
           "footnoteDefs": 13,
           "bytes": 36547,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ar": {
           "path": "ar/Politics/village-chief-campaign-ledgers.md",
@@ -94794,8 +94788,10 @@
           "footnoteDefs": 13,
           "bytes": 22317,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "ru": {
           "path": "ru/Politics/village-chief-campaign-ledgers.md",
@@ -94810,8 +94806,10 @@
           "footnoteDefs": 13,
           "bytes": 27935,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         },
         "de": {
           "path": "de/Politics/village-chief-campaign-ledgers.md",
@@ -94826,8 +94824,10 @@
           "footnoteDefs": 13,
           "bytes": 16426,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -2"
         }
       }
     },
@@ -95439,10 +95439,10 @@
     },
     "Politics/村里長制度.md": {
       "zh": {
-        "lastCommit": "837e22b9",
-        "lastModified": "2026-07-10T23:26:29+08:00",
-        "contentHash": "sha256:cce4699f9fdc3697",
-        "bodyHash": "sha256:48ef53002db1337d"
+        "lastCommit": "d7d7c2e3",
+        "lastModified": "2026-11-02T08:55:13+08:00",
+        "contentHash": "sha256:968a60e9d47e825b",
+        "bodyHash": "sha256:c77c8cceb31c23cb"
       },
       "translations": {
         "en": {
@@ -95458,8 +95458,8 @@
           "footnoteDefs": 26,
           "bytes": 27958,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "ja": {
           "path": "ja/Politics/village-chief-system.md",
@@ -95474,8 +95474,8 @@
           "footnoteDefs": 26,
           "bytes": 31420,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "ko": {
           "path": "ko/Politics/village-chief-system.md",
@@ -95490,8 +95490,8 @@
           "footnoteDefs": 26,
           "bytes": 29908,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "es": {
           "path": "es/Politics/village-chief-system.md",
@@ -95506,8 +95506,8 @@
           "footnoteDefs": 26,
           "bytes": 34968,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "fr": {
           "path": "fr/Politics/village-chief-system.md",
@@ -95522,8 +95522,8 @@
           "footnoteDefs": 26,
           "bytes": 37697,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "vi": {
           "path": "vi/Politics/village-chief-system.md",
@@ -95538,8 +95538,8 @@
           "footnoteDefs": 26,
           "bytes": 37263,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "id": {
           "path": "id/Politics/village-chief-system.md",
@@ -95554,8 +95554,8 @@
           "footnoteDefs": 26,
           "bytes": 33513,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "pt": {
           "path": "pt/Politics/village-chief-system.md",
@@ -95570,8 +95570,8 @@
           "footnoteDefs": 26,
           "bytes": 31402,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "hi": {
           "path": "hi/Politics/village-chief-system.md",
@@ -95586,8 +95586,8 @@
           "footnoteDefs": 26,
           "bytes": 71592,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "ar": {
           "path": "ar/Politics/village-chief-system.md",
@@ -95602,8 +95602,8 @@
           "footnoteDefs": 26,
           "bytes": 44777,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "ru": {
           "path": "ru/Politics/village-chief-system.md",
@@ -95618,8 +95618,8 @@
           "footnoteDefs": 26,
           "bytes": 52418,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         },
         "de": {
           "path": "de/Politics/village-chief-system.md",
@@ -95634,17 +95634,17 @@
           "footnoteDefs": 26,
           "bytes": 34806,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→26)"
         }
       }
     },
     "Politics/九合一選舉是什麼.md": {
       "zh": {
-        "lastCommit": "e957cf7f",
-        "lastModified": "2026-05-27T21:34:49+08:00",
-        "contentHash": "sha256:8130ad5ab40eae13",
-        "bodyHash": "sha256:f699c0cd2ccbe17d"
+        "lastCommit": "d7d7c2e3",
+        "lastModified": "2026-11-02T08:55:13+08:00",
+        "contentHash": "sha256:d01e4dc65a504478",
+        "bodyHash": "sha256:42ff4d82e10867fc"
       },
       "translations": {
         "en": {
@@ -95660,8 +95660,10 @@
           "footnoteDefs": 16,
           "bytes": 24394,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Politics/nine-in-one-elections-explained.md",
@@ -95676,8 +95678,10 @@
           "footnoteDefs": 16,
           "bytes": 23130,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/Politics/nine-in-one-elections-explained.md",
@@ -95692,8 +95696,10 @@
           "footnoteDefs": 16,
           "bytes": 21541,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/Politics/nine-in-one-elections-explained.md",
@@ -95708,8 +95714,10 @@
           "footnoteDefs": 16,
           "bytes": 27674,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/Politics/nine-in-one-elections-explained.md",
@@ -95724,8 +95732,10 @@
           "footnoteDefs": 16,
           "bytes": 27487,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/Politics/nine-in-one-elections-explained.md",
@@ -95740,8 +95750,10 @@
           "footnoteDefs": 16,
           "bytes": 30909,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/Politics/nine-in-one-elections-explained.md",
@@ -95756,8 +95768,10 @@
           "footnoteDefs": 16,
           "bytes": 22578,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/Politics/nine-in-one-elections-explained.md",
@@ -95772,8 +95786,10 @@
           "footnoteDefs": 16,
           "bytes": 26470,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/Politics/nine-in-one-elections-explained.md",
@@ -95788,8 +95804,10 @@
           "footnoteDefs": 16,
           "bytes": 50678,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/Politics/nine-in-one-elections-explained.md",
@@ -95804,8 +95822,10 @@
           "footnoteDefs": 16,
           "bytes": 34574,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/Politics/nine-in-one-elections-explained.md",
@@ -95820,8 +95840,10 @@
           "footnoteDefs": 16,
           "bytes": 43212,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/Politics/nine-in-one-elections-explained.md",
@@ -95836,8 +95858,10 @@
           "footnoteDefs": 16,
           "bytes": 24785,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -109998,218 +110022,194 @@
         "en": {
           "path": "en/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-05-01T12:53:58+08:00",
+          "translatedAt": "2026-11-02T00:56:21.138449+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 15649,
+          "bytes": 15615,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "translatedAt": "2026-11-02T00:57:01.645583+00:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 17811,
+          "bytes": 17931,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "translatedAt": "2026-11-02T00:44:16.386257+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16422,
+          "bytes": 16529,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-11-02T05:45:11+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 17236,
+          "bytes": 17142,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "translatedAt": "2026-11-02T00:49:08.931165+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 18086,
+          "bytes": 18214,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translatedAt": "2026-11-02T01:01:38.613433+00:00",
           "translationLastCommit": "5fe0ae1a",
           "translationLastModified": "2026-09-08T22:22:01+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 19475,
+          "bytes": 19563,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-07-25T21:33:43+08:00",
+          "translatedAt": "2026-11-02T01:02:01.830233+00:00",
           "translationLastCommit": "ab72f06d",
           "translationLastModified": "2026-10-10T23:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16473,
+          "bytes": 16494,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-07-25T10:53:20+08:00",
+          "translatedAt": "2026-11-02T01:02:27.383771+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16663,
+          "bytes": 16686,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-07-25T12:49:32+08:00",
+          "translatedAt": "2026-11-02T01:02:50.636030+00:00",
           "translationLastCommit": "1862bcff",
           "translationLastModified": "2026-10-10T23:28:54+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 32584,
+          "bytes": 32691,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-07-25T17:25:43+08:00",
+          "translatedAt": "2026-11-02T05:45:53+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 21627,
+          "bytes": 22336,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-07-25T15:46:11+08:00",
+          "translatedAt": "2026-11-02T01:05:49.434527+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 25639,
+          "bytes": 25753,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:9dcb097daa80cdd6",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translatedAt": "2026-11-02T00:42:44.039982+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16932,
+          "bytes": 17094,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -117604,8 +117604,8 @@
           "sourceContentHash": "sha256:1b59d09fec786013",
           "sourceBodyHash": "sha256:3e07cf6a17af5d88",
           "translatedAt": "2026-11-02T00:36:00.442477+00:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "0c8ec193",
+          "translationLastModified": "2026-11-02T08:42:15+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 16055,
@@ -145486,38 +145486,34 @@
         "ja": {
           "path": "ja/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T01:08:41.815215+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 14734,
+          "bytes": 15221,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T00:57:38.173633+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 14603,
+          "bytes": 14880,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tony-hsiao-inside-founder.md",
@@ -145558,56 +145554,50 @@
         "vi": {
           "path": "vi/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-09-28T08:43:09+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T01:11:37.264861+00:00",
           "translationLastCommit": "4f949f42",
           "translationLastModified": "2026-09-28T09:22:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 16055,
+          "bytes": 16263,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-07-25T10:53:16+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T01:12:12.843012+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 12334,
+          "bytes": 12727,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-07-25T12:45:42+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T01:12:48.461538+00:00",
           "translationLastCommit": "047c41e5",
           "translationLastModified": "2026-07-25T15:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 13246,
+          "bytes": 13501,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/tony-hsiao-inside-founder.md",
@@ -145666,20 +145656,18 @@
         "de": {
           "path": "de/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-02T05:46:08+08:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 14020,
+          "bytes": 14083,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
