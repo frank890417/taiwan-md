@@ -1,0 +1,173 @@
+---
+/**
+ * privacy.astro — 隱私權政策（網站＋iOS App）。App Store 送審必填的隱私權政策網址。
+ * 內容依據：GA4（src/layouts/Layout.astro）、讀者回饋 Supabase（src/scripts/feedback/backend.ts）、
+ * Cloudflare＋GitHub Pages；App 端見 apps/ios/App/Resources/PrivacyInfo.xcprivacy。
+ * 2026-11-02 哲宇確認後上線（apps/ios/store/privacy-policy.md 是草稿出處）。
+ */
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="隱私權政策 Privacy Policy｜Taiwan.md"
+  description="Taiwan.md 網站與 iOS App 的隱私權政策：App 不收集任何資料；網站使用 GA4 流量統計、Cloudflare 傳遞網頁，讀者回饋存在 Supabase。"
+  lang="zh-TW"
+>
+  <main class="privacy-page">
+    <article lang="zh-TW">
+      <h1>隱私權政策</h1>
+      <p class="updated">最後更新：2026 年 11 月</p>
+      <p>
+        Taiwan.md 是一個開源、非營利的台灣知識庫，包含網站 taiwan.md 與 iOS
+        App「Taiwan.md」。這份說明交代我們會接觸到哪些資料、用來做什麼。
+      </p>
+
+      <h2>iOS App</h2>
+      <p>
+        <strong>App 不收集任何資料。</strong
+        >沒有帳號，沒有廣告，沒有分析或追蹤工具。
+      </p>
+      <ul>
+        <li>收藏、閱讀進度、最近讀過與設定，只存在你的裝置上，不會上傳。</li>
+        <li>
+          App 只連到兩個地方：GitHub（下載內容更新）與
+          taiwan.md（顯示文章圖片）。這些請求不帶任何識別碼。GitHub
+          與我們的網站主機會像處理任何網頁請求一樣看到連線的 IP
+          位址，我們不保存也不使用這些紀錄來辨識個人。
+        </li>
+        <li>
+          文章裡的外部連結會用 Safari 開啟，之後適用該網站自己的隱私權政策。
+        </li>
+        <li>刪除 App 就會刪除所有存在裝置上的資料。</li>
+      </ul>
+
+      <h2>網站 taiwan.md</h2>
+      <ul>
+        <li>
+          <strong>流量統計</strong>：網站使用 Google Analytics
+          4，了解有多少人來訪、讀了哪些文章、從哪裡來。Google
+          會依其政策處理這些資料。你可以用瀏覽器的追蹤保護或外掛關閉它。
+        </li>
+        <li>
+          <strong>主機與傳遞</strong>：網站放在 GitHub Pages，前面經過
+          Cloudflare。兩者為了傳遞網頁與防範濫用，會處理連線的 IP
+          位址等技術資料；我們只看彙總統計。
+        </li>
+        <li>
+          <strong>讀者回饋</strong
+          >：你選擇在文章頁送出勘誤或建議時，回饋內容、你選用的登入方式（例如
+          email）與暱稱會存在 Supabase，用來回覆與修正文章。你可以來信要求刪除。
+        </li>
+        <li>網站不販售、不出租任何資料，也不放廣告。</li>
+      </ul>
+
+      <h2>聯絡我們</h2>
+      <p>
+        <a href="mailto:taiwanmd@monoame.com">taiwanmd@monoame.com</a>，或在
+        <a href="https://github.com/frank890417/taiwan-md/issues"
+          >GitHub issues</a
+        > 開 issue。
+      </p>
+    </article>
+
+    <hr />
+
+    <article lang="en">
+      <h1>Privacy Policy</h1>
+      <p class="updated">Last updated: November 2026</p>
+      <p>
+        Taiwan.md is an open-source, non-profit knowledge base about Taiwan,
+        consisting of the website taiwan.md and the iOS app “Taiwan.md”. This
+        page explains what data we come into contact with and why.
+      </p>
+
+      <h2>iOS app</h2>
+      <p>
+        <strong>The app collects no data.</strong> There are no accounts, no ads,
+        and no analytics or tracking tools.
+      </p>
+      <ul>
+        <li>
+          Bookmarks, reading progress, history and settings are stored only on
+          your device and are never uploaded.
+        </li>
+        <li>
+          The app connects to only two places: GitHub (to download content
+          updates) and taiwan.md (to show article images). These requests carry
+          no identifiers. Like any web request, GitHub and our website host see
+          the connecting IP address; we do not keep or use those logs to
+          identify anyone.
+        </li>
+        <li>
+          External links in articles open in Safari, where that site’s own
+          privacy policy applies.
+        </li>
+        <li>Deleting the app deletes all data stored on your device.</li>
+      </ul>
+
+      <h2>Website taiwan.md</h2>
+      <ul>
+        <li>
+          <strong>Analytics</strong>: the website uses Google Analytics 4 to
+          understand how many people visit, which articles they read and where
+          they come from. Google processes this data under its own policies. You
+          can block it with your browser’s tracking protection or an extension.
+        </li>
+        <li>
+          <strong>Hosting and delivery</strong>: the site is hosted on GitHub
+          Pages behind Cloudflare. Both process technical data such as IP
+          addresses to deliver pages and prevent abuse; we only look at
+          aggregate statistics.
+        </li>
+        <li>
+          <strong>Reader feedback</strong>: if you choose to submit a correction
+          or suggestion on an article, your feedback, the sign-in method you
+          chose (such as email) and your nickname are stored in Supabase so we
+          can reply and fix the article. You can ask us to delete them.
+        </li>
+        <li>We never sell or rent any data, and the site shows no ads.</li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>
+        <a href="mailto:taiwanmd@monoame.com">taiwanmd@monoame.com</a>, or open
+        an issue at
+        <a href="https://github.com/frank890417/taiwan-md/issues"
+          >GitHub issues</a
+        >.
+      </p>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  .privacy-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 20px 80px;
+    line-height: 1.8;
+  }
+  .privacy-page h1 {
+    font-size: 2rem;
+    margin: 0 0 0.3em;
+  }
+  .privacy-page h2 {
+    font-size: 1.3rem;
+    margin: 2em 0 0.6em;
+  }
+  .privacy-page .updated {
+    color: var(--color-ink-soft);
+    font-size: 0.9rem;
+  }
+  .privacy-page ul {
+    padding-left: 1.4em;
+  }
+  .privacy-page li {
+    margin: 0.5em 0;
+  }
+  .privacy-page hr {
+    margin: 4em 0;
+    border: 0;
+    border-top: 1px solid var(--color-border);
+  }
+</style>
