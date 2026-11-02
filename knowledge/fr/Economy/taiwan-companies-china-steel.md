@@ -1,26 +1,26 @@
 ---
-title: "China Steel : le « ministre de fer » et la légende de l'acier des Dix Grands Projets"
-description: "Des négociations de Zhao Yaodong en Europe et aux États-Unis pour obtenir la technologie, à la première fumée blanche s'élevant à Siaogang, Kaohsiung, China Steel a mis 50 ans à bâtir l'épine dorsale de l'industrie lourde taïwanaise, devenant la perle la plus brillante des Dix Grands Projets"
+title: 'China Steel : Le président de fer et la colonne vertébrale en acier des dix grands projets de construction'
+description: "De l'habileté de Zhao Yaodong lors des négociations technologiques avec l'Europe et les États-Unis, à la première fumée blanche s'élevant de Xiaogang à Kaohsiung, China Steel a façonné la colonne vertébrale de l'industrie lourde de Taïwan pendant 50 ans, devenant le joyau le plus réussi des dix grands projets de construction."
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
-    'Economy',
+    'Économie',
     'Entreprise',
     'Industrie sidérurgique',
-    'Dix Grands Projets',
+    'Dix grands projets de construction',
     'Industrie lourde',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceCommitSha: '2c18749ee'
+sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-05-15T15:39:40+08:00'
+translatedAt: '2026-11-02T02:09:25.008716+00:00'
 ---
 
 > **Aperçu en 30 secondes**
@@ -31,13 +31,13 @@ translatedAt: '2026-05-15T15:39:40+08:00'
 
 Au début des années 1970, le bureau préparatoire de China Steel, en négociant des accords de coopération technique pour une aciérie à processus intégré, contacta plusieurs sidérurgistes européens. Mais les conditions proposées incluaient des clauses d'achat obligatoire d'équipements liés et des restrictions sur le développement technologique futur de Taïwan. Zhao Yaodong jugea ces conditions trop contraignantes et interrompit volontairement les négociations avec l'Europe pour se tourner vers les États-Unis, à la recherche d'un mode de coopération plus égalitaire.[^2]
 
-## La coopération technique avec McLouth Steel aux États-Unis
+## La coopération technique avec McLouth Steel (États-Unis)
 
-Zhao Yaodong décida de quitter l'Europe pour chercher un partenariat aux États-Unis. L'industrie sidérurgique américaine se montrait initialement sceptique quant aux capacités industrielles de Taïwan, estimant qu'une économie est-asiatique à peine sortie d'une politique de substitution aux importations serait incapable d'exploiter des installations d'aciérie à processus intégré, industrie à forte intensité capitalistique et à longue chaîne d'approvisionnement.[^2]
+Zhao Yaodong décida de quitter l'Europe pour chercher des partenariats aux États-Unis. L'industrie sidérurgique américaine manifestait initialement du scepticisme quant à la capacité industrielle de Taïwan, estimant qu'une économie d'Asie de l'Est sortant tout juste des politiques de substitution aux importations aurait du mal à exploiter des équipements industriels nécessitant des capitaux massifs et des chaînes d'approvisionnement longues, tels que les processus de fabrication intégrés de l'acier. [^2]
 
-À ce moment décisif, Zhao Yaodong fit preuve de la rationalité d'un ingénieur et de la sagesse d'un homme d'affaires. Il ne parla ni sentiment ni politique, mais démontra, données précises à l'appui, la base industrielle et la qualité des ressources humaines de Taïwan. Il proposa un plan incitant les Américains à s'engager : un transfert de technologie et une coopération à long terme, plutôt qu'un simple achat d'équipements.
+À ce moment crucial, Zhao Yaodong fit preuve de la rationalité de l'ingénieur et de la sagesse du marchand. Sans faire appel à l'émotion ou à la politique, il utilisa des séries de données précises pour prouver la solidité de la base industrielle taïwanaise et la qualité de sa main-d'œuvre. Il proposa un plan qui convainquit la partie américaine d'entrer dans le projet : un transfert de technologie et une coopération à long terme, plutôt qu'une simple transaction commerciale d'équipements.
 
-En 1972, China Steel signa un accord de coopération technique avec la société américaine **McLouth Steel** (une aciérie à processus intégrée du Michigan) et engagea le cabinet de conseil américain C.E. Lummus pour fournir une assistance en ingénierie. Ces négociations permirent non seulement à Taïwan d'économiser des fonds considérables, mais surtout d'obtenir l'autonomie technologique. La stratégie de Zhao Yaodong permit à China Steel d'emblée d'acquérir la capacité d'absorber, d'améliorer et de développer sa propre technologie, plutôt que de rester un simple acheteur d'équipements.
+En 1972, China Steel signa un accord de coopération technique avec l'entreprise américaine **McLouth Steel** (une aciérie intégrée du Michigan) et engagea la société de conseil américaine C.E. Lummus pour fournir un soutien en conception technique. Cette négociation permit non seulement d'économiser des fonds considérables pour Taïwan, mais surtout de garantir une autonomie technologique. Grâce à la stratégie de Zhao Yaodong, China Steel acquit dès le départ la capacité d'absorber, d'améliorer et de développer ses propres technologies, au lieu de n'être qu'un simple acheteur d'équipements.
 
 ## La première fumée blanche de Siaogang
 
@@ -83,12 +83,12 @@ Le président actuel de China Steel est **Huang Chien-chih** (黃建智), nommé
 
 ## Références
 
-[^1]: [China Steel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Historique de China Steel, incluant la fondation en 1971, l'allumage du haut fourneau en 1977 et la privatisation en 1995.
+[^1]: [China Steel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Historique de la China Steel Corporation, incluant sa fondation en 1971, l'allumage du premier haut fourneau en 1977 et sa privatisation en 1995.
 
-[^2]: [Epoch Times : Le « ministre de fer » dans le cœur du peuple — Zhao Yaodong et la légende de China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Récit des négociations de Zhao Yaodong avec McLouth Steel aux États-Unis et origine du surnom « ministre de fer » durant son mandat comme ministre de l'Économie en 1981.
+[^2]: [The Epoch Times : Le ministre « Tête de fer » profondément ancré dans le cœur du peuple, Zhao Yaodong crée la légende de China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Détails sur les négociations de coopération technique avec McLouth Steel aux États-Unis et l'origine du surnom « Ministre Tête de fer » provenant des archives de son mandat en tant que ministre de l'Économie en 1981.
 
-[^3]: [Site officiel de China Steel et rapport annuel 2024](https://www.csc.com.tw/) — Données opérationnelles les plus récentes et rapport annuel du groupe China Steel.
+[^3]: [Site officiel de la China Steel Corporation et rapport annuel 2024](https://www.csc.com.tw/) — Dernières données opérationnelles et rapport annuel du groupe China Steel.
 
-[^4]: [Dix Grands Projets — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexte politique des Dix Grands Projets de la République de Chine et positionnement de China Steel.
+[^4]: [Les Dix Grands Projets de Construction — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexte politique des dix grands projets de construction de la République de Chine et positionnement de China Steel.
 
-[^5]: [Statistiques de l'Association mondiale de l'acier](https://worldsteel.org/) — Classement mondial des aciéries et statistiques de capacité de production.
+[^5]: [Statistiques de la World Steel Association](https://worldsteel.org/) — Classement mondial des aciéries et statistiques de capacité de production.

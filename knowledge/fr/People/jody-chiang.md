@@ -1,14 +1,14 @@
 ---
-title: "Jody Chiang : l'icône du Hokkien issue des cabarets Nakasi de Beitou"
-description: "Jody Chiang (née Chiang Shu-hui en 1961 à Kaohsiung) a déménagé à Taipei à 9 ans pour chanter dans les cabarets Nakasi de Beitou. Son album « Les voix après l'ivresse » (1992) est le seul album en Hokkien à avoir dépassé le million d'exemplaires vendus à Taïwan. Après quatre Golden Melody Awards consécutifs entre 2000 et 2003, elle a pris sa retraite en 2015 avant de revenir sur scène lors du gala de la fête nationale au Taipei Dome en 2024."
+title: 'Jiang Hui : chanteuse taïwanaise issue du nakashi de Beitou'
+description: "Jiang Hui (née Jiang Shu-hui en 1961 à Kaohsiung) déménage à 9 ans du jour au lendemain avec sa famille à Taipei, où elle se produit dans les nakashi de Beitou. En 1992, « La voix du cœur après l'alcool » s'écoule à 1,16 million d'exemplaires à Taïwan, devenant le seul album en taïwanais à franchir le million selon les records officiels. De 2000 à 2003, elle remporte quatre fois consécutives le Golden Melody Award de la meilleure chanteuse taïwanaise. Elle prend sa retraite en 2015, puis fait son retour en 2024 lors du gala de la fête nationale au Taipei Dome."
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'Jody Chiang',
+    'Jiang Hui',
     'musique pop taïwanaise',
     'Golden Melody Awards',
-    'Nakasi Beitou',
+    'nakashi de Beitou',
     'culture taïwanaise',
   ]
 subcategory: '音樂與表演'
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 3
 curation: 'incubating'
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '149440f7b'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:96851634cab2df15'
 sourceBodyHash: 'sha256:2198acf02b5a4cd9'
-translatedAt: '2026-10-23T08:42:18+08:00'
+translatedAt: '2026-11-02T02:24:44.554149+00:00'
 ---
 
 # Jody Chiang : originaire des Nakasi de Beitou, l'interprète du seul album Hokkien au million d'exemplaires
