@@ -2,9 +2,7 @@
 title: 'Sekutu Diplomatik dan Diplomasi Internasional Taiwan: 12 Sekutu, 113 Kantor Perwakilan, Akses Bebas Visa ke 177 Negara (2026)'
 description: 'Pada 15 Januari 2024, 48 jam setelah Lai Ching-te terpilih sebagai presiden, Nauru mengumumkan pemutusan hubungan diplomatik sehingga jumlah sekutu diplomatik Taiwan turun dari 13 menjadi 12. Namun, pada tahun yang sama Taiwan memiliki 113 kantor perwakilan di luar negeri, paspornya dapat digunakan untuk memasuki 177 negara, TSMC memproduksi 90% cip canggih dunia, dan Parlemen Eropa dengan suara 432:60:71 mengesahkan resolusi yang menentang distorsi Tiongkok atas Resolusi Majelis Umum PBB 2758. Pengakuan di atas kertas menyusut, jaringan bayangan meluas, dan pertarungan penafsiran hukum internasional mulai berbalik arah.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '國際關係'
 tags:
   [
     'diplomasi',
@@ -14,10 +12,12 @@ tags:
     'Perserikatan Bangsa-Bangsa',
     'perisai silikon',
   ]
+subcategory: '國際關係'
+author: 'Taiwan.md Contributors'
 readingTime: 16
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
 sporeLinks:
   - id: 51
     platform: 'threads'
@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '669a4c87'
-sourceContentHash: 'sha256:03188362c6b1e61a'
-sourceBodyHash: 'sha256:e6881f1d2b6924ed'
-translatedAt: '2026-07-18T18:59:53+08:00'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:a769a15322237001'
+sourceBodyHash: 'sha256:0558fdc7cb927ea0'
+translatedAt: '2026-11-02T12:21:16.885955+00:00'
 ---
 
 # Sekutu Diplomatik dan Diplomasi Internasional Taiwan: 12 Sekutu, 113 Kantor Perwakilan, Akses Bebas Visa ke 177 Negara
@@ -262,34 +262,32 @@ Namun, pada tataran hukum internasional terdapat empat risiko nyata:
 
 Selama 12 sekutu diplomatik tetap dipertahankan, narasi tersebut tidak dapat berdiri. Karena itu, makna 12 negara ini secara terpisah terbatas; maknanya terletak pada fakta bahwa jumlah mereka **bukan 0**.
 
-## Tiga angka
+## Tiga Angka
 
-```text
-12                 113                    177
-sekutu diplomatik  kantor di luar negeri  tujuan paspor
+```
+12             113            177
+negara sekutu diplomatik         perwakilan di luar negeri       paspor bisa masuk
 ```
 
-Dua belas negara mengakui pemerintahan Republik Tiongkok (Taiwan) di Taiwan sebagai “pemerintahan sah Tiongkok”.
+12 negara mengakui pemerintah Republik Tiongkok (Taiwan) sebagai "pemerintah sah Tiongkok".
+113 perwakilan di seluruh dunia mewakili Taiwan menangani urusan nyata.
+177 negara tidak mengakui Republik Tiongkok, tetapi mengizinkan warga negara Taiwan masuk.
 
-Seratus tiga belas kantor mewakili Taiwan dan menangani urusan nyata di seluruh dunia.
+Parlemen Eropa 432 suara menyetujui resolusi menentang 2758. Saat Tsai Ing-wen meninggalkan jabatan pada Mei 2024, negara sekutu diplomatik berjumlah 12; bulan Oktober pasca-jabatan dia mengunjungi Parlemen Eropa atas undangan. Bonnie Glaser pernah mengatakan ketergantungan pada TSMC pernah ada pada satu momen. Mark Lambert pernah mengatakan 2758 tidak menyebut Taiwan.
 
-Seratus tujuh puluh tujuh negara tidak mengakui Republik Tiongkok (Taiwan), tetapi mengizinkan warga Taiwan masuk.
+Hal-hal ini terjadi bersamaan. Tidak ada satu pun yang disebut "status internasional Taiwan".
 
-Sebanyak 432 anggota Parlemen Eropa mendukung resolusi yang menentang distorsi atas Resolusi 2758. Ketika Tsai Ing-wen mengakhiri masa jabatannya pada Mei 2024, Taiwan memiliki 12 sekutu diplomatik; pada Oktober setelah meninggalkan jabatan, ia diundang mengunjungi Parlemen Eropa. Bonnie Glaser pernah berbicara tentang momen ketika ketergantungan pada TSMC disadari. Mark Lambert pernah mengatakan bahwa Resolusi 2758 tidak menyebut Taiwan.
+Jika ada, hal itu bukan 12, bukan 113, bukan 177, bukan 90% atau 30%.
 
-Semua hal ini berlangsung secara bersamaan. Tidak ada satu garis tunggal yang dapat disebut “kedudukan internasional Taiwan”.
+Itu adalah jarak di antara angka-angka ini.
 
-Kalaupun ada, kedudukan itu bukan 12, bukan 113, bukan 177, dan bukan pula 90% atau 30%.
+**Bacaan Lanjutan**:
 
-Kedudukan itu adalah jarak di antara angka-angka tersebut.
-
-**Bacaan lanjutan**:
-
-- [Pertahanan dan modernisasi militer Taiwan](/id/society/taiwan-defense-modernization) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
-- [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
-- [TSMC](/business/台積電) — landasan material perisai silikon dan kerentanan strukturalnya
-- [Cho Jung-tai](/id/people/cho-jung-tai) — lintasan tarif Amerika Serikat–Taiwan pada 2026 dari 32→20→15% dan koordinator kabinet untuk kunjungan Lai Ching-te ke Eswatini
-- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
+- [Pertahanan Taiwan dan Modernisasi Militer](/id/society/taiwan-defense-modernization) — Saat negara sekutu diplomatik tersisa 12, pertahanan militer mandiri adalah pilar lain menjaga "bukan 0"
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Bagaimana tiga krisis membentuk isolasi diplomatik Taiwan dan kecemasan keamanan
+- [TSMC](/id/economy/tsmc) — Dasar material Silicon Shield dan kerapuhan strukturalnya
+- [Cho Jung-tai](/id/people/cho-jung-tai) — Jejak tarif AS-Taiwan 2026 32→20→15% + koordinator kabinet kunjungan Lai Ching-te ke Eswatini
+- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Satu-satunya negara sekutu diplomatik di Afrika di antara 12, cerita lengkap 58 tahun dari pembukaan hubungan diplomatik pada hari yang sama 1968 hingga kunjungan Lai Ching-te 2026
 
 ## Referensi
 
