@@ -35,9 +35,9 @@ sporeLinks:
   ]
 relatedDiary: ['2026-07-26-202803-manual']
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: 'd6fdcf866'
-sourceContentHash: 'sha256:56ac16371a296013'
-sourceBodyHash: 'sha256:0ba20d6588799dfb'
+sourceCommitSha: '1ec0df23'
+sourceContentHash: 'sha256:8cca491527e42676'
+sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
 translatedAt: '2026-07-29T07:32:33+08:00'
 ---
 
