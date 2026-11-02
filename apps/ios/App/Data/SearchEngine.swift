@@ -53,11 +53,18 @@ struct SearchEngine {
         }
     }
 
-    /// 從正文純文字裡找第一個命中的詞，取前後各 40 字
+    /// 從正文原文（去掉標籤與腳註上標）找第一個命中的詞，取前後文。
+    /// 比對用寬窄、大小寫、變音符號都不分的方式，對應正規化欄的規則。
     static func snippet(db: SQLiteDB, key: String, terms: [String]) -> String? {
-        guard let body = db.scalar("SELECT body FROM search WHERE key = ?", [.text(key)]) else { return nil }
+        guard let html = db.scalar("SELECT html FROM bodies WHERE key = ?", [.text(key)]) else { return nil }
+        let body = html
+            .replacingOccurrences(of: "<sup[^>]*>.*?</sup>", with: "", options: .regularExpression)
+            .replacingOccurrences(of: "<[^>]+>", with: " ", options: .regularExpression)
+            .replacingOccurrences(of: "&amp;", with: "&").replacingOccurrences(of: "&quot;", with: "\"")
+            .replacingOccurrences(of: "&#39;", with: "'").replacingOccurrences(of: "&lt;", with: "<").replacingOccurrences(of: "&gt;", with: ">")
+            .replacingOccurrences(of: "\\s+", with: " ", options: .regularExpression)
         for t in terms {
-            guard let r = body.range(of: t) else { continue }
+            guard let r = body.range(of: t, options: [.caseInsensitive, .widthInsensitive, .diacriticInsensitive]) else { continue }
             let start = body.index(r.lowerBound, offsetBy: -40, limitedBy: body.startIndex) ?? body.startIndex
             let end = body.index(r.upperBound, offsetBy: 60, limitedBy: body.endIndex) ?? body.endIndex
             var s = String(body[start..<end]).replacingOccurrences(of: "\n", with: " ")

@@ -69,7 +69,7 @@ struct EraView: View {
                             if let meta { model.open(meta.ref) }
                         } label: {
                             HStack(alignment: .top, spacing: 12) {
-                                Text(ev.year).font(.headline.monospacedDigit()).foregroundStyle(era.tint)
+                                Text(ev.year.pick(lang)).font(.headline.monospacedDigit()).foregroundStyle(era.tint)
                                     .frame(minWidth: 52, alignment: .leading)
                                 VStack(alignment: .leading, spacing: 4) {
                                     Text(ev.title.pick(lang)).font(.headline).foregroundStyle(.primary)

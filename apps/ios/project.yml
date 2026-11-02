@@ -30,6 +30,8 @@ targets:
       path: Config/App-Info.plist
       properties:
         CFBundleDisplayName: Taiwan.md
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         CFBundleDevelopmentRegion: zh-Hant
         CFBundleLocalizations: [zh-Hant, en, ja]
         CFBundleURLTypes:
@@ -66,6 +68,8 @@ targets:
       path: Config/Widget-Info.plist
       properties:
         CFBundleDisplayName: Taiwan.md
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         NSExtension:
           NSExtensionPointIdentifier: com.apple.widgetkit-extension
     entitlements:

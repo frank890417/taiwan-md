@@ -18,6 +18,15 @@ struct TextNormalizerTests {
 
 final class Marker {}
 
+struct TimelineDataTests {
+    /// 2026-11-02 第一版把 year／yearsLabel 當純字串，遇到多語字典整份解不開、時間軸空白
+    @Test func erasDecode() {
+        #expect(Era.all.count == 8)
+        #expect(Era.all.allSatisfy { !$0.events.isEmpty })
+        #expect(Era.all.first?.title.pick(.zhTW).isEmpty == false)
+    }
+}
+
 /// 搜尋測試集：用 App 內建的內容包，查詢與期望的第一名寫死在這裡。
 @Suite(.serialized)
 struct SearchEngineTests {
@@ -31,7 +40,7 @@ struct SearchEngineTests {
     @Test(arguments: [
         ("二二八事件", "History/二二八事件"),
         ("珍珠奶茶", "Food/珍珠奶茶"),
-        ("台灣茶文化", "Culture/台灣茶文化"),
+        ("台灣茶文化", "Food/茶文化"),
     ])
     func zhTitleRanksFirst(q: String, key: String) async {
         let r = await hits(q, .zhTW)

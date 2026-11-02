@@ -69,6 +69,12 @@ final class AppModel {
         }
         ready = true
         if let k = UserDefaults.standard.string(forKey: "TWArticle") { open(ArticleRef(lang: readableLang, key: k)) }
+        // 截圖用：-TWOpen timeline | era:<id> | category:<資料夾名>
+        if let o = UserDefaults.standard.string(forKey: "TWOpen") {
+            if o == "timeline" { push(.timeline) }
+            else if o.hasPrefix("era:") { push(.timeline); push(.era(String(o.dropFirst(4)))) }
+            else if o.hasPrefix("category:"), let c = ArticleCategory(rawValue: String(o.dropFirst(9))) { push(.category(c)) }
+        }
         refreshWidget()
         await updater.checkIfDue(wifiOnly: wifiOnly)
     }
