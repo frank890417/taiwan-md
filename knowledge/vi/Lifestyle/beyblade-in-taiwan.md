@@ -1,15 +1,15 @@
 ---
-title: 'Beyblade: Một dự án thú vui của nhà sản xuất đã trở thành một môn thể thao cạnh tranh với hơn 600 trận đấu khắp Đài Loan trong 27 năm'
-description: 'Vào lúc 23 giờ sáng ngày 23 tháng 5 năm 2026, hàng người đã xếp hàng bên ngoài trung tâm thương mại Hồng Hoa ở Tân Bắc — những người xếp hàng này không phải đang đợi mua giày thể thao mà là đón xem giải đấu Beyblade toàn quốc, với ba vị nhất đạt được bộ phát ra tượng kim cương, bạc và đồng. Năm 1999, công ty đồ chơi Nhật Bản Takara ra mắt bản hoạt hình cùng tên để thúc đẩy bán xoay, và những học sinh lớp 1 thời đó, giờ đây đã trở thành những người lớn xếp hàng vào buổi sáng sớm. Một món đồ chơi không lớn lên, mà là đã phát triển thành một môn thể thao có trọng tài, điểm số và tiền thưởng.'
+title: 'Beyblade: Một kế hoạch khuyến mãi của nhà sản xuất đồ chơi, sau 27 năm biến thành môn thể thao với 600 cuộc thi đấu trên toàn Taiwan'
+description: 'Rạng sáng ngày 23 tháng 5 năm 2026, bên ngoài Trung tâm thương mại Honghui Xinzhuang đã xếp thành hàng dài, những người xếp hàng không phải tranh mua giày thể thao mới ra mắt, mà chờ một giải đấu Beyblade toàn quốc khai mạc, ba hạng nhất sẽ mang về bộ phát bắn ba màu vàng, bạc, đồng. Năm 1999, công ty đồ chơi Nhật Bản Takara cho ra mắt loạt phim hoạt hình cùng tên để bán vòng quay, những học sinh tiểu học năm nào xem phiên bản lồng tiếng Đài Loan, hôm nay đã thành những người lớn xếp hàng từ sớm mai. Một món đồ chơi không bao giờ "không lớn lên", mà đã trưởng thành thành một môn thể thao cạnh tranh có trọng tài, điểm số và tiền thưởng.'
 date: 2026-08-19
 category: 'Lifestyle'
 tags:
   [
     'Beyblade',
-    'đồ chơi',
-    'kỷ niệm tuổi thơ',
-    'môn thể thao cạnh tranh',
-    'nền kinh tế nostalgia',
+    'Đồ chơi',
+    'Ký ức tuổi thơ',
+    'Thể thao cạnh tranh',
+    'Kinh tế hoài niệm',
   ]
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
@@ -18,131 +18,133 @@ lastVerified: 2026-08-19
 lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
-rationale: null
-why_this_hook: '以 2026 年 5 月新莊宏匯廣場清晨排隊的真實畫面開場，取代「玩具懷舊」的慣性寫法，凸顯陀螺已競技化的反差。'
-whats_excluded: '不寫各世代動畫劇情細節、不寫二手市場行情與價格指南，聚焦玩具本身如何演化成運動。'
-where_it_hedges: '「全台每年 600 場以上比賽」來自第三方賽事整合平台而非官方統計；Hasbro 財報數字以新聞稿口徑為準。'
-whos_pushing_back: '玩具業者會主張這仍是「玩具」而非運動；玩家社群對 GEAR SPORTS 官方化的接受度也有分歧。'
+image: '/article-images/lifestyle/beyblade-tournament-incirlik-2012-hero.webp'
+imageCredit: 'U.S. Air Force photo by Senior Airman Clayton Lenhardt'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Beyblades_rip_into_Incirlik_120418-F-BS505-223.jpg'
+rationale:
+  why_this_hook: '以 2026 年 5 月新莊宏匯廣場清晨排隊的真實畫面開場，取代「玩具懷舊」的慣性寫法，凸顯陀螺已競技化的反差。'
+  whats_excluded: '不寫各世代動畫劇情細節、不寫二手市場行情與價格指南，聚焦玩具本身如何演化成運動。'
+  where_it_hedges: '「全台每年 600 場以上比賽」來自第三方賽事整合平台而非官方統計；Hasbro 財報數字以新聞稿口徑為準。'
+  whos_pushing_back: '玩具業者會主張這仍是「玩具」而非運動；玩家社群對 GEAR SPORTS 官方化的接受度也有分歧。'
 translatedFrom: 'Lifestyle/戰鬥陀螺.md'
-sourceCommitSha: '7492cf56b'
-sourceContentHash: 'sha256:5721a11524a1892d'
-sourceBodyHash: 'sha256:238cada628dc5182'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: 'a63cd7340'
+sourceContentHash: 'sha256:91aa52253afb126e'
+sourceBodyHash: 'sha256:2c69a76b1198a9c8'
+translatedAt: '2026-11-03T11:58:02.014106+00:00'
 ---
 
-Beyblade Trận chiến xoay
+# Beyblade: Một kế hoạch khuyến mãi của nhà sản xuất đồ chơi, sau 27 năm đã biến thành thể thao với hơn 600 giải đấu trên khắp Đài Loan
 
-_Beyblade Trận chiến xoay và bộ phát ra: Mỗi con xoay đều có thể tháo rời thành lưỡi dao, bánh xe và trục, người chơi tự lắp ráp cấu hình chiến lực (Photo: Dasilvaat, CC BY-SA 4.0, via Wikimedia Commons)_
+> **Tóm tắt 30 giây:** Beyblade không phải là đồ chơi "lớn lên là không chơi nữa". Sau khi thế hệ thứ tư Beyblade X ra mắt năm 2023, nhà sản xuất gốc định vị lại bộ đồ chơi này thành "GEAR SPORTS" — môn thể thao bánh răng, và năm 2025 lần đầu tiên tổ chức giải vô địch thế giới bao gồm khu vực Đài Loan. Hiện nay Đài Loan mỗi năm có hơn 600 giải đấu, cảnh người lớn xếp hàng mua vòng quay phiên bản giới hạn lên tin tức truyền hình. Đây là một câu chuyện bắt đầu từ bộ phim hoạt hình của Tokyo TV, trải qua sự tiến hóa của hệ thống bộ phận qua bốn thế hệ, cũng là một điển hình của kinh tế hoài cổ và cải tạo thể thao hóa cùng phát triển.
 
-**30 giây tóm tắt:** Beyblade không phải là món đồ chơi mà "lớn lên rồi không chơa nữa". Sau khi Beyblade X thế hệ thứ tư ra mắt vào năm 2023, nhà sản xuất đã tái định vị lại bộ sưu tập này thành "GEAR SPORTS" — một môn thể thao cạnh tranh với bánh răng. Năm 2025, giải vô địch thế giới lần đầu tiên được tổ chức tại khu vực Đài Loan. Hiện nay, Đài Loan có hơn 600 trận đấu mỗi năm, và cảnh tượng người lớn xếp hàng mua những con xoay đặc biệt đã xuất hiện trên các bản tin truyền hình. Đây là một câu chuyện về sự phát triển của một môn đồ chơi từ bộ phim hoạt hình của Nhật Bản, trải qua bốn thế hệ hệ thống linh kiện, đồng thời là một ví dụ điển hình của nền kinh tế nostalgia và sự cách mạng hóa học.
+## Cảnh xếp hàng từ rạng sáng: Bên cạnh chợ giày, Beyblade cũng có mặt trong hàng đợi
 
-Cảnh quan xếp hàng vào lúc sáng sớm: Ngoài thị trường giày dép, xoay được xếp hàng
+Lúc rạng sáng ngày 23 tháng 5 năm 2026, trước Quảng trường Hong Hui tại Tân Trang, Tân Bắc, đã vào một lượng lớn người chơi Beyblade, xếp hàng cho giải đấu cấp quốc gia 「Cúp Cực hạn G2」 diễn ra trong ngày. Không ít người đến sớm để mua được launcher phiên bản giới hạn và Beyblade phiên bản giới hạn; ba người đứng đầu giải sẽ mang về launcher ba màu vàng, bạc, đồng. Cùng cuối tuần đó, giải công khai Trung Đài Loan trao giải nhất 6.000 NT$, giải nhì 5.000 NT$, và ban tổ chức đã công bố cấu hình Beyblade của quán quân trên mạng xã hội để người chơi tham khảo.
 
-Vào lúc 23 giờ sáng ngày 23 tháng 5 năm 2026, khu vực bên ngoài trung tâm thương mại Hồng Hoa ở Tân Bắc đông nghẹt người chơi Beyblade, xếp hàng cho giải đấu quốc gia "Giới hạn G2" diễn ra trong ngày hôm đó. Nhiều người đến rất sớm để mua những bộ phát ra đặc biệt và những con xoay đặc biệt. Ba người đầu tiên sẽ nhận được bộ phát ra kim cương, bạc và đồng. Trong cùng một cuối tuần, giải cứ danh dự thưởng cho giải mở cửa khu vực trung tâm của Đài Loan là 6.000 NTD cho giải nhất, 5.000 NTD cho giải nhì, và ban tổ chức công bố cấu hình chiến lược của người thắng cuộc lên mạng xã hội để mọi người nghiên cứu.
+Khi trải ra con số «600 trận», ta thấy cốt lõi của cơn sốt này: Đài Bắc, Đài Trung, Cao Hùng đều có địa điểm tổ chức thi đấu cố định, cửa hàng phân phối và trung tâm thương mại tổ chức giải mỗi tuần, tổng cộng cả năm hơn 600 trận. Đồ chơi mười phút giờ giải lao của học sinh tiểu học, nay đã có người lớn xếp hàng từ rạng sáng, có trọng tài phán thắng thua, và có phân tích cấu hình Beyblade công khai trên mạng xã hội.
 
-Khi nhìn vào con số "600 trận", chúng ta có thể thấy được cơ sở cụ thể của làn sóng nhiệt động này: Bắc Đài, Trung Đài và Hải Đài đều có những địa điểm cố định để tổ chức trận đấu. Các cửa hàng bán lẻ và trung tâm thương mại cũng tổ chức trận đấu hàng tuần. Suốt cả năm, tổng số trận đấu vượt quá 600 trận. Những món đồ chơi dùng cho nghìn lẻ trong giờ nghỉ học của học sinh tiểu học giờ đây đã trở thành những vận động viên người lớn xếp hàng vào buổi sáng sớm, có trọng tài quyết định thắng bại, và cả những phân tích cấu hình chiến lược được công bố công khai trên mạng xã hội.
-
+```tw-quote
 3, 2, 1, let it rip!
-ADK Emotions NY (Hasbro, đại lý bản quyền kinh doanh Beyblade) trong tài liệu quảng cáo cho giải vô địch thế giới
+ADK Emotions NY | Hasbro đại lý ủy quyền kinh doanh Beyblade, văn bản tuyên truyền giải vô địch thế giới
+```
 
-Từ Beigoma đến xoay nhựa: Sự ra đời của một dự án thú vui
+## Từ Beigoma đến chiếc quay nhựa: Sự ra đời của một kế hoạch quảng bá
 
-Dòng chảy máu của Beyblade có thể truy nguyên về một món đồ chơi truyền thống của Nhật Bản gọi là "Beigoma" (べいこま), một loại xoay gỗ được truyền lại từ thời Edo, người chơi dùng sợi dây quấn quanh ngón tay kéo để quay nó, sau đó dùng xoay va chạm với nhau để quyết định thắng bại. Năm 1999, công ty đồ chơi Takara (sau này hợp nhất với Tomy vào năm 2006 thành Takara Tomy) ra mắt xoay nhựa có thể tháo rời dựa trên cảm hứng từ Beigoma, đồng thời ra mắt truyện tranh và bộ phim hoạt hình cùng tên để thúc đẩy bán hàng.
+Huyết thống của chiến đấu quay có thể truy nguyên về đồ chơi truyền thống Nhật Bản «Beigoma» (べいこま), một loại quay gỗ lưu truyền từ thời Edo, người chơi dùng dây quấn quanh ngón tay rút để làm quay, sau đó dùng các chiếc quay va chạm nhau để phân thắng bại. Năm 1999, công ty đồ chơi Takara (特佳麗, năm 2006 sáp nhập với Tomy thành Takara Tomy) lấy cảm hứng từ Beigoma cho ra mắt chiến đấu quay nhựa có thể tháo lắp, đồng thời phát hành truyện tranh và hoạt hình cùng tên, dùng nội dung để tạo thế cho đồ chơi.
 
-Xoay truyền thống Nhật Bản Beigoma
-_Beigoma (beigoma): Một loại xoay Nhật Bản từ thời Edo, dùng dây kéo để quay và sau đó va chạm với nhau, là nguồn cảm hứng cho Beyblade (Photo: Σ64, CC BY 3.0, via Wikimedia Commons)_
+![Một bộ Beigoma trải trên bàn, các chiếc quay kim loại nhỏ xếp thành hàng, bên cạnh đặt dây quấn](/article-images/lifestyle/beigoma-traditional-japanese-top.webp)
+_Beigoma: loại quay Nhật lưu truyền từ thời Edo, dùng dây rút làm quay rồi va chạm nhau, là nguồn cảm hứng của chiến đấu quay (Photo: Σ64, CC BY 3.0, via Wikimedia Commons)_
 
-Khi mẫu này được đưa vào thị trường Đài Loan, nó đã đạt được thành công đáng kể. Bản phát âm tiếng Việt của bộ phim hoạt hình cũng đóng vai trò rất quan trọng. Từ năm 2001, Beyblade bắt đầu được phát sóng trên Nhật Bản Tokyo TV, tổng cộng 51 tập, do Madhouse sản xuất. Bản phát âm tiếng Việt được thực hiện bởi các diễn viên bao gồm Hà Thế Vĩ, Quan Tân Dĩ, Trần Diễm Tâm, và được phát sóng qua truyền hình truyền hình Trung Quốc và truyền hình tám đại. Người dẫn dắt dự án phát âm là Quan Chí Công. Bộ phim hoạt hình tạo ra nhân cách "Thần thú thiêng liêng" cho những chiếc xoay, mỗi loài như Rồng, Phượng, Hổ Trắng, và Thú Bạch đều có người sở hữu riêng. Những chiếc đĩa tròn trước cửa cửa hàng đồ chơi đã trở thành "lãnh thổ" của những đứa trẻ sau giờ học.
+Mô hình này khi đổ bộ tại Đài Loan thành công đặc biệt, phiên bản hoạt hình tiếng Đài Loan có công lớn. 《戰鬥陀螺》 từ năm 2001 phát sóng trên Đài Truyền hình Tokyo (東京電視台), toàn 51 tập, do Madhouse sản xuất. Phiên bản Đài Loan do Hà Thế Phương, Tiền Tín Dực, Triển Nga Thịnh lồng tiếng, phát sóng qua Công ty Truyền hình Trung Quốc (中國電視公司) và Đài GTV (八大綜合台), trưởng nhóm lồng tiếng là Quán Chí Hồng. Hoạt hình ban cho các chiếc quay «thần thú» nhân cách, Thanh Long, Chu Tước, Bạch Hổ, Huyền Vũ mỗi loại có chủ nhân, chiếc quay nhựa đồng chất của mỗi đứa trẻ biến thành người bạn có tên tuổi. Chiếc盤 tròn trước cửa hàng đồ chơi Đài Loan, trở thành giang hồ sau giờ tan học.
 
-Bốn thế hệ linh kiện: Mỗi lần cập nhật đều là một "sự chia cắt"
+## Bốn thế hệ linh kiện: Mỗi lần cải tiến đều là một lần «ngắt quãng»
 
-Các linh kiện của bốn thế hệ Beyblade không tương thích với nhau, mỗi thế hệ đều là một sự khởi đầu mới. Sự thiết kế cố ý "chia cắt" này, đối với ngành công nghiệp đồ chơi, là để xóa khoản tồn kho, còn đối với người chơi, là để làm mới.
+Bốn thế hệ Beyblade không tương thích linh kiện lẫn nhau, mỗi thế hệ đều là một lần khởi động lại độc lập. Thiết kế «ngắt quãng» có chủ đích này, đối với ngành đồ chơi là thanh kho, đối với người chơi là đổi máu:
 
-Lộ trình phát triển thế hệ của Beyblade
-1999 | Thế hệ đầu tiên (Xoay bùng nổ) | Takara ra mắt xoay nhựa có thể tháo rời và bộ phim hoạt hình cùng tên, Hasbro đạt được bản quyền quốc tế vào năm 2002
-2008 | Linh hồn kim loại | Các bộ phận kim loại được thêm vào, âm thanh va chạm và hiệu ứng lửa được tăng cường. Năm 2009, bộ phim hoạt hình bắt đầu phát sóng
-2015 | Thế hệ bùng nổ | Hệ thống cấu trúc tầng lớp. Xoay sẽ "bùng nổ" và tan rã khi chịu đựng sự tấn công mạnh mẽ, thêm một cách để quyết định thắng bại
-2023 | Beyblade X | Hệ thống bánh răng và bánh đĩa Xtreme, nhà sản xuất định vị đây là một môn thể thao GEAR SPORTS
-Nguồn: Trung tâm tin của Hasbro, Wikipedia, 2025
+```tw-timeline
+Quỹ đạo các thế hệ Beyblade
+1999 | Thế hệ đầu tiên (Bakuten Shoot Beyblade) | Takara tung ra chiếc quay đối chiến nhựa và bộ phim hoạt hình cùng tên, Hasbro giành bản quyền quốc tế năm 2002
+2008 | Metal Fight Beyblade | Linh kiện kim loại được thêm vào, hiệu ứng va chạm và tia lửa được tăng cường. Phim hoạt hình phát sóng năm 2009
+2015 | Beyblade Burst | Hệ thống linh kiện cấu trúc lớp. Chiếc quay bị tấn công mạnh sẽ «bùng nổ» tách rời, thêm một cách định thắng bại
+2023 | Beyblade X | Hệ thống rãnh bánh răng và盤 chiến đấu Xtreme, nhà sản xuất định vị là thể thao GEAR SPORTS
+Nguồn: Phòng tin tức Hasbro、Wikipedia，2025
+```
 
-Thế hệ Kim loại linh hồn (đồ chơi năm 2008, bộ phim hoạt hình năm 2009) đã mang lại âm thanh va chạm kim loại và hiệu ứng lửa cho những chiếc xoay. Thế hệ Bùng nổ (từ năm 2015) lại giới thiệu cấu trúc tầng lớp, những chiếc xoay sẽ tan rã thành "bùng nổ" khi chịu đựng sự tấn công mạnh mẽ, thêm một yếu tố kịch tính cho quyết định thắng bại. Điều đáng chú ý đối với người chơi Đài Loan là, vào năm 2017 và 2018, các vị vô địch của Giải vô địch châu Á do chính người Đài Loan giành lại, cho thấy Đài Loan đã trở thành một thị trường cạnh tranh thực sự ở thế hệ đó.
+Thế hệ Metal Fight Beyblade (đồ chơi năm 2008, phim hoạt hình năm 2009) mang đến tiếng va chạm kim loại và tia lửa cho chiếc quay. Thế hệ Beyblade Burst (từ năm 2015) lại đưa vào cấu trúc lớp, chiếc quay khi chịu tấn công mạnh sẽ tách rời «bùng nổ», khiến việc định thắng bại ngay lập tức thêm một chút căng thẳng kịch tính. Đáng chú ý cho người chơi Đài Loan, quán quân Giải Á Châu chính thức năm 2017, 2018 đều do vận động viên Đài Loan giành lấy, Đài Loan trong thế hệ đó đã là một thị trường thi đấu có thực lực.
 
-Thế hệ thứ tư Beyblade X được ra mắt vào năm 2023, với sự đổi mới lớn nhất là việc thêm bánh răng vào viền bánh đĩa chiến đấu: khi trục xoay của xoay hợp lực với bánh răng, nó sẽ bứt tốc độ, nhanh đến mức người ta có thể thấy được bằng mắt thường. Nhà sản xuất chính thức đưa bộ sưu tập này vào danh mục "GEAR SPORTS", bán đồ chơi và tổ chức thi đấu.
+Thế hệ thứ tư Beyblade X ra mắt năm 2023, đổi mới lớn nhất là thêm rãnh bánh răng ở mép盤 chiến đấu: trục quay cắn vào rãnh sẽ bỗng nhiên tăng tốc lao đi, nhanh đến mức mắt thường thấy rõ. Nhà sản xuất chính thức định nghĩa bộ đồ chơi này là «GEAR SPORTS», vừa bán đồ chơi, vừa tổ chức thể thao.
 
-Trận đấu vô địch Beyblade
-_Xoay đang va chạm trên bánh đĩa trong trận đấu cạnh tranh: xoay cuối cùng vẫn đang quay sẽ thắng cuộc (Photo: U.S. Air Force photo by Senior Airman Clayton Lenhardt, public domain, via Wikimedia Commons)_
+![Hai đứa trẻ ngồi xếp bằng hai bên盤 chiến đấu nhựa xanh, một người đang kéo dây phóng, hai chiếc quay trong盤 vẫn đang xoay, bên cạnh người lớn và trẻ khác quan sát](/article-images/lifestyle/beyblade-tournament-incirlik-2012-hero.webp)
+_Trường thi đấu chiếc quay va chạm nhau trên盤 chiến đấu: chiếc quay vẫn còn xoay đến cuối cùng thắng (Ảnh: Không gian công cộng, qua Wikimedia Commons)_
 
-Học thuật trong bánh đĩa chiến đấu
+## Học tính điểm trong盤 chiến đấu
 
-Trong các trận đấu chính thức, hai người chơi sẽ bắn xoay vào bánh đĩa hình bát, và có bốn cách để quyết định thắng bại: thắng bằng sự quay trường (so với đối thủ quay lâu hơn) được một điểm, thắng bằng cách đẩy ra ngoài bánh đĩa được hai điểm, thắng bằng cách bùng nổ (va chạm cho đến khi tan rã) được hai điểm, và thắng bằng cách giới hạn đặc biệt của thế hệ X (đối thủ rơi vào khu vực tập trung và không thể trở lại khu vực chiến đấu) được ba điểm — gấp ba lần so với thắng bằng sự quay trường. Những chiếc xoay được chia thành bốn loại: tấn công, phòng thủ, bền vững và cân bằng, tồn tại logic tương tự như kéo búa giấy: tấn công thắng bền vững, bền vững thắng phòng thủ, phòng thự thắng tấn công.
+Trong các trận đấu chính thức, hai người chơi phóng Beyblade vào盤 chiến đấu hình bát, thắng thua được quyết định bằng bốn cách: thắng nhờ xoay lâu (xoay lâu hơn đối thủ) được một điểm, thắng nhờ đánh bay (đánh ra khỏi盤) được hai điểm, thắng nhờ nổ vỡ (đánh tan rơi) được hai điểm, và thắng cực hạn đặc trưng của thế hệ X (Beyblade của đối thủ rơi vào khu vực tập trung và không thể quay lại khu vực chiến đấu) giá trị cao nhất là ba điểm. Beyblade được chia thành bốn loại: tấn công, phòng thủ, bền bỉ, cân bằng, tồn tại logic tương khắc giống như kéo-búa-bao: tấn công khắc bền bỉ, bền bỉ khắc phòng thủ, phòng thủ khắc tấn công.
 
-Sự cạnh tranh trang bị của cộng đồng người chơi còn chi tiết hơn những quy tắc cơ bản này. Mỗi chiếc xoay cùng mẫu mã đều có sự khác biệt nhỏ về kích thước. Những người chơi cao cấp sẽ dùng cân điện tử để chọn ra những bộ phận nặng nhất. Lực kéo, góc phát và điểm rơi xuống đều ảnh hưởng đến kết quả trận đấu. Thậm chí ứng dụng điện thoại của nhà sản xuất còn ghi lại tốc độ quay sau mỗi lần phát. Một chiếc xoay đồ chơi giờ đây đã có dữ liệu, có luyện tập, có cấu hình, và xa xa xa "để mọi thứ tùy duyên".
+```tw-stat
+Ba điểm | Giá trị điểm thắng cực hạn của thế hệ X | Gấp ba lần thắng xoay
+Nguồn: GQ Taiwan, 2026
+```
 
-Ba điểm | Giá trị của "thắng giới hạn" trong thế hệ X | Ba lần so với thắng bằng sự quay trường
+Cuộc đua vũ trang trong cộng đồng người chơi tinh vi hơn bộ quy tắc cơ bản này. Mỗi chiếc Beyblade cùng một mẫu mã đều có những khác biệt nhỏ về thể chất, người chơi nâng cao dùng cân điện tử để chọn những linh kiện nặng nhất. Cường độ kéo, góc phóng và điểm rơi đều ảnh hưởng đến cục diện, ngay cả ứng dụng điện thoại chính thức cũng ghi lại tốc độ xoay sau mỗi lần phóng. ChiếcBeyblade này, ngày nay đã có dữ liệu, có huấn luyện, có cấu hình, đã xa rời "nghe thiên bởi mệnh" rất xa.
 
-Sân chơi thế giới và cuốn sổ tài chính của Hasbro
+## Sân khấu thế giới và sổ sách của Hasbro
 
-Sự cách mạng hóa học của nhà sản xuất không chỉ dừng lại ở lời hứa vô nghĩa. Vào ngày 21 tháng 3 năm 2025, trong ngày "Beyblade Day", Hasbro đã công bố việc giải vô địch thế giới Beyblade X bắt đầu toàn cầu. Từ tháng 4, các vòng loại ở mỗi khu vực sẽ bắt đầu, và vào đầu tháng 10, vòng chung kết sẽ được tổ chức tại Tháp Thời gian Tokyo. Tài liệu báo chí chính thức liệt kê các khu vực tham gia bao gồm Hoa Kỳ, Canada, Pháp, Đài Loan và Brazil. Trong cùng một tài liệu báo chí, trích dẫn số liệu từ cơ quan nghiên cứu thị trường Circana: bộ sưu tập Beyblade X Xtreme Battle Set là mẫu hàng bán chạm kim loại hoạt động tốt nhất trong năm 2024.
+Việc nhà máy gốc đưa vào thể thao cạnh tranh không chỉ dừng lại ở khẩu hiệu. Ngày 21 tháng 3 năm 2025, dịp «Beyblade Day», Hasbro tuyên bố giải vô địch thế giới BEYBLADE X chính thức khai mạc toàn cầu, từ tháng 4 các vòng loại khu vực bắt đầu diễn ra, đầu tháng 10 chung kết đặt chân tại Tháp Tokyo. Bản tin báo chí chính thức nêu rõ các khu vực tham gia, bao gồm Mỹ, Canada, Pháp, Đài Loan, Brazil. Cùng bản tin báo chí trích dẫn dữ liệu của cơ quan nghiên cứu thị trường Circana: Bộ Beyblade X Xtreme Battle Set là sản phẩm bán chạy nhất năm 2024 trong hạng mục đồ chơi nhân vật hành động.
 
-Trong khi đó, ngành công nghiệp đồ chơi toàn cầu đang chịu áp lực lớn. Trong nửa đầu năm 2025, doanh thu của bộ phận đồ chơi của Hasbro giảm do ảnh hưởng của thuế quan và đơn đặt hàng yếu từ các nhà bán lẻ. Khi nhìn vào báo cáo tài chính cùng năm, Hasbro lại đưa Beyblade vào danh sách những điểm sáng tăng trưởng của bộ phận hàng tiêu dùng. Trong một đường cong giảm dần, một chiếc xoay 27 tuổi đang tăng trưởng ngược chiều. Nostalgia trong lĩnh vực kinh doanh này không chỉ là một loại thuốc an thần cho thời kỳ suy giảm, mà là một phân khúc đang mở rộng.
+Cùng lúc đó, toàn ngành đồ chơi đang đối mặt với gió ngược. Nửa đầu năm 2025, doanh thu bộ phận đồ chơi của Hasbro giảm do tác động của thuế quan và đơn đặt hàng của nhà bán lẻ suy yếu, tổng thể các dòng đồ chơi truyền thống chịu áp lực. Tra cứu báo cáo tài chính cùng năm, Hasbro lại liệt kê Beyblade là một trong những điểm sáng tăng trưởng của bộ phận hàng tiêu dùng. Trong một đường cong giảm sút trọn vẹn, một chiếc quay 27 tuổi ngược dòng tăng trưởng. Sự hoài cổ trong dòng kinh doanh này, là một trong những hạng mục hiếm hoi vẫn đang mở rộng, chứ không phải thuốc an ủi cho kỳ suy thoái.
 
-Một số lượt tăng giảm trong cùng một báo cáo tài chính của Hasbro (2025)
-Bộ phận hàng tiêu dùng (Consumer Products) | Doanh thu toàn năm giảm 4%, nửa đầu năm giảm 16% trong một quý
-Beyblade | Được liệt kê là một điểm sáng tăng trưởng của bộ phận hàng tiêu dùng, bộ sưu tập chiến đấu X là mẫu hàng bán chạm kim loại hoạt động tốt nhất trong năm 2024
-Nguồn: Tài liệu báo chí của Hasbro, 2026
+```tw-stat
+Một tăng một giảm trong cùng một báo cáo tài chính Hasbro (2025)
+−4% | Doanh thu toàn năm bộ phận Đồ chơi (Consumer Products) | Quý đơn lẻ nửa đầu năm giảm tới 16%
+Hạng 1 | Doanh số Beyblade X Xtreme Battle Set năm 2024 trong hạng đồ chơi nhân vật hành động | Cùng báo cáo tài chính liệt kê Beyblade là điểm sáng tăng trưởng của bộ phận
+Nguồn: Bản tin báo chí báo cáo tài chính Hasbro, 2026
+```
 
-Xu hướng và nostalgia: Làm thế nào để xoay trở lại túi xách của người lớn?
+## Xu hướng và hoài niệm: Beyblade trở lại túi áo người lớn
 
-Năm 2024, diễn viên Timothée Chalamet tại buổi lễ ra mắt phim "A Complete Unknown" đã cầm một chiếc xoay Beyblade vào hình ảnh, và cảnh quay này lan truyền mạnh mẽ trên mạng xã hội. Ở Đài Loan, điểm bùng phát của làn sóng này còn quen thuộc hơn: trong dịp Tết năm nay, một bài đăng trên Threads hỏi về Beyblade đã trở thành một "sân chơi lớn để chia sẻ kinh nghiệm", và MC truyền hình Bobo cũng xuất hiện trong bình luận để chia sẻ cấu hình xoay của mình.
+Năm 2024, diễn viên Timothée Chalamet xuất hiện tại buổi ra mắt phim 《A Complete Unknown》 với một chiếc Beyblade trên tay, hình ảnh lan truyền mạnh trên mạng xã hội. Tại Đài Loan, điểm bùng nổ của trending này lại gần gũi hơn: dịp Tết năm nay, một bài đăng trên Threads hỏi về Beyblade biến thành một "hội nhập hố" quy mô lớn, MC Boen cũng hiện thân bình luận chia sẻ cấu hình Beyblade của mình.
 
-**📝 Ghi chú của người biên tập**
+> **📝 Ghi chú của người bảo tàng**
+> Kinh tế hoài niệm thường được nói là "bán ký ức", nhưng sự trỗi dậy của Beyblade bộc lộ một cơ chế thú vị hơn: **Ký ức chỉ là vé vào cửa, thi đấu mới là thủ đoạn giữ chân khách**. Sự hồi sinh của thẻ Pokémon nhờ thị trường sưu tầm, Tamagotchi nhờ tái bản hoài niệm, duy nhất Beyblade thiết kế lại đồ vật tuổi thơ thành một môn thể thao có dữ liệu, có lịch thi đấu, có bảng xếp hạng — như vậy người tiêu dùng từ "mua về sưu tầm" biến thành "mua về thi đấu", giá trị đơn hàng trung bình và tỷ lệ mua lại cùng được kéo cao. Năm 2018 vận động viên Đài Loan giành chức vô địch cúp châu Á, năm 2025 Đài Loan có tên trong phân khu vực giải vô địch thế giới, năm 2026 người chơi xếp hàng từ sáng sớm, ba sự việc nối liền nhau cho thấy Đài Loan chính là một trong những thị trường có hiệu quả rõ rệt nhất của "cải tạo thể thao hóa".
 
-Nostalgia thường được miêu tả như "bán lại kỷ niệm", nhưng làn sóng này của Beyblade phơi bày một cơ chế thú vị hơn: **kỷ niệm chỉ là vé mời, cạnh tranh mới là cách để giữ chân khách hàng**. Sự trở lại của Pokémon Card dựa vào thị trường sưu tập, Tamagotchi dựa vào việc phát hành lại phiên bản nostalgia, nhưng riêng Beyblade đã thiết kế lại vật phẩm tuổi thơ thành một môn thể thao có dữ liệu, có lịch trình và có xếp hạng — vì vậy người tiêu dùng chuyển từ "muốn mua về để sưu tập" sang "muốn mua về để thi đấu", đồng thời tăng cả giá thành đơn lẻ và tỷ lệ mua lại. Năm 2018, cầu thủ Đài Loan giành giải nhì Giải vô địch châu Á; năm 2025, Đài Loan được liệt kê trong các khu vực của Giải vô địch thế giới; năm 2026, người chơi xếp hàng vào buổi sáng sớm — ba sự kiện này cùng lại cho thấy Đài Loan là một trong những thị trường có hiệu quả cách mạng hóa học rõ rệt nhất.
+## Vùng xám: Sự nghiêm túc của người lớn và đồ chơi của trẻ em
 
-Khu vực xám: Sự nghiêm túc của người lớn và sự chơi đùa của trẻ em
+Việc thể thao hóa đã đi đến bước này, cũng mang lại những vấn đề mà ngành đồ chơi không quen đối mặt. Báo chí từng tiết lộ tại các giải đấu chính thức, người chơi để thăng hạng đã bí mật thêm trọng lượng, cải tạo không chính quy thân máy, thậm chí còn biến trang để đăng ký thi đấu trùng lặp. Khi tâm lý thắng thua của người lớn lấn át tinh thần chơi game của trẻ em, hệ thống trọng tài và lỗ hổng quy định trở thành giai đoạn phát triển bắt buộc phải trải qua. Những hỗn loạn này bản thân cũng là một bằng chứng: con quay đã quan trọng đến mức đáng để gian lận.
 
-Khi sự cách mạng hóa học đi đến mức này, ngành công nghiệp đồ chơi cũng phải đối mặt với những vấn đề chưa từng có. Báo chí từng tiết lộ rằng trong các trận đấu chính thức, một số người chơa trái phép thêm trọng lượng vào máy móc để xin thăng cấp, thậm chí còn dùng trang phục giả mạo để đăng ký lại nhiều lần. Khi trái tim của người lớn thắng lợi hơn trò chơi của trẻ em, hệ thống trọng tài và những lỗ hổng trong quy tắc sẽ trở thành những thách thức không thể tránh khỏi trong giai đoạn phát triển. Những hành vi thiếu văn hóa này cũng là một bằng chứng: xoay đã trở nên quan trọng đến mức người ta sẵn sàng gian lận.
+> **📝 Ghi chú của người策 triển**
+> Chú ý sự lệch pha thế hệ trong cuộc phục hưng này: **Nhà sản xuất đồ chơi dùng thông số kỹ thuật của đồ chơi trẻ em, bán cho những người lớn không hề trẻ con**. Khuyến nghị độ tuổi chính thức là từ 8 tuổi trở lên, nhưng những người xếp hàng từ sớm sáng để mua bộ phát射 giới hạn lại là người lớn. Giải vô địch thế giới thiết lập Regular Class cho độ tuổi 8-12 và Open Class cho 13 tuổi trở lên, nhưng vẫn không cản được người lớn chen chúc vào nhóm người lớn. "Giới hạn tuổi" của đồ chơi đã mất hiệu lực trước sự thể thao hóa — đây chắc hẳn là cái kết không ai ghi vào bản trình bày tại hội nghị hoạch định của Takara năm 1999.
 
-**📝 Ghi chú của người biên tập**
+## Kết: Lần phát射 tiếp theo
 
-Lưu ý sự lệch thế hệ trong cuộc cách mạng nghệ thuật này: **nhà sản xuất đồ chơi dùng thiết kế dành cho trẻ em bán cho những người lớn không còn đủ tuổi**. Độ tuổi đề xuất là từ 8 tuổi trở lên, nhưng những người xếp hàng vào buổi sáng sớm để mua bộ phát ra đặc biệt là những người lớn. Giải vô địch thế giới có lớp Regular Class dành cho độ tuổi 8-12 và lớp Open Class dành cho độ tuổi 13 trở lên, nhưng vẫn không thể ngăn được những người lớn xâm nhập vào lớp dành cho người lớn. "Giới hạn tuổi" của đồ chơi đã mất hiệu lực trước sự cách mạng hóa học — đây có lẽ là kết cụ cuối cùng mà không ai ghi vào bản trình bày vào năm 1999 của Takara.
+Quay lại buổi sáng đó tại Quảng trường Honghui. Trong đám người xếp hàng, không ít người đã từng xếp hàng hai mươi năm trước — chỉ là lúc đó họ mua bộ Thánh Thú Tứ Linh: Long Kỵ Sĩ, Liệt Diêm Phi Phụng, Ngân Nha Liệp Hổ, Kiền Giáp Chiến Quy, những bộ khởi đầu mua bằng tiền tiêu vặt tích lũy. Ngày nay họ dùng thu nhập của người lớn, nghiên cứu số răng trục, dùng cân điện tử chọn linh kiện, xếp hàng từ sớm sáng để mua bộ phát射 giới hạn.
 
-Kết luận: Lần phát ra tiếp theo
+Con quay bản thân không thay đổi, thay đổi的是 người phát射 con quay đã lớn lên. Nhà sản xuất đồ chơi thuận thế không ngăn cản, ngược lại còn tổ chức thành các giải đấu. Lần sau khi bạn nghe "3, 2, 1, GO SHOOT", hãy lắng nghe kỹ — đó có thể là một nhóm người lớn, đang thay cho mười phút giải lao năm xưa của chính mình, hoàn thành một giải vô địch quốc gia đã trễ hai mươi năm.
 
-Quay lại khoảnh khắc sáng sớm tại trung tâm thương mại Hồng Hoa. Trong số những người xếp hàng, có rất nhiều người đã từng xếp hàng cách đây hai mươi năm — chỉ là lần ấy họ đang xếp hàng để mua bộ sưu tập bốn linh hồn thiêng liêng: Rồng, Phượng Hoa, Sư Tử và Rùa Cứng, dùng những đồng xu tiền tiết của mình để mua. Giờ đây, họ dùng thu nhập của người lớn để nghiên cứu số răng trên trục, dùng cân điện tử để chọn linh kiện, và xếp hàng vào buổi sáng sớm để mua bộ phát ra đặc biệt.
+## Đọc thêm
 
-Chính xoay không thay đổi, những người phát ra xoay đã lớn lên. Nhà sản xuất không ngăn cản điều này, mà còn tổ chức nó thành một trận đấu. Lần sau khi bạn nghe thấy "3, 2, 1, GO SHOOT", hãy lắng nghe kỹ — đó có thể là một nhóm người lớn đang hoàn thành một trận đấu quốc gia trễ hai mươi năm so với thời gian của chính mình.
+- Tại sao "Beyblade" lại bùng nổ trở lại? Từ nguồn gốc hoạt hình, quy tắc đối chiến đến trang bị và chiến lược một lần giải mã (GQ Taiwan)
+- BEYBLADE X 官方網站
 
-Đọc thêm: Tại sao "Beyblade" lại bùng nổ một lần nữa? Từ nguồn gốc hoạt hình, quy tắc chiến đấu đến trang bị và chiến lược — tất cả trong một bài viết (GQ Taiwan), trang web chính thức của Beyblade X
+## Tài liệu tham khảo
 
-Tài liệu tham khảo
+1. Yahoo News／TVBS: Độc quyền! Giải đấu Beyblade toàn quốc! Người chơi xếp hàng từ sớm mai để «muaBeyblade giới hạn» (tháng 5 năm 2026) — Báo đạo ngày 23 tháng 5 năm 2026 tại hiện trường Giải Cực hạn Toàn quốc Quảng trường Hồng Hội Tân Trang, người chơi xếp hàng từ sớm mai mua Beyblade và bộ phóng giới hạn, ba hạng nhất nhận bộ phóng vàng, bạc, đồng.
+2. Threads @ctptaichung: Giải đấu Beyblade Công khai Trung Đài Loan lần thứ nhất kết thúc tròn đính (tháng 5 năm 2026) — Thông báo chính thức từ ban tổ chức giải đấu, giải nhất thưởng 6.000 NT$, giải nhì 5.000 NT$, và công bố cấu hình Beyblade của vô địch để cộng đồng nghiên cứu.
+3. Beyblade Hub: Thời gian, bản đồ và đăng ký giải G3 các địa phương toàn Đài Loan (2026) — Nền tảng tổng hợp giải đấu Beyblade Đài Loan, thống kê hơn 600 trận đấu mỗi năm, bao gồm các địa điểm thi đấu cố định tại Bắc Bộ, Trung Bộ, Nam Bộ.
+4. Wikipedia: Beyblade — Điều mục Beyblade trên Wikipedia tiếng Anh, ghi nhận cảm hứng xuất phát từ Beyblade truyền thống Nhật Bản _beigoma_, phát hành lần đầu tại Nhật năm 1999, Hasbro giành bản quyền quốc tế năm 2002 và lịch sử các thế hệ.
+5. Wikipedia (phiên bản tiếng Trung): Beyblade — Điều mục Beyblade trên Wikipedia tiếng Trung, tổng hợp nguồn gốc Takara Tomy phát hành đồ chơi và sản xuất phim hoạt hình, thông tin sản xuất phim hoạt hình và các series thế hệ.
+6. Wiki Lồng tiếng Đài Loan: Beyblade — Ghi nhận dàn lồng tiếng phiên bản Đài Loan (Hà Thế Phương, Tiền Tân Du, Triển Nga Tinh v.v.), kênh phát sóng Đài Loan (Trung Thị, Bát Đại Tông hợp Đài) và bối cảnh «hoạt hình truyện tranh sinh ra để thúc đẩy bán Beyblade».
+7. GQ Taiwan: Tại sao «Beyblade» lại bùng nổ trở lại? Từ nguồn gốc phim hoạt hình, quy tắc đối chiến đến trang bị và chiến thuật giải mã một lần cho hết (tháng 3 năm 2026) — Giải thích chi tiết sự tiến hóa bốn thế hệ, cách thắng và tính điểm, logic tương khắc bộ phận, vận động viên Đài Loan vô địch cúp Ásia năm 2017 và 2018, cũng như tình trạng cải trang chính thức và đăng ký trùng lặp hỗn loạn.
+8. Hasbro Newsroom: Vũ trụ BEYBLADE X mở rộng tại Ngày Beyblade (21 tháng 3 năm 2025) — Nguồn gốc: công bố lịch trình giải vô địch thế giới và chung kết Tháp Tokyo, liệt kê Đài Loan là khu vực phân khu, và trích dẫn dữ liệu Circana cho thấy bộ X Extreme Battle là sản phẩm dòng action figure bán chạy nhất năm 2024.
+9. NBC Philadelphia／CNBC: Hasbro vượt kỳ vọng quý hai (23 tháng 7 năm 2025) — Báo cáo tài chính tiếng Anh: quý 2 năm 2025 doanh thu bộ phận tiêu dùng Hasbro giảm 16%, dòng đồ chơi chịu ảnh hưởng thuế quan và đơn hàng bán lẻ suy yếu.
+10. Hasbro Newsroom: Kết quả tài chính Quý tư và Cả năm 2025 (10 tháng 2 năm 2026) — Nguồn gốc: báo cáo tài chính năm 2025 Hasbro, trong khi doanh thu bộ phận tiêu dùng giảm 4% thì Beyblade được liệt kê là điểm sáng tăng trưởng của bộ phận.
+11. FLO MAG: Beyblade hóa phụ kiện thời trang? Làm thế nào Beyblade từ đồ chơi tuổi thơ trở thành tân ch cộng đồng Gen Z (tháng 3 năm 2026) — Ghi nhận Timothée Chalamet cầm Beyblade tại buổi ra mắt gây bão mạng xã hội, bài đăng Threads dịp Tết Nguyên đán Đài Loan và bình luận của Bowen等事件在地回潮, và phân tích bối cảnh kinh tế hoài cổ.
+12. Đọc Điểm: Beyblade lại gợi lên cơn sốt: Lịch sử, cách chơi và những mẫu kinh điển không thể không biết của thần đồ chơi tuổi thơ (tháng 4 năm 2026) — Tổng hợp các mẫu Beyblade đại diện từng thế hệ, bao gồm series Tứ Thánh Thú là mẫu khởi蒙 của người chơi Đài Loan, cũng như kênh phân phối chính hãng và phân khúc giá tại Đài Loan.
 
-: Yahoo News / TVBS: Độc quyền! Giải đấu Beyblade toàn quốc! Người chơi xếp hàng vào buổi sáng sớm để "mua xoay đặc biệt" (tháng 5 năm 2026) — Báo cáo tình huống xếp hàng vào sáng ngày 23 tháng 5 năm 2026 tại trung tâm thương mại Hồng Hoa ở Tân Bắc, người chơi xếp hàng để mua xoay đặc biệt và bộ phát ra, ba người đầu tiên nhận được bộ phát ra kim cương, bạc và đồng.
+> 12 nguồn trên do người đóng góp cung cấp vào tháng 8 năm 2026, khi đó liên kết Markdown đã mất trong quá trình nộp bài. Bản sửa giao diện ngày 3 tháng 11 năm 2026 giữ nguyên tiêu đề và mô tả nguồn gốc, liên kết và chú thích từng câu chờ vòng kiểm chứng tiếp theo bổ sung; trước đó, sự kiện trong bài vui lòng tự tra cứu theo 12 nguồn liệt kê trên.
 
-: Threads @ctptaichung: Giải mở cửa khu vực trung tâm của Đài Loan lần đầu tiên thành công (tháng 5 năm 2026) — Thông báo chính thức từ ban tổ chức, giải thưởng cho giải nhất là 6.000 NTD, giải nhì là 5.000 NTD, và công bố cấu hình chiến lược của người thắng cuộc để cộng đồng nghiên cứu.
+## Nguồn hình ảnh
 
-: Beyblade Hub: Lịch trình các vòng sơ khảo G3 ở khắp nơi và bản đồ (2026) — Nền tảng tích hợp giải đấu Beyblade của Đài Loan, thống kê hơn 600 trận đấu mỗi năm, bao gồm các địa điểm cố định ở khu vực Bắc, Trung và Nam.
-
-: Wikipedia: Beyblade — Trang Wikipedia tiếng Anh về Beyblade, ghi nhận nguồn cảm hứng từ xoay truyền thống Nhật Bản beigoma, ra mắt tại Nhật Bản vào năm 1999, Hasbro đạt được bản quyền quốc tế vào năm 2002 và lịch sử các thế hệ.
-
-: Wikipedia (tiếng Việt): Beyblade — Trang Wikipedia tiếng Việt về Beyblade, tổng hợp nguồn gốc của Takara ra mắt đồ chơi và bộ phim hoạt hình, thông tin sản xuất bộ phim và các thế hệ khác nhau.
-
-: Wiki phụ đề tiếng Việt của Đài Loan: Beyblade — Ghi nhận dàn diễn viên phát âm tiếng Việt (Hà Thế Vĩ, Quan Tân Dĩ, Trần Diễm Tâm...), kênh phát sóng tại Đài Loan (Trung Quốc truyền hình, truyền hình tám đại) và nền tảng "phim hoạt hình sinh ra để thúc đẩy bán xoay".
-
-: GQ Taiwan: Tại sao "Beyblade" lại bùng nổ một lần nữa? Từ nguồn gốc hoạt hình, quy tắc chiến đấu đến trang bị và chiến lược — tất cả trong một bài viết (tháng 3 năm 2026) — Giải thích chi tiết sự phát triển của bốn thế hệ, cách thức thắng cuộc và điểm số, logic đối kháng linh kiện, chiến tích của cầu thủ Đài Loan tại Giải vô địch châu Á năm 2017 và 2018, cũng như những vấn đề thay đổi máy móc và đăng ký lại nhiều lần trong các trận đấu chính thức.
-
-: Hasbro Newsroom: BEYBLADE X Universe Expands on BEYBLADE Day (21 tháng 3 năm 2025) — Nguồn thông tin thứ nhất: Công bố lịch trình giải vô địch thế giới và vòng chung kết tại Tháp Thời gian Tokyo, liệt kê Đài Loan là khu vực tham gia, và trích dẫn số liệu Circana cho biết bộ sưu tập chiến đấu X là mẫu hàng bán chạm kim loại hoạt động tốt nhất trong năm 2024.
-
-: NBC Philadelphia / CNBC: Hasbro beats second-quarter expectations (23 tháng 7 năm 2025) — Báo cáo tài chính tiếng Anh: Doanh thu bộ phận hàng tiêu dùng của Hasbro trong quý hai năm 2025 giảm 16%, và dòng sản phẩm đồ chơi chịu ảnh hưởng của thuế quan và đơn đặt hàng yếu từ nhà bán lẻ.
-
-: Hasbro Newsroom: Fourth Quarter and Full Year 2025 Financial Results (10 tháng 2 năm 2026) — Nguồn thông tin thứ nhất: Báo cáo tài chính toàn năm 2025 của Hasbro, trong khi doanh thu bộ phận hàng tiêu dùng giảm 4%, Beyblade được liệt kê là một điểm sáng tăng trưởng của bộ phận.
-
-: FLO MAG: Beyblade có trở thành phụ kiện thời trang? Beyblade làm thế nào để biến từ đồ chơi tuổi thơ thành niềm đam mê mới của Gen Z trên mạng xã hội (tháng 3 năm 2026) — Ghi nhận cảnh quay Timothée Chalamet cầm xoay tại buổi lễ ra mắt, sự kiện Threads vào dịp Tết và bình luận của Bobo, đồng thời phân tích bối cảnh kinh tế nostalgia.
-
-: Điểm đọc: Beyblade bùng nổ một lần nữa: Lịch sử, cách chơi và những mẫu đồ chơi không thể bỏ lỡ (tháng 4 năm 2026) — Tổng hợp các mẫu xoay đại diện của từng thế hệ, bao gồm bộ sưu tập bốn linh hồn thiêng liêng của người chơi Đài Loan, cũng như kênh phân phối chính thức và phân khúc giá tại Đài Loan.
-
-Giấy phép sử dụng hình ảnh
-
-1. Hình ảnh đầu trang: Beyblade Trận chiến xoay và bộ phát ra, cảnh quay bởi Dasilvaat, CC BY-SA 4.0, nguồn từ Wikimedia Commons.
-2. Hình ảnh giữa trang 1: Xoay truyền thống Nhật Bản beigoma (Bạch Đầu), cảnh quay bởi Σ64, CC BY 3.0, nguồn từ Wikimedia Commons.
-3. Hình ảnh giữa trang 2: Trận đấu vô địch xoay, cảnh quay bởi Senior Airman Clayton Lenhardt của Không quân Hoa Kỳ, phạm vi công cộng (U.S. Air Force), nguồn từ Wikimedia Commons.
+- [Σ64 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beigoma_01.jpg) — CC BY 3.0
+- [Bản ảnh Không lực Hoa Kỳ do Trung sĩ Clayton Lenhardt chụp](https://commons.wikimedia.org/wiki/File:Beyblades_rip_into_Incirlik_120418-F-BS505-223.jpg) — Miền công cộng
