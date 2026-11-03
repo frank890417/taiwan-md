@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T00:22:46+08:00",
-    "zhCommitHead": "60061399a",
+    "lastUpdated": "2026-11-04T01:28:12+08:00",
+    "zhCommitHead": "a726caed2",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1146,
+        "fresh": 1147,
         "stale": 6,
         "metadata_stale": 3,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1149,
+        "fresh": 1150,
         "stale": 5,
         "metadata_stale": 1,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "es": {
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1139,
+        "fresh": 1140,
         "stale": 10,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
       },
@@ -38054,20 +38054,18 @@
         "id": {
           "path": "id/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "b07b48849",
-          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
-          "translatedAt": "2026-10-14T05:10:24.117132+00:00",
+          "translatedAt": "2026-11-03T16:56:32.987070+00:00",
           "translationLastCommit": "58cb5623",
           "translationLastModified": "2026-10-14T15:48:25+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 66827,
+          "bytes": 67072,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-cinema.md",
@@ -39802,10 +39800,36 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Art/golden-horse-awards.md",
+          "translatedFrom": "Art/金馬獎.md",
+          "sourceCommitSha": "5a2bd85b0",
+          "sourceContentHash": "sha256:593fb85bc3a75b2b",
+          "sourceBodyHash": "sha256:0807c780995523b4",
+          "translatedAt": "2026-11-03T16:23:07.719277+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "bytes": 91390,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Art/golden-horse-awards.md",
+          "translatedFrom": "Art/金馬獎.md",
+          "sourceCommitSha": "5a2bd85b0",
+          "sourceContentHash": "sha256:593fb85bc3a75b2b",
+          "sourceBodyHash": "sha256:0807c780995523b4",
+          "translatedAt": "2026-11-03T16:27:44.483432+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "bytes": 79971,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -39817,8 +39841,8 @@
           "sourceContentHash": "sha256:593fb85bc3a75b2b",
           "sourceBodyHash": "sha256:0807c780995523b4",
           "translatedAt": "2026-11-03T13:53:45.889678+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f4be5789",
+          "translationLastModified": "2026-11-04T00:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 92,
           "bytes": 92641,
