@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T05:10:24.117132+00:00'
+translatedAt: '2026-11-03T16:56:32.987070+00:00'
 ---
 
 # Film Nasional Taiwan: Orang yang Bicara di Samping Layar, dan Sejarah Film yang Mati dan Hidup Kembali
@@ -287,15 +287,16 @@ Artikel ini menggunakan 4 gambar, semuanya di-cache di `public/article-images/ar
 - [Hou Hsiao-hsien di tempat penghargaan Singa Emas Venesia 1989](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Foto: Gorup de Besanez，CC BY-SA 4.0
 - [Ang Lee di Festival Film Venesia 2009](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Foto: nicolas genin，CC BY-SA 2.0
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien): pemenang Singa Emas Venesia, maestro long take yang membawa 228 ke layar perak
-- [Yang De-chang](/id/people/yang-dechang): dua karyanya masuk daftar 100 teratas Sight & Sound, pengamat kota
-- [Tsai Ming-liang](/id/people/tsai-ming-liang): pemenang Singa Emas Venesia, yang membawakan slow cinema ke Louvre
-- [Li An](/id/people/ang-lee): dari Taiwan ke Hollywood, dua kali memenangi Oscar Sutradara Terbaik
-- [Wei Te-sheng](/id/people/wei-te-sheng-taiwanese-epic-filmmaker): menggunakan lima bahasa memfilmkan 'Cape No. 7', orang yang menghidupkan kembali film nasional
-- [Negara yang Tak Terlihat](/id/art/invisible-nation): dalam dokumenter Ge Jingwen, cara lain Taiwan dilihat
-- [Sensitivitas Taiwan: Apakah Kita Harus Menunggu Orang Korea Menyukai Dulu, Baru Berani Bilang Rumah Tua Kita Indah?](/id/culture/taiwanese-sensibility): 'Kota Kehampaan' memenangi Singa Emas 1989 dan sukses di boksir Taipei tahun yang sama, pengakuan internasional dan resonansi lokal bukan pilihan yang saling eksklusif
+- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien): Meraih Singa Emas Venesia, mengangkat Peristiwa 228 ke layar lebar, maestro long take
+- [Yang De-chang](/id/people/yang-dechang): Dua karyanya masuk daftar 100 teratas Sight & Sound, pengamat kota
+- [Tsai Ming-liang](/id/people/tsai-ming-liang): Pemenang Singa Emas Venesia, membawa slow cinema ke Louvre
+- [Ang Lee](/id/people/ang-lee): Dari Taiwan ke Hollywood, dua kali meraih Oscar Sutradara Terbaik
+- [Wei Te-sheng](/id/people/wei-te-sheng-taiwanese-epic-filmmaker): Menggarap film dalam lima bahasa untuk 《Cape No. 7》, orang yang menghidupkan kembali film nasional
+- [Golden Horse Awards](/art/金馬獎): Dari hanya menerima film berbahasa Mandarin menjadi penghargaan film berbahasa Tionghoa yang tidak memandang kewarganegaraan, film Taiwan justru sering kalah di kandang sendiri, dan pintunya tidak pernah ditutup kembali
+- [《看不見的國家》](/id/art/invisible-nation): Dalam dokumenter Ke Chin-yuan, cara lain Taiwan dilihat
+- [《台灣感性：我們是不是要韓國人先按讚，才敢說自己的老房子很美？》](/id/culture/taiwanese-sensibility): 《A City of Sadness》 meraih Singa Emas 1989 dan sukses di boksir Taipei tahun yang sama, pengakuan internasional dan resonansi lokal tidak harus saling eksklusif
 
 [^1]: [Benshi Film - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — Pada tahun 1930, Taiwan memiliki 41 benshi keturunan Jepang, 19 benshi keturunan Taiwan, total sekitar 60 orang. Untuk praktik, harus lulus ujian Kepolisian Daerah untuk mendapatkan lisensi.
 
