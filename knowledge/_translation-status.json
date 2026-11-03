@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T13:09:50+08:00",
-    "zhCommitHead": "faa875aef",
+    "lastUpdated": "2026-11-03T13:21:09+08:00",
+    "zhCommitHead": "c15aa0787",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1144,
-        "stale": 9,
+        "fresh": 1145,
+        "stale": 8,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1142,
-        "stale": 9,
+        "fresh": 1143,
+        "stale": 8,
         "metadata_stale": 4,
         "missing": 3,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1140,
-        "stale": 12,
+        "fresh": 1141,
+        "stale": 11,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1144,
-        "stale": 9,
+        "fresh": 1145,
+        "stale": 8,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1158,
-        "fresh": 1136,
-        "stale": 16,
+        "fresh": 1137,
+        "stale": 15,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1125,
-        "stale": 21,
+        "fresh": 1126,
+        "stale": 20,
         "metadata_stale": 9,
         "missing": 3,
         "orphan": 0
@@ -56850,20 +56850,18 @@
         "en": {
           "path": "en/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:93955fe44e7691af",
-          "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-08-10T01:58:13+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:467f31dc16bf0585",
+          "sourceBodyHash": "sha256:e7e9b90b62c01f0a",
+          "translatedAt": "2026-11-03T04:50:15+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 10273,
+          "bytes": 10338,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -21"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/xiaobei-department-store.md",
@@ -56884,20 +56882,18 @@
         "ko": {
           "path": "ko/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:93955fe44e7691af",
-          "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-08-04T13:18:21+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:467f31dc16bf0585",
+          "sourceBodyHash": "sha256:e7e9b90b62c01f0a",
+          "translatedAt": "2026-11-03T04:50:23+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 11228,
+          "bytes": 11110,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -21"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/xiaobei-department-store.md",
@@ -56920,20 +56916,18 @@
         "fr": {
           "path": "fr/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:93955fe44e7691af",
-          "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-08-04T13:18:21+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:467f31dc16bf0585",
+          "sourceBodyHash": "sha256:e7e9b90b62c01f0a",
+          "translatedAt": "2026-11-03T04:50:30+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 11679,
+          "bytes": 11787,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -21"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/xiaobei-department-store.md",
@@ -58668,8 +58662,8 @@
           "sourceContentHash": "sha256:8afab7fd2baefe89",
           "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
           "translatedAt": "2026-11-03T04:50:51+08:00",
-          "translationLastCommit": "49120226",
-          "translationLastModified": "2026-09-26T23:07:05+08:00",
+          "translationLastCommit": "c15aa078",
+          "translationLastModified": "2026-11-03T13:09:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 34751,
@@ -70994,18 +70988,18 @@
         "de": {
           "path": "de/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:51+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 12153,
+          "bytes": 13515,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -95472,8 +95466,8 @@
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
           "translatedAt": "2026-11-03T04:40:15.609800+00:00",
-          "translationLastCommit": "be2fb287",
-          "translationLastModified": "2026-09-23T19:28:05+08:00",
+          "translationLastCommit": "c15aa078",
+          "translationLastModified": "2026-11-03T13:09:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 26047,
@@ -164038,8 +164032,8 @@
           "sourceContentHash": "sha256:7341e995e36938f6",
           "sourceBodyHash": "sha256:952feb96a39bb831",
           "translatedAt": "2026-11-03T04:50:51+08:00",
-          "translationLastCommit": "53b91cc8",
-          "translationLastModified": "2026-10-31T08:41:15+08:00",
+          "translationLastCommit": "c15aa078",
+          "translationLastModified": "2026-11-03T13:09:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 32441,
@@ -228660,20 +228654,18 @@
         "ja": {
           "path": "ja/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "6b09bda3b",
-          "sourceContentHash": "sha256:7af3421e7470e32a",
-          "sourceBodyHash": "sha256:5c337ebcf1a5b681",
-          "translatedAt": "2026-09-19T08:36:51.105104+00:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:22e3e267ff9a4757",
+          "sourceBodyHash": "sha256:9b9e8a536b91f801",
+          "translatedAt": "2026-11-03T04:50:19+08:00",
           "translationLastCommit": "ab05e243",
           "translationLastModified": "2026-10-31T08:41:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 11408,
+          "bytes": 12194,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -25"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/taiwan-prime-time-drama.md",
@@ -228726,20 +228718,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "6b09bda3b",
-          "sourceContentHash": "sha256:7af3421e7470e32a",
-          "sourceBodyHash": "sha256:5c337ebcf1a5b681",
-          "translatedAt": "2026-09-19T08:35:13.782743+00:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:22e3e267ff9a4757",
+          "sourceBodyHash": "sha256:9b9e8a536b91f801",
+          "translatedAt": "2026-11-03T04:50:34+08:00",
           "translationLastCommit": "ab05e243",
           "translationLastModified": "2026-10-31T08:41:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 13450,
+          "bytes": 14015,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -25"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-prime-time-drama.md",
