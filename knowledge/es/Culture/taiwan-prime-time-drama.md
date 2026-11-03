@@ -1,16 +1,10 @@
 ---
-title: 'El telenovela de las ocho: Un fósforo «bárbaro» que enciende el cine de culto y la nostalgia en los salones de Taiwán'
-description: 'Desde el drama de sufrimiento de Qiong Yao en los años 90 hasta el meme de *Thunder Fire* en los 2000, el telenovela de las ocho no es solo el sonido ambiental de los taiwaneses, sino un milagro industrial «grabado y emitido en directo» sincronizado con la realidad.'
+title: 'Programas de las ocho: un encendedor y el culto a la nostalgia en los salones de Taiwán'
+description: 'De los melodramas de Qiong Yao en los 90 a los memes de "Pili Huo" en los 2000, los programas de las ocho son más que ruido de fondo; son un milagro industrial sincronizado con la realidad.'
 date: 2026-07-25
 category: 'Culture'
 tags:
-  [
-    'Televisión y cine',
-    'Cultura popular',
-    'Lenguaje taiwanés',
-    'Memes',
-    'Observación social',
-  ]
+  ['Cine y TV', 'cultura popular', 'taiwanés', 'memes', 'observación social']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -19,83 +13,81 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '6b09bda3b'
-sourceContentHash: 'sha256:7af3421e7470e32a'
-sourceBodyHash: 'sha256:5c337ebcf1a5b681'
-translatedAt: '2026-09-19T08:38:31.908662+00:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:22e3e267ff9a4757'
+sourceBodyHash: 'sha256:9b9e8a536b91f801'
+translatedAt: '2026-11-03T04:50:26+08:00'
 ---
 
-> **Resumen en 30 segundos**: El telenovela de las ocho es la compañía más leal de la historia de la televisión en Taiwán; su núcleo radica en la industrialización extrema del «directo y emisión simultánea», permitiendo que la trama ficticia respire al unísono con los acontecimientos reales. Esta «fábrica de manufactura» que opera con bajos presupuestos, aunque cuenta con solo una octava parte del presupuesto de los dramas coreanos, logra crear índices de audiencia asombrosos superiores al 15 % gracias a una gran flexibilidad narrativa y contenido ácido. En la era de las redes sociales, se ha transformado en un «meme de culto» único. Desde el puño de la naranja explotada hasta el Michael volador, el telenovela de las ocho no es solo el sonido ambiental del salón de las clases medias y mayores, sino que se ha convertido en un importante banco de materiales que la generación joven utiliza para reinterpretar y deconstruir la subjetividad cultural de Taiwán.
+> **Resumen en treinta segundos**: Los programas de las ocho representan la compañía más constante en la historia de la televisión de Taiwán. Su núcleo es una industrialización extrema de "rodaje y emisión simultánea", permitiendo que la trama ficticia respire al unísono con la actualidad real. Este "centro de fabricación" de bajo coste, con un presupuesto de apenas una octava parte del de los dramas coreanos, ha evolucionado en la era de las redes sociales hacia un fenómeno de "culto y memes" gracias a su enorme flexibilidad narrativa y contenido audaz. Desde el "puño de la naranja explotada" hasta el "Michael volador", estos programas no solo son el ruido de fondo en los salones de las generaciones mayores, sino también una base de datos esencial para que las nuevas generaciones desconstruyan y jueguen con la identidad cultural taiwanesa.
 
-Esta no es una obra de ensayo, es una carrera contra el tiempo. En 2003, el actor Qin Yang pronunció en _Taiwan Thunder Fire_ una frase cargada de tensión: «Si me cae mal, te voy a enviar un barril de gasolina y un fósforo «bárbaro»». Esta frase encendió instantáneamente todo el país e incluso se convirtió en el lema de los políticos y la gente común de la época. [^1] Esta forma dramática, burlonamente llamada «drama local», tiene un costo de producción por episodio de solo 1,3 a 1,5 millones de NTD, muy por debajo del costo de los dramas coreanos que superan los millones, pero logra crear índices de audiencia asombrosos superiores al 15 %. [^2]
+Esto no es una obra ensayada; es una guerra contra el tiempo. En 2003, el actor Qin Yang (秦楊) pronunció en _Taiwan Pili Huo_ (台灣霹靂火): «Si me enfado, te daré un bidón de gasolina y un encendedor» (_fan-tsái-huó_). Esta frase cargada de tensión encendió a todo Taiwán, convirtiéndose incluso en el lema de políticos y ciudadanos comunes de la época. [^1] Este formato dramático, apodado "drama local", tiene un coste de producción por episodio de entre NT$1.3 y NT$1.5 millones, una cifra muy inferior a los decenas de millones que requieren los dramas coreanos, pero capaz de alcanzar audiencias asombrosas superiores al 15%. [^2]
 
-## Producción a velocidad supersónica: El milagro industrial de grabar hoy y emitir mañana
+## Producción ultra rápida: el milagro industrial de rodar hoy para emitir mañana
 
-La característica más única y sorprendente del telenovela de las ocho en Taiwán es el «drama en emisión» (grabación y emisión simultáneas). Este modelo surgió de la guerra de audiencias a principios de la década de 2000; para responder a los cambios de trama de los competidores, los canales de televisión debían tener la velocidad de reacción de «grabar hoy y emitir mañana». [^3]
+La característica más única y sorprendente para la industria audiovisual es el modelo _On-dang-hi_ (邊拍邊播), que consiste en rodar mientras se emite. Este modelo surgió durante las guerras de audiencia de principios de los 2000; para responder a los giros argumentales de la competencia, las emisoras debían tener la capacidad de "rodar hoy y emitir mañana". [^3]
 
-En la práctica, los canales principales como Formosa TV y Sanlih E-Television tienen un ritmo de filmación extremadamente rápido. En el estudio, generalmente se utiliza la operación de «cuatro cámaras» o incluso «cinco cámaras»; una escena se graba en promedio en 15 a 20 minutos, produciendo aproximadamente 2 a 3 horas de material terminado por día. [^4] La situación de los actores es extremadamente estricta; a menudo reciben el guion del día siguiente entre las 2 y las 4 de la madrugada, y la pronunciación en taiwanés y la conversión emocional dependen completamente de la improvisación en el lugar y la corrección inmediata del «director de taiwanés». [^5]
+En la práctica, el ritmo de rodaje en cadenas principales como PTS (民視) o SET (三立) es vertiginoso. En los estudios se suele trabajar con cuatro o incluso cinco cámaras; una escena se termina de rodar en un promedio de 15 a 20 minutos, y cada día deben producirse entre 2 y 3 horas de metraje final. [^4] La situación de los actores es extremadamente exigente: a menudo reciben el guion del día siguiente entre las 2 y las 4 de la madrugada, y la pronunciación en taiwanés o los cambios emocionales dependen de la improvisación en el set y de la corrección inmediata de un "instructor de taiwanés". [^5]
 
-Este «sistema centrado en la audiencia» otorga una gran flexibilidad al guion. El equipo de guionistas monitorea constantemente las curvas de audiencia y la opinión pública en internet; si la audiencia no es la esperada, pueden reescribir drásticamente la trama en 48 horas: por ejemplo, hacer que el protagonista pierda repentinamente la memoria, cambiar su rostro o lavar el pasado del villano. [^6] Series como _Vida del Mercado Nocturno_ y _La Armonía Familiar Trae Mil Fortunas_ han insertado urgentemente tramas de alto conflicto como pruebas de paternidad o accidentes de tráfico en cadena debido a las fluctuaciones de audiencia.
+Este "sistema centrado en la audiencia" otorga una flexibilidad inmensa al guion. Los equipos de guionistas monitorizan constantemente las curvas de audiencia y la opinión en internet; si los números no cumplen las expectativas, pueden reescribir drásticamente la trama en 48 horas, como provocar una amnesia repentina del protagonista, un cambio de rostro o la redención forzada de un villano. [^6] Series como _Ye Shi Ren Sheng_ (夜市人生) y _Jia He Wan Shi Xing_ (家和萬事興) han recurrido a escenas de alto conflicto, como pruebas de paternidad urgentes o accidentes de tráfico en cadena, debido a las fluctuaciones de audiencia.
 
-📝 Nota del curador: El telenovela de las ocho no está filmando arte, está filmando «compañía». No necesita ser refinado; necesita que esos personajes familiares aparezcan puntualmente cuando vuelves a casa del trabajo y presionas el interruptor.
+📝 Nota del curador: Los programas de las ocho no buscan hacer arte, sino ofrecer "compañía". No necesitan sofisticación; lo que necesitan es que esos personajes familiares aparezcan puntualmente cuando tú llegas a casa tras el trabajo y pulsas el interruptor.
 
-## La era dorada de los memes: Del «puño de la naranja explotada» a «¿Qué estás diciendo?»
+## La era de los memes: del "puño de la naranja" al "shì zài hā luō"
 
-La historia de evolución del telenovela de las ocho es también un reflejo del clima social de Taiwán. A finales de la década de 1980, la serie _Seis Sueños_ de Qiong Yao abrió la vanguardia de las filmaciones en el continente chino. [^7] A partir de los años 2000, la trama se centró en lo local, las batallas comerciales y las luchas familiares; los accidentes de tráfico, la pérdida de memoria, el cambio de rostro y las pruebas de paternidad se convirtieron en los cuatro accesorios estándar. [^8]
+La evolución de estos programas es un microcosmos de la atmósfera social de Taiwán. A finales de la década de 1980, las series de Qiong Yao (瓊瑤), como _Liu Ge Meng_ (六個夢), iniciaron la tendencia de rodar locaciones en China continental. [^7] Tras la llegada del año 2000, la trama giró hacia lo local, las guerras comerciales y las luchas familiares; los accidentes de tráfico, la amnesia, el cambio de rostro y las pruebas de paternidad se convirtieron en los cuatro elementos estándar. [^8]
 
-Estas tramas que antes se consideraban «sangrantes» (melodramáticas) encontraron una segunda vida en la era de las redes sociales. Para la audiencia de mediana y tercera edad, el telenovela de las ocho es una salida emocional; pero para la generación Z, es un banco de materiales de «contraste kawaii». [^9] Cuanto más las imágenes violan el sentido común físico, como el «puño de la naranja explotada» de Lei Hong aplastando una naranja, o el «Michael volador» que sale volando y girando en el aire tras ser atropellado por un coche, más fácilmente se editan en videos cortos y se vuelven virales en Threads o Instagram. [^10] En los últimos años, los productores han «alimentado» activamente los memes, por ejemplo, transformando la frase de moda «¿Qué estás diciendo?» en el taiwanés «¿Qué estás diciendo?», logrando exitosamente que el drama local se convierta en una «cultura de culto» intergeneracional. [^11]
+Estos giros, que antes se consideraban "melodramas exagerados", han encontrado una segunda vida en la era de las redes sociales. Para el público de mediana y avanzada edad, son una vía de escape emocional; pero para la Generación Z, son un repositorio de "contraste adorable" (_gap moe_). [^9] Cuanto más desafiante sea la física de la imagen —como el "puño de la naranja explotada" de Lei Hong (雷洪) al aplastar una naranja, o el "Michael volador" que sale despedido por un coche y gira en el aire—, más fácil es que se convierta en un vídeo corto viral en Threads o Instagram. [^10] En años recientes, las productoras han empezado a "alimentar" activamente la creación de memes; por ejemplo, transformando la expresión popular _shì zài hā luō_ (是在哈囉) en su versión en taiwanés _shì liē hā luō_ (是咧哈囉), logrando que el drama local se convierta en una "cultura de culto" transgeneracional. [^11]
 
-## Efecto de largo alcance de los datos comerciales y la exportación internacional
+## Datos comerciales y el efecto de cola de la exportación internacional
 
-Aunque en los últimos años la audiencia del telenovela de las ocho ha caído al 2-4 % debido al impacto de las plataformas de streaming, sus oportunidades comerciales derivadas siguen siendo asombrosas. [^12] La inserción de productos (PPL) es extremadamente flexible; desde productos de salud, agencias inmobiliarias hasta anuncios electorales, pueden insertarse rápidamente en dos episodios. [^13]
+A pesar de que en los últimos años, debido al impacto del _streaming_, la audiencia suele oscilar entre el 2% y el 4%, las oportunidades comerciales derivadas siguen siendo asombrosas. [^12] El emplazamiento de producto (PPL) es extremadamente flexible: desde suplementos alimenticios y agencias inmobiliarias hasta anuncios electorales, todo puede integrarse en apenas dos episodios. [^13]
 
-En el mercado internacional, el telenovela de las ocho en Taiwán ha demostrado un poderoso «efecto de largo alcance». _Yi Nan Wang_ (Indescifrable) en Vietnam creó el récord de emisión continua durante más de 5 años y repeticiones ininterrumpidas. [^14] La estructura universal de la ética familiar y la retribución del bien y el mal permite que este tipo de dramas de bajo presupuesto se enraícen más fácilmente en la comunidad de chinos de Sudeste Asiático que los dramas de idolatría refinados.
+En el mercado internacional, los programas de las ocho taiwaneses muestran un poderoso "efecto de cola". _Yi Nan Wang_ (意難忘) batió récords en Vietnam con más de cinco años de emisión continua y constantes retransmisiones. [^14] La estructura universal de la ética familiar y el karma (el bien y el mal) permite que este tipo de series de bajo coste echen raíces en la comunidad china del sudeste asiático con mayor facilidad que las sofisticadas series de ídolos.
 
-## Comparación de modelos de producción transnacionales
+## Comparativa de modelos de producción transnacional
 
-Al situar los seriales taiwaneses (八點檔) en una perspectiva internacional, se establece un contraste marcado con el sistema coreano y estadounidense.
+Al situar los programas de las ocho de Taiwán en una perspectiva internacional, su "sistema centrado en la audiencia" contrasta claramente con los sistemas de Corea y Estados Unidos.
 
-| Ítem                       | Serial taiwanés (八點檔)                                        | Drama coreano                                                   | Serie estadounidense                   |
-| :------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- | :------------------------------------- |
-| **Modelo de producción**   | Producción mientras se emite (Sistema centrado en la audiencia) | Sistema centrado en el guion (Transición a preproducción total) | Preproducción por temporada (Seasonal) |
-| **Costo por episodio**     | 1.3 - 1.5 millones de NTD                                       | 15 - 30 millones de NTD                                         | Más de 150 millones de NTD             |
-| **Flexibilidad del guion** | Muy alta (Cambios en el final en cualquier momento)             | Media (Poco espacio para cambios)                               | Baja (Requiere múltiples revisiones)   |
-| **Sincronización social**  | Incorporación inmediata de actualidad y pandemias               | Retraso superior a 6 meses                                      | Retraso superior a 1 año               |
+| Ítem                       | Programas de las ocho (Taiwán)                      | Dramas coreanos                                           | Series estadounidenses                    |
+| :------------------------- | :-------------------------------------------------- | :-------------------------------------------------------- | :---------------------------------------- |
+| **Modelo de producción**   | Rodaje y emisión simultánea (centrado en audiencia) | Centrado en guionistas (transición a preproducción total) | Preproducción por temporadas (_Seasonal_) |
+| **Coste por episodio**     | NT$1.3 - 1.5 millones                               | NT$15 - 30 millones                                       | Más de NT$150 millones                    |
+| **Flexibilidad del guion** | Muy alta (finales cambiantes)                       | Media (poco margen de cambio)                             | Baja (requiere múltiples revisiones)      |
+| **Sincronía social**       | Integración inmediata de actualidad y pandemias     | Retraso de más de 6 meses                                 | Retraso de más de 1 año                   |
 
-📝 Nota del curador: Cuando nos reímos de la absurdidad de los dramas seriales, en realidad estamos participando en una liberación colectiva de presión.
+📝 Nota del curador: Cuando nos burlamos de lo absurdo de sus tramas, en realidad estamos participando en una liberación colectiva de tensión.
 
-**Lecturas relacionadas**:
+**Lectura adicional**:
 
-- [Premio Golden Bell](/es/culture/golden-bell-awards) — En la época de 《Estrellas saben mi corazón》 y 《Bao Qingtian》, las unidades galardonadas con el premio a programas dramáticos nunca salieron de TAI TV, CTS o CTV.
+- [Golden Bell Awards](/es/culture/golden-bell-awards) — En la era de _Xing Xing Zhi Wo Xin_ (星星知我心) y _Bao Qing Tian_ (包青天), los ganadores de los premios a programas dramáticos nunca dejaban de ser de TTV, CTV o CTS.
 
-## Fuentes de referencia
+## Referencias
 
-## Notas al pie
+[^1]: [La frase clásica del villano Liu Wen-cong: «Darte un bidón de gasolina y un encendedor»](https://time.udn.com/udntime/story/122834/7311370) — Columna de época de United Daily News.
 
-[^1]: [La frase clásica del villano Liu Wencong: «Te envío una lata de gasolina y un fósforo «bárbaro»»](https://time.udn.com/udntime/story/122834/7311370) - Bao Shi Guang (2023)
+[^2]: [Situación actual y dificultades de los dramas taiwaneses: los datos dicen la verdad](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Ver información complementaria en el enlace original.
 
-[^2]: [La situación actual y los dilemas de los dramas taiwaneses: Los datos te dicen la verdad](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Asociación de Productores de Programas de Radio y Televisión de la República de China
+[^3]: [Programas de las ocho - Wikipedia, la enciclopedia libre](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) — Entrada de Wikipedia.
 
-[^3]: [Telenovela de las ocho - Wikipedia, la enciclopedia libre](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) - Wikipedia
+[^4]: [Mutación genética del drama local: más allá de los memes, ¿cómo influyen los jóvenes en el ecosistema de los programas de las ocho en taiwanés?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Ver información complementaria en el enlace original.
 
-[^4]: [La mutación genética del drama local: No solo memes, cómo la audiencia joven afecta el ecosistema del telenovela de las ocho en taiwanés?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021)
+[^5]: [El actor Chang Chia-wei revela su salario en los programas de las ocho: recibir el guion de madrugada es lo normal](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) — Publicación en Facebook.
 
-[^5]: [El actor Zhang Jiawei revela públicamente su salario por filmar telenovelas de las ocho: Recibir el guion a medianoche es lo habitual](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) - ETtoday (2022)
+[^6]: [¡Secretos de los guionistas de los programas de las ocho! Cambios inmediatos según la audiencia y la actualidad](https://www.youtube.com/watch?v=y6F2W97rwsY) — Registro de vídeo en YouTube.
 
-[^6]: [Los secretos del guionista del telenovela de las ocho: Cambios inmediatos según la audiencia y las noticias](https://www.youtube.com/watch?v=y6F2W97rwsY) - Sanlih Entertainment (2023)
+[^7]: [Pulir la marca de los programas de las ocho: los dramas taiwaneses vuelven a florecer](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) — Artículo especial de la revista Guanghua de Taiwán.
 
-[^7]: [Pulir el letrero del telenovela de las ocho: Los dramas de televisión en Taiwán vuelven a florecer](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) - Revista Guanghua de Taiwán (2002)
+[^8]: [20 años de evolución del drama taiwanés: _Yi Nan Wang_ (2004) establece el récord de episodios para este género](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) — Ver información complementaria en el enlace original.
 
-[^8]: [La historia de evolución de 20 años de los dramas taiwaneses: _Yi Nan Wang_ de 2004 creó el récord de mayor número de episodios en la categoría de telenovelas de las ocho en Taiwán](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) - Xin Huoshui
+[^9]: [Memes, melodrama y compañía: la tríada que atrae al público joven a los programas de las ocho en taiwanés](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Ver información complementaria en el enlace original.
 
-[^9]: [Memes, melodrama y compañía: El tridente del telenovela de las ocho en taiwanés atrayendo a la audiencia joven](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021)
+[^10]: [Un meme clásico al día hasta 2027 - Día 102: Especial de los programas de las ocho «Cha Cha»](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) — Ver información complementaria en el enlace original.
 
-[^10]: [Un meme clásico al día hasta 2027 Día 102 Edición especial del telenovela de las ocho _Qia Qia_](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) - Threads
+[^11]: [¡De _shì zài hā luō_ a taiwanés! El éxito de _shì liē hā luō_](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Ver información complementaria en el enlace original.
 
-[^11]: [«¿Qué estás diciendo?» se convierte en taiwanés: «¿Qué estás diciendo?» se vuelve viral](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021)
+[^12]: [Situación actual y dificultades de los dramas taiwaneses: el coste de producción de un drama coreano es, de media, ocho veces superior al taiwanés](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Ver información complementaria en el enlace original.
 
-[^12]: [La situación actual y los dilemas de los dramas taiwaneses: Los datos te dicen la verdad: El costo de producción promedio de los dramas coreanos es aproximadamente ocho veces el de los taiwaneses](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Asociación de Productores de Programas de Radio y Televisión de la República de China
+[^13]: [Sobre el emplazamiento en los programas de las ocho: la publicidad de productos es una fuente de ingresos vital para las cadenas](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) — Ver información complementaria en el enlace original.
 
-[^13]: [Sobre la inserción de productos en el telenovela de las ocho: Los productos insertados son una fuente de ingresos muy importante para los canales de televisión](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) - Threads (2024)
-
-[^14]: [_Yi Nan Wang_ (drama de 2004) - El inolvidable primer amor en Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Véase la fuente original enlazada
+[^14]: [Yi Nan Wang (Serie de 2004) — El récord del primer amor inolvidable en Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Entrada de Wikipedia, registra la larga emisión y retransmisión de la serie en Vietnam.
