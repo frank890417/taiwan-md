@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T07:26:39+08:00",
-    "zhCommitHead": "a0a488f24",
+    "lastUpdated": "2026-11-04T07:45:36+08:00",
+    "zhCommitHead": "01f2fc0bd",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1151,
+        "fresh": 1152,
         "stale": 5,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1151,
+        "fresh": 1152,
         "stale": 3,
         "metadata_stale": 2,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "de": {
@@ -188892,8 +188892,8 @@
           "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
           "translatedAt": "2026-11-03T21:56:16.034018+00:00",
-          "translationLastCommit": "27383145",
-          "translationLastModified": "2026-11-03T01:19:21+08:00",
+          "translationLastCommit": "01f2fc0b",
+          "translationLastModified": "2026-11-04T07:26:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 18012,
@@ -203452,8 +203452,8 @@
           "sourceContentHash": "sha256:0d139b37b2b76ae2",
           "sourceBodyHash": "sha256:9c545fc3c704ac06",
           "translatedAt": "2026-11-03T20:21:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01f2fc0b",
+          "translationLastModified": "2026-11-04T07:26:39+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 17872,
@@ -203462,7 +203462,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/zhushan-township.md",
+          "translatedFrom": "Geography/竹山鎮.md",
+          "sourceCommitSha": "036975f23",
+          "sourceContentHash": "sha256:0d139b37b2b76ae2",
+          "sourceBodyHash": "sha256:9c545fc3c704ac06",
+          "translatedAt": "2026-11-03T20:21:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 17888,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/zhushan-township.md",
@@ -222399,7 +222412,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/chinese-professional-baseball-league.md",
+          "translatedFrom": "Culture/中華職棒.md",
+          "sourceCommitSha": "02ca87bad",
+          "sourceContentHash": "sha256:e51c494d0dd60536",
+          "sourceBodyHash": "sha256:14343c2d821c678c",
+          "translatedAt": "2026-11-03T23:24:56.975431+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 38173,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/chinese-professional-baseball-league.md",
