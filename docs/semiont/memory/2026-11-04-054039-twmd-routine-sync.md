@@ -30,6 +30,8 @@
 | diary／evolve                | skipped：純對賬全綠（DIARY §Stage 0c），無 ship 內容 |
 | 寫入範圍                     | 只 add 本檔與 MEMORY.md 索引一列                     |
 
+**commit 歸屬錯位**：本班 `git add` 兩檔後，自己的 commit 撞上 babel writer 的 `index.lock` 失敗；同一秒 babel dispatcher 的 `668245f4c`（ru 批次）把已 stage 的這兩檔一起收走。內容正確進了 git，只是掛在 babel commit 底下（REFLEXES #68 commit 階段碰撞）。babel writer 仍在跑，不改寫歷史（#35），以本段與這個補記 commit 留證。
+
 ## Handoff 三態
 
 繼承上一班（2026-11-03-054041-twmd-routine-sync）：
