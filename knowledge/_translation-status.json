@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T05:55:05+08:00",
-    "zhCommitHead": "6b093fa94",
+    "lastUpdated": "2026-11-04T06:29:34+08:00",
+    "zhCommitHead": "c7e379465",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,42 +20,42 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1151,
+        "fresh": 1152,
         "stale": 4,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1149,
+        "fresh": 1150,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1153,
+        "fresh": 1154,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1143,
-        "stale": 10,
+        "fresh": 1144,
+        "stale": 9,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1150,
+        "fresh": 1151,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "vi": {
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1149,
-        "stale": 5,
+        "fresh": 1150,
+        "stale": 4,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1130,
+        "fresh": 1131,
         "stale": 18,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 2,
         "orphan": 0
       }
@@ -38034,11 +38034,11 @@
           "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-11-03T20:21:35.039994+00:00",
-          "translationLastCommit": "5eb8a8a2",
-          "translationLastModified": "2026-10-14T14:47:42+08:00",
+          "translationLastCommit": "7555ae5c",
+          "translationLastModified": "2026-11-04T05:55:05+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 78968,
+          "bytes": 78974,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -121530,20 +121530,18 @@
         "ru": {
           "path": "ru/People/chen-chih-chung.md",
           "translatedFrom": "People/陳致中.md",
-          "sourceCommitSha": "fa7059f7a",
-          "sourceContentHash": "sha256:4de98c280e186c57",
-          "sourceBodyHash": "sha256:560772bbc10e04f9",
-          "translatedAt": "2026-09-22T00:33:35.975417+00:00",
+          "sourceCommitSha": "8f939af37",
+          "sourceContentHash": "sha256:5d7fa0bcc1a099c9",
+          "sourceBodyHash": "sha256:29069fca59d63cc8",
+          "translatedAt": "2026-11-03T21:44:41.635562+00:00",
           "translationLastCommit": "8f939af3",
           "translationLastModified": "2026-11-02T16:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 116330,
+          "bytes": 124612,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -16"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chen-chih-chung.md",
@@ -163886,20 +163884,18 @@
         "es": {
           "path": "es/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-11T18:18:42+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T20:21:59+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 37845,
+          "bytes": 32661,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/shulin-red-yeast-rice.md",
@@ -188906,20 +188902,18 @@
         "en": {
           "path": "en/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:44:46+08:00",
+          "translatedAt": "2026-11-03T21:56:16.034018+00:00",
           "translationLastCommit": "27383145",
           "translationLastModified": "2026-11-03T01:19:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 18013,
+          "bytes": 18012,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/orchid-island-nuclear-waste.md",
@@ -189100,20 +189094,18 @@
         "de": {
           "path": "de/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:46:08+08:00",
+          "translatedAt": "2026-11-03T21:55:52.413892+00:00",
           "translationLastCommit": "bf9091e6",
           "translationLastModified": "2026-11-03T01:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 19228,
+          "bytes": 19219,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -203476,13 +203468,39 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/zhushan-township.md",
+          "translatedFrom": "Geography/竹山鎮.md",
+          "sourceCommitSha": "036975f23",
+          "sourceContentHash": "sha256:0d139b37b2b76ae2",
+          "sourceBodyHash": "sha256:9c545fc3c704ac06",
+          "translatedAt": "2026-11-03T20:21:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 16986,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/zhushan-township.md",
+          "translatedFrom": "Geography/竹山鎮.md",
+          "sourceCommitSha": "036975f23",
+          "sourceContentHash": "sha256:0d139b37b2b76ae2",
+          "sourceBodyHash": "sha256:9c545fc3c704ac06",
+          "translatedAt": "2026-11-03T20:22:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 20115,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -222318,7 +222336,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/chinese-professional-baseball-league.md",
+          "translatedFrom": "Culture/中華職棒.md",
+          "sourceCommitSha": "02ca87bad",
+          "sourceContentHash": "sha256:e51c494d0dd60536",
+          "sourceBodyHash": "sha256:14343c2d821c678c",
+          "translatedAt": "2026-11-03T21:56:36.085007+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 21610,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/chinese-professional-baseball-league.md",

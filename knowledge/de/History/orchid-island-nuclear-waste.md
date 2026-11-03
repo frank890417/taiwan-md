@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:46:08+08:00'
+translatedAt: '2026-11-03T21:55:52.413892+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 1982 begann Lanyu mit der Aufnahme schwachradioaktiver Abfälle aus ganz Taiwan; 1996 war das Lager voll, doch das „Zwischenlager“ fand kein Ende. Die Tao forderten seit 1988 wiederholt die Schließung des Standorts, und eine offizielle Untersuchung der Wahrheit im Jahr 2018 legte den Entscheidungsprozess erneut offen. Dieser Artikel zieht keine abschließende Schlussfolgerung darüber, ob der Standort „sicher“ oder „gefährlich“ ist, sondern stellt die Frage: Wenn ein Zuhause ohne das Wissen seiner Bewohner als Deponie ausgewählt wird, können spätere Messwerte allein die Frage nach der Gerechtigkeit beantworten?
@@ -96,10 +96,10 @@ Dass die gelben Fässer von Lanyu zu einem Objekt der taiwanischen Geschichte ge
 
 ## Weiterführende Literatur
 
-- [Untersuchungsbericht über die Wahrheit der Einrichtung des Atommülllagers auf Lanyu](https://alilin.cip.gov.tw/Book/670)
+- [Untersuchungsbericht über die Wahrheit der Einrichtung des Atommülllagers auf Lanyu durch den Exekutiv-Yuan](https://alilin.cip.gov.tw/Book/670)
 - [Nuclear Safety Commission: Erläuterungen zur Sicherheitskontrolle des Lagers auf Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
-- [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [Diskussionen über Taiwan und Kernenergie](/de/society/taiwan-nuclear-debate) — Die Überprüfung von Kernkraftwerk Kuosheng (Nuclear Tripled) im Jahr 2026 und das Referendum zur 22. Angelegenheit: Die Lösung des Atommüllproblems ist eine der drei Bedingungen für den Neustart; sowohl Lanyu als auch die Brennstoffbecken von Kuosheng warten noch auf eine Lösung.
+- [Taiwan Insight: Der Kampf des Tao-Volks für Umweltgerechtigkeit und Subjektivität auf Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
+- [Taiwan und die Atomenergie-Diskussion](/de/society/taiwan-nuclear-debate) — Überprüfung des Neustarts von Kernkraftwerk 3 2026 und Volksabstimmung Nr. 22: Die Lösung des Atommüllproblems ist eine der drei Bedingungen für den Neustart; sowohl Lanyu als auch das Brennstoffbecken von KKW 3 warten noch auf eine Lösung
 
 ## Referenzen
 
