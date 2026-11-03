@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T01:28:12+08:00",
-    "zhCommitHead": "a726caed2",
+    "lastUpdated": "2026-11-04T02:06:20+08:00",
+    "zhCommitHead": "c154e74e5",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1145,
-        "stale": 7,
+        "fresh": 1146,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1128,
+        "fresh": 1129,
         "stale": 18,
-        "metadata_stale": 9,
+        "metadata_stale": 8,
         "missing": 3,
         "orphan": 0
       }
@@ -24944,8 +24944,8 @@
           "sourceContentHash": "sha256:7fe5c0e65f686049",
           "sourceBodyHash": "sha256:9ab688e1a6cc5330",
           "translatedAt": "2026-11-03T15:13:35.303242+00:00",
-          "translationLastCommit": "1924cd82",
-          "translationLastModified": "2026-10-10T22:55:55+08:00",
+          "translationLastCommit": "c154e74e",
+          "translationLastModified": "2026-11-04T01:28:12+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 196657,
@@ -60422,18 +60422,18 @@
         "pt": {
           "path": "pt/Society/taiwan-nuclear-debate.md",
           "translatedFrom": "Society/台灣與核能的討論.md",
-          "sourceCommitSha": "95c3b1afd",
-          "sourceContentHash": "sha256:5d718d4ccb9dca76",
-          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
-          "translatedAt": "2026-07-27T04:27:39+08:00",
+          "sourceCommitSha": "94c187560",
+          "sourceContentHash": "sha256:36a6756b7629a9b0",
+          "sourceBodyHash": "sha256:5b971b7718b762d0",
+          "translatedAt": "2026-11-03T16:57:22.190747+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
-          "footnoteDefs": 52,
-          "bytes": 54300,
+          "footnoteDefs": 71,
+          "bytes": 96648,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (71→52)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-nuclear-debate.md",
@@ -200008,20 +200008,18 @@
         "de": {
           "path": "de/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:a080d46f3075a396",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
-          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translatedAt": "2026-11-03T17:51:29.345345+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 52926,
+          "bytes": 54530,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
