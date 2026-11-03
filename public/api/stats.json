@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15018,
+  "totalArticles": 15028,
   "totalCategories": 27,
   "estimatedContributors": 80,
-  "totalTags": 9005,
+  "totalTags": 9003,
   "categories": [
     {
       "name": "vi",
@@ -14,7 +14,7 @@
     },
     {
       "name": "ko",
-      "count": 1155
+      "count": 1157
     },
     {
       "name": "hi",
@@ -22,23 +22,23 @@
     },
     {
       "name": "fr",
-      "count": 1155
+      "count": 1157
     },
     {
       "name": "en",
-      "count": 1155
+      "count": 1157
     },
     {
       "name": "ja",
-      "count": 1155
+      "count": 1156
     },
     {
       "name": "de",
-      "count": 1155
+      "count": 1156
     },
     {
       "name": "ru",
-      "count": 1155
+      "count": 1156
     },
     {
       "name": "Technology",
@@ -58,7 +58,7 @@
     },
     {
       "name": "pt",
-      "count": 1155
+      "count": 1156
     },
     {
       "name": "Politics",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 15018,
+    "zh-TW": 15028,
     "en": 0
   },
-  "lastUpdated": "2026-11-02T22:06:40.331Z",
-  "stars": 1234,
+  "lastUpdated": "2026-11-03T22:06:48.883Z",
+  "stars": 1236,
   "forks": 188,
   "zhPages": 1156,
   "languagePages": {
     "zh-TW": 1156,
-    "en": 1155,
-    "ja": 1155,
-    "ko": 1155,
+    "en": 1157,
+    "ja": 1156,
+    "ko": 1157,
     "es": 1155,
-    "fr": 1155,
+    "fr": 1157,
     "vi": 1155,
     "id": 1155,
-    "pt": 1155,
+    "pt": 1156,
     "hi": 1155,
     "ar": 1155,
-    "ru": 1155,
-    "de": 1155
+    "ru": 1156,
+    "de": 1156
   },
-  "enPages": 1155,
+  "enPages": 1157,
   "totalPages": 1156
 }

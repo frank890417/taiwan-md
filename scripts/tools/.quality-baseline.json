@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-02T22:06:50Z",
+  "timestamp": "2026-11-03T22:06:58Z",
   "total": 1158,
   "flagged": 721,
   "files": [
@@ -836,8 +836,8 @@
     },
     {
       "file": "lifestyle/戰鬥陀螺.md",
-      "score": 5,
-      "reasons": "無URL來源; 未人工審核; 無腳註"
+      "score": 9,
+      "reasons": "僅2個URL; 未人工審核; 後段清單堆砌42%; 稀薄段落×3; 品質衰退前35%後19%; 無腳註"
     },
     {
       "file": "lifestyle/台灣交通系統.md",

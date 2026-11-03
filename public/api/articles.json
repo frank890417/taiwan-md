@@ -207,6 +207,22 @@
     "path": "hi/History/taiwan-democratization-history.md"
   },
   {
+    "title": "'개 도살의 섬'에서 안락사 제로까지: 타이완 동물 보호 40년의 구원 여정",
+    "description": "1990년대 타이완은 잔혹한 유기견 처리로 국제적으로 '개 도살의 섬'이라 불렸고, 일본 공항에는 관광 보이콧 현수막까지 등장했다. 1998년 《동물보호법》 제정부터 2017년 전면 안락사 제로 시행까지, 이는 생명의 가치를 재정립한 사회운동의 기록이다.",
+    "category": "ko",
+    "tags": [
+      "동물 보호",
+      "사회 운동",
+      "법률 변천",
+      "타이완 역사"
+    ],
+    "url": "https://taiwan.md/ko/history/animal-protection-in-taiwan",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-07-28",
+    "path": "ko/History/animal-protection-in-taiwan.md"
+  },
+  {
     "title": "'더 리포터': 탐사보도를 영업 항목에서 공공재로 구해낸 10년",
     "description": "정기 정액 기부자 4명에서 매월 8,000명으로, 《피눈물 어장》 3부작에서 2026년 통일전선 특집까지, 《더 리포터》가 10년 동안 태워 넣은 비용, 곧 8개월 잠입, 3개국을 넘나든 취재, 여러 해의 위반 기록 대조는 알고리즘 시대에 사람들이 가장 돈을 내고 보려 하지 않는 것들이다. 이 섬의 시민사회는 낯선 이들이 매달 자동이체하는 방식으로, 탐사보도를 상업 미디어의 영업 항목에서 계속 길러야 하지만 점점 더 빨리 타들어 가는 공공재로 구해냈다.",
     "category": "ko",
@@ -725,7 +741,7 @@
   },
   {
     "title": "「殺処分の島」からゼロ殺処分へ：台湾の動物保護、四十年の救済の道",
-    "description": "1990年代、台湾は残酷な野良犬対応で国際的に「殺処分の島」と呼ばれ、日本の空港では観光ボイコットの看板まで現れた。1998年の『動物保護法』制定から2017年の全面的なゼロ殺処分実施まで、これは生命の価値を再定義する社会運動であった。",
+    "description": "1990年代、台湾は流浪犬への残酷な扱いで国際的に「殺処分の島」と呼ばれ、日本の空港では観光ボイコットの看板まで現れた。1998年の『動物保護法』制定から2017年の全面的なゼロ殺処分実施まで、これは生命の価値を再定義する社会運動であった。",
     "category": "ja",
     "tags": [
       "動物保護",
@@ -734,7 +750,7 @@
       "台湾の歴史"
     ],
     "url": "https://taiwan.md/ja/history/animal-protection-in-taiwan",
-    "readingTime": 15,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-07-28",
     "path": "ja/History/animal-protection-in-taiwan.md"
@@ -823,22 +839,6 @@
     "featured": false,
     "date": "2026-08-13",
     "path": "hi/Technology/backslash-in-cjk-fonts.md"
-  },
-  {
-    "title": "「살개의 섬」에서 무처분제로까지: 대만 동물보호의 40년 구원 여정",
-    "description": "1990년대 대만은 유해견에 대한 잔혹한 처치로 인해 국제적으로 '살개의 섬'이라 불렸으며, 일본 공항에서는 관광 거부 현수막이 등장하기도 했다. 1998년 《동물보호법》 제정에서 2017년 전면 무처분제 도입까지, 이는 생명 가치 재정의에 관한 사회운동이었다.",
-    "category": "ko",
-    "tags": [
-      "동물보호",
-      "사회운동",
-      "법제 발전",
-      "대만 역사"
-    ],
-    "url": "https://taiwan.md/ko/history/animal-protection-in-taiwan",
-    "readingTime": 17,
-    "featured": false,
-    "date": "2026-07-28",
-    "path": "ko/History/animal-protection-in-taiwan.md"
   },
   {
     "title": "「たくさん食べる」を台湾色に昇華：千千進食中（チン・チン・ジンシクヂョン）の軌跡",
@@ -1726,23 +1726,23 @@
     "path": "id/Politics/village-chief-campaign-ledgers.md"
   },
   {
-    "title": "309 cuadernos de contabilidad de jefes de aldea: los retadores que gastan 30 000 y 120 000 tienen una tasa de victoria del 30 %",
-    "description": "Un novato recién graduado en el barrio Taifeng de la ciudad de Changhua obtuvo 732 votos en 2022 y terminó pagando 3275 NTD de su bolsillo. Ese año, de 13 988 candidatos a jefe de aldea en toda Taiwán, solo 309 dejaron sus libros de contabilidad de financiación política en el Yuan de Control. Al cruzar esos 309 libros con los resultados electorales, surge un hallazgo contraintuitivo: entre los retadores sin cargo previo, tanto los que gastaron menos de 30 000 como los que gastaron más de 120 000 tienen una tasa de victoria en torno al 30 % — el dinero mide cuánto tiempo lleva un candidato arraigado en el barrio, pero cuesta convertir a un retador en jefe de aldea.",
-    "category": "es",
+    "title": "309 cadernos de prestação de contas de chefes de aldeia: desafiantes que gastam 30 mil e 120 mil têm taxa de vitória de 30%",
+    "description": "Um novato recém-formado da aldeia Taifeng, na cidade de Changhua, obteve 732 votos em 2022 e acabou arcando com 3.275 NT$ do próprio bolso. Naquele ano, entre 13.988 candidatos a chefe de aldeia em todo Taiwan, apenas 309 deixaram cadernos de prestação de contas de doações políticas no Yuan de Controle. Cruzando esses 309 cadernos com os resultados da apuração, vê-se algo contra-intuitivo: entre desafiantes sem mandato, tanto os que gastaram menos de 30 mil quanto os que gastaram mais de 120 mil têm taxa de vitória em torno de 30% — o dinheiro mede há quanto tempo alguém cultiva a aldeia, mas dificilmente transforma um desafiante em chefe.",
+    "category": "pt",
     "tags": [],
-    "url": "https://taiwan.md/es/politics/village-chief-campaign-ledgers",
-    "readingTime": 54,
+    "url": "https://taiwan.md/pt/politics/village-chief-campaign-ledgers",
+    "readingTime": 56,
     "featured": false,
     "date": "2026-09-28",
-    "path": "es/Politics/village-chief-campaign-ledgers.md"
+    "path": "pt/Politics/village-chief-campaign-ledgers.md"
   },
   {
-    "title": "309 cuốn sổ sách của trưởng thôn: Thách thức với chi phí ba vạn và mười hai vạn, tỷ lệ thắng đều là ba thành",
-    "description": "Một người bình thường mới tốt nghiệp tại Đài Phượng Lý, Thành phố Chương Hóa, giành được 732 phiếu vào năm 2022 và tự đóng góp 3.275 tệ. Trong số 13.988 ứng viên trưởng thôn toàn đảo năm đó, chỉ có 309 người nộp sổ sách tài chính chính trị cho Viện Giám sát. Khi đối chiếu 309 cuốn sổ này với kết quả bầu cử, tỷ lệ đắc cử của các thách thức không phải là đương nhiệm, chi dưới ba vạn và trên mười hai vạn đều dao động quanh mức ba thành—số tiền thể hiện thời gian một người hoạt động trong thôn, nhưng rất khó biến một người thách thức thành trưởng thôn.",
+    "title": "309 cuốn sổ thu chi của trưởng thôn: Thách thức giữa mức chi 30.000 và 120.000 NT$, tỷ lệ thắng đều chỉ khoảng 30%",
+    "description": "Một người mới tốt nghiệp tại thôn Đài Phượng, thành phố Chương Hóa, đã nhận được 732 phiếu bầu vào năm 2022 nhưng phải tự bù lỗ 3.275 NT$. Trong số 13.988 ứng cử viên trưởng thôn trên toàn Đài Loan năm đó, chỉ có 309 người để lại sổ sách đóng góp chính trị tại Viện Giám sát. Phân tích 309 cuốn sổ này cho thấy: đối với những người thách thức không phải đương nhiệm, tỷ lệ trúng cử của nhóm chi dưới 30.000 NT$ và nhóm chi trên 120.000 NT$ đều xấp xỉ 30% — tiền bạc có thể đo lường thời gian một người gây dựng uy tín tại địa phương, nhưng khó có thể biến một người thách thức thành trưởng thôn.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/politics/village-chief-campaign-ledgers",
-    "readingTime": 55,
+    "readingTime": 62,
     "featured": false,
     "date": "2026-09-28",
     "path": "vi/Politics/village-chief-campaign-ledgers.md"
@@ -1759,15 +1759,15 @@
     "path": "de/Politics/village-chief-campaign-ledgers.md"
   },
   {
-    "title": "309 Livros de Contas de Chefes de Vila: Desafiantes que Gastaram Trinta Mil e Cem Mil, Todos com Taxa de Vitória de 30%",
-    "description": "Um candidato amador recém-formado em Taipé Chinesa, na cidade de Changhua, obteve 732 votos em 2022 e gastou 3.275 yuans para si mesmo. Dos 13.988 candidatos registrados em Taiwan naquele ano, apenas 309 deixaram registros de doações políticas no Tribunal de Fiscalização Financeira (CGA). Ao comparar esses 309 livros com os resultados eleitorais, percebe-se que a taxa de sucesso entre desafiantes sem cargo atual, gastando menos de trinta mil ou mais de cem mil, fica em torno de 30% — o volume do dinheiro indica quanto tempo uma pessoa gerenciou na vila, mas é difícil transformar um desafiante em chefe de vila.",
-    "category": "pt",
+    "title": "309 libros de cuentas de jefes de barrio: los desafiantes que gastan NT$30,000 y NT$120,000 tienen una tasa de victoria del 30%",
+    "description": "Un recién graduado sin experiencia política del barrio Taifeng en la ciudad de Changhua obtuvo 732 votos en 2022 y terminó pagando de su bolsillo NT$3,275. Ese año, de los 13,988 candidatos a jefes de aldea y barrio en toda Taiwán, solo 309 presentaron sus libros de cuentas de donaciones políticas en el Yuan de Control. Al cruzar estos 309 libros de cuentas con los resultados electorales, los desafiantes sin cargo previo que gastaron menos de NT$30,000 y los que gastaron más de NT$120,000 tuvieron una tasa de elección alrededor del 30% — el dinero refleja cuánto tiempo una persona ha cultivado su base en el barrio, pero difícilmente convierte a un desafiante en jefe de barrio.",
+    "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/pt/politics/village-chief-campaign-ledgers",
-    "readingTime": 60,
+    "url": "https://taiwan.md/es/politics/village-chief-campaign-ledgers",
+    "readingTime": 68,
     "featured": false,
     "date": "2026-09-28",
-    "path": "pt/Politics/village-chief-campaign-ledgers.md"
+    "path": "es/Politics/village-chief-campaign-ledgers.md"
   },
   {
     "title": "309 registres de chefs de village : pour les challengers, dépenser 30 000 ou 120 000 NT$, le taux de réussite reste à 30 %",
@@ -1781,23 +1781,23 @@
     "path": "fr/Politics/village-chief-campaign-ledgers.md"
   },
   {
-    "title": "309 Village Head Books: Challengers Spending 30,000 or 120,000 See a 30% Win Rate",
-    "description": "A novice from Taifeng Township, Changhua City, who received 732 votes in 2022 and paid 3,275 NTD for their own campaign. Out of the 13,988 village head candidates nationwide that year, only 309 submitted political donation books to the Control Yuan. When comparing these 309 books with election results, the success rate for challengers without incumbent status who spent under 30,000 NTD and those who spent over 120,000 NTD were both around 30%—the amount of money reveals how long someone has operated in the village, but it is difficult to turn a challenger into a village head.",
+    "title": "309 Village Chief Account Books: Challengers Spending NT$30,000 and NT$120,000 Both Have 30% Win Rates",
+    "description": "A fresh graduate and political novice in Taifeng Village, Changhua City, won 732 votes in 2022 and ended up paying NT$3,275 out of pocket. That year, among 13,988 village chief candidates nationwide, only 309 filed political donation account books with the Control Yuan. Cross-referencing these 309 account books with election results reveals a counterintuitive pattern: among challengers without incumbency, those spending under NT$30,000 and those spending over NT$120,000 both had win rates around 30% — money measures how long a candidate has cultivated their village, but struggles to turn a challenger into a village chief.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/politics/village-chief-campaign-ledgers",
-    "readingTime": 59,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-09-28",
     "path": "en/Politics/village-chief-campaign-ledgers.md"
   },
   {
-    "title": "309 отчетов о выборах: претенденты, потратившие 30 тысяч или 120 тысяч, имели одинаковый процент побед — тридцать процентов",
-    "description": "Амбициозный новичок из района Тайфэн в городе Чанха, получивший 732 голоса в 2022 году и потративший 3 275 NT$, был одним из 309 человек, представивших отчеты о политических взносах. Анализ этих отчетов показывает, что среди претендентов без действующего статуса шансы на победу при расходах менее 30 тысяч или более 120 тысяч составляли около тридцати процентов — деньги говорят о сроке работы в районе, но не могут превратить претендента в лидера.",
+    "title": "309 учётных книг старост деревень: у тех, кто потратил тридцать тысяч, и у тех, кто потратил сто двадцать тысяч, шансы на победу — по тридцать процентов",
+    "description": "В деревне Тайфэнь города Чжанхуа недавно окончивший университет новичок в политике получил 732 голоса в 2022 году, а после выборов сам доплатил 3275 нтайв. В том году из 13 988 кандидатов в старосты деревень по всему Тайваню только 309 оставили учётные книги политические пожертвования в Контрольном юане. Сопоставив эти 309 книг с результатами подсчёта голосов, обнаруживается неожиданная закономерность: у претендентов без статуса действующего старосты, потративших менее тридцати тысяч и более ста двадцати тысяч, шансы на победу в обоих случаях составляют около тридцати процентов — деньги показывают, как давно человек ведёт дела в деревне, но трудно превратить претендента в старосту.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/politics/village-chief-campaign-ledgers",
-    "readingTime": 58,
+    "readingTime": 59,
     "featured": false,
     "date": "2026-09-28",
     "path": "ru/Politics/village-chief-campaign-ledgers.md"
@@ -1869,6 +1869,17 @@
     "path": "id/Economy/top-50-companies-taiwan.md"
   },
   {
+    "title": "8 PM Dramas: A Single Match Ignites Taiwan's Living Room Cult Classics and Nostalgia",
+    "description": "From 1990s Qiong Yao melodramas to 2000s Pili Huo memes, 8 PM dramas are not just Taiwan''s ambient background noise — they are an industrial miracle of \"shoot-today-air-tomorrow\" that synchronizes with reality in real time.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/culture/taiwan-prime-time-drama",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "en/Culture/taiwan-prime-time-drama.md"
+  },
+  {
     "title": "8·23 포격전: 44일간의 포화, 20년 금먼의 일상",
     "description": "1958년 8월 23일, 금먼은 85분간 3만 발이 넘는 포격을 받았다. 44일 후, 포화는 완전히 사라지지 않고 '단타쌍불타' 방식으로 1979년까지 이어졌다. 이 전쟁은 대만해 전략을 바꾸었을 뿐만 아니라 주민, 학생, 이주 가족을 전지 기억 속에 남겼다. 포탄과 이주 사이에서 금먼은 규칙성으로 불안을 견디는 섬이 되었으며, 전지 보존에서 가장 어려운 질문을 남겼다: 승리를 기억하는 것이 민간인의 대가를 함께 기억하는 것인가?",
     "category": "ko",
@@ -1904,18 +1915,35 @@
     "path": "ko/History/1959-august-7-flood.md"
   },
   {
-    "title": "8시 드라마: 성냥불 하나가 태완의 거실에 피워낸 컬트와 향수",
-    "description": "1990년대 칭야오(瓊瑤)식 신파극부터 2000년대 '피력화(霹靂火)' 밈까지, 8시 드라마는 단순한 배경음을 넘어 현실과 동기화되어 제작되는 '실시간 방영'의 산업적 기적이다.",
+    "title": "8時档：一本のライターが燃え上がらせる、台湾の居間のカルト性と郷愁",
+    "description": "1990年代の瓊瑤（けいよう）風の悲恋から2000年代の「霹靂火」ミームまで。8時档は単なる生活音ではなく、現実と同期する「即撮り即放送」の産業奇跡である。",
+    "category": "ja",
+    "tags": [
+      "映像・ドラマ",
+      "ポップカルチャー",
+      "台湾語",
+      "ミーム",
+      "社会観察"
+    ],
+    "url": "https://taiwan.md/ja/culture/taiwan-prime-time-drama",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ja/Culture/taiwan-prime-time-drama.md"
+  },
+  {
+    "title": "8시 드라마: 한 줄기 '판자이훠', 타이완 거실의 컬트와 향수를 태우다",
+    "description": "1990년대琼瑤(치옹야오) 멜로에서 2000년대 '필리훠(霹靂火)' 밈까지, 8시 드라마는 타이완인의 환경 배경음일 뿐만 아니라 현실과 동기화되는 '즉촉즉방(即拍即播)' 산업의 기적이다.",
     "category": "ko",
     "tags": [
-      "영상 및 드라마",
+      "영상",
       "대중문화",
       "타이완어",
       "밈",
-      "사회 관찰"
+      "사회관찰"
     ],
     "url": "https://taiwan.md/ko/culture/taiwan-prime-time-drama",
-    "readingTime": 18,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-07-25",
     "path": "ko/Culture/taiwan-prime-time-drama.md"
@@ -2413,23 +2441,6 @@
     "featured": false,
     "date": "2026-08-22",
     "path": "ja/People/pa-chiung-political-youtuber.md"
-  },
-  {
-    "title": "八点枠ドラマ：一本のマッチが焼き付けた、台湾リビングのカルトと郷愁",
-    "description": "1990年代の瓊瑤メロドラマから2000年代の『霹靂火』ミームまで、八点枠ドラマは台湾人の環境BGMであると同時に、現実と同期する「撮って出し」という産業の奇跡でもあった。",
-    "category": "ja",
-    "tags": [
-      "映像",
-      "ポップカルチャー",
-      "台湾語",
-      "ミーム",
-      "社会観察"
-    ],
-    "url": "https://taiwan.md/ja/culture/taiwan-prime-time-drama",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "ja/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "八部合音：挑戰西方音樂史觀的活化石",
@@ -6805,7 +6816,7 @@
       "ワクチン被害救済"
     ],
     "url": "https://taiwan.md/ja/society/taiwan-covid-pandemic-and-vaccines",
-    "readingTime": 214,
+    "readingTime": 218,
     "featured": false,
     "date": "2026-08-08",
     "path": "ja/Society/taiwan-covid-pandemic-and-vaccines.md"
@@ -20533,6 +20544,17 @@
     "path": "Art/金馬獎.md"
   },
   {
+    "title": "金馬賞：中国語映画のみの対象から国籍を問わない形へ、自国の映画が敗北しても門戸は閉ざさない",
+    "description": "1963年、梁山伯を女装で演じた香港の俳優・凌波が台北での授賞のために来台しましたが、審査員が主演男優賞を与えるべきか主演女優賞を与えるべきか決められず、特別賞を新設したことがありました。1962年当時は「国策に沿う」ことを条件に中国語映画のみを対象としていたこの賞は、回を重ねるごとに応募資格を緩和していきました。1996年には中国本土の映画を取り込み、2007年からは華語圏中心ではない映画も応募可能となりました。そのため、台湾の映画が自国の賞で最優秀作品賞を逃すことも多々ありますが、一度開いた門を閉ざすことはありませんでした。第63回は11月22日に発表されます。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/golden-horse-awards",
+    "readingTime": 118,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "ja/Art/golden-horse-awards.md"
+  },
+  {
     "title": "金馬賞から漢光演習へ：台湾の男性における集団的な成人式と生存訓練",
     "description": "1945年から現在に至るまで、台湾の兵役は3年から4ヶ月へと短縮され、2024年には再び1年制に戻りました。数百万人に関わるこの集団的な記憶は、単なる号令の暗唱にとどまらず、グレーゾーンにおけるこの島の生存の緊張感を象徴しています。",
     "category": "ja",
@@ -20566,7 +20588,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/culture/golden-bell-awards",
-    "readingTime": 82,
+    "readingTime": 83,
     "featured": false,
     "date": "2026-09-18",
     "path": "ja/Culture/golden-bell-awards.md"
@@ -27570,18 +27592,18 @@
     "path": "ja/Art/postwar-taiwan-modernist-architects.md"
   },
   {
-    "title": "戦闘陀螺：ある玩具メーカーの販促企画が27年を経て、台湾全土で600試合以上のスポーツへと成長した物語",
-    "description": "2026年5月23日未明、新荘宏匯広場の外にはすでに長蛇の列ができていた。並んでいる人々はスニーカーの発売を目当てではなく、戦闘陀螺の全国大会「極限盃 G2」の開会を待っていた。上位3名には金・銀・銅の3色のランチャーが贈られる。1999年、日本の玩具会社タカラ（特佳麗）が陀螺を売るために同名アニメを制作し、当時台湾語吹替版を見ていた小学生たちが、いまは早朝から並ぶ大人になった。一つの玩具が「大人になったら卒業する」ものではなく、審判・ポイント・賞金を備えた競技スポーツへと成長したのだ。",
+    "title": "戦闘陀螺：ある玩具メーカーの販促企画が27年を経て、全台湾で年間600試合以上の競技スポーツへと成長した物語",
+    "description": "2026年5月23日未明、新荘宏匯廣場の外には長蛇の列ができていた。並んでいたのは限定スニーカーを買う客ではなく、戦闘陀螺の全国大会「極限盃 G2」の開会を待つ人々だ。上位3名には金・銀・銅の3色のランチャーが贈られる。1999年、日本の玩具会社タカラが陀螺を売るために同名アニメを放映し、当時台湾語吹替版を見ていた小学生たちは、今や早朝から並ぶ大人になった。玩具は「大人になれば卒業する」ものではなく、審判・ポイント・賞金を備えた競技スポーツへと成長したのだ。",
     "category": "ja",
     "tags": [
       "戦闘陀螺",
       "玩具",
-      "子供時代の記憶",
+      "幼少期の記憶",
       "競技スポーツ",
-      "ノスタルジー経済"
+      "懐古経済"
     ],
     "url": "https://taiwan.md/ja/lifestyle/beyblade-in-taiwan",
-    "readingTime": 28,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-08-19",
     "path": "ja/Lifestyle/beyblade-in-taiwan.md"
@@ -28677,17 +28699,6 @@
     "path": "Technology/雷亞遊戲.md"
   },
   {
-    "title": "電力網のレジリエンス：停電後、誰が先に都市を復旧させるのか",
-    "description": "2017年8月15日と2022年3月3日の大停電は、台湾の電力網が脆弱なのは発電量だけではなく、集中型ノード、操作手順、送配電設備、そして地域的な復旧能力にあることを示しました。電力は医療、交通、通信、産業の基盤であるため、レジリエンスとは単に台電（台湾電力）の工学問題ではなく、停電後に都市全体がどう再始動するかという問題です。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/society/taiwan-grid-resilience",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ja/Society/taiwan-grid-resilience.md"
-  },
-  {
     "title": "電柱と変圧器：台湾が現代生活を街角に飾り、地域の記憶を描き出す様",
     "description": "1905年の水力発電から今日の地下化や彩色された変圧器まで、電力設備はいかにして都市の基盤、災害リスク、そして地域的識別子となり得るのか。",
     "category": "ja",
@@ -28721,6 +28732,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "Society/電網韌性.md"
+  },
+  {
+    "title": "電網レジリエンス：停電の後、誰が都市をいち早く復旧できるか",
+    "description": "2017年の815大停電と2022年の303大停電は、台湾の電力網の真の脆弱性が発電量だけでなく、集中化されたノード、操作手順、送配電設備、地方の復旧能力にあることを明らかにしました。電力が医療、交通、通信、産業の共通基盤となっている今、レジリエンスは台電だけの工学問題ではなく、都市全体が電力を失った後いかに再出発するかという問題です。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/taiwan-grid-resilience",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ja/Society/taiwan-grid-resilience.md"
   },
   {
     "title": "電線桿與變電箱：台灣把現代生活掛在街角，也把地方記憶畫上去",
@@ -31224,7 +31246,7 @@
       "懷舊經濟"
     ],
     "url": "https://taiwan.md/lifestyle/%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA",
-    "readingTime": 22,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-08-19",
     "path": "Lifestyle/戰鬥陀螺.md"
@@ -31266,25 +31288,6 @@
     "path": "Food/擔仔麵.md"
   },
   {
-    "title": "樹林紅麹：酒造場は去り、菌はソーセージに残る",
-    "description": "樹林はかつて台湾唯一の紅麹製造工場であり、紅露酒の故郷だった。2004年に酒造場は歴史となり、跡地は科学技術園区となったが、紅麹はソーセージ、調味料、文化祭の形で、樹林の街で発酵を続けている。",
-    "category": "ja",
-    "tags": [
-      "紅麹",
-      "樹林",
-      "紅露酒",
-      "発酵",
-      "新北市",
-      "地元特産",
-      "文化祭"
-    ],
-    "url": "https://taiwan.md/ja/food/shulin-red-yeast-rice",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-08-11",
-    "path": "ja/Food/shulin-red-yeast-rice.md"
-  },
-  {
     "title": "樹林紅麴：酒廠走了，菌還留在香腸裡",
     "description": "樹林曾是全台灣唯一的紅麴製造工場，紅露酒的故鄉。2004 年酒廠走入歷史，原址成了科技園區，但紅麴以香腸、醬料與文化節的形式，繼續在樹林的街道上發酵。",
     "category": "Food",
@@ -31302,6 +31305,25 @@
     "featured": false,
     "date": "2026-08-11",
     "path": "Food/紅麴.md"
+  },
+  {
+    "title": "樹林紅麴：酒廠は去ったが、菌はソーセージの中に残る",
+    "description": "樹林はかつて台湾唯一の紅麴製造工場であり、紅露酒の故郷でした。2004年に酒廠が歴史の幕を閉じ、跡地は科学技術園区となりましたが、紅麴はソーセージや調味料、文化祭という形で、今も樹林の街路で発酵を続けています。",
+    "category": "ja",
+    "tags": [
+      "紅麴",
+      "樹林",
+      "紅露酒",
+      "発酵",
+      "新北市",
+      "地域特産品",
+      "文化祭"
+    ],
+    "url": "https://taiwan.md/ja/food/shulin-red-yeast-rice",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "ja/Food/shulin-red-yeast-rice.md"
   },
   {
     "title": "濁水溪公社：台語、龐克、農友，以及一座遲來三十年的獎座",
@@ -34499,17 +34521,6 @@
     "path": "pt/Food/taiwan-canned-pineapple.md"
   },
   {
-    "title": "Abao (Aljenljeng Tjaluvie): la cantante de future pop que llevó la lengua puman al álbum del año en los Golden Melody Awards",
-    "description": "En 2020, el premio al Álbum del Año de la 31.ª edición de los Golden Melody fue otorgado a un álbum íntegramente en lengua puman de electrónica: «kinakaian 母親的舌頭». Abao (Aljenljeng Tjaluvie, nacida en 1981 en Taitung, Jinfeng) debutó como parte del dúo de R&B Abao & Brandy, trabajó como enfermera durante casi una década y en 2019, junto al productor de electrónica Dizparity, convirtió su lengua materna en future pop, redefiniendo el paradigma «música indígena = preservación».",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/aljenljeng-tjaluvie-abao",
-    "readingTime": 111,
-    "featured": false,
-    "date": "2026-04-18",
-    "path": "es/People/aljenljeng-tjaluvie-abao.md"
-  },
-  {
     "title": "Abao (Aljenljeng) : la chanteuse future pop qui a fait entrer la langue Paiwan dans les Golden Melody Awards",
     "description": "En 2020, l'album de l'année des Golden Melody Awards est décerné à l'album électro entièrement en paiwan 《kinakaian La langue de ma mère》. Abao (Aljenljeng Tjaluvie, née en 1981 à Taitung) a débuté avec le duo R&B Abao & Brandy et a été infirmière pendant dix ans avant de révolutionner la musique autochtone avec Dizparity.",
     "category": "fr",
@@ -34541,6 +34552,17 @@
     "featured": false,
     "date": "2026-04-18",
     "path": "de/People/aljenljeng-tjaluvie-abao.md"
+  },
+  {
+    "title": "Abao (Aljenljeng): la cantante de future pop que llevó la lengua Paiwan a los Golden Melody Awards",
+    "description": "En 2020, el álbum del año en los Golden Melody Awards fue «kinakaian: la lengua de mi madre», un disco de electrónica íntegramente en paiwan. Abao (Aljenljeng Tjaluvie, nacida en Taitung en 1981) debutó con el dúo R&B Abao & Brandy y trabajó como enfermera durante diez años antes de revolucionar la música indígena con Dizparity.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/aljenljeng-tjaluvie-abao",
+    "readingTime": 109,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "es/People/aljenljeng-tjaluvie-abao.md"
   },
   {
     "title": "Abao (Aljenljeng): Penyanyi future pop yang membawa bahasa Paiwan ke Album Tahunan Anugerah Golden Melody",
@@ -36605,6 +36627,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Food/braised-pork-rice.md"
+  },
+  {
+    "title": "Arroz de Levedura Vermelha de Shulin: A fábrica partiu, mas o fungo permanece nas salsichas",
+    "description": "Shulin foi a única fábrica de arroz de levedura vermelha em Taiwan e o berço do licor Honglu. Em 2004, a fábrica encerrou as atividades, mas a cultura continua viva através de salsichas, molhos e festivais culturais.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/shulin-red-yeast-rice",
+    "readingTime": 123,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "pt/Food/shulin-red-yeast-rice.md"
   },
   {
     "title": "Arroz de óleo: do arroz glutinoso que exibe riqueza ao presente que carrega o peso da vida no mês de um",
@@ -39053,19 +39086,30 @@
     "path": "id/Nature/taiwanese-black-bear.md"
   },
   {
-    "title": "Betel nut: de fruto sagrado a cancerígeno, um microcosmo de classe e terra num só fruto",
-    "description": "Em 1976, uma banca de betel nut em Caotun, Nantou, inaugurou a era das \"betel nut beauties\". Este fruto verde, outrora oferenda sagrada dos povos indígenas e \"elixir anti-miasma\" dos colonos han, tornou-se hoje um microcosmo das contradições de classe e terra da sociedade taiwanesa devido a controvérsias de saúde e ambientais.",
+    "title": "Bétel : du fruit sacré au cancérogène, un microcosme de classes et de terres dans une graine",
+    "description": "En 1976, les étals de bétel de Caotun (Nantou) ont inauguré l'ère des « Bétel Siècles ». Ce fruit vert, autrefois offrande sacrée des autochtones et « pilule purifiante » des Han, est devenu un symbole des tensions sociales et environnementales à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/betel-nut",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "fr/Society/betel-nut.md"
+  },
+  {
+    "title": "Betel nut: do fruto sagrado ao cancerígeno, um microcosmo de classe e terra num só fruto",
+    "description": "Em 1976, uma banca de betel nut em Caotun, Nantou, inaugurou a era das \"belas do betel nut\". Este fruto verde, outrora oferenda sagrada dos povos indígenas e \"elixir contra a miasma\" para os colonos han, tornou-se hoje um microcosmo das contradições de classe e terra na sociedade taiwanesa devido a controvérsias de saúde e ambientais.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/betel-nut",
-    "readingTime": 43,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-07-25",
     "path": "pt/Society/betel-nut.md"
   },
   {
     "title": "Betel Nut: From Sacred Fruit to Carcinogen—A Microcosm of Class and Land within a Single Seed",
-    "description": "In 1976, a betel nut stall in Caotun, Nantou, ushered in the era of the \"Betel Nut Beauties.\" Once a sacred offering for Indigenous peoples and a \"miasma-cleansing pill\" for Han settlers, this green fruit has become a microcosm of Taiwan''s social class and land conflicts due to health and environmental controversies.",
+    "description": "In 1976, a betel nut stall in Caotun, Nantou, ushered in the era of the \"Betel Nut Beauty.\" Once a sacred offering for Indigenous peoples and a \"miasma-cleansing pill\" for Han settlers, this green fruit has become a microcosm of Taiwan''s social class and land conflicts due to health and environmental controversies.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/betel-nut",
@@ -39086,12 +39130,12 @@
     "path": "es/Society/betel-nut.md"
   },
   {
-    "title": "Betelnuss: Von der heiligen Frucht zum Karzinogen – Klassen- und Landkonflikte in einer Frucht",
-    "description": "1976 eröffnete ein Betelnussstand in Caotun, Nantou, die Ära der „Betelnuss-Schönheiten“. Diese einst von Ureinwohnern als heilige Opfergabe und von Han-Chinesen als „Miasma-Reinigungsmittel“ verehrte grüne Frucht ist heute aufgrund von Gesundheits- und Umweltschutzkontroversen zu einem Spiegelbild der Klassen- und Landkonflikte in der taiwanesischen Gesellschaft geworden.",
+    "title": "Betelnuss: Von der heiligen Frucht zum Karzinogen – Ein Mikrokosmos aus Klassengesellschaft und Landfragen",
+    "description": "1976 begann in Caotun, Nantou, die Ära der „Betelnuss-Schönheiten“. Diese grüne Frucht, einst heiliges Opfer für indigene Völker und „Miasma-Reinigungsmittel“ der Han-Chinesen, ist heute aufgrund von Gesundheits- und Umweltdebatten ein Symbol für soziale Schichten und Landkonflikte in Taiwan.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/betel-nut",
-    "readingTime": 41,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-07-25",
     "path": "de/Society/betel-nut.md"
@@ -39108,70 +39152,81 @@
     "path": "en/Technology/beverage-sealing-machine.md"
   },
   {
-    "title": "Beyblade: A Toy Manufacturer’s Promotional Campaign That Evolved Over 27 Years into a National Sport with 600 Annual Tournaments",
-    "description": "On the early morning of May 23, 2026, a long queue had already formed outside the New Taipei City Hongwei Plaza. These were not people rushing to buy limited-edition sneakers, but fans waiting for the start of the Beyblade National Championship, where the top three finishers would win gold, silver, and bronze launchers. In 1999, Japanese toy company Takara released an anime of the same name to promote the toy. The elementary school students who watched the Taiwanese-dubbed version back then are now the adults lining up at dawn. The toy didn’t grow up; it grew into a competitive sport with referees, scoring systems, and prize money.",
+    "title": "Beyblade : comment un plan promotionnel de fabricant de jouets est devenu, en vingt-sept ans, un sport de six cents compétitions à Taïwan",
+    "description": "Le 23 mai 2026 à l'aube, une file d'attente s'était déjà formée devant le centre commercial Honghui Plaza à Xinzhuang : ces gens ne faisaient pas la queue pour des baskets en édition limitée, mais pour le championnat national de Beyblade, dont les trois premiers remportent des lanceurs doré, argenté et cuivré. En 1999, le fabricant japonais Takara lança l'anime éponyme pour vendre ses toupies ; les écoliers qui regardaient le doublage taïwanais sont aujourd'hui les adultes qui font la queue à l'aube. Un jouet n'a pas « refusé de grandir » — il a grandi pour devenir une discipline avec arbitres, classements et dotations.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/beyblade-in-taiwan",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "fr/Lifestyle/beyblade-in-taiwan.md"
+  },
+  {
+    "title": "Beyblade: A Toy Maker's Promotional Campaign That Spanned Twenty-Seven Years and Became a Sport with Over Six Hundred Tournaments Across Taiwan",
+    "description": "At dawn on May 23, 2026, a queue had already formed outside the Honghui Plaza in Xinzhuang — not for sneaker drops, but for a Beyblade national championship where the top three would take home gold, silver, and copper launchers. In 1999, Japanese toy company Takara launched an eponymous anime to sell spinning tops; the elementary schoolers who watched the Taiwanese-dubbed version are now the adults lining up before sunrise. A toy didn't refuse to grow up — it grew into a competitive sport with referees, rankings, and prize money.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/beyblade-in-taiwan",
-    "readingTime": 64,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-08-19",
     "path": "en/Lifestyle/beyblade-in-taiwan.md"
   },
   {
-    "title": "Beyblade: De una campaña promocional de juguetes a un deporte con 600 competiciones en todo Taiwán",
-    "description": "La madrugada del 23 de mayo de 2026, ya había una larga fila fuera del Hongfu Plaza en Xinzhuang; no eran personas comprando zapatillas de edición limitada, sino esperando el inicio del Campeonato Nacional de Beyblade, donde los tres primeros ganadores reciben lanzadores de oro, plata y bronce. En 1999, la compañía de juguetes japonesa Takara lanzó una animación homónima para promocionar los Beyblade; los niños que veían la versión doblada en chino de entonces son ahora los adultos que hacen cola al amanecer. El juguete no envejeció, sino que se transformó en un deporte competitivo con árbitros, puntuación y premios.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/lifestyle/beyblade-in-taiwan",
-    "readingTime": 78,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "es/Lifestyle/beyblade-in-taiwan.md"
-  },
-  {
-    "title": "Beyblade: Ein Spielzeug, das in ein kompetitives Sportevent aus 600 Wettkämpfen auf Taiwan gewachsen ist",
-    "description": "Am frühen Morgen des 23. Mai 2026 bildeten sich vor dem Honghui Plaza in Xinzhuang Menschenschlangen – nicht um Sneaker zu kaufen, sondern für die nationale Beyblade-Meisterschaft. Die Top Drei erhalten drei farbige Launcher. Ein Spielzeug ist gewachsen, das nun mit Richtern, Punktzahlen und Preisgeldern stattfindet.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/lifestyle/beyblade-in-taiwan",
-    "readingTime": 68,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "de/Lifestyle/beyblade-in-taiwan.md"
-  },
-  {
-    "title": "Beyblade: Một dự án thú vui của nhà sản xuất đã trở thành một môn thể thao cạnh tranh với hơn 600 trận đấu khắp Đài Loan trong 27 năm",
-    "description": "Vào lúc 23 giờ sáng ngày 23 tháng 5 năm 2026, hàng người đã xếp hàng bên ngoài trung tâm thương mại Hồng Hoa ở Tân Bắc — những người xếp hàng này không phải đang đợi mua giày thể thao mà là đón xem giải đấu Beyblade toàn quốc, với ba vị nhất đạt được bộ phát ra tượng kim cương, bạc và đồng. Năm 1999, công ty đồ chơi Nhật Bản Takara ra mắt bản hoạt hình cùng tên để thúc đẩy bán xoay, và những học sinh lớp 1 thời đó, giờ đây đã trở thành những người lớn xếp hàng vào buổi sáng sớm. Một món đồ chơi không lớn lên, mà là đã phát triển thành một môn thể thao có trọng tài, điểm số và tiền thưởng.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/lifestyle/beyblade-in-taiwan",
-    "readingTime": 68,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "vi/Lifestyle/beyblade-in-taiwan.md"
-  },
-  {
-    "title": "Beyblade: Sebuah Rencana Promosi Produsen Mainan, Berjalan Selama Dua Puluh Tujuh Tahun Menjadi 600 Pertandingan di Seluruh Taiwan yang Berubah Menjadi Cabang Olahraga",
-    "description": "Pada dini hari 23 Mei 2026, di luar Plaza Honghui Xinzhuang sudah berjejal antrean panjang. Orang-orang yang mengantre ini bukan untuk merebut sepatu bola yang baru diluncurkan, melainkan menunggu dimulainya Kejuaraan Nasional Beyblade. Tiga pemenang pertama bisa membawa pulang peluncur berwarna emas, perak, dan perunggu. Pada tahun 1999, perusahaan mainan Jepang Takara merilis anime berjudul sama untuk menjual koma. Anak-anak SD yang menonton versi dubbing Taiwan tahun itu, kini menjadi dewasa yang mengantre di pagi hari. Sebuah mainan tidak gagal tumbuh, melainkan tumbuh menjadi olahraga kompetitif yang memiliki wasit, poin, dan hadiah uang.",
+    "title": "Beyblade: Dari Proyek Promosi Produsen Mainan Menjadi Olahraga dengan 600 Pertandingan di Seluruh Taiwan Selama 27 Tahun",
+    "description": "Pada dini hari 23 Mei 2026, antrean panjang sudah terlihat di luar Honghui Plaza, Xinzhuang; mereka bukan mengantre sepatu, melainkan menunggu turnamen nasional Beyblade dimulai.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/beyblade-in-taiwan",
-    "readingTime": 60,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-08-19",
     "path": "id/Lifestyle/beyblade-in-taiwan.md"
   },
   {
-    "title": "Beyblade: um plano promocional de fabricante de brinquedos que, em vinte e sete anos, virou um esporte com mais de seiscentas competições em todo Taiwan",
-    "description": "Na madrugada de 23 de maio de 2026, uma fila já se formava diante do Macro Plaza em Xinzhuang; não eram pessoas atrás de tênis de lançamento, mas jogadores esperando o campeonato nacional de Beyblade, onde os três primeiros levam lançadores dourado, prateado e bronze. Em 1999, a japonesa Takara lançou o anime homônimo para vender piões; as crianças que assistiram à dublagem taiwanesa hoje são os adultos na fila. Um brinquedo não \"cresceu\" — ele virou um esporte competitivo com árbitros, pontuação e premiação.",
+    "title": "Beyblade: de um projeto promocional de fabricante de brinquedos a um esporte com 600 competições em Taiwan",
+    "description": "Na madrugada de 23 de maio de 2026, filas se formam em frente ao Glory Mall em Xinzhuang; não é para tênis, mas para o campeonato nacional de Beyblade.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/lifestyle/beyblade-in-taiwan",
-    "readingTime": 58,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-08-19",
     "path": "pt/Lifestyle/beyblade-in-taiwan.md"
+  },
+  {
+    "title": "Beyblade: Một kế hoạch khuyến mãi của nhà sản xuất đồ chơi, sau 27 năm biến thành môn thể thao với 600 cuộc thi đấu trên toàn Taiwan",
+    "description": "Rạng sáng ngày 23 tháng 5 năm 2026, bên ngoài Trung tâm thương mại Honghui Xinzhuang đã xếp thành hàng dài, những người xếp hàng không phải tranh mua giày thể thao mới ra mắt, mà chờ một giải đấu Beyblade toàn quốc khai mạc, ba hạng nhất sẽ mang về bộ phát bắn ba màu vàng, bạc, đồng. Năm 1999, công ty đồ chơi Nhật Bản Takara cho ra mắt loạt phim hoạt hình cùng tên để bán vòng quay, những học sinh tiểu học năm nào xem phiên bản lồng tiếng Đài Loan, hôm nay đã thành những người lớn xếp hàng từ sớm mai. Một món đồ chơi không bao giờ \"không lớn lên\", mà đã trưởng thành thành một môn thể thao cạnh tranh có trọng tài, điểm số và tiền thưởng.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/lifestyle/beyblade-in-taiwan",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "vi/Lifestyle/beyblade-in-taiwan.md"
+  },
+  {
+    "title": "Beyblade: un plan promocional de un fabricante de juguetes que, tras veintisiete años, se convirtió en un deporte con más de seiscientas competiciones en toda Taiwán",
+    "description": "A las 00:00 del 23 de mayo de 2026, ya se formaba una cola frente al centro comercial Honghui Plaza en Xinzhuang; no esperaban zapatillas de edición limitada, sino el campeonato nacional de Beyblade, donde los tres primeros se llevan lanzadores dorado, plateado y bronce. En 1999, la japonesa Takara lanzó el anime homónimo para vender peonzas; los niños que vieron el doblaje taiwanés hoy son los adultos que madrugan para hacer cola. Un juguete no deja de crecer, sino que crece hasta tener árbitros, puntuación y premios en metálico.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/beyblade-in-taiwan",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "es/Lifestyle/beyblade-in-taiwan.md"
+  },
+  {
+    "title": "Beyblade: Von einer Marketingstrategie eines Spielzeugherstellers zu einem Sport mit 600 Turnieren in Taiwan",
+    "description": "Am frühen Morgen des 23. Mai 2026 bilden sich vor dem Honghui Plaza in Xinzhuang lange Schlangen – nicht für Sneaker, sondern für ein Beyblade-Nationalturnier.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/lifestyle/beyblade-in-taiwan",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "de/Lifestyle/beyblade-in-taiwan.md"
   },
   {
     "title": "Beyond Setting Sail: How Taiwan’s Fisheries Were Rebuilt by Research Vessels, Fish Markets, and a Community of Technical Experts",
@@ -39381,17 +39436,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "vi/Geography/pingtung-county.md"
-  },
-  {
-    "title": "Bình hoa: Từ trái cây thánh thiêng đến chất gây unic, câu chuyện của lớp xã hội và đất đai trong một quả trái",
-    "description": "Năm 1976, quán bán bình hoa ở Caotun, Nantou mở ra thời đại \"Bình hoa Tây Nữ\". Quả trái từng là món lễ dâng của người bản địa và \"thuốc giữ trẻ\" của người Hán, giờ đây trở thành biểu tượng của mâu thuằn giữa lớp xã hội, đất đai và văn hóa doanh trại sức khỏe và môi trường.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/society/betel-nut",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "vi/Society/betel-nut.md"
   },
   {
     "title": "Biodiversidad",
@@ -41962,6 +42006,17 @@
     "path": "vi/Technology/tamsui-river-bridge.md"
   },
   {
+    "title": "Cau trầu: Từ loại quả linh thiêng đến chất gây ung thư, hình ảnh thu nhỏ của giai cấp và đất đai trong một hạt quả",
+    "description": "Năm 1976, các tiệm trầu tại Thảo Đồn, Nam Đầu đã mở ra kỷ nguyên \"Tiên nữ bán trầu\". Loại quả xanh từng là vật tế linh thiêng của người bản địa và là \"thuốc tẩy uế\" của người Hán, nay trở thành tâm điểm tranh cãi về sức khỏe và môi trường tại Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/betel-nut",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "vi/Society/betel-nut.md"
+  },
+  {
     "title": "Cầu Xiluo: Mười lăm năm đình trệ, bảy tháng nối lại Nam Bắc",
     "description": "Năm 1937, cầu trên sông Trúc Thủy đã hoàn thành 32 trụ cầu, nhưng thân cầu bị vướng mắc do thiếu thép sắt do chiến tranh để lại. Mười lăm năm sau, với thép viện trợ Mỹ, kiến nghị của địa phương và đội ngũ kỹ thuật đa quốc gia, nó được hoàn thành trong bảy tháng năm 1952. Cầu Xiluo do đó không chỉ là cầu dài nhất Viễn Đông, mà còn là một đoạn lịch sử gộp chung giao thông, Chiến tranh Lạnh, vận tải Đường sắt Đài Đường và ký ức địa phương trên cùng một khung thép. Ngày nay nó vẫn đang được sử dụng, và tiếp tục đối mặt với lựa chọn giữa bảo tồn và an toàn.",
     "category": "vi",
@@ -43197,23 +43252,23 @@
     "path": "fr/People/chen-chih-chung.md"
   },
   {
-    "title": "Chen Chih-chung: Elected to Kaohsiung City Council Three Times, Two Terms Ended in Legal Proceedings",
-    "description": "On August 18, 2008, orientation for the University of Virginia School of Law began, but Chen Chih-chung, who was preparing to pursue his J.D., never showed up and lost his admission eligibility on the very day. Later, he was elected to the Kaohsiung City Council three times from Xiaogang in Qianzhen District, with two of his terms ending at the moment a judgment became final. In between, he served 272 days in prison. The verdict rendered in April 2023 did not include a forfeiture of civil rights. A month later, the three-reading revision of the election and recall law added a blacklist clause, preventing him from registering as a candidate.",
+    "title": "Chen Chih-chung: Elected to the Kaohsiung City Council Three Times, Two Terms Ended Due to Legal Provisions",
+    "description": "On August 18, 2008, as orientation began at the University of Virginia School of Law, Chen Chih-chung, who was preparing to pursue a J.D., failed to appear and lost his eligibility for admission that very day. Since then, the Qianzhen-Xiaogang district in Kaohsiung has elected him to the City Council three times; however, two of those terms ended the moment his sentences were finalized, during which time he served 272 days in prison. The final ruling in April 2023 did not include a deprivation of civil rights. Yet, the \"blacklisted\" clause of the Public Officials Election and Recall Act, which passed its third reading a month later, prevented him from registering as a candidate again.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/chen-chih-chung",
-    "readingTime": 243,
+    "readingTime": 250,
     "featured": false,
     "date": "2026-08-18",
     "path": "en/People/chen-chih-chung.md"
   },
   {
-    "title": "Chen Chih-chung: Elegido tres veces al Concejo de Kaohsiung, dos mandatos terminaron por sentencia legal",
-    "description": "El 18 de agosto de 2008, Chen Chih-chung, quien se preparaba para estudiar J.D. en la Facultad de Derecho de la Universidad de Virginia, no asistió y perdió su elegibilidad el mismo día. Posteriormente, fue elegido tres veces al Concejo Municipal de Qianzhen, Kaohsiung, dos de los cuales terminaron en el momento en que se confirmó una sentencia; entre ellos, cumplió 272 días de prisión. La sentencia confirmada en abril de 2023 no le despojó de sus derechos públicos. Un mes después, la cláusula negra del Acta de Elecciones y Revocación aprobada en tercera lectura le impidió registrarse como candidato.",
+    "title": "Chen Chih-chung: elegido tres veces al Concejo Municipal de Kaohsiung, dos mandatos terminaron por disposición legal",
+    "description": "El 18 de agosto de 2008 comenzó la orientación para nuevos estudiantes de la Facultad de Derecho de la Universidad de Virginia; Chen Chih-chung, quien iba a cursar el J.D., no se presentó y perdió su admisión ese mismo día. Posteriormente, el distrito de Cianjhen-Siaogang de Kaohsiung lo eligió tres veces para el Concejo Municipal; dos de esos mandatos terminaron en el momento en que las sentencias quedaron firmes, y en el intermedio cumplió 272 días de prisión. La sentencia firme de abril de 2023 no incluía la privación de derechos políticos. Un mes después, la cláusula anti-corrupción de la Ley de Elección y Revocación de Funcionarios Públicos, aprobada en tercera lectura, le impidió volver a registrarse como candidato.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/chen-chih-chung",
-    "readingTime": 251,
+    "readingTime": 255,
     "featured": false,
     "date": "2026-08-18",
     "path": "es/People/chen-chih-chung.md"
@@ -47186,7 +47241,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/taiwanese-cinema",
-    "readingTime": 236,
+    "readingTime": 237,
     "featured": true,
     "date": "2026-03-23",
     "path": "pt/Art/taiwanese-cinema.md"
@@ -48836,15 +48891,48 @@
     "path": "pt/Society/taiwan-covid-pandemic-and-vaccines.md"
   },
   {
-    "title": "COVID-19 в Тайване и вакцины: восемнадцать месяцев, которые удалось выиграть, и укол, который не успели сделать",
-    "description": "15 февраля 2020 года умер водитель маршрутного такси, который никогда не выезжал за границу — это была первая смерть от COVID-19 на Тайване. Благодаря пограничному контролю и единой карте медицинского страхования Тайвань почти на восемнадцать месяцев удержал пандемию за пределами острова: в 2020 году было всего 799 подтверждённых случаев и 7 смертей. Но первая партия вакцин прибыла только в марте 2021 года — всего 117 тысяч доз; когда в 2022 году пришёл Омикрон, третья доза для пожилых людей ещё не была введена. В том году средний возраст умерших составил 82 года — на десять лет больше, чем годом ранее. Другие группы, которые понесли потери — те, кому отказали в компенсации, те, кто покинул больницы, те, кого держали в общежитиях — многие до сих пор не учтены ни в одной статистике.",
+    "title": "COVID-19 и вакцинация на Тайване: восемнадцать месяцев успеха и упущенная доза",
+    "description": "15 февраля 2020 года скончался водитель нелегального такси, никогда не выезжавший за границу — это был первый случай смерти от COVID-19 на Тайване. Благодаря контролю границ и медицинской страховке Тайван удерживал пандемию за порогом почти восемнадцать месяцев: за весь 2020 год было зарегистрировано всего 799 случаев заражения и 7 смертей. Однако первая партия вакцин прибыла лишь в марте 2021 года, и её объем составил всего 117 000 доз; когда в 2022 году пришел штамм «Омикрон», третья доза для пожилых людей всё еще была в дефиците. В тот год медианный возраст умерших составил 82 года, что на десять лет больше, чем в предыдущем. Другие группы людей, заплатившие свою цену — те, кому было отказано в компенсации, те, кто покинул больницы, и те, кто был заперт в общежитиях — многие из них до сих пор не включены ни в одну статистику.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/taiwan-covid-pandemic-and-vaccines",
-    "readingTime": 511,
+    "readingTime": 526,
     "featured": false,
     "date": "2026-08-08",
     "path": "ru/Society/taiwan-covid-pandemic-and-vaccines.md"
+  },
+  {
+    "title": "CPBL : Trente-sept ans d'histoire, une ligue qui a failli disparaître deux fois avant de renaître",
+    "description": "Le 23 octobre 1989, quatre entreprises ont annoncé la création de la Chinese Professional Baseball League à l'hôtel Brother, et la saison a débuté le 17 mars de l'année suivante. En trente-sept ans, la ligue a frôlé la dissolution à deux reprises : après l'affaire des Black Eagles en 1996, les Timoteo Eagles, les Sanwa Tigers et les Wei Chuan Dragons se sont succédé dans la sortie de la ligue ; après l'affaire du Black Rice en 2008, les CTBC Whales ont été supprimés, suivi de l'affaire des Black Elephants l'année suivante. Après avoir surmonté ces crises, le Taipei Dome a permis d'atteindre 40 000 spectateurs pour un seul match, et en 2025, la moyenne de spectateurs par match de la saison régulière a dépassé les 10 000 pour la première fois.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/chinese-professional-baseball-league",
+    "readingTime": 84,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "fr/Culture/chinese-professional-baseball-league.md"
+  },
+  {
+    "title": "CPBL: 37 Jahre – eine Liga, die zweimal beinahe unterging und überlebte",
+    "description": "Am 23. Oktober 1989 gaben vier Unternehmen im Brothers Hotel die Gründung der Chinese Professional Baseball League bekannt, die am 17. März des folgenden Jahres den Spielbetrieb aufnahm. In 37 Jahren stand sie zweimal kurz vor der Auflösung: Nach dem Auffliegen des Black-Eagles-Skandals 1996 zogen sich die China Times Eagles, Mercuries Tigers und Wei Chuan Dragons nacheinander zurück; nach dem Black-Rice-Skandal 2008 stellte Chinatrust Whales den Betrieb ein, und im Jahr darauf flog der Black-Elephant-Skandal auf. Nachdem die Liga diese Krisen überstanden hatte, brachte der Taipei Dome bis zu 40.000 Zuschauer pro Spiel, und der Zuschauerschnitt in der Regular Season 2025 überschritt erstmals die 10.000er-Marke.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/chinese-professional-baseball-league",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "de/Culture/chinese-professional-baseball-league.md"
+  },
+  {
+    "title": "CPBL: Thirty-seven years of a league that almost died twice and came back to life",
+    "description": "On October 23, 1989, four corporations announced the establishment of the Chinese Professional Baseball League at the Brother Hotel, with games commencing on March 17 of the following year. Over the past thirty-seven years, it has faced dissolution twice: first in 1996 following the Black Eagle incident, which saw the departure of the Brother Elephants, Wei Chuan Dragons, and Saica Tigers; and again after the 2008 Black Rice incident involving the Sinon Whales, followed by the Black Elephant scandal the next year. Having persevered, the Taipei Dome has now seen single-game attendance reach 40,000, and in 2025, the regular season average attendance surpassed 10,000 for the first time.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/culture/chinese-professional-baseball-league",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "en/Culture/chinese-professional-baseball-league.md"
   },
   {
     "title": "Crise climática e transição net-zero em Taiwan: no dia em que o referendo da Usina Nuclear 3 falhou, as escolhas dos limites físicos apenas começaram",
@@ -50074,17 +50162,6 @@
     "featured": false,
     "date": "2026-05-09",
     "path": "id/Society/typhoon-day.md"
-  },
-  {
-    "title": "Da \"Ilha da Matança de Cães\" ao Abate Zero: os Quarenta Anos de Redenção da Proteção Animal em Taiwan",
-    "description": "Na década de 1990, Taiwan foi internacionalmente chamada de \"Ilha da Matança de Cães\" devido ao tratamento cruel de cães vadios, chegando a aparecer painéis de boicote ao turismo em aeroportos japoneses. Da legislação da \"Lei de Proteção Animal\" em 1998 ao abate zero total em 2017, esta é um movimento social sobre a redefinição do valor da vida.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/history/animal-protection-in-taiwan",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-07-28",
-    "path": "pt/History/animal-protection-in-taiwan.md"
   },
   {
     "title": "Da Chang Bao Xiao Chang: Glutinous Sausage Is Not Bread, Yet It Turns Sausages Into Taiwan’s Hot Dog",
@@ -51776,6 +51853,28 @@
     "path": "vi/Culture/dcard-taiwan-social-platform.md"
   },
   {
+    "title": "De \"Ilha de Matança de Cães\" ao Abate Zero: Os 40 anos de redenção da proteção animal em Taiwan",
+    "description": "Nos anos 90, Taiwan foi apelidada internacionalmente de \"ilha de matança de cães\". Da Lei de Proteção Animal de 1998 ao abate zero em 2017, esta é a história de uma mudança social sobre o valor da vida.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/history/animal-protection-in-taiwan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-07-28",
+    "path": "pt/History/animal-protection-in-taiwan.md"
+  },
+  {
+    "title": "De « l'île tueuse de chiens » au zéro euthanasie : les quarante ans de rédemption de la protection animale à Taïwan",
+    "description": "Dans les années 1990, Taïwan a été surnommée « l'île tueuse de chiens » par la communauté internationale en raison de son traitement cruel des chiens errants, au point que des panneaux appelant au boycott touristique sont apparus dans les aéroports japonais. De la promulgation de la « Loi sur la protection des animaux » en 1998 à l'instauration du « zéro euthanasie » complet en 2017, il s'agit d'un mouvement social qui a redéfini la valeur de la vie.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/animal-protection-in-taiwan",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-07-28",
+    "path": "fr/History/animal-protection-in-taiwan.md"
+  },
+  {
     "title": "De Chang Hsuan a Anpu — Dois nomes, o mesmo dilema",
     "description": "Aos 13 anos, Anpu escreveu 'Baby' e tornou-se a voz representativa da música independente de Taiwan sob o nome artístico 'Chang Hsuan'. Em 2013, ao hastear a bandeira da República da China em um concerto no Reino Unido, foi banida do mercado chinês. Em 2015, ela decidiu abandonar seu nome artístico e, após três anos de ausência, retornou usando seu nome real, 'Anpu', lançando o álbum '9522' em 2022. De uma época em que a Witch Lab tinha apenas duas mesas de clientes até os dias de hoje, as duas fases de sua vida respondem ao mesmo dilema sobre nomes e posicionamento.",
     "category": "pt",
@@ -51809,23 +51908,12 @@
     "path": "es/Music/deserts-chang-and-anpu.md"
   },
   {
-    "title": "De l'« île où l'on tue les chiens » à l'objectif zéro abattage : quarante ans de rédemption pour la protection animale à Taïwan",
-    "description": "Dans les années 1990, Taïwan était surnommée internationalement « l'île où l'on tue les chiens » en raison du traitement cruel des chiens errants. De la loi sur la protection animale en 1998 à l'arrêt total des abattages en 2017, découvrez une mutation sociale majeure.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/animal-protection-in-taiwan",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-07-28",
-    "path": "fr/History/animal-protection-in-taiwan.md"
-  },
-  {
-    "title": "De la «Isla de los Perros Asesinados» al Cero de Sacrificio: Cuarenta Años de Redención en la Protección Animal de Taiwán",
-    "description": "En la década de 1990, Taiwán fue conocida internacionalmente como la «Isla de los Perros Asesinados» por su trato cruel hacia los perros callejeros, llegando a aparecer carteles de boicot turístico en los aeropuertos de Japón. Desde la promulgación de la Ley de Protección Animal en 1998 hasta la implementación total del «cero de sacrificio» en 2017, este es un movimiento social sobre la redefinición del valor de la vida.",
+    "title": "De la «isla asesina de perros» al sacrificio cero: los cuarenta años de redención de la protección animal en Taiwán",
+    "description": "En la década de 1990, Taiwán fue llamada internacionalmente «isla asesina de perros» por su trato cruel a los perros callejeros, e incluso aparecieron carteles de boicot turístico en aeropuertos japoneses. Desde la legislación de la «Ley de Protección Animal» en 1998 hasta el sacrificio cero total en 2017, esta es una movilización social sobre la redefinición del valor de la vida.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/history/animal-protection-in-taiwan",
-    "readingTime": 39,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-07-28",
     "path": "es/History/animal-protection-in-taiwan.md"
@@ -54419,7 +54507,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/art/taiwanese-cinema",
-    "readingTime": 217,
+    "readingTime": 218,
     "featured": true,
     "date": "2026-03-23",
     "path": "vi/Art/taiwanese-cinema.md"
@@ -55483,6 +55571,17 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "en/Culture/dragon-boat-festival.md"
+  },
+  {
+    "title": "Drama Jam Delapan Malam: Sebuah Korek Api yang Membakar Kultus dan Nostalgia di Ruang Tamu Taiwan",
+    "description": "Dari melodrama ala Qiong Yao pada 1990-an hingga meme \"Pili Huo\" pada 2000-an, drama jam delapan malam bukan sekadar latar suara kehidupan orang Taiwan, melainkan keajaiban industri \"syuting dan tayang langsung\" yang sinkron dengan realitas.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/culture/taiwan-prime-time-drama",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "id/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "Drei Ausländer blicken auf den Yiwei-Krieg: Das Album des Fotografen, die Notizen des Journalisten, das Tagebuch des Pfarrers",
@@ -57870,17 +57969,6 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "es/Culture/national-theater-and-concert-hall.md"
-  },
-  {
-    "title": "El telenovela de las ocho: Un fósforo «bárbaro» que enciende el cine de culto y la nostalgia en los salones de Taiwán",
-    "description": "Desde el drama de sufrimiento de Qiong Yao en los años 90 hasta el meme de *Thunder Fire* en los 2000, el telenovela de las ocho no es solo el sonido ambiental de los taiwaneses, sino un milagro industrial «grabado y emitido en directo» sincronizado con la realidad.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/culture/taiwan-prime-time-drama",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "es/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "El terremoto de 9/21: una falla que atraviesa el campus, Taiwán deja las ruinas donde cayeron",
@@ -62595,6 +62683,28 @@
     "path": "pt/Food/golden-croissant.md"
   },
   {
+    "title": "Golden Horse Awards: De aceitar apenas filmes em mandarim a não questionar a nacionalidade, sem fechar as portas mesmo quando os filmes locais perdem",
+    "description": "Em 1963, a atriz de Hong Kong Ling Bo, que interpretou o papel de Liang Shanbo em um filme cross-dressing, veio a Taipei para receber um prêmio; os jurados não sabiam se deveriam conceder o prêmio de Melhor Ator ou Melhor Atriz e criaram um prêmio especial. Este prêmio, que em 1962 aceitava apenas filmes em mandarim para \"estar alinhado com as políticas nacionais\", foi relaxando seus critérios de inscrição edição após edição: incluiu filmes da China continental em 1996 e, a partir de 2007, permitiu inscrições de filmes que não eram baseados primariamente na língua chinesa. Por causa disso, os filmes taiwaneses frequentemente perdem o prêmio de Melhor Filme para produções estrangeiras em sua própria casa, mas as portas não foram fechadas novamente. O resultado da 63ª edição será anunciado em 22 de novembro.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/art/golden-horse-awards",
+    "readingTime": 284,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "pt/Art/golden-horse-awards.md"
+  },
+  {
+    "title": "Golden Horse Awards: From Mandarin-only to Nationality-neutral, never closing the door even when local films lose at home",
+    "description": "In 1963, Hong Kong actress Feng Lin-bo, who played a cross-dressing Liang Shanbo, came to Taipei to receive an award. The judges couldn''t decide whether to grant her Best Actor or Best Actress, so they created a special award instead. This award, which in 1962 only accepted Mandarin films to \"align with national policy,\" gradually loosened its eligibility requirements each year. It included Mainland Chinese films in 1996 and, since 2007, allowed non-Mandarin-centric films to apply. Consequently, Taiwanese films often lose Best Feature Film at their own home awards, yet the doors have never been closed again. The 63rd ceremony will be revealed on November 22.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/art/golden-horse-awards",
+    "readingTime": 266,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "en/Art/golden-horse-awards.md"
+  },
+  {
     "title": "Golden Horse Hotel Contemporary Art Museum – Vom Militärstützpunkt zum künstlerischen Paradies",
     "description": "Ein Militärstützpunkt, der Abschiede und Wiedersehen erlebte; nach zwanzig Jahren des Schlafens wurde es von einem Vater und einer Tochter geweckt und ist nun eines der vom Lonely Planet empfohlenen Museen in Kaohsiung.",
     "category": "de",
@@ -62616,7 +62726,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/music/pop-music-and-golden-melody-awards",
-    "readingTime": 190,
+    "readingTime": 191,
     "featured": false,
     "date": "2026-06-28",
     "path": "fr/Music/pop-music-and-golden-melody-awards.md"
@@ -66537,6 +66647,17 @@
     "path": "en/Food/hsinchu-rice-noodles.md"
   },
   {
+    "title": "Hsinchu Stadt: Von der 1733 mit Bambus befestigten Stadt Zhūqiàn zur Wiege von TSMC im Jahr 1980",
+    "description": "Im Jahr 1733, im elften Jahr der Regierungszeit von Kaiser Yongzheng, pflanzte Xu Zhimin, der Beamte von Danshui, Bambus in der Umgebung und errichtete so eine kreisförmige Erdbefestigung mit einem Umfang von 1408 Metern. Im Jahr 1829 wurde die Steinmauer fertiggestellt; das Osttor, das Yingxi-Tor, steht noch heute am Stadtgraben. 247 Jahre später, am 15. Dezember 1980, schnitt Chiang Ching-kuo in nur fünf Kilometern Entfernung vom Yingxi-Tor das rote Band für Taiwans ersten Wissenschaftspark durch. Zwischen 1953 und 1974 starteten 148 Mitglieder der Black Bat Squadron von dieser „Stadt des Windes“ aus zu Aufklärungsflügen über dem chinesischen Festland und kehrten nie zurück. Diese Provinzhauptstadt mit 450.000 Einwohnern bildet das Rückgrat der Kalten Krieg-Frontlinie, beherbergt die älteste Stadtgründung im Norden, zwei Spitzenuniversitäten und ist der Ursprung von 90 % der weltweiten High-End-Halbleiterchips. Der Spitzname „Stadt des Windes“ klingt literarisch, doch tatsächlich sind alle Industrien in dieser Stadt mit dem Wind verbunden.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/hsinchu-city",
+    "readingTime": 193,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "de/Geography/hsinchu-city.md"
+  },
+  {
     "title": "Hsinchu-Mi-Fen: Die Industrie, die der Wind neunmalige (Jiǔjiàngfēng) enthüllte, und das Gewicht eines Namens",
     "description": "Vor etwa hundert Jahren brachte ein Einwanderer aus Hui’an die Technik des Reisnudelns nach Hsinchu; der Kojakischen Fluss, Nan-Shi und der Jiǔjiàngfēng (Neunmaliger Wind) machten das große Nan-Shi zum Nudelviertel. Nach der Kontroverse um den niedrigen Reisgehalt 2013 wurde „Hsinchu-Reisnudeln“ nicht nur zu einem lokalen Geschmack, sondern auch zu einem Begriff, der Herkunft, Produktion und Lebensmittelkennzeichnung klar trennen muss.",
     "category": "de",
@@ -66568,17 +66689,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "es/Geography/hsinchu-city.md"
-  },
-  {
-    "title": "Hsinchu: Die Bambusstadt von 1733, die Wiege von TSMC aus dem Jahr 1980",
-    "description": "Im Jahr 1733 errichtete Xu Zhimin (徐治民) eine runde Erdburg in Zhuxian durch das Pflanzen von Bambus. Am 15. Dezember 1980 schnitt Chiang Ching-kuo (蔣經國) den roten Schleier für das erste Wissenschaftszentrum Taiwans.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/geography/hsinchu-city",
-    "readingTime": 190,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "de/Geography/hsinchu-city.md"
   },
   {
     "title": "Hsinchu: Kepercayaan Rakyat yang Terhormat Selama 235 Tahun, dan Pendapatan Per Kapita Tertinggi di Taiwan, Berada di Hulu Sungai Touqian",
@@ -74279,17 +74389,6 @@
     "path": "fr/History/us-aid-to-taiwan.md"
   },
   {
-    "title": "L'arec : de fruit sacré à cancérogène, un microcosme de classes et de terres dans un seul fruit",
-    "description": "En 1976, les stands d'arec de Caotun, dans le Nantou, ont inauguré l'ère des « Beautés de l'arec ». Ce fruit vert, autrefois offrande sacrée pour les peuples autochtones et « pilule purificatrice » pour les Han, est devenu un symbole des tensions sociales et environnementales à Taïwan.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/betel-nut",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "fr/Society/betel-nut.md"
-  },
-  {
     "title": "L'art algorithmique plus grand qu'un pays : pourquoi j'ai écrit une base de connaissances pour Taïwan",
     "description": "En 2023, treize œuvres tournaient sur les murs d'une galerie de Taipei 101. Je n'en ai peint aucune — j'ai écrit treize jeux de règles. Trois ans plus tard, j'ai construit Taiwan.md, une base de connaissances open source sur Taïwan comptant plus de neuf cents articles en douze langues, où seuls environ 1 400 de mes plus de 8 000 commits ont servi à écrire des articles. Ceci est le récit à la première personne d'un créateur : pourquoi j'appelle une base de connaissances une œuvre d'art algorithmique, pourquoi son vrai corps est le rapport de recherche en amont de chaque article que personne ne lit, et pourquoi le travail consistant à m'en retirer n'est, à ce jour, toujours pas terminé.",
     "category": "fr",
@@ -78656,6 +78755,17 @@
     "path": "fr/Culture/ghost-festival-zhongyuan.md"
   },
   {
+    "title": "Le feuilleton de 20h : une torche « fan-á-huǒ », consumant le culte et la nostalgie du salon taïwanais",
+    "description": "Des mélodrames de Qiong Yao dans les années 1990 aux mèmes de « Taiwan Pili Huo » dans les années 2000, le feuilleton de 20h n'est pas seulement la bande-son ambiante des Taïwanais, c'est aussi un miracle industriel du « tourné aujourd'hui, diffusé demain » synchronisé avec la réalité.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/taiwan-prime-time-drama",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "fr/Culture/taiwan-prime-time-drama.md"
+  },
+  {
     "title": "Le fumoir de Taipei : la boîte de verre qui respire dans une ville sans fumée",
     "description": "Le 7 mai 2026, une boîte transparente s’est dressée à côté de la sortie 6 du métro Ximen : le premier fumoir extérieur à pression négative de Taïwan. On ouvre la porte, l’air entre et ne ressort pas. Taipei veut être une ville sans fumée et a pourtant commencé par bâtir en pleine rue une maison de verre pour fumer. De 1984, quand Yen Tao a perdu un lobe pulmonaire, à aujourd’hui, avec un tabagisme passif intérieur tombé à 3,2 % et encore près de la moitié dehors, cette boîte contient une cigarette légale et un contrat sur l’espace public que la ville n’a pas fini de négocier.",
     "category": "fr",
@@ -78698,6 +78808,17 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "fr/People/charles-le-gendre.md"
+  },
+  {
+    "title": "Le Golden Horse : de l'acceptation exclusive des films en mandarin à l'absence de condition de nationalité, les films locaux perdent souvent mais la porte ne se referme pas",
+    "description": "En 1963, l'actrice hongkongaise Ling Bo, qui jouait Liang Shanbo en travesti, est venue à Taipei recevoir son prix ; le jury, indécis entre lui décerner le prix du meilleur acteur ou de la meilleure actrice, a créé un prix spécial. Ce prix, qui en 1962 n'acceptait que les films en mandarin et devait « s'aligner sur la politique nationale », a assoupli ses conditions d'éligibilité édition après édition : les films du continent ont été admis en 1996, et depuis 2007, les films dont la langue principale n'est pas le chinois peuvent également concourir. Les films taïwanais en perdent souvent le prix du meilleur film dans leur propre pays, mais la porte n'a pas été refermée. La 63e édition sera dévoilée le 22 novembre.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/art/golden-horse-awards",
+    "readingTime": 294,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "fr/Art/golden-horse-awards.md"
   },
   {
     "title": "Le Grand Atlas de Taïwan : le géant aux ailes immenses qui ne se nourrit jamais",
@@ -78781,17 +78902,6 @@
     "featured": false,
     "date": "2026-08-17",
     "path": "vi/Culture/bunun-millet-rituals.md"
-  },
-  {
-    "title": "Le koji rouge de Shulin : L'usine a disparu, mais les champignons persistent dans les saucisses",
-    "description": "Shulin fut autrefois le seul site de production de koji rouge à Taïwan, berceau du vin rouge-lu. En 2004, l'usine de vin a fermé ses portes et le site est devenu un parc technologique, mais le koji rouge continue de fermenter dans les rues de Shulin sous forme de saucisses, de sauces et de festivals culturels.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/shulin-red-yeast-rice",
-    "readingTime": 138,
-    "featured": false,
-    "date": "2026-08-11",
-    "path": "fr/Food/shulin-red-yeast-rice.md"
   },
   {
     "title": "Le Labor Exchange Band",
@@ -79270,6 +79380,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "fr/History/ponlai-rice.md"
+  },
+  {
+    "title": "Le riz rouge de Shulin : l'usine est partie, mais les ferments restent dans la saucisse",
+    "description": "Shulin fut l'unique usine de production de riz rouge de Taïwan, berceau du vin Honglu. En 2004, l'usine a fermé, mais le riz rouge survit à travers ses saucisses, ses sauces et son festival culturel.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/shulin-red-yeast-rice",
+    "readingTime": 121,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "fr/Food/shulin-red-yeast-rice.md"
   },
   {
     "title": "Le Roi Canard, Zhu Yigui : le premier chef de rébellion à s'être proclamé roi à Taïwan",
@@ -90425,12 +90546,12 @@
     "path": "Economy/NET.md"
   },
   {
-    "title": "Netzresilienz: Wer kann nach einem Stromausfall die Stadt wieder zum Laufen bringen?",
-    "description": "Die Großstromausfälle von 2017 und 2022 zeigten Taiwan, dass die Schwachstellen des Netzes nicht nur in der Erzeugung liegen, sondern auch in zentralisierten Knotenpunkten, Betriebsabläufen, Übertragungs- und Verteilungsausrüstung sowie der lokalen Wiederherstellungskapazität. Wenn Strom die Grundlage für Medizin, Verkehr, Kommunikation und Industrie ist, ist Resilienz nicht nur ein technisches Problem von Taipower, sondern wie eine ganze Stadt nach einem Netzausfall neu beginnt.",
+    "title": "Netzresilienz: Wer kann die Stadt nach einem Stromausfall zuerst wieder zum Leben erwecken?",
+    "description": "Die Großstromausfälle vom 15. August 2017 und 3. März 2022 zeigten, dass die Schwachstellen des taiwanesischen Netzes nicht nur in der Erzeugung liegen, sondern in zentralisierten Knotenpunkten, Betriebsabläufen und der lokalen Wiederherstellungskapazität.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/taiwan-grid-resilience",
-    "readingTime": 124,
+    "readingTime": 127,
     "featured": false,
     "date": "2026-08-15",
     "path": "de/Society/taiwan-grid-resilience.md"
@@ -91977,18 +92098,12 @@
     "path": "pt/Geography/new-taipei-city.md"
   },
   {
-    "title": "Novela das oito: um fósforo, acendendo o cult e a nostalgia das salas taiwanesas",
-    "description": "Dos melodramas de Qiong Yao nos anos 1990 aos memes de Pili Huo nos anos 2000, a novela das oito não é apenas ruído de fundo nas casas de Taiwan, mas um milagre industrial de \"grava hoje, exibe amanhã\" que respira em sincronia com a realidade.",
+    "title": "Novelas das Oito: Um fósforo acende o culto e a nostalgia nas salas de estar de Taiwan",
+    "description": "Das melodramas de Qiong Yao dos anos 90 aos memes \"Pilihuo\" dos anos 2000, as novelas das oito não são apenas o som de fundo da vida em Taiwan, mas um milagre industrial de produção imediata sincronizada com a realidade.",
     "category": "pt",
-    "tags": [
-      "Audiovisual",
-      "Cultura pop",
-      "Taiwanês",
-      "Memes",
-      "Observação social"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/pt/culture/taiwan-prime-time-drama",
-    "readingTime": 34,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-07-25",
     "path": "pt/Culture/taiwan-prime-time-drama.md"
@@ -92317,6 +92432,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "pt/Culture/christianity-in-taiwan.md"
+  },
+  {
+    "title": "O debate entre Taiwan e a energia nuclear: após as 589 opiniões de revisão da Usina Nuclear 3, o consenso social ainda não tem uma régua",
+    "description": "Em setembro de 2026, a Comissão de Segurança Nuclear, seguindo o procedimento de renovação de licença da Lei de Controle de Instalações de Reatores Nucleares, apresentou 589 opiniões de revisão e aprovou o plano de reoperação da Usina Nuclear 3 da Taipower. Das três condições para a reativação, a legislação não define o que conta como consenso social. Em 28 de novembro, a Proposta 22 foi votada no mesmo dia das eleições \"nove em um\"; o livro de justificativas do Kuomintang (KMT) diz querer transformar em política a vontade de quase 80% da população, o secretário-geral do grupo parlamentar do Partido Democrático Progressista (DPP) afirmou que, se aprovada, a reativação seria \"um salto demasiado rápido\", e 34 organizações declararam que não se deve usá-la como autorização política para a reativação.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/taiwan-nuclear-debate",
+    "readingTime": 323,
+    "featured": false,
+    "date": "2026-06-07",
+    "path": "pt/Society/taiwan-nuclear-debate.md"
   },
   {
     "title": "O Desastre do 8 de Agosto de 1959: Como as Inundações Reescreveram o Lar e a Nação de Taiwan",
@@ -94994,12 +95120,12 @@
     "path": "id/Technology/taiwan-mobile-payment.md"
   },
   {
-    "title": "Pemecatan Massal: Gelombang Pemecatan Terbesar dalam Sejarah Taiwan yang 33 Kasus Gagal Total, Mengukur Setiap Skala Demokrasi",
-    "description": "Malam hari 26 Juli 2025, sepertiga wilayah pemilihan di seluruh Taiwan membuka suara secara bersamaan; 25 kasus pemecatan gagal total. Dari Aksi Burung Biru hingga klaim lebih dari 1,3 juta tanda tangan, tiga gelombang pemungutan suara dengan 33 kasus nol hasil. Gelombang pemecatan terbesar dalam sejarah Taiwan ini tidak memecat seorang pun, namun untuk pertama kalinya mengukur sekaligus energi mobilisasi demokrasi, ketinggian ambang batas, dan biaya polarisasi.",
+    "title": "Pemecatan Massal: Gelombang Pemecatan Terbesar dalam Sejarah di Mana Seluruh 33 Kasus Gagal, Mengukur Setiap Skala Demokrasi Taiwan",
+    "description": "Pada larut malam tanggal 26 Juli 2025, penghitungan suara dilakukan secara serentak di sepertiga daerah pemilihan di seluruh Taiwan, dan ke-25 kasus pemecatan semuanya gagal. Dari Aksi Bluebird hingga klaim pengumpulan tanda tangan lebih dari 1,3 juta orang, serta kegagalan total dalam tiga gelombang pemungutan suara yang mencakup 33 kasus, gelombang pemecatan terbesar dalam sejarah Taiwan ini tidak berhasil memecat satu orang pun, namun untuk pertama kalinya secara bersamaan mengukur energi mobilisasi demokrasi, tingginya ambang batas, dan biaya dari polarisasi.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/history/great-recall-movement-2024",
-    "readingTime": 169,
+    "readingTime": 199,
     "featured": true,
     "date": "2026-04-13",
     "path": "id/History/great-recall-movement-2024.md"
@@ -96265,6 +96391,17 @@
     "path": "vi/Technology/artificial-intelligence-development-strategy.md"
   },
   {
+    "title": "Phim giờ vàng: Một que diêm, thắp lên sự kỳ quặc và nỗi hoài niệm trong phòng khách Đài Loan",
+    "description": "Từ những bi kịch tình cảm kiểu Quỳnh Dao thập niên 1990 đến các meme \"pháo hoa\" thập niên 2000, phim giờ vàng không chỉ là âm thanh nền của người dân Đài Loan mà còn là một kỳ tích công nghiệp \"quay đến đâu chiếu đến đó\" đồng bộ với thực tế.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/culture/taiwan-prime-time-drama",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "vi/Culture/taiwan-prime-time-drama.md"
+  },
+  {
     "title": "Phố cổ gốm sứ Ứng Ca: Từ ống khói đến tuyến tàu điện ngầm, sự chuyển đổi và tái sinh của nghệ thuật gốm hai trăm năm",
     "description": "Ứng Ca, \"Cảnh Đức Trấn Đài Loan\" từng nổi tiếng với rừng ống khói, sau làn sóng chuyển đổi công nghiệp và du lịch đã đón nhận sự khai trương Bảo tàng Nghệ thuật Thành phố Tân Bắc và tuyến tàu điện ngầm Tam Anh. Thế hệ nghệ nhân gốm mới đang tìm kiếm con đường phát triển bền vững giữa truyền thống và sáng tạo, du lịch và sản xuất thông qua các hoạt động như \"Ngày hội mở cửa làng nghề\".",
     "category": "vi",
@@ -96488,6 +96625,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "id/People/cang-lan-ge-doctor.md"
+  },
+  {
+    "title": "Pinang: Dari Buah Suci Menjadi Karsinogen, Sebuah Mikrokosmos Kelas Sosial dan Tanah dalam Sebutir Buah",
+    "description": "Pada tahun 1976, kedai pinang di Caotun, Nantou memulai era \"Pinang Xi Shi\". Buah hijau yang dulunya merupakan persembahan suci masyarakat adat dan \"obat pembersih miasma\" bagi etnis Tionghoa, kini menjadi mikrokosmos konflik kelas sosial dan tanah di Taiwan karena kontroversi kesehatan dan lingkungan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/betel-nut",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "id/Society/betel-nut.md"
   },
   {
     "title": "Pinball: De los puestos de salchichas a la memoria mecánica",
@@ -97748,7 +97896,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/music/pop-music-and-golden-melody-awards",
-    "readingTime": 179,
+    "readingTime": 180,
     "featured": false,
     "date": "2026-06-28",
     "path": "es/Music/pop-music-and-golden-melody-awards.md"
@@ -97829,17 +97977,6 @@
     "featured": false,
     "date": "2026-06-03",
     "path": "fr/Nature/typhoons-in-taiwan.md"
-  },
-  {
-    "title": "Prime Time : une allumette, le culte et la nostalgie des salons taïwanais",
-    "description": "Des mélodrames de Qiong Yao des années 1990 aux mèmes \"Pili-huo\" des années 2000, les feuilletons de 20h ne sont pas seulement un bruit de fond à Taïwan, mais un miracle industriel de production en direct synchronisé avec la réalité.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/culture/taiwan-prime-time-drama",
-    "readingTime": 43,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "fr/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "Princesa Idiota: do mosaico à produtora, o riso não é a sua história toda",
@@ -97991,6 +98128,17 @@
     "featured": false,
     "date": "2026-07-05",
     "path": "id/Economy/slp-taipei-startup-leadership-program.md"
+  },
+  {
+    "title": "Programas de las ocho: un encendedor y el culto a la nostalgia en los salones de Taiwán",
+    "description": "De los melodramas de Qiong Yao en los 90 a los memes de \"Pili Huo\" en los 2000, los programas de las ocho son más que ruido de fondo; son un milagro industrial sincronizado con la realidad.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/culture/taiwan-prime-time-drama",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "es/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "Programas de variedades da Taiwan",
@@ -99643,17 +99791,6 @@
     "path": "pt/Art/ximen-red-house.md"
   },
   {
-    "title": "Red Yeast Rice in Shulin: The Winery Is Gone, but the Culture Lives On in Sausages",
-    "description": "Shulin was once Taiwan's sole red yeast rice production center and the birthplace of red dew wine. After the winery closed in 2004 and the site became a tech park, red yeast rice culture continues to ferment in the streets through sausages, sauces, and an annual cultural festival.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/food/shulin-red-yeast-rice",
-    "readingTime": 119,
-    "featured": false,
-    "date": "2026-08-11",
-    "path": "en/Food/shulin-red-yeast-rice.md"
-  },
-  {
     "title": "Reforma agraria en Taiwán: los campesinos obtienen la tierra, pero la de los terratenientes se convierte en otro tipo de capital",
     "description": "La reforma agraria en tres fases de la década de 1950 convirtió a los arrendatarios en agricultores propietarios, integrando también las controversias sobre la compensación a los terratenientes, las tierras en copropiedad y el giro del capital agrícola hacia la industria en el punto de partida del despegue económico de Taiwán.",
     "category": "es",
@@ -100075,12 +100212,12 @@
     "path": "pt/Society/whole-of-society-defense-resilience.md"
   },
   {
-    "title": "Resiliencia de la red eléctrica: tras el apagón, ¿quién recupera la ciudad primero?",
-    "description": "Los apagones masivos del 815 de 2017 y el 303 de 2022 revelaron que la verdadera fragilidad de la red eléctrica de Taiwán no reside solo en la capacidad de generación, sino en los nodos centralizados, los procedimientos operativos, los equipos de transmisión y distribución y la capacidad de recuperación local. Cuando la electricidad se convierte en la base común de la salud, el transporte, las comunicaciones y la industria, la resiliencia deja de ser solo un problema de ingeniería de Taipower y pasa a ser cómo una ciudad entera vuelve a empezar tras perder la electricidad.",
+    "title": "Resiliencia de la red eléctrica: tras un apagón, ¿quién puede restablecer la ciudad primero?",
+    "description": "Los apagones de 2017 y 2022 revelaron que la vulnerabilidad de Taiwán no es solo la generación, sino la centralización y la capacidad de recuperación local.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-grid-resilience",
-    "readingTime": 114,
+    "readingTime": 126,
     "featured": false,
     "date": "2026-08-15",
     "path": "es/Society/taiwan-grid-resilience.md"
@@ -102865,23 +103002,23 @@
     "path": "fr/Society/shuidaotou-waterworks.md"
   },
   {
-    "title": "Shulin Hongqu: a fábrica de bebidas fechou, mas o fungo permanece na linguiça",
-    "description": "Shulin já foi a única fábrica de produção de hongqu em Taiwan, a terra natal do vinho Honglu. Em 2004, a fábrica entrou para a história e o local original tornou-se um parque tecnológico, mas o hongqu continua a fermentar nas ruas de Shulin na forma de linguiças, molhos e um festival cultural.",
-    "category": "pt",
+    "title": "Shulin Red Yeast Rice: The Distillery is Gone, but the Microbes Remain in the Sausages",
+    "description": "Shulin was once Taiwan's only red yeast rice distillery and the home of Honglu wine. Though the factory closed in 2004, its culture lives on through sausages, sauces, and local festivals.",
+    "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/pt/food/shulin-red-yeast-rice",
-    "readingTime": 119,
+    "url": "https://taiwan.md/en/food/shulin-red-yeast-rice",
+    "readingTime": 121,
     "featured": false,
     "date": "2026-08-11",
-    "path": "pt/Food/shulin-red-yeast-rice.md"
+    "path": "en/Food/shulin-red-yeast-rice.md"
   },
   {
-    "title": "Shulin-Rotkoji: Die Brauerei ist verschwunden, der Schimmel bleibt in den Würsten",
-    "description": "Shulin war einst das einzige Rotkoji-Herstellungszentrum Taiwans und die Heimat des Honglu-Weins. Obwohl die Bäckerei 2004 schloss und das Gelände zu einem Technologiepark wurde, fermentiert Rotkoji weiterhin auf den Straßen von Shulin in Form von Wurstwaren, Soßen und Kulturfesten.",
+    "title": "Shulin-Roter Hefereis: Die Brauerei ging, die Pilze blieben in der Wurst",
+    "description": "Shulin war einst die einzige Fabrik für roten Hefereis in Taiwan und die Heimat des Honglu-Weins. 2004 schloss die Brauerei, doch das Erbe lebt in Würsten und Kulturfesten weiter.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/food/shulin-red-yeast-rice",
-    "readingTime": 121,
+    "readingTime": 119,
     "featured": false,
     "date": "2026-08-11",
     "path": "de/Food/shulin-red-yeast-rice.md"
@@ -102975,17 +103112,6 @@
     "path": "id/Society/who-counts-as-low-wage.md"
   },
   {
-    "title": "Siaran Jam 8: Sebatang Korek Api, Membakar Kultus dan Rindu di Ruang Tamu Taiwan",
-    "description": "Dari drama sedih Qiong Yao era 1990-an hingga meme Pili Huo era 2000-an, siaran jam 8 bukan hanya suara latar ruang tamu orang Taiwan, melainkan keajaiban industri \"syuting hari ini, tayang besok\" yang berjalan selaras dengan realita.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/culture/taiwan-prime-time-drama",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "id/Culture/taiwan-prime-time-drama.md"
-  },
-  {
     "title": "Siêu thị Tiểu Bắc: \"Vua tạp hóa\" Đài Loan trong ánh đèn đêm, hành trình 30 năm từ sạp hải sản đến \"cứu tinh của phụ huynh\"",
     "description": "Khởi nghiệp từ chợ đêm Tiểu Bắc tại Đài Nam vào năm 1994, Siêu thị Tiểu Bắc (Xiaobei Department Store) đã chuyển mình từ một tiệm hải sản bên bờ vực phá sản thành chuỗi bán lẻ kim khí hàng đầu với hơn 190 cửa hàng trên toàn Đài Loan nhờ chiến lược \"kinh doanh 24 giờ\" và \"bán những thứ người khác không bán\". Đây không chỉ là cứu tinh đêm khuya của các bậc phụ huynh, trạm tiếp tế nỗi nhớ quê hương cho lao động di cư, mà còn là một kỳ tích sinh tồn kiên cường nhất của ngành bán lẻ Đài Loan.",
     "category": "vi",
@@ -103030,17 +103156,6 @@
     "path": "es/Technology/into-the-cellar-taiwan-game-podcast.md"
   },
   {
-    "title": "Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah",
-    "description": "Pada 1976, kios sirih pinang di Caotun, Nantou, memulai era \"Gadis Sirih Pinang\". Buah hijau yang dahulu menjadi persembahan suci orang asli dan \"obat penyingkir mala\" bagi orang Han, kini menjadi cerminan ketegangan kelas sosial dan tanah di Taiwan akibat kontroversi kesehatan dan lingkungan.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/betel-nut",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "id/Society/betel-nut.md"
-  },
-  {
     "title": "Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator, 30 Tahun SNTV Bertahan di Politik Lokal",
     "description": "Pada tahun 2008, pemilihan legislator beralih ke sistem distrik tunggal dua suara, namun pemilihan anggota dewan tingkat kota dan kabupaten pada tahun yang sama masih menggunakan sistem lama SNTV dari era 1980-an — negara yang sama, kelompok pemilih yang sama, jabatan berbeda di surat suara yang sama, tetapi menggunakan dua aturan main yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis, melainkan isu reformasi sistem pemilihan terbesar di Taiwan yang belum terselesaikan, yang melibatkan faksi lokal, kepentingan partai politik, dan biaya pendukung. Sebuah peta sistem yang mengurai bagaimana kedua sistem tersebut bekerja, mengapa satu sisi berubah sementara sisi lainnya tidak, serta apa artinya bagi partai kecil dan representasi yang beragam.",
     "category": "id",
@@ -103074,17 +103189,6 @@
     "path": "id/Society/democratic-system.md"
   },
   {
-    "title": "Sistem Desa/Kelurahan: 7.748 Kepala yang Terpilih Secara Demokratis, Unit Politik Paling Dasar di Taiwan",
-    "description": "Kantor kelurahan yang terbuka pukul setengah lima pagi, bantuan operasional bulanan 45.000 TWD, lebih dari enam puluh persen tidak bergabung dengan partai — kepala kelurahan adalah posisi politik yang paling tidak terlihat seperti \"politik\" dalam pemilu Taiwan, dan juga bukti paling lengkap dari proses demokratisasi Taiwan. Dari sistem perlindungan jaman Jepang hingga pemilihan langsung pada 1950, posisi yang ada sebanyak 7.748 — lebih banyak dari 7-Eleven — ini menggerakkan jaringan relasi lokal selama delapan puluh tahun.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/politics/village-chief-system",
-    "readingTime": 123,
-    "featured": false,
-    "date": "2026-05-27",
-    "path": "id/Politics/village-chief-system.md"
-  },
-  {
     "title": "Sistem Kawasan Pemandangan Nasional Taiwan",
     "description": "Eksperimen prioritas pariwisata di bawah label \"nasional\": bagaimana 13 kawasan pemandangan menyeimbangkan konservasi dan pengembangan",
     "category": "id",
@@ -103094,6 +103198,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "id/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "Sistem Kepala Desa/Kelurahan: 7.748 Kepala Terpilih Rakyat, Unit Politik Paling Dasar Taiwan",
+    "description": "Kantor Kelurahan Jam 5:30 Pagi, Tunjangan Bulanan NT$54.000, Lebih dari Enam Puluh Persen Tanpa Partai — Kepala Desa/Kelurahan Adalah Jabatan Politik yang Paling Tidak Seperti \"Politik\" dalam Pemilihan Taiwan, dan Bukti Paling Lengkap Demokratisasi Taiwan. Dari Sistem Bao-Jia Masa Pendudukan Jepang ke Pemilihan Langsung 1950, Jabatan Ini yang Berjumlah 7.748 di Seluruh Taiwan — Lebih Banyak dari 7-Eleven — Mengoperasikan Delapan Puluh Tahun Agen Hubungan Lokal.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/politics/village-chief-system",
+    "readingTime": 116,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "id/Politics/village-chief-system.md"
   },
   {
     "title": "Sistem KPU: Desain Kontrintuitif Pengendalian Ganda Eksekutif-Legislatif",
@@ -107225,17 +107340,6 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "pt/Society/taiwan-lithuania.md"
-  },
-  {
-    "title": "Taiwan e o debate nuclear: o antinuclearismo já foi a linguagem comum do movimento democrático, mas a crise climática baralhou todas as cartas",
-    "description": "Em agosto de 2025, 4,34 milhões votaram \"sim\" à reativação da Usina Nuclear 3, vencendo com 74%, mas perderam por não atingir o quórum. Três referendos em quarenta anos: Taiwan saiu do consenso antinuclear para o \"lar não nuclear\", e em três meses reativou os reatores que havia desligado. O debate já não é \"nuclear: bom ou mau?\", mas como uma sociedade decide algo com relógios opostos: lixo nuclear por 100 mil anos, descarbonização em 10, apagão agora.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/taiwan-nuclear-debate",
-    "readingTime": 173,
-    "featured": false,
-    "date": "2026-06-07",
-    "path": "pt/Society/taiwan-nuclear-debate.md"
   },
   {
     "title": "Taiwan e o papel: da disputa pelo bagaço ao ciclo do papel reciclado, como o papel escreveu uma história industrial",
@@ -115541,17 +115645,6 @@
     "path": "en/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md"
   },
   {
-    "title": "The 8 O'Clock Drama: A Matchstick Ignites the Cult and Nostalgia of Taiwan's Living Rooms",
-    "description": "From the melodramatic suffering of 1990s Qiong Yao to the \"Pili Fire\" memes of the 2000s, 8 o''clock dramas are not just background noise for Taiwanese people, but an industrial miracle of \"filming and broadcasting simultaneously\" that syncs with reality.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/culture/taiwan-prime-time-drama",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "en/Culture/taiwan-prime-time-drama.md"
-  },
-  {
     "title": "The 9/21 Earthquake: A Fault Line Running Through a Campus, Taiwan Leaves the Ruins in Place",
     "description": "On the early morning of September 21, 1999, the Chelungpu Fault sliced through Guangfu Junior High School in Wufeng, Taichung, lifting the playground 2.6 meters and claiming 2,415 lives that night. From the loss of water supply at Shigang Dam to its preservation as an educational park, what the 9/21 earthquake left behind was not just a casualty report, but a method by which Taiwan relearned how to coexist with earthquakes.",
     "category": "en",
@@ -117097,23 +117190,23 @@
     "path": "en/Technology/threads-in-taiwan.md"
   },
   {
-    "title": "Threads in Taiwan: Vom „Ich nehme ein bisschen\" zum ägyptischen Studentenausweis – wie eine News Feed Wand zur digitalen Nachtmarkt wurde",
-    "description": "Ende 2025 wurde ein Studentenausweis der National Taiwan University, der neben der ägyptischen Sphinx aufgelesen worden war, zu einer länderübergreifenden Suchanfrage auf Threads; in derselben News Feed tauchten auf japanischen und koreanischen Touristen-Essensfotos Kätzchen mit „Hallo, ich nehme ein bisschen\" auf. Taiwans „knusprig\" presst Klatsch, gegenseitige Hilfe, Memes und öffentliche Diskussion zusammen, lässt Fremde kurz am selben Tisch sitzen, dann wird die Geschichte weitergeleitet.",
+    "title": "Threads in Taiwan: Von „Ich esse ein bisschen“ bis zum ägyptischen Studentenausweis – Wie eine Newsfeed-Wand zu einem digitalen Nachtmarkt wurde",
+    "description": "Ende 2025 wurde ein in der Nähe der Sphinx in Ägypten gefundener Studentenausweis der National Taiwan University auf Threads zu einer internationalen Suche. Auf derselben Newsfeed-Wand locken Food-Fotos von Reisenden aus Japan und Korea die „Hallo, ich esse ein bisschen“-Katzen an. Das taiwanische „Cui“ vermischt belanglose Posts, gegenseitige Hilfe, Memes und öffentliche Diskussionen, wodurch Fremde kurzzeitig an denselben Tisch gesetzt werden, um Geschichten gemeinsam weiterzutragen.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/technology/threads-in-taiwan",
-    "readingTime": 465,
+    "readingTime": 567,
     "featured": false,
     "date": "2026-03-24",
     "path": "de/Technology/threads-in-taiwan.md"
   },
   {
-    "title": "Threads tại Đài Loan: Từ 'Tôi ăn một chút' đến chứng sinh viên Ai Cập, một bức tường tin nhắn như chợ đêm số",
-    "description": "Vào cuối năm 2025, một tấm thẻ sinh viên của đại học Quốc gia Đài Loan được tìm thấy gần tượng con sư tử người ở Ai Cập đã được chuyển thành công cụ tìm kiếm toàn cầu trên Threads; trên cùng một bức tường tin nhắn, những bức ảnh ẩm thực của du khách Nhật Hàn đã thu hút sự chú ý của con mèo 'Xin chào, tôi ăn một chút'. Sự 'giòn' của Đài Loan đã đưa những bài viết tầm thường, sự hỗ trợ lẫn nhau, meme và thảo luận công cộng lại gần nhau, khiến những người lạ ngồi cùng một bàn trong khoảnh khắc ngắn ngủi, rồi tiếp tục truyền câu chuyện xa xa.",
+    "title": "Threads tại Đài Loan: Từ câu nói \"Tôi ăn một chút\" đến thẻ sinh viên ở Ai Cập, hành trình biến một dòng trạng thái thành chợ đêm kỹ thuật số",
+    "description": "Vào cuối năm 2025, một chiếc thẻ sinh viên Đại học Quốc gia Đài Loan được tìm thấy gần tượng Nhân sư tại Ai Cập đã trở thành tâm điểm của cuộc tìm kiếm xuyên quốc gia trên Threads; cũng trên cùng một dòng trạng thái đó, những bức ảnh ẩm thực của du khách Nhật Bản và Hàn Quốc sẽ thu hút sự xuất hiện của chú mèo với câu nói \"Xin chào, tôi ăn một chút\". Sự \"giòn tan\" của Đài Loan đã kết nối những bài đăng vô thưởng vô phạt, sự tương trợ, meme và các cuộc thảo luận công cộng lại với nhau, khiến những người lạ tạm thời ngồi cùng một bàn, rồi tiếp nối câu chuyện truyền đi thật xa.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/technology/threads-in-taiwan",
-    "readingTime": 490,
+    "readingTime": 533,
     "featured": false,
     "date": "2026-03-24",
     "path": "vi/Technology/threads-in-taiwan.md"
@@ -118149,17 +118242,6 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "es/Food/oyster-omelet.md"
-  },
-  {
-    "title": "Toupie Beyblade : d'une campagne promotionnelle de jouets à un sport comptant 600 compétitions à travers Taïwan",
-    "description": "Le matin du 23 mai 2026, une longue file d'attente s'était déjà formée devant le centre commercial Hong Hui de Xinzhuang. Ces personnes ne faisaient pas la queue pour des sneakers en vente limitée, mais pour le début du championnat national de Toupie Beyblade, où les trois premiers pouvaient remporter des lanceurs aux couleurs or, argent et bronze. En 1999, le fabricant de jouets japonais Takara a lancé une série animée du même nom pour promouvoir ses toupies. Les enfants qui regardaient la version taïwanaise doublée sont aujourd'hui les adultes qui font la queue au petit matin. Ce n'est pas le jouet qui a grandi, c'est une compétition sportive avec des arbitres, des points et des prix qui a émergé.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/lifestyle/beyblade-in-taiwan",
-    "readingTime": 79,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "fr/Lifestyle/beyblade-in-taiwan.md"
   },
   {
     "title": "Tour Buses: Why Has This Iron Box Carrying Taiwan's People Up Mountains and Across Seas for Six Decades Always Been Involved in Accidents?",
@@ -119884,12 +119966,12 @@
     "path": "de/People/yani-tseng.md"
   },
   {
-    "title": "Từ \"Đảo Giết Chó\" đến Chính Sách Zero Kill: Bốn Mươi Năm Cứu Độc của Bảo Vệ Động Vật Đài Loan",
-    "description": "Những năm 1990, Đài Loan bị cộng đồng quốc tế gọi là \"Đảo Giết Chó\" vì cách đối xử tàn nhẫn với chó hoang. Từ khi Luật Bảo Vệ Động Vật được ban hành năm 1998 cho đến chính sách zero kill toàn diện năm 2017, đây là một cuộc vận động xã hội xác định lại giá trị của sự sống.",
+    "title": "Từ \"Đảo giết chó\" đến mục tiêu không tiêu hủy: Hành trình 40 năm cứu rỗi của bảo vệ động vật tại Đài Loan",
+    "description": "Vào thập niên 1990, Đài Loan từng bị quốc tế gọi là \"Đảo giết chó\" do cách đối xử tàn nhẫn với chó lang thang. Từ việc ban hành Luật Bảo vệ Động vật năm 1998 đến khi thực hiện hoàn toàn chính sách không tiêu hủy vào năm 2017, đây là một cuộc vận động xã hội nhằm định nghĩa lại giá trị của sự sống.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/history/animal-protection-in-taiwan",
-    "readingTime": 34,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-07-28",
     "path": "vi/History/animal-protection-in-taiwan.md"
@@ -119915,17 +119997,6 @@
     "featured": true,
     "date": "2026-05-17",
     "path": "vi/Culture/archipelago-thinking.md"
-  },
-  {
-    "title": "Tứ Giờ Chiều: Một quả pháo hoa truyền thống, cháy lên sự kỳ quái và niềm nhớ trong gia đình của Đài Loan",
-    "description": "Từ nỗi khổ của Jiao Niao trong thập niên 1990 đến các meme của Lửa Bùng Nổ trong thập niên 2000, Tứ Giờ Chiều không chỉ là nền tảng âm thanh môi trường của người Đài Loan, mà còn là một \"cựu kỳ quan\" công nghiệp phản ánh thời sự.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/culture/taiwan-prime-time-drama",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "vi/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "Tư Lâm (士林): Vùng đất của tộc Kadashan, ngôi miếu của tranh chấp Tương-Tuyền, và hôm nay là chợ đêm đông đúc nhất Đài Bắc",
@@ -123374,7 +123445,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/politics/nine-in-one-elections-explained",
-    "readingTime": 87,
+    "readingTime": 92,
     "featured": false,
     "date": "2026-05-27",
     "path": "de/Politics/nine-in-one-elections-explained.md"
@@ -123771,12 +123842,12 @@
     "path": "de/Technology/taiwan-disaster-medicine-system.md"
   },
   {
-    "title": "What Are the Nine-in-One Elections? Nine Offices, Four Upgrades, and Three Decades of Local Self-Governance Evolution",
-    "description": "The term 'Nine-in-One' was first widely used in 2014, built on four waves of municipal restructuring — the 1967 upgrade of Taipei and Kaohsiung, the 1979 Kaohsiung upgrade, the 2010 Five Municipalities upgrade, and the 2014 Taoyuan upgrade — alongside three institutional milestones: the first direct election of special municipality mayors in 1994, the consolidation under the Local Government Act in 1999, and the creation of mountain indigenous district mayors in 2014. Nine offices voted on a single day — special municipality mayors / special municipality councilors / county and city mayors / county and city councilors / township and city mayors / township and city councilors / mountain indigenous district mayors / mountain indigenous district councilors / village and borough wardens — represent the accumulated crystallization of three decades of Taiwan's local self-governance evolution.",
+    "title": "What Are the Nine-in-One Elections? Nine Positions, Four Upgrades, Thirty Years of Local Self-Governance Evolution",
+    "description": "The term \"Nine-in-One\" first saw widespread use in 2014, reflecting four waves of urban restructuring (1967 Taipei/Kaohsiung upgrades, 1979 Kaohsiung upgrade, 2010 Five Special Municipalities upgrade, 2014 Taoyuan upgrade) and three institutional milestones (1994 first direct election of special municipality mayors, 1999 Local Government Act consolidation, 2014 creation of mountain indigenous district chiefs). Same-day voting for nine positions — special municipality mayors, special municipality councilors, county/city mayors, county/city councilors, township/city mayors, township/city council representatives, mountain indigenous district chiefs, mountain indigenous district council representatives, and village/neighborhood chiefs — is the cumulative crystallization of Taiwan''s thirty years of local self-governance evolution.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/politics/nine-in-one-elections-explained",
-    "readingTime": 86,
+    "readingTime": 84,
     "featured": false,
     "date": "2026-05-27",
     "path": "en/Politics/nine-in-one-elections-explained.md"
@@ -124933,6 +125004,17 @@
     "path": "id/People/ximurong.md"
   },
   {
+    "title": "Xiao Bei Department Store : Le roi de l'épicerie taïwanaise aux lumières de la nuit, trente ans d'une aventure allant du stand de fruits de mer au « sauveur des parents »",
+    "description": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiao Bei Department Store est passé d'un restaurant de fruits de mer au bord de la faillite à un leader de la quincaillerie avec plus de 190 magasins grâce à son ouverture 24h/24.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/xiaobei-department-store",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "fr/Lifestyle/xiaobei-department-store.md"
+  },
+  {
     "title": "Xiao Bei Department Store: Der König der taiwanischen Waren in der nächtlichen Lichterwelt – Dreißig Jahre vom Meeresfrüchte-Stand zum „Retter der Eltern“",
     "description": "Von den Wurzeln auf dem Nachtmarkt von Xiaobei in Tainan (1994) entwickelte sich Xiao Bei Department Store durch eine Strategie der „24-Stunden-Verfügbarkeit“ und des Sortiments für Nischenprodukte vom maroden Fischgeschäft zum führenden Eisenwarenhändler mit über 190 Filialen in ganz Taiwan.",
     "category": "de",
@@ -124944,23 +125026,23 @@
     "path": "de/Lifestyle/xiaobei-department-store.md"
   },
   {
-    "title": "Xiao Bei Department Store: Raja Toko Serba Ada Taiwan di Tengah Lampu Malam, dari Warung Hasil Laut ke \"Penyelamat Orang Tua\" Selama Tiga Puluh Tahun",
-    "description": "Bermula dari Pasar Malam Xiao Bei Tainan pada 1994, Xiao Bei Department Store bertransformasi dari toko hasil laut yang hampir bangkrut menjadi pemimpin perlengkapan keras dengan lebih dari 190 cabang di seluruh Taiwan, berkat strategi \"beroperasi 24 jam\" dan \"menjual barang yang tidak dijual orang lain\". Ia adalah penyelamat orang tua di malam hari, stasiun pengisi kangen bagi pekerja migran, serta keajaiban kelangsungan hidup paling tangguh di industri ritel Taiwan.",
-    "category": "id",
+    "title": "Xiao Bei Department Store: O rei dos armazéns de Taiwan sob as luzes da madrugada, de uma banca de frutos do mar ao \"salvador dos pais\" em 30 anos",
+    "description": "Fundada em 1994 no mercado noturno de Xiaobei, em Tainan, a Xiao Bei Department Store transformou-se de uma loja de frutos do mar à beira da falência em um gigante de ferragens com mais de 190 lojas.",
+    "category": "pt",
     "tags": [],
-    "url": "https://taiwan.md/id/lifestyle/xiaobei-department-store",
+    "url": "https://taiwan.md/pt/lifestyle/xiaobei-department-store",
     "readingTime": 36,
     "featured": false,
     "date": "2026-07-25",
-    "path": "id/Lifestyle/xiaobei-department-store.md"
+    "path": "pt/Lifestyle/xiaobei-department-store.md"
   },
   {
-    "title": "Xiao Bei Department Store: Taiwan''s Grocery King in the Late-Night Lights, from a Seafood Stall to a \"Parent''s Savior\" Over Three Decades",
-    "description": "Founded in 1994 at Tainan''s Xiao Bei Night Market, Xiao Bei Department Store leveraged a \"24-hour operation\" and a \"sell what others won''t\" strategy to transform from a near-bankrupt seafood shop into a hardware retail leader with over 190 stores island-wide. It is a late-night savior for parents, a supply station for migrant workers'' nostalgia, and Taiwan''s retail sector''s most resilient survival miracle.",
+    "title": "Xiao Bei Department Store: Taiwan''s Grocery King of Late-Night Lights, From Seafood Stalls to \"Parental Lifesaver\" Over Thirty Years",
+    "description": "Rising from Tainan's Xiao Bei Night Market in 1994, Xiao Bei Department Store transformed from a failing seafood shop into a hardware giant with over 190 stores by selling what others wouldn't. It is a late-night savior for parents, a nostalgic supply station for migrant workers, and a resilient miracle of Taiwanese retail.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/xiaobei-department-store",
-    "readingTime": 34,
+    "readingTime": 35,
     "featured": false,
     "date": "2026-07-25",
     "path": "en/Lifestyle/xiaobei-department-store.md"
@@ -124988,26 +125070,15 @@
     "path": "de/People/xiao-qing-yang-grammy-designer.md"
   },
   {
-    "title": "Xiaobei Department Store : Le roi de l'épicerie taïwanaise sous les lumières de la nuit, de l'étal de fruits de mer au « sauveur des parents » en trente ans",
-    "description": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiaobei Department Store a transformé une échoppe de produits de la mer proche de la faillite en un leader de la quincaillerie avec plus de 190 magasins à Taïwan, grâce à une stratégie d'ouverture « 24h/24 » et de vente de « produits que les autres ne vendent pas ».",
-    "category": "fr",
+    "title": "Xiaobei Department Store: Raja Kelontong Taiwan di Bawah Cahaya Malam, Tiga Dekade dari Kedai Hasil Laut hingga Menjadi \"Penyelamat Orang Tua\"",
+    "description": "Berawal dari pasar malam Xiaobei di Tainan pada 1994, Xiaobei Department Store bertransformasi dari kedai hasil laut yang hampir bangkrut menjadi pemimpin ritel perangkat keras dengan lebih dari 190 gerai di Taiwan melalui strategi \"buka 24 jam\" dan \"menjual barang yang tidak dijual orang lain\". Ia adalah penyelamat bagi orang tua di larut malam, pusat kebutuhan nostalgia bagi pekerja migran, dan keajaiban kelangsungan hidup paling tangguh dalam industri ritel Taiwan.",
+    "category": "id",
     "tags": [],
-    "url": "https://taiwan.md/fr/lifestyle/xiaobei-department-store",
-    "readingTime": 39,
+    "url": "https://taiwan.md/id/lifestyle/xiaobei-department-store",
+    "readingTime": 37,
     "featured": false,
     "date": "2026-07-25",
-    "path": "fr/Lifestyle/xiaobei-department-store.md"
-  },
-  {
-    "title": "Xiaobei Department Store: o rei das mercearias de Taiwan nas luzes da madrugada, de banca de frutos do mar a \"salvador dos pais\" em trinta anos",
-    "description": "Em 1994, surgido no Mercado Noturno Xiaobei de Tainan, o Xiaobei Department Store transformou-se, graças às estratégias de \"funcionamento 24 horas\" e \"vender o que os outros não vendem\", de uma loja de frutos do mar à beira da falência no líder de ferragens com mais de 190 filiais em toda Taiwan. É o salvador noturno dos pais, o posto de abastecimento da saudade para trabalhadores migrantes e o mais tenaz milagre de sobrevivência do varejo taiwanês.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/lifestyle/xiaobei-department-store",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "pt/Lifestyle/xiaobei-department-store.md"
+    "path": "id/Lifestyle/xiaobei-department-store.md"
   },
   {
     "title": "Xiệ De Khải: Nghệ sĩ Đài Loan biến 14 năm trạng thái không hợp pháp thành một tác phẩm nghệ thuật hành động",
@@ -128512,12 +128583,12 @@
     "path": "ru/People/pa-chiung-political-youtuber.md"
   },
   {
-    "title": "Бейблейд: промо-акция игрушечной компании, прошедшая двадцать семь лет и ставшая видом спорта с шестьюстами соревнованиями по всей Тайвани",
-    "description": "В ранние часы 23 мая 2026 года снаружи торгового центра Хунхуй в Синьчжуан уже выстроилась очередь. Эти люди ждали не кроссовки, а начало национального чемпионата по Бейблейду — победители получат запускатели трёх цветов: золотого, серебряного и бронзового. В 1999 году японская игрушечная компания Такара выпустила одноимённое аниме для продажи волчков; те самые школьники, смотревшие тайваньский дубляж в те годы, теперь стоят в очереди пораньше взрослыми людьми. Игрушка не просто не подросла — она выросла в соревновательный вид спорта с судьями, очками и призовыми фондами.",
+    "title": "Бейблейд: из маркетингового хода производителя игрушек в спорт с шестью сотнями турниров по всему Тайваню",
+    "description": "23 мая 2026 года ранним утром у торгового центра Hung Fuai Plaza в Синджу уже выстроились очереди — люди ждут не релиза кроссовок, а начала национального чемпионата по Бейблейд, где призы за первые три места — золотые, серебряные и бронзовые пускатели.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/beyblade-in-taiwan",
-    "readingTime": 62,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-08-19",
     "path": "ru/Lifestyle/beyblade-in-taiwan.md"
@@ -128556,12 +128627,12 @@
     "path": "ru/Food/taiwan-railway-bento.md"
   },
   {
-    "title": "Бинлан: от священного плода к канцерогену — классовые и земельные противоречия Тайваня в одном фрукте",
-    "description": "В 1976 году ларёк с бинланом в Цзаотуне (Наньтоу) открыл эпоху «бинлань сиши». Этот когда-то священный дар коренных народов и «сичжань дань»ханьских поселенцев, сегодня ставший предметом споров о здоровье и экологии, отражает социальные и земельные противоречия тайваньского общества.",
+    "title": "Бетель: от священного плода до канцерогена — микрокосм классового неравенства и земельных конфликтов",
+    "description": "В 1976 году в Чаотунь (Наньтоу) началась эра «красавиц бетеля». Этот зеленый плод, бывший священным подношением коренных народов и «лекарством от миазмов» для ханьцев, сегодня стал символом социальных противоречий Тайваня из-за проблем со здоровьем и экологией.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/betel-nut",
-    "readingTime": 37,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-07-25",
     "path": "ru/Society/betel-nut.md"
@@ -128874,6 +128945,17 @@
     "path": "ru/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md"
   },
   {
+    "title": "Вечерние сериалы: зажигательная спичка, породившая культ и ностальгию в гостиных Тайваня",
+    "description": "От мелодрам в стиле Цюн Яо 1990-х до мемов с «вспышкой пламени» 2000-х: вечерние сериалы — это не просто фоновый шум, а индустриальный феномен, синхронизированный с реальностью.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/culture/taiwan-prime-time-drama",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ru/Culture/taiwan-prime-time-drama.md"
+  },
+  {
     "title": "Взгляд на Тайвань — исторические представления об острове",
     "description": "От эпохи Великих географических открытий до современности различные народы по-разному взирали на этот остров: народ Тайя верит, что духи предков оставили свои следы на земле, а горы и реки являются телами их прародителей, поэтому они называют себя детьми земли; народ Ами выражает свою связь с землей через образы укоренения. Этот сборник вступлений включает в себя легенды, передаваемые из поколения в поколение, и воспоминания об острове, переплетая множественные перспективы восприятия.",
     "category": "ru",
@@ -129031,17 +129113,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ru/Technology/ai-development-in-taiwan.md"
-  },
-  {
-    "title": "Восьмидневки: один стручок огня, который разжёг тайваньский дреам и ностальгию",
-    "description": "От слёзных серий «Шицзы» 1990-х до мемов «Пики-Пики» 2000-х — восьмидневки стали не просто фоновой музыкой для тайваньцев, а уникальной «индустрией немедленного вещания», синхронно дышащей с реальностью.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/culture/taiwan-prime-time-drama",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "ru/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "Вращающееся по всему миру высококлассное сердце: история трансформации тайваньской велосипедной промышленности от королевства подрядчиков к инновационному хабу",
@@ -133456,12 +133527,12 @@
     "path": "ru/Art/matsu-biennial.md"
   },
   {
-    "title": "От «Острова убийцы собак» к нулевому отстрелу: сорокалетний путь искупления Тайваня в защите животных",
-    "description": "В 1990-е годы Тайвань из-за жестокого обращения с бродячими собаками была международно названа «Островом убийцы собак», в японских аэропортах даже появились плакаты с призывами к бойкоту туризма. От принятия в 1998 году «Закона о защите животных» до полного нулевого отстрела в 2017 году — это было общественное движение о переопределении ценности жизни.",
+    "title": "От «Острова убийцы собак» к нулевому убийству: сорокалетний путь искупления Тайваня в области защиты животных",
+    "description": "В 1990-х годах Тайвань из-за жестокого обращения с бродячими собаками получил международное прозвище «Остров убийцы собак», в японских аэропортах даже появились плакаты с призывом к бойкоту туризма. От принятия «Закона о защите животных» в 1998 году до полного введения нулевого убийства в 2017 году — это история социального движения, переопределившего ценность жизни.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/history/animal-protection-in-taiwan",
-    "readingTime": 36,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-07-28",
     "path": "ru/History/animal-protection-in-taiwan.md"
@@ -134048,6 +134119,17 @@
     "featured": false,
     "date": "2026-06-28",
     "path": "ru/Music/pop-music-and-golden-melody-awards.md"
+  },
+  {
+    "title": "Премия Золотой конек: от приема только мандаринских фильмов до игнорирования гражданства — не закрывая двери, даже когда собственные фильмы проигрывают",
+    "description": "В 1963 году гонконгская актриса Лин Бо, исполнившая роль Лян Шаньбо в гендерной перевоплощении, прибыла в Тайбэй для получения награды. Жюри не могло решить, присудить ей награду за лучшую мужскую или женскую роль, поэтому учредило специальную премию. Эта премия, созданная в 1962 году исключительно для фильмов на мандаринском диалекте в соответствии с «государственной политикой», с каждым годом расширяла критерии допуска: в 1996 году были включены фильмы из материкового Китая, а с 2007 года заявку могут подать и те картины, которые не ориентированы преимущественно на китайский язык. Из-за этого тайваньские фильмы часто проигрывают в собственной стране в номинации «Лучший игровой фильм», но двери для других участников так и не закрыли. Результаты 63-й премии будут объявлены 22 ноября.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/art/golden-horse-awards",
+    "readingTime": 285,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "ru/Art/golden-horse-awards.md"
   },
   {
     "title": "Принцесса Идиотка: от мозаики к продюсеру, смех — не всё, чем она обладает",
@@ -134763,12 +134845,12 @@
     "path": "ru/Lifestyle/taiwan-bus-system.md"
   },
   {
-    "title": "Система глав вей и ли: 7748 избраных глав, основная политическая единица Тайваня",
-    "description": "Офис главы ли в 5:30 утра, ежемесячное пособие на дела 45 000, более 60 % безпартийных — глава вей/ли — это должность, которая меньше всего похожа на «политическую» в выборах на Тайване, и в то же время наиболее полное доказательство демократизации Тайваня. От системы баоцзя эпохи японского правления до прямых выборов 1950 года — эти 7748 должностей по всему Тайваню, больше чем магазинов 7-Eleven, обеспечивают работу восьмидесяти лет местного посредничества.",
+    "title": "Система глав вей и ли: 7748 избраных глав, основная политическая единица Тайваня на уровне базы",
+    "description": "Офис главы ли в 5:30 утра, ежемесячное пособие на ведение дел в 54 тысячи, более 60% независимых — главы вей и ли являются политическими постами, наименее похожими на «политику» в выборах на Тайване, и наиболее полным доказательством демократизации Тайваня. От системы баоцзя эпохи японского правления до прямых выборов 1950 года — эти 7748 должностей на всей территории Тайваня, больше чем магазинов 7-Eleven, обеспечивают функционирование восьмидесяти лет местного представительства интересов.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/politics/village-chief-system",
-    "readingTime": 110,
+    "readingTime": 123,
     "featured": false,
     "date": "2026-05-27",
     "path": "ru/Politics/village-chief-system.md"
@@ -136473,7 +136555,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/art/taiwanese-cinema",
-    "readingTime": 226,
+    "readingTime": 227,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/Art/taiwanese-cinema.md"
@@ -139641,12 +139723,12 @@
     "path": "ru/Food/school-lunch-reform.md"
   },
   {
-    "title": "Шулинь и хунцю: ушли винзаводы, но грибок остался в колбасах",
-    "description": "Шулинь когда-то был единственным на Тайване заводом по производству хунцю — родиной красного вина Хунлуцзю. В 2004 году винзавод ушел в историю, на его месте возник технологический парк, но хунцю в виде колбас, соусов и ежегодного культурного фестиваля продолжает бродить на улицах Шулина.",
+    "title": "Шулинь и хунцзю: ушел винзавод, а грибок остался в колбасах",
+    "description": "Шулинь когда-то был единственным на Тайване заводом по производству хунцзю, родиной вина Хунлу. В 2004 году завод ушел в историю, на его месте возник технологический парк, но хунцзю в виде колбас, соусов и ежегодного культурного фестиваля продолжает бродить на улицах Шулиня.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/food/shulin-red-yeast-rice",
-    "readingTime": 100,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-08-11",
     "path": "ru/Food/shulin-red-yeast-rice.md"
@@ -140945,12 +141027,12 @@
     "path": "ar/Technology/instagram-in-taiwan.md"
   },
   {
-    "title": "إنفيديا في تايوان: أغلى شركة في العالم، ولا تصنع شريحة واحدة بنفسها",
-    "description": "في كومبيوتكس مايو 2025، وقف جنسن هوانغ بسترة جلدية، وأضاءت الشاشة الخلفية مرة واحدة بشعارات 55 شركة تايوانية — شركة أمريكية تعلن أمام الملأ أن صناعة الجزيرة بأكملها هي جسدها المادي. من تلك الرسالة عام 1996 إلى موريس تشانغ، إلى اختراق القيمة السوقية خمسة تريليونات دولار، ودفع بلدية تايبيه 4.434 مليار لتنظيف أرض لها، أودعت إنفيديا جسدها كاملاً في تايوان. تايوان بذلك تمسك بمفتاح لا يمكن للعالم إغلاقه، لكن هامش ربحها 5% فقط، ومياهها وكهرباؤها مستنزفة، ومخاطر الحرب مرهونة على الجزيرة: لا غنى عنها، لا يعني أن تايوان هي من يقرر.",
+    "title": "إنفيديا في تايوان: الشركة الأغلى في العالم، دون أن تصنع شريحة واحدة بنفسها",
+    "description": "في معرض Computex لشهر مايو 2025، ظهر جين-سون هوانغ مرتدياً سترته الجلدية، بينما أضاءت الخلفية شعارات 55 شركة تايوانية دفعة واحدة؛ شركة أمريكية تستعرض علانية صناعات الجزيرة بأكملها كأنها جزء من جسدها. من تلك الرسالة الموجهة إلى موريس تشانغ عام 1996، وصولاً إلى تجاوز قيمتها السوقية 5 تريليونات دولار، وتخصيص بلدية تايبيه مبلغ 4.434 مليار دولار لتوفير قطعة أرض لها، تودع إنفيديا كيانها بالكامل في تايوان. وبسبب ذلك، تمسك تايوان بمفتاح التشغيل الذي لا يمكن للعالم إغلاقه، لكن بهامش ربح لا يتجاوز 5%، واستهلاك جائر للموارد المائية والكهربائية، ومخاطر حرب ملقاة على عاتق الجزيرة: عدم القدرة على الاستغناء عنها لا يعني أن تايوان هي من تملك القرار.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/technology/nvidia-in-taiwan",
-    "readingTime": 214,
+    "readingTime": 242,
     "featured": true,
     "date": "2026-06-22",
     "path": "ar/Technology/nvidia-in-taiwan.md"
@@ -142637,17 +142719,6 @@
     "path": "ar/Society/whole-of-society-defense-resilience.md"
   },
   {
-    "title": "المرونة في شبكة الكهرباء: بعد انقطاع التيار، من يستطيع استعادة المدينة أولاً؟",
-    "description": "أظهرت أحداث انقطاع التيار الكهربائي الكبير في 15 أغسطس 2017 و3 مارس 2022 أن الضعف الحقيقي في شبكة الكهرباء لا يكمن في القدرة الإنتاجية فحسب، بل في العقد المركزية، وإجراءات التشغيل، ومعدات النقل والتوزيع، والقدرة المحلية على الاستعادة. عندما يصبح التيار الكهربائي الأساس المشترك للرعاية الصحية، والنقل، والاتصالات، والصناعة، فإن المرونة لم تعد مجرد مشكلة هندسية تابعة لشركة التيار الكهربائي، بل هي حول تكيف المدينة بأكملها بعد فقدان التيار.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/taiwan-grid-resilience",
-    "readingTime": 91,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ar/Society/taiwan-grid-resilience.md"
-  },
-  {
     "title": "المساعدات الأمريكية: كيف تحولت حزمة طحين إلى نظام تنموي متكامل",
     "description": "لم تجلب المساعدات الأمريكية (1951-1965) الدولارات والاحتياجات العسكرية والغذاء فحسب، بل أدخلت أيضًا رأس المال والتكنولوجيا والتعليم وأمن الحرب الباردة إلى اقتصاد تايوان ما بعد الحرب. من دخول الأسطول السابع إلى مضيق تايوان بعد الحرب الكورية، إلى خيارات إن تشونغ رونغ الصناعية، وتوزيع المواد بموجب القانون العام 480، والتعليم العلمي والمؤسسات الإدارية، كيف أعادت السلطات المحلية والبيروقراطية ترجمة المساعدات الأمريكية؟ لقد دعمت إعادة الإعمار ما بعد الحرب، لكنها تركت أيضًا خلافات حول التبعية والإشراف والاستقلالية.",
     "category": "ar",
@@ -142806,17 +142877,6 @@
     "path": "ar/Nature/black-faced-spoonbill.md"
   },
   {
-    "title": "الملف الثماني: نيران الفتى الصغير وصناعة الذاكرة الحنينية والشرارة البصرية في غرفة نوم تايوان",
-    "description": "من المشاعر الحزينة لكاتياو في التسعينيات إلى ظواهر النيران المتفجرة في الألفين، لا يقتصر الملف الثماني على كونه موسيقى خلفية منزلية للتلفاز التايواني، بل هو أيضًا فن الإنتاج الفوري المتزامن مع الواقع.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/culture/taiwan-prime-time-drama",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "ar/Culture/taiwan-prime-time-drama.md"
-  },
-  {
     "title": "الموسيقى الإلكترونية وثقافة الحفلات في تايوان: من حفلات \"Rave\" السرية إلى الساحة الدولية",
     "description": "من ثقافة حفلات \"Rave\" في تسعينيات القرن العشرين إلى مهرجان \"Road to Ultra\" الإلكتروني، كيف انتقلت الموسيقى الإلكترونية في تايوان من السرية إلى التيار الرئيسي، وأنتجت دي جيهز عالميين وعلامات إلكترونية مستقلة",
     "category": "ar",
@@ -142925,6 +142985,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "ar/Culture/blue-white-slippers.md"
+  },
+  {
+    "title": "النقاش حول تايوان والطاقة النووية: بعد 589 ملاحظة مراجعة لمحطة ماغاو، لا يوجد معيار محدد للإجماع الاجتماعي",
+    "description": "في سبتمبر 2026، قدمت اللجنة الوطنية للأمن النووي 589 ملاحظة مراجعة وفقًا لإجراءات تجديد الترخيص بموجب قانون الرقابة على مرافق المفاعلات النووية، وذلك للموافقة على خطة إعادة تشغيل محطة ماغاو النووية التابعة لشركة تايبيه للطاقة الكهربائية. ومع ذلك، لم تحدد اللوائح القانونية ماهية الإجماع الاجتماعي فيما يتعلق بالشروط الثلاثة لإعادة التشغيل. وفي 28 نوفمبر، تم التصويت على القضية رقم 22 بالتزامن مع تسعة استفتاءات أخرى؛ حيث ذكرت مذكرة الحزب الكومنتانغ ضرورة تحويل ما يقرب من 80% من الرأي العام إلى سياسة، بينما قال الأمانة العامة للحزب التقدمي الديمقراطي إن الموافقة تعني إعادة التشغيل و\"القفز بسرعة كبيرة\"، في حين صرحت 34 مجموعة بأن الأمر لا ينبغي أن يُستخدم كتفويض سياسي لإعادة التشغيل.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-nuclear-debate",
+    "readingTime": 286,
+    "featured": false,
+    "date": "2026-06-07",
+    "path": "ar/Society/taiwan-nuclear-debate.md"
   },
   {
     "title": "الهوية الرقمية والحكومة الرقمية",
@@ -143098,23 +143169,6 @@
     "path": "ar/People/pa-chiung-political-youtuber.md"
   },
   {
-    "title": "باي بليد: خطة ترويجية لشركة ألعاب تحولت على مدى سبع وعشرين عاماً إلى رياضة تضم أكثر من ستمائة بطولة في جميع أنحاء تايوان",
-    "description": "في فجر 23 مايو 2026، اصطفت طوابير طويلة أمام بلازا هونغ هوي في سين تشوانغ، ولم يكن هؤلاء المنتظرون يتسابقون لشراء أحذية رياضية، بل كانوا بانتظار انطلاق بطولة باي بليد الوطنية، حيث يحصل الفائزون بالمراكز الثلاثة الأولى على أجهزة إطلاق مطلية بالذهب والفضة والبرونز. في عام 1999، أطلقت شركة الألعاب اليابانية \"تاكارا\" رسماً متحركاً يحمل الاسم نفسه لترويج البي بليد، والتلاميذ الذين شاهدوا النسخة المدبلجة التايوانية آنذاك أصبحوا اليوم بالغين يصطفون عند الفجر. لم تبقَ اللعبة مجرد لعب أطفال، بل نمت لتصبح رياضة تنافسية ذات حكام ونظام نقاط وجوائز مالية.",
-    "category": "ar",
-    "tags": [
-      "باي بليد",
-      "ألعاب",
-      "ذكريات الطفولة",
-      "رياضة تنافسية",
-      "اقتصاد الحنين"
-    ],
-    "url": "https://taiwan.md/ar/lifestyle/beyblade-in-taiwan",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "ar/Lifestyle/beyblade-in-taiwan.md"
-  },
-  {
     "title": "باي شيان يونغ: من \"أهل تايبيه\" 1971 إلى عشرين عاماً من جولات \"جناح الفاوانيا\" نسخة الشباب",
     "description": "وُلد عام 1937 في قويلين بمقاطعة قوانغشي، وهو ابن الجنرال باي تشونغ شي. التحق عام 1956 بقسم الآداب الأجنبية في جامعة تايوان الوطنية، وأسس مع وانغ ون شينغ وآخرين مجلة \"الأدب الحديث\". أصدر عام 1971 مجموعة \"أهل تايبيه\" المكوّنة من 14 قصة قصيرة، ثم رواية \"أبناء الخطيئة\" عام 1983. أطلق عام 2003 مشروع \"جناح الفاوانيا\" نسخة الشباب، وكان العرض الأول في نيسان/أبريل 2004، ثم حلّت الذكرى العشرون عام 2024. نال جائزة الدولة للفنون والآداب عام 2003.",
     "category": "ar",
@@ -143276,6 +143330,23 @@
     "featured": false,
     "date": "2026-05-04",
     "path": "ar/Nature/tawny-fish-owl.md"
+  },
+  {
+    "title": "بي بليد (Beyblade): من خطة ترويجية لشركة ألعاب إلى رياضة تضم 600 مسابقة في تايوان على مدار 27 عامًا",
+    "description": "في فجر 23 مايو 2026، اصطف الناس أمام ساحة هونغ هوي في شينجوانغ؛ لم يكن الأمر يتعلق بأحذية رياضية، بل بانتظار بطولة \"بي بليد\" الوطنية.",
+    "category": "ar",
+    "tags": [
+      "بي بليد",
+      "ألعاب",
+      "ذكريات الطفولة",
+      "رياضة تنافسية",
+      "اقتصاد الحنين"
+    ],
+    "url": "https://taiwan.md/ar/lifestyle/beyblade-in-taiwan",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "ar/Lifestyle/beyblade-in-taiwan.md"
   },
   {
     "title": "بيئة أحياء تجارية محيطة بمشاريع المناطق التكنولوجية في تايوان",
@@ -145014,6 +145085,17 @@
     "path": "ar/Geography/taiwan-coastal-landforms-and-seascapes.md"
   },
   {
+    "title": "تطبيق Threads في تايوان: من عبارة \"أنا آكل القليل\" إلى بطاقة الطالب المصرية، كيف تحولت جدارية التحديثات إلى سوق ليلي رقمي",
+    "description": "في نهاية عام 2025، تم تداول صورة لبطاقة طالب من جامعة تايوان عُثر عليها بالقرب من تمثال أبو الهول في مصر عبر تطبيق Threads للبحث عن صاحبها دولياً؛ وفي نفس الجدارية، تجذب صور الطعام التي ينشرها المسافرون من اليابان وكوريا تعليقات قطة تقول \"مرحباً، أنا آكل القليل\". إن منصة \"Tsui\" (Threads) في تايوان تجمع بين المنشورات العشوائية، والمساعدة المتبادلة، والميمز، والنقاشات العامة، مما يجعل الغرباء يجلسون لفترة وجيزة على نفس الطاولة، ثم يواصلون سرد القصص لترسل بعيداً.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/technology/threads-in-taiwan",
+    "readingTime": 441,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ar/Technology/threads-in-taiwan.md"
+  },
+  {
     "title": "تطور الأغنية التايوانية باللهجة التايوانية: من \"أغاني الأجداد\" إلى محبوبة المثقفين الشباب — انقلاب في الهوية",
     "description": "تتبع تطور الأغنية التايوانية باللهجة التايوانية من عصر الناكاشي، هونغ يي-فونغ، وجيانغ هوي إلى فرق الجيل الجديد مثل \"إيغبلانت إيغ\" و\"سوري يوث\"، واستكشاف كيف استعادت الموسيقى التايوانية اعتراف الجيل الشاب.",
     "category": "ar",
@@ -145370,17 +145452,6 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "ar/People/tieniu-jie-ge.md"
-  },
-  {
-    "title": "ثريذرز في تايوان: من «أنا آكل قليلاً» إلى بطاقة طلابية مصرية، كيف أصبحت جداراً ديناميكيًا سوقاً رقمياً ليلياً",
-    "description": "في نهاية عام 2025، بطاقة طلابية لطالب في جامعة تايبيه وُجدت قرب تمثال أبو الهول المصري، وتم تحويلها على منصة ثريذرز إلى بحث عابر للوطن؛ في نفس الجدار الديناميكي، صور الطعام التي يشاركها سياح من اليابان وكوريا تجذب الانتباه إلى قط عربية يقول «مرحباً، أنا آكل قليلاً». تجمع «تشيو» التايوانية بين المحتويات العشوائية، والمساعدة المتبادلة، والميمات، والمناقشات العامة، مما يجعل الغرباء يجلسون بين طاولة واحدة لفترة قصيرة، ثم ينقلون القصص بعيداً.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/technology/threads-in-taiwan",
-    "readingTime": 411,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ar/Technology/threads-in-taiwan.md"
   },
   {
     "title": "ثقافة \"غواي غواي\" في تايوان: كيف أصبحت الوجبة الخضراء حارسًا لصناعة التكنولوجيا",
@@ -148393,17 +148464,6 @@
     "path": "ar/People/hsiao-bi-khim.md"
   },
   {
-    "title": "شياو بيي للبيع بالتجزئة: ملك المتاجر المتنوعة في تايوان تحت أضواء الليل، ثلاثون عامًا من تحوّل كشك المأكولات البحرية إلى \"منقذ الآباء\"",
-    "description": "انطلقت شياو بيي من سوق شياو بيي الليلي في تاينان عام 1994، وبفضل استراتيجية \"التشغيل على مدار 24 ساعة\" و\"بيع ما لا يبيعه الآخرون\"، تحوّلت من متجر مأكولات بحرية على حافة الإفلاس إلى عملاق متاجر الأدوات المنزلية بأكثر من 190 فرعًا في جميع أنحاء تايوان. إنها ملاذ الآباء الليلي، ومحطة حنين للعمال المهاجرين، وأعجوبة البقاء الأقوى في قطاع التجزئة التايواني.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/lifestyle/xiaobei-department-store",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "ar/Lifestyle/xiaobei-department-store.md"
-  },
-  {
     "title": "شياو تشينغ يانغ",
     "description": "الفائز بجائزة غرامي لأفضل تصميم غلاف ألبوم، ترشح سبع مرات وتوج باللقب من خلال تعاون بين أب وابنته، ويمثل الشخصية الرمزية لصعود التصميم التايواني إلى المسرح العالمي",
     "category": "ar",
@@ -150870,6 +150930,17 @@
     "path": "ar/Economy/aama-taipei-cradle-program.md"
   },
   {
+    "title": "متاجر شياو باي (Xiaobei): ملك البقالة التايوانية تحت أضواء الليل، ثلاثون عامًا من مطاعم المأكولات البحرية إلى \"منقذ الآباء\"",
+    "description": "انطلقت متاجر شياو باي من سوق شياو باي الليلي في تانان عام 1994، وبفضل استراتيجية \"العمل على مدار 24 ساعة\" و\"بيع ما لا يبيعه الآخرون\"، تحولت من متجر مأكولات بحرية على وشك الإفلاس إلى رائد في قطاع الأدوات والمعدات بـأكثر من 190 فرعًا في تايوان. إنها المنقذ الليلي للآباء، ومحطة الحنين للعمال المهاجرين، وأعظم معجزة بقاء في قطاع التجزئة في تايوان.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/lifestyle/xiaobei-department-store",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ar/Lifestyle/xiaobei-department-store.md"
+  },
+  {
     "title": "متجر إسلايت للكتب: علامة بصرية للقراءة على مدار 24 ساعة وتطور الذاتية الثقافية في تايوان",
     "description": "متجر إسلايت للكتب ليس مجرد سلسلة كتب تمثيلية رائدة في تايوان، بل رمز أساسي للذاتية الثقافية والجماليات الحياة في تايوان المعاصر. بدءًا من عام 1989 عندما أسس وو تشينغ-يو أول متجر للكتب الإنسانية الفنية، نجح إسلايت من خلال نموذج \"تشغيل على مدار 24 ساعة\" في تحويل المتاجر الفعلية من مجرد أماكن تجارة إلى معالم مدنية ترويقية للروح. يتناول هذا المقال فلسفة التأسيس، وتأثير ثقافة القراءة في الوقت المنقضي، والنموذج التجاري المركب، وكيف يعيد هذا المركز الثقافي تعريف مستقبل القراءة من خلال التحول الرقمي الشامل. يوثق التفاصيل من متجر دون-نان إلى متجر شين-يي إلى متجر سونغ-يان، ويحلل مكانته الفريدة في الدبلوماسية الثقافية والصناعة الإبداعية.",
     "category": "ar",
@@ -151285,6 +151356,17 @@
     "path": "ar/Art/weiwuying-arts-center.md"
   },
   {
+    "title": "مرونة الشبكة الكهربائية: بعد انقطاع التيار، من يستطيع استعادة الحياة في المدينة أولاً؟",
+    "description": "كشفت انقطاعات التيار الكبرى في 15 أغسطس 2017 و3 مارس 2022 أن ضعف الشبكة في تايوان لا يكمن فقط في كمية التوليد، بل في العقد المركزية، وإجراءات التشغيل، ومعدات النقل والتوزيع، وقدرة المناطق المحلية على التعافي.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-grid-resilience",
+    "readingTime": 98,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ar/Society/taiwan-grid-resilience.md"
+  },
+  {
     "title": "مسرح الدمى بالقفاز: من حظر ساحـة المعبد إلى \"ثاندر بولت فانتسي: سيف الشرق\" - كون في راحة اليد",
     "description": "في 2 مارس 1970، أدى شخصية \"شيه يين وين\" التي قدمها هوانغ جون شيونغ إلى توقف المصانع في جميع أنحاء تايوان عن العمل وتغيب الطلاب عن المدارس، محققة نسبة مشاهدة بلغت 97%؛ وبعد أربع سنوات، حظرت الحكومة البث بذريعة \"إعاقة روتين العمل الطبيعي للفلاحين والعمال\". هذا الفن الذي في راحة اليد، والذي مر في تايوان بقمع سياسة التلمذة اليابانية، وحظر التلفزيون، وثورة أشرطة الفيديو، نجح أخيرًا في فتح سوق الأنيمي العالمية من خلال \"ثاندر بولت فانتسي: سيف الشرق\".",
     "category": "ar",
@@ -151344,6 +151426,17 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "ar/Art/taiwanese-theater-and-performing-arts.md"
+  },
+  {
+    "title": "مسلسلات الثامنة مساءً: عود ثقاب يشعل \"ثقافة الكلت\" والحنين في صالونات تايوان",
+    "description": "من الدراما العاطفية لـ \"تشيونغ ياو\" في التسعينيات إلى ميمات \"بيلي هو\" في الألفية، ليست مسلسلات الثامنة مساءً مجرد خلفية صوتية لتايوانيين، بل هي معجزة صناعية تُبث فور تصويرها بالتزامن مع الواقع.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/culture/taiwan-prime-time-drama",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ar/Culture/taiwan-prime-time-drama.md"
   },
   {
     "title": "مشروب «أبل سيدرا»: من مشروب وطني فقاعي إلى عاصفة رأسمالية، كيف وُلد طعم تايوان لستين عامًا من جديد",
@@ -152502,17 +152595,6 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "ar/Technology/hsuehshan-tunnel.md"
-  },
-  {
-    "title": "نقاش تايوان حول الطاقة النووية: كانت مكافحة الطاقة النووية لغة مشتركة للحركة الديمقراطية، لكن أزمة المناخ أعادت خلط أوراق كل طرف",
-    "description": "في أغسطس 2025، صوت 4.34 مليون شخص على موافقة لإعادة تشغيل محطة النووية الثالثة، ما شكّل 74 بالمئة من الأصوات، لكن بسبب نسبة الإقبال البالغة 29.53٪ التي لم تتجاوز الحد الأدنى المطلوب، تم اعتبار الاستفتاء فاشلاً. عبر ثلاث استفتاءات على مدى أربعين عاماً، انتقلت تايوان من إجماع مناهض للطاقة النووية إلى رؤية \"منزل خالٍ من الطاقة النووية\"، ثم في غضون ثلاثة أشهر دفعت بالمفاعل المُطفأ للتو نحو إعادة التشغيل. تجاوزت هذه النقاشات مستوى السؤال البسيط \"هل الطاقة النووية جيدة أم لا\"، لتصبح قضية كيف يقرر المجتمع مسألة تحكمها آليات زمنية متعارضة: النفايات النووية تحتاج إلى 100 ألف سنة من الاستقرار، وخفض الانبعاثات يجب أن يتحقق في عقد واحد، بينما نقص الكهرباء يحدث الآن.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/taiwan-nuclear-debate",
-    "readingTime": 179,
-    "featured": false,
-    "date": "2026-06-07",
-    "path": "ar/Society/taiwan-nuclear-debate.md"
   },
   {
     "title": "نقل حكومة الكومينتانغ إلى تايوان وإعادة الإعمار بعد الحرب",
@@ -153757,17 +153839,6 @@
     "path": "hi/History/823-artillery-bombardment.md"
   },
   {
-    "title": "आठ बजे का शो: एक बोतल पेट्रोल और एक माचिस, ताइवान के ड्राइंग रूम में कल्ट और पुरानी यादें जलाते हुए",
-    "description": "1990 के दशक की चिओंग याओ की दुखांत कहानियों से लेकर 2000 के दशक के पिली हुओ मीम तक, आठ बजे का शो न केवल ताइवान के लोगों का पारिवेशिक पृष्ठभूमि संगीत है, बल्कि वास्तविकता के साथ तालमेल बिठाने वाला \"आज शूट करो, कल प्रसारित करो\" का औद्योगिक चमत्कार भी है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/culture/taiwan-prime-time-drama",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "hi/Culture/taiwan-prime-time-drama.md"
-  },
-  {
     "title": "आठों धूल विस्फोट: वह रात, जब रंगीन पार्टी ने ताइवान के घाव जला दिए",
     "description": "27 जून 2015 को, आठों लेजर पार्क की रंगीन पार्टी में धूल के फ्लैश ज्वलन से अंतरराष्ट्रीय स्तर पर चौंकाने वाला धूल विस्फोट हुआ। 921 के बड़े भूकंप के बाद ताइवान के इतिहास में यह सबसे गंभीर सामूहिक हताहत घटना थी, जिसमें 499 लोग झुलसे और 15 की मौत हुई, इसने ताइवान की आपातकालीन चिकित्सा प्रणाली को पूरी तरह बदल दिया और बड़े आयोजनों के सुरक्षा नियमों में सुधार को बढ़ावा दिया।",
     "category": "hi",
@@ -154913,12 +154984,12 @@
     "path": "hi/Music/pop-music-and-golden-melody-awards.md"
   },
   {
-    "title": "ग्राम प्रमुख प्रणाली: 7,748 निर्वाचित मुखिया, ताइवान की सबसे बुनियादी राजनीतिक इकाई",
-    "description": "सुबह साढ़े पांच बजे का ग्राम कार्यालय, 45 हजार युआन मासिक प्रशासनिक भत्ता, और साठ प्रतिशत से अधिक के बिना पार्टी संबद्धता — ग्राम प्रमुख ताइवान में \"राजनीति\" जैसा दिखने वाला कम पद है, लेकिन यह ताइवान के लोकतंत्रीकरण का सबसे पूर्ण प्रमाण भी है। जापानी शासन के ''बोका'' प्रणाली से 1950 के प्रत्यक्ष चुनाव तक, ये 7,748 पद, जो 7-Eleven से भी अधिक हैं, आठ दशकों से स्थानीय संबंधों के प्रतिनिधि के रूप में कार्य कर रहे हैं।",
+    "title": "ग्राम/मोहल्ला प्रमुख प्रणाली: 7,748 निर्वाचित प्रमुख, ताइवान की सबसे जमीनी राजनीतिक इकाई",
+    "description": "भोर साढ़े पांच बजे का मोहल्ला कार्यालय, NT$54,000 मासिक प्रशासनिक अनुदान, 60% से अधिक निर्दलीय — ग्राम/मोहल्ला प्रमुख ताइवान के चुनावों में सबसे कम \"राजनीतिक\" लगने वाला राजनीतिक पद है, और यह ताइवान के लोकतंत्रीकरण का सबसे पूर्ण प्रमाण भी है। जापानी औपनिवेशिक बाओजिया प्रणाली से 1950 के प्रत्यक्ष चुनाव तक, पूरे ताइवान में 7,748 पद जो 7-Eleven से भी अधिक हैं, अस्सी वर्षों से स्थानीय संबंधों का प्रतिनिधित्व चला रहे हैं।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/politics/village-chief-system",
-    "readingTime": 109,
+    "readingTime": 120,
     "featured": false,
     "date": "2026-05-27",
     "path": "hi/Politics/village-chief-system.md"
@@ -154935,12 +155006,12 @@
     "path": "hi/Music/village-armed-youth.md"
   },
   {
-    "title": "ग्रिड लचीलापन: बिजली गुल होने के बाद कौन पहले शहर को बहाल कर सकता है?",
-    "description": "2017 में 15 अगस्त और 2022 में 3 मार्च की बड़ी बिजली कटौती ने ताइवान को यह दिखाया कि ग्रिड की कमजोरी केवल उत्पादन क्षमता में नहीं, बल्कि केंद्रीकृत नोड्स, संचालन प्रक्रियाओं, संचरण उपकरणों और स्थानीय बहाली क्षमताओं में भी है। जब बिजली चिकित्सा, परिवहन, संचार और उद्योग का साझा आधार बन जाती है, तो लचीलापन केवल Taipower (ताइवान पावर) की इंजीनियरिंग समस्या नहीं रह जाता, बल्कि यह इस बात पर निर्भर करता है कि बिजली चले जाने के बाद पूरा शहर कैसे फिर से शुरू होता है।",
+    "title": "ग्रिड लचीलापन: बिजली कटौती के बाद, शहर को कौन पहले बहाल कर सकता है",
+    "description": "2017 के 815 और 2022 के 303 बड़े ब्लैकआउट ने ताइवान को दिखाया कि ग्रिड की असली कमजोरी न केवल उत्पादन क्षमता में है, बल्कि केंद्रीकृत नोड्स, संचालन प्रक्रियाओं, पारेषण-वितरण उपकरण और स्थानीय पुनर्प्राप्ति क्षमता में है। जब बिजली चिकित्सा, परिवहन, संचार और उद्योग का साझा आधार बन जाती है, तो लचीलापन केवल ताइपावर का इंजीनियरिंग मुद्दा नहीं रह जाता, बल्कि यह सवाल बन जाता है कि पूरा शहर बिजली खोने के बाद कैसे फिर से शुरू होता है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/taiwan-grid-resilience",
-    "readingTime": 109,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-08-15",
     "path": "hi/Society/taiwan-grid-resilience.md"
@@ -155584,17 +155655,6 @@
     "path": "hi/People/chen-chien-jen.md"
   },
   {
-    "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
-    "description": "18 अगस्त 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का नवागत ओरिएंटेशन शुरू हुआ। जे.डी. की पढ़ाई की तैयारी कर रहे चेन चिह-चुंग वहाँ नहीं पहुँचे, और उसी दिन उनकी दाख़िला योग्यता समाप्त हो गई। इसके बाद काऊशुंग के छ्येनचन–श्याओकांग क्षेत्र ने उन्हें तीन बार नगर परिषद के लिए चुना, जिनमें से दो बार उनका कार्यकाल फ़ैसला अंतिम होने के उसी क्षण ख़त्म हो गया — बीच में उन्होंने 272 दिन जेल में काटे। अप्रैल 2023 में अंतिम हुए फ़ैसले के मुख्य पाठ में नागरिक अधिकार वंचना नहीं थी। एक महीने बाद तीसरे वाचन से पारित चुनाव-वापसी क़ानून के \"काला धन विरोधी खंड\" ने उन्हें दोबारा उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/chen-chih-chung",
-    "readingTime": 213,
-    "featured": false,
-    "date": "2026-08-18",
-    "path": "hi/People/chen-chih-chung.md"
-  },
-  {
     "title": "चेन चुन-लियांग: डिज़ाइन कवि और पूर्वी सौंदर्यशास्त्र के आधुनिक अनुवादक",
     "description": "चेन चुन-लियांग का जन्म 1958 में ताइनान में हुआ, 29 वर्ष की आयु में उन्होंने \"फ्रीइमेज डिज़ाइन\" (Freeimage Design) की स्थापना की, और उद्योग द्वारा उन्हें \"डिज़ाइन कवि\" की उपाधि दी गई। उन्होंने सुलेख, नकारात्मक स्थान और पूर्वी कल्पना के साथ आधुनिक डिज़ाइन भाषा की पुनर्व्याख्या की, उनके कार्य प्रकाशन डिज़ाइन, कॉर्पोरेट पहचान और राष्ट्रीय समारोहों तक फैले हुए हैं। 2005 में \"टियान युआन दी फांग\" राजकीय भोज के बर्तनों ने मकाऊ डिज़ाइन द्विवार्षिक प्रदर्शनी का जूरी ग्रैंड पुरस्कार जीता। लंबे समय से डिज़ाइन शिक्षा में लगे हुए, वे 1980 के दशक के बाद ताइवान के सबसे प्रभावशाली ग्राफिक डिजाइनरों में से एक हैं।",
     "category": "hi",
@@ -155648,6 +155708,17 @@
     "featured": false,
     "date": "2026-05-17",
     "path": "hi/People/chen-chien-nien.md"
+  },
+  {
+    "title": "चेन झी-झोंग: तीन बार काऊशुंग सिटी काउंसिल के लिए चुने गए, लेकिन दो कार्यकाल कानूनी प्रावधानों के कारण समाप्त हो गए",
+    "description": "18 अगस्त, 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का ओरिएंटेशन शुरू हुआ, लेकिन जे.डी. की पढ़ाई की तैयारी कर रहे चेन झी-झोंग वहां नहीं पहुंचे, और प्रवेश के दिन ही उनकी पात्रता समाप्त हो गई। इसके बाद, काऊशुंग के कियानझेन और शियाओगांग क्षेत्रों ने उन्हें तीन बार सिटी काउंसिल के लिए चुना, जिनमें से दो कार्यकाल निर्णय पक्के होते ही समाप्त हो गए; इस बीच उन्होंने 272 दिनों की सजा काटी। अप्रैल 2023 में अंतिम रूप से तय हुए फैसले के मुख्य भाग में नागरिक अधिकारों से वंचित करने का प्रावधान नहीं था। हालांकि, एक महीने बाद चुनावी कानून में पारित 'ब्लैकलिस्ट क्लॉज' (exclusion clause) ने उन्हें फिर से उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/chen-chih-chung",
+    "readingTime": 226,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "hi/People/chen-chih-chung.md"
   },
   {
     "title": "चेन त्ज़ु-चिएन (रेटिना) — सरकारी मीडिया के खंडहरों पर व्यंग्य की इमारत खड़ी की, और चरम पर पहुँचकर उसे अपने हाथों ढहा दिया",
@@ -159627,7 +159698,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/history/taiwan-elections-and-party-politics",
-    "readingTime": 119,
+    "readingTime": 131,
     "featured": false,
     "date": "2026-03-20",
     "path": "hi/History/taiwan-elections-and-party-politics.md"
@@ -162029,6 +162100,17 @@
     "path": "hi/Art/first-image-creative.md"
   },
   {
+    "title": "प्राइमटाइम ड्रामा: एक लाइटर ने कैसे ताइवान के लिविंग रूम में 'कल्ट' और पुरानी यादों को जन्म दिया",
+    "description": "1990 के दशक के मेलोड्रामा से लेकर 2000 के दशक के मीम्स तक, प्राइमटाइम ड्रामा केवल ताइवान की पृष्ठभूमि की आवाज़ नहीं है, बल्कि वास्तविकता के साथ तालमेल बिठाने वाला एक औद्योगिक चमत्कार है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/culture/taiwan-prime-time-drama",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "hi/Culture/taiwan-prime-time-drama.md"
+  },
+  {
     "title": "प्लर्क (Plurk)",
     "description": "2008 में लॉन्च किया गया माइक्रोब्लॉगिंग प्लेटफॉर्म प्लर्क, अपने क्षैतिज स्क्रॉलिंग \"रिवर\" टाइमलाइन और शून्य-अल्गोरिदम फीड के साथ, उस दशक में जीवित रहा जब फेसबुक और ट्विटर विश्व स्तर पर हावी थे। 2016 में Google विज्ञापन नेटवर्क द्वारा प्रतिबंधित किए जाने के बाद, यह \"प्लर्क कॉइन\" पेड सदस्यता मॉडल के माध्यम से लाभदायक हो गया—ताइवान के उपयोगकर्ताओं ने न्यू ताइवान डॉलर से मतदान किया, जिससे यह अल्गोरिदम-मुक्त नदी बहती रही।",
     "category": "hi",
@@ -162373,6 +162455,17 @@
     "featured": false,
     "date": "2026-07-27",
     "path": "hi/Society/benzopyrene-food-safety-incident.md"
+  },
+  {
+    "title": "बेब्लेड (Beyblade): एक खिलौना निर्माता की प्रमोशनल योजना, जो 27 वर्षों में पूरे ताइवान में 600 प्रतियोगिताओं वाले खेल में बदल गई",
+    "description": "23 मई, 2026 की सुबह, शिनझुआंग होंगहुई प्लाजा के बाहर लोगों की लंबी कतारें लगी थीं; ये लोग जूते खरीदने नहीं, बल्कि बेब्लेड नेशनल चैंपियनशिप का इंतज़ार कर रहे थे।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/lifestyle/beyblade-in-taiwan",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "hi/Lifestyle/beyblade-in-taiwan.md"
   },
   {
     "title": "बेलिंगुओ न्यूज़: विश्व समाचार को ताइवानी लोगों के ईयरफ़ोन में डालना",
@@ -163279,17 +163372,6 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "hi/Art/postwar-taiwanese-literature.md"
-  },
-  {
-    "title": "युद्ध टॉप: एक खिलौना निर्माता की प्रचार योजना, सत्ताईस साल में पूरे ताइवान में छह सौ प्रतियोगिताओं वाला खेल बन गई",
-    "description": "23 मई 2026 की भोर में, सिंझुआंग होंगहुई प्लाजा के बाहर पहले से ही कतार लगी थी, ये कतार में लगे लोग जूतों की बिक्री के लिए नहीं, बल्कि एक युद्ध टॉप राष्ट्रीय टूर्नामेंट के शुरू होने का इंतजार कर रहे थे, शीर्ष तीन को सोने, चांदी और कांस्य रंग के लॉन्चर मिल सकते थे। 1999 में जापानी खिलौना कंपनी ताकारा ने टॉप बेचने के लिए इसी नाम का एनिमेशन लॉन्च किया, उस साल ताइवानी डब संस्करण देखने वाले प्राथमिक छात्र, आज भोर में कतार लगाने वाले वयस्क हैं। एक खिलौना बड़ा नहीं हुआ, बल्कि यह रेफरी, अंक और पुरस्कार राशि वाला प्रतिस्पर्धी खेल बन गया।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/lifestyle/beyblade-in-taiwan",
-    "readingTime": 59,
-    "featured": false,
-    "date": "2026-08-19",
-    "path": "hi/Lifestyle/beyblade-in-taiwan.md"
   },
   {
     "title": "युद्धोत्तर ताइवान की आधुनिकतावादी वास्तुकला की छवियाँ: 1967 के पुरस्कार विजेता सूची से शुरुआत करते हुए",
@@ -165025,17 +165107,6 @@
     "path": "hi/People/shi-lang-admiral.md"
   },
   {
-    "title": "शिआओ बेई डिपार्टमेंट स्टोर: देर रात की रोशनी में ताइवान का जनरल स्टोर किंग, सीफूड स्टॉल से \"पेरेंट्स सेवियर\" तक के तीस साल",
-    "description": "1994 में ताइनान के शिआओ बेई नाइट मार्केट से शुरुआत करते हुए, शिआओ बेई डिपार्टमेंट स्टोर ने \"24 घंटे संचालन\" और \"वो सामान बेचना जो दूसरे नहीं बेचते\" की रणनीति के दम पर, एक दिवालिया होने की कगार पर सीफूड स्टोर से पूरे ताइवान में 190 से अधिक आउटलेट्स वाले हार्डवेयर लीडर में बदल गया। यह माता-पिता का देर रात का सहारा है, प्रवासी श्रमिकों के लिए पुरानी यादों का सप्लाई स्टेशन, और ताइवान के रिटेल उद्योग का सबसे ज़िद्दी अस्तित्व का चमत्कार।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/lifestyle/xiaobei-department-store",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "hi/Lifestyle/xiaobei-department-store.md"
-  },
-  {
     "title": "शिओ बि-खिम",
     "description": "जापान में जन्म, ताइनान प्राथमिक विद्यालय, न्यू जर्सी में पली-बढ़ी, ओबेरलिन से स्नातक \"योद्धा बिल्ली\", कैसे बनी ताइवान के इतिहास में सबसे सफल अमेरिका प्रतिनिधि, फिर उपराष्ट्रपति बनीं?",
     "category": "hi",
@@ -165174,12 +165245,12 @@
     "path": "hi/Geography/shilin.md"
   },
   {
-    "title": "शुलिन का लाल खमीर चावल: शराब कारखाना चला गया, लेकिन कवक अभी भी सॉसेज में मौजूद है",
-    "description": "शुलिन कभी पूरे ताइवान का एकमात्र लाल खमीर चावल निर्माण कारखाना था, होंग लू जिउ (लाल ओस शराब) का जन्मस्थान। 2004 में कारखाना इतिहास बन गया, मूल स्थल एक टेक पार्क बन गया, लेकिन लाल खमीर चावल सॉसेज, सॉस और सांस्कृतिक उत्सव के रूप में शुलिन की सड़कों पर किण्वन जारी रखता है।",
+    "title": "शुइलिन रेड यीस्ट: शराब कारखाना चला गया, लेकिन बैक्टीरिया सॉसेज में रह गए",
+    "description": "शुइलिन कभी पूरे ताइवान का एकमात्र रेड यीस्ट (होंगकु) निर्माण कारखाना और 'होंगलू' शराब का घर था। 2004 में कारखाना इतिहास बन गया, लेकिन रेड यीस्ट आज भी सॉसेज, सॉस और सांस्कृतिक उत्सवों के रूप में शुइलिन की गलियों में जीवित है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/food/shulin-red-yeast-rice",
-    "readingTime": 104,
+    "readingTime": 112,
     "featured": false,
     "date": "2026-08-11",
     "path": "hi/Food/shulin-red-yeast-rice.md"
@@ -165344,6 +165415,17 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "hi/People/ricky-hsiao-singer.md"
+  },
+  {
+    "title": "श्याओबेई डिपार्टमेंटल स्टोर: देर रात जलती रोशनी में ताइवान का किराना किंग, सीफूड स्टाल से 'अभिभावकों के रक्षक' बनने तक के तीस साल",
+    "description": "1994 में ताइनान के श्याओबेई नाइट मार्केट से शुरू हुआ, श्याओबेई डिपार्टमेंटल स्टोर ने \"24 घंटे संचालन\" और \"वह सामान बेचना जो दूसरे नहीं बेचते\" की रणनीति के साथ एक बंद होने की कगार पर खड़ी सीफूड दुकान से पूरे ताइवान में 190 से अधिक स्टोर वाला हार्डवेयर दिग्गज बनने तक का सफर तय किया। यह अभिभावकों के लिए देर रात का रक्षक है, प्रवासी श्रमिकों के लिए घर की याद मिटाने वाला केंद्र है, और ताइवान के खुदरा क्षेत्र का सबसे लचीला चमत्कार है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/lifestyle/xiaobei-department-store",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "hi/Lifestyle/xiaobei-department-store.md"
   },
   {
     "title": "श्यू चियाओ-शिन: ब्रेकफास्ट शॉप की बेटी से \"800 अरब के सैन्य खरीद\" वाली विधायक तक का ''ट्रैफिक'' युवाओं की ओर",
@@ -167390,6 +167472,17 @@
     "path": "ko/Society/military-service-in-taiwan.md"
   },
   {
+    "title": "금마장: 국어 영화만 받던 것에서 국적을 불문하는 것으로, 자국 영화가 자주 패해도 문을 닫지 않다",
+    "description": "1963년, 양산보 역을 여장한 홍콩 배우 링보가 타이베이에서 수상하러 왔는데, 심사위원들이 남우주연상을 줄지 여우주연상을 줄지 결정하지 못해 특별상을 신설했다. 이 상은 1962년 국어 영화만 출품받고 '국책에 협조'해야 했던 상이었는데, 이후 매 회마다 출품 자격을 완화하여 1996년 중국 본토 영화를 포함시켰고, 2007년부터는 중국어를 주된 언어로 하지 않는 영화도 출품할 수 있게 되었다. 대만 영화가 이로 인해 자국에서 최우수 작품상을 자주 놓치지만, 문을 다시 닫지 않았다. 제63회 수상자가 11월 22일 발표된다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/art/golden-horse-awards",
+    "readingTime": 120,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "ko/Art/golden-horse-awards.md"
+  },
+  {
     "title": "금문 고량주: 전선 보급품이 어떻게 지역의 공동 기억이 되었는가",
     "description": "1952년 후련이 전선 금문에서 주조를 설립해 내한성 고량으로 미주와 술을 대체했고, 1977년 대만 판매 정책으로 시장이 열렸으며, 1992년 전선 정무 종료 후 군사 공급품은 현정부의 재원이자 금문인의 일상이 되었다. 이 술의 역사는 맛뿐만 아니라 지역이 전선이 남긴 제도를 어떻게 자신의 일상으로 재해석해 마시는지에 관한 것이다.",
     "category": "ko",
@@ -169310,6 +169403,17 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "ko/Technology/taiwan-ai-in-daily-life.md"
+  },
+  {
+    "title": "대만의 Threads: '나 조금 먹을게'부터 이집트 학생증까지, 하나의 타임라인이 어떻게 디지털 야시장이 되었나",
+    "description": "2025년 말, 이집트 스핑크스 근처에서 발견된 대만대학교 학생증 한 장이 Threads를 통해 국제적인 찾기 캠페인으로 번졌습니다. 같은 타임라인 안에서는 일본과 한국 여행객의 음식 사진에 '안녕, 나 조금 먹을게'라고 말하는 고양이 밈이 등장하기도 합니다. 대만의 '츠이(脆)' 문화는 쓸데없는 글, 상부상조, 밈, 그리고 공공 토론을 한데 뒤섞어, 낯선 이들이 잠시 같은 테이블에 앉아 이야기를 이어가며 멀리까지 전달하게 만듭니다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/threads-in-taiwan",
+    "readingTime": 259,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ko/Technology/threads-in-taiwan.md"
   },
   {
     "title": "대만의 TikTok: 15초의 즐거움과 보이지 않는 인지전",
@@ -171867,19 +171971,19 @@
     "path": "ko/Food/flying-fish-tao-people.md"
   },
   {
-    "title": "빈랑: 신성한 열매에서 발암물질까지, 열매 하나에 담긴 계급과 토지의 축소판",
-    "description": "1976년 난터우 차오툰의 빈랑 판매점에서 '빈랑 시시(檳榔西施)' 시대가 열렸다. 원주민의 신성한 제물이자 한인들의 '세장단(洗瘴丹)'이었던 이 초록색 열매는, 오늘날 건강과 환경 논란 속에 타이완 사회의 계급과 토지 갈등을 보여주는 축소판이 되었다.",
+    "title": "빈랑: 신성한 열매에서 발암물질로, 한 알의 열매 속에 담긴 계급과 토지의 축소판",
+    "description": "1976년, 난터우 차오툰의 빈랑 노점이 '빈랑 시시(檳榔西施)'의 시대를 열었다. 한때 원주민의 신성한 제물이자 한인의 '세장단(洗瘴丹)'이었던 이 초록 열매는, 오늘날 건강 및 환경 논란으로 인해 타이완 사회의 계급과 토지 모순의 축소판이 되었다.",
     "category": "ko",
     "tags": [
       "빈랑",
       "빈랑 시시",
-      "원주 임 문화",
+      "원주민 문화",
       "건강 위해",
       "환경 이슈",
       "결빙수"
     ],
     "url": "https://taiwan.md/ko/society/betel-nut",
-    "readingTime": 19,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-07-25",
     "path": "ko/Society/betel-nut.md"
@@ -172138,8 +172242,8 @@
     "path": "ko/People/hsiao-bi-khim.md"
   },
   {
-    "title": "샤오베이 백화점: 심야의 불빛 아래 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지 30년",
-    "description": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매'라는 전략을 통해, 폐업 위기의 해산물 가게에서 전국 100여 개 매장을 보유한 철물 유통의 선두주자로 성장했다. 학부모에게는 심야의 구세주이자, 이주 노동자에게는 고향의 향수를 달래주는 보급소이며, 타이완 소매업계에서 가장 끈질긴 생존 신화로 불린다.",
+    "title": "샤오베이 백화점: 심야의 불빛 속 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지의 30년",
+    "description": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매' 전략을 통해 폐업 위기의 해산물 가게에서 전국 190개 이상의 매장을 보유한 철물 유통의 선두주자로 거듭났다. 이곳은 학부모들에게는 심야의 구세주이며, 이주 노동자들에게는 고향의 향수를 달래주는 보급소이자 타이완 소매업계의 가장 강인한 생존 신화이다.",
     "category": "ko",
     "tags": [
       "소매업",
@@ -172568,25 +172672,6 @@
     "path": "ko/Society/shuidaotou-waterworks.md"
   },
   {
-    "title": "수린 홍곡: 양조장은 사라졌지만, 균은 소시지 속에 살아남았다",
-    "description": "수린은 과거 대만 유일의 홍곡 양조장 본고장이자 홍노주의 고향이었다. 2004년 양조장이 역사 속으로 사라졌으나, 홍곡은 소시지, 양념, 문화제 형태로 수린의 거리에서 여전히 발효되고 있다.",
-    "category": "ko",
-    "tags": [
-      "홍곡",
-      "수린",
-      "홍노주",
-      "발효",
-      "신베이시",
-      "지역 특산품",
-      "문화제"
-    ],
-    "url": "https://taiwan.md/ko/food/shulin-red-yeast-rice",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-08-11",
-    "path": "ko/Food/shulin-red-yeast-rice.md"
-  },
-  {
     "title": "수정창: 미리섬 변호사에서 「총총총」의 전구체 거까지",
     "description": "1979년, 그는 계엄의 그림자 아래에서 정치범을 변호했다. 1997년, 그는 루슈이(盧修一)의 「경천일퇴(驚天一跪)」에 힘입어 역전 승리를 거두었다. 수정창은 「총총총」의 실행력으로 핑둥(屏東), 타이베이현(台北縣)과 행정원을 종횡하며, 아프리카 돼지열병 차반에서 「반반유냉기(班班有冷氣)」까지, 논란 속에서 강경한 리더십을 보여주며 타이완 민주 전환기에 가장 대표적인 「전화구(電火球)」가 되었다.",
     "category": "ko",
@@ -172624,6 +172709,25 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "ko/Art/tehching-hsieh-performance-artist.md"
+  },
+  {
+    "title": "슈린 홍국: 양조장은 떠났지만, 균은 소시지 속에 남아 있다",
+    "description": "슈린은 한때 타이완 유일의 홍국 제조 공장이자 홍로주의 고향이었다. 2004년 양조장은 역사의 뒤안길로 사라지고 그 자리는 과학기술단지가 되었으나, 홍국은 소시지, 장류, 문화제의 형태로 슈린의 거리에서 계속 발효되고 있다.",
+    "category": "ko",
+    "tags": [
+      "홍국",
+      "슈린",
+      "홍로주",
+      "발효",
+      "신베이시",
+      "지역 특산물",
+      "문화제"
+    ],
+    "url": "https://taiwan.md/ko/food/shulin-red-yeast-rice",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-08-11",
+    "path": "ko/Food/shulin-red-yeast-rice.md"
   },
   {
     "title": "스린: 케타갈란족의 땅, 장저우·취안저우 무력 충돌의 사원, 그리고 지금은 매일 밤 타이베이에서 가장 붐비는 야시장",
@@ -175347,12 +175451,18 @@
     "path": "ko/People/hebe-tien-singer.md"
   },
   {
-    "title": "전투 베이블레이드: 장난감 회사의 판촉 기획에서 27년 만에 전국 600개 대회로 성장한 스포츠",
-    "description": "2026년 5월 23일 새벽, 신좡 훙후이 광장 밖에는 신발 시장이 아닌 전투 베이블레이드 전국 대회의 시작을 기다리는 긴 줄이 서 있었다. 상위 3위에게는 금·은·동색 발사기가 수여된다. 1999년 일본 장난감 회사 타카라가 베이블레이드 판매를 위해 제작한 동명 애니메이션을 보던 당시 초등학생들은 이제 새벽에 줄을 서는 성인이 되었다. 장난감은 커지지 않았고, 심판과 점수, 상금이 있는 경쟁 스포츠로 성장했다.",
+    "title": "전투 팽이: 한 장난감 제조사의 판촉 기획이 27년 만에 전국 600여 개 대회로 성장한 스포츠가 되기까지",
+    "description": "2026년 5월 23일 새벽, 신장 훙후이 광장 밖에 인파가 줄을 섰는데, 이들은 한정판 운동화를 사려는 것이 아니라 전투 팽이 전국 대회를 기다리는 사람들이었다. 1999년 일본 완구 회사 타카라가 팽이를 팔기 위해 동명의 애니메이션을 내놓았고, 당시 대만 더빙판을 본 초등학생들이 이제는 새벽 줄을 서는 어른이 되었다. 한 장난감이 '철들면 그만두는 것'이 아니라 심판과 점수, 상금이 있는 경기 스포츠로 자라난 이야기다.",
     "category": "ko",
-    "tags": [],
+    "tags": [
+      "전투 팽이",
+      "장난감",
+      "어린 시절 추억",
+      "경기 스포츠",
+      "향수 경제"
+    ],
     "url": "https://taiwan.md/ko/lifestyle/beyblade-in-taiwan",
-    "readingTime": 34,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-08-19",
     "path": "ko/Lifestyle/beyblade-in-taiwan.md"
@@ -175976,6 +176086,24 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ko/Geography/roc-aesthetics.md"
+  },
+  {
+    "title": "중화직봉: 37년, 한 리그는 두 번이나 죽을 뻔했다가 다시 살아났다",
+    "description": "1989년 10월 23일, 네 기업이 형제대호텔에서 중화직업야구연맹(CPBL) 설립을 발표했고, 이듬해 3월 17일 개막했다. 37년간 두 차례 해체 위기를 맞았다: 1996년 블랙 이글스 사건 발발 후, 시보 이글스·산상 타이거스·웨이취안 드래곤스가 잇달아 철수했으며, 2008년 블랙 라이스 사건 후 중신 웨일스가 해체되고, 이듬해 다시 블랙 엘리펀트 사건이 터졌다. 이를 극복한 후, 타이베이 돔 덕분에 단일 경기 관중이 4만 명에 달했고, 2025년 정규리그 평균 관중이 사상 처음 1만 명을 돌파했다.",
+    "category": "ko",
+    "tags": [
+      "중화직봉",
+      "CPBL",
+      "야구",
+      "대만 시리즈",
+      "대형 돔",
+      "승부조작 사건"
+    ],
+    "url": "https://taiwan.md/ko/culture/chinese-professional-baseball-league",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-11-02",
+    "path": "ko/Culture/chinese-professional-baseball-league.md"
   },
   {
     "title": "즈쥐창(植劇場): 노트북을 만드는 사람이 대만 드라마 부흥의 씨앗을 심다",
@@ -176651,6 +176779,17 @@
     "path": "ko/People/chen-chun-liang-design-poet.md"
   },
   {
+    "title": "천즈중: 세 차례 가오슝 시의원에 당선, 두 차례 임기가 법조문 속에서 끝나다",
+    "description": "2008년 8월 18일 버지니아 대학교 로스쿨 신입생 연수가 시작되었으나, J.D. 과정을 앞둔 천즈중은 불참해 당일 입학 자격을 상실했다. 이후 가오슝 첸전샤오강에서 그를 세 차례 시의원으로 뽑았으나, 두 차례 임기는 판결 확정과 동시에 끝났고, 그 사이 272일간 수감됐다. 2023년 4월 확정판결 주문에는 공권 박탈이 없었으나, 한 달 뒤 공직선거법 개정으로 신설된 '배흑조항'이 그의 후보자 등록을 막았다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/chen-chih-chung",
+    "readingTime": 102,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "ko/People/chen-chih-chung.md"
+  },
+  {
     "title": "천천 진식중: '매우 잘 먹는다'는 것을 하나의 대만적 맛으로 만들다",
     "description": "그녀는 먼저 큰 식량으로 주목을 받았으나, 이후 그 트래픽을 음식, 시청자, 그리고 대만의 맛에 대한 책임감 있는 콘텐츠와 브랜드로 전환했다.",
     "category": "ko",
@@ -176683,17 +176822,6 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "ko/People/chen-cheng-po.md"
-  },
-  {
-    "title": "천치중: 세 번 시의회에 당선되었으나 두 번의 임기는 법적 판결로 끝났다",
-    "description": "2008년 8월 18일, 버지니아 대학교 로스쿨 신입생 교육이 시작되었을 때 J.D.를 준비하던 천치중은 나타나지 않았고 입학 자격은 당일에 소멸되었다. 이후 가오슝 전진 샤오강에서 세 번 시의회에 당선되었는데, 그중 두 번의 임기는 판결이 확정되는 순간 종료되었다. 그는 그 사이에 272일 동안 복역했다. 2023년 4월 확정된 판결문에는 공직 박탈 조항이 없었지만, 한 달 후 본회의에서 통과된 선거법의 '블랙리스트' 조항 때문에 그는 더 이상 후보로 등록할 수 없게 되었다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/people/chen-chih-chung",
-    "readingTime": 108,
-    "featured": false,
-    "date": "2026-08-18",
-    "path": "ko/People/chen-chih-chung.md"
   },
   {
     "title": "천하잡지: 타이완의 \"성공\"을 사십 년간 순위 매긴 곳, 자본에 가장 가까운 자리에서",
@@ -177686,7 +177814,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/art/taiwan-new-media-art",
-    "readingTime": 50,
+    "readingTime": 51,
     "featured": true,
     "date": "2026-03-28",
     "path": "ko/Art/taiwan-new-media-art.md"
@@ -179606,24 +179734,6 @@
     "path": "ko/Economy/circular-economy-and-resource-recycling.md"
   },
   {
-    "title": "타이완의 스레드: '나 조금 먹을게'에서 이집트 학생증까지, 하나의 동적 벽이 디지털 야시장이 되다",
-    "description": "2025년 말, 이집트 상징물 근처에서 발견된 대학교 학생증이 스레드상에서 국제적인 수색 요청으로 바뀌었습니다. 같은 동적 벽에는 일본과 한국 여행객들의 음식 사진들이 '안녕, 나 조금 먹을게' 고양이를 불러 모았습니다. 타이완의 '빠름(취약함)'은 폐기물 글, 상호 지원, 밈, 공론화를 한데 섞어 낯선 사람들이 잠시 같은 식탁에 앉게 하고, 그 이야기를 멀리까지 이어가게 합니다.",
-    "category": "ko",
-    "tags": [
-      "소셜 미디어",
-      "디지털 문화",
-      "스레드",
-      "밈",
-      "온라인 도움",
-      "청년 문화"
-    ],
-    "url": "https://taiwan.md/ko/technology/threads-in-taiwan",
-    "readingTime": 252,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ko/Technology/threads-in-taiwan.md"
-  },
-  {
     "title": "타이완의 스쿠터 문화",
     "description": "세계에서 스쿠터 밀도가 가장 높은 국가가 스쿠터를 좋아해서가 아니라, 다른 선택지가 없기 때문이다. 이제 이곳은 뜻밖에도 전 세계 전기 이륜차의 실험장이 되었다.",
     "category": "ko",
@@ -180121,12 +180231,12 @@
     "path": "ko/Society/typhoon-day.md"
   },
   {
-    "title": "텅스텐: 대만에는 텅스텐 광산이 없으나 전 세계가 요구하는 분말을 정제해 내며, 그 위치는 생각보다 취약하다",
-    "description": "2026년 7월 1일, 전 세계 6불화텅스텐(WF6) 생산 능력의 약 4분의 1을 차지하는 일본 공장 두 곳이 영구 가동을 중단했다. 그 시작점은 8개월 전인 2025년 11월, 일본 총리가 국회 답변에서 대만을 언급한 한 문장에서 비롯되었다. 대만은 텅스텐을 생산하지 않지만, 60년 전 폐금속 시대에 연마된 정제 기술을 바탕으로 칩과 칼날 모두 피할 수 없는 이 공급망에 편입되었다. 기술은 실재하지만, 원료, 시장, 용도는 대만이 독단적으로 결정할 수 있는 것이 아니다.",
+    "title": "텅스텐: 대만은 텅스텐 광산이 없으나, 전 세계가 필요로 하는 분말을 생산해낸다. 그 입지는 상상보다 훨씬 취약하다.",
+    "description": "2026년 7월 1일, 전 세계 약 4분의 1의 육불화텅스텐 생산 능력을 가진 두 일본 공장이 영구적으로 가동을 중단했다. 그 발단은 8개월 전 대만 관련 국회 답변 한 마디였다. 대만은 텅스텐을 생산하지 않지만, 60년 전 고철 시대에 익힌 제련 기술로 반도체와 칼날 모두 피할 수 없는 그 단계를 맡게 되었다. 기술은 진짜지만, 원료·시장·용도 중 어느 하나도 대만이 일방적으로 결정할 수 있는 것은 아니다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/technology/taiwan-tungsten-supply-chain",
-    "readingTime": 80,
+    "readingTime": 78,
     "featured": false,
     "date": "2026-07-26",
     "path": "ko/Technology/taiwan-tungsten-supply-chain.md"
@@ -181577,23 +181687,6 @@
     "path": "ja/People/kuedumeng.md"
   },
   {
-    "title": "クロガササギ（黒冠麻鷺）：バードウォッチャーの夢幻の種、キャンパスの「大笨鳥（だいべんちょう）」",
-    "description": "1985年から1992年にかけての中華民国野鳥学会の約4,000件の鳥類記録において、クロガササギはわずか25件しか占めず、図鑑上では「稀有留鳥（きゆうりゅうちょう）」とされていた。しかし30年後には、台大の椰林大道や大安森林公園で毎日見られる存在となっている。一般的な説明は「人を恐れなくなった」というものだが、台大の袁孝維（えん・こうい／ユエン・シャオウェイ）氏が2010年から行っている標識放鳥（ひょうしょくほうちょう）研究は別の答えを示している：台湾の都市における密林化したキャンパスと農薬を撒かない芝生が、本来の低標高森林の生息地をたまたま複製していたのだ——鳥は変わっていない、土地が変わったのだ。",
-    "category": "ja",
-    "tags": [
-      "台湾の生態",
-      "都市の鳥類",
-      "クロガササギ",
-      "大笨鳥",
-      "市民科学"
-    ],
-    "url": "https://taiwan.md/ja/nature/malayan-night-heron",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-04-30",
-    "path": "ja/Nature/malayan-night-heron.md"
-  },
-  {
     "title": "クロツラヘラサギ：300羽から7000羽へ、この国境を越えた復元の奇跡が「成功の代償」に直面する",
     "description": "2026年の世界一斉調査でクロツラヘラサギは7,746羽に達し、台湾では4,719羽の過去最高を記録した。「黒顔の踊り子」たちは2025年に保全等級が引き下げられたが、越冬地・台湾では光電開発、ボツリヌス菌、野良犬の攻撃など新たな生存の脅威に直面している。",
     "category": "ja",
@@ -181748,6 +181841,23 @@
     "featured": false,
     "date": "2026-04-08",
     "path": "ja/Society/taiwan-tv-content-rating-system.md"
+  },
+  {
+    "title": "ズグロミゾゴイ（黒冠麻鷺）：バードウォッチャーの夢幻の種、キャンパスの「大笨鳥（だいべんちょう）」",
+    "description": "1985年から1992年にかけての中華民国野鳥学会の約4,000件の鳥類記録において、ズグロミゾゴイはわずか25件しか占めず、図鑑上では「稀有留鳥（きゆうりゅうちょう）」とされていた。しかし30年後には、台大の椰林大道や大安森林公園で毎日見られる存在となっている。一般的な説明は「人を恐れなくなった」というものだが、台大の袁孝維（えん・こうい／ユエン・シャオウェイ）氏が2010年から行っている標識放鳥（ひょうしょくほうちょう）研究は別の答えを示している：台湾の都市における密林化したキャンパスと農薬を撒かない芝生が、本来の低標高森林の生息地をたまたま複製していたのだ——鳥は変わっていない、土地が変わったのだ。",
+    "category": "ja",
+    "tags": [
+      "台湾の生態",
+      "都市の鳥類",
+      "ズグロミゾゴイ",
+      "大笨鳥",
+      "市民科学"
+    ],
+    "url": "https://taiwan.md/ja/nature/malayan-night-heron",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-04-30",
+    "path": "ja/Nature/malayan-night-heron.md"
   },
   {
     "title": "スタートアップエコシステム",
@@ -182205,12 +182315,12 @@
     "path": "ja/Society/paraguay-taiwan.md"
   },
   {
-    "title": "ビンロウ：神聖な果実から発がん物質へ——一粒の果実に映る階級と土地の縮図",
-    "description": "1976年、南投草屯のビンロウ屋台が「ビンロウ西施」の時代を開きました。かつて原住民の神聖な祭品、漢人の「洗瘴丹」であったこの緑の果実が、今日では健康被害と環境問題を巡る議論の的となり、台湾社会の階級と土地の矛盾を映し出す縮図となっています。",
+    "title": "ビンロウ：神聖な果実から発がん物質へ、一粒の果実に映る階級と土地の縮図",
+    "description": "1976年、南投草屯のビンロウ屋台が「ビンロウ西施」の時代を切り開いた。かつて先住民の神聖な祭品、漢人の「洗瘴丹（せいしょうたん）」であったこの緑の果実は、今や健康と環境をめぐる議論の的となり、台湾社会の階級と土地の矛盾を映し出す縮図となっている。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/betel-nut",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-07-25",
     "path": "ja/Society/betel-nut.md"

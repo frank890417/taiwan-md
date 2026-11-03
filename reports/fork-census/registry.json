@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-11-02",
+    "last_census": "2026-11-03",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 870080,
-      "users": 570529
+      "views": 878084,
+      "users": 578268
     },
     "dev_noise": {
       "views": 12540,
@@ -132,8 +132,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 211,
-        "users": 156
+        "views": 212,
+        "users": 157
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -167,8 +167,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 207,
-        "users": 153
+        "views": 208,
+        "users": 154
       },
       "last_seen": "2026-11",
       "first_seen": "2026-07"

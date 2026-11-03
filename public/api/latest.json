@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-11-02T22:07:23.042Z",
+  "_generated": "2026-11-03T22:07:33.880Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -276,8 +276,8 @@
     ],
     "en": [
       {
-        "title": "Chen Chih-chung: Elected to Kaohsiung City Council Three Times, Two Terms Ended in Legal Proceedings",
-        "desc": "On August 18, 2008, orientation for the University of Virginia School of Law began, but Chen Chih-chung, who was preparing to pursue his J.D., never showed up and lost his admission eligibility on the very day. Later, he was elected to the Kaohsiung City Council three times from Xiaogang in Qianzhen District, with two of his terms ending at the moment a judgment became final. In between, he served 272 days in prison. The verdict rendered in April 2023 did not include a forfeiture of civil rights. A month later, the three-reading revision of the election and recall law added a blacklist clause, preventing him from registering as a candidate.",
+        "title": "Chen Chih-chung: Elected to the Kaohsiung City Council Three Times, Two Terms Ended Due to Legal Provisions",
+        "desc": "On August 18, 2008, as orientation began at the University of Virginia School of Law, Chen Chih-chung, who was preparing to pursue a J.D., failed to appear and lost his eligibility for admission that very day. Since then, the Qianzhen-Xiaogang district in Kaohsiung has elected him to the City Council three times; however, two of those terms ended the moment his sentences were finalized, during which time he served 272 days in prison. The final ruling in April 2023 did not include a deprivation of civil rights. Yet, the \"blacklisted\" clause of the Public Officials Election and Recall Act, which passed its third reading a month later, prevented him from registering as a candidate again.",
         "category": "people",
         "href": "/en/people/chen-chih-chung",
         "date": "2026-11-02T16:19:12+08:00",
@@ -294,8 +294,8 @@
         "image": "/article-images/people/puma-shen-election-2024.webp"
       },
       {
-        "title": "The 8 O'Clock Drama: A Matchstick Ignites the Cult and Nostalgia of Taiwan's Living Rooms",
-        "desc": "From the melodramatic suffering of 1990s Qiong Yao to the \"Pili Fire\" memes of the 2000s, 8 o'clock dramas are not just background noise for Taiwanese people, but an industrial miracle of \"filming and broadcasting simultaneously\" that syncs with reality.",
+        "title": "8 PM Dramas: A Single Match Ignites Taiwan's Living Room Cult Classics and Nostalgia",
+        "desc": "From 1990s Qiong Yao melodramas to 2000s Pili Huo memes, 8 PM dramas are not just Taiwan's ambient background noise — they are an industrial miracle of \"shoot-today-air-tomorrow\" that synchronizes with reality in real time.",
         "category": "culture",
         "href": "/en/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -303,8 +303,8 @@
         "image": ""
       },
       {
-        "title": "Red Yeast Rice in Shulin: The Winery Is Gone, but the Culture Lives On in Sausages",
-        "desc": "Shulin was once Taiwan's sole red yeast rice production center and the birthplace of red dew wine. After the winery closed in 2004 and the site became a tech park, red yeast rice culture continues to ferment in the streets through sausages, sauces, and an annual cultural festival.",
+        "title": "Shulin Red Yeast Rice: The Distillery is Gone, but the Microbes Remain in the Sausages",
+        "desc": "Shulin was once Taiwan's only red yeast rice distillery and the home of Honglu wine. Though the factory closed in 2004, its culture lives on through sausages, sauces, and local festivals.",
         "category": "food",
         "href": "/en/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -312,8 +312,8 @@
         "image": ""
       },
       {
-        "title": "Xiao Bei Department Store: Taiwan's Grocery King in the Late-Night Lights, from a Seafood Stall to a \"Parent's Savior\" Over Three Decades",
-        "desc": "Founded in 1994 at Tainan's Xiao Bei Night Market, Xiao Bei Department Store leveraged a \"24-hour operation\" and a \"sell what others won't\" strategy to transform from a near-bankrupt seafood shop into a hardware retail leader with over 190 stores island-wide. It is a late-night savior for parents, a supply station for migrant workers' nostalgia, and Taiwan's retail sector's most resilient survival miracle.",
+        "title": "Xiao Bei Department Store: Taiwan's Grocery King of Late-Night Lights, From Seafood Stalls to \"Parental Lifesaver\" Over Thirty Years",
+        "desc": "Rising from Tainan's Xiao Bei Night Market in 1994, Xiao Bei Department Store transformed from a failing seafood shop into a hardware giant with over 190 stores by selling what others wouldn't. It is a late-night savior for parents, a nostalgic supply station for migrant workers, and a resilient miracle of Taiwanese retail.",
         "category": "lifestyle",
         "href": "/en/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -322,7 +322,7 @@
       },
       {
         "title": "Betel Nut: From Sacred Fruit to Carcinogen—A Microcosm of Class and Land within a Single Seed",
-        "desc": "In 1976, a betel nut stall in Caotun, Nantou, ushered in the era of the \"Betel Nut Beauties.\" Once a sacred offering for Indigenous peoples and a \"miasma-cleansing pill\" for Han settlers, this green fruit has become a microcosm of Taiwan's social class and land conflicts due to health and environmental controversies.",
+        "desc": "In 1976, a betel nut stall in Caotun, Nantou, ushered in the era of the \"Betel Nut Beauty.\" Once a sacred offering for Indigenous peoples and a \"miasma-cleansing pill\" for Han settlers, this green fruit has become a microcosm of Taiwan's social class and land conflicts due to health and environmental controversies.",
         "category": "society",
         "href": "/en/society/betel-nut",
         "date": "2026-10-31T08:41:07+08:00",
@@ -567,7 +567,7 @@
       },
       {
         "title": "「殺処分の島」からゼロ殺処分へ：台湾の動物保護、四十年の救済の道",
-        "desc": "1990年代、台湾は残酷な野良犬対応で国際的に「殺処分の島」と呼ばれ、日本の空港では観光ボイコットの看板まで現れた。1998年の『動物保護法』制定から2017年の全面的なゼロ殺処分実施まで、これは生命の価値を再定義する社会運動であった。",
+        "desc": "1990年代、台湾は流浪犬への残酷な扱いで国際的に「殺処分の島」と呼ばれ、日本の空港では観光ボイコットの看板まで現れた。1998年の『動物保護法』制定から2017年の全面的なゼロ殺処分実施まで、これは生命の価値を再定義する社会運動であった。",
         "category": "history",
         "href": "/ja/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -575,8 +575,8 @@
         "image": ""
       },
       {
-        "title": "八点枠ドラマ：一本のマッチが焼き付けた、台湾リビングのカルトと郷愁",
-        "desc": "1990年代の瓊瑤メロドラマから2000年代の『霹靂火』ミームまで、八点枠ドラマは台湾人の環境BGMであると同時に、現実と同期する「撮って出し」という産業の奇跡でもあった。",
+        "title": "8時档：一本のライターが燃え上がらせる、台湾の居間のカルト性と郷愁",
+        "desc": "1990年代の瓊瑤（けいよう）風の悲恋から2000年代の「霹靂火」ミームまで。8時档は単なる生活音ではなく、現実と同期する「即撮り即放送」の産業奇跡である。",
         "category": "culture",
         "href": "/ja/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -584,8 +584,8 @@
         "image": ""
       },
       {
-        "title": "樹林紅麹：酒造場は去り、菌はソーセージに残る",
-        "desc": "樹林はかつて台湾唯一の紅麹製造工場であり、紅露酒の故郷だった。2004年に酒造場は歴史となり、跡地は科学技術園区となったが、紅麹はソーセージ、調味料、文化祭の形で、樹林の街で発酵を続けている。",
+        "title": "樹林紅麴：酒廠は去ったが、菌はソーセージの中に残る",
+        "desc": "樹林はかつて台湾唯一の紅麴製造工場であり、紅露酒の故郷でした。2004年に酒廠が歴史の幕を閉じ、跡地は科学技術園区となりましたが、紅麴はソーセージや調味料、文化祭という形で、今も樹林の街路で発酵を続けています。",
         "category": "food",
         "href": "/ja/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -593,8 +593,8 @@
         "image": ""
       },
       {
-        "title": "ビンロウ：神聖な果実から発がん物質へ——一粒の果実に映る階級と土地の縮図",
-        "desc": "1976年、南投草屯のビンロウ屋台が「ビンロウ西施」の時代を開きました。かつて原住民の神聖な祭品、漢人の「洗瘴丹」であったこの緑の果実が、今日では健康被害と環境問題を巡る議論の的となり、台湾社会の階級と土地の矛盾を映し出す縮図となっています。",
+        "title": "ビンロウ：神聖な果実から発がん物質へ、一粒の果実に映る階級と土地の縮図",
+        "desc": "1976年、南投草屯のビンロウ屋台が「ビンロウ西施」の時代を切り開いた。かつて先住民の神聖な祭品、漢人の「洗瘴丹（せいしょうたん）」であったこの緑の果実は、今や健康と環境をめぐる議論の的となり、台湾社会の階級と土地の矛盾を映し出す縮図となっている。",
         "category": "society",
         "href": "/ja/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -820,8 +820,35 @@
     ],
     "ko": [
       {
-        "title": "천치중: 세 번 시의회에 당선되었으나 두 번의 임기는 법적 판결로 끝났다",
-        "desc": "2008년 8월 18일, 버지니아 대학교 로스쿨 신입생 교육이 시작되었을 때 J.D.를 준비하던 천치중은 나타나지 않았고 입학 자격은 당일에 소멸되었다. 이후 가오슝 전진 샤오강에서 세 번 시의회에 당선되었는데, 그중 두 번의 임기는 판결이 확정되는 순간 종료되었다. 그는 그 사이에 272일 동안 복역했다. 2023년 4월 확정된 판결문에는 공직 박탈 조항이 없었지만, 한 달 후 본회의에서 통과된 선거법의 '블랙리스트' 조항 때문에 그는 더 이상 후보로 등록할 수 없게 되었다.",
+        "title": "염수 봉포: 한 포성 도시, 어떻게 역병의 기억을 염수 거리 위에 남겼는가",
+        "desc": "염수 봉포는 단순한 원소절 밤의 불꽃놀이 기적이 아니라, 관제 신앙, 포성 공예, 지역 협력 및 공공 안전이 함께 지탱하는 대만의 민속이다.",
+        "category": "culture",
+        "href": "/ko/culture/yanshui-beehive-fireworks",
+        "date": "2026-11-03T21:37:17+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "307번 버스: 고속도로를 타지 않아도 많은 사람의 어린 시절을 실었다",
+        "desc": "1969년大有 12번 노선은 이후 송산, 타이베이 역, 서문점, 중허, 반차오를 오가는 307번으로 변모했다. 고속도로를 이용하지 않지만 상업 지구, 학교, 채소시장, 하교하는 길을 연결한다. 3표에서 2표로, 大有 버스에서 오늘의 연합 운송 차량까지, 2024년에도 여전히 1,639만 명의 승객을 실으며 지상 도로에 서로 다른 세대의 도시 기억을 남긴다. 이 글은 노선 연혁, 운영 데이터 및 차량 업데이트를 추적한다.",
+        "category": "lifestyle",
+        "href": "/ko/lifestyle/taipei-bus-307",
+        "date": "2026-11-03T21:37:17+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "慈濟: 화론후의 50페엔에서 글로벌 재난 현장까지",
+        "desc": "매일 50페엔을 저축한 주부들이 화론후에서 의료, 교육, 국제 구호 네트워크로 성장한 과정. 종교적 신념을 공공 행동으로 전환한 대만의 이야기.",
+        "category": "society",
+        "href": "/ko/society/tzu-chi-foundation",
+        "date": "2026-11-03T21:37:04+09:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "천즈중: 세 차례 가오슝 시의원에 당선, 두 차례 임기가 법조문 속에서 끝나다",
+        "desc": "2008년 8월 18일 버지니아 대학교 로스쿨 신입생 연수가 시작되었으나, J.D. 과정을 앞둔 천즈중은 불참해 당일 입학 자격을 상실했다. 이후 가오슝 첸전샤오강에서 그를 세 차례 시의원으로 뽑았으나, 두 차례 임기는 판결 확정과 동시에 끝났고, 그 사이 272일간 수감됐다. 2023년 4월 확정판결 주문에는 공권 박탈이 없었으나, 한 달 뒤 공직선거법 개정으로 신설된 '배흑조항'이 그의 후보자 등록을 막았다.",
         "category": "people",
         "href": "/ko/people/chen-chih-chung",
         "date": "2026-11-02T16:19:12+08:00",
@@ -1009,8 +1036,8 @@
         "image": ""
       },
       {
-        "title": "「살개의 섬」에서 무처분제로까지: 대만 동물보호의 40년 구원 여정",
-        "desc": "1990년대 대만은 유해견에 대한 잔혹한 처치로 인해 국제적으로 '살개의 섬'이라 불렸으며, 일본 공항에서는 관광 거부 현수막이 등장하기도 했다. 1998년 《동물보호법》 제정에서 2017년 전면 무처분제 도입까지, 이는 생명 가치 재정의에 관한 사회운동이었다.",
+        "title": "'개 도살의 섬'에서 안락사 제로까지: 타이완 동물 보호 40년의 구원 여정",
+        "desc": "1990년대 타이완은 잔혹한 유기견 처리로 국제적으로 '개 도살의 섬'이라 불렸고, 일본 공항에는 관광 보이콧 현수막까지 등장했다. 1998년 《동물보호법》 제정부터 2017년 전면 안락사 제로 시행까지, 이는 생명의 가치를 재정립한 사회운동의 기록이다.",
         "category": "history",
         "href": "/ko/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1018,8 +1045,8 @@
         "image": ""
       },
       {
-        "title": "8시 드라마: 성냥불 하나가 태완의 거실에 피워낸 컬트와 향수",
-        "desc": "1990년대 칭야오(瓊瑤)식 신파극부터 2000년대 '피력화(霹靂火)' 밈까지, 8시 드라마는 단순한 배경음을 넘어 현실과 동기화되어 제작되는 '실시간 방영'의 산업적 기적이다.",
+        "title": "8시 드라마: 한 줄기 '판자이훠', 타이완 거실의 컬트와 향수를 태우다",
+        "desc": "1990년대琼瑤(치옹야오) 멜로에서 2000년대 '필리훠(霹靂火)' 밈까지, 8시 드라마는 타이완인의 환경 배경음일 뿐만 아니라 현실과 동기화되는 '즉촉즉방(即拍即播)' 산업의 기적이다.",
         "category": "culture",
         "href": "/ko/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1027,8 +1054,8 @@
         "image": ""
       },
       {
-        "title": "수린 홍곡: 양조장은 사라졌지만, 균은 소시지 속에 살아남았다",
-        "desc": "수린은 과거 대만 유일의 홍곡 양조장 본고장이자 홍노주의 고향이었다. 2004년 양조장이 역사 속으로 사라졌으나, 홍곡은 소시지, 양념, 문화제 형태로 수린의 거리에서 여전히 발효되고 있다.",
+        "title": "슈린 홍국: 양조장은 떠났지만, 균은 소시지 속에 남아 있다",
+        "desc": "슈린은 한때 타이완 유일의 홍국 제조 공장이자 홍로주의 고향이었다. 2004년 양조장은 역사의 뒤안길로 사라지고 그 자리는 과학기술단지가 되었으나, 홍국은 소시지, 장류, 문화제의 형태로 슈린의 거리에서 계속 발효되고 있다.",
         "category": "food",
         "href": "/ko/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1036,8 +1063,8 @@
         "image": ""
       },
       {
-        "title": "빈랑: 신성한 열매에서 발암물질까지, 열매 하나에 담긴 계급과 토지의 축소판",
-        "desc": "1976년 난터우 차오툰의 빈랑 판매점에서 '빈랑 시시(檳榔西施)' 시대가 열렸다. 원주민의 신성한 제물이자 한인들의 '세장단(洗瘴丹)'이었던 이 초록색 열매는, 오늘날 건강과 환경 논란 속에 타이완 사회의 계급과 토지 갈등을 보여주는 축소판이 되었다.",
+        "title": "빈랑: 신성한 열매에서 발암물질로, 한 알의 열매 속에 담긴 계급과 토지의 축소판",
+        "desc": "1976년, 난터우 차오툰의 빈랑 노점이 '빈랑 시시(檳榔西施)'의 시대를 열었다. 한때 원주민의 신성한 제물이자 한인의 '세장단(洗瘴丹)'이었던 이 초록 열매는, 오늘날 건강 및 환경 논란으로 인해 타이완 사회의 계급과 토지 모순의 축소판이 되었다.",
         "category": "society",
         "href": "/ko/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1045,8 +1072,8 @@
         "image": ""
       },
       {
-        "title": "샤오베이 백화점: 심야의 불빛 아래 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지 30년",
-        "desc": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매'라는 전략을 통해, 폐업 위기의 해산물 가게에서 전국 100여 개 매장을 보유한 철물 유통의 선두주자로 성장했다. 학부모에게는 심야의 구세주이자, 이주 노동자에게는 고향의 향수를 달래주는 보급소이며, 타이완 소매업계에서 가장 끈질긴 생존 신화로 불린다.",
+        "title": "샤오베이 백화점: 심야의 불빛 속 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지의 30년",
+        "desc": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매' 전략을 통해 폐업 위기의 해산물 가게에서 전국 190개 이상의 매장을 보유한 철물 유통의 선두주자로 거듭났다. 이곳은 학부모들에게는 심야의 구세주이며, 이주 노동자들에게는 고향의 향수를 달래주는 보급소이자 타이완 소매업계의 가장 강인한 생존 신화이다.",
         "category": "lifestyle",
         "href": "/ko/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1061,39 +1088,12 @@
         "date": "2026-10-31T08:40:59+08:00",
         "readingTime": 15,
         "image": "/article-images/geography/yilan-hero.webp"
-      },
-      {
-        "title": "쑤아오 냉천",
-        "desc": "연중 약 22°C의 온도가 저온으로 승부하는 것이 아니라, 이산화탄소 기포, 백년 역사의 목욕장, 그리고 구슬 탄산음료가 한 항구 마을의 일상적 기억을 어떻게 변화시키는지를 다룬다.",
-        "category": "geography",
-        "href": "/ko/geography/suao-cold-spring",
-        "date": "2026-10-31T08:37:52+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "2026 九合一 선거: AI 인지전 시대의 민주주의 기반시설 스트레스 테스트",
-        "desc": "2026년 11월 28일, 대만 전역 22개 시현이 동시에 투표소를 열어 9개 직위, 1.1만 개가 넘는 민선 장관 및民意代表를 선출한다. 이번 선거는 그 어느 때와도 다르다. 후보의 차이가 아니라, 선거가 발생하는 환경의 차이이다: 중국 공산당의 국가급 AI 인지전 고도화, 123개 이상의 가짜 뉴스 웹사이트, 검찰이 AI 가짜 정보를 4대 수사 중점으로 지정. 이번 글은 선거 정보 정리서가 아니라, 이 선거의 역사적 위상과 구조적 스트레스 분석이다.",
-        "category": "politics",
-        "href": "/ko/politics/2026-local-elections-taiwan",
-        "date": "2026-10-31T08:37:52+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "원주민 성명: 친명에서 '두'·'바람'까지, 이름이 관계如何를 기록하는 방식",
-        "desc": "원주민 성명은 개인명만으로 구성되지 않으며, 친명·씨족명·가옥명 및 생명 단계에 따라 연결될 수 있다. 사이샤족의 '두'·'바람' 등 희귀한 한성(漢姓)은氏族名이 한식 호적에 편입된 후의 역사, 역사적 등록, 가족 기억이 교차한 지점을 보존한다.",
-        "category": "culture",
-        "href": "/ko/culture/indigenous-naming-taiwan",
-        "date": "2026-10-31T08:37:45+08:00",
-        "readingTime": 16,
-        "image": ""
       }
     ],
     "es": [
       {
-        "title": "Chen Chih-chung: Elegido tres veces al Concejo de Kaohsiung, dos mandatos terminaron por sentencia legal",
-        "desc": "El 18 de agosto de 2008, Chen Chih-chung, quien se preparaba para estudiar J.D. en la Facultad de Derecho de la Universidad de Virginia, no asistió y perdió su elegibilidad el mismo día. Posteriormente, fue elegido tres veces al Concejo Municipal de Qianzhen, Kaohsiung, dos de los cuales terminaron en el momento en que se confirmó una sentencia; entre ellos, cumplió 272 días de prisión. La sentencia confirmada en abril de 2023 no le despojó de sus derechos públicos. Un mes después, la cláusula negra del Acta de Elecciones y Revocación aprobada en tercera lectura le impidió registrarse como candidato.",
+        "title": "Chen Chih-chung: elegido tres veces al Concejo Municipal de Kaohsiung, dos mandatos terminaron por disposición legal",
+        "desc": "El 18 de agosto de 2008 comenzó la orientación para nuevos estudiantes de la Facultad de Derecho de la Universidad de Virginia; Chen Chih-chung, quien iba a cursar el J.D., no se presentó y perdió su admisión ese mismo día. Posteriormente, el distrito de Cianjhen-Siaogang de Kaohsiung lo eligió tres veces para el Concejo Municipal; dos de esos mandatos terminaron en el momento en que las sentencias quedaron firmes, y en el intermedio cumplió 272 días de prisión. La sentencia firme de abril de 2023 no incluía la privación de derechos políticos. Un mes después, la cláusula anti-corrupción de la Ley de Elección y Revocación de Funcionarios Públicos, aprobada en tercera lectura, le impidió volver a registrarse como candidato.",
         "category": "people",
         "href": "/es/people/chen-chih-chung",
         "date": "2026-11-02T16:19:12+08:00",
@@ -1155,8 +1155,8 @@
         "image": ""
       },
       {
-        "title": "De la «Isla de los Perros Asesinados» al Cero de Sacrificio: Cuarenta Años de Redención en la Protección Animal de Taiwán",
-        "desc": "En la década de 1990, Taiwán fue conocida internacionalmente como la «Isla de los Perros Asesinados» por su trato cruel hacia los perros callejeros, llegando a aparecer carteles de boicot turístico en los aeropuertos de Japón. Desde la promulgación de la Ley de Protección Animal en 1998 hasta la implementación total del «cero de sacrificio» en 2017, este es un movimiento social sobre la redefinición del valor de la vida.",
+        "title": "De la «isla asesina de perros» al sacrificio cero: los cuarenta años de redención de la protección animal en Taiwán",
+        "desc": "En la década de 1990, Taiwán fue llamada internacionalmente «isla asesina de perros» por su trato cruel a los perros callejeros, e incluso aparecieron carteles de boicot turístico en aeropuertos japoneses. Desde la legislación de la «Ley de Protección Animal» en 1998 hasta el sacrificio cero total en 2017, esta es una movilización social sobre la redefinición del valor de la vida.",
         "category": "history",
         "href": "/es/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1164,8 +1164,8 @@
         "image": ""
       },
       {
-        "title": "El telenovela de las ocho: Un fósforo «bárbaro» que enciende el cine de culto y la nostalgia en los salones de Taiwán",
-        "desc": "Desde el drama de sufrimiento de Qiong Yao en los años 90 hasta el meme de *Thunder Fire* en los 2000, el telenovela de las ocho no es solo el sonido ambiental de los taiwaneses, sino un milagro industrial «grabado y emitido en directo» sincronizado con la realidad.",
+        "title": "Programas de las ocho: un encendedor y el culto a la nostalgia en los salones de Taiwán",
+        "desc": "De los melodramas de Qiong Yao en los 90 a los memes de \"Pili Huo\" en los 2000, los programas de las ocho son más que ruido de fondo; son un milagro industrial sincronizado con la realidad.",
         "category": "culture",
         "href": "/es/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1382,8 +1382,8 @@
         "image": "/article-images/people/puma-shen-election-2024.webp"
       },
       {
-        "title": "De l'« île où l'on tue les chiens » à l'objectif zéro abattage : quarante ans de rédemption pour la protection animale à Taïwan",
-        "desc": "Dans les années 1990, Taïwan était surnommée internationalement « l'île où l'on tue les chiens » en raison du traitement cruel des chiens errants. De la loi sur la protection animale en 1998 à l'arrêt total des abattages en 2017, découvrez une mutation sociale majeure.",
+        "title": "De « l'île tueuse de chiens » au zéro euthanasie : les quarante ans de rédemption de la protection animale à Taïwan",
+        "desc": "Dans les années 1990, Taïwan a été surnommée « l'île tueuse de chiens » par la communauté internationale en raison de son traitement cruel des chiens errants, au point que des panneaux appelant au boycott touristique sont apparus dans les aéroports japonais. De la promulgation de la « Loi sur la protection des animaux » en 1998 à l'instauration du « zéro euthanasie » complet en 2017, il s'agit d'un mouvement social qui a redéfini la valeur de la vie.",
         "category": "history",
         "href": "/fr/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1391,8 +1391,8 @@
         "image": ""
       },
       {
-        "title": "Le koji rouge de Shulin : L'usine a disparu, mais les champignons persistent dans les saucisses",
-        "desc": "Shulin fut autrefois le seul site de production de koji rouge à Taïwan, berceau du vin rouge-lu. En 2004, l'usine de vin a fermé ses portes et le site est devenu un parc technologique, mais le koji rouge continue de fermenter dans les rues de Shulin sous forme de saucisses, de sauces et de festivals culturels.",
+        "title": "Le riz rouge de Shulin : l'usine est partie, mais les ferments restent dans la saucisse",
+        "desc": "Shulin fut l'unique usine de production de riz rouge de Taïwan, berceau du vin Honglu. En 2004, l'usine a fermé, mais le riz rouge survit à travers ses saucisses, ses sauces et son festival culturel.",
         "category": "food",
         "href": "/fr/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1400,8 +1400,8 @@
         "image": ""
       },
       {
-        "title": "L'arec : de fruit sacré à cancérogène, un microcosme de classes et de terres dans un seul fruit",
-        "desc": "En 1976, les stands d'arec de Caotun, dans le Nantou, ont inauguré l'ère des « Beautés de l'arec ». Ce fruit vert, autrefois offrande sacrée pour les peuples autochtones et « pilule purificatrice » pour les Han, est devenu un symbole des tensions sociales et environnementales à Taïwan.",
+        "title": "Bétel : du fruit sacré au cancérogène, un microcosme de classes et de terres dans une graine",
+        "desc": "En 1976, les étals de bétel de Caotun (Nantou) ont inauguré l'ère des « Bétel Siècles ». Ce fruit vert, autrefois offrande sacrée des autochtones et « pilule purifiante » des Han, est devenu un symbole des tensions sociales et environnementales à Taïwan.",
         "category": "society",
         "href": "/fr/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1409,8 +1409,8 @@
         "image": ""
       },
       {
-        "title": "Xiaobei Department Store : Le roi de l'épicerie taïwanaise sous les lumières de la nuit, de l'étal de fruits de mer au « sauveur des parents » en trente ans",
-        "desc": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiaobei Department Store a transformé une échoppe de produits de la mer proche de la faillite en un leader de la quincaillerie avec plus de 190 magasins à Taïwan, grâce à une stratégie d'ouverture « 24h/24 » et de vente de « produits que les autres ne vendent pas ».",
+        "title": "Xiao Bei Department Store : Le roi de l'épicerie taïwanaise aux lumières de la nuit, trente ans d'une aventure allant du stand de fruits de mer au « sauveur des parents »",
+        "desc": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiao Bei Department Store est passé d'un restaurant de fruits de mer au bord de la faillite à un leader de la quincaillerie avec plus de 190 magasins grâce à son ouverture 24h/24.",
         "category": "lifestyle",
         "href": "/fr/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1418,8 +1418,8 @@
         "image": ""
       },
       {
-        "title": "Prime Time : une allumette, le culte et la nostalgie des salons taïwanais",
-        "desc": "Des mélodrames de Qiong Yao des années 1990 aux mèmes \"Pili-huo\" des années 2000, les feuilletons de 20h ne sont pas seulement un bruit de fond à Taïwan, mais un miracle industriel de production en direct synchronisé avec la réalité.",
+        "title": "Le feuilleton de 20h : une torche « fan-á-huǒ », consumant le culte et la nostalgie du salon taïwanais",
+        "desc": "Des mélodrames de Qiong Yao dans les années 1990 aux mèmes de « Taiwan Pili Huo » dans les années 2000, le feuilleton de 20h n'est pas seulement la bande-son ambiante des Taïwanais, c'est aussi un miracle industriel du « tourné aujourd'hui, diffusé demain » synchronisé avec la réalité.",
         "category": "culture",
         "href": "/fr/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:07+08:00",
@@ -1672,8 +1672,8 @@
         "image": "/article-images/lifestyle/macarthur-thruway-opening-1964.webp"
       },
       {
-        "title": "Từ \"Đảo Giết Chó\" đến Chính Sách Zero Kill: Bốn Mươi Năm Cứu Độc của Bảo Vệ Động Vật Đài Loan",
-        "desc": "Những năm 1990, Đài Loan bị cộng đồng quốc tế gọi là \"Đảo Giết Chó\" vì cách đối xử tàn nhẫn với chó hoang. Từ khi Luật Bảo Vệ Động Vật được ban hành năm 1998 cho đến chính sách zero kill toàn diện năm 2017, đây là một cuộc vận động xã hội xác định lại giá trị của sự sống.",
+        "title": "Từ \"Đảo giết chó\" đến mục tiêu không tiêu hủy: Hành trình 40 năm cứu rỗi của bảo vệ động vật tại Đài Loan",
+        "desc": "Vào thập niên 1990, Đài Loan từng bị quốc tế gọi là \"Đảo giết chó\" do cách đối xử tàn nhẫn với chó lang thang. Từ việc ban hành Luật Bảo vệ Động vật năm 1998 đến khi thực hiện hoàn toàn chính sách không tiêu hủy vào năm 2017, đây là một cuộc vận động xã hội nhằm định nghĩa lại giá trị của sự sống.",
         "category": "history",
         "href": "/vi/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1681,8 +1681,8 @@
         "image": ""
       },
       {
-        "title": "Tứ Giờ Chiều: Một quả pháo hoa truyền thống, cháy lên sự kỳ quái và niềm nhớ trong gia đình của Đài Loan",
-        "desc": "Từ nỗi khổ của Jiao Niao trong thập niên 1990 đến các meme của Lửa Bùng Nổ trong thập niên 2000, Tứ Giờ Chiều không chỉ là nền tảng âm thanh môi trường của người Đài Loan, mà còn là một \"cựu kỳ quan\" công nghiệp phản ánh thời sự.",
+        "title": "Phim giờ vàng: Một que diêm, thắp lên sự kỳ quặc và nỗi hoài niệm trong phòng khách Đài Loan",
+        "desc": "Từ những bi kịch tình cảm kiểu Quỳnh Dao thập niên 1990 đến các meme \"pháo hoa\" thập niên 2000, phim giờ vàng không chỉ là âm thanh nền của người dân Đài Loan mà còn là một kỳ tích công nghiệp \"quay đến đâu chiếu đến đó\" đồng bộ với thực tế.",
         "category": "culture",
         "href": "/vi/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1699,8 +1699,8 @@
         "image": ""
       },
       {
-        "title": "Bình hoa: Từ trái cây thánh thiêng đến chất gây unic, câu chuyện của lớp xã hội và đất đai trong một quả trái",
-        "desc": "Năm 1976, quán bán bình hoa ở Caotun, Nantou mở ra thời đại \"Bình hoa Tây Nữ\". Quả trái từng là món lễ dâng của người bản địa và \"thuốc giữ trẻ\" của người Hán, giờ đây trở thành biểu tượng của mâu thuằn giữa lớp xã hội, đất đai và văn hóa doanh trại sức khỏe và môi trường.",
+        "title": "Cau trầu: Từ loại quả linh thiêng đến chất gây ung thư, hình ảnh thu nhỏ của giai cấp và đất đai trong một hạt quả",
+        "desc": "Năm 1976, các tiệm trầu tại Thảo Đồn, Nam Đầu đã mở ra kỷ nguyên \"Tiên nữ bán trầu\". Loại quả xanh từng là vật tế linh thiêng của người bản địa và là \"thuốc tẩy uế\" của người Hán, nay trở thành tâm điểm tranh cãi về sức khỏe và môi trường tại Đài Loan.",
         "category": "society",
         "href": "/vi/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1771,8 +1771,8 @@
         "image": ""
       },
       {
-        "title": "Threads tại Đài Loan: Từ 'Tôi ăn một chút' đến chứng sinh viên Ai Cập, một bức tường tin nhắn như chợ đêm số",
-        "desc": "Vào cuối năm 2025, một tấm thẻ sinh viên của đại học Quốc gia Đài Loan được tìm thấy gần tượng con sư tử người ở Ai Cập đã được chuyển thành công cụ tìm kiếm toàn cầu trên Threads; trên cùng một bức tường tin nhắn, những bức ảnh ẩm thực của du khách Nhật Hàn đã thu hút sự chú ý của con mèo 'Xin chào, tôi ăn một chút'. Sự 'giòn' của Đài Loan đã đưa những bài viết tầm thường, sự hỗ trợ lẫn nhau, meme và thảo luận công cộng lại gần nhau, khiến những người lạ ngồi cùng một bàn trong khoảnh khắc ngắn ngủi, rồi tiếp tục truyền câu chuyện xa xa.",
+        "title": "Threads tại Đài Loan: Từ câu nói \"Tôi ăn một chút\" đến thẻ sinh viên ở Ai Cập, hành trình biến một dòng trạng thái thành chợ đêm kỹ thuật số",
+        "desc": "Vào cuối năm 2025, một chiếc thẻ sinh viên Đại học Quốc gia Đài Loan được tìm thấy gần tượng Nhân sư tại Ai Cập đã trở thành tâm điểm của cuộc tìm kiếm xuyên quốc gia trên Threads; cũng trên cùng một dòng trạng thái đó, những bức ảnh ẩm thực của du khách Nhật Bản và Hàn Quốc sẽ thu hút sự xuất hiện của chú mèo với câu nói \"Xin chào, tôi ăn một chút\". Sự \"giòn tan\" của Đài Loan đã kết nối những bài đăng vô thưởng vô phạt, sự tương trợ, meme và các cuộc thảo luận công cộng lại với nhau, khiến những người lạ tạm thời ngồi cùng một bàn, rồi tiếp nối câu chuyện truyền đi thật xa.",
         "category": "technology",
         "href": "/vi/technology/threads-in-taiwan",
         "date": "2026-10-31T08:37:20+08:00",
@@ -1935,8 +1935,8 @@
         "image": ""
       },
       {
-        "title": "Siaran Jam 8: Sebatang Korek Api, Membakar Kultus dan Rindu di Ruang Tamu Taiwan",
-        "desc": "Dari drama sedih Qiong Yao era 1990-an hingga meme Pili Huo era 2000-an, siaran jam 8 bukan hanya suara latar ruang tamu orang Taiwan, melainkan keajaiban industri \"syuting hari ini, tayang besok\" yang berjalan selaras dengan realita.",
+        "title": "Drama Jam Delapan Malam: Sebuah Korek Api yang Membakar Kultus dan Nostalgia di Ruang Tamu Taiwan",
+        "desc": "Dari melodrama ala Qiong Yao pada 1990-an hingga meme \"Pili Huo\" pada 2000-an, drama jam delapan malam bukan sekadar latar suara kehidupan orang Taiwan, melainkan keajaiban industri \"syuting dan tayang langsung\" yang sinkron dengan realitas.",
         "category": "culture",
         "href": "/id/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -1953,8 +1953,8 @@
         "image": ""
       },
       {
-        "title": "Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah",
-        "desc": "Pada 1976, kios sirih pinang di Caotun, Nantou, memulai era \"Gadis Sirih Pinang\". Buah hijau yang dahulu menjadi persembahan suci orang asli dan \"obat penyingkir mala\" bagi orang Han, kini menjadi cerminan ketegangan kelas sosial dan tanah di Taiwan akibat kontroversi kesehatan dan lingkungan.",
+        "title": "Pinang: Dari Buah Suci Menjadi Karsinogen, Sebuah Mikrokosmos Kelas Sosial dan Tanah dalam Sebutir Buah",
+        "desc": "Pada tahun 1976, kedai pinang di Caotun, Nantou memulai era \"Pinang Xi Shi\". Buah hijau yang dulunya merupakan persembahan suci masyarakat adat dan \"obat pembersih miasma\" bagi etnis Tionghoa, kini menjadi mikrokosmos konflik kelas sosial dan tanah di Taiwan karena kontroversi kesehatan dan lingkungan.",
         "category": "society",
         "href": "/id/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1962,8 +1962,8 @@
         "image": ""
       },
       {
-        "title": "Xiao Bei Department Store: Raja Toko Serba Ada Taiwan di Tengah Lampu Malam, dari Warung Hasil Laut ke \"Penyelamat Orang Tua\" Selama Tiga Puluh Tahun",
-        "desc": "Bermula dari Pasar Malam Xiao Bei Tainan pada 1994, Xiao Bei Department Store bertransformasi dari toko hasil laut yang hampir bangkrut menjadi pemimpin perlengkapan keras dengan lebih dari 190 cabang di seluruh Taiwan, berkat strategi \"beroperasi 24 jam\" dan \"menjual barang yang tidak dijual orang lain\". Ia adalah penyelamat orang tua di malam hari, stasiun pengisi kangen bagi pekerja migran, serta keajaiban kelangsungan hidup paling tangguh di industri ritel Taiwan.",
+        "title": "Xiaobei Department Store: Raja Kelontong Taiwan di Bawah Cahaya Malam, Tiga Dekade dari Kedai Hasil Laut hingga Menjadi \"Penyelamat Orang Tua\"",
+        "desc": "Berawal dari pasar malam Xiaobei di Tainan pada 1994, Xiaobei Department Store bertransformasi dari kedai hasil laut yang hampir bangkrut menjadi pemimpin ritel perangkat keras dengan lebih dari 190 gerai di Taiwan melalui strategi \"buka 24 jam\" dan \"menjual barang yang tidak dijual orang lain\". Ia adalah penyelamat bagi orang tua di larut malam, pusat kebutuhan nostalgia bagi pekerja migran, dan keajaiban kelangsungan hidup paling tangguh dalam industri ritel Taiwan.",
         "category": "lifestyle",
         "href": "/id/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2207,8 +2207,8 @@
         "image": "/article-images/technology/formosat8-tasa-banner.webp"
       },
       {
-        "title": "Da \"Ilha da Matança de Cães\" ao Abate Zero: os Quarenta Anos de Redenção da Proteção Animal em Taiwan",
-        "desc": "Na década de 1990, Taiwan foi internacionalmente chamada de \"Ilha da Matança de Cães\" devido ao tratamento cruel de cães vadios, chegando a aparecer painéis de boicote ao turismo em aeroportos japoneses. Da legislação da \"Lei de Proteção Animal\" em 1998 ao abate zero total em 2017, esta é um movimento social sobre a redefinição do valor da vida.",
+        "title": "De \"Ilha de Matança de Cães\" ao Abate Zero: Os 40 anos de redenção da proteção animal em Taiwan",
+        "desc": "Nos anos 90, Taiwan foi apelidada internacionalmente de \"ilha de matança de cães\". Da Lei de Proteção Animal de 1998 ao abate zero em 2017, esta é a história de uma mudança social sobre o valor da vida.",
         "category": "history",
         "href": "/pt/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -2216,8 +2216,8 @@
         "image": ""
       },
       {
-        "title": "Novela das oito: um fósforo, acendendo o cult e a nostalgia das salas taiwanesas",
-        "desc": "Dos melodramas de Qiong Yao nos anos 1990 aos memes de Pili Huo nos anos 2000, a novela das oito não é apenas ruído de fundo nas casas de Taiwan, mas um milagre industrial de \"grava hoje, exibe amanhã\" que respira em sincronia com a realidade.",
+        "title": "Novelas das Oito: Um fósforo acende o culto e a nostalgia nas salas de estar de Taiwan",
+        "desc": "Das melodramas de Qiong Yao dos anos 90 aos memes \"Pilihuo\" dos anos 2000, as novelas das oito não são apenas o som de fundo da vida em Taiwan, mas um milagre industrial de produção imediata sincronizada com a realidade.",
         "category": "culture",
         "href": "/pt/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -2225,8 +2225,8 @@
         "image": ""
       },
       {
-        "title": "Shulin Hongqu: a fábrica de bebidas fechou, mas o fungo permanece na linguiça",
-        "desc": "Shulin já foi a única fábrica de produção de hongqu em Taiwan, a terra natal do vinho Honglu. Em 2004, a fábrica entrou para a história e o local original tornou-se um parque tecnológico, mas o hongqu continua a fermentar nas ruas de Shulin na forma de linguiças, molhos e um festival cultural.",
+        "title": "Arroz de Levedura Vermelha de Shulin: A fábrica partiu, mas o fungo permanece nas salsichas",
+        "desc": "Shulin foi a única fábrica de arroz de levedura vermelha em Taiwan e o berço do licor Honglu. Em 2004, a fábrica encerrou as atividades, mas a cultura continua viva através de salsichas, molhos e festivais culturais.",
         "category": "food",
         "href": "/pt/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2234,8 +2234,8 @@
         "image": ""
       },
       {
-        "title": "Betel nut: de fruto sagrado a cancerígeno, um microcosmo de classe e terra num só fruto",
-        "desc": "Em 1976, uma banca de betel nut em Caotun, Nantou, inaugurou a era das \"betel nut beauties\". Este fruto verde, outrora oferenda sagrada dos povos indígenas e \"elixir anti-miasma\" dos colonos han, tornou-se hoje um microcosmo das contradições de classe e terra da sociedade taiwanesa devido a controvérsias de saúde e ambientais.",
+        "title": "Betel nut: do fruto sagrado ao cancerígeno, um microcosmo de classe e terra num só fruto",
+        "desc": "Em 1976, uma banca de betel nut em Caotun, Nantou, inaugurou a era das \"belas do betel nut\". Este fruto verde, outrora oferenda sagrada dos povos indígenas e \"elixir contra a miasma\" para os colonos han, tornou-se hoje um microcosmo das contradições de classe e terra na sociedade taiwanesa devido a controvérsias de saúde e ambientais.",
         "category": "society",
         "href": "/pt/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2243,8 +2243,8 @@
         "image": ""
       },
       {
-        "title": "Xiaobei Department Store: o rei das mercearias de Taiwan nas luzes da madrugada, de banca de frutos do mar a \"salvador dos pais\" em trinta anos",
-        "desc": "Em 1994, surgido no Mercado Noturno Xiaobei de Tainan, o Xiaobei Department Store transformou-se, graças às estratégias de \"funcionamento 24 horas\" e \"vender o que os outros não vendem\", de uma loja de frutos do mar à beira da falência no líder de ferragens com mais de 190 filiais em toda Taiwan. É o salvador noturno dos pais, o posto de abastecimento da saudade para trabalhadores migrantes e o mais tenaz milagre de sobrevivência do varejo taiwanês.",
+        "title": "Xiao Bei Department Store: O rei dos armazéns de Taiwan sob as luzes da madrugada, de uma banca de frutos do mar ao \"salvador dos pais\" em 30 anos",
+        "desc": "Fundada em 1994 no mercado noturno de Xiaobei, em Tainan, a Xiao Bei Department Store transformou-se de uma loja de frutos do mar à beira da falência em um gigante de ferragens com mais de 190 lojas.",
         "category": "lifestyle",
         "href": "/pt/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2452,8 +2452,8 @@
     ],
     "hi": [
       {
-        "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
-        "desc": "18 अगस्त 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का नवागत ओरिएंटेशन शुरू हुआ। जे.डी. की पढ़ाई की तैयारी कर रहे चेन चिह-चुंग वहाँ नहीं पहुँचे, और उसी दिन उनकी दाख़िला योग्यता समाप्त हो गई। इसके बाद काऊशुंग के छ्येनचन–श्याओकांग क्षेत्र ने उन्हें तीन बार नगर परिषद के लिए चुना, जिनमें से दो बार उनका कार्यकाल फ़ैसला अंतिम होने के उसी क्षण ख़त्म हो गया — बीच में उन्होंने 272 दिन जेल में काटे। अप्रैल 2023 में अंतिम हुए फ़ैसले के मुख्य पाठ में नागरिक अधिकार वंचना नहीं थी। एक महीने बाद तीसरे वाचन से पारित चुनाव-वापसी क़ानून के \"काला धन विरोधी खंड\" ने उन्हें दोबारा उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
+        "title": "चेन झी-झोंग: तीन बार काऊशुंग सिटी काउंसिल के लिए चुने गए, लेकिन दो कार्यकाल कानूनी प्रावधानों के कारण समाप्त हो गए",
+        "desc": "18 अगस्त, 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का ओरिएंटेशन शुरू हुआ, लेकिन जे.डी. की पढ़ाई की तैयारी कर रहे चेन झी-झोंग वहां नहीं पहुंचे, और प्रवेश के दिन ही उनकी पात्रता समाप्त हो गई। इसके बाद, काऊशुंग के कियानझेन और शियाओगांग क्षेत्रों ने उन्हें तीन बार सिटी काउंसिल के लिए चुना, जिनमें से दो कार्यकाल निर्णय पक्के होते ही समाप्त हो गए; इस बीच उन्होंने 272 दिनों की सजा काटी। अप्रैल 2023 में अंतिम रूप से तय हुए फैसले के मुख्य भाग में नागरिक अधिकारों से वंचित करने का प्रावधान नहीं था। हालांकि, एक महीने बाद चुनावी कानून में पारित 'ब्लैकलिस्ट क्लॉज' (exclusion clause) ने उन्हें फिर से उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
         "category": "people",
         "href": "/hi/people/chen-chih-chung",
         "date": "2026-11-02T16:19:12+08:00",
@@ -2760,8 +2760,8 @@
         "image": ""
       },
       {
-        "title": "الملف الثماني: نيران الفتى الصغير وصناعة الذاكرة الحنينية والشرارة البصرية في غرفة نوم تايوان",
-        "desc": "من المشاعر الحزينة لكاتياو في التسعينيات إلى ظواهر النيران المتفجرة في الألفين، لا يقتصر الملف الثماني على كونه موسيقى خلفية منزلية للتلفاز التايواني، بل هو أيضًا فن الإنتاج الفوري المتزامن مع الواقع.",
+        "title": "مسلسلات الثامنة مساءً: عود ثقاب يشعل \"ثقافة الكلت\" والحنين في صالونات تايوان",
+        "desc": "من الدراما العاطفية لـ \"تشيونغ ياو\" في التسعينيات إلى ميمات \"بيلي هو\" في الألفية، ليست مسلسلات الثامنة مساءً مجرد خلفية صوتية لتايوانيين، بل هي معجزة صناعية تُبث فور تصويرها بالتزامن مع الواقع.",
         "category": "culture",
         "href": "/ar/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -2787,8 +2787,8 @@
         "image": ""
       },
       {
-        "title": "شياو بيي للبيع بالتجزئة: ملك المتاجر المتنوعة في تايوان تحت أضواء الليل، ثلاثون عامًا من تحوّل كشك المأكولات البحرية إلى \"منقذ الآباء\"",
-        "desc": "انطلقت شياو بيي من سوق شياو بيي الليلي في تاينان عام 1994، وبفضل استراتيجية \"التشغيل على مدار 24 ساعة\" و\"بيع ما لا يبيعه الآخرون\"، تحوّلت من متجر مأكولات بحرية على حافة الإفلاس إلى عملاق متاجر الأدوات المنزلية بأكثر من 190 فرعًا في جميع أنحاء تايوان. إنها ملاذ الآباء الليلي، ومحطة حنين للعمال المهاجرين، وأعجوبة البقاء الأقوى في قطاع التجزئة التايواني.",
+        "title": "متاجر شياو باي (Xiaobei): ملك البقالة التايوانية تحت أضواء الليل، ثلاثون عامًا من مطاعم المأكولات البحرية إلى \"منقذ الآباء\"",
+        "desc": "انطلقت متاجر شياو باي من سوق شياو باي الليلي في تانان عام 1994، وبفضل استراتيجية \"العمل على مدار 24 ساعة\" و\"بيع ما لا يبيعه الآخرون\"، تحولت من متجر مأكولات بحرية على وشك الإفلاس إلى رائد في قطاع الأدوات والمعدات بـأكثر من 190 فرعًا في تايوان. إنها المنقذ الليلي للآباء، ومحطة الحنين للعمال المهاجرين، وأعظم معجزة بقاء في قطاع التجزئة في تايوان.",
         "category": "lifestyle",
         "href": "/ar/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2805,8 +2805,8 @@
         "image": ""
       },
       {
-        "title": "إنفيديا في تايوان: أغلى شركة في العالم، ولا تصنع شريحة واحدة بنفسها",
-        "desc": "في كومبيوتكس مايو 2025، وقف جنسن هوانغ بسترة جلدية، وأضاءت الشاشة الخلفية مرة واحدة بشعارات 55 شركة تايوانية — شركة أمريكية تعلن أمام الملأ أن صناعة الجزيرة بأكملها هي جسدها المادي. من تلك الرسالة عام 1996 إلى موريس تشانغ، إلى اختراق القيمة السوقية خمسة تريليونات دولار، ودفع بلدية تايبيه 4.434 مليار لتنظيف أرض لها، أودعت إنفيديا جسدها كاملاً في تايوان. تايوان بذلك تمسك بمفتاح لا يمكن للعالم إغلاقه، لكن هامش ربحها 5% فقط، ومياهها وكهرباؤها مستنزفة، ومخاطر الحرب مرهونة على الجزيرة: لا غنى عنها، لا يعني أن تايوان هي من يقرر.",
+        "title": "إنفيديا في تايوان: الشركة الأغلى في العالم، دون أن تصنع شريحة واحدة بنفسها",
+        "desc": "في معرض Computex لشهر مايو 2025، ظهر جين-سون هوانغ مرتدياً سترته الجلدية، بينما أضاءت الخلفية شعارات 55 شركة تايوانية دفعة واحدة؛ شركة أمريكية تستعرض علانية صناعات الجزيرة بأكملها كأنها جزء من جسدها. من تلك الرسالة الموجهة إلى موريس تشانغ عام 1996، وصولاً إلى تجاوز قيمتها السوقية 5 تريليونات دولار، وتخصيص بلدية تايبيه مبلغ 4.434 مليار دولار لتوفير قطعة أرض لها، تودع إنفيديا كيانها بالكامل في تايوان. وبسبب ذلك، تمسك تايوان بمفتاح التشغيل الذي لا يمكن للعالم إغلاقه، لكن بهامش ربح لا يتجاوز 5%، واستهلاك جائر للموارد المائية والكهربائية، ومخاطر حرب ملقاة على عاتق الجزيرة: عدم القدرة على الاستغناء عنها لا يعني أن تايوان هي من تملك القرار.",
         "category": "technology",
         "href": "/ar/technology/nvidia-in-taiwan",
         "date": "2026-10-31T08:40:59+08:00",
@@ -3014,8 +3014,8 @@
         "image": "/article-images/people/puma-shen-election-2024.webp"
       },
       {
-        "title": "От «Острова убийцы собак» к нулевому отстрелу: сорокалетний путь искупления Тайваня в защите животных",
-        "desc": "В 1990-е годы Тайвань из-за жестокого обращения с бродячими собаками была международно названа «Островом убийцы собак», в японских аэропортах даже появились плакаты с призывами к бойкоту туризма. От принятия в 1998 году «Закона о защите животных» до полного нулевого отстрела в 2017 году — это было общественное движение о переопределении ценности жизни.",
+        "title": "От «Острова убийцы собак» к нулевому убийству: сорокалетний путь искупления Тайваня в области защиты животных",
+        "desc": "В 1990-х годах Тайвань из-за жестокого обращения с бродячими собаками получил международное прозвище «Остров убийцы собак», в японских аэропортах даже появились плакаты с призывом к бойкоту туризма. От принятия «Закона о защите животных» в 1998 году до полного введения нулевого убийства в 2017 году — это история социального движения, переопределившего ценность жизни.",
         "category": "history",
         "href": "/ru/history/animal-protection-in-taiwan",
         "date": "2026-10-31T08:41:23+08:00",
@@ -3023,8 +3023,8 @@
         "image": ""
       },
       {
-        "title": "Восьмидневки: один стручок огня, который разжёг тайваньский дреам и ностальгию",
-        "desc": "От слёзных серий «Шицзы» 1990-х до мемов «Пики-Пики» 2000-х — восьмидневки стали не просто фоновой музыкой для тайваньцев, а уникальной «индустрией немедленного вещания», синхронно дышащей с реальностью.",
+        "title": "Вечерние сериалы: зажигательная спичка, породившая культ и ностальгию в гостиных Тайваня",
+        "desc": "От мелодрам в стиле Цюн Яо 1990-х до мемов с «вспышкой пламени» 2000-х: вечерние сериалы — это не просто фоновый шум, а индустриальный феномен, синхронизированный с реальностью.",
         "category": "culture",
         "href": "/ru/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",
@@ -3032,8 +3032,8 @@
         "image": ""
       },
       {
-        "title": "Шулинь и хунцю: ушли винзаводы, но грибок остался в колбасах",
-        "desc": "Шулинь когда-то был единственным на Тайване заводом по производству хунцю — родиной красного вина Хунлуцзю. В 2004 году винзавод ушел в историю, на его месте возник технологический парк, но хунцю в виде колбас, соусов и ежегодного культурного фестиваля продолжает бродить на улицах Шулина.",
+        "title": "Шулинь и хунцзю: ушел винзавод, а грибок остался в колбасах",
+        "desc": "Шулинь когда-то был единственным на Тайване заводом по производству хунцзю, родиной вина Хунлу. В 2004 году завод ушел в историю, на его месте возник технологический парк, но хунцзю в виде колбас, соусов и ежегодного культурного фестиваля продолжает бродить на улицах Шулиня.",
         "category": "food",
         "href": "/ru/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -3041,8 +3041,8 @@
         "image": ""
       },
       {
-        "title": "Бинлан: от священного плода к канцерогену — классовые и земельные противоречия Тайваня в одном фрукте",
-        "desc": "В 1976 году ларёк с бинланом в Цзаотуне (Наньтоу) открыл эпоху «бинлань сиши». Этот когда-то священный дар коренных народов и «сичжань дань»ханьских поселенцев, сегодня ставший предметом споров о здоровье и экологии, отражает социальные и земельные противоречия тайваньского общества.",
+        "title": "Бетель: от священного плода до канцерогена — микрокосм классового неравенства и земельных конфликтов",
+        "desc": "В 1976 году в Чаотунь (Наньтоу) началась эра «красавиц бетеля». Этот зеленый плод, бывший священным подношением коренных народов и «лекарством от миазмов» для ханьцев, сегодня стал символом социальных противоречий Тайваня из-за проблем со здоровьем и экологией.",
         "category": "society",
         "href": "/ru/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -3331,8 +3331,8 @@
         "image": ""
       },
       {
-        "title": "Shulin-Rotkoji: Die Brauerei ist verschwunden, der Schimmel bleibt in den Würsten",
-        "desc": "Shulin war einst das einzige Rotkoji-Herstellungszentrum Taiwans und die Heimat des Honglu-Weins. Obwohl die Bäckerei 2004 schloss und das Gelände zu einem Technologiepark wurde, fermentiert Rotkoji weiterhin auf den Straßen von Shulin in Form von Wurstwaren, Soßen und Kulturfesten.",
+        "title": "Shulin-Roter Hefereis: Die Brauerei ging, die Pilze blieben in der Wurst",
+        "desc": "Shulin war einst die einzige Fabrik für roten Hefereis in Taiwan und die Heimat des Honglu-Weins. 2004 schloss die Brauerei, doch das Erbe lebt in Würsten und Kulturfesten weiter.",
         "category": "food",
         "href": "/de/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -3340,8 +3340,8 @@
         "image": ""
       },
       {
-        "title": "Betelnuss: Von der heiligen Frucht zum Karzinogen – Klassen- und Landkonflikte in einer Frucht",
-        "desc": "1976 eröffnete ein Betelnussstand in Caotun, Nantou, die Ära der „Betelnuss-Schönheiten“. Diese einst von Ureinwohnern als heilige Opfergabe und von Han-Chinesen als „Miasma-Reinigungsmittel“ verehrte grüne Frucht ist heute aufgrund von Gesundheits- und Umweltschutzkontroversen zu einem Spiegelbild der Klassen- und Landkonflikte in der taiwanesischen Gesellschaft geworden.",
+        "title": "Betelnuss: Von der heiligen Frucht zum Karzinogen – Ein Mikrokosmos aus Klassengesellschaft und Landfragen",
+        "desc": "1976 begann in Caotun, Nantou, die Ära der „Betelnuss-Schönheiten“. Diese grüne Frucht, einst heiliges Opfer für indigene Völker und „Miasma-Reinigungsmittel“ der Han-Chinesen, ist heute aufgrund von Gesundheits- und Umweltdebatten ein Symbol für soziale Schichten und Landkonflikte in Taiwan.",
         "category": "society",
         "href": "/de/society/betel-nut",
         "date": "2026-10-31T08:41:15+08:00",
@@ -3412,8 +3412,8 @@
         "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
       },
       {
-        "title": "Threads in Taiwan: Vom „Ich nehme ein bisschen\" zum ägyptischen Studentenausweis – wie eine News Feed Wand zur digitalen Nachtmarkt wurde",
-        "desc": "Ende 2025 wurde ein Studentenausweis der National Taiwan University, der neben der ägyptischen Sphinx aufgelesen worden war, zu einer länderübergreifenden Suchanfrage auf Threads; in derselben News Feed tauchten auf japanischen und koreanischen Touristen-Essensfotos Kätzchen mit „Hallo, ich nehme ein bisschen\" auf. Taiwans „knusprig\" presst Klatsch, gegenseitige Hilfe, Memes und öffentliche Diskussion zusammen, lässt Fremde kurz am selben Tisch sitzen, dann wird die Geschichte weitergeleitet.",
+        "title": "Threads in Taiwan: Von „Ich esse ein bisschen“ bis zum ägyptischen Studentenausweis – Wie eine Newsfeed-Wand zu einem digitalen Nachtmarkt wurde",
+        "desc": "Ende 2025 wurde ein in der Nähe der Sphinx in Ägypten gefundener Studentenausweis der National Taiwan University auf Threads zu einer internationalen Suche. Auf derselben Newsfeed-Wand locken Food-Fotos von Reisenden aus Japan und Korea die „Hallo, ich esse ein bisschen“-Katzen an. Das taiwanische „Cui“ vermischt belanglose Posts, gegenseitige Hilfe, Memes und öffentliche Diskussionen, wodurch Fremde kurzzeitig an denselben Tisch gesetzt werden, um Geschichten gemeinsam weiterzutragen.",
         "category": "technology",
         "href": "/de/technology/threads-in-taiwan",
         "date": "2026-10-31T08:37:20+08:00",
