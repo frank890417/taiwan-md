@@ -332,6 +332,36 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-04 twmd-feedback-triage — mandatory-read-gate-inherits-the-saturated-window：那道「讀完全文才准動手」的閘門，入口跟它要讀的列關在同一道牆後面
+
+- **pattern**: `mandatory-read-gate-inherits-the-saturated-window`
+- **原則**：HG13 是這條線上唯一不依賴辨識力的閘門——偵測器 0 命中時，接住攻擊的是當班讀完全文。它的入口 `--show <id>` 2026-08-31 誕生時解的是「必經動作沒有工具」，但它讀的是**已經取數回來的那批**（`selectForShow(rows, …)`，`rows` 來自同一個 `--limit 50`、最舊優先的窗口）。於是洪水一旦填滿窗口，被壓在窗口外的列**既進不了判定，也進不了那道為了判定而造的讀取入口**：閘門的射程等於它要穿透的那道牆的厚度。更細一層：`--show` 認全長 UUID、不認前綴，而「打錯 id」「id 在窗口外」「這筆不是 new」三種根因共用同一行 `⚠️ 根本沒查到這筆`——那行字本來是為了不讓「沒查到」被讀成「內容沒問題」而寫的（v1.7 的設計意圖正確），但它自己混了三種處置相反的根因。
+- **觸發**：2026-11-04 本 routine，憑證索取批次第三輪。佇列真實深度 81 筆（80 攻擊列＋1 筆真實讀者的重複投遞），預設 50 筆窗口仍整整 50 筆全屬該攻擊、`detectInjection()` 第三次 0/50。要讀唯一那筆可能是真實讀者的列時，`--show a00cc239` 回「根本沒查到這筆」（它在第 81 位，窗口外）；補 `--limit 100` 後仍回同一句（前綴不認）；改全長 UUID 才讀到。三次嘗試、三種不同根因、一模一樣的輸出。
+- **候選機械化**：(a) `--show` 的取數跟判定的取數脫鉤（指名 id 就直接查那筆，不經窗口）——`--show` 已經是唯讀路徑且在所有副作用之前 return，脫鉤不影響判定面；(b) 三種根因印不同的 detail（`不在本批窗口內（窗口 N 筆，佇列深 M 筆）` / `前綴不夠，請給全長 id` / `這筆 status 不是 new`），同 `--intake-health` 把「連不上」與「有首頁沒 chunk」分開印的紀律；(c) 前綴比對要不要支援屬判準，不自己改。
+- **可能層級**：通用反射（任何「自動偵測失效時由人工讀取兜底」的設計，都要問那個讀取入口是不是跟失效的那一層共用同一個射程）
+- **相關**：[REFLEXES #38](REFLEXES.md) 混維度（一行輸出承載三種處置相反的根因）／[#95](REFLEXES.md) 熟悉感是會變鬆的閘門（HG13 正是為它而存在的那道不依賴辨識力的順序）／[#82](REFLEXES.md) proxy signal／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一道牆的判定面，本條是它的讀取面）／`mandatory-read-step-has-no-tool`（本條是那次修補的第二層：工具造出來了，射程沒跟上）
+- **verification_count**: 1
+
+### 2026-11-04 twmd-feedback-triage — flood-silences-the-instrument-built-to-tell-quiet-from-broken：佇列被塞住的那一天，專門用來分辨「安靜」與「壞掉」的那三行不會印
+
+- **pattern**: `flood-silences-the-instrument-built-to-tell-quiet-from-broken`
+- **原則**：v1.9／v1.12／v1.13 三波儀器（最近一筆距今幾天／這個距今算不算久／讀者送不送得進來四層健檢）解的是 `fetched 0` 同時是「讀者沒話說」與「讀者送不進來」兩種相反事實的長相。但這三行的觸發條件全寫在 `rows.length === 0` 裡面。洪水把窗口永久填滿之後，`fetched 81` 每天都不是零，於是三行**一行都不印**——而此刻「真實讀者進不進得來」正是最該問的問題，因為窗口已經確定擋著他們。[REFLEXES #38](REFLEXES.md) 零維度變體 (g) 說「0 這個數字承載兩種根因」；本條是它的鏡像：一個很大的非零數字同樣不帶資訊，而且它還會**順手關掉那個專門用來消歧的儀器**（同 [#103](REFLEXES.md)「把一類對象排除出判定，不等於把它排除出觀察」——這裡是反過來，一類對象湧進判定，順手關掉了觀察）。
+- **觸發**：2026-11-04 本 routine 第三輪。`fetched 81` 非零，三行自動報表全部沉默；本班手動跑 `--intake-health` 與 `--intake-stats`，四層全綠（bundle 40504 bytes／mode=supabase 金鑰 inline／金鑰與表 HTTP 200、匿名 select 0 列／登入這條路 github+google+email 開著、`disable_signup=false`），到達間隔「本次沉默 1.7 天 · 歷史最長 14.7 天 · 仍在歷史區間內」。所以今天的結論是**門沒壞、是佇列被塞住**，而這個結論完全靠手動取得——跟 v1.9 誕生前每輪手寫 Supabase 查詢是同一個形狀，只是這次缺的不是工具而是觸發條件。
+- **候選機械化**：觸發條件從「佇列空」改成「本輪沒有任何一筆進入判定」（`rows.length === 0 || kept.length === 0`）——排除後無事可轉錄，跟佇列本來就空，在「我今天沒接到任何讀者的話」這件事上等價，而後者才是那三行要回答的問題。純觸發面、不碰閾值、不碰判準、不印 ⚠️，同 v1.9 只給事實不給裁決的界線。
+- **可能層級**：通用反射（任何「佇列空才自檢」的設計，都要問佇列被垃圾填滿時自檢還跑不跑——空與塞住在「有效輸入為零」這件事上是同一件事）
+- **相關**：[REFLEXES #38](REFLEXES.md) (g) 零維度變體的鏡像／[#82](REFLEXES.md) proxy signal（`fetched>0` 代理「今天有讀者的話要處理」）／[#103](REFLEXES.md) 正確的 skip 會順手關掉那一格的眼睛／LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`（本條是它的第二層：消歧儀器造好了，觸發條件被洪水繞過）
+- **verification_count**: 1
+
+### 2026-11-04 twmd-feedback-triage — duplicate-of-a-closed-report-looks-brand-new：同一位讀者十二秒內送兩次，修完關掉之後那對孿生的另一半重新變成新回報
+
+- **pattern**: `duplicate-of-a-closed-report-looks-brand-new`
+- **原則**：既有 issue 去重比對的是**開著的** issue、且靠 issue body 裡的 feedback id tag 認親。所以一份被完整處理掉的回報——開 issue、修好、關閉——它的孿生列（讀者重複送出、不同 id、同內容）在去重眼裡既沒有開著的 issue 可對，id tag 也對不上，於是永遠是一筆全新的 `new`。處置相反卻共用一個狀態值：真正沒人看過的新回報要轉錄，已經修好的那一份重複要跳過，而後者若被轉錄，等於為一個已經修好的問題開一張新的公開 issue，請維護者再修一次。
+- **觸發**：2026-11-04 本 routine。菜國人 11-02 07:23:21 與 07:23:33 兩次送出〈戰鬥陀螺〉「格式錯誤」（`quote` 欄 1000 字是整篇正文——那正是症狀：Markdown 結構整篇塌掉，所以讀者框選到的是一團未結構化的文字）。前一筆 `a457b7fb` 11-03 已開成 [#1951](https://github.com/frank890417/taiwan-md/issues/1951) 並修好（`a63cd7340` 還原結構＋補 `heading-presence` 閘門），issue 現為 CLOSED；後一筆 `a00cc239` 至今 `status=new`，在 81 筆窗口的最後一位。本班是照 HG13 把全文讀完才認出它是重複——報表只印標題／類型／id，而「格式錯誤」這四個字跟一筆全新的格式回報逐字相同。
+- **候選機械化**：去重比對納入 **closed** issue，且認親從「同一筆 feedback id」擴到「同讀者＋同 `article_slug`＋同 `type`」；命中印 `SKIP · 同一位讀者對同一篇的重複投遞，前一筆已 filed 為 #N（已關閉）`。筆數小、方向單一（只多跳過，不多開），但它改的是去重判準，屬品質閘門範圍——寫成候選，不自己改。
+- **可能層級**：Taiwan.md-specific（綁 Supabase feedback 表與 GitHub issue 的認親方式），但「去重只看開著的那些」是通用形狀
+- **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 第三種意思：「這份其實已經修好了」）／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一輪的窗口面）／`intake-never-asks-whether-the-target-exists`（那條問「它指的那篇在不在」，本條問「它說的那件事是不是已經修好了」）
+- **verification_count**: 1
+
 ### 2026-11-04 twmd-babel-nightly — model-count-threshold-blind-when-only-two-backends-run：判準要三種模型同敗，產線上只有兩種
 
 - **pattern**: `model-count-threshold-blind-when-only-two-backends-run`
