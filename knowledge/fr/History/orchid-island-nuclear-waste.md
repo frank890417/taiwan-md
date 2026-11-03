@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:45:17+08:00'
+translatedAt: '2026-11-03T21:07:56.235148+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1982, Lanyu a commencé à recevoir des déchets radioactifs de faible activité provenant de tout Taïwan ; en 1996, le site était plein, mais la phase de « stockage temporaire » n'a jamais pris fin. Le peuple Tao a réclamé le déplacement du site à plusieurs reprises depuis 1988, et l'enquête officielle sur la vérité de 2018 a remis en lumière les processus de mise en place. Cet article ne conclut pas sur la « sécurité » ou le « danger », mais pose la question suivante : si un foyer est choisi comme lieu de stockage à l'insu de ses habitants, les chiffres de surveillance peuvent-ils répondre seuls à la question de la justice ?
@@ -98,8 +98,8 @@ Si les fûts jaunes de Lanyu sont devenus un objet de l'histoire de Taïwan, ce 
 
 - [Rapport d'enquête sur la vérité concernant l'établissement du site de stockage de déchets nucléaires de Lanyu](https://alilin.cip.gov.tw/Book/670)
 - [Commission de la sécurité nucléaire : Explications sur le contrôle de sécurité du site de Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
-- [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [Débats sur Taïwan et l'énergie nucléaire](/fr/society/taiwan-nuclear-debate) — Réexamen de la centrale de核三重 (Nuclear Chaochiao) en 2026 et référendum du cas n°22 : la résolution des déchets nucléaires est l'une des trois conditions pour la reprise, Lanyu et les bassins de combustible de la centrale de Chaochiao attendent toujours une solution.
+- [Taiwan Insight : La lutte du peuple Tao pour la justice environnementale et la subjectivité sur l'île aux Orchidées](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
+- [Taïwan et le débat sur le nucléaire](/fr/society/taiwan-nuclear-debate) — Examen du redémarrage de la centrale nucléaire n°3 en 2026 et référendum n°22 : la solution aux déchets nucléaires est l'une des trois conditions pour le redémarrage, Lanyu et les piscines de combustible de la centrale n°3 attendent toujours une destination
 
 ## Références
 
