@@ -1,14 +1,14 @@
 ---
-title: 'Sistem Desa/Kelurahan: 7.748 Kepala yang Terpilih Secara Demokratis, Unit Politik Paling Dasar di Taiwan'
-description: 'Kantor kelurahan yang terbuka pukul setengah lima pagi, bantuan operasional bulanan 45.000 TWD, lebih dari enam puluh persen tidak bergabung dengan partai — kepala kelurahan adalah posisi politik yang paling tidak terlihat seperti "politik" dalam pemilu Taiwan, dan juga bukti paling lengkap dari proses demokratisasi Taiwan. Dari sistem perlindungan jaman Jepang hingga pemilihan langsung pada 1950, posisi yang ada sebanyak 7.748 — lebih banyak dari 7-Eleven — ini menggerakkan jaringan relasi lokal selama delapan puluh tahun.'
+title: 'Sistem Kepala Desa/Kelurahan: 7.748 Kepala Terpilih Rakyat, Unit Politik Paling Dasar Taiwan'
+description: 'Kantor Kelurahan Jam 5:30 Pagi, Tunjangan Bulanan NT$54.000, Lebih dari Enam Puluh Persen Tanpa Partai — Kepala Desa/Kelurahan Adalah Jabatan Politik yang Paling Tidak Seperti "Politik" dalam Pemilihan Taiwan, dan Bukti Paling Lengkap Demokratisasi Taiwan. Dari Sistem Bao-Jia Masa Pendudukan Jepang ke Pemilihan Langsung 1950, Jabatan Ini yang Berjumlah 7.748 di Seluruh Taiwan — Lebih Banyak dari 7-Eleven — Mengoperasikan Delapan Puluh Tahun Agen Hubungan Lokal.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Kepala kelurahan',
-    'otonomi dasar',
-    'Undang-Undang Pemerintahan Daerah',
-    'sistem perlindungan jaman Jepang',
+    'Kepala Desa/Kelurahan',
+    'Otonomi Dasar',
+    'Undang-Undang Sistem Lokal',
+    'Bao-Jia Masa Pendudukan Jepang',
     'Pemilihan 2026',
   ]
 subcategory: '選舉制度'
@@ -18,267 +18,271 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: '837e22b9a'
-sourceContentHash: 'sha256:cce4699f9fdc3697'
-sourceBodyHash: 'sha256:48ef53002db1337d'
-translatedAt: '2026-09-17T06:43:41+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:968a60e9d47e825b'
+sourceBodyHash: 'sha256:c77c8cceb31c23cb'
+translatedAt: '2026-11-03T04:50:37+08:00'
 ---
 
-# Sistem Desa/Kelurahan: 7.748 Kepala yang Terpilih Secara Demokratis, Unit Politik Paling Dasar di Taiwan
+# Sistem Kepala Desa/Kelurahan: 7.748 Kepala Terpilih Rakyat, Unit Politik Paling Dasar Taiwan
 
-> **Ringkasan 30 detik:** Di seluruh Taiwan ada 7.748 kepala kelurahan — lebih banyak dari jumlah toko 7-Eleven yang lebih dari 6.600. Masa jabatan 4 tahun, bantuan operasional bulanan sekitar 45.000 TWD, ini bukan gaji tetapi bantuan kantor yang diberikan pemerintah kepada "perwakilan hubungan lokal". Kepala kelurahan adalah satu-satunya posisi dalam pemilu Taiwan di mana calon tidak bergabung dengan partai mendominasi — lebih dari enam puluh persen tidak mencantumkan partai; tingkat kemenangan saat mencalonkan kembali sangat tinggi, keuntungan untuk calon incumben jauh lebih besar dari posisi publik lainnya. Sejarah posisi ini dapat ditelusuri kembali ke sistem perlindungan jaman Jepang, yang setelah perang langsung diwariskan, dan sejak 1950 dilakukan pemilihan langsung — bahkan lebih awal dari pemilihan bupati/walikota. Kepala kelurahan tidak terlalu terlihat seperti "politik", namun menjadi bukti bahwa otonomi Taiwan tumbuh dari dasar ke atas.
-
----
-
-## Kantor Kelurahan yang Terbuka Pukul Setengah Lima Pagi
-
-Pukul setengah lima pagi, pintu gulung besi di sebuah gang sempit di distrik Wanhua, Kota Taipei perlahan dibuka. Lampu di kantor kelurahan pertama menyala, bahkan lebih awal dari toko kopi pagi. Seorang kepala kelurahan yang sudah terpilih tiga kali sedang menghitung kotak makan yang harus dikirimkan — di daftar tersebut ada dua belas warga lansia yang hidup sendiri, siapa yang suka makan yang lembut, siapa yang baru saja ganti gigi, siapa yang semalam pulang dari rumah sakit, dia menghafalnya satu per satu, bahkan lebih rinci dari sistem basis data warga kelurahan.
-
-Pukul tujuh, ia mengelilingi kelurahan dengan sepeda motor. Di perjalanan kembali ke kantor kelurahan, ia menerima tiga panggilan telepon: seorang warga melaporkan lampu jalan di depan gang bersinar berkelip-kelip; seorang ibu ingin bertanya tentang pendaftaran kegiatan warga kelurahan untuk semester depan; seorang istri melaporkan anjing tetangga di sebelah yang menggonggong sepanjang malam, dan berharap kepala kelurahan "pergi bicarakan dengan tetangga" — bukan pergi melaporkan ke polisi, tapi pergi berbincang.
-
-Pukul sembilan, ia membuka komputer, masuk ke sistem kepala kelurahan Kementerian Dalam Negeri, dan mengunggah catatan rapat kemuncaklanjutan warga kelurahan dari malam sebelumnya. Pukul sepuluh, kantor kelurahan menghubungi, bertanya apakah minggu depan bisa membantu menggelar kampanye administrasi. Pukul sebelas, ia duduk di kantor kelurahan menerima seorang veteran yang baru pulang dari rumah sakit, dan membantu mengisi formulir permohonan kesejahteraan — formulirnya sebenarnya ada di kantor kelurahan, tetapi veteran ini tidak bisa naik MRT.
-
-Siang hari, patroli di dalam kelurahan. Di sore hari, kembali ke kantor kelurahan untuk mengatur dokumen koordinasi tempat pemungutan suara — pemilihan umum gabungan pada 28 November 2026 semakin dekat, dan ia harus memastikan lokasi pemungutan suara untuk satu kelurahan di bawahnya. Pukul tujuh malam, rapat warga kelurahan. Setelah rapat selesai pukul sembilan, ia membeli sebuah onigiri di toko kelontong untuk makan malam.
-
-Kepala kelurahan ini, ada **7.748 orang** di seluruh Taiwan.
+> **Ringkasan 30 Detik:** Seluruh Taiwan 7.748 kepala desa/kelurahan — lebih banyak dari 6.600 toko 7-Eleven. Masa jabatan 4 tahun, biaya urusan bulanan NT$54.000, ini bukan gaji, melainkan bantuan operasional yang diberikan pemerintah kepada "agen hubungan lokal". Kepala desa/kelurahan adalah jabatan politik dalam pemilihan Taiwan di mana **hanya calon tanpa partai yang dominan**, lebih dari enam puluh persen tidak terikat partai; tingkat kepengurusan kembali sangat tinggi, keuntungan pejabat Amtsinhaber melebihi kelipatan jabatan publik lainnya. Sejarah jabatan ini dapat ditelusuri ke sistem Bao-Jia masa pendudukan Jepang, diwarisi langsung dengan ganti nama pasca perang, dipilih langsung sejak 1950 — lebih awal dari pemilihan langsung walikota/kabupaten. Jabatan ini tidak terlihat seperti "politik", justru bukti otonomi Taiwan tumbuh dari lapisan paling bawah.
 
 ---
 
-## 7.748 Kepala yang Terpilih Secara Demokratis
+## Kantor Kelurahan Jam 5:30 Pagi
 
-7.748 — angka ini melebihi jumlah cabang toko ritel ritel besar. Pada akhir 2024, jumlah 7-Eleven di seluruh Taiwan sekitar 6.800, dan 1.100 lebih untuk hypermarket ritel lainnya[^1]。Kepadatan kepala kelurahan lebih tinggi dari kepadatan toko kelontong yang kita lewat setiap hari untuk beli kopi dan onigiri.
+Jam 5:30 pagi, pintu gulung besi kantor kelurahan di suatu gang di Distrik Wanhua, Taipei, perlahan dinaikkan. Lampu kantor kelurahan menyala duluan, lebih awal dari warung sarapan. Seorang kepala kelurahan yang sudah tiga kali kepengurusan sedang memeriksa daftar nasi kotak yang akan dikirim hari ini — di daftar ada dua belas lansia yang tinggal sendirian, siapa yang mau makan lunak, siapa yang baru ganti gigi, siapa yang semalam dirawat di rumah sakit hari ini baru pulang, dia hafal satu per satu di kepalanya, lebih detail dari sistem data warga.
 
-Struktur secara spesifik (berdasarkan pengumuman Pemilihan Komisi Pemilihan Taiwan 2026 dan statistik Kementerian Dalam Negeri)[^2]：
+Jam 7:00, dia mengelilingi wilayahnya satu putaran dengan motor. Di jalan pulang ke kantor kelurahan menerima tiga telepon: seorang warga melapor lampu jalan di ujung gang berkedip; seorang ibu bertanya pendaftaran kegiatan warga semester depan; seorang istri mengeluh anjing tetangga mengeong semalaman, minta kepala kelurahan "pergi bicara" — bukan lapor polisi, tapi bicara.
 
-- **Kepala kelurahan di kota-kota mandiri** sekitar 4.800 — lapisan paling dasar di enam kota besar
-- **Kepala desa di luar kota-kota mandiri** (di desa/kelurahan) sekitar 1.800 — terutama di timur Lombok, Yunlin, Chiayi, Miaoli, Nantou, dan Pingtung
-- **Kepala kelurahan di luar kota-kota mandiri** (di kota-kota kabupaten) sekitar 1.100 — seperti kelurahan di dalam kota Keelung, Hsinchu, dan Chiayi
-- **Total 7.748** (akhirnya akan ditentukan oleh pengumuman Pemilihan Komisi Pemilihan Taiwan 2026)
+Jam 9:00, dia membuka komputer, masuk ke sistem kepala desa/kelurahan Kementerian Dalam Negeri, mengunggah risalah rapat warga kemarin. Jam 10:00, kantor distrik menelepon, tanya bisa bantu sosialisasi administrasi kependudukan minggu depan. Jam 11:00, dia duduk di kantor kelurahan melayani seorang veteran baru keluar rumah sakit, bantu isi formulir bantuan sosial — formulir sebenarnya ada di kantor distrik, tapi veteran ini tidak bisa naik MRT.
 
-Ketujuh ribu tujuh ratus empat puluh delapan posisi ini semuanya diadakan pemilu serentak, semuanya pada hari 28 November 2026 — bersamaan dengan pemilihan gubernur/kepala kota, walikota, anggota dewan, kepala kelurahan/kelurahan, kepala kawasan pribumi asli, perwakilan kawasan pribumi asli, dan perwakilan dewan kelurahan/kelurahan, semuanya dicetak dalam satu lembar suara, inilah makna "kesembilan" dari istilah "pemilihan gabungan kesembilan"[^\n3]。
+Sore hari patroli keliling wilayah. Sore hari kembali kantor mengurus dokumen koordinasi tempat pemungutan suara (TPS) — pemungutan suara 28 November 2026 **Pemilihan Sembilan-in-Satu (九合一選舉)** semakin dekat, dia harus konfirmasi lokasi TPS untuk kelurahannya. Jam 19:00, rapat warga. Jam 21:00 rapat selesai, dia beli onigiri di minimarket untuk makan malam.
 
-Di antara sembilan posisi ini, delapan posisi lainnya pasti akan memiliki simbol partai, akan memiliki perdebatan kebijakan, dan akan memiliki aksi kampanye besar. **Satu-satunya pengecualian** adalah kepala kelurahan — sebagian besar calon tidak mencantumkan partai, tidak mengadakan aksi kampanye, dan tidak mencetak materi kampanye yang indah. Yang dilakukan calon adalah mendatangi setiap rumah, mengknock, memperkenalkan diri "saya tetangga si X", lalu memasukkan kartu nama ke kotak surat.
+Kepala kelurahan ini, di seluruh Taiwan ada **7.748 orang**.
 
 ---
 
-## Asal Usul Hukum: Tersembunyi di Tiga Pasal Terakhir Undang-Undang Pemerintahan Daerah
+## 7.748 Kepala Terpilih Rakyat
 
-Status hukum posisi kepala kelurahan dituliskan dalam Pasal 59 hingga 61 Undang-Undang Pemerintahan Daerah — seluruh undang-undang ini terdiri dari 88 pasal, dan kepala kelurahan berada di bagian terakhir[^4]。
+7.748 — angka ini melebihi jumlah toko rantai minimarket terkemuka. Akhir 2024 7-Eleven di seluruh Taiwan sekitar 6.800 lebih toko, PX Mart 1.100 lebih toko[^1]. Kepadatan kepala desa/kelurahan, lebih tinggi dari minimarket yang tiap hari dikunjungi beli kopi beli onigiri.
 
-Pasal 59 mengatur bahwa di setiap desa/kelurahan akan ada "kepala desa/kepala kelurahan" yang dipilih secara demokratis oleh warga desa/kelurahan, dengan masa jabatan empat tahun, dan dapat mencalonkan kembali. Kata kunci dalam pasal ini adalah "**dapat mencalonkan kembali**" — tidak ada batas masa jabatan. Secara teoritis, seorang kepala kelurahan bisa bertahan lima kali, delapan kali, bahkan dua belas kali — selama terpilih kembali setiap empat tahun. Sebenarnya banyak kepala kelurahan yang sudah mencalonkan kembali lebih dari tiga kali, dan bahkan tidak jarang untuk yang sudah lebih dari lima kali[^5]。
+Komposisi spesifik (berdasarkan pengumuman pemilihan 2026 KPU dan statistik Biro Pemerintahan Kementerian Dalam Negeri)[^2]:
 
-Pasal 60 mengatur bahwa kepala kelurahan bertanggung jawab kepada kepala kelurahan/kelurahan (desa/kelurahan), dan bertanggung jawab atas urusan desa/kelurahan serta tugas yang diberikan. Kata-kata "**tugas yang diberikan**" ini adalah inti dari pekerjaan sehari-hari kepala kelurahan — undang-undang tidak mencantumkan secara spesifik, tetapi secara praktis mencakup banyak hal.
+- **Kepala kelurahan kota administratif** sekitar 4.800 — lapisan paling dasar di enam kota besar
+- **Kepala desa non-kota administratif** (kecamatan, kota kecil) sekitar 1.800 — terutama di Hualien-Taitung, Yunlin-Chiayi-Tainan, Miaoli, Nantou, Pingtung dan kabupaten lain
+- **Kepala kelurahan non-kota administratif** (kota kabupaten) sekitar 1.100 — misalnya kelurahan di kota Keelung, kota Hsinchu, kota Chiayi
+- **Total 7.748** (akhirnya berdasarkan pengumuman pemilihan 2026 KPU)
 
-Pasal 61 mengatur bahwa kepala kelurahan adalah posisi tanpa gaji tetapi **dibiayai oleh kantor kelurahan/kelurahan setempat sebagai bantuan operasional**, dibayar setiap bulan. Sejak 2007, jumlah bantuan ini diseragamkan menjadi 45.000 TWD per bulan[^6]。Kata-kata "**tanpa gaji**" sangat penting — artinya kepala kelurahan **bukan pegawai negeri**，tidak memiliki BPJS Kesehatan Ketenagakerjaan, tidak memiliki pensiun, dan tidak memiliki sistem evaluasi pegawai negeri. Kepala kelurahan menerima "bantuan operasional", bukan gaji.
+  7.748 jabatan ini diganti serentak, terkumpul pada hari 28 November 2026 — bersama walikota kota administratif, bupati/walikota, anggota DPRD, bupati/walikota kecamatan, kepala distrik pegunungan asli, anggota DPRD distrik pegunungan asli, anggota DPRD kecamatan/kota kecil digabung dalam satu surat suara sehari pemungutan, itulah "kotak kesembilan" dari kata **Pemilihan Sembilan-in-Satu (九合一選舉)**[^3].
 
-Secara hukum, desain "tanpa gaji + bantuan operasional 45.000 TWD" mencerminkan sikap halus — kepala kelurahan ditempatkan sebagai "**warga setempat yang rela melayani**", bukan karyawan pemerintah. Penempatan ini memengaruhi seluruh ekonomi politik posisi ini.
-
----
-
-## Hak yang Diatur dalam Undang-Undang vs. Pekerjaan Sehari-hari
-
-Undang-undang mencantumkan tiga hak yang diatur[^4]：
-
-1. **Mengundang rapat warga kelurahan** — setidaknya sekali setahun, untuk membahas urusan desa/kelurahan
-2. **Mengeksekusi tugas dari kantor kelurahan/kelurahan** — menerapkan kebijakan pemerintah ke tingkat rumah tangga
-3. **Menyampaikan pendapat warga** — melaporkan kebutuhan warga desa/kelurahan ke atas
-
-Namun, setiap kepala kelurahan yang sedang bertugas akan memberi tahu Anda bahwa ketiga hal di atas hanyalah sepotong es kue — daftar pekerjaan sebenarnya jauh lebih panjang[^7][^8]：
-
-**Penyelesaian sengketa tetangga** — retak atap antara lantai atas dan bawah, sengketa parkir, gangguan hewan peliharaan, perselisahan pemilahan sampah. Kepala kelurahan bukanlah polisi, bukan hakim, bukan penengah, tetapi seringkali adalah saluran terakhir sebelum konflik melaporkan ke polisi. Seorang kepala kelurahan yang berpengalaman bisa menyelesaikan tujuh puluh persen sengketa tetangga hanya di ruang tamu kantor kelurahan sambil minum teh.
-
-**Perawatan warga lansia yang hidup sendiri** — mengirimkan makanan, menemani ke dokter, mengingatkan pembayaran tagihan listrik/air, dan memberi tahu ketika tidak ada aktivitas selama beberapa hari. Indeks penuaan Taiwan sudah melewati 100[^9]，kepala kelurahan adalah orang pertama yang menyadari perubahan pada warga lansia di luar kantor sosial.
-
-**Koordinasi lokasi pemungutan suara** — setiap kali ada pemilihan, Komisi Pemilihan harus mengatur lebih dari 17.000 lokasi pemungutan suara di seluruh negeri[^10]，setiap lokasi, alur, dan fasilitas aksesibilitas semuanya membutuhkan koordinasi kepala kelurahan. Lokasi pemungutan suara biasanya berada di sekolah dasar kelurahan, pusat kegiatan, kuil — hampir seluruhnya berada di tanggung jawab kepala kelurahan.
-
-**Pelaporan bencana** — angin kencana, gempa bumi, banjir, kebakaran. Kepala kelurahan adalah ujung akhir dari sistem penangkal bencana daerah, ketika listrik dan air mati terputus, telepon pertama yang biasanya tidak dialamatkan ke 1999 atau 119, melainkan kepala kelurahan.
-
-**Pembangunan komunitas** — pesta kejuangan, lampion festival Dongzhi, perjalanan senior, kelas ibu-ibu, kelas bakat anak-anak. Kegiatan ini tidak wajib, tetapi kepala kelurahan yang melakukannya dengan baik biasanya akan terpilih kembali selama lima kali.
-
-**Bantuan administrasi** — membantu warga lansia mengisi formulir, menjelaskan prosedur pindah kartu keluarga, menyampaikan kebijakan baru dari kantor kelurahan.
-
-Daftar ini tidak terbatas. Seorang kepala kelurahan yang sudah terpilih tiga kali bisa menyebutkan nama 70-80% warga di kelurahannya — ini bukan kemampuan profesional, tetapi modal hubungan tetangga yang terakumulasi selama dua belas tahun.
+Di sembilan jabatan, delapan lainnya ada lambang partai, ada debat kebijakan, ada mass meeting besar. **Satu-satunya pengecualian** adalah kepala desa/kelurahan — sebagian besar calon tidak memasang lambang partai, tidak adakan mass meeting, tidak cetak brosur mewah. Yang mereka lakukan adalah menyalak pintu rumah per rumah, memperkenalkan diri "saya tetangga sebelah siapa-siapa", lalu masukkan nama ke kotak surat.
 
 ---
 
-## Dari Perlindungan ke Kelurahan: Warisan Sistem Selama Delapan Puluh Tahun
+## Dasar Hukum: Tersembunyi di Tiga Pasal Terakhir _Undang-Undang Sistem Lokal_
 
-Unit pemerintahan desa/kelurahan ini bukanlah penemuan Republik Tiongkok (Taiwan). Predesesornya adalah **sistem perlindungan jaman Jepang**[^11][^12]。
+Kedudukan hukum jabatan kepala desa/kelurahan, tertulis di _Undang-Undang Sistem Lokal_ Pasal 59 sampai 61 — seluruh undang-undang 88 pasal, kepala desa/kelurahan ada di bagian akhir[^4].
 
-Pada 1898, pemerintah kolonial Jepang di Taiwan mengesahkan "Undang-Undang Perlindungan", mengatur kembali organisasi perlindungan yang ada pada akhir dinasti Qing menjadi ujung tombak pemerintahan kolonial. Sepuluh rumah satu kelompok, sepuluh kelompok satu perlindungan, setiap perlindungan memiliki ketua perlindungan, setiap kelompok memiliki ketua kelompok — dipilih oleh warga setempat (meskipun daftar kandidat harus disetujui oleh pemerintah kolonial), dengan masa jabatan dua tahun. Tugas sistem perlindungan sangat luas: pencatatan kartu keluarga, pencegahan penyakit menular, penagihan pajak, pemeliharaan keamanan, dan mobilisasi tenaga kerja.
+Pasal 59 mengatur desa/kelurahan memilki "kepala desa, kepala kelurahan" masing-masing satu orang, dipilih warga desa/kelurahan sesuai hukum, masa jabatan empat tahun, boleh dipilih kembali. Kata kunci pasal ini adalah **"boleh dipilih kembali"** — tidak ada batas masa jabatan. Seorang kepala desa/kelurahan teoritis bisa lima kali, delapan kali, dua belas kali — selama setiap empat tahun menang pemilihan, terus menjabat. Nyatanya kepala desa/kelurahan tiga kali kepengurusan banyak, lima kali kepengurusan pun tidak jarang[^5].
 
-Sistem perlindungan ini beroperasi di Taiwan selama 47 tahun, hingga akhirnya dihapuskan pada 1945 setelah perang. Namun, unit dasar "perlindungan" tidak benar-benar punah — ia hanya diganti namanya.
+Pasal 60 mengatur kepala desa/kelurahan menerima komando pengawasan bupati/walikota/kepala distrik, mengurus urusan desa/kelurahan dan tugas penugasan. **"Tugas penugasan"** empat kata ini adalah isi sebenarnya kerja harian kepala desa/kelurahan — undang-undang tidak mendaftarkan, tapi praktiknya mencakup segalanya.
 
-Pada 1946, Kantor Eksekutif Gubernur Provinsi Taiwan mencabut sistem perlindungan, dan mendirikan "desa" (di wilayah pedesaan) dan "kelurahan" (di wilayah perkotaan)[^13]。"Ketua perlindungan" diganti nama menjadi "kepala desa/kepala kelurahan", namun batas wilayah, jumlah rumah tangga, dan struktur organisasi secara keseluruhan diwariskan. Banyak sistem perlindungan yang ada pada masa Jepang secara langsung beralih menjadi kepala desa/kepala kelurahan pertama setelah perang.
+Pasal 61 mengatur kepala desa/kelurahan jabatan tidak bergaji, tapi **oleh kantor kecamatan/kota kecil/kota/kabupaten distrik disiapkan biaya urusan kepala desa/kelurahan**, dibayarkan tiap bulan. Jumlah tertulis di _Undang-Undang Bantuan Biaya Anggota DPRD dan Biaya Urusan Kepala Desa/Kelurahan_ Pasal 7: tiap desa/kelurahan tiap bulan NT$50.000, desa/kelurahan wilayah asli tambah dua puluh persen; pasal ini juga mengikat uang ini dengan tunjangan PNS/TNI/Polri, saat kenaikan gaji bersamaan disesuaikan proporsi sama, jumlah setelah disesuaikan dan tanggal efektif diumumkan Kementerian Dalam Negeri[^6]. Angka ini lama stagnan di NT$45.000, 2022 diubah jadi NT$50.000, berlaku sejak tanggal 25 Desember 2022 pelantikan kepala desa/kelurahan baru[^27]; Kementerian Dalam Negeri Juli 2026 mengumumkan kenaikan lagi, desa/kelurahan umum tiap bulan NT$54.000, wilayah asli NT$64.800, berlaku surut 1 Juli 2026, 1 Januari 2027 ikut kenaikan gaji PNS/TNI/Polri 4% masing-masing jadi NT$56.160 dan NT$67.392[^28]. Tiga kata "jabatan tidak bergaji" penting — artinya kepala desa/kelurahan **bukan PNS**, tidak ada jaminan BPJS Kesehatan/BPJS Ketenagakerjaan, tidak ada pensiun, tidak ada sistem penilaian PNS. Kepala desa/kelurahan terima "bantuan urusan", bukan gaji.
 
-Sejak 1950, Provinsi Taiwan mulai menerapkan otonomi daerah, dan kepala desa/kepala kelurahan diganti menjadi **dipilih secara langsung oleh warga desa/kelurahan**[^13]。Titik ini lebih awal dari pemilihan langsung bupati/walikota — pemilihan langsung bupati/walikota baru benar-benar dilaksanakan pada pemilihan pertama di Provinsi Taiwan 1950[^14]，kepala desa/kepala kelurahan dan bupati/walikota memulai pada waktu yang sama, tetapi **pemilihan langsung kepala desa/kepala kelurahan tidak pernah terputus**, sedangkan pemilihan langsung bupati/walikota malah mengalami beberapa kali revisi hukum oleh pemerintah pusat pada periode 1960-an hingga 1990-an.
-
-Pada 1999, Undang-Undang Pemerintahan Daerah disahkan dan disetujui, dan sistem kepala desa/kepala kelurahan secara resmi diintegrasikan ke dalam undang-undang ini, menjadi posisi otonomi dasar yang diterapkan di seluruh negeri[^4]。
-
-Dari 1898 pendirian sistem perlindangan, hingga 1946 penggantian nama, hingga 1950 pemilihan langsung, hingga 1999 integrasi hukum — **warisan sistem selama 128 tahun** ini menjadi bukti kontinuitas pemerintahan dasar Taiwan. Kerangka administrasi yang tersisa dari pemerintahan kolonial Jepang, kemudian diisi kembali dengan demokrasi yang dipilih secara langsung, dan terus beroperasi hingga kini.
+Desain hukum "jabatan tidak bergaji" ditambah bantuan NT$50.000+ sebulan, di baliknya sikap halus — kepala desa/kelurahan diposisikan sebagai **"tokoh lokal berkeinginan berbakti"**, bukan pegawai negara. Penentuan posisi ini mempengaruhi seluruh ekonomi politik jabatan.
 
 ---
 
-## Mengapa Posisi Ini Dominan dengan Partai Tak Terikat
+## Kewenangan Hukum vs. Pekerjaan Nyata
 
-Di antara sembilan posisi, kepala kelurahan adalah **satu-satunya posisi di mana mayoritas tidak mencantumkan partai**[^\n15]。
+Hukum tulis tiga kewenangan[^4]:
 
-Fenomena ini bukanlah kebetulan, melainkan hasil dari skala.
+1. **Menggelar rapat warga desa/kelurahan** — minimal sekali setahun, membahas urusan umum desa/kelurahan
+2. **Melaksanakan tugas penugasan kantor kecamatan/kota kecil/kota/kabupaten distrik** — menurunkan kebijakan tingkat atas ke rumah tangga
+3. **Menyampaikan aspirasi** — mengadukan kebutuhan warga ke atas
 
-**Skala terlalu kecil**: Satu kelurahan rata-rata memiliki populasi antara 2.000 hingga 5.000 orang, sementara di daerah pedesaan, sebuah desa mungkin hanya memiliki 200-500 orang[^16]。Pada skala ini, kemenangan seorang calon tidak bergantung pada posisi partai, melainkan pada **apakah dia mengenal warga kelurahan, dan apakah warga kelurahan mengenalnya**. Seorang calon kepala kelurahan yang bisa menyebutkan nama warganya, jauh lebih berguna daripada nominasi dari partai mana pun.
+Tapi siapapun kepala desa/kelurahan Amtsinhaber akan bilang, tiga ini cuma gunung es. Daftar pekerjaan nyata jauh lebih panjang[^7][^8]:
 
-**Pengaruh lokal lebih kuat dari partai**: organisasi kekeluargaan/setempat (terutama di selatan tengah dan pulau-pulau terpencil), organisasi sesama asal daerah, komite pengelola kuil, koperasi pertanian, koperasi perikanan, serikat industri — pengaruh organisasi ini di tingkat kelurahan jauh lebih besar dari partai politik[^17]。Seorang calon mungkin termasuk dalam komite pengelola kuil tertentu dan juga termasuk dalam koperasi pertanian tertentu, tetapi ketika memilih, ia tidak akan mencantumkan logo-logo ini, ia cukup mencantumkan namanya sendiri.
+**Mediation sengketa tetangga** — kebocoran lantai atas-bawah, sengketa parkir, kebisingan hewan peliharaan, sengketa pemilahan sampah. Kepala desa/kelurahan bukan polisi, bukan hakim, bukan arbiter, tapi sering jadi benteng terakhir sebelum sengketa sampai ke polisi. Kepala kelurahan berpengalaman bisa selesaikan tujuh puluh persen sengketa tetangga di ruang teh kantor kelurahan.
 
-**Kekuatan incumben sangat tinggi**: Tingkat kemenangan kembali kepala kelurahan secara konsisten berada di atas tujuh puluh hingga delapan puluh persen[^15]。Seorang kepala kelurahan yang sudah terpilih tiga kali telah melayani selama dua belas tahun, ia mengenal setiap nomor lampu jalan di setiap gang, setiap situasi keluarga di setiap rumah, dan setiap orang di kantor kelurahan — modal akumulasi ini sulit ditangkap oleh calon baru dalam empat bulan kampanye.
+**Peduli lansia sendirian** — antar nasi kotak, temani ke dokter, ingatkan bayar air listrik, lapor kalau rumah beberapa hari tidak bergerak. Indeks penuaan Taiwan sudah tembus 100[^9], kepala desa/kelurahan adalah orang paling awal sadar kecelakaan lansia di luar Dinas Sosial.
 
-**Partai bisa justru menjadi beban**: Mencetak logo partai di materi kampanye kepala kelurahan, mungkin membuat sebagian warga yang berpendapat berlawanan tidak nyaman. Kepala kelurahan harus melayani "seluruh warga kelurahan" — tidak peduli pendapatnya — jadi biaya mencantumkan partai lebih besar dari manfaatnya. Banyak kepala kelurahan yang secara pribadi cenderung mendukung partai tertentu, tetapi secara publik mencatat sebagai tidak bergabung dengan partai.
+**Koordinasi TPS** — tiap pemilihan KPU butuh buka 17.000+ TPS di seluruh Taiwan[^10], tiap TPS lokasi, alur, fasilitas disabilitas butuh bantuan kepala desa/kelurahan. TPS biasanya di SD kelurahan, balai kegiatan, pura — hak koordinasi lokai ini hampir sepenuhnya di tangan kepala kelurahan.
 
-Keempat faktor di atas saling bertumpuk, menciptakan ekologi pemilu kepala kelurahan yang unik: **partai bukanlah variabel utama, hubungan pribadi dan rekam jejak pelayanan adalah yang penting**.
+**Pelaporan bencana** — badai, gempa, banjir, kebakaran. Kepala desa/kelurahan adalah ujung saraf sistem mitigasi bencana lokal, saat listrik air putus warga pertama telpon sering bukan 1999 juga bukan 119, tapi kepala kelurahan.
+
+**Pembangunan komunitas** — bakar-bakaran Mid-Autumn, berdiri telur Dragon Boat, wisata lansia, kelas ibu, kelas bakat anak. Kegiatan ini tidak wajib, tapi kepala desa/kelurahan yang lakukan reputasi bagus, dipilih kembali lima kali.
+
+**Bantuan administrasi kependudukan** — bantu lansia tidak bisa komputer isi formulir, jelaskan prosedur pindah KTP, sampaikan kebijakan baru kantor distrik.
+
+Daftar ini tidak ada batas. Seorang kepala kelurahan tiga kali kepengurusan bisa sebut nama 70-80% rumah tangga di wilayahnya — ini bukan kemampuan bisnis, tapi modal hubungan tetangga dua belas tahun akumulasi.
 
 ---
 
-## Ekonomi Politik: 45.000 Bukan Gaji
+## Dari Bao-Jia ke Desa/Kelurahan: Delapan Puluh Tahun Pewarisan Sistem
 
-Bantuan operasional bulanan 45.000 TWD sering disalahartikan sebagai "gaji bulanan kepala kelurahan 45.000 TWD" — bukanlah demikian[^6]。
+Unit pemerintahan dasar desa/kelurahan, bukan penemuan Republik Tiongkok (Taiwan). Asalnya adalah **sistem Bao-Jia** masa pendudukan Jepang[^11][^12].
 
-**Makna dari kata "bantuan operasional"**: Uang ini bukan untuk gaji pribadi kepala kelurahan, tetapi biaya kantor yang dibayar oleh pemerintah — termasuk listrik, air, internet di kantor kelurahan, perlengkasan kertas dan fotokopi, biaya bensin untuk bertugas, makanan dan minuman untuk menyambut warga, dan biaya pencetakan newsletter kelurahan atau materi kegiatan. **Kepala kelurahan harus menanggung sendiri semua biaya yang berkaitan dengan jabatannya**，dengan memotong dari bantuan operasional.
+1898, Pemerintah Jenderal Gubernur Pendudukan Jepang mengeluarkan _Peraturan Bao-Jia_, mengatur ulang organisasi Bao-Jia akhir Dinasti Qing jadi ujung penguasaan kolonial. Sepuluh kepala keluarga satu _jia_, sepuluh _jia_ satu _bao_, tiap _bao_ ada _bao-zheng_, tiap _jia_ ada _jia-zhang_ — direkomendasikan warga lokal (mesin rekomendasi butuh persetujuan Gubernur), masa jabatan dua tahun. Fungsi Bao-Jia sangat luas: pendaftaran kependudukan, pencegahan wabah, penagihan pajak, ketertiban, mobilisasi tenaga kerja.
 
-Sebenarnya, bagi seorang kepala kelurahan yang bekerja dengan tekun, 45.000 TWD seringkali tidak cukup. Banyak kepala kelurahan yang secara pribadi menambahkan uang sendiri — mencetak kartu ucapan tahun baru untuk warga, memberikan amplop merah kepada warga lansia yang hidup sendiri, dan menambah biaya sewa peralatan untuk kegiatan.
+Sistem Bao-Jia di Taiwan beroperasi 47 tahun, sampai 1945 pasca perang baru dicabut. Tapi unit dasar "Bao-Jia" tidak benar-benar hilang — diganti nama.
 
-**Bantuan tambahan untuk kegiatan kepala kelurahan**: Selain bantuan operasional bulanan, pemerintah kabupaten/kota juga menyisihkan bantuan kegiatan kelurahan, bantuan urusan kelurahan, bantuan pertemuan tahun baru, dan seterusnya, dengan jumlah yang bervariasi tergantung pada keadaan keuangan masing-masing kabupaten/kota[^18]。Bantuan ini adalah dana yang khusus dan harus dilampirkan dengan bukti pengeluaran.
+1946, Pemerintah Administratif Provinsi Taiwan menghapus Bao-Jia, ganti "desa" (wilayah pedesaan) dan "kelurahan" (wilayah perkotaan)[^13]. "_Bao-zheng_" ganti nama "kepala desa", "kepala kelurahan", tapi batas, jumlah KK, struktur organisasi besarnya diwarisi. Banyak _bao-zheng_ masa pendudukan Jepang di 1946 pertama kali reformasi desa/kelurahan, langsung transisi jadi kepala desa/kelurahan pasca perang.
 
-**Tidak bisa menerima gaji resmi seperti anggota dewan kabupaten**: Anggota dewan kabupaten sebagai pegawai negeri, menerima biaya riset, biaya kehadiran, pemeriksaan kesehatan, dan seterusnya, yang secara total sekitar puluhan ribu yuan[^19]，dan juga memiliki BPJS Kesehatan dan bantuan kunjungan dewan. Kepala kelurahan tidak memiliki semua ini — ia bukan pegawai negeri.
+1950 mulai Provinsi Taiwan melaksanakan otonomi daerah, kepala desa/kelurahan ganti **dipilih langsung warga desa/kelurahan**[^13]. Titik waktu ini lebih awal dari pemilihan langsung bupati/walikota — pemilihan langsung bupati/walikota tunggu 1950 baru dilaksanakan di pemilihan bupati/walikota pertama Provinsi Taiwan[^14], kepala desa/kelurahan berbarengan dengan bupati/walikota, tapi **kepala desa/kelurahan tidak pernah dihentikan pemilihan langsung**, pemilihan langsung bupati/walikota justru 1960-1990-an mengalami beberapa kali penyesuaian undang-undang pusat.
 
-**Pekerjaan sampingan umum**: Karena desain "tanpa gaji + bantuan operasional 45.000 TWD", banyak kepala kelurahan harus bekerja paruh waktu untuk bertahan — mengemudi taksi, berdagang, menjadi perwakilan asuransi, atau setelah pensiun menjadi kepala kelurahan sambil menerima pensiun + bantuan. Orang yang benar-benar hidup dari pekerjaan kepala kelurahan tidak banyak, terutama di desa-desa kecil di selatan tengah.
+1999 _Undang-Undang Sistem Lokal_ dibentuk disahkan, sistem kepala desa/kelurahan diintegrasikan ke undang-undang ini, resmi jadi jabatan otonomi dasar seragam nasional[^4].
 
-Struktur ekonomi ini menentukan siapa yang akan mencalonkan diri sebagai kepala kelurahan — biasanya adalah **orang yang sudah memiliki dasar ekonomi, ingin melayani komunitas, memiliki waktu, dan jaringan luas** di usia antara muda hingga pensiun. Bagi generasi muda, mencalonkan diri sebagai kepala kelurahan memiliki kesulitan struktural — bukan karena tidak bisa terpilih, tetapi karena secara ekonomi tidak berkelanjutan.
+Dari 1898 pendirian Bao-Jia, ke 1946 ganti nama, ke 1950 pemilihan langsung, ke 1999 integrasi hukum — **pewarisan sistem 128 tahun** ini bukti kontinuitas pemerintahan dasar Taiwan. Kerangka administrasi yang ditinggal rezim kolonial pendudukan Jepang, diisi kembali konten pemilihan langsung oleh demokratisasi pasca perang, beroperasi sampai sekarang.
+
+---
+
+## Mengapa Jabatan Ini Tanpa Partai Dominan
+
+Di sembilan jabatan, kepala desa/kelurahan adalah **satu-satunya** jabatan mayoritas tanpa partai[^15].
+
+Fenomena ini bukan kebetulan, ditentukan skala.
+
+**Skala terlalu kecil**: satu kelurahan rata-rata 2.000 sampai 5.000 jiwa, desa pedesaan mungkin cuma 200-500 jiwa[^16]. Di skala ini, calon menang tidak tergantung posisi partai, tapi **dia kenal tidak warga, warga kenal tidak dia**. Seorang calon kepala kelurahan yang bisa sebut nama warga, lebih berguna dari nominasi partai manapun.
+
+**Aliran lokal jauh lebih kuat dari partai**: marga lokal (khusus Selatan tengah dan pulau-pulau), ikatan sekampung, pengurus pura, koperasi petani, koperasi nelayan, serikat buruh industri — pengaruh organisasi ini di tingkat desa/kelurahan jauh lebih besar dari partai[^17]. Seorang calon mungkin anggota pengurus pura juga anggota koperasi petani, tapi pemilihan tidak pasang logo ini, dia pasang cuma namanya sendiri.
+
+**Keuntungan Amtsinhaber sangat kuat**: tingkat kepengurusan kembali kepala desa/kelurahan lama di atas tujuh delapan puluh persen[^15]. Seorang kepala kelurahan tiga kali kepengurusan sudah berkhidmat dua belas tahun, dia hafal nomor lampu tiap gang, kondisi keluarga tiap KK, petugas tiap loket kantor distrik — modal akumulasi ini sangat sulut dikejar calon baru dalam empat bulan masa kampanye.
+
+**Partai malah bisa jadi beban**: pasang logo partai di materi kampanye kepala desa/kelurahan, mungkin bikin setengah warga berlawanan merasa terganggu. Kepala desa/kelurahan melayani "semua warga" — tidak peduli posisi — jadi memasang partai biaya lebih besar dari manfaat. Banyak kepala desa/kelurahan meski pribadi condong partai tertentu, publik daftar sebagai tanpa partai.
+
+Keempat faktor ini tumpang tindih, menciptakan ekologi unik pemilihan kepala desa/kelurahan: **partai bukan variabel inti, hubungan pribadi dan catatan pelayanan yang menentukan**.
+
+---
+
+## Ekonomi Politik: NT$54.000 Bukan Gaji
+
+Bantuan urusan bulanan NT$54.000, angka ini sering disalaharti "gaji kepala desa/kelurahan NT$54.000/bulan" — bukan[^6].
+
+**Makna tiga kata "bantuan urusan"**: uang ini bukan gaji pribadi kepala desa/kelurahan, tapi biaya operasional yang dibayar pemerintah — termasuk air listrik internet kantor kelurahan, ATK fotokopi, bensin jalan dinas, teh kue tamu warga, cetak surat kabar desa/kelurahan atau brosur kegiatan. **Kepala desa/kelurahan pribadi tanggung sendiri semua pengeluaran terkait jabatan**, dipotong dari bantuan urusan.
+
+Nyata seorang kepala desa/kelurahan serius melayani, NT$54.000 sering tidak cukup. Banyak kepala desa/kelurahan saku sendiri menutup kekurangan — cetak _chunlian_ sendiri bagi warga, Tahun Baru bagi angpao lansia sendirian, subsidi sewa alat kegiatan.
+
+**Ada bantuan kegiatan kepala desa/kelurahan tambahan**: selain bantuan urusan bulanan, tiap kabupaten/kota sisipkan bantuan kegiatan desa/kelurahan, bantuan urusan desa/kelurahan, bantuan arisan Tahun Baru dll, jumlah mengikuti keuangan kabupaten/kota[^18]. Bantuan ini khusus penggunaannya, harus lampirkan bukti pertanggungjawaban.
+
+**Tidak bisa terima gaji resmi seperti anggota DPRD kabupaten/kota**: anggota DPRD sebagai pejabat publik, biaya penelitian bulanan, uang hadir, cek kesehatan dll total ratusan ribu[^19], dan punya BPJS Kesehatan/BPJS Ketenagakerjaan serta bantuan studi banding DPRD. Kepala desa/kelurahan tidak punya ini — dia bukan pejabat publik.
+
+**Sampingan umum**: karena desain "jabatan tidak bergaji + bantuan NT$50.000+", banyak kepala desa/kelurahan harus sampingan hidup — sopir taksi, usaha kecil, agen asuransi, pensiun lalu jadi kepala desa/kelurahan terima pensiun + bantuan. Orang yang sepenuhnya andal kerja kepala desa/kelurahan tidak banyak, khususnya kepala desa pedesaan Selatan tengah.
+
+Struktur ekonomi ini menentukan siapa yang maju jadi kepala desa/kelurahan — biasanya **sudah punya basis ekonomi, mau bakti desa, punya waktu, jaringan luas** lapisan usia menengah ke pensiun. Orang muda mau maju kepala desa/kelurahan ada kesulitan struktural — bukan tidak bisa, tapi ekonomi menopang.
 
 ---
 
 ## Tegangan Struktural
 
-Sistem kepala kelurahan telah beroperasi selama delapan puluh tahun, dan telah menumpuk beberapa ketegangan yang belum sepenuhnya diselesaikan.
+Sistem kepala desa/kelurahan beroperasi delapan puluh tahun, menumpuk beberapa tegangan belum terpecahkan.
 
-**Perbedaan antara kota dan desa sangat besar**: Populasi satu kelurahan di distrik Xinyi, Kota Taipei mungkin melebihi sepuluh ribu orang, tetapi di sebuah desa pegunungan di Hualien, populasi hanya 200 orang. Dengan bantuan operasional yang sama 45.000 TWD dan struktur gaji yang sama, beban kerja bisa berbeda hingga dua puluh kali lipat[^20]。Kepala kelurahan di kota harus melayani kepadatan populasi tinggi dan urusan administrasi yang rumit; kepala desa di daerah pedesaan melayani populasi yang sedikit tetapi wilayah geografisnya mungkin mencakup beberapa desa alami, dan membutuhkan waktu dua hingga tiga jam untuk mengelilingi satu kelurahan.
+**Kesenjangan perkotaan dan pedesaan raksasa**: kelurahan Distrik Xinyi Taipei populasi mungkin melebihi sepuluh ribu, tapi desa pegunungan Hualien mungkin cuma 200 jiwa. Bantuan urusan sama, struktur gaji sama, beban kerja beda sampai dua puluh kali[^20]. Kepala kelurahan perkotaan layani populasi padat, urusan administrasi kompleks; kepala desa pedesaan layani populasi sedikit tapi wilayah geografis mungkin melintasi beberapa desa alami, satu putaran butuh dua tiga jam.
 
-Perbedaan ini pernah diusulkan untuk diperbaiki — misalnya dengan menyesuaikan jumlah bantuan berdasarkan tingkat populasi — tetapi setiap kali revisi hukum sulit dilanjutkan karena "7.748 kelurahan di seluruh negeri terlalu luas".
+Kesenjangan ini pernah diusulkan reformasi — misal sesuaikan bantuan dengan tingkatan populasi — tapi tiap revisi undang-undang karena "tarik 7.748 desa/kelurahan nasional terlalu luas" sulit maju.
 
-**Proporsi perempuan rendah**: Secara tradisional, kepala kelurahan didominasi oleh laki-laki. Partisipasi perempuan di politik dasar Taiwan di tingkat legislatif, dewan kabupaten, dan walikota secara bertahap meningkat, tetapi proporsi perempuan di tingkat kepala kelurahan naik lebih lambat[^21]。Sebabnya kompleks: arena politik tradisional (kuil, koperasi pertanian, keluarga) memiliki hambatan yang lebih tinggi bagi perempuan; beban waktu yang panjang dan tidak teratur dari pekerjaan kepala kelurahan menjadi hambatan struktural bagi perempuan yang bertanggung jawab merawat keluarga; jaringan sumber daya kampanye tradisional didominasi oleh laki-laki.
+**Proporsi perempuan rendah**: kepala desa/kelurahan tradisional laki-laki dominan. Partisipasi perempuan politik dasar Taiwan di tingkat anggota DPRD, DPRD kabupaten/kota, bupati/walikota bertahap naik, tapi tingkat kepala desa/kelurahan kenaikan perempuan lebih lambat[^21]. Alasan kompleks: ruang politik tetangga tradisional (pura, koperasi petani/nelayan, marga) ambang partisipasi perempuan lebih tinggi; jam kerja kepala desa/kelurahan panjang tidak teratur bagi perempuan beban tanggung jawab keluarga lebih berat adalah hambatan struktural; jaringan sumber daya kampanye tradisional didominasi laki-laki.
 
-Dalam beberapa tahun terakhir, semakin banyak kepala kelurahan perempuan muncul di kota — terutama di kalangan muda di Taipei, New Taipei, Taichung — tetapi rata-rata nasional masih rendah.
+Tahun-tahun terakhir wilayah perkotaan muncul semakin banyak perempuan kepala kelurahan — khusus di Taipei, New Taipei, Taichung dll wilayah metropolitan kelurahan muda — tapi rata-rata nasional masih condong rendah.
 
-**Fenomena "kelurahan bayangan"**: Beberapa kelurahan dikritik karena menjadi ekstensi jaringan politik alih-alih menjadi otonomi sebenarnya[^22]。Istilah "kelurahan bayangan" merujuk pada kelurahan di mana kompetisi pemilu hampir tidak ada, kepala kelurahan terus-menerus terpilih selama dua puluh hingga tiga puluh tahun, partisipasi warga dalam rapat kelurahan sangat rendah, dan kantor kelurahan secara praktis dikendalikan oleh jaringan tertentu. Proporsi fenomena ini tidak tinggi, tetapi sering dibahas dalam lingkungan akademisi dan organisasi sipil ketika membicarakan kualitas otonomi dasar.
+**Fenomena "desa orang mainan"**: sebagian desa/kelurahan dikritik sebagai perpanjangan jaringan politik bukan otonomi nyata[^22]. Disebut "desa orang mainan" adalah pemilihan desa/kelurahan hampir tidak ada kompetisi, Amtsinhaber kepengurusan dua puluh tahun, kehadiran rapat warga sangat rendah, kantor kelurahan nyata dikuasai jaringan tertentu. Proporsi fenomena ini tidak tinggi, tapi di akademisi dan LSM diskusi kualitas otonomi dasar disebut berulang.
 
-Upaya reformasi yang sesuai termasuk: mewajibkan pengungkapan harta kepala kelurahan secara transparan (saat ini hanya sebagian dari 7.748 posisi yang wajib melaporkan), memperkenalkan mekanisme evaluasi pelayanan kepala kelurahan, dan memperkuat status hukum rapat warga kelurahan agar warga benar-benar memiliki hak partisipasi. Diskusi ini belum menghasilkan versi revisi hukum yang konsisten di seluruh negeri.
-
----
-
-## Perbandingan Internasional: Kepala Kelurahan yang Sangat Taiwanese
-
-Banyak negara memiliki "unit pemerintahan dasar", tetapi cara kerjanya berbeda.
-
-**Jepang: Ketua Lingkungan Sekitar (organisasi kekeluargaan)** — Lingkungan sekitar Jepang, asosiasi lingkungan, asosiasi lingkungan adalah organisasi kekeluargaan yang tidak menguntungkan, **bukan lapisan resmi pemerintahan**[^\n23]。Ketua lingkungan ditunjuk oleh warga, tidak memiliki kekuatan hukat, dan keanggotaan lingkungan juga bersifat sukarela. Jepang tidak memiliki posisi publik yang setara dengan kepala kelurahan Taiwan — posisi publik yang terpilih secara demokratis paling dasar adalah anggota dewan kelurahan.
-
-**Korea Selatan: Sistem Ketua Lingkungan dan Keluarga** — Di bawah "dong" di Korea ada "tong" dan "ban", ketua tong dan ketua ban dipilih oleh warga atau ditunjuk oleh pemerintah dong[^\n24]。Sistem ini lebih datar dari kepala kelurahan Taiwan, tetapi hak dan sumber daya ketua tong dan ketua ban jauh lebih sedikit dari kepala kelurahan Taiwan.
-
-**Prancis: Kepala desa (maire)** — Kepala desa Prancis memiliki kekuasaan administratif yang nyata, dapat menerbitkan perintah administratif, menerbitkan akte kelahiran dan pernikahan, dan menjalankan anggaran kota[^\n25]。Kepala desa Prancis lebih mirip dengan kepala kelurahan/kelurahan Taiwan, bukan kepala kelurahan.
-
-**Amerika Serikat: Captain Distrik Pemilu (precinct captain)** — Di beberapa negara bagian AS, ada peran captain distrik pemilu, tetapi ini adalah posisi organisasi internal partai, bukan jabatan publik[^\n26]。
-
-Dibandingkan dengan itu, **kepala kelurahan Taiwan adalah campuran yang langka**: secara hukum merupakan jabatan publik yang terpilih secara demokratis, memiliki hak yang spesifik, memiliki anggaran bantuan, dan tersebar di 7.748 lokasi di seluruh negeri; namun juga ditempatkan sebagai "tanpa gaji", bukan pegawai negeri, sangat terkait erat dengan komunitas lokal, dan memiliki warna partai yang redup. Campuran ini mungkin merupakan hasil khusus Taiwan yang mewarisi sistem perlindungan dari masa Jepang, kemudian melalui evolusi otonomi selama delapan puluh tahun.
+Reformasi terkait termasuk: wajib publikasikan harta kekayaan kepala desa/kelurahan (saat ini 7.748 jabatan hanya sebagian wajib lapor), masukkan mekanisme evaluasi pelayanan kepala desa/kelurahan, kuatkan kedudukan hukum rapat warga biar warga punya hak partisipasi nyata. Diskusi ini sampai sekarang belum bentuk revisi undang-undang seragam nasional.
 
 ---
 
-## Observasi pada 2026
+## Perbandingan Internasional: Kepala Desa/Kelurahan Sangat Khas Taiwan
 
-Sebelum hari pemilu pada 28 November 2026, ada beberapa indikator penting dalam pemilu kepala kelurahan yang perlu diperhatikan:
+Banyak negara punya "unit pemerintahan dasar terendah", tapi logika operasi beda-beda.
 
-**Apakah proporsi tidak bergabung dengan partai akan tetap**: Dalam beberapa pemilu kepala kelurahan terakhir, proporsi tidak bergabun dengan partai selalu di atas enam puluh persen. Apakah 2026 akan tetap mempertahankan proporsi ini, akan menjadi uji coba fenomena "pengaruh lokal lebih kuat dari partai" di politik dasar Taiwan.
+**Jepang: Ketua _Jichikai_ (団体)** — _chonaikai_, _jichikai_, _kukai_ Jepang adalah organisasi non-profit berbasis wilayah, **bukan tingkatan pemerintahan resmi**[^23]. Ketua _jichikai_ dipilih warga, tidak punya kekuatan hukum wajib, keikutsertaan _jichikai_ pun sukarela. Jepang tidak punya jabatan "pejabat publik terpilih dasar" yang setara kepala desa/kelurahan Taiwan — pejabat publik terpilih paling dasar adalah anggota DPRD kota/kecamatan.
 
-**Fenomena "kepala kelurahan muda" di kota**: Dalam beberapa tahun terakhir, ada kasus-kasus baru di kota di mana generasi muda berusia 30-40 tahun menantang kepala kelurahan yang sudah berusia 70-an. Kepala kelurahan muda ini biasanya mengelola komunitas melalui media sosial, mengatur pembangunan komunitas, dan mengadakan kegiatan keluarga — berbeda dengan model pelayanan tradisional. Pada 2026, kita akan melihat lebih banyak tantangan ini, terutama di kota Taipei, New Taipei, Taichung, dan Taoyuan.
+**Korea Selatan: Sistem _Tong-Ban-jang_** — _dong_ Korea di bawah ada _tong_ (통) dan _ban_ (반), _tong-jang_, _ban-jang_ dipilih warga atau ditunjuk pemerintah _dong_[^24]. Sistem ini lebih datar dari kepala desa/kelurahan Taiwan, tapi kewenangan dan sumber daya _tong-jang_, _ban-jang_ jauh lebih sedikit dari kepala desa/kelurahan Taiwan.
 
-**Perubahan proporsi kepala kelurahan perempuan**: Apakah proporsi ini bisa melebihi batas historis.
+**Prancis: _maire_ desa** — _maire_ desa Prancis punya kewenangan administrasi nyata, bisa terbit perintah administrasi, tandatangan akta kelahiran pernikahan, eksekusi anggaran kota[^25]. _maire_ Prancis lebih setara tingkat bupati/walikota Taiwan, bukan kepala desa/kelurahan.
 
-**Perpindahan generasi sistem lokal**: Banyak kepala kelurahan saat ini sudah menjadi generasi kedua atau ketiga dari keluarga yang sama (ayah-ana, ayah-putri, suami-isteri). Pada 2026, banyak kepala kelurahan yang sudah berusia di atas tujuh puluh tahun akan pensiun, dan kecepatan dan arah perpindahan generasi perlu diperhatikan.
+**AS: _precinct captain_** — beberapa negara bagian AS _precinct_ punya peran _captain_, tapi ini jabatan organisasi internal partai, bukan jabatan publik pemerintah[^26].
 
-**Kekosongan jabatan di daerah dengan migrasi populasi keluar**: Di daerah seperti Lombok Timur, Yunlin, Miaoli, Nantou, dan seterusnya, di mana migrasi populasi keluar sangat parah, mungkin ada desa yang tidak ada calon. Komisi Pemilihan telah mengumpulkan statistik fenomena ini dalam setiap pemilu — apakah 2026 akan lebih parah?
-
-Ini bukanlah observasi berita, tetapi observasi struktural. Pemilu kepala kelurahan jarang muncul di berita utama, tetapi tren jangka panjangnya menggambarkan denyut nadi otonomi dasar Taiwan.
+Dibandingkan, **kepala desa/kelurahan Taiwan adalah campuran jarang**: kedudukan hukum pejabat terpilih, punya kewenangan konkret, punya bantuan anggaran, 7.748 jabatan merata nasional; tapi diposisikan "jabatan tidak bergaji", tidak dihitung PNS, sangat lokal, warna partai tipis. Campuran ini mungkin hasil khusus Taiwan mewarisi sistem Bao-Jia pendudukan Jepang, lalu delapan puluh tahun evolusi otonomi.
 
 ---
 
-## Kesimpulan: Posisi Politik yang Paling Tidak Terlihat seperti Politik
+## Titik Observasi 2026
 
-Kepala kelurahan adalah **posisi politik yang paling tidak terlihat seperti "politik"** dalam pemilu Taiwan.
+Sebelum hari pemungutan 28 November 2026, pemilihan kepala desa/kelurahan beberapa indikator patut perhatikan:
 
-Tidak ada perdebatan partai, tidak ada dokumen kebijakan putih, tidak ada iklan televisi, dan tidak ada pengungkapan kebijakan secara langsung. Di antara 7.748 posisi dalam satu lembar suara, kepala kelurahan adalah salah satunya — sebagian besar orang hanya memilih dan lalu melupakan siapa yang mereka pilih, tetapi setiap hari ia akan melewati kepala kelurahan di depan rumah.
+**Apakah proporsi tanpa partai tetap pertahankan**: beberapa periode lalu proporsi tanpa partai kepala desa/kelurahan semua di atas enam puluh persen. 2026 apakah masih pertahankan proporsi ini, adalah uji fenomena "aliran lokal lebih besar dari partai" politik dasar Taiwan.
 
-Namun, posisi ini juga merupakan **bukti paling lengkap dari proses demokratisasi Taiwan**. Dari ujung sistem perlindungan kolonial Jepang, penggantian nama setelah perang, pemilihan langsung pada 1950, hingga integrasi hukum pada 1999 — setiap titik sejarah memiliki perwakilan yang dipilih secara demokratis di tingkat dasar. Pemilu kepala kelurahan yang telah berjalan selama delapan puluh tahun tanpa terputus adalah fakta bahwa otonomi Taiwan tumbuh dari dasar ke atas.
+**Fenomena "kepala kelurahan muda" wilayah perkotaan**: tahun-tahun terakhir wilayah perkotaan muncul 30-40 tahun menantang Amtsinhaber 70+ tahun. Kelompok kepala kelurahan muda biasanya pakai media sosial, bangun komunitas, adakan kegiatan keluarga — beda model pelayanan kepala kelurahan tradisional. 2026 akan lihat lebih banyak tantangan ini, khusus di Taipei, New Taipei, Taichung, Taoyuan kawasan metropolitan.
 
-Kesembilan posisi dalam pemilu gabungan, posisi kepala kelurahan hampir tak terlihat. Namun, 7.748 kepala yang terpilih secara demokratis pada hari yang sama, skala ini sulit ditemukan di negara demokrasi lain di Asia — **inilah kepadatan otonomi dasar Taiwan**.
+**Perubahan proporsi perempuan kepala desa/kelurahan**: apakah bisa tembus batas proporsi sejarah.
 
-Pada pagi hari 28 November 2026, ketika Anda masuk ke tempat pemungutan suara, Anda akan menerima sembilan lembar suara berwarna berbeda. Lembar terakhir biasanya adalah kepala kelurahan — nama di lembar suara itu adalah orang yang selama tiga kali terpilih, pukul setengah lima pagi membersihkan sampah, mengirimkan makanan ke tetangga yang hidup sendiri, dan menjawab telepon di tengah malam untuk mengatasi anjing tetangga yang menggonggong.
+**Regenerasi generasi aliran lokal**: banyak Amtsinhaber sudah generasi kedua, ketiga pewarisan keluarga (ayah anak laki-laki, ayah anak perempuan, suami istri bergantian). 2026 banyak Amtsinhaber masuk usia tujuh puluh+, kecepatan dan arah regenerasi generasi patut observasi.
 
-Itu bukan politik. Itu adalah infrastruktur dasar demokrasi Taiwan yang paling dasar, yang berjalan setiap hari selama delapan puluh tahun tanpa berhenti.
+**Kosongnya calon kepala desa wilayah aliran keluar populasi**: Hualien-Taitung, Yunlin-Chiayi, Miaoli, Nantou dll aliran keluar populasi parah pedesaan, beberapa desa mungkin muncul tidak ada calon. KPU periode lalu pernah statistik fenomena ini — 2026 apakah lebih parah?
+
+Ini bukan observasi berita, tapi observasi struktural. Pemilihan kepala desa/kelurahan jarang judul utama, tapi tren jangka panjangnya bicara denyut pemerintahan dasar Taiwan.
 
 ---
 
-**Bacaan Lanjutan**: [Politik Hub](/politics) · [[2026 九合一選舉]] · [[九合一選舉是什麼]] · [[議員制度]] · [[直轄市山地原住民區長]] · [Society Hub](/society)
+## Penutup: Paling Tidak Seperti Politik dari Politik
+
+Kepala desa/kelurahan adalah pemilihan Taiwan **paling tidak seperti "politik" dari jabatan politik**.
+
+Tidak ada debat partai, tidak ada buku putih kebijakan, tidak ada iklan TV, tidak ada siaran langsung full rapat kebijakan. Satu surat suara 7.748 jabatan di antaranya — sebagian besar orang pilih selesai lupa pilih siapa, tapi dia setiap hari di ujung gang bersilang dengan kepala kelurahanmu.
+
+Tapi jabatan ini juga **bukti paling lengkap demokratisasi Taiwan**. Dari ujung kolonial sistem Bao-Jia pendudukan Jepang, pasca perang ganti nama diwarisi, 1950 pemilihan langsung, ke 1999 integrasi hukum — setiap titik sejarah ada wakil terpilih di lapisan paling dasar. Delapan puluh tahun tidak putus pemilihan kepala desa/kelurahan, adalah fakta otonomi Taiwan tumbuh dari paling bawah ke atas.
+
+Kotak kesembilan Pemilihan Sembilan-in-Satu (九合一選舉), biasa sampai hampir tak terlihat. Tapi 7.748 kepala terpilih rakyat serentak diganti, kuantitas ini di badan demokrasi Asia lain tidak ketemu padanan — **inilah kepadatan otonomi dasar Taiwan**.
+
+Pagi hari pemungutan 28 November 2026, saat kamu masuk TPS, akan terima sembilan surat suara warna beda. Yang terakhir biasanya kepala desa/kelurahan — nama di surat suara itu, adalah orang tiga periode sudah jam 5:30 pagi bantu kamu buang sampah, antar nasi kotak buat nenek sebelah, tengah malam terima telepon urus anjing tetangga mengeong.
+
+Itu bukan politik. Itu fondasi demokrasi Taiwan paling dasar, setiap hari beroperasi, delapan puluh tahun tidak berhenti.
+
+---
+
+**Baca Lanjut**: [Politik Hub](/politics) · [Pemilihan 2026 Sembilan-in-Satu (2026 九合一選舉)](/id/politics/2026-local-elections-taiwan/) · [Apa itu Pemilihan Sembilan-in-Satu (九合一選舉是什麼)](/id/politics/nine-in-one-elections-explained/) · [Sistem Anggota DPRD (議員制度)](/id/politics/city-councilor-system-taiwan/) · [Kepala Distrik Pegunungan Asli Kota Administratif (直轄市山地原住民區長)](/id/politics/indigenous-district-chief-system/) · [Masyarakat Hub](/society)
 
 🧬
 
-_v1.0 | 2026-05-27 | Dilahirkan dari arahan Zhixu: Seri Pemilihan 2026 Tier 1.3 — Memberikan ruang bagi sejarah sistem untuk ke-9 dalam pemilihan gabungan._
+_v1.0 | 2026-05-27 | Lahir dari directive 哲宇: seri Pemilihan 2026 Tier 1.3 — sisakan sejarah sistem untuk kotak kesembilan Pemilihan Sembilan-in-Satu._
 
 ## Referensi
 
-[^1]: [Laporan Tahunan Asosiasi Ritel dan Franchise 2024](https://www.cca.org.tw/) — Statistik jumlah toko ritel dan supermarket di seluruh Taiwan
+[^1]: [Laporan Tahunan Asosiasi Rantai & Francais 2024](https://www.cca.org.tw/) — Statistik total toko minimarket dan supermarkt seluruh Taiwan
 
-[^2]: [Komisi Pemilihan Taiwan — Statistik Pemilu](https://web.cec.gov.tw/) — Komisi Pemilihan Taiwan — Statistik Pemilu Sumber resmi
+[^2]: [Komisi Pemilihan Pusat — Statistik Pemilihan Pejabat Publik Lokal Periode-seperti](https://web.cec.gov.tw/) — Komisi Pemilihan Pusat — Statistik Pemilihan Pejabat Publik Lokal Periode-seperti Sumber Data Resmi
 
-[^3]: [Pemilihan Umum Republik Tiongkok (Taiwan) 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Pemilihan Umum Republik Tiongkok (Taiwan) 2026 — Wikipedia Sumber resmi
+[^3]: [Pemilihan Pejabat Publik Lokal Republik Tiongkok 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Pemilihan Pejabat Publik Lokal Republik Tiongkok 2026 — Wikipedia Sumber Data Resmi
 
-[^4]: [Pasal 59-61 Undang-Undang Pemerintahan Daerah — Basis Data Hukum Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Pasal 59-61 Undang-Undang Pemerintahan Daerah — Basis Data Hukum Nasional Sumber resmi
+[^4]: [Pasal 59-61 _Undang-Undang Sistem Lokal_ — Basis Data Hukum Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Pasal 59-61 _Undang-Undang Sistem Lokal_ — Basis Data Hukum Nasional Sumber Data Resmi
 
-[^5]: [Kementerian Dalam Negeri — Data Kepala Kelurahan](https://www.moi.gov.tw/cl.aspx?n=4360) — Kementerian Dalam Negeri — Data Kepala Kelurahan Sumber resmi
+[^5]: [Biro Pemerintahan Kementerian Dalam Negeri — Data Dasar Kepala Desa/Kelurahan](https://www.moi.gov.tw/cl.aspx?n=4360) — Biro Pemerintahan Kementerian Dalam Negeri — Data Dasar Kepala Desa/Kelurahan Sumber Data Resmi
 
-[^6]: [Bantuan Operasional Kepala Kelurahan — Penjelasan Kementerian Dalam Negeri](https://www.moi.gov.tw/) — Sejak 2007, setiap bulan 45.000 TWD
+[^6]: [Undang-Undang Bantuan Biaya Anggota DPRD dan Biaya Urusan Kepala Desa/Kelurahan](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Basis Data Hukum Nasional. Pasal 7 ayat 1: Biaya urusan kepala desa/kelurahan disiapkan oleh kantor kecamatan/kota kecil/kota/kabupaten distrik, tiap desa/kelurahan tiap bulan NT$50.000, desa/kelurahan wilayah asli tiap bulan tambah dua puluh persen; tunjangan tiap tahun kenaikan bersamaan disesuaikan proporsi sama, jumlah setelah disesuaikan dan tanggal efektif diumumkan Kementerian Dalam Negeri.
 
-[^7]: [Hari-hari Kepala Kelurahan — Laporan The Reporter](https://www.twreporter.org/) — Seri khusus pekerjaan sehari-hari kepala kelurahan
+[^7]: [Sehari Kepala Kelurahan — The Reporter](https://www.twreporter.org/) — Seri khas pekerjaan harian kepala desa/kelurahan
 
-[^8]: [Hak dan Praktik Kepala Kelurahan — Kementerian Dalam Negeri](https://www.moi.gov.tw/) — Penjelasan hak yang diatur dan tugas yang diberikan
+[^8]: [Kewenangan dan Praktik Kepala Desa/Kelurahan — Biro Pemerintahan Kementerian Dalam Negeri](https://www.moi.gov.tw/) — Penjelasan kewenangan hukum dan tugas penugasan
 
-[^9]: [Kementerian Dalam Negeri — Indeks Penuaan Penduduk](https://www.moi.gov.tw/stat/) — Persentase penduduk usia 65 tahun ke atas dan rasio ketergantungan
+[^9]: [Biro Statistik Kementerian Dalam Negeri — Indeks Penuaan Populasi](https://www.moi.gov.tw/stat/) — Proporsi populasi 65+ Taiwan dan rasio ketergantungan
 
-[^10]: [Komisi Pemilihan Taiwan — Penetapan Lokasi Pemungutan Suara](https://web.cec.gov.tw/) — Prinsip dan jumlah total lokasi pemungutan suara di seluruh negeri
+[^10]: [Komisi Pemilihan Pusat — Penetapan TPS](https://web.cec.gov.tw/) — Total TPS nasional dan prinsip penetapan
 
-[^11]: [Sistem Perlindungan di Taiwan — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Sejarah sistem perlindungan dari 1898 hingga 1945
+[^11]: [Sistem Bao-Jia (Taiwan) — Wikipedia](<https://zh.wikipedia.org/wiki/保甲制度_(臺灣)>) — Evolusi sistem 1898-1945 masa pendudukan Jepang
 
-[^12]: [Sistem Perlindungan Taiwan pada Masa Jepang — Arsip Sejarah Nasional Taiwan](https://www.th.gov.tw/) — Sistem Perlindungan Taiwan pada Masa Jepang — Arsip Sejarah Nasional Taiwan Sumber resmi
+[^12]: [Sistem Bao-Jia Taiwan Masa Pendudukan Jepang — Arsip Nasional Taiwan Museum Sejarah](https://www.th.gov.tw/) — Sistem Bao-Jia Taiwan Masa Pendudukan Jepang — Arsip Nasional Taiwan Museum Sejarah Sumber Data Resmi
 
-[^13]: [Otonomi Daerah Provinsi Taiwan — Arsip Pengelolaan Dokumen Kementerian Pengembangan Nasional](https://www.archives.gov.tw/) — Sejarah reformasi desa/kelurahan 1946 dan pemilihan langsung 1950
+[^13]: [Otonomi Daerah Provinsi Taiwan — Arsip Manajemen Komisi Pengembangan Nasional](https://www.archives.gov.tw/) — Arsip reformasi desa/kelurahan 1946 dan pemilihan langsung 1950
 
-[^14]: [Pemilihan Umum Pertama Bupati/Walikota Provinsi Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Sejarah pemilihan langsung bupati/walikota 1950
+[^14]: [Pemilihan Bupati/Walikota Pertama Provinsi Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣省第一屆縣市長選舉) — Evolusi pemilihan langsung bupati/walikota 1950
 
-[^15]: [Sistem Lokal dan Politik Dasar — Penelitian Kepala Keluarga Politik Wang](https://www.airitilibrary.com/) — Analisis akademis tentang partai dan tingkat kemenangan kepala kelurahan
+[^15]: [Aliran Lokal dan Politik Dasar — Penelitian Politik Lokal Wang Ye-li](https://www.airitilibrary.com/) — Analisis akademis partai dan tingkat kepengurusan kembali kepala desa/kelurahan
 
-[^16]: [Kementerian Dalam Negeri — Statistik Tingkat Populasi Desa/Kelurahan](https://www.moi.gov.tw/) — Perbedaan skala populasi antara kelurahan kota dan desa pedesaan
+[^16]: [Kementerian Dalam Negeri — Statistik Tingkatan Populasi Desa/Kelurahan](https://www.moi.gov.tw/) — Perbedaan skala populasi kelurahan perkotaan dan desa pedesaan
 
-[^17]: [Otonomi Daerah Taiwan — Liu Jielun](https://www.taaze.tw/) — Sistem lokal, keluarga, komite pengelola kuil, dan pemilu dasar
+[^17]: [Otonomi Daerah Taiwan — Liu Jie-lun](https://www.taaze.tw/) — Aliran lokal, marga, pengurus pura dengan pemilihan dasar
 
-[^18]: [Pedoman Bantuan Operasional dan Kegiatan Desa/Kelurahan Pemerintah Kabupaten/Kota](https://law.moj.gov.tw/) — Ketentuan alokasi bantuan kegiatan desa/kelurahan di setiap kabupaten/kota
+[^18]: [Pedoman Bantuan Urusan Desa/Kelurahan Pemerintah Kabupaten/Kota](https://law.moj.gov.tw/) — Ketentuan penyusunan bantuan kegiatan desa/kelurahan tiap kabupaten/kota
 
-[^19]: [Undang-Undang Biaya dan Bantuan Operasional Perwakilan Rakyat Daerah dan Bantuan Operasional Kepala Kelurahan](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040039) — Standar pembayaran biaya anggota dewan kabupaten
+[^19]: [Undang-Undang Bantuan Biaya Anggota DPRD dan Biaya Urusan Kepala Desa/Kelurahan](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Standar pembayaran biaya penelitian anggota DPRD dll (Pasal 5 lampiran)
 
-[^20]: [Perbedaan Beban Kerja Antara Kelurahan Kota dan Desa Pedesaan — Laporan Investigasi Pengawasan](https://www.cy.gov.tw/) — Perbedaan beban kerja antara kelurahan kota dan desa pedesaan — Laporan Investigasi Pengawasan Sumber resmi
+[^20]: [Kesenjangan Volume Urusan Desa/Kelurahan Metropolitan dan Pedesaan — Laporan Investigasi BPK](https://www.cy.gov.tw/) — Kesenjangan Volume Urusan Desa/Kelurahan Metropolitan dan Pedesaan — Laporan Investigasi BPK Sumber Data Resmi
 
-[^21]: [Perubahan Proporsi Kepala Kelurahan Perempuan — Komite Kesetaraan Gender Kantor Pemerintahan](https://gec.ey.gov.tw/) — Perubahan proporsi kepala kelurahan perempuan — Komite Kesetaraan Gender Kantor Pemerintahan Sumber resmi
+[^21]: [Perubahan Proporsi Perempuan Kepala Desa/Kelurahan — RapBN Kesebanggaan Gender](https://gec.ey.gov.tw/) — Perubahan Proporsi Perempuan Kepala Desa/Kelurahan — RapBN Kesebanggaan Gender Sumber Data Resmi
 
-[^22]: [Kualitas Otonomi Dasar dan Partisipasi Warga — Initium Media](https://theinitium.com/) — Kualitas otonomi dasar dan partisipasi warga — Initium Media Sumber resmi
+[^22]: [Kualitas Otonomi Dasar dan Partisipasi Warga — The Initium](https://theinitium.com/) — Kualitas Otonomi Dasar dan Partisipasi Warga — The Initium Sumber Data Resmi
 
-[^23]: [Lingkungan Sekitar Jepang — Kementerian Internal dan Komunikasi](https://www.soumu.go.jp/) — Lingkungan Sekitar Jepang — Kementerian Internal dan Komunikasi Sumber resmi
+[^23]: [Chonaikai Jepang — Kementerian Dalam Negeri dan Komunikasi](https://www.soumu.go.jp/) — Chonaikai Jepang — Kementerian Dalam Negeri dan Komunikasi Sumber Data Resmi
 
-[^24]: [Sistem Ketua Tong/Ban Korea Selatan — Kementerian Internal dan Keamanan](https://www.mois.go.kr/) — Sistem Ketua Tong/Ban Korea Selatan — Kementerian Internal dan Keamanan Sumber resmi
+[^24]: [Sistem Tong-Ban-jang Korea — Kementerian Administrasi dan Keamanan](https://www.mois.go.kr/) — Sistem Tong-Ban-jang Korea — Kementerian Administrasi dan Keamanan Sumber Data Resmi
 
-[^25]: [Kepala Desa di Prancis — Layanan Pemerintah](https://www.service-public.fr/) — Kepala Desa di Prancis — Layanan Pemerintah Sumber resmi
+[^25]: [Maire Prancis — Service-Public](https://www.service-public.fr/) — Maire Prancis — Service-Public Sumber Data Resmi
 
-[^26]: [Captain Distrik Pemilu — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Captain Distrik Pemilu — Ballotpedia Sumber resmi
+[^26]: [Precinct Captain — Ballotpedia](https://ballotpedia.org/Precinct_captain) — Precinct Captain — Ballotpedia Sumber Data Resmi
+
+[^27]: [Undang-Undang Bantuan Biaya Anggota DPRD dan Biaya Urusan Kepala Desa/Kelurahan — Riwayat](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020039) — Riwayat revisi Basis Data Hukum Nasional. Tahun Minguo 111 4 Mei revisi 공포 Pasal 7, 10, di mana Pasal 7 berlaku 111 Tahun 12 Bulan 25 Hari, yaitu kali itu NT$45.000 diubah NT$50.000; revisi terbaru Tahun Minguo 113 6 Bulan 19 Hari, berlaku Tahun Minguo 114 1 Bulan 1 Hari.
+
+[^28]: [Sesuai Kenaikan Gaji PNS/TNI/Polri! Kementerian Dalam Negeri Tingkatkan Bantuan Asisten Anggota DPRD dan Kepala Desa/Kelurahan Berlaku 7/1 Tahun Depan 1 Januari Lagi Naik 4% — Kementerian Dalam Negeri](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Biro Pemerintahan Kementerian Dalam Negeri 16 Juli 2026 rilis pers: biaya urusan kepala desa/kelurahan tiap desa/kelurahan tiap bulan dari NT$50.000 pada 1 Juli dinaikkan jadi NT$54.000, 1 Januari 2027 dinaikkan lagi jadi NT$56.160; wilayah asli karena tambahan perlindungan dari NT$60.000 dinaikkan jadi NT$64.800, 1 Januari 2027 lagi jadi NT$67.392. Dana yang dibutuhkan disiapkan APBN tambahan sekitar NT$300 juta oleh Eksekutif, harus disetujui Legislatif.

@@ -1,6 +1,6 @@
 ---
-title: 'Xiao Bei Department Store: Raja Toko Serba Ada Taiwan di Tengah Lampu Malam, dari Warung Hasil Laut ke "Penyelamat Orang Tua" Selama Tiga Puluh Tahun'
-description: 'Bermula dari Pasar Malam Xiao Bei Tainan pada 1994, Xiao Bei Department Store bertransformasi dari toko hasil laut yang hampir bangkrut menjadi pemimpin perlengkapan keras dengan lebih dari 190 cabang di seluruh Taiwan, berkat strategi "beroperasi 24 jam" dan "menjual barang yang tidak dijual orang lain". Ia adalah penyelamat orang tua di malam hari, stasiun pengisi kangen bagi pekerja migran, serta keajaiban kelangsungan hidup paling tangguh di industri ritel Taiwan.'
+title: 'Xiaobei Department Store: Raja Kelontong Taiwan di Bawah Cahaya Malam, Tiga Dekade dari Kedai Hasil Laut hingga Menjadi "Penyelamat Orang Tua"'
+description: 'Berawal dari pasar malam Xiaobei di Tainan pada 1994, Xiaobei Department Store bertransformasi dari kedai hasil laut yang hampir bangkrut menjadi pemimpin ritel perangkat keras dengan lebih dari 190 gerai di Taiwan melalui strategi "buka 24 jam" dan "menjual barang yang tidak dijual orang lain". Ia adalah penyelamat bagi orang tua di larut malam, pusat kebutuhan nostalgia bagi pekerja migran, dan keajaiban kelangsungan hidup paling tangguh dalam industri ritel Taiwan.'
 date: 2026-07-25
 category: 'Lifestyle'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Industri Ritel',
     'Tainan',
     'Kisah Kewirausahaan',
-    'Perlengkapan Keras & Serba Ada',
+    'Perangkat Keras & Kelontong',
     'Transformasi Digital',
   ]
 subcategory: '城市生活'
@@ -19,74 +19,72 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Lifestyle/小北百貨.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:93955fe44e7691af'
-sourceBodyHash: 'sha256:08eacf8247ffcb10'
-translatedAt: '2026-08-05T00:31:24+08:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:467f31dc16bf0585'
+sourceBodyHash: 'sha256:e7e9b90b62c01f0a'
+translatedAt: '2026-11-03T04:50:37+08:00'
 ---
 
-> **Ringkasan Tiga Puluh Detik:** Pada 1994, sebuah toko hasil laut di Pasar Malam Xiao Bei Tainan mengalami kesulitan usaha, pendiri Huang Bu-wen memutuskan menginvestasikan 1 juta Yuan terakhirnya untuk mengubahnya menjadi toko perlengkapan keras dan serba ada. Berkat kebetulan seorang pelanggan mengetuk pintu tengah malam meminta bantuan, Xiao Bei memulai model ritel perlengkapan keras 24 jam pertama di Taiwan. Toko ini tidak mengejar 'efisiensi per meter persegi' ritel modern, justru mempertahankan barang-barang jarang laris dengan tingkat putar sangat rendah, dari komponen air dan listrik profesional hingga kaset rekaman. Kini, di bawah kepemimpinan generasi kedua, Xiao Bei mengalami sakit tumbuh dan kelahiran baru dalam transformasi digital, berusaha mempertahankan 'kenyamanan berbau kemanusiaan' di era e-dagang.
+> **Ringkasan 30 Detik:** Pada tahun 1994, sebuah kedai hasil laut di Pasar Malam Xiaobei, Tainan, mengalami kesulitan manajemen. Pendirinya, Huang Pu-wen (黃卜文), memutuskan untuk menginvestasikan sisa modal sebesar NT$1 juta untuk mengubahnya menjadi toko kelontong perangkat keras. Berkat sebuah kejadian tidak sengaja saat pelanggan mengetuk pintu di larut malam untuk meminta bantuan, Xiaobei mempelopori model ritel perangkat keras 24 jam pertama di Taiwan. Toko ini tidak mengejar "efisiensi per meter persegi" seperti ritel modern, melainkan bersikeras mempertahankan barang-barang langka dengan tingkat perputaran rendah, mulai dari suku cadang listrik profesional hingga kaset rekaman. Kini, di bawah kepemimpinan generasi kedua, Xiaobei sedang menjalani masa transisi digital yang penuh tantangan demi menjaga "kenyamanan yang manusiawi" di era e-commerce.
 
-### Dari Restoran Hasil Laut ke Perlengkapan Keras & Serba Ada: Transformasi Gemilang
+### Transformasi Spektakuler dari Tumis Seafood ke Departemen Perangkat Keras
 
-Pasar Malam Xiao Bei Tainan pada era 1990-an adalah tempat berkumpulnya makanan dan keramaian. Saat itu, Huang Bu-wen yang menderita polio bersama saudara-saudaranya mengelola restoran hasil laut di sana. Meskipun usaha pernah ramai, keuntungan berangsur-angsur menurun seiring semakin ketatnya persaingan pasar kuliner[^1]. Pada 1994, Huang Bu-wen menghadapi krisis terbesar sejak berwirausaha. Ia memutuskan menutup toko hasil laut, menginvestasikan dana tersisa 1 juta Yuan, mendirikan rak sederhana di lokasi yang sama, beralih menjual perlengkapan keras dan serba ada murah, dan menamainya "Xiao Bei Department Store" mengikuti nama pasar malam tersebut[^2].
+Pasar Malam Xiaobei di Tainan pada tahun 1990-an adalah pusat kuliner dan keramaian. Saat itu, Huang Pu-wen (黃卜文), yang menderita polio, mengelola kedai tumis seafood bersama saudara-saudaranya. Meskipun bisnis sempat berkembang pesat, keuntungan perlahan menurun seiring dengan persaingan pasar kuliner yang semakin ketat[^1]. Pada tahun 1994, Huang menghadapi krisis terbesar sejak memulai usahanya. Ia memutuskan untuk menutup kedai hasil laut tersebut dan menginvestasikan sisa modal NT$1 juta untuk mendirikan struktur atap sederhana di lokasi yang sama, beralih menjual barang kelontong perangkat keras dengan harga terjangkau, dan menggunakan nama pasar malam tersebut sebagai nama tokonya, "Xiaobei Department Store" (小北百貨)[^2].
 
-Hari-hari awal beralih usaha tidak mudah. Huang Bu-wen pernah dijajah pencuri, menderita kerugian barang hingga 500 ribu Yuan. Untuk melindungi keringatnya, ia memutuskan tidur di dalam toko. Suatu malam, ketukan pintu yang keras membangunkan tidurnya, ternyata ada pelanggan yang sangat membutuhkan barang keperluan harian. Pengalaman 'membuka toko tengah malam' ini memberi inspirasi pada Huang Bu-wen: jika minimarket bisa beroperasi 24 jam, mengapa toko perlengkapan keras tidak bisa?[^3] Adiknya, Huang Yi-hong, kemudian mengingat rahasia kesuksesan ini dengan nada santai namun penuh tekad:
+Masa-masa awal peralihan profesi tidaklah mudah. Huang pernah mengalami pencurian yang menyebabkan kerugian barang hingga NT$500.000. Untuk melindungi kerja kerasnya, ia memutuskan untuk tidur langsung di dalam toko. Suatu malam, suara ketukan pintu yang mendesak membangunkannya; ternyata ada pelanggan yang sangat membutuhkan barang kebutuhan sehari-hari. Pengalaman "membuka pintu di larut malam" ini memberikan inspirasi bagi Huang: jika minimarket bisa beroperasi 24 jam, mengapa toko perangkat keras tidak bisa?[^3] Adiknya, Huang Yi-hung (黃義弘), kemudian mengenang rahasia kesuksesan ini dengan nada santai namun tegas:
 
-> "Karena kami selalu melakukan hal yang orang lain tidak mau lakukan, menjual barang yang orang lain tidak mau jual, mempertahankan bakat yang orang lain tidak bisa pertahankan!"[^6]
+> "Karena kami selalu melakukan apa yang orang lain tidak ingin lakukan, menjual apa yang orang lain tidak ingin jual, dan mempertahankan talenta yang tidak bisa dipertahankan orang lain!"[^6]
 
-📝 Catatan Kurator: Kesuksesan Xiao Bei Department Store tidak datang dari prediksi big data yang cermat, melainkan dari respons paling intuitif seorang wirausahawan terhadap kebutuhan 'manusia' di tengah kesulitan.
+📝 Catatan Kurator: Kesuksesan Xiaobei Department Store bukan berasal dari prediksi big data yang canggih, melainkan dari respons intuitif seorang wirausahawan terhadap kebutuhan "manusia" di tengah kesulitan.
 
-### 'Penyelamat Orang Tua' yang Tak Tutup 24 Jam
+### "Penyelamat Orang Tua" yang Buka 24 Jam Tanpa Henti
 
-Di platform media sosial Taiwan, gelar paling sering dikaitkan dengan Xiao Bei Department Store adalah 'Penyelamat Orang Tua'. Banyak orang tua mengalami hal serupa: tengah malam, tiba-tiba anak ingat besok butuh kertas warna, suling, atau tali lompat untuk pelajaran seni dan kerajinan, saat kebanyakan toko sudah tutup, Xiao Bei Department Store yang lampunya menyala terang benderang menjadi satu-satunya harapan[^9]. Fungsi sosial 'penyelamat darurat' ini membangun ikatan emosional yang sangat kuat bagi Xiao Bei Department Store di pasar ritel Taiwan[^4].
+Di platform media sosial Taiwan, julukan yang paling sering disematkan pada Xiaobei Department Store adalah "Penyelamat Orang Tua". Banyak orang tua memiliki pengalaman serupa: di larut malam, anak mereka tiba-tiba teringat membutuhkan kertas warna, rekorder, atau tali skipping untuk pelajaran seni besok pagi. Di saat sebagian besar toko sudah tutup, cahaya terang dari Xiaobei Department Store menjadi satu-satunya harapan[^9]. Fungsi sosial "penolong darurat" ini membangun ikatan emosional yang sangat tinggi di pasar ritel Taiwan[^4].
 
-Filsafat penataan Xiao Bei Department Store bertentangan dengan kejar 'efisiensi per meter persegi' minimarket modern. Mereka bertahan pada 'menjual barang yang tidak dijual orang lain', bahkan untuk barang-barang jarang laris dengan tingkat putar sangat rendah, yang mungkin hanya terjual beberapa unit per tahun—seperti kaset rekaman, aksesoris toilet spesifik, apron nelayan, hingga nampan beras untuk upacara pernikahan—pastikan stok tersedia di toko[^5]. Para manajer toko mengenal barang-barang jarang laris ini seperti telapak tangan; saat pelanggan menanyakan 'ma-ta' (ejaan bahasa Taiwan untuk 'bola bisbol/batting bat'), staf bisa segera menunjuk lokasinya di lantai berapa, rak berapa[^5].
+Filosofi pemajangan barang Xiaobei Department Store bertolak belakang dengan "efisiensi per meter persegi" yang dikejar supermarket modern. Mereka bersikeras "menjual barang yang tidak dijual orang lain". Meskipun barang tersebut memiliki tingkat perputaran yang sangat rendah dan hanya terjual beberapa buah dalam setahun—seperti kaset rekaman, aksesori toilet spesifikasi khusus, celemek nelayan, bahkan saringan beras untuk upacara pernikahan—toko ini pasti menyediakannya dalam stok[^5]. Para manajer toko sangat menguasai barang-barang langka ini; ketika pelanggan menanyakan "madda" (罵瘩 - pemukul/tongkat) dalam dialek Hokkien, staf dapat segera menyebutkan posisi persisnya di lantai dan baris mana[^5].
 
-| Kategori                           | Contoh Barang Jarang Laris                                             | Fungsi Sosial                                                    |
-| ---------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Alat Tulis & Kerajinan**         | Suling, tali lompat, kertas warna, kertas berukuran besar (da zhi bao) | Menyelesaikan krisis 'besok harus dikumpulkan' siswa             |
-| **Perlengkapan Keras Profesional** | Aksesoris toilet spesifik, sikat cuci lengkung, tas ayam tungku tanah  | Memenuhi kebutuhan perbaikan air/listrik dan memasak tradisional |
-| **Barang Kebutuhan Sehari-hari**   | Kaset rekaman, nampan beras, jas hujan plastik 9 Yuan                  | Melayani lansia dan melestarikan kebiasaan tradisional           |
+| Kategori                        | Barang Langka Representatif                                                          | Fungsi Sosial                                                    |
+| :------------------------------ | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------- |
+| **Alat Tulis & Kerajinan**      | Rekorder, tali skipping, kertas warna, poster besar                                  | Menyelesaikan krisis "harus dikumpulkan besok" bagi siswa        |
+| **Perangkat Keras Profesional** | Aksesori toilet spesifikasi khusus, sikat cuci melengkung, kantong ayam tungku tanah | Memenuhi kebutuhan perbaikan listrik/air dan memasak tradisional |
+| **Kelontong Rumah Tangga**      | Kaset rekaman, saringan beras, jas hujan plastik NT$9                                | Melayani lansia dan menjaga tradisi adat                         |
 
-### Biarkan Orang yang Mendengar Suara Meriam yang Membuat Keputusan
+### Pengambilan Keputusan oleh Mereka yang Mendengar Suara Perang
 
-Berbeda dengan banyak sistem rantai yang sangat bergantung pada manajemen sentralisasi, Xiao Bei Department Store memberikan otonomi besar kepada manajer toko. Di Xiao Bei, proporsi karyawan tetap melebihi 90%, dan manajer toko kebanyakan adalah karyawan senior, bahkan memiliki saham cabang[^6]. Saat hidup, Huang Bu-wen memiliki standar rekrutmen unik: ia menambahkan 1.000 Yuan ekstra ke dalam amplop gaji, menguji apakah karyawan akan mengembalikannya dengan sukarela, guna menyaring kader yang jujur dan dapat dipercaya[^3].
+Berbeda dengan banyak sistem rantai toko yang sangat bergantung pada manajemen terpusat, Xiaobei Department Store memberikan wewenang besar kepada manajer toko. Di Xiaobei, proporsi karyawan tetap melebihi 90%, dan sebagian besar manajer adalah karyawan senior yang bahkan memiliki saham di gerai tersebut[^6]. Semasa hidupnya, Huang Pu-wen memiliki standar pemilihan bakat yang unik: ia akan memasukkan tambahan NT$1.000 ke dalam amplop gaji untuk menguji apakah karyawan akan mengembalikannya secara sukarela, guna memilih kader yang jujur dan dapat dipercaya[^3].
 
-Gaya manajemen 'manusia sebagai pusat' ini tercermin dalam pengoperasian yang terdiferensiasi di setiap cabang. Misalnya, cabang dekat kawasan industri akan memperbanyak stok sampo pewangi kuat yang disukai pekerja migran asing; sedangkan cabang dekat kawasan sekolah akan menempatkan alat tulis dan perlengkapan kerajinan di posisi paling terlihat. Bahkan tradisi 'layanan bawa air' (membantu pelanggan membawa kotak air ke mobil) yang memberatkan karyawan, juga dianggap sebagai semangat perusahaan yang tak tergoyahkan[^15].
+Metode manajemen "berbasis manusia" ini tercermin dalam diferensiasi operasional di setiap toko. Misalnya, gerai yang berdekatan dengan kawasan industri akan memperkuat stok sampo wangi yang kuat yang disukai pekerja migran; sementara gerai di dekat area sekolah akan menempatkan alat tulis dan peralatan kerajinan di posisi yang paling mencolok. Bahkan tradisi "layanan angkut air" (membantu pelanggan mengangkat kotak air ke mobil), yang merupakan beban fisik bagi karyawan, dianggap sebagai semangat perusahaan yang tidak tergoyahkan[^15].
 
-### Sakit Tumbuh dan Visi Digital 'Jenderal Muda'
+### Tantangan Digital dan Visi Sang Jenderal Muda
 
-Pada 2017, pendiri Huang Bu-wen meninggal dunia mendadak akibat infark miokard, berusia 54 tahun[^7]. Tahun berikutnya, generasi kedua Huang Chien-tang, berusia 28 tahun, menjabat Direktur Umum, memulai jalan transformasi digital toko perlengkapan keras tradisional ini. Ini adalah tantangan 'melompati level': Xiao Bei melewati kartu member fisik, langsung mendorong sistem keanggotaan berbasis aplikasi digital, dan saat ini jumlah member telah melebihi 1,5 juta orang[^4][^16].
+Pada tahun 2017, pendiri Huang Pu-wen meninggal dunia secara mendadak akibat serangan jantung pada usia 54 tahun[^7]. Tahun berikutnya, generasi kedua Huang Chien-tang (黃健瑭) mengambil alih posisi General Manager pada usia 28 tahun, memulai jalan digitalisasi bagi toko perangkat keras tradisional ini. Ini adalah tantangan "melompati level": Xiaobei melewati penggunaan kartu anggota fisik dan langsung mendorong sistem keanggotaan aplikasi digital, yang saat ini jumlah anggotanya telah melampaui 1,5 juta orang[^4][^16].
 
-Namun, tantangan terbesar pewarisan bukan pada sistem, melainkan pada komunikasi dengan generasi ayah. Huang Chien-tang pernah berkata tegas:
+Namun, tantangan terbesar dalam suksesi bukanlah pada sistem, melainkan komunikasi dengan generasi pendahulu. Huang Chien-tang pernah berujar jujur:
 
-> "Keputusan paman-paman 90% benar barulah ada hari ini, tapi sekarang zaman sudah berbeda."[^15]
+> "90% penilaian Paman benar sehingga kita bisa sampai di titik ini, tetapi sekarang zamannya sudah berbeda."[^15]
 
-Menghadapi Poya meluncurkan 'Poya Home' sebagai tantangan, Huang Chien-tang sisi satu menginvestasikan 1 miliar Yuan untuk membangun pusat logistik pintar di Hukou, Xinzhu, sisi lain mempertahankan item-item 'tidak untung tapi melayani manusia'. Ia menolak meniru pesaing yang membatalkan layanan bungkus barang, berpendapat saat orang lain mengejar efisiensi dengan mengorbankan layanan, 'berbuat sedikit lebih' justru menjadi keunggulan kompetitif diferensiasi terkuat Xiao Bei[^15].
+Menghadapi persaingan dari Poya (寶雅) yang mendirikan "Poya Jia" (寶家), Huang Chien-tang di satu sisi menginvestasikan NT$1 miliar untuk membangun pusat logistik cerdas di Hukou, Hsinchu, dan di sisi lain tetap bersikeras mempertahankan item-item yang "tidak menghasilkan uang tetapi dapat melayani orang". Ia menolak meniru kompetitor dengan menghapus layanan pengemasan barang, karena ia percaya saat orang lain mengejar efisiensi dengan mengorbankan layanan, prinsip Xiaobei untuk "melakukan sedikit lebih banyak" justru menjadi keunggulan kompetitif yang paling kuat[^15].
 
-📝 Catatan Kurator: Saat industri ritel kontemporer berbicara soal AI dan otomatisasi, Xiao Bei Department Store justru membuktikan dengan cara 'paling konvensional': selama kau bisa memecahkan kesulitan mendadak orang lain, kaulah keberadaan yang tak tergantikan.
+📝 Catatan Kurator: Ketika industri ritel kontemporer sibuk membicarakan AI dan otomatisasi, Xiaobei Department Store membuktikan dengan cara yang paling "tradisional": selama Anda dapat menyelesaikan kesulitan orang lain, Anda akan menjadi entitas yang tak tergantikan.
 
 ### Referensi
 
-## Footnotes
+[^1]: [Xiaobei Department Store - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) — Entri Wikipedia
 
-[^1]: [Xiao Bei Department Store - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) — Lihat sumber asli pada tautan
+[^2]: [Tentang Pendirian Yayasan Amal Xiaobei](https://www.showba.com.tw/foundation_page) — Lihat detail tambahan dalam tautan asli
 
-[^2]: [Tentang Pendirian Yayasan Amal Xiao Bei](https://www.showba.com.tw/foundation_page) — Lihat sumber asli pada tautan
+[^3]: [Barang Kecil Berjasa Besar: Legenda Awal Xiaobei Department Store - Caixun Biweekly](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) — Lihat detail tambahan dalam tautan asli
 
-[^3]: [Barang Kecil Meraih Jasa Besar: Legenda Berdirinya Xiao Bei Department Store - Majalah CaiXin Dwi Mingguan](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) — Lihat sumber asli pada tautan
+[^6]: ["Hanya Mengambil Bisnis yang Orang Lain Tidak Mau": Wafatnya Pendiri Xiaobei Department Store, Huang Pu-wen - The News Lens](https://www.thenewslens.com/article/81726) — Lihat detail tambahan dalam tautan asli
 
-[^6]: ["Hanya Mengambil Bisnis yang Orang Lain Tak Mau" — Pendiri Xiao Bei Department Store Huang Bu-wen Meninggal - The News Lens](https://www.thenewslens.com/article/81726) — Lihat sumber asli pada tautan
+[^9]: [Xiaobei Department Store "Top 10 Produk Terlaris" Dirilis! Pelanggan Jepang Borong 2 Barang - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) — Lihat detail tambahan dalam tautan asli
 
-[^9]: [Xiao Bei Department Store "Top 10 Produk Terlaris" Keluar! Pelanggan Jepang Sapu 2 Barang - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) — Lihat sumber asli pada tautan
+[^4]: [Dari Toko Perangkat Keras Menjadi "Don Quijote Versi Taiwan", Apa Kekuatan Xiaobei Department Store? - Manager](https://www.managertoday.com.tw/articles/view/70262) — Lihat detail tambahan dalam tautan asli
 
-[^4]: [Dari Toko Perlengkapan Keras Menjadi "Don Quijote Versi Taiwan", Apa Modal Xiao Bei Department Store? - Manajer](https://www.managertoday.com.tw/articles/view/70262) — Lihat sumber asli pada tautan
+[^5]: [Legenda Raja Kelontong Taiwan - Business Weekly](https://www.businessweekly.com.tw/business/indep/38576) — Laporan Business Weekly
 
-[^5]: [Legenda Raja Toko Serba Ada Taiwan - Majalah Bisnis Mingguan](https://www.businessweekly.com.tw/business/indep/38576) — Lihat sumber asli pada tautan
+[^15]: [Jenderal Muda Xiaobei Department Store, Huang Chien-tang Mengembangkan Semangat "Menjual Segalanya" - Economic Daily News](https://money.udn.com/money/story/123622/9074721) — Laporan Economic Daily News
 
-[^15]: [Jenderal Muda Xiao Bei Department Store: Huang Chien-tang Mengembangkan Semangat 'Menjual Segalanya' - Economic Daily News](https://money.udn.com/money/story/123622/9074721) — Lihat sumber asli pada tautan
+[^7]: [Kabar Mengejutkan Wafatnya Pendiri Xiaobei Department Store pada Usia 54 Tahun - Yahoo News](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) — Laporan Yahoo News
 
-[^7]: [Pendiri Xiao Bei Department Store Meninggal Mendadak, Berusia 54 Tahun - Yahoo Kimo News](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) — Lihat sumber asli pada tautan
-
-[^16]: [Xiao Bei Department Store Tumbuh Melawan Arus di Masa Pandemi, Digitalisasi Memperluas Garis Depan Ritel Fisik - Hsu Shih Pao](https://sunrisemedium.com/p/53/showba-digital-transformation) — Lihat sumber asli pada tautan
+[^16]: [Xiaobei Department Store Tumbuh Melawan Arus Pandemi, Ekspansi Digital di Garis Depan Ritel Fisik - Asahi Shimbun](https://sunrisemedium.com/p/53/showba-digital-transformation) — Lihat detail tambahan dalam tautan asli
