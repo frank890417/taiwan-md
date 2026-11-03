@@ -3,13 +3,30 @@ category: daily-life
 fork_type: semantic
 
 display:
-  taiwan: 向下相容
-  china: 向後兼容
+  taiwan: 向後相容 / 向下相容 / 回溯相容
+  china: 向後兼容 / 向下兼容 / 回溯兼容
 
-notes: ''
+english: backward compatibility
+
+notes: |
+  兩岸分歧的那個字是「相容」與「兼容」，不是方向詞。台灣講向後相容、向下相容、
+  回溯相容，三個都在用；中國對應的是向後兼容、向下兼容、回溯兼容。方向詞
+  （向後／向下／回溯）兩邊都有，換掉它不會讓句子變成對岸的講法，換掉
+  「相容／兼容」才會。
+
+  2026-11-03 修正：本條原本台灣欄寫「向下相容」、中國欄寫「向後兼容」，把方向詞
+  跟相容／兼容兩件事混在同一格，讀起來像是台灣說向下、中國說向後。讀者劉恩哲在
+  站上指出這點（[issue #1949](https://github.com/frank890417/taiwan-md/issues/1949)），
+  他是對的。2026-07-10 那輪 LLM 詞庫複審也標了這條 `MAPPING_WRONG`，但它給的
+  建議是「台灣『向後兼容』／中國『向下兼容』」——那會把台灣欄換成對岸的「兼容」，
+  正好是這個詞庫存在目的的反面（REFLEXES #16 sovereignty 延伸）。
+
+  轉換器實際攔得住含「兼容」的字串靠的是 `相容.yaml` 那條通則，本條提供的是
+  這個詞自己的對照頁。
 
 sources:
   - 'fanhuaji-config'
+  - 'https://github.com/frank890417/taiwan-md/issues/1949（讀者劉恩哲回報方向詞與相容／兼容混格）'
 
 added: '2026-03-31'
-updated: '2026-09-05'
+updated: '2026-11-03'
