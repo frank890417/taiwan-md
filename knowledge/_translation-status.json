@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T18:20:51+08:00",
-    "zhCommitHead": "8a13a5b3a",
+    "lastUpdated": "2026-11-03T18:53:45+08:00",
+    "zhCommitHead": "d5009b4e6",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -28,24 +28,24 @@
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1143,
+        "fresh": 1144,
         "stale": 8,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1142,
-        "stale": 10,
+        "fresh": 1143,
+        "stale": 9,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1140,
-        "stale": 13,
+        "fresh": 1141,
+        "stale": 12,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1143,
-        "stale": 9,
+        "fresh": 1144,
+        "stale": 8,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -6824,20 +6824,18 @@
         "ja": {
           "path": "ja/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-26T10:25:00+08:00",
+          "translatedAt": "2026-11-03T10:23:01.474865+00:00",
           "translationLastCommit": "950969a4",
           "translationLastModified": "2026-09-26T11:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 53047,
+          "bytes": 54208,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/pop-music-and-golden-melody-awards.md",
@@ -24020,20 +24018,18 @@
         "ko": {
           "path": "ko/Technology/taiwan-tungsten-supply-chain.md",
           "translatedFrom": "Technology/台灣鎢供應鏈.md",
-          "sourceCommitSha": "d6fdcf866",
-          "sourceContentHash": "sha256:56ac16371a296013",
-          "sourceBodyHash": "sha256:0ba20d6588799dfb",
-          "translatedAt": "2026-07-31T02:01:52+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:8cca491527e42676",
+          "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
+          "translatedAt": "2026-11-03T10:23:19.113434+00:00",
           "translationLastCommit": "1dd00333",
           "translationLastModified": "2026-10-31T08:37:26+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 51663,
+          "bytes": 51312,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-tungsten-supply-chain.md",
@@ -94252,8 +94248,8 @@
           "sourceContentHash": "sha256:9da6ac74278aa12e",
           "sourceBodyHash": "sha256:f6dc7e3946b055ef",
           "translatedAt": "2026-11-03T04:51:04+08:00",
-          "translationLastCommit": "28ac08c3",
-          "translationLastModified": "2026-10-01T00:45:38+08:00",
+          "translationLastCommit": "d5009b4e",
+          "translationLastModified": "2026-11-03T18:20:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 16776,
@@ -94298,20 +94294,18 @@
         "es": {
           "path": "es/Politics/village-chief-campaign-ledgers.md",
           "translatedFrom": "Politics/309本里長帳簿.md",
-          "sourceCommitSha": "5a9cd9398",
-          "sourceContentHash": "sha256:9ce152768ea44921",
-          "sourceBodyHash": "sha256:60bb46f6e4722d51",
-          "translatedAt": "2026-09-30T10:28:49+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:9da6ac74278aa12e",
+          "sourceBodyHash": "sha256:f6dc7e3946b055ef",
+          "translatedAt": "2026-11-03T10:45:46.350640+00:00",
           "translationLastCommit": "94cb2bd7",
           "translationLastModified": "2026-10-10T23:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 16064,
+          "bytes": 19550,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Politics/village-chief-campaign-ledgers.md",
@@ -94416,20 +94410,18 @@
         "ru": {
           "path": "ru/Politics/village-chief-campaign-ledgers.md",
           "translatedFrom": "Politics/309本里長帳簿.md",
-          "sourceCommitSha": "5a9cd9398",
-          "sourceContentHash": "sha256:9ce152768ea44921",
-          "sourceBodyHash": "sha256:60bb46f6e4722d51",
-          "translatedAt": "2026-10-01T01:04:33+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:9da6ac74278aa12e",
+          "sourceBodyHash": "sha256:f6dc7e3946b055ef",
+          "translatedAt": "2026-11-03T04:51:36+08:00",
           "translationLastCommit": "b009e15a",
           "translationLastModified": "2026-10-01T01:07:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 27935,
+          "bytes": 29159,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Politics/village-chief-campaign-ledgers.md",

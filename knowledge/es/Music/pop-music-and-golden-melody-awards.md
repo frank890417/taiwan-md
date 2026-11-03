@@ -21,13 +21,17 @@ lastHumanReview: false
 readingTime: 16
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'
-relatedDiary:
-  - 2026-06-28-080352-manual
+rationale:
+  why_this_hook: '凡凡的鼓聲全場靜默——用一個情感重量最高的時刻，帶讀者立體認識「金曲獎是台灣怎麼決定什麼聲音值得被記住」，而非押一個論戰式論點（spine_type 立體群像）。'
+  whats_excluded: '唱片產業興衰/串流轉型交給台灣流行音樂與串流時代不重複；兩岸/審查時刻（島嶼天光騰訊跳過、巴奈天安門被微博刪、大陸歌手缺席）只純中立紀實，不下主權判斷、不用對抗語言（§自主權邊界 政治立場處置）。'
+  where_it_hedges: '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。'
+  whos_pushing_back: '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'
+relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '7701a4867'
-sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:8cf05677c93164ad'
 sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-09-26T10:25:00+08:00'
+translatedAt: '2026-11-03T09:13:02.359759+00:00'
 ---
 
 # Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida
@@ -254,14 +258,15 @@ Después de treinta y tantos años, los Golden Melody en realidad no están entr
 
 ---
 
-## Lecturas ampliadas
+## Lecturas adicionales
 
-- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Toda la historia de auge y declive industrial, desde la industria discográfica hasta la era del streaming; los Golden Melody son la escala oficial de esa línea
-- [Evolución de la canción taiwanesa en taiwanés](/es/music/taiwanese-hokkien-song-evolution) — De las baladas tristes a la inflexión rockera de “Marching Forward” de Lim Giong: cómo la canción en taiwanés entró en la corriente principal
-- [Tradiciones musicales de los pueblos indígenas de Taiwán](/es/music/indigenous-music-traditions) — De los cantos comunitarios a Chen Chien-nien y ABAO: raíces y contemporaneidad de la música indígena
-- [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Las voces y circunstancias de una línea creativa que incluye a Samingad, Panai y ABAO
-- [Música independiente de Taiwán](/es/music/indie-music-scene) — Cómo No Party for Cao Dong y la generación StreetVoice rodearon la industria discográfica y llegaron al escenario más alto de los Golden Melody
-- [Premios Golden Bell](/es/culture/golden-bell-awards) — El más veterano de los tres grandes premios "dorados" de Taiwán: una campana forjada en 1965 para la radiodifusión, cuya lista de ganadores de sesenta y un años registra en qué manos ha estado la televisión de Taiwán
+- [Música popular de Taiwán](/es/music/golden-melodies-legacy-taiwan-pop-music) — La historia completa del auge y la caída de la industria, desde la era de los discos hasta la era del streaming; los Golden Melody Awards son el marcador oficial en esta línea temporal.
+- [Evolución de las canciones en tai lo de Taiwán](/es/music/taiwanese-hokkien-song-evolution) — Desde las baladas melancólicas hasta el giro hacia el rock con «Marching Forward» de Lim Giong: cómo la música en tai lo entró en el mainstream.
+- [Tradiciones musicales de los pueblos indígenas de Taiwán](/es/music/indigenous-music-traditions) — De los cantos tribales a Chen Chien-nien y ABAO: las raíces y la actualidad de la música indígena.
+- [Cantantes de creación indígena contemporánea](/es/music/contemporary-indigenous-singer-songwriters) — Las voces y la situación de creadores como Ji Xiao-jun, Panai y ABAO.
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — Cómo No Party for Cao Dong y la generación de StreetVoice lograron sortear la industria discográfica para alcanzar el escenario más alto de los Golden Melody.
+- [Golden Bell Awards](/es/culture/golden-bell-awards) — El más antiguo de los «Tres Grandes Premios»: una campana forjada para la radio en 1965; sus listas de ganadores durante sesenta y un años registran quién ha tenido el control de la televisión en Taiwán.
+- [Golden Horse Awards](/art/金馬獎) — El premio de cine entre los «Tres Grandes Premios»: cómo se han ido relajando los requisitos de inscripción edición tras edición, pasando de aceptar solo películas en mandarín a no preguntar la nacionalidad.
 
 ## Fuentes de imágenes
 
