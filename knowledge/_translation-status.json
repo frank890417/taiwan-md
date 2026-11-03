@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T23:13:03+08:00",
-    "zhCommitHead": "7c7234e49",
+    "lastUpdated": "2026-11-04T00:22:46+08:00",
+    "zhCommitHead": "60061399a",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1158,
-        "fresh": 1142,
-        "stale": 10,
+        "fresh": 1143,
+        "stale": 9,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1146,
-        "stale": 6,
+        "fresh": 1147,
+        "stale": 5,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -24830,8 +24830,8 @@
           "sourceContentHash": "sha256:7fe5c0e65f686049",
           "sourceBodyHash": "sha256:9ab688e1a6cc5330",
           "translatedAt": "2026-11-03T13:06:51.947936+00:00",
-          "translationLastCommit": "2cce03d5",
-          "translationLastModified": "2026-10-10T23:40:51+08:00",
+          "translationLastCommit": "60061399",
+          "translationLastModified": "2026-11-03T23:13:04+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 142891,
@@ -24940,20 +24940,18 @@
         "ar": {
           "path": "ar/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:bbdb130f551a69e8",
-          "sourceBodyHash": "sha256:8487cbc11ae4a897",
-          "translatedAt": "2026-09-23T05:57:01.217346+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:7fe5c0e65f686049",
+          "sourceBodyHash": "sha256:9ab688e1a6cc5330",
+          "translatedAt": "2026-11-03T15:13:35.303242+00:00",
           "translationLastCommit": "1924cd82",
           "translationLastModified": "2026-10-10T22:55:55+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 184824,
+          "bytes": 196657,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+188 -133"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/threads-in-taiwan.md",
@@ -78432,20 +78430,18 @@
         "ru": {
           "path": "ru/Society/taiwan-covid-pandemic-and-vaccines.md",
           "translatedFrom": "Society/台灣新冠疫情與疫苗.md",
-          "sourceCommitSha": "fa44ba5a9",
-          "sourceContentHash": "sha256:1533ad6bc4336b4a",
-          "sourceBodyHash": "sha256:40600aa18fa8f8d1",
-          "translatedAt": "2026-09-26T11:22:39.542917+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:8f341a7241775e16",
+          "sourceBodyHash": "sha256:840d9f2932e4646b",
+          "translatedAt": "2026-11-03T15:43:07.642609+00:00",
           "translationLastCommit": "07c8467d",
           "translationLastModified": "2026-10-10T23:00:26+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 247469,
+          "bytes": 254068,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -13"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-covid-pandemic-and-vaccines.md",
