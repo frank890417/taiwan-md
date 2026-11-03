@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:8130ad5ab40eae13'
-sourceBodyHash: 'sha256:f699c0cd2ccbe17d'
-translatedAt: '2026-09-23T18:41:12+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-03T04:40:15.609800+00:00'
 ---
 
 # Was ist die „Neun-in-Eins“-Wahl?
@@ -122,35 +122,35 @@ Jedes Amt hat seine eigene Geschichte. Aber die Zahl „Neun“ wurde weder bei 
 
 ---
 
-## Die Spannung des Systemdesigns
+## Strukturelle Spannungen im Systemdesign
 
-Das System Neun-in-Eins scheint natürlich, aber es gibt viele strukturelle Spannungen dahinter, die sich ständig weiterentwickeln:
+Das „Neun-in-Eins“-Gefüge wirkt auf den ersten Blick natürlich, doch dahinter verbergen sich zahlreiche strukturelle Spannungen, die sich alle noch immer fortentwickeln:
 
-### Aufwertung vs. Lokale Selbstverwaltung
+### Aufwertung versus lokale Selbstverwaltung
 
-Die „Aufwertung“ ist ein zentrales Konzept der städtischen Governance in Taiwan – von einem Landkreis zu einer Großstadt ändern sich Budgetgröße, Personalstruktur und Verwaltungsebenen. Aber die Aufwertung hat auch die Nebenwirkung des „Verlusts des direkt gewählten Bürgermeisters“: Der direkt gewählte Status eines „Bürgermeisters“ auf Landkreisebene verschwand nach der Aufwertung (er wurde zu einem Bezirksbürgermeister ernannt).
+„Aufwertung“ ist der Kernbegriff der städtischen Governance in Taiwan – der Wechsel von einer provinzverwalteten Stadt zu einer regierungsunmittelbaren Stadt verändert Haushaltsvolumen, Personalausstattung und Verwaltungsebene. Doch die Aufwertung hat auch den Nebeneffekt des „Verlusts gewählter Spitzenbeamter“: Ursprünglich gewählte „Bürgermeister“ kreisunterstellter Städte verlieren ihren gewählten Status nach der Aufwertung (sie werden zu ernannten Bezirksvorstehern).
 
-Diese Nebenwirkung trat erstmals im großen Stil bei der Aufwertung der Fünf Städte 2010 auf, insbesondere beim Verlust des direkt gewählten Amtes in den drei indigenen Gebieten von Kaohsiung. Bei der Aufwertung Taoyuan 2014 wurde dieselbe Debatte erneut ausgelöst (Fuxing). Der Gesetzgeber führte jedoch die Ämter „Großstadtbürgermeister für indigene Gebiete“ im Jahr 2014 ein, um dies zu beheben.
+Bei der Aufwertung der fünf Städte 2010 trat dieser Nebeneffekt erstmals grossflächig auf, besonders in den drei Berglandgemeinden des Landkreises Kaohsiung (Namasia / Taoyuan / Maolin), deren gewählte Gemeindevorsteher ihr Mandat verloren. 2014 löste die Aufwertung von Taoyuan dieselbe Kontroverse erneut aus (Gemeinde Fuxing). Der Legislativ-Yuan schuf 2014 durch eine Novelle des „Gesetzes über das lokale Verwaltungssystem“ die neue Position des „Bezirksvorstehers der Bergland-Ureinwohnerbezirke regierungsunmittelbarer Städte“ als Abhilfe.
 
-Aber der direkt gewählte Status des Dorfvorstehers auf Landkreisebene ist bis heute aufgrund der Aufwertung nicht allgemein wiederhergestellt worden [^10].
+Doch der gewählte Status von Gemeindevorstehern in den Flachlandgemeinden und -städten geht bis heute durch Aufwertungen verloren – dieses strukturelle Problem wartet weiterhin auf eine allgemein akzeptierte Lösung [^10].
 
-### Systemunterschied zwischen Großstadtratsmitgliedern und Abgeordneten
+### Institutionelle Divergenz zwischen Stadträten regierungsunmittelbarer Städte und Legislativ-Yuan-Abgeordneten
 
-Die Abgeordneten wurden 2008 zu einem „Einwahlkreis-Zwei-Kandidaten-System“ (Regional + Nicht-Wahlsitz) geändert, während die Ratsmitglieder bis heute das im Jahrzehnt der 1980er Jahre entwickelte „Mehrzahl-Wahlkreise mit einfacher Nicht-Übertragbarkeit (SNTV)“-System verwenden – beide sind direkt gewählte Vertreter, aber ihre Systemgestaltung ist völlig unterschiedlich.
+Die Legislativ-Yuan-Abgeordneten wurden 2008 auf ein „Einzelwahlkreis-Zweistimmen-System“ (Wahlkreis + Listenplätze) umgestellt, während Stadträte auf Kreis- und Stadtbene bis heute das in den 1980er Jahren entworfene „Mehrpersonenwahlkreis mit Einzelstimme und nicht übertragbarer Stimme (SNTV)“ beibehalten – obwohl es sich um dieselbe Art gewählter Volksvertreter handelt, ist das institutionelle Design grundlegend verschieden.
 
-Dieser Unterschied besteht seit 18 Jahren. Hinter ihm steht die Bindung an lokale Fraktionen und Parteien – aber der Einfluss von SNTV auf Kleinparteien / dritte Kräfte / vielfältige Repräsentation ist auf der Ratsmitglieder-Ebene weitaus tiefer als bei den Abgeordneten. Details finden Sie unter dem Ratsmitglieder-System.
+Diese Divergenz besteht seit 18 Jahren. Dahinter steht die Verknüpfung lokaler Klüngel mit Parteinteressen – doch die Auswirkungen von SNTV auf Kleinparteien, dritte Kräfte und vielfältige Repräsentation sind auf der Ebene der Stadträte weit tiefer als auf der der Legislativ-Yuan-Abgeordneten. Details siehe [Stadtratssystem](/de/politics/city-councilor-system-taiwan/).
 
-### Das Paradoxon des Dorfvorsitzenden
+### Das Skalenparadoxon der Dorf- und Nachbarschaftsvorsteher
 
-Die 7.748 Dorfvorsitzenden in ganz Taiwan – mehr als die 6.600 Filialen von 7-Eleven. Alle vier Jahre finden 7.748 kleine Wahlen gleichzeitig statt. Aber jeder Dorfvorsteher repräsentiert durchschnittlich nur 2.000–5.000 Einwohner, und seine politische Ökonomie unterscheidet sich von den anderen acht Ämtern – er ist dominant unparteiisch, hat eine Wiederwahrscheinlichkeit von über 80 % und erhält einen monatlichen Zuschuss von 45.000 (der kein Gehalt ist); Fraktionen und persönliche Beziehungen sind wichtiger als Parteizugehörigkeit [^11].
+Taiwan zählt 7.748 Dorf- und Nachbarschaftsvorsteher – mehr als die 6.600 Filialen von 7-Eleven. Alle vier Jahre finden 7.748 Kleinstwahlen gleichzeitig statt. Doch jeder Wahlkreis zählt im Durchschnitt nur 2.000 bis 5.000 Wahlberechtigte; die politische Ökonomie dieses Amtes unterscheidet sich grundlegend von den anderen acht Ämtern – parteilose Kandidaten dominieren, die Wiederwahlquote liegt über 80 %, der monatliche Zuschuss von NT$54.000 gilt nicht als Gehalt, und Klüngel sowie persönliche Beziehungen wiegen schwerer als Parteizugehörigkeit [^11].
 
-Details finden Sie unter dem Dorfvorsteher-System.
+Ausführliche Diskussion siehe [System der Dorf- und Nachbarschaftsvorsteher](/de/politics/village-chief-system/).
 
-### Die doppelte Identität der indigenen Gebiete
+### Doppelte Identität der Ureinwohnerbezirke
 
-Die Großstadt für indigene Gebiete ist rechtlich gesehen ein „Großstadtgebiet“ + eine „Selbstverwaltungsstelle der indigenen Völker“ – diese Doppelidentität erzeugt multiple Spannungen bei der Ressourcenverteilung, der Kulturpolitik und dem Landmanagement. Der Bezirksbürgermeister muss zwischen der Großstadtverwaltung, dem zentralen Ausschuss für indigene Völker und den Stammesversammlungen vermitteln; seine Arbeit unterscheidet sich völlig von der eines gewöhnlichen „Bezirksbürgermeisters“.
+Die Bergland-Ureinwohnerbezirke regierungsunmittelbarer Städte sind rechtlich sowohl „Bezirke einer regierungsunmittelbaren Stadt“ als auch „Selbstverwaltungseinheiten der Ureinwohner“ – diese doppelte Identität erzeugt mehrfache Spannungen bei Ressourcenverteilung, Kulturpolitik und Landverwaltung. Der Bezirksvorsteher muss zwischen der Stadtregierung, dem zentralen Rat der Ureinwohner (原民會) und den Stammesversammlungen vermitteln; seine Aufgabe unterscheidet sich völlig von der eines gewöhnlichen „Bezirksvorstehers“.
 
-Details finden Sie unter dem Großstadtbürgermeister für indigene Gebiete.
+Details siehe [Bezirksvorsteher der Bergland-Ureinwohnerbezirke regierungsunmittelbarer Städte](/de/politics/indigenous-district-chief-system/).
 
 ---
 
@@ -207,40 +207,40 @@ Zentraler Hub der demokratischen Infrastruktur: [Politik Hub](/politics)
 
 ---
 
-## Referenzen
-
-[^1]: [Wahlen der lokalen Beamten Taiwans in der 14. Republik – Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Artikel über die Neun-in-Eins-Wahl 2014, das erste Mal mit neun Arten von Ämtern gleichzeitig.
-
-[^2]: [Überblick der Wahlen der lokalen Beamten Taiwans – Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Offizielle Quelle: Überblick über die Wahlen der lokalen Beamten Taiwans in der Republik China.
-
-[^3]: [Wahlen der lokalen Beamten Taiwans 2026 – Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Zeitplan des Zentralen Wahlausschusses für 2026.
-
-[^4]: [Gesetz über die Wahlen und Entlassungen von Beamten – Nationale Rechtsdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Offizielle Quelle: Gesetz über die Wahlen und Entlassungen von Beamten.
-
-[^5]: [Landkreise und Städte der Republik China – Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Offizielle Quelle: Landkreise und Städte der Republik China.
-
-[^6]: [Verwaltungsgeschichte der Nordstadt – Stadtverwaltung Taipeh](https://ca.gov.taipei/) — Offizielle Quelle: Verwaltungsgeschichte der Nordstadt.
-
-[^7]: [Wahlen des Großstadtbürgermeisters in der Republik China 1994 – Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Offizielle Quelle: Wahlen des Großstadtbürgermeisters in der Republik China 1994.
-
-[^8]: [Umstrukturierung der Großstädte Taiwans 2010 – Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Offizielle Quelle: Umstrukturierung der Großstädte Taiwans 2010.
-
-[^9]: [Gesetz über das lokale Verwaltungssystem – Nationale Rechtsdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artikel 83-1 bis 83-12 (Großstadt für indigene Gebiete).
-
-[^10]: [Reporter – Verlust der direkten Wahl nach der Aufwertung](https://www.twreporter.org/) — Analyse der Nebenwirkung der Aufwertung (konkreter Bericht fehlt).
-
-[^11]: [Abteilung für Zivilverwaltung des Innenministeriums – Grunddaten zum Dorfvorsitzenden](https://www.moi.gov.tw/) — Offizielle Quelle: Grunddaten zum Dorfvorsitzenden der Abteilung für Zivilverwaltung des Innenministeriums.
-
-[^12]: [Zentraler Wahlausschuss – Zeitplan 2026](https://web.cec.gov.tw/) — Offizielle Quelle: Zeitplan 2026 des Zentralen Wahlausschusses.
-
-[^13]: Wahlbekanntmachung des Zentralen Wahlausschusses – Farbschema der Stimmzettel.
-
-[^14]: [Federal Election Commission – Election Day](https://www.fec.gov/) — Offizielle Quelle: Federal Election Commission.
-
-[^15]: [Einheitliche lokale Wahlen – Wikipedia (Japanisch)](https://ja.wikipedia.org/wiki/統一地方選挙) — Offizielle Quelle: Einheitliche lokale Wahlen (Japanisch).
-
-[^16]: [Gesamtstaatliche gleichzeitige lokale Wahlen – Wikipedia (Koreanisch)](https://ko.wikipedia.org/wiki/전국동시지방선거) — Offizielle Quelle: Gesamtstaatliche gleichzeitige lokale Wahlen (Koreanisch).
+## Quellen
 
 ---
 
-_v1.0 | 2026-05-27 | Erstellt nach der philosophischen Anweisung „Füge mir alle Artikel einzeln in die Artikelbox ein“ + Option D, als erster Ankerartikel Tier 1.1._
+_v1.0 | 2026-05-27 | Geboren aus der Anweisung von Zheyu „Artikeltypen: alle einzeln in article-inbox legen“ + Option D beschlossen nach Tier 1.1 #1 Anchor-Artikel._
+
+[^1]: [14. Kommunalwahlen der Republik China — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Artikel zur 2014 Neun-in-eins-Wahl, erstmals alle neun Ämter am selben Tag
+
+[^2]: [Kommunalwahlen der Republik China — Wikipedia-Übersichtsartikel](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Kommunalwahlen der Republik China — Wikipedia-Übersichtsartikel, offizielle Quelle
+
+[^3]: [Kommunalwahlen der Republik China 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Zentrale Wahlkommission, Wahlzeitplan 2026
+
+[^4]: [Gesetz über Wahlen und Abberufung von Amtsträgern — Nationale Rechtsdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Gesetz über Wahlen und Abberufung von Amtsträgern — Nationale Rechtsdatenbank, offizielle Quelle
+
+[^5]: [Kreise und kreisfreie Städte der Republik China — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Kreise und kreisfreie Städte der Republik China — Wikipedia, offizielle Quelle
+
+[^6]: [Administrative Geschichte Taipeis — Abteilung für Zivilangelegenheiten der Stadtregierung Taipeh](https://ca.gov.taipei/) — Administrative Geschichte Taipeis — Abteilung für Zivilangelegenheiten der Stadtregierung Taipeh, offizielle Quelle
+
+[^7]: [Wahlen der Bürgermeister der regierungsunmittelbaren Städte der Republik China 1994 — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Wahlen der Bürgermeister der regierungsunmittelbaren Städte der Republik China 1994 — Wikipedia, offizielle Quelle
+
+[^8]: [Umwandlung in regierungsunmittelbare Städte der Republik China 2010 — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Umwandlung in regierungsunmittelbare Städte der Republik China 2010 — Wikipedia, offizielle Quelle
+
+[^9]: [Gesetz über lokale Systeme — Nationale Rechtsdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artikel 83-1 bis 83-12 (Bergige indigene Bezirke regierungsunmittelbarer Städte)
+
+[^10]: [The Reporter — Verlorene Direktwahlen nach der Aufwertung](https://www.twreporter.org/) — Analyse der Nebenwirkungen der Aufwertung (konkreter Berichtslink folgt)
+
+[^11]: [Im Einklang mit Gehaltsanpassungen für Militär, Beamte und Lehrer! Innenministerium erhöht Zuschüsse für Abgeordnetenassistenten und Dorf-/Stadtteilvorsteher ab 1. Juli, zum nächsten Neujahr weitere 4 % Erhöhung — Innenministerium](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Pressemitteilung der Abteilung für Zivilangelegenheiten des Innenministeriums vom 16. Juli 2026: Die monatlichen Amtszuschüsse für Dorf- und Stadtteilvorsteher werden ab dem 1. Juli 2026 von NT$50.000 auf NT$54.000 erhöht, in indigenen Gebieten von NT$60.000 auf NT$64.800.
+
+[^12]: [Zentrale Wahlkommission — Wahlzeitplan 2026](https://web.cec.gov.tw/) — Zentrale Wahlkommission — Wahlzeitplan 2026, offizielle Quelle
+
+[^13]: Wahlbulletin der Zentralen Wahlkommission — Gestaltung der Stimmzettelfarben
+
+[^14]: [Federal Election Commission — Election Day](https://www.fec.gov/) — Federal Election Commission — Election Day, offizielle Quelle
+
+[^15]: [Einheitliche Lokalwahlen — japanische Wikipedia](https://ja.wikipedia.org/wiki/統一地方選挙) — Einheitliche Lokalwahlen — japanische Wikipedia, offizielle Quelle
+
+[^16]: [Gleichzeitige landesweite Lokalwahlen — koreanische Wikipedia](https://ko.wikipedia.org/wiki/전국동시지방선거) — Gleichzeitige landesweite Lokalwahlen — koreanische Wikipedia, offizielle Quelle

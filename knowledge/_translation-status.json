@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T13:07:41+08:00",
-    "zhCommitHead": "b92b213f8",
+    "lastUpdated": "2026-11-03T13:09:50+08:00",
+    "zhCommitHead": "faa875aef",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1141,
-        "stale": 11,
+        "fresh": 1142,
+        "stale": 10,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -6962,11 +6962,11 @@
           "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-11-03T04:49:37.632414+00:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "faa875ae",
+          "translationLastModified": "2026-11-03T13:07:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 61170,
+          "bytes": 61172,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -58634,8 +58634,8 @@
           "sourceContentHash": "sha256:8afab7fd2baefe89",
           "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
           "translatedAt": "2026-11-03T04:50:45+08:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "faa875ae",
+          "translationLastModified": "2026-11-03T13:07:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 46080,
@@ -60462,8 +60462,8 @@
           "sourceContentHash": "sha256:36a6756b7629a9b0",
           "sourceBodyHash": "sha256:5b971b7718b762d0",
           "translatedAt": "2026-11-03T03:13:52.801583+00:00",
-          "translationLastCommit": "174a83b6",
-          "translationLastModified": "2026-09-10T05:31:49+08:00",
+          "translationLastCommit": "faa875ae",
+          "translationLastModified": "2026-11-03T13:07:41+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "bytes": 139301,
@@ -70978,18 +70978,18 @@
         "ru": {
           "path": "ru/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-05T00:31:28+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:48+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 18794,
+          "bytes": 20726,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/betel-nut.md",
