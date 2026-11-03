@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T05:09:55.663722+00:00'
+translatedAt: '2026-11-03T20:21:35.039994+00:00'
 ---
 
 # Điện ảnh Đài Loan: người bên cạnh màn hình, và một lịch sử điện ảnh chết lại sống
@@ -271,13 +271,14 @@ Bài viết này dùng 4 bức hình ảnh, tất cả bộ nhớ tạm ở `pub
 
 ## Đọc thêm
 
-- [Hầu Hiếu Hiền](/vi/people/hou-hsiao-hsien)：Giành Huy chương vàng Venice, đưa Sự kiện 228 lên màn hình lớn của Thầy phố Camera Dài
-- [Dương Đức Xương](/vi/people/yang-dechang)：Hai bộ phim vào danh sách trăm phim trong lịch sử Sight & Sound của Nhà Quan sát Thành Phố
-- [Thái Minh Lương](/vi/people/tsai-ming-liang)：Huy chương vàng Venice, quay phim chậm vào Bảo tàng Louvre
-- [Lý An](/vi/people/ang-lee)：Từ Đài Loan bước tới Hollywood, hai lần giành Đạo diễn tốt nhất Oscar
-- [Ngụy Đức Thánh](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker)：Dùng năm thứ tiếng quay _Phía bắc đầm biển_, nhân vật làm sống lại phim quốc gia
-- [Quốc gia nhìn không thấy](/vi/art/invisible-nation)：Trong phim tài liệu Cát Tĩnh Văn, một cách khác để Đài Loan được nhìn thấy
-- [Cảm xúc Đài Loan: Chúng ta có phải chờ người Hàn Quốc thích trước, mới dám nói ngôi nhà cũ của chính mình đẹp không?](/vi/culture/taiwanese-sensibility)：_Thành phố đau buồn_ 1989 Huy chương vàng Venice và doanh thu Đài Bắc cùng năm diễn ra, công nhận quốc tế với sự đồng cảm địa phương không nhất thiết phải chọn một
+- [Hầu Hiếu Hiền](/vi/people/hou-hsiao-hsien): Nhà bác thầy kính dài đoạt Kim Sư Venice, đưa sự kiện 2-28 lên màn ảnh
+- [Dương Đức Xương](/vi/people/yang-dechang): Người quan sát thành phố có hai tác phẩm lọt vào Top 100 lịch sử điện ảnh của Sight & Sound
+- [Tsai Ming-liang (Thái Minh Lương)](/vi/people/tsai-ming-liang): Nhà vô địch Kim Sư Venice, đưa điện ảnh chậm chạp vào bảo tàng Louvre
+- [Lý An](/vi/people/ang-lee): Từ Đài Loan tiến về Hollywood, hai lần đoạt Oscar Đạo diễn xuất sắc nhất
+- [Wei Te-sheng (Ngụy Đức Thánh)](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker): Người dùng năm ngôn ngữ quay 《Cape No. 7》 (海角七號), khiến điện ảnh quốc gia hồi sinh
+- [Giải thưởng Kim Mã](/art/金馬獎): Từ chỉ nhận phim tiếng Quốc ngữ đến giải thưởng điện ảnh tiếng Hoa không hỏi quốc tịch, phim Đài Loan thường thua trong nhà mà cửa không bao giờ đóng lại
+- [《Quốc gia vô hình》](/vi/art/invisible-nation): Trong phim tài liệu của Cát Tĩnh Văn, một cách khác để nhìn thấy Đài Loan
+- [Đài Loan cảm tính: Chúng ta có cần người Hàn Quốc bấm like trước mới dám nói nhà cũ của mình đẹp không?](/vi/culture/taiwanese-sensibility): 《Thành phố đau buồn》 đoạt Kim Sư 1989 và doanh thu tại Đài Bắc cùng năm xảy ra, sự công nhận quốc tế và cộng hưởng bản địa không nhất thiết phải chọn một trong hai
 
 [^1]: [Người dịch nghĩa Phim - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — Năm 1930 Đài Loan có 41 người dịch nghĩa người Nhật, 19 người dịch nghĩa người Đài Loan khoảng 60 người, thực tập phải vượt kỳ thi của viên cảnh sát viên lấy bằng.
 
