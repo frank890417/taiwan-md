@@ -219,6 +219,27 @@ def detect_touched(zh_chapters: list[dict], hunks: list[tuple[int, int]],
     return touched, fm_touched
 
 
+def plan_footnote_carry(zh_body_lines: list[str], zh_chapters: list[dict],
+                        tr_body_lines: list[str], tr_chapters: list[dict],
+                        touched_idx: set) -> tuple[dict | None, str]:
+    """被碰章節的腳註定義擺位對不對得上。回 ({章號: 要原樣接回的定義尾段}, "")，
+    或 (None, 原因) 表示局部重翻必錯位、要整篇重翻。理由見 main() 呼叫處註解。"""
+    carry: dict[int, list[str]] = {}
+    for i in sorted(touched_idx):
+        zh_has = any(FN_DEF_RE.match(l) for l in
+                     zh_body_lines[zh_chapters[i]["start"]:zh_chapters[i]["end"]])
+        tr_slice = tr_body_lines[tr_chapters[i]["start"]:tr_chapters[i]["end"]]
+        tr_def_idx = [k for k, l in enumerate(tr_slice) if FN_DEF_RE.match(l)]
+        if zh_has and not tr_def_idx:
+            return None, f"腳註定義在 zh 第 [{i}] 章、譯文不在同一章，局部重翻會錯位"
+        if tr_def_idx and not zh_has:
+            tail = tr_slice[tr_def_idx[0]:]
+            if any(l.strip() and not FN_DEF_RE.match(l) for l in tail):
+                return None, f"譯文第 [{i}] 章的腳註定義尾段夾了非定義行"
+            carry[i] = tail
+    return carry, ""
+
+
 # ════════════════════════ chapter translation: regular (no footnote defs) ════════════════════════
 
 def translate_regular_chapter(zh_chapter_text: str, lang: str, backend, glossary_titles: list[str],
@@ -735,6 +756,22 @@ def main() -> int:
         print("⏩ diff hunks didn't map to any chapter or frontmatter — fallback (safety net)")
         return 2
 
+    # 2026-11-04：腳註定義區在 zh 與譯文裡可以住在不同章。〈台灣電影〉zh 把 72 條定義
+    # 放在「結語」之後、譯文全放在檔尾「延伸閱讀」之後；zh 只在延伸閱讀加一行，那章
+    # 重翻就把 72 條定義一起換掉，四語兩種模型同一個理由被 verify 擋（footnote
+    # zh=72 vs 0），每次都燒一輪。全庫量到 58 份譯文是這種擺法。處置：
+    #   • 被碰的 zh 章有定義、對應譯文章沒有 → 定義在別章，局部重翻一定錯位，整篇重翻
+    #   • 被碰的譯文章有定義、zh 章沒有 → 定義是譯文自己的尾段，原樣留下接回去
+    #     （zh 的定義章沒被碰，所以舊譯的定義仍對得上）；尾段夾了別的東西就不冒險
+    carry_defs, carry_why = plan_footnote_carry(zh_body_lines, zh_chapters, tr_body_lines,
+                                                tr_chapters, touched_idx)
+    if carry_defs is None:
+        print(f"⏩ {carry_why} — fallback to full retranslate")
+        return 2
+    for i, tail in carry_defs.items():
+        n = sum(1 for l in tail if FN_DEF_RE.match(l))
+        print(f"   譯文第 [{i}] 章尾帶 {n} 條腳註定義（zh 放在別章）→ 重翻該章後原樣接回")
+
     total_chars = sum(len(chapter_text(zh_body_lines, c)) for c in zh_chapters) or 1
     touched_chars = sum(len(chapter_text(zh_body_lines, zh_chapters[i])) for i in touched_idx)
     ratio = touched_chars / total_chars
@@ -849,6 +886,10 @@ def main() -> int:
         else:
             is_last = (i == len(tr_chapters) - 1)
             out_lines = out.strip("\n").split("\n")
+            if i in carry_defs:
+                out_lines = out_lines + [""] + carry_defs[i]
+                while out_lines and not out_lines[-1].strip():
+                    out_lines.pop()
             new_tr_chapter_lines[i] = out_lines if is_last else out_lines + [""]
 
     metrics["phases"]["chapters"] = {"elapsed_s": round(time.time() - t0, 1), "failed": failed}

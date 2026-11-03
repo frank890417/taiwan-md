@@ -104,3 +104,26 @@ def test_footnote_chapter_prompt_carries_bare_yuan_money_rule(tmp_path):
         pass
 
     assert systems and "New Taiwan dollars" in systems[0]
+
+
+def test_footnote_defs_living_in_a_different_chapter_are_carried_or_refused():
+    # 2026-11-04：〈台灣電影〉zh 把 72 條定義放在結語後、譯文全放在檔尾延伸閱讀後；
+    # zh 只動延伸閱讀，重翻那章就把定義一起換掉，四語兩模型都被 footnote count 擋
+    zh = ["## 結語", "正文[^1]", "", "[^1]: [來源](https://a.example) — 說明", "",
+          "## 延伸閱讀", "- [甲](/art/甲)"]
+    tr = ["## Conclusion", "body[^1]", "", "## Further reading", "- [A](/en/art/a)", "",
+          "[^1]: [Source](https://a.example) — note"]
+    zc, tc = MODULE.split_chapters(zh), MODULE.split_chapters(tr)
+
+    carry, why = MODULE.plan_footnote_carry(zh, zc, tr, tc, {1})
+    assert why == ""
+    assert carry == {1: ["[^1]: [Source](https://a.example) — note"]}
+
+    # zh 的定義章被碰、譯文定義不在那章 → 只能整篇重翻
+    carry, why = MODULE.plan_footnote_carry(zh, zc, tr, tc, {0})
+    assert carry is None and "錯位" in why
+
+    # 尾段夾了非定義行 → 不冒險
+    tr_mixed = tr + ["", "stray paragraph"]
+    carry, why = MODULE.plan_footnote_carry(zh, zc, tr_mixed, MODULE.split_chapters(tr_mixed), {1})
+    assert carry is None and "非定義行" in why
