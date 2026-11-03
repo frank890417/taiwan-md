@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:44:46+08:00'
+translatedAt: '2026-11-03T21:56:16.034018+00:00'
 ---
 
 > **30-Second Overview:** In 1982, Lanyu began receiving low-level radioactive waste from across Taiwan; by 1996, the storage site reached capacity, yet this did not mark the end of its "temporary" status. Since 1988, the Tao people have repeatedly demanded relocation, and a 2018 official truth investigation brought the siting process back into public view. This article does not declare a conclusion of "safe" or "dangerous" for either side; instead, it asks: if a home is chosen as a storage site without the residents' knowledge, can subsequent monitoring data alone answer the question of justice?
@@ -96,10 +96,10 @@ The reason Lanyu's yellow barrels have become an object of Taiwanese history is 
 
 ## Further Reading
 
-- [Executive Yuan Lanyu Nuclear Waste Storage Site Truth Investigation Report](https://alilin.cip.gov.tw/Book/670)
-- [Nuclear Safety Commission: Lanyu Storage Site Safety Control Explanation](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
+- [Executive Yuan Truth Investigation Report on the Establishment of the Lan-yu Nuclear Waste Storage Site](https://alilin.cip.gov.tw/Book/670)
+- [Nuclear Safety Commission: Lan-yu Storage Site Safety Control Explanation](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
 - [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [Discussions on Taiwan and Nuclear Energy](/en/society/taiwan-nuclear-debate) — The 2026 review of Nuclear III and the 22nd Referendum: "A solution for nuclear waste" is one of the three conditions for restarting Nuclear III; Lanyu and the Nuclear III spent fuel pools are still waiting for a destination.
+- [Discussion on Taiwan and Nuclear Power](/en/society/taiwan-nuclear-debate) — 2026 Nuclear Plant 3 Restart Review and Referendum No. 22: A Nuclear Waste Solution is One of Three Conditions for Restart; Lan-yu and Nuclear Plant 3's Fuel Pool Still Await Disposal Sites
 
 ## References
 

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T06:51:01+08:00",
-    "zhCommitHead": "cd87af4e6",
+    "lastUpdated": "2026-11-04T07:26:39+08:00",
+    "zhCommitHead": "a0a488f24",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1151,
-        "stale": 6,
+        "fresh": 1152,
+        "stale": 5,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -68,16 +68,16 @@
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1141,
-        "stale": 9,
+        "fresh": 1142,
+        "stale": 8,
         "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1148,
-        "stale": 6,
+        "fresh": 1149,
+        "stale": 5,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
@@ -43440,20 +43440,18 @@
         "pt": {
           "path": "pt/Art/taiwan-new-media-art.md",
           "translatedFrom": "Art/台灣新媒體藝術.md",
-          "sourceCommitSha": "ef8fab38e",
-          "sourceContentHash": "sha256:d196b7664449f36f",
-          "sourceBodyHash": "sha256:3affa690cf7b66dc",
-          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:322922074ebc6f22",
+          "sourceBodyHash": "sha256:532e9b8210a860d0",
+          "translatedAt": "2026-11-03T22:57:59.925183+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 31644,
+          "bytes": 31641,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/taiwan-new-media-art.md",
@@ -139046,20 +139044,18 @@
         "id": {
           "path": "id/People/aljenljeng-tjaluvie-abao.md",
           "translatedFrom": "People/阿爆.md",
-          "sourceCommitSha": "ac1d187af",
-          "sourceContentHash": "sha256:63b1d4d5c2d7861f",
-          "sourceBodyHash": "sha256:97980c1ca1d62fad",
-          "translatedAt": "2026-07-29T00:26:13+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:f6ea72608a383b39",
+          "sourceBodyHash": "sha256:2b58a1fd273e51fb",
+          "translatedAt": "2026-11-03T20:22:15+08:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 25333,
+          "bytes": 24255,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/aljenljeng-tjaluvie-abao.md",
@@ -145088,20 +145084,18 @@
         "fr": {
           "path": "fr/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-05-02T01:17:16+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-03T22:51:00.075287+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 13979,
+          "bytes": 15003,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tony-hsiao-inside-founder.md",
@@ -184954,8 +184948,8 @@
           "sourceContentHash": "sha256:029c5b96b80df013",
           "sourceBodyHash": "sha256:695400871e5b12aa",
           "translatedAt": "2026-11-03T21:09:04.629102+00:00",
-          "translationLastCommit": "b65d63d7",
-          "translationLastModified": "2026-10-10T23:29:05+08:00",
+          "translationLastCommit": "56b2ef66",
+          "translationLastModified": "2026-11-04T06:51:01+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "bytes": 61280,
