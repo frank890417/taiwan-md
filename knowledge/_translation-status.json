@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T02:06:20+08:00",
-    "zhCommitHead": "c154e74e5",
+    "lastUpdated": "2026-11-04T02:07:28+08:00",
+    "zhCommitHead": "123705c1c",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1147,
+        "fresh": 1148,
         "stale": 6,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
       },
@@ -37964,20 +37964,18 @@
         "ja": {
           "path": "ja/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "b07b48849",
-          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
-          "translatedAt": "2026-10-14T20:44:08.993153+00:00",
+          "translatedAt": "2026-11-03T18:06:56.730132+00:00",
           "translationLastCommit": "e0de1ed4",
           "translationLastModified": "2026-10-15T07:09:22+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 77091,
+          "bytes": 77434,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwanese-cinema.md",
@@ -78458,8 +78456,8 @@
           "sourceContentHash": "sha256:8f341a7241775e16",
           "sourceBodyHash": "sha256:840d9f2932e4646b",
           "translatedAt": "2026-11-03T15:43:07.642609+00:00",
-          "translationLastCommit": "07c8467d",
-          "translationLastModified": "2026-10-10T23:00:26+08:00",
+          "translationLastCommit": "123705c1",
+          "translationLastModified": "2026-11-04T02:06:20+08:00",
           "inferred": false,
           "footnoteDefs": 91,
           "bytes": 254068,
