@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-04 twmd-babel-nightly — model-count-threshold-blind-when-only-two-backends-run：判準要三種模型同敗，產線上只有兩種
+
+- **pattern**: `model-count-threshold-blind-when-only-two-backends-run`
+- **原則**：REFLEXES #38「確定性缺陷記成模型失敗」的判讀捷徑是「同一篇跨三種以上 worker 以同一個理由失敗」。這把尺的門檻寫在一個有五、六個後端同時跑的時代；現在產線只有 gemma4 與 nemotron 兩個免費後端（付費層 402、codex 登入過期），**三種模型同敗在結構上不可能發生**，捷徑因此永遠不響。真正跨的維度是語言：確定性缺陷對每個語言都必然重現，同一篇、同一理由、跨 ≥3 語在兩個後端上都敗，本身就足以判定。
+- **觸發**：2026-11-04 babel-nightly。〈台灣電影〉補丁在 de／en／es／fr 四語、兩種模型都在 30〜96 秒內被 verify 擋（footnote zh=72 vs 0），根因是補丁按 H2 切章、譯文把定義放在延伸閱讀章尾，重翻那章就丟掉定義（`05b378655` 修）。前一晚（11-03）同一席位寫「最多只有兩個後端同敗，湊不到三種以上模型同敗的判準，今晚沒有閘門缺陷可修」，當時 report 裡的失敗列已經是單一理由跨語分布的形狀。→ [memory/2026-11-04-005035-twmd-babel-nightly.md](memory/2026-11-04-005035-twmd-babel-nightly.md)
+- **instances**：
+- **可能層級**：操作規則（REFLEXES #38 判讀捷徑改成「同一篇同一理由，跨 ≥3 種 worker **或** ≥3 種語言」；BABEL-VORTEX §自動進化「隔離樣本覆盤」加一行按 (zh, fail_reason) 分組數語言數）
+- **相關**：REFLEXES #66（門檻要用真實產出校準，算力編組變了門檻沒跟著變）；#38 (h) 聚合單位≠決策單位
+- **verification_count**: 1
+
 ### 2026-11-03 twmd-maintainer-daily — the-more-completely-it-broke-the-fewer-gates-fired：壞得越徹底，叫的閘門越少
 
 - **pattern**: `the-more-completely-it-broke-the-fewer-gates-fired`
