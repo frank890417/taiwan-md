@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T06:38:37+08:00",
-    "zhCommitHead": "1d3abf4bf",
+    "lastUpdated": "2026-11-03T12:43:57+08:00",
+    "zhCommitHead": "2c1084326",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1142,
-        "stale": 11,
+        "fresh": 1143,
+        "stale": 10,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1139,
-        "stale": 12,
+        "fresh": 1141,
+        "stale": 10,
         "metadata_stale": 4,
         "missing": 3,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1137,
-        "stale": 14,
-        "metadata_stale": 4,
+        "fresh": 1139,
+        "stale": 13,
+        "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
@@ -52,40 +52,40 @@
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1141,
-        "stale": 11,
-        "metadata_stale": 3,
+        "fresh": 1143,
+        "stale": 10,
+        "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1158,
-        "fresh": 1133,
+        "fresh": 1134,
         "stale": 18,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "id": {
         "total_zh": 1158,
         "fresh": 1134,
-        "stale": 14,
-        "metadata_stale": 7,
+        "stale": 15,
+        "metadata_stale": 6,
         "missing": 3,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1139,
-        "stale": 13,
+        "fresh": 1140,
+        "stale": 12,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1158,
-        "fresh": 1131,
-        "stale": 19,
+        "fresh": 1133,
+        "stale": 17,
         "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1123,
-        "stale": 23,
+        "fresh": 1125,
+        "stale": 21,
         "metadata_stale": 9,
         "missing": 3,
         "orphan": 0
@@ -6876,56 +6876,50 @@
         "fr": {
           "path": "fr/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-21T09:36:50.040407+00:00",
+          "translatedAt": "2026-11-03T03:57:41.590800+00:00",
           "translationLastCommit": "0cefe51a",
           "translationLastModified": "2026-10-10T23:13:51+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 53821,
+          "bytes": 54102,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-19T14:19:59.109302+00:00",
+          "translatedAt": "2026-11-03T03:58:11.529663+00:00",
           "translationLastCommit": "23f8c108",
           "translationLastModified": "2026-10-10T23:30:52+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 59913,
+          "bytes": 60061,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-20T00:52:42+08:00",
+          "translatedAt": "2026-11-03T04:33:09.161647+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 48641,
+          "bytes": 48814,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/pop-music-and-golden-melody-awards.md",
@@ -52583,10 +52577,10 @@
     },
     "Lifestyle/戰鬥陀螺.md": {
       "zh": {
-        "lastCommit": "7492cf56",
-        "lastModified": "2026-08-20T09:16:35+08:00",
-        "contentHash": "sha256:5721a11524a1892d",
-        "bodyHash": "sha256:238cada628dc5182"
+        "lastCommit": "a63cd734",
+        "lastModified": "2026-11-03T08:58:25+08:00",
+        "contentHash": "sha256:91aa52253afb126e",
+        "bodyHash": "sha256:2c69a76b1198a9c8"
       },
       "translations": {
         "en": {
@@ -52602,8 +52596,10 @@
           "footnoteDefs": 0,
           "bytes": 18145,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "ja": {
           "path": "ja/Lifestyle/beyblade-in-taiwan.md",
@@ -52618,8 +52614,10 @@
           "footnoteDefs": 0,
           "bytes": 19674,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "ko": {
           "path": "ko/Lifestyle/beyblade-in-taiwan.md",
@@ -52634,8 +52632,10 @@
           "footnoteDefs": 0,
           "bytes": 19543,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "es": {
           "path": "es/Lifestyle/beyblade-in-taiwan.md",
@@ -52650,8 +52650,10 @@
           "footnoteDefs": 0,
           "bytes": 21613,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "fr": {
           "path": "fr/Lifestyle/beyblade-in-taiwan.md",
@@ -52666,8 +52668,10 @@
           "footnoteDefs": 0,
           "bytes": 22390,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "vi": {
           "path": "vi/Lifestyle/beyblade-in-taiwan.md",
@@ -52682,8 +52686,10 @@
           "footnoteDefs": 0,
           "bytes": 24229,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "id": {
           "path": "id/Lifestyle/beyblade-in-taiwan.md",
@@ -52698,8 +52704,10 @@
           "footnoteDefs": 0,
           "bytes": 16848,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "pt": {
           "path": "pt/Lifestyle/beyblade-in-taiwan.md",
@@ -52714,8 +52722,10 @@
           "footnoteDefs": 0,
           "bytes": 16719,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "hi": {
           "path": "hi/Lifestyle/beyblade-in-taiwan.md",
@@ -52730,8 +52740,10 @@
           "footnoteDefs": 0,
           "bytes": 38811,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "ar": {
           "path": "ar/Lifestyle/beyblade-in-taiwan.md",
@@ -52746,8 +52758,10 @@
           "footnoteDefs": 0,
           "bytes": 26394,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "ru": {
           "path": "ru/Lifestyle/beyblade-in-taiwan.md",
@@ -52762,8 +52776,10 @@
           "footnoteDefs": 0,
           "bytes": 29479,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         },
         "de": {
           "path": "de/Lifestyle/beyblade-in-taiwan.md",
@@ -52778,8 +52794,10 @@
           "footnoteDefs": 0,
           "bytes": 18990,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+61 -55"
         }
       }
     },
@@ -58482,20 +58500,18 @@
         "ja": {
           "path": "ja/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-03T04:50:19+08:00",
           "translationLastCommit": "249dd283",
           "translationLastModified": "2026-10-10T23:13:56+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 34817,
+          "bytes": 30878,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-grid-resilience.md",
@@ -58516,20 +58532,18 @@
         "es": {
           "path": "es/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-21T00:58:27+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-03T04:50:26+08:00",
           "translationLastCommit": "94cb2bd7",
           "translationLastModified": "2026-10-10T23:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 31890,
+          "bytes": 34512,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-grid-resilience.md",
@@ -58602,20 +58616,18 @@
         "hi": {
           "path": "hi/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-19T11:59:09+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-03T04:50:43+08:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 70990,
+          "bytes": 67666,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-grid-resilience.md",
@@ -58656,20 +58668,18 @@
         "de": {
           "path": "de/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-03T04:50:51+08:00",
           "translationLastCommit": "49120226",
           "translationLastModified": "2026-09-26T23:07:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 34073,
+          "bytes": 34751,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -60452,18 +60462,18 @@
         "ar": {
           "path": "ar/Society/taiwan-nuclear-debate.md",
           "translatedFrom": "Society/台灣與核能的討論.md",
-          "sourceCommitSha": "95c3b1afd",
-          "sourceContentHash": "sha256:5d718d4ccb9dca76",
-          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
-          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "sourceCommitSha": "94c187560",
+          "sourceContentHash": "sha256:36a6756b7629a9b0",
+          "sourceBodyHash": "sha256:5b971b7718b762d0",
+          "translatedAt": "2026-11-03T03:13:52.801583+00:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
-          "footnoteDefs": 52,
-          "bytes": 92357,
+          "footnoteDefs": 71,
+          "bytes": 139301,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (71→52)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-nuclear-debate.md",
@@ -70812,34 +70822,34 @@
         "en": {
           "path": "en/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-10T01:58:13+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:15+08:00",
           "translationLastCommit": "ec354e4d",
           "translationLastModified": "2026-10-31T08:41:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 12256,
+          "bytes": 12263,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:19+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 12299,
+          "bytes": 12622,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/betel-nut.md",
@@ -70876,18 +70886,18 @@
         "fr": {
           "path": "fr/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-04T13:18:21+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:30+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 13001,
+          "bytes": 13284,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/betel-nut.md",
@@ -70924,18 +70934,18 @@
         "pt": {
           "path": "pt/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-04T14:12:36+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:50:41+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 12671,
+          "bytes": 12794,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/betel-nut.md",
@@ -88218,11 +88228,11 @@
           "sourceContentHash": "sha256:74ac37cae326eaa1",
           "sourceBodyHash": "sha256:9c1e23df6047812e",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "25ec53e7",
-          "translationLastModified": "2026-10-10T23:45:03+08:00",
+          "translationLastCommit": "b6213c90",
+          "translationLastModified": "2026-11-03T08:58:39+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 29017,
+          "bytes": 29176,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -92722,20 +92732,18 @@
         "vi": {
           "path": "vi/Politics/taiwan-referendum-system.md",
           "translatedFrom": "Politics/台灣公投制度.md",
-          "sourceCommitSha": "5e33e3a1c",
-          "sourceContentHash": "sha256:b34bdfae9c38257f",
-          "sourceBodyHash": "sha256:75b37912e4958f22",
-          "translatedAt": "2026-10-20T01:23:28+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:48c356865c14b441",
+          "sourceBodyHash": "sha256:b97308b257831927",
+          "translatedAt": "2026-11-03T04:32:40.081656+00:00",
           "translationLastCommit": "56594721",
           "translationLastModified": "2026-10-20T01:58:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 25316,
+          "bytes": 25355,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Politics/taiwan-referendum-system.md",
@@ -94380,20 +94388,18 @@
         "pt": {
           "path": "pt/Politics/village-chief-campaign-ledgers.md",
           "translatedFrom": "Politics/309本里長帳簿.md",
-          "sourceCommitSha": "5a9cd9398",
-          "sourceContentHash": "sha256:9ce152768ea44921",
-          "sourceBodyHash": "sha256:60bb46f6e4722d51",
-          "translatedAt": "2026-09-30T09:13:36+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:9da6ac74278aa12e",
+          "sourceBodyHash": "sha256:f6dc7e3946b055ef",
+          "translatedAt": "2026-11-03T04:50:41+08:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 17498,
+          "bytes": 16637,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/village-chief-campaign-ledgers.md",
@@ -95214,18 +95220,18 @@
         "hi": {
           "path": "hi/Politics/village-chief-system.md",
           "translatedFrom": "Politics/村里長制度.md",
-          "sourceCommitSha": "837e22b9a",
-          "sourceContentHash": "sha256:cce4699f9fdc3697",
-          "sourceBodyHash": "sha256:48ef53002db1337d",
-          "translatedAt": "2026-09-22T10:29:39+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:968a60e9d47e825b",
+          "sourceBodyHash": "sha256:c77c8cceb31c23cb",
+          "translatedAt": "2026-11-03T04:05:58.807407+00:00",
           "translationLastCommit": "300d7d81",
           "translationLastModified": "2026-09-22T15:51:44+08:00",
           "inferred": false,
-          "footnoteDefs": 26,
-          "bytes": 71592,
+          "footnoteDefs": 28,
+          "bytes": 79333,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (28→26)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/village-chief-system.md",
@@ -95246,18 +95252,18 @@
         "ru": {
           "path": "ru/Politics/village-chief-system.md",
           "translatedFrom": "Politics/村里長制度.md",
-          "sourceCommitSha": "837e22b9a",
-          "sourceContentHash": "sha256:cce4699f9fdc3697",
-          "sourceBodyHash": "sha256:48ef53002db1337d",
-          "translatedAt": "2026-08-06T07:38:36+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:968a60e9d47e825b",
+          "sourceBodyHash": "sha256:c77c8cceb31c23cb",
+          "translatedAt": "2026-11-03T04:50:48+08:00",
           "translationLastCommit": "4ce37351",
           "translationLastModified": "2026-08-06T15:31:32+08:00",
           "inferred": false,
-          "footnoteDefs": 26,
-          "bytes": 52418,
+          "footnoteDefs": 28,
+          "bytes": 58764,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (28→26)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Politics/village-chief-system.md",
@@ -95468,20 +95474,18 @@
         "de": {
           "path": "de/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:8130ad5ab40eae13",
-          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
-          "translatedAt": "2026-09-23T18:41:12+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:d01e4dc65a504478",
+          "sourceBodyHash": "sha256:42ff4d82e10867fc",
+          "translatedAt": "2026-11-03T04:40:15.609800+00:00",
           "translationLastCommit": "be2fb287",
           "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 24785,
+          "bytes": 26047,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163854,56 +163858,50 @@
         "en": {
           "path": "en/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-11T17:55:39+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:50:15+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 31919,
+          "bytes": 32228,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:1a952f594b1e4c60",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-13T13:11:23.868875+00:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:50:19+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 32137,
+          "bytes": 30194,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-13T04:04:14+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:50:23+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 30106,
+          "bytes": 31667,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/shulin-red-yeast-rice.md",
@@ -163926,20 +163924,18 @@
         "fr": {
           "path": "fr/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-12T05:51:48+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:50:30+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 37646,
+          "bytes": 33155,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/shulin-red-yeast-rice.md",
@@ -164048,20 +164044,18 @@
         "de": {
           "path": "de/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:50:51+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 33109,
+          "bytes": 32441,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -178188,8 +178182,8 @@
           "sourceContentHash": "sha256:7976b50994d50f0d",
           "sourceBodyHash": "sha256:43d507c619cbc518",
           "translatedAt": "2026-11-03T00:30:23+08:00",
-          "translationLastCommit": "ab05e243",
-          "translationLastModified": "2026-10-31T08:41:23+08:00",
+          "translationLastCommit": "1d5bf84e",
+          "translationLastModified": "2026-11-03T06:38:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 15704,
@@ -180094,20 +180088,18 @@
         "ko": {
           "path": "ko/History/taiwan-fishery-origins.md",
           "translatedFrom": "History/台灣漁業起源.md",
-          "sourceCommitSha": "ad6842824",
-          "sourceContentHash": "sha256:50b4c719b7719ddb",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:8a424bcb797adc65",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
-          "translatedAt": "2026-09-12T19:49:07+08:00",
+          "translatedAt": "2026-11-03T04:41:39.717062+00:00",
           "translationLastCommit": "1dd00333",
           "translationLastModified": "2026-10-31T08:37:26+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 27057,
+          "bytes": 27059,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-fishery-origins.md",
@@ -189914,20 +189906,18 @@
         "hi": {
           "path": "hi/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "9cef725ce",
-          "sourceContentHash": "sha256:bee6db6cebb342a7",
-          "sourceBodyHash": "sha256:cf2cbcf164430410",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:22c130b523d2e4bf",
+          "sourceBodyHash": "sha256:2b1b811b734b6f00",
+          "translatedAt": "2026-11-03T03:13:22.351173+00:00",
           "translationLastCommit": "a78fbaa8",
           "translationLastModified": "2026-10-31T08:41:31+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 77843,
+          "bytes": 83673,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-elections-and-party-politics.md",
@@ -233176,20 +233166,18 @@
         "ko": {
           "path": "ko/Culture/golden-bell-awards.md",
           "translatedFrom": "Culture/金鐘獎.md",
-          "sourceCommitSha": "ff39af227",
-          "sourceContentHash": "sha256:641571b11a5e3ea9",
-          "sourceBodyHash": "sha256:02baeff9cbce935a",
-          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:1c2ced1aaf70624b",
+          "sourceBodyHash": "sha256:5e774c69559104df",
+          "translatedAt": "2026-11-03T03:56:49.690246+00:00",
           "translationLastCommit": "bcc6b00b",
           "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
           "footnoteDefs": 59,
-          "bytes": 64153,
+          "bytes": 64313,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/golden-bell-awards.md",
