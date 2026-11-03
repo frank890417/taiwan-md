@@ -17,10 +17,10 @@ rationale:
   whos_pushing_back: '同時保留農會協助農民取得技術與金融服務的實際功能，以及農會受上級政策、法律、補助與地方權力影響的制度限制。'
 curation: 'incubating'
 translatedFrom: 'History/台灣農會史.md'
-sourceCommitSha: '1aa6ef1ac'
-sourceContentHash: 'sha256:d2cff6b4790d0713'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:96c0f852ba085365'
 sourceBodyHash: 'sha256:889401675c45d56b'
-translatedAt: '2026-09-12T22:19:09+08:00'
+translatedAt: '2026-11-03T11:32:05.270420+00:00'
 ---
 
 # 농협은 비료 판매만 하는 곳이 아니다: 대만 농촌 공공조직이 어떻게 식민지 제도에서 신용부 개혁으로 이어졌는가
@@ -119,11 +119,11 @@ Airiti의 전후 농협 연구는 이 역사를 제도적 유산 중 하나로 �
 
 농협의 역사적 위치는 여기에 있다. 국가의 농업 정책은 이를 통해 지방 일상에 진입하고, 지방의 자원 경쟁은 이를 통해 국가 제도로 되돌아온다. 이 왕복 경로를 명확히看清楚해야만, 농협이 서비스를 제공하는 동시에 통제와 경쟁의 압력을 어떻게 받는지를 이해할 수 있다.
 
-## 더 읽을거리
+## 연관 읽기
 
-- [대만 토지개혁](/ko/history/taiwan-land-reform) — 농회 개선과 전후 농촌 권력 재구성의 제도적 배경
-- [대만 농업 현대화 발전](/ko/economy/taiwan-agricultural-modernization) — 농협 보급, 농업 기술 및 산업 전환의 또 다른 실마리
-- [대만 상수도 역사](/history/台灣自來水史) — 농촌 조직에서 공공 기반 시설 제도로의 비교 독서
+- [타이완 토지 개혁](/ko/history/taiwan-land-reform) — 농회 개선과 전후 농촌 권력 재편의 제도적 배경
+- [타이완 농업 현대화 발전](/ko/economy/taiwan-agricultural-modernization) — 농회 보급, 농업 기술 및 산업 전환의 또 다른 맥락
+- [타이완 수돗물 역사](/ko/geography/taiwan-tap-water) — 농촌 조직에서 공공 기반 시설 제도로의 전환에 관한 비교 독서
 
 ## 참고 자료
 
