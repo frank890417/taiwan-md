@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T18:53:45+08:00",
-    "zhCommitHead": "d5009b4e6",
+    "lastUpdated": "2026-11-03T19:23:08+08:00",
+    "zhCommitHead": "a5f89f491",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1145,
-        "stale": 8,
+        "fresh": 1146,
+        "stale": 7,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -68,16 +68,16 @@
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1137,
-        "stale": 12,
+        "fresh": 1138,
+        "stale": 11,
         "metadata_stale": 6,
         "missing": 3,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1143,
-        "stale": 9,
+        "fresh": 1144,
+        "stale": 8,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1158,
-        "fresh": 1126,
-        "stale": 20,
+        "fresh": 1127,
+        "stale": 19,
         "metadata_stale": 9,
         "missing": 3,
         "orphan": 0
@@ -6860,11 +6860,11 @@
           "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-11-03T09:13:02.359759+00:00",
-          "translationLastCommit": "559c19ed",
-          "translationLastModified": "2026-09-26T10:57:26+08:00",
+          "translationLastCommit": "a5f89f49",
+          "translationLastModified": "2026-11-03T18:53:45+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 51079,
+          "bytes": 51081,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -24980,20 +24980,18 @@
         "de": {
           "path": "de/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:496b567ad77c03ca",
-          "sourceBodyHash": "sha256:8487cbc11ae4a897",
-          "translatedAt": "2026-09-09T14:15:07+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:7fe5c0e65f686049",
+          "sourceBodyHash": "sha256:9ab688e1a6cc5330",
+          "translatedAt": "2026-11-03T10:21:25.875071+00:00",
           "translationLastCommit": "50445860",
           "translationLastModified": "2026-10-31T08:37:20+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 128019,
+          "bytes": 154952,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+188 -133"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -94298,8 +94296,8 @@
           "sourceContentHash": "sha256:9da6ac74278aa12e",
           "sourceBodyHash": "sha256:f6dc7e3946b055ef",
           "translatedAt": "2026-11-03T10:45:46.350640+00:00",
-          "translationLastCommit": "94cb2bd7",
-          "translationLastModified": "2026-10-10T23:13:48+08:00",
+          "translationLastCommit": "a5f89f49",
+          "translationLastModified": "2026-11-03T18:53:45+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 19550,
@@ -163936,20 +163934,18 @@
         "pt": {
           "path": "pt/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:887c3be39222e6b9",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T04:51:30+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 32598,
+          "bytes": 33645,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/shulin-red-yeast-rice.md",
@@ -178046,20 +178042,18 @@
         "fr": {
           "path": "fr/History/animal-protection-in-taiwan.md",
           "translatedFrom": "History/動保.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7522efdf3a40c32a",
-          "sourceBodyHash": "sha256:1acff297b5650550",
-          "translatedAt": "2026-08-10T01:58:13+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7976b50994d50f0d",
+          "sourceBodyHash": "sha256:43d507c619cbc518",
+          "translatedAt": "2026-11-03T04:51:18+08:00",
           "translationLastCommit": "ab05e243",
           "translationLastModified": "2026-10-31T08:41:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 12823,
+          "bytes": 13499,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+27 -27"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/animal-protection-in-taiwan.md",
@@ -228706,20 +228700,18 @@
         "id": {
           "path": "id/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "6b09bda3b",
-          "sourceContentHash": "sha256:7af3421e7470e32a",
-          "sourceBodyHash": "sha256:5c337ebcf1a5b681",
-          "translatedAt": "2026-09-19T08:33:29.095902+00:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:22e3e267ff9a4757",
+          "sourceBodyHash": "sha256:9b9e8a536b91f801",
+          "translatedAt": "2026-11-03T04:51:24+08:00",
           "translationLastCommit": "ab05e243",
           "translationLastModified": "2026-10-31T08:41:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 10796,
+          "bytes": 11766,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -25"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-prime-time-drama.md",
