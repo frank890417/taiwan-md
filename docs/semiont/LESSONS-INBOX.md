@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-03 twmd-maintainer-daily — the-more-completely-it-broke-the-fewer-gates-fired：壞得越徹底，叫的閘門越少
+
+- **pattern**: `the-more-completely-it-broke-the-fewer-gates-fired`
+- **原則**：檢查結構的閘門問的幾乎都是「這個東西**長得對不對**」——腳註格式對不對、圖片有沒有 alt、標題的井字號後面有沒有空白、wikilink 指不指得到。這種問法在東西**不存在**時一律回「沒有東西要檢查」，也就是把缺席記成中性，不是記成損壞。於是同一套閘門對「壞掉一處」很靈敏，對「全部都沒有」反而安靜：壞得越徹底，能被它問到的特徵越少，叫的閘門也越少。
+- **觸發**：2026-11-03 本班收讀者菜國人回報的〈戰鬥陀螺〉「格式錯誤」（[issue #1951](https://github.com/frank890417/taiwan-md/issues/1951)）。打開檔案，整篇一個 `#` 都沒有：八個 H2 變裸段落、三張圖只剩 alt 文字、引言卡與兩個資料模組攤成用直線串起來的行、十二條腳註的連結與 `[^N]` 標記全部消失。原因是投稿者 2026-08-19 把**渲染後**的文字貼進 GitHub 網頁編輯器。這篇在站上這樣躺了兩個半月，期間 `article-health --profile=ci-deploy` 的 25+ 個 plugin 對它回 **hard=0**，pre-commit、PR CI、deploy CI 一路綠燈，十二語也照著這份沒有結構的母稿翻了十二遍（翻譯線的閘門全量「譯文對原文忠不忠實」，母稿本身的結構不在它的職責裡）。
+- **三條 WARN 確實有響，而沒有東西在聽**：`format-structure` 當時發的是「缺 30 秒概覽 blockquote」「缺 `## 延伸閱讀`」「缺 `## 參考資料`」三條 WARN。單獨看，每一條都是站上常見且被容忍的狀態（短文沒有延伸閱讀很正常）；**三條同時出現才是「這篇沒有結構」這個強訊號**，而沒有任何一層在做這個聚合。WARN 不擋任何東西，也沒有人每天讀 15,000 檔的 WARN。
+- **已落地的那一半**：新增 `heading-presence`（`scripts/tools/lib/article_health/checks/heading_presence.py`，commit `7018893fb`）——code fence 外一個 ATX 標題都沒有、且正文去空白後超過 400 字元即命中；母稿 HARD、譯文 WARN（缺陷從母稿進來，譯文會在重翻時換掉，對譯文用 HARD 只會在產線追上前擋住所有人的 push）。全庫 15,018 檔 dogfood：HARD 0、WARN 12，十二筆全是那一篇的譯文。判準刻意窄，跟 `heading-format`（issue #1882，管「`##標題`少一個空白」）剛好互為鏡像。
+- **候選機械化（還沒做）**：把「同一篇同時缺 N 項結構特徵」本身升成一條訊號——`format-structure` 的三條 WARN 若同時成立就合併成一條 HARD（或至少印一行「本篇缺 3/3 結構節」），讓「缺席的聚合」有自己的符號，而不是散成三條各自可被容忍的提醒（REFLEXES #85「不知道／沒有」需要自己的符號的結構面變體）。
+- **可能層級**：通用反射（任何「檢查特徵是否良構」的檢查器組都適用——良構性檢查天生對缺席無感，而缺席正是最嚴重的壞法）
+- **相關**：[MEMORY §神經迴路](MEMORY.md) 外部尺第四維度「儀器只看見存在、看不見缺席」——本條是它在**單檔結構層**的 instance，新增的是「缺得越多叫得越少」這個反比形狀；[REFLEXES #82](REFLEXES.md) proxy signal（`hard=0` 被當成「這篇沒問題」的替身，它實際只說「有被檢查到的特徵都合格」）；[REFLEXES #85](REFLEXES.md) 「不知道」需要自己的符號；巴別塔放大（母稿缺陷十二語忠實複製，已 canonical 在 §神經迴路 2026-09-20 那條）；LESSONS `intake-never-asks-whether-the-target-exists`（同一天的另一面：那條問的是接收端動不動得了，本條問的是檢查端看不看得見）
+- **verification_count**: 1
+
 ### 2026-11-03 twmd-feedback-triage — single-item-hold-becomes-queue-blockage-at-flood-scale：為攔一筆而設計的機制，在洪水規模下變成擋住所有新讀者的那道牆
 
 - **pattern**: `single-item-hold-becomes-queue-blockage-at-flood-scale`

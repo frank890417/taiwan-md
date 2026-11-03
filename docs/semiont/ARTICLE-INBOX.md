@@ -2806,6 +2806,22 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **2026-10-08 心跳收窄**：專題頁那半已由 PR #1453 的 `/exams/` 頁實現（2026-09-10 上線），後續缺件（十二語、入口、一手來源）併在「/exams/ 學測專題 feature」那條；本條只剩國中會考單篇，寫好後掛進 `/exams/`
 - **Reference**: Discussion #104 留言、同 Society 分類的〈學測〉、src/templates/budget（專題頁先例）
 
+### 戰鬥陀螺 EVOLVE — 十二條來源的網址在投稿途中遺失，逐句腳註還沒接回去
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/戰鬥陀螺.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-11-03 by twmd-maintainer-daily（讀者菜國人回報格式錯誤，[issue #1951](https://github.com/frank890417/taiwan-md/issues/1951)）
+- **Notes**:
+  - 2026-08-19 投稿時貼的是渲染後的文字，Markdown 整個沒進檔案。11-03 已還原標題階層、引言卡、兩個資料模組與兩張 Commons 圖（commit `a63cd7340`），**但十二條來源的網址與正文的 `[^N]` 標記救不回來**：原始 commit 裡就沒有
+  - 要做的兩件：(a) 十二條來源逐條找回網址並 fetch 驗證（REFLEXES #75，不可憑標題猜網址）(b) 依來源說明把 `[^N]` 接回對應句子，接的時候要驗「這個來源真的支持這一句」（REFLEXES #102）
+  - 文末目前有一段但書告訴讀者網址待補，腳註補回後那段要拿掉
+  - 順便：正文站內連結 0 條、沒有 iframe 影片素材、字數 3,181 低於 4,500 門檻
+  - 十二語譯文帶著同樣的無結構母稿翻過一次，母稿改動後轉 stale，由翻譯產線重跑；重跑完回頭確認 `heading-presence` 那十二筆 WARN 歸零
+- **Reference**: issue #1951 / commit `a63cd7340` / scripts/tools/lib/article_health/checks/heading_presence.py
+
 ## 🚧 In-Progress
 
 _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 entries 裡用 `Status: in-progress` 標記。）_
