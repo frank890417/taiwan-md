@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T20:21:20+08:00",
-    "zhCommitHead": "481ce179b",
+    "lastUpdated": "2026-11-03T22:33:32+08:00",
+    "zhCommitHead": "664a77999",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1148,
+        "fresh": 1149,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1145,
-        "stale": 7,
+        "fresh": 1146,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1148,
-        "stale": 6,
+        "fresh": 1149,
+        "stale": 5,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1158,
-        "fresh": 1147,
+        "fresh": 1148,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "vi": {
@@ -24826,20 +24826,18 @@
         "ko": {
           "path": "ko/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:bbdb130f551a69e8",
-          "sourceBodyHash": "sha256:8487cbc11ae4a897",
-          "translatedAt": "2026-09-08T07:55:18.550059+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:7fe5c0e65f686049",
+          "sourceBodyHash": "sha256:9ab688e1a6cc5330",
+          "translatedAt": "2026-11-03T13:06:51.947936+00:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 139537,
+          "bytes": 142891,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+188 -133"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/threads-in-taiwan.md",
@@ -39790,7 +39788,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/golden-horse-awards.md",
+          "translatedFrom": "Art/金馬獎.md",
+          "sourceCommitSha": "5a2bd85b0",
+          "sourceContentHash": "sha256:593fb85bc3a75b2b",
+          "sourceBodyHash": "sha256:0807c780995523b4",
+          "translatedAt": "2026-11-03T12:39:45.486668+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "bytes": 81179,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -39802,7 +39813,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/golden-horse-awards.md",
+          "translatedFrom": "Art/金馬獎.md",
+          "sourceCommitSha": "5a2bd85b0",
+          "sourceContentHash": "sha256:593fb85bc3a75b2b",
+          "sourceBodyHash": "sha256:0807c780995523b4",
+          "translatedAt": "2026-11-03T13:53:45.889678+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "bytes": 92641,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -52736,8 +52760,8 @@
           "sourceContentHash": "sha256:91aa52253afb126e",
           "sourceBodyHash": "sha256:2c69a76b1198a9c8",
           "translatedAt": "2026-11-03T19:41:55+08:00",
-          "translationLastCommit": "bbb10985",
-          "translationLastModified": "2026-10-10T23:42:41+08:00",
+          "translationLastCommit": "031aebc3",
+          "translationLastModified": "2026-11-03T20:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 28452,
@@ -54628,11 +54652,11 @@
           "sourceContentHash": "sha256:c1027a26b2054b2e",
           "sourceBodyHash": "sha256:48c6ab2b08ee901b",
           "translatedAt": "2026-09-12T19:49:07+08:00",
-          "translationLastCommit": "3c20aad3",
-          "translationLastModified": "2026-09-22T00:49:37+08:00",
+          "translationLastCommit": "c17fd54b",
+          "translationLastModified": "2026-11-03T21:37:17+09:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 25210,
+          "bytes": 25209,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -60502,11 +60526,11 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-13T01:36:38+08:00",
-          "translationLastCommit": "1dd00333",
-          "translationLastModified": "2026-10-31T08:37:26+08:00",
+          "translationLastCommit": "92e61f0a",
+          "translationLastModified": "2026-11-03T21:37:04+09:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 19529,
+          "bytes": 19541,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -78258,20 +78282,18 @@
         "ja": {
           "path": "ja/Society/taiwan-covid-pandemic-and-vaccines.md",
           "translatedFrom": "Society/台灣新冠疫情與疫苗.md",
-          "sourceCommitSha": "fa44ba5a9",
-          "sourceContentHash": "sha256:daafe72a2d9637c8",
-          "sourceBodyHash": "sha256:40600aa18fa8f8d1",
-          "translatedAt": "2026-09-26T22:28:24+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:8f341a7241775e16",
+          "sourceBodyHash": "sha256:840d9f2932e4646b",
+          "translatedAt": "2026-11-03T13:06:27.429645+00:00",
           "translationLastCommit": "8c5a1969",
           "translationLastModified": "2026-09-26T23:19:14+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 151107,
+          "bytes": 153401,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -13"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-covid-pandemic-and-vaccines.md",
@@ -210984,11 +211006,11 @@
           "sourceContentHash": "sha256:2cedbbfcbfc952b5",
           "sourceBodyHash": "sha256:d7c1a96e25224b11",
           "translatedAt": "2026-09-12T18:24:51+08:00",
-          "translationLastCommit": "1dd00333",
-          "translationLastModified": "2026-10-31T08:37:26+08:00",
+          "translationLastCommit": "c17fd54b",
+          "translationLastModified": "2026-11-03T21:37:17+09:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 16290,
+          "bytes": 16260,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
