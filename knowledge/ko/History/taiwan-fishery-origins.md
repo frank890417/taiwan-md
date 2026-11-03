@@ -17,10 +17,10 @@ rationale:
   whos_pushing_back: '保留殖民漁業現代化服務帝國利益的一面，也呈現臺籍技術人才、漁民、販運商、零售商和地方魚市場如何改變制度原本的用途。'
 curation: 'incubating'
 translatedFrom: 'History/台灣漁業起源.md'
-sourceCommitSha: 'ad6842824'
-sourceContentHash: 'sha256:50b4c719b7719ddb'
+sourceCommitSha: '160f6cb59'
+sourceContentHash: 'sha256:8a424bcb797adc65'
 sourceBodyHash: 'sha256:5ae2ca3119e7bd26'
-translatedAt: '2026-09-12T19:49:07+08:00'
+translatedAt: '2026-11-03T04:41:39.717062+00:00'
 ---
 
 # 어항은 출항지일 뿐: 대만 어업은 어떻게 시험선, 어시장, 그리고 기술 인력들에 의해 재구성되었는가
@@ -133,12 +133,12 @@ _그림: 타이둥 성공 어항의 어류 경매. 사진 속 인물들은 시�
 
 마찬가지로, 항구 현대화가 가져온 도로, 제빙, 전력, 그리고 창고는 어촌을 도시 공급망에 연결하지만, 지역이 연료 가격, 외부 매수자, 그리고 정부의 건설 순서에 더 의존하게 만든다. 어시장이 쇠퇴할 때, 남는 것은 단일한 건축물 문제가 아니라, 생활 리듬 전체의 느슨함이다. 이것이 바로 어업사가 생산량之外에서 다시 읽혀야 하는 이유이다: 해상 포획은 시작일 뿐, 진정한 장기적인 역사는 배가 접안한 후에 발생한다.
 
-## 더 읽을거리
+## 연관 읽기
 
-- [대만 어업 현대화](/ko/history/taiwan-fishery-modernization) — 같은 바다의 두 번째半场: 원양 선대, 배타적 경제 수역, 그리고 선적국 책임
-- [대만 농회사](/ko/history/taiwan-farmers-association-history) — 농촌 조직, 금융, 그리고 지역 공공 창구의 제도적 변화
-- [대만 우편사](/history/台灣郵政史) — 지역, 물류, 그리고 국가 행정으로 지역을 연결하는 또 다른 공공 인프라
-- [대만 상수도사](/history/台灣自來水史) — 공학, 위생, 그리고 도시 일상이 어떻게 함께 제도를 형성하는가
+- [타이완 어업 현대화](/ko/history/taiwan-fishery-modernization) — 같은 바다의 하반전: 원양 선단, 배타적 경제수역(EEZ)과 기선국(Flag State)의 책임
+- [타이완 농회사](/ko/history/taiwan-farmers-association-history) — 농촌 조직, 금융 및 지방 공공 창구의 제도적 변화
+- [타이완 우편사](/ko/lifestyle/taiwan-postal-service-history) — 지방, 물류, 국가 행정을 연결하는 또 다른 공공 인프라
+- [타이완 상수도사](/ko/geography/taiwan-tap-water) — 공학, 위생, 도시 일상이 어떻게 함께 제도를 형성하는가
 
 ## 참고 자료
 
