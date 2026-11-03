@@ -1,11 +1,11 @@
 ---
-title: '309 Village Head Books: Challengers Spending 30,000 or 120,000 See a 30% Win Rate'
-description: 'A novice from Taifeng Township, Changhua City, who received 732 votes in 2022 and paid 3,275 NTD for their own campaign. Out of the 13,988 village head candidates nationwide that year, only 309 submitted political donation books to the Control Yuan. When comparing these 309 books with election results, the success rate for challengers without incumbent status who spent under 30,000 NTD and those who spent over 120,000 NTD were both around 30%—the amount of money reveals how long someone has operated in the village, but it is difficult to turn a challenger into a village head.'
+title: '309 Village Chief Account Books: Challengers Spending NT$30,000 and NT$120,000 Both Have 30% Win Rates'
+description: 'A fresh graduate and political novice in Taifeng Village, Changhua City, won 732 votes in 2022 and ended up paying NT$3,275 out of pocket. That year, among 13,988 village chief candidates nationwide, only 309 filed political donation account books with the Control Yuan. Cross-referencing these 309 account books with election results reveals a counterintuitive pattern: among challengers without incumbency, those spending under NT$30,000 and those spending over NT$120,000 both had win rates around 30% — money measures how long a candidate has cultivated their village, but struggles to turn a challenger into a village chief.'
 date: 2026-09-28
 category: 'Politics'
 tags:
   [
-    'village head',
+    'village chief',
     'political donations',
     'election costs',
     'novice candidates',
@@ -22,139 +22,139 @@ difficulty: 'intermediate'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'Politics/309本里長帳簿.md'
-sourceCommitSha: '5a9cd9398'
-sourceContentHash: 'sha256:9ce152768ea44921'
-sourceBodyHash: 'sha256:60bb46f6e4722d51'
-translatedAt: '2026-09-30T10:07:30+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:9da6ac74278aa12e'
+sourceBodyHash: 'sha256:f6dc7e3946b055ef'
+translatedAt: '2026-11-03T04:51:04+08:00'
 ---
 
-# 309 Village Head Books: Challengers Spending 30,000 or 120,000 See a 30% Win Rate
+# 309 Village Chief Account Books: Challengers Spending NT$30,000 and NT$120,000 Both Have 30% Win Rates
 
-> **30-Second Summary:** On November 26, 2022, a novice from Taifeng Township, Changhua City, who had recently graduated from university, received 732 votes, ranking second out of three. The book he submitted to the Control Yuan stated: income of 46,977 NTD, expenditure of 50,252 NTD, and self-contribution of 3,275 NTD. That year, there were 13,988 registered village head candidates nationwide, and only 309 people like him who opened a dedicated political donation account and meticulously reported every cent. A side-by-side comparison of these 309 books and the election results reveals something counterintuitive: among challengers without incumbent status, the quarter who spent the least and the quarter who spent the most had nearly identical success rates.
+> **30-second overview:** On November 26, 2022, a recent university graduate and political novice in Taifeng Village, Changhua City, won 732 votes, placing second in a three-way race. His account book filed with the Control Yuan showed: income of NT$46,977, expenses of NT$50,252, with NT$3,275 paid out of pocket. That year, 13,988 people registered as village chief candidates across Taiwan; only 309 of them — those who opened dedicated political donation accounts and reported every transaction — left account books with the Control Yuan. Cross-referencing these 309 account books with election results reveals a counterintuitive finding: among challengers without incumbency, the bottom quartile and top quartile of spenders had nearly identical win rates.
 
 ---
 
-## The Counting Sounds at the First Polling Station
+## The Vote Announcements at the First Polling Station
 
-On election night, he guarded the first polling station in the village. Staff members unfolded ballots one by one, calling out candidate names: "Candidate A, Candidate B."
+On election night, he stayed at the first polling station inside the village. Staff spread out ballots one by one, announcing candidate names: "So-and-so, one vote; so-and-so, one vote."
 
-This sound had a rhythm. He later reflected that if he knew roughly what percentage each ballot box yielded, and listened to the frequency of his name appearing in the count, he could get a general idea. This was the most objective signal.
+This sound had its rhythm. He later recalled that as long as you knew roughly what proportion each ballot box had yielded in the past, and listened to how frequently your own name appeared in the announcements, you could more or less gauge the outcome. This was the most objective signal.
 
-Earlier signals appeared the night before. The _Public Official Election and Recall Act_ stipulates that no public campaigning is allowed after 10 PM every evening during the campaign period, and all day on election day[^3]. The few hours before 10 PM on the last night before the election were a time of final struggle for candidates; he said he could sense how people responded to you on the streets at that time.
+An earlier signal came the night before. The Civil Servants Election and Recall Act stipulates that during the campaign period, no public campaign activities are allowed after 10 p.m., and on voting day itself, campaigning is prohibited all day[^3]. Those few hours before 10 p.m. on the final night before the election were the candidate's last struggle; he said you could feel how people on the streets responded to you at that moment.
 
-The final numbers were: the winner received 1,339 votes, he received 732 votes, and another candidate recommended by a political party received 532 votes, with a voter turnout of 63.3%[^4].
+The final numbers: the winner 1,339 votes, he 732 votes, the other party-endorsed candidate 532 votes, turnout 63.3%[^4].
 
-## A Book Where He Paid 3,275 NTD Himself
+## An Account Book Showing NT$3,275 Out of Pocket
 
-His reason for running was straightforward: he had a different vision for the locality; if it wasn't working, he wanted to try himself.
+His reason for running was direct: he had a different vision for the locality, and reflecting it through existing channels didn't work, so he decided to run himself.
 
-There were other layers of curiosity. He wanted to know what the role of a village head actually entailed. He had also heard a saying that China uses "United Front" work targeting temples and village heads at the grassroots level. He wanted to see this for himself. Later, research by Professor Gu Ming-jun's team from the Social Sciences Department at Tsinghua University, based on official Chinese reports, did list temples, agricultural cooperatives, and village heads as key targets[^13]. He also wanted to start a community business, thinking that if being a village head was a profession, he could earn an income while doing what he liked.
+Underneath lay a few layers of curiosity. He wanted to know what a village chief actually does day to day. He had also heard a claim: that China's united front work toward Taiwan targets temples and village chiefs as grassroots objects of influence. He wanted to walk the ground himself and see. Later, a research team led by Associate Professor Ku Ming-chun (古明君) of National Tsing Hua University's Institute of Sociology, drawing on official Chinese reports, indeed mapped temples, farmers' and fishermen's associations, and village chiefs as primary targets in the united front network[^13]. He also wanted to start a community venture, thinking that if village chief were a profession, he could do work he liked while earning income.
 
-The legal design and his imagination were not the same. Article 61 of the _Local Government Act_ states that the village head is an **unpaid position**, with the public sector allocating "administrative subsidies"[^5], which amounted to 45,000 NTD per month in 2022, adjusted to 50,000 NTD in 2024[^6]. This money is used to cover administrative expenses for the village office and is not legally considered a salary.
+The law's design differed from his imagination. Article 61 of the Local Government Act states that village chiefs are **unpaid positions**; what local offices budget is an "administrative subsidy"[^5]. In 2022, an amendment raised this from NT$45,000 to NT$50,000 per month, effective December 25 that year; the Ministry of the Interior announced in July 2026 a further increase to NT$54,000 (NT$64,800 in Indigenous areas)[^6]. This money covers village office expenses and is legally not a salary.
 
-He opened a dedicated account and received ten personal donations. The donors included cousins and brothers-in-law from other counties and cities, university and high school classmates, as well as two or three local residents. These local residents had previously challenged the incumbent village head and wanted to support this young man as a successor, regardless of the odds. Coupled with 6,000 NTD in anonymous donations, the total income was 46,977 NTD[^1].
+He opened a dedicated account and received ten personal donations. Donors included a cousin and her husband living in another county, university and high school classmates, and two or three villagers. These villagers had previously challenged the incumbent village chief and saw this young man as a successor; regardless of his odds, they wanted to voice support. Adding NT$6,000 in anonymous donations, total income reached NT$46,977[^1].
 
-Among the reported expenditures of 50,252 NTD, promotional expenses accounted for 49,252 NTD, and the remaining 1,000 NTD were for fuel[^1]. The largest item on the books was a recording microphone and audio interface worth 17,000 NTD, followed by a backpack balloon costing 10,763 NTD, then banners, handheld wireless microphones, and profile photos. There was also an invoice for screen printing worth 2,820 NTD, which he used to print campaign T-shirts on a mesh base.
+Of the reported NT$50,252 in expenses, NT$49,252 went to campaign publicity, the remaining NT$1,000 to fuel[^1]. The largest single line item was NT$17,000 for a recording microphone and audio interface, followed by NT$10,763 for backpack balloons, then signboards, a handheld wireless megaphone, and portrait photos. There was also NT$2,820 for a screen-printing frame, which he used to print campaign T-shirts himself.
 
-In 2022, village head candidates were required to pay a 50,000 NTD deposit, which would be forfeited if the votes did not meet the total number of voters[^3]. The voter count in Taifeng Township was 4,195, so the threshold was approximately 420 votes. He received 732 votes, and his deposit was returned. In terms of accounting, he paid 3,275 NTD himself for this election.
+In 2022, village chief registration required a NT$50,000 deposit, forfeited if the candidate failed to reach 10% of total eligible voters[^3]. Taifeng Village had 4,195 eligible voters, setting the threshold at roughly 420 votes. He won 732 votes, so the deposit was returned. On paper, this election cost him NT$3,275 out of pocket.
 
-## 13,988 Candidates, Only 309 Books
+## 13,988 Candidates, Only 309 Account Books
 
-His books could be found because he opened a dedicated account.
+His account book is accessible because he opened a dedicated account.
 
-Article 10 of the _Political Donation Act_ stipulates that prospective candidates must first open a dedicated account in a financial institution and obtain permission from the Control Yuan before accepting political donations[^2]. Conversely, if a candidate covers all expenses themselves without accepting money from anyone, they do not need to open an account, nor will there be books.
+Article 10 of the Political Donations Act requires prospective candidates to first open a dedicated account at a financial institution and obtain Control Yuan approval before accepting political donations[^2]. Conversely, if a candidate funds everything personally and accepts no outside money, no account is needed and no account book is created.
 
-Out of 13,988 candidates across 7,731 villages nationwide in 2022[^4], only 309 people left election books on the Control Yuan's public review platform for political donations, accounting for about 2.2%[^1]. The spending and where it was spent by the remaining 97.8% are not visible in public records.
+In 2022, across Taiwan's 7,731 villages and 13,988 candidates[^4], only 309 left election account books on the Control Yuan's Political Donations Public Inquiry Platform — about 2.2%[^1]. The other 97.8% — how much they spent and where — is invisible in public data.
 
-That year, there were also 3,058 villages with only one candidate registered, making up 40% of all villages[^4].
+That year, 3,058 villages had only one registered candidate, accounting for 40% of all villages[^4].
 
-Among these 309 books, 10 came from the same civil society project. The social enterprise "Realization Society" launched the "Independent Village Head Academy" in October 2021, which wrote a complete manual for village heads and held 6 workshops nationwide, encouraging over 30 people to run and assisting 10 of them in raising political donations[^8][^9]. This young man from Taifeng Township was the representative from Changhua among these 10.
+Ten of these 309 account books came from a single civil society project. The social enterprise "Realize Society" (實現會社) launched the "Independent Village Chief Academy" in October 2021, published a complete village chief handbook, held six workshops across Taiwan, encouraged over 30 people to run, and assisted 10 of them in raising political donations[^8][^9]. The young man from Taifeng Village was the Changhua representative among these 10.
 
-> 📝 **Curator's Note**: The public system for political donations is designed around "receiving money." It allows voters to see who a candidate owes favors to, but a candidate who funds everything themselves leaves no record in this system. As a result, those most willing to open their books are often the novices with the fewest resources who must ask friends and family for help.
+> 📝 **Curator's note:** The political donation disclosure system is designed around "receiving money." It lets voters see whom a candidate owes favors to, but a candidate who funds everything personally leaves no trace in this system. The result: those most willing to open their books are often the least resourced, forced to ask friends and family for support — the political novices.
 
-## Where Did the Money Go?
+## Where the Money Went
 
-By reclassifying the expenditures from the 309 books according to usage[^10], the total amounted to approximately 28.46 million NTD, with the top four categories being: catering/hosting (20.5%), promotional printing (16.5%), office and venue rental (15.9%), banners and flags (15.0%). Gifts accounted for 11.8%, and personnel costs for 5.7%.
+Reclassifying the expense line items from the 309 account books by purpose[^10], total spending came to roughly NT$28.46 million. The top four categories: dining and hosting 20.5%, printed publicity 16.5%, office and event venues 15.9%, signboards/banners/flags 15.0%. Gifts accounted for 11.8%, personnel costs 5.7%.
 
-Digital expenditures, such as videos, Facebook ads, and profile photos, only made up 1.2%, with only 21 of the 309 people spending this amount.
+Digital spending — videos, Facebook ads, portrait photography — made up only 1.2%, with just 21 of the 309 candidates incurring such costs.
 
-The figures varied greatly from person to person. The median fundraising amount was 45,314 NTD, and the median expenditure was 54,500 NTD. In the 309 cases, 237 people (77%) spent more than they raised, having to cover the difference themselves[^1]. On average, the median cost per vote received was 62 NTD.
+Individual figures varied widely. Median funds raised: NT$45,314; median spending: NT$54,500; 237 of 309 (77%) spent more than they raised, covering the shortfall themselves[^1]. On average, the median cost per vote won was NT$62.
 
-At the village head level, an election campaign's expenses still boil down to meals and flags.
+At the village chief level, a campaign's costs are still measured table by table of meals, banner by banner of flags.
 
-## Spending More or Less, All Result in a 30% Win Rate
+## Spend More or Less, Win Rate Stays at 30%
 
-The most interesting part of this data appears when matching the books with the election results[^4].
+The most interesting finding emerges when account books are matched with election results[^4].
 
-First, looking at the overall picture: the median expenditure of winners was 82,765 NTD, while that of losers was 45,787 NTD. At first glance, it seems like spending more leads to winning.
+First, the overall picture: winners' median spending NT$82,765, losers' NT$45,787. At first glance, spending more appears to help you win.
 
-However, when breaking down incumbents and challengers, the picture changes. In 2018, there were already 73 village heads; in 2022, 61 people successfully re-elected with a win rate of 84%, and a median expenditure of 106,842 NTD. The 229 challengers without incumbent status had only a 27% success rate.
+Split incumbents and challengers, and the picture changes. Of 73 candidates who were already village chiefs in 2018, 61 won re-election in 2022 — an 84% win rate, with median spending of NT$106,842. The 229 challengers without incumbency had a win rate of only 27%.
 
-Next, these 229 challengers were divided into four quartiles based on spending:
+Now divide these 229 challengers into quartiles by spending:
 
-| Spending Range (NTD) | Winners / Count | Win Rate |
+| Spending Range (NT$) | Elected / Total | Win Rate |
 | :------------------- | :-------------- | :------- |
 | 1,233 – 32,000       | 13 / 46         | 28%      |
 | 32,349 – 63,000      | 14 / 47         | 30%      |
 | 64,444 – 122,665     | 13 / 47         | 28%      |
 | 123,600 – 869,890    | 14 / 47         | 30%      |
 
-People who spent over ten thousand NTD and those who spent nearly 870,000 NTD were placed in the same table, with a win rate falling into the same range. The impression that "winners spend more" in the overall data mainly comes from incumbents: they are inherently better at winning and are also more willing to spend.
+Candidates spending a few thousand and those spending nearly NT$870,000 sit in the same table with nearly identical win rates. The overall impression that "winners spend more" comes mainly from incumbents: they were already more likely to win, and also spent more freely.
 
-Of the 21 candidates who had digital expenditures, 11 won. This sample is too small and mixes incumbents and challengers, so this number does not prove causation.
+Among the 21 candidates with digital spending, 11 won. The sample is too small and mixes incumbents and challengers, so this number establishes no causality.
 
-> 📝 **Curator's Note**: The phrase "elections are about money" needs a different question mark at the village head level. Money is more like a thermometer; it can measure how long a candidate has operated in the village or how many people are willing to fund them, but it cannot directly turn a challenger into a village head. In village elections held every four years with nearly equal competition, what is truly scarce is time.
+> 📝 **Curator's note:** The saying "elections are about money" needs reframing at the village chief level. Money acts more like a thermometer — it measures how long a candidate has cultivated their village and how many people are willing to donate, but it struggles to directly turn a challenger into a village chief. In village elections held every four years, where 40% are uncontested, the truly scarce resource is time.
 
-## The 97.8% We Cannot See
+## The Invisible 97.8%
 
-This analysis has one unavoidable limitation: the 309 people were the minority who chose to open accounts.
+This analysis has an unavoidable limitation: the 309 are a self-selected minority who chose to open accounts.
 
-Those willing to open accounts might be more concerned about transparency from the start, or they might have received planned assistance, or they might genuinely need to raise money from others. The 13,679 candidates without books might have spent even more, or perhaps less. Therefore, the conclusion above can only be said to hold "among those who left records," and cannot be extrapolated to all candidates.
+Those willing to open accounts may inherently value transparency more, or may have done so because a project assisted them, or because they genuinely needed to raise funds. The 13,679 candidates without account books may have spent more, or less. Thus the conclusions above hold only "among those who left account books" and cannot be generalized to all candidates.
 
-Another limitation lies in the law itself. The _Political Donation Act_ places borrowing money from oneself or family members in a relatively vague position; the [Transparency of Political Donations](/en/politics/political-donation-transparency/) article on Taiwan.md has already compiled this loophole. The "self-contribution" on the books may not reflect the full cost of an election.
+Another limitation lies in the law itself. The Political Donations Act places candidates borrowing from themselves or family in a relatively ambiguous position; Taiwan.md's article on [political donation transparency (政治獻金透明度)](/en/politics/political-donation-transparency/) has already documented this loophole. The "self-funded" amounts on account books may not reflect a campaign's true total cost.
 
-The system is also changing. In July 2026, the Central Election Commission reduced the deposit for township and village head candidates from 50,000 NTD to 30,000 NTD[^7]. For a candidate with a median expenditure exceeding 50,000 NTD, this reduced the initial barrier to entry by 20,000 NTD.
+The system is also adjusting. In July 2026, the Central Election Commission lowered the village chief candidate deposit from NT$50,000 to NT$30,000[^7]. For a candidate with median spending of NT$50,000+, this reduces the upfront barrier by NT$20,000.
 
-## The Next Batch of Books in 2026
+## 2026: The Next Batch of Account Books
 
-Of the 10 candidates from the Independent Village Head Academy back then, 4 won, one of whom was an incumbent village head and one of the academy's founders. According to the Central Election Commission's registration summary for September 2026, 3 of these 10 re-registered, two of them being winners from 2022[^11].
+Of the 10 Independent Village Chief Academy candidates that year, 4 were elected, including one who was already an incumbent and a co-founder of the academy. According to the CEC's September 2026 registration summary, 3 of these 10 registered again, including two who won in 2022[^11].
 
-The young man from Taifeng Township was not on that list.
+The young man from Taifeng Village is not on the list.
 
-Prospective village head candidates in 2026 can begin accepting political donations starting August 20th[^12]. According to law, candidates must report within three months after the election day, and the Control Yuan must make it public within six months of the deadline[^2]. After the November 28th vote, the next batch of village head books will appear on the platform no later than the end of August 2027. At that time, we can calculate again: is the win rate still the same for those who spent 30,000 and those who spent 120,000?
+Prospective candidates for the 2026 village chief elections could start accepting political donations from August 20[^12]. By law, candidates must file reports within three months after voting day, and the Control Yuan must publish them within six months of the deadline[^2]. After the November 28 vote, the next batch of village chief account books will appear on the platform no later than late August 2027. Then we can run the numbers again: do those spending NT$30,000 and those spending NT$120,000 still have the same win rate?
 
 ---
 
 ## Further Reading
 
-- [Village Head System](/en/politics/village-chief-system) — How do the most grassroots political units in Taiwan operate among 7,748 elected leaders
-- [Transparency of Political Donations](/en/politics/political-donation-transparency) — The design of the reporting system and the loophole of "borrowing from oneself"
-- [2026 Nine-in-One Election](/en/politics/2026-local-elections-taiwan) — The next batch of books will come from this election
+- [Village Chief System](/politics/村里長制度) — 7,748 elected heads, how Taiwan's most grassroots political units operate
+- [Political Donation Transparency (政治獻金透明度)](/politics/政治獻金透明度) — The reporting system's design and the "lending to yourself" loophole
+- [2026 Nine-in-One Elections](/politics/2026%20九合一選舉) — The next batch of account books will come from this election
 
 ## References
 
-[^1]: [Control Yuan Public Review Platform for Political Donations](https://ardata.cy.gov.tw/) — Financial report for the 111 Village (Township) Head Election. This article statistically compiled the latest corrected versions of the 309 initial submissions downloaded via the platform API, excluding residual submissions.
+[^1]: [Control Yuan Political Donations Public Inquiry Platform](https://ardata.cy.gov.tw/) — 2022 Village (Neighborhood) Chief Election Prospective Candidate Accounting Reports. This article's statistics are based on the platform API download of 309 latest corrected first filings, excluding surplus reports.
 
-[^2]: [Political Donation Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — National Legal Database, Article 10 (Dedicated Account), Article 12 (Acceptance Period), Article 21 (Reporting and Disclosure).
+[^2]: [Political Donations Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — National Laws Database, Article 10 (dedicated accounts), Article 12 (acceptance period), Article 21 (reporting and disclosure).
 
-[^3]: [Public Official Election and Recall Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — National Legal Database, Article 32 (Deposit and Refund Threshold), Article 56 (Daily Campaign Activity Time Limit).
+[^3]: [Civil Servants Election and Recall Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — National Laws Database, Article 32 (deposit and refund threshold), Article 56 (daily campaign activity time limits).
 
-[^4]: [Central Election Commission Election Database](https://db.cec.gov.tw/) — Voting results from each village in the 2022 Village Head Election. The number of candidates, the number of villages with equal competition, and challenger win rates were aggregated by the author based on voting results and compared with the 309 books (302 successful comparisons).
+[^4]: [Central Election Commission Election Database](https://db.cec.gov.tw/) — 2022 Village Chief Election Results by Village. Candidate counts, uncontested village counts, and challenger win rates were calculated by the author by summing village-level results and cross-referencing with the 309 account books (302 successfully matched).
 
-[^5]: [Local Government Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — National Legal Database, Article 61: The village head is an unpaid position.
+[^5]: [Local Government Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — National Laws Database, Article 61: Village (neighborhood) chiefs are unpaid positions.
 
-[^6]: [Regulations for Allocating Fees to Local Representatives and Subsidizing Village Head Affairs](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — National Legal Database, Article 7, currently set at 50,000 NTD per month (amended in June 2024).
+[^6]: [Act on Remuneration of Local Elected Officials and Administrative Subsidies for Village Chiefs](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — National Laws Database, Article 7 stipulates NT$50,000 per month, plus 20% for Indigenous areas, with proportional adjustment when general pay adjustments occur, effective date announced by the Ministry of the Interior; the NT$50,000 figure comes from the version amended May 4, 2022, effective December 25, 2022; the NT$54,000 effective July 2026 is the Ministry of the Interior's announced adjustment under this article.
 
-[^7]: [Central Election Commission Reduces Minimum Deposit for Township and Village Head Candidates to 30,000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Central News Agency, July 22, 2026.
+[^7]: [CEC Lowers County/City Mayor and Village Chief Candidate Deposits to Minimum NT$30,000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Central News Agency, 2026-07-22.
 
-[^8]: [Is the "Generation 318 Student Movement Grassroots Campaign" Fading? The Predicament and Breakthrough of Young Village Heads](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — Reporter Kong De-lian, September 5, 2022.
+[^8]: ["Post-Sunflower Movement Grassroots Candidacy Wave Receding? Young Village Chiefs' Predicaments and Breakthroughs"](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Kong De-lian (孔德廉), 2022-09-05.
 
-[^9]: [【First Time Running for Village Head】One-Day Workshop](https://captain-village.a-sociate.tw/2022-workshop/) — Realization Society / Independent Village Head Academy.
+[^9]: ["First Time Running for Village Chief — One-Day Workshop"](https://captain-village.a-sociate.tw/2022-workshop/) — Realize Society · Independent Village Chief Academy.
 
-[^10]: Classification Method: Details were categorized into eight types—catering, promotion, banners, gifts, venue, personnel, digital media, and other—based on the "Expenditure Purpose" and "Expenditure Target" columns of the accounting report. Digital categories only included items listed as videos, ads, or photography in the purpose column, or where the expenditure target was Meta, Google, or a digital marketing company. This classification is proprietary to the author and differs from the statutory subjects in Article 20 of the _Political Donation Act_.
+[^10]: Classification method: based on "expenditure purpose" and "expenditure recipient" fields in accounting reports, line items were grouped into eight categories: dining, publicity printing, signage, gifts, venues, personnel, digital audio/video, other. Digital category includes only items explicitly listing video, advertising, photography in purpose field, or recipients being Meta, Google, digital marketing firms. This classification is author-defined and differs from the statutory categories in Article 20 of the Political Donations Act.
 
-[^11]: [Central Election Commission Registration Summary for Local Officials in 2026](https://web.cec.gov.tw/central/article/64709) — Village Head registration roster, compiled on September 7, 2026, with a total of 14,039 entries.
+[^11]: [CEC 2026 Local Public Official Election Candidate Registration Summary](https://web.cec.gov.tw/central/article/64709) — Village chief registration roster, table date 2026-09-07, 14,039 entries total.
 
-[^12]: [Local Elections in 2026 Are Coming! Ministry of the Interior Reveals "Four Tips" for Political Donations](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Ministry of the Interior, Reminder on the period and reporting of political donations for prospective candidates in local elections in 2026.
+[^12]: [2026 Local Elections Approaching! Ministry of the Interior Reveals Political Donation "4 Key Points"](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Ministry of the Interior, 2026 local election prospective candidate political donation acceptance period and filing reminders.
 
-[^13]: [Tsinghua Scholar Gu Ming-jun Unveils CCP's All-Encompassing United Front Work: Covering Temples, Vendors, Agricultural Cooperatives, Village Heads, Schools, Media, and Tribes](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Wo Cao, Zhu Naiying, January 22, 2024.
+[^13]: [NTHU Scholar Ku Ming-chun Reveals CCP's United Front Dragnet Against Taiwan: Covering Temples, Street Vendors, Farmers'/Fishermen's Associations, Village Chiefs, Schools, Media, Tribes](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Watchout, Chu Nai-ying (朱乃瑩), 2024-01-22.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-03T16:03:47+08:00",
-    "zhCommitHead": "ce791d231",
+    "lastUpdated": "2026-11-03T18:20:51+08:00",
+    "zhCommitHead": "8a13a5b3a",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1146,
-        "stale": 7,
+        "fresh": 1147,
+        "stale": 6,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -36,17 +36,17 @@
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1141,
-        "stale": 11,
+        "fresh": 1142,
+        "stale": 10,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1139,
+        "fresh": 1140,
         "stale": 13,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1158,
-        "fresh": 1137,
-        "stale": 15,
+        "fresh": 1138,
+        "stale": 14,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1136,
-        "stale": 13,
+        "fresh": 1137,
+        "stale": 12,
         "metadata_stale": 6,
         "missing": 3,
         "orphan": 0
@@ -6858,20 +6858,18 @@
         "es": {
           "path": "es/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "7701a4867",
-          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:8cf05677c93164ad",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-09-26T10:25:00+08:00",
+          "translatedAt": "2026-11-03T09:13:02.359759+00:00",
           "translationLastCommit": "559c19ed",
           "translationLastModified": "2026-09-26T10:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 49795,
+          "bytes": 51079,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/pop-music-and-golden-melody-awards.md",
@@ -24884,20 +24882,18 @@
         "vi": {
           "path": "vi/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:bbdb130f551a69e8",
-          "sourceBodyHash": "sha256:8487cbc11ae4a897",
-          "translatedAt": "2026-09-09T03:46:17.427888+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:7fe5c0e65f686049",
+          "sourceBodyHash": "sha256:9ab688e1a6cc5330",
+          "translatedAt": "2026-11-03T09:17:51.683544+00:00",
           "translationLastCommit": "50445860",
           "translationLastModified": "2026-10-31T08:37:20+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 168013,
+          "bytes": 182076,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+188 -133"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/threads-in-taiwan.md",
@@ -70902,18 +70898,18 @@
         "id": {
           "path": "id/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-08-05T16:59:03+08:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:4cb5df6f799962bf",
+          "sourceBodyHash": "sha256:798d31ffe67a0f12",
+          "translatedAt": "2026-11-03T04:51:24+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 10861,
+          "bytes": 12632,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/betel-nut.md",
@@ -94252,20 +94248,18 @@
         "en": {
           "path": "en/Politics/village-chief-campaign-ledgers.md",
           "translatedFrom": "Politics/309本里長帳簿.md",
-          "sourceCommitSha": "5a9cd9398",
-          "sourceContentHash": "sha256:9ce152768ea44921",
-          "sourceBodyHash": "sha256:60bb46f6e4722d51",
-          "translatedAt": "2026-09-30T10:07:30+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:9da6ac74278aa12e",
+          "sourceBodyHash": "sha256:f6dc7e3946b055ef",
+          "translatedAt": "2026-11-03T04:51:04+08:00",
           "translationLastCommit": "28ac08c3",
           "translationLastModified": "2026-10-01T00:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 16748,
+          "bytes": 16776,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Politics/village-chief-campaign-ledgers.md",
@@ -121384,20 +121378,18 @@
         "ko": {
           "path": "ko/People/chen-chih-chung.md",
           "translatedFrom": "People/陳致中.md",
-          "sourceCommitSha": "fa7059f7a",
-          "sourceContentHash": "sha256:4de98c280e186c57",
-          "sourceBodyHash": "sha256:560772bbc10e04f9",
-          "translatedAt": "2026-09-25T11:22:26.364824+00:00",
+          "sourceCommitSha": "8f939af37",
+          "sourceContentHash": "sha256:5d7fa0bcc1a099c9",
+          "sourceBodyHash": "sha256:29069fca59d63cc8",
+          "translatedAt": "2026-11-03T09:20:05.138974+00:00",
           "translationLastCommit": "8f939af3",
           "translationLastModified": "2026-11-02T16:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 68009,
+          "bytes": 63847,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -16"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-chih-chung.md",
@@ -121406,8 +121398,8 @@
           "sourceContentHash": "sha256:5d7fa0bcc1a099c9",
           "sourceBodyHash": "sha256:29069fca59d63cc8",
           "translatedAt": "2026-11-03T05:33:42.606763+00:00",
-          "translationLastCommit": "8f939af3",
-          "translationLastModified": "2026-11-02T16:19:12+08:00",
+          "translationLastCommit": "fa84879e",
+          "translationLastModified": "2026-11-03T16:03:47+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 75041,
