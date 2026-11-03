@@ -1,14 +1,14 @@
 ---
-title: 'Tứ Giờ Chiều: Một quả pháo hoa truyền thống, cháy lên sự kỳ quái và niềm nhớ trong gia đình của Đài Loan'
-description: 'Từ nỗi khổ của Jiao Niao trong thập niên 1990 đến các meme của Lửa Bùng Nổ trong thập niên 2000, Tứ Giờ Chiều không chỉ là nền tảng âm thanh môi trường của người Đài Loan, mà còn là một "cựu kỳ quan" công nghiệp phản ánh thời sự.'
+title: 'Phim giờ vàng: Một que diêm, thắp lên sự kỳ quặc và nỗi hoài niệm trong phòng khách Đài Loan'
+description: 'Từ những bi kịch tình cảm kiểu Quỳnh Dao thập niên 1990 đến các meme "pháo hoa" thập niên 2000, phim giờ vàng không chỉ là âm thanh nền của người dân Đài Loan mà còn là một kỳ tích công nghiệp "quay đến đâu chiếu đến đó" đồng bộ với thực tế.'
 date: 2026-07-25
 category: 'Culture'
 tags:
   [
-    'Phim truyền hình',
-    'Văn hóa phổ biến',
-    'Thuyền ngữ',
-    'Thần học',
+    'Điện ảnh và truyền hình',
+    'Văn hóa đại chúng',
+    'Tiếng Đài Loan',
+    'Meme',
     'Quan sát xã hội',
   ]
 subcategory: '網路文化'
@@ -19,83 +19,81 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '6b09bda3b'
-sourceContentHash: 'sha256:7af3421e7470e32a'
-sourceBodyHash: 'sha256:5c337ebcf1a5b681'
-translatedAt: '2026-09-19T08:35:13.782743+00:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:22e3e267ff9a4757'
+sourceBodyHash: 'sha256:9b9e8a536b91f801'
+translatedAt: '2026-11-03T04:50:34+08:00'
 ---
 
-> **Tóm tắt 30 giây**: Tứ Giờ Chiều là sự bao bọc kéo dài nhất trong lịch sử truyền hình Đài Loan, trung tâm của nó nằm ở "quay ngay phát ngay" - một phong trào công nghiệp hoá siêu tốc, giúp các câu chuyện tưởng tượng hòa thaum với các sự kiện thực tế đang diễn ra. Đó là một "xưởng sản xuất" với chi phí thấp, dù chỉ bằng một phần tám chi phí của các bộ phim Hàn Quốc, nhưng nhờ tính linh hoạt cao và nội dung cay nhọo, Tứ Giờ Chiều đã biến thành một thể loại "thần học kỳ quái" độc đáo trong kỷ nguyên mạng xã hội. Từ "Đòn Đánh Dưa Hành" đến "McCoy Bay Cơ" - Tứ Giờ Chiều không chỉ là nhạc nền cho gia đình các thế hệ trung và cao tuổi, mà còn trở thành kho nguyên liệu quan trọng cho thế hệ trẻ phá hủy và phản biện tính chủ quyền văn hóa của Đài Loan.
+> **Tóm tắt trong 30 giây**: Phim giờ vàng là sự đồng hành bền bỉ nhất trong lịch sử truyền hình Đài Loan. Cốt lõi của nó nằm ở quy trình công nghiệp hóa cực độ "quay đến đâu chiếu đến đó", cho phép các tình tiết hư cấu có thể cùng nhịp thở với các sự kiện thời sự thực tế. Dù vận hành như một "nhà máy sản xuất" chi phí thấp với ngân sách chỉ bằng 1/8 phim Hàn Quốc, nhưng nhờ tính linh hoạt cao trong tự sự và nội dung kịch tính, loại hình này đã tiến hóa thành một dạng "meme kỳ quặc" (cult meme) độc đáo trong kỷ nguyên mạng xã hội. Từ "cú đấm bóp cam" đến "Michael bay lên trời", phim giờ vàng không chỉ là âm thanh nền trong phòng khách của thế hệ trung niên và cao tuổi, mà còn trở thành kho tư liệu quan trọng để thế hệ trẻ chơi đùa và giải cấu trúc tính chủ thể văn hóa Đài Loan.
 
-Đây không phải là một bộ phim được luyện tập kỹ lưỡng, mà là một cuộc chiến chạy theo thời gian. Vào năm 2003, diễn viên Khâu Dương trong "Tứ Giờ Chiều Lửa Bùng Nổ" thốt ra một câu thoại tràn đầy xúc cảm: "Nếu tôi không ưng, tôi sẽ gửi cho bạn một thùng xăng và một quả pháo hoa truyền thống." Câu nói này ngay lập tức kích thích trên toàn quốc, thậm chí trở thành thành ngữ của các nhân vật chính trị và người dân thường. [^1] Các dạng tiểu truyện được gọi là "phim truyền hình bản địa" này, chi phí sản xuất mỗi tập chỉ khoảng 13-15 triệu nhân dân tệ, thấp hơn rất nhiều so với các bộ phim Hàn Quốc thường kéo hàng triệu đồng, nhưng lại tạo ra tỷ lệ khán giả ấn tượng trên 15%. [^2]
+Đây không phải là một vở kịch đã được tập dượt kỹ lưỡng, mà là một cuộc chiến chạy đua với thời gian. Năm 2003, nam diễn viên Tần Dương (Qin Yang) trong bộ phim _Đài Loan Pháo Hoa_ (Taiwan Pili Huo) đã thốt lên một câu: "Nếu ta không vừa ý, ta sẽ tặng ngươi một thùng xăng và một que diêm". Câu thoại đầy sức căng này ngay lập tức gây bão toàn Đài Loan, thậm chí trở thành câu cửa miệng của các chính trị gia và người dân thời bấy giờ. [^1] Hình thức kịch nghệ vốn được gọi mỉa mai là "phim bản địa" này có chi phí sản xuất mỗi tập chỉ khoảng 1,3 đến 1,5 triệu New Taiwan dollar, thấp hơn rất nhiều so với quy mô hàng chục triệu của phim Hàn Quốc, nhưng lại có thể tạo ra tỷ lệ người xem (rating) kinh ngạc vượt mức 15%. [^2]
 
-## Sản xuất cực nhanh: Cựu kỳ quan công nghiệp hoá
+## Sản xuất siêu tốc: Kỳ tích công nghiệp "hôm nay quay, mai chiếu"
 
-Đặc điểm độc đáo và khiến các nhà ngành điện ảnh bỏ ngỡ mắt của Tứ Giờ Chiều đóng vai trò quan trọng là "phim truyền hình quay ngay phát ngay" (On 檔戲). Mô hình này bắt nguồn từ đầu thập niên 2000 khi diễn ra cuộc chiến khán giả, để đối đầu với đối thủ cạnh tranh, các kênh phải có khả năng phản ứng nhanh chóng: "Hôm nay quay, ngày mai phát". [^3]
+Đặc điểm độc đáo nhất và cũng gây kinh ngạc nhất cho giới điện ảnh truyền hình Đài Loan chính là hình thức "On檔戲" (vừa quay vừa chiếu). Mô hình này bắt nguồn từ cuộc chiến giành tỷ lệ người xem đầu những năm 2000; để đối phó với sự thay đổi kịch bản của các đối thủ cạnh tranh, các đài truyền hình phải sở hữu tốc độ phản ứng "hôm nay quay, ngày mai chiếu". [^3]
 
-Trong thực hành, các kênh chính như Min Hsiao, Ba Lai,... tốc độ quay camera rất nhanh. Thường thực hiện theo mô hình "bốn máy quay" thậm chí "năm máy quay", mỗi cảnh diễn chỉ tốn 15-20 phút để hoàn thành, còn cần sản xuất khoảng 2-3 giờ video mỗi ngày. [^4] Tình huống của diễn viên rất khắc nghiệt, thường chỉ nhận được đoạn kịch bản cho ngày hôm sau vào lúc 2-4 giờ sáng, phát âm tiếng Thuyền ngữ và chuyển đổi cảm xúc hoàn toàn dựa vào phản ứng tức thời và chỉnh sửa "hướng dẫn phát âm Thuyền ngữ" trong thời gian thực. [^5]
+Trong vận hành thực tế, nhịp độ quay phim của các đài chủ lực như PTS (Đài Truyền hình Công cộng Đài Loan), SET (Sanlih) là cực kỳ nhanh. Trong trường quay thường sử dụng hệ thống "4 máy" hoặc thậm chí "5 máy", trung bình một cảnh quay chỉ mất từ 15 đến 20 phút, và mỗi ngày cần cho ra khoảng 2 đến 3 giờ phim hoàn chỉnh. [^4] Hoàn cảnh của diễn viên vô cùng khắc nghiệt, họ thường phải nhận kịch bản của ngày hôm sau vào lúc 2 đến 4 giờ sáng; việc phát âm tiếng Đài Loan cũng như chuyển đổi cảm xúc hoàn toàn dựa vào sự ứng biến tại hiện trường và sự điều chỉnh tức thời của "người hướng dẫn tiếng Đài". [^5]
 
-Mô hình "chính trị tỷ lệ khán giả" này cho phép kịch bản có tính linh hoạt cao. Các nhóm biên tập luôn theo dõi đồ thị khán giả và xu hướng mạng xã hội, nếu khán giả không đạt kỳ vọng, có thể thay đổi lớn kịch bản trong vòng 48 giờ - chẳng hạn như khiến nhân vật chính mất trí nhớ, đổi mặt, hoặc xóa bỏ kẻ thù bằng cách rửa sạch hành vi. [^6] Các bộ phim như "Ngày Xưa Tôi Cũng Từng Yêu" và "Gia đình hạnh phúc" đều từng được chèn thêm các cảnh xung đột cao như xác minh giống hệ hoặc vụ tai nạn đường trường vì biến động khán giả.
+Chế độ "lấy rating làm trung tâm" này mang lại sự linh hoạt cực lớn cho kịch bản. Đội ngũ biên kịch luôn theo dõi sát sao biểu đồ tỷ lệ người xem và dư luận trên mạng; nếu rating không như mong đợi, họ có thể thay đổi hoàn toàn cốt truyện trong vòng 48 giờ — ví dụ như đột ngột để nhân vật chính mất trí nhớ, phẫu thuật thay mặt, hoặc tẩy trắng cho nhân vật phản diện. [^6] Các bộ phim như _Đời Chợ Đêm_ hay _Gia Hòa Vạn Sự Hưng_ đều từng phải chèn gấp các tình tiết xung đột cao như xét nghiệm huyết thống hay tai nạn xe liên hoàn do biến động về tỷ lệ người xem.
 
-📝 Ghi chú của người dẫn chương trình: Tứ Giờ Chiều không phải là một bộ phim nghệ thuật, mà là một bộ phim "bạn bè". Nó không cần thịnh phẩm, chỉ cần khi bạn về nhà, chạm vào nút tắt thiết bị, những nhân vật quen thuộc sẽ xuất hiện đúng giờ.
+📝 Ghi chú của giám tuyển: Phim giờ vàng không phải là quay nghệ thuật, mà là quay sự "đồng hành". Nó không cần sự tinh xảo, thứ nó cần là khi bạn đi làm về và bật công tắc đèn, những nhân vật quen thuộc đó sẽ xuất hiện đúng giờ.
 
-## Thời kỷ nguyên meme: Từ "Đòn Đánh Dưa Hành" đến "Đúng là hẹn lời"
+## Kỷ nguyên Meme: Từ "Cú đấm bóp cam" đến "Là đang nói gì vậy" (Shi zai ha lo)
 
-Lịch sử phát triển của Tứ Giờ Chiều cũng là phản ánh của nền văn hóa Đài Loan. Vào cuối thập niên 1980, series "Ngày Mơ" của Jiao Niao mở đầu cho xu hướng quay phim tại Trung Quốc. [^7] Khi bước vào thập niên 2000, các câu chuyện chuyển hướng nhấn mạnh đến địa phương, kinh doanh và xung đột gia đình, tai nạn, mất trí nhớ, đổi mặt, xác minh giống hệ trở thành bốn yếu tố chuẩn của các bộ phim. [^8]
+Lịch sử tiến hóa của phim giờ vàng cũng là hình ảnh thu nhỏ của bầu không khí xã hội Đài Loan. Cuối thập niên 1980, loạt phim _Sáu Giấc Mơ_ của Quỳnh Dao đã mở đầu cho xu hướng sang Trung Quốc đại lục để lấy bối cảnh. [^7] Bước sang sau năm 2000, cốt truyện chuyển hướng nhấn mạnh vào tính bản địa, chiến tranh thương mại và đấu đá gia tộc; tai nạn xe, mất trí nhớ, thay mặt và xét nghiệm huyết thống trở thành "bộ tứ tiêu chuẩn". [^8]
 
-Những các cảnh này từng được xem là "nội dung kỳ quái" nhưng trong kỷ nguyên mạng xã hội, chúng đã được sống lại. Với người xem trung và cao tuổi, Tứ Giờ Chiều là một kênh thư giãn; nhưng với thế hệ Z, nó lại là kho nguyên liệu cho "sự khác biệt dẻm". [^9] Càng những hình ảnh vi phạm luật vật lý - như đòn "Đẩy dưa hành" của Rì Hong, hay McCoy bay lên trời sau khi bị xe chạy - càng dễ bị cắt ghép thành video ngắn và lan truyền trên Threads hay Instagram. [^10] Gần đây, các bên sản xuất còn chủ động "bốc" các meme, chẳng hạn như cách biến thành ngữ "Đúng là hẹn lời" thành tiếng Thuyền ngữ " làm ơn hẹn lời", thành công rất nổi bật khiến các bộ phim bản địa trở thành một "văn hóa kỳ quái" lan truyền qua các thế hệ. [^11]
+Những tình tiết từng bị coi là "sến súa" này đã tìm thấy đời sống thứ hai trong kỷ nguyên mạng xã hội. Đối với khán giả trung niên và cao tuổi, phim giờ vàng là nơi giải tỏa cảm xúc; nhưng đối với Gen Z, nó lại là kho tư liệu cho sự "đáng yêu đầy tương phản" (gap moe). [^9] Những hình ảnh càng trái với quy luật vật lý — như "cú đấm bóp cam" của Lôi Hồng hay cảnh "Michael bay lên trời" khi bị xe tông văng lộn nhào — càng dễ dàng được cắt ghép thành video ngắn để lan truyền chóng mặt trên Threads hoặc Instagram. [^10] Những năm gần đây, các nhà sản xuất còn chủ động "nuôi dưỡng" meme, ví dụ như chuyển cụm từ thịnh hành "Shi zai ha lo" (Là đang nói gì vậy) sang tiếng Đài là "Shi leh ha lo", thành công biến phim bản địa trở thành một dạng "văn hóa kỳ quặc" xuyên thế hệ. [^11]
 
-## Số liệu thương mại và hiệu quả xuất khẩu quốc tế
+## Dữ liệu thương mại và hiệu ứng đuôi dài của xuất khẩu quốc tế
 
-Mặc dù gần đây bị ảnh hưởng bởi xu hướng streaming, tỷ lệ khán giả của Tứ Giờ Chiều thường dao động trong khoảng 2-4%, nhưng các cơ hội huy ra thương mại vẫn rất ấn tượng. [^12] Hình thức nhập sản phẩm (PPL) rất linh hoạt, từ thực phẩm chức năng, bất động sản cho tới quảng cáo bầu cử đều có thể được chèn vào trong vòng hai tập nhanh chóng. [^13]
+Mặc dù những năm gần đây chịu tác động từ các nền tảng trực tuyến khiến tỷ lệ người xem phim giờ vàng thường rơi vào khoảng 2% đến 4%, nhưng cơ hội kinh doanh phái sinh từ nó vẫn rất đáng kinh ngạc. [^12] Việc quảng cáo sản phẩm (PPL) cực kỳ linh hoạt, từ thực phẩm chức năng, môi giới bất động sản cho đến quảng cáo bầu cử đều có thể được lồng ghép nhanh chóng chỉ trong vòng hai tập phim. [^13]
 
-Trên thị trường quốc tế, Tứ Giờ Chiều của Đài Loan cho thấy hiệu quả dài dẳng mạnh mẽ. "Ngày Xưa Tôi Cũng Từng Yêu" tại Việt Nam đã tạo ra chuỗi phát liên tục hơn 5 năm và được phát lại không dứt. [^14] Cấu trúc các chủ đề gia đình và báo ăn nghiệt vụ với tính chất lan tỏa, những bộ phim có chi phí thấp hơn so với các bộ phim ngôi sao hoá chiếm vị trí tốt hơn trong vòng người Hoa Đông Nam Á.
+Trên thị trường quốc tế, phim giờ vàng Đài Loan đã thể hiện "hiệu ứng đuôi dài" mạnh mẽ. Bộ phim _Ý Nan Vong_ (Yi Nan Wang) từng lập kỷ lục phát sóng liên tục hơn 5 năm và được chiếu lại không ngừng tại Việt Nam. [^14] Cấu trúc phổ quát về đạo đức gia đình và luật nhân quả giúp loại hình phim chi phí thấp này dễ dàng bén rễ trong cộng đồng người Hoa tại Đông Nam Á hơn là các bộ phim thần tượng tinh xảo.
 
 ## So sánh mô hình sản xuất xuyên quốc gia
 
-Khi đặt phim truyền hình buổi tối của Đài Loan vào bối cảnh quốc tế, nó tạo ra sự tương phản rõ rệt với hệ thống Hàn Quốc và Mỹ.
+Khi đặt phim giờ vàng Đài Loan vào tầm nhìn quốc tế, chế độ "lấy rating làm trung tâm" của nó tạo nên sự tương phản rõ rệt với hệ thống của Hàn Quốc và Mỹ.
 
-| Hạng mục                    | Phim truyền hình buổi tối Đài Loan        | Phim truyền hình Hàn Quốc                                | Phim truyền hình Mỹ               |
-| :-------------------------- | :---------------------------------------- | :------------------------------------------------------- | :-------------------------------- |
-| **Mô hình sản xuất**        | Quay và phát sóng (Trung tâm khán giả)    | Hệ thống biên kịch (Chuyển sang tiền sản xuất hoàn toàn) | Tiền sản xuất theo mùa (Seasonal) |
-| **Chi phí mỗi tập**         | 1,3 - 1,5 triệu Đài tệ                    | 15 - 30 triệu Đài tệ                                     | Trên 150 triệu Đài tệ             |
-| **Tính linh hoạt kịch bản** | Rất cao (Thay đổi kết cục bất cứ lúc nào) | Trung bình (Không gian thay đổi nhỏ)                     | Thấp (Cần nhiều cấp phê duyệt)    |
-| **Đồng bộ xã hội**          | Tích hợp thời sự, dịch bệnh tức thời      | Chậm hơn 6 tháng trở lên                                 | Chậm hơn 1 năm trở lên            |
+| Hạng mục                    | Phim giờ vàng Đài Loan                        | Phim truyền hình Hàn Quốc                                       | Phim truyền hình Mỹ                  |
+| :-------------------------- | :-------------------------------------------- | :-------------------------------------------------------------- | :----------------------------------- |
+| **Mô hình sản xuất**        | Vừa quay vừa chiếu (Lấy rating làm trung tâm) | Lấy biên kịch làm trung tâm (Chuyển sang tiền sản xuất toàn bộ) | Sản xuất theo mùa (Seasonal)         |
+| **Chi phí mỗi tập**         | 1,3 - 1,5 triệu NT$                           | 15 - 30 triệu NT$                                               | Trên 150 triệu NT$                   |
+| **Tính linh hoạt kịch bản** | Rất cao (Thay đổi kết cục bất cứ lúc nào)     | Trung bình (Không gian thay đổi nhỏ)                            | Thấp (Cần qua nhiều tầng kiểm duyệt) |
+| **Sự đồng bộ xã hội**       | Lồng ghép tức thời thời sự, dịch bệnh         | Trễ hơn 6 tháng trở lên                                         | Trễ hơn 1 năm trở lên                |
 
-📝 Ghi chú của người biên tập: Khi chúng ta chế giễu sự phi lý trong cốt truyện phim buổi tối, thực chất chúng ta đang tham gia vào một màn giải tỏa áp lực tập thể.
+📝 Ghi chú của giám tuyển: Khi chúng ta cười nhạo sự phi lý trong tình tiết phim giờ vàng, thực chất chúng ta đang tham gia vào một cuộc giải tỏa áp lực tập thể.
 
 **Đọc thêm**:
 
-- [Giải thưởng Kim Tông](/vi/culture/golden-bell-awards) — Trong thời kỳ 《Ngôi sao biết lòng tôi》《Bao Thanh Thiên», các đơn vị đoạt giải chương trình truyền hình chưa bao giờ rời Đài Thị, Trung Thị, Hoa Thị
+- [Giải thưởng Kim Chung](/vi/culture/golden-bell-awards) — Vào thời đại của _Tinh Tinh Tri Ngã Tâm_ hay _Bao Thanh Thiên_, các đơn vị đoạt giải phim truyền hình không lần nào nằm ngoài TTV, CTV và CTS.
 
-## Các nguồn tham khảo
+## Tài liệu tham khảo
 
-## Ghi chú
+[^1]: [Câu thoại kinh điển của nhân vật phản diện Lưu Văn Thông "Tặng ngươi một hũ xăng và một que diêm"](https://time.udn.com/udntime/story/122834/7311370) — Chuyên mục Thời gian của United Daily News
 
-[^1]: [Câu trích dẫn nổi tiếng của nhân vật kẻ thù Lê Văn Tông: "Tôi sẽ gửi cho bạn một thùng xăng và một quả pháo hoa truyền thống"](https://time.udn.com/udntime/story/122834/7311370) - Báo Thời Gian (2023)
+[^2]: [Hiện trạng và khó khăn của phim Đài Loan: Dữ liệu nói cho bạn sự thật](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^2]: [Tình trạng hiện tại và khó khăn của phim truyền hình Đài Loan - số liệu kể cho bạn biết thật sự](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Hiệp hội Doanh nghiệp sản xuất chương trình truyền hình và radioroại Cộng hòa Dân quốc
+[^3]: [Phim giờ vàng - Wikipedia, bách khoa toàn thư mở](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) — Mục từ Wikipedia
 
-[^3]: [Tứ Giờ Chiều - Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) - Wikipedia
+[^4]: [Sự đột biến gen của phim hương thổ: Không chỉ là meme, khán giả trẻ ảnh hưởng thế nào đến hệ sinh thái phim giờ vàng tiếng Đài?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^4]: [Thần học, nội dung kỳ quái và sự bao bọc: Tứ Giờ Chiều thuyền ngữ thu hút người xem trẻ qua ba khía cạnh](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - Báo Báo (2021)
+[^5]: [Diễn viên Trương Gia Vĩ công khai mức lương đóng phim giờ vàng: Nhận kịch bản lúc rạng sáng là chuyện thường tình](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) — Bài đăng công khai trên Facebook
 
-[^5]: [Diễn viên Zhang Ji Weí công khai lương khi quay Tứ Giờ Chiều: Nhận kịch bản vào lúc 2-4 giờ sáng là thường ngày](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) - ETtoday (2022)
+[^6]: [Bí mật biên kịch phim giờ vàng! Thay đổi tức thì theo rating và thời sự](https://www.youtube.com/watch?v=y6F2W97rwsY) — Bản ghi video YouTube
 
-[^6]: [Bí mật của kịch bản Tứ Giờ Chiều! Thay đổi kịch bản ngay khi có dữ liệu khán giả và thời sự](https://www.youtube.com/watch?v=y6F2W97rwsY) - Báo Ba Lai Vui vẻ Sao Thông tin (2023)
+[^7]: [Làm sáng lại thương hiệu phim giờ vàng — Phim truyền hình Đài Loan hồi xuân](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) — Chuyên đề trên tạp chí Taiwan Guanghua
 
-[^7]: [Làm sáng lại Tứ Giờ Chiều - Báo cáo về phim truyền hình Đài Loan năm 2002](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) - Tạp chí Hoàng Hoa Việt Nam (2002)
+[^8]: [20 năm tiến hóa của phim Đài Loan: Năm 2004 Ý Nan Vong lập kỷ lục về số tập nhiều nhất trong dòng phim giờ vàng Đài Loan](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^8]: [Lịch sử phát triển 20 năm của phim truyền hình Đài Loan: Năm 2004 Ngày Xưa Tôi Cũng Từng Yêu tạo thành tích nhiều tập nhất của các bộ phim Tứ Giờ Chiều](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) - Báo Mới
+[^9]: [Meme, sự sến súa và sự đồng hành: Bộ ba thu hút khán giả trẻ của phim giờ vàng tiếng Đài](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^9]: [Thần học, nội dung kỳ quái và sự bao bọc: Tại sao Tứ Giờ Chiều thuyền ngữ thu hút người xem trẻ?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - Báo Báo (2021)
+[^10]: [Mỗi ngày một meme kinh điển đến năm 2027 Day102 - Tập đặc biệt phim giờ vàng "Cha Cha"](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^10]: [Mỗi ngày một thần học điểm đến 2027 Ngày 102 Tứ Giờ Chiều đặc biệt tập《Chính xác là bạn》](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) - Threads
+[^11]: ["Shi zai ha lo" biến thành tiếng Đài! "Shi leh ha lo" gây bão](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^11]: [Biến thành ngữ "Đúng là hẹn lời" thành tiếng Thuyền ngữ "Làm ơn hẹn lời" nổi tiếng!](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - Báo Báo (2021)
+[^12]: [Hiện trạng và khó khăn của phim Đài Loan: Dữ liệu nói cho bạn sự thật: Chi phí sản xuất phim Hàn trung bình gấp khoảng 8 lần phim Đài](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^12]: [Tình trạng hiện tại và khó khăn của phim truyền hình Đài Loan - số liệu kể cho bạn biết thật sự: chi phí sản xuất trung bình của phim truyền hình Hàn Quốc khoảng là 8 lần của Tứ Giờ Chiều](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Hiệp hội Doanh nghiệp sản xuất chương trình truyền hình và radioroại Cộng hòa Dân quốc
+[^13]: [Về việc quảng cáo trong phim giờ vàng: Quảng cáo sản phẩm là nguồn thu rất quan trọng của các đài truyền hình](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) — Xem thêm thông tin bổ sung trong liên kết gốc
 
-[^13]: [Về việc nhập sản phẩm trong Tứ Giờ Chiều: nhập sản phẩm là nguồn thu nhập quan trọng của các kênh truyền hình](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) - Threads (2024)
-
-[^14]: [Ngày Xưa Tôi Cũng Từng Yêu (phim truyền hình năm 2004) - Hồi ký lần đầu tình yêu ở Việt Nam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Xem chi tiết tại nguồn gốc được liên kết
+[^14]: [Ý Nan Vong (Phim truyền hình năm 2004) — Kỷ lục về mối tình đầu khó quên tại Việt Nam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Mục từ Wikipedia, ghi lại tình trạng phát sóng và chiếu lại dài hạn của bộ phim tại Việt Nam

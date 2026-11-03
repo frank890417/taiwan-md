@@ -1,96 +1,101 @@
 ---
-title: 'Từ "Đảo Giết Chó" đến Chính Sách Zero Kill: Bốn Mươi Năm Cứu Độc của Bảo Vệ Động Vật Đài Loan'
-description: 'Những năm 1990, Đài Loan bị cộng đồng quốc tế gọi là "Đảo Giết Chó" vì cách đối xử tàn nhẫn với chó hoang. Từ khi Luật Bảo Vệ Động Vật được ban hành năm 1998 cho đến chính sách zero kill toàn diện năm 2017, đây là một cuộc vận động xã hội xác định lại giá trị của sự sống.'
+title: 'Từ "Đảo giết chó" đến mục tiêu không tiêu hủy: Hành trình 40 năm cứu rỗi của bảo vệ động vật tại Đài Loan'
+description: 'Vào thập niên 1990, Đài Loan từng bị quốc tế gọi là "Đảo giết chó" do cách đối xử tàn nhẫn với chó lang thang. Từ việc ban hành Luật Bảo vệ Động vật năm 1998 đến khi thực hiện hoàn toàn chính sách không tiêu hủy vào năm 2017, đây là một cuộc vận động xã hội nhằm định nghĩa lại giá trị của sự sống.'
 date: 2026-07-28
 category: 'History'
 tags:
-  ['bảo vệ động vật', 'vận động xã hội', 'tiến hóa pháp lý', 'lịch sử Đài Loan']
+  [
+    'Bảo vệ động vật',
+    'Vận động xã hội',
+    'Tiến trình pháp luật',
+    'Lịch sử Đài Loan',
+  ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-28
 lastHumanReview: false
 readingTime: 12
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'History/動保.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:7522efdf3a40c32a'
-sourceBodyHash: 'sha256:1acff297b5650550'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: 'e2e11f405'
+sourceContentHash: 'sha256:7976b50994d50f0d'
+sourceBodyHash: 'sha256:43d507c619cbc518'
+translatedAt: '2026-11-03T04:50:34+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Lịch sử bảo vệ động vật của Đài Loan là một bước ngoặt격 liệt từ "xử lý rác thải" sang "tôn trọng sự sống". Từ những năm 1980–90, Đài Loan nổi tiếng không lành tính trên trường quốc tế vì quy mô và sự tàn nhẫn trong cuộc truy bắt chó hoang — thậm chí gây ra sự phản đối du lịch từ các nước Tây Phương và Nhật Bản. Tuy nhiên, nhờ ba mươi năm nỗ lực không ngừng của các tổ chức dân sự, Đài Loan đã ban hành Luật Bảo Vệ Động Vật năm 1998 và chính thức trở thành quốc gia châu Á thứ hai triển khai chính sách "zero kill" năm 2017. Ngày nay, những chú chó kiểm dịch ở sân bay đã trở thành anh hùng quốc dân — một chứng minh rằng xã hội Đài Loan đã vươn lên trong mức độ văn minh.
+> **Tóm tắt trong 30 giây:** Lịch sử bảo vệ động vật của Đài Loan là một bước ngoặt mạnh mẽ từ tư duy "dọn dẹp chất thải" sang "tôn trọng sự sống". Trong những năm 1980 và 1990, Đài Loan đã bị tai tiếng trên trường quốc tế do các chiến dịch truy quét chó lang thang quy mô lớn và tàn nhẫn, thậm chí gây ra làn sóng tẩy chay du lịch từ Âu Mỹ và Nhật Bản. Tuy nhiên, thông qua nỗ lực không ngừng nghỉ suốt ba thập kỷ của các tổ chức dân sự, Đài Loan đã ban hành Luật Bảo vệ Động vật vào năm 1998 và chính thức trở thành quốc gia thứ hai tại châu Á thực hiện chính sách "không tiêu hủy" (zero killing) vào năm 2017. Ngày nay, những chú chó kiểm dịch tại sân bay đã trở thành những người hùng dân tộc, minh chứng cho sự thăng tiến về trình độ văn minh của xã hội Đài Loan.
 
-### Những Năm Hổ Thẹn: Biển Báo "Đảo Giết Chó" Ở Sân Bay Nhật Bản
+### Thời đại hổ thẹn: Biển quảng cáo "Đảo giết chó" tại sân bay Nhật Bản
 
-Vào những năm đầu của thập niên 1990, hình ảnh quốc tế của Đài Loan đang nằm tại một điểm giao thoa cực kỳ mâu thuẫn. Khi phép lạ kinh tế giúp Đài Loan bước lên sân khấu thế giới, hàng chục nghìn con chó hoang trên đường phố đã trở thành góc tối nhất của đất nước. Lúc đó, chính phủ Đài Loan coi chó hoang là "vấn đề vệ sinh môi trường", vì vậy quyền xử lý được giao cho Bộ Bảo vệ Môi trường, chứ không phải cho bất kỳ đơn vị phúc lợi động vật nào[^1].
+Vào đầu thập niên 1990, hình ảnh quốc tế của Đài Loan đang đứng trước một điểm giao thoa đầy mâu thuẫn. Trong khi kỳ tích kinh tế đưa Đài Loan vươn lên tầm thế giới, thì hàng ngàn con chó lang thang trên đường phố lại trở thành góc tối nhất của quốc gia. Khi đó, chính quyền Đài Loan xem chó lang thang là "vấn đề vệ sinh môi trường", và thẩm quyền xử lý thuộc về các đội vệ sinh thuộc Cục Bảo vệ Môi trường, thay vì các đơn vị phúc lợi động vật[^1].
 
-Trong giai đoạn 1993–1994, các tổ chức bảo vệ động vật quốc tế như "Hiệp Hội Bảo Vệ Động Vật Thế Giới" (WSPA) đã phát động một cuộc tẩy chay Đài Loan mạnh mẽ. Vào thời đó, tại các cửa ngõ quốc tế như sân bay Narita ở Nhật Bản, sân bay Heathrow ở Luân Đôn, những tấm biển khổng lồ xuất hiện với tiêu đề "Đài Loan: Đảo Giết Chó" (Taiwan: Land of Dog Killing), kêu gọi du khách quốc tế không nên đến thăm quốc gia này vì cách đối xử tàn nhẫn với động vật[^2]. Các tấm biển in hình ảnh chó hoang bị điện giật, chết đuối thậm chí bị chôn vùi tập thể — những hình ảnh kinh hoàng này là một đòn tấn công lớn vào ngoại giao và hình ảnh của chính phủ Đài Loan, lúc đó đang tích cực tranh thủ vị trí quốc tế.
+Trong giai đoạn 1993-1994, các tổ chức bảo vệ động vật quốc tế như Hiệp hội Bảo vệ Động vật Thế giới (WSPA) đã phát động chiến dịch tẩy chay Đài Loan mạnh mẽ. Tại các cửa ngõ quốc tế như sân bay Narita (Nhật Bản) hay sân bay Heathrow (London), những tấm biển quảng cáo khổng lồ đã xuất hiện với tiêu đề "Đài Loan: Đảo giết chó" (Taiwan: Land of Dog Killing), kêu gọi du khách quốc tế không đến quốc gia đối xử tàn nhẫn với động vật này[^2]. Trên các tấm biển in hình ảnh kinh hoàng về việc chó lang thang bị điện giật, chết đuối hay bị chôn cất tập thể, gây ra một đòn giáng mạnh vào ngoại giao và hình ảnh của chính quyền Đài Loan vốn đang tích cực đấu tranh để giành vị thế quốc tế.
 
-📝 Ghi chú của nhà sưu tập: "Lực lượng bắt chó" ngày xưa thực ra chỉ là đội vệ sinh, những con chó được coi như "rác thải", ngang nhất với những vật dụng khác. Đằng sau cách xử lý này là một sự bao che tập thể của xã hội đối với giá trị của sự sống.
+📝 Ghi chú của người giám tuyển: "Đội bắt chó" thời bấy giờ thực chất là đội vệ sinh, chó bị xem như "chất thải" giống như rác rưởi. Đằng sau logic xử lý này chính là sự thờ ơ tập thể của xã hội đối với giá trị của sự sống.
 
-### Sự Thức Tỉnh Do Thảm Kịch: Từ Các Vụ Cắn Người Đến Khi Luật Bảo Vệ Động Vật Ra Đời
+### Sự thức tỉnh từ bi kịch: Từ các vụ tấn công người đến sự ra đời của Luật Bảo vệ Động vật
 
-Mặc dù áp lực quốc tế là một lực thúc đẩy, nhưng sự thức tỉnh thật sự đến từ những bài học máu tanh từ bên trong Đài Loan. Năm 1992, Hoa Liên, Tân Trúc và Đài Bắc liên tiếp xảy ra ba vụ thảm kịch khi chó hoang cắn chết trẻ em, gây nên sợ hãi xã hội về "chó hoang tràn ngập"[^3]. Tuy nhiên, thay vì dẫn đến những vụ giết hại tàn nhẫn hơn, nỗi sợ này lại kích thích sự tổ chức của các nhóm dân sự. Năm 1993, "Hiệp Hội Chăm Sóc Sự Sống" thành lập, bắt đầu thúc đẩy bộ luật bảo vệ động vật đầu tiên của Đài Loan[^4].
+Áp lực quốc tế dù là động lực, nhưng sự thức tỉnh thực sự lại đến từ những bài học xương máu bên trong Đài Loan. Năm 1992, ba vụ chó lang thang cắn chết trẻ em liên tiếp xảy ra tại Hoa Liên, Tân Trúc và Đài Bắc đã gây ra sự hoảng loạn trong xã hội về tình trạng "chó hoang tràn lan"[^3]. Tuy nhiên, sự hoảng loạn này không dẫn đến những cuộc thảm sát tàn bạo hơn, mà ngược lại đã kích thích sự tổ chức hóa của các nhóm dân sự. Năm 1993, Hiệp hội Quan tâm Sự sống (Life Care Association) được thành lập, bắt đầu thúc đẩy đạo luật chuyên biệt đầu tiên về bảo vệ động vật tại Đài Loan[^4].
 
-Vào ngày 4 tháng 11 năm 1998, Luật Bảo Vệ Động Vật chính thức được công bố và có hiệu lực. Bộ luật này ghi vào các điều luật rằng "không được tùy tiện giết động vật", mặc dù lúc đó nó vẫn giữ lại mệnh đề cho phép "xử lý nhân đạo những động vật không được nhận nuôi sau bảy ngày công bố", nhưng nó đã chấm dứt kỷ nguyên tối tăm ngoài luật khi các đội vệ sinh tùy tiện điện giật hay chết đuối chó hoang, nâng quản lý động vật từ mức độ vấn đề môi trường lên mức độ pháp lý[^5].
+Ngày 4 tháng 11 năm 1998, Luật Bảo vệ Động vật chính thức được công bố và thực thi. Đạo luật này đã đưa điều khoản "không được tùy ý giết mổ động vật" vào văn bản pháp luật. Mặc dù lúc đó vẫn còn giữ điều khoản "xử lý nhân đạo đối với động vật không có người nhận nuôi sau khi thông báo quá bảy ngày", nhưng nó đã chấm dứt thời kỳ đen tối ngoài vòng pháp luật khi các đội vệ sinh tùy ý dùng điện giật hay dìm chết chó lang thang, nâng việc quản lý động vật từ vấn đề môi trường lên tầm mức pháp lý[^5].
 
-### Sức Mạnh Của Hình Ảnh: Bộ Phim Tài Liệu "Mười Hai Đêm" Gây Sóng Thần Xã Hội
+### Sức mạnh của hình ảnh: Cơn sóng thần xã hội từ phim tài liệu "Twelve Nights"
 
-Mặc dù đã có Luật Bảo Vệ Động Vật, các trung tâm chứa nuôi công lập của Đài Loan vẫn dài lâu chịu tình trạng quá tải và tỷ lệ tiêu huỷ cao. Trước năm 2012, tỷ lệ tiêu huỷ tại các trung tâm chứa nuôi toàn Đài Loan thường duy trì ở mức 50% trở lên, với một số khu vực thậm chí lên tới 80%[^6].
+Ngay cả khi đã có Luật Bảo vệ Động vật, các trạm cứu hộ công lập tại Đài Loan vẫn rơi vào tình trạng quá tải và tỷ lệ tiêu hủy cao trong thời gian dài. Trước năm 2012, tỷ lệ tiêu hủy tại các trạm cứu hộ trên toàn Đài Loan thường duy trì ở mức trên 50%, thậm chí có nơi lên tới 80%[^6].
 
-Năm 2013, bộ phim tài liệu "Mười Hai Đêm" được công chiếu, ghi lại chân thực những ngày sinh tồn cuối cùng của chó hoang trong trung tâm chứa nuôi — duy nhất mười hai ngày. Những ánh mắt tuyệt vọng của chúng và môi trường chật chội bẩn thỉu trong phim đã gây ra một trận sóng thần cảm xúc khổng lồ trong xã hội Đài Loan[^10]. Bộ phim này không chỉ bán được vé lên tới sáu mươi triệu, mà còn trực tiếp chuyển đổi thành áp lực chính trị. Năm 2015, Viện Lập pháp thông qua sửa đổi Luật Bảo Vệ Động Vật trong khoảng thời gian rất ngắn, tuyên bố rằng hai năm sau sẽ hoàn toàn bãi bỏ việc tiêu huỷ tại các trung tâm chứa nuôi công lập, tức chính sách gọi là "zero kill"[^11].
+Năm 2013, bộ phim tài liệu _Twelve Nights_ (Mười hai đêm) được công chiếu, ghi lại chân thực thực tế tàn khốc về 12 ngày cuối cùng của cuộc đời những chú chó lang thang trong trạm cứu hộ. Ánh mắt tuyệt vọng của những chú chó cùng môi trường chật chội, bẩn thỉu trong phim đã tạo ra một cơn sóng thần cảm xúc mãnh liệt trong xã hội Đài Loan[^10]. Bộ phim không chỉ đạt doanh thu 60 triệu Đài tệ mà còn trực tiếp chuyển hóa thành áp lực chính trị. Năm 2015, Lập pháp viện đã thông qua bản sửa đổi Luật Bảo vệ Động vật trong thời gian ngắn, tuyên bố bãi bỏ hoàn toàn việc nhân đạo hóa (euthanasia) tại các trạm cứu hộ công lập sau hai năm, tức là thực hiện chính sách "không tiêu hủy"[^11].
 
-### Kết Thúc Mười Hai Đêm: Những Cột Mốc của Chính Sách Zero Kill và Thử Thách
+### Kết thúc của "Twelve Nights": Cột mốc và thách thức của chính sách không tiêu hủy
 
-Vào tháng 2 năm 2017, Đài Loan chính thức triển khai toàn diện chính sách "zero kill", trở thành quốc gia châu Á thứ hai có quy định pháp luật rằng trung tâm chứa nuôi không được giết những động vật khỏe mạnh vì lý do không gian hay thời gian[^7]. Tuy nhiên, zero kill không phải là đích đến, mà là khởi đầu của một thử thách khác.
+Tháng 2 năm 2017, Đài Loan chính thức triển khai toàn diện chính sách "không tiêu hủy", trở thành quốc gia thứ hai tại châu Á quy định bằng luật rằng các trạm cứu hộ không được giết hại động vật khỏe mạnh vì lý do không gian hay thời gian[^7]. Tuy nhiên, không tiêu hủy không phải là điểm kết thúc, mà là sự khởi đầu của một thử thách khác.
 
-Sau khi chính sách được triển khai, số lượng động vật trong các trung tâm chứa nuôi tăng vọt. Vì quy tắc "chỉ tiếp nhận mà không cho đi", các trung tâm chứa nuôi đã chuyển từ một điểm dừng chân tạm thời thành "nơi nuôi dưỡng lâu dài", nhiều chó bị giam giữ trong những chuồng chật chội quá một ngàn ngày[^7]. Điều này dẫn đến suy giảm chất lượng chăm sóc, áp lực lên bác sĩ thú y tăng vọt, và thậm chí xuất hiện những chuyển hướng chính sách như "bắt chó có mục đích" và "triệt sản sau đó thả lại (TNVR)", cố gắng giảm bớt áp lực vào các trung tâm ngay từ gốc rễ.
+Sau khi thực hiện chính sách, số lượng động vật tại các trạm cứu hộ tăng vọt. Do tình trạng "chỉ có vào mà không có ra", các trạm cứu hộ từ trạm trung chuyển đã biến thành "trạm lưu trú cuối cùng", khiến nhiều chú chó phải ở trong những chiếc chuồng chật hẹp hơn một nghìn ngày[^7]. Điều này dẫn đến chất lượng chăm sóc giảm sút, áp lực lên các bác sĩ thú y tăng cao, thậm chí xuất hiện sự chuyển hướng chính sách sang "bắt chó có chọn lọc" và "triệt sản rồi thả về (TNVR)" nhằm cố gắng giảm bớt áp lực nhập trại từ nguồn gốc.
 
-📝 Ghi chú của nhà sưu tập: Chính sách zero kill thể hiện sự tiến bộ văn minh trên mặt pháp luật, nhưng trên thực tế hành động lại tiết lộ hậu quả dài hạn của thiếu quản lý nguồn gốc (chẳng hạn như xử phạt bỏ rơi động vật, đăng ký chủ nuôi).
+📝 Ghi chú của người giám tuyển: Chính sách không tiêu hủy thể hiện sự tiến bộ về văn minh trên phương diện pháp lý, nhưng trên phương diện thực thi, nó đã để lộ hậu quả của việc thiếu sót trong quản lý nguồn gốc (như xử phạt bỏ rơi thú cưng, đăng ký chủ nuôi) trong thời gian dài.
 
-### Xung Đột Sinh Thái: Cuộc Chiến Sống Sót Giữa Chó Hoang và Động Vật Hoang Dã Gốc
+### Xung đột sinh thái: Cuộc chiến sinh tồn giữa chó lang thang và động vật hoang dã bản địa
 
-Khi số lượng chó hoang tiếp tục tồn tại ngoài tự nhiên, vấn đề bảo vệ động vật của Đài Loan đã bước vào một lĩnh vực tranh cãi mới: xung đột giữa chó hoang và động vật hoang dã gốc địa phương. Gần đây, những con nai, những con mèo bốn chân (石虎) tại Nam Đầu và những con tê tê ở các địa phương khác nhau liên tục bị thông báo bị chó hoang tấn công gây chết, mà các nhà khoa học gọi là vấn đề "chó giết" (犬殺)[^12].
+Khi số lượng chó lang thang tiếp tục tồn tại ngoài tự nhiên, vấn đề bảo vệ động vật tại Đài Loan bước vào một lĩnh vực tranh cãi mới: xung đột giữa chó lang thang và động vật hoang dã bản địa. Những năm gần đây, các trường hợp hươu núi (Sika deer) ở Dương Minh Sơn, hổ đá (Clouded leopard) ở Nam Đầu và tê tê ở nhiều nơi thường xuyên bị tấn công dẫn đến tử vong bởi chó lang thang, vấn đề này được giới học thuật gọi là "chó giết" (dog-kill)[^12].
 
-Các nghiên cứu cho thấy rằng hơn một nửa các con tê tê được đưa đến các trung tâm cứu trợ bị cắn từ chó, và một phần ba các con mèo bốn chân được thả vào tự nhiên chết tại miệng chó[^13]. Điều này gây ra cuộc tranh luận gay gắt giữa các tổ chức bảo vệ động vật (quan tâm đến sự sống của cá thể) và các tổ chức bảo tồn (quan tâm đến sự tồn tại của loài). Làm thế nào để bảo vệ những loài động vật hoang dã quý hiếm gốc địa phương trong khung "zero kill" đã trở thành bài toán đạo đức môi trường khó khăn nhất hiện nay của Đài Loan[^14].
+Nghiên cứu cho thấy, trong số các cá thể tê tê được đưa đến trung tâm cứu hộ, hơn một nửa bị thương do chó cắn; và trong số hổ đá được thả về tự nhiên, cũng có một phần ba chết dưới miệng chó[^13]. Điều này gây ra cuộc tranh luận gay gắt giữa các nhóm bảo vệ động vật (quan tâm đến sinh mạng cá thể) và các nhóm bảo tồn (quan tâm đến sự tồn vong của loài). Làm thế nào để bảo vệ các loài động vật bản địa quý hiếm trong khuôn khổ "không tiêu hủy" đã trở thành một bài toán đạo đức môi trường hóc búa nhất hiện nay tại Đài Loan[^14].
 
-### Đài Loan Ngày Nay: Từ Gánh Nặng Quốc Dân Đến Thần Chó Bảo Vệ
+### Đài Loan ngày nay: Từ gánh nặng quốc gia đến những chú chó hộ quốc
 
-Sau khi trải qua quãng lịch sử hổ thẹn đó, thái độ của người Đài Loan đối với động vật đã thay đổi hoàn toàn. Năm 2026, một loạt áp phích tuyên truyền tại sân bay Đào Viên gây nên sự chú ý trên các mạng xã hội Nhật Bản, với những diễn viên chính là hai chú chó Beagle kiểm dịch với ánh mắt sắc sảo, kèm theo khẩu hiệu chơi chữ "I hít YOU", thể hiện sự chuyên nghiệp và hài hước trong việc bảo vệ an toàn nông nghiệp của Đài Loan[^8].
+Bước qua giai đoạn lịch sử hổ thẹn đó, thái độ của người dân Đài Loan đối với động vật ngày nay đã khác biệt hoàn toàn. Năm 2026, một bộ áp phích tuyên truyền tại sân bay Đào Viên đã gây xôn xao trên mạng xã hội Nhật Bản, với nhân vật chính là hai chú chó kiểm dịch giống Beagle có ánh mắt sắc sảo, đi kèm khẩu hiệu chơi chữ "I 吸 YOU", thể hiện sự chuyên nghiệp và hài hước của Đài Loan trong việc bảo vệ an ninh nông nghiệp[^8].
 
-Từ tấm biển tẩy chay xấu hổ ở sân bay Nhật Bản những năm 1990 cho đến tấm áp phích "siêu hay" về những chú chó kiểm dịch được người dùng Nhật Bản chia sẻ đắp đổi vào những năm 2020, vòng cung dài bốn mươi năm này ghi lại không chỉ là vận mệnh của động vật, mà còn là cách học tập của người Đài Loan về cách sống chung với những sự sống khác — một hành trình văn minh. Mặc dù hiện tại vẫn đối mặt với những thách thức mới như tình trạng quá tải các trung tâm chứa nuôi và xung đột sinh thái, nhưng "sự sống không nên bị xoá bỏ tùy tiện" đã trở thành một niềm tin vững chắc trên hòn đảo này[^9].
+Từ tấm biển tẩy chay đầy hổ thẹn tại sân bay Nhật Bản những năm 1990, đến hình ảnh "chó kiểm dịch siêu ngầu" được cư dân mạng Nhật Bản chia sẻ rộng rãi vào những năm 2020, đường cong kéo dài suốt bốn mươi năm này không chỉ ghi lại số phận của các loài động vật, mà còn là hành trình văn minh về cách người Đài Loan học cách chung sống với các sinh mệnh khác. Dù hiện tại vẫn đang đối mặt với những thách thức mới như sự quá tải của các trạm cứu hộ hay xung đột sinh thái, nhưng niềm tin vững chắc rằng "sự sống không nên bị xóa bỏ một cách tùy tiện" đã trở thành đức tin của hòn đảo này[^9].
 
 ---
 
-### Tài Liệu Tham Khảo
+### Tài liệu tham khảo
 
-## Footnotes
+## Tài liệu tham khảo
 
-[^1]: [1950年至2022年台灣流浪狗事件簿](https://animal-friendly.co/pet/39823/) — 動物友善 Animal Friendly
+[^1]: [Nhật ký các sự kiện chó lang thang tại Đài Loan từ năm 1950 đến 2022](https://animal-friendly.co/pet/39823/) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^2]: [外國團體對台灣流浪狗問題的報導](https://h2friends.com/board/hstr/4959.html) — 1998年7月26日
+[^2]: [Báo cáo của các tổ chức nước ngoài về vấn đề chó lang thang tại Đài Loan](https://h2friends.com/board/hstr/4959.html) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^3]: [論我國流浪犬貓的行政管理](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — 農業部動物保護資訊網
+[^3]: [Về quản lý hành chính đối với chó và mèo lang thang tại nước ta](https://animal.moa.gov.tw/public/upload/Know_ListFile/2001141040383343974K87A.pdf) — Cổng thông tin tri thức Bộ Nông nghiệp
 
-[^4]: [關懷生命協會的立基背景與九十年代的台灣動保發展](https://www.lca.org.tw/article/3651) — 關懷生命協會
+[^4]: [Bối cảnh thành lập của Hiệp hội Quan tâm Sự sống và sự phát triển bảo vệ động vật tại Đài Loan thập niên 90](https://www.lca.org.tw/article/3651) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^5]: [動物保護法在臺灣的過去與現在！](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — 國立臺中教育大學
+[^5]: [Quá khứ và hiện tại của Luật Bảo vệ Động vật tại Đài Loan!](https://mdtp.ntcu.edu.tw/storage/media/Ttu0OMH9GqSBpArgHMpuUEEEMS1BMkjt3mThSM5C.pdf) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^6]: [別讓我流浪 - 我們的島](https://ourisland.pts.org.tw/content/968) — 公視新聞網 (Xem chi tiết tại nguồn gốc được liên kết)
+[^6]: [Đừng để tôi phải lang thang - Đảo của chúng ta](https://ourisland.pts.org.tw/content/968) — Chuyên đề "Đảo của chúng ta" của PTS
 
-[^10]: [十二夜（臺灣電影）- 維基百科](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — 維基百科 (Xem chi tiết tại nguồn gốc được liên kết)
+[^10]: [Twelve Nights (Phim Đài Loan) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8C%E5%A4%9C_%28%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%29) — Mục từ Wikipedia
 
-[^11]: [回到第零天專訪《十二夜》](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — 安妮新聞 (Xem chi tiết tại nguồn gốc được liên kết)
+[^11]: [Phỏng vấn đặc biệt về "Ngày thứ không" trong phim Twelve Nights](https://aade.project.edu.tw/annetimes/journal/9/%E5%9B%9E%E5%88%B0%E7%AC%AC%E9%9B%B6%E5%A4%A9-%E5%B0%88%E8%A8%AA%E3%80%8A%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8B) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^7]: [當中途之家變成終養站，直擊12夜終結後的公立收容所真相](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — 報導者 The Reporter
+[^7]: [Khi trạm trung chuyển biến thành trạm lưu trú cuối cùng, trực tiếp nhìn vào sự thật về các trạm cứu hộ công lập sau khi kết thúc "Twelve Nights"](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-public-shelters) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^12]: [野外棲地誰的家──犬殺頻傳，遊蕩犬與野生動物衝突下的生態與公衛危機](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — 報導者 The Reporter
+[^12]: [Môi trường sống hoang dã là nhà của ai — Tình trạng chó giết xảy ra thường xuyên, cuộc khủng hoảng sinh thái và y tế công cộng dưới xung đột giữa chó lang thang và động vật hoang dã](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^13]: [救傷逾半穿山甲、1/3野放石虎遭犬殺 特生中心痛陳任意餵養](https://www.agriharvest.tw/archives/102801/) — 農傳媒 (Xem chi tiết tại nguồn gốc được liên kết)
+[^13]: [Hơn một nửa tê tê cứu hộ và 1/3 hổ đá thả về tự nhiên bị chó giết, Trung tâm Nghiên cứu Khoa học và Công nghệ sinh học (TFC) đau lòng lên tiếng về việc cho ăn tùy tiện](https://www.agriharvest.tw/archives/102801/) — Bài viết chuyên sâu của Truyền thông Nông nghiệp
 
-[^14]: [台灣石虎保育協會：對遊蕩犬貓應採取更積極管理](https://www.twlcat.org/2025/07/4830/) — 台灣石虎保育協會
+[^14]: [Hiệp hội Bảo tồn Hổ đá Đài Loan: Cần thực hiện quản lý tích cực hơn đối với chó và mèo lang thang](https://www.twlcat.org/2025/07/4830/) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Taipei Times
+[^8]: [Taoyuan airport posters featuring dogs go viral](https://www.taipeitimes.com/News/taiwan/archives/2026/05/05/2003856784) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^9]: [動物保護法- 維基百科](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — 維基百科 (Xem chi tiết tại nguồn gốc được liên kết)
+[^9]: [Luật Bảo vệ Động vật - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E6%B3%95) — Mục từ Wikipedia

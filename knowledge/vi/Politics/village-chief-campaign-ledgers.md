@@ -1,14 +1,14 @@
 ---
-title: '309 cuốn sổ sách của trưởng thôn: Thách thức với chi phí ba vạn và mười hai vạn, tỷ lệ thắng đều là ba thành'
-description: 'Một người bình thường mới tốt nghiệp tại Đài Phượng Lý, Thành phố Chương Hóa, giành được 732 phiếu vào năm 2022 và tự đóng góp 3.275 tệ. Trong số 13.988 ứng viên trưởng thôn toàn đảo năm đó, chỉ có 309 người nộp sổ sách tài chính chính trị cho Viện Giám sát. Khi đối chiếu 309 cuốn sổ này với kết quả bầu cử, tỷ lệ đắc cử của các thách thức không phải là đương nhiệm, chi dưới ba vạn và trên mười hai vạn đều dao động quanh mức ba thành—số tiền thể hiện thời gian một người hoạt động trong thôn, nhưng rất khó biến một người thách thức thành trưởng thôn.'
+title: '309 cuốn sổ thu chi của trưởng thôn: Thách thức giữa mức chi 30.000 và 120.000 NT$, tỷ lệ thắng đều chỉ khoảng 30%'
+description: 'Một người mới tốt nghiệp tại thôn Đài Phượng, thành phố Chương Hóa, đã nhận được 732 phiếu bầu vào năm 2022 nhưng phải tự bù lỗ 3.275 NT$. Trong số 13.988 ứng cử viên trưởng thôn trên toàn Đài Loan năm đó, chỉ có 309 người để lại sổ sách đóng góp chính trị tại Viện Giám sát. Phân tích 309 cuốn sổ này cho thấy: đối với những người thách thức không phải đương nhiệm, tỷ lệ trúng cử của nhóm chi dưới 30.000 NT$ và nhóm chi trên 120.000 NT$ đều xấp xỉ 30% — tiền bạc có thể đo lường thời gian một người gây dựng uy tín tại địa phương, nhưng khó có thể biến một người thách thức thành trưởng thôn.'
 date: 2026-09-28
 category: 'Politics'
 tags:
   [
     'trưởng thôn',
-    'tài chính chính trị',
+    'đóng góp chính trị',
     'chi phí bầu cử',
-    'ứng viên bình thường',
+    'ứng cử viên mới',
     'Viện Giám sát',
     'bầu cử 2022',
     'bầu cử 2026',
@@ -22,139 +22,139 @@ difficulty: 'intermediate'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'Politics/309本里長帳簿.md'
-sourceCommitSha: '5a9cd9398'
-sourceContentHash: 'sha256:9ce152768ea44921'
-sourceBodyHash: 'sha256:60bb46f6e4722d51'
-translatedAt: '2026-09-30T09:13:36+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:9da6ac74278aa12e'
+sourceBodyHash: 'sha256:f6dc7e3946b055ef'
+translatedAt: '2026-11-03T04:50:34+08:00'
 ---
 
-# 309 cuốn sổ sách của trưởng thôn: Thách thức với chi phí ba vạn và mười hai vạn, tỷ lệ thắng đều là ba thành
+# 309 cuốn sổ thu chi của trưởng thôn: Thách thức giữa mức chi 30.000 và 120.000 NT$, tỷ lệ thắng đều chỉ khoảng 30%
 
-> **Tóm tắt trong 30 giây:** Ngày 26 tháng 11 năm 2022, một người bình thường mới tốt nghiệp đại học tại Đài Phượng Lý, Thành phố Chương Hóa, đã giành được 732 phiếu, xếp thứ hai trong số ba người. Sổ sách mà anh nộp cho Viện Giám sát ghi: thu nhập 46.977 tệ, chi tiêu 50.252 tệ, và tự đóng góp 3.275 tệ. Năm đó, có 13.988 người đăng ký tranh cử trưởng thôn trên toàn đảo; chỉ có 309 người như anh đã mở tài khoản riêng để báo cáo mọi giao dịch tiền bạc. Khi đối chiếu 309 cuốn sổ này với kết quả bầu cử, một điều phi trực giác được nhìn thấy: trong số các thách thức không phải là đương nhiệm, những người chi ít nhất (một phần tư) và chi nhiều nhất (một phần tư) có tỷ lệ đắc cử gần như nhau.
+> **Tóm tắt trong 30 giây:** Ngày 26 tháng 11 năm 2022, một người mới tốt nghiệp đại học tại thôn Đài Phượng (台鳳里), thành phố Chương Hóa (彰化市), đã nhận được 732 phiếu bầu, đứng thứ hai trong số ba ứng cử viên. Sổ sách báo cáo lên Viện Giám sát của anh ghi rõ: thu nhập 46.977 NT$, chi tiêu 50.252 NT$, và anh phải tự bù lỗ 3.275 NT$. Năm đó, toàn Đài Loan có 13.988 người đăng ký tranh cử trưởng thôn, nhưng chỉ có 309 người mở tài khoản chuyên dụng cho đóng góp chính trị và kê khai minh bạch từng khoản chi như anh. Khi đối chiếu 309 cuốn sổ này với kết quả kiểm phiếu, một sự thật trái với trực giác hiện ra: trong số những người thách thức không phải đương nhiệm, nhóm chi ít nhất (1/4 số người) và nhóm chi nhiều nhất (1/4 số người) có tỷ lệ trúng cử gần như tương đương nhau.
 
 ---
 
 ## Tiếng đếm phiếu tại điểm bỏ phiếu đầu tiên
 
-Vào đêm bầu cử, anh trực ở điểm bỏ phiếu đầu tiên trong thôn. Nhân viên trải từng lá phiếu ra và đọc tên các ứng viên: "Ông A một phiếu", "Bà B một phiếu".
+Đêm kiểm phiếu, anh túc trực tại điểm bỏ phiếu đầu tiên trong thôn. Các nhân viên lần lượt mở từng lá phiếu và xướng tên ứng cử viên: "Ứng cử viên A một phiếu, ứng cử viên A một phiếu..."
 
-Âm thanh này có nhịp điệu riêng. Sau này, anh hồi tưởng lại rằng, chỉ cần biết tỷ lệ xấp xỉ mà mỗi thùng phiếu đã bỏ ra, và tần suất tên mình xuất hiện trong quá trình đếm phiếu, thì anh đã có thể hình dung đại khái. Đây là tín hiệu khách quan nhất.
+Âm thanh đó có nhịp điệu riêng. Anh nhớ lại rằng, chỉ cần biết tỷ lệ phiếu bầu ước tính của mỗi hòm phiếu và nghe tần suất tên mình được xướng lên, anh đã có thể nắm bắt được tình hình sơ bộ. Đó là tín hiệu khách quan nhất.
 
-Tín hiệu sớm hơn xuất hiện vào đêm trước. Luật Bầu cử và Bãi nhiệm Công chức quy định rằng sau 10 giờ tối mỗi ngày tranh cử không được tiến hành các hoạt động vận động công khai, và cả ngày bầu cử đều bị cấm[^3]. Vài giờ cuối cùng của đêm trước ngày bầu cử là thời gian đấu tranh cuối cùng của các ứng viên; anh nói, cách người dân trên phố phản hồi lại mình đã cho anh cảm nhận được điều đó.
+Tín hiệu sớm hơn xuất hiện vào đêm trước đó. Luật Bầu cử và Bãi miễn Công chức quy định các hoạt động vận động tranh cử công khai không được diễn ra sau 10 giờ tối mỗi ngày, và bị cấm hoàn toàn trong suốt ngày bỏ phiếu[^3]. Những giờ đồng hồ trước 10 giờ tối của đêm cuối cùng trước bầu cử là thời điểm nỗ lực cuối cùng của ứng cử viên. Anh nói, cảm giác về việc người dân trên đường phố phản ứng với mình như thế nào có thể nhận thấy rõ vào lúc đó.
 
-Con số cuối cùng là: người đắc cử 1.339 phiếu, anh 732 phiếu, và một ứng viên do đảng phái khác đề cử 532 phiếu, tỷ lệ cử tri đi bầu 63,3%[^4].
+Con số cuối cùng là: người trúng cử 1.339 phiếu, anh 732 phiếu, ứng cử viên do đảng phái đề cử khác 532 phiếu, tỷ lệ cử tri đi bỏ phiếu là 63,3%[^4].
 
-## Một cuốn sổ tự đóng góp 3.275 tệ
+## Một cuốn sổ thu chi phải bù lỗ 3.275 NT$
 
-Lý do anh tranh cử rất đơn giản: có những hình dung khác nhau về địa phương, và nếu không có ích thì tự mình xuống thử xem sao.
+Lý do anh tranh cử rất trực tiếp: vì có những hình dung khác biệt về địa phương, và khi thấy việc phản ánh không có tác dụng, anh quyết định tự mình ra tranh cử.
 
-Dưới đó còn nhiều sự tò mò. Anh muốn biết vai trò của trưởng thôn thực sự làm gì. Anh cũng nghe nói một quan điểm rằng Trung Quốc tiến hành công tác đoàn thể đối với Đài Loan bằng cách coi các miếu thờ và trưởng thôn là đối tượng cơ sở. Anh muốn tự mình đi xem thử. Sau này, nhóm nghiên cứu của Phó Giáo sư Cổ Minh Quân thuộc Viện Khoa học Xã hội Đại học Thanh Hoa, đã vẽ ra mạng lưới công tác đoàn thể theo báo cáo chính thức của Trung Quốc, quả thực liệt kê miếu thờ, hội nông ngư và trưởng thôn là các đối tượng chính[^13]. Anh cũng muốn khởi nghiệp trong cộng đồng, vì anh nghĩ nếu làm trưởng thôn là một nghề, thì có thể vừa làm việc mình thích vừa có thu nhập.
+Đằng sau đó còn nhiều tầng sự tò mò khác. Anh muốn biết vai trò thực tế của trưởng thôn là gì. Anh cũng từng nghe một giả thuyết rằng: Trung Quốc sẽ sử dụng các đền chùa và trưởng thôn làm đối tượng công tác cơ sở trong chiến lược thống nhất Đài Loan. Anh muốn tự mình trải nghiệm điều đó. Sau này, nhóm nghiên cứu của Phó giáo sư Cổ Minh Quân (Gu Ming-jun) thuộc Viện Xã hội học, Đại học Thanh Hoa (National Tsing Hua University), dựa trên mạng lưới thống nhất do truyền thông chính thức Trung Quốc vẽ ra, đã thực sự liệt kê đền chùa, hiệp hội nông ngư nghiệp và trưởng thôn vào danh sách các đối tượng trọng điểm[^13]. Anh cũng muốn khởi nghiệp tại cộng đồng, vì nghĩ rằng nếu trưởng thôn là một nghề nghiệp, anh có thể vừa làm việc mình thích vừa có thu nhập.
 
-Thiết kế pháp luật và sự tưởng tượng của anh không giống nhau lắm. Điều 61 của Luật Chế độ Địa phương quy định trưởng thôn là **chức vụ không lương**, cơ quan công lập ghi nhận là "kinh phí hỗ trợ công tác"[^5], vào năm 2022 là 45.000 tệ/tháng, và được sửa đổi thành 50.000 tệ vào năm 2024[^6]. Số tiền này dùng để chi trả các công việc của văn phòng thôn, về mặt pháp lý không tính là lương.
+Tuy nhiên, thiết kế của luật pháp khác với hình dung của anh. Điều 61 của Luật Chế độ Địa phương quy định trưởng thôn là **vị trí không hưởng lương**, ngân sách công xã chỉ cấp "phí hỗ trợ sự vụ"[^5]. Năm 2022, luật đã sửa đổi mức phí từ 45.000 NT$ lên 50.000 NT$ mỗi tháng và có hiệu lực từ ngày 25 tháng 12 cùng năm; Bộ Nội vụ cũng thông báo sẽ điều chỉnh lên 54.000 NT$ vào tháng 7 năm 2026 (khu vực dân tộc thiểu số là 64.800 NT$)[^6]. Khoản tiền này dùng để chi trả cho các công việc của văn phòng thôn, về mặt pháp lý không được coi là lương.
 
-Anh mở tài khoản riêng và nhận mười khoản quyên góp cá nhân. Những người đóng góp bao gồm chị họ và anh rể sống ở các thành phố khác, bạn học đại học và trung học, cũng như hai ba cư dân trong thôn. Các cư dân này trước đây đã thách thức trưởng thôn đương nhiệm, coi chàng trai trẻ này là người kế nhiệm, dù thắng lợi ra sao, họ vẫn muốn bày tỏ sự ủng hộ. Cùng với 6.000 tệ quyên góp ẩn danh, tổng thu nhập là 46.977 tệ[^1].
+Anh đã mở tài khoản chuyên dụng và nhận được 10 khoản quyên góp cá nhân. Người quyên góp bao gồm chị họ và anh rể sống ở tỉnh khác, bạn học đại học và trung học, cũng như hai ba người dân trong thôn. Những người dân này từng thách thức trưởng thôn đương nhiệm và coi chàng thanh niên này là người kế thừa; bất kể khả năng thắng lợi ra sao, họ đều muốn bày tỏ sự ủng hộ. Cộng với khoản quyên góp ẩn danh 6.000 NT$, tổng thu nhập là 46.977 NT$[^1].
 
-Trong số chi tiêu 50.252 tệ đã báo cáo, phí quảng bá chiếm 49.252 tệ, phần còn lại 1.000 tệ là chi phí nhiên liệu[^1]. Khoản lớn nhất trong sổ sách là micro và giao diện ghi âm trị giá 17.000 tệ, tiếp theo là quả bóng khí đeo vai trị giá 10.763 tệ, sau đó là băng rôn, bộ đàm cầm tay và ảnh đại diện. Còn có một bản in lụa 2.820 tệ, anh tự in áo thun tranh cử bằng tấm lưới này.
+Trong số 50.252 NT$ chi tiêu đã báo cáo, phí tuyên truyền chiếm 49.252 NT$, phần còn lại 1.000 NT$ là tiền xăng xe[^1]. Khoản chi lớn nhất trong sổ là 17.000 NT$ cho micro ghi âm và thiết bị ghi âm, tiếp theo là 10.763 NT$ cho bóng bay đeo lưng, sau đó là bảng hiệu, loa cầm tay không dây và ảnh chân dung tranh cử. Ngoài ra còn có khoản 2.820 NT$ mua khung in lưới để anh tự in áo thun tranh cử.
 
-Vào năm 2022, trưởng thôn phải nộp tiền đặt cọc 50.000 tệ, nếu không đủ phiếu bầu sẽ bị tịch thu[^3]. Số cử tri tại Đài Phượng Lý là 4.195 người, ngưỡng khoảng 420 phiếu. Anh nhận được 732 phiếu và đã được hoàn trả tiền đặt cọc. Trong cuộc bầu cử này, số tiền anh tự đóng góp trên sổ sách là 3.275 tệ.
+Năm 2022, ứng cử viên trưởng thôn phải nộp 50.000 NT$ tiền bảo chứng; nếu số phiếu đạt dưới 10% tổng số cử tri sẽ bị tịch thu[^3]. Thôn Đài Phượng có 4.195 cử tri, ngưỡng tối thiểu khoảng 420 phiếu. Anh nhận được 732 phiếu nên đã được hoàn lại tiền bảo chứng. Xét về mặt sổ sách, số tiền anh phải tự bỏ ra là 3.275 NT$.
 
-## 13.988 ứng viên, chỉ có 309 cuốn sổ
+## 13.988 ứng cử viên, chỉ có 309 cuốn sổ
 
-Sổ sách của anh được kiểm tra vì anh đã mở tài khoản riêng.
+Sổ sách của anh có thể tra cứu được là nhờ anh đã mở tài khoản chuyên dụng.
 
-Điều 10 của Luật Tài chính Chính trị quy định rằng các ứng viên dự kiến phải mở tài khoản tại tổ chức tài chính và được Viện Giám sát cho phép trước khi nhận tài chính chính trị[^2]. Ngược lại, nếu một ứng viên tự chi trả tất cả chi phí mà không nhận tiền từ bất kỳ ai, thì họ không cần mở sổ sách.
+Điều 10 của Luật Đóng góp Chính trị quy định người dự định tranh cử phải mở tài khoản tại tổ chức tài chính và được Viện Giám sát cho phép trước khi có thể nhận đóng góp chính trị[^2]. Ngược lại, nếu một ứng cử viên tự chi trả mọi chi phí mà không nhận tiền từ bất kỳ ai, họ sẽ không cần mở tài khoản và cũng sẽ không có sổ sách thu chi.
 
-Trong số 13.988 ứng viên tại 7.731 thôn trên toàn đảo năm 2022[^4], chỉ có 309 người nộp sổ sách tài chính chính trị công khai cho Viện Giám sát, khoảng 2,2%[^1]. Còn 97,8% còn lại đã chi bao nhiêu tiền và ở đâu thì không thể thấy trong tài liệu công khai.
+Trong số 7.731 thôn/làng và 13.988 ứng cử viên trên toàn Đài Loan năm 2022[^4], chỉ có 309 người (khoảng 2,2%) để lại sổ sách bầu cử trên nền tảng tra cứu công khai đóng góp chính trị của Viện Giám sát[^1]. 97,8% số còn lại đã chi bao nhiêu tiền và chi vào việc gì thì không thể thấy được trong dữ liệu công khai.
 
-Năm đó, còn có 3.058 thôn chỉ có một ứng viên đăng ký, chiếm bốn phần trăm tổng số thôn[^4].
+Năm đó cũng có 3.058 thôn chỉ có duy nhất một ứng cử viên đăng ký, chiếm 40% tổng số thôn[^4].
 
-Trong 309 cuốn sổ này, có 10 cuốn đến từ cùng một dự án dân sự. Doanh nghiệp xã hội "Hiển Thực Hội Xã" đã ra mắt "Học viện Trưởng thôn Độc lập" vào tháng 10 năm 2021, viết một cuốn cẩm nang hoàn chỉnh về trưởng thôn, tổ chức 6 buổi hội thảo trên toàn đảo, khuyến khích hơn 30 người tham gia và hỗ trợ 10 người trong số đó quyên góp tài chính chính trị[^8][^9]. Chàng trai trẻ ở Đài Phượng Lý là đại diện của Chương Hóa trong số 10 người này.
+Trong 309 cuốn sổ này, có 10 cuốn đến từ cùng một dự án dân sự. Doanh nghiệp xã hội "Thực Hiện Hội Xã" (實現會社) đã ra mắt "Học viện Trưởng thôn Độc lập" vào tháng 10 năm 2021, biên soạn một cuốn sổ tay hướng dẫn toàn diện cho trưởng thôn, tổ chức 6 buổi workshop trên toàn Đài Loan, khuyến khích hơn 30 người tham gia tranh cử và hỗ trợ 10 người trong số đó gây quỹ đóng góp chính trị[^8][^9]. Chàng thanh niên ở thôn Đài Phượng chính là đại diện của Chương Hóa trong số 10 người này.
 
-> 📝 **Ghi chú biên tập viên**: Hệ thống công khai tài chính chính trị được thiết kế xoay quanh việc "nhận tiền". Nó cho phép cử tri nhìn thấy ứng viên nợ ân tình ai, nhưng một ứng viên hoàn toàn tự chi trả thì không để lại bất kỳ hồ sơ nào trong hệ thống này. Kết quả là, những người sẵn lòng công khai sổ sách nhất thường là những người bình thường thiếu nguồn lực và buộc phải nhờ cậy bạn bè, người thân.
+> 📝 **Ghi chú của biên tập viên**: Hệ thống công khai đóng góp chính trị được thiết kế xoay quanh việc "nhận tiền". Nó cho phép cử tri thấy ứng cử viên đang nợ ân tình của ai, nhưng một ứng cử viên hoàn toàn tự bỏ tiền túi lại không để lại bất kỳ dấu vết nào trong hệ thống này. Kết quả là, những người sẵn sàng công khai sổ sách nhất thường lại là những người mới (người bình thường) thiếu nguồn lực nhất và buộc phải mở lời nhờ vả người thân, bạn bè.
 
 ## Tiền đã đi đâu?
 
-Khi phân loại chi tiết của 309 cuốn sổ theo mục đích[^10], tổng cộng khoảng 28,46 triệu tệ, bốn hạng mục hàng đầu là: tiếp đãi ăn uống 20,5%, in ấn tuyên truyền 16,5%, văn phòng và địa điểm sự kiện 15,9%, băng rôn và cờ hiệu 15,0%. Quà tặng chiếm 11,8%, chi phí nhân sự 5,7%.
+Khi phân loại lại chi tiết chi tiêu của 309 cuốn sổ theo mục đích sử dụng[^10], tổng cộng khoảng 28,46 triệu NT$. Bốn hạng mục hàng đầu là: Ăn uống tiếp khách (20,5%), in ấn tuyên truyền (16,5%), văn phòng và địa điểm hoạt động (15,9%), bảng hiệu/băng rôn/cờ (15,0%). Quà tặng chiếm 11,8%, chi phí nhân sự chiếm 5,7%.
 
-Các chi phí kỹ thuật số như video, quảng cáo Facebook, ảnh đại diện chỉ chiếm 1,2%, và chỉ có 21 người trong số 309 người này đã chi khoản tiền này.
+Các khoản chi kỹ thuật số như video, quảng cáo Facebook, ảnh chân dung chỉ chiếm 1,2%, trong số 309 người chỉ có 21 người chi khoản này.
 
-Khoảng cách giữa mỗi người là rất lớn. Giá trị trung vị quyên góp là 45.314 tệ, giá trị trung vị chi tiêu là 54.500 tệ; trong số 309 người, có 237 người (77%) chi tiêu nhiều hơn thu nhập và phải tự bù đắp phần chênh lệch[^1]. Trung bình, mỗi phiếu bầu nhận được có chi phí trung vị là 62 tệ.
+Sự chênh lệch con số giữa mỗi cá nhân là rất lớn. Số trung vị của tiền vận động được là 45.314 NT$, số trung vị của chi tiêu là 54.500 NT$. Trong 309 người, có 237 người (77%) có mức chi lớn hơn thu nhập và phải tự bù lỗ phần chênh lệch[^1]. Tính trung bình, để có được một phiếu bầu, chi phí trung vị là 62 NT$.
 
-Ở cấp độ trưởng thôn, chi phí cho một chiến dịch tranh cử vẫn là những bữa ăn, những lá cờ.
+Ở cấp độ trưởng thôn, chi phí cho một cuộc vận động vẫn xoay quanh những bữa cơm tiếp khách và những tấm băng rôn.
 
-## Chi nhiều hay ít, tỷ lệ thắng đều là ba thành
+## Chi nhiều hay ít, tỷ lệ trúng cử đều là 30%
 
-Điểm thú vị nhất của bộ dữ liệu này nằm ở việc đối chiếu sổ sách và kết quả bầu cử[^4].
+Điểm thú vị nhất của dữ liệu này xuất hiện khi đối chiếu sổ sách với kết quả kiểm phiếu[^4].
 
-Nhìn chung: giá trị trung vị chi tiêu của người đắc cử là 82.765 tệ, còn người thất bại là 45.787 tệ. Thoạt nhìn có vẻ như càng chi nhiều thì dễ thắng hơn.
+Trước hết hãy nhìn vào tổng thể: Số trung vị chi tiêu của người trúng cử là 82.765 NT$, của người thất cử là 45.787 NT$. Thoạt nhìn, có vẻ như chi nhiều tiền hơn thì dễ thắng hơn.
 
-Khi tách biệt đương nhiệm và thách thức, bức tranh thay đổi. Năm 2018 đã có 73 trưởng thôn, năm 2022 có 61 người tái đắc cử với tỷ lệ đắc cử 84%, giá trị trung vị chi tiêu là 106.842 tệ. 229 thách thức không phải đương nhiệm chỉ có tỷ lệ đắc cử 27%.
+Nhưng khi tách biệt giữa đương nhiệm và người thách thức, bức tranh đã thay đổi. Trong số 73 người vốn đã là trưởng thôn từ năm 2018, có 61 người tái đắc cử vào năm 2022, tỷ lệ trúng cử là 84%, mức chi trung vị là 106.842 NT$. Ngược lại, đối với 229 người thách thức không phải đương nhiệm, tỷ lệ trúng cử chỉ đạt 27%.
 
-Sau đó, 229 thách thức này được chia thành bốn nhóm dựa trên mức chi tiêu:
+Tiếp tục chia 229 người thách thức này thành bốn nhóm dựa trên mức chi tiêu:
 
-| Khoảng chi tiêu (tệ) | Số người đắc cử / Tổng số | Tỷ lệ thắng |
-| :------------------- | :------------------------ | :---------- |
-| 1.233 – 32.000       | 13 / 46                   | 28%         |
-| 32.349 – 63.000      | 14 / 47                   | 30%         |
-| 64.444 – 122.665     | 13 / 47                   | 28%         |
-| 123.600 – 869.890    | 14 / 47                   | 30%         |
+| Khoảng chi (NT$)  | Trúng cử / Tổng số | Tỷ lệ trúng cử |
+| :---------------- | :----------------- | :------------- |
+| 1.233 – 32.000    | 13 / 46            | 28%            |
+| 32.349 – 63.000   | 14 / 47            | 30%            |
+| 64.444 – 122.665  | 13 / 47            | 28%            |
+| 123.600 – 869.890 | 14 / 47            | 30%            |
 
-Những người chi hơn một ngàn tệ và những người chi hơn tám mươi vạn tệ được đặt trong cùng một bảng, với tỷ lệ thắng nằm trong cùng một khoảng. Ấn tượng chung rằng "người thắng chi nhiều hơn" chủ yếu đến từ các trưởng thôn đương nhiệm: họ vốn đã giỏi thắng và cũng sẵn sàng chi tiêu hơn.
+Những người chi hơn một nghìn NT$ và những người chi hơn tám trăm nghìn NT$ khi đặt vào cùng một bảng đều có tỷ lệ trúng cử nằm trong cùng một khoảng. Ấn tượng "người thắng cuộc chi nhiều hơn" trong số liệu tổng thể chủ yếu đến từ các trưởng thôn đương nhiệm: họ vốn dĩ đã dễ thắng hơn, và cũng sẵn lòng chi tiêu hơn.
 
-Trong số 21 ứng viên có chi phí kỹ thuật số, 11 người đã đắc cử. Mẫu quá nhỏ, lại trộn lẫn cả đương nhiệm và thách thức, con số này không thể nói lên quan hệ nhân quả.
+Trong số 21 ứng cử viên có chi phí kỹ thuật số, có 11 người trúng cử. Tuy nhiên, vì mẫu quá nhỏ và lẫn lộn giữa đương nhiệm và người thách thức, con số này không thể khẳng định quan hệ nhân quả.
 
-> 📝 **Ghi chú biên tập viên**: Câu nói "bầu cử là cuộc đua tiền bạc" cần được đặt một câu hỏi khác ở cấp độ trưởng thôn. Tiền giống như một chiếc nhiệt kế, nó cho biết một ứng viên đã hoạt động trong thôn bao lâu và có bao nhiêu người sẵn lòng chi tiền cho họ, nhưng rất khó để trực tiếp biến một thách thức thành trưởng thôn. Trong cuộc bầu cử thôn với nhiệm kỳ bốn năm và tỷ lệ tranh cử đồng đều là 40%, thứ thực sự khan hiếm chính là thời gian.
+> 📝 **Ghi chú của biên tập viên**: Câu nói "bầu cử là cuộc chiến tiền bạc" cần được đặt lại cách hỏi ở cấp độ trưởng thôn. Tiền giống như một chiếc nhiệt kế, đo lường được một ứng cử viên đã gây dựng uy tín tại địa phương bao lâu và có bao nhiêu người sẵn lòng chi tiền cho họ, nhưng khó có thể trực tiếp biến một người thách thức thành trưởng thôn. Trong các cuộc bầu cử cấp thôn/làng với nhiệm kỳ 4 năm và tỷ lệ tranh cử đồng mức lên tới 40%, thứ thực sự khan hiếm chính là thời gian.
 
-## 97,8% không thể nhìn thấy
+## 97,8% không nhìn thấy được
 
-Phân tích này có một giới hạn không thể tránh khỏi: 309 người là số ít tự chọn mở sổ sách.
+Phân tích này có một hạn chế không thể tránh khỏi: 309 người là nhóm thiểu số tự nguyện mở tài khoản.
 
-Những người sẵn lòng mở sổ sách có lẽ vốn coi trọng tính minh bạch hơn, hoặc có sự hỗ trợ của kế hoạch, hoặc thực sự cần quyên góp từ người khác. Còn 13.679 ứng viên không có sổ sách thì chi tiêu có thể cao hơn, cũng có thể thấp hơn. Vì vậy, kết luận trên chỉ đúng "trong số những người để lại sổ sách", không thể áp dụng cho tất cả các ứng viên.
+Những người sẵn lòng mở tài khoản có thể vốn đã coi trọng sự minh bạch, hoặc vì có kế hoạch hỗ trợ, hoặc thực sự cần vận động quyên góp từ người khác. 13.679 ứng cử viên không có sổ sách kia có thể chi tiêu cao hơn, cũng có thể thấp hơn. Do đó, kết luận trên chỉ có giá trị "trong số những người để lại sổ sách", không thể suy rộng cho toàn bộ ứng cử viên.
 
-Một giới hạn khác nằm ở bản thân pháp luật. Luật Tài chính Chính trị đặt trường hợp ứng viên vay tiền từ bản thân hoặc gia đình vào một vị trí tương đối mơ hồ, và bài viết về [tính minh bạch tài chính chính trị](/vi/politics/political-donation-transparency/) của Taiwan.md đã tổng hợp lỗ hổng này. "Tiền tự đóng góp" trên sổ sách chưa chắc đã phản ánh toàn bộ chi phí của một cuộc bầu cử.
+Một hạn chế khác nằm ở chính luật pháp. Luật Đóng góp Chính trị đặt trường hợp ứng cử viên vay tiền từ chính mình hoặc gia đình vào một vị trí tương đối mơ hồ; bài viết về [tính minh bạch của đóng góp chính trị](/vi/politics/political-donation-transparency/) trên Taiwan.md đã tổng hợp về lỗ hổng này. Khoản "tự bù lỗ" trong sổ sách chưa chắc đã phản ánh toàn bộ chi phí của một cuộc bầu cử.
 
-Hệ thống cũng đang được điều chỉnh. Vào tháng 7 năm 2026, Ủy ban Bầu cử Trung ương sẽ giảm tiền đặt cọc cho ứng viên trưởng thôn từ 50.000 tệ xuống còn 30.000 tệ[^7]. Đối với một ứng viên có giá trị trung vị chi tiêu hơn năm vạn tệ, điều này giúp giảm hai vạn tệ rào cản ban đầu khi tham gia tranh cử.
+Hệ thống cũng đang được điều chỉnh. Vào tháng 7 năm 2026, Ủy ban Bầu cử Trung ương sẽ giảm tiền bảo chứng cho ứng cử viên trưởng thôn từ 50.000 NT$ xuống còn 30.000 NT$[^7]. Đối với một ứng cử viên có mức chi trung vị hơn 50.000 NT$, điều này giúp giảm bớt rào cản ban đầu khi tham gia tranh cử tới 20.000 NT$.
 
-## Năm 2026, lô sổ sách tiếp theo
+## Năm 2026, những cuốn sổ tiếp theo
 
-10 ứng viên của Học viện Trưởng thôn Độc lập năm đó, cuối cùng có 4 người đắc cử, trong đó một người vốn là trưởng thôn đương nhiệm và cũng là một trong những người sáng lập học viện. Theo bảng tổng hợp đăng ký tháng 9 năm 2026 của Ủy ban Bầu cử Trung ương, trong số 10 người này, có 3 người đã đăng ký tranh cử lại, trong đó hai người là người đắc cử năm 2022[^11].
+Trong số 10 ứng cử viên của Học viện Trưởng thôn Độc lập năm đó, cuối cùng có 4 người trúng cử, trong đó một người vốn là trưởng thôn đương nhiệm và cũng là một trong những người sáng lập học viện. Theo bảng tổng hợp đăng ký của Ủy ban Bầu cử Trung ương vào tháng 9 năm 2026, trong số 10 người này có 3 người tiếp tục đăng ký tranh cử, hai trong số đó là những người đã trúng cử năm 2022[^11].
 
-Chàng trai trẻ ở Đài Phượng Lý không nằm trong danh sách.
+Chàng thanh niên ở thôn Đài Phượng không có tên trong danh sách.
 
-Các ứng viên dự kiến cho trưởng thôn năm 2026 bắt đầu nhận tài chính chính trị từ ngày 20 tháng 8[^12]. Theo luật, các ứng viên phải báo cáo trong vòng ba tháng sau ngày bầu cử, và Viện Giám sát sẽ công khai trong vòng sáu tháng sau khi hết hạn[^2]. Sau cuộc bỏ phiếu vào ngày 28 tháng 11, lô sổ sách trưởng thôn tiếp theo muộn nhất sẽ xuất hiện trên nền tảng trước cuối tháng 8 năm 2027. Lúc đó có thể tính toán lại: tỷ lệ thắng của người chi ba vạn và người chi mười hai vạn liệu có còn như cũ không.
+Các ứng cử viên trưởng thôn cho năm 2026 có thể bắt đầu nhận đóng góp chính trị từ ngày 20 tháng 8[^12]. Theo luật, ứng cử viên phải báo cáo trong vòng ba tháng sau ngày bỏ phiếu, và Viện Giám sát sẽ công khai thông tin trong vòng sáu tháng sau khi hết hạn[^2]. Sau khi bỏ phiếu vào ngày 28 tháng 11, những cuốn sổ thu chi trưởng thôn tiếp theo muộn nhất sẽ xuất hiện trên nền tảng trước cuối tháng 8 năm 2027. Đến lúc đó, chúng ta có thể tính toán lại một lần nữa: liệu tỷ lệ thắng của người chi 30.000 và người chi 120.000 có còn giống nhau hay không.
 
 ---
 
 ## Đọc thêm
 
-- [Chế độ trưởng thôn](/vi/politics/village-chief-system) — 7.748 lãnh đạo dân cử, đơn vị chính trị cơ sở nhất của Đài Loan vận hành như thế nào
-- [Tính minh bạch tài chính chính trị](/vi/politics/political-donation-transparency) — Thiết kế hệ thống báo cáo và lỗ hổng "vay tiền từ bản thân"
-- [Bầu cử chín hợp nhất 2026](/vi/politics/2026-local-elections-taiwan) — Lô sổ sách tiếp theo sẽ được tạo ra từ cuộc bầu cử này
+- [Chế độ trưởng thôn](/vi/politics/village-chief-system) — 7.748 thủ lĩnh dân cử, các đơn vị chính trị cơ sở nhất của Đài Loan vận hành như thế nào
+- [Tính minh bạch của đóng góp chính trị](/vi/politics/political-donation-transparency) — Thiết kế của hệ thống báo cáo và lỗ hổng "vay tiền của chính mình"
+- [Bầu cử cửu hợp nhất 2026](/vi/politics/2026-local-elections-taiwan) — Những cuốn sổ tiếp theo sẽ được tạo ra từ cuộc bầu cử này
 
 ## Tài liệu tham khảo
 
-[^1]: [Nền tảng tra cứu công khai tài chính chính trị của Viện Giám sát](https://ardata.cy.gov.tw/) — Báo cáo kế toán ứng viên trưởng thôn năm 111. Bài viết thống kê dựa trên bản sửa đổi mới nhất tải xuống từ API nền tảng cho 309 lần đăng ký ban đầu, không bao gồm các báo cáo bổ sung.
+[^1]: [Nền tảng tra cứu công khai đóng góp chính trị của Viện Giám sát](https://ardata.cy.gov.tw/) — Báo cáo kế toán của các ứng cử viên tranh cử trưởng thôn năm 111 (2022). Thống kê trong bài này dựa trên bản sửa đổi mới nhất của 309 báo cáo lần đầu được tải xuống từ API của nền tảng, không bao gồm các báo cáo bổ sung.
 
-[^2]: [Luật Tài chính Chính trị](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Cơ sở dữ liệu pháp luật quốc gia, Điều 10 (tài khoản riêng), Điều 12 (thời gian nhận), Điều 21 (báo cáo và công khai).
+[^2]: [Luật Đóng góp Chính trị](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Cơ sở dữ liệu pháp luật toàn quốc, Điều 10 (Tài khoản chuyên dụng), Điều 12 (Thời gian nhận đóng góp), Điều 21 (Báo cáo và công khai).
 
-[^3]: [Luật Bầu cử và Bãi nhiệm Công chức](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Cơ sở dữ liệu pháp luật quốc gia, Điều 32 (ngưỡng tiền đặt cọc và hoàn trả), Điều 56 (giới hạn thời gian hoạt động tranh cử hàng ngày).
+[^3]: [Luật Bầu cử và Bãi miễn Công chức](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Cơ sở dữ liệu pháp luật toàn quốc, Điều 32 (Tiền bảo chứng và ngưỡng hoàn trả), Điều 56 (Giới hạn thời gian hoạt động tranh cử hàng ngày).
 
-[^4]: [Cơ sở dữ liệu bầu cử của Ủy ban Bầu cử Trung ương](https://db.cec.gov.tw/) — Kết quả bỏ phiếu trưởng thôn của từng thôn năm 2022. Số lượng ứng viên, số thôn tranh cử đồng đều và tỷ lệ thắng của thách thức là do tác giả tổng hợp theo kết quả bỏ phiếu từng thôn và đối chiếu với 309 cuốn sổ sách (đã so sánh thành công 302 người).
+[^4]: [Cơ sở dữ liệu bầu cử của Ủy ban Bầu cử Trung ương](https://db.cec.gov.tw/) — Kết quả kiểm phiếu tại các thôn/làng trong cuộc bầu cử trưởng thôn năm 2022. Số lượng ứng cử viên, số thôn tranh cử đồng mức và tỷ lệ thắng của người thách thức được tác giả tổng hợp theo từng thôn dựa trên kết quả kiểm phiếu và đối chiếu với 309 cuốn sổ sách (đối chiếu thành công 302 người).
 
-[^5]: [Luật Chế độ Địa phương](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Cơ sở dữ liệu pháp luật quốc gia, Điều 61: Trưởng thôn là chức vụ không lương.
+[^5]: [Luật Chế độ Địa phương](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Cơ sở dữ liệu pháp luật toàn quốc, Điều 61: Trưởng thôn là vị trí không hưởng lương.
 
-[^6]: [Quy chế chi trả phí đại biểu dân cử địa phương và kinh phí hỗ trợ công tác trưởng thôn](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Cơ sở dữ liệu pháp luật quốc gia, Điều 7, hiện hành là năm vạn tệ/tháng (sửa đổi tháng 6 năm 113).
+[^6]: [Điều lệ chi trả phí đại biểu dân cử địa phương và hỗ trợ sự vụ trưởng thôn](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Cơ sở dữ liệu pháp luật toàn quốc, Điều 7: Mức chi hàng tháng là 50.000 NT$, khu vực dân tộc thiểu số cộng thêm 20%, quy định việc điều chỉnh phụ cấp sẽ được thực hiện theo tỷ lệ tương ứng khi có điều chỉnh chung và do Bộ Nội vụ công bố ngày có hiệu lực; con số 50.000 NT$ đến từ phiên bản sửa đổi ngày 4 tháng 5 năm 111 (2022) và có hiệu lực từ ngày 25 tháng 12 cùng năm; mức 54.000 NT$ từ tháng 7 năm 2026 là mức điều chỉnh do Bộ Nội vụ công bố dựa trên điều này.
 
-[^7]: [Ủy ban Bầu cử Trung ương giảm tiền đặt cọc ứng viên thị trưởng, trưởng thôn xuống mức tối thiểu 3 vạn](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Thông tấn Trung ương, 2026-07-22.
+[^7]: [Ủy ban Bầu cử Trung ương giảm tiền bảo chứng cho ứng cử viên thị trấn, xã và trưởng thôn xuống mức thấp nhất là 30.000 NT$](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Central News Agency (CNA), 22-07-2026.
 
-[^8]: [「Xu hướng tranh cử cơ sở thế hệ học tập 318 đang suy giảm? Nỗi khổ và sự đột phá của trưởng thôn trẻ」](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — Phóng viên, Khổng Đức Liêm, 2022-09-05.
+[^8]: ["Làn sóng tranh cử cơ sở của thế hệ phong trào học sinh 318 đang rút dần"? Khó khăn và sự bứt phá của các trưởng thôn trẻ](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Khổng Đức Liêm (Kong De-lian), 05-09-2022.
 
-[^9]: [【Hướng dẫn tranh cử trưởng thôn lần đầu】Hội thảo một ngày](https://captain-village.a-sociate.tw/2022-workshop/) — Hiển Thực Hội Xã・Học viện Trưởng thôn Độc lập.
+[^9]: [【Lần đầu tranh cử trưởng thôn đã thạo việc】Workshop một ngày](https://captain-village.a-sociate.tw/2022-workshop/) — Thực Hiện Hội Xã ・ Học viện Trưởng thôn Độc lập.
 
-[^10]: Phương pháp phân loại: Dựa trên các cột "Mục đích chi tiêu" và "Đối tượng chi tiêu" của báo cáo kế toán, chi tiết được phân thành tám loại: ăn uống, tuyên truyền, băng rôn, quà tặng, địa điểm, nhân sự, kỹ thuật số/âm thanh, và khác. Loại kỹ thuật số chỉ tính các mục ghi rõ video, quảng cáo, chụp ảnh, hoặc đối tượng chi tiêu là Meta, Google, công ty tiếp thị kỹ thuật số. Phân loại này do tác giả tự đặt ra, khác với các hạng mục pháp định theo Điều 20 của Luật Tài chính Chính trị.
+[^10]: Phương pháp phân loại: Dựa trên các trường "Mục đích chi tiêu" và "Đối tượng chi tiêu" trong báo cáo kế toán, các khoản chi được chia thành tám loại: Ăn uống, Tuyên truyền, Bảng hiệu, Quà tặng, Địa điểm, Nhân sự, Kỹ thuật số/Video, Khác. Loại kỹ thuật số chỉ tính các mục ghi rõ video, quảng cáo, nhiếp ảnh trong mục đích sử dụng, hoặc đối tượng chi tiêu là Meta, Google, công ty marketing kỹ thuật số. Cách phân loại này do tác giả tự thiết lập, khác với các hạng mục pháp định tại Điều 20 của Luật Đóng góp Chính trị.
 
-[^11]: [Bảng tổng hợp đăng ký ứng viên chức vụ công địa phương năm 115 của Ủy ban Bầu cử Trung ương](https://web.cec.gov.tw/central/article/64709) — Danh sách đăng ký trưởng thôn, ngày lập bảng là ngày 7 tháng 9 năm 115, với tổng cộng 14.039 mục.
+[^11]: [Bảng tổng hợp đăng ký ứng cử viên bầu cử công chức địa phương năm 115 (2026) của Ủy ban Bầu cử Trung ương](https://web.cec.gov.tw/central/article/64709) — Danh sách đăng ký trưởng thôn, ngày lập bảng là ngày 7 tháng 9 năm 115, tổng cộng 14.039 mục.
 
-[^12]: [Bầu cử địa phương năm 115 sắp đến! Bộ Nội vụ tiết lộ "4 bí quyết" tài chính chính trị](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Bộ Nội vụ, thông báo về thời gian nhận và báo cáo tài chính chính trị của ứng viên dự kiến trong cuộc bầu cử địa phương năm 2026.
+[^12]: [Bầu cử địa phương năm 115 đang đến gần! Bộ Nội vụ tiết lộ "4 bí quyết" về đóng góp chính trị](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Bộ Nội vụ, nhắc nhở về thời gian nhận đóng góp chính trị và báo cáo cho các ứng cử viên bầu cử địa phương năm 2026.
 
-[^13]: [Học giả Thanh Hoa Cổ Minh Quân vạch trần mạng lưới công tác đoàn thể của CCP đối với Đài Loan: bao gồm miếu thờ, tiểu thương, hội nông ngư, trưởng thôn, trường học, truyền thông, bộ lạc](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Võ Thảo, Chu Nãi Oánh, 2024-01-22.
+[^13]: [Học giả Đại học Thanh Hoa Cổ Minh Quân tiết lộ mạng lưới thống nhất của ĐCSTQ tại Đài Loan: Bao gồm đền chùa, tiểu thương, hiệp hội nông ngư nghiệp, trưởng thôn, trường học, truyền thông, bộ lạc](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — wdoi (沃草), Chu Nãi Oánh (Zhu Nai-ying), 22-01-2024.
