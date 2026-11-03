@@ -29,10 +29,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: '9436a3296'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T18:53:49.665462+00:00'
+translatedAt: '2026-11-03T18:08:07.529897+00:00'
 ---
 
 # 타이완 국영영화: 스크린 옆 그 말하는 사람, 그리고 죽었다 살아난 영화사
@@ -291,15 +291,16 @@ _《반교》 4K 예고편. 백색테러를 게임으로, 다시 흥행 공포�
 - [허우샤오셴 1989 베니스 금사자상 현장](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Photo: Gorup de Besanez，CC BY-SA 4.0
 - [이안 2009 베니스 영화제](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Photo: nicolas genin，CC BY-SA 2.0
 
-## 더 읽어보기
+## 연관 읽기
 
-- [허우샤오셴](/ko/people/hou-hsiao-hsien)：베니스 금사자상 수상, 2·28 사건을 스크린에 옮긴 롱테이크의 거장
-- [양더창](/ko/people/yang-dechang)：두 작품이 《사이트 앤드 사운드》 선정 영화사 100대 진입, 도시를 관찰하는 작가
-- [차이밍량](/ko/people/tsai-ming-liang)：베니스 금사자상 수상자, 슬로우 시네마를 루브르 박물관에 들여놓은 감독
-- [이안](/ko/people/ang-lee)：타이완에서 할리우드로, 두 차례 아카데미 최우수 감독상 수상
-- [웨이더성](/ko/people/wei-te-sheng-taiwanese-epic-filmmaker)：다섯 가지 언어로 《해각칠호》를 찍어 국산 영화를 부활시킨 사람
-- [보이지 않는 국가](/ko/art/invisible-nation)：커징원 다큐멘터리 속, 타이완이 또 다른 방식으로 보이는 이야기
-- [타이완의 감성: 우리가 한국인이 먼저 '좋아요'를 눌러야만 내 오래된 집이 아름답다고 말할 수 있을까?](/ko/culture/taiwanese-sensibility)：《비정성시》 1989년 금사자상과 타이베이 흥행이 같은 해에 일어났듯, 국제적 인정과 현지 공명이 필연적으로 양자택일일 필요는 없다
+- [허우샤오셴](/ko/people/hou-hsiao-hsien): 베니스 황금사자상을 수상하고, 2·28 사건을 스크린에 옮긴 롱테이크의 거장
+- [양더창](/ko/people/yang-dechang): 두 작품이 Sight & Sound 영화사 백대 명작에 이름을 올린 도시 관찰자
+- [차이밍량](/ko/people/tsai-ming-liang): 베니스 황금사자상 수상자, 슬로 시네마를 루브르 박물관으로 이끈 감독
+- [이안](/ko/people/ang-lee): 타이완에서 할리우드로 나아가 두 차례 아카데미 감독상을 거머쥔 인물
+- [웨이더성](/ko/people/wei-te-sheng-taiwanese-epic-filmmaker): 다섯 가지 언어로 《해각칠호》를 찍어내며 대만 영화의 부활을 이끈 사람
+- [금마장](/ko/art/golden-horse-awards): 국어(Mandarin) 영화만을 수여하던 곳에서 국적을 불문하는 화어 영화제로 거듭나다. 이로 인해 타이완 영화가 자국 시상식에서 자주 고배를 마시는 상황이 벌어졌으나, 문턱을 다시 낮추지는 않았다
+- [보이지 않는 국가](/ko/art/invisible-nation): 커징원(葛靜文)의 다큐멘터리 속에서 발견하는 타이완의 또 다른 모습
+- [타이완적 감성: 한국인이 먼저 '좋아요'를 눌러줘야 우리 집이 아름답다고 말할 수 있는가?](/ko/culture/taiwanese-sensibility): 《비정성시》의 1989년 황금사자상 수상과 타이베이 박스오피스 흥행은 같은 해에 일어났다. 국제적 인정과 로컬의 공감이 반드시 이분법적인 선택의 문제는 아니다
 
 [^1]: [영화 변사 - 위키백과](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — 1930년 대만에는 일본인 변사 41명, 대만인 변사 19명 등 약 60명이 있었으며, 변사 업무를 하려면 주 경찰과 시험을 통과해 면허를 취득해야 했다.
 

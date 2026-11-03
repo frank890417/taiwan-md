@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T02:07:28+08:00",
-    "zhCommitHead": "123705c1c",
+    "lastUpdated": "2026-11-04T02:25:04+08:00",
+    "zhCommitHead": "929b2921d",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1158,
-        "fresh": 1150,
+        "fresh": 1151,
         "stale": 5,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 2,
         "orphan": 0
       },
@@ -37968,11 +37968,11 @@
           "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-11-03T18:06:56.730132+00:00",
-          "translationLastCommit": "e0de1ed4",
-          "translationLastModified": "2026-10-15T07:09:22+08:00",
+          "translationLastCommit": "929b2921",
+          "translationLastModified": "2026-11-04T02:07:28+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 77434,
+          "bytes": 77440,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37980,20 +37980,18 @@
         "ko": {
           "path": "ko/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "b07b48849",
-          "sourceContentHash": "sha256:7bb096d095b41cf1",
+          "sourceCommitSha": "9436a3296",
+          "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
-          "translatedAt": "2026-10-14T18:53:49.665462+00:00",
+          "translatedAt": "2026-11-03T18:08:07.529897+00:00",
           "translationLastCommit": "574ea5a3",
           "translationLastModified": "2026-10-15T05:18:29+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 69590,
+          "bytes": 69918,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/taiwanese-cinema.md",
@@ -39804,8 +39802,8 @@
           "sourceContentHash": "sha256:593fb85bc3a75b2b",
           "sourceBodyHash": "sha256:0807c780995523b4",
           "translatedAt": "2026-11-03T16:23:07.719277+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "929b2921",
+          "translationLastModified": "2026-11-04T02:07:28+08:00",
           "inferred": false,
           "footnoteDefs": 92,
           "bytes": 91390,
