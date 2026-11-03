@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T06:41:29+08:00",
-    "zhCommitHead": "1f506cb78",
+    "lastUpdated": "2026-11-04T06:51:01+08:00",
+    "zhCommitHead": "cd87af4e6",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -20,17 +20,17 @@
     "summary": {
       "en": {
         "total_zh": 1158,
-        "fresh": 1152,
+        "fresh": 1153,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1150,
+        "fresh": 1151,
         "stale": 5,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1144,
-        "stale": 9,
+        "fresh": 1145,
+        "stale": 8,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1158,
-        "fresh": 1144,
-        "stale": 8,
+        "fresh": 1145,
+        "stale": 7,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1150,
-        "stale": 4,
+        "fresh": 1151,
+        "stale": 3,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
@@ -24128,20 +24128,18 @@
         "ar": {
           "path": "ar/Technology/taiwan-tungsten-supply-chain.md",
           "translatedFrom": "Technology/台灣鎢供應鏈.md",
-          "sourceCommitSha": "d6fdcf866",
-          "sourceContentHash": "sha256:cdcf37b0b24fd05b",
-          "sourceBodyHash": "sha256:0ba20d6588799dfb",
-          "translatedAt": "2026-09-25T02:36:05.545501+00:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:8cca491527e42676",
+          "sourceBodyHash": "sha256:2a3eeab3f4aa2cb2",
+          "translatedAt": "2026-11-03T22:34:58.796073+00:00",
           "translationLastCommit": "1924cd82",
           "translationLastModified": "2026-10-10T22:55:55+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 74720,
+          "bytes": 80306,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+12 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-tungsten-supply-chain.md",
@@ -58652,20 +58650,18 @@
         "ru": {
           "path": "ru/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-19T11:59:11+08:00",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-03T20:22:32+08:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 56856,
+          "bytes": 55052,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-grid-resilience.md",
@@ -95332,20 +95328,18 @@
         "es": {
           "path": "es/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:8130ad5ab40eae13",
-          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
-          "translatedAt": "2026-05-28T05:08:34+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:d01e4dc65a504478",
+          "sourceBodyHash": "sha256:42ff4d82e10867fc",
+          "translatedAt": "2026-11-03T20:21:59+08:00",
           "translationLastCommit": "f0168508",
           "translationLastModified": "2026-05-28T09:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 27674,
+          "bytes": 26939,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Politics/nine-in-one-elections-explained.md",
@@ -139006,8 +139000,8 @@
           "sourceContentHash": "sha256:f6ea72608a383b39",
           "sourceBodyHash": "sha256:2b58a1fd273e51fb",
           "translatedAt": "2026-11-03T20:21:59+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "d92b8d6b",
+          "translationLastModified": "2026-11-04T06:41:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 30883,
@@ -163886,8 +163880,8 @@
           "sourceContentHash": "sha256:7341e995e36938f6",
           "sourceBodyHash": "sha256:952feb96a39bb831",
           "translatedAt": "2026-11-03T20:21:59+08:00",
-          "translationLastCommit": "53b91cc8",
-          "translationLastModified": "2026-10-31T08:41:15+08:00",
+          "translationLastCommit": "d92b8d6b",
+          "translationLastModified": "2026-11-04T06:41:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 32661,
@@ -188916,20 +188910,18 @@
         "ja": {
           "path": "ja/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:44:54+08:00",
+          "translatedAt": "2026-11-03T22:46:58.447232+00:00",
           "translationLastCommit": "2d064aef",
           "translationLastModified": "2026-11-03T01:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 18619,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/orchid-island-nuclear-waste.md",
@@ -203460,7 +203452,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/zhushan-township.md",
+          "translatedFrom": "Geography/竹山鎮.md",
+          "sourceCommitSha": "036975f23",
+          "sourceContentHash": "sha256:0d139b37b2b76ae2",
+          "sourceBodyHash": "sha256:9c545fc3c704ac06",
+          "translatedAt": "2026-11-03T20:21:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 17872,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
