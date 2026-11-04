@@ -1,7 +1,7 @@
 # 2026-11-05-060313-twmd-data-refresh-am — 早班刷新十四步全過、0 stale；昨天的慢建置回到 325 秒；房貸負擔率仍未發布；探測器過期是新亮的一盞
 
 > session twmd-data-refresh-am — 排程觸發（am 06:00 資料刷新）
-> Session span: 06:02 → 06:10 +0800（1 commit：刷新與本檔同一個）
+> Session span: 06:02 → 06:10 +0800（3 commits：本檔、刷新產物、本行更正）
 > 資料來源：`git log %ai`、`.taiwanmd/wake-context.latest.md` mtime、refresh log
 
 ## 觸發
@@ -34,6 +34,8 @@
 告警多出來的一條是 `probe-stale`：探測器最新報告停在 10-25，落後 10 天。10-31 那輪 news-lens 零痕跡，過了 9 天門檻才看得到，跟其他週班黃燈同一個缺口。11-08 那輪 fire 後有 commit，這盞會自己滅。
 
 `public/api/dashboard-census.json` 第一次進本班 commit：11-04 起 prebuild 每次都重生它，內容是真的更新（篇數 1,156→1,159），diff 看起來砍掉三千多行只是壓成單行。`src/data/related/*` 留給還在跑的 embeddings 夜班（`build-embeddings.mjs` 05:15 起），不收。
+
+收官第一次 commit 只帶到本檔：腳本用了 `mapfile`，macOS 內建 bash 3.2 沒有這個指令，檔案清單靜默變成一筆，`verify-commit-scope` 也照那一筆比對通過，是我看到 N=1 才發現。尚未推送，補一個 commit 收其餘 42 檔，沒有改寫歷史。
 
 ## 收官 checklist
 
