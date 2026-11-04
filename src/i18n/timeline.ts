@@ -20,7 +20,8 @@ export const timelineUI = {
     'timeline.outroLinked': 'articles are already stitched into this axis',
     'nav.timeline': 'Timeline',
     'nav.timeline.subtitle': 'Taiwan, era by era',
-    'timeline.meta.title': 'Timeline of Taiwan — from prehistory to today',
+    'timeline.meta.title':
+      'Taiwan History Timeline: Prehistory, Dutch, Qing, Japanese Rule to Today',
     'timeline.meta.description':
       "Scroll through every era of Taiwan's history — Austronesian origins, Dutch and Spanish rule, the Zheng kingdom, Qing, the Japanese era, martial law, democratization and today — each linked to in-depth articles.",
     'timeline.eyebrow': 'FROM PREHISTORY TO TODAY',
@@ -387,17 +388,20 @@ export const timelineUI = {
     'timeline.statEras': 'Epochen',
     'timeline.statEvents': 'Schlüsselmomente',
     'timeline.statArticles': 'Artikel auf der Zeitleiste',
-    'timeline.outroLinked': 'Artikel sind bereits mit dieser Zeitleiste verknüpft',
+    'timeline.outroLinked':
+      'Artikel sind bereits mit dieser Zeitleiste verknüpft',
     'nav.timeline': 'Taiwan im Lauf der Zeit',
     'nav.timeline.subtitle': 'Die Insel im Lauf der Zeit entfaltet',
-    'timeline.meta.title': 'Taiwan im Lauf der Zeit: Zeitleiste von der Vorgeschichte bis heute',
+    'timeline.meta.title':
+      'Taiwan im Lauf der Zeit: Zeitleiste von der Vorgeschichte bis heute',
     'timeline.meta.description':
       'Von oben nach unten durch Taiwans Epochen scrollen: von den austronesischen Ursprüngen über die niederländisch-spanische Konkurrenz, das Königreich Tungning, die Qing-Herrschaft, die japanische Kolonialzeit, das Kriegsrecht und die Demokratisierung bis zur Gegenwart – jede Epoche ist mit vertiefenden Artikeln und Forschungsbeiträgen der Website verknüpft.',
     'timeline.eyebrow': 'Von der Vorgeschichte bis heute',
     'timeline.title': 'Taiwan im Lauf der Zeit',
     'timeline.subtitle':
       'Die Karte entfaltet diese Insel im Raum, diese Seite entfaltet sie in der Zeit. Scrollen Sie von der Vorgeschichte bis heute – jede Epoche ist mit Artikeln und Forschungsbeiträgen der Website verknüpft.',
-    'timeline.heroNote': 'Die Insel ist die Bühne, die Menschen sind die Hauptfiguren – Herrschaftssysteme sind nur wechselnde Darsteller.',
+    'timeline.heroNote':
+      'Die Insel ist die Bühne, die Menschen sind die Hauptfiguren – Herrschaftssysteme sind nur wechselnde Darsteller.',
     'timeline.jumpLabel': 'Zu einer Epoche springen',
     'timeline.events': 'Schlüsselmomente',
     'timeline.anchorsLabel': 'Hier weiterlesen',
@@ -422,7 +426,9 @@ export const timelineUI = {
     'timeline.outroLinked': '篇文章已經接進這條軸線',
     'nav.timeline': '時間台灣',
     'nav.timeline.subtitle': '把島嶼沿時間展開',
-    'timeline.meta.title': '時間台灣：從史前到現在的歷史時間軸',
+    // 主查詢「台灣歷史」「台灣歷史時間表」：標題前段放查詢詞與時代名，品牌語「時間台灣」留在頁面 hero（2026-11-04 evolve）
+    'timeline.meta.title':
+      '台灣歷史時間軸：史前、荷西、明鄭、清領、日治、戒嚴到民主化',
     'timeline.meta.description':
       '由上往下滑，把台灣的每個時代展開：南島起源、荷西競逐、明鄭、清領、日治、戒嚴、民主化到當代——每個時代都接著站上的深度文章與研究。',
     'timeline.eyebrow': '從史前到現在',
