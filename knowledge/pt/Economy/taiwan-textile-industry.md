@@ -2,9 +2,7 @@
 title: 'Indústria Têxtil de Taiwan: De Indústria do Pôr do Sol a Campeã Invisível de Roupas Funcionais Olímpicas'
 description: "Como uma indústria tradicional que já foi considerada 'do pôr do sol' conseguiu, por meio da reciclagem de garrafas PET, redes de pesca descartadas e até da captura de gases residuais de fábricas, fornecer as tecnologias avançadas das roupas de competição das equipes globais nos Jogos Olímpicos de Paris de 2024, redefinindo a narrativa de resiliência da indústria tradicional de Taiwan."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'Indústria Têxtil',
@@ -15,15 +13,20 @@ tags:
     'Eclat',
     'Polymer',
   ]
-readingTime: 10
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-07-25T21:33:46+08:00'
+translatedAt: '2026-11-04T16:57:09.654336+00:00'
 ---
 
 > **Visão geral em 30 segundos:** A indústria têxtil de Taiwan foi a principal força geradora de divisas na década de 1960, mas foi rotulada como "indústria do pôr do sol" na década de 1990 devido às pressões de custos. No entanto, através de 30 anos de transformação tecnológica, Taiwan hoje fornece mais de 70% dos tecidos funcionais esportivos do mundo[^1]. Desde a "roupa feita de gases residuais" da equipe chinesa de Taiwan nos Jogos Olímpicos de Paris de 2024[^2] até o fato de que 23 das 48 equipes na Copa do Mundo de 2026 utilizam fios taiwaneses[^3], esta ilha está redefinindo os padrões da moda sustentável global utilizando resíduos e tecnologia avançada.

@@ -2,9 +2,7 @@
 title: 'Wang-a-piau: de panfletos eleitorais a campos de batalha da infância, as cartas de combate da memória de Taiwan'
 description: "Na década de 1950, cartas circulares impressas com personagens de teatro de fantoches e quadrinhos nas mãos de estudantes taiwaneses compunham intensas batalhas nos pátios escolares. Da inspiração no jogo japonês 'menko' à mudança de materiais com o florescimento da indústria plástica, o wang-a-piau carrega memórias coletivas transgeracionais e reflete as transformações socioculturais de Taiwan."
 date: 2026-04-27
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '休閒與娛樂'
 tags:
   [
     'brinquedos de infância',
@@ -14,15 +12,19 @@ tags:
     'jogos',
     'eleições',
   ]
-readingTime: 10
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-04T17:29:00.257862+00:00'
 ---
 
 > **Visão geral em 30 segundos:** A partir da década de 1950, o «wang-a-piau» de Taiwan era o jogo das crianças e também a régua de status entre pares — quanto mais se colecionava, mais peso se tinha no pátio depois das aulas. Esse tipo de carta nascido do «yezi xi» chinês e inspirado no brinquedo japonês, do metal ao plástico, com estampas do teatro de fantoches aos quadrinhos, com múltiplas formas de jogar, carrega a memória coletiva de várias gerações de taiwaneses. Mais especial ainda: em Taiwan, até panfletos eleitorais podiam ser transformados pelas crianças em «wang-a-piau», tornando-se armas alternativas no campo de batalha da infância.
