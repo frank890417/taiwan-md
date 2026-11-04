@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-04T21:24:38.532138+00:00'
 ---
 
 # Wu Bai: Dari Desa Suantou, Kecamatan Lioujiao, Rock Bahasa Taiwan Tiga Dekade Tanpa Kompromi

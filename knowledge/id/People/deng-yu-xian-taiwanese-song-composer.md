@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-04T21:23:56.757036+00:00'
 ---
 
 # Deng Yuxian: Hakka 1906, April Longing for Rain — Thirty-Nine Years of the Father of Taiwanese Popular Songs

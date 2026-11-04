@@ -1,10 +1,8 @@
 ---
 title: 'Koxinga'
 description: 'Putra dari bajak laut blasteran Tiongkok-Jepang, yang menghabiskan 16 tahun melawan Dinasti Qing, 9 bulan menyerang Taiwan, dan 5 bulan membangun negara sebelum meninggal mendadak pada usia 37 tahun—namanya hingga kini diperebutkan oleh empat rezim berbeda.'
-date: '2026-03-27'
-author: 'Taiwan.md Contributors'
+date: 2026-03-27
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Koxinga',
@@ -14,15 +12,19 @@ tags:
     'Kekaisaran Lautan',
     'Benteng Zeelandia',
   ]
-readingTime: '12'
-lastVerified: '2026-03-27'
-lastHumanReview: 'false'
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-27
+lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-11-04T21:34:59.556737+00:00'
 ---
 
 # Koxinga: Tiga Puluh Tujuh Tahun Lahir di Jepang, Tumbuh di Tiongkok, dan Mati di Taiwan

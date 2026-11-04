@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:ee5b642d51157582'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-08-04T03:58:39.870590+00:00'
+translatedAt: '2026-11-04T21:22:23.791525+00:00'
 ---
 
 # Chu Ching-wu: Melampaui Suhu Nitrogen Cair pada 1987, Penemu Bersama Superkonduktor Suhu Tinggi Tc=93K
