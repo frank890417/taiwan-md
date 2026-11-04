@@ -2,9 +2,7 @@
 title: 'Тайваньская выдра: история выживания евразийской выдры на островах Цзиньмэнь и её бесшумное исчезновение на основном острове'
 description: 'Евразийская выдра на основном острове Тайвань не имеет достоверных записей в дикой природе с 1980-х годов, статус популяции неясен и крайне неблагоприятен. Оставшиеся на Цзиньмэне «выдры с полевых укреплений» сталкиваются с множественными угрозами: фрагментацией среды обитания, гибелью на дорогах и загрязнением микропластиком.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'евразийская выдра',
@@ -15,15 +13,19 @@ tags:
     'гибель на дорогах',
     'фрагментация среды обитания',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-07-25T17:25:47+08:00'
+translatedAt: '2026-11-04T20:14:50.425723+00:00'
 ---
 
 # Тайваньская выдра: история выживания евразийской выдры на островах Цзиньмэнь и её бесшумное исчезновение на основном острове
