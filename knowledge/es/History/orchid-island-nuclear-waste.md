@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:45:11+08:00'
+translatedAt: '2026-11-03T23:55:59.944135+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1982, Lanyu comenzó a recibir desechos radiactivos de baja actividad de toda Taiwán; en 1996 la instalación alcanzó su capacidad, pero no llegó así el final del «almacenamiento temporal». El pueblo Tao ha exigido la reubicación repetidamente desde 1988, y la investigación oficial de la verdad de 2018 puso nuevamente sobre la mesa el proceso de instalación. Este artículo no declara «seguro» ni «peligroso» para ninguna de las partes, sino que pregunta: si un hogar fue elegido como sitio de almacenamiento sin que sus residentes lo supieran, ¿pueden las cifras de monitorización posteriores responder solas a la cuestión de la justicia?
@@ -94,12 +94,12 @@ Estas páginas oficiales no dan una fecha de finalización para la reubicación.
 
 Los bidones amarillos de Lanyu se han convertido en un objeto de la historia taiwanesa no por su aspecto especial, sino porque condensan más de cuarenta años en un lugar concreto: una isla, una comunidad, 23 zanjas y un futuro que aún no ha sido acordado conjuntamente. El verdadero final no será solo mover los bidones de una coordenada del mapa a otra. También debe hacer que quienes fueron excluidos se conviertan en quienes decidan la próxima coordenada.
 
-## Lecturas complementarias
+## Lecturas adicionales
 
-- [Informe de investigación de la verdad sobre la instalación de almacenamiento de desechos nucleares en Lanyu del Yuan Ejecutivo](https://alilin.cip.gov.tw/Book/670)
-- [Comisión de Seguridad Nuclear: explicación del control de seguridad de la instalación de Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
+- [Informe de investigación de la verdad sobre el establecimiento de la instalación de almacenamiento de desechos nucleares en Lanyu del Yuan Ejecutivo](https://alilin.cip.gov.tw/Book/670)
+- [Comisión de Seguridad Nuclear: Explicación del control de seguridad de la instalación de almacenamiento de Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
 - [Taiwan Insight: La lucha del pueblo Tao por la justicia ambiental y la subjetividad en la Isla Orquídea](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [El debate de Taiwán sobre la energía nuclear](/es/society/taiwan-nuclear-debate) — Revisión del reinicio de la tercera central nuclear en 2026 y referéndum caso 22: «los desechos nucleares tienen solución» es una de las tres condiciones para el reinicio; Lanyu y la piscina de combustible de la tercera central siguen esperando destino.
+- [Taiwán y el debate nuclear](/es/society/taiwan-nuclear-debate) — Revisión del reinicio de la Central Nuclear N.º 3 en 2026 y el referéndum n.º 22: resolver el problema de los desechos nucleares es una de las tres condiciones para el reinicio; Lanyu y la piscina de combustible de la Central Nuclear N.º 3 siguen esperando una solución
 
 ## Referencias
 

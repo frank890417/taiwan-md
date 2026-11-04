@@ -1,207 +1,207 @@
 ---
-title: '¿Qué son las elecciones "nueve en uno"? Nueve cargos, cuatro elevaciones de estatus y treinta años de evolución del autogobierno local'
-description: 'El término "nueve en uno" se utilizó por primera vez de forma generalizada en 2014. Detrás de él hay cuatro reorganizaciones geográficas urbanas — la elevación de estatus de Taipéi y Kaohsiung en 1967, la de Kaohsiung en 1979, la de las Cinco Metrópolis en 2010 y la de Taoyuan en 2014 — junto con tres nodos institucionales: la primera elección popular de alcaldes de municipios especiales en 1994, la integración de la Ley de Gobierno Local en 1999 y la creación del cargo de jefe de distrito de zona montañosa indígena en 2014. Los nueve cargos votados el mismo día — alcalde de municipio especial / concejal de municipio especial / magistrado de condado o ciudad / concejal de condado o ciudad / jefe de municipio / representante de municipio / jefe de distrito de zona montañosa indígena / representante de distrito de zona montañosa indígena / jefe de aldea o barrio — son el cristal acumulado de treinta años de evolución del autogobierno local en Taiwán.'
+title: '¿Qué son las elecciones nueve en uno? Nueve cargos, cuatro ascensos de categoría, treinta años de evolución de la autonomía local'
+description: 'El término "nueve en uno" se usó ampliamente por primera vez en 2014; detrás están cuatro reorganizaciones geográficas urbanas — 1967 ascenso de Taipéi y Kaohsiung, 1979 ascenso de Kaohsiung, 2010 ascenso de las cinco metrópolis, 2014 ascenso de Taoyuan — y tres hitos institucionales — 1994 primera elección popular de alcaldes de municipios especiales, 1999 integración de la Ley de Sistemas Locales, 2014 creación del cargo de jefe de distrito indígena de montaña. Ese mismo día se votan nueve cargos — alcalde de municipio especial, concejal de municipio especial, alcalde de condado/ciudad, concejal de condado/ciudad, alcalde de township/ciudad condal, representante de township/ciudad condal, jefe de distrito indígena de montaña, representante de distrito indígena de montaña, jefe de aldea/barrio — que son el resultado acumulado de treinta años de evolución de la autonomía local en Taiwán.'
 date: 2026-05-27
-author: 'Taiwan.md'
 category: 'Politics'
-subcategory: '選舉制度'
 tags:
   [
     'elecciones nueve en uno',
     'funcionarios públicos locales',
     'alcalde de municipio especial',
-    'magistrado de condado',
-    'concejales',
-    'jefe de aldea o barrio',
-    'Ley de Gobierno Local',
+    'alcalde de condado/ciudad',
+    'concejal',
+    'jefe de aldea/barrio',
+    'ley de sistemas locales',
     'elecciones 2026',
   ]
-readingTime: 13
+subcategory: '選舉制度'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: false
-translatedFrom: Politics/九合一選舉是什麼.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:8130ad5ab40eae13
-sourceBodyHash: sha256:f699c0cd2ccbe17d
-translatedAt: 2026-05-28T05:08:34+08:00
+readingTime: 13
+translatedFrom: 'Politics/九合一選舉是什麼.md'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:d01e4dc65a504478'
+sourceBodyHash: 'sha256:42ff4d82e10867fc'
+translatedAt: '2026-11-03T20:21:59+08:00'
 ---
 
-# ¿Qué son las elecciones "nueve en uno"?
+# ¿Qué son las elecciones nueve en uno?
 
-> **Panorama en 30 segundos:** El término "nueve en uno" no empezó a utilizarse de forma generalizada hasta 2014 — la primera vez que en Taiwán se votaron simultáneamente "nueve tipos de elecciones de funcionarios públicos locales". Pero este formato no apareció de pronto en 2014; es el resultado acumulado de seis nodos: la elevación de estatus de Taipéi en 1967, la de Kaohsiung en 1979, la primera elección popular de alcaldes de municipios especiales en 1994, la elevación de las Cinco Metrópolis en 2010, la de Taoyuan en 2014 y la creación del cargo de jefe de distrito de zona montañosa indígena en 2014. Detrás de una papeleta con nueve cargos se encuentra la evolución completa del sistema de autogobierno local de Taiwán durante treinta años. Lo que esta categoría quiere transmitir no es "cómo votar en 2026", sino "por qué este formato de nueve en uno merece ser valorado".
+> **Resumen en 30 segundos:** El término "nueve en uno" empezó a usarse ampliamente en 2014 — fue la primera vez que Taiwán celebró "elecciones de nueve tipos de funcionarios públicos locales" el mismo día. Pero este formato no apareció de la nada en 2014; es el resultado acumulado de seis hitos: 1967 ascenso de Taipéi, 1979 ascenso de Kaohsiung, 1994 primera elección popular de alcaldes de municipios especiales, 2010 ascenso de las cinco metrópolis, 2014 ascenso de Taoyuan, 2014 creación del cargo de jefe de distrito indígena de montaña. Detrás de una papeleta con nueve cargos está la evolución completa de treinta años del sistema de autonomía local de Taiwán. Esta clasificación no trata sobre "cómo votar en 2026", sino sobre "por qué vale la pena valorar este formato de nueve en uno".
 
 ---
 
 ## Origen del término "nueve en uno"
 
-El 29 de noviembre de 2014 fue el primer día en que se votaron simultáneamente nueve tipos de elecciones de funcionarios públicos locales en Taiwán. Los medios de comunicación empezaron a utilizar de forma generalizada el término "elecciones nueve en uno" — en elecciones anteriores, aunque también se votaban varios cargos el mismo día, la combinación era distinta [^1].
+El 29 de noviembre de 2014 fue la primera vez que Taiwán celebró elecciones de nueve tipos de funcionarios públicos locales el mismo día. Los medios empezaron a usar masivamente el término "elecciones nueve en uno" — antes también había múltiples cargos votados el mismo día, pero la combinación era distinta [^1].
 
-La composición del término "nueve en uno" es muy literal: nueve tipos de cargos votados juntos en un solo día. Pero detrás de este formato simple se encuentra la historia más completa de la evolución del autogobierno local en Taiwán desde la redacción de la Constitución en 1947. Antes de 2014, las elecciones locales más complejas eran las "siete en uno" o "cinco en uno", y el número de cargos fue aumentando progresivamente con las elevaciones de estatus urbano [^2].
+La composición del término "nueve en uno" es muy llana: nueve cargos juntos en una sola jornada de votación. Pero detrás de este formato simple está la historia más completa de la evolución de la autonomía local en Taiwán desde la Constitución de 1947. Antes de 2014, la elección local más compleja era la de "siete en uno" o "cinco en uno", y el número de cargos fue aumentando con los ascensos de categoría de las ciudades [^2].
 
-| Año  | Nombre de la elección local                           | Cargos votados el mismo día     | Nodo institucional relevante                                                                                                      |
-| ---- | ----------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1994 | Primera elección de alcaldes de municipios especiales | Taipéi y Kaohsiung por separado | Primera elección popular de alcaldes de municipios especiales                                                                     |
-| 2002 | Cinco en uno                                          | 5 tipos                         | Magistrado de condado/ciudad + concejal de condado/ciudad + jefe de municipio + representante de municipio + jefe de aldea/barrio |
-| 2009 | Cinco en uno                                          | 5 tipos                         | Continuación del formato previo a la elevación de las Cinco Metrópolis                                                            |
-| 2010 | Elección de las Cinco Metrópolis                      | 4 tipos                         | Primera elección de alcaldes de municipios especiales tras la elevación                                                           |
-| 2014 | **Nueve en uno**                                      | 9 tipos                         | Elevación de Taoyuan + creación del cargo de jefe de distrito de zona montañosa indígena                                          |
-| 2018 | Nueve en uno                                          | 9 tipos                         | Primera vez que un referéndum se vinculó a las elecciones generales (luego se separó por reforma legal)                           |
-| 2022 | Nueve en uno                                          | 9 tipos                         | Los referendos ya no se vinculan a las elecciones generales                                                                       |
-| 2026 | Nueve en uno                                          | 9 tipos                         | Día de votación de la CEC: 28 de noviembre [^3]                                                                                   |
+| Año  | Nombre de la elección local                           | Cargos el mismo día             | Hitos institucionales mayores                                                                                                                               |
+| ---- | ----------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1994 | Primera elección de alcaldes de municipios especiales | Taipéi y Kaohsiung por separado | Primera elección popular de alcaldes de municipios especiales                                                                                               |
+| 2002 | Cinco en uno                                          | 5 tipos                         | Alcalde de condado/ciudad + concejal de condado/ciudad + alcalde de township/ciudad condal + representante de township/ciudad condal + jefe de aldea/barrio |
+| 2009 | Cinco en uno                                          | 5 tipos                         | Formato previo al ascenso de las cinco metrópolis                                                                                                           |
+| 2010 | Elecciones de las cinco metrópolis                    | 4 tipos                         | Primera elección de alcaldes de municipios especiales tras el ascenso de las cinco metrópolis                                                               |
+| 2014 | **Nueve en uno**                                      | 9 tipos                         | Ascenso de Taoyuan + creación del cargo de jefe de distrito indígena de montaña                                                                             |
+| 2018 | Nueve en uno                                          | 9 tipos                         | Referéndum vinculado a elección general por primera vez (luego separado por reforma legal)                                                                  |
+| 2022 | Nueve en uno                                          | 9 tipos                         | Referéndum ya no vinculado a elección general                                                                                                               |
+| 2026 | Nueve en uno                                          | 9 tipos                         | Comisión Electoral Central fija votación para 28/11 [^3]                                                                                                    |
 
 ---
 
 ## Cuáles son los nueve cargos
 
-De acuerdo con la Ley de Elección y Destitución de Funcionarios Públicos y la Ley de Gobierno Local, los nueve tipos de funcionarios públicos que se votan simultáneamente en 2026 son [^4]:
+Según la _Ley de Elección y Revocación de Funcionarios Públicos_ y la _Ley de Sistemas Locales_, los nueve funcionarios públicos que se eligen el mismo día en 2026 son [^4]:
 
-### 1. Alcaldes de municipios especiales (6 puestos)
+### 1. Alcalde de municipio especial (6 escaños)
 
-Los titulares de los seis municipios especiales: Taipéi, Nuevo Taipéi, Taoyuan, Taichung, Tainan y Kaohsiung. Mandato de 4 años, con posibilidad de reelección por una vez. Responsables de la administración municipal, educación, bienestar social, policía y otros asuntos del municipio especial.
+Taipéi, Nuevo Taipéi, Taoyuan, Taichung, Tainan, Kaohsiung — los seis alcaldes de las metrópolis. Mandato de 4 años, reelección permitida una vez. Responsables de administración, educación, bienestar social, policía y otros asuntos del municipio especial.
 
-El historial de este cargo se remonta a 1967 (elevación de Taipéi) y 1979 (elevación de Kaohsiung), pero entre 1967 y 1994 los alcaldes eran designados por el gobierno central; no fue hasta 1994 que se celebró la primera elección popular. Para el historial detallado y la evolución del sistema, véase 2026 九合一選舉 (Elecciones nueve en uno de 2026).
+La historia de este cargo se remonta a 1967 (ascenso de Taipéi) y 1979 (ascenso de Kaohsiung), pero entre 1967-1994 eran designados; la primera elección popular fue en 1994. Historia detallada y evolución institucional en [elecciones nueve en uno 2026](/es/politics/2026-local-elections-taiwan/) (2026 九合一選舉).
 
-### 2. Concejales de municipios especiales (aproximadamente 380 puestos, según el número de escaños del consejo)
+### 2. Concejal de municipio especial (aprox. 380 escaños, según número de escaños de cada consejo)
 
-Representantes de los consejos de los seis municipios especiales. Mandato de 4 años, sin límite de reelección. Responsables de la aprobación presupuestaria, la supervisión municipal y la legislación.
+Representantes de los seis consejos municipales. Mandato de 4 años, sin límite de reelección. Responsables de revisión presupuestaria, supervisión municipal, legislación.
 
-Las elecciones de concejales utilizan el "sistema de distrito plurinominal de voto único intransferible (SNTV)" diseñado en la década de 1980 — una dirección completamente distinta a la reforma de los legisladores en 2008 hacia el sistema de distrito uninominal con dos votos. Para más detalles, véase 議員制度 (Sistema de concejales).
+La elección de concejales mantiene el "sistema de distrito plurinominal con voto único no transferible (SNTV)" diseñado en los años 80 — dirección completamente distinta a la de los legisladores, que en 2008 cambiaron a "distrito uninominal con dos votos". Detalle en [sistema de concejales](/es/politics/city-councilor-system-taiwan/) (議員制度).
 
-### 3. Magistrados de condado o ciudad (16 puestos)
+### 3. Alcalde de condado/ciudad (16 escaños)
 
-Los titulares de los 16 condados y ciudades que no son municipios especiales — las tres ciudades bajo jurisdicción de condado de Keelung, Hsinchu y Chiayi, y los trece condados de Yilan, Hsinchu, Miaoli, Changhua, Nantou, Yunlin, Chiayi, Pingtung, Hualien, Taitung, Penghu, Kinmen y Lienchiang [^5]. Mandato de 4 años, con posibilidad de reelección por una vez.
+Los 16 condados y ciudades no municipios especiales — tres ciudades condales: Keelung, Hsinchu, Chiayi; y trece condados: Yilan, Hsinchu, Miaoli, Changhua, Nantou, Yunlin, Chiayi, Pingtung, Hualien, Taitung, Penghu, Kinmen, Lienchiang [^5]. Mandato de 4 años, reelección permitida una vez.
 
-### 4. Concejales de condado o ciudad (aproximadamente 532 puestos)
+### 4. Concejal de condado/ciudad (aprox. 532 escaños)
 
-Representantes de los consejos de los condados y ciudades que no son municipios especiales. Mandato de 4 años, sin límite de reelección. También utilizan el sistema SNTV.
+Representantes de los consejos de condados y ciudades no municipios especiales. Mandato de 4 años, sin límite de reelección. Igualmente usan sistema SNTV.
 
-### 5. Jefes de municipio (aproximadamente 198 puestos)
+### 5. Alcalde de township/ciudad condal (aprox. 198 escaños)
 
-Titulares de los municipios, pueblos y ciudades bajo jurisdicción de condado dentro de las áreas que no son municipios especiales. Mandato de 4 años, con posibilidad de reelección por una vez. Los jefes de municipio son los funcionarios electos de base más cercanos a la comunidad en Taiwán — más próximos al vecindario que los magistrados de condado, con más poder administrativo real que los jefes de aldea o barrio.
+Alcaldes de townships, ciudades condales y ciudades condales dentro de condados no municipios especiales. Mandato de 4 años, reelección permitida una vez. El alcalde de township/ciudad condal es el primer mandatario electo de base en Taiwán — más cerca de la comunidad que el alcalde de condado/ciudad, con más poder administrativo real que el jefe de aldea/barrio.
 
-### 6. Representantes de municipio (aproximadamente 2.148 puestos)
+### 6. Representante de township/ciudad condal (aprox. 2,148 escaños)
 
-Representantes de los consejos de los municipios, pueblos y ciudades bajo jurisdicción de condado. Mandato de 4 años, sin límite de reelección.
+Representantes de los consejos de townships/ciudades condales. Mandato de 4 años, sin límite de reelección.
 
-### 7. Jefes de distrito de zona montañosa indígena en municipios especiales (6 puestos)
+### 7. Jefe de distrito indígena de montaña de municipio especial (6 escaños)
 
-Wulai (Nuevo Taipéi), Fuxing (Taoyuan), Heping (Taichung), Namaxia (Kaohsiung), Taoyuan (Kaohsiung) y Maolin (Kaohsiung). Mandato de 4 años.
+Wulai de Nuevo Taipéi, Fuxing de Taoyuan, Heping de Taichung, Namasia, Taoyuan, Maolin de Kaohsiung. Mandato de 4 años.
 
-Este cargo fue creado en 2014 con la elevación de Taoyuan a municipio especial — para evitar que el acto técnico de "elevación de estatus" privara a las comunidades indígenas de su derecho al autogobierno. Para más detalles, véase 直轄市山地原住民區長 (Jefe de distrito de zona montañosa indígena en municipio especial).
+Este cargo se creó en 2014 con el ascenso de Taoyuan — para que la operación técnica de "ascenso de categoría" no privara a las tribus indígenas de montaña de su derecho a la autonomía. Detalle en [jefe de distrito indígena de montaña de municipio especial](/es/politics/indigenous-district-chief-system/) (直轄市山地原住民區長).
 
-### 8. Representantes de distrito de zona montañosa indígena en municipios especiales (aproximadamente 50 puestos)
+### 8. Representante de distrito indígena de montaña de municipio especial (aprox. 50 escaños)
 
-Miembros de los consejos de los seis distritos de zona montañosa indígena.
+Consejos representativos de los seis distritos indígenas de montaña.
 
-### 9. Jefes de aldea o barrio (7.748 puestos)
+### 9. Jefe de aldea/barrio (7,748 escaños)
 
-Los funcionarios electos de más bajo nivel en Taiwán. Un "barrio" (里) en un municipio especial, o una "aldea" (村) o "barrio" en un municipio bajo jurisdicción de condado — un total de 7.748 en toda la isla. Mandato de 4 años, sin límite de reelección.
+El primer mandatario electo más de base en Taiwán. Un "barrio" (里) en municipio especial, una "aldea" (村) o "barrio" (里) en township/ciudad condal de condado no municipio especial — total 7,748 en toda la isla. Mandato de 4 años, sin límite de reelección.
 
-El cargo de jefe de aldea o barrio es el único en las elecciones taiwanesas donde "predominan los candidatos sin afiliación partidista" — la escala es demasiado pequeña (un barrio tiene en promedio entre 2.000 y 5.000 habitantes), y conocer a cada hogar importa más que la posición partidista. Para más detalles, véase 村里長制度 (Sistema de jefes de aldea o barrio).
+El jefe de aldea/barrio es el único cargo en las elecciones taiwanesas donde "los independientes son dominantes" — la escala es demasiado pequeña (un barrio promedio tiene 2,000-5,000 electores), conocer a cada hogar importa más que la postura partidista. Detalle en [sistema de jefes de aldea/barrio](/es/politics/village-chief-system/) (村里長制度).
 
 ---
 
-## Por qué son "nueve" cargos, no "ocho" o "diez"
+## Por qué "nueve" cargos, no "ocho" o "diez"
 
-Cada tipo de cargo tiene su propia historia. Pero el número "nueve" no se determinó en 1947 con la redacción de la Constitución; es el resultado acumulado de sesenta y cinco años consecutivos entre 1949 y 2014:
+Cada cargo tiene su propia historia. Pero el número "nueve" no se decidió en la Constitución de 1947; se acumuló en sesenta y cinco años continuos (1949-2014):
 
-**1967** — Taipéi se eleva a municipio especial. Taiwán tiene por primera vez el cargo de "alcalde de municipio especial" (aunque en ese momento era designado por el gobierno central). Sin embargo, los cargos electos locales como jefes de municipio y jefes de aldea ya existían desde la década de 1950.
+**1967** — Taipéi asciende a municipio especial. Taiwán tiene por primera vez el cargo de "alcalde de municipio especial" (aunque entonces era designado). Pero alcaldes de township/ciudad condal, jefes de aldea/barrio y otros cargos locales electos ya existían desde los años 50.
 
-**1979** — Kaohsiung se eleva a municipio especial. Taipéi y Kaohsiung quedan como municipios especiales paralelos, pero ambos alcaldes siguen siendo designados por el gobierno central [^6].
+**1979** — Kaohsiung asciende a municipio especial. Taipéi y Kaohsiung como municipios especiales paralelos, pero ambos alcaldes seguían siendo designados [^6].
 
-**26 de noviembre de 1994** — Tras la aprobación de la Ley de Autonomía de Provincias y Condados y la Ley de Autonomía de Municipios Especiales, los alcaldes de Taipéi y Kaohsiung son elegidos por primera vez mediante votación popular. Chen Shui-bian es elegido alcalde de Taipéi y Wu Den-yih alcalde de Kaohsiung. Este es un nodo clave en la historia del autogobierno local en Taiwán [^7].
+**26 de noviembre de 1994** — Tras aprobarse la _Ley de Autonomía de Provincias y Condados_ y la _Ley de Autonomía de Municipios Especiales_, primera elección popular de alcaldes de Taipéi y Kaohsiung. Chen Shui-bian elegido alcalde de Taipéi, Wu Den-yih alcalde de Kaohsiung. Hito clave en la historia de la autonomía local taiwanesa [^7].
 
-**1999** — La Ley de Gobierno Local reemplaza las leyes separadas de Ley de Autonomía de Provincias y Condados y Ley de Autonomía de Municipios Especiales, integrando la base legal del autogobierno local a nivel nacional. Aquí se establece la base legal de la estructura nueve en uno.
+**1999** — La _Ley de Sistemas Locales_ reemplaza a la _Ley de Autonomía de Provincias y Condados_ y la _Ley de Autonomía de Municipios Especiales_, integrando la base legal de la autonomía local nacional. Aquí se asienta la base legal del formato nueve en uno.
 
-**25 de diciembre de 2010** — Elevación de las Cinco Metrópolis: Nuevo Taipéi, Taichung, Tainan, Kaohsiung (fusionado con el condado) y Taipéi operan simultáneamente como municipios especiales. La geografía urbana de Taiwán se reorganiza en el formato de "Cinco Metrópolis" [^8]. Al mismo tiempo, el estatus de elección popular de los jefes de los "municipios montañosos" (山地鄉) bajo la jurisdicción de los cinco condados originales desaparece (tras la elevación pasan a ser jefes de distrito designados), lo que genera controversia sobre el derecho al autogobierno de los pueblos indígenas.
+**25 de diciembre de 2010** — Ascenso de las cinco metrópolis: Nuevo Taipéi, Taichung, Tainan, Kaohsiung (fusionada con condado), Taipéi operan simultáneamente como municipios especiales. La geografía urbana de Taiwán se reorganiza en formato "cinco metrópolis" [^8]. Al mismo tiempo, los "townships de montaña" originalmente bajo esos cinco condados/ciudades pierden su estatus de alcalde electo (tras el ascenso pasan a ser jefes de distrito designados), generando controversia sobre derechos de autonomía indígena.
 
-**2014** — Taoyuan se eleva a municipio especial y Taiwán entra en la era de los "Seis Municipios Especiales". Al mismo tiempo, el Yuan Legislativo aprueba una enmienda a la Ley de Gobierno Local que crea los cargos de "jefe de distrito de zona montañosa indígena / representante de distrito de zona montañosa indígena en municipio especial" — restaurando parcialmente el derecho al autogobierno electo de los pueblos indígenas perdido durante la elevación de 2010 [^9].
+**2014** — Taoyuan asciende a municipio especial, Taiwán entra en era de "seis metrópolis". Simultáneamente el Yuan Legislativo aprueba enmienda a la _Ley de Sistemas Locales_, creando los cargos de "jefe de distrito indígena de montaña / representante de distrito indígena de montaña de municipio especial" — restituyendo parcialmente los derechos de autonomía electiva indígena perdidos en el ascenso de 2010 [^9].
 
-**29 de noviembre de 2014** — Primera votación simultánea de "elecciones nueve en uno". El formato de nueve cargos queda fijado desde entonces.
+**29 de noviembre de 2014** — Primera "elección nueve en uno" con votación el mismo día. El formato de nueve cargos queda fijado desde entonces.
 
 ---
 
 ## Tensiones en el diseño institucional
 
-El formato nueve en uno parece natural, pero en realidad esconde muchas tensiones estructurales, cada una de las cuales sigue en evolución:
+El formato nueve en uno parece natural, pero detrás hay muchas tensiones estructurales, cada una aún en evolución:
 
-### Elevación de estatus vs. autogobierno local
+### Ascenso de categoría vs autonomía local
 
-La "elevación de estatus" es un concepto central en la gobernanza urbana de Taiwán — pasar de ciudad bajo jurisdicción de condado a municipio especial cambia la escala presupuestaria, la plantilla de personal y el nivel administrativo. Pero la elevación también tiene el efecto secundario de "perder funcionarios electos": el estatus de elección popular del "alcalde" de una ciudad bajo jurisdicción de condado desaparece tras la elevación (pasa a ser jefe de distrito designado).
+El "ascenso de categoría" es concepto central en la gobernanza urbana taiwanesa — de ciudad provincial a municipio especial, cambian escala presupuestaria, plantilla de personal, nivel administrativo. Pero el ascenso trae el efecto secundario de "perder alcalde electo": el alcalde de ciudad condal originalmente electo pierde su estatus tras el ascenso (pasa a ser jefe de distrito designado).
 
-Este efecto secundario ocurrió por primera vez a gran escala con la elevación de las Cinco Metrópolis en 2010, especialmente con la pérdida del estatus de elección popular de los jefes de los tres municipios montañosos del condado de Kaohsiung (Namaxia / Taoyuan / Maolin). La elevación de Taoyuan en 2014 volvió a desencadenar la misma controversia (municipio de Fuxing). En 2014, el Yuan Legislativo remedió la situación mediante una enmienda a la Ley de Gobierno Local, creando el cargo de "jefe de distrito de zona montañosa indígena en municipio especial".
+En el ascenso de las cinco metrópolis de 2010 este efecto secundario ocurrió por primera vez a gran escala, especialmente en los tres townships de montaña de Kaohsiung (Namasia, Taoyuan, Maolin) cuyos alcaldes electos fueron despojados de su estatus. En el ascenso de Taoyuan de 2014 se volvió a disparar la misma controversia (township de Fuxing). El Yuan Legislativo en 2014, mediante enmienda a la _Ley de Sistemas Locales_, creó el cargo de "jefe de distrito indígena de montaña de municipio especial" como remedio.
 
-Sin embargo, el estatus de elección popular de los jefes de municipio en áreas de llanura sigue perdiéndose debido a la elevación de estatus — este problema estructural aún no ha recibido una solución generalizada [^10].
+Pero el estatus electo de alcaldes de township/ciudad condal en zonas de llanura sigue perdiéndose por ascensos — este problema estructural aún no tiene remedio generalizado [^10].
 
-### Divergencia institucional entre concejales de municipio especial y legisladores
+### Divergencia institucional: concejal de municipio especial vs legislador
 
-En 2008, los legisladores cambiaron al "sistema de distrito uninominal con dos votos" (distrito + representación proporcional), mientras que los concejales de condado y ciudad siguen utilizando el "sistema de distrito plurinominal de voto único intransferible (SNTV)" diseñado en la década de 1980 — a pesar de que ambos son representantes electos, el diseño institucional es completamente distinto.
+Los legisladores en 2008 cambiaron a "distrito uninominal con dos votos" (distrito + lista de partido), pero los concejales de condados/ciudades siguen usando el "distrito plurinominal con voto único no transferible (SNTV)" diseñado en los años 80 — mismos representantes electos, diseño institucional completamente distinto.
 
-Esta divergencia se ha mantenido durante 18 años. Detrás está la vinculación entre los intereses de las facciones locales y los partidos políticos — pero el impacto del SNTV en los partidos pequeños / terceras fuerzas / representatividad plural es mucho más profundo a nivel de concejales que a nivel de legisladores. Para más detalles, véase 議員制度 (Sistema de concejales).
+Esta divergencia lleva 18 años. Detrás están los intereses entrelazados de facciones locales y partidos — pero el impacto del SNTV en partidos pequeños / terceras fuerzas / representación diversa es mucho más profundo a nivel de concejales que de legisladores. Detalle en [sistema de concejales](/es/politics/city-councilor-system-taiwan/) (議員制度).
 
-### La paradoja de escala del jefe de aldea o barrio
+### Paradoja de escala del jefe de aldea/barrio
 
-Los 7.748 jefes de aldea o barrio en toda la isla — más que las más de 6.600 tiendas 7-Eleven. Cada cuatro años se celebran simultáneamente 7.748 elecciones a pequeña escala. Pero cada aldea o barrio tiene en promedio solo entre 2.000 y 5.000 votantes, y la economía política de este cargo es completamente distinta a la de los otros ocho: predominio de candidatos sin afiliación partidista, tasa de reelección superior al 80%, subsidio mensual de 45.000 que no se considera salario, y las relaciones de facción y personales importan más que la pertenencia partidista [^11].
+7,748 jefes de aldea/barrio en toda Taiwán — más que las 6,600 tiendas 7-Eleven. Cada cuatro años 7,748 microelecciones simultáneas. Pero cada aldea/barrio tiene solo 2,000-5,000 electores promedio; la economía política de este cargo es totalmente distinta a las otras ocho — independientes dominantes, tasa de reelección >80%, subsidio mensual NT$54,000 no cuenta como salario, redes faccionales y relaciones personales pesan más que afiliación partidista [^11].
 
-Para una discusión detallada, véase 村里長制度 (Sistema de jefes de aldea o barrio).
+Discusión detallada en [sistema de jefes de aldea/barrio](/es/politics/village-chief-system/) (村里長制度).
 
-### La doble identidad de los distritos indígenas
+### Doble identidad de los distritos indígenas
 
-Los distritos de zona montañosa indígena en municipios especiales son, en sentido legal, "distritos bajo jurisdicción de municipio especial" + "unidades de autogobierno indígena" — esta doble identidad genera múltiples tensiones en la distribución de recursos, políticas culturales y gestión territorial. El jefe de distrito debe coordinar entre tres niveles: el gobierno del municipio especial, el Consejo de Pueblos Indígenas central y las asambleas tribales, un trabajo completamente distinto al de un "jefe de distrito" ordinario.
+Los distritos indígenas de montaña de municipios especiales son, en sentido legal, "distritos de municipio especial" + "unidades de autonomía indígena" — la doble identidad genera tensiones múltiples en asignación de recursos, políticas culturales, gestión de tierras. El jefe de distrito debe coordinar entre gobierno municipal, Consejo de Pueblos Indígenas central y asambleas tribales; su trabajo es completamente distinto al de un "jefe de distrito" común.
 
-Para más detalles, véase 直轄市山地原住民區長 (Jefe de distrito de zona montañosa indígena en municipio especial).
-
----
-
-## El escenario concreto de una papeleta con nueve cargos
-
-El 28 de noviembre de 2026, sábado, a las ocho de la mañana, los colegios electorales de los 22 condados y ciudades de Taiwán abren simultáneamente [^12]. Un votante que entra en un colegio electoral sigue el siguiente procedimiento:
-
-1. **Registro** — Presentar documento de identidad y sello personal. El personal verifica el censo electoral.
-2. **Recogida de papeletas** — Según el domicilio registrado, se reciben las papeletas correspondientes. Los votantes de municipios especiales reciben: alcalde de municipio especial / concejal de municipio especial / jefe de barrio — tres papeletas (población de los seis municipios especiales = aproximadamente 15 millones de votantes). Los votantes de áreas que no son municipios especiales reciben: magistrado de condado/ciudad / concejal de condado/ciudad / jefe de municipio / representante de municipio / jefe de aldea o barrio — cinco papeletas (otros condados y ciudades = aproximadamente 8 millones de votantes).
-3. **Entrar en la cabina de votación** — Marcar un candidato en cada papeleta. Los candidatos a jefe de aldea pueden ser de 3 a 10, los candidatos a concejal pueden ser de 30 a 50 (distrito plurinominal); el tiempo promedio de lectura es de 5 a 15 minutos.
-4. **Votar** — Depositar cada papeleta en la urna correspondiente.
-
-De los nueve cargos, cada votante recibe en realidad entre 3 y 5 papeletas (dependiendo de si el domicilio está en un municipio especial, en un distrito de zona montañosa indígena, en una isla periférica, etc.). Los votantes de pueblos indígenas reciben además papeletas adicionales para concejales indígenas / jefe de distrito / representantes de distrito.
-
-Colores reales de las papeletas: alcalde de municipio especial (rojo) / magistrado de condado (rojo) / concejal de municipio especial (amarillo) / concejal de condado (amarillo) / jefe de municipio (blanco) / representante de municipio (blanco) / jefe de aldea o barrio (verde) / jefe de distrito de zona montañosa indígena (azul) / representante de distrito de zona montañosa indígena (azul) — la distinción por colores evita depositar la papeleta en la urna equivocada [^13].
+Detalle en [jefe de distrito indígena de montaña de municipio especial](/es/politics/indigenous-district-chief-system/) (直轄市山地原住民區長).
 
 ---
 
-## Comparación internacional: ¿es "nueve en uno" un producto exclusivo de Taiwán?
+## Escenario concreto: una papeleta, nueve cargos
 
-El diseño de "votación simultánea" varía entre los distintos países democráticos del mundo. El formato "nueve en uno" de Taiwán es relativamente complejo pero no único:
+El sábado 28 de noviembre de 2026 a las 8:00 AM, todos los colegios electorales de los 22 condados/ciudades abren simultáneamente [^12]. Un votante que entra al colegio vive el siguiente flujo:
 
-**Estados Unidos:** Las elecciones federales / estatales / locales suelen distribuirse en distintos años. Pero en ciertos días de elección (primer martes de noviembre) se puede votar simultáneamente presidente + Congreso + gobernador + referendos locales + concejales locales + alcaldes + jueces (en algunos estados los jueces son electos) — en Texas se pueden votar más de 20 cargos en un solo día [^14].
+1. **Registro** — Presenta cédula de identidad y sello. Personal verifica lista electoral.
+2. **Recibe papeletas** — Según domicilio electoral recibe papeletas correspondientes. Votantes de municipios especiales reciben: alcalde de municipio especial / concejal de municipio especial / jefe de barrio — tres papeletas (población seis metrópolis ≈ 15 millones de electores). Votantes de condados/ciudades no municipios especiales reciben: alcalde de condado/ciudad / concejal de condado/ciudad / alcalde de township/ciudad condal / representante de township/ciudad condal / jefe de aldea o barrio — cinco papeletas (otros condados/ciudades ≈ 8 millones de electores).
+3. **Entra a cabina** — Marca un candidato en cada papeleta. Candidatos a jefe de aldea/barrio pueden ser 3-10, a concejal 30-50 (distrito plurinominal), tiempo promedio de lectura y marcado 5-15 minutos.
+4. **Vota** — Deposita cada papeleta en su urna correspondiente.
 
-**Japón:** Las elecciones locales unificadas se celebran cada 4 años, votando simultáneamente gobernador / miembros de las asambleas prefecturales / jefes de municipios / miembros de las asambleas municipales. Pero las elecciones de estos cuatro tipos de cargos no tienen una fecha nacional unificada — cada prefectura puede elegir un día de votación distinto. El grado de "unificación" es menor que en Taiwán [^15].
+De los nueve cargos, cada votante recibe en la práctica 3-5 papeletas (según si su domicilio está en municipio especial, distrito indígena de montaña, islas, etc.). Votantes indígenas reciben adicionalmente papeletas de legislador indígena / jefe de distrito / representante de distrito.
 
-**Corea del Sur:** Las 전국동시지방선거 (elecciones locales simultáneas nacionales) se celebran cada 4 años, votando simultáneamente gobernador metropolitano / superintendente de educación / miembros de las asambleas metropolitanas / jefes de distritos/municipios/condados / miembros de las asambleas de distritos/municipios/condados / miembros del consejo escolar / miembros de representación proporcional / miembros del consejo educativo, entre otros cargos — la lógica es similar a la de las nueve en uno de Taiwán, pero incluye elecciones independientes de superintendentes de educación (el jefe de educación es independiente del jefe ejecutivo) [^16].
-
-**Reino Unido:** Las elecciones locales están dispersas; las elecciones de consejos municipales / consejos de condado / comisarios de policía suelen celebrarse en fechas distintas. El número de cargos votados simultáneamente suele ser inferior a 3.
-
-**Alemania:** Bajo el sistema federal, las fechas de las elecciones locales de cada estado son decididas por el propio estado. El número de cargos votados simultáneamente varía según el estado (generalmente de 1 a 3).
-
-Desde la perspectiva de la comparación internacional, el formato nueve en uno de Taiwán es cercano al modelo surcoreano — votación simultánea de múltiples cargos pero con fecha nacional unificada. La diferencia es que Taiwán tiene el cargo independiente de "distrito de zona montañosa indígena en municipio especial" — esta es una respuesta institucional concreta de Taiwán al derecho de autogobierno de los pueblos indígenas, un diseño que la mayoría de los países no tiene.
+Colores reales de papeletas: alcalde de municipio especial (rojo) / alcalde de condado/ciudad (rojo) / concejal de municipio especial (amarillo) / concejal de condado/ciudad (amarillo) / alcalde de township/ciudad condal (blanco) / representante de township/ciudad condal (blanco) / jefe de aldea/barrio (verde) / jefe de distrito indígena de montaña (azul) / representante de distrito indígena de montaña (azul) — colores para evitar depositar en urna equivocada [^13].
 
 ---
 
-## Por qué este formato merece ser valorado
+## Comparación internacional: ¿es el "nueve en uno" producto único de Taiwán?
 
-El formato nueve en uno no fue planeado como diseño definitivo en 1947 con la redacción de la Constitución; es el resultado de una acumulación gradual durante sesenta y cinco años consecutivos entre 1950 y 2014. Cada cargo tiene su propia historia, y cada nodo institucional corresponde a una elección de su época.
+El diseño de "votación el mismo día" varía entre democracias. El "nueve en uno" de Taiwán es relativamente complejo pero no único:
 
-**Para los votantes**, este formato significa que detrás de una papeleta hay un sistema completo de autogobierno local — desde el jefe de aldea o barrio hasta el alcalde de municipio especial, desde el representante de municipio hasta el concejal de condado, cada cuatro años el pueblo puede reconfigurar simultáneamente a todos los funcionarios y representantes locales electos. Esto es raro a nivel mundial.
+**EE. UU.**: Elecciones federales / estatales / locales suelen dispersarse en años distintos. Pero en ciertos _election day_ (primer martes de noviembre) pueden votarse mismo día: presidente + congreso + gobernador + referéndum local + concejal local + alcalde + jueces (en algunos estados jueces son electos) — en Texas posible votar más de 20 ítems en un día [^14].
 
-**Para los candidatos**, este formato significa una lógica de campaña diversa — los alcaldes de municipios especiales compiten por debate de políticas, los concejales por distribución de votos SNTV, los jefes de aldea por arraigo local, los jefes de distrito indígena por redes tribales. La economía política de cada cargo es completamente distinta, pero la votación simultánea hace que todos los candidatos compartan el mismo ciclo electoral.
+**Japón**: Elecciones locales unificadas cada 4 años, mismo día: gobernador / asamblea prefectural / alcalde municipal / asamblea municipal. Pero estas cuatro elecciones no tienen fecha unificada nacional — cada prefectura puede elegir día distinto. Grado de "unificación" menor que en Taiwán [^15].
 
-**Para la infraestructura democrática**, este formato significa que la CEC, las comisiones electorales de cada condado y ciudad, el Departamento de Asuntos Civiles, la Policía, la Oficina de Investigación, la Censoría, los medios de comunicación, las organizaciones civiles, los ingenieros de g0v, los centros de verificación — todo un conjunto de instituciones someten a prueba sus capacidades en una prueba de estrés simultánea cada cuatro años.
+**Corea del Sur**: _전국동시지방선거_ (elecciones locales simultáneas nacionales) cada 4 años, mismo día: gobernador metropolitano/provincial / superintendente de educación / concejal metropolitano/provincial / alcalde de distrito/ciudad/condado / concejal de distrito/ciudad/condado / comité de supervisión escolar / concejal de lista de partido / comité de educación, etc. — lógica similar al nueve en uno taiwanés, pero con elección independiente de superintendente de educación (director de educación independiente del primer mandatario administrativo) [^16].
 
-Las elecciones del 28 de noviembre de 2026 serán la sexta votación simultánea nueve en uno en Taiwán. Cada una es una prueba de estrés para esta infraestructura. Para el contexto detallado de las elecciones de 2026 y el análisis de presiones externas, véase 2026 九合一選舉 (Elecciones nueve en uno de 2026).
+**Reino Unido**: Elecciones locales dispersas, concejo municipal / concejo condal / comité de policía suelen ser en fechas distintas. Cargos votados mismo día usualmente menos de 3 tipos.
 
-Artículos relacionados a nivel institucional completo: 投票權門檻歷史 (Historial del umbral de derecho de voto) · 政治獻金透明度 (Transparencia de donaciones políticas) · 中選會制度 (Sistema de la CEC) · 議員制度 (Sistema de concejales) · 村里長制度 (Sistema de jefes de aldea o barrio) · 直轄市山地原住民區長 (Jefe de distrito de zona montañosa indígena en municipio especial) · 選舉公報 (Boletín electoral)
+**Alemania**: Bajo federalismo, cada _Land_ fija sus fechas de elecciones locales. Cargos votados mismo día varían por _Land_ (usualmente 1-3 tipos).
 
-Entrada curatorial general de la infraestructura democrática: [Política Hub](/politics)
+Visto en comparación, el formato nueve en uno de Taiwán se acerca al modelo coreano — mismo día, múltiples cargos, fecha unificada nacional. Diferencia: Taiwán tiene el cargo independiente de "distrito indígena de montaña de municipio especial" — respuesta institucional concreta de Taiwán a derechos de autonomía indígena, diseño que la mayoría de países no tiene.
+
+---
+
+## Por qué vale la pena valorar este formato
+
+El nueve en uno no es diseño final planificado en la Constitución de 1947; es resultado de acumulación gradual en sesenta y cinco años continuos (1950-2014). Cada cargo tiene su historia, cada hito institucional corresponde a una elección de su época.
+
+**Para el votante**, este formato significa que detrás de una papeleta hay un sistema completo de autonomía local — del jefe de aldea/barrio al alcalde de municipio especial, del representante de township/ciudad condal al concejal de condado/ciudad, cada cuatro años la gente puede recomponer simultáneamente todos los primeros mandatarios y representantes locales electos. Esto es raro a nivel mundial.
+
+**Para el candidato**, este formato significa lógicas de campaña diversas — alcalde de municipio especial compite con debates de política, concejal con SNTV y reparto de votos, jefe de aldea/barrio con trabajo de terreno local, jefe de distrito indígena con redes tribales. Cada cargo tiene economía política totalmente distinta, pero la votación el mismo día hace que todos compartan un mismo ciclo electoral.
+
+**Para la infraestructura democrática**, este formato significa que la Comisión Electoral Central, comisiones electorales de condados/ciudades, administración de registro civil, policía, agencia de investigación, Control Yuan, medios, organizaciones cívicas, ingenieros de g0v, centros de verificación — todo un conjunto de instituciones se somete a prueba de estrés simultánea cada cuatro años.
+
+El 28 de noviembre de 2026 será la sexta elección nueve en uno simultánea en Taiwán. Cada una es prueba de estrés de esta infraestructura. Contexto detallado de las elecciones 2026 y análisis de presiones externas, en [elecciones nueve en uno 2026](/es/politics/2026-local-elections-taiwan/) (2026 九合一選舉).
+
+Artículos completos de capa institucional: [historia de umbrales de derecho al voto](/es/politics/voting-rights-threshold-history/) (投票權門檻歷史) · [transparencia de donaciones políticas](/es/politics/political-donation-transparency/) (政治獻金透明度) · [sistema de la Comisión Electoral Central](/es/politics/central-election-commission/) (中選會制度) · [sistema de concejales](/es/politics/city-councilor-system-taiwan/) (議員制度) · [sistema de jefes de aldea/barrio](/es/politics/village-chief-system/) (村里長制度) · [jefe de distrito indígena de montaña de municipio especial](/es/politics/indigenous-district-chief-system/) (直轄市山地原住民區長) · [boletín electoral](/es/politics/election-bulletin-system/) (選舉公報)
+
+Entrada principal de curación de infraestructura democrática: [Hub Político](/politics)
 
 🧬
 
@@ -209,38 +209,38 @@ Entrada curatorial general de la infraestructura democrática: [Política Hub](/
 
 ## Referencias
 
-[^1]: [Decimocuarta elección de funcionarios públicos locales de la República de China — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Entrada de las elecciones nueve en uno de 2014, primera vez con los nueve cargos completos votados el mismo día
+[^1]: [Decimocuarta elección de funcionarios públicos locales de la República de China — Wikipedia](https://zh.wikipedia.org/wiki/2014年中華民國地方公職人員選舉) — Artículo sobre elecciones nueve en uno 2014, primera vez completa con nueve cargos el mismo día
 
-[^2]: [Elecciones de funcionarios públicos locales de la República de China — Entrada general de Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Fuente oficial de datos
+[^2]: [Elecciones de funcionarios públicos locales de la República de China — Artículo general de Wikipedia](https://zh.wikipedia.org/wiki/中華民國地方公職人員選舉) — Elecciones de funcionarios públicos locales de la República de China — Artículo general de Wikipedia fuente oficial
 
-[^3]: [Elecciones de funcionarios públicos locales de la República de China de 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Calendario electoral de la CEC para 2026
+[^3]: [Elecciones de funcionarios públicos locales de la República de China 2026 — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Calendario electoral 2026 de la Comisión Electoral Central
 
-[^4]: [Ley de Elección y Destitución de Funcionarios Públicos — Base de datos de legislación nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Fuente oficial de datos
+[^4]: [Ley de Elección y Revocación de Funcionarios Públicos — Base de Datos Nacional de Leyes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Ley de Elección y Revocación de Funcionarios Públicos — Base de Datos Nacional de Leyes fuente oficial
 
-[^5]: [Condados y ciudades de la República de China — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Fuente oficial de datos
+[^5]: [Condados y ciudades de la República de China — Wikipedia](https://zh.wikipedia.org/wiki/中華民國縣市) — Condados y ciudades de la República de China — Wikipedia fuente oficial
 
-[^6]: [Evolución administrativa de la ciudad de Taipéi — Departamento de Asuntos Civiles del Gobierno de Taipéi](https://ca.gov.taipei/) — Fuente oficial de datos
+[^6]: [Evolución administrativa de Taipéi — Departamento de Asuntos Civiles de la Alcaldía de Taipéi](https://ca.gov.taipei/) — Evolución administrativa de Taipéi — Departamento de Asuntos Civiles de la Alcaldía de Taipéi fuente oficial
 
-[^7]: [Elecciones de alcaldes de municipios especiales de la República de China de 1994 — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Fuente oficial de datos
+[^7]: [Elecciones de alcaldes de municipios especiales de la República de China 1994 — Wikipedia](https://zh.wikipedia.org/wiki/1994年中華民國直轄市長選舉) — Elecciones de alcaldes de municipios especiales de la República de China 1994 — Wikipedia fuente oficial
 
-[^8]: [Reestructuración de municipios especiales de la República de China de 2010 — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Fuente oficial de datos
+[^8]: [Reorganización de municipios especiales de la República de China 2010 — Wikipedia](https://zh.wikipedia.org/wiki/2010年中華民國直轄市改制) — Reorganización de municipios especiales de la República de China 2010 — Wikipedia fuente oficial
 
-[^9]: [Ley de Gobierno Local — Base de datos de legislación nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artículos 83-1 a 83-12 (distritos de zona montañosa indígena en municipios especiales)
+[^9]: [Ley de Sistemas Locales — Base de Datos Nacional de Leyes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Artículos 83-1 a 83-12 (distritos indígenas de montaña de municipios especiales)
 
-[^10]: [The Reporter — Democracia electa perdida tras la elevación de estatus](https://www.twreporter.org/) — Análisis del efecto secundario de la elevación (enlace específico pendiente de añadir)
+[^10]: [The Reporter — La pérdida de lo electo tras el ascenso](https://www.twreporter.org/) — Análisis de efectos secundarios del ascenso (enlace a reportaje concreto pendiente)
 
-[^11]: [Departamento de Asuntos Civiles del Ministerio del Interior — Datos básicos de jefes de aldea o barrio](https://www.moi.gov.tw/) — Fuente oficial de datos
+[^11]: [¡Ajuste salarial coordinado con militares, funcionarios públicos y docentes! Ministerio del Interior aumenta subsidios para asistentes de concejales y jefes de aldea/barrio desde 1/7, nuevo aumento 4% desde Año Nuevo — Ministerio del Interior](https://www.moi.gov.tw/News_Content.aspx?n=2&s=339691) — Comunicado de prensa 16/7/2026 de la División de Asuntos Civiles del Ministerio del Interior, subsidio para jefes de aldea/barrio pasa de NT$50,000 a NT$54,000 mensuales desde 1/7/2026, en zonas indígenas de NT$60,000 a NT$64,800.
 
-[^12]: [Comisión Electoral Central — Calendario electoral de 2026](https://web.cec.gov.tw/) — Fuente oficial de datos
+[^12]: [Comisión Electoral Central — Calendario electoral 2026](https://web.cec.gov.tw/) — Comisión Electoral Central — Calendario electoral 2026 fuente oficial
 
-[^13]: Boletín electoral de la CEC — Diseño de colores de las papeletas
+[^13]: Boletín electoral de la Comisión Electoral Central — Diseño de colores de papeletas
 
-[^14]: [Comisión Federal de Elecciones — Día de las elecciones](https://www.fec.gov/) — Fuente oficial de datos
+[^14]: [Comisión Federal de Elecciones — Día de Elección](https://www.fec.gov/) — Comisión Federal de Elecciones — Día de Elección fuente oficial
 
-[^15]: [統一地方選挙 — Wikipedia en japonés](https://ja.wikipedia.org/wiki/統一地方選挙) — Fuente oficial de datos
+[^15]: [Elecciones locales unificadas — Wikipedia japonés](https://ja.wikipedia.org/wiki/統一地方選挙) — Elecciones locales unificadas — Wikipedia japonés fuente oficial
 
-[^16]: [전국동시지방선거 — Wikipedia en coreano](https://ko.wikipedia.org/wiki/전국동시지방선거) — Fuente oficial de datos
+[^16]: [전국동시지방선거 — Wikipedia coreano](https://ko.wikipedia.org/wiki/전국동시지방선거) — 전국동시지방선거 — Wikipedia coreano fuente oficial
 
 ---
 
-_v1.0 | 2026-05-27 | Nacido de la directiva de Zheyu "pon todos los artículos uno por uno en article-inbox" + artículo ancla #1 de Tier 1.1 tras la decisión de la Opción D._
+_v1.0 | 2026-05-27 | Nacido de la directiva de Che-yu «artículos ayúdame a ponerlos uno a uno en article-inbox» + aprobación Opción D, Tier 1.1 #1 artículo ancla._
