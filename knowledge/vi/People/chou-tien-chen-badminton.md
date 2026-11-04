@@ -95,7 +95,7 @@ Ba lần đạt vòng tám tại Olympic, trong khi trước đó chỉ có bố
 
 ## Chưa kịp viết xong
 
-Sau khi hồi phục từ ung thư, Trường Thiên Thành không xem việc trở lại là kết thúc. Năm 2024 và 2025, ông thắng liên tiếp hai chiến cường tại Giải đấu Cấp cao Bắc Cực Finland.\[^8] Năm 2025, với tuổi 35, ông thắng các đối thủ trên thế giới để tiến vào trận chung kết tại Giải đấu Cấp cao Indonesia, với tuổi 35 tuổi 150 ngày, là tuổi mà các vận động viên nam đơn giành chiến cường Super 1000 lần đầu tiên.\[^7] Cùng năm, ông xếp hạng thế giới tạo kỷ lục tuổi cao, được cảnh quan cầu quần vải gọi là "người mẫu cho các vận động viên trẻ tuổi".\[^9\]
+Sau khi hồi phục từ ung thư, Trường Thiên Thành không xem việc trở lại là kết thúc. Năm 2024 và 2025, ông thắng liên tiếp hai chiến cường tại Giải đấu Cấp cao Bắc Cực Finland.\[^8] Năm 2025, với tuổi 35, ông thắng các đối thủ trên thế giới để tiến vào trận chung kết tại Giải đấu Cấp cao Indonesia, với tuổi 35 tuổi 150 ngày, là tuổi mà các vận động viên nam đơn giành chiến cường Super 1000 lần đầu tiên.\[^7] Cùng năm, ông xếp hạng thế giới tạo kỷ lục tuổi cao, được cảnh quan cầu quần vải gọi là "người mẫu cho các vận động viên trẻ tuổi".[^9]
 
 ![Trường Thiên Thành trong trận đấu tại sân vận động Giải đấu Cấp cao Hà Nội năm 2024, cường độ cao, năm nay ông cũng giành chiến cường tại Giải đấu Bắc Cực](/article-images/people/chou-tien-chen-taipei-open-2024.webp)
 
