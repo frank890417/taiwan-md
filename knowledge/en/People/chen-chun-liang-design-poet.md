@@ -1,19 +1,28 @@
 ---
-title: 'Chen Chun-Liang: Design Poet and Modern Translator of Eastern Aesthetics'
-description: "Chen Chun-Liang was born in Tainan in 1958 and founded Freeimage Design Co., Ltd. on his 29th birthday, earning the title 'Design Poet' in the industry. He reinterprets modern design language through calligraphy, negative space, and Eastern imagery, with work spanning publication design, corporate identity, and national celebrations. In 2005, his 'Heaven Round, Earth Square' state banquet tableware won the Grand Jury Award at the Macau Design Biennale. A long-time contributor to design education, he is one of the most influential graphic designers in Taiwan since the 1980s."
+title: 'Chen Chun-liang: Design Poet and Modern Interpreter of Eastern Aesthetics'
+description: 'Born in Tainan in 1958, Chen Chun-liang founded Freeimage Design at the age of 29 and is hailed by the industry as a "design poet." He reinterprets modern design language through calligraphy, negative space, and Eastern imagery, with works spanning book design, corporate identity, and national celebrations. In 2005, his "Heaven is Round, Earth is Square" state banquet tableware won the Jury Prize at the Macau Design Biennale. A long-time dedicated educator in design, he is one of Taiwan''s most influential graphic designers since the 1980s.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
+tags:
+  [
+    'Designer',
+    'Graphic Design',
+    'Design Education',
+    'Freeimage Design',
+    'Design Poet',
+  ]
 subcategory: '藝術與設計'
-tags: ['設計師', '平面設計', '設計教育', '自由落體', '設計詩人']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-04T21:43:36.867186+00:00'
 ---
 
 # Chen Chun-Liang: Redefining Taiwanese Design Through Poetry
@@ -50,19 +59,19 @@ He has also organized his creative insights, writing design discourse exploring 
 
 ## References
 
-[^1]: [Chen Chun-Liang — artemperor.tw](https://artemperor.tw/knowledge/1191) — Overview of Chen Chun-Liang's design career, origin of the "Design Poet" title, and representative works.
+[^1]: [Chen Chun-liang — Non-Pond Art Network](https://artemperor.tw/knowledge/1191) — Overview of Chen Chun-liang's design career, the origin of his title as a 'design poet', and his representative works.
 
-[^2]: [Freeimage Design — Facebook Official Page](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Official information and portfolio of Freeimage Design studio.
+[^2]: [Freeimage Design — Official Facebook Page](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Official information and portfolio of Freeimage Design Studio.
 
-[^3]: [Freeimage Design / Chen Chun-Liang: The Most Important Thing in Visual Design Is 'Nothing Is Impossible, Only Unimaginable' — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — In-depth interview on Chen Chun-Liang's design philosophy and working methods.
+[^3]: [Freeimage Design / Chen Chun-liang: The most important thing in visual design is 'there are no impossible things, only unimaginable things' — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — An in-depth interview on Chen Chun-liang's design philosophy and working methods.
 
-[^4]: [It Is Kindness That Takes Me Where I Want to Go — Interview with Design Godfather Chen Chun-Liang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Chen Chun-Liang's career trajectory, the story of founding at 29, and his Eastern aesthetic design perspective.
+[^4]: [Kindness Leads Me to Where I Want to Go — Exclusive Interview with Design Godfather Chen Chun-liang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Chen Chun-liang's career trajectory, his story of starting a business at age 29, and his views on Oriental aesthetic design.
 
-[^5]: [Chen Chun-Liang: The Best Marketing Is the Work Itself — La Vie](https://www.wowlavie.com/article/ae1400597) — Record of Chen Chun-Liang's "Heaven Round, Earth Square" state banquet tableware series winning the Grand Jury Award at the Macau Design Biennale.
+[^5]: [Chen Chun-liang: The best marketing is the work itself — La Vie](https://www.wowlavie.com/article/ae1400597) — Record of Chen Chun-liang's 'Heavenly Round and Earthly Square' state banquet tableware series winning a jury award at the Macau Design Biennale.
 
-[^6]: [Chen Chun-Liang's 38-Year Design Journey: Daring to Do What Others Dare Not — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — Career retrospective and design education involvement of Chen Chun-Liang.
+[^6]: [Chen Chun-liang's 38-Year Design Journey: Daring to do what others dare not — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — A review of Chen Chun-liang's career and his involvement in design education.
 
-[^7]: [Freeimage Design Chen Chun-Liang's Design Philosophy: 'The Distance Between i and F' — DesignWant](https://www.designwant.com/article/7826) — Chen Chun-Liang's Eastern aesthetic design discourse and calligraphic visual language.
+[^7]: [Freeimage Design Chen Chun-liang's Design Philosophy: 'The distance between i and F' — DesignWant](https://www.designwant.com/article/7826) — Chen Chun-liang's discourse on Oriental aesthetic design and calligraphic visual language.
 
 ## Further Reading
 
