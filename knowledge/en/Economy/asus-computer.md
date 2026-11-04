@@ -31,7 +31,7 @@ Imagine you are assembling a computer. Which motherboard brand would give you th
 
 But the ASUS story is far more compelling than that of a motherboard manufacturer. It was a pioneer in Taiwan’s technology sector’s transition from contract manufacturing to brand building, and it is one of the few Taiwanese companies able to compete head-on with global giants such as Apple, Samsung, and Lenovo in the intensely competitive consumer electronics market.
 
-From a four-person startup team in an apartment in Hsinchu to today’s technology empire spanning 68 countries, ASUS’s growth trajectory reflects the transformation of Taiwan’s technology industry over more than three decades. When “Taiwan No.1” has become a gaming meme, ASUS has offered a different answer through actual market performance.
+From a four-person startup team in an apartment on Minsheng East Road in Taipei to today’s technology empire spanning 68 countries, ASUS’s growth trajectory reflects the transformation of Taiwan’s technology industry over more than three decades. When “Taiwan No.1” has become a gaming meme, ASUS has offered a different answer through actual market performance.
 
 ## Company Overview: From Motherboard Leader to Full-Spectrum Technology Brand
 
