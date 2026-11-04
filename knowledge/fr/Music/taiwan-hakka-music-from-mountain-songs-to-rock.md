@@ -4,28 +4,28 @@ description: 'Les chants de montagne hakka trouvent leurs origines dans la vie l
 date: 2026-03-19
 category: 'Music'
 tags:
-  - 'musique hakka'
-  - 'chant de montagne'
-  - 'huit instruments hakka'
-  - 'Lin Sheng‑xiang'
-  - 'Jiaogong Band'
-  - 'chansons hakka'
-  - 'Golden Melody Awards'
+  [
+    'musique hakka',
+    'chant de montagne',
+    'huit instruments hakka',
+    'Lin Sheng‑xiang',
+    'Jiaogong Band',
+    'chansons hakka',
+    'Golden Melody Awards',
+  ]
 subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
 readingTime: 10
-# design_rationale:
-#   why_this_hook: "林生祥2007拒獎：不是拿了就謝謝，而是把獎項本身當成議題——這才是客家音樂史最有力的錨點"
-#   whats_excluded: "榮興客家採茶劇團完整史；客委會組織架構；WOMAD詳細場次"
-#   where_it_hedges: "羅思容代表作《攬花去》（第23屆）確認，《天光》得獎資訊未能核實"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-05-18T05:08:09+08:00'
+translatedAt: '2026-11-04T16:18:02.294634+00:00'
 ---
 
 # Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang
@@ -98,18 +98,18 @@ Le numérique offre toutefois de nouvelles opportunités : les plateformes de 
 
 ## Références
 
-[^1]: [音樂無國界 林生祥：最不想拿客語獎｜苦勞網](https://www.coolloud.org.tw/node/3817) — Confirmation des motivations et de la déclaration de Lin Sheng‑xiang lors du refus du prix.
+[^1]: [La musique n'a pas de frontières, Lin Sheng-xiang : celui qui ne veut pas recevoir de prix pour le Hakka | Kulau Net](https://www.coolloud.org.tw/node/3817) — Confirmation des motivations et de la déclaration de Lin Sheng-xiang concernant son refus du prix.
 
-[^2]: [國立傳統藝術中心：客家八音傳習資料](https://www.ncfta.gov.tw/) — Explication de la pratique du suona comme instrument principal des huit instruments hakka.
+[^2]: [Centre national des arts traditionnels : Données sur la transmission du Hakka Ba Yin](https://www.ncfta.gov.tw/) — Explication de la pratique du Hakka Ba Yin, dont le suona est l'instrument principal.
 
-[^3]: [文化部影視及流行音樂產業局：歷屆得獎入圍名單](https://www.bamid.gov.tw/information_176_64106.html) — Confirmation que _Je viendrai chanter des chants de montagne_ a reçu le Meilleur compositeur et le Meilleur producteur à la 11ᵉ édition du Golden Melody Awards (et non le prix du meilleur groupe).
+[^3]: [Bureau de l'industrie cinématographique, audiovisuelle et de la musique populaire du ministère de la Culture : Liste des lauréats et nommés des éditions précédentes](https://www.bamid.gov.tw/information_176_64106.html) — Confirmation que « Nous venons chanter des chansons de montagne » a remporté les prix de la meilleure composition et du meilleur producteur lors de la 11e édition des Golden Melody Awards (et non le prix du meilleur groupe).
 
-[^4]: [第14屆金曲獎 — 維基百科](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirmation de la création du Meilleur chanteur hakka en 2003 et du renommage en 2007.
+[^4]: [14e Golden Melody Awards — Wikipédia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirmation que le prix de la meilleure interprétation en Hakka a été créé pour la première fois lors de la 14e édition en 2003 ; renommé prix du meilleur chanteur en Hakka lors de la 18e édition en 2007.
 
-[^5]: [謝宇威 — 維基百科](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmation du prix du Meilleur chanteur hakka en 2004 et de l’album _Sous un arbre en fleurs_.
+[^5]: [Hsieh Yu-wei — Wikipédia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmation du lauréat du prix de la meilleure interprétation en Hakka lors de la 15e édition des Golden Melody Awards en 2004 ; œuvre représentative : « Yi Chai, Hua Shu Xia ».
 
-[^6]: [金曲18年第1次……林生祥丟震撼彈 合手拒領獎｜自由娛樂](https://ent.ltn.com.tw/news/paper/136087) — Détails du refus de Lin Sheng‑xiang lors de la 18ᵉ édition du Golden Melody Awards (2007) et de la donation du prix.
+[^6]: [Pour la première fois en 18 ans de Golden Melody... Lin Sheng-xiang crée la surprise en refusant de recevoir son prix | Freedom Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Détails sur le refus du prix par Lin Sheng-xiang lors de la 18e édition des Golden Melody Awards (2007) et les bénéficiaires des dons issus du prix.
 
-[^7]: [最佳客語專輯獎（金曲獎）— 維基百科](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirmation que Luo Si‑rong a reçu le prix du Meilleur chanteur hakka et du Meilleur album hakka à la 23ᵉ édition.
+[^7]: [Meilleur album en Hakka (Golden Melody Awards) — Wikipédia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirmation que Lo Ssu-jung a remporté le prix du meilleur chanteur en Hakka et le prix du meilleur album en Hakka lors de la 23e édition pour « Lan Hua Qu ».
 
-[^8]: [客家電視台官網](https://www.hakkatv.org.tw/) — Confirmation du lancement en 2003, première chaîne mondiale à diffuser en hakka 24 h/24.
+[^8]: [Site officiel de Hakka TV](https://www.hakkatv.org.tw/) — Confirmation du lancement en 2003, première chaîne de télévision mondiale diffusant exclusivement en Hakka 24h/24.

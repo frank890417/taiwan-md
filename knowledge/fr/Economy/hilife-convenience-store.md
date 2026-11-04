@@ -1,21 +1,32 @@
 ---
-title: "Hi-Life : Du rouge de Guangquan au vert du Liânbāng, la résistance spirituelle du 'troisième supermarché' de Taïwan"
-description: "Comment Hi-Life, le seul des quatre chaînes de convenience à avoir une ascendance purement locale, a trouvé sa voie entre l'écrasement par 7-ELEVEN et FamilyMart ? Une restructuration majeure en 2023 changera-t-elle le génome de cette enseigne historique de 35 ans ?"
+title: 'Hi-Life : du rouge de Kuang Chuan au vert du groupe Federal, la percée identitaire du « troisième supérette » de Taïwan'
+description: "En tant que seule chaîne de supérettes taïwanaise à capital 100 % local parmi les quatre grandes, comment Hi-Life a-t-elle réussi à s'affirmer face à l'étau de 7-ELEVEN et FamilyMart, grâce à ses « plats du Nouvel An pionniers » et à sa « transformation numérique » ? Comment le grand remaniement de la direction de 2023 va-t-il modifier l'ADN de cette enseigne de 35 ans ?"
 date: 2026-07-21
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
-  ['萊爾富', '便利商店', '聯邦集團', '光泉', '數位轉型', '經營權', '零售金融']
-readingTime: 12
+  [
+    'Hi-Life',
+    'supérette',
+    'groupe Federal',
+    'Kuang Chuan',
+    'transformation numérique',
+    'contrôle de la direction',
+    'finance de détail',
+  ]
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-21
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
-translatedAt: '2026-07-23T23:06:51+08:00'
+translatedAt: '2026-11-04T16:05:42.738856+00:00'
 ---
 
 > **Aperçu de 30 secondes :** Fondé en 1989 dans la rue Dihua, Hi-Life est la première et la seule des quatre chaînes de convenience à être une marque purement locale. Il n'est pas le produit d'une licence étrangère, mais le fruit du concept "esprit local, vision mondiale" développé par la famille Wang de Guangquan. Bien que son nombre de magasins soit toujours classé troisième ou quatrième, Hi-Life a été un pionnier dans l'introduction des "menus de fête précommandés" et des "machines multimédia". En 2023, le contrôle de gestion est passé de la famille Wang de Guangquan au Groupe Liânbāng. Cette enseigne historique au "fond rouge" est en train d'adopter une nouvelle identité "bleu-vert", se transformant en avant-poste physique pour les services financiers et numériques. Cette transaction n'est pas seulement un mouvement de capital, c'est une expérience sur la manière dont l'"esprit du commerce local" peut survivre à l'ère moderne.
