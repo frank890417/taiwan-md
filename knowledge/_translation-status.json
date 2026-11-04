@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T08:07:35+08:00",
-    "zhCommitHead": "51d77b35d",
+    "lastUpdated": "2026-11-04T08:19:22+08:00",
+    "zhCommitHead": "89ea0144f",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1150,
+        "fresh": 1151,
         "stale": 5,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1158,
-        "fresh": 1141,
+        "fresh": 1142,
         "stale": 11,
         "metadata_stale": 3,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "ar": {
@@ -38076,11 +38076,11 @@
           "sourceContentHash": "sha256:801c0bf77fbb44e8",
           "sourceBodyHash": "sha256:d018fcf42d34d25c",
           "translatedAt": "2026-11-03T22:34:32.992361+00:00",
-          "translationLastCommit": "b1f66714",
-          "translationLastModified": "2026-10-17T07:30:58+08:00",
+          "translationLastCommit": "89ea0144",
+          "translationLastModified": "2026-11-04T08:07:36+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 143345,
+          "bytes": 143351,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -43456,8 +43456,8 @@
           "sourceContentHash": "sha256:322922074ebc6f22",
           "sourceBodyHash": "sha256:532e9b8210a860d0",
           "translatedAt": "2026-11-03T23:51:19.251570+00:00",
-          "translationLastCommit": "66b619dd",
-          "translationLastModified": "2026-10-10T23:41:36+08:00",
+          "translationLastCommit": "89ea0144",
+          "translationLastModified": "2026-11-04T08:07:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 67844,
@@ -188994,20 +188994,18 @@
         "pt": {
           "path": "pt/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:45:38+08:00",
+          "translatedAt": "2026-11-04T00:08:12.200979+00:00",
           "translationLastCommit": "d71ecd18",
           "translationLastModified": "2026-11-03T01:18:49+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 19789,
+          "bytes": 19783,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/orchid-island-nuclear-waste.md",
@@ -222405,7 +222403,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/chinese-professional-baseball-league.md",
+          "translatedFrom": "Culture/中華職棒.md",
+          "sourceCommitSha": "02ca87bad",
+          "sourceContentHash": "sha256:e51c494d0dd60536",
+          "sourceBodyHash": "sha256:14343c2d821c678c",
+          "translatedAt": "2026-11-04T00:08:44.111242+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 43696,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"

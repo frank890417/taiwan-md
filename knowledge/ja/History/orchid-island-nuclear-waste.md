@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:44:54+08:00'
+translatedAt: '2026-11-03T22:46:58.447232+00:00'
 ---
 
 > **30秒概観：** 1982年、蘭嶼は台湾各地から送られてきた低レベル放射性廃棄物の受け入れを開始した。1996年には貯蔵場が満杯になったが、それによって「一時保管」の終点が訪れたわけではない。ダウ族の人々は1988年から繰り返し移設を要求し、2018年の公式な真相調査によって設置過程が改めて明らかにされた。この記事は、いずれの側の「安全」または「危険」という結論を代弁するものではなく、問いかける：住民が知らされないうちに故郷が貯蔵地として選ばれた場合、後からの監測数値だけで正義の問題に答えられるのか？
@@ -90,8 +90,8 @@ Taiwan Insightによる報告の解釈は、公文書が設置決策において
 
 - [行政院蘭嶼核廃棄物貯蔵場設置真相調査報告書](https://alilin.cip.gov.tw/Book/670)
 - [原子力安全委員会：蘭嶼貯蔵場安全管制説明](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
-- [Taiwan Insight: Tao People's Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [台湾と核エネルギーの議論](/ja/society/taiwan-nuclear-debate) — 2026年核三再稼働審査と第22案国民投票：核廃棄物解決は再稼働の三条件の一つ、蘭嶼と核三燃料プールはまだ行き先を待っている
+- [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
+- [台湾と原子力の議論](/ja/society/taiwan-nuclear-debate) — 2026年核三再稼働審査と第22案国民投票：核廃棄物処分解決は再稼働の三条件の一つ、蘭嶼と核三燃料プールはいまだ行き先を待つ
 
 ## 参考資料
 
