@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-11-04T22:30:42.026151+00:00'
 ---
 
 > **📝 Ghi chú của người hội nhập**

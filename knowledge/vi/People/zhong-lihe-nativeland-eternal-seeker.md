@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-04T22:01:10.708687+00:00'
 ---
 
 # Chung Lĩnh Hòa: Mỹ Nông 1915, người sĩ thực giấc mê ngã xuống vết máu

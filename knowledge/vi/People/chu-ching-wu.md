@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T21:49:13.672146+00:00'
 ---
 
 # Chu Tĩnh Vũ: Nghiên cứu thành công siêu dẫn 93K năm 1987, người phát hiện chung
