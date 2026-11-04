@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T12:42:53+08:00'
+translatedAt: '2026-11-04T16:03:19.916319+00:00'
 ---
 
 > Quy mô thị trường quảng cáo người nổi tiếng (influencer) tại Đài Loan đạt khoảng 210 triệu USD, chưa tới 1% so với Hoa Kỳ. Tuy nhiên, một nhà sáng tạo tầm trung tại Đài Loan thường phải vận hành từ 5 đến 7 nền tảng cùng lúc — bao gồm YouTube, Instagram, Facebook, Threads, Podcast, Blog và LINE — con số này gần gấp đôi so với các nhà sáng tạo cùng phân khúc tại Mỹ. Với thị trường nhỏ hẹp, nền tảng phân mảnh và việc kiếm tiền phụ thuộc vào tiếp thị liên kết thay vì mô hình thu phí đăng ký, đây là một cuộc chơi với những quy tắc hoàn toàn khác biệt.

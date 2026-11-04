@@ -2,33 +2,37 @@
 title: 'Bailingguo News: Đưa tin tức thế giới vào tai người Đài Loan'
 description: 'Cách Kelly và Ken biến những bản tin quốc tế xa lạ thành nội dung thường nhật mà người Đài Loan sẵn lòng lắng nghe và buộc phải suy ngẫm, thông qua giao tiếp song ngữ, tiếng cười và sự không né tránh lập trường.'
 date: 2026-08-17
-subcategory: '數位與媒體'
 category: 'People'
 tags: ['Bailingguo News', 'Podcast', 'Kelly', 'Ken', 'Tin tức quốc tế']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/people/bailingguo-news-podcast-headphones.webp'
+imageCredit: 'Zephyris'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
-sourceCommitSha: 'cf406dedd'
-sourceContentHash: 'sha256:2e4b0f96f5527220'
-sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:6178ccc8d8afac3a'
+sourceBodyHash: 'sha256:d66f8844359d3f83'
+translatedAt: '2026-11-04T15:30:48.196909+00:00'
 ---
 
-Năm 2014, Kelly và Ken chưa phải là người dẫn chương trình của "Bailingguo News". Họ chỉ là hai thanh niên quan sát thấy truyền thông Đài Loan xa rời tin tức thế giới và muốn thử thay đổi điều đó. Năm 2020, họ tổ chức một sự kiện trực tiếp tại Đài Nam với chủ đề "Kết nối quốc tế", nơi khán giả tụ tập tại hiện trường, và chương trình đã chuyển từ tai nghe sang thành phố. Đến năm 2022, để tiếng nói Đài Loan được thế giới lắng nghe, họ đã đầu tư 2,5 triệu Đài tệ để sản xuất một chương trình hoàn toàn bằng tiếng Anh.[^1] [^2] [^3]
+Vào năm 2014, Kelly và Ken vẫn chưa phải là người dẫn chương trình của 「Bailingguo News」. Khi đó, họ chỉ là hai người trẻ chứng kiến tin tức tại Đài Loan đang dần tách rời khỏi thế giới và muốn thử thay đổi điều này. Đến năm 2020, họ đã tổ chức một sự kiện trực tiếp tại Đài Nam với chủ đề "Kết nối quốc tế", thu hút đông đảo thính giả tham gia, đưa chương trình từ chiếc tai nghe bước ra đời thực. Năm 2022, để giúp tiếng nói của Đài Loan được thế giới lắng nghe, họ đã chi NT$2.5 triệu để sản xuất các nội dung hoàn toàn bằng tiếng Anh. [^1] [^2] [^3]
 
-Khi đặt ba mốc thời gian này cạnh nhau, người ta mới thấy sự tương phản của Bailingguo: nó nói về những vấn đề nghiêm túc nhất theo cách giống như trò đùa bạn bè. Bailingguo không làm cho tin tức quốc tế trở nên đơn giản hơn, mà là khiến mọi người sẵn lòng tiếp cận nó trước. Sau khi tiếp cận, khán giả mới nhận ra mình đang bị buộc phải hiểu mối quan hệ giữa Đài Loan và thế giới.
+Đặt ba cột mốc này cạnh nhau, người ta mới thấy rõ sự tương phản của Bailingguo: dùng cách đùa giỡn thân mật nhất như những người bạn để bàn về những vấn đề không hề tầm thường. Bailingguo không đơn thuần là làm đơn giản hóa tin tức quốc tế, mà trước hết là khiến mọi người sẵn lòng tiếp cận nó. Và sau khi đã tiếp cận, thính giả mới nhận ra mình đang bị buộc phải hiểu về mối quan hệ giữa Đài Loan và thế giới.
 
-> **Câu cốt lõi phản trực giác:** Bailingguo biến tin tức thành trò chuyện, nhưng cũng vì thế đã mang vấn đề "Ai có tư cách nói về thế giới?" vào tai của mỗi người nghe tại Đài Loan.
+> **Câu cốt lõi phản trực giác:** Bailingguo biến tin tức thành những cuộc trò chuyện, nhưng cũng chính vì vậy mà họ đưa câu hỏi "ai có tư cách để bàn về thế giới" vào trong mỗi chiếc tai nghe của người dân Đài Loan.
 
-![Microphone tai nghe, tượng trưng cho việc Bailingguo đưa tin quốc tế vào bối cảnh nghe hàng ngày](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![Tai nghe kèm micro, biểu tượng cho việc Bailingguo đưa tin tức quốc tế vào bối cảnh nghe hàng ngày](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_Hình ảnh: `Headphones with Microphone.jpg`, tác giả Zephyris; trang tệp Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Tại đây sử dụng URL nóng của tệp gốc, không tải xuống hình ảnh._
+_Ảnh: `Headphones with Microphone.jpg`, tác giả Zephyris; [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Sử dụng liên kết trực tiếp đến tệp gốc, không tải xuống hình ảnh._
 
-_Ảnh chụp từ cuộc phỏng vấn Tatler Asia, trích từ [Phỏng vấn người dẫn chương trình Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Đây là hình ảnh phi bản quyền, chỉ được nhúng bằng URL nóng ban đầu để làm ngữ cảnh và hướng dẫn nguồn bài viết, không yêu cầu chuyển giao, tải xuống, tái tạo hoặc sử dụng thương mại._
+_Ảnh: Hình minh họa phỏng vấn của Tatler Asia, trích từ [Phỏng vấn người dẫn chương trình Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Đây là hình ảnh có bản quyền, chỉ được nhúng bằng liên kết trực tiếp để làm ngữ cảnh và hướng dẫn nguồn cho bài viết, không yêu cầu chuyển nhượng bản quyền, tải xuống, sao chép hay sử dụng thương mại._
 
 ## Bắt đầu từ "Quốc tế hóa truyền thông"
 
@@ -116,24 +120,24 @@ Về mặt biên tập, bức ảnh đầu tiên không phải là chân dung nh
 
 ## Tài liệu tham khảo
 
-[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Bản ghi chép thực tế dài bằng tiếng Anh, tổng hợp bối cảnh phát triển của Kelly và Ken từ nỗ lực quốc tế hóa truyền thông năm 2014, các chương trình ban đầu đến sự kiện Đài Nam năm 2020.
+[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Ghi chép thực tế chi tiết bằng tiếng Anh, hệ thống hóa quá trình phát triển từ những nỗ lực quốc tế hóa truyền thông của Kelly và Ken vào năm 2014, các chương trình thời kỳ đầu cho đến sự kiện tại Tainan năm 2020.
 
-[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Bản báo cáo cụ thể được Taipei Times và Thông tấn xã Trung ương chuyển tải, ghi lại các thông tin có thể kiểm chứng về chương trình tiếng Anh, số tập sản xuất, lời mời diễn viên và chi phí.
+[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Báo cáo cụ thể được đăng tải lại bởi Taipei Times và CNA, ghi nhận các thông tin có thể đối soát như chương trình hoàn toàn bằng tiếng Anh, số tập sản xuất, mời diễn viên và chi phí sản xuất.
 
-[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Bài báo so sánh bằng tiếng Anh và tiếng Trung, giải thích thứ hạng của Bailingguo trong Podcast tại Đài Loan, mục tiêu quốc tế hóa và độ khó sản xuất các chủ đề nhạy cảm.
+[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Bài báo song ngữ Anh - Trung, giải thích về thứ hạng của Bailingguo trong thị trường Podcast tại Đài Loan, mục tiêu quốc tế hóa và những khó khăn khi sản xuất các chủ đề nhạy cảm.
 
-[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Bài viết quan sát nhân vật và ngành bằng tiếng Anh, mô tả giọng điệu truyền thông phi truyền thống của hai người dẫn chương trình, năng lực song ngữ, định dạng chương trình và vị trí trong hệ sinh thái Podcast.
+[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Bài viết quan sát về nhân vật và ngành công nghiệp bằng tiếng Anh, mô tả phong cách dẫn chương trình phi truyền thống, khả năng song ngữ, hình thức chương trình và vị thế của họ trong hệ sinh thái Podcast.
 
-[^5]: [Tatler Asia: 2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Cuộc phỏng vấn người dẫn chương trình năm 2021, cung cấp nguồn gốc của chương trình, mục tiêu tin tức quốc tế, cảm giác đồng hành của Podcast, các sự kiện livestream và trực tiếp, cùng với lời trích dẫn trực tiếp của Kelly và Ken.
+[^5]: [Tatler Asia: Bạn đã nghe Podcast 'Bailingguo News' cực hot năm 2021 chưa?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Phỏng vấn độc quyền các người dẫn chương trình vào năm 2021, cung cấp thông tin về nguồn gốc chương trình, mục tiêu tin tức quốc tế, cảm giác đồng hành của Podcast, các buổi livestream và sự kiện thực tế, cùng những trích dẫn trực tiếp từ Kelly và Ken.
 
-[^6]: [Trang web chính thức Bailingguo News](https://www.bailingguonews.com/) — Định vị chương trình do người sáng tạo tự công bố, khẩu hiệu song ngữ, thời gian đăng tải cố định và phương thức sản xuất tin tức quốc tế, là nguồn để kiểm tra mô tả tự thân.
+[^6]: [Trang web chính thức của Bailingguo News](https://www.bailingguonews.com/) — Nguồn để đối soát các mô tả tự thân từ phía bên thứ nhất, bao gồm định hướng chương trình, khẩu hiệu song ngữ, thời gian đăng tải cố định và phương thức sản xuất tin tức quốc tế do chính nhà sáng tạo công bố.
 
-[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Trang chi tiết chương trình chính thức trên Apple Podcasts, lưu giữ dữ liệu phân phối cấp một như người dẫn chương trình, đối thoại song ngữ và mô tả chương trình.
+[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Trang chi tiết của chương trình chính thức trên Apple Podcasts, lưu giữ các dữ liệu phân phối từ phía bên thứ nhất như người dẫn chương trình, hội thoại song ngữ, mô tả chương trình và thông tin nhà sáng tạo.
 
-[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Trang chi tiết chương trình chính thức trên Spotify, liệt kê mô tả chương trình và nhiều tập cụ thể cùng các nhà sáng tạo được phỏng vấn để kiểm tra phạm vi nội dung.
+[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Trang chi tiết của chương trình chính thức trên Spotify, liệt kê mô tả chương trình cùng nhiều tập cụ thể và các nhà sáng tạo được phỏng vấn, dùng để đối soát phạm vi nội dung chương trình.
 
-[^9]: [Spotify: The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Trang tập cụ thể vào tháng 1 năm 2020, lưu giữ ngày tháng, độ dài, người được phỏng vấn và mô tả chương trình ban đầu, có thể truy vết hình thức ban đầu của Bailingguo.
+[^9]: [Spotify: The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Trang của một tập cụ thể vào tháng 1 năm 2020, lưu giữ ngày phát sóng, thời lượng, người được phỏng vấn và mô tả chương trình thời kỳ đầu, giúp truy xuất hình thức sơ khai của Bailingguo.
 
-[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Trang chi tiết chương trình cụ thể trên nền tảng Podcast, lưu giữ mô tả chương trình song ngữ và định vị người dẫn chương trình của Bailingguo, có thể đối chiếu với lời tự giới thiệu chính thức.
+[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Trang chi tiết chương trình cụ thể trên nền tảng Podcast, lưu giữ mô tả chương trình song ngữ và định vị người dẫn chương trình của Bailingguo, có thể dùng để đối soát chéo với phần giới thiệu chính thức.
 
-[^11]: [BIOS Monthly: 史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — Cuộc phỏng vấn nhân vật Kelly và Ken năm 2020, ghi lại bối cảnh công việc của hai người, sự hình thành chương trình và sự tự nhận thức về những phát ngôn không chính xác về mặt chính trị.
+[^11]: [BIOS Monthly: Cuộc phỏng vấn 'chính trị không chuẩn mực' nhất lịch sử (vui) — Podcast dám nói lên quan điểm](https://www.biosmonthly.com/article/10325) — Bài phỏng vấn nhân vật về Kelly và Ken vào năm 2020, ghi lại nền tảng công việc của cả hai, sự hình thành chương trình và cách họ tự hiểu về việc thể hiện các quan điểm không chuẩn mực về chính trị.

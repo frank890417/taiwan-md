@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
 readingTime: 14
 rationale:
   why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
@@ -25,10 +29,10 @@ rationale:
   where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
   whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-07-28T08:51:46+08:00'
+translatedAt: '2026-11-04T15:44:00.433914+00:00'
 ---
 
 > **30 giây tóm tắt:** Trường Thiên Thành (1990 – 2023), sinh tại Hà Nội, vị vẻ tài nhiệm mãn của cầu quần vải Đài Loan. Vô địch tại Giải đấu Cấp cao Pháp năm 2014, là cầu thủ đầu tiên của Đài Loan đăng quang tại giải đấu siêu cấp thế giới nam đơn.[^2] Vào tháng 8 năm 2019, xếp hạng thế giới lên số hai, tạo thành tích lịch sử cho nam đơn trên lãnh thổ Đài Loan.[^1] Người đầu tiên của Đài Loan đấu được "vua quần vải" thế giới Lin Dan trên sân quốc tế.[^13] Ba lần đại diện cho đội quốc gia thi đấu tại Olympic, đều đạt vòng tám.[^2] Vào đầu năm 2023, kiểm tra lụt đại tràng thứ cấp phát hiện ung thư cơ thể sơ cấp, ngay lập tức phẫu thuật xóa bỏ, sau đó không dừng lại để thi đấu nước ngoài, chịu đựng gần một năm trầm lặng, rồi năm sau, với tuổi 34, đạt vòng tám tại Olympic Paris.[^10] Với tuổi 36, ông vẫn là khách tham gia thường xuyên trong top sáu đầu thế giới nam đơn.[^12]

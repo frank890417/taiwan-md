@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:73098b4d90132614'
 sourceBodyHash: 'sha256:ec289a352e872076'
-translatedAt: '2026-11-02T02:28:34.132349+00:00'
+translatedAt: '2026-11-04T16:22:13.249351+00:00'
 ---
 
 > **30 giây tổng quan**

@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-14T14:50:01+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-04T16:00:04.089771+00:00'
 ---
 
-> **Tóm tắt 30 giây:** Ngày 3 tháng 12 năm 1966, khu xử lý xuất khẩu cao điểp tại tiền chất đã xuất hiện, trở thành khu vực xử lý xuất khẩu đầu tiên của Đài Loan, cũng được hành chính viện lưu trữ lịch sử gọi là đầu tiên trên thế giới. Nó kết hợp chức năng khu công nghiệp, khu miễn thuế và khu thương mại tự do, thông qua cửa sổ đơn, ưu đãi thuế và cảng biển, thu hút vốn đầu tư nước ngoài, nguyên liệu, nhà máy và đơn đặt hàng xuất khẩu tại cùng một nơi. Trong hai năm, khu công nghiệp đã vượt quá kế hoạch ban đầu và tuyển dụng hơn hai mươi nghìn người.[^1]
+> **30 giây tổng quan:** Ngày 3 tháng 12 năm 1966, Tiền Trấn, Cao Hùng xuất hiện khu xử lý xuất khẩu đầu tiên của Đài Loan, cũng là khu xử lý xuất khẩu đầu tiên trên thế giới theo tư liệu của Hành chính viện. Nó gộp chung chức năng của khu công nghiệp, khu miễn thuế và khu tự do thương mại, thông qua cửa duy nhất, ưu đãi thuế và cảng biển, tập trung vốn đầu tư nước ngoài, nguyên liệu, nhà máy và đơn hàng xuất khẩu tại cùng một nơi. Chỉ sau hai năm, khu vực đã vượt quá kế hoạch ban đầu và thu hút hơn hai vạn người làm việc.[^1]
 
-![Bản đồ cảng cao điểp, đánh dấu phạm vi khu vực cảng xung quanh khu xử lý xuất khẩu](/article-images/history/kaohsiung-port-map.svg)
+![Bản đồ cảng Cao Hùng, chỉ phạm vi khu vực cảng quanh khu xử lý xuất khẩu](/article-images/history/kaohsiung-port-map.svg)
 
-_Hình 1: Bản đồ cảng cao điểp, tác giả Luuva, Wikimedia Commons, CC BY-SA 3.0. Trang hình ảnh: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg。_
+_Hình 1: Bản đồ cảng Cao Hùng, tác giả Luuva, Wikimedia Commons, CC BY-SA 3.0. Trang hình ảnh: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
 ## Một cửa nhập khẩu xuất khẩu "đóng kín"
 
@@ -89,17 +93,17 @@ Về mặt giới tính, lực lượng lao động nữ vừa mang lại thu nh
 
 Sự công nhận của khu công nghiệp không cần phải bị phủ nhận vì điều này; nhưng "tạo ra việc làm" và "cách thức sắp xếp công việc" phải được đưa ra cùng một khung cảnh. Nếu chỉ giữ lại con số xuất khẩu, chúng ta sẽ biến người sản xuất thành mẫu số; nếu chỉ giữ lại chỉ trích, chúng ta sẽ bỏ qua cách mà một khoản lương có thể thay đổi gia đình và thành phố. Trách nhiệm của lịch sử không phải là chọn ra một nhận xét duy nhất cho khu công nghiệp, mà là để cho thấy đồng thời nhiều kết quả ở nhiều tầng lớp.
 
-## Cách khu công nghiệp vượt qua chính sự thành công của chính nó
+## Làm thế nào khu công nghiệp vượt qua thành công của chính nó
 
-![Cửa ra vào số 1 của trạm khu xử lý xuất khẩu Nanzi](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![楠梓加工區站 1 號出口](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_Hình 2: Cửa ra vào số 1 của trạm khu xử lý xuất khẩu Nanzi, tác giả Long Ben, năm 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Trang hình ảnh: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg；tệp địa phương: images/nanzih-export-processing-zone-station.jpg。_
+_Hình 2: Cổng ra vào số 1 ga Nam Kỵ khu xử lý xuất khẩu, tác giả Long Ben, năm 2010, Wikimedia Commons, CC BY-SA 3.0／GFDL. Trang hình ảnh: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg；本地檔案：images/nanzih-export-processing-zone-station.jpg。_
 
-Công nghiệp đòi hỏi nhiều công sức bắt đầu chịu áp lực từ năm 1980 do mức lương tăng lên, bảo vệ thương mại quốc tế và sự dời đi của công nghiệp. Khu xử lý xuất khẩu không biến mất ngay lập tức; thay vào đó, nó dần giới thiệu các ngành công nghiệp điện tử, sản xuất chính xác, logistics và các hoạt động có công nghệ cao hơn. Tóm tắt luận án mô tả giai đoạn sau năm 1986 như một thời gian mà cả điều kiện pháp lý và thị trường đang thay đổi đồng thời, và chỉ ra rằng khu công nghiệp sau này hướng tới ngành điện tử công nghệ cao và trung tâm logistics toàn cầu. [^8]
+Các ngành công nghiệp tập trung lao động sau những năm 1980 chịu áp lực từ việc lương tăng, bảo hộ thương mại quốc tế và dịch chuyển sản nghiệp. Khu xử lý xuất khẩu không vì vậy mà biến mất ngay lập tức; nó dần dẫn nhập ngành điện tử, chế tạo chính xác, hậu cần và các hoạt động công nghệ cao hơn. Tóm lược luận án tiến sĩ mô tả giai đoạn sau năm 1986 là thời kỳ điều kiện thể chế và thị trường cùng biến động, và chỉ ra rằng khu công nghiệp sau đó chuyển型 hướng về ngành điện tử công nghệ cao và điều phối toàn cầu.[^8]
 
-Sự chuyển đổi này cũng thay đổi cách khu công nghiệp được nhớ đến. Năm 2021, khu xử lý xuất khẩu cao điểp thay đổi tên gọi sau nửa thế kỷ sử dụng tên cũ, đổi thành khu công nghiệp truyền thống tiền chất. Sự thay đổi tên gọi không xóa bỏ lịch sử, mà còn công nhận rằng "khu xử lý xuất khẩu" ban đầu đã trở thành một di sản pháp lý: cửa sổ đơn, cụm công nghiệp, hướng xuất khẩu và học tập công nghệ, vẫn để lại dấu ấn trong các ngành công nghiệp khác nhau. [^3]
+Cuộc chuyển型 này cũng thay đổi cách ghi nhớ của khu công nghiệp. Năm 2021, khu xử lý xuất khẩu Cao Hùng bỏ tên cũ đã dùng nửa thế kỷ, đổi thành khu công nghiệp công nghệ Tiền Trấn. Việc đổi tên không xóa bỏ lịch sử, mà công nhận rằng «khu xử lý xuất khẩu» ban đầu đã trở thành một di sản thể chế: cửa khẩu đơn nhất, tập trung ngành, hướng xuất khẩu và học tập công nghệ, tiếp tục để lại dấu ấn trong các ngành khác nhau.[^3]
 
-Tòa nhà hành chính, những nhà máy ban đầu và các công trình khác trong khu công nghiệp vì vậy mang hai tính chất. Một mặt, chúng vẫn có thể được sử dụng như không gian công nghiệp; mặt khác, chúng cũng là bằng chứng thực tế của lịch sử kinh tế Đài Loan. Nếu chỉ nhìn chúng như những tòa nhà cũ, chúng ta sẽ bỏ qua mối quan hệ giữa chúng và nhà máy, công nhân phụ nữ, cảng biển và hàng hóa; nếu chỉ nhìn chúng như di tích của sự thành công, chúng ta sẽ bỏ qua chi phí của lực lượng lao động và môi trường. [^3]
+Tòa nhà hành chính, các nhà máy sớm và các công trình khác trong khu do đó mang hai danh tính. Chúng một mặt là không gian sản nghiệp vẫn có thể được sử dụng, mặt khác là bằng chứng thực thể của lịch sử kinh tế Đài Loan. Chỉ coi chúng là kiến trúc cũ sẽ bỏ sót mối liên hệ giữa chúng với nhà máy, công nữ, cảng biển và hàng hóa; chỉ coi chúng là kỷ niệm vật của thành công cũng sẽ bỏ sót chi phí của lao động và môi trường.[^3]
 
 ## Một khu công nghiệp, nhiều phiên bản của Đài Loan
 
