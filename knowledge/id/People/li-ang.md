@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-04T19:06:43.861748+00:00'
 ---
 
 # Li Ang: Lukang 1952, "Shafu" Membuka Jalan bagi Sastra Feminis Taiwan

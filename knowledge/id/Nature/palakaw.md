@@ -1,15 +1,15 @@
 ---
-title: 'Palakaw: Apartemen Ikan Tiga Tingkat dan Kontrak Ekologis di Rawa Matai-an'
-description: 'Di rawa Matai-an, suku Amis memanfaatkan "sampah" alam untuk membangun habitat tiga tingkat bagi ikan dan udang. Metode penangkapan tradisional yang disebut "Palakaw" ini tidak mengandalkan pengejaran, melainkan menukar dengan anugerah alam melalui "pemberian," mencerminkan kearifan ekologis yang diwariskan selama ribuan tahun.'
+title: 'Palakaw: Apartemen Tiga Lapis Ikan dan Kontrak Ekologis di Lahan Basah Mataan'
+description: 'Di lahan basah Mataan, Hualien, masyarakat Amis memanfaatkan "limbah" alam untuk membangun habitat tiga lapis bagi ikan dan udang. Metode tradisional bernama "Palakaw" ini tidak mengandalkan pengejaran, melainkan melalui "pemberian" untuk mendapatkan berkah alam, mencerminkan kearifan ekologis selama ribuan tahun.'
 date: 2026-05-08
 category: 'Nature'
 tags:
   [
-    'suku Amis',
-    'Matai-an',
+    'Suku Amis',
+    'Mataan',
     'Palakaw',
-    'kearifan ekologi',
-    'metode penangkapan tradisional',
+    'kearifan ekologis',
+    'metode penangkapan ikan tradisional',
   ]
 subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
@@ -17,87 +17,89 @@ featured: false
 readingTime: 8
 lastVerified: 2026-05-08
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/Palakaw.md'
-sourceCommitSha: '4777e2548'
-sourceContentHash: 'sha256:76692c261ac4ee59'
-sourceBodyHash: 'sha256:7ec5f5cc7b44e03c'
-translatedAt: '2026-09-23T09:26:57+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a594b984b56b02cc'
+sourceBodyHash: 'sha256:20ac49b2919b564b'
+translatedAt: '2026-11-05T02:43:01+08:00'
 ---
 
-> **Ikhtisar 30 Detik:** "Palakaw" adalah kearifan menangkap ikan ekologis yang diwariskan selama ribuan tahun oleh suku Amis di komunitas Matai-an, Hualien. Suku menggunakan bambu, ranting pohon, dan tanaman air untuk membangun "apartemen tiga tingkat" di rawa, meniru habitat alami untuk menarik biota. Metode "penangkapan tanpa menangkap" ini adalah pelopor teknologi terumbu buatan Taiwan dan merupakan cetak biru global dari Pengetahuan Ekologis Tradisional (TEK) yang dilihat oleh dunia akademis modern—sebuah kontrak keberlanjutan antara manusia dan alam.
+> **Ringkasan 30 Detik:** "Palakaw" adalah kearifan ekologis penangkapan ikan yang diwariskan selama ribuan tahun oleh suku Amis di desa Mataan, Hualien. Masyarakat memanfaatkan bambu, ranting pohon, dan tanaman air untuk membangun sebuah "apartemen tiga lapis" di lahan basah guna mensimulasikan habitat alami yang menarik biota masuk ke dalamnya. Metode "menangkap tanpa memburu" ini merupakan pelopor teknologi terumbu buatan di Taiwan, sekaligus menjadi model global bagi Pengetahuan Ekologi Tradisional (TEK) di mata akademisi modern—sebuah kontrak berkelanjutan antara manusia dan alam yang hidup berdampingan.
 
-"Ini rumah bagi ikan, bukan sampah yang dibuang." Di rawa Matai-an di Kota Guangfu, Hualien, para tetua sering menunjuk tumpukan kayu dan bambu yang tampak berantakan di tepi sungai untuk menjelaskan makna mendalam dari "Palakaw" kepada generasi muda. Dalam bahasa Amis, "Lakaw" pada dasarnya berarti sampah atau limbah dalam kehidupan sehari-hari, tetapi ketika diberi awalan verba "Pa," kata ini berubah menjadi bentuk penjagaan aktif—"membuat rumah bagi ikan dan udang" [^1].
+"Ini adalah rumah bagi ikan, bukan limbah yang dibuang." Di lahan basah Mataan (Fataan), Kota Guangfu, Hualien, para tetua sering menunjuk ke arah tumpukan kayu dan bambu yang tampak berantakan di tepi sungai untuk menjelaskan makna mendalam dari "Palakaw" kepada generasi muda. Dalam bahasa Amis, "Lakaw" aslinya berarti limbah atau sampah dalam kehidupan sehari-hari, namun ketika ditambahkan awalan kata kerja "Pa", istilah ini berubah menjadi bentuk perlindungan yang aktif—"membangun rumah bagi ikan dan udang"[^1].
 
-Rawa Matai-an memiliki lingkungan mata air yang istimewa, di mana aliran Sungai Fudeng terus mengalir sepanjang tahun, memelihara ikan dan udang air tawar yang melimpah. Konon dewa sungai Matai-an, "Idek," pernah mengajarkan suku cara menangkap ikan dan bertani; meskipun dalam legenda Ia digambarkan memiliki kekuatan tak terbatas dan sifat keras kepala, lingkungan rawa yang ditinggalkannya menjadi dasar kehidupan bagi suku tersebut [^2]. Berbeda dengan gaya berburu dan menangkap ikan yang proaktif dari masyarakat maritim, suku Amis yang mendiami tempat ini mengembangkan "metode ekologis" yang lebih halus dan memiliki semangat sirkular.
+Lahan basah Mataan memiliki lingkungan mata air yang unik; aliran Sungai Fudeng (Fudeng River) yang mengalir sepanjang tahun menyuburkan kekayaan ikan dan udang air tawar. Konon, dewa sungai Mataan bernama "Idek" pernah mengajarkan masyarakat cara menangkap ikan dan bertani. Meskipun dalam legenda Ia digambarkan memiliki kekuatan tanpa batas dan sifat yang nakal, lingkungan lahan basah yang Ia tinggalkan telah menjadi fondasi kelangsungan hidup masyarakat[^2]. Berbeda dengan gaya berburu laut yang aktif menyerang, suku Amis yang menetap di sini mengembangkan "metode ekologis" yang lebih halus dan memiliki semangat sirkular.
 
-📝 Catatan Kurator: Daya tarik terbesar Palakaw adalah pergeseran semantiknya—mengubah "sampah" menjadi "rumah." Transformasi ini bukan hanya siklus materi, tetapi juga kunci perubahan mental dari "predator" menjadi "pencipta."
+📝 Catatan Kurator: Hal yang paling mempesona dari Palakaw adalah pergeseran semantiknya—mengubah "limbah" menjadi "rumah". Transformasi ini bukan sekadar siklus materi, melainkan kunci perubahan mentalitas dari seorang "penjarah" menjadi seorang "pembangun".
 
-## Apartemen Ikan Tiga Tingkat: Simulasi Habitat yang Presisi
+## Apartemen Tiga Lapis bagi Ikan: Simulasi Habitat yang Presisi
 
-Struktur inti Palakaw adalah "apartemen" tiga tingkat yang ketat, di mana setiap tingkat dirancang untuk kebiasaan spesies tertentu, mengubah bahan alami bekas menjadi terumbu buatan yang hidup [^3]. Teknologi ini dianggap oleh para peneliti sebagai pelopor teknologi terumbu buatan modern Taiwan, dan sudah ada sebelum Belanda mengelola Taiwan [^4].
+Struktur inti Palakaw adalah sebuah "apartemen" tiga lapis yang ketat, di mana setiap lapis dirancang sesuai dengan kebiasaan spesies tertentu, mengubah material alam yang terbuang menjadi terumbu buatan yang penuh kehidupan[^3]. Teknologi ini dianggap oleh para peneliti sebagai pelopor teknologi terumbu buatan di Taiwan modern, yang sudah ada jauh sebelum bangsa Belanda mengelola Taiwan[^4].
 
-| Tingkat    | Bahan Utama                              | Penghuni                             | Karakteristik Ekologis                                                                    |
-| :--------- | :--------------------------------------- | :----------------------------------- | :---------------------------------------------------------------------------------------- |
-| **Dasar**  | Bambu besar atau potongan kayu berongga  | Belut, ikan sarden, lele, ikan gabus | Ikan dasar (benthik), menyukai ruang teduh dan stabil yang gelap.                         |
-| **Tengah** | Ranting pohon Jixiong (九芎) yang diikat | Ikan kecil, udang kecil              | Celah yang rapat melindungi dari pemangsa, sekaligus menumbuhkan biofilm sebagai makanan. |
-| **Atas**   | Bambu halus, tanaman air, daun aren      | Ikan nila, ikan kembung, ikan sungai | Menutupi sinar matahari, menyediakan ruang mengambang yang sejuk dan stabil.              |
+| Lantai              | Material Utama                                | Penghuni                                 | Karakteristik Ekologis                                                                                           |
+| :------------------ | :-------------------------------------------- | :--------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| **Lantai Dasar**    | Bambu besar atau potongan kayu berongga       | Belut, sidat, ikan lele lokal, ikan lele | Ikan dasar (demersal), menyukai ruang perlindungan yang gelap dan stabil.                                        |
+| **Lantai Menengah** | Ikatan ranting pohon Jiugong atau dahan kecil | Ikan kecil, udang kecil                  | Celah yang rimbun memungkinkan mereka menghindari predator sekaligus menumbuhkan biofilm sebagai sumber makanan. |
+| **Lantai Atas**     | Bambu tipis, tanaman air, daun pinang         | Ikan nila, ikan sungai lainnya           | Menghalangi sinar matahari langsung, menyediakan ruang apung yang sejuk dan stabil.                              |
 
-Logika operasi sistem ini sangat cerdik: bambu besar di tingkat dasar menyediakan tempat berlindung bagi ikan tanpa sisik; ranting Jixiong di tingkat tengah berfungsi seperti kamar penitipan alami, memungkinkan ikan dan udang kecil tumbuh dengan aman di celah-celah kecil; sementara daun aren dan tanaman air yang menutupi tingkat atas menghalangi sinar matahari yang menyilaukan dan mengatur suhu air [^5]. Yang lebih cerdik lagi adalah kotoran ikan di tingkat atas yang jatuh lapis demi lapis, menjadi makanan bagi ikan dan udang kecil di tingkat tengah, membentuk sirkulasi rantai makanan mikro [^6].
+Logika kerja sistem ini sangat cerdik: bambu besar di lantai paling bawah menyediakan tempat perlindungan bagi ikan tanpa sisik; ranting pohon Jiugong di lantai menengah berfungsi seperti pembibitan alami, membiarkan ikan dan udang kecil tumbuh dengan aman di ruang-ruang sempit; sementara daun pinang dan tanaman air yang menutupi lapisan atas menghalangi sinar matahari yang menyengat serta mengatur suhu air[^5]. Yang lebih luar biasa lagi, kotoran dari ikan di lapisan atas akan jatuh ke bawah lapis demi lapis, menjadi makanan bagi ikan dan udang kecil di lantai menengah, sehingga membentuk siklus rantai makanan mikro[^6].
 
-## Penangkapan Tanpa Menangkap: Filosofi Moderasi yang Bijaksana
+## Menangkap Tanpa Memburu: Filosofi Pengendalian dalam Mengambil
 
-Setelah "apartemen" ini diletakkan di kolam untuk sementara waktu, ikan dan udang akan secara alami bermigrasi dan menetap. Saat menangkap, suku tidak perlu repot-repot mengeringkan air kolam; mereka hanya perlu memindahkan ranting tingkat tengah, dan ikan serta udang akan terlihat. Pada saat itu, suku menggunakan jaring tradisional (_kanas_) atau perangkap (_cadiway_) untuk mengumpulkan [^7].
+Setelah "apartemen" ini ditempatkan di kolam selama beberapa waktu, ikan dan udang akan berpindah ke sana secara alami untuk menetap. Saat penangkapan, masyarakat tidak perlu bersusah payah menguras air kolam; mereka cukup menyingkirkan ranting-ranting di lantai menengah, maka ikan dan udang akan muncul. Pada saat itulah, masyarakat menggunakan keranjang ikan tradisional (_kanas_) atau jaring ikan (_cadiway_) untuk memanennya[^7].
 
-📝 Catatan Kurator: Di era perikanan modern yang mengejar efisiensi, Palakaw mengingatkan kita pada kekuatan "kelambatan." Ini bukan tentang mengejar ikan, tetapi membiarkan ikan datang dengan sukarela.
+📝 Catatan Kurator: Di era industri perikanan modern yang mengejar efisiensi, Palakaw mengingatkan kita akan kekuatan dari "kelambatan". Ini bukan tentang mengejar ikan, melainkan membuat ikan dengan sukarela ingin tinggal di dalamnya.
 
-Inti dari metode penangkapan ini adalah "moderasi." Suku Amis menganut prinsip berapa banyak yang dimakan dan ditangkap, dan struktur Palakaw itu sendiri memiliki fungsi filtrasi—ikan kecil dapat dengan mudah lolos melalui celah-celah ranting, hanya individu yang telah berkembang secara matang yang akan tertinggal [^8]. Cara penangkapan selektif ini memastikan bahwa reproduksi komunitas tidak terhenti, mencapai pemanfaatan berkelanjutan sejati.
+Inti dari metode penangkapan ini adalah "pengendalian diri". Suku Amis memegang prinsip untuk hanya mengambil apa yang mereka makan, dan struktur Palakaw itu sendiri memiliki fungsi penyaringan—ikan dan udang kecil dapat dengan mudah lolos melalui celah-celah ranting, sehingga hanya individu yang telah tumbuh dewasa yang akan tertangkap[^8]. Metode penangkapan selektif ini memastikan reproduksi kelompok tidak terputus, mewujudkan pemanfaatan berkelanjutan yang sesungguhnya.
 
-## Dari "Tempat Air Mata" Menjadi Cetak Biru Ekologis Global
+## Dari "Tanah Air Mata" Menjadi Model Ekologi Global
 
-Dalam bahasa Amis, "Matai-an" selain merujuk pada "Fataan," dalam beberapa legenda juga memiliki konotasi "tempat berkumpulnya air mata," melambangkan kesulitan suku selama migrasi dan ikatan emosional mereka terhadap tanah [^10]. Kini, Palakaw di tanah ini telah bertransisi dari metode penangkapan tradisional menjadi alat konservasi ekologis modern.
+Dalam bahasa Amis, selain merujuk pada "pohon kacang" (Fataan), nama "Mataan" dalam beberapa legenda juga memiliki makna "tempat berkumpulnya air mata", yang melambangkan kesulitan selama proses migrasi suku tersebut serta ikatan emosional mereka terhadap tanah ini[^10]. Kini, Palakaw di tanah ini telah bertransformasi dari metode penangkapan ikan tradisional menjadi alat konservasi ekologi modern yang ampuh.
 
-Dalam perspektif ekologi modern, Palakaw dipandang sebagai mahakarya "Pengetahuan Ekologis Tradisional" (Traditional Ecological Knowledge, TEK) [^11]. Pada tahun 2021, teknik Palakaw di komunitas Matai-an secara resmi dilindungi oleh "Hak Cipta Kearifan Adat Pribumi," yang melambangkan bahwa kearifan ini telah menjadi aset budaya tingkat nasional [^12]. Bahkan lembaga pemerintah harus mendapatkan izin untuk menggunakan teknologi tradisional ini saat melakukan restorasi sungai [^13].
+Dari perspektif ekologi modern, Palakaw dipandang sebagai mahakarya "Pengetahuan Ekologi Tradisional" (Traditional Ecological Knowledge, TEK)[^11]. Pada tahun 2021, keahlian Palakaw dari suku Mataan secara resmi mendapatkan perlindungan "Hak Cipta Intelektual Tradisional Masyarakat Adat", yang menandakan bahwa kearifan ini telah menjadi aset budaya tingkat nasional[^12]. Bahkan lembaga pemerintah pun harus mendapatkan izin jika ingin menggunakan teknologi tradisional ini dalam melakukan restorasi sungai[^13].
 
-Di panggung internasional, Palakaw juga menarik perhatian luas. Pada Konferensi Bioetnologi Internasional (ISE) tahun 2026, hal ini dijadikan studi kasus utama untuk teknologi perikanan lintas budaya, mengeksplorasi bagaimana kearifan pribumi dapat memberikan solusi untuk restorasi rawa di tengah perubahan iklim modern [^14]. Penelitian akademis menunjukkan bahwa model yang menggabungkan budaya lokal dan pengetahuan lingkungan adalah kunci pengembangan industri budaya lokal yang berkelanjutan [^15].
+Di panggung internasional, Palakaw juga menarik perhatian luas. Kongres Biologi Etnis Internasional (ISE) tahun 2026 akan menjadikannya sebagai studi kasus utama untuk teknologi perikanan lintas budaya, guna mengeksplorasi bagaimana kearifan masyarakat adat dapat memberikan solusi bagi restorasi lahan basah di tengah perubahan iklim modern[^14]. Penelitian akademis menunjukkan bahwa model yang menggabungkan budaya lokal dengan pengetahuan lingkungan ini adalah kunci bagi pengembangan berkelanjutan industri budaya lokal[^15].
 
-📝 Catatan Kurator: Ketika dunia membicarakan "Inisiatif Desa," suku Matai-an telah mempraktikkannya selama ratusan tahun. Palakaw adalah metode penangkapan ikan sekaligus sistem manajemen sumber daya air dan organisasi sosial yang lengkap.
+📝 Catatan Kurator: Saat dunia sedang membicarakan "Inisiatif Satoyama", masyarakat Mataan telah mempraktikkannya selama ratusan tahun. Palakaw bukan sekadar metode menangkap ikan, melainkan sebuah sistem manajemen sumber daya air dan organisasi sosial yang lengkap.
 
-Bagi masyarakat Matai-an, Palakaw adalah cara untuk berbicara dengan tanah. Ini mengingatkan kita: sebelum manusia menuntut dari alam, mereka harus belajar memberi [^16]. Selama rumah bagi ikan masih ada, vitalitas sungai tidak akan pernah mengering. Kearifan hidup berdampingan dengan alam ini terus menyebarkan pengaruh mendalamnya ke dunia melalui pendidikan lingkungan dan ekowisata modern [^17][^18].
+Bagi orang Mataan, Palakaw adalah cara untuk berdialog dengan tanah. Ia mengingatkan kita: sebelum manusia meminta sesuatu dari alam, mereka harus terlebih dahulu belajar untuk memberi[^16]. Selama rumah bagi ikan masih ada, vitalitas aliran sungai tidak akan pernah kering. Kearifan untuk hidup berdampingan dengan alam ini terus menyampaikan pengaruh mendalamnya kepada dunia melalui pendidikan lingkungan modern dan ekowisata[^17][^18].
 
-**Bacaan Lanjutan**: [Kearifan Ekologis Suku Pribumi Taiwan dan Konservasi Lingkungan](/id/nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [Pulau Terluar dan Budaya Maritim](/id/geography/offshore-islands-and-maritime-culture/)
+**Bacaan Lanjutan**: [Kearifan Ekologis Masyarakat Adat Taiwan dan Konservasi Lingkungan](/id/nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [Budaya Pulau Terluar dan Maritim](/id/geography/offshore-islands-and-maritime-culture/)
 
 ## Referensi
 
-[^1]: [Arsip Memori Budaya Nasional: Palakaw_Deskripsi Material](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=264809) — Menjelaskan secara rinci perubahan semantik kata "Lakaw" dari sampah menjadi habitat ikan.
+[^1]: [National Cultural Memory Bank: Palakaw \_ Penjelasan Material](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=264809) — Menjelaskan secara rinci pergeseran semantik kata "Lakaw" dari limbah menjadi habitat ikan.
 
-[^2]: [Pulima: Sungai dengan Pengalaman Tubuh](https://www.pulima.com.tw/websites/Pulima/xxxx_21111514310733457.aspx) — Mencatat legenda dewa sungai Matai-an, Idek, dan konteks budaya pembentukan rawa.
+[^2]: [Pulima: Menggunakan Pengalaman Tubuh untuk Sebuah Sungai](https://www.pulima.com.tw/websites/Pulima/xxxx_21111514310733457.aspx) — Mencatat legenda dewa sungai Mataan, Idek, dan konteks budaya pembentukan lahan basah.
 
-[^3]: [Buletin Dinas Sumber Daya Air Edisi 0582: Palakaw Menghidupkan Kembali Sungai Matai-an](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=8949&n=30173) — Mencatat secara rinci struktur tiga tingkat Palakaw, bahan yang digunakan, dan spesies ikan terkait.
+[^3]: [Buletin Elektronik Administrasi Perairan No. 0582: Palakaw Mataan Mengembalikan Vitalitas Sungai](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=8949&n=30173) — Mencatat secara rinci struktur tiga lapis Palakaw, material yang digunakan, dan spesies ikan yang terkait.
 
-[^4]: [Sistem Pengetahuan Tesis Master Taiwan: Penelitian Metode Perikanan Palakaw Suku Amis Matai-an](https://ndltd.ncl.edu.tw/handle/94101679425572461386) — Menunjukkan bahwa Palakaw adalah pelopor teknologi terumbu buatan di Taiwan.
+[^4]: [Sistem Penambahan Nilai Tesis dan Disertasi Taiwan: Studi Metode Penangkapan Ikan Palakaw Suku Amis di Desa Mataan](https://ndltd.ncl.edu.tw/handle/94101679425572461386) — Menunjukkan bahwa Palakaw adalah pelopor teknologi terumbu buatan di Taiwan.
 
-[^5]: [Dedikasi Kearifan Tradisional Pribumi: Ketika Ikan dan Tanaman Hidup Bersama Bertemu Palakaw](https://library.yabit.org.tw/literature/introduction/161) — Mengeksplorasi aplikasi Palakaw sebagai kearifan alam dalam biologi dan ekologi.
+[^5]: [Persembahan Kearifan Tradisional Masyarakat Adat: Ketika Akuaponik Bertemu Palakaw](https://library.yabit.org.tw/literature/introduction/161) — Mengeksplorasi penerapan Palakaw sebagai kearifan alam dalam bidang biologi dan ekologi.
 
-[^6]: [Pusat Peningkatan Pertanian Hualien: Rumah Nasional bagi Ikan Palakau](https://www.hdares.gov.tw/upload/hdares/files/web_structure/6173/121_5.pdf) — Menjelaskan sirkulasi nutrisi internal dan struktur rantai makanan Palakaw.
+[^6]: [Stasiun Perbaikan Pertanian Distrik Hualien: Palakau, Hunian Nasional bagi Ikan](https://www.hdares.gov.tw/upload/hdares/files/web_structure/6173/121_5.pdf) — Menjelaskan siklus nutrisi internal dan struktur rantai makanan di dalam Palakaw.
 
-[^7]: [Situs Perlindungan Kreasi Kearifan Tradisional Pribumi: Teknik Penangkapan Ikan Tradisional Suku Matai-an](https://www.titic.cip.gov.tw/app/caseDetail?num=1050425000006) — Data pendaftaran resmi, mengonfirmasi status hukum Palakaw sebagai kreasi yang dilindungi.
+[^7]: [Situs Informasi Perlindungan Hak Cipta Intelektual Tradisional Masyarakat Adat: Keahlian Penangkapan Ikan Tradisional Palakaw Suku Mataan](https://www.titic.cip.gov.tw/app/caseDetail?num=1050425000006) — Data registrasi resmi, mengonfirmasi status hukum Palakaw sebagai karya intelektual yang dilindungi.
 
-[^8]: [IPCF: Keberlanjutan Ekologis! Metode Perikanan Konservatif Palakaw Turun-temurun di Matai-an](https://www.ipcf.org.tw/-/News/Detail?newsId=23041020441105872) — Menekankan nilai konservasi ekologis Palakaw dalam prinsip tidak pernah habis sumber daya alam.
+[^8]: [IPCF: Berkelanjutan secara Ekologis! Metode Penangkapan Ikan Ramah Lingkungan Palakaw yang Diwariskan Turun-temurun di Mataan](https://www.ipcf.org.tw/-/News/Detail?newsId=23041020441105872) — Menekankan nilai keberlanjutan lingkungan Palakaw di bawah prinsip tidak menguras sumber daya hingga habis.
 
-[^10]: [Vocus: Tangisan dan Harapan Sungai Matai-an](https://vocus.cc/article/68d8c50afd8978000179c2c3) — Mengeksplorasi makna budaya "tempat berkumpulnya air mata" dari nama tempat Matai-an dalam bahasa Amis.
+[^10]: [Vocus: Tangisan dan Harapan Sungai Mataan](https://vocus.cc/article/68d8c50afd8978000179c2c3) — Mengeksplorasi makna budaya nama tempat Mataan sebagai "tempat berkumpulnya air mata" dalam bahasa Amis.
 
-[^11]: [NTU Scholars: Tinjauan Literatur tentang Flora dan Pengetahuan Ekologis Tradisional Pribumi Taiwan](https://scholars.lib.ntu.edu.tw/bitstreams/0f675ea8-4144-45e8-a76c-6cc5b483dc58/download) — Mencantumkan Palakaw sebagai kasus penting dari TEK pribumi Taiwan.
+[^11]: [NTU Scholars: Tinjauan Literatur Penelitian Etnobotani dan Pengetahuan Ekologi Tradisional Masyarakat Adat Taiwan](https://scholars.lib.ntu.edu.tw/bitstreams/0f675ea8-4144-45e8-a76c-6cc5b483dc58/download) — Mencantumkan Palakaw sebagai kasus penting Pengetahuan Ekologi Tradisional (TEK) masyarakat adat Taiwan.
 
-[^12]: [Departemen Pertanian: Mengunjungi Kebun Hijau Xin untuk Pengalaman Perikanan Ekologis Palakaw](https://www.moa.gov.tw/ws.php?id=2506483) — Memperkenalkan promosi Palakaw dalam pertanian rekreasi modern dan pendidikan lingkungan.
+[^12]: [Kementerian Pertanian: Mengalami Penangkapan Ikan Ekologis Palakaw di Perkebunan Xinyi](https://www.moa.gov.tw/ws.php?id=2506483) — Memperkenalkan promosi Palakaw dalam pertanian rekreasi modern dan pendidikan lingkungan.
 
-[^13]: [Taipei Times: Biro yang Diizinkan Menggunakan Teknologi Pribumi](https://www.taipeitimes.com/News/taiwan/archives/2021/08/05/2003762071) — Melaporkan bagaimana lembaga pemerintah memperoleh izin untuk menggunakan teknologi tradisional ini.
+[^13]: [Taipei Times: Bureau licensed to use Aboriginal technology](https://www.taipeitimes.com/News/taiwan/archives/2021/08/05/2003762071) — Melaporkan bagaimana lembaga pemerintah mendapatkan izin untuk menggunakan teknologi tradisional ini.
 
-[^14]: [Info Acara ISE 2026: Lokakarya Teknologi Perikanan Lintas Budaya](https://kaigi.eventsair.com/QuickEventWebsitePortal/international-society-of-ethnobiology-congress-2026/ise2026eventinfo/Agenda/AgendaItemDetail?id=451c7199-4805-4984-9e6f-6c18f28faead) — Konferensi Bioetnologi Internasional tahun 2026 mencantumkan Palakaw sebagai contoh global.
+[^14]: [ISE 2026 Event Info: A Cross-Cultural Fishing Technology Workshop](https://kaigi.eventsair.com/QuickEventWebsitePortal/international-society-of-ethnobiology-congress-2026/ise2026eventinfo/Agenda/AgendaItemDetail?id=451c7199-4805-4984-9e6f-6c18f28faead) — Kongres Biologi Etnis Internasional 2026 menetapkan Palakaw sebagai studi kasus demonstrasi global.
 
-[^15]: [MDPI Sustainability: Pembangunan Berkelanjutan dalam Industri Budaya Lokal](https://www.mdpi.com/2071-1050/14/6/3404) — Menggunakan Matai-an sebagai contoh untuk mengeksplorasi model revitalisasi budaya pribumi dan pembangunan berkelanjutan.
+[^15]: [MDPI Sustainability: Sustainable Development in Local Culture Industries](https://www.mdpi.com/2071-1050/14/6/3404) — Menggunakan Mataan sebagai contoh untuk mengeksplorasi model revitalisasi budaya masyarakat adat dan pembangunan berkelanjutan.
 
-[^16]: [Taiwan Panorama: Pertanian Organik, Ramah Lingkungan, dan Berkelanjutan](https://www.taiwan-panorama.com/en/Articles/Details?Guid=42376353-5d3d-4c9b-b22a-91404bfc66c4) — Memperkenalkan kontribusi kearifan pribumi dalam pertanian organik dan berkelanjutan Taiwan.
+[^16]: [Taiwan Panorama: Organic, Eco-Friendly, and Sustainable Agriculture](https://www.taiwan-panorama.com/en/Articles/Details?Guid=42376353-5d3d-4c9b-b22a-91404bfc66c4) — Memperkenalkan kontribusi kearifan masyarakat adat dalam pertanian organik dan berkelanjutan di Taiwan.
 
-[^17]: [Badan Taman Nasional Kementerian Dalam Negeri: Rencana Pemanfaatan Konservasi Rawa Matai-an yang Penting (Tingkat Nasional)](https://www.nps.gov.tw/uploads/files/300ecc84dfc2c6a5d476ed7127321bf3.pdf) — Rencana konservasi resmi, memasukkan Palakaw ke dalam pemanfaatan rawa yang bijaksana.
+[^17]: [Administrasi Taman Nasional, Kementerian Dalam Negeri: Rencana Konservasi dan Pemanfaatan Lahan Basah Penting Mataan (Tingkat Nasional)](https://www.nps.gov.tw/uploads/files/300ecc84dfc2c6a5d476ed7127321bf3.pdf) — Rencana konservasi resmi, memasukkan Palakaw ke dalam inti pemanfaatan lahan basah yang bijaksana.
 
-[^18]: [Taiwan Tersenyum: Mengunjungi Kebun Hijau Guangfu Hualien untuk Pengalaman Penangkapan Ikan Tradisional Palakaw](https://smiletaiwan.cw.com.tw/article/5152) — Memperkenalkan praktik dan transmisi budaya Palakaw dalam ekowisata modern.
+[^18]: [Smiling Taiwan: Mengalami Penangkapan Ikan Tradisional Palakaw di Perkebunan Xinyi, Guangfu, Hualien](https://smiletaiwan.cw.com.tw/article/5152) — Memperkenalkan praktik dan pewarisan budaya Palakaw dalam ekowisata modern.

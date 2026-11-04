@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:01:31+08:00'
+translatedAt: '2026-11-04T18:12:38.776733+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 2026, Taiwan memiliki satu tenaga kerja migran internasional di antara setiap 26 orang. Total jumlahnya telah naik ke 873.000 jiwa; jika dihitung bersama sekitar 94.000 tenaga kerja migran yang hilang kontak, kelompok orang asing ini telah melebihi 5% penduduk tetap Taiwan. Mulai dari budaya siaran langsung di halaman Stasiun Taipei, hingga tekad Parade Besar Tenaga Kerja Migran menuntut "pembatalan batas masa kerja", lalu ke gelombang "menolak tenaga kerja migran India" yang jumlah penandatanganannya melebihi 40.000 orang pada April 2026, Taiwan sedang berada di persimpangan jalan antara kelangkaan tenaga kerja yang parah dan kecemasan inklusi sosial. Ini bukan sekadar kebijakan ketenagakerjaan, melainkan ujian kolektif tentang bagaimana Taiwan mendefinisikan "kita".

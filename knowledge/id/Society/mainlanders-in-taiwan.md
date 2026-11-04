@@ -2,9 +2,7 @@
 title: 'Orang Provinsi Luar: Dari Masa Maut Maut ke Mengidentifikasi Tanah di Bawah Kaki Taiwan'
 description: "1949, lebih dari satu juta orang yang membawa luka dan kerinduan melintasi laut ke Taiwan. Mereka adalah kelompok risiko tinggi 'tahanan politik' yang dituduh oleh pemerintah otoriter, sekaligus 'pengungsi perang' yang dipaksa ditangkap dan kehilangan tanah air. Artikel ini membuka bagaimana kelompok Orang Provinsi Luar mengalami empat luka psikologis, berpindah dari 'pengungsi' menjadi 'penduduk tetap'."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     'Orang Provinsi Luar',
@@ -16,15 +14,19 @@ tags:
     'Sastra Desa Militer',
     'Keluarga Chen Yihbo',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-07-26T03:58:07+08:00'
+translatedAt: '2026-11-04T18:06:06.740834+00:00'
 ---
 
 > **30 detik ringkasan:**  

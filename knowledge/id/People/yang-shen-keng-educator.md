@@ -20,11 +20,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-07-26T02:07:18+08:00'
+translatedAt: '2026-11-04T19:17:04.266561+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Yang Shen-keng (1946-2021), arsitek filsafat pendidikan Taiwan. Doktor Filsafat Universitas Athena, profesor negara seumur hidup pertama Kementerian Pendidikan, empat kali penerima Penghargaan Penelitian Unggul Dewan Ilmu Pengetahuan Nasional, pemenang Penghargaan Golden Tripod. Ia mendirikan Institut Penelitian Pendidikan Perbandingan Universitas Chi Nan, menjabat Dekan Fakultas Pendidikan sekaligus Wakil Rektor Universitas Chung Cheng, memimpin pertemuan akademik "Pintu Yang" di Universitas Pendidikan Nasional selama hampir empat puluh tahun. Membimbing lebih dari seratus mahasiswa magister dan doktor. Meninggal dunia di Rumah Sakit Universitas Taiwan pada 29 Agustus 2021, berusia 76 tahun.
