@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-07-26T14:23:27+08:00'
+translatedAt: '2026-11-04T21:47:03.936714+00:00'
 ---
 
 # A-mei: a diva puyuma, de «Irmãs» (1996) ao Taipei Dome com cinco noites (2024)

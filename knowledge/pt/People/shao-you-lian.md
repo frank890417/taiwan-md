@@ -20,11 +20,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-07-28T22:24:23+08:00'
+translatedAt: '2026-11-04T21:37:29.800167+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 1891, o primeiro governador de Taiwan, Liu Ming-chuan, deixou o cargo por doença, deixando uma Taiwan cheia de sonhos de modernização, mas com déficit fiscal. Seu sucessor, Shao You-lian, é frequentemente descrito como um conservador que "cancelou todas as novas políticas", mas na verdade ele operou a ferrovia no trecho Taipé–Hsinchu e transferiu oficialmente a capital para Taipé em 1894, tudo isso num ambiente limite onde o subsídio de Fujian fora cortado. Esse diplomata que participara das negociações do Tratado de Ili e era consogro de Li Hung-chang, com sua habilidade burocrática pragmática, definiu o tom do centro político e econômico de Taiwan para os cem anos seguintes.

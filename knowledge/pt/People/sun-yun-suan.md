@@ -2,9 +2,7 @@
 title: 'Sun Yun-suan: O Engenheiro-Premier que Iluminou Taiwan a Partir da Escuridão'
 description: 'Do milagre da restauração da energia em cinco meses nas ruínas do pós-guerra, à visão de apostar na indústria de semicondutores, Sun Yun-suan, com o pragmatismo e a integridade de um engenheiro, lançou as bases da modernização de Taiwan.'
 date: 2026-04-30
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'Sun Yun-suan',
@@ -13,15 +11,19 @@ tags:
     'ITRI',
     'Dez Grandes Construções',
   ]
-readingTime: 8
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-04T21:45:17.674060+00:00'
 ---
 
 > **Visão geral em 30 segundos:** No processo de modernização de Taiwan, **Sun Yun-suan** (1913–2006) é um nome impossível de contornar. Cognominado «o eterno Premier», a sua imagem pública funde o profissionalismo do tecnocrata, a integridade de um homem íntegro e a decisão audaciosa nos momentos cruciais da transformação nacional. Desde o início do pós-guerra, reparando a rede elétrica entre escombros, até à década de 1970, quando venceu resistências para impulsionar a indústria de semicondutores, a vida de Sun Yun-suan confunde-se com a história da transição de Taiwan da penúria à prosperidade [^1][^2].

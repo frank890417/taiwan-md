@@ -18,11 +18,13 @@ featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-07-28T21:27:53+08:00'
+translatedAt: '2026-11-04T21:30:05.742032+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O estrondo dos canhões da Guerra Sino-Francesa de 1884 projetou Liu Ming-chuan para o ponto de viragem da história de Taiwan. Ele não apenas repeliu com sucesso a invasão estrangeira, mas também, nos seis anos seguintes como governador, transformou Taipé numa das cidades mais avançadas do Império Qing — aqui nasceram a primeira ferrovia de passageiros, a primeira lâmpada elétrica e a primeira escola de modelo ocidental. No entanto, a gestão deste «primeiro homem da modernização» não foi isenta de percalços: a sua decisão de recuo no campo de batalha e as suas políticas internas de mão de ferro continuam a ser, até hoje, foco de acalorados debates na historiografia.

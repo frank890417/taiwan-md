@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-07-26T14:23:27+08:00'
+translatedAt: '2026-11-04T21:33:51.134414+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipé, da "Revista Três Três" ao Leão de Ouro de Veneza por "Cidade Triste"
