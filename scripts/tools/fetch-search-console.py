@@ -18,6 +18,10 @@ Site URL:
     ~/.config/taiwan-md/cache/search-console-latest.json
     ~/.config/taiwan-md/cache/search-console-{YYYY-MM-DD}.json
 
+    queries / pages 用 startRow 分頁抓到底（--max-query-rows / --max-page-rows 上限）；
+    pages 不含 #錨點網址，錨點按原頁面加總在 pages_anchor_rollup、佔比在
+    pages_anchor_stats；last_day 是最後一天的總數與查詢（給 dashboard 24h 區塊）。
+
 依賴:
     google-api-python-client
     google-auth
@@ -70,7 +74,7 @@ def reexec_in_venv():
     os.execv(str(venv_python), [str(venv_python), *sys.argv])
 
 
-def query_sc(service, site_url, dimensions, start_date, end_date, row_limit=500):
+def query_sc(service, site_url, dimensions, start_date, end_date, row_limit=500, start_row=0):
     """Query Search Console Search Analytics API.
 
     dataState="all" includes fresh (not-yet-finalized) data so we match what
@@ -87,6 +91,8 @@ def query_sc(service, site_url, dimensions, start_date, end_date, row_limit=500)
         "rowLimit": row_limit,
         "dataState": "all",
     }
+    if start_row:
+        body["startRow"] = start_row
     return (
         service.searchanalytics()
         .query(siteUrl=site_url, body=body)
@@ -94,11 +100,94 @@ def query_sc(service, site_url, dimensions, start_date, end_date, row_limit=500)
     )
 
 
+# Search Analytics API 一次最多回 25,000 列；要更多就用 startRow 往下翻。
+SC_PAGE_SIZE = 25000
+
+
+def paginate_rows(fetch_page, max_rows, page_size=SC_PAGE_SIZE):
+    """Collect rows across startRow pages until the API runs out or max_rows is hit.
+
+    fetch_page(start_row, row_limit) -> list of row dicts. max_rows <= 0 means
+    no cap. Returns (rows, truncated): truncated is True when we stopped
+    because of max_rows while the API still had a full page to give.
+
+    2026-11-04 evolve: queries used to be a single rowLimit=2000 call, so the
+    cache only ever saw the clicked head of the list (query-dim coverage 18.1%
+    vs 47.4% with every page fetched). Pages had the same ceiling at 1000.
+    """
+    rows = []
+    start = 0
+    while True:
+        limit = page_size
+        if max_rows > 0:
+            limit = min(page_size, max_rows - len(rows))
+            if limit <= 0:
+                return rows, True
+        batch = fetch_page(start, limit) or []
+        rows.extend(batch)
+        if len(batch) < limit:
+            return rows, False
+        if max_rows > 0 and len(rows) >= max_rows:
+            return rows, True
+        start += len(batch)
+
+
+def split_anchor_pages(rows):
+    """Separate #fragment URLs from real pages.
+
+    Google reports every jump link it shows under a result ("…/雪山隧道/#某節")
+    as its own page row. Counting them next to the page double-counts one SERP
+    result's impressions and drags its CTR down (雪山隧道: 12,078 imp / 1.03%
+    alone, 44,690 / 0.28% with its anchors). On 2026-11-04 anchors were 11.1%
+    of page impressions across 2,659 URLs.
+
+    Returns (pages, anchor_rollup, anchor_stats):
+      pages          rows whose URL has no '#', order preserved
+      anchor_rollup  one row per base URL: anchor URL count + summed clicks /
+                     impressions + impression-weighted position, by impressions
+      anchor_stats   totals for the anchor share
+    """
+    pages, groups = [], {}
+    for r in rows:
+        url = (r.get("keys") or [""])[0]
+        if "#" not in url:
+            pages.append(r)
+            continue
+        base = url.split("#", 1)[0]
+        g = groups.setdefault(base, {"page": base, "anchor_urls": 0, "clicks": 0,
+                                     "impressions": 0, "_pos_weight": 0.0})
+        imp = r.get("impressions", 0) or 0
+        g["anchor_urls"] += 1
+        g["clicks"] += r.get("clicks", 0) or 0
+        g["impressions"] += imp
+        g["_pos_weight"] += (r.get("position", 0) or 0) * imp
+    rollup = []
+    for g in groups.values():
+        weight = g.pop("_pos_weight")
+        g["position"] = round(weight / g["impressions"], 2) if g["impressions"] else 0
+        rollup.append(g)
+    rollup.sort(key=lambda g: (-g["impressions"], g["page"]))
+    anchor_imp = sum(g["impressions"] for g in rollup)
+    all_imp = anchor_imp + sum((r.get("impressions", 0) or 0) for r in pages)
+    stats = {
+        "anchor_urls": sum(g["anchor_urls"] for g in rollup),
+        "anchor_pages": len(rollup),
+        "anchor_clicks": sum(g["clicks"] for g in rollup),
+        "anchor_impressions": anchor_imp,
+        "anchor_share_pct": round(anchor_imp / all_imp * 100, 1) if all_imp else 0,
+    }
+    return pages, rollup, stats
+
+
 def main():
     import argparse
 
     parser = argparse.ArgumentParser(description="Fetch Search Console data")
     parser.add_argument("--days", type=int, default=28, help="How many days back (end today - 3 to account for SC lag)")
+    parser.add_argument("--max-query-rows", type=int, default=100000,
+                        help="Cap on query rows fetched across startRow pages (0 = no cap)")
+    parser.add_argument("--max-page-rows", type=int, default=50000,
+                        help="Cap on page rows fetched across startRow pages (0 = no cap)")
     args = parser.parse_args()
 
     reexec_in_venv()
@@ -162,13 +251,26 @@ def main():
         countries = query_sc(service, site_url, ["country"], start_date, end_date, row_limit=100)
         # SC API sorts rows by clicks DESC, then impressions — so zero-click
         # but high-impression queries (e.g. 鄧麗君 478 imp / 0 clicks) land
-        # after ALL clicked rows. We need rowLimit big enough to reach them.
-        # 2000 covers our current query tail; the hard cap is 25000. Pages
-        # bumped similarly so hub pages with zero-click impressions aren't
-        # silently dropped.
-        queries = query_sc(service, site_url, ["query"], start_date, end_date, row_limit=2000)
-        pages = query_sc(service, site_url, ["page"], start_date, end_date, row_limit=1000)
+        # after ALL clicked rows. A single call caps at 25,000 rows, so page
+        # through with startRow until the API runs dry (or the --max-*-rows
+        # cap). 2026-11-04: the old fixed rowLimit=2000 / 1000 hid most of
+        # the tail.
+        def pager(dims):
+            return lambda start, limit: query_sc(
+                service, site_url, dims, start_date, end_date,
+                row_limit=limit, start_row=start,
+            ).get("rows", [])
+
+        query_rows, queries_truncated = paginate_rows(pager(["query"]), args.max_query_rows)
+        page_rows, pages_truncated = paginate_rows(pager(["page"]), args.max_page_rows)
+        queries = {"rows": query_rows}
+        pages = {"rows": page_rows}
         devices = query_sc(service, site_url, ["device"], start_date, end_date, row_limit=10)
+        # Latest single day (= end_date). Feeds dashboard searchConsole24h,
+        # which had no producer after 2026-04-11 and kept a hand-written
+        # "2026-04-09 (24h)" label for seven months.
+        last_day_totals = query_sc(service, site_url, [], end_date, end_date, row_limit=1)
+        last_day_queries = query_sc(service, site_url, ["query"], end_date, end_date, row_limit=1000)
     except Exception as e:
         fail(f"Search Console API error: {type(e).__name__}: {e}")
 
@@ -212,8 +314,37 @@ def main():
         },
         "countries": simplify(countries),
         "queries": simplify(queries),
-        "pages": simplify(pages),
+        "pages": [],  # filled below: #anchor URLs split out
         "devices": simplify(devices),
+        "fetch_limits": {
+            "query_rows": len(query_rows),
+            "query_rows_truncated": queries_truncated,
+            "max_query_rows": args.max_query_rows,
+            "page_rows": len(page_rows),
+            "page_rows_truncated": pages_truncated,
+            "max_page_rows": args.max_page_rows,
+        },
+    }
+
+    # 2026-11-04 evolve：#錨點網址（Google 在結果下方秀的 H2 跳轉連結）不算獨立頁面。
+    # pages 只留真頁面；錨點另存一份按原頁面加總的彙總，佔比寫進 anchor_stats。
+    real_pages, anchor_rollup, anchor_stats = split_anchor_pages(simplify(pages))
+    output["pages"] = real_pages
+    output["pages_anchor_rollup"] = anchor_rollup
+    output["pages_anchor_stats"] = anchor_stats
+
+    ld_row = (last_day_totals.get("rows") or [{}])[0]
+    ld_clicks = ld_row.get("clicks", 0)
+    ld_imp = ld_row.get("impressions", 0)
+    output["last_day"] = {
+        "date": end_date,
+        "totals": {
+            "clicks": ld_clicks,
+            "impressions": ld_imp,
+            "ctr": round(ld_clicks / ld_imp, 4) if ld_imp else 0,
+            "position": round(ld_row.get("position", 0), 2),
+        },
+        "queries": simplify(last_day_queries),
     }
 
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -293,6 +424,12 @@ def main():
     dated_path.write_text(json.dumps(output, indent=2, ensure_ascii=False))
 
     print(f"✅ SC: {total_clicks:,} clicks / {total_impressions:,} impressions ({args.days}d)", file=sys.stderr)
+    print(
+        f"   rows: {len(query_rows):,} queries{' (capped)' if queries_truncated else ''}, "
+        f"{len(real_pages):,} pages + {anchor_stats['anchor_urls']:,} #anchor URLs "
+        f"({anchor_stats['anchor_share_pct']}% of page impressions, rolled up separately)",
+        file=sys.stderr,
+    )
     if site_url_set:
         print(
             f"🔍 SC 404 偵測: {len(potential_404)} 個 SC URLs 不在 sitemap "

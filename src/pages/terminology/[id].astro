@@ -2,7 +2,7 @@
 /**
  * Per-term SEO landing page — /terminology/{id}
  * ─────────────────────────────────────────────
- * Answers ONE long-tail query fast: 「{china} 台灣用語」/「{china} 台灣怎麼說」.
+ * Answers ONE long-tail query fast: 「{china} 意思」/「{china} 台灣怎麼說」.
  * The /terminology index is a browse grid and /terminology/converter pastes a
  * whole paragraph — neither ranks for a single-word lookup. This page does.
  *
@@ -32,6 +32,8 @@ import {
   hasTermEtymology,
   hasTermEvidence,
   termWording,
+  termGloss,
+  termSeo,
 } from '../../utils/terminology-wording';
 // NB: fs/path/yaml are imported *inside* getStaticPaths (Astro runs it in an
 // isolated context). The page body works purely off Astro.props, so it needs
@@ -359,14 +361,30 @@ const wording = termWording({
   evidenced,
 });
 
-// SEO title — tuned to「{china} 台灣怎麼說」. Kept ≤ ~60 chars.
-const seoTitle = `「${p.china}」台灣怎麼說？台灣用語是「${taiwanPrimary}」`;
-// seoDesc gates the fork blurb on showFork (never assert an unsupported 1949 claim
-// in the snippet) and folds in the「算不算中國用語」intent.
-const seoDesc =
-  wording.seoLead +
-  (showFork && forkBlurb ? forkBlurb : '') +
-  `查「${p.china}」算不算中國用語、台灣用語怎麼說 — Taiwan.md 用語保存計畫。`;
+// SEO title / description (2026-11-04 evolve).
+// Search Console: the queries are「X 意思」「X 是什麼」「X 注音」, not「X 台灣怎麼說」.
+// When etymology.origin carries a definition sentence (termGloss), the title asks
+// the meaning first and gives the Taiwan word second, and the description opens
+// with that sentence (verbatim from the YAML, nothing generated). Entries without
+// one (units, transliterated names, F 同詞不同語感, zero-evidence imports) keep the
+// original「{china} 台灣怎麼說」title + description unchanged.
+// The fork blurb stays gated on showFork (never assert an unsupported 1949 claim
+// in the snippet); the「算不算中國用語」tail is kept when it fits in 160 chars.
+const seo = termSeo({
+  china: p.china,
+  taiwanPrimary,
+  gloss: termGloss({
+    origin,
+    china: p.china,
+    taiwanTerms: p.taiwan.split(/\s*\/\s*/),
+    forkKey: p.forkKey,
+    category: p.category,
+  }),
+  seoLead: wording.seoLead,
+  forkBlurb: showFork && forkBlurb ? forkBlurb : '',
+});
+const seoTitle = seo.title;
+const seoDesc = seo.description;
 
 // Has any etymology sub-part to show? (uses scrubbed values — placeholders gone)
 const hasEtymology = hasRealEtymology;

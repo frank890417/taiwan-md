@@ -82,11 +82,46 @@ def reexec_in_venv():
     os.execv(str(venv_python), [str(venv_python), *sys.argv])
 
 
+# GA4 Data API：單次 runReport 的 limit 上限是 250,000 列，超過要用 offset 翻頁。
+GA4_PAGE_SIZE = 100000
+
+
+def collect_report_rows(run_page, max_rows=0, page_size=GA4_PAGE_SIZE):
+    """Page through a GA4 report with offset/limit until row_count is reached.
+
+    run_page(offset, limit) -> (rows, row_count, metric_headers); row_count is
+    the report's total row count as GA4 reports it. max_rows <= 0 means no cap.
+    Returns (rows, metric_headers, truncated).
+
+    2026-11-04 evolve: by_lang_pages was one request with limit=500, ordered by
+    views — every small-language long tail fell off the end, so the dashboard's
+    ga.byLang showed pt / hi / ru / de at 0 and en at 4,612 while GA4 itself had
+    en 14,066 / pt 431 / hi 330 / ru 436 / de 1,164 real views.
+    """
+    rows, headers, offset = [], None, 0
+    while True:
+        limit = page_size if max_rows <= 0 else min(page_size, max_rows - len(rows))
+        if limit <= 0:
+            return rows, headers, True
+        batch, total, page_headers = run_page(offset, limit)
+        batch = list(batch or [])
+        if headers is None:
+            headers = page_headers
+        rows.extend(batch)
+        offset += len(batch)
+        if not batch or offset >= (total or 0):
+            return rows, headers, False
+        if max_rows > 0 and len(rows) >= max_rows:
+            return rows, headers, True
+
+
 def main():
     import argparse
 
     parser = argparse.ArgumentParser(description="Fetch GA4 data")
     parser.add_argument("--days", type=int, default=1, help="How many days back (end today)")
+    parser.add_argument("--max-lang-rows", type=int, default=0,
+                        help="Cap on pagePath rows for the per-language report (0 = all rows)")
     args = parser.parse_args()
 
     # Re-exec in venv if available (must happen before google imports)
@@ -231,9 +266,11 @@ def main():
 
     # Report 6: All article paths for per-lang aggregation (2026-05-16)
     # Path-prefix based lang derivation (zh-TW = no prefix, en/ja/ko/es/fr = prefix).
-    # Limit 500 to capture small-lang signal that the limit=50 top_pages misses.
     # Powers dashboard-analytics.json `ga.byLang` — sovereignty preservation impact
     # 量測（per reports/immune-score-redesign-2026-05-16.md §D 短期方案）。
+    # 2026-11-04 evolve: was limit=500 (top 500 paths by views), which cut off
+    # the small-language tail. Now paged with offset to every row GA4 has
+    # (collect_report_rows below); limit/offset are set per page.
     by_lang_req = RunReportRequest(
         property=f"properties/{property_id}",
         date_ranges=[date_range],
@@ -245,7 +282,6 @@ def main():
             Metric(name="averageSessionDuration"),
         ],
         order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"), desc=True)],
-        limit=500,
     )
 
     # Report 5: 404 events (if instrumented)
@@ -282,9 +318,26 @@ def main():
         articles_7d_ok = False
 
     # Try by_lang — isolated try; defaults to empty list if API errors.
+    def run_by_lang_page(offset, limit):
+        by_lang_req.offset = offset
+        by_lang_req.limit = limit
+        resp = client.run_report(by_lang_req)
+        return resp.rows, resp.row_count, resp.metric_headers
+
+    by_lang_truncated = False
     try:
-        by_lang = client.run_report(by_lang_req)
+        from types import SimpleNamespace
+
+        lang_rows, lang_headers, by_lang_truncated = collect_report_rows(
+            run_by_lang_page, max_rows=args.max_lang_rows
+        )
+        by_lang = SimpleNamespace(rows=lang_rows, metric_headers=lang_headers or [])
         by_lang_ok = True
+        print(
+            f"   by_lang: {len(lang_rows):,} pagePath rows"
+            f"{' (capped by --max-lang-rows)' if by_lang_truncated else ''}",
+            file=sys.stderr,
+        )
     except Exception as e:
         print(f"⚠️  by_lang report failed: {type(e).__name__}: {e}", file=sys.stderr)
         by_lang = None
@@ -328,6 +381,7 @@ def main():
         "top_pages": parse_rows(pages, 2),
         "top_articles_7d": parse_rows(articles_7d, 2) if articles_7d_ok else [],
         "by_lang_pages": parse_rows(by_lang, 1) if by_lang_ok else [],
+        "by_lang_pages_truncated": by_lang_truncated,
         "traffic_sources": parse_rows(sources, 1),
         "geo": parse_rows(geo, 2),
         "events_404": events_404,

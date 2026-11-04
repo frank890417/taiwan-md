@@ -7,6 +7,7 @@ import {
   useTranslatedPath,
 } from '../i18n/utils';
 import {
+  COMPANIES_SNAPSHOT_DATE,
   getCompanyConfigs,
   getFellOffCompanies,
   localizeCompanyArticleUrls,
@@ -33,6 +34,20 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
 // Everyone else gets billions.
 const MYRIAD_UNIT_LANGS = ['zh-TW', 'ja', 'ko'];
 const isZhPage = MYRIAD_UNIT_LANGS.includes(lang);
+// 標題的快照年月從資料檔的快照日期取（主查詢「市值排名」，2026-11-04 evolve）。
+const [snapYear, snapMonth] = COMPANIES_SNAPSHOT_DATE.split('-');
+const snapVars: Record<string, string> = {
+  year: snapYear,
+  month: snapMonth,
+  monthShortEn: new Date(`${COMPANIES_SNAPSHOT_DATE}T00:00:00Z`).toLocaleString(
+    'en-US',
+    { month: 'short', timeZone: 'UTC' },
+  ),
+};
+const metaTitle = t('data.companies.meta.title').replace(
+  /\{(year|month|monthShortEn)\}/g,
+  (_, k: string) => snapVars[k],
+);
 const money = (v: number) =>
   isZhPage
     ? v.toLocaleString()
@@ -41,7 +56,7 @@ const money = (v: number) =>
 
 <Layout
   lang={lang}
-  title={t('data.companies.meta.title')}
+  title={metaTitle}
   description={t('data.companies.meta.description')}
   readerSettings={true}
 >
