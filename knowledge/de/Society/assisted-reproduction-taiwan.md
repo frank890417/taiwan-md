@@ -1,8 +1,8 @@
 ---
 title: 'Reproduktion in Taiwan: Ein Embryo überschreitet Grenzen, die Familie nicht automatisch das Gesetz'
 description: 'Im Jahr 2020 benötigten lesbische Paare Mota und City vier Jahre und etwa 2 Millionen TWD für eine IVF-Behandlung in Kambodscha. Während die Technologie reif ist, hinkt das Recht hinterher – es geht darum, wer als Familie anerkannt wird.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'Reproduktion',
@@ -11,17 +11,19 @@ tags:
     'gleichgeschlechtliche Ehe',
     'Geburtenrückgang',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-11-04T22:11:57.040480+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Im Jahr 2020 benötigten die lesbischen Paare Mota und City vier Jahre und etwa 2 Millionen TWD für eine IVF-Behandlung in Kambodscha. Die medizinische Technologie in Taiwan ist seit langem ausgereift, aber das Gesetz hat lange Zeit nur heterosexuelle Ehepaare berücksichtigt. Von dem Reproduktionsgesetz von 2007 bis zum Gesetzesentwurf von 2025 geht es nicht nur darum, ob ein Kind geboren werden kann, sondern wer Zugang zur Behandlung erhält, wer nach der Geburt anerkannt wird und welche Probleme die Leihmütter hinterlassen. [^1]

@@ -1,147 +1,138 @@
 ---
-title: 'Opernhaus-Opera: Vom Tempelhof ins Fernsehen und zurück zum Publikum'
-description: 'Wie die Bodenaufnahmen der Tempelhöfe in Yilan Ende des 19. Jahrhunderts in den Theatern der 1920er Jahre gelangten, durch die Ära der japanischen Kolonialisierung und das Goldene Zeitalter des Fernsehens reisten und schließlich zurück zum Theater, zur digitalen Bewahrung und zu den jungen Generationen.'
-category: 'Art'
-subcategory: '表演藝術'
-tags:
-  [
-    'Opernhaus-Opera',
-    'lokale Opernhaus-Opera',
-    'Yilan',
-    'traditionelle darstellende Künste',
-  ]
-author: 'Taiwan.md Contributors'
+title: 'Gezai Xi: Vom Tempelhoff in Yilan ins Fernsehen und zurück zum Publikum'
+description: 'Wie das „Lodisao“ auf den Tempelhöfen Yilans Ende des 19. Jahrhunderts in den 1920er Jahren in die Theater einzog, die Japanisierungszeit und das goldene Zeitalter des Fernsehens durchlief und schließlich zu Theatern, digitaler Bewahrung und dem nächsten Publikum zurückkehrte.'
 date: 2026-08-20
-readingTime: 9
+category: 'Art'
+tags: ['Gezai Xi', 'Ben Di Gezai', 'Yilan', 'traditionelle darstellende Künste']
+subcategory: '表演藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/歌仔戲.md'
-sourceCommitSha: 'a277bd5fa'
-sourceContentHash: 'sha256:ec862a3b3d59ce03'
-sourceBodyHash: 'sha256:9c9e15016b2f347e'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:2040ccc7373956b8'
+sourceBodyHash: 'sha256:d6f56dc6ecb9a820'
+translatedAt: '2026-11-05T05:48:34+08:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Die Opernhaus-Opera begann nicht in einem Theater, sondern auf den Bodenaufnahmen der Tempelhöfe Ende des 19. Jahrhunderts. In den 1920er Jahren gelangte sie in kommerzielle Theater und durchquerte dann Radio, Film und Fernsehen; sie überlebte durch ständige Neugestaltung. Heute muss man sie nicht nur nach dem Namen bewahren, sondern auch die Gesangsstile, Sprechweisen, Tanzschritte der Künstler sowie die Fähigkeit zur direkten Reaktion des Publikums bewahren.
+> **30-Sekunden-Überblick:** Gezai Xi begann nicht in einem Theater, sondern Ende des 19. Jahrhunderts mit dem „Lodisao“ auf den Tempelhöfen Yilans. In den 1920er Jahren zog es in kommerzielle Theater ein, später durchlief es Radio, Film und Fernsehen und überlebte, indem es ständig die Bühne wechselte. Heute bedeutet seine Bewahrung nicht nur, Stücktitel zu retten, sondern die Gesangs- und Sprechtechnik der Darsteller, ihre Schritte und Handbewegungen sowie die Fähigkeit, im Moment auf das Publikum zu reagieren.
 
-![Aufführung der Xinwu God Temple Opera](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg/960px-%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg)
+![Aufführung der Xin Wenhua Gezai Xi Truppe im Shan Shui Shang Di Tempel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg/960px-%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg)
 
-\_Bild: Aufführung der Xinwu God Temple Opera, Autor Boattoad, lizenziert unter CC BY-SA 4.0, eingebettet von Wikimedia Commons File Page, nicht heruntergeladen oder verändert.\_
+_Bild: Aufführung der Xin Wenhua Gezai Xi Truppe im Shan Shui Shang Di Tempel, Autor Boattoad, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), eingebettet über [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg), nicht heruntergeladen oder verändert.\_
 
-Ende des 19. Jahrhunderts gab es in den Tempelhöfen, unter Bäumen und neben Straßenständen in Yilan Darbietungen ohne feste Bühnen. Die Künstler waren meist amateurhafte junge Männer aus dem Landleben, die keine Kostüme trugen und sich nicht schminkten; sie sangen Lieder und führten Tanzstücke auf – dies ist der frühe Zustand der „lokalen Opernhaus-Opera“[^1]. In den 1920er Jahren gelangte sie in kommerzielle Theater und übernahm Elemente, Stücke und Bühnentechniken von _Luantan_, _Waijiang_ und _Jiujia_-Theaterformen[^4].
+Ende des 19. Jahrhunderts gab es auf den Tempelhöfen, unter Bäumen und neben Straßenprozessionen Yilans eine Darbietung ohne Bühne. Die Darsteller waren meist männliche Amateure aus Bauernfamilien, trugen keine Kostüme, schminkten sich nicht, sangen Lieder und führten die Bewegungen des Chegu auf – das war die frühe Form des Gezai Xi, das „Ben Di Gezai“. [^1] In den 1920er Jahren trat es in kommerzielle Theater ein, nahm Gesangsstile, Repertoires und Bühnentechniken von Luan Tan, Wai Jiang, Jiu Jia Xi und anderen Opernformen auf. [^4]
 
-Das Bemerkenswerte an der Opernhaus-Opera ist, dass sie „Tradition“ nie in einer festen Version eingeschlossen hat. Sie war spontan auf den Tempelhöfen, lernte im Theater, Eintritt zu verkaufen, ersetzte die Bühnenstücke durch Stimmen beim Radio und zerlegte die Bühne in Kameraeinstellungen beim Fernsehen. Jeder Wechsel entfernte ihr etwas von ihrem ursprünglichen Zustand und gab ihr gleichzeitig mehr Lebenszeit[^1][^2].
+Das Bemerkenswerteste am Gezai Xi ist, dass es „Tradition“ nie in einer festen Fassung einsperrte. Auf dem Tempelhoff setzte es auf Improvisation, im Theater lernte es, Karten zu verkaufen, im Radio tauschte es Körperbewegungen gegen Klang, im Fernsehen zerlegte es die Bühne in Kameraeinstellungen. Jeder Ortswechsel ließ es ein Stück weit von seiner ursprünglichen Gestalt abweichen, verschaffte ihm aber auch ein weiteres Überleben. [^1] [^2]
 
-## Ein Stück ohne feste Bühne
+## Ein Stück ohne Bühne
 
-Die Darbietungen der lokalen Opernhaus-Opera aus Yilan benötigten ursprünglich keine Kulissen und hatten nicht die schweren Kostüme, wie wir sie heute kennen. Das Nationale Zentrum für traditionelle Künste fasst diese Form als „ohne Bühne“ und „ohne Make-up“ zusammen: Junge Leute auf dem Land spielten in Tempelhöfen, Plätzen oder unter Bäumen; Gesang und Schauspiel folgten der lokalen Atmosphäre und wurden als _Luodisi_ oder _Tujao_ bezeichnet[^5].
+Die Aufführungen des Ben Di Gezai in Yilan brauchten ursprünglich kein Bühnenbild, auch nicht die heute bekannten schweren Kostüme. Das Nationale Zentrum für traditionelle Künste fasst diese Form als „ohne Bühne“, „ohne Schmink“ zusammen: Dorfjugendliche traten auf Tempelhöfen, Plätzen oder unter Bäumen auf, Gesang und Spiel folgten der Atmosphäre vor Ort, man nannte es „Lodisao“ oder „Toe-kha-suat“. [^5]
 
-Das Wort „Opera“ selbst steht in Verbindung mit den Erzählkünsten aus Zhangzhou, Fujian, während die Trommel-Tanzstücke die Tanzelemente lieferten. Da Yilan viele Einwanderer aus Zhangzhou beherbergte, trafen diese Melodien auf das lokale Leben und bildeten allmählich ihre eigene Darstellungsweise. Dieser Ursprung kann nicht als bloße Übernahme oder als rein schöpferische Leistung ohne äußeren Einfluss beschrieben werden. Es ist eher wie eine Gruppe von Menschen, die alte Materialien an einem neuen Ort neu arrangiert hat[^1][^5].
+Der „Gezai“ selbst steht in Verbindung mit der Vortragskunst aus Zhangzhou in Fujian, der Chegu lieferte die Tanzbewegungen für die kleinen Gesangsstücke. Da in Yilan viele Einwanderer aus Zhangzhou lebten, trafen diese Melodien auf das lokale Leben und formten allmählich eine eigene Darstellungsweise. Dieser Ursprung lässt sich weder als reine Transplantation noch als gänzlich unbeeinflusste Schöpfung beschreiben. Er ähnelt eher einer Gruppe von Menschen, die an einem neuen Ort altes Material zu einem neuen Stück zusammenfügten. [^1] [^5]
 
-Die frühe lokale Opernhaus-Opera wird oft als Aufführung durch Amateurmänner beschrieben; die Stücke und Melodien waren relativ einfach. Der Spielort war Teil des Alltags; das Publikum saß möglicherweise beim Tempelfest, auf einem vorbeikommenden Platz oder neben Bekannten und hörte zu. Diese enge Nähe führte zur Grundlage der „lebendigen Opernhaus-Opera“: Die Künstler wussten, dass das Publikum lachte, und sie wussten, welche Zeile man länger ausziehen musste[^1][^2].
+Frühes Ben Di Gezai wird oft als Darbietung männlicher Amateurdarsteller mit relativ einfachen Repertoires und Melodien beschrieben. Die Aufführungsorte waren Teil des Alltags, das Publikum bestand aus Tempelfestbesuchern, Vorbeikommenden oder Leuten, die sich einfach zu Bekannten setzten. Diese große Nähe wurde später zum Fundament des „Huo Xi“ (lebendigen Theaters) im Gezai Xi: Die Darsteller wussten, wann das Publikum lachte, und wann ein Satz eine längere Pause brauchte. [^1] [^2]
 
-Die Opernhaus-Opera entwickelte später die Rollen wie männliche Hauptrolle (_sheng_), weibliche Rolle (_dan_), reine Rolle (_jing_) und komische Rolle (_chou_). Die Künstler mussten nicht nur die Charakterrollen lernen, sondern auch ihre jeweiligen Schritte, Gesten, Gesangsstile und Bewegungen. _Huamian_ (die reinen Rollen) stammten ursprünglich von großen Opern wie _Beigan_ und Peking-Oper und zeigen, wie die Opernhaus-Opera äußere Bühnensprache in ihr eigenes System überführt hat[^1].
+Später formte Gezai Xi Rollentypen wie Sheng, Dan, Jing, Chou. Die Darsteller mussten nicht nur die Identität ihrer Rolle verinnerlichen, sondern auch deren jeweilige Schritte, Gesten, Gesangsstile und Laufwege erlernen. Das Huamian (bemaltes Gesicht) wurde ursprünglich als Jing-Rolle aus Beiguan und Jingju übernommen – ein präzises Beispiel dafür, wie Gezai Xi fremde Bühnenvokabeln in das eigene Aufführungssystem übersetzte. [^1]
 
-![Die Huamian-Rolle der Opernhaus-Opera](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg/960px-%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg)
+![Huamian-Rolle im Gezai Xi](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg/960px-%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg)
 
-_Bild: Die Huamian-Rolle der Opernhaus-Opera, Autor Sean Chiu, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), eingebettet von [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg)._
+_Bild: Huamian-Rolle im Gezai Xi, Autor Sean Chiu, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), eingebettet über [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E4%BB%94%E6%88%B2%E8%8A%B1%E9%9D%A2%E8%A1%8C%E7%95%B6.jpg), nicht heruntergeladen oder verändert._
 
-📝 Notiz des Kurators: Die erste Bühne der Opernhaus-Opera war kein Bauwerk, sondern ein kleiner Platz zwischen Menschen.
+📝 Kuratorische Notiz: Die erste Bühne des Gezai Xi war kein Bauwerk, sondern der kleine Freiraum, den Menschen untereinander lassen.
 
-## Warum sie schnell zu einem großen Stück wurde
+## Warum es schnell zum großen Theater wurde
 
-Als die Opernhaus-Opera aus Yilan verbreitet wurde, reichte das ursprüngliche Tanzstück allein nicht mehr für den neuen Wettbewerb. Mit dem Aufkommen kommerzieller Theater in den 1920er Jahren gelangte die Opernhaus-Opera ins Innentheater und begann, Beleuchtung, Tontechnik, Kulissen und neu geschriebene Stücke zu verwenden, wobei sie auch große Mengen an Stücken, Rollen und Bewegungen anderer Opernformen übernahm[^2][^4].
+Als sich Gezai Xi von Yilan aus ausbreitete, reichten die ursprünglichen Gesangs- und Tanzstücke nicht mehr, um im neuen Wettbewerb zu bestehen. In den 1920er Jahren entstanden kommerzielle Theater, Gezai Xi zog in die Neitai (Innentheater) ein, begann Beleuchtung, Ton, Bühnenbilder und neu geschriebene Skripte zu nutzen und nahm massenhaft Repertoires, Rollentypen und Bewegungen anderer Opernformen auf. [^2] [^4]
 
-Diese Aneignung war keine bloße Dekoration, sondern die Art der Gattungsformung. Die Gesangsstile und Sprechweisen der Opernhaus-Opera verwendeten hauptsächlich Minnan-Dialekt, den die meisten Zuschauer verstanden, und die Melodien und Geschichten waren alltagstauglich. Gleichzeitig integrierte sie Elemente aus _Beigan_, _Nan'gan_, Peking-Oper und Volksliedern in ihren eigenen Körper[^1][^2].
+Diese Aufnahme war kein bloßes Beiwerk, sondern die Art, wie sich die Gattung formte. Gezai Xi verwendete für Gesang und Sprechteil das von den meisten Zuschauern verständliche Minnan, Melodien und Geschichten ließen sich leicht in den Alltag integrieren. Gleichzeitig nahm es Elemente von Beiguan, Nanguan, Jingju und Volksliedern in den eigenen Körper auf. [^1] [^2]
 
-Die Datenbank für Kulturerbe teilt ihre Entwicklung in aufeinanderfolgende Szenen: die Bodenaufnahmen der Opernhaus-Opera, das Feldtheater, das Innentheater, Radio, Film, Fernsehen und Theater. Dieser Weg ist kein gerader Linie, die alte Formen verdrängt, sondern eher wie ein Ensemble, das ständig neue Ausgänge sucht, um Zuschauer zu finden[^4].
+Kulturerbe-Dokumente unterteilen seine Entwicklung in mehrere aufeinanderfolgende Szenen: Lodisao-Gezai-Formationen, Yetai-Gezai Xi, Neitai-Gezai Xi, Radio, Film, Fernsehen und Theater. Dieser Pfad verläuft nicht wie eine Gerade, die alte Formen aussortiert, sondern eher wie eine Truppe, die ständig neue Ausgänge sucht, um ihr Publikum zu finden. [^4]
 
-Das Feldtheater blieb mit Tempelfesten, Gottengeburtstagen, Opferzeremonien (_Jianjiao_) und Gelübden verbunden. Vor der Hauptvorstellung gab es oft die „Götteranbetung“ (_Banxian_), bei der zuerst den Göttern gedankt und den Gläubigen Segen gewünscht wurde. Die Tagvorstellungen konnten Geschichte und Legenden spielen, während die Nachtvorstellungen möglicherweise aktuelle populäre Lieder und neu geschriebene Geschichten einbezogen. So bewahrte die Opernhaus-Opera sowohl den rituellen Charakter als auch die Forderung des Marktes nach Neuem[^1].
+Das Yetai-Theater blieb mit Tempelfesten, Göttergeburtstagen, Jiao-Zeremonien und Gelübdeeinlösungen verbunden. Vor dem Hauptstück gab es oft „Banxian“, zuerst gratulierte man den Göttern, betete für die Gläubigen. Tagsüber konnten Historien und Legenden gespielt werden, nachts flossen aktuelle Populärlieder und neu erfundene Geschichten ein. So bewahrte Gezai Xi gleichzeitig rituelle Zeit und unterlag dem Marktdruck nach Neuheit. [^1]
 
-## Der Krieg verschob das Taiwanesische ins Verborgene
+## Der Krieg verbannte das Taiwanische in den Untergrund
 
-Nach dem Ausbruch des Sino-Japanischen Krieges im Jahr 1937 führte die japanische Kolonialregierung die _Kōminka_-Politik ein, wodurch die Opernhaus-Opera streng eingeschränkt wurde. Die Ensembles wurden gezwungen, ihre Namen und Inhalte zu ändern, manchmal sogar Kimonos zu tragen, japanische Schwerter zu schwingen oder japanische Lieder zu singen. Einige Darsteller bewahrten jedoch unter dem Radar traditionelle Inhalte auf und wechselten hastig zu den vorgeschriebenen Aufführungen, wenn die Polizei nicht in der Nähe war[^2].
+Nach Ausbruch des Zweiten Japanisch-Chinesischen Krieges 1937 setzte die japanische Kolonialregierung die Japanisierungspolitik (Kominka) durch, Gezai Xi wurde streng reglementiert. Trupps wurden gezwungen, sich umzubenennen, Inhalte umzuschreiben, sogar Kimono zu tragen, Samuraischwerter zu führen und japanische Lieder zu singen. Manche Darsteller bewahrten traditionelle Inhalte, solange die Polizei nicht da war, und wechselten hastig auf regelkonforme Stücke, sobald eine Kontrolle nahte. [^2]
 
-Diese Periode verlieh der „Anpassung“ ein unangenehmes Gewicht. Die Opernhaus-Opera wurde zwar durch die äußere Veränderung fortgeführt, aber dies war keine freie Innovation, sondern eine Überlebensstrategie, die von der Macht erzwungen wurde. In den 1950er Jahren nach dem Krieg erholten sich die Ensembles schnell und das Innentheater erreichte einen Höhepunkt. Danach übernahmen Radio, Film und Fernsehen die Weiterentwicklung[^2].
+Dieser Geschichte verleiht „Anpassung“ ein unbequemes Gewicht. Gezai Xi überlebte zwar durch äußere Veränderungen, doch das war keine freie Innovation, sondern eine von Macht erzwungene Überlebensstrategie. In den 1950er Jahren nach dem Krieg erholten sich die Trupps rasch, das Neitai-Gezai Xi erlebte einen neuen Höhepunkt. Danach übernahmen Radio, Film und Fernsehen die weitere Umgestaltung. [^2]
 
-Die Erinnerung einer bestimmten Künstlerin lässt diese Ära nicht nur durch Jahreszahlen definieren. Sie sagte: „Früher mussten die Fans sparen und Tickets kaufen, um mich zu sehen; man musste ins Theater gehen.“ Dies war der Abstand zwischen den Innentheater-Stars und dem Publikum, der durch ein Ticket geschaffen wurde. Später brachte das Fernsehen diesen Abstand direkt in die Haushalte; die Künstler mussten nicht mehr warten, bis das Publikum ins Theater kam, und das Publikum konnte während des Essens zuhören[^2].
+Eine Erinnerung von Hong Mingxue lässt jene Epoche nicht bei Jahreszahlen stehen. Sie sagte: „Früher mussten Fans, die mich sehen wollten, Geld sparen, Karten kaufen, erst im Theatergarten konnte man mich sehen.“ Das war die Distanz, die Neitai-Stars und Publikum mit einer Eintrittskarte herstellten. Später brachte das Fernsehen diese Distanz direkt in die Haushalte, Darsteller mussten nicht mehr warten, bis das Publikum ins Theater kam, das Publikum konnte zur Essenszeit auf den Beginn warten. [^2]
 
-## Yang Li-hua und die jungen männlichen Rollen im Fernsehen
+## Yang Lihua und der Xiaosheng im Fernsehen
 
-Einer der bekanntesten Figuren nach dem Aufkommen des Fernsehens war Yang Li-hua. Daten des Kulturamtes von Taipeh zeigen, dass sie zwischen 1966 und 1980 über hundert Fernsehaufführungen gemacht und ab 1981 Schulungen für Opernhaus-Operakünstler abgehalten hatte[^7].
+Als Gezai Xi ins Fernsehen einzog, war eine der markantesten Figuren Yang Lihua. Laut资料 des Kulturamts der Stadt Taipeh spielte sie zwischen 1966 und 1980 in über hundert Fernseh-Gezai-Xi-Stücken mit, 1981 gründete sie eine Gezai-Xi-Ausbildungsklasse und formte spätere Darstellergenerationen. [^7]
 
-Yang Li-huas Bedeutung liegt nicht nur in der Anzahl ihrer Auftritte. Sie brachte die Erscheinung, den Gesangsstil und den Charme der jungen männlichen Rollen in die Wohnzimmer und überwand damit die geografischen Grenzen des Tempels und des Theaters. Die Fernsehopernhaus-Opera wurde so zu einer gemeinsamen Erinnerung einer Generation, sah sich aber auch einem Problem gegenüber: Wenn das Publikum die Opernhaus-Opera als Fernsehamt betrachtet, kann es dann noch die Improvisationen und Tanzschritte der Live-Aufführung erkennen?[^6][^9]
+Yang Lihuas Bedeutung liegt nicht nur in der Stückzahl. Sie brachte die Erscheinung, den Gesangsstil und den Charme des Xiaosheng in die Haushalte und ließ Gezai Xi die geografischen Grenzen von Tempelhoff und Theater überwinden. Fernseh-Gezai Xi wurde so zur gemeinsamen Erinnerung einer Generation, stand aber gleichzeitig vor einem Problem: Wenn das Publikum Gezai Xi als Fernsehbild versteht, kann es dann noch die Improvisation und Körperlichkeit auf dem Tempelhoff erkennen? [^6] [^9]
 
-Ein Bericht über Yang Li-hua und ihre Ära liefert keine einheitliche Antwort. Der Gelehrte Su Shuo-bin erinnert sich daran, dass die kulturelle Bewertung vor und nach der Abschaffung des Kriegsrechts die Fernsehopernhaus-Opera als eine Form ansah, die von Politik und Kapital aufgenommen wurde. Er merkte jedoch auch an, dass die Opernhaus-Opera ohne Kompromisse in verschiedenen Epochen möglicherweise längst verschwunden wäre[^6].
+Als _The Reporter_ Yang Lihua und ihre Zeit zusammenfasste, zeigte sich eine nicht ganz glatte Antwort. Der Gelehrte Su Shuobin erinnerte sich, dass die kulturelle Bewertung vor und nach der Aufhebung des Kriegsrechts das Fernseh-Gezai Xi als die von Politik und Kapital tolerierte Seite betrachtete. Später wies er jedoch auch darauf hin, dass Gezai Xi ohne Kompromisse in verschiedenen Epochen vielleicht längst verschwunden wäre. [^6]
 
-Hier liegt ein wichtiger Widerspruch: Wer Tradition bewahrt, lehnt sie nicht notwendigerweise ab. Wer die Form verändert, verrät die Tradition nicht notwendigerweise. Der Weg von Yang Li-hua vom Radio über Film und Fernsehen bis zum nationalen Theater zeigt, dass die Lebenskraft der Opernhaus-Opera nicht darin liegt, ewig gleich zu bleiben, sondern darin, neue Medien in ihre eigene Bühne umzuwandeln[^7][^9].
+Dieser Widerspruch ist wichtig: Wer Tradition bewahrt, lehnt Veränderung nicht unbedingt ab. Wer die Form ändert, verrät die Tradition nicht unbedingt. Yang Lihuas Weg von Radio, Film, Fernsehen bis ins nationale Theater zeigt, dass die Lebenskraft des Gezai Xi nicht darin liegt, immer gleich zu bleiben, sondern darin, neue Medien zur eigenen Bühne zu machen. [^7] [^9]
 
-![Aufführung des Xinzhuan Opera Ensemble](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg/960px-%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg)
+![Aufführung der Xinchuan Gezai Xi Truppe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg/960px-%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_%2849115283087%29.jpg)
 
-\_Bild: Aufführung des Xinzhuan Opera Ensemble, Autor Miwang de Rensheng (ein verwirrtes Leben), lizenziert unter CC BY-SA 2.0, eingebettet von Wikimedia Commons File Page.jpg.\_
+_Bild: Aufführung der Xinchuan Gezai Xi Truppe, Autor Verwirrtes Leben, lizenziert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant), eingebettet über [Wikimedia Commons Dateiseite](<https://commons.wikimedia.org/wiki/File:%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_(49115283087).jpg>), nicht heruntergeladen oder verändert.\_
 
-Dieses Foto der Ensemblespielung machte das „Eintreten ins Theater“ nicht mehr zu einer abstrakten Kulturpolitik. Die Beziehung zwischen den Künstlern auf der Bühne, dem Licht und dem Publikum war keine gegenseitige Ausschließung wie beim Feldtheater; es waren zwei Räume, die die Opernhaus-Opera in verschiedenen Epochen gelernt hatte zu nutzen.
+Dieses Truppenfoto macht „Einzug ins Theater“ zu mehr als abstrakter Kulturpolitik. Darsteller, Beleuchtung und Publikumsdistanz auf der Bühne und der Yetai auf dem Tempelhoff sind keine sich ausschließenden Welten, sondern zwei Räume, die Gezai Xi in verschiedenen Epochen zu nutzen gelernt hat.
 
-📝 Notiz des Kurators: Wahre Bewahrung bedeutet manchmal nicht, das Stück an seinen ursprünglichen Platz zurückzuholen, sondern zu fragen, wo es das nächste Mal mit dem Publikum treffen wird.
+📝 Kuratorische Notiz: Echte Bewahrung bedeutet manchmal nicht, das Stück an seinen Ursprungsort zurückzustellen, sondern zu fragen, wo es das nächste Mal auf Publikum treffen will.
 
-## „Lebendige Kunst“ trifft auf die Stadt
+## Wenn das „lebendige Theater“ auf die Stadt trifft
 
-Ein weiteres Schlüsselwort der Opernhaus-Opera ist „lebendig“. Die privaten Theaterensembles in Taiwan standen oft vor den Herausforderungen von Tempelfesten, Honoraren, Spielstätten und Publikumsreaktionen; die Künstler bewahrten die Tradition der Interaktion mit dem Publikum und der spontanen Anpassung. Im Gegensatz dazu verlangen moderne Theaterstücke mehr an Drehbuch, Regie, Musikgestaltung und Bühnengestaltung sowie Proben[^2].
+Ein weiteres Schlüsselwort des Gezai Xi ist „Huo Xi“. Private taiwanische Trupps müssen meist Tempelfest-Einladungen, Gajin (Aufführungsgebühren), Spielorte und Publikumsreaktionen managen, die Darsteller bewahren die Tradition der Interaktion mit dem Ort und der spontanen Anpassung. Demgegenüber verlangt das moderne Theater nach Skript, Regie, Musikdesign, Bühnenbild und Proben. [^2]
 
-Keines dieser beiden ist von Natur aus überlegen. Die Freiheit am Tempelrand kann Nähe schaffen, aber sie garantiert nicht genügend Tontechnik oder Untertitel. Die detaillierte Produktion des Theaters kann mehr Menschen erreichen, aber sie kann ein Stück, das ursprünglich auf das Publikum reagiert hätte, zu einer festen Version pro Abend machen. Die heutige Herausforderung der Opernhaus-Opera besteht darin, diese beiden Vorteile zusammenzubringen.
+Keines von beiden ist von Natur aus „orthodoxer“. Die Freiheit am Tempelhoff schafft Nähe, bietet aber nicht unbedingt gute Beschallung und Untertitel. Die sorgfältige Theaterproduktion ermöglicht mehr Menschen Verständnis, kann aber ein Stück, das ursprünglich auf das Publikum reagierte, in eine jede Nacht identische Fassung fixieren. Die heutige Schwierigkeit des Gezai Xi besteht darin, dass beide Vorzüge aufeinandertreffen können.
 
-Die Urbanisierung hat dieses Problem konkretisiert. In städtischen Gebieten gibt es weniger Tempelhöfe, die für Aufführungen genutzt werden können; Lärmschutzbestimmungen und Produktionskosten steigen, und junge Zuschauer verstehen möglicherweise kein Taiwanesisches Volksstück ohne Untertitel. Berichte des Nationalen Zentrums für traditionelle Künste haben „die Entwicklung von Publikum und Künstlern“ als dringende Aufgabe genannt und dokumentieren Versuche der Ensembles, die Distanz zwischen Theater und Tempelrand durch Untertitel und „Außenspielorte“ zu verringern[^2].
+Die Urbanisierung macht diese Schwierigkeit konkret. In Ballungsräumen werden Tempelhöfe, auf denen man Bühnen bauen kann, weniger, Lärmschutzauflagen und Aufführungskosten steigen, junge Zuschauer verstehen vielleicht taiwanisches Volkstheater ohne Untertitel nicht. Ein Bericht des Nationalen Zentrums für traditionelle Künste führt „Publikums- und Darstellerentwicklung“ als dringende Aufgabe auf und dokumentiert Versuche von Trupps, mit Untertiteln und „Außenbühnen-Kulturveranstaltungen“ die Distanz zwischen Theater und Tempelhoff zu verringern. [^2]
 
-Daher kann die Weitergabe der Opernhaus-Opera nicht nur darin bestehen, ein Klassikstück noch einmal aufzuführen. Es muss auch dazu führen, dass Lernende Gesangsstile, Sprechweisen, Tanzschritte und Hintergrundmusik kennenlernen, um zu verstehen, wo Improvisation möglich ist und wo jahrelange Akkumulation notwendig ist. Die Weitergabe ist eigentlich ein System von körperlichem Wissen, nicht nur das Abschreiben eines Stücknamens in einen Katalog.
+Daher kann die Weitergabe des Gezai Xi nicht darin bestehen, klassische Repertoires noch einmal aufzuführen. Sie muss Lernende an Gesang, Sprechteil, Schritte, Handbewegungen und Hinterbühnenmusik heranführen, verstehen lassen, wo Improvisation möglich ist und wo jahrelange Ansammlung unabdingbar ist. Weitergabe ist eigentlich ein Körperwissen, nicht das Abschreiben von Stücknamen in einen Katalog.
 
-## Ein lebendiges Kunstwerk bewahren
+## Ein bewegliches Kunstwerk bewahren
 
-Das Kulturerbesystem hat bereits eine Liste der Bewahrer und Ensembles für die Opernhaus-Opera erstellt. Das Kulturamt von Taipeh meldete im Jahr 2024 Yang Li-hua als Bewahrerin der Opernhaus-Opera an und dokumentierte ihre langjährige Erfahrung in Lehre, Förderung und verschiedenen Darstellungsformen[^7].
+Das Kulturerbesystem hat bereits Verzeichnisse der Bewahrer und Bewahrergruppen für Gezai Xi erstellt. Das Kulturamt der Stadt Taipeh gab 2024 bekannt, Yang Lihua als Gezai-Xi-Bewahrerin zu registrieren, die Dokumente verzeichnen zugleich ihre langjährige Lehrtätigkeit, Förderung und Erfahrung in verschiedenen Aufführungsformen. [^7]
 
-Auch digitale Werkzeuge werden zur Bewahrung eingesetzt. Im Jahr 2026 veröffentlichte das Nationale Zentrum für traditionelle Künste die zweite Phase der Bewahrung von Künstlertalenten der Opernhaus-Opera und lud Lin Mei-xiang, Chen Zhao-xiang und Zhang Xiuqin ein, ihre Fähigkeiten zu demonstrieren, indem sie Gesangsstile, Sprechweisen, Tanzschritte und Rollencharaktere zerlegten. Dies gab dem Wissen eine Möglichkeit zur Ansicht, Forschung und Lehre, das zuvor nur zwischen Meister und Schüler oder auf der Bühne zirkulierte[^8].
+Auch die Bewahrung nutzt inzwischen digitale Werkzeuge. Das Nationale Zentrum für traditionelle Künste kündigte 2026 die zweite Phase der Bewahrung der Künste von Gezai-Xi-Meistern an, lud Lin Meixiang, Chen Zhaoxiang und Zhang Xiuqin ein, ihre Spezialstücke vorzuführen, zerlegte Gesang, Sprechteil, Schritte, Handbewegungen und Rollenkörperlichkeit, damit das Wissen, das früher nur in Meister-Schüler-Beziehung und auf der Bühne floss, einen weiteren Weg zum Anschauen, Forschen und Lehren erhält. [^8]
 
-![Probe des Xinliang Opera Ensemble in Yilan, Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92%28%E4%BA%8C%29.jpg?width=960)
+![Probe des Zhuang San Xin Liang Letuan in Yilan, Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92%28%E4%BA%8C%29.jpg?width=960)
 
-_Bild: Probe des Xinliang Opera Ensemble in Yilan, Taiwan, Autor Dov, aufgenommen 2020, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), eingebettet von [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92(%E4%BA%8C).jpg._
+_Bild: Probe des Zhuang San Xin Liang Letuan in Yilan, Taiwan, Autor Dov, 2020 aufgenommen, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant), eingebettet über [Wikimedia Commons Dateiseite](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%AE%9C%E8%98%AD%E5%A3%AF%E4%B8%89%E6%96%B0%E6%B6%BC%E6%A8%82%E5%9C%98%E7%B7%B4%E7%BF%92(%E4%BA%8C).jpg>), nicht heruntergeladen oder verändert._
 
-Das Probenfoto holte die Weitergabe zurück zu dem Moment vor der Premiere. Die Proben, die in Yilan im Jahr 2020 gemacht wurden, waren keine abgeschlossene Aufführung, sondern das Schärfen von Tanzschritten, Rhythmus und gegenseitigem Verständnis durch wiederholte Übung[^5].
+Das Probenfoto holt die Weitergabe in den Moment vor der Aufführung zurück. Die 2020 in Yilan aufgenommene Probe ist keine fertige Darbietung, sondern der Prozess, in dem Darsteller durch wiederholtes Üben Körperbewegungen, Rhythmus und gegenseitiges Einverständnis herausarbeiten. [^5]
 
-Aber digitale Aufzeichnungen können nicht den Risiko des Körpers auf der Bühne ersetzen. Eine Kamera kann eine Handbewegung bewahren, aber sie kann dem Lernenden nicht das Gewicht vermitteln, das er erst nach langer Übungszeit spürt. Untertitel können dem Publikum helfen, die Handlung zu verfolgen, aber sie können nicht automatisch den Rhythmus des gegenseitigen Probespielens zwischen Künstler und Publikum generieren. Der Wert der Bewahrung liegt darin, diese Einschränkungen klar zu benennen, nicht darin, zu behaupten, ein Video sei gleichbedeutend mit abgeschlossener Weitergabe[^8].
+Doch digitale Aufzeichnung kann das Risiko des Körpers auf der Bühne nicht ersetzen. Die Kamera kann eine Wasserärmel-Bewegung bewahren, nicht aber dem Lernenden das Gewicht abnehmen, das sich erst nach langem Training erschließt. Untertitel können dem Publikum der Handlung folgen lassen, nicht aber den Rhythmus erzeugen, in dem Darsteller und Publikum sich gegenseitig antasten. Der Wert der Bewahrung liegt gerade darin, diese Grenzen deutlich zu machen, statt zu behaupten, ein Videoclip sei gleichbedeutend mit vollzogener Weitergabe. [^8]
 
-Die lokale Opernhaus-Opera aus Yilan wurde 2012 als wichtiges traditionelles darstellendes Kunstwerk registriert und das Xinliang Opera Ensemble als Bewahrerensemble bestimmt. Diese Entscheidung bewahrte nicht eine feste „alte Version“, sondern zeigte, woher die Opernhaus-Opera gewachsen ist: ein Tanzstück ohne Bühne, ohne Make-up, gespielt von Amateuren in Dörfern und Tempelhöfen[^5].
+Das Ben Di Gezai in Yilan wurde 2012 als wichtiges traditionelles darstellendes Kunstwerk registriert und der Zhuang San Xin Liang Letuan als Bewahrergruppe bestimmt. Diese Entscheidung bewahrt keine feste „uralte Version“, sondern lässt sehen, woher Gezai Xi gewachsen ist: ohne Bühne, ohne Schmink, als Gesangs- und Tanzstück, das von Amateuren aus dem Dorf auf Dorfplätzen und Tempelhöfen aufgeführt wurde. [^5]
 
-## Wo ist der nächste Tempelhof?
+## Wo ist der nächste Tempelhoff?
 
-Die Geschichte der Opernhaus-Opera war nie so einfach wie „Traditionlicher Niedergang, moderne Rettung“. Sie wurde manchmal als vulgär kritisiert und staatlich eingeschränkt. Sie ging vom Tempel in das Theater, vom Radio ins Fernsehen und vom Fernsehen ins Nationaltheater. Jeder neue Ort brachte ein neues Publikum und neue Kompromisse[^2][^3][^6].
+Die Geschichte des Gezai Xi war nie so einfach wie „Tradition verfällt, Moderne rettet“. Es wurde als vulgär kritisiert, vom Staat reglementiert. Es ging vom Tempelhoff ins Theater, vom Radio ins Fernsehen, vom Fernsehen ins nationale Theater. Jeder neue Ort brachte neue Zuschauer, aber auch neue Abwägungen. [^2] [^3] [^6]
 
-Das Paradoxon der Opernhaus-Opera ist: Sie bewahrte sich durch Veränderung. Sie wurde nicht zur taiwanesischen Theaterkunst, weil sie äußere Elemente ablehnte, sondern weil sie in Yilan die Zhangzhou-Opernhaus-Opera, Trommelstücke, lokale Volkslieder, andere Gattungen, den Taiwanesischen Umgangssprach und moderne Medien vermischte und langsam eine Stimme entwickelte, die von den Taiwanern erkannt werden konnte[^1][^4].
+Deshalb ist das Gegenintuitivste am Gezai Xi: Es bewahrt sich durch Veränderung. Es wurde nicht deshalb zur taiwanischen Oper, weil es fremde Elemente ablehnte, sondern weil es in Yilan Zhangzhou-Gezai, Chegu, lokale Volkslieder, andere Opernformen, taiwanisches Umgangssprache und moderne Medien mischte und langsam einen Klang hervorbrachte, den Taiwaner als ihren eigenen erkennen können. [^1] [^4]
 
-Wenn Sie das nächste Mal die Opernhaus-Opera am Tempelrand, im Theater oder in einem Online-Video sehen, achten Sie auf eine Kleinigkeit: Gibt es eine Reaktion vom Publikum nach einer Zeile des Künstlers? Diese Reaktion kann Lachen, Stille oder jemand sein, der endlich einen Satz Taiwanesisch verstanden hat. Ob die Opernhaus-Opera weitergehen kann, hängt letztlich davon ab, ob sie noch einen Ort hat, an dem diese Reaktion stattfinden kann.
+Wenn Sie das nächste Mal auf dem Tempelhoff, im Theater oder in Netzvideos auf Gezai Xi stoßen, achten Sie auf eine Kleinigkeit: Nachdem der Darsteller einen Satz gesungen hat – reagiert das Publikum? Diese Reaktion kann Lachen sein, Stille, oder dass jemand endlich einen taiwanischen Satz versteht. Ob Gezai Xi weitergehen kann, hängt letztlich davon ab, ob es noch Orte gibt, an denen solche Reaktionen stattfinden können.
 
-📝 Notiz des Kurators: Ein lebendiges Stück zu bewahren bedeutet nicht nur, das Bild zu behalten, sondern auch zu ermöglichen, dass der nächste Künstler vor dem Publikum eine Wahl treffen kann.
+📝 Kuratorische Notiz: Ein lebendiges Stück zu bewahren, heißt nicht nur, Bilder zu hinterlassen, sondern dem nächsten Darsteller zu ermöglichen, vor Publikum noch Entscheidungen zu treffen.
 
 ## Referenzen
 
-[^1]: [Opernhaus-Opera — Immaterielles Kulturerbe des Kulturministeriums](https://twh.boch.gov.tw/non_material/intro.aspx?id=746) — – Einführung in die Entstehung der Opernhaus-Opera in Yilan, _Luodisi_, Feldtheater und Innentheater, Rollencharaktere und Übertragungsweisen
+[^1]: [Gezai Xi — Immaterielles Kulturerbe der Kulturabteilung des Kulturministeriums](https://twh.boch.gov.tw/non_material/intro.aspx?id=746) — Einführung in die Entstehung des Gezai Xi in Yilan, Lodisao, Entwicklung von Yetai und Neitai, Rollentypen und Weitergabeweisen.
 
-[^2]: [Der unvollendete Weg hundertjähriger Opernhaus-Opern: Distanz verringern, Anziehungskraft formen — Nationales Zentrum für traditionelle Künste](https://magazine.ncfta.gov.tw/news_content2.aspx?n=1934&sms=11546&s=82171) — – Interviews mit Hong Ming-xue und Tsai Xin-xin zur Theatralisierung, den Einschränkungen während des Krieges, der Medienwende und den Dilemmata des modernen Publikums
+[^2]: [Der unvollendete Weg des hundertjährigen Gezai Xi: Distanz verkürzen, Anziehungskraft formen — Nationales Zentrum für traditionelle Künste](https://magazine.ncfta.gov.tw/news_content2.aspx?n=1934&sms=11546&s=82171) — Anhand von Interviews mit Hong Mingxue und Cai Xinxin Erläuterung der Theaterwerdung, Kriegsbeschränkungen, Medientransformation und zeitgenössischer Publikumsprobleme.
 
-[^3]: [Taiwan in Zeit: Ein Jahrhundert der taiwanesischen Opernhaus-Opera — Taipei Times](https://www.taipeitimes.com/News/feat/archives/2023/05/07/2003799303) — – Historische Darstellung durch Minghua Yuan und Chen Mingji über die Entwicklung der Opernhaus-Opera, staatliche Kontrollen während des Krieges und den Einfluss des Fernsehens
+[^3]: [Taiwan in Time: A century of Taiwanese opera — Taipei Times](https://www.taipeitimes.com/News/feat/archives/2023/05/07/2003799303) — Anhand der Geschichte von Ming Hwa Yuan und Chen Mingji Darstellung der Entwicklung des Gezai Xi, Kriegsreglementierung und Fernsehschocks.
 
-[^4]: [Opernhaus-Opera — Nationale Kulturgedächtnisbank](https://tcmb.culture.tw/zh-tw/detail?indexCode=BOCH_CountryCulture_41&id=20190124000001) — – Erläuterung der Inner-Theater-Phase in den 1920er Jahren, der Aneignung anderer Gattungen und der Entwicklung von _Luodisi_ zum Theater
+[^4]: [Gezai Xi — Nationales Kulturarchiv](https://tcmb.culture.tw/zh-tw/detail?indexCode=BOCH_CountryCulture_41&id=20190124000001) — Erläuterung der Neitai-Werdung in den 1920er Jahren, Aufnahme anderer Opernformen und der Evolutionskette vom Lodisao zum Theater.
 
-[^5]: [Lokale Opernhaus-Opera _Luodisi_ — Taiwan Theatrical Center](https://tttc.ncfta.gov.tw/home/zh-tw/activities/12428) — – Einführung in die lokale Form der Opernhaus-Opera aus Yilan mit Trommelstücken, das _Luodisi_-Format und die Registrierung als Kulturerbe im Jahr 2012
+[^5]: [Ben Di Gezai Lodisao — Taiwanisches Opernzentrum](https://tttc.ncfta.gov.tw/home/zh-tw/activities/12428) — Einführung in die Entstehung von Ben Di Gezai aus Gezai und Chegu in Yilan, die Lodisao-Form und die Kulturerbe-Registrierung 2012.
 
-[^6]: [Die wahre Bedeutung von Yang Li-hua als historische Figur — Reporter](https://www.twreporter.org/a/bookreview-yang-li-hua) — – Auszüge aus dem Gespräch zwischen den Gelehrten Su Shuo-bin und Wang Junqi über Yang Li-hua, die Opernhaus-Opera, Politik und Geschlecht
+[^6]: [Die wahre Bedeutung von Yang Lihua als Persönlichkeit ihrer Zeit — The Reporter](https://www.twreporter.org/a/bookreview-yang-li-hua) — Enthält Auszüge aus Gesprächen der Gelehrten Su Shuobin und Wang Junqi über Yang Lihua, Fernseh-Gezai Xi, politische und geschlechtliche Perspektiven.
 
-[^7]: [Yang Li-hua, eine erfahrene junge männliche Rolle der Opernhaus-Opera, als Bewahrerin des immateriellen Kulturerbes von Taipeh registriert — Kulturamt von Taipeh](https://culture.gov.taipei/News_Content.aspx?n=621F0409A1ABDD34&sms=72544237BBE4C5F6&s=4F00434052FBBAAA) — – Dokumentation der Auftritte, Lehre und Medien-/Theatererfahrungen von Yang Li-hua sowie die Registrierung als Bewahrerin im Jahr 2024
+[^7]: [Erfahrene Xiaosheng-Darstellerin Yang Lihua als Bewahrerin des immateriellen Kulturerbes der Stadt Taipeh registriert — Kulturamt der Stadtregierung Taipeh](https://culture.gov.taipei/News_Content.aspx?n=621F0409A1ABDD34&sms=72544237BBE4C5F6&s=4F00434052FBBAAA) — Dokumentation von Yang Lihuas Aufführungen, Lehrförderung, Medien- und Theatererfahrung sowie der Bewahrer-Registrierung 2024.
 
-[^8]: [„Kunst bewahrt, Generationen weitergegeben“: Veröffentlichung des Wissens zur Bewahrung der Opernhaus-Operakünstler und Mediendidaktik — Nationales Zentrum für traditionelle Künste](https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692) — – Erläuterung der Fähigkeitsdemonstrationen von Lin Mei-xiang, Chen Zhao-xiang und Zhang Xiuqin, die digitale Bewahrung und Lehrinhalte
+[^8]: [„Kunst bewahren, Generationen weitergeben“: Bewahrung der Künste von Gezai-Xi-Meistern und Ankündigung der Online-Lehrvideos — Nationales Zentrum für traditionelle Künste](https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692) — Erläuterung der Technikvorführungen von Lin Meixiang, Chen Zhaoxiang und Zhang Xiuqin, digitaler Bewahrung und Lehrinhalten.
 
-[^9]: [Studie über Yang Li-hua und ihre Opernhaus-Kunst — Taiwan Dissertation Knowledge Enhancement System](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22085THU00045014%22.&searchmode=basic) — – Zusammenfassung der Forschung zu Yang Li-hua, die die Entstehung der Opernhaus-Opera, die Form der Fernsehopernhaus-Opera, den künstlerischen Stil und den Einfluss abdeckt
-
-## Image sources
-
-- <https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%B0%B4%E4%B8%8A%E5%B8%9D%E5%BB%9F_34_%E6%96%B0%E6%96%87%E5%8C%96%E6%AD%8C%E4%BB%94%E6%88%B2%E5%9C%98.jpg>
-- <https://commons.wikimedia.org/wiki/File:%E8%96%AA%E5%82%B3%E6%AD%8C%E4%BB%94%E6%88%B2%E5%8A%87%E5%9C%98_(49115283087>
+[^9]: [Forschung zu Yang Lihua und ihrer Gezai-Xi-Kunst — Taiwan Thesis and Dissertation Knowledge Value-Added System](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22085THU00045014%22.&searchmode=basic) — Bereitstellung von Abstracts zu Yang-Lihua-Forschung, abdeckend Gezai-Xi-Entstehung, Fernseh-Gezai-Xi-Form, künstlerischer Stil und Einfluss.

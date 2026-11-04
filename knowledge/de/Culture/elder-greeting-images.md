@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T21:47:16.422967+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

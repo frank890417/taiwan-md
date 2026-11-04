@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-09-10T03:36:28+08:00'
+translatedAt: '2026-11-04T22:13:35.706901+00:00'
 ---
 
 > **30 Sekunden Überblick:** Die Entwicklung des Christentums in Taiwan ist ein langer Marathon vom „Missverständnis“ zum „Zusammenleben“. Im 19. Jahrhundert öffneten Missionare mit „einer Hand die Bibel, mit der anderen die Zange“ die Tür zur Gesellschaft. George Leslie Mackay zog allein mehr als 20.000 Zähne. Von der Unterdrückung durch die japanische Schreinveranstaltung während der Herrschaftszeit bis zur US-Hilfe „Mehl-Evangelisation“ nach dem Krieg, wurde diese Kraft schließlich während der Martialrechtszeit politisch. Die Reformierte Kirche veröffentlichte mutig die „Erklärung der Menschenrechte“ und wurde eine Stimme, die in der taiwanesischen Demokratisierung nicht ignoriert werden konnte. Heute sind die Mormonen, gekleidet in weiße Hemden und auf Fahrrädern sitzend, ein weiteres typisches Bild auf den Straßen Taiwans.

@@ -18,11 +18,13 @@ lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 8
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-04T22:20:09.250237+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Das Zhongyuan-Fest in Taiwan ist kein bloßes religiöses Ritual, sondern ein jahrhundertelanger „sozialer Friedensvertrag“. Die Härten der frühen Kolonisation und die blutigen Fehden zwischen den ethnischen Gruppen führten dazu, dass die Ureinwohner Mechanismen wie das Keelung-Mittelalterfest entwickelten, bei denen „der Wettbewerb anstelle des Kopfzerbrechens“ stattfand. Bei diesem Fest werden die „Außenstehenden“, die im Fremde gestorben sind, als „gute Brüder“ betrachtet, was die einzigartige Migrationsmilde und den sozialen Zusammenhalt Taiwans widerspiegelt.
