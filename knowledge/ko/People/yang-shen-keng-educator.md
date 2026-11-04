@@ -2,27 +2,31 @@
 title: '양심갑(楊深坑): 산소통 두 개를 들고 제자 구술시험에 나간 교육 철학자'
 description: '2020년 12월 13일, 양심갑은 대만대학병원에서 퇴원해 산소통 두 개를 지참하고 부인과 아들의 동반 아래 사범대학으로 가 박사과정 학생의 논문 구술시험을 맡았다. 8개월 후 그가 세상을 떠났는데, 그것이 생전 마지막 구술시험이었다. 아테네대학교 철학 박사, 교육부 최초 종신 국가강좌교수, 금정상(金鼎獎) 수상자인 그는 44년의 교육 경력으로 대만 교육 철학의 학문적 기초를 구축했다.'
 date: 2026-04-25
-tags:
-  - 교육
-  - 교육철학
-  - 비교교육
-  - 사범교육
-  - 학자
-  - 국가강좌
-  - 중정대학교
-  - 지난대학교
-subcategory: '教育與社會'
 category: 'People'
+tags:
+  [
+    '교육',
+    '교육철학',
+    '비교교육',
+    '사범교육',
+    '학자',
+    '국가강좌',
+    '중정대학교',
+    '지난대학교',
+  ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: People/楊深坑.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/楊深坑.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: 2026-05-01T22:19:01+08:00
+translatedAt: '2026-11-04T21:07:03.018428+00:00'
 ---
 
 > **30초 개요:** 양심갑(楊深坑, 1946-2021), 대만 교육 철학의 구축자. 아테네대학교 철학 박사, 교육부 최초 종신 국가강좌교수, 국가과학위원회(國科會) 우수연구상 4회 수상, 금정상(金鼎獎) 수상. 지난대학교 비교교육연구소를 창립하고 중정대학교 교육학원 학원장 겸 부총장을 역임했으며, 사범대학에서 근 40년간 '양문(楊門)' 학술 세미나를 주관했다. 석·박사 지도 학생이 100명을 넘는다. 2021년 8월 29일 대만대학병원에서 별세, 향년 76세.

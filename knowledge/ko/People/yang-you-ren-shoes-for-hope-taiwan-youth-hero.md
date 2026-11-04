@@ -2,9 +2,7 @@
 title: '양우임'
 description: '"구두 살리기 국제 그리스도 돌봄 협회" 창립자, 2017년 대한민국 10대 청년상 수상자, 한 장의 포스터로 10만 켤레의 중고 신발을 모아 동아프리카 어린이를 지원한 인물'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
     '타이완 소셜 엔터프라이즈',
@@ -14,14 +12,18 @@ tags:
     '아프리카 원조',
     '기독교 사역',
   ]
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
-translatedFrom: People/楊右任.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:e2ade2405e5fac3e
-sourceBodyHash: sha256:aeccc38efb53dc79
-translatedAt: 2026-05-16T05:07:55+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/楊右任.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
+sourceBodyHash: 'sha256:aeccc38efb53dc79'
+translatedAt: '2026-11-04T21:12:36.074101+00:00'
 ---
 
 # 양우임: 그래피티 중퇴생에서 아프리카 구두 살리기 운동가로
@@ -58,19 +60,19 @@ translatedAt: 2026-05-16T05:07:55+08:00
 
 ## 참고 문헌
 
-[^1]: [양우임 — 위키백과](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — 주요 생애 자료, 타오위안 출생, 호주 유학 및 신앙의 전환 포함.
+[^1]: [양요우런(楊右任) — 위키백과](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — 타오위안 출생, 호주 유학 및 신앙의 전환점을 포함한 주요 생애 자료.
 
-[^2]: [Step30 구두 살리기 — 공식 웹사이트](https://www.step30.org/) — 단체 소개, 사역 프로그램 및 연간 서비스 보고서.
+[^2]: [Step30 헌 신발 구호 활동 — 공식 웹사이트](https://www.step30.org/) — 조직 소개, 사역 계획 및 연례 서비스 보고서.
 
-[^3]: [구두 살리기 국제 그리스도 돌봄 협회 — 위키백과](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — 2014년 포스터 사건의 전말, 컨테이너 배분 기록.
+[^3]: [Step30 국제 기독교 구호 협회 — 위키백과](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — 2014년 포스터 사건의 전말, 컨테이너 배분 기록.
 
-[^4]: [104 박수 인터뷰 — 거리 불량배에서 10대 청년상까지](https://blog.104.com.tw/104bravo-step30-org-founder/) — 양우임의 인생 전환 이야기, Step30 명명 유래 및 '의존을 만들지 않는다' 이념 설명.
+[^4]: [104 쟝셩 인터뷰 — 거리의 불량 청소년에서 10대 우수 청년까지](https://blog.104.com.tw/104bravo-step30-org-founder/) — 양요우런의 인생 전환점 이야기, Step30 명칭의 유래 및 '의존을 만들지 않는다'는 이념 설명.
 
-[^5]: [Step30 공식 사이트 — 프로그램 소개](https://www.step30.org/) — 흥학, 활수, 사랑·소녀, 농업 자립 네 가지 프로그램 설명.
+[^5]: [Step30 공식 웹사이트 — 프로젝트 소개](https://www.step30.org/) — 교육 진흥, 생명수, 사랑·소녀, 농업 자립의 네 가지 프로젝트 설명.
 
-[^6]: [10대 청년상 교류회](https://www.youth.org.tw/) — 2017년 양우임의 10대 청년상 수상 확인.
+[^6]: [10대 우수 청년 연맹](https://www.youth.org.tw/) — 2017년 양요우런의 10대 우수 청년 선정 확인.
 
-[^7]: 《너에게 5만 켤레의 축복을》— 블로그투어](https://www.books.com.tw/products/0010806227) — 양우임 저서(캠퍼스서재, 2018), 구두 살리기 창립 과정과 아프리카 사역의 심적 여정 기록.
+[^7]: [《당신에게 5만 켤레의 축복을》 — 북센(博客來)](https://www.books.com.tw/products/0010806227) — 양요우런 저서(교내서방, 2018), 헌 신발 구호 활동 창립 과정과 아프리카 사역의 심경 기록.
 
 ## 더 읽을거리
 

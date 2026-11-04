@@ -1,20 +1,23 @@
 ---
 title: '조자강: 난릉극방의 계몽에서 과할머니 앞치마 아래 항복하지 않는 영혼까지'
 description: '1984년, 조자강은 「연간 무료」라는 광고를 보고 난릉극방에 입단하며 극장, 영화·TV, 아동 예술을 아우르는 전설적인 경력을 시작했다. 그는 「과할머니(水果奶奶)」라는 캐릭터로 수많은 아이들의 어린 시절을 따뜻하게 감싸주었지만, 현실에서는 「만약아동극단(如果兒童劇團)」을 설립하고 수천만 원의 부채를 지며, 팬데믹과 재정 위기 속에서도 「절대 항복하지 않는」 강인한 정신을 보여주었다. 이것은 한 공연자가 30년의 세월을 바쳐 대만 아이들의 꿈을 지켜낸 깊고도 진지한 실천이다.'
-category: People
+date: 2026-04-25
+category: 'People'
 tags:
   ['조자강', '과할머니', '만약아동극단', '난릉극방', '아동 예술', '대만 문화']
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
-date: 2026-04-25
-readingTime: 12
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: People/趙自強.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/趙自強.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T21:17:57.958598+00:00'
 ---
 
 > **30초 개요:**
