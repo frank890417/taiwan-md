@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣有哪些動物園.md'
-sourceCommitSha: '287389ecc'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:39eab6090a3c571e'
 sourceBodyHash: 'sha256:831b02af043591c7'
-translatedAt: '2026-09-12T09:12:49+08:00'
+translatedAt: '2026-11-04T17:53:58.834216+00:00'
 ---
 
 # Welche Zoos gibt es in Taiwan: Der älteste ist nicht in Muzha, der größte ist auch nicht nur ein Zoo

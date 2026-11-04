@@ -1,6 +1,6 @@
 ---
-title: 'Demokratisches System: Von der Aufhebung des Kriegsrechts 1987 bis zu Lai Ching-te 2024 – Koordinaten von 37 Jahren taiwanesischer Demokratie'
-description: 'Taiwan erlebte nach der Verhängung des Kriegsrechts 1949 38 Jahre autoritäre Herrschaft; am 15. Juli 1987 wurde das Kriegsrecht aufgehoben, 1996 fand die erste Direktwahl des Präsidenten statt (Lee Teng-hui), 2000 der erste friedliche Machtwechsel (Chen Shui-bian). Am 17. Mai 2019 wurde Taiwan als erster Ort Asiens die gleichgeschlechtliche Ehe legalisiert. Am 13. Januar 2024 wurde Lai Ching-te mit 5,58 Millionen Stimmen (40,05 %) zum 16. Präsidenten gewählt, die DPP erzielte erstmals drei Siege in Folge bei Präsidentschaftswahlen; die KMT gewann bei der gleichzeitigen Parlamentswahl 52 Sitze und wurde wieder stärkste Fraktion, die DPP 51 Sitze, die TPP 8 Sitze – keine Partei verfügt über eine absolute Mehrheit.'
+title: 'Demokratisches System: Von der Aufhebung des Kriegsrechts 1987 bis zu Lai Ching-te 2024 – Die Koordinaten von Taiwans Demokratie in 37 Jahren'
+description: 'Taiwan erlebte nach 38 Jahren autoritärer Herrschaft unter Kriegsrecht (ab 1949) die Aufhebung des Kriegsrechts am 15. Juli 1987, die erste Direktwahl des Präsidenten (Lee Teng-hui) 1996 und den ersten Regierungswechsel (Chen Shui-bian) im Jahr 2000. 2019 wurde Taiwan zum ersten Gebiet in Asien mit legalisierter gleichgeschlechtlicher Ehe. Am 13. Januar 2024 wurde Lai Ching-te mit 40,05 % (5,58 Millionen Stimmen) zum 16. Präsidenten gewählt, was den ersten Dreierfolg der DPP markiert; die KMT wurde stärkste Fraktion im Legislativ-Yuan (52 Sitze), gefolgt von der DPP (51 Sitze) und der TPP (8 Sitze), sodass keine Partei die absolute Mehrheit hält.'
 date: 2026-03-17
 category: 'Society'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Gesellschaft',
     'Demokratisierung',
     'Aufhebung des Kriegsrechts',
-    'Direktwahl des Präsidenten',
-    'Machtwechsel',
+    'Präsidentschaftsdirektwahl',
+    'Regierungswechsel',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md'
@@ -18,77 +18,79 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 created: 2026-03-17
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/民主制度.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:f55314385d9caf18'
-sourceBodyHash: 'sha256:7661cd6b847cb615'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a8881c70e208776a'
+sourceBodyHash: 'sha256:aa50a47b41dff196'
+translatedAt: '2026-11-05T01:17:32+08:00'
 ---
 
-# Demokratisches System: Von der Aufhebung des Kriegsrechts 1987 bis zu Lai Ching-te 2024 – Koordinaten von 37 Jahren taiwanesischer Demokratie
+# Demokratisches System: Von der Aufhebung des Kriegsrechts 1987 bis zu Lai Ching-te 2024 – Die Koordinaten von Taiwans Demokratie in 37 Jahren
 
-> **30-Sekunden-Überblick:** Taiwan erlebte nach der Verhängung des Kriegsrechts 1949 38 Jahre autoritäre Herrschaft; nach der Aufhebung des Kriegsrechts am 15. Juli 1987 wurde der Demokratisierungsprozess eingeleitet[^1]. Durch die erste Direktwahl des Präsidenten 1996 (Lee Teng-hui) und den ersten friedlichen Machtwechsel 2000 (Chen Shui-bian) wurde ein vollständiges demokratisches Verfassungswesen etabliert[^2]. Am 17. Mai 2019 wurde Taiwan als erster Ort Asiens die gleichgeschlechtliche Ehe legalisiert[^3]. Am 13. Januar 2024 wurden Lai Ching-te mit 5,58 Millionen Stimmen (40,05 %) und Hsiao Bi-khim als 16. Präsident und Vizepräsidentin gewählt[^4]; die DPP erzielte erstmals drei Siege in Folge bei Präsidentschaftswahlen; bei der am selben Tag gewählten Legislativ-Yuan erhielt die KMT 52 Sitze und wurde wieder stärkste Fraktion, die DPP 51 Sitze, die TPP 8 Sitze – keine der drei Parteien verfügt über eine absolute Mehrheit[^5].
+> **30-Sekunden-Überblick:** Taiwan erlebte nach dem Beginn des Kriegsrechts im Jahr 1949 eine 38-jährige autoritäre Herrschaft. Nach der Aufhebung des Kriegsrechts am 15. Juli 1987 wurde der Demokratisierungsprozess eingeleitet[^1]. Durch die erste Direktwahl des Präsidenten im Jahr 1996 (Lee Teng-hui) und den ersten Regierungswechsel im Jahr 2000 (Chen Shui-bian) wurde ein vollständiges demokratisches Verfassungssystem etabliert[^2]. Am 17. Mai 2019 wurde Taiwan zum ersten Gebiet in Asien, in dem die gleichgeschlechtliche Ehe legalisiert wurde[^3]. Am 13. Januar 2024 wurden Lai Ching-te mit 5,58 Millionen Stimmen (40,05 %) und Hsiao Bi-khim als 16. Präsident und Vizepräsident gewählt[^4], womit die DPP zum ersten Mal drei aufeinanderfolgende Präsidentschaftswahlen gewann. Bei der am selben Tag stattfindenden Wahl zum Legislativ-Yuan wurde die KMT mit 52 Sitzen wieder zur stärksten Partei, gefolgt von der DPP mit 51 Sitzen und der TPP mit 8 Sitzen, sodass keine der drei Parteien über eine absolute Mehrheit verfügt[^5].
 
-## Vom Autoritarismus zur Demokratie: Historisches Vorbild friedlicher Transformation
+## Von der Autokratie zur Demokratie: Ein historisches Vorbild für friedliche Transformationen
 
-Vom Kriegsrecht 1949 bis zu dessen Aufhebung 1987 durchlief Taiwan eine für chinesischsprachige Gesellschaften seltene friedliche demokratische Transformation. Dieser Pfad wird von vielen Entwicklungsländern als wichtiges Referenzmodell angesehen; gleichzeitig sicherte die Etablierung demokratischer Institutionen die Grundrechte der taiwanesischen Bevölkerung und wurde zum Kern der taiwanesischen Identität und des Wertesystems.
+Von der Einführung des Kriegsrechts 1949 bis zu dessen Aufhebung 1987 durchlief Taiwan eine für chinesisch geprägte Gesellschaft seltene friedliche demokratische Transformation. Dieser Pfad gilt in vielen Entwicklungsländern als wichtiges Referenzmodell; gleichzeitig sicherte die Etablierung des demokratischen Systems die Grundrechte der taiwanesischen Bevölkerung und wurde zum Kern der taiwanesischen Identität und Werteordnung.
 
-## Sieben Schlüsselstationen
+## Sieben entscheidende Meilensteine
 
-Die Demokratisierung Taiwans begann in den 1980er Jahren mit der politischen Liberalisierung und durchlief entscheidende Phasen: Aufhebung des Kriegsrechts, Aufhebung des Parteien- und Zeitungsverbots, Gesamterneuerung des Parlaments, Einführung der Direktwahl des Präsidenten. Trotz Herausforderungen führte der Prozess durch die Weisheit politischer Eliten und die Beteiligung der Bevölkerung letztlich zur Errichtung eines verfassungsmäßigen Systems mit Gewaltenteilung in fünf Gewalten (Exekutive, Legislative, Judikative, Prüfungsbehörde, Kontrollbehörde) und zur Vollziehung mehrerer friedlicher Machtwechsel.
+Die Demokratisierung Taiwans begann mit der politischen Liberalisierung in den 1980er Jahren und durchlief entscheidende Phasen wie die Aufhebung des Kriegsrechts, die Zulassung politischer Parteien und Pressefreiheit, die vollständige Neugewahl des Parlaments sowie die Direktwahl des Präsidenten. Trotz Herausforderungen wurden durch das Geschick der politischen Elite und die Beteiligung der Bevölkerung letztlich ein Verfassungssystem mit der Gewaltenteilung in fünf Gewalten (Exekutive, Legislative, Judikative, Prüfung und Kontrolle) geschaffen und mehrere friedliche Machtwechsel vollzogen.
 
-Sieben Schlüsselstationen markieren die Koordinaten dieser Entwicklung: Am 15. Juli 1987 verkündete Chiang Ching-kuo die Aufhebung des Kriegsrechts und beendete 38 Jahre Kriegsrechtsherrschaft; 1996 fand die erste Direktwahl des Präsidenten statt, Lee Teng-hui wurde erster direkt gewählter Präsident; 2000 wurde Chen Shui-bian von der DPP zum Präsidenten gewählt und der erste friedliche Machtwechsel realisiert; 2008 kehrte die KMT unter Ma Ying-jeou an die Macht zurück und etablierte den Parteienwechsel als Normalität; 2016 wurde Tsai Ing-wen von der DPP zur ersten Präsidentin gewählt; am 13. Januar 2024 wurde Lai Ching-te (DPP) mit 5,58 Millionen Stimmen (40,05 %) zum 16. Präsidenten und Hsiao Bi-khim zur Vizepräsidentin gewählt, die DPP erzielte erstmals drei Siege in Folge bei Präsidentschaftswahlen[^4]; bei der gleichzeitig stattfindenden Parlamentswahl erhielt die KMT 52 Sitze (wieder stärkste Fraktion), die DPP 51 Sitze (Verlust der absoluten Mehrheit), die TPP 8 Sitze – es entstand eine neue politische Konstellation ohne absolute Mehrheit[^5].
+Die sieben entscheidenden Meilensteine bilden die Koordinaten dieses Pfades: 15. Juli 1987 – Chiang Ching-kuo verkündet die Aufhebung des Kriegsrechts und beendet die 38-jährige militärische Herrschaft; 1996 – erste Direktwahl des Präsidenten, bei der Lee Teng-hui als erster direkt gewählter Präsident in Amt gewählt wird; 2000 – Chen Shui-bian (DPP) wird Präsident und realisiert den ersten friedlichen Regierungswechsel; 2008 – Ma Ying-jeou (KMT) kehrt an die Macht zurück und etabliert den Regierungswechsel als Normalität; 2016 – Tsai Ing-wen (DPP) wird gewählt und ist die erste Frau im Amt des Präsidenten; 13. Januar 2024 – Lai Ching-te (DPP) wird mit 5,58 Millionen Stimmen (40,05 %) zum 16. Präsidenten gewählt, zusammen mit seinem Vizepräsidenten Hsiao Bi-khim, was den ersten Dreierfolg der DPP markiert[^4]; am selben Tag gewinnt die KMT die Wahl zum Legislativ-Yuan mit 52 Sitzen (wieder stärkste Partei), die DPP erhält 51 Sitze (Verlust der Mehrheit) und die TPP 8 Sitze, was zu einer neuen Konstellation führt, in der keine Partei die absolute Mehrheit hält[^5].
 
-## Autoritäre Herrschaftsperiode
+## Die Ära der autoritären Herrschaft
 
-Das Kriegsrechtssystem (1949–1987) bildet den Ausgangshintergrund der taiwanesischen Demokratisierung. Nach der Verlegung der Nationalregierung nach Taiwan wurde das Kriegsrechtsdekret erlassen, das Versammlungs-, Vereins-, Meinungs- und Pressefreiheit einschränkte und eine Einparteienherrschaft etablierte. Während des Weißen Terrors ereigneten sich der 228-Zwischenfall, der Kaohsiung-Zwischenfall (Formosa-Zwischenfall) und andere politische Verfolgungen, die gesellschaftliche Traumata verursachten, aber auch die Demokratisierungsbewegung antrieben.
+Das System des Kriegsrechts (1949–1987) bildete den Hintergrund für den Beginn der Demokratisierung Taiwans. Nach der Verlegung der Nationalregierung nach Taiwan wurde das Kriegsrecht verhängt, welches Versammlungsfreiheit, Vereinigungsfreiheit sowie die Meinungs- und Pressefreiheit einschränkte und eine Einparteienherrschaft etablierte. Während des „Weißen Terrors“ kam es zu politischer Verfolgung wie dem 228-Zwischenfall und dem Meilidao-Zwischenfall, was soziale Traumata verursachte, aber auch die Dynamik für die Demokratisierung entfachte.
 
-Die wirtschaftliche Entwicklung legte das Fundament für die Demokratisierung: Das rasche Wirtschaftswachstum in den 1960er bis 1980er Jahren formte eine Mittelschicht, die Bildungsausweitung steigerte das politische Bewusstsein. Internationaler Druck – der Austritt aus den Vereinten Nationen, der Bruch der diplomatischen Beziehungen mit den USA und andere diplomatische Rückschläge – zwang die Machthaber, über die Notwendigkeit politischer Reformen nachzudenken.
+Die wirtschaftliche Entwicklung legte das Fundament für die Demokratisierung: Das schnelle Wirtschaftswachstum der 1960er bis 1980er Jahre förderte eine Mittelschicht, und die allgemeine Bildung steigerte das Bewusstsein für politische Teilhabe. Internationaler Druck, einschließlich diplomatischer Rückschläge wie dem Ausschluss aus den Vereinten Nationen und dem Abbruch der diplomatischen Beziehungen zu den USA, zwang die Machthaber zur Überlegung politischer Reformen.
 
-## Demokratischer Transformationsprozess
+## Der Prozess der demokratischen Transformation
 
-Phase der politischen Liberalisierung (1980er Jahre): Ausgangspunkt waren die politischen Reformen in Chiang Ching-kuos späten Jahren, die den Raum für außerparlamentarische Aktivitäten öffneten; 1986 wurde die DPP gegründet und durchbrach das Parteienverbot. Der Kaohsiung-Zwischenfall (1979) führte zwar zur Inhaftierung von Demokratieaktivisten, doch die Gerichtsverhandlungen weckten die gesellschaftliche Unterstützung für die Demokratie.
+Die Phase der politischen Liberalisierung (1980er Jahre) begann mit den politischen Reformen in den späten Jahren von Chiang Ching-kuo, die Raum für Aktivitäten außerhalb der Regierungspartei schufen; 1986 markierte die Gründung der DPP einen Durchbruch gegen das Parteienverbot. Obwohl der Meilidao-Zwischenfall (1979) zur Inhaftierung von Demokratieaktivisten führte, weckten die Prozesse während der Gerichtsverhandlungen die gesellschaftliche Unterstützung für die Demokratie.
 
-Institutionalisierungsphase (1990er Jahre): Lee Teng-hui trieb die „stille Revolution“ voran und erreichte durch Verfassungsänderungen die Gesamterneuerung des Parlaments, die Direktwahl von Gouverneuren und Bürgermeistern sowie die Direktwahl des Präsidenten. Die Präsidentschaftsdirektwahl 1996 fand unter militärischer Bedrohung durch die VR China statt; die taiwanesische Bevölkerung demonstrierte mit hoher Wahlbeteiligung ihren Willen zur Demokratie.
+Die Phase der Institutionalisierung (1990er Jahre): Lee Teng-hui trieb eine „stille Revolution“ voran und realisierte durch Verfassungsänderungen Reformen wie die vollständige Neugewahl des Parlaments, die Direktwahl von Provinz- und Stadtbürgermeistern sowie die Präsidentschaftsdirektwahl. Angesichts militärischer Drohungen der VR China während der Präsidentschaftswahl 1996 demonstrierten die Menschen in Taiwan durch eine hohe Wahlbeteiligung ihre Entschlossenheit für die Demokratie.
 
-Konsolidierungsphase (2000er Jahre bis heute): Es wurden mehrere friedliche Machtwechsel realisiert, das demokratische System reifte allmählich. Die Sonnenblumen-Bewegung (2014) zeigte die Kraft der Zivilgesellschaft bei der Kontrolle der Regierung[^6]; die Legalisierung der gleichgeschlechtlichen Ehe (17. Mai 2019) machte Taiwan zum ersten Ort Asiens mit Ehegleichheit[^3]. Die Wahl 2024 markierte den ersten Fall in der taiwanesischen Demokratiegeschichte, dass dieselbe Partei drei Präsidentschaftswahlen in Folge gewann, gleichzeitig entstand mit dem Fehlen einer absoluten Mehrheit im Legislativ-Yuan eine neue politische Struktur[^4][^5].
+Die Phase der Konsolidierung (2000er bis heute): Mehrere Regierungswechsel wurden vollzogen, und das demokratische System reifte stetig. Die Sonnenblumen-Bewegung (2014) zeigte die Kraft der Zivilgesellschaft bei der Überwachung der Regierung[^6]; die Legalisierung der gleichgeschlechtlichen Ehe (17. Mai 2019) machte Taiwan zum ersten Gebiet in Asien mit legalisierter gleichgeschlechtlicher Ehe[^3]. Die Wahl 2024 markierte das erste Mal in der Geschichte Taiwans, dass eine Partei drei Präsidentschaftswahlen in Folge gewann, während gleichzeitig ein Legislativ-Yuan entstand, in dem keine Partei die absolute Mehrheit hält, was eine neue politische Struktur schuf[^4][^5].
 
-## Fünf-Gewalten-Trennung und halbpräsidentielles System
+## Gewaltenteilung und semipräsidentielles System
 
-Die Fünf-Gewalten-Verfassung basiert auf Sun Yat-sens Theorie der Fünf-Gewalten-Trennung und sieht Exekutiv-Yuan, Legislativ-Yuan, Judikativ-Yuan, Prüfungs-Yuan und Kontroll-Yuan vor. Nach mehreren Verfassungsänderungen wurden die Präsidialbefugnisse erweitert, wodurch ein halbpräsidentielles System mit taiwanesischen Charakteristika entstand; der Legislativ-Yuan ist das höchste Gesetzgebungsorgan und wird nach einem Einpersonenwahlkreis-Zweistimmen-System gewählt. Die lokale Selbstverwaltung gliedert sich in drei Ebenen: Zentralregierung, regierungsunmittelbare Städte/Counties, Gemeinden/Stadtbezirke; Bürgermeister regierungsunmittelbarer Städte und County-Hauptleute werden direkt gewählt. Beim Volksabstimmungssystem senkte eine Gesetzesänderung 2018 die Hürden und stärkte die Funktion der direkten Demokratie.
+Die Verfassung folgt der Theorie der fünf Gewalten von Sun Yat-sen und sieht die Exekutive, Legislative, Judikative, Prüfung (Examination Yuan) und Kontrolle (Control Yuan) vor. Durch mehrere Verfassungsreformen wurden die Befugnisse des Präsidenten erweitert, was zu einem für Taiwan charakteristischen semipräsidentiellen System führte. Der Legislativ-Yuan ist das höchste Gesetzgebungsorgan und nutzt ein Mehrpersonenwahlrecht in Einpersonenwahlkreisen (Single-Member District Two-Vote System). Die lokale Selbstverwaltung umfasst drei Ebenen: die Zentralregierung, die direkt verwalteten Städte/Landkreise sowie die Gemeinden (Townships/Districts); Bürgermeister der direkt verwalteten Städte und Landkreise werden direkt vom Volk gewählt. Im Bereich der Volksabstimmungen senkte eine Gesetzesänderung 2018 die Hürden, was die Funktion der direkten Demokratie stärkte.
 
-## Zwei Großparteien, Kleinparteien und Netzpolitik
+## Zwei große Parteien, kleine Parteien und digitale Politik
 
-KMT und DPP sind die beiden großen Parteien, die unterschiedliche Positionen in der Cross-Strait-Beziehung vertreten. Die PFP, TSU, NPP und andere Kleinparteien übten in bestimmten Phasen entscheidenden Einfluss aus. Das Wahlsystem – Einpersonenwahlkreis-Zweistimmen-System – begünstigt Großparteien, doch das Parteilisten-System sichert Kleinparteien Raum. Die politische Kultur wandelte sich von einer Gehorsamskultur der autoritären Ära zu einer Teilhabekultur; die Zivilgesellschaft blüht auf; soziale Medien veränderten die Muster politischer Mobilisierung, der Umgang mit Desinformation wurde zu einer neuen Herausforderung demokratischer Governance.
+Die KMT und die DPP sind die beiden Hauptparteien, die jeweils unterschiedliche Positionen in den Beziehungen zwischen beiden Seiten der Taiwanstraße vertreten. Kleinere Parteien wie die PFP, die TSU oder die New Power Party übten in bestimmten Zeiten entscheidenden Einfluss aus. Das Wahlsystem begünstigt durch das Mehrpersonenwahlrecht zwar große Parteien, lässt aber durch das System der Parteienstimmen Raum für kleinere Parteien. Die politische Kultur wandelte sich von einer Kultur des Gehorsams in der autoritären Ära zu einer Kultur der Partizipation, wobei die Zivilgesellschaft florierte; soziale Medien veränderten die Muster der politischen Mobilisierung, und der Umgang mit Desinformation wurde zu einer neuen Herausforderung für die demokratische Governance.
 
-## Vereinigungs-/Unabhängigkeitsstreit, Generationenunterschiede, digitale Governance
+## Streitfragen um Unabhängigkeit/Einheit, Generationenunterschiede und digitale Governance
 
-Die Cross-Strait-Beziehungen beeinflussen weiterhin die demokratische politische Entwicklung; der Streit um Vereinigung oder Unabhängigkeit spaltet die Gesellschaft fortwährend. Der aufkommende Populismus untergräbt rationale politische Diskussionen; Generationenunterschiede führen zu einer wachsenden Kluft zwischen den Wertvorstellungen und dem Wahlverhalten jüngerer und älterer Generationen. Reformbedarf besteht bei Parlamentsreform, Justizreform, Verfassungsreform, um gesellschaftlichen Erwartungen zu entsprechen. Im Bereich digitale Governance werden Open Government, elektronische Partizipation und neue Ansätze vorangetrieben, mit dem Ziel, die Demokratiequalität zu steigern.
+Die Beziehungen zwischen beiden Seiten der Taiwanstraße beeinflussen kontinuierlich die Entwicklung der demokratischen Politik; die Debatte über Unabhängigkeit versus Vereinigung spaltet weiterhin die Gesellschaft. Der Aufstieg des Populismus beeinträchtigt die rationale politische Diskussion, und Generationenunterschiede führen dazu, dass sich die Werte und das Wahlverhalten der jüngeren Generation zunehmend von denen der Älteren unterscheiden. Reformbedarf besteht unter anderem in der Parlaments-, Justiz- und Verfassungsreform, um gesellschaftlichen Erwartungen gerecht zu werden. Auf Ebene der digitalen Governance werden neue Ansätze wie Open Government und elektronische Partizipation vorangetrieben, mit dem Ziel, die Qualität der Demokratie zu erhöhen.
 
-## Freedom House stuft Taiwan als „frei“ ein: Taiwans internationale Position
+## Einstufung als freies Land durch Freedom House: Taiwans internationale Positionierung
 
-Taiwan wird als „demokratisches Wunder“ bezeichnet; Institutionen wie Freedom House stufen es langfristig als „frei“ ein[^7]. Taiwan engagiert sich aktiv in der internationalen Demokratieförderung, teilt Demokratisierungserfahrungen und macht Demokratie, Menschenrechte und Rechtsstaatlichkeit zu den Kernwerten seiner Diplomatie[^8].
+Taiwan wird oft als „demokratisches Wunder“ bezeichnet und von Institutionen wie Freedom House dauerhaft als „freies“ Land eingestuft[^7]. Taiwan beteiligt sich zudem aktiv an der internationalen Förderung der Demokratie, teilt seine Erfahrungen der Demokratisierung und macht Demokratie, Menschenrechte und Rechtsstaatlichkeit zu Kernwerten seiner Außenpolitik[^8].
 
 ## Referenzen
 
-[^1]: [Wikipedia: Demokratisierung Taiwans](https://zh.wikipedia.org/wiki/臺灣民主化) — – Vollständiger Verlauf von der Kriegsrechtszeit zur Demokratisierung Taiwans, Bestätigung der Aufhebung des Kriegsrechts am 15. Juli 1987 (38 Jahre Kriegsrecht), der außerparlamentarischen Bewegung und des Kaohsiung-Zwischenfalls als Schlüsselstationen
+[^1]: [Wikipedia: Demokratisierung Taiwans](https://zh.wikipedia.org/wiki/臺灣民主化) — Der vollständige Prozess von der Kriegszeit bis zur Demokratisierung, einschließlich der Aufhebung des Kriegsrechts am 15. Juli 1987 (38 Jahre Kriegsrecht), der Oppositionsparteien-Bewegung und des Meilidao-Zwischenfalls.
 
-[^2]: [Wikipedia: Präsidentschaftswahlen der Republik China](https://zh.wikipedia.org/zh-hant/中華民國總統及副總統在臺灣之公民直接選舉與罷免) — – Bestätigung der historischen Aufzeichnungen zur ersten Präsidentschaftsdirektwahl 1996 (Lee Teng-hui) und zum ersten friedlichen Machtwechsel 2000 (Chen Shui-bian)
+[^2]: [Wikipedia: Präsidentschaftswahlen der Republik China](https://zh.wikipedia.org/zh-hant/中華民國總統及副總統在臺灣之公民直接選舉與罷免) — Historische Aufzeichnungen zur ersten Direktwahl des Präsidenten 1996 (Lee Teng-hui) und zum ersten Regierungswechsel im Jahr 2000 (Chen Shui-bian).
 
-[^3]: [Wikipedia: Gleichgeschlechtliche Ehe in Taiwan](https://zh.wikipedia.org/wiki/台灣同性婚姻) — – Bestätigung, dass Taiwan am 17. Mai 2019 als erster Ort Asiens die gleichgeschlechtliche Ehe legalisierte
+[^3]: [Wikipedia: Gleichgeschlechtliche Ehe in Taiwan](https://zh.wikipedia.org/wiki/台灣同性婚姻) — Bestätigung, dass Taiwan am 17. Mai 2019 das erste Gebiet in Asien mit legalisierter gleichgeschlechtlicher Ehe wurde.
 
-[^4]: [Central News Agency: Bericht zur Wahl Lai Ching-tes bei der Präsidentschaftswahl 2024 (2024-01-13)](https://www.cna.com.tw/news/aipl/202401135011.aspx) — – Bestätigung, dass Lai Ching-te mit 5,58 Millionen Stimmen (40,05 %) und Hsiao Bi-khim als 16. Präsident und Vizepräsidentin gewählt wurden, die DPP erstmals drei Siege in Folge bei Präsidentschaftswahlen erzielte
+[^4]: [CNA: Bericht über die Wahl von Lai Ching-te zur Präsidentschaft 2024 (13.01.2024)](https://www.cna.com.tw/news/aipl/202401135011.aspx) — Bestätigung, dass Lai Ching-te mit 5,58 Millionen Stimmen (40,05 %) zusammen mit Hsiao Bi-khim zum 16. Präsidenten und Vizepräsidenten gewählt wurde, was den ersten Dreierfolg der DPP markiert.
 
-[^5]: [The Reporter: Grafiken zu den Wahlergebnissen 2024](https://www.twreporter.org/a/2024-election-results-chart) — – Bestätigung der Sitzverteilung im Legislativ-Yuan: KMT 52 Sitze (wieder stärkste Fraktion), DPP 51 Sitze, TPP 8 Sitze, keine Partei mit absoluter Mehrheit
+[^5]: [The Reporter: Diagramme zu den Wahlergebnissen 2024](https://www.twreporter.org/a/2024-election-results-chart) — Bestätigung der Sitze im Legislativ-Yuan: KMT 52 Sitze (wieder stärkste Partei), DPP 51 Sitze, TPP 8 Sitze; keine Partei hält die absolute Mehrheit.
 
-[^6]: [Wikipedia: Sonnenblumen-Bewegung](https://zh.wikipedia.org/wiki/太陽花學生運動) — – Ablauf der Sonnenblumen-Bewegung 2014, Aufzeichnung des Schlüsselereignisses der zivilgesellschaftlichen Kontrolle der Regierung
+[^6]: [Wikipedia: Sonnenblumen-Bewegung](https://zh.wikipedia.org/wiki/太陽花學生運動) — Dokumentation des Verlaufs der Sonnenblumen-Bewegung 2014 als Schlüsselereignis der zivilgesellschaftlichen Überwachung der Regierung.
 
-[^7]: [Freedom House: Taiwans Freiheitsbewertung](https://freedomhouse.org/country/taiwan) — – Taiwan wird langfristig als „frei“ eingestuft, liefert internationale Bewertungsdaten zur Demokratiequalität
+[^7]: [Freedom House: Freiheitsstatus Taiwans](https://freedomhouse.org/country/taiwan) — Internationale Bewertung der demokratischen Qualität, die Taiwan dauerhaft als „freies“ Land einstuft.
 
-[^8]: [Wikipedia: Politik der Republik China (Taiwan)](https://zh.wikipedia.org/wiki/中華民國（臺灣）政治) — – Enthält vollständige Erläuterung des taiwanesischen politischen Systems: Fünf-Gewalten-Verfassung, halbpräsidentielles System, Wahlsystem des Legislativ-Yuan
+[^8]: [Wikipedia: Politik der Republik China (Taiwan)](https://zh.wikipedia.org/wiki/中華民國（臺灣）政治) — Umfassende Erläuterungen zum politischen System Taiwans, einschließlich der fünf Gewalten, des semipräsidentiellen Systems und des Wahlsystems des Legislativ-Yuans.
 
-**Weiterführende Literatur**: [Demokratisierung Taiwans — Wikipedia](https://zh.wikipedia.org/wiki/臺灣民主化) ｜ [Präsidentschaftswahl in der Republik China 2024 — Wikipedia](https://zh.wikipedia.org/wiki/2024年中華民國總統選舉) ｜ [Freedom House Taiwan-Bewertung](https://freedomhouse.org/country/taiwan)
+**Weiterführende Literatur**: [Demokratisierung Taiwans — Wikipedia](https://zh.wikipedia.org/wiki/臺灣民主化) ｜ [Präsidentschaftswahlen der Republik China 2024 — Wikipedia](https://zh.wikipedia.org/wiki/2024年中華民國總統選舉) ｜ [Freedom House Bewertung für Taiwan](https://freedomhouse.org/country/taiwan)
 
 ## Verwandte Themen
 
-- [Menschenrechte und Geschlechtergleichstellung](/de/society/human-rights-and-gender-equality)
+- [Menschenrechte und Gleichstellung der Geschlechter](/de/society/human-rights-and-gender-equality)

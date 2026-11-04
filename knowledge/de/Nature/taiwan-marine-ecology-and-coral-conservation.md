@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T18:05:25.874469+00:00'
 ---
 
 # Marineökologie und Korallenschutz in Taiwan

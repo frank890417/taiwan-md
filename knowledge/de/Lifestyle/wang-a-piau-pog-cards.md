@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:32:52.638852+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Ab den 1950er Jahren waren die „A-Ziao-Biao“ in Taiwan Spiele der Kinder und ein Maßstab für den sozialen Status unter Gleichaltrigen – je mehr man sammelte, desto wichtiger war man nach dem Schulschluss auf dem Schulgelände. Diese Karten, inspiriert von chinesischen Papierpuppen und japanischen Kinderspielen, wandelten sich von Metall zu Kunststoff, ihre Motive von Puppentheater zu Comics; die Vielfalt der Spiele trug das kollektive Gedächtnis vieler Taiwanesen in Generationen. Besonders bemerkenswert ist, dass selbst Wahlkampfflyer in Taiwan von Kindern zu „A-Ziao-Biao“ umfunktioniert wurden und so eine alternative Waffe auf dem Kindheitskampffeld darstellten.
