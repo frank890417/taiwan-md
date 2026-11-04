@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:39:26.769568+00:00'
+translatedAt: '2026-11-04T19:06:11.179488+00:00'
 ---
 
 > **30 Second Overview:** Taiwan's military service system is one of the deepest social imprints of this island over half a century. From the "three-year conscription" era during martial law to the current mandatory one-year term, this is not merely a numerical change in service length; it is an authentic reflection of Taiwan confronting geopolitical pressure. This article takes you from the gasp of surprise at the draft lottery—the "Golden Horse Award"—to the modern preparedness scene where even supermarkets are included in Hanwha exercises, deeply analyzing the practical transformation across exemption standards, new training schedules, various substitute services, and modernized reserve duty calls.

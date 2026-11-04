@@ -2,6 +2,7 @@
 title: 'Taoyuan Airport: From the "Chiang Kai-shek" Name of the Ten Major Construction Projects to the NT$128.3 Billion Trial of the 2026 Gateway Reboot'
 description: 'In April 2026, the roof of Taoyuan Airport''s Terminal 3 was officially capped, marking the imminent rebirth of this NT$128.3 billion national gateway. From its 1979 birth as "Chiang Kai-shek International Airport," through the 2016 flooding nadir, to the 2025 North Boarding Hall launch that triggered a transit boom, Taoyuan Airport is attempting to reclaim its lost coordinates amid competition among Asia''s aviation hubs.'
 date: 2026-05-03
+category: 'Lifestyle'
 tags:
   [
     'Taoyuan Airport',
@@ -10,17 +11,19 @@ tags:
     'Transportation',
     'Ten Major Construction Projects',
   ]
-category: 'Lifestyle'
+subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 5
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 5
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
-translatedAt: '2026-05-03T21:10:03+08:00'
+translatedAt: '2026-11-04T19:19:38.222448+00:00'
 ---
 
 > **30-Second Overview:** Taoyuan Airport is Taiwan''s strongest link to the world and the most ambitious of the Ten Major Construction Projects. It once bore the imprint of authoritarianism through a political renaming just before its 1979 opening, and was later called into question when a thunderstorm in 2016 turned it into a "water airport." Yet after eight years of Terminal 3 delays and a budget ballooning to NT$128.3 billion, the unveiling of the North Boarding Hall at the end of 2025 and the strong recovery of passenger traffic surpassing 10 million in early 2026 have announced that this national gateway is accelerating to catch up with Asia''s leading group. This is not merely an airport expansion — it is a battle to secure Taiwan''s position as a North America–Southeast Asia transit hub amid the post-pandemic geopolitical shift.

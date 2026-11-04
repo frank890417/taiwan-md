@@ -1,83 +1,93 @@
 ---
-title: "The Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024 — Coordinates of Taiwan's 37 Years of Democracy"
-description: "Taiwan endured 38 years of authoritarian rule under martial law beginning in 1949. Martial law was lifted on July 15, 1987, and the first direct presidential election was held in 1996 (Lee Teng-hui). The first party rotation occurred in 2000 (Chen Shui-bian). On May 17, 2019, Taiwan became the first region in Asia to legalize same-sex marriage. On January 13, 2024, Lai Ching-te was elected the 16th president with 40.05% of the vote (5.58 million votes), marking the first time the Democratic Progressive Party won three consecutive presidential elections; the Kuomintang reclaimed its position as the largest party in the Legislative Yuan (52 seats), with the DPP at 51 seats and the Taiwan People's Party at 8 seats — no party held a majority."
+title: "Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024, Coordinates of Thirty-Seven Years of Taiwan's Democracy"
+description: "Taiwan transitioned from 38 years of authoritarian rule starting with martial law in 1949 to democracy following the lifting of martial law in 1987, the first direct presidential election in 1996 (Lee Teng-hui), and the first party rotation in 2000 (Chen Shui-bian). It became Asia's first region to legalize same-sex marriage on May 17, 2019. In the 2024 election, Lai Ching-te was elected as the 16th President with 40.05% of the vote (5.58 million votes), marking the Democratic Progressive Party's first consecutive three-term presidency; meanwhile, the Kuomintang regained the largest number of seats in the Legislative Yuan (52 seats), followed by the DPP (51 seats) and the Taiwan People's Party (8 seats), resulting in no single party holding a majority."
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'Society'
+tags:
+  [
+    'Society',
+    'Democratization',
+    'Lifting of Martial Law',
+    'Direct Presidential Election',
+    'Party Rotation',
+  ]
 subcategory: '民主與政治'
-tags: ['Society', '民主化', '解嚴', '總統直選', '政黨輪替']
-readingTime: 10
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+created: 2026-03-17
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/民主制度.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:f55314385d9caf18'
-sourceBodyHash: 'sha256:7661cd6b847cb615'
-translatedAt: '2026-05-20T05:08:27+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a8881c70e208776a'
+sourceBodyHash: 'sha256:aa50a47b41dff196'
+translatedAt: '2026-11-05T02:42:37+08:00'
 ---
 
-# The Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024 — Coordinates of Taiwan's 37 Years of Democracy
+# Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024, Coordinates of Thirty-Seven Years of Taiwan's Democracy
 
-> **30-second overview:** Taiwan endured 38 years of authoritarian rule under martial law beginning in 1949. After martial law was lifted on July 15, 1987, the democratization process began[^1]. Through the first direct presidential election in 1996 (Lee Teng-hui) and the first party rotation in 2000 (Chen Shui-bian), a complete democratic constitutional system was established[^2]. On May 17, 2019, Taiwan became the first region in Asia to legalize same-sex marriage[^3]. On January 13, 2024, Lai Ching-te was elected the 16th president with 5.58 million votes (40.05%), alongside Vice President Hsiao Bi-khim[^4], marking the first time the Democratic Progressive Party won three consecutive presidential elections. In the Legislative Yuan election held the same day, the Kuomintang reclaimed its position as the largest party with 52 seats, the DPP won 51 seats, and the Taiwan People's Party won 8 seats — no party held a majority[^5].
+> **30-Second Overview:** Following 38 years of authoritarian rule that began with martial law in 1949, Taiwan initiated its democratization process after the lifting of martial law on July 15, 1987[^1]. Through the first direct presidential election in 1996 (Lee Teng-hui) and the first rotation of power between parties in 2000 (Chen Shui-bian), a complete democratic constitutional system was established[^2]. On May 17, 2019, Taiwan became the first region in Asia to legalize same-sex marriage[^3]. On January 13, 2024, Lai Ching-te and Hsiao Bi-khim were elected as the 16th President and Vice President, respectively, with Lai receiving 5.58 million votes (40.05%), marking the first time the Democratic Progressive Party (DPP) has achieved three consecutive presidential terms[^4]. In the same election for the Legislative Yuan, the Kuomintang (KMT) returned as the largest party with 52 seats, the DPP held 51 seats, and the Taiwan People's Party (TPP) held 8 seats, resulting in a new landscape where no single party holds a majority[^5].
 
-## From Authoritarianism to Democracy: A Historical Precedent of Peaceful Transition
+## From Authoritarianism to Democracy: A Historical Precedent for Peaceful Transition
 
-From the imposition of martial law in 1949 to its lifting in 1987, Taiwan underwent a peaceful democratic transition rarely seen in Chinese-speaking societies. This path has been regarded by many developing countries as an important reference. At the same time, the establishment of democratic institutions ensured the fundamental rights of the people of Taiwan and became central to Taiwan's identity and value system.
+From the imposition of martial law in 1949 to its lifting in 1987, Taiwan underwent a peaceful democratic transition—a rare occurrence in Chinese-speaking societies. This path is regarded as an important reference by many developing nations; meanwhile, the establishment of a democratic system has ensured the fundamental rights of the people of Taiwan and become the core of Taiwan's identity and value system.
 
 ## Seven Key Milestones
 
-Taiwan's democratization began with political liberalization in the 1980s, progressing through key stages including the lifting of martial law, the opening of party and press bans, and full legislative re-elections. Despite challenges along the way, through the wisdom of political elites and the participation of the people, a constitutional system with five separate branches of government — Executive, Legislative, Examination, and Control — was ultimately established, and multiple peaceful transfers of power were completed.
+Taiwan's democratization began with political liberalization in the 1980s, progressing through key stages such as the lifting of martial law, the opening of political parties and press, full reelection of the legislature, and direct presidential elections. Despite various challenges, through the wisdom of political elites and public participation, Taiwan ultimately established a constitutional system based on the five-power separation (Executive, Legislative, Judicial, Examination, and Control) and completed multiple peaceful transfers of power.
 
-Seven key milestones form the coordinates of this trajectory: July 15, 1987, when President Chiang Ching-kuo announced the lifting of martial law, ending 38 years of martial law rule; 1996, when the first direct presidential election was held and Lee Teng-hui was elected as the first popularly elected president; 2000, when DPP candidate Chen Shui-bian was elected president, achieving the first peaceful transfer of power; 2008, when KMT candidate Ma Ying-jeou returned to power, establishing party rotation as the norm; 2016, when DPP candidate Tsai Ing-wen was elected, becoming the first woman to serve as president; and January 13, 2024, when Lai Ching-te (DPP) was elected the 16th president with 5.58 million votes (40.05%), alongside Vice President Hsiao Bi-khim, marking the first time the DPP won three consecutive presidential elections[^4]. In the Legislative Yuan election held the same day, the KMT won 52 seats (reclaiming its position as the largest party), the DPP won 51 seats (losing its majority), and the Taiwan People's Party won 8 seats, creating a new landscape in which no party held a majority[^5].
+Seven key milestones define this trajectory: July 15, 1987, when Chiang Ching-kuo announced the lifting of martial law, ending 38 years of military rule; 1996, the first direct presidential election where Lee Teng-hui was elected as the first popularly elected president; 2000, when Chen Shui-bian of the DPP was elected president, achieving the first peaceful transfer of power; 2008, when Ma Ying-jeou of the KMT returned to power, normalizing party rotation; 2016, when Tsai Ing-wen of the DPP was elected, becoming the first female president; and January 13, 2024, when Lai Ching-te (DPP) was elected the 16th President with 5.58 million votes (40.05%) alongside Vice President Hsiao Bi-khim, marking the DPP's first three consecutive presidential wins[^4]. On that same day, the Legislative Yuan election resulted in the KMT holding 52 seats (returning as the largest party), the DPP holding 51 seats (losing its majority), and the TPP holding 8 seats, creating a new configuration where no single party holds a majority[^5].
 
-## The Period of Authoritarian Rule
+## The Authoritarian Era
 
-The martial law regime (1949–1987) formed the backdrop for Taiwan's democratization. After the Nationalist government relocated to Taiwan, martial law was imposed, restricting freedoms of assembly, association, speech, and the press, and establishing one-party rule. During the White Terror period, political persecution occurred through events such as the February 28 Incident and the Kaohsiung Incident (Formosa Incident), causing social trauma but also fueling the drive for democratization.
+The martial law system (1949–1987) serves as the backdrop for Taiwan's democratization. After the Kuomintang government relocated to Taiwan, martial law was implemented, restricting freedom of assembly, association, speech, and the press under a one-party dictatorship. During the _White Terror_ period, political persecutions such as the February 28 Incident and the _Meilidao_ (Beautiful Island) Incident occurred, causing social trauma but also fueling the momentum for democratization.
 
-Economic development laid the foundation for democratization. Rapid economic growth in the 1960s–80s cultivated a middle class, and the spread of education raised political participation awareness. International pressure — including withdrawal from the United Nations and the severance of diplomatic relations with the United States — forced those in power to consider the necessity of political reform.
+Economic development laid the foundation for democratization; rapid economic growth during the 1960s–1980s fostered a middle class, and widespread education increased political awareness. International pressures, including the loss of the United Nations seat and the severance of diplomatic ties with the United States, forced rulers to consider the necessity of political reform.
 
 ## The Process of Democratic Transition
 
-The political liberalization phase (1980s) began with political reforms in the later years of Chiang Ching-kuo's presidency, opening space for tangwai (outside-the-party) activities. The founding of the Democratic Progressive Party in 1986 broke the ban on new political parties. Although the Kaohsiung Incident (1979) led to the imprisonment of democracy activists, the courtroom debates galvanized public support for democracy.
+**The Political Liberalization Stage (1980s):** This stage began with the political reforms led by Chiang Ching-kuo in his later years, which opened space for non-party activities; the founding of the DPP in 1986 broke the ban on new political parties. Although the _Meilidao_ Incident (1979) led to the imprisonment of pro-democracy activists, the subsequent courtroom debates galvanized social support for democracy.
 
-The institutionalization phase (1990s) saw Lee Teng-hui advance a "Quiet Revolution," using constitutional amendments to achieve full legislative re-elections, direct elections of provincial and municipal executives, and direct presidential elections. The 1996 presidential direct election took place under the threat of military intimidation from the PRC, and the people of Taiwan demonstrated their commitment to democracy with a high voter turnout.
+**The Institutionalization Stage (1990s):** Lee Teng-hui promoted a "quiet revolution," implementing institutional reforms through constitutional amendments, including the full reelection of the legislature, the direct election of provincial and municipal leaders, and the direct election of the president. During the 1996 presidential election, facing military threats from the PRC, the people of Taiwan demonstrated their commitment to democracy through high voter turnout.
 
-The consolidation phase (2000s–present) has seen multiple party rotations, with the democratic system gradually maturing. the Sunflower Student Movement (2014) demonstrated the power of civil society to hold the government accountable[^6]; the legalization of same-sex marriage (May 17, 2019) made Taiwan the first region in Asia to achieve this milestone[^3]. The 2024 general election was the first time in Taiwan's democratic history that the same party won three consecutive presidential elections, while simultaneously producing a Legislative Yuan in which no party held a majority, forming a new political structure[^4][^5].
+**The Consolidation Stage (2000s–Present):** Multiple party rotations have been achieved, and the democratic system has gradually matured. The Sunflower Student Movement (2014) demonstrated the power of civil society in monitoring the government[^6]; the legalization of same-sex marriage on May 17, 2019, made Taiwan the first region in Asia to do so[^3]. The 2024 general election marked the first time in Taiwan's democratic history that a single party won three consecutive presidential terms, while simultaneously producing a Legislative Yuan where no party holds a majority, forming a new political structure[^4][^5].
 
-## Five-Power Separation and Semi-Presidential System
+## Five-Power Separation and the Semi-Presidential System
 
-The Five-Power Constitution adopts Sun Yat-sen's theory of five-power separation, establishing the Executive, Legislative, Judicial, Examination, and Control Yuans. After multiple constitutional amendments, presidential powers have expanded, creating a semi-presidential system with distinctly Taiwanese characteristics. The Legislative Yuan serves as the highest legislative body, elected under a single-district, two-vote system. Local autonomy is implemented through a three-tier structure of central, special municipality/county, and township/city district governments, with special municipality mayors and county/city magistrates directly elected by the people. Regarding the referendum system, amendments in 2018 lowered the threshold for referendums, strengthening the function of direct democracy.
+The constitution adopts Sun Yat-sen's theory of five-power separation, establishing five branches: the Executive, Legislative, Judicial, Examination, and Control Yuans. Following several constitutional amendments, presidential powers were expanded, forming a semi-presidential system unique to Taiwan. The Legislative Yuan is the highest legislative organ, utilizing a single-member district two-vote system for elections. Local autonomy is implemented through three levels of government: central, special municipalities/counties/cities, and townships/districts; mayors of special municipalities and counties/cities are directly elected by the people. Regarding the referendum system, an amendment in 2018 lowered the threshold for referendums, strengthening the function of direct democracy.
 
-## Two Major Parties, Small Parties, and Online Politics
+## Two Major Parties, Minor Parties, and Digital Politics
 
-The Kuomintang (KMT) and the Democratic Progressive Party (DPP) are the two major political parties, representing different positions on cross-strait relations. Smaller parties such as the People First Party, the Taiwan Solidarity Union, and the New Power Party have exerted critical influence during specific periods. In terms of electoral system design, the single-district, two-vote system favors large parties, but the party-list proportional representation system preserves space for smaller parties. Political culture has shifted from the obedience culture of the authoritarian era to a culture of participation, with civil society flourishing. Social media has transformed political mobilization, and the handling of disinformation has become a new challenge for democratic governance.
+The KMT and the DPP are the two major political parties, representing different stances on cross-Strait relations. Minor parties, such as the People First Party, the Taiwan Solidarity Union, and New Power Party, have exerted key influence during specific periods. In terms of electoral design, the single-member district two-vote system favors large parties, but the party list system preserves space for smaller ones. Political culture has shifted from the culture of obedience in the authoritarian era to a culture of participation, with civil society flourishing; social media has changed political mobilization patterns, and managing misinformation has become a new challenge for democratic governance.
 
-## Unification-Independence Debate, Generational Differences, and Digital Governance
+## Unification vs. Independence, Generational Gaps, and Digital Governance
 
-Cross-strait relations continue to influence the development of democratic politics, with the unification-independence debate persistently dividing society. The rise of populism has impacted rational political discussion, and generational differences have widened the gap in values and voting behavior between younger and older generations. Institutional reform demands — including legislative reform, judicial reform, and constitutional reform — aim to respond to societal expectations. At the level of digital governance, new practices such as open government and e-participation are being promoted, with the goal of improving the quality of democracy.
+Cross-Strait relations continue to influence the development of democratic politics, as the debate over unification versus independence continues to polarize society. The rise of populism has impacted rational political discussion, and generational gaps have led to widening differences in values and voting behavior between younger and older generations. Demands for institutional reform include legislative, judicial, and constitutional reforms to respond to social expectations. In terms of digital governance, new practices such as open government and e-participation are being promoted with the goal of enhancing democratic quality.
 
-## Freedom House Rates Taiwan as a "Free" Country: Taiwan's International Positioning
+## Rated "Free" by Freedom House: Taiwan's International Standing
 
-Taiwan has been hailed as a "democracy miracle" and has long been rated as "Free" by organizations such as Freedom House[^7]. Taiwan also actively participates in international democracy promotion, sharing its democratization experience and making democracy, human rights, and the rule of law core values of its diplomacy[^8].
+Taiwan is often hailed as a "democratic miracle," and organizations like Freedom House have long rated it as a "Free" country[^7]. Taiwan also actively participates in the global promotion of democracy, sharing its democratization experience, and places democracy, human rights, and the rule of law at the core of its diplomatic values[^8].
 
 ## References
 
-[^1]: [Wikipedia: Democratization of Taiwan](https://zh.wikipedia.org/wiki/臺灣民主化) — A complete account of Taiwan's journey from martial law to democratization, confirming the lifting of martial law on July 15, 1987 (38 years of martial law), the tangwai movement, the Kaohsiung Incident, and other key milestones.
+[^1]: [Wikipedia: Democratization of Taiwan](https://zh.wikipedia.org/wiki/臺灣民主化) — The complete process of Taiwan's transition from martial law to democracy, confirming key milestones such as the lifting of martial law on July 15, 1987 (after 38 years), the non-party movement, and the _Meilidao_ Incident.
 
-[^2]: [Wikipedia: Republic of China Presidential Elections](https://zh.wikipedia.org/zh-hant/中華民國總統及副總統在臺灣之公民直接選舉與罷免) — Confirms the historical record of the first direct presidential election in 1996 (Lee Teng-hui) and the first party rotation in 2000 (Chen Shui-bian).
+[^2]: [Wikipedia: Presidential and Vice Presidential Elections in the Republic of China](https://zh.wikipedia.org/zh-hant/中華民國總統及副總統在臺灣之公民直接選舉與罷免) — Confirms historical records of the first direct presidential election in 1996 (Lee Teng-hui) and the first rotation of power in 2000 (Chen Shui-bian).
 
-[^3]: [Wikipedia: Same-Sex Marriage in Taiwan](https://zh.wikipedia.org/wiki/台灣同性婚姻) — Confirms that on May 17, 2019, Taiwan became the first region in Asia to legalize same-sex marriage.
+[^3]: [Wikipedia: Same-sex marriage in Taiwan](https://zh.wikipedia.org/wiki/台灣同性婚姻) — Confirms that Taiwan became the first region in Asia to legalize same-sex marriage on May 17, 2019.
 
-[^4]: [CNA: 2024 Presidential Election Report — Lai Ching-te Elected (2024-01-13)](https://www.cna.com.tw/news/aipl/202401135011.aspx) — Confirms that Lai Ching-te was elected the 16th president with 5.58 million votes (40.05%), alongside Vice President Hsiao Bi-khim, marking the first time the DPP won three consecutive presidential elections.
+[^4]: [CNA: Report on Lai Ching-te's Election in the 2024 Presidential Election (2024-01-13)](https://www.cna.com.tw/news/aipl/202401135011.aspx) — Confirms that Lai Ching-te and Hsiao Bi-khim were elected as the 16th President and Vice President with 5.58 million votes (40.05%), marking the DPP's first three consecutive presidential wins.
 
-[^5]: [The Reporter: 2024 Election Results Chart](https://www.twreporter.org/a/2024-election-results-chart) — Confirms Legislative Yuan seat distribution: KMT 52 seats (reclaiming largest party status), DPP 51 seats, TPP 8 seats — no party held a majority.
+[^5]: [The Reporter: 2024 Election Result Charts](https://www.twreporter.org/a/2024-election-results-chart) — Confirms Legislative Yuan seats: KMT 52 seats (returning as the largest party), DPP 51 seats, TPP 8 seats, with no single party holding a majority.
 
-[^6]: [Wikipedia: Sunflower Student Movement](https://zh.wikipedia.org/wiki/太陽花學生運動) — The full account of the 2014 Sunflower Student Movement, a key event documenting civil society's oversight of government.
+[^6]: [Wikipedia: Sunflower Student Movement](https://zh.wikipedia.org/wiki/太陽花學生運動) — A record of the 2014 Sunflower Student Movement and its role as a key event in civil society monitoring the government.
 
-[^7]: [Freedom House: Taiwan Freedom Score](https://freedomhouse.org/country/taiwan) — Taiwan has long been rated as a "Free" country, providing international assessment data on the quality of democracy.
+[^7]: [Freedom House: Taiwan Freedom Score](https://freedomhouse.org/country/taiwan) — Provides international assessment data on democratic quality, noting Taiwan's long-standing status as a "Free" country.
 
-[^8]: [Wikipedia: Politics of the Republic of China (Taiwan)](https://zh.wikipedia.org/wiki/中華民國（臺灣）政治) — A comprehensive explanation of Taiwan's political system, including the Five-Power Constitution, semi-presidential system, and Legislative Yuan electoral system.
+[^8]: [Wikipedia: Politics of the Republic of China (Taiwan)](https://zh.wikipedia.org/wiki/中華民國（臺灣）政治) — Includes complete explanations of Taiwan's political systems, including the five-power constitution, semi-presidential system, and Legislative Yuan electoral system.
 
 **Further Reading**: [Democratization of Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣民主化) ｜ [2024 Republic of China Presidential Election — Wikipedia](https://zh.wikipedia.org/wiki/2024年中華民國總統選舉) ｜ [Freedom House Taiwan Score](https://freedomhouse.org/country/taiwan)
 
