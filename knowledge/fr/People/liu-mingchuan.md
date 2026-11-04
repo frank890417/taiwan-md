@@ -2,9 +2,7 @@
 title: 'Liu Ming-chuan : allumer la première lampe électrique de Taïwan, un pionnier de la modernisation lancé entre pouvoir et controverses'
 description: "Du fils d'un contrebandier de sel au premier gouverneur de Taïwan, Liu Ming-chuan, durant ses six années sur l'île, ne se contenta pas de promouvoir le chemin de fer et la poste : il fit aussi briller, dans l'enceinte de Taipei, la première lampe électrique de l'Empire des Qing. Pourtant, sa décision stratégique de « quitter Keelung pour secourir Huwei » ainsi que ses politiques précipitées d'administration des peuples autochtones et de révision fiscale laissèrent aussi, dans le long cours de l'histoire, de profonds débats et des zones d'ombre."
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Liu Ming-chuan',
@@ -14,15 +12,19 @@ tags:
     'guerre franco-chinoise',
     'infrastructures électriques',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:23:51.015562+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1884, les tirs de la guerre franco-chinoise placèrent Liu Ming-chuan à un tournant de l’histoire de Taïwan. Il parvint non seulement à résister à l’agression étrangère, mais, durant les six années où il exerça ensuite la fonction de gouverneur, il fit de Taipei l’une des villes les plus avancées de l’Empire des Qing : on y trouvait la première ligne ferroviaire de voyageurs, la première lampe électrique et l’une des premières écoles de type occidental. Pourtant, l’action de ce « premier modernisateur » ne fut pas sans heurts : sa décision de se replier sur le champ de bataille et ses politiques intérieures autoritaires demeurent, aujourd’hui encore, des points de débat persistants parmi les historiens.
@@ -64,24 +66,24 @@ Aujourd’hui, lorsque l’on marche dans les rues de Taipei ou que l’on prend
 
 ## Références
 
-[^1]: Tseng Yuan-chih. (2024, 6 juillet). 【Histoire générale de Taïwan】Un pionnier doté d’une grande vision ou un ambitieux semeur de chaos ? Les six années tumultueuses de Liu Ming-chuan à Taïwan. Gushi. [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan)
+[^1]: [https://storystudio.tw/article/gushi/liu-ming-chuan](https://storystudio.tw/article/gushi/liu-ming-chuan) — Tseng Yuan-chih. (2024, 6 juillet). 【Histoire générale de Taïwan】Un pionnier doté d’une grande vision ou un ambitieux semeur de chaos ? Les six années tumultueuses de Liu Ming-chuan à Taïwan. Gushi
 
-[^2]: Huang Wei-ting. (s. d.). Liu Ming-chuan. Banque nationale de la mémoire culturelle. [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191)
+[^2]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=259191) — Huang Wei-ting. (s. d.). Liu Ming-chuan. Banque nationale de la mémoire culturelle
 
-[^3]: Musée postal. (s. d.). Timbres dragon-cheval. [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63)
+[^3]: [https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63](https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=161&control_type=page&MCS_Id=10C23204-265C-4521-B8B3-E6689A2BCB63) — Musée postal. (s. d.). Timbres dragon-cheval
 
-[^4]: Yike Jingxuan. (2023, 22 septembre). Le premier homme à avoir vraiment aimé Taïwan ! Liu Ming-chuan et son « grand rêve de l’oncle Liu ». Langlang Yuedu. [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846)
+[^4]: [https://reading.udn.com/read/story/123401/7451846](https://reading.udn.com/read/story/123401/7451846) — Yike Jingxuan. (2023, 22 septembre). Le premier homme à avoir vraiment aimé Taïwan ! Liu Ming-chuan et son « grand rêve de l’oncle Liu ». Langlang Yuedu
 
-[^5]: Podcasts. (2022, 21 juillet). EP58 Liu Ming-chuan — le premier modernisateur de Taïwan. Apple Podcasts. [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731)
+[^5]: [https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731](https://podcasts.apple.com/us/podcast/ep58-%E5%8A%89%E9%8A%98%E5%82%B3-%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%AC%AC%E4%B8%80%E4%BA%BA/id1602484248?i=1000570743731) — Podcasts. (2022, 21 juillet). EP58 Liu Ming-chuan — le premier modernisateur de Taïwan. Apple Podcasts
 
-[^6]: Le premier gouverneur de Taïwan, Liu Ming-chuan, posa les bases de la modernisation. (2015, 23 juillet). Epoch Times. [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm)
+[^6]: [https://www.epochtimes.com/b5/15/7/22/n4486583.htm](https://www.epochtimes.com/b5/15/7/22/n4486583.htm) — Le premier gouverneur de Taïwan, Liu Ming-chuan, posa les bases de la modernisation. (2015, 23 juillet). Epoch Times
 
-[^7]: Li Yi. (2019, 30 septembre). 【Article de chronique】La guerre franco-chinoise, l’histoire rejouée, dossier spécial (VIII) : quitter Keelung pour secourir Huwei, Liu Ming-chuan préserve la ville de Taipei. Musée des monuments historiques de Tamsui, Nouveau Taipei. [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304)
+[^7]: [https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304](https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0K255571641497878724&sid=0K258532447846655304) — Li Yi. (2019, 30 septembre). 【Article de chronique】La guerre franco-chinoise, l’histoire rejouée, dossier spécial (VIII) : quitter Keelung pour secourir Huwei, Liu Ming-chuan préserve la ville de Taipei. Musée des monuments historiques de Tamsui, Nouveau Taipei
 
-[^8]: Taiwan Power Company. (2025, 25 août). Le plus ancien générateur électrique encore conservé à Taïwan se trouve dans cette école ! Musée des histoires de l’électricité. [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost)
+[^8]: [https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost](https://service.taipower.com.tw/Collection/2009/2025/8310/blogPost) — Taiwan Power Company. (2025, 25 août). Le plus ancien générateur électrique encore conservé à Taïwan se trouve dans cette école ! Musée des histoires de l’électricité
 
-[^9]: Les transformations de la ville de Taipei. (s. d.). Département d’architecture de l’Université nationale des sciences et technologies de Taïwan. [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm)
+[^9]: [https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm](https://www.ad.ntust.edu.tw/grad/think/2paper/subject/webpage/web.htm) — Les transformations de la ville de Taipei. (s. d.). Département d’architecture de l’Université nationale des sciences et technologies de Taïwan
 
-[^10]: La vérité absente des manuels d’histoire : ce n’est pas Liu Ming-chuan qui a repoussé l’armée française. (2025, 11 décembre). Threads. [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/)
+[^10]: [https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/](https://www.threads.com/@twobabydad/post/DSHs5oIkn2X/) — La vérité absente des manuels d’histoire : ce n’est pas Liu Ming-chuan qui a repoussé l’armée française. (2025, 11 décembre). Threads
 
-[^11]: Ligne de la ville de Taipei. (s. d.). Centre de formation des enseignants de la ville de Taipei. [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm)
+[^11]: [https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm](https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/course10.htm) — Ligne de la ville de Taipei. (s. d.). Centre de formation des enseignants de la ville de Taipei

@@ -2,9 +2,7 @@
 title: "Ricky Hsiao : Deux fois aveugle, mais avec l'humour de « l'aveugle qui ne voit personne », il s'est hissé au rang de roi du Golden Melody Award"
 description: "Né en 1976, Ricky Hsiao est un auteur-compositeur-interprète taïwanais rendu aveugle à deux reprises par une cataracte congénitale. Quadruple lauréat du Golden Melody Award du meilleur chanteur en langue taïwanaise, il a également été médaillé de bronze en judo aux Jeux paralympiques asiatiques. Avec le « Life Line Band », il a ouvert la voie à la professionnalisation des musiciens malvoyants, et grâce à son humour d'autodérision — ses « blagues de l'enfer » —, il a renversé les stéréotypes sociaux sur les personnes en situation de handicap, devenant une légende de la scène musicale sinophone."
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
     'Ricky Hsiao',
@@ -13,15 +11,19 @@ tags:
     'judoka',
     "humour d'autodérision",
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-translatedFrom: People/蕭煌奇.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/蕭煌奇.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-04T21:40:35.869027+00:00'
 ---
 
 > En 1976, Ricky Hsiao naît à Banqiao. Une cataracte congénitale le rend aveugle à deux reprises. Pourtant, cette expérience de « ne pas voir » devient le terreau fertile de sa musique et de sa vie. Il est non seulement le premier artiste à avoir remporté quatre fois le Golden Melody Award du meilleur chanteur en langue taïwanaise, mais il a également représenté Taïwan aux Jeux paralympiques, décrochant une médaille de bronze en judo. En 1995, il fonde le « Life Line Band », ouvrant la voie à la professionnalisation des musiciens malvoyants. Ces dernières années, avec son humour singulier de « blagues de l'enfer », il a renversé l'image de victimisation associée aux personnes en situation de handicap, prouvant par sa voix et sa philosophie de vie sereine que même dans les ténèbres, on peut vivre la vie la plus éclatante.

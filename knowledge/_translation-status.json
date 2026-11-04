@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T05:44:46+08:00",
-    "zhCommitHead": "3a085d774",
+    "lastUpdated": "2026-11-05T05:45:09+08:00",
+    "zhCommitHead": "2c7b3d36a",
     "totalZh": 1161,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1161,
-        "fresh": 1020,
+        "fresh": 1021,
         "stale": 40,
-        "metadata_stale": 98,
+        "metadata_stale": 97,
         "missing": 3,
         "orphan": 0
       },
@@ -125439,20 +125439,18 @@
         "fr": {
           "path": "fr/People/a-mei.md",
           "translatedFrom": "People/張惠妹.md",
-          "sourceCommitSha": "0f8fae0a",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:aebfe56ef8181ee0",
           "sourceBodyHash": "sha256:2548692a01191648",
-          "translatedAt": "2026-05-25T21:07:36Z",
+          "translatedAt": "2026-11-04T21:44:28.485034+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 12647,
+          "bytes": 12232,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/a-mei.md",

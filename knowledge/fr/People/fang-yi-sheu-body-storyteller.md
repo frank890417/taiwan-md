@@ -3,27 +3,32 @@ title: "Fang-Yi Sheu : Yilan 1971, de la troupe Martha Graham à la chorégraphi
 description: "Née en 1971 à Yilan. Diplômée du département de danse de l'Université nationale des arts de Taipei, elle part aux États-Unis en 1995 et rejoint la Martha Graham Dance Company, dont elle devient danseuse principale en 1999. De retour à Taïwan en 2007, elle fonde LAFA (dissous en 2010). Documentaire *Salute* (2020). En 2024, elle conçoit la chorégraphie de l'identité visuelle du Festival Golden Horse. En 2025, elle accorde des entretiens sur le vieillissement du corps."
 date: 2026-03-19
 category: 'People'
-tags: ['Art et design', 'Danse', 'Arts du spectacle', 'Danse contemporaine', 'Martha Graham Dance Company']
+tags:
+  [
+    'Art et design',
+    'Danse',
+    'Arts du spectacle',
+    'Danse contemporaine',
+    'Martha Graham Dance Company',
+  ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從宜蘭家庭到葛蘭姆首席的跨度——她不是藝術世家出身，她是從零打出來的。這個對比比任何頭銜都說明她的位置。"
-#   whats_excluded: "葛蘭姆技巧細節；各場演出評論摘錄；拉芳每年活動清單"
-#   where_it_hedges: "「參演李安電影」無具體作品無法驗證，已移除"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-04T21:39:20.918191+00:00'
 ---
 
 # Fang-Yi Sheu : Yilan 1971, de la troupe Martha Graham à la chorégraphie de l'identité visuelle du Festival Golden Horse 2024
 
-> **En 30 secondes :** Fang-Yi Sheu naît en 1971 à Yilan et part aux États-Unis après avoir obtenu son diplôme du département de danse de l'Université nationale des arts de Taipei.[^1] En 1995, elle passe une audition et intègre la Martha Graham Dance Company à New York,[^1] dont elle devient danseuse principale en 1999.[^1] En 2005, elle reçoit des éloges du *New York Times*. De retour à Taïwan en 2007, elle fonde LAFA, dissous en 2010.[^2] En 2020, le documentaire *Salute* sort sur les écrans. En 2024, elle conçoit la chorégraphie de l'identité visuelle du Festival Golden Horse.[^3]
+> **En 30 secondes :** Fang-Yi Sheu naît en 1971 à Yilan et part aux États-Unis après avoir obtenu son diplôme du département de danse de l'Université nationale des arts de Taipei.[^1] En 1995, elle passe une audition et intègre la Martha Graham Dance Company à New York,[^1] dont elle devient danseuse principale en 1999.[^1] En 2005, elle reçoit des éloges du _New York Times_. De retour à Taïwan en 2007, elle fonde LAFA, dissous en 2010.[^2] En 2020, le documentaire _Salute_ sort sur les écrans. En 2024, elle conçoit la chorégraphie de l'identité visuelle du Festival Golden Horse.[^3]
 
 ## 1971, Yilan
 
@@ -39,9 +44,9 @@ En 1995, Fang-Yi Sheu est reçue à l'audition et intègre la Martha Graham Danc
 
 L'audition de la compagnie Martha Graham constitue en elle-même un premier filtre : des danseurs du monde entier convoitent ces places. Lorsque Fang-Yi Sheu est reçue, elle est l'une des rares danseuses asiatiques à accéder à ce temple de la danse contemporaine dans les années 1990. Dans le milieu new-yorkais, sa présence brise un préjugé géographique tacite : un entraînement corporel de haut niveau ne se produit pas uniquement en Europe et en Amérique.
 
-Au sein de la compagnie, elle interprète des œuvres du répertoire classique de Martha Graham — *Diversion of Angels*, *Night Journey* — et est saluée par la critique new-yorkaise. En 2005, le *New York Times* la qualifie de « l'une des danseuses les plus remarquables » (la formulation exacte reste à confirmer).[^1]
+Au sein de la compagnie, elle interprète des œuvres du répertoire classique de Martha Graham — _Diversion of Angels_, _Night Journey_ — et est saluée par la critique new-yorkaise. En 2005, le _New York Times_ la qualifie de « l'une des danseuses les plus remarquables » (la formulation exacte reste à confirmer).[^1]
 
-La technique Graham repose sur la « contraction et le relâchement » (*contraction and release*), un langage gestuel centré sur la colonne vertébrale, où l'expression émotionnelle passe par le transfert du poids corporel. Le parcours de Fang-Yi Sheu au sein de ce système — de membre de la troupe à danseuse principale — témoigne de sa capacité à utiliser le vocabulaire Graham pour raconter sa propre histoire. La maîtrise technique est le ticket d'entrée ; c'est ce qui définit le rang de danseuse principale.
+La technique Graham repose sur la « contraction et le relâchement » (_contraction and release_), un langage gestuel centré sur la colonne vertébrale, où l'expression émotionnelle passe par le transfert du poids corporel. Le parcours de Fang-Yi Sheu au sein de ce système — de membre de la troupe à danseuse principale — témoigne de sa capacité à utiliser le vocabulaire Graham pour raconter sa propre histoire. La maîtrise technique est le ticket d'entrée ; c'est ce qui définit le rang de danseuse principale.
 
 ## La fondation de LAFA : retour à Taïwan, pédagogie et expérimentations transdisciplinaires
 
@@ -51,11 +56,11 @@ En 2007, Fang-Yi Sheu revient à Taïwan et fonde « LAFA » (Life Art For All).
 
 La décision de revenir à Taïwan pour fonder LAFA constitue un choix délibéré de réorientation, alors qu'elle avait déjà consolidé sa position de danseuse principale au sein de la compagnie Martha Graham. Ce choix révèle que sa conception de la responsabilité envers la danse ne se limite pas à la performance sur les plus grandes scènes : elle inclut également le désir de ramener à Taïwan ce qu'elle avait appris à New York et d'y trouver un terrain fertile. LAFA est dissous en 2010, mais ses trois années d'existence ont laissé un modèle de pratiques en matière de collaboration interdisciplinaire et de pédagogie de la danse.
 
-## Le documentaire *Salute* : le corps comme savoir
+## Le documentaire _Salute_ : le corps comme savoir
 
-En 2020, le documentaire *Salute* sort sur les écrans, retraçant le parcours de la carrière de Fang-Yi Sheu. Le titre du film est en lui-même une déclaration de position : ce qu'elle choisit de faire n'est pas nécessairement ce que les autres attendent d'elle. Cette attitude traverse l'ensemble de sa trajectoire, de Yilan à New York, de Graham à LAFA — chacun de ses choix est une mise en pratique concrète de « mon cœur, mon chemin ».
+En 2020, le documentaire _Salute_ sort sur les écrans, retraçant le parcours de la carrière de Fang-Yi Sheu. Le titre du film est en lui-même une déclaration de position : ce qu'elle choisit de faire n'est pas nécessairement ce que les autres attendent d'elle. Cette attitude traverse l'ensemble de sa trajectoire, de Yilan à New York, de Graham à LAFA — chacun de ses choix est une mise en pratique concrète de « mon cœur, mon chemin ».
 
-Dans le documentaire *Salute* (2020) et dans ses entretiens de 2025, Fang-Yi Sheu revient de manière récurrente sur la finitude du corps en tant qu'outil de la danse et sur la question de la coexistence avec le vieillissement. Sa position est la suivante : la vie d'un danseur ne se limite pas à la performance scénique ; la compréhension du corps est en elle-même une forme de savoir. Quelles que soient les capacités physiques, ce savoir peut être enseigné, transmis et continuer à être utilisé. Cette posture constitue la thèse centrale de sa transition, après sa formation technique à la compagnie Graham, vers les rôles de pédagogue et de figure publique.
+Dans le documentaire _Salute_ (2020) et dans ses entretiens de 2025, Fang-Yi Sheu revient de manière récurrente sur la finitude du corps en tant qu'outil de la danse et sur la question de la coexistence avec le vieillissement. Sa position est la suivante : la vie d'un danseur ne se limite pas à la performance scénique ; la compréhension du corps est en elle-même une forme de savoir. Quelles que soient les capacités physiques, ce savoir peut être enseigné, transmis et continuer à être utilisé. Cette posture constitue la thèse centrale de sa transition, après sa formation technique à la compagnie Graham, vers les rôles de pédagogue et de figure publique.
 
 ## Identité visuelle du Festival Golden Horse et question du vieillissement du corps
 
@@ -87,7 +92,7 @@ Cette position étend son influence au-delà des frontières de la profession ch
 
 ## Références
 
-[^1]: [Wikipédia : Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirme la naissance en 1971 à Yilan, l'Université nationale des arts de Taipei, l'entrée dans la compagnie Graham en 1995 (et non l'accession au rang de principale en 1995), l'accession au rang de danseuse principale en 1999, les éloges du *New York Times* en 2005.
+[^1]: [Wikipédia : Fang-Yi Sheu](https://zh.wikipedia.org/wiki/許芳宜) — Confirme la naissance en 1971 à Yilan, l'Université nationale des arts de Taipei, l'entrée dans la compagnie Graham en 1995 (et non l'accession au rang de principale en 1995), l'accession au rang de danseuse principale en 1999, les éloges du _New York Times_ en 2005.
 
 [^2]: [Articles liés à LAFA](https://www.ncaf.org.tw/) — Confirme la fondation de LAFA en 2007 (et non 2008) et sa dissolution en 2010.
 
@@ -95,4 +100,4 @@ Cette position étend son influence au-delà des frontières de la profession ch
 
 [^4]: [CommonWealth Magazine : entretiens de Fang-Yi Sheu en 2025](https://www.cw.com.tw/article/5093568) — Inclut des entretiens récents de Fang-Yi Sheu sur le vieillissement du corps et la transition de sa carrière de danseuse.
 
-[^5]: [Documentaire *Salute* (2020)](https://www.pts.org.tw/) — Informations relatives au documentaire sur la carrière de Fang-Yi Sheu.
+[^5]: [Documentaire _Salute_ (2020)](https://www.pts.org.tw/) — Informations relatives au documentaire sur la carrière de Fang-Yi Sheu.

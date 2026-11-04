@@ -2,9 +2,7 @@
 title: "Ray Du : De petit étudiant expatrié réfractaire à l'anglais au « maire du quartier » de la scène YouTube taïwanaise"
 description: "En 2020, le YouTuber Ray Du a lancé une campagne de financement participatif pour une publicité dans le New York Times, permettant au monde de voir Taïwan ; en 2021, il a révélé publiquement sa dépression, affrontant avec transparence un creux de la vie. De son initiation à l'anglais à Singapour à la fondation de l'Association des créateurs de nouveaux médias, Ray Du n'est pas seulement un influenceur éducatif, mais aussi un acteur clé de l'écosystème des nouveaux médias taïwanais."
 date: 2026-04-20
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -13,15 +11,19 @@ tags:
     'Dépression',
     'Publicité dans le New York Times',
   ]
-readingTime: 9
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-05-01T22:19:06+08:00'
-featured: false
+translatedAt: '2026-11-04T21:24:32.757150+00:00'
 ---
 
 > **En bref (30 secondes) :** En 2020, le YouTuber Ray Du (Du Shengrui) a lancé la campagne de financement participatif « ThisAttackComesFromTaiwan », atteignant en quelques heures l'objectif de 4 millions de dollars taïwanais et collectant finalement près de 19 millions pour publier une pleine page dans le _New York Times_, proclamant au monde « Taiwan Can Help ». L'année suivante, il a partagé publiquement son parcours de près d'un an avec la dépression, et a cofondé avec Zhichi QQ et d'autres l'Association des créateurs audiovisuels de nouveaux médias de Taïwan, en tant que président, bâtissant un écosystème d'entraide pour les créateurs taïwanais. De son rejet de l'anglais en tant que jeune étudiant expatrié à Singapour à son rôle de « maire du quartier » de la scène YouTube taïwanaise, l'histoire de Ray Du n'est pas seulement une transformation personnelle, mais aussi un reflet authentique de l'évolution des nouveaux médias taïwanais, passant de la création individuelle à une dynamique collective.
