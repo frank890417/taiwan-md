@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-07-25T17:25:36+08:00'
+translatedAt: '2026-11-04T18:46:01.009797+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 1949, cerca de 1,2 milhão de militares e civis retiraram-se para Taiwan com o governo nacionalista, formando a estrutura populacional de _waishengren_ (外省人) e _benshengren_ (本省人). A desigualdade sistêmica durante o período da lei marcial, somada ao trauma coletivo deixado pelo **Incidente 228 (二二八事件)**, fez da origem provincial a lógica subterrânea mais sensível da política taiwanesa. Após a democratização, as tensões provinciais foram repetidamente mobilizadas por figuras políticas, até serem gradualmente diluídas pela "identidade taiwanesa" após a virada do milênio — mas pesquisadores afirmam que nunca desapareceram, apenas mudaram de forma.

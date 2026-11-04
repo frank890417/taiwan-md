@@ -2,9 +2,7 @@
 title: 'Colhereiro-de-cara-preta: de trezentos a sete mil, este milagre transfronteiriço de recuperação enfrenta agora o "preço do sucesso"'
 description: 'O censo global de 2026 mostra que o colhereiro-de-cara-preta atingiu 7.746 indivíduos, com Taiwan a registar 4.719, um máximo histórico. Este grupo, outrora à beira da extinção, conhecido como "dançarinos de cara preta", embora tenha tido o seu estatuto de conservação rebaixado em 2025, enfrenta em Taiwan, seu local de invernada, novos desafios de sobrevivência como o desenvolvimento fotovoltaico, botulismo e ataques de cães vadios.'
 date: 2026-04-30
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '野生動物'
 tags:
   [
     'colhereiro-de-cara-preta',
@@ -13,15 +11,19 @@ tags:
     'simbiose aquicultura-fotovoltaica',
     'natureza de Taiwan',
   ]
-readingTime: 8
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/黑面琵鷺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-04T19:20:15.693018+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O colhereiro-de-cara-preta foi outrora uma espécie globalmente reduzida a menos de 300 indivíduos; após trinta anos de esforço transfronteiriço, a sua população ultrapassa agora os 7.000, com mais de 60% a escolher Taiwan para invernar. É um exemplo de sucesso na conservação, mas, à medida que os números crescem, estas aves sensíveis estão a ser forçadas a abandonar as áreas nucleares de proteção, procurando o próximo refúgio seguro entre painéis fotovoltaicos, cães vadios e o letal botulismo.

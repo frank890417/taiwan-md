@@ -2,9 +2,7 @@
 title: 'Ecologia Marinha e Conservação de Recifes de Coral em Taiwan'
 description: 'Taiwan, cercada pelo mar, possui uma rica ecologia marinha; da crise de branqueamento de recifes de coral à conservação de cetáceos, discute-se a eficácia da proteção dos parques nacionais marinhos e os desafios futuros'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '國家公園與步道'
 tags:
   [
     'Ecologia Marinha',
@@ -14,15 +12,19 @@ tags:
     'Áreas Marinhas Protegidas',
     'Biodiversidade',
   ]
-readingTime: 13
+subcategory: '國家公園與步道'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-04T19:33:25.400419+00:00'
 ---
 
 # Ecologia Marinha e Conservação de Recifes de Coral em Taiwan

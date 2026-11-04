@@ -2,9 +2,7 @@
 title: 'Os guardiões por detrás do ecrã: da «inspeção cinematográfica» à «classificação de cinco níveis» a evolução da classificação de Taiwan'
 description: 'O sistema de classificação de Taiwan é um retrato histórico da transição da «revisão de conteúdo» da era da lei marcial para a «proteção de crianças e adolescentes» da era democrática. Desde a revogação da «Lei de Inspeção Cinematográfica» em 1983, passando pelo nascimento do nível «Protegido» impulsionado por «Jurassic Park» em 1993, até à adoção integral do sistema de cinco níveis em 2026, este artigo regista esta longa evolução sobre direitos de exibição e responsabilidade social.'
 date: 2026-04-08
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '媒體與傳播'
 tags:
   [
     'classificação de filmes',
@@ -14,15 +12,19 @@ tags:
     'lei marcial',
     'proteção de crianças e adolescentes',
   ]
-readingTime: 15
+subcategory: '媒體與傳播'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-07-25T12:13:33+08:00'
+translatedAt: '2026-11-04T19:17:53.452914+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O sistema de classificação de Taiwan já foi uma tesoura. Antes de 1983, os filmes tinham de passar por «inspeção» e não por «classificação», sendo a revisão política e moral a norma. A controvérsia dos dinossauros desencadeada por «Jurassic Park» em 1993 fez Taiwan perceber a lacuna do sistema de três níveis, levando ao nascimento do nível «Protegido». Hoje, Taiwan já estabeleceu um sistema de cinco níveis que abrange cinema, televisão, programas de vídeo e jogos digitais, transformando a «proibição de exibição» em «encaminhamento por faixa etária», salvaguardando a diversidade e a segurança do ambiente audiovisual.
