@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
 readingTime: 14
 rationale:
   why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
@@ -25,10 +29,10 @@ rationale:
   where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
   whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-10-23T02:24:41+08:00'
+translatedAt: '2026-11-04T15:56:47.693059+00:00'
 ---
 
 > **30-Second Overview:** Chou Tien-chen (周天成), born in Taipei in 1990, is Taiwan's leading men's singles badminton player. In 2014, he won the French Open, becoming the first Taiwanese player to claim a BWF Super Series men's singles title.[^2] In August 2019, his world ranking rose to second, the highest in the history of Taiwanese men's singles.[^1] He was the first Taiwanese player to defeat "world king" Lin Dan on the international stage.[^13] He has represented Chinese Taipei at three consecutive Olympic Games, reaching the quarterfinals all three times.[^2] In early 2023, a routine colonoscopy detected early-stage colon cancer; he underwent surgery and flew abroad for competition just days later, enduring a nearly year-long slump,[^3] only to reach the quarterfinals at the Paris Olympics at age 34 the following year.[^10] At 36, he remains a frequent fixture among the world's top-tier veterans.[^12]

@@ -17,77 +17,81 @@ featured: false
 readingTime: 8
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/people/chen-wen-yu-1.webp'
+imageCredit: 'Uiuc1028'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '9062be977'
-sourceContentHash: 'sha256:a830e3b88da8731a'
-sourceBodyHash: 'sha256:d47891ab6b5fa242'
-translatedAt: '2026-09-11T13:12:05+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:3facf31822b994ad'
+sourceBodyHash: 'sha256:93a5825f5b11a6f9'
+translatedAt: '2026-11-04T15:43:07.566445+00:00'
 ---
 
-![Chen Wen-yu with colleagues and watermelon](/article-images/people/chen-wen-yu-1.webp)
+![Chen Wen-yu with colleagues and watermelons](/article-images/people/chen-wen-yu-1.webp)
 
-_Caption: Chen Wen-yu displaying watermelon with colleagues. Source: Wikimedia Commons, author Uiuc1028, CC BY-SA 3.0; image not modified by this article._[^10]
+_Image: Chen Wen-yu and colleagues displaying watermelons. Source: Wikimedia Commons, author Uiuc1028, CC BY-SA 3.0; image not modified by this article._[^10]
 
-> **30-Second Overview**: Chen Wen-yu started at the Fengshan Tropical Horticultural Research and Extension Station, bred the "Fengshan No. 1" seedless watermelon, and founded Nongyou Seedlings. His uniqueness lies not just in the number of varieties, but in defining breeding success by whether farmers can exchange better seeds for more stable lives.
+> **30-second overview**: Starting from the Fengshan Tropical Horticulture Research Station, Chen Wen-yu bred the "Fengshan No. 1" seedless watermelon and founded Nongyou Seedlings. His distinction lies not just in the number of varieties he developed, but in his definition of breeding success: whether farmers can exchange better seeds for a more stable life.
 
-In 1925, Chen Wen-yu was born into a farming family in Yongkang, Tainan. In 1962, he bred the "Fengshan No. 1" seedless watermelon. In 1968, he co-founded Nongyou Seedlings with friends. These three years slice a life into three scales: the difficulties seen in the fields, the technical solutions solved in the laboratory, and the path a company later took across borders. [^1] [^2]
+In 1925, Chen Wen-yu was born into a farming family in Yongkang, Tainan. In 1962, he bred the "Fengshan No. 1" seedless watermelon. In 1968, he co-founded Nongyou Seedlings with friends. These three years divide a single life into three scales: the difficulties seen in the fields, the technical solutions found in the laboratory, and the path of a company that eventually crossed national borders. [^1] [^2]
 
-But what Chen Wen-yu truly left behind is not just the title "King of Watermelons." More worth asking is: **Why did a breeder place "letting farmers earn money first" before corporate profit?** Seeds are usually too small to appear in news photos, yet Chen Wen-yu treated them as a public commitment—varieties must enter the fields and ultimately translate into harvests farmers can see.
+But what Chen Wen-yu truly left behind is more than just the title "Watermelon King." A more important question to ask is: **Why would a breeder prioritize "letting farmers make money first" over corporate profit?** Seeds are usually too small to appear in news photographs, yet Chen Wen-yu treated them as a public commitment—varieties must enter the fields and ultimately be transformed into harvests that farmers can see.
 
-## Starting from the Sighs of the Farmland
+## Starting from the Sighs of the Fields
 
-![Chen Wen-yu breeding oriental pickling melon in the field](/article-images/people/chen-wen-yu-melon.webp)
+![Chen Wen-yu cultivating oriental melons in the field](/article-images/people/chen-wen-yu-melon.webp)
 
-_Caption: The Wikimedia Commons file page describes this image as Chen Wen-yu breeding the oriental pickling melon; author Uiuc1028, CC BY-SA 3.0. Image not modified by this article._[^11]
+_Image: Wikimedia Commons file describes this image as Chen Wen-yu cultivating oriental melons; author Uiuc1028, CC BY-SA 3.0. Image not modified by this article._[^11]
 
-As a youth, Chen Wen-yu helped in the fields, witnessing his parents' helplessness in the face of natural disasters and unstable harvests. After graduating from the Research Department of Hsin Feng Agricultural College, he entered the Fengshan Tropical Horticultural Research and Extension Station, initially working on vegetable breeding before shifting his focus to watermelons. According to _Taiwan Panorama_, he surveyed soil quality, moisture, climate, and crop suitability from south to north, observing in the fields during the day and compiling reports in the laboratory at night. [^1]
+As a young man, Chen Wen-yu helped out in the fields, witnessing his parents' helplessness in the face of natural disasters and unstable harvests. After graduating from the Research Department of Hsinchu Agricultural and Vocational School, he joined the Fengshan Tropical Horticulture Research Station, initially working on vegetable breeding before eventually shifting his focus to watermelons. According to _Taiwan Guanghua_, he once conducted surveys from south to north regarding soil quality, moisture, climate, and crop suitability—observing in the fields by day and returning to the laboratory at night to compile reports. [^1]
 
-This experience is crucial because Chen Wen-yu did not start imagining varieties from "what the market lacks," but first asked what the farmers' land could withstand. To him, breeding was not about adding a new color to fruit on paper. It had to simultaneously face diseases, climate, transportation, and whether farmers could afford the seeds.
+This experience was crucial because Chen Wen-yu did not begin imagining varieties based on "what the market lacks," but rather asked what the farmers' land could actually sustain. To him, breeding was not about adding a new color to fruit on paper; it had to simultaneously contend with pests, climate, transportation, and whether farmers could afford the seeds.
 
-📝 **Curator's Note: Chen Wen-yu's starting point was not to make Taiwan's agriculture more beautiful, but to let farmers bear less of the risk of "planting without knowing if there will be a harvest."**
+📝 **Curator's Note: Chen Wen-yu's starting point was not making Taiwan's agriculture look more beautiful, but rather reducing the risk for farmers of "planting something without knowing if there will be a harvest."**
 
-## Fengshan No. 1: Technology is Not the End Point
+## Fengshan No. 1: Technology is Not the Destination
 
-![Photo of a seedless watermelon cross-section in the public domain](/article-images/people/watermelon-seedless.webp)
+![A cross-section photo of a seedless watermelon in the public domain](/article-images/people/watermelon-seedless.webp)
 
-_Caption: The Wikimedia Commons file page explicitly labels this as "Seedless watermelon," with original description stating it was purchased in Atlanta, USA, in 2005, product from Nicaragua; author SCEhardt, public domain. This is an illustrative photo of a seedless watermelon, not Fengshan No. 1, nor a historical photo of Chen Wen-yu taken in Taiwan._[^17]
+_Image: Wikimedia Commons file explicitly labeled "Seedless watermelon"; original description states it was purchased in Atlanta, USA, in 2005 and the product originated from Nicaragua; author SCEhardt, public domain. This is an illustrative photo of a seedless watermelon, not Fengshan No. 1, nor a historical photo of Chen Wen-yu taken in Taiwan._[^17]
 
-In the 1950s, some watermelon seeds used by Taiwanese farmers encountered issues with disease resistance and reproduction. Chen Wen-yu thus devoted himself to seedless watermelon research. This also explains why "seedless" is not a single laboratory achievement, but an industrial process composed of parent selection, chromosome doubling, hybridization, field pollination, and segregated harvesting. Data from North Carolina State University's Cucurbit Breeding program indicates that growers typically need to configure diploid and tetraploid plants in the field and distinguish between seeded and seedless fruits during harvesting and sales. [^13] After about three years of effort, he bred "Fengshan No. 1" in 1962. Reports in _Taiwan Panorama_ describe how he used chromosome doubling and mating to produce offspring that formed seedless watermelons without reproductive capacity. English reports summarize this achievement as the "world's first seedless watermelon." [^1] [^3]
+In the 1950s, some watermelon seeds used by Taiwanese farmers faced issues with disease resistance and reproduction. Consequently, Chen Wen-yu devoted himself to seedless watermelon research. This also explains why "seedless" is not a single laboratory achievement, but rather an industrial process composed of parent selection, chromosome doubling, hybridization, field pollination, and the segregation of harvests. Data from North Carolina State University's Cucurbit Breeding indicates that growers typically must arrange diploid and triploid plants in the field and distinguish between seeded and seedless fruit during harvest and sales. [^13] After approximately three years of effort, he bred "Fengshan No. 1" in 1962. Reports from Taiwan's _Guanghua_ magazine describe how he utilized chromosome doubling and mating to ensure the offspring formed sterile, seedless watermelons. English reports summarize this achievement as the "world's first seedless watermelon." [^1] [^3]
 
-Here lies a verification difference that cannot be smoothed over by convenience: different sources have different expressions regarding the "first" in terms of region and global ranking. This article adopts the most conservative statement, directly verifiable by Chinese reports, calling it **Taiwan's first seedless watermelon, "Fengshan No. 1."** The claim of "world's first" is retained only in the context of quoting English reports, to avoid mistaking media shorthand for an uncontested scientific historical conclusion. [^1] [^3]
+There is a discrepancy in verification here that cannot be glossed over: different sources offer different descriptions regarding the geographic and global ranking of the "first" watermelon. This article adopts the most conservative phrasing, which can be directly verified against Chinese-language reports, calling it **Taiwan's first seedless watermelon, "Fengshan No. 1."** As for being the "world's first," this is only retained within the context of quoting English reports to avoid misrepresenting media shorthand as an undisputed scientific historical conclusion. [^1] [^3]
 
-The story of the seedless watermelon, therefore, should not be written merely as "an invention." From a breeding perspective, modern seedless varieties are usually not magic "without seeds," but the result of tetraploid hybridization: a tetraploid female parent (2n=4x=44) mated with a diploid male parent (2n=2x=22) produces a triploid (2n=3x=33). The three sets of chromosomes make it difficult to distribute evenly during meiosis, causing female and male gametes to lose normal function, so the fruit usually does not form mature seeds. Triploids themselves cannot provide effective pollen; production fields still need to configure diploid plants to stimulate fruiting. [^13] The true turning point occurred in Erlun, Yunlin. Based on farmland surveys, Chen Wen-yu judged that the barren sandy fields under the Xiluo Bridge were suitable for planting this cold-sensitive watermelon. He drove north from Fengshan and worked with Wang Liangxiong, a farmers' association officer, to teach farmers how to plant. Farmers worked in the fields during the day and could only study at night. Chen Wen-yu recalled: "Since farmers had to go to the fields during the day, they could only use the night for study. I often had to stay overnight in the farmers' association duty room, but there were so many mosquitoes that I couldn't sleep at all." [^1]
+The story of seedless watermelons, therefore, should not be written merely as "an invention." From a breeding perspective, modern seedless varieties are usually not a magic trick of having "no seeds," but rather the result of triploid hybridization: a tetraploid mother (2n=4x=44) mates with a diploid father (2n=2x=22) to produce a triploid (2n=3x=33). The three sets of chromosomes are difficult to distribute evenly during meiosis, causing male and female gametes to lose normal function; thus, the fruit typically does not form mature seeds. Because triploids themselves cannot provide effective pollen, production fields still require the placement of diploid plants to stimulate fruiting. [^13] The true turning point occurred in Erlun, Yunlin. Based on farmland surveys, Chen Wen-yu determined that the barren sandy fields under the Xiluo Bridge were suitable for planting this cold-sensitive watermelon. He drove north from Fengshan to work alongside Wang Liang-hsiung, a Farmers' Association official, to teach farmers how to cultivate it. Since farmers worked in the fields during the day, they could only study at night. Chen Wen-yu recalled: "Because the farmers had to be in the fields during the day and could only study at night, I often had to stay overnight in the Farmers' Association duty room, but there were so many mosquitoes that it was impossible to sleep." [^1]
 
-The barren sandy fields later bore watermelons, which were assisted by agricultural institutions at the time for export to Hong Kong. Farmers found the returns better than rice, giving him the title "King of Watermelons." If this title is placed only at the end of a success story, it looks like a trophy. Placed back in those barren sandy fields, it is actually more like a work ID: Chen Wen-yu had to be present on site, accompanying farmers to turn technology into harvest. [^1]
+The barren sandy fields eventually yielded watermelons, which were assisted in being exported to Hong Kong by agricultural institutions of the time. It was only after farmers discovered that the returns were better than rice that he was given the title "Watermelon King." If this title is placed only at the end of a success story, it looks like a trophy. Placed back in those barren sandy fields where nothing grew, it is actually more like an ID badge: Chen Wen-yu had to be physically present to help farmers turn technology into a harvest. [^1]
 
-## A Company That First Learned to Send Seeds into the Fields
+## One Company, First Learning to Put Seeds into the Fields
 
 ![Watermelon from a small-scale organic farm in Tainan](/article-images/people/tainan-organic-farm-watermelon.webp)
 
-_Caption: Watermelon from a small-scale organic farm in Tainan City, Taiwan, photographed in November 2009; author Fred Hsu, CC BY-SA 3.0. It is a scene of Taiwan's agriculture, not a historical photo of Chen Wen-yu at work._[^12]
+_Image: Watermelon from a small-scale organic farm in Tainan, Taiwan, photographed in November 2009; author Fred Hsu, CC BY-SA 3.0. This is a depiction of the Taiwanese agricultural landscape, not a historical photo of Chen Wen-yu himself._[^12]
 
-In 1968, at age 43, Chen Wen-yu left the experimental station and co-founded Nongyou Seedlings with friends. Official materials position him as a pioneer in the development of hybrid vegetable varieties in Taiwan, recording that he published horticulture and seedling publications, established the Nongyou Social Welfare Foundation, and set up a Farmers' Hospital in Myanmar to provide free medical services. [^4]
+In 1968, 43-year-old Chen Wen-yu left the research institute to co-found Nongyou Seedlings with friends. Official records position him as a pioneer in the development of hybrid vegetable varieties in Taiwan, noting that he published horticulture and seed publications, established the Nongyou Social Welfare Foundation, and set up farmer hospitals in Myanmar to provide free medical services. [^4]
 
-Nongyou's official awards page later wrote the company's core value as "One Seed, One Responsibility," and listed Chen Wen-yu's receipt of the Third Class Jingxing Medal from the Republic of China, the Asia-Pacific Seed Association National Seedling Contribution Award, and the Presidential Commendation Order. These awards prove he received institutional recognition, but alone they cannot prove every industrial figure. Figures must still be verified against their respective sources. [^5]
+Nongyou's subsequent official awards page lists the company's core value as "One Seed, One Responsibility," and records Chen Wen-yu receiving the Order of the Brilliant Star, Third Class, the Asia-Pacific Seed Association National Seed Contribution Award, and a Commendation Order from the Presidential Office. While these awards prove institutional recognition, they cannot independently verify every industry statistic; figures must still be cross-referenced with their respective original sources. [^5]
 
-The _Chen Wen-yu and Lin Jun-yi Interview Record_ published by the Academia Historica provides another important clue: the official book introduction places Chen Wen-yu in the context of Taiwan's agricultural seedling breeding going international, specifically mentioning the "Diana" yellow-skinned watermelon and the AAS Award, as well as Nongyou's global R&D bases, Farmers' Hospital, and Social Welfare Foundation. This is not a summary that can replace the verbatim interviews in the book, but it proves Chen Wen-yu's story is not pieced together solely by later legendary articles. [^6]
+The _Interview Record of Chen Wen-yu and Lin Jun-yi_, published by the Institute of Historical Archives, provides another important clue: the official book introduction places Chen Wen-yu within the context of Taiwan's agricultural seed breeding moving toward internationalization, specifically mentioning the "Diana" yellow-fleshed watermelon and its AAS award, as well as Nongyou's global R&D sites, farmer hospitals, and social welfare foundation. This is not a substitute for the verbatim interviews in the book, but it proves that Chen Wen-yu's story was not constructed solely from later legendary articles. [^6]
 
-📝 **Curator's Note: Taiwan's agricultural soft power is sometimes not a flag, but a seed that can sprout in another climate.**
+📝 **Curator's Note: Taiwan's agricultural soft power is sometimes not a flag, but a packet of seeds capable of germinating in a different climate.**
 
-## The Corporate View of "Letting Farmers Earn Money First"
+## A Corporate Philosophy of "Letting Farmers Earn Money First"
 
-![Photo of mature watermelon from Wikimedia Commons](/article-images/people/watermelons.webp)
+![Wikimedia Commons photo of a ripe watermelon](/article-images/people/watermelons.webp)
 
-_Caption: Mature watermelon, author Steve Evans, Wikimedia Commons, CC BY 2.0; this image is used to present the watermelon crop itself, not a historical photo of Chen Wen-yu or a Taiwanese farm._[^14]
+_Image: Ripe watermelon, author Steve Evans, Wikimedia Commons, CC BY 2.0; this image is used to represent the watermelon crop itself, not a historical photograph of Chen Wen-yu or a Taiwanese farm._[^14]
 
-_Smiling Taiwan_ records Chen Wen-yu's interviews in his later years. He distinguished seeds from general consumer goods, saying the "responsibility of a seed" is to "develop good varieties and bring good returns to farmers." In the same report, he also discussed breeding the yellow-skinned, red-fleshed "Diana" watermelon, repeatedly facing green-skinned individuals, but ultimately described that stubborn spirit as "just wanting to be different from others!" [^7]
+_Smiling Taiwan_ recorded interviews from Chen Wen-yu's later years. He distinguished seeds from general consumables, stating that "the responsibility of a single seed" is to "develop good varieties that bring good returns to farmers." In the same report, when discussing the breeding of the yellow-skinned, red-fleshed "Diana" watermelon, he spoke of repeatedly encountering green-skinned individuals; he ultimately described that unyielding persistence by saying, "I just wanted to be different from everyone else!"[^7]
 
-_Upstream/Downstream_ places this management philosophy on a larger geographical scale: Nongyou promoted seedlings and cultivation techniques in northern Thailand, China, and India, and established a Farmers' Hospital in Myanmar. The report simultaneously preserves the less attractive parts of agricultural globalization, such as the problem of counterfeiting in the Chinese market and the risks of cross-border operations. These difficulties should not be cut out, because "helping farmers" is not a pretty corporate slogan, but bearing costs in unfamiliar systems, transportation, and markets. [^8]
+_Upstream/Downstream_ placed this management philosophy on a larger geographical scale: Nongyou once promoted seedlings and cultivation techniques in northern Thailand, China, and India, and even established farmer hospitals in Myanmar. The report simultaneously preserved the less glamorous aspects of agricultural globalization, such as counterfeiting issues in the Chinese market and the risks of cross-border operations. These difficulties should not be omitted, because "helping farmers" is not just a beautiful corporate slogan, but involves bearing costs within unfamiliar systems, transportation networks, and markets.[^8]
 
-The English _Taipei Times_, in its report on Chen Wen-yu's passing, quoted him saying: "My goal is to create the world’s most delicious watermelon." The same report recorded another sentence closer to his work ethic: "It takes good seedlings to produce good varieties. We provide farmers with good seeds to help them reap better harvests." [^3]
+In an English report by the _Taipei Times_ regarding Chen Wen-yu's passing, it quoted him saying: "My goal is to create the world’s most delicious watermelon." The same report also recorded another sentence closer to his work ethic: "It takes good seedlings to produce good varieties. We provide farmers with good seeds to help them reap better harvests."[^3]
 
-Looking at the two sentences together, one finds his goals are not contradictory: the most delicious watermelon is the breeder's imagination, but the fact that farmers can have better harvests is the reason this imagination is allowed to exist.
+Looking at these two sentences together, one finds that his goals were not contradictory: the most delicious watermelon is the breeder's vision, but the fact that farmers can achieve better harvests is the very reason that vision is allowed to exist.
 
 ## Seeds Go Out, Bringing Limitations Along
 
@@ -143,15 +147,15 @@ A more reliable understanding is: he made a working method last for a long time.
 
 Next time we cut open a slice of seedless watermelon, perhaps we do not need to think of it as a monument to a certain genius. A reading closer to Chen Wen-yu is to imagine that behind that flesh lies a series of eliminated tables, pieces of unsuitable land, and a person who is still willing to bring technology back to the fields. Seeds are small. The responsibility they require has never been small. Precisely because of this, Chen Wen-yu's story belongs not only to agricultural history, but also to those who are willing to do one more verification before handing a technology to others. This patience is precisely the work that is most difficult to see but cannot be omitted before seeds truly cross borders. It reminds us that truly reliable innovation often endures long waiting in details, and thus deserves to be re-verified by generation after generation of farmers, and repeatedly reminded by every piece of land that needs to re-adapt, reminding us, and reminding later comers.
 
-## Seedlings Are Not an Appendix to Agricultural Products
+## Seedlings Are Not Merely an Appendage to Agricultural Products
 
-![Watermelon growing in the field](/article-images/people/growing-watermelon.webp)
+![Watermelons growing in a field](/article-images/people/growing-watermelon.webp)
 
-_Caption: Watermelon growing in the field, author Mihaib21, Wikimedia Commons, CC BY-SA 3.0; this image is used to present the crop growth stage, not a historical photo of Chen Wen-yu at work._[^16]
+_Image: Watermelons growing in a field, author Mihaib21, Wikimedia Commons, CC BY-SA 3.0; this image is used to represent crop growth stages and is not a historical photograph of Chen Wen-yu's actual workplace._[^16]
 
-Chen Wen-yu's case can also help us re-understand the term "agricultural industry chain," which is often spoken of in vague terms. Farmers see seedlings, leaves, flowers, and fruits in the fields. Seedling companies must handle parents, pollination, isolation, purity, germination rate, packaging, and preservation even earlier. If any one link is off, what farmers receive may not be the expected variety. Agricultural cross-domain integration cases point out that Nongyou later even needed to improve the storage positions and information processes of the germplasm bank, precisely because seed management cannot rely only on memory and paper. [^9]
+Chen Wen-yu's case helps us re-examine the term "agricultural industry chain," which is often used in a vague manner. What farmers see in the field are seedlings, leaves, flowers, and fruit. Seedling companies, however, must handle parent plants, pollination, isolation, purity, germination rates, packaging, and preservation much earlier in the process. If even one of these stages is inaccurate, the variety received by the farmer may not be what was expected. Cases of cross-domain agricultural integration have pointed out that farmers eventually need to improve the storage capacity and information workflows of germplasm banks, precisely because seed management cannot rely solely on memory and paper records. [^9]
 
-This "invisible infrastructure" is also a less discussed side of Chen Wen-yu's story. Taiwan often places agricultural achievements on yield, export, or award-winning varieties, but what truly allows a company to breed long-term is the ability to preserve failed parents, record every hybridization, distinguish different generations, and still find that material years later. For breeding, data is not an administrative burden, but the starting point for the next success.
+This "invisible infrastructure" is an aspect of Chen Wen-yu's story that is less frequently discussed. Taiwan often focuses its agricultural achievements on yield, exports, or award-winning varieties; however, what truly enables a company to conduct long-term breeding is the ability to preserve failed parent plants, record every hybridization, distinguish between different generations, and still be able to locate those materials many years later. For breeding, data is not an administrative burden, but rather the starting point for the next success.
 
 ## From Fengshan No. 1 to Today's Triploid Technology
 

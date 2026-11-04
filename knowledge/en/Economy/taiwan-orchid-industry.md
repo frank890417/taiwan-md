@@ -20,17 +20,17 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: '63fb967a1'
-sourceContentHash: 'sha256:e5ed54a3ae12d0e6'
-sourceBodyHash: 'sha256:f9ade260f241a953'
-translatedAt: '2026-09-11T07:34:48+08:00'
+sourceCommitSha: 'ff8ab4d4d'
+sourceContentHash: 'sha256:38a4067994051318'
+sourceBodyHash: 'sha256:14e97ff0df91ded4'
+translatedAt: '2026-11-04T15:26:47.582003+00:00'
 ---
 
-> **30-Second Overview:** In 1997, Taiwan’s phalaenopsis orchids began recording export achievements; by 2011, official statistics showed export value had risen from USD 3.533 million to USD 98.474 million. Yet this path was not as simple as picking flowers and mailing them. Taiwan connected breeding, tissue culture, greenhouse management, quarantine, ocean freight, overseas forcing, and variety rights into a single supply chain, transforming a plant that requires careful tending into an agricultural product capable of cross-border handoff.
+> **30-Second Overview:** In 1997, Taiwan's phalaenopsis orchids began recording export achievements; by 2011, official export values had grown from USD 3.533 million to USD 98.474 million. However, this process is more complex than simply picking flowers and shipping them out. Taiwan has integrated breeding, tissue culture, greenhouse management, quarantine, maritime shipping, overseas flower induction, and plant variety rights into a single supply chain, transforming a delicate plant that requires constant care into an agricultural product capable of international handover.
 
 ![Phalaenopsis Taisuco Kobold, Tainan International Orchid Exhibition](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-Image: Ah Qiao HQ / [Wikimedia Commons File Page](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Image embedded via hotlink, not downloaded.
+_Image: A-Qiao HQ / [Wikimedia Commons file page](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD%5FPhalaenopsis%5FTaisuco%5FKobold%5F-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95%5FTaiwan%5FInternational%5FOrchid%5FShow-%5F(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Image embedded via hotlink; not downloaded._
 
 ## Flowers Do Not Fly Directly from Greenhouses to Flower Shops
 
@@ -110,20 +110,20 @@ When the next flowering season arrives, perhaps we should change the question: r
 
 ## References
 
-[^1]: [Council of Agriculture: Global Layout of Agricultural Product Trade, Crossing the Strait—A Brief Discussion on the Rise of Taiwan’s Phalaenopsis Industry](https://www.moa.gov.tw/ws.php?id=2446099) — Official Council of Agriculture article, recording phalaenopsis export data, the U.S.-bound with growing media plan, ocean freight preservative technology, and industry greenhouse distribution.
+[^1]: [Ministry of Agriculture: Global Layout of Agricultural Trade and Bridging Both Sides—A Brief Discussion on the Rise of Taiwan's Phalaenopsis Industry](https://www.moa.gov.tw/ws.php?id=2446099) — Official article from the Ministry of Agriculture, documenting Phalaenopsis export data, the US import medium program, maritime preservation technology, and the distribution of industry greenhouses.
 
-[^2]: [Agricultural Knowledge Portal / Fengnian Magazine: From “Exotic Orchids” to Taiwan Light: A Century of Phalaenopsis Industry Development](https://www.agriharvest.tw/archives/126282/) — Professional agricultural media article, organizing the historical context of native species, orchid art culture, breeding, Taiwan Sugar’s involvement, international orchid shows, and wild conservation systems.
+[^2]: [Agricultural Knowledge Portal / Fengnian Magazine: From 'Orchids' to Taiwan's Pride: A Century of Phalaenopsis Industry Development](https://www.agriharvest.tw/archives/126282/) — Article from professional agricultural media, organizing the historical context of native species, orchid culture, breeding, investment by Taiwan Sugar Corporation, international orchid exhibitions, and wild conservation systems.
 
-[^3]: [Taiwan Sugar: Cover Story—The Strongest Commercial Orchids: Legend Chapter](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Taiwan Sugar official publication article, explaining the institutionalization of the phalaenopsis business from the perspective of corporate transformation, Xihu trialing, Dutch greenhouses, and the establishment of the Horticulture Division.
+[^3]: [Taiwan Sugar Corporation: Cover Story—Our Commercially Available Orchids are the Strongest (Legendary Edition)](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1415&p=13386166&s=13386167) — Official publication from Taiwan Sugar Corporation, explaining the institutionalization process of the Phalaenopsis business through corporate transformation, Xihu trial planting, Dutch-style greenhouses, and the establishment of horticulture departments.
 
-[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — Official 2026 announcement from the European Union’s Plant Variety Office, detailing the mutual recognition of Taiwan-EU phalaenopsis and Oncidium DUS test reports and progress in variety rights cooperation.
+[^4]: [CPVO: CPVO and Taiwan Expand Plant Variety Protection to Oncidium Orchids](https://cpvo.europa.eu/en/news-and-events/news/cpvo-and-taiwan-expand-plant-variety-protection-oncidium-orchids-0) — 2026 official announcement from the Community Plant Variety Office (EU), explaining the mutual recognition of DUS test reports for Phalaenopsis and Oncidium orchids between Taiwan and the EU, as well as progress in plant variety protection cooperation.
 
-[^5]: [Council of Agriculture: Aspects of Plant Variety Rights—Plant Variety Rights and Industrial Globalization Layout—Taking Phalaenopsis as an Example](https://www.moa.gov.tw/ws.php?id=2445491) — Council of Agriculture institutional analysis article, explaining territoriality of variety rights, phalaenopsis breeding cycles, global breeding division of labor, and industry chain layout.
+[^5]: [Ministry of Agriculture: Perspectives on Plant Variety Rights—Plant Variety Rights and Global Industry Layout—Using Phalaenopsis as an Example](https://www.moa.gov.tw/ws.php?id=2445491) — Institutional analysis article from the Ministry of Agriculture, explaining the principle of territoriality in variety rights, Phalaenopsis breeding cycles, global breeding division of labor, and supply chain layout.
 
-[^6]: [Zhao Xin-yen: A Study on the Production Type of Taiwan’s Phalaenopsis Industry—Taking the Tainan Area as an Example](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Master’s thesis page收录 by Airiti from National Taiwan Normal University, providing abstracts on Tainan production areas, agricultural industrialization, core and satellite nurseries, and social network research.
+[^6]: [Zhao Xinyan: A Study on the Production Patterns of Taiwan's Phalaenopsis Industry—Taking the Tainan Region as an Example](https://www.airitilibrary.com/Article/Detail/U0021-1610201315171117) — Master's thesis page from National Taiwan Normal University indexed in Airiti, providing research abstracts on Tainan production areas, agricultural industrialization, core and satellite orchid nurseries, and social networks.
 
-[^7]: [S. Wei et al.: Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — English academic article page in _Acta Horticulturae_, analyzing Taiwan’s orchid small and medium enterprises, value chains, technological advantages, and long-term sustainability issues through in-depth interviews.
+[^7]: [S. Wei et al.: Value Chain Dynamics in the Taiwan Orchid Industry](https://www.actahort.org/books/878/878_56.htm) — English academic article page from Acta Horticulturae, using in-depth interviews to analyze small and medium-sized enterprises (SMEs) in Taiwan's orchid industry, value chains, technological advantages, and long-term sustainability issues.
 
-[^8]: [Council of Agriculture: Taiwan and Japan Sign Memorandum of Understanding on Cooperation of Plant Variety Test Reports, Opening a New Chapter of Cooperation](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 2024 official news from the Council of Agriculture and Forestry, explaining mutual recognition of plant variety test reports between Taiwan and Japan, variety right review time, 17 overseas variety right achievements, and overseas application costs.
+[^8]: [Ministry of Agriculture: Taiwan and Japan Sign Memorandum of Understanding on Plant Variety Test Reports, Opening a New Chapter of Cooperation](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 2024 official news from the Agriculture and Food Agency, explaining the mutual recognition of plant variety test reports between Taiwan and Japan, variety right examination timelines, 17 overseas variety right achievements, and overseas application costs.
 
-[^9]: [Wikimedia Commons: Phalaenopsis Taisuco Kobold—Tainan International Orchid Exhibition](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — See original link for supplementary content details.
+[^9]: [Wikimedia Commons: Phalaenopsis Taisuco Kobold—Tainan International Orchid Show](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — See original link for supplementary information.

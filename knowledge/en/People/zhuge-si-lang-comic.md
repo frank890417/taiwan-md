@@ -15,22 +15,26 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp'
+imageCredit: 'Ralff Nestor Nacor'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/諸葛四郎.md'
-sourceCommitSha: 'e38376ee4'
-sourceContentHash: 'sha256:e3fbaeedac9c6f10'
-sourceBodyHash: 'sha256:1b0f00900854455d'
-translatedAt: '2026-09-11T10:20:14+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:b2501899e99db9e7'
+sourceBodyHash: 'sha256:1b666fa0ae47a4ce'
+translatedAt: '2026-11-04T16:02:50.400275+00:00'
 ---
 
-> **30-Second Overview:** Ye Hongjia blended the fear of the post-White Terror era, the loyalty of chapter novels, the puzzles of Japanese detective fiction, and the local publishing landscape into a boy named Zhuge Silang. The work once swept the island, then vanished due to censorship and market shifts. Looking at him today is not just about recovering a character, but seeing how Taiwanese comics once developed their own grammar.
+> **30-Second Overview:** Ye Hongjia blended the fears following the White Terror, the loyalty found in episodic novels, the intricate mechanisms of Japanese mystery, and the reality of Taiwan's publishing scene to create a youth named _Zhuge Silang_. His works once swept across Taiwan but disappeared due to censorship and market shifts. Re-examining him today is not just about reclaiming a character, but about seeing how Taiwanese comics once developed their own unique grammar.
 
-In 1958, Ye Hongjia began serializing _Zhuge Silang vs. The Devil Party_ in Taipei’s _Manga King_ weekly. He was 34 years old, more than a decade after his imprisonment for political cartoons. Readers sent over 10,000 guesses hoping to uncover the true identity of the Devil Party’s leader. Zhuge Silang was originally planned as a ten-chapter serial, but letters and market demand kept him alive. [^1] [^2]
+In 1958, Ye Hongjia began serializing _Zhuge Silang Battles the Devil Party_ in the Taipei-based weekly magazine _Manhua Dawang_. He was 34 years old that year, more than a decade after his imprisonment for political cartoons. Readers sent over 10,000 guesses, desperate to know the true identity of the leader of the Devil Party. _Zhuge Silang_ was originally planned as a short series of about ten installments, but the influx of letters and market demand kept it alive. [^1] [^2]
 
-This origin point holds an intuitive counterpoint: Zhuge Silang looks like a knight-errant from ancient China, yet he is a product forged in Taiwan’s post-war publishing landscape through Japanese manga, film, rental bookstores, and local printing. He is not a simple “traditional hero,” but a Taiwanese creation born of hybrid culture.
+There is something counterintuitive about this starting point: while _Zhuge Silang_ looks like a swordsman stepped out of ancient China, he was actually a character forged within Taiwan's post-war publishing scene—a product of Japanese manga, cinema, rental bookstores, and local printing. He was not merely a "traditional hero," but a Taiwanese product born from a hybrid culture.
 
-📝 **Curator’s Note:** The most compelling aspect of Zhuge Silang is not how well he fights, but how he reveals how an island dismantled foreign forms to reassemble its own heroes.
+📝 **Curator's Note:** The most worthwhile aspect of revisiting _Zhuge Silang_ is not how well he can fight, but how he allows us to see how an island deconstructs foreign forms to recompose its own heroes.
 
 ## Ye Hongjia Did Not Draw Heroes First
 
@@ -80,17 +84,17 @@ Equally important are the manuscripts. The 2024 Ye Hongjia Centennial Memorial E
 
 Ye Jialong said: “Ordinary people can also do extraordinary things.” [^1] If taken merely as an inspirational slogan, this is too light. Placed back in the context of the exhibition, it refers to how a creator suppressed by the times relied on family preservation, museum curation, researcher organization, and new-generation adaptations to bring the work back into the public eye.
 
-## From Memory to Public Culture
+## From Memory Back to Public Culture
 
-Zhuge Silang was adapted into 1970s films and 1980s TV series, and a 3D animated film _Zhuge Silang: Hero of Heroes_ was released in 2022. [^1] In 2024, the National Taiwan Museum of Comics presented three exhibitions—_Zhuge Silang 100_, _Becoming Zhuge Silang_, and _Hero Soul_—placing manuscripts, animation, reader memories, and comic history within the same campus. [^1] [^7]
+_Zhuge Silang_ was adapted into films in the 1970s and television series in the 1980s, and a 3D animated film titled _Zhuge Silang: Hero of Heroes_ was released in 2022. [^1] In 2024, the National Taiwan Museum of Comics presented three exhibition series—_Zhuge Silang 100_, _Becoming Zhuge Silang_, and _Heroic Soul_—bringing original manuscripts, animation, reader memories, and comic book history together within the same campus. [^1] [^7]
 
-These adaptations do not equal the complete preservation of the original. Each recoloring, adaptation, exhibition, or commercialization reselects which characters, tones, and values remain. The “loyalty, righteousness, wit, and courage” cited in academic research form the work’s ethical skeleton, but not its entirety. Zhuge Silang also includes masks, misidentification, cross-cultural borrowing, publishing labor, and gaps left by censorship. [^5]
+These adaptations do not equate to the complete preservation of the original work. Every instance of recoloring, adaptation, exhibition, or commercialization involves a new selection of which characters, tones, and values are to be retained. The "filial piety, righteousness, wit, and courage" cited by academic researchers form an important ethical backbone of the work, but they are not everything. _Zhuge Silang_ also encompasses masks, mistaken identity, cross-cultural borrowing, publishing labor, and the gaps left behind by censorship. [^5]
 
-Photos of the National Taiwan Museum of Comics on Wikimedia Commons show a preserved Japanese colonial-era building. It is not a Zhuge Silang manuscript, nor can it pass as historical evidence of the work. It serves only to point to one thing: comic preservation requires space, and space also rearranges how works are viewed. [^8]
+The photograph of the National Taiwan Museum of Comics on Wikimedia Commons depicts a preserved building from the Japanese colonial period. It is not an original _Zhuge Silang_ manuscript, nor can it serve as historical evidence of the work itself. In this article, it serves only to point toward one thing: comic book preservation requires space, and that space reconfigures how works are viewed. [^8]
 
-![National Taiwan Museum of Comics campus architecture, serving as the modern scene for Zhuge Silang’s curation and re-display.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
+![The campus building of the National Taiwan Museum of Comics, serving as a modern setting for the collection and re-exhibition of *Zhuge Silang*.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
 
-_Image caption: Photographed by Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. The image serves only as a visual representation of the National Taiwan Museum of Comics site and does not mistake the architecture for the original Zhuge Silang work. Source: [Wikimedia Commons Image Page](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
+_Image caption: Photo by Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. The image is used only to illustrate the setting of the National Taiwan Museum of Comics and is not intended to misrepresent the building as an original *Zhuge Silang* work. Source: [Wikimedia Commons image page](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
 
 ## Not Sealing Childhood in Amber
 
