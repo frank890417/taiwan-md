@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:03+08:00'
+translatedAt: '2026-11-04T19:49:31.773363+00:00'
 ---
 
 > 타이완의 25~35세 젊은이들은 아무도 선언하지 않은 생존 실험을 치르고 있다. 중위 소득은 3만 8천 위안에 머무르는데, 타이베이 원룸 월세는 1만 4천 위안부터 시작한다. 정규직 하나로는 부족하기에, 퇴근 후 배달 앱을 켜고, 주말에 프로젝트를 처리하며, 심야에 영상을 편집한다. 이것은 '스킬 융합 트렌드'가 아니라 구조적 난관이 만들어낸 생존 전략이다.

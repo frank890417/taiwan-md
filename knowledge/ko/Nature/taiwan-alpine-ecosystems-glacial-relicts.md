@@ -2,20 +2,22 @@
 title: '대만 고산 생태계와 빙하기 유존종'
 description: '해발 3,000m 이상 대만 고산지대의 독특한 생태계, 대만삼나무·옥산진달래부터 빙하기 유존 생물까지 귀중한 생물다양성을 탐구한다.'
 date: 2026-03-20
+category: 'Nature'
 tags:
   ['고산생태', '빙하유존종', '대만삼나무', '고산식물', '생물다양성', '기후변화']
 subcategory: '生態系統'
-category: 'Nature'
 author: 'Taiwan.md Contributors'
-readingTime: 11
 featured: false
-translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:f8dc834054c6b8b9'
-sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-04-14T10:55:17+08:00'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f8dc834054c6b8b9'
+sourceBodyHash: 'sha256:3d618da70d40426c'
+translatedAt: '2026-11-04T20:23:22.249750+00:00'
 ---
 
 # 대만 고산 생태계와 빙하기 유존종

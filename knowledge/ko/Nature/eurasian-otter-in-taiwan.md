@@ -2,9 +2,7 @@
 title: '대만 수달: 금문 유라시아 수달의 고립된 섬 생존기와 본조의 조용한 소멸'
 description: '대만 본토의 유라시아 수달은 1980년대 이후 확실한 야생 기록이 없어 개체군 현황이 불분명하며 극히 불투명하다. 현재 금문에만 남아 있는 "전쟁터 수달"은 서식지 파편화, 로드킬, 미세플라스틱 오염이라는 다중적 위협에 직면해 있다.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Nature
-subcategory: '保育與環境'
+category: 'Nature'
 tags:
   [
     '유라시아 수달',
@@ -15,15 +13,19 @@ tags:
     '로드킬',
     '서식지 파편화',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Nature/水獺.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/水獺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-05-16T22:35:46Z'
-featured: false
+translatedAt: '2026-11-04T20:13:19.280783+00:00'
 ---
 
 # 대만 수달: 금문 유라시아 수달의 고립된 섬 생존기와 본조의 조용한 소멸
