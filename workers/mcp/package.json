@@ -1,7 +1,7 @@
 {
   "name": "taiwanmd-mcp-worker",
   "private": true,
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Taiwan.md remote MCP endpoint — Cloudflare Worker (optional thin-client counterpart to the local stdio server)",
   "scripts": {
     "dev": "npx wrangler dev --port 8787",

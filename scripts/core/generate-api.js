@@ -108,23 +108,6 @@ function getAllMarkdownFiles(dir, baseDir = dir) {
   return files;
 }
 
-/**
- * 從檔案路徑推導分類
- *
- * ⚠️ 歷史包袱（2026-11-04 site-health 註記）：這裡回的是路徑第一段，所以
- * 譯文（`en/History/x.md`）的 `category` 是語言代碼 `en`，不是分類。
- * 首頁骰子（RandomDiscovery）、/explore 隨機鈕、mcp.taiwan.md worker、
- * npm CLI 都靠「category 是語言代碼 ⇒ 是譯文」來分語言，直接改成真分類會
- * 讓 MCP worker 把一萬多篇譯文當成中文原文。所以這個欄位維持原樣，另外加
- * `lang` 與 `categorySlug` 兩個正確的欄位給新的使用者（見 processMarkdownFile）。
- * 要不要做破壞性遷移，交給 reports/site-health-2026-11-04.md 的決策項。
- */
-function getCategoryFromPath(filePath) {
-  const relativePath = path.relative(KNOWLEDGE_DIR, filePath);
-  const pathParts = relativePath.split(path.sep);
-  return pathParts[0] || 'Misc';
-}
-
 // `[lang/]Category/slug.md` → { lang, categoryFolder }。第一段是語言代碼
 // （knowledge/ 下的小寫語言資料夾）才算譯文，否則是 zh-TW 原文。
 function getLangAndCategory(filePath) {
@@ -169,7 +152,6 @@ function processMarkdownFile(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
     const { frontmatter, content: bodyContent } = parseFrontmatter(content);
 
-    const category = getCategoryFromPath(filePath);
     const { lang, categoryFolder } = getLangAndCategory(filePath);
     const fileName = path.basename(filePath, '.md');
     const url = generateArticleUrl(filePath);
@@ -183,7 +165,11 @@ function processMarkdownFile(filePath) {
     return {
       title: frontmatter.title || fileName,
       description: frontmatter.description || '',
-      category: category,
+      // 真分類：磁碟上的分類資料夾（"History"、"People"），每種語言都一樣。
+      // 2026-11-04 以前譯文這欄是語言代碼（"vi"）。首頁骰子、/explore、
+      // mcp.taiwan.md worker（v0.7.2 起）、CLI 都已改讀 `lang`／`categorySlug`，
+      // 不再拿這欄判斷語言；見 public/api/README.md。
+      category: categoryFolder,
       tags: Array.isArray(frontmatter.tags)
         ? frontmatter.tags
         : frontmatter.tags
@@ -195,8 +181,7 @@ function processMarkdownFile(filePath) {
         frontmatter.featured === true || frontmatter.featured === 'true',
       date: frontmatter.date || null,
       path: path.relative(KNOWLEDGE_DIR, filePath),
-      // 2026-11-04 加：正確的語言與分類（URL 用的小寫分類 slug）。
-      // `category` 為了相容舊使用者維持原義，見 getCategoryFromPath 註解。
+      // 2026-11-04 加：語言（zh-TW／en／…）與 URL 用的小寫分類 slug。
       lang,
       categorySlug: categoryFolder.toLowerCase(),
     };
