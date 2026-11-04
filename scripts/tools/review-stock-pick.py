@@ -8,9 +8,13 @@ SOP canonical：docs/pipelines/MAINTAINER-PIPELINE.md §1d 審庫存
   1. T1 分類（TIER_MAP 直接 import 自 generate-dashboard-immune.py，不複寫）
   2. lastHumanReview ≠ true
   3. curation ≠ verified
-排序：GA 視窗內流量由高到低（public/api/dashboard-analytics.json 的 ga.topArticles7d，
-視窗天數以該檔 ga.days 為準，目前 28 天）；沒進榜的文章視為 0 流量，依「最後改動日期」
-（lastVerified 或 date）由舊到新補在後面——流量榜只有 20 列，不夠一週挑 1-2 篇時用。
+排序：先分組，再依 GA 視窗內流量由高到低（public/api/dashboard-analytics.json 的
+ga.topArticles7d，視窗天數以該檔 ga.days 為準，目前 28 天）；沒進榜的文章視為 0 流量，
+依「最後改動日期」（lastVerified 或 date）由舊到新補在後面。
+分組（2026-11-04 全站普查 §八 #3 #12，讀 reports/article-census/latest.json；沒有就不分組）：
+  0. featured 的 A 級（該標 🌱 卻因為是首頁精選而沒標——先查完再決定精選留不留）
+  1. A-watch：零查證證據、但不薄所以沒被標 🌱 的文章——規則看不見、只能靠人眼的區域
+  2. 其餘母體
 排除：近 N 天（預設 14）已有 preReview 指標的文章（避免重覆選同一批）；
       出現在任一 open PR diff 裡的文章（跟 maintainer 搶同一篇會 merge 衝突；要 gh，
       沒網路時 --skip-pr-check）。
@@ -42,6 +46,7 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 KNOWLEDGE = REPO_ROOT / "knowledge"
 ANALYTICS = REPO_ROOT / "public" / "api" / "dashboard-analytics.json"
 DONE_LOG = REPO_ROOT / "docs" / "semiont" / "ARTICLE-DONE-LOG.md"
+CENSUS = REPO_ROOT / "reports" / "article-census" / "latest.json"
 IMMUNE_PY = REPO_ROOT / "scripts" / "core" / "generate-dashboard-immune.py"
 
 
@@ -53,6 +58,24 @@ def load_tier_map() -> dict[str, str]:
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
     return dict(mod.TIER_MAP)
+
+
+def census_groups() -> tuple[dict[str, int], str | None]:
+    """{repo 路徑: 組別}（0 精選 A／1 A-watch），與普查產生日。普查檔不在回 ({}, None)。"""
+    if not CENSUS.exists():
+        return {}, None
+    sys.path.insert(0, str(REPO_ROOT / "scripts" / "tools"))
+    from lib.article_health import census as C  # noqa: E402
+
+    data = json.loads(CENSUS.read_text(encoding="utf-8"))
+    groups: dict[str, int] = {}
+    for r in data.get("articles", []):
+        if "A" in r.get("tiers", {}) and r.get("featured"):
+            groups[r["path"]] = 0
+        elif (r.get("curation") is None and r.get("category") != "About"
+              and "A" not in r.get("tiers", {}) and not C.has_deep_evidence(r)):
+            groups[r["path"]] = 1
+    return groups, data.get("generated")
 
 
 def fm_value(text: str, key: str) -> str | None:
@@ -119,6 +142,7 @@ def main() -> int:
     tier_map = load_tier_map()
     t1_cats = {c for c, t in tier_map.items() if t == "T1"}
     views, window_days = ga_views()
+    groups, census_date = census_groups()
     done_log = DONE_LOG.read_text(encoding="utf-8") if DONE_LOG.exists() else ""
     today = dt.date.today()
 
@@ -178,9 +202,10 @@ def main() -> int:
                 "walked_rewrite": walked,
                 "curation": fm_value(head, "curation"),
                 "has_prereview": bool(pre),
+                "census_group": groups.get(repo_rel, 2),
             })
 
-    rows.sort(key=lambda r: (-r["views"], r["last_touch"], r["path"]))
+    rows.sort(key=lambda r: (r["census_group"], -r["views"], r["last_touch"], r["path"]))
     picked = rows[: args.top]
 
     if args.json:
@@ -188,6 +213,7 @@ def main() -> int:
             "generated": today.isoformat(),
             "ga_window_days": window_days,
             "pr_check": pr_check,
+            "census": census_date,
             "population": len(rows),
             "skipped": skipped,
             "picked": picked,
@@ -206,6 +232,10 @@ def main() -> int:
                 flags.append(r["curation"])
             if r["has_prereview"]:
                 flags.append("preReview")
+            if r["census_group"] == 0:
+                flags.append("featured-A")
+            elif r["census_group"] == 1:
+                flags.append("A-watch")
             print(f"  {i}. views={r['views']:>4}  touch={r['last_touch']}  {r['path']}"
                   f"{'  [' + ','.join(flags) + ']' if flags else ''}")
     return 0 if rows else 1

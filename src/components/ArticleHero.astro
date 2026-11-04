@@ -18,6 +18,10 @@ interface Props {
   subcategory?: string;
   status?: string;
   coverImage?: string;
+  /** 背景圖的署名（目前只有分類預設封面會傳；文章自己的封面圖說在正文 figure 裡）。 */
+  coverCredit?: string;
+  coverLicense?: string;
+  coverSource?: string;
   slug: string;
   lang?: Locale;
 }
@@ -31,6 +35,9 @@ const {
   subcategory,
   status,
   coverImage,
+  coverCredit,
+  coverLicense,
+  coverSource,
   lang = 'zh-TW',
 } = Astro.props;
 
@@ -165,4 +172,26 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
       <TextToSpeech lang={lang as any} />
     </div>
   </div>
+  {
+    coverImage && coverCredit && (
+      <p class="hero-cover-credit absolute bottom-2 end-3 z-10 m-0 max-w-[90%] text-end font-['Inter',system-ui,sans-serif] text-[0.68rem] leading-snug text-[rgba(255,255,255,0.72)]">
+        {t('article.imageCredit')}：{coverCredit}
+        {coverLicense && <span> · {coverLicense}</span>}
+        {coverSource && (
+          <span>
+            {' '}
+            ·{' '}
+            <a
+              href={coverSource}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-inherit underline decoration-dotted underline-offset-2"
+            >
+              {t('article.imageSource')}
+            </a>
+          </span>
+        )}
+      </p>
+    )
+  }
 </section>

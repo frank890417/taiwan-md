@@ -507,6 +507,33 @@ def gather_inbox_priority() -> dict:
     return {"p0": p0[:10], "p1": p1[:10]}
 
 
+CENSUS_JSON = "public/api/dashboard-census.json"
+
+
+def gather_census_delta(start: datetime) -> dict | None:
+    """全站普查四級的週變化（2026-11-04 全站普查 §五.2）。
+
+    現值：public/api/dashboard-census.json（prebuild 每次 build 重產、data-refresh 每天 commit）。
+    基準：窗口起點之前最後一個 commit 裡的同一檔。兩邊任一不在 → None（本節不印）。
+    """
+    cur_p = REPO_ROOT / CENSUS_JSON
+    if not cur_p.exists():
+        return None
+    try:
+        cur = json.loads(cur_p.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    prev = None
+    sha = sh(["git", "log", "-1", f"--before={start.strftime('%Y-%m-%d %H:%M:%S')}",
+              "--format=%H", "--", CENSUS_JSON]).strip()
+    if sha:
+        try:
+            prev = json.loads(sh(["git", "show", f"{sha}:{CENSUS_JSON}"]))
+        except Exception:
+            prev = None
+    return {"cur": cur, "prev": prev}
+
+
 # ─────────────────────────────────────────────────────────
 # Renderer
 # ─────────────────────────────────────────────────────────
@@ -532,6 +559,7 @@ def render(
     memory_files: list[Path],
     diary_files: list[Path],
     commits_full: list[dict],
+    census: dict | None = None,
 ) -> str:
     out = []
     A = out.append
@@ -803,6 +831,34 @@ def render(
                 A(f"- {t}")
             A("")
 
+    # ── 九之一、全站普查四級變化 ──────────────────────
+    if census and census.get("cur"):
+        cur, prev = census["cur"], census.get("prev")
+        A("## 九之一、全站普查四級變化（article-census）")
+        A("")
+        A("看的是速度：A 少了＝被標或被查、B 多了＝有文章可以轉正、C 少了＝補了封面、D 少了＝重寫消化。"
+          "規則與門檻見 reports/article-health-census-2026-11-04.md。")
+        A("")
+        A("| 項目 | 本週 | 上週 | 變化 |")
+        A("| --- | ---: | ---: | ---: |")
+
+        def _row(label, now, before):
+            d = "—" if before is None else f"{now - before:+d}"
+            A(f"| {label} | {now} | {'—' if before is None else before} | {d} |")
+
+        for t in "ABCD":
+            _row(f"{t} 級", cur.get("tier_counts", {}).get(t, 0),
+                 None if not prev else prev.get("tier_counts", {}).get(t, 0))
+        for k, label in (("incubating", "🌱 進化中"), ("verified", "🔎 已深度查證")):
+            _row(label, cur.get("curation_counts", {}).get(k, 0),
+                 None if not prev else prev.get("curation_counts", {}).get(k, 0))
+        _row("有封面", cur.get("cover_counts", {}).get("local", 0),
+             None if not prev else prev.get("cover_counts", {}).get("local", 0))
+        A("")
+        if not prev:
+            A(f"_上週基準不在 git 裡（{CENSUS_JSON} 第一次出現），下週起才有變化欄。_")
+            A("")
+
     # ── 十、Semiont 必讀清單 ──────────────────────────
     A("## 十、Semiont 必讀清單（raw memory + diary，不可省）")
     A("")
@@ -939,6 +995,7 @@ def main():
     handoff = gather_handoff()
     handoff_latency = gather_handoff_latency()
     inbox = gather_inbox_priority()
+    census = gather_census_delta(start)
 
     print("[prep] enumerating memory + diary files in window …", file=sys.stderr)
     memory_files = gather_session_files(start, end, "memory")
@@ -970,6 +1027,7 @@ def main():
         memory_files,
         diary_files,
         commits_full,
+        census,
     )
 
     out_path = (

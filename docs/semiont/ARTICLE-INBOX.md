@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
-last_updated: 2026-11-02
-last_session: '2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-11-04
+last_session: '2026-11-04-health-census（全站普查：census D 級 umbrella 入列 P2，7/16 的 69 篇單薄 batch 整條併入）  # 前：2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -1683,104 +1683,58 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- ═══ 🟡 P1 — 本月 ═══ -->
 
-### 🩻 早期/貢獻者單薄文章 深度重建 batch — 69 篇低於近期品質基準（2026-07-16 全站審核）
+### 🩻 census D 級 umbrella — 內文簡陋的 225 篇排隊重寫（2026-11-04 全站普查；併入 7/16 的 69 篇單薄 batch）
 
-- **Type**: `EVOLVE` batch（umbrella，每篇獨立走 REWRITE-PIPELINE Evolution depth）
+- **Type**: `EVOLVE` batch（umbrella，每篇獨立走 REWRITE-PIPELINE Evolution 深度模式）
 - **Category**: 跨 category
-- **Priority**: `P1`（batch 整體；⭐ 洪醒夫單篇視同 P0 — SC 全站 #1 query ~2,654 imp/週 落在 697 字 0 腳註 stub 上，SPORE-INBOX 兩條 entry 在等它）
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-16 by 哲宇 directive（審核早期 >2 個月 / 貢獻者提供、嚴重不符近期品質基準的文章，完整放入 inbox 讓 routine 慢慢消化）— session 2026-07-16-205022-inbox-audit
-- **審核基準**: 近期文章（date ≥ 6/01）中位 6,556 字／22 腳註；嚴重門檻 = 字數 < 2,500 且腳註 < 5。完整方法與次一級名單（+185 篇）見 [reports/article-quality-audit-2026-07-16.md](../../reports/article-quality-audit-2026-07-16.md)
+- **Requested**: 2026-11-04 by 哲宇（全站文章健檢：「哪些內文很簡陋，設計未來的制度」）— session 2026-11-04-health-census。同條併入 2026-07-16 inbox-audit 的「🩻 早期/貢獻者單薄文章 深度重建 batch」（69 篇；原條目整段併進本條，未完成所以不進 DONE-LOG，洪醒夫那篇早已歸檔）
+- **名單 SSOT**: [reports/article-census/2026-11-04-tier-D.txt](../../reports/article-census/2026-11-04-tier-D.txt)（`python3 scripts/tools/article-census.py --tier D` 重算；dashboard 讀 `public/api/dashboard-census.json`，prebuild 每次 build 重產）。**本條不維護逐篇 checklist**：重寫完下次普查自然從 D 級消失
+- **判準**: D 級＝五條軸弱 ≥ 3：字數 < 2,500／腳註 < 8／正文章節 < 3／零媒體（含無封面）／段落中位 < 55 字或散文段 < 8。規則與分位數校準見 [reports/article-health-census-2026-11-04.md](../../reports/article-health-census-2026-11-04.md) §三
 - **消化規則**:
-  1. 每 session 挑 1-3 篇（Tier A 優先、由上往下），走 REWRITE-PIPELINE Evolution 深度模式（Stage 0 素材萃取起）
-  2. Music/People 歸屬密集題先過 attribution audit（cross-ref 上方「早期批次歸屬密集」batch — 那條查歸屬錯，本條補深度）
-  3. ship 後：勾掉該行（下次 distill 清除）+ DONE-LOG append per 完成歸檔鐵律
-  4. 貢獻者批（C2）保留貢獻者視角與在地細節，可循 #574 素材共創模式回請一手材料
-  5. Tier C1 動工前需哲宇拍板（逐篇深化 vs 合併「中職啦啦隊韓援現象」總覽）
+  1. 每 session 挑 1-3 篇，從下方「流量前 20、還沒排隊」由上往下，走 REWRITE-PIPELINE Evolution 深度模式（Stage 0 素材萃取起）
+  2. 已有獨立 EVOLVE 條目的 D 級文章（普查時 80 篇，例：陳樹菊、日治時期、鱔魚意麵）照原條目走，不在本條重複登
+  3. Music／People 歸屬密集題先過上方「早期批次歸屬密集」attribution audit batch：那條查歸屬錯，本條補深度
+  4. ship 後照完成歸檔鐵律 append DONE-LOG；本條不用勾，普查重算會把它移出 D 級
+  5. 投稿者批保留貢獻者視角與在地細節，可循 #574 素材共創模式回請一手材料
+  6. 原 Tier C1（2026-05-13 在台韓籍啦啦隊員人物 stub 11 篇）動工前仍需哲宇拍板：逐篇深化 vs 合併「中職啦啦隊韓援現象」總覽
+- **Notes**:
+  - 消費者：`twmd-rewrite-daily` 自 2026-07-25 兩台皆停（算力考量，ROUTINE 註 ²¹）。7/16 那 69 篇 110 天只動 4 篇；要不要重開、每天幾篇，是普查報告 §八 #8 待哲宇決定
+  - D 級裡 95 篇其實走過 REWRITE 但仍單薄（四、五月早期產物，例：蕭上農），84 篇已標 🌱。D 級寫的是「內容不夠」，跟 A 級的「沒人查過」分開：重寫時就會查
+  - 譯本數是放大係數（本檔 §優先序判準）：D 級幾乎都已有 12 語譯本
+- **Reference**: [reports/article-health-census-2026-11-04.md](../../reports/article-health-census-2026-11-04.md) §二 D 級、§五.4；[reports/article-quality-audit-2026-07-16.md](../../reports/article-quality-audit-2026-07-16.md)
 
-**Tier A — 高知名度 × 嚴重單薄（12 篇，優先）**:
+**流量前 20、還沒排隊**（依本機 GA 28 天快取排序，條目不列流量數字）：
 
-- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,077 字／11 腳註／2026-09-12 深度重寫完成，2026-09-13 事實查核 heal（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
-- [ ] [何飛鵬](../../knowledge/People/何飛鵬.md) — 1023 字／0 腳註／2026-03-26
-- [ ] [葉丙成](../../knowledge/People/葉丙成.md) — 889 字／3 腳註／2026-03-20
-- [ ] [江蕙](../../knowledge/People/江蕙.md) — 1592 字／0 腳註／2026-03-28／首作者 idlccp02
-- [ ] [陳偉殷](../../knowledge/People/陳偉殷.md) — 1790 字／0 腳註／2026-03-22
-- [ ] [李梅樹](../../knowledge/People/李梅樹.md) — 1844 字／0 腳註／2026-03-23
-- [ ] [李遠哲](../../knowledge/People/李遠哲.md) — 1892 字／0 腳註／2026-03-21
-- [ ] [馬偕](../../knowledge/People/馬偕.md) — 1924 字／0 腳註／2026-03-31／首作者 idlccp1984
-- [ ] [PTT批踢踢](../../knowledge/Technology/PTT批踢踢.md) — 1974 字／0 腳註／2026-03-21／首作者 pingu
-- [ ] [呂秀蓮](../../knowledge/People/呂秀蓮.md) — 2226 字／0 腳註／2026-03-22
-- [ ] [蔡依林](../../knowledge/People/蔡依林.md) — 2258 字／0 腳註／2026-03-24
-- [ ] [林懷民](../../knowledge/People/林懷民.md) — 2454 字／0 腳註／2026-03-23
+- [ ] [蕭上農](../../knowledge/People/蕭上農.md) — 字數 1788、零媒體、段落 28 段／中位 33 字
+- [ ] [特有種](../../knowledge/Nature/特有種.md) — 字數 2240、腳註 5、零媒體
+- [ ] [魏哲家](../../knowledge/People/魏哲家.md) — 字數 1322、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [菜市場名](../../knowledge/Culture/菜市場名.md) — 字數 1168、零媒體、段落 17 段／中位 52 字（2026-11-04 補標 🌱）
+- [ ] [台灣都市發展與城鄉差距](../../knowledge/Geography/台灣都市發展與城鄉差距.md) — 腳註 0、零媒體、段落 59 段／中位 31 字（2026-11-04 補標 🌱）
+- [ ] [Hello-Nico](../../knowledge/People/Hello-Nico.md) — 字數 1028、零媒體、段落 20 段／中位 22 字
+- [ ] [外省人](../../knowledge/Society/外省人.md) — 字數 1363、零媒體、段落 11 段／中位 50 字（2026-11-04 補標 🌱）
+- [ ] [台灣企業：和碩聯合](../../knowledge/Economy/台灣企業：和碩聯合.md) — 腳註 5、零媒體、段落 50 段／中位 42 字
+- [ ] [濁水溪公社](../../knowledge/Music/濁水溪公社.md) — 字數 1832、零媒體、段落 33 段／中位 44 字
+- [ ] [林青霞](../../knowledge/People/林青霞.md) — 字數 2399、腳註 5、零媒體、段落 40 段／中位 52 字
+- [ ] [史前時代與原住民](../../knowledge/History/史前時代與原住民.md) — 字數 1484、腳註 5、零媒體（精選，未標 🌱）
+- [ ] [國民政府遷台與戰後重建](../../knowledge/History/國民政府遷台與戰後重建.md) — 字數 2423、零媒體、段落 34 段／中位 52 字
+- [ ] [魚條](../../knowledge/People/魚條.md) — 字數 1253、正文章節 1、零媒體、段落 22 段／中位 25 字
+- [ ] [台灣企業：瑞昱半導體](../../knowledge/Economy/台灣企業：瑞昱半導體.md) — 字數 1940、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [豬哥亮](../../knowledge/People/豬哥亮.md) — 字數 1828、腳註 1、零媒體
+- [ ] [清治時期](../../knowledge/History/清治時期.md) — 字數 2042、腳註 5、零媒體
+- [ ] [台灣企業：中鋼](../../knowledge/Economy/台灣企業：中鋼.md) — 字數 1480、腳註 5、零媒體（2026-11-04 補標 🌱）
+- [ ] [賴聲川](../../knowledge/People/賴聲川.md) — 字數 2098、腳註 7、零媒體
+- [ ] [台灣廟會與陣頭文化](../../knowledge/Culture/台灣廟會與陣頭文化.md) — 字數 2488、腳註 6、零媒體
+- [ ] [鄧雨賢](../../knowledge/People/鄧雨賢.md) — 字數 1945、腳註 5、零媒體（2026-11-04 補標 🌱）
 
-**Tier B — 早期批次單薄（38 篇）**:
+**併入：7/16 batch 剩下的 68 篇**（依原 Tier 分組；數字以 census 現值為準，原條目的 7/16 字數用的是 dashboard 字數尺，比 word-count plugin 中位多 663 字，不再沿用）：
 
-- [ ] [黃國珍](../../knowledge/People/黃國珍.md) — 532 字／0 腳註／2026-03-20
-- [ ] [朱一貴](../../knowledge/People/朱一貴.md) — 792 字／0 腳註／2026-03-24
-- [ ] [湖口營區與勝利路記憶](../../knowledge/History/湖口營區與勝利路記憶.md) — 855 字／0 腳註／2026-03-24
-- [ ] [漯底山](../../knowledge/Geography/漯底山.md) — 927 字／0 腳註／2026-03-23
-- [ ] [Ray](../../knowledge/People/Ray.md) — 1075 字／0 腳註／2026-03-23
-- [ ] [巧固球](../../knowledge/Culture/巧固球.md) — 1260 字／0 腳註／2026-03-27／首作者 idlccp02
-- [ ] [台灣鳥類窗殺議題](../../knowledge/Nature/台灣鳥類窗殺議題.md) — 1333 字／0 腳註／2026-03-23
-- [ ] [台灣乖乖文化](../../knowledge/Culture/台灣乖乖文化.md) — 1367 字／0 腳註／2026-03-21
-- [ ] [台灣動畫代工](../../knowledge/Economy/台灣動畫代工.md) — 1388 字／0 腳註／2026-03-24
-- [ ] [擲筊](../../knowledge/Culture/擲筊.md) — 1491 字／0 腳註／2026-03-27／首作者 idlccp02
-- [ ] [台灣島嶼博物學](../../knowledge/Nature/台灣島嶼博物學.md) — 1599 字／0 腳註／2026-03-25／首作者 YiChengLu
-- [ ] [台灣諧音禁忌文化](../../knowledge/Culture/台灣諧音禁忌文化.md) — 1612 字／0 腳註／2026-03-21
-- [ ] [媽祖與大道公的傳說](../../knowledge/Culture/媽祖與大道公的傳說.md) — 1620 字／0 腳註／2026-03-21
-- [ ] [台灣醬料與調味](../../knowledge/Food/台灣醬料與調味.md) — 1630 字／0 腳註／2026-03-20
-- [ ] [自助餐阿姨的謎之目測精算能力](../../knowledge/Society/自助餐阿姨的謎之目測精算能力.md) — 1727 字／0 腳註／2026-03-22／首作者 So͘ Bîn-hiân
-- [ ] [蘭嶼生態系](../../knowledge/Nature/蘭嶼生態系.md) — 1819 字／0 腳註／2026-04-01／首作者 YiChengLu
-- [ ] [小綠人](../../knowledge/Lifestyle/小綠人.md) — 1848 字／0 腳註／2026-03-24
-- [ ] [生態多樣性](../../knowledge/Nature/生態多樣性.md) — 1851 字／0 腳註／2026-03-21
-- [ ] [台灣海鮮文化](../../knowledge/Food/台灣海鮮文化.md) — 1870 字／0 腳註／2026-03-20
-- [ ] [台灣現代詩](../../knowledge/Art/台灣現代詩.md) — 1991 字／0 腳註／2026-03-23
-- [ ] [林義傑](../../knowledge/People/林義傑.md) — 2005 字／0 腳註／2026-03-22
-- [ ] [茶文化](../../knowledge/Food/茶文化.md) — 2090 字／0 腳註／2026-03-23
-- [ ] [台灣海洋貿易史](../../knowledge/History/台灣海洋貿易史.md) — 2109 字／0 腳註／2026-03-20
-- [ ] [蔣為文](../../knowledge/People/蔣為文.md) — 2131 字／0 腳註／2026-03-23
-- [ ] [台灣海岸地形與海洋地景](../../knowledge/Geography/台灣海岸地形與海洋地景.md) — 2139 字／0 腳註／2026-03-24
-- [ ] [台灣森林開發史](../../knowledge/History/台灣森林開發史.md) — 2148 字／0 腳註／2026-03-25／首作者 YiChengLu
-- [ ] [台灣回收與資源循環文化](../../knowledge/Lifestyle/台灣回收與資源循環文化.md) — 2148 字／0 腳註／2026-03-23
-- [ ] [台灣騎樓文化與街景](../../knowledge/Lifestyle/台灣騎樓文化與街景.md) — 2175 字／0 腳註／2026-03-20
-- [ ] [台灣數位影像與動畫產業](../../knowledge/Technology/台灣數位影像與動畫產業.md) — 2222 字／0 腳註／2026-03-20
-- [ ] [AI人工智慧產業](../../knowledge/Technology/AI人工智慧產業.md) — 2263 字／0 腳註／2026-03-20
-- [ ] [台灣中小企業與隱形冠軍](../../knowledge/Economy/台灣中小企業與隱形冠軍.md) — 2314 字／0 腳註／2026-03-24
-- [ ] [台灣志工文化與公益參與](../../knowledge/Society/台灣志工文化與公益參與.md) — 2336 字／0 腳註／2026-03-28
-- [ ] [台灣環境運動史](../../knowledge/Nature/台灣環境運動史.md) — 2337 字／0 腳註／2026-03-20
-- [ ] [台灣迷因](../../knowledge/Culture/台灣迷因.md) — 2382 字／0 腳註／2026-03-24
-- [ ] [台灣全齡共融旅遊與生活文化](../../knowledge/Society/台灣全齡共融旅遊與生活文化.md) — 2409 字／0 腳註／2026-03-23（2026-10-09 巡邏止血後 13 腳註，重寫條目見上方 EVOLVE）
-- [ ] [台灣垃圾車音樂](../../knowledge/Lifestyle/台灣垃圾車音樂.md) — 2456 字／0 腳註／2026-03-24
-- [ ] [FAB DAO與百岳計畫](../../knowledge/Art/FAB%20DAO與百岳計畫.md) — 2463 字／0 腳註／2026-03-24
-- [ ] [台灣素食文化](../../knowledge/Food/台灣素食文化.md) — 2487 字／3 腳註／2026-03-19
-
-**Tier C1 — 2026-05-13 人物 stub 批（11 篇，⏸️ 需哲宇拍板方向）**:
-
-- [ ] [肌肉山山](../../knowledge/People/肌肉山山.md) — 526 字／0 腳註／2026-05-13
-- [ ] [朴旻曙](../../knowledge/People/朴旻曙.md) — 578 字／1 腳註／2026-05-13
-- [ ] [邊荷律](../../knowledge/People/邊荷律.md) — 769 字／1 腳註／2026-05-13
-- [ ] [南珉貞](../../knowledge/People/南珉貞.md) — 815 字／1 腳註／2026-05-13
-- [ ] [安芝儇](../../knowledge/People/安芝儇.md) — 696 字／2 腳註／2026-05-13
-- [ ] [李雅英](../../knowledge/People/李雅英.md) — 895 字／1 腳註／2026-05-13
-- [ ] [李珠珢](../../knowledge/People/李珠珢.md) — 962 字／1 腳註／2026-05-13
-- [ ] [李晧禎](../../knowledge/People/李晧禎.md) — 874 字／2 腳註／2026-05-13
-- [ ] [李多慧](../../knowledge/People/李多慧.md) — 1278 字／1 腳註／2026-05-13
-- [ ] [金針菇](../../knowledge/People/金針菇.md) — 1009 字／3 腳註／2026-05-13
-- [ ] [朴星垠](../../knowledge/People/朴星垠.md) — 866 字／4 腳註／2026-05-13
-
-**Tier C2 — 台南小吃貢獻者批（jinnshuchang 7/02，4 篇，素材共創候選）**:
-
-- [ ] [豬心冬粉](../../knowledge/Food/豬心冬粉.md) — 1309 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [虱目魚粥](../../knowledge/Food/虱目魚粥.md) — 1402 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [牛肉湯](../../knowledge/Food/牛肉湯.md) — 1468 字／0 腳註／2026-07-02／首作者 jinnshuchang
-- [ ] [鱔魚意麵](../../knowledge/Food/鱔魚意麵.md) — 1473 字／0 腳註／2026-07-02／首作者 jinnshuchang
-
-**Tier C3 — 台灣企業早期薄檔（4 篇，併 series 深化節奏）**:
-
-- [ ] [台灣企業：日月光半導體](../../knowledge/Economy/台灣企業：日月光半導體.md) — 2179 字／0 腳註／2026-03-21／首作者 ?
-- [ ] [台灣企業：長榮海運](../../knowledge/Economy/台灣企業：長榮海運.md) — 2219 字／0 腳註／2026-03-24／首作者 ?
-- [ ] [台灣企業：廣達電腦](../../knowledge/Economy/台灣企業：廣達電腦.md) — 2311 字／0 腳註／2026-03-21／首作者 ?
-- [ ] [台灣企業：聯發科技](../../knowledge/Economy/台灣企業：聯發科技.md) — 2486 字／0 腳註／2026-03-25／首作者 ?
+- **Tier A — 高知名度 × 嚴重單薄（原 12 篇，洪醒夫已完成，剩 11）**：[何飛鵬](../../knowledge/People/何飛鵬.md)、[葉丙成](../../knowledge/People/葉丙成.md)、[江蕙](../../knowledge/People/江蕙.md)、[陳偉殷](../../knowledge/People/陳偉殷.md)、[李梅樹](../../knowledge/People/李梅樹.md)、[李遠哲](../../knowledge/People/李遠哲.md)、[馬偕](../../knowledge/People/馬偕.md)、[PTT批踢踢](../../knowledge/Technology/PTT批踢踢.md)、[呂秀蓮](../../knowledge/People/呂秀蓮.md)、[蔡依林](../../knowledge/People/蔡依林.md)、[林懷民](../../knowledge/People/林懷民.md)
+- **Tier B — 早期批次單薄（38 篇）**：[黃國珍](../../knowledge/People/黃國珍.md)、[朱一貴](../../knowledge/People/朱一貴.md)、[湖口營區與勝利路記憶](../../knowledge/History/湖口營區與勝利路記憶.md)、[漯底山](../../knowledge/Geography/漯底山.md)、[Ray](../../knowledge/People/Ray.md)、[巧固球](../../knowledge/Culture/巧固球.md)、[台灣鳥類窗殺議題](../../knowledge/Nature/台灣鳥類窗殺議題.md)、[台灣乖乖文化](../../knowledge/Culture/台灣乖乖文化.md)、[台灣動畫代工](../../knowledge/Economy/台灣動畫代工.md)、[擲筊](../../knowledge/Culture/擲筊.md)、[台灣島嶼博物學](../../knowledge/Nature/台灣島嶼博物學.md)、[台灣諧音禁忌文化](../../knowledge/Culture/台灣諧音禁忌文化.md)、[媽祖與大道公的傳說](../../knowledge/Culture/媽祖與大道公的傳說.md)、[台灣醬料與調味](../../knowledge/Food/台灣醬料與調味.md)、[自助餐阿姨的謎之目測精算能力](../../knowledge/Society/自助餐阿姨的謎之目測精算能力.md)、[蘭嶼生態系](../../knowledge/Nature/蘭嶼生態系.md)、[小綠人](../../knowledge/Lifestyle/小綠人.md)、[生態多樣性](../../knowledge/Nature/生態多樣性.md)、[台灣海鮮文化](../../knowledge/Food/台灣海鮮文化.md)、[台灣現代詩](../../knowledge/Art/台灣現代詩.md)、[林義傑](../../knowledge/People/林義傑.md)、[茶文化](../../knowledge/Food/茶文化.md)、[台灣海洋貿易史](../../knowledge/History/台灣海洋貿易史.md)、[蔣為文](../../knowledge/People/蔣為文.md)、[台灣海岸地形與海洋地景](../../knowledge/Geography/台灣海岸地形與海洋地景.md)、[台灣森林開發史](../../knowledge/History/台灣森林開發史.md)、[台灣回收與資源循環文化](../../knowledge/Lifestyle/台灣回收與資源循環文化.md)、[台灣騎樓文化與街景](../../knowledge/Lifestyle/台灣騎樓文化與街景.md)、[台灣數位影像與動畫產業](../../knowledge/Technology/台灣數位影像與動畫產業.md)、[AI人工智慧產業](../../knowledge/Technology/AI人工智慧產業.md)、[台灣中小企業與隱形冠軍](../../knowledge/Economy/台灣中小企業與隱形冠軍.md)、[台灣志工文化與公益參與](../../knowledge/Society/台灣志工文化與公益參與.md)、[台灣環境運動史](../../knowledge/Nature/台灣環境運動史.md)、[台灣迷因](../../knowledge/Culture/台灣迷因.md)、[台灣全齡共融旅遊與生活文化](../../knowledge/Society/台灣全齡共融旅遊與生活文化.md)、[台灣垃圾車音樂](../../knowledge/Lifestyle/台灣垃圾車音樂.md)、[FAB DAO與百岳計畫](../../knowledge/Art/FAB%20DAO與百岳計畫.md)、[台灣素食文化](../../knowledge/Food/台灣素食文化.md)
+- **Tier C1 — 2026-05-13 人物 stub 批（11 篇，⏸️ 需哲宇拍板方向）**：[肌肉山山](../../knowledge/People/肌肉山山.md)、[朴旻曙](../../knowledge/People/朴旻曙.md)、[邊荷律](../../knowledge/People/邊荷律.md)、[南珉貞](../../knowledge/People/南珉貞.md)、[安芝儇](../../knowledge/People/安芝儇.md)、[李雅英](../../knowledge/People/李雅英.md)、[李珠珢](../../knowledge/People/李珠珢.md)、[李晧禎](../../knowledge/People/李晧禎.md)、[李多慧](../../knowledge/People/李多慧.md)、[金針菇](../../knowledge/People/金針菇.md)、[朴星垠](../../knowledge/People/朴星垠.md)
+- **Tier C2 — 台南小吃貢獻者批（jinnshuchang 7/02，4 篇，素材共創候選）**：[豬心冬粉](../../knowledge/Food/豬心冬粉.md)、[虱目魚粥](../../knowledge/Food/虱目魚粥.md)、[牛肉湯](../../knowledge/Food/牛肉湯.md)、[鱔魚意麵](../../knowledge/Food/鱔魚意麵.md)
+- **Tier C3 — 台灣企業早期薄檔（4 篇，併 series 深化節奏）**：[台灣企業：日月光半導體](../../knowledge/Economy/台灣企業：日月光半導體.md)、[台灣企業：長榮海運](../../knowledge/Economy/台灣企業：長榮海運.md)、[台灣企業：廣達電腦](../../knowledge/Economy/台灣企業：廣達電腦.md)、[台灣企業：聯發科技](../../knowledge/Economy/台灣企業：聯發科技.md)
 
 ### 台灣各大技術 Conference NEW — 從 COSCUP 到 g0v，開源島嶼的年度遷徙
 

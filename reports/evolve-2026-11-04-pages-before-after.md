@@ -12,16 +12,16 @@
 - 描述最長 160 字（上限，超過時依序丟掉分類說明、結尾那句）；字義句型的標題最長 24 字，再加站名
 - 帶注音符號的 origin（目前只有〈咋的〉）標題多問「注音怎麼念」，描述把注音那句接在字義後面
 
-| 詞條（類型） | 改前 title | 改後 title |
-|---|---|---|
-| /terminology/吃瓜/（E 正在分歧，有字義） | 「吃瓜」台灣怎麼說？台灣用語是「看八卦」 | 「吃瓜」是什麼意思？台灣說「看八卦」 |
-| /terminology/ren-she/（人設，E，有字義） | 「人設」台灣怎麼說？台灣用語是「形象」 | 「人設」是什麼意思？台灣說「形象」 |
-| /terminology/咋的/（E，字義＋注音） | 「咋的」台灣怎麼說？台灣用語是「怎麼樣」 | 「咋的」是什麼意思、注音怎麼念？台灣說「怎麼樣」 |
-| /terminology/內核/（讀者回報過的支語誤判，有字義） | 「內核」台灣怎麼說？台灣用語是「核心」 | 「內核」是什麼意思？台灣說「核心」 |
-| /terminology/公分/（單位，零佐證） | 「厘米」台灣怎麼說？台灣用語是「公分」 | 不變 |
-| /terminology/也門/（譯名，proper-noun） | 「也門」台灣怎麼說？台灣用語是「葉門」 | 不變 |
-| /terminology/level-standard/（水平，F 同詞不同語感） | 「水平」台灣怎麼說？台灣用語是「水準」 | 不變 |
-| /terminology/128位元/（tech import，零佐證） | 「128位」台灣怎麼說？台灣用語是「128位元」 | 不變 |
+| 詞條（類型）                                         | 改前 title                                 | 改後 title                                       |
+| ---------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
+| /terminology/吃瓜/（E 正在分歧，有字義）             | 「吃瓜」台灣怎麼說？台灣用語是「看八卦」   | 「吃瓜」是什麼意思？台灣說「看八卦」             |
+| /terminology/ren-she/（人設，E，有字義）             | 「人設」台灣怎麼說？台灣用語是「形象」     | 「人設」是什麼意思？台灣說「形象」               |
+| /terminology/咋的/（E，字義＋注音）                  | 「咋的」台灣怎麼說？台灣用語是「怎麼樣」   | 「咋的」是什麼意思、注音怎麼念？台灣說「怎麼樣」 |
+| /terminology/內核/（讀者回報過的支語誤判，有字義）   | 「內核」台灣怎麼說？台灣用語是「核心」     | 「內核」是什麼意思？台灣說「核心」               |
+| /terminology/公分/（單位，零佐證）                   | 「厘米」台灣怎麼說？台灣用語是「公分」     | 不變                                             |
+| /terminology/也門/（譯名，proper-noun）              | 「也門」台灣怎麼說？台灣用語是「葉門」     | 不變                                             |
+| /terminology/level-standard/（水平，F 同詞不同語感） | 「水平」台灣怎麼說？台灣用語是「水準」     | 不變                                             |
+| /terminology/128位元/（tech import，零佐證）         | 「128位」台灣怎麼說？台灣用語是「128位元」 | 不變                                             |
 
 描述（字義句型才有變，前面多了字義句，後面原樣）：
 
@@ -34,39 +34,39 @@
 
 ## 二、其他頁
 
-| 頁面 | 改前 title | 改後 title |
-|---|---|---|
-| /elections/2026/timeline/ | 2026 九合一選舉完整選務時程：從選舉公告到新任就職 | 2026 九合一選舉日期：11/28 投票，號次抽籤 10/23–10/27 |
-| /en/elections/2026/timeline/ | 2026 Taiwan Local Elections: Full Official Timeline | 2026 Taiwan Election Timeline: Vote Nov 28, Ballot Draw Oct 23–27 |
-| /companies/ | 台灣前 50 大企業 — AI 時代的洗牌 | 台灣市值前 50 大企業排名（2026/10 快照）：AI 時代的洗牌 |
-| /en/companies/ | Taiwan's Top 50 Companies — The AI-Era Reshuffle | Taiwan's Top 50 Companies by Market Cap (Oct 2026): The AI Reshuffle |
-| /taiwan-shape/ | 台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON | 台灣地圖免費下載：縣市地圖 SVG、GeoJSON、TopoJSON 開源資料 |
-| /map/ | 台灣地圖 Map | 用地圖找文章：點縣市讀台灣各地的美食、歷史與自然 |
-| /id/map/ | Peta Taiwan Map | Peta Taiwan |
-| /timeline/ | 時間台灣：從史前到現在的歷史時間軸 | 台灣歷史時間軸：史前、荷西、明鄭、清領、日治、戒嚴到民主化 |
-| /en/timeline/ | Timeline of Taiwan — from prehistory to today | Taiwan History Timeline: Prehistory, Dutch, Qing, Japanese Rule to Today |
-| /people/ | 人物 - Taiwan.md \| Taiwan.md | 人物 - Taiwan.md（站名去重是健檢分支的 withBrand） |
-| /food/ | 美食 - Taiwan.md \| Taiwan.md | 美食 - Taiwan.md（同上） |
-| /ja/people/ | 人物 - Taiwan.md \| Taiwan.md | 人物 - Taiwan.md（同上） |
-| /id/food/ | Kuliner - Taiwan.md \| Taiwan.md | Kuliner - Taiwan.md（同上） |
-| /terminology/ | 📖 用語保存計畫 — Taiwan.md \| Taiwan.md | 用語保存計畫：兩岸用語對照與台灣說法 \| Taiwan.md |
-| /explore/ | 探索 Taiwan.md — 瀏覽開放的台灣知識庫 | 不變（只改描述） |
-| /budget/ | 總預算十年 — 中央政府總預算 2016–2026 的分配、增減與執行 | 2026 中央政府總預算：2016–2026 十年的分配、增減與執行 |
-| /elections/2026/ | 2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票 | 台灣 2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票 |
+| 頁面                         | 改前 title                                                        | 改後 title                                                               |
+| ---------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| /elections/2026/timeline/    | 2026 九合一選舉完整選務時程：從選舉公告到新任就職                 | 2026 九合一選舉日期：11/28 投票，號次抽籤 10/23–10/27                    |
+| /en/elections/2026/timeline/ | 2026 Taiwan Local Elections: Full Official Timeline               | 2026 Taiwan Election Timeline: Vote Nov 28, Ballot Draw Oct 23–27        |
+| /companies/                  | 台灣前 50 大企業 — AI 時代的洗牌                                  | 台灣市值前 50 大企業排名（2026/10 快照）：AI 時代的洗牌                  |
+| /en/companies/               | Taiwan's Top 50 Companies — The AI-Era Reshuffle                  | Taiwan's Top 50 Companies by Market Cap (Oct 2026): The AI Reshuffle     |
+| /taiwan-shape/               | 台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON               | 台灣地圖免費下載：縣市地圖 SVG、GeoJSON、TopoJSON 開源資料               |
+| /map/                        | 台灣地圖 Map                                                      | 用地圖找文章：點縣市讀台灣各地的美食、歷史與自然                         |
+| /id/map/                     | Peta Taiwan Map                                                   | Peta Taiwan                                                              |
+| /timeline/                   | 時間台灣：從史前到現在的歷史時間軸                                | 台灣歷史時間軸：史前、荷西、明鄭、清領、日治、戒嚴到民主化               |
+| /en/timeline/                | Timeline of Taiwan — from prehistory to today                     | Taiwan History Timeline: Prehistory, Dutch, Qing, Japanese Rule to Today |
+| /people/                     | 人物 - Taiwan.md \| Taiwan.md                                     | 人物 - Taiwan.md（站名去重是健檢分支的 withBrand）                       |
+| /food/                       | 美食 - Taiwan.md \| Taiwan.md                                     | 美食 - Taiwan.md（同上）                                                 |
+| /ja/people/                  | 人物 - Taiwan.md \| Taiwan.md                                     | 人物 - Taiwan.md（同上）                                                 |
+| /id/food/                    | Kuliner - Taiwan.md \| Taiwan.md                                  | Kuliner - Taiwan.md（同上）                                              |
+| /terminology/                | 📖 用語保存計畫 — Taiwan.md \| Taiwan.md                          | 用語保存計畫：兩岸用語對照與台灣說法 \| Taiwan.md                        |
+| /explore/                    | 探索 Taiwan.md — 瀏覽開放的台灣知識庫                             | 不變（只改描述）                                                         |
+| /budget/                     | 總預算十年 — 中央政府總預算 2016–2026 的分配、增減與執行          | 2026 中央政府總預算：2016–2026 十年的分配、增減與執行                    |
+| /elections/2026/             | 2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票 | 台灣 2026 九合一選舉：11/28 投票時間 8 點到 4 點、候選人號次、怎麼投票   |
 
 描述有改的：
 
-| 頁面 | 改前 description | 改後 description |
-|---|---|---|
+| 頁面                      | 改前 description                                                                                                                         | 改後 description                                                                                                                                                                                                                                                          |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /elections/2026/timeline/ | 2026 九合一選舉從中選會決定投票日、選舉公告、候選人登記、號次抽籤、名冊公告閱覽、公報送達、11 月 28 日投票開票，到 12 月 25 日新任就職…… | 2026 九合一選舉 11 月 28 日投票，上午 8 點到下午 4 點。候選人號次抽籤原訂 10 月 23 日，只有金門縣照常抽出；其他 21 個縣市因颱風薔琵停班，延到 10 月 27 日。從選舉公告、候選人登記、名冊公告閱覽到 12 月 25 日新任就職，加上同日公投第 22 案，每一步都附中選會或法規出處。 |
-| /map/ | 以地圖視角探索 Taiwan.md 的內容脈絡 | 在地圖上點一個縣市或地點，直接讀那裡的 Taiwan.md 文章。可以依北、中、南、東部與離島篩選區域，或依美食、歷史、自然、文化等分類找文章。 |
-| /id/map/ | Jelajahi konteks konten Taiwan.md melalui perspektif peta | Klik kabupaten/kota atau lokasi di peta untuk langsung membaca artikel Taiwan.md tentang tempat itu. Saring menurut wilayah (utara, tengah, selatan, timur, kepulauan terluar) atau topik: kuliner, sejarah, alam, budaya, dan lainnya. |
-| /people/ | 影響台灣發展的重要人物與故事 | 收錄 296 篇人物文章，包括〈楊德昌〉〈施振榮〉〈唐鳳〉。影響台灣發展的重要人物與故事。 |
-| /food/ | 從夜市小吃到精緻料理的美食文化 | 收錄 89 篇美食文章，包括〈台灣美食總覽〉〈台灣水果王國〉〈刈包〉。從夜市小吃到精緻料理的美食文化。 |
-| /ja/people/ | 台湾の発展を形作った重要な人物と物語 | 人物の記事を296本収録。「楊德昌」「施振榮」「オードリー・タン」など。台湾の発展を形作った重要な人物と物語。 |
-| /id/food/ | Budaya kuliner dari jajanan pasar malam hingga hidangan adiboga | Kuliner: 89 artikel, termasuk Panduan Lengkap Kuliner Taiwan, Raja Buah Taiwan, dan Guo Bao. Budaya kuliner dari jajanan pasar malam hingga hidangan adiboga. |
-| /terminology/ | 讓全世界完整認識台灣（全站預設句） | 收錄 2,304 組兩岸用語對照：中國說法、台灣說法、詞源與分歧原因，引用 395 個來源。查一個詞算不算中國用語、台灣怎麼說，也能用轉換器整段改寫。 |
-| /explore/ | 瀏覽 685+ 篇台灣策展文章：…… | 瀏覽 1156+ 篇台灣策展文章：……（13 語同改） |
+| /map/                     | 以地圖視角探索 Taiwan.md 的內容脈絡                                                                                                      | 在地圖上點一個縣市或地點，直接讀那裡的 Taiwan.md 文章。可以依北、中、南、東部與離島篩選區域，或依美食、歷史、自然、文化等分類找文章。                                                                                                                                     |
+| /id/map/                  | Jelajahi konteks konten Taiwan.md melalui perspektif peta                                                                                | Klik kabupaten/kota atau lokasi di peta untuk langsung membaca artikel Taiwan.md tentang tempat itu. Saring menurut wilayah (utara, tengah, selatan, timur, kepulauan terluar) atau topik: kuliner, sejarah, alam, budaya, dan lainnya.                                   |
+| /people/                  | 影響台灣發展的重要人物與故事                                                                                                             | 收錄 296 篇人物文章，包括〈楊德昌〉〈施振榮〉〈唐鳳〉。影響台灣發展的重要人物與故事。                                                                                                                                                                                     |
+| /food/                    | 從夜市小吃到精緻料理的美食文化                                                                                                           | 收錄 89 篇美食文章，包括〈台灣美食總覽〉〈台灣水果王國〉〈刈包〉。從夜市小吃到精緻料理的美食文化。                                                                                                                                                                        |
+| /ja/people/               | 台湾の発展を形作った重要な人物と物語                                                                                                     | 人物の記事を296本収録。「楊德昌」「施振榮」「オードリー・タン」など。台湾の発展を形作った重要な人物と物語。                                                                                                                                                               |
+| /id/food/                 | Budaya kuliner dari jajanan pasar malam hingga hidangan adiboga                                                                          | Kuliner: 89 artikel, termasuk Panduan Lengkap Kuliner Taiwan, Raja Buah Taiwan, dan Guo Bao. Budaya kuliner dari jajanan pasar malam hingga hidangan adiboga.                                                                                                             |
+| /terminology/             | 讓全世界完整認識台灣（全站預設句）                                                                                                       | 收錄 2,304 組兩岸用語對照：中國說法、台灣說法、詞源與分歧原因，引用 395 個來源。查一個詞算不算中國用語、台灣怎麼說，也能用轉換器整段改寫。                                                                                                                                |
+| /explore/                 | 瀏覽 685+ 篇台灣策展文章：……                                                                                                             | 瀏覽 1156+ 篇台灣策展文章：……（13 語同改）                                                                                                                                                                                                                                |
 
 數字從哪來：選務時程頁的日期讀 `src/data/elections-2026-timeline.json`（voting-day／ballot-draw／inauguration），描述裡的颱風延期那句是 ballot-draw 說明的原文；/companies/ 的年月讀 `src/utils/dataConfig.ts` 新增的 `COMPANIES_SNAPSHOT_DATE`；分類頁的篇數與條目是 build 時該語言該分類的文章數與 topPicks；/terminology/ 的數字跟頁面 hero 的「N 個詞條／N 個來源」同一個變數；/explore/ 的 1156 跟首頁一樣由 `scripts/tools/update-stats.sh` 每天改寫（本分支把 explore.ts 接進那支 patch 與 `counts-drift-lint.py`）。
 
@@ -74,12 +74,12 @@
 
 ## 三、資料工具（`scripts/tools/`）
 
-| 項目 | 改前 | 改後 |
-|---|---|---|
-| Search Console 查詢 | 單次 rowLimit 2,000 | startRow 分頁抓到底（`--max-query-rows` 預設 100,000），`fetch_limits` 記實際列數與是否被截 |
-| Search Console 頁面 | 單次 rowLimit 1,000，含 #錨點網址 | 分頁（`--max-page-rows` 預設 50,000）；`pages` 不含 #，錨點按原頁面加總在 `pages_anchor_rollup`，佔比在 `pages_anchor_stats` |
-| GA4 分語言 | pagePath 報表 limit=500 | offset 翻頁抓全部（`--max-lang-rows` 可設上限） |
-| dashboard `searchConsole24h` | label 停在「2026-04-09 (24h)」 | fetcher 多抓最後一天（`last_day`），generator 用它重建；舊快照沒有 `last_day` 時維持原樣並印警告 |
+| 項目                         | 改前                              | 改後                                                                                                                         |
+| ---------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Search Console 查詢          | 單次 rowLimit 2,000               | startRow 分頁抓到底（`--max-query-rows` 預設 100,000），`fetch_limits` 記實際列數與是否被截                                  |
+| Search Console 頁面          | 單次 rowLimit 1,000，含 #錨點網址 | 分頁（`--max-page-rows` 預設 50,000）；`pages` 不含 #，錨點按原頁面加總在 `pages_anchor_rollup`，佔比在 `pages_anchor_stats` |
+| GA4 分語言                   | pagePath 報表 limit=500           | offset 翻頁抓全部（`--max-lang-rows` 可設上限）                                                                              |
+| dashboard `searchConsole24h` | label 停在「2026-04-09 (24h)」    | fetcher 多抓最後一天（`last_day`），generator 用它重建；舊快照沒有 `last_day` 時維持原樣並印警告                             |
 
 `searchConsole24h` 停住的原因：那段是 4/9 手寫進 `public/api/dashboard-analytics.json` 的，4/11 起 generator 改寫 `searchConsole7d`，並把 24h 列在「不碰」清單，之後沒有任何程式寫它。網頁儀表板優先讀 7d 所以看不出來，但 `cli` 的 `taiwanmd sense --range 24h` 一直印四月的數字。
 

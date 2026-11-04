@@ -90,6 +90,9 @@ const curationIndex = await getArticlesIndex(lang);
 const curationBySlug = new Map(
   (curationIndex.get(category) || []).map((a) => [a.slug, a.curation]),
 );
+const curationReasonBySlug = new Map(
+  (curationIndex.get(category) || []).map((a) => [a.slug, a.curationReason]),
+);
 
 // Load economic data for economy category
 let taiexData: any[] = [];
@@ -632,6 +635,9 @@ const otherCategories = categories
                               : undefined
                           }
                           curation={curationBySlug.get(article.slug)}
+                          curationReason={curationReasonBySlug.get(
+                            article.slug,
+                          )}
                           openIn="same-tab"
                         />
                       </li>
@@ -740,6 +746,9 @@ const otherCategories = categories
                                 : undefined
                             }
                             curation={curationBySlug.get(article.slug)}
+                            curationReason={curationReasonBySlug.get(
+                              article.slug,
+                            )}
                             openIn="same-tab"
                             extraClass={
                               article.featured ? 'hub-row-featured' : ''

@@ -1,0 +1,29 @@
+# article-census 2026-11-04 — A2：A2 heal 漏標的投稿（含同時中 A1 的），27 篇
+# 套用（先 dry-run）：python3 scripts/tools/curation-tag.py --set incubating --reason unverified --files reports/article-census/2026-11-04-tier-A2.txt
+knowledge/History/林爽文事件.md
+knowledge/History/婦女運動.md
+knowledge/Economy/新台幣.md
+knowledge/History/823砲戰.md
+knowledge/Culture/台灣口語特色.md
+knowledge/History/臺灣議會設置請願運動.md
+knowledge/People/廖添丁.md
+knowledge/People/尼克星.md
+knowledge/People/張忠仁與張忠義.md
+knowledge/Food/蘿蔔糕.md
+knowledge/Culture/布農族小米歲時祭儀.md
+knowledge/Culture/四秀仔.md
+knowledge/Art/歌仔戲.md
+knowledge/Culture/鄒族戰祭.md
+knowledge/Economy/台灣造船業.md
+knowledge/Economy/生活市集.md
+knowledge/Geography/中華民國美學.md
+knowledge/Geography/自來水.md
+knowledge/Geography/阿里山林業鐵路.md
+knowledge/History/台灣廣播史.md
+knowledge/History/嘉義農林.md
+knowledge/History/國家鐵道博物館.md
+knowledge/People/六指淵.md
+knowledge/People/理科太太.md
+knowledge/Society/台灣人工生殖.md
+knowledge/Society/社區大學黃武雄.md
+knowledge/Technology/功字裡的那根反斜線.md
