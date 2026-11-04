@@ -1,17 +1,17 @@
 ---
-title: 'Taiwanese Popcorn Chicken (鹽酥雞)'
-description: 'In 1975, a failed restaurant owner from Tainan set up a cart in Ximending and fried chicken chunks with an ancestral marinade. Fifty years later, 鹽酥雞 has become one of the few Taiwanese street foods that survives without a night market or a storefront — CNN has listed it twice as a must-eat, yet its most authentic form is always a paper bag you wait for on the roadside at midnight.'
+title: 'Taiwanese Popcorn Chicken (Yán Sū Jī)'
+description: 'In 1975, Tainan native Chen Ting-chih, a failed restaurateur, set up a cart in Ximending using a family recipe. Fifty years later, popcorn chicken has become a unique Taiwanese snack that thrives without storefronts or night markets—relying only on a single cart and a pot of oil.'
 date: 2026-04-01
 category: 'Food'
 tags:
   [
-    'salt-crispy chicken',
-    'xian su ji',
-    'street food',
-    'night market',
-    'fried food',
-    'late-night food culture',
-    'Thai basil',
+    'Popcorn Chicken',
+    'Yán Sū Jī',
+    'Snacks',
+    'Night Markets',
+    'Fried Food',
+    'Late-night Food Culture',
+    'Thai Basil',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,100 +19,101 @@ featured: true
 lastVerified: 2026-06-26
 lastHumanReview: true
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a'
-sourceContentHash: 'sha256:ff821213812f38cb'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
 sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-06-27T00:35:00Z'
+translatedAt: '2026-11-04T16:19:37+08:00'
 ---
 
-> **30-Second Overview:** 鹽酥雞 (yán sū jī — Taiwanese popcorn chicken) is Taiwan's most representative deep-fried street snack. In 1975, Chen Ting-chih set up the first stall in Taipei's Ximending, using a special marinade on chicken chunks, tossing them with pepper salt and Thai basil — an instant hit.[^1] Fifty years later, 鹽酥雞 carts are scattered at every corner, night market, and residential lane across the island. CNN has twice selected it for "foods Taiwan cannot live without,"[^2] but its most distinctive quality is not the flavor — it is its existence as a form of "late-night infrastructure": no storefront, no sign, just a cart, a wok of oil, and a handful of Thai basil is all it takes to open for business.
+> **30-Second Overview:** _Yán sū jī_ (popcorn chicken) is one of Taiwan's most iconic street snacks. In 1975, Chen Ting-chih set up his first stall in Ximending, Taipei, using a special marinade for fried chicken pieces sprinkled with pepper salt and _jiǔcéngtǎ_ (Thai basil), becoming an instant success[^1]. Fifty years later, popcorn chicken stalls are found on every corner, in night markets, and throughout residential areas across Taiwan. CNN has twice included it in its lists of "must-eat foods in Taiwan"[^2], but its most unique quality is not just the flavor—it is its existence as a form of "late-night infrastructure": no storefront or signage required; just a cart, a pot of oil, and a handful of basil.
 
-In 1975, Chen Ting-chih set up a cart on a street in Taipei's Ximending.
+In 1975, Chen Ting-chih set up a cart on the streets of Ximending, Taipei.
 
-He had run a restaurant before. It failed. All he had left were some chicken breasts and a marinating technique learned from his mother.[^3] He cut the chicken into small pieces, marinated them with the ancestral recipe, coated them in batter, fried them golden, and finished with a toss of pepper salt, a gesture that would be repeated by tens of thousands of stalls across the island, billions of times over.
+He had previously run a restaurant, which failed. All he had left were some chicken breasts and a marinating technique learned from his mother[^3]. He cut the chicken into small pieces, marinated them with a secret family recipe, coated them in flour, and fried them until golden. Once removed from the oil, he sprinkled them with pepper salt—an action that has since been repeated billions of times by tens of thousands of vendors across Taiwan.
 
-Chen Ting-chih went on to establish "Taiwan's First 鹽酥雞," spreading his proprietary seasoning powder through a free franchise model.[^4] By today's standards this is unremarkable, but in 1970s Taiwan a roadside stall growing into a national franchise network was extraordinarily rare.
+Chen Ting-chih later founded "Taiwan's First Popcorn Chicken," promoting his own seasoning powder through a free franchise model[^4]. While this might seem unremarkable today, in 1970s Taiwan, turning a roadside stall into a nationwide franchise system was extremely rare.
 
-> **📝 Curator's Perspective:** There are two competing origin stories for 鹽酥雞: Chen Ting-chih's Ximending cart in 1975, and the "You-Ai 鹽酥雞" at the corner of Ximen Road and You-Ai Street in Tainan, around 1979.[^5] North and south each claim primacy, but the conclusion is the same — from its birth, this snack belonged to the street. It never belonged to any restaurant.
+> **📝 Curator's Note:** There are two theories regarding the origin of popcorn chicken: one points to Chen Ting-chih in Ximending in 1975, and the other to "You'ai Popcorn Chicken" at the intersection of Ximen Road and You'ai Street in Tainan around 1979[^5]. Both North and South claim it, but the conclusion is the same—from the day it was born, this snack has belonged to the streets, never to a formal restaurant.
 
-## "Yán" or "Xián"? A War With No Answer
+## "Yán" or "Xián"? A War Without an Answer
 
-Taiwanese have debated for decades: is it 鹽酥雞 (yán sū jī, "salt-crispy chicken") or 鹹酥雞 (xián sū jī, "salty-crispy chicken")?
+A question Taiwanese people have debated for decades: Is it _yán sū jī_ (salt popcorn chicken) or _xián sū jī_ (savory popcorn chicken)?
 
-Northern Taiwan mostly uses 鹽 (salt); many places in central and southern Taiwan say 鹹 (salty). Historical research suggests both original founding shops — Ximending's "Taiwan's First **鹽**酥雞" and Tainan's "You-Ai **鹽**酥雞" — use the character 鹽. The 鹹 variant emerged later through popular usage.[^5]
+In the north, most use "_yán_," while in many parts of the south and central regions, it is called "_xián_." Some researchers have noted that the two original founding shops—"Taiwan's First **Yán** Sū Jī" in Ximending and "You'ai **Yán** Sū Jī" in Tainan—both used the character for salt (_yán_), suggesting that "_xián_" (savory) is a later folk evolution of the writing[^5].
 
-But the debate persists because both characters make sense: 鹽 refers to the seasoning method (pepper salt), while 鹹 describes the taste. Taiwanese take this debate about as seriously as Italians arguing which city makes the most authentic pizza.
+However, the debate persists because both terms make sense: "_yán_" refers to the seasoning method (pepper salt), while "_xián_" refers to the taste. The seriousness with which Taiwanese people approach this matter is comparable to Italians debating which city has the most authentic pizza.
 
-## A Self-Service Deep Fryer
+## A Buffet in a Pot of Oil
 
-What truly makes 鹽酥雞 unique is not just the chicken.
+What makes popcorn chicken truly unique is not just the chicken.
 
-Step up to a 鹽酥雞 stall and you see an entire row of ingredients: chicken chunks, chicken skin, tempura fishcake, broccoli, green beans, king oyster mushrooms, pig blood cake, silver thread rolls, tofu sheets, triangle-cut pork bones, squid... You pick what you want with tongs, put it in a wire basket, hand it to the vendor, and everything goes into the same wok of oil. Just before lifting it out, a handful of Thai basil goes in for a quick flash fry; then it is drained, tossed with pepper salt and minced garlic, and packed into a paper bag.[^6]
+When you walk up to a stall, you see a whole array of ingredients: chicken pieces, chicken skin, _tián bù là_ (fish cakes), cauliflower, green beans, king oyster mushrooms, rice cakes, silver rolls, hundred-layer tofu, triangular bone cartilage, squid... You use tongs to select your items and place them in a basket for the vendor. Everything goes into the pot together. Just before taking it out, a handful of Thai basil is tossed in to release its aroma; then it is drained, sprinkled with pepper salt, mixed with minced garlic, and packed into a paper bag[^6].
 
-> **📝 Curator's Perspective:** This "you-pick, I-fry" format has almost no parallel anywhere else in the world's street food. It is not a fried chicken shop (where you can only order what is on the menu), nor a cafeteria (where you serve yourself). It is an instant, customized deep-fry selection counter — everyone's paper bag is a unique combination.
+> **📝 Curator's Note:** This "you select, I fry" model is almost unparalleled among street foods worldwide. It is not a fried chicken shop (where you can only order from a menu), nor is it a buffet (where you scoop your own food to eat). It is an instant-customization deep-fry boutique—every bag someone receives has a different combination.
 
-Thai basil is the soul. Taiwanese Thai basil is more aromatic than Italian sweet basil; the instant it hits hot oil, a herbaceous fragrance erupts together with a faint peppery sting, and this is what distinguishes 鹽酥雞 from every other fried chicken in the world. Timing also matters: too early and the aroma is lost in the oil, too late and it never fuses with the chicken. Veteran vendors toss the basil on right after the chicken comes out of the wok, letting the residual heat draw out the fragrance. 鹽酥雞 without Thai basil is like a burger without onion, technically possible, but spiritually incomplete.
+Thai basil is the soul. The aroma of Taiwanese Thai basil is more intense than Italian basil; the moment it hits the hot oil, the herbal scent explodes with a hint of spiciness. This is the key that distinguishes popcorn chicken from all other fried chicken in the world. Timing is also crucial: if added too early, the aroma is lost; if too late, it won't integrate. Experts add it immediately after removing the food from the oil, using the residual heat to draw out the fragrance. Popcorn chicken without Thai basil is like a hamburger without onions—technically possible, but spiritually incomplete.
 
-## Taiwanese yán sū jī vs Japanese karaage: Two philosophies of fried chicken
+## Popcorn Chicken vs. Japanese Karaage: Two Philosophies of Fried Chicken
 
-Both are fried chicken, but Taiwanese 鹽酥雞 and Japanese karaage (からあげ) travel in almost opposite directions.
+Though both are fried chicken, Taiwanese popcorn chicken and Japanese _karaage_ (唐揚) follow almost opposite paths.
 
-Karaage chases the purity of the ingredient itself: the chicken is marinated in soy sauce, grated ginger, and grated garlic, dredged in a thin coat of starch, then fried so the outside is crisp and the inside stays tender. The seasoning is restrained, letting the savoriness of the chicken take the lead. It usually arrives as part of a teishoku set meal, eaten quietly inside a restaurant.
+Japanese _karaage_ pursues the purity of the ingredient: the chicken is marinated in soy sauce, ginger, and garlic, coated in a thin batter, and fried to be crispy on the outside and tender on the inside. The seasoning is restrained, allowing the umami of the meat to take center stage. It is usually part of a set meal, eaten quietly in a restaurant.
 
-鹽酥雞 goes the opposite way. It is fundamentally a sensory ensemble piece: the bite of pepper salt, the fragrance of Thai basil, the pungency of minced garlic — flavors layered on top of one another, and the whole point is that they hit hard. It also almost never shows up alone. You eat it while walking, share a bag with friends at the night market, wash it down with a hand-shaken drink. One is a dish that sits on a dining table; the other is a social medium clenched in your hand.
+Popcorn chicken moves in the opposite direction. It is a full sensory performance: the spice of pepper salt, the aroma of Thai basil, and the pungency of minced garlic—the flavors are layered to achieve intensity. Furthermore, it rarely appears alone; you are always eating it while walking, sharing a bag with friends at a night market, or pairing it with a bubble tea. One is a dish placed on a dining table; the other is a social medium held in the hand.
 
 ## Late-Night Infrastructure
 
-鹽酥雞 is one of the few Taiwanese street foods that can survive without a night market (台灣夜市小吃文化).[^6]
+Popcorn chicken is one of the few Taiwanese snacks that can survive without a night market[^6].
 
-Residential lane corners, spots beside schools, exits from MRT stations, anywhere people pass through, a 鹽酥雞 cart may appear. Business typically starts in the evening and peaks between 10 p.m. and 1 a.m. In Taiwan, "I want 鹽酥雞 after work" is not a question requiring a search — within a 500-meter radius of your current location, there is almost certainly a stall.
+At the entrance of residential alleys, next to schools, or at MRT exits—wherever people pass, a popcorn chicken cart might appear. Operating hours usually begin in the evening, peaking between 10:00 PM and 1:00 AM. In Taiwan, "wanting popcorn chicken after work" is not a question that requires a search, because there is almost certainly a stall within a 500-meter radius of your phone's location.
 
-The "Taiwan 鹽酥雞" brand (not related to Chen Ting-chih's lineage) has even scaled this roadside-cart business to three locations generating combined annual revenue of NT$150 million, and has purchased land in Taipei's Dazhi area to build a central kitchen.[^7] But most 鹽酥雞 stalls remain one person, one cart, one wok of oil.
+The "Taiwan Popcorn Chicken" brand (not part of Chen Ting-chih's system) has even scaled this roadside business into three stores with annual revenues exceeding NT$150 million, even purchasing land in Dazhi, Taipei, to build a central kitchen[^7]. However, most stalls remain at the scale of one person, one cart, and one pot of oil.
 
-## The Health Debate in the Paper Bag
+## The Health Debate in a Paper Bag
 
-The food safety controversy around 鹽酥雞 has never stopped.
+The food safety controversies surrounding popcorn chicken never cease.
 
-Reused oil is the most frequently cited problem: vendors reuse a wok of oil repeatedly, and at high temperatures fat degrades and produces carcinogens. Food safety expert Chang Pang-ni points out that beyond reused oil, 鹽酥雞 carries three additional health risks: the batter coating absorbs large amounts of oil at high temperatures, and artificial coloring may be added to the seasoning powders.[^8]
+Reused oil is the most frequently cited issue: vendors use one pot of oil repeatedly, and under high temperatures, oil degradation produces carcinogens. Food safety expert Chang Pang-ni points out that besides reused oil, the three major health risks of popcorn chicken include high oil absorption due to the flour coating and the potential addition of artificial colors in seasonings[^8].
 
-> "Choose vendors who advertise not reusing oil; the same weight of chicken cutlet has fewer calories than 鹽酥雞 chunks." — food safety expert Chang Pang-ni[^8]
+> "Choosing vendors that claim not to use reused oil will result in chicken cutlets with lower calories than popcorn chicken pieces of the same weight." — Food safety expert Chang Pang-ni[^8]
 
-But the relationship between Taiwanese people and 鹽酥雞 has never been built on health grounds. When you line up at midnight waiting for that scalding paper bag, you are not thinking about fat oxidation values — you are thinking, "Do I add chili today?"
+But the relationship between Taiwanese people and popcorn chicken has never been built on a foundation of health. When you are queuing in the middle of the night for that bag of scalding hot paper, you aren't thinking about the oil oxidation value; you are thinking about "whether to add extra spicy today."
 
 ## From Ximending to the World
 
-In 1992, KFC launched "Popcorn Chicken," bite-sized fried chicken pieces.[^6] Many Taiwanese people's first reaction was: "Isn't this just 鹽酥雞?"
+In 1992, KFC introduced "popcorn chicken," bite-sized fried chicken pieces[^6]. Many Taiwanese people's first reaction upon seeing this product was: "Isn't this just _yán sū jī_?"
 
-CNN included 鹽酥雞 in both its 2015 lists — "Taiwan's 40 Best Foods and Drinks" and "Best Foods in Taiwan" — describing it as "dangerously addictive."[^2] In a 2024 BBC guide to Taiwanese political cuisine, crispy-fried Taiwanese popcorn chicken was also listed as a must-eat at night markets (台灣夜市小吃文化).[^9] In overseas Chinese communities, 鹽酥雞 stalls are evolving from Chinatown snacks into independent brand concepts, the four characters 台灣鹹酥雞 are a selling point in themselves.
+CNN included popcorn chicken in both its "40 best foods and drinks in Taiwan" and "best foods in Taiwan" lists in 2015, describing it as "dangerously addictive"[^2]. In a 2024 BBC guide to Taiwanese political food, crispy-fried Taiwanese popcorn chicken was also listed as a must-eat at night markets[^9]. In overseas Chinese communities, popcorn chicken stalls are evolving from Chinatown snacks into independent brands; the four characters for "Taiwanese Popcorn Chicken" (_Táiwān xián sū jī_) have become a selling point in themselves.
 
-A recipe column from The News Lens International Edition provides another clue: "popcorn chicken" has already become a globally recognized category name in English, yet most people do not know its prototype comes from Taiwan.[^10]
+An English recipe column from _The News Lens_ provides another clue: while the English name "popcorn chicken" has become a globally recognized category, most people do not know its prototype comes from Taiwan[^10].
 
-Fifty years ago, Chen Ting-chih probably could not have imagined that the roadside cart of a failed restaurant owner would become the most reliable late-night comfort for an entire island. 鹽酥雞 is not refined cuisine. Its reason for existing is simple — no matter how late, no matter where you are, the wok of oil at the corner of your lane is always waiting for you.
+Fifty years ago, Chen Ting-chih probably never imagined that his roadside cart—the product of a failed restaurateur—would become the most reliable late-night comfort for an entire island. Popcorn chicken is not some exquisite cuisine; its purpose is simply this: no matter how late it is, and no matter where you are, that pot of oil at the corner of the alley is always waiting for you.
 
-## Further reading
+## Further Reading
 
-- [Night Market Culture](/en/food/night-market-culture) — The main circulation space for 鹽酥雞 and the central stage of Taiwan's late-night food ecosystem
-- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — From early morning to deep night, a contrast between Taiwan's two most important eating windows
-- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Together with 鹽酥雞 stalls, convenience stores form Taiwan's 24-hour food landscape
+- [Night Market Culture](/en/food/night-market-culture) — The primary venue for popcorn chicken and the core stage of the Taiwanese late-night food ecosystem.
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — A comparison of Taiwan's two important dietary periods, from dawn to late night.
+- [Taiwanese Convenience Store Culture](/en/lifestyle/convenience-store-culture) — How popcorn chicken stalls and convenience stores together form Taiwan's 24-hour food landscape.
+- [Sweet Potato Balls](/en/food/sweet-potato-balls) — Another pot of oil on the same night market street: the hollow center of a sweet potato ball is pressed out by vendors using a slotted spoon, one by one.
 
 ## References
 
-[^1]: [正宗第一家鹽酥雞之父陳廷智——理財週刊](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
+[^1]: [The Authentic Father of the First Popcorn Chicken, Chen Ting-chih — Money Weekly](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
 
 [^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — (2015)
 
-[^3]: [鹽酥雞之父西門町起家 免費加盟限用「台灣第一家」調味粉——三立新聞](https://www.setn.com/News.aspx?NewsID=72928) — (2015)
+[^3]: [Father of Popcorn Chicken Starts in Ximending, Free Franchising Limited to "Taiwan's First" Seasoning Powder — Sanli News](https://www.setn.com/News.aspx?NewsID=72928) — (2015)
 
-[^4]: [創意爆炸的台灣炸物！鹽酥雞和雞排是誰發明的？——上報](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) — (2021)
+[^4]: [Creative Explosion of Taiwanese Fried Food! Who Invented Popcorn Chicken and Chicken Cutlets? — UDN](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) — (2021)
 
-[^5]: [「鹽」酥雞還是「鹹」酥雞？內行自信神回 正解跌破眼鏡——NOWnews](https://www.nownews.com/news/5769646) — (2022)
+[^5]: ["Yán" Sū Jī or "Xián" Sū Jī? An Insider's Confident Answer Defies Expectations — NOWnews](https://www.nownews.com/news/5769646) — (2022)
 
-[^6]: [鹹酥雞——維基百科](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E) — Wikipedia entry
+[^6]: [Popcorn Chicken — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E) — Wikipedia entry
 
-[^7]: [台灣鹽酥雞傳奇！他年收 1.5 億——中時新聞網](https://www.chinatimes.com/realtimenews/20241011001135-260405) — (2024)
+[^7]: [The Legend of Taiwan Popcorn Chicken! Annual Revenue of NT$150 Million — China Times](https://www.chinatimes.com/realtimenews/20241011001135-260405) — (2024)
 
-[^8]: [不只回鍋油恐怖！專家揭「3 原因」鹽酥雞＝健康殺手——ETtoday](https://health.ettoday.net/news/1519768) — (2019)
+[^8]: [Not Just Reused Oil is Scary! Experts Reveal "3 Reasons" Popcorn Chicken is a Health Killer — ETtoday](https://health.ettoday.net/news/1519768) — (2019)
 
 [^9]: [General Tso's chicken to bento bowls: A food guide to Taiwan politics — BBC](https://www.bbc.com/news/world-asia-67874131) — (2024)
 
-[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547) — Supplementary information at the original link
+[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547) — See original link for supplementary details
