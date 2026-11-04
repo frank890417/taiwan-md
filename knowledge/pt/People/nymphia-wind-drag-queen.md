@@ -2,24 +2,28 @@
 title: 'Do Porão ao Palácio Presidencial: Nymphia Wind e a História de Autoempoderamento das Drag Queens de Taiwan'
 description: "Como um menino taiwanês que sofreu bullying por sua expressão de gênero levou a arte drag, vista como subcultura, ao palco internacional, usando a 'banana' como símbolo para mostrar ao mundo a diversidade e a confiança de Taiwan."
 date: 2026-04-18
-author: 'idlccp1984'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'Nymphia Wind'
-  - 'drag queen'
-  - 'LGBTQ+'
-  - 'igualdade de género'
-  - 'cultura de Taiwan'
-  - "RuPaul's Drag Race"
+  [
+    'Nymphia Wind',
+    'drag queen',
+    'LGBTQ+',
+    'igualdade de género',
+    'cultura de Taiwan',
+    "RuPaul's Drag Race",
+  ]
+subcategory: '音樂與表演'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-04T20:20:27.979686+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2024, a drag queen taiwanesa Nymphia Wind venceu a competição global mais badalada, o _RuPaul's Drag Race_, tornando-se a primeira pessoa de Taiwan a conquistar tal honra. Seu sucesso não apenas projetou a arte drag de Taiwan no cenário internacional, como também, coincidindo com o "Dia da Educação para a Igualdade de Género", exibiu ao mundo o espírito de diversidade e inclusão de Taiwan. De festas underground ao Palácio Presidencial, a história de Nymphia Wind é um retrato de quase 30 anos de autoempoderamento da comunidade LGBTQ+ de Taiwan; ela usa a "banana" como símbolo, fundindo sua experiência de vida pessoal com a cultura taiwanesa, para proclamar ao mundo a existência e a confiança de Taiwan.

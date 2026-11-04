@@ -2,9 +2,7 @@
 title: 'Yang Yu-jen'
 description: 'Fundador da Associação Internacional Cristã Step30 Sapatos Velhos Salvam Vidas, selecionado entre os Dez Jovens Mais Notáveis de 2017, reuniu cem mil pares de sapatos usados com um único cartaz para ajudar crianças do Leste Africano'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
     'Empresas Sociais de Taiwan',
@@ -14,14 +12,18 @@ tags:
     'Ajuda a África',
     'Ministério Cristão',
   ]
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-04T20:45:50.347039+00:00'
 ---
 
 # Yang Yu-jen: Do Dropout Grafiteiro ao Resgate de Sapatos Velhos em África
@@ -58,19 +60,19 @@ Yang Yu-jen publicou _Dar-te 50 Mil Pares de Bênçãos: Como uma Pequena Ação
 
 ## Referências
 
-[^1]: [Yang Yu-jen — Wikipédia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Principais dados biográficos, incluindo nascimento em Taoyuan, estudos na Austrália e virada de fé.
+[^1]: [Yang You-jen — Wikipédia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Principais dados biográficos, incluindo o nascimento em Taoyuan, estudos na Austrália e transição de fé.
 
-[^2]: [Step30 Sapatos Velhos Salvam Vidas — Site Oficial](https://www.step30.org/) — Apresentação da organização, projetos missionários e relatórios anuais de serviço.
+[^2]: [Step30 Old Shoes Save Lives — Site Oficial](https://www.step30.org/) — Introdução da organização, planos de ministério e relatórios anuais de serviço.
 
-[^3]: [Associação Internacional Cristã Sapatos Velhos Salvam Vidas — Wikipédia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Desdobramento do episódio do cartaz de 2014 e registos da distribuição por contentores.
+[^3]: [International Christian Concern Association - Old Shoes Save Lives — Wikipédia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Cronologia do incidente do cartaz de 2014 e registros de distribuição de contêineres.
 
-[^4]: [Entrevista 104 Bravos — Do Pequeno Delinquente de Rua a Jovem Mais Notável](https://blog.104.com.tw/104bravo-step30-org-founder/) — História da virada de vida de Yang Yu-jen, origem do nome Step30 e explicação da filosofia «não criar dependência».
+[^4]: [Entrevista Especial 104 Applause — De delinquente de rua a um dos Dez Jovens de Destaque](https://blog.104.com.tw/104bravo-step30-org-founder/) — A história da reviravolta na vida de Yang You-jen, a origem do nome Step30 e a explicação do conceito de "não criar dependência".
 
-[^5]: [Site Oficial Step30 — Apresentação dos Projetos](https://www.step30.org/) — Descrição dos quatro planos: Educação, Água Viva, Amor às Meninas e Autonomia Agrícola.
+[^5]: [Site Oficial Step30 — Introdução aos Projetos](https://www.step30.org/) — Explicação dos quatro projetos: Educação, Águas Vivas, Amor • Meninas e Autossuficiência Agrícola.
 
-[^6]: [Associação dos Dez Jovens Mais Notáveis](https://www.youth.org.tw/) — Confirma a seleção de Yang Yu-jen em 2017.
+[^6]: [Associação de Jovens de Destaque](https://www.youth.org.tw/) — Confirmação da eleição de Yang You-jen como um dos Dez Jovens de Destaque em 2017.
 
-[^7]: [_Dar-te 50 Mil Pares de Bênçãos_ — Books.com.tw](https://www.books.com.tw/products/0010806227) — Obra de Yang Yu-jen (Livraria do Campus, 2018), relata a fundação do Sapatos Velhos Salvam Vidas e o percurso do ministério africano.
+[^7]: [《Dando a Você 50.000 Pares de Bênçãos》— Books.com.tw](https://www.books.com.tw/products/0010806227) — Obra de Yang You-jen (Campus Bookstore, 2018), registrando o processo de fundação da Old Shoes Save Lives e sua jornada no ministério na África.
 
 ## Leitura Complementar
 

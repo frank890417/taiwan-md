@@ -2,9 +2,7 @@
 title: 'A lontra de Taiwan: a luta pela sobrevivência da lontra-europeia de Kinmen numa ilha isolada e o desaparecimento silencioso na ilha principal'
 description: 'A lontra-europeia da ilha principal de Taiwan não tem registos confirmados na natureza desde a década de 1980, e a situação populacional é desconhecida e extremamente preocupante. As únicas que restam em Kinmen, as "lontras do campo de batalha", enfrentam uma ameaça múltipla de fragmentação de habitat, atropelamentos e poluição por microplásticos.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'lontra-europeia',
@@ -15,15 +13,19 @@ tags:
     'atropelamento',
     'fragmentação de habitat',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-11-04T20:16:58.869900+00:00'
 ---
 
 # A lontra de Taiwan: a luta pela sobrevivência da lontra-europeia de Kinmen numa ilha isolada e o desaparecimento silencioso na ilha principal
