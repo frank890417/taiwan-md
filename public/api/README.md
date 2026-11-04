@@ -16,58 +16,79 @@ https://taiwan.md/api/random.json      # 隨機文章
 
 ### 1. 文章列表 `/api/articles.json`
 
-返回所有文章的 metadata，按標題排序。
+返回所有語言（zh-TW 原文＋12 種譯文）所有文章的 metadata，按標題排序。
 
 **範例回應：**
+
 ```json
 [
   {
     "title": "二二八事件",
-    "description": "1947年改變台灣歷史軌跡的重大事件",
+    "description": "一個寡婦的私菸攤，如何點燃一座島嶼三十八年的沉默⋯⋯",
     "category": "History",
     "tags": ["歷史", "政治", "轉型正義"],
-    "url": "https://taiwan.md/History/二二八事件",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "History/二二八事件.md"
+    "url": "https://taiwan.md/history/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "History/二二八事件.md",
+    "lang": "zh-TW",
+    "categorySlug": "history"
+  },
+  {
+    "title": "The February 28 Incident",
+    "category": "History",
+    "url": "https://taiwan.md/en/history/228-incident",
+    "path": "en/History/228-incident.md",
+    "lang": "en",
+    "categorySlug": "history"
   }
 ]
 ```
 
 **欄位說明：**
+
 - `title`: 文章標題
 - `description`: 文章描述（來自 frontmatter）
-- `category`: 文章分類（基於檔案路徑）
+- `category`: 文章分類，磁碟上的分類資料夾名（`History`、`People`⋯），每種語言都一樣
+- `categorySlug`: 網址用的小寫分類（`history`、`people`⋯），同 `stats.json` 的分類名
+- `lang`: 語言代碼（`zh-TW`、`en`、`ja`⋯）。**要分語言請讀這欄**
 - `tags`: 標籤陣列
 - `url`: 文章完整 URL
-- `readingTime`: 預估閱讀時間（分鐘）
+- `readingTime`: 預估閱讀時間（分鐘），跟文章頁顯示的一樣
 - `featured`: 是否為精選文章
 - `date`: 發布日期
-- `path`: 在 knowledge/ 目錄下的相對路徑
+- `path`: 在 knowledge/ 目錄下的相對路徑（譯文以語言資料夾開頭，如 `en/History/…`）
+
+> ⚠️ **`category` 語義變更（2026-11-04）**：在這之前，譯文的 `category` 是語言代碼
+> （例如越南文那篇是 `"vi"`、zh-TW 原文才是 `"History"`），不少程式拿它判斷「是不是譯文」。
+> 現在 `category` 一律是真分類，譯文跟原文同值；判斷語言請改讀 `lang`
+> （2026-11-04 新增；讀到沒有 `lang` 的舊快取時，可以看 `path` 第一段是不是語言資料夾）。
+> 站上的首頁骰子、/explore 隨機鈕、mcp.taiwan.md、`taiwanmd` CLI 都已改讀 `lang`／`categorySlug`。
 
 ### 2. 統計資料 `/api/stats.json`
 
 返回知識庫的整體統計資訊。
 
 **範例回應：**
+
 ```json
 {
-  "totalArticles": 649,
+  "totalArticles": 15048,
   "totalCategories": 15,
   "estimatedContributors": 44,
   "totalTags": 1439,
   "categories": [
-    {"name": "History", "count": 18},
-    {"name": "Culture", "count": 23}
+    { "name": "people", "count": 3848 },
+    { "name": "society", "count": 1588 }
   ],
   "topTags": [
-    {"name": "人物", "count": 48},
-    {"name": "台灣", "count": 19}
+    { "name": "人物", "count": 48 },
+    { "name": "台灣", "count": 19 }
   ],
   "languageDistribution": {
-    "zh-TW": 649,
-    "en": 0
+    "zh-TW": 1161,
+    "en": 1158
   },
   "lastUpdated": "2026-03-20T07:40:53.353Z"
 }
@@ -91,10 +112,12 @@ async function getAllArticles() {
   return articles;
 }
 
-// 搜尋特定分類的文章
-async function getArticlesByCategory(category) {
+// 搜尋特定分類、特定語言的文章（category 例如 'History'，lang 例如 'zh-TW'）
+async function getArticlesByCategory(category, lang = 'zh-TW') {
   const articles = await getAllArticles();
-  return articles.filter(article => article.category === category);
+  return articles.filter(
+    (article) => article.category === category && article.lang === lang,
+  );
 }
 
 // 獲取統計資料
@@ -119,39 +142,39 @@ async function getRandomRecommendations() {
 <div id="taiwan-widget"></div>
 
 <script>
-fetch('https://taiwan.md/api/random.json')
-  .then(response => response.json())
-  .then(articles => {
-    const widget = document.getElementById('taiwan-widget');
-    const article = articles[0]; // 取第一篇
-    
-    widget.innerHTML = \`
-      <div style="border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
-        <h3><a href="\${article.url}" target="_blank">\${article.title}</a></h3>
-        <p>\${article.description}</p>
-        <small>分類: \${article.category} • 閱讀時間: \${article.readingTime} 分鐘</small>
-      </div>
-    \`;
-  });
+  fetch('https://taiwan.md/api/random.json')
+    .then(response => response.json())
+    .then(articles => {
+      const widget = document.getElementById('taiwan-widget');
+      const article = articles[0]; // 取第一篇
+
+      widget.innerHTML = \`
+        <div style="border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
+          <h3><a href="\${article.url}" target="_blank">\${article.title}</a></h3>
+          <p>\${article.description}</p>
+          <small>分類: \${article.category} • 閱讀時間: \${article.readingTime} 分鐘</small>
+        </div>
+      \`;
+    });
 </script>
 ```
 
 ## 📊 分類對照表
 
-| 英文分類 | 中文說明 | 文章數量範圍 |
-|----------|----------|------------|
-| History | 歷史 | ~18 篇 |
-| Culture | 文化 | ~23 篇 |
-| People | 人物 | ~104 篇 |
-| Art | 藝術 | ~23 篇 |
-| Food | 飲食 | ~25 篇 |
-| Technology | 科技 | ~20 篇 |
-| Economy | 經濟 | ~16 篇 |
-| Geography | 地理 | ~16 篇 |
-| Music | 音樂 | ~19 篇 |
-| Nature | 自然 | ~17 篇 |
-| Society | 社會 | ~17 篇 |
-| Lifestyle | 生活風格 | ~15 篇 |
+| 英文分類   | 中文說明 | 文章數量範圍 |
+| ---------- | -------- | ------------ |
+| History    | 歷史     | ~18 篇       |
+| Culture    | 文化     | ~23 篇       |
+| People     | 人物     | ~104 篇      |
+| Art        | 藝術     | ~23 篇       |
+| Food       | 飲食     | ~25 篇       |
+| Technology | 科技     | ~20 篇       |
+| Economy    | 經濟     | ~16 篇       |
+| Geography  | 地理     | ~16 篇       |
+| Music      | 音樂     | ~19 篇       |
+| Nature     | 自然     | ~17 篇       |
+| Society    | 社會     | ~17 篇       |
+| Lifestyle  | 生活風格 | ~15 篇       |
 
 ## ⚙️ 技術實作
 
@@ -171,8 +194,8 @@ npm run build
 
 - **文章內容**: `knowledge/` 目錄下的所有 `.md` 檔案
 - **Metadata**: 從各檔案的 frontmatter 解析
-- **分類**: 基於檔案路徑自動判斷
-- **閱讀時間**: 基於字數估算（250 字/分鐘）
+- **分類**: 基於檔案路徑自動判斷（`[語言/]分類/檔名.md` 的分類那一段）
+- **閱讀時間**: frontmatter 有 `readingTime` 就用它，否則以字元數 ÷ 500 估算（跟文章頁同一條公式）
 
 ### CORS 政策
 
@@ -200,4 +223,4 @@ npm run build
 
 ---
 
-*Taiwan.md Knowledge API v1.0 - 讓台灣知識觸手可及 🇹🇼*
+_Taiwan.md Knowledge API v1.0 - 讓台灣知識觸手可及 🇹🇼_
