@@ -1,29 +1,31 @@
 ---
 title: "La bataille de l'incinérateur de Mingjian : quand 300 000 tonnes de « dette d'ordures » percutent la ligne de survie d'un bassin théicole d'un milliard"
 description: "Fin 2024, les déchets accumulés dans le comté de Nantou ont dépassé 310 000 tonnes, provoquant une crise d'« encerclement par les ordures ». La magistrate Hsü Shu-hua a projeté d'installer un incinérateur d'une capacité de 500 tonnes par jour dans le village de Xinmin, commune de Mingjian, déclenchant une pétition de protestation signée par plus de 250 universitaires. C'est une bataille pour la survie d'une zone agricole spéciale, de l'habitat de la tortue boîte à couvercle (Cuora flavomarginata) et de la plus grande chaîne d'approvisionnement en thé pour boissons à emporter de Taïwan."
-category: Society
-subcategory: '社區與日常'
+date: 2026-04-25
+category: 'Society'
 tags:
   [
-    Nantou,
-    Mingjian,
-    incinérateur,
-    industrie du thé,
-    conservation écologique,
-    problème des déchets,
-    Hsü Shu-hua,
+    'Nantou',
+    'Mingjian',
+    'incinérateur',
+    'industrie du thé',
+    'conservation écologique',
+    'problème des déchets',
+    'Hsü Shu-hua',
   ]
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
-date: 2026-04-25
-readingTime: 15
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-05-02T01:17:16+08:00'
-featured: false
+translatedAt: '2026-11-04T18:05:53.801332+00:00'
 ---
 
 > **En 30 secondes :**

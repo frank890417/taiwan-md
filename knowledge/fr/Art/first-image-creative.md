@@ -2,9 +2,7 @@
 title: 'First Image Creative : du rêve d’animation de Kuo Tai-chiang à 《Pigsy》 dans les ruelles de Tainan'
 description: 'Autrefois financé par Kuo Tai-chiang, First Image Creative a ouvert une lueur d’espoir pour l’animation originale taïwanaise, avant de se réorienter sous la pression des réalités du marché ; studio2, qui s’est développé en symbiose avec elle, a tenu bon vingt ans à Tainan et a finalement remporté le Golden Horse avec 《Pigsy》, écrivant l’histoire douloureuse du passage de l’animation taïwanaise de la sous-traitance à la création originale.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '電影'
 tags:
   [
     'industrie de l’animation',
@@ -14,21 +12,23 @@ tags:
     'Pigsy',
     'contenu numérique',
   ]
-readingTime: 12
+subcategory: '電影'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T18:24:46.121285+00:00'
 ---
 
-> **Aperçu en 30 secondes :**
-> Fondé en 2004, First Image Creative (SOFA Studio) fut autrefois l’une des étoiles de l’animation taïwanaise. Porté par les capitaux de Kuo Tai-chiang et par un rêve de création originale, le studio conquit les droits de diffusion dans 80 pays avec 《MuMuHug》. Pourtant, les coûts élevés de la recherche et développement en animation et les longs délais de retour sur investissement finirent par infléchir ce pari audacieux. L’histoire ne s’est pas arrêtée là : Chiu Li-wei, membre central de cette aventure, fonda studio2 à Tainan et reprit le flambeau. De 《Barkley》 à 《Pigsy》, dans de vieux bâtiments de Tainan, son équipe a échangé vingt années de solitude contre une esthétique de l’animation propre à Taïwan.
-
----
+**Aperçu en 30 secondes :**
+Fondé en 2004, le studio « First Image Creative » (SOFA Studio) fut jadis la star de l’animation taïwanaise, porté par les fonds et le rêve original de Kuo Tai-chiang, et conquit 80 pays avec 《MuMuHug》. Cependant, les coûts élevés de la R&D en animation et le long délai de rentabilité ont fini par faire basculer ce pari risqué. L’histoire ne s’arrête pas là : studio2, fondé à Tainan par le membre clé Chiu Li-wei, a repris le flambeau ; de 《小貓巴克里》 à 《Pigsy》, ils ont, dans les vieux bâtiments de Tainan, échangé vingt ans de solitude contre une esthétique d’animation qui appartient à Taïwan.
 
 ## L’aube disparue : quand le fils d’un grand industriel rencontre le rêve de l’animation
 

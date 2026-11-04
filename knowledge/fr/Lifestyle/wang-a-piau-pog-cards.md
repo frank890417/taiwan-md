@@ -2,19 +2,29 @@
 title: "Les wang-a-piau : des tracts électoraux aux champs de bataille de l'enfance, les cartes de combat de la mémoire taïwanaise"
 description: "Dans les années 1950, les écoliers taïwanais s'affrontaient dans les cours d'école avec des cartes rondes imprimées de personnages de marionnettes en sac (budaixi) et de mangas. Inspiré du jeu japonais « menko », puis transformé par l'essor de l'industrie plastique, le wang-a-piau porte en lui la mémoire collective de plusieurs générations et reflète l'évolution socioculturelle de Taïwan."
 date: 2026-04-27
-author: 'Taiwan.md Contributors'
-category: Lifestyle
+category: 'Lifestyle'
 tags:
-  [jeux d'enfance, wang-a-piau, culture taïwanaise, nostalgie, jeux, élections]
-readingTime: 10
+  [
+    "jeux d'enfance",
+    'wang-a-piau',
+    'culture taïwanaise',
+    'nostalgie',
+    'jeux',
+    'élections',
+  ]
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-featured: false
-translatedFrom: Lifestyle/尪仔標.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Lifestyle/尪仔標.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-05-16T22:35:54Z'
+translatedAt: '2026-11-04T18:04:01.942063+00:00'
 ---
 
 > **En bref (30 secondes) :** À partir des années 1950, le « wang-a-piau » (petites cartes de jeu rondes) était bien plus qu'un simple jeu d'enfant à Taïwan — c'était un marqueur de statut entre pairs. Plus on en collectionnait, plus on pesait dans la cour de récréation. Hérité des jeux de cartes chinois anciens (yèzi xì) et inspiré des jeux d'enfants japonais, ces cartes, d'abord en métal puis en plastique, ont arboré des motifs allant des marionnettes en sac aux personnages de mangas, avec des règles de jeu variées, portant la mémoire collective de plusieurs générations taïwanaises. Fait singulier : à Taïwan, même les tracts électoraux étaient recyclés par les enfants en wang-a-piau, devenant des armes insolites sur les champs de bataille de l'enfance.

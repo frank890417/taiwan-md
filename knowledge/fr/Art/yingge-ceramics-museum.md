@@ -18,11 +18,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-05-09T11:09:58+08:00'
+translatedAt: '2026-11-04T17:35:36.422690+00:00'
 ---
 
 > **En 30 secondes :** Le 26 novembre 2000, le Musée municipal de la céramique de Yingge, à New Taipei, a ouvert ses portes. C'est le premier musée professionnel de céramique de Taïwan. L'édifice, conçu par l'architecte Jian Xueyi, s'articule autour des quatre éléments « terre, eau, feu, vent ». Ses façades en béton brut et ses vastes parois vitrées s'intègrent harmonieusement au paysage de Yingge. Le musée a redéfini cette localité, autrefois connue comme le « Jingdezhen de Taïwan » pour son commerce de gros en céramique, en un lieu dédié à la muséographie, à l'éducation et aux échanges internationaux. Depuis 2004, la « Biennale internationale de céramique de Taïwan » connecte l'artisanat local aux courants mondiaux de la céramique contemporaine.
