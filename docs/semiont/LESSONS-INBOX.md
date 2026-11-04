@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-04 twmd-maintainer-daily — reflex-fires-on-contradiction-not-before-acting：兩把尺打架時我想起了「尺先驗再用」，只有一把尺時不會
+
+- **pattern**: `reflex-fires-on-contradiction-not-before-acting`
+- **原則**：[REFLEXES #99](REFLEXES.md)「尺先驗再用，0 命中先過正控制」與 [#65](REFLEXES.md)「awareness instrument 自己要 cross-verify」在本班同一輪各自命中一次，兩次都救到東西。但兩次的啟動訊號都不是「我要動手了，先驗尺」，是**兩個數字差太多讓我覺得怪**。反射目前住在「出現矛盾時會被想起」的位置，還沒住在「動手之前的那一步」。差別在於：矛盾是運氣提供的。如果只有一把尺在說話，它說什麼就是什麼。
+- **觸發**：同一輪兩個 instance。(一) `issue #1904` 的存量重現指令回 0，而兩份交接對「閘門做了沒」說相反的話——正因為相反，我才去餵正控制（`fence-prose` 回 hard=3）。若兩份交接一致說「閘門已上線」，我會直接關掉 issue，而那個關閉會是碰巧正確。(二) `issue #1891` 我手寫 regex 量出「360 標籤 / 93 檔」，canonical checker 說「215 / 80」——差距大到不合理，才回頭對照。若我的 regex 剛好回 220，我會把它寫進公開留言，而那則 issue 存在的全部理由就是「沒有尺就看不見那 752 處」。
+- **候選機械化**：(a) 任何要寫進公開留言／issue／報告的**自製計數**，先跟該領域既有的 canonical checker 對照一次，對不上就用 checker 的；手寫 regex 的讀數在對照之前不引用（這是 #99「新尺的讀數在抽驗之前不可引用」對「自己臨時寫的尺」的延伸——原條文想的是新造的正式儀器，沒想到當班順手寫的那三行 regex 也是一把新尺）。(b) 關閉 issue 的依據若是「某個指令回 0」，正控制與那個 0 同一次取得、寫進 close 留言；交接敘述一致不構成依據。
+- **可能層級**：通用反射（候選併入 #99 當子規則，而不是新編號——它講的是同一件事的啟動時機，不是新的判準）
+- **相關**：[REFLEXES #99](REFLEXES.md) 尺先驗再用（本條是它的啟動時機面）／[#65](REFLEXES.md) awareness instrument 自我 cross-verify／[#73](REFLEXES.md) 查證反射 < 建造反射（同一個形狀：想查證的反射比想動手的反射慢）／[#16](REFLEXES.md) 否定式結論的舉證要更高（本班第三次用上：WebFetch 擋掉 cna／twreporter 時沒有讀成「來源有問題」）
+- **verification_count**: 1
+
 ### 2026-11-04 twmd-feedback-triage — mandatory-read-gate-inherits-the-saturated-window：那道「讀完全文才准動手」的閘門，入口跟它要讀的列關在同一道牆後面
 
 - **pattern**: `mandatory-read-gate-inherits-the-saturated-window`
