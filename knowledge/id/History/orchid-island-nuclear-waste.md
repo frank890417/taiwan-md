@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/蘭嶼核廢料.md'
-sourceCommitSha: '7fbc0ea76'
-sourceContentHash: 'sha256:32042f77cac1568f'
+sourceCommitSha: '795b09242'
+sourceContentHash: 'sha256:9867c53ac5d9146d'
 sourceBodyHash: 'sha256:ca4e6cf11aa6f741'
-translatedAt: '2026-11-02T05:45:30+08:00'
+translatedAt: '2026-11-04T00:46:05.550722+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada tahun 1982, Lanyu mulai menerima limbah radioaktif tingkat rendah dari berbagai wilayah di Taiwan; pada tahun 1996 tempat penyimpanan tersebut mencapai kapasitas penuh, namun hal itu tidak mengakhiri masa "penyimpanan sementara". Suku Tao telah berulang kali menuntut pemindahan lokasi sejak tahun 1988, dan investigasi kebenaran resmi pada tahun 2018 kembali membuka proses penetapan lokasi tersebut ke hadapan publik. Artikel ini tidak menyatakan kesimpulan tentang "aman" atau "bahaya" bagi pihak mana pun, melainkan mempertanyakan: jika sebuah tanah air dipilih sebagai tempat penyimpanan tanpa sepengetahuan penduduknya, dapatkah angka-angka pemantauan di kemudian hari menjawab persoalan keadilan secara mandiri?
@@ -96,10 +96,10 @@ Alasan mengapa tong kuning di Lanyu menjadi sebuah objek dalam sejarah Taiwan bu
 
 ## Bacaan Lanjutan
 
-- [Laporan Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu oleh Eksekutif](https://alilin.cip.gov.tw/Book/670)
+- [Laporan Investigasi Kebenaran Penetapan Tempat Penyimpanan Limbah Nuklir Lanyu](https://alilin.cip.gov.tw/Book/670)
 - [Komisi Keamanan Nuklir: Penjelasan Pengawasan Keamanan Tempat Penyimpanan Lanyu](https://www.nusc.gov.tw/%E7%89%A9%E6%96%99%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%BB%A2%E6%A3%84%E7%89%A9%E7%AE%A1%E5%88%B6/%E4%BD%8E%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%A2%E7%89%A9%E7%AE%A1%E5%88%B6%E5%8B%95%E6%85%8B/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4%E5%AE%89%E5%85%A8%E7%AE%A1%E5%88%B6%E8%AA%AA%E6%98%8E--6_5089_5096_5196_5080.html)
 - [Taiwan Insight: Tao People’s Fight for Environmental Justice and Subjectivity on Orchid Island](https://taiwaninsight.org/2021/09/10/tao-peoples-fight-for-environmental-justice-and-subjectivity-on-orchid-island/)
-- [Diskusi mengenai Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Peninjauan kembali Pembangkit Listrik Tenaga Nuklir (PLTN) Ko-rong pada tahun 2026 dan referendum kasus ke-22: "Solusi Limbah Nuklir" adalah salah satu dari tiga syarat untuk memulai kembali PLTN; Lanyu dan kolam bahan bakar PLTN Ko-rong masih menunggu tempat pembuangan.
+- [Diskusi mengenai Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Peninjauan kembali PLTN Nuclear Plant No. 3 pada tahun 2026 dan Referendum Kasus ke-22: Solusi limbah nuklir adalah salah satu syarat untuk memulai kembali operasional Nuclear Plant No. 3; kolam bahan bakar di Lanyu dan Nuclear Plant No. 3 masih menunggu tempat pembuangan akhir
 
 ## Referensi
 

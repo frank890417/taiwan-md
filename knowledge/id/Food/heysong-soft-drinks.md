@@ -1,27 +1,27 @@
 ---
-title: "HeySong Soda dan Sarsaparilla: dari 'Barang Kelas Tiga' yang Dihinakan hingga Legenda Seabad yang Mengalahkan Raja Cola"
-description: "Ini bukan sekadar botol minuman berkarbonat biasa, melainkan sejarah kelangsungan hidup modal etnis Taiwan di tengah penguasaan masa pendudukan Jepang dan gelombang globalisasi, bagaimana ia bertahan berkat 'aset 17 dolar' dan 'Masa Depanku Bukan Mimpi'."
+title: "Soda HeySong dan Sarsaparilla: dari Diejek 'Barang Kelas Tiga' hingga Mengalahkan Raja Cola"
+description: "Ini bukan sekadar botol minuman berkarbonat biasa, melainkan sebuah kisah tentang modal etnis Taiwan yang bertahan di tengah penguasaan kolonial Jepang dan gelombang globalisasi, berkat 'aset NT$17' dan 'Masa Depanku Bukan Mimpi'."
 date: 2026-04-16
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
-    'HeySong Soda',
-    'HeySong Sarsaparilla',
+    'Soda HeySong',
+    'Sarsaparilla HeySong',
     'Merek Taiwan',
-    'Budaya Makan Minum',
+    'Budaya Kuliner',
     'Chang Yu-sheng',
   ]
-readingTime: 12
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '2c18749ee'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-07-25T10:53:16+08:00'
+translatedAt: '2026-11-04T00:56:05.596961+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
