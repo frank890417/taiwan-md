@@ -420,18 +420,24 @@ python3 scripts/tools/article-health.py knowledge/People/魏哲家.md --check=cu
 - `uv run --with pytest --with pyyaml python -m pytest tests -q`：944 passed、9 skipped。
 - `article-health.py --all --profile=ci-deploy`、`--profile=pre-commit`：兩者 0 hard（pre-commit 第一輪基準有 3 篇 prettier-url-stability hard，三篇都修了）。`curation-gap` 只剩 12 條 warn（精選）。
 - `npm test`（markdown／heading-id／frontmatter 15,030 檔）通過。`astro check` 只有既有的 `fork-graph.json` 缺檔 1 個 error，與本次無關。`check-template-language`、`check-ui-language` 沒有新增問題。
-- 沒有跑完整 `astro build`，**站上實際渲染（說明條兩種文案、譯文頁繼承、卡片 pill、分類封面）沒有用瀏覽器親眼看過**，上線前要看。
+- 第二輪當時沒有跑完整 build。第三輪跑了一次並從 dist 的 HTML 核對說明條、卡片 pill 與封面署名的文字（§10.7），但**還沒用瀏覽器看過版面**，上線前要看。
 
 ### 10.6 還沒做的（第二輪之後）
 
 1. **B 級 2 篇轉正**（#6）：等哲宇。
 2. **重開 `twmd-rewrite-daily`**（#8）：等哲宇。D 級 umbrella 已在 INBOX 排好。
-3. **分類封面的署名還沒顯示在畫面上**：CC BY／BY-SA 要求標示作者與授權，`coverCredit` 目前只在原始碼裡。原本的熱連結也沒有署名，但收進庫後這件事更明確是我們的義務。建議在文章頂部背景角落或 /about 加一段圖片出處（對外文字，等哲宇）。
+3. ~~分類封面的署名還沒顯示在畫面上~~：已在 `5caf00c80` 補上（§10.7）。
 4. **舊 342 篇 🌱 沒有 `curationReason`**：一律顯示「待查證」，是比較保守的那句。可以用 census 的 `suggested_reason` 回填（估計多數是 thin），要不要做等哲宇。
 5. **譯文 11 語的文案**待母語者校（§10.3）。
 6. **pipeline 文件沒更新**：MAINTAINER §1b 的指令沒帶 `--reason`、REWRITE 沒寫封面必填、DATA-REFRESH 沒寫 census。工具與設定已經是新行為，文件是舊寫法。
 7. **`contributor-pr-heal.py --from-pr` 自動補標**（§5.1）沒做。目前靠 pre-commit 的 A2 HARD 擋。
 8. **C1 跳過的 6 篇、C2 133 篇、C3 749 篇**的封面：C2 可以照 cover-promote 的路子先 ingest 再升格，C3 要找圖。
 9. **快照重複**：`2026-11-04.json`（套用前，本報告引用）與 `latest.json`（套用後）各 1.6 MB。之後每週只覆寫 `latest.json`。
+
+### 10.7 第三輪：併入整合分支、分類封面署名
+
+- `3b7782fae`：`git merge evolve/2026-11-04`（網站健檢、SEO、頁面模板、奇拿富 NEW）。衝突一處在〈廖添丁〉frontmatter，照「兩邊都保留」：description 取整合分支的 SEO 改寫版、`evolveHistory` 保留，本線的 `curation: incubating`／`curationReason: unverified` 與正規化過的欄位保留，重複的 `featured` 只留一個。
+- `5caf00c80`：分類預設封面的 CC 署名。這張圖實際出現的位置是**文章頁頂部**（`ArticleHero` 的背景，文章沒有自己的封面時才用它）。分類 hub 頁與首頁分類格只用分類色，沒有顯示這張圖，所以署名放在圖出現的地方：hero 右下角一行小字，格式跟文章封面圖說同一套：`{article.imageCredit}：作者 · 授權 · {article.imageSource}`。標籤走既有 i18n key（十三語都有），作者與授權名稱不翻譯，資料從 `categoryConfig.ts` 的 `coverCredit`／`coverLicense`／`coverSource` 讀。位置用 `end-3`（邏輯方向），ar 會自動貼左。
+- 驗證：完整 `npm run build` 一次，dist 裡沒有封面圖的文章頁都印出署名（例：/people/蕭上農/ 印「圖片：Sean Reynolds / Wikimedia Commons · CC BY 2.0 · 原始來源」，/en/people/a-han/ 印「Image credit：Sean Reynolds / Wikimedia Commons · CC BY 2.0 · Original source」，共 11,715 頁），有自己封面圖的文章頁沒有這一行。pytest 955 passed、9 skipped（併入整合分支後多 11 個）。`article-health --all` 兩個 profile 都 0 hard（1,159 檔，含新篇奇拿富），`curation-gap` 仍只剩 12 條精選。`astro check` 0 errors。順手在 dist 看了說明條：〈魏哲家〉顯示待擴寫、〈婦女運動〉與舊標的〈戰鬥陀螺〉顯示待查證，en／ar 譯文頁顯示該語言，全站 HTML 已沒有「進化中 · 社群貢獻」。build 產生的 34 個追蹤中的衍生檔（public/api、knowledge/\_translations.json 等）已還原，沒有進 commit。
 
 🧬
