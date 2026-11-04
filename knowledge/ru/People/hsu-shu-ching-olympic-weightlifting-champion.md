@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-07-26T05:17:41+08:00'
+translatedAt: '2026-11-04T21:10:59.165917+00:00'
 ---
 
 # Хсу Шуцзин: Люнбэй 1991, первая тайваньская двукратная олимпийская чемпионка в тяжелой атлетике до 53 кг
