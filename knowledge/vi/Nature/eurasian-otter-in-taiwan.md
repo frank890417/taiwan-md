@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-11-04T20:13:35.933902+00:00'
 ---
 
 # Đài Loan: Lịch sử sinh tồn trên đảo của otter châu Âu ở Kiên Giang và sự tàn phai lặng lẽ ở bán đảo

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/黑面琵鷺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-11-04T20:16:27.108280+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Sen cái đen mặt từng là loài gần như tuyệt chủng với dưới 300 con trên thế giới, sau 30 năm cố gắng liên quốc gia hiện đã vượt quá 7.000 con, trong đó hơn 60% chọn đương đại tại Đài Loan. Đây là một mô hình bảo vệ thành công, nhưng khi số lượng tăng lên, một bọy "khách du" nhạy nhẽn lại bị buộc rời khỏi khu vực bảo vệ chính, lồng vào kẽ giữa giày điện mặt trời, chó hoang và vi khuẩn gây ngộ độc chết người để tìm kiếm môi trường an toàn tiếp theo.
