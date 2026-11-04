@@ -1,15 +1,15 @@
 ---
-title: 'Die 19 Kühe von Qingtengang: Vom Yuanxing-Rind zum Tainan Beef Soup – Ein Durchbruch der Fleischrinderhaltung auf einer Insel'
-description: 'Taiwan hat nur eine Selbstversorgungsquote für Rindfleisch von 4,6 %, doch im Jahr 2024 wurde die erste privat zertifizierte lokale Rasse geboren. Die Geschichte des Yuanxing-Rindes ist ein industrieller Durchbruch, erzählt durch einen 94-jährigen Mann, 19 wilde schwarze Kühe und eine Schüssel morgendlicher Brühe.'
+title: 'Die 19 Rinder von Qingtiangang: Von Yuanxing-Rindern zu Tainan Beef Soup – Der Durchbruch der Fleischrindindustrie auf einer Insel'
+description: 'Taiwans Selbstversorgungsrate bei Rindfleisch liegt bei nur 4,6 %, doch 2024 wurde die erste privat zertifizierte Rinderrasse des Landes geboren. Die Geschichte der Yuanxing-Rinder ist ein industrieller Durchbruch, geschrieben von einem 94-jährigen Mann, 19 Wildrindern und einer Schale Beef Soup in der Morgendämmerung.'
 date: 2026-03-25
 category: 'History'
 tags:
   [
-    'Yuanxing-Rind',
+    'Yuanxing-Rinder',
     'Tainan Beef Soup',
-    'frische Rinderbrühe',
+    'Wenti-Rind (frisches Rind)',
     'Viehzucht',
-    'taiwanische Landwirtschaft',
+    'Landwirtschaft Taiwan',
     'Lee Teng-hui',
     'Fleischrindindustrie',
   ]
@@ -19,165 +19,167 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
-translatedAt: '2026-09-10T18:19:25+08:00'
+translatedAt: '2026-11-05T05:16:22+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Über 95 % des taiwanesischen Rindflechtes gibt es durch Importe; das Land ist klein und dicht besiedelt, verfügt über keine großen Weideflächen und die Regierung hat keine klare Politik für Fleischrinder. Doch im Jahr 2024 wurde in Taiwan die erste lokal gezüchtete Rasse privat entwickelt und offiziell zertifiziert – das Yuanxing-Rind. Sein Ursprung liegt in einer Herde von Brahmanen, die 1933 aus Japan nach Taiwan gebracht wurden, sein Ziel ist die Tainan Beef Soup, die innerhalb von 6 bis 8 Stunden nach dem Schlachten serviert werden muss. Dies ist keine Geschichte eines industriellen Aufschwungs, sondern eine Geschichte, wie man in strukturellen Nachteilen einen Riss findet.
-
----
-
-## Die schwarzen Kühe, die 1933 im Hafen von Keelung ankamen
-
-Im Jahr 1933 versorgte das Gouvernement Taiwan eine Herde Brahmanen aus der Präfektur Hyogo in Japan per Seeschifffahrt und brachte sie zum Hafen von Keelung, wo sie weiter zur dritten Farm im Bezirk Wanli, Stadt Neu-Taipei, transportiert wurden. Der Zweck war klar: Sie sollten für die Landwirtschaft und als Zugtiere der japanischen Siedler aufhalten.
-
-Brahmanen sind die ursprüngliche Vorläuferrasse des schwarzen Rindes aus Japan und gehören zu den direkten Linien, die später das globale Rindflechtemarkt durch „Kobe Beef“ in Aufruhr versetzten. In Japan wurden Brahmanen streng registriert; diejenigen, die Japan verlassen, konnten kaum noch ihre Reinrassigkeit bewahren.
-
-Nach dem Ende des Zweiten Weltkriegs zog die japanische Regierung ab. Ein Viehzüchter der Nachnamen Huang übernahm diese Kühe und brachte 14 davon vom Nationalregierung an die Bergweide von Qingtengang in Yangmingshan – dort war es bereits eine Weidefläche seit der japanischen Kolonialzeit, mit über tausend Hektar Grasland; zu Blütezeiten beherbergte sie über 1.700 Kühe und diente als Pflegeort für Zugtiere der Bauern im Taipei-Becken in ihrer Freizeit.
-
-Im weiteren Verlauf des Jahrhunderts lebten diese schwarzen Kühe unter menschlicher Obhut auf Qingtengang, doch aufgrund ihrer einzigartigen Rasse und einer gewissen reproduktiven Isolation von anderen Wasser- und gelben Viehbeständen am Berg blieben sie isoliert. Als die Lee Teng-hui Stiftung sie erwarb, wurden insgesamt 19 Individuen mit reinen Merkmalen festgestellt. Die genaue Dokumentation der Bestandsveränderung ist derzeit nicht in öffentlichen Unterlagen zu finden, aber genetische Tests von 2018 bestätigten ein „Genetisches Reinigungs“-Phänomen durch die langjährige geschlossene Zucht.
-
-> **📝 Notiz des Kurators**
-> Die Existenz dieser 19 Kühe ist ein Widerspruch: Ein reines Blutlinien, das Japan mit großem Einsatz bewahrt hat, wurde stattdessen auf einem Berg in Taiwan erhalten, dank der geografischen Isolation. Während die Brahmanen in Japan durch kommerzielle Kreuzungsveredelung ständig verbessert wurden, „degenerierten“ diese taiwanesische Linie aufgrund ihrer Abgeschiedenheit zu einer reinen Rasse.
-
-> **💡 Wussten Sie?**
-> Auf dem Berg Yangmingshan lebten Wasserbullen und Wagyu; beide gehören jedoch zu unterschiedlichen Gattungen: Wasserbüffel (_Bubalus bubalis_, 2n=50) und Hausrind (_Bos taurus_, 2n=60) haben unterschiedliche Chromosomenzahlen und können unter natürlichen Bedingungen nicht kreuzen, es gibt kein Genkontaminationsproblem. Ob andere Rinder oder gelbes Vieh der gleichen Gattung eingemischt wurden – die genetische Untersuchung von 2018 hat geantwortet: Das Yuanxing-Rind zeigt ein „Genetisches Reinigungs“-Phänomen, bei dem die Inzucht zu einem stetig ansteigenden Homozygotie geführt hat. Dies ist das Gegenteil des Eindringens fremder Gene in einer langfristig geschlossenen Population.
+> **30-Sekunden-Überblick:** Über 95 % des taiwanesischen Rindfleischmarktes basieren auf Importen. Das Land ist dicht besiedelt, verfügt über keine großen Graslandschaften und es fehlt an einer klaren Fleischrindpolitik der Regierung. Doch im Jahr 2024 entstand in Taiwan die erste privat gezüchtete und offiziell zertifizierte einheimische Rinderrasse: das Yuanxing-Rind (源興牛). Sein Ursprung liegt in einer Gruppe von Matsusaka-Rindern, die 1933 per Schiff aus Japan nach Taiwan kamen; sein Ziel ist eine Schale Tainan Beef Soup, die innerhalb von 6 bis 8 Stunden nach der Schlachtung serviert werden muss. Dies ist keine Geschichte über das Wachstum einer Industrie, sondern darüber, wie man in einem strukturell benachteiligten Umfeld eine Nische findet.
 
 ---
 
-## Die letzte Tat eines 94-jährigen Mannes
+## 1933: Schwarze Rinder erreichen den Hafen von Keelung
 
-Im August 2016 traf der ehemalige Präsident Lee Teng-hui (Chiang Ching-kuo), der 94 Jahre alt war, nach dem Verzehr von Ishigaki Beef auf Shikoku in Japan die Entscheidung: Taiwan sollte sein eigenes erstklassiges Wagyu haben.
+Im Jahr 1933 arrangierte das Generalgouvernement von Taiwan eine Gruppe von Matsusaka-Rindern aus der japanischen Präfektur Hyōgo, die per Seeschiff im Hafen von Keelung ankamen und anschließend zur dritten Weide in den heutigen Bezirk Wanli der Stadt New Taipei City transportiert wurden. Der Zweck war eindeutig: Sie sollten als Arbeitstiere für japanische Siedler in Taiwan dienen.
 
-Er beauftragte Wang Yan-jun, den Sekretär der Lee Teng-hui Stiftung, diese legendären schwarzen Kühe von Qingtengang zu suchen. Wang fand Hinweise in historischen Dokumenten, fuhr selbst auf den Berg und verhandelte mit dem Besitzer über den Kauf. Im Oktober desselben Jahres wurden die 19 Kühe zur offiziellen Zucht auf der Zhaofeng Farm in Fenglin, Tainan County, transferiert.
+Matsusaka-Rinder sind die ursprünglichen Vorfahren des japanischen Kuroge Wagyu und die direkte Blutlinie des „Kobe-Rindes“, das den weltweiten Rindfleischmarkt erobert hat. In Japan unterliegen Matsusaka-Rinder einem strengen Zuchtregister; es ist fast unmöglich, dass Tiere, die Japan verlassen, ihre Reinheit bewahren.
 
-Im Jahr 2017 bestätigte der japanische Wagyu-Spezialist Nakamura Satoshi durch SNP-Chip-Genanalyse: Die genetische Distanz dieser Kühe zu japanischen Wagyu ist sehr gering, während sie signifikante Unterschiede zu westlichen Rassen aufweisen. Entscheidender war jedoch die 90-jährige geschlossene Zucht, die eine „genetisch unabhängige Population“ geschaffen hatte – nicht ein taiwanesischer Zweig der Brahmanen, sondern eine neue, eigenständige Linie.
+Nach dem Ende des Zweiten Weltkriegs zogen sich die japanischen Behörden aus Taiwan zurück. Die Rinder wurden von einem Viehzüchter namens Huang übernommen, der 14 Tiere von der Nationalregierung erwarb und sie auf den Qingtiangang (擎天崗) im Yangmingshan-Gebirge treiben ließ. Dieser Ort war bereits während der japanischen Kolonialzeit als Daoling-Pass-Weide bekannt und bot über tausend Hektar Weideland. In seiner Blütezeit wurden dort mehr als 1.700 Rinder gehalten; es diente den Bauern im Taipeh-Becken in der Nebensaison als Aufzuchtstation für Arbeitstiere.
 
-Lee nannte sie nach seinem Heimatort in Sanzhi, dem „Yuanxing Residence“, und bezeichnete sie als „Yuanxing-Rind“. Im selben Jahr gründete er mit seinen Partnern die Yuanxing Bio-Tech Company und leitete offiziell das Zuchtprojekt.
+In den folgenden fünf Jahrzehnten lebten diese schwarzen Rinder unter menschlicher Obhut auf dem Qingtiangang. Aufgrund ihrer einzigartigen Rasse und der reproduktiven Isolation von anderen Wasserbüffel- und Gelbrind-Populationen auf dem Berg blieb ihr Erbgut erhalten. Als die Lee Teng-hui Foundation (李登輝基金會) die Tiere erwarb, wurden 19 Individuen mit eindeutigen Merkmalen einer reinen Linie bestätigt. Genaue schriftliche Aufzeichnungen über die Schwankungen der Tierzahl liegen in öffentlichen Dokumenten nicht vor, doch eine Gentestung im Jahr 2018 bestätigte, dass diese Gruppe durch die langfristige isolierte Zucht ein Phänomen der „genetischen Purifizierung“ entwickelt hat.
 
-| Zeitlinie     | Ereignis                                                                                                                              |
-| :------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
-| **1933**      | Brahmanen erreichen Keelung Hafen, transportiert zur dritten Farm in Wanli                                                            |
-| **1945**      | Japan zieht ab; Viehzüchter Huang kauft 14 Kühe und bringt sie nach Qingtengang                                                       |
-| **2016**      | Lee Teng-hui Stiftung erwirbt 19 überlebende Kühe und transferiert sie zur Zucht auf die Zhaofeng Farm in Hualien                     |
-| **2017**      | Japanische Experten bestätigen unabhängige Linie; Yuanxing Bio-Tech Company gegründet, „Yuanxing-Rind“ offiziell benannt              |
-| **2020**      | Yuanxing Bio-Tech beantragt die Neuzertifizierung bei der Landwirtschaftsbehörde                                                      |
-| **17.6.2024** | Die Landwirtschaftsbehörde genehmigt; das Yuanxing-Rind wird zur ersten privat gezüchteten und offiziell zertifizierten Rasse Taiwans |
-| **4.11.2024** | Offizielle Namensprüfung abgeschlossen                                                                                                |
+> **📝 Kuratorische Notiz**
+> Die Existenz dieser 19 Rinder ist ein Paradoxon: Die reine Blutlinie, die Japan mit großem Aufwand zu bewahren versuchte, blieb durch die geografische Isolation auf einem Berg in Taiwan unerwartet rein. Während japanische Matsusaka-Rinder aufgrund des kommerziellen Drucks ständig gekreuzt und verbessert wurden, „degenerierten“ diese Tiere in Taiwan aufgrund der Abgeschiedenheit zu einer reinen Rasse.
+
+> **💡 Wussten Sie schon?**
+> Auf dem Yangmingshan leben sowohl Wasserbüffel als auch Wagyu-Rinder, aber sie gehören unterschiedlichen Gattungen an: Wasserbüffel (_Bubalus bubalis_, 2n=50) und Hausrinder (_Bos taurus_, 2n=60) haben eine unterschiedliche Chromosomenzahl und können unter natürlichen Bedingungen nicht kreuzt werden, weshalb keine Genkontamination möglich ist. Ob andere Hausrinder oder Gelbrinder derselben Gattung eingemischt wurden, beantwortete der Gentest von 2018: Das Yuanxing-Rind zeigt ein Phänomen der „genetischen Purifizierung“, bei dem die Homozygotie durch Inzucht stetig ansteigt – ein direkter Beweis für eine langfristig isolierte Population ohne fremde Gen-Einschleusung.
+
+---
+
+## Die letzte Amtshandlung eines 94-Jährigen
+
+Im August 2016 traf der damals 94-jährige ehemalige Präsident Lee Teng-hui (李登hui), nachdem er auf der japanischen Insel Ishigaki das lokale Ishigaki-Rind probiert hatte, eine Entscheidung: Taiwan sollte sein eigenes erstklassiges Wagyu haben.
+
+Er beauftragte Wang Yan-jun, den Sekretär der Lee Teng-hui Foundation, die legendären schwarzen Rinder vom Qingtiangang zu finden. Wang fand Hinweise in historischen Dokumenten, stieg persönlich auf den Berg, fand die Besitzer und einigte sich auf einen Kauf. Im Oktober desselben Jahres wurden diese 19 Rinder zur formellen Zucht auf die Zhaofeng-Farm in der Stadt Fenglin, Landkreis Hualien, verlegt.
+
+Im Jahr 2017 bestätigte der japanische Wagyu-Experte Nakamura Sadoshi durch eine SNP-Chip-Genanalyse: Die genetische Distanz dieser Rinder zu japanischem Wagyu ist extrem gering, während sie sich signifikant von westlichen Rinderrassen unterscheidet. Entscheidender ist, dass die 90-jährige isolierte Zucht dazu geführt hat, dass sie eine „genetisch unabhängige Population“ gebildet haben – nicht bloß ein taiwanesischer Zweig der japanischen Matsusaka-Rinder, sondern eine neue, eigenständige Linie.
+
+Lee benannte sie nach seinem alten Wohnsitz „Yuanxing-Ju“ (源興居) als „Yuanxing-Rinder“ (源興牛). Im selben Jahr gründete er mit Partnern die Yuanxing-Ju Biotech Company, um das Zuchtprogramm offiziell zu leiten.
+
+| Zeitstrahl    | Beschreibung                                                                                                                                                 |
+| :------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1933**      | Matsusaka-Rinder erreichen den Hafen von Keelung und werden zur dritten Weide in Wanli gebracht.                                                             |
+| **1945**      | Japan zieht sich aus Taiwan zurück; der Züchter Huang kauft 14 Tiere und verlegt sie auf den Qingtiangang.                                                   |
+| **2016**      | Lee Teng-hui Foundation erwirbt 19 überlebende Rinder und verlegt sie zur Zhaofeng-Farm in Hualien.                                                          |
+| **2017**      | Japanische Experten bestätigen die unabhängige Linie; Gründung der Yuanxing-Ju Biotech Company; offizielle Benennung als „Yuanxing-Rinder“.                  |
+| **2020**      | Yuanxing-Ju Biotech beantragt beim Landwirtschaftsministerium die Registrierung der neuen Rasse.                                                             |
+| **2024/6/17** | Das Landwirtschaftsministerium gibt die Genehmigung bekannt; das Yuanxing-Rind wird zur ersten in Taiwan privat gezüchteten und offiziell anerkannten Rasse. |
+| **2024/11/4** | Formeller Abschluss der Namensprüfung.                                                                                                                       |
 
 ---
 
 ## Was ist eine „unabhängige Linie“ und warum ist sie wichtig?
 
-In der Viehzucht ist die Rassenregistrierung mehr als nur ein Zertifikat. Sie bedeutet: Die Zuchtanlage kann legal kommerziell züchten, die Nachkommen haben einen Stammbaumnachweis und können in das Preissystem eintreten.
+In der Viehzucht ist die Registrierung einer Rasse mehr als nur ein Zertifikat. Es bedeutet: Zuchtbetriebe dürfen legal kommerziell züchten, die Nachkommen erhalten einen Stammbaumnachweis und können in das Preissystem des Marktes aufgenommen werden.
 
-Im selben Jahr, in dem die Landwirtschaftsbehörde die Benennung genehmigte, wurde der Whole Genome Sequencing-Datensatz des Yuanxing-Rindes K26101 unter dem Speziesnamen „Taiwan Wagyu“ im NCBI (National Center for Biotechnology Information) der USA registriert, mit der Registrierungsnummer JBUZMI000000000.1, erstellt mittels Whole Genome Shotgun Sequencing. Dies bedeutet, dass das Yuanxing-Rind nicht nur in den taiwanesischen landwirtschaftlichen Vorschriften anerkannt ist, sondern auch als eigenständige Spezies in der internationalen Bioinformatikdatenbank gelistet ist – jeder Forscher kann seine Genomsequenz von NCBI abrufen und mit anderen Rassen weltweit vergleichen.
+Im selben Jahr, in dem das Landwirtschaftsministerium die Namensgebung abschloss, wurden die Daten der Ganzgenomsequenzierung eines Yuanxing-Rindes (K26101) unter dem Artnamen „Taiwan Wagyu“ beim US-amerikanischen NCBI (National Center for Biotechnology Information) registriert (Registrierungsnummer JBUZMI000000000.1), durchgeführt mittels Whole Genome Shotgun Sequencing. Dies bedeutet, dass das Yuanxing-Rind nicht nur in den taiwanesischen Agrargesetzen anerkannt ist, sondern auch als eigenständige Spezies in die internationale Bioinformatik-Datenbank aufgenommen wurde – Forscher weltweit können seine Genomsequenz abrufen und mit anderen Rassen vergleichen.
 
-> **💡 Wussten Sie?**
-> Die Datenbank für Wagyu-Rassen des NCBI enthält vollständige Daten zu japanischen Wagyu; Taiwan hatte zuvor keine genetische Datendatei einer unabhängigen Rasse. Das Auftreten der Registrierungsnummer „Taiwan Wagyu“ ist das erste Mal, dass Taiwan in dieser Datenbank einen eigenen Platz einnimmt.
+> **💡 Wussten Sie schon?**
+> In der NCBI-Datenbank für Ganzgenomdaten von Rindern ist japanisches Wagyu vollständig erfasst, aber Taiwan besaß zuvor nie Genomdaten einer unabhängigen Rasse. Mit der Registrierung von „Taiwan Wagyu“ nimmt Taiwan zum ersten Mal einen exklusiven Platz in dieser Datenbank ein.
 
-Die genetischen Eigenschaften des Yuanxing-Rindes verleihen ihm einige besondere Voraussetzungen:
+Die genetischen Eigenschaften des Yuanxing-Rindes verleihen ihm besondere Vorteile:
 
-Das lange Leben in dem tropischen und feuchten Klima Taiwans macht es hitzetoleranter als die meisten japanischen Wagyu-Rassen und besser an das taiwanesische Klima angepasst. Der Geschäftsführer von Yuanxing Bio-Tech, Zhong Di Ming, merkte an, dass das Yuanxing-Rind eine genetische Grundlage eines Nutztierrindes hat, der einen höheren Blutzuckerspiegel aufweist und Fleisch mit süßlichem Geschmack produziert, was eine Differenzierung gegenüber importierten Rindern aus den USA oder Australien ermöglicht.
+Durch das jahrelange Wachstum im warmen und feuchten Klima der niedrigen Breitengrade Taiwans ist es hitzebeständiger und besser an das lokale Klima angepasst als die meisten japanischen Wagyu-Rassen. Zhong Diming, Generaldirektor von Yuanxing-Ju Biotech, weist darauf hin, dass das Yuanxing-Rind die Gene von Arbeitstieren besitzt; der Blutzuckerspiegel ist tendenziell höher und das Fleisch hat einen leicht süßlichen Geschmack, was eine geschmackliche Differenzierung zu Importfleisch aus den USA oder Australien bietet.
 
-Bis 2024 gab es etwa 40 bis 50 reine Yuanxing-Rinder; die insgesamt gezüchteten Nachkommen beliefen sich auf einige hundert Tiere. Dies ist noch weit von der kommerziellen Größe entfernt, und das Unternehmen gibt zu, dass man mindestens 2 Millionen Tiere halten müsste, um den Markt zu bedienen – was Taiwan nicht ernähren kann.
+Bis 2024 gibt es etwa 40 bis 50 reine Yuanxing-Rinder; inklusive der Nachkommen liegt die Gesamtzahl im Bereich von einigen Hundert Tieren. Dies ist noch weit von kommerziellem Maßstab entfernt. Das Unternehmen räumt ein, dass man mindestens 2 Millionen Tiere halten müsste, um die Marktnachfrage zu decken – eine Kapazität, die das Land Taiwan niemals bieten könnte.
 
-Daher prüft Yuanxing Bio-Tech auch einen anderen Weg: die Auslagerung von Spermien an Viehbetriebe in Vietnam oder Japan zur Aufzucht und anschließenden Rückkauf des produzierten Fleisches nach Taiwan. Die Export von Samen und der Import gefrorener Rinder erfordern jedoch noch die Überwindung von Quarantänebestimmungen.
+Daher prüft Yuanxing-Ju Biotech auch einen anderen Weg: den Export von Sperma an Viehzuchtbetriebe in Vietnam oder Japan zur Aufzucht, wobei das produzierte Fleisch später nach Taiwan zurückgekauft wird. Allerdings müssen hierbei noch Quarantänebestimmungen für den Spermaexport und den Rückimport von gefrorenem Fleisch überwunden werden.
 
-> **⚠️ Kontroverse Sichtweise**
-> Einige Agrarforscher weisen darauf hin, dass die aktuelle Population des Yuanxing-Rindes zu klein ist, um kurzfristig kommerziell erfolgreich zu sein, und der Zuchtweg noch nicht vollständig festgelegt ist. Es besteht noch eine große Distanz zwischen „Rassenregistrierung“ und „ein wettbewerbsfähiges kommerzielles Produkt“. Das Yuanxing-Rind ist eine wertvolle genetische Ressource, aber die Herausforderung als industrielle Lösung hat gerade erst begonnen.
-
----
-
-## Der Markt mit 94 % Importen und der 6 %ige Durchbruchsraum
-
-Um die Bedeutung des Yuanxing-Rindes zu verstehen, muss man zuerst die strukturelle Krise der taiwanesischen Fleischrindindustrie begreifen.
-
-Laut Statistik der Landwirtschaftsbehörde belief sich der Rinderimport in Taiwan im Jahr 2023 auf 172.000 Tonnen, wobei die Importe nacheinander aus den USA (35 %), Australien (22,85 %), Paraguay (22,81 %) und Neuseeland (12,46 %) stammten. Im selben Jahr erreichte die heimische Rinderproduktion einen neuen Höchststand von 8.311 Tonnen, was einer Selbstversorgungsquote von etwa 4,6 % entsprach.
-
-| Heimische Produktion 4,6 % → 8.311 Tonnen         | Importe 95,4 % → 172.000 Tonnen                                |
-| :------------------------------------------------ | :------------------------------------------------------------- |
-| Jährliche heimische Rindeproduktion (Rekord 2023) | Jährlicher Rinderimport (Statistik der Landwirtschaftsbehörde) |
-
-Hinter dieser Zahl steckt eine tiefere Struktur: Die meisten „heimischen Rinder“ Taiwans sind nicht professionelle Fleischrinder, sondern Schlachtvieh mit abnehmender Milchleistung oder Milchbullen, die von Milchviehanlagen verkauft wurden. Mit anderen Worten ist die taiwanesische Fleischrindindustrie im Wesentlichen ein Nebenprodukt der Milchviehindustrie.
-
-Li Yiqian, Direktor des Viehzuchtamtes der Landwirtschaftsbehörde, sagte, dass der Schlachthandel mit Milchvieh eine wichtige Quelle für heimisches Rindfleisch sei. Im Jahr 2023 wurden schätzungsweise 40.000 Tiere im ganzen Land geschlachtet und etwa 8.300 Tonnen heimisches Rindfleisch produziert. Die Anzahl der Ställe belief sich auf 1.395, mit fast 150.000 gehaltenen Tieren – diese Zahl umfasst Milchkühe, Fettzieger (Milchbullen) sowie Wasser- und gemischte Rinder.
-
-> **📝 Notiz des Kurators**
-> Taiwan hat keine großen Weideflächen, keine Großfarmen, und der Begriff „Fleischrindpolitik“ ist fremd. Doch in dieser Lücke wurde eine Tainan Beef Soup geboren, für die auch Michelin-Bewertende Schlange stehen. Dieses Ereignis verdient genaue Betrachtung.
+> **⚠️ Kontroverser Standpunkt**
+> Einige Agrarforscher weisen darauf hin, dass die Population der Yuanxing-Rinder derzeit noch zu klein ist, um kurzfristig eine kommerzielle Skalierung zu erreichen, und dass die Zuchtrichtung noch nicht vollständig festgelegt ist. Zwischen der „Registrierung einer Rasse“ und dem „Werden einer wettbewerbsfähigen kommerziellen Rasse“ liegt noch ein weiter Weg. Das Yuanxing-Rind ist eine wertvolle genetische Ressource, aber als industrielle Lösung stehen die Herausforderungen erst am Anfang.
 
 ---
 
-## Der Schnitt am frühen Morgen
+## Ein Markt mit 94 % Importen und 6 % Durchbruchspotenzial
 
-Der Ursprung der Tainan Beef Soup ist fast ein vollständig lokales Zufallsprodukt.
+Um die Bedeutung des Yuanxing-Rindes zu verstehen, muss man die strukturellen Probleme der taiwanesischen Fleischrindindustrie kennen.
 
-Shanxia in Tainan ist einer der drei großen Viehhandelszentren Taiwans, dessen Handelsgeschichte bis zur Qing-Dynastie zurückreicht und um 1870 dokumentiert ist. Nach dem Pockenepidemie im Jahr 1999 wurde zwar der Tierhandel eingestellt, aber die Größe des Schlachthofes in Shanxia blieb erhalten und ist einer der Orte mit dem höchsten Rinderverbrauch Taiwans.
+Laut Statistiken des Landwirtschaftsministeriums betrug das Importvolumen von Rindfleisch in Taiwan im Jahr 2023 insgesamt 172.000 Tonnen. Die wichtigsten Quellen waren die USA (35 %), Australien (22,85 %), Paraguay (22,81 %) und Neuseeland (12,46 %). Im selben Jahr erreichte die Produktion von einheimischem Rindfleisch mit 8.311 Tonnen einen historischen Höchststand, was einer Selbstversorgungsrate von etwa 4,6 % entspricht.
 
-Jeden Montagabend bis zum frühen Morgen beginnt die Arbeit im Schlachthof. Die Fleischhändler liefern das zerteilte frische Rindfleisch schnell an die verschiedenen Tainan Beef Soup-Lokale. „Frisch“ ist präzise definiert: Rindfleisch, das innerhalb von 6 bis 8 Stunden nach dem Schlachten und ohne Kühlung zubereitet wird.
+| Einheimisch 4,6 % → 8.311 Tonnen                                 | Import 95,4 % → 172.000 Tonnen                                                  |
+| :--------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| Jährliche Produktion von einheimischem Rindfleisch (Rekord 2023) | Jährliches Importvolumen von Rindfleisch (Statistik Landwirtschaftsministerium) |
 
-Dieser Zeitrahmen ist eine Barriere, die importiertes Fleisch niemals replizieren kann.
+Hinter dieser Zahl steckt eine tiefere Struktur: Das heutige „einheimische Rindfleisch“ in Taiwan stammt größtenteils nicht von spezialisierten Fleischrindern, sondern von Milchkühen, deren Milchleistung nachgelassen hat, oder von männlichen Kälbern aus Milchviehbetrieben. Mit anderen Worten: Die taiwanesische Fleischrindindustrie ist im Wesentlichen ein Nebenprodukt der Milchwirtschaft.
 
-Rindfleisch aus den USA, Australien oder Paraguay benötigt durch Langstreckentransport und Zollabfertigung selbst als gekühltes Produkt Tage bis Wochen. Während des Gefrierprozesses bilden sich Eiskristalle im Gewebe und zerstören die Faserstruktur; es gibt eine unüberbrückbare Kluft zwischen dem Geschmack von gefrorenem Fleisch und frischem Fleisch.
+Li Yiqian, Leiter der Abteilung für Viehzucht im Landwirtschaftsministerium, erklärt, dass die Schlachtung von Milchkühen und männlichen Milchrindern eine wichtige Quelle für das heimische Rindfleischangebot darstellt. Im Jahr 2023 konnten in Taiwan etwa 40.000 Tiere geschlachtet werden, was ca. 8.300 Tonnen einheimisches Rindfleisch ergab. Es gibt 1.395 Betriebe mit fast 150.000 Tieren – diese Zahl umfasst Milchkühe, Mastrinder aus Milchbetrieben sowie Wasserbüffel und Gelbrind-Mischlinge.
 
-Ein 700-Kilogramm-Tier liefert nach der Schlachtung nur etwa 15 % des Körpers für das Blanchieren, also etwa 105 Kilogramm; davon sind die besten Brust- und Schulteinteile nur 2,5 Kilogramm. Bei der täglichen Schlachtung von 40 Tieren in Shanxia gibt es täglich nur etwa 100 Kilogramm erstklassiges frisches Rindfleisch für ganz Tainan.
-
-Diese 100 Kilogramm müssen an die Hunderte von Beef Soup-Betreibern in Tainan verteilt werden. Die morgendliche Schlange ist keine Marketing-Gimmick, sondern eine physikalische Realität.
-
-> **✦** „Die Warteschlange bei der Tainan Beef Soup ist ein Wettkampf um den Zeitunterschied zur Frische.“
-
-Die meisten Beef Soup-Lokale in Tainan haben Montags frei – weil am Montag kein Vieh geschlachtet wird. Die Ruhezeiten dieser Stadt folgen dem Rhythmus des Viehs.
-
-In jüngster Zeit wurde die Tainan Beef Soup wiederholt auf der Michelin Bib Gourmand Liste erwähnt, was die Nachfrage nach heimischem frischem Rindfleisch in ganz Taiwan ankurbelte. Im Jahr 2023 betrug die durchschnittliche jährliche Rinderversorgung pro Person 7,57 Kilogramm, ein Anstieg von 46,4 % in zehn Jahren. Zhang Zhiming, Vorsitzender des Verbandes für die Entwicklung der Fleischrindindustrie Taiwans, sagte: „Es ist schlichtweg nicht genug, um es zu halten!“
+> **📝 Kuratorische Notiz**
+> Taiwan hat keine weiten Graslandschaften, keine großflächigen Weidebetriebe; selbst der Begriff „Fleischrindpolitik“ ist weitgehend unbekannt. Dennoch hat aus dieser Nische eine Beef Soup hervorgegangen, für die Michelin-Kritiker weltweit Schlange stehen. Dieser Umstand allein verdient eine genauere Betrachtung.
 
 ---
 
-## Die Krise ist nicht verschwunden, sie hat nur einen Riss gefunden
+## Das Messer in der Morgendämmerung von Shanhua
 
-Die Geschichte des Yuanxing-Rindes und der Aufstieg der Tainan Beef Soup bedeutet nicht, dass die taiwanesische Fleischrindindustrie das Problem gelöst hat.
+Der Ursprung der Tainan Beef Soup ist fast ein rein lokales Zufallsprodukt.
 
-Die Herausforderungen sind konkret: Um kommerziell erfolgreich zu sein, schätzt Yuanxing Bio-Tech mindestens 100.000 Tiere, um jährlich 30.000 zu schlachten; um den Marktbedarf von 160.000 Tonnen zu decken, werden mindestens 2 Millionen Tiere benötigt. Die Landfläche Taiwans kann diese Größenordnung schlicht nicht tragen.
+Shanhua in Tainan ist einer der drei großen Viehmärkte Taiwans, dessen Handelsgeschichte bis in die Qing-Dynastie zurückreicht (etwa um 1870 dokumentiert). Nach der Maulundpest im Jahr 1999 wurde der Viehhandel zwar unterbrochen, aber die Kapazität des Schlachthofs von Shanhua blieb bestehen und machte den Ort zu einem der führenden Standorte für die Rindfleischschlachtung in Taiwan.
 
-Zudem ist die taiwanesische Viehzuchtpolitik lange Zeit auf Milchvieh ausgerichtet und betrachtet Fleischrinder als Nebenprodukt, was eine vollständige Integration von Zucht, Subventionen und Schlachthandel vermissen lässt. Obwohl das Landwirtschaftsministerium Mittel bereitgestellt hat, um Molkereibetriebe in Fleischrindbetriebe umzuwandeln, hält die Branche dies für zu langsam und nicht ausreichend.
+Jeden Montag spät in der Nacht bis zur Morgendämmerung beginnt die Arbeit im Schlachthof. Fleischhändler liefern das zerteilte „Wenti“-Rindfleisch (frisches Rind) in den frühen Morgenstunden schnell an die Beef-Soup-Restaurants in ganz Tainan aus. Die Definition von „Wenti“ ist sehr präzise: Rindfleisch, das innerhalb von 6 bis 8 Stunden nach der Schlachtung ohne durchgehende Kühlung verarbeitet wird.
 
-Obwohl die Diskussion über Laktose (Rinderhormone) bei einigen Verbrauchern zur Bevorzugung heimischer Rinder geführt hat, haben Importe weiterhin Zölle gesenkt (von 10 auf 5 Yuan pro Kilogramm), sodass der Marktdruck nicht nachgelassen hat.
+Diese Zeitspanne ist eine Barriere, die Importfleisch niemals überwinden kann.
 
-Nach Inkrafttreten des ANZTEC-Abkommens mit Neuseeland wurden Milchimporte ohne Zollabgaben eingeführt, und die Reduzierung der Milchviehbestände führte zu einer Verringerung der Anzahl der jungen Kälber ab 2025, was eine Knappheit an heimischen Fleischquellen hervorruft. Die Branche hat im April 2025 einen Plan zur Einfuhr von tausend Angus-Rindern vorgelegt, um die Lücke zu füllen.
+Rindfleisch aus den USA, Australien oder Paraguay benötigt aufgrund des Seetransports und der Zollabwicklung – selbst bei gekühltem Fleisch – Tage bis Wochen. Während des Gefrierprozesses bilden sich Eiskristalle im Gewebe, die die Faserstruktur zerstören; zwischen dem Geschmack von aufgetautem Fleisch und frischem Fleisch besteht eine unüberbrückbare Lücke.
 
-> **⚠️ Kontroverse Sichtweise**
-> Die Geburt des Yuanxing-Rindes ist ermutigend, aber für die taiwanesische Fleischrindindustrie reicht die Markenstory einer einzigen Rasse nicht aus, um wirklich durchzustarten. Strukturelle Probleme – Land, Politik, Zuchtwesen, Integration der Schlachthandelkette – haben noch keine systematische Lösung gefunden.
+Von einem 700 kg schweren Rind können nur etwa 15 % (ca. 105 kg) für das schnelle Blanchieren verwendet werden. Die hochwertigsten Teile, wie Brust und Schulter, machen lediglich 2,5 kg aus. Bei 40 geschlachteten Rindern pro Tag in Shanhua stehen in ganz Tainan pro Tag nur etwa 100 kg dieses erstklassigen frischen Rindfleisches zur Verfügung.
+
+Diese 100 kg müssen auf hunderte Beef-Soup-Betriebe in Tainan verteilt werden. Das Anstehen in der Morgendämmerung ist kein Marketing-Gag, sondern eine physikalische Realität.
+
+> **✦** „Das Schlangestehen für Tainan Beef Soup ist ein Wettlauf gegen das Zeitfenster der Frische.“
+
+Die meisten Beef-Soup-Restaurants in Tainan haben montags geschlossen – weil im Schlachthof montags nicht geschlachtet wird. Der Rhythmus dieser Stadt folgt dem Zyklus des Viehs.
+
+In den letzten Jahren wurde die Tainan Beef Soup wiederholt in die Michelin Bib Gourmand Liste aufgenommen, was die Nachfrage nach einheimischem Wenti-Rindfleisch in ganz Taiwan gesteigert hat. Im Jahr 2023 erreichte die durchschnittliche Rindfleischversorgung pro Kopf 7,57 kg – ein Anstieg von 46,4 % in den letzten zehn Jahren. Chang Chih-ming, Vorsitzender der Fleischrindindustrie-Assoziation Taiwans, sagt: „Wir kommen mit der Aufzucht kaum hinterher!“
 
 ---
 
-## Zwei Schicksale eines Tieres
+## Die Probleme verschwinden nicht, sie finden nur Nischen
 
-Der Ursprung des Yuanxing-Rindes ist der Nebel von Qingtengang; das Ziel ist noch ungewiss.
+Die Geschichte des Yuanxing-Rindes und der Aufstieg der Tainan Beef Soup bedeuten nicht, dass die taiwanesische Fleischrindindustrie ihre Probleme gelöst hat.
 
-Aber es hat eine Sache erreicht: Es zwang die taiwanesische Gesellschaft zum ersten Mal, ernsthaft zu diskutieren: „Können wir unser eigenes Wagyu züchten?“ Die genetische Isolation über 90 Jahre wurde aus einem Unfall zu einem Vermögenswert; der Starrsinn eines 94-jährigen Mannes wurde von einem persönlichen Traum zur nationalen Rassenregistrierung.
+Die Herausforderungen sind konkret: Um kommerzielle Größenordnungen zu erreichen, schätzt Yuanxing-Ju Biotech, dass mindestens 100.000 Rinder benötigt werden, um jährlich 30.000 Tiere schlachten zu können; um den Marktbedarf von 160.000 Tonnen zu decken, wären mindestens 2 Millionen Rinder nötig. Die Landfläche Taiwans kann eine solche Größenordnung niemals tragen.
 
-Das andere Tier ist das, das jeden Morgen in Shanxia geschlachtet und Stunden später in deiner Schüssel erscheint. Es ist kein Yuanxing-Rind, sondern ein pensionierter Milchbulle mit großem Skelett und wenig Fleisch, der die letzte Etappe der taiwanesischen Milchlieferkette durchlaufen hat. Aber sein Fleisch besitzt etwas, das kein gefrorenes Rindfleisch jemals haben kann – in diesem speziellen Zeitfenster.
+Gleichzeitig konzentriert sich die taiwanesische Viehzuchtpolitik seit langem auf Milchkühe und nur sekundär auf Fleischrinder. Es fehlt an einer integrierten Politik für Zucht, Subventionen und die Schlachtkette. Obwohl das Landwirtschaftsministerium Budgets bereitgestellt hat, um Milchbauern bei der Umstellung auf Fleischrindhaltung zu unterstützen, halten Branchenvertreter dies für unzureichend in Bezug auf Geschwindigkeit und Umfang.
 
-Der Wettbewerbsvorteil des taiwanesischen Fleisches lag vielleicht nie in der Größe, sondern in der Zeit. Nicht die große Weidefläche, sondern der Schlachthandel am selben Tag. Nicht das Fettmuster wie japanische Wagyu, sondern die Warteschlange um fünf Uhr morgens für einen Geschmack, der nur an diesem Morgen existiert.
+Obwohl das Thema Ractopamin dazu führt, dass einige Verbraucher einheimisches Rind bevorzugen, bleibt der Druck durch Importfleisch hoch, da die Zölle kontinuierlich gesenkt werden (von 10 NT$ auf 5 NT$ pro kg).
 
-Dies ist eine Lücke, die diese Insel im globalen Rindflechtemarkt gefunden hat. Sie ist klein, aber sie existiert real.
+Nach dem vollständigen Inkrafttreten des ANZTEC-Abkommens mit Neuseeland ist der Import von Flüssigmilch zollfrei, was zu einer Verringerung der Milchviehbestände und damit auch zu weniger Kälbern führt. Ab 2025 wird ein Mangel an einheimischen Fleischquellen erwartet. Die Branche hat im April 2025 dringend einen Plan zur Einführung von tausend Angus-Rindern vorgeschlagen, um diese Lücke zu schließen.
+
+> **⚠️ Kontroverser Standpunkt**
+> Die Entstehung des Yuanxing-Rindes ist ermutigend, aber für einen echten Durchbruch der taiwanesischen Fleischrindindustrie reicht eine Markenstory um eine einzelne Rasse nicht aus. Strukturelle Probleme – Land, Politik, Zuchtsysteme und die Integration der Schlachtkette – haben noch keine systemische Lösung gefunden.
+
+---
+
+## Zwei Schicksale eines Rindes
+
+Der Ursprung des Yuanxing-Rindes liegt im Nebel des Qingtiangang; sein Ende ist noch ungewiss.
+
+Doch es hat bereits eines erreicht: Es hat die taiwanesische Gesellschaft dazu gebracht, zum ersten Mal ernsthaft darüber zu diskutieren: „Können wir unser eigenes Wagyu züchten?“ 90 Jahre genetische Isolation haben aus einem Zufall ein Gut gemacht; die Besessenheit eines 94-jährigen Mannes hat aus einem persönlichen Traum eine nationale Rasse registrierung gemacht.
+
+Ein anderes Rind ist jenes, das jeden Morgen in der Morgendämmerung in Shanhua geschlachtet wird und wenige Stunden später in Ihrer Schale erscheint. Es ist kein Yuanxing-Rind; es ist ein im Ruhestand befindliches männliches Milchrind mit großem Skelett und wenig Fleisch, das den letzten Teil der taiwanesischen Milchlieferkette durchläuft. Aber sein Fleisch besitzt in diesem spezifischen Zeitfenster etwas, das kein gefrorenes Rindfleisch jemals erreichen kann.
+
+Der Wettbewerbsvorteil des taiwanesischen Rindfleisches liegt vielleicht nie in der Größe, sondern in der Zeit. Nicht in weiten Graslandschaften, sondern in der täglichen Schlachtung. Nicht im Vergleich des Fettmusters mit japanischem Wagyu, sondern darin, dass die Verbraucher um fünf Uhr morgens Schlange stehen – für einen Geschmack, den es nur an diesem Morgen gibt.
+
+Dies ist die Nische, die eine Insel in der globalen Rindfleisch-Lieferkette gefunden hat. Die Nische ist klein, aber sie ist real.
 
 ---
 
 ## Referenzen
 
-- [Wikipedia: Yuanxing-Rind](https://zh.wikipedia.org/zh-tw/%E6%BA%90%E8%88%88%E7%89%9B)
-- [Agrarpresse: Die erste private Rasse „Yuanxing-Rind“ in Taiwan gezüchtet](https://www.agriharvest.tw/archives/121122/) (Bericht der Agrarpresse, 2024)
-- [PTS CCTV News: Lee Teng-hui’s taiwanesisches Wagyu „Yuanxing-Rind“ erhält nach 4 Jahren die Neuzertifizierung](https://news.pts.org.tw/article/701011) (CCTV News, 2024)
-- [Agrarpresse: Diagramm zur Bekämpfung des Importkonkurrenzes durch heimische Rinder](https://www.agriharvest.tw/archives/125578) (Daten der Landwirtschaftsbehörde, 2025)
-- [United Daily News/Fong Nian Magazine: Analyse der Selbstversorgungsquote und der Importquellen von Rindfleisch in Taiwan](https://udn.com/news/story/123535/8760486) (Statistik der Landwirtschaftsbehörde, 2025)
-- [Lishan Twelve Foods: Das frische Rind, das Sie nicht kennen – das Geheimnis der Tainan Beef Soup](https://www.12foody.com.tw/blog/posts/beef-07) (Esskulturkontext)
-- [Wuyun is Beautiful: Der Weg der Tainan Beef Soup vom Betrieb auf den Tisch](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B0%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/) (Tiefenbericht über die Schlachthandelkette)
-- [Tainan Tourism Website: Vorstellung des Viehmarktes in Shanxia](https://www.twtainan.net/zh-tw/attractions/detail/5603/) (Offizieller kultureller Hintergrund)
-- [Yuanxing Bio-Tech Company Official Website](https://ggp.com.tw/) (Primärquelle)
-- [Zecze Crowdfunding: Yuanxing Rind Zuchtprojekt](https://www.zeczec.com/projects/Tw-Ag-Mou) (Markenbotschaft und Produktinformation)
-- [Agrarpresse: Konsumwachstum von Rindfleisch in Taiwan um 36 % in fünf Jahren; Yuanxing startet Projekt zur Aufzucht von tausend Tieren](https://www.agriharvest.tw/archives/127347/) (Konsumvolumen und industrielle Größe, 2025)
-- [Agrarpresse: Was wissen wir über Fleischrinder? Rassen, die Taiwan essen kann](https://www.agriharvest.tw/archives/125568/) (Milchbulle Struktur, Wagyu Geschichte, 2025)
-- [NCBI Nucleotide: Bos taurus breed Taiwan Wagyu isolate K26101, whole genome shotgun sequencing project](https://www.ncbi.nlm.nih.gov/nuccore/JBUZMI000000000.1) (NCBI, internationale Genomdatenbankregistrierung, Registrierungsnummer JBUZMI000000000.1)
+- [Wikipedia: Yuanxing-Rinder](https://zh.wikipedia.org/zh-tw/%E6%BA%90%E8%88%88%E7%89%9B)
+- [Nongcai-Medien: Erste private Zucht der „Yuanxing-Rinder“ in Taiwan](https://www.agriharvest.tw/archives/121122/) (Bericht von Nongcai-Medien, 2024)
+- [PTS Public Television News: Lee Teng-huis taiwanesisches Wagyu „Yuanxing-Rind“ nach 4 Jahren Registrierung genehmigt](https://news.pts.org.tw/article/701011) (Nachrichten von PTS, 2024)
+- [Nongcai-Medien: Widerstand gegen Importfleisch – Die Entwicklung einheimischer Rinder](https://www.agriharvest.tw/archives/125578) (Daten des Landwirtschaftsministeriums, 2025)
+- [United Daily News/Fengnian Magazine: Analyse der einheimischen Rindfleisch-Selbstversorgungsrate und der Importquellen](https://udn.com/news/story/123535/8760486) (Statistik des Landwirtschaftsministeriums, 2025)
+- [Lishan Twelve Foods: Was Sie über Wenti-Rind nicht wissen – Das Geheimnis des Geschmacks der Tainan Beef Soup](https://www.12foody.com.tw/blog/posts/beef-07) (Kulinarischer Kontext)
+- [Wunderschöne Wolken: Der Weg der Tainan Beef Soup vom Bauernhof auf den Tisch](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B0%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/) (Tiefenbericht über die Schlachtkette)
+- [Tainan Tourism Website: Einführung des Shanhua-Viehmarktes](https://www.twtainan.net/zh-tw/attractions/detail/5603/) (Offizieller kultureller Hintergrund)
+- [Offizielle Website der Yuanxing-Ju Biotech Company](https://ggp.com.tw/) (Primärquelle)
+- [Zec Zec Crowdfunding: Zuchtprojekt für Yuanxing-Rinder](https://www.zeczec.com/projects/Tw-Ag-Mou) (Markenstory und Produktinformationen)
+- [Nongcai-Medien: Rindfleischkonsum der Bevölkerung steigt in fünf Jahren um 36 %, Yuanxing-Rinder starten Projekt zur Aufzucht von tausend Tieren](https://www.agriharvest.tw/archives/127347/) (Daten zu Konsumvolumen und Industriegröße, 2025)
+- [Nongcai-Medien: Wie viel weiß man über Rindfleisch? In Taiwan erhältliche Rassen](https://www.agriharvest.tw/archives/125568/) (Struktur männlicher Milchrinder, Geschichte des Wagyu, 2025)
+- [NCBI Nucleotide: Bos taurus breed Taiwan Wagyu isolate K26101, whole genome shotgun sequencing project](https://www.ncbi.nlm.nih.gov/nuccore/JBUZMI000000000.1) (NCBI, internationale Genomdatenbank-Registrierung, Registrierungsnummer JBUZMI000000000.1)
