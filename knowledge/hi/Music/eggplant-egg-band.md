@@ -1,10 +1,8 @@
 ---
 title: 'ताइवान का इंडी रॉक बैंड "एगप्लांटएग" (EggPlantEgg)'
 description: 'एगप्लांटएग ने अपने अनूठे "ताइवानी रोमांस" रॉक और "वैग्रेंट" आख्यान के साथ न केवल संगीत बाजार में जबरदस्त सफलता हासिल की, बल्कि ताइवानी पॉप संगीत के समकालीन चेहरे को फिर से परिभाषित किया, और ताइवान के सांस्कृतिक प्रतीकों का एक अनिवार्य हिस्सा बन गया।'
-date: '2026-04-05'
+date: 2026-04-05
 category: 'Music'
-subcategory: '流行音樂'
-author: 'Taiwan.md Contributors'
 tags:
   [
     'स्वतंत्र संगीत',
@@ -14,15 +12,19 @@ tags:
     'ताइवानी संस्कृति',
     'रॉक संगीत',
   ]
-readingTime: '10'
-lastVerified: '2026-04-05'
-lastHumanReview: 'false'
+subcategory: '流行音樂'
+author: 'Taiwan.md Contributors'
+readingTime: 10
 featured: false
+lastVerified: 2026-04-05
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
-translatedAt: '2026-07-25T01:31:56+08:00'
+translatedAt: '2026-11-04T16:08:02.742547+00:00'
 ---
 
 # ताइवान का इंडी रॉक बैंड "एगप्लांटएग" (EggPlantEgg)
