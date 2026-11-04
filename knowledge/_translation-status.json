@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T18:53:12+08:00",
-    "zhCommitHead": "8e46c07d2",
+    "lastUpdated": "2026-11-04T19:14:39+08:00",
+    "zhCommitHead": "6075163bd",
     "totalZh": 1161,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1161,
-        "fresh": 942,
-        "stale": 49,
+        "fresh": 943,
+        "stale": 48,
         "metadata_stale": 167,
         "missing": 3,
         "orphan": 0
@@ -142073,8 +142073,8 @@
           "sourceContentHash": "sha256:efe5b480b7638fd0",
           "sourceBodyHash": "sha256:5b8e0366beca56d2",
           "translatedAt": "2026-11-04T09:03:53.735179+00:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "6075163b",
+          "translationLastModified": "2026-11-04T18:53:13+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 72183,
@@ -175785,18 +175785,18 @@
         "en": {
           "path": "en/Food/sweet-potato-balls.md",
           "translatedFrom": "Food/地瓜球.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:31bbf088964cc84c",
-          "sourceBodyHash": "sha256:41b23df405c1e58d",
-          "translatedAt": "2026-08-09T10:51:39+08:00",
+          "sourceCommitSha": "2ef99f287",
+          "sourceContentHash": "sha256:7c999d826d55352a",
+          "sourceBodyHash": "sha256:59284821ad1dd766",
+          "translatedAt": "2026-11-04T16:19:37+08:00",
           "translationLastCommit": "7d418dbc",
           "translationLastModified": "2026-08-09T18:44:47+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 12177,
+          "footnoteDefs": 24,
+          "bytes": 46029,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/sweet-potato-balls.md",
