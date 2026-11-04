@@ -1,19 +1,21 @@
 ---
 title: 'वाइल्ड लिली छात्र आंदोलन'
 description: 'विश्वविद्यालय के छात्रों के एक समूह ने च्यांग काई-शेक मेमोरियल हॉल में सात दिनों तक धरना दिया, अंततः एक ऐसे राजनीतिक तंत्र को हिलाकर रख दिया जो चालीस वर्षों से अधिक समय से जड़ था। वाइल्ड लिली छात्र आंदोलन ने वास्तव में जो बदला, वह केवल राष्ट्रीय मामलों का सम्मेलन नहीं था, बल्कि यह पहली बार था जब ताइवान के लोगों ने स्पष्ट रूप से देखा: छात्र सीधे संवैधानिक सुधार की समय-सारणी को फिर से लिख सकते हैं।'
-date: '2026-03-23'
-author: 'Taiwan.md'
+date: 2026-03-23
 category: 'Society'
-subcategory: '民主與政治'
 tags: ['समाज', 'इतिहास', 'छात्र आंदोलन', 'लोकतंत्रीकरण', 'नागरिक आंदोलन']
-lastVerified: '2026-03-23'
-lastHumanReview: false
+subcategory: '民主與政治'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-23
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-07-24T20:15:21+08:00'
+translatedAt: '2026-11-04T18:56:50.179564+00:00'
 ---
 
 # वाइल्ड लिली छात्र आंदोलन
