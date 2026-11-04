@@ -3,7 +3,6 @@ title: 'Chao Tzu-chiang: Dari Pendidikan di Lantai Pangeran, hingga Jiwa yang Ti
 description: "Pada tahun 1984, Chao Tzu-chiang karena iklan 'Gratis Selama Tahun' itu bergabung dengan Lantai Pangeran, membuka karir legendaris lintas panggung, film, dan seni anak. Ia menyentuh kehangatan banyak anak Taiwan lewat 'Kakek Buah-Buahan', namun di balik itu, ia membangun 'Koleksi Drama Anak-Anak 'Jika'' dengan utang ratus juta dolar, dan menunjukkan semangat 'tidak menyerah' selama krisis pandemi dan keuangan. Ini adalah penerapan mendalam selama tiga dekade bagi mimpi anak Taiwan."
 date: 2026-04-25
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Chao Tzu-chiang',
@@ -13,16 +12,19 @@ tags:
     'Seni Anak',
     'Budaya Taiwan',
   ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-07-26T02:07:18+08:00'
+translatedAt: '2026-11-04T19:33:19.894178+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

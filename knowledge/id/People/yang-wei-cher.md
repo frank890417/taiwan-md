@@ -19,11 +19,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-07-30T12:38:18+08:00'
+translatedAt: '2026-11-04T19:53:37.200601+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
@@ -79,28 +81,28 @@ Kehadiran Yang Wei-zhe, sendiri sudah merupakan pertanyaan besar bagi subjektiiv
 
 ## Referensi
 
-[^1]: [Legenda pengajaran bahasa Taiwan UI dan lanjutannya (Judul lama: 1997 Profesor Yang Wei-zhe mengajar bahasa Taiwan, Anggota DPR tuduh "tidak konstitusional"!)](https://www.telltaiwan.org/5057) — Profesor Chou Wan-yao rinci konteks sejarah dan kontroversi Legislatif soal pengajaran bahasa Taiwan Profesor Yang Wei-zhe.
+[^1]: [Legenda pengajaran bahasa Taiwan di NTU dan kelanjutannya (Judul lama: Profesor Yang Wei-che mengajar dalam bahasa Taiwan pada tahun 1997, anggota legislatif menyebutnya sebagai "inkonstitusional"!)](https://www.telltaiwan.org/5057) — Profesor Chou Wan-yao menjelaskan secara terperinci konteks sejarah pengajaran bahasa Taiwan oleh Profesor Yang Wei-che dan kontroversi di Legislatif.
 
-[^2]: [Yang Wei-zhe - Wikipedia, ensiklopedia bebas](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Tinjauan riwayat hidup dasar dan ciri mengajar Profesor Yang Wei-zhe.
+[^2]: [Yang Wei-che - Wikipedia, ensiklopedia bebas](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — Gambaran umum biografi dasar dan karakteristik pengajaran Profesor Yang Wei-che.
 
-[^3]: [Yang Wei-zhe: Aku menyesal tidak dari awal mengajar matematika pakai bahasa Taiwan](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Wawancara _Majalah Berita Taiwan Baru_, merekam perjalanan hati Profesor Yang Wei-zhe mempromosikan pengajaran bahasa Taiwan.
+[^3]: [Yang Wei-che: Saya menyesal tidak mengajar matematika dalam bahasa Taiwan sejak awal](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — Wawancara eksklusif dengan 《New Taiwan News Weekly》, mencatat perjalanan batin Profesor Yang Wei-che dalam mempromosikan pengajaran bahasa Taiwan.
 
-[^4]: [Kelas Matematika Profesor Yang Wei-zhe ─ Geometri Koordinat Dasar](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Penerbit Wu-nan memperkenalkan filsafat pendidikan dan buku matematika Profesor Yang Wei-zhe.
+[^4]: [Ruang Kuliah Matematika Profesor Yang Wei-che — Geometri Koordinat Dasar](http://www.wunan.com.tw/bookdetail.asp?no=16462) — Penerbit Wunan memperkenalkan filosofi pendidikan dan buku matematika karya Profesor Yang Wei-che.
 
-[^5]: [【Kuliah Jumat Bahasa Taiwan】Profesor Yang Wei-zhe Pidato: Bicara Politik dan Sistem dari Sudut Pandang Matematika](https://www.instagram.com/p/Czgc1tJPeAK/) — Informasi acara pidato Profesor Yang Wei-zhe di Fakultas Sastra UI 2023.
+[^5]: [[Kuliah Jumat Bahasa Taiwan] Ceramah Profesor Yang Wei-che: Berbicara dari Sudut Pandang Matematika](https://www.instagram.com/p/Czgc1tJPeAK/) — Informasi kegiatan ceramah Profesor Yang Wei-che di Fakultas Sastra NTU pada tahun 2023.
 
-[^6]: [Rasa Seperti Bertemu Newton (Bagian Bawah)](https://blog.udn.com/Carole777/45605455) — Mencatat interaksi dan persahabatan Profesor Yang Wei-zhe dengan senior dan rekan kerja Departemen Matematika UI.
+[^6]: [Terasa Seperti Bertemu Newton (Bagian 2)](https://blog.udn.com/Carole777/45605455) — Menggambarkan interaksi dan persahabatan antara Profesor Yang Wei-che dengan para senior dan rekan sejawat di Departemen Matematika NTU.
 
-[^7]: [Dari SMA Melihat Aku Tumbuh: Guru Departemen Matematika](https://www.instagram.com/p/C8Zkg9-PC4w/) — Profesor Yeh Ping-cheng kenang pengaruh Profesor Yang Wei-zhe pada pendidikan berbakat dan siswa.
+[^7]: [Melihat Guru Matematika Saya yang Tumbuh Besar dari Masa SMA](https://www.instagram.com/p/C8Zkg9-PC4w/) — Profesor Yeh Bing-cheng mengenang pengaruh Profesor Yang Wei-che terhadap pendidikan anak berbakat dan para siswanya.
 
-[^8]: [Komunikasi Matematika - Yang Wei-zhe](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Daftar karya Profesor Yang Wei-zhe di majalah _Komunikasi Matematika_ Lembaga Penelitian Matematika Akademia Sinica.
+[^8]: [Komunikasi Matematika — Yang Wei-che](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — Daftar karya Profesor Yang Wei-che dalam jurnal 《Mathematical Communication》 dari Institut Matematika, Academia Sinica.
 
-[^9]: [Enam・Pahlawan Maju, Panjang Umur di Dunia Lukis - Yang Chi-tung dan Yang Wei-zhe](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Arsip Museum Seni Rupa Nasional Taiwan, rinci cerita ayah anak Yang Chi-tung dan Yang Wei-zhe meninggalkan kedokteran demi matematika.
+[^9]: [Enam • Keberanian untuk Berprogres, Tetap Eksis di Dunia Seni — Yang Chi-tung dan Yang Wei-che](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — Arsip Museum Seni Nasional Taiwan, menjelaskan secara terperinci kisah ayah dan anak, Yang Chi-tung dan Yang Wei-che, yang meninggalkan kedokteran demi matematika.
 
-[^10]: [Pelompat Tingkat Pertama Taiwan "Tiga Lompatan"! Yang Po-yin Lulus UI Usia 18 Tahun](https://time.udn.com/udntime/story/122833/8798116) — Liputan _United Daily News_ waktu dulu, mencatat perjalanan jenius putra Yang Wei-zhe, Yang Po-yin.
+[^10]: [Siswa Berbakat Pertama di Taiwan yang Melakukan "Triple Jump"! Yang Po-yin Lulus dari NTU pada Usia 18 Tahun](https://time.udn.com/udntime/story/122833/8798116) — Arsip United Daily News, mencatat perjalanan pertumbuhan jenius putra Yang Wei-che, Yang Po-yin.
 
-[^11]: [Kasus Chen Wen-cheng dan Departemen Matematika UI](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Catatan Wikipedia soal sikap Profesor Yang Wei-zhe dalam kasus Chen Wen-cheng.
+[^11]: [Insiden Chen Wen-cheng dan Departemen Matematika NTU](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — Catatan Wikipedia mengenai posisi Profesor Yang Wei-che dalam Insiden Chen Wen-cheng.
 
-[^12]: [Yang Wei-zhe 20081223: Dari Kehidupan Kampus ke Kasus Chen Wen-cheng](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Rekaman wawancara sejarah lisan Museum Sejarah UI.
+[^12]: [Yang Wei-che 20081223: Dari Kehidupan Universitas hingga Insiden Chen Wen-cheng](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — Catatan wawancara sejarah lisan dari Museum Sejarah Universitas Nasional Taiwan.
 
-[^13]: [41 Tahun Kasus Chen Wen-cheng: Mengingat Seorang Pahlawan yang Tegak Menentang Kekerasan Negara](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Liputan _Yahoo News_, menyebut Profesor Yang Wei-zhe mengusulkan teks patung Chen Wen-cheng.
+[^13]: [Peringatan 41 Tahun Insiden Chen Wen-cheng: Mengenang Seorang Pemberani yang Teguh Melawan Kekerasan Negara](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Laporan berita Yahoo News, menyebutkan bahwa Yang Wei-che menulis kaligrafi untuk monumen peringatan Chen Wen-cheng.

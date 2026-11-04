@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-09-10T10:26:29+08:00'
+translatedAt: '2026-11-04T20:13:41.723897+00:00'
 ---
 
 # Hsu Shu-ching: Atlet Angkat Berat 53kg Pertama Taiwan Peraih Ganda Emas Olimpiade dari Lunpei 1991

@@ -1,27 +1,29 @@
 ---
-title: 'Yang Yu-jen (楊右任)'
-description: 'Pendiri Step30 International Christian Care Association, Ten Outstanding Young Persons 2017, mengumpulkan ratusan ribu pasang sepatu bekas melalui satu poster untuk bantuan anak-anak Afrika Timur'
+title: 'Yang You-ren'
+description: 'Pendiri International Christian Concern Old Shoes Save Lives, salah satu dari Sepuluh Pemuda Berprestasi tahun 2017, yang mengumpulkan seratus ribu pasang sepatu bekas untuk membantu anak-anak di Afrika Timur melalui sebuah poster.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'perusahaan sosial Taiwan',
-    'bantuan kemanusiaan',
-    'Step30 Old Shoes Save Lives',
-    'Ten Outstanding Young Persons',
-    'bantuan Afrika',
-    'pelayanan Kristen',
+    'Wirausaha Sosial Taiwan',
+    'Bantuan Kemanusiaan',
+    'Old Shoes Save Lives',
+    'Sepuluh Pemuda Berprestasi',
+    'Bantuan Afrika',
+    'Pelayanan Kristen',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-08-10T09:48:21+08:00'
+translatedAt: '2026-11-04T20:17:11.356799+00:00'
 ---
 
 # Yang Yu-jen (楊右任): Dari Anak Sekolah Menengah yang Coret-coret ke Penyelamat Sepatu Bekas Afrika
@@ -58,19 +60,19 @@ Yang Yu-jen menerbitkan buku 《給你5萬雙祝福：一個小小行動，如�
 
 ## Referensi
 
-[^1]: [Yang Yu-jen — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Data biografis utama, mencakup kelahiran di Taoyuan, kuliah di Australia, dan titik balik iman.
+[^1]: [Yang You-jen — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Data biografi utama, termasuk kelahiran di Taoyuan, studi di Australia, dan perubahan keyakinan.
 
-[^2]: [Step30 Old Shoes Save Lives — Situs Resmi](https://www.step30.org/) — Perkenalan organisasi, proyek pelayanan, dan laporan tahunan.
+[^2]: [Step30 Old Shoes Save Lives — Situs Resmi](https://www.step30.org/) — Pengenalan organisasi, rencana pelayanan, dan laporan layanan tahunan.
 
-[^3]: [Step30 International Christian Care Association — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Kronologi kejadian poster 2014, catatan distribusi kontainer.
+[^3]: [Old Shoes Save Lives International Christian Care Association — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Kronologi peristiwa poster tahun 2014 dan catatan distribusi kontainer.
 
-[^4]: [Wawancara 104 Applause — Dari Preman Jalanan ke Ten Outstanding Young Persons](https://blog.104.com.tw/104bravo-step30-org-founder/) — Kisah titik balik hidup Yang Yu-jen, asal nama Step30, dan penjelasan ide "tidak menciptakan ketergantungan".
+[^4]: [Wawancara Eksklusif 104 Applause — Dari Berandalan Jalanan Menjadi Sepuluh Pemuda Berprestasi](https://blog.104.com.tw/104bravo-step30-org-founder/) — Cerita titik balik kehidupan Yang You-jen, asal-usul penamaan Step30, dan penjelasan mengenai filosofi "tidak menciptakan ketergantungan".
 
-[^5]: [Situs Resmi Step30 — Perkenalan Proyek](https://www.step30.org/) — Penjelasan empat proyek: Pendidikan, Air Hidup, Sayang Putri, Kemandirian Pertanian.
+[^5]: [Situs Resmi Step30 — Pengenalan Program](https://www.step30.org/) — Penjelasan mengenai empat program: Pendidikan, Air Kehidupan, Kasih untuk Anak Perempuan, dan Kemandirian Pertanian.
 
-[^6]: [Ten Outstanding Young Persons Association](https://www.youth.org.tw/) — Konfirmasi Yang Yu-jen terpilih Ten Outstanding Young Persons 2017.
+[^6]: [Ikatan Sepuluh Pemuda Berprestasi (Ten Outstanding Young Persons Fellowship)](https://www.youth.org.tw/) — Konfirmasi terpilihnya Yang You-jen sebagai salah satu dari Sepuluh Pemuda Berprestasi pada tahun 2017.
 
-[^7]: [《Memberimu 50.000 Pasang Berkah》— Books.com.tw](https://www.books.com.tw/products/0010806227) — Karya Yang Yu-jen (Campus Bookstore, 2018), mencatat proses pendirian Old Shoes Save Lives dan perjalanan hati pelayanan di Afrika.
+[^7]: [《Memberimu 50.000 Pasang Berkat》— Books.com.tw](https://www.books.com.tw/products/0010806227) — Karya tulis Yang You-jen (Campus Bookstore, 2018), mencatat proses pendirian Old Shoes Save Lives dan perjalanan spiritual dalam pelayanan di Afrika.
 
 ## Bacaan Lanjutan
 
