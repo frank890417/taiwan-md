@@ -1,25 +1,29 @@
 ---
 title: "Ray Du: From a Young Exchange Student Who Hated English to the 'Block Captain' of Taiwan's YouTube World"
 description: "In 2020, YouTuber Ray Du launched the New York Times advertising crowdfunding campaign that showed the world Taiwan exists; in 2021 he openly shared his battle with depression, candidly facing a low point in life. From his English awakening in Singapore to founding a creators' association, Ray Du is not only a knowledge-based influencer but also a driving force behind Taiwan's new media ecosystem."
-translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bc1390f13b2a7b07'
-sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-20
-tags:
-  - 'YouTuber'
-  - 'Ray Du'
-  - 'Taiwan new media'
-  - 'depression'
-  - 'New York Times advertisement'
 category: 'People'
+tags:
+  [
+    'YouTuber',
+    'Ray Du',
+    'Taiwan new media',
+    'depression',
+    'New York Times advertisement',
+  ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
-readingTime: 9
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/阿滴.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:bc1390f13b2a7b07'
+sourceBodyHash: 'sha256:5621e86f4a6c80eb'
+translatedAt: '2026-11-04T21:31:18.460045+00:00'
 ---
 
 > **30-second overview:** In 2020, YouTuber Ray Du (Du Sheng-rui) launched the "ThisAttackComesFromTaiwan" crowdfunding campaign that reached its NT$4 million goal within hours, ultimately raising close to NT$19 million to run a full-page advertisement in the _New York Times_, telling the world "Taiwan Can Help." The following year, he publicly shared his nearly year-long battle with depression, and co-founded with Chih-chi Chang and others the Taiwan New Media Video Creators Association, serving as its chairman and building a mutual support ecosystem for Taiwan's creators. From young exchange student in Singapore who hated English to becoming the "block captain" of Taiwan's YouTube world, Ray Du's story is not just a personal transformation — it is a true microcosm of Taiwan's new media moving from individual creation toward a shared industry.

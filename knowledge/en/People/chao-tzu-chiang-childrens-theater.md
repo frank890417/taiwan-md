@@ -1,7 +1,8 @@
 ---
 title: "Chao Tzu-chiang: The Undefeated Soul Behind the Grandma's Apron"
 description: "In 1984, Chao Tzu-chiang joined the Lanling Theater Workshop after spotting a 'free all year' ad — launching a legendary career across theater, film, and children's art. As the 'Fruit Grandma,' he warmed the childhoods of countless kids, yet in real life he founded the 'If Theater for Children' carrying over ten million NT dollars in debt, and showed his iron will to 'never surrender' through COVID and financial crisis alike. This is a performer's thirty-year practice of guarding dreams for Taiwan's children."
-category: People
+date: 2026-04-25
+category: 'People'
 tags:
   [
     'Chao Tzu-chiang',
@@ -11,17 +12,19 @@ tags:
     "children's arts",
     'Taiwan culture',
   ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
-date: 2026-04-25
-readingTime: 12
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
-translatedAt: '2026-05-01T12:21:52+08:00'
-featured: false
+translatedAt: '2026-11-04T21:18:50.387575+00:00'
 ---
 
 > **30-Second Overview:**

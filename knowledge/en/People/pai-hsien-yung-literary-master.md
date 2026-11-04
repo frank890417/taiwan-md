@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T08:08:43.055473+00:00'
+translatedAt: '2026-11-04T21:36:46.815269+00:00'
 ---
 
 # Pai Hsien-yung: Taipei People (1971) to the Youth Edition of the Peony Pavilion's 20-Year Tour
