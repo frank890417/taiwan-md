@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:ccfa9bae3ef3f37a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-08-03T20:32:57.245032+00:00'
+translatedAt: '2026-11-04T16:46:17.401272+00:00'
 ---
 
 Kepadatan populasi pelajar cat air di Taiwan tergolong tertinggi di dunia, dan belakangan ini sering meraih prestasi di kompetisi cat air internasional. Dari kotak cat yang dibawa seorang guru Jepang pada masa pendudukan Jepang, hingga kini tiga asosiasi cat air nasional berdiri beriringan dan menggelar pameran cat air internasional tahunan, seni cat air Taiwan telah berjalan selama seratus tahun penuh.

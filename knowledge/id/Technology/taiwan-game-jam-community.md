@@ -1,20 +1,22 @@
 ---
 title: 'Komunitas Game Jam Taiwan'
 description: 'Dari Global Game Jam yang mendarat di Taiwan, hingga KUSO GAME JAM dengan falsafah karya gagal—bagaimana komunitas Game Jam Taiwan selama sepuluh tahun menjadi inkubator dan laboratorium uji coba ekosistem game independen'
-date: '2026-04-27'
-author: 'tppr2046'
+date: 2026-04-27
 category: 'Technology'
-subcategory: '遊戲產業'
 tags: ['game', 'game independen', 'Game Jam', 'komunitas', 'KUSO', 'kreasi']
-readingTime: '8'
-lastVerified: '2026-04-27'
-lastHumanReview: 'true'
+subcategory: '遊戲產業'
+readingTime: 8
+author: 'tppr2046'
 featured: false
+lastVerified: 2026-04-27
+lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-04T15:59:52.880326+00:00'
 ---
 
 # Komunitas Game Jam Taiwan
