@@ -1,20 +1,23 @@
 ---
 title: '명간 소각로 전쟁: 삼십만 톤의 "쓰레기 빚"이 백억 차향(茶鄕)의 생존선을 들이받다'
 description: '난터우현(南投縣) 내 적치 쓰레기가 2024년 말 31만 톤을 돌파하며 "쓰레기 포위 도시" 위기를 초래했다. 셰수화(許淑華) 현장은 명간향(名間鄉) 쑤인민촌(新民村)에 일일 500톤 처리 규모의 소각로를 건설할 계획을 세워, 250명 이상의 학자들이 서명하여 반대 운동을 벌였다. 이것은 특정 농업구역, 자이관구(柴棺龜) 서식지, 그리고 대만 최대 수요음료(手搖飲) 차 잎 공급망의 생존을 건 수호전이다.'
-category: Society
-subcategory: '社區與日常'
-tags: [난터우, 명간, 소각로, 차 산업, 생태 보전, 쓰레기 문제, 셰수화]
-author: 'Taiwan.md Contributors'
 date: 2026-04-25
-readingTime: 15
+category: 'Society'
+tags:
+  ['난터우', '명간', '소각로', '차 산업', '생태 보전', '쓰레기 문제', '셰수화']
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Society/名間焚化爐.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Society/名間焚化爐.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T18:05:42.304061+00:00'
 ---
 
 > **30초 개요:**

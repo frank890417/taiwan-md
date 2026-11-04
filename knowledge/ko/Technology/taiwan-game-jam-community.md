@@ -2,19 +2,21 @@
 title: '타이완 Game Jam 커뮤니티'
 description: 'Global Game Jam이 타이완에 상륙한 때부터 KUSO GAME JAM이 못난 작품을 철학으로 삼기까지—타이완 Game Jam 커뮤니티가 10년간 어떻게 인디 게임 생태계의 배양접이자 실험장이 되었는가'
 date: 2026-04-27
-author: 'tppr2046'
 category: 'Technology'
-subcategory: '遊戲產業'
 tags: ['게임', '인디 게임', 'Game Jam', '커뮤니티', 'KUSO', '창작']
+subcategory: '遊戲產業'
 readingTime: 8
+author: 'tppr2046'
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f932c57f5b497190'
 sourceBodyHash: 'sha256:09023ab1d3d01f3b'
-translatedAt: '2026-06-12T00:53:03+08:00'
+translatedAt: '2026-11-04T17:29:40.415476+00:00'
 ---
 
 # 타이완 Game Jam 커뮤니티

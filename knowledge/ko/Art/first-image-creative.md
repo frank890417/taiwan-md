@@ -2,9 +2,7 @@
 title: '서우잉창이: 궈타이창의 애니메이션 꿈에서 타이난 골목의 《팔계》까지'
 description: '한때 궈타이창이 투자한 ‘서우잉창이’는 타이완 창작 애니메이션의 서광을 열었으나 시장 현실 속에서 방향을 전환했다. 그와 공생하던 studio2는 타이난에서 20년을 버텼고, 마침내 《팔계》로 금마장을 거머쥐며 타이완 애니메이션이 하청에서 창작으로 나아간 피와 눈물의 역사를 써냈다.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '電影'
 tags:
   [
     '애니메이션 산업',
@@ -14,21 +12,23 @@ tags:
     '팔계',
     '디지털 콘텐츠',
   ]
-readingTime: 12
+subcategory: '電影'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T18:22:15.318643+00:00'
 ---
 
-> **30초 개관:**
-> 2004년에 설립된 ‘서우잉창이(首映創意, SOFA Studio)’는 한때 타이완 애니메이션계의 스타였다. 궈타이창의 자금과 창작의 꿈을 등에 업고 《무무허그》로 전 세계 80개국을 사로잡았다. 그러나 애니메이션 연구개발의 높은 비용과 긴 회수 기간은 이 대담한 승부를 결국 방향 전환으로 이끌었다. 이야기는 거기서 끝나지 않았다. 핵심 구성원 추리웨이가 타이난에 세운 studio2가 그 횃불을 이어받았다. 《고양이 바클리》에서 《팔계》까지, 이들은 타이난의 오래된 건물 안에서 20년의 고독을 견디며 타이완만의 애니메이션 미학을 얻어냈다.
-
----
+**30초 개요:**
+2004년 설립된 '서우잉창이'(SOFA Studio)는 한때 타이완 애니메이션계의 스타였으며, 궈타이창의 자금과 오리지널 꿈을 등에 업고 《무무허그》로 전 세계 80개국을 정복했다. 그러나 애니메이션 R&D의 높은 비용과 긴 회수 기간으로 인해 이 큰 도박은 결국 방향을 틀었다. 이야기는 끝나지 않았다. 핵심 멤버 추리웨이가 타이난에 설립한 studio2가 횃불을 이어받아, 《작은 고양이 바클리》에서 《팔계》까지, 타이난의 낡은 건물 안에서 20년의 고독을 타이완만의 애니메이션 미학으로 바꾸어냈다.
 
 ## 사라진 서광: 최고 부호의 아들이 애니메이션의 꿈과 만났을 때
 

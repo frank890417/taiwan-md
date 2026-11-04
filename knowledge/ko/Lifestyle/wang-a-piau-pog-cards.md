@@ -3,24 +3,20 @@ title: '왕자표: 선거 전단지에서 어린 시절 전쟁터까지, 타이�
 description: '1950년대, 타이완 학童들이 손에 쥔 원형 카드에는 천막극·만화 인물이 인쇄되어 있었으며, 교정 안에서 치열한 대결을 펼쳤다. 일본의 "면자" 게임에서 영감을 얻고, 플라스틱 산업의 번영으로 소재가 변천하면서, 왕자표는 세대를 초월한 집단 기억을 담고, 타이완 사회·문화의 변화를 반영한다.'
 date: 2026-04-27
 category: 'Lifestyle'
+tags: ['어린이 놀이', '왕자표', '타이완 문화', '레트로', '게임', '선거']
 subcategory: '休閒與娛樂'
-tags:
-  - '어린이 놀이'
-  - '왕자표'
-  - '타이완 문화'
-  - '레트로'
-  - '게임'
-  - '선거'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-04T18:03:29.258558+00:00'
 ---
 
 > **30초 요약:** 1950년대부터 타이완의 「왕자표」는 아이들의 손에 쥔 게임이자 또래 사이 지위의 척도였다—수집량이 많을수록 쉬는 시간 교정에서 더 큰 영향력을 가졌다. 중국의 잎놀이에서 유래하고 일본 어린이 놀이에 영감을 받은 이 카드들은 금속에서 플라스틱으로, 천막극에서 만화까지 다양한 그림과 규칙을 갖추며 여러 세대 타이완인의 집단 기억을 담고 있다. 특히 타이완에서는 선거 전단지까지 아이들이 변형해 「왕자표」로 만들며 어린 시절 전쟁터에서 또 다른 무기로 활용했다.

@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 5
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
-translatedAt: '2026-10-11T05:16:34+08:00'
+translatedAt: '2026-11-04T18:34:02.297613+00:00'
 ---
 
 > **30초 개요:** 타이완 타오위안 공항은 타이완과 세계를 잇는 유일한 강결합 고리이자, 십대건설 중 가장 야심 찬 공사였다. 1979년 개장 전 정치적 개명으로 권위주의 색채를 띠기도 했고, 2016년 한 차례 뇌우로 '수상 공항'으로 전락해 질타를 받기도 했다. 그러나 제3터미널이 8년 지연되고 예산이 1,283억 NT$로 증액되는 진통을 겪은 뒤, 2025년 말 북쪽 탑승동 개막과 2026년 초 여객 1,000만 명 돌파라는 강한 회복세가 이 국문이 아시아 선두 그룹을 따라잡기 위해 가속하고 있음을 선포했다. 이는 단순히 한 공항의 확장이 아니라, 포스트 코로나 시대 지정학적 전환 속에서 타이완이 북미·동남아 환승 허브 지위를 지켜내기 위한 수성전이다.
