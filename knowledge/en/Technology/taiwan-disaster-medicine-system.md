@@ -17,11 +17,13 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: 'a17bb572e'
-sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:496f4a9f790f5602'
 sourceBodyHash: 'sha256:c70ae774b0edc421'
-translatedAt: '2026-09-20T22:27:27.202517+00:00'
+translatedAt: '2026-11-04T17:24:33.181275+00:00'
 ---
 
 ## Opening: An 8-Minute Life-or-Death Decision
@@ -185,21 +187,23 @@ Yet the system also faces challenges:
 - Disaster medicine capability is relatively weak in remote areas
 - Personnel deployment may be insufficient in large-scale disasters
 
-## Conclusion: The Continuous Evolution of System Resilience
+## Conclusion: The Continuous Evolution of Institutional Resilience
 
-The true value of Taiwan's disaster medical system lies not in possessing the most advanced equipment or the largest workforce, but in establishing institutional mechanisms capable of **quickly imposing order amidst chaos**.
+The true value of Taiwan's disaster medical system lies not in possessing the most advanced equipment or the largest workforce, but in having established a set of institutional mechanisms capable of **rapidly establishing order amidst chaos**.
 
-From the painful lessons of the 921 earthquake to the mature operations during the Hualien earthquake, Taiwan has proven over 25 years that even a small nation can build a world-class disaster medical system. The key realization is that the core challenge of disaster medicine is not a technical one, but an institutional one: who is on duty, who commands, who coordinates, and who decides.
+From the blood and tears of the 921 earthquake to the mature operations during the Hualien earthquake, Taiwan has proven over the past 25 years that a small nation can construct a world-class disaster medical system. The key lies in recognizing that the core challenge of disaster medicine is not a technical problem, but an institutional one: who is on duty, who commands, who coordinates, and who decides.
 
-When the next disaster strikes, what saves lives will not be the most expensive equipment, but the emergency room physicians working 24 hours a day, and the set of institutional protocols behind them—protocols tested through dozens of real-world scenarios.
+When the next disaster strikes, it will not be the most expensive equipment that saves lives, but the emergency physicians on duty 24 hours a day, and the institutional code behind them that has been tested through dozens of real-world combat scenarios.
 
 ---
 
 **Further Reading**:
 
-- [Medical Care Act](/en/society/medical-care-act) — The legal basis for disaster medicine is rooted in Article 1 of the Medical Care Act, which mandates "reasonable distribution of medical resources" and institutional stratification; this article's disaster scenarios reflect the practical operation of the Medical Care Act under extreme conditions.
-- [Taiwan Animal Drug Controversy](/en/society/taiwan-animal-drug-controversy) — Humans have emergency medical systems, 119 (emergency services), National Health Insurance (NHI), and DMAT; animal emergencies require itemized registration even for oxygen. The resource gap between the two systems is a mirror reflecting how this island prioritizes value.
-- [Taiwan COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — The dedicated wards and emergency room congestion in May 2021 represented the longest continuous stress test of this disaster medical system.
+- [Medical Act](/en/society/medical-care-act) — The legal basis for disaster medicine is rooted in Article 1 of the Medical Act regarding the "reasonable distribution of medical resources" and institutional classification regulations; the disaster scenarios discussed in this article represent the practical operation of the Medical Act under extreme conditions.
+- [Controversy over Veterinary Medicine in Taiwan](/en/society/taiwan-animal-drug-controversy) — Humans have an emergency medical system, 119, National Health Insurance, and DMAT; for animal emergencies, even oxygen requires itemized registration. The resource gap between these two systems is a mirror reflecting the value priorities of this island.
+- [COVID-19 and Vaccines in Taiwan](/en/society/taiwan-covid-pandemic-and-vaccines) — The specialized wards and emergency room congestion in May 2021 represented one of the longest continuous tests for this disaster medical system.
+
+---
 
 ## References
 

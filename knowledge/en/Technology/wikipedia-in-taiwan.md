@@ -1,7 +1,8 @@
 ---
 title: 'Wikipedia in Taiwan: Digital Sovereignty, Cultural Practice, and the Knowledge Mosaic of a Diverse Society'
 description: "From hosting Wikimania 2007 in Taipei to the Wikimedia Foundation's global action in 2021, Taiwan's Wikipedia community does more than battle systemic infiltration in the cloud — through Wiki Loves Monuments, GLAM partnerships, and education projects, it pushes the island's cultural heritage, academic perspectives, and Indigenous languages onto the global stage. This is a long march to defend an authentic self-image and deepen cultural resilience."
-category: Technology
+date: 2026-04-29
+category: 'Technology'
 tags:
   [
     'Wikipedia',
@@ -11,17 +12,19 @@ tags:
     'Indigenous languages',
     'legal cases',
   ]
+subcategory: '公民科技'
 author: 'idlccp1984'
-date: 2026-04-29
-readingTime: 35
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 35
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/維基百科.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
-translatedAt: '2026-05-01T01:46:13+08:00'
-featured: false
+translatedAt: '2026-11-04T17:21:10.037888+00:00'
 ---
 
 > **30-second overview:**
@@ -98,34 +101,34 @@ The history of Wikipedia in Taiwan is a journey from being defined by others to 
 
 ### References
 
-[^1]: **Wikimedia Taiwan** (2007). [Wikimania 2007 in Taipei](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei). _Retrieved: 2026-04-29_.
+[^1]: [Wikimania 2007 in Taipei](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei) — **Wikimedia Taiwan** (2007). _Retrieved: 2026-04-29_.
 
-[^2]: **Wikinews** (2007). [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan). _Retrieved: 2026-04-29_.
+[^2]: [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan) — **Wikinews** (2007). _Retrieved: 2026-04-29_.
 
-[^3]: **Business Weekly** (2007). [Using Knowledge to Let the World See Taiwan: Wikimania in Taipei](https://www.gvm.com.tw/article/47560). _Retrieved: 2026-04-29_.
+[^3]: [Using Knowledge to Let the World See Taiwan: Wikimania in Taipei](https://www.gvm.com.tw/article/47560) — **Business Weekly** (2007). _Retrieved: 2026-04-29_.
 
-[^4]: **Wikimedia Taiwan** (2020). [Taiwan Participant in Global Wiki Loves Monuments Wins 15th Place](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165). _Retrieved: 2026-04-29_.
+[^4]: [Taiwan Participant in Global Wiki Loves Monuments Wins 15th Place](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165) — **Wikimedia Taiwan** (2020). _Retrieved: 2026-04-29_.
 
-[^5]: **Archives Active Intelligence** (2025). [Wiki and Transformation: An Introduction to GLAM Wiki](https://www.archives.gov.tw/tw/arctw/337-9105.html). _Retrieved: 2026-04-29_.
+[^5]: [Wiki and Transformation: An Introduction to GLAM Wiki](https://www.archives.gov.tw/tw/arctw/337-9105.html) — **Archives Active Intelligence** (2025). _Retrieved: 2026-04-29_.
 
-[^6]: **NCCU Center for Indigenous Studies** (2021). [Indigenous Language Wikipedia Timeline Exhibition](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline). _Retrieved: 2026-04-29_.
+[^6]: [Indigenous Language Wikipedia Timeline Exhibition](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline) — **NCCU Center for Indigenous Studies** (2021). _Retrieved: 2026-04-29_.
 
-[^7]: **Ministry of Education** (2021). [Outcomes of the Indigenous Language Wikipedia Construction Project](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63). _Retrieved: 2026-04-29_.
+[^7]: [Outcomes of the Indigenous Language Wikipedia Construction Project](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63) — **Ministry of Education** (2021). _Retrieved: 2026-04-29_.
 
-[^8]: **Wikiversity** (2022). [Research on Learning Outcomes of the Wikipedia Education Program for Taiwanese Students](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6). _Retrieved: 2026-04-29_.
+[^8]: [Research on Learning Outcomes of the Wikipedia Education Program for Taiwanese Students](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6) — **Wikiversity** (2022). _Retrieved: 2026-04-29_.
 
-[^9]: **Liberty Times** (2024). [Tsai Eng-meng Sues Wikipedia: First Instance Lost — Reasons Revealed](https://news.ltn.com.tw/news/society/breakingnews/4778999). _Retrieved: 2026-04-29_.
+[^9]: [Tsai Eng-meng Sues Wikipedia: First Instance Lost — Reasons Revealed](https://news.ltn.com.tw/news/society/breakingnews/4778999) — **Liberty Times** (2024). _Retrieved: 2026-04-29_.
 
-[^10]: **Open Culture Foundation (OCF)** (2025). [Revisiting Taiwan's Platform Law from Tsai Eng-meng's Wikipedia Lawsuit](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/). _Retrieved: 2026-04-29_.
+[^10]: [Revisiting Taiwan's Platform Law from Tsai Eng-meng's Wikipedia Lawsuit](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/) — **Open Culture Foundation (OCF)** (2025). _Retrieved: 2026-04-29_.
 
-[^11]: **Wikinews** (2020). [Man Sentenced for Vandalizing Wikipedia's Tsai Yi-yu Article](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91). _Retrieved: 2026-04-29_.
+[^11]: [Man Sentenced for Vandalizing Wikipedia's Tsai Yi-yu Article](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91) — **Wikinews** (2020). _Retrieved: 2026-04-29_.
 
-[^12]: **Central News Agency** (2021). [Woman Who Spread Claims That Unmarried Tsai Yi-yu's Spouse Was "Card Goddess" Acquitted at Second Instance](https://www.cna.com.tw/news/asoc/202010210356.aspx). _Retrieved: 2026-04-29_.
+[^12]: [Woman Who Spread Claims That Unmarried Tsai Yi-yu's Spouse Was "Card Goddess" Acquitted at Second Instance](https://www.cna.com.tw/news/asoc/202010210356.aspx) — **Central News Agency** (2021). _Retrieved: 2026-04-29_.
 
-[^13]: **Liberty Times** (2019). [Comment Calling Li Wan-yu "Fake and Pretentious" Ruled Public Insult, Fined](https://news.ltn.com.tw/news/society/breakingnews/2833150). _Retrieved: 2026-04-29_.
+[^13]: [Comment Calling Li Wan-yu "Fake and Pretentious" Ruled Public Insult, Fined](https://news.ltn.com.tw/news/society/breakingnews/2833150) — **Liberty Times** (2019). _Retrieved: 2026-04-29_.
 
-[^14]: **Wikimedia Foundation** (2021). [September 2021 Statement: Action Against Infiltration and Harassment](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667). _Retrieved: 2026-04-29_.
+[^14]: [September 2021 Statement: Action Against Infiltration and Harassment](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667) — **Wikimedia Foundation** (2021). _Retrieved: 2026-04-29_.
 
-[^15]: **Wikipedia** (2021). [2021 Wikimedia Foundation Actions Regarding Chinese Wikipedia](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8). _Retrieved: 2026-04-29_.
+[^15]: [2021 Wikimedia Foundation Actions Regarding Chinese Wikipedia](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **Wikipedia** (2021). _Retrieved: 2026-04-29_.
 
-[^16]: **Wikimedia Taiwan** (2025). [Continuation and Implementation: 2025 Annual Outlook](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/). _Retrieved: 2026-04-29_.
+[^16]: [Continuation and Implementation: 2025 Annual Outlook](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/) — **Wikimedia Taiwan** (2025). _Retrieved: 2026-04-29_.

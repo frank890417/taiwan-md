@@ -2,8 +2,7 @@
 title: 'Taiwan Sugar: From the Sweet Empire That Propped Up 74% of Foreign Exchange to the "Unconventional" Major Landlord With Record 2025 Profits'
 description: 'In 2025, Taiwan Sugar’s after-tax net profit hit a record high of NT$7.4 billion, yet this century-old enterprise has long stopped relying on sugar sales for revenue. From its role as a colonial pillar during the Japanese colonial period to a post-war economic lifeline, see how Taiwan Sugar has pivoted away from sugar, redefining "sweet returns" through orchids, biotechnology, and circular architecture.'
 date: 2026-05-03
-author: 'Taiwan.md Contributors'
-category: Economy
+category: 'Economy'
 tags:
   [
     'Taiwan Sugar',
@@ -12,15 +11,19 @@ tags:
     'Circular Economy',
     'Moth Orchids',
   ]
-readingTime: 8
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: '2026-05-03T21:10:03+08:00'
+translatedAt: '2026-11-04T16:51:09.164089+00:00'
 ---
 
 > **30-Second Overview:** In the 1950s, 74 out of every 100 NT dollars of Taiwan’s foreign exchange came from Taiwan Sugar’s sugar exports. Today, Taiwan Sugar’s sugar business runs an annual deficit, yet in 2025, it achieved a record high profit of NT$7.468 billion through fuel products, orchids, and land development. This largest landlord in all of Taiwan is pivoting from a "sugar manufacturer" to a leader in "circular economy."
