@@ -760,14 +760,27 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
           var res = await fetch('/api/articles.json');
           if (!res.ok) throw new Error('articles fetch failed');
           var raw = await res.json();
+          // 2026-11-04：語言讀 `lang` 欄位，不再靠「category 是語言代碼」
+          // （`category` 預定改成真分類，見 public/api/README.md）。舊版
+          // articles.json 沒有 `lang`，從 path 第一段推，規則同 generate-api.js。
+          // Mirrors RandomDiscovery.astro.
+          var articleLang = function (a) {
+            if (a.lang) return a.lang;
+            var p = (a.path || '').split('/');
+            return p.length >= 3 && /^[a-z]{2}(-[A-Za-z]{2,4})?$/.test(p[0])
+              ? p[0]
+              : defaultLangCode;
+          };
           var pool = raw.filter(function (a) {
-            var cat = (a.category || '').toLowerCase();
-            if (currentLang === defaultLangCode) {
-              // Default locale (no URL prefix) — exclude any article
-              // whose category is itself a language code.
-              if (langPrefixesLower.indexOf(cat) !== -1) return false;
-            } else if (cat !== currentLang) {
+            if (articleLang(a).toLowerCase() !== currentLang.toLowerCase()) {
               return false;
+            }
+            if (currentLang === defaultLangCode) {
+              // Default locale (no URL prefix) — a path that starts with a
+              // language folder (stray knowledge/zh-TW/ included) is not a
+              // routed original.
+              var first = (a.path || '').split('/')[0].toLowerCase();
+              if (langPrefixesLower.indexOf(first) !== -1) return false;
             }
             // Routed-category gate: URL's category segment (second-to-last)
             // must be a real routed category — excludes resources/* +
