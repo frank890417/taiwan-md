@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T05:45:30+08:00'
+translatedAt: '2026-11-04T22:13:11.400058+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Kue nanas adalah mikrokosmos dari pertemuan antara pertanian Taiwan dan seni pembuatan roti. Didirikan oleh Yan Xinfa di Taichung pada tahun 1945, kemudian mengembangkan isian labu air yang lembut karena hambatan ekspor nanas pada 1970-an, dan kembali ke sorotan publik setelah tahun 2009 melalui jalur "nanas lokal" oleh SunnyHills. Kini, nilai produksi "batangan emas" kecil ini telah melampaui NT$25 miliar, serta menjadi cita rasa Taiwan yang paling representatif di hati wisatawan mancanegara.

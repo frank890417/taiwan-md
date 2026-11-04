@@ -2,26 +2,30 @@
 title: 'Barbie Hsu: Dari Gadis Cantik Lucu ke "Ratu Tangguh" dengan "Dua Kematian Satu Luka Parah"'
 description: '1994 debut dengan S.O.S, 2001 meledak di Asia berkat "Meteor Garden", 2005 menetapkan label estetika dengan "Ratu Kecantikan", meninggal dunia pada Februari 2025 berusia 48 tahun. Ia menentang ketidakteraturan hidup dengan pengejaran kecantikan yang ekstrem, dan dalam badai pernikahan meninggalkan potret paling mendalam tentang dilem wanita kontemporer melalui pernyataan "dua kematian satu luka parah".'
 date: 2026-04-28
-author: 'idlccp1984'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
-  - 'Barbie Hsu'
-  - 'Da S'
-  - 'Wang Xiaofei'
-  - 'Koo Jun-yup'
-  - 'Meteor Garden'
-  - 'Ratu Kecantikan'
-  - 'Entertainment 100%'
-readingTime: 8
+  [
+    'Barbie Hsu',
+    'Da S',
+    'Wang Xiaofei',
+    'Koo Jun-yup',
+    'Meteor Garden',
+    'Ratu Kecantikan',
+    'Entertainment 100%',
+  ]
+subcategory: '電影與戲劇'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/徐熙媛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-04T22:30:47.602453+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Barbie Hsu (nama panggung Da S), lahir 1976, aktris, penyanyi, pembawa acara Taiwan. 1994 debut bersama adiknya Hsu Hsi-ti (Hsiao S) sebagai duo S.O.S, 2001 meledak di Asia berkat peran \"Shan Cai\" di _Meteor Garden_, 2005 _Ratu Kecantikan_ memicu tren kecantikan. Setelah dua kali menikah, 2024 menggejutkan publik dengan pernyataan \"sepuluh tahun pernikahan: dua kematian, satu luka parah\", 2 Februari 2025 meninggal dunia akibat pneumonia pasca-flu berusia 48 tahun.

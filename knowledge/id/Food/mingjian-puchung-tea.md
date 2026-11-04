@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-04T22:15:35.549175+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

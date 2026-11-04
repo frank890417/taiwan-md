@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-07-25T07:55:54+08:00'
+translatedAt: '2026-11-04T22:35:28.915171+00:00'
 ---
 
 > **30 Detik Ringkasan**
