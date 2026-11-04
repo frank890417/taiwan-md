@@ -2,8 +2,7 @@
 title: "Tsai A-ga : du pionnier des créateurs web à l'engagement social, l'homme qui a transformé 18 ans de popularité en destin"
 description: "En 2022, Tsai A-ga, le premier créateur web taïwanais à atteindre le million d'abonnés, a vendu son appartement pour fonder l'association « Hao Li Jia » de protection sociale, transformant 18 ans d'influence accumulée en vocation sociétale. Du film de 2008 brûlant le drapeau olympique de Pékin au record de 2022 où son fils Tsai Tao-kuei est devenu le « plus jeune créateur à un million d'abonnés », Tsai A-ga a, au milieu de la célébrité, des controverses et des trahisons, toujours préservé cette âme de travailleur social désireux d'apporter de l'espoir aux enfants défavorisés."
 date: 2026-04-23
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Tsai A-ga',
@@ -13,15 +12,19 @@ tags:
     'protection sociale',
     'culture taïwanaise',
   ]
-readingTime: 12
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
-translatedFrom: People/蔡阿嘎.md
-sourceCommitSha: 'f5975a22'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/蔡阿嘎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-04T22:01:05.003612+00:00'
 ---
 
 > **En bref (30 secondes) :**

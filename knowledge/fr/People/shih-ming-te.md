@@ -2,9 +2,7 @@
 title: 'Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti'
 description: "Après l'incident de Kaohsiung en 1979, Shih Ming-teh, désigné comme cerveau de l'affaire, prononça un plaidoyer éloquent devant le tribunal militaire : il ne reconnut aucun crime, ne demanda aucune clémence, et fut finalement condamné à la prison à vie. Il passa au total plus de vingt-cinq ans incarcéré, devenant l'une des figures les plus marquantes du mouvement démocratique taïwanais. Mais en 2006, celui qui avait contribué à bâtir le Parti démocrate progressiste (DPP) se retourna contre le pouvoir en lançant le mouvement des Chemises rouges contre Chen Shui-bian. Le 15 janvier 2024, jour de son 83e anniversaire, il quitta ce monde en emportant cette contradiction irrésolue."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'mouvement démocratique',
@@ -13,15 +11,19 @@ tags:
     'mouvement des Chemises rouges contre Chen Shui-bian',
     'dirigeant politique',
   ]
-readingTime: 9
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-05-25T21:07:36Z'
+translatedAt: '2026-11-04T21:49:07.892275+00:00'
 ---
 
 # Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti

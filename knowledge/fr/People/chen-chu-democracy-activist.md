@@ -1,19 +1,21 @@
 ---
-title: 'Chen Chu'
-description: "De la condamnée à mort de l'Incident de Kaohsiung à « Mama Hua », la « Dame du Sud », elle est le témoin le plus éclatant de la transition démocratique taïwanaise."
+title: 'Chen Ju'
+description: "De condamnée à mort de l'incident de Kaohsiung à la « Maman Fleur » qui dominait le sud, elle est le témoin le plus marquant de la transition démocratique de Taïwan."
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Politique', 'Mouvement démocratique', 'Kaohsiung', "Droits de l'homme"]
 subcategory: '政治與民主'
-tags: ['政治', '民主運動', '高雄', '人權']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-05-01T22:19:06+08:00'
+translatedAt: '2026-11-04T22:15:14.924776+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
