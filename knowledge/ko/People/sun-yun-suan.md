@@ -1,20 +1,23 @@
 ---
 title: '손윤쉐안: 어둠 속에서 대만을 밝힌 엔지니어 총리'
 description: '전후 폐허 속 다섯 달 만의 복전 기적에서 반도체 산업에 대한 선제적 투자까지, 손윤쉐안은 엔지니어다운 실용성과 청렴함으로 대만 현대화의 초석을 놓았다.'
-category: People
+date: 2026-04-30
+category: 'People'
 tags:
   ['손윤쉐안', '대만전력공사', '반도체', '공업기술연구원', '10대 건설 프로젝트']
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
-date: 2026-04-30
-readingTime: 8
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: People/孫運璿.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/孫運璿.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-05-16T22:35:46Z'
-featured: false
+translatedAt: '2026-11-04T22:14:44.857802+00:00'
 ---
 
 > **30초 개요:** 대만의 현대화 과정에서 **손윤쉐안**(孫運璿, 1913–2006)은 결코 빼놓을 수 없는 이름이다. 그는 "영원한 총리"라 불리며, 기술 관료의 전문성, 청렴자수(淸廉自守)의 인격, 그리고 국가 전환의 기점에서의 과감한 결단이 하나로 논 공적 이미지를 지닌다. 전후 초기 폐허 속에서 전력 복구에 매진한 것에서 1970년대 반대를 무릅쓰고 반도체 산업을 추진하기까지, 손윤쉐안의 일생은 대만이 황무지에서 번영으로 나아간 창업사라 할 수 있다 [^1][^2].

@@ -2,9 +2,7 @@
 title: '스밍더: 25년의 옥고, 끝내 자신의 정당을 향해 깃발을 들다'
 description: '1979년 메이리다오 사건 이후, 스밍더는 주모자라는 이름으로 군사법정에서 당당히 최후진술을 했다. 그는 죄를 인정하지도, 용서를 구하지도 않았고, 결국 무기징역을 선고받았다. 그는 전후로 25년을 감옥에서 보냈으며, 대만 민주화 운동의 가장 중요한 수난자 가운데 한 명이었다. 그러나 2006년, 민주진보당의 기반을 닦는 데 기여했던 그는 돌아서서 천수이볜 퇴진을 요구한 붉은 셔츠 군중 운동을 일으켰다. 2024년 1월 15일, 그의 83번째 생일에 그는 이 풀리지 않는 모순을 안은 채 세상을 떠났다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     '민주화 운동',
@@ -13,17 +11,19 @@ tags:
     '반천수이볜 붉은 셔츠 운동',
     '정치 지도자',
   ]
-readingTime: 9
-#   whats_excluded: "中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控"
-#   where_it_hedges: "坐牢確切年數（各來源介於25-26年，採較保守的二十五年以上表述）；1962年被捕的政治組織確切名稱（史料略有出入）"'
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T21:48:56.206772+00:00'
 ---
 
 # 스밍더: 25년의 옥고, 끝내 자신의 정당을 향해 깃발을 들다

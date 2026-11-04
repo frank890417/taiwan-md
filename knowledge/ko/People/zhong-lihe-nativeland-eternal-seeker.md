@@ -3,28 +3,20 @@ title: '종리화: 미농 1915, 피바다에 쓰러진 필경자'
 description: '1915년 12월 15일 고양 미농 객가 가정에서 출생. 1938년 중국 동북으로 건너가 1946년 대만 귀환. 대표작 《릿산농장》(장편), 《원향인》(단편, 1959년 완성), 《가난한 부부》. ‘피바다에 쓰러진 필경자’라 불리며 종종 ‘대만 토착문학의 아버지’라 존경받지만(이 호칭은 논란 있음). 1960년 8월 4일, 혈액을 토하며 사망, 향년 44세.'
 date: 2026-03-19
 category: 'People'
-tags:
-  - '문학'
-  - '토착문학'
-  - '원향인'
-  - '릿산농장'
-  - '미농'
-  - '객가'
+tags: ['문학', '토착문학', '원향인', '릿산농장', '미농', '객가']
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "「倒在血泊裡的筆耕者」是他最準確的人生縮影，不是比喻，他真的在修改稿件時咳血去世。"
-#   whats_excluded: "每部小說的逐章情節分析；美濃公學校學籍記錄；東北生活細節"
-#   where_it_hedges: "「台灣鄉土文學之父」稱號有爭議（賴和才是公認的台灣新文學之父）；《原鄉人》為短篇（非長篇），1959年寫成；已修正開頭「45年」幻覺為44歲"
-translatedFrom: People/鍾理和.md
-sourceCommitSha: '0f8fae0a'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/鍾理和.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T22:12:14.269892+00:00'
 ---
 
 # 종리화: 미농 1915, 피바다에 쓰러진 필경자

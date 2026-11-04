@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "《삼삼집간》에서 《비정도시》의 스팬으로 접근, 그녀는 단순한 각본가가 아니라 구효현과 함께 하나의 영상 언어를 구축한 공동 저자이다."
-#   whats_excluded: "각 영화 전체 각본 분석; 삼삼집간 역대 작가 목록; 학술 연구 논문 목록"
-#   where_it_hedges: "출생지 위키백과 기준 타이베이 (가오슝 펑산설도 있으나 타이베이로 함); 구효현 치매 확인 시점 (P0⚠️ 구체 연도 미확인); 첫 연출작 《하신을 찾아서》 상세 (P0⚠️ 미확인)"
-translatedFrom: People/朱天文.md
-sourceCommitSha: '0f8fae0a'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/朱天文.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T21:46:35.988315+00:00'
 ---
 
 # 주천문: 1956 타이베이, 《삼삼집간》에서 《비정도시》 베니스 금사까지
