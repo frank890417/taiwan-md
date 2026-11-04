@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-07-26T08:51:00+08:00'
+translatedAt: '2026-11-04T23:16:21.474369+00:00'
 ---
 
 > **ملخص في 30 ثانية:** جوزه جوزينو (1920–2015) كانت متبرعة تايوانية مشهورة، استمرت في إدارتها "البنتون العشرة دولار" تحت جسر المدينة في كاوشيونغ. بدأت بتقديم وجبات مجانية للعمال من بنغو، ثم اضطرت لجمع عشرة دولارات بسبب التكاليف، لكنها ظلت تجاهل التكلفة وتقديم وجبات كافية. تركت أثرًا كبيرًا؛ حيث جاء موقفتها إلى أكثر من ثلاثة آلاف شخص في الطوارح، وما زالت روحها تمثل دفء المجتمع التايواني.

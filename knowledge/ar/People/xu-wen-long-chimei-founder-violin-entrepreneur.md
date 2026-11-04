@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-07-26T23:43:24+08:00'
+translatedAt: '2026-11-04T23:56:34.982075+00:00'
 ---
 
 # شو وين لونغ: من تايبيه 1928 إلى مؤسسة "تشي مي" 1959، مؤسس متحف أكثر الكمان في العالم

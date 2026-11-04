@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:fa94afa39f837939'
 sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-08-02T13:22:35+08:00'
+translatedAt: '2026-11-04T23:09:04.892913+00:00'
 ---
 
 # هوانغ تشون مينغ: لودونغ 1935، من «أيام النظر إلى البحر» إلى «دمية الابن الكبيرة» كاتب الشخصيات الصغيرة

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-07-25T10:53:27+08:00'
+translatedAt: '2026-11-04T23:48:00.593862+00:00'
 ---
 
 > **نظرة سريعة في 30 ثانية:** رز القنابل الخيطر من أبرز المأكولات الرمادية للأصليين في تايوان، ومشتق من الذكاء الصيادي عندما كان الفقراء في الجبال يفتقرون إلى الأواني النارية. يعتمد على قنابل الخيط البيجي الناشئة، التي تُحافظ على درجة حرارة 100°م تحت أشعة الكarbon دون أن تذوب، وهو تطبيق عملي للفيزياء في الثقافة الصيادة.
