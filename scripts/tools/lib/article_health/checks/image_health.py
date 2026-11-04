@@ -381,6 +381,27 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                     editorial_ref=EDITORIAL_REF,
                 )
 
+    # ── 2.5 封面圖必填（2026-11-04 全站普查 §五.3 / §八 #9）────────────────────
+    # frontmatter `image` 是卡片牆與文章頂的唯一圖源（OG 社群卡另由 generate-og-images
+    # 產，跟它無關）。普查時 904/1,156 篇沒有封面、扛 71% 文章流量。新文章走 REWRITE
+    # 時要有：rewrite-stage-4 / 4-5 把 `cover_required_severity` 升 hard；ci-deploy /
+    # pre-commit 吃預設 warn（投稿路徑與存量只提醒不擋）。只看 zh-TW 文章（譯文沿用原文封面）。
+    if not has_fm_image and not _is_excluded_from_count_gate(str(target.path)):
+        note = target.frontmatter.get("imageNote")
+        yield Violation(
+            check=CHECK_NAME,
+            severity=_parse_severity(options.get("cover_required_severity"), Severity.WARN),
+            message=(
+                "沒有封面圖（frontmatter image）——卡片退成分類色塊、文章頂退成分類預設圖"
+                + (f"；已記 imageNote：{str(note)[:40]}" if note else "")
+            ),
+            fix_suggestion=(
+                "正文已有本地圖 → scripts/tools/cover-promote.py 升格；只有外站圖 → "
+                "image-ingest.mjs ingest --role hero 收進庫再設 image:（授權 CC BY／BY-SA／CC0／PD）"
+            ),
+            editorial_ref=EDITORIAL_REF,
+        )
+
     # ── 3. ## 圖片來源 section when CC attribution exists ────────────────────
     has_attribution = (
         target.frontmatter.get("imageCredit")

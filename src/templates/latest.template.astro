@@ -184,12 +184,16 @@ const navMonthsData = navMonths.map((m) => ({
     <div
       class="mx-auto max-w-[var(--container-wide)] px-6 pb-24 max-[768px]:px-4"
     >
-      {/* Category + 查證階段 filter chips (two rows, both AND-combined client-side) */}
+      {
+        /* Category + 查證階段 filter chips (two rows, both AND-combined client-side) */
+      }
       <div
         id="latest-filters"
         class="sticky top-[64px] z-20 -mx-4 mb-6 flex flex-col gap-2 border-b border-[#e2e8f0] bg-white/95 px-4 py-3 backdrop-blur-sm max-[768px]:top-[56px]"
       >
-        <div class="flex flex-wrap gap-2 max-[768px]:flex-nowrap max-[768px]:overflow-x-auto">
+        <div
+          class="flex flex-wrap gap-2 max-[768px]:flex-nowrap max-[768px]:overflow-x-auto"
+        >
           <button
             class="latest-chip whitespace-nowrap rounded-full border border-[#10b981] bg-[#10b981] px-3 py-1.5 text-xs font-semibold text-white transition-all"
             data-cat="all"
@@ -233,9 +237,7 @@ const navMonthsData = navMonths.map((m) => ({
                   data-stage="incubating"
                 >
                   🌱 {t('curation.stage.incubating')}
-                  <span class="ml-1 opacity-60">
-                    {stageCounts.incubating}
-                  </span>
+                  <span class="ml-1 opacity-60">{stageCounts.incubating}</span>
                 </button>
               )}
               {stageCounts.standard > 0 && (
@@ -331,6 +333,7 @@ const navMonthsData = navMonths.map((m) => ({
                         footnotes={a.footnotes}
                         tags={a.tags}
                         curation={a.curation}
+                        curationReason={a.curationReason}
                         openIn="same-tab"
                         extraClass="latest-row [content-visibility:auto] [contain-intrinsic-size:auto_140px]"
                         dataAttrs={{

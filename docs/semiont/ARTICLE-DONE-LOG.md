@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-11-02
-last_session: '2026-11-02-twmd-desk（中華職棒 PR #1948 歸檔；沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
+last_updated: 2026-11-04
+last_session: '2026-11-04-twmd-desk（全面進化歸檔）  # 前：2026-11-02-twmd-desk（中華職棒 PR #1948 歸檔；沈伯洋＋蔣萬安選舉年對稱 EVOLVE 歸檔）  # 前：2026-10-20-twmd-maintainer-manual（tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔＋補歸今早 #1874 支語誤判學）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0 由貢獻者 tboydar 以 PR #1826 交稿，merge 後歸檔：台灣與亞運）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿，merge 後歸檔：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,21 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 全面進化 2026-11-04 — twmd-desk 完成（GA／SC 資料驅動：5 篇 EVOLVE、1 篇 NEW、SEO 與頁面、全站與網站健檢）
+
+- **規劃與資料**：[reports/evolve-plan-2026-11-04.md](../../reports/evolve-plan-2026-11-04.md)、[reports/evolve-2026-11-04.md](../../reports/evolve-2026-11-04.md)（扣自動流量後真人 6.2 萬／28 天；搜尋真實點擊率 1.29%）
+- **EVOLVE（REWRITE-PIPELINE-SINGLE，分席審稿＋分段查證）**：
+  - 〈鐵牛杰哥〉腳註 18→44，刪重複與查無來源段落，改正頑GAME 解散日、台詞歸屬、「你爸爸是杰哥」無出處等
+  - 〈鱔魚意麵〉1,460→4,681 字、腳註 0→24；「27 秒」改成沙卡里巴老牌一家的招牌，刪「以鱔仿鰻」「日本官員折服」「米其林」；姊妹篇〈台南中西區美食小吃文化〉同步止血
+  - 〈地瓜球〉1,518→4,723 字、腳註 14→24、圖 0→7
+  - 〈這群人〉腳註 9→56，開場回答「解散了沒」，七人成員表
+  - 〈齊柏林〉3,532→6,686 字、腳註 0→41；墜機段照飛安會最終報告措辭
+- **NEW**：〈奇拿富〉4,889 字、24 腳註（主 session 補分席：Sonnet 查證 ❌2 ⚠️18、Opus 2.5-R 7 必改，已修；學名用 *Trichodesma calycosum*）
+- **SEO**：中英文 20 篇 title／description（美麗島事件英文補 Kaohsiung Incident 等）；全聯十語錯品牌名、尼克星阿文音譯
+- **頁面與模板**：用語詞條 306 頁標題改答字義、選舉時程、企業、台灣形狀／地圖分工、時間軸、分類頁、預算、用語首頁、探索數字
+- **健檢**：[全站文章普查](../../reports/article-health-census-2026-11-04.md)（167 篇標進化中、說明條拆待查證／待擴寫、封面升格與分類封面署名、article-census.py＋curation-gap）；[網站健檢](../../reports/site-health-2026-11-04.md)（11 項修正，7 項待決）
+- **待補**：INBOX〈台灣迷因〉P2；網站健檢 7 項與重開每日重寫排程待哲宇決定
 
 ### 中華職棒 — 2026-11-02 twmd-desk 歸檔（貢獻者 tboydar 以 PR #1948 交稿，當日 merge＋heal）
 

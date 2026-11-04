@@ -10,7 +10,7 @@ export const taiwanShapeUI = {
       'County borders — colored administrative divisions.',
     // Meta
     'taiwanShape.meta.title':
-      "Taiwan's Shape — Open-Source Maps, SVG, GeoJSON & TopoJSON Data",
+      'Free Taiwan Map Download: County Maps in SVG, GeoJSON & TopoJSON',
     'taiwanShape.meta.description':
       "Complete open-source Taiwan map data: SVG outlines, TopoJSON for counties and townships, usage examples in D3.js, Leaflet, Python, and Vue. AI keeps drawing Taiwan wrong — here's the correct data.",
 
@@ -745,9 +745,12 @@ export const taiwanShapeUI = {
   de: {
     'taiwanShape.svg.icon.desc':
       'Schlichte, ausgefüllte Kontur — ideal für Icons, Favicons und Schaltflächen.',
-    'taiwanShape.svg.simplemaps.desc': 'Saubere Vektordatei — ideal zum Einbetten in Webseiten.',
-    'taiwanShape.svg.locationMap.desc': 'Lagekarte — mit Breiten- und Längengradraster sowie Stadtmarkierungen.',
-    'taiwanShape.svg.politicalDivision.desc': 'Landkreis- und Stadtgrenzen — farbige Verwaltungsgliederung.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Saubere Vektordatei — ideal zum Einbetten in Webseiten.',
+    'taiwanShape.svg.locationMap.desc':
+      'Lagekarte — mit Breiten- und Längengradraster sowie Stadtmarkierungen.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Landkreis- und Stadtgrenzen — farbige Verwaltungsgliederung.',
     // Meta
     'taiwanShape.meta.title':
       'Die Form Taiwans — quelloffener Kartendatensatz: SVG, GeoJSON, TopoJSON',
@@ -765,7 +768,8 @@ export const taiwanShapeUI = {
     'taiwanShape.story.p2':
       'Die Form richtig darzustellen ist nicht nur ein Detail des Designs, sondern eine Frage der Identität. Diese Seite versammelt alle quelloffenen Kartenmaterialien, die wir auf taiwan.md verwenden, damit alle Taiwan in ihren eigenen Projekten präzise darstellen können.',
 
-    'taiwanShape.comparison.title': '🤖 vs. 🇹🇼 — AI zeichnet es wirklich jedes Mal falsch',
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — AI zeichnet es wirklich jedes Mal falsch',
     'taiwanShape.comparison.aiLabel': 'Von AI erzeugt (falsch)',
     'taiwanShape.comparison.correctLabel': 'Korrekte Version (Wikipedia)',
 
@@ -776,20 +780,24 @@ export const taiwanShapeUI = {
     'taiwanShape.svg.licenseNote':
       'Alle SVG-Dateien stehen unter einer Creative-Commons-Lizenz oder sind gemeinfrei. Eine Quellenangabe ist wünschenswert, aber nicht erforderlich.',
 
-    'taiwanShape.geo.heading': '🌐 TopoJSON — interaktive Karte der Landkreise und Städte',
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — interaktive Karte der Landkreise und Städte',
     'taiwanShape.geo.intro1':
       'Für eine interaktive Karte — mit Zoom, Mouseover und datenabhängiger Einfärbung — brauchen Sie keine SVG-Pfade, sondern echte Geokoordinaten. Wir haben TopoJSON-Dateien zusammengestellt, die aus Waiting’s taiwan-vue-components (MIT-Lizenz, 2018) extrahiert wurden.',
     'taiwanShape.geo.intro2':
       'TopoJSON ist eine komprimierte Variante von GeoJSON: Gemeinsame Grenzen benachbarter Landkreise und Städte werden nur einmal gespeichert, wodurch die Datei 80% kleiner ist. Mit topojson-client lässt sie sich in Echtzeit zurück in GeoJSON umwandeln.',
-    'taiwanShape.geo.formatHeading': 'TopoJSON vs GeoJSON — welches Format wählen?',
+    'taiwanShape.geo.formatHeading':
+      'TopoJSON vs GeoJSON — welches Format wählen?',
     'taiwanShape.geo.formatTopo':
       'TopoJSON: kleine Dateien, gemeinsame Grenzen benachbarter Gebiete, ideal für interaktive Webkarten.',
     'taiwanShape.geo.formatGeo':
       'GeoJSON: einfaches Format, direkt kompatibel mit Python geopandas, QGIS und den meisten GIS-Werkzeugen.',
-    'taiwanShape.geo.countryHeading': 'Landesweiter Umriss (22 Landkreise und Städte)',
+    'taiwanShape.geo.countryHeading':
+      'Landesweiter Umriss (22 Landkreise und Städte)',
     'taiwanShape.geo.countryDesc':
       'Eine etwa 21 KB große TopoJSON-Datei mit 22 Landkreisen und Städten einschließlich der regierungsunmittelbaren Städte, jeweils als eigenständiges Feature. Der Ausgangspunkt für Choroplethenkarten.',
-    'taiwanShape.geo.townsHeading': 'Gemeindedaten für alle 22 Landkreise und Städte',
+    'taiwanShape.geo.townsHeading':
+      'Gemeindedaten für alle 22 Landkreise und Städte',
     'taiwanShape.geo.townsDesc':
       'Wir haben TopoJSON-Dateien auf Gemeindeebene für alle 22 Landkreise und Städte zusammengestellt, die aus demselben Quell-Repo extrahiert wurden.',
 
@@ -805,7 +813,8 @@ export const taiwanShapeUI = {
     'taiwanShape.examples.cssTitle': 'CSS — Hintergrundbild',
     'taiwanShape.examples.d3Title': 'D3.js — interaktive Choroplethenkarte',
     'taiwanShape.examples.pythonTitle': 'Python — geopandas',
-    'taiwanShape.examples.leafletTitle': 'Leaflet — Overlay auf einer Kachelkarte',
+    'taiwanShape.examples.leafletTitle':
+      'Leaflet — Overlay auf einer Kachelkarte',
     'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
 
     'taiwanShape.others.heading': '📚 Weitere quelloffene Datenquellen',
@@ -847,8 +856,9 @@ export const taiwanShapeUI = {
     'taiwanShape.svg.locationMap.desc': '位置地圖 — 含經緯度網格與城市標記。',
     'taiwanShape.svg.politicalDivision.desc': '縣市邊界 — 彩色行政區劃。',
     // Meta
+    // 主查詢是「台灣地圖」「台灣縣市地圖」「台灣地圖圖片」：一般讀者要圖檔，格式名留後段（2026-11-04 evolve）
     'taiwanShape.meta.title':
-      '台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON',
+      '台灣地圖免費下載：縣市地圖 SVG、GeoJSON、TopoJSON 開源資料',
     'taiwanShape.meta.description':
       '完整的開源台灣地圖資料：SVG 輪廓、縣市與鄉鎮級 TopoJSON、D3.js / Leaflet / Python / Vue 使用範例。AI 畫出來的台灣永遠是錯的，這裡是對的。',
 

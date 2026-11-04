@@ -1,5 +1,5 @@
 ---
-title: "Taiwan's Fuel Pricing Mechanism and CPC: The NT$36 Saved, Booked First Under the Name of a Company Standing at the Front"
+title: "Taiwan's Fuel Pricing and CPC: The NT$36 Saved at the Pump Goes on the State Oil Company's Tab"
 description: 'On March 22, 2026, a woman in Yunlin saved NT$36 by filling up before a price hike — the same day the Premier said people should thank CPC at the pump. From the 2008 freeze to this year’s war-driven surge, Taiwan lets this state company, at a 93% debt ratio, absorb spikes first and recoup them via supplementary budgets. Savings split evenly per liter; who benefits most has never been tallied.'
 date: 2026-09-18
 category: 'Economy'
@@ -37,6 +37,10 @@ sourceCommitSha: 'ff39af227'
 sourceContentHash: 'sha256:abb5ee8d06aeeded'
 sourceBodyHash: 'sha256:dba211101379a553'
 translatedAt: '2026-09-27T01:37:18+08:00'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 1,985 曝光 5 點擊；title 的 Booked First Under the Name of a Company 是逐字直譯，讓頁面撞上無意義查詢「booked first day in」1,429 曝光。title 改自然英文，description 不動'
 ---
 
 # Taiwan's Fuel Pricing Mechanism and CPC: The NT$36 Saved, Booked First Under the Name of a Company Standing at the Front

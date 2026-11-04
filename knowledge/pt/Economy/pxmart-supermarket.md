@@ -16,6 +16,10 @@ sourceCommitSha: '160f6cb59'
 sourceContentHash: 'sha256:ad67e5c5d381f448'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: '2026-11-02T02:03:01.703055+00:00'
+evolveHistory:
+  - date: 2026-11-04
+    action: translation-fix
+    reason: '品牌錯譯：善美得被譯成 Wellcome（頂好）→ Shanmeide。只改錯名，不重翻'
 ---
 
 > **Resumo em 30 segundos:** Em 1998, o magnata imobiliário Lin Min-hsiung assumiu as estações de bem-estar militar, público e docente, que acumulavam prejuízos consecutivos e contavam com apenas 66 lojas. Como "forasteiro", estabeleceu a linha de sobrevivência de "20% mais barato, 2% de lucro" e, a pulso, abriu caminho para o supermercado no espaço apertado entre o 7-Eleven e os gigantes do atacarejo. Hoje, o PX Mart é o senhor do varejo com faturamento anual acima de 200 bilhões e 1.200 pontos de venda, mas as controvérsias de monopólio e as dores da transformação digital testam este "plataforma de vida" para os próximos vinte anos.
@@ -36,7 +40,7 @@ Estabeleceu um "mandamento": os produtos do PX Mart deviam ser 20% mais baratos 
 
 A virada do PX Mart ocorreu em 2006. Na época, o PX Mart contratou a Ogilvy e lançou uma série de comerciais estrelados pelo "Sr. PX Mart", Chiu Yen-hsiang. Nos anúncios, não havia decoração luxuosa, apenas o Sr. PX Mart, de expressão impassível, enumerando como o PX Mart economizava em publicidade, em uniformes bonitos, só para baixar o preço. Esse humor "honesto a ponto de ser constrangedor" acertou em cheio o coração dos consumidores taiwaneses, transformando o PX Mart de "loja onde vão os pobres" em "símbolo do consumo inteligente".
 
-Com o número de lojas ultrapassando 250, o PX Mart finalmente virou o jogo para o lucro. Lin Min-hsiung começou a mostrar sua ambição de fusões e aquisições, absorvendo sucessivamente a Wellcome (善美得), o Supermercado de Produtos Agrícolas de Taipei, o Supermercado Quanmai, e, em 2021, o caso que abalou o setor: "PX Mart adquire RT-Mart". Essa série de movimentos fez o PX Mart sair do papel de simples supermercado, entrar no atacarejo e no frescor, mudando por completo o hábito de compra dos taiwaneses.
+Com o número de lojas ultrapassando 250, o PX Mart finalmente virou o jogo para o lucro. Lin Min-hsiung começou a mostrar sua ambição de fusões e aquisições, absorvendo sucessivamente a Shanmeide (善美得), o Supermercado de Produtos Agrícolas de Taipei, o Supermercado Quanmai, e, em 2021, o caso que abalou o setor: "PX Mart adquire RT-Mart". Essa série de movimentos fez o PX Mart sair do papel de simples supermercado, entrar no atacarejo e no frescor, mudando por completo o hábito de compra dos taiwaneses.
 
 "Mexer no preço é o mandamento do presidente." O CEO Hsieh Chien-nan descreveu assim a insistência de Lin Min-hsiung no barato. Mesmo em 2025, com a inflação disparada, o PX Mart ainda busca, através de modelos de agricultura contratada como o "Feijão Vermelho Águia", equilibrar a estabilidade dos preços agrícolas e o bolso do consumidor.
 

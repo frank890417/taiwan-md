@@ -74,21 +74,16 @@ function parseFrontmatter(content) {
 }
 
 /**
- * 計算文章閱讀時間（字數 / 250 字/分鐘）
+ * 計算文章閱讀時間（分鐘）
+ *
+ * 2026-11-04 site-health：改成跟文章頁同一條公式（article.template.astro 的
+ * estimatedReadingTime：空白壓成一格後的字元數 / 500，四捨五入，至少 1）。
+ * 舊版是「去 markdown 後字元數 / 250 無條件進位」，API 的數字因此是頁面上的
+ * 將近兩倍（〈二二八事件〉頁面 16 分鐘、API 28 分鐘；英文版 55 對 104）。
+ * 兩邊不一致時，讀 API 的 App 會跟網站各說各話。
  */
 function calculateReadingTime(content) {
-  // 移除 markdown 標記
-  const plainText = content
-    .replace(/#+\s/g, '') // headers
-    .replace(/\*\*([^*]+)\*\*/g, '$1') // bold
-    .replace(/\*([^*]+)\*/g, '$1') // italic
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links
-    .replace(/```[\s\S]*?```/g, '') // code blocks
-    .replace(/`([^`]+)`/g, '$1'); // inline code
-
-  const wordCount = plainText.length;
-  const minutes = Math.max(1, Math.ceil(wordCount / 250));
-  return minutes;
+  return Math.max(1, Math.round(content.replace(/\s+/g, ' ').length / 500));
 }
 
 /**
@@ -115,11 +110,31 @@ function getAllMarkdownFiles(dir, baseDir = dir) {
 
 /**
  * 從檔案路徑推導分類
+ *
+ * ⚠️ 歷史包袱（2026-11-04 site-health 註記）：這裡回的是路徑第一段，所以
+ * 譯文（`en/History/x.md`）的 `category` 是語言代碼 `en`，不是分類。
+ * 首頁骰子（RandomDiscovery）、/explore 隨機鈕、mcp.taiwan.md worker、
+ * npm CLI 都靠「category 是語言代碼 ⇒ 是譯文」來分語言，直接改成真分類會
+ * 讓 MCP worker 把一萬多篇譯文當成中文原文。所以這個欄位維持原樣，另外加
+ * `lang` 與 `categorySlug` 兩個正確的欄位給新的使用者（見 processMarkdownFile）。
+ * 要不要做破壞性遷移，交給 reports/site-health-2026-11-04.md 的決策項。
  */
 function getCategoryFromPath(filePath) {
   const relativePath = path.relative(KNOWLEDGE_DIR, filePath);
   const pathParts = relativePath.split(path.sep);
   return pathParts[0] || 'Misc';
+}
+
+// `[lang/]Category/slug.md` → { lang, categoryFolder }。第一段是語言代碼
+// （knowledge/ 下的小寫語言資料夾）才算譯文，否則是 zh-TW 原文。
+function getLangAndCategory(filePath) {
+  const parts = path.relative(KNOWLEDGE_DIR, filePath).split(path.sep);
+  const isTranslation =
+    parts.length >= 3 && /^[a-z]{2}(-[A-Za-z]{2,4})?$/.test(parts[0]);
+  return {
+    lang: isTranslation ? parts[0] : 'zh-TW',
+    categoryFolder: parts.length >= 2 ? parts[parts.length - 2] : 'Misc',
+  };
 }
 
 /**
@@ -155,9 +170,15 @@ function processMarkdownFile(filePath) {
     const { frontmatter, content: bodyContent } = parseFrontmatter(content);
 
     const category = getCategoryFromPath(filePath);
+    const { lang, categoryFolder } = getLangAndCategory(filePath);
     const fileName = path.basename(filePath, '.md');
     const url = generateArticleUrl(filePath);
-    const readingTime = calculateReadingTime(bodyContent);
+    // 跟文章頁一樣：frontmatter readingTime 優先，沒有才估算。
+    const fmReading = parseInt(frontmatter.readingTime, 10);
+    const readingTime =
+      Number.isFinite(fmReading) && fmReading > 0
+        ? fmReading
+        : calculateReadingTime(bodyContent);
 
     return {
       title: frontmatter.title || fileName,
@@ -174,6 +195,10 @@ function processMarkdownFile(filePath) {
         frontmatter.featured === true || frontmatter.featured === 'true',
       date: frontmatter.date || null,
       path: path.relative(KNOWLEDGE_DIR, filePath),
+      // 2026-11-04 加：正確的語言與分類（URL 用的小寫分類 slug）。
+      // `category` 為了相容舊使用者維持原義，見 getCategoryFromPath 註解。
+      lang,
+      categorySlug: categoryFolder.toLowerCase(),
     };
   } catch (error) {
     console.error(`Error processing ${filePath}:`, error.message);
@@ -185,17 +210,27 @@ function processMarkdownFile(filePath) {
  * 生成統計數據
  */
 function generateStats(articles) {
-  const categories = [...new Set(articles.map((a) => a.category))];
+  // 2026-11-04 site-health：分類統計改用 categorySlug。舊版用 `category`，
+  // 於是 12 個語言代碼也被當成分類（totalCategories 27、"vi" 1155 篇），
+  // languageDistribution 則寫死 zh-TW = 全部、en = 0。
+  const categories = [...new Set(articles.map((a) => a.categorySlug))];
   const allTags = articles.flatMap((a) => a.tags);
   const uniqueTags = [...new Set(allTags)];
 
   // 簡單的貢獻者估算（基於不同的寫作風格特徵）
   const estimatedContributors = Math.ceil(articles.length / 15); // 假設平均每人貢獻15篇
 
-  const categoryStats = categories.map((category) => ({
-    name: category,
-    count: articles.filter((a) => a.category === category).length,
-  }));
+  const categoryStats = categories
+    .map((category) => ({
+      name: category,
+      count: articles.filter((a) => a.categorySlug === category).length,
+    }))
+    .sort((a, b) => b.count - a.count);
+
+  const languageDistribution = {};
+  for (const a of articles) {
+    languageDistribution[a.lang] = (languageDistribution[a.lang] || 0) + 1;
+  }
 
   const topTags = uniqueTags
     .map((tag) => ({
@@ -212,10 +247,7 @@ function generateStats(articles) {
     totalTags: uniqueTags.length,
     categories: categoryStats,
     topTags: topTags,
-    languageDistribution: {
-      'zh-TW': articles.length, // 目前全部是繁體中文
-      en: 0, // 英文翻譯待完成
-    },
+    languageDistribution,
     lastUpdated: new Date().toISOString(),
   };
 }

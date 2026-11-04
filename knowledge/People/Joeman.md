@@ -19,6 +19,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/people/joeman-portrait-desk-2017.webp'
+imageCredit: 'Joeman翁雋明'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: incubating
 ---

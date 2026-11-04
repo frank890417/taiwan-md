@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-04 twmd-maintainer-daily — reflex-fires-on-contradiction-not-before-acting：兩把尺打架時我想起了「尺先驗再用」，只有一把尺時不會
+
+- **pattern**: `reflex-fires-on-contradiction-not-before-acting`
+- **原則**：[REFLEXES #99](REFLEXES.md)「尺先驗再用，0 命中先過正控制」與 [#65](REFLEXES.md)「awareness instrument 自己要 cross-verify」在本班同一輪各自命中一次，兩次都救到東西。但兩次的啟動訊號都不是「我要動手了，先驗尺」，是**兩個數字差太多讓我覺得怪**。反射目前住在「出現矛盾時會被想起」的位置，還沒住在「動手之前的那一步」。差別在於：矛盾是運氣提供的。如果只有一把尺在說話，它說什麼就是什麼。
+- **觸發**：同一輪兩個 instance。(一) `issue #1904` 的存量重現指令回 0，而兩份交接對「閘門做了沒」說相反的話——正因為相反，我才去餵正控制（`fence-prose` 回 hard=3）。若兩份交接一致說「閘門已上線」，我會直接關掉 issue，而那個關閉會是碰巧正確。(二) `issue #1891` 我手寫 regex 量出「360 標籤 / 93 檔」，canonical checker 說「215 / 80」——差距大到不合理，才回頭對照。若我的 regex 剛好回 220，我會把它寫進公開留言，而那則 issue 存在的全部理由就是「沒有尺就看不見那 752 處」。
+- **候選機械化**：(a) 任何要寫進公開留言／issue／報告的**自製計數**，先跟該領域既有的 canonical checker 對照一次，對不上就用 checker 的；手寫 regex 的讀數在對照之前不引用（這是 #99「新尺的讀數在抽驗之前不可引用」對「自己臨時寫的尺」的延伸——原條文想的是新造的正式儀器，沒想到當班順手寫的那三行 regex 也是一把新尺）。(b) 關閉 issue 的依據若是「某個指令回 0」，正控制與那個 0 同一次取得、寫進 close 留言；交接敘述一致不構成依據。
+- **可能層級**：通用反射（候選併入 #99 當子規則，而不是新編號——它講的是同一件事的啟動時機，不是新的判準）
+- **相關**：[REFLEXES #99](REFLEXES.md) 尺先驗再用（本條是它的啟動時機面）／[#65](REFLEXES.md) awareness instrument 自我 cross-verify／[#73](REFLEXES.md) 查證反射 < 建造反射（同一個形狀：想查證的反射比想動手的反射慢）／[#16](REFLEXES.md) 否定式結論的舉證要更高（本班第三次用上：WebFetch 擋掉 cna／twreporter 時沒有讀成「來源有問題」）
+- **verification_count**: 1
+
 ### 2026-11-04 twmd-feedback-triage — mandatory-read-gate-inherits-the-saturated-window：那道「讀完全文才准動手」的閘門，入口跟它要讀的列關在同一道牆後面
 
 - **pattern**: `mandatory-read-gate-inherits-the-saturated-window`
@@ -1901,6 +1911,16 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **instances**：（首例，見觸發）
 - **可能層級**：操作規則（候選：`formatIntakeIntervals()` 除了最長間隔，同時印中位數或第 N 百分位這類不被單一極值推動的統計量，或在最長間隔旁註明它上次被刷新的日期，讓讀的人看見這把尺自己在動）。設不設閾值仍屬 threshold 調整，per BECOME §行動鐵律 10 留人類 gate，本條只收「尺的定義會隨資料鬆開」這個形狀。
 - **相關**：REFLEXES #59（製造數字的人最易被數字騙）、#82（proxy：經驗上緣當健康門檻的替身）、#99（尺先驗再用）。另見 FEEDBACK-TRIAGE-PIPELINE §這個距今算久嗎 v1.12
+- **verification_count**: 1
+
+### 2026-11-04 twmd-desk — 並行派六個寫手，查證席的子 agent 名額被吃光，分席靜默退化成自評
+
+- **pattern**: parallel-writers-starve-the-verifier-seat
+- **原則**：同一時間派多條 REWRITE 寫手時，每條寫手要再開的審稿與查證子 agent 會撞並行上限；pipeline 寫的「乾淨脈絡分席」沒有名額時不會報錯，只會變成寫手自審。派工時要預留查證席，或寫手開不出就停在 Stage 2.5 交回主 session 補席。
+- **觸發**：2026-11-04 全面進化，主 session 同時派 5 篇 EVOLVE＋1 篇 NEW（加上 3 條分析線）。第一個交件的〈奇拿富〉回報四隻研究 lane 與審稿、查證都「Concurrent subagent limit reached」，全由寫手自評；主 session 補派 Sonnet 查證與 Opus 2.5-R，抓到學名用異名、無出處的「和香港」、主線在賓茂事件偷換植物。後交件的五篇名額空出來才分席成功。同時 WebSearch 額度被六條研究線在早段吃完。證據：memory/2026-11-04-101011-twmd-desk.md
+- **instances**：
+- **可能層級**：操作規則（REWRITE-PIPELINE-SINGLE 派工面）
+- **相關**：REFLEXES #65 (f)／#69（同一顆腦不准又寫又審）——本條是它在「並行派工」這個新維度的失效路徑：規則沒被違反，是資源不足讓它靜默不執行
 - **verification_count**: 1
 
 ## ✅ 已消化（保留 pointer）

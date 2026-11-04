@@ -1,6 +1,6 @@
 ---
-title: 'Taiwanese Overseas: From Exiled Students to Silicon Valley Engineers, a Diaspora Map of Two Million'
-description: 'Taiwan still has no absentee voting. Two million overseas citizens must fly home to their household registration address for every election. From the politically exiled students of the 1960s to the FAPA lobbying organization founded in Los Angeles in 1982, to the homeward pull of Silicon Valley engineers — this is a story of identity and civic capacity in diaspora.'
+title: 'The Taiwanese Diaspora: Two Million Abroad, From Exiled Students to Silicon Valley Engineers'
+description: 'About two million Taiwanese citizens live abroad, and Taiwan still has no absentee voting, so every election they must fly home to vote. This map of the Taiwanese diaspora runs from 1960s political exiles in the US and FAPA, founded in Los Angeles in 1982, to Silicon Valley engineers who carried knowledge home and second-generation Taiwanese abroad working out who they are.'
 date: 2026-04-28
 tags:
   [
@@ -22,6 +22,10 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:5ad18a83d0ab46f1'
 sourceBodyHash: 'sha256:dc26781150e83c1c'
 translatedAt: '2026-05-16T22:19:17Z'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 3,263 曝光 2 點擊；查詢「taiwanese diaspora」3,037 曝光 0 點擊，title 以 Taiwanese Overseas 開頭。title 改以 The Taiwanese Diaspora 開頭，description 帶進同一個詞'
 ---
 
 > **30-second overview:** Approximately two million Taiwanese citizens live abroad, across the United States, Southeast Asia, Europe, and Japan. What makes this group distinctive: Taiwan has no absentee voting system, so every election, anyone who wants to vote must buy an airline ticket and fly back to their household registration polling station. This map of the diaspora spans the political exiles of the 1960s, the World Federation of Taiwanese Associations founded in Vienna in 1974, the grassroots lobbying organization FAPA born in Los Angeles in 1982, and the knowledge return-flow of Silicon Valley engineers — layered over the identity confusion of second-generation Taiwanese abroad, forming a hidden cross-section of Taiwan's democratic history.
