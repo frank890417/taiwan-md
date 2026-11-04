@@ -2,6 +2,7 @@
 title: 'シェン・シェンボ'
 description: 'コンピュータサイエンスを専攻しながら、プログラミング言語を台湾の現代アートの現場に持ち込んだ人物です。わずか34年という短い人生の中で、デジタルアート作品を残しただけでなく、プログラミングを生活の一部とし、フリーソフトウェアを創作倫理とする実験的精神を遺しました。'
 date: 2026-03-23
+category: 'People'
 tags:
   [
     '人物',
@@ -14,15 +15,16 @@ tags:
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-05-16T22:19:52+00:00'
-category: People
+translatedAt: '2026-11-04T21:17:49.652911+00:00'
 ---
 
 # シェン・シェンボ

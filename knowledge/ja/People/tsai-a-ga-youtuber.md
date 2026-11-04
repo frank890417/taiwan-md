@@ -1,20 +1,23 @@
 ---
 title: '蔡阿嘎：ネット紅人（インフルエンサー）の始祖からソーシャルワークの志業へ――18年の影響力で運命を変えた男'
 description: '2022年、台湾初の百万登録者を達成したネット紅人（インフルエンサー）蔡阿嘎は、自宅を売却して「好里家社福協会」を設立し、18年間で蓄積した影響力を社会貢献の志業へと転換しました。2008年の焼国旗動画から、2022年に長男蔡桃貴が「最年少百万登録者」の記録を打ち立てるまで、蔡阿嘎はトラフィック（アクセス数）、論争、裏切りのなかで、社会的に弱い立場にある子どもたちに希望を灯したいというソーシャルワーカーの魂を守り続けてきました。'
-category: People
+date: 2026-04-23
+category: 'People'
 tags:
   ['蔡阿嘎', '蔡桃貴', 'YouTuber', 'ソーシャルワーカー', '社会福祉', '台湾文化']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
-date: 2026-04-23
-readingTime: 12
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
-translatedFrom: People/蔡阿嘎.md
-sourceCommitSha: 'f5975a22'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/蔡阿嘎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: 2026-05-01T18:02:56+08:00
-featured: false
+translatedAt: '2026-11-04T21:23:33.617508+00:00'
 ---
 
 > **30秒概要：**

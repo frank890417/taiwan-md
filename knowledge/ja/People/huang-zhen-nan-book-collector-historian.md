@@ -2,18 +2,20 @@
 title: '黄震南'
 description: '黄震南は台湾の文史工作者、蔵書家、作家である。「活水来冊房」というFacebookページで台湾の歴史と古書文化を紹介し、『台湾史上最有梗的台湾史』などの著書がある。'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags: ['台湾文史', '蔵書家', '黄震南', '台湾歴史', '活水来冊房']
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T21:12:05.675060+00:00'
 ---
 
 # 黄震南：書香の家族と台湾文史の活水源頭
@@ -54,15 +56,15 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 参考文献
 
-[^1]: [黄震南 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — 主な経歴、学歴、蔵書の詳細。
+[^1]: [黄震南 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — 主な生涯、教育背景、および蔵書の詳細。
 
-[^2]: [活水来冊房 Facebookページ](https://www.facebook.com/ngtsinlam) — 2009年の創設以来の共有記録と蔵書の動向。
+[^2]: [活水來冊房 Facebook ページ](https://www.facebook.com/ngtsinlam) — 2009年の創設から現在に至るまでの活動記録と蔵書の動向。
 
-[^3]: [『台湾史上最有梗の台湾史』書籍ページ](https://www.books.com.tw/products/0010722013) — 博客来（台湾の書籍通販サイト）の書誌ページ。出版情報と読者レビューを含む。
+[^3]: [『台湾史上最も面白い台湾史』書籍ページ](https://www.books.com.tw/products/0010722013) — 博客来（Books.com.tw）の商品ページ。出版情報および読者のレビューを含む。
 
-[^4]: [蔵書家・黄震南インタビュー — Creative Comic](https://www.creative-comic.tw/special_topics/2) — 家族の蔵書物語および西川満・蔡培火関連のコレクション説明。
+[^4]: [蔵書家・黄震南インタビュー — Creative Comic](https://www.creative-comic.tw/special_topics/2) — 家族の蔵書に関する物語、および西川満や蔡培火に関連するコレクションの説明。
 
-[^5]: [Newtalk 書評・推薦記事](https://newtalk.tw/news/view/2026-02-18/1020552) — 黄震南の台湾史読書普及に対する見解と推薦書リスト。
+[^5]: [Newtalk 書籍推薦レポート](https://newtalk.tw/news/view/2026-02-18/1020552) — 台湾史の読書普及に対する黄震南の見解と推奨図書リスト。
 
 ## 関連リンク
 

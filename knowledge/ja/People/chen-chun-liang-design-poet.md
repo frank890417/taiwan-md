@@ -2,9 +2,7 @@
 title: '陳俊良：デザイン詩人と東洋美学の現代的翻訳者'
 description: '陳俊良は1958年に台南で生まれ、29歳で「自由落体設計」（Freeimage Design）を設立し、業界から「デザイン詩人」と称されています。書道・余白・東洋的イメージをもって現代のデザイン言語を再解釈し、その作品は出版装幀、企業アイデンティティ、国家的祝祭に及びます。2005年の「天圓地方」国宴食器はマカオデザイン双年展審査員大賞を受賞しました。長年にわたりデザイン教育に尽力し、台湾の1980年代以降を代表するグラフィックデザイナーの一人です。'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'デザイナー',
@@ -13,14 +11,18 @@ tags:
     '自由落体',
     'デザイン詩人',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-04T21:08:42.142287+00:00'
 ---
 
 # 陳俊良：詩的感性で台湾デザインを再定義する
@@ -57,19 +59,19 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 ## 参考文献
 
-[^1]: [陳俊良 — 非池中藝術網](https://artemperor.tw/knowledge/1191) — 陳俊良のデザインキャリア概要、「デザイン詩人」称号の由来、代表作品。
+[^1]: [陳俊良 — 非池中藝術網](https://artemperor.tw/knowledge/1191) — 陳俊良の設計キャリアの概要、「デザインの詩人」という称号の由来、代表作について。
 
-[^2]: [自由落体設計 Freeimage Design — Facebook 公式ページ](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — 自由落体デザインスタジオの公式情報と作品集。
+[^2]: [自由落體設計 Freeimage Design — Facebook 公式ページ](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Freeimage Design（自由落體設計）スタジオの公式情報およびポートフォリオ。
 
-[^3]: [自由落体設計／陳俊良：ビジュアルデザインで最も大切なことは「できないことはない、考えつかないことだけだ」 — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — 陳俊良のデザイン哲学と仕事術に関する深度インタビュー。
+[^3]: [自由落體設計／陳俊良：ビジュアルデザインにおいて最も重要なのは「できないことではなく、思いつかないこと」 — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — 陳俊良の設計哲学と仕事の進め方に関するディープインタビュー。
 
-[^4]: [善良さが、私を行きたい場所へ連れていく — デザインの巨匠・陳俊良インタビュー — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — 陳俊良のキャリア遍歴、29歳での起業エピソード、東洋美学のデザイン観。
+[^4]: [善良さが、私を望む場所へと導いてくれる — デザイン界の重鎮、陳俊良へのインタビュー — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — 陳俊良のキャリアの軌跡、29歳での起業ストーリー、および東洋美学に基づくデザイン観。
 
-[^5]: [陳俊良 最高のマーケティングは作品そのもの — La Vie](https://www.wowlavie.com/article/ae1400597) — 陳俊良「天圓地方」国宴食器シリーズのマカオデザイン双年展審査員大賞受賞記録。
+[^5]: [陳俊良：最高のマーケティングとは作品そのものである — La Vie](https://www.wowlavie.com/article/ae1400597) — 陳俊良の「天圓地方」国宴食器シリーズがマカオ・デザイン・ビエンナーレで審査員特別賞を受賞した記録。
 
-[^6]: [陳俊良 38年のデザインの道 人がやらないことを敢えてやる — 中国時報](https://www.chinatimes.com/newspapers/20180701000609-260102) — 陳俊良のキャリア回顧とデザイン教育への尽力。
+[^6]: [陳俊良 38年のデザインの道：他人が恐れることに挑戦する — 中國時報](https://www.chinatimes.com/newspapers/20180701000609-260102) — 陳俊良のキャリアの振り返りと、デザイン教育への取り組み。
 
-[^7]: [自由落体設計・陳俊良のデザイン哲学：「i から F までの距離」 — 設計王 DesignWant](https://www.designwant.com/article/7826) — 陳俊良の東洋美学に関するデザイン論考と書道の視覚言語。
+[^7]: [自由落體設計・陳俊良のデザイン哲学：「i から F の間の距離」 — 設計王 DesignWant](https://www.designwant.com/article/7826) — 陳俊良による東洋美学のデザイン論述と書道の視覚言語について。
 
 ## 関連記事
 

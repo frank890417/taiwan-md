@@ -1,22 +1,22 @@
 ---
-title: '施明德：二十五年の鉄窓、やがて自らの党に旗を掲げた'
-description: '1979年の美麗島事件後、施明德は首謀者として軍事法廷で堂々と陳述し、認罪せず、助命を請わず、最終的に無期懲役を宣告された。彼は前後二十五年にわたって投獄され、台湾民主運動における最も重要な受難者の一人となった。しかし2006年、民主進步党の基盤を築いたこの男は、反扁の赤いシャツ軍（紅衫軍）を率いて立ち上がった。2024年1月15日、彼は83歳の誕生日に、この解けない矛盾を抱えたままこの世を去った。'
+title: '施明徳：25年間の鉄窓、ついに自らの党に旗を掲げる'
+description: '1979年の美麗島事件後、施明徳は首謀者として軍法廷で弁論を行い、罪を認めず、情状酌量を求めず、最終的に無期懲役を言い渡された。彼は前後して25年間獄中生活を送り、台湾の民主運動における最も重要な受難者の一人となった。しかし2006年、民進党の政権獲得に貢献したこの人物は、一転して「倒扁紅衫軍」を発起した。2024年1月15日、彼の83歳の誕生日に、この解けない矛盾を抱えたまま逝去した。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['民主運動', '美麗島事件', '政治受難者', '倒扁紅衫軍', '政治指導者']
-readingTime: 9
-#   whats_excluded: "中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控"
-#   where_it_hedges: "坐牢確切年數（各來源介於25-26年，採較保守的二十五年以上表述）；1962年被捕的政治組織確切名稱（史料略有出入）"'
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:19:59.538641+00:00'
 ---
 
 # 施明德：二十五年の鉄窓、やがて自らの党に旗を掲げた
