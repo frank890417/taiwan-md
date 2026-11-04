@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.4'
 last_updated: 2026-11-04
-last_session: '2026-11-04-health-census（全站普查：census D 級 umbrella 入列 P2，7/16 的 69 篇單薄 batch 整條併入）  # 前：2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-11-04-twmd-desk（全面進化：五篇 EVOLVE 與 SEO 條目補記、台灣迷因 P2 入列）  # 前：2026-11-04-health-census（全站普查：census D 級 umbrella 入列 P2，7/16 的 69 篇單薄 batch 整條併入）  # 前：2026-11-02-twmd-desk（中華職棒 NEW 由 tboydar PR #1948 交稿 merge，轉 EVOLVE P2；民調禁止期 P0（哲宇拍板不撤、標時間、凍結）＋沈伯洋蔣萬安開票後補段 P0 入列；陳致中台中民調八項不齊先撤數字）  # 前：2026-10-25-twmd-news-lens-weekly（探測器 W43：中華職棒／台灣鐵路地下化 P1 NEW、跨境鎮壓 P2 需哲宇裁定入列；九合一總章與沈伯洋加註）  # 前：2026-10-20-twmd-maintainer-manual（貢獻者 tboydar 三篇 PR #1877／#1878／#1879 merge 後歸檔，連同今早 #1874〈支語誤判學〉漏歸的那條；全社會防衛韌性移除，其餘三條未兌現部分改立 EVOLVE 條目）  # 前：2026-10-14-twmd-maintainer-daily（亞運 P0「名古屋亞運與中華台北」由貢獻者 tboydar 以 PR #1826 交稿並 merge，依完成歸檔鐵律移除 pending；entry 未兌現的兩項已轉記 DONE-LOG）  # 前：2026-10-13-twmd-maintainer-daily（探測器登記的五條 NEW 全由貢獻者 tboydar 以 PR 交稿並 merge，依完成歸檔鐵律移除 pending：傅兆玄／王冠閎／勇鷹高教機／台灣拔河／李灝宇）  # 前：2026-10-11-news-lens-weekly（探測器 W41：傅兆玄 P1 NEW 入列；七條沒寫期限的探測器題補 Angle-expires；張懸、九合一總章、亞運三條加註）  # 前：2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -176,6 +176,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 台灣迷因 EVOLVE — 〈鐵牛杰哥〉研究推翻了三處事實
+
+- **Type**: `EVOLVE`
+- **Category**: Culture
+- **Path**: knowledge/Culture/台灣迷因.md（以實際檔名為準，grep「台灣迷因」）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-11-04 by twmd-desk（全面進化，〈鐵牛杰哥〉重寫的查證附帶發現）
+- **Angle-expires**: evergreen
+- **Notes**:
+  - 與〈鐵牛杰哥〉2026-11-04 研究不一致的三處：杰哥影片的拍攝年份（寫 2013）、2,700 萬觀看數、Steam 遊戲；以 `reports/research/2026-11/鐵牛杰哥.md` 的查證紀錄為準逐條對
+  - 〈校園順口溜〉引了片中誘騙情節的台詞，〈鐵牛杰哥〉刻意不收；兩篇互連前先看這一點
+  - 〈鐵牛杰哥〉倫理審稿建議補 113 保護專線（找到官方頁再補）
+- **Reference**: [reports/research/2026-11/鐵牛杰哥.md](../../reports/research/2026-11/鐵牛杰哥.md)
+
 
 ### 國中會考＋台南鐵路地下化 EVOLVE — 補 30 秒概覽、媒體與中段篇幅（tboydar 兩篇新稿）
 
@@ -1609,6 +1625,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **必查**：實際搜「台灣藍鵲」看 SERP 長相（是否有 image pack / knowledge panel 卡在我們上面）→ 對症下藥（補 structured data / 改 description / 強化 SERP 縮圖），不要盲目改文章本體。
   - **源信心**：SC 單源強訊號（position+impressions 確定）；per-article GA 在本次 cached export 只有首頁級彙總、無法交叉確認站內行為。DNA #4 雙源未滿足，標記為 SC-primary。
 - **Reference**: public/api/dashboard-analytics.json `searchConsole7d.opportunities[0]`
+- **2026-11-04 by twmd-desk（全面進化）**：description 已照本條改寫（`evolve/2026-11-04`）；結果頁實況與結構化資料兩項還沒做，留本條。
 
 ### 日治時期 EVOLVE — 種站第一天出生的裸標題 hub，SC 28d 曝光 1.7 萬次只拿 0.25% CTR
 
@@ -1642,6 +1659,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: public/api/dashboard-analytics.json searchConsole7d.topQueries
 
 <!-- watch-signal（未升 candidate，下次 scan 覆核）：`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list（沿上輪）。`周智宣` 100 impr 無專文 = 潛在 NEW，人物 niche 待哲宇判斷敏感度（沿上輪）。2026-07-18 本輪新增：`台灣的道德課去哪了` GA7d 37 views / health 50 / lv 04-25，進化分數 ~50 未過 60 gate（單源 GA、無 SC 訊號）；`退出聯合國` GA7d 37 views / health 57 / lv 05-02，~49 同未過；`MTV包廂` GA7d 27 views / health 41 / lv 05-10，~48——KTV EVOLVE 已在 pending，未來可同波處理包廂娛樂史；`曾博恩` SC7d 972 impr / CTR 0.93% / pos 10.09 — 低 CTR 主因是排名第 10 不是呈現層，health 44 但 9,267 字 51 腳註（分數疑受 lastVerified 05-13 與格式扣分拖累），先觀察。 -->
+- **2026-11-04 by twmd-desk（全面進化）**：title 與 description 已改（新標題〈彎彎：胡家瑋替 MSN 世代畫的光頭人，和讓它「變成歷史人物」的決定〉），正文 H1 同步；結果頁實況未看，留本條觀察 CTR。
 
 ### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
 
@@ -1751,6 +1769,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Tier C1 — 2026-05-13 人物 stub 批（11 篇，⏸️ 需哲宇拍板方向）**：[肌肉山山](../../knowledge/People/肌肉山山.md)、[朴旻曙](../../knowledge/People/朴旻曙.md)、[邊荷律](../../knowledge/People/邊荷律.md)、[南珉貞](../../knowledge/People/南珉貞.md)、[安芝儇](../../knowledge/People/安芝儇.md)、[李雅英](../../knowledge/People/李雅英.md)、[李珠珢](../../knowledge/People/李珠珢.md)、[李晧禎](../../knowledge/People/李晧禎.md)、[李多慧](../../knowledge/People/李多慧.md)、[金針菇](../../knowledge/People/金針菇.md)、[朴星垠](../../knowledge/People/朴星垠.md)
 - **Tier C2 — 台南小吃貢獻者批（jinnshuchang 7/02，4 篇，素材共創候選）**：[豬心冬粉](../../knowledge/Food/豬心冬粉.md)、[虱目魚粥](../../knowledge/Food/虱目魚粥.md)、[牛肉湯](../../knowledge/Food/牛肉湯.md)、[鱔魚意麵](../../knowledge/Food/鱔魚意麵.md)
 - **Tier C3 — 台灣企業早期薄檔（4 篇，併 series 深化節奏）**：[台灣企業：日月光半導體](../../knowledge/Economy/台灣企業：日月光半導體.md)、[台灣企業：長榮海運](../../knowledge/Economy/台灣企業：長榮海運.md)、[台灣企業：廣達電腦](../../knowledge/Economy/台灣企業：廣達電腦.md)、[台灣企業：聯發科技](../../knowledge/Economy/台灣企業：聯發科技.md)
+- **2026-11-04 by twmd-desk（全面進化）**：〈鐵牛杰哥〉〈鱔魚意麵〉〈地瓜球〉〈這群人〉〈齊柏林〉五篇依 GA／SC 資料走完 REWRITE EVOLVE（分席審稿＋分段查證）並上線，下次重算 census 會自動移出 D 級。
 
 ### 台灣各大技術 Conference NEW — 從 COSCUP 到 g0v，開源島嶼的年度遷徙
 
