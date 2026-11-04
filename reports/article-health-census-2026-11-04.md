@@ -16,6 +16,8 @@ related:
 
 1,156 篇中文裡，該補標 🌱 進化中的有 179 篇，可以人審轉正的只有 2 篇，沒有封面圖的 904 篇（78%，扛下 71% 的文章流量），內文簡陋該重寫的 226 篇。比名單長度更要緊的是出口：七月排進重寫隊列的 69 篇，三個半月後只有 4 篇再走過流程、49 篇仍然零腳註。而進化中說明條寫死了「由社群貢獻」，A 名單裡約 47 篇是 Taiwan.md 自己早期寫的，**直接套用會在站上說錯話**，要先改文案再標。
 
+第二輪（同日，哲宇授權「中間不要問、做完」、上線前由他確認）已照 §八 預設先改文案再套用：A 級 167 篇補標、C1 16 篇升格封面、14 個分類預設封面收進庫，並把四級判定接進 pre-commit、prebuild 與週報。細節與 commit 在 §十。
+
 ---
 
 ## 一、普查數字與分布
@@ -25,6 +27,8 @@ related:
 **方法**：`scripts/tools/article-census.py` 一次跑完（全站 17 秒）。git 史只開一次 bulk `git log -M --name-status`，跟著改名往回接。article-health 在同一個行程內用 `ci-deploy` profile 跑（同 CI 部署閘門那把尺）。
 
 **流量窗口**：GA 用本機快取 `~/.config/taiwan-md/cache/ga4-latest.json` 的 `by_lang_pages`（2026-10-07～11-04，28 天，約 500 條路徑。repo 內的 `dashboard-analytics.json` 只有前 20 名，不夠排序）。Search Console 用同目錄 `search-console-latest.json` 的 `pages`（10-27～11-02，7 天曝光）。工具會把用了哪個來源、窗口幾天寫進 JSON 的 `traffic_sources`。
+
+**公開與本機的分界**（第二輪修正）：本報告的排序（A／C／D 級的「流量前 N」）用本機快取算，但逐篇瀏覽數與曝光數不寫進 repo。`reports/article-census/2026-11-04.json` 已用 `--no-local-traffic` 重產，流量欄只剩 `dashboard-analytics.json` 本來就公開的 GA 前 20 名。名單檔只有路徑、沒有數字。比例類的彙總（例：沒封面的文章扛 71% 流量）保留。
 
 ### 1.1 現況
 
@@ -75,25 +79,25 @@ warn 檔數前幾名：prose-health 1,121 篇、media-richness 898、image-healt
 - 組成：People 57、Culture 22、Food 20、History 16、Society 16、Economy 11。首次進站在 3–4 月的 122 篇、8 月的 28 篇。43 篇 `lastHumanReview: true`（早期人工看過）。171 篇同時沒有封面，47 篇同時是 D 級。
 - 套用後的比例：已標 🌱 會從 342 篇變成 509 篇（44%）。設計報告當初擔心「77.6% 被標未查證」的自貶，44% 還在那條線以下，但已經是「將近一半」，這是要哲宇看的數字（§八 #5）。
 
-流量前 15：
+流量前 15（依本機 GA 28 天快取排序，逐篇數字不放進公開 repo，見 §一 流量窗口）：
 
-|   # | 文章                                                                       | GA 28 天 | SC 曝光 7 天 | 字數／腳註 | 理由                        |
-| --: | -------------------------------------------------------------------------- | -------: | -----------: | ---------- | --------------------------- |
-|   1 | [魏哲家](../knowledge/People/魏哲家.md)                                    |      116 |        2,492 | 1,322／5   | A1（lastHumanReview: true） |
-|   2 | [菜市場名](../knowledge/Culture/菜市場名.md)                               |      106 |          423 | 1,168／8   | A1（lastHumanReview: true） |
-|   3 | [萊爾富](../knowledge/Economy/萊爾富.md)                                   |      104 |        1,884 | 1,878／15  | A1                          |
-|   4 | [台灣都市發展與城鄉差距](../knowledge/Geography/台灣都市發展與城鄉差距.md) |      103 |          328 | 3,306／0   | A1（lastHumanReview: true） |
-|   5 | [十大建設](../knowledge/History/十大建設.md)                               |       93 |          623 | 1,800／26  | A1                          |
-|   6 | [關聖帝君信仰](../knowledge/Culture/關聖帝君信仰.md)                       |       90 |          467 | 2,632／0   | A1                          |
-|   7 | [外省人](../knowledge/Society/外省人.md)                                   |       88 |          905 | 1,363／21  | A1                          |
-|   8 | [阿翰](../knowledge/People/阿翰.md)                                        |       85 |        1,575 | 1,798／14  | A1                          |
-|   9 | [鳳梨酥](../knowledge/Food/鳳梨酥.md)                                      |       82 |            0 | 1,365／10  | A1                          |
-|  10 | [台灣滷肉飯](../knowledge/Food/台灣滷肉飯.md)（精選，不在預設名單）        |       81 |          737 | 1,832／5   | A1（lastHumanReview: true） |
-|  11 | [蚵仔煎](../knowledge/Food/蚵仔煎.md)                                      |       79 |          373 | 1,820／14  | A1                          |
-|  12 | [史前時代與原住民](../knowledge/History/史前時代與原住民.md)（精選）       |       77 |            0 | 1,484／5   | A1（lastHumanReview: true） |
-|  13 | [林爽文事件](../knowledge/History/林爽文事件.md)                           |       71 |          878 | 2,913／12  | A2                          |
-|  14 | [台灣企業：瑞昱半導體](../knowledge/Economy/台灣企業：瑞昱半導體.md)       |       71 |          386 | 1,940／5   | A1（lastHumanReview: true） |
-|  15 | [婦女運動](../knowledge/History/婦女運動.md)                               |       69 |           93 | 4,839／23  | A2                          |
+|   # | 文章                                                                       | 字數／腳註 | 理由                        |
+| --: | -------------------------------------------------------------------------- | ---------- | --------------------------- |
+|   1 | [魏哲家](../knowledge/People/魏哲家.md)                                    | 1,322／5   | A1（lastHumanReview: true） |
+|   2 | [菜市場名](../knowledge/Culture/菜市場名.md)                               | 1,168／8   | A1（lastHumanReview: true） |
+|   3 | [萊爾富](../knowledge/Economy/萊爾富.md)                                   | 1,878／15  | A1                          |
+|   4 | [台灣都市發展與城鄉差距](../knowledge/Geography/台灣都市發展與城鄉差距.md) | 3,306／0   | A1（lastHumanReview: true） |
+|   5 | [十大建設](../knowledge/History/十大建設.md)                               | 1,800／26  | A1                          |
+|   6 | [關聖帝君信仰](../knowledge/Culture/關聖帝君信仰.md)                       | 2,632／0   | A1                          |
+|   7 | [外省人](../knowledge/Society/外省人.md)                                   | 1,363／21  | A1                          |
+|   8 | [阿翰](../knowledge/People/阿翰.md)                                        | 1,798／14  | A1                          |
+|   9 | [鳳梨酥](../knowledge/Food/鳳梨酥.md)                                      | 1,365／10  | A1                          |
+|  10 | [台灣滷肉飯](../knowledge/Food/台灣滷肉飯.md)（精選，不在預設名單）        | 1,832／5   | A1（lastHumanReview: true） |
+|  11 | [蚵仔煎](../knowledge/Food/蚵仔煎.md)                                      | 1,820／14  | A1                          |
+|  12 | [史前時代與原住民](../knowledge/History/史前時代與原住民.md)（精選）       | 1,484／5   | A1（lastHumanReview: true） |
+|  13 | [林爽文事件](../knowledge/History/林爽文事件.md)                           | 2,913／12  | A2                          |
+|  14 | [台灣企業：瑞昱半導體](../knowledge/Economy/台灣企業：瑞昱半導體.md)       | 1,940／5   | A1（lastHumanReview: true） |
+|  15 | [婦女運動](../knowledge/History/婦女運動.md)                               | 4,839／23  | A2                          |
 
 **A2 的 27 篇是一個獨立事件**：8/13～8/20 進站的投稿（idlccp1984 8/15、8/20 共 26 篇＋stantheman0128 一篇），MAINTAINER-PIPELINE §1b 規定 merge 後的 heal 要設 `curation: incubating`，這批一篇都沒設。內容不見得差（婦女運動 4,839 字／23 腳註／6 張圖），但進站後沒走過任何查證，規則就是先標再審。名單：歌仔戲、台灣口語特色、四秀仔、布農族小米歲時祭儀、鄒族戰祭、台灣造船業、新台幣、生活市集、蘿蔔糕、中華民國美學、自來水、阿里山林業鐵路、823砲戰、台灣廣播史、嘉義農林、國家鐵道博物館、婦女運動、林爽文事件、臺灣議會設置請願運動、六指淵、尼克星、廖添丁、張忠仁與張忠義、理科太太、台灣人工生殖、社區大學黃武雄、功字裡的那根反斜線。
 
@@ -114,7 +118,7 @@ warn 檔數前幾名：prose-health 1,121 篇、media-richness 898、image-healt
 | C2  |  133 | 沒封面，正文只有外站圖（Wikimedia 內文熱連結） | `image-ingest.mjs` 收進庫再升格  |
 | C3  |  749 | 沒封面，正文也沒有任何圖                       | 要從頭找圖                       |
 
-另有 15 篇帶 `imageNote`（9/05 收熱連結時來源下架或授權不明，已記待補）。沒封面的 904 篇扛了 GA 文章流量的 71%（19,247／27,158）。179 篇精選裡 117 篇沒封面。分類看，Politics 20／21、History 82／92、Nature 36／41、People 249／296 沒封面，比例最高。
+另有 15 篇帶 `imageNote`（9/05 收熱連結時來源下架或授權不明，已記待補）。沒封面的 904 篇扛了 GA 28 天文章流量的 71%。179 篇精選裡 117 篇沒封面。分類看，Politics 20／21、History 82／92、Nature 36／41、People 249／296 沒封面，比例最高。
 
 C1 名單（成本最低，建議第一批）：鐵牛杰哥、彎彎、李宗盛、高雄加工出口區、叭噗冰、台灣黑熊、排隊、呱吉、彰化縣、西螺鎮、1935新竹臺中地震、杉林溪、Joeman、周天成、百靈果 News、蔣經國、諸葛四郎、陳文郁、館長陳之漢、歡樂無法黨、冷氣與能源貧窮議題、電網韌性。
 
@@ -123,38 +127,38 @@ C1 名單（成本最低，建議第一批）：鐵牛杰哥、彎彎、李宗�
 - **文章頁頂**：`ArticleHero` 改用分類預設封面當背景（`src/utils/categoryConfig.ts` 的 `cover`）。有封面時頂部改成實色，封面放進正文第一張 figure 並附 `imageCredit／imageLicense／imageSource` 圖說。正文已經放了同一張圖時讓位（`heroImageInBody`）。
 - **卡片**（首頁、分類 hub、最新、探索、時間軸、相關文章 rail）：`ArticleCard` 退成分類色漸層＋分類 emoji。
 - **OG 社群圖**：跟 `image` 無關。`SEO.astro` 一律用 `scripts/core/generate-og-images.mjs` 在 build 時產的文字卡（`/og-images/{cat}/{slug}.jpg`），檔案不存在才退到 `/images/taiwan-social.jpg`。所以缺封面不會讓分享卡破圖，影響的是卡片牆與文章頂。
-- **附帶發現**：14 個分類的預設封面全部是 `upload.wikimedia.org` 的縮圖熱連結。904 篇沒封面的文章頂部，背景其實都在熱連結 Wikimedia。卡片圖的熱連結 9/05 已經收掉（OBSERVER-QUEUE #42），這 14 張是漏網的。
+- **附帶發現**：14 個分類的預設封面全部是 `upload.wikimedia.org` 的縮圖熱連結。卡片圖的熱連結 9/05 已經收掉（OBSERVER-QUEUE #42），這 14 張是漏網的。第二輪收進庫時再查才發現它們根本是壞的：12 個檔名裡 8 個在 Commons 查無此檔、另外 4 個雜湊路徑寫錯，抽測 4 張全回 HTTP 400。904 篇沒封面的文章頂部背景一直是破圖（§十）。
 
 ### D 級：內文簡陋（該進 REWRITE），依流量排序 — 226 篇
 
 五條軸（字數、腳註、正文章節、媒體、段落）弱 3 條以上才算。185 篇弱 3 軸、39 篇弱 4 軸、2 篇 5 軸全弱。弱的是哪幾軸：零媒體 225、字數 196、腳註 194、段落 96、章節 10。也就是說，**單薄文章幾乎都是「字少＋來源少＋零媒體」三件一起來**。
 
-D 級裡 84 篇已經標 🌱、80 篇在 ARTICLE-INBOX 已有未完成條目（大多是七月那批 69 篇）、95 篇其實走過查證流程但仍然單薄（四、五月 REWRITE 早期的產物，例：蕭上農）。新的、還沒排隊的有 146 篇。
+D 級裡 84 篇已經標 🌱、80 篇在 ARTICLE-INBOX 已有未完成條目（大多是七月那批 69 篇）、95 篇其實走過查證流程但仍然單薄（四、五月 REWRITE 早期的產物，例：蕭上農）。新的、還沒排隊的有 146 篇。下表依本機 GA 28 天快取排序，數字不列。
 
-|   # | 文章                                                                       | GA 28 天 | SC 曝光 | 弱軸                                    | 現況                 |
-| --: | -------------------------------------------------------------------------- | -------: | ------: | --------------------------------------- | -------------------- |
-|   1 | [蕭上農](../knowledge/People/蕭上農.md)                                    |      430 |     639 | 字數 1,788、零媒體、段落中位 33 字      | 走過流程             |
-|   2 | [陳樹菊](../knowledge/People/陳樹菊.md)                                    |      327 |   1,658 | 字數 1,504、零媒體、段落中位 45 字      | 走過流程、INBOX 已登 |
-|   3 | [特有種](../knowledge/Nature/特有種.md)                                    |      158 |     679 | 字數 2,240、腳註 5、零媒體              | 走過流程             |
-|   4 | [魏哲家](../knowledge/People/魏哲家.md)                                    |      116 |   2,492 | 字數 1,322、腳註 5、零媒體              | A                    |
-|   5 | [鱔魚意麵](../knowledge/Food/鱔魚意麵.md)                                  |      107 |   1,690 | 字數 1,460、腳註 0、零媒體              | 🌱、INBOX 已登       |
-|   6 | [菜市場名](../knowledge/Culture/菜市場名.md)                               |      106 |     423 | 字數 1,168、零媒體、段落中位 52 字      | A                    |
-|   7 | [台灣都市發展與城鄉差距](../knowledge/Geography/台灣都市發展與城鄉差距.md) |      103 |     328 | 腳註 0、零媒體、段落中位 31 字          | A                    |
-|   8 | [Hello-Nico](../knowledge/People/Hello-Nico.md)                            |       93 |     593 | 字數 1,028、零媒體、段落中位 22 字      | 走過流程             |
-|   9 | [外省人](../knowledge/Society/外省人.md)                                   |       88 |     905 | 字數 1,363、零媒體、段落 11 段          | A                    |
-|  10 | [日治時期](../knowledge/History/日治時期.md)                               |       86 |   2,124 | 字數 1,697、腳註 5、零媒體              | 走過流程、INBOX 已登 |
-|  11 | [台灣企業：和碩聯合](../knowledge/Economy/台灣企業：和碩聯合.md)           |       81 |     679 | 腳註 5、零媒體、段落中位 42 字          | —                    |
-|  12 | [濁水溪公社](../knowledge/Music/濁水溪公社.md)                             |       79 |     183 | 字數 1,832、零媒體、段落中位 44 字      | 走過流程             |
-|  13 | [林青霞](../knowledge/People/林青霞.md)                                    |       77 |   2,885 | 字數 2,399、腳註 5、零媒體、段落        | 走過流程             |
-|  14 | [史前時代與原住民](../knowledge/History/史前時代與原住民.md)               |       77 |       0 | 字數 1,484、腳註 5、零媒體              | A（精選）            |
-|  15 | [牛肉湯](../knowledge/Food/牛肉湯.md)                                      |       75 |     637 | 字數 1,457、腳註 0、零媒體              | 🌱、INBOX 已登       |
-|  16 | [國民政府遷台與戰後重建](../knowledge/History/國民政府遷台與戰後重建.md)   |       74 |   1,017 | 字數 2,423、零媒體、段落中位 52 字      | 走過流程             |
-|  17 | [魚條](../knowledge/People/魚條.md)                                        |       74 |     290 | 字數 1,253、章節 1、零媒體、段落中位 25 | 走過流程             |
-|  18 | [蔣為文](../knowledge/People/蔣為文.md)                                    |       72 |     332 | 字數 2,091、腳註 0、零媒體              | 🌱、INBOX 已登       |
-|  19 | [台灣企業：瑞昱半導體](../knowledge/Economy/台灣企業：瑞昱半導體.md)       |       71 |     386 | 字數 1,940、腳註 5、零媒體              | A                    |
-|  20 | [台灣騎樓文化與街景](../knowledge/Lifestyle/台灣騎樓文化與街景.md)         |       70 |     200 | 字數 2,165、腳註 0、零媒體              | 🌱、INBOX 已登       |
+|   # | 文章                                                                       | 弱軸                                    | 現況                 |
+| --: | -------------------------------------------------------------------------- | --------------------------------------- | -------------------- |
+|   1 | [蕭上農](../knowledge/People/蕭上農.md)                                    | 字數 1,788、零媒體、段落中位 33 字      | 走過流程             |
+|   2 | [陳樹菊](../knowledge/People/陳樹菊.md)                                    | 字數 1,504、零媒體、段落中位 45 字      | 走過流程、INBOX 已登 |
+|   3 | [特有種](../knowledge/Nature/特有種.md)                                    | 字數 2,240、腳註 5、零媒體              | 走過流程             |
+|   4 | [魏哲家](../knowledge/People/魏哲家.md)                                    | 字數 1,322、腳註 5、零媒體              | A                    |
+|   5 | [鱔魚意麵](../knowledge/Food/鱔魚意麵.md)                                  | 字數 1,460、腳註 0、零媒體              | 🌱、INBOX 已登       |
+|   6 | [菜市場名](../knowledge/Culture/菜市場名.md)                               | 字數 1,168、零媒體、段落中位 52 字      | A                    |
+|   7 | [台灣都市發展與城鄉差距](../knowledge/Geography/台灣都市發展與城鄉差距.md) | 腳註 0、零媒體、段落中位 31 字          | A                    |
+|   8 | [Hello-Nico](../knowledge/People/Hello-Nico.md)                            | 字數 1,028、零媒體、段落中位 22 字      | 走過流程             |
+|   9 | [外省人](../knowledge/Society/外省人.md)                                   | 字數 1,363、零媒體、段落 11 段          | A                    |
+|  10 | [日治時期](../knowledge/History/日治時期.md)                               | 字數 1,697、腳註 5、零媒體              | 走過流程、INBOX 已登 |
+|  11 | [台灣企業：和碩聯合](../knowledge/Economy/台灣企業：和碩聯合.md)           | 腳註 5、零媒體、段落中位 42 字          | —                    |
+|  12 | [濁水溪公社](../knowledge/Music/濁水溪公社.md)                             | 字數 1,832、零媒體、段落中位 44 字      | 走過流程             |
+|  13 | [林青霞](../knowledge/People/林青霞.md)                                    | 字數 2,399、腳註 5、零媒體、段落        | 走過流程             |
+|  14 | [史前時代與原住民](../knowledge/History/史前時代與原住民.md)               | 字數 1,484、腳註 5、零媒體              | A（精選）            |
+|  15 | [牛肉湯](../knowledge/Food/牛肉湯.md)                                      | 字數 1,457、腳註 0、零媒體              | 🌱、INBOX 已登       |
+|  16 | [國民政府遷台與戰後重建](../knowledge/History/國民政府遷台與戰後重建.md)   | 字數 2,423、零媒體、段落中位 52 字      | 走過流程             |
+|  17 | [魚條](../knowledge/People/魚條.md)                                        | 字數 1,253、章節 1、零媒體、段落中位 25 | 走過流程             |
+|  18 | [蔣為文](../knowledge/People/蔣為文.md)                                    | 字數 2,091、腳註 0、零媒體              | 🌱、INBOX 已登       |
+|  19 | [台灣企業：瑞昱半導體](../knowledge/Economy/台灣企業：瑞昱半導體.md)       | 字數 1,940、腳註 5、零媒體              | A                    |
+|  20 | [台灣騎樓文化與街景](../knowledge/Lifestyle/台灣騎樓文化與街景.md)         | 字數 2,165、腳註 0、零媒體              | 🌱、INBOX 已登       |
 
-SC 曝光高但 GA 不在前段的幾篇也值得看：豬哥亮（曝光 7,448，1,828 字／1 腳註）、林青霞（2,885）、桂綸鎂（2,448，935 字）、魏哲家（2,492）。
+Search Console 曝光高、GA 不在前段的幾篇也值得看：豬哥亮（1,828 字／1 腳註）、林青霞、桂綸鎂（935 字）、魏哲家。
 
 ### 七月那 69 篇現在怎樣
 
@@ -232,7 +236,7 @@ A 級的意思因此是：「沒走過任何查證流程，而且至少有一個
 1. **[萊爾富](../knowledge/Economy/萊爾富.md)｜A1，判對。** 1,878 字、15 條腳註、零圖、用 H3 當章節。沒有任何查證 commit。正文有一句「『數位化不是為了科技而科技…』——這曾是萊爾富內部推動轉型時的核心信念」，引語找不到說話的人，是設計報告點名的 AI 生成典型。git 首次提交者是維護者（7/23 整合 PR），A2 抓不到它，A1 接住了。
 2. **[婦女運動](../knowledge/History/婦女運動.md)｜A2，判對，但要講清楚它判的是什麼。** 4,839 字、23 腳註、6 張圖、封面在庫，看起來是用心的投稿。8/20 idlccp1984 以投稿 commit 進站，之後只有 9/05 一次收熱連結的 media heal。§1b 規則是「merge 後先標再審」，它漏了。這一級標下去的意思是「還沒被查過」，跟寫得好不好無關，所以說明條文案要分開（§五.5）。
 3. **[台灣黑熊](../knowledge/Nature/台灣黑熊.md)｜B，判對。** 8/22 投稿者重寫、8/23 標 🌱、9/21 月度巡邏抽 32 個原子 0 ❌（research 檔 `status: 'audit'`），11 腳註／5,413 字／6 張圖／2 支影片。巡邏是 Quick Mode 抽樣，轉正前建議補一次冷讀席或 FACTCHECK Full，所以列 B 不直接轉。
-4. **[蕭上農](../knowledge/People/蕭上農.md)｜D，判對，不是 A 也判對。** 全站 D 級流量第一（GA 430）。4/27 走過 REWRITE NEW，有 research 報告、DONE-LOG 有收、lastHumanReview: true，所以不該標 🌱。但它 1,788 字、零媒體、28 段散文中位只有 33 字（大量一兩句一段），是 REWRITE 早期產物的典型：查過，但寫得很碎。這篇該進 EVOLVE，不該掛進化中說明條，兩級分開才看得出這個差別。
+4. **[蕭上農](../knowledge/People/蕭上農.md)｜D，判對，不是 A 也判對。** 全站 D 級流量第一。4/27 走過 REWRITE NEW，有 research 報告、DONE-LOG 有收、lastHumanReview: true，所以不該標 🌱。但它 1,788 字、零媒體、28 段散文中位只有 33 字（大量一兩句一段），是 REWRITE 早期產物的典型：查過，但寫得很碎。這篇該進 EVOLVE，不該掛進化中說明條，兩級分開才看得出這個差別。
 5. **[台灣獼猴](../knowledge/Nature/台灣獼猴.md)｜不是 A，規則照設計放過，但它是偽陰性區的樣本。** 4/25 idlccp1984 投稿，2,008 字／12 腳註，剛好在地板上。之後只有 PR polish（§11 標點、腳註格式）、別篇 EVOLVE 順手加的連結與全站 frontmatter 正規化，沒有查證。正文引了史溫侯「牠們的肉又甜又嫩」，引語有腳註但沒人核過原文。規則讓它留在「無標示」，符合「多數早期文章大體正確」的設計。這 133 篇 A-watch 交給 review-stock 依流量挑著查比較合適，全標會把大體正確的文章一起貼上說明條。
 
 另看了 A 級被排除的精選 [台灣滷肉飯](../knowledge/Food/台灣滷肉飯.md)：1,832 字／5 腳註，有幾次 PR 修補與「fake source authority audit」heal，但沒有 REWRITE 或巡邏。判 A 本身沒錯。它是首頁精選，所以留給哲宇決定（§八 #3）。
@@ -325,28 +329,109 @@ python3 scripts/tools/article-health.py knowledge/People/魏哲家.md --check=cu
 
 ## 七、還沒做、刻意沒做的
 
-- 沒動 MAINTAINER／DATA-REFRESH／WEEKLY-REPORT／REWRITE 任何 pipeline canonical（§五 的接法都是設計）。
-- 沒改說明條文案與 `curation-tag.py`（對外文字與欄位設計等決定）。
-- `2026-11-04.json` 的 `traffic` 欄位來自本機 GA／SC 快取（每篇 28 天瀏覽數與 7 天曝光，552 篇有值）。沒有任何個人資料，粒度跟已公開的 `dashboard-analytics.json` 同類，但覆蓋範圍比它大；push 前若不想公開，重跑時加 `--no-local-traffic` 即可（D 級排序會退回只看前 20 名）。
-- `article-depth-audit.py` 沒退休：census 的 D 級涵蓋它的用途，但它還被七月報告引用。建議等 §八 拍板後改成 census 的 facade 或標記退役。
+第一輪（只做普查與儀器）沒做的，第二輪的處置見 §十。到第二輪結束仍然沒做的：
+
+- 沒動 MAINTAINER／DATA-REFRESH／WEEKLY-REPORT／REWRITE 任何 pipeline canonical。§五 的接法有一部分已落在工具與設定（pre-commit、prebuild、週報 prep），pipeline 文件裡的指令（例：§1b 的 `curation-tag.py` 沒帶 `--reason`）還是舊寫法，待下次 self-evolve 對齊。
+- `article-depth-audit.py` 沒退休：census 的 D 級涵蓋它的用途，但它還被七月報告引用。建議改成 census 的 facade 或標記退役。
 
 ---
 
 ## 八、要哲宇決定的事（每條附預設）
 
-| #   | 決定                                                        | 預設                                                                                     |
-| --- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1   | A 級名單要不要套用、怎麼分批                                | 套用，但**先做 #2 再套**。第一批 A2 27 篇（規則漏標，沒有爭議），第二批只中 A1 的 140 篇 |
-| 2   | 說明條拆「待查證／待擴寫」兩種、拿掉「由社群貢獻」          | 拆，文案用 §五.5 草案再潤，`curation-tag.py` 加 `--reason`                               |
-| 3   | A 級裡 12 篇精選（台灣滷肉飯、珍珠奶茶、注音符號等）        | 先不標、保留精選，排進 review-stock 最前面，查完再決定                                   |
-| 4   | A 級裡 43 篇 `lastHumanReview: true`                        | 照標（洪醒夫前例：早期人工看過不等於查過）                                               |
-| 5   | A 級門檻 5 腳註／2,000 字（179 篇，套用後 🌱 佔 44%）       | 維持，放寬到 2,500 字會到 48%，接近「將近一半都在進化中」的自貶區                        |
-| 6   | B 級 2 篇（馬祖國際藝術島、台灣黑熊）轉正                   | 馬祖直接轉（標記後跑完 Stage 3 大驗證輪），台灣黑熊先過 review-stock 冷讀席再轉          |
-| 7   | `curation-gap` 的 A2 在 pre-commit 升 HARD                  | 第一波套用後升，A1 維持 WARN                                                             |
-| 8   | 重開 `twmd-rewrite-daily` 消化 D 級                         | 重開，每天一篇，從 D 級流量榜未排隊的開始，七月 69 篇 batch 併入 census D 級 umbrella    |
-| 9   | 新文章沒封面在 rewrite-stage-4 要不要 HARD                  | 要（`image-health` 加一條 frontmatter `image` 必填），投稿路徑維持 WARN                  |
-| 10  | 14 張分類預設封面收進庫                                     | 收（一次性，`image-ingest.mjs`）                                                         |
-| 11  | census 進 prebuild 產 `dashboard-census.json`、週報讀 delta | 進，dated JSON 改週覆寫 `latest.json`                                                    |
-| 12  | A-watch 133 篇（零證據但不薄）                              | 不標，`review-stock-pick.py` 改成優先挑這區                                              |
+| #   | 決定                                                        | 預設                                                                                     | 本次處置（第二輪）                                                                                     |
+| --- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1   | A 級名單要不要套用、怎麼分批                                | 套用，但**先做 #2 再套**。第一批 A2 27 篇（規則漏標，沒有爭議），第二批只中 A1 的 140 篇 | 已套用：A2 27 篇（`ef8369eef`）、A1 140 篇（`22286539e`），文案先在 `30550c209` 改好                   |
+| 2   | 說明條拆「待查證／待擴寫」兩種、拿掉「由社群貢獻」          | 拆，文案用 §五.5 草案再潤，`curation-tag.py` 加 `--reason`                               | 已做（`28d3e3ae1`、`30550c209`）：`curationReason` 欄位＋十三語 i18n，文案見 §十.3                     |
+| 3   | A 級裡 12 篇精選（台灣滷肉飯、珍珠奶茶、注音符號等）        | 先不標、保留精選，排進 review-stock 最前面，查完再決定                                   | 照預設：沒標，`review-stock-pick.py` 把它們排第一組                                                    |
+| 4   | A 級裡 43 篇 `lastHumanReview: true`                        | 照標（洪醒夫前例：早期人工看過不等於查過）                                               | 照預設：套用的 167 篇裡 38 篇是 true（另 5 篇在精選裡沒標）                                            |
+| 5   | A 級門檻 5 腳註／2,000 字（179 篇，套用後 🌱 佔 44%）       | 維持，放寬到 2,500 字會到 48%，接近「將近一半都在進化中」的自貶區                        | 照預設：維持，套用後 🌱 509 篇（44.0%）                                                                |
+| 6   | B 級 2 篇（馬祖國際藝術島、台灣黑熊）轉正                   | 馬祖直接轉（標記後跑完 Stage 3 大驗證輪），台灣黑熊先過 review-stock 冷讀席再轉          | **未做**：轉正要人審，留給哲宇                                                                         |
+| 7   | `curation-gap` 的 A2 在 pre-commit 升 HARD                  | 第一波套用後升，A1 維持 WARN                                                             | 已做（`28d3e3ae1`）：pre-commit `a2_severity = "hard"`，CI 不升（投稿 PR 閘門跑同一個 profile，§十.2） |
+| 8   | 重開 `twmd-rewrite-daily` 消化 D 級                         | 重開，每天一篇，從 D 級流量榜未排隊的開始，七月 69 篇 batch 併入 census D 級 umbrella    | **未做、待決**：排程與長期額度是哲宇的事，umbrella 併入已做（`f4bd59924`）                             |
+| 9   | 新文章沒封面在 rewrite-stage-4 要不要 HARD                  | 要（`image-health` 加一條 frontmatter `image` 必填），投稿路徑維持 WARN                  | 已做（`28d3e3ae1`）：stage-4／4-5 HARD，ci-deploy／pre-commit WARN                                     |
+| 10  | 14 張分類預設封面收進庫                                     | 收（一次性，`image-ingest.mjs`）                                                         | 已做（`cdf91185e`）：14 個分類（12 張圖）全收，10 張換同主題新圖，0 張沒做完                           |
+| 11  | census 進 prebuild 產 `dashboard-census.json`、週報讀 delta | 進，dated JSON 改週覆寫 `latest.json`                                                    | 已做（`28d3e3ae1`、`c4414a894`）：prebuild 接上、`latest.json`、週報 prep「九之一」                    |
+| 12  | A-watch 133 篇（零證據但不薄）                              | 不標，`review-stock-pick.py` 改成優先挑這區                                              | 已做（`28d3e3ae1`）：排第二組（第一組是 #3 的精選）                                                    |
+
+---
+
+## 九、第二輪做的時候修正的判斷
+
+- **blobless clone 的判斷改了一次**：第一版用「有沒有 promisor remote」判斷 CI 的 blobless checkout，結果本機這個 clone 也是 partial clone（`remote.origin.promisor=true`）而 blob 都在，判斷錯邊讓 B 級變 0、A 級多 2 篇（`1211e6689` 修正）。現在所有 git 指令一律帶 `GIT_NO_LAZY_FETCH=1`：缺 blob 才失敗、才退一步（改名只認 `-M100%`、標記日不判）。
+- **A1 commit 訊息的「約 47 篇」要更正**：47 是 A 級全體 179 篇裡 Taiwan.md 自己早期寫的篇數（含 12 篇沒標的精選）。實際套用的 140 篇 A1 裡是 41 篇。commit 已不在頂端，沒有改寫歷史，在這裡更正。
+- **pre-commit 的格式正規化**：A2 那批多數是投稿者從 GitHub 網頁進站、沒跑過本地 hook，這次觸檔讓 prettier 與 frontmatter-format 第一次整理它們（斜體 `*…*` → `_…_`、含括號網址包 `<…>`、frontmatter 欄位排序），A2 commit 因此是 392+／177−。渲染與文字不變，網址不變由 prettier-url-stability 把關。
+
+## 十、本次已實作（第二輪）
+
+前提：哲宇授權「中間不要問、做完」，但上線前要他確認。全部在 worktree 分支上 commit，**沒有 push**。§八 照預設做，除了 #6（B 級轉正要人審）與 #8（重開 rewrite routine，牽涉排程與長期額度）。
+
+### 10.1 commit 清單
+
+| commit      | 內容                                                                                                | 篇數         |
+| ----------- | --------------------------------------------------------------------------------------------------- | ------------ |
+| `68851adb7` | 第一輪：普查工具、`curation-gap`、報告、名單                                                        | —            |
+| `28d3e3ae1` | 儀器：`--reason`、A2 觸檔即硬、封面必填、`cover-promote.py`、prebuild、週報 prep、review-stock 分組 | —            |
+| `30550c209` | 說明條拆兩種、拿掉「社群貢獻」、十三語進 `src/i18n/latest.ts`、譯文頁繼承 zh 的查證狀態             | —            |
+| `1211e6689` | `GIT_NO_LAZY_FETCH` 退路，`2026-11-04.json` 改只帶公開流量，A 級三個分批檔，`--exclude`             | —            |
+| `ef8369eef` | A2 補標（待查證）＋兩篇圖說網址 `%5F`                                                               | 27           |
+| `22286539e` | A1 補標：待查證 27、待擴寫 113                                                                      | 140          |
+| `67c4c72fc` | C1 正文本地圖升格封面                                                                               | 16（跳過 6） |
+| `f4bd59924` | ARTICLE-INBOX：census D 級 umbrella（P2），7/16 的 69 篇 batch 併入                                 | —            |
+| `cdf91185e` | 14 個分類預設封面收進 `public/article-images/covers/`                                               | 12 張圖      |
+| `ff8ab4d4d` | 台灣蘭花圖說網址 `%5F`（全站 pre-commit profile 最後一個 hard）                                     | 1            |
+| `c4414a894` | 套用後快照：`reports/article-census/latest.json`、`public/api/dashboard-census.json`                | —            |
+
+### 10.2 儀器與設定
+
+- **`curation-tag.py --reason unverified|thin`**：寫 `curationReason`（插在 `curation` 正下方）。`--set verified` 會一併拿掉。`curation-consistency` 新增兩條：取值非法 HARD、非 incubating 卻帶著它 WARN。
+- **`curation-gap`**：A1／A2 各出一條，訊息帶建議的 `--reason`（只有字數失守 → thin，其餘 → unverified）。pre-commit profile 的 `a2_severity = "hard"`。**CI 裡不升**：`pr-frontmatter-gate.yml` 對投稿 PR 逐檔跑同一個 pre-commit profile，投稿新文在 PR 裡必中 A2，若升 HARD 每個投稿 PR 都會變紅。標記是維護者 merge 後 heal 的事。
+- **`image-health` 封面必填**：預設 WARN（ci-deploy 全站多出約 888 條 warn，不擋），rewrite-stage-4／4-5 HARD。
+- **`census.py`**：`suggested_reason`。git 一律 `GIT_NO_LAZY_FETCH=1`。標記日拿不到就不判 B 級。
+- **`article-census.py`**：預設輸出改覆寫 `latest.json`。`--dashboard-out`。`--exclude`。A 級另寫三個分批檔（`-tier-A2`／`-tier-A1-unverified`／`-tier-A1-thin`，各帶自己的 `--reason`，可直接餵 `curation-tag.py --files`）。
+- **prebuild**：`prebuild:dashboard` 在 immune 之後跑 census（吃同一份 `.health-sweep.json`、`--no-local-traffic`），寫 `public/api/dashboard-census.json`。失敗印警告、不擋 build。
+- **週報**：`weekly-report-prep.py` 多一節「九之一」，用 git 裡七天前的 `dashboard-census.json` 算四級與 🌱／🔎／封面的週變化。
+- **`review-stock-pick.py`**：讀 `latest.json`，精選 A 級排第一組、A-watch 第二組。
+- **`cover-promote.py`**（新）：C1 升格工具，授權從圖說行或 `## 圖片來源` 段抄，只收 CC BY／BY-SA／CC0／公有領域，比例 0.75–2.5 以外不升格，抄不到就跳過。
+- 測試：新增 17 個（`test_census.py` 第二輪、`test_curation_tag.py`、`test_cover_promote.py`、`test_review_stock_pick_census.py`、CLI 分批檔與 dashboard 輕量版）。
+
+### 10.3 說明條文案（最終版）
+
+| 種類                                            | zh-TW                                                                                                                                            | en                                                                                                                                                                                                                          |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 待查證（`unverified`，舊 342 篇缺欄位也用這個） | 標籤「進化中 · 待查證」。這篇還沒走完 Taiwan.md 的逐條事實查證。內容大致可讀，但引語、年份、數字可能還沒逐一核對。讀到可疑的地方，**告訴我們**。 | Evolving · Awaiting fact-check. This article hasn't finished Taiwan.md's line-by-line fact-check yet. It reads fine overall, but quotes, dates and figures may not all have been verified. Spot something off? **Tell us**. |
+| 待擴寫（`thin`）                                | 標籤「進化中 · 待擴寫」。這篇目前只寫到骨架，還在排隊等深度改寫。你知道更多、手上有資料或照片，**告訴我們**。                                    | Evolving · Awaiting expansion. This article is still a sketch, waiting in line for an in-depth rewrite. Know more, or have sources or photos to share? **Tell us**.                                                         |
+| 🔎 徽章（順手搬進 i18n）                        | 已深度查證 · 這篇走過 Taiwan.md 的深度研究與逐項事實查證流程                                                                                     | Fact-checked in depth · This article went through Taiwan.md's in-depth research and item-by-item fact-checking                                                                                                              |
+
+卡片 pill 跟說明條標籤同一組字。`/latest` 的階段篩選改成只有「進化中」。拿掉了舊文案收尾的「你的一雙眼睛，就是這篇文章轉正的路」。
+
+**其他 11 語**（ja／ko／es／fr／vi／id／pt／hi／ar／ru／de）：照各語既有 `curation.stage.*` 的用詞補譯，十三語 key 齊全，`check-ui-language` 沒有新缺口。都是我寫的機器草稿，**待母語者校**。最沒把握的是 hi 與 ar（語氣與敬語），其次 vi、id。沒有任何一語先用英文頂著。
+
+**譯文頁的行為改變**：原本有 vi 59、de 32 等譯文自己帶著 `curation: incubating`，它們的文章頁會顯示**中文**說明條。現在改用該語言。譯文沒標時從 zh 來源繼承查證狀態與種類（跟卡片同一條規則），所以這次補標的 167 篇，十二語譯文頁也會出現說明條。
+
+### 10.4 套用篇數與套用後讀數
+
+- **A2 27 篇**（全部 unverified）、**A1 140 篇**（unverified 27、thin 113），合計 167。排除：12 篇精選（#3）。別的 session 正在重寫的 5 篇（鐵牛杰哥、鱔魚意麵、地瓜球、這群人、齊柏林，本來就都不在 A）。babel-hold 凍結中的 3 篇（本來就不在 A）。
+- **C1 升格 16 篇**：叭噗冰、西螺鎮、高雄加工出口區、排隊、台灣黑熊、杉林溪、Joeman、周天成、呱吉、彎彎、百靈果 News、蔣經國、諸葛四郎、陳文郁、館長陳之漢、冷氣與能源貧窮議題。**跳過 6 篇**：鐵牛杰哥（在重寫）、李宗盛（直式肖像 0.67）、彰化縣（作者只寫 contributor）、1935新竹臺中地震（國家文化記憶庫圖、沒有作者）、歡樂無法黨（PDIS 圖、沒有作者欄）、電網韌性（授權沒有版本號）。其中 9 篇授權原本只寫在圖說、沒有 `## 圖片來源` 段，image-health 會各多一條 WARN。
+- **分類預設封面**：14 個分類（12 張圖）全部收進庫。北美館、台北 101 照原圖。太魯閣與李安原圖是直式，另外 8 個原檔名在 Commons 不存在，共 10 張換成同主題、CC BY／BY-SA／CC0 的 Commons 圖，作者與授權記在 `categoryConfig.ts` 新欄位 `coverCredit`。每張都看過縮圖（第一輪挑到的玉山是一張長苔石頭的特寫，已換成東埔山遠眺主峰北峰）。
+- **套用後**（`latest.json`）：A 12（全是精選）／B 2／C 888／D 226。🌱 509 篇（44.0%）：thin 113、unverified 54、舊 342 篇沒有 `curationReason`。有封面 268 篇。A2 歸零。
+
+### 10.5 驗證
+
+- `uv run --with pytest --with pyyaml python -m pytest tests -q`：944 passed、9 skipped。
+- `article-health.py --all --profile=ci-deploy`、`--profile=pre-commit`：兩者 0 hard（pre-commit 第一輪基準有 3 篇 prettier-url-stability hard，三篇都修了）。`curation-gap` 只剩 12 條 warn（精選）。
+- `npm test`（markdown／heading-id／frontmatter 15,030 檔）通過。`astro check` 只有既有的 `fork-graph.json` 缺檔 1 個 error，與本次無關。`check-template-language`、`check-ui-language` 沒有新增問題。
+- 沒有跑完整 `astro build`，**站上實際渲染（說明條兩種文案、譯文頁繼承、卡片 pill、分類封面）沒有用瀏覽器親眼看過**，上線前要看。
+
+### 10.6 還沒做的（第二輪之後）
+
+1. **B 級 2 篇轉正**（#6）：等哲宇。
+2. **重開 `twmd-rewrite-daily`**（#8）：等哲宇。D 級 umbrella 已在 INBOX 排好。
+3. **分類封面的署名還沒顯示在畫面上**：CC BY／BY-SA 要求標示作者與授權，`coverCredit` 目前只在原始碼裡。原本的熱連結也沒有署名，但收進庫後這件事更明確是我們的義務。建議在文章頂部背景角落或 /about 加一段圖片出處（對外文字，等哲宇）。
+4. **舊 342 篇 🌱 沒有 `curationReason`**：一律顯示「待查證」，是比較保守的那句。可以用 census 的 `suggested_reason` 回填（估計多數是 thin），要不要做等哲宇。
+5. **譯文 11 語的文案**待母語者校（§10.3）。
+6. **pipeline 文件沒更新**：MAINTAINER §1b 的指令沒帶 `--reason`、REWRITE 沒寫封面必填、DATA-REFRESH 沒寫 census。工具與設定已經是新行為，文件是舊寫法。
+7. **`contributor-pr-heal.py --from-pr` 自動補標**（§5.1）沒做。目前靠 pre-commit 的 A2 HARD 擋。
+8. **C1 跳過的 6 篇、C2 133 篇、C3 749 篇**的封面：C2 可以照 cover-promote 的路子先 ingest 再升格，C3 要找圖。
+9. **快照重複**：`2026-11-04.json`（套用前，本報告引用）與 `latest.json`（套用後）各 1.6 MB。之後每週只覆寫 `latest.json`。
 
 🧬
