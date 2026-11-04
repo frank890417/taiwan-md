@@ -418,8 +418,10 @@ const homepageCollectionLD = isHomepage
             position: i + 1,
             item: {
               '@type': 'CollectionPage',
-              '@id': `${siteUrl}${langPrefix}/${slug}`,
-              url: `${siteUrl}${langPrefix}/${slug}`,
+              // trailing slash = the hub's canonical; without it every
+              // structured-data URL here is a 301 on GitHub Pages.
+              '@id': `${siteUrl}${langPrefix}/${slug}/`,
+              url: `${siteUrl}${langPrefix}/${slug}/`,
               name: slug,
             },
           };
@@ -514,7 +516,9 @@ const generateBreadcrumbLD = () => {
       '@type': 'ListItem',
       position: 1,
       name: 'Taiwan.md',
-      item: `${siteUrl}${localePrefix || ''}`,
+      // 2026-11-04: trailing slash so breadcrumb URLs equal the canonical
+      // (https://taiwan.md/en was a 301 to /en/).
+      item: `${siteUrl}${localePrefix || ''}/`,
     },
   ];
 
@@ -551,8 +555,8 @@ const generateBreadcrumbLD = () => {
   // caller that hasn't been updated to pass it yet.
   if (category && type === 'article') {
     const categoryUrl = categorySlug
-      ? `${siteUrl}${localePrefix}/${categorySlug}`
-      : `${siteUrl}${localePrefix}/${category}`;
+      ? `${siteUrl}${localePrefix}/${categorySlug}/`
+      : `${siteUrl}${localePrefix}/${category}/`;
     return {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
