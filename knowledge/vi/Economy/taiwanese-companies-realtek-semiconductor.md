@@ -9,11 +9,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:49009cebe0259785'
 sourceBodyHash: 'sha256:dec8acb87bfd42a2'
-translatedAt: '2026-10-15T12:42:53+08:00'
+translatedAt: '2026-11-04T16:49:09.574717+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Năm 1987, bảy kỹ sư đã thành lập Realtek Semiconductor tại Khu Khoa học Tân Trúc với số vốn 2 triệu New Taiwan dollar, lấy hình ảnh con cua làm logo, và ra mắt chip mạng đầu tiên do Đài Loan tự nghiên cứu vào năm 1991. Năm 2024, doanh thu hợp nhất đạt khoảng 113,4 tỷ NT$, là công ty thiết kế IC lớn thứ ba tại Đài Loan; trong mỗi chiếc máy tính trên thế giới đều có thể ẩn chứa một "con cua Realtek".
@@ -98,17 +100,17 @@ Realtek ngày nay không chỉ là một công ty thiết kế chip, mà còn l�
 
 ## Tài liệu tham khảo
 
-[^1]: [Báo cáo thường niên 2024 của Realtek Semiconductor](https://www.realtek.com/InvestorRelations/AnnualReports) — Xác nhận doanh thu hợp nhất năm 2024 đạt khoảng 113,4 tỷ NT$ (tăng 19,1%); 7 nhà sáng lập thành lập công ty vào ngày 21/10/1987.
-
-[^2]: [Trạm Quan sát Thông tin Công khai: Realtek Semiconductor](https://mops.twse.com.tw/) — Thông tin niêm yết mã 2379, báo cáo tài chính các năm.
-
-[^3]: [Sở Giao dịch Chứng khoán Đài Loan: 2379 Realtek](https://www.twse.com.tw/) — Xác nhận mã chứng khoán 2379, niêm yết năm 1998, Khâu Thuận Kiến là Chủ tịch hiện tại.
-
-[^4]: [Dòng sản phẩm trên trang web chính thức của Realtek](https://www.realtek.com/) — Giải thích về dòng sản phẩm chip WiFi 6/7.
-
-[^5]: [TechNews: Lịch sử phát triển của Realtek Semiconductor](https://technews.tw/) — Báo cáo bối cảnh ngành từ khi Realtek bắt đầu với chip mạng đến khi mở rộng sang IC đa phương tiện.
-
 **Đọc thêm**
 
-- [TechNews: Quá trình phát triển của Realtek Semiconductor](https://technews.tw/)
-- [Electronic Times: Báo cáo ngành thiết kế IC Đài Loan](https://www.digitimes.com.tw/)
+- [Technews: Lịch sử phát triển của Realtek Semiconductor](https://technews.tw/)
+- [Digitimes: Báo cáo ngành thiết kế IC Đài Loan](https://www.digitimes.com.tw/)
+
+[^1]: [Báo cáo thường niên năm 2024 của Realtek Semiconductor | Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Xác nhận doanh thu hợp nhất cả năm 2024 đạt khoảng NT$113,4 tỷ (tăng 19,1% so với cùng kỳ); được thành lập bởi 7 nhà sáng lập vào ngày 21 tháng 10 năm 1987.
+
+[^2]: [Trạm quan sát thông tin công khai: Realtek Semiconductor](https://mops.twse.com.tw/) — Thông tin cơ bản của mã niêm yết 2379 và các báo cáo tài chính qua các năm.
+
+[^3]: [Sở Giao dịch Chứng khoán Đài Loan: 2379 Realtek](https://www.twse.com.tw/) — Xác nhận mã chứng khoán 2379, niêm yết vào năm 1998, Khâu Thuận Kiến (Chiu Shun-chien) hiện là Chủ tịch Hội đồng quản trị.
+
+[^4]: [Dòng sản phẩm trên trang web chính thức của Realtek](https://www.realtek.com/) — Mô tả về dòng sản phẩm chip WiFi 6/7.
+
+[^5]: [Technews: Quá trình phát triển của Realtek Semiconductor](https://technews.tw/) — Báo cáo bối cảnh ngành về việc Realtek Semiconductor mở rộng từ chip mạng sang IC đa phương tiện.

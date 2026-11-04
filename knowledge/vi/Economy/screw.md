@@ -18,14 +18,16 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-04T16:46:11.476274+00:00'
 ---
 
-> **Tổng quan 30 giây:** Đài Loan từng là "trung tâm cung ứng mà cứ ba ốc vít của Mỹ thì có một chiếc từ Đài Loan", thậm chí còn đóng vai trò quyết định trong Chiến tranh Việt Nam. Tuy nhiên, kể từ khi Mỹ áp dụng thuế quan 50% theo Điều khoản 232 vào năm 2025, và Liên minh châu Âu sắp có thuế CBAM vào năm 2026, ngành "lúa mì công nghiệp" này — với doanh thu hàng năm trên 50 tỷ đô la Đài Loan, nuôi sống 30.000 gia đình ở phía Bắc Cao Hùng — đang trải qua một sự chuyển đổi "từ bán theo cân nặng đến bán theo từng chiếc" sống chết.
+**Tóm tắt 30 giây:** Đài Loan từng là trung tâm cung ứng với tỷ lệ "cứ ba chiếc linh kiện liên kết tại Mỹ thì có một chiếc đến từ Đài Loan", thậm chí đóng vai trò quyết định trong thời kỳ Chiến tranh Việt Nam. Tuy nhiên, trước việc Hoa Kỳ áp mức thuế cao 50% theo Mục 232 vào năm 2025 và sự cận kề của thuế carbon CBAM từ Liên minh Châu Âu vào năm 2026, ngành công nghiệp "gạo của nền công nghiệp" này — với giá trị sản lượng hàng năm vượt quá NT$50 tỷ và là nguồn sống của 30.000 hộ gia đình tại Bắc Cao Hùng — đang trải qua một cuộc chuyển đổi sinh tử, từ việc "bán theo cân" sang "bán theo chiếc".
 
 ## Sự ra đời của những anh hùng Chiến tranh Việt Nam: Những chiếc ốc vít nhỏ như thế nào đã chắc chặn nền tảng "Vương quốc Ốc vít" của Đài Loan?
 

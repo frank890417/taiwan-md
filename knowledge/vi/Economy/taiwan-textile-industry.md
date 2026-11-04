@@ -2,9 +2,7 @@
 title: 'Ngành dệt may Đài Loan: Từ ngành công nghiệp hoàng hôn đến nhà vô hình ẩn giấu trong trang phục thể thao của Thế vận hội'
 description: "Một ngành công nghiệp truyền thống từng bị coi là 'hoàng hôn', làm thế nào dựa vào việc tái chế chai PET, lưới đánh cá bỏ đi và thậm chí thu giữ khí thải nhà máy để tạo ra bộ trang phục công nghệ cao cho các đội tuyển toàn cầu tại Thế vận hội Paris 2024, qua đó lật ngược câu chuyện về sự kiên cường của ngành công nghiệp truyền thống Đài Loan."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'Ngành dệt may',
@@ -15,15 +13,20 @@ tags:
     'Eclat',
     'Polymer',
   ]
-readingTime: 10
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-07-25T21:33:45+08:00'
+translatedAt: '2026-11-04T16:55:50.956878+00:00'
 ---
 
 > 30 giây tổng quan: Ngành dệt may Đài Loan từng là lực lượng chính tạo ngoại tệ vào những năm 1960, nhưng đến những năm 1990, do áp lực chi phí, ngành này bị dán nhãn là "ngành công nghiệp hoàng hôn". Tuy nhiên, thông qua 30 năm chuyển đổi công nghệ, Đài Loan hiện cung cấp hơn 70% loại vải thể thao chức năng cho toàn thế giới[^1]. Từ trang phục "chế từ khí thải" của đội Trung Hoa tại Thế vận hội Paris 2024[^2] đến việc 23 trong số 48 đội tham dự World Cup 2026 sử dụng sợi vải từ Đài Loan[^3], hòn đảo này đang dùng rác thải và công nghệ đen để định nghĩa lại tiêu chuẩn thời trang bền vững toàn cầu.

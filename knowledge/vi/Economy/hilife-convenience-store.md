@@ -1,7 +1,7 @@
 ---
 title: 'Hi-Life: Từ sắc đỏ Quang Tuyền đến sắc xanh Liên Bang, cuộc bứt phá linh hồn của "ông lớn thứ ba" ngành cửa hàng tiện lợi Đài Loan'
 description: 'Là chuỗi cửa hàng tiện lợi duy nhất có huyết thống thuần bản địa trong số bốn ông lớn tại Đài Loan, Hi-Life đã làm thế nào để tự khẳng định mình trước sự kẹp chém của 7-ELEVEN và FamilyMart bằng việc "tiên phong đặt trước mâm cỗ Tết" và "chuyển đổi số"? Một cuộc tái cơ cấu quyền điều hành vào năm 2023 sẽ thay đổi gen di truyền của thương hiệu 35 năm tuổi này như thế nào?'
-date: '2026-07-21'
+date: 2026-07-21
 category: 'Economy'
 tags:
   [
@@ -13,18 +13,20 @@ tags:
     'Quyền điều hành',
     'Tài chính bán lẻ',
   ]
-subtitle: '企業列傳'
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-07-21'
-lastHumanReview: 'false'
+lastVerified: 2026-07-21
+lastHumanReview: false
 readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
-sourceBody_hash: 'sha256:1db4b0d8639cd770'
-translatedAt: '2026-07-24T15:52:20+08:00'
+translatedAt: '2026-11-04T16:37:39.822091+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Thành lập vào năm 1989 tại phố Dihua, Hi-Life (萊爾富) là thương hiệu thuần bản địa đầu tiên và cũng là duy nhất trong số bốn chuỗi cửa hàng tiện lợi lớn tại Đài Loan. Đây không phải sản phẩm được nhượng quyền từ vốn nước ngoài, mà là thành quả của gia tộc họ Uông thuộc Quang Tuyền (Guangquan), được vun trồng dựa trên triết lý "tình yêu quê hương, tầm nhìn thế giới". Dù số lượng cửa hàng luôn đứng thứ ba hoặc thứ tư, Hi-Life lại là người tiên phong trong các dịch vụ sáng tạo như "đặt trước mâm cỗ Tết" và "máy đa tiện ích". Vào năm 2023, quyền điều hành đã chuyển từ gia tộc họ Uông (Quang Tuyền) sang Tập đoàn Union (Liên Bang). Chuỗi cửa hàng vốn mang sắc đỏ truyền thống này đang dần khoác lên mình diện mạo mới với tông màu "xanh dương và xanh lá", chuyển mình thành các trạm tiền tiêu vật lý cho dịch vụ thanh toán số và tài chính. Thương vụ này không chỉ là sự luân chuyển dòng vốn, mà còn là một cuộc thử nghiệm về cách "tinh thần bán lẻ bản địa" bứt phá trong kỷ nguyên mới.
