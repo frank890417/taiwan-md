@@ -1,20 +1,30 @@
 ---
-title: "Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with 'The Butcher's Wife'"
-description: "Born in April 1952 in Lukang, Changhua, under the birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in United Daily News, shocking the literary world with its subject matter of domestic violence. 'The Enchanted Garden' followed in 1991. In 2004, she was awarded the Chevalier de l'Ordre des Arts et des Lettres by France. Her works have been translated into English, French, German, Japanese, and other languages, making her one of the most internationally recognized female writers from Taiwan."
+title: "Li Ang: Lukang 1952, 'The Butcher's Wife' Pioneer of Taiwanese Feminist Literature"
+description: "Born in 1952 in Lukang, Changhua, birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in the United Daily News, shocking Taiwan's literary scene with its domestic violence theme. In 1991, 'The Labyrinth Garden'. In 2004, awarded the Chevalier of the Order of Arts and Letters by France. Works translated into English, French, German, Japanese, and other languages, she is one of Taiwan's most internationally recognized female writers."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Literature',
+    'Feminist Literature',
+    "The Butcher's Wife",
+    'The Labyrinth Garden',
+    'Lukang',
+    'Gender Issues',
+  ]
 subcategory: '文學'
-tags: ['文學', '女性主義文學', '殺夫', '迷園', '鹿港', '性別議題']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-05-24T05:06:32+08:00'
+translatedAt: '2026-11-04T21:02:59.094538+00:00'
 ---
 
 # Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with "The Butcher's Wife"

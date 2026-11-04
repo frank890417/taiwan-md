@@ -1,27 +1,29 @@
 ---
 title: 'Yang You-ren'
-description: 'Founder of Step30 International Christian Care Association, Ten Outstanding Young Persons of Taiwan 2017, who collected 100,000 pairs of used shoes for East African children with a single poster'
+description: 'Founder of the Old Shoes Save Lives International Christian Care Association, 2017 Ten Outstanding Young Persons awardee, who collected 100,000 pairs of used shoes with a single poster to aid children in East Africa'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
-    '台灣社會企業',
-    '人道救援',
-    '舊鞋救命',
-    '十大傑出青年',
-    '非洲援助',
-    '基督教事工',
+    'Taiwan Social Enterprise',
+    'Humanitarian Aid',
+    'Old Shoes Save Lives',
+    'Ten Outstanding Young Persons',
+    'Africa Aid',
+    'Christian Ministry',
   ]
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-05-16T05:07:54+08:00'
+translatedAt: '2026-11-04T21:12:17.218894+00:00'
 ---
 
 # Yang You-ren: From Graffiti Dropout to "Shoes That Save Lives" in Africa
@@ -58,19 +60,19 @@ Yang is the author of _Blessings in 50,000 Pairs: How a Small Action Can Change 
 
 ## References
 
-[^1]: [Yang You-ren — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Primary biographical details, including birth in Taoyuan, studies in Australia, and faith turning point.
+[^1]: [Yang You-ren — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Main biographical information, including birth in Taoyuan, studies in Australia, and faith turning point.
 
-[^2]: [Step30 Old Shoes Save Lives — Official Website](https://www.step30.org/) — Organization overview, ministry programs, and annual service reports.
+[^2]: [Step30 Old Shoes Save Lives — Official Website](https://www.step30.org/) — Organization introduction, ministry plans, and annual service reports.
 
-[^3]: [Step30 International Christian Care Association — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Full account of the 2014 poster campaign and container distribution records.
+[^3]: [Old Shoes Save Lives International Christian Care Association — Wikipedia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Details of the 2014 poster incident, container distribution records.
 
-[^4]: [104 Bravo Interview — From Street Kid to Ten Outstanding Young Person](https://blog.104.com.tw/104bravo-step30-org-founder/) — Yang's life story, the origin of the name Step30, and explanation of the "avoiding dependency" philosophy.
+[^4]: [104 Applause Interview — From Street Punk to Top Ten Outstanding Youths](https://blog.104.com.tw/104bravo-step30-org-founder/) — Yang You-ren's life turning point story, the origin of Step30's name, and explanation of the 'no dependency creation' philosophy.
 
-[^5]: [Step30 Official Website — Program Descriptions](https://www.step30.org/) — Details on the School-Building, Living Water, Love Girls, and Agricultural Self-Sufficiency initiatives.
+[^5]: [Step30 Official Website — Project Introduction](https://www.step30.org/) — Descriptions of four projects: Education Promotion, Living Water, Love·Girls, and Agricultural Self-Sufficiency.
 
-[^6]: [Ten Outstanding Young Persons Association](https://www.youth.org.tw/) — Confirmation of Yang You-ren's 2017 selection as a Ten Outstanding Young Person.
+[^6]: [Association of Ten Outstanding Young Persons](https://www.youth.org.tw/) — Confirms Yang You-ren was selected as one of the Ten Outstanding Young Persons in 2017.
 
-[^7]: [_Blessings in 50,000 Pairs_ — Books.com.tw](https://www.books.com.tw/products/0010806227) — Yang's book (Campus Bookstore, 2018), chronicling the founding of Step30 and his African ministry journey.
+[^7]: [《Give You 50,000 Pairs of Blessings》 — Books.com.tw](https://www.books.com.tw/products/0010806227) — Yang You-ren's work (Campus Bookroom, 2018), recording the founding process of Old Shoes Save Lives and the journey of African ministry.
 
 ## Further Reading
 

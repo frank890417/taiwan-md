@@ -1,22 +1,29 @@
 ---
-title: "Lin Bai-li: Shanghai 1949, Founder of Quanta Computer and the Notebook ODM King Who Has Fought Cancer for Two Decades"
-description: "Born April 24, 1949, in Shanghai. Co-founded Quanta Computer with Liang Ci-zhen and others in 1988. Diagnosed with lung adenocarcinoma in 2005 (has been fighting cancer for over 20 years). Quanta's 2025 revenue exceeded NT$2 trillion; a key NVIDIA server partner; listed on the Fortune 500. His son's succession has drawn attention. Still serving as chairman in 2026."
+title: 'Lin Bai-li: Born in Shanghai 1949, Quanta Computer Founder and Notebook OEM King Who Battled Cancer for 20 Years'
+description: "Born in Shanghai on April 24, 1949. Founded Quanta Computer with C.C. Leung and others in 1988. Diagnosed with lung adenocarcinoma in 2005 (has been battling cancer for over 20 years). Quanta's 2025 revenue exceeded NT$2 trillion; key NVIDIA server partner; Fortune 500 company. Succession question regarding his son draws attention. Still serving as chairman in 2026."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "科技與企業"
-tags: ["科技與企業", "廣達電腦", "ODM代工", "人工智慧", "肺腺癌"]
-readingTime: 7
-#   whats_excluded: "廣達與各大廠代工合約細節；AI伺服器具體規格；兒子接班爭議細節（待確認）"
-#   where_it_hedges: "廣達筆電市占率「超過30%」無原始source（P0⚠️）；兒子接班時程待確認"'
+category: 'People'
+tags:
+  [
+    'Technology & Business',
+    'Quanta Computer',
+    'ODM Manufacturing',
+    'Artificial Intelligence',
+    'Lung Adenocarcinoma',
+  ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
-translatedFrom: People/林百里.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:4e6831b8d5040b1f
-sourceBodyHash: sha256:98f02f5d889ec6c6
-translatedAt: 2026-05-20T05:08:27+08:00
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/林百里.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4e6831b8d5040b1f'
+sourceBodyHash: 'sha256:98f02f5d889ec6c6'
+translatedAt: '2026-11-04T21:08:20.700062+00:00'
 ---
 
 # Lin Bai-li: Shanghai 1949, Founder of Quanta Computer and the Notebook ODM King Who Has Fought Cancer for Two Decades
