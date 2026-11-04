@@ -215,6 +215,22 @@ patch("src/i18n/home.ts", [
     (r"Plus de \d+ pages de contenu", f"Plus de {zh} pages de contenu"),
     (r"Más de \d+ páginas de contenido", f"Más de {zh} páginas de contenido"),
 ])
+# /explore/ 描述跟首頁吃同一個數字（2026-11-04 evolve：13 語停在 685+，首頁已是 1156+）
+patch("src/i18n/explore.ts", [
+    (r"Browse \d+\+ curated articles", f"Browse {zh}+ curated articles"),
+    (r"\d+\+ 本のキュレーション記事", f"{zh}+ 本のキュレーション記事"),
+    (r"\d+\+ 큐레이션 기사", f"{zh}+ 큐레이션 기사"),
+    (r"hơn \d+ bài viết tuyển chọn", f"hơn {zh} bài viết tuyển chọn"),
+    (r"\d+\+ artikel pilihan", f"{zh}+ artikel pilihan"),
+    (r"mais de \d+ artigos selecionados", f"mais de {zh} artigos selecionados"),
+    (r"\d+\+ क्यूरेटेड लेख", f"{zh}+ क्यूरेटेड लेख"),
+    (r"\d+\+ кураторских статей", f"{zh}+ кураторских статей"),
+    (r"أكثر من \d+ مقالًا", f"أكثر من {zh} مقالًا"),
+    (r"\d+\+ kuratierte Artikel", f"{zh}+ kuratierte Artikel"),
+    (r"\d+\+ 篇台灣策展文章", f"{zh}+ 篇台灣策展文章"),
+    (r"\d+\+ artículos curados", f"{zh}+ artículos curados"),
+    (r"\d+\+ articles curatés", f"{zh}+ articles curatés"),
+])
 PYEOF
 
 # 4. Merge GitHub stats into public/api/stats.json (preserve existing fields!)

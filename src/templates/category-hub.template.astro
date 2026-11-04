@@ -345,6 +345,54 @@ function groupLabel(key: string): string {
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category];
 
+// ── meta description（2026-11-04 evolve）────────────────────────────────────
+// 原本只有 categoryConfig 的一句通用語（「影響台灣發展的重要人物與故事」）。
+// 第一句改成 build 時算出來的篇數＋代表條目（topPicks 標題冒號前的主題名），
+// 原本那句接在後面，整段塞不下 160 字就先少列條目、再拿掉原句。
+// 標題的站名去重由 Layout 的 withBrand（src/utils/pageTitle.ts）處理，這裡不動。
+const META_DESC_MAX = 160;
+const pickNames = (topPicks.length ? topPicks : articles)
+  .map((a) => (a.title || '').split(/[：:｜|]/)[0].trim())
+  .filter(Boolean)
+  .filter((v, i, arr) => arr.indexOf(v) === i)
+  .slice(0, 3);
+const formatPicks = (names: string[]) => {
+  if (lang === 'zh-TW') return names.map((n) => `〈${n}〉`).join('');
+  if (lang === 'ja') return names.map((n) => `「${n}」`).join('');
+  try {
+    return new Intl.ListFormat(lang, {
+      style: 'long',
+      type: 'conjunction',
+    }).format(names);
+  } catch {
+    return names.join(', ');
+  }
+};
+const baseDesc = (categoryInfo.description || '').trim();
+const descTail = (() => {
+  if (!baseDesc) return '';
+  if (/[。．.!?！？।]$/.test(baseDesc)) return baseDesc;
+  if (lang === 'zh-TW' || lang === 'ja') return `${baseDesc}。`;
+  return `${baseDesc}${lang === 'hi' ? '।' : '.'}`;
+})();
+const descSep = lang === 'zh-TW' || lang === 'ja' ? '' : ' ';
+const metaDescription = (() => {
+  if (articles.length < 2 || pickNames.length === 0) return baseDesc;
+  const lead = (k: number) =>
+    t('category.metaDescription')
+      .replace('{name}', categoryInfo.name)
+      .replace('{n}', String(articles.length))
+      .replace('{picks}', formatPicks(pickNames.slice(0, k)));
+  for (let k = pickNames.length; k >= 1; k--) {
+    const full = descTail ? lead(k) + descSep + descTail : lead(k);
+    if (full.length <= META_DESC_MAX) return full;
+  }
+  for (let k = pickNames.length; k >= 1; k--) {
+    if (lead(k).length <= META_DESC_MAX) return lead(k);
+  }
+  return lead(1);
+})();
+
 // 其他分類（sidebar 跨分類導航用）
 const otherCategories = categories
   .filter((cat) => cat !== category)
@@ -357,7 +405,7 @@ const otherCategories = categories
 <Layout
   lang={lang}
   title={`${categoryInfo.name} - Taiwan.md`}
-  description={categoryInfo.description}
+  description={metaDescription}
   category={categoryInfo.name}
   categorySlug={category}
   dateModified={categoryUpdated || undefined}

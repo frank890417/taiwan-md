@@ -234,6 +234,11 @@ const subcategories = Object.entries(subcatCounts)
 
 // Serialize for client-side JS
 const termsJSON = JSON.stringify(terms);
+
+// meta description（2026-11-04 evolve）：原本沒傳，線上是全站預設句。
+// 數字跟 hero 的「N 個詞條／N 個來源」同一個來源。標題不帶站名與表情符號，
+// 站名由 Layout 的 withBrand 補。
+const metaDescription = `收錄 ${totalTerms.toLocaleString('en-US')} 組兩岸用語對照：中國說法、台灣說法、詞源與分歧原因，引用 ${totalSources.toLocaleString('en-US')} 個來源。查一個詞算不算中國用語、台灣怎麼說，也能用轉換器整段改寫。`;
 ---
 
 <!--
@@ -252,7 +257,11 @@ const termsJSON = JSON.stringify(terms);
     per-type accent color; inlining would need both [&.active]:
     AND arbitrary `hover:border-[var(--fork-color)]` on every button
 -->
-<Layout title="📖 用語保存計畫 — Taiwan.md" readerSettings={true}>
+<Layout
+  title="用語保存計畫：兩岸用語對照與台灣說法"
+  description={metaDescription}
+  readerSettings={true}
+>
   <main class="term-page flex min-h-screen flex-col bg-[#f8f8f8]">
     <!-- ── Header（共用 PageHero 元件） ─────────────────────── -->
     <PageHero
