@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-07-26T21:33:30+08:00'
+translatedAt: '2026-11-04T21:50:19.081493+00:00'
 ---
 
 # Чжу Цзинъу: соавтор открытия высокотемпературной сверхпроводимости с Tc=93K, преодолевшего порог жидкого азота в 1987 году

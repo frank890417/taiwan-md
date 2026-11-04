@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蔡阿嘎.md'
-sourceCommitSha: 'f5975a224'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: '2026-07-28T08:53:36+08:00'
+translatedAt: '2026-11-04T21:39:35.664078+00:00'
 ---
 
 > **30-секундный обзор:**
