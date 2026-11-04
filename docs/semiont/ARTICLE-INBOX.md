@@ -177,6 +177,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 國中會考＋台南鐵路地下化 EVOLVE — 補 30 秒概覽、媒體與中段篇幅（tboydar 兩篇新稿）
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/國中會考.md、knowledge/Society/台南鐵路地下化.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-11-04 by twmd-maintainer-daily（PR #1955／#1954 merge 後的 follow-up，已在 PR #1954 留言向 tboydar 說明這三件留給作者）
+- **Notes**:
+  - 三件都是**作者的聲音與素材決定**，不在格式 heal 範圍，本班刻意沒代寫（LESSONS `gate-triggers-content-degradation-incentive`：為了讓計數器變綠去改寫投稿者的散文是禁區）
+  - (1) 兩篇都缺 `> **30 秒概覽**:` blockquote — 讀者點進來的第一個落點
+  - (2) 兩篇都 0 張圖（`media-richness` image ≥ 3 是 spore-publish 的 hard gate，所以這兩篇目前發不了孢子）。〈台南鐵路〉的素材缺口特別具體：報導者楊子磊那組照片（最後一夜的月台、黃春香窗邊的區間車、陳秌沛起家厝的空地）正是這篇缺的那一層，但**不在該文 CC 授權範圍內**，要另找台南市政府或鐵道局的通車素材
+  - (3) 篇幅：〈台南鐵路〉1,901 字、〈國中會考〉3,543 字（depth 門檻 4,500）。〈台南鐵路〉骨架好，缺的是中段——2017–2020 分段開工那幾年、以及安置宅住進去之後的生活，現在各只有一句
+  - **先問作者再派工**：已在 PR 留言請 tboydar 若想自己接就留言，所以巡邏班接手前先看那則 PR 有沒有回應
+- **Reference**: [PR #1954](https://github.com/frank890417/taiwan-md/pull/1954) / [PR #1955](https://github.com/frank890417/taiwan-md/pull/1955)
+
 ### 選前十日民調禁止期 EVOLVE — 11/18 00:00 至 11/28 16:00〈沈伯洋〉〈蔣萬安〉〈陳致中〉凍結不改
 
 - **Type**: `EVOLVE`
