@@ -2,19 +2,21 @@
 title: '台湾YouBike文化と都市のマイクロモビリティ革命'
 description: '「ラストワンマイル」から日常的なインフラへ、YouBikeは少額料金、密集したステーション、リアルタイム配車を活用して、台湾の都市の移動習慣と時間感覚をどのように変えてきたのでしょうか。'
 date: 2026-04-14
-author: 'Wilson Chen'
-category: Lifestyle
-subcategory: '交通與移動'
+category: 'Lifestyle'
 tags: ['YouBike', '都市交通', 'グリーン輸送', 'マイクロモビリティ']
-readingTime: 8
+subcategory: '交通與移動'
+author: 'Wilson Chen'
+featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
 sourceBodyHash: 'sha256:b4c2bbb618fa4629'
-translatedAt: '2026-05-01T18:09:43+08:00'
-featured: false
+translatedAt: '2026-11-04T16:47:55.343466+00:00'
 ---
 
 > **30秒概覧：**

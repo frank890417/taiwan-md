@@ -11,11 +11,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:28:39.457043+00:00'
+translatedAt: '2026-11-04T17:35:17.959828+00:00'
 ---
 
 > **30秒概観：** 台湾の兵役制度は、この島が半世紀以上にわたって刻んできた最も深い社会的な印です。戒厳令下の「三年兵」から現代の1年制義務役への回帰まで、これは単なる期間の数字的変動ではなく、地政学的な圧力に直面する台湾の現実的な姿を映し出しています。本稿では、抽選現場での「金馬獎（キンマー・ジャー）」に対する驚きから、スーパーマーケットさえ訓練対象となる現代の戦備現場である漢光演習までを辿り、免役基準、新兵訓練のスケジュール、各種代替役、そして実戦化への転換といった側面を深く分析します。
