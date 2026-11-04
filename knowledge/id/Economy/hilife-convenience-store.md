@@ -2,9 +2,7 @@
 title: "Hi-Life: Dari Merah Guangquan ke Hijau Lianbang, Tembus Kepungan Jiwa 'Toko Kelontong Ketiga' di Taiwan"
 description: "Sebagai satu-satunya jaringan toko kelontong dengan darah murni lokal di Taiwan, bagaimana Hi-Life bertahan di bawah tekanan 7-ELEVEN dan FamilyMart melalui 'hidangan tahunan pertama' dan 'transformasi digital'? Bagaimana perubahan besar dalam hak pengelolaan pada tahun 2023 akan mengubah genetik toko tua berusia 35 tahun ini?"
 date: 2026-07-21
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Hi-Life',
@@ -15,15 +13,20 @@ tags:
     'hak pengelolaan',
     'keuangan ritel',
   ]
-readingTime: 12
+subcategory: '企業列傳'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-21
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-11-04T14:43:22.319250+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Didirikan pada tahun 1989 di Jalan Dihua, Hi-Life adalah toko kelontong pertama dan satu-satunya merek murni lokal di antara empat besar toko kelontong di Taiwan. Ia bukan produk lisensi asing, melainkan buah dari filosofi "sentimen lokal dan pandangan dunia" yang ditanam oleh keluarga Wang dari Guangquan. Meskipun jumlah gerainya selalu berada di posisi ketiga atau keempat, Hi-Life adalah pelopor inovasi seperti "pra-pemesanan hidangan tahunan" dan "mesin transaksi multimedia". Pada tahun 2023, hak pengelolaan berpindah dari keluarga Wang (Guangquan) ke Grup Lianbang. Toko lama dengan identitas "dasar merah" ini mulai berganti menjadi tampilan baru "biru-hijau", bertransformasi menjadi pos depan fisik untuk layanan keuangan dan pembayaran digital. Transaksi ini bukan sekadar aliran modal, melainkan eksperimen tentang bagaimana "semangat ritel lokal" dapat menerobos di era baru.

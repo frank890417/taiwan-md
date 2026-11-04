@@ -18,14 +18,16 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-07-26T23:43:18+08:00'
+translatedAt: '2026-11-04T14:52:24.649636+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Taiwan pernah menjadi pusat pasokan di mana "setiap tiga sekrup yang digunakan di AS, satu berasal dari Taiwan", bahkan memainkan peran menentukan selama Perang Vietnam. Namun, dengan AS memberlakukan tarif tinggi Pasal 232 sebesar 50% pada tahun 2025, dan mendekatnya pajak karbon CBAM Uni Eropa pada tahun 2026, industri "beras industri" ini yang bernilai tahunan melebihi 50 miliar dolar Taiwan dan menafkahi 30.000 keluarga di utara Kaohsiung, sedang mengalami transformasi hidup-mati "dari dijual per kilogram menjadi dijual per batang".
+> **Ringkasan 30 Detik:** Taiwan pernah menjadi pusat pasokan dengan pepatah "satu dari setiap tiga pengencang Amerika berasal dari Taiwan", bahkan memainkan peran krusial selama Perang Vietnam. Namun, seiring diberlakukannya tarif tinggi Pasal 232 sebesar 50% oleh Amerika Serikat pada tahun 2025, serta mendekatnya pajak karbon CBAM Uni Eropa pada tahun 2026, industri "beras industri" ini—yang memiliki nilai produksi tahunan lebih dari NT$50 miliar dan menghidupi 30.000 keluarga di utara Kaohsiung—sedang mengalami transformasi hidup-mati, "dari menjual per kilogram menjadi menjual per batang".
 
 ## Lahirnya Pahlawan Perang Vietnam: Bagaimana Sekrup Kecil Mengencangkan Fondasi "Kerajaan Sekrup" Taiwan?
 

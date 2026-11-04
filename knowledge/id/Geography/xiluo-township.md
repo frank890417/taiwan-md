@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -26,10 +30,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T11:16:07+08:00'
+translatedAt: '2026-11-04T14:38:49.893639+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Xiluo terletak di Yunlin, di tepi selatan Sungai Zhuoshui, sebuah kota kecil dengan populasi lebih dari 40.000 jiwa. Hal pertama yang diingat pendatang adalah Jembatan Xiluo yang berwarna merah, namun keseharian penduduk setempat adalah hal lain: kecap hitam membutuhkan waktu fermentasi 180 hari, bangunan Barok di Jalan Lama Yanping telah berdiri sejak era 1920-an hingga sekarang, Tao Ping Ma dari Kuil Fuxing telah menjaga urusan lokal selama tiga ratus tahun, dan Perguruan Bela Diri Qikan milik imigran Dinasti Qing telah mengubah organisasi pertahanan menjadi drama televisi. Artikel ini tidak memandang Xiluo sekadar sebagai pelengkap jembatan, melainkan menempatkan jembatan tersebut kembali ke dalam garis waktu kota ini. [^1] [^2] [^3] [^4]
