@@ -1,5 +1,6 @@
 ---
 title: 'Chen Chun-liang: Poeta do Design e Moderno Tradutor da Estética Oriental'
+description: 'Chen Chun-liang nasceu em 1958 em Tainan, fundou a «Queda Livre Design» (Freeimage Design) aos 29 anos e é aclamado pela indústria como «poeta do design». Ele reinterpretou a linguagem do design moderno com caligrafia, espaço negativo e imagética oriental, com obras que abrangem design editorial, identidade corporativa e celebrações nacionais. Em 2005, a série de louças para banquetes de Estado «Céu Redondo, Terra Quadrada» ganhou o Grande Prémio do Júri da Bienal de Design de Macau. Dedicado há longo tempo à educação em design, é um dos designers gráficos mais influentes de Taiwan desde os anos 1980.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -12,15 +13,16 @@ tags:
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
-description: 'Chen Chun-liang nasceu em 1958 em Tainan, fundou a «Queda Livre Design» (Freeimage Design) aos 29 anos e é aclamado pela indústria como «poeta do design». Ele reinterpretou a linguagem do design moderno com caligrafia, espaço negativo e imagética oriental, com obras que abrangem design editorial, identidade corporativa e celebrações nacionais. Em 2005, a série de louças para banquetes de Estado «Céu Redondo, Terra Quadrada» ganhou o Grande Prémio do Júri da Bienal de Design de Macau. Dedicado há longo tempo à educação em design, é um dos designers gráficos mais influentes de Taiwan desde os anos 1980.'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-04T21:10:51.321364+00:00'
 ---
 
 # Chen Chun-liang: Redefinindo o Design de Taiwan com Poesia
@@ -57,19 +59,19 @@ Também organizou reflexões criativas, redigiu ensaios sobre design, explorando
 
 ## Referências
 
-[^1]: [Chen Chun-liang — Rede de Arte Non-Pool](https://artemperor.tw/knowledge/1191) — Resumo da carreira de design de Chen Chun-liang, origem da alcunha «poeta do design», obras representativas.
+[^1]: [Chen Junliang — Rede de Arte Feichizhong](https://artemperor.tw/knowledge/1191) — Visão geral da carreira de design de Chen Junliang, origem do título 'poeta do design', obras representativas.
 
-[^2]: [Queda Livre Design Freeimage Design — Página Oficial no Facebook](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Informação oficial e portfólio do ateliê Queda Livre Design.
+[^2]: [Freeimage Design — Página oficial no Facebook](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Informações oficiais e portfólio do estúdio Freeimage Design.
 
-[^3]: [Queda Livre Design / Chen Chun-liang: O Mais Importante no Design Visual é «Não Há Coisas Impossíveis de Fazer, Apenas Coisas que Não Se Consegue Imaginar» — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Entrevista profunda sobre filosofia de design e método de trabalho de Chen Chun-liang.
+[^3]: [Freeimage Design / Chen Junliang: O mais importante no design visual é 'não há coisas impossíveis, apenas coisas inimagináveis' — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Entrevista aprofundada sobre a filosofia de design e métodos de trabalho de Chen Junliang.
 
-[^4]: [É a Bondade que Me Leva a Onde Quero Ir — Entrevista Exclusiva ao Padrinho do Design Chen Chun-liang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Trajetória profissional, história do empreendedorismo aos 29 anos e visão de design com estética oriental de Chen Chun-liang.
+[^4]: [A bondade me leva aonde quero ir — Entrevista exclusiva com o 'padrinho do design' Chen Junliang — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Trajetória profissional de Chen Junliang, história de empreendedorismo aos 29 anos e visão de design estética oriental.
 
-[^5]: [Chen Chun-liang: O Melhor Marketing é a Própria Obra — La Vie](https://www.wowlavie.com/article/ae1400597) — Registo do Grande Prémio do Júri da Bienal de Design de Macau para a série de louças para banquetes de Estado «Céu Redondo, Terra Quadrada» de Chen Chun-liang.
+[^5]: [Chen Junliang: A melhor marketing é a própria obra — La Vie](https://www.wowlavie.com/article/ae1400597) — Registro do prêmio principal do júri da Bienal de Design de Macau para a série de utensílios de banquete estatal 'Céu Redondo, Terra Quadrada' de Chen Junliang.
 
-[^6]: [Chen Chun-liang: 38 Anos de Caminho no Design, Ousando Fazer o que Outros Não Ousam — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — Retrospetiva da carreira e investimento na educação em design de Chen Chun-liang.
+[^6]: [Chen Junliang: 38 anos de caminho no design, ousando fazer o que outros não ousam — China Times](https://www.chinatimes.com/newspapers/20180701000609-260102) — Retrospectiva da carreira de Chen Junliang e seu envolvimento na educação em design.
 
-[^7]: [Filosofia de Design de Chen Chun-liang da Queda Livre Design: «A Distância entre o i e o F» — DesignWant](https://www.designwant.com/article/7826) — Discurso sobre design com estética oriental e linguagem visual caligráfica de Chen Chun-liang.
+[^7]: [Filosofia de design de Chen Junliang da Freeimage Design: 'A distância entre i e F' — DesignWant](https://www.designwant.com/article/7826) — Discurso de Chen Junliang sobre design estético oriental e linguagem visual da caligrafia.
 
 ## Leitura Complementar
 

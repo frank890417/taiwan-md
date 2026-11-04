@@ -2,9 +2,7 @@
 title: 'Hsu Shu-ching: Lunbei 1991, primeira bicampeã olímpica de Taiwan nos 53 kg do halterofilismo'
 description: 'Nascida a 9 de maio de 1991 em Lunbei, condado de Yunlin, numa família hakka, com 159 cm de altura. Nos Jogos Olímpicos de Londres 2012, categoria feminina de 53 kg, 219 kg (96+123) — medalha de prata; posteriormente, após a campeã Chao Chang-ling (Cazaquistão) falhar no controlo antidoping, Hsu foi promovida a ouro em dezembro de 2020. Nos Jogos Olímpicos do Rio 2016, 212 kg (100+112) — ouro direto. Primeira bicampeã olímpica de Taiwan. Retirou-se a 3 de junho de 2018. Em 2019, suspensa por três anos devido a controlo antidoping de 2017 (não afeta as duas medalhas de ouro olímpicas).'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Desporto',
@@ -14,15 +12,19 @@ tags:
     '53 kg',
     'Yunlin',
   ]
-readingTime: 7
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-04T21:05:11.246506+00:00'
 ---
 
 # Hsu Shu-ching: Lunbei 1991, primeira bicampeã olímpica de Taiwan nos 53 kg do halterofilismo

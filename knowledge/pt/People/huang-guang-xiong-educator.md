@@ -2,27 +2,31 @@
 title: 'Huang Kuang-hsiung: o homem que construiu uma faculdade de educação nos campos de Chiayi'
 description: 'Em 1996, Huang Kuang-hsiung desceu de Shih-ta para Chiayi, onde fundou o Instituto de Pós-Graduação em Educação na Universidade Chung Cheng, que mais tarde expandiu para se tornar a Faculdade de Educação. Ele dedicou meio século a trazer a teoria curricular ocidental para Taiwan, traduziu o livro-texto clássico de pesquisa qualitativa, liderou o planejamento de pesquisa do Currículo Integrado de Nove Anos e conduziu um grupo de estudiosos por três anos para elaborar uma proposta de ensino moral centrada no "respeito e cuidado". Faleceu em 2021, aos 84 anos.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - 'Educação'
-  - 'Teoria Curricular'
-  - 'Ciências da Educação'
-  - 'Acadêmico'
-  - 'Universidade Chung Cheng'
-  - 'Universidade Normal'
-  - 'Pesquisa Qualitativa'
-  - 'Educação Moral'
-readingTime: 7
+  [
+    'Educação',
+    'Teoria Curricular',
+    'Ciências da Educação',
+    'Acadêmico',
+    'Universidade Chung Cheng',
+    'Universidade Normal',
+    'Pesquisa Qualitativa',
+    'Educação Moral',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-04T21:01:11.867115+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Huang Kuang-hsiung (1937-2021), fundador dos estudos curriculares em Taiwan. Doutor em Educação pela Universidade Normal de Taiwan, pesquisou no Institute of Education da Universidade de Londres (atual UCL IOE). Foi reitor da Faculdade de Educação da Universidade Normal de Taiwan, diretor da Escola Normal Provincial de Hsinchu, diretor-fundador do Instituto de Pós-Graduação em Educação e reitor-fundador da Faculdade de Educação da Universidade Chung Cheng. Introduziu sistematicamente a teoria curricular ocidental em Taiwan, organizou os livros-texto de formação docente _Introdução à Educação_ e _Princípios de Ensino_, traduziu _Pesquisa Qualitativa em Educação_ e participou diretamente do planejamento de pesquisa do Currículo Integrado de Nove Anos do Ministério da Educação. Faleceu em 4 de fevereiro de 2021, aos 84 anos.

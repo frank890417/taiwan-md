@@ -2,9 +2,7 @@
 title: 'Huang Zhen-nan'
 description: 'Huang Zhen-nan é um trabalhador de história e cultura de Taiwan, bibliófilo e escritor, que através da página «Livros de Água Viva» partilha a história de Taiwan e a cultura de livros antigos, sendo autor de obras como «A História de Taiwan Mais Cheia de Memes da História de Taiwan».'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'História e cultura de Taiwan',
@@ -13,14 +11,18 @@ tags:
     'História de Taiwan',
     'Livros de Água Viva',
   ]
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-07-26T00:16:55+08:00'
+translatedAt: '2026-11-04T21:13:30.823250+00:00'
 ---
 
 # Huang Zhen-nan: Família de Tradição Literária e a Fonte Viva da História e Cultura de Taiwan
@@ -61,15 +63,15 @@ O seu modelo familiar de colecionismo reflete também a força popular de preser
 
 ## Referências
 
-[^1]: [Huang Zhen-nan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Biografia principal, formação académica e detalhes do colecionismo.
+[^1]: [Huang Zhen-nan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Principais detalhes sobre sua vida, formação acadêmica e coleção de livros.
 
-[^2]: [Página do Facebook «Livros de Água Viva»](https://www.facebook.com/ngtsinlam) — Registos de partilha e dinâmica de colecionismo desde a fundação em 2009 até hoje.
+[^2]: [Página do Facebook da Livraria Huoshuailai](https://www.facebook.com/ngtsinlam) — Registros de compartilhamento e atualizações sobre a coleção desde sua fundação em 2009.
 
-[^3]: [Página do livro «A História de Taiwan Mais Cheia de Memes da História de Taiwan»](https://www.books.com.tw/products/0010722013) — Página bibliográfica da Books.com.tw, com informações de publicação e comentários de leitores.
+[^3]: [Página do livro "A História de Taiwan Mais Interessante da História de Taiwan"](https://www.books.com.tw/products/0010722013) — Página de catálogo na Books.com.tw, contendo informações de publicação e comentários de leitores.
 
-[^4]: [Entrevista ao bibliófilo Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — História familiar de colecionismo e explicação das peças relacionadas com Nishikawa Mitsuru e Tsai Pei-huo.
+[^4]: [Entrevista com o colecionador Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Histórias sobre a coleção de livros da família e descrições de itens relacionados a Nishikawa Mitsuru e Tsai Pei-huo.
 
-[^5]: [Reportagem de recomendação de lista de livros do Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Perspetiva de Huang Zhen-nan sobre a promoção da leitura de história de Taiwan e sugestões de lista de livros.
+[^5]: [Reportagem de recomendação de leitura do Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Perspectivas de Huang Zhen-nan sobre a promoção da leitura da história de Taiwan e sugestões de listas de livros.
 
 ## Leitura Complementar
 
