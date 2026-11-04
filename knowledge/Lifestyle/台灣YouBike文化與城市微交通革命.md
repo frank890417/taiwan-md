@@ -10,6 +10,8 @@ featured: false
 lastVerified: 2026-04-14
 lastHumanReview: true
 readingTime: 8
+curation: incubating
+curationReason: thin
 ---
 
 > **30 秒概覽：**
