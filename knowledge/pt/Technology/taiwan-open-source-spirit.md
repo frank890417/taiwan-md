@@ -1,16 +1,16 @@
 ---
-title: 'O espírito open source de Taiwan — engenheiros movidos a paixão'
-description: 'O projeto open source mais influente de Taiwan não é um software, é um grupo de engenheiros que em um hackathon disseram ao governo: "Vocês não fazem bem, nós fazemos".'
+title: 'O espírito open source de Taiwan — Engenheiros que "geram energia com amor"'
+description: 'O projeto open source mais influente de Taiwan não é um software, mas um grupo de engenheiros que diz ao governo em hackathons: "você não consegue fazer direito, nós faremos".'
 date: 2026-03-29
 category: 'Technology'
 tags:
   [
-    'Código aberto',
+    'open source',
     'g0v',
     'COSCUP',
     'GitHub',
-    'Tecnologia cívica',
-    'Software livre',
+    'tecnologia cívica',
+    'software livre',
   ]
 subcategory: '社群與數位文化'
 author: 'p3nchan'
@@ -18,118 +18,132 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:d044abffde5fb58e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-07-25T06:57:15.502613+00:00'
+translatedAt: '2026-11-05T00:25:27+08:00'
 ---
 
-> A indústria de software de Taiwan não está na primeira linha global, mas o GitHub conta com mais de 44.000 usuários marcados como Taiwan, hackathons comunitários acumulam mais de 70 edições e milhares de contribuidores — quase todos desenvolvedores individuais que participam depois do expediente por conta própria. Este artigo não fala apenas do g0v, mas monta o mapa completo da cultura open source de Taiwan a partir de quatro ângulos: pessoas, comunidade, educação e indústria.
-
-## Um anúncio que desencadeou um hackathon
-
-Outubro de 2012, o Yuan Executivo transmitiu na televisão um anúncio de 40 segundos a promover o «Plano de Impulso do Dinamismo Económico». O conteúdo do anúncio era apenas uma frase: «Este plano é realmente muito complexo, não pode ser explicado claramente em poucas palavras simples.»
-
-Kao Chia-liang (clkao), graduado em Ciência da Computação pela NTU, viu o anúncio e ligou o computador. Ele e alguns amigos participaram no Yahoo! Open Hack Day, alteraram o tema de última hora e, em três dias, criaram o projeto «Visualização do Orçamento do Governo Central», ganhando um prémio de menção honrosa. Dois meses depois, Kao Chia-liang registrou o g0v.tw e usou o dinheiro do prémio para organizar o «Hackathon de Mobilização Antichaos Número Zero».
-
-O nome g0v vem de substituir o «o» de gov (governo) por 0. O significado é direto: vocês fazem mal, nós fazemos.
-
-Isto não é uma organização. O g0v não tem escritório, nem conselho de administração, nem funcionários a tempo inteiro. É uma comunidade descentralizada, mantida por hackathons bimestrais. Até ao final de 2025, já se realizaram mais de 70 edições, o Slack tem mais de 8.000 membros e o HackMD acumulou mais de 4.500 notas colaborativas.
+> A escala da indústria de software de Taiwan não é das principais do mundo, mas há mais de 44.000 usuários marcados como Taiwan no GitHub, com mais de 70 hackathons comunitários e milhares de contribuidores — quase todos desenvolvedores individuais que trabalham por conta própria após o expediente. Este artigo não fala apenas sobre o g0v, mas desenha um mapa completo da cultura open source de Taiwan sob quatro perspectivas: pessoas, comunidade, educação e indústria.
 
 ---
 
-## 72 horas, 100 apps
+## Um hackathon provocado por um anúncio
 
-O momento em que o g0v foi mais visto internacionalmente foi 2020.
+Em outubro de 2012, o Executivo transmitiu um anúncio de 40 segundos na televisão para promover o "Plano de Impulso do Dinamismo Econômico". O conteúdo do anúncio era apenas uma frase: "Este plano é realmente complexo e não pode ser explicado claramente com apenas algumas palavras simples."
 
-No início da pandemia de COVID-19, Taiwan implementou o racionamento de máscaras com nome real. O Ministério da Saúde e Bem-Estar disponibilizou uma API aberta com o estoque de máscaras das farmácias, e a então Ministra Digital Audrey Tang anunciou a novidade no canal de chat do g0v. Nas 72 horas seguintes, a comunidade de desenvolvedores de Taiwan explodiu com uma energia colaborativa sem precedentes: Kiang (Jiang Ming-zong) criou o mapa de máscaras das farmácias, Jarvis Lin fez o app para Android, e um chatbot do LINE também entrou no ar no mesmo dia.
+Kao Chia-liang (高嘉良, clkao), graduado em Ciência da Computação pela Universidade Nacional de Taiwan (NTU), assistiu ao anúncio e abriu o computador. Ele e alguns amigos participaram do Yahoo! Open Hack Day, mudaram o tema de última hora e, em três dias, desenvolveram o projeto "Visualização do Orçamento do Governo Central", conquistando um prêmio de menção honrosa. Dois meses depois, Kao registrou o g0v.tw e usou o prêmio para organizar a "0ª Mobilização de Hackathon contra a Desordem".
 
-Em uma semana, surgiram mais de 100 aplicativos relacionados à consulta de máscaras. Estima-se que cerca de mil engenheiros participaram do desenvolvimento.
+O nome "g0v" vem da substituição da letra "o" de _gov_ (governo) pelo número "0". O significado é direto: se você não consegue fazer direito, nós faremos.
 
-A _Foreign Affairs_ publicou um artigo especial, _Civic Technology Can Help Stop a Pandemic_, afirmando que Taiwan demonstrou um terceiro caminho, diferente da vigilância no estilo chinês e também diferente dos gigantes tecnológicos ocidentais: a inovação democrática impulsionada pela tecnologia cívica (civic tech). Um relatório da Faculdade de Medicina de Stanford registrou 124 intervenções independentes implementadas por Taiwan durante a pandemia. NPR, _MIT Technology Review_ e _Harvard Business Review_ também fizeram reportagens especiais.
-
-Isso não é mérito do governo, nem apenas de Audrey Tang. É obra de um grupo de engenheiros sem salário, que no fim de semana abriram seus laptops e fizeram acontecer.
+Isso não é uma organização. O g0v não tem escritório, não tem conselho de administração e não tem funcionários em tempo integral. É uma comunidade descentralizada que se mantém por meio de hackathons bimestrais. Até o final de 2025, já foram realizados mais de 70 hackathons, com mais de 8.000 membros no Slack e mais de 4.500 notas colaborativas acumuladas no HackMD.
 
 ---
 
-## Antes de Tang Feng: as raízes do open source em Taiwan
+## 72 horas, 100 aplicativos
 
-O g0v pôde formar-se rapidamente em 2012 porque Taiwan já contava com vinte anos de solo open source.
+O momento em que o g0v ganhou visibilidade internacional foi em 2020.
 
-**Audrey Tang** aprendeu Perl aos 12 anos, abandonou a escola aos 14 para empreender. Antes de entrar para o governo, lançou mais de 100 projetos no CPAN (repositório de módulos Perl), liderou o **Pugs** — a primeira implementação executável do Perl 6 em Haskell — e co-desenvolveu o **EtherCalc** com Dan Bricklin, pai da planilha eletrônica. É figura de liderança reconhecida nas comunidades Perl e Haskell, com influência no open source internacional muito anterior à sua carreira política.
+No início do surto de COVID-19, Taiwan implementou o sistema de registro nominal para o uso de máscaras. O Ministério da Saúde e Bem-Estar liberou uma API aberta com o estoque de máscaras das farmácias, e a então Ministra Digital, Audrey Tang (唐鳳), publicou a notícia no canal de chat do g0v. Nas 72 horas seguintes, a comunidade de desenvolvedores de Taiwan explodiu em uma energia de colaboração sem precedentes: Chiang Ming-tsung (江明宗, kiang) criou o mapa de máscaras das farmácias, Jarvis Lin desenvolveu um aplicativo Android, e um chatbot para o LINE também foi lançado no mesmo dia.
 
-**Hong Jen-yu (PCMan)** é outro nome representativo. Médico internista, aprendeu programação sozinho no ensino médio e escreveu o software de conexão BBS **PCMan**. Em 2006, iniciou o projeto **LXDE** — um ambiente de desktop Linux leve. O LXDE chegou a ser o ambiente de desktop mainstream com menor consumo de memória no mundo, adotado por distribuições como **Knoppix** e **Lubuntu**. Um ambiente de desktop escrito por um médico taiwanês, rodando em máquinas Linux pelo mundo afora. Hong juntou-se depois ao Google, mas a história do LXDE ilustra uma característica típica dos contribuidores taiwaneses de open source: a profissão principal não é software, mas usam o tempo livre para criar projetos de nível internacional.
+Em uma semana, surgiram mais de 100 aplicativos relacionados à consulta de máscaras. Estima-se que quase mil engenheiros tenham participado do desenvolvimento.
 
-**Huang Ching-chun (jserv)** trilhou outro caminho. Participou de desenvolvimento de software de sistema na **MediaTek** e na **Andes Technology**, depois passou a lecionar no Departamento de Ciência da Computação da **Universidade Nacional Cheng Kung**, onde criou a disciplina "Design do Núcleo Linux" — o único curso universitário em Taiwan que disseca sistematicamente o kernel Linux mais recente. Seus alunos submetem patches diretamente para Linux, glibc, GCC, LLVM. Apresentou-se diversas vezes no **COSCUP** e no **FOSDEM** europeu. O jserv não representa o contribuidor "gênio", mas a tentativa de embutir a prática open source no sistema educacional.
+A revista _Foreign Affairs_ publicou um artigo especial intitulado _Civic Technology Can Help Stop a Pandemic_, afirmando que Taiwan demonstrou uma terceira via, diferente da vigilância ao estilo da China e diferente das gigantes tecnológicas ocidentais: a inovação democrática impulsionada pela tecnologia cívica (_civic tech_). Um relatório da Faculdade de Medicina de Stanford registrou 124 intervenções independentes implementadas por Taiwan durante a pandemia. A NPR, a MIT Technology Review e a Harvard Business Review também realizaram reportagens especiais sobre o tema.
 
----
-
-## Ecossistema comunitário: não apenas o COSCUP
-
-A densidade das comunidades de código aberto de Taiwan na Ásia é anómala.
-
-O **COSCUP** (Conference for Open Source Coders, Users and Promoters), desde 2006, é a maior conferência anual de código aberto de Taiwan. Em 2024, o número de participantes ultrapassou 2.800, com mais de 40 trilhas comunitárias (community rooms), abrangendo temas como Kubernetes, PostgreSQL, Ruby, Python, Blockchain, entre outros. Cada trilha comunitária dispõe de cerca de 6 horas de programação, planeada autonomamente por cada comunidade. O COSCUP não cobra ingressos. São mais de cem voluntários, todos não remunerados. 2025 marca a 20.ª edição do COSCUP.
-
-O **SITCON** (Students' Information Technology Conference), desde 2013, é inteiramente idealizado e organizado por estudantes. O seu propósito é mostrar a estudantes do ensino médio de 18 anos que não precisam esperar a formatura para participar do código aberto. O SITCON realiza a sua conferência anual em março, além de promover o HackGen durante o semestre, acampamentos de verão e encontros quinzenais.
-
-O **PyCon TW** é a conferência anual da comunidade Python, reunindo utilizadores de Python de diversas áreas. O **MozTW** é a comunidade de voluntários da Mozilla em Taiwan, mantendo a versão em chinês tradicional do Firefox desde 2004, gerindo o programa de embaixadores campus e o grupo de tradução de legendas. O espaço comunitário 「摩茲工寮」 em Taipé funcionou de 2014 a 2023; após o fim do patrocínio da Mozilla, passou a ser mantido por doações locais.
-
-Há grande participação cruzada entre estas comunidades. A mesma pessoa pode ser simultaneamente palestrante no COSCUP, contribuidor do g0v e voluntário no PyCon TW. O círculo de código aberto de Taiwan não é grande, mas tem alta densidade.
-
-## O legado institucional e a ruptura
-
-Taiwan já teve uma tentativa governamental de promover o código aberto.
-
-Em 2003, o Instituto de Ciência da Informação da Academia Sinica, com subsídio do Bureau Industrial do Ministério de Assuntos Econômicos, fundou a "Fundição de Software Livre" (OSSF, Open Source Software Foundry). A OSSF oferecia hospedagem de projetos, consultoria jurídica, promoção via boletim eletrônico e nutriu a comunidade local de código aberto por mais de uma década. Em 2015, o Ministério da Ciência e Tecnologia decidiu não mais subsidiar, a OSSF encerrou suas operações e o site foi mantido até o final de 2021, quando foi fechado.
-
-O desaparecimento da OSSF não causou declínio nas atividades de código aberto de Taiwan — isso justamente mostra que a energia do código aberto de Taiwan nunca dependeu do governo. Quem realmente sustentou o ecossistema foi a "Fundação Cultura Aberta" (OCF, Open Culture Foundation), fundada em 2014. A OCF foi cofundada por várias comunidades de código aberto, é uma fundação sem fins lucrativos e atua como gestora financeira das comunidades: emite notas fiscais para a COSCUP, ajuda projetos a processar doações e oferece consultoria jurídica sobre licenciamento de código aberto. A OCF também colabora com instituições internacionais como o AIT, o Escritório Britânico em Taiwan e o Banco Mundial, exportando a experiência de tecnologia cívica de Taiwan para o exterior.
-
-Essa estrutura é interessante: o plano governamental terminou, a fundação civil assumiu. A instituição nasceu de baixo para cima.
+Este não foi um mérito do governo, nem apenas de Audrey Tang. Foi feito por um grupo de engenheiros sem salário, que abriram seus laptops durante o fim de semana.
 
 ---
 
-## As razões estruturais do "movido a amor"
+## Antes de Audrey Tang: As raízes do open source em Taiwan
 
-Os contribuidores de código aberto de Taiwan são, em sua grande maioria, indivíduos. Não há empresas de código aberto no nível da Red Hat, nem programas de patrocínio empresarial na escala do Google Summer of Code; o investimento das empresas de tecnologia em código aberto se resume, na maior parte, a "permitir que os funcionários façam isso no tempo livre" em vez de "incluir código aberto nos KPIs".
+O motivo pelo qual o g0v pôde se formar rapidamente em 2012 é que Taiwan já possuía um solo fértil de open source há vinte anos.
+
+Audrey Tang aprendeu Perl aos 12 anos e abandonou os estudos para empreender aos 14. Antes de entrar para o governo, ela iniciou mais de 100 projetos no CPAN (plataforma de módulos do Perl), liderou o Pugs — a primeira versão executável de Perl 6 implementada em Haskell — e desenvolveu o EtherCalc junto com Dan Bricklin, o pai das planilhas eletrônicas. Ela era uma figura de liderança reconhecida nas comunidades de Perl e Haskell, com influência no cenário internacional de open source muito antes de sua carreira política.
+
+Hung Jen-yu (洪任諭, PCMan) é outra figura representativa. Ele é médico de clínica médica e, no ensino médio, aprendeu programação por conta própria e escreveu o software de conexão BBS, o PCMan. Em 2006, ele iniciou o projeto LXDE — um ambiente de desktop Linux leve. O LXDE já foi o ambiente de desktop principal com o menor consumo de memória do mundo, sendo adotado por distribuições como Knoppix e Lubuntu. Um ambiente de desktop escrito por um médico taiwanês rodava em máquinas Linux ao redor do mundo. Hung posteriormente ingressou no Google, mas sua história ilustra uma característica típica dos contribuidores de open source de Taiwan: a profissão principal não é software, mas usam o tempo livre para criar projetos de nível internacional.
+
+Huang Ching-chun (黃敬群, jserv) seguiu outro caminho. Ele participou do desenvolvimento de software de sistema em empresas como MediaTek e Andes Technology, e mais tarde tornou-se professor no Departamento de Ciência da Computação da Universidade Nacional de Sucesso (National Cheng Kung University), onde leciona o curso "Design de Kernel Linux" — o único curso universitário em Taiwan que disseca sistematicamente o kernel Linux mais recente. Seus alunos enviam _patches_ diretamente para o Linux, glibc, GCC e LLVM. Ele palestrou diversas vezes no COSCUP e no FOSDEM, na Europa. jserv não representa um contribuinte do tipo "gênio", mas sim uma tentativa de integrar a prática open source ao sistema educacional.
+
+---
+
+## Ecossistema comunitário: Não apenas o COSCUP
+
+A densidade da comunidade open source de Taiwan é considerada excepcional para os padrões asiáticos.
+
+**COSCUP** (Conference for Open Source Coders, Users and Promoters), que ocorre desde 2006, é a maior conferência anual de open source de Taiwan. Em 2024, contou com mais de 2.800 participantes e mais de 40 trilhas comunitárias (_community rooms_), abrangendo temas como Kubernetes, PostgreSQL, Ruby, Python e Blockchain. Cada trilha tem cerca de 6 horas de agenda, planejada autonomamente por cada comunidade. O COSCUP não cobra ingressos. Há mais de cem voluntários, todos trabalhando gratuitamente. 2025 marcará a 20ª edição do COSCUP.
+
+**SITCON** (Students' Information Technology Conference), que começou em 2013, é totalmente iniciada e organizada por estudantes. Seu propósito é permitir que alunos do ensino médio de 18 anos vejam que não precisam esperar a graduação para participar do open source. O SITCON realiza sua conferência anual em março, além de eventos como HackGen durante o semestre, acampamentos de verão e encontros quinzenais.
+
+**PyCon TW** é a conferência anual da comunidade Python, reunindo usuários de diversas áreas. **MozTW** é a comunidade de voluntários da Mozilla em Taiwan, que mantém a versão em chinês tradicional do Firefox desde 2004, além de gerenciar programas de embaixadores estudantis e grupos de tradução de legendas. O espaço comunitário "Moz Workshop" em Taipé operou de 2014 a 2023; após o fim do patrocínio da Mozilla, foi mantido por doações locais.
+
+Há uma grande interconexão entre essas comunidades. A mesma pessoa pode ser palestrante no COSCUP, contribuinte do g0v e voluntária no PyCon TW. O círculo de open source em Taiwan não é grande, mas é denso.
+
+---
+
+## Legado e ruptura institucional
+
+Taiwan já teve tentativas de o governo promover o open source.
+
+Em 2003, o Instituto de Ciência da Informação da Academia Sinica recebeu subsídios do Bureau de Indústria do Ministério da Economia para estabelecer a "Open Source Software Foundry" (OSSF). A OSSF oferecia hospedagem de projetos, consultoria jurídica e promoção via newsletters, cultivando a comunidade local de open source por mais de uma década. Em 2015, o Ministério da Ciência e Tecnologia decidiu interromper os subsídios, encerrando as operações da OSSF; seu site foi mantido até o fechamento no final de 2021.
+
+O desaparecimento da OSSF não causou um declínio nas atividades de open source em Taiwan — isso prova justamente que a energia do open source em Taiwan nunca dependeu do governo. O que realmente sustenta o ecossistema é a "Open Culture Foundation" (OCF, Fundação Cultura Aberta), fundada em 2014. A OCF foi criada por várias comunidades de open source e é uma fundação sem fins lucrativos que atua como gestora financeira das comunidades: emite notas fiscais para o COSCUP, processa doações para projetos e oferece consultoria jurídica sobre licenciamento open source. A OCF também colabora com instituições internacionais como o AIT (Instituto de Taiwan nos EUA), o Escritório Britânico em Taiwan e o Banco Mundial, exportando a experiência de tecnologia cívica de Taiwan para o mundo.
+
+Essa estrutura é interessante: quando os planos do governo terminam, as fundações civis assumem. O sistema cresceu de baixo para cima.
+
+---
+
+## As razões estruturais para "gerar energia com amor"
+
+A grande maioria dos contribuidores de open source em Taiwan é individual. Não existem empresas de open source do nível da Red Hat, nem programas de patrocínio corporativo na escala do Google Summer of Code; o investimento das empresas de tecnologia costuma ser "permitir que os funcionários trabalhem no tempo livre" em vez de "incluir o open source nos KPIs".
 
 Por quê?
 
-A indústria tecnológica de Taiwan tem como núcleo a manufatura por encomenda de hardware e o design de CI. Os modelos de negócio da TSMC, MediaTek e Foxconn baseiam-se em capacidade de manufatura e barreiras de patentes, não em código aberto. Nesse ecossistema, o software costuma ser um "acessório que acompanha o hardware", e não uma fonte de receita independente. Entre as milhares de empresas de serviços de software, nove em cada dez fazem integração de sistemas, atendendo ao mercado interno.
+A indústria tecnológica de Taiwan tem como núcleo a fabricação de hardware e o design de circuitos integrados (IC). Os modelos de negócios da TSMC, MediaTek e Hon Hai baseiam-se em capacidade de fabricação e barreiras de patentes, não em código aberto. O software, neste ecossistema, é frequentemente um "acessório para o hardware", e não uma fonte de receita independente. Entre as milhares de empresas de serviços de software, 90% fazem integração de sistemas voltada para o mercado interno.
 
-O resultado: há muita gente que programa, mas quase ninguém "vive de código aberto". Código aberto é coisa de depois do expediente, de encontros de comunidade, de hackathons de sábado. Na lista de patrocinadores da COSCUP, você verá mais empresas estrangeiras (Google, LINE, Trend Micro) do que empresas locais.
+O resultado é: há muitos programadores, mas quase ninguém que "vive de open source". O open source é algo para depois do expediente, para encontros comunitários ou para hackathons aos sábados. Na lista de patrocinadores do COSCUP, você verá mais empresas estrangeiras (Google, LINE, Trend Micro) do que empresas locais.
 
-Isso não é inteiramente ruim. Justamente porque código aberto não é KPI, a motivação dos participantes é mais pura. O mapa de máscaras do g0v só pôde surgir em 72 horas não porque alguém abriu uma issue, mas porque mil engenheiros sentiram que "isso tinha que ser feito".
+Isso nem sempre é ruim. Justamente por não ser um KPI, a motivação dos participantes é mais pura. O mapa de máscaras do g0v pôde ser lançado em 72 horas não porque alguém abriu um chamado de trabalho, mas porque mil engenheiros sentiram que "isso precisava ser feito".
 
-Mas esse modelo tem teto. Sem investimento contínuo em nível empresarial, os projetos tendem a estagnar quando os mantenedores centrais se esgotam. Taiwan não falta hackers de fim de semana; faltam cargos que permitam dedicação integral ao código aberto.
+Mas esse modelo tem um teto. Sem investimento corporativo contínuo, os projetos tendem a estagnar quando os mantenedores principais sofrem de _burnout_. Taiwan não carece de _weekend hackers_, carece de cargos que permitam dedicação integral ao open source.
 
-Há 44.408 usuários no GitHub que indicam Taiwan (estatísticas de março de 2026). São necessários pelo menos 67 seguidores para entrar no ranking de Taiwan do committers.top. Considerando os 23 milhões de habitantes de Taiwan, esse número significa que há uma conta ativa no GitHub para cada 500 taiwaneses. Comparado com Japão, Singapura e Hong Kong, a atividade per capita de desenvolvedores taiwaneses no GitHub está entre as mais altas da Ásia.
+---
 
-O que merece mais atenção não são os números, mas o tipo de contribuição. O papel dos desenvolvedores de Taiwan em projetos internacionais costuma ser a "infraestrutura invisível": patches de kernel, otimizações de compilador, traduções de localização, escrita de documentação. Estudantes da Universidade Nacional Cheng Kung submetem código diretamente para o kernel do Linux. O MozTW mantém a versão em chinês do Firefox há vinte anos. Essas contribuições não fazem manchetes, mas sem elas o software não funcionaria.
+## O poder silencioso de 44.000 pessoas
 
-A comunidade de código aberto de Taiwan tem ainda uma característica rara na Ásia: a g0v aplica a metodologia de código aberto à política pública. A plataforma vTaiwan usa a tecnologia Polis para deliberação online, tendo tratado mais de 30 temas, como a regulação da Uber e regulações de fintech. A _MIT Technology Review_ a chamou de "o sistema simples, mas engenhoso, que Taiwan usa para terceirizar leis para a multidão". Isso já não é mais uma questão de escrever código; é aplicar a lógica de colaboração do código aberto à governança democrática.
+Existem 44.408 usuários marcados como Taiwan no GitHub (estatística de março de 2026). São necessários pelo menos 67 seguidores para entrar no ranking de Taiwan do committers.top. Considerando a população de 23 milhões de Taiwan, esse número significa que um em cada 500 taiwaneses possui uma conta ativa no GitHub. Comparado ao Japão, Singapura e Hong Kong, a atividade média por usuário de desenvolvedores de Taiwan está entre as principais da Ásia.
 
-O código aberto em Taiwan nunca foi apenas assunto da comunidade técnica. É uma atitude: ver um problema, abrir o editor, começar a escrever.
+O mais importante não são os números, mas o tipo de contribuição. O papel dos desenvolvedores de Taiwan em projetos internacionais é frequentemente o de "infraestrutura invisível": _patches_ de kernel, otimização de compiladores, traduções de localização e escrita de documentação. Estudantes da Universidade Nacional de Sucesso enviam código diretamente para o kernel Linux. O MozTW manteve a versão em chinês do Firefox por vinte anos. Essas contribuições não saem nos jornais, mas sem elas, o software não funcionaria.
+
+A comunidade open source de Taiwan tem ainda uma característica rara na Ásia: o g0v aplica metodologias open source em políticas públicas. A plataforma vTaiwan utiliza a tecnologia Polis para realizar consultas online, tratando de mais de 30 temas, como a regulamentação do Uber e normas de fintech. A _MIT Technology Review_ descreve-a como "um sistema simples, mas engenhoso, que Taiwan usa para fazer o crowdsourcing de suas leis". Isso já não é apenas uma questão de programação; é aplicar a lógica de colaboração do código aberto à governança democrática.
+
+O open source em Taiwan nunca foi apenas uma questão de comunidades técnicas. É uma atitude: ver um problema, abrir o editor e começar a escrever.
+
+---
 
 ## Referências
 
-1. [g0v Manual de Projetos e Comunidade de Tecnologia Cívica](https://g0v.hackmd.io/@jothon/ctpbook) (fonte primária)
-2. [2020, um ano turbulento: a contribuição do g0v não se limitou ao "mapa de máscaras"](https://www.gvm.com.tw/article/76428) — Global Views Monthly
-3. [A tecnologia cívica pode ajudar a deter uma pandemia](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic) — Foreign Affairs (fonte em inglês)
-4. [O poder dos hackers cívicos: g0v, o governo de hora zero](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Taiwan Panorama
-5. [Audrey Tang, líder da comunidade open source internacional: open source é o novo paradigma de intercâmbio](https://www.ithome.com.tw/news/93603) — iThome
-6. [Hong Jen-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B4%AA%E4%BB%BB%E8%AB%AD)
+1. [Manual de Projetos e Comunidade de Tecnologia Cívica g0v](https://g0v.hackmd.io/@jothon/ctpbook) (Fonte primária)
+2. [Um ano turbulento em 2020, a contribuição do g0v vai muito além do "mapa de máscaras"](https://www.gvm.com.tw/article/76428) — Revista View (Yuanjian)
+3. [Civic Technology Can Help Stop a Pandemic](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic) — Foreign Affairs (Fonte em inglês)
+4. [Poder Hacker Cívico: g0v Governo Zero](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Revista Taiwan Guanghua
+5. [Líder da comunidade internacional de open source, Audrey Tang: Open Source é o novo paradigma de troca](https://www.ithome.com.tw/news/93603) — iThome
+6. [Hung Jen-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B4%AA%E4%BB%BB%E8%AB%AD)
 7. [Huang Ching-chun — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E6%95%AC%E7%BE%A4)
-8. [Free Software Foundry — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E9%91%84%E9%80%A0%E5%A0%B4)
-9. [Sobre a OCF — Open Culture Foundation](https://ocf.tw/en/p/what_is_ocf_en.html)
-10. [committers.top — Usuários mais ativos do GitHub em Taiwan](https://committers.top/taiwan.html)
-11. [COSCUP — Wikipédia](https://en.wikipedia.org/wiki/COSCUP)
-12. [O sistema simples mas engenhoso que Taiwan usa para obter leis via crowdsourcing](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
+8. [Open Source Software Foundry — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E9%91%84%E9%80%A0%E5%A0%B4)
+9. [About OCF — Open Culture Foundation](https://ocf.tw/en/p/what_is_ocf_en.html)
+10. [committers.top — Most active GitHub users in Taiwan](https://committers.top/taiwan.html)
+11. [COSCUP — Wikipedia](https://en.wikipedia.org/wiki/COSCUP)
+12. [The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
 
-## Leitura adicional
+---
 
-- [Comunidade open source e g0v](/pt/technology/open-source-and-g0v) — fork da narrativa coletiva do governo
-- [História da migração das comunidades online de Taiwan](/pt/technology/taiwan-online-community-migration) — História geracional do BBS ao Discord
-- [Mini Taiwan Pulse](/pt/technology/mini-taiwan-pulse-civic-tech) — A abordagem open source pessoal da tecnologia cívica, seis semanas e 193 commits transformando dados abertos em trilhas de luz 3D
-- [As Espadas Gêmeas da Softstar](/pt/technology/softstar-twin-classics) — Outra "história de Taiwan sobre fazer coisas que superam a escala com paixão" (RPG nascido no Guanghua Market)
-- [Como se pode dormir sem entrar no porão?](/pt/technology/into-the-cellar-taiwan-game-podcast) — Comunidade de jogadores de 6 milhões de membros nascida nos dormitórios da Universidade Central
+## Leitura complementar
+
+- [Comunidade Open Source e g0v](/pt/technology/open-source-and-g0v) — A narrativa coletiva que faz um "fork" no governo
+- [História das migrações das comunidades online de Taiwan](/pt/technology/taiwan-online-community-migration) — Uma história geracional, do BBS ao Discord
+- [Mini Taiwan Pulse](/pt/technology/mini-taiwan-pulse-civic-tech) — O modelo individual de tecnologia cívica; 193 commits em seis semanas transformando dados abertos em trajetórias de luz 3D
+- [Da Yu Shuang Jian](/pt/technology/softstar-twin-classics) — Outra história taiwanesa de "fazer coisas grandiosas com paixão" (um RPG que nasceu nas ruas do Guanghua Digital Plaza)
+- [Como dormir sem entrar em um porão?](/pt/technology/into-the-cellar-taiwan-game-podcast) — A comunidade de jogadores de 6 milhões de membros que surgiu dos dormitórios da Universidade Central (NCU)
