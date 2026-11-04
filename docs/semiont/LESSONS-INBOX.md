@@ -1913,6 +1913,16 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **相關**：REFLEXES #59（製造數字的人最易被數字騙）、#82（proxy：經驗上緣當健康門檻的替身）、#99（尺先驗再用）。另見 FEEDBACK-TRIAGE-PIPELINE §這個距今算久嗎 v1.12
 - **verification_count**: 1
 
+### 2026-11-04 twmd-desk — 並行派六個寫手，查證席的子 agent 名額被吃光，分席靜默退化成自評
+
+- **pattern**: parallel-writers-starve-the-verifier-seat
+- **原則**：同一時間派多條 REWRITE 寫手時，每條寫手要再開的審稿與查證子 agent 會撞並行上限；pipeline 寫的「乾淨脈絡分席」沒有名額時不會報錯，只會變成寫手自審。派工時要預留查證席，或寫手開不出就停在 Stage 2.5 交回主 session 補席。
+- **觸發**：2026-11-04 全面進化，主 session 同時派 5 篇 EVOLVE＋1 篇 NEW（加上 3 條分析線）。第一個交件的〈奇拿富〉回報四隻研究 lane 與審稿、查證都「Concurrent subagent limit reached」，全由寫手自評；主 session 補派 Sonnet 查證與 Opus 2.5-R，抓到學名用異名、無出處的「和香港」、主線在賓茂事件偷換植物。後交件的五篇名額空出來才分席成功。同時 WebSearch 額度被六條研究線在早段吃完。證據：memory/2026-11-04-101011-twmd-desk.md
+- **instances**：
+- **可能層級**：操作規則（REWRITE-PIPELINE-SINGLE 派工面）
+- **相關**：REFLEXES #65 (f)／#69（同一顆腦不准又寫又審）——本條是它在「並行派工」這個新維度的失效路徑：規則沒被違反，是資源不足讓它靜默不執行
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
