@@ -2,9 +2,7 @@
 title: 'جسر دانجيانغ: على أفق مصب النهر، معلم عملاق موجود من أجل "الشفافية"'
 description: 'من المقرر أن يُفتتح جسر دانجيانغ في 12 مايو 2026. هذا الجسر المائل ذو البرج الواحد غير المتماثل، الذي صممته فريق المعمارية زها حديد، استغرق تخطيطه ثلاثين عاماً، وبخطوطه المتدفقة أعاد تعريف منظر مصب النهر في تايوان، في تناقض بين حماية غروب شمس تامسوي وتخفيف الازدحام المروري.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     'جسر دانجيانغ',
@@ -15,15 +13,19 @@ tags:
     'حماية البيئة',
     'تكنولوجيا الهندسة',
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-07-26T03:58:15+08:00'
+translatedAt: '2026-11-04T16:46:32.443038+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**
