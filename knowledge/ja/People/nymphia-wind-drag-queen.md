@@ -2,6 +2,7 @@
 title: '地下室から大統領府へ：ニンフィアと台湾のドラッグクイーンによる自己エンパワーメントの歴史'
 description: 'かつてジェンダー的な性格いじめを受けた台湾の少年が、サブカルチャーと見なされていたドラッグアートを国際舞台に押し上げ、「バナナ」をシンボルとして世界に台湾の多様性と自信を見せた物語。'
 date: 2026-04-18
+category: 'People'
 tags:
   [
     'ニンフィア',
@@ -11,16 +12,18 @@ tags:
     '台湾文化',
     'ルポールのドラッグクイーンレース',
   ]
-category: 'People'
+subcategory: '音樂與表演'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: People/妮妃雅.md
-sourceCommitSha: '4b6d28c5'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/妮妃雅.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: 2026-05-01T19:52:32+08:00
+translatedAt: '2026-11-04T19:27:40.470526+00:00'
 ---
 
 > **30秒でわかる：** 2024年、台湾のドラッグクイーンであるニンフィア・ウィンド（Nymphia Wind）が、世界で最も注目を集める番組『ルポールのドラッグクイーンレース』の優勝を勝ち取り、この栄誉を獲得した初の台湾人となりました。彼女の成功は、台湾のドラッグアートを国際舞台に押し上げただけでなく、「ジェンダー平等教育日」という偶然の一致により、台湾の多様性と包容の精神を世界に示しました。地下パーティーから大統領府へ至るまで、ニンフィアの物語は、台湾の性的マイノリティが約30年にわたって自己エンパワーメントを築いてきた歴史そのものです。彼女は「バナナ」をシンボルとして、個人の生命体験と台湾文化を深く結びつけ、世界に台湾の存在と自信を力強く宣言しました。

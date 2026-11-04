@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:02+08:00'
+translatedAt: '2026-11-04T19:06:16.259197+00:00'
 ---
 
 > 台湾の25〜35歳の若者たちは、誰もが宣言していない生存実験を繰り広げている。給料の中央値は3.8万円台にとどまり、台北のワンルームの家賃は1.4万円からだ。一つの正職では足りないため、退勤後に外配達アプリを開き、週末に案件を受け、深夜に動画を編集する。これは「副業ブーム」ではなく、構造的困窮から生み出された生存戦略である。

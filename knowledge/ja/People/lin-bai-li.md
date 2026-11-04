@@ -2,21 +2,21 @@
 title: '林百里：上海1949、広達電腦創設者と抗がん20年のノートPC代工の王'
 description: '1949年4月24日、上海生まれ。1988年に梁次震らと広達電腦を設立。2005年に肺腺がんと診断（抗がん歴20年以上）。広達は2025年に売上高2兆台湾ドルを突破、NVIDIAの主要サーバーパートナー、Fortune 500入り。息子の後継問題が注目を集める。2026年も董事長（会長）を務めている。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags: ['科技與企業', '広達電腦', 'ODM代工', '人工知能', '肺腺がん']
-readingTime: 7
-#   whats_excluded: "広達と各メーカーの代工契約の詳細；AIサーバーの具体的な仕様；息子の後継問題の詳細（要確認）"
-#   where_it_hedges: "広達のノートPC市場占有率「30%以上」にオリジナルソースなし（P0⚠️）；息子の後継時期は要確認"'
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T20:13:13.637676+00:00'
 ---
 
 # 林百里：上海1949、広達電腦創設者と抗がん20年のノートPC代工の王

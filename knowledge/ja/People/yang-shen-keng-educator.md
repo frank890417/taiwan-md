@@ -2,27 +2,31 @@
 title: '楊深坑：二つの酸素ボンベを持って学生の口試に臨んだ教育哲学者'
 description: '2020年12月13日、楊深坑は台大病院から休暇を取り、二つの酸素ボンベを携え、夫人と息子の付き添いのもと、師大で博士課程学生の論文口試に臨んだ。その8か月後に彼が逝去した。それが彼の生涯最後の口試であった。アテネ大学哲学博士、教育部初の終身国家講座教授、金鼎賞受賞者である彼は、44年にわたる教育キャリアを通じて台湾教育哲学の学術的基盤を築いた。'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - 教育
-  - 教育哲学
-  - 比較教育
-  - 教員養成
-  - 学者
-  - 国家講座
-  - 中正大学
-  - 暨南大学
-readingTime: 8
+  [
+    '教育',
+    '教育哲学',
+    '比較教育',
+    '教員養成',
+    '学者',
+    '国家講座',
+    '中正大学',
+    '暨南大学',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-05-01T18:02:56+08:00'
+translatedAt: '2026-11-04T20:04:36.960090+00:00'
 ---
 
 > **30秒でわかる概要：** 楊深坑（1946-2021）、台湾教育哲学の構築者。アテネ大学哲学博士、教育部初の終身国家講座教授、国科会優秀研究賞4回受賞、金鼎賞受賞者。暨南大学比較教育研究所を創設し、中正大学教育学院院長兼副校長を歴任、師大で約40年にわたり「楊門」学术研讨会を主宰。大学院生100名以上を指導。2021年8月29日に台大病院で逝去、享年76歳。
