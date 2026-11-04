@@ -2,9 +2,7 @@
 title: 'शेन शेंग-पो'
 description: 'उन्होंने कंप्यूटर साइंस में पढ़ाई की, लेकिन प्रोग्रामिंग भाषाओं को ताइवान के समकालीन कला दृश्य में ले आए। शेन शेंग-पो के केवल 34 वर्षों के जीवन ने न केवल डिजिटल कला कृतियाँ छोड़ीं, बल्कि एक ऐसी प्रयोगात्मक भावना भी छोड़ी जो कोड को जीवन के रूप में और मुक्त सॉफ्टवेयर को रचनात्मक नैतिकता के रूप में देखती है।'
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'व्यक्ति',
@@ -14,15 +12,19 @@ tags:
     'OpenLab.Taipei',
     'ताइवान',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-24T23:02:22+08:00'
+translatedAt: '2026-11-04T21:18:38.731025+00:00'
 ---
 
 # शेन शेंग-पो
