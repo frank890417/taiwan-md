@@ -3,18 +3,20 @@ title: 'リー・チャンユー（李昌鈺）'
 description: '一片の砕骨から鑑識の伝説を築き上げた男が、一条のタオルに付いた「血痕」のために二人の青年を三十年以上もの冤罪に追い込んだ'
 date: 2026-03-29
 category: 'People'
-subcategory: '科學與學術'
 tags: ['人物', '鑑識科学', '台湾系アメリカ人', '刑事捜査']
-readingTime: 8
+subcategory: '科學與學術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
-translatedFrom: People/李昌鈺.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/李昌鈺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: 2026-05-01T18:02:56+08:00
-author: 'Taiwan.md'
+translatedAt: '2026-11-04T20:23:16.309714+00:00'
 ---
 
 # リー・チャンユー（李昌鈺）

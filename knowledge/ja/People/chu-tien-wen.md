@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從《三三集刊》到《悲情城市》の跨度切入、她不只是編劇，也是與侯孝賢共同構建一種影像語言的共同作者。"
-#   whats_excluded: "各電影完整劇本分析；三三集刊歷年作者名單；學術研究論文清單"
-#   where_it_hedges: "出生地維基記台北（另有高雄鳳山一說，以台北為準）；侯孝賢失智確認時間（P0⚠️待確認具體年份）；首次執導《尋找河神》詳情（P0⚠️待確認）"
-translatedFrom: People/朱天文.md
-sourceCommitSha: '0f8fae0a'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/朱天文.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:03:04.653393+00:00'
 ---
 
 # 朱天文：1956年台北、《三三集刊》から《悲情城市》ヴェネツィア金獅子賞へ

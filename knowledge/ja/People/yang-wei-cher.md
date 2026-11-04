@@ -2,19 +2,21 @@
 title: '楊維哲：微積分から母語へ、数学界のパフォーミング・アーティスト'
 description: '台湾大学数学科名誉教授の楊維哲は、短パン、自転車、台湾語での授業で知られています。著名な画家・楊啓東の子として生まれた彼は、父命に背いて医学を捨て数学へ進み、1997 年には台湾語による授業をめぐって「違憲」論争を引き起こしました。彼は数学オリンピック推進の担い手であるだけでなく、陳文成事件における揺るぎない抵抗者でもあり、生涯を通じて論理と文化的主体性のあいだで「パフォーミング・アート」を実践しました。'
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與學術'
 tags: ['数学', '台湾語', '台湾大学', '教育', '楊維哲', '陳文成', '楊啓東']
+subcategory: '科學與學術'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊維哲.md'
-sourceCommitSha: 'e03b004e8'
-sourceContentHash: 'sha256:69fc2aa712d41a4f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:33dd9f5420593489'
 sourceBodyHash: 'sha256:dbdac5a6701910e0'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-04T20:28:04.114851+00:00'
 ---
 
 > **30 秒概観：**
@@ -70,28 +72,28 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 ## 参考資料
 
-[^1]: [台湾大学の台湾語授業の legend とその後（旧題：1997年、楊維哲教授の台湾語授業を立法委員が「違憲」と指摘！）](https://www.telltaiwan.org/5057) — 周婉窈教授が、楊維哲教授による台湾語授業の歴史的文脈と立法院での論争を詳述しています。
+[^1]: [台大での台湾語授業のレジェンドとその続編（旧題：1997年楊維哲教授の台湾語授業、立法委員が「違憲」と指摘！）](https://www.telltaiwan.org/5057) — 周婉窈教授が楊維哲教授の台湾語授業の歴史的文脈と立法院での論争を詳述しています。
 
-[^2]: [楊維哲- ウィキペディア、フリー百科事典](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — 楊維哲教授の基本的な生涯と授業上の特色の概観です。
+[^2]: [楊維哲 - ウィキペディア、フリーの百科事典](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E7%B6%AD%E5%93%B2) — 楊維哲教授の基本的な生涯と教育の特色の概観。
 
-[^3]: [楊維哲：最初から台湾語で数学を教えなかったことを後悔している](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — 『新台湾新聞週刊』のインタビューで、楊維哲教授が台湾語教育を推進した心の歩みを記録しています。
+[^3]: [楊維哲：最初から台湾語で数学を教えなかったことを後悔している](http://www.newtaiwan.com.tw/bulletinview.jsp?bulletinid=9932) — 『新台湾新聞週刊』の独占インタビュー、楊維哲教授が台湾語教育を推進する心路歴程を記録。
 
-[^4]: [楊維哲教授の数学講堂─基礎座標幾何](http://www.wunan.com.tw/bookdetail.asp?no=16462) — 五南出版社による、楊維哲教授の教育理念と数学専門書の紹介です。
+[^4]: [楊維哲教授の数学講堂─基礎座標幾何](http://www.wunan.com.tw/bookdetail.asp?no=16462) — 五南出版社が楊維哲教授の教育理念と数学専門書を紹介。
 
-[^5]: [【台湾語金曜講座】楊維哲教授講演：数学の観点から論じる](https://www.instagram.com/p/Czgc1tJPeAK/) — 2023 年に楊維哲教授が台湾大学文学院で行った講演のイベント情報です。
+[^5]: [【台湾語金曜講座】楊維哲教授講演：数学の観点から語る](https://www.instagram.com/p/Czgc1tJPeAK/) — 2023年、楊維哲教授が台大文学院で行った講演のイベント情報。
 
-[^6]: [ニュートンに出会ったような感覚（下）](https://blog.udn.com/Carole777/45605455) — 楊維哲教授と台湾大学数学科の先輩・同僚たちとの交流と情誼を記しています。
+[^6]: [ニュートンに会ったような気分（下）](https://blog.udn.com/Carole777/45605455) — 楊維哲教授と台大数学科の先輩・同僚との交流と情誼を記述。
 
-[^7]: [高校時代から私の成長を見ていた数学科の先生](https://www.instagram.com/p/C8Zkg9-PC4w/) — 葉丙成教授が、楊維哲教授によるギフテッド教育と学生への影響を回想しています。
+[^7]: [高校時代から見守ってくれた数学科の先生](https://www.instagram.com/p/C8Zkg9-PC4w/) — 葉丙成教授が楊維哲教授の英才教育と学生への影響を回想。
 
-[^8]: [数学伝播- 楊維哲](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — 中央研究院数学研究所『数学伝播』誌における楊維哲教授の著作一覧です。
+[^8]: [数学伝播 - 楊維哲](https://www.math.sinica.edu.tw/mathmedia/journals/index?q%5Bfull_content_cont%5D=%E6%A5%8A%E7%B6%AD%E5%93%B2) — 中央研究院数学研究所『数学伝播』誌における楊維哲教授の著作リスト。
 
-[^9]: [六・勇者精進、画壇の常青- 楊啓東と楊維哲](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — 国立台湾美術館のアーカイブで、楊啓東と楊維哲父子の、医学を捨て数学へ進んだ物語を詳述しています。
+[^9]: [六・勇者精進、画壇長青 - 楊啟東と楊維哲](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/B009606.pdf?033437082) — 国立台湾美術館蔵の資料、楊啟東と楊維哲の父子が医学を捨て数学の道を選んだ物語を詳述。
 
-[^10]: [台湾初の「三級跳び」ギフテッド学生！楊柏因、18歳で台湾大学を卒業](https://time.udn.com/udntime/story/122833/8798116) — 聯合報「報時光」による、楊維哲の子・楊柏因の天才的な成長過程の記録です。
+[^10]: [台湾初の「三段飛び」英才生！楊柏因、18歳で台大卒業](https://time.udn.com/udntime/story/122833/8798116) — 聯合報が報じた時光、楊維哲の息子・楊柏因の天才的な成長軌跡を記録。
 
-[^11]: [陳文成事件と台湾大学数学科](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — 陳文成事件における楊維哲教授の立場に関するウィキペディアの記載です。
+[^11]: [陳文成事件と台大数学科](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%96%87%E6%88%90) — ウィキペディアにおける陳文成事件での楊維哲教授の立場の記述。
 
-[^12]: [楊維哲 20081223：大学生活から陳文成事件へ](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — 国立台湾大学校史館のオーラル・ヒストリー・インタビュー記録です。
+[^12]: [楊維哲 20081223：大学生活から陳文成事件へ](https://historygallery.ntu.edu.tw/oral/modern_site/02_20081223_YangWeiZhe_2.html) — 国立台湾大学史料館の口述歴史インタビュー記録。
 
-[^13]: [陳文成事件41周年：国家暴力に断固として抵抗した勇者を記念する](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahoo News の報道で、楊維哲が陳文成記念碑の碑文を提案したことに触れています。
+[^13]: [陳文成事件41周年：国家暴力に断固として抵抗した勇者を追悼](https://tw.news.yahoo.com/%E9%99%B3%E6%96%87%E6%88%90%E4%BA%8B%E4%BB%B641%E5%91%A8%E5%B9%B4-%E6%A5%8A%E9%BB%83%E7%BE%8E%E5%B9%B8-%E5%8F%B0%E7%81%A3%E4%BA%BA%E4%B8%8D%E5%8F%AF%E5%B0%8D%E6%AD%B7%E5%8F%B2%E6%BC%A0%E4%B8%8D%E9%97%9C%E5%BF%83-%E8%A6%81%E7%82%BA%E4%BA%BA%E6%AC%8A%E6%AD%A3%E7%BE%A9%E7%99%BC%E8%81%B2-193908550.html) — Yahooニュースの報道、楊維哲が陳文成記念碑の題字を書いたことに言及。

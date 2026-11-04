@@ -1,22 +1,29 @@
 ---
-title: '許芳宜：宜蘭1971、グラハム舞団プリンシパルから2024年金馬ビジュアルダンサーへ'
-description: '1971年、宜蘭に生まれる。台北芸術大学舞蹈科を卒業後、1995年に渡米し、マーサ・グラハム・ダンス・カンパニーに加入。1999年にプリンシパル（首席）に昇格。2007年、台湾に帰国しラファンLAFAを創立（2010年解散）。2020年、ドキュメンタリー映画『我心我行』が公開。2024年、金馬影展のビジュアルダンスを担当。2025年、メディアのインタビューで身体の老化問題について語る。'
+title: '許芳宜：1971年宜蘭生まれ、マーサ・グラハム舞踊団首席ダンサーから2024年金馬影展メインビジュアルダンサーへ'
+description: '1971年、宜蘭生まれ。台北芸術大学舞踊科卒業。1995年渡米し、マーサ・グラハム舞踊団に入団。1999年首席ダンサーに昇格。2007年帰国し、ラファン（LAFA）を設立（2010年終了）。ドキュメンタリー映画『我心我行』（2020年）。2024年、金馬影展のメインビジュアルダンスを担当。2025年、身体の老化についてインタビューを受ける。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    '芸術とデザイン',
+    '舞踊',
+    '表演芸術',
+    'コンテンポラリーダンス',
+    'マーサ・グラハム舞踊団',
+  ]
 subcategory: '藝術與設計'
-tags: ['藝術與設計', '舞蹈', '表演藝術', '現代舞', '葛蘭姆舞蹈團']
-readingTime: 7
-#   whats_excluded: "葛蘭姆技巧細節；各場演出評論摘錄；拉芳每年活動清單"
-#   where_it_hedges: "「參演李安電影」無具體作品無法驗證，已移除"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T20:47:34.528748+00:00'
 ---
 
 # 許芳宜：宜蘭1971、グラハム舞団プリンシパルから2024年金馬ビジュアルダンサーへ
