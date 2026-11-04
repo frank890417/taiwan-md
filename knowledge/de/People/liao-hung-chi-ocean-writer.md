@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T21:07:59.404304+00:00'
 ---
 
 # Liao Hongji

@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-04T20:33:01.717066+00:00'
 ---
 
 # Lin Yi-hsiung: Vom taiwanesischen Provinzabgeordneten zum moralischen Symbol der Anti-Kernkraft-Bewegung
@@ -73,21 +75,21 @@ Lin Yi-hsiung ist ein frommer Theologe der reformierten Kirche und wählte, auch
 
 Die Bewertung seiner Rolle ist bis heute gespalten: Seine Anhänger sehen ihn als das moralische Symbol der taiwanesischen Demokratie, während Kritiker argumentieren, dass Idealismus in der realen Politik oft nicht umsetzbar sei, und in Bezug auf die Atomkraftfrage weisen einige auf die praktischen Schwierigkeiten einer vollständigen Abschaffung hin, wenn die Energiewende noch nicht abgeschlossen sei. Beide Sichtweisen existieren nebeneinander und spiegeln die Komplexität seiner Rolle in der Geschichte Taiwans wider.[^7]
 
-## Quellen
+## Referenzen
 
-[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Lebenslauf, 1977 Provinzabgeordneter, 1998 achter Parteivorsitzender der DPP, erster direkt gewählter Vorsitzender, 1987 Abschluss MPA in Harvard. Siehe auch [Taiwan Fact-Checking Center: Lin Yi-hsiung tritt 2006 aus der Partei aus](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/)。
+[^1]: [Lin Yi-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Lebenslauf, Mitglied der Provinzversammlung von Taiwan 1977, erster direkt gewählter Vorsitzender der DPP in der 8. Amtsperiode 1998, Harvard MPA-Abschluss 1987. Siehe auch [Taiwan FactCheck Center: Gerüchte über Lin Yi-hsiungs Parteiaustritt 2006 dementiert](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Beautiful Island-Vorfall — Museum für Menschenrechte](https://www.nhrm.gov.tw/) — Hintergrund, Verhaftierte und militärische Gerichtsverfahren des Beautiful-Island-Vorfalls 1979.
+[^2]: [Formosa-Incident — National Human Rights Museum](https://www.nhrm.gov.tw/) — Verlauf des Formosa-Incidents 1979, Liste der Verhafteten und Unterlagen zum Militärprozess.
 
-[^3]: [Lin-Skandal — Museum für Menschenrechte](https://www.nhrm.gov.tw/w/nhrm/home) — Archiv und aktueller Stand des Lin-Skandals.
+[^3]: [Mordfall im Hause Lin — National Human Rights Museum](https://www.nhrm.gov.tw/w/nhrm/home) — Archiv zum Mordfall im Hause Lin und Erläuterungen zum aktuellen Stand der ungeklärten Ermittlungen.
 
-[^4]: [Parteiarchiv der DPP — Offizielle Website der DPP](https://www.dpp.org.tw/) — Gründungsgeschichte und Parteireformen während der Amtszeit von Lin Yi-hsiung 1998–2000. Siehe auch [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) über den Austritt aus der Partei am 24. Januar 2006.
+[^4]: [Geschichte der Demokratischen Fortschrittspartei — Offizielle Website der DPP](https://www.dpp.org.tw/) — Gründungsverlauf und Parteiaufzeichnungen während der Amtszeit von Lin Yi-hsiung als Parteivorsitzender 1998–2000. Siehe auch [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) für die Aufzeichnung des Parteiaustritts am 24.01.2006.
 
-[^5]: [Offizielle Website der Stiftung für Zi-Lin-Bildung](https://www.tzlin.org.tw/) — Stiftungsziele, Zi-Lin-Park und Veranstaltungen.
+[^5]: [Offizielle Website der Cilin Education Foundation](https://www.tzlin.org.tw/) — Zweck der Stiftung, Einführung in den Cilin-Campus und Informationen zu Aktivitäten.
 
-[^6]: [Berichte über die Fastenaktion 2014 — Liberty Times](https://news.ltn.com.tw/) — Bestätigung der Fastenaktion des Lin Yi-hsiung im April 2014 und der Entscheidung zur Stilllegung des Atomkraftwerks 4.
+[^6]: [Berichterstattung über den Hungerstreik gegen Kernkraftwerk Nr. 4 im Jahr 2014 — Liberty Times](https://news.ltn.com.tw/) — Bestätigung des Verlaufs von Lin Yi-hsiungs Hungerstreik im April 2014 und der Entscheidung zur Einstellung der Arbeiten sowie Versiegelung des Kernkraftwerks Nr. 4.
 
-[^7]: [Geschichte der Anti-Atomkraft-Bewegung — Grüner Bürgeraktionsbund](https://gcaa.org.tw/) — Historischer Kontext der Anti-Atomkraft-Bewegung in Taiwan und die Rolle von Lin Yi-hsiung.
+[^7]: [Historische Materialien zur Anti-Atomkraft-Bewegung — Citizen's Coalition for Green Taiwan](https://gcaa.org.tw/) — Historischer Kontext der Anti-Atomkraft-Bewegung in Taiwan und Aufzeichnungen über die Rolle von Lin Yi-hsiung.
 
 ## Weiterführende Literatur
 

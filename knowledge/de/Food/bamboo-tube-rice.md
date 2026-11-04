@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T20:56:17.293239+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Bambusrissenreis ist eine der repräsentativsten Reisspeisen der taiwanesischen Indigenen, deren Ursprung in der Not der Jäger liegt, die in den Bergen keine Kochutensilien haben. Es nutzt die natürliche Feuchtigkeit und den Bambusduft des Bambusrohrs, das direkt über dem Kohlefeuer gebacken wird, wodurch der Reis feucht bleibt und einen besonderen, klaren Duft entwickelt. Es ist nicht nur eine Speise, sondern auch eine Praxis bezüglich Waldressourcenmanagement und Physik.

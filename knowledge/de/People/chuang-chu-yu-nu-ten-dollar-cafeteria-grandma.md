@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T21:11:04.819947+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Zhuang Zhu-yu (1920–2015) war eine berühmte Philanthropin in Taiwan, die lange Zeit unter der Landbrücke im Kaohsiung Park „Zehn-Dollar-Mittagessen“ betrieb. Sie begann zunächst mit kostenloser Verpflegung für ihre Landsleute, die Hafenarbeiter, und wechselte später zu zehn Dollar aufgrund hoher Kosten, bestand aber stets auf dem Prinzip „All-you-can-eat“ ohne Berücksichtigung der Kosten. Ihr Lebenswerk war das Verkaufen von sieben Häusern zur Unterstützung ihrer Wohltätigkeit; ihr Abschied nahm über dreitausend Trauernde wahr, und ihr Geist ist bis heute ein Symbol für die Wärme in der taiwanesischen Gesellschaft.
