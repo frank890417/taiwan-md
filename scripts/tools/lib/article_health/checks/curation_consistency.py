@@ -17,6 +17,12 @@
   5. verifiedVia 只能是 'editorial' / 'community' → HARD（同 1 的 silent failure 理由）
   6. verifiedVia: community 必須有 preReview（社群路徑的判準之一就是查證單存在）→ WARN
   4-6 不以 curation 存在為前提：preReview 在轉正前就會掛上。
+
+說明條種類（2026-11-04 全站普查 §五.5，reports/article-health-census-2026-11-04.md）：
+  7. curationReason 只能是 'unverified'（待查證）/ 'thin'（待擴寫）→ HARD（同 1：模板對
+     非法值會退回預設文案，打錯字＝以為換了說明條其實沒換）
+  8. curationReason 只在 curation: incubating 時有意義 → 其他狀態帶著它 WARN（轉正後
+     忘了拿掉的過期欄位；curation-tag.py --set verified 會自動拿掉）
 """
 
 from __future__ import annotations
@@ -29,11 +35,12 @@ from ..types import FileTarget, Severity, Violation
 CHECK_NAME = "curation-consistency"
 DIMENSION = "frontmatter"
 DEFAULT_SEVERITY = Severity.WARN
-EDITORIAL_REF = "reports/design-curation-tier-2026-08-04.md + MAINTAINER-PIPELINE §1b / §1d"
+EDITORIAL_REF = "reports/design-curation-tier-2026-08-04.md + MAINTAINER-PIPELINE §1b / §1d + reports/article-health-census-2026-11-04.md §五.5"
 APPLIES_TO = ["zh-TW"]
 
 _VALID = {"verified", "incubating"}
 _VALID_VIA = {"editorial", "community"}
+_VALID_REASON = {"unverified", "thin"}
 _REPO_ROOT = Path(__file__).resolve().parents[5]
 
 
@@ -87,9 +94,39 @@ def _check_provenance(target: FileTarget) -> Iterator[Violation]:
             )
 
 
+def _check_reason(target: FileTarget) -> Iterator[Violation]:
+    fm = target.frontmatter
+    reason = fm.get("curationReason")
+    if reason is None:
+        return
+    if reason not in _VALID_REASON:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"curationReason 取值非法：{reason!r}（合法值 unverified / thin；"
+                "模板對非法值退回預設文案 = 以為換了說明條其實沒換）"
+            ),
+            line=_fm_line(target, "curationReason"),
+            editorial_ref=EDITORIAL_REF,
+        )
+    elif fm.get("curation") != "incubating":
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=(
+                f"curationReason: {reason} 只在 curation: incubating 時有意義，"
+                f"目前 curation 是 {fm.get('curation')!r}——轉正後忘了拿掉的過期欄位"
+            ),
+            line=_fm_line(target, "curationReason"),
+            editorial_ref=EDITORIAL_REF,
+        )
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     fm = target.frontmatter
     yield from _check_provenance(target)
+    yield from _check_reason(target)
     cur = fm.get("curation")
     if cur is None:
         return

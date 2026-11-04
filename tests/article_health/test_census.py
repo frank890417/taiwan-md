@@ -314,7 +314,7 @@ def test_plugin_warns_thin_untagged(tmp_path, monkeypatch):
     vs = list(curation_gap.check(_target(tmp_path, _THIN), {}))
     assert len(vs) == 1
     assert vs[0].severity is Severity.WARN
-    assert "curation-tag.py --set incubating knowledge/People/測試假人物zz.md" in vs[0].message
+    assert "curation-tag.py --set incubating --reason unverified knowledge/People/測試假人物zz.md" in vs[0].message
     curation_gap.reset_cache()
 
 
@@ -343,3 +343,76 @@ def test_plugin_registered():
 
     registry.reset_registry()
     assert registry.get_check("curation-gap").CHECK_NAME == "curation-gap"
+
+
+# ── 第二輪：curationReason／A2 升級／標記日不明 ─────────────────────────────
+
+
+def test_suggested_reason():
+    assert C.suggested_reason(_row()) == "unverified"  # 腳註 2 < 5
+    thin = _row(metrics={"cjk": 1500, "fn_defs": 9, "fn_referenced": 9})
+    assert C.suggested_reason(thin) == "thin"  # 腳註夠、只有字數失守
+    zero_ref = _row(metrics={"cjk": 1500, "fn_defs": 9, "fn_referenced": 0})
+    assert C.suggested_reason(zero_ref) == "unverified"  # 引用失守
+    a2 = _row(first_author="Contributor", first_date="2026-08-20",
+              metrics={"cjk": 1500, "fn_defs": 9, "fn_referenced": 9})
+    assert C.suggested_reason(a2) == "unverified"  # A2 一律待查證（即使同時只有字數失守）
+    assert C.suggested_reason(_row(curation="incubating")) is None
+
+
+def test_tier_b_unknown_tag_date_is_not_b():
+    good = _row(curation="incubating", curation_since=None,
+                metrics={"cjk": 5000, "fn_defs": 20, "fn_referenced": 20},
+                evidence={"rewrite_last": "2026-09-01", "rewrite_commits": 1})
+    assert C.tier_b(good) == []  # partial clone 拿不到標記日 → 寧可不列
+
+
+def _a2_target(tmp_path):
+    return _target(tmp_path, _THIN.replace("一段很短的正文，沒有腳註。", "一段很短的正文，沒有腳註。" * 300))
+
+
+def test_plugin_a2_severity_option_and_ci_guard(tmp_path, monkeypatch):
+    _prime(monkeypatch, complete=True)
+    rel = "knowledge/People/測試假人物zz.md"
+    hist = C.ArticleHistory(commits=[C.Commit("c1", "Contributor", "2026-08-20", "Create 測試假人物zz.md", 1)])
+    monkeypatch.setitem(curation_gap._CACHE, "hist", {rel: hist})
+    monkeypatch.delenv("GITHUB_ACTIONS", raising=False)
+    monkeypatch.delenv("CI", raising=False)
+    target = _a2_target(tmp_path)
+    vs = list(curation_gap.check(target, {"a2_severity": "hard"}))
+    by = {v.message.split("：", 2)[1][:2]: v.severity for v in vs}
+    assert by["A2"] is Severity.HARD and by["A1"] is Severity.WARN
+    vs = list(curation_gap.check(target, {}))
+    assert all(v.severity is Severity.WARN for v in vs)  # 沒設 option 就是 WARN
+    monkeypatch.setenv("GITHUB_ACTIONS", "true")  # 投稿 PR 的 CI 閘門不升
+    vs = list(curation_gap.check(target, {"a2_severity": "hard"}))
+    assert all(v.severity is Severity.WARN for v in vs)
+    curation_gap.reset_cache()
+
+
+def test_curation_reason_consistency(tmp_path):
+    from lib.article_health.checks import curation_consistency as cc
+
+    def vs(extra):
+        t = _target(tmp_path, f"---\ntitle: 't'\ndescription: 'd'\n{extra}---\n\n正文。\n")
+        return list(cc.check(t, {}))
+
+    assert vs("curation: incubating\ncurationReason: thin\n") == []
+    bad = vs("curation: incubating\ncurationReason: thinn\n")
+    assert bad and bad[0].severity is Severity.HARD
+    stale = vs("curation: verified\nlastHumanReview: true\ncurationReason: thin\n")
+    assert stale and stale[0].severity is Severity.WARN
+    assert vs("curationReason: unverified\n")[0].severity is Severity.WARN  # 沒有 curation
+
+
+def test_image_health_cover_required(tmp_path, monkeypatch):
+    from lib.article_health.checks import image_health as ih
+
+    monkeypatch.chdir(tmp_path)
+    t = _target(tmp_path, _THIN)
+    cover = [v for v in ih.check(t, {}) if "封面" in v.message]
+    assert len(cover) == 1 and cover[0].severity is Severity.WARN
+    cover = [v for v in ih.check(t, {"cover_required_severity": "hard"}) if "封面" in v.message]
+    assert cover[0].severity is Severity.HARD
+    tr = _target(tmp_path, _THIN, "knowledge/en/People/x.md")
+    assert not [v for v in ih.check(tr, {}) if "封面" in v.message]  # 譯文沿用原文封面

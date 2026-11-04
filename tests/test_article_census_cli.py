@@ -65,3 +65,39 @@ def test_health_from_report():
     assert h["hard"] == 1 and h["warn"] == 3
     assert h["prose_score"] == 7 and h["fn_grade"] == "F"
     assert h["warn_by_check"] == {"footnote-density": 1, "prose-health": 1, "word-count": 1}
+
+
+def _ar(path, reasons, suggested, featured=False):
+    return {"path": path, "tiers": {"A": reasons}, "suggested_reason": suggested, "featured": featured,
+            "evidence": {"hold": None}, "traffic": {"ga_views": 0, "sc_impressions": 0, "ga_views_translations": 0}}
+
+
+def test_a_batches_and_exclude(tmp_path):
+    rows = [
+        _ar("knowledge/History/漏標.md", ["A1 零查證證據：字數 1500 < 2000", "A2 heal 漏標：…"], "unverified"),
+        _ar("knowledge/People/少腳註.md", ["A1 零查證證據：腳註 2 < 5"], "unverified"),
+        _ar("knowledge/People/只字少.md", ["A1 零查證證據：字數 1500 < 2000"], "thin"),
+        _ar("knowledge/People/有人在寫.md", ["A1 零查證證據：字數 1500 < 2000"], "thin"),
+        _ar("knowledge/Food/精選.md", ["A1 零查證證據：字數 1500 < 2000"], "thin", featured=True),
+    ]
+    out = ac.write_a_batches(rows, tmp_path, "2026-11-04", {"knowledge/People/有人在寫.md": "x"})
+    body = lambda f: [l for l in f.read_text(encoding="utf-8").splitlines() if not l.startswith("#")]
+    assert body(out["A2"][0]) == ["knowledge/History/漏標.md"]  # 同時中 A1 也歸 A2
+    assert body(out["A1-unverified"][0]) == ["knowledge/People/少腳註.md"]
+    assert body(out["A1-thin"][0]) == ["knowledge/People/只字少.md"]  # 排除與精選都不在
+    assert "--reason thin" in out["A1-thin"][0].read_text(encoding="utf-8")
+
+
+def test_dashboard_payload_shape():
+    row = {"path": "knowledge/People/a.md", "title": "a", "category": "People", "curation": None,
+           "curationReason": None, "cover": "none", "metrics": {"cjk": 1, "fn_defs": 0},
+           "tiers": {"A": ["A1 零查證證據"], "C": ["C3 無封面、正文也沒圖"]}, "featured": False,
+           "evidence": {"hold": None}, "traffic": {"ga_views": 0, "sc_impressions": 0, "ga_views_translations": 0}}
+    payload = {k: None for k in ("generated", "generator", "head", "scope", "n", "thresholds", "health_profile",
+                                 "git_available", "curation_dates_available", "traffic_sources",
+                                 "tier_names", "tier_counts")}
+    payload |= {"articles": [row], "distribution": {"all": {"n": 1, "cjk": {}, "fn_defs": {}, "media": {}}}}
+    d = ac.dashboard_payload(payload)
+    assert d["tiers"]["A"][0]["path"] == "knowledge/People/a.md"
+    assert d["tier_C_paths"] == ["knowledge/People/a.md"] and d["c_subtypes"] == {"C3": 1}
+    assert "articles" not in d  # 輕量版不帶全列

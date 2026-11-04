@@ -287,13 +287,33 @@ def _zh_pathspecs(repo_root: Path) -> list[str]:
     return [f"knowledge/{c}" for c in zh_category_dirs(repo_root / "knowledge")]
 
 
+def is_partial_clone(repo_root: Path = REPO_ROOT) -> bool:
+    """CI 的 deploy checkout 是 blobless（`--filter=blob:none`，歷史 blob 按需抓）。
+
+    在那種 clone 裡，模糊改名偵測（-M 比內容相似度）與 `-G -p` 都會逐一回源站抓
+    歷史 blob——一次 build 打幾百次網路。偵測到就退成只認完全相同內容的改名
+    （-M100%，比 oid 不讀內容）並跳過標記日（B 級）。本機實測兩種改名模式只差
+    15 篇的首次提交者。
+    """
+    try:
+        out = subprocess.run(
+            ["git", "config", "--get-regexp", r"^(extensions\.partialclone|remote\..*\.promisor)$"],
+            cwd=repo_root, capture_output=True, text=True,
+        ).stdout
+    except OSError:
+        return False
+    return bool(out.strip())
+
+
 def git_histories(repo_root: Path = REPO_ROOT) -> dict[str, ArticleHistory]:
     """一次 `git log -M --name-status` 掃完全部中文文章史，跟著改名往回接。
 
     回 {'knowledge/Cat/stem.md'（現存路徑）: ArticleHistory}。git 不可用回 {}。
+    partial clone 時只認完全相同內容的改名（見 is_partial_clone）。
     """
+    rename = "-M100%" if is_partial_clone(repo_root) else "-M"
     cmd = [
-        "git", "-c", "core.quotePath=false", "log", "-M", "--no-merges",
+        "git", "-c", "core.quotePath=false", "log", rename, "--no-merges",
         "--format=%x00%H%x09%aN%x09%aI%x09%s", "--name-status", "--",
         *_zh_pathspecs(repo_root),
     ]
@@ -366,8 +386,8 @@ def parse_git_log(text: str) -> dict[str, ArticleHistory]:
     return live
 
 
-def git_curation_dates(repo_root: Path = REPO_ROOT) -> dict[str, str]:
-    """每篇「`curation: incubating` 最近一次被加上去」的日期。
+def git_curation_dates(repo_root: Path = REPO_ROOT) -> dict[str, str] | None:
+    """每篇「`curation: incubating` 最近一次被加上去」的日期；拿不到（partial clone）回 None。
 
     一次 `git log -G -p --unified=0`（不 --pickaxe-all，所以只吐真的動到那行的檔）。
     同一個 commit 裡同一檔 `+` 多於 `-` 才算「加上」；一加一減是搬行（重排 frontmatter），
@@ -378,6 +398,8 @@ def git_curation_dates(repo_root: Path = REPO_ROOT) -> dict[str, str]:
         "git", "-c", "core.quotePath=false", "log", "--no-renames", "-G^curation: incubating",
         "-p", "--unified=0", "--format=%x00%aI", "--", *_zh_pathspecs(repo_root),
     ]
+    if is_partial_clone(repo_root):
+        return None  # -p 要讀歷史 blob，blobless clone 會逐一回源站抓
     try:
         out = subprocess.run(
             cmd, cwd=repo_root, capture_output=True, text=True, encoding="utf-8",
@@ -493,6 +515,7 @@ def build_row(
         "lastHumanReview": truthy(fm.get("lastHumanReview")),
         "curation": curation,
         "curation_since": curation_since if curation == "incubating" else None,
+        "curationReason": (str(fm.get("curationReason")).strip() or None) if fm.get("curationReason") else None,
         "featured": truthy(fm.get("featured")),
         "author_fm": fm.get("author"),
         "first_author": commits[-1].author if commits else None,
@@ -586,6 +609,27 @@ def tier_a(row: dict[str, Any], t: dict[str, Any] = THRESHOLDS) -> list[str]:
     return reasons
 
 
+CURATION_REASONS = ("unverified", "thin")
+
+
+def suggested_reason(row: dict[str, Any], t: dict[str, Any] = THRESHOLDS) -> str | None:
+    """A 級該帶哪種說明條（`curationReason`）：只有字數失守 → thin，其餘 → unverified。
+
+    unverified（待查證）：A2 漏標的投稿、腳註低於地板、腳註定義了零引用——缺的是查證。
+    thin（待擴寫）：腳註與引用都在地板以上，只是字數太少——缺的是內容。
+    不是 A 回 None。
+    """
+    reasons = tier_a(row, t)
+    if not reasons:
+        return None
+    if any(r.startswith("A2") for r in reasons):
+        return "unverified"
+    m = row["metrics"]
+    if m["fn_defs"] < t["a_fn_floor"] or citation_risk(row):
+        return "unverified"
+    return "thin"
+
+
 def tier_b(row: dict[str, Any], t: dict[str, Any] = THRESHOLDS) -> list[str]:
     """已標 🌱 但可能已夠好、可人審轉正。回理由；空 = 不是 B。
 
@@ -596,7 +640,9 @@ def tier_b(row: dict[str, Any], t: dict[str, Any] = THRESHOLDS) -> list[str]:
     if row["curation"] != "incubating":
         return []
     ev, m = row["evidence"], row["metrics"]
-    since = row.get("curation_since") or "0000-00-00"
+    since = row.get("curation_since")
+    if not since:
+        return []  # 標記日不明（partial clone 或解析不到）就不判，寧可漏列也不亂列
     # 嚴格晚於標記日：標記當天的那次流程就是「決定標上去」的那次（例：洪醒夫 9/12 重寫
     # 拿掉標記、9/13 收 PR #1712 後查核 heal 時重新標上），不算轉正證據。
     walked_after = [

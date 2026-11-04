@@ -9,9 +9,13 @@
      幾乎都會到的高度」或腳註定義了卻零引用；或
   A2 走 PR 進站、進站日在 MAINTAINER-PIPELINE §1b 規則生效（2026-08-04）之後、進站後
      沒走過查證——heal 步驟漏標。
-→ WARN，附一行可以直接貼的 curation-tag.py 指令。
+→ WARN，附一行可以直接貼的 curation-tag.py 指令（含建議的 `--reason`：只有字數失守
+帶 thin，其餘帶 unverified，規則在 census.suggested_reason）。
 
-為什麼是 WARN 不是 HARD：標不標是策展決定（design-curation-tier §五 #3「補標範圍」），
+A1／A2 各出一條 violation。options `a2_severity`（預設 warn）讓 profile 把 A2 升 HARD：
+pre-commit 已升（2026-11-04 第一波補標後，§1b 漏標從此觸檔即擋），ci-deploy 維持 WARN。
+
+為什麼 A1 是 WARN 不是 HARD：標不標是策展決定（design-curation-tier §五 #3「補標範圍」），
 這把尺只負責讓缺口被看見；普查第一次跑就有一百多篇，升 HARD 等於讓 CI 全紅。
 
 git 證據：整個行程只跑一次 bulk `git log`（census.git_histories），不逐檔 fork。
@@ -21,6 +25,7 @@ git 證據：整個行程只跑一次 bulk `git log`（census.git_histories）�
 
 from __future__ import annotations
 
+import os
 import subprocess
 from typing import Any, Iterator
 
@@ -84,23 +89,47 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     if rel.split("/")[1] == "About":
         return
 
-    use_git = bool((config or {}).get("git_evidence", True))
+    opts = config or {}
+    use_git = bool(opts.get("git_evidence", True))
     hists, complete = _git_state() if use_git else ({}, False)
     row = census.build_row(rel, fm, target.body, _repo_evidence(), hists.get(rel))
     reasons = census.tier_a(row)
     if not reasons:
         return
-
-    severity = Severity.WARN if complete else Severity.INFO
+    reason = census.suggested_reason(row) or "unverified"
+    cmd = f"python3 scripts/tools/curation-tag.py --set incubating --reason {reason} {rel}"
     caveat = "" if complete else "（沒有完整 git 史，commit 層證據沒算進來，僅供參考）"
-    yield Violation(
-        check=CHECK_NAME,
-        severity=severity,
-        message=(
-            f"應標 🌱 進化中但沒標{caveat}：{'；'.join(reasons)}。"
-            f"套用前先 dry-run：python3 scripts/tools/curation-tag.py --set incubating {rel}"
-        ),
-        line=1,
-        editorial_ref=EDITORIAL_REF,
-        fix_suggestion="incubating",
-    )
+
+    for r in reasons:
+        if not complete:
+            severity = Severity.INFO
+        elif r.startswith("A2") and not _in_ci():
+            # A2 是「§1b 先標再審」這條規則沒照做，不是策展判斷 → profile 可升 HARD
+            # （pre-commit：觸到漏標的投稿就得先補標）。A1 是判斷題，永遠 WARN。
+            # CI 裡不升：pr-frontmatter-gate 對投稿 PR 逐檔跑同一個 pre-commit profile，
+            # 投稿者的新文在 PR 裡就會中 A2——標記是維護者 merge 後 heal 的事（merge-first），
+            # 不能讓每一個投稿 PR 因此變紅。
+            severity = _sev(opts.get("a2_severity"), Severity.WARN)
+        else:
+            severity = Severity.WARN
+        yield Violation(
+            check=CHECK_NAME,
+            severity=severity,
+            message=f"應標 🌱 進化中但沒標{caveat}：{r}。套用前先 dry-run：{cmd}",
+            line=1,
+            editorial_ref=EDITORIAL_REF,
+            fix_suggestion=reason,
+        )
+
+
+def _in_ci() -> bool:
+    return os.environ.get("GITHUB_ACTIONS") == "true" or os.environ.get("CI", "").lower() in ("1", "true")
+
+
+def _sev(value: Any, fallback: Severity) -> Severity:
+    if isinstance(value, Severity):
+        return value
+    try:
+        return Severity(str(value).lower()) if value else fallback
+    except ValueError:
+        return fallback
