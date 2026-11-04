@@ -11,6 +11,7 @@ import {
 import { getLiveArticleCount } from '../utils/liveStats';
 import { getLangSwitchPath } from '../utils/getLangSwitchPath';
 import { useTranslations } from '../i18n/utils';
+import { withBrand } from '../utils/pageTitle';
 
 // Live article count from prebuilt vitals so SEO meta tracks reality.
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
@@ -63,7 +64,7 @@ const {
   collectionTotal,
 } = Astro.props;
 
-const fullTitle = `${title} | Taiwan.md`;
+const fullTitle = withBrand(title);
 const siteUrl = 'https://taiwan.md';
 
 // Per-locale URLs for the hreflang cluster. Shares the module-level registry

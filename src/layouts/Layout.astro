@@ -1,4 +1,5 @@
 ---
+import { withBrand } from '../utils/pageTitle';
 import '../styles/global.css';
 import '../styles/icons.css';
 import '../styles/shot-mode.css';
@@ -229,7 +230,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         rel="stylesheet"
       />
     </noscript>
-    <title>{title} | Taiwan.md</title>
+    <title>{withBrand(title)}</title>
     <link
       rel="alternate"
       type="application/rss+xml"
