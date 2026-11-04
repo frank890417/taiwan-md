@@ -1,19 +1,22 @@
 ---
-title: '孫運璿（そんうんせん）：闇の中で台湾を照らしたエンジニア院長'
-description: '戦後の廃墟から5か月での復電という奇跡、半導体産業への大胆な賭け。孫運璿はエンジニアとしての実直さと廉潔さで、台湾近代化の礎を築いた。'
+title: '孫運璿：暗闇の中で台湾に光を灯したエンジニア出身の院長'
+description: '戦後の廃墟から5ヶ月で復電を果たした奇跡から、半導体産業への先見性のある投資まで、孫運璿はエンジニアらしい実務能力と清廉さをもって、台湾近代化の礎を築きました。'
 date: 2026-04-30
-tags: ['孫運璿', '台湾電力公司', '半導体', '工研院', '十大建設']
 category: 'People'
+tags: ['孫運璿', '台湾電力', '半導体', '工業技術研究院', '十大建設']
+subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
-translatedAt: '2026-05-16T22:35:34Z'
-featured: false
+translatedAt: '2026-11-04T21:38:54.510505+00:00'
 ---
 
 > **30秒概覧：** 台湾の近代化の歴史において、**孫運璿（そんうんせん）**（1913－2006）は避けて通れない名前です。「永遠の行政院長」と称えられ、テクノクラートとしての専門性、廉潔な人格、そして国家が転換期を迎えた重要な局面での果敢な決断力が、その公的イメージを形作っています。戦後の廃墟での電力復旧に始まり、1970年代に半導体産業を推進した先見の明まで、孫運璿の生涯はほぼそのまま、台湾が荒廃から繁栄へと歩んだ創業の歴史です [^1][^2]。

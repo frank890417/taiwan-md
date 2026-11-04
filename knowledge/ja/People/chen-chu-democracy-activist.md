@@ -1,19 +1,21 @@
 ---
 title: '陳菊'
-description: '美麗島事件の死刑囚から「南の霸者」と呼ばれる「花媽」へ。彼女は台湾の民主化転換を最も鮮明に体現した証人である。'
+description: '美麗島事件的死刑犯到南霸天「花媽」，她是台灣民主轉型最鮮明的見證者。'
 date: 2026-04-17
-tags: ['政治', '民主運動', '高雄', '人権']
 category: 'People'
+tags: ['政治', '民主運動', '高雄', '人権']
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: '2026-05-01T18:02:56+08:00'
+translatedAt: '2026-11-04T21:43:45.929164+00:00'
 ---
 
 > **30秒概要：**

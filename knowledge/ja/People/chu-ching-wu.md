@@ -1,22 +1,22 @@
 ---
-title: '朱経武：1987年液氮温度を超えた高温超伝導、Tc=93Kの共同発見者'
-description: '1941年、湖南生まれ。台湾系アメリカ人物理学者。1987年1月、呉茂昆とともにYBCO（イットリウム・バリウム・銅酸化物）のTc=93Kを発見し、液氮温度の壁を突破して高温超伝導時代を切り開いた。2001年から2009年まで香港科技大学学長を務めた。2026年3月、PNASにTc=151Kの新突破を発表。85歳にしてなお研究活動を続けている。'
+title: '朱經武：1987年に液体窒素温度を突破、高温超伝導Tc=93Kの共同発見者'
+description: '1941年湖南生まれ、台湾系アメリカ人物理学者。1987年1月、呉茂昆と共同でYBCOイットリウムバリウム銅酸化物Tc=93Kを発見し、液体窒素温度の壁を突破、高温超伝導の時代を切り開いた。2001年から2009年まで香港科技大学学長を務めた。2026年3月、PNASでTc=151Kの新たな突破を発表、85歳でなお研究に活躍している。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['科学と学術', '物理学者', '超伝導体', '香港科技大学', 'ヒューストン大学']
 subcategory: '科學與學術'
-tags: ['科學與學術', '物理學家', '超導體', '香港科大', '休士頓大學']
-readingTime: 7
-#   whats_excluded: "BCS理論細節；歷年學術論文清單；超導應用工程規格"
-#   where_it_hedges: "諾貝爾候選資格為外界推測而非官方確認；2026 Tc=151K 以中時報導為準"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:59:45.220135+00:00'
 ---
 
 # 朱経武：1987年液氮温度を超えた高温超伝導、Tc=93Kの共同発見者

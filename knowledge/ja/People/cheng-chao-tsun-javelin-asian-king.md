@@ -18,15 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
-# design_rationale:
-#   why_this_hook: "『最終投擲による逆転』から切り込む——91.36メートルは単なる距離ではなく、最後の一投のドラマ性、そしてアジアのやり投げがその瞬間に変わったという事実。"
-#   whats_excluded: "助走の技術的詳細；各年度の大会ごとの成績；練習施設の情報"
-#   where_it_hedges: "2018年ジャカルタアジア競技大会の順位は73.86メートル5位を正とする（一部の早期報道では銀メダルとされたが、実際には同年9月の大陸杯の成績）"
-translatedFrom: People/鄭兆村.md
-sourceCommitSha: '0f8fae0a'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/鄭兆村.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-05-25T21:07:04Z'
+translatedAt: '2026-11-04T21:51:16.116495+00:00'
 ---
 
 # 鄭兆村：2017年ユニバーシアード最終投擲91.36メートル、アジアのやり投げを変えた一投
