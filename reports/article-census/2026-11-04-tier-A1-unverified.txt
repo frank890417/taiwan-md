@@ -1,0 +1,29 @@
+# article-census 2026-11-04 — A1-unverified：只中 A1，腳註或引用失守 → 待查證，27 篇
+# 套用（先 dry-run）：python3 scripts/tools/curation-tag.py --set incubating --reason unverified --files reports/article-census/2026-11-04-tier-A1-unverified.txt
+knowledge/Geography/台灣都市發展與城鄉差距.md
+knowledge/Culture/關聖帝君信仰.md
+knowledge/People/鄭成功.md
+knowledge/Nature/台灣原住民生態智慧與環境保育.md
+knowledge/Nature/台灣高山生態系與冰河孑遺.md
+knowledge/Economy/台灣自媒體創作者經濟.md
+knowledge/Culture/台灣原住民族16族文化地圖.md
+knowledge/Culture/台灣原住民語言復振運動.md
+knowledge/People/李昌鈺.md
+knowledge/Geography/台灣水庫與水資源管理.md
+knowledge/Culture/台灣華語的演化.md
+knowledge/History/台灣原住民族歷史與正名運動.md
+knowledge/Culture/台灣外來語與語言接觸.md
+knowledge/Society/台灣省籍矛盾.md
+knowledge/Society/台灣斜槓世代.md
+knowledge/Society/台灣原住民族土地正義與傳統領域.md
+knowledge/Art/金馬賓館當代美術館.md
+knowledge/Food/台南中西區美食小吃文化.md
+knowledge/History/源興牛與牛肉湯的歷史.md
+knowledge/Nature/台灣海洋生態與珊瑚礁保育.md
+knowledge/People/沈聖博.md
+knowledge/People/郁永河.md
+knowledge/People/陳澄波.md
+knowledge/Society/台灣有哪些動物園.md
+knowledge/Society/野百合學運.md
+knowledge/Technology/台灣災難醫療體系.md
+knowledge/Technology/台灣開源精神.md

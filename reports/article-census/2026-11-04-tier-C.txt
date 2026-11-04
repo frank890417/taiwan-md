@@ -1,7 +1,11 @@
 # article-census 2026-11-04 — C 級：沒有可用封面圖
 # 產生：python3 scripts/tools/article-census.py --tier C（規則見 lib/article_health/census.py）
-# 904 篇；排序＝流量高到低
-knowledge/People/鐵牛杰哥.md
+# 900 篇；排序＝流量高到低
+# 排除 4 篇（--exclude 指定）：
+#   knowledge/People/鐵牛杰哥.md（指定排除）
+#   knowledge/Food/地瓜球.md（指定排除）
+#   knowledge/Food/鱔魚意麵.md（指定排除）
+#   knowledge/People/齊柏林.md（指定排除）
 knowledge/People/彎彎.md
 knowledge/People/李宗盛.md
 knowledge/History/高雄加工出口區.md
@@ -168,7 +172,6 @@ knowledge/Technology/雪山隧道.md
 knowledge/About/台灣官方網站資源.md
 knowledge/Politics/來來來怎麼樣怎麼樣.md
 knowledge/Geography/台灣五大地形與地理結構.md
-knowledge/Food/地瓜球.md
 knowledge/People/凹與山.md
 knowledge/Nature/特有種.md
 knowledge/Politics/九合一選舉是什麼.md
@@ -183,13 +186,12 @@ knowledge/People/陳映真.md
 knowledge/People/魏哲家.md
 knowledge/Society/台灣補習班文化.md
 knowledge/History/清法戰爭.md
-knowledge/Food/鱔魚意麵.md
 knowledge/Culture/菜市場名.md
 knowledge/Economy/萊爾富.md
 knowledge/Music/當代原住民創作歌手.md
 knowledge/Geography/台灣都市發展與城鄉差距.md
-knowledge/People/田馥甄.md
 knowledge/History/台灣眷村歷史.md
+knowledge/People/田馥甄.md
 knowledge/People/曾博恩.md
 knowledge/History/十大建設.md
 knowledge/People/Hello-Nico.md
@@ -211,8 +213,8 @@ knowledge/Food/台灣鹽酥雞.md
 knowledge/History/台灣土地改革.md
 knowledge/Food/蚵仔煎.md
 knowledge/Music/濁水溪公社.md
-knowledge/People/林青霞.md
 knowledge/People/吳百福.md
+knowledge/People/林青霞.md
 knowledge/Technology/蕃薯藤.md
 knowledge/History/史前時代與原住民.md
 knowledge/Food/牛肉湯.md
@@ -257,10 +259,10 @@ knowledge/Lifestyle/MTV包廂.md
 knowledge/Culture/台灣殯葬文化與生死觀.md
 knowledge/Geography/台灣島嶼地理特色與形成.md
 knowledge/Nature/台灣穿山甲.md
-knowledge/History/台灣與北朝鮮關係.md
-knowledge/Lifestyle/台灣便利商店文化.md
 knowledge/People/韓國瑜.md
 knowledge/Technology/台灣音響產業發展.md
+knowledge/History/台灣與北朝鮮關係.md
+knowledge/Lifestyle/台灣便利商店文化.md
 knowledge/People/張雨生.md
 knowledge/Lifestyle/台灣捷運發展史.md
 knowledge/People/葉國一.md
@@ -321,6 +323,7 @@ knowledge/People/盧廣仲.md
 knowledge/Food/竹筒飯.md
 knowledge/History/台灣海洋貿易史.md
 knowledge/Culture/台灣原住民族16族文化地圖.md
+knowledge/Geography/台灣農業地景與產業分布.md
 knowledge/Nature/生態多樣性.md
 knowledge/Society/台灣偏鄉教育.md
 knowledge/Economy/台灣企業：鴻海精密.md
@@ -328,9 +331,9 @@ knowledge/Music/茄子蛋.md
 knowledge/People/龍應台.md
 knowledge/People/蔡健雅.md
 knowledge/People/Ray.md
+knowledge/People/柯文哲.md
 knowledge/Music/拍謝少年.md
 knowledge/Economy/台灣中小企業與隱形冠軍.md
-knowledge/Geography/台灣農業地景與產業分布.md
 knowledge/Music/台灣搖滾樂發展史.md
 knowledge/Culture/台灣原住民語言復振運動.md
 knowledge/Economy/台灣企業：廣達電腦.md
@@ -338,7 +341,6 @@ knowledge/Music/八部合音.md
 knowledge/People/伍佰.md
 knowledge/People/朱天文.md
 knowledge/Food/池上便當.md
-knowledge/People/柯文哲.md
 knowledge/Culture/注音符號.md
 knowledge/Technology/台灣自行車產業.md
 knowledge/Society/台灣同婚與性別平權.md
@@ -372,8 +374,8 @@ knowledge/Music/台灣音樂產業與串流時代.md
 knowledge/Culture/中秋.md
 knowledge/History/動保.md
 knowledge/People/李昌鈺.md
+knowledge/Culture/台灣動漫文化.md
 knowledge/Culture/阿美族年齡階級.md
-knowledge/History/台海危機與兩岸關係發展.md
 knowledge/People/江蕙.md
 knowledge/People/林義雄.md
 knowledge/People/蔣中正.md
@@ -460,7 +462,6 @@ knowledge/History/台灣出國史.md
 knowledge/Lifestyle/保齡球.md
 knowledge/Economy/台灣股市與資本市場.md
 knowledge/Culture/台灣迷因.md
-knowledge/Culture/台灣動漫文化.md
 knowledge/Nature/臺灣的鯨豚.md
 knowledge/People/郭金發.md
 knowledge/History/三峽老街.md
@@ -650,6 +651,7 @@ knowledge/History/87水災.md
 knowledge/History/三個外國人看乙未.md
 knowledge/History/中正紀念堂.md
 knowledge/History/九二一集集地震.md
+knowledge/History/台海危機與兩岸關係發展.md
 knowledge/History/台灣廣播史.md
 knowledge/History/台灣森林開發史.md
 knowledge/History/台灣民主轉型.md
@@ -826,7 +828,6 @@ knowledge/People/黃少雍.md
 knowledge/People/黃春明.md
 knowledge/People/黃震南.md
 knowledge/People/黑貓老師.md
-knowledge/People/齊柏林.md
 knowledge/Politics/309本里長帳簿.md
 knowledge/Politics/中央政府總預算.md
 knowledge/Politics/中選會制度.md

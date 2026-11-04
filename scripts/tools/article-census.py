@@ -14,8 +14,9 @@ ARTICLE-INBOX 未完成條目）、article-health ci-deploy 的 warn 分類計�
 範圍：knowledge/{Category}/*.md（不含 knowledge/{lang}/ 譯文、不含 _ 開頭 hub）。
 
 速度：全站 1,156 篇約 17 秒；`--health-in` 吃現成 sweep 約 5 秒。git 史一次 bulk log
-（不逐篇 fork），article-health 在同一個行程內跑（不另開 1,156 個子行程）。CI 的 blobless
-clone 會被偵測到：改名只認內容完全相同的（-M100%）、跳過標記日（B 級不判），避免逐一回源站抓 blob。
+（不逐篇 fork），article-health 在同一個行程內跑（不另開 1,156 個子行程）。git 指令一律帶
+GIT_NO_LAZY_FETCH=1：CI 的 blobless clone 缺歷史 blob 時不回源站補抓，改名退成只認內容完全相同的
+（-M100%）、標記日拿不到就不判 B 級。
 
 用法：
   python3 scripts/tools/article-census.py                       # 全站普查 → 覆寫 reports/article-census/latest.json + 摘要

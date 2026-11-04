@@ -1,7 +1,7 @@
 # article-census 2026-11-04 — A 級：應標 🌱 進化中（目前沒標）
 # 產生：python3 scripts/tools/article-census.py --tier A（規則見 lib/article_health/census.py）
 # 167 篇；排序＝流量高到低
-# 套用（先 dry-run）：python3 scripts/tools/curation-tag.py --set incubating --files reports/article-census/2026-11-04-tier-A.txt
+# 套用請用分批檔（各帶自己的 --reason）：-tier-A2.txt／-tier-A1-unverified.txt／-tier-A1-thin.txt
 # 排除 12 篇 featured（標了會失去精選＝動首頁，等哲宇決定）：
 #   knowledge/Food/台灣滷肉飯.md
 #   knowledge/History/史前時代與原住民.md

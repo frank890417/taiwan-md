@@ -23,6 +23,7 @@
 
 from __future__ import annotations
 
+import os
 import re
 import statistics
 import subprocess
@@ -287,43 +288,48 @@ def _zh_pathspecs(repo_root: Path) -> list[str]:
     return [f"knowledge/{c}" for c in zh_category_dirs(repo_root / "knowledge")]
 
 
-def is_partial_clone(repo_root: Path = REPO_ROOT) -> bool:
-    """CI 的 deploy checkout 是 blobless（`--filter=blob:none`，歷史 blob 按需抓）。
+# 不讓 git 在缺 blob 時回源站補抓（git ≥ 2.44；更舊的版本忽略此變數、照舊補抓）。
+# CI 的 deploy checkout 是 blobless（`--filter=blob:none`）：模糊改名偵測（-M 比內容相似度）
+# 與 `-G -p` 都要讀歷史 blob，放任補抓＝一次 build 打幾百次網路。禁止補抓後，缺 blob 的
+# 指令會直接失敗，由呼叫端退一步：改名只認內容完全相同的（-M100%，比 oid 不讀內容），
+# 標記日拿不到就回 None（B 級不判）。本機的 partial clone 若 blob 都在，照常跑完整版。
+_NO_LAZY_FETCH_ENV = {**os.environ, "GIT_NO_LAZY_FETCH": "1"}
 
-    在那種 clone 裡，模糊改名偵測（-M 比內容相似度）與 `-G -p` 都會逐一回源站抓
-    歷史 blob——一次 build 打幾百次網路。偵測到就退成只認完全相同內容的改名
-    （-M100%，比 oid 不讀內容）並跳過標記日（B 級）。本機實測兩種改名模式只差
-    15 篇的首次提交者。
-    """
+
+def _git_out(cmd: list[str], repo_root: Path) -> str | None:
     try:
-        out = subprocess.run(
-            ["git", "config", "--get-regexp", r"^(extensions\.partialclone|remote\..*\.promisor)$"],
-            cwd=repo_root, capture_output=True, text=True,
+        return subprocess.run(
+            cmd, cwd=repo_root, capture_output=True, text=True, encoding="utf-8",
+            errors="replace", check=True, env=_NO_LAZY_FETCH_ENV,
         ).stdout
-    except OSError:
-        return False
-    return bool(out.strip())
+    except (OSError, subprocess.CalledProcessError):
+        return None
+
+
+def is_partial_clone(repo_root: Path = REPO_ROOT) -> bool:
+    """這個 clone 有沒有 promisor remote（只記錄進 JSON，判斷靠指令能不能不補抓地跑完）。"""
+    out = _git_out(
+        ["git", "config", "--get-regexp", r"^(extensions\.partialclone|remote\..*\.promisor)$"],
+        repo_root,
+    )
+    return bool(out and out.strip())
 
 
 def git_histories(repo_root: Path = REPO_ROOT) -> dict[str, ArticleHistory]:
     """一次 `git log -M --name-status` 掃完全部中文文章史，跟著改名往回接。
 
     回 {'knowledge/Cat/stem.md'（現存路徑）: ArticleHistory}。git 不可用回 {}。
-    partial clone 時只認完全相同內容的改名（見 is_partial_clone）。
+    缺歷史 blob（blobless clone）時退成只認完全相同內容的改名（-M100%）。
     """
-    rename = "-M100%" if is_partial_clone(repo_root) else "-M"
-    cmd = [
-        "git", "-c", "core.quotePath=false", "log", rename, "--no-merges",
-        "--format=%x00%H%x09%aN%x09%aI%x09%s", "--name-status", "--",
-        *_zh_pathspecs(repo_root),
-    ]
-    try:
-        out = subprocess.run(
-            cmd, cwd=repo_root, capture_output=True, text=True, encoding="utf-8", check=True
-        ).stdout
-    except (OSError, subprocess.CalledProcessError):
-        return {}
-    return parse_git_log(out)
+    for rename in ("-M", "-M100%"):
+        out = _git_out([
+            "git", "-c", "core.quotePath=false", "log", rename, "--no-merges",
+            "--format=%x00%H%x09%aN%x09%aI%x09%s", "--name-status", "--",
+            *_zh_pathspecs(repo_root),
+        ], repo_root)
+        if out is not None:
+            return parse_git_log(out)
+    return {}
 
 
 def _is_zh_article(p: str) -> bool:
@@ -387,26 +393,19 @@ def parse_git_log(text: str) -> dict[str, ArticleHistory]:
 
 
 def git_curation_dates(repo_root: Path = REPO_ROOT) -> dict[str, str] | None:
-    """每篇「`curation: incubating` 最近一次被加上去」的日期；拿不到（partial clone）回 None。
+    """每篇「`curation: incubating` 最近一次被加上去」的日期；缺歷史 blob 拿不到時回 None。
 
     一次 `git log -G -p --unified=0`（不 --pickaxe-all，所以只吐真的動到那行的檔）。
     同一個 commit 裡同一檔 `+` 多於 `-` 才算「加上」；一加一減是搬行（重排 frontmatter），
     不算重新標記——只看「最近一次變動」會把搬行誤當標記日，B 級就會漏掉標記後
     已經走完的 REWRITE（洪醒夫：8/04 標、9/12 重寫、9/13 搬行）。
     """
-    cmd = [
+    out = _git_out([
         "git", "-c", "core.quotePath=false", "log", "--no-renames", "-G^curation: incubating",
         "-p", "--unified=0", "--format=%x00%aI", "--", *_zh_pathspecs(repo_root),
-    ]
-    if is_partial_clone(repo_root):
-        return None  # -p 要讀歷史 blob，blobless clone 會逐一回源站抓
-    try:
-        out = subprocess.run(
-            cmd, cwd=repo_root, capture_output=True, text=True, encoding="utf-8",
-            errors="replace", check=True,
-        ).stdout
-    except (OSError, subprocess.CalledProcessError):
-        return {}
+    ], repo_root)
+    if out is None:
+        return None
     return parse_curation_patch_log(out)
 
 

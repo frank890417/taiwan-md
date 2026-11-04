@@ -1,11 +1,12 @@
 # article-census 2026-11-04 — D 級：內文簡陋（該進 REWRITE），依流量排序
 # 產生：python3 scripts/tools/article-census.py --tier D（規則見 lib/article_health/census.py）
-# 226 篇；排序＝流量高到低
+# 225 篇；排序＝流量高到低
+# 排除 1 篇（--exclude 指定）：
+#   knowledge/Food/鱔魚意麵.md（指定排除）
 knowledge/People/蕭上農.md
 knowledge/People/陳樹菊.md
 knowledge/Nature/特有種.md
 knowledge/People/魏哲家.md
-knowledge/Food/鱔魚意麵.md
 knowledge/Culture/菜市場名.md
 knowledge/Geography/台灣都市發展與城鄉差距.md
 knowledge/People/Hello-Nico.md
@@ -44,11 +45,11 @@ knowledge/History/台灣海洋貿易史.md
 knowledge/Nature/生態多樣性.md
 knowledge/People/龍應台.md
 knowledge/People/Ray.md
+knowledge/People/柯文哲.md
 knowledge/Economy/台灣中小企業與隱形冠軍.md
 knowledge/Economy/台灣企業：廣達電腦.md
 knowledge/People/伍佰.md
 knowledge/People/朱天文.md
-knowledge/People/柯文哲.md
 knowledge/Society/台灣同婚與性別平權.md
 knowledge/People/郭台銘.md
 knowledge/Food/油飯.md
