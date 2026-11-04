@@ -2,9 +2,7 @@
 title: 'شين شينغ-بو'
 description: 'تخصص في علوم الحاسوب، لكنه أدخل لغات البرمجة إلى الساحة الفنية المعاصرة في تايوان. في حياته القصيرة التي امتدت لأربعة وثلاثين عامًا، لم يترك شين شينغ-بو مجرد أعمال فنية رقمية، بل ترك روحًا تجريبية تعتبر البرمجة نمط حياة والبرمجيات الحرة أخلاقية إبداعية.'
 date: 2026-03-23
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'شخصيات',
@@ -14,15 +12,19 @@ tags:
     'OpenLab.Taipei',
     'تايوان',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-25T06:34:23+08:00'
+translatedAt: '2026-11-04T21:18:41.113982+00:00'
 ---
 
 # شين شينغ-بو

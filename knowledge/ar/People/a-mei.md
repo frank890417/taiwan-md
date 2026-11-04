@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-07-26T23:43:24+08:00'
+translatedAt: '2026-11-04T21:25:25.501242+00:00'
 ---
 
 # آمي تشانغ: ديفا بويونان، من ألبوم "الشقيقات" 1996 إلى خمس حفلات في قبة تايبيه الكبيرة 2024
