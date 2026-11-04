@@ -2,22 +2,24 @@
 title: '나사: 50% 관세와 탄소 국경의 협공 속에서 대만 히든 챔피언이 벌이는 생존 전쟁'
 description: '한때 미군 베트남전 보급선의 핵심 축이자 대만 ‘나사 왕국’의 토대를 놓은 가오슝 강산은 이제 역사의 갈림길에 서 있다. 미국 232조 50% 고율 관세와 유럽연합 CBAM 탄소국경세라는 이중 충격 아래, 한때 세계 시장을 지배했던 이 히든 챔피언들은 반도체 산업의 후광 속에서 회복력 있는 전환의 새 장을 쓰려 하고 있다.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags: ['나사', '강산', '232조', 'CBAM', '산업 전환', '히든 챔피언']
-readingTime: 18
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-05-12T21:49:54+08:00'
+translatedAt: '2026-11-04T16:41:07.129291+00:00'
 ---
 
-> **30초 개요:** 대만은 한때 “미국의 패스너 세 개 중 하나는 대만산”이라 불릴 만큼 중요한 공급 거점이었고, 베트남전 시기에는 결정적 역할까지 맡았다. 그러나 2025년 미국이 232조에 근거한 50% 고율 관세를 부과하고, 2026년 유럽연합 CBAM 탄소 관세가 다가오면서, 연간 생산액 500억 대만달러를 넘고 북가오슝 3만 가구의 생계를 떠받쳐 온 이 ‘공업의 쌀’ 산업은 “근 단위 판매에서 개당 판매로” 나아가는 생사의 전환을 겪고 있다.
+> **30초 요약:** 타이완은 과거 "미국이 사용하는 체결류 세 개 중 하나는 타이완산"이라는 말이 나올 정도로 핵심 공급 거점이었으며, 베트남전 당시에는 결정적인 역할까지 수행했다. 그러나 2025년 미국의 232조에 따른 50% 고관세 부과와 2026년 유럽연합(EU) 탄소국경조정제도(CBAM)의 도입이 다가오면서, 연간 생산액 NT$500억 이상을 기록하며 북가오슝 지역 3만 가구의 생계를 책임지는 '산업의 쌀' 산업은 이제 '킬로그램 단위 판매에서 개당 단위 판매로' 전환해야 하는 생사결단의 변곡점에 서 있다.
 
 ## 베트남전 영웅의 탄생: 작은 나사는 어떻게 대만 ‘나사 왕국’의 토대를 조였는가?
 

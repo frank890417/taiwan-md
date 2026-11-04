@@ -2,18 +2,29 @@
 title: '위키백과 대만: 디지털 주권, 문화 실천과 다원 민족의 지식 퍼즐'
 description: '2007년 타이베이에서 위키마니아를 개최한 것에서 2021년 재단의 글로벌 조치에 이르기까지, 대만 위키 커뮤니티는 클라우드 상에서 체계적 침투에 맞서 싸우는 동시에 위키 사랑 유적(GLAM) 협력 및 교육 프로젝트를 통해 이 섬의 문화유산, 학술적 관점, 원주민 언어를 국무에 알렸다. 이는 진실한 모습을 수호하고 문화적 회복력을 심화하는 장정이다.'
 date: 2026-04-29
+category: 'Technology'
+tags:
+  [
+    '위키백과',
+    '대만 위키미디어 협회',
+    '위키 사랑 유적',
+    'GLAM',
+    '원주민 언어',
+    '소송',
+  ]
+subcategory: '公民科技'
 author: 'idlccp1984'
-category: Technology
-tags: [위키백과, 대만 위키미디어 협회, 위키 사랑 유적, GLAM, 원주민 언어, 소송]
-readingTime: 35
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-translatedFrom: Technology/維基百科.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 35
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Technology/維基百科.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-04T17:19:16.890953+00:00'
 ---
 
 > **30초 개요:**
@@ -90,34 +101,34 @@ featured: false
 
 ### 참고 문헌
 
-[^1]: **대만 위키미디어 협회** (2007). [Wikimania 2007 타이베이](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei). _검색일: 2026-04-29_.
+[^1]: [Wikimania 2007 타이베이](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei) — **대만 위키미디어 협회** (2007). _검색일: 2026-04-29_.
 
-[^2]: **위키뉴스** (2007). [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan). _검색일: 2026-04-29_.
+[^2]: [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan) — **위키뉴스** (2007). _검색일: 2026-04-29_.
 
-[^3]: **비즈니스 주간** (2007). [지식으로 세계에 대만을 알리다: 타이베이 위키 컨퍼런스](https://www.gvm.com.tw/article/47560). _검색일: 2026-04-29_.
+[^3]: [지식으로 세계에 대만을 알리다: 타이베이 위키 컨퍼런스](https://www.gvm.com.tw/article/47560) — **비즈니스 주간** (2007). _검색일: 2026-04-29_.
 
-[^4]: **Wikimedia Taiwan** (2020). [글로벌 위키 사랑 유적 대만 참가자 15위 수상](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165). _검색일: 2026-04-29_.
+[^4]: [글로벌 위키 사랑 유적 대만 참가자 15위 수상](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165) — **Wikimedia Taiwan** (2020). _검색일: 2026-04-29_.
 
-[^5]: **기록 활동정보** (2025). [위키와 전환점: GLAM Wiki 소개](https://www.archives.gov.tw/tw/arctw/337-9105.html). _검색일: 2026-04-29_.
+[^5]: [위키와 전환점: GLAM Wiki 소개](https://www.archives.gov.tw/tw/arctw/337-9105.html) — **기록 활동정보** (2025). _검색일: 2026-04-29_.
 
-[^6]: **정치대학교 원주민연구센터** (2021). [족어 위키 과정 전시](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline). _검색일: 2026-04-29_.
+[^6]: [족어 위키 과정 전시](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline) — **정치대학교 원주민연구센터** (2021). _검색일: 2026-04-29_.
 
-[^7]: **교육부** (2021). [원주민 언어 위키백과 구축 프로젝트 성과](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63). _검색일: 2026-04-29_.
+[^7]: [원주민 언어 위키백과 구축 프로젝트 성과](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63) — **교육부** (2021). _검색일: 2026-04-29_.
 
-[^8]: **위키배움터** (2022). [위키 교육 프로젝트가 대만 학생 학습 성과에 미치는 영향 연구](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6). _검색일: 2026-04-29_.
+[^8]: [위키 교육 프로젝트가 대만 학생 학습 성과에 미치는 영향 연구](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6) — **위키배움터** (2022). _검색일: 2026-04-29_.
 
-[^9]: **자유시보** (2024). [쩌이옌밍 위키백과 고소 1심 패소 이유 공개](https://news.ltn.com.tw/news/society/breakingnews/4778999). _검색일: 2026-04-29_.
+[^9]: [쩌이옌밍 위키백과 고소 1심 패소 이유 공개](https://news.ltn.com.tw/news/society/breakingnews/4778999) — **자유시보** (2024). _검색일: 2026-04-29_.
 
-[^10]: **개방문화재단 (OCF)** (2025). [쩌이옌밍의 위키백과 고소, 대만의 플랫폼 입법 재검토](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/). _검색일: 2026-04-29_.
+[^10]: [쩌이옌밍의 위키백과 고소, 대만의 플랫폼 입법 재검토](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/) — **개방문화재단 (OCF)** (2025). _검색일: 2026-04-29_.
 
-[^11]: **위키뉴스** (2020). [한 남성이 위키백과 쩌이위위 항목 변조로 형사 처벌](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91). _검색일: 2026-04-29_.
+[^11]: [한 남성이 위키백과 쩌이위위 항목 변조로 형사 처벌](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91) — **위키뉴스** (2020). _검색일: 2026-04-29_.
 
-[^12]: **중앙통신사** (2021). [여성, 미혼 쩌이위위 배우자가 카신이라 유포 2심도 무죄](https://www.cna.com.tw/news/asoc/202010210356.aspx). _검색일: 2026-04-29_.
+[^12]: [여성, 미혼 쩌이위위 배우자가 카신이라 유포 2심도 무죄](https://www.cna.com.tw/news/asoc/202010210356.aspx) — **중앙통신사** (2021). _검색일: 2026-04-29_.
 
-[^13]: **자유시보** (2019). [리위위에게 "가짜 귀신 가짜 귀신" 모욕 발언 벌금 판결](https://news.ltn.com.tw/news/society/breakingnews/2833150). _검색일: 2026-04-29_.
+[^13]: [리위위에게 "가짜 귀신 가짜 귀신" 모욕 발언 벌금 판결](https://news.ltn.com.tw/news/society/breakingnews/2833150) — **자유시보** (2019). _검색일: 2026-04-29_.
 
-[^14]: **위키미디어 재단** (2021). [2021년 9월 성명: 침투 및 협박에 대한 조치](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667). _검색일: 2026-04-29_.
+[^14]: [2021년 9월 성명: 침투 및 협박에 대한 조치](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667) — **위키미디어 재단** (2021). _검색일: 2026-04-29_.
 
-[^15]: **위키백과** (2021). [2021년 위키미디어 재단의 중국어 위키백과에 대한 조치](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8). _검색일: 2026-04-29_.
+[^15]: [2021년 위키미디어 재단의 중국어 위키백과에 대한 조치](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **위키백과** (2021). _검색일: 2026-04-29_.
 
-[^16]: **대만 위키미디어 협회** (2025). [지속과 실천: 2025 연간 전망](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/). _검색일: 2026-04-29_.
+[^16]: [지속과 실천: 2025 연간 전망](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/) — **대만 위키미디어 협회** (2025). _검색일: 2026-04-29_.
