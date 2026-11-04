@@ -285,10 +285,12 @@ const organizationLD = {
   alternateName: ['台灣 .md', 'taiwan.md'],
   url: siteUrl,
   logo: `${siteUrl}/images/taiwan-social.jpg`,
+  // 2026-11-04 site-health：篇數與語言數原本寫死成「1156+ 篇、6 種語言」，
+  // 語言早已是 13 種。改讀跟 meta description 同一個 live count 與語言註冊表。
   description:
     lang === 'zh-TW'
-      ? '開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，1156+ 篇深度策展文章、6 種語言、社群共編。'
-      : 'Open-source, AI-friendly knowledge base about Taiwan — a digital organism with 1156+ curated articles in 6 languages, co-edited by the community.',
+      ? `開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，${_liveArticleCount}+ 篇深度策展文章、${ENABLED_LANGUAGE_CODES.length} 種語言、社群共編。`
+      : `Open-source, AI-friendly knowledge base about Taiwan — a digital organism with ${_liveArticleCount}+ curated articles in ${ENABLED_LANGUAGE_CODES.length} languages, co-edited by the community.`,
   slogan:
     lang === 'zh-TW'
       ? '策展島嶼的深度敘事'
@@ -358,8 +360,13 @@ const isHomepage = (() => {
   try {
     const p = new URL(url).pathname.replace(/\/+$/, '/');
     if (p === '/') return true;
-    // Non-default lang homepages: /en/ /ja/ /ko/ /fr/ /es/
-    return /^\/(en|ja|ko|fr|es)\/?$/.test(p);
+    // Non-default lang homepages (/en/ /ja/ … /de/). 2026-11-04: was a
+    // hardcoded five-language regex, so the seven later languages never got
+    // the homepage CollectionPage schema.
+    const seg = p.replace(/^\/|\/$/g, '');
+    return ENABLED_LANGUAGE_CODES.some(
+      (c) => c !== DEFAULT_LANGUAGE.code && c === seg,
+    );
   } catch {
     return false;
   }
@@ -655,6 +662,9 @@ const breadcrumbLD = generateBreadcrumbLD();
   property="og:locale"
   content={(() => {
     // Map registry hreflang → og:locale format (e.g., 'en' → 'en_US', 'ja' → 'ja_JP')
+    // 2026-11-04 site-health：原本只列六語，vi/id/pt/hi/ar/ru/de 七語的頁面
+    // 全部掉進下面的 'zh_TW' 預設值（阿拉伯文頁對社群平台宣稱自己是繁中）。
+    // 新語言出生時記得在這裡加一行。pt 走拉美／巴西讀者（es LatAm playbook）。
     const ogLocaleMap: Record<string, string> = {
       'zh-Hant': 'zh_TW',
       en: 'en_US',
@@ -662,6 +672,13 @@ const breadcrumbLD = generateBreadcrumbLD();
       ko: 'ko_KR',
       es: 'es_ES',
       fr: 'fr_FR',
+      vi: 'vi_VN',
+      id: 'id_ID',
+      pt: 'pt_BR',
+      hi: 'hi_IN',
+      ar: 'ar_AR',
+      ru: 'ru_RU',
+      de: 'de_DE',
     };
     const entry = getLanguage(lang);
     return ogLocaleMap[entry?.hreflang || ''] || 'zh_TW';
