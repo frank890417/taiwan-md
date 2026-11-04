@@ -2,6 +2,7 @@
 title: '가지달걀 EggPlantEgg'
 description: '가지달걀(茄子蛋)은 독특한 "타이완식 로맨티시즘" 록과 "방랑자" 서사로 음악 시장에서 큰 성공을 거뒀을 뿐 아니라, 타이완어 팝의 현대적 면모를 재정의하며 타이완 문화 아이콘의 중요한 일부가 됐다.'
 date: 2026-04-05
+category: 'Music'
 tags:
   [
     '인디 음악',
@@ -12,17 +13,18 @@ tags:
     '록 음악',
   ]
 subcategory: '流行音樂'
-category: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
-translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:1be7230ba8a26470'
-sourceBodyHash: 'sha256:448d367a49551ee8'
-translatedAt: '2026-05-09T14:31:08Z'
 lastVerified: 2026-04-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Music/茄子蛋.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-11-04T16:02:50.824635+00:00'
 ---
 
 # 가지달걀 EggPlantEgg

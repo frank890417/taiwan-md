@@ -2,26 +2,29 @@
 title: '주천성: 타이완 배드민턴 일고, 세계 2위의 높이를 펼치다'
 description: '타이완 남자 단식 최초 세계 2위, 최초로 ‘세계 왕’ 린단을 꺾은 인물. 국가대표팀에 합류한 뒤 연속 10패의 저조기, 맹장염 천공 후 기독교인으로 세례받은 일화, 2023년 34세에 초기 대장암을 진단받고 수술 후 며칠 만에 해외 경기 복귀해 거의 1년간 저조기를 견뎌낸 뒤, 이듬해 파리 올림픽에서 8강에 진출했다. 주천성은 타고난 재능에 의존하지 않고 ‘연마’라는 라인-드리블 전술로 타이완 배드민턴이 설 수 있는 높이를 끊임없이 끌어올렸다.'
 date: 2026-06-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '體育'
 tags:
-  - '인물'
-  - '주천성'
-  - '배드민턴'
-  - '타이완 일고'
-  - '올림픽'
-  - '운동선수'
-  - '타이완'
-readingTime: 14
+  ['인물', '주천성', '배드민턴', '타이완 일고', '올림픽', '운동선수', '타이완']
+subcategory: '體育'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
-featured: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
+readingTime: 14
+rationale:
+  why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
+  whats_excluded: '不寫未經證實的私人生活細節（婚姻、收入數字）；BWF 每週浮動積分只取名次不寫精確分數，避免過時；對林丹/李宗偉/諶龍的精確勝負場次來自球迷論壇難以查證，只保留有可靠報導的「打敗林丹第一人」與有比分來源的單場結果。'
+  where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
+  whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-07-07T00:38:22+08:00'
+translatedAt: '2026-11-04T14:55:01.483090+00:00'
 ---
 
 > **30초 개요:** 주천성, 1990년 타이베이 출생, 타이완 배드민턴 남자 단식 일고. 2014년 프랑스 오픈에서 우승, 타이완 최초로 세계 배드민턴 슈퍼 시리즈 남자 단식 챔피언을 차지한 선수[^2]. 2019년 8월 세계 랭킹 2위에 오르며 타이완 현지 남자 단식 사상 최고 기록을 세웠다[^1]. 그는 타이완 최초로 국제 경기에서 ‘세계 왕’ 린단을 꺾은 인물이다[^13]. 연속 3대 올림픽에 중화팀을 대표해 출전, 모두 8강에 진출했다[^2]. 2023년 초 정기 대장내시경 검사에서 초기 대장암을 발견, 수술 후 며칠 만에 해외 경기 복귀해 거의 1년간 저조기를 견뎌냈으며[^3], 이듬해 34세에 파리 올림픽에서 8강에 진출했다[^10]. 36세인 그는 현재도 세계 상위권에서 가장 연령이 높은 고정 멤버이다[^12].

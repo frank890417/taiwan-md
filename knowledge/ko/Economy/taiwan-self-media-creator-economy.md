@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T12:42:42+08:00'
+translatedAt: '2026-11-04T15:34:49.267242+00:00'
 ---
 
 > 타이완의 인플루언서 광고 시장 규모는 약 2억 1,000만 달러로, 미국의 1%에도 미치지 못한다. 하지만 타이완의 중형 창작자 한 명이 동시에 운영하는 플랫폼 수는 흔히 5~7개(유튜브, 인스타그램, 페이스북, 스레드, 팟캐스트, 블로그, 라인)에 달하는데, 이는 미국 동급 창작자의 거의 2배에 해당한다. 시장 규모는 극도로 작고, 플랫폼은 극도로 파편화되어 있으며, 수익화는 구독제가 아닌 제휴 마케팅에 의존한다. 이는 완전히 다른 규칙의 게임이다.
