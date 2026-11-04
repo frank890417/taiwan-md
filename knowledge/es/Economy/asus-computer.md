@@ -1,6 +1,6 @@
 ---
 title: 'ASUS Computer (ASUS): el gigante tecnológico que nació de las placas base'
-description: 'De un pequeño fabricante de placas base iniciado en Hsinchu, Taiwán, a una inspiradora historia de transformación en la quinta mayor marca de computadoras personales del mundo'
+description: 'ASUS es una marca taiwanesa: la fundaron cuatro ingenieros en Taipéi en 1989 y pasó de fabricar placas base a ser el quinto mayor proveedor mundial de computadoras personales.'
 date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'
@@ -15,6 +15,10 @@ sourceCommitSha: 'ccee078e'
 sourceContentHash: 'sha256:316e1a5e36d3a78b'
 sourceBodyHash: 'sha256:fa3c598a1e033a14'
 translatedAt: '2026-07-06T16:38:03Z'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 1,035 曝光 0 點擊；查詢「asus de donde es」30、「asus pais de origen」16 曝光。舊 description 寫 ASUS 起家於 Hsinchu，與內文（Taipéi）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
 ---
 
 > **Panorama en 30 segundos**

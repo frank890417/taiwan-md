@@ -1,6 +1,6 @@
 ---
 title: 'ASUS: Der Technologiegigant, der mit einem Motherboard begann'
-description: 'Die inspirierende Geschichte eines kleinen Unternehmens aus Hsinchu, Taiwan, das von einem Motherboard-Hersteller zum fünftgrößten PC-Markenhersteller weltweit aufstieg.'
+description: 'ASUS ist eine taiwanische Marke: 1989 von vier Ingenieuren in Taipeh gegründet, wuchs der Motherboard-Hersteller zum fünftgrößten PC-Anbieter der Welt.'
 date: 2026-03-20
 category: 'Economy'
 tags: ['Wirtschaft', 'Unternehmen', 'Computerhardware', 'Marke', 'Technologie']
@@ -15,6 +15,10 @@ sourceCommitSha: 'ccee078ef'
 sourceContentHash: 'sha256:316e1a5e36d3a78b'
 sourceBodyHash: 'sha256:fa3c598a1e033a14'
 translatedAt: '2026-09-12T04:55:06+08:00'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 1,437 曝光 0 點擊；查詢「asus herkunft」132、「woher kommt asus」101 曝光。舊 description 寫 ASUS 來自 Hsinchu，與內文（Taipeh）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
 ---
 
 > **30-Sekunden-Überblick**
