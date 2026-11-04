@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 import rehypeExternalLinks from 'rehype-external-links';
 import remarkWikilinks from './plugins/remark-wikilinks.mjs';
 import {
+  LANGUAGES,
   ENABLED_LANGUAGE_CODES,
   DEFAULT_LANGUAGE,
 } from './src/config/languages.mjs';
@@ -92,9 +93,143 @@ console.log(
   `[sitemap-alias-filter] Loaded ${aliasUrlSet.size} alias URLs to exclude from sitemap`,
 );
 
-// Build sitemap i18n locales map: { 'zh-TW': 'zh-TW', en: 'en', ... }
+// Build sitemap i18n locales map: { 'zh-TW': 'zh-Hant', en: 'en', ... }
+// 2026-11-04 site-health: values are the registry's hreflang (zh-TW →
+// zh-Hant), the same codes SEO.astro writes into each page's <head>. They
+// used to be the raw lang codes, so the sitemap said `zh-TW` while the HTML
+// said `zh-Hant` for the same page.
+const HREFLANG_OF = Object.fromEntries(
+  LANGUAGES.filter((l) => l.enabled).map((l) => [l.code, l.hreflang || l.code]),
+);
 const sitemapLocales = Object.fromEntries(
-  ENABLED_LANGUAGE_CODES.map((code) => [code, code]),
+  ENABLED_LANGUAGE_CODES.map((code) => [code, HREFLANG_OF[code] || code]),
+);
+
+// 2026-11-04 site-health: article hreflang clusters for the sitemap.
+// @astrojs/sitemap pairs alternates by identical path after the locale
+// prefix. Translations share an English slug with each other but never with
+// the zh-TW original (/history/二二八事件/ vs /en/history/228-incident/), so
+// every zh-TW article went out with zero alternates and every translation
+// listed eleven siblings but not its own source. The <head> tags already
+// resolve this through the LangMap registry; the sitemap now reads the same
+// registry (public/api/lang-switch-map.json, written by prebuild:langswitch)
+// so both channels announce the same cluster. Missing/unreadable file →
+// null → serialize() falls back to the old path-equality links.
+function loadLangRegistry() {
+  const p = './public/api/lang-switch-map.json';
+  if (!existsSync(p)) return null;
+  try {
+    return JSON.parse(readFileSync(p, 'utf-8')).registry || null;
+  } catch (err) {
+    console.warn(
+      '[sitemap-hreflang-cluster] lang-switch-map.json 讀取失敗：',
+      err,
+    );
+    return null;
+  }
+}
+const langRegistry = loadLangRegistry();
+const NON_DEFAULT_CODES = ENABLED_LANGUAGE_CODES.filter(
+  (c) => c !== DEFAULT_LANGUAGE.code,
+);
+// Article categories = knowledge/ folders starting uppercase (same SSOT as
+// staticRoutes.getCategorySlugs). /elections/2026/ etc. are two-segment
+// static pages, not articles, and keep the path-equality links.
+const ARTICLE_CATEGORY_SLUGS = new Set(
+  (() => {
+    try {
+      return readdirSync('./knowledge', { withFileTypes: true })
+        .filter((e) => e.isDirectory() && /^[A-Z]/.test(e.name))
+        .map((e) => e.name.toLowerCase());
+    } catch {
+      return [];
+    }
+  })(),
+);
+/** @param {string} s */
+const safeDecode = (s) => {
+  try {
+    return decodeURIComponent(s);
+  } catch {
+    return s;
+  }
+};
+/**
+ * decoded path with trailing slash → { langCode: decodedPathWithSlash } | null
+ * @param {string} pathname
+ * @returns {Record<string, string> | null}
+ */
+function articleCluster(pathname) {
+  if (!langRegistry) return null;
+  const segs = pathname.split('/').filter(Boolean);
+  const lang = NON_DEFAULT_CODES.includes(segs[0]) ? segs[0] : null;
+  const rest = lang ? segs.slice(1) : segs;
+  // article shape only: /[lang/]category/slug/
+  if (rest.length !== 2 || !ARTICLE_CATEGORY_SLUGS.has(rest[0])) return null;
+  const noSlash = pathname.replace(/\/$/, '');
+  let zh = noSlash;
+  if (lang) {
+    const toZh = langRegistry[lang]?.toZh || {};
+    const hit = toZh[noSlash] ?? toZh[encodeURI(noSlash)];
+    if (!hit) return null;
+    zh = safeDecode(hit);
+  }
+  const cluster = { [DEFAULT_LANGUAGE.code]: `${zh}/` };
+  for (const l of NON_DEFAULT_CODES) {
+    const fromZh = langRegistry[l]?.fromZh || {};
+    const t = fromZh[zh] ?? fromZh[encodeURI(zh)];
+    if (t) cluster[l] = `${safeDecode(t)}/`;
+  }
+  return cluster;
+}
+
+// 2026-11-04 site-health: pages that render <meta name="robots"
+// content="noindex"> must not be submitted in the sitemap (Search Console
+// flags "Submitted URL marked noindex"). Kept as a path list because
+// serialize() cannot see page HTML; check-url-contract does not cover it.
+// Same reasoning for static pages that are only meta-refresh redirect stubs
+// (e.g. src/pages/{ar,de,…}/graph.astro → /graph): a sitemap should list
+// destinations, not doorways. Derived from src/pages so a new stub never
+// needs a hand edit here.
+function buildRedirectStubPathSet() {
+  /** @type {Set<string>} */
+  const set = new Set();
+  /** @param {string} dir @param {string} rel */
+  const walk = (dir, rel) => {
+    /** @type {import('node:fs').Dirent[]} */
+    let entries = [];
+    try {
+      entries = readdirSync(dir, { withFileTypes: true });
+    } catch {
+      return;
+    }
+    for (const e of entries) {
+      if (e.name.startsWith('[') || e.name.startsWith('_')) continue;
+      const full = join(dir, e.name);
+      if (e.isDirectory()) {
+        walk(full, `${rel}/${e.name}`);
+      } else if (e.name.endsWith('.astro')) {
+        let text = '';
+        try {
+          text = readFileSync(full, 'utf-8');
+        } catch {
+          continue;
+        }
+        if (!/http-equiv=["']refresh["']/i.test(text)) continue;
+        const name = e.name.replace(/\.astro$/, '');
+        set.add(name === 'index' ? `${rel}/` : `${rel}/${name}/`);
+      }
+    }
+  };
+  walk('./src/pages', '');
+  return set;
+}
+const redirectStubPathSet = buildRedirectStubPathSet();
+console.log(
+  `[sitemap-stub-filter] Loaded ${redirectStubPathSet.size} meta-refresh stub pages to exclude from sitemap`,
+);
+const NOINDEX_PATH_RE = new RegExp(
+  `^/(?:(?:${NON_DEFAULT_CODES.join('|')})/)?(?:search|assets)/$|^/feedback-uxtest/$`,
 );
 
 // 2026-04-18 δ-late: Semiont pages are zh-TW-only (meta-layer, not translated).
@@ -178,9 +313,12 @@ export default defineConfig({
         // ——canonical 永遠是中文網址。放進 sitemap 等於請 Google 把同一篇文章
         // 當兩個 URL 收，正是 2026-07-17 那次 15% 404 率的同科病（站體對外
         // 公告了自己不打算負責的 URL）。SSOT 是 config/article-aliases.json。
+        let decodedPath = '';
         try {
-          if (aliasUrlSet.has(decodeURIComponent(new URL(item.url).pathname)))
-            return undefined;
+          decodedPath = decodeURIComponent(new URL(item.url).pathname);
+          if (aliasUrlSet.has(decodedPath)) return undefined;
+          if (NOINDEX_PATH_RE.test(decodedPath)) return undefined;
+          if (redirectStubPathSet.has(decodedPath)) return undefined;
         } catch {
           /* malformed URL：交給下面既有的處理 */
         }
@@ -195,6 +333,30 @@ export default defineConfig({
           else delete item.lastmod;
         } catch {
           delete item.lastmod;
+        }
+        // Article pages: full registry cluster (zh-TW source + every existing
+        // translation + x-default → zh-TW), same set as the <head> tags.
+        const cluster = decodedPath ? articleCluster(decodedPath) : null;
+        if (cluster) {
+          const present = Object.entries(cluster).filter(([, p]) =>
+            existingUrlSet.has(p),
+          );
+          if (present.length >= 2) {
+            const zhPath = cluster[DEFAULT_LANGUAGE.code];
+            item.links = present.map(([code, p]) => ({
+              lang: HREFLANG_OF[code] || code,
+              url: new URL(p, 'https://taiwan.md').href,
+            }));
+            if (existingUrlSet.has(zhPath)) {
+              item.links.push({
+                lang: 'x-default',
+                url: new URL(zhPath, 'https://taiwan.md').href,
+              });
+            }
+          } else {
+            item.links = undefined;
+          }
+          return item;
         }
         if (!item.links || item.links.length === 0) return item;
         const filteredLinks = item.links.filter((link) => {

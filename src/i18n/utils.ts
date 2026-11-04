@@ -46,6 +46,16 @@ export type TranslationKey = {
 }[keyof typeof ui];
 const dictionaries: Record<Lang, Partial<Record<TranslationKey, string>>> = ui;
 
+/**
+ * The language order a reader of `lang` falls back through when a string is
+ * missing. Exported (2026-11-04 site-health) so page-local string tables —
+ * e.g. soundscape-data.ts `localize()` — follow the same policy as `t()`
+ * instead of jumping straight to zh-TW.
+ */
+export function getFallbackChain(lang: Lang): readonly Lang[] {
+  return FALLBACK_CHAIN[lang] || [lang, defaultLang];
+}
+
 export function useTranslations(lang: Lang) {
   const chain = FALLBACK_CHAIN[lang] || [lang, defaultLang];
   return function t(key: TranslationKey) {
