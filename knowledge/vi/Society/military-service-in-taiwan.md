@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:34:12.044704+00:00'
+translatedAt: '2026-11-04T19:06:38.060871+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Chế độ nghĩa vụ quân sự là dấu ấn xã hội sâu sắc nhất trên hòn đảo này trong hơn nửa thế kỷ qua. Từ thời kỳ "ba năm binh" dưới chế độ thiết quân luật cho đến việc khôi phục nghĩa vụ một năm như hiện nay, đây không chỉ là sự thay đổi về con số thời hạn, mà còn là bức tranh chân thực về cách Đài Loan đối mặt với áp lực địa chính trị. Bài viết này sẽ đưa bạn đi từ những tiếng trầm trồ như tại "Giải Kim Mã" trong buổi bốc thăm nghĩa vụ, đến hiện trường tác chiến hiện đại của diễn tập Hán Quang (Han Kuang) — nơi ngay cả siêu thị cũng được đưa vào kịch bản diễn tập — đồng thời phân tích sâu về tiêu chuẩn miễn nghĩa vụ, chế độ sinh hoạt huấn luyện tân binh, các loại hình nghĩa vụ thay thế và sự chuyển đổi sang thực chiến hóa của chế độ huấn luyện dự bị mới.

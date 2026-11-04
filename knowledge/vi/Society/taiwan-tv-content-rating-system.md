@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T19:20:04.754587+00:00'
 ---
 
 > **30 giây tóm tắt:** Hệ thống phân loại của Đài Loan từng như một cái cắt. Trước năm 1983, mọi bộ phim phải trải qua “kiểm duyệt” chứ không phải “phân loại”, nơi đây là nơi kiểm duyệt chính trị và đạo đức. Năm 1993, cơn sốt khủng long từ bộ phim “Khu công nghệ sinh học” đã giúp Đài Loan nhận ra khoảng trống trong hệ thống ba cấp, từ đó thúc sinh ra “cấp bảo vệ”. Ngày nay, Đài Loan đã xây dựng một hệ thống năm cấp bao phủ điện ảnh, truyền hình, chương trình ghi hình và trò chơi điện tử số, biến “cấm chiếu” thành “phân lưu”, bảo vệ môi trường hình ảnh đa dạng và an toàn.

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-07-26T22:20:02+08:00'
+translatedAt: '2026-11-04T19:38:40.137306+00:00'
 ---
 
 # Hệ sinh thái sinh thái cao nguyên của Đài Loan và di sản vương mãn từ thời băng hạn
