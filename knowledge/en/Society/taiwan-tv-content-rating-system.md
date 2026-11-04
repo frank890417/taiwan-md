@@ -3,7 +3,6 @@ title: 'The Gatekeepers Behind the Screen: The Evolution of Taiwan Content Ratin
 description: "Taiwan's rating system is a historical microcosm of the transition from martial-law-era 'content censorship' to the democratic era's 'child and youth protection.' From abolishing the Film Inspection Law in 1983 to Jurassic Park catalyzing the protected rating in 1993, to the comprehensive adoption of a five-tier system in 2026, this is the record of a long evolution concerning viewing rights and social responsibility."
 date: 2026-04-08
 category: 'Society'
-subcategory: '媒體與傳播'
 tags:
   [
     'film rating',
@@ -13,16 +12,19 @@ tags:
     'martial law',
     'child and youth protection',
   ]
+subcategory: '媒體與傳播'
 author: 'Taiwan.md Contributors'
-readingTime: 15
-translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d915e5527fc773c5'
-sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-05-01T13:44:02+08:00'
 featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Society/台灣電視分級制度.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:d915e5527fc773c5'
+sourceBodyHash: 'sha256:5588123f25ed059d'
+translatedAt: '2026-11-04T20:15:01.589670+00:00'
 ---
 
 > **30-second overview:** Taiwan's rating system was once a pair of scissors. Before 1983, films had to pass "inspection" rather than "classification," and political and moral censorship was the norm. The dinosaur controversy sparked by Jurassic Park in 1993 made Taiwan realize the gap in its three-tier system, which then gave birth to the "protected" rating. Today, Taiwan has built a five-tier system covering film, television, video content, and digital games — transforming "prohibition" into "differentiated access" to safeguard a diverse and safe audiovisual environment.

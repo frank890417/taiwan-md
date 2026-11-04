@@ -2,27 +2,30 @@
 title: 'Taiwanese Indigenous Ecological Wisdom and Environmental Conservation'
 description: "Exploring the traditional ecological knowledge accumulated by Taiwan's indigenous peoples over thousands of years, and its important value and practical applications in modern environmental conservation"
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
-    indigenous peoples,
-    ecological wisdom,
-    environmental conservation,
-    traditional knowledge,
-    satoyama initiative,
-    hunting culture,
-    sustainable development,
+    'indigenous peoples',
+    'ecological wisdom',
+    'environmental conservation',
+    'traditional knowledge',
+    'satoyama initiative',
+    'hunting culture',
+    'sustainable development',
   ]
+subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-category: Nature
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-11-04T20:18:45.464526+00:00'
 ---
 
 # Taiwanese Indigenous Ecological Wisdom and Environmental Conservation

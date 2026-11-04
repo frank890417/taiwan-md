@@ -6,15 +6,16 @@ category: 'Society'
 tags: ['society', 'ethnicity', 'politics', 'history', 'identity']
 subcategory: '族群與身份'
 author: 'Taiwan.md'
-readingTime: 12
+featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-05-02T08:50:00+08:00'
-featured: false
+translatedAt: '2026-11-04T20:21:15.986439+00:00'
 ---
 
 > **30-second overview:** In 1949, about 1.2 million soldiers and civilians retreated to Taiwan with the Nationalist government from mainland China, forming the demographic structure of mainlanders (waishengren) and ethnic Taiwanese (benshengren). Institutional inequality during martial law, layered with the collective trauma left by the [February 28 Incident](/en/history/228-incident/), made provincial origin the most sensitive underlying logic in Taiwanese politics. After democratization, provincial tensions were repeatedly mobilized by politicians, until they were gradually diluted by "Taiwanese identity" after the millennium — but researchers say the tensions never disappeared, only changed form.
