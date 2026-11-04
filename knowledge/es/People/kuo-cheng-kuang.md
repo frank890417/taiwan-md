@@ -4,22 +4,26 @@ description: 'Es un científico senior del Centro Espacial Johnson de la NASA en
 date: 2026-04-06
 category: 'People'
 tags:
-  - 'Kuo Cheng-kuang'
-  - 'NASA'
-  - 'alimentos espaciales'
-  - 'lista negra'
-  - 'movimiento democrático de Taiwán'
+  [
+    'Kuo Cheng-kuang',
+    'NASA',
+    'alimentos espaciales',
+    'lista negra',
+    'movimiento democrático de Taiwán',
+  ]
 subcategory: '科學與研究'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-04T23:26:20.042709+00:00'
 ---
 
 # Kuo Cheng-kuang
