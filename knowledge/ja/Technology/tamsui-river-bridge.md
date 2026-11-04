@@ -1,29 +1,31 @@
 ---
-title: '淡江大橋：河口の地平線上に、「透明」のために存在する巨大なランドマーク'
-description: '淡江大橋は2026年5月12日に開通予定です。建築家ザハ・ハディドのチームが手がけた単塔非対称斜張橋は、30年の計画期間を経て、淡水の夕日を守ることと交通渋滞を緩和することの矛盾の中で、流れるようなラインで台湾の河口景観を再定義しました。'
+title: '淡江大橋：河口の地平線上、「透明」を実現するために存在する巨大なランドマーク'
+description: '淡江大橋は2026年5月12日に開通予定です。建築界の女傑ザハ・ハディド氏のチームが手掛けた単塔非対称斜張橋で、30年の歳月をかけて計画され、淡水の夕日を守りながら交通渋滞を緩和するという矛盾の中で、流れるようなラインで台湾の河口景観を再定義しています。'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     '淡江大橋',
-    'Zaha Hadid',
-    '淡水夕照',
+    'ザハ・ハディド',
+    '淡水の夕日',
     '交通建設',
-    '建築美學',
+    '建築美学',
     '環境保護',
-    '工程技術',
+    '工学技術',
   ]
-readingTime: 10
+subcategory: '科技園區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/淡江大橋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58ac62b3c0ac9558'
 sourceBodyHash: 'sha256:2f938b13f0ca156c'
-translatedAt: '2026-05-20T05:08:29+08:00'
+translatedAt: '2026-11-04T15:57:40.947587+00:00'
 ---
 
 > **30秒概要：**

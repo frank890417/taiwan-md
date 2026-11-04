@@ -1,21 +1,23 @@
 ---
 title: '活俠傳（カツキャデン）：ふたりと30%の好評と70万本'
 description: '2024年6月、ゲーム業界と無縁だったふたりの台湾人が武俠RPGをリリースした。発売一週間で好評率は30%まで落ちた。中国のプレイヤーから数万件の低評価が押し寄せた。12日後に70%まで回復し、一か月後に94%へ。半年後には70万本を突破し、韓国と台湾のプレイヤーが自ら日本語版を翻訳した。主人公の設定は「主人公オーラのない外姓の弟子」——開発チームもそうだった。'
-category: Technology
+date: 2026-04-25
+category: 'Technology'
 tags:
   ['活俠傳', 'Obb Studio', 'インディーゲーム', '武俠', 'Steam', '台湾ゲーム']
 subcategory: '社群與數位文化'
-date: 2026-04-25
-lastVerified: 2026-04-25
-lastHumanReview: false
 author: 'zaious'
 featured: false
+lastVerified: 2026-04-25
+lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-05-01T14:48:26+08:00'
+translatedAt: '2026-11-04T16:02:44.902221+00:00'
 ---
 
 # 活俠傳（カツキャデン）：ふたりと30%の好評と70万本

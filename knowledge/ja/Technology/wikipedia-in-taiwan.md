@@ -1,7 +1,8 @@
 ---
 title: 'ウィキペディアと台湾：デジタル主権、文化的実践、多民族の知識のモザイク'
 description: '2007年の台北Wikimania開催から2021年の財団によるグローバルな対応まで、台湾のウィキコミュニティはクラウド上での系統的な浸透と戦うだけでなく、ウィキペディア愛古蹟（Wiki Loves Monuments）・GLAM連携・教育プロジェクトを通じて、台湾の文化遺産・学術的視点・先住民族語を国際社会へ発信し続けている。これは真の姿を守り、文化的レジリエンスを深める長い歩みだ。'
-category: Technology
+date: 2026-04-29
+category: 'Technology'
 tags:
   [
     'ウィキペディア',
@@ -12,17 +13,18 @@ tags:
     '法的訴訟',
   ]
 subcategory: '公民科技'
-date: 2026-04-29
-lastVerified: 2026-04-29
-lastHumanReview: false
 author: 'idlccp1984'
 featured: false
+lastVerified: 2026-04-29
+lastHumanReview: false
 readingTime: 35
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/維基百科.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
-translatedAt: '2026-05-01T14:48:26+08:00'
+translatedAt: '2026-11-04T16:26:54.219876+00:00'
 ---
 
 # ウィキペディアと台湾：デジタル主権、文化的実践、多民族の知識のモザイク
@@ -101,34 +103,34 @@ translatedAt: '2026-05-01T14:48:26+08:00'
 
 ### 参考資料
 
-[^1]: **台湾ウィキメディア協会** (2007). [Wikimania 2007 in Taipei](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei). _参照日：2026-04-29_.
+[^1]: [Wikimania 2007 in Taipei](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei) — **台湾ウィキメディア協会** (2007). _参照日：2026-04-29_.
 
-[^2]: **Wikinews** (2007). [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan). _参照日：2026-04-29_.
+[^2]: [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan) — **Wikinews** (2007). _参照日：2026-04-29_.
 
-[^3]: **商業週刊** (2007). [知識で世界に台湾を見せる：ウィキ年次大会が台北で](https://www.gvm.com.tw/article/47560). _参照日：2026-04-29_.
+[^3]: [知識で世界に台湾を見せる：ウィキ年次大会が台北で](https://www.gvm.com.tw/article/47560) — **商業週刊** (2007). _参照日：2026-04-29_.
 
-[^4]: **Wikimedia Taiwan** (2020). [全球ウィキペディア愛古蹟、台湾参加者が世界15位獲得](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165). _参照日：2026-04-29_.
+[^4]: [全球ウィキペディア愛古蹟、台湾参加者が世界15位獲得](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165) — **Wikimedia Taiwan** (2020). _参照日：2026-04-29_.
 
-[^5]: **檔案樂活情報** (2025). [ウィキとGLAM Wikiの紹介](https://www.archives.gov.tw/tw/arctw/337-9105.html). _参照日：2026-04-29_.
+[^5]: [ウィキとGLAM Wikiの紹介](https://www.archives.gov.tw/tw/arctw/337-9105.html) — **檔案樂活情報** (2025). _参照日：2026-04-29_.
 
-[^6]: **政治大学原民センター** (2021). [族語ウィキの歩み展示](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline). _参照日：2026-04-29_.
+[^6]: [族語ウィキの歩み展示](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline) — **政治大学原民センター** (2021). _参照日：2026-04-29_.
 
-[^7]: **教育部** (2021). [先住民族語ウィキペディア構築プロジェクト成果](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63). _参照日：2026-04-29_.
+[^7]: [先住民族語ウィキペディア構築プロジェクト成果](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63) — **教育部** (2021). _参照日：2026-04-29_.
 
-[^8]: **ウィキ大学** (2022). [ウィキ教育プロジェクトが台湾の学生の学習成果に与える影響研究](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6). _参照日：2026-04-29_.
+[^8]: [ウィキ教育プロジェクトが台湾の学生の学習成果に与える影響研究](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6) — **ウィキ大学** (2022). _参照日：2026-04-29_.
 
-[^9]: **自由時報** (2024). [蔡衍明がウィキペディアを提訴、一審敗訴——理由が明らかに](https://news.ltn.com.tw/news/society/breakingnews/4778999). _参照日：2026-04-29_.
+[^9]: [蔡衍明がウィキペディアを提訴、一審敗訴——理由が明らかに](https://news.ltn.com.tw/news/society/breakingnews/4778999) — **自由時報** (2024). _参照日：2026-04-29_.
 
-[^10]: **オープンカルチャー基金会（OCF）** (2025). [蔡衍明のウィキペディア提訴を機に、台湾のプラットフォーム法制を見直す](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/). _参照日：2026-04-29_.
+[^10]: [蔡衍明のウィキペディア提訴を機に、台湾のプラットフォーム法制を見直す](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/) — **オープンカルチャー基金会（OCF）** (2025). _参照日：2026-04-29_.
 
-[^11]: **ウィキニュース** (2020). [男性がウィキペディアの蔡易余記事を改ざんして有罪判決](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91). _参照日：2026-04-29_.
+[^11]: [男性がウィキペディアの蔡易余記事を改ざんして有罪判決](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91) — **ウィキニュース** (2020). _参照日：2026-04-29_.
 
-[^12]: **中央社** (2021). [女性が未婚の蔡易余の配偶者をカード神と拡散——二審も無罪](https://www.cna.com.tw/news/asoc/202010210356.aspx). _参照日：2026-04-29_.
+[^12]: [女性が未婚の蔡易余の配偶者をカード神と拡散——二審も無罪](https://www.cna.com.tw/news/asoc/202010210356.aspx) — **中央社** (2021). _参照日：2026-04-29_.
 
-[^13]: **自由時報** (2019). [コメントで李婉鈺を「うそっぽい」と侮辱——公然侮辱と判定、罰金](https://news.ltn.com.tw/news/society/breakingnews/2833150). _参照日：2026-04-29_.
+[^13]: [コメントで李婉鈺を「うそっぽい」と侮辱——公然侮辱と判定、罰金](https://news.ltn.com.tw/news/society/breakingnews/2833150) — **自由時報** (2019). _参照日：2026-04-29_.
 
-[^14]: **ウィキメディア財団** (2021). [2021年9月声明：浸透と嫌がらせへの対応](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667). _参照日：2026-04-29_.
+[^14]: [2021年9月声明：浸透と嫌がらせへの対応](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667) — **ウィキメディア財団** (2021). _参照日：2026-04-29_.
 
-[^15]: **ウィキペディア** (2021). [2021年ウィキメディア財団の中国語版ウィキペディアへの対応](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8). _参照日：2026-04-29_.
+[^15]: [2021年ウィキメディア財団の中国語版ウィキペディアへの対応](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **ウィキペディア** (2021). _参照日：2026-04-29_.
 
-[^16]: **台湾ウィキメディア協会** (2025). [継続と実践：2025年度展望](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/). _参照日：2026-04-29_.
+[^16]: [継続と実践：2025年度展望](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/) — **台湾ウィキメディア協会** (2025). _参照日：2026-04-29_.
