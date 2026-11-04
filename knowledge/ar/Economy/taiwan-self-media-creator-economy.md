@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T15:59:54+08:00'
+translatedAt: '2026-11-04T15:36:15.361909+00:00'
 ---
 
 > يبلغ حجم سوق إعلانات المؤثرين في تايوان حوالي 210 مليون دولار أمريكي، وهو أقل من 1% من حجم السوق الأمريكي. ومع ذلك، يدير صانع المحتوى المتوسط في تايوان ما بين 5 إلى 7 منصات في وقت واحد — YouTube وIG وFacebook وThreads وPodcast ومدونة وLINE — وهو ما يعادل ضعف عدد المنصات التي يديرها صانع محتوى من نفس الفئة في الولايات المتحدة. سوق صغير للغاية، ومنصات مجزأة للغاية، والربح يعتمد على التسويق بالعمولة بدلاً من نظام الاشتراكات؛ إنها لعبة بقواعد مختلفة تمامًا.
