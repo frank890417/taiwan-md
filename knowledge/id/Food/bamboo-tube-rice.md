@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-04T21:49:19.687790+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Nasi bambu adalah salah satu hidangan nasi paling representatif masyarakat asli Taiwan, bermula dari kearifan para pemburu yang kekurangan perlengkapan memasak di tengah hutan. Ia memanfaatkan kelembaban alami serta aroma membran bambu Makino berumur satu tahun, dipanggang langsung di atas arang, sehingga nasi tetap lembab dan beraroma khas. Ini bukan sekadar hidangan, melainkan praktik pengelolaan sumber daya hutan dan ilmu fisika.

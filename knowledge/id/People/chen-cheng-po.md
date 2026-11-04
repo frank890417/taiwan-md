@@ -16,11 +16,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-07-26T12:49:15+08:00'
+translatedAt: '2026-11-04T21:36:11.755867+00:00'
 ---
 
 > **Ringkasan 30 Detik:** 25 Maret 1947, di depan Stasiun Kereta Api Chiayi, seorang pria yang memegang kuas dicatut kedua tangannya dengan kawat besi, dieksekusi di tengah jalan. Namanya Chen Cheng-po, orang Taiwan pertama yang lolos seleksi Teiten Jepang dengan lukisan minyak, dan juga orang yang pergi berunding saat Peristiwa 28 Februari namun tidak pernah pulang.

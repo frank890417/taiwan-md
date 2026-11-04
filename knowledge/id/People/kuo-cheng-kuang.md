@@ -2,9 +2,7 @@
 title: 'Kuo Cheng-kuang'
 description: 'Ia adalah ilmuwan senior di Pusat Ruang Angkasa Johnson NASA di Houston, yang mengkhususkan penelitian tentang apa yang dimakan dan diminum astronot; namun di arsip tanah airnya Taiwan, ia pernah dicantumkan dalam "daftar hitam terorisme".'
 date: 2026-04-06
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與研究'
 tags:
   [
     'Kuo Cheng-kuang',
@@ -13,15 +11,19 @@ tags:
     'daftar hitam',
     'gerakan demokrasi Taiwan',
   ]
-readingTime: 7
+subcategory: '科學與研究'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-04T21:39:25.277555+00:00'
 ---
 
 # Kuo Cheng-kuang
