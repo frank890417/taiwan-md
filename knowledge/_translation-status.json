@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T19:32:11+08:00",
-    "zhCommitHead": "9150eef69",
+    "lastUpdated": "2026-11-04T19:56:47+08:00",
+    "zhCommitHead": "9bef6c87a",
     "totalZh": 1161,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1161,
-        "fresh": 943,
-        "stale": 48,
+        "fresh": 944,
+        "stale": 47,
         "metadata_stale": 166,
         "missing": 4,
         "orphan": 0
@@ -142105,8 +142105,8 @@
           "sourceContentHash": "sha256:efe5b480b7638fd0",
           "sourceBodyHash": "sha256:5b8e0366beca56d2",
           "translatedAt": "2026-11-04T09:42:17.184848+00:00",
-          "translationLastCommit": "4569e8de",
-          "translationLastModified": "2026-07-25T11:53:39+08:00",
+          "translationLastCommit": "9bef6c87",
+          "translationLastModified": "2026-11-04T19:32:12+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 67329,
@@ -142165,18 +142165,18 @@
         "ru": {
           "path": "ru/People/chi-po-lin.md",
           "translatedFrom": "People/齊柏林.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2842e6333688b98f",
-          "sourceBodyHash": "sha256:272da240ae5fe1df",
-          "translatedAt": "2026-07-25T12:45:45+08:00",
+          "sourceCommitSha": "50face4e0",
+          "sourceContentHash": "sha256:efe5b480b7638fd0",
+          "sourceBodyHash": "sha256:5b8e0366beca56d2",
+          "translatedAt": "2026-11-04T11:32:36.131295+00:00",
           "translationLastCommit": "79b087f9",
           "translationLastModified": "2026-07-25T15:38:35+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 30054,
+          "footnoteDefs": 41,
+          "bytes": 105647,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chi-po-lin.md",
