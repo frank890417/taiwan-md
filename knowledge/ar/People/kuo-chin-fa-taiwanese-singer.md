@@ -2,9 +2,7 @@
 title: 'كيو تشين-فا: الروح المنخفضة وراء "شاو روه تونغ"'
 description: 'من متجر أحذية في داديوتشينغ إلى ملك الأغاني المنخفضة في جزيرة الكنز، غنى كيو تشين-فا بأغنية "شاو روه تونغ" معاناة وصمود عامة الناس في تايوان بعد الحرب، وأحرق آخر خيط من حياته على المسرح.'
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'موسيقى',
@@ -13,15 +11,19 @@ tags:
     'ملك الصوت المنخفض',
     'أغاني محظورة في فترة الأحكام العرفية',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-07-25T12:13:36+08:00'
+translatedAt: '2026-11-04T21:47:10.715126+00:00'
 ---
 
 > **📝 ملاحظة القيّم**

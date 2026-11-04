@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-07-26T23:43:24+08:00'
+translatedAt: '2026-11-04T22:04:01.017371+00:00'
 ---
 
 # تشيو جينغ وو: مكتشف درجة الحرارة الحرجة Tc=93K للموصلات الفائقة عالية الحرارة التي تجاوزت عتبة النيتروجين السائل في عام 1987
