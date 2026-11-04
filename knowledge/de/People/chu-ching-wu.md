@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-04T20:26:21.520885+00:00'
 ---
 
 # Chu Ching-wu: 1987 Durchbruch der Flüssigstickstoff-Temperatur, Mitentdecker des Hochtemperatur-Supraleiters Tc=93K
