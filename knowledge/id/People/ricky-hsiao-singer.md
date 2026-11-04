@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蕭煌奇.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
-translatedAt: '2026-07-26T00:16:53+08:00'
+translatedAt: '2026-11-04T21:05:05.394374+00:00'
 ---
 
 > Pada tahun 1976, Ricky Hsiao lahir di Taipei, dengan kelainan internal mata congenital yang mengakibatkan dua kali kehilangan penglihatan. Namun, pengalaman tersebut "tidak dapat dilihat" justru menjadi nutrisi bagi musik dan kehidupannya. Ia bukan hanya orang pertama di Taiwan yang meraih Golden Melody penyanyi laki-laki Taiwan empat kali, tetapi juga pernah mewakedi Taiwan di Asian Games, memenangkan medali tembakau judo. Pada tahun 1995, ia mendirikan "Life Line Band", membuka jalan profesionalisasi musisi tunanetra. Beberapa tahun terakhir, ia lebih menggunakan humor khas "joke tentang neraka" untuk memutar balik stereotip masyarakat terhadap penyandang disabilitas, menjadi salah satu tokoh legendaris di industri musik berbahasa Tionghoa.

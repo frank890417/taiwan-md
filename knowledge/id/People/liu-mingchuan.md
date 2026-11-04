@@ -1,16 +1,16 @@
 ---
-title: 'Liu Ming-chuan: Menyalakan Lampu Listrik Pertama Taiwan, Pelopor Modernisasi yang Berlari di Tengah Kekuasaan dan Kontroversi'
-description: 'Dari anak penyelundup garam hingga menjadi Perwira Tinggi (Per撫) pertama Taiwan, Liu Ming-chuan dalam enam tahun jabatannya tidak hanya mendorong kereta api dan pos, tetapi juga menyalakan lampu listrik pertama Kekaisaran Qing di ibukota Taipei. Namun, keputusan strategisnya "mundur dari Keelung untuk menolong Tamsui" serta kebijakan pengukuran tanah dan pengelolaan masyarakat asli yang keterlaluan, meninggalkan perdebatan dan bayangan mendalam dalam sejarah.'
+title: 'Liu Mingchuan: Pionir Modernisasi yang Menyalakan Lampu Listrik Pertama di Taiwan, Berlari di Antara Kekuasaan dan Kontroversi'
+description: 'Dari putra pengusaha garam hingga menjadi Gubernur pertama Taiwan, enam tahun masa jabatan Liu Mingchuan di Taiwan tidak hanya mendorong pembangunan kereta api dan pos, tetapi juga menyalakan lampu listrik pertama di Kota Taipei pada era Dinasti Qing. Namun, keputusan strategisnya untuk "menarik pasukan dari Keelung guna membantu Shanghai" serta kebijakan pengelolaan suku pribumi dan pajak yang terburu-buru, meninggalkan perdebatan mendalam dan bayang-bayang dalam sejarah.'
 date: 2026-06-16
 category: 'People'
 tags:
   [
-    'Liu Ming-chuan',
-    'sejarah Taiwan',
+    'Liu Mingchuan',
+    'Sejarah Taiwan',
     'Kota Taipei',
-    'modernisasi',
-    'Perang Qing-Prancis',
-    'pembangunan ketenagalistrikan',
+    'Modernisasi',
+    'Perang Sino-Prancis',
+    'Pembangunan Listrik',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -18,11 +18,13 @@ featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-07-29T01:32:43+08:00'
+translatedAt: '2026-11-04T20:29:44.247279+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Ledakan perang Perang Qing-Prancis 1884 mendorong Liu Ming-chuan ke titik balik sejarah Taiwan. Ia tidak hanya berhasil menolak invasi asing, tetapi juga dalam enam tahun menjabat Perwira Tinggi, mengubah Taipei menjadi salah satu kota paling maju Kekaisaran Qing—di sini terdapat jalur kereta api penumpang pertama, lampu listrik pertama, serta sekolah bergaya Barat paling awal. Namun, kebijakan "pelopor modernisasi" ini tidak berjalan lancar; keputusan mundurnya di medan perang dan kebijakan tegasnya di dalam negeri, hingga kini tetap menjadi fokus perdebatan para sejarawan.

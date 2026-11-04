@@ -1,21 +1,23 @@
 ---
-title: 'A-Di (阿滴): Dari Pelajar Asing yang Menolak Bahasa Inggris Jadi “Bapak Kepala Desa” di Dunia YouTube Taiwan'
-description: 'Pada 2020, YouTuber A-Di menggalang dana untuk iklan New York Times, menunjukkan Taiwan kepada dunia; pada 2021, ia mengungkapkan ia menderita depresi dan menghadapi terjun hidupnya. Dari pelajar di Singapur yang menolak bahasa Inggris hingga pendiri badan kooperasi kreator media baru Taiwan, A-Di bukan sekadar influencer berpengetahuan, melainkan pendorong utama ekosistem media baru Taiwan.'
+title: 'A-Di: Dari Mahasiswa Internasional yang Menolak Bahasa Inggris hingga Menjadi Tokoh Berpengaruh di Dunia YouTube Taiwan'
+description: 'Pada tahun 2020, YouTuber A-Di menginisiasi penggalangan dana untuk iklan New York Times agar dunia dapat melihat Taiwan; pada tahun 2021, ia mengungkapkan bahwa dirinya menderita depresi dan menghadapi masa sulit dalam hidupnya dengan jujur. Dari memulai pembelajaran bahasa Inggris di Singapura hingga mendirikan asosiasi kreator, A-Di bukan sekadar influencer berbasis pengetahuan, melainkan juga penggerak ekosistem media baru di Taiwan.'
 date: 2026-04-20
 category: 'People'
 tags:
-  ['YouTuber', 'A-Di', 'media baru Taiwan', 'depresi', 'iklan New York Times']
+  ['YouTuber', 'A-Di', 'Media Baru Taiwan', 'Depresi', 'Iklan New York Times']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-07-26T08:50:52+08:00'
+translatedAt: '2026-11-04T20:41:32.948351+00:00'
 ---
 
 > **30 Detik Ringkasan:** Pada 2020, YouTuber A-Di (Du Sheng Rui) menggalang dana untuk program sambutan “ThisAttackComesFromTaiwan”, dalam hitungan jam mencapai Rp40 juta, akhirnya mengumpulkan hampar Rp190 juta untuk iklan penuh di _New York Times_, menyampaikan teguh “Taiwan Can Help”. Pada tahun berikutnya, ia mengungkapkan perjalanan hidupnya selama hampir satu tahun mengidap depresi, bersama Qiqi Seven Seven memperkuat perikatan badan kooperasi kreator media baru Taiwan, menjabat sebagai ketua dewan. Dari masa mudanya di Singapur yang menolak bahasa Inggris hingga menjadi “Bapak Kepala Desa” di dunia YouTube Taiwan, cerita A-Di bukan sekadar transformasi pribadi, melainkan bayangan nyata evolusi media baru Taiwan dari karya individu menuju kebaikan bersama.

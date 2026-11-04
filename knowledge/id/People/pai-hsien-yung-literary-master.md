@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T03:04:00.729418+00:00'
+translatedAt: '2026-11-04T20:25:35.996145+00:00'
 ---
 
 # Pai Hsien-yung: "Taipei People" 1971, ke Tur 20 Tahun "The Peony Pavilion" Edisi Muda
