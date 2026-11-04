@@ -19,16 +19,18 @@ featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-26T16:41:20+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T13:59:47.030691+00:00'
 ---
 
-A las cuatro y media de la madrugada, la calle Guohua aún no ha encendido sus luces. Un grupo de personas camina desde la estación de tren de Tainan, usando la pantalla del móvil para iluminar el camino hacia el puesto de sopa de ternera Liuchian, cuyo letrero permanece sumido en la oscuridad. No son los primeros: ya hay gente esperando a la entrada. La carne de vacuno del mercado de carnes de Shanhua se sacrifica desde la noche anterior y los camiones refrigerados llegan antes del amaniente; la primera olla de caldo empieza a hervir a las cinco. Quienes llegan temprano conocen un secreto: **el dulzor de la primera olla es distinto al del atardecer.**
+A las cuatro y media de la madrugada, la calle Guohua aún no tiene luces. Unas cuantas personas vienen caminando desde la estación de tren de Tainan, con las pantallas de sus móviles iluminando el camino, hacia el Liuqian Beef Soup cuyo letrero sigue en la oscuridad. No son los primeros: en la puerta ya hay gente esperando. Las vacas del mercado de carne de Shanhua, sacrificadas la noche anterior, llegan en camiones refrigerados antes del amanecer; la primera olla de sopa hierve a las cinco. Quienes llegan temprano saben una cosa: **la dulzura de la primera olla no es la misma que la de la tarde.**
 
-No es un ritual. Es logística.
+Esto no es ritual. Es logística.
 
 ## Wujiaogang: la razón de su desaparición
 
@@ -72,17 +74,17 @@ La textura de la carne fresca es "crujiente" (_ka-zi ka-zi_): las fibras muscula
 
 📝 Nota del curador: En la universidad, mis compañeros y yo fuimos a Tainan por primera vez. A las cuatro de la madrugada, alguien me despertó: "¡Eh, levántate, vamos a por sopa de ternera!". Con los ojos entrecerrados, mi primer pensamiento fue: "¿Qué hora es? ¿Quién vende esto a esta hora? Y si hay, ¿para qué madrugar?". Pero mis compañeros insistieron. Al llegar a la calle Haian, antes de ver el local, vi bajo los toldos del mercado una fila de sombras bajo la luz de las farolas: veinte o treinta personas ya esperando. El puesto abre a las cinco; el objetivo es conseguir la primera olla. Ese dulzor —que no es azúcar añadido, sino el dulzor natural de las fibras musculeras filtrándose en el caldo en su estado más puro— es una experiencia espiritual de otro nivel. Es una satisfacción casi injusta. Mi compañero me recordó: "¡Ves! Vale la pena. Pero te digo, no vengas los lunes, porque los lunes no abren". Resulta que los puestos de sopa de ternera suelen cerrar los lunes porque el mercado de Shanhancia no sacrifica ganado ese día.
 
-## Fideos con anguila: la física de 27 segundos
+## Tallarines con anguila: salteado a fuego fuerte, una tienda escribe el tiempo en la pared
 
-Los fideos con anguila existen en otros lugares de Taiwán, pero fuera de Tainan casi nadie lo hace correctamente, porque la técnica central es extremadamente estricta: desde que la anguila entra a la sartén hasta que se retira, no pueden pasar más de 27 segundos. Si te pasas, la carne se vuelve seca y el sabor a pescado domina, arruinando la olla.
+El secreto de los tallarines con anguila está en el control del fuego: los filetes de anguila se saltean a fuego fuerte y rápido; si se pasan, la carne se vuelve fibrosa. El establecimiento veterano de Sakariba exhibe los «27 segundos» como su seña de identidad, pero esa es la regla de esa tienda en particular, no una norma universal para el plato.
 
-El origen de este plato está en el mercado Youai (Sakariiba). Durante el periodo japonés, en Tainan no había anguilas comunes, pero en los estanques se podían atrapar anguilía salvaje de tamaño similar, aunque nadie sabía cómo cocinarla. Los hermanos Liao Bing-nan y Liao Huo-tu aprendieron la técnica del corte (_to-tsì_) de un maestro de Fuzhou e investigaron un método de salteado que imitaba a la anguila común. El sabor agridulce de Tainan conquistó incluso a los funcionarios japoneses, ganando fama en Sakariiba. Liao Bing-nan sería conocido más tarde como "Liao la de la anguila"; la técnica de la familia Liao se ha transmitido por generaciones; hoy, los puestos de la familia Liao en Sakariiba, A-yuan en calle Chenggong y A-jiang en calle Minzu, pertenecen a la misma estirpe.
+El origen de este plato está en el mercado de You'ai Street (Sakariba). Los hermanos Liao Bing-nan y Liao Huo-tu aprendieron la técnica del «daozi» (to-tsì) de un maestro de Fuzhou, creando el sabor salado-ácido-dulce característico de Tainan, y se hicieron famosos en Sakariba. Liao Bing-nan pasó a ser conocido como «Anguila Nan»; la técnica de la familia Liao se transmitió de generación en generación, y los establecimientos de la familia Liao en Sakariba, A-yuan en Chenggong Road y A-jiang en Minzu Road, todos provienen del mismo linaje. La historia completa en 〈[Tallarines con anguila](/es/food/eel-noodles)〉.
 
-Se aromatiza con ajo, se añade la anguila, cebolla, puerro, chile, condimentos, espesante, vinagre de cinco sellos y ¡listo!, se vierte sobre los fideos. El sonido del "aliento del wok" (_wok hei_) es algo que los maestros juzgan con el oído, no con la vista.
+Ajo dorado al momento, trozos de anguila al wok, cebolleta, cebolla, chile, condimentos, espesado con fécula, vinagre Wu Yin, fuera del wok y sobre los tallarines ya emplatados. Ese sonido del _wok hei_ (el aliento del wok) al subir la llama es lo que el maestro usa para juzgar el punto exacto: con los oídos, no con los ojos.
 
-Los fideos son una variedad local de Tainan, fritos para darles forma en un estado semi-crudo y luego sumergidos en el caldo para que absorban todo el sabor; su textura es totalmente distinta a la de un fideo convencional. El vinagre de cinco sellos es esencial: su acidez y dulzor reinician el paladar, permitiéndote continuar con el siguiente puesto tras la grasa y la proteína.
+Los _yi mian_ son una variedad de fideos local de Tainan: se fríen en estado semicrudo para fijar su forma y, al sumergirse en el caldo, absorben toda la salsa, ofreciendo una textura completamente distinta a la de los fideos comunes. El vinagre Wu Yin es indispensable: su final agridulce reinicia el paladar, permitiendo seguir comiendo otro plato tras la grasa y la proteína.
 
-📝 Nota del curador: "Sakariiba" es la transliteración al taiwanés del japonés _sakariba_, que significa lugar concurrido o mercado animado. El nombre mismo explica el origen de los fideos con anguila: un punto de reunión de trabajadores durante la era japonesa.
+📝 Nota del curador: «Sakariba» es la transliteración en taiwanés del japonés «盛り場» (sakariba), que significa mercado bullicioso. El nombre en sí revela el origen de los tallarines con anguila: una zona de reunión de trabajadores durante la época colonial japonesa.
 
 ## A-ming Pork Heart Vermicelli: la filosofía del baño maría
 
