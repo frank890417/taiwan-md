@@ -2,9 +2,7 @@
 title: 'Museo de Cerámica de Yingge: un siglo de industria alfarera en hormigón visto'
 description: 'En noviembre de 2000, el primer museo profesional de cerámica de Taiwán abrió sus puertas en el distrito de Yingge, Nuevo Taipéi, diseñado por Jian Xueyi bajo el concepto de los cuatro elementos: tierra, agua, fuego y viento. Este edificio de hormigón visto reubicó a Yingge de pueblo alfarero a templo de la cerámica, y la Bienal Internacional de Cerámica de Taiwán, iniciada en 2004, conectó la artesanía local con el panorama global.'
 date: 2026-05-07
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '策展與教育'
 tags:
   [
     'cerámica',
@@ -14,15 +12,19 @@ tags:
     'Jian Xueyi',
     'Bienal Internacional de Cerámica de Taiwán',
   ]
+subcategory: '策展與教育'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T17:35:33.062403+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 26 de noviembre de 2000, el Museo de Cerámica de Yingge de Nuevo Taipéi abrió sus puertas como el primer museo profesional de cerámica de Taiwán. El edificio fue diseñado por Jian Xueyi con el concepto de los cuatro elementos —tierra, agua, fuego y viento—, integrando muros de hormigón visto y grandes fachadas de cristal en el paisaje de Yingge. El museo reubicó a Yingge, antes conocida como la "Jingdezhen de Taiwán" por su industria alfarera al por mayor, transformándola en un centro de curaduría, educación e intercambio internacional centrado en la cerámica artística. La "Bienal Internacional de Cerámica de Taiwán", iniciada en 2004, conectó la artesanía local con las corrientes contemporáneas globales de la cerámica.

@@ -1,20 +1,30 @@
 ---
-title: 'Tale of Wuxia: dos personas, treinta por cien de reseñas positivas, setecientas mil copias'
-description: 'En junio de 2024, dos taiwaneses ajenos a la industria del videojuego lanzaron un RPG de artes marciales. En la primera semana, la tasa de reseñas positivas en Steam cayó al 30 %, y jugadores chinos inundaron el juego con decenas de miles de reseñas negativas. Doce días después, la tasa se recuperó al 70 %; un mes después, alcanzó el 94 %. Medio año más tarde, las ventas superaron las 700 000 copias, y jugadores de Corea del Sur y Taiwán formaron equipos voluntarios para traducir el juego al japonés. El protagonista está diseñado como «un discípulo de apellido ajeno sin aura de protagonista». El equipo de desarrollo también lo es.'
+title: 'Legend of Mortal: Dos personas, 30% de reseñas positivas y 700.000 copias vendidas'
+description: 'En junio de 2024, dos taiwaneses sin experiencia previa en la industria de los videojuegos lanzaron un RPG de artes marciales (Wuxia). Tras una semana de lanzamiento, la tasa de reseñas positivas cayó al 30% debido a miles de comentarios negativos de jugadores chinos. Doce días después, subió al 70%, y un mes más tarde alcanzó el 94%. Seis meses después, las ventas superaron las 700.000 copias, y los jugadores en Corea y Taiwán se organizaron por su cuenta para traducir la versión japonesa. Tanto el protagonista como el equipo de desarrollo comparten una característica: son "discípulos de un apellido distinto sin el aura de protagonista".'
 date: 2026-04-25
-author: 'zaious'
 category: 'Technology'
+tags:
+  [
+    'Legend of Mortal',
+    'Yuan Shi Niao Xiong',
+    'juego indie',
+    'Wuxia',
+    'Steam',
+    'videojuegos taiwaneses',
+  ]
 subcategory: '社群與數位文化'
-tags: ['活俠傳', '原始鳥熊', '獨立遊戲', '武俠', 'Steam', '台灣遊戲']
-readingTime: 9
+author: 'zaious'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-06-07T02:26:08+08:00'
+translatedAt: '2026-11-04T17:33:34.665813+00:00'
 ---
 
 > El 14 de junio de 2024, un RPG de artes marciales llamado 《活俠傳》 (_Tale of Wuxia_) se lanzó en Steam. El equipo de desarrollo, «原始鳥熊» (Obb Studio), estaba formado solo por dos personas: Pájaro se encargaba del código y las operaciones; Oso, de la historia, el arte y la gestión de la comunidad. Ninguno de los dos venía de la industria del videojuego, y este era su primer título. En la primera semana, la tasa de reseñas positivas en Steam cayó por debajo del 30 %. Doce días después, se recuperó al 70 %. Un mes después, alcanzó el 94 %. Medio año más tarde, las ventas llegaron a 700 000 copias y la valoración final en Steam fue de 9/10. Fans coreanos completaron por iniciativa propia una traducción al coreano, y jugadores taiwaneses y coreanos formaron un equipo para traducir el juego al japonés. El protagonista de esta historia está diseñado como «un discípulo de apellido ajeno sin aura de protagonista». Las personas que hicieron este juego también lo son.

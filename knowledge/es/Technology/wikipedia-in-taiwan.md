@@ -2,26 +2,29 @@
 title: 'Wikipedia en Taiwán: soberanía digital, prácticas culturales y el rompecabezas del conocimiento multiétnico'
 description: 'Desde que Taipéi albergó Wikimania en 2007 hasta las acciones globales de la Fundación en 2021, la comunidad wiki taiwanesa no solo ha combatido la penetración sistemática en la nube, sino que, a través de Wiki Loves Monuments, la colaboración GLAM y proyectos educativos, ha llevado el patrimonio cultural, las perspectivas académicas y las lenguas indígenas de la isla ante el mundo. Es una larga marcha para proteger la autenticidad y profundizar la resiliencia cultural.'
 date: 2026-04-29
-author: 'idlccp1984'
-category: Technology
+category: 'Technology'
 tags:
   [
-    Wikipedia,
-    Asociación Wikimedia Taiwán,
-    Wiki Loves Monuments,
-    GLAM,
-    lenguas indígenas,
-    litigios legales,
+    'Wikipedia',
+    'Asociación Wikimedia Taiwán',
+    'Wiki Loves Monuments',
+    'GLAM',
+    'lenguas indígenas',
+    'litigios legales',
   ]
-readingTime: 35
+subcategory: '公民科技'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 35
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/維基百科.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-04T17:19:22.938706+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -98,34 +101,34 @@ La historia de Wikipedia en Taiwán es un proceso de pasar de "ser definida" a "
 
 ### Referencias
 
-[^1]: **Asociación Wikimedia Taiwán** (2007). [Wikimania 2007 en Taipéi](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei). _Fecha de consulta: 2026-04-29_.
+[^1]: [Wikimania 2007 en Taipéi](https://meta.wikimedia.org/wiki/Wikimania_2007/Taipei) — **Asociación Wikimedia Taiwán** (2007). _Fecha de consulta: 2026-04-29_.
 
-[^2]: **Wikinews** (2007). [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan). _Fecha de consulta: 2026-04-29_.
+[^2]: [Wikimania 2007 begins in Taipei, Taiwan](https://en.wikinews.org/wiki/Wikimania_2007_begins_in_Taipei,_Taiwan) — **Wikinews** (2007). _Fecha de consulta: 2026-04-29_.
 
-[^3]: **Business Weekly** (2007). [用知識讓全世界看見台灣：維基年會在台北](https://www.gvm.com.tw/article/47560). _Fecha de consulta: 2026-04-29_.
+[^3]: [用知識讓全世界看見台灣：維基年會在台北](https://www.gvm.com.tw/article/47560) — **Business Weekly** (2007). _Fecha de consulta: 2026-04-29_.
 
-[^4]: **Wikimedia Taiwan** (2020). [全球維基愛古蹟台灣參賽者榮獲15名](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165). _Fecha de consulta: 2026-04-29_.
+[^4]: [全球維基愛古蹟台灣參賽者榮獲15名](https://medium.com/@wikimediatw/%E5%85%A8%E7%90%83%E7%B6%AD%E5%9F%BA%E6%84%9B%E5%8F%A4%E8%B9%9F-%E5%8F%B0%E7%81%A3%E5%8F%83%E8%B3%BD%E8%80%85%E6%A6%AE%E7%8D%B215%E5%90%8D-6504e3cab165) — **Wikimedia Taiwan** (2020). _Fecha de consulta: 2026-04-29_.
 
-[^5]: **Archivos y Vida Activa** (2025). [維基與轉機：GLAM Wiki簡介](https://www.archives.gov.tw/tw/arctw/337-9105.html). _Fecha de consulta: 2026-04-29_.
+[^5]: [維基與轉機：GLAM Wiki簡介](https://www.archives.gov.tw/tw/arctw/337-9105.html) — **Archivos y Vida Activa** (2025). _Fecha de consulta: 2026-04-29_.
 
-[^6]: **Centro de Pueblos Indígenas de NCCU** (2021). [族語維基歷程展覽](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline). _Fecha de consulta: 2026-04-29_.
+[^6]: [族語維基歷程展覽](https://dev-omekas-in-docker-tester.dlll.nccu.edu.tw/s/ALWiki/page/alcd-sen-timeline) — **Centro de Pueblos Indígenas de NCCU** (2021). _Fecha de consulta: 2026-04-29_.
 
-[^7]: **Ministerio de Educación** (2021). [原住民族語維基百科建置計畫成果](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63). _Fecha de consulta: 2026-04-29_.
+[^7]: [原住民族語維基百科建置計畫成果](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&s=C3C0B06626817C63) — **Ministerio de Educación** (2021). _Fecha de consulta: 2026-04-29_.
 
-[^8]: **Wikiversity** (2022). [維基教育專案對台灣學生學習成果研究](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6). _Fecha de consulta: 2026-04-29_.
+[^8]: [維基教育專案對台灣學生學習成果研究](https://zh.wikiversity.org/zh-tw/%E7%B6%AD%E5%9F%BA%E6%95%99%E8%82%B2%E5%B0%88%E6%A1%88%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%BF%92%E6%88%90%E6%9E%9C%E7%A0%94%E7%A9%B6) — **Wikiversity** (2022). _Fecha de consulta: 2026-04-29_.
 
-[^9]: **Liberty Times** (2024). [蔡衍明告維基百科一審敗訴 理由曝光](https://news.ltn.com.tw/news/society/breakingnews/4778999). _Fecha de consulta: 2026-04-29_.
+[^9]: [蔡衍明告維基百科一審敗訴 理由曝光](https://news.ltn.com.tw/news/society/breakingnews/4778999) — **Liberty Times** (2024). _Fecha de consulta: 2026-04-29_.
 
-[^10]: **Open Culture Foundation (OCF)** (2025). [從蔡衍明控告維基百科，回頭檢視台灣的平台法制](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/). _Fecha de consulta: 2026-04-29_.
+[^10]: [從蔡衍明控告維基百科，回頭檢視台灣的平台法制](https://ocf.tw/story/epaper/2025/202511news/wiki-sue/) — **Open Culture Foundation (OCF)** (2025). _Fecha de consulta: 2026-04-29_.
 
-[^11]: **Wikinoticias** (2020). [一名男子因竄改維基百科蔡易餘條目遭判刑](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91). _Fecha de consulta: 2026-04-29_.
+[^11]: [一名男子因竄改維基百科蔡易餘條目遭判刑](https://zh.wikinews.org/wiki/%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9B%A0%E7%AB%84%E6%94%B9%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E8%94%A1%E6%98%93%E9%A4%98%E6%A2%9D%E7%9B%AE%E9%81%AD%E5%88%A4%E5%88%91) — **Wikinoticias** (2020). _Fecha de consulta: 2026-04-29_.
 
-[^12]: **Central News Agency** (2021). [婦人散布未婚蔡易餘配偶是卡神 二審仍獲判無罪](https://www.cna.com.tw/news/asoc/202010210356.aspx). _Fecha de consulta: 2026-04-29_.
+[^12]: [婦人散布未婚蔡易餘配偶是卡神 二審仍獲判無罪](https://www.cna.com.tw/news/asoc/202010210356.aspx) — **Central News Agency** (2021). _Fecha de consulta: 2026-04-29_.
 
-[^13]: **Liberty Times** (2019). [留言罵李婉鈺「假鬼假怪」 算公然侮辱判罰](https://news.ltn.com.tw/news/society/breakingnews/2833150). _Fecha de consulta: 2026-04-29_.
+[^13]: [留言罵李婉鈺「假鬼假怪」 算公然侮辱判罰](https://news.ltn.com.tw/news/society/breakingnews/2833150) — **Liberty Times** (2019). _Fecha de consulta: 2026-04-29_.
 
-[^14]: **Fundación Wikimedia** (2021). [2021年9月聲明：針對滲透與騷擾的行動](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667). _Fecha de consulta: 2026-04-29_.
+[^14]: [2021年9月聲明：針對滲透與騷擾的行動](https://wikimediatw.medium.com/%E7%B6%AD%E5%9F%BA%E5%AA%92%E9%AB%94%E5%9F%BA%E9%87%91%E6%9C%83-2021%E5%B9%B49%E6%9C%88%E8%81%B2%E6%98%8E-d7de7629c667) — **Fundación Wikimedia** (2021). _Fecha de consulta: 2026-04-29_.
 
-[^15]: **Wikipedia** (2021). [2021年維基媒體基金會針對中文維基百科的行動](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8). _Fecha de consulta: 2026-04-29_.
+[^15]: [2021年維基媒體基金會針對中文維基百科的行動](https://zh.wikipedia.org/zh-tw/2021%E5%B9%B4%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E9%92%88%E5%AF%B9%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8A%A8) — **Wikipedia** (2021). _Fecha de consulta: 2026-04-29_.
 
-[^16]: **Asociación Wikimedia Taiwán** (2025). [延續與落實：2025年度展望](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/). _Fecha de consulta: 2026-04-29_.
+[^16]: [延續與落實：2025年度展望](https://wsotk.wordpress.com/2025/01/21/%E5%BB%B6%E7%BA%8C%E8%88%87%E8%90%BD%E5%AF%A6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%B1%95%E6%9C%9B/) — **Asociación Wikimedia Taiwán** (2025). _Fecha de consulta: 2026-04-29_.

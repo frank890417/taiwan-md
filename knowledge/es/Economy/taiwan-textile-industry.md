@@ -1,20 +1,32 @@
 ---
-title: 'La industria textil de Taiwán: De industria en declive a campeona oculta de la ropa funcional para los Juegos Olímpicos'
-description: "Cómo una industria tradicional, que alguna vez fue vista como un 'declive', está transformando su narrativa de resiliencia al utilizar botellas PET recicladas, redes de pesca desechadas e incluso gases industriales para crear las vestimentas tecnológicas de las selecciones mundiales en los Juegos Olímpicos de París 2024."
+title: 'Industria textil de Taiwán: De industria en declive a campeones ocultos de la ropa técnica olímpica'
+description: 'Cómo una industria tradicional que alguna vez fue considerada en declive logró transformar su narrativa de resiliencia, utilizando botellas de plástico recicladas, redes de pesca desechadas e incluso la captura de gases industriales para crear la tecnología textil avanzada que viste a las delegaciones nacionales en los Juegos Olímpicos de París 2024.'
 date: 2026-07-20
 category: 'Economy'
+tags:
+  [
+    'Industria textil',
+    'Campeones ocultos',
+    'Juegos Olímpicos',
+    'Economía circular',
+    'Far Eastern New Century',
+    'Eclat Textile',
+    'Junyi',
+  ]
 subcategory: '經濟發展'
-tags: ['紡織業', '隱形冠軍', '奧運', '循環經濟', '遠東新', '儒鴻', '聚陽']
-readingTime: 10
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/紡織業.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
-translatedAt: '2026-07-23T23:06:50+08:00'
-author: 'Taiwan.md Contributors'
+translatedAt: '2026-11-04T16:48:28.327984+00:00'
 ---
 
 > 30 segundos de resumen: La industria textil de Taiwán fue un motor económico en la década de 1960, pero a principios de los 90 fue etiquetada como una "industria en declive" debido a la presión de costos. Sin embargo, gracias a tres décadas de transformación tecnológica, Taiwán suministra más del 70% de las telas funcionales deportivas al mundo[^1]. Desde la "confección con gases industriales" para el equipo olímpico de China en París 2024[^2], hasta que 23 de los 48 equipos participantes en el Mundial de Clubes 2026 utilizan hilo taiwanés[^3], esta isla está redefiniendo el estándar de la moda sostenible global mediante residuos y tecnología avanzada.
