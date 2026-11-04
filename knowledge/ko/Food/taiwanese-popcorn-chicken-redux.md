@@ -2,19 +2,19 @@
 title: '옌수지(鹽酥雞) — 대만 야식의 불꽃'
 description: '1975년 실패한 식당 주인 천팅즈가 시먼딩 노점에서 조상 전래 양념으로 튀겨낸 닭 한 조각. 50년이 지난 지금, 옌수지는 대만 심야 거리를 지탱하는 가장 믿음직한 기반 시설이 되었다.'
 date: 2026-04-01
+category: 'Food'
 tags:
   ['옌수지', '시엔수지', '길거리 음식', '야시장', '튀김', '야식 문화', '바질']
 subcategory: '經典小吃'
-category: 'Food'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-06-26
-translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a'
-sourceContentHash: 'sha256:ff821213812f38cb'
-sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-06-27T00:35:00Z'
 lastHumanReview: true
+translatedFrom: 'Food/台灣鹽酥雞.md'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
+sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
+translatedAt: '2026-11-04T14:11:28.548931+00:00'
 ---
 
 > **30초 요약:** 옌수지(鹽酥雞)는 대만을 대표하는 서민 튀김 요리다. 1975년 천팅즈(陳廷智)가 타이베이 시먼딩에서 첫 노점을 열었으며, 독특한 양념 레시피와 후추소금, 바질 잎으로 튀긴 닭 조각은 삽시간에 입소문을 탔다[^1]. 50년이 지난 지금 옌수지 노점은 골목 구석구석에 자리 잡고 있으며, CNN은 두 차례나 이것을 "대만에서 반드시 먹어야 할 음식"으로 선정했다[^2]. 하지만 옌수지의 진짜 매력은 맛 자체보다 그 존재 방식에 있다 — 가게도, 간판도 없이 포장마차 하나, 기름 한 솥, 바질 한 움큼으로 영업하는 '심야 기반 시설'.
@@ -81,11 +81,12 @@ CNN은 2015년 '대만에서 없어서는 안 될 40가지 음식'과 '대만 �
 
 50년 전, 천팅즈는 상상하지 못했을 것이다. 실패한 식당 주인이 밀던 그 포장마차가, 섬 전체 사람들이 아무리 늦은 밤에도 기댈 수 있는 가장 믿음직한 위안이 되리라는 것을. 옌수지는 정교한 요리가 아니다. 그 존재 이유는 단 하나다 — 몇 시가 됐든, 어디에 있든, 골목 저 끝 기름 솥은 언제나 당신을 기다리고 있다는 것.
 
-## 더 읽어보기
+## 연관 읽을거리
 
-- [야시장 문화](/ko/food/night-market-culture) — 옌수지의 주요 유통 무대이자, 대만식 야식 생태계의 핵심 장
-- [대만 아침 문화](/ko/food/taiwan-breakfast-culture) — 새벽부터 심야까지, 대만의 두 가지 중요한 식사 시간대 대조
-- [대만 편의점 문화](/ko/lifestyle/convenience-store-culture) — 옌수지 노점과 편의점이 함께 짜내는 대만의 24시간 식문화 풍경
+- [야시장 문화](/ko/food/night-market-culture) — 옌수지의 주요 유통 공간이자 타이완식 야식 생태계의 핵심 무대
+- [타이완 조식 문화](/ko/food/taiwan-breakfast-culture) — 이른 새벽부터 늦은 밤까지, 타이완의 두 가지 중요한 식사 시간대 비교
+- [타이완 편의점 문화](/ko/lifestyle/convenience-store-culture) — 옌수지 노점과 편의점이 함께 구성하는 타이완의 24시간 음식 경관
+- [고구마볼(地瓜球)](/ko/food/sweet-potato-balls) — 같은 야시장 거리의 또 다른 기름 솥: 고구마볼의 빈 공간은 상인이 국자로 한 솥씩 눌러가며 만든 것이다
 
 ## 참고 문헌
 
