@@ -2,19 +2,21 @@
 title: '傅崐萁：後山の「花蓮王」から国会「総召」へ至る権力の螺旋'
 description: '1990 年代に株式市場の大物「凱聚小傅」と呼ばれた時期から、2001 年の国会進出、2009 年の花蓮掌握に至るまで、傅崐萁は後山に二十年にわたり、中央さえ揺るがしにくい「傅家王朝」を築きました。株価操作事件で在職のまま収監され、偽装離婚で妻を副県長に任命し、2024 年には立法院に復帰して国民党団総召を務め、代表団を率いて訪中しました。彼は台湾政界における権力の粘り強さと争議性の極致を示しています。'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['花蓮', '政治家', '国民党', '立法院']
-readingTime: 12
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-06-02T00:39:59+08:00'
+translatedAt: '2026-11-04T23:25:31.003839+00:00'
 ---
 
 > **30 秒でわかる概要：**
@@ -48,18 +50,18 @@ translatedAt: '2026-06-02T00:39:59+08:00'
 
 ## 参考資料
 
-[^1]: [雙面傅崐萁──透視花蓮王現象](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - 報導者 The Reporter
+[^1]: [二面性の傅崐萁──花蓮王現象を透視する](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - 報道者 The Reporter
 
-[^2]: [任妻當副手 傅崐萁假離婚判刑6月](https://news.tvbs.com.tw/politics/53325) — TVBS 新聞網：花蓮地方裁判所は文書偽造罪により傅崐萁に 6 か月、徐榛蔚に 4 か月の刑を言い渡しました（花蓮地方裁判所 99 年度易字第 358 号刑事判決）
+[^2]: [妻を副手に据え 傅崐萁が偽装離婚で懲役6月](https://news.tvbs.com.tw/politics/53325) — TVBSニュースネット：花蓮地裁が偽造文書罪で傅崐萁に懲役6月、徐榛蔚に懲役4月（花蓮地方法院 99年度易字第358号刑事判決）
 
-[^3]: [傅崐萁炒股案定讞：為什麼當縣長被解職，當立委卻能帶職入監？](https://opinion.udn.com/opinion/story/12322/4572559) — 鳴人堂：聯合新聞網の報道
+[^3]: [傅崐萁株取引事件が確定判決：なぜ県知事時代は解職、立法委員なら職務継続で収監可能なのか？](https://opinion.udn.com/opinion/story/12322/4572559) — 鳴人堂：聯合新聞網の報道
 
-[^4]: [傅崐萁炒作凱聚案 判刑2年10月定讞須入獄](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — 中央社報道：最高法院は 2020 年 5 月 14 日に上訴を棄却し、有罪が確定しました
+[^4]: [傅崐萁が凱聚案で株価操作 懲役2年10月確定で収監へ](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — 中央社報道：最高法院が2020年5月14日に上訴を棄却し確定判決
 
-[^5]: [從花蓮王到國會暴君，解析傅崐萁的權力迷思與國民黨的縱容危機！](https://newcongress.tw/?p=32791) — 新公民議會、筆者は秦靖（評論用語「国会の暴君」はこの記事の見出しに由来します）
+[^5]: [「花蓮王」から「国会暴君」へ、傅崐萁の権力神話と国民党の容認の危機を分析！](https://newcongress.tw/?p=32791) — 新公民議会、著者：秦靖（評論用語「国会暴君」はこの記事のタイトルから）
 
-[^6]: [地震爭議下訪中 傅崐萁：災後重建振興是重要課題](https://www.cna.com.tw/news/acn/202404270082.aspx) — 中央社報道：2024 年 4 月、花蓮で余震が続く中、代表団を率いて北京を訪問し、国台弁副主任の潘賢掌が出迎え、全行程に同行しました
+[^6]: [地震を巡る論争の中での訪中 傅崐萁「災害復興・振興は重要課題」](https://www.cna.com.tw/news/acn/202404270082.aspx) — 中央社報道：2024年4月、花蓮で余震が続く中で代表団を率いて北京を訪問、国台弁副主任の潘賢掌が出迎え全程同行
 
-[^7]: [【傅崐萁再陷風暴】家族縱橫花蓮逾 30 年 傅崐萁爭議一次看](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo 新聞（鏡週刊）
+[^7]: [【傅崐萁、再び嵐の渦中】家族が花蓮で30年以上にわたり勢力を張る 傅崐萁の争点を一覧](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahooニュース（鏡週刊）
 
-[^8]: [五星縣長 VS 花蓮王，那個才是傅崐萁？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — 報導者 The Reporter「雙面傅崐萁」シリーズ形象篇
+[^8]: [「五つ星県長」VS「花蓮王」、どちらが真の傅崐萁か？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — 報道者 The Reporter「二面性の傅崐萁」シリーズのイメージ篇

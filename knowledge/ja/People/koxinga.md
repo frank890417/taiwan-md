@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-07-28T19:24:14+08:00'
+translatedAt: '2026-11-04T22:32:01.212654+00:00'
 ---
 
 # 鄭成功：日本生まれ、中国で育ち、台湾で死んだ三十七年
