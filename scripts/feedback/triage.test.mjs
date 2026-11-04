@@ -30,6 +30,7 @@ import {
 import {
   parseArgs,
   partitionExcluded,
+  shouldPrintIntakeDisambiguation,
   selectForShow,
   formatForShow,
   formatIntakeAge,
@@ -561,6 +562,31 @@ test('partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄', () => 
     ['bbb'],
   );
   assert.deepEqual(p.unmatched, []);
+});
+
+test('shouldPrintIntakeDisambiguation: 取數為空 → 印（v1.9 以來的原行為）', () => {
+  assert.equal(shouldPrintIntakeDisambiguation({ fetched: 0, kept: 0 }), true);
+});
+
+test('shouldPrintIntakeDisambiguation: 洪水填滿窗口但整批被攔掉 → 要印（v1.16 修的那一天）', () => {
+  // 2026-10-30 那批攻擊的形狀：fetched=81、全部 --exclude、kept=0。
+  // 舊條件只看 fetched,於是三行在最該問「讀者還送不送得進來」的那天集體沉默。
+  assert.equal(shouldPrintIntakeDisambiguation({ fetched: 81, kept: 0 }), true);
+});
+
+test('shouldPrintIntakeDisambiguation: 有東西要轉錄 → 不印（不是每輪都印)', () => {
+  assert.equal(
+    shouldPrintIntakeDisambiguation({ fetched: 81, kept: 1 }),
+    false,
+  );
+  assert.equal(shouldPrintIntakeDisambiguation({ fetched: 3, kept: 3 }), false);
+});
+
+test('shouldPrintIntakeDisambiguation: seed 模式不碰網路,一律不印', () => {
+  assert.equal(
+    shouldPrintIntakeDisambiguation({ fetched: 0, kept: 0, seed: true }),
+    false,
+  );
 });
 
 test('partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默', () => {

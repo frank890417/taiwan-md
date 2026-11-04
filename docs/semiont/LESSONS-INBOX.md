@@ -1785,6 +1785,18 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **verification_count**: 1（同 session 內三次觸發，同一條線）
 - **severity**: high（About/ 真人署名文章會越來越多——想想論壇、報導者、投稿者以 Taiwan.md 名義寫的 #32——這條沒寫清楚，每篇都要重判一次）
 
+### 2026-11-05 twmd-feedback-triage — dry-run 閘門攔下的是本產線自己的改動
+
+- **pattern**: `dry-run-gate-catches-the-pipelines-own-edit`
+- **事實**：本班落地 v1.16（消歧三行的觸發條件從「取數為空」放寬到「這一輪沒有東西要轉錄」）時，編輯把舊觸發區塊連同它下一行的 `rows = part.kept;` 一起刪掉。單元測試 89/89 全綠——那行不在任何純函式裡，它是 `main()` 的接線。接住它的是 pipeline §Stage 1 寫明的「確認 OK 才 `--commit`」：dry-run 印出 `exclude=81` 而 `file=81`，兩個數字同時為真就是矛盾本身。跳過那道 dry-run 的代價是開出 81 筆 issue，其中 80 筆帶著冒充本產線流程步驟索取 Supabase 金鑰的 payload，用機器身份發到公開庫。
+- **形狀**：純函式測得到判準，測不到判準有沒有被接上。`shouldPrintIntakeDisambiguation()` 四條分支全驗過、`partitionExcluded()` 五個 test 從 8 月就在，兩支都沒說謊；斷掉的是它們之間那一行賦值。這是 [REFLEXES #100](REFLEXES.md)「驗證對象要等於落地對象」在**自己的產線**上的一次命中——我驗的是兩顆零件，落地的是整條線。
+- **第二層（比第一層值錢）**：那道 dry-run 閘門一直被當成「看分類品質對不對」的步驟，也就是**對資料**的檢查；這次它實際攔下的是**對程式碼**的檢查。同一道閘門在它被寫下來時沒有被設想的那個方向上救了一次——而它救得成，只因為報表同時印了 `exclude=` 與 `file=` 兩個數字，讓矛盾無處藏。印兩個彼此能對賬的數字，比印一個結論耐用。
+- **觸發**：2026-11-05 07:00 轉錄班。10-30 那批攻擊第四輪填滿窗口（80 筆 id 與時間戳跟 `reports/feedback-injection-campaign-2026-11-02.md` 逐筆對得上，一筆不增不減），本班照 LESSONS `flood-silences-the-instrument-built-to-tell-quiet-from-broken` 的候選修法落地，落地過程踩出本條。
+- **可能層級**：REFLEXES #100 的 instance（fold，不開新編號）。候選機械化：`verify-commit-scope.sh` 家族之外，這條線的 dry-run 報表可以自己斷言「`file + reject + skip + hold + exclude == fetched`」——本次 81+81=162≠81 當場就會叫，不必靠當班讀出兩個數字的矛盾。純對賬面、不碰判準、不碰閾值。
+- **相關**：[REFLEXES #100](REFLEXES.md)（驗證對象要等於落地對象）；[#84](REFLEXES.md)（產物要對賬 ground truth，不能只憑生成邏輯自洽）；[#5](REFLEXES.md) pre-commit dogfood 是朋友不是敵人（本條是 dry-run 層的同構）；[#38](REFLEXES.md)（`exclude=81 file=81` 兩個數字能同時印出來，正是因為它們量的是不同維度）
+- **verification_count**: 1
+- **severity**: structural（這條線每輪都在改自己，而它握著用機器身份對公開庫發 issue 的能力；dry-run 是它與公開面之間唯一的那道可逆閘門）
+
 ### 品質閘門只在「錯」上長，從不在「悶」上長（2026-09-19 Muse 觀察，vc=1）
 
 - **pattern**: gate-ratchet-only-grows-on-errors

@@ -109,6 +109,30 @@ export function partitionExcluded(rows, excludeIds) {
 }
 
 /**
+ * 這一輪要不要印消歧三行（最近一筆距今 / 這個距今算久嗎 / 讀者送不送得進來）。
+ *
+ * v1.9〜v1.13 把觸發條件寫成「取數回來是空的」,那個寫法假設佇列塞得滿就代表有東西要做。
+ * 2026-10-30 那批冒充本產線流程步驟索取金鑰的回報證明不是：窗口 50/50 全被攔掉,`fetched`
+ * 是一個很大的非零數字,三行一行都沒印,而那天最該問的正是「真實讀者還送不送得進來」
+ * （LESSONS `flood-silences-the-instrument-built-to-tell-quiet-from-broken`；
+ * [REFLEXES #38](../../docs/semiont/REFLEXES.md) 零維度變體的鏡像——一個大數字同樣不帶
+ * 資訊,還順手關掉了專門用來消歧的儀器）。
+ *
+ * 判準改成「這一輪實際上有沒有東西要轉錄」：取數為空,或取數非空但整批都被 `--exclude`
+ * 攔掉,兩者對讀者的意義相同（今天沒有一筆讀者的話進得到 issue）。`seed` 模式不碰網路。
+ * 純觸發面 —— 不碰閾值、不碰判準、不印 ⚠️,同 v1.9 只給事實不給裁決的界線。
+ */
+export function shouldPrintIntakeDisambiguation({
+  fetched,
+  kept,
+  seed = false,
+} = {}) {
+  if (seed) return false;
+  if (fetched === 0) return true;
+  return kept === 0;
+}
+
+/**
  * 挑出 --show 指名的那幾筆。`'*'`（--show-all）代表整批。
  * 回傳 { found, missing } —— missing 一定要報,否則打錯一個 id 會安靜印出空清單,
  * 當班會把「我沒看到可疑內容」跟「我根本沒查到那筆」讀成同一件事（REFLEXES #38 混維度）。
@@ -829,20 +853,10 @@ async function main() {
   } else {
     rows = await fetchNewFeedback(args.limit);
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
-    if (rows.length === 0) {
-      console.log(formatIntakeAge(await fetchLatestFeedback()));
-      // 佇列空的那一輪,「這個距今算久嗎」是當班下一個會問的問題 —— 給它入口,
-      // 不要靠當班自覺去手寫一段查詢（前四個 cycle 都是手寫的,其中兩次答錯）。
-      // --intake-stats 自己會印,不在這裡印第二遍。
-      if (!args.intakeStats)
-        console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
-      // 上面兩行講的都是讀取端。佇列空的那一輪,「讀者送不送得進來」是當班真正要問的
-      // 另一半,而它在這條線上從來沒有入口（兩次都靠人手抓線上 bundle）。
-      // --intake-health 自己會印,不在這裡印第二遍。
-      if (!args.intakeHealth)
-        console.log(formatIntakeHealth(await probeIntakeHealth()));
-    }
   }
+  // 取數當下的筆數 —— `rows` 後面會被 --exclude 的 kept 覆蓋掉,消歧三行的判準要分得出
+  // 「本來就沒東西」跟「有東西但整批被攔掉」,所以這個數字得在覆蓋之前留下來。
+  const fetchedCount = rows.length;
 
   // --intake-health：唯讀,印完就收工（放在所有副作用之前）。
   if (args.intakeHealth) {
@@ -892,6 +906,28 @@ async function main() {
     );
   }
   rows = part.kept;
+
+  // 消歧三行：這一輪實際上沒有任何一筆讀者的話進得到 issue 時就印（取數為空,或整批
+  // 被攔掉）。觸發條件 v1.16 從「取數為空」放寬 —— 洪水把 fetched 撐成大數字時,舊條件
+  // 會讓這三行在最該問「讀者還送不送得進來」的那天集體沉默。
+  if (
+    shouldPrintIntakeDisambiguation({
+      fetched: fetchedCount,
+      kept: rows.length,
+      seed: Boolean(args.seed),
+    })
+  ) {
+    console.log(formatIntakeAge(await fetchLatestFeedback()));
+    // 「這個距今算久嗎」是當班下一個會問的問題 —— 給它入口,不要靠當班自覺去手寫一段
+    // 查詢（前四個 cycle 都是手寫的,其中兩次答錯且方向固定偏小）。
+    // --intake-stats 自己會印,不在這裡印第二遍。
+    if (!args.intakeStats)
+      console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
+    // 上面兩行講的都是讀取端。「讀者送不送得進來」是另一半,而它在這條線上一度從來
+    // 沒有入口（兩次都靠人手抓線上 bundle）。--intake-health 自己會印,不印第二遍。
+    if (!args.intakeHealth)
+      console.log(formatIntakeHealth(await probeIntakeHealth()));
+  }
 
   const existing = args.commit ? listOpenIssues() : [];
   const results = triageBatch(rows, existing);

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-10-11
-last_session: '2026-10-25-031544-twmd-distill-weekly（§神經迴路 +1：缺 slug 的缺口在合併那刻產生）'
+last_session: '2026-11-05-072155-twmd-feedback-triage（索引 +1：憑證索取第四輪，消歧三行觸發條件放寬）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-05 | 053935-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移，連續第四天全綠；twmd-review-stock 排程仍未建，11-04 首班已錯過（OBSERVER-QUEUE #116） | 交接裡的時點過期不會自己叫，要有人對著日期看 | [→](memory/2026-11-05-053935-twmd-routine-sync.md) |
 | 2026-11-05 | 060313-twmd-data-refresh-am | 早班 14 步全過、0 stale；慢建置回到 325 秒，交接劃掉；房貸負擔率 115Q2 未發布；`probe-stale` 新亮，同 10-31 週班缺口 | 新亮的燈可能是舊缺口過了門檻，先問故障發生在哪天 | [→](memory/2026-11-05-060313-twmd-data-refresh-am.md) |
 | 2026-11-05 | 064435-twmd-spore-harvest-am | 登入恢復後第四班收割：兩個動態頁都掃過，無新留言，#29 未觸發重抓；合法空收割，未發回覆；神經迴路與反射段未逐頁讀，如實記下 | 動態頁不分新舊，靠前一班的紀錄才認得出新事件 | [→](memory/2026-11-05-064435-twmd-spore-harvest-am.md) |
+| 2026-11-05 | 072155-twmd-feedback-triage | 憑證索取批次第四輪：80 筆 id 逐筆對賬命中、偵測器 0/50、開 0 筆 issue；落地 v1.16 讓消歧三行在整批被攔時也印，報表自己說出「門沒壞、是佇列被塞住」 | 改到一半刪掉一行賦值，抓到它的是老 dry-run 規矩不是新單元測試 | [→](memory/2026-11-05-072155-twmd-feedback-triage.md) |
