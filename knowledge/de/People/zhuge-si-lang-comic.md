@@ -15,22 +15,26 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp'
+imageCredit: 'Ralff Nestor Nacor'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/諸葛四郎.md'
-sourceCommitSha: 'e38376ee4'
-sourceContentHash: 'sha256:e3fbaeedac9c6f10'
-sourceBodyHash: 'sha256:1b0f00900854455d'
-translatedAt: '2026-09-14T14:50:08+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:b2501899e99db9e7'
+sourceBodyHash: 'sha256:1b666fa0ae47a4ce'
+translatedAt: '2026-11-04T15:34:49.123734+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Ye Hongjiǎ verband die Angst nach der Blutigen Ära, die Treue der Kapitelromane, die Logik der japanischen Deduktion und die Verlagsszene Taiwans zu einem Jungen namens Zhuge Sìráng. Das Werk war einst landesweit beliebt, später jedoch durch Zensur und Marktveränderungen verschwunden. Heute, wenn wir ihn neu betrachten, geht es nicht nur um die Wiederbelebung einer Figur, sondern um die Entdeckung, wie taiwanesische Comics ihre eigene Grammatik entwickelten.
+> **30-Sekunden-Überblick:** Ye Hongjiǎ verschmolz die Angst nach der Weißen Terror-Ära, die Loyalität klassischer Episodenromane, die Mechanismen japanischer Krimis und das taiwanesische Verlagswesen zu einem Jungen namens Zhuge Sìráng. Seine Werke waren einst in ganz Taiwan populär, verschwanden jedoch aufgrund von Zensur und Marktveränderungen. Ihn heute neu zu betrachten bedeutet nicht nur, einen Charakter zurückzufinden, sondern zu sehen, wie die taiwanesischen Comics einst ihre eigene Sprache entwickelten.
 
-1958 begann Ye Hongjiǎ in Taipeh im Wochenmagazin „Manhua Dàwáng“ mit der Serie „Zhuge Sìráng schlägt die Teufelpartei“. Er war 34 Jahre alt und mehr als zehn Jahre nach seiner Haftstrafe wegen politischer Comics. Über 10.000 Leser sendeten Rätsel ein, um die wahre Identität des Teufelsführers zu erraten. Zhuge Sìráng war ursprünglich nur als zehnteilige Serie geplant, wurde aber durch Briefe und Marktbedürfnisse weitergeführt.[^1] [^2]
+Im Jahr 1958 begann Ye Hongjiǎ in der in Taipeh erscheinenden Wochenzeitschrift 《漫畫大王》 mit der Fortsetzungsgeschichte 《諸葛四郎大戰魔鬼黨》. In diesem Jahr war er 34 Jahre alt, mehr als zehn Jahre nachdem er wegen politischer Karikaturen inhaftiert worden war. Leser schickten über 10.000 Spekulationen ein, um die wahre Identität des Anführers der „Teufelspartei“ zu erfahren. Ursprünglich war geplant, Zhuge Sìráng nur in etwa zehn Episoden zu zeichnen, doch die Briefe und der Markt hielten die Serie am Leben. [^1] [^2]
 
-Ein unintuitiver Aspekt dieses Anfangs: Zhuge Sìráng sieht wie ein Krieger aus dem antiken China aus, ist doch ein Produkt der taiwanesischen Verlagsszene nach dem Krieg – geformt durch japanische Comics, Filme, Verleihgeschäfte und lokale Druckereien. Er ist kein einfacher „traditioneller Held“, sondern ein Produkt des kulturellen Austauschs.
+Dieser Ausgangspunkt birgt einen kontraintuitiven Aspekt: Zhuge Sìráng wirkt wie ein Schwertkämpfer aus dem alten China, ist jedoch ein Charakter, der im taiwanesischen Verlagswesen der Nachkriegszeit durch die Verschmelzung von japanischen Mangas, Filmen, Verleihbuchhandlungen und lokaler Drucktechnik geschmiedet wurde. Er ist kein einfacher „traditioneller Held“, sondern ein taiwanesisches Produkt, das in einem kulturellen Mischmasch entstanden ist.
 
-📝 **Kuratorische Notiz:** Der faszinierendste Aspekt von Zhuge Sìráng ist nicht seine Kampfkunst, sondern wie er uns zeigt, wie eine Insel fremde Formen zerlegt und neu kombiniert, um ihre eigenen Helden zu erschaffen.
+📝 **Notizen des Kurators:** Das Wertvollste an der Wiederentdeckung von Zhuge Sìráng ist nicht seine Kampfkraft, sondern die Art und Weise, wie er uns zeigt, wie eine Insel fremde Formen dekonstruiert und daraus ihre eigenen Helden neu zusammensetzt.
 
 ## Ye Hongjiǎs Helden – nicht zuerst
 
@@ -80,17 +84,17 @@ Gleichermaßen wichtig sind die Handschriften. 2024 wurden im Rahmen der hundert
 
 Ye Jiǎolóng sagte: „Ein gewöhnlicher Mensch kann außergewöhnliche Dinge tun.“[^1] Als bloße Motivation wäre diese Aussage zu schwach. Im Kontext der Ausstellung bedeutet sie: Ein von der Zeit unterdrückter Künstler, dessen Werk durch Familienliebe, Museumsarchivierung, Forschung und neue Generationen neu entdeckt wurde, tritt erneut in den öffentlichen Raum.
 
-## Vom Gedächtnis in die Popkultur
+## Von der Erinnerung zurück zur öffentlichen Kultur
 
-Zhuge Sìráng wurde in den 1970er-Jahren gefilmt, in den 1980er-Jahren ins Fernsehprogramm gebracht und 2022 erschien der 3D-Animationsfilm „Zhuge Sìráng: Der Held der Helden“.[^1] 2024 präsentierte das Nationales Museum für Comics mit den drei Ausstellungen „Zhuge Sìráng 100“, „Werden zum Zhuge Sìráng“ und „Heldenherz“ Originalzeichnungen, Animationen, Lesererinnerungen und Comic-Geschichte im selben Komplex.[^1] [^7]
+Zhuge Sìráng wurde in den 1970er-Jahren als Film und in den 1980er-Jahren als Fernsehserie adaptiert; zudem erschien 2022 der 3D-Animationsfilm 《Zhuge Sìráng: Held der Helden》. [^1] Im Jahr 2024 präsentierte das National Comic Museum mit drei Ausstellungsreihen – „Zhuge Sìráng 100“, „Werde zu Zhuge Sìráng“ und „Heldenseele“ – Originalmanuskripte, Animationen, Erinnerungen der Leser und die Geschichte des Comics am selben Standort. [^1] [^7]
 
-Diese Neuverfilmungen bedeuten nicht, dass das Original vollständig erhalten ist. Jede Neugestaltung, jedes erneute Einfärben, jede Ausstellung oder Kommerzialisierung wählt erneut aus, welche Figuren, Töne und Werte bewahrt bleiben. Die von Wissenschaftlern genannten „Loyalität, Edellei, Klugheit und Mut“ sind wichtige ethische Grundlagen des Werks, aber nicht die einzigen. Zhuge Sìráng enthält zugleich Masken, Fehlidentifikationen, kulturelle Aneignung, Verlagsarbeit und die Lücken nach der Zensur.[^5]
+Diese Adaptionen bedeuten nicht, dass das Originalwerk vollständig bewahrt wurde. Jedes Mal, wenn neu koloriert, adaptiert, ausgestellt oder kommerzialisiert wird, findet eine erneute Auswahl darüber statt, welche Charaktere, Tonalitäten und Werte erhalten bleiben sollen. Die in der Forschung genannten Werte wie „Kindliche Pietät (Xiao), Loyalität, Rechtschaffenheit, Klugheit und Mut“ bilden zwar das wichtige ethische Gerüst des Werks, stellen aber nicht alles dar. Zhuge Sìráng umfasst zugleich Masken, Verwechslungen, interkulturelle Aneignung, den Arbeitsaufwand der Veröffentlichung sowie die Lücken, die durch Zensur entstanden sind. [^5]
 
-Ein Foto von Wikimedia Commons zeigt das Gebäude des Nationalen Museums für Comics, ein bewahrtes Gebäude der Zeit der japanischen Kolonialherrschaft. Es ist kein Originalblatt von Zhuge Sìráng und kann nicht als historischer Beweis für das Werk dienen. In diesem Artikel dient es lediglich dazu, zu zeigen: Comiclager brauchen Raum – und dieser Raum ordnet die Figuren neu an.
+Die Fotos des National Comic Museum auf Wikimedia Commons zeigen ein erhaltenes Gebäude aus der japanischen Kolonialzeit. Es handelt sich dabei nicht um das Originalmanuskript von Zhuge Sìráng und es kann auch nicht als historischer Beweis für das Werk dienen. Im Kontext dieses Artikels dient es lediglich dazu, auf eines hinzuweisen: Die Bewahrung von Comics benötigt Raum, und dieser Raum arrangiert die Art und Weise des Betrachtens der Werke neu. [^8]
 
-![Das Gebäude des Nationalen Museums für Comics in Taichung, als moderne Kulisse für die Ausstellung und Neupräsentation von Zhuge Sìráng.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
+![Das Gelände des National Comic Museum als moderner Ort für die Archivierung und Neudarbietung von Zhuge Sìráng.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
 
-- Bildunterschrift: Foto von Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. Das Bild dient nur als Beispiel für das Museum, nicht als Ersatz für das Originalwerk. Quelle: [Wikimedia Commons-Bildseite](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\*
+_Bildnachweis: Foto von Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. Das Bild dient lediglich als Illustration des Schauplatzes des National Comic Museum; das Gebäude wird nicht fälschlicherweise als Originalwerk von Zhuge Sìráng dargestellt. Quelle: [Wikimedia Commons Bildseite](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
 
 ## Nicht die Kindheit einfrieren
 

@@ -17,13 +17,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13
 lastHumanReview: false
+image: '/article-images/food/babu-ice-cart-vendor-1987.webp'
+imageCredit: 'Allenwang6212a'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Memorybank2019-%E5%8F%AD%E5%99%97%E5%86%B0%E8%BB%8A%E5%B0%8F%E8%B2%A9.jpg'
 curation: 'incubating'
 readingTime: 13
 translatedFrom: 'Food/叭噗冰.md'
-sourceCommitSha: '077700e9b'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f85e683b942ab42b'
 sourceBodyHash: 'sha256:d870fca28f0e56bd'
-translatedAt: '2026-09-14T00:53:36+08:00'
+translatedAt: '2026-11-04T15:36:26.128226+00:00'
 ---
 
 # Papu-Eis: Erst erreicht das Horn die Straßenecke, dann erscheint der Eiskübel

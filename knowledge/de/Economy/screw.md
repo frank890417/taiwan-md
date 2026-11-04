@@ -18,14 +18,16 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-04T16:10:06.136024+00:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Taiwan war einst ein Versorgungszentrum, bei dem „aus drei US-Verbindern einer aus Taiwan“ stammte und das im Vietnamkrieg eine entscheidende Rolle spielte. Doch angesichts der 50 % Zölle nach Abschnitt 232, die die USA im Jahr 2025 verhängten, und der drohenden CO2-Grenzausgleichsabgabe der EU im Jahr 2026 durchläuft diese „Industrie des Reis“ – mit einem Jahresumsatz von über 50 Milliarden Taischones und der Versorgung von 30.000 Haushalten in Nordkaohsiung – einen existenziellen Wandel „vom Verkauf nach Gewicht zum Verkauf nach Substanz“.
+**30-Sekunden-Überblick:** Taiwan war einst ein zentrales Versorgungszentrum, von dem „jede dritte Befestigungseinheit aus den USA aus Taiwan stammte“, und spielte sogar während des Vietnamkriegs eine entscheidende Rolle. Doch angesichts der von den USA im Jahr 2025 verhängten hohen Zölle von 50 % gemäß Abschnitt 232 sowie der bevorstehenden EU-CBAM-CO2-Grenzausgleichsabgabe im Jahr 2026 durchläuft diese Branche – das „Reis des Industriezeitalters“ mit einem jährlichen Produktionswert von über NT$50 Milliarden, das 30.000 Familien in Nord-Kaohsiung ernährt – eine existenzielle Transformation: vom Verkauf nach Gewicht hin zum Verkauf nach Stückzahl.
 
 ## Die Geburt der Helden des Vietnamkriegs: Wie kleine Schrauben den Grundstein für das „Schraubenreich“ Taiwans legten?
 
