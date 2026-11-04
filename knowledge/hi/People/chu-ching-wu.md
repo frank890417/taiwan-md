@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-08-04T06:18:10+08:00'
+translatedAt: '2026-11-04T21:37:36.662692+00:00'
 ---
 
 # चू चिंग-वु: 1987 में तरल नाइट्रोजन तापमान की सीमा पार, उच्च-तापमान सुपरकंडक्टिविटी Tc=93K के सह-खोजकर्ता

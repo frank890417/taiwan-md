@@ -2,9 +2,7 @@
 title: 'गुओ जिंफा: शाओर्यूज़ोंग के पीछे का निम्न स्वर आत्मा'
 description: "दाई दाओचेंग जूता दुकान के प्रशिक्षु से ताइवान के निम्न स्वर गायक राजा तक, गुओ जिंफा ने 'शाओर्यूज़ोंग' के एक गीत से युद्धोत्तर ताइवान के साधारण लोगों की कष्ट और दृढ़ता को गाया, और मंच पर अपनी आखिरी जीवन की किरण जला दिया।"
 date: 2026-04-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'संगीत',
@@ -13,15 +11,19 @@ tags:
     'लो-आवृत्ति गायक राजा',
     'क़ैद-नियंत्रण प्रतिबंधित गीत',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-07-25T07:56:00+08:00'
+translatedAt: '2026-11-04T21:47:07.713618+00:00'
 ---
 
 > **📝 क्यूरेटर का नोट**
