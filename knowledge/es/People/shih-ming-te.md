@@ -2,9 +2,7 @@
 title: 'Shih Ming-teh: Veinticinco años entre rejas, al final levantó la bandera contra su propio partido'
 description: 'Tras el Incidente de Formosa en 1979, Shih Ming-teh, acusado como cabecilla, pronunció un discurso apasionado en el tribunal militar: no se declaró culpable, no suplicó clemencia y fue condenado finalmente a cadena perpetua. Pasó más de veinticinco años en prisión a lo largo de su vida, convirtiéndose en uno de los mártires más importantes del movimiento democrático taiwanés. Pero en 2006, este hombre que había ayudado a cimentar el poder del Partido Democrático Progresista (DPP) dio un giro y lideró el movimiento de los Camisas Rojas contra Chen Shui-bian. El 15 de enero de 2024, el día de su 83.º cumpleaños, falleció cargando consigo esta contradicción irresoluble.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'Movimiento democrático',
@@ -13,17 +11,19 @@ tags:
     'Movimiento de las Camisas Rojas contra Chen',
     'Líder político',
   ]
-readingTime: 9
-#   whats_excluded: "中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控"
-#   where_it_hedges: "坐牢確切年數（各來源介於25-26年，採較保守的二十五年以上表述）；1962年被捕的政治組織確切名稱（史料略有出入）"'
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c7a690e21bd72631'
 sourceBodyHash: 'sha256:f379180b5e8bcecc'
-translatedAt: '2026-05-26T21:07:27Z'
+translatedAt: '2026-11-04T21:49:02.067635+00:00'
 ---
 
 # Shih Ming-teh: Veinticinco años entre rejas, al final levantó la bandera contra su propio partido

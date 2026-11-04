@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從宜蘭家庭到葛蘭姆首席的跨度——她不是藝術世家出身，她是從零打出來的。這個對比比任何頭銜都說明她的位置。"
-#   whats_excluded: "葛蘭姆技巧細節；各場演出評論摘錄；拉芳每年活動清單"
-#   where_it_hedges: "「參演李安電影」無具體作品無法驗證，已移除"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-04T21:39:15.072840+00:00'
 ---
 
 # Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024

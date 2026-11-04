@@ -2,8 +2,7 @@
 title: 'Tsai A-ga: del pionero de los influencers al trabajo social, el hombre que usó 18 años de alcance digital para transformar su destino'
 description: 'En 2022, Tsai A-ga, el primer influencer taiwanés en alcanzar el millón de suscriptores, vendió su casa para fundar la "Asociación de Bienestar Social Hao Li Jia", convirtiendo 18 años de influencia acumulada en una vocación de servicio social. Desde el video de 2008 en el que quemó una bandera olímpica de Pekín hasta el récord de 2022 en el que Tsai Tao-kuei se convirtió en el "influencer más joven en alcanzar el millón de suscriptores", Tsai A-ga, entre tráfico digital, controversias y traiciones, siempre ha protegido ese alma de trabajador social que busca encender la esperanza de los niños en situación de vulnerabilidad.'
 date: 2026-04-23
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Tsai A-ga',
@@ -13,15 +12,19 @@ tags:
     'Bienestar social',
     'Cultura taiwanesa',
   ]
-readingTime: 12
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
-translatedFrom: People/蔡阿嘎.md
-sourceCommitSha: 'f5975a22'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/蔡阿嘎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: 2026-05-01T22:19:10+08:00
-featured: false
+translatedAt: '2026-11-04T22:00:28.104498+00:00'
 ---
 
 > **Resumen en 30 segundos:**

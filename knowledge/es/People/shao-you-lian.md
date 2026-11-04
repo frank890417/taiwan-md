@@ -2,9 +2,7 @@
 title: 'Shao You-lian: el administrador conservador tras el brillo de Liu Ming-chuan y el verdadero anclaje de Taipéi como capital provincial'
 description: '¿Fue el culpable que la historia marcó como quien “puso fin a las Nuevas Políticas”, o el guardián fiscal más pragmático del Taiwán de la dinastía Qing? Tras las grandes obras emprendidas por Liu Ming-chuan, Shao You-lian completó, en medio de una hacienda extremadamente restringida, el ferrocarril de Taipéi a Hsinchu, fijó oficialmente la capital provincial de Taiwán en Taipéi y dejó a las generaciones posteriores un debate difícil de resolver: ¿conservar lo existente es retroceder, o es otra forma de gobierno más cercana a la realidad?'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'periodo de dominio Qing',
@@ -16,15 +14,19 @@ tags:
     'Tratado de Ili',
     'Li Hung-chang',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T21:35:53.813179+00:00'
 ---
 
 > **Panorama en 30 segundos:** En 1891, Liu Ming-chuan, primer gobernador provincial de Taiwán, dejó el cargo por enfermedad y legó un Taiwán lleno de sueños de modernización, pero también de déficit fiscal. Su sucesor, Shao You-lian, suele ser descrito como un conservador que “canceló todas las Nuevas Políticas”; sin embargo, en realidad completó la operación del tramo ferroviario entre Taipéi y Hsinchu bajo las condiciones extremas creadas por la interrupción de los subsidios de Fujian, y en 1894 trasladó oficialmente la capital provincial a Taipéi. Este diplomático, que había participado en las negociaciones del Tratado de Ili y además era pariente político de Li Hung-chang, fijó con su pragmatismo burocrático el tono que definiría el centro político y económico de Taiwán durante el siglo siguiente.
@@ -79,44 +81,44 @@ Durante mucho tiempo, Shao You-lian ha desempeñado en la historia de Taiwán el
 
 ### Referencias
 
-[^1]: Lien Heng, _Historia general de Taiwán · Tratado sobre finanzas_, [edición del Instituto de Investigación Económica del Banco de Taiwán](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711).
+[^1]: [edición del Instituto de Investigación Económica del Banco de Taiwán](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — Lien Heng, _Historia general de Taiwán · Tratado sobre finanzas_.
 
-[^2]: Hsieh Chi-kang, “Estudio sobre Shao You-lian y la defensa de Taiwán (1891-1894): tomando como ejemplo las construcciones del Movimiento de Asuntos Occidentales”, _Nankai Journal_, [vol. 8, núm. 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf).
+[^2]: [vol. 8, núm. 2, 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — Hsieh Chi-kang, “Estudio sobre Shao You-lian y la defensa de Taiwán (1891-1894): tomando como ejemplo las construcciones del Movimiento de Asuntos Occidentales”, _Nankai Journal_.
 
-[^3]: Hsu Hsueh-chi, “Shao You-lian y las Nuevas Políticas de Autofortalecimiento”, incluido en _Actas del simposio sobre el Movimiento de Autofortalecimiento de finales de la dinastía Qing_, [Instituto de Historia Moderna, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx).
+[^3]: [Instituto de Historia Moderna, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx) — Hsu Hsueh-chi, “Shao You-lian y las Nuevas Políticas de Autofortalecimiento”, incluido en _Actas del simposio sobre el Movimiento de Autofortalecimiento de finales de la dinastía Qing_.
 
-[^4]: Biblioteca Nacional Central, sistema _Taiwan Memory_, [entrada “Shao You-lian”](https://tm.ncl.edu.tw/).
+[^4]: [entrada “Shao You-lian”](https://tm.ncl.edu.tw/) — Biblioteca Nacional Central, sistema _Taiwan Memory_.
 
-[^5]: Kuo Ting-yee, _Breve exposición de acontecimientos históricos de Taiwán_, [Cheng Chung Bookstore, 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ).
+[^5]: [Cheng Chung Bookstore, 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — Kuo Ting-yee, _Breve exposición de acontecimientos históricos de Taiwán_.
 
-[^6]: Quanzhishi, “Prefectura de Taipéi”, [citado de fuentes documentales históricas](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735).
+[^6]: [citado de fuentes documentales históricas](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — Quanzhishi, “Prefectura de Taipéi”.
 
-[^7]: Hanlin Cloud Academy, “Historia de secundaria: Shao You-lian”, [aprendizaje por palabras clave](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html).
+[^7]: [aprendizaje por palabras clave](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — Hanlin Cloud Academy, “Historia de secundaria: Shao You-lian”.
 
-[^8]: Yang Peng-fei, “Sobre las estaciones ferroviarias de Taiwán en la dinastía Qing”, _Observer Magazine_, [núm. 22, junio de 2015](http://www.observer-taipei.com/article.php?id=712).
+[^8]: [núm. 22, junio de 2015](http://www.observer-taipei.com/article.php?id=712) — Yang Peng-fei, “Sobre las estaciones ferroviarias de Taiwán en la dinastía Qing”, _Observer Magazine_.
 
-[^9]: _Materiales históricos sobre los Asuntos Occidentales en el Taiwán de finales de la dinastía Qing_, “Memorial del gobernador provincial de Taiwán Shao You-lian sobre la suspensión provisional del ferrocarril de Taiwán al llegar a Hsinchu”, [año 18 de Guangxu](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99).
+[^9]: [año 18 de Guangxu](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — _Materiales históricos sobre los Asuntos Occidentales en el Taiwán de finales de la dinastía Qing_, “Memorial del gobernador provincial de Taiwán Shao You-lian sobre la suspensión provisional del ferrocarril de Taiwán al llegar a Hsinchu”.
 
-[^10]: Watanabe Keinoshin, _Manual de los ferrocarriles de Taiwán_, traducción de Huang Te-feng, [Academia Historica, Archivo Histórico de Taiwán](https://www.th.gov.tw/).
+[^10]: [Academia Historica, Archivo Histórico de Taiwán](https://www.th.gov.tw/) — Watanabe Keinoshin, _Manual de los ferrocarriles de Taiwán_, traducción de Huang Te-feng.
 
-[^11]: Wang Yifu, “El último gobernador provincial de Taiwán”, _China Daily_, [2 de febrero de 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html).
+[^11]: [2 de febrero de 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — Wang Yifu, “El último gobernador provincial de Taiwán”, _China Daily_.
 
-[^12]: Wikipedia, [entrada “Shao You-lian”](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82).
+[^12]: [entrada “Shao You-lian”](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — Wikipedia.
 
-[^13]: Wikipedia, [entrada “Shao Can”](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF).
+[^13]: [entrada “Shao Can”](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — Wikipedia.
 
-[^14]: _La vida feliz de Meixige_, [“El sueño roto en Xieqiao: leyenda de cinco generaciones de la residencia Shao de Xieqiao”](https://www.yuleshow.com/?p=448).
+[^14]: [“El sueño roto en Xieqiao: leyenda de cinco generaciones de la residencia Shao de Xieqiao”](https://www.yuleshow.com/?p=448) — _La vida feliz de Meixige_.
 
-[^15]: Museo del Palacio, [presentación biográfica de “Shao Xunmei”](https://www.dpm.org.cn/lemmas/241167.html).
+[^15]: [presentación biográfica de “Shao Xunmei”](https://www.dpm.org.cn/lemmas/241167.html) — Museo del Palacio.
 
-[^16]: Wikipedia, [entrada “Tratado de Ili”](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84).
+[^16]: [entrada “Tratado de Ili”](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — Wikipedia.
 
-[^17]: Li Yangfan, “Tseng Chi-tse: al fin creo que más allá del Kunlun hay otras montañas”, incluido en _World Affairs_, [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf).
+[^17]: [2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — Li Yangfan, “Tseng Chi-tse: al fin creo que más allá del Kunlun hay otras montañas”, incluido en _World Affairs_.
 
-[^18]: Departamento de Cultura de la ciudad de Taipéi, [“La ciudad amurallada de Taipéi y Shao You-lian”](https://culture.gov.taipei/).
+[^18]: [“La ciudad amurallada de Taipéi y Shao You-lian”](https://culture.gov.taipei/) — Departamento de Cultura de la ciudad de Taipéi.
 
-[^19]: Wikipedia, [entrada “Oficina de Maquinaria de Taipéi”](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80).
+[^19]: [entrada “Oficina de Maquinaria de Taipéi”](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — Wikipedia.
 
-[^20]: Base de datos de China Merchants, [“Las conversaciones de Hiroshima y la insuficiencia de plenos poderes”](http://1872.cmhk.com/ziliaoku/5110.html).
+[^20]: [“Las conversaciones de Hiroshima y la insuficiencia de plenos poderes”](http://1872.cmhk.com/ziliaoku/5110.html) — Base de datos de China Merchants.
 
-[^21]: Tencent News, [“El rechazo de los enviados en Hiroshima: la verdadera ruptura del sueño celestial bajo las nubes de guerra de la primera guerra sino-japonesa”](https://view.inews.qq.com/k/20260508A01P7U00).
+[^21]: [“El rechazo de los enviados en Hiroshima: la verdadera ruptura del sueño celestial bajo las nubes de guerra de la primera guerra sino-japonesa”](https://view.inews.qq.com/k/20260508A01P7U00) — Tencent News.

@@ -2,6 +2,7 @@
 title: 'Shen Sheng-po'
 description: 'Estudió informática, pero llevó los lenguajes de programación al panorama del arte contemporáneo taiwanés. En sus breinta y cuatro años de vida, Shen Sheng-po dejó no solo obras de arte digital, sino un espíritu experimental que entendía la programación como forma de vida y el software libre como ética creativa.'
 date: 2026-03-23
+category: 'People'
 tags:
   [
     'Personaje',
@@ -17,12 +18,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-05-16T22:20:03Z'
-category: People
+translatedAt: '2026-11-04T21:34:42.053828+00:00'
 ---
 
 # Shen Sheng-po
