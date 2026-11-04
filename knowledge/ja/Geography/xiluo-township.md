@@ -1,6 +1,6 @@
 ---
 title: '西螺：赤い橋はランドマーク、醤油こそが日常'
-description: '濁水渓南岸の西螺鎮は、黒豆醤油の180日、1920年代のバロック様式街屋が並ぶ延平老街、300年の歴史を持つ太平媽、清代移民の七崁武館、そして一本の赤い大橋を、人口4万余りの小さな町に重ね合わせている。よそ者が覚えるのは橋だが、地元の人々が生きるのは醤油の日々だ。この記事は産業・信仰・地方の記憶を同じタイムラインに戻す。'
+description: '濁水渓の南岸に位置する西螺鎮には、黒豆醤油の180日間、延平老街の1920年代のバロック様式の街並み、300年の歴史を持つ太平媽、清代移民の七崁武館、そして一つの赤い大橋が、人口4万人の小さな町の中に重なり合っています。外から来た人が記憶するのは橋ですが、地元の人々が日々を過ごすのは醤油と共にあります。この記事では、産業、信仰、そして地域の記憶を一つの時間軸へと戻していきます。'
 date: 2026-10-25
 category: 'Geography'
 tags:
@@ -10,6 +10,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-10-25
 lastHumanReview: false
+image: '/article-images/geography/xiluo-township-bridge.webp'
+imageCredit: 'Fcuk1203'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B.jpg'
 rationale:
   why_this_hook: '用「地標 vs 日常」的對比，呈現西螺同時被觀光凝視與在地生活使用的雙重狀態——橋被拍，醬油被吃。'
   whats_excluded: '不把西螺寫成醬油觀光手冊，也不把七崁簡化成電視劇情節；不替在地店家排名。'
@@ -18,10 +22,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/西螺鎮.md'
-sourceCommitSha: '405047083'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:2bd61f7a92e15ec0'
 sourceBodyHash: 'sha256:fd332043a1df0015'
-translatedAt: '2026-10-26T10:33:01+08:00'
+translatedAt: '2026-11-04T14:46:51.402877+00:00'
 ---
 
 > **30秒概観：** 西螺は雲林県、濁水渓の南岸にある、人口4万余りの小さな町です。よそ者がまず覚えるのは赤い西螺大橋ですが、地元の人々の日常は別のところにあります。黒豆醤油は180日かけて醸造し、延平老街のバロック様式街屋は1920年代から今も立ち並び、福興宮の太平媽は300年にわたり地域の大事を見守り、清代移民の七崁武館は防衛組織からテレビドラマの題材へと変貌しました。この記事は西螺を橋の付属物としてではなく、橋を小さな町のタイムラインに戻すものです。[^1] [^2] [^3] [^4]

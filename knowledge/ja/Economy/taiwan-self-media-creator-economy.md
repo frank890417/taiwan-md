@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T12:42:38+08:00'
+translatedAt: '2026-11-04T14:41:07.637909+00:00'
 ---
 
 > 台湾のインフルエンサー広告市場規模は約2.1億ドルであり、米国の1%に満たない。しかし、台湾の中規模クリエイターが同時に運営するプラットフォーム数は、YouTube、IG、Facebook、Threads、Podcast、ブログ、LINEなど、しばしば5〜7個に達する。これは米国と同規模のクリエイターの約2倍である。市場は極めて小さく、プラットフォームは断片化されており、収益化はサブスクリプションではなくアフィリエイトに依存している。これは全く異なるルールに基づいたゲームなのだ。
