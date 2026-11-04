@@ -2,9 +2,7 @@
 title: 'Premier Creative: del sueño animado de Gou Tai-chiang a Pigsy en los callejones de Tainan'
 description: 'Premier Creative, en su día financiada por Gou Tai-chiang, abrió un primer resplandor para la animación original de Taiwán, pero terminó reorientándose ante la realidad del mercado; studio2, que creció en simbiosis con ella, persistió durante veinte años en Tainan y finalmente ganó el Caballo de Oro con Pigsy, escribiendo una historia de sangre, sudor y lágrimas de la animación taiwanesa, desde la subcontratación hasta la creación original.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '電影'
 tags:
   [
     'industria de la animación',
@@ -14,21 +12,24 @@ tags:
     'Pigsy',
     'contenidos digitales',
   ]
-readingTime: 12
+subcategory: '電影'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T18:23:42.350728+00:00'
 ---
 
-> **Resumen en 30 segundos:**
-> Fundada en 2004, “Premier Creative” (SOFA Studio) fue en su momento una estrella del mundo de la animación taiwanesa. Sostenida por el capital de Gou Tai-chiang y por el sueño de crear obras originales, conquistó 80 países con _MuMuHug_. Sin embargo, los elevados costos de investigación y desarrollo de la animación, junto con sus largos plazos de recuperación, terminaron por reorientar aquella apuesta. La historia no terminó ahí: Chiu Li-wei, miembro central del equipo, tomó la antorcha con studio2, fundada en Tainan. Desde _Barkley_ hasta _Pigsy_, en viejos edificios de Tainan, cambiaron veinte años de soledad por una estética animada propia de Taiwán.
+**Resumen en 30 segundos:**
 
----
+Fundada en 2004, «Premier Creative» (SOFA Studio) fue en su día la estrella de la animación en Taiwán, respaldada por el capital y el sueño original de Kuo Tai-chiang, y conquistó 80 países de todo el mundo con 《姆姆抱抱》 (MuMuHug). Sin embargo, los elevados costes de I+D en animación y el largo plazo de recuperación hicieron que esta apuesta arriesgada diera finalmente un giro. La historia no terminó ahí: el miembro clave Chiu Li-wei fundó studio2 en Tainan y tomó el relevo; desde 《小猫巴克里》 hasta 《八戒》 (Pigsy), en los viejos edificios de Tainan, han convertido veinte años de soledad en una estética de animación propia de Taiwán.
 
 ## El resplandor que desapareció: cuando el hijo de una de las familias más ricas se encontró con el sueño de la animación
 

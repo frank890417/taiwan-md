@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:32:19.768789+00:00'
+translatedAt: '2026-11-04T18:58:20.636977+00:00'
 ---
 
 > **Resumen de 30 segundos:** El sistema de servicio militar en Taiwán es la marca social más profunda de esta isla en medio siglo. Desde los "tres años de servicio" durante el período de ocupación, hasta el restablecimiento del servicio obligatorio de un año hoy, esto no es solo una variación numérica del tiempo de servicio; es un reflejo real de cómo Taiwán enfrenta la presión geopolítica. Este artículo te lleva desde el grito de asombro en el sitio de sorteo del "Premio Kinmen" hasta el campo moderno de preparación militar donde incluso los supermercados se incluyen en los ejercicios Hanwha, analizando profundamente la transición práctica de estándares de exención, horarios de entrenamiento y las diversas formas de servicio alternativo.

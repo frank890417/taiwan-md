@@ -2,9 +2,7 @@
 title: 'Waishengren: desde una juventud secuestrada hasta la identidad como taiwaneses arraigados en su tierra'
 description: 'En 1949, más de un millón de personas cruzaron el estrecho de Taiwán cargando consigo el trauma del exilio y la nostalgia por el hogar perdido. Este grupo fue al mismo tiempo una población de alto riesgo bajo la sospecha del gobierno autoritario —potenciales "presos políticos"— y "refugiados de guerra" arrancados por la fuerza de sus lugares de origen. Este artículo revela cómo la comunidad waishengren, a través de cuatro traumas psicológicos sucesivos, completó una migración identitaria profunda: de "exiliados" a "pobladores establecidos".'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     'Waishengren',
@@ -16,15 +14,19 @@ tags:
     'literatura de los militar-village',
     'compatriotas de Dachen',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-04T18:48:52.099421+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -96,7 +98,7 @@ Para la tercera generación, "waishengren" suele ser solo una marca identitaria 
 
 [^11]: [De "compatriotas de Dachen"](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=155&listId=27) — Proporciona contexto, datos y marco de eventos relevantes para este artículo, como base narrativa y de verificación.
 
-[^12]: He Zhengzhe, _Dachen cruza a Taiwán: estudio de caso de nuevos inmigrantes en la década de 1950_ — Proporciona contexto, datos y marco de eventos relevantes para este artículo, como base narrativa y de verificación. [何政哲：大陳過台灣－1950年代新移民的個案研究](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900)
+[^12]: [何政哲：大陳過台灣－1950年代新移民的個案研究](https://etds.lib.tku.edu.tw/ETDS/Home/Detail/U0002-0108200509440900) — He Zhengzhe, _Dachen cruza a Taiwán: estudio de caso de nuevos inmigrantes en la década de 1950_ — Proporciona contexto, datos y marco de eventos relevantes para este artículo, como base narrativa y de verificación
 
 [^13]: [Barreras étnicas, injusticia social e íntimas relaciones en la Taiwán de posguerra: dos estudios "tardíos"](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=343&listId=55) — Proporciona contexto, datos y marco de eventos relevantes para este artículo, como base narrativa y de verificación.
 
