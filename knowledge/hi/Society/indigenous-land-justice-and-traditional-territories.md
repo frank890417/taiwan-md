@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
-sourceCommitSha: '1e674def2'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:28b04fa76413100e'
 sourceBodyHash: 'sha256:4f732aefea1fd604'
-translatedAt: '2026-07-30T22:54:34+08:00'
+translatedAt: '2026-11-04T18:52:15.734650+00:00'
 ---
 
 # ताइवान के मूलनिवासी लोगों की भूमि न्याय और पारंपरिक क्षेत्र

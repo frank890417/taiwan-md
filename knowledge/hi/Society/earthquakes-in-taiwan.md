@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-08-10T09:48:23+08:00'
+translatedAt: '2026-11-04T18:05:08.744122+00:00'
 ---
 
 > **30 सेकंड अवलोकन:** ताइवान टेक्टोनिक प्लेटों की सीमा पर स्थित है, भूकंप इस द्वीप की नियति है। यह लेख स्थानीय सृजन "भूगाय के पलटने" की कथा से शुरू होकर, क्विंग काल के चमत्कारिक अभिलेखों से 921 महाभूकंप के व्यवस्थागत मोड़ तक फैला है, और खोजता है कि ताइवानी भय से "शांतचित्तता" की ओर कैसे बढ़े और डोलते हुए विश्वस्तरीय आपदा प्रतिरोधक क्षमता का निर्माण किया।
