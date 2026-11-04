@@ -22,7 +22,7 @@
  */
 
 const API_BASE = 'https://taiwan.md';
-const SERVER = { name: 'taiwanmd-remote', version: '0.7.1' };
+const SERVER = { name: 'taiwanmd-remote', version: '0.7.2' };
 const PROTOCOL_VERSION = '2024-11-05';
 
 const REAL_CATEGORIES = new Set([
@@ -56,6 +56,21 @@ const MAX_BODIES = 128;
 let _articlesExpires = 0;
 let _bodies = new Map(); // full path → successful body + expiration
 
+// `[lang/]Category/slug.md` → lang. Same rule as scripts/core/generate-api.js:
+// a translation has at least three segments and a lang-code first segment.
+const LANG_DIR_RE = /^[a-z]{2}(-[A-Za-z]{2,4})?$/;
+function articleLang(e) {
+  if (typeof e.lang === 'string' && e.lang) return e.lang;
+  const parts = e.path.split('/');
+  return parts.length >= 3 && LANG_DIR_RE.test(parts[0]) ? parts[0] : 'zh-TW';
+}
+
+// On-disk category folder (PascalCase, e.g. "History"): second-to-last segment.
+function categoryFolder(p) {
+  const parts = p.split('/');
+  return parts.length >= 2 ? parts[parts.length - 2] : '';
+}
+
 async function getArticles() {
   if (_articles && Date.now() < _articlesExpires) return _articles;
   const res = await fetch(`${API_BASE}/api/articles.json`, {
@@ -66,16 +81,26 @@ async function getArticles() {
     throw new Error(`Article index unavailable (HTTP ${res.status})`);
   const all = await res.json();
   if (!Array.isArray(all)) throw new Error('Invalid article index');
-  // articles.json mixes all languages; translations carry category = lang code.
-  // The zh-TW SSOT entries are those whose category is a real category folder.
+  // articles.json mixes all languages. Keep only zh-TW (SSOT) entries in a
+  // real category folder. Language comes from `lang` (added 2026-11-04);
+  // `category` is NOT used to detect translations any more, because it is
+  // scheduled to change from the lang code to the real category (see
+  // public/api/README.md). Older articles.json has no `lang`, so it falls back
+  // to the path prefix — this works against old, current and future files.
   _articles = all
-    .filter((e) => e && e.path && REAL_CATEGORIES.has(e.category))
+    .filter(
+      (e) =>
+        e &&
+        e.path &&
+        articleLang(e) === 'zh-TW' &&
+        REAL_CATEGORIES.has(categoryFolder(e.path)),
+    )
     .map((e) => {
       const slug = e.path.replace(/\.md$/, '').split('/').pop();
       return {
         title: e.title || slug,
         description: e.description || '',
-        category: e.category,
+        category: categoryFolder(e.path),
         tags: e.tags || [],
         url: e.url || '',
         date: e.date || '',
