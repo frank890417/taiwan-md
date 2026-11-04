@@ -27,12 +27,15 @@ export interface ArticleSummary {
   tags?: string[]; // frontmatter tags
   footnotes?: number; // count of [^n]: footnote definitions (引用深度訊號)
   /** 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：
-   * 'incubating' = 🌱 進化中 · 社群貢獻，'verified' = 🔎 已深度查證，
+   * 'incubating' = 🌱 進化中（待查證／待擴寫），'verified' = 🔎 已深度查證，
    * undefined = 一般正式文章（缺省，多數）。只認顯式 frontmatter 值，不從
    * lastHumanReview 等其他欄位推導。非 zh-TW 語言：frontmatter 缺 curation
    * 時，若有 `translatedFrom` 指回 zh-TW 來源，繼承來源文章的 curation
    * （見 buildIndex 內 zhCurationMap）。 */
   curation?: 'incubating' | 'verified';
+  /** incubating 的說明條種類（frontmatter curationReason，2026-11-04）：'thin' = 待擴寫；
+   * 'unverified' 或缺省 = 待查證。譯文沒標時跟 curation 一起從 zh 來源繼承。 */
+  curationReason?: 'unverified' | 'thin';
   /** 譯文層 frontmatter `translatedFrom: 'Technology/台灣鎢供應鏈.md'`（zh-TW
    * 來源檔的 Folder/slug.md 寫法）。zh-TW 自己沒有。文內嵌入卡（tw-article）靠
    * 它把作者寫的 zh 路徑對回這一語的譯文，見 getArticleByZhPath。 */
@@ -41,6 +44,12 @@ export interface ArticleSummary {
 
 /** 只接受顯式 'incubating' / 'verified' 字串；其他任何值（含 true/false/其他
  * 字串）一律視為未設定，避免舊資料的雜訊被誤讀成查證狀態。 */
+function normalizeCurationReason(
+  value: unknown,
+): 'unverified' | 'thin' | undefined {
+  return value === 'unverified' || value === 'thin' ? value : undefined;
+}
+
 function normalizeCuration(
   value: unknown,
 ): 'incubating' | 'verified' | undefined {
@@ -90,15 +99,19 @@ async function buildIndex(
   // fallback 用：譯文自己沒標 curation、但找得到來源 zh 文章時，沿用來源的
   // 查證狀態，讀者在任何語言都看得到同一篇文章的階段標籤。
   let zhCurationMap: Map<string, 'incubating' | 'verified'> | null = null;
+  let zhReasonMap: Map<string, 'unverified' | 'thin'> | null = null;
   if (lang !== 'zh-TW') {
     const zhIndex = await getArticlesIndex('zh-TW');
     zhCurationMap = new Map();
+    zhReasonMap = new Map();
     for (const [catSlug, zhArticles] of zhIndex) {
       const folderName = CATEGORY_MAPPING[catSlug];
       if (!folderName) continue;
       for (const a of zhArticles) {
         if (a.curation)
           zhCurationMap.set(`${folderName}/${a.slug}`, a.curation);
+        if (a.curationReason)
+          zhReasonMap.set(`${folderName}/${a.slug}`, a.curationReason);
       }
     }
   }
@@ -122,6 +135,7 @@ async function buildIndex(
           // explore.template uses for its featured deep-dive cards.
           const footnotes = (fileContent.match(/^\[\^\d+\]:/gm) || []).length;
           let curation = normalizeCuration(fm.curation);
+          let curationReason = normalizeCurationReason(fm.curationReason);
           if (
             !curation &&
             zhCurationMap &&
@@ -129,7 +143,10 @@ async function buildIndex(
           ) {
             const zhKey = fm.translatedFrom.replace(/\.md$/, '');
             curation = zhCurationMap.get(zhKey);
+            if (curation === 'incubating' && !curationReason)
+              curationReason = zhReasonMap?.get(zhKey);
           }
+          if (curation !== 'incubating') curationReason = undefined;
           articles.push({
             title: fm.title || articleSlug,
             slug: articleSlug,
@@ -141,6 +158,7 @@ async function buildIndex(
             tags: Array.isArray(fm.tags) ? fm.tags : undefined,
             footnotes,
             curation,
+            curationReason,
             translatedFrom:
               typeof fm.translatedFrom === 'string'
                 ? fm.translatedFrom

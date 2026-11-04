@@ -84,9 +84,12 @@ export interface Props {
   /** 透傳到根元素的 data-* 屬性（filter / GA 等 consumer 機制留在呼叫端）*/
   dataAttrs?: Record<string, string | undefined>;
   /** 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：'incubating' =
-   * 🌱 進化中 · 社群貢獻、'verified' = 🔎 已深度查證、undefined/null = 一般
+   * 🌱 進化中（待查證／待擴寫，依 curationReason）、'verified' = 🔎 已深度查證、undefined/null = 一般
    * 正式文章。只認顯式值，呼叫端直接傳 ArticleSummary.curation 即可。 */
   curation?: 'incubating' | 'verified' | null;
+  /** incubating 的說明條種類（frontmatter curationReason）：'thin' = 待擴寫，
+   * 其餘（含缺欄位）= 待查證。只影響 pill 文字。 */
+  curationReason?: 'unverified' | 'thin' | null;
   /** 是否顯示查證狀態 pill。預設：premium / detailed / row 顯示，compact 不顯示
    * （sidebar 密度太窄，塞徽章會擠壓標題）。呼叫端通常不用傳，讓 density 決定。 */
   stageBadge?: boolean;
@@ -112,6 +115,7 @@ const {
   extraClass = '',
   dataAttrs = {},
   curation = null,
+  curationReason = null,
   stageBadge,
 } = Astro.props;
 
@@ -136,7 +140,12 @@ const stage: 'incubating' | 'verified' | 'standard' =
       : 'standard';
 const stageEmoji =
   stage === 'incubating' ? '🌱 ' : stage === 'verified' ? '🔎 ' : '';
-const stageLabel = t(`curation.stage.${stage}` as any);
+const stageLabel =
+  stage === 'incubating'
+    ? t(
+        `curation.stage.incubating.${curationReason === 'thin' ? 'thin' : 'unverified'}` as any,
+      )
+    : t(`curation.stage.${stage}` as any);
 
 const target = openIn === 'new-tab' ? '_blank' : '_self';
 const rel = openIn === 'new-tab' ? 'noopener noreferrer' : undefined;

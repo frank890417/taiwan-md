@@ -158,6 +158,40 @@ const commitHash = _renderGitInfo.commitHash;
 const revisionCount = _renderGitInfo.revisionCount;
 
 const t = useTranslations(lang);
+
+// ── 查證狀態（reports/design-curation-tier-2026-08-04.md＋全站普查 2026-11-04 §五.5）──
+// 自己的 frontmatter 優先；譯文沒標時從 zh 來源繼承（跟 articles-index 給卡片的規則同一條，
+// 否則同一篇在卡片上是 🌱、點進去卻沒有說明條）。說明條依 curationReason 分兩種：
+// 'thin' = 待擴寫，其餘（含缺欄位的舊文）= 待查證。文案住 src/i18n/latest.ts，十三語。
+let pageCuration: 'incubating' | 'verified' | undefined =
+  frontmatter.curation === 'incubating' || frontmatter.curation === 'verified'
+    ? frontmatter.curation
+    : undefined;
+let pageCurationReason: 'unverified' | 'thin' | undefined =
+  frontmatter.curationReason === 'thin' ||
+  frontmatter.curationReason === 'unverified'
+    ? frontmatter.curationReason
+    : undefined;
+if (
+  !pageCuration &&
+  lang !== 'zh-TW' &&
+  typeof frontmatter.translatedFrom === 'string'
+) {
+  const [zhFolder, zhFile] = frontmatter.translatedFrom.split('/');
+  const zhCat = Object.entries(categoryMapping).find(
+    ([, folder]) => folder === zhFolder,
+  )?.[0];
+  const zhSlug = (zhFile || '').replace(/\.md$/, '');
+  if (zhCat && zhSlug) {
+    const zhHit = (await getAllArticles('zh-TW')).find(
+      (a) => a.category === zhCat && a.slug === zhSlug,
+    );
+    pageCuration = zhHit?.curation;
+    if (!pageCurationReason) pageCurationReason = zhHit?.curationReason;
+  }
+}
+const noticeKind: 'unverified' | 'thin' =
+  pageCurationReason === 'thin' ? 'thin' : 'unverified';
 const categoryConfigs = getCategoryConfigs(t);
 const categoryInfo = categoryConfigs[category as CategoryKey];
 if (!categoryInfo) throw new Error(`Unknown category: ${category}`);
@@ -343,48 +377,49 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
       <!-- Center: Article content -->
       <article class="min-w-0 [grid-area:body]" data-pagefind-body>
         <!-- 查證狀態分層（reports/design-curation-tier-2026-08-04.md）：
-             curation: 'incubating' → 🌱 進化中說明條（社群貢獻待深度查證，參與入口）
+             curation: 'incubating' → 🌱 進化中說明條（待查證／待擴寫兩種，依 curationReason；
+             2026-11-04 全站普查 §五.5 拿掉「社群貢獻」——判定看流程不看人），參與入口
              curation: 'verified'   → 🔎 已深度查證徽章（只認顯式值，不從 lastHumanReview
              推導——早期低標準的 true 會變假保證）。缺省不渲染。
-             文案第一波 zh inline；譯文層 curation 欄位尚未 propagate，babel 帶欄位時
-             文案應遷入 src/i18n/ui.ts。dark 樣式在 dark-polish.css §curation。 -->
+             文案 2026-11-04 起住 src/i18n/latest.ts（curation.notice.* / curation.badge.*，
+             十三語）；譯文沒標 curation 時從 zh 來源繼承。dark 樣式在 dark-polish.css §curation。 -->
         {
-          frontmatter.curation === 'incubating' && (
+          pageCuration === 'incubating' && (
             <aside
               class="curation-notice mb-8 flex items-start gap-3 rounded-xl border border-dashed border-[rgba(26,60,52,0.25)] bg-[rgba(26,60,52,0.045)] px-5 py-4"
               data-curation="incubating"
+              data-curation-reason={noticeKind}
             >
               <span class="mt-0.5 text-xl" aria-hidden="true">
                 🌱
               </span>
               <div class="min-w-0">
                 <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.72rem] font-semibold uppercase tracking-[0.12em] text-[#1a3c34] opacity-70">
-                  進化中 · 社群貢獻
+                  {t(`curation.stage.incubating.${noticeKind}` as any)}
                 </p>
                 <p class="m-0 mt-1 font-['Noto_Serif_TC',serif] text-[0.92rem] leading-relaxed text-[#1a3c34]">
-                  這篇文章由社群貢獻，正在 Taiwan.md
-                  的深度查證流程排隊。內容大致可讀，但引語、年份、數字可能還沒逐一核對。讀到可疑的地方，
+                  {t(`curation.notice.${noticeKind}.before` as any)}
                   <button
                     type="button"
                     id="curation-feedback-btn"
                     class="inline cursor-pointer border-0 bg-transparent p-0 font-['Noto_Serif_TC',serif] text-[0.92rem] font-semibold text-[#1a3c34] underline decoration-dotted underline-offset-4"
                   >
-                    告訴我們
+                    {t('curation.notice.cta' as any)}
                   </button>
-                  ——你的一雙眼睛，就是這篇文章轉正的路。
+                  {t('curation.notice.after' as any)}
                 </p>
               </div>
             </aside>
           )
         }
         {
-          frontmatter.curation === 'verified' && (
+          pageCuration === 'verified' && (
             <p
               class="curation-badge mb-8 flex items-center gap-2 rounded-full border border-[rgba(26,60,52,0.18)] bg-[rgba(26,60,52,0.05)] px-4 py-2 font-['Inter',system-ui,sans-serif] text-[0.78rem] font-medium text-[#1a3c34]"
               data-curation="verified"
             >
               <span aria-hidden="true">🔎</span>
-              已深度查證 · 這篇走過 Taiwan.md 的深度研究與逐項事實查證流程
+              {t('curation.badge.verified' as any)}
             </p>
           )
         }
@@ -850,6 +885,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
                     categoryIcon={relCat.icon}
                     coverImage={article.image || undefined}
                     curation={article.curation}
+                    curationReason={article.curationReason}
                     openIn="same-tab"
                     dataAttrs={{ 'data-ga-section': 'article_related' }}
                   />

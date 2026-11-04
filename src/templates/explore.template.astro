@@ -105,6 +105,7 @@ interface PickArticle {
   coverImage?: string;
   featured: boolean;
   curation?: 'incubating' | 'verified';
+  curationReason?: 'unverified' | 'thin';
 }
 
 const categoryFolders: Array<[string, string, string]> = [
@@ -156,6 +157,12 @@ for (const [slug, folder, emoji] of categoryFolders) {
               data.curation === 'incubating' || data.curation === 'verified'
                 ? data.curation
                 : undefined,
+            curationReason:
+              data.curation === 'incubating' &&
+              (data.curationReason === 'unverified' ||
+                data.curationReason === 'thin')
+                ? data.curationReason
+                : undefined,
           });
         }
       } catch {}
@@ -203,6 +210,7 @@ interface PopularArticle {
   footnotes: number;
   views: number;
   curation?: 'incubating' | 'verified';
+  curationReason?: 'unverified' | 'thin';
 }
 
 const slugToFolder = new Map(categoryFolders.map(([s, f]) => [s, f]));
@@ -263,6 +271,11 @@ try {
       curation:
         data.curation === 'incubating' || data.curation === 'verified'
           ? data.curation
+          : undefined,
+      curationReason:
+        data.curation === 'incubating' &&
+        (data.curationReason === 'unverified' || data.curationReason === 'thin')
+          ? data.curationReason
           : undefined,
     });
   }
@@ -516,6 +529,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
                 coverImage={p.coverImage}
                 imageLoading={i < 2 ? 'eager' : 'lazy'}
                 curation={p.curation}
+                curationReason={p.curationReason}
                 openIn="same-tab"
                 dataAttrs={{ 'data-ga-section': 'explore_featured' }}
               />
@@ -555,6 +569,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
                 coverImage={p.coverImage}
                 imageLoading={i < 2 ? 'eager' : 'lazy'}
                 curation={p.curation}
+                curationReason={p.curationReason}
                 openIn="same-tab"
                 dataAttrs={{ 'data-ga-section': 'explore_popular' }}
               />
