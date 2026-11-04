@@ -1,6 +1,6 @@
 ---
-title: 'ASUS (ASUSTeK): How a Taiwanese Motherboard Pioneer Built a Global PC Giant'
-description: 'Founded in Taipei in 1989 by four engineers, ASUS evolved from a local motherboard maker into Taiwan’s premier global PC and gaming brand with NT$600B revenue.'
+title: "ASUS (ASUSTeK): A Taiwanese Brand, From a Taipei Apartment in 1989 to the World's Top Motherboard Maker"
+description: 'ASUS is a Taiwanese company. Four former Acer engineers founded it in 1989 in an apartment on Minsheng East Road in Taipei, with NT$10 million in capital. It holds over 40% of the global motherboard market, first for 15 straight years, and ranks fifth in PC shipments. ASUS committed to its own brand early and spun off its contract manufacturing as Pegatron in 2008.'
 date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'
@@ -15,6 +15,10 @@ sourceCommitSha: 'ccee078e'
 sourceContentHash: 'sha256:316e1a5e36d3a78b'
 sourceBodyHash: 'sha256:fa3c598a1e033a14'
 translatedAt: '2026-07-06T16:37:25Z'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 7,164 曝光 6 點擊；查詢全是哪國品牌：「asus which country brand」404、「asus country of origin」286、「asus origin country」265 曝光。title 與 description 首句改成直接說 Taiwanese brand、1989 年台北創立'
 ---
 
 > **30-Second Overview**

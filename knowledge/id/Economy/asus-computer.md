@@ -1,6 +1,6 @@
 ---
 title: 'Komputer ASUS - Raksasa Teknologi dari Papan Induk'
-description: 'Dari sebuah pabrik papan induk kecil di Hsinchu, Taiwan, berkembang menjadi merek komputer pribadi terbesar kelima di dunia'
+description: 'ASUS adalah merek asal Taiwan. Didirikan pada 1989 oleh empat insinyur di Taipei, perusahaan pembuat papan induk ini tumbuh menjadi pemasok komputer pribadi terbesar kelima di dunia.'
 date: 2026-03-20
 category: 'Economy'
 tags:
@@ -16,6 +16,10 @@ sourceCommitSha: 'ccee078ef'
 sourceContentHash: 'sha256:316e1a5e36d3a78b'
 sourceBodyHash: 'sha256:fa3c598a1e033a14'
 translatedAt: '2026-09-09T15:32:33+08:00'
+evolveHistory:
+  - date: 2026-11-04
+    action: seo
+    reason: 'SC 28 天 1,123 曝光 1 點擊；查詢「asus dari mana」131、「asus produk negara mana」123 曝光。舊 description 寫 ASUS 起家於 Hsinchu，與內文（Taipei）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
 ---
 
 > **Gambaran 30 Detik**
