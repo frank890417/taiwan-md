@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-03T00:30:02+08:00'
+translatedAt: '2026-11-04T18:59:09.225738+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le système de service militaire est l'une des empreintes sociales les plus profondes de cette île depuis plus d'un demi-siècle. Du « service de trois ans » de l'époque de la loi martiale au rétablissement actuel du service obligatoire d'un an, il ne s'agit pas seulement d'un changement de chiffres, mais d'un reflet fidèle de la réalité de Taïwan face aux pressions géopolitiques. Cet article vous emmène des exclamations dignes d'un « Golden Horse » lors du tirage au sort jusqu'aux scènes de préparation moderne où même les supermarchés sont intégrés aux exercices Han Kuang, tout en analysant en profondeur les critères d'exemption, le rythme de l'entraînement de base, les divers services alternatifs et la transformation vers un entraînement de réserve plus opérationnel.
