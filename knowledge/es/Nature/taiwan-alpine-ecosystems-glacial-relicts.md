@@ -2,6 +2,7 @@
 title: 'Ecosistemas alpinos de Taiwán y reliquias glaciales'
 description: 'Exploración de los ecosistemas únicos del entorno de alta montaña por encima de los 3,000 metros en Taiwán, desde la criptomeria taiwanesa y el rododendro de Yushan hasta la valiosa biodiversidad de especies relictas del período glacial'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
     'ecosistema alpino',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '生態系統'
 author: 'Taiwan.md Contributors'
-readingTime: 11
 featured: false
-category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Nature/台灣高山生態系與冰河孑遺.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: 2026-05-02T01:17:17+08:00
+translatedAt: '2026-11-04T19:38:28.072109+00:00'
 ---
 
 # Ecosistemas alpinos de Taiwán y reliquias glaciales

@@ -1,12 +1,8 @@
 ---
-translatedFrom: 'Nature/黑面琵鷺.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:8cef581f5392bc2b'
-sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: '2026-05-01T17:19:34+08:00'
 title: 'Espátula menor: de 300 ejemplares a 7.000, el milagro transnacional de conservación enfrenta ahora «el precio del éxito»'
 description: 'El censo global de 2026 revela que la espátula menor ha alcanzado los 7.746 ejemplares, con 4.719 registrados en Taiwán, un máximo histórico. Esta ave, que estuvo al borde de la extinción, fue reclasificada en 2025 a una categoría de menor amenaza, pero en sus cuarteles invernales de Taiwán enfrenta nuevos desafíos: desarrollo fotovoltaico, botulismo y ataques de perros callejeros.'
-category: Nature
+date: 2026-04-30
+category: 'Nature'
 tags:
   [
     'espátula menor',
@@ -15,12 +11,19 @@ tags:
     'acuicultura fotovoltaica',
     'naturaleza de Taiwán',
   ]
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
-date: 2026-04-30
-readingTime: 8
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/黑面琵鷺.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:8cef581f5392bc2b'
+sourceBodyHash: 'sha256:445b5720cbf0d2d9'
+translatedAt: '2026-11-04T20:16:10.784790+00:00'
 ---
 
 > **Panorama en 30 segundos:** La espátula menor fue una especie en peligro crítico con menos de 300 ejemplares en el mundo. Tras tres décadas de esfuerzos transnacionales, su población ha superado los 7.000, y más del 60 % elige pasar el invierno en Taiwán. Es un modelo de éxito en conservación, pero a medida que los números crecen, estas distinguidas aves se ven forzadas a abandonar las áreas protegidas centrales, buscando el siguiente hábitat seguro entre paneles solares, perros callejeros y el letal botulismo.

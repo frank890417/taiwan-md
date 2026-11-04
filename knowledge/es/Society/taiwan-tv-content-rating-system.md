@@ -2,27 +2,29 @@
 title: 'Guardianes tras la pantalla: la evolución de la clasificación en Taiwán de la "censura cinematográfica" a la "división en cinco niveles"'
 description: 'El sistema de clasificación de Taiwán es un reflejo histórico de la transición desde la "censura de contenido" durante el período de ley marcial hacia la "protección de menores" en la era democrática. Desde la abolición de la Ley de Cine en 1993, la llegada de Parque Jurásico que impulsó la categoría de protección, hasta la adopción integral del sistema de cinco niveles en 2026, este artículo documenta la evolución prolongada en torno al derecho de ver cine y la responsabilidad social.'
 date: 2026-04-08
-author: 'Taiwan.md Contributors'
-category: Society
-subcategory: '媒體與傳播'
+category: 'Society'
 tags:
   [
-    clasificación cinematográfica,
-    Parque Jurásico,
-    Ley de Cine,
-    Ministerio de Cultura,
-    ley marcial,
-    protección de menores,
+    'clasificación cinematográfica',
+    'Parque Jurásico',
+    'Ley de Cine',
+    'Ministerio de Cultura',
+    'ley marcial',
+    'protección de menores',
   ]
-readingTime: 15
+subcategory: '媒體與傳播'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-04T19:19:55.276267+00:00'
 ---
 
 > **Resumen en 30 segundos:** El sistema de clasificación de Taiwán fue en su momento un par de tijeras. Antes de 1983, las películas debían pasar por una "censura" y no por una "clasificación"; la revisión política y moral era la norma. La controversia de los dinosaurios provocada por Parque Jurásico en 1993 hizo que Taiwán tomara conciencia de la brecha en el sistema de tres niveles, lo que impulsó la creación de la categoría de protección. Hoy en día, Taiwán ha establecido un sistema de cinco niveles que abarca cine, televisión, programas de video y juegos digitales, transformando la "prohibición de proyección" en "orientación por niveles", y protegiendo la diversidad y seguridad del entorno audiovisual.

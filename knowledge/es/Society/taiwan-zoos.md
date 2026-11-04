@@ -2,6 +2,7 @@
 title: '¿Cuáles son los zoológicos de Taiwán: el más antiguo no está en Muzha, y el más grande no es solo un zoológico'
 description: 'Desde Yuanzi hasta las pernoctaciones en el Acuario Nacional, los zoológicos de Taiwán no son una simple lista de atracciones familiares, sino una ruta interior que entrelaza ciudad, turismo y educación marina.'
 date: 2026-04-25
+category: 'Society'
 tags:
   [
     'zoológico',
@@ -16,16 +17,17 @@ tags:
   ]
 subcategory: '動物與倫理'
 author: 'p3nchan'
-readingTime: 8
-category: 'Society'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Society/台灣有哪些動物園.md
-sourceCommitSha: '287389ec'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Society/台灣有哪些動物園.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:39eab6090a3c571e'
 sourceBodyHash: 'sha256:831b02af043591c7'
-translatedAt: '2026-05-16T22:35:47Z'
-featured: false
+translatedAt: '2026-11-04T19:24:42.475279+00:00'
 ---
 
 # ¿Cuáles son los zoológicos de Taiwán: el más antiguo no está en Muzha, y el más grande no es solo un zoológico

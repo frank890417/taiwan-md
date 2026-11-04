@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Nature/水獺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
-translatedAt: '2026-05-16T22:35:47Z'
+translatedAt: '2026-11-04T20:13:24.642258+00:00'
 ---
 
 # La nutria de Taiwán: la lucha por la supervivencia de la nutria euroasiática en Kinmen y su silenciosa desaparición en la isla principal
