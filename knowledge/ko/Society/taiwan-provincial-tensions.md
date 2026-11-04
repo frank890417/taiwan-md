@@ -2,19 +2,20 @@
 title: '대만의 성적(省籍) 갈등'
 description: '성적 갈등은 두 집단이 서로를 싫어하는 이야기가 아니라, 누가 "대만인"을 정의할 자격이 있는가를 둘러싼 권력 다툼이다. 선거에서 죽다 살아나고, 군인 가족 마을 철거 속에 조용히 사라지면서도, 결코 진정으로 끝나지 않았다.'
 date: 2026-03-31
-tags: [사회, 족군, 정치, 역사, 정체성]
-subcategory: '族群與身份'
 category: 'Society'
+tags: ['사회', '족군', '정치', '역사', '정체성']
+subcategory: '族群與身份'
 author: 'Taiwan.md'
-readingTime: 15
 featured: false
 lastVerified: 2026-03-31
+lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-04-14T05:53:10+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-04T19:27:45.914888+00:00'
 ---
 
 > **30초 요약:** 1949년 약 120만 명의 군인과 민간인이 국민 정부를 따라 중국에서 대만으로 철수하면서 외성인과 본성인이라는 인구 구조가 형성됐다. 계엄 시기의 제도적 불평등과 228 사건이 남긴 집단 트라우마는 성적(省籍)을 대만 정치의 가장 민감한 기저 논리로 만들었다. 민주화 이후 성적 갈등은 정치인들에 의해 반복적으로 동원됐고, 밀레니엄 이후에야 '대만인 정체성'에 의해 서서히 희석되기 시작했다. 그러나 연구자들은 그것이 사라진 것이 아니라 형태를 바꿨을 뿐이라고 말한다.

@@ -11,11 +11,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:49:55.764113+00:00'
+translatedAt: '2026-11-04T18:58:14.552494+00:00'
 ---
 
 > **30초 요약:** 타이완의 병역 제도는 이 섬이 반세기가 넘는 동안 지닌 가장 심오한 사회적 각인이다. 계엄령 시기의 '3년 복무'에서 오늘날 1년제 의무복무로 회귀하기까지, 이는 단순한 복무 기간의 숫자 변화가 아니라 지정학적 압력에 맞서는 타이완의 실제적인 반영이다. 본문은 추첨 현장에서의 '금마상(金馬獎)' 놀라움부터, 슈퍼마켓까지 훈련에 포함되는 현대 전비(戰備) 현장, 그리고 면제 기준, 신식 훈련 일정, 각종 대체 복무 및 실전화된 소집(召集)으로의 전환을 심층적으로 분석한다.

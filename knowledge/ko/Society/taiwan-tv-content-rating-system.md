@@ -2,19 +2,21 @@
 title: '스크린 뒤의 문지기: 대만 영상물 등급제의 진화, 검열에서 5단계 분류까지'
 description: '대만의 등급제는 계엄 시대의 "내용 심의"에서 민주주의 시대의 "아동·청소년 보호"로 넘어온 역사의 축소판이다. 1983년 《영화검사법》 폐지, 1993년 《쥬라기 공원》이 촉발한 보호급 신설, 2026년 5등급제 전면 도입까지, 이 글은 관람 권리와 사회적 책임을 둘러싼 기나긴 진화의 기록이다.'
 date: 2026-04-08
+category: 'Society'
 tags: ['영화 등급', '쥬라기 공원', '영화법', '문화부', '계엄', '아동청소년보호']
 subcategory: '媒體與傳播'
-category: 'Society'
 author: 'Taiwan.md Contributors'
-readingTime: 15
 featured: false
-translatedFrom: 'Society/台灣電視分級制度.md'
 lastVerified: 2026-04-08
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Society/台灣電視分級制度.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-04-14T06:37:05+08:00'
-lastHumanReview: true
+translatedAt: '2026-11-04T19:19:47.197963+00:00'
 ---
 
 > **30초 요약:** 대만의 등급제는 한때 가위였다. 1983년 이전에는 영화가 "등급 분류"가 아닌 "검사"를 받아야 했고, 정치적·도덕적 심의는 일상이었다. 1993년 《쥬라기 공원》이 불러일으킨 공룡 소동은 3등급제의 공백을 드러냈고, "보호급" 신설로 이어졌다. 오늘날 대만은 영화·TV·비디오·디지털 게임을 아우르는 5등급 체계를 갖추어 "상영 금지"를 "연령별 분류"로 전환하고, 다양성과 안전을 동시에 지키는 시청각 환경을 구현하고 있다.

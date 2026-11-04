@@ -2,9 +2,7 @@
 title: '외성인: 납치된 청춘에서 발 아래 대만 땅을 향한 정체성의 여정'
 description: '1949년, 백만 명이 넘는 이들이 상처와 향수를 안고 바건너 대만으로 왔다. 이들은 독재 정부의 의심을 받는 "정치범" 고위험 집단이면서 동시에 강제로 끌려와 고향을 잃은 "전쟁 난민"이기도 했다. 이 글은 외성 민족이 네 번의 심리적 트라우마를 겪으며 "망명자"에서 "정착자"로 영혼의 이주를 완성한 과정을 조명한다.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     '외성인',
@@ -16,15 +14,19 @@ tags:
     '촌문학',
     '대진의민',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-05-20T05:08:30+08:00'
+translatedAt: '2026-11-04T18:48:46.247237+00:00'
 ---
 
 > **30초 개요:**
