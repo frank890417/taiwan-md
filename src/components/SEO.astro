@@ -714,9 +714,12 @@ const breadcrumbLD = generateBreadcrumbLD();
   content={`${title} - ${lang === 'zh-TW' ? 'Taiwan.md 台灣知識庫' : 'Taiwan.md — Knowledge Base'}`}
 />
 
-<!-- Additional SEO -->
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow" />
+<!-- Additional SEO
+     2026-11-04 site-health: the hardcoded `robots`/`googlebot` "index, follow"
+     tags were removed. index,follow is the crawler default, so they added
+     nothing on normal pages — but on pages that opt out (Layout `noindex`,
+     /search, /assets, [slug] noindex branch) they sat next to the real
+     "noindex" tag and the page told crawlers two opposite things. -->
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json" set:html={JSON.stringify(jsonLD, null, 2)} />
