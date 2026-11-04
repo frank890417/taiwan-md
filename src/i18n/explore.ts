@@ -16,7 +16,7 @@ export const exploreUI = {
     // Meta
     'explore.meta.title': 'Explore Taiwan.md — Browse the open knowledge base',
     'explore.meta.description':
-      'Browse 685+ curated articles about Taiwan: history, geography, culture, food, art, music, technology, nature, people, society, economy, and lifestyle. Search, discover, and explore.',
+      'Browse 1156+ curated articles about Taiwan: history, geography, culture, food, art, music, technology, nature, people, society, economy, and lifestyle. Search, discover, and explore.',
 
     // Hero
     'explore.hero.eyebrow': 'KNOWLEDGE HUB',
@@ -85,7 +85,7 @@ export const exploreUI = {
   ja: {
     'explore.meta.title': 'Taiwan.md を探索 — オープン知識ベースを閲覧',
     'explore.meta.description':
-      '台湾に関する 685+ 本のキュレーション記事を閲覧。歴史・地理・文化・グルメ・アート・音楽・テクノロジー・自然・人物・社会・経済・暮らし — 検索して、発見して、探索する。',
+      '台湾に関する 1156+ 本のキュレーション記事を閲覧。歴史・地理・文化・グルメ・アート・音楽・テクノロジー・自然・人物・社会・経済・暮らし — 検索して、発見して、探索する。',
 
     'explore.hero.eyebrow': '知識ハブ',
     'explore.hero.title': 'Taiwan.md を探索',
@@ -147,7 +147,7 @@ export const exploreUI = {
   ko: {
     'explore.meta.title': 'Taiwan.md 탐색 — 오픈 지식 베이스 둘러보기',
     'explore.meta.description':
-      '대만에 관한 685+ 큐레이션 기사 둘러보기: 역사·지리·문화·음식·예술·음악·기술·자연·인물·사회·경제·생활. 검색하고, 발견하고, 탐색하세요.',
+      '대만에 관한 1156+ 큐레이션 기사 둘러보기: 역사·지리·문화·음식·예술·음악·기술·자연·인물·사회·경제·생활. 검색하고, 발견하고, 탐색하세요.',
 
     'explore.hero.eyebrow': '지식 허브',
     'explore.hero.title': 'Taiwan.md 탐색',
@@ -209,7 +209,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Khám phá Taiwan.md — Duyệt kho tri thức mở về Đài Loan',
     'explore.meta.description':
-      'Duyệt hơn 685 bài viết tuyển chọn về Đài Loan: lịch sử, địa lý, văn hóa, ẩm thực, nghệ thuật, âm nhạc, công nghệ, thiên nhiên, nhân vật, xã hội, kinh tế, đời sống. Tìm kiếm, khám phá, tìm hiểu.',
+      'Duyệt hơn 1156 bài viết tuyển chọn về Đài Loan: lịch sử, địa lý, văn hóa, ẩm thực, nghệ thuật, âm nhạc, công nghệ, thiên nhiên, nhân vật, xã hội, kinh tế, đời sống. Tìm kiếm, khám phá, tìm hiểu.',
 
     'explore.hero.eyebrow': 'Kho tri thức',
     'explore.hero.title': 'Khám phá Taiwan.md',
@@ -274,7 +274,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Jelajahi Taiwan.md — Telusuri basis pengetahuan terbuka Taiwan',
     'explore.meta.description':
-      'Telusuri 685+ artikel pilihan tentang Taiwan: sejarah, geografi, budaya, kuliner, seni, musik, teknologi, alam, tokoh, masyarakat, ekonomi, dan kehidupan. Cari, temukan, jelajahi.',
+      'Telusuri 1156+ artikel pilihan tentang Taiwan: sejarah, geografi, budaya, kuliner, seni, musik, teknologi, alam, tokoh, masyarakat, ekonomi, dan kehidupan. Cari, temukan, jelajahi.',
 
     'explore.hero.eyebrow': 'Basis Pengetahuan',
     'explore.hero.title': 'Jelajahi Taiwan.md',
@@ -340,7 +340,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Explore Taiwan.md — Navegue pela base de conhecimento aberta de Taiwan',
     'explore.meta.description':
-      'Navegue por mais de 685 artigos selecionados sobre Taiwan: história, geografia, cultura, gastronomia, arte, música, tecnologia, natureza, personalidades, sociedade, economia e cotidiano. Pesquise, descubra, explore.',
+      'Navegue por mais de 1156 artigos selecionados sobre Taiwan: história, geografia, cultura, gastronomia, arte, música, tecnologia, natureza, personalidades, sociedade, economia e cotidiano. Pesquise, descubra, explore.',
 
     'explore.hero.eyebrow': 'Base de conhecimento',
     'explore.hero.title': 'Explore Taiwan.md',
@@ -405,7 +405,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Taiwan.md खोजें — ताइवान के खुले ज्ञानकोश को ब्राउज़ करें',
     'explore.meta.description':
-      'ताइवान पर 685+ क्यूरेटेड लेख ब्राउज़ करें: इतिहास, भूगोल, संस्कृति, खान-पान, कला, संगीत, प्रौद्योगिकी, प्रकृति, व्यक्तित्व, समाज, अर्थव्यवस्था और जीवन। खोजें, जानें, अन्वेषण करें।',
+      'ताइवान पर 1156+ क्यूरेटेड लेख ब्राउज़ करें: इतिहास, भूगोल, संस्कृति, खान-पान, कला, संगीत, प्रौद्योगिकी, प्रकृति, व्यक्तित्व, समाज, अर्थव्यवस्था और जीवन। खोजें, जानें, अन्वेषण करें।',
 
     'explore.hero.eyebrow': 'ज्ञानकोश',
     'explore.hero.title': 'Taiwan.md खोजें',
@@ -469,7 +469,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Исследуйте Taiwan.md — открытый архив знаний о Тайване',
     'explore.meta.description':
-      '685+ кураторских статей о Тайване: история, география, культура, кухня, искусство, музыка, технологии, природа, личности, общество, экономика, повседневность. Поиск, открытие, исследование.',
+      '1156+ кураторских статей о Тайване: история, география, культура, кухня, искусство, музыка, технологии, природа, личности, общество, экономика, повседневность. Поиск, открытие, исследование.',
 
     'explore.hero.eyebrow': 'Архив знаний',
     'explore.hero.title': 'Исследуйте Taiwan.md',
@@ -533,7 +533,7 @@ export const exploreUI = {
     'explore.meta.title':
       'استكشف Taiwan.md — تصفح قاعدة المعرفة التايوانية المفتوحة',
     'explore.meta.description':
-      'تصفح أكثر من 685 مقالًا تايوانيًا مختارًا: التاريخ، الجغرافيا، الثقافة، المأكولات، الفنون، الموسيقى، التكنولوجيا، الطبيعة، الشخصيات، المجتمع، الاقتصاد، الحياة. ابحث، اكتشف، استكشف.',
+      'تصفح أكثر من 1156 مقالًا تايوانيًا مختارًا: التاريخ، الجغرافيا، الثقافة، المأكولات، الفنون، الموسيقى، التكنولوجيا، الطبيعة، الشخصيات، المجتمع، الاقتصاد، الحياة. ابحث، اكتشف، استكشف.',
 
     'explore.hero.eyebrow': 'قاعدة المعرفة',
     'explore.hero.title': 'استكشف Taiwan.md',
@@ -592,19 +592,23 @@ export const exploreUI = {
     'explore.cta.github': 'تصفح على GitHub',
   },
   de: {
-    'explore.meta.title': 'Taiwan.md erkunden — die offene Wissensdatenbank über Taiwan durchstöbern',
+    'explore.meta.title':
+      'Taiwan.md erkunden — die offene Wissensdatenbank über Taiwan durchstöbern',
     'explore.meta.description':
-      'Durchstöbere 685+ kuratierte Artikel über Taiwan: Geschichte, Geografie, Kultur, Essen, Kunst, Musik, Technologie, Natur, Menschen, Gesellschaft, Wirtschaft und Alltag. Suchen, entdecken, erkunden.',
+      'Durchstöbere 1156+ kuratierte Artikel über Taiwan: Geschichte, Geografie, Kultur, Essen, Kunst, Musik, Technologie, Natur, Menschen, Gesellschaft, Wirtschaft und Alltag. Suchen, entdecken, erkunden.',
 
     'explore.hero.eyebrow': 'Wissensdatenbank',
     'explore.hero.title': 'Taiwan.md erkunden',
-    'explore.hero.subtitle': 'Fundierte Geschichten einer kuratierten Insel — suchen, entdecken und nach Kategorien stöbern.',
+    'explore.hero.subtitle':
+      'Fundierte Geschichten einer kuratierten Insel — suchen, entdecken und nach Kategorien stöbern.',
 
     'explore.search.heading': 'Wissensdatenbank durchsuchen',
-    'explore.search.placeholder': 'Alles über Taiwan suchen (Menschen, Orte, Kultur, Ereignisse)',
+    'explore.search.placeholder':
+      'Alles über Taiwan suchen (Menschen, Orte, Kultur, Ereignisse)',
     'explore.search.button': 'Suchen',
     'explore.search.random': 'Zufällig erkunden',
-    'explore.search.randomSubtitle': 'Würfle — und entdecke eine Geschichte, mit der du nicht gerechnet hast',
+    'explore.search.randomSubtitle':
+      'Würfle — und entdecke eine Geschichte, mit der du nicht gerechnet hast',
     'explore.hotSearches.label': 'Beliebte Suchbegriffe',
     'explore.hotSearches.term1': 'Halbleiter',
     'explore.hotSearches.term2': 'Nachtmärkte',
@@ -619,7 +623,8 @@ export const exploreUI = {
     'explore.stats.last30d': 'In den letzten 30 Tagen aktualisiert',
 
     'explore.categories.heading': 'Nach Kategorien stöbern',
-    'explore.categories.subtitle': 'Zwölf Themengebiete, jedes davon zeigt eine andere Facette dieser Insel.',
+    'explore.categories.subtitle':
+      'Zwölf Themengebiete, jedes davon zeigt eine andere Facette dieser Insel.',
 
     'explore.featured.heading': 'Ausgewählte vertiefende Artikel',
     'explore.featured.subtitle':
@@ -628,18 +633,22 @@ export const exploreUI = {
     'explore.featured.citations': 'Quellenangaben',
     'explore.featured.minRead': 'Minuten',
     'explore.popular.heading': 'Beliebte Artikel',
-    'explore.popular.subtitle': 'Die meistgelesenen Artikel der letzten 7 Tage.',
+    'explore.popular.subtitle':
+      'Die meistgelesenen Artikel der letzten 7 Tage.',
     'explore.popular.views': 'Aufrufe',
 
     'explore.more.heading': 'Weitere Möglichkeiten zum Erkunden',
     'explore.more.graph.title': 'Wissensgraph',
-    'explore.more.graph.desc': 'Ein kraftgerichteter Graph zeigt, wie die Artikel miteinander verknüpft sind.',
+    'explore.more.graph.desc':
+      'Ein kraftgerichteter Graph zeigt, wie die Artikel miteinander verknüpft sind.',
     'explore.more.graph.cta': 'Graph öffnen →',
     'explore.more.map.title': 'Landkarte',
-    'explore.more.map.desc': 'Artikel nach ihrem Standort auf der Insel finden.',
+    'explore.more.map.desc':
+      'Artikel nach ihrem Standort auf der Insel finden.',
     'explore.more.map.cta': 'Karte öffnen →',
     'explore.more.terminology.title': 'Begriffsübersicht',
-    'explore.more.terminology.desc': 'Ein Nachschlagewerk für die gemeinsamen Begriffe der Wissensdatenbank.',
+    'explore.more.terminology.desc':
+      'Ein Nachschlagewerk für die gemeinsamen Begriffe der Wissensdatenbank.',
     'explore.more.terminology.cta': 'Übersicht öffnen →',
 
     'explore.cta.heading': 'Nicht gefunden, wonach du suchst?',
@@ -651,7 +660,7 @@ export const exploreUI = {
   'zh-TW': {
     'explore.meta.title': '探索 Taiwan.md — 瀏覽開放的台灣知識庫',
     'explore.meta.description':
-      '瀏覽 685+ 篇台灣策展文章：歷史、地理、文化、美食、藝術、音樂、科技、自然、人物、社會、經濟、生活。搜尋、發現、探索。',
+      '瀏覽 1156+ 篇台灣策展文章：歷史、地理、文化、美食、藝術、音樂、科技、自然、人物、社會、經濟、生活。搜尋、發現、探索。',
 
     'explore.hero.eyebrow': '知識庫',
     'explore.hero.title': '探索 Taiwan.md',
@@ -709,7 +718,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Explora Taiwan.md — Navega la base de conocimiento abierta',
     'explore.meta.description':
-      'Navega 685+ artículos curados sobre Taiwán: historia, geografía, cultura, gastronomía, arte, música, tecnología, naturaleza, personas, sociedad, economía y estilo de vida. Busca, descubre, explora.',
+      'Navega 1156+ artículos curados sobre Taiwán: historia, geografía, cultura, gastronomía, arte, música, tecnología, naturaleza, personas, sociedad, economía y estilo de vida. Busca, descubre, explora.',
 
     'explore.hero.eyebrow': 'CENTRO DE CONOCIMIENTO',
     'explore.hero.title': 'Explora Taiwan.md',
@@ -773,7 +782,7 @@ export const exploreUI = {
     'explore.meta.title':
       'Explorer Taiwan.md — Parcourir la base de connaissances ouverte',
     'explore.meta.description':
-      'Parcourez 685+ articles curatés sur Taïwan : histoire, géographie, culture, cuisine, art, musique, technologie, nature, personnalités, société, économie et mode de vie. Cherchez, découvrez, explorez.',
+      'Parcourez 1156+ articles curatés sur Taïwan : histoire, géographie, culture, cuisine, art, musique, technologie, nature, personnalités, société, économie et mode de vie. Cherchez, découvrez, explorez.',
 
     'explore.hero.eyebrow': 'CENTRE DE CONNAISSANCES',
     'explore.hero.title': 'Explorer Taiwan.md',
