@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T08:27:18+08:00",
-    "zhCommitHead": "70ef5f6e9",
+    "lastUpdated": "2026-11-04T08:28:53+08:00",
+    "zhCommitHead": "9adc07f34",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1146,
+        "fresh": 1147,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "fr": {
@@ -139038,8 +139038,8 @@
           "sourceContentHash": "sha256:f6ea72608a383b39",
           "sourceBodyHash": "sha256:2b58a1fd273e51fb",
           "translatedAt": "2026-11-03T20:22:15+08:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "9adc07f3",
+          "translationLastModified": "2026-11-04T08:27:18+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 24255,
@@ -163912,8 +163912,8 @@
           "sourceContentHash": "sha256:7341e995e36938f6",
           "sourceBodyHash": "sha256:952feb96a39bb831",
           "translatedAt": "2026-11-03T23:57:37.837570+00:00",
-          "translationLastCommit": "53b91cc8",
-          "translationLastModified": "2026-10-31T08:41:15+08:00",
+          "translationLastCommit": "9adc07f3",
+          "translationLastModified": "2026-11-04T08:27:18+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 31220,
@@ -203476,7 +203476,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/zhushan-township.md",
+          "translatedFrom": "Geography/竹山鎮.md",
+          "sourceCommitSha": "036975f23",
+          "sourceContentHash": "sha256:0d139b37b2b76ae2",
+          "sourceBodyHash": "sha256:9c545fc3c704ac06",
+          "translatedAt": "2026-11-03T20:21:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 19816,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/zhushan-township.md",
