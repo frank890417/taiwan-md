@@ -2,18 +2,20 @@
 title: '황진남'
 description: '황진남은 대만의 문사 연구자, 장서가이자 작가로, 「활수래책방(活水來冊房)」 페이지를 통해 대만 역사와 헌책 문화를 공유하며, 《대만 역사상 가장 재미있는 대만사》 등의 저서가 있다.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags: ['대만 문사', '장서가', '황진남', '대만 역사', '활수래책방']
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T21:32:37.388507+00:00'
 ---
 
 # 황진남: 책향 가문과 대만 문사의 맑은 물줄기
@@ -54,15 +56,15 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 참고 자료
 
-[^1]: [황진남 — 위키백과](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — 주요 생애, 교육 배경 및 장서 세부 사항.
+[^1]: [황전남 — 위키백과](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — 주요 생애, 교육 배경 및 장서 세부 사항.
 
-[^2]: [활수래책房 페이스북 페이지](https://www.facebook.com/ngtsinlam) — 2009년 개설 이후의 공유 기록 및 장서 동향.
+[^2]: [활수래책방 페이스북 페이지](https://www.facebook.com/ngtsinlam) — 2009년 창립부터 현재까지의 공유 기록과 장서 동향.
 
-[^3]: [《대만 역사상 가장 재미있는 대만사》 서적 페이지](https://www.books.com.tw/products/0010722013) — 보크라이브러리 서지 페이지, 출판 정보 및 독자 리뷰 포함.
+[^3]: [《대만 역사상 가장 화제가 된 대만사》 도서 페이지](https://www.books.com.tw/products/0010722013) — 북스닷컴 서지 페이지, 출판 정보 및 독자 리뷰 포함.
 
-[^4]: [장서가 황진남 인터뷰 — Creative Comic](https://www.creative-comic.tw/special_topics/2) — 가문 장서 이야기 및 서만만, 채배화 관련 소장품 설명.
+[^4]: [장서가 황전남 인터뷰 — Creative Comic](https://www.creative-comic.tw/special_topics/2) — 가족 장서 이야기와 니시카와 미츠루, 차이 페이후오 관련 소장품 설명.
 
-[^5]: [Newtalk 도서 추천 보도](https://newtalk.tw/news/view/2026-02-18/1020552) — 황진남의 대만사 독서 홍보에 대한 관점과 도서 추천.
+[^5]: [뉴토크 책 추천 보도](https://newtalk.tw/news/view/2026-02-18/1020552) — 황전남의 대만사 독서 장려 관점과 책 추천 제안.
 
 ## 더 읽기
 

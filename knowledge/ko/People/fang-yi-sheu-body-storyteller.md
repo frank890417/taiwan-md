@@ -2,21 +2,21 @@
 title: '허팡이: 이란 1971, 그람 무용수단 수석에서 2024 금마 주시각 무용수까지'
 description: '1971년 이란(宜蘭)에서 태어남. 타이베이예술대학교 무용과 졸업 후 1995년 미국으로 건너가 마사 그람 무용수단(Martha Graham Dance Company)에 입단, 1999년 수석 무용수로 승진. 2007년 귀국하여 라팡 LAFA 설립(2010년 종료). 다큐멘터리 《내 마음 나의 길》(2020). 2024년 금마 영화제 주시각 무용 디자인 담당. 2025년 인터뷰에서 신체 노화 문제를 논함.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與設計'
 tags: ['예술과 디자인', '무용', '공연예술', '현대무용', '그람 무용수단']
-readingTime: 7
-#   whats_excluded: "葛蘭姆技巧細節；各場演出評論摘錄；拉芳每年活動清單"
-#   where_it_hedges: "「參演李安電影」無具體作品無法驗證，已移除"'
+subcategory: '藝術與設計'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T21:36:58.667415+00:00'
 ---
 
 # 허팡이: 이란 1971, 그람 무용수단 수석에서 2024 금마 주시각 무용수까지
