@@ -1,180 +1,317 @@
 ---
-title: 'Chi Po-lin'
-description: 'Seorang pegawai negeri sipil dengan gaji yang tidak mampu membeli helikopter, bagaimana ia menggunakan uang hipotek rumah untuk memproduksi karya dokumenter paling sukses dalam sejarah Taiwan'
+title: 'Chih Pai-lin: Pegawai Negeri yang Melakukan Pemotretan Udara Jalan Tol, Menggadaikan Rumah demi Memfilmkan "See Taiwan"'
+description: 'Chih Pai-lin pernah mengelola pengadaan di Biro Perencanaan Nasional. Kemudian, ia menaiki helikopter sewaan biro tersebut untuk melakukan pemotretan udara proyek jalan tol. Tiga tahun sebelum masa pensiunnya, ia mengundurkan diri dari jabatan publik dan berdiskusi dengan ibunya untuk menggadaikan rumah guna memproduksi film dokumenter "See Taiwan" yang meraup pendapatan box office lebih dari NT$200 juta di seluruh Taiwan pada tahun 2013. Ia wafat saat melakukan survei lokasi untuk sekuelnya pada tahun 2017. Film ini membuat seluruh Taiwan melihat luka pada tanah mereka, dan menyadari bahwa untuk mengubahnya diperlukan sekelompok orang yang siap menopang: mengadakan rapat, mengajukan gugatan, hingga membongkar bangunan ilegal; beberapa di antaranya sudah berjaga di kaki gunung bahkan sebelum ia mengambil foto.'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '藝術與創作'
 tags:
   [
-    'figuren',
-    'Chi Po-lin',
-    'dokumenter',
-    'Melihat Taiwan',
-    'sutradara',
-    'fotografer',
-    'pengambilan gambar udara',
-    'lingkungan',
+    'Tokoh',
+    'Chih Pai-lin',
+    'See Taiwan',
+    'Dokumenter',
+    'Sutradara',
+    'Pemotretan Udara',
+    'Lingkungan',
+    'Konservasi Lahan Nasional',
   ]
-readingTime: 12
-lastVerified: 2026-03-25
-lastHumanReview: true
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-11-04
+lastHumanReview: false
+readingTime: 19
+researchReport: 'reports/research/2026-11/齊柏林.md'
+image: '/article-images/people/chi-po-lin-beyond-beauty-premiere-2013.webp'
+imageCredit: 'othree (Flickr)'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E9%9C%B2%E5%A4%A9%E7%89%B9%E6%98%A0_(10647981644).jpg'
+rationale:
+  why_this_hook: '用國工局局長歐晉德問一個管採購的年輕職員「對土木工程有興趣嗎？」開場：齊柏林的空拍起點在開發體制裡面，鏡頭最早替國道工程服務，後來同一個高度讓他說出「沒有路的地方最美」，這個翻轉撐起全篇。'
+  whats_excluded: '不寫無可追出處的舊說法（妻子姓名、1,600 小時、30 萬張、票房 2.2 億與首週末里程碑、霧峰林家花園、旗津的照片、小行星與螃蟹命名）；不寫《看見台灣》揭露日月光（時間序上無因果）；不寫結尾國旗的剪接軼事；墜機段不寫換機師、提前起飛、最後畫面與遺體，調查只寫報告結論與制度層風險；紀念清單（基金會、齊柏林空間、郵票、台北 101 點燈）不展開。'
+  where_it_hedges: '墜機肇因照飛安會原文寫「可能使其處於疲勞或生理與心理表現能力降低的狀態」並附「缺乏直接證據」與「應屬正常用藥累積所致」；票房只寫「破兩億」；電影與政策的關係只寫行政院自己記錄的清單與會議，不說電影促成《國土計畫法》；清境 2013 年的 7 家與 2021 年列管的 7 件分開寫；四位提告族人不代表整個玻士岸部落。'
+  whos_pushing_back: '澳洲影評人 Grant Watson（電影反覆責備觀眾）；新新聞對飛安會報告寫法的質疑；原民會（高山道路是部落生活與救災的路）；南投縣長林明溱（禁建讓農民苦不堪言）；經濟部與亞泥（判決後依礦業法仍可採礦）；玻士岸部落會議主席洛帝．尤道（部落未有共識）。'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'rewrite'
+    linesBefore: 165
+    linesAfter: 302
+    reason: '全面進化 2026-11-04：約 3,532 字卻 0 腳註、標題只有人名，主查詢「齊柏林」排名 3.0、點擊率 0.4%。改用一手來源重寫：墜機段依飛安會最終調查報告，《看見台灣》票房與行政院國土保育專案小組、清境、亞泥判決等後續都附出處。'
 translatedFrom: 'People/齊柏林.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2842e6333688b98f'
-sourceBodyHash: 'sha256:272da240ae5fe1df'
-translatedAt: '2026-07-25T10:53:16+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:efe5b480b7638fd0'
+sourceBodyHash: 'sha256:5b8e0366beca56d2'
+translatedAt: '2026-11-04T09:42:17.184848+00:00'
 ---
 
-# Chi Po-lin
+# Chih Pei-lin: Mantan Pegawai Negeri yang Mengambil Foto Udara Jalan Nasional, Menjaminkan Rumah demi Memotret 《See Taiwan》
 
-> **Ringkasan 30 detik:** Seorang pegawai negeri sipil Departemen Transportasi, mengeluarkan tabungan 3 juta dan pinjaman hipotek 6 juta, membeli peralatan pengambilan gambar udara senilai hampir 30 juta, memproduksi film dengan pendapatan tiket 2,2 miliar _Melihat Taiwan_. Ia mengumpulkan lebih dari 1.600 jam jam terbang dan mengabadikan lebih dari 300.000 foto udara. Pada 10 Juni 2017, ia meninggal dunia dalam kecelakaan helikopter saat survei lokasi untuk _Melihat Taiwan II_, berusia 52 tahun.
+> **Ringkasan 30 Detik:** Chih Pei-lin (1964–2017) awalnya adalah seorang pegawai negeri di Biro Konstruksi Baru Jalan Nasional, Kementerian Transportasi, yang bertugas mengambil foto proyek jalan nasional menggunakan helikopter sewaan biro tersebut. Ia kemudian menjadi fotografer udara profesional dan sutradara film 《See Taiwan》. Film ini dirilis pada tahun 2013 dan meraih pendapatan box office lebih dari NT$200 juta di seluruh Taiwan; hingga tahun 2025, film ini masih memegang rekor box office untuk film dokumenter di Taiwan, serta memenangkan penghargaan [Golden Horse Awards](/art/金馬獎) untuk Dokumenter Terbaik. Pada 10 Juni 2017, saat sedang melakukan survei lokasi untuk sekuelnya, ia meninggal dunia di Hualien bersama pilot Chang Chih-kuang dan asistennya Chen Kuan-chi.
 
-Seorang pegawai negeri sipil dengan gaji yang tidak mampu membeli helikopter, bagaimana ia menggunakan uang hipotek rumah untuk memproduksi karya dokumenter paling sukses dalam sejarah Taiwan?
+Ou Chin-te, Direktur Biro Konstruksi Baru Jalan Nasional di bawah Kementerian Transportasi, pernah bertanya kepada seorang staf muda yang bertanggung jawab atas pengadaan: "Apakah kamu tertarik pada teknik sipil?" Pemuda itu menjawab dengan jujur: "Saya kurang tahu." Ou Chin-te kemudian berkata: "Fokuslah melakukan apa yang kamu sukai." [^1]
 
-## Dari Teknik Jalan Raya ke Mimpi Langit
+Staf muda bernama Chih Pei-lin ini sangat menyukai fotografi. Belakangan, ia naik helikopter sewaan Biro Konstruksi Baru Jalan Nasional untuk mengambil foto proyek jalan nasional dari ketinggian, dengan lensa mengarah ke jalan tol yang sedang dibangun oleh pemerintah. Namun, pada ketinggian yang sama, ia kemudian melihat hal lain, yang akhirnya membuatnya memutuskan untuk berhenti dari pekerjaan tersebut meski hanya tiga tahun lagi menuju masa pensiun.
 
-Pada 27 Desember 1964, Chi Po-lin lahir di Kota Taipei. Namanya diambil oleh ayahnya Chi Wei-hsin setelah menghitung stroke karakter, dan kebetulan sama dengan nama dirigibel "Zeppelin".
+## Mengambil Foto Konstruksi Jalan Nasional di Atas Helikopter Sewaan Biro Pekerjaan Umum Nasional
 
-Bagian pertama hidupnya sangat biasa, tidak seperti sosok yang nantinya memproduksi film dengan pendapatan 2,2 miliar. Lulus dari Jurusan Arsitektur SMK Swasta Tunghsiu, tidak menyelesaikan studi Jurusan Manajemen Industri di Politeknik Lung Hua. Pada 1990 masuk ke Biro Konstruksi Jalan Tol Baru Departemen Transportasi sebagai staf administrasi, bertanggung jawab mencatat proses pembangunan Jalan Tol Nomor 3. Pekerjaan besi, stabil.
+Chih Pei-lin, yang lahir pada tahun 1964, sudah gemar membawa kamera ke mana-mana sejak masa sekolahnya. Setelah menyelesaikan wajib militer, pekerjaan pertama yang ia ambil adalah sebagai asisten fotografi pernikahan, namun ia mengundurkan diri sebelum genap satu bulan karena merasa membosankan dan terlalu palsu saat harus mengarahkan orang lain untuk berpose. Pekerjaan fotografi terkadang memiliki waktu kerja yang terbalik antara siang dan malam serta gaji yang tidak tetap, hal ini membuat orang tuanya cukup khawatir. Ia mengikuti harapan orang tuanya dengan mengikuti ujian pegawai negeri dan masuk ke Biro Pekerjaan Umum Nasional (DGJB), di mana ia ditempatkan di bagian pengadaan, bidang yang sama sekali tidak berhubungan dengan fotografi[^1].
 
-Titik balik terjadi pada 1991. Chi Po-lin mengusulkan kepada Kepala Biro saat itu Ou Chin-te: "Foto proyek harus diambil dari ketinggian burung untuk menunjukkan skala." Ou Chin-te menerima saran itu, mulai menyewa helikopter dan menyerahkan pengambilan gambar udara kepada Chi Po-lin. Saat helikopter naik ke ketinggian 500 kaki, penampakan Taiwan berubah total. Garis pantai yang melengkung, pegunungan berlapis-lapis, dan luka-luka yang tak terlihat dari dataran.
+Pada saat itu, [Jalur Cepat Utara-Selatan Bagian 2](/id/lifestyle/national-highway-system) sedang dalam tahap pembangunan, dan DGJB sudah memiliki gagasan untuk memadukan proyek publik dengan lanskap alam, sehingga membutuhkan banyak materi promosi dan dokumentasi konstruksi. Ou Jin-de telah mempelajari banyak konsep baru dari luar negeri dan sering menginstruksikan Chih Pei-lin untuk mengambil foto. Suatu kali, ia meminta Chih Pei-lin mencari titik tinggi untuk memotret Pinglin dan Sungai Beishi. Alasannya adalah, kastel-kastel di Swiss semuanya menghadap ke danau, sedangkan rumah-rumah di Pinglin justru menghadap ke jalan raya demi bisnis, sementara sungai berada di belakang rumah dan hanya terlihat saat orang pergi ke toilet[^1].
 
-"Saat itulah aku benar-benar 'melihat' Taiwan."
+Setelah bekerja di DGJB selama lebih dari satu tahun, Chih Pei-lin mengusulkan kepada Ou Jin-de bahwa jika foto konstruksi diambil dari sudut pandang mata burung (aerial) dari ketinggian, gambarnya akan terlihat lebih makro[^2]. Sebelum itu, ia sudah pernah terbang ke langit: ia melihat iklan properti dengan foto udara karya senior fotografer Huang Chin-fa di surat kabar 《Da Cheng Bao》, lalu menelepon untuk bertanya dan ikut terbang bersama sang senior satu kali. "Pertama kali mengikuti senior terbang untuk pengambilan gambar udara, saya langsung memutuskan untuk menjadikan ini sebagai profesi seumur hidup saya!"[^2] Ou Jin-de telah melihat kemampuannya dalam kompetisi fotografi dan percaya bahwa ia mampu memotret dengan baik. Sejak saat itu, DGJB mulai menyewa helikopter, dan ia bertanggung jawab untuk memotret proyek pembangunan jalan tol. Setiap kali maskapai penerbangan memiliki kesempatan untuk pengambilan gambar udara, ia pun ikut terbang[^2].
 
-Namun Biro Konstruksi Jalan Tol Baru hanya menganggarkan 20 jam sewa helikopter per tahun untuk pengambilan gambar udara. Biaya sewa helikopter per jam melebihi 100.000 yuan, dengan gaji pegawai negeri sipil sama sekali terjangkau. Maka Chi Po-lin mulai "numanggang": saat petugas Cuaca Meteo mengganti shift ke pulau-pulau terpencil dan pegunungan tinggi naik helikopter, ia ikut terbang; saat Biro Kehutanan menyewa helikopter untuk penyemprotan pestisida dari udara, ia ikut terbang; saat PLN melakukan pekerjaan pengangkatan kabel, ia ikut terbang. Pilot helikopter yang menjadi temannya proaktif memberitahunya. Ketua Direksi Acme Construction Huang Mu-shou pernah perlu naik helikopter ke Gunung Yu untuk mengawasi proyek, berkali-kali mengizinkan Chi Po-lin menumpang tanpa syarat, bahkan menyewakan helikopter untuk mendanai pengambilan gambar udara.
+Mengenang tahun-tahun awal saat ia mulai melakukan pemotretan udara, ia mendeskripsikan dirinya kepada reporter majalah _Common Wealth_ seperti ini: "Saya tumbuh dalam keluarga yang setia pada partai dan cinta tanah air; sejak kecil hingga dewasa saya merasa bahwa semua proyek pemerintah seratus persen pasti benar, dan segala sesuatunya indah"[^1]. Kepercayaan ini, lambat laun mulai goyah saat ia berada di pegunungan.
 
-Saat Jalan Tol Utara Nomor 2 mendekati penyelesaian, Chi Po-lin kembali mengusulkan kepada Kepala Biro baru Cheng Wen-lung: "Pengambilan gambar udara harus dikaitkan dengan hubungan antara jalan tol dan tanah." Terwujudlah buku _Imaji Jalan Tol Utara Nomor 2: Kedalaman Kasih Sayang yang Memeluk Bumi_. Ia menggambarkan jalan tol dari udara sebagai "dataran hijau zamrud, dipakai selendang sutra putih bersih".
+![Chih Pei-lin yang mengenakan kacamata, foto terbaru Oktober 2013](/article-images/people/chi-po-lin-portrait-2013.webp)
 
-Sejak itu, Chi Po-lin memulai karir pengambilan gambar udara selama lebih dari 20 tahun, mengumpulkan jam terbang lebih dari 1.600 jam, mengabadikan lebih dari 300.000 gambar.
+_Chih Pei-lin, difoto pada Oktober 2013, beberapa hari sebelum rilis 《See Taiwan》. Photo: SSR2000, CC BY-SA 3.0._
 
-## Pekerjaan di Ujung Nyawa
+## Setelah 921, Ia Mengatakan Tempat Tanpa Jalan Adalah yang Paling Indah
 
-Pengambilan gambar udara sama sekali bukan pekerjaan romantis.
+Pada awal memulai pengambilan gambar udara, apa yang ingin ia potret di dalam hatinya adalah Taiwan yang indah, agar lebih banyak orang dapat melihatnya. Ia juga pernah merasa bahwa menebang hutan di pegunungan tinggi dan membuka lahan pertanian dengan semangat "Yu Gong Memindahkan Gunung" adalah sebuah kisah yang patut dipuji[^1]. Sejak tahun 1998, ia bekerja sama dengan majalah 《大地地理雜誌》 dalam sebuah seri khusus, memotret lahan pertanian pegunungan dan daratan reklamasi Haipu dari udara, yang mendapatkan banyak respons dari pembaca[^2].
 
-Chi Po-lin pernah mengalami angin turun gunung di kawasan Gunung Dawu Pingtung, helikopter diterbangkan angin kencang ke pantai Taimali, hampir kehilangan kendali. Di dekat puncak utama Gunung Yu, ketinggian hampir 4.000 meter, kedinginan membuat kedua tangannya mengungu; aliran udara kencang membuat helikopter goyang terus, menakuti semua orang hingga wajah putih bungkam. Chi Po-lin berusaha tenang, "satu sisi menopang badan, sisi lain mengangkat kamera, berhasil mengabadikan momen aliran udara gunung tinggi melampaui puncak utama. Pulang lalu lelah penuh dua hari." Aliran udara turun di Gunung Huangzui dekat Taipei juga pernah hampir membuat helikopter jatuh, tapi justru tak sengaja mengabadikan kawanan sapi dikagetkan terbangan rendah hingga lari kencang.
+Sebelum [Gempa Bumi 921](/id/history/921-jiji-earthquake) terjadi, ia tidak pernah memotret pemandangan bencana alam. Setelah gempa bumi tersebut, lingkungan di Taiwan seolah mulai mengalami perubahan drastis; setelah pembangunan jalan lintas tengah (Zhongheng) yang baru selesai, kerusakan akibat aktivitas manusia pun ikut terakselerasi, dan aliran tanah serta batu terjadi satu demi satu. Sudut pandangnya dalam melihat segala sesuatu pun mulai berubah[^1]. Ia menggunakan analogi menjadi seorang ayah untuk menggambarkan transformasi ini: "Seperti baru belajar menjadi ayah setelah benar-benar menjadi ayah, saya baru mengenal tanah air saya sendiri setelah terbang ke cakrawala"[^1].
 
-Mantan Kepala Biro Cheng Wen-lung menggambarkan Chi Po-lin saat pengambilan gambar udara "sangat menakutkan": setengah badan tergantung di luar helikopter, membuat dia berkeringat dingin melihatnya. Chi Po-lin berkata, sewa helikopter per jam belasan ribu yuan, pengambilan gambar harus merebut waktu, konsentrasi penuh, "saat itu sama sekali tidak tahu takut."
+Pada Juli 2009, ia menyewa peralatan syuting dari Amerika Serikat, menghabiskan NT$3 juta dan tiga puluh jam di tengah cuaca panas untuk mengelilingi Taiwan melalui udara. Bulan berikutnya, [Topan Morakot](/id/history/typhoon-morakot) membawa bencana banjir "88", dan pemerintah memintanya untuk masuk ke area bencana guna melakukan pengambilan gambar. Ia kemudian mengenang kesan pertamanya: "Saat melihatnya, hati saya merasa sangat, sangat terkejut; saya benar-benar merasa bahwa aliran tanah dan batu yang saya lihat sebelumnya tidak ada apa-apanya dibandingkan ini, tempat ini benar-benar seperti hari kiamat!"[^2]
 
-Ia bahkan pernah bilang, di hadapan kematian, ia hanya takut kamera jatuh, tidak khawatir keselamatan diri. Alasan ia rela mempertaruhkan nyawa bertahun-tahun pengambilan gambar udara, karena "semakin melihat sisi 'tidak layak'nya, semakin ingin melindunginya."
+Pada tahun 2012, dua puluh empat film pendek pengambilan gambar udara berjudul 《鳥目台灣》 hasil kolaborasinya dengan musisi Chen Ming-chang ditayangkan di PTS. Pada Agustus 2013, versi rumahan dari video tersebut diluncurkan. Saat Zeppelin menerima wawancara dari Pusat Informasi Lingkungan, ia menyatakan bahwa hal paling penting yang harus dilakukan oleh pemerintah yang berdedikasi adalah menjaga sumber daya alam yang ada dengan baik. Ketika ditanya bagian mana dari Taiwan yang paling indah, jawaban ia dan Chen Ming-chang adalah tempat tanpa jalan: tempat tanpa jalan raya dan tanpa aktivitas manusia, seperti pegunungan tinggi di atas ketinggian 3.000 meter, serta garis pantai asli terakhir di Taiwan, Alangyi[^3]. Orang yang memberikan jawaban ini, pada tahun itu bekerja di Biro Pekerjaan Umum Nasional untuk mengambil foto konstruksi jalan nasional dari langit.
 
-Konsumsi peralatan pengambilan gambar udara juga menakutkan. Setiap kali minimal harus bawa 6 kamera profesional, nilai ratusan juta yuan. Peralatan karena pengambilan gambar laut terkena garam, perbedaan suhu tinggi-rendah ekstrem menyebabkan uap air mengembun, sering harus dikirim cuci, aus cepat. Untuk mengantisipasi dingin ekstrem pegunungan tinggi, Chi Po-lin khusus mendesain sarung tangan hangat yang bisa mengoperasikan kamera dengan lincah di suhu rendah. Tapi ia juga menekankan pulang harus segera lepas pakaian: "Helikopter saat pulang turun kencang, suhu dari nol derajat naik jadi tiga puluhan derajat, kalau lepas lambat pasti kelelahan panas."
+## Tiga Tahun Sebelum Pensiun, Ia Berdiskusi dengan Ibunya untuk Menjaminkan Rumah
 
-Lebih menyakitkan baginya adalah pemandangan di depan mata. Bangunan liar rapat-rapit, puncak gunung berlubang-lubang, sungai tercemar. Ia pernah mengabadikan pelaku tidak bertanggung jawab mengangkut truk-truk sampah dibuang di pantai. "Kamu tahu tidak? Hanya tempat yang jarang dijajah manusia, itulah yang indah."
+Sekitar tahun 2008, ia mulai terpikir untuk membuat film menggunakan pengambilan gambar udara (_aerial photography_). Sebelum itu, ia menulis artikel, menghadiri diskusi, dan memberikan ceramah di berbagai tempat, ingin menceritakan apa yang ia lihat dari langit kepada semua orang, namun ia sering mendapati bahwa betapapun mengejutkannya foto-foto tersebut, tetap saja ada penonton yang melamun atau mengantuk[^4]. Ia kemudian menjelaskan kepada wartawan bahwa bercerita menggunakan foto membutuhkan banyak teks dan ceramah, serta memerlukan upaya besar agar pesan dapat tersampaikan; sementara video dapat menggunakan cara sederhana untuk membuat lebih banyak orang mengenal Taiwan[^3].
 
-"Aku di atas pesawat, cuma bisa menghela nafas terus! Kecepatan foto tidak bisa mengejar kecepatan pembangunan."
+Pada saat itu, sebuah dokumenter tentang pengambilan gambar udara di Taiwan terdengar seperti film ekologi yang membosankan. Model bisnis yang memungkinkan penonton mengeluarkan uang untuk menontonnya di bioskop belum ada, dan ia mengatakan banyak orang tidak mengerti apa yang sedang ia bicarakan. Hingga munculnya 《搶救地球》(Home) hasil kolaborasi antara Luc Besson dan fotografer udara Yann Arthus-Bertrand, orang-orang di sekitarnya baru mulai memahami seperti apa konsep ini[^4], dan ia sendiri pun mendapatkan inspirasi dari metode pengambilan gambar film tersebut[^2].
 
-### Kehargaan Satu Foto
+Pada tahun terjadinya bencana banjir Badai Morakot (Ba-Ba), ia membulatkan tekad; pertama-tama ia mengajukan cuti di luar tanggungan negara kepada Biro Nasional untuk Pekerjaan Umum, hingga akhirnya mengundurkan diri dari jabatan publik dan melepaskan uang pensiunnya[^2]. Saat mengundurkan diri, ia berusia 47 tahun, dan hanya butuh tiga tahun lagi untuk bisa menerima uang pensiun[^5][^4]. Ia menjelaskan alasannya mengapa tidak bisa menunggu: "Awalnya saya berpikir, mungkin butuh waktu sekitar 3 tahun lagi untuk pensiun, tetapi jika saya menunggu sampai pensiun baru mengerjakannya, mungkin stamina dan mata saya sudah tidak memadai, jadi akhirnya saya memutuskan untuk melepaskan jabatan publik dan uang pensiun terlebih dahulu."[^2]
 
-Agustus 1999, Chi Po-lin untuk _Majalah Geografi Bumi_ mengabadikan dari udara Taman Lin Ben Yuan Misty Peak yang baru selesai renovasi. Sebulan kemudian, Gempa 921 menghancurkan Taman Lin. Rangkaian foto itu menjadi catatan lengkap terakhir situs warisan berusia ratusan tahun itu.
+Demi kualitas gambar yang lebih baik, ia memutuskan untuk membeli satu set sistem fotografi udara dengan penstabil (_stabilizer_) dari Amerika Serikat seharga hampir NT$30 juta. Ia mengajak Wan Kuan-li yang pernah bekerja sama dengannya serta beberapa teman untuk mendirikan Taiwan Abu Film Company. Anggota perusahaan berbondong-bondong mengeluarkan uang, namun jumlahnya tetap tidak mencukupi. Ia kemudian berdiskusi dengan ibunya untuk menjaminkan rumah guna mendapatkan pinjaman; ibunya tahu bahwa ia tidak mengerti cara bersenang-senang atau berpesta, dan hanya suka memotret[^2]. Film ini pada akhirnya menghabiskan total sekitar NT$90 juta, dengan helikopter yang terbang selama empat ratus jam[^1][^6].
 
-Chi Po-lin pernah bilang, umpan balik pembaca adalah hiburan terbesar setelah pengambilan gambar udara. Seorang penyanyi wanita asal Qingdao Shandong yang menikah ke Taiwan, tinggal di pantai Cijin Kaohsiung, melihat foto udara pantai Cijin karya Chi Po-lin kebetulan menangkap rumahnya. Ia membeli foto itu dari Chi Po-lin, memperbesar puluhan lembar dikirim ke Qingdao, memberitahu keluarga: "Ini tempat aku tinggal!"
+Putranya yang duduk di kelas dua SMA meninggalkan secarik kertas di meja, bertanya kepada ayahnya apakah masih ada uang untuknya melanjutkan kuliah. Ia berpura-pura kuat di hadapan putranya dengan mengatakan bahwa asalkan lulus universitas negeri maka tidak perlu terlalu khawatir, namun saat melihat kertas itu, ia merasa sedih sekaligus takut; pada saat itu dana produksi belum sepenuhnya terjamin, dan ia tidak tahu apakah rencananya akan berhasil atau tidak[^2]. Ia mulai menelepon perusahaan satu per satu untuk mencari sponsor: "Orang terkaya pertama di Taiwan, kedua, ketiga... terus berurutan, saya telah menelepon semua perusahaan."[^1]
 
-## Taruhan 9 Juta
+Ada perusahaan yang membalasnya bahwa dalam sehari ada dua hingga tiga ratus orang yang datang meminta uang; ada juga yang bertanya di mana model bisnisnya dan di mana penontonnya, ia hanya bisa tersenyum pahit dan menjawab bahwa penonton ada di rumah[^1]. Chang Yang-chien, Wakil Direktur Eksekutif Yayasan Pendidikan Kebudayaan Delta Electronics, mengatakan bahwa saat mereka melihat karya Chih Pei-lin, mereka bahkan sampai meneteskan air mata. Delta Electronics kemudian menjadi sponsor terbesar pada tahun pertama proyek ini, diikuti oleh yayasan perusahaan lain seperti Wistron dan Fubon yang menyusul bergabung[^2][^1].
 
-2009, ke hancurnya pasca Banjir 88 membuat Chi Po-lin memutuskan: foto datar sudah tidak cukup membuat orang merasakan krisis yang dihadapi tanah Taiwan, ia akan memproduksi film dokumenter pengambilan gambar udara pertama Taiwan.
+[Hou Hsiao-hsien](/id/people/hou-hsiao-hsien), yang awalnya tidak mengenalnya, setuju membiarkan Chih menggunakan namanya setelah melihat potongan gambar awal selama enam menit, dan kemudian tercatat sebagai produser eksekutif[^1][^6]. Wu Nien-jen mematahkan prinsipnya yang biasanya hanya mengisi suara untuk teman atau karyanya sendiri dengan tidak mengambil sepeser pun uang untuk pengisian suara narasi (_voiceover_)[^7], sementara musik latar diserahkan kepada He Kuo-chieh[^6]. Chih Pei-lin sebelumnya hanya mengambil foto datar dan belum pernah membuat dokumenter maupun film; ia terus bertanya dan meminta bimbingan kepada banyak orang, di mana Hou Hsiao-hsien, Tai Li-ren, dan Yu Kan-ping semuanya membantu secara sukarela. Ia kemudian berkata: "Sekarang ketika dipanggil sutradara, sebenarnya saya merasa sangat malu, karena film ini 'ditanyakan' (melalui bantuan orang lain)"[^1].
 
-Yang menginspirasinya adalah film dokumenter _Home_ karya kolaborasi Luc Besson dan Yann Arthus-Bertrand. Tapi 2008 saat Chi Po-lin pertama kali mengusulkan konsep, ditolak semua orang: "Tidak ada tokoh utama pria wanita, cuma segumpal gambar udara, mustahil."
+## Pendapatan Box Office NT$200 Juta di Bioskop, Menonton Luka di Tanah Sendiri
 
-Banjir 88 membuatnya tidak ragu lagi. Ia mengeluarkan tabungan hampir 3 juta yuan, lagi meminjam 6 juta yuan hipotek rumah ke bank, membeli dari Amerika peralatan pengambilan gambar udara profesional "CINEFLEX" senilai hampir 30 juta yuan. Alat ini dipasang di hidung helikopter, dioperasikan Chi Po-lin dari kursi belakang kabin. Istri Jiang Qin-jie keluh dia menghabiskan tabungan untuk "hobi yang tak terlihat masa depannya", anak Chi Ting-hsuan sempat ragu apakah ayahnya masih bisa membiayai studinya.
+Pada 30 Oktober 2013, sebuah layar besar didirikan di Plaza Kebebasan, Memorial Hall Chiang Kai-shek, Taipei, untuk penayangan perdana terbuka 《See Taiwan》. Biaya pemutaran ini dikumpulkan melalui platform penggalangan dana massal flyingV; kampanye dimulai pada akhir September dan telah mencapai target sebelum ditutup[^8][^4]. Seminggu sebelumnya, seluruh tiket untuk penayangan perdana yang dihadiri puluhan ribu orang di Kaohsiung Arena juga telah terjual habis. Wali Kota Kaohsiung, Chen Chu, membeli hak siar film tersebut dari Chih Pei-lin pada malam itu untuk dijadikan materi pembelajaran bagi sekolah dasar dan menengah di Kaohsiung di masa mendatang[^9].
 
-November 2009, ia mendirikan Perusahaan Film Taiwan Above (Above Taiwan Cinema), "Above" diartikan sebagai "di atas", melambangkan kerinduannya pada langit.
+![Penayangan perdana terbuka di Plaza Kebebasan, Taipei pada 30 Oktober 2013, Chih Pei-lin berdiri di depan latar belakang panggung yang bertuliskan judul film dan tanggal rilis](/article-images/people/chi-po-lin-premiere-stage-2013.webp)
 
-Pembuatan _Melihat Taiwan_ berlangsung tiga tahun, biaya 90 juta yuan, mengumpulkan 400 jam jam terbang helikopter. Chi Po-lin bersikeras mengarahkan banyak lensa ke pemandangan kerusakan lingkungan. "Gambar bicara, tidak perlu banyak kata, lihat jelas. Siapa pun menonton, pasti tahu bahaya. Hidup sangat berharga, jangan demi uang dan keuntungan melakukan hal-hal ini."
+_30 Oktober 2013, Chih Pei-lin di atas panggung penayangan perdana terbuka di Plaza Kebebasan; latar belakang bertuliskan "Rilis di seluruh Taiwan pada 1 November". Photo: othree (Flickr), CC BY 2.0._
 
-Hou Hsiao-hsien menjabat produser eksekutif. Wu Nien-jen tergerak semangat Chi Po-lin, melanggar kebiasaannya yang selama ini hanya mengisi suara untuk karya sendiri atau teman, tanpa imbalan menjabat narrator. Musik ditangani pemenang Pengharga Kuda Emas Festival Film Taiwan Musik Asli Terbaik _Seediq Bale_ Ho Kui-chieh, pergi ke Praha berkolaborasi dengan Orkestra Simfoni Praha menyelesaikannya.
+Setelah dirilis pada 1 November, total pendapatan box office di seluruh Taiwan menembus NT$200 juta, menciptakan rekor film dokumenter terlaris dalam sejarah perfilman Taiwan. Newsweek Taiwan menggambarkan bahwa masyarakat Taiwan, tanpa memandang perbedaan politik biru atau hijau, dilanda gelombang kepedulian terhadap lingkungan[^10]. Li Gen-cheng, CEO Earth Citizen Foundation, kemudian mengatakan: "《See Taiwan》 tidak hanya membuat semua orang mengetahui keindahan Taiwan, tetapi juga melihat masalah lingkungan; melalui cara film dokumenter udara, untuk pertama kalinya kita melihat Taiwan seperti ini."[^11] Menjelang tahun 2025, saat sutradara Hsu Ming-chun berbicara tentang pasar film dokumenter Taiwan, ia menyebutkan bahwa rekor box office film dokumenter masih dipegang oleh 《See Taiwan》, dan bahkan film drama pun sulit untuk mencapai pencapaian tersebut[^12].
 
-## Keajaiban 2,2 Miliar
+Demi mengambil gambar jejak kaki besar di sawah dalam film tersebut, kru menunggu selama enam hari saat musim hujan agar cuaca cerah. Chih merasa tidak sabar, namun para petani tua justru makan, mengobrol, dan menyanyi karaoke; mereka telah lama belajar untuk hidup berdampingan dengan suasana hati alam, dan hal ini memberinya sebuah pelajaran[^4]. Sawah tersebut berada di Yuli, Hualien. Pada Maret 2014 setelah film dirilis, ia kembali ke Yuli untuk mengucapkan terima kasih kepada penduduk setempat[^14].
 
-30 Oktober 2013, _Melihat Taiwan_ menggelar premiere terbuka di Lapang Merdeka Taipei. Ini premiere film pertama dalam sejarah film Taiwan yang mendanai melalui pendanaan massa (platform flyingV). Chi Po-lin, Wu Nien-jen, Wei Te-sheng tiga sutradara hadir bersama.
+<div
+  class="video-embed"
+  style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
+>
+  <iframe
+    src="https://www.youtube.com/embed/on2AYFJ-Hy0"
+    title="Yuli Da Jiao Kan Taiwan Sutradara Chih Pei-lin Datang Langsung untuk Mengucapkan Terima Kasih"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
 
-1 November rilis resmi. Tak seorang pun menduga apa yang akan terjadi.
+_Laporan saluran resmi Huilian Cable TV pada Maret 2014: Chih Pei-lin kembali ke Yuli, Hualien untuk mengucapkan terima kasih. CC BY 3.0._
 
-Pekan pertama tiga hari pendapatan 110 juta, memecahkan rekor pekan pertama film dokumenter Taiwan. Sepuluh hari tayang, 350 juta, melampaui _Go Grandriders_ menjadi film dokumenter tertinggi pendapatan dalam sejarah film Taiwan. Dua puluh sembilan hari tembus 1 miliar, menjadi film Taiwan ketiga tembus 1 miliar tahun 2013. 5 Januari 2014, enam puluh enam hari tayang pendapatan tembus 2 miliar. Akhirnya mencapai **2,2 miliar yuan**.
+Wu Nien-jen, yang mengisi narasi film ini, berbicara pada musim panas 2013 mengenai lereng gunung di dalam film yang dipenuhi dengan rumah dan penginapan, serta ditanami pohon pinang; pemandangan ini tidak akan terlihat jika tidak diambil dari udara. Ia mengatakan masalah terbesar orang Taiwan adalah "berpura-pura tidak melihat", bahwa semua hal mengerikan sebaiknya tidak perlu diketahui, selalu mengira diri sendiri hidup dengan baik, namun saat terjadi masalah hanya bisa menyalahkan pemerintah. Ia juga menambahkan, jangan mengira tinggal di penginapan bergaya Eropa di gunung dan makan kubis adalah hal yang elegan; Anda dan saya adalah "kaki tangan" yang merusak Taiwan[^7].
 
-2014 rilis di Singapura, menjadi film dokumenter berbahasa Mandarin paling laku dalam sejarah film Singapura. Rilis di Jepang menggunakan judul _Tenkara no Shōtaijō_ (Surat Undangan dari Langit).
+Kritikus film Australia, Grant Watson, dalam ulasannya pada tahun 2019, menangkap nada ini: film tersebut berulang kali menyajikan pemandangan indah terlebih dahulu, lalu menunjukkan bagaimana orang Taiwan merusaknya; narasi terus-menerus menyalahkan penonton. Jika dilihat dengan standar film dokumenter, ia menganggapnya repetitif dan membosankan, namun jika dianggap sebagai sebuah pernyataan politik, ia merasa film ini sangat persuasif[^13].
 
-_Melihat Taiwan_ meraih **Pengharga Kuda Emas Festival Film Taiwan 50 Dokumenter Terbaik**, serta Pengharga Khusus Juri Dokumenter Panjang dan Pengharga Emas Sinematografi Festival Film Internasional Houston ke-47, Pengharga Matahari Emas Festival Film Hijau Internasional ke-21. Album soundtrack film nominasi Pengharga Album Terbaik Kategori Instrumental Pengharga Golden Melody ke-25.
+## Setelah Menonton Film, Jiang Yi-hua Merinci Enam Belas Masalah Wilayah Nasional
 
-## Pulau yang Berguncang
+Pada 13 November 2013, Presiden Eksekutif Yuan Jiang Yi-hua pergi ke bioskop untuk menonton 《See Taiwan》, dan di tempat tersebut ia berjanji kepada Chih Pei-lin bahwa pemerintah pasti akan berusaha keras menyelesaikan masalah-masalah perusakan wilayah nasional dan pencemaran lingkungan yang ditampilkan dalam film tersebut[^15][^16]. Ia menugaskan Wakil Sekretaris Jenderal Urusan Pemerintahan, Chien Taro, untuk mengumpulkan tim tugas konservasi wilayah nasional. Saat rapat pada 29 November, tim tersebut menyusun enam belas poin masalah wilayah nasional dari film tersebut, termasuk kerusakan stabilitas lereng akibat jalan raya pegunungan dan kawasan pemukiman yang berdekatan dengan lereng berbahaya[^15].
 
-Dampak _Melihat Taiwan_ jauh melampaui bioskop.
+Jiang Yi-hua menyatakan bahwa pemerintah harus bersikap tegas. Langkah yang ditetapkan oleh Eksekutif Yuan adalah: kementerian yang memiliki wewenang di tingkat pusat harus segera menanganinya, sedangkan untuk urusan wewenang daerah, pemerintah kota dan kabupaten harus mendesak pelaku usaha agar melakukan perbaikan dalam jangka waktu tertentu sesuai hukum. Jika pelaku usaha tetap tidak melakukan perubahan setelah batas waktu berakhir, pemerintah pusat dapat melakukan eksekusi paksa atau pembongkaran atas nama pemerintah[^15]. Pada tahap awal, tim tugas mengadakan rapat setiap dua minggu sekali; hingga akhir Januari tahun berikutnya, mereka telah mengadakan empat kali rapat dan melakukan lima kali peninjauan lapangan untuk verifikasi[^15][^16].
 
-Film mengungkap **PT Daylight Semiconductor** Pabrik K7 di Kaohsiung membuang limbah karsinogen ke Sungai Houjin. Di bawah liputan media, Baru Dinas Lingkungan Hidup Kaohsiung turun tangan menyelidiki. Lensa udara Chi Po-lin juga mengabadikan **Cingjing Farm** homestay ilegal masif, **Asia Cement** penambangan marmer di Gunung Xincheng Taroko Hualien. Pemandangan sebujur puncak gunung dikosongkan mengejutkan.
+Pada 26 Februari 2014, setelah mendengarkan laporan dari Kementerian Transportasi, Komisi Pertanian, dan Komisi Pengembangan Masyarakat Adat, Jiang Yi-hua memutuskan bahwa pada prinsipnya jalan raya pegunungan tidak akan dibuka lagi dan tidak boleh diperlebar dengan mudah. Dalam rapat yang sama, Komisi Pengembangan Masyarakat Adat mengingatkan bahwa jalan pegunungan yang ada saat ini tidak dapat dipisahkan dari kehidupan sehari-hari penduduk suku; jalan tersebut merupakan jalur vital untuk pencegahan bencana, evakuasi, dan penyelamatan. Sumber daya publik yang dapat digunakan oleh suku di pegunungan pada dasarnya lebih sedikit daripada di dataran rendah, sehingga jalan provinsi yang ada harus tetap berfungsi normal agar jaminan kehidupan dasar warga suku tetap terjaga[^17].
 
-Kabinet Pusat pada November 2013 membentuk "Kelompok Kerja Khusus Konservasi Tanah Negara". Februari 2014, Perdana Menteri Jiang Yi-huah menginstruksikan: masa depan tidak lagi membuka jalan pegunungan tinggi baru, yang sudah dibuka tidak dengan mudah diperlebar.
+Chih Pei-lin pernah mengatakan kepada wartawan _Vision Magazine_ bahwa berwisata ke Qingjing, Nantou akan terasa sangat indah pemandangannya, namun jika dilihat dari langit, wilayah sekitarnya penuh dengan pembukaan lahan ilegal dan tanah yang longsor; ia sangat mengkhawatirkan keselamatan jiwa orang-orang yang tinggal di sana[^1]. Di antara kawasan penggunaan lahan berlebih yang menjadi target gelombang pertama tim tugas, Qingjing termasuk di dalamnya[^18]. Pada tahun 2013, Kementerian Dalam Negeri mengumumkan tujuh penginapan ilegal di Qingjing yang terletak di zona sensitif geologi[^19]. Pada Januari tahun berikutnya, Jiang Yi-hua meminta Kementerian Dalam Negeri untuk berkoordinasi dengan Pemerintah Kabupaten Nantou guna menyusun rencana penanganan agar dapat dilaksanakan sebelum musim banjir tiba[^16]. Pada 29 Mei 2014, pemerintah kabupaten mengirimkan ekskavator untuk membongkar "Qingjing Shinjuku", yang seluruh bangunannya adalah bangunan ilegal dan tidak dapat mengurus izin susulan; penginapan ini menjadi penginapan pertama, sekaligus satu-satunya pada saat itu, yang dibongkar secara paksa, sementara enam penginapan lainnya dapat terhindar dari pembongkaran asalkan mereka mengurus izin susulan[^19].
 
-Tapi kesuksesan tidak hanya membawa pujian. Banyak perusahaan dan toko terselidiki lalu membalas, di internet muncul komentar mengancam keselamatan Chi Po-lin.
+![Lereng gunung di sekitar Qingjing, Kota Ren'ai, Nantou, dengan bangunan beratap merah tersebar di antara padang rumput dan hutan](/article-images/people/qingjing-renai-hillside-2013.webp)
 
-Mei 2017, Chi Po-lin sekali lagi terbang di atas area tambang Asia Cement Gunung Xincheng, mengabadikan foto dikirim ke teman, menghela nafas menulis: "Lebih dalam digali dibanding lima tahun lalu saat syuting _Melihat Taiwan_." Foto ini terungkap setelah ia meninggal.
+_Kawasan Qingjing di Kota Ren'ai, Nantau pada Juli 2013, dengan bangunan beratap merah tersebar di antara padang rumput dan hutan. Foto: Xu Yue-chun (Panoramio), CC BY 3.0._
 
-Tiga hari内, Yayasan Warga Bumi di internet meluncurkan petisi pencabutan perpanjangan hak tambang Asia Cement, dari 42 ribu orang melonjak tembus **200 ribu orang**. 25 Juni, 20 lebih organisasi masyarakat sipil menggelar "Melihat Asia Cement, Selamatkan Taroko" demonstrasi besar, lebih dari 8.000 orang berjalan ke Jalan Ketagalan, membentuk logo "Melihat Taiwan".
+Pan Chung-cheng dari Aliansi Lokal Taoyuan diundang untuk menonton pemutaran perdana pada Oktober 2013, dan ia merasa sangat terguncang saat melihat pemandangan terumbu Guanyin dari sudut pandang udara di layar lebar. Pada tahun 2017, ia menulis di Facebook bahwa setelah film tersebut menampilkan gambaran air limbah Guanyin ke hadapan publik, kualitas air di pesisir Taoyuan perlahan-lahan mulai terkendali; fenomena "laut hitam", "laut merah", dan "laut ungu" yang terjadi tahun itu sudah tidak terlihat lagi, dan sejak tahun sebelumnya, penduduk yang tinggal di tepi laut mulai melihat kerang dan kerang laut kembali[^20].
 
-**Juli 2019**, Pengadilan Administratif Tinggi Taipei mencabut hak tambang Asia Cement yang sudah diperpanjang, menciptakan **preseden pertama kemenangan hak persetujuan konsultasi orang asli**. September 2021, Mahkamah Administratif Tertinggi mempertahankan pandangan, putusan final. Satu foto Chi Po-lin, akhirnya mengubah hukum.
+> **📝 Catatan Kurator**
+> Pernyataan yang sering terdengar adalah bahwa 《See Taiwan》 telah mengubah kebijakan wilayah nasional Taiwan. Catatan yang ditinggalkan oleh Eksekutif Yuan sendiri jauh lebih konkret daripada kalimat tersebut: film ini pertama-tama menghasilkan sebuah daftar berisi enam belas poin, diikuti oleh rapat demi rapat dan verifikasi lapangan. Agar setiap poin dalam daftar tersebut berubah menjadi rumah yang dibongkar atau jalan pegunungan yang tidak lagi dibuka, harus ada orang yang mengejarnya satu per satu; orang-orang yang mengejar itu duduk di kementerian dan pemerintah kabupaten, juga berdiri di pengadilan, dan beberapa di antaranya tinggal tepat di bawah lokasi pertambangan.
 
-## Penerbangan Terakhir
+## Pada Hari Peninjauan Lokasi Sekuel, Helikopter Tidak Kembali
 
-8 Juni 2017, Chi Po-lin menggelar konferensi pers pembukaan syuting _Melihat Taiwan II_. Ia berharap memperluas cakupan ke luar Taiwan, dari Daratan Tiongkok, Jepang, Malaysia ke Selandia Baru, menelusuri asal usul suku Austronesia orang asli Taiwan, membangunkan "DNA petualang" yang tertidur dalam darah orang Taiwan.
+8 Juni 2017 adalah Hari Kelautan Internasional, dan Chih Pei-lin memilih hari ini untuk mengadakan konferensi pers pembukaan syuting 《See Taiwan II》. Dalam sekuelnya, ia ingin membawa kamera keluar dari Taiwan, terbang di atas langit negara lain, serta menyelam ke dasar laut untuk melihat ekosistem laut. Ia berharap penonton memahami bahwa masalah lingkungan tidak mengenal batas negara; orang-orang yang berada di bawah langit yang sama dan lautan yang sama tidak ada yang bisa berpangku tangan[^21].
 
-"Darahmu pasti harus memiliki faktor petualang!" Katanya di konferensi pers.
+Dua hari kemudian, pada 10 Juni, ia naik helikopter milik Ling Tien Aviation untuk meninjau lokasi bagi sekuel tersebut. Ini adalah misi pengambilan gambar udara kelompok ketiga pada hari itu; helikopter lepas landas dari Kota Chihshang, Kabupaten Taitung sekitar pukul 10:45 pagi, dengan rencana mengambil gambar di sepanjang rute Yuli, Ruisui, Fengbin, hingga Chenggong[^22][^23]. Sekitar pukul 11:54, helikopter jatuh di dekat Peternakan Xiejin di dekat Jembatan Changhong, Kecamatan Fengbin, Kabupaten Hualien. Tiga orang di dalam pesawat tewas: Chih Pei-lin (52), asistennya Chen Kuan-chi (25), dan pilot Chang Chih-kuang (53)[^23][^24]. Chang Chih-kuang sebelumnya adalah seorang pilot helikopter militer yang bergabung dengan Ling Tien Aviation pada tahun 2006, dengan total waktu terbang melebihi 5.500 jam[^23].
 
-Dua hari kemudian, 10 Juni pagi, Chi Po-lin menaiki helikopter Bell 206 nomor B-31118 milik Lionair, lepas landas dari Hualien menjalankan survei lokasi ketiga untuk film baru. Di atas helikopter terbawa peralatan kamera profesional 6K yang dibeli khusus untuk film baru.
+Pada 12 Juni, Kementerian Pertahanan mengirimkan dua pesawat angkut C-130 untuk membawa ketiga korban dari Hualien kembali ke Taipei. Pada 24 Juni, Presiden Tsai Ing-wen memberikan perintah penghormatan dalam pameran peringatan 「See Chih Pei-lin」 di Songshan Cultural and Creative Park, yang diterima oleh ayah Chih Pei-lin, Chih Wei-hsin, sebagai perwakilan[^25][^26]. Dalam pidatonya, Tsai Ing-wen menyebutkan bahwa semasa hidupnya, Chih Pei-lin sering berterima kasih kepada Chang Chih-kuang karena telah menemaninya bertualang dengan teknik penerbangan terbaik, "Kita akan selalu mengingat bahwa ada seorang pilot yang begitu berani."[^26]
 
-Sekitar pukul 11.56, helikopter di kawasan pegunungan dekat Jembatan Changhong Kecamatan Fengbin Hualien jatuh. Tiga orang di atas helikopter semuanya meninggal: Chi Po-lin, asisten Chen Kuan-chi, pilot Chang Chih-kuang. Laporan investigasi Komite Keselamatan Penerbangan menyatakan penyebab kecelakaan meliputi pilot Chang Chih-kuang mengonsumsi obat antihistamin memengaruhi reaksi, hari sebelumnya sudah menjalankan 3 kali misi penerbang menyebabkan kelelahan, serta aliran udara mendadak kencang setempat, faktor komposit.
+Tsai Ing-wen juga membacakan sebuah tulisan dari teman kuliah Chen Kuan-chi. Teman ini adalah admin Facebook dari Kantor Pengelola Kawasan Pemandangan Nasional Huadong Valley, yang menulis setelah kematian Chen Kuan-chi: "Semoga nama Chen Kuan-chi tidak hanya diingat sebagai asisten Sutradara Chih Pei-lin, tetapi karena ia adalah seorang pemuda yang bekerja keras dan mencintai tanah ini."[^26]
 
-Saat menemukan jenazah Chi Po-lin, di sampingnya tersebar peralatan kamera senilai jutaan.
+Komite Investigasi Keselamatan Penerbangan (AEIC) melakukan investigasi selama satu tahun empat bulan, dan merilis laporan akhir pada 31 Oktober 2018[^27][^28]. Helikopter ini tidak dilengkapi dengan perekam penerbangan (_flight recorder_), dan sebagian besar badan pesawat hangus terbakar setelah jatuh ke tanah. Penyelidik tidak memiliki data penerbangan yang dapat dibaca, serta tidak dapat memeriksa puing-puing atau menguji mesin[^22]. Satu-satunya hal yang bisa mereka andalkan adalah kamera pengambilan gambar udara di dalam pesawat: pada hari kedua setelah kecelakaan, tim investigasi bersama personel dari Abut Film mengunduh kartu memori dan memperoleh 72 klip video, lalu menggunakan citra tersebut untuk memperkirakan jalur terbang helikopter[^23].
 
-## Warisan Melampaui Kehidupan
+Laporan tersebut mencantumkan beberapa kondisi yang terkait dengan kemungkinan penyebab: pilot mungkin terpengaruh oleh obat antihistamin, waktu terbang yang tinggi karena hanya beristirahat dalam jumlah minimum yang diatur regulasi, paparan getaran helikopter dalam waktu lama, serta lingkungan penerbangan di ketinggian rendah, daerah pegunungan, dan suhu musim panas yang tinggi. Kondisi-kondisi ini dapat membuat pilot "berada dalam kondisi kelelahan atau penurunan kemampuan performa fisiologis dan psikologis" saat kecelakaan terjadi[^22].
 
-Kematian Chi Po-lin mengguncang seluruh masyarakat Taiwan.
+Konsentrasi antihistamin yang terdeteksi dalam darahnya adalah 24 ng/mL; jenis obat ini umum digunakan untuk gejala alergi seperti hidung meler atau gatal pada kulit. Laporan tersebut menyatakan bahwa "sisa obat ini seharusnya merupakan akibat dari akumulasi penggunaan obat yang normal," dan juga mengakui kurangnya bukti langsung untuk mengevaluasi operasi dan penilaian pilot pada saat kecelakaan, sehingga tidak dapat menentukan seberapa besar pengaruh kondisi-kondisi tersebut terhadap pelaksanaan tugasnya secara aman[^22][^29]. Sebuah ulasan yang diterbitkan oleh _The New News_ mempertanyakan bahwa dalam kondisi kurangnya bukti langsung, memasukkan penggunaan obat dan kelelahan sebagai kemungkinan penyebab tidak sesuai dengan cara penulisan AEIC di masa lalu[^30].
 
-Kementerian Pertahanan mengirim dua pesawat **angkut C-130** dari Hualien mengantar jenazah ke Bandara Songshan Taipei, dan berbaris hormat menghormatinya. Dahulu Chi Po-lin berkali-kali membantu Angkatan Udara memproduksi dokumenter, termasuk 2015 microfilm 60 Tahun Tim Penyelamatan Angkatan Udara "Melihat Taiwan, Malaikat Belas Kasih".
+Laporan tersebut juga mencatat celah sistemik: Biro Penerbangan Sipil tidak menyediakan panduan penggunaan obat bagi pilot dan dokter pemeriksa kesehatan, serta waktu masuk dan pulang kerja pada log operasional lapangan Ling Tien Aviation tidak sesuai dengan waktu tugas aktual kru penerbangan[^22]. Selain itu, berdasarkan peraturan, helikopter ini memang tidak diwajibkan untuk memasang perekam penerbangan[^30]. Berdasarkan Undang-Undang Investigasi Kecelakaan Penerbangan, investigasi ini "tidak bertujuan untuk pemberian sanksi atau pengejaran tanggung jawab"[^23]. Laporan tersebut akhirnya mengajukan 18 saran perbaikan: 9 untuk Ling Tien Aviation dan 9 untuk Biro Penerbangan Sipil, di mana salah satunya meminta Biro Penerbangan Sipil untuk secara aktif mengevaluasi kelayakan pemasangan perekam penerbangan sederhana bagi industri penerbangan umum[^22][^28].
 
-24 Juni, Presiden Tsai Ing-wen di pameran kenangan "Melihat Chi Po-lin" langsung mengucapkan Surat Kehormatan: "Dengan perspektif pengambilan gambar udara mempresentasikan keindahan lanskap Taiwan, mengungkap pencemaran limbah dan pembukaan lahan liar, mengungkapkan perubahan perkembangan lingkungan, membangkitkan kesadaran konservasi tanah air warga."
+![Lokasi pameran peringatan 「See Chih Pei-lin」 di Songshan Cultural and Creative Park, seseorang memberikan pidato di depan, dengan latar belakang foto udara pemandangan gunung yang luas](/article-images/people/chi-po-lin-memorial-exhibition-2017.webp)
 
-Warisan yang ia tinggalkan melampaui batas kehidupan:
+_24 Juni 2017, pameran peringatan 「See Chih Pei-lin」 di Songshan Cultural and Creative Park. Foto: Kantor Kepresidenan (Flickr), CC BY 2.0._
 
-- **Asteroid 281068** dinamai namanya
-- **Kepiting Chi Po-lin** (_Neorhynchoplax chipolini_) dan **Cacing Pasir Berinsang Chi Po-lin** (_Dendronereis chipolini_), dinamai oleh Profesor Hsueh Pan-wen Universitas Nasional Chung Hsing
-- Satelit pertama konstelasi **Satelit Formosat-8** dinamai "Satelit Chi Po-lin"
-- 2018, **Yayasan Melihat Chi Po-lin** didirikan, menerima 600 ribu foto udara dan hampir seribu jam rekaman bergerak
-- 2019, **Ruang Chi Po-lin** didirikan di Tamsui (Jl. Zhongzheng No. 316-1, Kec. Tamsui, Kota New Taipei)
-- Sekolah Dasar Dongpu Desa Xinyi Nantou merencanakan **"Jalan Kecil Berlin"**
-- Taman Memorial Jinbaoshan memiliki patung kenangan Chi Po-lin, berdampingan dengan Teresa Teng, Hu Chin-chuan, Li Tien-lu
+## Lubang Putih Besar di Tambang Asia Cement, dan Empat Anggota Suku yang Menggugat ke Pengadilan
 
-### Karya Tulisan dan Karya Visual
+Dalam gerakan "Kembalikan Tanah Kami" oleh anggota suku Taroko untuk menentang Asia Cement (Yani), Tian Chun-chou telah berjuang selama dua puluh tahun hingga tahun 2017. Ia mengumpulkan data sepanjang jalan, mengungkap dokumen pelepasan tanah penduduk yang dipalsukan oleh kantor kecamatan saat itu, dan memenangkan gugatan untuk mendapatkan kembali sertifikat hak milik sebagian tanah. Ketika Tsai Ing-wen mewakili pemerintah meminta maaf kepada masyarakat adat pada tahun 2016, ia juga menerima petisi dari Tian[^32].
 
-| Tahun | Karya                                                                        | Jenis         |
-| ----- | ---------------------------------------------------------------------------- | ------------- |
-| 1997  | _Imaji Jalan Tol Utara Nomor 2: Kedalaman Kasih Sayang yang Memeluk Bumi_    | Kumpulan Foto |
-| 2004  | _Melihat Taiwan dari Udara: Cerita Tanah Kita_                               | Kumpulan Foto |
-| 2012  | _Melihat Taiwan dari Udara: Kumpulan Foto Udara Chi Po-lin_ (cetakan kedua)  | Kumpulan Foto |
-| 2012  | _Taiwan Mata Burung_ (tulis Liu Ka-hsiang, musik Chen Ming-chang)            | Dokumenter    |
-| 2013  | _Melihat Taman Nasional Taiwan dari Udara_                                   | Dokumenter    |
-| 2013  | _Hatiku, Mataku, Melihat Taiwan_                                             | Buku          |
-| 2013  | **Melihat Taiwan** (narator Wu Nien-jen, produser eksekutif Hou Hsiao-hsien) | Dokumenter    |
-| 2015  | _Sonata Pulau: Kumpulan Foto Udara Chi Po-lin_                               | Kumpulan Foto |
+Pada 14 Maret 2017, Kementerian Ekonomi menyetujui perpanjangan hak pertambangan di Gunung Xincheng milik Asia Cement, yang memungkinkannya untuk menambang selama dua puluh tahun lagi hingga tahun 2037[^33][^34]. Setelah berita ini tersebar, gerakan masyarakat meluncurkan petisi untuk membatalkan perpanjangan tersebut, dan Chih Pei-lin juga ikut menandatanganinya. Ia selalu peduli pada masalah pertambangan di wilayah Hualien dan Taitung, dan pernah memberikan foto udara secara cuma-cuma untuk digunakan oleh kelompok lingkungan[^11][^32].
 
-Dari tabungan 3 juta seorang pegawai negeri sipil ke pendapatan 2,2 miliar, dari anggaran pengambilan gambar udara 20 jam per tahun ke akumulasi 1.600 jam penerbangan langit, dari satu foto udara Taman Lin Ben Yuan Misty Peak ke putusan pengadilan yang mengubah hak tambang Asia Cement. Chi Po-lin menghabiskan 26 tahun melakukan satu hal: membiarkan orang Taiwan dari langit melihat pulau mereka sendiri.
+Pada bulan Mei tahun yang sama, demi memotret paus dan lumba-lumba besar di laut, ia melakukan survei lokasi di sekitar [Qingshui Cliff](/id/geography/qingshui-cliff). Dalam perjalanan pulang, ia mengambil sebuah foto di Gunung Duantou di Taroko: tempat yang seharusnya berupa hutan pegunungan hijau luas, kini telah digali menjadi lubang besar berwarna abu-abu keputihan. Saat mengunggah foto tersebut, ia menghela napas bahwa Asia Cement "telah menggali lebih dalam daripada saat saya memotret _See Taiwan_ lima tahun lalu"[^31].
 
-Ia pernah bilang: "Taiwan dulu sungguh sangat indah! Tapi puluhan tahun ini kita mengejar pembangunan ekonomi, sebenarnya tanpa sadar melukainya."
+![Tambang Asia Cement di Gunung Xincheng, area pertambangan berbentuk tangga berwarna abu-abu keputihan digali di tengah lereng gunung yang hijau](/article-images/people/asia-cement-xincheng-quarry-2016.webp)
 
-14 Juli upacara perpisahan, Chi Po-lin beristirahat panjang di Taman Memorial Jinbaoshan Kota New Taipei Gunung Jin.
+_Tambang Asia Cement di Gunung Xincheng, Hualien pada November 2016, area pertambangan berbentuk tangga berwarna abu-abu keputihan digali di tengah lereng gunung yang hijau. Foto: Simballin, CC BY-SA 4.0._
 
-> ✦ "Taiwan begitu indah, layak aku catat dengan nyawa."
+Setelah ia wafat, jumlah petisi untuk membatalkan perpanjangan tersebut melonjak hingga 210.000 orang. Pada sore hari tanggal 25 Juni, pawai "Lihat Asia Cement, Selamatkan Taroko" dimulai dari depan Eksekutif Yuan. Dipimpin oleh 160 orang [suku Taroko](/id/culture/truku-people) dari Desa Fushi, Xincheng, Hualien, lebih dari 8.000 orang berjalan hingga ke Ketagaki (CKS Memorial Hall). Di sana, mereka bersama-sama membentuk formasi gambar Taiwan yang kemudian difoto dari udara. Penyelenggara, Earth Citizen Foundation, menyatakan bahwa ini dilakukan untuk mengenang Chih Pei-lin. Tian Chun-chou, yang telah berusia 75 tahun, pernah terkena serangan angin dua kali, dan menggunakan kursi roda, naik ke panggung dan berkata: "Selama masih ada napas, saya harus terus melawan Asia Cement!"[^32]
 
----
+Keempat anggota suku dari desa Boshian yang mengajukan gugatan tinggal dalam radius garis lurus 500 meter dari area tambang. Xu A-chin adalah pemilik tanah di dalam area tambang, Tian Ming-cheng adalah pemegang hak garap tanah di area tambang, sementara Zheng Wen-quan dan Bai Mei-hua juga termasuk dalam pihak penggugat[^33][^35]. Pada Oktober 2017, mereka mengajukan gugatan administratif ke Pengadilan Tinggi Administrasi Taipei untuk membatalkan keputusan perpanjangan tersebut; sejak saat itu, sengketa [tambang Gunung Xincheng Asia Cement](/id/history/asia-cement-xincheng-mine) memasuki ranah pengadilan[^34][^33]. Pada 11 Juli 2019, putusan tingkat pertama membatalkan perpanjangan tersebut. Pada 16 September 2021, Pengadilan Tinggi Administrasi menolak banding dari Asia Cement, sehingga putusan menjadi tetap. Alasannya adalah sebelum Kementerian Ekonomi menyetujui perpanjangan, mereka tidak menjalankan prosedur konsultasi dan persetujuan sebagaimana diatur dalam Pasal 21 Undang-Undang Dasar Masyarakat Adat, yang berarti tidak melakukan konsultasi terlebih dahulu dengan suku setempat untuk mendapatkan persetujuan[^33][^34].
+
+Selama tahun-tahun gugatan berlangsung, daftar enam belas poin dari Eksekutif Yuan telah lama dikembalikan ke masing-masing kementerian: Gugus Tugas Konservasi Tanah Nasional berhenti beroperasi setelah pergantian partai pada tahun 2016, dan tugas yang sebelumnya dialokasikan dilanjutkan oleh kementerian terkait[^18]. Pada April 2018, Bupati Nantou Lin Ming-chen mengonfirmasi akan mencabut larangan pembangunan di Qingjing yang telah berlangsung selama hampir enam tahun dengan syarat tertentu, dengan mengatakan "Jika fasilitas pertanian sederhana pun tidak boleh dibuat, hal ini akan sangat menyengsarakan petani kami". Li Gen-zheng dari Earth Citizen Foundation menanggapi bahwa penanganan kasus seperti ini pada akhirnya akan menjadi "siapa yang punya kekuatan lebih besar? Siapa yang punya pengaruh lebih besar?"[^37]. Hingga Maret 2021, hanya tersisa satu penginapan ilegal besar di Qingjing yang diawasi oleh Administration of Bureau of Land and Water Resources yang belum dibongkar; pemerintah kabupaten mengatakan jadwal pembongkaran akan ditetapkan kemudian[^38].
+
+Setelah putusan menjadi tetap, Ketua Dewan Desa Boshian, Lo-ti Yu-tao, tampil untuk memberikan penjelasan. Ia menghormati hak anggota suku untuk menyatakan pendapat pribadi, namun ia tidak setuju jika ada orang yang menggunakan nama suku secara sepihak; suku tersebut belum memiliki konsensus mengenai Asia Cement, dan selanjutnya akan diadakan pertemuan penjelasan untuk menyatukan pandangan anggota suku. Laporan dari Central News Agency juga menulis bahwa operasional Asia Cement di daerah tersebut berkaitan dengan lapangan kerja dan keamanan tempat tinggal[^35].
+
+Berdasarkan Pasal 13 Undang-Undang Pertambangan, setelah putusan dijatuhkan, hak tambang kembali ke status "permohonan perpanjangan", dan selama masa permohonan, pengusaha tetap memiliki hak menambang. Kementerian Ekonomi menyatakan bahwa operasi penambangan dapat berjalan seperti biasa tanpa harus berhenti, namun mereka akan meminta Asia Cement untuk melengkapi proses konsultasi dan persetujuan suku sebelum dilakukan peninjauan ulang[^36][^35]. Penggugat, Zheng Wen-quan dan Bai Mei-hua, mengatakan bahwa keamanan tempat tinggal dan tanah bagi lebih dari 60 rumah tangga dan 200 orang yang tinggal di bawah area tambang masih tidak menentu. Jika Undang-Undang Pertambangan tidak direvisi, keadilan tidak akan pernah tercapai; begitulah mereka menggambarkan situasi setelah gugatan selesai[^35]:
+
+```tw-quote
+Gugatan dimenangkan, tapi Asia Cement tetap meledakkan gunung
+Zheng Wen-quan, Bai Mei-hua | Anggota suku Boshian yang mengajukan gugatan, setelah putusan tetap pada tahun 2021
+Sumber: Central News Agency, 24-09-2021
+```
+
+```tw-timeline
+Daftar Eksekutif Yuan dan Gugatan Asia Cement
+2013 | Perdana Menteri menonton film | 13/11 Jiang Yi-hua menonton 《See Taiwan》, 29/11 gugus tugas menyusun 16 masalah tanah nasional dari film tersebut
+2014 | Prinsip jalan pegunungan tidak lagi dibuka | 26/2 Kuasa Eksekutif Yuan memberikan instruksi, Komisi Masyarakat Adat mengingatkan bahwa jalan yang ada adalah jalur kehidupan dan penyelamatan bencana bagi suku
+2017 | Perpanjangan hak tambang hingga 2037 | 14/3 Kementerian Ekonomi menyetujui perpanjangan hak tambang Gunung Xincheng Asia Cement, gerakan masyarakat meluncurkan petisi pembatalan
+2017 | Formasi gambar Taiwan di Ketagaki | 25/6 Anggota suku Taroko dari Desa Fushi memimpin pawai, jumlah petisi melonjak hingga 210.000 orang setelah wafatnya Chih Pei-lin
+2019 | Putusan tingkat pertama membatalkan perpanjangan | 11/7 Pengadilan Tinggi Administrasi Taipei menjatuhkan putusan dengan alasan tidak menjalankan Pasal 21 Undang-Undang Dasar Masyarakat Adat
+2021 | Putusan tetap, tambang beroperasi normal | 16/9 Pengadilan Tinggi Administrasi menolak banding Asia Cement; berdasarkan Pasal 13 Undang-Undang Pertambangan, penambangan tetap dapat dilakukan selama masa permohonan perpanjangan
+Sumber: Eksekutif Yuan, Pengadilan Tinggi Administrasi, Pusat Informasi Lingkungan, Sing Tao
+```
+
+## Dari Helikopter yang Disewa dari Bureau of National Highway Engineering, hingga Satelit di Jarak 561 Kilometer
+
+Pada tanggal 29 November 2025 pukul 02:44 dini hari waktu Taiwan, roket Falcon 9 milik SpaceX meluncur dari Pangkalan Angkatan Luar Angkasa Vandenberg di California, Amerika Serikat, untuk mengorbitkan satelit pertama dari seri Formosat-8 milik [Pusat Antariksa Nasional](/id/technology/tasa-taiwan-space-agency) ke orbit sinkron matahari pada ketinggian 561 kilometer dari permukaan bumi[^39][^40]. Satelit ini diberi nama "Zeppelin". Presiden Lai Ching-te menyatakan bahwa pemberian nama ini adalah dengan "harapan agar semangat sutradara Chih Pei-lin dapat diperluas hingga ke luar angkasa, untuk terus menjaga Taiwan dan mengamati dunia"[^41].
+
+Lebih dari tiga puluh tahun yang lalu, Bureau of National Highway Engineering mulai menyewakan helikopter bagi seorang staf muda yang awalnya bertugas di bagian pengadaan, agar ia dapat mengambil foto konstruksi jalan tol dari udara; direktur biro tersebut ingin dia fokus melakukan hal yang dia sukai. Hal yang dia sukai itu kemudian membawanya terbang melintasi langit Taiwan dan menghasilkan sebuah film dengan pendapatan box office di seluruh Taiwan yang melampaui NT$200 juta[^1][^2][^10]. Dalam perjalanannya, ia ditemani oleh pilot helikopter, asisten yang ikut naik pesawat, serta Wu Nien-jen yang mengisi narasi tanpa memungut biaya[^7]. Pada hari peluncuran satelit tersebut, putra Chih yang bernama Qi Ting-huan—yang dulu pernah meninggalkan catatan di meja menanyakan biaya sekolah—mengatakan dalam sebuah video bahwa ayahnya selalu berharap apa yang ia lihat dapat dilihat oleh semua orang, menggunakan kekuatan dari "melihat" untuk menciptakan dan mengubah sesuatu[^39].
+
+Semasa hidupnya, Chih Pei-lin sering mengatakan bahwa fotografi udara tidak dapat diselesaikan oleh satu orang saja[^26]. Begitu pula dengan proses dari sekadar "melihat" menuju "perubahan". Ia sendiri telah memberikan kontribusinya dengan menandatangani petisi pembatalan perpanjangan izin dan menyerahkan foto-foto udara kepada kelompok lingkungan[^11]. Tian Chun-chou, pada tahun 2017 telah berjuang selama dua puluh tahun melawan Asia Cement demi slogan "Kembalikan Tanah Saya"; empat anggota suku yang tinggal di dekat area tambang telah mengajukan gugatan terkait perpanjangan izin hingga ke Pengadilan Tinggi Administrasi[^32][^33]. Kekuatan "melihat" yang dikatakan oleh Qi Ting-huan harus ditangkap oleh sekelompok orang seperti inilah agar dapat berubah menjadi sebuah perubahan nyata.
+
+**Bacaan Lanjutan**:
+
+- [Insiden Tambang Xinchengshan Asia Cement](/id/history/asia-cement-xincheng-mine) — Bagaimana putusan ditulis, mengapa hak penambangan masih dianggap berlanjut setelah putusan, serta hal-hal yang masih dipertanyakan oleh suku setempat saat pengurusan ulang AMDAL pada tahun 2026.
+- [Sejarah Gerakan Lingkungan Taiwan](/id/nature/taiwan-environmental-movement-history) — Sebelum film 《See Taiwan》 ditayangkan, perjuangan lingkungan di Taiwan telah menempuh jalan yang sangat panjang; artikel ini menguraikan garis waktu panjang tersebut.
+- [Qingshui Cliff](/id/geography/qingshui-cliff) — Pesisir tempat Chih Pei-lin melakukan survei lokasi pada Mei 2017 untuk memotret paus dan lumba-lumba; area tambang Taroko yang dilewati saat perjalanan pulang berada di dekat sana.
+- [Pusat Antariksa Nasional](/id/technology/tasa-taiwan-space-agency) — Proyek di balik satelit Formosat-8 "Zeppelin", serta bagaimana Taiwan selangkah demi selangkah membangun satelitnya sendiri.
+- [Hou Hsiao-hsien](/id/people/hou-hsiao-hsien) — Sutradara representatif dari New Cinema Taiwan, yang setelah menonton potongan gambar awal selama enam menit langsung bersedia menjadi produser eksekutif untuk 《See Taiwan》.
+- [Jalan Tol](/id/lifestyle/national-highway-system) — Dari Jalan Mai Shu pada tahun 1964 hingga jaringan jalan tol nasional saat ini; apa yang difoto Chih Pei-lin di Bureau of National Highway Engineering adalah pembangunan jaringan jalan tersebut.
+
+## Sumber Gambar
+
+Keenam gambar di bawah ini menggunakan lisensi CC, semuanya telah disimpan dalam cache di `public/article-images/people/` untuk menghindari _hotlinking_ ke server sumber; video merupakan sematan berlisensi CC dari saluran resmi Hualien Cable TV:
+
+- [Pemutaran Terbuka "See Taiwan" (hero)](<https://commons.wikimedia.org/wiki/File:%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E9%9C%B2%E5%A4%A9%E7%89%B9%E6%98%A0_(10647981644).jpg>) — Foto: othree (Flickr), 2013-10-30, Wikimedia Commons, CC BY 2.0
+- [Sutradara Taiwan Chih Pei-lin di pemutaran perdana terbuka 《See Taiwan》](<https://commons.wikimedia.org/wiki/File:2013_%E8%87%BA%E7%81%A3%E5%B0%8E%E6%BC%94%E9%BD%8A%E6%9F%8F%E6%9E%97%E5%9C%A8%E6%89%80%E5%9F%B7%E5%B0%8E%E7%9A%84%E3%80%8A%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E3%80%8B%E9%9C%B2%E5%A4%A9%E9%A6%96%E6%98%A0%E6%9C%83(%E8%87%BA%E5%8C%97%E8%87%AA%E7%94%B1%E5%BB%A3%E5%A0%B4)_Taiwanese_Director_Chi_Po-lin_at_the_Premiere_of_his_%22Beyond_Beauty_-_TAIWAN_FROM_ABOVE%22_in_Taipei,_TAIWAN.jpg>) — Foto: othree (Flickr), 2013-10-30, Wikimedia Commons, CC BY 2.0
+- [Fotografer Udara Taiwan Po-lin Chi](https://commons.wikimedia.org/wiki/File:Taiwanese_Aerial_Photographer_Po-lin_Chi.JPG) — Foto: SSR2000, 2013-10-28, Wikimedia Commons, CC BY-SA 3.0
+- [Desa Datong, Kecamatan Ren'ai, Kabupaten Nantou (area Qingjing)](<https://commons.wikimedia.org/wiki/File:546,_Taiwan,_%E5%8D%97%E6%8A%95%E7%B8%A3%E4%BB%81%E6%84%9B%E9%84%89%E5%A4%A7%E5%90%8C%E6%9D%91_-_panoramio_(29).jpg>) — Foto: Xu Yuechun (Panoramio), 2013-07-08, Wikimedia Commons, CC BY 3.0
+- [Pameran Peringatan 「Mengenang Chih Pei-lin」](<https://commons.wikimedia.org/wiki/File:06.24_%E3%80%8C%E7%9C%8B%E8%A6%8B%E9%BD%8A%E6%9F%8F%E6%9E%97%E3%80%8D%E7%B4%80%E5%BF%B5%E5%B1%95_(35109783300).jpg>) — Foto: Kantor Kepresidenan (Flickr), 2017-06-24, Wikimedia Commons, CC BY 2.0
+- [Asia Cement Mt. Xincheng Quarry](https://commons.wikimedia.org/wiki/File:Asia_Cement_Mt._Xincheng_Quarry.jpg) — Foto: Simballin, 2016-11-19, Wikimedia Commons, CC BY-SA 4.0
+- [Yuli Big Foot See Taiwan: Sutradara Chih Pei-lin datang langsung untuk mengucapkan terima kasih](https://www.youtube.com/watch?v=on2AYFJ-Hy0) — Saluran resmi YouTube Hualien Cable TV, 2014-03-23, CC BY 3.0
 
 ## Referensi
 
-- [Chi Po-lin (Taiwan) - Wikipedia](<https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)>)
-- [Melihat Taiwan - Wikipedia](https://zh.wikipedia.org/wiki/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3)
-- [Kecelakaan Helikopter Lionair 2017 - Wikipedia](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E5%87%8C%E5%A4%A9%E8%88%AA%E7%A9%BA%E7%9B%B4%E5%8D%87%E6%A9%9F%E4%BA%8B%E6%95%85)
-- [Yayasan Melihat Chi Po-lin](https://www.chipolin.org/)
-- [Pengharga Kuda Emas ke-50 - Wikipedia](https://zh.wikipedia.org/wiki/%E7%AC%AC50%E5%B1%86%E9%87%91%E9%A6%AC%E7%8D%8E)
-- [Laporan Investigasi Kecelakaan Chi Po-lin - Komite Keselamatan Penerbangan](https://www.asc.gov.tw/)
-- [Gerakan Anti-Asia Cement & Putusan Hak Persetujuan Konsultasi Orang Asli - The News Lens](https://www.thenewslens.com/article/70817)
-- [Ou Chin-te Menulis Chi Po-lin](<https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)#cite_note-12>)
-- _Ming Sheng Bao_ 12 Mei 2003 <Chi Po-lin Pengambilan Gambar Udara Pulau Permata>
-- _Taiwan Daily_ 25 September 2004 <Chi Po-lin Mencintai Taiwan dengan Fotografi Ketinggian>
+[^1]: [Majalah View: Chih Pei-lin: Terbang ke Langit, Baru Mengenal Tanah Air Sendiri (Wang Mei-chen, 2013-11-01)](https://www.gvm.com.tw/article/18627) — Wawancara tokoh yang diterbitkan pada hari perilisan film, mencatat pengalamannya bertanggung jawab atas pengadaan di Biro Pekerjaan Umum Nasional, dialog dengan Direktur Ou Jin-de, proses memotret untuk biro selama masa SMA Beier, perubahan pandangan setelah gempa Jiyu dan pembukaan jalan lintas tengah yang baru, serta proses pengunduran diri, meminjam uang, dan mencari sponsor perusahaan; total biaya produksi sekitar NT$90 juta, dan musik latar karya He Kuo-chieh yang direkam di Praha juga disebutkan dalam artikel ini.
+
+[^2]: [今週刊 (Newsweek Taiwan): Chih Pei-lin: Menjadikan Pengambilan Gambar Udara di Taiwan sebagai Pengabdian Seumur Hidup (2013-09-27)](https://www.businesstoday.com.tw/article/category/80407/post/201309270045/) — Artikel profil panjang sebelum penayangan, mencakup pengalamannya melakukan pengambilan gambar udara pertama kali bersama senior fotografer Huang Chin-fa, usulannya kepada Ou Jin-de untuk menyewa helikopter, tur keliling pulau melalui udara pada tahun 2009 dan memasuki area bencana banjir Typhoon Morakot, cuti di luar tanggungan, catatan dari putranya, serta pengakuan pribadinya saat berdiskusi dengan ibunya untuk menjaminkan rumah; sistem kamera stabilizer yang dibelinya termasuk dalam daftar barang yang dikontrol oleh Departemen Luar Negeri AS, sehingga memerlukan peninjauan selama setengah tahun sebelum syuting dimulai pada tahun 2010.
+
+[^3]: [Pusat Informasi Lingkungan: Chih Pei-lin "Taiwan dari Atas": Melindungi Alam adalah Hal Terpenting yang Harus Dilakukan Pemerintah yang Berperan (2013-08-16)](https://e-info.org.tw/node/88498) — Laporan peluncuran versi rumahan "Taiwan dari Atas", di mana jurnalis menulis bahwa Chih Pei-lin dan Chen Ming-chang sama-sama berpendapat bahwa "tempat tanpa jalan adalah yang terindah", serta mencatat contoh yang mereka berikan berupa pegunungan tinggi dan pesisir Alangyi, serta pendapatnya mengenai kekuatan penyebaran antara foto dan video.
+
+[^4]: [Vogue Taiwan: Sutradara Chih Pei-lin Menantang Ketinggian Baru Visi "See Taiwan"](https://www.marieclaire.com.tw/lifestyle/news/11846) — Artikel profil yang mencatat pengunduran dirinya di usia 47 tahun untuk menjadi fotografer udara penuh waktu, ide pembuatan film yang muncul saat ia melihat seseorang tertidur dalam sebuah ceramah, inspirasi dari "Earth Guardians", serta proses menunggu selama enam hari selama musim hujan saat memotret jejak kaki besar di sawah Yuli; artikel ini juga menyebutkan bahwa penggalangan dana daring untuk pemutaran perdana terbuka telah mencapai target lebih awal.
+
+[^5]: [Laporan Tokoh Taipei Times 12 Juni 2017](https://www.taipeitimes.com/News/taiwan/archives/2017/06/12/2003672416) — Artikel profil dalam bahasa Inggris setelah kematiannya, mengutip pernyataan pribadinya dalam buku: mengundurkan diri dari jabatan publik pada usia 47 tahun, hanya tiga tahun sebelum bisa menerima pensiun seumur hidup, serta menjaminkan rumah dan meminjam uang dari teman untuk pembuatan film.
+
+[^6]: [Laporan Taipei Times 5 Oktober 2013](https://www.taipeitimes.com/News/taiwan/archives/2013/10/05/2003573775) — Laporan bahasa Inggris mengenai penjualan tiket pemutaran perdana di Kaohsiung Arena yang laku keras segera setelah dibuka, mencatat anggaran produksi hampir NT$90 juta, durasi film 93 menit, serta jajaran kru yang melibatkan Hou Hsiao-hsien sebagai produser, He Kuo-chieh pada musik latar, dan Wu Nien-jen sebagai narator.
+
+[^7]: [ETtoday: Jika Terjadi Masalah Hanya Akan Menyalahkan Pemerintah, Wu Nien-jen: Masalah Terbesar Orang Taiwan adalah Berpura-pura Tidak Melihat (2013-06-23)](https://star.ettoday.net/news/229063) — Pembicaraan Wu Nien-jen saat mengisi narasi secara sukarela untuk "See Taiwan", menyebutkan tentang banyaknya rumah dan penginapan yang dibangun di lereng perbukitan dalam film, serta istilah "berpura-pura tidak melihat" dan "kaki tangan"; juga mencatat bahwa ia secara luar biasa tidak memungut biaya untuk sulih suara film ini.
+
+[^8]: [flyingV: Acara Pemutaran Perdana Terbuka Chih Pei-lin's "See Taiwan"](https://www.flyingv.cc/projects/791) — Halaman proyek penggalangan dana massal, penggalangan dana dilakukan dari 25 September hingga 21 Oktober 2013 dan berhasil, dana digunakan untuk mengadakan pemutaran perdana besar di luar ruangan, dengan imbalan berupa poster teaser dan kaus.
+
+[^9]: [Liberty Times: Mendukung Film Nasional, Pemutaran Perdana "See Taiwan" Terjual Habis (2013-10-24)](https://news.ltn.com.tw/news/local/paper/724654) — Biro Kebudayaan Kota Kaohsiung menyediakan lokasi Kaohsiung Arena secara gratis untuk pemutaran perdana bagi sepuluh ribu orang, dengan seluruh pendapatan tiket diberikan kepada perusahaan film; Walikota Chen Chu pada malam itu membeli hak siar video untuk digunakan sebagai materi pengajaran sekolah dasar dan menengah di Kaohsiung.
+
+[^10]: [TVBS mengutip Mirror Media: Laporan Persiapan Produksi "See Taiwan II" (2017-06-09)](https://news.tvbs.com.tw/life/735225) — Mencatat bahwa "See Taiwan" memecahkan rekor pendapatan film dokumenter terlaris dalam sejarah perfilman Taiwan (melampaui NT$200 juta), memenangkan Penghargaan Golden Horse untuk Dokumenter Terbaik dan Musik Film Terbaik, serta memicu gelombang kepedulian lingkungan di masyarakat Taiwan tanpa memandang perbedaan politik.
+
+[^11]: [ETtoday: "Pernah Menyediakan Foto Udara Tanpa Biaya..." Berduka atas Chih Pei-lin, Kelompok Lingkungan: Berjanji untuk Berjuang Bersama (2017-06-11)](https://www.ettoday.net/news/20170611/942565.htm) — Ucapan belasungkawa dari Li Gen-zheng, CEO Citizen Earth Foundation, yang menyebutkan bahwa Chih Pei-lin memberikan foto udara secara gratis untuk digunakan oleh kelompok lingkungan dan berpartisipasi dalam petisi pembatalan perpanjangan ilegal lahan Asia Cement; artikel yang sama menuliskan usia pilot adalah 52 tahun, berbeda dengan laporan investigasi yang mencatat usia 53 tahun saat kecelakaan.
+
+[^12]: [Sing Tao: "Akio Yaita Newtalk" Xu Ming-chun Berbicara tentang Film Dokumenter Taiwan (2025-12-18)](https://newtalk.tw/news/view/2025-12-18/1010309) — Sutradara Xu Ming-chun dalam wawancara menyatakan bahwa rekor pendapatan film dokumenter Taiwan masih dipegang oleh "See Taiwan", dengan pendapatan sekitar NT$200 juta, sesuatu yang sulit dicapai bahkan oleh film drama.
+
+[^13]: [Fictionmachine: Review: Beyond Beauty: Taiwan from Above (2013) (Grant Watson, 2019-08-20)](https://fictionmachine.com/2019/08/20/review-beyond-beauty-taiwan-from-above-2013/) — Ulasan film dalam bahasa Inggris oleh kritikus film Australia, mengkritik film yang berulang kali menyandingkan pemandangan indah dengan kerusakan dan narasi yang menyalahkan penonton, namun di saat yang sama memuji kekuatannya sebagai pernyataan politik, serta menyarankan pembaca untuk menontonnya.
+
+[^14]: [Huilian Cable TV: Jejak Kaki Besar Yuli Melihat Taiwan, Sutradara Chih Pei-lin Datang Langsung untuk Mengucapkan Terima Kasih (2014-03-23)](https://www.youtube.com/watch?v=on2AYFJ-Hy0) — Video berita dari saluran resmi televisi kabel lokal Hualien, mencatat momen kehadirannya di Yuli untuk mengucapkan terima kasih setelah filmnya dirilis; video ini dirilis dengan lisensi CC BY 3.0.
+
+[^15]: [Eksekutif Yuan: Terinspirasi oleh "See Taiwan", Eksekutif Yuan Memperkuat Konservasi Wilayah Nasional (2013-11-29)](https://www.ey.gov.tw/Page/9277F759E41CCD91/d26c229a-290c-44c7-bbb0-56c437e2f829) — Siaran pers dari rapat pertama tim proyek konservasi wilayah nasional, mencatat janji Jiang Yi-hua kepada Chih Pei-lin di tempat setelah menonton film, penunjukan Jian Tang-lao sebagai koordinator, daftar rincian enam belas masalah konservasi wilayah nasional yang ada dalam film, serta langkah-langkah pelaksanaan paksa oleh pemerintah pusat dan pertemuan rutin setiap dua minggu pada tahap awal.
+
+[^16]: [Eksekutif Yuan: Status Pelaksanaan Pasukan Tugas Konservasi Tanah Nasional (28-01-2014)](https://www.ey.gov.tw/Page/9277F759E41CCD91/a93607e5-ed62-4319-9be9-7b31d40e2755) — Mencatat pernyataan Jiang Yi-hua pada 13 November 2013 mengenai penayangan film, bahwa pasukan tugas telah mengadakan empat kali rapat dan lima kali verifikasi lapangan, serta instruksi kepada Pemerintah Kabupaten Nantou untuk menyusun rencana penanganan bagi tujuh penginapan tidak resmi di Qingjing dan melaksanakannya sebelum musim banjir.
+
+[^17]: [Eksekutif Yuan: Ketua Yuan Jiang Mendengarkan Laporan Terkait Pembangunan Jalan Pegunungan Tinggi (26-02-2014)](https://www.ey.gov.tw/Page/9277F759E41CCD91/d83a7656-314e-42a9-a077-467011887fbd) — Laporan dari tiga pihak yaitu Kementerian Transportasi, Komite Pengembangan Pertanian, dan Komisi Urusan Penduduk Asli, serta arahan Ketua Yuan bahwa pada prinsipnya jalan pegunungan tinggi tidak akan dibuka lagi; Komisi Urusan Penduduk Asli juga menjelaskan bahwa jalan pegunungan yang ada saat ini diperlukan untuk kehidupan sehari-hari suku asli dan upaya pencegahan bencana.
+
+[^18]: [Sanli News: Tindakan Pemerintah Tidak Mengejar Kerusakan Tanah Nasional, Konservasi Tanah Masih Memiliki Jalan Panjang (2018)](https://www.setn.com/news/386719) — Meninjau gelombang pertama pasukan tugas yang menyasar wilayah penggunaan berlebih seperti Qingjing, Lishan, pemandian air panas Luxhan, dan Yangmingshan; mencatat bahwa pasukan tugas tidak lagi beroperasi setelah pergantian partai politik, tugas-tugas yang dialokasikan dilanjutkan oleh masing-masing departemen, serta pengumuman Rencana Tanah Nasional pada 30 April 2018.
+
+[^19]: [PTS News: 'Qingjing Baru' Tidak Dapat Memperoleh Izin Perpanjangan dan Terpaksa Dibongkar (29-05-2014)](https://news.pts.org.tw/article/270184) — Melaporkan proses pembongkaran paksa penginapan pertama dan satu-satunya pada saat itu dari tujuh penginapan ilegal di zona sensitif geologi Qingjing yang diumumkan oleh Kementerian Dalam Negeri tahun sebelumnya; enam penginapan lainnya dapat terhindar dari pembongkaran setelah memperoleh izin perpanjangan.
+
+[^20]: [CNA: Zeppelin Menampilkan Polusi Air Guanyin, Kelompok Lingkungan: Kualitas Air Mulai Terkendali (11-06-2017)](https://www.cna.com.tw/news/asoc/201706110038.aspx) — Mengutip unggahan Facebook Pan Chung-cheng dari aliansi lokal Taoyuan: ia merasa terpukau oleh terumbu karang alga yang terlihat dari udara saat diundang menonton pemutaran perdana pada tahun 2013, dan mengamati bahwa kualitas air pesisir Taoyuan perlahan-lahan mulai terkendali.
+
+[^21]: [Sing Tao: Produksi 'See Taiwan II' Dimulai! Melihat Keindahan dan Kesedihan Asia dari Ketinggian yang Berbeda (08-06-2017)](https://newtalk.tw/news/view/2017-06-08/88749) — Laporan konferensi pers pembukaan pada Hari Kelautan Internasional, mencatat rencana pengambilan gambar udara lintas negara dan pengambilan gambar bawah laut untuk sekuelnya, serta harapannya agar penonton memahami bahwa masalah lingkungan tidak mengenal batas negara.
+
+[^22]: [Komite Investigasi Keselamatan Transportasi Nasional: Halaman Kasus Kecelakaan Penerbangan Ling Tien Aviation B-31118](https://www.ttsb.gov.tw/1243/16869/18864/post) — Ringkasan kasus dari lembaga investigasi (sebelumnya Komite Investigasi Keselamatan Penerbangan), yang mencantumkan secara verbatim temuan investigasi terkait dengan kemungkinan penyebab dan risiko, serta memberikan delapan belas saran perbaikan, masing-masing sembilan poin untuk Ling Tien Aviation dan Biro Penerbangan Sipil.
+
+[^23]: [Komite Investigasi Keselamatan Penerbangan: Laporan Investigasi Kecelakaan Pesawat Udara ASC-AOR-18-10-001 (Volume I)](https://www.ttsb.gov.tw/media/3680/asc-aor-18-10-001-1.pdf) — Laporan investigasi akhir setebal 152 halaman, mencatat waktu dan lokasi lepas landas serta jatuhnya pesawat, pengalaman dan jam terbang pilot utama, metode pengunduhan kartu memori kamera onboard dan analisis lintasan terbang, serta menyatakan bahwa investigasi ini dilakukan sesuai hukum tanpa tujuan untuk pemberian sanksi atau pengejaran tanggung jawab.
+
+[^24]: [Laporan Utama Taipei Times, 11 Juni 2017](https://www.taipeitimes.com/News/front/archives/2017/06/11/2003672325) — Laporan berbahasa Inggris sehari setelah kecelakaan, mengonfirmasi tiga korban tewas adalah Zeppelin (52 tahun), asisten Chen Kuan-chi (25 tahun), dan pilot Chang Chih-kuang (53 tahun), serta memuat ucapan belasungkawa dari Wu Nien-jen dan lainnya.
+
+[^25]: [CNA: Penerbangan Terakhir Zeppelin, Pesawat C-130 Militer Akan Lepas Landas dari Hualien Pukul 8 (12-06-2017)](https://www.cna.com.tw/news/firstnews/201706125007.aspx) — Laporan mengenai Kementerian Pertahanan yang mengerahkan dua pesawat angkut C-130 dari Hualien untuk membawa tiga korban tewas dan dua puluh enam anggota keluarga kembali ke Songshan, Taipei.
+
+[^26]: [Kantor Kepresidenan: Presiden Menyerahkan Perintah Penghormatan untuk Zeppelin; Presiden: Terus Mendorong Pekerjaan Restorasi Tanah Nasional (24-06-2017)](https://www.president.gov.tw/News/21442) — Siaran pers mengenai penyerahan perintah penghormatan dalam pameran peringatan 'Melihat Zeppelin', yang memuat kutipan kata-kata yang sering diucapkan Zeppelin dalam pidato, ucapan terima kasih kepada pilot Chang Chih-kuang, serta tulisan dari teman kuliah Chen Kuan-chi.
+
+[^27]: [PTS News: Kecelakaan Pesawat Zeppelin, Komite Keselamatan Penerbangan Mengumumkan Hasil Investigasi (31-10-2018)](https://news.pts.org.tw/article/411531) — Laporan konferensi pers pada hari pengumuman laporan akhir; Komite Keselamatan Penerbangan menjelaskan bahwa pesawat dalam kecelakaan tidak dilengkapi perekam penerbangan dan sebagian besar badan pesawat terbakar, sehingga pasukan tugas menggunakan wawancara personel, pemeriksaan lapangan, dan simulasi medan angin sebagai referensi untuk mengajukan delapan belas saran perbaikan.
+
+[^28]: [Mirror Media: Laporan Investigasi Kecelakaan Pesawat Zeppelin Resmi Dirilis (31-10-2018)](https://www.mirrormedia.mg/story/20181031edi004) — Ringkasan poin penting laporan, mencatat bahwa investigasi berlangsung selama satu tahun empat bulan, serta arah dari delapan belas saran perbaikan: panduan penggunaan obat bagi kru penerbangan, penilaian risiko lingkungan penerbangan helikopter, manajemen risiko kelelahan, dan penggunaan perekam penerbangan sederhana.
+
+[^29]: [PTS News: Investigasi Kecelakaan Pesawat Zeppelin, Pilot Pernah Mengonsumsi Antihistamin (22-10-2018)](https://news.pts.org.tw/article/410616) — Berita mengenai ketua Komite Keselamatan Penerbangan yang memberikan laporan di Legislatif, menjelaskan bahwa obat antihistamin umum digunakan untuk reaksi alergi seperti hidung berair dan gatal pada kulit, serta mencatat interogasi anggota legislatif terhadap Biro Penerbangan Sipil.
+
+[^30]: [The New News (Dikutip dari The Reporter): Laporan Komite Keselamatan Penerbangan Menyesatkan Hasil Investigasi Kecelakaan Zeppelin dalam 'See Taiwan' (Zhang Jia-hao, 17-11-2018)](https://www.storm.mg/article/622656) — Komentar terhadap penulisan laporan akhir, mempertanyakan pencantuman penggunaan obat dan kelelahan sebagai kemungkinan penyebab tanpa adanya bukti langsung, yang tidak sesuai dengan konvensi laporan Komite Keselamatan Penerbangan sebelumnya; artikel tersebut mengutip penjelasan konferensi pers Komite Keselamatan Penerbangan bahwa helikopter dalam kecelakaan tersebut tidak diwajibkan untuk membawa perekam penerbangan sesuai peraturan.
+
+[^31]: [風傳媒: Chih Pei-lin: Asia Cement menggali lebih dalam daripada 5 tahun lalu (Lin Ting-hsin, 2017-06-11)](https://www.storm.mg/article/281267) — Mengutip unggahan Facebook dari grup pengamatan paus Doroman: Chih Pei-lin melakukan survei lokasi di Tebing Qingshui pada Mei 2017 dengan niat memotret paus besar di laut, namun dalam perjalanan pulang ia memotret lubang abu-abu di tambang gunung Taroko dan menuliskan refleksinya.
+
+[^32]: [Pusat Informasi Lingkungan: "Reformasi Pertambangan, Cabut Izin Asia Cement" Ribuan orang turun ke jalan mendukung penolakan terhadap Asia Cement (2017-06-25)](https://e-info.org.tw/node/205768) — Laporan pawai "Melihat Asia Cement, Menyelamatkan Taroko", mencatat bahwa jumlah petisi melonjak menjadi 210.000 orang setelah wafatnya Chih Pei-lin, dipimpin oleh 160 warga suku Taroko dari Desa Fushi, serta gerakan "Kembalikan Tanah Saya" yang diperjuangkan oleh Tian Chun-chou selama dua puluh tahun; keterangan gambar mencatat lebih dari 8.000 peserta, sementara judul menuliskan hampir sepuluh ribu orang.
+
+[^33]: [Pengadilan Tinggi Administrasi: Siaran Pers Putusan Nomor 894 Tahun 108 (Tahun 2019)](https://tpa.judicial.gov.tw/tw/cp-1689-475944-67060-021.html) — Siaran pers putusan yang menyatakan alasan kedudukan hukum penggugat Xu A-jin dan tiga orang lainnya (penduduk dalam radius 500 meter dari area tambang, pemilik tanah, dan pemegang hak garap), perpanjangan masa berlaku hingga tahun 2037, serta alasan ilegalitas karena tidak menjalankan prosedur konsultasi dan persetujuan sesuai Pasal 21 Undang-Undang Dasar Masyarakat Adat sebelum persetujuan perpanjangan diberikan.
+
+[^34]: [Pusat Informasi Lingkungan: Pengadilan memutuskan Kementerian Ekonomi kalah, perpanjangan hak tambang Xincheng dibatalkan (2019-07-11)](https://e-info.org.tw/node/219025) — Laporan putusan tingkat pertama Pengadilan Tinggi Administrasi Taipei, meninjau kembali persetujuan perpanjangan dua puluh tahun oleh Kementerian Ekonomi pada 14 Maret 2017, gugatan administratif yang diajukan oleh Zheng Wen-quan pada Oktober tahun yang sama, serta mencatat penjelasan Earth Citizen Foundation mengenai Pasal 13 Undang-Undang Pertambangan.
+
+[^35]: [CNA: Putusan pengadilan tentang perpanjangan hak tambang Asia Cement dibatalkan, pendapat warga suku terpecah (2021-09-24)](https://www.cna.com.tw/news/aloc/202109240107.aspx) — Reaksi suku setelah putusan ditetapkan, mencatat pernyataan Ketua Dewan Suku Bosian, Lo Ti Yau-dao, bahwa suku belum mencapai konsensus dan Asia Cement berkaitan dengan lapangan kerja serta keamanan tempat tinggal setempat, serta pernyataan dari Zheng Wen-quan dan Bai Mei-hua.
+
+[^36]: [Newtalk: Kekalahan dalam kasus perpanjangan hak tambang Asia Cement (2021-09-17)](https://newtalk.tw/news/view/2021-09-17/637699) — Laporan sehari setelah putusan Pengadilan Tinggi Administrasi, Kementerian Ekonomi menjelaskan bahwa berdasarkan Pasal 13 Undang-Undang Pertambangan, statusnya masih dalam tahap pengajuan perpanjangan sehingga penambangan dapat berjalan normal, dan akan meminta Asia Cement untuk melengkapi konsultasi serta persetujuan suku sebelum ditinjau kembali.
+
+[^37]: [PTS News: Nantou berencana mencabut larangan pembangunan di Qingjing dengan syarat (2018-04-03)](https://news.pts.org.tw/article/390169) — Bupati Nantou Lin Ming-chen menjelaskan rencana pencabutan perintah larangan pembangunan di Qingjing yang telah berlaku selama hampir enam tahun dengan syarat tertentu, sementara Direktur Eksekutif Earth Citizen Foundation, Li Gen-zheng, berpendapat agar penanganan dilakukan melalui rencana menyeluruh alih-alih kasus per kasus.
+
+[^38]: [PTS News: 7 penginapan ilegal di Qingjing, Nantau, masuk dalam daftar pengawasan, penginapan ke-6 telah dibongkar kemarin (2021-03-03)](https://news.pts.org.tw/article/515472) — Laporan kemajuan pembongkaran penginapan ilegal besar di wilayah Qingjing yang diawasi oleh Administrasi Bangunan; Pemerintah Kabupaten Nantou telah menyelesaikan enam bangunan, dan satu bangunan tersisa dijadwalkan untuk dibongkar pada tahun tersebut.
+
+[^39]: [今周刊 (Weekly Chin): "Satelit Chih Pei-lin" Formosat-8 meluncur! Setelah 5 kali penundaan, hari ini diluncurkan dengan roket SpaceX; Qi Ting-huan: Ayah menjaga Taiwan dari perspektif yang lebih tinggi (2025-11-29)](https://www.businesstoday.com.tw/article/category/183015/post/202511290005/) — Mencatat peluncuran satelit pada pukul 02:44 dini hari dari Pangkalan Angkatan Udara Vandenberg di California, Amerika Serikat, serta Qi Ting-huan yang melalui video berbicara tentang harapan ayahnya untuk menggunakan kekuatan "melihat" guna menciptakan dan membawa perubahan.
+
+[^40]: [Taipei Times Laporan Halaman Depan 30 November 2025](https://www.taipeitimes.com/News/front/archives/2025/11/30/2003848063) — Pusat Angkasa Nasional menjelaskan bahwa konstelasi Formosat-8 akan beroperasi pada orbit sinkron matahari dengan ketinggian 561 km dari bumi, dan satelit pertama "Chih Pei-lin" diluncurkan setelah mengalami lima kali penundaan.
+
+[^41]: [Kantor Kepresidenan: Berita Peluncuran Satelit Chih Pei-lin (2025-11-29)](https://www.president.gov.tw/News/39660) — Berita dari Kantor Kepresidenan mengenai penamaan satelit pertama Formosat-8 sebagai "Chih Pei-lin", menjelaskan bahwa penamaan tersebut diharapkan agar semangat sutradara Chih Pei-lin dapat berlanjut ke luar angkasa dan terus menjaga Taiwan.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T19:14:39+08:00",
-    "zhCommitHead": "6075163bd",
+    "lastUpdated": "2026-11-04T19:32:11+08:00",
+    "zhCommitHead": "9150eef69",
     "totalZh": 1161,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1161,
-        "fresh": 941,
-        "stale": 50,
+        "fresh": 942,
+        "stale": 49,
         "metadata_stale": 167,
         "missing": 3,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1161,
-        "fresh": 942,
-        "stale": 51,
+        "fresh": 943,
+        "stale": 50,
         "metadata_stale": 165,
         "missing": 3,
         "orphan": 0
@@ -142089,8 +142089,8 @@
           "sourceContentHash": "sha256:efe5b480b7638fd0",
           "sourceBodyHash": "sha256:5b8e0366beca56d2",
           "translatedAt": "2026-11-04T09:19:36.694936+00:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "9150eef6",
+          "translationLastModified": "2026-11-04T19:14:39+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 81289,
@@ -175897,18 +175897,18 @@
         "pt": {
           "path": "pt/Food/sweet-potato-balls.md",
           "translatedFrom": "Food/地瓜球.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:31bbf088964cc84c",
-          "sourceBodyHash": "sha256:41b23df405c1e58d",
-          "translatedAt": "2026-08-09T15:02:43+08:00",
+          "sourceCommitSha": "2ef99f287",
+          "sourceContentHash": "sha256:7c999d826d55352a",
+          "sourceBodyHash": "sha256:59284821ad1dd766",
+          "translatedAt": "2026-11-04T16:21:19+08:00",
           "translationLastCommit": "6e5567d6",
           "translationLastModified": "2026-08-10T06:11:54+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 11633,
+          "footnoteDefs": 24,
+          "bytes": 44526,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/sweet-potato-balls.md",
@@ -175929,18 +175929,18 @@
         "ar": {
           "path": "ar/Food/sweet-potato-balls.md",
           "translatedFrom": "Food/地瓜球.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:31bbf088964cc84c",
-          "sourceBodyHash": "sha256:41b23df405c1e58d",
-          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "sourceCommitSha": "2ef99f287",
+          "sourceContentHash": "sha256:7c999d826d55352a",
+          "sourceBodyHash": "sha256:59284821ad1dd766",
+          "translatedAt": "2026-11-04T16:21:43+08:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 16913,
+          "footnoteDefs": 24,
+          "bytes": 50324,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/sweet-potato-balls.md",
