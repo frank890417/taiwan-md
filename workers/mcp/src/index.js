@@ -26,8 +26,21 @@ const SERVER = { name: 'taiwanmd-remote', version: '0.7.1' };
 const PROTOCOL_VERSION = '2024-11-05';
 
 const REAL_CATEGORIES = new Set([
-  'About', 'Art', 'Culture', 'Economy', 'Food', 'Geography', 'History',
-  'Lifestyle', 'Music', 'Nature', 'People', 'Politics', 'Society', 'Technology', 'Resources',
+  'About',
+  'Art',
+  'Culture',
+  'Economy',
+  'Food',
+  'Geography',
+  'History',
+  'Lifestyle',
+  'Music',
+  'Nature',
+  'People',
+  'Politics',
+  'Society',
+  'Technology',
+  'Resources',
 ]);
 
 const CORS = {
@@ -49,7 +62,8 @@ async function getArticles() {
     cf: { cacheTtl: 1800, cacheEverything: true },
     signal: AbortSignal.timeout(10000),
   });
-  if (!res.ok) throw new Error(`Article index unavailable (HTTP ${res.status})`);
+  if (!res.ok)
+    throw new Error(`Article index unavailable (HTTP ${res.status})`);
   const all = await res.json();
   if (!Array.isArray(all)) throw new Error('Invalid article index');
   // articles.json mixes all languages; translations carry category = lang code.
@@ -90,7 +104,10 @@ async function getBody(article) {
     cf: { cacheTtl: 1800, cacheEverything: true },
     signal: AbortSignal.timeout(10000),
   });
-  if (!res.ok) throw new Error(`Article unavailable (HTTP ${res.status}): ${article.path}`);
+  if (!res.ok)
+    throw new Error(
+      `Article unavailable (HTTP ${res.status}): ${article.path}`,
+    );
   const raw = await res.text();
   if (!raw.trim()) throw new Error(`Empty article: ${article.path}`);
   // Split YAML frontmatter from body.
@@ -143,12 +160,19 @@ function searchArticles(articles, query, limit) {
 }
 
 function findBySlug(articles, slug) {
-  if (typeof slug !== 'string' || !slug.trim()) throw new Error('A non-empty slug or full path is required');
-  const exactPath = articles.find(a => a.path === slug);
+  if (typeof slug !== 'string' || !slug.trim())
+    throw new Error('A non-empty slug or full path is required');
+  const exactPath = articles.find((a) => a.path === slug);
   if (exactPath) return exactPath;
-  let matches = articles.filter(a => a.slug === slug);
-  if (!matches.length) matches = articles.filter(a => a.slug.includes(slug) || (a.title || '').includes(slug));
-  if (matches.length > 1) throw new Error(`Ambiguous article; use full path: ${matches.map(a => a.path).join(', ')}`);
+  let matches = articles.filter((a) => a.slug === slug);
+  if (!matches.length)
+    matches = articles.filter(
+      (a) => a.slug.includes(slug) || (a.title || '').includes(slug),
+    );
+  if (matches.length > 1)
+    throw new Error(
+      `Ambiguous article; use full path: ${matches.map((a) => a.path).join(', ')}`,
+    );
   return matches[0];
 }
 
@@ -176,7 +200,9 @@ async function toolRag({ query, limit = 3 }) {
     const a = findBySlug(articles, hits[i].path);
     if (!a) continue;
     const { frontmatter, body } = await getBody(a);
-    sections.push(`## ${i + 1}. ${frontmatter.title || a.title} (${a.category})\n\n${body}`);
+    sections.push(
+      `## ${i + 1}. ${frontmatter.title || a.title} (${a.category})\n\n${body}`,
+    );
   }
   return text(
     `# Taiwan Knowledge Context\n\n${sections.join('\n\n---\n\n')}\n\n---\nBased on the above context about Taiwan, answer the following question:\n${query}`,
@@ -187,7 +213,8 @@ async function toolCite({ query, limit = 3 }) {
   const articles = await getArticles();
   const hits = searchArticles(articles, query, 10);
   const claims = [];
-  const fnDefRe = /^\[\^([\w-]+)\]:\s*(?:\[([^\]]+)\]\(([^)]+)\))?\s*(?:—\s*(.+))?/gm;
+  const fnDefRe =
+    /^\[\^([\w-]+)\]:\s*(?:\[([^\]]+)\]\(([^)]+)\))?\s*(?:—\s*(.+))?/gm;
   for (const hit of hits.slice(0, 5)) {
     const a = findBySlug(articles, hit.path);
     if (!a) continue;
@@ -228,37 +255,73 @@ async function toolOrgans() {
 async function toolStats() {
   const articles = await getArticles();
   const byCategory = {};
-  for (const a of articles) byCategory[a.category] = (byCategory[a.category] || 0) + 1;
-  return text(JSON.stringify({ totalArticles: articles.length, byCategory, source: API_BASE }, null, 2));
+  for (const a of articles)
+    byCategory[a.category] = (byCategory[a.category] || 0) + 1;
+  return text(
+    JSON.stringify(
+      { totalArticles: articles.length, byCategory, source: API_BASE },
+      null,
+      2,
+    ),
+  );
 }
 
 const TOOLS = [
   {
     name: 'taiwanmd_search',
     title: 'Search Taiwan.md articles',
-    description: 'Full-text search across 900+ curated articles about Taiwan. Returns top N hits with title, slug, category, and description.',
-    inputSchema: { type: 'object', properties: { query: { type: 'string' }, limit: { type: 'number', default: 5 } }, required: ['query'] },
+    description:
+      'Full-text search across 900+ curated articles about Taiwan. Returns top N hits with title, slug, category, and description.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        query: { type: 'string' },
+        limit: { type: 'number', default: 5 },
+      },
+      required: ['query'],
+    },
     run: toolSearch,
   },
   {
     name: 'taiwanmd_read',
     title: 'Read a Taiwan.md article by slug',
-    description: 'Return the full body of an article (frontmatter + markdown body).',
-    inputSchema: { type: 'object', properties: { slug: { type: 'string' } }, required: ['slug'] },
+    description:
+      'Return the full body of an article (frontmatter + markdown body).',
+    inputSchema: {
+      type: 'object',
+      properties: { slug: { type: 'string' } },
+      required: ['slug'],
+    },
     run: toolRead,
   },
   {
     name: 'taiwanmd_rag',
     title: 'RAG context for a query',
-    description: 'Retrieve top-N articles as a prompt-ready RAG context block before answering a question about Taiwan.',
-    inputSchema: { type: 'object', properties: { query: { type: 'string' }, limit: { type: 'number', default: 3 } }, required: ['query'] },
+    description:
+      'Retrieve top-N articles as a prompt-ready RAG context block before answering a question about Taiwan.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        query: { type: 'string' },
+        limit: { type: 'number', default: 3 },
+      },
+      required: ['query'],
+    },
     run: toolRag,
   },
   {
     name: 'taiwanmd_cite',
     title: 'Get verified citations for a topic',
-    description: 'Anti-hallucination primitive. Returns only claims that carry a footnote + source URL.',
-    inputSchema: { type: 'object', properties: { query: { type: 'string' }, limit: { type: 'number', default: 3 } }, required: ['query'] },
+    description:
+      'Anti-hallucination primitive. Returns only claims that carry a footnote + source URL.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        query: { type: 'string' },
+        limit: { type: 'number', default: 3 },
+      },
+      required: ['query'],
+    },
     run: toolCite,
   },
   {
@@ -278,17 +341,34 @@ const TOOLS = [
 ];
 
 function text(t, isError = false) {
-  return { content: [{ type: 'text', text: t }], ...(isError ? { isError: true } : {}) };
+  return {
+    content: [{ type: 'text', text: t }],
+    ...(isError ? { isError: true } : {}),
+  };
 }
 
 // ── JSON-RPC dispatch ───────────────────────────────────────────────────────
 async function handleRpc(msg) {
-  if (!msg || typeof msg !== 'object' || Array.isArray(msg) || msg.jsonrpc !== '2.0' || typeof msg.method !== 'string') {
-    return { jsonrpc: '2.0', id: null, error: { code: -32600, message: 'Invalid Request' } };
+  if (
+    !msg ||
+    typeof msg !== 'object' ||
+    Array.isArray(msg) ||
+    msg.jsonrpc !== '2.0' ||
+    typeof msg.method !== 'string'
+  ) {
+    return {
+      jsonrpc: '2.0',
+      id: null,
+      error: { code: -32600, message: 'Invalid Request' },
+    };
   }
   const { id, method, params } = msg;
   const ok = (result) => ({ jsonrpc: '2.0', id, result });
-  const err = (code, message) => ({ jsonrpc: '2.0', id, error: { code, message } });
+  const err = (code, message) => ({
+    jsonrpc: '2.0',
+    id,
+    error: { code, message },
+  });
 
   switch (method) {
     case 'initialize':
@@ -296,10 +376,18 @@ async function handleRpc(msg) {
         protocolVersion: PROTOCOL_VERSION,
         capabilities: { tools: { listChanged: false } },
         serverInfo: SERVER,
-        instructions: 'Free, no-API-key Taiwan knowledge. Use taiwanmd_cite for source-backed claims.',
+        instructions:
+          'Free, no-API-key Taiwan knowledge. Use taiwanmd_cite for source-backed claims.',
       });
     case 'tools/list':
-      return ok({ tools: TOOLS.map(({ name, title, description, inputSchema }) => ({ name, title, description, inputSchema })) });
+      return ok({
+        tools: TOOLS.map(({ name, title, description, inputSchema }) => ({
+          name,
+          title,
+          description,
+          inputSchema,
+        })),
+      });
     case 'tools/call': {
       const tool = TOOLS.find((t) => t.name === params?.name);
       if (!tool) return err(-32602, `Unknown tool: ${params?.name}`);
@@ -329,9 +417,12 @@ const INFO_HTML = `<!doctype html><meta charset=utf-8><title>Taiwan.md remote MC
 
 export default {
   async fetch(request) {
-    if (request.method === 'OPTIONS') return new Response(null, { headers: CORS });
+    if (request.method === 'OPTIONS')
+      return new Response(null, { headers: CORS });
     if (request.method === 'GET') {
-      return new Response(INFO_HTML, { headers: { 'Content-Type': 'text/html; charset=utf-8', ...CORS } });
+      return new Response(INFO_HTML, {
+        headers: { 'Content-Type': 'text/html; charset=utf-8', ...CORS },
+      });
     }
     if (request.method !== 'POST') {
       return new Response('Method Not Allowed', { status: 405, headers: CORS });
@@ -340,11 +431,29 @@ export default {
     try {
       payload = await request.json();
     } catch {
-      return json({ jsonrpc: '2.0', id: null, error: { code: -32700, message: 'Parse error' } }, 400);
+      return json(
+        {
+          jsonrpc: '2.0',
+          id: null,
+          error: { code: -32700, message: 'Parse error' },
+        },
+        400,
+      );
     }
     // Support batched requests.
     if (Array.isArray(payload)) {
-      if (!payload.length || payload.length > 20) return json({jsonrpc:'2.0',id:null,error:{code:-32600,message:'Batch must contain 1–20 requests'}},400);
+      if (!payload.length || payload.length > 20)
+        return json(
+          {
+            jsonrpc: '2.0',
+            id: null,
+            error: {
+              code: -32600,
+              message: 'Batch must contain 1–20 requests',
+            },
+          },
+          400,
+        );
       const out = [];
       for (const m of payload) {
         const r = await handleRpc(m);
