@@ -2,9 +2,7 @@
 title: 'Yingge Ceramics Museum: A Century of Kiln Heritage in Fair-Faced Concrete'
 description: "In November 2000, Taiwan's first ceramics-specialized museum opened in Yingge District, New Taipei City, designed by architect Chien Hsueh-yi around the four elements of 'earth, water, fire, and wind.' This fair-faced concrete building repositioned Yingge from a small kiln-industry town to a temple of ceramic art, and the Taiwan International Biennial of Ceramics, launched in 2004, connected local craft to the global stage."
 date: 2026-05-07
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '策展與教育'
 tags:
   [
     'ceramics',
@@ -14,15 +12,19 @@ tags:
     'Chien Hsueh-yi',
     'Taiwan International Biennial of Ceramics',
   ]
+subcategory: '策展與教育'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-05-09T11:09:57+08:00'
+translatedAt: '2026-11-04T18:05:31.647733+00:00'
 ---
 
 > **30-Second Overview:** On November 26, 2000, the New Taipei City Yingge Ceramics Museum opened its doors, becoming Taiwan's first ceramics-specialized museum. Designed by architect Chien Hsueh-yi, the building takes "earth, water, fire, and wind" as its design philosophy, with a fair-faced concrete façade and expansive glass curtain walls blending into the Yingge landscape. It repositioned Yingge—once known as the "Jingdezhen of Taiwan" for its wholesale kiln industry—into a ceramics hall anchored in curation, education, and international exchange. The "Taiwan International Biennial of Ceramics," launched in 2004, connected local craft to the global contemporary ceramics discourse.

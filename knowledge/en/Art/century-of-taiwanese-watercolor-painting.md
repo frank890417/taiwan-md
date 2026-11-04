@@ -1,23 +1,21 @@
 ---
-title: 'A Century of Change in Taiwanese Watercolor Painting: A Hundred Years of Accumulation from Ishikawa Kinichiro to Chien Chung-wei'
-description: "In 1907, Ishikawa Kinichiro came to Taiwan to teach, planting the roots of a century of Taiwanese watercolor. His student Lan Yin-ting was admitted to the Royal Watercolour Society in 1929; in 1934, local artists organized the Taiyang Art Association on their own; after the war, Ma Pai-sui fused ink painting and watercolor, while Shiy De-jinn documented Taiwan's old architecture. In the 1990s, three major associations stood side by side and connected with the international IWS watercolor network. Today, Chien Chung-wei has won international renown as a signature member of both AWS and NWS. This century-long path from colonial normal-school education to the main stage of international competitions links the plein-air tradition, the normal-school system, and the global watercolor community; the vitality of Taiwanese watercolor lies precisely in the tension accumulated through the parallel development of official and independent, local and external, traditional and competitive forces."
+title: 'A Century of Evolution in Taiwanese Watercolor: From Kinichiro Ishikawa to Chien Chung-wei'
+description: "In 1907, Kinichiro Ishikawa arrived in Taiwan to teach, planting the seeds for a century of Taiwanese watercolor. His student, Lan Yin-ting, joined the Royal Watercolour Society in 1929, and by 1934, local artists formed the Taiyang Art Association. Post-war, Ma Pai-shui fused ink wash with watercolor, while Si Te-chin documented Taiwan's historic architecture. In the 1990s, three major associations coexisted, connecting with the International Watercolour Society (IWS). Today, Chien Chung-wei has gained international acclaim as a dual member of both the AWS and NWS. This century-long journey—from colonial normal school education to the main stage of international competitions—links sketching traditions, teacher training systems, and the global watercolor community. The vitality of Taiwanese watercolor stems from the tension created by the parallel accumulation of official and grassroots movements, local and international influences, and traditional styles and competitive excellence."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Art'
+tags: ['Art', 'watercolor', 'painting', 'watercolor', 'Art History']
 subcategory: '視覺藝術'
-tags: ['Art', 'watercolor', 'painting', 'watercolor', 'art history']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-# design_rationale:
-#   why_this_hook: "石川1907→簡忠威AWS雙會員：一個教室啟蒙到國際賽場的百年弧線"
-#   whats_excluded: "各協會年報細節；2024後新生代；IWS台灣分會組織史；美術教育108課綱"
-#   where_it_hedges: "藍蔭鼎1971十大水彩：引述名稱為『歐美藝術評論學會』，確切組織名可參閱鴻禧基金會原始記錄"
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0b51fe43b7a1bf00'
 sourceBodyHash: 'sha256:de90bfe09eb0461c'
-translatedAt: '2026-05-26T05:10:57+08:00'
+translatedAt: '2026-11-04T17:54:23.001955+00:00'
 ---
 
 # A Century of Change in Taiwanese Watercolor Painting
@@ -68,7 +66,7 @@ This outcome is the result of several factors intertwined over the long term. Th
 
 ## References
 
-[^1]: [Ishikawa Kinichiro — Wikipedia](https://zh.wikipedia.org/wiki/石川欽一郎) + [Shiotsuki Toho — Wikipedia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirms that four Japanese painters jointly promoted Taiten in 1927; Shiotsuki Toho, 1886-1954, was an art teacher at Taihoku Higher School.
+[^1]: [Ishikawa Kinichiro — Wikipedia](https://zh.wikipedia.org/wiki/石川欽一郎) — + [Shiotsuki Toho — Wikipedia](https://zh.wikipedia.org/zh-tw/鹽月桃甫) — Confirms that four Japanese painters jointly promoted Taiten in 1927; Shiotsuki Toho, 1886-1954, was an art teacher at Taihoku Higher School
 
 [^2]: [Taiyang Art Association — Wikipedia](https://zh.wikipedia.org/zh-tw/臺陽美術協會) — Confirms its founding on November 12, 1934, by eight local painters including Liao Chi-chun, Chen Cheng-po, and Yang San-lang, and that it was Taiwan's first local independent art organization.
 

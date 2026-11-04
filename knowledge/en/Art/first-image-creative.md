@@ -2,9 +2,7 @@
 title: "First Image Creative: From Kuo Tai-chiang's Animation Dream to Pigsy in Tainan's Alleyways"
 description: "First Image Creative, once funded by Kuo Tai-chiang, opened a dawn for Taiwan's original animation, only to pivot under market realities; studio2, which grew in symbiosis with it, persisted in Tainan for twenty years and ultimately won a Golden Horse Award with Pigsy, writing a hard-earned history of Taiwan animation's move from subcontracting to originality."
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '電影'
 tags:
   [
     'Animation Industry',
@@ -14,19 +12,23 @@ tags:
     'Pigsy',
     'Digital Content',
   ]
-readingTime: 12
+subcategory: '電影'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-04T18:15:03.014696+00:00'
 ---
 
 > **30-Second Overview:**
-> Founded in 2004, First Image Creative (SOFA Studio) was once a star in Taiwan's animation world. Backed by Kuo Tai-chiang's capital and a dream of original work, it conquered markets in 80 countries with _MuMuHug_. Yet the high cost and long payback cycle of animation development eventually forced this gamble to change course. The story did not end there. Chiu Li-wei, a core member, took up the torch with studio2, which he founded in Tainan. From _Barkley_ to _Pigsy_, the team spent twenty lonely years in Tainan's old buildings, in exchange for an animation aesthetic that belongs to Taiwan.
+> Founded in 2004, First Image Creative (SOFA Studio) was once the star of Taiwan's animation industry, fueled by Kuo Tai-chiang's capital and original dreams, conquering 80 countries with _MuMuHug_. However, the exorbitant R&D costs and long recovery periods of animation caused this high-stakes gamble to eventually shift. The story did not end there; core member Chiu Li-wei founded studio2 in Tainan to carry the torch. From _Cat Ballet_ to _Pigsy_, working within the old buildings of Tainan, they have traded twenty years of solitude for a uniquely Taiwanese animation aesthetic.
 
 ---
 
