@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-09-12T16:22:12+08:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:33:18.020190+00:00'
 ---
 
 # Geschichte der Umweltbewegung in Taiwan
@@ -94,20 +94,21 @@ Im 21. Jahrhundert zeigt die Umweltbewegung in Taiwan mehrere neue Merkmale:
 
 Die Umweltbewegung in Taiwan steht vor mehreren anhaltenden Herausforderungen:
 
-**Druck durch die wirtschaftliche Entwicklung**: Der Ausgleich zwischen Umweltschutz und Wirtschaftswachstum bleibt in der globalen Wettbewerbslandschaft schwierig. Die Energiewende und die industrielle Transformation erfordern langfristige Planung und gesellschaftlichen Konsens.
+**Druck durch wirtschaftliche Entwicklung**: Im globalen Wettbewerb bleibt das Gleichgewicht zwischen Umweltschutz und Wirtschaftswachstum schwierig. Die Energiewende sowie die industrielle Transformation erfordern langfristige Planung und einen gesellschaftlichen Konsens.
 
-**Risiko der Politisierung**: Umweltfragen werden leicht politisiert, was die Kontinuität der Politik beeinflusst. Die Kernenergiepolitik ist ein deutliches Beispiel, da verschiedene Parteien unterschiedliche Standpunkte vertreten.
+**Risiko der Politisierung**: Umweltfragen werden leicht politisiert, was die Kontinuität der politischen Maßnahmen beeinträchtigt. Die Kernenergiepolitik ist ein deutliches Beispiel dafür, da verschiedene Parteien je nach Regierungsführung unterschiedliche Standpunkte vertreten.
 
-**Generationenunterschiede in der Wertewahrnehmung**: Unterschiedliche Generationen haben unterschiedliche Vorstellungen vom Umweltschutzwert, was die gesellschaftliche Grundlage für politische Maßnahmen beeinflusst.
+**Generationsunterschiede in der Wahrnehmung**: Verschiedene Generationen haben unterschiedliche Vorstellungen von Umweltwerten, was die gesellschaftliche Basis für die Umsetzung politischer Maßnahmen beeinflusst.
 
-**Ressourcenbeschränkungen**: Im Vergleich zu Unternehmen und Regierungen sind die Ressourcen von Umweltschutzgruppen begrenzt, was die Größe und Kontinuität der Aktionen einschränkt.
+**Ressourcenbeschränkungen**: Im Vergleich zu Unternehmen und der Regierung sind die Ressourcen von Umweltschutzorganisationen begrenzt, was den Umfang und die Beständigkeit ihres Handelns einschränkt.
 
-Die Umweltbewegung in Taiwan hat sich über vier Jahrzehnte entwickelt: vom Protest gegen die Verschmutzung hin zu vielfältigen Bemühungen für nachhaltige Entwicklung. Dieser Prozess spiegelt den Wandel der Werte der taiwanesischen Gesellschaft wider: weg von der Verfolgung schnellen Wachstums, hin zur Betonung der Lebensqualität; weg vom individuellen Vorteil, hin zur Generationenverantwortung. Der nächste Schritt der Umweltbewegung wird sein, einen effektiveren Mechanismus für die Umweltgovernance innerhalb des demokratischen Systems zu etablieren.
+Die Umweltbewegung in Taiwan hat eine vierzigjährige Entwicklung durchlaufen – von Protesten gegen Verschmutzung hin zu vielfältigen Aktionen für eine nachhaltige Entwicklung. Dieser Prozess spiegelt den Wandel der gesellschaftlichen Werte in Taiwan wider: vom Streben nach schnellem Wachstum hin zur Wertschätzung der Lebensqualität; vom Eigeninteresse hin zur Verantwortung gegenüber künftigen Generationen. Der nächste Schritt der Umweltbewegung wird darin bestehen, innerhalb des demokratischen Systems effektivere Mechanismen für die Umweltverwaltung (Environmental Governance) zu etablieren.
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- [Diskussion über Taiwan und Kernenergie](/de/society/taiwan-nuclear-debate) — Wie sich die Anti-Kernenergie-Bewegung aus der Umweltbewegung entwickelt und im Kontext des Klimawandels neu bewertet wurde: Die vollständige Debattengeschichte von vier Jahrzehnten und drei Volksabstimmungen
-- [Klimakrise und Netto-Null-Transformation in Taiwan](/de/nature/taiwan-climate-change-net-zero-transition) — Wie das Umweltbewusstsein zu einer nationalen Netto-Null-Transformationspolitik und zur Umstrukturierung der Energieinfrastruktur geführt hat
+- [Diskussionen über Taiwan und Kernenergie](/de/society/taiwan-nuclear-debate) — Wie sich die Anti-Atomkraft-Bewegung aus der Umweltbewegung heraus entwickelte und durch die „Climate Generation“ neu konfiguriert wurde: Eine vollständige Debattengeschichte über vier Jahrzehnte und drei Volksentscheide.
+- [Taiwans Klimakrise und die Transformation zur Netto-Null-Emission](/de/nature/taiwan-climate-change-net-zero-transition) — Wie sich das Umweltbewusstsein in nationale Strategien zur Netto-Null-Transformation und in eine Umstrukturierung der Energiestruktur verwandelt hat.
+- [Formosa Beleza (Qi Bo Lin)](/de/people/chi-po-lin) — Der Film 《看見台灣》 (2013) ließ ganz Taiwan im Kino gemeinsam den Preis der Erschließung erkennen; die darauffolgenden Debatten über Landnutzung und Sedimentation wurden von lokalen Akteuren vor Ort weitergeführt.
 
 ## Referenzen
 
