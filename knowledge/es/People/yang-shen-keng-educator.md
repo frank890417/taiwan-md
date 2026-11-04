@@ -2,27 +2,31 @@
 title: 'Yang Shen-keng: el filósofo de la educación que llevó dos tanques de oxígeno para el examen doctoral de su estudiante'
 description: 'El 13 de diciembre de 2020, Yang Shen-keng salió con permiso del Hospital de la Universidad Nacional de Taiwán, llevando dos tanques de oxígeno, acompañado en todo momento por su esposa y su hijo, para realizar un examen de tesis doctoral en la Universidad Normal de Taiwán. Ocho meses después falleció; aquel fue su último examen oral en vida. Doctor en Filosofía por la Universidad de Atenas, primer Catedrático Nacional Vitalicio del Ministerio de Educación y ganador del Premio Golden Tripod, dedicó 44 años de carrera académica a construir los fundamentos de la filosofía de la educación en Taiwán.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - 'Educación'
-  - 'Filosofía de la educación'
-  - 'Educación comparada'
-  - 'Formación docente'
-  - 'Académico'
-  - 'Catedrático Nacional'
-  - 'Universidad Nacional Chung Cheng'
-  - 'Universidad Nacional Chi Nan'
-readingTime: 8
+  [
+    'Educación',
+    'Filosofía de la educación',
+    'Educación comparada',
+    'Formación docente',
+    'Académico',
+    'Catedrático Nacional',
+    'Universidad Nacional Chung Cheng',
+    'Universidad Nacional Chi Nan',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊深坑.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-04T21:07:08.818016+00:00'
 ---
 
 > **Resumen en 30 segundos:** Yang Shen-keng (1946-2021), constructor de la filosofía de la educación en Taiwán. Doctor en Filosofía por la Universidad de Atenas, primer Catedrático Nacional Vitalicio del Ministerio de Educación, cuatro veces galardonado con el Premio a la Investigación Destacada del Consejo Nacional de Ciencia y Tecnología, y ganador del Premio Golden Tripod. Fundó el Instituto de Educación Comparada de la Universidad Nacional Chi Nan, fue decano de la Facultad de Educación y vicerrector de la Universidad Nacional Chung Cheng, y dirigió el seminario académico «Yang Men» en la Universidad Normal de Taiwán durante casi cuarenta años. Dirigió a más de cien estudiantes de maestría y doctorado. Falleció el 29 de agosto de 2021 en el Hospital de la Universidad Nacional de Taiwán, a los 76 años.

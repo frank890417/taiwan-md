@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T08:08:50.354391+00:00'
+translatedAt: '2026-11-04T21:20:37.604394+00:00'
 ---
 
 # Pai Hsien-yung: _Los viejos de Taipéi_ (1971) y veinte años de la gira de la versión juvenil de _El pabellón de las peonías_

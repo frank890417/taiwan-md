@@ -2,9 +2,7 @@
 title: 'Huang Zhen-nan'
 description: 'Huang Zhen-nan es investigador de historia y cultura taiwanesa, bibliófilo y escritor. A través de su página «Huó Shuǐ Lái Cè Fáng» comparte la historia de Taiwán y la cultura del libro antiguo, y es autor de obras como *La historia de Taiwán más divertida de la historia de Taiwán*.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'Historia y cultura taiwanesa',
@@ -13,14 +11,18 @@ tags:
     'Historia de Taiwán',
     'Huó Shuǐ Lái Cè Fáng',
   ]
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e3d5f3c7c92e369d'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
 sourceBodyHash: 'sha256:0c3024d2af149e55'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-04T21:32:41.313891+00:00'
 ---
 
 # Huang Zhen-nan: raíces de una familia de bibliófilos y manantial vivo de la historia y la cultura taiwanesas
@@ -61,15 +63,15 @@ Su modelo familiar de coleccionismo también refleja la fuerza de base de la pre
 
 ## Referencias
 
-[^1]: [Huang Zhen-nan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Datos biográficos principales, formación académica y detalles sobre la colección de libros.
+[^1]: [Huang Chen-nan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Biografía principal, antecedentes educativos y detalles sobre su colección de libros.
 
-[^2]: [Página de Facebook de Huó Shuǐ Lái Cè Fáng](https://www.facebook.com/ngtsinlam) — Registros de publicaciones y novedades de la colección desde su creación en 2009.
+[^2]: [Página de Facebook de Huoshuilai Books](https://www.facebook.com/ngtsinlam) — Registros compartidos y actualizaciones sobre la colección de libros desde su fundación en 2009.
 
-[^3]: [Página del libro _La historia de Taiwán más divertida de la historia de Taiwán_](https://www.books.com.tw/products/0010722013) — Ficha del libro en Books.com.tw, con información de publicación y reseñas de lectores.
+[^3]: [Página del libro 《La historia de Taiwán más interesante de la historia》](https://www.books.com.tw/products/0010722013) — Página de catálogo en Books.com.tw, incluye información editorial y reseñas de lectores.
 
-[^4]: [Entrevista al bibliófilo Huang Zhen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Historia de la colección familiar y descripción de piezas relacionadas con Nishikawa Man y Cai Pei-huo.
+[^4]: [Entrevista al coleccionista Huang Chen-nan — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Historias sobre la colección de libros familiares y explicaciones sobre las piezas relacionadas con Nishikawa Mitsuru y Tsai Pei-huo.
 
-[^5]: [Reportaje de recomendación de libros en Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Opiniones de Huang Zhen-nan sobre la promoción de la lectura de la historia de Taiwán y sus recomendaciones bibliográficas.
+[^5]: [Reportaje de recomendación de lecturas de Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Perspectivas de Huang Chen-nan sobre la promoción de la lectura de la historia de Taiwán y sugerencias de listas de libros.
 
 ## Lecturas complementarias
 
