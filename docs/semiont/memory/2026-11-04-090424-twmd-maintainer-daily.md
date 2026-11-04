@@ -102,6 +102,8 @@ WebFetch 的 proxy 擋掉 `cna.com.tw` 與 `twreporter.org`，我沒有把這件
 - [ ] pending（收件席位 `twmd-review-stock` 或巡邏班，`PR #1954`／`PR #1955`）：〈國中會考〉〈台南鐵路地下化〉補 30 秒概覽、媒體、中段篇幅。已登記 ARTICLE-INBOX。**先看 PR #1954 留言有沒有 tboydar 回應**再派工。本班已公開請他若想自己接就說一聲。
 - [ ] pending（收件席位 `twmd-maintainer-daily`，`PR #1888`）：鄉土文學論戰等的仍是 10-22 那九處腳註，衝突已解。這篇不 close，本班第四次確認狀態未變。
 
+- [ ] pending（收件席位 `twmd-maintainer-daily` 或任何下一班，零判斷，**先讀再動**）：收官時主樹讀數是 `9 18`（本機領先 9、origin 領先 18），兩個數字都 > 0 會命中 §Step 1.1b 的分岔判準，**但這不是那種分岔，不要跑策略 B**。證據：那 9 個是 babel 的批次 commit，與 origin 側 14 檔**交集 0 檔**，`git merge-tree --write-tree origin/main main` 乾淨無衝突；`babel-push-every.py --watch`（pid 36434）活著，會在 babel 下一次 commit 時把它們推上去。本班沒有自己 rebase 主樹，因為主樹有 26 個 babel 正在寫的 dirty 檔，在 live writer 底下 rebase 命中 DNA #35。**策略 B 是 origin 版優先，在這裡跑會丟掉那 9 個批次**。真正要警戒的是「數字不再變動且 babel-push-every 已死」——先 `pgrep -f babel-push-every` 再判。
+
 ## Beat 5 — 反芻
 
 今天有兩次「我差點相信一個零」。
