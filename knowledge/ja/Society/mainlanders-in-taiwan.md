@@ -2,9 +2,7 @@
 title: '外省人：誘拐された青春から、この地を認同する台湾人へ'
 description: '1949年、痛みと望郱を抱えた百万人余りの人々が海を渡って台湾に渡来しました。彼らは権力政府に猜疑された「政治犯」の高リスク層であると同時に、強制的に連行され故郷を失った「戦争難民」でもありました。本記事は、外省集団が四つの心理的トラウマを経て、「亡命者」から「定住者」へと魂の移行をいかに遂げたかを明らかにします。'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     '外省人',
@@ -16,15 +14,19 @@ tags:
     '眷村文学',
     '大陳義胞',
   ]
-readingTime: 8
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:11472ed85277289a'
 sourceBodyHash: 'sha256:78aa4d7a1743dd44'
-translatedAt: '2026-05-20T05:08:29+08:00'
+translatedAt: '2026-11-04T18:03:23.396685+00:00'
 ---
 
 > **30秒概要：**

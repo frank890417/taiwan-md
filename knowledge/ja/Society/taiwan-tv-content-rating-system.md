@@ -1,20 +1,30 @@
 ---
 title: 'スクリーンの守護者：「映画検閲」から「五段階分級」への台湾の進化'
 description: '台湾の分級制度は、戒厳令時代の「内容検閲」から民主時代の「児童・青少年保護」へと転換してきた歴史の縮図です。1983年の「映画検閲法」廃止、1993年の『ジュラシック・パーク』による保護級の誕生、そして2026年の五段階制への全面移行に至るまで、本稿は観映の権利と社会的責任に関する長期的な進化を記録します。'
-category: Society
-subcategory: '媒體與傳播'
-tags: [映画分級, ジュラシック・パーク, 映画法, 文化部, 戒厳令, 児童・青少年保護]
-author: 'Taiwan.md Contributors'
 date: 2026-04-08
-readingTime: 15
+category: 'Society'
+tags:
+  [
+    '映画分級',
+    'ジュラシック・パーク',
+    '映画法',
+    '文化部',
+    '戒厳令',
+    '児童・青少年保護',
+  ]
+subcategory: '媒體與傳播'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-05-01T18:02:56+08:00'
-featured: false
+translatedAt: '2026-11-04T18:33:56.457082+00:00'
 ---
 
 > **30秒概要：** 台湾の分級制度は、かつて「はさみ」でした。1983年以前、映画は「分級」ではなく「検閲」を受けなければならず、政治的・道徳的な検閲が常態でした。1993年の『ジュラシック・パーク』が引き起こした恐竜騒動は、台湾に三段階制の限界を認識させ、「保護級」を誕生させました。現在、台湾は映画、テレビ、録画番組、デジタルゲームを網羅する五段階体制を確立し、「上映禁止」を「分流」へと転換し、視聴環境の多様性と安全を守っています。

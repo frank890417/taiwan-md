@@ -2,19 +2,21 @@
 title: '台湾高山生態系と氷河遺存種'
 description: '台湾の標高3,000メートル以上の高山環境に見られる独自の生態系について考察し、台湾杉、玉山ツツジから氷河期の遺存種に至る貴重な生物多様性を紹介します'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '生態系統'
 tags: ['高山生態', '氷河遺存種', '台湾杉', '高山植物', '生物多様性', '気候変動']
-readingTime: 11
+subcategory: '生態系統'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-05-01T19:52:32+08:00'
+translatedAt: '2026-11-04T18:57:16.456456+00:00'
 ---
 
 # 台湾高山生態系と氷河遺存種

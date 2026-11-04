@@ -2,28 +2,30 @@
 title: '台湾原住民族の生態知恵と環境保全'
 description: '台湾原住民族が数千年にわたって蓄積してきた伝統的生態知識と、現代の環境保全における重要な価値および実践方法について考察します'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
-    原住民族,
-    生態知恵,
-    環境保全,
-    伝統知識,
-    里山イニシアチブ,
-    狩猟文化,
-    持続可能な開発,
+    '原住民族',
+    '生態知恵',
+    '環境保全',
+    '伝統知識',
+    '里山イニシアチブ',
+    '狩猟文化',
+    '持続可能な開発',
   ]
 subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-category: Nature
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Nature/台灣原住民生態智慧與環境保育.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: 2026-05-01T19:52:32+08:00
+translatedAt: '2026-11-04T18:45:00.650969+00:00'
 ---
 
 # 台湾原住民族の生態知恵と環境保全
