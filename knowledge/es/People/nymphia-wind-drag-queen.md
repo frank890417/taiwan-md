@@ -2,7 +2,6 @@
 title: 'Del sótano a la Oficina Presidencial: Nymphia Wind y la historia de empoderamiento de las drag queens en Taiwán'
 description: 'Un chico taiwanés que sufrió acoso escolar por su expresión de género logró llevar el arte del drag —considerado una subcultura— al escenario internacional, adoptando el «plátano» como símbolo para que el mundo contemplara la diversidad y la confianza de Taiwán.'
 date: 2026-04-18
-author: 'idlccp1984'
 category: 'People'
 tags:
   [
@@ -13,14 +12,18 @@ tags:
     'cultura taiwanesa',
     "RuPaul's Drag Race",
   ]
+subcategory: '音樂與表演'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-04T20:28:09.935732+00:00'
 ---
 
 > **Panorama en 30 segundos:** En 2024, la drag queen taiwanesa Nymphia Wind se coronó campeona de la temporada 16 de _RuPaul's Drag Race_, el reality show más seguido del mundo, convirtiéndose en la primera persona de Taiwán en obtener este galardón. Su triunfo no solo proyectó el arte del drag taiwanés a nivel internacional, sino que, por una notable coincidencia con el «Día de la Educación para la Igualdad de Género» en Taiwán, puso de manifiesto ante el mundo el espíritu de diversidad e inclusión de la isla. De los clubes subterráneos a la Oficina Presidencial, la historia de Nymphia Wind encarna un proceso de empoderamiento de casi tres décadas por parte de las minorías sexuales en Taiwán. Con el «plátano» como emblema, fusionó su experiencia vital con la cultura taiwanesa para proclamar con orgullo la existencia y la confianza de Taiwán ante el mundo.

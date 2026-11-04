@@ -2,6 +2,7 @@
 title: 'Ecología marina de Taiwán y conservación de arrecifes de coral'
 description: 'Taiwán, rodeada de mar por sus cuatro costas, posee una rica ecología marina. Desde la crisis de blanqueamiento de los arrecifes de coral hasta la conservación de cetáceos, se examinan los resultados de protección de los parques nacionales marinos y los desafíos futuros.'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
     'ecología marina',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
-readingTime: 13
 featured: false
-category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-05-01T20:54:23+08:00'
+translatedAt: '2026-11-04T20:21:36.193624+00:00'
 ---
 
 # Ecología marina de Taiwán y conservación de arrecifes de coral

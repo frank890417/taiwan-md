@@ -2,9 +2,7 @@
 title: 'A-Han: el chico de Hualien que interpreta él solo todo un callejón y luego recibe las críticas de quienes viven en él'
 description: 'Tseng Wen-han, un chico de Hualien graduado del Departamento de Animación de la Universidad Nacional de las Artes de Taipéi, interpreta él solo, con Nguyễn Nguyệt Kiều, Liao Lifang y Liao Lizhu, todo un callejón taiwanés. Hasta que en 2022 un anuncio del Festival Zhongyuan fue retirado: el personaje de nuera vietnamita que interpretaba fue protestado por verdaderas nueras vietnamitas.'
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Internet'
 tags:
   [
     'A-Han',
@@ -18,20 +16,24 @@ tags:
     'Universidad Nacional de las Artes de Taipéi',
     'Premios Golden Bell',
   ]
-readingTime: 12
+subcategory: 'Internet'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-04T20:49:14.843471+00:00'
 ---
 
-> **Panorama en 30 segundos:** Tseng Wen-han, nacido en Hualien en 1994, estudió en la clase de arte de la Escuela Secundaria Femenina de Hualien y se graduó del Departamento de Animación de la Universidad Nacional de las Artes de Taipéi. En 2015 comenzó a administrar el canal de YouTube “A-Han po videos”[^1]. Él solo interpreta a Liao Lifang, Nguyễn Nguyệt Kiều, Liao Lizhu, la tía del bufé de autoservicio: todos los personajes de un callejón taiwanés entero. Su obra representativa, “La tía adivina: la Diosa Misteriosa de los Nueve Cielos esparce flores celestiales”, acumula más de 13 millones de visualizaciones[^2]. Pero en 2022, un anuncio del Festival Zhongyuan fue retirado: el personaje de nuera vietnamita que interpretaba fue protestado por verdaderas nueras vietnamitas. Un chico de Hualien que sostuvo todo un callejón taiwanés mediante la imitación recibió desde ese mismo callejón la pregunta: “¿Por qué este lugar no me pertenece a mí?”.
+**Resumen en 30 segundos:** Tseng Wen-han, nacido en Hualien en 1994, estudió en la clase de bellas artes del Colegio Secundario Femenino de Hualien y se graduó en el Departamento de Animación de la Universidad Nacional de Artes de Taipéi. En 2015, comenzó a gestionar su canal de YouTube 「阿翰po影片」[^1]. Él solo interpreta a Liao Lifang, Ngu Nguyet Kieu, Liao Li-chu, la tía del buffet... prácticamente todos los personajes de un callejón taiwanés. Su obra representativa, 〈La tía adivina: la Diosa Misteriosa de los Nueve Cielos esparce flores celestiales〉, ha acumulado más de 13 millones de visualizaciones[^2]. Sin embargo, en un anuncio para el Festival de los Fantasmas Hambrientos en 2022, el personaje de la nuera vietnamita que interpretaba fue retirado tras las protestas de mujeres vietnamitas reales: un chico de Hualien que sostenía un callejón taiwanés mediante la imitación, se encontró con que la gente de ese callejón le preguntaba: «¿Por qué este lugar no es mío?».
 
-La fuerza de A-Han no está en que un personaje se parezca a alguien, sino en que casi ha interpretado un callejón taiwanés completo. La tía adivina, la nuera vietnamita, la casera, la tía del bufé de autoservicio, la chica de secundaria superficial, el profesor molesto, el jefe de clase A-Wei: la misma persona, el mismo rostro, cambiando de acento, de gestualidad y de etapa vital. Pero aquel retiro de 2022 le dijo algo: imitar ese callejón y vivir en ese callejón nunca fueron lo mismo.
+La genialidad de A-Han no reside en lo parecido que sea a un personaje específico, sino en que casi ha interpretado a todo un callejón taiwanés. La tía adivina, la nuera vietnamita, la casera, la tía del buffet, la estudiante de secundaria con problemas de vista, la profesora de moto o el delegado de clase A-wei... es la misma persona y la misma cara, pero cambiando de acento, de lenguaje corporal y de etapa vital. Pero aquel incidente de 2022, que provocó la retirada de su contenido, le enseñó una lección: imitar este callejón y vivir en él nunca han sido lo mismo.
 
 ## Un hombre que interpreta todo un callejón
 

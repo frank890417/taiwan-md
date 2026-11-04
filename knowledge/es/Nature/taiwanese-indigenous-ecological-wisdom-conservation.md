@@ -2,28 +2,30 @@
 title: 'La sabiduría ecológica indígena de Taiwán y la conservación ambiental'
 description: 'Exploración del conocimiento ecológico tradicional acumulado por los pueblos indígenas de Taiwán a lo largo de milenios, así como su valor y sus formas de aplicación en la conservación ambiental contemporánea'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
-    pueblos indígenas,
-    sabiduría ecológica,
-    conservación ambiental,
-    conocimiento tradicional,
-    Iniciatura Satoyama,
-    cultura de caza,
-    desarrollo sostenible,
+    'pueblos indígenas',
+    'sabiduría ecológica',
+    'conservación ambiental',
+    'conocimiento tradicional',
+    'Iniciatura Satoyama',
+    'cultura de caza',
+    'desarrollo sostenible',
   ]
 subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-category: Nature
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Nature/台灣原住民生態智慧與環境保育.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: 2026-05-01T20:54:23+08:00
+translatedAt: '2026-11-04T20:20:09.747855+00:00'
 ---
 
 # La sabiduría ecológica indígena de Taiwán y la conservación ambiental

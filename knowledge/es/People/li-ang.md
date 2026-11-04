@@ -1,20 +1,30 @@
 ---
-title: 'Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con "La mujer del verdugo'
-description: 'Nacida en abril de 1952 en Lukang, condado de Changhua, con el nombre de nacimiento Shih Shu-duan. En 1983, "La mujer del verdugo" se publicó en serie en el United Daily News, conmocionando el mundo literario taiwanés por su tratamiento de la violencia doméstica. En 1991 publicó "El jardín de los senderos que se bifurcan". En 2004 recibió la condecoración de Caballero de la Orden de las Artes y las Letras de Francia. Sus obras han sido traducidas al inglés, francés, alemán, japonés y otros idiomas, y es una de las escritoras taiwanesas con mayor reconocimiento internacional.'
+title: 'Li Ang: Lukang 1952, la pionera que abrió el camino de la literatura feminista en Taiwán con «Matar al marido»'
+description: 'Nacida en Lukang, Changhua, en 1952, su nombre real es Shih Shu-tun. En 1983, su obra «Matar al marido», serializada en United Daily News, conmocionó el mundo literario taiwanés con su temática sobre la violencia doméstica. En 1991 publicó «El jardín de las delicias». En 2004 recibió la Orden de las Artes y las Letras de Francia en la distinción de Caballero. Sus obras han sido traducidas al inglés, francés, alemán y japonés, siendo una de las escritoras taiwanesas con mayor atención internacional.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'literatura',
+    'literatura feminista',
+    'Matar al marido',
+    'El jardín de las delicias',
+    'Lukang',
+    'temas de género',
+  ]
 subcategory: '文學'
-tags: ['文學', '女性主義文學', '殺夫', '迷園', '鹿港', '性別議題']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-04T20:41:12.623737+00:00'
 ---
 
 # Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con _La mujer del verdugo_

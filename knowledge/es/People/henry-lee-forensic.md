@@ -1,122 +1,124 @@
 ---
-title: 'Henry Lee'
-description: "Construyó una leyenda forense con un puñado de huesos triturados, pero un 'rastro de sangre' en una toalla mantuvo a dos jóvenes más de treinta años en prisión por error."
+title: 'Henry Lee (李昌鈺)'
+description: 'Forjó una leyenda forense con unos huesos triturados, pero una «mancha de sangre» en una toalla envió a dos personas a treinta años de prisión injusta'
 date: 2026-03-29
+category: 'People'
 tags:
   [
     'Personajes',
     'Ciencia forense',
-    'Taiwanés-americano',
+    'Taiwanés-estadounidense',
     'Investigación criminal',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
-category: 'People'
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
-lastVerified: 2026-03-29
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-05-02T08:50:00+08:00'
+translatedAt: '2026-11-05T04:19:30+08:00'
 ---
 
-# Henry Lee
+# Henry Lee (李昌鈺)
 
-> **Resumen en 30 segundos:** nacido en Jiangsu en 1938, llegó a Taiwán con su madre en 1949; con 22 años fue el comisario de policía más joven de la historia taiwanesa. En 1964 viajó a Estados Unidos, se doctoró en la Universidad de Nueva York y a lo largo de su carrera intervino en más de 8.000 casos. Ganó fama mundial con el caso O. J. Simpson. En 2023, sin embargo, un tribunal federal dictaminó que en un asesinato de 1985 en Connecticut había falsificado pruebas de sangre, lo que condenó a dos jóvenes a más de treinta años de cárcel injusta. El 27 de marzo de 2026 falleció en su casa de Nevada a los 87 años.
+> **Resumen en 30 segundos:** Nacido en 1938 en Jiangsu, llegó a Taiwán con su madre en 1949, se convirtió en el jefe de policía más joven de la historia de Taiwán a los 22 años, obtuvo su doctorado en la Universidad de Nueva York en 1964, trabajó en más de 8000 casos forenses a lo largo de su vida y saltó a la fama mundial por el caso Simpson. Pero en 2023 un tribunal federal dictaminó que falsificó pruebas de sangre en un caso de asesinato de Connecticut de 1985, lo que llevó a dos adolescentes a pasar más de treinta años en prisión. El 27 de marzo de 2026, Henry Lee falleció en su casa de Nevada a los 87 años.
 
-En diciembre de 1987, en pleno invierno de Nueva Inglaterra, la policía estatal de Connecticut sacó de la orilla nevada de un río varios fragmentos de hueso, media corona dental, la punta de un pulgar y unos mechones de cabello. El cuerpo de la azafata desaparecida Helle Crafts había sido reducido a polvo: su marido lo había triturado con una astilladora de leña y lo había arrojado al río Housatonic.
+En diciembre de 1987, en pleno invierno de Nueva Inglaterra, la policía del estado de Connecticut recuperó en una orilla nevada unos fragmentos de hueso, media corona dental, la punta de un pulgar, unos mechones de cabello. El cuerpo de la auxiliar de vuelo desaparecida Helle Crafts hacía tiempo que se había desvanecido: su marido la había triturado con una astilladora y arrojado al río Housatonic.
 
-Quien dirigía el caso era el director del laboratorio forense del estado de Connecticut, un graduado de la Academia de Policía taiwanesa. Con aquellos restos óseos consiguió una sentencia de culpabilidad **sin cuerpo**, sentando un precedente único en la historia criminal estadounidense.
+Al frente de la investigación estaba el director del Laboratorio Forense Estatal de Connecticut, un graduado de la academia de policía que había llegado desde Taiwán. Con aquellos fragmentos óseos logró que un jurado condenara en ausencia de cadáver, sentando un precedente inédito en la historia penal estadounidense.
 
-A partir de ahí, el nombre de Henry Lee comenzó a recordarse.
-
----
-
-## Del Taiping al New Haven
-
-Henry Lee nació en 1938 en Rugao (Jiangsu), en una familia de comerciantes de sal con trece hermanos; era el undécimo. En 1949, con 11 años, embarcó con su madre, Wang Shu-chen, desde Shanghái rumbo a Taiwán. Su padre, Li Hao-min, no llegó a hacer la travesía: ese mismo enero, el _Taiping_ chocó con un carguero cerca del archipiélago Zhoushan y se hundió, llevándose consigo a unas 1.500 personas; entre ellas, Li Hao-min.
-
-> **El hundimiento del _Taiping_ (27 de enero de 1949)** es uno de los desastres marítimos más trágicos de la historia migratoria china reciente: barco sobrecargado, sin luces de navegación de noche, hundido en menos de dos horas tras la colisión. Durante décadas, prácticamente cada familia que "cruzó a Taiwán en 1949" guardaba en su historia un hueco parecido.
-
-Tras la muerte del padre, la familia cayó en la pobreza. Henry Lee contaría más tarde que la frase de su madre —"aunque seamos pobres, hay que ser limpios"— le acompañó toda la vida. Para ahorrar matrícula, se presentó a la Academia Central de Policía (hoy Universidad Central de Policía), con beca pública, y se licenció en Derecho en 1960. Tras incorporarse a la Policía Municipal de Taipéi, ascendió con 22 años a comisario, marca histórica como comisario más joven de Taiwán.
-
-En 1964 viajó a Estados Unidos con sus ahorros. Estudió primero Ciencia Criminal en el John Jay College of Criminal Justice (CUNY) y, después, en la Universidad de Nueva York, donde se doctoró en Bioquímica en 1975. Ese mismo año entró como docente en la Universidad de New Haven; partiendo de un aula minúscula con un único kit de huellas, levantó poco a poco lo que más tarde sería el "Henry Lee Institute of Forensic Science".
-
-En 1979 fue nombrado director del laboratorio forense del estado de Connecticut y experto criminalista jefe, además de profesor titular de New Haven. Permaneció en el cargo hasta 2000. En esas dos décadas se convirtió en el científico forense de origen chino con mayor reconocimiento mundial.
+El nombre de Henry Lee empezó a grabarse en la memoria colectiva a partir de ahí.
 
 ---
 
-## La astilladora, Simpson y el "319"
+## Del Taiping a New Haven
 
-**Caso Helle Crafts (1986-1987)**
+Henry Lee nació en 1938 en Rugao, Jiangsu, en una familia de comerciantes de sal con trece hermanos; él era el undécimo. En 1949, a los once años, cruzó el estrecho con su madre, Wang Shuzhen, hasta Taiwán. Su padre, Li Haomin, no pudo acompañarlos: ese mismo mes de enero, el vapor **Taiping** chocó contra un carguero cerca del archipiélago de Zhoushan y se hundió en menos de dos horas; perecieron unas 1500 personas, entre ellas Li Haomin.
 
-Aquí se forjó la fama estadounidense de Henry Lee. Richard Crafts, marido de Helle y piloto de Eastern Air Lines, trituró el cuerpo de su esposa una noche de invierno con una astilladora de leña. Lee y su equipo cribaron en la nieve de la orilla 2.660 fragmentos de cabello, 87 piezas óseas, una uña de 5 cm y varios cientos de gramos de grasa humana. Con esas evidencias, sin cuerpo entero, el jurado declaró a Crafts culpable de asesinato y se estableció el precedente legal de "se puede condenar sin cuerpo".
+> **El hundimiento del Taiping (27 de enero de 1949)** es uno de los naufragios más trágicos de la historia de la migración desde la China continental. El barco zarpó sobrecargado y sin luces de navegación nocturna; tras la colisión se fue a pique en menos de dos horas. Durante décadas, casi cada familia taiwanesa que «llegó en 1949» guarda en su relato un hueco semejante.
 
-Él mismo lo resumió con una metáfora: "Hay quien me compara con Sherlock Holmes o con Charlie Chan, pero esos son personajes de ficción. En el mundo real, científicos, detectives y opinión pública tenemos que cooperar… entre nosotros no hay pausas para la publicidad."
+Tras la muerte del padre, la familia cayó en la pobreza. Henry Lee recordaría toda su vida la frase de su madre: «Aunque seamos pobres, debemos vivir limpios y honrados». Para ahorrar la matrícula, ingresó en la Escuela Central de Policía (hoy Universidad Central de Policía), donde se licenció en Derecho en 1960. Entró en la Policía de la Ciudad de Taipéi y a los 22 años ascendió a jefe de sección, récord de precocidad en la historia taiwanesa.
 
-**Caso O. J. Simpson (1995)**
+En 1964, con sus ahorros, marchó a Estados Unidos. Cursó Ciencias Criminalísticas en el John Jay College de la Universidad de la Ciudad de Nueva York y luego doctorado en Bioquímica en la Universidad de Nueva York, graduándose en 1975. Ese mismo año se incorporó como profesor a la Universidad de New Haven, donde partió de un aula con un solo kit de toma de huellas para construir, paso a paso, el que acabaría llamándose «Instituto de Ciencias Forenses Henry Lee».
 
-En 1995, la estrella de la NFL O. J. Simpson fue acusada del asesinato de su exmujer Nicole y de su amigo Ronald Goldman. Lee testificó como perito de la defensa y cuestionó la cadena de custodia de las muestras de sangre. En la sala señaló graves carencias en la recolección y conservación de las pruebas y mostró fotografías de la escena con marcas que sugerían "una huella de presión", apuntando a una posible contaminación. Simpson fue absuelto. El juicio llevó el nombre de Lee a todo el mundo y, por primera vez, la palabra "ciencia forense" entró en el vocabulario de millones de espectadores.
-
-📝 **El doble filo de la ciencia forense:** el caso Simpson coronó la fama de Lee y, al mismo tiempo, sembró la semilla para los críticos: un perito lo bastante hábil puede hacer que la historia de cualquier parte suene verdad.
-
-**El tiroteo del 319 (2004)**
-
-El 19 de marzo de 2004, víspera de las presidenciales taiwanesas, el presidente [[Chen Shui-bian]] y la vicepresidenta [[Annette Lu]] recibieron disparos durante un acto de campaña en Tainan; ambos resultaron con heridas leves. Al día siguiente, Chen Shui-bian fue reelegido por unos 30.000 votos de diferencia. El campo pan-azul rechazó el resultado y exigió la intervención de peritos forenses internacionales.
-
-Lee viajó a Taiwán al frente de tres expertos estadounidenses en balística y criminalística para realizar una "reconstrucción balística móvil" y analizar la estructura de los casquillos y las marcas de herramientas. Su conclusión apoyaba la tesis de "un solo proyectil que causó las dos heridas": físicamente era posible. El PDP, sin embargo, recordó que Lee había sido presidente del comité de apoyo Lien-Soong en Norteamérica y cuestionó su imparcialidad. La Fiscalía de Tainan cerró el caso atribuyéndolo al sospechoso Chen Yi-hsiung, ya fallecido por suicidio, pero la polémica política duró años. El papel de Lee allí fue ofrecer un análisis físico balístico, conclusión que las investigaciones posteriores no derribaron.
+En 1979 asumió la dirección del Laboratorio Forense Estatal de Connecticut y la jefatura de peritos, compatibilizándolo con la cátedra vitalicia en New Haven. Ocupó ese puesto durante veinte años, convirtiéndose en el científico forense de origen chino más reconocido a nivel mundial.
 
 ---
 
-## 1985: una toalla
+## La astilladora, Simpson y el 319
 
-El 1 de diciembre de 1985, en New Milford (Connecticut), Everett Carr, de 65 años, fue asesinado en su casa: 27 puñaladas, garganta cortada y siete impactos contundentes.
+**Caso Helle Crafts (1986–1987)**
 
-La policía detuvo a dos jóvenes: Shawn Henning, de 17 años, y Ralph "Ricky" Birch, de 18. El problema: en la escena había más de 40 huellas dactilares, ninguna coincidía con ellos; ni en sus ropas ni en su coche apareció rastro de sangre.
+Fue el caso que catapultó a Henry Lee en la élite forense estadounidense. El marido de Helle, el piloto de Eastern Airlines Richard Crafts, trituró el cadáver de su esposa en una noche de invierno con una astilladora. Henry Lee dirigió al equipo que, en la nieve de la orilla, tamizó 2660 secciones de cabello, 87 fragmentos óseos, un trozo de uña de 5 cm y varios cientos de gramos de grasa corporal. Esos restos llegaron al tribunal y el jurado condenó por asesinato sin que apareciera el cuerpo entero, estableciendo el precedente legal de «condena sin cadáver».
 
-En el juicio de 1989, un Henry Lee aún no famoso testificó y planteó dos puntos: el agresor podía no haber dejado sangre pese a la brutalidad de la escena; y una toalla hallada en el baño de Carr "mostraba en sus pruebas una reacción compatible con sangre". El jurado los condenó. Henning saldría más tarde en libertad condicional; Birch pasó más de treinta años en prisión hasta su liberación en 2019 para revisión.
+Él mismo lo resumió después con una metáfora: «Me han comparado con Sherlock Holmes o Charlie Chan, pero son personajes de ficción. En la realidad, científicos, detectives y público deben colaborar… entre nosotros no hay pausas publicitarias».
 
-Después, otros peritos volvieron a analizar la toalla: no era sangre.
+**Caso Simpson (1995)**
 
-En 2020 se anularon las condenas. Los dos hombres presentaron una demanda federal civil contra, entre otros, Henry Lee, ocho detectives y la ciudad de New Milford.
+En 1995, la ex estrella de la NFL O.J. Simpson fue juzgado por el asesinato de su ex esposa Nicole y su amigo Ronald Goldman. Henry Lee testificó como perito de la defensa, cuestionando el tratamiento de las manchas de sangre por parte de la acusación. En el estrado señaló graves fallos en la recogida y custodia de las muestras, mostró fotografías de la escena del crimen y destacó «ciertas marcas de presión» para sugerir que las pruebas pudieron contaminarse. Simpson fue absuelto. El juicio dio la vuelta al mundo y metió el término «ciencia forense» en el vocabulario de millones de televidentes.
 
-El 22 de julio de 2023, el juez federal Victor Bolden dictaminó que Henry Lee era responsable legal de fabricar pruebas. La redacción del juez fue inequívoca: "Salvo su afirmación de haber realizado las pruebas, no hay en el expediente prueba alguna de que se hicieran. De hecho, incluso los propios peritos del señor Lee concluyen que no existe ningún registro escrito ni fotografía que demuestre que él realizó la prueba TMB de sangre. Y consta en el expediente que las pruebas que sí se realizaron no mostraron presencia de sangre."
+📝 **El doble filo de la pericial** El caso Simpson aupó la fama de Henry Lee, pero también dejó una semilla para sus futuros críticos: un perito lo bastante hábil puede hacer que la versión de cualquiera suene verosímil.
 
-Connecticut acabó pactando una indemnización de 25 millones de dólares con los dos hombres.
+**Caso 319 (2004)**
 
-Tras conocerse la decisión, Lee negó haber falsificado nada. En su comunicado dijo: "En 57 años de carrera, he investigado más de 8.000 casos y nunca se me ha acusado de conducta indebida ni de cometer perjurio intencionalmente. Es el primer caso en el que tengo que defenderme." En otra versión planteó que la sangre podría haberse degradado en veinte años hasta hacerse indetectable.
+El 19 de marzo de 2004, víspera de las presidenciales taiwanesas, el presidente [Chen Shui-bian](/es/people/chen-shui-bian-controversial-president/) y la vicepresidenta [Annette Lu](/es/people/annette-lu/) recibieron sendos disparos durante un mitin en Tainan; ambos resultaron levemente heridos. Al día siguiente, Chen ganó por unos 30 000 votos. La coalición panazul rechazó el resultado y exigió peritos internacionales.
 
-📝 **La ironía de "que la prueba hable":** la frase más célebre de Henry Lee, repetida durante décadas, es esta. La resolución del juez federal puso a esa máxima un signo de interrogación. Aquella toalla, ¿qué contó al final?
-
----
-
-## El laboratorio de ADN en Taiwán y un par de ojos
-
-La aportación de Henry Lee a la ciencia forense taiwanesa, dentro del aparato policial, es concreta. En 1993 contribuyó a abrir el primer laboratorio de ADN en la Oficina de Investigación Criminal, integrando formalmente la prueba de ADN en el proceso penal taiwanés. Volvió a Taiwán en varias ocasiones para colaborar en la reconstrucción de escenas de casos mediáticos: el asesinato de Liu Pang-yu, el caso Peng Wan-ju, el caso Pai Hsiao-yen y la crisis de rehenes en la prisión de Kaohsiung en 2015. En todos ellos introdujo metodologías de recolección modernas y técnicas de seguimiento de pruebas físicas a través de jurisdicciones, una transferencia tecnológica concreta para la modernización del sistema forense taiwanés.
-
-Publicó más de 40 libros profesionales, recibió más de 30 doctorados _honoris causa_ y donó a lo largo de su vida los honorarios de sus conferencias para financiar la educación. Días antes de morir aún estaba terminando un libro sobre investigación de personas desaparecidas; la familia ha confirmado que se publicará.
-
-En 2014 dijo en una entrevista que tras su muerte donaría todos sus órganos, salvo los ojos: "Porque toda mi vida me he ganado el pan con estos ojos."
-
-En noviembre de 2025 le diagnosticaron un tumor cerebral. El 27 de marzo de 2026 falleció en paz en su casa de Henderson (Nevada). Por su voluntad expresa no se celebraron honras públicas; la familia habilitó un libro de condolencias en línea para que cualquiera pudiera dejar su mensaje.
+Henry Lee encabezó un equipo de tres expertos estadounidenses en balística y criminalística que realizó una «reconstrucción balística móvil», analizando la estructura de los casquillos y las marcas de herramienta. Su dictamen avaló la tesis del «un solo proyectil, dos heridos», concluyendo que, desde el punto de vista físico, el tiroteo era perfectamente posible. No obstante, el Partido Progresista Democrático (DPP) señaló que Henry Lee presidía el comité de apoyo norteamericano de la fórmula Lien-Song, poniendo en duda su imparcialidad. La fiscalía de Tainan cerró el caso atribuyendo los disparos a Chen Yi-hsiung, ya suicidado, pero la controversia política ardió años. El papel de Henry Lee se limitó al análisis balístico físico, y sus conclusiones técnicas no fueron revocadas por investigaciones posteriores.
 
 ---
 
-## Lectura ampliada
+## 1985, una toalla
 
-[[Chen Shui-bian]] y [[Terror Blanco en Taiwán]] ofrecen dos miradas distintas para entender el contexto de la justicia penal taiwanesa. Para el contexto de la migración de 1949, [[Traslado del Gobierno nacional a Taiwán y reconstrucción de posguerra]] es el punto de partida. [[Transición democrática de Taiwán]] documenta la evolución del sistema judicial taiwanés del autoritarismo al Estado de derecho, etapa en la que Lee fue testigo y partícipe de la modernización forense.
+El 1 de diciembre de 1985, en New Milford (Connecticut), Everett Carr, de 65 años, fue asesinado en su casa: 27 puñaladas, garganta cortada, siete golpes contundentes con un objeto contundente.
+
+La policía detuvo a dos adolescentes: Shawn Henning, de 17 años, y Ralph «Ricky» Birch, de 18. El problema: en la escena había más de 40 huellas dactilares y ninguna coincidía con ellos; ni en su ropa ni en su coche se halló rastro de sangre.
+
+En el juicio de 1989, Henry Lee —aún no muy conocido— testificó dos puntos: un asesino en una escena tan sangrienta podía no dejar rastros hemáticos; y una toalla hallada en el baño de la víctima, tras ser analizada, «mostró una reacción compatible con sangre». El jurado condenó. Henning salió en libertad condicional años después; Birch pasó más de treinta años en prisión hasta que en 2019 obtuvo un nuevo juicio.
+
+Peritos independientes reanalizaron la toalla después: **no era sangre**.
+
+En 2020 se anularon las condenas. Ambos presentaron una demanda civil federal contra Henry Lee, ocho detectives y la ciudad de New Milford.
+
+El 22 de julio de 2023, el juez federal Victor Bolden dictaminó que Henry Lee era legalmente responsable de falsificar pruebas. La redacción del fallo es tajante: «Aparte de su propia afirmación de que realizó la prueba, no existe en el expediente ninguna evidencia de que tal prueba se llevara a cabo. De hecho, el propio perito de Henry Lee concluyó que no hay ningún registro escrito ni fotografía que demuestre que él efectuó la prueba de tetrametilbencidina (TMB) para detectar sangre. Además, el expediente contiene evidencia de que la prueba realmente realizada no mostró presencia de sangre».
+
+Connecticut acordó finalmente un acuerdo de 25 millones de dólares con los dos hombres.
+
+Tras conocerse la sentencia, Henry Lee negó la falsificación y declaró: «En mis 57 años de carrera he investigado más de 8000 casos y nunca se me había acusado de mala praxis ni de falso testimonio intencionado. Este es el primer caso en el que debo defenderme». Otra versión suya sugería que la sangre pudo degradarse en veinte años, imposibilitando su detección posterior.
+
+📝 **La ironía de «dejar que las pruebas hablen»** El lema más famoso de Henry Lee, repetido durante décadas, es: «Dejen que las pruebas hablen». El fallo federal pone un signo de interrogación junto a ese lema. ¿Qué dijo realmente aquella toalla?
 
 ---
 
-## Lectura ampliada
+## El laboratorio de ADN de Taiwán y un par de ojos
 
-- [Obituario de Henry Lee — ABC News (28/03/2026)](https://abcnews.go.com/US/wireStory/henry-lee-famed-forensic-scientist-testified-oj-simpson-131488851)
-- [Judge finds Henry Lee liable for fabricating evidence — AP News (22/07/2023)](https://apnews.com/article/henry-lee-fabricated-murder-evidence-ef08de1e15148b3d48129ead10924009)
-- [Acuerdo de 25 millones en Connecticut — The Guardian (20/09/2023)](https://www.theguardian.com/us-news/2023/sep/20/connecticut-settlement-wrongful-conviction-henry-lee-evidence)
-- [Comunicado de pésame de la Agencia Nacional de Policía — UDN (28/03/2026)](https://udn.com/news/story/7314/9408695)
-- [Fallece el "detective científico" Henry Lee — Storm Media (27/03/2026)](https://www.storm.mg/article/11115554)
-- [Henry Lee — Wikipedia (zh)](https://zh.wikipedia.org/wiki/李昌鈺)
-- [Tiroteo del 319 — Wikipedia (zh)](https://zh.wikipedia.org/wiki/三一九槍擊案)
+La contribución de Henry Lee a la criminalística taiwanesa es valorada concretamente dentro del sistema policial. En 1993 ayudó a crear el primer laboratorio de ADN de la Policía Criminal, integrando la prueba de ADN en el procedimiento penal taiwanés. Regresó en múltiples ocasiones para asistir en la reconstrucción de casos de alto perfil: el caso Liu Pang-yu, el caso Peng Wan-ru, el caso Pai Hsiao-yen y el incidente de rehenes en la cárcel de Kaohsiung (2015). En todos ellos aportó métodos modernos de recogida de pruebas y técnicas de seguimiento de evidencia entre jurisdicciones, facilitando una transferencia tecnológica tangible para la modernización del sistema forense taiwanés.
+
+Publicó más de 40 libros especializados, recibió una treintena de doctorados honoris causa y donó durante años la totalidad de sus honorarios por conferencias a causas educativas. Días antes de su fallecimiento terminaba un libro sobre investigación de personas desaparecidas; su familia ha anunciado que se publicará según lo previsto.
+
+En 2014 dijo en una entrevista que donaría todos sus órganos tras su muerte, salvo los ojos: «Porque toda mi vida he vivido de este par de ojos».
+
+En noviembre de 2025 le diagnosticaron un tumor cerebral. El 27 de marzo de 2026, Henry Lee falleció tranquilamente en su casa de Henderson, Nevada. Conforme a su voluntad, no se celebró funeral público; la familia habilitó un libro de condolencias en línea.
+
+---
+
+## Lecturas recomendadas
+
+[Chen Shui-bian](/es/people/chen-shui-bian-controversial-president/) y [Terror blanco en Taiwán](/es/history/taiwan-white-terror/) ofrecen dos ángulos distintos para comprender el trasfondo de la justicia penal taiwanesa. Para el contexto histórico de la llegada de 1949, [Traslado del Gobierno Nacionalista a Taiwán y reconstrucción de posguerra](/es/history/kmt-government-relocation-and-postwar-reconstruction/) es el punto de partida. [Democratización de Taiwán](/es/history/taiwan-democratization/) recorre la evolución del sistema judicial taiwanés desde el autoritarismo al estado de derecho, proceso en el que Henry Lee fue testigo y partícipe de la modernización de la ciencia forense.
+
+---
+
+## Lecturas recomendadas
+
+- [Henry Lee obituary — ABC News (2026-03-28)](https://abcnews.go.com/US/wireStory/henry-lee-famed-forensic-scientist-testified-oj-simpson-131488851)
+- [Judge finds Henry Lee liable for fabricating evidence — AP News (2023-07-22)](https://apnews.com/article/henry-lee-fabricated-murder-evidence-ef08de1e15148b3d48129ead10924009)
+- [Connecticut $25m settlement — The Guardian (2023-09-20)](https://www.theguardian.com/us-news/2023/sep/20/connecticut-settlement-wrongful-conviction-henry-lee-evidence)
+- [Declaración de condolencias de la Agencia de Policía — United Daily News (2026-03-28)](https://udn.com/news/story/7314/9408695)
+- [Fallece el detective Henry Lee — Storm Media (2026-03-27)](https://www.storm.mg/article/11115554)
+- [Entrada Henry Lee — Wikipedia en chino](https://zh.wikipedia.org/wiki/李昌鈺)
+- [Entrada Incidente 319 — Wikipedia en chino](https://zh.wikipedia.org/wiki/三一九槍擊案)
