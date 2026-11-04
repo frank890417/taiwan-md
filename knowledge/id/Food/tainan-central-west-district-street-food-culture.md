@@ -2,9 +2,7 @@
 title: 'Berjalan di Atas Pelabuhan yang Telah Ditimbun: Lima Hidangan Camilan di Distrik Tengah-Barat Tainan'
 description: 'Di bawah Jalan Guohua dan Jalan Haian terdapat sisa saluran sungai Pelabuhan Lima Jalur (Wutiao Gang) dari era Dinasti Qing; sup daging sapi, bubur ikan sisik (shimei), mi eel (shan-yu), dan bihun jantung babi, setiap hidangan memiliki waktu, lokasi, dan bahan yang merupakan fosil dari logika bertahan hidup pekerja pelabuhan selama empat ratus tahun.'
 date: 2026-06-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tainan',
@@ -15,20 +13,24 @@ tags:
     'Ikan Sisik',
     'Mi Eel',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-24T15:52:20+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T14:04:51.578600+00:00'
 ---
 
-Pada pukul empat tiga puluh pagi, lampu di Jalan Guohua belum menyala. Beberapa orang berjalan dari Stasiun Tainan menuju Liuqian Beef Soup, sebuah kedai yang papan namanya masih tersembunyi dalam kegelapan. Mereka bukan yang pertama; sudah ada orang yang menunggu di depan pintu. Daging sapi dari Pasar Produk Hewan Shanhua mulai dipotong pada malam sebelumnya, dikirim dengan truk pendingin sebelum fajar, dan panci sup pertama mulai mendidih pada pukul lima. Orang yang datang awal tahu satu hal: **tingkat kemanisan pada panci pertama berbeda dengan yang di sore hari.**
+Pukul setengah lima pagi, lampu-lampu di Jalan Guohua belum dinyalakan. Beberapa orang berjalan dari Stasiun Kereta Api Tainan, layar ponsel mereka menerangi jalan saat menuju ke Liu Qian Beef Soup yang papan namanya masih berada dalam kegelapan. Mereka bukan yang pertama: sudah ada orang yang menunggu di depan pintu. Sapi dari Pasar Daging Shanhua mulai disembelih sejak malam sebelumnya, dikirim dengan truk pendingin sebelum fajar, dan panci sup pertama mulai mendidih pada pukul lima pagi. Orang-orang yang datang lebih awal mengetahui satu hal: **tingkat kemanisan dari panci pertama berbeda dengan saat senja.**
 
-Ini bukan soal ritual. Ini adalah logistik.
+Ini bukan soal rasa ritual. Ini adalah logistik.
 
 ## Pelabuhan Lima Jalur: Alasan di Balik Kehilangannya
 
@@ -72,17 +74,17 @@ Tekstur daging sapi hangat adalah "kadi-kadi" (kerenyangan)—serat otot masih a
 
 📝 Catatan Kurator: Saat kuliah, saya pergi ke Tainan bersama teman-teman untuk pertama kalinya. Jam empat pagi, saya dibangunkan oleh seseorang: "Hei, bangunlah, kita harus minum sup daging sapi." Dengan mata mengantuk, pikiran pertama saya adalah: jam berapa sekarang, siapa yang menjual sup daging sapi di jam seperti ini? Meskipun ada, mengapa harus bangun sekarang? Namun teman saya bersikeras dan saya akhirnya ikut keluar. Setibanya di Jalan Haian, sebelum melihat toko mana yang dimaksud, saya sudah melihat barisan orang di bawah payung pasar di bawah lampu jalan—dua puluh hingga tiga puluh orang sudah menunggu di sana. Toko buka jam lima untuk mendapatkan panci pertama. Rasa manis itu—bukan karena tambahan gula, melainkan rasa manis alami dari serat otot dalam kondisi paling segar yang meresap ke dalam kuah—sup daging sapi di sore hari memang sama menggoda, tetapi kesegaran pada panci pertama adalah tingkat kenikmatan spiritual yang berbeda. Itu adalah kepuasan yang hampir terasa tidak adil. Saat itu, teman saya mengingatkan saya: "Bagaimana? Layak, kan! Dan ingat, jangan datang hari Senin, karena mereka tutup di hari Senin." Ternyata, toko sup daging sapi Tainan biasanya libur pada hari Senin karena Pasar Produk Hewan Shanhua tidak menyembelih sapi pada hari tersebut.
 
-## Mi Eel: Fisika 27 Detik
+## Mi Ee: Tumisan Api Besar, Sebuah Kedai yang Menuliskan Waktu di Dindingnya
 
-Mi eel (shan-yu) juga ada di tempat lain di Taiwan, tetapi hampir tidak ada yang bisa membuatnya dengan benar di luar Tainan, karena teknik intinya sangat ketat: dari saat eel masuk ke wajan hingga diangkat, tidak boleh lebih dari 27 detik. Jika lebih, tekstur daging akan menjadi kasar, aroma amis akan keluar, dan seluruh panci akan rusak.
+Kunci kelezatan mi ee belut terletak pada kontrol apinya: potongan belut dimasukkan ke dalam wajan dan ditumis dengan api besar; jika terlalu lama, tekstur dagingnya akan menjadi keras. Sebuah kedai legendaris di Sakariba menjadikan "27 detik" sebagai ciri khas mereka yang dituliskan di dinding—ini adalah metode spesifik dari kedai tersebut, bukan aturan umum untuk hidangan ini secara keseluruhan.
 
-Asal mula hidangan ini ada di Pasar Youai (Sakariba). Selama periode pemerintahan Jepang, Tainan tidak memiliki belut (eel), tetapi ikan sisik liar dengan ukuran serupa dapat ditangkap dengan mudah di kolam air. Namun, tidak ada yang tahu cara memasaknya. Saudara Liuyang Binan dan Liao Huotu bersama seorang guru dari Fuzhou mempelajari teknik memasak "daozi" (pisau) dan meneliti metode menggoreng ikan sisik agar menyerupai belut. Rasa Tainan yang gurih, asam, dan manis membuat pejabat Jepang pun kagum, sehingga hidangan ini menjadi terkenal di Sakariba. Liang Binan kemudian dikenal sebagai "Shan-yu Nan"; teknik keluarga Liao diwariskan turun-temurun, hingga hari ini, keluarga Liang di Sakariba, A-Yuan di Jalan Chenggong, dan A-Jiang di Jalan Minzu semuanya berasal dari silsilah yang sama.
+Asal-usul hidangan ini bermula di Pasar Jalan Youai (Sakariba). Saudara Liao Bing-nan dan Liao Huo-tu mempelajari teknik pisau (_to-tsì_) dari seorang koki asal Fuzhou, lalu menciptakan cita rasa khas Tainan yang perpaduan antara asin, asam, dan manis, hingga membangun reputasi di Sakariba. Liao Bing-nan kemudian dikenal dengan julukan "Eel Nan"; teknik keluarga Liao ini terus diwariskan secara turun-temurun, di mana keluarga Liao di Sakariba, A-Yuan di Jalan Chenggong, dan A-Jiang di Jalan Minzu, semuanya berasal dari silsilah yang sama. Kisah lengkapnya dapat dilihat pada 〈[Mi Ee Belut](/id/food/eel-noodles)〉.
 
-Bawang putih ditumis hingga harum, potongan ikan sisik masuk ke wajan, daun bawang, bawang bombay, cabai, bumbu, saus pengental, cuka lima jenis (wuyin), lalu diangkat dan dituangkan ke atas mi yang sudah disiapkan. Suara uap yang melonjak dari wajan adalah cara guru tua menilai tingkat kematangan dengan telinga, bukan mata.
+Bawang putih ditumis hingga harum, potongan belut dimasukkan ke wajan, diikuti daun bawang, bawang bombay, cabai, bumbu-bumbu, pengental (starch), dan cuka Lima Cap (_Wu Yin Cu_). Setelah diangkat, tumisan tersebut dituangkan di atas mi ee yang sudah disiapkan. Suara desis _wok hei_ yang membubung adalah cara para master menilai tingkat kematangan menggunakan telinga, bukan mata.
 
-Mi adalah jenis mie lokal Tainan yang digoreng setengah matang hingga terbentuk sebelum dimasukkan ke dalam saus untuk menyerap bumbu sepenuhnya; teksturnya sangat berbeda dengan mi biasa. Cuka lima jenis sangat penting—rasa asam dan manisnya mengatur ulang indra perasa setelah melewati minyak dan protein, sehingga orang masih bisa terus makan.
+Mi ee merupakan jenis mi lokal Tainan, yang digoreng setengah matang untuk membentuk teksturnya sebelum dimasukkan ke dalam kuah agar menyerap bumbu dengan sempurna; teksturnya sangat berbeda dari mi biasa. Cuka Lima Cap adalah komponen wajib—rasa asam-manis di akhir berfungsi untuk menyeimbangkan kembali indra perasa, sehingga setelah mengonsumsi lemak dan protein, orang masih bisa lanjut mencicipi kedai berikutnya.
 
-📝 Catatan Kurator: "Sakariba" adalah transliterasi dialek Taiwan dari istilah Jepang "Sakari-ba", yang berarti pasar yang ramai. Nama ini sendiri menjelaskan asal mula mi eel: sebuah pusat berkumpulnya pekerja pada masa pemerintahan Jepang.
+📝 Catatan Kurator: "Sakariba" adalah transliterasi bahasa Taiwan dari kata bahasa Jepang _sakariba_ (盛り場), yang berarti tempat keramaian atau pasar yang sibuk. Nama ini sendiri menjelaskan asal-usul mi ee belut: sebuah tempat berkumpulnya para pekerja pada masa pendudukan Jepang.
 
 ## Bubur Jantung Babi Amin: Filosofi Perebusan Terpisah (Gua Shui)
 
