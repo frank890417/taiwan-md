@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-07-26T10:36:35+08:00'
+translatedAt: '2026-11-04T17:23:41.921832+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Taiwan berada di perbatasan lempeng tektonik, gempa bumi adalah takdir pulau ini. Artikel ini memulai dari legenda "sapi bumi menggeser badan" yang lahir dari budaya lokal, melintasi catatan anomali masa Qing hingga titik balik sistem gempa 921, mengkaji bagaimana orang Taiwan bergerak dari ketakutan menuju "tenang", dan membangun ketahanan mitigasi bencana kelas dunia di tengah guncangan.

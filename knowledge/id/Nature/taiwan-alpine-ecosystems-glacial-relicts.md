@@ -2,9 +2,7 @@
 title: 'Ekosistem Pegunungan Tinggi Taiwan dan Relik Zaman Es'
 description: 'Mengkaji ekosistem unik lingkungan pegunungan tinggi di atas 3.000 meter Taiwan, dari Taiwania, Rhododendron Yushan hingga keanekaragaman hayati berharga spesies relik zaman es'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '生態系統'
 tags:
   [
     'ekosistem pegunungan tinggi',
@@ -14,15 +12,19 @@ tags:
     'keanekaragaman hayati',
     'perubahan iklim',
   ]
-readingTime: 11
+subcategory: '生態系統'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-07-26T03:58:07+08:00'
+translatedAt: '2026-11-04T17:57:30.244297+00:00'
 ---
 
 # Ekosistem Pegunungan Tinggi Taiwan dan Relik Zaman Es

@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:34:33.851740+00:00'
+translatedAt: '2026-11-04T17:30:46.617551+00:00'
 ---
 
 > **Ringkasan 30 detik:** Sistem wajib militer Taiwan adalah jejak sosial paling mendalam yang telah ditinggalkan oleh pulau ini selama lebih dari setengah abad. Dari "tiga tahun dinas" di era darurat militer hingga kembali ke wajib militer satu tahun hari ini, ini bukan sekadar perubahan angka masa dinas, melainkan cerminan nyata Taiwan dalam menghadapi tekanan geopolitik. Artikel ini membawa Anda memasuki momen "Golden Horse Award" yang diucapkan saat pengundian, hingga ke现场 kesiapan perang modern di mana supermarket pun dimasukkan ke dalam latihan, serta menganalisis secara mendalam standar pembebasan dinas, jadwal pelatihan baru, berbagai jenis dinas alternatif, dan transformasi praktis dari panggilan cadangan baru.

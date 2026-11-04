@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
-translatedAt: '2026-07-26T08:50:52+08:00'
+translatedAt: '2026-11-04T17:53:41.851116+00:00'
 ---
 
 > **Ringkasan 30 detik:** Pada 1949, sekitar 1,2 juta pasukan dan sipil mengikuti Pemerintah Nasionalis mundur dari Tiongkok daratan ke Taiwan, membentuk struktur populasi orang luar provinsi (_waishengren_) dan orang dalam provinsi (_benshengren_). Ketidaksetaraan sistemik di era hukum darurat, ditambah trauma kolektif yang ditinggalkan **Kejadian 228 (二二八事件)**, menjadikan identitas provinsi logika bawah paling sensitif dalam politik Taiwan. Pasca-demokratisasi, konflik ini berulang dimobilisasi oleh tokoh politik, hingga mulai teredam oleh "identitas orang Taiwan" pasca-2000 — namun para peneliti menyatakan, ia tidak pernah hilang, hanya berganti bentuk.

@@ -17,11 +17,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-05
 lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣與立陶宛.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dc43efb5979a3c8f'
 sourceBodyHash: 'sha256:0c2c65bdea71abe5'
-translatedAt: '2026-07-26T10:36:35+08:00'
+translatedAt: '2026-11-04T17:33:53.179412+00:00'
 ---
 
 > **Ringkasan 30 detik:** Hubungan Taiwan dengan Lithuania pada 2021 mencapai puncak berkat pendirian kantor perwakilan bernama "Taiwan", namun segera menghadapi tekanan ekonomi keras dari Tiongkok. Memasuki 2026, perubahan politik Lithuania memicu evaluasi strategis yang mendalam: Perdana Menteri baru mempertanyakan nama tersebut sebagai "kesalahan strategis" dan mempertimbangkan penggantian nama, sedangkan Presiden mempertahankan posisi既有, menciptakan ketidaksepakatan antara istana dan kabinet. Sementara itu, perdagangan bilateral tumbuh berlawanan arah di tengah sanksi, dan Taiwan melalui "Rencana Aksi Kerja Sama Ekonomi dengan Taiwan" serta investasi nyata, terus mendalami kemitraan bernuansa demokrasi ini di tengah ujian realisme.

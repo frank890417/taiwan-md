@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-07-26T17:01:24+08:00'
+translatedAt: '2026-11-04T17:47:03.305521+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Sistem peringkat Taiwan dulunya adalah sebilah gunting. Sebelum 1983, film harus melewati "pemeriksaan" bukan "peringkat", dan sensor politik serta moral adalah norma. Tahun 1993, kontroversi _Jurassic Park_ membuat Taiwan sadar akan kesenjangan sistem tiga tingkat, yang melahirkan "Tingkat Perlindungan". Kini, Taiwan telah membangun sistem lima tingkat yang mencakup film, televisi, program rekaman video, dan game digital, mengubah "larangan tayang" menjadi "pemisahan aliran", menjaga keberagaman dan keamanan lingkungan audiovisual.
