@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-07-26T21:33:30+08:00'
+translatedAt: '2026-11-04T21:54:34.505811+00:00'
 ---
 
 # Дэн Юйсянь: «Апрельские дожди» — тридцать девять лет отца тайваньской песни

@@ -9,11 +9,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-07-25T10:53:30+08:00'
+translatedAt: '2026-11-04T22:35:51.090819+00:00'
 ---
 
 > **30-секундный обзор:** 25 марта 1947 года, у станции Кайи, человека с кистью в руках связали проволокой и расстреляли на улицах. Его звали Чэнь Чэнбо — первый тайванец, пробившийся масляной живописью в Японскую «Тэйтэн», и тот, кто пошёл переговариваться во время События 28 февраля и не вернулся.

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/鄭兆村.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ce2f1e81de54c692'
 sourceBodyHash: 'sha256:efa67fc4a2da3f45'
-translatedAt: '2026-08-02T13:22:35+08:00'
+translatedAt: '2026-11-04T23:09:09.033260+00:00'
 ---
 
 # Чжэн Чжао Цзюнь: последний бросок 91,36 м на Всемирной универсиаде 2017 года — азиатское копьё с тех пор не то же самое
