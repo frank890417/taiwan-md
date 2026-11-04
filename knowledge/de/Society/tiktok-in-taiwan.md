@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-12
 lastHumanReview: true
 readingTime: '10min'
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:20:16.296543+00:00'
 ---
 
 > **30-Sekunden-Überblick:** TikTok ist nicht nur eine Plattform für kurze Videos, die Berühmtheit verschaffen; es ist in Taiwan ein „dezentrales“ Kognitionsexperiment. Durch hyperpersonalisierte Verbreitung lassen Nutzer unbewusst fremde politische Agenden zu ihrer eigenen Weltsicht werden. Studien aus dem Jahr 2025 zeigen, dass über 70 % der Jugendlichen zwischen 15 und 18 Jahren täglich mehr als zwei Stunden auf TikTok verbringen, wobei ihre Sympathie für China leise zunimmt und gleichzeitig ihr negatives Bild von der taiwanesischen Gesellschaft vertieft wird.

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/國家文化記憶庫.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6f90dbf2e1df699d'
 sourceBodyHash: 'sha256:f903cddb5dedf5bd'
-translatedAt: '2026-09-11T12:47:23+08:00'
+translatedAt: '2026-11-04T17:16:08.030896+00:00'
 ---
 
 > ⚡ Kurzübersicht
