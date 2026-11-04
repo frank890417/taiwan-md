@@ -2,28 +2,30 @@
 title: "Les savoirs écologiques des peuples autochtones de Taïwan et la protection de l'environnement"
 description: 'Exploration des savoirs écologiques traditionnels accumulés depuis des millénaires par les peuples autochtones de Taïwan, et de leur valeur précieuse pour la conservation environnementale contemporaine'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
-    peuples autochtones,
-    savoirs écologiques,
-    protection de l'environnement,
-    connaissances traditionnelles,
-    initiative Satoyama,
-    culture de la chasse,
-    développement durable,
+    'peuples autochtones',
+    'savoirs écologiques',
+    "protection de l'environnement",
+    'connaissances traditionnelles',
+    'initiative Satoyama',
+    'culture de la chasse',
+    'développement durable',
   ]
 subcategory: '原住民生態智慧'
-category: 'Nature'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
 lastVerified: 2026-03-20
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-04-14T19:22:26+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-04T20:20:15.482743+00:00'
 ---
 
 # Les savoirs écologiques des peuples autochtones de Taïwan et la protection de l'environnement

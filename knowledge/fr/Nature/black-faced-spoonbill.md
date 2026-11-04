@@ -2,8 +2,7 @@
 title: 'La spatule noire : de 300 à 7 000 individus, ce miracle de conservation transnational fait face au « prix du succès »'
 description: "Le recensement mondial de 2026 révèle que la population de spatules noires a atteint 7 746 individus, dont 4 719 recensés à Taïwan, un record historique. Ces « danseuses au visage noir », autrefois au bord de l'extinction, ont vu leur statut de conservation révisé à la baisse en 2025, mais font désormais face à de nouveaux défis sur leurs quartiers d'hiver taïwanais : développement photovoltaïque, botulisme et attaques par des chiens errants."
 date: 2026-04-30
-author: 'Taiwan.md Contributors'
-category: Nature
+category: 'Nature'
 tags:
   [
     'spatule noire',
@@ -12,15 +11,19 @@ tags:
     'aquaculture photovoltaïque',
     'nature taïwanaise',
   ]
-readingTime: 8
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: Nature/黑面琵鷺.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Nature/黑面琵鷺.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-04T20:16:21.450761+00:00'
 ---
 
 > **En bref (30 s) :** La spatule noire était autrefois une espèce en danger critique, avec moins de 300 individus recensés dans le monde. Après trente ans d'efforts transnationaux, sa population dépasse désormais les 7 000 individus, dont plus de 60 % choisissent de passer l'hiver à Taïwan. C'est un modèle de réussite en matière de conservation, mais avec l'augmentation des effectifs, ces hôtes de marque sont contraints de quitter les zones protégées centrales, cherchant de nouveaux habitats sûrs entre panneaux photovoltaïques, chiens errants et botulisme mortel.

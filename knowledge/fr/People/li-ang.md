@@ -18,15 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從鹿港切入，保守古鎮出了最激進的女性主義作家，這個對比本身就是她作品的來源。"
-#   whats_excluded: "各部作品詳細情節分析；學術論文引用清單；政治評論活動細節"
-#   where_it_hedges: "出生日期有4/5與4/7兩說（均以1952年4月為準）；已移除「2018年第22屆國家文藝獎」幻覺（第22屆得主是平路、黃明川等，非李昂）"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-04T20:41:18.435982+00:00'
 ---
 
 # Li Ang : Lukang 1952, celle qui a ouvert la voie de la littérature féministe taïwanaise avec _L'Assassinat du mari_

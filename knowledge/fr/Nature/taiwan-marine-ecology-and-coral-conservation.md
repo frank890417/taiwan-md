@@ -2,6 +2,7 @@
 title: 'Écologie marine et préservation des récifs coralliens à Taïwan'
 description: 'Entourée de tous côtés par la mer, Taïwan abrite une biodiversité marine exceptionnelle. De la crise du blanchissement des coraux à la protection des cétacés, découvrez les enjeux et les défis des parcs marins nationaux.'
 date: 2026-03-20
+category: 'Nature'
 tags:
   [
     'écologie marine',
@@ -13,16 +14,17 @@ tags:
   ]
 subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
-readingTime: 13
 featured: false
-category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+readingTime: 13
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
-translatedAt: '2026-04-14T19:22:44+08:00'
+translatedAt: '2026-11-04T20:21:41.999550+00:00'
 ---
 
 # Écologie marine et préservation des récifs coralliens à Taïwan

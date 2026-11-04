@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-08-09T08:39:36+08:00'
+translatedAt: '2026-11-04T20:04:53.979617+00:00'
 ---
 
 > **En 30 secondes :** En 2026, à Taïwan, un travailleur migrant international sur 26. Le nombre total s'élève à 873 000 personnes ; si l'on ajoute les quelque 94 000 travailleurs disparus, cette population étrangère représente plus de 5 % de la population résidante de Taïwan. De la culture du direct diffusée dans le hall de la gare de Taipei aux exigences de l'abolition des limites d'ancienneté lors de la grande manifestation des travailleurs migrants, en passant par la vague d'opposition à l'admission de travailleurs indiens en avril 2026, qui a vu les signatures de pétition dépasser les 40 000, Taïwan se trouve à la croisée des chemins entre une pénurie extrême de main-d'œuvre et une anxiété sociale concernant l'intégration. Il ne s'agit pas seulement de politique du travail, mais d'une épreuve collective sur la manière dont Taïwan définit « nous ».
