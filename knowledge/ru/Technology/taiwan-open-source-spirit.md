@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-07-26T05:17:41+08:00'
+translatedAt: '2026-11-04T16:32:35.000335+00:00'
 ---
 
 > Масштаб программной индустрии Тайваня не входит в глобальный первый эшелон, но на GitHub пользователей с указанием Taiwan насчитывается более 44 000 человек, сообщество провело более 70 хакатонов с тысячами участников — почти все это разработчики, вкладывающие свои силы и средства после работы. Эта статья не ограничивается g0v, а собирает полную карту культуры открытого кода Тайваня через четыре ракурса: люди, сообщества, образование, индустрия.

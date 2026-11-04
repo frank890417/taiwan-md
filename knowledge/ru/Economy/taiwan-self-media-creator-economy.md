@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T15:59:55+08:00'
+translatedAt: '2026-11-04T16:01:49.949580+00:00'
 ---
 
 > Рынок инфлюенс-рекламы на Тайване оценивается примерно в 210 млн долларов США, что составляет менее 1% от объема рынка США. Однако тайваньский автор среднего звена одновременно ведет от 5 до 7 платформ — YouTube, IG, Facebook, Threads, подкасты, блоги, LINE — что почти в два раза превышает показатели аналогичных авторов в США. Малый объем рынка, крайняя раздробленность платформ и монетизация через аффилиат-маркетинг вместо системы подписок — это игра по совершенно иным правилам.
