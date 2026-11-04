@@ -2,9 +2,7 @@
 title: 'Высокогорные экосистемы Тайваня и ледниковые реликты'
 description: 'Исследуются уникальные экосистемы высокогорных сред Тайваня выше 3000 метров, от тайваньской тайваньи и рододендрона Юйшан до драгоценного биологического разнообразия ледниковых реликтовых видов'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '生態系統'
 tags:
   [
     'высокогорная экология',
@@ -14,15 +12,19 @@ tags:
     'биологическое разнообразие',
     'климатические изменения',
   ]
-readingTime: 11
+subcategory: '生態系統'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-07-25T17:25:47+08:00'
+translatedAt: '2026-11-04T20:26:17.638097+00:00'
 ---
 
 # Высокогорные экосистемы Тайваня и ледниковые реликты
