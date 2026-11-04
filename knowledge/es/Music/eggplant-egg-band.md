@@ -1,14 +1,14 @@
 ---
-title: '茄子蛋 EggPlantEgg'
-description: 'EggPlantEgg, con su distintivo rock de «romanticismo taiwanés» y su narrativa del «vagabundo», no solo ha alcanzado un enorme éxito en el mercado musical, sino que también ha redefinido el rostro contemporáneo de la música pop en taiwanes, convirtiéndose en un componente esencial del imaginario cultural de Taiwán.'
+title: 'EggPlantEgg'
+description: "Con su estilo único de rock con 'romanticismo taiwanés' y narrativas de 'rebeldes', EggPlantEgg no solo ha logrado un gran éxito en el mercado musical, sino que también ha redefinido la apariencia contemporánea del pop en taiwanés, convirtiéndose en un componente importante del símbolo cultural de Taiwán."
 date: 2026-04-05
 category: 'Music'
 tags:
   [
     'música independiente',
-    'Premios Golden Melody',
-    'música pop taiwanesa',
-    'trilogía del vagabundo',
+    'Golden Melody Awards',
+    'pop en taiwanés',
+    'trilogía del rebelde',
     'cultura taiwanesa',
     'rock',
   ]
@@ -18,11 +18,13 @@ readingTime: 10
 featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
-translatedAt: '2026-05-09T14:31:06Z'
+translatedAt: '2026-11-04T16:07:19.414765+00:00'
 ---
 
 # 茄子蛋 EggPlantEgg

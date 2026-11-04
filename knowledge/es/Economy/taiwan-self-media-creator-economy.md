@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T12:42:46+08:00'
+translatedAt: '2026-11-04T15:43:49.591449+00:00'
 ---
 
 > El mercado publicitario de influencers en Taiwán es de aproximadamente 210 millones de dólares, menos del 1% del de Estados Unidos. Sin embargo, un creador medio en Taiwán gestiona habitualmente entre 5 y 7 plataformas —YouTube, IG, Facebook, Threads, Podcast, blogs, LINE—, casi el doble que un creador de su mismo nivel en EE. UU. Con un mercado pequeño, plataformas fragmentadas y una monetización basada en el marketing de afiliación en lugar de suscripciones, se trata de un juego con reglas completamente distintas.

@@ -2,9 +2,7 @@
 title: 'Tornillos: bajo el asedio de aranceles del 50 % y la frontera de carbono, la batalla por la supervivencia de los campeones ocultos de Taiwán'
 description: "Gangshan, en Kaohsiung, fue alguna vez una pieza clave de la línea de suministro estadounidense durante la guerra de Vietnam y sentó las bases del 'reino del tornillo' de Taiwán; hoy se encuentra en una encrucijada histórica. Bajo el doble golpe del arancel del 50 % de la Sección 232 de Estados Unidos y del impuesto fronterizo al carbono CBAM de la Unión Europea, estos campeones ocultos que alguna vez dominaron el mercado mundial intentan escribir, a la sombra del brillo de la industria de semiconductores, un nuevo capítulo de transformación resiliente."
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'tornillos',
@@ -14,18 +12,22 @@ tags:
     'transformación industrial',
     'campeones ocultos',
   ]
-readingTime: 18
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-04T16:41:36.428547+00:00'
 ---
 
-> **Panorama en 30 segundos:** Taiwán fue alguna vez un centro de suministro donde “uno de cada tres sujetadores usados en Estados Unidos provenía de Taiwán”, e incluso desempeñó un papel decisivo durante la guerra de Vietnam. Sin embargo, con la imposición en 2025 por parte de Estados Unidos de aranceles del 50 % bajo la Sección 232 y la cercanía del arancel al carbono CBAM de la Unión Europea en 2026, esta industria conocida como el “arroz de la industria”, con un valor anual superior a NT$50.000 millones y sustento de 30.000 familias del norte de Kaohsiung, atraviesa una transformación de vida o muerte: pasar de “vender por kilo” a “vender por pieza”.
+> **Resumen en 30 segundos:** Taiwán fue un centro de suministro clave, llegando a la situación de que «una de cada tres fijaciones utilizadas por Estados Unidos provenía de Taiwán», desempeñando incluso un papel decisivo durante la guerra de Vietnam. Sin embargo, ante la imposición por parte de Estados Unidos de un arancel del 50 % bajo la Sección 232 en 2025, y la proximidad del impuesto al carbono CBAM de la Unión Europea en 2026, esta industria —conocida como el «arroz de la industria»— genera un valor anual superior a los NT$50.000 millones y sustenta a 30.000 familias en el norte de Kaohsiung, y se encuentra actualmente en medio de una transformación vital: pasar de vender sus productos por peso a venderlos por unidad.
 
 ## El nacimiento de un héroe de la guerra de Vietnam: ¿cómo pequeños tornillos fijaron los cimientos del “reino del tornillo” de Taiwán?
 

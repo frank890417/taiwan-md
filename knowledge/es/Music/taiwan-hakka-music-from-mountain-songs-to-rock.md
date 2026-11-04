@@ -2,9 +2,7 @@
 title: 'Música hakka de Taiwán: de las canciones de montaña a la política lingüística detrás del rechazo de Lin Shengxiang al premio'
 description: "Las canciones de montaña hakka (shan'ge) surgieron de la vida laboral, y la música de ocho sonidos hakka (bāyīn) se emplea en bodas, funerales y celebraciones. En 1999, la banda Labor Exchange ganó el premio Golden Melody al Mejor Compositor y al Mejor Productor con *We're Going to Sing Mountain Songs*, inaugurando la era del rock hakka. En 2003, la 14.ª edición de los Golden Melody Awards creó la categoría de Mejor Cantante en Lengua Hakka; en 2004, Xie Yuwei se convirtió en el primer ganador. En 2007, Lin Shengxiang ganó con *Plantar árboles* pero rechazó el premio en el acto, abogando por clasificar la música por género y no por idioma, lo que desató un debate sobre la abolición o permanencia de las categorías lingüísticas y, tres años después, impulsó la creación de los Golden Indie Music Awards. El canal Hakka TV, fundado en 2003, ha ampliado continuamente la visibilidad de la música en lengua hakka. La amenaza de pérdida lingüística persiste, pero la tensión entre herencia e innovación sigue impulsando a los músicos hakka hacia adelante."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '傳統音樂'
 tags:
   [
     'música hakka',
@@ -15,15 +13,19 @@ tags:
     'canciones en lengua hakka',
     'Golden Melody Awards',
   ]
-readingTime: 10
+subcategory: '傳統音樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-05-18T05:08:09+08:00'
+translatedAt: '2026-11-04T16:17:39.097648+00:00'
 ---
 
 # Música hakka de Taiwán: de las canciones de montaña a la política lingüística detrás del rechazo de Lin Shengxiang al premio
@@ -96,18 +98,18 @@ Por otro lado, la era digital también abre nuevas oportunidades: las plataforma
 
 ## Referencias
 
-[^1]: [La música no tiene fronteras: Lin Shengxiang, el que menos quería ganar el premio hakka — Coolloud](https://www.coolloud.org.tw/node/3817) — Confirma la motivación y declaración de Lin Shengxiang al rechazar el premio.
+[^1]: [La música no tiene fronteras, Lin Sheng-hsiang: Lo que menos quería era ganar un premio de Hakka | Kulau Web](https://www.coolloud.org.tw/node/3817) — Confirmación de los motivos y la declaración de Lin Sheng-hsiang para rechazar el premio.
 
-[^2]: [Centro Nacional de Artes Tradicionales: materiales de aprendizaje de la música de ocho sonidos hakka](https://www.ncfta.gov.tw/) — Explicación de la práctica de la música de ocho sonidos hakka centrada en el suona.
+[^2]: [Centro Nacional de las Artes Tradicionales: Materiales sobre la transmisión del Hakka Bayin](https://www.ncfta.gov.tw/) — Explicación de la práctica del Hakka Bayin, cuyo instrumento principal es el suona.
 
-[^3]: [Oficina de la Industria Cinematográfica, de Televisión y de Música Popular del Ministerio de Cultura: listas históricas de ganadores y nominados](https://www.bamid.gov.tw/information_176_64106.html) — Confirma que _Women jiu lai chang shan'ge_ ganó en la 11.ª edición de los Golden Melody Awards los premios a Mejor Compositor y Mejor Productor (no el premio a Mejor Banda).
+[^3]: [Administración de la Industria Cinematográfica y de la Música Popular del Ministerio de Cultura: Lista de ganadores y nominados de ediciones anteriores](https://www.bamid.gov.tw/information_176_64106.html) — Confirmación de que «Nosotros vendremos a cantar canciones de montaña» ganó los premios a Mejor Compositor y Mejor Productor en la 11.ª edición de los Golden Melody Awards (no el premio a la mejor banda).
 
-[^4]: [14.ª edición de los Golden Melody Awards — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirma la creación de la categoría de Mejor Cantante en Lengua Hakka en la 14.ª edición (2003); el cambio de nombre a Mejor Cantante en Lengua Hakka en la 18.ª edición (2007).
+[^4]: [14.ª edición de los Golden Melody Awards — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirmación de que en 2003, durante la 14.ª edición, se estableció por primera vez el premio a Mejor Intérprete de Hakka; y en 2007, durante la 18.ª edición, se cambió el nombre a Mejor Cantante de Hakka.
 
-[^5]: [Xie Yuwei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirma que Xie Yuwei ganó el premio a Mejor Cantante en Lengua Hakka en la 15.ª edición (2004); álbum representativo: _Yicai, huashuxia_.
+[^5]: [Hsieh Yu-wei — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmación de que fue el ganador del premio a Mejor Intérprete de Hakka en la 15.ª edición de los Golden Melody Awards en 2004; su obra representativa es «Una persona, bajo el árbol de flores».
 
-[^6]: [La 18.ª edición de los Golden Melody Awards, primera vez… Lanza Lin Shengxiang su bomba: rechaza el premio con las manos juntas — Liberty Times](https://ent.ltn.com.tw/news/paper/136087) — Relato del rechazo de Lin Shengxiang en la 18.ª edición de los Golden Melody Awards (2007) y destinatarios de la donación del premio.
+[^6]: [Por primera vez en 18 años de Golden Melody... Lin Sheng-hsiang lanza una bomba al rechazar el premio con las manos en alto | Liberty Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Detalles sobre el proceso del rechazo del premio por parte de Lin Sheng-hsiang en la 18.ª edición de los Golden Melody Awards (2007) y el destino de la donación del premio en metálico.
 
-[^7]: [Premio al Mejor Álbum en Lengua Hakka (Golden Melody Awards) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Confirma que _Lanhuaqu_ de Situ Rong ganó los premios a Mejor Cantante en Lengua Hakka y Mejor Álbum en Lengua Hakka en la 23.ª edición.
+[^7]: [Mejor Álbum de Hakka (Golden Melody Awards) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirmación de que Lo Ssu-jung ganó el premio a Mejor Cantante de Hakka y al Mejor Álbum de Hakka en la 23.ª edición con «Lanzando flores».
 
-[^8]: [Sitio web oficial de Hakka TV](https://www.hakkatv.org.tw/) — Confirma el inicio de emisiones en 2003 como primer canal de televisión del mundo que transmite íntegramente en lengua hakka las veinticuatro horas.
+[^8]: [Sitio web oficial de Hakka TV](https://www.hakkatv.org.tw/) — Confirmación de que comenzó sus transmisiones en 2003, siendo el primer canal de televisión de habla hakka las 24 horas del día en el mundo.

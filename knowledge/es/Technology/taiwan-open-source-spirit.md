@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-09-27T22:31:26+08:00'
+translatedAt: '2026-11-04T16:27:05.928986+00:00'
 ---
 
 > La industria del software de Taiwán no está en la línea de punta mundial, pero en GitHub hay más de 44.000 usuarios que indican a Taiwán como su ubicación, se han celebrado más de 70 hackathons comunitarios y hay miles de contribuidores —casi todos desarrolladores individuales que invierten su propio dinero después de su jornada laboral. Este artículo no solo habla de g0v, sino que traza un mapa completo de la cultura de código abierto de Taiwán desde cuatro perspectivas: personas, comunidad, educación e industria.
