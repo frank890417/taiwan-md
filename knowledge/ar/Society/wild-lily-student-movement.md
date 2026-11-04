@@ -1,24 +1,21 @@
 ---
 title: 'حركة الطالبات والطلاب «الليليا الحارة»'
 description: 'جماعة من الطلاب في الجامعات جلسوا على مقربة «تشيانغ كاي شيك» لمدة سبعة أيام، لتنفيذ نظام سياسي كان يُمْتَنِع عن التغيير لمدة أربعين عامًا. ما غيرّ حقاً فيه من التغيير ليس فقط اجتماع الشعب الجمهوري، بل أن تايوان أول مرة رأت بوضوح: يمكن للطلاب أن يحددوا جدول زمني لإصلاح الدستور والنظام السياسي.'
-tags:
-  - 'المجتمع'
-  - 'التاريخ'
-  - 'حركة الطلاب'
-  - 'الديمقراطية'
-  - 'الحركات المواطنية'
-category: 'Society'
-subcategory: '民主與政治'
 date: 2026-03-23
+category: 'Society'
+tags: ['المجتمع', 'التاريخ', 'حركة الطلاب', 'الديمقراطية', 'الحركات المواطنية']
+subcategory: '民主與政治'
 author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/野百合學運.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
-translatedAt: '2026-07-25T06:34:23+08:00'
+translatedAt: '2026-11-04T18:56:55.846165+00:00'
 ---
 
 # حركة الطالبات والطلاب «الليليا الحارة»

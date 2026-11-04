@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
-translatedAt: '2026-08-04T06:18:11+08:00'
+translatedAt: '2026-11-04T19:26:04.463522+00:00'
 ---
 
 # حكمة تايوان الأصلية البيئية وحفظ البيئة
