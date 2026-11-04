@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-04T07:46:06+08:00",
-    "zhCommitHead": "20506b3e2",
+    "lastUpdated": "2026-11-04T08:07:35+08:00",
+    "zhCommitHead": "51d77b35d",
     "totalZh": 1158,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1158,
-        "fresh": 1152,
-        "stale": 5,
+        "fresh": 1153,
+        "stale": 4,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1158,
-        "fresh": 1145,
+        "fresh": 1146,
         "stale": 8,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
       },
@@ -60,49 +60,49 @@
       },
       "vi": {
         "total_zh": 1158,
-        "fresh": 1141,
-        "stale": 12,
+        "fresh": 1142,
+        "stale": 11,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "id": {
         "total_zh": 1158,
-        "fresh": 1142,
-        "stale": 8,
+        "fresh": 1143,
+        "stale": 7,
         "metadata_stale": 5,
         "missing": 3,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1158,
-        "fresh": 1149,
+        "fresh": 1150,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1158,
-        "fresh": 1140,
-        "stale": 12,
+        "fresh": 1141,
+        "stale": 11,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1158,
-        "fresh": 1145,
-        "stale": 7,
+        "fresh": 1146,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1158,
-        "fresh": 1152,
+        "fresh": 1153,
         "stale": 3,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
       },
@@ -13556,20 +13556,18 @@
         "vi": {
           "path": "vi/Economy/top-50-companies-taiwan.md",
           "translatedFrom": "Economy/台灣前50大企業.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:22fc95c656db9409",
-          "sourceBodyHash": "sha256:645f8f42e79639a7",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "515c092b1",
+          "sourceContentHash": "sha256:3b7bdefbf92969dd",
+          "sourceBodyHash": "sha256:3f33446cf2ef1d05",
+          "translatedAt": "2026-11-03T23:32:05.552607+00:00",
           "translationLastCommit": "456f4352",
           "translationLastModified": "2026-10-10T23:34:36+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 46529,
+          "bytes": 53506,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/top-50-companies-taiwan.md",
@@ -31410,20 +31408,18 @@
         "ar": {
           "path": "ar/Technology/ai-hardware-supply-chain.md",
           "translatedFrom": "Technology/AI硬體供應鏈.md",
-          "sourceCommitSha": "8f5e81ee5",
-          "sourceContentHash": "sha256:96b285db19941653",
-          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
-          "translatedAt": "2026-09-13T15:49:28+08:00",
+          "sourceCommitSha": "1ec0df23b",
+          "sourceContentHash": "sha256:de7f4ddf0c4e6168",
+          "sourceBodyHash": "sha256:fb0ee951dd4978bf",
+          "translatedAt": "2026-11-03T20:22:28+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 45115,
+          "bytes": 44773,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+30 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/ai-hardware-supply-chain.md",
@@ -43456,20 +43452,18 @@
         "hi": {
           "path": "hi/Art/taiwan-new-media-art.md",
           "translatedFrom": "Art/台灣新媒體藝術.md",
-          "sourceCommitSha": "ef8fab38e",
-          "sourceContentHash": "sha256:73ba9ccb331ff6aa",
-          "sourceBodyHash": "sha256:3affa690cf7b66dc",
-          "translatedAt": "2026-07-30T22:42:19.711957+00:00",
+          "sourceCommitSha": "160f6cb59",
+          "sourceContentHash": "sha256:322922074ebc6f22",
+          "sourceBodyHash": "sha256:532e9b8210a860d0",
+          "translatedAt": "2026-11-03T23:51:19.251570+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 66993,
+          "bytes": 67844,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwan-new-media-art.md",
@@ -94276,20 +94270,18 @@
         "ja": {
           "path": "ja/Politics/village-chief-campaign-ledgers.md",
           "translatedFrom": "Politics/309本里長帳簿.md",
-          "sourceCommitSha": "5a9cd9398",
-          "sourceContentHash": "sha256:9ce152768ea44921",
-          "sourceBodyHash": "sha256:60bb46f6e4722d51",
-          "translatedAt": "2026-09-30T09:01:27+08:00",
+          "sourceCommitSha": "d7d7c2e30",
+          "sourceContentHash": "sha256:9da6ac74278aa12e",
+          "sourceBodyHash": "sha256:f6dc7e3946b055ef",
+          "translatedAt": "2026-11-03T20:21:50+08:00",
           "translationLastCommit": "28ac08c3",
           "translationLastModified": "2026-10-01T00:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 17953,
+          "bytes": 17084,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Politics/village-chief-campaign-ledgers.md",
@@ -145088,8 +145080,8 @@
           "sourceContentHash": "sha256:cf3dd21873bec862",
           "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
           "translatedAt": "2026-11-03T22:51:00.075287+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "51d77b35",
+          "translationLastModified": "2026-11-04T07:46:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 15003,
@@ -163918,20 +163910,18 @@
         "id": {
           "path": "id/Food/shulin-red-yeast-rice.md",
           "translatedFrom": "Food/紅麴.md",
-          "sourceCommitSha": "e8de5c169",
-          "sourceContentHash": "sha256:1a952f594b1e4c60",
-          "sourceBodyHash": "sha256:140c52cfad734a21",
-          "translatedAt": "2026-09-14T23:08:30.336540+00:00",
+          "sourceCommitSha": "e2e11f405",
+          "sourceContentHash": "sha256:7341e995e36938f6",
+          "sourceBodyHash": "sha256:952feb96a39bb831",
+          "translatedAt": "2026-11-03T23:57:37.837570+00:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 31174,
+          "bytes": 31220,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+51 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/shulin-red-yeast-rice.md",
@@ -188936,20 +188926,18 @@
         "es": {
           "path": "es/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:45:11+08:00",
+          "translatedAt": "2026-11-03T23:55:59.944135+00:00",
           "translationLastCommit": "a50c5f97",
           "translationLastModified": "2026-11-03T01:33:31+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 19544,
+          "bytes": 19585,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/orchid-island-nuclear-waste.md",
@@ -189060,20 +189048,18 @@
         "ru": {
           "path": "ru/History/orchid-island-nuclear-waste.md",
           "translatedFrom": "History/蘭嶼核廢料.md",
-          "sourceCommitSha": "7fbc0ea76",
-          "sourceContentHash": "sha256:32042f77cac1568f",
+          "sourceCommitSha": "795b09242",
+          "sourceContentHash": "sha256:9867c53ac5d9146d",
           "sourceBodyHash": "sha256:ca4e6cf11aa6f741",
-          "translatedAt": "2026-11-02T05:46:00+08:00",
+          "translatedAt": "2026-11-03T23:52:04.334071+00:00",
           "translationLastCommit": "b8c481fc",
           "translationLastModified": "2026-11-03T01:19:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 29029,
+          "bytes": 29064,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/orchid-island-nuclear-waste.md",
@@ -203503,8 +203489,8 @@
           "sourceContentHash": "sha256:0d139b37b2b76ae2",
           "sourceBodyHash": "sha256:9c545fc3c704ac06",
           "translatedAt": "2026-11-03T20:22:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51d77b35",
+          "translationLastModified": "2026-11-04T07:46:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 20115,
@@ -222403,7 +222389,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/chinese-professional-baseball-league.md",
+          "translatedFrom": "Culture/中華職棒.md",
+          "sourceCommitSha": "02ca87bad",
+          "sourceContentHash": "sha256:e51c494d0dd60536",
+          "sourceBodyHash": "sha256:14343c2d821c678c",
+          "translatedAt": "2026-11-03T23:46:24.207456+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 23392,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
