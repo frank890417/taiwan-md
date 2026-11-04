@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T21:10:10.643300+00:00'
 ---
 
 # Hứa Thục Tĩnh: Lâm Bồ 1991, cầu thủ nâng 53kg đầu tiên của Đài Loan giành hai huy chương vàng Olympic

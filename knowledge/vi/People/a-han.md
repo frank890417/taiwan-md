@@ -1,11 +1,6 @@
 ---
 title: 'Ạ-Hàn: Cô bé Hoa Liên từng diễn hết cả một con hẻm, rồi bị chính mọi người trong hẻm chửi ngược lại'
 description: 'Cô bé Hoa Liên Tăng Văn Hàn tốt nghiệp Khoa Hoạt hình Đại học Nghệ thuật Bắc Kinh, một mình diễn Nguyễn Nguyệt Kiêu, Liêu Lệ Phương, Liêu Lệ Châu để tạo nên cả một con hẻm Đài Loan. Nhưng đến năm 2022, khi anh xuất hiện với vai nàng dâu Việt Nam trong quảng cáo Tết Trung Nguyên, bị những phụ nữ Việt Nam thực sự phản đối và buộc gỡ xuống.'
-translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
-sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-08-09T12:06:28+08:00'
 date: 2026-05-11
 category: 'People'
 tags:
@@ -27,11 +22,18 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/阿翰.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
+sourceBodyHash: 'sha256:7dbe663cdddeba6e'
+translatedAt: '2026-11-04T20:49:46.247855+00:00'
 ---
 
-> **30 giây tổng quan:** Tăng Văn Hàn sinh năm 1994 tại Hoa Liên, tốt nghiệp lớp mỹ thuật trường Hoa Liên nữ trung học, sau đó tốt nghiệp Khoa Hoạt hình Đại học Nghệ thuật Bắc Kinh, từ năm 2015 bắt đầu quản lý kênh YouTube "Ạ-Hàn po video"[^1]. Anh ấy một mình diễn vai Liêu Lệ Phương, Nguyễn Nguyệt Kiêu, Liêu Lệ Châu, chị bán cơm tự chọn — toàn bộ các nhân vật trong một con hẻm Đài Loan. Tác phẩm đại diện 〈Cô chủ lệnh quay số - Nữ Thần Chín Trời Rơi Hoa（算命阿姨 九天玄女之天女散花）〉 tích lũy hơn 13 triệu lượt xem[^2]. Nhưng năm 2022, trong quảng cáo Tết Trung Nguyên, vai nàng dâu Việt Nam của anh được thực hiện bởi thực sự những phụ nữ Việt Nam phản đối và buộc gỡ — một cô bé Hoa Liên dựng nên con hẻm Đài Loan bằng cách diễn vai, bị chính những người sống trong hẻm đó hỏi: "Tại sao vị trí này không phải là tôi".
+> **Tóm tắt trong 30 giây:** Tăng Văn Hàn (Tseng Wen-han), sinh năm 1994 tại Hoa Liên, tốt nghiệp khoa Hoạt hình thuộc Đại học Nghệ thuật Quốc gia Đài Bắc sau khi theo học lớp mỹ thuật tại Trường Nữ trung Hoa Liên. Từ năm 2015, anh bắt đầu vận hành kênh YouTube 「Ạ-Hàn po video」[^1]. Một mình anh thủ vai Liêu Lệ Phương, Nguyễn Nguyệt Kiêu, Liêu Lệ Châu, dì bán cơm tự chọn — tái hiện lại toàn bộ các nhân vật trong một con hẻm đặc trưng của Đài Loan. Tác phẩm tiêu biểu 〈算命阿姨 九天玄女之天女散花〉 (Cô chủ lệnh quay số - Nữ Thần Chín Trời Rơi Hoa) đã tích lũy được hơn 13 triệu lượt xem[^2]. Tuy nhiên, trong một quảng cáo dịp Tết Trung Nguyên năm 2022, nhân vật nàng dâu Việt Nam do anh thủ vai đã bị những người vợ Việt Nam thực thụ phản đối dẫn đến việc phải gỡ bỏ — một chàng trai Hoa Liên dùng sự mô phỏng để dựng lên con hẻm Đài Loan, nhưng lại bị chính những người trong con hẻm đó hỏi rằng: "Tại sao vị trí này không phải là tôi".
 
-Tài năng của Ạ-Hàn không nằm ở bất kỳ vai nào trông giống, mà nằm ở chỗ anh ấy gần như đã diễn hết toàn bộ một con hẻm Đài Loan. Cô chủ lệnh quay số, nàng dâu Việt Nam, chị nhà trọ, chị bán cơm tự chọn, em gái lớp trung học ngu ngơ, thầy giáo xe máy, bạn lớp trưởng — cùng một người, cùng một khuôn mặt, đổi sang những giọng điệu khác nhau, những cử động khác nhau, những giai đoạn đời khác nhau. Nhưng sự kiện năm 2022 đó đã nói với anh: diễn vai về con hẻm này, và sống trong con hẻm này, từ chưa bao giờ là một điều giống nhau.
+Sự lợi hại của Ạ-Hàn không nằm ở việc một nhân vật nào đó giống thật đến mức nào, mà là ở chỗ anh gần như đã diễn hết cả một con hẻm Đài Loan. Cô chủ lệnh quay số, nàng dâu Việt Nam, dì chủ nhà trọ, dì bán cơm tự chọn, nữ sinh trung học mù, giáo viên dạy lái xe máy, lớp trưởng A Uy — cùng một người, cùng một khuôn mặt, nhưng thay đổi bằng những chất giọng khác nhau, cử chỉ khác nhau và những giai đoạn cuộc đời khác nhau. Thế nhưng, sự việc gỡ bỏ quảng cáo năm 2022 đã nói cho anh biết rằng: mô phỏng con hẻm này và thực sự sống trong con hẻm đó chưa bao giờ là cùng một chuyện.
 
 ## Một người diễn hết cả một con hẻm
 
