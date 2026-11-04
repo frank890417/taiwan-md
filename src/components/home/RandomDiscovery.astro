@@ -80,122 +80,157 @@ const routedCats = categoryList;
   is:inline
   define:vars={{ articlesJson, isEn, lang, langPrefixes, routedCats }}
 >
-  document.addEventListener('DOMContentLoaded', async function () {
+  // 2026-11-04 site-health：articles.json 改成「按下才抓」。它是全站 13 語的
+  // 目錄（br 壓縮後約 4.4 MB、解開 14 MB），原本每次打開首頁就在
+  // DOMContentLoaded 下載並 JSON.parse，Lighthouse 首頁傳輸量 11.4 MB 裡它一個
+  // 佔四成、主執行緒也被它卡住。現在讀者按下骰子（或手指／鍵盤碰到按鈕）
+  // 才開始抓，抓完照原本的跑馬燈動畫走。
+  document.addEventListener('DOMContentLoaded', function () {
     const randomBtn = document.getElementById('random-discovery-btn');
+    if (!randomBtn) return;
     let articles = [];
+    let loading = null;
+    let shuffled = [];
+    let currentIndex = 0;
 
-    if (articlesJson) {
-      articles = JSON.parse(articlesJson);
-    } else {
-      // Fallback path — runs for ALL langs (home.template.astro renders
-      // <RandomDiscovery /> with no articlesJson prop). Fetch
-      // /api/articles.json and narrow to the current page's language.
-      // articles.json contains every language folder under knowledge/
-      // (including preview-mode fr/es whose routes are disabled), so the
-      // per-lang filter is required to prevent the random button from landing
-      // on /fr/… 404s or dropping the reader into the wrong locale. Issue #575.
-      var catLabels = {
-        history: '📜 歷史',
-        geography: '🗺️ 地理',
-        culture: '🎭 文化',
-        food: '🍜 美食',
-        art: '🎨 藝術',
-        music: '🎵 音樂',
-        technology: '💻 科技',
-        nature: '🌿 自然',
-        people: '👤 人物',
-        society: '⚖️ 社會',
-        economy: '📈 經濟',
-        lifestyle: '🏮 生活',
-      };
-      // langPrefixes is injected via define:vars from LANGUAGES_REGISTRY
-      // (2026-04-25 β7 fix: was hardcoded ['en','ja','ko','es','fr','zh-tw'])
-      try {
-        const res = await fetch('/api/articles.json');
-        if (res.ok) {
-          const raw = await res.json();
-          articles = raw
-            .filter(function (a) {
-              var cat = (a.category || '').toLowerCase();
-              if (lang === 'zh-TW') {
-                // zh-TW = default locale, URL has no language prefix.
-                // Exclude articles whose category IS a language code.
-                if (langPrefixes.indexOf(cat) !== -1) return false;
-              } else if (cat !== lang) {
-                // Non-default locale: category must equal current lang.
-                return false;
-              }
-              // Routed-category gate: the URL's category segment
-              // (second-to-last) must be a real routed category. Excludes
-              // resources/* + categoryless strays that 404. See verify note.
-              var s = a.url.replace('https://taiwan.md', '').split('/');
-              var urlCat = s.length >= 2 ? s[s.length - 2].toLowerCase() : '';
-              return routedCats.indexOf(urlCat) !== -1;
-            })
-            .map(function (a) {
-              // Lowercase the CATEGORY segment (always second-to-last:
-              // `[/lang]/Category/slug`). Routes are emitted lowercase, so a
-              // PascalCase category 404s on case-sensitive prod (Cloudflare).
-              // The old code lowercased only the FIRST segment — which for
-              // non-default langs is the lang code, leaving `/en/Politics/...`
-              // 404ing (the reported "surprise me" bug). generate-api.js now
-              // emits canonical URLs; this stays as defense in depth for the
-              // CDN cache-transition window after deploy. See Issue #575.
-              var segs = a.url.replace('https://taiwan.md', '').split('/');
-              if (segs.length >= 2) {
-                segs[segs.length - 2] = segs[segs.length - 2].toLowerCase();
-              }
-              return {
-                title: a.title,
-                url: segs.join('/'),
-                category: catLabels[a.category.toLowerCase()] || a.category,
-              };
-            });
-        }
-      } catch (e) {
-        articles = [];
-      }
-    }
-
-    if (randomBtn && articles.length > 0) {
-      let shuffled = [...articles];
+    function shuffle() {
+      shuffled = [...articles];
       for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
       }
-      let currentIndex = 0;
+      currentIndex = 0;
+    }
 
-      randomBtn.addEventListener('click', function () {
-        if (currentIndex >= shuffled.length) {
-          currentIndex = 0;
-          for (let i = shuffled.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    function loadArticles() {
+      if (loading) return loading;
+      loading = (async function () {
+        if (articlesJson) {
+          articles = JSON.parse(articlesJson);
+        } else {
+          // Fallback path — runs for ALL langs (home.template.astro renders
+          // <RandomDiscovery /> with no articlesJson prop). Fetch
+          // /api/articles.json and narrow to the current page's language.
+          // articles.json contains every language folder under knowledge/
+          // (including preview-mode fr/es whose routes are disabled), so the
+          // per-lang filter is required to prevent the random button from
+          // landing on /fr/… 404s or dropping the reader into the wrong
+          // locale. Issue #575.
+          var catLabels = {
+            history: '📜 歷史',
+            geography: '🗺️ 地理',
+            culture: '🎭 文化',
+            food: '🍜 美食',
+            art: '🎨 藝術',
+            music: '🎵 音樂',
+            technology: '💻 科技',
+            nature: '🌿 自然',
+            people: '👤 人物',
+            society: '⚖️ 社會',
+            economy: '📈 經濟',
+            lifestyle: '🏮 生活',
+          };
+          // langPrefixes is injected via define:vars from LANGUAGES_REGISTRY
+          // (2026-04-25 β7 fix: was hardcoded ['en','ja','ko','es','fr','zh-tw'])
+          try {
+            const res = await fetch('/api/articles.json');
+            if (res.ok) {
+              const raw = await res.json();
+              articles = raw
+                .filter(function (a) {
+                  var cat = (a.category || '').toLowerCase();
+                  if (lang === 'zh-TW') {
+                    // zh-TW = default locale, URL has no language prefix.
+                    // Exclude articles whose category IS a language code.
+                    if (langPrefixes.indexOf(cat) !== -1) return false;
+                  } else if (cat !== lang) {
+                    // Non-default locale: category must equal current lang.
+                    return false;
+                  }
+                  // Routed-category gate: the URL's category segment
+                  // (second-to-last) must be a real routed category. Excludes
+                  // resources/* + categoryless strays that 404.
+                  var s = a.url.replace('https://taiwan.md', '').split('/');
+                  var urlCat =
+                    s.length >= 2 ? s[s.length - 2].toLowerCase() : '';
+                  return routedCats.indexOf(urlCat) !== -1;
+                })
+                .map(function (a) {
+                  // Lowercase the CATEGORY segment (always second-to-last:
+                  // `[/lang]/Category/slug`). Routes are emitted lowercase, so
+                  // a PascalCase category 404s on case-sensitive prod. Defense
+                  // in depth for the CDN cache window. See Issue #575.
+                  var segs = a.url.replace('https://taiwan.md', '').split('/');
+                  var urlCat = '';
+                  if (segs.length >= 2) {
+                    urlCat = segs[segs.length - 2].toLowerCase();
+                    segs[segs.length - 2] = urlCat;
+                  }
+                  // Translations carry category = lang code in articles.json,
+                  // so the subtitle used to read "en"/"ja"; label from the URL's
+                  // category segment instead (zh-TW keeps its emoji labels).
+                  return {
+                    title: a.title,
+                    url: segs.join('/'),
+                    category:
+                      lang === 'zh-TW' ? catLabels[urlCat] || urlCat : urlCat,
+                  };
+                });
+            }
+          } catch (e) {
+            articles = [];
           }
         }
-        const randomArticle = shuffled[currentIndex++];
-        const textEl = randomBtn.querySelector('.random-text');
-        const subtitleEl = randomBtn.querySelector('.random-subtitle');
-        const originalText = textEl.textContent;
-        randomBtn.style.pointerEvents = 'none';
-        let ticks = 0;
-        const totalTicks = 8;
-        const interval = setInterval(function () {
-          const temp = articles[Math.floor(Math.random() * articles.length)];
-          textEl.textContent = temp.title;
-          if (subtitleEl) subtitleEl.textContent = temp.category || '';
-          ticks++;
-          if (ticks >= totalTicks) {
-            clearInterval(interval);
-            textEl.textContent = randomArticle.title;
-            if (subtitleEl)
-              subtitleEl.textContent = randomArticle.category || '';
-            setTimeout(function () {
-              window.location.href = randomArticle.url;
-            }, 600);
-          }
-        }, 100);
-      });
+        if (articles.length > 0) shuffle();
+        return articles;
+      })();
+      return loading;
     }
+
+    // Back-button restore (bfcache) brings the page back mid-"rolling";
+    // unlock the button so a second roll works.
+    window.addEventListener('pageshow', function (e) {
+      if (!e.persisted) return;
+      randomBtn.dataset.rolling = '';
+      randomBtn.style.pointerEvents = '';
+    });
+
+    // Intent signals start the download a beat before the click lands.
+    randomBtn.addEventListener('pointerdown', loadArticles, { once: true });
+    randomBtn.addEventListener('focus', loadArticles, { once: true });
+
+    randomBtn.addEventListener('click', async function () {
+      if (randomBtn.dataset.rolling === '1') return;
+      randomBtn.dataset.rolling = '1';
+      randomBtn.style.pointerEvents = 'none';
+      randomBtn.setAttribute('aria-busy', 'true');
+      await loadArticles();
+      randomBtn.removeAttribute('aria-busy');
+      if (articles.length === 0) {
+        randomBtn.dataset.rolling = '';
+        randomBtn.style.pointerEvents = '';
+        return;
+      }
+      if (currentIndex >= shuffled.length) shuffle();
+      const randomArticle = shuffled[currentIndex++];
+      const textEl = randomBtn.querySelector('.random-text');
+      const subtitleEl = randomBtn.querySelector('.random-subtitle');
+      let ticks = 0;
+      const totalTicks = 8;
+      const interval = setInterval(function () {
+        const temp = articles[Math.floor(Math.random() * articles.length)];
+        textEl.textContent = temp.title;
+        if (subtitleEl) subtitleEl.textContent = temp.category || '';
+        ticks++;
+        if (ticks >= totalTicks) {
+          clearInterval(interval);
+          textEl.textContent = randomArticle.title;
+          if (subtitleEl) subtitleEl.textContent = randomArticle.category || '';
+          setTimeout(function () {
+            window.location.href = randomArticle.url;
+          }, 600);
+        }
+      }, 100);
+    });
   });
 </script>

@@ -27,6 +27,7 @@
  */
 
 import type { Lang } from '../types';
+import { getFallbackChain } from '../i18n/utils';
 
 export type Localized = Partial<Record<Lang, string>> & { 'zh-TW': string };
 
@@ -71,8 +72,14 @@ export interface SoundCategory {
  * triggers the zh-TW fallback.
  */
 export function localize(field: Localized, lang: Lang): string {
-  const val = field[lang];
-  if (val !== undefined) return val;
+  // 2026-11-04 site-health: walk the site-wide fallback chain (vi/id/hi/ar/
+  // ru/de → en, pt → es → en) like `t()` does. It used to jump straight to
+  // zh-TW, so /ar/ /ru/ /de/ soundscape rendered Chinese under an Arabic,
+  // Russian or German <html lang>.
+  for (const code of getFallbackChain(lang)) {
+    const val = field[code];
+    if (val !== undefined && val !== '') return val;
+  }
   return field['zh-TW'];
 }
 
@@ -410,7 +417,7 @@ export const categories: SoundCategory[] = [
           en: 'Sounds recorded in 7-Eleven while buying drinks',
           ja: 'セブンイレブンで飲み物を買っているときに録音された音',
           ko: '세븐일레븐에서 음료를 살 때 녹음된 소리',
-          fr: 'Sons enregistrés dans un 7-Eleven pendant l\'achat de boissons',
+          fr: "Sons enregistrés dans un 7-Eleven pendant l'achat de boissons",
           es: 'Sonidos grabados en un 7-Eleven mientras se compran bebidas',
         },
         contributor: 'iigmir',

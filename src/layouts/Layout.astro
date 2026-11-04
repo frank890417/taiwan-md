@@ -1,4 +1,5 @@
 ---
+import { withBrand } from '../utils/pageTitle';
 import '../styles/global.css';
 import '../styles/icons.css';
 import '../styles/shot-mode.css';
@@ -229,7 +230,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         rel="stylesheet"
       />
     </noscript>
-    <title>{title} | Taiwan.md</title>
+    <title>{withBrand(title)}</title>
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -962,7 +963,29 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           }
         }
 
-        _initSearchEngine();
+        // 2026-11-04 site-health：索引改成「要用才抓」。每語一份 600 KB–1 MB
+        // （br 壓縮後；zh 795 KB），原本每一頁一載入就抓、再 JSON.parse +
+        // MiniSearch.loadJSON，Lighthouse 每頁都看到它排在傳輸量第一、吃掉主執行緒。
+        // 只有 /search 結果頁開場就需要引擎（它等 twsearch:ready）；其他頁等讀者
+        // 碰到搜尋框才抓——所有開 modal 的路徑（按鈕、快捷鍵、/explore?q=）
+        // 最後都會 input.focus()。打字時引擎還沒好，下面的 input listener 已經會
+        // 顯示「載入中」，引擎好了 _initSearchEngine 會補發一次 input 重畫。
+        var _engineStarted = false;
+        function _ensureSearchEngine() {
+          if (_engineStarted) return;
+          _engineStarted = true;
+          _initSearchEngine();
+        }
+        var _isSearchPage =
+          /^\/(?:[a-z]{2}(?:-[A-Za-z]{2,4})?\/)?search\/?$/.test(
+            location.pathname,
+          );
+        if (_isSearchPage || document.activeElement === input) {
+          _ensureSearchEngine();
+        } else {
+          input.addEventListener('focus', _ensureSearchEngine);
+          input.addEventListener('pointerdown', _ensureSearchEngine);
+        }
 
         // /explore?q=… 深連結需要的狀態（issue #1212 A1）：先宣告在這裡，
         // 下面的 input listener 才能同步寫回網址列。

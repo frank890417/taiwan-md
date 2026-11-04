@@ -662,7 +662,7 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
             type="button"
             aria-haspopup="menu"
             aria-expanded="false"
-            aria-label={t('nav.aria-language-selection')}
+            aria-label={`${currentLangOption?.short ?? '中'} ${t('nav.aria-language-selection')}`}
             data-lang-toggle
           >
             <span class="lang-globe" aria-hidden="true">🌐</span>
