@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-20T00:52:44+08:00'
+translatedAt: '2026-11-04T14:53:17.382914+00:00'
 ---
 
 > **Resumo em 30 segundos**: A pobreza energética não é simplesmente "consumir muito" ou "não saber poupar energia" — é a incapacidade das famílias de acessar serviços energéticos seguros, acessíveis e eficientes. Para famílias que moram em apartamentos antigos, em coberturas de telhados, em cômodos com ventilação precária ou que usam ar-condicionado de segunda mão com alto consumo, ligar o ar-condicionado pode gerar pressão na conta de luz, mas não ligá-lo aumenta o risco de queimaduras por calor. Atualmente, Taiwan não possui uma definição nacional unificada de pobreza energética, mas pesquisas de campo revelam que as famílias assistidas apresentam proporções significativamente elevadas de gastos energéticos em relação à renda disponível.[^1] Quando o calor extremo é tratado como um risco interministerial, a pobreza energética deixa de ser apenas uma campanha de eficiência e se torna um problema público a ser tratado conjuntamente por habitação, assistência social, saúde e adaptação ao clima.[^2]

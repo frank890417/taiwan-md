@@ -18,6 +18,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
 readingTime: 14
 rationale:
   why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
@@ -25,10 +29,10 @@ rationale:
   where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
   whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-07-28T08:53:30+08:00'
+translatedAt: '2026-11-04T14:55:47.880067+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Chou Tien-chen, nascido em 1990 em Taipé, é o "irmão mais velho" do badminton masculino de Taiwan. Em 2014, conquistou o título do French Open, tornando-se o primeiro atleta de Taiwan a vencer um torneio Super Series da BWF no individual masculino. [^2] Em agosto de 2019, atingiu o segundo lugar do ranking mundial, a melhor marca da história do individual masculino "local" de Taiwan. [^1] Ele é o primeiro atleta de Taiwan a derrotar o "rei mundial" Lin Dan em competições internacionais. [^13] Representou a equipa de Taipé Chinesa em três edições consecutivas dos Jogos Olímpicos, alcançando as quartas de final nas três. [^2] No início de 2023, uma colonoscopia de rotina detectou câncer colorretal em estágio inicial; ele operou para remoção e, dias depois, já viajava para competir, atravessando quase um ano de baixa. [^3] No ano seguinte, aos 34 anos, chegou às quartas de final nos Jogos Olímpicos de Paris. [^10] Aos 36 anos, continua a ser o presença mais velha constante entre a elite mundial. [^12]
