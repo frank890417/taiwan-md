@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '0ea5d5d42'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-07-26T12:49:19+08:00'
+translatedAt: '2026-11-04T21:05:26.068128+00:00'
 ---
 
 # تشو شو جين: لونغباي 1991، أول من حاز على ميداليتين ذهبية في الأولمبياد في فئة 53 كغ في رفع الأثقال في تايوان
