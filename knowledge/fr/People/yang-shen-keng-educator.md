@@ -2,27 +2,31 @@
 title: "Yang Shen-keng : le philosophe de l'éducation qui se rendit à la soutenance de son doctorant avec deux bouteilles d'oxygène"
 description: "Le 13 décembre 2020, Yang Shen-keng quitta l'hôpital universitaire de Taïwan (NTU Hospital) avec une autorisation temporaire, muni de deux bouteilles d'oxygène, accompagné de son épouse et de son fils, pour présider la soutenance de thèse d'un doctorant à l'Université normale de Taïwan. Huit mois plus tard, il décédait. Ce fut sa dernière soutenance. Docteur en philosophie de l'Université d'Athènes, premier professeur titulaire à vie de la Chaire nationale du ministère de l'Éducation, lauréat du prix Golden Tripod, il consacra 44 années de carrière à bâtir les fondements académiques de la philosophie de l'éducation à Taïwan."
 date: 2026-04-25
-tags:
-  - 'Éducation'
-  - "Philosophie de l'éducation"
-  - 'Éducation comparée'
-  - 'Formation des enseignants'
-  - 'Chercheur'
-  - 'Chaire nationale'
-  - 'Université nationale Chung Cheng'
-  - 'Université nationale Chi Nan'
-subcategory: '教育與社會'
 category: 'People'
+tags:
+  [
+    'Éducation',
+    "Philosophie de l'éducation",
+    'Éducation comparée',
+    'Formation des enseignants',
+    'Chercheur',
+    'Chaire nationale',
+    'Université nationale Chung Cheng',
+    'Université nationale Chi Nan',
+  ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: People/楊深坑.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/楊深坑.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
-translatedAt: 2026-05-02T01:17:16+08:00
+translatedAt: '2026-11-04T21:07:14.620964+00:00'
 ---
 
 > **En bref (30 secondes) :** Yang Shen-keng (1946-2021), bâtisseur de la philosophie de l'éducation à Taïwan. Docteur en philosophie de l'Université d'Athènes, premier professeur titulaire à vie de la Chaire nationale du ministère de l'Éducation, quatre fois lauréat du prix de recherche distinguée du Conseil national des sciences (NSC), lauréat du prix Golden Tripod. Il fonda l'Institut de recherche en éducation comparée de l'Université nationale Chi Nan, occupa les fonctions de doyen de la Faculté d'éducation et de vice-recteur à l'Université nationale Chung Cheng, et anima pendant près de quarante ans le séminaire académique dit « la Porte de Yang » (楊門) à l'Université normale de Taïwan. Il dirigea plus d'une centaine de mémoires et de thèses. Il décéda le 29 août 2021 à l'hôpital universitaire de Taïwan, à l'âge de 76 ans.

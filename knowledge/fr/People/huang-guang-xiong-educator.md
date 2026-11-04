@@ -2,27 +2,31 @@
 title: "Huang Guangxiong : l'homme qui a bâti une faculté des sciences de l'éducation au milieu des champs de Chiayi"
 description: "En 1996, Huang Guangxiong quitta l'Université normale de Taïwan pour Chiayi, où il fonda l'Institut de recherche en sciences de l'éducation à l'Université Chung-Cheng, avant de le développer en une faculté à part entière. Pendant un demi-siècle, il a introduit la théorie occidentale des curricula à Taïwan, traduit des manuels de référence sur la recherche qualitative, piloté la planification de recherche des programmes scolaires du cursus unifié de neuf ans, et conduit une équipe de chercheurs pendant trois ans pour concevoir un programme d'enseignement moral axé sur le « respect et la sollicitude ». Il est décédé en 2021 à l'âge de 84 ans."
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
-  - 'éducation'
-  - 'théorie des curricula'
-  - "sciences de l'éducation"
-  - 'universitaire'
-  - 'Université Chung-Cheng'
-  - 'Université normale'
-  - 'recherche qualitative'
-  - 'éducation morale'
-readingTime: 7
+  [
+    'éducation',
+    'théorie des curricula',
+    "sciences de l'éducation",
+    'universitaire',
+    'Université Chung-Cheng',
+    'Université normale',
+    'recherche qualitative',
+    'éducation morale',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
-translatedAt: '2026-05-01T22:19:06+08:00'
+translatedAt: '2026-11-04T21:19:45.145004+00:00'
 ---
 
 > **En 30 secondes :** Huang Guangxiong (1937-2021), fondateur de la science des curricula à Taïwan. Docteur en sciences de l'éducation de l'Université normale de Taïwan, chercheur à l'Institute of Education de l'Université de Londres (aujourd'hui UCL IOE). Il a été doyen de la faculté des sciences de l'éducation de l'Université normale, directeur de l'École normale provinciale de Hsinchu, puis directeur fondateur de l'Institut de recherche en sciences de l'éducation et doyen fondateur de la faculté des sciences de l'éducation à l'Université Chung-Cheng. Il a introduit de manière systématique la théorie occidentale des curricula à Taïwan, dirigé des manuels de formation des enseignants tels que _Introduction aux sciences de l'éducation_ et _Principes pédagogiques_, supervisé la traduction de _La recherche qualitative en sciences de l'éducation_, et participé directement à la planification de recherche des programmes scolaires du cursus unifié de neuf ans du ministère de l'Éducation. Il est décédé le 4 février 2021 à l'âge de 84 ans.

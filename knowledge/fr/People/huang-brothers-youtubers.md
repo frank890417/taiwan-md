@@ -2,9 +2,7 @@
 title: 'Les frères Huang : derrière l’étiquette de fraîcheur, cette vérité et cette douceur exposées de force'
 description: 'Depuis une vidéo de canular publiée en 2017, les frères Huang se sont imposés dans l’univers YouTube par une image « fraîche et positive ». Mais en 2020, un article relevant de l’outing forcé a contraint les deux frères, alors au sommet avec plus d’un million d’abonnés, à disséquer leur intimité devant la caméra ; il a aussi, de façon inattendue, esquissé l’une des réponses collectives les plus bienveillantes de la société taïwanaise en faveur de l’égalité de genre.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTubeur',
@@ -14,15 +12,19 @@ tags:
     'égalité de genre',
     'culture taïwanaise',
   ]
-readingTime: 12
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-04T21:04:53.341162+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
@@ -82,28 +84,28 @@ Dans une société taïwanaise saturée d’étiquettes, les frères Huang ont p
 
 ## Références
 
-[^1]: [Entretien avec les YouTubeurs Huang Brothers : un parcours créatif qui grandit avec le public](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦（voir les compléments dans l’article original）
+[^1]: [Interview des YouTubers Huang Brothers : un parcours de création grandissant avec le public](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (voir les informations complémentaires dans le lien original)
 
-[^2]: [Aucun congé en 20 mois ! Les frères Huang reviennent sur les difficultés de leur parcours créatif](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [Pas de vacances pendant 20 mois ! Les Huang Brothers se remémorent les difficultés de la création](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [【Les frères font de l公益】Réserver une école primaire rurale pendant une journée entière](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — chaîne YouTube des frères Huang
+[^3]: [【Les frères font du bien】 Privatisation d'une école primaire en zone rurale pour une journée entière](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Chaîne YouTube des Huang Brothers
 
-[^4]: [Si l’on fait quelque chose, il faut le faire au mieux ! Les YouTubeurs Huang Brothers multiplient les essais et recherchent la perfection](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Si on le fait, il faut le faire au mieux ! Le YouTuber Huang Brothers multiplie les essais et recherche la perfection](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Comment devient-on YouTubeur millionnaire ? Entretien avec les frères Huang](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Comment devenir un YouTuber populaire avec des millions d'abonnés ? Interview des Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Apprendre l’exécution auprès des frères Huang｜Derrière l’imagination débordante, un positionnement personnel précis](https://premium.parenting.com.tw/article/5087793) — 親子天下（voir les compléments dans l’article original）
+[^6]: [Apprendre l'exécution auprès des Huang Brothers | Derrière l'imagination débordante se cache un positionnement personnel précis](https://premium.parenting.com.tw/article/5087793) — 親子天下 (voir les informations complémentaires dans le lien original)
 
-[^7]: [Weiwei forcé de faire son coming out, il s’indigne : « C’est tout simplement une divulgation forcée de type violente »](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo 新聞
+[^7]: [Wei-Wei forcé de faire son coming out, il s'emporte : c'est une divulgation forcée](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [À propos de l’article, je voudrais parler à ma famille【frères Huang】](https://www.youtube.com/watch?v=jo7ggR1f54s) — vidéo YouTube des frères Huang
+[^8]: [Concernant les reportages, je veux dire à ma famille 【Huang Brothers】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Vidéo YouTube des Huang Brothers
 
-[^9]: [Weiwei des frères Huang « outé » : tu n’as pas à t’excuser](https://newslab.pts.org.tw/news/216) — 公視圖發新聞
+[^9]: [Wei-Wei des Huang Brothers « fait son coming out » : vous n'avez pas besoin de vous excuser](https://newslab.pts.org.tw/news/216) — Reportage de PTS (Public Television Service)
 
-[^10]: [Weiwei Huang Tingwei, YouTubeur aux 2 millions d’abonnés, devient « auteur-compositeur-interprète » avec un premier EP solo](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [Le YouTuber aux 2 millions d'abonnés Wei-Wei sort son premier EP en tant qu'« interprète »](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Les frères Huang appellent le public à encourager les élèves défavorisés et deviennent ambassadeurs caritatifs de la Red Heart Association](https://money.udn.com/money/story/5723/8957929) — 經濟日報（報導 de l’Economic Daily News）
+[^11]: [Les Huang Brothers appellent le public à soutenir les enfants défavorisés en devenant ambassadeurs de la Hongxin Charity Association](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (rapport d'Economic Daily News)
 
-[^12]: [【KOL au travail】Les frères Huang révèlent qu’un canular avait déjà franchi une limite](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo 新聞
+[^12]: [【KOL en activité】 Les Huang Brothers avouent avoir franchi la limite lors de blagues](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Pas seulement des vidéos humoristiques : les YouTubeurs mobilisent leur influence pour assumer leur responsabilité sociale](https://csr.cw.com.tw/article/41369) — 天下 CSR
+[^13]: [Au-delà des vidéos humoristiques, les YouTubers exercent leur influence pour assumer leur responsabilité sociale](https://csr.cw.com.tw/article/41369) — 天下 CSR

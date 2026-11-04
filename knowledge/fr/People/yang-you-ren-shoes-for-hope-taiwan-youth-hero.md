@@ -2,9 +2,7 @@
 title: 'Yang You-ren'
 description: "Fondateur de l'association internationale chrétienne Step30 « Sauver des vies par les chaussures », lauréat du prix des Dix Jeunes d'exception en 2017, il a collecté cent mille paires de chaussures usagées grâce à une simple affiche pour venir en aide aux enfants d'Afrique de l'Est"
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '社會與公益'
 tags:
   [
     'entreprise sociale taïwanaise',
@@ -14,14 +12,18 @@ tags:
     "aide à l'Afrique",
     'mission chrétienne',
   ]
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e2ade2405e5fac3e'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-04T21:13:03.623427+00:00'
 ---
 
 # Yang You-ren : du décrochage scolaire à la mission humanitaire en Afrique
@@ -58,19 +60,19 @@ Yang You-ren est l'auteur de _Cinquante mille paires de bénédictions : comment
 
 ## Références
 
-[^1]: [Yang You-ren — Wikipédia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Principales données biographiques, incluant la naissance à Taoyuan, les études en Australie et le tournant spirituel.
+[^1]: [Yang You-jen — Wikipédia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) — Principales données biographiques, incluant sa naissance à Taoyuan, ses études en Australie et son changement de foi.
 
-[^2]: [Step30 — Site officiel](https://www.step30.org/) — Présentation de l'organisation, programmes missionnaires et rapports annuels d'activité.
+[^2]: [Step30 Old Shoes Save Lives — Site officiel](https://www.step30.org/) — Présentation de l'organisation, projets de ministère et rapports de service annuels.
 
-[^3]: [Association internationale chrétienne « Sauver des vies par les chaussures » — Wikipédia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Chronologie de l'événement de l'affiche de 2014, compte rendu de la distribution par conteneurs.
+[^3]: [International Christian Concern Association Old Shoes Save Lives — Wikipédia](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) — Détails de l'incident des affiches de 2014 et registres de distribution par conteneurs.
 
-[^4]: [Entrevue 104 Bravo — Du petit délinquant de rue au Jeune d'exception](https://blog.104.com.tw/104bravo-step30-org-founder/) — Récit du tournant de vie de Yang You-ren, origine du nom Step30 et explication du principe « ne pas créer de dépendance ».
+[^4]: [Interview 104 Applause — De voyou de rue à l'un des dix jeunes les plus éminents](https://blog.104.com.tw/104bravo-step30-org-founder/) — Histoire du tournant de la vie de Yang You-jen, origine du nom Step30 et explication de la philosophie « ne pas créer de dépendance ».
 
-[^5]: [Site officiel de Step30 — Présentation des programmes](https://www.step30.org/) — Description des quatre programmes : éducatif, eau vive, Love Girls et autonomie agricole.
+[^5]: [Site officiel de Step30 — Présentation des projets](https://www.step30.org/) — Explication des quatre projets : Éducation, Eau Vive, Amour pour les Filles et Autonomie Agricole.
 
-[^6]: [Association des Dix Jeunes d'exception](https://www.youth.org.tw/) — Confirmation de la distinction de Yang You-ren comme Jeune d'exception en 2017.
+[^6]: [Ten Outstanding Young Persons Fellowship](https://www.youth.org.tw/) — Confirmation de l'élection de Yang You-jen en tant que l'un des dix jeunes les plus éminents en 2017.
 
-[^7]: [_Cinquante mille paires de bénédictions_ — Books.com.tw](https://www.books.com.tw/products/0010806227) — Ouvrage de Yang You-ren (校園書房, 2018), retraçant la fondation de Step30 et le parcours intérieur de son engagement humanitaire en Afrique.
+[^7]: [« Te donner 50 000 paires de bénédictions » — Books.com.tw](https://www.books.com.tw/products/0010806227) — Ouvrage de Yang You-jen (Campus Bookroom, 2018), relatant le processus de création d'Old Shoes Save Lives et son parcours de ministère en Afrique.
 
 ## Pour aller plus loin
 
