@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:20a6968836a636ac'
 sourceBodyHash: 'sha256:b413f755105bbf3c'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T18:04:07.591304+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Từ thập niên 1950, "Mao Zhaobiao" (尪仔標) của Đài Loan là trò chơi trong tay trẻ em và cũng là thước đo địa vị bạn bè—càng sưu tầm nhiều càng có uy tín hơn sau giờ học. Những tấm thẻ này, bắt nguồn từ nghệ thuật múa giấy Trung Quốc và được truyền cảm hứng từ đồ chơi trẻ em Nhật Bản, đã thay đổi chất liệu từ kim loại sang nhựa, hình ảnh từ rối giấy đến truyện tranh, với lối chơi đa dạng, mang trong mình ký ức tập thể của nhiều thế hệ người Đài Loan. Đặc biệt hơn, ở Đài Loan, ngay cả tờ rơi bầu cử cũng có thể bị trẻ em cải biến thành "Mao Zhaobiao", trở thành vũ khí thay thế trên chiến trường tuổi thơ.

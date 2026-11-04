@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-09-09T11:45:55+08:00'
+translatedAt: '2026-11-04T17:33:47.325462+00:00'
 ---
 
 > Ngày 14 tháng 6 năm 2024, tựa game RPG hành động mang tên "Hoạt Hiếp Truyền" được ra mắt trên Steam. Nhóm phát triển "Nhà phát triển gốc" chỉ có hai người — chim chịu trách nhiệm phần mềm và vận hành; gấu chịu trách nhiệm kịch bản và nghệ thuật. Cả hai đều không có nền tảng trong ngành game, đây là tựa game đầu tiên của họ. Trong tuần đầu, chỉ số tích cực trên Steam giảm xuống dưới 30%. Sau 12 ngày, hồi phục lên 70%. Một tháng sau, đạt 94%. Sau 6 tháng, doanh số vượt 700.000 bản, đánh giá cuối cùng trên Steam là 9/10. Người hâm mộ Hàn Quốc tự nguyện hoàn thành bản dịch cộng đồng tiếng Hàn, sau đó người chơi Hàn Quốc và Đài Loan tự tổ chức dịch phiên bản tiếng Nhật. Nhân vật chính trong câu chuyện được thiết lập là "học trò ngoại cảnh không ánh sáng anh hùng", và những người tạo ra tựa game này cũng vậy.

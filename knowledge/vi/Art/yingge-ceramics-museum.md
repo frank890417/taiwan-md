@@ -18,11 +18,13 @@ featured: false
 readingTime: 12
 lastVerified: 2026-05-07
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/鶯歌陶瓷博物館.md'
-sourceCommitSha: '9b94676e6'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9a60e6a6f1ead864'
 sourceBodyHash: 'sha256:913432e882e783cc'
-translatedAt: '2026-07-25T00:11:55+08:00'
+translatedAt: '2026-11-04T17:35:43.858079+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Vào ngày 26 tháng 11 năm 2000, Bảo tàng gốm sứ Thanh Khẩu của Thành New Taipei đã khánh thành, là bảo tàng chuyên ngành gốm sứ đầu tiên của Đài Loan. Kiến trúc được thiết kế bởi Giản Học Nghĩa, với tinh thần dựa trên bốn nguyên tố 'đất, nước, lửa, gió', kiến trúc sạch nước và lớn thành phần kính xuyên thấu hòa nhập với phong cảnh thiên nhiên của Thanh Khẩu. Bảo tàng đã định vị lại Thanh Khẩu từ một thị trấn thương mại nhỏ nổi tiếng với gốm sứ 'Đài Loan' thành một điểm văn hóa dành cho nghệ thuật gốm sứ với trụ cột là kiểu tra, giáo dục và giao lưu quốc tế. Từ năm 2004, 'Triển lãm nghệ thuật gốm sứ quốc tế của Đài Loan' đã kết nối tay nghề địa phương với xu hướng nghệ thuật hiện đại toàn cầu.
