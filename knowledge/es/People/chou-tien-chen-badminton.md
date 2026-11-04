@@ -2,9 +2,7 @@
 title: 'Chou Tien-chen: el primer jugador de bádminton de Taiwán, elevando el nivel mundial al segundo puesto'
 description: 'El primer hombre en alcanzar el segundo puesto mundial en el bádminton masculino de Taiwán y el primero en derrotar al rey del bádminton, Lin Dan. Desde la racha de diez derrotas consecutivas al unirse al equipo nacional, el bautismo cristiano tras la perforación de una apendicitis, hasta el diagnóstico de cáncer colorrectal en etapa inicial a los 34 años en 2023; tras la cirugía, viajó al extranjero para competir pocos días después, resistió una baja de casi un año y alcanzó los cuartos de final en los Juegos Olímpicos de París al año siguiente. Chou Tien-chen no depende de un talento aplastante, sino de un estilo de juego de desgaste y remates llamado «moler», elevando progresivamente la respuesta a qué tan alto puede llegar el bádminton de Taiwán.'
 date: 2026-06-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Personaje',
@@ -15,15 +13,26 @@ tags:
     'Deportista',
     'Taiwán',
   ]
-readingTime: 14
+subcategory: '體育'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
-featured: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
+readingTime: 14
+rationale:
+  why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
+  whats_excluded: '不寫未經證實的私人生活細節（婚姻、收入數字）；BWF 每週浮動積分只取名次不寫精確分數，避免過時；對林丹/李宗偉/諶龍的精確勝負場次來自球迷論壇難以查證，只保留有可靠報導的「打敗林丹第一人」與有比分來源的單場結果。'
+  where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
+  whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-07-07T02:28:53+08:00'
+translatedAt: '2026-11-04T14:57:33.611869+00:00'
 ---
 
 > **30 segundos de resumen:** Chou Tien-chen, nacido en Taipéi en 1990, es el principal jugador de bádminton masculino de Taiwán. En 2014, se coronó campeón en el Abierto de Francia, convirtiéndose en el primer taiwanés en ganar un título de individuales masculinos en un torneo de la Serie Mundial de la BWF. [^2] En agosto de 2019, su clasificación mundial ascendió al segundo puesto, estableciendo el mejor registro histórico para un jugador de individuales masculino de Taiwán. [^1] Es el primer taiwanés en derrotar al «rey del bádminton», Lin Dan, en un escenario internacional. [^13] Ha representado al equipo de Taipéi Chino en tres Juegos Olímpicos consecutivos, alcanzando los cuartos de final en cada una de ellas. [^2] A principios de 2023, una colonoscopia de rutina reveló un cáncer colorrectal en etapa inicial; tras la cirugía de extirpación, viajó al extranjero para competir pocos días después y resistió una racha de bajo rendimiento de casi un año, [^3] para luego alcanzar los cuartos de final en los Juegos Olímpicos de París a los 34 años. [^10] A sus 36 años, sigue siendo uno de los jugadores más veteranos del top mundial. [^12]

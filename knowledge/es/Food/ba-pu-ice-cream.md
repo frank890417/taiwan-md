@@ -17,13 +17,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13
 lastHumanReview: false
+image: '/article-images/food/babu-ice-cart-vendor-1987.webp'
+imageCredit: 'Allenwang6212a'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Memorybank2019-%E5%8F%AD%E5%99%97%E5%86%B0%E8%BB%8A%E5%B0%8F%E8%B2%A9.jpg'
 curation: 'incubating'
 readingTime: 13
 translatedFrom: 'Food/叭噗冰.md'
-sourceCommitSha: '077700e9b'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f85e683b942ab42b'
 sourceBodyHash: 'sha256:d870fca28f0e56bd'
-translatedAt: '2026-09-11T17:26:58+08:00'
+translatedAt: '2026-11-04T15:34:54.794804+00:00'
 ---
 
 # Bopù (helado de calle): El altavoz llega primero a la esquina, el cubo de hielo lo sigue
