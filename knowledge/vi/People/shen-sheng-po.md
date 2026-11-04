@@ -3,7 +3,6 @@ title: 'Thạch Thánh Bác'
 description: 'Chuyên ngành khoa học máy tính, nhưng đã mang lại ngôn ngữ lập trình vào không gian nghệ thuật hiện đại của Đài Loan. Tính đến năm 2014, đời sống ngắn ngủi của Thạch Thánh Bác chỉ là 34 năm, để lại không chỉ các tác phẩm nghệ thuật kỹ thuật số mà còn là tinh thần thí nghiệm đặt lập trình vào cuộc sống, xem phần mềm tự do như một đạo đức sáng tạo.'
 date: 2026-03-23
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'nhân vật',
@@ -13,16 +12,19 @@ tags:
     'OpenLab.Taipei',
     'Đài Loan',
   ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-24T20:15:14+08:00'
+translatedAt: '2026-11-04T21:34:53.734554+00:00'
 ---
 
 # Thạch Thánh Bác

@@ -1,5 +1,6 @@
 ---
 title: 'Trần Tuấn Lương: Người chuyển dịch hiện đại của thơ thiết kế và mỹ học phương Đông'
+description: 'Trần Tuấn Lương, sinh năm 1958 tại Đài Nam, người được giới công nhận là "thi sĩ thiết kế", đã thành lập "Thiết kế Tự do Rơi" (Freeimage Design) ở tuổi 29. Ông tái diễn giải ngôn ngữ thiết kế hiện đại thông qua thư pháp, khoảng trắng và các hình tượng phương Đông, với tác phẩm trải rộng từ bao bì xuất bản, nhận diện doanh nghiệp đến lễ hội quốc gia. Năm 2005, bộ đồ ăn tiệc nhà nước "Thiên Viên Địa Phương" đã đoạt giải thưởng tại Triển lãm Thiết kế Macau lần thứ sáu. Ông là một trong những nhà thiết kế đồ họa có ảnh hưởng nhất Đài Loan sau thập niên 1980.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -12,15 +13,16 @@ tags:
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
-description: 'Trần Tuấn Lương, sinh năm 1958 tại Đài Nam, người được giới công nhận là "thi sĩ thiết kế", đã thành lập "Thiết kế Tự do Rơi" (Freeimage Design) ở tuổi 29. Ông tái diễn giải ngôn ngữ thiết kế hiện đại thông qua thư pháp, khoảng trắng và các hình tượng phương Đông, với tác phẩm trải rộng từ bao bì xuất bản, nhận diện doanh nghiệp đến lễ hội quốc gia. Năm 2005, bộ đồ ăn tiệc nhà nước "Thiên Viên Địa Phương" đã đoạt giải thưởng tại Triển lãm Thiết kế Macau lần thứ sáu. Ông là một trong những nhà thiết kế đồ họa có ảnh hưởng nhất Đài Loan sau thập niên 1980.'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陳俊良.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:e8fd773cb48092fd'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:5b92c4093f7fa736'
 sourceBodyHash: 'sha256:7b3ecc631545bac9'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T21:29:53.746162+00:00'
 ---
 
 # Trần Tuấn Lương: Định nghĩa lại thiết kế Đài Loan bằng chất thơ
@@ -57,19 +59,19 @@ Từ thập niên 2010 trở đi, Trần Tuấn Lương xuất hiện thường 
 
 ## Tài liệu tham khảo
 
-[^1]: [Trần Tuấn Lương — Phi Trì Trung Nghệ Võng](https://artemperor.tw/knowledge/1191) — Tổng quan sự nghiệp thiết kế Trần Tuấn Lương, nguồn gốc danh xưng "thi sĩ thiết kế", các tác phẩm tiêu biểu.
+[^1]: [Trần Tuấn Lương — Phi Trí Trung Nghệ Thuật Mạng](https://artemperor.tw/knowledge/1191) — Tóm tắt sự nghiệp thiết kế của Trần Tuấn Lương, nguồn gốc danh xưng 'nhà thơ thiết kế', các tác phẩm tiêu biểu.
 
-[^2]: [Thiết kế Tự do Rơi Freeimage Design — Trang chính thức Facebook](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Thông tin và bộ sưu tập tác phẩm của studio Thiết kế Tự do Rơi.
+[^2]: [Thiết kế Tự Do Rơi Freeimage Design — Trang chính thức Facebook](https://www.facebook.com/p/%E8%87%AA%E7%94%B1%E8%90%BD%E9%AB%94%E8%A8%AD%E8%A8%88-Freeimage-Design-100039631345727/) — Thông tin chính thức và bộ sưu tập tác phẩm của studio Thiết kế Tự Do Rơi.
 
-[^3]: [Thiết kế Tự do Rơi/Trần Tuấn Lương: Điều quan trọng nhất trong thiết kế thị giác là "không có gì không thể làm, chỉ có điều chưa nghĩ ra" — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Phỏng vấn chuyên sâu về triết lý và phương pháp làm việc của Trần Tuấn Lương.
+[^3]: [Thiết kế Tự Do Rơi/Trần Tuấn Lương: Điều quan trọng nhất trong thiết kế hình ảnh là 'không có việc gì làm không được, chỉ có việc gì nghĩ không ra' — ShoppingDesign](https://www.shoppingdesign.com.tw/post/view/167) — Cuộc phỏng vấn sâu về triết lý thiết kế và phương pháp làm việc của Trần Tuấn Lương.
 
-[^4]: [Là tốt bụng, dẫn tôi đến nơi tôi muốn đi — Phỏng vấn giáo phụ thiết kế Trần Tuấn Lương — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Hành trình sự nghiệp, câu chuyện khởi nghiệp ở tuổi 29 và quan điểm thiết kế mỹ học phương Đông của Trần Tuấn Lương.
+[^4]: [Là sự tử tế, đưa tôi đến nơi tôi muốn đi — Phỏng vấn chuyên sâu với 'cha đẻ thiết kế' Trần Tuấn Lương — FLiPER](https://flipermag.com/2021/03/29/freeimage-design/) — Quá trình sự nghiệp, câu chuyện khởi nghiệp ở tuổi 29 và quan điểm thiết kế thẩm mỹ phương Đông của Trần Tuấn Lương.
 
-[^5]: [Trần Tuấn Lương: Tiếp thị tốt nhất là chính tác phẩm — La Vie](https://www.wowlavie.com/article/ae1400597) — Ghi nhận về giải thưởng Ban giám khảo Triển lãm Thiết kế Macau đối với bộ đồ ăn tiệc nhà nước "Thiên Viên Địa Phương" của Trần Tuấn Lương.
+[^5]: [Trần Tuấn Lương: Chiến lược marketing tốt nhất chính là tác phẩm bản thân — La Vie](https://www.wowlavie.com/article/ae1400597) — Bản ghi nhận bộ đồ ăn uống tiệc quốc gia 'Thiên Viên Địa Phương' của Trần Tuấn Lương giành Giải thưởng Ban giám khảo tại Lưỡng niên thiết kế Macau.
 
-[^6]: [Trần Tuấn Lương: 38 năm thiết kế dám làm những điều người khác không dám — Thời báo Trung Quốc](https://www.chinatimes.com/newspapers/20180701000609-260102) — Tổng quan sự nghiệp và sự cống hiến cho giáo dục thiết kế của Trần Tuấn Lương.
+[^6]: [Trần Tuấn Lương: 38 năm con đường thiết kế, dám làm những việc người khác không dám — Trung Quốc Thời Báo](https://www.chinatimes.com/newspapers/20180701000609-260102) — Tổng quan sự nghiệp và sự cống hiến cho giáo dục thiết kế của Trần Tuấn Lương.
 
-[^7]: [Triết lý thiết kế của Trần Tuấn Lương tại Thiết kế Tự do Rơi: "Khoảng cách giữa i và F" — DesignWant](https://www.designwant.com/article/7826) — Luận thuyết về mỹ học phương Đông và ngôn ngữ thị giác thư pháp của Trần Tuấn Lương.
+[^7]: [Triết lý thiết kế của Trần Tuấn Lương tại Thiết kế Tự Do Rơi: 'Khoảng cách từ i đến F' — Thiết Kế Vương DesignWant](https://www.designwant.com/article/7826) — Luận述 về thiết kế thẩm mỹ phương Đông và ngôn ngữ hình ảnh thư pháp của Trần Tuấn Lương.
 
 ## Đọc thêm
 

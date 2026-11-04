@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-04T21:24:32.726193+00:00'
 ---
 
 # Chu Thiên Văn: 1956 Đài Bắc, từ 《Tam Tam Tập Khán》 đến 《Bi Tình Thành Phố》 Giải Vàng Venice

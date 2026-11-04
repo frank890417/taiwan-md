@@ -20,11 +20,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-04T21:39:22.970791+00:00'
 ---
 
 > **Cái nhìn 30 giây:** Năm 1891, tuần phủ Đài Loan đầu tiên Lưu Minh Truyền vì bệnh từ chức, để lại một Đài Loan tràn đầy giấc mơ hiện đại nhưng chịu thâm hụt tài chính. Người kế nhiệm Thiệu Hữu Minh thường được mô tả là một cơn gió bảo thủ của "bãi bỏ chính sách mới", nhưng thực tế ông hoàn thành dự án đường sắt từ Đài Bắc đến Tân Trúc dưới tình huống cực kỳ hạn chế khi Phúc Kiến cắt đứt hỗ trợ, và vào năm 1894 chính thức chuyển thủ đô tới Đài Bắc. Vị ngoại giao này từng tham gia đàm phán Hiệp ước Ili, có background là bạn thân của Lý Hồng Chương, bằng tay nghề quan liêu thực tế của mình đã định vị nền tảng kinh tế-chính trị cho Đài Loan trong hơn một thế kỷ tới.

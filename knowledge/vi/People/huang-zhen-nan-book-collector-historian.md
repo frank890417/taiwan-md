@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '18157ab5'
-sourceContentHash: 'sha256:6acc89cdc8a597ed95077e48ce7938f1e5fbd93e8a781c8861f6dfc5e4980a18'
-sourceBodyHash: 'sha256:14a58871f00c9af0811bfc9792a292bbc9b08cf99ad766e6a98332552a9dc350'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:97d6b82d28404593'
+sourceBodyHash: 'sha256:0c3024d2af149e55'
+translatedAt: '2026-11-04T21:33:39.780101+00:00'
 ---
 
 # Hoàng Chấn Nam: Gia tộc sách vở và nguồn nước sống của lịch sử Đài Loan
@@ -61,15 +63,15 @@ Mô hình sưu tập gia tộc của ông cũng phản ánh sức mạnh cơ s�
 
 ## Tài liệu tham khảo
 
-[^1]: [Hoàng Chấn Nam — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Thông tin tiểu sử chính, nền tảng giáo dục và chi tiết sưu tập.
+[^1]: [Hoàng Chấn Nam — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E9%9C%87%E5%8D%97) — Tiểu sử chính, nền tảng giáo dục và chi tiết về bộ sưu tập sách.
 
-[^2]: [Trang Facebook Hoạt Thủy Lai Sách Phòng](https://www.facebook.com/ngtsinlam) — Ghi chép chia sẻ từ năm 2009 đến nay và hoạt động sưu tập sách.
+[^2]: [Trang Facebook Hoạt Thủy Lai Sách Phòng](https://www.facebook.com/ngtsinlam) — Các ghi chép chia sẻ và cập nhật về tình hình sưu tầm sách từ khi thành lập năm 2009 đến nay.
 
-[^3]: [Trang sách "Lịch sử Đài Loan ngộ nghĩnh nhất"](https://www.books.com.tw/products/0010722013) — Trang mục lục trên Books.com.tw, có thông tin xuất bản và bình luận độc giả.
+[^3]: [Trang sách 《Lịch sử Đài Loan thú vị nhất trong lịch sử Đài Loan》](https://www.books.com.tw/products/0010722013) — Trang mục lục trên Books.com.tw, bao gồm thông tin xuất bản và đánh giá của độc giả.
 
-[^4]: [Phỏng vấn nhà sưu tập sách Hoàng Chấn Nam — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Câu chuyện sưu tập gia tộc và giải thích các sưu tập liên quan đến Tây Xuyên Mãn và Thái Bồi Hoả.
+[^4]: [Phỏng vấn nhà sưu tầm sách Hoàng Chấn Nam — Creative Comic](https://www.creative-comic.tw/special_topics/2) — Câu chuyện về bộ sưu tập sách của gia tộc cùng phần giải thích về các hiện vật liên quan đến Tây Xuyên Mãn và Thái Bồi Hỏa.
 
-[^5]: [Báo cáo gợi ý danh sách sách Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Quan điểm của Hoàng Chấn Nam về phổ biến đọc sách lịch sử Đài Loan và gợi ý danh sách sách.
+[^5]: [Báo cáo đề xuất danh mục sách từ Newtalk](https://newtalk.tw/news/view/2026-02-18/1020552) — Quan điểm của Hoàng Chấn Nam về việc thúc đẩy đọc hiểu lịch sử Đài Loan và các gợi ý về danh mục sách.
 
 ## Đọc thêm
 
