@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:762c2cb912d919af'
-sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-09-19T22:54:46.226590+00:00'
+sourceCommitSha: '50face4e0'
+sourceContentHash: 'sha256:cbbf72d4561854f5'
+sourceBodyHash: 'sha256:3fd7536d13ffa312'
+translatedAt: '2026-11-04T14:27:38.872425+00:00'
 ---
 
 # Lịch sử phong trào môi trường Đài Loan
@@ -90,24 +90,25 @@ Sau khi bước vào thế kỷ 21, phong trào môi trường Đài Loan thể 
 
 **Liên kết quốc tế**: Các tổ chức bảo vệ môi trường Đài Loan bắt đầu tham gia mạng lưới môi trường quốc tế, trao đổi hợp tác với các tổ chức bảo vệ môi trường khu vực Á - Thái Bình Dương. Các vấn đề toàn cầu như biến đổi khí hậu, bảo vệ biển, thúc đẩy phong trào tại chỗ hòa nhập với quốc tế.
 
-## Thách thức và triển vọng
+## Thách thức và Triển vọng
 
-Phong trào môi trường Đài Loan đối mặt với một số thách thức bền bỉ:
+Phong trào môi trường tại Đài Loan đang đối mặt với một số thách thức dai dẳng:
 
-**Áp lực phát triển kinh tế**: Trong cạnh tranh toàn cầu, việc cân bằng giữa bảo vệ môi trường và tăng trưởng kinh tế vẫn còn khó khăn. Chuyển đổi năng lượng, chuyển đổi ngành công nghiệp đều cần quy hoạch dài hạn và đồng thuận xã hội.
+**Áp lực phát triển kinh tế**: Trong bối cảnh cạnh tranh toàn cầu, việc cân bằng giữa bảo vệ môi trường và tăng trưởng kinh tế vẫn còn nhiều khó khăn. Quá trình chuyển đổi năng lượng và chuyển đổi cơ cấu công nghiệp đều đòi hỏi những kế hoạch dài hạn cùng sự đồng thuận của xã hội.
 
-**Rủi ro chính trị hóa**: Các vấn đề môi trường dễ bị chính trị hóa, ảnh hưởng đến tính liên tục của chính sách. Chính sách năng lượng hạt nhân là ví dụ điển hình, các đảng phái khác nhau khi nắm quyền có lập trường khác nhau.
+**Rủi ro chính trị hóa**: Các vấn đề môi trường dễ bị chính trị hóa, gây ảnh hưởng đến tính liên tục của các chính sách. Chính sách hạt nhân là một ví dụ điển hình, khi các đảng phái khác nhau cầm quyền sẽ có những lập trường khác biệt.
 
-**Sự khác biệt quan niệm giữa các thế hệ**: Các thế hệ khác nhau có nhận thức khác nhau về giá trị môi trường, ảnh hưởng đến cơ sở xã hội cho việc thúc đẩy chính sách.
+**Sự khác biệt về quan niệm giữa các thế hệ**: Nhận thức về giá trị môi trường có sự khác biệt giữa các thế hệ, điều này ảnh hưởng đến nền tảng xã hội trong việc thúc đẩy chính sách.
 
-**Hạn chế nguồn lực**: So với doanh nghiệp và chính phủ, các tổ chức môi trường có nguồn lực hạn chế, ảnh hưởng đến quy mô và tính bền bỉ của hành động.
+**Hạn chế về nguồn lực**: So với các doanh nghiệp và chính phủ, các tổ chức bảo vệ môi trường có nguồn lực hạn chế, gây ảnh hưởng đến quy mô và tính bền vững của các hoạt động.
 
-Phong trào môi trường Đài Loan trải qua bốn mươi năm phát triển, từ đấu tranh chống ô nhiễm tiến hóa thành hành động đa dạng theo đuổi phát triển bền vững. Quá trình này phản ánh sự chuyển biến của quan điểm giá trị xã hội Đài Loan: từ theo đuổi tăng trưởng nhanh chóng, đến coi trọng chất lượng cuộc sống; từ lợi ích cá nhân, đến trách nhiệm thế hệ. Bước tiếp theo của phong trào môi trường sẽ là làm thế nào trong thể chế dân chủ, thiết lập cơ chế quản trị môi trường hiệu quả hơn.
+Trải qua bốn mươi năm phát triển, phong trào môi trường Đài Loan đã tiến hóa từ những cuộc đấu tranh chống ô nhiễm thành các hành động đa dạng nhằm theo đuổi sự phát triển bền vững. Quá trình này phản ánh sự chuyển biến trong các giá trị xã hội của Đài Loan: từ việc theo đuổi tăng trưởng nhanh chóng sang coi trọng chất lượng cuộc sống; từ lợi ích cá nhân sang trách nhiệm với thế hệ tương lai. Bước tiếp theo của phong trào môi trường sẽ là làm thế nào để thiết lập được cơ chế quản trị môi trường hiệu quả hơn trong khuôn khổ thể chế dân chủ.
 
 **Đọc thêm**:
 
-- [Thảo luận về Đài Loan và năng lượng hạt nhân](/vi/society/taiwan-nuclear-debate) — Phong trào phản hạt nhân như thế nào nảy mọc từ phong trào môi trường, lại bị xáo trộn lại ở thế hệ khí hậu: sử liệu tranh luận hoàn chỉnh của ba lần trưng cầu dân ý trong bốn mươi năm
-- [Đài Loan đối mặt khủng hoảng khí hậu và chuyển đổi tới tổng phát thải bằng không](/vi/nature/taiwan-climate-change-net-zero-transition) — Nhận thức môi trường như thế nào chuyển hóa thành chính sách tổng phát thải bằng không cấp quốc gia và tái cấu trúc cấu trúc năng lượng
+- [Các cuộc thảo luận về Đài Loan và năng lượng hạt nhân](/vi/society/taiwan-nuclear-debate) — Cách phong trào phản đối hạt nhân nảy sinh từ phong trào môi trường, và cách nó được tái định hình trong thế hệ khí hậu: Lịch sử tranh luận đầy đủ qua ba cuộc trưng cầu dân ý trong bốn mươi năm.
+- [Khủng hoảng khí hậu và chuyển đổi phát thải ròng bằng không tại Đài Loan](/vi/nature/taiwan-climate-change-net-zero-transition) — Cách nhận thức về môi trường chuyển hóa thành chính sách chuyển đổi phát thải ròng bằng không (net-zero) cấp quốc gia và tái cơ cấu cấu trúc năng lượng.
+- [Qi Bo Lin (齊柏林)](/vi/people/chi-po-lin) — Bộ phim 《Nhìn thấy Đài Loan》 năm 2013 đã khiến cả Đài Loan cùng chứng kiến cái giá của sự khai thác tại các rạp chiếu phim; những tranh chấp về đất đai và bùn cát sau đó đã được người dân ở khắp nơi tiếp quản.
 
 ## Tài liệu tham khảo
 

@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-20T00:52:41+08:00'
+translatedAt: '2026-11-04T14:55:36.440718+00:00'
 ---
 
 > **Tóm tắt 30 giây**: Nghèo năng lượng không đơn thuần là "tiêu thụ quá nhiều điện" hay "không biết tiết kiệm", mà là khi các gia đình không có đủ nguồn lực để tiếp cận dịch vụ năng lượng an toàn, giá cả phải chăng và hiệu quả. Đối với các hộ sống trong chung cư cũ, nhà xây trên mái, phòng thông gió kém, hoặc sử dụng điều hòa cũ tiêu thụ nhiều điện, việc bật điều hòa có thể gây áp lực hóa đơn, còn không bật lại làm tăng nguy cơ tổn thương nhiệt. Đài Loan hiện chưa có định nghĩa thống nhất về nghèo năng lượng ở cấp quốc gia, nhưng các khảo sát dân sự đã phát hiện ra tỷ lệ chi tiêu năng lượng của các hộ yếu thế được hỗ trợ cao hơn đáng kể so với thu nhập khả dụng[^1]. Khi nhiệt độ cao được chính phủ xem là rủi ro liên ngành, nghèo năng lượng không thể chỉ là tuyên truyền tiết kiệm điện mà phải trở thành vấn đề công cộng cần được giải quyết chung bởi nhà ở, phúc lợi xã hội, y tế và điều chỉnh khí hậu[^2].
