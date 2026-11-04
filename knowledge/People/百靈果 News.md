@@ -2,13 +2,17 @@
 title: '百靈果 News：把世界新聞塞進台灣人的耳機'
 description: '凱莉與 Ken 如何用雙語、笑聲與不避立場的聊天，把陌生的國際新聞變成台灣人願意聽完、也必須重新思考的日常。'
 date: 2026-08-17
-subcategory: '數位與媒體'
 category: 'People'
 tags: ['百靈果 News', 'Podcast', '凱莉', 'Ken', '國際新聞']
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+image: '/article-images/people/bailingguo-news-podcast-headphones.webp'
+imageCredit: 'Zephyris'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg'
 readingTime: 8
 curation: incubating
 ---
@@ -20,10 +24,9 @@ curation: incubating
 
 ![耳機麥克風，象徵百靈果把國際新聞帶入日常收聽場景](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-*圖片：`Headphones with Microphone.jpg`，作者 Zephyris；[Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg)，CC BY-SA 3.0。此處使用原始檔案熱網址，未下載圖片。*
+_圖片：`Headphones with Microphone.jpg`，作者 Zephyris；[Wikimedia Commons 檔案頁](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg)，CC BY-SA 3.0。此處使用原始檔案熱網址，未下載圖片。_
 
-
-*圖片：Tatler Asia 專訪配圖，取自[百靈果 News 主持人專訪](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news)。此為非自由版權圖片，僅以原始熱網址嵌入作為文章語境與來源指引，不主張轉授權、下載、重製或商業使用。*
+_圖片：Tatler Asia 專訪配圖，取自[百靈果 News 主持人專訪](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news)。此為非自由版權圖片，僅以原始熱網址嵌入作為文章語境與來源指引，不主張轉授權、下載、重製或商業使用。_
 
 ## 從「媒體國際化」開始
 
@@ -112,13 +115,23 @@ Tatler 的採訪則呈現另一個尺度：百靈果從 Facebook 分享國際新
 ## 參考資料
 
 [^1]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英文長篇現場記錄，整理凱莉與 Ken 從 2014 年媒體國際化嘗試、早期節目到 2020 年台南活動的發展脈絡。
+
 [^2]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Taipei Times 與中央社轉載的具體報導，記錄全英文節目、製作集數、演員邀約與製作費等可核對資訊。
+
 [^3]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — 英文與中文對照的新聞文章，說明百靈果在台灣 Podcast 的排名、國際化目標及敏感題材的製作難度。
+
 [^4]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — 英文人物與產業觀察文章，描述兩位主持人的非傳統播報語氣、雙語能力、節目形式與 Podcast 生態位置。
+
 [^5]: [Tatler Asia：2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021 年主持人專訪，提供節目起源、國際新聞目標、Podcast 的陪伴感、直播與實體活動，以及凱莉與 Ken 的直接引語。
+
 [^6]: [百靈果 News 官方網站](https://www.bailingguonews.com/) — 創作者自行公布的節目定位、雙語標語、固定上傳時間與國際新聞製作方式，是核對第一方自我描述的來源。
+
 [^7]: [Apple Podcasts：百靈果 News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — 官方節目在 Apple Podcasts 的詳情頁，保存主持人、雙語對話、節目描述與創作者資訊等第一方分發資料。
+
 [^8]: [Spotify：百靈果 News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — 官方節目在 Spotify 的詳情頁，列出節目描述及多個具體單集與受訪創作者，供核對節目內容範圍。
+
 [^9]: [Spotify：The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — 2020 年 1 月的具體單集頁，保留單集日期、長度、受訪者與早期節目說明，可追蹤百靈果的早期形式。
+
 [^10]: [SoundOn：百靈果 News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Podcast 平台上的具體節目詳情頁，保存百靈果的雙語節目描述與主持人定位，可交叉核對官方自我介紹。
+
 [^11]: [BIOS Monthly：史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — 2020 年凱莉與 Ken 的人物專訪，記錄兩人的工作背景、節目形成與對政治不正確表述的自我理解。
