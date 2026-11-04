@@ -2,9 +2,7 @@
 title: 'A Batalha do Incinerador de Mingjian: Quando 300 Mil Toneladas de "Dívida de Lixo" Colidem com a Linha de Sobrevivência da Terra do Chá de Bilhões'
 description: 'O lixo acumulado no condado de Nantou ultrapassou 310 mil toneladas no final de 2024, desencadeando uma crise de "cerco de lixo". A magistrada Hsu Shu-hua planeja instalar um incinerador de processamento diário de 500 toneladas na vila de Xinmin, no município de Mingjian, provocando um protesto assinado por mais de 250 acadêmicos. É uma batalha de sobrevivência envolvendo uma zona agrícola específica, o habitat da tartaruga-de-couro-amarelo e a maior cadeia de suprimento de chá para bubble tea de Taiwan.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
     'Nantou',
@@ -15,15 +13,19 @@ tags:
     'problema do lixo',
     'Hsu Shu-hua',
   ]
-readingTime: 15
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/名間焚化爐.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-07-25T12:13:33+08:00'
+translatedAt: '2026-11-04T18:06:12.626173+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

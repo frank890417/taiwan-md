@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:47:07.102650+00:00'
+translatedAt: '2026-11-04T18:12:44.363480+00:00'
 ---
 
 > **Resumo em 30 segundos:** O sistema de serviço militar em Taiwan é a marca social mais profunda desta ilha ao longo de mais de meio século. Desde o "três anos de serviço" durante a Lei Marcial até a restauração do regime de um ano hoje, isso não é apenas uma mudança numérica no período de serviço, mas o verdadeiro retrato de Taiwan enfrentando a pressão geopolítica. Este artigo leva você ao local do sorteio com os gritos do "Prêmio Golden Horse" e ao cenário moderno de prontidão de combate do Exercício Hann Kuang, onde até os supermercados são incluídos nos exercícios, e analisa em profundidade os padrões de isenção, a rotina do treinamento básico, os vários tipos de serviço alternativo e a transformação para a prática do chamado de reserva.

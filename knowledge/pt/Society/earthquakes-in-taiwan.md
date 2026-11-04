@@ -2,9 +2,7 @@
 title: 'Terremotos: a memória insular de dançar com o boi da terra'
 description: "Por que os estrangeiros ficam apavorados, enquanto os taiwaneses só se importam se o macarrão instantâneo passou do ponto? Do 'pelo brotando da terra' da era Qing aos 102 segundos do 921, veja como esta ilha internalizou o desastre no cotidiano."
 date: 2026-04-17
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '社會韌性'
 tags:
   [
     'cultura',
@@ -13,15 +11,19 @@ tags:
     'memória de desastre',
     'lenda do boi da terra',
   ]
-readingTime: 6
+subcategory: '社會韌性'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-featured: false
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/地震.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
-translatedAt: '2026-07-25T12:13:33+08:00'
+translatedAt: '2026-11-04T18:05:03.619110+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Taiwan situa-se na fronteira de placas tectônicas, e terremotos são o destino desta ilha. Este artigo parte da lenda local do "boi da terra virando-se", atravessa os registros de anomalias da era Qing até a virada institucional do Grande Terremoto de 921, e explora como os taiwaneses passaram do medo à "calma", construindo no balanço uma resiliência防灾 de nível mundial.

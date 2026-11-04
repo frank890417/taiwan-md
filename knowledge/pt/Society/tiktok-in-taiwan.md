@@ -2,29 +2,33 @@
 title: 'TikTok'
 description: 'Da felicidade de 15 segundos à guerra cognitiva invisível: como o TikTok, através da personalização extrema e da "tática do mar de vídeos", remodela silenciosamente a visão de mundo e a identidade política dos jovens de Taiwan.'
 date: 2026-04-12
-author: 'idlccp1984'
 category: 'Society'
-subcategory: '媒體與言論'
 tags:
-  - 'TikTok'
-  - 'Douyin'
-  - 'desinformação'
-  - 'guerra cognitiva'
-  - 'algoritmo'
-  - 'Taiwan'
-  - 'risco de segurança nacional'
-  - 'saúde de crianças e adolescentes'
-  - 'teoria da desconfiança dos EUA'
-  - 'destruir a confiança em Taiwan'
-readingTime: '10min'
+  [
+    'TikTok',
+    'Douyin',
+    'desinformação',
+    'guerra cognitiva',
+    'algoritmo',
+    'Taiwan',
+    'risco de segurança nacional',
+    'saúde de crianças e adolescentes',
+    'teoria da desconfiança dos EUA',
+    'destruir a confiança em Taiwan',
+  ]
+subcategory: '媒體與言論'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-12
 lastHumanReview: true
-featured: false
+readingTime: '10min'
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
-translatedAt: '2026-07-25T12:49:30+08:00'
+translatedAt: '2026-11-04T17:53:46.893617+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O TikTok não é apenas uma plataforma de vídeos curtos que torna pessoas famosas; em Taiwan, é também um experimento cognitivo "descentralizado". Através de uma personalização extrema, ele faz com que usuários internalizem, sem perceber, a agenda política alheia como sua própria visão de mundo. Uma pesquisa de 2025 mostra que, entre adolescentes taiwaneses de 15 a 18 anos, mais de 70% passam mais de 2 horas por dia no TikTok, e sua percepção favorável sobre a China aumenta silenciosamente com o deslizar dos dedos, ao mesmo tempo em que se aprofunda a visão negativa sobre a sociedade taiwanesa.

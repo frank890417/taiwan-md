@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
-translatedAt: '2026-07-25T12:13:33+08:00'
+translatedAt: '2026-11-04T17:57:36.085064+00:00'
 ---
 
 # Cooperativas: o experimento democrático e o aroma do bao de carne que desapareceram na porta da escola
