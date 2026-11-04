@@ -179,7 +179,9 @@ const generateJSONLD = () => {
         '@type': 'WebPage',
         '@id': url,
       },
-      ...(datePublished && { birthDate: datePublished }),
+      // 2026-11-04: removed `birthDate: datePublished` — datePublished is the
+      // article's publish date, so every person was declared born in 2026.
+      // Frontmatter has no real birth date field; omit rather than fabricate.
     };
   }
 
