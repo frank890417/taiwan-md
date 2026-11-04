@@ -14,8 +14,12 @@ export interface CategoryConfig {
    * image-ingest.mjs 收進庫的本地圖（授權核對、清 EXIF、轉 WebP），消失的檔名換成同主題、
    * CC BY／BY-SA／CC0 的 Commons 圖。 */
   cover: string;
-  /** 封面圖出處：作者 / 來源 · 授權 · 檔案頁（CC 署名義務；目前只記錄、尚未在畫面上顯示）。 */
+  /** 封面圖出處（CC 署名義務）。ArticleHero 用分類預設封面當背景時，在右下角印一行
+   * 「{article.imageCredit}：作者 · 授權 · {article.imageSource}」，跟文章封面圖說同一格式，
+   * 十三語共用（標籤走 i18n，授權名稱不翻譯）。 */
   coverCredit?: string;
+  coverLicense?: string;
+  coverSource?: string;
 }
 export const getCategoryConfigs = (
   t: ReturnType<typeof useTranslations>,
@@ -29,8 +33,10 @@ export const getCategoryConfigs = (
     gradient: 'linear-gradient(135deg, #4b5563, #6b7280)',
     cover:
       '/article-images/covers/category-geography-taroko-gorge-pudu-bridge.webp',
-    coverCredit:
-      'CEphoto, Uwe Aranas / Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg',
+    coverCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg',
   },
   history: {
     name: t('categoryConfig.history'),
@@ -42,8 +48,10 @@ export const getCategoryConfigs = (
     gradient: 'linear-gradient(135deg, #92400e, #d97706)',
     cover:
       '/article-images/covers/category-history-presidential-office-building.webp',
-    coverCredit:
-      'CEphoto, Uwe Aranas / Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg',
+    coverCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg',
   },
   geography: {
     name: t('categoryConfig.geography'),
@@ -54,8 +62,10 @@ export const getCategoryConfigs = (
     gradient: 'linear-gradient(135deg, #065f46, #10b981)',
     cover:
       '/article-images/covers/category-geography-taroko-gorge-pudu-bridge.webp',
-    coverCredit:
-      'CEphoto, Uwe Aranas / Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg',
+    coverCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg',
   },
   culture: {
     name: t('categoryConfig.culture'),
@@ -66,8 +76,10 @@ export const getCategoryConfigs = (
     colorLight: '#7c3aed20',
     gradient: 'linear-gradient(135deg, #7c3aed, #a855f7)',
     cover: '/article-images/covers/category-culture-lukang-tianhou-temple.webp',
-    coverCredit:
-      'lienyuan lee / Wikimedia Commons · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%A4%A9%E5%90%8E%E5%AE%AE_Lugang_Tianhou_Temple_-_panoramio.jpg',
+    coverCredit: 'lienyuan lee / Wikimedia Commons',
+    coverLicense: 'CC BY 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%A4%A9%E5%90%8E%E5%AE%AE_Lugang_Tianhou_Temple_-_panoramio.jpg',
   },
   food: {
     name: t('categoryConfig.food'),
@@ -77,8 +89,10 @@ export const getCategoryConfigs = (
     colorLight: '#ea580c20',
     gradient: 'linear-gradient(135deg, #ea580c, #f97316)',
     cover: '/article-images/covers/category-food-shilin-night-market.webp',
-    coverCredit:
-      'Exec8 / Wikimedia Commons · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_02.jpg',
+    coverCredit: 'Exec8 / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 4.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_02.jpg',
   },
   art: {
     name: t('categoryConfig.art'),
@@ -89,8 +103,10 @@ export const getCategoryConfigs = (
     gradient: 'linear-gradient(135deg, #be185d, #ec4899)',
     cover:
       '/article-images/covers/category-art-taipei-fine-arts-museum-2019.webp',
-    coverCredit:
-      'Wpcpey / Wikimedia Commons · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Taipei_Fine_Arts_Museum_2019.jpg',
+    coverCredit: 'Wpcpey / Wikimedia Commons',
+    coverLicense: 'CC BY 4.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taipei_Fine_Arts_Museum_2019.jpg',
   },
   music: {
     name: t('categoryConfig.music'),
@@ -100,8 +116,10 @@ export const getCategoryConfigs = (
     colorLight: '#0891b220',
     gradient: 'linear-gradient(135deg, #0891b2, #06b6d4)',
     cover: '/article-images/covers/category-music-national-concert-hall.webp',
-    coverCredit:
-      'CEphoto, Uwe Aranas / Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_National-Concert-Hall-01.jpg',
+    coverCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_National-Concert-Hall-01.jpg',
   },
   technology: {
     name: t('categoryConfig.technology'),
@@ -111,8 +129,10 @@ export const getCategoryConfigs = (
     colorLight: '#1d4ed820',
     gradient: 'linear-gradient(135deg, #1d4ed8, #3b82f6)',
     cover: '/article-images/covers/category-technology-tsmc-fabs-hsinchu.webp',
-    coverCredit:
-      '曾 成訓 / Wikimedia Commons · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg',
+    coverCredit: '曾 成訓 / Wikimedia Commons',
+    coverLicense: 'CC BY 2.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg',
   },
   nature: {
     name: t('categoryConfig.nature'),
@@ -122,8 +142,10 @@ export const getCategoryConfigs = (
     colorLight: '#15803d20',
     gradient: 'linear-gradient(135deg, #15803d, #22c55e)',
     cover: '/article-images/covers/category-nature-yushan-main-peak-2017.webp',
-    coverCredit:
-      'Chi-Hung Lin / Wikimedia Commons · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Yushan_Main_Peak_and_Yushan_Northern_Peak_seen_from_Dongpu_Mountain_in_the_afternoon_on_28_January_2017.jpg',
+    coverCredit: 'Chi-Hung Lin / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 2.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Yushan_Main_Peak_and_Yushan_Northern_Peak_seen_from_Dongpu_Mountain_in_the_afternoon_on_28_January_2017.jpg',
   },
   people: {
     name: t('categoryConfig.people'),
@@ -134,8 +156,10 @@ export const getCategoryConfigs = (
     colorLight: '#b4530920',
     gradient: 'linear-gradient(135deg, #b45309, #f59e0b)',
     cover: '/article-images/covers/category-people-ang-lee.webp',
-    coverCredit:
-      'Sean Reynolds / Wikimedia Commons · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Ang_Lee_%288464864982%29.jpg',
+    coverCredit: 'Sean Reynolds / Wikimedia Commons',
+    coverLicense: 'CC BY 2.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Ang_Lee_%288464864982%29.jpg',
   },
   society: {
     name: t('categoryConfig.society'),
@@ -145,8 +169,10 @@ export const getCategoryConfigs = (
     colorLight: '#47556920',
     gradient: 'linear-gradient(135deg, #475569, #64748b)',
     cover: '/article-images/covers/category-society-legislative-yuan.webp',
-    coverCredit:
-      'Yu tptw / Wikimedia Commons · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_and_cityscape.jpg',
+    coverCredit: 'Yu tptw / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 4.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_and_cityscape.jpg',
   },
   economy: {
     name: t('categoryConfig.economy'),
@@ -156,8 +182,10 @@ export const getCategoryConfigs = (
     colorLight: '#c2410c20',
     gradient: 'linear-gradient(135deg, #c2410c, #ea580c)',
     cover: '/article-images/covers/category-economy-taipei-101.webp',
-    coverCredit:
-      'peellden / Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Taipei_101_from_afar.jpg',
+    coverCredit: 'peellden / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 3.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Taipei_101_from_afar.jpg',
   },
   lifestyle: {
     name: t('categoryConfig.lifestyle'),
@@ -168,8 +196,10 @@ export const getCategoryConfigs = (
     gradient: 'linear-gradient(135deg, #4d7c0f, #65a30d)',
     cover:
       '/article-images/covers/category-lifestyle-7-eleven-chunron-store-2016.webp',
-    coverCredit:
-      '玄史生 / Wikimedia Commons · CC0 · https://commons.wikimedia.org/wiki/File:7-Eleven_Chunron_Store_20160125.jpg',
+    coverCredit: '玄史生 / Wikimedia Commons',
+    coverLicense: 'CC0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:7-Eleven_Chunron_Store_20160125.jpg',
   },
   politics: {
     name: t('categoryConfig.politics'),
@@ -179,8 +209,10 @@ export const getCategoryConfigs = (
     colorLight: '#7c2d1220',
     gradient: 'linear-gradient(135deg, #7c2d12, #ea580c)',
     cover: '/article-images/covers/category-society-legislative-yuan.webp',
-    coverCredit:
-      'Yu tptw / Wikimedia Commons · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_and_cityscape.jpg',
+    coverCredit: 'Yu tptw / Wikimedia Commons',
+    coverLicense: 'CC BY-SA 4.0',
+    coverSource:
+      'https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_and_cityscape.jpg',
   },
 });
 
