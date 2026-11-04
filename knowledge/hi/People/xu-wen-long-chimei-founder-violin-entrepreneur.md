@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-07-26T23:43:22+08:00'
+translatedAt: '2026-11-04T23:08:57.016163+00:00'
 ---
 
 # शू वेन-लुंग: ताइनान 1928, चाइमेई इंडस्ट्रियल 1959 से विश्व के सबसे बड़े वायलिन संग्रहालय के संस्थापक तक

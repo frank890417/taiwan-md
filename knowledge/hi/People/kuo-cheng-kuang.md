@@ -2,9 +2,7 @@
 title: 'कुओ चेंग-कुआंग'
 description: 'वह नासा के ह्यूस्टन जॉनसन स्पेस सेंटर के वरिष्ठ वैज्ञानिक हैं, जो अंतरिक्ष यात्रियों के खान-पान पर शोध करते हैं; लेकिन गृहनगर ताइवान की फाइलों में उन्हें कभी "आतंकवादी" काली सूची में डाला गया था।'
 date: 2026-04-06
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '科學與研究'
 tags:
   [
     'कुओ चेंग-कुआंग',
@@ -13,15 +11,19 @@ tags:
     'काली सूची',
     'ताइवान लोकतंत्र आंदोलन',
   ]
-readingTime: 7
+subcategory: '科學與研究'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-07-25T06:34:20+08:00'
+translatedAt: '2026-11-04T22:13:22.733024+00:00'
 ---
 
 # कुओ चेंग-कुआंग
