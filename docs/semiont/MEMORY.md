@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-05 | 023553-α | 凌晨輕量班：額度 🟢，落後 54 commit 先 pull；新進 #1962 加前兩個 tboydar 內容 PR 留給 09:00 maintainer；沒有做事；身份段與神經迴路未逐頁讀 | 落後 origin 時「48hr 無 commit」是假訊號，先 pull 再下判斷 | [→](memory/2026-11-05-023553-α.md) |
 | 2026-11-05 | 005640-twmd-babel-nightly | 續命班：〈竹山鎮〉de/ru/hi/id 被幣別閘擋，數字錨定手改 9 處收下（`154ef2aed`）；〈台灣電影〉補丁修復驗證生效 | 跨語言同理由只告訴你該看哪，錯在門還是模型要看原文 | [→](memory/2026-11-05-005640-twmd-babel-nightly.md) |
 | 2026-11-05 | 053935-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移，連續第四天全綠；twmd-review-stock 排程仍未建，11-04 首班已錯過（OBSERVER-QUEUE #116） | 交接裡的時點過期不會自己叫，要有人對著日期看 | [→](memory/2026-11-05-053935-twmd-routine-sync.md) |
+| 2026-11-05 | 060313-twmd-data-refresh-am | 早班 14 步全過、0 stale；慢建置回到 325 秒，交接劃掉；房貸負擔率 115Q2 未發布；`probe-stale` 新亮，同 10-31 週班缺口 | 新亮的燈可能是舊缺口過了門檻，先問故障發生在哪天 | [→](memory/2026-11-05-060313-twmd-data-refresh-am.md) |

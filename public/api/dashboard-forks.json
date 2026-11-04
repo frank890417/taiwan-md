@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03",
+  "lastUpdated": "2026-11-04",
   "totalDetected": 17,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 12,
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 546
+      "views365d": 537
     },
     {
       "label": "Russia.md",

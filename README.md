@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1156 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,028 article-versions
+- 📖 **1159 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,067 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,28 +95,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1156  |
-| 🇹🇼 Chinese (zh-TW)             | 1156  |
-| 🇺🇸 English (en)                | 1157  |
-| 🇯🇵 日本語 (ja)                 | 1156  |
-| 🇰🇷 한국어 (ko)                 | 1157  |
-| 🇪🇸 Español (es)                | 1155  |
-| 🇫🇷 Français (fr)               | 1157  |
-| 🇻🇳 Tiếng Việt (vi)             | 1155  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1155  |
-| 🇵🇹 Português (pt)              | 1156  |
-| 🇮🇳 हिन्दी (hi)                 | 1155  |
-| 🇸🇦 العربية (ar)                | 1155  |
-| 🇷🇺 Русский (ru)                | 1156  |
-| 🌐 Deutsch (de)                | 1156  |
+| 📄 Total articles (zh-TW SSOT) | 1159  |
+| 🇹🇼 Chinese (zh-TW)             | 1159  |
+| 🇺🇸 English (en)                | 1158  |
+| 🇯🇵 日本語 (ja)                 | 1158  |
+| 🇰🇷 한국어 (ko)                 | 1158  |
+| 🇪🇸 Español (es)                | 1156  |
+| 🇫🇷 Français (fr)               | 1158  |
+| 🇻🇳 Tiếng Việt (vi)             | 1156  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1157  |
+| 🇵🇹 Português (pt)              | 1158  |
+| 🇮🇳 हिन्दी (hi)                 | 1158  |
+| 🇸🇦 العربية (ar)                | 1158  |
+| 🇷🇺 Русский (ru)                | 1158  |
+| 🌐 Deutsch (de)                | 1158  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 80    |
-| ⭐ GitHub Stars                | 1236  |
+| ⭐ GitHub Stars                | 1237  |
 | 🍴 Forks                       | 188   |
-| 📅 Articles last 7 days        | 23    |
-| 📅 Articles last 30 days       | 180   |
+| 📅 Articles last 7 days        | 40    |
+| 📅 Articles last 30 days       | 195   |
 
 <!-- STATS:END -->
 

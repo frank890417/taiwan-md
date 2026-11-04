@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-04",
+  "generated": "2026-11-05",
   "generator": "scripts/tools/article-census.py",
-  "head": "ff8ab4d4d",
+  "head": "34d2908c2",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1156,
+  "n": 1159,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -18,14 +18,14 @@
     "modern_pipeline_since": "2026-04-24",
     "heal_rule_since": "2026-08-04"
   },
-  "health_profile": "ci-deploy",
+  "health_profile": "file:scripts/tools/.health-sweep.json",
   "git_available": true,
   "curation_dates_available": true,
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-07",
-      "end": "2026-11-04",
+      "start": "2026-10-08",
+      "end": "2026-11-05",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,24 +38,24 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 12, "B": 2, "C": 888, "D": 226 },
-  "curation_counts": { "none": 645, "incubating": 509, "verified": 2 },
-  "curation_reason_counts": { "none": 342, "thin": 113, "unverified": 54 },
-  "cover_counts": { "local": 268, "none": 888 },
-  "c_subtypes": { "C3": 749, "C2": 133, "C1": 6 },
+  "tier_counts": { "A": 12, "B": 2, "C": 886, "D": 226 },
+  "curation_counts": { "none": 650, "incubating": 507, "verified": 2 },
+  "curation_reason_counts": { "none": 340, "thin": 113, "unverified": 54 },
+  "cover_counts": { "local": 273, "none": 886 },
+  "c_subtypes": { "C3": 748, "C2": 133, "C1": 5 },
   "distribution": {
     "all": {
-      "n": 1147,
+      "n": 1150,
       "cjk": {
         "p5": 1319,
-        "p10": 1538,
-        "p25": 2043,
-        "p33": 2434,
-        "p50": 3165,
-        "p75": 4626,
-        "p90": 6062,
-        "n": 1147,
-        "mean": 3578.6
+        "p10": 1539,
+        "p25": 2053,
+        "p33": 2447,
+        "p50": 3168,
+        "p75": 4634,
+        "p90": 6082,
+        "n": 1150,
+        "mean": 3588.0
       },
       "fn_defs": {
         "p5": 0,
@@ -63,49 +63,49 @@
         "p25": 7,
         "p33": 9,
         "p50": 12,
-        "p75": 20,
+        "p75": 21,
         "p90": 36,
-        "n": 1147,
-        "mean": 16.0
+        "n": 1150,
+        "mean": 16.1
       }
     },
     "walked_rewrite": {
-      "n": 395,
+      "n": 403,
       "cjk": {
         "p5": 1672,
         "p10": 2018,
-        "p25": 3097,
-        "p33": 3719,
-        "p50": 4663,
-        "p75": 6200,
-        "p90": 7386,
-        "n": 395,
-        "mean": 4800.9
+        "p25": 3110,
+        "p33": 3743,
+        "p50": 4668,
+        "p75": 6190,
+        "p90": 7357,
+        "n": 403,
+        "mean": 4794.7
       },
       "fn_defs": {
-        "p5": 5,
+        "p5": 4,
         "p10": 7,
         "p25": 11,
         "p33": 14,
         "p50": 22,
         "p75": 36,
         "p90": 54,
-        "n": 395,
-        "mean": 26.5
+        "n": 403,
+        "mean": 26.6
       }
     },
     "no_evidence": {
-      "n": 596,
+      "n": 594,
       "cjk": {
         "p5": 1245,
-        "p10": 1393,
-        "p25": 1800,
-        "p33": 2009,
-        "p50": 2715,
+        "p10": 1384,
+        "p25": 1806,
+        "p33": 2020,
+        "p50": 2708,
         "p75": 3786,
-        "p90": 4714,
-        "n": 596,
-        "mean": 2929.0
+        "p90": 4707,
+        "n": 594,
+        "mean": 2927.5
       },
       "fn_defs": {
         "p5": 0,
@@ -115,22 +115,22 @@
         "p50": 10,
         "p75": 14,
         "p90": 20,
-        "n": 596,
+        "n": 594,
         "mean": 11.0
       }
     },
     "incubating": {
-      "n": 509,
+      "n": 507,
       "cjk": {
         "p5": 1176,
         "p10": 1329,
-        "p25": 1636,
-        "p33": 1842,
-        "p50": 2550,
+        "p25": 1647,
+        "p33": 1855,
+        "p50": 2572,
         "p75": 3948,
-        "p90": 4790,
-        "n": 509,
-        "mean": 2910.8
+        "p90": 4780,
+        "n": 507,
+        "mean": 2910.4
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 10,
         "p75": 13,
         "p90": 17,
-        "n": 509,
+        "n": 507,
         "mean": 9.9
       }
     },
     "recent_45d": {
-      "n": 34,
+      "n": 37,
       "cjk": {
         "p5": 1486,
-        "p10": 1499,
-        "p25": 1626,
-        "p33": 1685,
-        "p50": 1907,
-        "p75": 2319,
-        "p90": 2881,
-        "n": 34,
-        "mean": 2635.4
+        "p10": 1502,
+        "p25": 1629,
+        "p33": 1776,
+        "p50": 1932,
+        "p75": 2373,
+        "p90": 3543,
+        "n": 37,
+        "mean": 2719.6
       },
       "fn_defs": {
         "p5": 1,
@@ -164,9 +164,9 @@
         "p33": 3,
         "p50": 4,
         "p75": 10,
-        "p90": 31,
-        "n": 34,
-        "mean": 16.4
+        "p90": 24,
+        "n": 37,
+        "mean": 16.1
       }
     }
   },
@@ -373,17 +373,6 @@
         "cover": "none",
         "cjk": 1168,
         "fn": 8
-      },
-      {
-        "path": "knowledge/History/日治時期.md",
-        "title": "日治時期",
-        "category": "History",
-        "curation": null,
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1697、腳註 5、零媒體",
-        "cover": "none",
-        "cjk": 1697,
-        "fn": 5
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -739,7 +728,7 @@
       },
       {
         "path": "knowledge/Economy/台灣企業：和碩聯合.md",
-        "title": "和碩聯合科技 (Pegatron) - 電子代工的隱形冠軍",
+        "title": "和碩聯合科技：替蘋果組 iPhone、替任天堂組 Switch 的代工廠",
         "category": "Economy",
         "curation": null,
         "curationReason": null,
@@ -838,13 +827,13 @@
       },
       {
         "path": "knowledge/Economy/台灣企業：華碩.md",
-        "title": "華碩電腦 (ASUS) - 主機板起家的科技巨人",
+        "title": "華碩電腦：從台北一間公寓起家，做到主機板世界第一的台灣品牌",
         "category": "Economy",
         "curation": null,
         "curationReason": null,
         "reason": "3 軸弱：腳註 5、零媒體、段落 41 段／中位 49 字",
         "cover": "none",
-        "cjk": 2664,
+        "cjk": 2668,
         "fn": 5
       },
       {
@@ -977,17 +966,6 @@
         "reason": "3 軸弱：字數 1298、腳註 0、零媒體",
         "cover": "none",
         "cjk": 1298,
-        "fn": 0
-      },
-      {
-        "path": "knowledge/Food/鱔魚意麵.md",
-        "title": "27 秒的精準：台南鱔魚意麵的日治起源與廖家傳承",
-        "category": "Food",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1460、腳註 0、零媒體",
-        "cover": "none",
-        "cjk": 1460,
         "fn": 0
       },
       {
@@ -1176,6 +1154,17 @@
         "cover": "none",
         "cjk": 2313,
         "fn": 9
+      },
+      {
+        "path": "knowledge/History/日治時期.md",
+        "title": "日治時期",
+        "category": "History",
+        "curation": null,
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1697、腳註 5、零媒體",
+        "cover": "none",
+        "cjk": 1697,
+        "fn": 5
       },
       {
         "path": "knowledge/History/東寧王國.md",
@@ -1425,9 +1414,9 @@
         "category": "Nature",
         "curation": "incubating",
         "curationReason": null,
-        "reason": "3 軸弱：字數 2324、腳註 0、零媒體",
+        "reason": "3 軸弱：字數 2369、腳註 0、零媒體",
         "cover": "none",
-        "cjk": 2324,
+        "cjk": 2369,
         "fn": 0
       },
       {
@@ -2531,6 +2520,17 @@
         "fn": 5
       },
       {
+        "path": "knowledge/Society/台南鐵路地下化.md",
+        "title": "台南鐵路地下化：城市縫合了，代價落在三百四十戶身上",
+        "category": "Society",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "4 軸弱：字數 1901、腳註 2、零媒體、段落 28 段／中位 52 字",
+        "cover": "none",
+        "cjk": 1901,
+        "fn": 2
+      },
+      {
         "path": "knowledge/Society/台灣同婚與性別平權.md",
         "title": "台灣同婚與性別平權",
         "category": "Society",
@@ -2819,7 +2819,6 @@
     ]
   },
   "tier_C_paths": [
-    "knowledge/People/鐵牛杰哥.md",
     "knowledge/Geography/彰化縣.md",
     "knowledge/History/1935新竹臺中地震.md",
     "knowledge/People/李宗盛.md",
@@ -2962,18 +2961,16 @@
     "knowledge/People/凹與山.md",
     "knowledge/People/陳樹菊.md",
     "knowledge/Music/張懸與安溥.md",
+    "knowledge/People/徐巧芯.md",
     "knowledge/People/康士坦的變化球.md",
     "knowledge/People/蕭上農.md",
-    "knowledge/People/徐巧芯.md",
-    "knowledge/People/三毛.md",
     "knowledge/Technology/雪山隧道.md",
-    "knowledge/Society/台灣的道德課去哪了.md",
-    "knowledge/Food/地瓜球.md",
+    "knowledge/People/三毛.md",
     "knowledge/People/林青霞.md",
     "knowledge/Geography/台灣五大地形與地理結構.md",
+    "knowledge/Society/台灣的道德課去哪了.md",
     "knowledge/Culture/菜市場名.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
-    "knowledge/History/日治時期.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
     "knowledge/About/文章如何誕生.md",
@@ -3197,7 +3194,6 @@
     "knowledge/Food/飛魚.md",
     "knowledge/Food/飯糰.md",
     "knowledge/Food/鬍鬚張.md",
-    "knowledge/Food/鱔魚意麵.md",
     "knowledge/Food/鳳梨酥.md",
     "knowledge/Food/麻芛湯.md",
     "knowledge/Food/黑松.md",
@@ -3264,6 +3260,7 @@
     "knowledge/History/平埔族.md",
     "knowledge/History/心戰.md",
     "knowledge/History/戒嚴時期.md",
+    "knowledge/History/日治時期.md",
     "knowledge/History/日治時期臺灣社會運動.md",
     "knowledge/History/東寧王國.md",
     "knowledge/History/林爽文事件.md",
@@ -3571,7 +3568,6 @@
     "knowledge/People/黃聲遠.md",
     "knowledge/People/黃震南.md",
     "knowledge/People/黑貓老師.md",
-    "knowledge/People/齊柏林.md",
     "knowledge/People/龍應台.md",
     "knowledge/Politics/2026 九合一選舉.md",
     "knowledge/Politics/309本里長帳簿.md",
@@ -3600,6 +3596,7 @@
     "knowledge/Society/公共政策網路參與平臺.md",
     "knowledge/Society/動物園與展演動物倫理.md",
     "knowledge/Society/台北鼠患.md",
+    "knowledge/Society/台南鐵路地下化.md",
     "knowledge/Society/台灣偏鄉教育.md",
     "knowledge/Society/台灣全齡共融旅遊與生活文化.md",
     "knowledge/Society/台灣公共衛生與防疫體系.md",
@@ -3636,6 +3633,7 @@
     "knowledge/Society/台灣青年的生涯迷航.md",
     "knowledge/Society/名間焚化爐.md",
     "knowledge/Society/哈哈台.md",
+    "knowledge/Society/國中會考.md",
     "knowledge/Society/地震.md",
     "knowledge/Society/外省人.md",
     "knowledge/Society/太陽花學運.md",

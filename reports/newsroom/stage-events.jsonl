@@ -979,3 +979,42 @@
 {"ts": "2026-11-02T22:07:05Z", "slug": "台灣公投制度", "stage": "ship", "status": "done", "source": "observed", "sha": "489f45a93337"}
 {"ts": "2026-11-02T22:07:05Z", "slug": "中華職棒", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-11-03T22:07:14Z", "slug": "戰鬥陀螺", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "奇拿富", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "奇拿富", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "奇拿富", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "奇拿富", "stage": "ship", "status": "done", "source": "observed", "sha": "014bfc7c471a"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鱔魚意麵", "stage": "ship", "status": "done", "source": "observed", "sha": "fd069e0d43e6"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "這群人", "stage": "ship", "status": "done", "source": "observed", "sha": "b26ceac41315"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "齊柏林", "stage": "ship", "status": "done", "source": "observed", "sha": "6495f5205ba2"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "room_prose", "status": "pass", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "鐵牛杰哥", "stage": "ship", "status": "done", "source": "observed", "sha": "16dda3745b20"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "room_projection", "status": "block", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "地瓜球", "stage": "ship", "status": "done", "source": "observed", "sha": "2e275b876024"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "台灣迷因", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "國中會考", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-04T22:07:35Z", "slug": "inbox:🩻 census D 級 umbrella — 內文簡陋的 225 篇排隊重寫（", "stage": "inbox", "status": "pending", "source": "observed"}

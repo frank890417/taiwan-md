@@ -1,280 +1,334 @@
 {
-  "_generated": "2026-11-03T22:07:33.880Z",
+  "_generated": "2026-11-04T22:08:28.040Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "中華職棒：三十七年，一個聯盟差點死掉兩次又活過來",
-        "desc": "1989 年 10 月 23 日，四個企業在兄弟大飯店宣布成立中華職業棒球聯盟，隔年 3 月 17 日開打。三十七年來它兩次瀕臨解散：1996 年黑鷹事件爆發後，時報鷹、三商虎與味全龍接連退場；2008 年黑米事件後中信鯨收掉，隔年又爆黑象事件。撐過來之後，台北大巨蛋讓單場觀眾來到四萬人，2025 年例行賽場均第一次突破一萬人。",
+        "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
+        "desc": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
         "category": "culture",
-        "href": "/culture/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92",
-        "date": "2026-11-02T16:38:51+08:00",
-        "readingTime": 11,
+        "href": "/culture/%E5%8F%B0%E7%81%A3YouTuber%E7%94%A2%E6%A5%AD%E8%88%87%E6%96%87%E5%8C%96",
+        "date": "2026-11-04T10:03:10+08:00",
+        "readingTime": null,
         "image": ""
       },
       {
-        "title": "陳致中：三次被選進高雄市議會，兩次的任期結束在法條裡",
-        "desc": "2008 年 8 月 18 日，維吉尼亞大學法學院的新生訓練開始，準備念 J.D. 的陳致中沒有出現，入學資格當天就沒了。此後高雄前鎮小港三次把他選進市議會，其中兩次的任期在判決確定的那一刻結束，中間他服刑 272 天。2023 年 4 月定讞的判決主文沒有褫奪公權。一個月後三讀的選罷法排黑條款，讓他不得再登記為候選人。",
+        "title": "這群人：七個成員十三年沒有人退團，停更但沒有解散",
+        "desc": "這群人（TGOP）是展榮、展瑞、茵聲、木星、董仔、尼克、石頭七個人，多數是戲曲學院同學。2016 年用《超瞎翻唱》慶祝滿百萬追蹤，隔年成為台灣第一組破兩百萬訂閱的 YouTuber。2024 年 2 月停更那天，展榮先問媒體：有解散嗎？一間公司、每月兩支片、七個人一起拍，是他們紅起來的方式，也是最後放下的重量。",
         "category": "people",
-        "href": "/people/%E9%99%B3%E8%87%B4%E4%B8%AD",
-        "date": "2026-11-02T16:19:12+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/chen-chih-chung-hero.webp"
+        "href": "/people/%E9%80%99%E7%BE%A4%E4%BA%BA",
+        "date": "2026-11-04T10:03:10+08:00",
+        "readingTime": 14,
+        "image": "/article-images/people/tgop-taichung-fan-meeting-2015.webp"
       },
       {
-        "title": "沈伯洋：他研究中國認知戰，後來被中國公安立案偵查",
-        "desc": "犯罪學者沈伯洋大學時參觀少年監獄，兩個拖地的少年向他鞠躬道謝；他後來研究中共對台資訊戰、共同創辦黑熊學院，二〇二五年被重慶公安以涉嫌分裂國家罪立案偵查。二〇二六年他代表民進黨參選台北市長，抽到三號，十月三十一日與蔣萬安電視辯論，十一月二十八日投票。",
+        "title": "鐵牛伍嘉緯：「杰哥不要」紅了十三年，演杰哥的人從婉拒走到坦然接受",
+        "desc": "2013 年，在出版業上班的伍嘉緯對著鏡頭說「杰哥就是我演的」。他演的是國家教育研究院一支性平教學片裡的加害者，片中那句「杰哥不要」紅了十三年。他婉拒過所有要他再演杰哥的邀約、一度後悔，後來說要「坦然接受自己就是杰哥」，接廣告、站上迷因音樂劇。這支片原本要告訴學生的是：男生也會被性侵。",
         "category": "people",
-        "href": "/people/%E6%B2%88%E4%BC%AF%E6%B4%8B",
-        "date": "2026-11-02T14:11:08+08:00",
-        "readingTime": 30,
-        "image": "/article-images/people/puma-shen-election-2024.webp"
+        "href": "/people/%E9%90%B5%E7%89%9B%E6%9D%B0%E5%93%A5",
+        "date": "2026-11-04T09:42:38+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/tie-niu-ironbull-20251101-comic-con.webp"
       },
       {
-        "title": "蔣萬安：律師出身的台北市長，第一次以現任身分求連任",
-        "desc": "2023 年 1 月，剛上任的蔣萬安戴著安全帽走進大巨蛋，說要符合法律規定才給使用執照。四年裡他經手輝達落腳北士科、都更與免費營養午餐，拆了公館圓環，提議遷走松山機場，警方搜索同志酒吧後他也出面道歉。2026 年他代表國民黨爭取連任台北市長，抽到 5 號，10 月 31 日與沈伯洋電視辯論，11 月 28 日投票。",
+        "title": "國家太空中心：花三十二年，替一個還沒湊齊名字的國家湊齊一個太空署",
+        "desc": "1991 年它叫「籌備處」，沒有名字、沒有火箭、沒有自己的地。三十二年後它把 Taiwan 放回名字裡，現在新竹的操控中心 24 小時追著九顆衛星的心跳；0403 花蓮地震那天，它在震後六分鐘重設任務、三小時取像。它正在補上最後一塊零件——一枚自己的入軌火箭，還有一個已經核定、最快 2028 上路的月球任務。",
+        "category": "technology",
+        "href": "/technology/%E5%9C%8B%E5%AE%B6%E5%A4%AA%E7%A9%BA%E4%B8%AD%E5%BF%83",
+        "date": "2026-11-04T09:40:26+08:00",
+        "readingTime": 28,
+        "image": "/article-images/technology/formosat8-tasa-banner.webp"
+      },
+      {
+        "title": "台灣環境運動史",
+        "desc": "台灣環境運動從1980年代反污染抗爭到近年減塑運動的發展軌跡，見證台灣社會對環境意識的覺醒與民主化進程的交織",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E7%92%B0%E5%A2%83%E9%81%8B%E5%8B%95%E5%8F%B2",
+        "date": "2026-11-04T09:40:26+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "齊柏林：替國道空拍的公務員，抵押房子拍出《看見台灣》",
+        "desc": "齊柏林在國工局管過採購，後來坐上局裡租的直升機，替國道工程空拍。差三年就能退休時，他辭去公職、和母親商量抵押房子，拍出 2013 年全台票房破兩億元的《看見台灣》，2017 年為續集勘景時罹難。電影讓全台灣一起看見土地的傷口，看見要變成改變，還得有一群人接住：開會、提告、拆違建，有些人在他拍照之前就守在山腳下。",
         "category": "people",
-        "href": "/people/%E8%94%A3%E8%90%AC%E5%AE%89",
-        "date": "2026-11-02T14:11:08+08:00",
-        "readingTime": 25,
-        "image": "/article-images/people/chiang-wan-an-council-interpellation-2023.webp"
+        "href": "/people/%E9%BD%8A%E6%9F%8F%E6%9E%97",
+        "date": "2026-11-04T09:40:26+08:00",
+        "readingTime": 19,
+        "image": "/article-images/people/chi-po-lin-beyond-beauty-premiere-2013.webp"
       },
       {
-        "title": "台灣與核能的討論：核三的 589 項審查意見之後，社會共識還沒有一把尺",
-        "desc": "2026 年 9 月，核安會照核子反應器設施管制法的換照程序提出 589 項審查意見，核定台電的核三再運轉計畫。重啟的三個條件裡，社會有共識怎樣才算，法規沒有寫。11 月 28 日第 22 案與九合一同日投票，國民黨的理由書說要把近八成民意化成政策，民進黨團幹事長說通過就重啟「跳得太快」，34 個團體說不應拿它當重啟的政治授權。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E8%88%87%E6%A0%B8%E8%83%BD%E7%9A%84%E8%A8%8E%E8%AB%96",
-        "date": "2026-11-02T10:24:33+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/maanshan-nuclear-plant-2017.webp"
-      },
-      {
-        "title": "蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子",
-        "desc": "1982 年，低放射性廢棄物被送進達悟族人的家園；1998 年，族人以「驅逐惡靈」要求搬走，台電也曾承諾 2002 年底前遷出。四十多年後，蘭嶼留下的不只是一座貯存場，而是一場關於安全、同意與誰能決定家園的未完協商。",
-        "category": "history",
-        "href": "/history/%E8%98%AD%E5%B6%BC%E6%A0%B8%E5%BB%A2%E6%96%99",
-        "date": "2026-11-02T09:34:49+08:00",
+        "title": "走在填平的港口上：台南中西區的五道小吃",
+        "desc": "國華街與海安路的地底下是清代五條港的河道遺址；牛肉湯、虱目魚粥、鱔魚意麵、豬心冬粉，每一道小吃的時間、位置與食材，都是四百年碼頭工人的生存邏輯留下的化石。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E5%8D%97%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E6%96%87%E5%8C%96",
+        "date": "2026-11-04T09:38:13+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "電網韌性：停電之後，誰能先恢復城市",
-        "desc": "2017 年 815 與 2022 年 303 大停電，讓台灣看見電網真正脆弱的地方不只在發電量，而在集中化的節點、操作程序、輸配電設備與地方復原能力。當電力成為醫療、交通、通訊與產業的共同底座，韌性就不只是台電的工程問題，而是整座城市如何在失去電力後重新開始。",
-        "category": "society",
-        "href": "/society/%E9%9B%BB%E7%B6%B2%E9%9F%8C%E6%80%A7",
-        "date": "2026-11-02T09:34:49+08:00",
-        "readingTime": 18,
-        "image": ""
+        "title": "台南鱔魚意麵：田溝裡的鱔魚少了，鍋前的大火一代傳一代",
+        "desc": "2013 年一篇部落格寫到，台南沙卡里巴一家老牌鱔魚意麵的牆上寫著快炒鱔魚二十七秒。作家魚夫記下，廖家兄弟跟福州師傅學了「刀子」功夫。部落客貓大爺記下，么兒阿源十四歲起跟父親賣炒鱔魚，姪子阿江十七歲跟三叔學。田溝裡的鱔魚少了，火開多大、醬料下多少、芡勾多稠，還在幾個家族的鍋前。",
+        "category": "food",
+        "href": "/food/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5",
+        "date": "2026-11-04T09:37:27+08:00",
+        "readingTime": 14,
+        "image": "/article-images/food/eel-noodles-soup-bowl-2016.webp"
       },
       {
-        "title": "台灣公投制度：1947 年就寫進憲法，等了 56 年才等到一部法",
-        "desc": "2026 年 11 月 28 日的九合一選舉，同時要投一張公投票——中選會審議後只有「廢除非核家園」一案成案，編號第 22 案，主委游盈隆估計開票要開到隔日凌晨 2 時。這條線往回追，是 1947 年憲法裡就寫下的創制與複決、2003 年才立法的公投法、2018 年十案綁大選的排隊夜晚，以及 2019 年把公投和大選分開、2025 年又綁回來的鐘擺。",
-        "category": "politics",
-        "href": "/politics/%E5%8F%B0%E7%81%A3%E5%85%AC%E6%8A%95%E5%88%B6%E5%BA%A6",
-        "date": "2026-11-02T09:34:49+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "309 本里長帳簿：花三萬和花十二萬的挑戰者，勝率都是三成",
-        "desc": "彰化市台鳳里一位剛畢業的素人，2022 年拿到 732 票，選完自己貼了 3,275 元。那一年全台 13,988 位村里長候選人裡，只有 309 人在監察院留下政治獻金帳本。把這 309 本帳跟開票結果放在一起算，沒有現任身分的挑戰者，花三萬元以下和花十二萬元以上的當選率都落在三成左右——錢量得出一個人在里裡經營了多久，卻很難把挑戰者變成里長。",
-        "category": "politics",
-        "href": "/politics/309%E6%9C%AC%E9%87%8C%E9%95%B7%E5%B8%B3%E7%B0%BF",
-        "date": "2026-11-02T08:55:13+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "九合一選舉是什麼？九種職位、四次升格、三十年的地方自治演化史",
-        "desc": "「九合一」這個詞 2014 年第一次被廣泛使用，背後是 1967 北高升格、1979 高雄升格、2010 五都升格、2014 桃園升格四次城市地理重組，跟 1994 直轄市長首次民選、1999《地方制度法》整合、2014 山地原住民區長新設三個制度節點。同日投票九種職位 — 直轄市長 / 直轄市議員 / 縣市長 / 縣市議員 / 鄉鎮市長 / 鄉鎮市民代表 / 山地原住民區長 / 山地原住民區民代表 / 村里長 — 是台灣三十年地方自治演化的累積結晶。",
-        "category": "politics",
-        "href": "/politics/%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89%E6%98%AF%E4%BB%80%E9%BA%BC",
-        "date": "2026-11-02T08:55:13+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "村里長制度：7,748 個民選首長，台灣最基層的政治單元",
-        "desc": "凌晨五點半的里辦公處、5 萬 4 月支事務補助、超過六成無黨籍 — 村里長是台灣選舉中最不像「政治」的政治職位，也是台灣民主化最完整的證據。從日治保甲到 1950 直選，這個全台 7,748 個比 7-Eleven 還多的職位，運轉著八十年的在地關係代理。",
-        "category": "politics",
-        "href": "/politics/%E6%9D%91%E9%87%8C%E9%95%B7%E5%88%B6%E5%BA%A6",
-        "date": "2026-11-02T08:55:13+08:00",
+        "title": "台灣小吃",
+        "desc": "1987年春水堂的一個失誤，讓珍珠奶茶走進60國市場。台灣小吃從清代移民的生存工具，到今天23.3萬個攤位撐起的4000億產業：它的成功方程式不是精緻化，而是那種「管它的，先試試看」的草根勇氣。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83",
+        "date": "2026-11-04T09:27:00+08:00",
         "readingTime": 12,
-        "image": ""
+        "image": "/article-images/food/raohe-street-night-market-entrance-2017.webp"
       },
       {
-        "title": "金馬獎：從只收國語片到不問國籍，自家電影常輸也不把門關上",
-        "desc": "1963 年，反串梁山伯的香港演員凌波來台北領獎，評審拿不定該給影帝還是影后，另開了一個特別獎。這座 1962 年只收國語片、要「配合國策」的獎，後來一屆一屆放寬誰能報名，1996 年納入大陸片，2007 年起不以華語為主的片也能報名。台灣片常因此在自家輸掉最佳劇情片，門沒有關回去。第 63 屆 11 月 22 日揭曉。",
-        "category": "art",
-        "href": "/art/%E9%87%91%E9%A6%AC%E7%8D%8E",
-        "date": "2026-11-02T07:09:36+08:00",
+        "title": "台灣鹽酥雞",
+        "desc": "1975 年，一個餐廳經營失敗的台南人陳廷智在西門町擺起推車，用祖傳醃料炸雞塊。五十年後，鹽酥雞成了台灣少數不需要夜市、不需要店面、只靠一台推車和一鍋油就能存活的小吃——CNN 兩度將它列入台灣必吃清單，但它最正宗的吃法，永遠是半夜在路邊等那個紙袋。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E9%B9%BD%E9%85%A5%E9%9B%9E",
+        "date": "2026-11-04T09:27:00+08:00",
         "readingTime": null,
-        "image": "/article-images/art/golden-horse-a-foggy-tale-best-film-2025.webp"
-      },
-      {
-        "title": "金鐘獎：三台輪了十七年之後，台灣每年替「我們的電視」劃一次線",
-        "desc": "2022 年 10 月 22 日，陳亞蘭穿著西裝走上國父紀念館的台，用歌仔戲小生拿下戲劇節目男主角獎，五十七年來第一位女性。這座 1965 年為廣播鑄的鐘，有十七年只在台視、中視、華視三個名字之間輪；後來公視、客家劇、越南演員一個一個走進名單。金鐘每年頒的是演技，真正劃的是一條線：誰算得上台灣的電視，誰還在線外。",
-        "category": "culture",
-        "href": "/culture/%E9%87%91%E9%90%98%E7%8D%8E",
-        "date": "2026-11-02T06:41:10+08:00",
-        "readingTime": 15,
-        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
-      },
-      {
-        "title": "台灣國片：銀幕旁那個說話的人，和一部死了又活的電影史",
-        "desc": "1930 年戲院裡，辯士站在銀幕旁用台語替默片即興口白；九十年後，《海角七號》讓五種語言一起回到銀幕上。台語片曾是全球第三大劇情片產國卻被掐死，新電影在威尼斯拿金獅的那些年，戲院裡的國片票房卻跌到只剩 0.36%。國片不是一條從爛到好的直線，是一部反覆被宣告死亡又活過來的歷史。",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1",
-        "date": "2026-11-02T06:41:10+08:00",
-        "readingTime": 18,
-        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
-      },
-      {
-        "title": "金曲獎：台灣替自己的音樂頒獎，和三十五年來那些記一輩子的時刻",
-        "desc": "2024 年小巨蛋，草東二度封神，經紀人代領，全場為一個離世的鼓手靜默。三十五年來，金曲獎從蔡琴一封手寫信長成國家級典禮，加冕過周杰倫的范特西、張惠妹的入圍 14 次，也把最高榮譽給了台語、客語、原住民語的歌。這是台灣替自己的音樂頒獎、決定什麼聲音值得被記住的地方。",
-        "category": "music",
-        "href": "/music/%E9%87%91%E6%9B%B2%E7%8D%8E",
-        "date": "2026-11-02T06:41:10+08:00",
-        "readingTime": 16,
-        "image": "/article-images/music/golden-melody-awards-2021.webp"
-      },
-      {
-        "title": "從金馬獎到漢光演習：台灣男人的集體成年禮與生存演練",
-        "desc": "1945年至今，台灣兵役從三年縮短至四個月，又在2024年回歸一年制。這場涉及數百萬人的集體記憶，不僅是「么兩三四五六拐八勾洞」的口令，更是這座島嶼在灰色地帶下的生存張力。",
-        "category": "society",
-        "href": "/society/%E7%95%B6%E5%85%B5",
-        "date": "2026-11-02T06:41:10+08:00",
-        "readingTime": 12,
         "image": ""
       },
       {
-        "title": "竹山：前山第一城，後來把名字交給竹子",
-        "desc": "南投縣西南角的竹山鎮，清代叫林圯埔，曾是雲林縣城所在、號稱「前山第一城」；1920 年才因竹林密布改名竹山。這座近五萬人的小鎮，把明鄭屯墾、濁水溪義渡、竹排船伕、竹編傳習所、921 地震與一間舊客運站的改造，疊在同一條時間線上。",
+        "title": "地瓜球的由來：中正橋下的一則故事，和攤販在油鍋前壓出來的空心",
+        "desc": "地瓜球的由來，流傳最廣的是一則故事：新北中正橋下，退休長者的地瓜田被怪手挖壞，他把地瓜炸了拿去夜市賣，「後來經過改良」才成了地瓜球。故事講到這裡為止，油鍋前的功夫還在繼續：2019 年前後入行的劉在泓起初只壓七、八下，代班時被朋友糾正改壓二、三十下。社子夜市口一攤，則一粒一粒碾成紮實的。",
+        "category": "food",
+        "href": "/food/%E5%9C%B0%E7%93%9C%E7%90%83",
+        "date": "2026-11-04T09:27:00+08:00",
+        "readingTime": 12,
+        "image": "/article-images/food/digua-qiu-taitung-night-market-2021.webp"
+      },
+      {
+        "title": "奇拿富（cinavu）：排灣族的葉包小米，和那層要一起吃下去的假酸漿葉",
+        "desc": "2019 年，排灣族兒童合唱團泰武古謠傳唱把一份 cinavu 食譜帶到澳洲，材料表上的假酸漿沒有譯成英文，直接寫成拼音 jiasuanjiang。奇拿富（吉拿富）是排灣族用小米或芋頭粉包豬肉、裹兩層葉子蒸煮的食物，各部落叫法和做法不一。外界常叫它原住民粽子，它跟粽子分開的地方，在貼著米的那層假酸漿葉要一起吃下去。",
+        "category": "food",
+        "href": "/food/%E5%A5%87%E6%8B%BF%E5%AF%8C",
+        "date": "2026-11-04T08:53:15+08:00",
+        "readingTime": 13,
+        "image": "/article-images/food/cinavu-paiwan-beiyeh-cut-2024.webp"
+      },
+      {
+        "title": "高雄加工出口區：把台灣送進世界的 72 公頃工業試驗場",
+        "desc": "1966 年成立的高雄加工出口區，把免稅、單一窗口與出口訂單壓縮進一座園區，也讓女工、外資與技術共同寫出台灣全球化的起點。",
+        "category": "history",
+        "href": "/history/%E9%AB%98%E9%9B%84%E5%8A%A0%E5%B7%A5%E5%87%BA%E5%8F%A3%E5%8D%80",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/history/kaohsiung-port-map.svg"
+      },
+      {
+        "title": "西螺：紅橋是地標，醬油才是日常",
+        "desc": "濁水溪南岸的西螺鎮，把黑豆醬油的 180 天、延平老街 1920 年代的巴洛克街屋、三百年的太平媽、清代移民的七崁武館與一座紅色大橋，疊在同一座四萬人的小鎮裡。外地人記住的是橋，在地人過的是醬油的日子。這篇文章把產業、信仰與地方記憶放回同一條時間線。",
         "category": "geography",
-        "href": "/geography/%E7%AB%B9%E5%B1%B1%E9%8E%AE",
-        "date": "2026-11-01T14:36:01+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "從「殺狗之島」到零撲殺：台灣動物保護的四十年救贖路",
-        "desc": "1990年代，台灣因殘酷對待流浪犬被國際稱為「殺狗之島」，日本機場甚至出現抵制觀光的看板。從1998年《動保法》立法到2017年全面零撲殺，這是一場關於生命價值重新定義的社會運動。",
-        "category": "history",
-        "href": "/history/%E5%8B%95%E4%BF%9D",
-        "date": "2026-10-31T08:40:42+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "八點檔：一支番仔火，燒出台灣客廳的邪典與鄉愁",
-        "desc": "從1990年代的瓊瑤苦情到2000年代的霹靂火迷因，八點檔不僅是台灣人的環境背景音，更是與現實同步的「即拍即播」工業奇蹟。",
-        "category": "culture",
-        "href": "/culture/%E5%85%AB%E9%BB%9E%E6%AA%94",
-        "date": "2026-10-31T08:40:42+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "樹林紅麴：酒廠走了，菌還留在香腸裡",
-        "desc": "樹林曾是全台灣唯一的紅麴製造工場，紅露酒的故鄉。2004 年酒廠走入歷史，原址成了科技園區，但紅麴以香腸、醬料與文化節的形式，繼續在樹林的街道上發酵。",
-        "category": "food",
-        "href": "/food/%E7%B4%85%E9%BA%B4",
-        "date": "2026-10-31T08:40:42+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "檳榔：從神聖果實到致癌物，一顆果子裡的階級與土地縮影",
-        "desc": "1976年，南投草屯的檳榔攤開啟了「檳榔西施」的時代。這顆曾是原住民神聖祭品、漢人「洗瘴丹」的綠色果實，如今卻因健康與環保爭議，成為台灣社會階級與土地矛盾的縮影。",
-        "category": "society",
-        "href": "/society/%E6%AA%B3%E6%A6%94",
-        "date": "2026-10-31T08:40:42+08:00",
+        "href": "/geography/%E8%A5%BF%E8%9E%BA%E9%8E%AE",
+        "date": "2026-11-04T08:34:43+08:00",
         "readingTime": 8,
-        "image": ""
+        "image": "/article-images/geography/xiluo-township-bridge.webp"
       },
       {
-        "title": "小北百貨：深夜燈火裡的台灣雜貨王，從海產攤到「家長救星」的三十年",
-        "desc": "1994年發跡於台南小北夜市，小北百貨憑藉「24小時營業」與「賣別人不賣的貨」的經營策略，從一家瀕臨倒閉的海產店轉型為全台超過190家門市的五金龍頭。它是家長的深夜救星，也是移工的鄉愁補給站，更是台灣零售業最頑強的生存奇蹟。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8",
-        "date": "2026-10-31T08:40:42+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "黑松汽水與沙士：從被嘲笑的「三流貨」到擊退可樂霸主",
-        "desc": "這不是一瓶普通的碳酸飲料，而是一段台灣民族資本在日治統制與全球化浪潮中，如何靠著「17元資產」與「我的未來不是夢」活下來的生存史。",
+        "title": "叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現",
+        "desc": "1947 年，新竹芎林的范揚開在放學後背著約 2.5 公斤的冰桶賣冰。1950 至 1970 年代，腳踏車小販用一枚橡膠球喇叭把冰送進巷子。從港口製冰、澱粉口感到孩子承擔的融冰風險，叭噗保存的不是三色外觀，而是一種靠聲音、器物與勞動讓食物遇見人的方法。",
         "category": "food",
-        "href": "/food/%E9%BB%91%E6%9D%BE",
-        "date": "2026-10-31T08:40:34+08:00",
+        "href": "/food/%E5%8F%AD%E5%99%97%E5%86%B0",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 13,
+        "image": "/article-images/food/babu-ice-cart-vendor-1987.webp"
+      },
+      {
+        "title": "台灣黑熊",
+        "desc": "2011–2025 年監測紀錄從 17 個鄉鎮擴至 27 個，2026 年初估約 1,200 隻但仍待本地密度資料校正。本文從食性、研究、獸夾、棲地廊道與登山行為，整理這種台灣特有亞種如何走到人類身邊，以及我們如何把距離留給彼此。文章也拆開族群估計、發現紀錄與個體辨識的差異，說明保育如何從山區監測延伸到社區食物管理與國家公園的日常。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A",
+        "date": "2026-11-04T08:34:43+08:00",
         "readingTime": 12,
-        "image": ""
+        "image": "/article-images/nature/naan-visitor-center-black-bear-display.webp"
       },
       {
-        "title": "八田與一：從水利工程到「咬人大圳」，技術官僚的殖民印記",
-        "desc": "1920年代，日本工程師八田與一在台灣嘉南平原興建烏山頭水庫與嘉南大圳。這項世界級工程在帶來農業豐收的同時，也因其殖民剝削本質與農民沉重負擔，被部分農民稱為「咬人大圳」。本文將深入探討八田與一的功過、其管理哲學的兩面性，以及這段歷史在台灣社會留下的複雜印記。",
-        "category": "people",
-        "href": "/people/%E5%85%AB%E7%94%B0%E8%88%87%E4%B8%80",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "吳百福（安藤百福）：從嘉義朴子到全球餐桌，台灣基因與日本包裝",
-        "desc": "1961年，安藤百福以2300萬日圓買下張國文的泡麵專利申請權。這不僅是一場商業交易，更是一場關於發明定義權的跨國角力。這位出身嘉義朴子的企業家，將台灣傳統雞絲麵的靈魂轉化為日本國民食，並透過「合味道」杯麵徹底改變全球飲食習慣。本文深入探討他在日治台灣的創業起點、戰後入獄的體悟、以及身份與家庭在兩國間的糾葛。",
-        "category": "people",
-        "href": "/people/%E5%90%B3%E7%99%BE%E7%A6%8F",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "江蕙：北投那卡西出身的臺語歌手",
-        "desc": "江蕙（本名江淑惠，1961 年生於高雄）9 歲隨家人連夜搬到臺北，到北投那卡西走唱。1992 年《酒後的心聲》在臺灣賣出 116 萬張，是官方紀錄中唯一破百萬的臺語專輯。2000 至 2003 年連拿四屆金曲獎臺語女演唱人，2015 年封麥，2024 年在大巨蛋國慶晚會復出。",
-        "category": "people",
-        "href": "/people/%E6%B1%9F%E8%95%99",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": 3,
-        "image": ""
-      },
-      {
-        "title": "台灣全齡共融旅遊與生活文化：當人情味成為無障礙設施",
-        "desc": "從家庭視角觀察台灣社會如何透過人情味與共融設施，在邁向超高齡社會的路上，重新定義「一家人一起旅行」的意義。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E5%85%A8%E9%BD%A1%E5%85%B1%E8%9E%8D%E6%97%85%E9%81%8A%E8%88%87%E7%94%9F%E6%B4%BB%E6%96%87%E5%8C%96",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "競技疊杯：從 1.915 秒的網拍「潮物」到橫掃亞洲的 43 面金牌",
-        "desc": "2025 年台灣代表隊在大連亞洲盃奪下 43 金並刷新 7 項世界紀錄，讓這項曾被譏諷為「疊有洞杯子」的運動，成為台灣最具統治力的競技項目。從林孟欣到賽德克族少女莎瑪巴紹，台灣疊杯不僅追求 0.001 秒的極限，更在特教復健與普特融合教育中疊出社會新高度。",
-        "category": "society",
-        "href": "/society/%E7%96%8A%E6%9D%AF",
-        "date": "2026-10-31T08:40:34+08:00",
+        "title": "杉林溪：一座瀑布，如何把伐木林場帶回森林",
+        "desc": "從南投竹山的『溪底』、伐木運材與九二一震災，到松瀧岩瀑布、台灣杜鵑與自然教育，杉林溪的山谷如何重新學會和水一起生活。",
+        "category": "nature",
+        "href": "/nature/%E6%9D%89%E6%9E%97%E6%BA%AA",
+        "date": "2026-11-04T08:34:43+08:00",
         "readingTime": 10,
-        "image": ""
+        "image": "/article-images/nature/sun-link-sea-forest-valley.webp"
       },
       {
-        "title": "中鋼：鐵頭部長與十大建設的鋼鐵脊樑",
-        "desc": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E9%8B%BC",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": null,
-        "image": ""
+        "title": "Joeman：從電競賽評到百萬頻道，鏡頭裡的長期創作者",
+        "desc": "從電競賽評與微星產品經理，到以開箱、比較、旅遊與團隊節目經營頻道；Joeman 的路徑，也記錄台灣 YouTuber 如何在流量、分工、信任與公共責任之間調整自己。",
+        "category": "people",
+        "href": "/people/Joeman",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 10,
+        "image": "/article-images/people/joeman-portrait-desk-2017.webp"
       },
       {
-        "title": "台泥：台灣第一上市公司的綠色轉型",
-        "desc": "1962年台灣證交所為它而生，股票代號1101象徵台股起源。從辜家三代經營76年，台泥用一座座水泥窯見證台灣建設奇蹟，如今轉型綠色企業迎戰碳中和時代",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E6%B3%A5",
-        "date": "2026-10-31T08:40:34+08:00",
-        "readingTime": null,
+        "title": "周天成：台灣羽球一哥，揮出世界第二的高度",
+        "desc": "台灣男單第一個世界第二、第一個打敗球王林丹的人。從加入國家隊連吞十敗的低潮、盲腸炎穿孔後受洗成為基督徒，到 2023 年 34 歲查出初期大腸癌、開刀後沒幾天就照常出國征戰卻硬扛近一年低潮，隔年在巴黎奧運打進八強。周天成不靠天賦碾壓，用一種叫「磨」的拉吊纏鬥球風，把台灣羽球能站多高的答案一路往上抬。",
+        "category": "people",
+        "href": "/people/%E5%91%A8%E5%A4%A9%E6%88%90",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 14,
+        "image": "/article-images/people/chou-tien-chen-taipei-open-2018.webp"
+      },
+      {
+        "title": "呱吉：從「選里長」企劃到「上班不要看」熄燈，政治實驗留下了什麼",
+        "desc": "呱吉把原本打算拍成實境秀的選里長企劃，推進成一場從網路走進議會的民主開箱。他的故事不只關於網紅參政，也關於個人魅力如何變成公共溝通，以及一個內容團隊如何在流量、政治表態與組織成本之間耗盡。",
+        "category": "people",
+        "href": "/people/%E5%91%B1%E5%90%89",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 12,
+        "image": "/article-images/people/taipei-city-council-hall-front-view-20201031.webp"
+      },
+      {
+        "title": "彎彎：胡家瑋替 MSN 世代畫的光頭人，和讓它「變成歷史人物」的決定",
+        "desc": "彎彎本名胡家瑋，是台灣網路圖文創作的開山鼻祖。2000 年代初，她畫的光頭人被上班族換上 MSN 大頭貼，替他們喊出「我想下班」；2007 年她的部落格成為台灣第一個瀏覽人次破億的部落格，後來又跨進 LINE 貼圖與 WEBTOON。當了媽媽之後，她的創作轉向親子日常，也決定讓永遠不老的光頭人跟自己一起退場，「變成歷史人物」。",
+        "category": "people",
+        "href": "/people/%E5%BD%8E%E5%BD%8E",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/wanwan-2008-book-fair.webp"
+      },
+      {
+        "title": "百靈果 News：把世界新聞塞進台灣人的耳機",
+        "desc": "凱莉與 Ken 如何用雙語、笑聲與不避立場的聊天，把陌生的國際新聞變成台灣人願意聽完、也必須重新思考的日常。",
+        "category": "people",
+        "href": "/people/%E7%99%BE%E9%9D%88%E6%9E%9C%20News",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/bailingguo-news-podcast-headphones.webp"
+      },
+      {
+        "title": "蔣經國：把威權的門推開一條縫的人",
+        "desc": "蔣經國既是戒嚴體制的掌舵者，也是晚年啟動解嚴與政治開放的人；理解這個矛盾，才能看見台灣民主不是誰恩賜的終點。",
+        "category": "people",
+        "href": "/people/%E8%94%A3%E7%B6%93%E5%9C%8B",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chiang-ching-kuo-portrait.webp"
+      },
+      {
+        "title": "諸葛四郎：紅衣少年如何穿過審查，走回台灣人的童年",
+        "desc": "1958 年，葉宏甲在《漫畫大王》畫出諸葛四郎。這個穿紅衣、拿寶劍的少年，先在白色恐怖後的出版市場成為孩子的英雄，後又被漫畫審查制度逼到沉默。從手稿、尪仔標到 2022 年動畫，諸葛四郎留下的不是懷舊而已，而是一段台灣原創如何被壓低、保存，再重新被看見的歷史。",
+        "category": "people",
+        "href": "/people/%E8%AB%B8%E8%91%9B%E5%9B%9B%E9%83%8E",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp"
+      },
+      {
+        "title": "陳文郁：一顆種子，如何成為台灣農業的外交官",
+        "desc": "從鳳山試驗所、鳳山一號無籽西瓜到農友種苗，陳文郁把育種做成一種讓農民先獲得更好生活的台灣軟實力。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E6%96%87%E9%83%81",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chen-wen-yu-1.webp"
+      },
+      {
+        "title": "館長：一間健身房如何長成一支政治麥克風",
+        "desc": "陳之漢以成吉思汗健身俱樂部創辦人「館長」成名，再用長時間直播把健身、商業與政治揉成同一個個人品牌。從早期反紅媒動員，到 2025 年以和平大使身分赴中直播，這條路線如何被描述，仍需要把人物自述、媒體報導、官方說法與觀眾解讀分開保存。",
+        "category": "people",
+        "href": "/people/%E9%A4%A8%E9%95%B7%E9%99%B3%E4%B9%8B%E6%BC%A2",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 10,
+        "image": "/article-images/people/holger-chen-ketagalan-2025.webp"
+      },
+      {
+        "title": "冷氣不是奢侈品：台灣能源貧窮與居住熱安全的公共治理",
+        "desc": "台灣的能源貧窮不只代表付不起電費，也包括住在隔熱不良的老屋、使用高耗能家電、害怕開冷氣，以及在高溫中被迫用健康換取帳單可負擔。本文從能源支出、住宅條件與熱傷害交會處，重建台灣能源貧窮的問題，並提出以居住熱安全、到府診斷、社區改造與資料治理為核心的政策方向，說明能源轉型如何兼顧弱勢家戶的生活尊嚴與健康安全。",
+        "category": "society",
+        "href": "/society/%E5%86%B7%E6%B0%A3%E8%88%87%E8%83%BD%E6%BA%90%E8%B2%A7%E7%AA%AE%E8%AD%B0%E9%A1%8C",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-old-apartment-cc0.webp"
+      },
+      {
+        "title": "台灣排隊：從被要求的秩序，到彼此守住的公平",
+        "desc": "1979 年台北市曾把排隊寫進都市治理；捷運月台、餐廳叫號機與熱門小吃前的隊伍，後來把這套身體紀律改造成日常服務的公平語言。排隊看似浪費時間，卻讓陌生人共享一條看得見的規則。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E6%8E%92%E9%9A%8A",
+        "date": "2026-11-04T08:34:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/lifestyle/paidui-taipei-station-platform.webp"
+      },
+      {
+        "title": "台灣原住民飲食文化",
+        "desc": "從 AKAME 的火焰到阿美族的野菜宇宙——台灣原住民飲食如何在三千年後重新點燃世界的目光",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
+        "date": "2026-11-04T08:34:25+08:00",
+        "readingTime": 12,
+        "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
+      },
+      {
+        "title": "八二三砲戰：四十四天砲火，留下二十年的金門日常",
+        "desc": "1958年8月23日，金門在85分鐘內接下三萬多發砲彈。四十四天後，砲火沒有真正離開，單打雙不打延續到1979年。這場戰爭不只改變臺海戰略，也把居民、學生與遷徙家庭留在戰地記憶裡。在砲彈與疏遷之間，金門成了以規律承受不安的島，也留下戰地保存最難回答的問題：記住勝利，是否也記住平民的代價？",
+        "category": "history",
+        "href": "/history/823%E7%A0%B2%E6%88%B0",
+        "date": "2026-11-04T08:32:06+08:00",
+        "readingTime": 12,
         "image": ""
       }
     ],
     "en": [
+      {
+        "title": "ASUS (ASUSTeK): A Taiwanese Brand, From a Taipei Apartment in 1989 to the World's Top Motherboard Maker",
+        "desc": "ASUS is a Taiwanese company. Four former Acer engineers founded it in 1989 in an apartment on Minsheng East Road in Taipei, with NT$10 million in capital. It holds over 40% of the global motherboard market, first for 15 straight years, and ranks fifth in PC shipments. ASUS committed to its own brand early and spun off its contract manufacturing as Pegatron in 2008.",
+        "category": "economy",
+        "href": "/en/economy/asus-computer",
+        "date": "2026-11-04T08:31:33+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "PX Mart: The Counterattack from a \"Grungy Welfare Store\" to Taiwan's Retail King",
+        "desc": "In 1998, Lin Min-hsiung took over 66 \"grungy welfare stations,\" relying on the iron discipline of \"20% cheaper, 2% profit\" to expand to 1,200 stores within twenty-five years. This was not just a retail revolution, but the legend of how an real estate tycoon turned a supermarket into Taiwan's high-frequency living platform through a logic of \"giving concessions.\"",
+        "category": "economy",
+        "href": "/en/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "The Kaohsiung Incident (Formosa Incident), 1979: The Military Trial That Backfired",
+        "desc": "On December 10, 1979, a Human Rights Day rally in Kaohsiung organized by Formosa Magazine ended in clashes and more than 150 arrests. The 1980 military trial was meant to crush the opposition, but press coverage carried the defendants' words across Taiwan. Seven of the eight defendants later led the DPP, and their lawyers went on to become a president and premiers.",
+        "category": "history",
+        "href": "/en/history/kaohsiung-incident-formosa-incident",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Tzuyu and the 2016 Flag Incident: A TWICE Member From Tainan and Ten Years of Silence",
+        "desc": "Tzuyu (Chou Tzu-yu) of TWICE was born in Tainan, Taiwan, in 1999. In November 2015 she held a Republic of China flag on Korean TV for 8 seconds; in January 2016, on the eve of Taiwan's presidential election, JYP released her 90-second apology video. She never said a word about those 90 seconds. Ten years later, in Kaohsiung, she read 55,000 fans a handwritten letter about why she stayed.",
+        "category": "people",
+        "href": "/en/people/tzuyu",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "The Taiwanese Diaspora: Two Million Abroad, From Exiled Students to Silicon Valley Engineers",
+        "desc": "About two million Taiwanese citizens live abroad, and Taiwan still has no absentee voting, so every election they must fly home to vote. This map of the Taiwanese diaspora runs from 1960s political exiles in the US and FAPA, founded in Los Angeles in 1982, to Silicon Valley engineers who carried knowledge home and second-generation Taiwanese abroad working out who they are.",
+        "category": "society",
+        "href": "/en/society/taiwanese-overseas-and-diaspora",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Taiwan's Fuel Pricing and CPC: The NT$36 Saved at the Pump Goes on the State Oil Company's Tab",
+        "desc": "On March 22, 2026, a woman in Yunlin saved NT$36 by filling up before a price hike — the same day the Premier said people should thank CPC at the pump. From the 2008 freeze to this year’s war-driven surge, Taiwan lets this state company, at a 93% debt ratio, absorb spikes first and recoup them via supplementary budgets. Savings split evenly per liter; who benefits most has never been tallied.",
+        "category": "economy",
+        "href": "/en/economy/taiwan-fuel-pricing-and-cpc",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/cpc-tainan-chenggong-station-2023.webp"
+      },
       {
         "title": "Chen Chih-chung: Elected to the Kaohsiung City Council Three Times, Two Terms Ended Due to Legal Provisions",
         "desc": "On August 18, 2008, as orientation began at the University of Virginia School of Law, Chen Chih-chung, who was preparing to pursue a J.D., failed to appear and lost his eligibility for admission that very day. Since then, the Qianzhen-Xiaogang district in Kaohsiung has elected him to the City Council three times; however, two of those terms ended the moment his sentences were finalized, during which time he served 272 days in prison. The final ruling in April 2023 did not include a deprivation of civil rights. Yet, the \"blacklisted\" clause of the Public Officials Election and Recall Act, which passed its third reading a month later, prevented him from registering as a candidate again.",
@@ -417,7 +471,7 @@
         "href": "/en/people/chou-tien-chen-badminton",
         "date": "2026-10-23T00:55:01+08:00",
         "readingTime": 14,
-        "image": ""
+        "image": "/article-images/people/chou-tien-chen-taipei-open-2018.webp"
       },
       {
         "title": "Brigitte Lin",
@@ -490,60 +544,6 @@
         "date": "2026-10-21T19:44:30+08:00",
         "readingTime": 13,
         "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
-      },
-      {
-        "title": "The Little Tigers: Bought Melodies, Filled with Our Own Youth",
-        "desc": "In 1988, a Chinese Television Agency (CTV) talent show sought three boys to accompany the girl group Little Cats; the result was an idol group covering Japanese songs and imitating Japan's Shonentai. From selling 200,000 copies in five days to being chased by fans from Taipei to Kaohsiung, and finally crossing the Strait in 1991: almost all parts were imported, yet Taiwan remembered it as the most solid generation of youth. The three most popular bodies later crossed the Strait as well.",
-        "category": "music",
-        "href": "/en/music/little-tigers-taiwan-boy-band",
-        "date": "2026-10-21T09:01:57+08:00",
-        "readingTime": 16,
-        "image": "/article-images/music/little-tigers-xiaoyaoyou-album.webp"
-      },
-      {
-        "title": "Taiwanese \"Handy Dishes\": The Meaning, Origin, and Signature Cuisine of Banquet Culture",
-        "desc": "_Tshiú-lōo-tshài_ (handy dishes) means \"signature cuisine.\" In Neimen, Kaohsiung—where loamy soil cannot grow crops but instead raised the densest group of caterers in Taiwan—a single company hosted 25,000 banquets a year during its golden age. The final broth from one pot could take four to eight hours to perfect, and the entire village knew if it was good or not the next day.",
-        "category": "food",
-        "href": "/en/food/taiwan-specialty-home-cooking",
-        "date": "2026-10-21T08:02:47+00:00",
-        "readingTime": null,
-        "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
-      },
-      {
-        "title": "Moriyama Matsunosuke: Drawing Taiwan's Official Face with Three Prefectural Halls and a Courthouse",
-        "desc": "In 1906, a Tokyo Imperial University graduate from an Osaka merchant family arrived in Taiwan as a consultant and designed the first fully reinforced-concrete building in the entire Japanese Empire. Over the next fifteen years, Moriyama Matsunosuke completed the Taipei Prefectural Hall, Taichung Prefectural Hall, Tainan Prefectural Hall, Tainan Courthouse, the Monopoly Bureau, the Railway Ministry, and the Taiwan Governor-General's Office. His handling of asymmetrical sites, composite columns, and dual circulation patterns gave concrete form to colonial government authority, leaving behind three red-brick halls that today house the Control Yuan, Taichung City Government offices, and the National Taiwan Literature Museum.",
-        "category": "history",
-        "href": "/en/history/moriyama-matsunosuke-prefectural-halls",
-        "date": "2026-10-20T02:01:10+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "National Taichung Theater: Toyo Ito's \"Sound Cave\" and the Structural Revolution of Column-Free Curved Walls",
-        "desc": "Designed by Pritzker Prize winner Toyo Ito and hailed as \"the world's most difficult building to construct,\" the National Taichung Theater redefines Taiwan's modern architectural history and aesthetic imagination through its column-free curved walls and cave-like spatial aesthetics.",
-        "category": "art",
-        "href": "/en/art/national-taichung-theater",
-        "date": "2026-10-16T08:52:43+08:00",
-        "readingTime": 25,
-        "image": "/article-images/art/national-taichung-theater-2017.webp"
-      },
-      {
-        "title": "A History of Environmental Movements in Taiwan",
-        "desc": "The developmental trajectory of Taiwan's environmental movement, from 1980s anti-pollution protests to recent plastic reduction campaigns, witnessing the intersection of environmental awareness and democratization.",
-        "category": "nature",
-        "href": "/en/nature/taiwan-environmental-movement-history",
-        "date": "2026-10-15T08:58:14+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "The Formosa Incident",
-        "desc": "A military trial that was supposed to completely collapse the opposition movement unexpectedly became the most powerful propaganda film for Taiwan's democracy due to its broadcast.",
-        "category": "history",
-        "href": "/en/history/kaohsiung-incident-formosa-incident",
-        "date": "2026-10-10T23:40:25+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ja": [
@@ -820,6 +820,15 @@
     ],
     "ko": [
       {
+        "title": "PX Mart(全聯福利中心): 칙칙한 복지점에서 타이완 소매업의 왕으로 거듭나다",
+        "desc": "1998년 린민슝(林敏雄)이 66개 '칙칙하고 지저분한' 군공교 복지점들을 인수한 후, '20% 저렴, 2% 이윤'이라는 강철 같은 규율로 25년 만에 1,200개 매장으로 확장했다. 이는 단순한 소매 혁명이 아니라, 한 건축 거물이 '할인' 논리로 슈퍼마켓을 타이완 국민의 고빈도 생활 플랫폼으로 만든 전설이다.",
+        "category": "economy",
+        "href": "/ko/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
         "title": "염수 봉포: 한 포성 도시, 어떻게 역병의 기억을 염수 거리 위에 남겼는가",
         "desc": "염수 봉포는 단순한 원소절 밤의 불꽃놀이 기적이 아니라, 관제 신앙, 포성 공예, 지역 협력 및 공공 안전이 함께 지탱하는 대만의 민속이다.",
         "category": "culture",
@@ -1079,18 +1088,18 @@
         "date": "2026-10-31T08:41:15+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "이란현: 두 번의 선택으로 운명을 결정짓고, 란양평원은 다시 돌아오지 않았다",
-        "desc": "1987년 12월 13일, 천딩난이 화시 스튜디오에서 왕융칭을 상대하며 육경(六輕)을 란양평원 밖으로 막아냈다. 19년 후인 2006년 6월 16일, 설산터널이 개통되면서 타이베이에서 이란까지의 이동 시간이 2시간에서 40분으로 단축되었다. 이후 10년 동안 이 곡창지대에 6,137동의 농가가 건설되었고, 평방미터당 토지 가격은 4,000위안에서 20,000위안으로 뛰었다. 2023년 이란현은 전 타이완 농가 건축 허가 중 35%를 차지하는 건수를 기록했다. 한 지역이 역사적 분기점에서 두 번의 선택을 했고, 란양평원은 대가와 선물을 함께 받아들였다.",
-        "category": "geography",
-        "href": "/ko/geography/yilan-county",
-        "date": "2026-10-31T08:40:59+08:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/yilan-hero.webp"
       }
     ],
     "es": [
+      {
+        "title": "ASUS Computer (ASUS): el gigante tecnológico que nació de las placas base",
+        "desc": "ASUS es una marca taiwanesa: la fundaron cuatro ingenieros en Taipéi en 1989 y pasó de fabricar placas base a ser el quinto mayor proveedor mundial de computadoras personales.",
+        "category": "economy",
+        "href": "/es/economy/asus-computer",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Chih-chung: elegido tres veces al Concejo Municipal de Kaohsiung, dos mandatos terminaron por disposición legal",
         "desc": "El 18 de agosto de 2008 comenzó la orientación para nuevos estudiantes de la Facultad de Derecho de la Universidad de Virginia; Chen Chih-chung, quien iba a cursar el J.D., no se presentó y perdió su admisión ese mismo día. Posteriormente, el distrito de Cianjhen-Siaogang de Kaohsiung lo eligió tres veces para el Concejo Municipal; dos de esos mandatos terminaron en el momento en que las sentencias quedaron firmes, y en el intermedio cumplió 272 días de prisión. La sentencia firme de abril de 2023 no incluía la privación de derechos políticos. Un mes después, la cláusula anti-corrupción de la Ley de Elección y Revocación de Funcionarios Públicos, aprobada en tercera lectura, le impidió volver a registrarse como candidato.",
@@ -1173,8 +1182,8 @@
         "image": ""
       },
       {
-        "title": "Koji rojo de Shulin: La destilería se fue, pero los hongos siguen fermentando en los embutidos",
-        "desc": "Shulin fue una vez la única fábrica de koji rojo de Taiwán, la cuna del vino rojo-lu. En 2004, la destilería cerró sus puertas y el sitio se convirtió en un parque tecnológico, pero el koji rojo sigue fermentando en las calles de Shulin a través de embutidos, salsas y un festival cultural.",
+        "title": "Arroz de levadura roja de Shulin: la fábrica se fue, pero el hongo sigue en las salchichas",
+        "desc": "Shulin fue la única fábrica de arroz de levadura roja en Taiwán y la cuna del licor Honglu. Tras el cierre de la fábrica en 2004, su legado persiste en la gastronomía local y sus festivales culturales.",
         "category": "food",
         "href": "/es/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -1351,18 +1360,18 @@
         "date": "2026-10-10T23:40:32+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Nuevo Taipei: La metrópolis anillada que rodea a Taipéi, con 4.01 millones de personas sosteniendo el transporte, la industria y la memoria de la capital",
-        "desc": "Desde que los españoles construyeron el Fuerte de Danshui en 1628, han pasado 398 años. Esto es 247 años antes de que Shen Baozhen estableciera Taipéi en 1875. Hoy, los 29 distritos de Nuevo Taipei rodean los 12 distritos de la ciudad de Taipéi; 4.01 millones de personas viven en esta municipalidad directa más grande de Taiwán, y 390,000 personas viajan entre condados para trabajar en Taipéi. Pero esta \"metrópolis anillada\" no es una ciudad dormitorio de Taipéi; tiene la familia Lin de Banqiao desde 1853, el té Oolong enviado desde Danshui a Nueva York en 1869, Jingguashan (Jin-gua-shi), la primera mina de oro asiática en los años 1890, el ferrocarril de Pingxi que transportaba carbón en 1929 y las esculturas del Templo Ancestral de Sanxia iniciadas por Li Meishu en 1947, y la tribu Atayal de Wulai. Nuevo Taipei es un microcosmos de los 400 años de Taiwán, justo fuera de la ciudad de Taipéi.",
-        "category": "geography",
-        "href": "/es/geography/new-taipei-city",
-        "date": "2026-10-10T23:40:32+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "PX Mart : De l'hypermarché social délabré au roi taïwanais de la grande distribution, une reprise spectaculaire",
+        "desc": "En 1998, le magnat de l'immobilier **Lin Min-hsiung** reprend 66 « points de vente sociaux » militaires et publics en déclin. Avec une discipline de fer — « 20 % moins cher, 2 % de marge » — il transforme ce réseau en une machine de 1 200 points de vente en 25 ans. Ce n’est pas seulement une révolution du commerce de détail, c’est aussi l’histoire d’un entrepreneur qui a su transformer l’épicerie en une plateforme de vie incontournable pour les Taïwanais.",
+        "category": "economy",
+        "href": "/fr/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Chih-chung : Élu trois fois au conseil municipal de Kaohsiung, deux mandats se sont terminés par la loi",
         "desc": "Le 18 août 2008, la formation des nouveaux étudiants à la faculté de droit de l'Université de Virginie a commencé, et Chen Chih-chung, qui se préparait à poursuivre son J.D., n'a pas comparu ; son droit d'admission a été annulé ce jour-là. Par la suite, Qianzhen et Xiaogang à Kaohsiung l'ont élu trois fois au conseil municipal, dont deux mandats se sont terminés au moment où le jugement est devenu définitif. Entre-temps, il a purgé 272 jours de prison. Le jugement définitif en avril 2023 n'a pas inclus la déchéance des droits politiques. Un mois plus tard, la clause d'exclusion des antécédents judiciaires de la loi électorale adoptée en troisième lecture lui a interdit de s'enregistrer à nouveau comme candidat.",
@@ -1623,18 +1632,18 @@
         "date": "2026-10-10T23:40:35+08:00",
         "readingTime": 9,
         "image": ""
-      },
-      {
-        "title": "Lire une carte de Taïwan : quatre siècles de la patate douce au satellite",
-        "desc": "En 1554, un cartographe portugais dessina sur huit peaux de mouton une île floue nommée « I. Fremosa ». Il n'y avait jamais mis les pieds. Quatre cent soixante-dix ans plus tard, la Taïwan que vous voyez sur Google Maps dépend de l'endroit où vous vous trouvez — ce n'est pas une question technique, c'est une question politique.",
-        "category": "geography",
-        "href": "/fr/geography/how-to-read-the-taiwan-map",
-        "date": "2026-10-10T23:40:35+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "vi": [
+      {
+        "title": "Chuỗi siêu thị PX Mart: Cuộc phục hưng từ cửa hàng phúc lợi \"xấu xí\" đến ông trùm bán lẻ Đài Loan",
+        "desc": "Năm 1998, Lâm Mẫn Hùng tiếp quản 66 cơ sở cung cấp phúc lợi quân đội và giáo dục vốn bị thua lỗ triền miên. Với kỷ luật sắt đá \"giá rẻ 20%, lợi nhuận 2%\", ông đã mở rộng lên 1.200 cửa hàng trong hai mươi lăm năm. Đây không chỉ là một cuộc cách mạng bán lẻ, mà còn là câu chuyện về cách một đại gia bất động sản biến siêu thị thành nền tảng sinh hoạt tần suất cao của người dân Đài Loan bằng logic \"giảm giá\".",
+        "category": "economy",
+        "href": "/vi/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Chi-zhong: Ba lần được bầu vào Hội đồng Thành phố Kaohsiung, hai nhiệm kỳ kết thúc trong văn bản pháp lý",
         "desc": "Ngày 18 tháng 8 năm 2008, đào trình sinh viên năm đầu Học viện Luật Đại học Virginia bắt đầu, nhưng Chen Chi-zhong, dự định học thư sinh J.D., không xuất hiện và tư cách nhập học của ông đã mất vào ngày đó. Sau đó, ở trước sân nhà máy cũ ở Kaohsiung, ông được bầu vào Hội đồng Thành phố ba lần, trong đó hai nhiệm kỳ kết thúc vào khoảnh khắc bản án được xác định, và ông đã phải chịu 272 ngày tù hình. Bản án do tháng 4 năm 2023 đưa ra không tước quyền công dân. Một tháng sau, dự luật Đạo luật Bầu cử và Bãi nghỉễn ứng cử viên được thông qua với ba đọc, khiến ông không thể đăng ký làm ứng cử viên nữa.",
@@ -1895,18 +1904,27 @@
         "date": "2026-10-10T23:43:08+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Formosa: Khi người phương Tây \"khám phá\" một đảo đã có người từ lâu rồi",
-        "desc": "Năm 1704, một người Pháp chưa bao giờ đặt chân đến Á Châu đã đứng trước Hội Hoàng gia Anh, dùng một bộ chữ và tôn giáo tự sáng tác để thuyết phục cả phòng học giả rằng ông là \"người Formosa\". Trò lừa này kéo dài mười năm. Nhưng vấn đề lớn hơn là: khi người Âu nói \"khám phá Formosa\", thì dân tộc Nam Đảo trên đảo đã sống ở đó sáu nghìn năm. \"Khám phá\" là câu chuyện của ai?",
-        "category": "history",
-        "href": "/vi/history/formosa-historical-name",
-        "date": "2026-10-10T23:43:08+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "id": [
+      {
+        "title": "PX Mart: Kebangkitan dari Koperasi Suram Menjadi Raja Ritel Taiwan",
+        "desc": "Pada tahun 1998, Lin Min-hsiung mengambil alih 66 toko koperasi militer dan pegawai negeri yang \"suram\", dan dengan disiplin baja \"murah 20%, laba 2%\", ia memperluasnya hingga 1.200 gerai dalam dua puluh lima tahun. Ini bukan hanya revolusi ritel, tetapi kisah seorang taipan properti mengubah supermarket menjadi platform kehidupan sehari-hari masyarakat Taiwan melalui logika \"memberi keuntungan\".",
+        "category": "economy",
+        "href": "/id/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Komputer ASUS - Raksasa Teknologi dari Papan Induk",
+        "desc": "ASUS adalah merek asal Taiwan. Didirikan pada 1989 oleh empat insinyur di Taipei, perusahaan pembuat papan induk ini tumbuh menjadi pemasok komputer pribadi terbesar kelima di dunia.",
+        "category": "economy",
+        "href": "/id/economy/asus-computer",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Zhi Zhong: Tiga Kali Terpilih ke Dewan Kota Kaohsiung, Dua Kali Masa Jabatan Berakhir di dalam Undang-Undang",
         "desc": "Pada 18 Agustus 2008, pelatihan baru di Fakultas Hukum Universitas Virginia dimulai, dan Chen Zhi Zhong yang akan mempelajari J.D. tidak hadir, sehingga kelayakannya untuk masuk pun hilang pada hari itu. Setelah itu, di area Xinzheng-Xiaogang di Kaohsiung, ia terpilih tiga kali ke dewan kota, di mana dua kali masa jabatannya berakhir pada saat putusan hakim menjadi tetap, dan di antara waktu itu ia menjalani hukuman selama 272 hari. Putusan yang dijadwalkan pada April 2023 tidak mencabut haknya. Sebulan kemudian, ketentuan larangan hitam dalam undang-undang pemilu disetujui dalam tiga pembacaan, yang membuatnya tidak dapat mendaftar sebagai calon lagi.",
@@ -1944,8 +1962,8 @@
         "image": ""
       },
       {
-        "title": "Angkak Shulin: Pabrik Tutup, Ragi Masih Hidup di dalam Sosis",
-        "desc": "Shulin pernah menjadi pabrik pembuatan angkak satu-satunya di seluruh Taiwan, tempat asal Anggur Honglu. Pada 2004, pabrik itu tutup dan lokasinya berubah menjadi kawasan teknologi, namun angkak terus hidup dalam bentuk sosis, saus, dan festival budaya, terus berkembang di jalan-jalan Shulin.",
+        "title": "Ang-kak Shulin: Pabrik Anggur Telah Pergi, Ragi Masih Tersisa di Sosis",
+        "desc": "Shulin pernah menjadi satu-satunya pabrik pembuatan ang-kak di seluruh Taiwan, tempat kelahiran Honglu wine. Pada tahun 2004, pabrik anggur menjadi sejarah, lokasinya berubah menjadi kawasan teknologi, namun ang-kak dalam bentuk sosis, saus, dan festival budaya, terus berkembang di jalan-jalan Shulin.",
         "category": "food",
         "href": "/id/food/shulin-red-yeast-rice",
         "date": "2026-10-31T08:41:15+08:00",
@@ -2158,27 +2176,18 @@
         "date": "2026-10-10T23:45:09+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Chen San-huo: Menyerahkan Pecahan Vas ke Tangan Takdir, Menghidupkan Kembali Jiannian di Atap Kuil",
-        "desc": "Pasca gempa 921 tahun 2002, seniman asal Madou, Tainan, Chen San-huo menemukan pecahan vas di Ciji Gong, Fengyuan, berubah dari murid pemulihan kuil menjadi \"seniman di atap\" yang berkarya dengan keramik bekas. Ia tidak membuat jiannian lebih mirip asalnya, melainkan membiarkan kekacauan, kebetulan, dan bahan daur ulang menentukan bentuk tradisi anew.",
-        "category": "people",
-        "href": "/id/people/chen-san-huo-jiannian-artist",
-        "date": "2026-10-10T23:45:09+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Domidoro: Mengubah \"Menangkap Kesalahan\" Menjadi Suatu Pertunjukan Publik, Di Balik Tawa Siapa yang Berhak Mengoreksi Siapa",
-        "desc": "Pada 2024, sebuah video yang mengoreksi teks bahasa Jepang Bayo Heca membuat \"Polisi Bahasa Jepang\" menjadi peran paling mudah dikenali Domidoro; pada 2026, ia kembali dilihat lebih banyak lewat video mengomentari karya Huang Shanliao. Dari bahasa Jepang, manga, dan kritik budaya sosial di Tokyo, hingga gugatan hukum kontroversi pelecekan seksual, jalannya bukan sekadar lidah racun, melainkan mengubah \"saya menunjuk mana yang salah\" menjadi pertunjukan yang diikuti bersama penonton.",
-        "category": "people",
-        "href": "/id/people/domidoro",
-        "date": "2026-10-10T23:45:09+08:00",
-        "readingTime": 9,
-        "image": ""
       }
     ],
     "pt": [
+      {
+        "title": "PX Mart: do centro de bem-estar \"escuro e malcheiroso\" ao rei do varejo de Taiwan",
+        "desc": "Em 1998, Lin Min-hsiung assumiu 66 \"escuras e malcheirosas\" estações de bem-estar militar, público e docente; com a disciplina de ferro de \"20% mais barato, 2% de lucro\", expandiu para 1.200 lojas em vinte e cinco anos. Não é apenas uma revolução no varejo, mas a lenda de como um magnata da construção usou a lógica de \"repassar a economia\" para transformar o supermercado na plataforma de alta frequência dos taiwaneses.",
+        "category": "economy",
+        "href": "/pt/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Chih-chung: Eleito ao Conselho Municipal de Kaohsiung três vezes, dois mandatos terminaram por lei",
         "desc": "Em 18 de agosto de 2008, Chen Chih-chung, que estava prestes a iniciar seu treinamento como estudante de direito na Faculdade de Direito da Universidade da Virgínia para cursar J.D., não compareceu e perdeu sua elegibilidade no dia da matrícula. Posteriormente, ele foi eleito ao Conselho Municipal de Qianzhen, Kaohsiung, três vezes, das quais dois mandatos terminaram no momento em que a sentença foi confirmada; durante o período intermediário, ele cumpriu 272 dias de prisão. A sentença proferida e confirmada em abril de 2023 não o despojou do direito público. Um mês depois, uma cláusula da Lei Eleitoral e Revogação, aprovada em três leituras, o impediu de se registrar como candidato novamente.",
@@ -2439,18 +2448,18 @@
         "date": "2026-10-10T23:42:20+08:00",
         "readingTime": 11,
         "image": ""
-      },
-      {
-        "title": "O Cristianismo em Taiwan: do boato de 'arrancar olhos e corações' à declaração de um país novo e independente",
-        "desc": "Em 1865, James Laidlaw Maxwell abriu uma clínica na Rua Kanxi em Tainan, mas foi forçado a fechá-la 23 dias depois devido ao boato de 'arrancar olhos e corações'. Esta história, desde o mal-entendido médico, a extração de mais de 20.000 dentes, os conflitos com santuários xintoístas durante o período colonial japonês, até a 'igreja da farinha' da ajuda americana, registra como o cristianismo evoluiu de uma religião externa de 'bárbaros vermelhos' para se tornar um motor-chave do movimento democrático nativo de Taiwan.",
-        "category": "culture",
-        "href": "/pt/culture/christianity-in-taiwan",
-        "date": "2026-10-10T23:42:20+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ],
     "hi": [
+      {
+        "title": "PX Mart: एक गंदी कल्याण केंद्र से ताइवान के रिटेल किंग बनने तक का सफर",
+        "desc": "1998 में लिन मिन-श्योंग ने 66 \"गंदे और बदबूदार\" सैन्य एवं सरकारी कल्याण केंद्रों का कार्यभार संभाला। \"20% सस्ता, 2% लाभ\" के कठोर अनुशासन के साथ, उन्होंने 25 वर्षों में 1,200 स्टोर तक विस्तार किया। यह केवल एक रिटेल क्रांति नहीं है, बल्कि एक रियल एस्टेट टाइकून द्वारा \"लाभ साझा करने\" के तर्क से सुपरमार्केट को ताइवान के दैनिक जीवन का प्लेटफॉर्म बनाने की गाथा है।",
+        "category": "economy",
+        "href": "/hi/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "चेन झी-झोंग: तीन बार काऊशुंग सिटी काउंसिल के लिए चुने गए, लेकिन दो कार्यकाल कानूनी प्रावधानों के कारण समाप्त हो गए",
         "desc": "18 अगस्त, 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का ओरिएंटेशन शुरू हुआ, लेकिन जे.डी. की पढ़ाई की तैयारी कर रहे चेन झी-झोंग वहां नहीं पहुंचे, और प्रवेश के दिन ही उनकी पात्रता समाप्त हो गई। इसके बाद, काऊशुंग के कियानझेन और शियाओगांग क्षेत्रों ने उन्हें तीन बार सिटी काउंसिल के लिए चुना, जिनमें से दो कार्यकाल निर्णय पक्के होते ही समाप्त हो गए; इस बीच उन्होंने 272 दिनों की सजा काटी। अप्रैल 2023 में अंतिम रूप से तय हुए फैसले के मुख्य भाग में नागरिक अधिकारों से वंचित करने का प्रावधान नहीं था। हालांकि, एक महीने बाद चुनावी कानून में पारित 'ब्लैकलिस्ट क्लॉज' (exclusion clause) ने उन्हें फिर से उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
@@ -2711,18 +2720,36 @@
         "date": "2026-10-31T08:41:31+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "\"कुत्तों के हत्या वाले द्वीप\" से शून्य वध तक: ताइवान में पशु संरक्षण की चालीस वर्षों की मुक्ति का मार्ग",
-        "desc": "1990 के दशक में, आवारा कुत्तों के साथ क्रूर व्यवहार के कारण ताइवान को अंतरराष्ट्रीय स्तर पर \"कुत्तों के हत्या वाले द्वीप\" के रूप में जाना जाता था। 1998 में \"पशु संरक्षण अधिनियम\" के कानून बनने से लेकर 2017 में पूर्णतः 'शून्य वध' (zero killing) तक, यह जीवन के मूल्य को पुनर्गठित करने वाला एक सामाजिक आंदोलन है।",
-        "category": "history",
-        "href": "/hi/history/animal-protection-in-taiwan",
-        "date": "2026-10-31T08:41:23+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ar": [
+      {
+        "title": "Nick Star: تحويل غرفة البث المباشر إلى حلبة ملاكمة، وإيصال الموقف أمام الكاميرا",
+        "desc": "منذ عام 2024، مزج صانع المحتوى التايواني Nick Star الملاكمة والألعاب ومكالمات الفيديو والتفاعل المباشر في نوع من العروض الشبكية عالية الكثافة. وفي عام 2025، دفع بالهوية الخاصة والموقف التايواني إلى نفس الكاميرا عبر أغنية \"أنا مزدوج الميول الجنسية\" والبث المباشر عبر الحدود. لا تبسّط هذه المقالة شخصه إلى \"مؤثر يسعى للمشاهدات\"، بل تتعقب كيف يضع صانع محتوى الحلبة وغرفة الدردشة والموسيقى والجدل في نفس اللحظة الآنية، وتوضح ما يمكن للمواد العامة إثباته وما لا تستطيع إثباته.",
+        "category": "people",
+        "href": "/ar/people/nick-star-streamer",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "PX Mart: من محطات رفاهية \"سوداء كريهة\" إلى ملك التجزئة في تايوان — قصة انتفاضة",
+        "desc": "في عام 1998، تسلم لين مين شيونغ 66 محطة رفاهية \"سوداء كريهة\" للعسكريين والموظفين العموميين والمعلمين، وبانضباط فولاذي يقوم على \"أرخص بنسبة 20%، هامش ربح 2%\"، توسع إلى 1,200 فرع خلال خمسة وعشرين عامًا. هذا ليس مجرد ثورة تجزئة، بل أسطورة عن كيف حول قطب عقارات سوبرماركت إلى منصة حياة عالية التردد للتايوانيين بمنطق \"التنازل عن الأرباح\".",
+        "category": "economy",
+        "href": "/ar/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "شركة أسوس (ASUS) - عملاق تقني بدأ من تصنيع اللوحات الأم",
+        "desc": "أسوس علامة تجارية تايوانية، أسسها أربعة مهندسين في تايبيه عام 1989، وانطلقت من تصنيع اللوحات الأم لتصبح خامس أكبر مورد للحواسيب الشخصية في العالم.",
+        "category": "economy",
+        "href": "/ar/economy/asus-computer",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "تشن تشي تشونغ: انتخب ثلاث مرات لمجلس مدينة قاوشيونغ، انتهت فترتان من ولايته بموجب القانون",
         "desc": "في 18 أغسطس 2008، بدأت جلسة التوجيه للطلاب الجدد في كلية الحقوق بجامعة فيرجينيا، لكن تشن تشي تشونغ، الذي كان يستعد لدراسة درجة الدكتوراه في القانون (J.D.)، لم يظهر، وفقد أهليته للالتحاق في نفس اليوم. بعد ذلك، انتخبته مناطق تشيانتشن وشياوغانغ بقاوشيونغ ثلاث مرات لمجلس المدينة، وانتهت فترتان من ولايته عند صدور الحكم النهائي، وقضى 272 يوماً في السجن بينهما. الحكم النهائي الصادر في أبريل 2023 لم يتضمن سحب الحقوق السياسية. بعد شهر واحد، أدى بند استبعاد السجلات الجنائية في قانون الانتخابات والاستدعاء الذي تمت الموافقة عليه في القراءة الثالثة إلى منعه من التسجيل كمرشح.",
@@ -2877,15 +2904,6 @@
         "image": "/article-images/food/luobogao-turnip-cake-2020.webp"
       },
       {
-        "title": "Nick Star: تحويل غرفة البث المباشر إلى حلبة ملاكمة، وإيصال الموقف أمام الكاميرا",
-        "desc": "منذ عام 2024، مزج صانع المحتوى التايواني Nick Star الملاكمة والألعاب ومكالمات الفيديو والتفاعل المباشر في نوع من العروض الشبكية عالية الكثافة. وفي عام 2025، دفع بالهوية الخاصة والموقف التايواني إلى نفس الكاميرا عبر أغنية \"أنا مزدوج الميول الجنسية\" والبث المباشر عبر الحدود. لا تبسّط هذه المقالة شخصه إلى \"مؤثر يسعى للمشاهدات\"، بل تتعقب كيف يضع صانع محتوى الحلبة وغرفة الدردشة والموسيقى والجدل في نفس اللحظة الآنية، وتوضح ما يمكن للمواد العامة إثباته وما لا تستطيع إثباته.",
-        "category": "people",
-        "href": "/ar/people/nick-star-streamer",
-        "date": "2026-10-25T01:15:27+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
         "title": "لين يو-تينغ: من فريق الملاكمة في مدرسة يينغه الإعدادية إلى ذهبية أولمبياد باريس",
         "desc": "في أغسطس 2024، هزمت لين يو-تينغ الملاكمة البولندية بنتيجة 5-0 في نهائي وزن 57 كجم للسيدات في أولمبياد باريس، محققة أول ذهبية أولمبية في الملاكمة لتايوان. تلخص هذه المقالة مسيرتها من انطلاقتها في فريق الملاكمة بمدرسة يينغه الإعدادية، وخسارتها في أولمبياد طوكيو، وسحب ميداليتها البرونزية في بطولة العالم 2023، والجدل حول جنسها خلال أولمبياد باريس، بالإضافة إلى منصبها التدريسي وجوائزها وأحدث مشاركاتها في 2026 بعد تتويجها بالذهب، مع توثيق كل معلومة بمصادرها.",
         "category": "people",
@@ -2974,30 +2992,21 @@
         "date": "2026-10-10T23:41:04+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "جزيرة تشوي شان: الاتجاه الذي ينظر إليه أهالي يي لان كل يوم، المنزل الذي لا يستطيع السكان الذين على الجزيرة العودة إليه",
-        "desc": "تحوّلت عمّة هوان قو تشوي شان قبل أكثر من ثلاثين عاماً إلى تشوان، وتظلّ تحلم كل ليلة بحياة الجزيرة. بالنسبة لأهالي يي لان على الضفة اليابسة، تشوي شان هي أحد ثمانية مناظر طبيعية للان يانغ وموقع التلال المثلجية الذي يعني 'المنزل قريب الآن'. أما بالنسبة لسكان تشوي شان الحقيقيين الذين عاشوا فيها، فهي المنزل الذي فقدوه في السبعينيات بقرى نقلوا دون تعويض. يمكن رؤيتها لكن لا يمكن الوصول إليها؛ يمكن الوصول إليها لكن لا يمكن العيش فيها. كتب المؤلف وواي تشين هين في عام 1975 أنها 'جزيرة منسية على الأفق'، وبعد نصف قرن لم تُنسَ بل أصبحت مشهورة بالمناظر الطبيعية والأساطير، بينما نسي الناس الذين يعيشون عليها.",
-        "category": "geography",
-        "href": "/ar/geography/gueishan-island",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/guishan-hero.webp"
-      },
-      {
-        "title": "مناظر الينابيع الساخنة في تايوان",
-        "desc": "من \"حساء الساحرة\" إلى مصاف أفضل 15 مملكة ينابيع ساخنة عالمياً: كيف طبخت صفيحة الصفائح التكتونية شفرة الشفاء في هذه الجزيرة",
-        "category": "geography",
-        "href": "/ar/geography/taiwan-hot-springs-landscape",
-        "date": "2026-10-10T23:41:04+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ru": [
       {
-        "title": "Чжэнь Чжонь: трех раз избран в Совет города Каосинга, два срока заканчиваются в законодательных актах",
-        "desc": "18 августа 2008 года началось обучение новозачисленным студентам юридической школы Университета Вирджинии, и Чжэнь Чжонь, который собирался получить степень J.D., не появился, и его право на поступление было отозвано в тот же день. После этого его трижды избирали в Совет города Каосинга, причем два срока заканчивались в момент окончательного решения суда, и в между времени он провел в тюрьме 272 дней. В решении, окончательно утвержденном в апреле 2023 года, лишение чинных полномочий не предусмотрено. Через месяц после этого был принят законопроект о запрете незаконных кандидатур, который не позволяет ему снова зарегистрироваться как кандидат.",
+        "title": "PX Mart: путь от грязных магазинов для льготников до короля розничной торговли Тайваня",
+        "desc": "В 1998 году Линь Миньсюн принял 66 «грязных и запущенных» магазинов для госслужащих. Благодаря железной дисциплине «цены на 20% ниже, прибыль 2%», за 25 лет сеть разрослась до 1200 точек. Это не просто революция в ритейле, а легенда о том, как девелопер с помощью логики «передачи выгоды клиенту» превратил супермаркеты в платформу повседневной жизни тайваньцев.",
+        "category": "economy",
+        "href": "/ru/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Чэнь Чжичжун: трижды избран в Городской совет Гаосюна, два срока закончились из-за юридических норм",
+        "desc": "18 августа 2008 года началась ориентация первокурсников юридического факультета Вирджинского университета, но Чэнь Чжичжун, готовившийся к получению степени J.D., не явился, и в тот же день потерял право на зачисление. С тех пор избиратели районов Цяньчжэнь и Сяоган трижды выбирали его в городской совет Гаосюна, однако два из этих сроков завершились в момент вступления приговора в законную силу; в промежутке он отбывал наказание в течение 272 дней. В решении, вступившем в силу в апреле 2023 года, не было пункта о лишении избирательных прав. Однако принятая через месяц поправка к Закону о выборах и отзывании мандатов должностных лиц, направленная на «отсеивание черных списков», лишила его возможности снова зарегистрироваться в качестве кандидата.",
         "category": "people",
         "href": "/ru/people/chen-chih-chung",
         "date": "2026-11-02T16:19:12+08:00",
@@ -3077,13 +3086,13 @@
         "image": ""
       },
       {
-        "title": "Ваньвань: лысый персонаж, ставший лицом целого поколения офисных работников, и Ху Цзявэй, позволившая ему «стать исторической фигурой»",
-        "desc": "В эпоху, когда офисы общались через MSN Messenger, офисные работники, не смевшие сказать шефу «Я хочу уйти с работы», заменяли аватарки на лысого персонажа без одежды с одной кудрявой прядью на макушке, чтобы он сказал это за них. Создательница этого персонажа, Ху Цзявэй, прошла путь от ассистента дизайнера за 9000 тайваньских долларов в месяц до автора первого в Тайване блога с миллионом просмотров и основоположницы жанра иллюстрированных историй. Лысый персонаж вечно юен и невеселен, но рисующая его взрослеет; поэтому она решила уйти со сценой вместе со своим героем, «превратив его в историческую фигуру».",
+        "title": "Ваньвань: Ху Цзявэй нарисовала лысого персонажа для поколения MSN и решение сделать его «исторической фигурой»",
+        "desc": "Ваньвань, настоящее имя Ху Цзявэй, — прародительница тайваньского интернет-творчества в формате иллюстрированных текстов. В начале 2000-х её лысый персонаж стал аватарками офисных работников в MSN, отдавая голос их желанию «я хочу уйти с работы»; в 2007 году её блог стал первым в Тайване, преодолев отметку в 100 миллионов просмотров, позже она вошла в стикеры LINE и WEBTOON. Став мамой, она переориентировала творчество на родительский быт и решила уйти со сцены вместе со своим вечно молодым лысым персонажем, «превратив его в историческую фигуру».",
         "category": "people",
         "href": "/ru/people/wanwan-taiwan-blog-cartoonist",
         "date": "2026-10-31T08:40:59+08:00",
         "readingTime": 13,
-        "image": ""
+        "image": "/article-images/people/wanwan-2008-book-fair.webp"
       },
       {
         "title": "Чэнь Наньжун: «сын внешнепровинциальца», обменявший жизнь на формулу свободы слова",
@@ -3218,7 +3227,7 @@
         "href": "/ru/food/ba-pu-ice-cream",
         "date": "2026-10-10T23:46:22+08:00",
         "readingTime": 13,
-        "image": ""
+        "image": "/article-images/food/babu-ice-cart-vendor-1987.webp"
       },
       {
         "title": "Тайваньское «видеорегистраторное» общество: эстетика всеобщего наблюдения, технологическая эволюция и справедливость разоблачений",
@@ -3255,18 +3264,27 @@
         "date": "2026-10-10T23:42:41+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Психологическая война: от стены вещания на Цзиньмэне к парадигмальному сдвигу в ИИ-позновательных операциях",
-        "desc": "От призывов Дэн Лицзюнь на стене вещания Цзиньмэня 1960-х годов и воздушных сбросах «продуктов для перехода на нашу сторону» до цифровой эпохи 2026 года с информационной проникновенностью и ИИ-позновательной манипуляцией — перебережная психологическая война эволюционировала от физического материального соблазнения к цифровому семантическому противостоянию. Статья подробно систематизирует исторический контекст тайваньской психологической войны против Китая, конкретные списки материалов и сопоставляет вызовы текущего этапа индустриализации ИИ.",
-        "category": "history",
-        "href": "/ru/history/psychological-warfare",
-        "date": "2026-10-10T23:42:41+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "de": [
+      {
+        "title": "PX Mart: Vom schmutzigen Sozialkaufhaus zum König des taiwanesischen Einzelhandels",
+        "desc": "1998 übernahm Immobilienmogul Lin Min-hsiung 66 „schmutzige“ Militär- und Beamten-Wohlfahrtsgeschäfte und setzte dank „20 % günstiger, 2 % Gewinn“-Regel in 25 Jahren auf 1.200 Filialen um. Das war nicht nur eine Retail-Revolution, sondern die Sage eines Bauunternehmers, der mit „Mehrwert“-Logik aus dem Supermarkt eine tägliche Lebensplattform für Taiwanesen machte.",
+        "category": "economy",
+        "href": "/de/economy/pxmart-supermarket",
+        "date": "2026-11-04T08:27:45+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "ASUS: Der Technologiegigant, der mit einem Motherboard begann",
+        "desc": "ASUS ist eine taiwanische Marke: 1989 von vier Ingenieuren in Taipeh gegründet, wuchs der Motherboard-Hersteller zum fünftgrößten PC-Anbieter der Welt.",
+        "category": "economy",
+        "href": "/de/economy/asus-computer",
+        "date": "2026-11-04T08:24:26+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
       {
         "title": "Chen Chih-chung: Zweimal in den Stadtrat von Kaohsiung gewählt, zweimal endete die Amtszeit per Gesetz",
         "desc": "2008 verlor Chen Chih-chung wegen Fernbleibens die Zulassung der University of Virginia. Danach wählte ihn sein Wahlkreis dreimal in den Stadtrat von Kaohsiung; zweimal endete die Amtszeit mit der Urteilsrechtskraft. Das Urteil von 2023 enthielt keine Aberkennung der Ehrenrechte – doch die Blacklisting-Klausel der Wahlgesetze schloss ihn von neuer Kandidatur aus.",
@@ -3517,24 +3535,6 @@
         "href": "/de/people/lin-liang-childrens-literature",
         "date": "2026-10-10T23:45:11+08:00",
         "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Vier Maßstäbe jenseits von Blau und Grün: Von einem Ackerstück bis zur Krankenversicherungskarte – Taiwans Politiken, die über ihre eigene Parteipolitik hinausgewachsen sind",
-        "desc": "Ein Leser, der das gegenseitige Beschimpfen am Esstisch zwischen den Lagern Blau und Grün satt hat, möchte sich an die Dinge erinnern, die Taiwan wirklich gutgetan haben. Deshalb haben wir elf Politiken aus siebzig Jahren ausgewählt – von der Landreform unter autoritärer Zwangsentnahme von Agrarflächen über die Aufhebung des Kriegsrechts und die allgemeine Krankenversicherung bis hin zu den umstrittenen Themen gleichgeschlechtliche Ehe und der „Zukunftsplan“. Anstatt die Maßstäbe von Blau oder Grün anzulegen, nutzen wir bewusst vier neue: Lebensstandard, Demokratie, Bürgerrechte und Souveränität. Das Fazit ist etwas kontraintuitiv: Politiken, die ihre parteipolitische Herkunft überwunden haben, waren am Tag ihrer Entstehung oft diejenigen, die am heftigsten umstritten waren.",
-        "category": "history",
-        "href": "/de/history/bipartisan-good-policy",
-        "date": "2026-10-10T23:41:15+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "Bein'an-Distrikt: Dreißig Jahre Stadtplanung und Campusleben als Experiment",
-        "desc": "Von der alten Schlachtstätte Longenpu im Jahr 1895 bis zum U-Bahn-Campus von 2026 ist dies eine tiefgehende Enzyklopädie über Land, Ästhetik und selektive Identität.",
-        "category": "geography",
-        "href": "/de/geography/beida-special-district-sanxia",
-        "date": "2026-10-10T23:41:15+08:00",
-        "readingTime": 18,
         "image": ""
       }
     ]
