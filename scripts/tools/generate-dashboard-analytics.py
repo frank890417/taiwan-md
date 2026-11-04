@@ -16,9 +16,17 @@ What we write:
   - ga.startDate / endDate / label
   - searchConsole7d (new section — 20 queries + totals + opportunities)
 
+  - searchConsole24h (latest single day, from the SC cache's `last_day` block)
+
 What we DON'T touch:
-  - searchConsole24h (legacy, kept for backward compat; will phase out)
   - cloudflare24h (managed separately)
+
+2026-11-04 evolve: searchConsole24h used to be in the "don't touch" list. It
+was hand-written once ("2026-04-09 (24h)"), the generator never wrote it, so
+the label sat there for seven months while `taiwanmd sense --range 24h` kept
+printing April numbers. fetch-search-console.py now fetches the last day and
+this script rebuilds the section from it; an old cache without `last_day`
+leaves the section as it was (and says so).
   - sourcesUsed, lastUpdated (bumped here though)
 
 2026-04-11 session α — built to support the "GA top 20 clickable" + "SC 7-day"
@@ -243,7 +251,7 @@ def build_ga_section(ga_raw):
     top_articles_7d = dedup_pages(ga_raw.get("top_articles_7d", []))[:20]
 
     # Per-language aggregation — sovereignty preservation impact (2026-05-16)
-    # Prefer `by_lang_pages` (limit=500 fetch, dedicated query); fall back to
+    # Prefer `by_lang_pages` (every pagePath row, paged; was limit=500 until 2026-11-04); fall back to
     # `top_pages` (limit=50) for older caches that haven't refreshed yet.
     by_lang_source = ga_raw.get("by_lang_pages") or ga_raw.get("top_pages", [])
     by_lang_source_kind = "by_lang_pages" if ga_raw.get("by_lang_pages") else "top_pages_fallback"
@@ -405,6 +413,81 @@ def build_sc_7d_section(sc_raw):
         "topQueries": top_queries,
         "opportunities": opportunities,
         "wordCloud": word_cloud,
+    }
+
+
+def build_sc_24h_section(sc_raw):
+    """searchConsole24h from the cache's `last_day` block (None if absent).
+
+    Same field names as searchConsole7d (label / startDate / endDate / days /
+    totals / topQueries / opportunities) so the dashboard fallback and the CLI
+    `sense --range 24h` read either one the same way.
+    """
+    if not sc_raw or sc_raw.get("error"):
+        return None
+    last_day = sc_raw.get("last_day") or {}
+    date = last_day.get("date")
+    if not date:
+        return None
+    totals = last_day.get("totals", {})
+    queries = last_day.get("queries", [])
+
+    def _q(q):
+        return q.get("keys", [""])[0] if q.get("keys") else q.get("query", "")
+
+    def _pct(v):
+        return round(v * 100, 2) if v <= 1 else round(v, 2)
+
+    top_queries = [
+        {
+            "query": _q(q),
+            "clicks": int(q.get("clicks", 0)),
+            "impressions": int(q.get("impressions", 0)),
+            "ctr": _pct(q.get("ctr", 0)),
+            "position": round(q.get("position", 0), 2),
+        }
+        for q in queries[:20]
+    ]
+    zero_click = sorted(
+        (q for q in queries if q.get("clicks", 0) == 0 and q.get("impressions", 0) > 0),
+        key=lambda q: q.get("impressions", 0),
+        reverse=True,
+    )
+    opportunities = [
+        {
+            "query": _q(q),
+            "clicks": 0,
+            "impressions": int(q.get("impressions", 0)),
+            "position": round(q.get("position", 0), 2),
+        }
+        for q in zero_click[:10]
+    ]
+    brand_clicks = brand_imp = nonbrand_clicks = nonbrand_imp = 0
+    for q in queries:
+        clicks, imp = int(q.get("clicks", 0)), int(q.get("impressions", 0))
+        if _is_brand_query(_q(q)):
+            brand_clicks += clicks
+            brand_imp += imp
+        else:
+            nonbrand_clicks += clicks
+            nonbrand_imp += imp
+    return {
+        "label": f"{date} (24h)",
+        "startDate": date,
+        "endDate": date,
+        "days": 1,
+        "totals": {
+            "clicks": int(totals.get("clicks", 0)),
+            "impressions": int(totals.get("impressions", 0)),
+            "ctr": _pct(totals.get("ctr", 0)),
+            "position": round(totals.get("position", 0), 2),
+            "brandClicks": brand_clicks,
+            "brandImpressions": brand_imp,
+            "nonBrandClicks": nonbrand_clicks,
+            "nonBrandImpressions": nonbrand_imp,
+        },
+        "topQueries": top_queries,
+        "opportunities": opportunities,
     }
 
 
@@ -582,6 +665,7 @@ def main():
 
     ga_section = build_ga_section(ga_raw)
     sc_7d_section = build_sc_7d_section(sc_raw)
+    sc_24h_section = build_sc_24h_section(sc_raw)
 
     # Preserve existing aiCrawlers from cloudflare24h (Free tier can't refresh it)
     existing_ai_crawlers = existing.get("cloudflare24h", {}).get("aiCrawlers")
@@ -602,6 +686,15 @@ def main():
               f"{len(sc_7d_section['wordCloud'])} word cloud entries")
     else:
         print("⚠️  Skipping searchConsole7d — no cache data", file=sys.stderr)
+
+    if sc_24h_section:
+        existing["searchConsole24h"] = sc_24h_section
+        print(f"✅ searchConsole24h: {sc_24h_section['label']}, "
+              f"{sc_24h_section['totals']['impressions']:,} impressions")
+    else:
+        old_label = existing.get("searchConsole24h", {}).get("label", "—")
+        print(f"⚠️  searchConsole24h left as is ({old_label}) — SC cache has no "
+              f"last_day block; re-run fetch-search-console.py", file=sys.stderr)
 
     if cf_section:
         # Write to a new field so the old cloudflare24h (with fresh aiCrawlers
