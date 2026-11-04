@@ -2,9 +2,7 @@
 title: 'Chou Tien-chen : la tête de file du badminton taïwanais hissé au 2e rang mondial'
 description: "Le premier homme à atteindre le 2e rang mondial en simple messieurs et celui qui a vaincu pour la première fois le roi du badminton Lin Dan. D'un début difficile avec dix défaites d'affilée lors de son intégration dans l'équipe nationale, au baptême chrétien après une appendicite perforée, jusqu'au diagnostic précoce de cancer colorectal à 34 ans en mars 2023 : il a opéré et est reparti quelques jours plus tard pour concourir à l'international. Il endure près d'une année de creux avant de se qualifier pour les quarts de finale aux Jeux olympiques de Paris la saison suivante. Chou Tien-chen ne s'appuie pas sur un talent écrasant mais utilise une stratégie dite « usure » (patience), enchaînant des échanges longs, et élève ainsi le niveau maximal que peut atteindre le badminton taïwanais."
 date: 2026-06-29
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Personnalité',
@@ -15,15 +13,26 @@ tags:
     'Athlète',
     'Taïwan',
   ]
-readingTime: 14
+subcategory: '體育'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-29
 lastHumanReview: false
-featured: false
+image: '/article-images/people/chou-tien-chen-taipei-open-2018.webp'
+imageCredit: 'Chartlin'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg'
+readingTime: 14
+rationale:
+  why_this_hook: '以「正面成就」開場（台灣羽球一哥、世界第二、打敗林丹），中段才讓信仰與 2023 年大腸癌的轉折進來——韌性是這篇的脊椎，但不靠「藏反差」的標題去煽情，符合觀察者「標題直接給正面」的指示。'
+  whats_excluded: '不寫未經證實的私人生活細節（婚姻、收入數字）；BWF 每週浮動積分只取名次不寫精確分數，避免過時；對林丹/李宗偉/諶龍的精確勝負場次來自球迷論壇難以查證，只保留有可靠報導的「打敗林丹第一人」與有比分來源的單場結果。'
+  where_it_hedges: '世界排名第 6 標註「截至 2026 年 6 月」時間戳；「第四年長世界巡迴賽男單冠軍」依今周刊單源敘述；三屆奧運與生涯數據以中英維基為主源；信仰、盲腸炎、做自己的教練等細節以維基＋鏡週刊＋ETtoday 交叉。'
+  whos_pushing_back: '認為他「大器晚成、欠一面奧運獎牌」的球評；質疑 34 歲後仍佔用國手名額的聲音——文中以三度八強的事實與復出戰績並陳，不替任一方蓋章。'
 translatedFrom: 'People/周天成.md'
-sourceCommitSha: 'dbfc0cd3c'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:f45251e967dc33da'
 sourceBodyHash: 'sha256:cc68e7641279a1e9'
-translatedAt: '2026-07-09T00:54:06+08:00'
+translatedAt: '2026-11-04T14:55:30.431191+00:00'
 ---
 
 > **30 secondes pour comprendre :** Chou Tien-chen, né en 1990 à Taipei, est le numéro un du simple messieurs taïwanais. En 2014, il remporte l'Open de France et devient ainsi le premier joueur taïwanais à s'imposer dans une épreuve Super Series de la BWF (Badminton World Federation).[^2] En août 2019, son classement mondial grimpe au deuxième rang, un record historique pour un simple messieurs d'origine locale.([^1]) Il est le premier joueur taïwanais à avoir battu sur scène internationale « le roi du badminton » Lin Dan.[^13] Représentant l'équipe de Chine Taipei aux Jeux olympiques lors de trois éditions consécutives, il atteint les quarts de finale chaque fois.([^2]) Au début 2023, une coloscopie de routine révèle un cancer colorectal à un stade précoce ; après son opération et quelques jours plus tard, il repart concourir à l'international, traversant près d'une année difficile,[^3] avant de se qualifier pour les quarts de finale aux Jeux olympiques de Paris en 2024.([^10]) À 36 ans, il reste aujourd'hui un habitué du haut classement mondial.[^12]

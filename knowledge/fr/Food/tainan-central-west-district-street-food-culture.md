@@ -2,9 +2,7 @@
 title: 'Marcher sur le port comblé : cinq snacks de Tainan, district de Zhongxi'
 description: "Sous les rues Guohua et Hai'an se trouvent les vestiges du lit des Cinq Ports de la dynastie Qing ; la soupe de bœuf, la bouillie de poisson tilapia, les nouilles sautées au congre et les vermicelles de verre au cœur de porc sont autant de fossiles de la logique de survie des ouvriers portuaires, laissée par quatre cents ans d'histoire."
 date: 2026-06-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tainan',
@@ -15,20 +13,24 @@ tags:
     'Tilapia',
     'Nouilles sautées au congre',
   ]
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-30
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '93facb6ce'
-sourceContentHash: 'sha256:0b469697cef600b9'
-sourceBodyHash: 'sha256:9c9d5bf9b829829e'
-translatedAt: '2026-07-25T07:05:14+08:00'
+sourceCommitSha: 'caf94320f'
+sourceContentHash: 'sha256:a3c0087d1948201f'
+sourceBodyHash: 'sha256:1295ceb08f1d0dd4'
+translatedAt: '2026-11-04T13:31:33.325123+00:00'
 ---
 
-Il est quatre heures et demie du matin, la rue Guohua est encore dans l'obscurité. Quelques personnes marchent depuis la gare de Tainan, l'écran de leur téléphone portable éclairant le chemin, se dirigeant vers la boutique de soupe de bœuf Liuqian dont les enseignes sont encore dans l'ombre. Ils ne sont pas les premiers : des gens attendent déjà devant la porte. Les bœufs du marché de la viande de Shanhua sont abattus la veille au soir, les camions frigorifiques les livrent avant l'aube, et la première marmite commence à bouillir à cinq heures. Ceux qui arrivent tôt savent une chose : **la douceur de la première marmite n'est pas la même que celle du soir.**
+À quatre heures et demie du matin, les lampadaires de la rue Guohua ne sont pas encore allumés. Quelques personnes arrivent de la gare de Tainan, l'écran de leur téléphone éclairant le chemin vers le restaurant Liu Qian Niurou Tang (soupe de bœuf Liu Qian), dont l'enseigne est encore plongée dans l'obscurité. Ils ne sont pas les premiers : des gens attendent déjà devant la porte. Le bœuf du marché de viande de Shan-hua commence à être abattu la veille, livré par camion frigorifique avant l'aube, et la première marmite de soupe se met à bouillir à cinq heures. Ceux qui arrivent tôt savent une chose : **la douceur de la première marmite est différente de celle du soir.**
 
-Il ne s'agit pas de sentiment de cérémonie. C'est de la logistique.
+Il ne s'agit pas d'un rituel. C'est de la logistique.
 
 ## Les Cinq Ports : les raisons de la disparition
 
@@ -72,17 +74,17 @@ La texture de la viande de bœuf fraîche est « craquante » – les fibres mus
 
 📝 Note du commissaire : À l'université, j'ai organisé une sortie avec des camarades de classe pour notre première visite à Tainan. À quatre heures du matin, on m'a réveillé en me donnant une tape : « Hé, lève-toi, on va boire de la soupe de bœuf. » Les yeux encore fermés, ma première pensée était : à quelle heure est-ce, qui vend de la soupe de bœuf à cette heure-là, et même s'il y en a, pourquoi se lever maintenant ? Mais mes camarades étaient très insistantes, et j'ai fini par sortir à demi contre mon gré. Arrivés sur la rue Hai'an, sans même voir quelle boutique c'était, j'ai d'abord vu, sous l'auvent du marché, des silhouettes éclairées par les réverbères – une vingtaine de personnes, déjà là à attendre. La boutique ouvre à cinq heures, pour obtenir la première marmite. Cette douceur – pas du sucre ajouté, mais la douceur naturelle des fibres musculaires dans leur état le plus frais qui s'infiltre dans la soupe – le soir, la soupe de bœuf est également fascinante, mais la fraîcheur de la première marmite est une jouissance spirituelle d'un autre niveau. C'est une satisfaction presque injuste. À ce moment-là, mon camarade m'a rappelé : « Alors ? Ça vaut le coup ! Je te dis, ne viens pas lundi, lundi on ne travaille pas. » Il s'est avéré que les boutiques de soupe de bœuf de Tainan sont généralement fermées le lundi, car le marché de la viande de Shanhua n'abat pas de bœuf le lundi.
 
-## Nouilles sautées au congre : la physique de 27 secondes
+## Nouilles _yìmiàn_ aux anguilles : un sauté à feu vif, une enseigne qui affiche le temps sur ses murs
 
-Les nouilles sautées au congre existent dans d'autres régions de Taïwan, mais en dehors de Tainan, presque personne ne les fait correctement, car la technologie centrale exige une rigueur extrême : du moment où le congre entre dans la poêle jusqu'à sa sortie, cela ne doit pas dépasser 27 secondes. Au-delà, la texture devient sèche, l'odeur de poisson poissonneux apparaît, et tout le plat est gâché.
+Le secret des nouilles _yìmiàn_ aux anguilles réside dans la maîtrise du feu : les morceaux d'anguille sont sautés à feu vif ; s'ils sont trop cuits, la chair devient sèche. Une enseigne historique de Sakariba a fait de « 27 secondes » sa propre marque de fabrique en l'affichant fièrement, mais il s'agit de la méthode spécifique de ce restaurant et non d'une règle universelle pour ce plat.
 
-L'origine de ce plat se trouve sur le marché de la rue You'ai (Shakariba). Pendant la période de domination japonaise, il n'y avait pas d'anguille à Tainan, mais on pouvait attraper facilement dans les étangs des congres sauvages de taille similaire, dont personne ne savait comment préparer. Les frères Liao Bingnan et Liao Huotu ont appris la méthode de cuisson « daozi » (to-tsì) auprès d'un maître de Fuzhou, ont étudié une méthode de sauté imitant l'anguille, et la saveur salée-acide-douce de Tainan a conquis les fonctionnaires japonais, gagnant ainsi sa réputation à Shakariba. Liao Bingnan est plus tard surnommé « Congre Nan » ; la technique de la famille Liao est transmise de génération en génération, et aujourd'hui, les congres sautés de la famille Liao à Shakariba, le A-Yuan sur la rue Chenggong et le A-Jiang sur la rue Minzu, appartiennent tous à la même lignée.
+L'origine de ce plat se trouve au marché de Youai Street (Sakariba). Les frères Liao Bing-nan et Liao Huo-tu ont appris l'art de la découpe (_to-tsì_) auprès d'un chef originaire de Fuzhou, créant ainsi le goût salé, acide et sucré typique de Tainan, et se sont fait un nom à Sakariba. Liao Bing-nan est plus tard devenu connu sous le nom de « Langyu Nan » (le Nan aux anguilles) ; la technique de la famille Liao s'est transmise de génération en génération, les familles Liao de Sakariba, A-Yuan de Chenggong Road et A-Jiang de Minzu Road appartenant toutes à la même lignée. Pour l'histoire complète, consultez « [Nouilles _yìmiàn_ aux anguilles](/fr/food/eel-noodles) ».
 
-L'ail est sauté pour en libérer l'arôme, les morceaux de congre entrent dans la poêle, oignons verts, oignons blancs, piments, assaisonnements, fécile, vinaigre Wuyin, sortie de la poêle, versé sur les nouilles déjà préparées. Le son du « wok hei » (énergie du wok) qui s'élève est ce que le vieux maître utilise pour juger le feu avec ses oreilles, pas ses yeux.
+On fait revenir l'ail pour libérer ses arômes, on ajoute les morceaux d'anguille, puis les oignons verts, les oignons, le piment, les assaisonnements et on épaissit la sauce avec de la fécule. On ajoute ensuite le vinaigre à cinq sceaux (_wǔyìn cù_), puis on retire du feu pour verser le tout sur les nouilles déjà servies. Le son du _huòqì_ (l'arôme du wok) qui s'élève est le signe que le maître cuisinier juge la cuisson avec ses oreilles, et non avec ses yeux.
 
-Les nouilles (yimian) sont une variété locale de Tainan ; frites à demi-cuites pour fixer la forme, elles absorbent la sauce dans le bouillon, offrant une texture complètement différente des nouilles ordinaires. Le vinaigre Wuyin est nécessaire – la finale acide-douce réinitialise le palais, permettant de continuer à manger au stand suivant après les graisses et les protéines.
+Les nouilles _yìmiàn_ sont une variété locale de Tainan, pré-cuites puis frites pour leur donner leur forme avant d'être plongées dans le bouillon afin qu'elles absorbent bien la sauce ; leur texture est totalement différente des nouilles ordinaires. Le vinaigre à cinq sceaux est indispensable : son acidité et sa douceur réinitialisent les papilles après le gras et les protéines, permettant de continuer l'exploration culinaire vers l'étal suivant.
 
-📝 Note du commissaire : « Shakariba » est la translittération taïwanaise du japonais « sakariba » (盛り場), signifiant un marché animé. Ce nom lui-même explique l'origine des nouilles sautées au congre : un lieu de rassemblement des ouvriers à l'époque de la domination japonaise.
+📝 Note du conservateur : « Sakariba » est la translittération taïwanaise du mot japonais _sakariba_ (盛り場), qui signifie un lieu animé ou un marché de quartier. Ce nom illustre à lui seul l'origine des nouilles aux anguilles : un lieu de rassemblement d'ouvriers durant l'époque coloniale japonaise.
 
 ## Cœur de porc d'A-Ming avec vermicelles de verre : la philosophie de l'attente de deux heures
 

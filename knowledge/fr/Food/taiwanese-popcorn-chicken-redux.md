@@ -1,28 +1,28 @@
 ---
-title: 'Le poulet sel et poivre taïwanais (鹽酥雞)'
-description: "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu."
+title: 'Poulet frit croustillant taïwanais'
+description: "En 1975, un habitant de Tainan nommé Chen Ting-zhi, dont le restaurant avait fait faillite, installa un chariot à Ximending et fit frire des morceaux de poulet avec une marinade familiale. Cinquante ans plus tard, le poulet frit croustillant est devenu l'un des rares en-cas taïwanais capable de survivre sans marché de nuit, sans boutique, uniquement grâce à un chariot et une marmite d'huile — CNN l'a inscrit deux fois sur sa liste des incontournables de Taïwan, mais la façon la plus authentique de le manger reste d'attendre ce sac en papier au bord de la route en pleine nuit."
 date: 2026-04-01
+category: 'Food'
 tags:
   [
-    'poulet sel et poivre',
-    'salt-and-pepper chicken',
-    'street food',
-    'marché nocturne',
-    'friture',
-    'culture du grignotage nocturne',
-    'basilic thaï',
+    'Poulet frit croustillant',
+    'Poulet salé croustillant',
+    'En-cas',
+    'Marché de nuit',
+    'Fritures',
+    'Culture du snack nocturne',
+    'Basilic thaï',
   ]
 subcategory: '經典小吃'
-category: 'Food'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-06-26
-translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '539c393a'
-sourceContentHash: 'sha256:ff821213812f38cb'
-sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
-translatedAt: '2026-06-27T00:35:00Z'
 lastHumanReview: true
+translatedFrom: 'Food/台灣鹽酥雞.md'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:274d81ffebc02b90'
+sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
+translatedAt: '2026-11-04T14:15:58.688016+00:00'
 ---
 
 > **En 30 secondes :** Le salt-and-pepper chicken (鹽酥雞, _yán sū jī_) est la référence absolue de la friture populaire à Taïwan. En 1975, Chen Ting-zhi installe son premier étal à Ximending, Taipei : des morceaux de poulet marinés selon une recette de famille, frits jusqu'au croustillant parfait, puis saupoudrés de sel au poivre et de basilic thaï[^1]. Cinquante ans plus tard, les étals fleurissent à chaque coin de rue, dans chaque marché nocturne et chaque quartier résidentiel. CNN l'a deux fois sélectionné parmi les « aliments indispensables de Taïwan »[^2]. Mais ce qui rend ce plat vraiment unique, ce n'est pas son goût — c'est son rôle d'infrastructure nocturne : pas de boutique, pas d'enseigne, une charrette, une cuve d'huile, une poignée de basilic, et c'est parti.
@@ -91,9 +91,10 @@ Il y a cinquante ans, Chen Ting-zhi ne se doutait probablement pas que sa charre
 
 ## Pour aller plus loin
 
-- [Culture des marchés nocturnes](/fr/food/night-market-culture) — le principal terrain de circulation du salt-and-pepper chicken, scène centrale de l'écosystème du grignotage nocturne taïwanais
-- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — de l'aube à la nuit profonde, mise en miroir des deux grands moments alimentaires de Taïwan
-- [Culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — étals de salt-and-pepper chicken et supérettes composent ensemble le paysage alimentaire 24 h sur 24 de l'île
+- [Culture des marchés de nuit](/fr/food/night-market-culture) — principal lieu de diffusion du poulet frit salé, scène centrale de l'écosystème des en-cas nocturnes taïwanais
+- [Culture du petit-déjeuner à Taïwan](/fr/food/taiwan-breakfast-culture) — de l'aube à la nuit tardive, comparaison des deux moments clés de la restauration à Taïwan
+- [Culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — les stands de poulet frit salé et les supérettes composent ensemble le paysage alimentaire taïwanais ouvert 24h/24
+- [Boules de patate douce](/fr/food/sweet-potato-balls) — l'autre marmite d'huile dans la même rue de marché de nuit : le cœur creux des boules de patate douce est pressé cuillerée par cuillerée par les vendeurs
 
 ## Références
 
