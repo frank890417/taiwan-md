@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '29ff6f481'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:097cf0d80bc1fd84'
 sourceBodyHash: 'sha256:518e84b411e7ba80'
-translatedAt: '2026-09-12T19:24:15+08:00'
+translatedAt: '2026-11-04T18:14:36.448157+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Taiwan des Jahres 2026 ist jeder 26. Mensch ein internationaler Arbeitsmigrant. Die Gesamtzahl ist auf 873.000 gestiegen; rechnet man die rund 94.000 abgängigen Migranten hinzu, macht diese Gruppe der Fremden bereits über 5 % der ständigen Wohnbevölkerung Taiwans aus. Von der Livestream-Kultur in der Halle des Taipeh Hauptbahnhofs über das Beharren der großen Migranten-Demonstration auf der „Abschaffung der Arbeitsjahresbegrenzung“ bis hin zur Welle der „Ablehnung indischer Arbeitsmigranten“, deren Petition im April 2026 die 40.000-Unterschriften-Marke überschritt – Taiwan steht an einem Scheideweg zwischen extremem Arbeitskräftemangel und gesellschaftlicher Integrationsangst. Das ist nicht nur Arbeitsmarktpolitik, sondern eine kollektive Bewährungsprobe darüber, wie Taiwan „wir“ definiert.

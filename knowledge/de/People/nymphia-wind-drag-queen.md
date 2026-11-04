@@ -17,11 +17,13 @@ author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-04T18:57:04.953399+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 2024 gewann die taiwanesische Drag-Queen Nymphia Wind (Nymphia Wind) den hochkarätigsten Wettbewerb der Welt, „RuPaul’s Drag Race“, und wurde die erste Person aus Taiwan, die diesen Titel errang. Ihr Erfolg brachte nicht nur taiwanesische Drag-Kunst auf die internationale Bühne, sondern fiel mit dem „Tag der Geschlechtergleichstellung“ zusammen und zeigte Taiwans Vielfalt und Toleranz der Welt. Von der Kellerparty bis ins Präsidentenpalast – die Geschichte von Nymphia Wind ist eine fast 30-jährige Geschichte der Selbstbestimmung von Geschleichsminoritäten in Taiwan. Mit dem Symbol der Banane verband sie persönliche Lebenserfahrung mit taiwanesischer Kultur und erklärte Taiwans Existenz und Selbstbewusstsein der Welt.

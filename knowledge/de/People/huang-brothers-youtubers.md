@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-09-12T00:32:25+08:00'
+translatedAt: '2026-11-04T19:09:14.139046+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
@@ -80,30 +82,30 @@ In einer taiwanesischen Gesellschaft, die voller Etiketten ist, bewiesen die Hua
 
 ---
 
-## Quellenangaben
+## Referenzen
 
-[^1]: [Interview mit YouTuber Huang Brothers: Der kreative Prozess des Wachstums mit Zuschauern](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — TechCrunch (siehe Originaltext für detaillierte Informationen)
+[^1]: [Interview mit den YouTubern Huang Brothers: Der kreative Prozess des gemeinsamen Wachstums mit dem Publikum](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T-Koban (siehe ergänzende Informationen im Original-Link)
 
-[^2]: [20 Monate ohne echte Pause! Huang Brothers erinnern sich an die schwierigen Zeiten der Erstellung](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [Seit 20 Monaten ohne Urlaub! Die Huang Brothers erinnern sich an die Entbehrungen ihrer kreativen Arbeit](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [Brüder setzen sich für Wohltätigkeit ein: Den ganzen Tag in einer ländrischen Schule gebucht](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Huang Brothers YouTube-Kanal
+[^3]: [[Brüder tun Gutes] Eine Grundschule in einer abgelegenen Region für einen ganzen Tag gemietet](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Huang Brothers YouTube-Kanal
 
-[^4]: [Wenn man etwas tut, muss man es richtig gut machen! Huang Brothers versuchen alles und streben nach Perfektion](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Wenn man es macht, dann richtig! YouTuber Huang Brothers probieren vieles aus und streben nach Perfektion](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Wie entstand ein YouTuber mit einer Millionen-Followern? Ein Interview mit Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Wie entsteht ein YouTuber mit Millionen von Abonnenten? Ein Interview mit den Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Lernen Sie die Effizienz der Huang Brothers kennen | Die Ordnung hinter dem Chaos](https://premium.parenting.com.tw/article/5087793) — Eltern & Kinder (siehe Originaltext für detaillierte Informationen)
+[^6]: [Lernen Sie von den Huang Brothers über Umsetzungskraft | Hinter der grenzenlosen Fantasie steckt eine präzise Selbstpositionierung](https://premium.parenting.com.tw/article/5087793) — Parenting (siehe ergänzende Informationen im Original-Link)
 
-[^7]: [Wei-Wei wurde gezwungen, seine Identität preiszugeben, und wurde wütend: Es ist eine Form des sexuellen Missbrauchs](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo Nachrichten
+[^7]: [Weiwei wurde zum Coming-out gezwungen, er ist wütend: Das war ein gewaltsames Outing](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [Über die Berichterstattung – ich möchte zu meiner Familie sprechen [Huang Brothers]](https://www.youtube.com/watch?v=jo7ggR1f54s) — Huang Brothers YouTube-Video
+[^8]: [Bezüglich der Berichterstattung möchte ich zu meiner Familie sagen: [Huang Brothers]](https://www.youtube.com/watch?v=jo7ggR1f54s) — Huang Brothers YouTube-Video
 
-[^9]: [Huang Brothers Wei-Wei „Ausstieg unter Zwang“ – Entschuldigung nötig? Nein!](https://newslab.pts.org.tw/news/216) — Öffentliches Radio News
+[^9]: [Huang Brothers Weiwei „gezwungen zum Coming-out“ – Du musst dich nicht entschuldigen](https://newslab.pts.org.tw/news/216) — PTS News
 
-[^10]: [Millionen-Youtuber Wei-Wei Huang Ting-Wei wird zum „Schriftsteller“ mit seiner ersten EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [Der YouTuber mit 2 Millionen Abonnenten, Weiwei (Huang Ting-wei), veröffentlicht seine erste EP als „Singer-Songwriter“](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Huang Brothers ermutigen die Menschen, für benachteiligte Kinder zu spenden und werden Botschafter der Rothschild-Organisation](https://money.udn.com/money/story/5723/8957929) — Wirtschaftszeitung (Bericht der Wirtschaftszeitung)
+[^11]: [Die Huang Brothers rufen die Öffentlichkeit dazu auf, benachteiligte Schüler zu unterstützen, und werden Botschafter der Red Heart Society](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (Bericht der Economic Daily News)
 
-[^12]: [Im Geschäft mit KOLs: Huang Brothers gestehen, dass sie die Grenzen überschritten sind](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo Nachrichten
+[^12]: [[KOL im Geschäft] Die Huang Brothers gestehen, dass ihre Streiche einmal eine Grenze überschritten haben](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Nicht nur Comedy-Videos: YouTuber nutzen ihre Plattform für soziale Verantwortung](https://csr.cw.com.tw/article/41369) — CSR der Heavenly Times
+[^13]: [Nicht nur lustige Videos drehen: YouTuber nutzen ihren Einfluss für soziale Verantwortung](https://csr.cw.com.tw/article/41369) — 天下 CSR

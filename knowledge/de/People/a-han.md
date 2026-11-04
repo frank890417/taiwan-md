@@ -23,16 +23,18 @@ featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:564bd16fb31e71be'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-04T18:48:39.625579+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Der 1994 in Hualien geborene Zeng Wen-han, Absolvent der Malklasse der Nationalen Mädchenhochschule in Hualien und des Animationsstudiums der Nationalen Kunstakademie in Taipeh, betreibt seit 2015 den YouTube-Kanal „Ah-Han po Videos“[^1] . Er spielte allein die Rollen von Liao Li-hsiang, Nünyang Jui-hsiao, Liao Li-chu, der Buffet-Tante – alle Figuren einer taiwanesischen Gasse. Sein Hauptwerk „Die Glücksdeutung der Fee der Neun Tage“ erreichte über 13 Millionen Aufrufe[^2] . Doch 2022 wurde seine Rolle der vietnamesischen Frau in der Mittagsfest-Werbung von echten vietnamesischen Frauen protestiert und entfernt – ein Junge aus Hualien, der die taiwanesische Gasse durch Imitation trug, wurde von den Menschen in der Gasse gefragt: „Warum bin nicht ich an dieser Stelle?“
+**30-Sekunden-Überblick:** 1994 in Hualien geboren, absolvierte Zeng Wen-han die Kunstklasse der Hualien Girls' High School und schloss anschließend das Animationsinstitut der Nationalen Universität der Künste Taipeh ab. 2015 startete er den YouTube-Kanal „Ah-Han po Videos“[^1]. Er verkörpert allein Figuren wie Liao Li-hsiang, Nünyang Jui-hsiao, Liao Li-zhu, die Buffet-Tante – die gesamte Bewohnerschaft einer taiwanesischen Gasse. Sein Vertreterwerk 《算命阿姨 九天玄女之天女散花》 erreichte über 13 Millionen Aufrufe[^2]. Doch in einer Werbung zum Geisterfest 2022 wurde seine Darstellung einer vietnamesischen Schwiegertochter von echten vietnamesischen Frauen protestiert und vom Netz genommen – ein Junge aus Hualien, der mit Mimikry eine ganze taiwanesische Gasse erschaffen hatte, wurde von den Bewohnern dieser Gasse gefragt: „Warum ist dieser Platz nicht ich?“.
 
-Ah-Hans Stärke liegt nicht darin, wie ähnlich eine Rolle ist, sondern dass er fast die ganze taiwanesische Gasse gespielt hat. Die Glücksfee, die vietnamesische Neueheitsfrau, die Vermieterin, die Buffet-Tante, das Mädchen in der Sekundarschule, der Motorradlehrer, die Klassensprecherin A-Wei – dieselbe Person, dasselbe Gesicht, mit anderen Akzenten, anderen Körperbewegungen, anderen Lebensphasen. Doch 2022 hat ihm diese Entfernung eine Lektion gegeben: Die Gasse nachzubilden, ist etwas anderes als in der Gasse zu leben.
+Ah-Hans Stärke liegt nicht in der Ähnlichkeit einer einzelnen Figur, sondern darin, dass er beinahe eine ganze taiwanesische Gasse bespielt: die Wahrsager-Tante, die vietnamesische Schwiegertochter, die Vermieter-Tante, die Buffet-Tante, das blinde Mittelstufenmädchen, der Motorradlehrer, der Klassensprecher Ah-Wei – ein einziger Mensch, ein einziges Gesicht, das unterschiedliche Akzente, Körperhaltungen und Lebensphasen annimmt. Doch die Absetzung 2022 lehrte ihn: Diese Gasse nachzuahmen und in ihr zu leben, war nie ein und dieselbe Sache.
 
 ## Eine Person, die eine ganze Gasse spielt
 
