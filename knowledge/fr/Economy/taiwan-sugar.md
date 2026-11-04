@@ -1,7 +1,8 @@
 ---
 title: "Taiwan Sugar : de l'empire sucré qui finançait 74 % des devises à la grande propriétaire terrienne « hors sol » qui bat des records de profit en 2025"
 description: "En 2025, le bénéfice net après impôts de Taiwan Sugar a atteint un sommet historique de 7,4 milliards de dollars taïwanais, mais cette entreprise centenaire ne vit plus de la vente de sucre. De pilier colonial sous l'occupation japonaise à poumon économique de l'après-guerre, retour sur la manière dont Taiwan Sugar s'est détourné du saccharose pour se réinventer dans les orchidées, les biotechnologies et l'architecture circulaire."
-category: Economy
+date: 2026-05-03
+category: 'Economy'
 tags:
   [
     'Taiwan Sugar',
@@ -10,17 +11,19 @@ tags:
     'économie circulaire',
     'Phalaenopsis',
   ]
+subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
-date: 2026-05-03
-readingTime: 8
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: Economy/台糖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Economy/台糖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: 2026-05-03T21:10:10+08:00
+translatedAt: '2026-11-04T16:59:53.531162+00:00'
 ---
 
 > **En bref (30 secondes) :** Dans les années 1950, sur 100 dollars taïwanais de recettes d'exportation, 74 provenaient du sucre de Taiwan Sugar. Aujourd'hui, l'activité saccharifère de l'entreprise est structurellement déficitaire, mais en 2025, grâce aux huiles alimentaires, aux orchidées et à l'aménagement foncier, elle a enregistré un bénéfice net record de 7,468 milliards de dollars taïwanais. La plus grande propriétaire terrienne de l'île est en train de se transformer d'une « entreprise sucrière » en chef de file de l'« économie circulaire ».

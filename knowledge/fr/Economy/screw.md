@@ -2,9 +2,7 @@
 title: 'Vis : la lutte pour la survie des champions cachés taïwanais pris entre droits de douane de 50 % et frontière carbone'
 description: "Autrefois maillon essentiel de la ligne d'approvisionnement de l'armée américaine pendant la guerre du Viêt Nam, Gangshan, à Kaohsiung, qui a posé les fondations du « royaume de la vis » taïwanais, se trouve aujourd'hui à un carrefour historique. Sous le double choc des droits de douane élevés de 50 % imposés par les États-Unis au titre de la section 232 et de la taxe carbone aux frontières CBAM de l'Union européenne, ces champions cachés qui dominaient jadis le marché mondial tentent, dans l'ombre de l'industrie des semi-conducteurs, d'écrire un nouveau chapitre de transformation résiliente."
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'vis',
@@ -14,18 +12,22 @@ tags:
     'transformation industrielle',
     'champions cachés',
   ]
-readingTime: 18
+subcategory: '經濟發展'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/螺絲.md'
-sourceCommitSha: '2faa5728b'
-sourceContentHash: 'sha256:fe3ea825ce4c4813'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6049462e74d5ad9d'
 sourceBodyHash: 'sha256:72d3ca65cff6d375'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-04T16:42:41.032254+00:00'
 ---
 
-> **Aperçu en 30 secondes :** Taïwan fut autrefois un centre d’approvisionnement au point qu’« une fixation sur trois aux États-Unis venait de Taïwan », jouant même un rôle déterminant pendant la guerre du Viêt Nam. Pourtant, avec l’imposition en 2025 par les États-Unis de droits de douane de 50 % au titre de la section 232, puis l’approche en 2026 de la taxe carbone européenne CBAM, cette industrie du « riz de l’industrie », qui produit plus de 50 milliards de dollars taïwanais par an et fait vivre 30 000 familles du nord de Kaohsiung, traverse une transformation existentielle : passer de la vente « au kilo » à la vente « à la pièce ».
+**Aperçu en 30 secondes :** Taïwan fut le centre d'approvisionnement où « un élément de fixation sur trois aux États-Unis provenait de Taïwan », jouant même un rôle décisif durant la guerre du Viêt Nam. Pourtant, avec les droits de douane de 50 % imposés par les États-Unis en 2025 au titre de l'article 232, et l'entrée en vigueur imminente de la taxe carbone CBAM de l'UE en 2026, cette industrie du « riz de l'industrie » — générant un chiffre d'affaires annuel de plus de NT$50 milliards et faisant vivre 30 000 familles dans le nord de Kaohsiung — traverse une transformation vitale, passant de la « vente au poids » à la « vente à l'unité ».
 
 ## La naissance d’un héros de la guerre du Viêt Nam : comment de petites vis ont-elles fixé les fondations du « royaume de la vis » taïwanais ?
 
