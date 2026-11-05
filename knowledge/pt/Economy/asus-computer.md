@@ -1,34 +1,37 @@
 ---
-title: 'ASUS (華碩電腦) — O gigante tecnológico que nasceu das motherboards'
-description: 'Da pequena fábrica de motherboards em Hsinchu, Taiwan, à quinta maior marca mundial de computadores pessoais: uma trajetória inspiradora de transformação e inovação.'
+title: 'ASUS: de um apartamento em Taipei à marca taiwanesa líder mundial em placas-mãe'
+description: 'A ASUS é uma marca taiwanesa, fundada em 1989 por quatro ex-engenheiros da Acer em um apartamento na Rua Minsheng East, em Taipei, com capital de apenas NT$10 milhões. Começou com placas-mãe, alcançando mais de 40% de participação no mercado global de placas-mãe e sendo líder por 15 anos consecutivos, com remessas de computadores pessoais classificadas em quinto lugar no mundo. Diferente de muitas empresas de tecnologia taiwanesas, a ASUS decidiu cedo operar sua própria marca, não fazendo apenas manufatura por contrato; em 2008, separou seu negócio de manufatura por contrato na Pegatron, dedicando-se desde então à gestão da marca.'
 date: 2026-03-20
 category: 'Economy'
-tags:
-  ['Economia', 'Empresas', 'Hardware de computadores', 'Marcas', 'Tecnologia']
+tags: ['Economia', 'Empresas', 'Hardware de computador', 'Marca', 'Tecnologia']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078ef'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-07-29T00:43:07+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-05T22:49:41.385375+00:00'
 ---
 
 > **Visão geral em 30 segundos**
 >
 > A ASUS (華碩電腦) é o quinto maior fornecedor mundial de computadores pessoais, tendo evoluído de uma empresa de motherboards fundada por quatro engenheiros em Taipé, em 1989, para um gigante tecnológico com receita anual próxima de 600 mil milhões de novos dólares de Taiwan. Reconhecida globalmente pela promessa de qualidade «Rock Solid» (firme como uma rocha), o seu portfólio abrange motherboards, portáteis, smartphones, equipamentos para gaming e muito mais, constituindo o melhor exemplo da transformação da indústria de TI de Taiwan, de OEM para marca própria.
 
-## Por que a ASUS importa?
+## Por que a ASUS é importante?
 
-Imagine que você vai montar um computador: qual marca de motherboard lhe dá mais confiança? A resposta provavelmente é ASUS (華碩). Esta marca nascida em Taiwan tornou-se sinónimo de «qualidade» e «inovação» na mente de jogadores de PC, atletas de eSports e criadores de conteúdo em todo o mundo.
+Imagine que você vai montar um computador: qual marca de motherboard transmite mais confiança? A resposta provavelmente é ASUS (華碩). Esta marca originária de Taiwan tornou-se sinônimo de "qualidade" e "inovação" na mente de jogadores de PC, atletas de e-sports e criadores em todo o mundo.
 
-Mas a história da ASUS vai muito além de um fabricante de motherboards. Ela é pioneira na transição da indústria tecnológica de Taiwan, de fabricante por encomenda (OEM) para marca própria, e uma das poucas empresas taiwanesas capazes de competir frontalmente com gigantes internacionais como Apple, Samsung e Lenovo no feroz mercado de eletrónica de consumo.
+Mas a história da ASUS vai muito além de uma simples fabricante de motherboards. Ela é pioneira na transição da indústria tecnológica de Taiwan de OEM para marca própria, e uma das poucas empresas taiwanesas capazes de competir de frente com gigantes internacionais como Apple, Samsung e Lenovo no acirrado mercado de eletrônicos de consumo.
 
-Da equipa de quatro pessoas num apartamento em Hsinchu ao atual império tecnológico presente em 68 países, a trajetória de crescimento da ASUS reflete a metamorfose da indústria tecnológica de Taiwan ao longo de mais de três décadas. Enquanto «Taiwan No.1» virou meme de jogos, a ASUS respondeu com desempenho real de mercado.
+De uma equipe de quatro pessoas empreendendo em um apartamento na Rua Minsheng East, em Taipé, até o império tecnológico global de hoje, presente em 68 países, a trajetória de crescimento da ASUS reflete a transformação da indústria tecnológica de Taiwan ao longo de mais de três décadas. Quando "Taiwan No.1" já virou meme de jogos, a ASUS deu uma resposta diferente com seu desempenho real de mercado.
 
 ## Visão empresarial: do domínio em motherboards a marca tecnológica completa
 
