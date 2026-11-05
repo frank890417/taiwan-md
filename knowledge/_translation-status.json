@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T05:02:05+08:00",
-    "zhCommitHead": "b9813437b",
+    "lastUpdated": "2026-11-06T05:28:01+08:00",
+    "zhCommitHead": "be15f8eff",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1103,
-        "stale": 27,
+        "fresh": 1104,
+        "stale": 26,
         "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
@@ -86411,8 +86411,8 @@
           "sourceContentHash": "sha256:69050f9233c761e6",
           "sourceBodyHash": "sha256:9493291d7f66f3a4",
           "translatedAt": "2026-11-05T19:30:10.962426+00:00",
-          "translationLastCommit": "c6646d31",
-          "translationLastModified": "2026-10-15T13:24:14+08:00",
+          "translationLastCommit": "cdd1dcca",
+          "translationLastModified": "2026-11-06T05:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 34074,
@@ -88905,20 +88905,18 @@
         "ru": {
           "path": "ru/Nature/malayan-night-heron.md",
           "translatedFrom": "Nature/黑冠麻鷺.md",
-          "sourceCommitSha": "2da8b92f2",
-          "sourceContentHash": "sha256:74ac37cae326eaa1",
-          "sourceBodyHash": "sha256:9c1e23df6047812e",
-          "translatedAt": "2026-08-04T13:09:28.624712+00:00",
+          "sourceCommitSha": "0a79156df",
+          "sourceContentHash": "sha256:55a53c683cb2fe02",
+          "sourceBodyHash": "sha256:d2a2bc2c14be17d0",
+          "translatedAt": "2026-11-06T02:40:43+08:00",
           "translationLastCommit": "7d2147b6",
           "translationLastModified": "2026-10-10T23:19:55+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 43981,
+          "bytes": 46563,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/malayan-night-heron.md",
