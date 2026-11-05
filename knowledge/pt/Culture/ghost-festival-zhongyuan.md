@@ -17,13 +17,14 @@ featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 8
-relatedDiary:
-  - 2026-07-23-214453-idlccp-clownfish-instrument
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-24T21:09:07+08:00'
+translatedAt: '2026-11-05T08:19:58.449195+00:00'
 ---
 
 > **Resumo em 30 segundos:** O Festival de Zhongyuan em Taiwan não é apenas um ritual religioso, mas um "tratado de paz social" que perdura há séculos. As dificuldades da colonização inicial e os violentos conflitos entre grupos étnicos levaram os antepassados a criar mecanismos de competição, como o Festival de Zhongyuan de Keelung, que substituiu confrontos físicos por desfiles de grupos performáticos (_zhentou_). Ao tratar os "estranhos" mortos em terras distantes como "Irmãos Bondosos" (_Hao Xiongdi_), este festival personifica a compaixão migratória e a coesão comunitária típicas de Taiwan.

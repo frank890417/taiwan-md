@@ -1,10 +1,8 @@
 ---
 title: 'Nomes de feira'
 description: 'Se você gritar "Shufen" ou "Jiahao" nas ruas de Taiwan, quantas pessoas virariam a cabeça? Esses nomes são um microcosmo da sociedade taiwanesa, registrando a imaginação coletiva de diferentes gerações sobre o que é uma "vida boa".'
-date: '2026-04-19'
-author: 'Taiwan.md'
+date: 2026-04-19
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Cultura social',
@@ -15,15 +13,20 @@ tags:
     'Jiahao',
     'Yating',
   ]
-readingTime: '6'
-lastVerified: '2026-04-19'
-lastHumanReview: 'true'
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-19
+lastHumanReview: true
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T01:31:54+08:00'
+translatedAt: '2026-11-05T08:36:03.471472+00:00'
 ---
 
 # Nomes de feira

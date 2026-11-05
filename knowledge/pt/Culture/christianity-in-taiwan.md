@@ -5,16 +5,16 @@ date: 2026-04-29
 category: 'Culture'
 tags:
   [
-    Cristianismo,
-    História de Taiwan,
-    Igreja Presbiteriana,
-    George Leslie Mackay,
-    James Laidlaw Maxwell,
-    Frank Dennis,
-    Bjarne Gislefoss,
-    Ajuda Americana,
-    Período Colonial Japonês,
-    Mórmon,
+    'Cristianismo',
+    'História de Taiwan',
+    'Igreja Presbiteriana',
+    'George Leslie Mackay',
+    'James Laidlaw Maxwell',
+    'Frank Dennis',
+    'Bjarne Gislefoss',
+    'Ajuda Americana',
+    'Período Colonial Japonês',
+    'Mórmon',
   ]
 subcategory: '宗教與民俗'
 author: 'idlccp1984'
@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-07-25T01:31:54+08:00'
+translatedAt: '2026-11-05T08:13:53.036552+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O desenvolvimento do cristianismo em Taiwan é uma maratona longa, do "mal-entendido" à "simbiose". Os missionários do século XIX abriram portas sociais com "uma mão na Bíblia, a outra no alicate de extração"; George Leslie Mackay sozinho extraiu mais de 20.000 dentes. Após sobreviver à opressão da veneração a santuários xintoístas durante o período colonial japonês e aos anos de socorro da "igreja da farinha" da ajuda americana no pós-guerra, essa força finalmente se voltou à política durante a lei marcial: a Igreja Presbiteriana arriscou tudo para publicar a _Declaração dos Direitos Humanos_, tornando-se uma voz impossível de ignorar no processo de democratização de Taiwan. E, na atualidade, os missionários mórmons de camisa branca e bicicleta tornaram-se outra paisagem única nas ruas de Taiwan.

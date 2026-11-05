@@ -1,10 +1,8 @@
 ---
 title: 'Plurk'
 description: 'Plurk, plataforma de microblog lançada em 2008, ganhou vida durante a década em que Facebook e Twitter dominaram o mundo, graças ao seu eixo de tempo em formato de canal horizontal e à ausência de algoritmo de recomendação. Em 2016, após ser bloqueado pelo Google AdSense, tornou‑se lucrativo graças ao modelo de assinatura paga com “Plurk Coins” – usuários taiwaneses votaram em novos dólares taiwaneses, mantendo esse canal que não é controlado por algoritmos em fluxo contínuo.'
-date: '2026-04-01'
-author: 'Taiwan.md Contributors'
+date: 2026-04-01
 category: 'Culture'
-subcategory: '數位生活'
 tags:
   [
     'Mídias sociais',
@@ -12,14 +10,18 @@ tags:
     'História da internet em Taiwan',
     'Plurk Coins',
   ]
-lastVerified: '2026-04-01'
-lastHumanReview: 'true'
+subcategory: '數位生活'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-04-01
+lastHumanReview: true
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/噗浪Plurk.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-05T08:26:59.032812+00:00'
 ---
 
 > **30 segundos de visão geral:**  
