@@ -1,8 +1,8 @@
 ---
 title: 'Esthétique de la République de Chine : Des drapeaux municipaux aux enseignes de rue, comment une île transforme la vie en puzzle visuel'
 description: "De la vue de rue et de l'architecture aux drapeaux municipaux, en passant par les enseignes et le design public, nous interrogeons la formation de l'esthétique de la République de Chine et pourquoi il est réducteur de réduire Taïwan à la seule laideur."
+date: 2026-08-20
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'Vue de rue',
@@ -14,17 +14,19 @@ tags:
     'Secteur de la Université Nationale du Nord',
     'Esthétique de la République de Chine',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 14
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/中華民國美學.md'
-sourceCommitSha: 'ba877ac2b'
-sourceContentHash: 'sha256:c8f833e6836a370f'
-sourceBodyHash: 'sha256:26c6e79fd91efe41'
-translatedAt: '2026-09-11T12:05:20+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:d44f393287c030ea'
+sourceBodyHash: 'sha256:764a5128969f3793'
+translatedAt: '2026-11-05T15:27:51.579854+00:00'
 ---
 
 Le 15 octobre 2024, le Ministère de l'Économie a publié les résultats de la rénovation des enseignes du quartier commercial Youai de Guohua à Tainan, remplaçant au total 41 nouvelles enseignes de magasins. [^1] En 2016, le ramp d'accès du pont de Zhongxiao à Taipei a été démoli, permettant à la Porte Nord (Beimen) de réapparaître enfin sous le viaduc, tandis que les rues et les enseignes environnantes ont commencé à être réorganisées. [^2] Le 29 février 2024, le gouvernement municipal de Nouveau Taipei a approuvé la deuxième révision globale du plan détaillé de la zone spécifique de la communauté de l'Université de Taipei. [^3]
@@ -41,24 +43,24 @@ Le point commun de ces vidéos est de lire le paysage urbain comme une histoire 
 
 📝 **Note du commissaire :** Dire qu'un lieu est « laid » génère rapidement un écho. Le décomposer en système, objets et choix humains permet de commencer à le comprendre véritablement.
 
-## Ce que ce terme dit vraiment
+## Ce que ce terme dit réellement
 
-L'« esthétique de la République de Chine » n'est pas un style national doté d'un manuel de design explicite. C'est plutôt un cadre d'observation formé _a posteriori_, qui assemble les choix visuels de différentes époques, d'institutions différentes et d'industries diverses en une image de synthèse à la tonalité ironique.
+« L'esthétique de la République de Chine » n'est pas un style national doté d'un manuel de conception explicite. Elle ressemble davantage à un cadre de lecture constitué a posteriori, qui assemble les choix visuels de différentes époques, administrations et industries pour en faire une image composite teintée d'ironie.
 
-Cette image de synthèse comprend les tuiles rouges, les colonnes vertes et les compositions symétriques des bâtiments commémoratifs nationaux, ainsi que les enseignes en toile des murs extérieurs des marchés, les bandes lumineuses des centres de tutorat, les caractères dorés sur fond rouge des temples, les mascottes des événements locaux, les armoiries et drapeaux des gouvernements municipaux et provinciaux. Elle contient à la fois « l'ordre que l'État souhaite faire voir » et « ce que les résidents a ajouté pour sa propre vie ».
+Cette composition comprend les tuiles rouges, les colonnes vertes et les compositions symétriques de l'architecture commémorative d'État, mais aussi les enseignes en toile des façades de marché, les défilements lumineux des cram schools, les caractères dorés sur fond rouge vif des temples, les mascottes des événements locaux, les armoiries et drapeaux des gouvernements de comté et de ville. Elle englobe à la fois « l'ordre que l'État veut rendre visible » et « ce que les habitants ajoutent eux-mêmes pour vivre ».
 
-Par conséquent, ce terme comporte au moins huit facettes. C'est une facette architecturale, et aussi une facette d'enseigne. C'est une facette d'installations publiques et de drapeaux municipaux, et aussi une facette de constructions illégales, de fils électriques, de stationnement et de maintenance. Elle inclut également les appels d'offres du secteur public et la propagande, la présence ou l'absence d'éducation à la vision dans les écoles, et la manière dont une société décide quels styles locaux méritent d'être préservés.
+Ce terme recouvre donc au moins huit dimensions. C'est une dimension architecturale, mais aussi une dimension signalétique. C'est une dimension d'équipements publics et de drapeaux locaux, mais aussi une dimension de constructions illégales, de câbles, de stationnement et de maintenance. Elle inclut encore les appels d'offres et la communication du secteur public, la question de savoir si l'on a appris à regarder à l'école, et la manière dont une société décide quels styles locaux méritent d'être conservés.
 
-| Facette                   | Ce qui est visible dans la rue                                                 | La question sous-jacente                                                                |
-| ------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Histoire et régime        | Bâtiments commémoratifs, symboles nationaux, drapeaux                          | Qui est placé dans le champ visuel public, qui est caché                                |
-| Architecture et habitat   | Briques, immeubles, fenêtres en fer, balcons en saillie, surélévations         | Comment les besoins en logement et les règles urbaines s'opposent                       |
-| Commerce et enseignes     | Toile, néons, polices, bandes lumineuses                                       | Comment les commerçants cherchent à attirer l'attention sur une façade limitée          |
-| Infrastructures           | Fils électriques, climatiseurs, boîtes de transformation, stationnement rue    | Comment les systèmes publics et les besoins privés se superposent                       |
-| Identité locale           | Drapeaux municipaux, armoiries, mascottes, visuels d'événements                | Comment une localité souhaite se présenter à travers des images                         |
-| Design du secteur public  | Vidéos de propagande, affiches, résultats d'appels d'offres                    | Comment les professionnels, les budgets et les attentes politiques entrent en collision |
-| Éducation et maintenance  | Écoles, propreté des rues, renouvellement des enseignes                        | La beauté peut-elle devenir une compétence quotidienne ?                                |
-| Exceptions et gouvernance | Secteur de la Université Nationale du Nord, Porte Nord, rénovation commerciale | Les règles peuvent-elles permettre aux lieux de former leur propre ordre ?              |
+| Dimension                 | Ce qu'on voit dans la rue                                                                   | La question sous-jacente                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Histoire et pouvoir       | Architecture commémorative, symboles nationaux, drapeaux                                    | Qui est mis en visibilité publique, qui est mis de côté                       |
+| Architecture et habitat   | Carreaux, immeubles, fenêtres à barreaux, extensions, surélévations                         | Comment les besoins en logement et les règles urbaines se tirent la bourre    |
+| Commerce et enseignes     | Toiles, néons, polices, défilements lumineux                                                | Comment les commerçants se disputent l'attention sur des façades limitées     |
+| Infrastructures           | Câbles, climatiseurs, boîtiers de transformateur, stationnement en bordure                  | Comment les systèmes publics et les besoins privés s'empilent                 |
+| Identité locale           | Drapeaux de comté/ville, armoiries, mascottes, visuels d'événements                         | Quelles images le territoire choisit pour se présenter                        |
+| Design du secteur public  | Films promotionnels, affiches, résultats d'appels d'offres                                  | Comment professionnalisme, budget et attentes politiques entrent en collision |
+| Éducation et maintenance  | Campus, propreté des rues, renouvellement des enseignes                                     | L'esthétique peut-elle devenir une compétence quotidienne                     |
+| Exceptions et gouvernance | Zone spéciale de l'Université nationale, Porte du Nord, rénovation de quartiers commerciaux | Les règles peuvent-elles permettre à un lieu de se donner son propre ordre    |
 
 ## L'architecture n'est pas un décor, mais un geste laissé par la vie
 
@@ -90,27 +92,27 @@ Une enseigne peut simultanément contenir le nom du magasin, le téléphone, les
 
 Cependant, le problème de Taïwan ne réside pas seulement dans le « trop ». Les affiches commerciales et les publicités pour l'alcool de l'époque japonaise utilisaient également des images vives, des personnages, du texte et des imaginations exotiques. Ces matériaux historiques nous rappellent que la visibilité commerciale absorbe toujours la technologie, l'industrie et les modes de l'époque. La vraie question à se poser est de savoir si le design d'aujourd'hui sait ce qu'il cite, et s'il peut permettre aux nouveaux éléments et aux anciennes rues de s'expliquer mutuellement. [^13]
 
-## Drapeaux municipaux : la visibilité publique la plus souvent ignorée
+## Drapeaux des comtés et villes : l'identité visuelle publique la plus facilement négligée
 
-Si les enseignes représentent le commerce privé, les drapeaux municipaux sont la méthode par laquelle les gouvernements locaux s'insèrent dans le paysage urbain. Ils apparaissent souvent devant les mairies, les bureaux de district, les écoles, les stades, les scènes de festivités et les entrées de routes. Les armoiries, le texte, le nom en anglais, les couleurs et les proportions du drapeau, combinés aux bâtiments, aux panneaux d'arrière-plan des événements, aux uniformes et aux véhicules de propagande, forment l'identité locale.
+Si les enseignes représentent le commerce privé, les drapeaux des comtés et villes sont la manière dont les gouvernements locaux s'insèrent dans le paysage urbain. On les trouve souvent aux mairies, bureaux de district, écoles, stades, scènes de cérémonie et entrées de routes. Les armoiries, textes, noms en anglais, couleurs et proportions sur les drapeaux, ensemble avec l'architecture, les fonds de scène d'événements, les uniformes et les véhicules de propagande, forment l'identité locale.
 
-Cette couche est souvent ignorée car les gens ont l'habitude de considérer le drapeau comme un arrière-plan. En réalité, le drapeau est très honnête. Il ne peut pas expliquer lentement comme un site web, ni compléter l'histoire comme un long texte. Il doit permettre, au vent, de loin, plié et dans un regard rapide, de reconnaître l'endroit.
+Cette couche est souvent ignorée, car les gens ont l'habitude de considérer les drapeaux comme un arrière-plan. Pourtant, les drapeaux sont très honnêtes. Ils ne peuvent pas s'expliquer lentement comme un site web, ni compléter l'histoire comme un long texte. Ils doivent permettre aux gens de reconnaître où ils se trouvent dans le vent, de loin, pliés et sous des regards rapides.
 
-Les drapeaux de la ville de Taoyuan et du comté de Yilan peuvent être trouvés sur Wikimedia Commons sous forme de fichiers du domaine public directement intégrables. La valeur de ces images ne réside pas dans la preuve que tel drapeau est plus beau que tel autre, mais dans le fait de permettre au lecteur de voir que l'identité locale fait partie du design urbain. [^8] [^9]
+Le drapeau de la ville de Taoyuan et le drapeau du comté de Yilan peuvent tous deux être trouvés sur Wikimedia Commons sous forme de fichiers de domaine public directement intégrables. La valeur de ces images ne réside pas dans le fait de prouver quel drapeau est plus beau, mais dans le fait de permettre aux lecteurs de voir que l'identité locale fait aussi partie du design urbain.[^8] [^9]
 
 ![Drapeau de la ville de Taoyuan](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
 
-_Image : Drapeau de la ville de Taoyuan, Wikimedia Commons, Domaine public / Exempté PD-ROC. Page du fichier : [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Ici, seul un lien chaud est intégré, sans téléchargement d'image._
+_Image : Drapeau de la ville de Taoyuan, Wikimedia Commons, Public domain／PD-ROC-exempt. Page du fichier : [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Ici, seul le lien direct est intégré, l'image n'est pas téléchargée._
 
-Le problème des drapeaux municipaux est similaire à celui des enseignes. Trop de texte, et de loin, on ne voit plus qu'une masse. Des armoiries qui contiennent trop de montagnes, de mers, d'épis de riz, de routes, de symboles technologiques et historiques font perdre au récit local sa profondeur. Lorsque les couleurs n'ont pas de normes d'utilisation, les drapeaux municipaux, les drapeaux d'événements, les mascottes et les panneaux de propagande émettent chacun leur propre voix, créant une sensation visuelle de « tout le monde représente la localité, mais personne n'a conçu ensemble ».
+La difficulté des drapeaux des comtés et villes ressemble beaucoup à celle des enseignes. Trop de texte, et de loin on ne voit qu'une masse. L'écusson bourré de trop de symboles — montagnes, mer, épis de riz, routes, technologie et histoire — fait perdre les couches de l'histoire locale. Quand les couleurs n'ont pas de normes d'utilisation, le drapeau de la ville, le drapeau d'événement, la mascotte et le fond de scène de propagande parlent chacun de leur côté, et toute la rangée suspendue ensemble produit une impression visuelle du genre « tout le monde représente la localité, mais personne n'a été conçu ensemble ».
 
-C'est la version publique de « l'esthétique de la République de Chine ». Ce n'est pas la responsabilité d'un seul drapeau, mais le résultat de la mise par les gouvernements locaux de l'identité, du slogan politique, de l'image touristique et de la fonction administrative sur la même image. Un drapeau peut être animé, mais l'animation n'est pas égale à la reconnaissance. La culture locale n'a pas besoin d'être compressée en une forme de montagne, une fleur ou cinq couleurs pour être représentée.
+C'est précisément la version publique de « l'esthétique de la République de Chine ». Ce n'est pas la responsabilité d'un seul drapeau, mais le résultat de gouvernements locaux qui mettent l'identification, les slogans politiques, les images touristiques et les fonctions administratives toutes sur la même image. Les drapeaux peuvent être très animés, mais l'animation ne vaut pas reconnaissance. La culture locale n'a pas non plus besoin d'être compressée en une forme de montagne, une fleur ou cinq couleurs pour être représentée.
 
 ![Drapeau du comté de Yilan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
 
-_Image : Drapeau du comté de Yilan, Wikimedia Commons, Domaine public / Exempté PD-ROC. Page du fichier : [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Ici, seul un lien chaud est intégré, sans téléchargement d'image._
+_Image : Drapeau du comté de Yilan, Wikimedia Commons, Public domain／PD-ROC-exempt. Page du fichier : [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Ici, seul le lien direct est intégré, l'image n'est pas téléchargée._
 
-📝 **Note du commissaire :** Un drapeau n'est pas tout le lieu, mais il expose si le gouvernement local sait ce qu'il faut préserver et ce qu'il peut abandonner.
+📝 **Note du curateur :** Un drapeau n'est pas la totalité d'une localité, mais il révèle si le gouvernement local sait ce qu'il faut garder et ce qu'il peut laisser tomber.
 
 ## Fils électriques, climatiseurs et stationnement : les infrastructures urbaines ont aussi une esthétique
 
@@ -184,40 +186,40 @@ Le moment le plus utile de « l'esthétique de la République de Chine » n'est 
 
 ## Références
 
-[^1]: [Ministère de l'Économie : Fusionner le design esthétique et la culture locale pour redonner un nouveau visage au quartier commercial](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Le Bureau du développement commercial du Ministère de l'Économie explique la rénovation de 41 enseignes du quartier commercial Youai de Guohua à Tainan, ainsi que les cas d'ajout de design pour les quartiers commerciaux de Changhua et Kaohsiung.
+![Enseignes chinoises à un coin de rue de Taipei](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
 
-[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Cas de paysage urbain en anglais enregistrant la démolisation du ramp d'accès de la Porte Nord à Taipei, le renouvellement des enseignes et le processus de discussion commune entre résidents, commerçants et designers.
+_Image : enseignes chinoises à un coin de rue de Taipei, Wikimedia Commons, CC0 / Domaine public. Page du fichier : [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Ici, seule l'URL directe est intégrée, l'image n'est pas téléchargée._
 
-[^3]: [Bureau du développement urbain et rural du gouvernement municipal de Nouveau Taipei : Annonce de la modification du plan détaillé de la zone spécifique de la communauté de l'Université de Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Le gouvernement municipal de Nouveau Taipei annonce la deuxième révision globale du plan détaillé du Secteur de la Université Nationale du Nord, mise en œuvre à partir du 29 février 2024.
+[^1]: [Ministère de l'Économie : fusion du design esthétique et de la culture locale, redéfinir l'apparence des quartiers commerciaux](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Le Bureau du développement commercial du Ministère de l'Économie explique la rénovation de 41 enseignes dans le quartier commercial Guohua-You'ai à Tainan, ainsi que des exemples de valorisation par le design dans les quartiers commerciaux de Changhua et Kaohsiung.
 
-[^4]: [Ministère de l'Intérieur : Mesures de gestion des enseignes publicitaires et des publicités dressées](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Page réglementaire du Ministère de l'Intérieur définissant les enseignes et les publicités dressées, stipulant les dimensions, les permis, la sécurité et la capacité des gouvernements locaux à établir des normes de forme, couleur et police.
+[^2]: [En partant des panneaux de rue](https://thecityateyelevel.com/stories/starting-from-street-signs/) — L'étude de cas en anglais sur le paysage urbain enregistre la démolition de la rampe d'accès du viaduc de la porte du Nord à Taipei, la mise à jour des panneaux de signalisation et le processus de discussion conjointe entre résidents, commerçants et designers.
 
-[^5]: [The City at Eye Level：Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Cas en anglais expliquant la concurrence des enseignes dans les quartiers mixtes résidentiels et commerciaux de Taïwan, les réglementations de 1996 sur les enseignes à Taipei et la rénovation participative de la communauté de la Porte Nord.
+[^3]: [Bureau du développement urbain et rural du gouvernement de la ville de New Taipei : annonce de modification du plan détaillé de la zone spécifique de la communauté de l'Université de Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Le gouvernement de la ville de New Taipei annonce la deuxième révision complète du plan détaillé de la zone spéciale de l'Université de Taipei, effective à partir du 29 février 2024.
 
-[^6]: [Taiwan Ministry of Education：Taiwan's Campus Aesthetic Revamp Shines on the Global Stage](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Page anglaise du Ministère de l'Éducation présentant le projet de design scolaire qui utilise la pensée par le design pour améliorer l'environnement d'apprentissage depuis 2019, enregistrant les prix internationaux et l'attention des médias.
+[^4]: [Ministère de l'Intérieur : règlement sur la gestion des enseignes publicitaires et des panneaux d'affichage](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — La page réglementaire du Ministère de l'Intérieur définit les enseignes et les panneaux d'affichage, et prescrit les dimensions, les permis, la sécurité, ainsi que la possibilité pour les gouvernements locaux de fixer des normes de forme, de couleur et de police.
 
-[^7]: [Ministère de l'Éducation : Plan à moyen et long terme de la troisième phase de cinq ans de l'éducation esthétique](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Document politique du Ministère de l'Éducation expliquant le budget, les objectifs, les axes de promotion et les directions de pratique locale de l'éducation esthétique de 2024 à 2028.
+[^5]: [The City at Eye Level : En partant des panneaux de rue](https://thecityateyelevel.com/stories/starting-from-street-signs/) — L'étude de cas en anglais explique la concurrence des enseignes dans les quartiers à usage mixte résidentiel-commercial de Taïwan, la réglementation sur les enseignes de Taipei de 1996 et la transformation participative du quartier de la porte du Nord.
 
-[^8]: [Wikimedia Commons : Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Page du fichier Wikimedia Commons enregistrant l'image du drapeau de la ville de Taoyuan, marquée Domaine public / Exempté PD-ROC, adaptée à l'intégration par lien chaud.
+[^6]: [Ministère de l'Éducation de Taïwan : la rénovation esthétique des campus de Taïwan brille sur la scène mondiale](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — La page en anglais du Ministère de l'Éducation présente le projet de design de campus qui, depuis 2019, améliore les environnements d'apprentissage par la pensée design, et enregistre les prix internationaux et l'attention médiatique.
 
-[^9]: [Wikimedia Commons : Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Page du fichier Wikimedia Commons enregistrant l'image du drapeau du comté de Yilan, marquée Domaine public / Exempté PD-ROC, adaptée à l'intégration par lien chaud.
+[^7]: [Ministère de l'Éducation : troisième plan quinquennal du programme à moyen et long terme d'éducation esthétique](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Le document de politique du Ministère de l'Éducation explique le budget, les objectifs, les axes de promotion et les orientations de mise en œuvre locale de l'éducation esthétique pour 2024-2028.
 
-[^10]: [Taiwan.md : Secteur de la Université Nationale du Nord : Trente ans de plan urbain et expérience de vie de la ville universitaire](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Article existant de Taiwan.md traitant de manière complète l'histoire, l'urbanisme, la rue Xueqin, l'architecture, la population, les transports, la gentrification et la justice foncière du Secteur de la Université Nationale du Nord.
+[^8]: [Wikimedia Commons : Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — La page de fichier de Wikimedia Commons enregistre l'image du drapeau de la ville de Taoyuan, marquée Domaine public / PD-ROC-exempt, adaptée pour une intégration par URL directe.
 
-[^11]: [YouTube : Discutons ensemble de la beauté](https://www.youtube.com/watch?v=m_NTelUFF8I) — La vidéo de Landon discute de la formation de « l'esthétique de la République de Chine » à travers le paysage urbain taïwanais, les enseignes, les fenêtres en fer, les surélévations et la visibilité publique.
+[^9]: [Wikimedia Commons : Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — La page de fichier de Wikimedia Commons enregistre l'image du drapeau du comté de Yilan, marquée Domaine public / PD-ROC-exempt, adaptée pour une intégration par URL directe.
 
-[^12]: [YouTube : L'esthétique de Huaguo et ses échecs](https://www.youtube.com/watch?v=0ltZtVaHV84) — La vidéo de 甲YEET的泡麵館 (Restaurant de nouilles instantanées de Jia YEET) discute du contexte critique de « l'esthétique de Huaguo » à travers l'architecture, les couleurs, les enseignes et la maintenance.
+[^10]: [Taiwan.md : zone spéciale de l'Université de Taipei : trente ans de planification urbaine et d'expérience de vie en ville universitaire](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — L'entrée existante de Taiwan.md traite de manière exhaustive l'histoire, la planification urbaine, la route Xueqin, l'architecture, la population, les transports, la gentrification et la justice foncière de la zone spéciale de l'Université de Taipei.
 
-[^13]: [YouTube : Images et vérité : Les affiches commerciales de l'époque japonaise](https://www.youtube.com/watch?v=fMR-z-lcols) — La vidéo de 佐榮寫真館 (Studio photographique de Zuo Rong) complète l'histoire antérieure de la culture visuelle de Taïwan à travers les affiches commerciales de l'époque japonaise, les publicités pour l'alcool et les paysages urbains historiques.
+[^11]: [YouTube : parlons de ces questions d'esthétique](https://www.youtube.com/watch?v=m_NTelUFF8I) — La vidéo de Landon discute de la formation de l'« esthétique de la République de Chine » à travers les paysages de rue de Taïwan, les enseignes, les grilles en fer, les constructions sur les toits et le visuel public.
 
-[^14]: [YouTube : Observations de rue lors du voyage à Osaka, épisode 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — La vidéo de Landon compare les enseignes, polices, couleurs, ordre de rue et la rénovation de design du marché Yongle à Tainan entre Osaka et Taïwan.
+[^12]: [YouTube : l'esthétique huaguo et ses échecs](https://www.youtube.com/watch?v=0ltZtVaHV84) — La vidéo de la chaîne 'Jia YEET's Instant Noodle Shop' discute le contexte critique de l'« esthétique huaguo » à travers l'architecture, les couleurs, les enseignes et la maintenance.
 
-[^15]: [YouTube : Quel problème l'esthétique du secteur public taïwanais a-t-il ?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — La vidéo de 自由追新聞 (Libre poursuite de l'information) discute de la qualité de la visibilité publique à travers les vidéos de propagande du secteur public, les appels d'offres, la division professionnelle et l'éducation esthétique.
+[^13]: [YouTube : images à l'appui : les affiches commerciales de l'ère japonaise](https://www.youtube.com/watch?v=fMR-z-lcols) — La vidéo du studio photo Zuo Rong complète la préhistoire de la culture visuelle de Taïwan avec des affiches commerciales de l'ère japonaise, des publicités pour l'alcool et des paysages urbains historiques.
 
-[^16]: [YouTube : Pourquoi le paysage urbain taïwanais est-il si laid ? L'origine de l'esthétique de la République de Chine](https://www.youtube.com/watch?v=CA-EpOj72d4) — La vidéo de cheap propose un cadre critique de « l'esthétique de la République de Chine » à travers le paysage urbain, les constructions illégales, les installations publiques, les réglementations et la mentalité historique.
+[^14]: [YouTube : observation des rues d'Osaka, deuxième épisode](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — La vidéo de Landon compare les enseignes, les polices, les couleurs, l'ordre des rues d'Osaka et de Taïwan, ainsi que la rénovation design du marché Yongle à Tainan.
 
-[^17]: [Wikimedia Commons : Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Page du fichier Wikimedia Commons enregistrant la photo d'enseignes chinoises dans la rue de Taipei, marquée CC0 / Domaine public, pouvant être intégrée par lien direct.
+[^15]: [YouTube : quel est le problème de l'esthétique du secteur public à Taïwan ?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — La vidéo de 'Liberty Pursuit News' discute de la qualité visuelle publique à travers les films promotionnels du secteur public, les appels d'offres, la division professionnelle du travail et l'éducation esthétique.
 
-![Enseignes chinoises dans un coin de rue de Taipei](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
+[^16]: [YouTube : pourquoi les paysages de rue de Taïwan sont-ils si laids ? Les origines de l'esthétique de la République de Chine](https://www.youtube.com/watch?v=CA-EpOj72d4) — La vidéo de 'cheap' propose un cadre de commentaire sur l'« esthétique de la République de Chine » à partir des paysages de rue, des constructions illégales, des équipements publics, des réglementations et de la mentalité historique.
 
-_Image : Enseignes chinoises dans un coin de rue de Taipei, Wikimedia Commons, CC0 / Domaine public. Page du fichier : [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Ici, seul un lien chaud est intégré, sans téléchargement d'image._
+[^17]: [Wikimedia Commons : Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — La page de fichier de Wikimedia Commons enregistre la photo des enseignes chinoises des rues de Taipei, marquée CC0 / Domaine public, utilisable par intégration directe d'URL.

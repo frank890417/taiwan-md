@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T00:50:25+08:00",
-    "zhCommitHead": "30c05b3df",
+    "lastUpdated": "2026-11-06T01:03:33+08:00",
+    "zhCommitHead": "213417602",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1088,
-        "stale": 33,
+        "fresh": 1089,
+        "stale": 32,
         "metadata_stale": 37,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1092,
-        "stale": 34,
+        "fresh": 1093,
+        "stale": 33,
         "metadata_stale": 32,
         "missing": 4,
         "orphan": 0
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 30,
-        "metadata_stale": 29,
+        "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1072,
+        "fresh": 1073,
         "stale": 36,
-        "metadata_stale": 50,
+        "metadata_stale": 49,
         "missing": 4,
         "orphan": 0
       }
@@ -7872,8 +7872,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-11-05T15:52:35.602014+00:00",
-          "translationLastCommit": "598c21b8",
-          "translationLastModified": "2026-09-13T15:48:14+08:00",
+          "translationLastCommit": "21341760",
+          "translationLastModified": "2026-11-06T00:50:26+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 29851,
@@ -8694,20 +8694,18 @@
         "ja": {
           "path": "ja/Economy/taiwan-shipbuilding-industry.md",
           "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:74f243c904946316",
+          "sourceBodyHash": "sha256:d4cdc4cd51a6a4ff",
+          "translatedAt": "2026-11-05T23:10:45+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 22549,
+          "bytes": 20387,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-shipbuilding-industry.md",
@@ -123369,20 +123367,18 @@
         "en": {
           "path": "en/People/liao-tian-ding.md",
           "translatedFrom": "People/廖添丁.md",
-          "sourceCommitSha": "28304057a",
-          "sourceContentHash": "sha256:e0f89a1113cc2a1d",
-          "sourceBodyHash": "sha256:f4fed166bea776f5",
-          "translatedAt": "2026-09-11T06:22:30+08:00",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:304ddcc5326d0203",
+          "sourceBodyHash": "sha256:b83d31b560e3ac15",
+          "translatedAt": "2026-11-05T23:10:39+08:00",
           "translationLastCommit": "52dd5c7d",
           "translationLastModified": "2026-09-11T07:28:49+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 23999,
+          "bytes": 22753,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+37 -20"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "path": "ja/People/liao-tian-ding.md",
@@ -128847,20 +128843,18 @@
         "de": {
           "path": "de/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:06a2002deee9c4a4",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:019232bb48bbd216",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
-          "translatedAt": "2026-10-10T16:54:48+08:00",
+          "translatedAt": "2026-11-05T16:54:27.265503+00:00",
           "translationLastCommit": "d9fb4ef6",
           "translationLastModified": "2026-10-10T23:28:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 28812,
+          "bytes": 28895,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+30 -3"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -153933,8 +153927,8 @@
           "sourceContentHash": "sha256:f574be110237c4b8",
           "sourceBodyHash": "sha256:07bfe0e782d036ae",
           "translatedAt": "2026-11-05T23:10:45+08:00",
-          "translationLastCommit": "25ec53e7",
-          "translationLastModified": "2026-10-10T23:45:03+08:00",
+          "translationLastCommit": "21341760",
+          "translationLastModified": "2026-11-06T00:50:26+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 38972,
@@ -184711,8 +184705,8 @@
           "sourceContentHash": "sha256:ce4c525b32d53370",
           "sourceBodyHash": "sha256:d4d1f058fca35e5e",
           "translatedAt": "2026-11-05T23:10:45+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "21341760",
+          "translationLastModified": "2026-11-06T00:50:26+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 25659,
@@ -204433,20 +204427,18 @@
         "ru": {
           "path": "ru/Geography/taiwan-tap-water.md",
           "translatedFrom": "Geography/自來水.md",
-          "sourceCommitSha": "a9e791a05",
-          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:864c8353d91be2c4",
           "sourceBodyHash": "sha256:300f2a84fb69ef78",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translatedAt": "2026-11-05T16:52:37.313823+00:00",
           "translationLastCommit": "161500b4",
           "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 39242,
+          "bytes": 39968,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/taiwan-tap-water.md",
