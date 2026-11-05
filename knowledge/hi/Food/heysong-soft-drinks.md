@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-11-02T05:45:45+08:00'
+translatedAt: '2026-11-04T23:49:43.254996+00:00'
 ---
 
 > **30 सेकंड का सारांश:**

@@ -2,9 +2,7 @@
 title: 'तेल चावल: "धन प्रदर्शन" के चिपचिपे चावल से जीवन के भार को वहन करने वाला महीने भर का उपहार'
 description: '2026 में ताइवान की सड़कों पर, एक कटोरा तेल चावल अभी भी कई लोगों के लिए नए जीवन का जश्न मनाने की पहली पसंद है। यह व्यंजन हान आप्रवासी परंपरा से उत्पन्न होकर ताइवान में नमकीन-मीठे "पेटू अनुपात" में विकसित हुआ, जो चिपचिपे चावल और लाल प्याज को ताइवानी परिवारों के जीवन के महत्वपूर्ण मोड़ पर सबसे हार्दिक आशीर्वाद में जोड़ता है।'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'तेल चावल',
@@ -14,15 +12,19 @@ tags:
     'चिपचिपा चावल',
     'बैंक्वेट संस्कृति',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-07-25T02:52:58+08:00'
+translatedAt: '2026-11-04T23:56:29.432052+00:00'
 ---
 
 > **30 सेकंड अवलोकन:**

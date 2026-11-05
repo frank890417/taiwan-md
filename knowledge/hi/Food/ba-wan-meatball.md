@@ -2,19 +2,21 @@
 title: 'बा-वान: जलप्रलय के जीवनरक्षक अमृत से तीन उंगलियों के निशान वाली अस्तित्व कला तक'
 description: "1898 में एक विनाशकारी वूशु महाजलप्रलय ने ताइवान के राष्ट्रीय नाश्ते 'बा-वान' को जन्म दिया। बेइतौ देववेदी के मंदिर लेखक फान वानजू के हाथों बने जीवनरक्षक आटे की गोलियों से लेकर 'दक्षिण में भाप, उत्तर में तलना' की स्वाद सीमा तक, यह केवल स्वादिष्ट विकास नहीं, बल्कि अभाव में ताइवानी लोगों के जीवित रहने की जुझारू स्मृति है।"
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags: ['बा-वान', 'चांगहुआ व्यंजन', 'बेइतौ', 'ताइवानी नाश्ता', 'वूशु महाजलप्रलय']
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-07-25T06:34:20+08:00'
+translatedAt: '2026-11-05T00:15:59.364433+00:00'
 ---
 
 > **30 सेकंड अवलोकन:**

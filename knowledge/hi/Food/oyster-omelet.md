@@ -2,28 +2,32 @@
 title: 'ऑयस्टर ऑमलेट: गरीबी से राष्ट्रीय व्यंजन तक की स्वाद-यात्रा का इतिहास'
 description: "अनाज की कमी से उपजे एक ताइवानी स्नैक ने कैसे कॉक्सिंगा काल के 'जियान चुई' से आज देश-विदेश में लोकप्रिय राष्ट्रीय व्यंजन तक का सफर तय किया, इसके पीछे बैटर और सॉस के स्वाद के रहस्य छिपे हैं।"
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
-  - 'ऑयस्टर ऑमलेट'
-  - 'ताइवानी स्नैक्स'
-  - 'इतिहास'
-  - 'व्यंजन'
-  - 'संस्कृति'
-  - 'कॉक्सिंगा'
-  - 'स्टार्च घोल'
-  - 'सॉस'
-  - 'हुआयुआन पोटैटो चिप्स'
-readingTime: 12
+  [
+    'ऑयस्टर ऑमलेट',
+    'ताइवानी स्नैक्स',
+    'इतिहास',
+    'व्यंजन',
+    'संस्कृति',
+    'कॉक्सिंगा',
+    'स्टार्च घोल',
+    'सॉस',
+    'हुआयुआन पोटैटो चिप्स',
+  ]
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-07-25T04:46:11+08:00'
+translatedAt: '2026-11-04T23:47:54.964620+00:00'
 ---
 
 > **30 सेकंड अवलोकन**
