@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T05:45:53+08:00'
+translatedAt: '2026-11-05T00:16:09.188934+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:** يعد كعك الأناناس (Pineapple Cake) نموذجًا مصغرًا لالتقاء الزراعة التايوانية وفنون الخبز. تأسس على يد "يان شين فا" (Yan Xin Fa) في تايتشونغ عام 1945، وتطور في السبعينيات لإنتاج حشوة اليقطين بسبب عوائق تصدير الأناناس، ثم عاد إلى واجهة الاهتمام الجماهيري بعد عام 2009 عبر مسار "الأناناس المحلي" الذي اتبعته شركة SunnyHills. اليوم، تتجاوز القيمة الإنتاجية السنوية لهذه "السبائك الذهبية" الصغيرة 25 مليار دولار تايواني جديد، وأصبحت النكهة التايوانية الأكثر تمثيلًا في قلوب المسافرين الأجانب.

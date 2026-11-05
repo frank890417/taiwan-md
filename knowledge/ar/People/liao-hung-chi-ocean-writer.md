@@ -2,9 +2,7 @@
 title: 'لياو هونغ جي: من سفينة صيد السمك الطائر إلى الانجراف مع التيار الأسود، يقيس بحار تايوان بحياته كاتب البحر'
 description: 'في عام 1992، تحوّل لياو هونغ جي إلى رجل بحر، وأسس مؤسسة التيار الأسود للمحيطات الثقافية والتعليمية، وأعاد تعريف منظور التايوانيين للمحيط من خلال «التيار الأسود 101» و«مشروع حوت العنبر باي»، ليصبح شخصية محورية في الأدب البحري المعاصر والحفاظ على البيئة البحرية.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'الأدب البحري',
@@ -13,15 +11,19 @@ tags:
     'هوالين',
     'حوت العنبر',
   ]
-readingTime: 12
+subcategory: '文學'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-07-25T10:53:27+08:00'
+translatedAt: '2026-11-05T00:04:02.274045+00:00'
 ---
 
 # لياو هونغ جي

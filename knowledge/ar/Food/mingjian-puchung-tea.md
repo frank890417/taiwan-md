@@ -2,9 +2,7 @@
 title: 'شاي بوتشونغ من مينغجيان: "البطل المجهول" الذي يدعم 80% من شاي الفقاعات في تايوان'
 description: 'كشف جدل محرق النفايات في مينغجيان عام 2025 عن أن 80% من شاي قاعدة مشروبات الفقاعات في تايوان يأتي من مينغجيان في نانتو. من سمعة "ثلاثة بوتشونغ" في عهد تشينغ إلى إعادة التسمية إلى "شاي سونغ باي تشانغ تشينغ" في عام 1975، تجد هذه التلة المنخفضة التي يبلغ ارتفاعها 400 متر فقط نفسها في معركة شرسة لحماية حق بقاء موطن الشاي بسبب اختيار موقع المحرق.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
     'بلدة مينغجيان',
@@ -13,15 +11,19 @@ tags:
     'شاي سونغ باي تشانغ تشينغ',
     'احتجاج محرق النفايات',
   ]
-readingTime: 10
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-07-25T09:23:16+08:00'
+translatedAt: '2026-11-05T00:31:49.136407+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**
