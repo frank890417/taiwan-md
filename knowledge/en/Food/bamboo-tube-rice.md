@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-05-09T14:29:43Z'
+translatedAt: '2026-11-05T03:57:54.982215+00:00'
 ---
 
 > **30-Second Overview:** Bamboo tube rice is one of the most representative rice dishes among Taiwan's indigenous peoples, originating in the practical ingenuity of hunters who lacked cooking vessels in the forest. It uses the natural moisture and inner membrane fragrance of one-year-old Makino bamboo to keep rice moist and impart a distinctive clean aroma under direct charcoal fire. This is not merely a food — it is an applied practice of forest resource management and physical science.
