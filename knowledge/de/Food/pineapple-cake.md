@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:39:46.549063+00:00'
+translatedAt: '2026-11-05T08:23:51.572921+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Ananasplunder sind das Ergebnis der taiwanesischen Landwirtschaft und Backkunst. 1945 gegründet von Yen Hsin-fu in Taichung, entwickelte man in den 1970er Jahren aufgrund von Exportproblemen mit Ananas eine dichte Kürbiskreme, und ab 2009 brachte Nanshan Mountain mit seiner Bodenananas-Route den ursprünglichen Säure-Geschmack zurück. Heute ist dieser kleine Goldblock im Wert von über 25 Milliarden NT-Dollar auch für ausländische Besucher der typischste Geschmack von Taiwan.
