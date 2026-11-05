@@ -2,19 +2,21 @@
 title: 'Fu Kun-chi : du « roi de Hualien » du Houshan au « chef de groupe » parlementaire, la spirale du pouvoir'
 description: 'Du grand opérateur boursier des années 1990 surnommé « Xiao Fu de Kaiju » à son entrée au Parlement en 2001, puis à sa prise de contrôle de Hualien en 2009, Fu Kun-chi a bâti dans le Houshan une « dynastie Fu » longue de vingt ans, difficile à ébranler même pour le pouvoir central. De son incarcération tout en conservant son mandat dans une affaire de manipulation boursière, à son faux divorce pour nommer son épouse vice-magistrate, jusqu’à son retour au Yuan législatif en 2024 comme chef du groupe parlementaire du Kuomintang et sa conduite d’une délégation en Chine, il incarne l’une des formes les plus extrêmes de résilience du pouvoir et de controverse dans la vie politique taïwanaise.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags: ['Hualien', 'personnalités politiques', 'Kuomintang', 'Yuan législatif']
-readingTime: 12
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/傅崐萁.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:ff571f0d47415df6'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:958aae21d01a3998'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-05T02:37:42.093435+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes :**
@@ -48,18 +50,18 @@ Le surnom de « roi de Hualien » exprime à la fois la dépendance d’une part
 
 ## Références
 
-[^1]: [雙面傅崐萁──透視花蓮王現象](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - The Reporter
+[^1]: [Le double visage de Fu Kun-chi — Regard sur le phénomène du « roi de Hualien »](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) — - The Reporter
 
-[^2]: [任妻當副手 傅崐萁假離婚判刑6月](https://news.tvbs.com.tw/politics/53325) — TVBS News : le tribunal de district de Hualien a condamné Fu Kun-chi à 6 mois de prison et Hsu Chen-wei à 4 mois pour faux en écriture, jugement pénal n° 358, année 99, tribunal de district de Hualien
+[^2]: [Nommer sa femme comme adjointe : Fu Kun-chi condamné à 6 mois pour divorce simulé](https://news.tvbs.com.tw/politics/53325) — TVBS News : le tribunal de district de Hualien condamne Fu Kun-chi à 6 mois et Hsu Chen-wei à 4 mois pour faux en écriture (jugement pénal n° 358 de l'année 99 du tribunal de district de Hualien)
 
-[^3]: [傅崐萁炒股案定讞：為什麼當縣長被解職，當立委卻能帶職入監？](https://opinion.udn.com/opinion/story/12322/4572559) — Mingrentang : reportage de United Daily News
+[^3]: [Affaire de manipulation boursière de Fu Kun-chi confirmée en dernier ressort : pourquoi révoqué comme magistrat de comté mais peut entrer en prison en tant que législateur en fonction ?](https://opinion.udn.com/opinion/story/12322/4572559) — Mingren Tang : reportage de United Daily News
 
-[^4]: [傅崐萁炒作凱聚案 判刑2年10月定讞須入獄](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency : la Cour suprême a rejeté le pourvoi le 14 mai 2020, rendant la condamnation définitive
+[^4]: [Affaire de manipulation de Kaiju par Fu Kun-chi : condamné à 2 ans et 10 mois, confirmé en dernier ressort, doit entrer en prison](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency : la Cour suprême rejette l'appel le 14 mai 2020, jugement définitif
 
-[^5]: [從花蓮王到國會暴君，解析傅崐萁的權力迷思與國民黨的縱容危機！](https://newcongress.tw/?p=32791) — New Congress, auteur Qin Jing ; l’expression commentative « tyran du Parlement » provient du titre de cet article
+[^5]: [Du « roi de Hualien » au « tyran du Parlement », analyse du mythe du pouvoir de Fu Kun-chi et de la crise de complaisance du KMT !](https://newcongress.tw/?p=32791) — New Citizens' Assembly, auteur Qin Jing (le terme « tyran du Parlement » provient du titre de cet article)
 
-[^6]: [地震爭議下訪中 傅崐萁：災後重建振興是重要課題](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency : en avril 2024, alors que les répliques se poursuivaient à Hualien, il a conduit une délégation à Pékin ; Pan Xianzhang, directeur adjoint du Bureau des affaires taïwanaises, l’a accueilli à l’aéroport et accompagné tout au long du déplacement
+[^6]: [Visite en Chine sous la controverse du séisme : Fu Kun-chi : la reconstruction et la relance post-catastrophe sont des enjeux majeurs](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency : en avril 2024, alors que les répliques se poursuivaient à Hualien, il a conduit une délégation à Pékin ; le vice-directeur du Bureau des affaires taïwanaises, Pan Xianzhang, l'a accueilli à l'aéroport et l'a accompagné tout au long
 
-[^7]: [【傅崐萁再陷風暴】家族縱橫花蓮逾 30 年 傅崐萁爭議一次看](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo News, Mirror Weekly
+[^7]: [[Fu Kun-chi de nouveau dans la tourmente] La famille domine Hualien depuis plus de 30 ans : tour d'horizon des controverses de Fu Kun-chi](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) — - Yahoo News (Mirror Media)
 
-[^8]: [五星縣長 VS 花蓮王，那個才是傅崐萁？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter, volet sur l’image de la série « Fu Kun-chi aux deux visages »
+[^8]: [Le magistrat de comté cinq étoiles VS le roi de Hualien : lequel est le vrai Fu Kun-chi ?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — The Reporter : épisode de la série « Le double visage de Fu Kun-chi »

@@ -1,28 +1,31 @@
 ---
 title: "Barbie Hsu : de l'espiègle adolescente à la reine inflexible du « deux morts, un blessé grave »"
 description: "Début en 1994 avec le groupe S.O.S, célébrité panasiatique en 2001 grâce à *Boys Over Flowers*, icône esthétique confirmée en 2005 avec *Beauty Queen*, décès en février 2025 à l'âge de 48 ans. Elle a opposé une quête obsessionnelle de la beauté au chaos de son existence, et dans la tourmente de son mariage, sa déclaration « deux morts, un blessé grave » est devenue l'un des témoignages les plus poignants des dilemmes auxquels font face les femmes contemporaines."
-category: People
+date: 2026-04-28
+category: 'People'
 tags:
   [
-    Barbie Hsu,
-    Da S,
-    Wang Xiaofei,
-    Koo Jun-yup,
-    Boys Over Flowers,
-    Beauty Queen,
-    100% Entertainment,
+    'Barbie Hsu',
+    'Da S',
+    'Wang Xiaofei',
+    'Koo Jun-yup',
+    'Boys Over Flowers',
+    'Beauty Queen',
+    '100% Entertainment',
   ]
+subcategory: '電影與戲劇'
 author: 'idlccp1984'
-date: 2026-04-28
 featured: false
-readingTime: 8
 lastVerified: 2026-04-28
 lastHumanReview: false
-translatedFrom: People/徐熙媛.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/徐熙媛.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-05T02:43:30.072752+00:00'
 ---
 
 > **En 30 secondes :** Barbie Hsu (nom de scène Da S, « Grande S »), née en 1976, actrice, chanteuse et animatrice taïwanaise. En 1994, elle débute avec sa sœur Dee Hsu sous le nom de groupe S.O.S. En 2001, son rôle de « Shan Cai » dans _Boys Over Flowers_ la rend célèbre dans toute l'Asie. En 2005, son livre _Beauty Queen_ lance une tendance beauté. Après deux mariages, en 2024, sa déclaration « dix ans de mariage, deux morts, un blessé grave » choque le public. Le 2 février 2025, elle s'éteint à 48 ans d'une pneumonie compliquée par la grippe.

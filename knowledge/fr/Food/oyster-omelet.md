@@ -2,8 +2,7 @@
 title: "L'omelette aux huîtres : histoire d'une évolution gustative de la misère à la cuisine nationale"
 description: "Une spécialité taïwanaise née de la pénurie alimentaire, comment le « Jianchui » de l'ère de Koxinga s'est transformé en un plat national aujourd'hui célèbre dans le monde entier, et les secrets gustatifs de la pâte d'amidon et de la sauce qui se cachent derrière."
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     'omelette aux huîtres',
@@ -16,15 +15,19 @@ tags:
     'sauce',
     'croustilles Hua Yuan',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/蚵仔煎.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/蚵仔煎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-05T03:58:19.033251+00:00'
 ---
 
 > **Aperçu en 30 secondes**
