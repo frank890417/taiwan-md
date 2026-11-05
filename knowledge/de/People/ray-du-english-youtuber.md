@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T07:21:01.894898+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Im Jahr 2020 startete der YouTuber A-Di (Tu Sheng-rui) die Fundraising-Initiative „ThisAttackComesFromTaiwan“, erreichte innerhalb weniger Stunden das Ziel von 4 Millionen und sammelte letztendlich fast 19 Millionen ein, um eine ganztägige Anzeige in der New York Times zu schalten und der Welt laut zu sagen: „Taiwan kann helfen“. Im darauffolgenden Jahr teilte er seinen jahrelangen Weg mit seiner Depression öffentlich mit und gründete gemeinsam mit Zhiqi Qiqi den Taiwanischen Neuen Medien Video-Kreativverband, bei dem er Vorstandsvorsitzender ist, um ein unterstützendes Ökosystem für taiwanesische Kreative aufzubauen. Von der Ablehnung der englischen Sprache als Austauschstudent in Singapur bis zum „Dorftürer“ (Li Zhang Bo) der taiwanesischen YouTube-Szene ist A-Dis Geschichte nicht nur eine persönliche Transformation, sondern ein realistischer Ausschnitt des Übergangs der taiwanesischen Neuen Medien von individueller Kreation zu kollektivem Wohl.

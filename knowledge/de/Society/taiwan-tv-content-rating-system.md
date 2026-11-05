@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/台灣電視分級制度.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T06:52:52.232767+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Taiwans Einstufungssystem war einmal eine Schere. Vor 1983 musste ein Film „geprüft“ werden, nicht „eingestuft“. Politische und moralische Kontrolle war die Norm. Der Dinosaurier-Streit durch „Jurassic Park“ 1993 machte Taiwans Bevölkerung auf die Lücke zwischen den Stufen aufmerksam und führte zur Schaffung der Schutzstufe. Heute hat Taiwan ein fünfstufiges System für Film, Fernsehen, aufgezeichnete Sendungen und digitale Spiele etabliert, das Verbot in Information verwandelnd den Schutz der Vielfalt und Sicherheit im audiovisuellen Raum.
