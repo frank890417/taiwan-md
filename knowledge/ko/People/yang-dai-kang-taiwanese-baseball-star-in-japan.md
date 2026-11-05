@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "火腿十年→巨人FA→獨立聯盟——這是一個職業球員的完整弧線，比「台東阿美族走向日職」更有力。"
-#   whats_excluded: "逐年打擊成績表；日職各球隊待遇比較；2024-2025獨立聯盟近況細節"
-#   where_it_hedges: "原文章誤說「與讀賣巨人隊簽約（2005）」和「高中就讀花蓮體中」，已修正：2005選秀被火腿選中，高中在日本讀"
-translatedFrom: People/陽岱鋼.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:a0454e71ee2abfe6
-sourceBodyHash: sha256:2bbcd86b693a9ea2
-translatedAt: 2026-05-22T05:08:46+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/陽岱鋼.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a0454e71ee2abfe6'
+sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
+translatedAt: '2026-11-05T00:41:58.112589+00:00'
 ---
 
 # 양대강: 타이동 1987, 일본 프로야구 햄 10년 글러브상에서 자이언트 FA까지 아메이족 외야수

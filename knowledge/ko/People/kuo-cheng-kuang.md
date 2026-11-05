@@ -2,19 +2,21 @@
 title: '궈정광'
 description: 'NASA 존슨 우주 센터의 수석 과학자로 우주 식품을 연구하지만, 고향 타이완 파일에는 한때 "테러리스트" 블랙리스트에 올라 있었다'
 date: 2026-04-06
+category: 'People'
 tags: ['궈정광', 'NASA', '우주 식품', '블랙리스트', '타이완 민주화 운동']
 subcategory: '科學與研究'
-category: 'People'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 7
-translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e00af3b07adcb778'
-sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-04-14T19:25:17+08:00'
 lastVerified: 2026-04-06
 lastHumanReview: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/郭正光.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:e00af3b07adcb778'
+sourceBodyHash: 'sha256:beb2338ff10788ce'
+translatedAt: '2026-11-05T00:08:24.282508+00:00'
 ---
 
 # 궈정광
