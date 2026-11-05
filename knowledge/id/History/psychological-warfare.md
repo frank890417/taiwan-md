@@ -2,9 +2,7 @@
 title: 'Perang Psikologi: Perpindahan Paradigma dari Tembok Penyiaran Kinmen ke Perang Kognitif AI'
 description: "Dari panggilan suara Teresa Teng di Tembok Penyiaran Kinmen era 1960‑an, 'makanan loyalitas' yang terbang di udara, hingga penetrasi informasi dan manipulasi kognitif AI era digital 2026, perang psikologi lintas Selat telah bertransformasi dari materi fisik menjadi serangan semantik digital. Artikel ini merinci konteks sejarah perang psikologi Taiwan terhadap Tiongkok, daftar barang konkret, dan membandingkan tantangan tahap industri AI saat ini."
 date: 2026-05-03
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '媒體與言論'
 tags:
   [
     'perang psikologi',
@@ -18,15 +16,19 @@ tags:
     'hubungan lintas Selat',
     'Stasiun Radio Nasional',
   ]
-readingTime: 8
+subcategory: '媒體與言論'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-07-25T15:46:02+08:00'
+translatedAt: '2026-11-05T00:15:48.395473+00:00'
 ---
 
 > **30 detik ringkasan:**

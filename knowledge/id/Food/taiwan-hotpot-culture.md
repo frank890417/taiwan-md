@@ -2,19 +2,21 @@
 title: 'Hotpot Taiwan: Sejarah Evolusi Rasa Pulau yang Menyentuh Jiwa dalam Satu Panci'
 description: 'Dari simbol peradaban di masa kolonial hingga makanan khas nasional hari ini, hotpot Taiwan bukan hanya evolusi selera, melainkan cerminan perubahan sosial dan perpaduan etnis.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags: ['hotpot', 'kuliner Taiwan', 'saus sa-cha', 'budaya kuliner']
-readingTime: 8
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/台灣火鍋.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-07-25T06:34:15+08:00'
+translatedAt: '2026-11-05T00:30:45.164361+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pasar hotpot Taiwan bernilai puluhan miliar per tahun, bukan hanya makanan nasional yang menghangatkan badan di musim dingin, melainkan budaya kuliner yang cocok untuk empat musim. Mulai dari "chúshāo" (sukiyaki) era pendudukan Jepang hingga beragam hotpot yang dibawa pengungsi pasca-perang, sampai hotpot personal dan hotpot premium masa kini, sejarah evolusi hotpot Taiwan memantulkan perubahan sosial dan perpaduan etnis pulau ini, akhirnya menghasilkan "rasa Taiwan" yang unik.

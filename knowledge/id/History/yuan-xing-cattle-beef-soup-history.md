@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
-translatedAt: '2026-07-25T05:00:09+08:00'
+translatedAt: '2026-11-04T23:47:43.524850+00:00'
 ---
 
 > **30 detik ringkasan:** Pasar daging Taiwan mendapatkan lebih dari 95% dari impor, dataran padat, tidak ada padang rumput besar, dan pemerintah tidak memiliki kebijakan khusus untuk sapi daging. Namun pada 2024, Taiwan lahirkan pertama kalinya sebuah jenis sapi lokal yang telah didaftarkan secara resmi oleh pemerintah—sapi Yuan-Xing. Titik awalnya adalah sekelompok buta kuda dari Jepang yang datang pada tahun 1933, akhirnya berakhir di sebuah mangkuk sup daging Tainan yang harus disajikan dalam 6 hingga 8 jam setelah pemotongan. Ini bukan cerita tentang pertumbuhan industri, melainkan cerita bagaimana menemukan celah dalam kelemahan struktural.

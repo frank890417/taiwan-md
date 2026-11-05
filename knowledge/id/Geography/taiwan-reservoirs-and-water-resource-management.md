@@ -18,11 +18,13 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
-sourceCommitSha: '3d90cfd59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
-translatedAt: '2026-10-15T15:59:50+08:00'
+translatedAt: '2026-11-05T00:53:01.607634+00:00'
 ---
 
 # Waduk dan Manajemen Sumber Daya Air di Taiwan
