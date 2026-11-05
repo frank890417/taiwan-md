@@ -3,7 +3,6 @@ title: 'Trà Puchung tại Nam Chiến: Những anh hùng tên không giúp Đà
 description: "Năm 2025 tranh cãi nhà khói tại Nam Chiến, ngầm khám phá 80% nguyên liệu chính cho trà sữa Đài Loan đến từ Nam Đảo Nam Chiến. Từ danh vọng 'Tam Phú Trung' thế kỷ 18 đến năm 1975 đổi tên thành 'Trà xanh đồng bão', đất liền chỉ cao 400 mét này đang trải qua một cuộc chiến bảo vệ quyền sống bảo vệ vùng trà."
 date: 2026-04-25
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
     'Thị xã Nam Chiến',
@@ -12,16 +11,19 @@ tags:
     'Trà xanh đồng bão',
     'Phản đối nhà khói',
   ]
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-07-26T03:58:04+08:00'
+translatedAt: '2026-11-05T01:56:34.352984+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
