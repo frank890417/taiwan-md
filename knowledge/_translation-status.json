@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T02:32:50+08:00",
-    "zhCommitHead": "b8cdee550",
+    "lastUpdated": "2026-11-06T02:39:39+08:00",
+    "zhCommitHead": "fff136fe7",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1101,
-        "stale": 29,
+        "fresh": 1102,
+        "stale": 28,
         "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
@@ -59007,8 +59007,8 @@
           "sourceContentHash": "sha256:5dee1eed356027d4",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-11-05T17:28:52.525851+00:00",
-          "translationLastCommit": "52dd5c7d",
-          "translationLastModified": "2026-09-11T07:28:49+08:00",
+          "translationLastCommit": "fff136fe",
+          "translationLastModified": "2026-11-06T02:32:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 19975,
@@ -123355,8 +123355,8 @@
           "sourceContentHash": "sha256:304ddcc5326d0203",
           "sourceBodyHash": "sha256:b83d31b560e3ac15",
           "translatedAt": "2026-11-05T23:10:39+08:00",
-          "translationLastCommit": "52dd5c7d",
-          "translationLastModified": "2026-09-11T07:28:49+08:00",
+          "translationLastCommit": "fff136fe",
+          "translationLastModified": "2026-11-06T02:32:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 22753,
@@ -214933,20 +214933,18 @@
         "ru": {
           "path": "ru/Culture/si-siu-a-lunar-new-year-snacks.md",
           "translatedFrom": "Culture/四秀仔.md",
-          "sourceCommitSha": "977373f82",
-          "sourceContentHash": "sha256:d453213e0d417fd6",
-          "sourceBodyHash": "sha256:1db8926ecfd90519",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:44d2713b9bac849c",
+          "sourceBodyHash": "sha256:bb54ce547d690b90",
+          "translatedAt": "2026-11-05T18:26:47.131609+00:00",
           "translationLastCommit": "ffcf15ba",
           "translationLastModified": "2026-10-10T23:30:24+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 30002,
+          "bytes": 32617,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/si-siu-a-lunar-new-year-snacks.md",
