@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T05:28:01+08:00",
-    "zhCommitHead": "be15f8eff",
+    "lastUpdated": "2026-11-06T05:48:23+08:00",
+    "zhCommitHead": "38e6c50dc",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1093,
-        "stale": 30,
+        "fresh": 1094,
+        "stale": 29,
         "metadata_stale": 35,
         "missing": 4,
         "orphan": 0
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1078,
+        "fresh": 1079,
         "stale": 35,
-        "metadata_stale": 45,
+        "metadata_stale": 44,
         "missing": 4,
         "orphan": 0
       }
@@ -2962,8 +2962,8 @@
           "sourceContentHash": "sha256:3b3422dc3e5660c1",
           "sourceBodyHash": "sha256:c40d04f82db2ee2c",
           "translatedAt": "2026-11-05T19:52:02.179131+00:00",
-          "translationLastCommit": "3a282d5c",
-          "translationLastModified": "2026-09-08T03:49:57+08:00",
+          "translationLastCommit": "9e9289c0",
+          "translationLastModified": "2026-11-06T05:28:01+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 47041,
@@ -88909,8 +88909,8 @@
           "sourceContentHash": "sha256:55a53c683cb2fe02",
           "sourceBodyHash": "sha256:d2a2bc2c14be17d0",
           "translatedAt": "2026-11-06T02:40:43+08:00",
-          "translationLastCommit": "7d2147b6",
-          "translationLastModified": "2026-10-10T23:19:55+08:00",
+          "translationLastCommit": "9e9289c0",
+          "translationLastModified": "2026-11-06T05:28:01+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 46563,
@@ -149561,20 +149561,18 @@
         "de": {
           "path": "de/People/koxinga.md",
           "translatedFrom": "People/鄭成功.md",
-          "sourceCommitSha": "a7cf30769",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
-          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translatedAt": "2026-11-05T21:28:08.996701+00:00",
           "translationLastCommit": "dfa4eecf",
           "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 23182,
+          "bytes": 23241,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -198703,20 +198701,18 @@
         "en": {
           "path": "en/Geography/alishan-forest-railway.md",
           "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-11T06:30:18+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:d2f1e34fdbd007bc",
+          "sourceBodyHash": "sha256:c28d645ae239af32",
+          "translatedAt": "2026-11-06T02:40:08+08:00",
           "translationLastCommit": "e64212f1",
           "translationLastModified": "2026-09-27T00:53:11+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 22804,
+          "bytes": 22582,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+27 -16"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/alishan-forest-railway.md",
