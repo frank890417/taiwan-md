@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/蔡阿嘎.md'
-sourceCommitSha: 'f5975a224'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-05T16:43:52.505017+00:00'
 ---
 
 > **Tinjauan 30 detik:**
