@@ -1,10 +1,8 @@
 ---
-title: '牯嶺街：日本人が残した書店街、楊徳昌の少年、国民政府の宮殿'
-description: '土曜午後、牯嶺街 5 巷の奥にある赤レンガ劇場の前には学生が列をつくり、その隣には 1955 年に建てられた国立歴史博物館と、1921 年に改制された台北植物園の蓮池があります。この 1.2 キロメートルの通りは、1922 年には佐久間町と呼ばれ、1947 年に江西省廬山に由来する牯嶺街へ改名されました。1945 年の戦後、日本人の撤退で残された本が路上に並べられ、台湾初の古書街となり、1960 年代の最盛期には 200 軒以上の露店がありました。1973 年 4 月に光華橋が開通すると、露店は整理されて光華陸橋の下へ移されました。1961 年 6 月 15 日、この通りで 16 歳の茅武がボーイスカウトナイフで 15 歳の劉敏を殺害し、1991 年に楊徳昌が 237 分の映画にしました。書店街は取り壊され、書籍露店は移転し、学生たちは別の場所へ本を買いに行くようになりました。残っているのは、日本統治時代の赤レンガ警察分局旧庁舎、戦後の中国宮殿式博物館、そして 1921 年から同じ場所にある蓮池です。'
+title: '牯嶺街：日本人が残した本の街、楊徳昌の少年、国府の宮殿'
+description: '牯嶺街は台北の一本の長さ1.2キロメートルの通りで、1922年には佐久間町と呼ばれ、1947年に江西省廬山の牯嶺にちなんで改名されました。戦後、日本人が残した本が路傍に並べられ、台湾初の古書街となり、最盛期には200軒以上の書店がありました。1961年、16歳の茅武がこの通りで15歳の劉敏を刺殺し、楊徳昌が映画化しました。書店は移転しましたが、宮殿風の歴史博物館と1921年の蓮池は今も残っています。'
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區 / 台北市中正區'
 tags:
   [
     '牯嶺街',
@@ -24,19 +22,27 @@ tags:
     '松林書局',
     '歴史街区シリーズ',
   ]
-readingTime: 18
+subcategory: '歷史街區 / 台北市中正區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+translatedAt: '2026-11-05T08:50:03.841099+00:00'
 ---
 
 # 牯嶺街：日本人が残した書店街、楊徳昌の少年、国民政府の宮殿
