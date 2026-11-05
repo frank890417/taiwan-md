@@ -1,27 +1,30 @@
 ---
-title: 'Festival de los Muertos: De la angustia por las almas errantes a la reconciliación comunitaria de una isla'
-description: "El Festival de los Muertos en Taiwán no es solo un acto de temor hacia los espíritus, sino un registro de supervivencia sobre colonización, conflicto y fusión étnica. Desde la reconciliación con lágrimas en Keelung hasta la competencia extrema de 'reclamar a los perdidos' (搶孤) en Toucheng, esta festividad revela cómo el pueblo taiwanés transformó el miedo en un tratado de paz social."
+title: 'Festival de Zhongyuan: del temor de apaciguar almas solitarias a la reconciliación colectiva de una isla'
+description: 'El Festival de Zhongyuan en Taiwán no es solo reverencia a los fantasmas, sino también un registro de supervivencia sobre el desarrollo de tierras, los conflictos y la fusión étnica. Desde la reconciliación de sangre y lágrimas en Keelung hasta el extremo ritual de captura de ofrendas en Toucheng, este festival revela cómo los taiwaneses transformaron el miedo en un tratado de paz social.'
 date: 2026-07-20
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
-    'Prado de los Muertos',
-    'Festival de los Muertos de Keelung',
-    'Reclamar a los Perdidos',
+    'Pudu de Zhongyuan',
+    'Festival de Zhongyuan de Keelung',
+    'Captura de ofrendas para almas solitarias',
     'Folclore taiwanés',
     'Historia',
   ]
-readingTime: 8
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-23T23:06:50+08:00'
-author: 'Taiwan.md Contributors'
+translatedAt: '2026-11-05T11:06:35.620954+00:00'
 ---
 
 > **Resumen de 30 segundos:** El Festival de los Muertos en Taiwán no es un mero ritual religioso, sino un "tratado de paz social" que se extiende por cientos de años. La dureza de la colonización temprana y las sangrientas luchas entre grupos étnicos impulsaron a los primeros pobladores a establecer mecanismos competitivos como el Festival de los Muertos de Keelung, donde "la competencia reemplaza al combate". Esta festividad considera a los "forasteros" que mueren lejos su "buenos hermanos", lo que refleja la caridad migratoria y la cohesión comunitaria únicas de Taiwán.

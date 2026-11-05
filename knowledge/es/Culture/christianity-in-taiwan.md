@@ -4,27 +4,31 @@ description: 'En 1865, James Laidlaw Maxwell abrió una clínica en la calle Kai
 date: 2026-04-29
 category: 'Culture'
 tags:
-  - 'cristianismo'
-  - 'historia de Taiwán'
-  - 'Iglesia Presbiteriana'
-  - 'George Leslie Mackay'
-  - 'James Laidlaw Maxwell'
-  - 'Frank Dennis Tan'
-  - 'Bjarne Gislefoss'
-  - 'ayuda estadounidense'
-  - 'época de dominio japonés'
-  - 'Iglesia de Jesucristo de los Santos de los Últimos Días'
+  [
+    'cristianismo',
+    'historia de Taiwán',
+    'Iglesia Presbiteriana',
+    'George Leslie Mackay',
+    'James Laidlaw Maxwell',
+    'Frank Dennis Tan',
+    'Bjarne Gislefoss',
+    'ayuda estadounidense',
+    'época de dominio japonés',
+    'Iglesia de Jesucristo de los Santos de los Últimos Días',
+  ]
 subcategory: '宗教與民俗'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-05T10:34:55.776197+00:00'
 ---
 
 > **Resumen de 30 segundos:** El desarrollo del cristianismo en Taiwán es una larga maratón que pasó de la “desinformación” a la “simbiosis”. En el siglo XIX, los misioneros abrían las puertas de la sociedad con “una mano la Biblia, con la otra la pinza”. George Leslie Mackay extrajo más de 20 000 dientes. Tras la opresión de la visita a santuarios durante la época de dominio japonés y los años de ayuda estadounidense conocida como la “iglesia de la harina”, esta fuerza se volvió política durante la ley marcial; la Iglesia Presbiteriana publicó valientemente la “Declaración de Derechos Humanos”, convirtiéndose en una voz indispensable en la democratización de Taiwán. Hoy, los misioneros de la Iglesia de Jesucristo de los Santos de los Últimos Días, con camisa blanca y bicicleta, son otro paisaje singular en las calles de Taiwán.
