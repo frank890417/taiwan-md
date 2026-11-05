@@ -1,26 +1,30 @@
 ---
-title: 'Chuang Chu-yu-nu: de la mesa gratuita para los trabajadores del puerto a los almuerzos de diez dólares que le costaron vender siete casas'
-description: 'En 1951, Chuang Chu-yu-nu instaló una cocina junto al puerto de Kaohsiung para ofrecer comidas gratuitas a los trabajadores del muelle que vivían en la pobreza. Esta abuela, venerada como la «diosa protectora de los pobres», mantuvo durante cincuenta años un bufé ilimitado a diez dólares, llegando incluso a vender siete propiedades para sostener los gastos, convirtiendo «alimentar a la gente» en una fe de por vida.'
+title: 'Chuang Chu Yu-nu: de la mesa gratuita para los estibadores al bento de NT$10 por el que vendió siete casas'
+description: 'En 1951, Chuang Chu Yu-nu instaló una cocina junto al puerto de Kaohsiung para ofrecer comidas gratuitas a los estibadores necesitados. Esta abuela, conocida como la «diosa protectora de los pobres», durante los siguientes cincuenta años insistió en servir un bufé ilimitado a un precio de NT$10, llegando a vender siete propiedades para cubrir los gastos, convirtiendo «que la gente coma hasta saciarse» en su fe de toda la vida.'
 date: 2026-04-29
 category: 'People'
 tags:
-  - '慈善家'
-  - '高雄'
-  - '十元便當'
-  - '莊朱玉女'
-  - '社會公益'
-  - '澎湖'
+  [
+    'filántropo',
+    'Kaohsiung',
+    'bento de NT$10',
+    'Chuang Chu Yu-nu',
+    'bienestar social',
+    'Penghu',
+  ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-04T23:55:13.199337+00:00'
 ---
 
 > **Resumen de 30 segundos:** Chuang Chu-yu-nu (1920‑2015) es una famosa filántropa de Taiwán, conocida por operar durante años el «bufé de diez dólares» bajo el puente del parque de Kaohsiung. Al principio ofrecía comidas gratuitas a los trabajadores del puerto de su tierra natal, pero, ante los altos costos, empezó a cobrar diez dólares, manteniendo siempre la política de «comida ilimitada» sin buscar ganancias. Vendió siete inmuebles para financiar su labor; su funeral reunió a más de tres mil personas, y su espíritu sigue siendo un símbolo de calidez en la sociedad de Taiwán.

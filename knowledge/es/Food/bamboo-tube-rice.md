@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-05-09T14:31:06Z'
+translatedAt: '2026-11-05T00:52:43.137374+00:00'
 ---
 
 > **Panorama en 30 segundos:** El arroz en tubo de bambú es uno de los platos de arroz más representativos de los pueblos indígenas de Taiwán. Surgió de la ingeniosidad de los cazadores en las montañas, cuando carecían de utensilios de cocina. Utilizando la humedad natural del bambú makino de un año y el aroma de su membrana interna, el arroz se cuece directamente sobre brasas, manteniéndose húmedo y adquiriendo una fragancia singular. No se trata solo de un manjar, sino de una práctica que integra el manejo de recursos forestales y la ciencia física.
