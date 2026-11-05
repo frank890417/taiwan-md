@@ -1,15 +1,15 @@
 ---
-title: 'Le bihoreau malais : espèce de rêve des ornithologues, grand oiseau gauche des campus universitaires'
-description: "Entre 1985 et 1992, sur les 4 000 observations d'oiseaux répertoriées par l'Association ornithologique de Chine (Taiwan), le bihoreau malais (Gorsachius melanolophus) ne figurait que 25 fois — un « résent rare » dans les guides d'identification. Trente ans plus tard, on le voit quotidiennement le long du boulevard des cocotiers à l'université nationale de Taïwan et dans le parc forestière de Da'an. L'explication courante veut qu'il « ait cessé d'avoir peur des humains », mais les recherches de marquage menées par Yuan Hsiao-wei à l'NTU depuis 2010 orientent vers une autre réponse : les campus densément boisés et les pelouses sans pesticides des villes taïwanaises reproduisent exactement la niche écologique de basse altitude de son habitat d'origine. L'oiseau n'a pas changé ; le terrain, si."
+title: "Bihoreau gris : l'espèce rêvée des ornithologues, le « gros oiseau bête » et l'« oiseau patate douce » du campus"
+description: "Le Bihoreau gris est l'oiseau que tout le monde appelle « oiseau patate douce » et « gros oiseau bête » sur le campus. De 1985 à 1992, sur les 4 000 enregistrements de la Fédération chinoise des oiseaux sauvages, il n'apparaissait que 25 fois, étant un oiseau résident rare dans les guides ; trente ans plus tard, on le voit tous les jours sur l'allée des cocotiers de l'Université nationale de Taiwan et au parc forestier de Daan. L'explication courante est qu'il est devenu peu farouche, mais les études de baguage de Yuan Xiao-wei de l'Université nationale de Taiwan pointent vers une autre réponse : la densification forestière du campus et les pelouses non traitées aux pesticides reproduisent justement son habitat forestier d'origine en basse altitude. L'oiseau n'a pas changé, c'est le terrain qui a changé."
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'Écologie taïwanaise',
+    'Écologie de Taiwan',
     'Oiseaux urbains',
-    'Bihoreau malais',
-    'Grand oiseau gauche',
-    'Science participative',
+    'Bihoreau gris',
+    'Gros oiseau bête',
+    'Science citoyenne',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,20 +23,28 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
 readingTime: 8
 sporeLinks:
-  [
-    "{'id': 53, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'}",
-    "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
-  ]
+  - id: 53
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'
+  - id: 54
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 23,070 曝光 149 點擊（0.65%），最大查詢「地瓜鳥」8,206＋「地瓜 鳥」1,564 曝光，title 與 description 都沒有這個俗名；title 補「地瓜鳥」，description 首句先講俗名'
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:74ac37cae326eaa1'
-sourceBodyHash: 'sha256:9c1e23df6047812e'
-translatedAt: '2026-08-04T11:30:27.341274+00:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:55a53c683cb2fe02'
+sourceBodyHash: 'sha256:d2a2bc2c14be17d0'
+translatedAt: '2026-11-05T19:27:00.312411+00:00'
 ---
 
-# Le bihoreau malais : espèce de rêve des ornithologues, grand oiseau gauche des campus universitaires
+# Bihoreau malais : espèce de rêve des ornithologues, grand oiseau gauche et « oiseau patate douce » des campus
 
-> **En 30 secondes :** Le bihoreau malais (_Gorsachius melanolophus_) n'apparaissait que 25 fois sur les 4 000 observations d'oiseaux sauvages enregistrées à Taïwan entre 1985 et 1992 — un « résent rare ». Aujourd'hui, on le voit quotidiennement le long du boulevard des cocotiers de l'NTU et dans le parc forestière de Da'an. Ding Zongsu, professeur associé au département de foresterie de l'NTU, décrit cet oiseau comme une « espèce insaisissable, de rêve » pour les ornithologues en Asie du Sud-Est, et note que « depuis une trentaine d'années, on ne sait pourquoi, le bihoreau malais à Taïwan a commencé à s'enhardir ». L'explication la plus proche de la vérité pointe dans une autre direction : les campus densément boisés et les pelouses sans pesticides des villes taïwanaises reproduisent exactement la niche écologique de basse altitude de son habitat d'origine. L'oiseau n'a pas changé ; le terrain, si.
+> **Aperçu en 30 secondes :** Le bihoreau malais (_Gorsachius melanolophus_) ne figure que 25 fois sur 4 000 entrées dans les registres ornithologiques de Taïwan pour 1985–1992 en tant qu'« oiseau résident rare » ; aujourd'hui, on l'observe quotidiennement dans la cocoteraie de l'NTU et au Parc forestier de Daan. Le maître de conférences Ding Zong-su du département de foresterie de l'NTU le décrit en Asie du Sud-Est comme une « espèce de rêve insaisissable » aux yeux des ornithologues : « Depuis trente ans, pour une raison inconnue, les bihoreaux malais de Taïwan sont devenus hardis. » Une explication plus proche de la vérité pointe dans une autre direction : les campus densément boisés et les pelouses sans pesticides des villes de Taïwan reproduisent justement son habitat forestier d'origine de basse altitude. L'oiseau n'a pas changé, c'est le terrain qui a changé.
 
 ## Espèce de rêve en Asie du Sud-Est, habitué du boulevard des cocotiers à Taipei
 
