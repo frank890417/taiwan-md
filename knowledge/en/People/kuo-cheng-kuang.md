@@ -1,11 +1,8 @@
 ---
 title: 'Kuo Cheng-kuang'
-category: 'People'
-subcategory: '科學與研究'
-author: 'Taiwan.md Contributors'
-date: 2026-04-06
-featured: false
 description: "He is a senior scientist at NASA's Johnson Space Center in Houston, specializing in what astronauts eat and drink — but in the records of his homeland Taiwan, he was once listed as a 'terrorist' on a government blacklist."
+date: 2026-04-06
+category: 'People'
 tags:
   [
     'Kuo Cheng-kuang',
@@ -14,14 +11,19 @@ tags:
     'blacklist',
     'Taiwan democracy movement',
   ]
-readingTime: 7
+subcategory: '科學與研究'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-05-01T13:44:02+08:00'
+translatedAt: '2026-11-05T00:08:12.858637+00:00'
 ---
 
 # Kuo Cheng-kuang

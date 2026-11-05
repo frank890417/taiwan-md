@@ -1,22 +1,29 @@
 ---
-title: 'C. C. Wei: From Texas Instruments Engineer to TSMC Chairman and CEO'
-description: 'From Texas Instruments engineer to Morris Chang’s successor, C. C. Wei steered TSMC into 2nm and global expansion, becoming Taiwan’s foremost semiconductor leader.'
+title: 'C.C. Wei: 1953, from NCTU Electronics to Yale PhD to TSMC Chairman and CEO'
+description: "Born in 1953. B.S./M.S. in Electronic Engineering from National Chiao Tung University; Ph.D. in Electrical Engineering from Yale University. Texas Instruments → STMicroelectronics → Chartered Semiconductor Manufacturing (Singapore) → joined TSMC in 1998. Served as co-COO of TSMC with Mark Liu in 2012. Assumed role of Vice Chairman and President on June 5, 2018. Became Chairman after Mark Liu's retirement on June 4, 2024; currently serves as TSMC Chairman and CEO."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technology & Business',
+    'TSMC',
+    'Semiconductors',
+    'Foundry',
+    'Process Technology',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '台積電', '半導體', '晶圓代工', '製程技術']
-readingTime: 7
-#   whats_excluded: "各代製程技術細節比較；台積電財報分析；與三星/英特爾競爭細節"
-#   where_it_hedges: "原文章誤植出生年1955→已修正為P0確認的1953；原誤植台大材料+史丹佛→已修正為交大電子+耶魯"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
-translatedFrom: People/魏哲家.md
-sourceCommitSha: '0f8fae0a'
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/魏哲家.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-05-25T21:06:51Z'
+translatedAt: '2026-11-05T00:17:30.788246+00:00'
 ---
 
 # C. C. Wei: From Texas Instruments Engineer to TSMC Chairman and CEO
