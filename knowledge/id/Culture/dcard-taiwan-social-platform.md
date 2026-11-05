@@ -1,10 +1,8 @@
 ---
 title: 'Dcard'
 description: 'Sebuah situs web yang ditulis oleh seorang anak Tainan di asrama NTU agar ia lebih mudah berkenalan dengan teman baru, berkembang menjadi platform media sosial paling berpengaruh bagi anak muda Taiwan, lalu terus berkembang sambil menghadapi pertanyaan "apakah Dcard akan runtuh?".'
-date: '2026-04-05'
-author: 'Taiwan.md'
+date: 2026-04-05
 category: 'Culture'
-subcategory: '網路與數位文化'
 tags:
   [
     'Media sosial',
@@ -15,15 +13,19 @@ tags:
     'Universitas',
     'Teknologi',
   ]
-readingTime: '8'
-lastVerified: '2026-04-05'
-lastHumanReview: 'false'
+subcategory: '網路與數位文化'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/Dcard.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-05T04:11:49.930096+00:00'
 ---
 
 # Dcard

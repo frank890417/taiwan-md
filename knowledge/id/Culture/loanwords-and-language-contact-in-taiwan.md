@@ -2,23 +2,28 @@
 title: 'Kata Serapan Taiwan dan Fenomena Kontak Bahasa'
 description: 'Dari Bento hingga Video: Sejarah Kontak Bahasa di Pulau ini, Mengungkap Bagaimana Taiwan Menjadi Laboratorium Penggabungan Kata Serapan Terbaik di Dunia'
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
-  - 'Linguistik'
-  - 'Sosiolinguistik'
-  - 'Budaya Taiwan'
-  - 'Kontak Bahasa'
-  - 'Kata Serapan'
+  [
+    'Linguistik',
+    'Sosiolinguistik',
+    'Budaya Taiwan',
+    'Kontak Bahasa',
+    'Kata Serapan',
+  ]
+subcategory: '語言與文字'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-07-25T02:52:49+08:00'
+translatedAt: '2026-11-05T04:44:17.764641+00:00'
 ---
 
 > **30 detik ringkasan:** Fenomena "kata serapan" yang paling sering dikritik orang Taiwan sebenarnya menunjukkan bahwa Taiwan sendiri adalah laboratorium penggabungan kata serapan paling sukses di dunia.  

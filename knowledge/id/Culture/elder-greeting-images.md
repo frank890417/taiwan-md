@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-05T04:27:59.375828+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

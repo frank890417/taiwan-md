@@ -2,9 +2,7 @@
 title: "Bulan Ketujuh Kalender Imlek: Dari Ketakutan Kolektif 'Gerbang Hantu' hingga Rekonsiliasi Lembut di Sebuah Pulau"
 description: "Di tengah musim panas tahun 2026, meja panjang masih digelar di jalanan Taiwan. Dari cahaya api di Jalan Wanghai, Keelung, hingga keringat di tenda terpencil di Touting; dari 'Membuka Gerbang Macan' di Kuil Chenghuang Hsinchu hingga kemegahan Dashiye di Minxiong; Bulan Ketujuh Kalender Imlek bukan sekadar tentang larangan, melainkan narasi pulau mengenai koeksistensi, memori, dan melintasi batas antara dunia nyata dan roh."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Bulan Ketujuh Kalender Imlek',
@@ -15,15 +13,20 @@ tags:
     'Dashiye Minxiong',
     'Kuil Chenghuang Hsinchu',
   ]
-readingTime: 25
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 25
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-11-05T04:55:17.918307+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Bulan Ketujuh Kalender Imlek, yang oleh masyarakat Taiwan biasa disebut sebagai "Bulan Hantu", intinya bukanlah sekadar ketakutan akan hal mistis, melainkan sebuah "latihan koeksistensi" yang telah berlangsung selama berabad-abad. Dari "Gerbang Macan" yang dibuka tengah malam di Kuil Chenghuang Hsinchu, hingga kompetisi "Perebutan Yatiman" (Qianggu) menjelang Gerbang Hantu di Touting, Yilan, Taiwan mengubah keyakinan ini menjadi budaya dengan warna lokal yang kuat. Artikel ini akan membawa Anda ke dalam cahaya api di Jalan Wanghai, keringat di tenda-tenda terpencil, serta larangan berpakaian dan makanan yang telah terukir dalam DNA masyarakat. Kita akan mengungkap "pemasaran politik" yang mungkin berasal dari keluarga kerajaan Dinasti Ming, dan memahami bagaimana pulau ini mencapai rekonsiliasi sosial lintas ruang dan waktu dengan kebijaksanaan lembut: "menyambut dengan tulus, namun tanpa niat untuk menahan."
