@@ -2,19 +2,21 @@
 title: '八仙粉塵爆発：あの夜、カラー・パーティーが焼きつけた台湾の傷痕'
 description: '2015 年 6 月 27 日、八仙楽園のカラー・パーティーで粉塵のフラッシュ燃焼による粉塵爆発事故が発生し、国際社会に衝撃を与えました。この事故は台湾史上、921 大地震以後で最も深刻な集団死傷事件となり、499 人が熱傷を負い、15 人が死亡しました。台湾の救急医療体制を根本から変え、大規模イベントの安全法規の改革も促しました。'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags: ['八仙粉塵爆発', '公共安全事故', '医療の奇跡', '法的責任', '台湾史']
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T03:58:00.584458+00:00'
 ---
 
 > **30 秒でわかる概要：** 2015 年 6 月 27 日午後 8 時 32 分、新北市八里の八仙楽園で開かれていた「カラー・パーティー」の会場は、トウモロコシでんぷんの粉塵がフラッシュ燃焼したことで、一瞬にして火の海になりました。この事故により 499 人が熱傷を負い、15 人が死亡しました。台湾では 921 大地震以後、単一の公共安全事故として最も甚大な人的被害を出した出来事です。多数の重度熱傷患者を前に、台湾の医療従事者は「全国の力を結集」し、死亡率をわずか 3% に抑える「医療の奇跡」を実現しました。しかし、10 年が過ぎても法的訴訟は続き、負傷者たちは傷痕と共に生きる長く困難なリハビリの道を歩み続けています。八仙楽園もこの事故以後、荒廃したままです。この傷痕は、公共安全の重要性を今も台湾社会に深く問いかけています。
