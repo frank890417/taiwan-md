@@ -1,24 +1,30 @@
 ---
 title: "Administrative Divisions of Taiwan: The Power Puzzle from 'Landdag' to 'Five Municipalities'"
 description: "Taiwan's administrative divisions are more than lines on a map — they are the result of a four-hundred-year experiment in power. From tribal councils under the Dutch, to the Japanese colonial era's elegant place-name renaming campaign, to a post-war plan that nearly named a city 'Shuangwen City,' every border conceals a tug-of-war between governing will and local identity."
-translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:349360e6f67e2293'
-sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-05-01T12:53:58+08:00'
-category: Geography
-tags:
-  - 'administrative divisions'
-  - 'Taiwan history'
-  - 'land planning'
-  - 'local autonomy'
-author: 'Taiwan.md Contributors'
 date: 2026-04-17
-readingTime: 15
+category: 'Geography'
+tags:
+  [
+    'administrative divisions',
+    'Taiwan history',
+    'land planning',
+    'local autonomy',
+  ]
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Geography/台灣行政區劃.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:349360e6f67e2293'
+sourceBodyHash: 'sha256:a900fc355006c673'
+translatedAt: '2026-11-05T07:02:48.039466+00:00'
 ---
+
 > **30-second overview:** Taiwan's current "six special municipalities and sixteen counties/cities" is the result of multiple rounds of political surgery over four hundred years. In the 17th century the Dutch used "landdag" (local councils) to monitor tribal communities; the Zheng clan and Qing dynasty periods inaugurated the Han Chinese county-and-prefecture system; the Japanese colonial era laid the skeleton of modern administrative divisions through "five provinces and three prefectures" and a place-name refinement campaign. This experiment nearly produced a city named after a historical figure in 1945, and in 2010 the five-municipalities reform absorbed sixty percent of Taiwan's population into directly administered municipalities — leaving a contemporary challenge of resource imbalance.
 
 Taiwan's administrative divisions did not begin with Han Chinese prefectures, but with the "Landdag" (local council) of the Dutch East India Company (VOC). In 1635, after conquering the Mattau (Madou) tribal community by force, the Dutch held the first Landdag at Fort Zeelandia.[^1] Administrative boundaries at the time were not precise borders but divided Taiwan into four "Landdag districts": Northern Road, Southern Road, Puyuma, and Tamsui. The Dutch governor would present each community's headman with a silver-headed staff symbolizing power, requiring them to assemble once a year and swear fealty.[^2]
