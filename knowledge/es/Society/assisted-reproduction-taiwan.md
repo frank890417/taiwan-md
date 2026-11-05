@@ -1,8 +1,8 @@
 ---
 title: 'Taiwán: Un embrión cruza fronteras, pero las familias no pueden cruzar automáticamente la ley'
 description: 'En 2020, la pareja de mujeres Mota y City viajaron a Camboya para someterse a FIV, gastando aproximadamente 2 millones de NTD en cuatro años. Taiwán ya tenía una ley de reproducción asistida en 2007 y amplió las subvenciones para la FIV en 2021; solo en 2025 el proyecto de ley permitió a las mujeres solteras y a las parejas de lesbianas casadas. La tecnología ya era madura, pero la ley no solo alcanza las formas de reproducción, sino también quién tiene derecho a formar una familia.'
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'reproducción asistida',
@@ -11,17 +11,19 @@ tags:
     'matrimonio entre personas del mismo sexo',
     'baja natalidad',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-11T06:46:16+08:00'
+translatedAt: '2026-11-05T14:07:02.844615+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 2020, la pareja de mujeres Mota y City viajaron a Camboya para someterse a FIV, gastando aproximadamente 2 millones de NTD en cuatro años. La tecnología médica de Taiwán ya era madura, pero la ley permitió durante mucho tiempo solo a las parejas heterosexuales casadas. Desde la Ley de Reproducción Asistida de 2007 hasta el proyecto de ley de reforma de 2025, este artículo no busca ver solo «si se puede dar a luz», sino quién puede entrar a la sala de consulta, quién es reconocido como padre tras el nacimiento del niño, y los difíciles problemas que dejan las madres de alquiler. [^1]
