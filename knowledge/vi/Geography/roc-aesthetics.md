@@ -1,8 +1,8 @@
 ---
 title: 'Nghệ thuật sống Đài Loan: Từ lá cờ tỉnh thành đến biển hiệu góc phố, một hòn đảo biến cuộc sống thành mảnh ghép thị giác'
 description: 'Từ cảnh quan đường phố, kiến trúc, lá cờ tỉnh thành, biển hiệu cho đến thiết kế ngành công cộng, khám phá cách mà nghệ thuật sống Đài Loan hình thành và tại sao không thể chỉ dùng từ "xấu" để tóm tắt cả một đảo.'
+date: 2026-08-20
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'cảnh quan đường phố',
@@ -14,17 +14,19 @@ tags:
     'khu vực đặc biệt Bắc Đại',
     'nghệ thuật sống Đài Loan',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 14
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/中華民國美學.md'
-sourceCommitSha: 'ba877ac2b'
-sourceContentHash: 'sha256:c8f833e6836a370f'
-sourceBodyHash: 'sha256:26c6e79fd91efe41'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:d44f393287c030ea'
+sourceBodyHash: 'sha256:764a5128969f3793'
+translatedAt: '2026-11-05T13:23:03.345794+00:00'
 ---
 
 15 tháng 10 năm 2024, Bộ Kinh tế công bố kết quả cải tạo biển hiệu khu thương mại Tân Hoa Thân Tình ở Đà Nẵng, tổng cộng thay mới 41 mặt biển hiệu cửa hàng. Năm 2016, cây cầu Trung Tâm ở Đài Bắc được tháo dỡ, cổng thành Bắc cuối cùng lại hiện ra từ dưới gầm cầu vượt, và khu vực xung quanh cũng bắt đầu tái trang trí lại đường phố và biển hiệu. Ngày 29 tháng 2 năm 2024, chính quyền thành phố Tân Bắc phê duyệt việc xem xét lại toàn bộ kế hoạch chi tiết khu vực cộng đồng Đại học Tân Bắc lần thứ hai.
@@ -41,24 +43,24 @@ Những video này chung một điểm: chúng đọc cảnh quan đường ph�
 
 📝 **Ghi chú của người biên tập:** Nói một nơi là "xấu" sẽ nhanh chóng gây cộng đồng. Nhưng khi chúng ta tách nó ra thành các hệ thống, vật thể và lựa chọn con người, mới thực sự bắt đầu hiểu nó.
 
-## Từ khóa này thực sự đang nói gì
+## Cụm từ này thực chất đang nói về gì
 
-"Nghệ thuật sống Đài Loan" không phải là một phong cách quốc gia có sổ tay thiết kế rõ ràng. Nó giống hơn như một khung nhìn được hình thành sau cùng, kết hợp các lựa chọn thị giác từ các thời đại, các cơ quan và các ngành công nghiệp khác nhau thành một bức tranh tổng hợp mang tính châm biếm.
+「Thẩm mỹ Trung Hoa Dân Quốc (Đài Loan)」 không phải là một phong cách quốc gia có sổ tay thiết kế rõ ràng. Nó giống hơn một khung nhìn hình thành sau cùng, ghép nối các lựa chọn thị giác của những thời đại, cơ quan, ngành nghề khác nhau thành một bức tranh tổng hợp mang ý châm biếm.
 
-Bức tranh tổng hợp này bao gồm cả những mái ngói đỏ, cột xanh và khung cảnh đối xứng của các công trình kỷ niệm quốc gia, cũng như những tấm biển hiệu vải của chợ, những đèn chạy của lớp học thêm, những chữ in vàng rự rỡ của đền chùa, những sinh vật đặc trưng của hoạt động địa phương, những biểu tượng thành phố và lá cờ của các tỉnh thành. Nó đồng thời chứa đựng cả "thứ tự mà nhà nước muốn người ta thấy" và "những gì cư dân tự thêm vào để sống".
+Trong bức tranh tổng hợp này có ngói đỏ, cột xanh và cấu trúc đối xứng của kiến trúc kỷ niệm quốc gia, cũng có biển hiệu vải bạt trên tường ngoài chợ, đèn chạy chữ của trung tâm bồi dưỡng, chữ vàng đỏ rực của cung miếu, vật tượng may mắn của hoạt động địa phương, huy hiệu và cờ của chính quyền huyện thị. Nó đồng thời bao gồm cả 「trật tự mà quốc gia muốn cho người ta nhìn thấy」 và 「những thứ mà cư dân tự thêm vào cho cuộc sống」.
 
-Vì vậy, từ khóa này có ít nhất tám khía cạnh. Nó là khía cạnh kiến trúc, cũng là khía cạnh biển hiệu. Nó là khía cạnh công trình công cộng và lá cờ tỉnh thành, cũng là khía cạnh vi phạm xây dựng, dây cáp, bãi đỗ xe và bảo trì. Nó cũng bao gồm các dự án đấu thầu và quảng bá của các bộ ngành, liệu trường có dạy môn nhận thức thị giác không, và một xã hội quyết định phong cách nào đáng được giữ lại.
+Do đó, cụm từ này ít nhất có tám khía cạnh. Nó là khía cạnh của kiến trúc, cũng là khía cạnh của biển hiệu. Là khía cạnh của cơ sở công cộng và cờ huyện thị, cũng là khía cạnh của xây dựng trái phép, dây điện, đỗ xe và sửa chữa. Nó còn bao gồm thầu tiêu và tuyên truyền của cơ quan công, việc ở trường có học cách quan sát hay không, cũng như một xã hội quyết định như thế nào những phong cách địa phương nào đáng được giữ lại.
 
-| Khía cạnh                 | Những gì có thể thấy trên đường phố                                            | Vấn đề đằng sau                                                |
-| ------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| Lịch sử và quyền lực      | Các công trình kỷ niệm, biểu tượng quốc gia, lá cờ                             | Ai được đưa vào không gian công cộng, ai bị ẩn đi              |
-| Kiến trúc và sinh hoạt    | Gạch men, căn hộ, cửa thép, ban công ngoại trú, tăng tầng                      | Nhu cầu nhà ở và quy tắc đô thị xung đột như thế nào           |
-| Thương mại và biển hiệu   | Vải, đèn neon, phông chữ, đèn chạy                                             | Các doanh nghiệp cạnh tranh trên mặt tiền hạn chế như thế nào  |
-| Hạ tầng                   | Dây cáp, máy lạnh, hộp biến áp, bãi đỗ xe ven đườngng                          | Hệ thống công cộng và nhu cầu cá nhân kết hợp như thế nào      |
-| Nhận diện địa phương      | Lá cờ tỉnh thành, biểu tượng thành phố, sinh vật đặc trưng, hình ảnh hoạt động | Địa phương muốn giới thiệu bản thân bằng hình ảnh nào          |
-| Thiết kế cơ quan nhà nước | Tài liệu quảng bá, tấm rơng, kết quả đấu thầu                                  | Chuyên môn, ngân sách, kỳ vọng chính trị va chạm như thế nào   |
-| Giáo dục và bảo trì       | Khuôn viên trường học, vệ sinh đường phố, cập nhật biển hiệu                   | Liệu thẩm mỹ có thể trở thành khả năng hàng ngày không         |
-| Ngoại lệ và quản lý       | Khu vực đặc biệt Bắc Đại, cổng thành Bắc, cải tạo khu thương mại               | Liệu quy tắc có thể giúp địa phương tạo ra trật tự riêng không |
+| Khía cạnh               | Điều nhìn thấy trên đường phố                                           | Vấn đề đằng sau                                                     |
+| ----------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Lịch sử và chính quyền  | Kiến trúc kỷ niệm, biểu tượng quốc gia, cờ                              | Ai được đưa vào tầm nhìn công cộng, ai bị giấu đi                   |
+| Kiến trúc và cư trú     | Gạch men, chung cư, cửa sổ sắt, phần lồi ra ngoài, xây thêm tầng thượng | Nhu cầu nhà ở và quy tắc đô thị kéo co như thế nào                  |
+| Thương mại và biển hiệu | Vải bạt, đèn neon, font chữ, đèn chạy chữ                               | Thương gia như thế nào tranh giành sự chú ý trên mặt tiền hạn hẹp   |
+| Cơ sở hạ tầng           | Dây điện, máy lạnh, hộp biến áp, đỗ xe ven đường                        | Hệ thống công cộng và nhu cầu cá nhân chồng chéo như thế nào        |
+| Nhận diện địa phương    | Cờ huyện thị, huy hiệu thành phố, vật tượng may mắn, hình ảnh hoạt động | Địa phương dùng hình ảnh gì để giới thiệu bản thân                  |
+| Thiết kế cơ quan công   | Phim tuyên truyền, afiş, kết quả thầu tiêu                              | Chuyên môn, ngân sách, kỳ vọng chính trị va chạm như thế nào        |
+| Giáo dục và duy trì     | Khuôn viên trường, vệ sinh đường phố, cập nhật biển hiệu                | Thẩm mỹ có thể trở thành năng lực hàng ngày hay không               |
+| Ngoại lệ và trị lý      | Khu đặc biệt Bắc Đại, Bắc Môn, cải tạo khu thương mại                   | Quy tắc có thể để hình thành trật tự riêng của địa phương hay không |
 
 ## Kiến trúc không phải là nền tảng, mà là dấu vết của cuộc sống
 
@@ -90,27 +92,27 @@ Một mặt biển hiệu có thể đồng thời chứa đựng tên cửa hà
 
 Tuy nhiên, vấn đề của Đài Loan không chỉ là "quá nhiều". Các tấm rơng thương mại và quảng cáo rượu thời Nhật cũng từng sử dụng hình ảnh rõ rệt, nhân vật và hình tượng nước ngoài. Những liệu liệu lịch sử này nhắc nhở chúng ta rằng, thị giác thương mại luôn hấp thụ công nghệ, ngành công nghiệp và xu hưởng thời đại. Điều thực sự cần được hỏi là: thiết kế ngày nay có nhận thức được mình đang tham chiếu đến điều gì, và liệu nó có thể để các yếu tố mới và khu phố cũ cùng giải thích cho nhau không.
 
-## Lá cờ tỉnh thành: yếu tố thị giác công cộng dễ bị bỏ qua nhất
+## Cờ hiệu huyện, thành phố: Nhận diện công cộng dễ bị bỏ qua nhất
 
-Nếu biển hiệu đại diện cho kinh tế tư nhân, thì lá cờ tỉnh thành là cách chính quyền địa phương đưa chính mình vào cảnh quan đường phố. Chúng thường xuất hiện ở tòa thị ứng, văn phòng quận, trường học, sân thể thao, sân khấu lễ hội và cổng vào đường. Các biểu tượng thành phố, văn bản, tên tiếng Anh, màu sắc và tỉ lệ trên lá cờ sẽ kết hợp với kiến trúc, nền sau hoạt động, trang phục và xe quảng bá để tạo nên nhận diện địa phương.
+Nếu biển hiệu đại diện cho thương mại tư nhân, thì cờ hiệu huyện, thành phố chính là cách chính quyền địa phương đưa bản thân vào cảnh quan đường phố. Chúng thường xuất hiện tại trụ sở chính quyền thành phố, văn phòng quận, trường học, sân vận động, sân khấu lễ hội và các lối vào đường phố. Huy hiệu, chữ viết, tên tiếng Anh, màu sắc và tỷ lệ trên cờ hiệu, cùng với kiến trúc, backdrop sự kiện, đồng phục, xe tuyên truyền, cùng hình thành nhận diện địa phương.
 
-Điều này thường bị bỏ qua vì mọ người quen thói với việc coi lá cờ như một nền tảng. Thực ra, lá cờ rất thành thật. Nó không thể giải thích chậm như trang web, cũng không thể bổ sung câu chuyện như văn bản dài. Nó phải để cho người nhận biết được đây là đâu, dù trong gió, ở xa, khi gập lại hoặc khi đi ngang nhanh chóng.
+Lớp này thường bị bỏ qua, vì người ta quen coi cờ như nền cảnh. Thực tế cờ hiệu rất trung thực. Nó không thể giải thích từ từ như trang web, cũng không thể bổ sung câu chuyện như văn bản dài. Nó phải trong gió, từ xa, khi gấp lại và dưới ánh nhìn nhanh chóng, khiến người ta nhận ra đây là đâu.
 
-Cả lá cờ thành phố Tân Hoa và lá cờ quận Yilan đều có thể tìm thấy tệp tin có thể nhúng trực tiếp trên Wikimedia Commons. Giá trị của những hình ảnh này không phải để chứng minh lá cờ nào đẹp hơn, mà là để cho người đọc thấy rằng nhận diện địa phương cũng là một phần của thiết kế đô thị.
+Cờ thành phố Đào Viên và cờ huyện Nghi Lan đều có thể tìm thấy tại Wikimedia Commons dưới dạng tệp công cộng có thể nhúng trực tiếp. Giá trị của những hình ảnh này không nằm ở việc chứng minh cờ nào đẹp hơn, mà là để người đọc thấy rằng nhận diện địa phương cũng là một phần của thiết kế đô thị.[^8] [^9]
 
-![Lá cờ thành phố Tân Hoa](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
+![Cờ thành phố Đào Viên](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
 
-_Hình ảnh: Lá cờ thành phố Tân Hoa, Wikimedia Commons, Public domain／PD-ROC-exempt。Trang tệp tin：[Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg)。Chỉ nhúng liên kết trực tiếp, không tải hình ảnh._
+_Hình ảnh: Cờ thành phố Đào Viên, Wikimedia Commons, Public domain/PD-ROC-exempt. Trang tệp: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Chỉ nhúng liên kết nóng tại đây, không tải xuống hình ảnh._
 
-Thách thức của lá cờ tỉnh thành giống với biển hiệu. Văn bản quá nhiều, ở xa chỉ còn lại một màu tối. Những biểu tượng núi, biển, lúa, đường, công nghệ và lịch sử được đưa vào quá nhiều trong biểu tượng, khiến câu chuyện địa phương mất đi sự phân lớp. Khi màu sắc không có quy chuẩn, lá cờ thành phố, lá cờ hoạt động, sinh vật đặc trưng và nền sau quảng bá sẽ phát ra tiếng riêng, và khi treo thành hàng dọc sẽ tạo ra cảm giác "mọ người đều đại diện cho địa phương, nhưng không ai cùng thiết kế".
+Vấn đề của cờ hiệu huyện, thành phố, giống như biển hiệu. Chữ quá nhiều, nhìn từ xa chỉ còn một đám. Huy hiệu nhét quá nhiều núi, biển, lúa, đường, công nghệ và biểu tượng lịch sử, câu chuyện địa phương ngược lại mất đi tầng lớp. Khi màu sắc không có quy chuẩn sử dụng, cờ thành phố, cờ sự kiện, vật may mắn và backdrop tuyên truyền mỗi thứ một tiếng, treo cả dãy sẽ xuất hiện cảm giác thị giác kiểu «mọi người đều đại diện cho địa phương, nhưng không ai cùng thiết kế».
 
-Đây chính là phiên bản công cộng của "nghệ thuật sống Đài Loan". Nó không phải là trách nhiệm của một mặt lá cờ, mà là kết quả của việc chính quyền địa phương đặt nhận diện, khẩu hiệu chính trị, hình ảnh du lịch và chức năng hành chính lên cùng một tấm giấy. Lá cờ có thể rất sôi động, nhưng sự sôi động không đồng nghĩa với khả năng nhận diện. Văn hóa địa phương cũng không cần phải được nén vào một dãy núi, một bông hoa hoặc năm màu sắc mới được đại diện.
+Đây chính là phiên bản công cộng của «Trung Hoa Dân Quốc thẩm mỹ». Nó không phải trách nhiệm của một cờ nào, mà là kết quả của việc chính quyền địa phương đặt nhận diện, khẩu hiệu chính trị, hình ảnh du lịch và chức năng hành chính tất cả lên cùng một bức tranh. Cờ hiệu có thể rất sôi động, nhưng sôi động không bằng khả năng nhận diện. Văn hóa địa phương cũng không nhất thiết phải bị nén thành một hình núi, một đóa hoa hoặc năm màu sắc, mới được coi là được đại diện.
 
-![Lá cờ quận Yilan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
+![Cờ huyện Nghi Lan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
 
-_Hình ảnh: Lá cờ quận Yilan, Wikimedia Commons, Public domain／PD-ROC-exempt。Trang tệp tin：[Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg)。Chỉ nhúng liên kết trực tiếp, không tải hình ảnh._
+_Hình ảnh: Cờ huyện Nghi Lan, Wikimedia Commons, Public domain/PD-ROC-exempt. Trang tệp: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Chỉ nhúng liên kết nóng tại đây, không tải xuống hình ảnh._
 
-📝 **Ghi chú của người biên tập:** Một mảnh lá cờ không phải là toàn bộ của một địa phương, nhưng nó sẽ tiết lộ liệu chính quyền địa phương có biết gì nên giữ lại và gì có thể buông xuống.
+📝 **Ghi chú người bảo tàng:** Một tấm cờ không phải là tất cả của địa phương, nhưng nó bộc lộ chính quyền địa phương có biết gì nên giữ lại, gì có thể bỏ qua không.
 
 ## Dây cáp, máy lạnh và bãi đỗ xe: cả hệ thống hạ tầng đều có thẩm mỹ
 
@@ -184,40 +186,40 @@ Ba câu hỏi này cũng tạo ra những mảng nứt trong từ khóa "nghệ 
 
 ## Tài liệu tham khảo
 
-[^1]: [Bộ Kinh tế: Kết hợp thiết kế thẩm mỹ và văn hóa địa phương, tái tạo phong cách mới cho khu thương mại](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Bộ Thương mại phát triển của Bộ Kinh tế mô tả dự án cải tạo 41 mặt biển hiệu ở khu thương mại Tân Hoa Thân Tình ở Đài Nam, cũng như các trường hợp tăng giá trị thiết kế ở khu thương mại ở Đà Nẵng và Đài Bắc.
+![Hàn tự biển hiệu góc phố Taipei](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
 
-[^2]: [Bắt đầu từ biển hiệu đường phố](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Hồ sơ tiếng Anh ghi nhận quá trình tháo dỡ cây cầu vượt Bắn ở Đài Bắc, cập nhật biển hiệu và thảo luận chung của cư dân, chủ cửa hàng và nhà thiết kế.
+_Ảnh: Biển hiệu Hán tự ở góc phố Taipei, Wikimedia Commons, CC0/Công cộng. Trang tập tin: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Tại đây chỉ nhúng liên kết nóng, không tải ảnh._
 
-[^3]: [Sở Phát triển đô thị và nông thôn của Tân Bắc: Thông báo sửa đổi kế hoạch chi tiết khu vực cộng đồng Đại học Tân Bắc](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Chính quyền Tân Bắc công bố kế hoạch chi tiết khu vực đặc biệt Bắc Đại lần thứ hai, bắt đầu thực hiện từ ngày 29 tháng 2 năm 2024.
+[^1]: [Bộ Kinh tế: Hội tụ thiết kế thẩm mỹ với văn hóa địa phương, tái tạo diện mạo mới cho khu thương mại](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Cục Phát triển Thương mại Bộ Kinh tế giải thích việc cải tạo 41 biển hiệu tại khu thương mại Quốc Hoa - Hữu Ái Tainan, cũng như các ví dụ tăng giá thiết kế tại khu thương mại Changhua và Kaohsiung.
 
-[^4]: [Bộ Nội các: Quy chế quản lý biển hiệu và biển quảng cáo](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Trang pháp lý của Bộ Nội các định nghĩa biển hiệu và biển quảng cáo, quy định kích thước, giấy phép, an toàn và cho phép chính quyền địa phương lập quy tắc về hình dạng, màu sắc và phong cách phông chữ.
+[^2]: [Bắt đầu từ biển hiệu đường phố](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Bản ghi chép tiếng Anh về cảnh quan đường phố ghi lại quá trình tháo dỡ cao架 đường dẫn Bắc Môn Taipei, cập nhật biển hiệu đường phố và quá trình thảo luận chung của cư dân, chủ cửa hàng và thiết kế sư.
 
-[^5]: [The City at Eye Level: Bắt đầu từ biển hiệu đường phố](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Trường hợp tiếng Anh giải thích sự cạnh tranh biển hiệu trong khu phố kết hợp dân cư và thương mại ở Đài Loan, quy tắc biển hiệu năm 1996 ở Đài Bắc và sự tham gia cộng đồng trong việc cải tạo khu phố cổ Bắn.
+[^3]: [Cục Phát triển Đô thị và Nông thôn Chính phủ thành phố New Taipei: Công bố thay đổi kế hoạch chi tiết khu đặc định cộng đồng Đại học Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Chính phủ thành phố New Taipei công bố lần kiểm tra tổng thể thứ hai kế hoạch chi tiết khu đặc định Bắc Đại, có hiệu lực từ ngày 29 tháng 2 năm 2024.
 
-[^6]: [Bộ Giáo dục Đài Loan: Cải tạo thẩm mỹ trường học Đài Loan tỏa sáng trên trường quốc tế](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Trang tiếng Anh của Bộ Giáo dục giới thiệu dự án thiết kế trường học từ năm 2019 sử dụng tư duy thiết kế để cải thiện môi trường học tập, và ghi nhận các giải thưởng quốc tế và sự quan tâm của truyền thông.
+[^4]: [Bộ Nội vụ: Quy chế quản lý biển hiệu quảng cáo và quảng cáo thiết lập](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Trang quy định của Bộ Nội vụ định nghĩa biển hiệu và quảng cáo thiết lập, quy định kích thước, phép, an toàn và chính quyền địa phương có thể quy định tiêu chuẩn hình dạng, màu sắc và font chữ.
 
-[^7]: [Bộ Giáo dục: Kế hoạch năm năm thứ ba của Bộ Giáo dục về giáo dục thẩm mỹ](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Tài liệu chính sách của Bộ Giáo dục giải thích ngân sách, mục tiêu, hướng thúc đẩy và hướng thực hành địa phương của giáo dục thẩm mỹ từ năm 2024 đến năm 2028.
+[^5]: [Thành phố ở mức độ mắt: Bắt đầu từ biển hiệu đường phố](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Ví dụ tiếng Anh giải thích cuộc cạnh tranh biển hiệu ở khu phố hỗn hợp dân cư - thương mại tại Taiwan, quy chuẩn biển hiệu Taipei năm 1996 và cải tạo tham gia của cộng đồng Bắc Môn.
 
-[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Trang tệp tin của Wikimedia Commons ghi nhận hình ảnh lá cờ thành phố Tân Hoa, đánh dấu Public domain／PD-ROC-exempt, phù hợp để nhúng bằng liên kết trực tiếp.
+[^6]: [Bộ Giáo dục Taiwan: Cải tạo thẩm mỹ trường học Taiwan tỏa sáng trên sân khấu quốc tế](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Trang tiếng Anh của Bộ Giáo dục giới thiệu kế hoạch thiết kế trường học từ năm 2019 dùng tư duy thiết kế cải thiện môi trường học tập, và ghi nhận các giải thưởng quốc tế và sự chú ý của truyền thông.
 
-[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Trang tệp tin của Wikimedia Commons ghi nhận hình ảnh lá cờ quận Yilan, đánh dấu Public domain／PD-ROC-exểpt, phù hợp để nhúng bằng liên kết trực tiếp.
+[^7]: [Bộ Giáo dục: Kế hoạch năm năm giai đoạn ba của kế hoạch trung và dài hạn giáo dục thẩm mỹ](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Văn kiện chính sách của Bộ Giáo dục giải thích ngân sách, mục tiêu, hướng thúc đẩy và hướng thực hành địa phương của giáo dục thẩm mỹ năm 2024 đến 2028.
 
-[^10]: [Taiwan.md: Khu vực đặc biệt Bắc Đại: Ba mươi năm kế hoạch đô thị và thí nghiệm sống đại học](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Bài viết hiện có của Taiwan.md xử lý toàn bộ lịch sử, kế hoạch đô thị, con phố học, kiến trúc, dân số, giao thông, thị thượng hóa và công lý đất đai của khu vực đặc biệt Bắc Đại.
+[^8]: [Wikimedia Commons: Cờ thành phố Taoyuan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Trang tập tin Wikimedia Commons ghi lại hình ảnh cờ thành phố Taoyuan, ghi chú Public domain/PD-ROC-exempt, phù hợp nhúng liên kết nóng.
 
-[^11]: [YouTube: Cùng thảo luận những điều về thẩm mỹ](https://www.youtube.com/watch?v=m_NTelUFF8I) — Video của Landon thảo luận về "nghệ thuật sống Đài Loan" thông qua cảnh quan đường phố, biển hiệu, cửa thép, tăng tầng và thị giác công cộng.
+[^9]: [Wikimedia Commons: Cờ huyện Yilan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Trang tập tin Wikimedia Commons ghi lại hình ảnh cờ huyện Yilan, ghi chú Public domain/PD-ROC-exempt, phù hợp nhúng liên kết nóng.
 
-[^12]: [YouTube: Nghệ thuật sống và những nơi nó thất bại](https://www.youtube.com/watch?v=0ltZtVaHV84) — Video của nhà hàng mì ăn liền Yêu yêu thảo luận về ngữ cảnh châm biếm của "nghệ thuật sống" thông qua kiến trúc, màu sắc, biển hiệu và bảo trì.
+[^10]: [Taiwan.md: Khu đặc định Bắc Đại: Ba mươi năm quy hoạch đô thị và thử nghiệm sống tại thành phố đại học](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Điều mục hiện có của Taiwan.md xử lý đầy đủ lịch sử, quy hoạch đô thị, đường Học Cần, kiến trúc, dân số, giao thông, du nhập và công bằng đất đai của khu đặc định Bắc Đại.
 
-[^13]: [YouTube: Có hình ảnh thật: Các tấm rơng thương mại thời Nhật](https://www.youtube.com/watch?v=fMR-z-lcols) — Video của nhà triển lãm Sasori sử dụng các tấm rơng thương mại, quảng cáo rượu và cảnh quan lịch sử thời Nhật để bổ sung tiền sử văn hóa thị giác của Đài Loan.
+[^11]: [YouTube: Cùng trò chuyện về những chuyện thẩm mỹ](https://www.youtube.com/watch?v=m_NTelUFF8I) — Video của Landon dùng cảnh quan đường phố Taiwan, biển hiệu, cửa sổ sắt, tầng thượng xây thêm và thị giác công cộng thảo luận sự hình thành của "Thẩm mỹ Trung Hoa Dân Quốc".
 
-[^14]: [YouTube: Quan sát đường phố ở Osaka - Phần 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Video của Landon so sánh biển hiệu, phông chữ, màu sắc, trật tự đường phố và dự án cải tạo thiết kế của chợ thị trường Thịnh Định ở Đài Nam giữa Osaka và Đài Loan.
+[^12]: [YouTube: Thẩm mỹ Hoa Quốc và nơi nó thất bại](https://www.youtube.com/watch?v=0ltZtVaHV84) — Video của kênh Mì gói của Giáp YEET thảo luận bối cảnh phê phán "Thẩm mỹ Hoa Quốc" từ kiến trúc, màu sắc, biển hiệu và bảo trì.
 
-[^15]: [YouTube: Đã xảy ra vấn đề gì với thẩm mỹ của cơ quan nhà nước ở Đài Loan?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Video tin tức Tự do theo dõi thảo luận về thị giác công cộng thông qua các tài liệu quảng bá, dự án đấu thầu, phân công chuyên môn và giáo dục thẩm mỹ.
+[^13]: [YouTube: Có hình có thật: Hải báo thương mại thời Nhật Bản](https://www.youtube.com/watch?v=fMR-z-lcols) — Video của Phòng chụp ảnh Tả Vinh dùng hải báo thương mại thời Nhật Bản, quảng cáo rượu và cảnh quan đường phố lịch sử, bổ sung tiền sử văn hóa thị giác Taiwan.
 
-[^16]: [YouTube: Tại sao cảnh quan đường phố ở Đài Loan lại xấu? Nguồn gốc của "nghệ thuật sống Đài Loan"](https://www.youtube.com/watch?v=CA-EpOj72d4) — Video của cheap đưa ra khung phản bình về "nghệ thuật sống Đài Loan" thông qua cảnh quan đường phố, vi phạm xây dựng, cơ trình công cộng, pháp lý và tâm lý lịch sử.
+[^14]: [YouTube: Quan sát đường phố chuyến Osaka tập hai](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Video của Landon so sánh biển hiệu, font chữ, màu sắc, trật tự đường phố Osaka và Taiwan cũng như cải tạo thiết kế chợ Vĩnh Lạc Tainan.
 
-[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Trang tệp tin của Wikimedia Commons ghi nhận ảnh chụp biển hiệu tiếng Trung trên đường phố Đài Bắc, đánh dấu CC0／Public domain, có thể sử dụng liên kết trực tiếp để nhúng.
+[^15]: [YouTube: Vấn đề gì với thẩm mỹ bộ môn công Taiwan?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Video của Tự do truy tin dùng phim tuyên truyền bộ môn công, thầu án, phân công chuyên nghiệp và giáo dục thẩm mỹ thảo luận chất lượng thị giác công cộng.
 
-![Biển hiệu tiếng Trung ở góc phố Đài Bắc](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
+[^16]: [YouTube: Tại sao cảnh quan đường phố Taiwan xấu đến vậy? Nguồn gốc thẩm mỹ Trung Hoa Dân Quốc](https://www.youtube.com/watch?v=CA-EpOj72d4) — Video của cheap từ cảnh quan đường phố, xây dựng vi phạm, cơ sở hạ tầng công cộng, quy định và tâm lý lịch sử đưa ra khung bình luận "Thẩm mỹ Trung Hoa Dân Quốc".
 
-_Hình ảnh: Biển hiệu tiếng Trung ở góc phố Đài Bắc, Wikimedia Commons, CC0／Public domain。Trang tệp tin：[Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg)。Chỉ nhúng liên kết trực tiếp, không tải hình ảnh._
+[^17]: [Wikimedia Commons: Biển hiệu đường phố Taipei.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Trang tập tin Wikimedia Commons ghi lại ảnh biển hiệu Hán tự đường phố Taipei, ghi chú CC0/Công cộng, có thể nhúng trực tiếp liên kết nóng.
