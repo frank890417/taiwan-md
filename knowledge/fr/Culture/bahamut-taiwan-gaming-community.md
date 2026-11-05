@@ -2,20 +2,30 @@
 title: 'Bahamut : la plus grande communauté ACG de Taïwan'
 description: "Comment est née, a survécu et continue de prospérer la plus grande communauté ACG de Taïwan, à l'ère où Facebook et TikTok ont tout balayé sur leur passage."
 date: 2026-04-05
-tags:
-  [ACG, jeux-vidéo, anime, communauté, internet-taïwanais, sous-culture, forum]
-subcategory: '網路與數位文化'
 category: 'Culture'
+tags:
+  [
+    'ACG',
+    'jeux-vidéo',
+    'anime',
+    'communauté',
+    'internet-taïwanais',
+    'sous-culture',
+    'forum',
+  ]
+subcategory: '網路與數位文化'
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
-translatedFrom: 'Culture/巴哈姆特.md'
 lastVerified: 2026-04-05
-sourceCommitSha: 'f5975a22'
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/巴哈姆特.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-06-22T00:30:00+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-05T07:06:44.859492+00:00'
 ---
 
 # Bahamut

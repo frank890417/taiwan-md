@@ -2,6 +2,7 @@
 title: 'Carte culturelle des 16 peuples autochtones de Taïwan'
 description: "« 16 » n'est pas un chiffre né de lui-même — c'est le fruit d'une négociation. Des 210 000 Amis aux 441 Kanakanavu, la richesse culturelle des peuples autochtones de Taïwan dépasse de loin n'importe quel registre officiel."
 date: 2026-03-29
+category: 'Culture'
 tags:
   [
     'peuples autochtones',
@@ -11,17 +12,18 @@ tags:
     'création contemporaine',
   ]
 subcategory: '族群文化'
-category: 'Culture'
 author: 'Taiwan.md Contributors'
-readingTime: 9
 featured: false
-translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
 lastVerified: 2026-03-29
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-06-16T17:13:36Z'
-lastHumanReview: false
+translatedAt: '2026-11-05T07:01:52.206345+00:00'
 ---
 
 # Carte culturelle des 16 peuples autochtones de Taïwan
