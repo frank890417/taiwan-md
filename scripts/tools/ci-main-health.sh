@@ -151,13 +151,25 @@ while IFS=$'\t' read -r wid wname wpath; do
   # 那口，是因為「PR 跑很多、main 跑很少」的 workflow 需要它才撈得到 main 的那筆
   # （不帶 branch 的 100 筆可能全是 PR run）。兩邊不一致時印一行 ⚠️ 把這件事攤開，
   # 不默默補好——間歇性故障被補掉又不出聲，下一個人就量不到它還在發生。
+  #
+  # 2026-11-05 twmd-maintainer-daily：兩個取數口都用 `2>/dev/null` 吞掉錯誤，於是
+  # 「抓不到」跟「沒有跑過」在下面那個 `-z "$run"` 分支裡長得一模一樣，取數失敗會
+  # 被判成 NEVER-ON-MAIN ⚠️（硬旗）。本班實測命中：Engineering contracts 被印成
+  # NEVER-ON-MAIN，而它前一晚才在 main 上綠過，`?branch=main` 那口當場回 50 筆非
+  # PR 的 main run。真正壞的是不帶 branch 那口——100 筆的大回應在這條網路上穩定
+  # 被 `connection reset by peer` 打掉（連三次重試皆然）。這支尺本來就有 UNKNOWN
+  # 這個狀態，只是這條路徑沒用它；而把取數失敗印成 NEVER-ON-MAIN 有雙向代價：
+  # 當班追一個不存在的缺口，而真的從沒跑過的 workflow 會因為這個狀態常常是假的
+  # 而被習慣性忽略（REFLEXES #85「不知道」要有自己的符號／#82 的反面）。
   filt_json=$(gh api "repos/$REPO/actions/workflows/$wid/runs?branch=$BRANCH&per_page=50" \
     --jq '[.workflow_runs[]
            | select(.event != "pull_request" and .event != "pull_request_target")]' 2>/dev/null)
+  filt_rc=$?
   unfilt_json=$(gh api "repos/$REPO/actions/workflows/$wid/runs?per_page=100" \
     --jq "[.workflow_runs[]
            | select(.head_branch == \"$BRANCH\")
            | select(.event != \"pull_request\" and .event != \"pull_request_target\")]" 2>/dev/null)
+  unfilt_rc=$?
 
   run=$(printf '%s\n%s\n' "${filt_json:-[]}" "${unfilt_json:-[]}" | jq -rs '
       (add // []) | unique_by(.id)
@@ -171,6 +183,17 @@ while IFS=$'\t' read -r wid wname wpath; do
     | jq -r 'if length == 0 then "" else (max_by(.created_at).created_at) end' 2>/dev/null)
 
   if [ -z "$run" ] || [ "${run%%$'\t'*}" = "null" ]; then
+    # 兩個取數口都失敗 → 這一格沒量到，不是「沒跑過」。改計 UNKNOWN、不進
+    # never 計數。刻意不讓它影響 --strict：--strict 目前只看 RED，而「沒量到
+    # 要不要讓閘門轉紅」是閾值決定，照本檔既有慣例留哲宇（OBSERVER-QUEUE），
+    # 本班只修分類不動閘門強度。
+    if [ "$filt_rc" -ne 0 ] && [ "$unfilt_rc" -ne 0 ]; then
+      state="UNKNOWN(取數失敗) ⚠️"
+      unknown=$((unknown + 1))
+      printf '  %s %-9s %-26s %s\n' "$state" "-" "$wname" "$wpath"
+      printf '      ↳ 兩個 runs 取數口都失敗（API/網路），沒量到這條 workflow — 不是 NEVER-ON-MAIN\n'
+      continue
+    fi
     if [ "$(main_eligible "$wpath")" = "yes" ]; then
       state="NEVER-ON-MAIN ⚠️"
       never=$((never + 1))
