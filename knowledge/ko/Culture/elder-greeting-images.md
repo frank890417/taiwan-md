@@ -2,8 +2,7 @@
 title: '연배 인사 이미지: 연꽃과 부처님 뒤에 숨겨진 디지털 다정함과 정보 전장'
 description: '연배 인사 이미지는 대만 노년층이 디지털 격차를 넘어선 증거이자 소셜 플랫폼에서 정서를 교류하는 매개체이지만, 그 독특한 형식은 허위 정보 확산의 온상이 되기도 하며, 젊은 세대 사이에서는 고유한 밈(meme) 문화로 변모하기도 한다.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: Culture
+category: 'Culture'
 tags:
   [
     '연배 인사 이미지',
@@ -14,15 +13,19 @@ tags:
     '허위 정보',
     '밈',
   ]
-readingTime: 10
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Culture/長輩圖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/長輩圖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-06-11T16:38:39Z'
-featured: false
+translatedAt: '2026-11-05T07:22:17.532972+00:00'
 ---
 
 > **30초 개요:**
