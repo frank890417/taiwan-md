@@ -2,9 +2,7 @@
 title: 'ظاهرة الكلمات الدخيلة والتواصل اللغوي في تايوان'
 description: 'من "بيانتانغ" إلى "شيبين": تاريخ التواصل اللغوي لجزيرة، يكشف كيف أصبحت تايوان أنجح مختبر لاندماج الكلمات الدخيلة في العالم'
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'اللغويات',
@@ -13,14 +11,19 @@ tags:
     'التواصل اللغوي',
     'الكلمات الدخيلة',
   ]
+subcategory: '語言與文字'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-07-25T07:56:03+08:00'
+translatedAt: '2026-11-05T05:51:10.433175+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:** ظاهرة "الكلمات الدخيلة" التي ينتقدها التايوانيون أكثر من غيرها، هي في الحقيقة دليل على أن تايوان نفسها هي أنجح مختبر لاندماج الكلمات الدخيلة في العالم.
