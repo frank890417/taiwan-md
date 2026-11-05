@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:51:27.965518+00:00'
+translatedAt: '2026-11-05T01:56:46.113805+00:00'
 ---
 
 > **Resumo de 30 segundos:** O bolo de abacaxi é o microcosmo do encontro entre a agricultura e a arte de panificação de Taiwan. 1945: Yen Shu-mu, da Yen Hsin-fa em Taichung, cria o protótipo; década de 1970: o bloqueio às exportações de abacaxi impulsiona o recheio cremoso de melão de inverno; 2009: a SunnyHills recoloca o abacaxi nativo (variedade Kaien) no centro do palco. Hoje, este pequeno tijolo de ouro fatura mais de 25 bilhões de TWD por ano e é, para o turista estrangeiro, _o_ sabor de Taiwan.

@@ -2,9 +2,7 @@
 title: 'Chá Puzhong de Mingjian: o "herói anônimo" que sustenta 80% do mercado de bubble tea de Taiwan'
 description: 'A controvérsia do incinerador de Mingjian em 2025 revelou acidentalmente que 80% do chá base do bubble tea de Taiwan vem de Mingjian, em Nantou. Da fama de "três Puzhong" na era Qing à mudança de nome para "Chá Songbai Changqing" em 1975, esta região de baixa montanha a apenas 400 metros de altitude está agora no centro de uma batalha pela sobrevivência das terras de chá devido à escolha do local para o incinerador.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
     'Mingjian',
@@ -13,15 +11,19 @@ tags:
     'Chá Songbai Changqing',
     'Protesto contra incinerador',
   ]
-readingTime: 10
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-07-25T03:42:45+08:00'
+translatedAt: '2026-11-05T02:42:18.834803+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
