@@ -10,20 +10,22 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-11-05T00:49:52.097532+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Ende 1786 weitete sich ein lokaler Konflikt in Daliyi, Changhua, zu einem der größten Volksaufstände der Qing-Zeit in Taiwan aus. Die Aktionen von Lin Shuangwen, Zhuang Datian und Jinniang zwangen den Qing-Hof, Truppen über Provinzgrenzen hinweg zu verlegen, und führten nach dem Krieg zu einer Neuordnung von Fährhäfen, Tuntian-Soldaten und Stadtbefestigungen. Dieser Artikel begnügt sich nicht damit, das Ereignis als „Qing-Truppen befrieden Aufstand“ darzustellen, sondern fragt, wie ein Krieg die Art und Weise veränderte, wie das Reich Taiwan regierte.
+> **30-Sekunden-Übersicht:** Ende 1786 weitete sich ein lokaler Konflikt in Daliyi, Changhua, zu einem der größten Volksaufstände der Qing-Zeit in Taiwan aus. Die Aktionen von Lin Shuangwen, Zhuang Datian, Jinniang und anderen zwangen den Qing-Hof, Truppen aus anderen Provinzen herbeizuführen, und führten nach dem Krieg zu einer Neuregelung von Fährhäfen, Tuntian-Soldaten und Stadtbefestigungen. Dieser Artikel beschränkt sich nicht darauf, das Ereignis als „Niederschlagung des Aufstands durch die Qing-Armee“ darzustellen, sondern fragt, wie ein Krieg die Art und Weise veränderte, wie das Kaiserreich Taiwan regierte.
 
-Ende 1786 wurde Lin Shuangwen in Daliyi, Changhua, in einen lokalen Konflikt hineingezogen, der nicht unbedingt von ihm ausging. Im Januar 1787 hatte sich dieser Konflikt bereits auf die Kreisstadt Changhua ausgeweitet und die militärische Aufmerksamkeit des Qing-Reichs auf die westliche Hälfte Taiwans gezogen.[^1] Im Frühjahr 1788 wurde Lin Shuangwen gefangen genommen und in einem Gefangenenwagen nach Peking gebracht.[^2]
+Ende 1786 wurde Lin Shuangwen in Daliyi, Changhua, in einen lokalen Konflikt hineingezogen, den er nicht unbedingt selbst ausgelöst hatte. Im Januar 1787 hatte der Konflikt bereits die Kreisstadt Changhua eingenommen und die militärische Aufmerksamkeit des Qing-Reichs auf die westliche Hälfte Taiwans gelenkt.[^1] Im Frühling 1788 wurde Lin Shuangwen gefangen genommen und in einem Gefangenenwagen nach Peking gebracht.[^2]
 
-Diese Geschichte wird am leichtesten als „Qing-Truppen befrieden Volksaufstand“ geschrieben, aber die eigentliche Frage ist eine andere: Warum konnte eine Insel, die das Reich als Randgebiet betrachtete und lange nicht bereit war, hohe Verwaltungskosten zu investieren, den Qing-Hof zwingen, über ein Jahr lang Truppen über das Meer zu schicken und am Ende Hafen-, Tuntian- und Stadtverteidigungspolitik zu ändern?[^3]
+Diese Geschichte wird am ehesten als „Niederschlagung eines Volksaufstands durch die Qing-Armee“ erzählt, doch die eigentliche Frage ist eine andere: Warum konnte eine Insel, die das Kaiserreich als Randgebiet betrachtete und lange nicht bereit war, hohe Verwaltungskosten zu investieren, den Qing-Hof dazu bringen, über ein Jahr lang Truppen über das Meer zu schicken und am Ende die Hafen-, Tuntian- und Verteidigungspolitik zu ändern?[^3]
 
-> **Kernsatz gegen die Intuition:** Das Ende des Lin-Shuangwen-Vorfalls sieht aus wie eine Wiederherstellung des Status quo, tatsächlich aber brachte es das Qing-Reich dazu, Taiwan nicht mehr auf die ursprüngliche Weise zu regieren.
+> **Kontraintuitive Kernthese:** Das Ende des Lin-Shuangwen-Ereignisses mag wie eine Wiederherstellung des Status quo aussehen, tatsächlich verhinderte es jedoch, dass das Qing-Reich Taiwan weiterhin auf die ursprüngliche Weise regieren konnte.
 
 ## Vom Verbot von Geheimgesellschaften zum lokalen Kontrollverlust
 
