@@ -9,22 +9,26 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp'
+imageCredit: 'Ralff Nestor Nacor'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/諸葛四郎.md'
-sourceCommitSha: 'e38376ee4'
-sourceContentHash: 'sha256:e3fbaeedac9c6f10'
-sourceBodyHash: 'sha256:1b0f00900854455d'
-translatedAt: '2026-09-15T02:46:22+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:b2501899e99db9e7'
+sourceBodyHash: 'sha256:1b666fa0ae47a4ce'
+translatedAt: '2026-11-05T11:42:08.111063+00:00'
 ---
 
-> **Ringkasan 30 detik:** Yeh Hung-chia menggabungkan ketakutan pasca-Teror Putih, kesetiaan novel berkelanjutan (zhanghui xiaoshuo), tric jepang, dan realitas penerbitan Taiwan menjadi seorang anak muda bernama Zhuge Silang. Karya ini pernah gempar di seluruh Taiwan, lalu hilang akibat sensor dan perubahan pasar. Meninjau dia hari ini bukan hanya menemukan kembali seorang karakter, melainkan menyaksikan bagaimana komik Taiwan pernah menumbuhkan tata bahasa sendiri.
+> **30 detik ringkasan:** Yeh Hung-chia menggabungkan ketakutan pasca-White Terror, kesetiaan novel berbabak, mekanisme misteri bergaya Jepang, dan lanskap penerbitan Taiwan, menjadi seorang remaja bernama Zhuge Silang. Karya ini pernah merajalela seluruh Taiwan, namun juga pernah hilang karena sensor dan perubahan pasar. Hari ini meninjau kembali dia, bukan hanya menemukan kembali seorang karakter, melainkan menyaksikan bagaimana komik Taiwan pernah menumbuhkan tata bahasa sendiri.
 
-1958, Yeh Hung-chia mulai memuatkan serial "Zhuge Silang Perang Lawan Partai Iblis" di mingguan "Manhua Dawang" di Taipei. Tahun itu, usianya 34 tahun, sudah lebih dari sepuluh tahun sejak ia dipenjara karena komik politik. Pembaca mengirim lebih dari 10.000 tebakan, ingin mengetahui identitas asli pemimpin Partai Iblis. Zhuge Silang awalnya hanya direncanakan sekitar sepuluh bab, namun surat-surat dan pasar membuatnya bertahan. [^1] [^2]
+1958, Yeh Hung-chia mulai memuat seri "Zhuge Silang Melawan Partai Iblis" di majalah mingguan "Komik Raja" di Taipei. Tahun itu, ia berusia 34 tahun, sudah lebih dari sepuluh tahun sejak ia dipenjara karena komik politik. Para pembaca mengirimkan lebih dari 10.000 tebakan, ingin mengetahui identitas asli pemimpin Partai Iblis. Zhuge Silang awalnya hanya direncanakan untuk sekitar sepuluh babak, namun surat-surat dan pasar membuatnya bertahan. [^1] [^2]
 
-Titik awal ini memiliki hal yang kontr-intuitif: Zhuge Silang tampak seperti pendekar dari Tiongkok kuno, namun sebenarnya ia lahir dari tempat penerbitan Taiwan pasca-perang, ditempa bersama oleh komik Jepang, film, toko sewa buku (zushudian), dan percetakan lokal. Ia bukan sekadar "pahlawan tradisional", melainkan produk Taiwan yang lahir di tengah budaya bercampur.
+Titik awal ini memiliki hal yang kontradiktif: Zhuge Silang terlihat seperti pendekar dari Tiongkok kuno, namun sebenarnya ia adalah karakter yang dilahirkan di lanskap penerbitan pasca-perang Taiwan, dikembangkan bersama oleh komik Jepang, film, toko sewa buku, dan percetakan lokal. Ia bukan sekadar "pahlawan tradisional", melainkan produk Taiwan yang lahir di tengah budaya bercampur.
 
-📝 **Catatan Kurator:** Bagian paling layak ditinjau kembali dari Zhuge Silang bukan seberapa jago dia berkelahi, melainkan bagaimana ia memperlihatkan sebuah pulau memecah bentuk asing, lalu merangkainya kembali menjadi pahlawan miliknya sendiri.
+📝 **Catatan Kurator:** Tempat paling layak untuk meninjau kembali Zhuge Silang bukan pada seberapa jago ia bertarung, melainkan pada bagaimana ia memperlihatkan kepada kita bagaimana sebuah pulau memecah bentuk asing, lalu menyusun kembali pahlawan miliknya sendiri.
 
 ## Sebelum Menggambar Pahlawan, Yeh Hung-chia Menggambar Lain
 
@@ -74,17 +78,17 @@ Sama pentingnya adalah naskah tangan. Pameran Ulang Tahun Ke-100 Yeh Hung-chia 2
 
 Yeh Chia-lung berkata: "Orang biasa, juga bisa melakukan hal tidak biasa." [^1] Kalau kalimat ini hanya dijadikan slogan motivasi, terlalu ringan. Ditaruh kembali konteks pameran, ia menunjuk pada seorang kreator yang ditekan era, bagaimana lewat penyimpanan keluarga, pengoleksian museum, pengaturan peneliti, dan adaptasi generasi baru, karya itu kembali memasuki ruang publik.
 
-## Dari Kenangan Kembali ke Budaya Publik
+## Dari Memori Menuju Budaya Publik
 
-Zhuge Silang pernah diadaptasi film 1970-an, drama TV 1980-an, juga film animasi 3D 2022 "Zhuge Silang: Pahlawan para Pahlawan". [^1] 2024 Museum Komik Nasional menggelar tiga pameran "Zhuge Silang 100", "Menjadi Zhuge Silang", dan "Jiwa Pahlawan", menempatkan naskah, animasi, kenangan pembaca, dan sejarah komik di satu kawasan. [^1] [^7]
+Zhuge Silang pernah diadaptasi menjadi film tahun 1970-an, serial TV tahun 1980-an, dan pada 2022 hadir film animasi 3D 《Zhuge Silang: Pahlawan para Pahlawan》。[^1] Pada 2024, Museum Komik Nasional menggelar tiga pameran — 《Zhuge Silang 100》、《Menjadi Zhuge Silang》, dan 《Jiwa Pahlawan》 — yang menempatkan naskah asli, animasi, kenangan pembaca, dan sejarah komik dalam satu kawasan yang sama.[^1] [^7]
 
-Adaptasi-adaptasi ini tidak berarti asli utuh terselamatkan. Setiap pewarnaan ulang, adaptasi, pameran, atau komersialisasi, akan memilih ulang karakter, nada, dan nilai mana yang disimpan. "Setia, bakti, bijak, berani" yang disebut penelitian akademik sebagai rangka etika karya, memang penting, tapi bukan semuanya. Zhuge Silang sekaligus mengandung topeng, kesalahan identifikasi, pinjaman lintas budaya, buruh penerbitan, dan celah pasca-sensor. [^5]
+Adaptasi-adaptasi ini tidak berarti karya asli telah terselamatkan utuh. Setiap pewarnaan ulang, adaptasi, pameran, atau komersialisasi, memaksa pemilihan ulang tokoh, nada, dan nilai apa yang disimpan. «Ketaatan, keadilan, kecerdikan, keberanian» yang dikemukakan penelitian akademis, adalah kerangka etika penting karya ini, namun bukan keseluruhannya. Zhuge Silang juga mengandung topeng, kesalahan identitas, peminjaman lintas budaya, tenaga kerja penerbitan, dan celah pasca-sensor.[^5]
 
-Foto Wikimedia Commons Museum Komik Nasional memotong gedung era Jepang yang terselamatkan. Itu bukan naskah Zhuge Silang, juga tidak bisa menggantikan bukti sejarah karya. Ia di artikel ini hanya menunjuk satu hal: penyimpanan komik butuh ruang, ruang juga akan mengatur ulang cara memandang karya.
+Foto Museum Komik Nasional di Wikimedia Commons memperlihatkan sebuah bangunan era pendudukan Jepang yang terselamatkan. Bangunan itu bukan naskah asli Zhuge Silang, dan tidak boleh dijadikan bukti sejarah palsu karya tersebut. Dalam artikel ini, foto itu hanya bertugas menunjuk pada satu hal: penyimpanan komik memerlukan ruang, dan ruang itu sendiri mengatur ulang cara karya dilihat.[^8]
 
-![Bangunan kawasan Museum Komik Nasional, sebagai ruang modern penyelenggaraan koleksi dan pameran ulang Zhuge Silang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
+![Bangunan kawasan Museum Komik Nasional, sebagai ruang modern penampilan ulang dan koleksi Zhuge Silang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
 
-_Keterangan gambar: Foto Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. Gambar hanya sebagai ilustrasi suasana Museum Komik Nasional, tidak mengira-irakan gedung sebagai naskah asli Zhuge Silang. Sumber: [Halaman Gambar Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
+_Keterangan gambar: Foto Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. Gambar hanya sebagai ilustrasi场景 Museum Komik Nasional, bukan menggambarkan bangunan sebagai karya asli Zhuge Silang. Sumber: [halaman gambar Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>)。\_
 
 ## Bukan Menyegel Masa Kanak-kanak
 
