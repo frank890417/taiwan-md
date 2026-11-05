@@ -1,19 +1,22 @@
 ---
 title: '명간 부중차: 타이완 수요음료 80%를 떠받치는 "무명 영웅"'
 description: '2025년 명간 소각장 논란이 타이완 수요음료 기저차의 80%가 난투 현 명간에서 유래한다는 사실을 우연히 드러냈다. 청대 "삼부중"의 명성에서 1975년 "송백장청차(松柏長青茶)"로 개명하기까지, 해발 고도 400m에 불과한 이 얕은 산지는 소각장 부지 선정을 둘러싸고 차향(茶鄉)의 생존권을 지키는 치열한 싸움에 직면해 있다.'
-category: Food
-tags: [명간향, 부중차, 수요음료, 송백장청차, 소각장항쟁]
-author: 'Taiwan.md Contributors'
 date: 2026-04-25
-readingTime: 10
+category: 'Food'
+tags: ['명간향', '부중차', '수요음료', '송백장청차', '소각장항쟁']
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Food/名間埔中茶.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/名間埔中茶.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: 2026-05-01T22:19:01+08:00
-featured: false
+translatedAt: '2026-11-05T04:17:59.887141+00:00'
 ---
 
 > **30초 개요:**

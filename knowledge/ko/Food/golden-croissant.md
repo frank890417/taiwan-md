@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-17T06:43:36+08:00'
+translatedAt: '2026-11-05T05:03:41.017947+00:00'
 ---
 
 > **30초 요약:** 전역에서 유명한 기념품인 산샤 금소각의 탄생 배경은 상상보다 훨씬 더 극적이다. 이 간식은 유럽 크루아상에서 유래한 것이 아니라, 한과 장인 로푸칭(羅福清)이 비행 중 '필리핀 빵'에게서 영감을 받아 타이완으로 돌아온 후 중국식 제빵 기술과 결합하여 개량한 것이다. 그 독특한 '단단함'은 여러 번 반죽을 누르고 가스를 빼낸 뒤 대량의 버터로 구운 결과이며, 이는 초기 타이완 사람들이 음식에서 추구했던 꽉 찬 포만감에 대한 집착을 반영한다. 골목길 간식에서 노포 명물에 이르기까지, 금소각은 단순한 미각적 기억을 넘어 산샤 지역 문화와 상업 발전의 축소판이며, 이 작은 마을만의 독특한 후각적 랜드마크를 지탱하고 있다.
