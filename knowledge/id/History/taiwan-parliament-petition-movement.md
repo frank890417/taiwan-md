@@ -3,7 +3,6 @@ title: 'Gerakan Permohonan Pendirian Parlemen Taiwan: Satu Surat Permohonan, Emp
 description: '1921 hingga 1934, Lin Hsien-tang dan rekan-rekannya mengajukan lima belas kali permohonan menantang pemerintahan kolonial Gubernur Jenderal. Gerakan ini tidak berhasil mendirikan Parlemen Taiwan, namun mengubah argumen hukum, media cetak, dan organisasi menjadi teknologi publik bagi orang Taiwan memperjuangkan otonomi.'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'sejarah',
@@ -15,16 +14,19 @@ tags:
     'Taiwan Minpao',
     'otonomi daerah',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-14T06:58:43+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-05T19:29:45.045835+00:00'
 ---
 
 Pada 30 Januari 1921, Lin Hsien-tang, Ye Rongzhong, beserta 178 mahasiswa Taiwan di Tokyo, mengajukan permohonan pertama pendirian Parlemen Taiwan ke Parlemen Kekaisaran Jepang. [^1] Dokumen ini selanjutnya diajukan sebanyak lima belas kali, dan gerakan berlanjut hingga 2 September 1934 baru diputuskan dihentikan. [^2] Gerakan ini tidak menghadirkan sebuah Parlemen Taiwan, tetapi membuat pertanyaan "siapa yang boleh mewakili orang Taiwan" keluar dari ruang belajar dan asrama mahasiswa, hingga ke pusat institusi kekaisaran.
@@ -49,21 +51,21 @@ _Gambar: Surat permohonan pendirian Parlemen Taiwan. Wikimedia Commons, Public d
 
 > 📝 **Catatan Kurator:** Titik tajam gerakan permohonan bukanlah menempatkan "Jepang" dan "Taiwan" sebagai dua musuh abstrak, melainkan mengambil prinsip konstitusional yang diklaim kekaisaran lalu mempertanyakan kembali. Jika hukum hanya berlaku di tanah air, "kesatuan" kekaisaran itu menyatukan siapa?
 
-## Satu Dokumen, Harus Lewat Tangan Anggota Parlemen Dulu
+## Satu Dokumen, Harus Lewati Tangan Anggota Parlemen Terlebih Dahulu
 
-Permohonan pertama 30 Januari 1921 bukan sekadar menyerahkan dokumen ke pintu parlemen lalu selesai. Berdasarkan _Giin-hō_ (Undang-Undang Parlemen) Pasal 62 saat itu, permohonan memerlukan perantara anggota Parlemen Kekaisaran. Lewat perantara Pendeta Uemura Masahisa, anggota House of Peers Ezamoto Soro dan anggota House of Representatives Tagawa Daijirō bersedia menjadi perantara, baru permohonan masuk proses tinjauan. [^1]
+Permohonan pertama pada 30 Januari 1921 bukan berarti selesai begitu dokumen diserahkan ke pintu parlemen. Menurut Undang-Undang Parlemen (Gikaihō) Pasal 62 saat itu, permohonan memerlukan perantara anggota Parlemen Kekaisaran. Setelah direkomendasikan oleh Pendeta Uemura Masahisa, anggota Dewan Bangsawan Ezamoto Soro dan anggota Dewan Rakyat Tagawa Daikichiro setuju menjadi perantara pengantar, barulah permohonan memasuki prosedur pemeriksaan. [^1]
 
-Detail ini membuat gerakan permohonan tidak lagi seperti "mohon ke Tokyo" yang abstrak. Ini adalah pekerjaan politik yang butuh mencari perantara, menyiapkan teks hukum, mengumpulkan tanda tangan, lalu menunggu prosedur parlemen memproses. Permohonan pertama memiliki 178 penanda tangan. Setiap permohonan berikutnya, pesertanya harus berulang kali menemukan jalur yang layak di antara polisi kolonial, sistem sensor, dan respons dingin Parlemen Kekaisaran. [^1] [^2]
+Detail ini membuat gerakan permohonan tidak lagi seperti "menggonggong pintu Tokyo" yang abstrak. Ini adalah pekerjaan politik yang memerlukan pencarian perantara, persiapan teks hukum, pengumpulan tanda tangan, lalu menunggu prosedur parlemen memprosesnya. Permohonan pertama memiliki 178 penanda tangan. Di setiap permohonan berikutnya, peserta harus menemukan jalur yang layak di antara polisi kolonial, sistem sensor, dan respons dingin Parlemen Kekaisaran. [^1] [^2]
 
-Maret 1921, Parlemen Kekaisaran Jepang mengesahkan Hukum Nomor Tiga, hak legislatif delegasi Gubernur Jenderal Taiwan tetap dipertahankan. Jalur asli yang menuntut pencabutan _Hukum Enam-Tiga_ kehilangan titik tumpu, sehingga pendirian Parlemen Taiwan menjadi fokus gerakan politik Taiwan. [^2]
+Maret 1921, Parlemen Kekaisaran Jepang mengesahkan Hukum Nomor 3, hak legislatif delegasi Gubernur Jenderal Taiwan tetap dipertahankan. Jalan yang awalnya menuntut pencabutan Undang-Undang 63 dengan itu kehilangan titik tolaknya, pendirian Parlemen Taiwan menjadi fokus tujuan gerakan politik Taiwan. [^2]
 
-| Waktu            | Titik Gerakan Permohonan                                       | Makna Politik                                                               |
-| ---------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Desember 1920    | Lin Cheng-lu terbitkan 〈六三問題の歸著點〉 di _Taiwan Seinen_ | Mengalihkan perdebatan pencabutan Hukum Enam-Tiga ke parlemen representatif |
-| 30 Januari 1921  | 178 orang ajukan permohonan pertama                            | Permohonan mendapat titik masuk prosedur Parlemen Kekaisaran                |
-| 17 Oktober 1921  | Persatuan Kebudayaan Taiwan didirikan                          | Menempatkan tuntutan politik ke jaringan budaya, pendidikan, dan ceramah    |
-| 16 Desember 1923 | Peristiwa Pemeliharaan Keamanan: geledah massal sepulau        | Polisi kolonial menekan organisasi politik secara langsung                  |
-| 2 September 1934 | Keputusan berhenti setelah permohonan ke-15                    | Empat belas tahun gerakan permohonan berakhir                               |
+| Waktu            | Titik Nodal dalam Gerakan Permohonan                                      | Signifikansi Politik                                                              |
+| ---------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Desember 1920    | Lin Hsien-tang menerbitkan 〈Titik Akhir Masalah 63〉 di 《Taiwan Youth》 | Mengarahkan kontroversi pencabutan Undang-Undang 63 menuju parlemen representatif |
+| 30 Januari 1921  | 178 orang mengajukan permohonan pertama                                   | Permohonan mendapatkan akses prosedural Parlemen Kekaisaran                       |
+| 17 Oktober 1921  | Persatuan Kebudayaan Taiwan didirikan                                     | Memasukkan tuntutan politik ke dalam jaringan budaya, pendidikan, dan ceramah     |
+| 16 Desember 1923 | Peristiwa Pemeliharaan Keamanan: Pengeledahan Massal Sepulau              | Polisi kolonial langsung menekan organisasi politik                               |
+| 2 September 1934 | Keputusan berhenti setelah permohonan ke-15                               | Empat belas tahun gerakan permohonan berakhir                                     |
 
 ## Lima Belas Kali Bukan Lima Belas Kali Mengirim Ulang Dokumen Yang Sama
 
@@ -155,30 +157,30 @@ Membaca dokumen itu hari ini, yang paling layak dihentikan bukan kegagalannya, t
 
 ## Referensi
 
-[^1]: [Museum Gerakan Kebudayaan Baru Taiwan Taipei: 30 Januari 1921 Permohonan Pertama Pendirian Parlemen Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Mencatat tanggal permohonan pertama, 178 penanda tangan, prosedur perantara anggota parlemen, dan sikap anti Gubernur Jenderal soal pendirian Parlemen Taiwan.
+[^1]: [Museum Pergerakan Kebudayaan Baru Taiwan Kota Taipei: 30 Januari 1921 Permohonan Pertama Pendirian Dewan Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Mencatat tanggal permohonan pertama, 178 orang menandatangani, prosedur pengenalan anggota dewan, dan sikap menolak Kantor Gubernur Jenderal terhadap pendirian Dewan Taiwan.
 
-[^2]: [Taman Demokrasi Parlemen Legislatif: Gerakan Permohonan Pendirian Parlemen Taiwan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Merangkum 〈六三問題の歸著點〉 Lin Cheng-lu, lima belas permohonan, perpecahan Persatuan Kebudayaan, pembubaran Partai Rakyat Taiwan, dan konteks institusional penghentian gerakan.
+[^2]: [Taman Demokrasi Parlemen Legislatif: Gerakan Permohonan Pendirian Dewan Taiwan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Menguraikan 〈Titik Akhir Masalah 63〉 karya Lin Cheng-lu, lima belas kali permohonan, pembelahan Persatuan Kebudayaan, pembubaran Partai Rakyat Taiwan, dan konteks institusional penghentian gerakan.
 
-[^3]: [Museum Gerakan Kebudayaan Baru Taiwan Taipei: 2 September 1934 Gerakan Permohonan Pendirian Parlemen Taiwan Berhenti](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Mencatat keputusan berhenti setelah permohonan ke-15, rapat Taichung, audiensi Gubernur, dan proses berakhirnya gerakan empat belas tahun.
+[^3]: [Museum Pergerakan Kebudayaan Baru Taiwan Kota Taipei: 2 September 1934 Gerakan Permohonan Pendirian Dewan Taiwan Dihentikan](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Mencatat keputusan penghentian setelah permohonan ke-15, rapat di Taichung, audiensi dengan Gubernur Jenderal, dan proses berakhirnya gerakan 14 tahun.
 
-[^4]: [Museum Gerakan Kebudayaan Baru Taiwan Taipei: 17 Oktober 1921 Persatuan Kebudayaan Taiwan Didirikan](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Mencatat lokasi pendirian, skala kehadiran, motto, serta kegiatan pencerahan komunitas baca koran, ceramah, film dokumenter, dan sekolah musim panas.
+[^4]: [Museum Pergerakan Kebudayaan Baru Taiwan Kota Taipei: 17 Oktober 1921 Terbentuknya Persatuan Kebudayaan Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Mencatat lokasi pendirian Persatuan Kebudayaan, skala kehadiran, tujuan, serta aktivitas pencerahan seperti komunitas membaca surat kabar, ceramah, foto kegiatan, dan sekolah musim panas.
 
-[^5]: [Museum Gerakan Kebudayaan Baru Taiwan Taipei: 16 Desember 1923 Peristiwa Pemeliharaan Keamanan Geledah Massal Sepulau](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Menjelaskan larangan Persatuan Persiapan Parlemen Taiwan, geledah massal Gubernur Jenderal, dan latar politik penahanan hampir tiga puluh orang.
+[^5]: [Museum Pergerakan Kebudayaan Baru Taiwan Kota Taipei: 16 Desember 1923 Penangkapan Massal Seluruh Pulau dalam Insiden Administrasi Keamanan](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Menjelaskan larangan terhadap Persatuan Persiapan Dewan Taiwan, penangkapan massal seluruh pulau oleh Kantor Gubernur Jenderal, dan latar politik penahanan hampir tiga puluh orang.
 
-[^6]: [Museum Gerakan Kebudayaan Baru Taiwan Taipei: 15 April 1923 _Taiwan Minpao_ Diterbitkan](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Mencatat penerbitan _Taiwan Minpao_, sistem sensor, tiruan 1925, dan sejarah media penerbitan di Taiwan 1927.
+[^6]: [Museum Pergerakan Kebudayaan Baru Taiwan Kota Taipei: 15 April 1923 Terbitnya Koran 'Taiwan Minpō'](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Mencatat terbitnya 'Taiwan Minpō', sistem sensor, sirkulasi 1925, dan pemindahan penerbitan ke Taiwan pada 1927 sebagai bahan sejarah media.
 
-[^7]: [Japanese Empire Info: Alasan Meminta Pendirian Parlemen Taiwan](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Pendahuluan dan penyusunan alasan permohonan 1923 oleh James Gerien-Chen Universitas Florida, menyediakan konteks hukum kolonial, Hukum Enam-Tiga, dan teks permohonan dalam bahasa Inggris.
+[^7]: [Japanese Empire Info: Alasan Permohonan Pendirian Dewan Taiwan](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Ditulis pendahuluan dan disusun oleh James Gerien-Chen dari Universitas Florida, alasan permohonan 1923 disediakan dalam bahasa Inggris, memberikan konteks hukum kolonial, Undang-Undang 63, dan teks permohonan.
 
-[^8]: [Institut Sejarah Taiwan Akademia Sinica: Pemilu Lokal Pertama Taiwan: Operasi Institusional Pemerintah Kolonial Jepang](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analisis akademis reformasi sistem lokal 1935, separuh kursi dipilih rakyat, dan kualifikasi pemilih, menghindari salah tulis otonomi terbatas jadi demokrasi universal.
+[^8]: [Institut Sejarah Taiwan Akademia Sinica: Pemilihan Lokal Pertama Taiwan: Manipulasi Institusional oleh Pemerintah Kolonial Jepang](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Menganalisis dengan penelitian akademis reformasi sistem lokal 1935, separuh kursi dipilih rakyat, dan batasan kualifikasi pemilu, untuk menghindari kesalahan menuliskan otonomi terbatas sebagai demokrasi universal.
 
-[^9]: [Elgar Online: Bangkit dan Runtuhnya Gerakan Masyarakat Sipil di Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Ringkasan bab akademis bahasa Inggris memandang gerakan politik dan budaya gentry serta intelektual Taiwan 1920-1940 sebagai gelombang pertama perkembangan masyarakat sipil Taiwan.
+[^9]: [Elgar Online: Bangkit dan Runtuhnya Gerakan Masyarakat Sipil di Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Ringkasan bab akademik berbahasa Inggris menganggap gerakan politik dan budaya para elit lokal (gentry) dan intelektual Taiwan tahun 1920-1940 sebagai gelombang pertama perkembangan masyarakat sipil Taiwan.
 
-[^10]: [Wikimedia Commons: Tim Permohonan Parlemen Taiwan 1924 di Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Halaman arsip tim permohonan tiba Tokyo dan berfoto dengan mahasiswa Taiwan 1924, lisensi Public domain.
+[^10]: [Wikimedia Commons: 1924 Delegasi Permohonan Dewan Taiwan di Tokyo](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Halaman arsip kedatangan delegasi permohonan ke Tokyo dan foto bersama pelajar Taiwan tahun 1924, dilisensikan sebagai Public domain.
 
-[^11]: [Wikimedia Commons: Tim Ceramah Persatuan Kebudayaan Taiwan 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Foto tim ceramah di kantor distribusi _Taiwan Minpao_ cabang Shinchiku 1925, lisensi Public domain.
+[^11]: [Wikimedia Commons: 1925 Tim Ceramah Persatuan Kebudayaan Taiwan](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Foto bersama tim ceramah Persatuan Kebudayaan di kantor distribusi 'Taiwan Minpō' cabang Provinsi Shinchiku tahun 1925, dilisensikan sebagai Public domain.
 
-[^12]: [Wikimedia Commons: Halaman Depan _Taiwan Minpao_ 1 Januari 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Gambar halaman depan _Taiwan Minpao_ 1 Januari 1926, halaman arsip ditandai Public domain per aturan hak cipta Jepang.
+[^12]: [Wikimedia Commons: Halaman Depan 'Taiwan Minpō' 1 Januari 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Gambar halaman depan 'Taiwan Minpō' 1 Januari 1926, halaman arsip dilabeli Public domain sesuai aturan hak cipta Jepang.
 
-[^13]: [Wikimedia Commons: Surat Permohonan Pendirian Parlemen Taiwan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Halaman arsip gambar surat permohonan, lisensi Public domain.
+[^13]: [Wikimedia Commons: Surat Permohonan Pendirian Dewan Taiwan](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Halaman arsip gambar surat permohonan pendirian Dewan Taiwan, dilisensikan sebagai Public domain.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Halaman arsip potret Lin Hsien-tang, lisensi Public domain.
+[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Halaman arsip potret Lin Hsien-tang, dilisensikan sebagai Public domain.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T03:48:34+08:00",
-    "zhCommitHead": "a8aec2b83",
+    "lastUpdated": "2026-11-06T03:52:21+08:00",
+    "zhCommitHead": "1c4bfed51",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1102,
-        "stale": 28,
+        "fresh": 1103,
+        "stale": 27,
         "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
@@ -2958,20 +2958,18 @@
         "ru": {
           "path": "ru/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
-          "sourceBodyHash": "sha256:6ab99bf50b216a39",
-          "translatedAt": "2026-09-08T00:42:58+08:00",
+          "sourceCommitSha": "0a79156df",
+          "sourceContentHash": "sha256:3b3422dc3e5660c1",
+          "sourceBodyHash": "sha256:c40d04f82db2ee2c",
+          "translatedAt": "2026-11-05T19:52:02.179131+00:00",
           "translationLastCommit": "3a282d5c",
           "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 46078,
+          "bytes": 47041,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/contemporary-indigenous-singer-songwriters.md",
@@ -21154,8 +21152,8 @@
           "sourceContentHash": "sha256:ccde9abb3915fd43",
           "sourceBodyHash": "sha256:a7817277d4b3bdbe",
           "translatedAt": "2026-11-05T18:15:11.359122+00:00",
-          "translationLastCommit": "12f09560",
-          "translationLastModified": "2026-10-10T23:20:50+08:00",
+          "translationLastCommit": "1c4bfed5",
+          "translationLastModified": "2026-11-06T03:48:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 19978,
