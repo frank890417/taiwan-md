@@ -1,10 +1,8 @@
 ---
 title: 'सब्जी मंडी के नाम'
 description: "ताइवान की सड़कों पर अगर कोई 'शू-फेन' या 'जिया-हाओ' चिल्लाए, तो कितने लोग पीछे मुड़कर देखेंगे? ये नाम ताइवानी समाज का आईना हैं, जो अलग-अलग पीढ़ियों के 'अच्छे जीवन' के सामूहिक सपनों को दर्ज करते हैं।"
-date: '2026-04-19'
-author: 'Taiwan.md'
+date: 2026-04-19
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'सामाजिक संस्कृति',
@@ -15,15 +13,20 @@ tags:
     'जिया-हाओ',
     'या-तींग',
   ]
-readingTime: '6'
-lastVerified: '2026-04-19'
-lastHumanReview: 'true'
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-19
+lastHumanReview: true
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T01:31:56+08:00'
+translatedAt: '2026-11-05T06:52:33.426420+00:00'
 ---
 
 # सब्जी मंडी के नाम
