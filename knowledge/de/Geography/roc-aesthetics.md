@@ -1,8 +1,8 @@
 ---
 title: 'Republik China (Taiwan) Ästhetik: Von Stadtoberflächen bis Straßenschildern – Wie eine Insel das Alltägliche zum visuellen Puzzle macht'
 description: 'Von Straßenbildern, Architektur, Stadflaggen und Schildern bis hin zu staatlichem Design – im Tageslicht, wie die Ästhetik der Republik China (Taiwan) entsteht und warum „hässlich“ allein nicht ausreicht, um die Insel zu beschreiben.'
+date: 2026-08-20
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'Straßenbild',
@@ -14,17 +14,19 @@ tags:
     'Norduniversität Sondergebiet',
     'Republik China (Taiwan) Ästhetik',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 14
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/中華民國美學.md'
-sourceCommitSha: 'ba877ac2b'
-sourceContentHash: 'sha256:c8f833e6836a370f'
-sourceBodyHash: 'sha256:26c6e79fd91efe41'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:d44f393287c030ea'
+sourceBodyHash: 'sha256:764a5128969f3793'
+translatedAt: '2026-11-04T23:53:12.672614+00:00'
 ---
 
 Am 15. Oktober 2024 veröffentlichte das Ministerium für Wirtschaft die Ergebnisse der Schilderumgestaltung im Geschäftsviertel Tainan Nationhua You’ai, wobei insgesamt 41 Geschäftsschilder erneuert wurden.[^1] 2016 wurde die Chongxia-Brücke in Taipeh abgerissen, und der Nordtor-Bereich kam endlich wieder zum Vorschein, gefolgt von einer umfassenden Sanierung der Straße und der Schilder.[^2] Am 29. Februar 2024 genehmigte die Stadtregierung von New Taipeh den detaillierten Plan für das spezielle Stadtentwicklungsgebiet der Nationaluniversität von Taiwan (NTU) – eine Überprüfung der bestehenden Pläne.[^3]
@@ -41,24 +43,24 @@ Gemeinsam ist diesen Videos, dass sie Straßenbilder als soziale Geschichte lese
 
 📝 **Kuratorische Anmerkung:** Einen Ort als „hässlich“ zu bezeichnen, erzeugt schnelle Resonanz. Erst wenn man ihn in Systeme, Objekte und menschliche Entscheidungen zerlegt, beginnt man wirklich, ihn zu verstehen.
 
-## Was bedeutet dieser Begriff eigentlich?
+## Was dieser Begriff eigentlich aussagt
 
-„Republik China (Taiwan) Ästhetik“ ist kein nationaler Stil mit einem klaren Designhandbuch. Ähnlicher ist er einem nachträglich entstandenen Blickrahmen, der visuelle Entscheidungen verschiedener Epochen, Behörden und Branchen zu einem ironisch wirkenden Synthesebild zusammensetzt.
+Die „Ästhetik der Republik China (Taiwan)“ ist keine nationale Stilrichtung mit einem klaren Designhandbuch. Sie ähnelt eher einem nachträglich entstandenen Betrachtungsrahmen, der visuelle Entscheidungen verschiedener Epochen, Behörden und Branchen zu einem mit Ironie durchsetzten Kompositbild zusammenfügt.
 
-Dieses Synthesebild enthält rote Ziegel und grüne Säulen symmetrischer Kompositionen von Denkmalsgebäuden, Leinwände mit Schildern an Marktmauern, Lauflichter von Nachhilfezentren, lebhafte Goldschriftzüge an Tempeln, lokale Veranstaltungs-Logos, Stadwappen und Flaggen. Es enthält sowohl „die Ordnung, die der Staat sichtbar machen will“ als auch „die Dinge, die die Bewohner hinzufügen, um zu leben“.
+In diesem Kompositbild finden sich die roten Ziegel, grünen Säulen und symmetrischen Kompositionen nationaler Gedenkarchitektur ebenso wie Planen-Schilder an Marktfassaden, Laufschriften von Nachhilfeschulen, leuchtend rote Goldzeichen an Tempeln, Maskottchen lokaler Veranstaltungen sowie die Wappen und Flaggen der Kreis- und Stadtregierungen. Es vereint zugleich die „Ordnung, die der Staat sichtbar machen will“ mit den „Dingen, die Bewohner für ihr Leben selbst hinzufügen“.
 
-Daher hat der Begriff mindestens acht Facetten. Er ist eine Facette der Architektur und eine der Schilder. Er ist eine Facette der öffentlichen Einrichtungen und Stadflaggen, ebenso wie eine von illegalen Bauweisen, Kabeln, Parkplätzen und Reparaturen. Er schließt staatliche Ausschreibungen und Werbung ein, ob Schulen das Verständnis visuell zu vermitteln gelehrt haben, und wie eine Gesellschaft entscheidet, welche städtische Ästhetik erhalten bleibt.
+Daher hat dieser Begriff mindestens acht Dimensionen. Er ist die Dimension der Architektur, aber auch die der Schilder. Er ist die Dimension öffentlicher Einrichtungen und Kreis-/Stadtflaggen, aber auch die von illegalen Anbauten, Stromleitungen, Parken und Instandhaltung. Er umfasst zudem die Ausschreibungen und Propaganda des öffentlichen Sektors, die Frage, ob man in der Schule je das Sehen gelernt hat, und wie eine Gesellschaft entscheidet, welche lokalen Stile bewahrenswert sind.
 
-| Facette                | Sichtbare Dinge auf der Straße                                                    | Hinter den Kulissen                                                      |
-| ---------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Geschichte & Macht     | Denkmalsgebäude, staatliche Symbole, Flaggen                                      | Wer in den Fokus rückt, wer verborgen bleibt                             |
-| Architektur & Wohnen   | Fliesen, Mietskasernen, Gitter, herausstehende Balkone, Dachgeschosserweiterungen | Wie Wohnbedürfnisse und städtebauliche Regeln zusammenstoßen             |
-| Kommerz & Schilder     | Leinwände, Neonsignale, Schrift, Lauflichter                                      | Wie Unternehmen in begrenzten Fassaden Aufmerksamkeit erregen            |
-| Infrastruktur          | Kabel, Klimaanlagen, Transformatoren, Straßenparkplätze                           | Wie öffentliche Systeme und private Bedürfnisse übereinander hinweggehen |
-| Lokale Identität       | Stadflaggen, Wappen, Maskottchen, Veranstaltungsgrafik                            | Wie ein Ort sich selbst mit Bildern präsentiert                          |
-| Staatliche Gestaltung  | Werbematerialien, Plakate, Ausschreibungsergebnisse                               | Wie Fachwissen, Budget und politische Erwartungen aufeinandertreffen     |
-| Bildung & Pflege       | Schulhöfe, Straßenreinigung, Schilderneuerung                                     | Ob Schönheit zu einer Alltagstätigkeit wird                              |
-| Ausnahmen & Governance | NTU-Sondergebiet, Nordtor, Geschäftsviertelumgestaltung                           | Ob Regeln es den Orten ermöglichen, ihre eigene Ordnung zu schaffen      |
+| Dimension                  | Was man auf der Straße sieht                                           | Die dahinterstehende Frage                                                      |
+| -------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Geschichte & Herrschaft    | Gedenkarchitektur, nationale Symbole, Flaggen                          | Wer wird in den öffentlichen Blick gerückt, wer wird versteckt                  |
+| Architektur & Wohnen       | Kacheln, Apartments, Eisengitter, Vorbauten, Dachgeschossaufbauten     | Wie Wohnbedarf und Stadtregeln aneinander zerren                                |
+| Gewerbe & Schilder         | Planen, Neonröhren, Schriftarten, Laufschriften                        | Wie Händler um Aufmerksamkeit auf begrenzter Fassadenfläche kämpfen             |
+| Infrastruktur              | Stromleitungen, Klimaanlagen, Transformatorenkästen, Straßenrandparken | Wie öffentliche Systeme und private Bedürfnisse übereinander geschichtet werden |
+| Lokale Identität           | Kreis-/Stadtflaggen, Wappen, Maskottchen, Veranstaltungsvisuals        | Mit welchen Bildern sich ein Ort selbst vorstellt                               |
+| Öffentlicher Sektor Design | Werbefilme, Plakate, Ausschreibungsergebnisse                          | Wie Professionalität, Budget und politische Erwartungen aufeinanderprallen      |
+| Bildung & Instandhaltung   | Campus, Straßenreinigung, Schilderneuerung                             | Ob Ästhetik zur Alltagskompetenz werden kann                                    |
+| Ausnahmen & Governance     | NTU-Sondergebiet, Nordtor, Geschäftsbezirksumbau                       | Ob Regeln es erlauben, dass sich Orte ihre eigene Ordnung geben                 |
 
 ## Architektur ist nicht nur Hintergrund – sie ist ein Zeichen des Lebens
 
@@ -90,27 +92,27 @@ Ein Schilder kann gleichzeitig Name, Telefonnummer, Dienstleistungen, Rabatte, F
 
 Doch das Problem Taiwans liegt nicht nur an „zu vielen Elementen“. Auch die japanischen Geschäftsaushänge und Alkoholwerbungafeln des vergangenen Jahrhunderts nutzten lebendige Bilder, Figuren, Texte und fremdsprachige Vorstellungen. Diese historischen Materialien erinnern uns daran, dass kommerzielle visuelle Kultur stets die Technologie, Industrie und Trends ihrer Zeit aufnimmt. Die eigentliche Frage ist, ob das heutige Design weiß, was es zitiert, und ob neue Elemente den alten Straßen ebenbürtig erklären können.[^13]
 
-## Stadflaggen: Die am wenigsten beachtete Form der öffentlichen visuellen Kultur
+## Kreis- und Stadtflaggen: Das am leichtesten übersehene öffentliche Visuelle
 
-Wenn Schilder für private Geschäfte stehen, dann sind Stadflaggen die Methode, wie lokale Regierungen sich selbst in die Straße bringen. Sie erscheinen oft vor Rathäusern, Bezirksämtern, Schulen, Sportstätten, Veranstaltungsbühnen und Straßeneinfahrten. Die Wappen, Texte, englischen Namen, Farben und Proportionen der Flaggen bilden zusammen mit Architektur, Veranstaltungshintergründen, Uniformen und Werbeautos die lokale Identität.
+Wenn Schilder für private Unternehmen stehen, sind Kreis- und Stadtflaggen die Art und Weise, wie lokale Regierungen sich selbst ins Stadtbild stellen. Sie tauchen häufig an Rathäusern, Bezirksämtern, Schulen, Stadien, Festbühnen und Straßeneinfahrten auf. Die Wappen, Schriftzüge, englischen Namen, Farben und Proportionen auf den Flaggen bilden zusammen mit Gebäuden, Veranstaltungsrückwänden, Uniformen und Werbefahrzeugen die lokale Identität.
 
-Diese Ebene wird oft übersehen, weil Menschen Gewohnheitshalber die Flagge als Hintergrund betrachten. Eigentlich sind Flaggen sehr ehrlich. Sie können sich nicht wie eine Website langsam erklären, noch wie ein langer Text ergänzen. Sie müssen im Wind, in der Ferne, beim Falten und beim schnellen Vorbeigehen erkennbar sein, wo man sich befindet.
+Diese Ebene wird oft übersehen, weil man gewohnt ist, Flaggen als Hintergrund zu betrachten. Tatsächlich sind Flaggen sehr ehrlich. Sie können nicht langsam erklären wie Webseiten, noch Geschichten ergänzen wie lange Texte. Sie müssen im Wind, aus der Ferne, gefaltet und in flüchtigen Blicken erkennen lassen, wo man sich befindet.
 
-Die Flagge der Stadt Taoyuan und die des Bezirks Yilan können als Public-Domain-Dateien direkt auf Wikimedia Commons eingebettet werden. Der Wert dieser Bilder liegt nicht darin, zu beweisen, welche Flagge schöner ist, sondern die Leser daran zu erinnern, dass lokale Identität auch Teil des städtebaulichen Designs ist.[^8] [^9]
+Die Flagge der Stadt Taoyuan und die Flagge des Kreises Yilan sind beide auf Wikimedia Commons als direkt einbettbare Public-Domain-Dateien zu finden. Der Wert dieser Bilder liegt nicht darin, zu beweisen, welche Flagge schöner ist, sondern darin, den Lesern zu zeigen, dass lokale Identität auch Teil des Stadtdesigns ist.[^8] [^9]
 
 ![Flagge der Stadt Taoyuan](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
 
-_Bild: Flagge der Stadt Taoyuan, Wikimedia Commons, Public domain／PD-ROC-exempt. Dateiseite: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Hier nur per Hotlink eingebettet, kein Download._
+_Bild: Flagge der Stadt Taoyuan, Wikimedia Commons, Public domain／PD-ROC-exempt. Dateiseite: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Hier wird nur die Hotlink-URL eingebettet, das Bild nicht heruntergeladen._
 
-Die Herausforderung bei Stadflaggen ähnelt der bei Schildern. Zu viel Text bedeutet, dass aus der Ferne nichts mehr erkennbar ist. Wappen, die zu viele Berge, Meere, Reiskörner, Straßen, Technologie und historische Symbole enthalten, verlieren den Überblick. Ohne einheitliche Farbregeln klingen Stadflaggen, Veranstaltungsflaggen, Maskottchen und Werbeträger wie eine Gruppe, die alle für die Region stehen, aber niemand hat gemeinsam gestaltet.
+Die Schwierigkeit bei Kreis- und Stadtflaggen ähnelt der bei Schildern. Zu viel Text, und aus der Ferne bleibt nur ein Fleck. Wenn Wappen mit zu vielen Bergen, Meeren, Reishalmen, Straßen, Technologie- und Geschichtssymbolen überladen sind, geht die Schichtung lokaler Geschichten verloren. Fehlen Farbvorgaben, sprechen Stadtflaggen, Veranstaltungsflaggen, Maskottchen und Werberückwände jeweils für sich – und wenn sie nebeneinander gehängt werden, entsteht der visuelle Eindruck: „Alle repräsentieren den Ort, aber niemand hat gemeinsam gestaltet.“
 
-Das ist die öffentliche Version von „Republik China (Taiwan) Ästhetik“. Es ist nicht die Schuld einer einzelnen Flagge, sondern das Ergebnis, wenn lokale Regierungen Identität, politische Parolen, Tourismus-Bilder und administrative Funktionen alle auf ein Bild packen. Flaggen können lebhaft sein, aber Lebhaftigkeit bedeutet nicht Erkennbarkeit. Lokale Kultur muss nicht in ein einziges Bergprofil, eine einzige Blume oder fünf Farben komprimiert werden, um repräsentiert zu werden.
+Dies ist genau die öffentliche Version der „Ästhetik der Republik China (Taiwan)“. Es ist nicht die Verantwortung einer einzelnen Flagge, sondern das Ergebnis davon, dass lokale Regierungen Identität, politische Parolen, Tourismusbilder und Verwaltungsfunktionen alle auf dasselbe Bild packen. Flaggen können lebhaft sein, aber Lebhaftigkeit bedeutet nicht Wiedererkennbarkeit. Lokale Kultur muss nicht in eine Bergform, eine Blume oder fünf Farben gepresst werden, um vertreten zu sein.
 
-![Flagge des Bezirks Yilan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
+![Flagge des Kreises Yilan](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
 
-_Bild: Flagge des Bezirks Yilan, Wikimedia Commons, Public domain／PD-ROC-exempt. Dateiseite: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Hier nur per Hotlink eingebettet, kein Download._
+_Bild: Flagge des Kreises Yilan, Wikimedia Commons, Public domain／PD-ROC-exempt. Dateiseite: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Hier wird nur die Hotlink-URL eingebettet, das Bild nicht heruntergeladen._
 
-📝 **Kuratorische Anmerkung:** Eine Flagge ist nicht das ganze Viertel, aber sie zeigt, ob die Regierung weiß, was bewahrt werden soll und was losgelassen werden kann.
+📝 **Kuratorennotiz:** Eine Flagge ist nicht das Ganze eines Ortes, aber sie offenbart, ob die lokale Regierung weiß, was bleiben soll und was losgelassen werden kann.
 
 ## Kabel, Klimaanlagen und Parkplätze: Auch Infrastruktur hat Ästhetik
 
@@ -182,42 +184,42 @@ Der nützlichste Moment von „Republik China (Taiwan) Ästhetik“ ist nicht, w
 - [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Am Beispiel des Nordtor-Projekts in Taipeh erklärt, wie Gemeinschaftsbeteiligung, Schildervorschriften und Gestaltung öffentlicher Räume zusammenwirken.
 - [Dritter Zeitraum des Ästhetikpädagogikprogramms des Bildungsministeriums](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Verstehen Sie Lebensästhetik und lokale Praxis durch Bildungspolitik.
 
-## Referenzen
+## Quellen
 
-[^1]: [Ministerium für Wirtschaft: Ästhetikdesign und lokale Kultur vereinen, um das Geschäftsviertel neu zu gestalten](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Das Geschäftsentwicklungsamt des Ministeriums für Wirtschaft erklärt die 41 Schilder des Geschäftsviertels Tainan Nationhua You’ai und andere Designförderungsprojekte in Changhua und Kaohsiung.
+![Chinesische Schilder an einer Straßenecke in Taipeh](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
 
-[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Englische Fallstudie, die das Abreißen der Hochstraße am Nordtor in Taipeh, die Aktualisierung der Schilder und die Diskussionen zwischen Einwohnern, Geschäftsbetreibern und Designern dokumentiert.
+_Bild: Chinesische Schilder an einer Straßenecke in Taipeh, Wikimedia Commons, CC0/Public Domain. Dateiseite: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Hier wird nur der direkte Link eingebettet, das Bild nicht heruntergeladen._
 
-[^3]: [Stadtentwicklungsbehörde von New Taipeh: Änderung des detaillierten Plans für das spezielle Stadtentwicklungsgebiet der Nationaluniversität von Taiwan](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Die Stadtregierung von New Taipeh gibt den detaillierten Plan für das NTU-Sondergebiet bekannt, der ab dem 29. Februar 2024 in Kraft tritt.
+[^1]: [Wirtschaftsministerium: Verbindung von ästhetischem Design und lokaler Kultur, Neugestaltung des Erscheinungsbilds von Geschäftsbezirken](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — Die Abteilung für Handelsentwicklung des Wirtschaftsministeriums erläutert die Neugestaltung von 41 Schildern im Guohua-You'ai-Geschäftsbezirk in Tainan sowie Design-Aufwertungsbeispiele in den Geschäftsbezirken von Changhua und Kaohsiung.
 
-[^4]: [Innenministerium: Verordnung zur Verwaltung von Schildern und städtebaulichen Werbeträgern](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Die Rechtsseite des Innenministeriums definiert Schilder und städtebauliche Werbeträger, legt Maße, Genehmigungen, Sicherheit und lokale Vorschriften für Form, Farbe und Schrift fest.
+[^2]: [Ausgehend von Straßenschildern](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Der englische Straßenbild-Fall dokumentiert den Abriss der Zufahrtsrampe des Nordtors in Taipeh, die Aktualisierung der Straßenschilder und den gemeinsamen Diskussionsprozess von Anwohnern, Ladenbesitzern und Designern.
 
-[^5]: [The City at Eye Level: Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Englische Fallstudie, die die Schilderkonkurrenz in taiwanesischen Wohngeschäftsvierteln, die Schildervorschriften von 1996 in Taipeh und die Gemeinschaftsbeteiligung am Nordtor erklärt.
+[^3]: [Stadtentwicklungsamt der Stadtregierung Neu-Taipeh: Bekanntmachung zur Änderung des Detailplans für das spezifische Gebiet der Nationalen Taipei-Universität-Gemeinde](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — Die Stadtregierung Neu-Taipeh verkündet die zweite umfassende Überprüfung des Detailplans für das Spezialgebiet der Nationalen Taipei-Universität, wirksam ab dem 29. Februar 2024.
 
-[^6]: [Taiwan Ministry of Education: Taiwan's Campus Aesthetic Revamp Shines on the Global Stage](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Die englische Seite des Bildungsministeriums stellt das Schuldesignprojekt vor, das seit 2019 Design-Denken nutzt, um Lernräume zu verbessern, und dokumentiert internationale Preise und Medienaufmerksamkeit.
+[^4]: [Innenministerium: Verordnung zur Verwaltung von Schilderwerbung und Aufstellwerbung](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Die Gesetzesseite des Innenministeriums definiert Schilder und Aufstellwerbung, legt Größe, Genehmigung, Sicherheit fest und ermöglicht lokalen Regierungen, Vorschriften für Form, Farbe und Schriftart zu erlassen.
 
-[^7]: [Bildungsministerium: Dritter Zeitraum des Ästhetikpädagogikprogramms – Fünfjahresplan](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Die Richtlinie des Bildungsministeriums erklärt das Budget, die Ziele, die Umsetzungsfelder und die lokale Praxis der Ästhetikpädagogik von 2024 bis 2028.
+[^5]: [Die Stadt auf Augenhöhe: Ausgehend von Straßenschildern](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Der englische Fall erläutert den Schilderwettbewerb in Taiwans gemischten Wohn-Gewerbe-Straßenzügen, die Taipeher Schilderregelung von 1996 und die partizipative Neugestaltung der Nordtor-Gemeinde.
 
-[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Die Dateiseite von Wikimedia Commons dokumentiert das Bild der Stadtfahne von Taoyuan, mit der Kennzeichnung Public domain／PD-ROC-exempt, geeignet für die direkte Einbettung per Hotlink.
+[^6]: [Taiwanesisches Bildungsministerium: Taiwans Campus-Ästhetik-Umbau glänzt auf der globalen Bühne](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Die englische Seite des Bildungsministeriums stellt das Campus-Design-Projekt vor, das seit 2019 mit Design Thinking die Lernumgebung verbessert, und dokumentiert internationale Auszeichnungen und Medienaufmerksamkeit.
 
-[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Die Dateiseite von Wikimedia Commons dokumentiert das Bild der Bezirksflagge von Yilan, mit der Kennzeichnung Public domain／PD-ROC-exempt, geeignet für die direkte Einbettung per Hotlink.
+[^7]: [Bildungsministerium: Dritter Fünfjahresplan des mittelfristigen Plans für ästhetische Bildung](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Das Politikdokument des Bildungsministeriums erläutert Budget, Ziele, Förderbereiche und lokale Umsetzungsrichtungen der ästhetischen Bildung für 2024 bis 2028.
 
-[^10]: [Taiwan.md: NTU-Sondergebiet: Drei Jahrzehnte städtebauliche Pläne und das Experiment der Universitätsstadt](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Der bestehende Taiwan.md-Artikel behandelt umfassend die Geschichte, städtebaulichen Pläne, Akademiestraße, Architektur, Bevölkerung, Verkehr, Gentrifizierung und Bodengerechtigkeit des NTU-Sondergebiets.
+[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Die Dateiseite von Wikimedia Commons verzeichnet das Bild der Flagge der Stadt Taoyuan, gekennzeichnet als Public Domain/PD-ROC-exempt, geeignet für Einbettung per Hotlink.
 
-[^11]: [YouTube: Lassen Sie uns über Ästhetik sprechen](https://www.youtube.com/watch?v=m_NTelUFF8I) — Das Video von Landon thematisiert taiwanesische Straßenbilder, Schilder, Gitter, herausstehende Balkone und staatliche visuelle Kultur in Bezug auf die Entstehung von „Republik China (Taiwan) Ästhetik“.
+[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Die Dateiseite von Wikimedia Commons verzeichnet das Bild der Flagge des Landkreises Yilan, gekennzeichnet als Public Domain/PD-ROC-exempt, geeignet für Einbettung per Hotlink.
 
-[^12]: [YouTube: Chinesische Ästhetik und wo sie versagt](https://www.youtube.com/watch?v=0ltZtVaHV84) — Das Video von Ja Yeets Ramen Shop diskutiert Architektur, Farbe, Schilder und Wartung in Bezug auf die kritische Kontextualisierung von „chinesischer Ästhetik“.
+[^10]: [Taiwan.md: Nordda-Spezialgebiet: Dreißig Jahre Stadtplanung und Universitätsstadt-Lebensexperiment](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Der bestehende Eintrag von Taiwan.md behandelt umfassend die Geschichte, Stadtplanung, Xueqin-Straße, Architektur, Bevölkerung, Verkehr, Gentrifizierung und Landgerechtigkeit des Nordda-Spezialgebiets.
 
-[^13]: [YouTube: Bildmaterial: Geschäftsaushänge der japanischen Ära](https://www.youtube.com/watch?v=fMR-z-lcols) — Das Video von Sora-Shashin-Gallery stellt japanische Geschäftsaushänge, Alkoholwerbungafeln und historische Straßenbilder vor und ergänzt die visuelle Kultur Taiwans um ihre Vorgeschichte.
+[^11]: [YouTube: Lasst uns über ästhetische Dinge plaudern](https://www.youtube.com/watch?v=m_NTelUFF8I) — Landons Video diskutiert anhand taiwanesischer Straßenbilder, Schilder, Eisengitter, Dachaufbauten und öffentlicher visueller Elemente die Entstehung der ‚Republik-China-Ästhetik‘.
 
-[^14]: [YouTube: Osaka-Straßenbeobachtungen – Episode 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Das Video von Landon vergleicht Schilder, Schrift, Farben, städtebauliche Ordnung und die Gestaltung des Yong’le-Markts in Tainan zwischen Osaka und Taiwan.
+[^12]: [YouTube: Hua-Guo-Ästhetik und ihre Versagensbereiche](https://www.youtube.com/watch?v=0ltZtVaHV84) — Das Video von Jia YEETs Ramen-Laden diskutiert den kritischen Kontext der ‚Hua-Guo-Ästhetik‘ ausgehend von Architektur, Farbe, Schildern und Instandhaltung.
 
-[^15]: [YouTube: Was ist mit der Ästhetik der staatlichen Stellen in Taiwan schiefgelaufen?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Das investigative Nachrichtenvideo von Freie Neugierigkeit diskutiert staatliche Werbematerialien, Ausschreibungen, Fachkräfteteilung und Ästhetikpädagogik in Bezug auf die Qualität der visuellen Kultur.
+[^13]: [YouTube: Bilder als Beweis: Kommerzielle Plakate aus der japanischen Ära](https://www.youtube.com/watch?v=fMR-z-lcols) — Das Video des Fotoateliers Zuo Rong ergänzt mit kommerziellen Plakaten, Alkoholwerbung und historischen Straßenbildern aus der japanischen Ära die Vorgeschichte der taiwanesischen visuellen Kultur.
 
-[^16]: [YouTube: Warum sind taiwanesische Straßen hässlich? Der Ursprung der Republik China (Taiwan) Ästhetik](https://www.youtube.com/watch?v=CA-EpOj72d4) — Das Video von Cheap zitiert Straßenbilder, illegale Bauten, Infrastruktur, Gesetze und kollektives Bewusstsein und stellt den analytischen Rahmen von „Republik China (Taiwan) Ästhetik“ auf.
+[^14]: [YouTube: Straßenbeobachtungen der Osaka-Reise, zweite Folge](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Landons Video vergleicht Schilder, Schriftarten, Farben, Straßenordnung in Osaka und Taiwan sowie die Design-Neugestaltung des Yongle-Markts in Tainan.
 
-[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Die Dateiseite von Wikimedia Commons dokumentiert ein Foto der chinesischen Schilder an einer taiwanesischen Straße, mit der Kennzeichnung CC0／Public domain, geeignet für die direkte Einbettung per Hotlink.
+[^15]: [YouTube: Was ist mit der Ästhetik taiwanesischer öffentlicher Behörden schiefgelaufen?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Das Video von Liberty Times News diskutiert anhand von Werbefilmen öffentlicher Behörden, Ausschreibungen, beruflicher Arbeitsteilung und ästhetischer Bildung die Qualität öffentlicher visueller Gestaltung.
 
-![Chinesische Schilder an einer Straße in Taipeh](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
+[^16]: [YouTube: Warum sind taiwanesische Straßenbilder so hässlich? Der Ursprung der Republik-China-Ästhetik](https://www.youtube.com/watch?v=CA-EpOj72d4) — Das Video von cheap liefert anhand von Straßenbildern, illegalen Bauten, öffentlichen Einrichtungen, Vorschriften und historischer Mentalität einen Kommentar-Rahmen zur ‚Republik-China-Ästhetik‘.
 
-_Bild: Chinesische Schilder an einer Straße in Taipeh, Wikimedia Commons, CC0／Public domain. Dateiseite: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Hier nur per Hotlink eingebettet, kein Download._
+[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Die Dateiseite von Wikimedia Commons verzeichnet das Foto chinesischer Schilder an Taipeher Straßen, gekennzeichnet als CC0/Public Domain, nutzbar per direktem Hotlink.

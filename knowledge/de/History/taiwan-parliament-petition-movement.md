@@ -3,7 +3,6 @@ title: 'Die Petitionenbewegung für die Einrichtung eines taiwanischen Parlament
 description: 'Von 1921 bis 1934 forderten Persönlichkeiten wie Lin Hsien-tang mit fünfzehn Petitionen eine Herausforderung der kolonialen Herrschaft durch die Gouvernementsbehörde. Die Bewegung führte zwar nicht zur Gründung eines taiwanischen Parlaments, aber sie etablierte Rechtstheorie, Presse und Organisation als öffentliche Werkzeuge für den Kampf um Selbstverwaltung durch die Taiwanesen.'
 date: 2026-08-20
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Geschichte',
@@ -15,16 +14,19 @@ tags:
     'Taiwan Minbao',
     'lokale Selbstverwaltung',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/臺灣議會設置請願運動.md'
-sourceCommitSha: '1625b24f7'
-sourceContentHash: 'sha256:d80f079014589543'
-sourceBodyHash: 'sha256:3441000e1e1b1dde'
-translatedAt: '2026-09-15T06:51:35+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:e9682b2cd4b276a4'
+sourceBodyHash: 'sha256:bdaf15a31353eeba'
+translatedAt: '2026-11-04T23:59:33.118599+00:00'
 ---
 
 1. Januar 1921 reichten 178 Personen – darunter Lin Hsien-tang, Yeh Rong-chong und taiwanische Studenten aus Tokio – die erste Petition für die Einrichtung eines taiwanesischen Parlaments beim japanischen Kaiserreich ein.[^1] Dieses Dokument wurde insgesamt fünfzehnmal eingereicht; die Bewegung wurde erst am 2. September 1934 offiziell eingestellt.[^2] Sie führte nicht zur Gründung eines taiwanischen Parlaments, aber sie trug die Frage „Wer kann die Taiwanesen repräsentieren?“ aus dem Arbeitszimmer und den Studentenwohnheimen in das Zentrum der imperialen Institutionen.
@@ -49,21 +51,21 @@ _Bild: Petition für ein taiwanesisches Parlament. Wikimedia Commons, Public Dom
 
 > 📝 **Kuratorische Anmerkung:** Der schärfste Punkt der Bewegung war nicht, dass sie „Japan“ und „Taiwan“ als zwei abstrakte Feinde inszenierte, sondern dass sie die konstitutionellen Prinzipien des Imperiums selbst hinterfragte. Wenn Gesetze nur auf dem Heimatland galten, wem gehörte dann das „Gleiche“ des Reiches?
 
-## Ein Dokument durchquerte zuerst die Hände der Abgeordneten
+## Ein Dokument, das zuerst die Hände der Abgeordneten passieren muss
 
-Die erste Petition vom 30. Januar 1921 wurde nicht als erledigt betrachtet, nachdem sie am Eingang des Parlaments abgegeben worden war. Gemäß Artikel 62 des damaligen „Parlamentengesetzes“ (_Gijin Hō_), benötigte die Petition eine Vorstellung durch einen Abgeordneten des Kaiserreichs. Nach der Empfehlung von Pastor Uemura Masahisa stimmten die Fürstenhausabgeordnete Jiang Yuan-luo und der Abgeordnete Tagawa Daikichirō dem parlamentarischen Verfahren zu, wodurch die Petition in Prüfung gelangte.[^1]
+Die erste Petition am 30. Januar 1921 war nicht damit getan, das Dokument an die Tür des Parlaments zu legen. Gemäß Artikel 62 des damaligen Reichsgesetzes über den Reichstag erforderte eine Petition die Einführung durch einen Abgeordneten des Kaiserreichstags. Auf Vermittlung von Pastor Uemura Masahisa erklärten sich das Mitglied des Herrenhauses Ezamoto Suroku und der Abgeordnete des Abgeordnetenhauses Tagawa Daijiro bereit, als einführende Abgeordnete zu fungieren, erst damit kam die Petition in das Prüfungsverfahren.[^1]
 
-Dieses Detail verhinderte, dass die Bewegung wie ein abstraktes „Anklopfen an Tokio“ blieb. Es war eine politische Arbeit, die Vermittler, juristische Texte und Unterschriften erforderte und auf das parlamentarische Verfahren wartete. Die erste Petition wurde von 178 Personen unterzeichnet. Bei jeder nachfolgenden Runde mussten die Teilnehmer einen gangbaren Weg zwischen der kolonialen Polizei, dem Zensursystem und den kühlen Reaktionen des Kaiserreichs neu finden.[^1] [^2]
+Dieses Detail lässt die Petitionenbewegung nicht mehr wie ein abstraktes „Anklopfen in Tokio“ erscheinen. Es war eine politische Arbeit, die das Finden von Vermittlern, die Vorbereitung rechtlicher Texte, das Sammeln von Unterschriften und das Warten auf die parlamentarische Bearbeitung erforderte. Die erste Petition hatte 178 Mitzeichner. Bei jeder weiteren Runde mussten die Beteiligten zwischen Kolonialpolizei, Zensursystem und der kühlen Reaktion des Kaiserreichstags erneut gangbare Wege suchen.[^1] [^2]
 
-Im März 1921 verabschiedete das japanische Kaiserreich Gesetz Nr. 3, welches die Ernennungsgesetzgebung des Gouverneurs Taiwans beibehielt. Die ursprüngliche Forderung nach der Abschaffung des Sechs-Drei-Gesetzes verlor somit ihren zentralen Ankerpunkt; die Einrichtung eines taiwanischen Parlaments wurde zum Hauptziel der taiwanesischen politischen Bewegung.[^2]
+Im März 1921 verabschiedete der japanische Kaiserreichstag Gesetz Nr. 3, wodurch die delegierte Gesetzgebungsbefugnis des Generalgouverneurs von Taiwan beibehalten wurde. Die ursprünglich geforderte Linie zur Abschaffung von Gesetz 63 verlor dadurch ihren Ansatzpunkt, und die Einrichtung eines taiwanesischen Parlaments wurde zum konzentrierten Ziel der taiwanesischen politischen Bewegung.[^2]
 
-| Datum             | Knotenpunkt in der Petitionenbewegung                                                | Politische Bedeutung                                                                                       |
-| :---------------- | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| Dezember 1920     | Lin Cheng-lu veröffentlicht „Die Ursachen des Sechs-Drei-Problems“ in _Taiwan Youth_ | Die Debatte über die Abschaffung des Sechs-Drei-Gesetzes wird auf ein repräsentatives Parlament verlagert. |
-| 30. Januar 1921   | 178 Personen reichen die erste Petition ein                                          | Die Petition erhält einen Zugang zum parlamentarischen Verfahren.                                          |
-| 17. Oktober 1921  | Gründung der Taiwan Kulturvereinigung                                                | Politische Forderungen werden in das Netzwerk von Kultur, Bildung und Vorträgen integriert.                |
-| 16. Dezember 1923 | Landweite Verhaftung im Polizeievent                                                 | Die kolonialen Behörden unterdrücken politische Vereinigungen direkt.                                      |
-| 2. September 1934 | Beschluss zur Einstellung nach der fünfzehnten Petition                              | Die vierzehnjährige Petitionenbewegung kommt zu Ende.                                                      |
+| Zeit              | Knotenpunkte der Petitionenbewegung                                                    | Politische Bedeutung                                                                            |
+| ----------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Dezember 1920     | Lin Hsien-tang veröffentlicht „Kiten no kiten“ (六三問題の歸著點) in 《Taiwan Seinen》 | Die Kontroverse um die Abschaffung von Gesetz 63 wird auf ein repräsentatives Parlament gelenkt |
+| 30. Januar 1921   | 178 Personen reichen die erste Petition ein                                            | Die Petition erhält einen verfahrensmäßigen Zugang zum Kaiserreichstag                          |
+| 17. Oktober 1921  | Gründung der Taiwan Kulturvereinigung                                                  | Politische Forderungen werden in kulturelle, bildungsbezogene und Vortragsnetzwerke eingebettet |
+| 16. Dezember 1923 | Inselweite Verhaftungen im Polizeievent                                                | Kolonialpolizei unterdrückt politische Vereine direkt                                           |
+| 2. September 1934 | Beschluss zur Einstellung nach der 15. Petition                                        | Die 14-jährige Petitionenbewegung findet ein vorläufiges Ende                                   |
 
 ## Fünfzehnmal war nicht gleich fünfzehn Wiederholungen
 
@@ -153,32 +155,32 @@ Was heute beim Lesen dieses Dokuments am meisten zum Innehalten anregt, ist nich
 
 [Chiang Wei-shiu: Der Arzt, der die kolonialen Krankheiten mit „klinischen Vorlesungen“ diagnostizierte](https://taiwan.md/people/%E8%94%A3%E6%B8%AD%E6%B0%B4/).
 
-## Referenzen
+## Quellen
 
-[^1]: [Taipei Municipal Museum of New Culture Movement: Erste Petition für ein taiwanesisches Parlament am 30. Januar 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Dokumentiert das Datum der ersten Petition, die Unterschrift von 178 Personen, das Verfahren der Abgeordnetenvorstellung und die Ablehnung der Einrichtung eines taiwanischen Parlaments durch die Gouvernementsbehörde.
+[^1]: [Städtische Gedenkstätte für die taiwanesische Neue-Kultur-Bewegung in Taipeh: Erste Petition für die Einrichtung eines taiwanesischen Parlaments am 30. Januar 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=2591F99B06C56F80) — Dokumentiert das Datum der ersten Petition, 178 Unterzeichner, das Einführungsverfahren durch Abgeordnete und die ablehnende Haltung des Generalgouvernements gegenüber der Einrichtung eines taiwanesischen Parlaments.
 
-[^2]: [Demokratiepark des taiwanesischen Parlaments: Die Petitionenbewegung für ein taiwanesisches Parlament 1921–1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Fasst Lin Cheng-lus „Die Ursachen des Sechs-Drei-Problems“, die fünfzehn Petitionen, die Spaltung der Kulturvereinigung und das Ende der Bewegung zusammen.
+[^2]: [Legislative Yuan Demokratie-Park: Petitionsbewegung für die Einrichtung eines taiwanesischen Parlaments 1921–1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Fasst Lin Cheng-lus „Rikusan mondai no kichakuten“, die fünfzehn Petitionen, die Spaltung der Kulturvereinigung, die Auflösung der Taiwanischen Volkspartei und den institutionellen Kontext des Endes der Bewegung zusammen.
 
-[^3]: [Taipei Municipal Museum of New Culture Movement: Einstellung der Petitionenbewegung für ein taiwanesisches Parlament am 2. September 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Dokumentiert den Beschluss zur Einstellung nach der fünfzehnten Petition, die Sitzung in Taichung und das Ende der vierzehnjährigen Bewegung durch das Gouvernementsamt.
+[^3]: [Städtische Gedenkstätte für die taiwanesische Neue-Kultur-Bewegung in Taipeh: Einstellung der Petitionsbewegung für die Einrichtung eines taiwanesischen Parlaments am 2. September 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Dokumentiert den Einstellungsbeschluss nach der fünfzehnten Petition, die Taichung-Konferenz, die Audienz beim Generalgouverneur und den Prozess des Endes der 14-jährigen Bewegung.
 
-[^4]: [Taipei Municipal Museum of New Culture Movement: Gründung der Taiwan Kulturvereinigung am 17. Oktober 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Enthält den Ort, die Teilnehmerzahl und den Zweck der Kulturvereinigung sowie Bildungsaktivitäten wie Buchvereine, Vorträge, Fotobücher und Sommerschulen.
+[^4]: [Städtische Gedenkstätte für die taiwanesische Neue-Kultur-Bewegung in Taipeh: Gründung der Taiwanischen Kulturvereinigung am 17. Oktober 1921](https://tncmmm.gov.taipei/Content_List.aspx?n=098AF8F2ABE4BAC3) — Enthält den Gründungsort, die Teilnehmerzahl, den Zweck der Kulturvereinigung sowie Aufklärungsaktivitäten wie Lesevereine, Vorträge, Veranstaltungsfotos und Sommerschulen.
 
-[^5]: [Taipei Municipal Museum of New Culture Movement: Landweite Verhaftung im Polizeievent am 16. Dezember 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Erklärt den politischen Hintergrund der Unterdrückung des Allianzverbandes, der landesweiten Untersuchung und der Festnahme von fast dreißig Personen durch das Gouvernementsamt.
+[^5]: [Städtische Gedenkstätte für die taiwanesische Neue-Kultur-Bewegung in Taipeh: Inselweite Großrazzia im Zusammenhang mit dem Chikei-Vorfall am 16. Dezember 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=C7343246C9980F7C) — Erläutert das Verbot der Taiwanischen Parlamentsförderungsallianz, die inselweite Großrazzia des Generalgouvernements und den politischen Hintergrund der Inhaftierung von fast dreißig Personen.
 
-[^6]: [Taipei Municipal Museum of New Culture Movement: Gründung der Taiwan Minbao am 15. April 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Dokumentiert die Gründung, das Zensursystem, die Auflage im Jahr 1925 und die Veröffentlichung in Taiwan im Jahr 1927 dieser Zeitung.
+[^6]: [Städtische Gedenkstätte für die taiwanesische Neue-Kultur-Bewegung in Taipeh: Gründung der „Taiwan Minpao“ am 15. April 1923](https://tncmmm.gov.taipei/Content_List.aspx?n=1D2DC278960D0F72) — Dokumentiert die Gründung der „Taiwan Minpao“, das Zensursystem, die Auflage 1925 und die Mediengeschichte der Verlegung der Veröffentlichung nach Taiwan 1927.
 
-[^7]: [Japanese Empire Info: Reasons for Requesting the Establishment of a Taiwanese Parliament](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Einleitung von James Gerien-Chen der University of Florida, die die Gründe für die Petitionen von 1923 zusammenfasst und den Kontext der kolonialen Rechtstheorie, des Sechs-Drei-Gesetzes und der Petitionstexte in englischer Sprache liefert.
+[^7]: [Japanese Empire Info: Gründe für die Beantragung der Einrichtung eines taiwanesischen Parlaments](https://japaneseempire.info/reasons-for-requesting-the-establishment-of-a-taiwanese-parliament/) — Einleitung verfasst und die Gründe der Petition von 1923 zusammengestellt von James Gerien-Chen von der University of Florida; bietet den englischen Kontext der kolonialen Rechtsgrundlage, des Artikel 63 und des Petitionstextes.
 
-[^8]: [Institute of Taiwan History, Academia Sinica: Die ersten lokalen Wahlen auf Taiwan: Systemische Operationen der japanischen Kolonialregierung](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analysiert die lokale Reform von 1935, die halb gewählten Sitzen und die Einschränkungen der Wahlberechtigung aus wissenschaftlicher Sicht und vermeidet die Verwechslung begrenzter Selbstverwaltung mit allgemeiner Demokratie.
+[^8]: [Institute of Taiwan History, Academia Sinica: Taiwan's First Local Elections: Institutional Manipulation by the Japanese Colonial Government](https://www.ith.sinica.edu.tw/quarterly_download.php?name=04%20%E9%99%B3%E8%8B%A5%E8%98%AD3%E6%A0%A1%E7%A8%BF0910.pdf&filename=144472089612.pdf) — Analysiert auf wissenschaftlicher Basis die lokale Systemreform von 1935, die Hälfte der gewählten Sitze und die Wahlbeschränkungen, um zu vermeiden, dass begrenzte Selbstverwaltung fälschlicherweise als allgemeine Demokratie dargestellt wird.
 
-[^9]: [Elgar Online: The rise and fall of civil society movements in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Ein englischer akademischer Abschnitt fasst die politischen und kulturellen Bewegungen der Gentry und Intellektuellen Taiwans von 1920 bis 1940 als erste Welle der Entwicklung der zivilgesellschaftlichen Gesellschaft auf Taiwan zusammen.
+[^9]: [Elgar Online: Aufstieg und Niedergang der zivilgesellschaftlichen Bewegungen in Taiwan: 1920-2020](https://www.elgaronline.com/abstract/edcoll/9781800880153/9781800880153.00022.xml) — Die englische akademische Kapitelzusammenfassung betrachtet die politischen und kulturellen Bewegungen der taiwanesischen Gentry und Intellektuellen von 1920 bis 1940 als die erste Welle der Entwicklung der taiwanesischen Zivilgesellschaft.
 
-[^10]: [Wikimedia Commons: Petitionengruppe für das taiwanesische Parlament in Tokio 1924](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Eine Archivseite, die die Ankunft der Petitionsgruppe im Jahr 1924 und deren Foto mit taiwanischen Studenten dokumentiert; gekennzeichnet als Public Domain.
+[^10]: [Wikimedia Commons: 1924 Taiwanische Parlamentspetitionsdelegation in Tokio](https://commons.wikimedia.org/wiki/File:1924_%E8%87%BA%E7%81%A3%E8%AD%B0%E6%9C%83%E8%AB%8B%E9%A1%98%E5%9C%98%E5%9C%A8%E6%9D%B1%E4%BA%AC_Taiwanese_Petition_Group_for_Democratically-Elected_Assembly_in_Tokyo_1.jpg) — Archivseite der Ankunft der Petitionsdelegation 1924 in Tokio und ihres Gruppenfotos mit taiwanesischen Studenten, lizenziert als Public Domain.
 
-[^11]: [Wikimedia Commons: Rednergruppe der Taiwan Kulturvereinigung 1925](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Ein gemeinsames Foto der Rednergruppe der Kulturvereinigung im Großhandel der _Taiwan Minbao_ in Hsinchu im Jahr 1925; gekennzeichnet als Public Domain.
+[^11]: [Wikimedia Commons: 1925 Vortragsdelegation der Taiwanischen Kulturvereinigung](https://commons.wikimedia.org/wiki/File:1925%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%AC%9B%E6%BC%94%E5%9C%98%E6%94%9D%E6%96%BC%E5%8D%94%E6%9C%83%E6%96%B0%E7%AB%B9%E5%B7%9E%E6%94%AF%E9%83%A8%E3%80%8A%E8%87%BA%E7%81%A3%E6%B0%91%E5%A0%B1%E3%80%8B%E6%89%B9%E7%99%BC%E8%99%95_Taiwanese_Cultural_Association_Speakers_at_Min_Bao_office_in_Shinchiku_Prefecture.jpg) — Gruppenfoto der Vortragsdelegation der Kulturvereinigung 1925 in der Vertriebsstelle der „Taiwan Minpao“ in der Zweigstelle von Shinchiku, lizenziert als Public Domain.
 
-[^12]: [Wikimedia Commons: Titelseite der Taiwan Minbao vom 1. Januar 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Das Bild der Titelseite der _Taiwan Minbao_ vom 1. Januar 1926, gekennzeichnet als Public Domain gemäß japanischem Urheberrecht.
+[^12]: [Wikimedia Commons: Titelseite der „Taiwan Minpao“ vom 1. Januar 1926](https://commons.wikimedia.org/wiki/File:Front_page_of_The_Taiwan_Minpao_19260101.png) — Titelseitenbild der „Taiwan Minpao“ vom 1. Januar 1926, Archivseite gemäß japanischem Urheberrecht als Public Domain gekennzeichnet.
 
-[^13]: [Wikimedia Commons: Petition für ein taiwanesisches Parlament](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Eine Archivseite mit dem Bild der Petition für ein taiwanesisches Parlament; gekennzeichnet als Public Domain.
+[^13]: [Wikimedia Commons: Petitionsdokument für die Einrichtung eines taiwanesischen Parlaments](https://commons.wikimedia.org/wiki/File:Petition_Movement_for_the_Establishment_of_a_Taiwanese_Parliament.jpg) — Archivseite des Bildes des Petitionsdokuments für die Einrichtung eines taiwanesischen Parlaments, lizenziert als Public Domain.
 
-[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Eine Archivseite mit einem Porträt von Lin Hsien-tang; gekennzeichnet als Public Domain.
+[^14]: [Wikimedia Commons: Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:Lin_Hsien-tang.jpg) — Archivseite des Porträts von Lin Hsien-tang, lizenziert als Public Domain.
