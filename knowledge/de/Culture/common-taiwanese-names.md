@@ -20,11 +20,13 @@ lastVerified: 2026-04-19
 lastHumanReview: true
 slug: 'popular-names-taiwan'
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T15:10:16.970583+00:00'
 ---
 
 # Marktnamen
