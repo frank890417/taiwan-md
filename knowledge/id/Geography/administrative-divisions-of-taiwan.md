@@ -2,9 +2,7 @@
 title: 'Pembagian Administratif Taiwan: Dari "Pertemuan Lokal" ke "Lima Kota" - Puzzle Kekuasaan'
 description: 'Pembagian administratif Taiwan bukan sekadar garis-garis di peta, melainkan sebuah eksperimen kekuasaan yang berlangsung selama empat ratus tahun. Mulai dari dewan-dewan suku pada era Belanda-Spanyol, ke gerakan "penghalusan nama" "Lima Shu San Ting" pada era penjajahan Jepang, hingga "Kota Shuangwen" yang hampir terwujud pasca-perang, di balik setiap batas tersembunyikan tarik-menarik antara kehendak penguasa dan identitas lokal.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
     'pembagian administratif',
@@ -12,15 +10,19 @@ tags:
     'perencanaan wilayah',
     'otonomi daerah',
   ]
-readingTime: 15
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-07-25T05:00:09+08:00'
+translatedAt: '2026-11-05T01:52:58.908806+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pembagian administratif "enam kota enam belas kabupaten/kota" Taiwan saat ini adalah hasil dari beberapa kali "operasi politik" selama empat ratus tahun. Pada abad ke-17, orang Belanda menggunakan "pertemuan lokal" untuk mengawasi suku-suku; era Zheng dan Qing membuka sistem prefectur-kabupaten orang Han; era penjajahan Jepang melalui "Lima Shu San Ting" dan penghalusan nama tempat, menentukan kerangka administratif modern. Eksperimen ini pada 1945 hampir menghasilkan "Kota Shuangwen" yang dinamai dari nama orang, dan pada 2010 melalui reformasi lima kota, memasukkan enam puluh persen populasi Taiwan ke dalam kota administratif langsung, meninggalkan tantangan kontemporer ketidakseimbangan sumber daya.
