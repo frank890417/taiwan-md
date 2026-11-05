@@ -1,28 +1,30 @@
 ---
 title: 'Le Mayasvi, la grande cérémonie de guerre des Tsou : Le feu du kuba, sans faire revenir la guerre'
 description: "Chaque année, entre Dapan et Tefuye sur le mont Alishan, les Tsou accueillent les dieux avec le Mayasvi, chantent et tournent autour de la maison sacrée, transformant la mémoire de la guerre en un ordre de vie commune au sein du clan. La grande cérémonie de guerre n'est pas un spectacle touristique de montagne : le véritable cœur réside dans le kuba, une maison d'hommes toujours entretenue, utilisée et régie par des normes d'accès strictes parmi les membres du clan."
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['Tsou', 'peuples autochtones', 'Mayasvi', 'kuba', 'rituel']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['Tsou', 'peuples autochtones', 'Mayasvi', 'kuba', 'rituel']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-11T12:42:07+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-05T22:16:28.889577+00:00'
 ---
 
-> **En bref (30 secondes) :** Le Mayasvi est souvent traduit par « grande cérémonie de guerre », mais le rituel d'aujourd'hui ne rejoue pas la chasse aux têtes ou la guerre. Il place le kuba — la maison d'hommes des Tsou — au centre, permettant aux différents clans de réaffirmer leurs responsabilités mutuelles entre l'accueil des dieux, les chants et danses, la maison sacrée et le renvoi des dieux. La différence la plus marquante à retenir est la suivante : la grande cérémonie de guerre ne préserve pas la violence, mais montre comment les Tsou continuent d'organiser leur communauté après que la violence a quitté la vie quotidienne.
+> **Aperçu en 30 secondes :** Le Mayasvi est généralement traduit par « rite de guerre », mais la cérémonie d'aujourd'hui n'est pas une reconstitution de la chasse aux têtes ou de la guerre. Elle est centrée sur le _kuba_ — la maison d'hommes des Tsou — et permet aux différents clans de réaffirmer leurs responsabilités mutuelles entre l'accueil des divinités, les chants et danses, le sacrifice à la maison et le renvoi des divinités. Le contraste le plus marquant est que le rite de guerre ne préserve pas la violence, mais la manière dont les Tsou continuent d'organiser leur communauté après que la violence a quitté la vie quotidienne.
 
-![Performance de danse traditionnelle tsou, le 2 avril 2008. Photo : Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![Danse traditionnelle des Tsou, 2 avril 2008. Photographie : Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_Source de l'image : [Page du fichier sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), photo : Xiao Ka, licence : [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). L'image présente une danse traditionnelle tsou et ne prétend pas représenter une séance spécifique du Mayasvi ou un rituel à l'intérieur du kuba. [^9]_
+_Source de l'image : [page du fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), photographie : Xiao Ka, licence : [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). L'image montre une danse traditionnelle des Tsou, sans prétendre représenter une session spécifique du Mayasvi ou un rituel interne au kuba.[^9]_
 
 ## Le feu de Dapan, d'abord pas pour les touristes
 
@@ -121,20 +123,20 @@ Ils font en sorte que le feu du Mayasvi n'éclaire pas seulement une nuit, mais 
 
 ## Références
 
-[^1]: [Conseil des Autochtones : Présentation de l'ethnie Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Les données ethniques officielles expliquent la répartition des Tsou, les rituels saisonniers, l'architecture du kuba, l'organisation familiale et les fonctions publiques du clan.
+[^1]: [Conseil des peuples autochtones : Présentation du peuple Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Les données officielles sur le peuple expliquent la distribution des Tsou, les rites saisonniers, l'architecture kuba, l'organisation parentale et les fonctions publiques du village.
 
-[^2]: [Réseau d'information sur la protection de la sagesse traditionnelle des autochtones : Maison d'hommes de la tribu Dapan des Tsou (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Le cas de sagesse traditionnelle soumis par la tribu Dapan, enregistrant les techniques de construction de la maison d'hommes, les dimensions, les objets symboliques, l'arbre sacré et la fleur sacrée, ainsi que la signification socio-culturelle.
+[^2]: [Réseau d'information sur la protection de la sagesse traditionnelle et des créations des peuples autochtones : Maison des hommes (kuba) du village de Dabang des Tsou](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Le cas de sagesse traditionnelle et de création soumis par le village de Dabang enregistre les techniques de construction, les dimensions, les objets symboliques, l'arbre sacré et la fleur sacrée, ainsi que la signification socioculturelle.
 
-[^3]: [Carte culturelle de Taïwan : Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — La carte culturelle officielle en anglais présente les ajustements de date de la cérémonie, l'accueil des dieux, le chant et la danse, la cérémonie de clôture, le kuba et les tabous pour les visiteurs.
+[^3]: [Carte culturelle religieuse de Taïwan : Festival Mayasvi de la tribu Tsou, Mont Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — La carte culturelle en anglais du Ministère de l'Intérieur présente les processus concrets d'ajustement de la date du festival, d'accueil des divinités, de chants et danses, de rite de clôture, du kuba et des interdits pour les visiteurs.
 
-[^4]: [Documents des autochtones : La grande cérémonie de guerre mayasvi des Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhongyong organise le contexte historique de la grande cérémonie de guerre, la collectivité, les caractéristiques des chants de cérémonie, le regard touristique et les problèmes d'hybridation culturelle contemporaine.
+[^4]: [Documents des peuples autochtones : Festival de guerre mayasvi des Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhongyong compile le contexte historique, le caractère collectif, les caractéristiques des chants rituels, le regard touristique et les problèmes de mélange culturel contemporain du festival de guerre.
 
-[^5]: [Airiti : Le sens de la grande cérémonie de guerre des Tsou contemporains — Une lecture postcoloniale](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Une thèse académique utilise la théorie postcoloniale pour analyser comment la grande cérémonie de guerre se réorganise continuellement entre la nostalgie, la décolonisation, la vie moderne et la subjectivité ethnique.
+[^5]: [Airiti : La signification du festival de guerre tsou contemporain — une lecture postcoloniale](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — L'article académique analyse, à travers la théorie postcoloniale, comment le festival de guerre se recompose continuellement entre nostalgie, décolonisation, vie moderne et subjectivité ethnique.
 
-[^6]: [Rituels saisonniers des autochtones : La grande cérémonie de guerre Mayasvi des Tsou (page 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Une publication culturelle des autochtones organise les multiples sections du rituel de la grande cérémonie de guerre, la réparation de la maison d'hommes, l'accueil des dieux, le chant et la danse, et les restrictions pour les visiteurs dans un calendrier saisonnier.
+[^6]: [Rites saisonniers des peuples autochtones : Festival de guerre Mayasvi des Tsou (page 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — La publication culturelle des peuples autochtones organise, selon le calendrier saisonnier, les multiples rituels du festival de guerre, la construction de la maison des hommes, l'accueil des divinités, les chants et danses, ainsi que les restrictions pour les touristes.
 
-[^7]: [Taiwan News : When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — Un rapport en anglais de 2026 explique la collectivité contemporaine du Mayasvi, la mémoire des ancêtres et la subjectivité culturelle à partir du site de la cérémonie et du contexte tsou.
+[^7]: [Taiwan News : Quand février apporte un Nouvel An différent : À l'intérieur des mondes autochtones de Taïwan et le Mayasvi tsou](https://www.tcn.tw/news/6784674) — Le reportage en anglais de 2026 explique, depuis le site du festival et le contexte tsou, la communauté contemporaine du Mayasvi, la mémoire ancestrale et la subjectivité culturelle.
 
-[^8]: [Actualités du Bureau des Communautés d'Outre-mer : Certification de la grande cérémonie de guerre des Tsou comme Patrimoine Folklorique Important National](https://ocacnews.net/article/133098) — Un message de l'agence CNA en 2011 enregistre que la grande cérémonie de guerre a été désignée comme Patrimoine Folklorique Important National, et décrit le kuba, l'éthique du clan et la transmission culturelle dans les rapports de certification.
+[^8]: [Actualités des affaires des compatriotes d'outre-mer : Certification du festival de guerre tsou comme folklore national important](https://ocacnews.net/article/133098) — Le communiqué de l'Agence centrale de presse de 2011 enregistre la désignation du festival de guerre comme folklore national important, ainsi que la description du kuba, de l'éthique villageoise et de la transmission culturelle dans le reportage de certification.
 
-[^9]: [Wikimedia Commons : Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Photo de danse traditionnelle tsou, prise par l'utilisateur Flickr Xiao Ka, sous licence CC BY 2.0, l'article intègre uniquement l'URL chaude originale.
+[^9]: [Wikimedia Commons : Performance de danse traditionnelle du peuple tsou 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Photo de danse traditionnelle tsou, photographe : utilisateur Flickr Xiao Ka, licence CC BY 2.0, l'article n'intègre que l'URL directe originale.

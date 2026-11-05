@@ -1,21 +1,21 @@
 ---
-title: 'Geai bleu de Taïwan : un gang bleu dans la jungle urbaine et une bataille génétique séculaire'
-description: "Élu oiseau national en 2007 avec 180 000 voix, ce joyau des montagnes est en réalité une famille redoutable capable de mener des combats de groupe. Espèce endémique de Taïwan, depuis son premier spécimen collecté par Swinhoe en 1862 jusqu'à aujourd'hui, où il vole la nourriture des chats dans les parcs urbains, cette espèce l'emporte grâce à un système d'aide au nid atteignant 97 %. Au cours de ces cent dernières années, ils ont également maintenu une frontière génétique stricte avec le geai bleu de Chine. C'est une histoire insulaire sur la survie, la cohésion familiale, la défense du patrimoine génétique et la sagesse de la coexistence entre l'homme et l'oiseau."
+title: "La Pie bleue de Taïwan : la bande bleue dans la jungle urbaine, et une bataille génétique vieille de plus d'un siècle"
+description: "La Pie bleue de Taïwan est une espèce endémique de Taïwan. Elle a remporté la sélection de l'oiseau national en 2007. Sa population est stable, elle est classée « Préoccupation mineure » sur la Liste rouge de l'UICN, et est catégorisée comme espèce protégée de niveau 3 à Taïwan, principalement parce qu'elle est une espèce endémique, et son nombre a augmenté ces dernières années dans les zones de basse altitude et les parcs urbains. Elles vivent en groupes, et 97 % des groupes familiaux comptent des aides pour l'élevage des oisillons, elles attaquent collectivement les intrus ; la menace la plus surveillée est l'hybridation et la pollution génétique apportées par l'espèce exotique, la Pie bleue à bec rouge."
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'espèce endémique',
-    'espèce protégée',
-    'oiseaux',
-    'écologie',
-    'Long-tailed mountain lady',
-    'reproduction coopérative',
-    'peuple Tsou',
-    'peuple Bunun',
-    'geai bleu à bec rouge',
-    'science citoyenne',
-    'changement climatique',
+    'Espèce endémique',
+    'Espèce protégée',
+    'Oiseaux',
+    'Écologie',
+    'Pie bleue de Taïwan',
+    'Reproduction coopérative',
+    'Tsou',
+    'Bunun',
+    'Pie bleue à bec rouge',
+    'Science citoyenne',
+    'Changement climatique',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,11 +23,15 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T03:03:56.444019+00:00'
+translatedAt: '2026-11-05T23:32:16.143557+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
