@@ -343,8 +343,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **已做的處置**：第 1 例的錯誤結論沒有外流（沒寫進任何 canonical）。第 2 例在 PR #1888 公開更正並道歉，`[^13]` 原樣保留不動。
 - **候選機械化**：對 frontmatter 取值這件事，repo 內已經有不會犯這種錯的那條路——`article_health` 的 `FileTarget.frontmatter`（走 YAML parser，不是 regex）。當班要量 frontmatter 欄位時應該 import 它，而不是現場寫 regex；手寫 regex 讀 YAML 本身就該是訊號。這條是純取數面、不碰判準。
 - **相關**：[REFLEXES #99](REFLEXES.md)（尺先驗再用）／[#16](REFLEXES.md)（否定式結論舉證更高；`negative-claim` 第 5 例）／[#65](REFLEXES.md)（awareness instrument 自身要 cross-verify）／[#69](REFLEXES.md)（每層自評都需要外部尺——本班兩次都是靠「第二支尺不同意」才轉向，不是靠自省）
-- **verification_count**: 2（同一班兩個獨立 instance）
-- **severity**: structural（維護班的工作就是拿尺量別人的產出，而這條說的是尺本身的誤差方向帶有系統性偏誤，偏向指控對象而非自己）
+- **第三 instance（同一班，收官後）**：為了驗「babel 的 push watcher 會不會自己收斂分岔」，我連開兩個 `Monitor`，迴圈分別約 30 與 55 分鐘，而該工具的硬上限是 30 分鐘——**迴圈比它自己的視窗長，所以那行 `TIMEOUT` / `STILL OPEN` 永遠印不出來**。兩次都回「expired with no events」，而我第一次把這個靜默讀成「watcher 沒收斂」（還一度以為自己先前的判斷錯了）。真相在 watcher 自己的帳本裡：`.taiwanmd/babel-push.log` 寫著 05:55 → 08:57 之間四次成功推送，其中 08:56 那筆正是「🔀 合併 origin/main（落後 9 個 commit）完成」後推到 ahead 0 / behind 0；門檻是未推送譯文 50 篇，當時 38 → 44 還在累積。**跟前兩例同一個形狀，只是這次那把壞掉的尺是我在任務中途自己搭的，而且我拿它的靜默當世界的讀數。** 兩條機械規則：量測迴圈的總時長必須短於它自己的視窗上限，否則它的收尾結論是不可達的死碼；「監看器沒有事件」永遠不等於「被監看的事情沒發生」（[#85](REFLEXES.md)「不知道」要有自己的符號——expired-no-events 是「不知道」）。**而真正的讀數一直都在產線自己的 log 裡，問它比自己搭一支監看器便宜得多。**
+- **verification_count**: 3（同一班三個獨立 instance：貪婪 regex／國字數字／monitor 視窗短於迴圈）
+- **severity**: structural（維護班的工作就是拿尺量別人的產出，而這條說的是尺本身的誤差方向帶有系統性偏誤，偏向指控對象而非自己；第三例證明臨時搭的量測器也算在內）
 
 ### 2026-11-05 twmd-maintainer-daily — 每天照響的警報，讓每一班都重新付一次診斷成本
 
