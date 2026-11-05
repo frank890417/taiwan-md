@@ -2,6 +2,7 @@
 title: 'Bahamut: Taiwan Gaming and Anime Community'
 description: "The birth, survival, and staying power of Taiwan's largest ACG community — and why it keeps growing in an era when Facebook and TikTok have swept everything else away."
 date: 2026-04-05
+category: 'Culture'
 tags:
   [
     'ACG',
@@ -15,15 +16,16 @@ tags:
 subcategory: '網路與數位文化'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
-category: 'Culture'
-translatedFrom: 'Culture/巴哈姆特.md'
-sourceCommitSha: 'f5975a22'
-sourceContentHash: 'sha256:6af04295a71690eb'
-sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-06-22T00:30:00+08:00'
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/巴哈姆特.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:6af04295a71690eb'
+sourceBodyHash: 'sha256:01a8577cdb53218c'
+translatedAt: '2026-11-05T08:30:26.853150+00:00'
 ---
 
 # Bahamut
