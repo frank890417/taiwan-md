@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T08:48:12+08:00",
-    "zhCommitHead": "15a32472e",
-    "totalZh": 1162,
+    "lastUpdated": "2026-11-05T08:48:54+08:00",
+    "zhCommitHead": "38c4c8f2d",
+    "totalZh": 1161,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1040,
         "stale": 37,
         "metadata_stale": 81,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1041,
         "stale": 43,
         "metadata_stale": 74,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1044,
         "stale": 38,
         "metadata_stale": 76,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1037,
         "stale": 41,
         "metadata_stale": 78,
-        "missing": 6,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1162,
-        "fresh": 1040,
-        "stale": 40,
-        "metadata_stale": 78,
-        "missing": 4,
-        "orphan": 0
-      },
-      "vi": {
-        "total_zh": 1162,
-        "fresh": 1034,
-        "stale": 40,
-        "metadata_stale": 82,
-        "missing": 6,
-        "orphan": 0
-      },
-      "id": {
-        "total_zh": 1162,
-        "fresh": 1037,
-        "stale": 47,
-        "metadata_stale": 73,
         "missing": 5,
         "orphan": 0
       },
+      "fr": {
+        "total_zh": 1161,
+        "fresh": 1040,
+        "stale": 40,
+        "metadata_stale": 78,
+        "missing": 3,
+        "orphan": 0
+      },
+      "vi": {
+        "total_zh": 1161,
+        "fresh": 1034,
+        "stale": 40,
+        "metadata_stale": 82,
+        "missing": 5,
+        "orphan": 0
+      },
+      "id": {
+        "total_zh": 1161,
+        "fresh": 1037,
+        "stale": 47,
+        "metadata_stale": 73,
+        "missing": 4,
+        "orphan": 0
+      },
       "pt": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1040,
         "stale": 41,
         "metadata_stale": 77,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1035,
         "stale": 45,
         "metadata_stale": 78,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1162,
-        "fresh": 1041,
+        "total_zh": 1161,
+        "fresh": 1042,
         "stale": 43,
-        "metadata_stale": 74,
-        "missing": 4,
+        "metadata_stale": 73,
+        "missing": 3,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1162,
-        "fresh": 1044,
+        "total_zh": 1161,
+        "fresh": 1045,
         "stale": 38,
-        "metadata_stale": 76,
-        "missing": 4,
+        "metadata_stale": 75,
+        "missing": 3,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1162,
+        "total_zh": 1161,
         "fresh": 1024,
         "stale": 42,
         "metadata_stale": 92,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       }
     },
@@ -70312,52 +70312,6 @@
         }
       }
     },
-    "Society/台灣平均餘命.md": {
-      "zh": {
-        "lastCommit": "",
-        "lastModified": "",
-        "contentHash": "sha256:13ad9f4bddf2a29a",
-        "bodyHash": "sha256:834d3f803cfd3af2"
-      },
-      "translations": {
-        "en": {
-          "status": "missing"
-        },
-        "ja": {
-          "status": "missing"
-        },
-        "ko": {
-          "status": "missing"
-        },
-        "es": {
-          "status": "missing"
-        },
-        "fr": {
-          "status": "missing"
-        },
-        "vi": {
-          "status": "missing"
-        },
-        "id": {
-          "status": "missing"
-        },
-        "pt": {
-          "status": "missing"
-        },
-        "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "status": "missing"
-        },
-        "ru": {
-          "status": "missing"
-        },
-        "de": {
-          "status": "missing"
-        }
-      }
-    },
     "Society/台灣教師的管教困境.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -138467,8 +138421,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-11-04T23:27:30.690748+00:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 10915,
@@ -138671,8 +138625,8 @@
           "sourceContentHash": "sha256:79c87fb84a11dd9d",
           "sourceBodyHash": "sha256:619ef92c56c46024",
           "translatedAt": "2026-11-04T23:14:09.677029+00:00",
-          "translationLastCommit": "4bc14311",
-          "translationLastModified": "2026-05-26T08:08:43+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 14032,
@@ -141947,8 +141901,8 @@
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
           "translatedAt": "2026-11-04T23:40:24.244795+00:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 10775,
@@ -142365,8 +142319,8 @@
           "sourceContentHash": "sha256:e00af3b07adcb778",
           "sourceBodyHash": "sha256:beb2338ff10788ce",
           "translatedAt": "2026-11-05T00:15:37.287896+00:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 10565,
@@ -143581,8 +143535,8 @@
           "sourceContentHash": "sha256:485587af49d56815",
           "sourceBodyHash": "sha256:433a66ecaa1d5d52",
           "translatedAt": "2026-11-04T23:49:17.736078+00:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 20684,
@@ -144825,8 +144779,8 @@
           "sourceContentHash": "sha256:3ccf8e3a350256dc",
           "sourceBodyHash": "sha256:9a3851545dcaaf3c",
           "translatedAt": "2026-11-05T07:46:11+08:00",
-          "translationLastCommit": "09eee019",
-          "translationLastModified": "2026-05-12T22:47:09+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 10524,
@@ -149727,8 +149681,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-11-04T23:47:31.934627+00:00",
-          "translationLastCommit": "17d8c5b7",
-          "translationLastModified": "2026-09-28T01:35:43+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 23013,
@@ -149941,8 +149895,8 @@
           "sourceContentHash": "sha256:a0454e71ee2abfe6",
           "sourceBodyHash": "sha256:2bbcd86b693a9ea2",
           "translatedAt": "2026-11-05T00:42:40.899158+00:00",
-          "translationLastCommit": "1dd167b3",
-          "translationLastModified": "2026-05-22T08:18:22+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 9340,
@@ -150349,8 +150303,8 @@
           "sourceContentHash": "sha256:877ba646499c2433",
           "sourceBodyHash": "sha256:59833698754e5cb0",
           "translatedAt": "2026-11-04T23:55:18.736204+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "38c4c8f2",
+          "translationLastModified": "2026-11-05T08:48:12+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 12854,
@@ -152685,38 +152639,34 @@
         "ar": {
           "path": "ar/People/barbie-hsu-actress.md",
           "translatedFrom": "People/徐熙媛.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
-          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translatedAt": "2026-11-05T00:48:20.916049+00:00",
           "translationLastCommit": "1effc34f",
           "translationLastModified": "2026-07-25T11:50:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 10393,
+          "bytes": 10461,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/barbie-hsu-actress.md",
           "translatedFrom": "People/徐熙媛.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
-          "translatedAt": "2026-07-25T10:53:30+08:00",
+          "translatedAt": "2026-11-05T00:48:26.881183+00:00",
           "translationLastCommit": "003f336a",
           "translationLastModified": "2026-07-25T11:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 12117,
+          "bytes": 12170,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/barbie-hsu-actress.md",

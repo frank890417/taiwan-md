@@ -2,9 +2,7 @@
 title: 'Ляо Хуньцзи: от марлинового судна к дрейфу Куросио — писатель-моряк, измеривший тайваньские моря жизнью'
 description: 'В 1992 году Ляо Хуньцзи сменил жизнь на суше на жизнь моряка, основал Фонд куросиоcean культуры и образования, а проектами «Куросио-101» и «Кашалот π» переопределил взгляд тайваньцев на океан, став ключевым движителем современной океанической литературы и экологического сохранения.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'People'
-subcategory: '文學'
 tags:
   [
     'океаническая литература',
@@ -13,15 +11,19 @@ tags:
     'Хуалянь',
     'кашалот',
   ]
-readingTime: 12
+subcategory: '文學'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-07-25T10:53:30+08:00'
+translatedAt: '2026-11-04T23:50:41.583169+00:00'
 ---
 
 # Ляо Хуньцзи
