@@ -2,9 +2,7 @@
 title: 'Mapa cultural de los 16 pueblos indígenas de Taiwán'
 description: '"16" no es un número generado de forma natural, es el resultado de negociaciones. Desde los 210 000 miembros del pueblo amis hasta los 441 del pueblo kanakanavu, la profundidad cultural de los pueblos indígenas de Taiwán supera con creces cualquier registro oficial.'
 date: 2026-03-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '族群文化'
 tags:
   [
     'pueblos indígenas',
@@ -13,15 +11,19 @@ tags:
     'lengua',
     'creación contemporánea',
   ]
-readingTime: 9
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/台灣原住民族16族文化地圖.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-06-16T17:10:37Z'
+translatedAt: '2026-11-05T07:03:28.168850+00:00'
 ---
 
 # Mapa cultural de los 16 pueblos indígenas de Taiwán

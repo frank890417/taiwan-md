@@ -18,11 +18,13 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
 terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
-translatedAt: '2026-09-27T23:29:50+08:00'
+translatedAt: '2026-11-05T07:30:33.616760+00:00'
 ---
 
 > **Panorama en 30 segundos:** ¿Por qué el chino que se habla en Taiwán tiene esta forma? No es el resultado de un diseño político, sino una estratigrafía lingüística depositada naturalmente por cuatrocientos años de vida en la isla. Desde los topónimos dejados por los holandeses, la penetración de préstamos japoneses durante cincuenta años, la divergencia léxica de 1949, hasta la pugna lingüística de la era de internet: cada capa es una huella de la vida real, no una postura política.

@@ -2,9 +2,7 @@
 title: 'El Taiwan Church News: un periódico que lleva 140 años vivo, y el día en que fue confiscado'
 description: 'En 1885, el misionero británico Thomas Barclay imprimió en Tainan el primer periódico de Taiwán en escritura latina vernácula (Pe̍h-ōe-jī). Este periódico fue suspendido por el gobierno japonés, sufrió la prohibición del uso de lenguas maternas por parte del Kuomintang, y en 1987 fue confiscado en su totalidad por el Comando General de Seguridad por informar sobre el Incidente del 28 de Febrero. Cada vez que fue suprimido, resurgió. En 2025 cumplió 140 años, y su suplemento publicaba debates sobre inteligencia artificial generativa.'
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '媒體與出版'
 tags:
   [
     'Medios de comunicación',
@@ -16,15 +14,19 @@ tags:
     'Lengua taiwanesa',
     'Política lingüística',
   ]
-readingTime: 10
+subcategory: '媒體與出版'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
-translatedFrom: Culture/台灣教會公報.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:3439ffa9774025fa
-sourceBodyHash: sha256:2e121ca67feccc95
-translatedAt: 2026-06-12T00:53:04+08:00
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/台灣教會公報.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:3439ffa9774025fa'
+sourceBodyHash: 'sha256:2e121ca67feccc95'
+translatedAt: '2026-11-05T07:24:33.776556+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 12 de junio de 1885 (año 11 del reinado del emperador Guangxu de la dinastía Qing), el misionero de la Iglesia Presbiteriana Británica Thomas Barclay fundó en Tainan el _Taiwan Prefectural City Church News_, impreso en escritura latina eclesiástica (Pe̍h-ōe-jī), el primer periódico de la historia de Taiwán. Este periódico ha atravesado los periodos Qing, colonial japonés y posguerra autoritario; fue suspendido en dos ocasiones, se le prohibió el uso de lenguas maternas, y fue confiscado en su totalidad por el Comando General de Seguridad. Aún se publica hoy. En 2025 cumplió 140 años, siendo la publicación periódica más longeva aún vigente en Taiwán. Su suplemento abarca desde teología hasta cuestiones sociales, y desde 2022 publica incluso columnas de opinión sobre inteligencia artificial generativa.

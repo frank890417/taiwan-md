@@ -2,9 +2,7 @@
 title: 'El movimiento de revitalización de las lenguas indígenas de Taiwán'
 description: 'Solo quedan 4 hablantes nativos del pueblo Thao en Taiwán, sin embargo, ha surgido uno de los experimentos de revitalización lingüística más densos del mundo. Desde la Ley de Desarrollo de Lenguas Indígenas de 2017 hasta las plataformas digitales de lenguas étnicas, un rescate silencioso se está acelerando.'
 date: 2026-03-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'pueblos indígenas',
@@ -13,15 +11,19 @@ tags:
     'política lingüística',
     'transmisión cultural',
   ]
-readingTime: 8
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-11-05T07:45:23.470807+00:00'
 ---
 
 # El movimiento de revitalización de las lenguas indígenas de Taiwán

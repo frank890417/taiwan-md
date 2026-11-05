@@ -2,20 +2,22 @@
 title: 'Yehliu: en el cabo del diablo, una coronación y una despedida de la «reina» en una carrera contra el tiempo'
 description: 'En 1962, una fractura rocosa accidental coronó la «Cabeza de Reina» de Yehliu, pero este paisaje de clase mundial se desvanece a un ritmo de 2 centímetros al año. Desde el «cabo del diablo» que divisaron los españoles hasta convertirse en un símbolo cultural protegido por toda la ciudadanía, la historia de Yehliu no es solo una maravilla geológica, sino el proceso mediante el cual los taiwaneses aprenden a soltar entre la ley natural y el apego emocional.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '地形與地質'
 tags:
   ['Yehliu', 'Cabeza de Reina', 'parque geológico', 'Wanlin', 'Lin Tian-zhen']
-readingTime: 8
+subcategory: '地形與地質'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-06-12T00:53:04+08:00'
+translatedAt: '2026-11-05T06:39:46.659527+00:00'
 ---
 
 > **Panorama en 30 segundos:**
