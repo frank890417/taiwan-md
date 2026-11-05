@@ -1,0 +1,33 @@
+id: 貓條
+category: daily-life
+subcategory: 寵物
+fork_type: C
+display:
+  taiwan: 肉泥 / 貓肉泥 / 肉泥條
+  china: 貓條
+etymology:
+  origin: 條狀包裝的膏狀貓零食，台灣貓奴的慣稱是「肉泥」，PTT 貓版 2021 年賣的是「CIAO啾嚕肉泥」，2026 年 10 月還有人在賣「肉泥條」。「貓條」的滲透路徑在貓版留得很清楚：2021 年 6 月有人問「貓條是什麼？是指貓肉泥？」，回文有「第一次聽到貓條@@」，也有人說「貓條是支語沒錯哦」；2024 年 8 月已有台灣貓奴在標題用「Ciao即期貓條」；2026 年 6 月出現「家裡貓咪不吃貓條」，同年 vocus 文章把「貓肉泥」「貓條」並列。
+  fork_cause: 同一個商品類別在兩邊各有稱呼，「貓條」隨中國社群內容傳入，2024 年後台灣貓奴開始自用。
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+status: emerging
+notes: |
+  滲透中的詞，不寫成「台灣不用」：五年內從多數貓奴沒聽過，變成版上有人直接用。
+  誠信標註：「小紅書起源」只是 2021 年一位網友的推測，本條不採為事實；
+  2021 年串裡發文者自己把貓條理解成偏硬的零食，當時語義並不穩定。
+  中國側的起源來源本輪沒有讀到。
+pending_verification:
+  question: 「貓條」在中國的首見平台與時間是什麼？目前只有 2021 年台灣網友的推測。
+  needs: 讀到百度百科或小紅書早期用例（本輪百度百科回 403）。
+  opened: '2026-11-05'
+sources:
+  - https://www.ptt.cc/bbs/cat/M.1624597252.A.CBC.html
+  - https://www.ptt.cc/bbs/cat/M.1722599166.A.BD0.html
+  - https://www.ptt.cc/bbs/cat/M.1782785871.A.A94.html
+  - https://www.ptt.cc/bbs/cat/M.1611644108.A.B09.html
+  - https://www.ptt.cc/bbs/cat/M.1792213604.A.573.html
+  - https://udn.com/news/story/7470/8567805
+  - https://vocus.cc/article/69a53d0bfd89780001b98f98
+added: '2026-11-05'
+updated: '2026-11-05'

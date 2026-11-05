@@ -7,10 +7,15 @@ display:
   taiwan: 戰車
   china: 坦克
 
-notes: ''
+notes: |
+  ⚠️ 誤判案例：2026-06 Threads 有人指「坦克」是對岸用語，PTT 多數推文質疑。
+  萌典收「坦克」，註明為英語 tank 的音譯，所以它不是中國專用詞。
+  本條記的是偏好差異，軍中說「戰車」目前只有推文單一說法。
 
 sources:
   - 'fanhuaji-config'
+  - https://www.moedict.tw/uni/坦克
+  - https://disp.cc/b/Gossiping/i710
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-05'
