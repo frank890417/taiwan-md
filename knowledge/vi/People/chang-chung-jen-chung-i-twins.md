@@ -26,11 +26,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-08T00:42:51+08:00'
+translatedAt: '2026-11-05T08:55:07.291180+00:00'
 ---
 
 > **Tóm tắt 30 giây**: Năm 1979, Bệnh viện Đại học Đài Loan đã hoàn thành ca phẫu thuật tách rời kéo dài 12 giờ đối với Trương Trung Nhân và Trương Trung Nghĩa bằng sự hợp tác của đội ngũ hơn 36 người. Đây là một đột phá quan trọng trong lịch sử y học Đài Loan, nhưng không phải là hồi kết câu chuyện của hai anh em. Chính những bệnh tật, quá trình phục hồi, công việc, gia đình và sự chú ý của truyền thông sau ca phẫu thuật đã tạo nên cuộc sống thực sự dài hơi cho họ.
