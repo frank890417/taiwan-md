@@ -2,9 +2,7 @@
 title: '許文龍：台南1928年、奇美実業1959年から世界最多のバイオリンを収蔵する博物館の創設者へ'
 description: '1928/2/25に台南で生まれ、2023/11/18に逝去（95歳）。1959/10に奇美実業を創設（資本金200万）。1990年からバイオリンを収集し、計1362挺（世界最多）。2015/1/1に奇美博物館が正式開館（台南都会公園）。バイオリンを愛し、奇美博物館は無料開放（現行政策P0⚠️要確認）。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'テクノロジーと企業',
@@ -15,19 +13,19 @@ tags:
     '文化普及',
     '台南',
   ]
-readingTime: 7
-# design_rationale:
-#   why_this_hook: "1362把提琴全球最多 + 博物館免費開放，這兩個數字才能說清楚他為什麼不只是石化業的奇美，而是台南的文化遺產。"
-#   whats_excluded: "奇美集團各業務單元詳細財報；提琴收藏名單；博物館建築設計細節"
-#   where_it_hedges: "博物館現行免費開放政策P0⚠️建議確認是否仍持續"
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T23:59:46.792974+00:00'
 ---
 
 # 許文龍：台南1928年、奇美実業1959年から世界最多のバイオリンを収蔵する博物館の創設者へ

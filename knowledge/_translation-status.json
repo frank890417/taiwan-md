@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T08:56:15+08:00",
-    "zhCommitHead": "c03683a4b",
-    "totalZh": 1161,
+    "lastUpdated": "2026-11-05T09:18:12+08:00",
+    "zhCommitHead": "37b559c7c",
+    "totalZh": 1162,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1161,
-        "fresh": 1041,
-        "stale": 37,
+        "total_zh": 1162,
+        "fresh": 1039,
+        "stale": 39,
         "metadata_stale": 80,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1161,
-        "fresh": 1042,
-        "stale": 43,
+        "total_zh": 1162,
+        "fresh": 1040,
+        "stale": 45,
         "metadata_stale": 73,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1161,
-        "fresh": 1045,
-        "stale": 38,
+        "total_zh": 1162,
+        "fresh": 1043,
+        "stale": 40,
         "metadata_stale": 75,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1161,
-        "fresh": 1038,
-        "stale": 41,
+        "total_zh": 1162,
+        "fresh": 1037,
+        "stale": 42,
         "metadata_stale": 77,
-        "missing": 5,
+        "missing": 6,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1161,
-        "fresh": 1041,
-        "stale": 40,
+        "total_zh": 1162,
+        "fresh": 1039,
+        "stale": 42,
         "metadata_stale": 77,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1161,
-        "fresh": 1035,
-        "stale": 40,
+        "total_zh": 1162,
+        "fresh": 1034,
+        "stale": 41,
         "metadata_stale": 81,
-        "missing": 5,
+        "missing": 6,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1161,
-        "fresh": 1038,
+        "total_zh": 1162,
+        "fresh": 1036,
+        "stale": 49,
+        "metadata_stale": 72,
+        "missing": 5,
+        "orphan": 0
+      },
+      "pt": {
+        "total_zh": 1162,
+        "fresh": 1039,
+        "stale": 43,
+        "metadata_stale": 76,
+        "missing": 4,
+        "orphan": 0
+      },
+      "hi": {
+        "total_zh": 1162,
+        "fresh": 1034,
         "stale": 47,
+        "metadata_stale": 77,
+        "missing": 4,
+        "orphan": 0
+      },
+      "ar": {
+        "total_zh": 1162,
+        "fresh": 1041,
+        "stale": 45,
         "metadata_stale": 72,
         "missing": 4,
         "orphan": 0
       },
-      "pt": {
-        "total_zh": 1161,
-        "fresh": 1041,
-        "stale": 41,
-        "metadata_stale": 76,
-        "missing": 3,
-        "orphan": 0
-      },
-      "hi": {
-        "total_zh": 1161,
-        "fresh": 1036,
-        "stale": 45,
-        "metadata_stale": 77,
-        "missing": 3,
-        "orphan": 0
-      },
-      "ar": {
-        "total_zh": 1161,
-        "fresh": 1042,
-        "stale": 43,
-        "metadata_stale": 73,
-        "missing": 3,
-        "orphan": 0
-      },
       "ru": {
-        "total_zh": 1161,
-        "fresh": 1045,
-        "stale": 38,
-        "metadata_stale": 75,
-        "missing": 3,
+        "total_zh": 1162,
+        "fresh": 1044,
+        "stale": 40,
+        "metadata_stale": 74,
+        "missing": 4,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1161,
-        "fresh": 1025,
-        "stale": 42,
+        "total_zh": 1162,
+        "fresh": 1023,
+        "stale": 44,
         "metadata_stale": 91,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       }
     },
@@ -54628,10 +54628,10 @@
     },
     "Lifestyle/外送平台.md": {
       "zh": {
-        "lastCommit": "62194c6e",
-        "lastModified": "2026-08-18T08:54:10+08:00",
-        "contentHash": "sha256:4fcef48a4fb87a46",
-        "bodyHash": "sha256:13fc2011ed2fd336"
+        "lastCommit": "d0d78ae5",
+        "lastModified": "2026-11-05T08:51:21+08:00",
+        "contentHash": "sha256:e9fe365d20b93673",
+        "bodyHash": "sha256:79a48da3f8317992"
       },
       "translations": {
         "en": {
@@ -54647,8 +54647,8 @@
           "footnoteDefs": 14,
           "bytes": 23618,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "ja": {
           "path": "ja/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54663,8 +54663,8 @@
           "footnoteDefs": 14,
           "bytes": 27247,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "ko": {
           "path": "ko/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54679,8 +54679,8 @@
           "footnoteDefs": 14,
           "bytes": 25327,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "es": {
           "path": "es/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54695,8 +54695,8 @@
           "footnoteDefs": 14,
           "bytes": 27364,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "fr": {
           "path": "fr/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54711,8 +54711,8 @@
           "footnoteDefs": 14,
           "bytes": 28887,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "vi": {
           "path": "vi/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54727,8 +54727,8 @@
           "footnoteDefs": 14,
           "bytes": 32313,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "id": {
           "path": "id/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54743,8 +54743,8 @@
           "footnoteDefs": 14,
           "bytes": 22271,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "pt": {
           "path": "pt/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54759,8 +54759,8 @@
           "footnoteDefs": 14,
           "bytes": 25924,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "hi": {
           "path": "hi/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54775,8 +54775,8 @@
           "footnoteDefs": 14,
           "bytes": 56191,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "ar": {
           "path": "ar/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54791,8 +54791,8 @@
           "footnoteDefs": 14,
           "bytes": 31496,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "ru": {
           "path": "ru/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54807,8 +54807,8 @@
           "footnoteDefs": 14,
           "bytes": 38730,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         },
         "de": {
           "path": "de/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -54823,8 +54823,8 @@
           "footnoteDefs": 14,
           "bytes": 26510,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→14)"
         }
       }
     },
@@ -70309,6 +70309,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Society/台灣平均餘命.md": {
+      "zh": {
+        "lastCommit": "04eecf4c",
+        "lastModified": "2026-11-05T08:49:51+08:00",
+        "contentHash": "sha256:13ad9f4bddf2a29a",
+        "bodyHash": "sha256:834d3f803cfd3af2"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -152625,8 +152671,8 @@
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
           "translatedAt": "2026-11-04T23:42:03.566555+00:00",
-          "translationLastCommit": "66b619dd",
-          "translationLastModified": "2026-10-10T23:41:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 15180,
@@ -159861,8 +159907,8 @@
           "sourceContentHash": "sha256:4ee811968726954e",
           "sourceBodyHash": "sha256:eac4101c04e140f1",
           "translatedAt": "2026-11-04T23:35:36.450477+00:00",
-          "translationLastCommit": "de4c82ca",
-          "translationLastModified": "2026-07-25T05:44:44+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 22815,
@@ -163529,8 +163575,8 @@
           "sourceContentHash": "sha256:65a3ff761ca143a1",
           "sourceBodyHash": "sha256:da607a2f72ce021f",
           "translatedAt": "2026-11-05T00:03:56.756711+00:00",
-          "translationLastCommit": "eb2135ec",
-          "translationLastModified": "2026-07-25T06:59:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 21474,
@@ -163745,8 +163791,8 @@
           "sourceContentHash": "sha256:2d7f3f53fc22a03b",
           "sourceBodyHash": "sha256:dfebf81490e7a3d9",
           "translatedAt": "2026-11-04T23:47:54.964620+00:00",
-          "translationLastCommit": "eb2135ec",
-          "translationLastModified": "2026-07-25T06:59:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 25829,
@@ -163757,38 +163803,34 @@
         "ar": {
           "path": "ar/Food/oyster-omelet.md",
           "translatedFrom": "Food/蚵仔煎.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:2d7f3f53fc22a03b",
           "sourceBodyHash": "sha256:dfebf81490e7a3d9",
-          "translatedAt": "2026-07-25T09:23:16+08:00",
+          "translatedAt": "2026-11-05T00:56:24.716947+00:00",
           "translationLastCommit": "ccaef080",
           "translationLastModified": "2026-07-25T10:42:11+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 20649,
+          "bytes": 20702,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/oyster-omelet.md",
           "translatedFrom": "Food/蚵仔煎.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:2d7f3f53fc22a03b",
           "sourceBodyHash": "sha256:dfebf81490e7a3d9",
-          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "translatedAt": "2026-11-05T00:56:28.957045+00:00",
           "translationLastCommit": "9d4f7166",
           "translationLastModified": "2026-07-25T10:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 24401,
+          "bytes": 24471,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/oyster-omelet.md",
@@ -164777,8 +164819,8 @@
           "sourceContentHash": "sha256:c1a6f8a2f2e30ae7",
           "sourceBodyHash": "sha256:d70608d1aa149287",
           "translatedAt": "2026-11-05T07:46:26+08:00",
-          "translationLastCommit": "f6414354",
-          "translationLastModified": "2026-07-29T13:33:59+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 18124,
@@ -167853,8 +167895,8 @@
           "sourceContentHash": "sha256:764c87b479e4e9af",
           "sourceBodyHash": "sha256:6c2df9f7c1f07744",
           "translatedAt": "2026-11-04T23:49:43.254996+00:00",
-          "translationLastCommit": "028f0dff",
-          "translationLastModified": "2026-11-02T10:08:15+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 27012,
@@ -168905,8 +168947,8 @@
           "sourceContentHash": "sha256:6de8df7e037bf580",
           "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
           "translatedAt": "2026-11-05T00:15:59.364433+00:00",
-          "translationLastCommit": "eb2135ec",
-          "translationLastModified": "2026-07-25T06:59:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 22814,
@@ -169127,8 +169169,8 @@
           "sourceContentHash": "sha256:9645370116faf0ce",
           "sourceBodyHash": "sha256:e335b1f6c8cbb675",
           "translatedAt": "2026-11-04T23:56:29.432052+00:00",
-          "translationLastCommit": "0e249950",
-          "translationLastModified": "2026-10-10T23:16:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 21992,
@@ -170359,8 +170401,8 @@
           "sourceContentHash": "sha256:9280fef1e637d1d1",
           "sourceBodyHash": "sha256:4b1b088d8a0fbe11",
           "translatedAt": "2026-11-05T00:31:43.843526+00:00",
-          "translationLastCommit": "eb2135ec",
-          "translationLastModified": "2026-07-25T06:59:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 20332,
@@ -176919,8 +176961,8 @@
           "sourceContentHash": "sha256:ed10e8c11ed48896",
           "sourceBodyHash": "sha256:4ef8874799781420",
           "translatedAt": "2026-11-05T08:50:48+08:00",
-          "translationLastCommit": "eb2135ec",
-          "translationLastModified": "2026-07-25T06:59:36+08:00",
+          "translationLastCommit": "b4716de9",
+          "translationLastModified": "2026-11-05T08:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 42453,
@@ -224890,10 +224932,10 @@
     },
     "Culture/中華職棒.md": {
       "zh": {
-        "lastCommit": "02ca87ba",
-        "lastModified": "2026-11-02T16:38:51+08:00",
-        "contentHash": "sha256:e51c494d0dd60536",
-        "bodyHash": "sha256:14343c2d821c678c"
+        "lastCommit": "4aa7893f",
+        "lastModified": "2026-11-04T15:02:32+08:00",
+        "contentHash": "sha256:fd4b2234f650988d",
+        "bodyHash": "sha256:4190f802fd8b497d"
       },
       "translations": {
         "en": {
@@ -224909,8 +224951,8 @@
           "footnoteDefs": 31,
           "bytes": 22939,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "ja": {
           "path": "ja/Culture/chinese-professional-baseball-league.md",
@@ -224925,8 +224967,8 @@
           "footnoteDefs": 31,
           "bytes": 21610,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "ko": {
           "path": "ko/Culture/chinese-professional-baseball-league.md",
@@ -224941,8 +224983,8 @@
           "footnoteDefs": 31,
           "bytes": 21690,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "es": {
           "status": "missing"
@@ -224960,8 +225002,8 @@
           "footnoteDefs": 31,
           "bytes": 25738,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "vi": {
           "status": "missing"
@@ -224979,8 +225021,8 @@
           "footnoteDefs": 31,
           "bytes": 23671,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "pt": {
           "path": "pt/Culture/chinese-professional-baseball-league.md",
@@ -224995,8 +225037,8 @@
           "footnoteDefs": 31,
           "bytes": 23392,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "hi": {
           "path": "hi/Culture/chinese-professional-baseball-league.md",
@@ -225011,8 +225053,8 @@
           "footnoteDefs": 31,
           "bytes": 43696,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "ar": {
           "path": "ar/Culture/chinese-professional-baseball-league.md",
@@ -225027,8 +225069,8 @@
           "footnoteDefs": 31,
           "bytes": 34023,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "ru": {
           "path": "ru/Culture/chinese-professional-baseball-league.md",
@@ -225043,8 +225085,8 @@
           "footnoteDefs": 31,
           "bytes": 38173,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         },
         "de": {
           "path": "de/Culture/chinese-professional-baseball-league.md",
@@ -225059,8 +225101,8 @@
           "footnoteDefs": 31,
           "bytes": 22633,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→31)"
         }
       }
     },

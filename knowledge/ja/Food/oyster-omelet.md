@@ -2,8 +2,7 @@
 title: 'オムレツから国民的美食へ：牡蠣オムレツの味覚変遷史'
 description: '食糧不足から生まれた台湾の屋台料理が、鄭成功時代の「煎鎚」から今日国内外で愛される国民的美食へと進化する過程。その裏に隠された粉とタレの味覚の秘密を紐解きます。'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     '牡蠣オムレツ',
@@ -16,15 +15,19 @@ tags:
     'タレ',
     '華元ポテトチップス',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/蚵仔煎.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/蚵仔煎.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: 2026-05-01T18:02:56+08:00
-featured: false
+translatedAt: '2026-11-04T23:47:14.622067+00:00'
 ---
 
 > **30秒概要**

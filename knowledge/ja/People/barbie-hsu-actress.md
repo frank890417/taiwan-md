@@ -1,19 +1,22 @@
 ---
-tags: ['徐熙媛', '台湾俳優']
-translatedFrom: People/徐熙媛.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:85fa468fad16ec09'
-sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: '2026-05-01T14:48:26+08:00'
-category: People
-date: 2026-04-28
 title: '徐熙媛（シュ・シーユェン）：おてんば美少女から「二死一重傷」の剛毅な女王へ'
 description: '1994年にS.O.S.でデビューし、2001年に『流星花園』（りゅうせいかえん）でアジア中を席巻し、2005年に『美容大王』で美学の代名詞を確立。2025年2月、48歳で逝去。美への極致の追求で人生の混乱に抗い続け、婚姻の嵐の中で「二死一重傷」の声明をもって現代女性の困境の最も深い断面を刻んだ。'
+date: 2026-04-28
+category: 'People'
+tags: ['徐熙媛', '台湾俳優']
+subcategory: '電影與戲劇'
 author: 'idlccp1984'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/徐熙媛.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:85fa468fad16ec09'
+sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
+translatedAt: '2026-11-04T23:39:19.175858+00:00'
 ---
 
 # 徐熙媛（シュ・シーユェン）：おてんば美少女から「二死一重傷」の剛毅な女王へ

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:46:05.473265+00:00'
+translatedAt: '2026-11-05T00:17:34.847019+00:00'
 ---
 
 > **30秒で概観：** パイナップルケーキは台湾の農業と製菓技術が交差する縮図です。1945年に台中の顔新発が創始し、1970年代にはパイナップルの輸出停滞を受けて冬瓜餡が開発され、2009年以降はサニーヒルズ（微熱山丘）の「在来種パイナップル」路線によって再び注目を集めました。現在ではこの小さな金のレンガの年産額が250億台湾ドルを超え、外国人旅行者にとって最も代表的な台湾の味となっています。
