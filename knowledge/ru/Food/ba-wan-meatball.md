@@ -2,9 +2,7 @@
 title: 'Бавань: от спасительного эликсира во время наводнения к ремеслу выживания, запечатлённому в следе трёх пальцев'
 description: 'В 1898 году катастрофическое наводнение у-сю породило тайваньское национальное блюдо «бавань». От спасительных мучных шариков, созданных писцом при храме Бэйдуй Шэньтань Фань Ваньцзюем, до вкусовой границы «на юге парят, на севере жарят» — это не просто эволюция вкуса, а стойкая память тайваньцев о выживании в лишениях.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'бавань',
@@ -13,15 +11,19 @@ tags:
     'тайваньские закуски',
     'наводнение у-сю',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-07-25T09:23:19+08:00'
+translatedAt: '2026-11-05T04:17:15.912623+00:00'
 ---
 
 > **Обзор за 30 секунд:**
