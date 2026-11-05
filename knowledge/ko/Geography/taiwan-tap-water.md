@@ -1,20 +1,22 @@
 ---
 title: '타이완 상수도: 수돗물 뒤의 백년 공사와 가뭄 불안'
 description: '1885년 타이베이 시가지에서 우물 파기, 여과, 소독이 시작되었고, 2026년 현재 우리는 여전히 수돗물을 배경음처럼 여긴다. 일제강점기 수로에서 1974년 설립된 타이완 상수도 회사, 그리고 가뭄, 누수, 원수 오염에 이르기까지, 이 글은 일상적이면서도 비일상적인 질문을 던진다: 한 방울의 물이 수돗물을 틀었을 때 제때 나오기까지 얼마나 많은 공공 공사를 거쳐야 하는가.'
-category: 'Geography'
-subcategory: '水文與水資源'
-tags: ['상수도', '수자원', '공공 공사', '가뭄', '식수']
-author: 'Taiwan.md Contributors'
 date: 2026-08-17
-readingTime: 8
+category: 'Geography'
+tags: ['상수도', '수자원', '공공 공사', '가뭄', '식수']
+subcategory: '水文與水資源'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-12T21:11:40+08:00'
+translatedAt: '2026-11-05T16:31:49.777770+00:00'
 ---
 
 > **30초 요약:** 1885년부터 1890년까지 타이베이에서는 우물을 파고, 여과하며, 소독하는 공공 급수 시도가 이미 존재했다. 1907년 신드신천(新店川) 수원지 공사는 현대적 상수도를 도시로 들여왔다. 전후 타이완 전역의 상수도 보급률은 약 10%에서 2013년 93.1%로 상승했지만, 물이 자연적으로 존재하는 것으로 여겨지게 된 것은 아니다. 오늘날의 수돗물 뒤에는 취수구, 정수장, 수만 킬로미터의 관로, 지역 간 조정, 그리고 매번 찾아오는 가뭄 시의 선택지가 연결되어 있다.
@@ -124,24 +126,24 @@ translatedAt: '2026-09-12T21:11:40+08:00'
 
 ## 참고 자료
 
-[^1]: [타이베이 상수도 사업처: 역사 연혁](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — 타이베이시 공식 급수 기관이 1885년 공공 급수, 1907년 신드신천 수원지, 페이더 원수관, 최근 급수 복원력에 이르기까지의 시간적 맥락을 정리함.
+[^1]: [타이베이 수도사업처: 역사 연혁](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — 타이베이시 공식 급수 기관이 1885년 공공 급수, 1907년 신뎬시 수원지에서 비취 원수관 및 최근 급수 회복력의 시간적 맥락까지 정리함.
 
-[^2]: [경제부 수리청: 우리나라 상수도 발전 개요 (하)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — 수리청 전자신문은 전후 급수 보급률 변화, 전성 정수장 통합, 타이완 상수도 회사 설립의 제도적 배경을 설명함.
+[^2]: [경제부 수리서: 우리나라 수도 발전 개설(하)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — 수리서 전자보가 전후 급수 보급률 변화, 전성 정수장 통합 및 타이완 수도 회사 설립의 제도적 배경을 설명함.
 
-[^3]: [타이완 상수도 회사: 타이완 상수도 사업 통계 연보](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — 국영 급수 회사가 공개한 연간 통계 포털로, 수원, 출수, 급수 인구, 보급률, 정수 시설, 관로 등 표지를 열거함.
+[^3]: [타이완 수도 회사: 타이완 수도 사업 통계 연보](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — 국영 급수 회사가 공개한 연간 통계 입구로, 수원, 배수, 급수 인구, 보급률, 정수 설비 및 관로 등의 표를 열거함.
 
-[^4]: [타이완 상수도 회사: 상수도 수자원 관리](https://www.water.gov.tw/esg/Contents?nodeId=8633) — 타이완 상수도 지속가능성 페이지는 141개 급수 시스템, 486개 정수장, 정수장 현대화, 누수 개선, 수질 관리 지표를 설명함.
+[^4]: [타이완 수도 회사: 타이수 수자원 관리](https://www.water.gov.tw/esg/Contents?nodeId=8633) — 타이수 지속가능성 페이지가 141개 급수 시스템, 486개 정수장, 정수장 현대화, 누수 개선 및 수질 관리 지표를 설명함.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — 영어 학술 논문은 타이완 재생수 기술, 산업 사례, 가뭄 및 물 부족 배경, 2031년 재생수 공급 목표를 회고함.
+[^5]: [대만의 재생수: 현황과 미래 전망](https://link.springer.com/article/10.1186/s42834-023-00177-8) — 영문 학술 논문이 대만의 재생수 기술, 산업 사례, 가뭄 및 물 부족 배경, 2031년 재생수 공급 목표를 회고함.
 
-[^6]: [우리 섬: 백년 대가뭄이 상례가 될 때? 회피할 수 없는 물의 난제](https://ourisland.pts.org.tw/content/9997) — 공시 심층 보도는 남부 타이완 가뭄, 감압 급수, 재생수, 부류수, 가뭄 대비 우물, 누수율의 공공 정책 맥락을 기록함.
+[^6]: [우리의 섬: 백년 대가뭄이 일상이 될 때? 피할 수 없는 물 난제](https://ourisland.pts.org.tw/content/9997) — 공영방송 심층 보도가 남부 대만 가뭄, 감압 급수, 재생수, 복류수, 항가뭄 우물 및 누수율의 공공 정책 맥락을 기록함.
 
-[^7]: [타이완 과학 기술 미디어 센터: 2021년 타이완 저수지 물 부족 가능성 원인 및 조정 메커니즘 전문가 의견](https://smctw.tw/9462/) — 수리, 환경, 문화 자원 전문가를 초청하여 가뭄과 물 부족을 구분하고, 저수지, 하천, 지하수, 관로 유지보수, 수비 조정을 논의함.
+[^7]: [대만 과학기술 미디어 센터: 2021년 대만 저수지 물 부족 가능 원인과 조도 메커니즘 전문가 의견](https://smctw.tw/9462/) — 수리, 환경, 문화 자원 전문가를 초청해 가뭄과 물 부족을 구분하고, 저수지, 하천, 지하수, 관로 유지보수 및 수가 조도를 논의함.
 
-[^8]: [리포트저: Data Reporter: 상호작용 지도가 10대 위험 유역을 밝히다](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — 취수구, 보호구역, 환경 벌칙 자료를 조사하여 원수 오염 위험을 분석하고, 급수 안전과 상류 토지 거버넌스의 충돌을 제시함.
+[^8]: [보도자: 데이터 리포터: 인터랙티브 지도가 10대 위험 유역을 드러내다](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — 취수구, 보호구역 및 환경 과태료 자료로 원수 오염 위험을 조사하고, 급수 안전과 상류 토지 거버넌스의 갈등을 제시함.
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — 타이완 상수도 영어 공식 페이지는 회사 설립 50주년 동안의 급수 보급, 관로 확장, 재해 대응, 기후 복원력 전략을 회고함.
+[^9]: [타이완 수도 회사: 회장 메시지](https://www.water.gov.tw/en/Contents?nodeId=4875) — 타이수 영문 공식 페이지가 회사 설립 50년간의 급수 보급, 관로 확장, 재난 대응 및 기후 회복력 전략을 회고함.
 
-[^10]: [수리청: 우리나라 상수도 발전 개요 (상)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — 수리청은 전쟁으로 인한 급수 시스템 손실, 전후 미국 원조 지원 하에 77개 농촌 상수도 시스템을 복구한 재건 단계를 설명함.
+[^10]: [수리서: 우리나라 수도 발전 개설(상)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — 수리서가 전쟁으로 인한 급수 시스템 손상과 전후 미국 원조 하에 77개 촌락 수도 시스템을 복구한 재건 단계를 설명함.
 
-[^11]: [수리청: 1952년 1월 - 성정부 건설청 공정총대 설립과 타이완 상수도 사업 발전](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — 수리청은 1946년부터 1974년까지의 시설 정비, 농촌 급수 보조, 공정총대, 공공공정국, 128개 정수장 통합을 정리함.
+[^11]: [수리서: 1952년 1월 - 성정부 건설청 공정총대 설립과 대만 수도 사업 발전](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — 수리서가 1946년부터 1974년까지의 설비 정비, 농촌 급수 보조, 공정총대, 공공공정국 및 128개 정수장 통합을 정리함.
