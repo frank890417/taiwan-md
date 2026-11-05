@@ -20,11 +20,13 @@ lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 25
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-26T23:53:47+08:00'
+translatedAt: '2026-11-05T07:06:50.621203+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Tháng bảy lịch âm, tháng ma được nhân dân Đài Loan gọi là, không phải là sự sợ hãi đơn thuần về thần thánh, mà là một quá trình "tập luyện chung sẻ" kéo dài hàng thế kỷ. Từ việc khai mở cửa sưu tại Tạ Nhất Vạp Thiên Vương Tạ Nhất Vương vào ban đêm, đến trò chơi cạnh hấp tại Heping trước ngày kết thúc kẻ thù, Đài Loan đã biến niềm tin tượng thành một nền văn hóa mang màu sắc địa phương độc đáo. Bài viết này sẽ đưa bạn đến thăm Alley nhìn biển Basuei với ngọn lửa, tại Heping Village với những giọt sweating, cũng như những điều bị ghi dấu trong DNA của con người qua ẩm thực và trang phục kỹ thuật số cấm tắc. Chúng ta sẽ khám phá cuộc "tiếp thị chính trị" có thể xuất phát từ triều đại Minh và hiểu cách hòn đảo này đạt được sự hòa hợp nhẹ nhàng qua tri thức "chào đón bằng trái tim, không để lại khách" qua các ranh giới thời gian.

@@ -1,10 +1,8 @@
 ---
 title: 'Quan Thánh Đế Quân: Một bại tướng đã trở thành vị thần vạn năng của Đài Loan như thế nào'
 description: 'Võ tướng thời Tam Quốc Quan Vũ bại trận và bị chém đầu, nhưng tại Đài Loan lại phát triển thành hệ thống tín ngưỡng “Ân Chủ Công” độc nhất trên thế giới — trong khi ngôi miếu Quan Đế đông khách nhất toàn Đài Loan thậm chí không cho phép đốt một nén hương.'
-date: '2026-03-26'
-author: 'Taiwan.md Contributors'
+date: 2026-03-26
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Quan Thánh Đế Quân',
@@ -13,15 +11,19 @@ tags:
     'tín ngưỡng dân gian',
     'văn hóa đền miếu',
   ]
-readingTime: 10
-lastVerified: '2026-03-26'
-lastHumanReview: false
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-26
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-05T08:19:20.749072+00:00'
 ---
 
 # Quan Thánh Đế Quân: Một bại tướng đã trở thành vị thần vạn năng của Đài Loan như thế nào

@@ -3,7 +3,6 @@ title: "Khách giáo tại Đài Loan: Từ huyền thoại 'phát thác mắt v
 description: "Năm 1865, Maxwell mở phòng khám ở phố Tây Nam, Tây Ninh, sau 23 ngày bị đóng lại do huyền thoại 'phát thác mắt và tim'. Hành trình từ sự hiểu lầm y tế, tia nhiều 20.000 răng, xung đột với đình sứ thời kỳ Nhật bản đến giáo hội 'bột' của Mỹ hậu chiến, ghi lại cách khách giáo biến hóa từ tôn giáo 'đông bắc' ngoại quốc thành động lực chính trị nền dân chủ địa phương Đài Loan."
 date: 2026-04-29
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Khách giáo',
@@ -17,16 +16,19 @@ tags:
     'Thời kỳ đế quốc Nhật Bản',
     'Giáo phái Mormon',
   ]
+subcategory: '宗教與民俗'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-07-25T02:52:45+08:00'
+translatedAt: '2026-11-05T07:03:37.242476+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Phát triển của khách giáo tại Đài Loan là một hành trình dài từ "hiểu lầm" đến "hợp tác". Các nhà truyền giáo thế kỷ 19 dùng "một tay Kinh Thánh, một tay chẻ răng" mở đường cho xã hội, Mai Hiếu chẻ hơn 20.000 răng. Qua thời kỳ đình sứ thời kỳ Nhật Bản và giai đoạn hỗ trợ Mỹ "giáo hội bột" sau chiến tranh, lực lượng này cuối cùng chuyển hướng chính trị vào thời kỳ chế độ cứu quyền, Giáo hội trưởng lão công bố tuyên bố "Quyền lợi nhân bản quyền", trở thành tiếng vang vô hình trong quá trình dân chủ hóa Đài Loan. Ngày nay, các nhà truyền giáo Mormon mặc áo sơ mi trắng, lái xe đạp trên phố phố, là nét đẹp riêng của Đài Loan.

@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: 'Bên cạnh chữ "Công" lớn là hai ô của mã Big5 A5 và 5C; ô 5C được mũi tên chỉ vào dấu gạch chéo ASCII 0x5C; bên dưới là kết quả xuất thực tế của Python, byte thứ hai của ba ký tự Hứa Công Cái đều là dấu gạch chéo'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:14+08:00'
+translatedAt: '2026-11-05T08:10:41.962330+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Tôi chạy tập lệnh trạng thái dịch thuật, màn hình hiển thị 4546, tất cả nằm trong `root`. CI trên GitHub với Linux báo xanh. Sau đó tôi mới nhìn rõ hai điều. Dấu gạch chéo ngược của đường dẫn Windows, tập lệnh không thể tách bằng dấu gạch chéo. Phần sau của mã Big5 "Công", bản thân nó chính là dấu gạch chéo ASCII `\`. Hai cơ chế khác nhau nhưng thường xuất hiện cùng nhau trên một máy Windows tiếng Trung phồn thể.
