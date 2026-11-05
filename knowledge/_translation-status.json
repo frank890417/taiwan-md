@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T20:59:11+08:00",
-    "zhCommitHead": "3d14d8cdb",
+    "lastUpdated": "2026-11-05T21:03:02+08:00",
+    "zhCommitHead": "f68f83962",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1085,
-        "stale": 39,
+        "fresh": 1086,
+        "stale": 38,
         "metadata_stale": 34,
         "missing": 4,
         "orphan": 0
@@ -59167,8 +59167,8 @@
           "sourceContentHash": "sha256:5dee1eed356027d4",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-11-05T11:25:09.666901+00:00",
-          "translationLastCommit": "e17c7fd1",
-          "translationLastModified": "2026-09-11T20:51:43+08:00",
+          "translationLastCommit": "f68f8396",
+          "translationLastModified": "2026-11-05T20:59:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 19844,
@@ -102709,20 +102709,18 @@
         "ja": {
           "path": "ja/People/froggy-chiu.md",
           "translatedFrom": "People/呱吉.md",
-          "sourceCommitSha": "b1ce053ac",
-          "sourceContentHash": "sha256:c94a65d34db3fe04",
-          "sourceBodyHash": "sha256:8811d54bcacf4b19",
-          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:14b3fdc10f7aebe5",
+          "sourceBodyHash": "sha256:c809a24a3b6ba0e4",
+          "translatedAt": "2026-11-05T19:46:01+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 26121,
+          "bytes": 23162,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/froggy-chiu.md",
