@@ -2,7 +2,7 @@
 title: 'O islã em Taiwan: dos ancestrais de sobrenome Kuo, de Quanzhou, à fé de 300 mil trabalhadores migrantes'
 description: 'Em 2025, a população muçulmana de Taiwan ultrapassou 300 mil pessoas, e as marcas do islã no país remontam a quatro séculos. Dos tabus nos ritos ancestrais das famílias Kuo de Lukang às grandes celebrações do fim do Ramadã no saguão de piso quadriculado em preto e branco da Estação Central de Taipé, Taiwan atravessa uma reconstrução religiosa que vai das “origens ancestrais ocultas” à transformação de uma terra estrangeira em lar.'
 date: 2026-04-28
-category: 'pt'
+category: 'Culture'
 tags:
   [
     'islã',
@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-05T07:23:49.936843+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O islã em Taiwan não é uma cultura estrangeira introduzida de fora, mas uma memória ancestral profundamente enraizada na linhagem do país. Dos descendentes dos “Hui de sobrenome Ting”, de Quanzhou, que chegaram a Taiwan com Koxinga entre o fim da dinastia Ming e o início da Qing, aos 260 mil trabalhadores migrantes muçulmanos indonésios que hoje sustentam os setores taiwaneses de cuidados de longa duração e pesca, essa fé percorreu em Taiwan uma extraordinária trajetória: do desaparecimento pela assimilação ao florescimento da diversidade.

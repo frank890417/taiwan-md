@@ -2,19 +2,21 @@
 title: 'Mitos dos Povos Indígenas de Taiwan: Do Dilúvio à Criação, uma Épica Oral'
 description: 'Os mitos dos povos indígenas de Taiwan não são apenas histórias antigas, mas fósseis vivos da memória étnica e da transmissão cultural, carregando a sabedoria e a visão de vida da coexistência com a natureza.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '族群文化'
 tags: ['Povos Indígenas', 'Mitologia', 'Literatura Oral', 'Cultura de Taiwan']
-readingTime: 8
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-07-25T00:12:03+08:00'
+translatedAt: '2026-11-05T07:17:54.948157+00:00'
 ---
 
 > **Resumo em 30 segundos:** Taiwan, esta ilha, não é apenas diversa geograficamente, mas também um tesouro de mitos culturais. Da criação a partir da rocha rachada dos Atayal, à lenda de atirar no sol dos Bunun, passando pelo grande dilúvio e casamento entre irmãos dos Amis, estas épicas orais não apenas moldaram a cosmovisão de cada grupo étnico, mas também refletem sua profunda interação e sabedoria de adaptação com o ambiente natural. Estes mitos são chaves indispensáveis para compreender a cultura dos povos indígenas de Taiwan.

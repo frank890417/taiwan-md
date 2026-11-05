@@ -1,10 +1,8 @@
 ---
 title: 'Movimento de Revitalização das Línguas Indígenas de Taiwan'
 description: 'O povo Thao de Taiwan tem apenas 4 falantes nativos, mas deu origem a um dos experimentos de revitalização linguística mais intensivos do mundo. Da Lei de Desenvolvimento das Línguas dos Povos Indígenas de 2017 às plataformas digitais de línguas indígenas, um resgate silencioso está se acelerando.'
-date: '2026-03-29'
-author: 'Taiwan.md Contributors'
+date: 2026-03-29
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'Povos Indígenas',
@@ -13,15 +11,19 @@ tags:
     'Política Linguística',
     'Patrimônio Cultural',
   ]
-readingTime: '8'
-lastVerified: '2026-03-29'
-lastHumanReview: 'false'
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-29
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-07-24T23:02:19+08:00'
+translatedAt: '2026-11-05T07:05:27.191062+00:00'
 ---
 
 # Movimento de Revitalização das Línguas Indígenas de Taiwan

@@ -19,13 +19,14 @@ featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
 readingTime: 25
-relatedDiary:
-  - 2026-07-23-214453-idlccp-clownfish-instrument
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/農曆七月.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:44ea24edbaea3139'
 sourceBodyHash: 'sha256:80374ac8eaee4681'
-translatedAt: '2026-07-24T21:09:07+08:00'
+translatedAt: '2026-11-05T07:07:34.831857+00:00'
 ---
 
 > **Resumo em 30 segundos:** O mês de julho lunar, popularmente conhecido em Taiwan como o "Mês dos Fantasmas", não tem como núcleo o simples medo do sobrenatural, mas sim um "exercício de coexistência" que perdura há séculos. Desde a "Abertura da Porta do Tigre" realizada tarde da noite no Templo Cheng Huang de Hsinchu, até a competição de "Captura do Totem" (Qiang Gu) em Toucheng, Yilan, na véspera da abertura dos portais espirituais, Taiwan transformou essa crença em uma cultura de forte identidade local. Este artigo levará você pelas chamas do beco Wanghai, pelo suor nas estruturas de oferenda e pelos tabus de vestuário e alimentação gravados no DNA cultural. Revelaremos como este fenômeno pode ter originado-se de uma "estratégia política" da dinastia Ming e entenderemos como esta ilha, com a sábia filosofia de "receber com intenção, mas não reter sem vontade", alcançou uma reconciliação social que atravessa o tempo e o espaço.
