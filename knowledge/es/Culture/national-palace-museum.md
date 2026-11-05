@@ -2,8 +2,7 @@
 title: 'Museo Nacional del Palacio'
 description: 'Es el «equipaje» más pesado de esta isla, y también el «espejo digital» más ligero. Desde las cajas de madera en medio del fuego bélico hasta los píxeles bajo la potencia de cómputo de la IA, el Museo del Palacio está tratando de definir, entre Waishuangxi en Taipéi y Taibao en Chiayi, qué significa «el Museo del Palacio de Taiwán».'
 date: 2026-04-19
-category: Culture
-subcategory: '藝術園區'
+category: 'Culture'
 tags:
   [
     'museo',
@@ -15,16 +14,20 @@ tags:
     'arte digital',
     'transformación',
   ]
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
-translatedFrom: Culture/國立故宮博物院.md
-sourceCommitSha: '4b6d28c5'
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/國立故宮博物院.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: 2026-05-02T02:50:57+08:00
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T08:25:57.753039+00:00'
 ---
 
 # Museo Nacional del Palacio: el largo viaje de cien años desde las cajas de madera en la guerra hasta los espejos de la IA

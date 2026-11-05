@@ -4,23 +4,27 @@ description: 'En 2025 la población musulmana de Taiwán superó los 300 000; 
 date: 2026-04-28
 category: 'Culture'
 tags:
-  - 'Islam'
-  - 'Musulmanes'
-  - 'Trabajadores migrantes'
-  - 'Apellido Guo de Lukang'
-  - 'Apellido Ding de Taixi'
-  - 'Historia de Taiwán'
+  [
+    'Islam',
+    'Musulmanes',
+    'Trabajadores migrantes',
+    'Apellido Guo de Lukang',
+    'Apellido Ding de Taixi',
+    'Historia de Taiwán',
+  ]
 subcategory: '宗教與民俗'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
-translatedAt: '2026-06-12T00:53:42+08:00'
+translatedAt: '2026-11-05T08:19:10.789719+00:00'
 ---
 
 > **Resumen en 30 segundos:** El islam en Taiwán no es una cultura extranjera, sino una memoria antigua enterrada en la sangre de la isla. Desde los descendientes de los “Hui‑Ding” de Quanzhou que llegaron con Zheng Chenggong a finales de la dinastía Ming, hasta los 260 000 trabajadores migrantes indonesios que hoy sostienen los servicios de cuidados a largo plazo y la pesca, esta fe ha experimentado un viaje fantástico desde la asimilación y desaparición hasta la floreciente pluralidad.
