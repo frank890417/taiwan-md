@@ -1,0 +1,28 @@
+id: 上新
+category: slang
+subcategory: 網路用語
+fork_type: E
+auto_convert: false
+display:
+  taiwan: 最新
+  china: 上新
+etymology:
+  origin: 這個詞在台灣進入公共討論，有一個日期：2026 年 6 月 29 日自由時報報導，國美館貼文用「上新啦～」宣傳科博館特展，網友在 Threads 檢舉，近 3 千個愛心，有人問「上新」到底是什麼，館方隨即更正為「最新展覽來囉～」。詞的來歷本輪沒有查到任何來源。
+  fork_cause: 未查得。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  誠信標註：「源自電商上架」是常見直覺，本輪沒有來源支持，不寫入。
+  四型誤判都未命中，也都未排除。台灣對應是館方的整句改寫，不是一對一的詞，
+  本條的價值在記下公部門被檢舉後改字這個時間點。
+pending_verification:
+  question: 「上新」的來歷是什麼？日源、方言源、港澳源都還沒排除。
+  needs: 找到中國側早期用例或辭書，以及台灣 2026 年以前的使用紀錄。
+  opened: '2026-11-05'
+sources:
+  - https://news.ltn.com.tw/news/politics/breakingnews/5487200
+  - https://www.setn.com/news/1864042
+added: '2026-11-05'
+updated: '2026-11-05'

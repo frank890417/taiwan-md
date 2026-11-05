@@ -1,0 +1,25 @@
+id: 乘務員
+category: daily-life
+subcategory: 交通
+fork_type: A
+auto_convert: false
+display:
+  taiwan: 空服員 / 車勤服務員
+  china: 乘務員
+etymology:
+  origin: 教育部《重編國語辭典修訂本》直接註明：「大陸地區指在列車、輪船、飛機、電車、公車上為乘客服務的人員。」在中國它是跨交通工具的總稱，台灣沒有這個總稱，而是按工具分開叫：飛機上是空服員，台鐵招募啟事寫的是「車勤服務員」，全文不見「乘務員」。
+  fork_cause: 一邊用一個總稱涵蓋所有交通工具，一邊依工具與業者分別命名，所以不是一對一的詞。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: stable
+notes: |
+  單看飛機的對照見 [空服員](空服員.yaml)（china: 飛機乘務員），本條記錄的是總稱本身。
+  高鐵的稱呼本輪只在搜尋摘要看到、對不到來源頁，所以不列入。
+  誠信標註：日文是否有同形詞本輪沒有查到來源，未排除日源。
+sources:
+  - https://dict.revised.moe.edu.tw/search.jsp?md=1&word=乘務員&qMd=0&qCol=1
+  - https://www.moedict.tw/c/乘務員.json
+  - https://www.1111.com.tw/news/jobns/150058
+added: '2026-11-05'
+updated: '2026-11-05'

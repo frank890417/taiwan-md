@@ -1,0 +1,27 @@
+id: 蹦迪
+category: slang
+subcategory: 休閒娛樂
+fork_type: E
+auto_convert: false
+display:
+  taiwan: 去夜店
+  china: 蹦迪
+etymology:
+  origin: 字面是「蹦」加上「迪斯可」的「迪」，《兩岸常用詞典》釋義為跳迪斯可舞，也指去迪斯可舞廳跳舞。到了當代中國，這個詞已不限迪斯可，虎嗅 2021 年的文章就拿它講夜店文化。台灣這邊同一件事說「去夜店」，英文借詞 clubbing 也通，2020 年 PTT 女孩版還有人得問「什麼是蹦迪?」，回文解釋「中國用語，clubbing的意思」。
+  fork_cause: 迪斯可舞廳時代的中國口語一路沿用到夜店時代，台灣走的是「夜店」這條稱呼，兩邊各自定型。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  SC 近 28 天（2026-10-06→11-03）有 13 次曝光，是讀者查到這裡來的詞。
+  誠信標註：維基詞典列有粵拼 bang1 dik6，這只是讀音，不足以證明粵語區用這個詞，
+  本條不下港澳源的判斷。詞形最早出現的時間本輪查無。台灣側主要證據是單一 PTT 串。
+sources:
+  - https://www.moedict.tw/c/蹦迪.json
+  - https://zh.wiktionary.org/wiki/蹦迪
+  - https://www.huxiu.com/article/448998.html
+  - https://www.ptt.cc/bbs/WomenTalk/M.1594224042.A.AEB.html
+  - https://www.ptt.cc/bbs/Gossiping/M.1786429519.A.DD4.html
+added: '2026-11-05'
+updated: '2026-11-05'

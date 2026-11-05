@@ -1,0 +1,25 @@
+id: 沒事
+category: daily-life
+subcategory: 日常用語
+fork_type: semantic
+auto_convert: false
+display:
+  taiwan: 沒關係
+  china: 沒事
+etymology:
+  origin: 「沒事」本身是古白話，《重編國語辭典修訂本》收錄，釋義「無事」，書證是《京本通俗小說》與《水滸傳》。2026 年 1 月 Threads 有人問「沒事」是不是支語，中時報導後 PTT 也吵起來。《兩岸常用詞典》列了五個義項，「沒有關係」這一義沒有地區標記，只有「向致謝的對方，表示沒什麼，不用客氣」這一義標「陸」。所以有分歧的只有別人道謝時回「沒事」這個用法。
+  fork_cause: 舊詞在中國多長出一個回應道謝的用法，台灣辭書沒有把它列為通用義項。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+status: stable
+notes: |
+  ⚠️ 部分誤判：把「沒事」整個詞當支語不成立，別人道歉時回「沒事」辭典不標地區。
+  爭議串裡有網友說「看情況」，直覺跟辭典結構吻合，但沒人講到道謝與道歉這條線。
+  誠信標註：地區標記是辭典判斷，不等於台灣沒人這樣說，本輪沒有語料頻率資料。
+sources:
+  - https://dict.revised.moe.edu.tw/dictView.jsp?ID=28599
+  - https://www.moedict.tw/c/%E6%B2%92%E4%BA%8B.json
+  - https://disp.cc/b/Gossiping/hUkB
+added: '2026-11-05'
+updated: '2026-11-05'
