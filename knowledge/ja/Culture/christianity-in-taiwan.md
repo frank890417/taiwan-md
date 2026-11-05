@@ -1,7 +1,8 @@
 ---
 title: 'キリスト教と台湾：「目と心を抉る」という噂から「新しく独立した国家」宣言まで'
 description: '1865年にマクスウェル（馬雅各）が台南の看西街に診療所を開いてから23日後、「目と心を抉る」という噂で強制閉鎖された。医療的誤解からマッカイ（馬偕）の2万本の抜歯、日本統治下の神社参拝衝突、米援「小麦粉教会」を経て、キリスト教がいかにして「外来の赤毛の蛮人」の宗教から台湾本土の民主化運動の重要な推進力へと変貌したかを記録する。'
-category: Culture
+date: 2026-04-29
+category: 'Culture'
 tags:
   [
     'キリスト教',
@@ -15,17 +16,19 @@ tags:
     '日本統治時代',
     'モルモン教',
   ]
-date: 2026-04-29
-lastVerified: 2026-04-29
-lastHumanReview: false
+subcategory: '宗教與民俗'
 author: 'idlccp1984'
 featured: false
+lastVerified: 2026-04-29
+lastHumanReview: false
 readingTime: 13
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
-translatedAt: '2026-06-11T16:38:27Z'
+translatedAt: '2026-11-05T07:06:28.463623+00:00'
 ---
 
 # キリスト教と台湾：「目と心を抉る」という噂から「新しく独立した国家」宣言まで

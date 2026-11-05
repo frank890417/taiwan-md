@@ -1,20 +1,24 @@
 ---
-title: '和碩聯合科技（Pegatron）- 電子機器受託製造の隠れたチャンピオン'
-description: 'ASUSから分社して生まれた受託製造大手であり、iPhone、ゲーム機、ノートPCの背後にいる見えない製造者、「電子五哥」の一社です'
+title: '和碩聯合科技：アップルのiPhone、任天堂のSwitchを組み立てる受託製造工場'
+description: '和碩聯合科技は台湾の電子受託製造メーカーであり、自社ブランドを持たず、専ら他社製品の組み立てを行っています。アップルのiPhoneおよびMacBook、任天堂Switch、ソニーPlayStation、マイクロソフトXboxなど、同社の生産ラインから出荷される機種は多岐にわたります。2008年に華碩から分離独立し、童子賢が会長を務め、2024年の売上高は約NT$1.3兆に達し、廣達、緯創、仁寶、英業達とともに「電子五大メーカー」と称されています。アップルが売上のほぼ半分を占め、最大の顧客であると同時に最大のリスクでもあります。'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
+tags: ['経済', '企業', '電子受託製造', '製造業', 'ODM']
 subcategory: '企業列傳'
-tags: ['経済', '企業', '電子機器受託製造', '製造業', 'ODM']
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-05-15T13:52:05+08:00'
+translatedAt: '2026-11-05T08:26:53.022564+00:00'
 ---
 
 > **30秒概要**
@@ -221,12 +225,12 @@ ESG概念が広がる中、グリーン製造能力を備えた受託製造企�
 
 ## 参考資料
 
-[^1]: [和碩聯合科技公式サイト](https://www.pegatroncorp.com/) — 和碩の企業概要、事業範囲および世界的な製造配置
+[^1]: [和碩聯合科技公式サイト](https://www.pegatroncorp.com/) — 和碩の企業概要、事業領域、およびグローバル製造拠点配置
 
-[^2]: [鉅亨網 — 2025年世界EMSメーカーランキング](https://www.cnyes.com/) — 2025年の最新データによれば、世界EMSランキングには調整があり、Wistronが世界第2位のEMSメーカーに躍進しました
+[^2]: [鉅亨網 — 2025年世界EMS企業ランキング](https://www.cnyes.com/) — 2025年最新データによると、世界EMSランキングが調整され、緯創が世界第2位のEMS企業に躍進しました。
 
-[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5cは2013年9月10日に正式発表され、2012年ではありません。和碩は主要な受託製造企業です
+[^3]: [ウィキペディア — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5cは2013年9月10日に正式発表され、2012年ではありません。和碩が主要な受託製造メーカーです。
 
-[^4]: [行政院 — 国家能源及減碳弁公室](https://www.ey.gov.tw/) — 童子賢は2024年に行政院国家能源及減碳弁公室主任委員に就任し、同時に和碩董事長も引き続き務めています
+[^4]: [行政院 — 国家エネルギーおよび減炭事務所](https://www.ey.gov.tw/) — 童子賢が2024年に行政院国家エネルギーおよび減炭事務所の主任委員に就任し、同時に和碩の董事長を務めています。
 
-[^5]: [Wikipedia — 和碩聯合科技](https://zh.wikipedia.org/wiki/和碩聯合科技) — 和碩が2008年にASUSから分社して設立されたこと、会社沿革および主要顧客に関する説明
+[^5]: [ウィキペディア — 和碩聯合科技](https://zh.wikipedia.org/wiki/和碩聯合科技) — 和碩が2008年に華碩から分離独立して設立されたこと、会社の沿革、および主要顧客について説明しています。

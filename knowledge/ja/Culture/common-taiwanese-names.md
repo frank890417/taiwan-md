@@ -1,20 +1,23 @@
 ---
 title: '菜市場名'
 description: '台湾の街頭で「淑芬」や「家豪」と一声叫ぶと、何人が振り返るでしょうか。これらの名前は台湾社会の縮図であり、世代ごとの「素晴らしい人生」への集団的想像を記録しています。'
-category: 'Culture'
-subcategory: '節慶與禮俗'
-tags: ['社会文化', '内政部', '命名文化', '鮭の乱', '淑芬', '家豪', '雅婷']
 date: 2026-04-19
-readingTime: 6
+category: 'Culture'
+tags: ['社会文化', '内政部', '命名文化', '鮭の乱', '淑芬', '家豪', '雅婷']
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-06-11T16:38:27Z'
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T07:24:22.760302+00:00'
 ---
 
 # 菜市場名
