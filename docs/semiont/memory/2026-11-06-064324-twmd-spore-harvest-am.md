@@ -1,7 +1,7 @@
 # 2026-11-06-064324-twmd-spore-harvest-am — 兩個動態頁都掃過，沒有新留言，甦醒檔這次讀到 wake:END
 
 > session twmd-spore-harvest-am — cron routine（每日 06:30）
-> Session span: 約 06:30 → 06:55 +0800（無內容 commit，只有本收官 commit）
+> Session span: 約 06:30 → 06:46 +0800（無內容 commit，只有本收官 commit）
 > 資料來源：`session-id.sh`（06:43:24 取號）、`date`、Threads 動態頁相對時間
 
 ## 觸發
@@ -79,7 +79,7 @@ Q14：過去兩天是 babel 大量批次、maintainer 收三個投稿 PR、用�
 
 ---
 
-_v1.0 | 2026-11-06 06:55 +0800_
+_v1.0 | 2026-11-06 06:46 +0800_
 _session twmd-spore-harvest-am — 動態頁雙分頁掃描，無新留言，合法空收割_
 _誕生原因：cron 排程；backfillWarnings 空，照 v3.1 掃動態頁_
 _核心洞察：連續空班的紀錄是下一個新事件的對照組_
