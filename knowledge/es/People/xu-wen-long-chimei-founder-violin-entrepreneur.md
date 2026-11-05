@@ -1,22 +1,31 @@
 ---
-title: 'Xu Wenlong: Tainan 1928, fundador de Chi Mei Industry (1959) y del museo con la mayor colección de violines del mundo'
-description: 'Nacido el 25/2/1928 en Tainan, fallecido el 18/11/2023 (95 años). Fundó Chi Mei Industry en octubre de 1959 (capital: 2 millones). A partir de 1990 adquirió violines, acumulando 1362 (la mayor colección del mundo). El 1/1/2015 abrió oficialmente el Museo Chi Mei (Parque Metropolitano de Tainan). Apasionado por el violín; el Museo Chi Mei abrió con entrada gratuita (política vigente P0⚠️ pendiente de confirmación).'
+title: 'Xu Wenlong: Tainan 1928, Chi Mei Corporation 1959, fundador del museo con más violines del mundo'
+description: 'Nació en Tainan el 25 de febrero de 1928, falleció el 18 de noviembre de 2023 (95 años). Fundó Chi Mei Corporation en octubre de 1959 (capital NT$2 millones). Desde 1990 adquirió violines, totalizando 1.362 (la mayor colección del mundo). El Museo Chi Mei abrió oficialmente el 1 de enero de 2015 (Parque Metropolitano de Tainan). Amante del violín, el Museo Chi Mei tiene entrada gratuita (política actual P0⚠️ pendiente de confirmación).'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Tecnología y empresa',
+    'Grupo Chi Mei',
+    'Empresario',
+    'Arte musical',
+    'Museo',
+    'Promoción cultural',
+    'Tainan',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '奇美集團', '企業家', '音樂藝術', '博物館', '文化推廣', '台南']
-readingTime: 7
-#   whats_excluded: "奇美集團各業務單元詳細財報；提琴收藏名單；博物館建築設計細節"
-#   where_it_hedges: "博物館現行免費開放政策P0⚠️建議確認是否仍持續"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-05T01:46:52.048979+00:00'
 ---
 
 # Xu Wenlong: Tainan 1928, fundador de Chi Mei Industry (1959) y del museo con la mayor colección de violines del mundo

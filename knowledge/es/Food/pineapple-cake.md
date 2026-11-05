@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:41:18.237408+00:00'
+translatedAt: '2026-11-05T01:56:19.243284+00:00'
 ---
 
 > **Resumen en 30 segundos:** El pastel de piña (鳳梨酥) es el punto de encuentro entre la agricultura y la repostería artesanal de Taiwán. Fundado en 1945 por Yan Xinfá en Taichung, en la década de 1970 desarrolló su cremoso relleno de calabaza china (冬瓜) ante la caída de las exportaciones de piña, y a partir de 2009 recuperó la atención del público gracias a la apuesta de Shan Zhi Qiu por la piña nativa. Hoy este pequeño lingote dorado supera un valor de producción anual de 25 mil millones de dólares taiwaneses y se ha convertido en el sabor más representativo de Taiwán para los visitantes extranjeros.

@@ -2,8 +2,7 @@
 title: 'El té Puchung de Mingjian: el "héroe anónimo" que sostiene el 80% del imperio taiwanés de las bebidas de té con leche'
 description: 'La controversia del incinerador de Mingjian en 2025 reveló inesperadamente que el 80% del té base de las bebidas de té con leche de Taiwán proviene de Mingjian, Nantou. Desde la reputación de "San Puchung" en la dinastía Qing hasta su cambio de nombre a "Té Changchung de Pino y Ciprés" en 1975, esta montaña baja de apenas 400 metros de altitud se encuentra inmersa en una encarnizada batalla por la supervivencia de su tierra natal del té, debido a la selección del emplazamiento del incinerador.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     'Mingjian',
@@ -12,15 +11,19 @@ tags:
     'Té Changchung de Pino y Ciprés',
     'Resistencia contra el incinerador',
   ]
-readingTime: 10
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Food/名間埔中茶.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/名間埔中茶.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: 2026-05-01T22:19:10+08:00
-featured: false
+translatedAt: '2026-11-05T02:35:45.103395+00:00'
 ---
 
 > **Resumen en 30 segundos:**
