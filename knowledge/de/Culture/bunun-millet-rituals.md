@@ -17,20 +17,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-15T06:51:35+08:00'
+translatedAt: '2026-11-05T01:50:23.792134+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Die Milchhirse-Rituale der Bunun sind keine Feste, die erst nach der Ernte stattfinden, sondern folgen dem Wachstumszyklus der Hirse mit Aussaat, Unkrautjäten, Ernte, Einlagerung und Gesang. Der Hirseanbau wurde durch Landpolitik, Fruchtwechsel und religiösen Wandel unterbrochen. Die heutige Revitalisierung knüpft über Samen, Schulen und Dorfäcker wieder an Pflanzen, Familien und Erinnerungen an.
+**30-Sekunden-Überblick:** Die Hirse-Rituale der Bunun sind kein Fest, das erst nach der Ernte stattfindet, sondern folgen dem Wachstumszyklus der Hirse mit Aussaat, Unkrautjäten, Ernte, Einlagerung und Gesang. Der Hirseanbau wurde einst durch Landpolitik, Fruchtwechsel und religiöse Veränderungen unterbrochen. Die heutige Wiederbelebung knüpft über Samen, Schulen und Stammesfelder wieder an Pflanze, Familie und Erinnerung an.
 
-In den Versuchsforsten von Xinyi im Landkreis Nantou gab es einst ein kleines, mit Vogelschutznetzen überspanntes Hirsefeld. 2022 wurden hier 28 lokale Nantou-Sorten ausgesät, die vom US-amerikanischen Saatgutzentrum (USDA) nach Taiwan zurückgebracht worden waren. Das war kein reines Landwirtschaftsexperiment, sondern der Einstieg für junge Bunun und Älteste, wieder über Hirse ins Gespräch zu kommen.[^1]
+Im Versuchsforst von Xinyi in Nantou gab es einst ein kleines Hirsefeld, das mit Vogelschutznetzen überspannt war. 2022 wurden dort 28 lokale Sorten aus Nantou ausgesät, die aus dem US-Saatgutzentrum nach Taiwan zurückgekehrt waren. Das war kein bloßes landwirtschaftliches Experiment, sondern der Einstieg für Bunun-Jugendliche und Älteste, wieder über Hirse zu sprechen.[^1]
 
-Ein und dieselbe Pflanze trägt im Leben der Bunun über neun verschiedene Namen, die unterschiedlichen Wachstumsphasen entsprechen. Sie ist nicht nur Nahrung, sondern auch Koordinate für Familienvermögen, soziale Beziehungen und rituelle Ordnung.[^2] Das Gegenintuitive daran: Der Bruch der Hirsekultur bedeutet nicht nur den Verlust einer Getreideart, sondern auch den Verlust des Haltpunkts einer Lebensweise, die Zeit über die Pflanze markiert.
+Derselbe Kulturpflanze haben im Leben der Bunun über neun verschiedene Namen, die unterschiedlichen Wachstumsphasen entsprechen. Sie ist nicht nur Nahrung, sondern auch Koordinate für Familienvermögen, soziale Beziehungen und rituelle Ordnung.[^2] Das Gegenintuitive daran: Der Bruch der Hirsekultur bedeutet nicht nur den Verlust eines Getreides, sondern lässt eine Lebensweise, die Zeit über die Pflanze markierte, ihren Ankerpunkt verlieren.
 
-Heute suchen die Menschen, die Hirse wieder anbauen, nicht nur nach einer alten Nutzpflanze. Sie fragen: Wenn die Rituale ursprünglich dem Wachstum der Hirse folgten – können die Dorfbewohner, wenn keine Hirse mehr angebaut wird, jene Zeit allein durch Bühnenlieder zurücksingen?
+Heute bauen diejenigen, die Hirse wieder anbauen, nicht nur eine alte Kulturpflanze an. Sie fragen: Wenn die Rituale ursprünglich dem Wachstum der Hirse folgten, können die Stammesmitglieder, wenn Hirse nicht mehr angebaut wird, jene Zeit allein durch Lieder auf der Bühne zurücksingen?
 
 ## Ein Jahr beginnt nicht mit dem Kalender
 
@@ -152,20 +154,20 @@ Daher kann man diese Rituale nicht nur fragen: „Wie viel davon ist noch übrig
 
 ## Quellen
 
-[^1]: [Nationaluniversität Taiwan: NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Englischer NTU-Campusbericht dokumentiert den Kontext der lokalen Hirsesorten 1977, der Rückführung 2011 und der Kooperation mit dem Xinyi-Dorf 2022 zur Wiederansiedlung.
+[^1]: [Nationaluniversität Taiwan: NTU und der Bunun-Stamm vereinen Kräfte zur Wiederbelebung der Hirse](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Der englische Campus-Newsletter der NTU dokumentiert den Kontext der lokalen Hirse-Samenquelle von 1977, der Wiedereinführung nach Taiwan 2011 und der Zusammenarbeit mit dem Xinyi-Stamm 2022 zur Wiederansiedlung.
 
-[^2]: [Hsu Ya-hui: Kulturökologische Studie zur Hirse der Bunun – am Beispiel des Dorfes Wangxiang, Nantou](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Dissertationszusammenfassung analysiert mit kulturökologischer Perspektive und Feldforschung Hirsennamen, Anbauweisen sowie soziale und spirituelle Bedeutung bei den Bunun.
+[^2]: [Xu Yahui: Kultur-ökologische Studie der Hirse-Kultur der Bunun – am Beispiel des Wangxiang-Stamms im Landkreis Nantou](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Die Zusammenfassung der Doktorarbeit analysiert mittels Kulturökologie und Feldforschung die Namen, Anbaumethoden sowie die soziale und spirituelle Bedeutung der Hirse bei den Bunun.
 
-[^3]: [Nationales Kulturgedächtnisarchiv: Haiduan-Halle – 2021 Festmahl X Jahreszeiten – Kuratorischer Text der Bunun-Kulturindustrie-Sonderschau Haiduan – Aussaatfest](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Kuratorischer Text zum Bunun-Aussaatfest Haiduan, dokumentiert schrittweise Segensgebet, Probeaussaat, Dämonenvertreibung, Gerätesegnung, Festgesang und Aussaatablauf.
+[^3]: [Nationales Kulturgedächtnisarchiv: Haiduan-Halle – 2021 Opferessen X Jahreszeit – Kuratorischer Text der Sonderausstellung zur Kulturindustrie der Bunun in der Gemeinde Haiduan – Aussaatfest](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Der kuratorische Text zum Aussaatfest der Bunun in der Gemeinde Haiduan dokumentiert schrittweise die Segensrituale, die Probeaussaat, die Austreibung böser Geister, die Segnung der Landwirtschaftsgeräte, die Opferlieder und den Ablauf der Aussaat.
 
-[^4]: [Bunun-Kulturwissensarchiv Yanping: Hu Chin-fu – Mein Verständnis der Hirsekultur](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Ich-Perspektive eines Bunun-Kulturüberlieferers, erläutert Ritualzeitfolge, Traumtabus, Familienarbeitsteilung, Arbeitsaustausch und Hirsesorten.
+[^4]: [Gemeinde Yanping Bunun-Kulturwissensarchiv: Hu Qin-Fu – Mein Verständnis der Hirse-Kultur](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Ersthand-Bericht eines kulturellen Überlieferers der Bunun, der die Abfolge der Rituale, Traumtabus, Familienarbeitsteilung, Arbeitsaustausch und Hirse-Sorten beschreibt.
 
-[^5]: [Nationales Kulturgüter-Netz: Bunun pasibutbut – Bittgesang um reiche Hirseernte](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Kulturgüter-Registrierungsseite zum traditionellen Bunun-Polyphoniegesang, liefert Liednamen, Überlieferungsgemeinschaften und historischen Erhaltungskontext.
+[^5]: [Nationale Kulturgüter-Website: Bunun pasibutbut – Gebetslied für eine reiche Hirseernte](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Die Registrierungsseite für Kulturgüter enthält Daten zum traditionellen mehrstimmigen Lied der Bunun, einschließlich Liedtitel, Überlieferungsgemeinschaften und historischem Erhaltungskontext.
 
-[^6]: [Kulturamt Hualien: Bunun-Musik pasibutbut (Hirse-Erntelied)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Hualien-Kulturgüterdaten erläutern Vorsänger- und Mehrstimmweise des Dorfes Gufeng, Überlieferungsgemeinschaften und Revitalisierungsarbeit seit den 1980er Jahren.
+[^6]: [Kulturamt des Landkreises Hualien: Bunun-Musik pasibutbut (Hirse-Erntelied)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Die Kulturgüter-Daten des Landkreises Hualien erläutern die Vorsänger- und Chormethode des Stammes Gufeng, die Überlieferungsgemeinschaften sowie die Wiederbelebungsarbeit seit den 1980er Jahren.
 
-[^7]: [Kulturministerium: Taiwan's Bunun people invited to perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Englischer Kulturministeriumsartikel dokumentiert 2022 Paris-Aufführung, rituelle Bedeutung von pasibutbut, Sechs- bis Zwölfstimmigkeit und Aufnahme durch Takashi Kurosawa.
+[^7]: [Kulturministerium: Taiwans Bunun eingeladen, in Paris aufzutreten](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Der englische Artikel des Kulturministeriums dokumentiert die Aufführung 2022 in Paris, die rituelle Bedeutung des pasibutbut, den Chor von sechs bis zwölf Personen und die Aufnahmedokumentation von Kurosawa Takachika.
 
-[^8]: [Taiwan Panorama: Renaissance of Bunun Millet Culture – Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Englischer Tiefenbericht 2023, verfolgt Hirse-Revitalisierung in Xinyi, Jiumei-Schulcurriculum, Ritualwiederaufnahme und Garden-Programm-Teilnehmer.
+[^8]: [Taiwan Panorama: Renaissance der Bunun-Hirse-Kultur – Anbau einheimischer Sorten im Garden-Programm](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Der englische Tiefenbericht von 2023 verfolgt die Wiederbelebung der Hirse in der Gemeinde Xinyi, den Lehrplan der Jiumei-Grundschule, die Wiederaufnahme von Ritualen und die heimkehrenden Teilnehmer des Garden Programms.
 
-[^9]: [Nationaluniversität Taitung: Wiederbelebung der Originalklänge und zeitgenössische Imagination der Zhuoxi-Bunun](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Universitätsveranstaltungsdaten erläutern Identitätsbedeutung von pasibutbut sowie Neudeutung traditioneller Musik der Zhuoxi-Bunun in zeitgenössischen Aufführungen.
+[^9]: [Nationaluniversität Taitung: Wiederbelebung der Originalklänge und zeitgenössische Vorstellungen der Bunun von Zhuoxi](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Die Veranstaltungsunterlagen der Universität erläutern die Bedeutung des pasibutbut für die Identität der Ethnie sowie die Neuinterpretation der traditionellen Musik der Zhuoxi-Bunun in zeitgenössischen Aufführungen.

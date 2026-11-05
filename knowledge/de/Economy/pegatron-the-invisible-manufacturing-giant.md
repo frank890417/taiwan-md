@@ -1,13 +1,13 @@
 ---
-title: 'Pegatron (und chinesisch: 和碩聯合科技) – der unsichtbare Champion im Elektronik-Dienstleistungsgeschäft'
-description: 'Vom Spin-off von ASUS hervorgegangen, ist Pegatron ein bedeutender Auftragsfertiger für iPhone, Spielekonsolen und Laptops – einer der „Elektronik-Fünf Brüder“'
+title: 'Pegatron: Auftragsfertiger, der iPhones für Apple und die Switch für Nintendo zusammenbaut'
+description: 'Pegatron ist ein taiwanischer Elektronik-Auftragsfertiger, der keine eigene Marke führt und sich auf die Montage von Produkten für andere Unternehmen spezialisiert hat: Modelle von Apples iPhone und MacBook, Nintendos Switch, Sonys PlayStation und Microsofts Xbox stammen von seinen Fertigungslinien. 2008 wurde es von Asus ausgegliedert und unabhängig, T.H. Tung ist Vorstandsvorsitzender. Der Umsatz 2024 betrug rund 1,3 Billionen New Taiwan Dollar. Zusammen mit Quanta, Wistron, Inventec und Compal wird es als einer der "Big Five der Elektronikfertigung" bezeichnet. Apple macht fast die Hälfte des Umsatzes aus, ist der größte Kunde und zugleich das größte Risiko.'
 date: 2026-03-20
 category: 'Economy'
 tags:
   [
     'Wirtschaft',
     'Unternehmen',
-    'Elektronik-Dienstleistungen',
+    'Elektronik-Auftragsfertigung',
     'Fertigungsindustrie',
     'ODM',
   ]
@@ -17,11 +17,15 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-09-11T16:37:41+08:00'
+translatedAt: '2026-11-05T02:42:55.778252+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -226,14 +230,14 @@ Der unsichtbare Champion-Status von Pegatron zeigt uns: In einer Ära der global
 
 ---
 
-## Quellenangaben
+## Quellen
 
-[^1]: [Offizielle Website von Pegatron](https://www.pegatroncorp.com/) — – Unternehmensprofil, Geschäftsbereiche und globale Produktionsstandorte
+[^1]: [Offizielle Website von Pegatron](https://www.pegatroncorp.com/) — Unternehmensprofil, Geschäftsbereiche und globale Fertigungsstandorte von Pegatron
 
-[^2]: [Ctrip Finance – Globale EMS-Rangliste 2025](https://www.cnyes.com/) — – Laut den neuesten Daten von 2025 hat sich die globale EMS-Rangliste leicht geändert, Wistron ist nun der zweitgrößte EMS-Anbieter weltweit
+[^2]: [Cnyes.com — Globales EMS-Hersteller-Ranking 2025](https://www.cnyes.com/) — Laut den neuesten Daten von 2025 hat sich das globale EMS-Ranking verändert; Wistron ist zum zweitgrößten EMS-Hersteller weltweit aufgestiegen.
 
-[^3]: [Wikipedia – iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — – Das iPhone 5c wurde am 10. September 2013 offiziell vorgestellt, nicht 2012; Pegatron war der Hauptfertiger
+[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — Das iPhone 5c wurde am 10. September 2013 offiziell vorgestellt, nicht 2012; Pegatron war der Hauptauftragsfertiger.
 
-[^4]: [Ministerium – Amt für nationale Energie und CO₂-Reduktion](https://www.ey.gov.tw/) — – Tony Hsien wurde 2024 zum Vorsitzenden des Amt für nationale Energie und CO₂-Reduktion ernannt und bleibt gleichzeitig Vorsitzender von Pegatron
+[^4]: [Exekutiv-Yuan — Büro für nationale Energie und Kohlenstoffreduktion](https://www.ey.gov.tw/) — Tong Zixian wurde 2024 zum Vorsitzenden des Büros für nationale Energie und Kohlenstoffreduktion des Exekutiv-Yuan ernannt, während er weiterhin Vorsitzender von Pegatron bleibt.
 
-[^5]: [Wikipedia – Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — – Gründung von Pegatron 2008 als Spinoff von ASUS, Unternehensgeschichte und wichtigste Kunden
+[^5]: [Wikipedia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron wurde 2008 durch Ausgliederung aus ASUS gegründet; Unternehmensgeschichte und Beschreibung der Hauptkunden.

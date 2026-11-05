@@ -1,6 +1,6 @@
 ---
-title: 'ASUS: Der Technologiegigant, der mit einem Motherboard begann'
-description: 'ASUS ist eine taiwanische Marke: 1989 von vier Ingenieuren in Taipeh gegründet, wuchs der Motherboard-Hersteller zum fünftgrößten PC-Anbieter der Welt.'
+title: 'ASUS: Von einer Wohnung in Taipeh zum weltweiten Marktführer bei Mainboards – eine taiwanische Marke'
+description: 'ASUS ist eine taiwanische Marke, die 1989 von vier ehemaligen Acer-Ingenieuren in einer Wohnung in der Minsheng-Oststraße in Taipeh gegründet wurde, mit einem Kapital von nur NT$10 Millionen. Das Unternehmen begann mit Mainboards, erreichte einen weltweiten Marktanteil von über 40 % und war 15 Jahre in Folge Marktführer. Bei den Auslieferungen von Personal Computern rangiert es weltweit auf Platz fünf. Anders als viele taiwanische Technologieunternehmen entschied sich ASUS früh für den Aufbau einer Eigenmarke und gegen reine Auftragsfertigung. 2008 spaltete es das Auftragsfertigungsgeschäft als Pegatron ab, um sich seither ganz auf die Markenführung zu konzentrieren.'
 date: 2026-03-20
 category: 'Economy'
 tags: ['Wirtschaft', 'Unternehmen', 'Computerhardware', 'Marke', 'Technologie']
@@ -10,15 +10,15 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'ccee078ef'
-sourceContentHash: 'sha256:316e1a5e36d3a78b'
-sourceBodyHash: 'sha256:fa3c598a1e033a14'
-translatedAt: '2026-09-12T04:55:06+08:00'
 evolveHistory:
   - date: 2026-11-04
-    action: seo
-    reason: 'SC 28 天 1,437 曝光 0 點擊；查詢「asus herkunft」132、「woher kommt asus」101 曝光。舊 description 寫 ASUS 來自 Hsinchu，與內文（Taipeh）不符；改成首句講台灣品牌、1989 年台北創立。title 不動'
+    action: 'seo'
+    reason: 'SC 28 天 3,291 曝光 12 點擊（0.36%），主查詢「华硕是哪个国家的」179、「華碩是台灣的嗎」109、「華碩是哪個國家的」76 曝光；舊格式 title 與 33 字罐頭 description 改成首句講台灣品牌、1989 年台北創立。舊描述的「新竹起步」與內文 §初創階段（台北民生東路）不符，一併更正'
+translatedFrom: 'Economy/台灣企業：華碩.md'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:ccde9abb3915fd43'
+sourceBodyHash: 'sha256:a7817277d4b3bdbe'
+translatedAt: '2026-11-05T02:52:03.095164+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -27,11 +27,11 @@ evolveHistory:
 
 ## Warum ist ASUS wichtig?
 
-Stellen Sie sich vor, Sie bauen einen Computer zusammen – welche Marken-Mainboards geben Ihnen das größte Vertrauen? Die Antwort ist wahrscheinlich ASUS. Diese taiwanesische Marke ist für globale PC-Enthusiasten, E-Sportler und Kreative ein Synonym für „Qualität“ und „Innovation“.
+Stellen Sie sich vor, Sie bauen einen Computer zusammen – welche Mainboard-Marke gibt Ihnen das größte Vertrauen? Die Antwort ist wahrscheinlich ASUS. Diese aus Taiwan stammende Marke ist weltweit zum Synonym für „Qualität“ und „Innovation“ bei PC-Spielern, E-Sport-Athleten und Kreativen geworden.
 
-Doch die Geschichte von ASUS ist weit mehr als die eines Motherboard-Herstellers. Es ist der Pionier der taiwanesischen Technologiebranche beim Übergang von der Auftragsfertigung zur Eigenmarke und eines der wenigen taiwanesischen Unternehmen, das in dem intensiven Konsumgütermarkt mit internationalen Giganten wie Apple, Samsung und Lenovo konkurrieren konnte.
+Doch die Geschichte von ASUS ist weit mehr als die eines Mainboard-Herstellers. Das Unternehmen ist ein Pionier des Wandels der taiwanesischen Tech-Branche vom Auftragsfertiger (OEM) zur Eigenmarke und gehört zu den wenigen taiwanesischen Firmen, die im hart umkämpften Consumer-Electronics-Markt direkt mit internationalen Giganten wie Apple, Samsung und Lenovo konkurrieren können.
 
-Von einem vierköpfigen Startup in einer Wohnung in Hsinchu bis zum heutigen Technologieimperium, das 68 Länder umfasst, spiegelt die Wachstumskurve von ASUS die Transformation der taiwanesischen Technologiebranche über mehr als drei Jahrzehnte wider. Als „Taiwan No.1“ zu einem Meme wurde, lieferte ASUS mit seiner tatsächlichen Marktentwicklung eine andere Antwort.
+Vom vierköpfigen Gründerteam in einer Wohnung in der Minsheng East Road in Taipeh bis zum heutigen, 68 Länder umfassenden Tech-Imperium – der Wachstumspfad von ASUS spiegelt die Metamorphose der taiwanesischen Tech-Industrie der letzten drei Jahrzehnte wider. Während „Taiwan No.1“ längst zum Gaming-Meme geworden ist, liefert ASUS mit tatsächlicher Marktleistung eine andere Antwort.
 
 ## Unternehmensübersicht: Vom Motherboard-Dominator zum Allround-Tech-Marke
 
