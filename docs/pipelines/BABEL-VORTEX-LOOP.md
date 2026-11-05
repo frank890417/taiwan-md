@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.99'
+current_version: 'v2.00'
 last_updated: 2026-10-16
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -54,6 +54,10 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
    10-24 有人手動拿鎖留下一個一般檔案，三支工具等滿逾時十九小時，34 篇驗過的譯文變孤兒，log 只寫
    「等不到 git 鎖」。現在 `gitlock.clear_impostor()` 在每次拿鎖前清掉一般檔案並印 🔴，pulse 對一般檔案
    與持有超過 20 分鐘的鎖印 🔴，dispatcher 等不到鎖時把那批放回待 commit。**手動拿鎖一律 `mkdir`／`rmdir`**。
+
+6. **那個回應是真的翻譯嗎**（v2.00，2026-11-06）：`/api/tags` 與 fleet 可達都只證明模型裝著。看
+   `babel-preflight.py` 的生成探測與 🔴 TCP 堆疊行；report 的 kept 要分引擎算，幾秒鐘的補丁沒叫模型，
+   會蓋住整篇任務每筆等滿 900 秒的失敗。11-05 06:19 起地端零產出十八小時，這兩班都印 healthy。
 
 **落地**（v1.65）：gap 是工作樹口徑——status.py 讀工作樹，沒 commit 的譯文照算 fresh。
 `babel-pulse` 的 `孤兒=N` 列出工作樹有、HEAD 沒有、也不在活產線批次裡的譯文；**孤兒 > 0 時
@@ -323,6 +327,7 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v2.00（2026-11-06 babel 夜班）：**地端掛了十八小時，自檢全綠**。preflight 加生成探測（ok／hung／unknown）與 TIME_WAIT 檢查，§三重巡檢加第 6 問。根因推論是開機第 53 天 TCP 回收停擺，待重開機驗證（OBSERVER-QUEUE #124）。
 - v1.99（2026-10-16 babel 夜班）：**只改了摘要的譯文，一律被整篇重翻**。10-15 一批 SEO description 改寫合進來，十二語累積 356 份 `metadata-stale`；dispatcher 只讓 `stale` 試章節補丁，metadata-stale 直接走整篇（~145 秒／份，沒改的正文還要冒整篇換詞的險）。status.py 的表格不印 metadata_stale 欄，表上每語只剩 1〜6 格 stale，babel-pulse 卻報 gap=410——兩把尺差在這一欄。改成 metadata-stale 也先交 `patch-translate.py`（只重翻 frontmatter，章節 byte-identical；帶債或 sha 不可解析照舊 exit 2 回整篇），en〈手搖飲〉實測 57 秒、verify-batch 0 錯，上線後第一筆 ja〈張懸與安溥〉23.8 秒。注意：輪中補貨（topup）讓第一輪可以跑二十多小時不結束，「輪與輪之間自比程式碼」的自動重生在這種情況下等不到，改 dispatcher 本體仍要 `launchctl kickstart -k` 一次，重啟前先記下工作樹的已驗未提交譯文，重啟後重跑閘門落地（本次 31 份全過）。
 - v1.98（2026-10-12 babel 夜班）：**量級閘門報 16 處的那一篇，逐句對中文錯了五十處以上**。夜班交接帶了兩晚的
   hi〈台灣新冠疫情與疫苗〉lakh 倍率錯，產線閒置（十二語 stale=0）時接手：`numeral-magnitude-check` 報 16 處

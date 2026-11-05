@@ -30,6 +30,7 @@ import shutil
 import socket
 import subprocess
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -99,6 +100,74 @@ def check_ollama() -> dict:
               and "embed" not in m.lower()]
     return {"available": bool(usable), "host": host,
             "models": usable[:8], "count": len(usable)}
+
+
+def probe_generation(host: str, model: str, read_s: float = 60) -> dict:
+    """真的叫模型吐字，走產線同一條 /api/chat 串流路徑。
+
+    2026-11-06 誕生：`/api/tags` 只證明模型清單讀得到。11-05 06:19 起本機
+    `gemma4:26b` 的請求全部掛住，模型吐完字後串流不收尾，每筆等到 15 分鐘逾時；
+    這段時間 preflight 連兩班印 ✅，因為它問的是「裝了沒」，不是「吐不吐得出來」。
+
+    三種結果刻意分開（REFLEXES #85：不知道要有自己的符號）：
+      ok      收到 done
+      hung    收到字、等不到 done：模型活著、請求收不了尾，這是確定的故障
+      unknown 一個字都沒收到：可能真壞，也可能排在長任務後面（NUM_PARALLEL=1），
+              判不了，不扣層數，只印提醒
+    """
+    body = json.dumps({"model": model, "stream": True,
+                       "messages": [{"role": "user", "content": "Say OK"}],
+                       "options": {"num_predict": 4}}).encode()
+    req = urllib.request.Request(f"{host}/api/chat", data=body,
+                                 headers={"Content-Type": "application/json"})
+    started = time.monotonic()
+    got_chunk = False
+    try:
+        with urllib.request.urlopen(req, timeout=read_s) as r:
+            while True:
+                line = r.readline()
+                if not line:
+                    break
+                got_chunk = True
+                if json.loads(line).get("done"):
+                    return {"state": "ok", "model": model,
+                            "seconds": round(time.monotonic() - started, 1)}
+        state, why = ("hung", "連線結束但沒有 done") if got_chunk else ("unknown", "空回應")
+    except (TimeoutError, socket.timeout):
+        state = "hung" if got_chunk else "unknown"
+        why = f"{read_s:.0f} 秒等不到 done" if got_chunk else f"{read_s:.0f} 秒沒有任何回應"
+    except Exception as e:
+        state, why = "unknown", str(e)[:80]
+    return {"state": state, "model": model, "why": why,
+            "seconds": round(time.monotonic() - started, 1)}
+
+
+def pick_probe_model(usable: list[str], issued: set[str] | None) -> str | None:
+    """優先測 fleet 真的核發的模型；量沒在派工的模型等於量替身。"""
+    live = sorted(set(usable) & (issued or set()))
+    return (live or usable or [None])[0]
+
+
+def check_tcp_stack(limit: int = 20000) -> dict:
+    """數 TIME_WAIT。健康的 Mac 約 30 秒就回收，正常只有幾百。
+
+    2026-11-06 誕生：開機第 53 天量到 256,717 個，而且只增不減；開機加 2^32 毫秒
+    正好落在 11-02 16:28，形狀符合 macOS TCP 毫秒計數器繞回的已知問題。這台機器
+    上所有對外連線與本機連線都會受影響，重開機才清得掉，所以印出來給人決定。
+    """
+    try:
+        out = subprocess.run(["netstat", "-an", "-p", "tcp"], capture_output=True,
+                             text=True, timeout=30).stdout
+    except Exception as e:
+        return {"checked": False, "error": str(e)[:80]}
+    count = sum(1 for line in out.splitlines() if line.rstrip().endswith("TIME_WAIT"))
+    days = None
+    boot = subprocess.run(["sysctl", "-n", "kern.boottime"], capture_output=True, text=True)
+    m = re.search(r"sec = (\d+)", boot.stdout)
+    if m:
+        days = round((time.time() - int(m.group(1))) / 86400, 1)
+    return {"checked": True, "time_wait": count, "uptime_days": days,
+            "exhausted": count > limit}
 
 
 def check_fleet() -> dict:
@@ -385,6 +454,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--strict", action="store_true")
+    ap.add_argument("--no-probe", action="store_true",
+                    help="跳過生成探測（最久約兩分鐘）；只想看清單與 key 時用")
     args = ap.parse_args()
 
     report = {
@@ -392,6 +463,7 @@ def main():
         "repo": str(REPO),
         "openrouter": check_openrouter_keys(),
         "ollama": check_ollama(),
+        "tcp_stack": check_tcp_stack(),
         "fleet": check_fleet(),
         "codex": check_codex(),
         "track_record": check_track_record(),
@@ -399,8 +471,14 @@ def main():
     }
     report["pool_eligibility"] = check_pool_eligibility(report["ollama"])
     report["cloud_pool"] = check_cloud_pool()
+    gen = None
+    if report["ollama"].get("available") and not args.no_probe:
+        model = pick_probe_model(report["ollama"]["models"], _fleet_issued_models())
+        gen = report["ollama"]["generation"] = probe_generation(report["ollama"]["host"], model)
+    # 清單讀得到但吐不出字的那層不算可用；unknown 判不了，不扣
     tiers_up = sum(1 for k in ("openrouter", "ollama", "fleet", "codex")
-                   if report[k].get("available"))
+                   if report[k].get("available")
+                   and not (k == "ollama" and gen and gen["state"] == "hung"))
     report["tiers_available"] = tiers_up
     report["verdict"] = ("no-compute" if tiers_up == 0
                          else ("degraded" if tiers_up < 2 else "healthy"))
@@ -412,6 +490,10 @@ def main():
                          report["fleet"], report["codex"])
         print(f"🗼 babel 宿主機算力自檢 — {report['host']}")
         print(f"   判定：{report['verdict']}（{tiers_up}/4 層可用）\n")
+        tcp = report["tcp_stack"]
+        if tcp.get("exhausted"):
+            print(f"   🔴 TCP 堆疊  TIME_WAIT {tcp['time_wait']:,} 個（開機 {tcp['uptime_days']} 天），"
+                  "連線回收不掉，地端請求會掛住；要重開機才清得掉，由人決定")
         if o.get("available"):
             print(f"   ✅ OpenRouter  {o['live']}/{o['count']} 把 key 通過，"
                   f"其中 {o['credited']} 把已儲值")
@@ -428,6 +510,14 @@ def main():
         if ol.get("available"):
             print(f"   ✅ 本機 ollama {ol['count']} 個可翻譯模型 @ {ol['host']}")
             print(f"      {', '.join(ol['models'])}")
+            if gen and gen["state"] == "ok":
+                print(f"      生成探測：{gen['model']} 吐字收尾 {gen['seconds']} 秒")
+            elif gen and gen["state"] == "hung":
+                print(f"      🔴 生成探測：{gen['model']} 吐了字但請求收不了尾（{gen['why']}），"
+                      "這層不計入可用；地端 worker 每筆會空等到逾時")
+            elif gen:
+                print(f"      ⚠️ 生成探測判不了：{gen['model']}（{gen['why']}），"
+                      "可能排在長任務後面，看 report 近 45 分有沒有實際翻譯")
         pe = report["pool_eligibility"]
         live = [b for b in pe.get("below_threshold", []) if b.get("issued") is not False]
         idle = [b for b in pe.get("below_threshold", []) if b.get("issued") is False]
