@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T20:18:44+08:00'
+translatedAt: '2026-11-05T04:56:28.401203+00:00'
 ---
 
 > Der Influencer-Werbemarkt in Taiwan umfasst etwa 210 Millionen US-Dollar und macht damit weniger als 1 % des US-Marktes aus. Ein mittelgroßer taiwanesischer Creator betreibt jedoch oft fünf bis sieben Plattformen gleichzeitig – YouTube, IG, Facebook, Threads, Podcasts, Blogs, LINE – was fast dem Doppelten der Anzahl vergleichbarer US-Creator entspricht. Ein extrem kleiner Markt, hochgradig fragmentierte Plattformen und eine Monetarisierung, die auf Affiliate-Marketing statt auf Abonnements setzt: Dies ist ein Spiel mit völlig anderen Regeln.

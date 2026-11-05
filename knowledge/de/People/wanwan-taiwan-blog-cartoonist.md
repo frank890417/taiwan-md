@@ -1,14 +1,14 @@
 ---
-title: 'Wānwān: Die kahloppige Figur, die der Generation der Angestellten ein Gesicht gab, und Hu Jiawei, die sie „zu einer historischen Persönlichkeit“ gemacht hat'
-description: 'In einer Ära, in der Büros noch über MSN kommunizierten, ersetzte eine Mitarbeiterin das Firmenlogo durch einen nackten, kahlen Kopf mit einem einzelnen lockigen Haar, um für sie zu rufen: „Ich will Feierabend machen.“ Hu Jiawei, die diese Figur zeichnete, entwickelte sich von einer Designassistentin mit 9.000 Taelen pro Monat zum Pionier der taiwanesischen Online-Grafik und Textkreativität, deren Blog einst über hundert Millionen Aufrufe erreichte. Die kahle Figur bleibt ewig jung, aber die Künstlerin reift; daher ließ sie die Figur gemeinsam mit sich „als historische Persönlichkeit“ aussteigen.'
+title: 'Wanwan: Hu Chia-weis kahlköpfige Figur für die MSN-Generation und die Entscheidung, sie „zur historischen Figur“ werden zu lassen'
+description: 'Wanwan, bürgerlich Hu Chia-wei, ist die Pionierin der taiwanesischen Internet-Text-Bild-Kreation. Anfang der 2000er Jahre wurde ihre kahlköpfige Figur von Büroangestellten als MSN-Profilbild verwendet, um für sie „Ich will Feierabend“ zu sagen; 2007 wurde ihr Blog der erste taiwanesische Blog mit über 100 Millionen Aufrufen, später expandierte sie zu LINE-Stickern und WEBTOON. Nachdem sie Mutter wurde, verlagerte sich ihr Schaffen auf den Familienalltag, und sie entschied, die ewig junge kahlköpfige Figur gemeinsam mit sich selbst zurückzuziehen, „zu einer historischen Figur zu werden“.'
 date: 2026-06-29
 category: 'People'
 tags:
   [
-    'Wānwān',
-    'Hu Jiawei',
+    'Wanwan',
+    'Hu Chia-wei',
     'Illustration',
-    'Grafik und Textkreativität',
+    'Text-Bild-Kreation',
     'MSN-Ära',
     'Internetkultur',
   ]
@@ -19,26 +19,34 @@ lastVerified: 2026-06-29
 lastHumanReview: false
 readingTime: 13
 researchReport: '彎彎'
+image: '/article-images/people/wanwan-2008-book-fair.webp'
+imageCredit: 'Rico Shen'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg'
 relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「彎彎 SEO 優化」條目。SC 28 天 7,059 曝光 108 點擊（1.53%），查詢「彎彎」4,627、「彎彎近況」428、「胡家瑋」252 曝光；title 把胡家瑋移到前段，description 第一句先講本名與圖文作家身分，帶 MSN、部落格、貼圖座標與現況，私人爭議不進 title／description'
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: 'ad1003d60'
-sourceContentHash: 'sha256:badc44913c40a806'
-sourceBodyHash: 'sha256:53b0bf5bcb21ad37'
-translatedAt: '2026-10-15T02:35:20.247138+00:00'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:6d7c4f0a7bc27360'
+sourceBodyHash: 'sha256:0ccf79c2a83c6e98'
+translatedAt: '2026-11-05T04:45:48.020975+00:00'
 ---
 
-# Wānwān: Die kahloppige Figur, die der Generation der Angestellten ein Gesicht gab, und Hu Jiawei, die sie „zu einer historischen Persönlichkeit“ gemacht hat
+# Wānwān: Hu Jiaweis Glatzkopf für die MSN-Generation und die Entscheidung, ihn „zu einer historischen Figur werden zu lassen“
 
-Zu Beginn der 2000er Jahre öffnete ein Büroangestellter in Taipeh seinen Computer und meldete sich bei MSN Messenger an. Er ersetzte sein Firmenlogo durch eine kleine Figur: nackt, mit einem runden kahlen Kopf, nur einem einzelnen lockigen Haar auf dem Scheitel und einem halb sterbenden Ausdruck im Gesicht, begleitet von drei Wörtern: „Ich will Feierabend machen.“
+Anfang der 2000er Jahre öffnete ein taipeher Büroangestellter seinen Computer und meldete sich bei MSN Messenger an. Er wechselte sein Profilbild zu einer kleinen Figur: nackt, mit rundem Glatzkopf, auf dem nur ein einzelnes lockiges Haar stand, und einem halb tot aussehenden Gesichtsausdruck, daneben die drei Zeichen: „Ich will Feierabend“.
 
-Er wagte es nicht, seinen Chef das zu sagen. Aber diese kahle Figur sagte es für ihn.
+Er traute sich nicht, das wirklich zu seinem Chef zu sagen. Aber der Glatzkopf sagte es für ihn.
 
-Es war eine Zeit, in der man Mobiltelefone nur zum Telefonieren und SMSen benutzte. Es gab keine LINE-Sticker, keine Storys; alle Emotionen im Büro wurden in einem noch nicht beendeten MSN-Fenster unterdrückt. Und diese kahle Figur (die später von allen „Wānwān“ genannt wurde) rief in diesem kleinen Rahmen für die Büros ganz Taiwans: beschäftigt, müde, traurig, erschöpft, genervt, gelangweilt [^1].
+Das war die Zeit, in der Handys nur telefonieren und SMS schreiben konnten. Es gab keine LINE-Sticker, keine Stories, all die Emotionen in den Büros lasteten in einem MSN-Fenster, das man noch nicht schließen konnte, weil Feierabend noch nicht war. Und genau in dem kleinen Kästchen dieses Fensters schrie der Glatzkopf (den später alle „Wānwān“ nannten) all das heraus, was Taiwans Büros bewegte: beschäftigt, müde, traurig, erschöpft, genervt, gelangweilt[^1].
 
-![2008 Taipei International Book Fair, Wānwān am United Online Stand](/article-images/people/wanwan-2008-book-fair.webp)
-_Taipei International Book Fair 2008, Wānwān am UDN-Stand. — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+![2008 Taipei International Book Exhibition, Wānwān at the UDN booth](/article-images/people/wanwan-2008-book-fair.webp)
+_2008 auf der Taipei International Book Exhibition, Wānwān am Stand von United Daily News (UDN). — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-> **Kurzfassung:** Wānwān, deren bürgerlicher Name Hu Jiawei ist, ist die Pionierin der taiwanesischen Online-Grafik und Textkreativität. Sie begann als Designassistentin mit einem Gehalt von 9.000 Taelen pro Monat, die „täglich auf Baustellen herumrollte“, doch durch Langeweile zeichnete sie einige kleine Bilder für MSN, die in ganz Taiwan populär wurden. Ihr persönlicher Blog erreichte 2007 über hundert Millionen Aufrufe und war der erste taiwanesische Blog mit dieser Reichweite; sie bewies, dass „Zeichnen zum Leben reichen kann“, und inspirierte eine ganze Generation von Grafik- und Textkreativen. Was sie am bewegendsten macht, ist ihre Wahl bezüglich ihrer eigenen Figur: Die kahle Figur bleibt ewig jung, aber die Künstlerin reift; daher ließ sie die Figur gemeinsam mit sich „als historische Persönlichkeit“ aussteigen.
+> **30-Sekunden-Überblick:** Wānwān, bürgerlich Hu Jiawei, ist die Pionierin von Taiwans Internet-Grafik-und-Text-Kreation. Sie begann als Designassistentin mit einem Monatsgehalt von NT$9.000, die „jeden Tag auf der Baustelle schuftete“, und wurde zufällig in ganz Taiwan berühmt, weil sie aus Langeweile ein paar kleine Bilder zeichnete, die ihrer Stimmung entsprachen, und sie auf MSN hochlud. Ihr persönlicher Blog wurde 2007 zum ersten Blog in Taiwan, der die 100-Millionen-Besucher-Marke knackte; sie bewies, dass „man vom Zeichnen leben kann“, worauf eine ganze Generation von Grafik-und-Text-Kreatoren folgte. Das Rührendste an ihr ist die Entscheidung für ihre eigene Figur: Der Glatzkopf bleibt für immer unschuldig und altert nicht, aber die Person, die ihn zeichnet, wird erwachsen und müde; darum sagte Hu Jiawei, sie wolle die Figur gemeinsam mit sich selbst von der Bühne gehen lassen, „zu einer historischen Figur werden“.
 
 ## Ein lockiges Haar, eine nackte kleine Figur
 

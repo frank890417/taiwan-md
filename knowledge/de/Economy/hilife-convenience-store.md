@@ -20,11 +20,13 @@ lastVerified: 2026-07-21
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Economy/萊爾富.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
-translatedAt: '2026-09-21T00:58:38+08:00'
+translatedAt: '2026-11-05T05:03:24.335933+00:00'
 ---
 
 > **Kurzfassung:** Hi-Life, das 1989 in Dihua Street gegründete Unternehmen, ist die erste und einzige rein lokale Marke unter den vier großen Convenience Stores in Taiwan. Es ist kein Produkt aus Lizenzierung durch ausländische Investoren, sondern ein Ergebnis der Philosophie „lokale Kultur, globale Sichtweise“ des Hauses Wang von Guangquan. Obwohl die Anzahl der Filialen immer auf dem dritten oder vierten Platz lag, war Hi-Life ein Pionier bei der Einführung von „vorbestellten Neujahrsgerichten“ und „Multimedia-Terminals“. Im Jahr 2023 wechselte das Eigentum vom Haus Wang von Guangquan zur Federation Group; dieser alteingesessene C-Store mit „rotem Hintergrund“ verwandelt sich allmählich in eine physische Vorposten für Finanzen und digitale Zahlungen mit „blaugrünem Erscheinungsbild“. Dieser Deal ist nicht nur ein Kapitalfluss, sondern auch ein Experiment darüber, wie der „lokale Einzelhandelsgeist“ in der neuen Ära überlebt.
