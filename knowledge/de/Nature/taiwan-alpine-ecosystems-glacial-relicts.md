@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 11
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T05:51:21.532442+00:00'
 ---
 
 # Die Hochgebiete Taiwans und die glazialen Relikte

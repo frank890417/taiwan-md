@@ -18,11 +18,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 12
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Society/當兵.md'
-sourceCommitSha: '9436a3296'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:065b9ed7dbe59fd9'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
-translatedAt: '2026-11-02T20:22:56.704544+00:00'
+translatedAt: '2026-11-05T06:37:05.022254+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Das Wehrpflichtsystem Taiwans ist die tiefgreifendste soziale Marke dieser Insel in mehr als einem halben Jahrhundert. Vom „Drei-Jahres-Soldaten“ während der Kriegsrechtszeit bis zur heutigen Wiederherstellung der einjährigen Dienstpflicht spiegelt dies nicht nur eine Änderung der Dienstzeiten wider, sondern zeigt die reale Reaktion Taiwans auf geopolitischen Druck. Dieser Text führt Sie von den Schockrufen beim Losverfahren zum modernen Einsatzszenario bei den Han-Kuang-Manövern, bei dem sogar Supermärkte trainiert werden, und analysiert eingehend die Befreiungskriterien, den Trainingsplan, verschiedene Ersatzdienstformen und die praxisorientierte Transformation der neuen Einberufungen.

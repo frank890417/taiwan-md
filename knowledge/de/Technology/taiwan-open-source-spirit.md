@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣開源精神.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-05T05:22:03.053660+00:00'
 ---
 
 > Die Größe der Softwareindustrie in Taiwan ist nicht weltweit führend, aber über 44.000 Nutzer markieren Taiwan auf GitHub; die Community-Hackathons haben kumulativ mehr als 70 Veranstaltungen und Tausende von Beitragenden gesehen – fast alle sind Privatentwickler, die nach Feierabend aus eigener Tasche zahlen. Dieser Artikel beleuchtet nicht nur „g0v“, sondern zeichnet eine vollständige Landkarte der Open-Source-Kultur Taiwans aus den vier Blickwinkeln: Mensch, Gemeinschaft, Bildung und Industrie.
