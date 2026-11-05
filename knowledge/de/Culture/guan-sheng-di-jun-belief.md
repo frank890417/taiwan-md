@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-26
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T14:00:33.313988+00:00'
 ---
 
 # Guan Sheng Di Jun: Wie ein besiegter General zu Taiwans allzuständigem Gott wurde
