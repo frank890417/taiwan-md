@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
-translatedAt: '2026-07-25T03:42:36+08:00'
+translatedAt: '2026-11-05T05:44:11.179316+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

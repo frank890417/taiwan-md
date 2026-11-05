@@ -3,26 +3,30 @@ title: 'Báo Đài Loan: Một tờ báo đã sống một trăm bốn mươi n�
 description: '1885, nhà truyền giáo Anh Thomas Barclay đã in tờ báo đầu tiên của Đài Loan bằng chữ Bạch Vua Tự tại Tainan. Tờ báo này đã bị chính quyền Nhật dừng phát hành, bị Đảng Dân Nhiên cấm sử dụng ngôn ngữ bản địa, và vào năm 1987 bị Tổng chỉ huy Quân đội thu giữ vì báo cáo sự kiện 228. Mỗi lần bị áp bức, nó lại được tái sinh. Năm 2025, tờ báo đã tròn 140 tuổi, và trong phần phụ đề đang bàn về AI tạo sinh.'
 date: 2026-04-29
 category: 'Culture'
-subcategory: '媒體與出版'
 tags:
-  - 'Truyền thông'
-  - 'Báo Đài Loan'
-  - 'Bạch Vua Tự'
-  - 'Giáo Hội Lão'
-  - 'Tự do ngôn luận'
-  - 'Sự kiện 228'
-  - 'Tiếng Đài Loan'
-  - 'Chính sách ngôn ngữ'
+  [
+    'Truyền thông',
+    'Báo Đài Loan',
+    'Bạch Vua Tự',
+    'Giáo Hội Lão',
+    'Tự do ngôn luận',
+    'Sự kiện 228',
+    'Tiếng Đài Loan',
+    'Chính sách ngôn ngữ',
+  ]
+subcategory: '媒體與出版'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/台灣教會公報.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3439ffa9774025fa'
 sourceBodyHash: 'sha256:2e121ca67feccc95'
-translatedAt: '2026-07-25T15:39:12+08:00'
+translatedAt: '2026-11-05T05:25:31.467973+00:00'
 ---
 
 > **30 giây tổng quan:** Vào ngày 12 tháng 6 năm 1885 (năm thứ 11 của triều đại Quang Hưu), nhà truyền giáo Anh Thomas Barclay của Giáo Hội Lão đã phát hành Báo Đài Loan tại Tainan, in bằng chữ Bạch Vua Tự (Pe̍h-ōe-jī), là tờ báo đầu tiên trong lịch sử Đài Loan. Tờ báo này đã trải qua thời kỳ thuộc địa Trung, thời kỳ Nhật, và thời kỳ độc tài sau chiến tranh; nó đã bị ngừng phát hành hai lần, bị cấm sử dụng ngôn ngữ bản địa, và bị Tổng chỉ huy Quân đội thu giữ toàn bộ, nhưng vẫn tiếp tục xuất bản cho đến nay. Năm 2025, tờ báo đã tròn 140 tuổi, là tờ báo định kỳ tồn tại lâu nhất hiện nay. Phần phụ đề của nó bao quát mọi chủ đề từ thần học đến xã hội, và từ năm 2022 trở đi thậm chí đã bắt đầu đăng tải các bài bình luận về AI tạo sinh.

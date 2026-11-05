@@ -1,20 +1,22 @@
 ---
 title: 'Bản đồ văn hóa 16 dân tộc bản địa Đài Loan'
 description: '“16” không phải là một con số hình thành tự nhiên, mà là kết quả của thương lượng. Từ dân tộc Amis với 210.000 người đến dân tộc Kanakanavu chỉ có 441 người, chiều sâu văn hóa của các dân tộc bản địa Đài Loan vượt xa bất kỳ danh mục chính thức nào.'
-date: '2026-03-29'
-author: 'Taiwan.md Contributors'
+date: 2026-03-29
 category: 'Culture'
-subcategory: '族群文化'
 tags: ['Dân tộc bản địa', 'Văn hóa', 'Lễ hội', 'Ngôn ngữ', 'Sáng tác đương đại']
-readingTime: '9'
-lastVerified: '2026-03-29'
-lastHumanReview: 'false'
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-29
+lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-07-18T18:59:51+08:00'
+translatedAt: '2026-11-05T06:04:15.839466+00:00'
 ---
 
 # Bản đồ văn hóa 16 dân tộc bản địa Đài Loan

@@ -3,7 +3,6 @@ title: 'Từ vựng mượn ngoại và hiện tượng tiếp xúc ngôn ngữ 
 description: 'Từ bữa ăn nhẹ đến video: Câu chuyện lịch sử tiếp xúc ngôn ngữ của một hòn đảo, hé lộ cách Đài Loan trở thành phòng thí nghiệm hòa trộn từ vựng mượn ngoại thành công nhất thế giới'
 date: 2026-03-23
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'Ngôn ngữ học',
@@ -12,15 +11,19 @@ tags:
     'Tiếp xúc ngôn ngữ',
     'Từ vựng mượn ngoại',
   ]
+subcategory: '語言與文字'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-07-25T05:00:07+08:00'
+translatedAt: '2026-11-05T05:46:23.620465+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Hiện tượng từ vựng mượn ngoại mà người Đài Loan thường chỉ trích nhất, thực ra Đài Loan chính là phòng thí nghiệm hòa trộn từ vựng mượn ngoại thành công nhất thế giới.
