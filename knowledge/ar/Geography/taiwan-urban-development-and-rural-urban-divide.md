@@ -18,11 +18,13 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: 'f45a19331'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:bfa78a33fd163a9a'
-sourceBodyHash: 'sha256:0b5e552dfa32258f'
-translatedAt: '2026-09-29T05:30:13+08:00'
+sourceBodyHash: 'sha256:aa0440f383f174b1'
+translatedAt: '2026-11-05T04:44:32.875072+00:00'
 ---
 
 # التطور الحضري في تايوان والفجوة بين الريف والمدينة
