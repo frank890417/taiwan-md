@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T05:48:23+08:00",
-    "zhCommitHead": "38e6c50dc",
+    "lastUpdated": "2026-11-06T06:31:44+08:00",
+    "zhCommitHead": "5d98f6a9d",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,21 +20,37 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1094,
+        "fresh": 1095,
         "stale": 29,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1098,
-        "stale": 29,
+        "fresh": 1099,
+        "stale": 28,
         "metadata_stale": 31,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
+        "total_zh": 1162,
+        "fresh": 1099,
+        "stale": 32,
+        "metadata_stale": 27,
+        "missing": 4,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1162,
+        "fresh": 1091,
+        "stale": 31,
+        "metadata_stale": 34,
+        "missing": 6,
+        "orphan": 0
+      },
+      "fr": {
         "total_zh": 1162,
         "fresh": 1098,
         "stale": 32,
@@ -42,51 +58,35 @@
         "missing": 4,
         "orphan": 0
       },
-      "es": {
-        "total_zh": 1162,
-        "fresh": 1089,
-        "stale": 33,
-        "metadata_stale": 34,
-        "missing": 6,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1162,
-        "fresh": 1097,
-        "stale": 33,
-        "metadata_stale": 28,
-        "missing": 4,
-        "orphan": 0
-      },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1082,
+        "fresh": 1084,
         "stale": 30,
-        "metadata_stale": 44,
+        "metadata_stale": 42,
         "missing": 6,
         "orphan": 0
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1089,
-        "stale": 37,
-        "metadata_stale": 31,
+        "fresh": 1091,
+        "stale": 36,
+        "metadata_stale": 30,
         "missing": 5,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1091,
+        "fresh": 1093,
         "stale": 34,
-        "metadata_stale": 33,
+        "metadata_stale": 31,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1087,
-        "stale": 38,
-        "metadata_stale": 33,
+        "fresh": 1089,
+        "stale": 37,
+        "metadata_stale": 32,
         "missing": 4,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1104,
+        "fresh": 1105,
         "stale": 26,
-        "metadata_stale": 28,
+        "metadata_stale": 27,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1079,
+        "fresh": 1080,
         "stale": 35,
-        "metadata_stale": 44,
+        "metadata_stale": 43,
         "missing": 4,
         "orphan": 0
       }
@@ -21314,20 +21314,18 @@
         "ko": {
           "path": "ko/Economy/pegatron-the-invisible-manufacturing-giant.md",
           "translatedFrom": "Economy/台灣企業：和碩聯合.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:8ba7936b5e10ef76",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
-          "translatedAt": "2026-05-15T13:52:06+08:00",
+          "translatedAt": "2026-11-05T22:24:14.249345+00:00",
           "translationLastCommit": "3147a527",
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17134,
+          "bytes": 18056,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "es": {
           "path": "es/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -21368,20 +21366,18 @@
         "vi": {
           "path": "vi/Economy/pegatron-the-invisible-manufacturing-giant.md",
           "translatedFrom": "Economy/台灣企業：和碩聯合.md",
-          "sourceCommitSha": "24efd20f",
-          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:8ba7936b5e10ef76",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "translatedAt": "2026-11-05T22:26:20.526648+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 20541,
+          "bytes": 21375,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -21402,20 +21398,18 @@
         "pt": {
           "path": "pt/Economy/pegatron-the-invisible-manufacturing-giant.md",
           "translatedFrom": "Economy/台灣企業：和碩聯合.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:8ba7936b5e10ef76",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
-          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translatedAt": "2026-11-05T22:29:37.097218+00:00",
           "translationLastCommit": "bdce1787",
           "translationLastModified": "2026-07-26T08:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17665,
+          "bytes": 18480,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -29952,20 +29946,18 @@
         "pt": {
           "path": "pt/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "b67b190fb",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
-          "translatedAt": "2026-09-07T19:20:47.923245+00:00",
+          "translatedAt": "2026-11-05T22:17:57.262201+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 24759,
+          "bytes": 25466,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/hsuehshan-tunnel.md",
@@ -42465,20 +42457,18 @@
         "id": {
           "path": "id/Art/koa-a-hi-taiwanese-opera.md",
           "translatedFrom": "Art/歌仔戲.md",
-          "sourceCommitSha": "a277bd5fa",
-          "sourceContentHash": "sha256:ec862a3b3d59ce03",
-          "sourceBodyHash": "sha256:9c9e15016b2f347e",
-          "translatedAt": "2026-09-14T06:58:43+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:2040ccc7373956b8",
+          "sourceBodyHash": "sha256:d6f56dc6ecb9a820",
+          "translatedAt": "2026-11-06T02:40:28+08:00",
           "translationLastCommit": "961df8fa",
           "translationLastModified": "2026-09-15T02:44:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 18910,
+          "bytes": 18670,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/koa-a-hi-taiwanese-opera.md",
@@ -68293,20 +68283,18 @@
         "hi": {
           "path": "hi/Society/democratic-system.md",
           "translatedFrom": "Society/民主制度.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:f55314385d9caf18",
-          "sourceBodyHash": "sha256:7661cd6b847cb615",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:a8881c70e208776a",
+          "sourceBodyHash": "sha256:aa50a47b41dff196",
+          "translatedAt": "2026-11-06T02:40:36+08:00",
           "translationLastCommit": "1b861288",
           "translationLastModified": "2026-09-16T03:25:10+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 27965,
+          "bytes": 24995,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/democratic-system.md",
@@ -88777,8 +88765,8 @@
           "sourceContentHash": "sha256:55a53c683cb2fe02",
           "sourceBodyHash": "sha256:d2a2bc2c14be17d0",
           "translatedAt": "2026-11-06T02:40:15+08:00",
-          "translationLastCommit": "85b5cfab",
-          "translationLastModified": "2026-10-21T22:29:28+08:00",
+          "translationLastCommit": "5d98f6a9",
+          "translationLastModified": "2026-11-06T05:48:24+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 27121,
@@ -95965,20 +95953,18 @@
         "vi": {
           "path": "vi/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "d7d7c2e30",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
-          "translatedAt": "2026-11-02T20:19:15.034384+00:00",
+          "translatedAt": "2026-11-05T22:17:01.017205+00:00",
           "translationLastCommit": "610b3da7",
           "translationLastModified": "2026-11-03T05:35:35+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 32946,
+          "bytes": 33299,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Politics/nine-in-one-elections-explained.md",
@@ -100705,20 +100691,18 @@
         "hi": {
           "path": "hi/People/huang-brothers-youtubers.md",
           "translatedFrom": "People/黃氏兄弟.md",
-          "sourceCommitSha": "edae9fc94",
-          "sourceContentHash": "sha256:9cd24907e804d8a5",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:09c03ef57cbece0a",
           "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translatedAt": "2026-11-05T22:18:31.024985+00:00",
           "translationLastCommit": "21bfb43b",
           "translationLastModified": "2026-09-16T00:39:42+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 23989,
+          "bytes": 24441,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+15 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/huang-brothers-youtubers.md",
@@ -114163,20 +114147,18 @@
         "de": {
           "path": "de/People/chi-cheng-flying-antelope.md",
           "translatedFrom": "People/紀政.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:ec85f3e1d7f5d977",
           "sourceBodyHash": "sha256:5932775fa82a34d0",
-          "translatedAt": "2026-09-23T19:25:25+08:00",
+          "translatedAt": "2026-11-05T22:20:27.781511+00:00",
           "translationLastCommit": "87e14cbb",
           "translationLastModified": "2026-09-23T20:35:27+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 16009,
+          "bytes": 16521,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -187969,20 +187951,18 @@
         "id": {
           "path": "id/History/taiwan-radio-broadcasting-history.md",
           "translatedFrom": "History/台灣廣播史.md",
-          "sourceCommitSha": "174a83b65",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
-          "translatedAt": "2026-09-10T00:04:26.508350+00:00",
+          "translatedAt": "2026-11-05T22:17:18.660628+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 23436,
+          "bytes": 23488,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taiwan-radio-broadcasting-history.md",
@@ -192175,20 +192155,18 @@
         "ja": {
           "path": "ja/History/kano-chiayi-agriculture-forestry.md",
           "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:7c8bc6c7b2870cad",
+          "sourceBodyHash": "sha256:c2c6980616f215c7",
+          "translatedAt": "2026-11-06T02:40:11+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 24700,
+          "bytes": 22033,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/kano-chiayi-agriculture-forestry.md",
@@ -204169,20 +204147,18 @@
         "en": {
           "path": "en/Geography/taiwan-tap-water.md",
           "translatedFrom": "Geography/自來水.md",
-          "sourceCommitSha": "a9e791a05",
-          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:864c8353d91be2c4",
           "sourceBodyHash": "sha256:300f2a84fb69ef78",
-          "translatedAt": "2026-09-11T06:30:18+08:00",
+          "translatedAt": "2026-11-05T22:21:06.403783+00:00",
           "translationLastCommit": "52dd5c7d",
           "translationLastModified": "2026-09-11T07:28:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 23118,
+          "bytes": 23205,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/taiwan-tap-water.md",
@@ -211913,38 +211889,34 @@
         "es": {
           "path": "es/Culture/tsou-mayasvi-festival.md",
           "translatedFrom": "Culture/鄒族戰祭.md",
-          "sourceCommitSha": "1eb167b3b",
-          "sourceContentHash": "sha256:ae52d69aff0bb025",
-          "sourceBodyHash": "sha256:caa7d610513eb652",
-          "translatedAt": "2026-09-11T06:30:18+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:75fe45270faa2dd5",
+          "sourceBodyHash": "sha256:e346bfb40bdbeb66",
+          "translatedAt": "2026-11-06T02:40:19+08:00",
           "translationLastCommit": "646d1617",
           "translationLastModified": "2026-09-11T07:30:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 24616,
+          "bytes": 23730,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/tsou-mayasvi-festival.md",
           "translatedFrom": "Culture/鄒族戰祭.md",
-          "sourceCommitSha": "1eb167b3b",
-          "sourceContentHash": "sha256:ae52d69aff0bb025",
-          "sourceBodyHash": "sha256:caa7d610513eb652",
-          "translatedAt": "2026-09-11T12:42:07+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:75fe45270faa2dd5",
+          "sourceBodyHash": "sha256:e346bfb40bdbeb66",
+          "translatedAt": "2026-11-05T22:16:28.889577+00:00",
           "translationLastCommit": "cce7b4da",
           "translationLastModified": "2026-09-11T13:01:38+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 26093,
+          "bytes": 26156,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/tsou-mayasvi-festival.md",
@@ -214759,20 +214731,18 @@
         "es": {
           "path": "es/Culture/si-siu-a-lunar-new-year-snacks.md",
           "translatedFrom": "Culture/四秀仔.md",
-          "sourceCommitSha": "977373f82",
-          "sourceContentHash": "sha256:d453213e0d417fd6",
-          "sourceBodyHash": "sha256:1db8926ecfd90519",
-          "translatedAt": "2026-09-11T06:22:30+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:44d2713b9bac849c",
+          "sourceBodyHash": "sha256:bb54ce547d690b90",
+          "translatedAt": "2026-11-06T02:40:19+08:00",
           "translationLastCommit": "0222fce3",
           "translationLastModified": "2026-10-10T23:26:12+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 22504,
+          "bytes": 20039,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/si-siu-a-lunar-new-year-snacks.md",
@@ -224971,20 +224941,18 @@
         "ru": {
           "path": "ru/Culture/bunun-millet-rituals.md",
           "translatedFrom": "Culture/布農族小米歲時祭儀.md",
-          "sourceCommitSha": "36f293ae0",
-          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:a08b66093896c8a3",
           "sourceBodyHash": "sha256:dee79906f6659ba2",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translatedAt": "2026-11-05T22:19:51.284770+00:00",
           "translationLastCommit": "ad46a107",
           "translationLastModified": "2026-09-11T11:07:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 43654,
+          "bytes": 43905,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/bunun-millet-rituals.md",
