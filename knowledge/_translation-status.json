@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T00:43:41+08:00",
-    "zhCommitHead": "b052c6321",
+    "lastUpdated": "2026-11-06T00:50:25+08:00",
+    "zhCommitHead": "30c05b3df",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -68,17 +68,17 @@
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 38,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 5,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1087,
+        "fresh": 1088,
         "stale": 36,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 4,
         "orphan": 0
       },
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1091,
+        "fresh": 1092,
         "stale": 33,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 4,
         "orphan": 0
       },
@@ -29998,20 +29998,18 @@
         "ar": {
           "path": "ar/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "b67b190fb",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
-          "translatedAt": "2026-09-07T19:16:51.118561+00:00",
+          "translatedAt": "2026-11-05T23:11:19+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 30753,
+          "bytes": 32604,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/hsuehshan-tunnel.md",
@@ -127737,20 +127735,18 @@
         "id": {
           "path": "id/People/tsai-a-ga-youtuber.md",
           "translatedFrom": "People/蔡阿嘎.md",
-          "sourceCommitSha": "f5975a224",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:2fc7b754782e2c72",
           "sourceBodyHash": "sha256:3835f3eeb33c205d",
-          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translatedAt": "2026-11-05T16:43:52.505017+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 13055,
+          "bytes": 13108,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tsai-a-ga-youtuber.md",
@@ -153921,8 +153917,8 @@
           "sourceContentHash": "sha256:f574be110237c4b8",
           "sourceBodyHash": "sha256:07bfe0e782d036ae",
           "translatedAt": "2026-11-05T15:13:19.534202+00:00",
-          "translationLastCommit": "8c2e0fd9",
-          "translationLastModified": "2026-09-22T00:49:58+08:00",
+          "translationLastCommit": "30c05b3d",
+          "translationLastModified": "2026-11-06T00:43:41+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 34342,
@@ -204389,20 +204385,18 @@
         "pt": {
           "path": "pt/Geography/taiwan-tap-water.md",
           "translatedFrom": "Geography/自來水.md",
-          "sourceCommitSha": "a9e791a05",
-          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:864c8353d91be2c4",
           "sourceBodyHash": "sha256:300f2a84fb69ef78",
-          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translatedAt": "2026-11-05T16:44:46.947306+00:00",
           "translationLastCommit": "b712e1fe",
           "translationLastModified": "2026-09-12T01:05:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 23025,
+          "bytes": 23693,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/taiwan-tap-water.md",
