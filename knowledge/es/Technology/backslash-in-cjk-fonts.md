@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: 'El gran carácter "gong" muestra sus dos bloques en el código Big5 A5 y 5C; el bloque 5C apunta a la barra invertida ASCII 0x5C; debajo se muestra la salida real de Python, donde el segundo byte de los tres caracteres *Xu Gong Gai* es una barra invertida.'
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:13+08:00'
+translatedAt: '2026-11-05T14:57:24.213109+00:00'
 ---
 
 > **Resumen en 30 segundos:** Ejecuté el script de estado de traducción y la pantalla mostró 4546, todo en `root`. El CI de Linux en GitHub era verde. Luego entendí dos cosas. La barra invertida de las rutas de Windows no podía ser dividida por la barra inclinada; la segunda mitad del código Big5 de "gong" es la barra invertida ASCII. Dos mecanismos diferentes aparecen a menudo juntos en un Windows chino tradicional.
