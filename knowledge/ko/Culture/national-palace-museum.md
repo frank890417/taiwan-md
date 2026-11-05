@@ -2,8 +2,7 @@
 title: '국립고궁박물원'
 description: "그것은 이 섬에서 가장 무거운 '짐'이자, 가장 가벼운 '디지털 환상'이다. 전쟁의 불길 속 나무 상자에서 AI 연산력이 만들어낸 픽셀까지, 고궁은 타이베이 외쉐이시(外雙溪)와 자이시 타이바오(太保) 사이에서 '대만의 고궁'이란 무엇인지를 정의하려 하고 있다."
 date: 2026-04-19
-category: Culture
-subcategory: '藝術園區'
+category: 'Culture'
 tags:
   [
     '박물관',
@@ -15,16 +14,20 @@ tags:
     '디지털 아트',
     '전환',
   ]
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
-translatedFrom: Culture/國立故宮博物院.md
-sourceCommitSha: '4b6d28c5'
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Culture/國立故宮博物院.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: 2026-05-01T22:19:01+08:00
-author: 'Taiwan.md'
+translatedAt: '2026-11-05T09:55:48.129895+00:00'
 ---
 
 # 국립고궁박물원: 전쟁 속 나무 상자에서 AI 환상까지, 백년의 대장정
