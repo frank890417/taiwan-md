@@ -2,9 +2,7 @@
 title: 'You fan : du glutineux « ostentatoire » au cadeau de naissance qui porte le poids de la vie'
 description: "En 2026, dans les rues de Taïwan, un bol de you fan reste le choix privilégié de beaucoup pour célébrer une naissance. Ce plat, issu de la tradition des immigrants hans et qui a évolué à Taïwan vers un « ratio gourmet » mêlant le salé et le sucré, combine le riz glutineux et l'oignon vert frit pour former le vœu le plus solide que les familles taïwanaises adressent aux tournants de la vie."
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '小吃'
 tags:
   [
     'you fan',
@@ -14,15 +12,19 @@ tags:
     'riz glutineux',
     'culture du banquet',
   ]
-readingTime: 10
+subcategory: '小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-06-12T00:53:05+08:00'
+translatedAt: '2026-11-05T04:46:14.509956+00:00'
 ---
 
 > **En 30 secondes :**

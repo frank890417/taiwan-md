@@ -1,15 +1,15 @@
 ---
-title: "Jinniu Jiao (金牛角) : une rencontre fortuite dans l'avion et le croissant à la taïwanaise d'un maître de la pâtisserie han"
-description: "Le Jinniu Jiao de Sanxia ne vient pas de France, mais d'une rencontre fortuite dans l'avion entre un maître de la pâtisserie han et du pain philippin, qui a fini par devenir le point dur qui soutient la mémoire olfactive de Sanxia."
+title: "Jinniu Jiao : une rencontre fortuite en avion et l'âme du pain han du croissant à la taïwanaise"
+description: "Le Jinniu Jiao de Sanxia n'est pas d'origine française, mais résulte d'une rencontre fortuite en avion entre un maître du pain han et du pain philippin, qui a finalement évolué en une pâtisserie de caractère soutenant la mémoire olfactive de Sanxia."
 date: 2026-04-21
 category: 'Food'
 tags:
   [
     'Sanxia',
     'Jinniu Jiao',
-    'Lo Fu-ching',
+    'Luo Fu-ching',
     'cadeau-souvenir',
-    'en-cas taïwanais',
+    'snack taïwanais',
   ]
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-18T00:53:04+08:00'
+translatedAt: '2026-11-05T05:04:17.974579+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le Jinniu Jiao de Sanxia, ce cadeau-souvenir connu dans tout Taïwan, a une histoire bien plus romanesque qu'on ne l'imagine. Il ne dérive pas du croissant européen, mais a été créé par le maître de la _pâtisserie han_ (漢餅) **Lo Fu-ching (羅福清)** qui, lors d'un voyage en avion, fut inspiré par un « pain philippin » ; de retour à Taïwan, il l'adapta en y intégrant l'artisanat chinois traditionnel. Sa texture unique, dite « dure », résulte de multiples passages au laminoir pour chasser l'air et d'une cuisson au beurre généreux, reflétant la quête des Taïwanais d'alors pour une nourriture consistante et rassasiante. De l'en-cas de ruelle à la spécialité de la vieille rue, le Jinniu Jiao n'est pas seulement un souvenir gustatif, c'est le reflet de la culture locale et du développement commercial de Sanxia, qui soutient l'emblème olfactif unique de cette petite ville.

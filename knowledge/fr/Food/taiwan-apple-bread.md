@@ -1,126 +1,128 @@
 ---
-title: 'Pain aux pommes : sur une île sans pommes, nourrir l’illusion d’une modernisation'
-description: 'Ce n’est pas seulement un morceau de pain, mais une expérience de modernisation menée dans le Taïwan des années 1960, dans le contexte de l’aide américaine, tissée de farine, de symboles et de résilience. En mobilisant la métaphore luxueuse de la « pomme » et une technique japonaise de déshydratation, le major à la retraite Liu Zheji transforma une ration militaire austère en mémoire nationale transgénérationnelle, révélant comment la société taïwanaise d’après-guerre utilisa des substituts pour combler l’écart avec la réalité.'
+title: 'Pain pomme : sur une île sans pommes, rassasier une illusion de modernité'
+description: "Ce n'est pas seulement un pain, c'est une expérience de modernité tissée de farine, de symboles et de résilience, dans le Taïwan des années 1960 sous aide américaine. Le major à la retraite Liu Che-chi (劉哲基), par la métaphore du luxe de la « pomme » et la technique japonaise de déshydratation, a transformé une banale ration militaire en mémoire nationale transgénérationnelle, révélant comment la société taïwanaise d'après-guerre a utilisé des substituts pour combler le fossé avec la réalité."
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
-    'pain aux pommes',
-    'Liu Zheji',
+    'Pain pomme',
+    'Liu Che-chi',
     'gastronomie de Taichung',
-    'Taïwan d’après-guerre',
-    'culture de l’aide américaine',
+    "Taïwan d'après-guerre",
+    "culture de l'aide américaine",
     'pain déshydraté',
-    'promotion des aliments à base de farine',
+    'promotion des produits à base de blé',
   ]
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蘋果麵包.md'
-sourceCommitSha: 'a0314c6e3'
-sourceContentHash: 'sha256:1a92c24eb1a7d8cf'
-sourceBodyHash: 'sha256:4f26d4508afc31e5'
-translatedAt: '2026-06-02T00:40:00+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:b06690b268b54ec0'
+sourceBodyHash: 'sha256:a66665969d20b08f'
+translatedAt: '2026-11-05T10:53:16+08:00'
 ---
 
 > **Aperçu en 30 secondes :**
-> Le pain aux pommes est la « greffe sémantique » la plus réussie de l’histoire de la boulangerie taïwanaise. Il est né à Taichung dans les années 1960, mis au point par le major à la retraite Liu Zheji, qui avait frôlé la mort. Le nom de ce pain ne vient pas de son goût, mais d’une crise de survie consécutive à la rupture des relations diplomatiques entre Taïwan et les États-Unis en 1978 et au retrait des forces américaines de Taïwan : Liu emprunta la valeur symbolique de la « pomme », alors produit de luxe, ainsi que celle de la boisson populaire « Apple Sidra », pour transformer une technique japonaise de pain déshydraté en produit localisé. Ce pain remplit l’estomac des élèves et laissa aussi le souvenir de la résilience d’un ancien soldat qui, au milieu des bouleversements, refusa absolument de battre en retraite.
+> Le pain pomme est le plus réussi des « coquilles vides sémantiques » de l'histoire de la boulangerie taïwanaise. Il est né dans les années 1960 à Taichung, développé par le major à la retraite Liu Che-chi, qui avait frôlé la mort. Le nom de ce pain ne vient pas de son goût, mais de la crise de survie qui a suivi la rupture diplomatique sino-américaine de 1978 et le retrait des troupes américaines : il a emprunté la valeur symbolique de la « pomme », alors produit de luxe, et de la boisson à la mode « soda pomme », pour transformer la technique japonaise du pain déshydraté en produit local. Il a rassasié le ventre des écoliers et laissé l'héritage d'un vétéran qui, face aux bouleversements, n'a jamais battu en retraite.
 
 ---
 
-## La tension du nom : un malentendu collectif autour du « luxe »
+## La tension du nom : un malentendu collectif sur le « luxe »
 
-Dans la mémoire collective taïwanaise, il existe un goût que l’on appelle « pain aux pommes sans pommes ».
+Dans la mémoire collective de Taïwan, il existe un goût appelé « pain pomme sans pomme ».
 
-Dans le Taïwan des années 1960, la pomme était une denrée haut de gamme importée du Japon ; le prix d’une seule pomme suffisait à acheter plusieurs dizaines de pains [^1]. Liu Zheji, major à la retraite qui dirigeait alors une fabrique de pain à Taichung, comprit l’attrait qu’exerçaient les deux caractères « pomme » et décida de baptiser le pain carré qu’il avait mis au point « pain aux pommes ». Cette dénomination ne relevait pas d’une volonté délibérée de tromper, mais plutôt d’une philosophie de survie teintée d’humour.
+Dans le Taïwan des années 1960, la pomme était un produit de luxe importé du Japon ; une seule pomme coûtait le prix de plusieurs dizaines de pains [^1]. Liu Che-chi, alors à la tête d'une boulangerie à Taichung, a saisi l'aspiration du public pour le mot « pomme » et a décidé de baptiser son pain de forme carrée « pain pomme ». Ce nommage n'avait aucune intention trompeuse malveillante ; il portait au contraire une philosophie de survie teintée d'humour.
 
-« À l’époque, les pommes étaient très rares ; les gens n’avaient pas les moyens d’en acheter. L’appeler pain aux pommes, c’était donner de l’espoir », se souvient Liu Zheji, aujourd’hui centenaire, dans plusieurs entretiens [^6]. La recette de ce pain était d’une extrême simplicité : farine de blé semi-forte, sucre, lait et levure. Il ne contenait ni ciboule ni porc séché effiloché, ingrédients courants des pains taïwanais de l’époque, ni les matières grasses raffinées de la pâtisserie occidentale ; mais, grâce à sa texture dense et légèrement élastique, il imitait le pain déshydraté consommé alors par les forces américaines stationnées à Taïwan [^4].
+« À l'époque, les pommes étaient rares, les gens ne pouvaient pas s'en offrir. L'appeler pain pomme, c'était donner un espoir. » Liu Che-chi, aujourd'hui centenaire, se remémore ainsi dans plusieurs entretiens [^6]. La recette de ce pain est d'une simplicité extrême : farine de force moyenne, sucre, lait et levure. Il n'avait ni les oignons verts ni le porc effiloché typiques des pains taïwanais de l'époque, ni les matières grasses raffinées de la pâtisserie occidentale, mais sa texture dense et élastique imitait le pain déshydraté consommé par les troupes américaines stationnées à Taïwan [^4].
 
-📝 **Note curatoriale :** Le succès du pain aux pommes est un miracle de marketing, mais aussi un cas classique de la manière dont la société taïwanaise d’après-guerre, dans une période de pénurie matérielle, utilisa la valeur des symboles pour combler l’écart avec la réalité.
+📝 **Note du commissaire :** Le succès du pain pomme est un miracle marketing, mais aussi un cas d'école de la société taïwanaise d'après-guerre qui, en temps de pénurie, a utilisé la valeur symbolique pour combler le fossé avec la réalité.
 
 ---
 
-## De la morgue au four à pain : le miracle de survie de Liu Zheji
+## De la morgue au fournil : le miracle de survie de Liu Che-chi
 
-La naissance du pain aux pommes trouve son origine dans une épreuve presque fatale.
+La naissance du pain pomme puise sa source dans une épreuve quasi mortelle.
 
-En 1949, Liu Zheji suivit le gouvernement nationaliste dans sa retraite vers Taïwan ; peu après, atteint d’une grave tuberculose compliquée d’hémorragies gastriques, il fut admis à l’hôpital de l’Université nationale de Taïwan [^3]. Dans les conditions médicales de l’époque, ses deux poumons noircis conduisirent les médecins à le déclarer « incurable » ; il fut même un temps déplacé sur un lit près de la morgue pour y attendre la mort [^2]. Pourtant, lors du réveillon du Nouvel An lunaire de 1950, il reçut le baptême sous la conduite du vieux pasteur Chen Weiping, puis se rétablit miraculeusement au cours des six années suivantes.
+En 1949, Liu Che-chi arrive à Taïwan avec le gouvernement nationaliste. Peu après, une tuberculose pulmonaire sévère compliquée d'une hémorragie gastrique l'envoie à l'hôpital de l'université nationale de Taïwan [^3]. Dans les conditions médicales de l'époque, ses deux poumons noircis valent aux médecins de le déclarer « incurable » ; il est même transféré sur un lit jouxtant la morgue, en attente de la mort [^2]. Pourtant, le soir du Nouvel An 1950, sous la conduite du pasteur Chen Wei-ping (陳維屏), il reçoit le baptême et, au cours des six années suivantes, guérit miraculeusement.
 
-Cette expérience de « retour d’entre les morts » donna à Liu Zheji, après son départ de l’armée en 1959, une résilience particulièrement forte. Au début, il vendait dans les rues de Taichung, à bicyclette, des pains achetés en gros ; son salaire journalier n’était que de 10 dollars taïwanais [^3]. En 1962, sur les conseils de la missionnaire canadienne Flora, il décida de créer sa propre usine. À l’époque, les unités militaires américaines stationnées à Taichung refusaient d’acheter auprès des fabriques alimentaires locales en raison de normes d’hygiène jugées insuffisantes. Avec l’appui technique de médecins et de spécialistes américains, Liu Zheji fonda la « Liu Bakery », entièrement conforme aux normes internationales d’hygiène [^1][^13].
+Cette expérience de « retour d'entre les morts » forge la résilience extraordinaire dont fait preuve Liu Che-chi après sa retraite militaire en 1959. Il commence par vendre à vélo des pains achetés en gros dans les rues de Taichung, gagnant à peine 10 dollars par jour [^3]. En 1962, sur les conseils de la missionnaire canadienne Flora, il décide de créer sa propre usine. L'unité militaire américaine stationnée à Taichung refusait alors de s'approvisionner auprès des usines locales pour raisons d'hygiène ; sous la direction technique de médecins et d'experts militaires américains, Liu Che-chi fonde la « Boulangerie Liu », entièrement conforme aux normes sanitaires internationales [^1][^13].
 
-Cette usine pouvait alors être qualifiée de « laboratoire du monde de la boulangerie ». De la gestion sanitaire du personnel aux dispositifs anti-rongeurs, tout y était calqué sur les standards américains, ce qui permit à la Liu Bakery de devenir l’une des rares entreprises locales capables de fournir directement les forces américaines stationnées à Taïwan et les résidents étrangers en aliments de base [^3].
+Cette usine était alors un véritable « laboratoire de la boulangerie ». De la gestion de l'hygiène du personnel aux dispositifs anti-rongeurs, tout était calqué sur les standards de l'armée américaine, ce qui fit de la Boulangerie Liu l'un des rares fournisseurs locaux habilités à approvisionner directement les troupes américaines et les expatriés en denrées de base [^3].
 
 ---
 
 ## La double crise des années 1970 : dettes et rupture diplomatique
 
-Le parcours entrepreneurial de Liu Zheji ne fut pas sans heurts. En 1970, une expansion trop rapide provoqua une crise de trésorerie et l’endetta lourdement [^13]. Mais il ne se déroba pas : fidèle à son esprit militaire, il négocia avec ses fournisseurs pour rembourser ses dettes et finit par surmonter la crise [^3].
+Le parcours entrepreneurial de Liu Che-chi n'est pas un long fleuve tranquille. En 1970, une expansion trop rapide entraîne une rupture de trésorerie et l'accumulation d'une dette considérable [^13]. Mais il ne fuit pas ses responsabilités : fidèle à l'éthique militaire, il négocie avec ses créanciers et finit par surmonter la crise [^3].
 
-Une épreuve plus grande encore survint toutefois en décembre 1978. L’annonce de la rupture des relations diplomatiques entre Taïwan et les États-Unis bouleversa toute l’île ; les forces américaines quittèrent Taïwan, et Liu Zheji perdit soudain sa clientèle la plus stable. Face à cette crise de survie provoquée par la disparition de ses commandes, il eut une idée : importer du Japon une technique de « pain déshydraté » à la texture ferme et facile à conserver [^8][^9].
+Pourtant, une épreuve bien plus grande s'abat en décembre 1978. L'annonce de la rupture diplomatique entre Taïwan et les États-Unis secoue l'île ; les troupes américaines évacuent Taïwan, et Liu Che-chi perd du jour au lendemain son client le plus stable. Face à cette menace existentielle, il a un éclair de génie : il importe du Japon la technique du « pain déshydraté », à la texture dense et à la conservation aisée [^8][^9].
 
-Au départ, il nomma directement ce produit « pain déshydraté », mais la réaction du marché fut tiède. Ce n’est qu’après avoir observé l’engouement pour la boisson populaire de l’époque, « Apple Sidra », et constaté que la pomme demeurait dans la société taïwanaise un symbole d’aisance, qu’il le rebaptisa officiellement « pain aux pommes » [^8][^10].
+D'abord commercialisé sous le nom littéral de « pain déshydraté », le produit ne rencontre pas son public. C'est en observant l'engouement pour la boisson « soda pomme », alors très en vogue, et en notant que la pomme restait dans la société taïwanaise un symbole d'aisance, qu'il décide de le rebaptiser « pain pomme » [^8][^10].
 
-| Phase de développement      | Période     | Événement clé                                                            | Signification sociale                                                                                                    |
-| :-------------------------- | :---------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| **Phase d’émergence**       | 1962        | Fondation de la Liu Bakery                                               | Introduction des normes d’hygiène américaines ; approvisionnement des forces américaines et des résidents étrangers [^3] |
-| **Phase de crise**          | 1970        | Crise de trésorerie et crise d’endettement                               | Manifestation d’une résilience fondée sur l’intégrité du remboursement [^13]                                             |
-| **Phase de transformation** | 1978        | Rupture diplomatique Taïwan–États-Unis et retrait des forces américaines | Introduction de la technique japonaise du pain déshydraté et adoption du nom « pain aux pommes » [^8]                    |
-| **Apogée**                  | Années 1980 | Entrée dans les coopératives scolaires de tout Taïwan                    | Devenir un repère gustatif collectif traversant les générations [^11]                                                    |
-| **Phase culturelle**        | 2026        | Centenaire du fondateur et visite d’un astronaute                        | Transformation en symbole culturel et en témoignage de l’amitié taïwano-américaine [^14]                                 |
-
----
-
-## Un accent du Shandong dans les ruelles : moteur de la culture des coopératives scolaires
-
-Pour survivre après la perte des commandes américaines, Liu Zheji adopta une stratégie d’« offensive directe ». Avec son épouse, il parcourait les grandes rues et les petites ruelles de Taichung dans une camionnette à pain, vendant à la criée [^1]. Son fort accent du Shandong, diffusé par haut-parleur, résonnait dans les ruelles de l’après-midi et devint une mémoire sonore commune aux habitants de Taichung.
-
-Comme le pain aux pommes ne contenait pas d’eau, grâce à la technique de déshydratation, se conservait bien et procurait une forte sensation de satiété, il convenait particulièrement aux coopératives scolaires, alors installées dans des environnements relativement sommaires. Ce « luxe populaire » se diffusa rapidement de Taichung à l’ensemble de Taïwan, devenant pour les élèves nés dans les années 1960 et 1970 le plaisir à la fois le moins cher et le plus luxueux après la classe.
-
-📝 **Note curatoriale :** La propriété « déshydratée » du pain aux pommes fut à la fois un moyen technique de conservation et une sorte d’esthétique de survie : préserver le noyau, éliminer le superflu au milieu des bouleversements.
+| Phase de développement | Période     | Événement clé                                         | Signification sociale                                                                                |
+| :--------------------- | :---------- | :---------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **Germination**        | 1962        | Création de la Boulangerie Liu                        | Introduction des normes d'hygiène à l'américaine, approvisionnement des troupes US et expatriés [^3] |
+| **Crise**              | 1970        | Rupture de trésorerie et endettement                  | Démonstration d'une résilience fondée sur l'honneur [^13]                                            |
+| **Transformation**     | 1978        | Rupture sino-américaine et retrait des troupes US     | Importation de la technique japonaise du pain déshydraté, nomination « pain pomme » [^8]             |
+| **Apogée**             | Années 1980 | Entrée dans les coopératives scolaires de toute l'île | Devenir un repère gustatif transgénérationnel [^11]                                                  |
+| **Culturelle**         | 2026        | Centenaire du fondateur, visite d'un astronaute       | Conversion en symbole culturel et témoin de l'amitié sino-américaine [^14]                           |
 
 ---
 
-## Un parfum de blé à travers un demi-siècle : de la coopérative scolaire à la station spatiale
+## L'accent du Shandong dans les ruelles : le levier de la culture des coopératives scolaires
 
-En avril 2026, le premier astronaute d’origine taïwanaise, Lin Qi’er (Dr. Kjell Lindgren), visita Taichung ; sa première étape fut de se rendre sur Xiangshang Road pour rencontrer Liu Zheji, alors âgé de 101 ans [^5][^12]. Né à Taipei et élevé dans une famille de l’US Air Force, Lin Qi’er avait vécu à Taichung durant son enfance. En goûtant le classique pain aux pommes, il plaisanta en disant que « quand j’étais petit, j’ai certainement mangé du pain aux pommes ; c’est pour cela que je suis devenu aussi fort et que je suis devenu astronaute » [^12].
+Pour survivre à la perte des commandes militaires, Liu Che-chi adopte une stratégie « d'offensive proactive ». Avec son épouse, il sillonne les ruelles de Taichung à bord de son camion-boulangerie, vendant à la criée [^1]. Son fort accent du Shandong, amplifié par le haut-parleur, résonne dans les venelles à l'heure de la sieste, devenant une mémoire auditive partagée des Taichungais.
 
-Cette rencontre raviva non seulement les souvenirs d’enfance de nombreuses personnes, mais fit aussi du pain aux pommes un témoignage de l’amitié taïwano-américaine et des liens entre générations. Aujourd’hui, la Liu Bakery se dresse toujours à son emplacement d’origine à Taichung ; elle est dirigée par les descendants de Liu Zheji et a développé de nouveaux produits, comme le « vrai pain aux pommes » contenant réellement une garniture de pomme, ou « Nengweikang », un aliment santé fabriqué à partir de germe de blé [^1][^4].
+Grâce à l'absence d'humidité (technique de déshydratation), sa longue conservation et son fort pouvoir rassasiant, le pain pomme s'avère idéal pour les coopératives scolaires aux équipements alors sommaires. Ce « luxe populaire » se propage rapidement de Taichung à toute l'île, devenant pour les élèves de CM1-CM2 la gourmandise la plus abordable et, paradoxalement, la plus « luxueuse » de la récréation.
 
-Le charme du pain aux pommes ne tient pas à la complexité de ses saveurs, mais à ce « pur parfum de blé ». Il prouve une chose : en période de pénurie matérielle, un nom peut être une forme de consolation ; et à une époque d’abondance matérielle, un simple mélange d’amidon et de levure peut au contraire devenir la nostalgie la plus précieuse.
+📝 **Note du commissaire :** Le caractère « déshydraté » du pain pomme est à la fois un procédé technique de conservation et une esthétique de survie qui, dans le tumulte, préserve l'essentiel et élimine le superflu.
+
+---
+
+## Un parfum de blé traversant un demi-siècle : de la coopérative scolaire à la station spatiale
+
+En avril 2026, le premier astronaute d'origine taïwanaise, le Dr Kjell Lindgren, se rend à Taichung ; sa première étape est la visite de Liu Che-chi, 101 ans, sur la route Xiangshang [^5][^12]. Né à Taipei, élevé dans une famille de l'US Air Force, Lindgren a passé son enfance à Taichung. Dégustant le pain pomme classique, il plaisante : « J'ai dû manger du pain pomme petit, pour devenir assez costaud et être astronaute » [^12].
+
+Cette rencontre ravive les souvenirs d'enfance de bien des gens et fait du pain pomme le témoin de l'amitié sino-américaine et du lien intergénérationnel. Aujourd'hui encore, la Boulangerie Liu dresse son fournil au même endroit à Taichung, gérée par les descendants de Liu Che-chi, qui ont développé le « vrai pain pomme » (fourré à la vraie pomme) et le produit santé « Nengweikang » à base de germe de blé [^1][^4].
+
+Le charme du pain pomme ne réside pas dans la complexité de ses saveurs, mais dans ce « pur parfum de blé ». Il prouve une chose : dans les temps de pénurie, un nom peut être un réconfort ; dans les temps d'abondance, le simple amidon et la levure deviennent la nostalgie la plus précieuse.
 
 ---
 
 ## Références
 
-[^1]: [Site officiel de la Liu Bakery](https://www.nutricom.com.tw/about.html) — Vie du fondateur Liu Zheji et origines du pain aux pommes.
+[^1]: [Site officiel de la Boulangerie Liu](https://www.nutricom.com.tw/about.html) — Biographie du fondateur Liu Che-chi et origine du pain pomme.
 
-[^2]: [Christian Daily](https://cdn-news.org/news/2283) — « Transformer le pain en manne : Liu Zheji de la Liu Bakery », récit détaillé de son parcours religieux et entrepreneurial.
+[^2]: [Christian Today](https://cdn-news.org/news/2283) — « Transformer le pain en manne : Liu Che-chi de la Boulangerie Liu », relatant en détail son parcours de foi et d'entrepreneuriat.
 
-[^3]: [Time UDN](https://time.udn.com/udntime/story/122390/6757063) — « Le pain aux pommes porte l’histoire d’un ancien soldat ! Une pâtisserie nostalgique issue de la culture militaire américaine des années 1960 ».
+[^3]: [Reporting Time](https://time.udn.com/udntime/story/122390/6757063) — « Le pain pomme a une histoire de vétéran ! Une gourmandise nostalgique née de la culture militaire américaine des années 60 ».
 
-[^4]: [Supertaste](https://supertaste.tvbs.com.tw/food/354966) — « Le premier magasin fondateur du “pain aux pommes” de Taïwan est à Taichung ! Le processus de fabrication dévoilé ».
+[^4]: [Foodie Player](https://supertaste.tvbs.com.tw/food/354966) — « La première "boulangerie originelle du pain pomme" de Taïwan est à Taichung ! Processus de fabrication dévoilé ».
 
-[^5]: [Radio Taiwan International](https://www.rti.org.tw/news?uid=3&pid=204586) — « Voir Taïwan depuis l’espace : Lin Qi’er visite la Liu Bakery à Taichung ».
+[^5]: [Radio Taiwan International](https://www.rti.org.tw/news?uid=3&pid=204586) — « Regard sur Taïwan depuis l'espace : Kjell Lindgren visite la Boulangerie Liu à Taichung ».
 
-[^6]: [Yahoo Actualités](https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85%E5%8F%96%E5%90%8D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%8C%85-102803018.html) — « La raison du nom du pain aux pommes révélée ! L’inventeur Liu Zheji s’explique en personne ».
+[^6]: [Yahoo News](https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85%E5%8F%96%E5%90%8D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%8C%85-102803018.html) — « La raison du nom "pain pomme" révélée ! L'inventeur Liu Che-chi s'explique en personne ».
 
-[^7]: [Vocus](https://vocus.cc/article/64c217edfd897800011ceec5) — « Le “pain aux pommes” sans pommes : une histoire de survie et de résilience ».
+[^7]: [The News Lens](https://vocus.cc/article/64c217edfd897800011ceec5) — « Le "pain pomme" sans pomme : une histoire de survie et de résilience ».
 
-[^8]: [Central News Agency](https://www.cna.com.tw/newsworld/article/20220531n001/) — « Le pain aux pommes sans pommes, une saveur nostalgique transmise depuis des décennies ».
+[^8]: [Central News Agency](https://www.cna.com.tw/newsworld/article/20220531n001/) — « Le pain pomme sans pomme, une saveur nostalgique qui parfume depuis des décennies ».
 
-[^9]: [LINE TODAY](https://today.line.me/tw/v3/article/2DZ5L8N) — « Le pain aux pommes sans pommes, une saveur nostalgique transmise depuis des décennies ».
+[^9]: [LINE TODAY](https://today.line.me/tw/v3/article/2DZ5L8N) — « Le pain pomme sans pomme, une saveur nostalgique qui parfume depuis des décennies ».
 
-[^10]: [MSN Actualités](https://www.msn.com/zh-tw/news/world/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E8%A3%94%E5%A4%AA%E7%A9%BA%E4%BA%BA%E6%9E%97%E7%90%AA%E5%85%92%E8%A8%AA%E5%8F%B0%E4%B8%AD-%E5%A4%AB%E5%A6%BB%E8%81%AF%E8%A2%82%E7%8F%BE%E8%BA%AB%E4%B8%80%E5%8F%A5%E8%A9%B1%E9%80%97%E7%AC%91%E5%85%A8%E5%A0%B4/ar-AA21wczU) — « Origine de l’invention du pain aux pommes et contexte de la rupture diplomatique Taïwan–États-Unis ».
+[^10]: [MSN News](https://www.msn.com/zh-tw/news/world/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E8%A3%94%E5%A4%AA%E7%A9%BA%E4%BA%BA%E6%9E%97%E7%90%AA%E5%85%92%E8%A8%AA%E5%8F%B0%E4%B8%AD-%E5%A4%AB%E5%A6%BB%E8%81%AF%E8%A2%82%E7%8F%BE%E8%BA%AB%E4%B8%80%E5%8F%A5%E8%A9%B1%E9%80%97%E7%AC%91%E5%85%A8%E5%A0%B4/ar-AA21wczU) — « Origine de l'invention du pain pomme et contexte de la rupture sino-américaine ».
 
-[^11]: [Instagram @nutricom](https://www.instagram.com/reel/C4wt_invNtD/) — « Le goût des coopératives scolaires qui a accompagné notre enfance ».
+[^11]: [Instagram @nutricom](https://www.instagram.com/reel/C4wt_invNtD/) — « Le goût de la coopérative qui nous a accompagnés en grandissant ».
 
-[^12]: [Instagram @kjelllindgren](https://www.instagram.com/p/DXeMRlVArIZ/) — « Archive de la visite de l’astronaute Lin Qi’er à la Liu Bakery ».
+[^12]: [Instagram @kjelllindgren](https://www.instagram.com/p/DXeMRlVArIZ/) — « Journal de la visite de l'astronaute Kjell Lindgren à la Boulangerie Liu ».
 
-[^13]: [Yahoo Actualités](https://tw.news.yahoo.com/50%E5%B9%B4%E8%80%81%E5%BA%97%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0-85%E6%AD%B2%E5%8A%89%E5%93%B2%E5%9F%BA%E7%8F%BE%E8%BA%AB%E8%AA%AA%E6%B3%95%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7.html) — « Liu Zheji s’explique en personne : détails de la crise de trésorerie des années 1970 ».
+[^13]: [Yahoo News](https://tw.news.yahoo.com/50%E5%B9%B4%E8%80%81%E5%BA%97%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0-85%E6%AD%B2%E5%8A%89%E5%93%B2%E5%9F%BA%E7%8F%BE%E8%BA%AB%E8%AA%AA%E6%B3%95%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7.html) — « Liu Che-chi témoigne : détails de la rupture de trésorerie des années 1970 ».
 
-[^14]: [Communiqué de presse du gouvernement de la ville de Taichung](https://news.pchome.com.tw/society/focus586/20260424/index-77703923502665289002.html) — « Un astronaute de la NASA revient à Taichung, ville de son enfance, et visite la Liu Bakery ».
+[^14]: [Communiqué du gouvernement de Taichung](https://news.pchome.com.tw/society/focus586/20260424/index-77703923502665289002.html) — « L'astronaute de la NASA revient dans sa ville d'enfance à Taichung, visite la Boulangerie Liu ».
 
-[^15]: [Time UDN](https://time.udn.com/udntime/story/122390/6757063) — « Détails sur la marque au tigre et l’Association de promotion des aliments à base de farine et de blé ».
+[^15]: [Reporting Time](https://time.udn.com/udntime/story/122390/6757063) — « Détails sur la marque Tiger et le Comité de promotion des produits à base de blé ».

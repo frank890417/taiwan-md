@@ -1,26 +1,29 @@
 ---
-title: "Ba-wan : de la boulette de survie née d'une inondation à l'artisanat des trois empreintes digitales"
-description: "En 1898, une inondation dévastatrice — la crue de Wuxu — a donné naissance à l'un des snacks les plus emblématiques de Taïwan : le ba-wan (肉圓). De la boulette de fécule de patate douce préparée par Fan Wanju, scribe du temple de Beidou, aux frontières gustatives entre le sud vapeur et le nord frit, cette évolution n'est pas seulement culinaire : c'est la mémoire de la résilience taïwanaise face à la pénurie."
-category: Food
+title: "Ba-wan : de l'élixir salvateur contre l'inondation à l'artisanat de survie aux empreintes de trois doigts"
+description: "En 1898, une inondation dévastatrice de Wuxu a engendré le snack national taïwanais, le « ba-wan ». Des boulettes salvatrices sorties des mains de l'érudit Fan Wan-ju de l'autel divin de Beidou, aux frontières gustatives entre vapeur au sud et friture au nord, ce n'est pas seulement une délicieuse évolution, c'est aussi la mémoire de la résilience des Taïwanais face à la pénurie."
+date: 2026-04-26
+category: 'Food'
 tags:
   [
-    'ba-wan',
-    'cuisine de Changhua',
+    'Ba-wan',
+    'Gastronomie de Changhua',
     'Beidou',
-    'snacks taïwanais',
-    'inondation de Wuxu',
+    'Snacks taïwanais',
+    'Grande inondation de Wuxu',
   ]
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
-date: 2026-04-26
-readingTime: 12
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-05-16T22:35:54Z'
-featured: false
+translatedAt: '2026-11-05T04:57:25.425909+00:00'
 ---
 
 > **En 30 secondes :**

@@ -2,8 +2,7 @@
 title: 'Le thé de Puchung à Mingjian : le « héros anonyme » qui soutient 80 % du marché taïwanais des boissons au thé à emporter'
 description: "La controverse de 2025 autour de l'incinérateur de Mingjian a révélé que 80 % des thés de base des boissons au thé à emporter de Taïwan proviennent de Mingjian, dans le comté de Nantou. De la réputation des « Trois Puchung » sous la dynastie Qing au renommage en « thé Changqing de Songbai » en 1975, cette colline basse de seulement 400 mètres d'altitude est plongée dans une lutte acharnée pour la survie de sa région viticole à cause du choix de l'emplacement de l'incinérateur."
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Food
+category: 'Food'
 tags:
   [
     'Mingjian',
@@ -12,15 +11,19 @@ tags:
     'thé Changqing de Songbai',
     "lutte contre l'incinérateur",
   ]
-readingTime: 10
+subcategory: '飲品文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Food/名間埔中茶.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/名間埔中茶.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4ee811968726954e'
 sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-05T04:18:20.766745+00:00'
 ---
 
 > **En 30 secondes :**

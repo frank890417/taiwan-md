@@ -2,8 +2,7 @@
 title: 'Tofu puant : entre répulsion olfactive et quête du parfum, un sport extrême sensoriel taïwanais'
 description: "Du savoir-faire des anciens soldats de rue dans les années 1950 au « temple du tofu puant » invité aux banquets d'État, ce tofu fermenté porte en lui un demi-siècle de résilience taïwanaise. Cet article décrypte la curation vivante de micro-organismes derrière la saumure puissante, ainsi que les secrets aromatiques de la note grillée de Shenkeng et de la triple cuisson à Yuli."
 date: 2026-04-26
-author: 'idlccp1984'
-category: Food
+category: 'Food'
 tags:
   [
     'tofu puant',
@@ -13,15 +12,19 @@ tags:
     'Qiaotou de Yuli',
     'Dai Ji Du Zhi Zhi Jia',
   ]
-readingTime: 10
+subcategory: '經典小吃'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/臭豆腐.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/臭豆腐.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+translatedAt: '2026-11-05T04:15:45.909818+00:00'
 ---
 
 > **En 30 secondes :** Le tofu puant est la nourriture populaire la plus controversée et la plus emblématique de Taïwan. Né d'un heureux hasard sous la dynastie Qing, il a évolué sur l'île pour devenir un savoir-faire unique de « fermentation vivante ». Du tofu à la saumure de Shenkeng, avec sa note fumée, au miracle croustillant de la triple cuisson à Yuli, dans le Hualien, cet article vous fera comprendre pourquoi cette odeur qui fait fuir attire les autorités japonaises en fermentation au-delà des mers, et comment elle est devenue un symbole de la résilience culturelle taïwanaise.
@@ -84,7 +87,7 @@ Du banquet de tofu organisé après l'Oscar remporté par le film _Crouching Tig
 
 [^3]: [Le tofu puant contient des lactobacilles bons pour la santé intestinale ? L'effet est comparable à celui d'une boisson - Yahoo奇摩 News](https://tw.news.yahoo.com/%E7%B6%B2%E5%8F%8B%E8%BF%B7%E6%80%9D-%E8%87%AD%E8%B1%86%E8%85%90%E5%90%AB%E4%B9%B3%E9%85%B8%E8%8F%8C%E6%9C%89%E7%9B%8A%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7-%E8%B7%9F%E5%96%9D1%E9%A3%B2%E6%96%99%E7%9A%84%E6%95%88%E6%9E%9C%E5%B7%AE%E4%B8%8D%E5%A4%9A-004659979.html) — Voir le lien original pour plus de détails (notes complémentaires dans la source originale)
 
-[^4]: ! [Proportions parfaites ! Un kimchi taïwanais croquant en cinq minutes - Threads](https://www.threads.com/@mikiteresa/video/DWjErcngTwi/) — Voir le lien original pour plus de détails (notes complémentaires dans la source originale)
+[^4]: [Proportions parfaites ! Un kimchi taïwanais croquant en cinq minutes - Threads](https://www.threads.com/@mikiteresa/video/DWjErcngTwi/) — Voir la source originale en lien
 
 [^5]: [Tofu de Shenkeng - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B7%B1%E5%9D%91%E8%B1%86%E8%85%90) — Voir le lien original pour plus de détails (notes complémentaires dans la source originale)
 
