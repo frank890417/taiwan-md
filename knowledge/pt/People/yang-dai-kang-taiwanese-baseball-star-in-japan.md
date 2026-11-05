@@ -2,19 +2,21 @@
 title: 'Yang Dai-kang: Taitung 1987, NPB Ham Fighters Dez Anos Luva de Ouro a Gigantes FA Campista Externo Amis'
 description: 'Nascido em 17 de janeiro de 1987 na cidade de Taitung, etnia Amis, antigo nome Yang Chung-shou. Formado na divisão de ensino fundamental da Escola Secundária de Educação Física Afiliada à Universidade Nacional de Taitung, foi para o Japão estudar na Escola Secundária Fukuoka Daiichi. Draft NPB 2005: Ham Fighters/SoftBank dupla escolha de primeira rodada, Ham Fighters venceram no sorteio. 2012 Luva de Ouro de campista externo da Liga do Pacífico (primeiro campista nascido em Taiwan). 2016 transferência via FA para Yomiuri Giants. Carreira NPB: 1322 jogos, 105 HR, 482 RBI, média .270. Fim de 2021 saiu dos Giants, mudou para ligas independentes.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags: ['Desporto', 'Basebol', 'NPB', 'Amis', 'Indígena', 'Campista externo']
-readingTime: 7
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-04T23:41:59.411410+00:00'
 ---
 
 # Yang Dai-kang: Taitung 1987, NPB Ham Fighters Dez Anos Luva de Ouro a Gigantes FA Campista Externo Amis

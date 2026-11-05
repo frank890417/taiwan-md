@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-11-04T23:49:34.782179+00:00'
 ---
 
 # Hsu Wen-lung: Tainan 1928, Chi Mei Corporation 1959 ao Fundador do Museu com a Maior Coleção de Violinos do Mundo

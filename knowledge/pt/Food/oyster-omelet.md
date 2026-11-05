@@ -2,9 +2,7 @@
 title: 'Omelete de ostras: da pobreza à comida nacional, a história da evolução do paladar'
 description: 'Como um petisco taiwanês nascido da escassez de alimentos evoluiu da "panqueca frita" do período de Koxinga para a comida nacional que hoje conquista paladares dentro e fora de Taiwan, escondendo por trás os segredos do molho de amido e do molho de tempero.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'omelete de ostras',
@@ -17,15 +15,19 @@ tags:
     'molho de tempero',
     'batatas fritas Hwa Yuan',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-05T00:53:05.652135+00:00'
 ---
 
 > **Visão geral em 30 segundos**
