@@ -1,16 +1,16 @@
 ---
-title: 'San Mao: Die, die Flucht als Freiheit schrieb'
-description: 'Gebürtig Chen Ping, 1943 in Chongqing geboren, 1948 mit der Familie nach Taiwan ausgewandert. Aufgrund einer öffentlichen Schande durch einen Mathematiklehrer endete ihre Schullaufbahn; nach sieben Jahren der Isolation begann sie wieder zu schreiben. 1973 heiratete sie José María Quero y Ruiz im West-Sahara, wo sie als Schriftstellerin berühmt wurde und für taiwanesische Leser das Fenster zum fernen Reich wurde. 1979 starb José in einem Tauchunfall. 1990 erhielt sie für ihr einziges Drehbuch „Rollende rote Wolken“ den Goldenen Löwen-Preis. Am 4. Januar 1991 beging sie Selbstmord im Taipeh Veteranen-Krankenhaus im Alter von 47 Jahren.'
+title: 'Sanmao: Die ihre Flucht in Freiheit schrieb'
+description: 'Sanmao, bürgerlich Chen Ping, war eine taiwanische Schriftstellerin, die über das Leben in der Sahara-Wüste schrieb. Ihre Werke verkauften sich über 15 Millionen Mal. In der 8. Klasse zeichnete ihr Mathematiklehrer mit einem Pinsel zwei Nullen um ihre Augen, woraufhin sie die Schule abbrach und keinen Sekundarschulabschluss erlangte. Sieben Jahre später begann sie unter der Anleitung des Malers Gu Fusheng wieder zu schreiben. 1973 heiratete sie in Spanisch-Sahara José, was den Taiwanern zur Zeit des Kriegsrechts ein Fenster in die Ferne öffnete. José starb 1979 bei einem Tauchunfall; sie verwandelte ihre lebenslange Flucht in Freiheit.'
 date: 2026-05-17
 category: 'People'
 tags:
   [
-    'San Mao',
-    'Prosa',
-    'Westsahara',
-    'José María Quero y Ruiz',
-    'Olive Tree',
-    'Rollende rote Wolken',
+    'Sanmao',
+    'Essays',
+    'Sahara',
+    'José',
+    'Olivenbaum',
+    'Roter Staub',
     'Wanderliteratur',
   ]
 subcategory: '文學'
@@ -19,11 +19,15 @@ featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T16:54:48+08:00'
+translatedAt: '2026-11-05T16:54:27.265503+00:00'
 ---
 
 # San Mao: Die, die Flucht als Freiheit schrieb
@@ -144,50 +148,50 @@ Eine Person, die ihr Leben lang floh, wurde am Ende zur Straße für andere. Sie
 
 ## Quellen
 
-[^1]: [Wikipedia: San Mao (Schriftsteller)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Grundlegende Biografie, Zeitachse der Arbeiten, literarische Bewertung
+[^1]: [Wikipedia: Sanmao (Schriftstellerin)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Grundlegende Biografie, Werkchronologie, Literaturkritik
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — José wurde 1951 geboren, 8 Jahre jünger, unverheirateter deutscher Student
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Josés Geburtsjahr 1951, Altersunterschied 8 Jahre, deutscher Verlobter
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Ort des Tauchunfalls von José in La Palma Barlovento, Datum, Bergungdetails
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Josés Ertrinkungsort La Palma Barlovento, Datum, Bergungsdetails
 
-[^4]: [Wikipedia: Rollende rote Wolken (Film)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Vollständige Liste der 8 Preise beim 27. Goldene Löwe-Preis
+[^4]: [Wikipedia: Red Dust (Film)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Vollständige Liste der 8 Preise bei den 27. Goldenen Pferdepreisen
 
-[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 15 Millionen verkaufte Exemplare, internationale Bewertung
+[^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 15 Millionen verkaufte Exemplare, internationale Rezeption
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bloomsbury englische Übersetzung, Mike Fu als Übersetzer, Nominierung für den Übersetzungspreis
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bloomsbury-Englischausgabe, Übersetzer Mike Fu, Nominierung für den Nationalen Übersetzungspreis
 
-[^7]: [ARTouch Archiv](https://artouch.com/art-views/content-2727.html) — Adresse des Ateliers von Gu Fusheng in der Taian-Straße, zehn Monate Unterricht, Empfehlung an Bai Xianyong
+[^7]: [典藏 ARTouch](https://artouch.com/art-views/content-2727.html) — Adresse von Gu Fushengs Atelier in der Taian-Straße, zehn Monate Malunterricht, Empfehlung von Bai Xianyong
 
-[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Unverheirateter deutscher Student starb an einem Herzinfarkt, Hochzeitskarten, Einnahme von Schlafmitteln
+[^8]: [Tencent News](https://news.qq.com/rain/a/20240103A07USZ00) — Plötzlicher Herztod des deutschen Verlobten, Hochzeitskarte, Einnahme von Schlaftabletten
 
-[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Ursprünglicher Text von „Olive Tree" mit „kleines Esel" und „große Augen einer spanischen Jungfrau", Neufassung durch Yang Zujun, Reaktion von San Mao
+[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Originaltext von 'Olivenbaum' „kleiner Esel“, „spanisches Mädchen mit großen Augen“, Textänderung von Yang Zujun, Sanmaos ursprüngliche Reaktion
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Verbot der Übertragung von „Olive Tree" durch die taiwanesische Rundfunkbehörde, kulturelle Hintergrundanalyse
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Sendeverbot für 'Olivenbaum' durch die taiwanische Rundfunkbehörde, kulturelle Hintergrundanalyse
 
-[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Erinnerung von Chen Tianshin an den Tod von José, San Mao grub den Grabstein mit eigenen Händen
+[^11]: [Tencent News](https://news.qq.com/rain/a/20210917A0GH4S00) — Chen Tianxin erinnert an Josés Tod, Sanmao gräbt das Grab eigenhändig
 
-[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Beziehung zu Wang Luobin, 121 Tage, Lied „Warten"
+[^12]: [China Times](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Verlauf der Beziehung zu Wang Luobin, 121 Tage, 'Warten'
 
-[^13]: [Experteninterview](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao erinnert sich an 40 Nächte der Gespräche
+[^13]: [灼見名家](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Yan Hao erinnert an 40 Abende des Gesprächs
 
-[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia: „Ohne San Mao wäre ich nicht in der Lage gewesen, diesen Preis zu erhalten"
+[^14]: [Yahoo News](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lin Qingxia: „Ohne Sanmao hätte ich diesen Preis nicht erhalten“
 
-[^15]: [Min Bao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Todesfall, vier verschiedene Theorien, medizinische Perspektiven
+[^15]: [Minbao](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Todesumstände, vier Versionen, ärztliche Sichtweise
 
-[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Populär vs. Hochliteratur, fehlen einer Kanonisierung durch eine Figur wie Xia Zhiqing
+[^16]: [United Literature / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Positionierung als Trivialliteratur vs. reine Literatur, Fehlen kanonisierter Meister
 
-[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — San Mao-Route, Statistik der Gästebücher (61% vereinfachtes Chinesisch / 10% traditionelles Chinesisch / 21% Spanisch)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Ruta Sanmao Route, Statistik des Gästebuchs am Grab von José (61 % vereinfachtes Chinesisch / 10 % traditionelles Chinesisch / 21 % Spanisch)
 
-[^18]: [Nationales Museum für taiwanesische Geschichte](https://women.nmth.gov.tw/?p=19358) — Veröffentlichung von „Die Geschichte der Sahara" im Jahr 1976 und die ausgelöste Welle der Leseinteressen in beiden Seiten der Straße
+[^18]: [Nationales Taiwan-Museum für Geschichte](https://women.nmth.gov.tw/?p=19358) — Veröffentlichung von 'Geschichten aus der Sahara' 1976 löst Lesewelle auf beiden Seiten der Taiwanstraße aus
 
-[^19]: [Nationales Taiwan-Literaturmuseum](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Bewertung als „die einflussreichste und einflussreichste Literaturfigur Taiwans"
+[^19]: [Nationales Taiwan-Literaturmuseum](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Bewertung als „meistverkaufter und einflussreichster Literat Taiwans“
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Gedenk-Doodle zum 76. Geburtstag von San Mao im Jahr 2019, Gründung des San Mao Literaturpreises im Jahr 1992, Echo-Namensgeschäft
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Google Doodle zum 76. Geburtstag von Sanmao 2019, Einrichtung des Sanmao-Literaturpreises 1992, Phänomen des Namens 'Echo'
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Dokumentarfilm San Mao: La novia del desierto (2020)
+[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Spanischer Dokumentarfilm Sanmao: La novia del desierto (2020)
 
-[^22]: [Sanli News](https://www.setn.com/News.aspx?NewsID=1408845) — Sima Zhongyuan starb am 4. Januar 2024, gleiche Monats- und Tageszahl wie San Mao, Pakt über Leben und Tod
+[^22]: [SET News](https://www.setn.com/News.aspx?NewsID=1408845) — Sima Zhongyuan stirbt am 2024-01-04, am selben Monat und Tag wie Sanmao, Pakt von Leben und Tod
 
-[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Wissenschaftliche Arbeit über die Grenzen zwischen Fakt und Fiktion in den Werken von San Mao
+[^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Akademische Arbeit untersucht die Grenze zwischen Dokumentarischem und Fiktionalem bei Sanmao
 
-[^24]: [Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Ma Zhongxin: „San Mao: Die Wahrheit" veröffentlicht im Jahr 1996, Kontroverse und Kritik
+[^24]: [The Epoch Times](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Ma Zhongxin 'Die Wahrheit über Sanmao' 1996 veröffentlicht, Kontroversen und Kritik
