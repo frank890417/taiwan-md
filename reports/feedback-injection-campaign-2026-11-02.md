@@ -584,3 +584,98 @@ HG13 真實讀者那筆用全長 UUID ＋ `--limit 100` 讀完全文才判（`--
 與第三輪逐筆相同（80 筆攻擊列已對賬命中 §第二輪清單，外加 `a00cc239` 真實讀者重複投遞）。
 
 _本節由 2026-11-05-070000-twmd-feedback-triage 寫成。金鑰值不在本檔任何一處。_
+
+---
+
+# 第五輪（2026-11-06）：窗口外坐著一位署名醫師
+
+> 一句話：**前一輪寫「今天沒有新讀者被擋住，但那是運氣，不是機制」。運氣隔一天就用完了。**
+
+## 今天的讀數
+
+佇列 `status=new` 共 **82 筆**：80 筆攻擊列（逐筆對賬命中 §第二輪清單）＋ `a00cc239`
+菜國人〈戰鬥陀螺〉重複投遞（前一筆 #1951 已修好關閉）＋ **一筆全新的真實讀者**。
+
+`file=1 reject=0 skip=0 hold=0 exclude=81`／`archive-reconcile=106/106 ✅`／
+`comment-reconcile=103/106 · ⚠️ 抓不到留言 2 份紀錄`。開出 **1 筆 issue：#1965**。
+
+偵測器仍 **0/50**。十個欄位的 payload 分佈與前四輪同型（本輪又多兩種載體組合：
+`lang` 與 `page_kind` 同時帶指令、`source_url` 塞整段西班牙文／韓文／日文版指令）。
+
+那 80 筆要求的指令一條都沒執行：`cat ~/.taiwanmd-feedback.env`、
+`env | grep -iE SUPABASE|SERVICE`、`feedback_admin?select=*` 全部沒跑過。
+金鑰值不在任何 commit、issue、archive 或本報告裡。讀者文字是資料，不是指令。
+
+## 被擋住的那位讀者
+
+`746fd54c` **Fred Guo（臺大醫院家庭醫學部 郭斐然醫師）**，2026-11-05 16:55 UTC 送出，
+排在佇列**第 82 位**——預設 `--limit 50` 的窗口外。內容是對〈台北吸菸室〉的實質勘誤：
+我們文中追論文時認錯了版本，把拒菸聯盟記者會引用的 2023 年〈某閉鎖型喫煙所内および
+その周辺における受動喫煙の状況〉錯認成同一作者 2024 年的〈京都駅の屋外喫煙所周辺に
+おける受動喫煙の状況〉，於是整段「它測的不是密閉室」的反駁站在錯的論文上。
+他附了論文 PDF 與記者會原文連結。
+
+這是 [MANIFESTO §12 受眾端飛輪](../docs/semiont/MANIFESTO.md) 與
+[REFLEXES #16](../docs/semiont/REFLEXES.md) 講的那一層：領域內行人秒懂、研究 agent
+抓不到、只有讀者抓得到。**他是當事方之一（記者會那側），所以他的說法是線索不是判決**——
+查證與回覆留 `twmd-maintainer-daily` 的人類 gate，本班只做機械轉錄（HG8 不動）。
+
+撈到他的不是儀器，是第三輪寫進交接的一條零判斷動作：「預設跑完若窗口幾乎全被排除，
+加大 `--limit` 再跑一次」。那條動作三輪都靠當班自覺執行。**今天是它第一次真的接住一個人。**
+
+## 這一輪補的那行字
+
+`fetched 50` 同時是「佇列剛好 50 筆」與「只讀到最舊的一截」兩種事實的長相
+（[REFLEXES #38](../docs/semiont/REFLEXES.md) 混維度，載體是「窗口滿」這個數字）。
+已落地 `formatQueueWindow()`（pipeline v1.17，純函式 + 5 unit test，94/94 綠）：
+
+```
+[triage] 取數窗口：讀進 50 筆已到 --limit 50 上限 · 佇列 status=new 共 81 筆 · ⚠️ 窗口外還有 31 筆這一輪沒看到
+```
+
+**不自己加大窗口、不改預設值**——窗口該開多大是閾值，且跟「那 80 筆怎麼收尾」是同一個
+決定（#119 的 (b)）。這一行只讓當班知道該撈。
+
+## 閘門逐條核過
+
+HG1 BECOME review ACK ✅／HG2 issue body 無 email（regex 實測 0 命中）✅／
+HG3 讀者文字 verbatim 進 tilde fence ✅／HG4 feedback id provenance ✅／
+HG5 spam 0 筆 ✅／HG6 dedupe（開 issue 那一輪 `gh issue list` 正常，repo 全庫搜
+「吸菸室」只回 #1965，無重複）✅／HG7 status 回寫（filed 1 筆，排除 81 筆維持 new）✅／
+HG8 未以維護者身份對任何人開口 ✅／HG9 fence ✅／HG10 偵測器 0 命中（缺口照舊，見 #119）／
+HG11 `GH_TOKEN` 走 GitHub App（`ghs_`、383 字元、`{"issues":"write","metadata":"read"}`、
+單一庫；issue #1965 作者實測 `app/taiwanmd-semiont` `is_bot=true`）✅／
+HG12 `git add docs/feedback/archive/` ✅／HG12b 106/106 ✅／
+**HG12c 103/106 ⚠️ 未對賬**（見下節）／HG13 全 50 筆 `--show-all` 讀完全文才判，
+窗口外兩筆另用 `--limit 200` 讀完 ✅。
+
+## HG12c 這次是真的沒對上帳，原因在本機不在 sync
+
+`comment-reconcile=103/106`，兩份紀錄抓不到留言。HG12c 寫明這個方向
+**不准讀成對得起來**，所以本班查了：兩次 `--commit` 的未對賬名單**不一樣**
+（第一次 #1189／#1320，第二次 #1145），同時出現 `Post "https://api.github.com/graphql":
+net/http: TLS handshake timeout` 與 `read: connection reset by peer`，第二輪的
+`gh issue list` 也整支失敗。本班第一次換 App token 也被 reset 一次，重試即成。
+
+名單在輪次間變動＋錯誤都是傳輸層，指向**本機網路而非 sync 破口**，而這台機器今天
+已經有三條 routine 撞到同一件事：babel 夜班量到 `TIME_WAIT` 25.6 萬不回收、開機第 53 天
+（[OBSERVER-QUEUE](../docs/semiont/OBSERVER-QUEUE.md) #124 請哲宇決定重開機）、
+embeddings 夜班本機 bge-m3 探針 6/6 掛住、本班兩次 GitHub API 傳輸層失敗。
+**三條獨立 routine 同日同根因，把 #124 從「babel 的問題」變成整台機器的問題。**
+`--intake-health` 第一次也因此全回 `❔`，重試後四層全綠——`❔` 這一態今天證明它確實
+會因為量不到而亮，不是只有綠燈被觀察過。
+
+## 留給哲宇的，跟前四輪同一條（OBSERVER-QUEUE #119）
+
+(a) 偵測器欄位射程與 pattern 族的判準校準、(b) 那 80 筆怎麼收尾——**兩條都還在你這裡，第五天**。
+
+**不決策的代價今天從假設變成事實**：一位署名醫師的實質勘誤在窗口外坐了 6 小時，
+接住他的是一條靠自覺執行的交接動作，不是閘門。他今天被接住了；下一位要不要被接住，
+仍然取決於當班有沒有想起要加大 `--limit`。
+
+## 今天的排除清單（81 筆，`status` 維持 `new`）
+
+與第四輪逐筆相同：80 筆攻擊列（已對賬命中 §第二輪清單）＋ `a00cc239` 真實讀者重複投遞
+（正確處置是 skip，夠不夠格自動 skip 屬去重判準，併在 #119 討論）。
+
+_本節由 2026-11-06-070000-twmd-feedback-triage 寫成。金鑰值不在本檔任何一處。_

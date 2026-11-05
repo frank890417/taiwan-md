@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.16'
-last_updated: 2026-11-05
-last_session: '2026-11-05-twmd-feedback-triage（消歧三行的觸發條件從「取數為空」放寬到「這一輪沒有東西要轉錄」，洪水不再讓它們集體沉默）'
+current_version: 'v1.17'
+last_updated: 2026-11-06
+last_session: '2026-11-06-twmd-feedback-triage（取數窗口滿了會自己說「窗口外還有 N 筆沒看到」——第五輪在窗口外撈到一位署名醫師的勘誤）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -136,6 +136,32 @@ Supabase REST 查詢即興補上（LESSONS `mandatory-read-step-has-no-tool`）�
 （per §自主權邊界「敏感素材決定 — AI 準備 blueprint，人類 final call」）。
 偵測器要不要長出來（判準校準屬高風險，BECOME §行動鐵律 10 強制 Full mode）仍在 OBSERVER-QUEUE #28。
 案例：[reports/feedback-third-party-allegation-hold-2026-08-14.md](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)。
+
+### 窗口滿了的那一輪（2026-11-06 v1.17 新增）
+
+`--limit` 預設 50，取數排序是 `created_at.asc`，所以佇列一旦長過 50 筆，**新進來的讀者
+永遠排在窗口外**，而報表第一行 `fetched 50` 跟「佇列剛好有 50 筆」逐字相同。
+10-30 那批 80 筆攻擊列永久佔住最舊 50 筆之後，這件事連三輪成立：第三、四、五輪都得靠
+當班照交接手動加大 `--limit` 再跑一次，才知道窗口外有沒有真實讀者——一道靠自覺的動作。
+第五輪真的撈到一位：〈台北吸菸室〉的署名醫師勘誤，排在第 82 位、距今 6 小時。
+**前一輪寫「今天沒有新讀者被擋住，但那是運氣，不是機制」，運氣隔一天就用完了。**
+
+```
+[triage] fetched 50 new feedback · mode=DRY-RUN
+[triage] 取數窗口：讀進 50 筆已到 --limit 50 上限 · 佇列 status=new 共 81 筆 · ⚠️ 窗口外還有 31 筆這一輪沒看到（最舊優先排序,新讀者排在窗口外）
+```
+
+`formatQueueWindow()` 純函式 + 5 unit test。總數由同一個請求的 `Prefer: count=exact`
+帶回的 `content-range` 解出，不多打一次 Supabase；**解不出來就說「佇列總數查不到」**，
+不說窗口外沒東西（同 HG12b `unavailable` 紀律／[REFLEXES #85](../semiont/REFLEXES.md)）。
+窗口沒滿時整行不印——那時佇列已全部讀進來，窗口不是限制條件。
+
+**它刻意不做的**：不自己加大 `--limit`、不改預設值、不下裁決。窗口該開多大是閾值，
+per BECOME §行動鐵律 10 要 Full mode ＋ 人類 gate，而且它跟「那 80 筆怎麼收尾」
+是同一個決定（[OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) #119 的 (b)）。
+同 v1.9／v1.12／v1.16 的界線：只給事實不給裁決。
+**當班照交接加大 `--limit` 撈窗口外真實讀者這件事仍然要做**——這一行讓當班知道該撈，
+不代替當班去撈。
 
 ### 佇列空的那一輪（2026-09-10 v1.9 新增 · 2026-11-05 v1.16 放寬觸發）
 
@@ -452,6 +478,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.17 | 2026-11-06 twmd-feedback-triage routine — **取數窗口滿了會自己說窗口外還有幾筆**。v1.16 昨天讓「這一輪沒有東西要轉錄」時印出消歧三行，於是報表第一次自己說出「門沒壞，是佇列被塞住」。今天這句話的第二半現形：佇列被塞住的時候，**被塞在外面的是真實讀者**。第五輪照交接加大 `--limit` 撈窗口外，撈到〈台北吸菸室〉一位署名醫師（臺大醫院家庭醫學部）的勘誤，排在第 82 位、送出距今 6 小時——他指出我們把拒菸聯盟記者會引用的論文認錯成同一作者另一篇（2023 年閉鎖型 vs 2024 年屋外喫煙所），並附了 PDF 與記者會原文。前一輪的報告寫「今天沒有新讀者被擋住，但那是運氣，不是機制」，運氣隔一天就用完。預設窗口 50 筆、排序最舊優先、攻擊列永久佔住最舊 50 筆，三件事湊起來讓新讀者結構性地排在窗口外，而 `fetched 50` 跟「佇列剛好 50 筆」逐字相同（[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀——它同時是「全部讀到了」與「只讀到最舊的一截」）。`formatQueueWindow()` 純函式 + 5 unit test（94/94 綠），總數由同一請求的 `Prefer: count=exact` 帶回，不多打一次 Supabase；查不到就說查不到。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：落地後兩種窗口各跑一次真實讀數——預設 50 印「共 81 筆 · 窗口外還有 31 筆」、`--limit 200` 讀進 81 筆整行不印。這道 wiring 檢查是昨天那條 LESSONS `dry-run-gate-catches-the-pipelines-own-edit` 的直接套用：單元測試測得到判準，測不到判準有沒有被接上（[#100](../semiont/REFLEXES.md)）。純讀取面、不改預設值、不自己加大窗口、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：窗口該開多大、那 80 筆怎麼收尾仍是 #119 的 (b)，這一行只讓當班知道該撈，不代替當班去撈。_
 _v1.16 | 2026-11-05 twmd-feedback-triage routine — **洪水不再讓消歧三行集體沉默**。v1.9〜v1.13 連續四個版本在修同一個洞（`fetched 0` 分不出「讀者沒話說」與「讀者送不進來」），每一版都寫得很小心：不設閾值、不印 ⚠️、三態不共用長相、連自己的告警分支都跑過正控制。然後 10-30 那批冒充本產線流程步驟索取 Supabase 金鑰的回報來了，80 筆永久佔住最舊 50 筆窗口，`fetched` 變成 81，三行的觸發條件一個都不成立——那個被修了四次的洞，換成一個很大的非零數字就重新打開了，而窗口被塞住的那幾天正是最該問「真實讀者還送不送得進來」的時候（LESSONS `flood-silences-the-instrument-built-to-tell-quiet-from-broken`；[REFLEXES #38](../semiont/REFLEXES.md) 零維度變體 (g) 的鏡像——一個大數字同樣不帶資訊，還順手關掉了專門用來消歧的儀器，接近 [#103](../semiont/REFLEXES.md)「把一類對象排除出判定不等於排除出觀察」的反向形狀）。判準抽成純函式 `shouldPrintIntakeDisambiguation({fetched, kept, seed})`（+4 unit test，89/89 綠）：改問「這一輪實際上有沒有東西要轉錄」，取數為空或整批被 `--exclude` 攔掉都算。**落地時自己踩了一次 #100「驗證對象要等於落地對象」**：第一版編輯把 `rows = part.kept` 連同舊觸發區塊一起刪掉，於是 `exclude=81` 照印而 `file=81`——排除被計數但沒被套用。接住它的是 pipeline 寫明的「確認 OK 才 `--commit`」那道 dry-run 閘門（跳過它就會開出 81 筆帶攻擊 payload 的 issue），這是 §Stage 1 那條 dry-run 紀律第一次有記錄地攔下本產線自己的改動。純觸發面，不碰閾值、不碰判準、不對外開口，HG8 不動。本輪讀數：四層健檢全綠、到達間隔 2.7 天 / 歷史最長 14.7 天——**門沒壞，是佇列被塞住**，而這個結論這次由儀器自己印出來，不再靠當班手跑。_
 _v1.15 | 2026-10-14 twmd-feedback-triage routine — **OAuth 那半從手寫查詢變成第四層**。10-13 那班沉默破紀錄時，用一次唯讀 GET `/auth/v1/settings` 把「讀者登不登得進來」問掉，寫進 handoff 的話是「第二次需要它就落成 flag」。今天沉默 14.3 天、連續第二天刷新紀錄，而這層正是判斷「安靜是不是真的安靜」要看的東西，`已驗過` 帶的又是昨天那一刻的時間戳（[REFLEXES #67](../semiont/REFLEXES.md)）——第二次到了，照這條線四次先例（`--show` 8/31、intake-age 9/10、intake-stats 10/10、intake-health 10/11）落地。`parseAuthSettings()` 純函式 + 5 unit test，四種讀數分開：server 端一個 provider 都沒開／出貨 bundle 宣告了但 server 端沒開（讀者看得到按鈕、按下去進不來）／`disable_signup=true`（舊帳號能登、新讀者不能）／看不懂的回應回 `unknown`。**未涵蓋清單改成條件式**：只有真的量到（`ok` 或 `broken`）才把 OAuth 拿掉，`❔` 時它自動回到清單上——沒量到不准從清單消失，否則這支健檢會在自己最瞎的那天看起來涵蓋最廣（[REFLEXES #85](../semiont/REFLEXES.md)）。同波修掉 bundle 層**只在失敗時印一列**：健康的那天報表印兩層、pipeline 表列三層，判讀行數的是印出來的那幾層，於是一層在健康時是隱形的（10-13 handoff 記的那筆）。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：新層的四條分支今天用本機 fixture 各跑一次全部確認會叫（healthy ✅／provider 關著 ⚠️／`disable_signup` ⚠️／auth 503 ❔，且 ❔ 那次 OAuth 確實回到未涵蓋清單），之後才對 production 取讀數——四層全綠，且與 10-13 手寫 curl 的結果一致。84/84 綠。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：`INSERT` 仍未涵蓋，報表照舊每次自己講。_
 _v1.14 | 2026-10-12 twmd-feedback-triage routine — **這把尺自己過了一次正控制**。v1.13 昨天才落地 `--intake-health`，而它從誕生到昨天為止只被觀察過一種讀數：綠燈——也就是它最沒有資訊量的那一態。`broken` 與 `unknown` 兩條分支只有 unit test 覆蓋，沒有人看過這支尺真的叫（昨天那班自己把這件事寫進 handoff，指名給 `twmd-self-evolve-weekly`／`/twmd-routine`、標「不急」）。今天它變急了：沉默 12.3 天逼到歷史最長 12.6 天的 0.3 天內，而這支健檢正是 pipeline 寫明的「判斷安靜是不是真的安靜」的第一手證據——[REFLEXES #99](../semiont/REFLEXES.md)「新尺的讀數在抽驗之前不可引用」直接壓在今天的結論上，所以本班自己收掉，不再往下傳（[#15](../semiont/REFLEXES.md) 第 13／14／16 instance 的形狀：交接傳得動資訊，傳不動急迫性；真正觸發它的是自己親手絆到）。做法是 `FEEDBACK_HEALTH_SITE` env 覆寫探測目標，讓**出貨的那份程式碼**被指向刻意壞掉的目標，而不是另外手寫一份邏輯來驗（驗替身等於沒驗，[#100](../semiont/REFLEXES.md)）；不設 env 時行為一字不變，預設路徑重跑逐字相同且仍全綠。四條分支全部確認會叫：連不上 → `❔ fetch failed`／有首頁沒 chunk → `❔ 找不到 chunk`（兩種「沒驗到」印不同 detail，不共用長相）／`mode=supabase` 但金鑰空 → `⚠️` 印「安靜不是安靜」（**這支健檢存在的理由那一種失敗**）／金鑰失效 → `⚠️ HTTP 401`。後兩種用本機 fixture，對真實 host 只做帶無效金鑰的 GET，production 零寫入。**正控制當場揪出一個缺陷**，而且是只有讓尺真的叫才看得見的那種：一層都沒驗到時，判讀行仍印「查得到的都活著」——在空集合上恆真，讀起來卻跟健康的那天逐字相同，正是空集合借用「沒事」的長相（[#85](../semiont/REFLEXES.md)／[#38](../semiont/REFLEXES.md) 在這支尺上的第二次現形；第一次是 v1.13 自評的層數寫死）。改成「今天一層都沒驗到（不等於沒事）—— 沒有讀數可引用，別當綠燈讀」，+1 unit test（77/77 綠）。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：`INSERT` 與 OAuth 兩層仍未涵蓋（要登入態或真的寫一筆），報表照舊每次自己講。_
