@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:57:43.557510+00:00'
+translatedAt: '2026-11-05T04:17:48.804114+00:00'
 ---
 
 > **30-second overview:** Pineapple cake is the intersection of Taiwan's agriculture and baking craftsmanship. Founded by Yan Shin-Fa in Taichung in 1945, it shifted to a smooth winter melon filling in the 1970s when pineapple exports declined, then returned to public awareness via SunnyHills' "native pineapple" approach after 2009. Today, this small golden brick has an annual production value exceeding NT$25 billion and has become the most representative Taiwanese flavor in the minds of foreign visitors.

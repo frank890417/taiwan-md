@@ -1,7 +1,8 @@
 ---
 title: 'Oyster Omelet: The Flavor Evolution from Poverty to National Dish'
 description: "A Taiwanese snack born from food scarcity — how the 'pan-fried lump' of Koxinga's era evolved into the nationally beloved dish enjoyed at home and abroad, and the sensory secrets hidden inside its starch slurry and sauce."
-category: Food
+date: 2026-04-26
+category: 'Food'
 tags:
   [
     'oyster omelet',
@@ -14,17 +15,19 @@ tags:
     'sauce',
     'Hua Yuan potato chips',
   ]
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
-date: 2026-04-26
-readingTime: 12
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蚵仔煎.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
-translatedAt: '2026-05-01T08:56:11+08:00'
-featured: false
+translatedAt: '2026-11-05T04:30:57.051921+00:00'
 ---
 
 > **30-second overview**

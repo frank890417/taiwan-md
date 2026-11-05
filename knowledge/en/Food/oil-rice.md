@@ -1,28 +1,30 @@
 ---
-title: "Oil Rice (油飯): From 'Conspicuous Glutinous Rice' to the Weighty Gift Carrying a Life's Milestone"
-description: "On Taiwan's streets in 2026, a portion of oil rice remains many people's first choice for celebrating a new birth. This dish — rooted in the traditions of Han Chinese migrants, evolved in Taiwan into a sweet-and-savory 'connoisseur's ratio' — combines glutinous rice and shallots into the most substantial blessing Taiwanese families offer at life's turning points."
-category: Food
-subcategory: '小吃'
+title: "Oil Rice: From 'Flaunting Wealth' Glutinous Rice to a Full-Moon Gift Bearing Life's Weight"
+description: "On Taiwan's streets in 2026, a bowl of oil rice remains the first choice for many celebrating a new birth. This dish, originating from Han Chinese immigrant traditions and evolving in Taiwan into a cuisine with a 'gourmand's ratio' of savory-sweet interplay, combines glutinous rice and shallots into the most substantial blessing Taiwanese families offer at life's turning points."
+date: 2026-04-28
+category: 'Food'
 tags:
   [
-    'oil rice',
-    'full-moon celebration',
-    'Taiwanese street food',
-    'food culture',
-    'glutinous rice',
-    'banquet culture',
+    'Oil Rice',
+    'Full Moon Celebration',
+    'Taiwanese Snacks',
+    'Food Culture',
+    'Glutinous Rice',
+    'Banquet Culture',
   ]
+subcategory: '小吃'
 author: 'Taiwan.md Contributors'
 featured: false
-date: 2026-04-28
-readingTime: 10
 lastVerified: 2026-04-28
 lastHumanReview: true
-translatedFrom: Food/油飯.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/油飯.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-06-11T16:38:12Z'
+translatedAt: '2026-11-05T04:50:01.389386+00:00'
 ---
 
 > **30-second overview:**

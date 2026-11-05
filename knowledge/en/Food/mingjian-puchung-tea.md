@@ -1,12 +1,8 @@
 ---
-translatedFrom: 'Food/名間埔中茶.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4ee811968726954e'
-sourceBodyHash: 'sha256:eac4101c04e140f1'
-translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Mingjian Puchung Tea: The Unsung Hero Supplying 80% of Taiwan's Bubble Tea Base"
 description: "The 2025 Mingjian incinerator controversy accidentally exposed that 80% of Taiwan's bubble tea base comes from Nantou's Mingjian. From the Qing-dynasty 'Three Puchung' reputation to the 1975 renaming as 'Songbai Evergreen Tea,' this low-altitude hillside — producing at only 400 meters elevation — is now locked in a fierce battle to protect the tea-growing region's right to survive after an incinerator was planned for the site."
-category: Food
+date: 2026-04-25
+category: 'Food'
 tags:
   [
     'Mingjian Township',
@@ -15,12 +11,19 @@ tags:
     'Songbai Evergreen Tea',
     'incinerator protest',
   ]
+subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'
-date: 2026-04-25
-readingTime: 10
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/名間埔中茶.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:4ee811968726954e'
+sourceBodyHash: 'sha256:eac4101c04e140f1'
+translatedAt: '2026-11-05T04:22:46.432251+00:00'
 ---
 
 > **30-second overview:**

@@ -1,20 +1,31 @@
 ---
-title: "Xu Wen-long: Tainan 1928, Chi Mei Corporation 1959, and the Founder of the World's Largest Violin Collection Museum"
-description: "Born 2/25/1928 in Tainan, passed away 11/18/2023 (age 95). Founded Chi Mei Corporation in October 1959 (capital of NT$2 million). Began acquiring violins in 1990, amassing a total of 1,362 (the world's largest private collection). Chimei Museum officially opened on 1/1/2025 in Tainan Metropolitan Park. A passionate violinist; Chimei Museum was initially open free of charge (current policy P0⚠️ pending confirmation)."
+title: "Wen-long Xu: Tainan 1928, Chi Mei Corporation 1959 to Founder of the Museum with the World's Largest Violin Collection"
+description: "Born 1928/2/25 in Tainan, died 2023/11/18 (age 95). Founded Chi Mei Corporation in Oct 1959 (capital NT$2 million). Began collecting violins in 1990, totaling 1,362 (world's most). Chi Mei Museum officially opened 2015/1/1 (Tainan Metropolitan Park). Loved violins; Chi Mei Museum offers free admission (current policy P0⚠️ pending confirmation)."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "科技與企業"
-tags: ['科技與企業', '奇美集團', '企業家', '音樂藝術', '博物館', '文化推廣', '台南']
-readingTime: 7
+category: 'People'
+tags:
+  [
+    'Technology & Enterprise',
+    'Chi Mei Group',
+    'Entrepreneur',
+    'Music & Art',
+    'Museum',
+    'Cultural Promotion',
+    'Tainan',
+  ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: "People/許文龍.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:720cd768af91d1c3"
-sourceBodyHash: "sha256:7ec1f1d13ec2e4d4"
-translatedAt: "2026-05-20T05:08:27+08:00"
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/許文龍.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:720cd768af91d1c3'
+sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
+translatedAt: '2026-11-05T04:14:33.702660+00:00'
 ---
 
 # Xu Wen-long: Tainan 1928, Chi Mei Corporation 1959, and the Founder of the World's Largest Violin Collection Museum
