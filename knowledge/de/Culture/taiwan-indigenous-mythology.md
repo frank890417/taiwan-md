@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T11:28:05.084425+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Diese Insel Taiwans ist nicht nur geografisch vielfältig, sondern auch ein Schatzkammer kultureller Mythologien. Von der Schöpfung durch Felsspaltung bei den Tayrona bis zu den Sonnenjagd-Erzählungen der Bunun und der Großen Flut und der Geschwisterheirat der Amis spiegeln diese mündlichen Epen nicht nur die Kosmologie der jeweiligen Stämme wider, sondern auch ihre tiefgreifende Interaktion und Anpassungsfähigkeit an die natürliche Umwelt. Diese Mythen sind ein unverzichtbarer Schlüssel zum Verständnis der Kultur der indigenen Völker Taiwans.

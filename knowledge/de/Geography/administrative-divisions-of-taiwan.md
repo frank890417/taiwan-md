@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-05T10:29:40.715771+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Die heutige Struktur von „Sechs Städten und Sechzehn Kreisen“ in Taiwan ist das Ergebnis mehrerer politischer Operationen über vierhundert Jahre. Im 17. Jahrhundert überwachten die Niederländer die Stämme durch „Lokale Versammlungen“; die Zheng-Dynastie und die Qing-Herrschaft führten das chinesische Kreis-System ein; während der japanischen Kolonialzeit legte man mit den „Fünf Provinzen und Drei Bezirken“ und der Eindeutschung von Ortsnamen das Gerüst der modernen Verwaltung. Nach dem Krieg gab es fast realisierte, nach Personen benannte "Superstädte", die 2010 durch die Umstrukturierung zu den Fünf Städten zur Aufnahme von sechzig Prozent der Bevölkerung führten und eine aktuelle Herausforderung des Ressourcenungleichgewichts hinterließen.
