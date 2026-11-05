@@ -2,9 +2,7 @@
 title: 'Bolo solar: do tabu do «girassol» na era da lei marcial à disputa de marcas na Rua da Liberdade em Taichung'
 description: 'Em 1964, a padaria «Taiyang Tang» na Rua da Liberdade em Taichung inaugurou, mas o mosaico de girassóis do artista Yen Shui-long foi selado por 25 anos devido a tabus políticos. Como este bolo redondo, originado do bolo de malte da dinastia Qing tardia e aperfeiçoado por Wei Qing-hai, passou de coadjuvante do bento ferroviário ao símbolo cultural mais representativo de Taichung?'
 date: 2026-04-26
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
     'bolo solar',
@@ -14,15 +12,19 @@ tags:
     'Taiyang Tang',
     'malte',
   ]
-readingTime: 8
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: '2026-07-25T02:52:53+08:00'
+translatedAt: '2026-11-05T04:28:02.741228+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O bolo solar não nasceu com esse nome; originou-se do «bolo de malte» do final da dinastia Qing e início da República, e só na mão do mestre taichunguense de Beitun, Wei Qing-hai, ganhou a feição atual de casca fina e aroma crocante. Em 1964, o mosaico de girassóis que o artista Yen Shui-long desenhou para a «Taiyang Tang» foi selado por 25 anos sob a suspeita de «propaganda pró-comunista»; esse episódio político acabou por conferir uma aura lendária a este bolo.
