@@ -332,6 +332,42 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-05 twmd-maintainer-daily — 當班自己臨時寫的尺，讀數錯的方向一律指向別人
+
+- **pattern**: `ad-hoc-ruler-reads-high-and-the-accusation-points-outward`
+- **事實（同一班兩例，互相獨立）**：
+  1. 量三個投稿 PR 的 `description` 長度時，我手寫 `re.search(r"^description:\s*'(.*)'\s*$", fm, re.M|re.S)`——`.*` 貪婪加 `DOTALL`，從 `description:` 一路吃到 frontmatter 最後一個引號。讀數 801／851／1020 字元，而真值是 188／224／240。我據此認定 `seo_meta` 這道閘門在說謊（它報 124／123／133，只算 CJK 字），差一步就要把「一道正常運作的閘門其實從沒守過 description 長度」寫進 LESSONS 跟 OBSERVER-QUEUE。攔下它的不是自覺，是我接著跑的第二支腳本（非貪婪 `(.*?)`）回報全庫存量最長只有 473 字元——跟我手上那三個「801 以上」矛盾，才回頭驗自己的那把尺。
+  2. 同一班處理 PR #1888 時，查到 10-22 與 11-02 兩班都告訴投稿者「`[^13]` 的 58 篇攻擊文章，三個來源都查無」，11-02 那則還印了 `58` **0**。我打同一個維基條目逐字找，那句話在裡面，寫成國字「**五十八**篇」，還附了書目（楊碧川《臺灣歷史辭典》1997，頁 335）。兩班都在搜阿拉伯數字。
+- **形狀**：這兩例的技術病根不同（貪婪量詞 vs 字形變體），但**失敗的方向一致**：臨時寫的尺讀數偏離真值之後，產生的結論都是「**別人**壞了」——第一例指控自家閘門失職，第二例指控投稿者的腳註沒來源。沒有一次偏成「我自己可能錯了」。原因在結構裡：尺是我寫的，所以尺的輸出在我眼裡是證據而不是待驗的讀數；而「閘門壞了」「來源查無」這類結論剛好不需要再找第二個證據就能成立，它們長得像發現。
+- **跟既有反射的關係**：[#99](REFLEXES.md)「尺先驗再用，0 命中先過正控制」說的就是這件事，而本班兩次都沒先過正控制——**第 1 例連 0 命中都不是，是「命中了一個放大 4 倍的值」**，所以 #99 現行條文那句「驗不到先懷疑尺」沒有覆蓋它：讀數不是 0、不是空，是一個看起來很具體的大數字，而具體讓人不想驗。[#16](REFLEXES.md) 的「否定式結論舉證要比肯定式高」覆蓋第 2 例（`negative-claim` 家族），本例是該家族第 5 次，而且第一次是**我們主動對投稿者說出口**、說了兩輪、掛在公開 PR 上兩週。
+- **已做的處置**：第 1 例的錯誤結論沒有外流（沒寫進任何 canonical）。第 2 例在 PR #1888 公開更正並道歉，`[^13]` 原樣保留不動。
+- **候選機械化**：對 frontmatter 取值這件事，repo 內已經有不會犯這種錯的那條路——`article_health` 的 `FileTarget.frontmatter`（走 YAML parser，不是 regex）。當班要量 frontmatter 欄位時應該 import 它，而不是現場寫 regex；手寫 regex 讀 YAML 本身就該是訊號。這條是純取數面、不碰判準。
+- **相關**：[REFLEXES #99](REFLEXES.md)（尺先驗再用）／[#16](REFLEXES.md)（否定式結論舉證更高；`negative-claim` 第 5 例）／[#65](REFLEXES.md)（awareness instrument 自身要 cross-verify）／[#69](REFLEXES.md)（每層自評都需要外部尺——本班兩次都是靠「第二支尺不同意」才轉向，不是靠自省）
+- **verification_count**: 2（同一班兩個獨立 instance）
+- **severity**: structural（維護班的工作就是拿尺量別人的產出，而這條說的是尺本身的誤差方向帶有系統性偏誤，偏向指控對象而非自己）
+
+### 2026-11-05 twmd-maintainer-daily — 每天照響的警報，讓每一班都重新付一次診斷成本
+
+- **pattern**: `daily-alert-invites-rediagnosis-of-what-is-already-blocked-on-the-observer`
+- **事實**：`ci-main-health.sh` 每班都印一行「`Publish CLI to npm` OFF-BRANCH 🔴 25.4d」，並附一句「發佈類的失敗沒人看就會一直沒人看（cli-v0.8.1 的 npm publish 失敗了十小時沒人看到，而 #1789 正在等那次發佈）」。本班照這個指引往下追，抓出 run 38060520015 的失敗步驟與 log（`npm error 404 PUT https://registry.npmjs.org/taiwanmd`），判定是 `NPM_TOKEN` 權限失效而不是程式問題——然後才查到 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) **#95 早在 2026-10-10 就寫了同一句結論**，10-22 一班重驗過，11-01 前後又一班重驗並公開更正。**本班是第四次。**
+- **形狀**：那行輸出帶著「沒人看就會一直沒人看」的催促，卻不帶「已經有人看過、結論在 #95、卡在哲宇換一個 secret」。於是它每天同時做兩件相反的事：正確地讓失敗保持可見，以及錯誤地讓它看起來還沒被診斷。診斷成本（讀 workflow、抓 log、判 404 語意）每班約十幾分鐘，四班付了四次，而真正缺的動作一次都沒前進，因為它是 `身份授權` 類、只有哲宇能做（[MANIFESTO §自主權邊界](MANIFESTO.md)）。
+- **跟 #80 的差別**：[#80](REFLEXES.md) 講的是「已 escalate 的 chronic 條目，後續 cycle 該靜默 sustain 而不是 renew」——那是對**寫 memory 的人**的紀律。本條講的是**儀器輸出**這一側：當班靜不靜默，取決於儀器有沒有告訴它這件事已經有人看過。靠每一班自己想到要先查佇列，就是把 #80 當自律而不是閘門（[#15](REFLEXES.md) 的同一句話）。
+- **候選機械化**：讓這類「已知卡在觀察者」的失敗在輸出裡帶佇列編號。最輕的做法是一張 workflow→佇列條目的對照（例如 `config/` 下一行 `npm-publish-cli.yml: OBSERVER-QUEUE#95`），工具印到那條時把編號一起印出來，當班看到編號就知道不必重新診斷。**不碰閾值、不碰 `--strict`**，只多印一個字串。
+- **相關**：[REFLEXES #80](REFLEXES.md)（fire 後 sustain-vs-renew）／[#74](REFLEXES.md)（同一 SPOF 在多條 handoff 重複＝信號通膨，本條是同一個病在「儀器→當班」這條邊上）／[#15](REFLEXES.md)（memory 是自律，canonical／儀器才是閘門）
+- **verification_count**: 1（但被重新診斷的次數是 4）
+- **severity**: structural（它消耗的是這個生命體最稀缺的資源，而且消耗得完全安靜——四班的 memory 都會寫「本班診斷出 npm 權杖失效」，讀起來像四次進展）
+
+### 2026-11-05 twmd-maintainer-daily — 錯過的那一趟永遠補不回來，所以警報停不下來
+
+- **pattern**: `missed-trip-warning-cannot-self-clear-so-it-warns-for-a-whole-cycle`
+- **事實**：`routine-stall-check.py` 尺二問的是「這一趟排程有沒有對應的 memory 檔」，閾值 30h。六條週班（news-lens／weekly-report-sun／distill／self-evolve／routine-audit／supporters）在 10-31～11-01 fire，當時這台機器正處在一段空窗——本班量到 **2026-10-29 與 10-30 兩天 origin/main 上零 commit**，10-31 有 28 筆但 `[routine]` 0 筆，11-01 六筆也是 0 筆，日班要到 11-02 才恢復（當天 9 筆 `[routine]`）。六條週班最後一次成功的 memory 檔全部停在 10-25／10-26，也就是空窗前的那一輪。
+- **形狀**：那一趟已經過去了，而過去的 fire **不可能回頭長出 memory 檔**，所以這六條 WARN 不會因為任何人做任何事而歸零——它們會一路警告到 11-08 下一趟成功為止，大約六天，每天在 issue #1861 上自動長出一則一模一樣的留言（該 issue 已累積 23 則）。當班讀到的是「六條週班沉默死亡」，語氣是現在進行式，而事實是一段已經結束的停電的殘影。本班一開始也照前幾班的 handoff 讀成「登入過期同根因，仍在發生」，直到按日數 commit 才看出日班早就恢復了。
+- **為什麼值得記**：這不是叫它少叫一點。尺二抓到的是真事（那一趟真的沒跑），問題在**它的讀數沒有帶時間方向**——「應 fire 103.4h 前」是過去式的事實，但狀態呈現成待處理的現況，而且無法被處置。這跟 [#38](REFLEXES.md) 的時間軸變體（滾動窗口用起點日當列名）同族：帳本說的是真話，而拿它回答「現在怎樣」會得到錯的答案。
+- **候選處置（不改閾值）**：那一趟已過且下一趟還沒到時，把狀態印成「上一趟錯過（已過去，無法補），下一趟 YYYY-MM-DD HH:MM」，跟「這一趟該跑而沒跑」分成兩個不同的字樣。另外 #1861 這張自動票每天長一則留言，六天就是六則同文——同一趟的 miss 應該更新同一則留言而不是追加。
+- **相關**：[REFLEXES #38](REFLEXES.md)（混維度／時間軸變體）／[#82](REFLEXES.md)（fire≠完成；尺二本身是為了修這個而生的，方向正確）／[#74](REFLEXES.md)（信號通膨）／MEMORY §神經迴路「Claude Desktop 排程器的 `lastRunAt` 在 spawn 那一刻就寫入」（同一台機器的空窗史）
+- **verification_count**: 1
+- **severity**: 中（不影響正確性，影響的是每班開場讀到的世界是不是現在的世界）
+
 ### 2026-11-04 twmd-maintainer-daily — reflex-fires-on-contradiction-not-before-acting：兩把尺打架時我想起了「尺先驗再用」，只有一把尺時不會
 
 - **pattern**: `reflex-fires-on-contradiction-not-before-acting`
