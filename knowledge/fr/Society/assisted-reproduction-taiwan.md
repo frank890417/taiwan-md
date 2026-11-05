@@ -1,8 +1,8 @@
 ---
 title: 'Taïwan : un embryon franchit les frontières, mais la famille ne traverse pas automatiquement la loi'
 description: "En 2020, le couple de femmes Mota et City se sont rendus au Cambodge pour bénéficier d'une FIV, dépensant environ 2 millions de dollars neufs taïwanais sur quatre ans. Taïwan disposait déjà d'une loi sur la reproduction assistée en 2007, a élargi les subventions pour la FIV en 2021, et n'a inclus les femmes célibataires et les couples de femmes mariées dans le projet de loi révisé qu'en 2025. La technologie est déjà mature ; la loi rattrape non seulement les modes de procréation, mais aussi la question de savoir qui a le droit de former une famille."
+date: 2026-08-20
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'reproduction assistée',
@@ -11,17 +11,19 @@ tags:
     'mariage homosexuel',
     'déclin démographique',
   ]
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 10
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-11T13:29:02+08:00'
+translatedAt: '2026-11-05T14:07:08.488309+00:00'
 ---
 
 > **En 30 secondes :** En 2020, le couple de femmes Mota et City se sont rendus au Cambodge pour bénéficier d'une FIV, dépensant environ 2 millions de dollars neufs taïwanais sur quatre ans. La technologie médicale de Taïwan est déjà mature, mais la loi n'a longtemps permis qu'aux couples hétérosexuels mariés d'y avoir recours. De la loi de 2007 sur la reproduction assistée au projet de loi de 2025, cet article ne traite pas de la question de « savoir si l'on peut enfanter », mais de qui peut entrer dans le cabinet médical, de qui est reconnu comme parent après la naissance de l'enfant, et des difficultés laissées par les mères porteuses. [^1]

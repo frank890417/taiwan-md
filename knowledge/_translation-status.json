@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T23:00:31+08:00",
-    "zhCommitHead": "044afd8d6",
+    "lastUpdated": "2026-11-05T23:13:40+08:00",
+    "zhCommitHead": "74159a6ff",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1087,
-        "stale": 34,
+        "fresh": 1088,
+        "stale": 33,
         "metadata_stale": 37,
         "missing": 4,
         "orphan": 0
@@ -76,16 +76,16 @@
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 37,
-        "metadata_stale": 37,
+        "metadata_stale": 36,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1078,
-        "stale": 40,
+        "fresh": 1079,
+        "stale": 39,
         "metadata_stale": 40,
         "missing": 4,
         "orphan": 0
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 31,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1071,
+        "fresh": 1072,
         "stale": 36,
-        "metadata_stale": 51,
+        "metadata_stale": 50,
         "missing": 4,
         "orphan": 0
       }
@@ -10656,20 +10656,18 @@
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
           "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-15T02:46:29+08:00",
+          "sourceCommitSha": "ff8ab4d4d",
+          "sourceContentHash": "sha256:38a4067994051318",
+          "sourceBodyHash": "sha256:14e97ff0df91ded4",
+          "translatedAt": "2026-11-05T15:06:36.988572+00:00",
           "translationLastCommit": "b44548b9",
           "translationLastModified": "2026-09-17T11:23:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 42450,
+          "bytes": 43667,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-orchid-industry.md",
@@ -29014,8 +29012,8 @@
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
           "translatedAt": "2026-11-05T13:29:39.889591+00:00",
-          "translationLastCommit": "121562e1",
-          "translationLastModified": "2026-10-08T12:25:45+08:00",
+          "translationLastCommit": "74159a6f",
+          "translationLastModified": "2026-11-05T23:00:32+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 14293,
@@ -153935,20 +153933,18 @@
         "en": {
           "path": "en/People/nick-star-streamer.md",
           "translatedFrom": "People/尼克星.md",
-          "sourceCommitSha": "b9ebab71d",
-          "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
-          "sourceBodyHash": "sha256:ac25e74e87295655",
-          "translatedAt": "2026-09-11T05:56:37+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:f574be110237c4b8",
+          "sourceBodyHash": "sha256:07bfe0e782d036ae",
+          "translatedAt": "2026-11-05T15:13:19.534202+00:00",
           "translationLastCommit": "8c2e0fd9",
           "translationLastModified": "2026-09-22T00:49:58+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 34282,
+          "bytes": 34342,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/nick-star-streamer.md",
@@ -190773,20 +190769,18 @@
         "pt": {
           "path": "pt/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translatedAt": "2026-11-05T15:02:34.813373+00:00",
           "translationLastCommit": "e17c7fd1",
           "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 20038,
+          "bytes": 20126,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/lin-shuang-wen-rebellion.md",
@@ -190823,20 +190817,18 @@
         "ru": {
           "path": "ru/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translatedAt": "2026-11-05T15:10:10.820517+00:00",
           "translationLastCommit": "7ed760c1",
           "translationLastModified": "2026-09-11T08:47:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 31846,
+          "bytes": 31964,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/lin-shuang-wen-rebellion.md",
@@ -222345,8 +222337,8 @@
           "sourceContentHash": "sha256:95c297a5e630bb43",
           "sourceBodyHash": "sha256:dbceb7d9f3f49bcd",
           "translatedAt": "2026-11-05T14:52:31.563035+00:00",
-          "translationLastCommit": "f26b0b7c",
-          "translationLastModified": "2026-09-16T00:35:42+08:00",
+          "translationLastCommit": "74159a6f",
+          "translationLastModified": "2026-11-05T23:00:32+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 10781,
@@ -223761,8 +223753,8 @@
           "sourceContentHash": "sha256:44ea24edbaea3139",
           "sourceBodyHash": "sha256:80374ac8eaee4681",
           "translatedAt": "2026-11-05T14:27:59.063526+00:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "74159a6f",
+          "translationLastModified": "2026-11-05T23:00:32+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 13634,
@@ -234473,8 +234465,8 @@
           "sourceContentHash": "sha256:0c930d5c5db17f02",
           "sourceBodyHash": "sha256:03854077db2ba606",
           "translatedAt": "2026-11-05T14:00:33.313988+00:00",
-          "translationLastCommit": "92e170b3",
-          "translationLastModified": "2026-09-15T22:34:02+08:00",
+          "translationLastCommit": "74159a6f",
+          "translationLastModified": "2026-11-05T23:00:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 15876,
@@ -235307,20 +235299,18 @@
         "de": {
           "path": "de/Culture/common-taiwanese-names.md",
           "translatedFrom": "Culture/菜市場名.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:4f24d54138c9fd30",
           "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
-          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translatedAt": "2026-11-05T15:10:16.970583+00:00",
           "translationLastCommit": "e0a3ca25",
           "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 8819,
+          "bytes": 8872,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
