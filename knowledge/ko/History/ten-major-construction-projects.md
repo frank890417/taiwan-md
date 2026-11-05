@@ -2,19 +2,21 @@
 title: '10대 건설: 10억 달러 외환보유액 위에서의 2000억 위대한 도박'
 description: '1973년 대만의 외환보유액은 10억 달러에 불과했으나, 장징궈는 10대 건설 추진을 위해 약 3000억 위안(대만 달러)을 투입하겠다고 선언했다. 이는 석유 위기와 외교적 고립에 대응하는 경제적 전환일 뿐만 아니라, 일제강점기 유산으로 남은 청사진을 재포장하여 국가 정체성으로 전환한 정치적 서사이다.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '經濟發展史'
 tags: ['경제발전', '장징궈', '석유위기', '기반시설', '대만역사', '산업고도화']
-readingTime: 12
+subcategory: '經濟發展史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/十大建設.md'
-sourceCommitSha: '9ecd20d61'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c56d8ded11ccacaf'
 sourceBodyHash: 'sha256:b63c0b30d24f0d0a'
-translatedAt: '2026-07-24T10:40:42+08:00'
+translatedAt: '2026-11-05T05:19:52.450145+00:00'
 ---
 
 > **30초 요약:**

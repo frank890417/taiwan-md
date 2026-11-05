@@ -2,20 +2,22 @@
 title: '대만의 도시 발전과 도농 격차'
 description: '70년 만에 농업 섬에서 도시 섬으로 변모한 대만, 6개 특별시에 인구 70%가 집중된 빛과 그림자: 번영하는 타이중 vs 쇠퇴하는 윈린의 냉혹한 현실'
 date: 2026-03-21
+category: 'Geography'
 tags: ['도시 발전', '도농 격차', '6대 도시', '인구 이동', '지역 개발']
 subcategory: '城市與人文地理'
-category: 'Geography'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
-translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: 'f45a1933'
-sourceContentHash: 'sha256:bfa78a33fd163a9a'
-sourceBodyHash: 'sha256:aa0440f383f174b1'
-translatedAt: '2026-04-14T19:23:57+08:00'
 lastVerified: 2026-03-21
 lastHumanReview: true
 difficulty: 'beginner'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:bfa78a33fd163a9a'
+sourceBodyHash: 'sha256:aa0440f383f174b1'
+translatedAt: '2026-11-05T05:53:24.698280+00:00'
 ---
 
 # 대만의 도시 발전과 도농 격차

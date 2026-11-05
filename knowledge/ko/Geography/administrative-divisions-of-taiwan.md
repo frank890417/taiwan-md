@@ -1,20 +1,22 @@
 ---
 title: "대만 행정구역: '지방 회의'에서 '5대 직할시'까지의 권력 퍼즐"
 description: "대만 행정구역은 지도 위의 선이 아니라, 400년에 걸친 권력 실험이다. 네덜란드·스페인 시기의 부족 회의에서, 일제 시기의 '5주 3청' 우아화 운동, 전후 자칫 등장할 뻔한 '솽원시(爽文市)'까지, 모든 경계 뒤에는 통치 의지와 지방 정체성의 줄다리기가 숨어 있다."
-category: 'Geography'
-subcategory: '城市與人文地理'
-tags: ['행정구역', '대만역사', '국토계획', '지방자치']
-author: 'Taiwan.md Contributors'
 date: 2026-04-17
-readingTime: 15
+category: 'Geography'
+tags: ['행정구역', '대만역사', '국토계획', '지방자치']
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
+readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-05-02T08:55:00+08:00'
-featured: false
+translatedAt: '2026-11-05T06:24:55.472701+00:00'
 ---
 
 > **30초 개요:** 대만의 현행 '6대 직할시 16개 현·시'는 400년에 걸친 여러 차례 정치 수술의 결과입니다. 17세기 네덜란드인은 '지방 회의'로 부족을 감독했고, 정씨와 청 시대에 한족의 군현제가 시작되었으며, 일제 시기에는 '5주 3청'과 지명 우아화로 현대 행정구역의 뼈대를 다졌습니다. 이 실험은 1945년 인명을 따서 '솽원시'를 만들 뻔했고, 2010년 5대 직할시 개편으로 전국 인구의 60%를 직할시에 포함시키며, 자원 불균형이라는 동시대 도전을 남겼습니다.
