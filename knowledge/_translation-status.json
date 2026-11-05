@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T02:39:39+08:00",
-    "zhCommitHead": "fff136fe7",
+    "lastUpdated": "2026-11-06T02:44:18+08:00",
+    "zhCommitHead": "809c056d3",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1090,
+        "fresh": 1091,
         "stale": 32,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 4,
         "orphan": 0
       },
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1075,
+        "fresh": 1076,
         "stale": 36,
-        "metadata_stale": 47,
+        "metadata_stale": 46,
         "missing": 4,
         "orphan": 0
       }
@@ -8698,8 +8698,8 @@
           "sourceContentHash": "sha256:74f243c904946316",
           "sourceBodyHash": "sha256:d4cdc4cd51a6a4ff",
           "translatedAt": "2026-11-05T23:10:45+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "809c056d",
+          "translationLastModified": "2026-11-06T02:39:39+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 20387,
@@ -28828,8 +28828,8 @@
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
           "translatedAt": "2026-11-05T18:11:36.037057+00:00",
-          "translationLastCommit": "fda447d1",
-          "translationLastModified": "2026-10-08T12:24:36+08:00",
+          "translationLastCommit": "809c056d",
+          "translationLastModified": "2026-11-06T02:39:39+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 17548,
@@ -110313,20 +110313,18 @@
         "de": {
           "path": "de/People/liu-mingchuan.md",
           "translatedFrom": "People/劉銘傳.md",
-          "sourceCommitSha": "c109869a0",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:b08d77d5c87852a1",
           "sourceBodyHash": "sha256:65e36904f67e17ed",
-          "translatedAt": "2026-09-25T04:57:31+08:00",
+          "translatedAt": "2026-11-05T18:39:47.095687+00:00",
           "translationLastCommit": "f7f0d9c6",
           "translationLastModified": "2026-09-25T07:20:17+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 11223,
+          "bytes": 11276,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -179787,8 +179785,8 @@
           "sourceContentHash": "sha256:1c8f6297e9dffc4e",
           "sourceBodyHash": "sha256:4502c5630968c2b9",
           "translatedAt": "2026-11-05T23:10:45+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "809c056d",
+          "translationLastModified": "2026-11-06T02:39:39+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 20923,
@@ -192825,20 +192823,18 @@
         "en": {
           "path": "en/History/taiwan-womens-movement.md",
           "translatedFrom": "History/婦女運動.md",
-          "sourceCommitSha": "e974b4c9e",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
-          "translatedAt": "2026-09-09T14:13:04+08:00",
+          "translatedAt": "2026-11-06T02:40:08+08:00",
           "translationLastCommit": "8c2e0fd9",
           "translationLastModified": "2026-09-22T00:49:58+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 35131,
+          "bytes": 34443,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/taiwan-womens-movement.md",

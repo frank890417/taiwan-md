@@ -1,8 +1,8 @@
 ---
 title: "L'eau potable à Taïwan : L'ingénierie centenaire derrière le robinet et l'anxiété de la sécheresse"
 description: "En 1885, des puits étaient déjà creusés, filtrés et désinfectés dans le Taipei colonial ; en 2026, nous traitons toujours le robinet comme un bruit de fond. Des conduits d'eau de l'ère japonaise à la création de Taiwan Water Corporation en 1974, en passant par la sécheresse, les fuites et la pollution des eaux brutes, cet article interroge une chose quotidienne mais non banale : combien d'ingénierie publique une goutte d'eau doit-elle traverser pour apparaître ponctuellement lorsque vous ouvrez le robinet ?"
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'eau potable',
@@ -11,17 +11,19 @@ tags:
     'sécheresse',
     'eau potable',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-11T13:12:06+08:00'
+translatedAt: '2026-11-05T17:11:14.974775+00:00'
 ---
 
 > **Aperçu en 30 secondes :** De 1885 à 1890, des tentatives publiques d'alimentation en eau, incluant le creusement de puits, la filtration et la désinfection, sont apparues à Taipei. L'ingénierie de la source d'eau de la rivière Xindian en 1907 a introduit l'eau potable moderne dans la ville. Le taux de pénétration de l'approvisionnement en eau à travers toute l'île est passé d'environ 10 % après la guerre à 93,1 % en 2013, mais l'eau n'est pas devenue pour autant une chose « qui apparaît naturellement ». Le robinet d'aujourd'hui est toujours relié aux prises d'eau, aux stations de traitement, à des dizaines de kilomètres de canalisations, à la répartition inter-régionale et aux arbitrages effectués lors de chaque sécheresse.
@@ -131,24 +133,24 @@ Cet article utilise deux images à licence libre de Wikimedia Commons, intégré
 
 ## Références
 
-[^1]: [Agence de l'eau potable de Taipei : Histoire et évolution](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — L'autorité officielle de l'approvisionnement en eau de Taipei retrace la chronologie de l'approvisionnement public en eau depuis 1885, la source d'eau de la rivière Xindian en 1907, jusqu'au conduit principal de la source d'eau Feitsui et à la résilience récente de l'approvisionnement en eau.
+[^1]: [Bureau des eaux de Taipei : Historique](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — L'agence officielle d'approvisionnement en eau de Taipei a compilé une chronologie depuis la distribution publique d'eau en 1885, la source de la rivière Xindian en 1907, jusqu'au conduit d'eau brute de Feitsui et la résilience de l'approvisionnement en eau ces dernières années.
 
-[^2]: [Administration des ressources en eau du Ministère de l'économie : Aperçu du développement de l'eau potable à Taïwan (partie 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Le bulletin électronique de l'Administration des ressources en eau explique le contexte institutionnel des changements du taux de pénétration de l'approvisionnement en eau après la guerre, de la fusion des usines d'eau de la province et de la création de Taiwan Water Corporation.
+[^2]: [Agence des ressources en eau du Ministère de l'Économie : Aperçu du développement de l'eau courante à Taïwan (partie 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — La newsletter de l'Agence des ressources en eau explique l'évolution du taux de couverture de l'approvisionnement en eau après-guerre, la consolidation des usines d'eau à l'échelle de la province et le contexte institutionnel de la création de la Taiwan Water Corporation.
 
-[^3]: [Taiwan Water Corporation : Rapport statistique annuel de l'industrie de l'eau potable de Taïwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Portail statistique annuel public d'une entreprise d'approvisionnement en eau étatique, listant les tableaux des sources d'eau, de la production, de la population desservie, du taux de pénétration, des équipements de traitement et des canalisations.
+[^3]: [Taiwan Water Corporation : Annuaire statistique de l'industrie de l'eau courante de Taïwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Le portail statistique annuel de la société d'approvisionnement en eau d'État, répertoriant les sources d'eau, la production d'eau, la population desservie, le taux de couverture, les équipements de traitement d'eau et les canalisations.
 
-[^4]: [Taiwan Water Corporation : Gestion des ressources en eau de Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — La page de durabilité de Taiwan Water explique les 141 systèmes d'approvisionnement en eau, les 488 stations de traitement, la modernisation des stations de traitement, l'amélioration des fuites et les indicateurs de gestion de la qualité de l'eau.
+[^4]: [Taiwan Water Corporation : Gestion des ressources en eau de Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — La page de développement durable de Taiwan Water décrit 141 systèmes d'approvisionnement en eau, 486 usines de traitement d'eau, la modernisation des usines, l'amélioration des fuites et les indicateurs de gestion de la qualité de l'eau.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Article académique en anglais examinant la technologie de l'eau recyclée à Taïwan, les cas industriels, le contexte de la pénurie d'eau due à la sécheresse et l'objectif d'approvisionnement en eau recyclée de 2031.
+[^5]: [Eau récupérée à Taïwan : statut actuel et perspectives futures](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Un article universitaire en anglais passe en revue la technologie de l'eau régénérée à Taïwan, des cas industriels, le contexte de pénurie d'eau et l'objectif d'approvisionnement en eau régénérée pour 2031.
 
-[^6]: [Notre Île : Lorsque la sécheresse centenaire devient la norme ? Un problème hydrique inévitable](https://ourisland.pts.org.tw/content/9997) — Le reportage approfondi de PTS enregistre le contexte des politiques publiques de la sécheresse dans le sud de Taïwan, de la réduction de la pression de l'approvisionnement en eau, de l'eau recyclée, de l'eau souterraine de rivière, des puits de lutte contre la sécheresse et du taux de fuite.
+[^6]: [Notre île : Quand la sécheresse centennale devient la norme ? Les problèmes d'eau inévitables](https://ourisland.pts.org.tw/content/9997) — Un reportage approfondi de PTS documente la sécheresse dans le sud de Taïwan, la réduction de la pression de l'eau, l'eau régénérée, l'eau souterraine, les puits anti-sécheresse et le contexte des politiques publiques sur le taux de fuites.
 
-[^7]: [Centre des médias technologiques de Taïwan : Avis d'experts sur les causes possibles de la pénurie d'eau des barrages à Taïwan en 2021 et les mécanismes de répartition](https://smctw.tw/9462/) — Réunit des experts en hydraulique, en environnement et en ressources culturelles pour distinguer la sécheresse de la pénurie d'eau, discutant des barrages, des rivières, des eaux souterraines, de l'entretien des canalisations et de la répartition des prix de l'eau.
+[^7]: [Centre des médias technologiques de Taïwan : Avis d'experts sur les causes possibles de la pénurie d'eau dans les réservoirs de Taïwan en 2021 et les mécanismes d'allocation](https://smctw.tw/9462/) — Réunit des experts en ressources hydrauliques, environnement et ressources culturelles pour distinguer sécheresse et pénurie d'eau, et discuter des réservoirs, rivières, eaux souterraines, maintenance des canalisations et tarification de l'eau.
 
-[^8]: [The Reporter : Data Reporter : Carte interactive révélant 10 bassins versants à risque](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Enquête sur les risques de pollution des eaux brutes à partir des données des points de prélèvement, des zones de protection et des sanctions environnementales, présentant le conflit entre la sécurité de l'approvisionnement en eau et la gouvernance des terres en amont.
+[^8]: [The Reporter : Data Reporter : Carte interactive révélant les 10 bassins versants à risque](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Enquête sur les risques de pollution de l'eau brute à partir des données sur les prises d'eau, les zones protégées et les sanctions environnementales, mettant en lumière le conflit entre la sécurité de l'approvisionnement en eau et la gouvernance des terres en amont.
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — La page officielle anglaise de Taiwan Water examine le taux de pénétration de l'approvisionnement en eau au cours des 50 ans de création de l'entreprise, l'expansion des canalisations, la réponse aux catastrophes et les stratégies de résilience climatique.
+[^9]: [Taiwan Water Corporation : Message du président](https://www.water.gov.tw/en/Contents?nodeId=4875) — La page officielle en anglais de Taiwan Water revient sur 50 ans de couverture de l'approvisionnement en eau, d'expansion du réseau, de réponse aux catastrophes et de stratégies de résilience climatique.
 
-[^10]: [Administration des ressources en eau : Aperçu du développement de l'eau potable à Taïwan (partie 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — L'Administration des ressources en eau explique les dommages subis par les systèmes d'approvisionnement en eau dus à la guerre, et la phase de reconstruction des réparations de 77 systèmes d'eau potable ruraux sous l'impulsion de l'aide américaine après la guerre.
+[^10]: [Agence des ressources en eau : Aperçu du développement de l'eau courante à Taïwan (partie 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — L'Agence des ressources en eau explique les dommages aux systèmes d'approvisionnement en eau causés par la guerre, ainsi que la phase de reconstruction de 77 systèmes d'eau villageois après-guerre grâce à l'aide américaine.
 
-[^11]: [Administration des ressources en eau : De janvier 1952 à la création de l'Équipe générale des ingénieurs du Département de la construction du gouvernement provincial et au développement de l'industrie de l'eau potable de Taïwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — L'Administration des ressources en eau retrace la rénovation des équipements de 1946 à 1974, les subventions pour l'approvisionnement en eau rural, l'Équipe générale des ingénieurs, le Bureau des travaux publics et l'intégration des 128 usines d'eau.
+[^11]: [Agence des ressources en eau : Janvier 1952 – Création du Corps d'ingénierie du Bureau de la construction du gouvernement provincial et développement de l'industrie de l'eau courante à Taïwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — L'Agence des ressources en eau compile la rénovation d'équipements, les subventions pour l'approvisionnement en eau rural, le Corps d'ingénierie, le Bureau des travaux publics et l'intégration de 128 usines d'eau de 1946 à 1974.
