@@ -17,24 +17,26 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: '097c838b2'
-sourceContentHash: 'sha256:ee2c6b428739de29'
-sourceBodyHash: 'sha256:56a4506a2e90295b'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
+translatedAt: '2026-11-05T11:38:12.899387+00:00'
 ---
 
-# Hoàng Võ Hùng và Đại học Cộng đồng Đài Loan: Đưa nền dân chủ ngoài lá phiếu vào giảng đường
+# Hoàng Vũ Hùng và Đại học Cộng đồng Đài Loan: Đưa dân chủ bên làn phiếu bầu vào lớp học
 
-> **Tóm tắt 30 giây:** Năm 1994, Hoàng Võ Hùng đề xuất ý tưởng về đại học cộng đồng cho người dân. Năm 1998, trường đại học cộng đồng đầu tiên của Đài Loan được thành lập tại khu Văn Sơn, Đài Bắc. Bài viết này theo dõi một phong trào giáo dục ban đầu nhằm đưa việc học tập cho người lớn vào đời sống công cộng, cách nó đã trở thành một thực hành thường nhật trong xã hội dân sự Đài Loan thông qua các khóa học, câu lạc bộ, nghiên cứu địa phương và thể chế hóa.
+> **Tóm tắt 30 giây:** Năm 1994, Hoàng Vũ Hùng đề xuất tư tưởng Đại học Cộng đồng bình dân. Năm 1998, trường Đại học Cộng đồng đầu tiên tại Đài Loan thành lập tại Quận Văn Sơn, Thành phố Đài Bắc. Bài viết này theo dõi một phong trào giáo dục ban đầu muốn đưa học tập người lớn vào đời sống công cộng, như thế nào đã trở thành một thực hành hàng ngày của xã hội công dân Đài Loan nhờ khóa học, câu lạc bộ, nghiên cứu địa phương và thể chế pháp luật.
 
-Năm 1994, Giáo sư Hoàng Võ Hùng thuộc Khoa Toán của Đại học Quốc gia Đài Loan đã đưa ra ý tưởng về đại học cộng đồng cho người dân. Năm 1998, trường đại học cộng đồng đầu tiên của Đài Loan được thành lập tại khu Văn Sơn, Đài Bắc. Ngày 20 tháng 9 năm 1999, Trường Đại học Cộng đồng Vĩnh Hòa tổ chức lễ khai giảng tại Trung học Phúc Hòa, với Hoàng Võ Hùng giữ vai trò giám đốc sáng lập.[^1] [^2]
+Năm 1994, giáo sư khoa Toán Đại học Đài Loan Hoàng Vũ Hùng đề xuất tư tưởng Đại học Cộng đồng bình dân. Năm 1998, trường Đại học Cộng đồng đầu tiên tại Đài Loan thành lập tại Quận Văn Sơn, Thành phố Đài Bắc. Ngày 20 tháng 9 năm 1999, Đại học Cộng đồng Vĩnh Hòa tổ chức lễ khai giảng tại Trung học Cơ sở Phúc Hòa, Hoàng Vũ Hùng đảm nhiệm chủ tịch sáng lập. [^1] [^2]
 
-Ba mốc thời gian này thoạt nhìn giống như một niên biểu của hệ thống giáo dục, nhưng vấn đề thực sự không nằm ở "Đài Loan có bao nhiêu trường đại học cộng đồng". Vấn đề là: tại sao một ngôi trường không đặt ra rào cản bằng cấp và cũng không lấy việc nâng cao học vị làm mục đích chính lại đưa các khóa học vào sông ngòi, phố cổ, báo chí địa phương và các vấn đề của khu vực?
+Ba năm này trông như một niên biểu thể chế giáo dục, nhưng vấn đề thực sự không phải là "Đài Loan có bao nhiêu trường Đại học Cộng đồng". Vấn đề là: một ngôi trường không có ngưỡng độ học歷, cũng không lấy thi cử升 học làm mục đích chính, tại sao lại đưa chương trình học đến sông ngòi, phố cổ, báo cộng đồng và các vấn đề địa phương?
 
-Câu trả lời của Hoàng Võ Hùng rất trực diện. Ông không xem đại học cộng đồng như một trường đại học rẻ hơn, cũng không coi nó là bước đệm cho các trường đại học thông thường. Điều ông muốn giải quyết là một khoảng trống khác sau khi chế độ độc tài bị dỡ bỏ: người dân đã có lá phiếu bầu cử, nhưng chưa chắc đã có đủ kinh nghiệm thảo luận công cộng để cùng nhau xử lý các vấn đề xung quanh cuộc sống.[^3]
+Câu trả lời của Hoàng Vũ Hùng rất trực diện. Ông không coi Đại học Cộng đồng như một đại học rẻ tiền hơn, cũng không coi nó là bệ phóng cho đại học thông thường. Ông muốn giải quyết một khe hở khác sau khi giải nghiêm: nhân dân đã có phiếu bầu, nhưng chưa chắc đã có đủ kinh nghiệm thảo luận công cộng để cùng nhau xử lý các vấn đề quanh đời sống. [^3]
 
-> **📝 Ghi chú của Biên tập viên:** Điểm phản trực giác nhất của đại học cộng đồng là nó trông giống một ngôi trường, nhưng thực chất lại biến câu hỏi "ngôi trường có nên chỉ dạy kiến thức không" thành một vấn đề dân chủ.
+> **📝 Ghi chú người biên tập:** Điểm ngược trực giác nhất của Đại học Cộng đồng, là nó trông như một ngôi trường, thực tế lại biến "trường học có nên chỉ dạy bài hay không" thành một vấn đề dân chủ.
 
 ## Một ngôi trường bắt đầu từ việc "không phải cái gì"
 
@@ -60,26 +62,26 @@ Bản tự thuật của Đại học Cộng đồng Vĩnh Hòa đưa ra một v
 
 > **📝 Ghi chú của Biên tập viên:** Khi một bài giảng bắt đầu đo chất lượng nước sông, tra cứu tài liệu địa phương và hỏi cư dân cách sống, ngôi trường không còn chỉ là một kiến trúc "cung cấp dịch vụ", mà trở thành công cụ để cộng đồng cùng suy ngẫm.
 
-## Điều Hoàng Võ Hùng thực sự lo lắng không phải là không ai đến học
+## Hoàng Vũ Hùng thực sự lo lắng không phải là không ai đến học
 
-Trong bài viết của mình cho Đại học Cộng đồng Văn Sơn, Hoàng Võ Hùng đặt đại học cộng đồng trong bối cảnh xã hội sau khi chế độ độc tài bị dỡ bỏ vào năm 1987. Ông cho rằng, dân chủ hóa mang lại tự do và không gian kết hợp, nhưng các vấn đề còn sót lại từ sự cai trị chuyên quyền lâu dài cũng sẽ dần nổi lên. Đối với ông, việc học tập xã hội và dân chủ hóa phải tiến hành cùng nhau, nếu không lá phiếu sẽ không tự động trở thành năng lực phán đoán công cộng.[^3]
+Hoàng Vũ Hùng trong bài viết đăng trên Đại học Cộng đồng Văn Sơn, đặt Đại học Cộng đồng vào bối cảnh xã hội sau khi bỏ cấm nghiêm năm 1987. Ông cho rằng, quá trình dân chủ hóa mang lại tự do và không gian kết社, nhưng những vấn đề do thống trị uy quyền kéo dài để lại cũng sẽ lần lượt nổi lên. Đối với ông, học tập xã hội và dân chủ hóa phải tiến hành song song, nếu không phiếu bầu sẽ không tự động biến thành khả năng phán đoán công cộng.[^3]
 
-Đây là một nhận định mang tính luận điểm mạnh mẽ, không phải tất cả mọi người đều phải chấp nhận. Giá trị của nó nằm ở chỗ đã kéo "giáo dục" ra khỏi ngôn ngữ thăng tiến cá nhân và đưa về đời sống công dân: làm thế nào để con người hiểu các vấn đề công cộng, cách thảo luận với những người có quan điểm khác nhau, và cách tổ chức hành động khi không có chính trị gia phát ngôn cho mình.
+Đây là một phát biểu mang tính chủ trương mạnh mẽ, không phải là kết luận lịch sử mà ai cũng phải chấp nhận. Giá trị của nó nằm ở chỗ: đưa "giáo dục" từ ngôn ngữ thăng tiến cá nhân kéo về đời sống công dân: con người hiểu vấn đề công cộng như thế nào, thảo luận với người khác lập trường như thế nào, tổ chức hành động khi không có chính trị gia thay mình phát ngôn như thế nào.
 
-Bài báo học thuật của Thái Hồng Trịnh (Cai Hongzheng) năm 2006 đã hệ thống hóa ý tưởng này thành "giải phóng tri thức, thúc đẩy xã hội dân sự". Bài báo chỉ ra rằng nền tảng triết học của đại học cộng đồng bao gồm sự phân biệt giữa "kiến thức đóng gói" và "kiến thức kinh nghiệm", và tiếp tục sử dụng kiến thức ngầm để hiệu chỉnh sự phân biệt này, thảo luận về các vấn đề thực tế mà đại học cộng đồng phải đối mặt với tư cách là một phong trào khai sáng văn hóa. Đây là phân tích của nhà nghiên cứu, không phải lời trích dẫn nguyên văn của Hoàng Võ Hùng.[^7]
+Năm 2006, bài luận học thuật của Thái Hồng Trịnh đã hệ thống hóa lý niệm này thành "Giải phóng tri thức, khơi dậy xã hội công dân". Bài luận chỉ ra rằng, cơ sở triết học của Đại học Cộng đồng bao gồm sự phân biệt giữa "kiến thức đóng gói" và "kiến thức kinh nghiệm", và tiến một bước dùng "kiến thức tiềm ngầm" để sửa chữa cặp phân biệt này, thảo luận những vấn đề thực tế mà Đại học Cộng đồng đối mặt trong vai trò là một phong trào khai蒙 văn hóa. Đây là phân tích của nhà nghiên cứu, không phải trích dẫn nguyên văn của Hoàng Vũ Hùng.[^7]
 
-Lời nhắc nhở này rất quan trọng. Câu chuyện về đại học cộng đồng không thể chỉ được viết thành một lịch sử chiến thắng duy tâm. Để khóa học giữ tính công cộng, cần có sự hợp tác lâu dài giữa giáo viên, nhân viên hành chính, học viên và các tổ chức địa phương. Sự khác biệt về nguồn lực, phân chia nhiệm vụ tổ chức, hình thức ủy thác của chính phủ và triết lý hoạt động đều sẽ thay đổi những gì một đại học cộng đồng có thể làm được.
+Lời nhắc này rất quan trọng. Câu chuyện của Đại học Cộng đồng không thể chỉ viết thành sử sự thắng lợi của chủ nghĩa lý tưởng. Để duy trì công cộng tính của khóa học, cần sự hợp tác lâu dài giữa giáo viên, nhân viên hành chính, học viên và tổ chức địa phương. Sự giàu nghèo nguồn lực, phân chia tổ chức, cách thức ủy thác của chính phủ và lý niệm quản trị trường học, đều thay đổi những gì một Đại học Cộng đồng có thể làm được.
 
-Nghiên cứu năm 2013 đã tổng hợp ba mô hình – mô hình chuyên môn hóa, mô hình khai sáng ý thức và mô hình liên minh chiến lược NGO – dựa trên ba đại học cộng đồng được chứng nhận bởi Hiệp hội Thúc đẩy Phát triển Đại học Cộng đồng Quốc gia. Nghiên cứu cũng liệt kê các phương pháp khác nhau như bồi dưỡng hành chính, hướng dẫn khóa học, hướng dẫn câu lạc bộ và xây dựng cộng đồng.[^8]
+Nghiên cứu năm 2013 lấy ba trường Đại học Cộng đồng đã qua chứng nhận "Vận hành trường học và Tham gia công cộng" của Hiệp hội Thúc đẩy Toàn quốc làm đối tượng, tổng hợp ra ba mẫu hình: loại phân công chuyên nghiệp, loại khai蒙 ý thức, và loại liên minh chiến lược NPO. Nghiên cứu đồng thời liệt kê các phương pháp khác nhau như: xây dựng năng lực hành chính, hướng dẫn khóa học, hướng dẫn cộng đồng, xây dựng cộng đồng và liên minh chiến lược.[^8]
 
-| Thời gian | Bước ngoặt                                                    | Bước ngoặt này đã thay đổi điều gì                                                                         |
-| --------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1994      | Hoàng Võ Hùng đề xuất ý tưởng đại học cộng đồng cho người dân | Học tập cộng đồng được đặt vào vấn đề dân chủ và cải cách xã hội                                           |
-| 1998      | Đại học Cộng đồng Văn Sơn thành lập                           | Trường đại học cộng đồng Đài Loan đầu tiên bắt đầu biến lý tưởng thành hoạt động thường nhật               |
-| 1999      | Các đại học cộng đồng ở Vĩnh Hòa và nơi khác tiếp tục mở      | Sự chuẩn bị của người dân và hợp tác với chính quyền địa phương giúp mô hình lan tỏa                       |
-| 2018      | Ban hành "Quy chế Phát triển Đại học Cộng đồng"               | Đại học cộng đồng đạt được vị thế pháp lý rõ ràng hơn, đồng thời đối mặt với những yêu cầu thể chế hóa mới |
+| Thời gian | Chuyển gãy                                                         | Chuyển gãy này thay đổi điều gì                                                                |
+| --------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| 1994      | Hoàng Vũ Hùng đề xuất tư tưởng Đại học Cộng đồng bình dân          | Học tập cộng đồng được đặt vào vấn đề dân chủ và cải cách xã hội                               |
+| 1998      | Đại học Cộng đồng Văn Sơn thành lập                                | Trường Đại học Cộng đồng đầu tiên của Đài Loan bắt đầu biến lý tưởng thành công vụ hàng ngày   |
+| 1999      | Đại học Cộng đồng tại Vĩnh Hòa và các nơi khác lần lượt khai giảng | Chuẩn bị dân sự phối hợp với chính quyền địa phương, để mô hình lan rộng                       |
+| 2018      | 《Điều lệ Phát triển Đại học Cộng đồng》 công bố                   | Đại học Cộng đồng có được địa vị pháp lý rõ ràng hơn, cũng đối mặt yêu cầu mới của thể chế hóa |
 
-> **📝 Ghi chú của Biên tập viên:** Khó khăn của đại học cộng đồng không phải là "lý tưởng và thực tế ai sẽ thắng", mà là khi lý tưởng đi vào ngân sách, địa điểm và đánh giá, nó buộc phải đàm phán lại mỗi ngày.
+> **📝 Ghi chú người bảo tàng:** Khó khăn của Đại học Cộng đồng không phải là "ai thắng giữa lý tưởng và thực tế", mà là lý tưởng một khi bước vào ngân sách, địa điểm và đánh giá, thì phải đàm phán lại hàng ngày.
 
 ## Từ phong trào dân sự đến văn bản pháp luật
 

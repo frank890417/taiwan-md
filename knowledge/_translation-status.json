@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T19:27:46+08:00",
-    "zhCommitHead": "9695fb09f",
+    "lastUpdated": "2026-11-05T19:50:58+08:00",
+    "zhCommitHead": "3d4c2396c",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,17 +20,17 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1082,
+        "fresh": 1083,
         "stale": 36,
-        "metadata_stale": 40,
+        "metadata_stale": 39,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1083,
+        "fresh": 1084,
         "stale": 40,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 4,
         "orphan": 0
       },
@@ -52,24 +52,24 @@
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 39,
-        "metadata_stale": 35,
+        "metadata_stale": 34,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1071,
-        "stale": 38,
+        "fresh": 1072,
+        "stale": 37,
         "metadata_stale": 47,
         "missing": 6,
         "orphan": 0
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1075,
-        "stale": 41,
+        "fresh": 1076,
+        "stale": 40,
         "metadata_stale": 41,
         "missing": 5,
         "orphan": 0
@@ -92,25 +92,25 @@
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1085,
+        "fresh": 1087,
         "stale": 34,
-        "metadata_stale": 39,
+        "metadata_stale": 37,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1090,
+        "fresh": 1092,
         "stale": 33,
-        "metadata_stale": 35,
+        "metadata_stale": 33,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1065,
+        "fresh": 1067,
         "stale": 36,
-        "metadata_stale": 57,
+        "metadata_stale": 55,
         "missing": 4,
         "orphan": 0
       }
@@ -29004,20 +29004,18 @@
         "ru": {
           "path": "ru/Technology/backslash-in-cjk-fonts.md",
           "translatedFrom": "Technology/功字裡的那根反斜線.md",
-          "sourceCommitSha": "9f06b2a04",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
-          "translatedAt": "2026-10-08T09:30:01+08:00",
+          "translatedAt": "2026-11-05T11:45:28.600628+00:00",
           "translationLastCommit": "9f2a3474",
           "translationLastModified": "2026-10-08T11:02:44+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 20681,
+          "bytes": 20740,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/backslash-in-cjk-fonts.md",
@@ -59215,20 +59213,18 @@
         "ru": {
           "path": "ru/Society/assisted-reproduction-taiwan.md",
           "translatedFrom": "Society/台灣人工生殖.md",
-          "sourceCommitSha": "8a773c917",
-          "sourceContentHash": "sha256:c4ca8b53f4bb3480",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:5dee1eed356027d4",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translatedAt": "2026-11-05T11:27:59.566004+00:00",
           "translationLastCommit": "7ed760c1",
           "translationLastModified": "2026-09-11T08:47:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 33688,
+          "bytes": 33747,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/assisted-reproduction-taiwan.md",
@@ -60169,20 +60165,18 @@
         "vi": {
           "path": "vi/Society/huang-wu-hsiung-community-college.md",
           "translatedFrom": "Society/社區大學黃武雄.md",
-          "sourceCommitSha": "097c838b2",
-          "sourceContentHash": "sha256:ee2c6b428739de29",
-          "sourceBodyHash": "sha256:56a4506a2e90295b",
-          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:06c8d5e7cb10cd52",
+          "sourceBodyHash": "sha256:054bab1a9a4fb1c2",
+          "translatedAt": "2026-11-05T11:38:12.899387+00:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 26397,
+          "bytes": 26186,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/huang-wu-hsiung-community-college.md",
@@ -142055,20 +142049,18 @@
         "id": {
           "path": "id/People/zhuge-si-lang-comic.md",
           "translatedFrom": "People/諸葛四郎.md",
-          "sourceCommitSha": "e38376ee4",
-          "sourceContentHash": "sha256:e3fbaeedac9c6f10",
-          "sourceBodyHash": "sha256:1b0f00900854455d",
-          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:b2501899e99db9e7",
+          "sourceBodyHash": "sha256:1b666fa0ae47a4ce",
+          "translatedAt": "2026-11-05T11:42:08.111063+00:00",
           "translationLastCommit": "6d57f84d",
           "translationLastModified": "2026-09-15T05:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 15366,
+          "bytes": 15888,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/zhuge-si-lang-comic.md",
@@ -144213,20 +144205,18 @@
         "ja": {
           "path": "ja/People/yung-ching-wang-formosa-plastics-founder.md",
           "translatedFrom": "People/王永慶.md",
-          "sourceCommitSha": "9be0c5314",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:09b83ca512f814fd",
           "sourceBodyHash": "sha256:2035945bf29ced7a",
-          "translatedAt": "2026-10-15T20:08:30.592947+00:00",
+          "translatedAt": "2026-11-05T11:30:07.543310+00:00",
           "translationLastCommit": "f28c5905",
           "translationLastModified": "2026-10-16T04:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17184,
+          "bytes": 17364,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/yung-ching-wang-formosa-plastics-founder.md",
@@ -188209,20 +188199,18 @@
         "ar": {
           "path": "ar/History/taiwan-radio-broadcasting-history.md",
           "translatedFrom": "History/台灣廣播史.md",
-          "sourceCommitSha": "174a83b65",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
-          "translatedAt": "2026-09-10T09:46:15.719068+00:00",
+          "translatedAt": "2026-11-05T11:27:53.905034+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 33740,
+          "bytes": 33792,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-radio-broadcasting-history.md",
@@ -190901,20 +190889,18 @@
         "ar": {
           "path": "ar/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-11T05:40:18+08:00",
+          "translatedAt": "2026-11-05T11:45:23.361907+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 26650,
+          "bytes": 26932,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/lin-shuang-wen-rebellion.md",
@@ -214131,20 +214117,18 @@
         "de": {
           "path": "de/Culture/bahamut-taiwan-gaming-community.md",
           "translatedFrom": "Culture/巴哈姆特.md",
-          "sourceCommitSha": "f5975a224",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:6af04295a71690eb",
           "sourceBodyHash": "sha256:01a8577cdb53218c",
-          "translatedAt": "2026-09-22T17:40:47+08:00",
+          "translatedAt": "2026-11-05T11:45:34.194096+00:00",
           "translationLastCommit": "dc60b349",
           "translationLastModified": "2026-09-22T23:28:51+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 11955,
+          "bytes": 12008,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -217189,20 +217173,18 @@
         "de": {
           "path": "de/Culture/taiwan-indigenous-mythology.md",
           "translatedFrom": "Culture/原住民神話.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:3ad9f28eb81ce704",
           "sourceBodyHash": "sha256:93356a93ce6ebf61",
-          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translatedAt": "2026-11-05T11:28:05.084425+00:00",
           "translationLastCommit": "f26b0b7c",
           "translationLastModified": "2026-09-16T00:35:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 13260,
+          "bytes": 13313,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -229619,8 +229601,8 @@
           "sourceContentHash": "sha256:a6a3b3bae8b8f64b",
           "sourceBodyHash": "sha256:a2026a7fcf36b68c",
           "translatedAt": "2026-11-05T09:55:59.283792+00:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "3d4c2396",
+          "translationLastModified": "2026-11-05T19:27:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 12535,
@@ -231171,20 +231153,18 @@
         "en": {
           "path": "en/Culture/plurk-taiwan-microblog.md",
           "translatedFrom": "Culture/噗浪Plurk.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:96026947f084b369",
           "sourceBodyHash": "sha256:147f1c5986f4274b",
-          "translatedAt": "2026-06-16T17:19:04Z",
+          "translatedAt": "2026-11-05T16:46:59+08:00",
           "translationLastCommit": "740160f9",
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 7871,
+          "bytes": 7850,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/plurk-taiwan-microblog.md",
@@ -231241,8 +231221,8 @@
           "sourceContentHash": "sha256:96026947f084b369",
           "sourceBodyHash": "sha256:147f1c5986f4274b",
           "translatedAt": "2026-11-05T16:47:23+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "3d4c2396",
+          "translationLastModified": "2026-11-05T19:27:46+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 9658,
@@ -234273,8 +234253,8 @@
           "sourceContentHash": "sha256:92d21a8f6666e1c2",
           "sourceBodyHash": "sha256:036fefb83f0557fd",
           "translatedAt": "2026-11-05T10:35:01.390245+00:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "3d4c2396",
+          "translationLastModified": "2026-11-05T19:27:46+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 11014,
@@ -235313,20 +235293,18 @@
         "fr": {
           "path": "fr/Culture/common-taiwanese-names.md",
           "translatedFrom": "Culture/菜市場名.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:4f24d54138c9fd30",
           "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
-          "translatedAt": "2026-06-11T16:39:06Z",
+          "translatedAt": "2026-11-05T16:47:23+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 10146,
+          "bytes": 9799,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/common-taiwanese-names.md",
