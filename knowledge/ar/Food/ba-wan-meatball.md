@@ -2,9 +2,7 @@
 title: 'البا-وان: من منقذ الفيضانات إلى حرفة البقاء ببصمة الأصابع الثلاثة'
 description: 'في عام 1898، أدت فيضانات "وو شو" المدمرة إلى ولادة الوجبة الخفيفة الوطنية التايوانية "البا-وان". من كرات الدقيق المنقذة للحياة التي صنعها "فان وان-جو"، كاتب المعبد في معبد "باي دو" المقدس، إلى حدود النكهة بين "البخار في الجنوب والقلي في الشمال"، ليس هذا مجرد تطور لذيذ، بل هو ذاكرة مرونة التايوانيين في البقاء وسط الشح.'
 date: 2026-04-26
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'البا-وان',
@@ -13,15 +11,19 @@ tags:
     'الوجبات الخفيفة التايوانية',
     'فيضانات وو شو الكبرى',
   ]
-readingTime: 12
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/肉圓.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-07-25T10:53:27+08:00'
+translatedAt: '2026-11-05T01:56:57.721669+00:00'
 ---
 
 > **نظرة عامة في 30 ثانية:**
