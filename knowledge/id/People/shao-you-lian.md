@@ -20,11 +20,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/邵友濂.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4246082bf9759556'
 sourceBodyHash: 'sha256:92194eb97c902d4f'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-05T14:36:32.880558+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Pada tahun 1891, wali provinsi Taiwan pertama Lius Min-chuan mengundurkan diri karena sakit, meninggalkan Taiwan yang penuh impian modernisasi namun menghadapi defisit fiskal. Penerusnya, Shao You-lian yang pernah menjabat sebagai wali keuangan Taiwan, menghadapi krisis pembelengguan ketika subsidi dari Fujian akan habis. Shao yang sering digambarkan sebagai golongan konservatif yang "menghentikan semua reformasi baru" sebenarnya menyelesaikan pengoperasian jalur kereta api dari Taipei ke Hsinchu dalam lingkungan fiskal yang sangat terbatas, dan secara resmi memindahkan ibu kota ke Taipei pada tahun 1894. Diplomat yang pernah terlibat dalam negosiasi Perjanjian Ili dan memiliki latar belakang sebagai menantu Li Hong-zhang, dia menggunakan tangan birokrasi yang pragmatis untuk menetapkan fokus politik-ekonomi Taiwan selama seratus tahun ke depan.
@@ -79,44 +81,44 @@ Selama ini, Shao You-lian memainkan peran sebagai kontras dari Lius Min-chuan da
 
 ### Bahan Referensi
 
-[^1]: Lian Heng, _Sejarah Taiwan Komprehensif · Garis Besar Keuangan_, [diedit oleh Dinas Penelitian Ekonomi Bank Taiwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711)。
+[^1]: [diedit oleh Dinas Penelitian Ekonomi Bank Taiwan](https://zh.wikisource.org/zh-hant/%E8%87%BA%E7%81%A3%E9%80%9A%E5%8F%B2/%E5%8D%B711) — Lian Heng, _Sejarah Taiwan Komprehensif · Garis Besar Keuangan_。
 
-[^2]: Xie Ji-kang, 〈Eksplorasi Pertahanan Taiwan Shao You-lian (1891 Tahun – 1894 Tahun) – Contoh Konstruksi Yangwu〉, _Jurnal Nankai_, [Volume 8 Nomor 2, Tahun 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf)。
+[^2]: [Volume 8 Nomor 2, Tahun 2011](https://libap.nhu.edu.tw:8081/Ejournal/AO01080206.pdf) — Xie Ji-kang, 〈Eksplorasi Pertahanan Taiwan Shao You-lian (1891 Tahun – 1894 Tahun) – Contoh Konstruksi Yangwu〉, _Jurnal Nankai_。
 
-[^3]: Xu Xue-ji, 〈Shao You-lian dan Gerakan Penguatan Diri Akhir Zaman Qing〉, termasuk dalam _Seminar Gerakan Penguatan Diri Zaman Qing_, [Institut Penelitian Sejarah Modern, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx)。
+[^3]: [Institut Penelitian Sejarah Modern, Academia Sinica](https://www.mh.sinica.edu.tw/Default.aspx) — Xu Xue-ji, 〈Shao You-lian dan Gerakan Penguatan Diri Akhir Zaman Qing〉, termasuk dalam _Seminar Gerakan Penguatan Diri Zaman Qing_。
 
-[^4]: Perpustakaan Nasional, Sistem _Memori Taiwan_, [entri "Shao You-lian"](https://tm.ncl.edu.tw/)。
+[^4]: [entri "Shao You-lian"](https://tm.ncl.edu.tw/) — Perpustakaan Nasional, Sistem _Memori Taiwan_。
 
-[^5]: Guo Ting-yi, _Ikhtisar Peristiwa Sejarah Taiwan_, [Penerbit Zhengzhong, Tahun 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ)。
+[^5]: [Penerbit Zhengzhong, Tahun 1984](https://books.google.com.tw/books?id=0XQ-AAAAMAAJ) — Guo Ting-yi, _Ikhtisar Peristiwa Sejarah Taiwan_。
 
-[^6]: Zhu Zhi-shi, 〈Taipei Prefecture〉, [dirujuk dari Bahan Sumber Sejarah](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735)。
+[^6]: [dirujuk dari Bahan Sumber Sejarah](https://m2.allhistory.com/detail/591ac28f55b5427dfa017735) — Zhu Zhi-shi, 〈Taipei Prefecture〉。
 
-[^7]: Akademi Belajar Cloud Hanlin, 〈Sejarah Nasional Sekolah Menengah: Shao You-lian〉, [Belajar Kata Kunci](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html)。
+[^7]: [Belajar Kata Kunci](https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E9%82%B5%E5%8F%8B%E6%BF%82.html) — Akademi Belajar Cloud Hanlin, 〈Sejarah Nasional Sekolah Menengah: Shao You-lian〉。
 
-[^8]: Yang Peng-fei, 〈Berbicara tentang Stasiun Kereta Api Zaman Qing Taiwan〉, _Majalah Observasi_, [Edisi 22, Juni Tahun 2015](http://www.observer-taipei.com/article.php?id=712)。
+[^8]: [Edisi 22, Juni Tahun 2015](http://www.observer-taipei.com/article.php?id=712) — Yang Peng-fei, 〈Berbicara tentang Stasiun Kereta Api Zaman Qing Taiwan〉, _Majalah Observasi_。
 
-[^9]: Bahan Sejarah Yangwu Taiwan Zaman Qing, 〈Wali Provinsi Taiwan Shao You-lian Melaporkan Jalur Kereta Api Taiwan Sementara Dihentikan pada Stasiun〉, [Tahun Guangxu ke-18](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99)。
+[^9]: [Tahun Guangxu ke-18](https://zh.wikisource.org/zh-hant/%E6%B8%85%E5%AD%A3%E8%87%BA%E7%81%A3%E6%B4%8B%E5%8B%99%E5%8F%B2%E6%96%99) — Bahan Sejarah Yangwu Taiwan Zaman Qing, 〈Wali Provinsi Taiwan Shao You-lian Melaporkan Jalur Kereta Api Taiwan Sementara Dihentikan pada Stasiun〉。
 
-[^10]: Watanabe Yoshinori, _Manual Membaca Rel Kereta Api Taiwan_, diterjemahkan oleh Huang De-feng, [Dinas Sejarah Nasional Taiwan Wenchian](https://www.th.gov.tw/)。
+[^10]: [Dinas Sejarah Nasional Taiwan Wenchian](https://www.th.gov.tw/) — Watanabe Yoshinori, _Manual Membaca Rel Kereta Api Taiwan_, diterjemahkan oleh Huang De-feng。
 
-[^11]: Wang Yi-fu, 〈Wali Provinsi Taiwan Akhir Zaman〉, _China Daily_, [2 Februari Tahun 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html)。
+[^11]: [2 Februari Tahun 2023](https://column.chinadaily.com.cn/a/202302/02/WS63db6355a3102ada8b22d75e.html) — Wang Yi-fu, 〈Wali Provinsi Taiwan Akhir Zaman〉, _China Daily_。
 
-[^12]: Wikipedia, [entri 〈Shao You-lian〉](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82)。
+[^12]: [entri 〈Shao You-lian〉](https://zh.wikipedia.org/zh-hant/%E9%82%B5%E5%8F%8B%E6%BF%82) — Wikipedia。
 
-[^13]: Wikipedia, [entri 〈Shao Can〉](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF)。
+[^13]: [entri 〈Shao Can〉](https://zh.wikipedia.org/zh-tw/%E9%82%B5%E7%81%BF) — Wikipedia。
 
-[^14]: Mei Xi Ge Zhi Kebahagiaan Hidup, [〈Bermimpi di Jembatan Miring — Legenda Lima Generasi Keluarga Shao Jembatan Miring〉](https://www.yuleshow.com/?p=448)。
+[^14]: [〈Bermimpi di Jembatan Miring — Legenda Lima Generasi Keluarga Shao Jembatan Miring〉](https://www.yuleshow.com/?p=448) — Mei Xi Ge Zhi Kebahagiaan Hidup。
 
-[^15]: Istana Musim Dingin Gugong, [pengenalan tokoh 〈Shao Xun-mei〉](https://www.dpm.org.cn/lemmas/241167.html)。
+[^15]: [pengenalan tokoh 〈Shao Xun-mei〉](https://www.dpm.org.cn/lemmas/241167.html) — Istana Musim Dingin Gugong。
 
-[^16]: Wikipedia, [entri 〈Perjanjian Ili〉](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84)。
+[^16]: [entri 〈Perjanjian Ili〉](https://zh.wikipedia.org/zh-hant/%E4%BC%8A%E7%8A%81%E6%A2%9D%E7%B4%84) — Wikipedia。
 
-[^17]: Li Yang-fan, 〈Zeng Ji-ze: Mulai Percaya Kunlun Ada Gunung Lain〉, termasuk dalam _Pengetahuan Dunia_, [Tahun 2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf)。
+[^17]: [Tahun 2006](https://www.sis.pku.edu.cn/teachers/docs/20190904102529178998.pdf) — Li Yang-fan, 〈Zeng Ji-ze: Mulai Percaya Kunlun Ada Gunung Lain〉, termasuk dalam _Pengetahuan Dunia_。
 
-[^18]: Dinas Budaya Kota Taipei, [〈Kota Taipei dan Shao You-lian〉](https://culture.gov.taipei/)。
+[^18]: [〈Kota Taipei dan Shao You-lian〉](https://culture.gov.taipei/) — Dinas Budaya Kota Taipei。
 
-[^19]: Wikipedia, [entri 〈Bengkel Mesin Taipei〉](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80)。
+[^19]: [entri 〈Bengkel Mesin Taipei〉](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97%E6%A9%9F%E5%99%A8%E5%B1%80) — Wikipedia。
 
-[^20]: Database Perusahaan Perdagangan, [〈Pembicaraan Hiroshima dan Ketidakcukupan Wewenang Penuh〉](http://1872.cmhk.com/ziliaoku/5110.html)。
+[^20]: [〈Pembicaraan Hiroshima dan Ketidakcukupan Wewenang Penuh〉](http://1872.cmhk.com/ziliaoku/5110.html) — Database Perusahaan Perdagangan。
 
-[^21]: Berita Tencent, [〈Penolakan Utusan di Hiroshima — Kehancuran Sebenarnya Mimpi Dinasti Surga di Bawah Awan Perang Sino-Jepang Pertama〉](https://view.inews.qq.com/k/20260508A01P7U00)。
+[^21]: [〈Penolakan Utusan di Hiroshima — Kehancuran Sebenarnya Mimpi Dinasti Surga di Bawah Awan Perang Sino-Jepang Pertama〉](https://view.inews.qq.com/k/20260508A01P7U00) — Berita Tencent。

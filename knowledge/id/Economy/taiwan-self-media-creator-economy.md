@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '271d82d6f'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4da8d8f4824a9c3e'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
-translatedAt: '2026-10-15T20:48:07.190216+00:00'
+translatedAt: '2026-11-05T14:16:01.123489+00:00'
 ---
 
 > Pasar iklan selebritas internet Taiwan berkisar 210 juta dolar AS, tidak sampai 1% AS. Namun seorang kreator menengah Taiwan biasa mengelola 5–7 platform sekaligus—YouTube, IG, Facebook, Threads, Podcast, blog, LINE—hampir dua kali lipat kreator setara AS. Pasar sangat kecil, platform sangat terpecah, monetisasi bergantung pada pemasaran afiliasi bukan langganan, ini permainan dengan aturan yang sama sekali berbeda.

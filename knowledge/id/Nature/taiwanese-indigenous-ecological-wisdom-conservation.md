@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:6eaa5ad532d51356'
-sourceBodyHash: 'sha256:4d4e5b55ae129a54'
-translatedAt: '2026-09-10T12:00:00+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:d162c579da0f2b9c'
+sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
+translatedAt: '2026-11-05T13:46:50.871592+00:00'
 ---
 
 # Kearifan Ekologi Masyarakat Adat Taiwan dan Konservasi Lingkungan
