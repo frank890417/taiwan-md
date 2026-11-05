@@ -2,9 +2,7 @@
 title: 'बुजुर्गों की शुभकामना तस्वीरें: कमल और बुद्ध के पीछे की डिजिटल कोमलता और सूचना युद्धक्षेत्र'
 description: 'बुजुर्गों की शुभकामना तस्वीरें न केवल ताइवान के वरिष्ठ नागरिकों द्वारा डिजिटल खाई को पार करने का प्रमाण हैं, बल्कि सोशल प्लेटफॉर्म पर भावनात्मक आदान-प्रदान का माध्यम भी हैं, हालांकि उनका विशिष्ट रूप झूठी खबरों के प्रसार का प्रजनन स्थल भी बन गया है, और युवा पीढ़ी में यह एक अनूठी मीम संस्कृति के रूप में विकसित हुई है।'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     'बुजुर्गों की शुभकामना तस्वीरें',
@@ -15,15 +13,19 @@ tags:
     'झूठी खबरें',
     'मीम',
   ]
-readingTime: 10
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-07-25T00:12:07+08:00'
+translatedAt: '2026-11-05T05:10:04.826013+00:00'
 ---
 
 > **30 सेकंड अवलोकन:**

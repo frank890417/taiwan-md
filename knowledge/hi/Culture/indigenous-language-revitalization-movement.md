@@ -1,10 +1,8 @@
 ---
 title: 'ताइवान मूलनिवासी भाषा पुनरुद्धार आंदोलन'
 description: 'ताइवान के शाओ समुदाय में केवल 4 मूल वक्ता बचे हैं, फिर भी इसने विश्व के सबसे गहन भाषा पुनरुद्धार प्रयोगों में से एक को जन्म दिया है। 2017 के "मूलनिवासी भाषा विकास अधिनियम" से लेकर डिजिटल मूलनिवासी भाषा प्लेटफॉर्म तक, एक मौन बचाव अभियान तेजी से चल रहा है।'
-date: '2026-03-29'
-author: 'Taiwan.md Contributors'
+date: 2026-03-29
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'मूलनिवासी',
@@ -13,15 +11,19 @@ tags:
     'भाषा नीति',
     'सांस्कृतिक विरासत',
   ]
-readingTime: '8'
-lastVerified: '2026-03-29'
-lastHumanReview: 'false'
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-29
+lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
-translatedAt: '2026-07-25T01:31:56+08:00'
+translatedAt: '2026-11-05T05:25:47.891601+00:00'
 ---
 
 # ताइवान मूलनिवासी भाषा पुनरुद्धार आंदोलन

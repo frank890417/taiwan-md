@@ -1,10 +1,8 @@
 ---
 title: 'गुआन शेंग दी-जुन: पराजित सेनापति ताइवान के सर्वशक्तिमान देवता कैसे बने'
 description: 'तीन राजवंशों के काल के सेनापति गुआन यू युद्ध में पराजित हुए और उनका सिर काट दिया गया, फिर भी ताइवान में उनसे विश्व की अनूठी ‘‘एनझुगोंग’’ आस्था-प्रणाली विकसित हुई—और पूरे ताइवान के सबसे व्यस्त गुआन दी मंदिर में आपको एक अगरबत्ती तक जलाने की अनुमति नहीं है।'
-date: '2026-03-26'
-author: 'Taiwan.md Contributors'
+date: 2026-03-26
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'गुआन शेंग दी-जुन',
@@ -13,15 +11,19 @@ tags:
     'लोक आस्था',
     'मंदिर संस्कृति',
   ]
-readingTime: 10
-lastVerified: '2026-03-26'
-lastHumanReview: false
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-26
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-18T19:14:57+08:00'
+translatedAt: '2026-11-05T06:03:24.916927+00:00'
 ---
 
 # गुआन शेंग दी-जुन: पराजित सेनापति ताइवान के सर्वशक्तिमान देवता कैसे बने
