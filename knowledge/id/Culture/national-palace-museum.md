@@ -1,10 +1,8 @@
 ---
 title: 'Museum Nasional Istana'
 description: 'Ini adalah "beban" paling berat di pulau ini, sekaligus "fantasi digital" paling ringan. Dari kotak-kotak kayu di tengah perang hingga piksel di bawah kekuatan komputasi AI, Museum Nasional Istana kini berusaha mendefinisikan apa itu "Museum Nasional Istana Taiwan" di antara Wai Shuangxi Taipei dan Taibao Chiayi.'
-date: '2026-04-19'
-author: 'Taiwan.md'
+date: 2026-04-19
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
   [
     'Museum',
@@ -16,15 +14,20 @@ tags:
     'Seni Digital',
     'Transformasi',
   ]
-readingTime: '10'
-lastVerified: '2026-04-19'
-lastHumanReview: 'true'
+subcategory: '藝術園區'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-19
+lastHumanReview: true
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-05T05:09:04.455085+00:00'
 ---
 
 # Museum Nasional Istana: Dari Kotak Kayu di Tengah Perang ke Fantasi AI, Seratus Tahun Perjalanan Panjang

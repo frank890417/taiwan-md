@@ -1,10 +1,8 @@
 ---
 title: 'Guan Sheng Dijun: Bagaimana Seorang Panglima yang Kalah Perang Menjadi Dewa Serbabisa Taiwan'
 description: 'Guan Yu, panglima perang zaman Tiga Kerajaan, kalah dan dipenggal, tetapi di Taiwan berkembang menjadi sistem kepercayaan “Enzhugong” yang unik di dunia—sementara kuil Guan Di tersibuk di seluruh Taiwan bahkan tidak mengizinkan Anda membakar sebatang dupa pun.'
-date: '2026-03-26'
-author: 'Taiwan.md Contributors'
+date: 2026-03-26
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Guan Sheng Dijun',
@@ -13,15 +11,19 @@ tags:
     'kepercayaan rakyat',
     'budaya kuil',
   ]
-readingTime: 10
-lastVerified: '2026-03-26'
-lastHumanReview: false
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-03-26
+lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/關聖帝君信仰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-11-05T05:20:06.243249+00:00'
 ---
 
 # Guan Sheng Dijun: Bagaimana Seorang Panglima yang Kalah Perang Menjadi Dewa Serbabisa Taiwan

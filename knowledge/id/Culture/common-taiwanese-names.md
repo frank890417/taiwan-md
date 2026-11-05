@@ -1,10 +1,8 @@
 ---
 title: 'Nama Pasar Tradisional'
 description: 'Di jalanan Taiwan, jika seseorang berteriak "Shu-fen" atau "Chia-hao", berapa orang yang akan menoleh? Nama-nama ini adalah cerminan masyarakat Taiwan, mencatat imajinasi kolektif generasi berbeda tentang "kehidupan yang indah".'
-date: '2026-04-19'
-author: 'Taiwan.md'
+date: 2026-04-19
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Budaya Sosial',
@@ -15,15 +13,20 @@ tags:
     'Chia-hao',
     'Ya-ting',
   ]
-readingTime: '6'
-lastVerified: '2026-04-19'
-lastHumanReview: 'true'
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-19
+lastHumanReview: true
+slug: 'popular-names-taiwan'
+readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
 sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-05T05:44:16.850558+00:00'
 ---
 
 # Nama Pasar Tradisional

@@ -2,9 +2,7 @@
 title: 'Festival Zhongyuan: Dari Ketakutan Menenangkan Arwah Kesepian hingga Rekonsiliasi Kolektif Sebuah Pulau'
 description: "Festival Zhongyuan di Taiwan bukan sekadar bentuk penghormatan terhadap hantu, melainkan catatan sejarah tentang pembukaan lahan, konflik, dan asimilasi kelompok. Dari rekonsiliasi penuh air mata di Keelung hingga kompetisi ekstrem 'Pencarian Arwah' (Qianggu) di Toucheng, upacara ini mengungkap bagaimana orang Taiwan mengubah ketakutan menjadi perjanjian perdamaian sosial."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Pujamu Zhongyuan',
@@ -13,15 +11,20 @@ tags:
     'Tradisi Taiwan',
     'Sejarah',
   ]
-readingTime: 8
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-11-05T05:31:37.003655+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Festival Zhongyuan di Taiwan bukanlah sekadar ritual keagamaan sederhana, melainkan sebuah "perjanjian perdamaian sosial" yang telah bertahan selama ratusan tahun. Kesulitan dalam pembukaan lahan awal dan pertikaian berdarah antar kelompok mendorong para leluhur untuk membangun mekanisme kompetisi seperti Upacara Zhongyuan Keelung, di mana "pertunjukan musik perkusi menggantikan benturan kepala". Upacara ini memandang "orang luar" yang meninggal di negeri asing sebagai "saudara baik", mencerminkan empati migrasi dan solidaritas komunitas yang khas di Taiwan.
