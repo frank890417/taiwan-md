@@ -2,9 +2,7 @@
 title: 'المتحف الوطني للبلاط'
 description: 'إنه أثقل «أمتعة» على هذه الجزيرة، وأخف «وهم رقمي». من الصناديق الخشبية في أتون الحرب إلى البكسلات تحت قوة حوسبة الذكاء الاصطناعي، يحاول المتحف الوطني للبلاط، بين واي شوانغ شي في تايبيه وتايباو في تشياي، تعريف ما هو «متحف تايوان الوطني للبلاط».'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
   [
     'المتاحف',
@@ -16,15 +14,20 @@ tags:
     'الفن الرقمي',
     'التحول',
   ]
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-07-25T05:00:14+08:00'
+translatedAt: '2026-11-05T07:13:42.855050+00:00'
 ---
 
 # المتحف الوطني للبلاط: مسيرة مئة عام من صناديق الحرب إلى وهم الذكاء الاصطناعي
