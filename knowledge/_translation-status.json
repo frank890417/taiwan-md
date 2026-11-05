@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T02:07:52+08:00",
-    "zhCommitHead": "ad7509697",
+    "lastUpdated": "2026-11-06T02:13:40+08:00",
+    "zhCommitHead": "d7a712f3f",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -28,33 +28,33 @@
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1094,
+        "fresh": 1095,
         "stale": 32,
-        "metadata_stale": 32,
+        "metadata_stale": 31,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 33,
-        "metadata_stale": 30,
+        "metadata_stale": 29,
         "missing": 4,
         "orphan": 0
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1087,
+        "fresh": 1088,
         "stale": 33,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1093,
+        "fresh": 1094,
         "stale": 35,
-        "metadata_stale": 30,
+        "metadata_stale": 29,
         "missing": 4,
         "orphan": 0
       },
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1074,
+        "fresh": 1075,
         "stale": 36,
-        "metadata_stale": 48,
+        "metadata_stale": 47,
         "missing": 4,
         "orphan": 0
       }
@@ -28826,20 +28826,18 @@
         "ja": {
           "path": "ja/Technology/backslash-in-cjk-fonts.md",
           "translatedFrom": "Technology/功字裡的那根反斜線.md",
-          "sourceCommitSha": "9f06b2a04",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
-          "translatedAt": "2026-10-08T09:35:13+08:00",
+          "translatedAt": "2026-11-05T18:11:36.037057+00:00",
           "translationLastCommit": "fda447d1",
           "translationLastModified": "2026-10-08T12:24:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 17489,
+          "bytes": 17548,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/backslash-in-cjk-fonts.md",
@@ -162651,20 +162649,18 @@
         "de": {
           "path": "de/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "539c393a5",
-          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceCommitSha": "2ef99f287",
+          "sourceContentHash": "sha256:274d81ffebc02b90",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
-          "translatedAt": "2026-09-25T01:48:24+08:00",
+          "translatedAt": "2026-11-05T18:09:09.235368+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 12466,
+          "bytes": 12868,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -184721,8 +184717,8 @@
           "sourceContentHash": "sha256:ce4c525b32d53370",
           "sourceBodyHash": "sha256:d4d1f058fca35e5e",
           "translatedAt": "2026-11-05T16:37:02.526868+00:00",
-          "translationLastCommit": "646d1617",
-          "translationLastModified": "2026-09-11T07:30:33+08:00",
+          "translationLastCommit": "d7a712f3",
+          "translationLastModified": "2026-11-06T02:07:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 30700,
@@ -187963,20 +187959,18 @@
         "es": {
           "path": "es/History/taiwan-radio-broadcasting-history.md",
           "translatedFrom": "History/台灣廣播史.md",
-          "sourceCommitSha": "174a83b65",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
-          "translatedAt": "2026-09-10T05:34:23+08:00",
+          "translatedAt": "2026-11-05T18:12:27.161180+00:00",
           "translationLastCommit": "94cb2bd7",
           "translationLastModified": "2026-10-10T23:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 26104,
+          "bytes": 26163,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-radio-broadcasting-history.md",
@@ -190619,20 +190613,18 @@
         "ko": {
           "path": "ko/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-12T20:40:24+08:00",
+          "translatedAt": "2026-11-05T18:12:22.110783+00:00",
           "translationLastCommit": "1dd00333",
           "translationLastModified": "2026-10-31T08:37:26+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 19221,
+          "bytes": 19159,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/lin-shuang-wen-rebellion.md",
@@ -190655,20 +190647,18 @@
         "fr": {
           "path": "fr/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-11T10:28:55+08:00",
+          "translatedAt": "2026-11-05T18:13:20.945270+00:00",
           "translationLastCommit": "d63b563d",
           "translationLastModified": "2026-09-11T11:12:49+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 23129,
+          "bytes": 23132,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/lin-shuang-wen-rebellion.md",
@@ -198821,11 +198811,11 @@
           "sourceContentHash": "sha256:d2f1e34fdbd007bc",
           "sourceBodyHash": "sha256:c28d645ae239af32",
           "translatedAt": "2026-11-05T23:10:51+08:00",
-          "translationLastCommit": "e64212f1",
-          "translationLastModified": "2026-09-27T00:53:11+08:00",
+          "translationLastCommit": "d7a712f3",
+          "translationLastModified": "2026-11-06T02:07:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 23881,
+          "bytes": 23883,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"

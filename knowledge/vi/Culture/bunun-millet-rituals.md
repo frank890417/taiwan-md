@@ -17,20 +17,22 @@ featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/布農族小米歲時祭儀.md'
-sourceCommitSha: '36f293ae0'
-sourceContentHash: 'sha256:e2dca0350b4b80aa'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:a08b66093896c8a3'
 sourceBodyHash: 'sha256:dee79906f6659ba2'
-translatedAt: '2026-09-15T06:51:28+08:00'
+translatedAt: '2026-11-05T16:43:19.969100+00:00'
 ---
 
-> **30 giây tóm tắt:** Lễ hội ngô của người Búnun không phải là một dịp lễ sau thu hoạch, mà là một chuỗi các nghi lễ theo chu kỳ phát triển của cây ngô: gieo hạt, chăm sóc, thu hoạch, bảo quản và ca hát. Nông nghiệp ngô từng bị gián đoạn do quản lý đất đai, chuyển đổi cây trồng và thay đổi tôn giáo. Ngày nay, sự phục hồi bắt đầu từ hạt giống, trường học và đồng ruộng bản đồ, kết nối lại cây trồng, gia đình và ký ức.
+**Tóm tắt 30 giây:** Nghi lễ ngô của người Búnun không phải là lễ hội chỉ xuất hiện sau thu hoạch, mà được sắp xếp theo chu kỳ sinh trưởng của ngô: gieo trồng, cày cỏ, thu hoạch, nhập kho và ca hát. Việc trồng ngô từng bị gián đoạn do quản lý đất đai, chuyển đổi cây trồng và thay đổi tôn giáo. Ngày nay, sự phục hưng bắt đầu từ hạt giống, trường học và ruộng đồng bộ lạc, nối lại cây trồng, gia đình và ký ức.
 
-Trong khu rừng thí nghiệm của xã Tín Nhiệm, Nantou, từng có một mảng đồng ngô nhỏ được lắp lưới chống chim. Năm 2022, nơi đây trồng 28 dòng gen địa phương của Nantou được mang về từ Trung tâm nguồn gen Hoa Kỳ. Đó không chỉ là một thí nghiệm nông nghiệp đơn thuần, mà là nơi những người trẻ và trưởng lão của người Búnun bắt đầu lại câu chuyện với ngô. [^1]
+Trong rừng thí nghiệm tại xã Xìn Ý, huyện Nantou, từng có một thửa ruộng ngô nhỏ được che lưới chống chim. Năm 2022, người ta gieo tại đây 28 giống địa phương của Nantou được mang về từ Trung tâm nguồn gen (germplasm center) tại Mỹ. Đó không phải là một thử nghiệm nông nghiệp đơn thuần, mà là cửa ngõ để thanh niên và người già người Búnun lại nói chuyện về ngô.[^1]
 
-Cùng một loại cây trồng, trong cuộc sống của người Búnun có hơn chín tên gọi tương ứng với các giai đoạn phát triển khác nhau. Nó vừa là thực phẩm, vừa là tài sản gia đình, mối quan hệ xã hội và thứ tự nghi lễ. Một điều phản trực giác: sự gián đoạn của văn hóa ngô không chỉ đơn thuần là mất một loại lương thực, mà còn khiến một hệ thống dùng cây trồng để đánh dấu thời gian mất đi điểm dựa.
+Chính một loại cây trồng này, trong đời sống người Búnun có hơn chín tên gọi tương ứng với các giai đoạn sinh trưởng khác nhau. Nó vừa là thức ăn, vừa là tọa độ của của cải gia đình, quan hệ xã hội và trật tự nghi lễ.[^2] Điều ngược trực giác là: sự gián đoạn của văn hóa ngô không chỉ làm mất đi một loại lương thực, mà còn khiến một lối sống dùng cây trồng để đánh dấu thời gian mất đi điểm tựa.
 
-Ngày nay, những người trồng ngô phục hồi không chỉ đang tìm cách lấy lại một loại cây cổ. Họ đang hỏi: nếu lễ hội ban đầu đi cùng với sự phát triển của cây ngô, thì khi ngô không còn được trồng, các bản ngã có thể chỉ bằng những bài ca trên sân khấu để hát lại thời gian đó?
+Ngày nay, những người khôi phục trồng ngô không chỉ tìm lại một loại cây trồng cổ xưa. Họ đang hỏi: nếu nghi lễ ban đầu đi theo sự sinh trưởng của ngô, khi ngô không còn được trồng, đồng bào còn có thể chỉ dựa vào những bài hát trên sân khấu mà hát lại được khoảng thời gian đó sao?
 
 ## Một năm không bắt đầu từ lịch
 
@@ -152,20 +154,20 @@ Và vì vậy, hiểu được hệ thống lễ hội này không chỉ là h�
 
 ## Tài liệu tham khảo
 
-[^1]: [Đại học Đài Loan：NTU and the Bunun Tribe Join Hands to Revive Millet](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Bản tin tiếng Anh của Đại học Đài Loan ghi chép về nguồn gen địa phương năm 1977, sự trở lại của chúng ở Đài Loan năm 2011 và sự hợp tác phục hồi với bản đồ Tín Nhiệm năm 2022.
+[^1]: [Đại học Quốc gia Đài Loan: NTU và bộ lạc Bunun hợp tác hồi sinh lúa mì](https://www.ntu.edu.tw/english/spotlight/2022/2093_20220928.html) — Bản tin tiếng Anh của Đại học Đài Loan ghi nhận bối cảnh năm 1977 về giống lúa mì bản địa, năm 2011 đưa trở lại Đài Loan và năm 2022 hợp tác với bộ lạc Xinyi để phục hồi.
 
-[^2]: [Xuỵ Hiếu Văn：Nghiên cứu sinh học văn hóa của ngô Búnun－Lấy bản đồ Hương Xa, Nantou làm ví dụ](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Tóm tắt luận văn tiến sĩ phân tích tên gọi, phương pháp trồng trọt và ý nghĩa xã hội cũng như tâm lý của ngô Búnun thông qua sinh học văn hóa và điều tra thực địa.
+[^2]: [Trần Nhã Huệ: Nghiên cứu sinh thái văn hóa lúa mì của người Bunun — lấy bộ lạc Vọng Hương huyện Nantou làm ví dụ](https://www.airitilibrary.com/Article/Detail/U0017-1901200710304953) — Tóm tắt luận án tiến sĩ sử dụng sinh thái văn hóa và điều tra thực địa để phân tích tên gọi, phương pháp trồng trọt lúa mì của người Bunun cũng như ý nghĩa xã hội và tinh thần của nó.
 
-[^3]: [Kho ký ức văn hóa quốc gia：Hải Đoàn－2021 Lễ thực X thời gian theo mùa－Triển lãm văn hóa công nghiệp Búnun của Hải Đoàn－Bản kịch gieo hạt](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Bản kịch của lễ gieo hạt Búnun tại Hải Đoàn, ghi chép từng bước của lời cầu nguyện, thử nghiệm, trừ tà ma, cầu chúc công cụ, bài ca lễ và quy trình gieo hạt.
+[^3]: [Kho lưu trữ Văn hóa Quốc gia: Hải Đoàn — 2021 Tế Thực X Mùa — Văn bản trưng bày triển lãm đặc sắc văn hóa sản nghiệp người Bunun huyện Hải Đoàn — Lễ hội gieo trồng](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=715911) — Văn bản trưng bày lễ hội gieo trồng của người Bunun huyện Hải Đoàn, ghi chi tiết từng mục: cầu phước, gieo thử, trừ tà, cầu phước cho công cụ nông nghiệp, bài hát tế lễ và quy trình gieo trồng.
 
-[^4]: [Kho tri thức văn hóa Búnun ở Hương Dương：Hồ Quang Phát－Nhận thức của tôi về văn hóa ngô](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Tài liệu thứ nhất của người truyền thống Búnun, mô tả thời gian lễ hội, lễ cấm giấc mơ, phân công công việc trong gia đình, thay đổi công việc và các dòng ngô.
+[^4]: [Kho bảo tồn kiến thức văn hóa người Bunun huyện Yên Bình: Hồ Khâm Phúc — Hiểu biết của tôi về văn hóa lúa mì](https://www.ttypg.gov.tw/yanping_talent/talent/18.html) — Tài liệu góc nhìn thứ nhất từ người truyền承 văn hóa người Bunun, giải thích trình tự lễ nghi, cấm kỵ về giấc mơ, phân công gia đình, đổi việc và giống lúa mì.
 
-[^5]: [Mạng lưới tài sản văn hóa quốc gia：Bài ca cầu nguyện thu hoạch ngô của Búnun pasibutbut](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Dữ liệu bài ca đa âm thanh truyền thống của người Búnun từ trang đăng ký tài sản văn hóa, cung cấp tên bài, cộng đồng truyền lại và bối cảnh lịch sử bảo quản.
+[^5]: [Mạng lưới Di sản Văn hóa Quốc gia: Bài hát cầu nguyện mùa màng lúa mì pasibutbut của người Bunun](https://nchdb.boch.gov.tw/city/TAITUNG/assets/overview/traditionalPerformingart/20160317000001) — Dữ liệu bài hát đa thanh truyền thống của người Bunun trên trang đăng ký di sản văn hóa, cung cấp tên bài hát, cộng đồng truyền承 và bối cảnh bảo tồn lịch sử.
 
-[^6]: [Sở văn hóa Hẹn Thông：Nhạc Búnun pasibutbut（Bài ca thu hoạch ngô）](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Tài liệu văn hóa của Hẹn Thông mô tả cách dẫn ca và hòa âm của bản đồ Gổ Nham, cộng đồng truyền lại và công việc phục hồi từ những năm 1980.
+[^6]: [Cục Văn hóa huyện Hoa Liên: Âm nhạc người Bunun pasibutbut (Bài hát mùa màng lúa mì)](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/203) — Tài liệu di sản văn hóa huyện Hoa Liên giải thích cách hát chính và hòa thanh của bộ lạc cổ phong, cộng đồng truyền承 và công tác phục hồi từ những năm 1980.
 
-[^7]: [Bộ Văn hóa：Taiwan’s Bunun people invited to perform in Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Bài viết tiếng Anh của Bộ Văn hóa ghi chép buổi biểu diễn tại Paris năm 2022, ý nghĩa nghi lễ của pasibutbut, sự tham gia hát của sáu đến mười hai người và hồ sơ ghi âm của Kurozawa Takeru.
+[^7]: [Bộ Văn hóa: Người Bunun Đài Loan được mời biểu diễn tại Paris](https://www.moc.gov.tw/global_outreach/News_Content2.aspx?n=531&s=99682) — Bài viết tiếng Anh của Bộ Văn hóa ghi nhận buổi biểu diễn năm 2022 tại Paris, ý nghĩa lễ nghi của pasibutbut, hợp xướng từ 6 đến 12 người và bản ghi âm của Kurosawa Takashi.
 
-[^8]: [Đài Loan Ánh sáng：Renaissance of Bunun Millet Culture－Growing Native Varieties Under the Garden Program](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Báo cáo sâu tiếng Anh năm 2023, theo dõi sự phục hồi ngô của Tín Nhiệm, chương trình dạy học của trường Quảng Mỗ, việc tổ chức lại lễ hội và người tham gia trở về của chương trình Garden Program.
+[^8]: [Quang Hoa Đài Loan: Phục hưng văn hóa lúa mì người Bunun — Trồng giống bản địa trong Chương trình Vườn](https://www.taiwan-panorama.com/en/Articles/Details?Guid=15b736d1-6b03-451a-a9fc-4670f0c36a05&CatId=11&postname=Renaissance%20of%20Bunun%20Millet%20Culture-Growing%20Native%20Varieties%20Under%20the%20Garden%20Program) — Báo cáo chuyên sâu tiếng Anh năm 2023, theo dõi sự phục hồi lúa mì tại huyện Xinyi, khóa học tại trường tiểu học Cửu Mai, phục hồi lễ nghi và những người tham gia quay về quê hương trong Chương trình Vườn.
 
-[^9]: [Đại học Đài Đông：Sự hiện hữu âm thanh gốc và hình ảnh hiện đại của Búnun Chuích](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Tài liệu hoạt động của trường đại học mô tả ý nghĩa nhận diện nhóm của pasibutbut, cũng như cách âm nhạc truyền thống của Búnun Chuích được tái giải thích trong các buổi biểu diễn hiện đại.
+[^9]: [Đại học Quốc gia Đài Đông: Tái hiện âm thanh gốc của người Bunun Trúc Khê và tưởng tượng đương đại](https://osa.pu.edu.tw/p/16-1111-62579.php?Lang=zh-tw) — Tài liệu hoạt động trường đại học giải thích ý nghĩa nhận diện dân tộc của pasibutbut, cũng như việc tái diễn giải âm nhạc truyền thống của người Bunun Trúc Khê trong biểu diễn đương đại.
