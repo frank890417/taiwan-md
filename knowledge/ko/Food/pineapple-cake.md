@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:40:54.408889+00:00'
+translatedAt: '2026-11-05T01:56:13.631470+00:00'
 ---
 
 > **30초 개요:** 파인애플 케이크는 대만 농업과 제빵 기술이 만나는 축소판이다. 1945년 타이중 옌신파에서 시작되어, 1970년대 파인애플 수출 부진으로 인해 동과 소가 개발되었고, 2009년 이후 위산쑤안의 '토종 파인애플' 노선을 통해 다시 대중의 시야로 돌아왔다. 현재 이 작은 황금 벽돌의 연간 생산액은 250억 신대만 달러를 넘어섰으며, 외국 관광객이 가장 대표적인 대만의 맛으로 꼽는 음식이 되었다.

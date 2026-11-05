@@ -11,15 +11,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "작품 연도의 정확한 순서에서 출발(바다를 보는 날 1967이 아들의 대형인형 1969보다 선행) — 시점 확인은 사실 정확성을 확인하는 방법이기도 하다."
-#   whats_excluded: "각 단편의 장별 분석; 황대어(黃大魚) 아동극단의 역대 공연 목록; 이란 문화 행사 세부 사항"
-#   where_it_hedges: "〈바다를 보는 날〉 1967년 발표 시기는 위키를 기준으로 함 (P0⚠️ 실증적 확인 권장)"
-translatedFrom: People/黃春明.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:fa94afa39f837939
-sourceBodyHash: sha256:59fc287ce8c0baeb
-translatedAt: 2026-05-22T05:08:46+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/黃春明.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:fa94afa39f837939'
+sourceBodyHash: 'sha256:59fc287ce8c0baeb'
+translatedAt: '2026-11-05T01:46:32.155311+00:00'
 ---
 
 # 황춘명: 루동 1935, 〈바다를 보는 날〉에서 〈아들의 대형인형〉까지, 소인물을 그린 작가

@@ -1,19 +1,23 @@
 ---
 title: '서희원: 천진난만한 미소녀에서 "이사일중상"의 강렬한 여왕으로'
 description: '1994년 S.O.S로 데뷔, 2001년 《유성화원》으로 아시아 전역에 스타덤에 오르고, 2005년 《미용대왕》으로 미학적 아이덴티티를 확립한 뒤, 2025년 2월 48세의 나이로 세상을 떠났다. 그녀는 극단적인 미에 대한 추구로 통제 불가능한 인생에 맞섰으며, 결혼의 폭풍 속에서 "이사일중상"이라는 성명을 통해 현대 여성의 딜레마에 가장 깊은 단면을 남겼다.'
-category: People
-tags: [서희원, 대S, 왕소페이, 구준엽, 유성화원, 미용대왕, 오락백분백]
-author: 'idlccp1984'
 date: 2026-04-28
+category: 'People'
+tags:
+  ['서희원', '대S', '왕소페이', '구준엽', '유성화원', '미용대왕', '오락백분백']
+subcategory: '電影與戲劇'
+author: 'idlccp1984'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-28
 lastHumanReview: false
-translatedFrom: People/徐熙媛.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/徐熙媛.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
-translatedAt: 2026-05-01T22:19:01+08:00
+translatedAt: '2026-11-05T02:42:59.434045+00:00'
 ---
 
 > **30초 개요:** 서희원(예명 대S), 1976년생, 대만 배우·가수·MC. 1994년 여동생 서희디와 S.O.S 그룹으로 데뷔, 2001년 《유성화원》의 "싼차이" 역으로 아시아 전역에 스타덤에 올랐고, 2005년 《미용대왕》으로 미용 트렌드를 주도했다. 두 번의 결혼 끝에, 2024년 "십년 결혼 이사일중상"이라는 성명으로 세상을 놀라게 했으며, 2025년 2월 2일 독감 합병 폐렴으로 향년 48세를 일기로 세상을 떠났다.
