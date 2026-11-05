@@ -1,26 +1,29 @@
 ---
-title: 'Ba-wan: de la píldora salvavidas tras la inundación a la artesanía de supervivencia de las tres marcas de dedos'
-description: 'La devastadora inundación de Wuxu en 1898 dio origen al popular bocadillo taiwanés conocido como "ba-wan" (肉圓). Desde las bolas de harina de camote preparadas por Fan Wanju, escriba del templo de Beidou, hasta la frontera gustativa entre el vapor del sur y la fritura del norte, esta no es solo una evolución culinaria, sino un testimonio de la resiliencia taiwanesa para sobrevivir en la escasez.'
-category: Food
+title: 'Ba-wan: del elixir salvavidas contra la inundación al arte de supervivencia de la huella de tres dedos'
+description: 'En 1898, una devastadora gran inundación de Wuxu dio origen al snack nacional taiwanés «ba-wan». Desde las bolas de harina salvavidas bajo la mano del erudito Fan Wanju del Altar de los Dioses de Beidou, hasta la frontera gustativa de «al vapor en el sur, frito en el norte», esto no es solo una deliciosa evolución, sino también la memoria de resiliencia de los taiwaneses sobreviviendo en la escasez.'
+date: 2026-04-26
+category: 'Food'
 tags:
   [
-    'ba-wan',
-    'gastronomía de Changhua',
+    'Ba-wan',
+    'Gastronomía de Changhua',
     'Beidou',
-    'bocadillos taiwaneses',
-    'Gran Inundación de Wuxu',
+    'Snacks taiwaneses',
+    'Gran inundación de Wuxu',
   ]
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
-date: 2026-04-26
-readingTime: 12
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/肉圓.md
-sourceCommitSha: '4b6d28c54'
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/肉圓.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
-translatedAt: '2026-05-16T22:35:47Z'
-featured: false
+translatedAt: '2026-11-05T04:18:16.695056+00:00'
 ---
 
 > **Resumen en 30 segundos:**

@@ -2,9 +2,7 @@
 title: 'Salón Conmemorativo de Chiang Kai-shek'
 description: 'Es el símbolo político más imponente del centro de Taipéi y, al mismo tiempo, la pista de baile más democrática. Del templo de la autoridad al ojo del huracán de la justicia transicional, este edificio registra la convulsión más violenta del alma taiwanesa.'
 date: 2026-04-10
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     'Justicia transicional',
@@ -15,15 +13,20 @@ tags:
     'Turismo',
     'Zona comercial de Xinyi',
   ]
-readingTime: 9
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-10
 lastHumanReview: false
-featured: false
-translatedFrom: History/中正紀念堂.md
-sourceCommitSha: 4b6d28c5
-sourceContentHash: sha256:69baf41d38c3c7aa
-sourceBodyHash: sha256:3ae76649f6776188
-translatedAt: 2026-06-13T00:00:00Z
+slug: 'cks-memorial-hall'
+readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'History/中正紀念堂.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:69baf41d38c3c7aa'
+sourceBodyHash: 'sha256:3ae76649f6776188'
+translatedAt: '2026-11-05T04:46:08.916664+00:00'
 ---
 
 # Salón Conmemorativo de Chiang Kai-shek

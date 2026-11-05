@@ -2,7 +2,6 @@
 title: 'Pastel de Sol: de la prohibición del "girasol" en la era de la Ley Marcial a la disputa de cien tiendas en la Calle Libertad de Taichung'
 description: 'En 1964, la pastelería "Tang del Sol" abrió sus puertas en la Calle Libertad de Taichung. El mural de mosaico de girasoles creado por el artista Yan Shui-long fue sellado durante 25 años debido a una prohibición política. Este pastel circular, originario de las galletas de malta de finales de la dinastía Qing y perfeccionado por Wei Qing-hai, ¿cómo pasó de ser un acompañamiento en las cajas de almuerzo del tren a convertirse en el símbolo cultural más representativo de Taichung?'
 date: 2026-04-26
-author: 'Taiwan.md'
 category: 'Food'
 tags:
   [
@@ -13,15 +12,19 @@ tags:
     'Tang del Sol',
     'Azúcar de malta',
   ]
-readingTime: 8
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: '2026-05-01T22:19:10+08:00'
-featured: false
+translatedAt: '2026-11-05T05:07:54.646300+00:00'
 ---
 
 > **Resumen en 30 segundos:** El Pastel de Sol no siempre llevó ese nombre. Se originó a finales de la dinastía Qing y principios de la República como la "galleta de malta", y fue gracias a las mejoras del maestro Wei Qing-hai, del distrito de Beitun en Taichung, que adquirió su forma actual de corteza fina y crujiente. En 1964, el mural de mosaico de girasoles diseñado por el artista Yan Shui-long para la pastelería "Tang del Sol" fue sellado durante 25 años bajo sospecha de "propaganda a favor del enemigo". Este episodio político añadió un aura legendaria a este pastel.

@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-18T00:53:02+08:00'
+translatedAt: '2026-11-05T05:03:46.785049+00:00'
 ---
 
 > **Resumen de 30 segundos:** El cuerno de buey de Sanxia, este regalo famoso en toda Taiwán, tiene una historia mucho más interesante de lo que imaginas. No proviene de Europa, sino de un panadero chino **Lo Fucheng** que, durante un viaje en avión, se dejó inspirar por el "pan filipino", y al regresar a Taiwán combinó la técnica china de fabricación de pasteles para mejorarlo. Su textura única de "estilo duro" proviene de presionar repetidamente la masa y hornear con mucha mantequilla, reflejando la búsqueda de alimentos sustanciales y satisfactorios de los primeros taiwaneses. Desde un pequeño bocado en el callejón hasta un producto local famoso, el cuerno de buey no solo es un recuerdo del paladar, sino también un reflejo de la cultura y el desarrollo comercial locales de Sanxia, levantando la estructura única de esta pequeña ciudad.

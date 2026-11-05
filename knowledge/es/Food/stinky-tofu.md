@@ -1,27 +1,30 @@
 ---
 title: 'Tofu apestoso: el deporte sensorial extremo de los taiwaneses entre perseguir el hedor y buscar la fragancia'
 description: 'Desde las manos de veteranos callejeros en la década de 1950 hasta su entrada en banquetes de Estado como el "templo del tofu apestoso", este tofu fermentado encarna medio siglo de resiliencia taiwanesa. Este artículo analiza la curaduría de bacterias vivas detrás de la salmuera apestosa, así como los secretos de sabor del aroma ahumado de Shenkeng y las tres etapas de temperatura del aceite de Yuli.'
-category: Food
+date: 2026-04-26
+category: 'Food'
 tags:
   [
-    tofu apestoso,
-    comida callejera taiwanesa,
-    alimentos fermentados,
-    Shenkeng,
-    Qiaotou de Yuli,
-    Daji Dúchòu Zhī Jiā,
+    'tofu apestoso',
+    'comida callejera taiwanesa',
+    'alimentos fermentados',
+    'Shenkeng',
+    'Qiaotou de Yuli',
+    'Daji Dúchòu Zhī Jiā',
   ]
+subcategory: '經典小吃'
 author: 'idlccp1984'
-date: 2026-04-26
-readingTime: 10
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/臭豆腐.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/臭豆腐.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
-translatedAt: 2026-05-02T02:50:57+08:00
-featured: false
+translatedAt: '2026-11-05T04:15:40.308503+00:00'
 ---
 
 > **Panorama en 30 segundos:** El tofu apestoso es la comida callejera más controvertida y más representativa de Taiwán. Se originó en un descuido de un erudito de la dinastía Qing, pero evolucionó en Taiwán hacia un proceso único de "fermentación con bacterias vivas". Desde el tofu de salmuera con aroma ahumado de la antigua calle de Shenkeng hasta el milagro crujiente de tres etapas de temperatura del aceite en Yuli, Hualien, este artículo te ayudará a entender por qué este olor que hace taparse la nariz ha atraído a autoridades japonesas en fermentación a cruzar el mar persiguiendo el hedor, e incluso se ha convertido en un símbolo de la resiliencia cultural taiwanesa.
