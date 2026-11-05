@@ -1,8 +1,8 @@
 ---
 title: 'Água encanada de Taiwan: um século de engenharia e ansiedade com a seca por trás da torneira'
 description: 'Em 1885, Taipei já tinha poços, filtração e desinfecção; em 2026, ainda tratamos a torneira como ruído de fundo. Dos canais da era japonesa à fundação da Taiwan Water Corporation em 1974, passando pela seca, vazamentos e poluição da água bruta, este artigo questiona algo cotidiano, mas não trivial: quanta engenharia pública uma gota de água precisa percorrer para surgir na hora certa ao girar a torneira.'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
     'água encanada',
@@ -11,17 +11,19 @@ tags:
     'seca',
     'água potável',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-11T17:03:15+08:00'
+translatedAt: '2026-11-05T16:44:46.947306+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Entre 1885 e 1890, Taipei já ensaiava a abertura de poços, filtração e desinfecção para abastecimento público. A obra do manancial do rio Xindian em 1907 trouxe a água encanada moderna para a cidade. No pós-guerra, a taxa de cobertura de água encanada em toda a ilha subiu de cerca de 10% para 93,1% em 2013, mas a água não se tornou por isso algo que «simplesmente aparece». A torneira de hoje ainda está ligada a captações, estações de tratamento, dezenas de milhares de quilômetros de tubulações, gestão inter-regional e às escolhas difíceis de cada seca.
@@ -131,24 +133,24 @@ Este artigo usa duas imagens de licença livre do Wikimedia Commons, ambas incor
 
 ## Referências
 
-[^1]: [Agência de Água de Taipei: evolução histórica](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Órgão oficial de abastecimento de Taipei compila a linha do tempo desde o abastecimento público de 1885, o manancial do rio Xindian em 1907, até o conduto de Feitsui e a resiliência hídrica recente.
+[^1]: [Departamento de Água de Taipei: Evolução Histórica](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — A agência oficial de abastecimento de água de Taipei compilou uma linha do tempo desde o abastecimento público de 1885, a fonte de água do rio Xindian em 1907, até o tubo de água bruta de Feitsui e a resiliência do abastecimento de água nos últimos anos.
 
-[^2]: [Agência de Recursos Hídricos do Ministério da Economia: visão geral do desenvolvimento da água encanada em nosso país (parte 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Boletim eletrônico da Agência explica a variação da cobertura pós-guerra, a fusão das 128 estações provinciais e o contexto institucional da criação da Taiwan Water Corporation.
+[^2]: [Agência de Recursos Hídricos do Ministério da Economia: Visão Geral do Desenvolvimento de Água Potável em Nosso País (Parte 2)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — O boletim eletrônico da Agência de Recursos Hídricos explica as mudanças na taxa de universalização do abastecimento de água após a guerra, a consolidação de usinas de água em toda a província e o contexto institucional da criação da Taiwan Water Corporation.
 
-[^3]: [Taiwan Water Corporation: anuário estatístico do negócio de água encanada de Taiwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Portal estatístico anual da empresa pública de abastecimento, com tabelas de fontes, produção, população atendida, cobertura, equipamentos de tratamento e redes.
+[^3]: [Taiwan Water Corporation: Anuário Estatístico do Negócio de Água Potável de Taiwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — A entrada de estatísticas anuais pública da empresa estatal de abastecimento de água, listando tabelas de fontes de água, água produzida, população atendida, taxa de cobertura, equipamentos de tratamento de água e tubulações.
 
-[^4]: [Taiwan Water Corporation: gestão de recursos hídricos da Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Página de sustentabilidade da empresa detalha 141 sistemas de abastecimento, 486 estações de tratamento, modernização, redução de vazamentos e indicadores de qualidade.
+[^4]: [Taiwan Water Corporation: Gestão de Recursos Hídricos da Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — A página de sustentabilidade da Taiwan Water explica 141 sistemas de abastecimento, 486 estações de tratamento de água, modernização de estações de tratamento, melhoria de vazamentos e indicadores de gestão da qualidade da água.
 
-[^5]: [Reclaimed water in Taiwan: current status and future prospects](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Artigo acadêmico em inglês revisa tecnologia de água regenerada em Taiwan, casos industriais, contexto de seca e meta de abastecimento para 2031.
+[^5]: [Água Reutilizada em Taiwan: Situação Atual e Perspetivas Futuras](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Artigo académico em inglês que revisa a tecnologia de água reutilizada em Taiwan, casos industriais, contexto de seca e escassez de água, e a meta de abastecimento de água reutilizada para 2031.
 
-[^6]: [Nossa Ilha: quando a seca centenária vira rotina? O enigma hídrico inevitável](https://ourisland.pts.org.tw/content/9997) — Reportagem aprofundada da PTS registra seca no sul, redução de pressão, água regenerada, água subfluvial, poços anti-seca e taxa de vazamento no contexto de políticas públicas.
+[^6]: [Nossa Ilha: Quando a Seca Centenária se Torna a Norma? O Problema Hídrico Inevitável](https://ourisland.pts.org.tw/content/9997) — Reportagem aprofundada da PTS registra a seca no sul de Taiwan, abastecimento com redução de pressão, água reutilizada, água subterrânea, poços de combate à seca e o contexto de políticas públicas sobre taxa de vazamento.
 
-[^7]: [Centro de Mídia de Ciência e Tecnologia de Taiwan: possíveis causas da escassez em reservatórios em 2021 e opiniões de especialistas sobre mecanismos de gestão](https://smctw.tw/9462/) — Reúne especialistas em recursos hídricos, meio ambiente e recursos culturais para distinguir seca de escassez, discutindo reservatórios, rios, água subterrânea, manutenção de redes e tarifas.
+[^7]: [Centro de Mídia de Ciência e Tecnologia de Taiwan: Possíveis Causas da Escassez de Água nos Reservatórios de Taiwan em 2021 e Opiniões de Especialistas sobre Mecanismos de Gestão](https://smctw.tw/9462/) — Reúne especialistas em recursos hídricos, meio ambiente e recursos culturais para distinguir seca de escassez de água, discutindo reservatórios, rios, água subterrânea, manutenção de tubulações e gestão de preços da água.
 
-[^8]: [The Reporter: Data Reporter: mapa interativo revela 10 bacias de alto risco](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Investigação com dados de captações, áreas de proteção e multas ambientais expõe risco de poluição da água bruta, mostrando o conflito entre segurança do abastecimento e governança do uso do solo no upstream.
+[^8]: [The Reporter: Data Reporter: Mapa Interativo Revela 10 Bacias de Alto Risco](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Investiga riscos de poluição de água bruta usando dados de captação de água, áreas protegidas e multas ambientais, apresentando o conflito entre segurança do abastecimento de água e governança de terras a montante.
 
-[^9]: [Taiwan Water Corporation: Message from Chairman](https://www.water.gov.tw/en/Contents?nodeId=4875) — Página oficial em inglês da Taiwan Water revisa 50 anos de cobertura, expansão de redes, resposta a desastres e estratégias de resiliência climática.
+[^9]: [Taiwan Water Corporation: Mensagem do Presidente](https://www.water.gov.tw/en/Contents?nodeId=4875) — A página oficial em inglês da Taiwan Water revisa 50 anos de universalização do abastecimento, expansão de tubulações, resposta a desastres e estratégias de resiliência climática.
 
-[^10]: [Agência de Recursos Hídricos: visão geral do desenvolvimento da água encanada em nosso país (parte 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — A Agência explica os danos da guerra aos sistemas de abastecimento e a fase de reconstrução com ajuda americana, recuperando 77 sistemas rurais.
+[^10]: [Agência de Recursos Hídricos: Visão Geral do Desenvolvimento de Água Potável em Nosso País (Parte 1)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — A Agência de Recursos Hídricos explica os danos aos sistemas de abastecimento causados pela guerra, e a fase de reconstrução pós-guerra com ajuda dos EUA para reparar 77 sistemas de água potável rurais.
 
-[^11]: [Agência de Recursos Hídricos: janeiro de 1952 — criação do Corpo de Engenharia do Departamento de Construção do Governo Provincial e desenvolvimento do negócio de água encanada de Taiwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — A Agência compila 1946–1974: reformas de equipamentos, subsídios rurais, Corpo de Engenharia, Bureau de Obras Públicas e integração das 128 estações.
+[^11]: [Agência de Recursos Hídricos: Janeiro de 1952 — Estabelecimento do Corpo de Engenharia do Departamento de Construção do Governo Provincial e Desenvolvimento do Negócio de Água Potável de Taiwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — A Agência de Recursos Hídricos compila de 1946 a 1974 a reparação de equipamentos, subsídios para abastecimento rural, o corpo de engenharia, o bureau de obras públicas e a integração de 128 usinas de água.

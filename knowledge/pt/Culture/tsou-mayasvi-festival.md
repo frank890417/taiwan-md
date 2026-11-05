@@ -1,28 +1,30 @@
 ---
 title: 'Mayasvi, o festival de guerra dos Tsou: o fogo do kuba, que não encena a guerra de volta'
 description: 'Todos os anos, entre Dabang e Tefuye em Alishan, os Tsou realizam o Mayasvi acolhendo os deuses, cantando e circulando a casa ritual, transformando a memória da guerra na ordem da vida comunitária da aldeia. O festival de guerra não é um espetáculo turístico das montanhas: o verdadeiro núcleo está no kuba, uma casa de reunião ainda mantida, usada e com regras de acesso definidas pelos próprios membros da etnia.'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['Tsou', 'povos indígenas', 'Mayasvi', 'kuba', 'ritual']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['Tsou', 'povos indígenas', 'Mayasvi', 'kuba', 'ritual']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-11T17:03:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-05T17:23:01.600182+00:00'
 ---
 
-> **Visão geral em 30 segundos:** O Mayasvi costuma ser traduzido como «festival de guerra», mas o ritual de hoje não reencena a caça de cabeças ou a guerra. Ele gira em torno do kuba — a casa de reunião masculina dos Tsou — permitindo que os vários clãs, entre a acolhida dos deuses, cantos, danças, o ritual da casa ritual e a despedida dos deuses, reconfirmem mutuamente as suas responsabilidades. O contraste mais importante a reter é: o festival de guerra preserva não a violência, mas a forma como os Tsou continuam a organizar a comunidade depois que a violência já saiu do quotidiano.
+**Visão geral em 30 segundos:** O Mayasvi costuma ser traduzido como «festival de guerra», mas o ritual de hoje não é uma reencenação de caça de cabeças ou de guerra. Ele gira em torno do kuba — a casa de reunião masculina do povo Tsou — permitindo que os vários clãs reafirmem suas responsabilidades mútuas entre a recepção dos deuses, cantos e danças, o sacrifício na casa cerimonial e o envio dos deuses. O contraste mais importante a lembrar é: o festival de guerra preserva não a violência, mas a forma como os Tsou continuam a organizar sua comunidade depois que a violência já deixou o cotidiano.
 
-![Dança tradicional dos Tsou, 2 de abril de 2008. Fotografia: Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![Apresentação de dança tradicional do povo Tsou, 2 de abril de 2008. Foto: Xiao Ka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_Fonte da imagem: [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), fotografia: Xiao Ka, licença: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). A imagem mostra dança tradicional dos Tsou, não se apresenta como cena específica do Mayasvi ou ritual interno do kuba.[^9]_
+_Fonte da imagem: [página do arquivo do Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), foto: Xiao Ka, licença: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). A imagem mostra dança tradicional do povo Tsou, não representando uma sessão específica do Mayasvi ou ritual interno do kuba.[^9]_
 
 ## O fogo de Dabang, primeiro não é para turista ver
 
@@ -121,20 +123,20 @@ Eles fazem o fogo do Mayasvi não iluminar apenas uma noite, mas também ilumina
 
 ## Referências
 
-[^1]: [Conselho dos Povos Indígenas: introdução à etnia Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Dados étnicos oficiais explicam distribuição Tsou, festas sazonais, arquitetura do kuba, organização de parentela e funções públicas da aldeia.
+[^1]: [Conselho dos Povos Indígenas: Introdução ao povo Tsou](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Dados oficiais do grupo étnico explicam a distribuição dos Tsou, rituais sazonais, arquitetura kuba, organização de parentesco e funções públicas da aldeia.
 
-[^2]: [Rede de Informação de Proteção de Criações de Sabedoria Tradicional dos Povos Indígenas: casa de reunião masculina (kuba) da aldeia Tsou de Dabang](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Caso de criação de sabedoria tradicional apresentado por Dabang, regista técnica construtiva, dimensões, objetos simbólicos, árvores e flores sagradas e significado sociocultural.
+[^2]: [Portal de Proteção do Conhecimento Tradicional dos Povos Indígenas: Casa dos Homens (kuba) da Comunidade Dabang Tsou](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Caso de criação de sabedoria tradicional apresentado pela Comunidade Dabang, registrando técnicas de construção, dimensões, objetos simbólicos, árvores e flores sagradas, e significado sociocultural.
 
-[^3]: [Mapa Cultural Religioso de Taiwan: Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Mapa cultural em inglês do Ministério do Interior introduz ajuste de datas do festival, acolhida dos deuses, canto e dança, festival de encerramento, kuba e proibições para visitantes.
+[^3]: [Mapa Cultural Religioso de Taiwan: Festival Mayasvi da Tribo Tsou, Monte Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — O mapa cultural em inglês do Ministério do Interior apresenta o ajuste da data do festival, recepção das divindades, cantos e danças, ritual de encerramento, kuba e tabus para visitantes, entre outros processos específicos.
 
-[^4]: [Literatura dos Povos Indígenas: festival de guerra Tsou mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Chung-yung organiza contexto histórico, coletividade, características dos cantos, olhar turístico e problemas de hibridismo cultural contemporâneo do festival de guerra.
+[^4]: [Literatura dos Povos Indígenas: Festival de Guerra Mayasvi dos Tsou](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhongyong organiza o contexto histórico, a coletividade, as características dos cânticos rituais, o olhar turístico e os problemas de hibridismo cultural contemporâneo do festival de guerra.
 
-[^5]: [Airiti: O significado do festival de guerra Tsou contemporâneo — uma leitura pós-colonial](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Tese académica analisa com teoria pós-colonial como o festival de guerra se recompõe continuamente entre nostalgia, descolonização, vida moderna e subjetividade étnica.
+[^5]: [Airiti: O Significado do Festival de Guerra Tsou Contemporâneo – Uma Leitura Pós-Colonial](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Artigo acadêmico analisa, através da teoria pós-colonial, como o festival de guerra se recompõe continuamente entre nostalgia, descolonização, vida moderna e subjetividade étnica.
 
-[^6]: [Festas sazonais dos povos indígenas: festival de guerra Tsou Mayasvi (página 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Publicação cultural dos povos indígenas organiza com calendário sazonal os múltiplos segmentos rituais do festival de guerra, reparação da casa de reunião, acolhida dos deuses, canto e dança e restrições a visitantes.
+[^6]: [Rituais Sazonais dos Povos Indígenas: Festival de Guerra Mayasvi dos Tsou (página 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Publicação cultural dos povos indígenas organiza, através do calendário sazonal, os múltiplos rituais do festival de guerra, a construção da casa dos homens, a recepção das divindades, cantos e danças, e restrições a turistas.
 
-[^7]: [Taiwan News: When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — Reportagem em inglês de 2026 a partir do local do festival e contexto Tsou explica a coletividade contemporânea, memória ancestral e subjetividade cultural do Mayasvi.
+[^7]: [Taiwan News: Quando fevereiro traz um Ano Novo diferente: Dentro dos mundos indígenas de Taiwan e o Mayasvi Tsou](https://www.tcn.tw/news/6784674) — Reportagem em inglês de 2026 explica, a partir do local do festival e do contexto Tsou, a comunidade contemporânea, a memória ancestral e a subjetividade cultural do Mayasvi.
 
-[^8]: [Notícias para Compatriotas no Exterior: festival de guerra Tsou certificado como folclore nacional importante](https://ocacnews.net/article/133098) — Notícia da CNA de 2011 regista certificação do festival de guerra como folclore nacional importante, e descrição na reportagem sobre kuba, ética da aldeia e transmissão cultural.
+[^8]: [Notícias da Comissão de Assuntos de Chineses no Exterior: Certificação do Festival de Guerra Tsou como Folclore Nacional Importante](https://ocacnews.net/article/133098) — Notícia da Agência Central de 2011 registra a designação do festival de guerra como folclore nacional importante, e a reportagem de certificação descreve o kuba, a ética da aldeia e a transmissão cultural.
 
-[^9]: [Wikimedia Commons: Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Fotografia de dança tradicional Tsou, autor: utilizador Flickr Xiao Ka, licença CC BY 2.0, artigo apenas incorpora URL original.
+[^9]: [Wikimedia Commons: Performance de Dança Tradicional do Povo Tsou 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Fotografia de dança tradicional Tsou, fotógrafo é o usuário do Flickr '小卡', licenciada sob CC BY 2.0, o artigo apenas incorpora o URL original.
