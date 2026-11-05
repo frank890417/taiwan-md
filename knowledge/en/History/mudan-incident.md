@@ -1,118 +1,127 @@
 ---
-title: 'The Mudan Incident: A Clash of Civilizations and the Awakening of Sovereignty in the Stone Ridge Gorge'
-description: 'In 1874, a military action triggered by a maritime disaster made the Stone Ridge Gorge in southern Taiwan the focal point of modern East Asian affairs. This was not only a test case for the expansion of the Japanese Empire but also a turning point for the Qing court, shifting from peripheral defense to active governance.'
+title: 'The Mudan Incident: Civilizational Collision and Sovereign Awakening beneath Shimen Gorge'
+description: "In 1874, a military action triggered by a shipwreck made Shimen Gorge at Taiwan's southern tip the epicenter of the modern East Asian order. This was not only a touchstone for Japanese imperial expansion but also the pivotal turning point when the Qing court shifted from frontier defense to active governance."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
   [
     'Mudan Incident',
-    'Taiwan History',
-    'Qing-Japan Relations',
-    'International Law',
-    'Indigenous Peoples',
+    'Taiwan history',
+    'Qing-Japan relations',
+    'international law',
+    'Indigenous peoples',
   ]
-readingTime: 12
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/牡丹社事件.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:91f467d8cc029b74'
 sourceBodyHash: 'sha256:1f92c860af97938e'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-05T13:13:37+08:00'
 ---
 
-> **30 Second Overview:** In 1874, Japan dispatched forces led by Saihsiang Tsungdao to Taiwan, citing the injury of Ryukyuan sailors. This conflict reached its peak in the Stone Ridge battlefield and concluded with the Qing court paying 500,000 taels of silver and acknowledging Japan's "benevolent protection." This incident ended Ryukyu's dual allegiance and prompted the Qing court to initiate "opening the mountains and pacifying the tribes," formally placing Taiwan on the stage of modern governance.
+> **30-Second Overview:** In 1874, citing the killing of Ryukyuan sailors, Japan dispatched Saigō Tsugumichi to lead troops in landing on Taiwan. The conflict reached its climax at the Shimen Ancient Battlefield, ending with the Qing court paying 500,000 taels of silver and acknowledging Japan's "righteous act of protecting its subjects." This event terminated Ryukyu's dual allegiance and compelled the Qing to launch the "Opening Mountains and Pacifying Aborigines" policy, formally pushing Taiwan onto the stage of modern governance.
 
-In November 1871, a tributary ship from Miyako Island wrecked in Baoyao Bay (modern-day Pingtung). After 66 crew members landed, 54 were killed by the indigenous peoples of the Gaoshifo and Mudan settlements due to language barriers and cultural misunderstandings [^1]. This tragedy, known as the "Baoyao Bay Incident," provided the Meiji government with a perfect pretext for external expansion three years later. In May 1874, Japan, despite opposition from Britain and the United States, dispatched an army led by Army Lieutenant General Saihsiang Tsungdao to land in Langqiao (modern Hengchun). This was not merely Japan's first overseas military action since the Meiji Restoration; it was a meticulously planned operation disguised as "civilization" but executed for "territorial acquisition" [^2].
+In November 1871, a tribute ship from Miyako Island wrecked at Bayao Bay in Pingtung. After 66 crew members came ashore, 54 were killed by Indigenous people of the Kuskus (Gaoshifo) and Mudan communities due to language barriers and cultural misunderstandings[^1]. This tragedy, known as the "Bayao Bay Incident," became the perfect pretext for the Meiji government's outward expansion three years later. In May 1874, disregarding opposition from Britain, the United States, and other nations, Japan dispatched Army Lieutenant General Saigō Tsugumichi with over 3,000 soldiers to land at Langqiao (present-day Hengchun). This was not only Japan's first overseas military deployment since the Meiji Restoration, but also a meticulously planned operation carried out in the name of "civilization" while actually pursuing territorial acquisition[^2].
 
-## Core Tension: Whose Subjects? A Land Without Rulers?
+## Core Tension: Whose Subjects? Whose "Land Beyond Civilization"?
 
-The central conflict of the Mudan Incident lay in the differing perceptions of "sovereignty" and "governance" between the two nations. The Qing court long adhered to a policy of "terra nullius" (land without a master), viewing indigenous territories as "unadministered lands." In the early stages of negotiations, the Qing even argued that responsibility could be deflected by claiming, "The Ryukyuans are subjects of our unadministered territory" [^3]. However, Japan, guided by advice from Charles Le Gendre, skillfully employed the concept of "terra nullius" within modern international law, arguing that since the Qing court failed to govern the area, Japan had the right to intervene. Le Gendre explicitly stated that because the Qing court designated the territory as unadministered, it implied a lack of substantive sovereignty, allowing Japan to proceed with occupation under international law [^4].
+The core contradiction of the Mudan Incident lay in the cognitive rupture between the two states regarding "sovereignty" and "governance rights." The Qing court long adhered to the "Earth Ox Ditch" policy, regarding Indigenous residential areas as "land beyond civilization" (huawai zhidi), and in the initial negotiations even attempted to evade responsibility by claiming "raw savages are my subjects beyond civilization."[^3] However, acting on the advice of Charles Le Gendre, Japan deftly employed the modern international law concept of "terra nullius" (ownerless land), arguing that since the Qing did not govern the territory, Japan had the right to intervene. Le Gendre explicitly stated that by declaring the Indigenous territory as "beyond civilization," the Qing admitted it exercised no substantive sovereignty there, and Japan could therefore occupy it under international law.[^4].
 
-📝 Curator's Note: The Qing court's claim of "unadministered land" was originally intended as diplomatic deflection but was instead exploited by Japan as a legal basis for invasion. This debate forced the Qing court to confront modern concepts of sovereignty and ended ambiguous border governance.
+📝 Curator's Note: The Qing's "beyond civilization" rhetoric was originally intended to evade diplomatic responsibility, but was instead seized upon by Japan as legal justification for aggression. This debate forced the Qing to learn modern concepts of sovereignty, ending ambiguous frontier governance.
 
-| Qing Court Position                                                                 | Japanese Position                                                                           |
-| :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| Taiwan is an integral part of the territory, but indigenous lands are not governed. | The indigenous lands are "terra nullius"; lack of governance means lack of ownership.       |
-| Ryukyu is a vassal state of the Qing dynasty; Japan has no right to interfere.      | The Ryukyuan people are "subjects of Japan," and military action was taken to protect them. |
-| Views the incident as a local conflict requiring peace.                             | Views the incident as an opportunity for imperial expansion and territorial establishment.  |
+```
+Qing Position | Japanese Position
+Taiwan in its entirety is Qing territory, but Indigenous areas are not administered | Indigenous areas are "terra nullius"; non-governance means no sovereignty
+Ryukyu is a Qing vassal state; Japan has no right to interfere | Ryukyuans are "Japanese nationals"; troop deployment is to protect subjects
+Views the incident as a local conflict, seeks to settle matters quietly | Views the incident as an opportunity for imperial expansion and territorial consolidation
+```
 
-## The Stone Ridge Campaign: The Final Resistance of Aluku and His Son
+## Battle of Shimen: The Final Resistance of Aluku and His Son
 
-On May 22, 1874, the fighting ignited in the Stone Ridge Gorge (macacukes). This location is geographically treacherous, flanked by sheer cliffs forming a natural pass. The indigenous chieftain Aluku and his son A-luk led their people, utilizing superior terrain and fire-match muskets to engage the Japanese forces equipped with modern weaponry [^6]. Despite the fierce fighting of the indigenous warriors, the Stone Ridge Gorge was ultimately lost due to the Japanese army's artillery power and numerical superiority, resulting in the deaths of Aluku and his son [^6].
+On May 22, 1874, battle erupted in Shimen Gorge (macacukes). The terrain was treacherous, with sheer cliffs on both sides forming a natural gateway. Mudan community leader Aluku (Aluku) and his son A-luk (A-luk) led their people in a bloody battle against the Japanese army equipped with modern weaponry, leveraging terrain advantages and matchlock rifles[^6]. Despite the Indigenous fighters' valor, Shimen Gorge ultimately fell under the Japanese mountain artillery and numerical superiority, with both Aluku and his son falling in battle[^6].
 
-Although the Japanese military achieved a tactical victory, they encountered a more terrifying enemy in the intense heat and dense jungle of southern Taiwan: malaria. Data shows that the number of Japanese soldiers who died from disease during their stay far exceeded those killed in combat.
+Although the Japanese army prevailed militarily, it encountered a more terrifying enemy in the scorching heat and jungles of southern Taiwan: malaria. Data show that Japanese disease deaths during their stay in Taiwan far exceeded combat casualties.
 
-| 12 People                | Combat Deaths (Japanese)  | A Small Minority                                       |
-| :----------------------- | :------------------------ | :----------------------------------------------------- |
-| 561 People               | Disease Deaths (Japanese) | Fever became the greatest threat to the Japanese army. |
-| Approx. 20,000 Instances | Cases of Infection        | Average of 2–3 infections per person.                  |
+```
+12 | Japanese combat deaths | Only a tiny fraction
+561 | Japanese disease deaths | Fever became the Japanese army's greatest threat
+~20,000 person-times | Sick cases | Average 2-3 illnesses per person
+```
 
-Source: Imperial Japanese Army Archives, Feng Chia University Library [^10]
+Source: Japanese Army Ministry Archives, Feng Chia University Library [^10]
 
-## Diplomatic Negotiation: "Benevolent Protection" for 500,000 Taels of Silver
+## Diplomatic Wrangling: 500,000 Taels of Silver for a "Righteous Act of Protecting Subjects"
 
-As the fighting reached an impasse, the Qing court dispatched Commissioner Shen Baozhen to Taiwan to stabilize the situation. In his memorials, Shen emphasized that "Taiwan is the gateway to the entire province and requires active governance" [^11]. While strengthening maritime defense, he engaged in diplomatic tug-of-war with the Japanese side. Ultimately, brokered by British Minister William Thomson, both sides signed the Treaty of Beijing. The Qing court agreed to pay 500,000 taels of silver, which included 100,000 taels as indemnity and 400,000 taels for the Japanese military's facilities in Taiwan [^9].
+As the conflict reached a stalemate, the Qing court dispatched Imperial Commissioner Shen Baozhen to Taiwan to organize defenses. In a memorial, Shen emphasized: "Taiwan is the gateway of the entire province; it must be actively governed."[^11] While strengthening coastal defenses, he engaged in diplomatic tug-of-war with the Japanese. Finally, mediated by British Minister Thomas Wade, both sides signed the _Beijing Convention_. The Qing agreed to pay 500,000 taels of silver, of which 100,000 taels were condolence money and 400,000 taels were for the purchase of Japanese facilities in Taiwan[^9].
 
-| 500,000 Taels of Silver                                                                                                   |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| The total compensation paid by the Qing court to Japan, referred to in the treaty as "indemnity" and "facility purchase." |
-| Treaty of Beijing, 1874                                                                                                   |
+```
+500,000 taels of silver
+Total indemnity paid by the Qing to Japan, termed "condolence" and "facility purchase" in the treaty
+*Beijing Convention*, 1874
+```
 
-The most contentious aspect was that the treaty described the Japanese action as "benevolent protection." These four words amounted to an indirect acknowledgment by the Qing court that the Ryukyuan people were subjects of Japan, which directly led to Japan's formal annexation of Ryukyu in 1879 (Ryukyuan Disposition) [^10]. In his farewell address before withdrawing troops, Saihsiang Tsungdao stated with arrogance: "Since you have committed crimes, repent and reform; my army departs" [^5].
+Most controversial was the treaty's characterization of Japan's action as a "righteous act of protecting subjects" (baomin yiju). These four characters amounted to the Qing indirectly recognizing Ryukyuans as Japanese nationals, directly leading to Japan's formal annexation of Ryukyu in 1879 (the Ryukyu Disposition)[^10]. In his proclamation before withdrawing troops, Saigō Tsugumichi arrogantly declared: "Now that you know your guilt, repent and reform; my army shall return."[^5]
 
-## Impact: From Peripheral Defense to "Opening the Mountains and Pacifying the Tribes"
+## Impact: From Frontier Defense to "Opening Mountains and Pacifying Aborigines"
 
-The Mudan Incident completely jolted the Qing court into a state of crisis. After the incident, Shen Baozhen remained in Taiwan and initiated the large-scale policy of "opening the mountains and pacifying the tribes." He abolished the ban on crossing Taiwan, building three major thoroughfares—the North, Central, and South roads—the Central Road being the modern-day famous "Eight Pass Ancient Road" [^7].
+The Mudan Incident thoroughly awakened the Qing's sense of crisis. Shen Baozhen remained in Taiwan after the incident, launching the large-scale "Opening Mountains and Pacifying Aborigines" policy. He abolished the ban on crossing to Taiwan, and constructed three transversal highways—northern, central, and southern routes—with the central route becoming today's famous Batongguan Historic Trail[^7].
 
-### Shen Baozhen's Three Roads
+### Shen Baozhen's Three Mountain-Opening Routes
 
-| Route        | Responsible Person | Start and End Points                   |
-| :----------- | :----------------- | :------------------------------------- |
-| North Road   | Luo Da-chun        | Suao to Hualien                        |
-| Central Road | Wu Guang-liang     | Linpu (Nantou) to Puxi Gorge (Hualien) |
-| South Road   | Chang Qiguang      | Fengshan to Bainan                     |
+| Route          | Supervisor    | Terminus                              |
+| -------------- | ------------- | ------------------------------------- |
+| Northern Route | Luo Dachun    | Su'ao to Hualien                      |
+| Central Route  | Wu Guangliang | Linpibu (Nantou) to Pushige (Hualien) |
+| Southern Route | Zhang Qiguang | Fengshan to Beinan                    |
 
-Furthermore, Shen Baozhen established Hengchun County and elevated the status of Taiwan Prefecture, adding Taipei Prefecture, thereby formally incorporating southern and eastern Taiwan into the administrative map. Taiwan transformed from a marginalized island into a strategic gateway for the Qing Empire's maritime defense line [^11].
+Additionally, Shen Baozhen established Hengchun County, upgraded Taiwan Prefecture, and added Taipei Prefecture, formally incorporating southern and eastern Taiwan into the administrative map. Taiwan transformed from a marginalized island into the Qing Empire's strategic gateway on the front line of coastal defense[^11].
 
-| 1871     | Baoyao Bay Incident              | 54 Miyako Island sailors killed.                                                                  |
-| :------- | :------------------------------- | :------------------------------------------------------------------------------------------------ |
-| May 1874 | Japanese Landing                 | Saihsiang Tsungdao leads forces to Langqiao.                                                      |
-| Oct 1874 | Treaty of Beijing                | Qing court pays indemnity; Japanese forces withdraw from Taiwan.                                  |
-| 1875     | Establishment of Hengchun County | Shen Baozhen promotes "opening the mountains and pacifying the tribes," strengthening governance. |
-| 1879     | Ryukyuan Disposition             | Japan formally annexes Ryukyu, establishing Okinawa Prefecture.                                   |
+```
+1871 | Bayao Bay Incident | 54 Miyako Islanders killed
+1874.05 | Japanese Landing | Saigō Tsugumichi leads troops ashore at Langqiao
+1874.10 | Beijing Convention | Qing pays indemnity, Japanese withdraw from Taiwan
+1875 | Hengchun County Established | Shen Baozhen promotes opening mountains and pacifying aborigines, strengthens governance
+1879 | Ryukyu Disposition | Japan formally annexes Ryukyu, establishes Okinawa Prefecture
+```
 
-## Conclusion: The Echo of History in the Gorge
+## Conclusion: Historical Echoes in the Gorge
 
-Today, when one walks through the Stone Ridge battlefield, the gorge remains formidable, but the scent of gunpowder from those days has faded with the wind. What the Mudan Incident left behind is not merely a monument atop the mountain, but a profound imprint on Taiwan's journey toward modern state governance. It reminds us that Taiwan's destiny is inextricably linked to the geopolitics of East Asia and the world. From "unadministered land" to "strategic gateway," Taiwan achieved a painful yet necessary awakening of sovereignty in this clash of civilizations.
+Today, walking into the Shimen Ancient Battlefield, the gorge remains precipitous, but the gunpowder smoke of that year has long dissipated on the wind. The Mudan Incident left not only the monument atop Shimen Mountain, but also profound footprints of Taiwan's journey toward modern state governance. It reminds us that Taiwan's destiny has always been tightly bound to the geopolitics of East Asia and the world. From "land beyond civilization" to "strategic gateway," Taiwan completed a painful yet necessary sovereign awakening in this civilizational collision.
 
 ## Further Reading
 
-- [The Lo Fa Hao Incident and Zhuo Qi-du](History/羅發號事件與卓杞篤) — Another maritime disaster and sovereignty clash
-- [Period of Qing Rule](History/清治時期) — The shift in governance before and after the "opening the mountains and pacifying the tribes"
-- [Charles Le Gendre](People/李仙得) — The American advisor behind the scenes
+- [The Rover Incident and Charles Le Gendre](/en/history/rover-incident-and-tauketok) — Another shipwreck and sovereignty collision
+- [Qing Rule Period](/en/history/qing-dynasty-rule) — Governance turning points before and after opening mountains and pacifying aborigines
+- [Charles Le Gendre](/en/people/charles-le-gendre) — The American advisor behind the scenes
 
 ## References
 
-[^1]: [Wikipedia. (n.d.). Mudan Incident. Cited from](https://zh.wikipedia.org/zh-hant/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — Wikipedia article: Wikipedia entry
+## References
 
-[^2]: [Lin Cheng-rong. (June 11, 2001). On the Mudan Incident from the perspective of East Asian international affairs. Taiwan Historical Society. Cited from](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010611) — See supplementary materials in the original link
+[^1]: [Wikipedia. (n.d.). Mudan Incident. Retrieved from](https://zh.wikipedia.org/zh-hant/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — Wikipedia entry: Wikipedia entry
 
-[^3]: [Lin Wen-kai. (n.d.). Taiwan and the Imperial Transformation of East Asia: The Mudan Incident. Academia Sinica Ming Qing Research Committee. Cited from](https://mingqing.sinica.edu.tw/mingchingadminweb/SysModule/mvc/friendly_print.aspx?id=1320) — Academia Sinica
+[^2]: [Lin Cheng-jung. (2001, June 11). Discussing the "Mudan Incident" from the Perspective of East Asian International Situation. Taiwan Historical Association. Retrieved from](https://www.twcenter.org.tw/thematic_series/history_class/tw_window/e02_20010611) — See original link for supplementary details
 
-[^4]: [Reporter. (September 16, 2021). A tangled history revealed by a manuscript: For whom did Charles Le Gendre fight? Cited from](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — See supplementary materials in the original link
+[^3]: [Lin Wen-kai. (n.d.). Taiwan and East Asia's Imperial Transformation: The Mudan Incident. Academia Sinica Ming-Qing Studies Promotion Committee. Retrieved from](https://mingqing.sinica.edu.tw/mingchingadminweb/SysModule/mvc/friendly_print.aspx?id=1320) — Academia Sinica: Academia Sinica
 
-[^6]: [Indigenous Peoples Encyclopedia. (n.d.). Mudan Incident. Cited from](https://aborgpedia.alcd.center/detail?id=11741) — See supplementary materials in the original link
+[^4]: [The Reporter. (2021, September 16). A Manuscript Opens a Tangled History: For Whom Did Charles Le Gendre Fight? Retrieved from](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — See original link for supplementary details
 
-[^10]: [Feng Chia University Library. (March 15, 2024). Mosquito Killers: From the Mudan Incident to "Taiwan Fever." Cited from](https://blogcastle.lib.fcu.edu.tw/archives/8496) — See supplementary materials in the original link
+[^6]: [Indigenous Peoples Encyclopedia. (n.d.). Mudan Incident. Retrieved from](https://aborgpedia.alcd.center/detail?id=11741) — See original link for supplementary details
 
-[^11]: [StoryStudio. (July 7, 2024). Abolishing the Ban on Crossing Taiwan and Initiating Governance in Taiwan's Borderlands: Shen Baozhen after the Mudan Incident. Cited from](https://storystudio.tw/article/gushi/shen-bao-zhen) — See supplementary materials in the original link
+[^10]: [Feng Chia University Library. (2024, March 15). Mosquito Killer: From the "Mudan Incident" to "Taiwan Fever." Retrieved from](https://blogcastle.lib.fcu.edu.tw/archives/8496) — See original link for supplementary details
 
-[^9]: [Indigenous Peoples Archives. (n.d.). Map History and Spatial Exploration of the Mudan Incident. Cited from](https://ihc.cip.gov.tw/EJournal/EJournalCat/99) — See supplementary materials in the original link
+[^11]: [StoryStudio. (2024, July 7). Abolishing the Taiwan Crossing Ban, Opening Frontier Governance: Shen Baozhen After the Mudan Incident. Retrieved from](https://storystudio.tw/article/gushi/shen-bao-zhen) — See original link for supplementary details
 
-[^5]: [National Taiwan Museum. (n.d.). Research on Artifacts Related to the "Mudan Incident." Cited from](https://file.moc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL3JlbGZpbGUvMTQyODQvMTQ4NjY2L2IyNTU1MDMyLTEwZDgtNGEyYS04OGZiLTA1MDMxNjZlYzU2Mi5wZGY%3D&n=MTA05ZyL56uL6Ie654Gj5Y2a54mp6aSo44CM54mh5Li556S%2B5LqL5Lu244CN55u46Zec5paH54mp56CU56m2LnBkZg%3D%3D) — See supplementary materials in the original link
+[^9]: [Indigenous Peoples Documents. (n.d.). Map Archives and Spatial Exploration of the Mudan Incident. Retrieved from](https://ihc.cip.gov.tw/EJournal/EJournalCat/99) — See original link for supplementary details
 
-[^7]: [National Palace Museum of Fine Arts. (n.d.). "Opening the Mountains and Pacifying the Tribes"—The Qing Empire and Taiwan's Indigenous Peoples. Cited from](https://theme.npm.edu.tw/exh111/TaiwaneseIndigenous_O/ch/page-4.html) — See supplementary materials in the original link
+[^5]: [National Taiwan Museum. (n.d.). Research on Artifacts Related to the "Mudan Incident." Retrieved from](https://file.moc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNTIwL3JlbGZpbGUvMTQyODQvMTQ4NjY2L2IyNTU1MDMyLTEwZDgtNGEyYS04OGZiLTA1MDMxNjZlYzU2Mi5wZGY%3D&n=MTA05ZyL56uL6Ie654Gj5Y2a54mp6aSo44CM54mh5Li556S%2B5LqL5Lu244CN55u46Zec5paH54mp56CU56m2LnBkZg%3D%3D) — See original link for supplementary details
+
+[^7]: [National Palace Museum. (n.d.). "Opening Mountains and Pacifying Aborigines" — The Qing Empire and Taiwan's Indigenous Peoples. Retrieved from](https://theme.npm.edu.tw/exh111/TaiwaneseIndigenous_O/ch/page-4.html) — See original link for supplementary details

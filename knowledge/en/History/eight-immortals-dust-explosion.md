@@ -2,9 +2,7 @@
 title: 'The Eight Immortals Dust Explosion: The Taiwan Wound Burned Into That Night’s Color Party'
 description: 'On June 27, 2015, a color party at Formosa Fun Coast triggered an internationally shocking dust-explosion disaster after colored powder flash-ignited. The incident, Taiwan’s deadliest mass-casualty event since the 921 earthquake, left 499 people with burn injuries and 15 dead, fundamentally reshaped Taiwan’s emergency medical system, and drove reforms to safety regulations for large-scale events.'
 date: 2026-06-16
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'Eight Immortals Dust Explosion',
@@ -13,15 +11,19 @@ tags:
     'Legal Responsibility',
     'Taiwan History',
   ]
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-06-17T00:36:20+08:00'
+translatedAt: '2026-11-05T06:03:47.275142+00:00'
 ---
 
 > **30-second overview:** At 8:32 p.m. on June 27, 2015, the “Color Play Asia” party at Formosa Fun Coast in Bali, New Taipei, was instantly engulfed in flames after corn-starch powder flash-ignited. The accident caused burn injuries to 499 people and killed 15, making it Taiwan’s deadliest single public safety incident after the 921 earthquake. Confronted with a massive number of severe burn patients, Taiwan’s medical workers mobilized “the strength of the entire country” and achieved what was called a “medical miracle,” with a mortality rate of only 3%. Yet ten years later, litigation remains unresolved, the injured continue a long and arduous rehabilitation journey living with their scars, and Formosa Fun Coast has been abandoned ever since. This wound still powerfully reminds Taiwan’s society of the importance of public safety.

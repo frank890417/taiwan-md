@@ -1,19 +1,22 @@
 ---
 title: "Taiwan Hotpot: An Island Palate's Evolution History, One Pot at a Time"
 description: "From a symbol of civilization in the colonial era to today's national comfort food, Taiwan hotpot is not only a story of evolving taste buds — it is a reflection of social change and ethnic fusion."
-category: Food
-tags: ['hotpot', 'Taiwanese food', 'satay sauce', 'food culture']
-author: 'Taiwan.md Contributors'
 date: 2026-04-18
-readingTime: 8
+category: 'Food'
+tags: ['hotpot', 'Taiwanese food', 'satay sauce', 'food culture']
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
-translatedFrom: Food/台灣火鍋.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'Food/台灣火鍋.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
-translatedAt: '2026-05-01T12:53:58+08:00'
-featured: false
+translatedAt: '2026-11-05T05:26:11.037500+00:00'
 ---
 
 > **30-second overview:** Taiwan's hotpot market generates annual revenue in the tens of billions of NT dollars. It is not only a national comfort food for warming up in winter but also a dining culture suitable for all four seasons. From the "sukiyaki" of the Japanese colonial era to the diverse pot dishes that post-war immigrants brought from across China, to today's individual small hotpots and premium pot restaurants, the evolution of Taiwan hotpot reflects the island's social changes and ethnic fusion, ultimately simmering into a "Taiwanese flavor" unlike any other.
@@ -62,20 +65,20 @@ Taiwan's hotpot culture is an epic woven together by history, ethnicity, society
 
 ## References
 
-[^1]: CParty. (2025). _Classic Late-Night Food Illustrated | Taiwan's Century of Hotpot Evolution_. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^1]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). _Classic Late-Night Food Illustrated | Taiwan's Century of Hotpot Evolution_
 
-[^2]: orstyle.net. (2025). _How did this pot become "Taiwanese"? The slow-simmering path of an island of hotpot_. [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/)
+[^2]: [https://orstyle.net/article-c0192/](https://orstyle.net/article-c0192/) — orstyle.net. (2025). _How did this pot become "Taiwanese"? The slow-simmering path of an island of hotpot_
 
-[^3]: VERSE. (2022). _Liu Fu: Come gather around and talk about hotpot!_. [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu)
+[^3]: [https://www.verse.com.tw/article/hotpot-yufu](https://www.verse.com.tw/article/hotpot-yufu) — VERSE. (2022). _Liu Fu: Come gather around and talk about hotpot!_
 
-[^4]: Mnitang (鳴人堂). (2020). _Was satay sauce originally an "imported product"? The past and present of Taiwan's satay sauce_. [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
+[^4]: [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026) — Mnitang (鳴人堂). (2020). _Was satay sauce originally an "imported product"? The past and present of Taiwan's satay sauce_
 
-[^5]: Taiwan Panorama Magazine. (n.d.). _Taiwan Satay — Recording the Diverse Flavors of an Immigrant Trail_. [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
+[^5]: [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2) — Taiwan Panorama Magazine. (n.d.). _Taiwan Satay — Recording the Diverse Flavors of an Immigrant Trail_
 
-[^6]: Up Media. (2021). _"Emperor Hotpot" that operated for over half a century comes to an end!_. [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
+[^6]: [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834) — Up Media. (2021). _"Emperor Hotpot" that operated for over half a century comes to an end!_
 
-[^7]: Every Little D. (n.d.). _In 1979, Taipei's first spicy hotpot restaurant "Ning Ji"_. [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
+[^7]: [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/) — Every Little D. (n.d.). _In 1979, Taipei's first spicy hotpot restaurant "Ning Ji"_
 
-[^8]: YTower Food Network (楊桃美食網). (n.d.). _The people's specialty from Sichuan — spicy hotpot_. [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
+[^8]: [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl) — YTower Food Network (楊桃美食網). (n.d.). _The people's specialty from Sichuan — spicy hotpot_
 
-[^9]: CParty. (2025). _Classic Late-Night Food Illustrated | Taiwan's Century of Hotpot Evolution_. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)
+[^9]: [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863) — CParty. (2025). _Classic Late-Night Food Illustrated | Taiwan's Century of Hotpot Evolution_

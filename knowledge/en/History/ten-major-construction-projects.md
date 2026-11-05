@@ -2,9 +2,7 @@
 title: 'The Ten Major Construction Projects: A NT$200 Billion Gamble Backed by US$1 Billion in Foreign Reserves'
 description: 'In 1973, Taiwan held just US$1 billion in foreign exchange reserves, yet Chiang Ching-kuo announced an investment of approximately NT$300 billion in the Ten Major Construction Projects. This was not merely an economic pivot in response to the oil crisis and diplomatic isolation, but also a political narrative that repackaged blueprints inherited from Japanese colonial rule and transformed them into a source of national identity.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '經濟發展史'
 tags:
   [
     'Economic Development',
@@ -14,15 +12,19 @@ tags:
     'Taiwanese History',
     'Industrial Upgrading',
   ]
-readingTime: 12
+subcategory: '經濟發展史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/十大建設.md'
-sourceCommitSha: '9ecd20d61'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c56d8ded11ccacaf'
 sourceBodyHash: 'sha256:b63c0b30d24f0d0a'
-translatedAt: '2026-07-24T10:19:54+08:00'
+translatedAt: '2026-11-05T05:51:27.307650+00:00'
 ---
 
 > **30-Second Overview:**

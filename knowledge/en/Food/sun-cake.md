@@ -1,7 +1,8 @@
 ---
 title: "Sun Cake: From the Martial Law Era's Forbidden 'Sunflower' to a Hundred Competing Shops on Taichung's Freedom Road"
 description: "In 1964, the 'Sun Hall' pastry shop opened on Freedom Road in Taichung. The sunflower mosaic mural by artist Yan Shui-long was sealed behind wooden boards for 25 years due to political suspicion. This round pastry — originating from a late Qing maltose biscuit and refined by Wei Ching-hai — how did it evolve from a railway bento side item into Taichung's most iconic cultural symbol?"
-category: Food
+date: 2026-04-26
+category: 'Food'
 tags:
   [
     'Sun Cake',
@@ -11,17 +12,19 @@ tags:
     'Sun Hall',
     'Maltose',
   ]
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md'
-date: 2026-04-26
-readingTime: 8
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
-translatedAt: '2026-05-01T08:56:11+08:00'
-featured: false
+translatedAt: '2026-11-05T05:35:45.612659+00:00'
 ---
 
 > **30-Second Overview:** The sun cake was not always called a sun cake. Its origins trace to the "maltose biscuit" (麥芽酥餅) popular in the Beitun and Tanzih areas of Taichung during the late Qing and early Republican eras. Only after master baker Wei Ching-hai refined it did it evolve into today's thin-pastry, fragrant form. In 1964, artist Yan Shui-long's sunflower mosaic mural for the "Sun Hall" shop was sealed behind wooden boards for 25 years after being suspected of "propaganda for the Communist enemy" — a political episode that only added to the pastry's legendary status.
