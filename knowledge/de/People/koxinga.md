@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-09-23T22:12:06+08:00'
+translatedAt: '2026-11-05T21:28:08.996701+00:00'
 ---
 
 # Koxinga: Japanisch geboren, in China großgezogen, im 37. Lebensjahr in Taiwan
