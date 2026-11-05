@@ -3,8 +3,8 @@ title: 'DATA-REFRESH-PIPELINE'
 description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.5'
-last_updated: 2026-10-23
+current_version: 'v2.6'
+last_updated: 2026-11-06
 last_session: '2026-10-23-202836-data-hub（資料台灣指標過期接進告警）'
 sister_docs:
   - 'STATS-PIPELINE.md'
@@ -486,5 +486,7 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 _v2.3 | 2026-09-30 twmd-data-refresh-am — Step 11 加讀 `dashboard-build-perf.json` 的 `status`；`extract-build-perf.mjs` 自驗最新成功 run 年齡（>2 天換查詢重抓，仍舊寫 `stale-source`、exit 1）。觸發：當班最新 build 顯示 08-01，回查 git 歷史同症狀五次都以今天 mtime 過關。_
 
 _v2.4 | 2026-10-10 twmd-data-refresh-am — `refresh-data.sh --no-sync`：平行寫手在跑時跳過 Step 1 的 stash＋pull，落後 origin 就拒跑；§新 dashboard SOP 補「路徑清單收官包 bash -c」。觸發：10-03／10-08／10-09／10-10 四班都手拼 runner 跳 Step 1，zsh 拆不開路徑變數連兩班。_
+
+_v2.6 | 2026-11-06 twmd-data-refresh-am — `refresh-data.sh` 第七步：失敗原因是 `prebuild:og` 時，略過它重跑其餘 prebuild。OG 圖只在本機，但 `run-p` 會在它失敗時停掉平行兄弟，連帶 vitals／organism／translations 過期、search／latest／redirects 沒跑。`npm run build` 的 OG 閘門不變。_
 
 _v2.5 | 2026-10-23 data-hub — 告警 §12 `data-hub-stale`：Step 7 的告警產生器讀 `data-hub-check.py --json`，/data 指標過期就掛黃燈、owner 本 routine；新增 §資料台灣指標過期 寫早班的處理方式。觸發：哲宇要過期的指標列進當天告警；舊版 /data 的數字卡兩年沒人動，沒有任何燈亮過。_
