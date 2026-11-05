@@ -1,7 +1,8 @@
 ---
 title: 'Chuang Chu-yu-nu : du repas gratuit des dockers aux buffets à dix dollars qui lui ont coûté sept maisons'
 description: "En 1951, Chuang Chu-yu-nu dresse un foyer improvisé au bord du port de Kaohsiung pour offrir des repas gratuits aux dockers épuisés. Surnommée « la gardienne des pauvres », cette grand-mère a, pendant cinquante ans, maintenu un buffet à volonté au prix symbolique de dix dollars taïwanais, allant jusqu'à vendre sept propriétés pour financer cette œuvre, faisant de « nourrir les gens » le combat de toute une vie."
-category: People
+date: 2026-04-29
+category: 'People'
 tags:
   [
     'philanthrope',
@@ -11,17 +12,19 @@ tags:
     'bienfaisance sociale',
     'Penghu',
   ]
+subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
-date: 2026-04-29
-readingTime: 10
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-05-01T22:19:06+08:00'
-featured: false
+translatedAt: '2026-11-04T23:55:18.736204+00:00'
 ---
 
 > **En 30 secondes :** Chuang Chu-yu-nu (1920-2015) est une philanthrope taïwanaise célèbre, qui tenait pendant des années un « buffet à dix dollars » sous le pont routier du parc de Kaohsiung. Elle offrait à l'origine des repas gratuits aux dockers de sa région natale, puis, face aux coûts croissants, fit payer dix dollars symboliques, tout en maintenant le principe du « manger à sa faim » sans compter les dépenses. Elle vendit sept propriétés au cours de sa vie pour financer sa générosité. Ses funérailles attirèrent plus de trois mille personnes, et son héritage demeure un symbole chaleureux de la société taïwanaise.

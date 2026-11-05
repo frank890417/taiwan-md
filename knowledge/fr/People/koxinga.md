@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-07-27T03:39:57+08:00'
+translatedAt: '2026-11-04T23:47:31.934627+00:00'
 ---
 
 # Koxinga (Zheng Chenggon) : Né au Japon, grandi en Chine, mort à Taïwan en trente-sept ans

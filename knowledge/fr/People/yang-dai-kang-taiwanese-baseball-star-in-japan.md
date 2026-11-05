@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "Dix ans chez les Fighters → agent libre chez les Giants → ligues indépendantes — c'est l'arc complet d'un joueur professionnel, plus puissant que « un Amis de Taitung vers la NPB »."
-#   whats_excluded: "Tableaux de statistiques au bâton année par année ; comparaison des conditions contractuelles entre les équipes NPB ; détails récents sur les ligues indépendantes 2024-2025"
-#   where_it_hedges: "L'article original indiquait à tort « signature avec les Yomiuri Giants (2005) » et « lycée au Hualien Physical Education High School » — corrigé : sélectionné par les Fighters au repêchage 2005, lycée suivi au Japon"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
-translatedAt: '2026-05-22T05:08:47+08:00'
+translatedAt: '2026-11-05T00:42:40.899158+00:00'
 ---
 
 # Yang Dai-kang : Taitung 1987, gant d'or des Fighters aux dix ans chez les Giants en tant qu'agent libre — un voltigeur Amis du baseball japonais

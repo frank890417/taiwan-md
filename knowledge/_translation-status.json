@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T08:41:34+08:00",
-    "zhCommitHead": "e594bab4c",
-    "totalZh": 1161,
+    "lastUpdated": "2026-11-05T08:48:12+08:00",
+    "zhCommitHead": "15a32472e",
+    "totalZh": 1162,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1161,
+        "total_zh": 1162,
         "fresh": 1040,
         "stale": 37,
         "metadata_stale": 81,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1161,
-        "fresh": 1040,
+        "total_zh": 1162,
+        "fresh": 1041,
         "stale": 43,
-        "metadata_stale": 75,
-        "missing": 3,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 1161,
-        "fresh": 1043,
-        "stale": 38,
-        "metadata_stale": 77,
-        "missing": 3,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1161,
-        "fresh": 1036,
-        "stale": 41,
-        "metadata_stale": 79,
-        "missing": 5,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1161,
-        "fresh": 1039,
-        "stale": 40,
-        "metadata_stale": 79,
-        "missing": 3,
-        "orphan": 0
-      },
-      "vi": {
-        "total_zh": 1161,
-        "fresh": 1033,
-        "stale": 40,
-        "metadata_stale": 83,
-        "missing": 5,
-        "orphan": 0
-      },
-      "id": {
-        "total_zh": 1161,
-        "fresh": 1036,
-        "stale": 47,
         "metadata_stale": 74,
         "missing": 4,
         "orphan": 0
       },
-      "pt": {
-        "total_zh": 1161,
-        "fresh": 1039,
-        "stale": 41,
-        "metadata_stale": 78,
-        "missing": 3,
-        "orphan": 0
-      },
-      "hi": {
-        "total_zh": 1161,
-        "fresh": 1034,
-        "stale": 45,
-        "metadata_stale": 79,
-        "missing": 3,
-        "orphan": 0
-      },
-      "ar": {
-        "total_zh": 1161,
-        "fresh": 1041,
-        "stale": 43,
-        "metadata_stale": 74,
-        "missing": 3,
-        "orphan": 0
-      },
-      "ru": {
-        "total_zh": 1161,
+      "ko": {
+        "total_zh": 1162,
         "fresh": 1044,
         "stale": 38,
         "metadata_stale": 76,
-        "missing": 3,
+        "missing": 4,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1162,
+        "fresh": 1037,
+        "stale": 41,
+        "metadata_stale": 78,
+        "missing": 6,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1162,
+        "fresh": 1040,
+        "stale": 40,
+        "metadata_stale": 78,
+        "missing": 4,
+        "orphan": 0
+      },
+      "vi": {
+        "total_zh": 1162,
+        "fresh": 1034,
+        "stale": 40,
+        "metadata_stale": 82,
+        "missing": 6,
+        "orphan": 0
+      },
+      "id": {
+        "total_zh": 1162,
+        "fresh": 1037,
+        "stale": 47,
+        "metadata_stale": 73,
+        "missing": 5,
+        "orphan": 0
+      },
+      "pt": {
+        "total_zh": 1162,
+        "fresh": 1040,
+        "stale": 41,
+        "metadata_stale": 77,
+        "missing": 4,
+        "orphan": 0
+      },
+      "hi": {
+        "total_zh": 1162,
+        "fresh": 1035,
+        "stale": 45,
+        "metadata_stale": 78,
+        "missing": 4,
+        "orphan": 0
+      },
+      "ar": {
+        "total_zh": 1162,
+        "fresh": 1041,
+        "stale": 43,
+        "metadata_stale": 74,
+        "missing": 4,
+        "orphan": 0
+      },
+      "ru": {
+        "total_zh": 1162,
+        "fresh": 1044,
+        "stale": 38,
+        "metadata_stale": 76,
+        "missing": 4,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1161,
+        "total_zh": 1162,
         "fresh": 1024,
         "stale": 42,
         "metadata_stale": 92,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       }
     },
@@ -70312,6 +70312,52 @@
         }
       }
     },
+    "Society/台灣平均餘命.md": {
+      "zh": {
+        "lastCommit": "",
+        "lastModified": "",
+        "contentHash": "sha256:13ad9f4bddf2a29a",
+        "bodyHash": "sha256:834d3f803cfd3af2"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "Society/台灣教師的管教困境.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -132883,8 +132929,8 @@
           "sourceContentHash": "sha256:9327b2569000f076",
           "sourceBodyHash": "sha256:b9a6db1720ddc955",
           "translatedAt": "2026-11-04T23:13:16.265322+00:00",
-          "translationLastCommit": "b28c5d82",
-          "translationLastModified": "2026-10-10T22:51:31+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 10806,
@@ -135115,8 +135161,8 @@
           "sourceContentHash": "sha256:ffef27b2909f9d95",
           "sourceBodyHash": "sha256:b629819d5dc38d6a",
           "translatedAt": "2026-11-04T23:39:12.697165+00:00",
-          "translationLastCommit": "b28c5d82",
-          "translationLastModified": "2026-10-10T22:51:31+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 9229,
@@ -135721,8 +135767,8 @@
           "sourceContentHash": "sha256:b0c2ac2ae0cad64d",
           "sourceBodyHash": "sha256:5121ea375a0a93ff",
           "translatedAt": "2026-11-04T23:24:27.651699+00:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 9347,
@@ -138357,8 +138403,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-11-04T23:19:42.126645+00:00",
-          "translationLastCommit": "06ed4c82",
-          "translationLastModified": "2026-05-20T12:37:22+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 9452,
@@ -138763,8 +138809,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-11-04T23:48:35.362056+00:00",
-          "translationLastCommit": "ebec2f88",
-          "translationLastModified": "2026-09-09T00:07:39+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 13762,
@@ -138973,8 +139019,8 @@
           "sourceContentHash": "sha256:f218c0f6edac6f55",
           "sourceBodyHash": "sha256:bd885df97c7fe1fa",
           "translatedAt": "2026-11-04T23:59:40.717350+00:00",
-          "translationLastCommit": "adc69a2f",
-          "translationLastModified": "2026-07-29T04:32:17+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 11950,
@@ -140405,8 +140451,8 @@
           "sourceContentHash": "sha256:ce2f1e81de54c692",
           "sourceBodyHash": "sha256:efa67fc4a2da3f45",
           "translatedAt": "2026-11-04T23:53:16.995971+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 12081,
@@ -141835,8 +141881,8 @@
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
           "translatedAt": "2026-11-05T00:17:30.788246+00:00",
-          "translationLastCommit": "12051465",
-          "translationLastModified": "2026-08-25T22:09:07+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 8949,
@@ -142255,8 +142301,8 @@
           "sourceContentHash": "sha256:e00af3b07adcb778",
           "sourceBodyHash": "sha256:beb2338ff10788ce",
           "translatedAt": "2026-11-05T00:08:12.858637+00:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 9506,
@@ -144713,8 +144759,8 @@
           "sourceContentHash": "sha256:3ccf8e3a350256dc",
           "sourceBodyHash": "sha256:9a3851545dcaaf3c",
           "translatedAt": "2026-11-05T07:45:57+08:00",
-          "translationLastCommit": "09eee019",
-          "translationLastModified": "2026-05-12T22:47:09+08:00",
+          "translationLastCommit": "15a32472",
+          "translationLastModified": "2026-11-05T08:41:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 9108,
@@ -149859,20 +149905,18 @@
         "ko": {
           "path": "ko/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md",
           "translatedFrom": "People/陽岱鋼.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:a0454e71ee2abfe6",
           "sourceBodyHash": "sha256:2bbcd86b693a9ea2",
-          "translatedAt": "2026-05-22T05:08:46+08:00",
+          "translatedAt": "2026-11-05T00:41:58.112589+00:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 9141,
+          "bytes": 8745,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md",
@@ -149893,20 +149937,18 @@
         "fr": {
           "path": "fr/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md",
           "translatedFrom": "People/陽岱鋼.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:a0454e71ee2abfe6",
           "sourceBodyHash": "sha256:2bbcd86b693a9ea2",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
+          "translatedAt": "2026-11-05T00:42:40.899158+00:00",
           "translationLastCommit": "1dd167b3",
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 9974,
+          "bytes": 9340,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md",
@@ -152545,20 +152587,18 @@
         "es": {
           "path": "es/People/barbie-hsu-actress.md",
           "translatedFrom": "People/徐熙媛.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-11-05T00:42:37.324434+00:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 8165,
+          "bytes": 8363,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/barbie-hsu-actress.md",
@@ -152581,20 +152621,18 @@
         "vi": {
           "path": "vi/People/barbie-hsu-actress.md",
           "translatedFrom": "People/徐熙媛.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
-          "translatedAt": "2026-07-26T14:17:51+08:00",
+          "translatedAt": "2026-11-05T00:42:44.360881+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 9843,
+          "bytes": 9896,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/barbie-hsu-actress.md",
@@ -152615,20 +152653,18 @@
         "pt": {
           "path": "pt/People/barbie-hsu-actress.md",
           "translatedFrom": "People/徐熙媛.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:85fa468fad16ec09",
           "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
-          "translatedAt": "2026-07-25T07:55:57+08:00",
+          "translatedAt": "2026-11-05T00:42:55.114242+00:00",
           "translationLastCommit": "489f0010",
           "translationLastModified": "2026-07-25T08:59:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 7925,
+          "bytes": 7993,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/barbie-hsu-actress.md",
@@ -159757,20 +159793,18 @@
         "ja": {
           "path": "ja/Food/mingjian-puchung-tea.md",
           "translatedFrom": "Food/名間埔中茶.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:4ee811968726954e",
           "sourceBodyHash": "sha256:eac4101c04e140f1",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "translatedAt": "2026-11-05T00:41:52.434205+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 11332,
+          "bytes": 11416,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/mingjian-puchung-tea.md",
@@ -164801,20 +164835,18 @@
         "hi": {
           "path": "hi/Food/coffin-bread.md",
           "translatedFrom": "Food/棺材板.md",
-          "sourceCommitSha": "b7f6ebf9b",
-          "sourceContentHash": "sha256:2019e39a8477f086",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:c1a6f8a2f2e30ae7",
           "sourceBodyHash": "sha256:d70608d1aa149287",
-          "translatedAt": "2026-07-29T12:59:28+08:00",
+          "translatedAt": "2026-11-05T07:46:26+08:00",
           "translationLastCommit": "f6414354",
           "translationLastModified": "2026-07-29T13:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 18349,
+          "bytes": 18124,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/coffin-bread.md",
@@ -176287,20 +176319,18 @@
         "id": {
           "path": "id/Food/golden-croissant.md",
           "translatedFrom": "Food/金牛角.md",
-          "sourceCommitSha": "9cef725ce",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
-          "translatedAt": "2026-09-23T04:15:45+08:00",
+          "translatedAt": "2026-11-05T00:42:48.131340+00:00",
           "translationLastCommit": "00f303bf",
           "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 9514,
+          "bytes": 9567,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/golden-croissant.md",
