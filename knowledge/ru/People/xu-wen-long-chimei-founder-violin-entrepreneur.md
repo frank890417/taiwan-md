@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-07-26T21:33:30+08:00'
+translatedAt: '2026-11-05T01:53:21.213609+00:00'
 ---
 
 # Сюй Вэньлун: из Наньтуна 1928 года, основатель музея с крупнейшей в мире коллекцией скрипок от Qimei Industrial 1959 года
