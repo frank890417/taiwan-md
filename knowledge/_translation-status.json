@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T12:10:17+08:00",
-    "zhCommitHead": "4c25ef5f4",
+    "lastUpdated": "2026-11-05T12:13:53+08:00",
+    "zhCommitHead": "9c42e01e4",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -44,49 +44,49 @@
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1043,
+        "fresh": 1044,
         "stale": 42,
-        "metadata_stale": 71,
+        "metadata_stale": 70,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1046,
-        "stale": 41,
+        "fresh": 1047,
+        "stale": 40,
         "metadata_stale": 71,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1039,
+        "fresh": 1040,
         "stale": 40,
-        "metadata_stale": 77,
+        "metadata_stale": 76,
         "missing": 6,
         "orphan": 0
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1042,
+        "fresh": 1043,
         "stale": 48,
-        "metadata_stale": 67,
+        "metadata_stale": 66,
         "missing": 5,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1047,
+        "fresh": 1048,
         "stale": 41,
-        "metadata_stale": 70,
+        "metadata_stale": 69,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1041,
+        "fresh": 1042,
         "stale": 47,
-        "metadata_stale": 70,
+        "metadata_stale": 69,
         "missing": 4,
         "orphan": 0
       },
@@ -160593,20 +160593,18 @@
         "fr": {
           "path": "fr/Food/taiwan-apple-bread.md",
           "translatedFrom": "Food/蘋果麵包.md",
-          "sourceCommitSha": "a0314c6e3",
-          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
-          "sourceBodyHash": "sha256:4f26d4508afc31e5",
-          "translatedAt": "2026-06-02T00:40:00+08:00",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:b06690b268b54ec0",
+          "sourceBodyHash": "sha256:a66665969d20b08f",
+          "translatedAt": "2026-11-05T10:53:16+08:00",
           "translationLastCommit": "40894e77",
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 15213,
+          "bytes": 13740,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+33 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-apple-bread.md",
@@ -167713,20 +167711,18 @@
         "es": {
           "path": "es/Food/heysong-soft-drinks.md",
           "translatedFrom": "Food/黑松.md",
-          "sourceCommitSha": "2c18749ee",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:764c87b479e4e9af",
           "sourceBodyHash": "sha256:6c2df9f7c1f07744",
-          "translatedAt": "2026-11-02T01:24:47.999437+00:00",
+          "translatedAt": "2026-11-05T04:10:25.472123+00:00",
           "translationLastCommit": "16606d27",
           "translationLastModified": "2026-11-02T10:05:51+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 13530,
+          "bytes": 13576,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/heysong-soft-drinks.md",
@@ -168801,8 +168797,8 @@
           "sourceContentHash": "sha256:6de8df7e037bf580",
           "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
           "translatedAt": "2026-11-05T02:37:47.902099+00:00",
-          "translationLastCommit": "afa9be7b",
-          "translationLastModified": "2026-07-26T15:05:47+08:00",
+          "translationLastCommit": "9c42e01e",
+          "translationLastModified": "2026-11-05T12:10:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 13115,
@@ -169013,20 +169009,18 @@
         "vi": {
           "path": "vi/Food/oil-rice.md",
           "translatedFrom": "Food/油飯.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:9645370116faf0ce",
           "sourceBodyHash": "sha256:e335b1f6c8cbb675",
-          "translatedAt": "2026-07-25T10:53:12+08:00",
+          "translatedAt": "2026-11-05T04:11:46.705159+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 14262,
+          "bytes": 14315,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/oil-rice.md",
@@ -171323,20 +171317,18 @@
         "pt": {
           "path": "pt/Food/taiwan-hotpot-culture.md",
           "translatedFrom": "Food/台灣火鍋.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:94b3cc7ad435a8c7",
           "sourceBodyHash": "sha256:e301e6416dd3bfb4",
-          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translatedAt": "2026-11-05T04:11:55.444965+00:00",
           "translationLastCommit": "283a1d9c",
           "translationLastModified": "2026-10-10T23:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 10964,
+          "bytes": 11017,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-hotpot-culture.md",
@@ -199079,20 +199071,18 @@
         "hi": {
           "path": "hi/Geography/administrative-divisions-of-taiwan.md",
           "translatedFrom": "Geography/台灣行政區劃.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:349360e6f67e2293",
           "sourceBodyHash": "sha256:a900fc355006c673",
-          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translatedAt": "2026-11-05T04:12:01.038081+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 33794,
+          "bytes": 33847,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/administrative-divisions-of-taiwan.md",
@@ -215225,20 +215215,18 @@
         "id": {
           "path": "id/Culture/dcard-taiwan-social-platform.md",
           "translatedFrom": "Culture/Dcard.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:a0a6e4b6f985e523",
           "sourceBodyHash": "sha256:0cbd55ce25cb1102",
-          "translatedAt": "2026-07-25T00:11:59+08:00",
+          "translatedAt": "2026-11-05T04:11:49.930096+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 12653,
+          "bytes": 12698,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/dcard-taiwan-social-platform.md",
