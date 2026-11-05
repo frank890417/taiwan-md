@@ -2,9 +2,7 @@
 title: 'Национальный музей Гугун'
 description: 'Это самый тяжёлый «багаж» на этом острове, и в то же время самый лёгкий «цифровой фантом». От деревянных ящиков в огне войны до пикселей под управлением ИИ — Гугун пытается определить, что такое «тайваньский Гугун», между Вайшuanьси в пригороде Тайбэя и Тайбао в Цзяи.'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '藝術園區'
 tags:
   [
     'Музей',
@@ -16,15 +14,20 @@ tags:
     'Цифровое искусство',
     'Трансформация',
   ]
-readingTime: 10
+subcategory: '藝術園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+slug: 'national-palace-museum'
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/國立故宮博物院.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
-translatedAt: '2026-07-25T05:00:16+08:00'
+translatedAt: '2026-11-05T08:17:11.249106+00:00'
 ---
 
 # Национальный музей Гугун: от ящиков в огне войны к ИИ-фантазиям — столетий долгий путь
