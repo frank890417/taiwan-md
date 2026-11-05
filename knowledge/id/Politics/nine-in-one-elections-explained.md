@@ -1,17 +1,17 @@
 ---
-title: 'Apa Itu Pemilu Sembilan-in-Satu? Sembilan Jabatan, Empat Kali Peningkatan Status, Tiga Puluh Tahun Evolusi Otonomi Daerah'
-description: 'Istilah "Sembilan-in-Satu" mulai digunakan secara luas pada 2014, di baliknya ada empat kali reorganisasi geografis kota: 1967 Taipei-Kaohsiung naik status, 1979 Kaohsiung naik status, 2010 Lima Kota naik status, 2014 Taoyuan naik status, serta tiga titik nodal sistem: 1994 Walikota Kota Langsung pertama kali dipilih rakyat, 1999 UU Sistem Daerah konsolidasi, 2014 pembentukan Kepala Daerah Pegunungan Orang Asli. Sembilan jabatan dipilih pada hari yang sama — Walikota Kota Langsung / Anggota DPRD Kota Langsung / Walikota Kabupaten/Kota / Anggota DPRD Kabupaten/Kota / Camat/Kepala Kota Kabupaten / Anggota DPRD Kecamatan/Kota Kabupaten / Kepala Daerah Pegunungan Orang Asli / Anggota DPRD Daerah Pegunungan Orang Asli / Kepala Desa/Kelurahan — adalah kristalisasi tiga puluh tahun evolusi otonomi daerah Taiwan.'
+title: 'Apa itu Pemilu Sembilan-in-Satu? Sembilan Jenis Jabatan, Empat Kali Peningkatan Status, Sejarah Evolusi Otonomi Daerah Selama 30 Tahun'
+description: 'Pemilu Sembilan-in-Satu adalah pemungutan suara untuk sembilan jabatan publik daerah pada hari yang sama: Walikota Kota Madya, Anggota DPRD Kota Madya, Bupati/Walikota Kabupaten/Kota, Anggota DPRD Kabupaten/Kota, Kepala Distrik/Kota Kecil, Perwakilan Warga Distrik/Kota Kecil, Kepala Distrik Pegunungan Orang Asli, Perwakilan Warga Distrik, dan Kepala Desa/Kelurahan, semuanya dengan masa jabatan empat tahun. Hari pemungutan suara 2026 jatuh pada Sabtu, 28 November, dibuka pukul 08.00 pagi, dan waktu pemungutan suara mengikuti pengumuman Komisi Pemilihan Umum Pusat. Format ini baru terbentuk pada 2014, sebagai hasil akumulasi 30 tahun peningkatan status Taipei-Kaohsiung, Lima Kota Madya, Taoyuan, serta pemilihan langsung Walikota Kota Madya.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
     'Pemilu Sembilan-in-Satu',
     'Pejabat Publik Daerah',
-    'Walikota Kota Langsung',
-    'Bupati/Walikota',
+    'Walikota Kota Madya',
+    'Bupati/Walikota Kabupaten/Kota',
     'Anggota DPRD',
     'Kepala Desa/Kelurahan',
-    'UU Sistem Daerah',
+    'Undang-Undang Sistem Pemerintahan Daerah',
     'Pemilu 2026',
   ]
 subcategory: '選舉制度'
@@ -20,11 +20,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-02T19:36:33.443798+00:00'
+translatedAt: '2026-11-05T07:07:31.032491+00:00'
 ---
 
 # Apa Itu Pemilu Sembilan-in-Satu?

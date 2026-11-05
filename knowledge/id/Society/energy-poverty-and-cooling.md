@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-19T11:59:07+08:00'
+translatedAt: '2026-11-05T08:19:26.447505+00:00'
 ---
 
 > **Ringkasan 30 Detik**: Kemiskinan energi bukanlah sekadar "terlalu banyak menggunakan listrik" atau "tidak tahu cara hemat energi," melainkan ketika sebuah keluarga tidak memiliki sumber daya yang cukup untuk mendapatkan layanan energi yang aman, terjangkau, dan efisien. Bagi keluarga yang tinggal di apartemen tua, bangunan tambahan di atap, ruangan dengan ventilasi buruk, atau menggunakan AC bekas berdaya tinggi, menyalakan AC dapat menimbulkan tekanan tagihan, sementara tidak menyalakannya meningkatkan risiko bahaya panas. Saat ini Taiwan kekurangan definisi kemiskinan energi yang seragam secara nasional, tetapi survei swasta pernah menemukan bahwa proporsi pengeluaran energi keluarga rentan yang dibantu sangat tinggi dari pendapatan disposabel mereka.[^1] Ketika suhu tinggi dianggap sebagai risiko lintas departemen oleh pemerintah, kemiskinan energi tidak bisa lagi hanya menjadi kampanye hemat energi, melainkan harus menjadi masalah publik yang ditangani bersama oleh perumahan, kesejahteraan sosial, kesehatan, dan adaptasi iklim.[^2]

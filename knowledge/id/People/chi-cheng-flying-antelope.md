@@ -1,20 +1,24 @@
 ---
-title: 'Chi Cheng: Mencetak 10 Rekor Dunia, Lima Puluh Tahun Kemudian Masih Berlari Demi Penamaan Taiwan'
-description: 'Lahir 15 Maret 1944 di Hsinchu, Chi Cheng dengan julukan "Antilope yang Melompat" menjadi atlet putri paling luar biasa dalam sejarah atletik Taiwan. Pada Olimpiade Meksiko 1968, ia meraih perunggu di lompat rintangan 80 meter dengan waktu 10,51 detik, menjadi medali Olimpiade atletik putri pertama Taiwan; karirnya mencatat 10 rekor dunia. Pasca pensiun ia mengabdikan diri untuk promosi lari jalan, dan hingga kini usianya telah melewati delapan puluh tahun ia tetap aktif di garis depan gerakan penamaan Taiwan.'
+title: 'Chi Cheng: Mencetak 10 Rekor Dunia, Lima Puluh Tahun Kemudian Masih Berlari untuk Pengakuan Nama Taiwan'
+description: 'Chi Cheng, lahir 1944 di Hsinchu, dijuluki "Antilop Melompat". Pada Olimpiade Meksiko 1968, ia memenangkan perunggu di lari 80 meter hambatan dengan waktu 10,51 detik, menjadi wanita pertama Taiwan yang meraih medali Olimpiade cabang atletik, dan mencatat 10 rekor dunia sepanjang kariernya. Pasca pensiun, ia mempromosikan acara lari jalan di Taiwan, dan pada 2024 ditunjuk sebagai Konsultan Kebijakan Nasional Istana Kepresidenan; meski berusia delapan puluhan, ia tetap berjuang untuk pengakuan nama Taiwan, menuntut agar berpartisipasi di Olimpiade Los Angeles 2028 atas nama "Taiwan".'
 date: 2026-03-19
 category: 'People'
-tags: ['Olahraga', 'Atletik', 'Olimpiade', 'Lompat Rintangan', 'Rekor Dunia']
+tags: ['Olahraga', 'Atletik', 'Olimpiade', 'Lari hambatan', 'Rekor dunia']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-08-03T21:46:29+08:00'
+translatedAt: '2026-11-05T07:25:25.948295+00:00'
 ---
 
 # Chi Cheng: Mencetak 10 Rekor Dunia, Lima Puluh Tahun Kemudian Masih Berlari Demi Penamaan Taiwan

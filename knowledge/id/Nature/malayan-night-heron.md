@@ -1,15 +1,15 @@
 ---
-title: 'Malayan Night Heron: Spesies Impian Pengamat Burung, Burung "Bodoh" Besar di Kampus'
-description: 'Dalam 4.000 catatan burung Himpunan Burung Republik Tiongkok (Taiwan) tahun 1985–1992, Malayan Night Heron hanya mencatat 25 entri, menjadikannya "burung endemik langka" di panduan pengamat burung. Tiga puluh tahun kemudian, burung ini terlihat setiap hari di Jalan Kelapa Sawit Universitas Taiwan dan Taman Hutan Da''an. Penjelasan umum adalah "burung ini tidak lagi takut pada manusia", namun penelitian pelepasan berwarna oleh Yuan Xiao-wei Universitas Taiwan sejak 2010 mengarah ke jawaban lain: hutan kota dan rumput tanpa pestisida di kampus-kampus perkotaan Taiwan justru mereplikasi habitat hutan dataran rendah asli burung ini — burungnya tidak berubah, lingkungannya yang berubah.'
+title: 'Kuntilan Mahkota Hitam: Spesies Impian Para Pengamat Burung, Burung Bodoh Besar dan Burung Ubi di Kampus'
+description: 'Kuntilan Mahkota Hitam adalah burung yang di kampus dikenal oleh semua orang sebagai "Burung Ubi" dan "Burung Bodoh Besar". Pada periode 1985–1992, dari 4.000 catatan Federasi Burung Liar Tiongkok, spesies ini hanya tercatat 25 kali, menjadikannya burung langka yang menetap (resident) dalam buku panduan; tiga puluh tahun kemudian, burung ini terlihat setiap hari di Bulevar Palma Kelapa NTU dan Taman Hutan Da''an. Pandangan umum menyatakan burung ini menjadi tidak takut pada manusia, namun penelitian penandaan oleh Yuan Xiao-wei dari NTU mengarah pada jawaban lain: kampus yang berubah menjadi hutan lebat dan rumput yang tidak disemprot pestisida, justru mereplikasi habitat hutan dataran rendah aslinya. Burungnya tidak berubah, lingkungannya yang berubah.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'ekologi Taiwan',
-    'burung perkotaan',
-    'Malayan Night Heron',
-    'burung bodoh besar',
-    'sains warga',
+    'Ekologi Taiwan',
+    'Burung Perkotaan',
+    'Kuntilan Mahkota Hitam',
+    'Burung Bodoh Besar',
+    'Sains Warga',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,20 +23,28 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
 readingTime: 8
 sporeLinks:
-  [
-    "{'id': 53, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'}",
-    "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
-  ]
+  - id: 53
+    platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'
+  - id: 54
+    platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 23,070 曝光 149 點擊（0.65%），最大查詢「地瓜鳥」8,206＋「地瓜 鳥」1,564 曝光，title 與 description 都沒有這個俗名；title 補「地瓜鳥」，description 首句先講俗名'
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:74ac37cae326eaa1'
-sourceBodyHash: 'sha256:9c1e23df6047812e'
-translatedAt: '2026-08-04T20:19:11+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:55a53c683cb2fe02'
+sourceBodyHash: 'sha256:d2a2bc2c14be17d0'
+translatedAt: '2026-11-05T07:05:21.429361+00:00'
 ---
 
-# Malayan Night Heron: Spesies Impian Pengamat Burung, Burung "Bodoh" Besar di Kampus
+# Bangau Malaya: Spesis Impian Para Pengamat Burung, Burung Bodoh Besar dan Burung Ubi di Kampus
 
-> **Ringkasan 30 Detik:** Malayan Night Heron (_Gorsachius melanolophus_) dalam catatan burung liar Taiwan 1985–1992 adalah "burung endemik langka" yang hanya mencatat 25 dari 4.000 entri, namun hari ini terlihat setiap hari di Jalan Kelapa Sawit Universitas Taiwan dan Taman Hutan Da'an. Wakil Dekan Kehutanan Universitas Taiwan, Ding Zong-su, menggambarkannya di Asia Tenggara sebagai "spesies impian yang keberadaannya sulit ditebak" bagi pengamat burung, "mulai tiga puluh tahun lalu, entah kenapa, Malayan Night Heron Taiwan mulai menjadi berani". Penjelasan yang lebih dekat dengan kebenaran mengarah ke arah lain: hutan kota dan rumput tanpa pestisida di perkotaan Taiwan justru mereplikasi habitat hutan dataran rendah aslinya. Burungnya tidak berubah, tanahnya yang berubah.
+> **Ringkasan 30 Detik:** Bangau Malaya (_Gorsachius melanolophus_) dalam catatan burung liar Taiwan tahun 1985–1992 hanya mencatat 25 dari 4.000 data sebagai "burung langka yang menetap", namun kini terlihat setiap hari di Hutan Kelapa Universitas Taiwan dan Taman Hutan Da'an. Wakil Profesor Kehutanan Universitas Taiwan Ding Zong-su menggambarkan burung ini di Asia Tenggara sebagai "spesis impian yang keberadaannya samar" di mata pengamat burung, "mulai tiga puluh tahun lalu, tak diketahui mengapa, Bangau Malaya di Taiwan mulai berani keluar." Penjelasan yang lebih mendekati kebenaran mengarah ke arah lain: kampus perkotaan Taiwan yang berhutan lebat dan rumput tanpa pestisida, kebetulan mereplikasi habitat hutan dataran rendah aslinya. Burungnya tidak berubah, lingkungannya yang berubah.
 
 ## Spesis Impian Asia Tenggara, Tamu Biasa Jalan Kelapa Sawit Taipei
 

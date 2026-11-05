@@ -1,27 +1,29 @@
 ---
-title: 'Air Minum Taiwan: Seratus Tahun Rekayasa di Balik Kran dan Kecemasan Kekeringan'
-description: 'Pada 1885, di Kota Taipei sudah ada yang menggali sumur, menyaring, dan mendisinfeksi; hingga 2026 kita masih memperlakukan kran sebagai suara latar. Mulai dari saluran air masa pendudukan Jepang, pendirian Taiwan Water Corporation (台水) pada 1974, hingga kekeringan, kebocoran, dan pencemaran air baku, artikel ini menelusuri hal yang sehari-hari namun tak sehari-hari: berapa banyak proyek infrastruktur publik yang dilalui sebutir air agar keluar tepat waktu saat Anda membuka kran.'
+title: 'Air Ledeng Taiwan: Rekayasa Seratus Tahun dan Kecemasan Kekeringan di Balik Keran Air'
+description: 'Pada tahun 1885 di kota Taipei, ada orang yang menggali sumur, menyaring, dan mendisinfeksi; pada tahun 2026 kita masih memperlakukan keran air sebagai suara latar belaka. Dari saluran air masa penjajahan Jepang, Taiwan Water Corporation yang didirikan pada 1974, hingga kekeringan, kebocoran, dan pencemaran air baku, artikel ini menanyakan satu hal yang sehari-hari namun tak sehari-hari: sebutir air harus melewati berapa banyak proyek infrastruktur publik, baru bisa keluar tepat waktu saat Anda membuka keran.'
+date: 2026-08-17
 category: 'Geography'
-subcategory: '水文與水資源'
 tags:
   [
-    'Air minum',
-    'Sumber daya air',
-    'Infrastruktur publik',
-    'Kekeringan',
-    'Air minum',
+    'air ledeng',
+    'sumber daya air',
+    'infrastruktur publik',
+    'kekeringan',
+    'air minum',
   ]
+subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/自來水.md'
-sourceCommitSha: 'a9e791a05'
-sourceContentHash: 'sha256:9b07db3bc18b0b72'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:864c8353d91be2c4'
 sourceBodyHash: 'sha256:300f2a84fb69ef78'
-translatedAt: '2026-09-11T17:03:13+08:00'
+translatedAt: '2026-11-05T07:17:49.208466+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 1885–1890, Taipei sudah memiliki upaya penyediaan air publik berupa pengeboran sumur, penyaringan, dan disinfeksi. Proyek sumber air Sungai Xindian pada 1907 membawa air minum modern ke kota. Pasca-perang, tingkat akses air minum di seluruh Taiwan naik dari sekitar 10% menjadi 93,1% pada 2013, namun air tak dengan demikian menjadi hal yang "otomatis hadir". Kran hari ini, di baliknya tetap tersambung ke titik pengambilan, instalasi pengolahan air, puluhan ribu kilometer pipa, pengaturan lintas wilayah, serta pilihan-pilihan setiap kali kekeringan datang.
@@ -131,24 +133,24 @@ Artikel ini menggunakan dua gambar berlisensi bebas dari Wikimedia Commons, kedu
 
 ## Referensi
 
-[^1]: [Dinas Air Minum Taipei: Perkembangan Sejarah](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Lembaga penyediaan air resmi Kota Taipei menyusun dari penyediaan air publik 1885, sumber air Sungai Xindian 1907, hingga pipa air baku Feitsui dan ketahanan penyediaan air terbaru sebagai alur waktu.
+[^1]: [Dinas Air Minum Taipei: Sejarah Perkembangan](https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6) — Instansi penyedia air resmi Kota Taipei menyusun mulai dari penyediaan air publik tahun 1885, sumber air Sungai Xindian tahun 1907, hingga pipa mentah Feitsui dan garis waktu ketahanan penyediaan air terbaru.
 
-[^2]: [Water Resources Agency Kementerian Ekonomi: Gambaran Umum Perkembangan Air Minum Taiwan (Bagian Bawah)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Buletin elektronik Water Resources Agency menjelaskan perubahan tingkat akses air pasca-perang, integrasi pabrik air seluruh provinsi, dan latar belakang kelembagaan pendirian Taiwan Water Corporation.
+[^2]: [Badan Sumber Daya Air Kementerian Ekonomi: Gambaran Umum Perkembangan Air Minum Taiwan (Bagian Kedua)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2652&n=30173) — Buletin elektronik Badan Sumber Daya Air menjelaskan perubahan tingkat akses air minum pasca perang, konsolidasi pabrik air di seluruh provinsi, dan latar belakang kelembagaan pembentukan Perusahaan Air Minum Taiwan.
 
-[^3]: [Taiwan Water Corporation: Tahun Statistik Bisnis Air Minum Taiwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Portal statistik tahunan perusahaan air milik negara, mencantumkan tabel sumber air, produksi, populasi terlayani, tingkat akses, peralatan pengolahan air, dan pipa.
+[^3]: [Perusahaan Air Minum Taiwan: Laporan Tahunan Statistik Usaha Air Minum Taiwan](https://www.water.gov.tw/ch/AnnualReport/Detail/116406?nodeId=4571) — Pintu masuk statistik tahunan perusahaan penyedia air milik negara yang dipublikasikan, mencantumkan tabel sumber air, air keluar, populasi terlayani, tingkat akses, peralatan pengolahan air, dan pipa.
 
-[^4]: [Taiwan Water Corporation: Manajemen Sumber Daya Air Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Halaman keberlanjutan Taiwan Water menjelaskan 141 sistem penyediaan, 486 instalasi pengolahan air, modernisasi pabrik pengolahan, perbaikan kebocoran, dan indikator manajemen kualitas air.
+[^4]: [Perusahaan Air Minum Taiwan: Manajemen Sumber Daya Air Taiwan Water](https://www.water.gov.tw/esg/Contents?nodeId=8633) — Halaman keberlanjutan Taiwan Water menjelaskan 141 sistem penyediaan air, 486 instalasi pengolahan air, modernisasi instalasi pengolahan air, peningkatan kebocoran, dan indikator manajemen kualitas air.
 
-[^5]: [Air Regenerasi di Taiwan: Status Saat Ini dan Prospek Masa Depan](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Makalah akademis berbahasa Inggris meninjau teknologi air regenerasi Taiwan, kasus industri, latar belakang kekurangan air kekeringan, dan target pasokan air regenerasi 2031.
+[^5]: [Air Daur Ulang di Taiwan: Status Saat Ini dan Prospek Masa Depan](https://link.springer.com/article/10.1186/s42834-023-00177-8) — Makalah akademis berbahasa Inggris meninjau teknologi air daur ulang Taiwan, kasus industri, latar belakang kekurangan air akibat kekeringan, dan target pasokan air daur ulang tahun 2031.
 
-[^6]: [Pulau Kita: Saat Kekeringan Seratus Tahun Jadi Biasa? Masalah Air Tak Terelakkan](https://ourisland.pts.org.tw/content/9997) — Laporan mendalam PTS mencatat kekeringan Selatan Taiwan, penurunan tekanan penyediaan, air regenerasi, air aliran bawah, sumur anti-kekeringan, dan alur kebijakan publik tingkat kebocoran.
+[^6]: [Pulau Kita: Ketika Kekeringan Seratus Tahun Menjadi Biasa? Masalah Air yang Tak Terelakkan](https://ourisland.pts.org.tw/content/9997) — Laporan mendalam TV Publik merekam kekeringan di Taiwan Selatan, penyediaan air bertekanan rendah, air daur ulang, air bawah tanah, sumur anti kekeringan, dan konteks kebijakan publik tingkat kebocoran.
 
-[^7]: [Pusat Media Sains Teknologi Taiwan: Pendapat Ahli Mengenai Kemungkinan Penyebab dan Mekanisme Pengaturan Kekurangan Air Waduk Taiwan 2021](https://smctw.tw/9462/) — Mengundang ahli sumber daya air, lingkungan, dan sumber daya budaya membedakan kekeringan dan kekurangan air, mendiskusikan waduk, sungai, air tanah, pemeliharaan pipa, dan pengaturan harga air.
+[^7]: [Pusat Media Sains Teknologi Taiwan: Pendapat Ahli Mengenai Kemungkinan Penyebab dan Mekanisme Pengelolaan Kekurangan Air di Waduk Taiwan Tahun 2021](https://smctw.tw/9462/) — Mengundang ahli sumber daya air, lingkungan, dan budaya untuk membedakan kekeringan dan kekurangan air, mendiskusikan waduk, sungai, air tanah, pemeliharaan pipa, dan penjadwalan harga air.
 
-[^8]: [The Reporter: Data Reporter: Peta Interaktif Ungkap 10 Daerah Aliran Berisiko Tinggi](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Menginvestigasi risiko pencemaran air baku dengan data titik pengambilan, zona lindung, dan sanksi lingkungan, menampilkan konflik keamanan penyediaan air dan tata kelola lahan hulu.
+[^8]: [The Reporter: Data Reporter: Peta Interaktif Mengungkap 10 Daerah Aliran Sungai Berisiko Tinggi](https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water) — Menyelidiki risiko pencemaran air baku menggunakan data titik pengambilan air, kawasan lindung, dan sanksi lingkungan, mengungkapkan konflik antara keamanan penyediaan air dan pengelolaan lahan hulu.
 
-[^9]: [Taiwan Water Corporation: Pesan dari Ketua](https://www.water.gov.tw/en/Contents?nodeId=4875) — Halaman resmi berbahasa Inggris Taiwan Water meninjau 50 tahun perusahaan: akses air, perluasan pipa, tanggap bencana, dan strategi ketahanan iklim.
+[^9]: [Perusahaan Air Minum Taiwan: Pesan dari Ketua](https://www.water.gov.tw/en/Contents?nodeId=4875) — Halaman resmi berbahasa Inggris Taiwan Water meninjau 50 tahun pembentukan perusahaan: akses penyediaan air, ekspansi pipa, tanggap bencana, dan strategi ketahanan iklim.
 
-[^10]: [Water Resources Agency: Gambaran Umum Perkembangan Air Minum Taiwan (Bagian Atas)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Water Resources Agency menjelaskan kerusakan sistem penyediaan air akibat perang, serta tahap rekonstruksi pasca-perang memulihkan 77 sistem air minum desa dengan bantuan AS.
+[^10]: [Badan Sumber Daya Air: Gambaran Umum Perkembangan Air Minum Taiwan (Bagian Pertama)](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=2401&n=30173&sms=9942) — Badan Sumber Daya Air menjelaskan kerusakan sistem penyediaan air akibat perang, serta tahap pembangunan pasca perang dengan bantuan AS untuk memperbaiki 77 sistem air minum pedesaan.
 
-[^11]: [Water Resources Agency: Januari 1952 — Pembentukan Engineering Corps Dinas Konstruksi Pemprov dan Perkembangan Bisnis Air Minum Taiwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Water Resources Agency menyusun 1946–1974: perbaikan fasilitas, subsidi air minum pedesaan, Engineering Corps, Public Construction Bureau, dan integrasi 128 pabrik air.
+[^11]: [Badan Sumber Daya Air: Januari 1952 – Pembentukan Tim Teknik Biro Konstruksi Pemerintah Provinsi dan Perkembangan Usaha Air Minum Taiwan](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=778&n=30173) — Badan Sumber Daya Air merangkum tahun 1946–1974: perbaikan peralatan, subsidi air minum pedesaan, tim teknis, biro proyek publik, dan konsolidasi 128 pabrik air.

@@ -20,11 +20,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: "Karakter besar 'fung' di sampingnya kode Big5-nya A5 dan 5C dua kotak, kotak 5C dengan panah menunjuk ke backslash ASCII 0x5C; di bawahnya adalah output Python sebenarnya, byte kedua dari tiga karakter 'He Gong Gai' semuanya adalah backslash"
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T02:30:53.315517+00:00'
+translatedAt: '2026-11-05T06:52:22.471849+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Saya menjalankan skrip status terjemahan, layar menampilkan 4546, semuanya di `root`. GitHub CI di Linux hijau. Baru kemudian saya sadar dua hal. Backslash jalur Windows, skrip memakai forward slash tidak bisa memisahkannya. Kode Big5 karakter「功」 bagian kedua, **sendiri adalah** ASCII `\`. Kedua hal mekanismenya berbeda, tapi sering muncul bersama di satu mesin Windows tradisional China yang sama.
