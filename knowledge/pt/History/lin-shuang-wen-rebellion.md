@@ -1,30 +1,32 @@
 ---
-title: 'O incidente Lin Shuangwen: como o Império Qing reaprendeu a governar Taiwan'
-description: 'O incidente Lin Shuangwen, eclodido no final de 1786 no centro de Taiwan, não foi apenas uma revolta popular que a corte Qing chamou de "pacificada", mas também forçou o império a alterar as políticas de portos, tun-ding (屯丁) e construção de fortalezas em Taiwan.'
+title: 'Incidente de Lin Shuangwen: como o Império Qing reaprendeu a governar Taiwan'
+description: "O Incidente de Lin Shuangwen, eclodido na região central no final de 1786, não foi apenas uma revolta popular que a corte Qing denominou 'pacificação', mas também forçou o império a alterar as políticas de portos, colonos militares e construção de fortalezas em Taiwan."
 date: 2026-08-20
 category: 'History'
 tags:
-  ['Lin Shuangwen', 'período Qing', 'revolta popular', 'governança de Taiwan']
+  ['Lin Shuangwen', 'Período Qing', 'Revolta popular', 'Governança de Taiwan']
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
-translatedAt: '2026-09-11T17:03:15+08:00'
+translatedAt: '2026-11-05T15:02:34.813373+00:00'
 ---
 
-> **Visão geral em 30 segundos:** No final de 1786, um conflito local em Daliyi, Changhua, expandiu-se até tornar-se uma das maiores revoltas populares do período Qing em Taiwan. As ações de Lin Shuangwen, Zhuang Datian, Jinniang e outros obrigaram a corte Qing a mobilizar tropas através de províncias e, após a guerra, a reorganizar as políticas de portos de travessia, tun-ding e construção de fortalezas. Este artigo não trata o evento apenas como "o exército Qing pacifica a revolta", mas questiona como uma guerra mudou a forma como o império governava Taiwan.
+> **Visão geral de 30 segundos:** No final de 1786, um conflito local em Daliyi, Changhua, expandiu-se para uma das maiores revoltas populares do período Qing em Taiwan. As ações de Lin Shuangwen, Zhuang Datian, Jinniang e outros forçaram a corte Qing a mobilizar tropas através de províncias e, após a guerra, a reorganizar portos de travessia, _tun-ding_ (soldados-agricultores) e políticas de fortificação. Este artigo não trata o evento apenas como «o exército Qing pacificou a rebelião», mas questiona como uma guerra mudou a forma como o império governava Taiwan.
 
-No final de 1786, Lin Shuangwen de Daliyi, Changhua, foi arrastado para um conflito local que não necessariamente ele iniciou. Em janeiro de 1787, este conflito já havia tomado a cidade do condado de Changhua e atraído a atenção militar do Império Qing para a metade ocidental de Taiwan.[^1] Na primavera de 1788, Lin Shuangwen foi capturado e enviado a Pequim numa carroça de prisioneiro.[^2]
+No final de 1786, Lin Shuangwen de Daliyi, Changhua, foi arrastado para um conflito local que não necessariamente foi iniciado por ele. Em janeiro de 1787, o conflito já havia tomado a cidade do condado de Changhua e atraído a atenção militar do império Qing para a metade oeste de Taiwan.[^1] Na primavera de 1788, Lin Shuangwen foi capturado e enviado a Pequim em uma carroça de prisioneiro.[^2]
 
-Esta história costuma ser escrita como "o exército Qing pacifica a revolta popular", mas o que realmente merece ser questionado é outra coisa: por que uma ilha vista pelo império como fronteira longínqua, onde durante muito tempo não se quis investir custos de governança, conseguiu fazer a corte Qing mobilizar tropas através do mar por mais de um ano e, no final, ainda mudar as políticas de portos, tun-ding e defesa de cidades?[^3]
+Esta história é mais facilmente escrita como «o exército Qing pacificou a revolta popular», mas o que realmente vale a pena questionar é outra coisa: por que uma ilha vista pelo império como uma fronteira remota, na qual ele relutava em investir custos de governança por longo tempo, conseguiu fazer a corte Qing mobilizar tropas através do mar por mais de um ano e, no final, ainda mudar políticas de portos, _tun-ding_ e fortificação?[^3]
 
-> **Frase-núcleo contra-intuitiva:** O desfecho do incidente Lin Shuangwen parece restaurar o estado anterior, mas na verdade fez com que o Império Qing nunca mais pudesse governar Taiwan da mesma forma.
+> **Frase central contra-intuitiva:** O desfecho do incidente Lin Shuangwen parece restaurar o _status quo_, mas na verdade fez com que o império Qing não pudesse mais governar Taiwan da mesma forma de antes.
 
 ## Da proibição de sociedades secretas à perda de controle local
 
