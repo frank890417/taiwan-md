@@ -1,20 +1,24 @@
 ---
-title: 'Kỷ Trịnh: Vượt 10 kỷ lục thế giới, vẫn miệt mài đấu tranh cho danh xưng "Đài Loan" sau năm thập niên'
-description: 'Sinh ngày 15 tháng 3 năm 1944 tại Tân Trúc, Kỷ Trịnh là vận động viên nữ xuất sắc nhất trong lịch sử điền kinh Đài Loan. Tại Thế vận hội Mexico 1968, bà giành huy chương đồng ở nội dung vượt rào 80m với thành tích 10 giây 51, đây là huy chương điền kinh Olympic nữ đầu tiên của Đài Loan; suốt sự nghiệp, bà đã lập 10 kỷ lục thế giới. Sau khi giải nghệ, bà dấn thân vào quảng bá chạy đường trường và vẫn tích cực tham gia phong trào đòi danh xưng "Đài Loan" cho đến tận tuổi ngoài tám mươi.'
+title: 'Kỷ Chính: Lập 10 kỷ lục thế giới, sau năm mươi năm vẫn chạy để chính danh cho Đài Loan'
+description: 'Kỷ Chính, sinh năm 1944 tại Tân Trúc, được mệnh danh là «Con linh dương bay nhảy». Tại Thế vận hội Olympic Mexico năm 1968, bà giành huy chương đồng ở nội dung 80m rào với thành tích 10 giây 51, là nữ vận động viên đầu tiên của Đài Loan giành huy chương Olympic môn điền kinh, trong sự nghiệp đã lập 10 kỷ lục thế giới. Sau khi giải nghệ, bà thúc đẩy các cuộc đua đường tại Đài Loan, năm 2024 được bổ nhiệm làm Cố vấn Quốc sách Phủ Tổng thống; dù đã quá 80 tuổi, bà vẫn không ngừng chạy để chính danh cho Đài Loan, chủ trương tham dự Olympic Los Angeles 2028 dưới tên gọi «Đài Loan».'
 date: 2026-03-19
 category: 'People'
-tags: ['Thể thao', 'Điền kinh', 'Olympic', 'Vượt rào', 'Kỷ lục thế giới']
+tags: ['Thể thao', 'Điền kinh', 'Olympic', 'Rào', 'Kỷ lục thế giới']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-05T22:39:29.983416+00:00'
 ---
 
 # Kỷ Trịnh: Vượt 10 kỷ lục thế giới, vẫn miệt mài đấu tranh cho danh xưng "Đài Loan" sau năm thập niên

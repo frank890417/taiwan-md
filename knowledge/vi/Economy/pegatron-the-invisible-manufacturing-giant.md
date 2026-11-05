@@ -1,20 +1,24 @@
 ---
-title: 'Pegatron - Đỉnh cao ẩn dấu trong lĩnh vực gia công điện tử'
-description: 'Gã khổng lồ gia công tách rời từ Asus, là nhà sản xuất ẩn dấu đằng sau iPhone, máy chơi game, laptop; một trong "Năm anh em" ngành điện tử'
+title: 'Pegatron: Nhà thầu chế tạo lắp ráp iPhone cho Apple, Switch cho Nintendo'
+description: 'Pegatron là nhà thầu chế tạo điện tử của Taiwan, không sản xuất thương hiệu riêng mà chuyên lắp ráp sản phẩm cho đối tác: các dòng iPhone và MacBook của Apple, Switch của Nintendo, PlayStation của Sony, Xbox của Microsoft đều có mẫu mã xuất xưởng từ dây chuyền của công ty. Năm 2008 tách độc từ ASUS, do Đồng Tử Hiền làm chủ tịch, doanh thu năm 2024 khoảng NT$1,3 nghìn tỷ, cùng với Quanta, Wistron, Inventec, Compal được gọi là "Ngũ anh em điện tử". Apple chiếm gần một nửa doanh thu, là khách hàng lớn nhất nhưng cũng là rủi ro lớn nhất.'
 date: 2026-03-20
 category: 'Economy'
-tags: ['Economy', 'Doanh nghiệp', 'Gia công điện tử', 'Sản xuất', 'ODM']
+tags: ['Kinh tế', 'Doanh nghiệp', 'Thầu chế tạo điện tử', 'Sản xuất', 'ODM']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-07-31T00:00:00Z'
+translatedAt: '2026-11-05T22:26:20.526648+00:00'
 ---
 
 > **Tổng quan 30 giây**
@@ -221,12 +225,12 @@ Vị thế đỉnh cao ẩn dấu của Pegatron cho chúng ta biết: trong th�
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang web chính thức của Pegatron](https://www.pegatroncorp.com/) — Giới thiệu doanh nghiệp Pegatron, phạm vi kinh doanh và bố trí sản xuất toàn cầu
+[^1]: [Trang web chính thức của Pegatron](https://www.pegatroncorp.com/) — Giới thiệu doanh nghiệp Pegatron, phạm vi hoạt động và bố cục sản xuất toàn cầu
 
-[^2]: [Cnyes — Bảng xếp hạng công ty EMS toàn cầu năm 2025](https://www.cnyes.com/) — Theo dữ liệu mới nhất năm 2025, xếp hạng EMS toàn cầu có sự điều chỉnh, Vĩ Tạo đã vươn lên thành công ty EMS toàn cầu lớn thứ hai
+[^2]: [Cnyes — Xếp hạng các hãng EMS toàn cầu năm 2025](https://www.cnyes.com/) — Dựa trên dữ liệu mới nhất năm 2025, xếp hạng EMS toàn cầu đã có điều chỉnh, Wistron đã vươn lên trở thành hãng EMS lớn thứ hai thế giới
 
-[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c được phát hành chính thức vào ngày 10 tháng 9 năm 2013, chứ không phải năm 2012; Pegatron là nhà sản xuất chính
+[^3]: [Wikipedia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c được chính thức phát hành vào ngày 10 tháng 9 năm 2013, không phải năm 2012; Pegatron là nhà sản xuất chính
 
-[^4]: [Viện Hành pháp — Văn phòng Năng lượng Quốc gia và Giảm thiểu Khí thải](https://www.ey.gov.tw/) — Đồng Tử Hiền từ năm 2024 đảm nhận vai trò Chủ nhiệm Văn phòng Năng lượng Quốc gia và Giảm thiểu Khí thải của Viện Hành pháp, đồng thời vẫn đảm nhận chức vụ chủ tịch Pegatron
+[^4]: [Viện Hành chính — Văn phòng Quốc gia về Năng lượng và Giảm Carbon](https://www.ey.gov.tw/) — Tùng Tử Hiền nhậm chức Chủ tịch Ủy ban Văn phòng Quốc gia về Năng lượng và Giảm Carbon thuộc Viện Hành chính năm 2024, đồng thời vẫn giữ chức Chủ tịch Hội đồng quản trị Pegatron
 
-[^5]: [Wikipedia — Pegatron Corporation](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron tách rời từ Asus thành lập vào năm 2008, lịch sử phát triển công ty và giải thích khách hàng chính
+[^5]: [Wikipedia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron được thành lập năm 2008 sau khi tách khỏi Asus, lịch sử phát triển công ty và giải thích về các khách hàng chính
