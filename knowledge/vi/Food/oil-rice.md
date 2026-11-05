@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/油飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9645370116faf0ce'
 sourceBodyHash: 'sha256:e335b1f6c8cbb675'
-translatedAt: '2026-07-25T10:53:12+08:00'
+translatedAt: '2026-11-05T04:11:46.705159+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

@@ -2,9 +2,7 @@
 title: 'Sự kiện Mãn Đan Xã: Va chạm văn minh và thức tỉnh chủ quyền dưới thung lũng Thạch Môn'
 description: 'Năm 1874, một chiến dịch quân sự do tai nạn hàng hải khơi mào đã biến thung lũng Thạch Môn ở cực nam Đài Loan thành tâm chấn của cục diện Đông Á hiện đại. Đây không chỉ là hòn đá thử vàng cho sự bành trướng của Đế quốc Nhật Bản, mà còn là bước ngoặt số phận khiến triều đình nhà Thanh chuyển từ phòng thủ biên cương sang quản trị tích cực.'
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '殖民與帝國'
 tags:
   [
     'Sự kiện Mãn Đan Xã',
@@ -13,15 +11,20 @@ tags:
     'Quốc tế pháp',
     'Người bản địa',
   ]
-readingTime: 12
+subcategory: '殖民與帝國'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 12
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/牡丹社事件.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:91f467d8cc029b74'
 sourceBodyHash: 'sha256:1f92c860af97938e'
-translatedAt: '2026-07-25T21:33:45+08:00'
+translatedAt: '2026-11-05T05:04:23.656535+00:00'
 ---
 
 > **Tổng quan 30 giây:** Năm 1874, Nhật Bản lấy cớ dân chài Lưu Cầu bị hại, đã phái Tây Hương Tòng Đạo (Nishimura Takashi) dẫn quân đổ bộ lên Đài Loan. Xung đột này đạt đỉnh điểm tại chiến trường cổ Thạch Môn, cuối cùng kết thúc bằng việc triều đình nhà Thanh trả 500.000 lượng bạch ngân, thừa nhận hành động "bảo dân nghĩa cử" (sứ mệnh bảo vệ dân chúng) của Nhật Bản. Sự kiện này chấm dứt sự song phương trung thành của Lưu Cầu, thúc đẩy triều đình nhà Thanh mở ra chính sách "Khai sơn phủ phiên" (mở núi, an撫 người phiên), đưa Đài Loan chính thức bước vào sân khấu quản trị hiện đại hóa.

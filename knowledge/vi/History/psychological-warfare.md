@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-07-25T12:49:27+08:00'
+translatedAt: '2026-11-05T05:09:01.307686+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

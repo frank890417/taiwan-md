@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-09-18T00:53:05+08:00'
+translatedAt: '2026-11-05T04:18:26.402033+00:00'
 ---
 
 > **30 giây tóm tắt:** Kim ngạch ba tư ba, món quà lưu niệm nổi tiếng khắp Đài Loan, có nguồn gốc xa phượng hơn bạn tưởng. Nó không phải là biến thể của bánh croissant Pháp, mà là sáng tạo của thợ bánh Hán **La Phúc Thanh** sau một chuyến bay, lấy cảm hứng từ "bánh mì Philippines", kết hợp kỹ thuật làm bánh truyền thống Đài Loan khi trở về. Hương vị "cứng cỏi" đặc trưng đến từ việc ép bột nhiều lần và nướng bông muối, phản ánh tinh thần kiên cường của người dân Đài Loan đối với thực phẩm. Từ một góc phố nhỏ đến một đặc sản nổi tiếng, Kim ngạch không chỉ là ký ức vị giác, mà còn là sự phản ánh của văn hóa địa phương và sự phát triển thương mại của ba tư ba.

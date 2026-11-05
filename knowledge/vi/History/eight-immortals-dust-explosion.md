@@ -17,11 +17,13 @@ featured: false
 readingTime: 15
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/八仙塵爆.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:ac5c1781df041450'
 sourceBodyHash: 'sha256:e34f355be551f8dd'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-05T04:46:17.766692+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Vào tối ngày 27 tháng 6 năm 2015, lúc 20 giờ 32 phút, tại bữa tiệc màu sắc ở công viên Bát Tiên, Bát Lý, thành phố Tân Bắc, bụi tinh bột ngô lóe cháy đột ngột, hóa thành biển lửa. Sự cố này khiến 499 người bị cháy bỏng, 15 người chết, là tai nạn công cộng đơn lẻ nặng nề nhất tại Đài Loan kể từ trận động đất 921. Đối mặt với lượng lớn bệnh nhân cháy bỏng nặng, các y bác sĩ Đài Loan đã "huy động toàn quốc" để tạo ra "kỳ tích y tế" với tỷ lệ tử vong chỉ 3%. Tuy nhiên, mười năm trôi qua, các vụ kiện vụ tranh chấp pháp lý vẫn tiếp diễn, các nạn nhân đối mặt với con đường phục hồi dài và khó khăn khi sống chung với sẹo, công viên Bát Tiên cũng từ đó bỏ hoang. Vết thương này vẫn liên tục nhắc nhở xã hội Đài Loan về tầm quan trọng của an toàn công cộng.

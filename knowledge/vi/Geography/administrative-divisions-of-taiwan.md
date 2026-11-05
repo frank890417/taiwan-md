@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
-translatedAt: '2026-07-26T00:16:51+08:00'
+translatedAt: '2026-11-05T05:20:06.243275+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Các "sáu thành phố, mười sáu tỉnh thành" hiện nay của Đài Loan là kết quả của nhiều phẫu thuật chính trị trong bốn thế kỷ. Thế kỷ 17, các nhà Hà Lan dùng "hội đồng địa phương" để giám sát bản xã; thời kỳ Zheng và chính quyền hiếu khách mở ra hệ thống quận huy của người Hán; thời kỳ Nhật tịch thông qua "năm tỉnh ba trung tâm" và phong trào hiến địa danh, xây dựng nền tảng cấu trúc hành chính hiện đại. Thí nghiệm này gần như xuất hiện với đề xuất "thành phố Bảo Văn" năm 1945, và qua thay đổi thành phố cấp tỉnh vào năm 2010, kéo theo những thách thức phân bố tài nguyên mới trong thời đại hiện nay.
