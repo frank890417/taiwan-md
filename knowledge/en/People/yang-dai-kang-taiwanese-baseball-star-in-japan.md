@@ -1,20 +1,22 @@
 ---
-title: "Yang Dai-Kang: Taitung 1987, Amis Outfielder from Hokkaido Nippon-Ham's Decade of Gold Gloves to Yomiuri Giants via FA"
-description: "Born 1987/1/17 in Taitung City, Amis, formerly known as Yang Zhong-shou. Graduated from the junior high school of National Taitung University Affiliated Sports High School, then went to Japan to attend Fukuoka Daiichi High School. In the 2005 NPB draft, both the Hokkaido Nippon-Ham Fighters and the Fukuoka SoftBank Hawks selected him with the first overall pick; the Fighters won the lottery. In 2012, he won the Pacific League Outfielder Gold Glove Award — the first Taiwanese fielder to do so. In 2016, he exercised his domestic FA rights and transferred to the Yomiuri Giants. His NPB career: 1,322 games, 105 home runs, 482 RBIs, .270 batting average. He left the Giants at the end of 2021 and moved to independent leagues."
+title: 'Yang Dai-gang: Taitung 1987, NPB Fighters Ten-Year Gold Glove to Giants FA Amis Outfielder'
+description: 'Born January 17, 1987 in Taitung City, Amis ethnicity, formerly named Yang Chung-shou. Graduated from the junior high division of National Taitung University Affiliated Physical Education Senior High School, then went to Japan to attend Fukuoka Daiichi High School. In the 2005 NPB draft, he was a first-round pick by both the Fighters and SoftBank, with the Fighters winning the lottery. Won the 2012 Pacific League outfielder Gold Glove (first Taiwan-born position player). Signed with the Yomiuri Giants as a free agent in 2016. NPB career: 1,322 games, 105 home runs, 482 RBIs, .270 batting average. Left the Giants at the end of 2021 and joined an independent league.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "體育"
-tags: ["體育", "棒球", "日職", "阿美族", "原住民", "外野手"]
-readingTime: 7
+category: 'People'
+tags: ['Sports', 'Baseball', 'NPB', 'Amis', 'Indigenous', 'Outfielder']
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
-featured: false
-translatedFrom: "People/陽岱鋼.md"
-sourceCommitSha: "4b6d28c54"
-sourceContentHash: "sha256:a0454e71ee2abfe6"
-sourceBodyHash: "sha256:2bbcd86b693a9ea2"
-translatedAt: "2026-05-20T05:08:27+08:00"
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/陽岱鋼.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:a0454e71ee2abfe6'
+sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
+translatedAt: '2026-11-05T01:56:02.575768+00:00'
 ---
 
 # Yang Dai-Kang: Taitung 1987, Amis Outfielder from Hokkaido Nippon-Ham's Decade of Gold Gloves to Yomiuri Giants via FA
