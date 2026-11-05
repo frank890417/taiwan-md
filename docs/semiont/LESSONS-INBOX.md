@@ -409,6 +409,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 第三種意思：「這份其實已經修好了」）／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一輪的窗口面）／`intake-never-asks-whether-the-target-exists`（那條問「它指的那篇在不在」，本條問「它說的那件事是不是已經修好了」）
 - **verification_count**: 1
 
+### 2026-11-06 twmd-babel-nightly — liveness-check-reads-the-menu-not-the-kitchen：問模型在不在，答不了請求收不收得了尾
+
+- **pattern**: `liveness-check-reads-the-menu-not-the-kitchen`
+- **原則**：算力自檢要走產線同一條路徑做一次真生成。`/api/tags` 只證明模型裝著；另外，同一個 worker 的便宜成功（不叫模型的補丁）會把昂貴任務的失敗蓋掉，看 kept 數要先分引擎。症狀在應用層時，先看一眼下面那層的總量數字（`netstat` 狀態分佈、開機天數）再往應用層深挖。
+- **觸發**：2026-11-06 babel-nightly。`gemma4:26b` 11-05 06:19 起零產出，preflight 連兩班 ✅、fleet 可達。追到 TIME_WAIT 256,717 只增不減、開機第 53 天。見 memory/2026-11-06-004324-twmd-babel-nightly.md
+- **instances**：
+- **可能層級**：通用反射（REFLEXES #38 (f) 存活≠生產、#82 代理訊號的新載體）；操作規則已落 `babel-preflight.py` 與 BABEL-VORTEX §三重巡檢第 6 問
+- **相關**：REFLEXES #38 (f)、#82、#85（unknown 自己的符號）
+- **verification_count**: 1
+
 ### 2026-11-04 twmd-babel-nightly — model-count-threshold-blind-when-only-two-backends-run：判準要三種模型同敗，產線上只有兩種
 
 - **pattern**: `model-count-threshold-blind-when-only-two-backends-run`
