@@ -1,8 +1,35 @@
 {
-  "_generated": "2026-11-04T22:08:28.040Z",
+  "_generated": "2026-11-05T22:37:39.867Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "外送平台：一個按鈕送到家，誰在替城市趕時間",
+        "desc": "2019 年後，外送從新服務變成台灣城市的日常基礎設施：餐飲店靠它接觸新客人，消費者靠它縮短等待，外送員則在手機、機車與道路之間承擔被看不見的時間與風險。2026 年 10 月 21 日，公平會以 Uber 持有 Grab 13.1% 股權為核心的四大理由，表決禁止這筆 193 億元的併購案，foodpanda 留在原品牌，市場維持雙占結構；公平會也說明，未來仍可再提申請。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%A4%96%E9%80%81%E5%B9%B3%E5%8F%B0",
+        "date": "2026-11-04T21:56:49+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "台灣平均餘命：八十一點二七歲，與那個差九歲的縣市",
+        "desc": "內政部 2026 年 8 月公布 114 年簡易生命表，國人平均壽命 81.27 歲，女性 84.75 歲、男性 77.93 歲，比 113 年增加 0.50 歲，但與疫情初期的 109 年相比仍低 0.05 歲。這篇說明生命表怎麼算、六都為何從台北市 83.98 歲遞減到高雄市 79.80 歲、台東縣 76.49 歲與全國差在哪裡，拆開男女相差 6.82 歲與台東縣男女落差 9.24 歲這兩個數字，並補上各年齡層的平均餘命與聯合國的國際座標。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E5%B9%B3%E5%9D%87%E9%A4%98%E5%91%BD",
+        "date": "2026-11-04T15:09:56+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "中華職棒：三十七年，一個聯盟差點死掉兩次又活過來",
+        "desc": "2026 年 10 月 26 日，味全龍在大巨蛋第 6 戰以 6:0 完封中信兄弟，拿下隊史第 6 冠，3 萬 8,178 人把紅色彩帶拋進場內。這篇從那場封王戰往回走，穿過 1989 年兄弟大飯店的成立大會、1990 年 3 月 17 日的第一球、1999 年味全解散、2008 年黑米與 2009 年黑象兩次瀕死，再回到 2003 年兩聯盟合併、2021 年味全重返一軍、2023 年第 5 冠、六隊規模與 2025 年例行賽場均破萬的今天。三十七年裡，這個聯盟兩次差點消失。",
+        "category": "culture",
+        "href": "/culture/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92",
+        "date": "2026-11-04T15:02:32+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
       {
         "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
         "desc": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
@@ -245,33 +272,6 @@
         "date": "2026-11-04T08:34:43+08:00",
         "readingTime": 16,
         "image": "/article-images/society/taipei-old-apartment-cc0.webp"
-      },
-      {
-        "title": "台灣排隊：從被要求的秩序，到彼此守住的公平",
-        "desc": "1979 年台北市曾把排隊寫進都市治理；捷運月台、餐廳叫號機與熱門小吃前的隊伍，後來把這套身體紀律改造成日常服務的公平語言。排隊看似浪費時間，卻讓陌生人共享一條看得見的規則。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E6%8E%92%E9%9A%8A",
-        "date": "2026-11-04T08:34:43+08:00",
-        "readingTime": 8,
-        "image": "/article-images/lifestyle/paidui-taipei-station-platform.webp"
-      },
-      {
-        "title": "台灣原住民飲食文化",
-        "desc": "從 AKAME 的火焰到阿美族的野菜宇宙——台灣原住民飲食如何在三千年後重新點燃世界的目光",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
-        "date": "2026-11-04T08:34:25+08:00",
-        "readingTime": 12,
-        "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
-      },
-      {
-        "title": "八二三砲戰：四十四天砲火，留下二十年的金門日常",
-        "desc": "1958年8月23日，金門在85分鐘內接下三萬多發砲彈。四十四天後，砲火沒有真正離開，單打雙不打延續到1979年。這場戰爭不只改變臺海戰略，也把居民、學生與遷徙家庭留在戰地記憶裡。在砲彈與疏遷之間，金門成了以規律承受不安的島，也留下戰地保存最難回答的問題：記住勝利，是否也記住平民的代價？",
-        "category": "history",
-        "href": "/history/823%E7%A0%B2%E6%88%B0",
-        "date": "2026-11-04T08:32:06+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "en": [
@@ -782,13 +782,13 @@
         "image": ""
       },
       {
-        "title": "鉄牛：ある反性暴力啓発ビデオの『ジェイ哥』が、彼の10年の人生になった",
-        "desc": "ウー・ジャーウェイは2012年、一般人として文部省の反性暴力啓発ビデオ『もし早く知っていれば、男の子も性暴力の被害に遭うことを』の『ジェイ哥』役を演じ、思いがけず大バズりした。一時はこの役を拒絶し、パワーショベルの運転手になろうとも考えたが、今ではミームが彼の生計の糧となり、『ジェイ哥』を台湾初のミームミュージカルの舞台へと送り出した。一本の啓発ビデオでは教えきれなかった教訓を、ミームが10年間かけて彼に教えてくれた。",
+        "title": "鉄牛ウー・チアウェイ：「ジェイコー、イヤだ」が13年間バズり続け、ジェイコーを演じた彼が断り続けていたのが、やがて堂々と「自分がジェイコーだ」と受け入れるまで",
+        "desc": "2013年、出版業で働いていたウー・チアウェイがカメラに向かって「ジェイコーは僕が演じた」と言った。彼が演じたのは、国家教育研究院の性平教育映像教材に登場する加害者だ。その中の「ジェイコー、イヤだ」というセリフが13年間バズり続けた。彼はジェイコーを再演するすべてのオファーを婉曲に断り、一度は後悔したが、後に「自分がジェイコーだということを堂々と受け入れる」と語り、CMに出演し、ミームミュージカルの舞台に立った。この映像が本来伝えたかったのは：男の子も性暴力の被害者になり得る、ということだ。",
         "category": "people",
         "href": "/ja/people/tieniu-jie-ge",
         "date": "2026-10-10T23:46:16+08:00",
-        "readingTime": 11,
-        "image": ""
+        "readingTime": 13,
+        "image": "/article-images/people/tie-niu-ironbull-20251101-comic-con.webp"
       },
       {
         "title": "丁日昌：一本の電報線の背後にある、完成しなかった台湾海防の青写真",
@@ -1335,8 +1335,8 @@
         "image": ""
       },
       {
-        "title": "El Incidente de Mudan: Choque de civilizaciones y despertar soberano en el desfiladero de Shi-men",
-        "desc": "En 1874, una acción militar desencadenada por un naufragio convirtió al desfiladero de Shi-men, en el sur de Taiwán, en el epicentro del panorama de Asia Oriental moderna. Esto no solo fue una prueba para la expansión del Imperio japonés, sino también un punto de inflexión crucial para la transición de la corte Qing desde la defensa fronteriza hacia una gobernanza activa.",
+        "title": "El incidente de Mudan: choque de civilizaciones y despertar de la soberanía bajo el desfiladero de Shimen",
+        "desc": "En 1874, una acción militar desencadenada por un naufragio convirtió el desfiladero de Shimen, en el sur de Taiwán, en el epicentro de la configuración del Este asiático moderno. Fue no solo la piedra de toque de la expansión imperial japonesa, sino el punto de inflexión que llevó a la corte Qing de la defensa pasiva de la frontera a una gobernanza activa.",
         "category": "history",
         "href": "/es/history/mudan-incident",
         "date": "2026-10-10T23:40:32+08:00",
@@ -1616,8 +1616,8 @@
         "image": ""
       },
       {
-        "title": "L'incident de Mudan : Collision des civilisations et éveil de la souveraineté dans le défilé de Shimen",
-        "desc": "En 1874, une action militaire déclenchée par un naufrage a fait du défilé de Shimen, au sud de Taïwan, le centre névralgique de l'ordre d'Asie de l'Est moderne. Ce fut à la fois une étape d'expansion pour l'Empire japonais et un tournant décisif pour la Cour Qing, forçant celle-ci à passer d'une défense périphérique à une gouvernance active.",
+        "title": "L'incident de Mudan : collision des civilisations et éveil de la souveraineté sous les gorges de Shimen",
+        "desc": "En 1874, une opération militaire déclenchée par un naufrage fit des gorges de Shimen, à l'extrémité sud de Taïwan, l'épicentre de la recomposition de l'Asie de l'Est moderne. Ce fut non seulement la pierre de touche de l'expansionnisme impérial japonais, mais aussi le point de bascule qui poussa la cour Qing à passer d'une défense des marges à une administration active.",
         "category": "history",
         "href": "/fr/history/mudan-incident",
         "date": "2026-10-10T23:40:35+08:00",
@@ -1625,8 +1625,8 @@
         "image": ""
       },
       {
-        "title": "Les 19 vaches du mont擎天崗 : de la race Genyuan au bouillon de bœuf de Tainan, l'odyssée d'une île vers l'autonomie bovine",
-        "desc": "Taïwan importe plus de 95 % de son bœuf, mais en 2024 elle a vu naître sa toute première race bovine reconnue officiellement. L'histoire des vaches Genyuan est celle d'un homme de 94 ans, de 19 bêtes noires sauvages et d'un bol de soupe fumante servi aux aurores — un scénario d'émancipation industrielle contre toute attente.",
+        "title": "Les 19 vaches de Qingtian Gang : de la vache Yuanxing au bouillon de bœuf de Tainan, la percée de l'élevage bovin d'une île",
+        "desc": "Le taux d'autosuffisance en bœuf de Taïwan n'est que de 4,6 %, pourtant 2024 a vu naître la première race bovine certifiée par le secteur privé. L'histoire de la vache Yuanxing est un scénario de percée industrielle écrit par un homme de 94 ans, 19 vaches noires sauvages et un bol de bouillon tiède à l'aube.",
         "category": "history",
         "href": "/fr/history/yuan-xing-cattle-beef-soup-history",
         "date": "2026-10-10T23:40:35+08:00",
@@ -2396,8 +2396,8 @@
         "image": "/article-images/art/national-taichung-theater-2017.webp"
       },
       {
-        "title": "O Incidente do Clube Peônia: Colisão de Civilizações e Consciência de Soberania sob o Vale de Shimen",
-        "desc": "Em 1874, uma ação militar desencadeada por um naufrágio transformou o Vale de Shimen, no extremo sul de Taiwan, no epicentro do novo panorama da Ásia Oriental. Este evento não foi apenas o teste de fogo da expansão do Império do Japão, mas também o ponto de virada no destino da Dinastia Qing, que passou da defesa periférica para uma governação ativa.",
+        "title": "Incidente de Mudan: Colisão de Civilizações e Despertar da Soberania no Vale de Shimen",
+        "desc": "Em 1874, uma ação militar desencadeada por um naufrágio transformou o Vale de Shimen, no sul de Taiwan, no epicentro da configuração moderna do Leste Asiático. Isso não foi apenas a pedra de toque da expansão do Império Japonês, mas também o ponto de virada em que a corte Qing passou da defesa de fronteira para a governança ativa.",
         "category": "history",
         "href": "/pt/history/mudan-incident",
         "date": "2026-10-10T23:42:20+08:00",
@@ -2584,7 +2584,7 @@
         "href": "/hi/people/joeman",
         "date": "2026-10-31T08:41:46+08:00",
         "readingTime": 10,
-        "image": ""
+        "image": "/article-images/people/joeman-portrait-desk-2017.webp"
       },
       {
         "title": "कू का सपना: विदेशी लेंस से, ताइवान के लिए विश्व स्तर पर समझने योग्य कार्यक्रम तक",
@@ -3277,8 +3277,8 @@
         "image": ""
       },
       {
-        "title": "ASUS: Der Technologiegigant, der mit einem Motherboard begann",
-        "desc": "ASUS ist eine taiwanische Marke: 1989 von vier Ingenieuren in Taipeh gegründet, wuchs der Motherboard-Hersteller zum fünftgrößten PC-Anbieter der Welt.",
+        "title": "ASUS: Von einer Wohnung in Taipeh zum weltweiten Marktführer bei Mainboards – eine taiwanische Marke",
+        "desc": "ASUS ist eine taiwanische Marke, die 1989 von vier ehemaligen Acer-Ingenieuren in einer Wohnung in der Minsheng-Oststraße in Taipeh gegründet wurde, mit einem Kapital von nur NT$10 Millionen. Das Unternehmen begann mit Mainboards, erreichte einen weltweiten Marktanteil von über 40 % und war 15 Jahre in Folge Marktführer. Bei den Auslieferungen von Personal Computern rangiert es weltweit auf Platz fünf. Anders als viele taiwanische Technologieunternehmen entschied sich ASUS früh für den Aufbau einer Eigenmarke und gegen reine Auftragsfertigung. 2008 spaltete es das Auftragsfertigungsgeschäft als Pegatron ab, um sich seither ganz auf die Markenführung zu konzentrieren.",
         "category": "economy",
         "href": "/de/economy/asus-computer",
         "date": "2026-11-04T08:24:26+08:00",

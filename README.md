@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1159 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,067 article-versions
+- 📖 **1160 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 15,080 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,8 +95,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1159  |
-| 🇹🇼 Chinese (zh-TW)             | 1159  |
+| 📄 Total articles (zh-TW SSOT) | 1160  |
+| 🇹🇼 Chinese (zh-TW)             | 1160  |
 | 🇺🇸 English (en)                | 1158  |
 | 🇯🇵 日本語 (ja)                 | 1158  |
 | 🇰🇷 한국어 (ko)                 | 1158  |

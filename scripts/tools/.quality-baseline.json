@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-04T22:07:11Z",
-  "total": 1161,
+  "timestamp": "2026-11-05T22:35:54Z",
+  "total": 1162,
   "flagged": 718,
   "files": [
     {
@@ -871,8 +871,8 @@
     },
     {
       "file": "lifestyle/外送平台.md",
-      "score": 5,
-      "reasons": "空洞詞7個; 未人工審核; 塑膠句5個"
+      "score": 7,
+      "reasons": "空洞詞14個; 未人工審核; 塑膠句5個; 分號4個"
     },
     {
       "file": "lifestyle/307taipeibus.md",

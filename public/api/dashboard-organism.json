@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T22:07:20.962Z",
+  "lastUpdated": "2026-11-05T22:36:03.394Z",
   "organs": [
     {
       "id": "heart",
@@ -10,16 +10,16 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 40,
-        "articlesLast30Days": 195,
-        "totalArticles": 1159,
+        "articlesLast7Days": 42,
+        "articlesLast30Days": 197,
+        "totalArticles": 1160,
         "selfProducedLast7Days": 3,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 37,
-        "newArticlesLast7Days": 6,
-        "newArticlesLast30Days": 36,
-        "contributedNewLast7Days": 3,
-        "updatedNotNewLast7Days": 34,
+        "contributedLast7Days": 39,
+        "newArticlesLast7Days": 7,
+        "newArticlesLast30Days": 37,
+        "contributedNewLast7Days": 4,
+        "updatedNotNewLast7Days": 35,
         "shadowScoreNewOnly": 70
       }
     },
@@ -34,7 +34,7 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 196,
-        "totalArticles": 1159,
+        "totalArticles": 1160,
         "humanReviewedPercent": 16.9,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
@@ -97,7 +97,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 12,
+        "recentContributors": 11,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239179,
@@ -127,7 +127,7 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1159,
+          "zh-TW": 1160,
           "en": 1156,
           "ja": 1156,
           "ko": 1156,
@@ -507,7 +507,7 @@
             },
             "articles": {
               "count": 1154,
-              "pct": 100
+              "pct": 99
             },
             "score": 96
           },
@@ -691,7 +691,7 @@
             },
             "articles": {
               "count": 1154,
-              "pct": 100
+              "pct": 99
             },
             "score": 98
           },

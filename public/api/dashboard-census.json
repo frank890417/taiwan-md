@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-05",
+  "generated": "2026-11-06",
   "generator": "scripts/tools/article-census.py",
-  "head": "34d2908c2",
+  "head": "15c732771",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1159,
+  "n": 1160,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-08",
-      "end": "2026-11-05",
+      "start": "2026-10-09",
+      "end": "2026-11-06",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,24 +38,24 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 12, "B": 2, "C": 886, "D": 226 },
-  "curation_counts": { "none": 650, "incubating": 507, "verified": 2 },
-  "curation_reason_counts": { "none": 340, "thin": 113, "unverified": 54 },
-  "cover_counts": { "local": 273, "none": 886 },
-  "c_subtypes": { "C3": 748, "C2": 133, "C1": 5 },
+  "tier_counts": { "A": 12, "B": 2, "C": 887, "D": 227 },
+  "curation_counts": { "none": 650, "incubating": 508, "verified": 2 },
+  "curation_reason_counts": { "none": 341, "thin": 113, "unverified": 54 },
+  "cover_counts": { "local": 273, "none": 887 },
+  "c_subtypes": { "C3": 749, "C2": 133, "C1": 5 },
   "distribution": {
     "all": {
-      "n": 1150,
+      "n": 1151,
       "cjk": {
-        "p5": 1319,
+        "p5": 1322,
         "p10": 1539,
-        "p25": 2053,
-        "p33": 2447,
+        "p25": 2063,
+        "p33": 2448,
         "p50": 3168,
         "p75": 4634,
         "p90": 6082,
-        "n": 1150,
-        "mean": 3588.0
+        "n": 1151,
+        "mean": 3587.6
       },
       "fn_defs": {
         "p5": 0,
@@ -65,7 +65,7 @@
         "p50": 12,
         "p75": 21,
         "p90": 36,
-        "n": 1150,
+        "n": 1151,
         "mean": 16.1
       }
     },
@@ -73,14 +73,14 @@
       "n": 403,
       "cjk": {
         "p5": 1672,
-        "p10": 2018,
+        "p10": 2019,
         "p25": 3110,
         "p33": 3743,
         "p50": 4668,
         "p75": 6190,
         "p90": 7357,
         "n": 403,
-        "mean": 4794.7
+        "mean": 4796.4
       },
       "fn_defs": {
         "p5": 4,
@@ -95,17 +95,17 @@
       }
     },
     "no_evidence": {
-      "n": 594,
+      "n": 595,
       "cjk": {
         "p5": 1245,
         "p10": 1384,
-        "p25": 1806,
-        "p33": 2020,
+        "p25": 1800,
+        "p33": 2009,
         "p50": 2708,
         "p75": 3786,
-        "p90": 4707,
-        "n": 594,
-        "mean": 2927.5
+        "p90": 4714,
+        "n": 595,
+        "mean": 2926.5
       },
       "fn_defs": {
         "p5": 0,
@@ -115,22 +115,22 @@
         "p50": 10,
         "p75": 14,
         "p90": 20,
-        "n": 594,
+        "n": 595,
         "mean": 11.0
       }
     },
     "incubating": {
-      "n": 507,
+      "n": 508,
       "cjk": {
         "p5": 1176,
         "p10": 1329,
         "p25": 1647,
-        "p33": 1855,
-        "p50": 2572,
-        "p75": 3948,
-        "p90": 4780,
-        "n": 507,
-        "mean": 2910.4
+        "p33": 1842,
+        "p50": 2590,
+        "p75": 3941,
+        "p90": 4790,
+        "n": 508,
+        "mean": 2910.6
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 10,
         "p75": 13,
         "p90": 17,
-        "n": 507,
+        "n": 508,
         "mean": 9.9
       }
     },
     "recent_45d": {
-      "n": 37,
+      "n": 38,
       "cjk": {
         "p5": 1486,
         "p10": 1502,
         "p25": 1629,
-        "p33": 1776,
-        "p50": 1932,
-        "p75": 2373,
+        "p33": 1685,
+        "p50": 1907,
+        "p75": 2426,
         "p90": 3543,
-        "n": 37,
-        "mean": 2719.6
+        "n": 38,
+        "mean": 2710.2
       },
       "fn_defs": {
         "p5": 1,
@@ -165,8 +165,8 @@
         "p50": 4,
         "p75": 10,
         "p90": 24,
-        "n": 37,
-        "mean": 16.1
+        "n": 38,
+        "mean": 15.8
       }
     }
   },
@@ -361,6 +361,17 @@
         "reason": "4 軸弱：字數 2399、腳註 5、零媒體、段落 40 段／中位 52 字",
         "cover": "none",
         "cjk": 2399,
+        "fn": 5
+      },
+      {
+        "path": "knowledge/History/日治時期.md",
+        "title": "日治時期",
+        "category": "History",
+        "curation": null,
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1697、腳註 5、零媒體",
+        "cover": "none",
+        "cjk": 1697,
         "fn": 5
       },
       {
@@ -1154,17 +1165,6 @@
         "cover": "none",
         "cjk": 2313,
         "fn": 9
-      },
-      {
-        "path": "knowledge/History/日治時期.md",
-        "title": "日治時期",
-        "category": "History",
-        "curation": null,
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1697、腳註 5、零媒體",
-        "cover": "none",
-        "cjk": 1697,
-        "fn": 5
       },
       {
         "path": "knowledge/History/東寧王國.md",
@@ -2564,6 +2564,17 @@
         "fn": 6
       },
       {
+        "path": "knowledge/Society/台灣平均餘命.md",
+        "title": "台灣平均餘命：八十一點二七歲，與那個差九歲的縣市",
+        "category": "Society",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1662、腳註 4、段落 28 段／中位 48 字",
+        "cover": "none",
+        "cjk": 1662,
+        "fn": 4
+      },
+      {
         "path": "knowledge/Society/台灣志工文化與公益參與.md",
         "title": "台灣志工文化與公益參與：一個島嶼的日常善意",
         "category": "Society",
@@ -2964,11 +2975,13 @@
     "knowledge/People/徐巧芯.md",
     "knowledge/People/康士坦的變化球.md",
     "knowledge/People/蕭上農.md",
-    "knowledge/Technology/雪山隧道.md",
     "knowledge/People/三毛.md",
-    "knowledge/People/林青霞.md",
-    "knowledge/Geography/台灣五大地形與地理結構.md",
     "knowledge/Society/台灣的道德課去哪了.md",
+    "knowledge/People/林青霞.md",
+    "knowledge/Technology/雪山隧道.md",
+    "knowledge/Society/台灣邦交國與國際外交.md",
+    "knowledge/History/日治時期.md",
+    "knowledge/Geography/台灣五大地形與地理結構.md",
     "knowledge/Culture/菜市場名.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
@@ -3260,7 +3273,6 @@
     "knowledge/History/平埔族.md",
     "knowledge/History/心戰.md",
     "knowledge/History/戒嚴時期.md",
-    "knowledge/History/日治時期.md",
     "knowledge/History/日治時期臺灣社會運動.md",
     "knowledge/History/東寧王國.md",
     "knowledge/History/林爽文事件.md",
@@ -3611,6 +3623,7 @@
     "knowledge/Society/台灣媒體與新聞自由.md",
     "knowledge/Society/台灣學校輔導室的前世今生.md",
     "knowledge/Society/台灣少子化危機.md",
+    "knowledge/Society/台灣平均餘命.md",
     "knowledge/Society/台灣志工文化與公益參與.md",
     "knowledge/Society/台灣拔河.md",
     "knowledge/Society/台灣捐血.md",
@@ -3627,7 +3640,6 @@
     "knowledge/Society/台灣與亞運.md",
     "knowledge/Society/台灣與立陶宛.md",
     "knowledge/Society/台灣補習班文化.md",
-    "knowledge/Society/台灣邦交國與國際外交.md",
     "knowledge/Society/台灣長期照顧制度發展.md",
     "knowledge/Society/台灣電視分級制度.md",
     "knowledge/Society/台灣青年的生涯迷航.md",
