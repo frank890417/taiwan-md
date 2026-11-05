@@ -2,9 +2,7 @@
 title: 'Les Dix Grands Projets : un pari de deux cents milliards de dollars taïwanais sur dix milliards de dollars de réserves de change'
 description: 'En 1973, les réserves de change de Taïwan ne s’élevaient qu’à 1 milliard de dollars américains, pourtant Chiang Ching-kuo annonça l’investissement d’environ 300 milliards de dollars taïwanais pour promouvoir les Dix Grands Projets. Il ne s’agissait pas seulement d’un tournant économique pour faire face à la crise pétrolière et à l’isolement diplomatique, mais aussi d’un récit politique qui a reconditionné les plans hérités de la période coloniale japonaise pour les transformer en identité nationale.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '經濟發展史'
 tags:
   [
     'Développement économique',
@@ -14,15 +12,19 @@ tags:
     'Histoire de Taïwan',
     'Montée en gamme industrielle',
   ]
-readingTime: 12
+subcategory: '經濟發展史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/十大建設.md'
-sourceCommitSha: '9ecd20d61'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c56d8ded11ccacaf'
 sourceBodyHash: 'sha256:b63c0b30d24f0d0a'
-translatedAt: '2026-07-24T10:40:42+08:00'
+translatedAt: '2026-11-05T05:20:00.945200+00:00'
 ---
 
 > **En 30 secondes :**
