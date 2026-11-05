@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-04-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/黑松.md'
-sourceCommitSha: '2c18749ee'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
-translatedAt: '2026-11-02T01:33:16.724421+00:00'
+translatedAt: '2026-11-05T01:18:51.163889+00:00'
 ---
 
 > **30秒概要：**
