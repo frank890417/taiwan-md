@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/陽岱鋼.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a0454e71ee2abfe6'
 sourceBodyHash: 'sha256:2bbcd86b693a9ea2'
-translatedAt: '2026-07-26T15:32:43+08:00'
+translatedAt: '2026-11-04T23:40:29.788712+00:00'
 ---
 
 # Thái Đại Cương: Tại Đài Bắc, năm 1987, cầu thủ ngoài trường bảo vệ thuộc dân tộc Amis, từng nhận giải Bát quật tại Hàn Quốc trong 10 năm và chuyển đến Đài Đỏ khi làm việc tại FA

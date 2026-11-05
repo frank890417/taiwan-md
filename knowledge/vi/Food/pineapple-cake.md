@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T05:45:25+08:00'
+translatedAt: '2026-11-05T00:15:42.831363+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Bánh dứa là hình ảnh thu nhỏ của sự giao thoa giữa nông nghiệp và nghệ thuật làm bánh tại Đài Loan. Được khởi xướng bởi tiệm Nhan Tân Phát (Yen Hsin Fa) tại Đài Trung vào năm 1945, phát triển nhân mướp đắng mịn màng vào thập niên 1970 do khó khăn trong xuất khẩu dứa, và trở lại tâm điểm chú ý từ sau năm 2009 nhờ chiến lược "dứa bản địa" của SunnyHills. Giờ đây, "thỏi vàng" nhỏ bé này có giá trị sản lượng hàng năm vượt quá 25 tỷ New Taiwan dollar, trở thành hương vị Đài Loan đặc trưng nhất đối với du khách nước ngoài.

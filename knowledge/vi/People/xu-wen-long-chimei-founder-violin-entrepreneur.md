@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-04T23:49:23.541758+00:00'
 ---
 
 # Hứa Văn Long: Sinh năm 1928 tại Đài Nam, người sáng lập bảo tàng sở hữu số lượng đàn violin lớn nhất thế giới từ Công ty Qí Mỹ (Kemei) thành lập năm 1959

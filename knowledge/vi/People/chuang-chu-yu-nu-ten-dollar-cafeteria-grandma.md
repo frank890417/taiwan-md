@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-07-26T14:17:51+08:00'
+translatedAt: '2026-11-05T00:01:51.388187+00:00'
 ---
 
 > **30 giây tóm tắt:** Trương Chu Diễm Nữ (1920–2015) là người hào hạo nổi tiếng của Đài Loan, suốt nhiều năm kinh doanh "bữa ăn tự phục vụ mười" dưới cầu công cộng ở Kaohsiung. Bà ban đầu miễn phí cho người bạn đồng hành là công nhân tàu, sau đó vì chi phí tăng lên đổi lại mười Xuất Đều, nhưng vẫn kiên trì "cho ăn đủ" không tính lãi. Bữa ra đi của bà thu hút hơn ba nghìn người, tinh thần của bà cho đến nay vẫn là biểu tượng của sự ấm áp xã hội ở Đài Loan.

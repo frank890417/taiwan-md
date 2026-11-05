@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-07-26T19:42:09+08:00'
+translatedAt: '2026-11-04T23:47:37.735030+00:00'
 ---
 
 > **30 giây tóm tắt:** Cơm trong ống tre là một trong những món gạo tiêu biểu nhất của nguyên dân Đài Loan, xuất phát từ trí tuệ vượt khó của thợ săn khi thiếu dụng cụ nấu ăn trong rừng. Nó tận dụng huyết áp tự nhiên của trâu cây và lớp vỏ thơm mát, khiến gạo giữ được độ ẩm và có hương vị đặc sắc dưới ánh nắng rực rỡ. Đây không chỉ là món ăn mà còn là một bộ quy trình quản lý tài nguyên rừng và khoa học vật lý.
