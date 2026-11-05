@@ -409,6 +409,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 第三種意思：「這份其實已經修好了」）／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一輪的窗口面）／`intake-never-asks-whether-the-target-exists`（那條問「它指的那篇在不在」，本條問「它說的那件事是不是已經修好了」）
 - **verification_count**: 1
 
+### 2026-11-06 twmd-embeddings-nightly — rebuild-keeps-grinding-after-the-endpoint-dies：端點死了，重建照樣一篇一篇等滿五分鐘
+
+- **pattern**: `rebuild-keeps-grinding-after-the-endpoint-dies`
+- **原則**：逐筆呼叫外部端點的批次要有兩道停損，單筆逾時與連敗中止。單筆失敗計入 fail 繼續跑，只在失敗是偶發時才成立；端點整個死掉時，同一段程式會把幾小時的工作變成幾天的空等，收尾還把殘缺結果寫出去。
+- **觸發**：2026-11-05 重建卡在 hi 200/1147 超過二十四小時，ollama log 每筆 `/api/embeddings` 掛 5m1s 回 500。`build-embeddings.mjs` 的 `embed()` 沒有逾時，迴圈沒有連敗判斷，算下來 hi 剩下的九百多筆要三天多，而語言結束時照常寫 related 與 shard。fail rate >5% 不 commit 這道閘門在 Stage 2，進程不收工就走不到那裡。見 memory/2026-11-06-052432-twmd-embeddings-nightly.md
+- **instances**：
+- **可能層級**：通用反射（REFLEXES #38 (f) 存活≠生產、#52）；修法落 `scripts/core/build-embeddings.mjs`：`AbortSignal.timeout`＋連敗 N 筆 exit 非零，該語言不寫檔
+- **相關**：REFLEXES #38 (f)、#52；LESSONS `liveness-check-reads-the-menu-not-the-kitchen`
+- **verification_count**: 1
+
 ### 2026-11-06 twmd-babel-nightly — liveness-check-reads-the-menu-not-the-kitchen：問模型在不在，答不了請求收不收得了尾
 
 - **pattern**: `liveness-check-reads-the-menu-not-the-kitchen`
