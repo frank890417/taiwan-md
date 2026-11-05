@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T01:45:51+08:00",
-    "zhCommitHead": "551dfd599",
+    "lastUpdated": "2026-11-06T01:57:26+08:00",
+    "zhCommitHead": "2de979b70",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1080,
-        "stale": 32,
+        "fresh": 1081,
+        "stale": 31,
         "metadata_stale": 44,
         "missing": 6,
         "orphan": 0
@@ -108657,8 +108657,8 @@
           "sourceContentHash": "sha256:f9a8cbc00c40313a",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-11-05T16:12:01.811865+00:00",
-          "translationLastCommit": "4f9128a8",
-          "translationLastModified": "2026-09-10T10:10:09+08:00",
+          "translationLastCommit": "2de979b7",
+          "translationLastModified": "2026-11-06T01:45:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 47805,
@@ -141999,8 +141999,8 @@
           "sourceContentHash": "sha256:b2501899e99db9e7",
           "sourceBodyHash": "sha256:1b666fa0ae47a4ce",
           "translatedAt": "2026-11-05T17:25:44.433011+00:00",
-          "translationLastCommit": "db3698ad",
-          "translationLastModified": "2026-09-12T04:38:34+08:00",
+          "translationLastCommit": "2de979b7",
+          "translationLastModified": "2026-11-06T01:45:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 35078,
@@ -212019,20 +212019,18 @@
         "vi": {
           "path": "vi/Culture/tsou-mayasvi-festival.md",
           "translatedFrom": "Culture/鄒族戰祭.md",
-          "sourceCommitSha": "1eb167b3b",
-          "sourceContentHash": "sha256:ae52d69aff0bb025",
-          "sourceBodyHash": "sha256:caa7d610513eb652",
-          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:75fe45270faa2dd5",
+          "sourceBodyHash": "sha256:e346bfb40bdbeb66",
+          "translatedAt": "2026-11-05T17:39:25.254673+00:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 27728,
+          "bytes": 27325,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/tsou-mayasvi-festival.md",
