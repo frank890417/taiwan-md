@@ -18,11 +18,13 @@ featured: false
 readingTime: 14
 lastVerified: 2026-06-16
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/劉銘傳.md'
-sourceCommitSha: 'c109869a0'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b08d77d5c87852a1'
 sourceBodyHash: 'sha256:65e36904f67e17ed'
-translatedAt: '2026-09-25T04:57:31+08:00'
+translatedAt: '2026-11-05T18:39:47.095687+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Die Kanonen des Qing-Griechischen Krieges von 1884 schleuderten Liu Mingxuan in einen historischen Wendepunkt Taiwans. Nicht nur erfolgreich abwehrend gegen äußere Bedrohungen, sondern in den folgenden sechs Jahren als Gouverneur, verwandelte er Taipeh in eine der modernsten Städte des Qing-Reichs – mit der ersten Passagereisenbahn, der ersten Glühbirne und den frühesten westlichen Schulen. Doch die Politik dieses „Modernisierungspioniers“ war nicht ohne Kritik: Sein militärischer Rückzug und seine autoritären Innenpolitiken bleiben bis heute Gegenstand historischer Debatten.

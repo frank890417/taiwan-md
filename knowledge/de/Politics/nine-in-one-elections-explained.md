@@ -1,18 +1,18 @@
 ---
-title: 'Was ist die „Neun-in-Eins“-Wahl? Die historische Entwicklung der lokalen Selbstverwaltung über drei Jahrzehnte mit neun Ämtern, vier Aufstiegen und einer einzigen Wahl'
-description: 'Der Begriff „Neun-in-Eins“ wurde 2014 erstmals breit verwendet – er ist das Ergebnis von sechs städtischen Umstrukturierungen (Nordstadt, Kaohsiung, Fünf Städte, Taoyuan) und der Einführung des Amtes für indigene Gebiete. Die gleichzeitige Wahl von neun Ämtern (Großstadtbürgermeister/Ratsmitglieder bis Dorfvorsteher) ist das Ergebnis dreißiger Jahre lokaler Selbstverwaltung in Taiwan.'
+title: 'Was ist die Neun-in-eins-Wahl? Neun Ämter, vier Aufwertungen, dreißig Jahre Entwicklung der lokalen Selbstverwaltung'
+description: 'Bei der Neun-in-eins-Wahl werden neun lokale öffentliche Ämter an einem Tag gewählt: Bürgermeister regierungsunmittelbarer Städte, Ratsmitglieder regierungsunmittelbarer Städte, Landräte und Bürgermeister von Landkreisen und Städten, Ratsmitglieder von Landkreisen und Städten, Bürgermeister von Gemeinden und Städten, Volksvertreter von Gemeinden und Städten, Bezirksvorsteher der Bergindigenenbezirke, Bezirksvertreter sowie Dorf- und Nachbarschaftsvorsteher. Alle Amtszeiten betragen vier Jahre. Der Wahltag 2026 ist Samstag, der 28. November, die Wahllokale öffnen um 8 Uhr morgens; die genaue Wahlzeit richtet sich nach der Bekanntmachung der Zentralen Wahlkommission. Dieses Format besteht erst seit 2014 und ist das Ergebnis von dreißig Jahren Aufwertung von Taipeh und Kaohsiung, der fünf regierungsunmittelbaren Städte und Taoyuans sowie der Direktwahl der Bürgermeister regierungsunmittelbarer Städte.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Neun-in-Eins-Wahl',
-    'lokale Beamte',
-    'Großstadtbürgermeister',
-    'Landkreisbürgermeister',
+    'Neun-in-eins-Wahl',
+    'lokale öffentliche Amtsträger',
+    'Bürgermeister einer regierungsunmittelbaren Stadt',
+    'Landräte und Bürgermeister',
     'Ratsmitglieder',
-    'Dorfvorsteher',
-    'Lokales Verwaltungssystem',
-    'Wahlen 2026',
+    'Dorf- und Nachbarschaftsvorsteher',
+    'Gesetz über die lokale Selbstverwaltung',
+    'Wahl 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -20,11 +20,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-03T04:40:15.609800+00:00'
+translatedAt: '2026-11-05T19:52:55.275571+00:00'
 ---
 
 # Was ist die „Neun-in-Eins“-Wahl?
