@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-24
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:9eb46329e221026d'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
-translatedAt: '2026-11-02T01:41:33.484998+00:00'
+translatedAt: '2026-11-05T01:56:28.579666+00:00'
 ---
 
 > **En 30 secondes :** Le gâteau à l'ananas est un condensé de l'intersection entre l'agriculture taïwanaise et l'art de la pâtisserie. Fondé en 1945 par Yan Xinfafa à Taichung, il a évolué dans les années 1970 vers une garniture à la courge d'hiver en raison du déclin des exportations d'ananas, puis est revenu sur le devant de la scène après 2009 grâce à la démarche « ananas local » de SunnyHills. Aujourd'hui, ce petit lingot d'or dépasse les 25 milliards de dollars NT de valeur de production annuelle et est devenu la saveur la plus représentative de Taïwan dans l'esprit des visiteurs étrangers.

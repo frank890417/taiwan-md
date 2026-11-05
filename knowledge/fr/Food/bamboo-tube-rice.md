@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2f969547257cfb65'
 sourceBodyHash: 'sha256:b1f0ce92250128c2'
-translatedAt: '2026-05-09T14:31:09Z'
+translatedAt: '2026-11-05T00:52:51.935921+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le riz en tube de bambou est l'un des plats de riz les plus emblématiques des peuples autochtones de Taïwan, né de l'ingéniosité des chasseurs confrontés à l'absence d'ustensiles de cuisine en montagne. Il exploite l'humidité naturelle et le parfum de la membrane interne du bambou de Makino âgé d'un an ; grillé directement sur les braises, le riz reste humide et se pare d'un arôme délicat. Ce n'est pas seulement un mets : c'est une pratique conjuguant gestion des ressources forestières et science physique.
