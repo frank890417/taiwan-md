@@ -1,8 +1,8 @@
 ---
 title: 'New Taiwan Dollar: From 40,000 to One, Until It Became the Official Currency in 2000'
 description: 'On June 15, 1949, 40,000 old Taiwan dollars were exchanged for one new Taiwan dollar. This banknote used daily for breakfast, however, did not become the legal currency of the Republic of China until 2000. It survived hyperinflation, the Kinmen restricted-issue notes, and the takeover by the Central Bank, placing mountains, the Presidential Office, and the memories of an island into wallets. The history of the New Taiwan Dollar is a story of how a crisis slowly transformed into daily trust.'
+date: 2026-08-17
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
     'New Taiwan Dollar',
@@ -11,17 +11,19 @@ tags:
     'Banknotes',
     'Central Bank',
   ]
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
-date: 2026-08-17
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/新台幣.md'
-sourceCommitSha: 'a8354bde0'
-sourceContentHash: 'sha256:4d797183a6dc8cc5'
-sourceBodyHash: 'sha256:8d5699b86714ee17'
-translatedAt: '2026-09-11T06:46:15+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:62c8b035ec5c889f'
+sourceBodyHash: 'sha256:f0e09241a66b11bc'
+translatedAt: '2026-11-05T13:31:12.810649+00:00'
 ---
 
 > **30-Second Overview:** On June 15, 1949, Taiwan exchanged 40,000 old Taiwan dollars for one new Taiwan dollar, attempting to hit the stop button on an out-of-control inflation. Strangely, this currency, which was actually used every day, did not formally become the currency of the Republic of China in law until 2000. The story of the New Taiwan Dollar is therefore not just about exchanging banknotes; it is also a history of how trust, legal names, and daily life caught up with each other.
@@ -54,25 +56,25 @@ The day after the New Taiwan Dollar was issued, the Taiwan Provincial Government
 
 ## One Banknote, Two Names
 
-![Bank of Taiwan Headquarters Building, this bank once handled the issuance business of the New Taiwan Dollar](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
+![Bank of Taiwan Head Office building, this bank once handled the issuance of the New Taiwan dollar](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bank_of_Taiwan_Head_Office_Building_20070727.jpg/1280px-Bank_of_Taiwan_Head_Office_Building_20070727.jpg)
 
-_Image: Carpkazu, CC BY-SA 2.5. See [Wikimedia Commons Image Details Page](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) and [License Terms](https://creativecommons.org/licenses/by-sa/2.5/deed.en)._
+_Image: Carpkazu, CC BY-SA 2.5. See [Wikimedia Commons image detail page](https://commons.wikimedia.org/wiki/File:Bank_of_Taiwan_Head_Office_Building_20070727.jpg) and [license terms](https://creativecommons.org/licenses/by-sa/2.5/deed.en)._
 
-This building was not the issuing machine for the New Taiwan Dollar, but it is a good entry point in institutional history. Starting in 1946, the Bank of Taiwan handled the issuance business for postwar Taiwan dollars and later the New Taiwan Dollar. The institutional name on the banknotes entered people's daily lives earlier than the legal currency status. [^3]
+This building was not the New Taiwan dollar's issuing machine, but it serves as a good entry point into institutional history. Starting in 1946, the Bank of Taiwan handled the issuance of the post-war Taiwan dollar and later the New Taiwan dollar. The institutional name on the banknotes entered people's daily lives earlier than the currency's legal identity. [^3]
 
-The New Taiwan Dollar circulated practically for a long time, but its legal status remained ambiguous. After the government moved to Taiwan at the end of 1949, the Central Bank reduced its organization, entrusting many businesses to the Bank of Taiwan, including banknote issuance. The banknotes bore the name of the Bank of Taiwan, but the monetary authority and responsibility behind them gradually returned to the Central Bank. [^2]
+The New Taiwan dollar circulated in practice early on, yet its legal status remained ambiguous for a long time. After the government relocated to Taiwan in late 1949, the Central Bank downsized its organization and entrusted many operations to the Bank of Taiwan, including banknote issuance. The notes bore the name "Bank of Taiwan," but the monetary authority behind them gradually reverted to the Central Bank. [^2]
 
-The Central Bank resumed operations on July 1, 1961, and subsequently continued to entrust the Bank of Taiwan to act as the agent for issuing banknotes. This arrangement gave the same banknote two layers of identity: it was money used daily by Taiwanese people, and also a residual institutional issue where the legal name and central authority had not yet been fully resolved. [^2] [^3]
+The Central Bank resumed operations on July 1, 1961, yet continued to commission the Bank of Taiwan as its agent for issuing banknotes. This arrangement meant a single banknote carried two identities simultaneously: it was the money Taiwan's people used every day, and also an institutional legacy where the legal name and central authority had not been fully reconciled. [^2] [^3]
 
-![Central Bank First Building and Second Building, the Central Bank resumed operations in Taiwan in 1961](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
+![Central Bank First and Second Buildings, the Central Bank resumed operations in Taiwan in 1961](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Central_Bank_of_ROC_Main_Building_20230510.jpg/1280px-Central_Bank_of_ROC_Main_Building_20230510.jpg)
 
-_Image: Yu tptw, CC BY-SA 4.0. See [Wikimedia Commons Image Details Page](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) and [License Terms](https://creativecommons.org/licenses/by-sa/4.0/deed.en)._
+_Image: Yu tptw, CC BY-SA 4.0. See [Wikimedia Commons image detail page](https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg) and [license terms](https://creativecommons.org/licenses/by-sa/4.0/deed.en)._
 
-This awkwardness was not something only felt in bureaucratic documents. Historical reports in the English _Taipei Times_ pointed out that for a long time, the New Taiwan Dollar was viewed as a "local currency," even though it had long been the de facto legal transaction tool in Taiwan. After the Central Bank resumed operations in 1961, the arrangement of issuance authority still did not immediately eliminate this name contradiction. [^5]
+This awkwardness was not confined to bureaucratic documents. The English-language _Taipei Times_ noted in a historical report that the New Taiwan dollar was long regarded as a "local currency," even though it had long served as Taiwan's de facto legal tender. Even after the Central Bank resumed operations in 1961, the issuance-rights arrangement did not immediately resolve this contradiction in naming. [^5]
 
-In 1991, the silver dollar, originally the legal currency, was abolished, and Taiwan once entered a state where "the New Taiwan Dollar was used in practice, but the legal text had not yet fully caught up." It was not until January 2000 that the Executive Yuan announced relevant issuance regulations, explicitly stipulating that the currency of the Republic of China is the New Taiwan Dollar. In July of the same year, the Central Bank began to directly issue the New Taiwan Dollar. [^3] [^5]
+In 1991, the silver dollar — which had served as the legal currency — was abolished, and Taiwan entered a period where "the New Taiwan dollar was used in practice, but the legal text had not fully caught up." It was not until January 2000 that the Executive Yuan announced relevant issuance regulations, explicitly stipulating that the Republic of China's currency is the New Taiwan dollar. In July of the same year, the Central Bank began directly issuing the New Taiwan dollar. [^3] [^5]
 
-📝 Curator's Note: A society may first use a certain money as the national money, and the law only acknowledges years later what everyone already knew.
+📝 **Curator's Note**: A society may use a form of money as the nation's money first; the law acknowledges what everyone already knew only years later.
 
 ## Kinmen Banknotes Remind You That Currency Also Has Geography
 
@@ -126,20 +128,20 @@ The New Taiwan Dollar did not obtain its legal name until 2000, but was forced t
 
 ## References
 
-[^1]: [National Development Council Archives Administration: 40,000 to One: Issuance and Circulation of the New Taiwan Dollar](https://www.archives.gov.tw/tw/arctw/69-1989.html) — Uses archives from the Executive Yuan, Bank of Taiwan, and Central Bank to explain the 1949 currency reform, 40,000 to one exchange, issuance limits, hyperinflation, and Kinmen/Matsu restricted-issue banknotes.
+[^1]: [National Development Council Archives Administration: Forty Thousand to One Yuan: The Issuance and Circulation of the New Taiwan Dollar](https://www.archives.gov.tw/tw/arctw/69-1989.html) — Based on archives from the Executive Yuan, Bank of Taiwan, and Central Bank, this explains the 1949 currency reform, the 40,000-to-1 exchange, issuance limits, hyperinflation, and the Kinmen-Matsu regional banknotes.
 
-[^2]: [National Development Council Archives Administration: From Vertical to Horizontal: Issuance and Evolution of New Taiwan Dollar Banknotes](https://www.archives.gov.tw/tw/arctw/69-1766.html) — Uses national archives to track the system changes of horizontal banknotes, Central Bank resumption, offshore regional issuance, 100-dollar bill design, and direct issuance in 2000.
+[^2]: [National Development Council Archives Administration: From Vertical to Horizontal: The Issuance and Evolution of New Taiwan Dollar Banknotes](https://www.archives.gov.tw/tw/arctw/69-1766.html) — Using national archives to track horizontal-format banknotes, the Central Bank's resumption of operations, offshore regional issuance, the design of the 100-yuan note, and the institutional changes of direct issuance in 2000.
 
-[^3]: [Ministry of Finance Museum: Bank of Taiwan issues New Taiwan Dollar specimen note](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — Ministry of Finance English historical materials organize the issuance history of Taiwan dollars and New Taiwan Dollars, reserve systems, denomination changes, Central Bank takeover, and anti-counterfeiting printing technology.
+[^3]: [Ministry of Finance Museum: Bank of Taiwan issues New Taiwan Dollar specimen note](https://museum.mof.gov.tw/eng/singlehtml/009e91624d7848449733665a5bc46832?cntId=40b0615d3772461288a3145b9c474187) — The Ministry of Finance's English historical materials organize the issuance history of the Taiwan Dollar and New Taiwan Dollar, the reserve system, denomination changes, the Central Bank's takeover, and anti-counterfeiting printing technology.
 
-[^4]: [Central Bank: New Taiwan Dollar Notes and Coins](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — Central Bank explains the 2000 new series banknotes, denomination composition, coin types, and the proportion of each denomination banknotes in the total circulating value in 2014.
+[^4]: [Central Bank: New Taiwan Dollar Notes and Coins](https://www.cbc.gov.tw/en/cp-503-944-F6444-2.html) — The Central Bank explains the 2000 new series of banknotes and coins, denomination composition, coin types, and the proportion of each denomination's banknotes in total circulation value in 2014.
 
-[^5]: [Taipei Times: Taiwan in Time: How the New Taiwan dollar became the national currency](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — Uses English historical reports to sort out the name controversy of the New Taiwan Dollar from local currency to legal currency, Central Bank resumption, and 2000 legal characterization.
+[^5]: [Taipei Times: Taiwan in Time: How the New Taiwan dollar became the national currency](https://www.taipeitimes.com/News/feat/archives/2024/06/09/2003819079) — An English historical report outlines the New Taiwan Dollar's transition from local currency to legal tender, including naming disputes, the Central Bank's resumption of operations, and the 2000 legal definition.
 
-[^6]: [G. E. Makinen: The Taiwanese Hyperinflation and Stabilization of 1945–1952](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — RePEc收录 economic journal article details page, recording the bibliography and academic context of Taiwan's 1945–1952 hyperinflation and stabilization research.
+[^6]: [G. E. Makinen: The Taiwanese Hyperinflation and Stabilization of 1945–1952](https://ideas.repec.org/a/mcb/jmoncb/v21y1989i1p90-105.html) — A RePEc-listed economics journal article detail page recording the bibliography and academic context of research on Taiwan's inflation and stabilization from 1945 to 1952.
 
-[^7]: [Central Bank Currency Museum: The Banknote and Its Design Tell a Story](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — Central Bank Currency Museum explains the mountains, architecture, native species, and anti-counterfeiting images on current banknotes, and provides specific backgrounds for each denomination pattern.
+[^7]: [Central Bank Currency Museum: The Banknote and Its Design Tell a Story](https://museum.cbc.gov.tw/web/en-us/circulation/picture-guide) — The Central Bank Currency Museum explains the mountains, architecture, native species, and anti-counterfeiting images on current banknotes, and provides the specific background for each denomination's designs.
 
-[^8]: [Academia Sinica Institute of Taiwan History: Taiwan's Postwar Hyperinflation (1945–1950)](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — Academia Sinica Institute of Taiwan History academic bibliography page, providing the formal title, journal, and time scope of Wu Tsung-min's research on postwar hyperinflation.
+[^8]: [Academia Sinica Institute of Taiwan History: Taiwan's Postwar Hyperinflation (1945–1950)](https://www.ith.sinica.edu.tw/publish-data_classification_look.php?l=c&fY=35&fC=57&fS=207&ckY=1&ckAD=2&id=3351&sn=25&page=2&ps=20&print=print) — The academic bibliography page of the Academia Sinica Institute of Taiwan History provides the formal title, publication, and time range of Wu Tsung-min's research on postwar hyperinflation.
 
-[^9]: [Bank of Taiwan: Bank History](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — Bank of Taiwan English history page explains its institutional background in the Japanese colonial and postwar financial systems, state treasury, and currency issuance business.
+[^9]: [Bank of Taiwan: Bank History](https://www.bot.com.tw/en/about/bank-profiles/bank-history) — The Bank of Taiwan's English history page explains its institutional background in the Japanese colonial and postwar financial systems, the national treasury, and currency issuance operations.

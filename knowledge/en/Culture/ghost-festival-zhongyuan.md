@@ -2,9 +2,7 @@
 title: 'The Ghost Festival: From the Fear of Solitary Souls to a Collective Reconciliation on an Island'
 description: "In Taiwan, the Ghost Festival is more than just reverence for spirits; it is a survival record of colonization, conflict, and ethnic integration. From the bloody reconciliation in Keelung to the extreme 'Ghost Seizing' (Qianggu) in Toudeng, this festival reveals how Taiwanese people transformed fear into a social treaty of peace."
 date: 2026-07-20
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
   [
     'Ghost Festival Offering',
@@ -13,15 +11,20 @@ tags:
     'Taiwan Folk Culture',
     'History',
   ]
-readingTime: 8
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/中元節.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:92d21a8f666e1c2'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
-translatedAt: '2026-07-23T23:06:50+08:00'
+translatedAt: '2026-11-05T14:28:11.625160+00:00'
 ---
 
 > **30 Second Overview:** Taiwan's Ghost Festival is not merely a religious ritual; it is a centuries-old "social treaty of peace." The hardships of early colonization and the bloody conflicts between ethnic groups compelled the ancestors to establish competitive mechanisms, such as the "rivalry replacing head-breaking" seen in the Keelung Ghost Festival. This festival treats those who died away from home—the "outsiders"—as "good brothers," embodying a unique spirit of immigrant compassion and community cohesion in Taiwan.

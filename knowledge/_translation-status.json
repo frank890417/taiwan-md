@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-05T22:21:57+08:00",
-    "zhCommitHead": "939a3213d",
+    "lastUpdated": "2026-11-05T22:30:23+08:00",
+    "zhCommitHead": "0cf169183",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,32 +20,32 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1086,
+        "fresh": 1087,
         "stale": 34,
-        "metadata_stale": 38,
+        "metadata_stale": 37,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1088,
+        "fresh": 1089,
         "stale": 36,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1088,
+        "fresh": 1089,
         "stale": 37,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 4,
         "orphan": 0
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1081,
-        "stale": 38,
+        "fresh": 1082,
+        "stale": 37,
         "metadata_stale": 37,
         "missing": 6,
         "orphan": 0
@@ -92,25 +92,25 @@
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1088,
+        "fresh": 1089,
         "stale": 33,
-        "metadata_stale": 37,
+        "metadata_stale": 36,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1094,
-        "stale": 32,
+        "fresh": 1095,
+        "stale": 31,
         "metadata_stale": 32,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1069,
+        "fresh": 1070,
         "stale": 36,
-        "metadata_stale": 53,
+        "metadata_stale": 52,
         "missing": 4,
         "orphan": 0
       }
@@ -59063,20 +59063,18 @@
         "ko": {
           "path": "ko/Society/assisted-reproduction-taiwan.md",
           "translatedFrom": "Society/台灣人工生殖.md",
-          "sourceCommitSha": "8a773c917",
-          "sourceContentHash": "sha256:c4ca8b53f4bb3480",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:5dee1eed356027d4",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
-          "translatedAt": "2026-09-12T21:11:40+08:00",
+          "translatedAt": "2026-11-05T14:28:23.679348+00:00",
           "translationLastCommit": "9ada9d24",
           "translationLastModified": "2026-09-12T22:49:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 19836,
+          "bytes": 19895,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/assisted-reproduction-taiwan.md",
@@ -60111,20 +60109,18 @@
         "es": {
           "path": "es/Society/huang-wu-hsiung-community-college.md",
           "translatedFrom": "Society/社區大學黃武雄.md",
-          "sourceCommitSha": "097c838b2",
-          "sourceContentHash": "sha256:ee2c6b428739de29",
-          "sourceBodyHash": "sha256:56a4506a2e90295b",
-          "translatedAt": "2026-09-11T05:56:37+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:06c8d5e7cb10cd52",
+          "sourceBodyHash": "sha256:054bab1a9a4fb1c2",
+          "translatedAt": "2026-11-05T14:30:02.263617+00:00",
           "translationLastCommit": "646d1617",
           "translationLastModified": "2026-09-11T07:30:33+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 22744,
+          "bytes": 22703,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/huang-wu-hsiung-community-college.md",
@@ -138657,20 +138653,18 @@
         "ja": {
           "path": "ja/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "5478954ba",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
-          "translatedAt": "2026-09-23T11:47:59+08:00",
+          "translatedAt": "2026-11-05T14:28:17.331369+00:00",
           "translationLastCommit": "99caeaa7",
           "translationLastModified": "2026-09-23T13:55:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 17425,
+          "bytes": 17478,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/steve-chen-youtube-cofounder.md",
@@ -151881,8 +151875,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-11-05T12:51:16.489909+00:00",
-          "translationLastCommit": "ae837171",
-          "translationLastModified": "2026-09-22T01:04:22+08:00",
+          "translationLastCommit": "0cf16918",
+          "translationLastModified": "2026-11-05T22:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 48484,
@@ -180011,20 +180005,18 @@
         "ru": {
           "path": "ru/History/national-railway-museum-taiwan.md",
           "translatedFrom": "History/國家鐵道博物館.md",
-          "sourceCommitSha": "94a56601b",
-          "sourceContentHash": "sha256:7335ec1d507d61c5",
-          "sourceBodyHash": "sha256:80378776e0fc23ab",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:1c8f6297e9dffc4e",
+          "sourceBodyHash": "sha256:4502c5630968c2b9",
+          "translatedAt": "2026-11-05T19:46:33+08:00",
           "translationLastCommit": "161500b4",
           "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 38257,
+          "bytes": 37995,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/national-railway-museum-taiwan.md",
@@ -188787,8 +188779,8 @@
           "sourceContentHash": "sha256:e9682b2cd4b276a4",
           "sourceBodyHash": "sha256:bdaf15a31353eeba",
           "translatedAt": "2026-11-05T13:29:34.069456+00:00",
-          "translationLastCommit": "b6856973",
-          "translationLastModified": "2026-09-15T17:09:09+08:00",
+          "translationLastCommit": "0cf16918",
+          "translationLastModified": "2026-11-05T22:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 46416,
@@ -223781,20 +223773,18 @@
         "de": {
           "path": "de/Culture/lunar-july-ghost-month.md",
           "translatedFrom": "Culture/農曆七月.md",
-          "sourceCommitSha": "1b3c22ac7",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:44ea24edbaea3139",
           "sourceBodyHash": "sha256:80374ac8eaee4681",
-          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translatedAt": "2026-11-05T14:27:59.063526+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 13581,
+          "bytes": 13634,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -225155,20 +225145,18 @@
         "ar": {
           "path": "ar/Culture/bunun-millet-rituals.md",
           "translatedFrom": "Culture/布農族小米歲時祭儀.md",
-          "sourceCommitSha": "36f293ae0",
-          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:a08b66093896c8a3",
           "sourceBodyHash": "sha256:dee79906f6659ba2",
-          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translatedAt": "2026-11-05T14:23:52.263201+00:00",
           "translationLastCommit": "6ab081fc",
           "translationLastModified": "2026-09-11T23:37:23+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 34378,
+          "bytes": 35061,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/bunun-millet-rituals.md",
@@ -234119,20 +234107,18 @@
         "en": {
           "path": "en/Culture/ghost-festival-zhongyuan.md",
           "translatedFrom": "Culture/中元節.md",
-          "sourceCommitSha": "1b3c22ac7",
-          "sourceContentHash": "sha256:92d21a8f666e1c2",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
           "sourceBodyHash": "sha256:036fefb83f0557fd",
-          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translatedAt": "2026-11-05T14:28:11.625160+00:00",
           "translationLastCommit": "5e1dd19d",
           "translationLastModified": "2026-10-10T23:40:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 9343,
+          "bytes": 9461,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/ghost-festival-zhongyuan.md",
