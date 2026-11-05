@@ -2,18 +2,20 @@
 title: '진국(陳菊)'
 description: '미리섬 사건의 사형수에서 남방의 패권자 「화마(花媽)」까지, 그녀는 대만 민주 전환의 가장 선명한 증인이다.'
 date: 2026-04-17
-tags: ['정치', '민주운동', '가오슝', '인권']
 category: 'People'
+tags: ['정치', '민주운동', '가오슝', '인권']
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
-translatedFrom: People/陳菊.md
-sourceCommitSha: '4b6d28c5'
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/陳菊.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
-translatedAt: 2026-05-01T22:19:01+08:00
+translatedAt: '2026-11-04T23:39:23.240020+00:00'
 ---
 
 > **30초 개요:**

@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "1987년 1월 그 온도 수치에서 출발한다——93K는 단순한 물리 숫자가 아니라 초전도 역사에서 액체 질소 문턱을 넘은 그 날이다."
-#   whats_excluded: "BCS 이론 상세; 연도별 학술 논문 목록; 초전도 응용 공학 규격"
-#   where_it_hedges: "노벨상 후보 자격은 외부 추측이지 공식 확인이 아님; 2026 Tc=151K는 중시보도 기준"
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '0f8fae0a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-05-25T21:07:07Z'
+translatedAt: '2026-11-04T22:53:22.626512+00:00'
 ---
 
 # 주징우: 1987년 액체 질소 온도 돌파, 고온 초전도 Tc=93K의 공동 발견자

@@ -1,19 +1,22 @@
 ---
 title: '장주옥녀: 부두 노동자들의 무료 식탱에서 일곱 채 집을 팔아 만든 10원 도시락까지'
 description: '1951년, 장주옥녀는 가오슝 항구 가에 솥을 걸어 고된 부두 노동자들에게 무료 식사를 제공했다. "가난한 자의 수호신"이라 불리는 이 할머니는 이후 50년간 10원이라는 가격에 무한리뷰 부페를 고수하며, 심지어 일곱 채의 부동산을 팔아 비용을 충당했고, "배부르게 먹이는 것"을 평생의 신념으로 삼았다.'
-category: People
-tags: ['자선가', '가오슝', '10원 도시락', '장주옥녀', '사회공익', '팽호']
-author: 'Taiwan.md Contributors'
 date: 2026-04-29
-readingTime: 10
+category: 'People'
+tags: ['자선가', '가오슝', '10원 도시락', '장주옥녀', '사회공익', '팽호']
+subcategory: '社會與公益'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-05-01T22:19:01+08:00'
-featured: false
+translatedAt: '2026-11-04T23:54:38.830787+00:00'
 ---
 
 > **30초 개요:** 장주옥녀(1920-2015)는 유명한 대만의 자선가로, 오랜 기간 가오슝 공원 육교 아래에서 "10원 부페식당"을 운영했다. 그녀는 처음에 같은 고향 출신 부두 노동자들을 돌보기 위해 무료 식사를 제공했으며, 이후 비용 부담이 커지자 10원을 받기 시작했지만, 여전히 "배불리 먹기"를 고수하며 원산을 따지지 않았다. 그녀는 평생 일곱 채의 부동산을 팔아 선행을 베풀었고, 영결식에는 3,000명 이상이 조문을 왔으며, 그녀의 정신은 오늘날까지 대만 사회에 따뜻한 상징으로 남아 있다.

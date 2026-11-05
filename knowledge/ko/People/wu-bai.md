@@ -2,21 +2,21 @@
 title: '우백: 육각향 산촌촌 출발, 타이완어 록 30년 할인 없이'
 description: '본명 오준린, 1968년 자이현 육각향 산촌촌 출생. 1992년 「우백&China Blue」 결성, 1995년 《노르웨이의 숲》으로 타이완어 록 노선 확립. 2016년 《정자화》 발매, 2017년 금곡상 최우수 타이완어 앨범상 수상. 2025년 신앨범 《순백의 시작》 발매, ROCK STAR 2 투어 양안 횡단.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags: ['음악', '록', '타이완어 노래', '자이현', '토착 록', '기타']
-readingTime: 7
-#   whats_excluded: "각 앨범별 연도순 수록곡; China Blue 멤버 변동 세부 사항; 상업적 수익과 콘서트 흥행"
-#   where_it_hedges: "2025년 《순백의 시작》과 2026년 시집은 TODO로 표기, 천기성(天機星)의 세부 사항 확인 대기 중"'
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-04T23:20:15.354802+00:00'
 ---
 
 # 우백: 육각향 산촌촌 출발, 타이완어 록 30년 할인 없이

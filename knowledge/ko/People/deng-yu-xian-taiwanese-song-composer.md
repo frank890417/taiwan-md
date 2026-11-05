@@ -10,15 +10,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "「사월망우」 네 글자 제목으로 접근한다——이 네 곡은 단순한 대표작이 아니라 그의 창작 생애 전체를 압축한 것이다."
-#   whats_excluded: "각 곡의 음악 이론 분석; 작사가와의 협업 세부 사항의 일일 정리; 타오위안 기념 활동 목록"
-#   where_it_hedges: "《雨夜花》 원곡명 「春之雨」설은 추가 사료 확인 필요(P0⚠️); '타이베이 병사' 오류를 제거하고 주동 병원으로 정정함"
-translatedFrom: People/鄧雨賢.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:03f4c1611aa95a6c
-sourceBodyHash: sha256:0d86dfd69dceab10
-translatedAt: 2026-05-22T05:08:46+08:00
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/鄧雨賢.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:03f4c1611aa95a6c'
+sourceBodyHash: 'sha256:0d86dfd69dceab10'
+translatedAt: '2026-11-04T23:14:00.168388+00:00'
 ---
 
 # 덩위셴: 카카 1906, 사월망우——대만 가요의 아버지의 삼십구 년

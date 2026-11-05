@@ -2,19 +2,20 @@
 title: '천청보'
 description: '유화로 도쿄 제전을 정복했지만, 자이 기차역 앞에서 총살당했다. 세상이 그를 알게 된 것은 죽음을 통해서였지, 그 그림들을 통해서가 아니었다.'
 date: 2026-03-31
+category: 'People'
 tags: ['예술', '회화', '228사건', '자이', '일제강점기']
 subcategory: '藝術家'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 18
 featured: false
-translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:485587af49d56815'
-sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-05-16T22:20:00Z'
 lastVerified: 2026-03-31
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/陳澄波.md'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:485587af49d56815'
+sourceBodyHash: 'sha256:433a66ecaa1d5d52'
+translatedAt: '2026-11-04T23:48:45.805886+00:00'
 ---
 
 > **30초 요약:** 1947년 3월 25일, 자이 기차역 앞에서 철사에 두 손이 묶인 화가 한 명이 공개 처형됐다. 그의 이름은 천청보, 대만인 최초로 유화로 일본 제전(帝展)에 입선한 사람이자, 228사건 때 협상에 나갔다가 영영 돌아오지 못한 사람이다.

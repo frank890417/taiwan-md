@@ -2,23 +2,20 @@
 title: '린이숭: 대만성 의원에서 반핵4의 도덕적 상징까지'
 description: '린이숭은 1941년 이란에서 태어나 대만대학 법학과를 졸업하고 변호사로 활동했다. 1977년 대만성 의원에 당선되었으며, 1979년 《아름다운 섬》 잡지에 합류했다. 1980년 2월 28일 림택 혈사건으로 어머니와 쌍둥이 어린 딸이 살해당했으며, 사건은 아직 해결되지 않았다. 1984년 출소 후 하버드 케네디 정부학원에서 MPA를 취득했다. 1998년 6월 7일 민주진보당 제8차 당대표에 당선(첫 직선 대표). 2006년 1월 24일 당을 탈퇴했다. 2014년 무기한 금식으로 핵4 공사 중단을 이끌었다. 자린교육재단을 설립했으며, 대만 민주운동에서 가장 도덕적 무게가 큰 인물 중 하나이다. 2026년 현재 84세이며 건강히 살아 있다.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
+tags: ['민주운동', '림택혈사건', '반핵운동', '정치희생자', '자린교육재단']
 subcategory: '政治與民主'
-tags:
-  - '민주운동'
-  - '림택혈사건'
-  - '반핵운동'
-  - '정치희생자'
-  - '자린교육재단'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-05-16T05:07:55+08:00'
+translatedAt: '2026-11-05T00:00:25.924068+00:00'
 ---
 
 # 린이숭: 대만성 의원에서 반핵4의 도덕적 상징까지
@@ -73,19 +70,19 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 ## 참고 자료
 
-[^1]: [林義雄 — 위키백과](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — 생애 개요, 1977 대만성 의원, 1998 민주진보당 제8차 당대표 직선, 1987 하버드 MPA 기록. 또한 [대만 사실 검증 센터: 린이숭 2006 탈당 해명](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/) 참고.
+[^1]: [임의웅 — 위키백과](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — 생애 개요, 1977년 대만 성의원, 1998년 민진당 제8대 주석 최초 직선, 1987년 하버드 MPA 기록. 또 보기 [대만 사실확인센터: 임의웅 2006년 탈당 해명](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [아름다운 섬 사건 — 국가인권박물관](https://www.nhrm.gov.tw/) — 1979년 아름다운 섬 사건 전말, 체포 명단 및 군법 재판 자료.
+[^2]: [메이리다오 사건 — 국가인권박물관](https://www.nhrm.gov.tw/) — 1979년 메이리다오 사건의 전말, 체포자 명단 및 군법 재판 자료.
 
-[^3]: [림택 혈사건 — 국가인권박물관](https://www.nhrm.gov.tw/w/nhrm/home) — 림택 혈사건 사건 파일 및 미해결 현황 설명.
+[^3]: [임택 혈안 — 국가인권박물관](https://www.nhrm.gov.tw/w/nhrm/home) — 임택 혈안 사건 기록 및 미해결 현황 설명.
 
-[^4]: [민주진보당 당사 — 민주진보당 공식 웹사이트](https://www.dpp.org.tw/) — 창당 과정 및 린이숭 1998‑2000 당대표 시기의 당무 기록. 또한 [타이페이 타임스: 전 DPP 대표 탈당 (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603)에서 2006/1/24 탈당 경위 기록.
+[^4]: [민주진보당 당사 — 민진당 공식 홈페이지](https://www.dpp.org.tw/) — 창당 과정과 임의웅 1998-2000년 당주석 재임 기간 당무 기록. 또 보기 [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) 기록 2006/1/24 탈당 경위.
 
-[^5]: [자린교육재단 공식 웹사이트](https://www.tzlin.org.tw/) — 재단 목적, 자린 정원 소개 및 활동 정보.
+[^5]: [자림교육기금회 공식 홈페이지](https://www.tzlin.org.tw/) — 기금회 취지, 자림 단지 소개 및 활동 정보.
 
-[^6]: [2014년 반핵4 금식 보도 — 자유시보](https://news.ltn.com.tw/) — 2014년 4월 린이숭 금식 행동 전말 및 핵4 공사 중단·폐쇄 결정 확인.
+[^6]: [2014년 반핵4 단식 보도 — 자유시보](https://news.ltn.com.tw/) — 2014년 4월 임의웅 단식 행동 전말과 핵4 공사 중단 봉인 결정 확인.
 
-[^7]: [반핵운동 사료 — 녹색 시민 행동 연합](https://gcaa.org.tw/) — 대만 반핵운동 역사적 맥락 및 린이숭 역할 기록.
+[^7]: [반핵 운동 사료 — 녹색시민행동연맹](https://gcaa.org.tw/) — 대만 반핵 운동 역사적 맥락과 임의웅 역할 기록.
 
 ## 연관 읽기
 
