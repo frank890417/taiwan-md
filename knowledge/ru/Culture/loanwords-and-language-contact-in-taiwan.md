@@ -3,22 +3,27 @@ title: 'Тайваньские заимствования и явления яз
 description: 'От бэньдан до шипинь: история языкового контакта одного острова, раскрывающая, как Тайвань стала самой успешной в мире лабораторией интеграции заимствований'
 date: 2026-03-23
 category: 'Culture'
+tags:
+  [
+    'Лингвистика',
+    'Социолингвистика',
+    'Культура Тайваня',
+    'Языковой контакт',
+    'Заимствования',
+  ]
 subcategory: '語言與文字'
 author: 'Taiwan.md'
-tags:
-  - 'Лингвистика'
-  - 'Социолингвистика'
-  - 'Культура Тайваня'
-  - 'Языковой контакт'
-  - 'Заимствования'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
-translatedAt: '2026-07-25T06:34:25+08:00'
+translatedAt: '2026-11-05T07:02:38.923463+00:00'
 ---
 
 > **30-секундный обзор:** Явление «заимствований», которого тайваньцы чаще всего обвиняют, на самом деле делает Тайвань самой успешной в мире лабораторией интеграции заимствований.
