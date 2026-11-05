@@ -1,20 +1,22 @@
 ---
 title: '대만 인공생식: 배아는 국경을 넘어도 가족은 법을 자동으로 넘지 못한다'
 description: '2020년, 동성애 커플 모타와 시티는 IVF를 위해 캄보디아로 갔고, 4년 동안 약 200만 위안을 지출했다. 대만은 2007년 인공생식법을 제정했고 2021년에는 시험관 아기 보조를 확대했으며, 2025년 법 개정 초안에서야 미혼 여성과 기혼 동성애 커플을 포함시켰다. 기술은 이미 성숙했으나 법이 따라잡아야 할 것은 출생 방식뿐만 아니라 가족이 될 자격을 가진 사람이 누구인지이다.'
-category: 'Society'
-subcategory: '人權與平等'
-tags: ['인공생식', '시험관 아기', '생식권', '동성결혼', '저출산']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 10
+category: 'Society'
+tags: ['인공생식', '시험관 아기', '생식권', '동성결혼', '저출산']
+subcategory: '人權與平等'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣人工生殖.md'
-sourceCommitSha: '8a773c917'
-sourceContentHash: 'sha256:c4ca8b53f4bb3480'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:5dee1eed356027d4'
 sourceBodyHash: 'sha256:77e3b99bc535ad5d'
-translatedAt: '2026-09-12T21:11:40+08:00'
+translatedAt: '2026-11-05T14:28:23.679348+00:00'
 ---
 
 > **30초 요약:** 2020년, 동성애 커플 모타와 시티는 캄보디아에서 IVF(체외수정)를 받기 위해 4년 동안 약 200만 위안을 지출했다. 대만의 의료 기술은 이미 성숙했으나 법은 오랫동안 이성 결혼 부부에게만 서비스를 제공하도록 허용했다. 2007년 인공생식법부터 2025년 법 개정 초안까지, 이 글이 주목하는 것은 '생할 수 있는가'가 아니라 '누가 진료실로 들어갈 수 있는가', 출생 후 누가 인정을 받는가, 그리고 대리모가 남긴 과제이다. [^1]
