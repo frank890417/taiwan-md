@@ -1,20 +1,24 @@
 ---
-title: '페가트론(Pegatron) - 전자 위탁생산의 숨은 강자'
-description: '에이수스에서 분사해 탄생한 위탁생산 거대 기업으로, iPhone, 게임기, 노트북 뒤에 있는 숨은 제조자이자 「전자 5형제」 중 하나'
+title: '페가트론: 애플 아이폰과 닌텐도 스위치를 조립하는 OEM 공장'
+description: "페가트론은 대만의 전자 위탁 생산 업체로, 자체 브랜드를 만들지 않고 전문적으로 타사 제품을 조립 생산합니다. 애플의 아이폰과 맥북, 닌텐도 스위치, 소니 플레이스테이션, 마이크로소프트 엑스박스 등 모두 그 생산라인에서 나온 모델이 있습니다. 2008년 아수스(ASUS)에서 분사 독립하여 동쯔셴(童子賢)이 회장을 맡았으며, 2024년 매출 약 NT$1.3조를 기록해 콴타(廣達), 위스트론(緯創), 인벤텍(仁寶), 컴팔(英業達)과 함께 '전자 5대 기업'으로 불립니다. 애플이 매출의 거의 절반을 차지해 최대 고객이자 최대 리스크입니다."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
+tags: ['경제', '기업', '전자 위탁 생산', '제조업', 'ODM']
 subcategory: '企業列傳'
-tags: ['경제', '기업', '전자 위탁생산', '제조업', 'ODM']
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-05-15T13:52:06+08:00'
+translatedAt: '2026-11-05T22:24:14.249345+00:00'
 ---
 
 > **30초 개요**
@@ -221,12 +225,12 @@ ESG 개념이 부상하면서 녹색 제조 역량을 갖춘 위탁생산 업체
 
 ## 참고 자료
 
-[^1]: [페가트론 공식 웹사이트](https://www.pegatroncorp.com/) — 페가트론 기업 소개, 사업 범위 및 세계 제조 배치
+[^1]: [페가트론 공식 웹사이트](https://www.pegatroncorp.com/) — 페가트론 기업 소개, 사업 범위 및 글로벌 제조 배치
 
-[^2]: [쥐헝망 — 2025년 세계 EMS 업체 순위](https://www.cnyes.com/) — 2025년 최신 데이터에 따르면 세계 EMS 순위가 조정되었고, 위스트론이 세계 2위 EMS 업체로 올라섰음
+[^2]: [쥬헝왕 — 2025년 글로벌 EMS 업체 순위](https://www.cnyes.com/) — 2025년 최신 데이터에 따르면 글로벌 EMS 순위가 조정되었으며, 위스트론이 글로벌 2위 EMS 업체로 도약했습니다.
 
-[^3]: [위키백과 — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c는 2013년 9월 10일 공식 발표되었으며, 2012년이 아님. 페가트론은 주요 위탁생산 업체임
+[^3]: [위키백과 — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — iPhone 5c는 2013년 9월 10일 정식 발표되었으며, 2012년이 아닙니다. 페가트론이 주요 위탁 생산 업체입니다.
 
-[^4]: [행정원 — 국가에너지 및 탄소감축판공실](https://www.ey.gov.tw/) — 퉁쯔셴은 2024년 행정원 국가에너지 및 탄소감축판공실 주임위원에 취임했으며, 동시에 페가트론 회장직도 계속 맡고 있음
+[^4]: [행정원 — 국가 에너지 및 탄소 감축 사무실](https://www.ey.gov.tw/) — 동쯔셴이 2024년 행정원 국가 에너지 및 탄소 감축 사무실 주임위원으로 취임했으며, 동시에 페가트론 회장직을 유지하고 있습니다.
 
-[^5]: [위키백과 — 페가트론](https://zh.wikipedia.org/wiki/和碩聯合科技) — 페가트론의 2008년 에이수스 분사 설립, 회사 연혁 및 주요 고객 설명
+[^5]: [위키백과 — 페가트론](https://zh.wikipedia.org/wiki/和碩聯合科技) — 페가트론은 2008년 에이수스에서 분사해 설립되었으며, 회사 연혁 및 주요 고객 설명.
