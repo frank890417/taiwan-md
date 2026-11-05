@@ -1,20 +1,22 @@
 ---
-title: '台湾原住民族16族文化マップ'
-description: '「16」は自然に生まれた数字ではなく、交渉の結果です。約21万人のアミ族から441人のカナカナフ族まで、台湾原住民族の文化の厚さは、いかなる公式名鑑をも超えています。'
+title: '台湾原住民族16族の文化地図'
+description: '「16」は自然に生まれた数字ではなく、交渉の結果です。21万人のアミ族から441人のカナカナブ族まで、台湾原住民族の文化的厚みはどの公式名簿よりもはるかに深いものです。'
 date: 2026-03-29
-author: 'Taiwan.md Contributors'
 category: 'Culture'
+tags: ['先住民族', '文化', '祭典', '言語', '現代創作']
 subcategory: '族群文化'
-tags: ['原住民族', '文化', '祭典', '言語', '現代創作']
-readingTime: 9
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
-translatedAt: '2026-06-16T17:10:30Z'
+translatedAt: '2026-11-05T05:14:47.156778+00:00'
 ---
 
 # 台湾原住民族16族文化マップ

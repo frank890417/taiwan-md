@@ -1,19 +1,22 @@
 ---
 title: '台湾先住民神話：洪水から創世までの口承叙事詩'
 description: '台湾先住民の神話は、単なる古い物語ではなく、民族の記憶と文化継承の生きた化石であり、自然と共存する知恵と生命観を担っています。'
-category: Culture
-tags: ['先住民', '神話', '口承文学', '台湾文化']
-author: 'Taiwan.md Contributors'
 date: 2026-04-17
-readingTime: 8
+category: 'Culture'
+tags: ['先住民', '神話', '口承文学', '台湾文化']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/原住民神話.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
-translatedAt: '2026-06-11T16:38:27Z'
+translatedAt: '2026-11-05T05:23:14.872301+00:00'
 ---
 
 > **30秒でわかる概要：** 台湾という島は、地理的な多様性を誇るだけでなく、文化神話の宝庫でもあります。タイヤル族の裂石創生から、ブヌン族の射日伝説、さらにアミ族の大洪水と兄妹婚に至るまで、これらの口承叙事詩は各々の民族の宇宙観を形作るだけでなく、自然環境との深い関わりと適応の知恵を反映しています。これらの神話は、台湾先住民文化を理解する上で欠かせない鍵となっています。

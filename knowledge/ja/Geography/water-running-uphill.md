@@ -10,11 +10,13 @@ featured: false
 lastVerified: 2026-08-03
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Geography/水往上流.md'
-sourceCommitSha: '211401fe4'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
 sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-08-09T15:02:41+08:00'
+translatedAt: '2026-11-05T05:03:35.544759+00:00'
 ---
 
 > **30秒概要：** 台東県東河郷都蘭村の「水往上流」は、幅半メートルにも満たない灌漑用水路でありながら、台湾で最も有名な「反直感的な景点」の一つです。実地測量では水路は実際に約0.5〜0.6度下向きに傾斜しており、隣の道路の傾斜角度の方がより大きいため、二つの傾斜線が並んで見えると、脳はより傾斜の大きい道路を基準水平面とみなし、より傾斜の小さい水路を「上流へ流れている」と読み替えます。これは視覚システムの参照系錯覚であり、重力や磁場が失効したわけではありません。この水路は元々地元アミ族の人々が開削した灌漑用水路であり、1980年代の国内旅行ブーム後に公式に碑が建てられ奇観としてパッケージ化され、近年また「全台最も無駄な景点」というネット評価によって新たな議論を呼んでいます。
