@@ -1,7 +1,8 @@
 ---
 title: '長老向け画像：蓮の花と仏陀の背後にあるデジタルの温もりと情報戦場'
 description: '長老向け画像は、台湾の高齢者がデジタル・デバイドを乗り越えた証明であるだけでなく、ソーシャルプラットフォームにおける情感交流の媒体でもあります。しかし、その独特な形式は偽情報拡散の温床となっており、若年世代の間では独自のミーム文化へと進化しています。'
-category: Culture
+date: 2026-04-18
+category: 'Culture'
 tags:
   [
     '長老向け画像',
@@ -12,17 +13,19 @@ tags:
     '偽情報',
     'ミーム',
   ]
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
-date: 2026-04-18
-readingTime: 10
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
+readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Culture/長輩圖.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:a9ec01947f1e86fd'
 sourceBodyHash: 'sha256:5921893fd25166ac'
-translatedAt: '2026-06-11T16:38:27Z'
-featured: false
+translatedAt: '2026-11-05T05:35:51.081203+00:00'
 ---
 
 > **30 秒概覽：**
