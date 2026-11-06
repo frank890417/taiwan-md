@@ -1,27 +1,31 @@
 ---
-title: 'Quitter l’ONU : les 17 minutes de 1971, ou comment Taïwan est passé de « Chine » à orphelin international'
-description: 'Le 25 octobre 1971, au moment où Chow Shu-kai descendit de la tribune de l’Assemblée générale de l’ONU, la République de Chine passa du statut de membre fondateur des Nations unies à celui d’observateur toujours tenu à l’écart. Un demi-siècle plus tard, cette décision fondée sur l’idée que « les Han et les bandits ne peuvent coexister » continue de produire ses effets : en 2025, les États-Unis ont adopté une loi réaffirmant que la résolution 2758 n’a jamais traité de la représentation de Taïwan.'
+title: "Le retrait de Taïwan de l'ONU : ces 17 minutes de 1971, comment un membre fondateur est devenu un outsider"
+description: "Le 25 octobre 1971, Chou Shu-kai descend de la tribune de l'Assemblée générale, et la République de Chine passe de membre fondateur de l'ONU à un outsider exclu. En apparence, c'est un retrait tragique sous le principe « les Han et les rebelles ne peuvent coexister », mais Chiang Kai-shek avait en réalité accepté dès le début de 1971 le compromis des « deux Chines ». La clé réelle fut la visite secrète de Kissinger à Pékin en juillet de la même année. Un demi-siècle plus tard, la Chambre des représentants des États-Unis adopte en 2025 une loi réaffirmant que la résolution 2758 n'a jamais réglé la question de la représentation de Taïwan."
 date: 2026-05-02
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
-    'diplomatie',
-    'histoire',
-    'Nations unies',
-    'guerre froide',
-    'relations entre les deux rives du détroit',
-    'droit international',
+    'Diplomatie',
+    'Histoire',
+    'ONU',
+    'Guerre froide',
+    'Relations transdétroit',
+    'Droit international',
   ]
+subcategory: '民主與治理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-05-12T21:49:55+08:00'
+translatedAt: '2026-11-06T04:30:00.047535+00:00'
 ---
 
 Dans la nuit du 25 octobre 1971, dans la salle de l’Assemblée générale des Nations unies à New York, le ministre des Affaires étrangères de la République de Chine, Chow Shu-kai, acheva de lire sa déclaration, se retourna, descendit de la tribune de marbre vert, et toute la délégation quitta la salle en file. Entre son entrée et son départ, moins de 20 minutes s’étaient écoulées[^1]. Une demi-heure plus tard, la résolution 2758 fut adoptée par 76 voix contre 35 : les « représentants de Tchang Kaï-chek » furent expulsés, et la République populaire de Chine prit officiellement le siège de la Chine. Taïwan, qui avait été membre fondateur de l’ONU — le 24 août 1945, Tchang Kaï-chek avait signé à Chongqing l’instrument de ratification de la Charte des Nations unies[^2] — devint du jour au lendemain un outsider des organisations internationales.
