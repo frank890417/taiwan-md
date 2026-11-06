@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-11-06T13:03:36.309758+00:00'
 ---
 
 # Trịnh Thành Công: Sinh ở Nhật, lớn lên ở Trung Quốc, chết ở Đài Loan trong 37 năm
