@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-07T06:54:53+08:00",
-    "zhCommitHead": "b98e8d727",
+    "lastUpdated": "2026-11-07T07:09:59+08:00",
+    "zhCommitHead": "65504216c",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -84,17 +84,17 @@
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1110,
+        "fresh": 1111,
         "stale": 32,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1119,
+        "fresh": 1120,
         "stale": 25,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 4,
         "orphan": 0
       },
@@ -25674,8 +25674,8 @@
           "sourceContentHash": "sha256:451bca716e820c75",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
           "translatedAt": "2026-11-06T21:52:13.720747+00:00",
-          "translationLastCommit": "0ca64d66",
-          "translationLastModified": "2026-10-10T23:05:49+08:00",
+          "translationLastCommit": "65504216",
+          "translationLastModified": "2026-11-07T06:54:54+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 84851,
@@ -25808,20 +25808,18 @@
         "hi": {
           "path": "hi/Technology/tasa-taiwan-space-agency.md",
           "translatedFrom": "Technology/國家太空中心.md",
-          "sourceCommitSha": "faa905d72",
-          "sourceContentHash": "sha256:27a79bac11713a70",
+          "sourceCommitSha": "50face4e0",
+          "sourceContentHash": "sha256:451bca716e820c75",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
-          "translatedAt": "2026-10-08T15:46:06.577904+00:00",
+          "translatedAt": "2026-11-06T22:55:17.228917+00:00",
           "translationLastCommit": "a1355f5a",
           "translationLastModified": "2026-10-31T08:41:46+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 182704,
+          "bytes": 183193,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/tasa-taiwan-space-agency.md",
@@ -192439,20 +192437,18 @@
         "ar": {
           "path": "ar/History/taiwan-womens-movement.md",
           "translatedFrom": "History/婦女運動.md",
-          "sourceCommitSha": "e974b4c9e",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
-          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translatedAt": "2026-11-06T22:55:01.422633+00:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 48694,
+          "bytes": 47503,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-womens-movement.md",
@@ -233763,8 +233759,8 @@
           "sourceContentHash": "sha256:267464e4c001cd84",
           "sourceBodyHash": "sha256:fa65c73af916289a",
           "translatedAt": "2026-11-06T21:16:50.681363+00:00",
-          "translationLastCommit": "52dd5c7d",
-          "translationLastModified": "2026-09-11T07:28:49+08:00",
+          "translationLastCommit": "65504216",
+          "translationLastModified": "2026-11-07T06:54:54+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 19085,
