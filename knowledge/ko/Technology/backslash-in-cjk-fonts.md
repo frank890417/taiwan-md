@@ -12,11 +12,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: "큰 글자 '功' 옆에는 그 Big5 코드인 A5와 5C 두 칸이 있으며, 5C 칸은 화살표로 ASCII 0x5C 역슬래시를 가리키고, 아래쪽에는 Python의 실제 출력이 표시되어 허공개 세 글자의 두 번째 바이트가 모두 역슬래시임을 보여준다."
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:13+08:00'
+translatedAt: '2026-11-06T08:51:04.719874+00:00'
 ---
 
 > **30초 요약:** 나는 번역 상태 스크립트를 실행했고 화면에 4546이 표시되었으며 전부 `root`에 있었다. GitHub의 Linux CI는 녹색이었다. 나중에 두 가지 사실을 명확히 알게 되었다. Windows 경로의 역슬래시를 스크립트가 슬래시로 나누지 못했다. '功'의 Big5 코드 후반부는 그 자체가 ASCII의 `\`이다. 두 메커니즘은 다르지만 같은 번체 중국어 Windows에서 자주 함께 발생한다.
