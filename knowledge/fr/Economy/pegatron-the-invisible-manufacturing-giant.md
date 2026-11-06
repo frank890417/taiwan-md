@@ -1,27 +1,31 @@
 ---
-title: 'Pegatron - le champion invisible de la sous-traitance électronique'
-description: "Géant de la sous-traitance issu d'une scission d'Asus, fabricant invisible derrière l'iPhone, les consoles de jeu et les ordinateurs portables, et l'un des « cinq grands de l'électronique »"
+title: "Pegatron : l'usine de sous-traitance qui assemble les iPhone pour Apple et les Switch pour Nintendo"
+description: "Pegatron est un sous-traitant électronique taïwanais qui ne produit pas sa propre marque, mais se spécialise dans l'assemblage de produits pour d'autres : des modèles d'iPhone et de MacBook d'Apple, de Switch de Nintendo, de PlayStation de Sony, de Xbox de Microsoft sortent de ses lignes de production. Issu d'une scission d'Asus en 2008, présidé par T.H. Tung, l'entreprise a réalisé un chiffre d'affaires d'environ 1,3 billion de dollars néo-taïwanais en 2024, et figure aux côtés de Quanta, Wistron, Inventec et Compal parmi les « cinq grands de l'électronique ». Apple représente près de la moitié de son chiffre d'affaires, en faisant son plus grand client mais aussi son plus grand risque."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Économie',
-    'Entreprises',
+    'Entreprise',
     'Sous-traitance électronique',
     'Industrie manufacturière',
     'ODM',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,048 曝光 32 點擊（0.79%），主查詢「和碩做什麼」725、「和碩做什麼的」287 曝光；舊格式 title 與 45 字 description 都沒回答做什麼，改成直接講替哪些品牌組裝哪些產品'
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:db91579c11c3a26e'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:8ba7936b5e10ef76'
 sourceBodyHash: 'sha256:8c8993cc9ab020c5'
-translatedAt: '2026-05-15T13:52:06+08:00'
+translatedAt: '2026-11-06T00:11:01.503498+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes**
@@ -228,12 +232,12 @@ Le statut de champion invisible de Pegatron nous enseigne qu'à l'ère de la div
 
 ## Références
 
-[^1]: [Site officiel de Pegatron Corporation](https://www.pegatroncorp.com/) — Présentation de Pegatron, domaines d'activité et implantation manufacturière mondiale
+[^1]: [Site officiel de Pegatron](https://www.pegatroncorp.com/) — Présentation de l'entreprise Pegatron, ses domaines d'activité et sa répartition mondiale de la fabrication.
 
-[^2]: [Cnyes — Classement mondial 2025 des fabricants EMS](https://www.cnyes.com/) — Selon les dernières données de 2025, le classement mondial des EMS a été ajusté, Wistron étant montée au rang de deuxième plus grand fabricant EMS mondial
+[^2]: [Cnyes — Classement mondial des EMS 2025](https://www.cnyes.com/) — Selon les dernières données de 2025, le classement mondial des EMS a été ajusté ; Wistron est devenu le deuxième plus grand fournisseur EMS au monde.
 
-[^3]: [Wikipédia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — L'iPhone 5c a été officiellement présenté le 10 septembre 2013, et non en 2012 ; Pegatron en était le principal sous-traitant
+[^3]: [Wikipédia — iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c) — L'iPhone 5c a été officiellement annoncé le 10 septembre 2013, et non en 2012 ; Pegatron en est le principal assembleur.
 
-[^4]: [Yuan exécutif — Bureau national de l'énergie et de la réduction du carbone](https://www.ey.gov.tw/) — Tung Tzu-hsien est devenu en 2024 président du Bureau national de l'énergie et de la réduction du carbone du Yuan exécutif, tout en conservant son poste de président de Pegatron
+[^4]: [Exécutif — Bureau national de l'énergie et de la réduction du carbone](https://www.ey.gov.tw/) — T.H. Tung a été nommé en 2024 président du Bureau national de l'énergie et de la réduction du carbone de l'Exécutif, tout en conservant son poste de président de Pegatron.
 
-[^5]: [Wikipédia — Pegatron Corporation](https://zh.wikipedia.org/wiki/和碩聯合科技) — Création de Pegatron en 2008 par scission d'Asus, historique de l'entreprise et principaux clients
+[^5]: [Wikipédia — Pegatron](https://zh.wikipedia.org/wiki/和碩聯合科技) — Pegatron a été créé en 2008 par scission d'ASUS ; historique de l'entreprise et description de ses principaux clients.

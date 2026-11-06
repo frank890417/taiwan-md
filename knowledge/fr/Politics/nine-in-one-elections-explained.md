@@ -1,18 +1,18 @@
 ---
-title: "Qu'est-ce que les élections neuf-en-un ? Neuf postes, quatre promotions, trente ans d'évolution de l'autonomie locale"
-description: "Le terme « neuf-en-un » est apparu pour la première fois en 2014, fruit de quatre réorganisations géographiques urbaines (1967, 1979, 2010, 2014) et de trois jalons institutionnels (1994, 1999, 2014). Neuf postes élus le même jour — maires de municipalités spéciales, conseillers de municipalités spéciales, maires de comtés/villes, conseillers de comtés/villes, maires de cantons/villes, représentants de cantons/villes, chefs de districts montagneux autochtones, représentants de districts montagneux autochtones, chefs de villages/quartiers — cristallisent trente ans d'évolution de l'autonomie locale à Taïwan."
+title: "Qu'est-ce que l'élection des neuf en un ? Neuf types de postes, quatre promotions, trente ans d'évolution de l'autonomie locale"
+description: "L'élection des neuf en un est le vote simultané pour neuf postes publics locaux : maire de municipalité spéciale, conseiller de municipalité spéciale, maire de comté/ville, conseiller de comté/ville, maire de township/ville, représentant des citoyens de township/ville, chef de district autochtone de montagne, représentant de district et chef de village/li, tous avec un mandat de quatre ans. Le jour du vote en 2026 est le samedi 28 novembre, ouverture à 8 heures du matin, l'heure du vote étant selon l'annonce de la Commission électorale centrale. Ce format n'a pris forme qu'en 2014, résultat de l'accumulation de trente ans d'élections directes des maires des municipalités spéciales, des promotions de Taipei et Kaohsiung, des cinq municipalités spéciales et de Taoyuan."
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'élections neuf-en-un',
-    'fonctionnaires locaux',
-    'maire de municipalité spéciale',
-    'maire de comté/ville',
-    'conseiller',
-    'chef de village/quartier',
-    'loi sur le système local',
-    'élections 2026',
+    'Élection des neuf en un',
+    'Fonctionnaires publics locaux',
+    'Maire de municipalité spéciale',
+    'Maire de comté/ville',
+    'Conseiller',
+    'Chef de village/li',
+    'Loi sur le système local',
+    'Élection 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -20,11 +20,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-03T00:30:02+08:00'
+translatedAt: '2026-11-05T23:58:58.123299+00:00'
 ---
 
 # Qu'est-ce que les élections neuf-en-un ?
