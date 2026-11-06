@@ -18,20 +18,24 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/taipei-city-council-hall-front-view-20201031.webp'
+imageCredit: 'Solomon203'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg'
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/呱吉.md'
-sourceCommitSha: 'b1ce053ac'
-sourceContentHash: 'sha256:c94a65d34db3fe04'
-sourceBodyHash: 'sha256:8811d54bcacf4b19'
-translatedAt: '2026-09-12T11:18:08+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:14b3fdc10f7aebe5'
+sourceBodyHash: 'sha256:c809a24a3b6ba0e4'
+translatedAt: '2026-11-06T08:24:54.681790+00:00'
 ---
 
-> **Resumo em 30 segundos:** Guaji, nome verdadeiro Chiu Wei-chieh (邱威傑). Em 2017, ele e colegas quiseram transformar a "eleição para chefe de bairro" num reality show, mas o projeto evoluiu para a eleição de vereador de Taipé em 2018, onde concorreu como independente no terceiro distrito eleitoral de Taipé, obtendo 11.786 votos e sendo eleito[^1]. A PTS descreveu-o como o primeiro YouTuber de Taiwan a entrar na política[^2]. A sua participação política não fundiu internet e política numa só coisa; pelo contrário, expôs a distância entre ambas perante o público: vídeos podem criar ritmo através de edição, mas o parlamento e o terreno exigem compromisso de longo prazo. Em 2025, o "Não Olhe no Trabalho" parou de publicar e dissolveu-se, forçando este experimento iniciado como "abertura democrática" a confrontar finalmente a saída de membros da equipa, o impacto no tráfego causado por posicionamentos políticos e um défice operacional de vários milhões[^3].
+> **Visão geral em 30 segundos:** Guaji, nome verdadeiro Chiu Wei-chieh. Em 2017, ele e colegas planejavam filmar a eleição para chefe de bairro como um reality show; o projeto acabou evoluindo para a eleição de vereador de Taipé em 2018, na qual concorreu como independente no terceiro distrito eleitoral de Taipé, obteve 11.786 votos e foi eleito[^1]. A PTS descreve-o como o primeiro YouTuber de Taiwan a entrar na política[^2]. A sua entrada na política não fundiu internet e política numa coisa só; pelo contrário, expôs a diferença entre as duas perante o público: vídeos podem usar edição para criar ritmo, mas o parlamento e o mercado exigem compromisso de longo prazo. Em 2025, o _Não Olhe no Trabalho_ parou de publicar e se dissolveu, forçando esta experiência — iniciada como um «unboxing da democracia» — a finalmente enfrentar a perda de equipe, o impacto no tráfego causado por posicionamentos políticos e um déficit operacional de vários milhões de NT$[^3].
 
-![Fachada do edifício do Conselho Municipal de Taipé, simbolizando Guaji ter levado a criação na internet para o terreno institucional.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
+![Fachada do prédio da Câmara Municipal de Taipé, simbolizando como Guaji levou a criação na internet para o cenário institucional.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
 
-_Imagem: Solomon203, tirada a 31 de outubro de 2020, retirada da [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
+_Imagem: Solomon203, tirada em 31 de outubro de 2020, obtida no [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
 
 ## Uma ideia que nasceu só para virar programa
 
