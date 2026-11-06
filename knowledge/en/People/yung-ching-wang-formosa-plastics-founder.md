@@ -1,11 +1,11 @@
 ---
-title: 'Wang Yung-ching: From Rice Mill to the Two-Decade Battle for the Sixth Naphtha Cracker, and the Posthumous Inheritance Drama'
-description: 'Born in 1917 to a poor farming family in Xindian, Taipei, he dropped out of school at 15 and borrowed 200 Japanese yen from his father to open the "Shinko Rice Mill." In 1954, he founded Formosa Plastics, later earning the title "God of Management." In 1973, he proposed the Sixth Naphtha Cracker to the government; despite repeated rejections, he persisted for nearly two decades before winning approval, with mass production beginning in Mailiao, Yunlin, in 1998. He died in New York on October 15, 2008, at age 92, and the ensuing family inheritance dispute continued until around 2022.'
+title: 'Wang Yung-ching: From Rice Shop to the Twenty-Year Struggle for the Sixth Naphtha Cracker, and the Posthumous Inheritance Battle'
+description: 'Wang Yung-ching was from Xindian, Taipei. Born in 1917 to a poor farming family, he dropped out of school at 15, borrowed money from his father to open a rice shop, and went door-to-door recording each household''s rice consumption cycle. In 1954 he founded Formosa Plastics, later earning the title "God of Management." In 1973 he proposed the Sixth Naphtha Cracker, which was repeatedly rejected by the government; after nearly twenty years of persistence it was finally approved, and mass production began in Mailiao, Yunlin in 1998. He passed away in New York in 2008 at age 92, and the family inheritance dispute that followed continued until around 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Technology & Business',
+    'Technology and Business',
     'Formosa Plastics Group',
     'Petrochemical Industry',
     'Sixth Naphtha Cracker',
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 13,511 曝光 100 點擊（0.74%），查詢「王永慶哪裡人」56、「王永慶是誰」22 曝光；description 第一句先答台北新店人，從 181 字履歷串縮短。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-10-15T19:54:18.451465+00:00'
+translatedAt: '2026-11-06T04:27:45.426605+00:00'
 ---
 
 # Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War
