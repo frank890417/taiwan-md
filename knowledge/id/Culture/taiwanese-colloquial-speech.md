@@ -1,8 +1,8 @@
 ---
 title: 'Kode Lisan Taiwan: Dari "Bu Hao Yi Si" Hingga "D Dieja Babi", Bagaimana Empat Ungkapan Sehari-hari Menumbuhkan Identitas'
 description: 'Di Taiwan, "bu hao yi si" bisa mendahului permintaan maaf sebenarnya; "ha" tampak seperti tidak mengerti, tapi justru adalah penyeimbang percakapan lintas bahasa; @ disebut "tikus kecil", dan D saat menukar kertas ujian dieja "babi/Zhu". Keempat ungkapan menyimpan kesopanan, kesalahpahaman, email, dan fonologi bahasa Taiwan ke dalam kehidupan sehari-hari, sekaligus mengingatkan kita: yang disebut "logat Taiwan" bukan sekadar serangkaian pengucapan, melainkan metode pengenalan yang ditinggalkan oleh orang-orang yang hidup bersama.'
+date: 2026-08-20
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'Bahasa Mandarin Taiwan',
@@ -11,17 +11,19 @@ tags:
     'Email',
     'Budaya Kampus',
   ]
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-14T06:58:43+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-06T00:13:25.703156+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Di Taiwan, satu kalimat "bu hao yi si" tidak selalu berarti melakukan kesalahan besar, mungkin hanya untuk meminta jalan, membuka percakapan, atau mendekatkan jarak. Penelitian 2022 dengan 90 mahasiswa Universitas Taiwan menemukan, frasa ini lebih sering muncul dalam konteks keparahan umum atau rendah dibanding "dui bu qi".[^1] Suara "ha" juga bukan kekhasan Taiwan, melainkan frasa pendek yang diaktifkan manusia saat tidak mendengar jelas. Taiwan menyebut @ sebagai "tikus kecil", dan D saat menukar kertas ujian dieja "babi/Zhu".[^2] [^3] [^4] Keempat ungkapan ini menunjuk pada hal yang sama: bahasa tidak hanya menyampaikan isi, tapi juga mengelola jarak, mengenali teman, mempersingkat waktu penjelasan.
@@ -58,25 +60,25 @@ Temuan ini justru membuat "ha" lebih menarik. Ia bukan mantra rahasia milik oran
 
 "Ha" juga mengingatkan, budaya lisan tak bisa cari jawaban di kamus saja. Kamus mencatat bunyi standar dan arti kata, interaksi justru membiarkan satu karakter tumbuh tugas baru. Saat "ha" muncul di awal kalimat, tugasnya mungkin lebih dekat ke sebuah tombol daripada entri kamus: ditekan, lawan bicara harus merakit ulang kata-kata tadi.
 
-## @ Jadi "Tikus Kecil", Simbol Teknis Masuk Kelas
+## @ Menjadi "Tikus Kecil", Simbol Teknis Masuk ke Kelas
 
-![SVG simbol @ domain publik, melambangkan bagaimana simbol teknis di Taiwan tumbuh nama "tikus kecil"](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![SVG simbol @ domain publik, melambangkan bagaimana simbol teknis di Taiwan tumbuh nama "Tikus Kecil"](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-_Sumber gambar: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Domain publik. Gambar hanya disematkan via URL eksternal._
+_Sumber gambar: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Domain publik. Gambar hanya disematkan via tautan panas eksternal._
 
-Dalam format email RFC 5322, tugas @ sangat presisi. Ia memisahkan _local-part_ dengan _Internet domain_, bagian depan bagian akun, bagian belakang bagian domain. Dokumen standar menyebutnya _at-sign_, mendefinisikannya sebagai nilai ASCII 64.[^4]
+Dalam format email RFC 5322, tugas @ sangat presisi. Ia memisahkan local-part dengan Internet domain, bagian depan adalah bagian dari akun, bagian belakang adalah bagian dari domain. Dokumen standar menyebutnya at-sign, dan mendefinisikannya sebagai nilai ASCII 64.[^4]
 
-Insinyur butuh pemisah simbol. Anak sekolah butuh sesuatu yang hafal. Liputan BBC Mandarin merangkum sebutan @ di berbagai bahasa, mencantumkan "tikus kecil" Taiwan, "lingkaran A" Tiongkok daratan, serta keong Italia, bebek kecil Yunani, dll. Fungsi teknis simbol sama, tapi memori budaya masing-masing cari bentuk sendiri.[^5]
+Insinyur memerlukan sebuah pemisah. Anak-anak di sekolah butuh sesuatu yang bisa diingat. Laporan BBC Mandarin merangkum sebutan @ dalam berbagai bahasa, mencantumkan "Tikus Kecil" Taiwan, "Lingkaran A" Tiongkok daratan, serta keong Italia, bebek kecil Yunani, dan lain-lain. Fungsi teknis simbolnya sama, tapi memori budaya masing-masing menemukan bentuk sendiri untuknya.[^5]
 
-Ray Tomlinson 1971 memasukkan @ ke format alamat email jaringan, membuat simbol yang jarang muncul di teks umum, jadi jembatan antara akun dan domain.[^5] [^6] Orang Taiwan kemudian memanggilnya "tikus kecil", bukan mengubah RFC, juga bukan menambah standar formal bagi simbol. Ini metode pengajaran menerjemahkan alat abstrak jadi hewan di sekitar.
+Ray Tomlinson pada 1971 memasukkan @ ke dalam format alamat email jaringan, menjadikan simbol yang jarang muncul dalam teks umum itu menjadi jembatan antara akun dan domain.[^5] [^6] Orang Taiwan kemudian memanggilnya "Tikus Kecil", bukan untuk mengubah RFC, juga bukan menambah standar formal bagi simbol. Ini adalah metode pengajaran yang menerjemahkan alat abstrak jadi hewan di sekitar kita.
 
 ![Tata letak Zhuyin dan huruf Latin di keyboard Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-_Sumber gambar: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), penulis Zhongzheng North Road 711, lisensi CC BY-SA 3.0. Gambar hanya disematkan via URL eksternal, penggunaan wajib mempertahankan atribusi dan tautan lisensi._
+_Sumber gambar: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), penulis Zhongzheng North Road 711, lisensi CC BY-SA 3.0. Gambar hanya disematkan via tautan panas eksternal, saat digunakan harus mempertahankan atribusi dan tautan lisensi._
 
-Keunikan "tikus kecil", ia menyimpan sentuhan pendidikan komputer awal. Anak tak perlu dulu paham domain, akun, protokol jaringan, hafal dulu lingkaran yang mirip tikus, sudah bisa temukan di keyboard. Langkah pertama teknologi masuk hidup, sering bukan memahami sistem utuh, tapi menemukan nama yang bisa ditunjuk untuk simbol asing.
+Keunikan "Tikus Kecil" terletak pada dia mempertahankan sentuhan pendidikan komputer awal. Anak tak perlu dulu paham domain, akun, dan protokol jaringan, cukup ingat lingkaran yang mirip tikus, lalu ia bisa menemukannya di keyboard. Langkah pertama teknologi masuk ke kehidupan sering kali bukan memahami sistem utuh, melainkan menemukan nama yang bisa ditunjuk untuk simbol asing itu.
 
-Nama ini juga meninggal perbedaan generasi. Orang akrab dengan pengajaran email awal, bilang "kirim ke tikus kecil" teman sekelas langsung temukan @. Orang kenal internet lebih lambat, mungkin lebih sering bilang _at_, atau langsung baca seluruh alamat. Dua cara sama-sama selesai tugas, tapi yang pertama bawa kenangan kelas komputer sekolah dan keluarga Taiwan.
+Nama ini juga meninggalkan perbedaan generasi. Orang yang akrab dengan pengajaran email awal, berkata "kirim ke Tikus Kecil" sudah bisa membuat teman segera menemukan @. Yang baru kenal internet nanti, mungkin lebih sering bilang at, atau langsung membaca seluruh alamatnya. Dua cara sama-sama menyelesaikan tugas, tapi yang pertama membawa kenangan kelas komputer kampus dan rumah tangga Taiwan.
 
 ## Kenapa D Jadi "Babi" atau "Zhu"
 
@@ -108,26 +110,26 @@ Rasa identitas lisan Taiwan, juga tidak hanya dari kosakata unik. Datang dari se
 
 ## Referensi
 
-[^1]: [Eksplorasi Penggunaan dan Persepsi Tingkat Keparahan Kata Permintaan Maaf Umum Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tesis S2 Universitas Nasional Taiwan 2022, menganalisis 90 kuesioner mahasiswa Universitas Taiwan, mempelajari pilihan "dui bu qi", "bao qian", "bu hao yi si" di konteks sosial berbeda.
+[^1]: [Eksplorasi Penggunaan dan Persepsi Tingkat Keparahan Ungkapan Permintaan Maaf Umum di Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tesis magister Universitas Nasional Taiwan 2022, menggunakan 90 kuesioner mahasiswa NTU untuk menganalisis pilihan 「對不起」、「抱歉」與「不好意思」 dalam konteks sosial yang berbeda.
 
-[^2]: [Kementerian Pendidikan "Kamus Besar Bahasa Mandarin Edisi Revisi": Ha](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Halaman kamus resmi Kementerian Pendidikan, mencatat Zhuyin "ha" ㄍㄜˊ、ㄏㄚˊ serta arti standar kerang, kerang darah, kodok, dipakai tulisan ini membedakan bentuk karakter dan penggunaan lisan.
+[^2]: [Kamus Bahasa Mandarin Revisi Kementerian Pendidikan: 「蛤」](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Halaman kamus resmi Kementerian Pendidikan, mencakup bopomofo 「蛤」 ㄍㄜˊ、ㄏㄚˊ serta arti standar seperti 蛤蜊、文蛤、蛤蟆, untuk membedakan bentuk karakter dan penggunaan lisan dalam artikel ini.
 
-[^3]: [Apakah "Huh?" Kata Universal?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Penelitian lintas bahasa PLOS ONE, menganalisis bentuk dan fungsi "huh?" sebagai pemicu perbaikan percakapan, mengingatkan pembaca jangan salah tulis "ha" jadi fenomena khas Taiwan.
+[^3]: [Apakah “Huh?” Kata Universal?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Penelitian lintas bahasa PLOS ONE, menganalisis bentuk dan fungsi huh? sebagai inisiator perbaikan percakapan, mengingatkan pembaca untuk tidak menuliskan 「蛤」 sebagai fenomena khas Taiwan.
 
-[^4]: [RFC 5322: Format Pesan Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Standar format email IETF, bagian 3.4.1 mendefinisikan peran teknis @ memisahkan _local-part_ dan _Internet domain_ di _addr-spec_.
+[^4]: [RFC 5322: Format Pesan Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Standar format email IETF, Bagian 3.4.1 mendefinisikan peran teknis @ dalam addr-spec memisahkan local-part dan domain Internet.
 
-[^5]: [BBC Mandarin: Bagaimana Berbagai Bahasa Menyebut Simbol "@"?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Liputan BBC Future Mandarin, merangkum Taiwan sebut "tikus kecil" dan perbedaan budaya sebutan @ berupa hewan/bentuk di dunia, juga memperkenalkan sejarah simbol masuk email.
+[^5]: [BBC Chinese: Bagaimana Berbagai Bahasa Menyebut Simbol 「@」?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Laporan BBC Future versi Chinese, merangkum sebutan Taiwan 「小老鼠」 dan perbedaan budaya sebutan @ dengan hewan atau bentuk di berbagai tempat, serta memperkenalkan sejarah simbol masuk ke email.
 
-[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Profil resmi Internet Hall of Fame, mencatat kontribusi Ray Tomlinson untuk email jaringan dan standar surat awal.
+[^6]: [Raymond Tomlinson — Dewan Kehormatan Internet](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Profil resmi Dewan Kehormatan Internet, mencatat kontribusi Ray Tomlinson terhadap email jaringan dan standar email awal.
 
-[^7]: [Kamus Umum Bahasa Taiwan Kementerian Pendidikan: Babi](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Kamus resmi Bahasa Taiwan Kementerian Pendidikan, mencatat "babi" sebagai _ti/tu_, menyediakan dasar linguistik kedekatan bunyi D dengan bahasa Taiwan.
+[^7]: [Kamus Kata Umum Bahasa Taiwan Kementerian Pendidikan: 豬](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Kamus resmi Bahasa Taiwan Kementerian Pendidikan, mencantumkan 「豬」 sebagai ti/tu, memberikan dasar linguistik kedekatan bunyi D dengan Bahasa Taiwan.
 
-[^8]: [SETN: Orang Asing Baca Jawaban D Gimana? Pasti Bukan "Babi"](https://www.setn.com/news/868195) — Liputan berita 2020 merangkum diskusi PTT dan tukar koreksi kertas kampus, tulisan ini hanya pakai untuk mendukung penggunaan dan peredaran sebagian, tidak memperluas jadi standar serentak seluruh Taiwan.
+[^8]: [SETN News: Bagaimana Orang Asing Mengeja D sebagai Jawaban? Bukan 「豬」](https://www.setn.com/news/868195) — Berita 2020 merangkum diskusi internet PTT dan pertukaran koreksi ujian di kampus, artikel ini hanya mendukung penggunaan dan penyebaran sebagian, tidak memperluasnya menjadi standar seragam di seluruh Taiwan.
 
-[^9]: [Global Chinese Network: ABC Gou Yao Babi](https://biweekly.huayuworld.org/Material/372/Text) — Materi ajar nyanyian klasik Komite Urusan Orang Tionghoa Luar Negeri Republik Tiongkok, mencatat teks lengkap nyanyian anak Taiwan dan menandai Bahasa Taiwan, menyediakan konteks bahan asal lisan kampus.
+[^9]: [Global Chinese Network: ABC Anjing Gigit Babi](https://biweekly.huayuworld.org/Material/372/Text) — Materi ajar lagu anak-anak klasik Komisi Urusan Orang Tionghoa Luar Negeri Republik China, mencakup teks lengkap bacaan Taiwan dan penandaan Bahasa Taiwan, memberikan konteks materi asli tradisi lisan di sekolah.
 
-[^10]: [Taiwan.md: Nyanyian Kampus Taiwan](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artikel nyanyian kampus Taiwan.md yang ada, sudah merangkum "ABC Dog Bites Pig" dan lisan lintas generasi, tulisan ini hindari duplikasi dengan fokus fungsi pengenalan jawaban D.
+[^10]: [Taiwan.md: Lagu Anak-anak Halaman Sekolah Taiwan](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artikel lagu anak-anak sekolah Taiwan.md yang sudah ada, telah mengumpulkan 「ABC Dog Bites Pig」 dan tradisi lisan lintas generasi, artikel ini menggunakan fungsi pengenalan jawaban D untuk menghindari duplikasi.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Halaman file SVG @ domain publik, artikel sematkan via URL _hotlink_ `upload.wikimedia.org`, tidak unduh gambar.
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Halaman file SVG simbol @ domain publik, artikel menyematkan URL panas `upload.wikimedia.org`, tidak mengunduh gambar.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Halaman file gambar keyboard Taiwan, disediakan Zhongzheng North Road 711, lisensi Creative Commons Attribution-ShareAlike 3.0, penggunaan wajib pertahankan atribusi dan tautan lisensi.
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Halaman file gambar papan ketik Taiwan, disediakan oleh Zhongzheng North Road 711, lisensi Creative Commons Attribution-ShareAlike 3.0, penggunaan harus mempertahankan atribusi dan tautan lisensi.
