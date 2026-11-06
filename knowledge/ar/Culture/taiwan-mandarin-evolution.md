@@ -18,11 +18,13 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 12
 terminology_exempt: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
-translatedAt: '2026-09-09T15:32:52+08:00'
+translatedAt: '2026-11-06T21:10:53.834439+00:00'
 ---
 
 > **لمحة 30 ثانية:** لماذا يتحدث التايوانيون باللغة الصينية بهذه الطريقة؟ ليس نتيجة تصميم سياسي، بل تراكم طبيعي عبر أربعمائة سنة من الحياة الجزيرية. من أسماء الأماكن التي تركها الهولنديون، والتسرب التدريجي للكلمات اليابانية على مدى خمسين سنة، وانقسام المفردات في عام 1949، إلى الصراع اللغوي في عصر الإنترنت — كل طبقة هي أثر من آثار حياة حقيقية، لا موقف سياسي.
