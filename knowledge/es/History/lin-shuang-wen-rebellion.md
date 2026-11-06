@@ -11,20 +11,22 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/林爽文事件.md'
-sourceCommitSha: 'b9634f1c4'
-sourceContentHash: 'sha256:507fc9ae19e8102e'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:8769d861b656bda2'
 sourceBodyHash: 'sha256:e4ff63840e8f7331'
-translatedAt: '2026-09-11T05:31:25+08:00'
+translatedAt: '2026-11-06T15:12:02.712068+00:00'
 ---
 
-> **Resumen en 30 segundos:** A finales de 1786, un conflicto local en Daliyi (Changhua) se expandió hasta convertirse en una de las rebeliones civiles de mayor escala durante el período Qing en Taiwán. Las acciones de Lin Shuangwen, Zhuang Datian y Jin Niang obligaron al gobierno Qing a movilizar tropas interprovinciales y, tras la guerra, a reorganizar los puertos de cruce, las milicias agrícolas (tunding) y las políticas de construcción de murallas. Este artículo no presenta el incidente únicamente como una «pacificación de disturbios por parte del ejército Qing», sino que pregunta cómo una guerra cambió la forma en que el imperio gobernaba Taiwán.
+> **Resumen de 30 segundos:** A finales de 1786, un conflicto local en Daliyi, Changhua, se expandió hasta convertirse en una de las revueltas populares de mayor escala durante el período Qing en Taiwán. Las acciones de Lin Shuangwen, Zhuang Datian, Jin Niang y otros obligaron a la corte Qing a movilizar tropas a través de provincias y, tras la guerra, a reorganizar los puertos de cruce, el sistema de colonos-soldados y la política de fortificación. Este artículo no presenta el incidente simplemente como «el ejército Qing pacifica la revuelta», sino que cuestiona cómo una guerra cambió la forma en que el imperio gobernaba Taiwán.
 
-A finales de 1786, Lin Shuangwen, de Daliyi en Changhua, quedó envuelto en un conflicto local que originalmente no había sido iniciado por él. Para enero de 1787, este conflicto ya había tomado la ciudad condal de Changhua y atraído la atención militar del imperio Qing hacia la mitad occidental de Taiwán. [^1] En la primavera de 1788, Lin Shuangwen fue capturado y trasladado en una jaula de prisioneros hacia Pekín. [^2]
+A finales de 1786, Lin Shuangwen de Daliyi, Changhua, se vio envuelto en un conflicto local que no necesariamente él había iniciado. Para enero de 1787, el conflicto ya había tomado la ciudad del condado de Changhua y atraído la atención militar del imperio Qing hacia la mitad occidental de Taiwán.[^1] En la primavera de 1788, Lin Shuangwen fue capturado y enviado a Pekín en una jaula para prisioneros.[^2]
 
-Esta historia se escribe fácilmente como la «pacificación de una rebelión civil por las tropas Qing», pero lo verdaderamente digno de cuestionamiento es otra cuestión: ¿por qué una isla, considerada por el imperio como una periferia y durante mucho tiempo reacia a invertir en altos costos de gobernanza, pudo obligar al gobierno Qing a movilizar tropas a través del mar durante más de un año y, finalmente, cambiar las políticas portuarias, de milicias agrícolas y de defensa de las ciudades? [^3]
+Esta historia se suele escribir fácilmente como «el ejército Qing pacifica la revuelta popular», pero la verdadera pregunta que merece la pena es otra: ¿por qué una isla considerada por el imperio como una frontera remota, en la que durante mucho tiempo no quiso invertir demasiado en costes de gobernanza, logró que la corte Qing movilizara tropas a través del mar durante más de un año y, al final, cambiara la política de puertos, colonos-soldados y defensa costera?[^3]
 
-> **Frase central antintuitiva:** El desenlace del incidente de Lin Shuangwen parece haber restaurado el statu quo, pero en realidad hizo que el imperio Qing ya no pudiera gobernar Taiwán de la manera anterior.
+> **Frase central contraintuitiva:** El desenlace del incidente de Lin Shuangwen parece restaurar el statu quo, pero en realidad hizo que el imperio Qing ya no pudiera gobernar Taiwán de la misma manera que antes.
 
 ## De la prohibición de las sociedades secretas al descontrol local
 

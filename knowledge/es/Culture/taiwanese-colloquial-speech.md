@@ -1,8 +1,8 @@
 ---
 title: 'Códigos orales de Taiwán: desde «No te molestes» hasta «leer la D como cerdo», cómo surgieron cuatro expresiones cotidianas'
 description: 'En Taiwán, «No te molestes» puede preceder a la disculpa real; «¿Eh?» parece no entender, pero es una reparación del diálogo presente en múltiples idiomas; la @ se llama «ratoncito» y la D se lee como «cerdo» al intercambiar exámenes. Estas cuatro expresiones esconden la cortesía, el malentendido, el correo electrónico y la fonética del taiwanés en lo cotidiano, recordándonos que el acento taiwanés no es solo un modo de pronunciar, sino un método de reconocimiento dejado por quienes conviven juntos.'
+date: 2026-08-20
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'Chino de Taiwán',
@@ -11,17 +11,19 @@ tags:
     'Correo electrónico',
     'Cultura escolar',
   ]
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-11T06:03:22+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-06T14:30:47.874208+00:00'
 ---
 
 > **Resumen en 30 segundos:** En Taiwán, decir «No te molestes» no necesariamente significa haber cometido un gran error; puede ser solo para pedir paso, iniciar una conversación o acercar el diálogo. Un estudio de 2022 con 90 estudiantes de la Universidad Nacional de Taiwán reveló que esta expresión es más frecuente en situaciones de ofensa general o de baja gravedad. [^1] El sonido «¿Eh?» tampoco es exclusivo de Taiwán, sino una frase corta de reparación que los humanos activan cuando no escuchan bien. Taiwán también llama «ratoncito» a la @ y lee la D como «cerdo» al intercambiar exámenes. [^2] [^3] [^4] Estas cuatro expresiones apuntan a un mismo hecho: el lenguaje no solo transmite contenido, sino que también gestiona la distancia entre las personas, reconoce a los compañeros y reduce el tiempo de explicación.
@@ -58,25 +60,25 @@ Este descubrimiento hace que «蛤» sea aún más interesante. No es un código
 
 «蛤» también nos recuerda que la cultura oral no puede buscar respuestas solo en los diccionarios. Los diccionarios registran el sonido estándar y el significado de las palabras, pero la interacción hace que un carácter crezca con nuevas funciones. Cuando «蛤» aparece al inicio de la frase, lo que hace puede estar más cerca de un botón que de una entrada de diccionario: al presionarlo, el otro necesita reensamblar lo que dijo antes.
 
-## La @ se convierte en «ratoncito», los símbolos técnicos entran al aula
+## Cuando @ se convierte en «ratoncito», el símbolo técnico entra en el aula
 
-![SVG del símbolo @ de dominio público, simbolizando cómo el símbolo técnico crece con el nombre «ratoncito» en Taiwán](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![SVG del símbolo @ de dominio público, simbolizando cómo los símbolos técnicos desarrollaron el nombre de «ratoncito» en Taiwán](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-_Fuente de la imagen: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Dominio público. La imagen se incrusta solo mediante enlace externo._
+_Fuente de la imagen: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), dominio público. La imagen solo se incrusta mediante URL externa._
 
-En el formato de correo electrónico del RFC 5322, la función de la @ es precisa. Separa la _local-part_ (parte local) del dominio de Internet. Antes está la parte de la cuenta, después la parte del dominio. El documento estándar lo llama _at-sign_ y lo define como el valor ASCII 64. [^4]
+En el formato de correo electrónico de RFC 5322, el trabajo de @ es muy preciso. Separa el local-part del Internet domain; la parte anterior pertenece a la cuenta, la posterior al dominio. El documento estándar lo llama at-sign y lo define como valor ASCII 64.[^4]
 
-Los ingenieros necesitan un símbolo separador. Los niños en la escuela, sin embargo, necesitan algo que puedan recordar. El reporte en chino de BBC, al recopilar los nombres de la @ en diferentes idiomas, listó el «ratoncito» de Taiwán, el «A en círculo» de China continental, y las versiones de caracol en italiano, patito en griego, entre otras. La función técnica del símbolo es la misma, pero la memoria cultural le buscó una forma distinta a cada uno. [^5]
+Los ingenieros necesitaban un separador. Los niños en la escuela necesitaban algo que pudieran recordar. Cuando BBC Chino recopiló los nombres que diferentes idiomas dan a @, listó el «ratoncito» de Taiwán, el «A en círculo» de China continental, así como el caracol de Italia, el patito de Grecia, etc. La función técnica del símbolo es la misma, pero la memoria cultural le buscó a cada uno una forma distinta.[^5]
 
-Ray Tomlinson colocó la @ en el formato de las direcciones de correo electrónico de Internet en 1971, convirtiendo este símbolo, antes poco común en el texto general, en un puente entre la cuenta y el dominio. [^5] [^6] Los taiwaneses lo llamaron luego «ratoncito», no para modificar el RFC ni para añadir un estándar formal al símbolo. Fue un método de enseñanza para traducir una herramienta abstracta en un animal cercano.
+Ray Tomlinson introdujo @ en el formato de direcciones de correo electrónico de red en 1971, haciendo que este símbolo, que originalmente rara vez aparecía en textos comunes, se convirtiera en el puente entre la cuenta y el dominio.[^5] [^6] Los taiwaneses luego lo llamaron «ratoncito», no para modificar el RFC, ni para añadir un estándar formal al símbolo. Es un método pedagógico que traduce una herramienta abstracta a un animal cotidiano.
 
-![Configuración de las letras en chino zhuyin y en inglés en un teclado de Taiwán](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+![Distribución de Zhuyin y letras latinas en el teclado de Taiwán](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-_Fuente de la imagen: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), autor Zhengzhong Beilu711, bajo licencia CC BY-SA 3.0. La imagen se incrusta solo mediante enlace externo; al usarla se debe conservar la atribución y el enlace de licencia._
+_Fuente de la imagen: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), autor Zhongzheng North Road 711, licencia CC BY-SA 3.0. La imagen solo se incrusta mediante URL externa; al usarse debe conservarse la atribución y el enlace de licencia._
 
-Lo interesante de «ratoncito» es que conserva la sensación de la educación temprana en computación. Los niños no necesitan entender primero el dominio, la cuenta y los protocolos de red; basta con recordar ese círculo parecido a un ratón para encontrarlo en el teclado. El primer paso de la tecnología en la vida a menudo no es entender todo el sistema, sino encontrar un nombre reconocible para un símbolo desconocido.
+Lo interesante del «ratoncito» es que conserva la sensación táctil de la educación informática temprana. Los niños no necesitan entender primero dominios, cuentas y protocolos de red; basta con recordar ese círculo que parece un ratón para encontrarlo en el teclado. El primer paso para que la tecnología entre en la vida suele no ser entender todo el sistema, sino encontrar un nombre con el que señalar el símbolo extraño.
 
-Este nombre también deja una diferencia generacional. Las personas familiarizadas con la enseñanza temprana del correo electrónico pueden decir «envíalo al ratoncito» y los compañeros entenderán inmediatamente la @. Las personas con un contacto posterior con la red pueden decir más a menudo _at_ o simplemente leer toda la dirección. Ambas formas cumplen la tarea, pero la primera añade un recuerdo de las clases de computación en las escuelas y hogares de Taiwán.
+Este nombre también deja una diferencia generacional. Quienes están familiarizados con la enseñanza temprana del email, al decir «envíalo al ratoncito» logran que sus compañeros encuentren @ de inmediato. Quienes accedieron a internet más tarde quizá digan más a menudo at, o simplemente lean toda la dirección. Ambas formas cumplen la tarea, pero la primera lleva consigo un recuerdo de las clases de informática en los campus y hogares de Taiwán.
 
 ## ¿Por qué la D se convierte en «cerdo» o «Zhu»
 
@@ -108,26 +110,26 @@ La identidad del lenguaje oral de Taiwán no proviene solo de vocabulario único
 
 ## Referencias
 
-[^1]: [Estudio sobre el uso de las expresiones de disculpa comunes en Taiwán y la percepción de su gravedad](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tesis de maestría de la Universidad Nacional de Taiwán, 2022, que utiliza 90 cuestionarios de estudiantes de la Universidad Nacional de Taiwán para analizar la elección de «Lo siento», «Disculpe» y «No te molestes» en diferentes contextos sociales.
+[^1]: [Exploración del uso y la percepción de la gravedad de las expresiones de disculpa comunes en Taiwán](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — Tesis de maestría de la Universidad Nacional de Taiwán de 2022, que analiza mediante 90 cuestionarios a estudiantes de la NTU la elección entre «duìbuqǐ», «bàoqiàn» y «bùhǎoyìsi» en diferentes situaciones sociales.
 
-[^2]: [Ministerio de Educación, _Diccionario de Referencia del Chino Estándar Revisado y Ampliado_: 蛤](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Página oficial del diccionario del Ministerio de Educación, que registra las notas fonéticas ㄍㄜˊ y ㄏㄚˊ de «蛤» y sus significados estándar como almejas, almejas chinas y ranas, para diferenciar la forma escrita y el uso oral en este artículo.
+[^2]: [Ministerio de Educación «Diccionario de la Lengua Nacional Revisado»: gé](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Página oficial del diccionario del Ministerio de Educación, que incluye la pronunciación bopomofo ㄍㄜˊ, ㄏㄚˊ y los significados estándar de «gé» como almeja, almeja venus y rana, para distinguir la forma escrita y el uso coloquial en este artículo.
 
-[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Estudio translingüístico de PLOS ONE que analiza la forma y función de _huh?_ como iniciador de reparación del diálogo, recordando al lector que no se debe escribir erróneamente «¿Eh?» como un fenómeno exclusivo de Taiwán.
+[^3]: [¿Es «Huh?» una palabra universal?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — Estudio translingüístico de PLOS ONE que analiza la forma y función de «huh?» como iniciador de reparación conversacional, advirtiendo a los lectores no confundir «gé» como un fenómeno exclusivo de Taiwán.
 
-[^4]: [RFC 5322: Formato de Mensaje de Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Estándar de formato de correo electrónico de IETF, la sección 3.4.1 define el rol técnico de la @ en _addr-spec_ para separar la _local-part_ del dominio de Internet.
+[^4]: [RFC 5322: Formato de mensaje de Internet](https://datatracker.ietf.org/doc/html/rfc5322) — Estándar de formato de correo electrónico de la IETF, la sección 3.4.1 define el papel técnico de @ en addr-spec para separar local-part y dominio de Internet.
 
-[^5]: [BBC en chino: ¿Cómo se llama el símbolo «@» en diferentes idiomas?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Reporte en chino de BBC Future que recopila la diferencia cultural de Taiwán llamándolo «ratoncito» y del resto del mundo llamándolo por animales o formas, también introduciendo la historia de la entrada del símbolo en el correo electrónico.
+[^5]: [BBC Chino: ¿Cómo se llama el símbolo «@» en diferentes idiomas?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — Reportaje de BBC Future en chino, que recopila las diferencias culturales al llamar @ «ratoncito» en Taiwán y con nombres de animales o formas en otras partes del mundo, además de presentar la historia de la incorporación del símbolo al correo electrónico.
 
-[^6]: [Raymond Tomlinson — Salón de la Fama de Internet](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Ficha oficial de personaje del Salón de la Fama de Internet, que registra la contribución de Ray Tomlinson al correo electrónico de Internet y a los estándares de correo temprano.
+[^6]: [Raymond Tomlinson — Salón de la Fama de Internet](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Perfil oficial en el Salón de la Fama de Internet, que registra las contribuciones de Ray Tomlinson al correo electrónico en red y a los primeros estándares de correo.
 
-[^7]: [Ministerio de Educación, _Diccionario de Palabras Comunes del Taiwanés de Taiwán_: 猪](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Diccionario oficial del taiwanés del Ministerio de Educación, que lista «cerdo» como ti/tu, proporcionando la base lingüística de la relación de sonido cercano entre la D y el taiwanés.
+[^7]: [Diccionario de Palabras Comunes del Taiwanés del Ministerio de Educación: cerdo](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Diccionario oficial de taiwanés del Ministerio de Educación, que registra «cerdo» como ti/tu, proporcionando la base lingüística de la cercanía fonética entre D y el taiwanés.
 
-[^8]: [Sanli News: ¿Cómo leen los extranjeros la D al comparar respuestas? Definitivamente no es «cerdo»](https://www.setn.com/news/868195) — Reporte de 2020 que recopila discusiones en PTT y en línea sobre el intercambio de exámenes para corrección en campus, utilizado en este artículo solo para apoyar su uso y circulación parcial, sin expandirlo a un estándar unificado en toda Taiwán.
+[^8]: [SETN: ¿Cómo pronuncian los extranjeros la respuesta D? Definitivamente no es «cerdo»](https://www.setn.com/news/868195) — Noticia de 2020 que recopila discusiones en PTT y en campus sobre el intercambio y corrección de exámenes; este artículo solo la usa para respaldar el uso y difusión parcial, sin generalizarla como un estándar unificado en toda Taiwán.
 
-[^9]: [Red de Chino Global: El perro de la ABC muerde al cerdo](https://biweekly.huayuworld.org/Material/372/Text) — Material didáctico de poema infantil clásico de la Comisión de Asuntos侨务 de la República de China (Taiwán), que recopila el texto completo del poema infantil taiwanés y marca el taiwanés, proporcionando el contexto original del material didáctico de transmisión escolar.
+[^9]: [Red Global en Chino: ABC el perro muerde al cerdo](https://biweekly.huayuworld.org/Material/372/Text) — Material didáctico clásico de rimas infantiles de la Comisión de Asuntos de Chinos en el Extranjero de la República de China, que incluye el texto completo de la recitación taiwanesa con anotaciones en taiwanés, proporcionando el contexto del material original transmitido oralmente en las escuelas.
 
-[^10]: [Taiwan.md: Poemas Infantiles en los Patios Escolares de Taiwán](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artículo existente de Taiwan.md sobre poemas infantiles escolares, que ya recopiló «El perro de la ABC muerde al cerdo» y la transmisión intergeneracional; este artículo evita la repetición al enfocarse en la función de reconocimiento de la respuesta D.
+[^10]: [Taiwan.md: Rimas de patio de escuela en Taiwán](https://taiwan.md/en/culture/schoolyard-rhymes/) — Artículo existente de Taiwan.md sobre rimas de patio de escuela, que ya ha organizado «ABC Dog Bites Pig» y la transmisión intergeneracional; este artículo evita la duplicación al centrarse en la función de identificación de la respuesta D.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Página del archivo SVG del símbolo @ de dominio público, el artículo lo incrusta mediante enlace caliente de `upload.wikimedia.org`, sin descargar la imagen.
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Página del archivo SVG del símbolo @ de dominio público; el artículo lo incrusta mediante URL directa de `upload.wikimedia.org` sin descargar la imagen.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Página del archivo de imagen del teclado de Taiwán, proporcionada por Zhengzhong Beilu711, bajo Creative Commons Attribution-ShareAlike 3.0, al usarla se debe conservar la atribución y el enlace de licencia.
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Página del archivo de imagen del teclado taiwanés, proporcionado por Zhongzheng North Road 711, bajo licencia Creative Commons Attribution-ShareAlike 3.0; su uso requiere mantener la atribución y el enlace de licencia.
