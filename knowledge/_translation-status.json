@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T07:55:55+08:00",
-    "zhCommitHead": "f58f1c81e",
+    "lastUpdated": "2026-11-06T08:03:26+08:00",
+    "zhCommitHead": "d493c99e2",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,21 +20,37 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 27,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1102,
+        "fresh": 1103,
         "stale": 27,
-        "metadata_stale": 29,
+        "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
+        "total_zh": 1162,
+        "fresh": 1104,
+        "stale": 31,
+        "metadata_stale": 23,
+        "missing": 4,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1162,
+        "fresh": 1095,
+        "stale": 30,
+        "metadata_stale": 31,
+        "missing": 6,
+        "orphan": 0
+      },
+      "fr": {
         "total_zh": 1162,
         "fresh": 1103,
         "stale": 31,
@@ -42,27 +58,11 @@
         "missing": 4,
         "orphan": 0
       },
-      "es": {
-        "total_zh": 1162,
-        "fresh": 1094,
-        "stale": 30,
-        "metadata_stale": 32,
-        "missing": 6,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1162,
-        "fresh": 1102,
-        "stale": 31,
-        "metadata_stale": 25,
-        "missing": 4,
-        "orphan": 0
-      },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1087,
+        "fresh": 1088,
         "stale": 30,
-        "metadata_stale": 39,
+        "metadata_stale": 38,
         "missing": 6,
         "orphan": 0
       },
@@ -76,24 +76,24 @@
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 33,
-        "metadata_stale": 29,
+        "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1093,
+        "fresh": 1094,
         "stale": 35,
-        "metadata_stale": 30,
+        "metadata_stale": 29,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1099,
-        "stale": 31,
+        "fresh": 1100,
+        "stale": 30,
         "metadata_stale": 28,
         "missing": 4,
         "orphan": 0
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 33,
-        "metadata_stale": 41,
+        "metadata_stale": 40,
         "missing": 4,
         "orphan": 0
       }
@@ -10656,20 +10656,18 @@
         "ar": {
           "path": "ar/Economy/taiwan-orchid-industry.md",
           "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "sourceCommitSha": "ff8ab4d4d",
+          "sourceContentHash": "sha256:38a4067994051318",
+          "sourceBodyHash": "sha256:14e97ff0df91ded4",
+          "translatedAt": "2026-11-06T00:03:08.004781+00:00",
           "translationLastCommit": "b44548b9",
           "translationLastModified": "2026-09-17T11:23:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 28169,
+          "bytes": 28967,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-orchid-industry.md",
@@ -21092,8 +21090,8 @@
           "sourceContentHash": "sha256:ccde9abb3915fd43",
           "sourceBodyHash": "sha256:a7817277d4b3bdbe",
           "translatedAt": "2026-11-05T22:37:26.700948+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "d493c99e",
+          "translationLastModified": "2026-11-06T07:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 16827,
@@ -21302,8 +21300,8 @@
           "sourceContentHash": "sha256:8ba7936b5e10ef76",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
           "translatedAt": "2026-11-05T22:24:14.249345+00:00",
-          "translationLastCommit": "3147a527",
-          "translationLastModified": "2026-05-15T14:22:09+08:00",
+          "translationLastCommit": "d493c99e",
+          "translationLastModified": "2026-11-06T07:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 18056,
@@ -29856,20 +29854,18 @@
         "es": {
           "path": "es/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "b67b190fb",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
-          "translatedAt": "2026-09-07T19:32:03.676563+00:00",
+          "translatedAt": "2026-11-05T23:58:36.564075+00:00",
           "translationLastCommit": "43d908fd",
           "translationLastModified": "2026-09-08T04:15:08+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 28659,
+          "bytes": 29297,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/hsuehshan-tunnel.md",
@@ -91303,20 +91299,18 @@
         "de": {
           "path": "de/Nature/taiwanese-indigenous-ecological-wisdom-conservation.md",
           "translatedFrom": "Nature/台灣原住民生態智慧與環境保育.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:d162c579da0f2b9c",
           "sourceBodyHash": "sha256:e7b3f8c1b339cc47",
-          "translatedAt": "2026-09-25T15:42:51+08:00",
+          "translatedAt": "2026-11-05T23:56:02.922708+00:00",
           "translationLastCommit": "65135d28",
           "translationLastModified": "2026-09-25T16:00:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 23172,
+          "bytes": 23231,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -95645,11 +95639,11 @@
           "sourceContentHash": "sha256:968a60e9d47e825b",
           "sourceBodyHash": "sha256:c77c8cceb31c23cb",
           "translatedAt": "2026-11-05T23:31:27.369094+00:00",
-          "translationLastCommit": "ae6ca4d3",
-          "translationLastModified": "2026-11-03T04:31:26+08:00",
+          "translationLastCommit": "d493c99e",
+          "translationLastModified": "2026-11-06T07:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 33854,
+          "bytes": 33856,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -95855,20 +95849,18 @@
         "ko": {
           "path": "ko/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "d7d7c2e30",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
-          "translatedAt": "2026-11-02T19:54:16.377878+00:00",
+          "translatedAt": "2026-11-05T23:58:16.180794+00:00",
           "translationLastCommit": "ae6ca4d3",
           "translationLastModified": "2026-11-03T04:31:26+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 22530,
+          "bytes": 22675,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Politics/nine-in-one-elections-explained.md",
@@ -95891,20 +95883,18 @@
         "fr": {
           "path": "fr/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "d7d7c2e30",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
-          "translatedAt": "2026-11-03T00:30:02+08:00",
+          "translatedAt": "2026-11-05T23:58:58.123299+00:00",
           "translationLastCommit": "51f9dde4",
           "translationLastModified": "2026-11-03T04:31:41+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 27564,
+          "bytes": 28089,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Politics/nine-in-one-elections-explained.md",
@@ -95941,20 +95931,18 @@
         "pt": {
           "path": "pt/Politics/nine-in-one-elections-explained.md",
           "translatedFrom": "Politics/九合一選舉是什麼.md",
-          "sourceCommitSha": "d7d7c2e30",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:d01e4dc65a504478",
           "sourceBodyHash": "sha256:42ff4d82e10867fc",
-          "translatedAt": "2026-11-02T20:20:55.675245+00:00",
+          "translatedAt": "2026-11-06T00:00:55.767333+00:00",
           "translationLastCommit": "6e30f5f5",
           "translationLastModified": "2026-11-03T06:06:29+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 27617,
+          "bytes": 27917,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/nine-in-one-elections-explained.md",
@@ -128555,20 +128543,18 @@
         "ja": {
           "path": "ja/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:06a2002deee9c4a4",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:019232bb48bbd216",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
-          "translatedAt": "2026-10-10T16:54:46+08:00",
+          "translatedAt": "2026-11-05T23:57:54.305160+00:00",
           "translationLastCommit": "004b98ac",
           "translationLastModified": "2026-10-10T23:46:16+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 29251,
+          "bytes": 29682,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+30 -3"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/People/san-mao.md",
@@ -128577,11 +128563,11 @@
           "sourceContentHash": "sha256:019232bb48bbd216",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
           "translatedAt": "2026-11-05T23:42:53.026834+00:00",
-          "translationLastCommit": "3e8c2988",
-          "translationLastModified": "2026-10-10T23:27:23+08:00",
+          "translationLastCommit": "d493c99e",
+          "translationLastModified": "2026-11-06T07:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 28317,
+          "bytes": 28321,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "hash-match-sha-lost"
@@ -128625,20 +128611,18 @@
         "vi": {
           "path": "vi/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:06a2002deee9c4a4",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:019232bb48bbd216",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
-          "translatedAt": "2026-10-10T09:17:00+08:00",
+          "translatedAt": "2026-11-05T23:59:58.884219+00:00",
           "translationLastCommit": "23f8c108",
           "translationLastModified": "2026-10-10T23:30:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 33412,
+          "bytes": 33480,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+30 -3"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/People/san-mao.md",
@@ -145671,8 +145655,8 @@
           "sourceContentHash": "sha256:08c9b5bb374704b8",
           "sourceBodyHash": "sha256:4b373fac57d731f0",
           "translatedAt": "2026-11-06T06:52:42+08:00",
-          "translationLastCommit": "3e8c2988",
-          "translationLastModified": "2026-10-10T23:27:23+08:00",
+          "translationLastCommit": "d493c99e",
+          "translationLastModified": "2026-11-06T07:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 29769,
@@ -196691,20 +196675,18 @@
         "hi": {
           "path": "hi/Geography/taiwan-urban-development-and-rural-urban-divide.md",
           "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
-          "sourceCommitSha": "f45a19331",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:bfa78a33fd163a9a",
           "sourceBodyHash": "sha256:aa0440f383f174b1",
-          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translatedAt": "2026-11-06T00:01:01.605017+00:00",
           "translationLastCommit": "d29ad571",
           "translationLastModified": "2026-10-10T22:58:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 41134,
+          "bytes": 41201,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-urban-development-and-rural-urban-divide.md",
@@ -224697,20 +224679,18 @@
         "en": {
           "path": "en/Culture/bunun-millet-rituals.md",
           "translatedFrom": "Culture/布農族小米歲時祭儀.md",
-          "sourceCommitSha": "36f293ae0",
-          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:a08b66093896c8a3",
           "sourceBodyHash": "sha256:dee79906f6659ba2",
-          "translatedAt": "2026-09-11T07:19:37+08:00",
+          "translatedAt": "2026-11-05T23:56:45.596389+00:00",
           "translationLastCommit": "52dd5c7d",
           "translationLastModified": "2026-09-11T07:28:49+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 25230,
+          "bytes": 25290,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/bunun-millet-rituals.md",
