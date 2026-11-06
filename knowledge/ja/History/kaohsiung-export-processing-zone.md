@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-16T11:57:23+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-06T02:35:37.287316+00:00'
 ---
 
-> **30 秒概覽：** 1966 年 12 月 3 日、高雄前鎮に台湾初の加工出口區が誕生し、行政院史料によればこれは世界で最初の加工出口區ともされる。工業地区、免税地域、自由貿易地域の機能を重ね合わせ、一窓通関、税制優遇、港湾という仕組みで、外資・原材料・工場・輸出注文を一箇所に集めた。2 年のうちに、園区は計画を上回り、2 万人以上を雇用した。[^1]
+> **30秒でわかる概要：** 1966年12月3日、高雄前鎮に台湾初の加工輸出区が誕生しました。行政院の史料によれば、これは世界初の加工輸出区でもあります。工業団地、免税区、自由貿易区の機能を一体化し、ワンストップ窓口、税制優遇、港湾を通じて、外資、原材料、工場、輸出受注を一か所に集約しました。わずか2年で当初の計画を上回り、2万人以上を雇用するまでになりました。[^1]
 
-![高雄港地図、加工出口區周辺港湾範囲を示す](/article-images/history/kaohsiung-port-map.svg)
+![高雄港地図、加工輸出区周辺の港湾範囲を表示](/article-images/history/kaohsiung-port-map.svg)
 
-_図 1：高雄港地図、作 Luuva、Wikimedia Commons、CC BY-SA 3.0。図版ページ：https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg。_
+_図1：高雄港地図、作成 Luuva、Wikimedia Commons、CC BY-SA 3.0。画像ページ：https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg。_
 
 ## 一つの「閉じられた」輸出入口
 
@@ -89,17 +93,17 @@ _図 1：高雄港地図、作 Luuva、Wikimedia Commons、CC BY-SA 3.0。図版
 
 園区の評価を否定する必要はない。しかし「仕事を創る」ことと「仕事の条件はどのように整えられるか」は同じ絵面に置かなければならない。輸出額だけを残すと、生産者を分母にしてしまう。批判だけを残すと、一つの給料が家庭や都会にどのように変革をもたらしたのかを見逃してしまう。歴史の責務は園区に対する唯一の評価を下すことではなく、さまざまな層の結果を同時に可視化することである。
 
-## 園区は自らの成功をどのように生き抜いたか
+## 園区はいかにして自らの成功を生き延びたか
 
-![楠梓加工出口區駅 1 番出口](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![楠梓加工区駅 1 番出口](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_図 2：楠梓加工出口區駅 1 番出口、作 龍本、2010 年、Wikimedia Commons、CC BY-SA 3.0／GFDL。図版ページ：https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg；ローカルファイル：images/nanzih-export-processing-zone-station.jpg。_
+_画像 2：楠梓加工区駅 1 番出口、撮影 龍本、2010 年、Wikimedia Commons、CC BY-SA 3.0／GFDL。画像ページ：https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg；ローカルファイル：images/nanzih-export-processing-zone-station.jpg。_
 
-労働集約産業は 1980 年代後半、賃金上昇、国際貿易保護、産業の海外移転という圧力に直面した。加工出口區はそれに気じゃらずに消滅したわけではない。むしろ徐々に電子業、精密加工、物流、その他の高技術的活動を導入していった。博士論文の要旨は、1986 年以降を「制度と市場の条件が同時に変化する時期」とし、園区が後に高技術電子業とグローバル物流の転換を目指したと指摘している。[^8]
+労働集約型産業は 1980 年代以降、賃金上昇、国際貿易保護、産業の海外移転の圧力を受けました。加工輸出区はそのために即座に消滅したわけではなく、段階的に電子産業、精密製造、物流、その他より高度な技術活動を導入しました。博士論文の要旨では、1986 年以降を制度と市場条件が同時に変動した時期と説明し、園区が後にハイテク電子産業とグローバル・サプライチェーンへ転換したことを指摘しています。[^8]
 
-この転換は園区の記憶のされ方も変えた。2021 年、高雄加工出口區は使用していた半世紀の旧称を捨て、前鎮科技産業園区と改称した。名称の変更は歴史を消すものではなく、むしろ元々の「加工出口區」がすでに一種の制度的遺産となっていたことを認めるものだった：一窓通関、産業集積、輸出志向、技術習得という仕組みは、引き続きさまざまな産業の中に痕跡をgressuさせている。[^3]
+この転換は、園区の記憶のされ方も変えました。2021 年、高雄加工輸出区は半世紀使われた旧名称を降ろし、前鎮テクノロジー産業園区と改めました。名称の変更は歴史を消し去ったのではなく、むしろ元の「加工輸出区」がすでに一種の制度遺産となったことを認めたものです：ワンストップ窓口、産業集落、輸出志向、技術学習が、異なる産業の中で痕跡を残し続けています。[^3]
 
-園区内の行政ビル、初期の工場、その他の建物はそのため二重の身分を持つ。一方ではまだ使用可能な産業空間であり、他方では台湾経済史の有形証拠でもある。それらを単に古い建物として見ると、工場、女工、港湾、貨物との関係を見落としてしまう。また成功の記念物としてだけ見ると、労働と環境の代価を見落としてしまう。[^3]
+園区内の行政棟、初期の工場、その他の建物はしたがって二重のアイデンティティを持っています。それらは一方で、依然として利用されうる産業空間であり、他方で台湾経済史の物的証拠でもあります。それらを単なる古い建築として扱えば、工場、女工、港湾、貨物との関係を見逃すことになります；それらを単なる成功の記念物として扱えば、労働と環境のコストを見逃すことになります。[^3]
 
 ## 一つの園区、いくつかの台湾
 

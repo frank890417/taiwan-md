@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T11:34:38+08:00",
-    "zhCommitHead": "49273dff2",
+    "lastUpdated": "2026-11-06T12:07:45+08:00",
+    "zhCommitHead": "5aa6b7a96",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1101,
+        "fresh": 1102,
         "stale": 26,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1106,
-        "stale": 26,
+        "fresh": 1107,
+        "stale": 25,
         "metadata_stale": 26,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1108,
+        "fresh": 1109,
         "stale": 31,
-        "metadata_stale": 19,
+        "metadata_stale": 18,
         "missing": 4,
         "orphan": 0
       },
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1106,
-        "stale": 31,
+        "fresh": 1107,
+        "stale": 30,
         "metadata_stale": 21,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1090,
-        "stale": 31,
+        "fresh": 1092,
+        "stale": 29,
         "metadata_stale": 35,
         "missing": 6,
         "orphan": 0
@@ -84,24 +84,24 @@
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1095,
-        "stale": 36,
+        "fresh": 1096,
+        "stale": 35,
         "metadata_stale": 27,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1103,
+        "fresh": 1104,
         "stale": 31,
-        "metadata_stale": 24,
+        "metadata_stale": 23,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1113,
-        "stale": 26,
+        "fresh": 1114,
+        "stale": 25,
         "metadata_stale": 19,
         "missing": 4,
         "orphan": 0
@@ -10584,20 +10584,18 @@
         "vi": {
           "path": "vi/Economy/taiwan-orchid-industry.md",
           "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-18T22:35:08+08:00",
+          "sourceCommitSha": "ff8ab4d4d",
+          "sourceContentHash": "sha256:38a4067994051318",
+          "sourceBodyHash": "sha256:14e97ff0df91ded4",
+          "translatedAt": "2026-11-06T03:59:46.448522+00:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 25334,
+          "bytes": 24744,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-orchid-industry.md",
@@ -21254,20 +21252,18 @@
         "en": {
           "path": "en/Economy/pegatron-the-invisible-manufacturing-giant.md",
           "translatedFrom": "Economy/台灣企業：和碩聯合.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:8ba7936b5e10ef76",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
-          "translatedAt": "2026-05-15T13:52:05+08:00",
+          "translatedAt": "2026-11-06T03:49:23.994146+00:00",
           "translationLastCommit": "3147a527",
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17540,
+          "bytes": 18255,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "path": "ja/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -21522,18 +21518,18 @@
         "fr": {
           "path": "fr/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "32789bc38",
-          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
-          "sourceBodyHash": "sha256:4960f809ab64a615",
-          "translatedAt": "2026-10-23T08:48:38+08:00",
+          "sourceCommitSha": "2e1fef4f3",
+          "sourceContentHash": "sha256:cb89a17fa1adb070",
+          "sourceBodyHash": "sha256:49187558c601365f",
+          "translatedAt": "2026-11-06T08:22:53+08:00",
           "translationLastCommit": "18cc689f",
           "translationLastModified": "2026-10-23T10:17:37+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 23304,
+          "footnoteDefs": 21,
+          "bytes": 29166,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (21→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-electricity-pricing-and-taipower.md",
@@ -74245,20 +74241,18 @@
         "ko": {
           "path": "ko/Society/energy-poverty-and-cooling.md",
           "translatedFrom": "Society/冷氣與能源貧窮議題.md",
-          "sourceCommitSha": "c2191ba3a",
+          "sourceCommitSha": "67c4c72fc",
           "sourceContentHash": "sha256:089b9a12e2ebe8d8",
           "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
-          "translatedAt": "2026-09-19T11:59:03+08:00",
+          "translatedAt": "2026-11-06T03:51:44.068964+00:00",
           "translationLastCommit": "822c2202",
           "translationLastModified": "2026-10-10T23:14:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 29950,
+          "bytes": 30067,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/energy-poverty-and-cooling.md",
@@ -97547,20 +97541,18 @@
         "ar": {
           "path": "ar/People/li-ang.md",
           "translatedFrom": "People/李昂.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:047f29e16ec14ac9",
           "sourceBodyHash": "sha256:0a0f9bd1ab3db88b",
-          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translatedAt": "2026-11-06T03:44:51.724149+00:00",
           "translationLastCommit": "087955d2",
           "translationLastModified": "2026-09-16T00:42:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16018,
+          "bytes": 16069,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/li-ang.md",
@@ -99605,8 +99597,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-11-06T02:00:34.795792+00:00",
-          "translationLastCommit": "b6856973",
-          "translationLastModified": "2026-09-15T17:09:09+08:00",
+          "translationLastCommit": "5aa6b7a9",
+          "translationLastModified": "2026-11-06T11:34:38+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 47481,
@@ -123057,20 +123049,18 @@
         "vi": {
           "path": "vi/People/chen-chih-han-holger.md",
           "translatedFrom": "People/館長陳之漢.md",
-          "sourceCommitSha": "319acd7f7",
-          "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
-          "sourceBodyHash": "sha256:4da6179cc5f355db",
-          "translatedAt": "2026-09-09T15:01:50+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:1f68646298af1a51",
+          "sourceBodyHash": "sha256:e6ca47c23634b64c",
+          "translatedAt": "2026-11-06T03:33:52.154227+00:00",
           "translationLastCommit": "389c169b",
           "translationLastModified": "2026-09-09T15:55:38+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 27435,
+          "bytes": 25580,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chen-chih-han-holger.md",
@@ -130713,20 +130703,18 @@
         "ja": {
           "path": "ja/People/bailingguo-news.md",
           "translatedFrom": "People/百靈果 News.md",
-          "sourceCommitSha": "cf406dedd",
-          "sourceContentHash": "sha256:2e4b0f96f5527220",
-          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
-          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:6178ccc8d8afac3a",
+          "sourceBodyHash": "sha256:d66f8844359d3f83",
+          "translatedAt": "2026-11-06T03:51:38.223284+00:00",
           "translationLastCommit": "de317ab0",
           "translationLastModified": "2026-09-17T10:59:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 23997,
+          "bytes": 24325,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/bailingguo-news.md",
@@ -130865,20 +130853,18 @@
         "ru": {
           "path": "ru/People/bailingguo-news.md",
           "translatedFrom": "People/百靈果 News.md",
-          "sourceCommitSha": "cf406dedd",
-          "sourceContentHash": "sha256:2e4b0f96f5527220",
-          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
-          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:6178ccc8d8afac3a",
+          "sourceBodyHash": "sha256:d66f8844359d3f83",
+          "translatedAt": "2026-11-06T03:47:11.900626+00:00",
           "translationLastCommit": "d82439fa",
           "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 31224,
+          "bytes": 32431,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/bailingguo-news.md",
@@ -234239,20 +234225,18 @@
         "hi": {
           "path": "hi/Culture/taiwanese-colloquial-speech.md",
           "translatedFrom": "Culture/台灣口語特色.md",
-          "sourceCommitSha": "1791349e1",
-          "sourceContentHash": "sha256:15d6246d744f90bf",
-          "sourceBodyHash": "sha256:227017306bf0c999",
-          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:267464e4c001cd84",
+          "sourceBodyHash": "sha256:fa65c73af916289a",
+          "translatedAt": "2026-11-06T03:44:46.022638+00:00",
           "translationLastCommit": "20d244f8",
           "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 37004,
+          "bytes": 38892,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwanese-colloquial-speech.md",
