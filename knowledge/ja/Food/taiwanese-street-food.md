@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-23T13:51:50+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-06T20:58:01.269621+00:00'
 ---
 
 # 台湾の街角食
@@ -186,8 +186,9 @@ translatedAt: '2026-09-23T13:51:50+08:00'
 
 ## 関連トピック
 
-- [夜市文化](/ja/food/night-market-culture) — 夜市としての社会的空間の深い分析
-- [珍珠奶茶](/ja/food/bubble-tea) — 液体の街角食のグローバル支配
-- [台灣滷肉飯](/ja/food/braised-pork-rice) — 一碗滷肉飯の民族記憶
-- [客家飲食文化](/ja/food/hakka-food-culture) — 客家族の食文化の知恵
-- [台灣新住民美食融合](/ja/food/taiwanese-new-immigrant-culinary-fusion) — 次の食文化の混血が進行中
+- [夜市文化](/ja/food/night-market-culture) — 夜市を社会的場域として深く分析
+- [タピオカミルクティー](/ja/food/bubble-tea) — 液体スナックの世界制覇
+- [地瓜球](/ja/food/sweet-potato-balls) — 中正橋のたもとの起源物語、油鍋の前で丸められる空心
+- [台湾魯肉飯](/ja/food/braised-pork-rice) — 一杯の魯肉飯に宿る族群の記憶
+- [客家食文化](/ja/food/hakka-food-culture) — 客家族群の食の知恵
+- [台湾新住民の食文化融合](/ja/food/taiwanese-new-immigrant-culinary-fusion) — 次なる食の混血が進行中
