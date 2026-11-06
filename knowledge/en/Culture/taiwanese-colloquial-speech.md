@@ -1,8 +1,8 @@
 ---
 title: 'Taiwanese Spoken Code: From "Excuse Me" to "Pronouncing D as ''Zhu''", How Four Everyday Expressions Shape Identity'
 description: 'In Taiwan, "Excuse me" can precede a real apology; "Huh?" may seem like a lack of understanding but is a cross-linguistic dialogue repair mechanism; @ is called "Little Mouse," and D is pronounced "Zhu/Chu" when swapping exam papers. These four expressions embed politeness, misunderstanding, email syntax, and Taiwanese phonology into daily life, reminding us that a "Taiwanese accent" is not just a set of pronunciations, but a recognition method left by people living together.'
+date: 2026-08-20
 category: 'Culture'
-subcategory: '語言與文字'
 tags:
   [
     'Taiwanese Mandarin',
@@ -11,17 +11,19 @@ tags:
     'Email',
     'Campus Culture',
   ]
+subcategory: '語言與文字'
 author: 'Taiwan.md Contributors'
-date: 2026-08-20
-readingTime: 8
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-11T05:56:37+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-06T21:16:50.681363+00:00'
 ---
 
 > **30-Second Overview:** In Taiwan, saying "Excuse me" (不好意思) doesn't necessarily mean you've made a major mistake; it might just be a way to ask for passage, to start speaking, or to draw the conversation closer. A 2022 study involving 90 National Taiwan University students found that it appears more frequently in general or low-severity situations than "I'm sorry" (對不起).[^1] The sound "Huh?" (蛤) is not unique to Taiwan; it is a short phrase humans use to initiate repair when they cannot hear clearly. Taiwan also calls the @ symbol "Little Mouse" and pronounces the letter D as "Zhu/Chu" (豬/朱) when swapping exam papers.[^2] [^3] [^4] These four expressions point to a common reality: language does more than convey content; it also manages interpersonal distance, identifies peers, and shortens the time needed for explanation.
@@ -58,25 +60,25 @@ This finding makes "Huh" even more interesting. It is not a mysterious password 
 
 "Huh" also reminds us that spoken culture cannot be answered by dictionaries alone. Dictionaries record standard pronunciations and definitions, but interaction allows a word to grow new functions. When "Huh" appears at the beginning of a sentence, what it does may be closer to a button than a dictionary definition: press it, and the other person needs to reassemble what they just said.
 
-## @ Becomes "Little Mouse" Only When Technical Symbols Enter the Classroom
+## When @ Became "Little Mouse", the Technical Symbol Entered the Classroom
 
-![Public domain SVG of the @ symbol, symbolizing how technical symbols grow the name "Little Mouse" in Taiwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![Public domain @ symbol SVG, symbolizing how the technical symbol grew the name "little mouse" in Taiwan](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
 _Image source: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Public domain. Image embedded via external hotlink only._
 
-In the email format of RFC 5322, the function of @ is precise. It separates the `local-part` from the Internet domain; the front is part of the account, and the back is part of the domain. The standard document calls it the _at-sign_ and defines it as ASCII value 64.[^4]
+In the RFC 5322 email format, @'s job is precise. It separates the local-part from the Internet domain — the former is part of the account, the latter part of the domain. The standard document calls it the at-sign and defines it as ASCII value 64.[^4]
 
-Engineers need a separator. Children in school need something memorable. BBC Chinese reported on how different languages refer to @, listing Taiwan's "Little Mouse," mainland China's "Circle A," and Italy's snail, Greece's little duck, and other terms. The technical function of the symbol is the same, but cultural memory gives each a different shape.[^5]
+Engineers needed a delimiter. Children in schools needed something they could remember. When BBC Chinese compiled what different languages call @, it listed Taiwan's "little mouse" (_xiao laoshu_), mainland China's "circled A", as well as Italy's snail, Greece's little duck, and other names. The symbol's technical function is the same, but cultural memory each found it a different shape.[^5]
 
-Ray Tomlinson placed @ into the format of network email addresses in 1971, turning a symbol that rarely appeared in general text into a bridge between accounts and domains.[^5] [^6] Taiwanese people later called it "Little Mouse" not to modify the RFC, nor to add a formal standard to the symbol. This is a teaching method that translates abstract tools into nearby animals.
+Ray Tomlinson placed @ into the network email address format in 1971, turning this symbol — originally rare in general text — into the bridge between account and domain.[^5] [^6] Taiwanese later called it "little mouse" (_xiao laoshu_), not to revise the RFC or add a formal standard to the symbol. It was a teaching method that translated an abstract tool into a familiar animal.
 
-![注音 and English letter configuration on a Taiwan keyboard](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+![Zhuyin and English letter layout on Taiwan keyboards](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-_Image source: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), by Zhongzheng North Road 711, licensed under CC BY-SA 3.0. Image embedded via external hotlink only; attribution and license links must be retained when used._
+_Image source: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), author Zhongzheng North Road 711, CC BY-SA 3.0. Image embedded via external hotlink only; attribution and license link must be retained when used._
 
-The interesting thing about "Little Mouse" is that it retains the tactile sense of early computer education. Children do not need to understand domains, accounts, and network protocols first; remembering the circle that looks like a mouse allows them to find it on the keyboard. The first step of technology entering life is often not understanding the entire system, but finding a recognizable name for a strange symbol.
+The interesting thing about "little mouse" (_xiao laoshu_) is that it preserves the tactile feel of early computer education. Children don't need to understand domains, accounts, and network protocols first — just remember the circle that looks like a mouse, and they can find it on the keyboard. The first step for technology entering life is often not understanding the whole system, but finding a name you can point to for an unfamiliar symbol.
 
-This name also leaves generational differences. People familiar with early email teaching can say "please send to Little Mouse" to make classmates immediately find the @. Those who encountered the internet later may more often say "at" or read out the entire address string. Both methods can complete the task, but the former carries a memory of Taiwan's campus and home computer classes.
+This name also leaves a generational difference. Those familiar with early email teaching could say "send it to the little mouse" (_qing ji dao xiao laoshu_) and classmates would immediately find @. Those who encountered the internet later might more often say "at", or just read out the whole address. Both ways accomplish the task, but the former carries an extra layer of memory from Taiwan's campus and home computer classes.
 
 ## Why D Becomes "Zhu" or "Chu"
 
@@ -108,26 +110,26 @@ The sense of identity in Taiwanese spoken language does not come only from uniqu
 
 ## References
 
-[^1]: [A Study on the Usage and Perception of Severity of Common Apologies in Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — A 2022 National Taiwan University Master's thesis, using 90 NTU student questionnaires to analyze the choice of "I'm sorry," "Sorry," and "Excuse me" in different social situations.
+[^1]: [A Study on the Usage and Perceived Severity of Common Apology Expressions in Taiwan](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — A 2022 master's thesis from National Taiwan University, using questionnaires from 90 NTU students to analyze the choices among "duìbuqǐ" (對不起), "bàoqiàn" (抱歉), and "bùhǎoyìsi" (不好意思) in different social situations.
 
-[^2]: [Ministry of Education _Revised National Language Dictionary_: Huh](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — Official Ministry of Education dictionary page, recording the phonetic notation ㄍㄜˊ, ㄏㄚˊ and standard definitions for clams, hard clams, toads, etc., for this article to distinguish between character form and spoken usage.
+[^2]: [Ministry of Education 'Revised Mandarin Chinese Dictionary': Ge](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — The official dictionary page of the Ministry of Education, which includes the Zhuyin (ㄍㄜˊ, ㄏㄚˊ) and standard definitions for 'gé' (蛤) such as 'hālí' (蛤蜊), 'wéngé' (文蛤), 'hámá' (蛤蟆), used in this article to distinguish character forms and colloquial usage.
 
-[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — A cross-linguistic study in PLOS ONE, analyzing the form and function of "huh?" as a dialogue repair initiator, reminding readers not to mistakenly write "Huh" as a phenomenon unique to Taiwan.
+[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — A cross-linguistic study published in PLOS ONE, analyzing the form and function of 'huh?' as a conversation repair initiator, reminding readers not to mistake 'ge' (蛤) as a phenomenon unique to Taiwan.
 
-[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — IETF email format standard, Section 3.4.1 defines the technical role of @ in separating the `local-part` and Internet domain in `addr-spec`.
+[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — IETF email format standard, Section 3.4.1 defines the technical role of @ in addr-spec as separating local-part and Internet domain.
 
-[^5]: [BBC Chinese: How Different Languages Call the "@" Symbol?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — BBC Future Chinese report, summarizing Taiwan's "Little Mouse" and global cultural differences in calling @ by animals or shapes, also introducing the history of the symbol entering email.
+[^5]: [BBC Chinese: How Do Different Languages Refer to the '@' Symbol?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — BBC Future Chinese report, summarizing cultural differences in how Taiwan calls it 'little mouse' (小老鼠) and how various regions refer to @ using animals or shapes, also introducing the history of the symbol's entry into email.
 
-[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Official biographical data from the Internet Hall of Fame, recording Raymond Tomlinson's contributions to network email and early mail standards.
+[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Official profile from the Internet Hall of Fame, documenting Ray Tomlinson's contributions to network email and early mail standards.
 
-[^7]: [Ministry of Education Dictionary of Commonly Used Taiwanese Hokkien Words: Zhu](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — Official Ministry of Education Taiwanese Hokkien dictionary, listing "Zhu" as ti/tu, providing the linguistic basis for the phonetic similarity between D and Taiwanese Hokkien.
+[^7]: [Ministry of Education Dictionary of Frequently-Used Taiwan Minnan: Pig](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — The official Ministry of Education Taiwan Southern Min dictionary, which lists 'pig' (豬) as ti/tu, providing the linguistic basis for the phonetic similarity between D and the Taiwanese pronunciation.
 
-[^8]: [Sanlih ETTV News: How Do Foreigners Pronounce D for Answers? Definitely Not "Zhu"](https://www.setn.com/news/868195) — 2020 news report summarizing PTT and online discussions on swapping exam papers in campuses; this article uses it only to support partial usage and circulation, not expanding it into a standard consistent across all of Taiwan.
+[^8]: [SET News: How Do Foreigners Pronounce D as an Answer? It's Definitely Not 'Pig'](https://www.setn.com/news/868195) — A 2020 news article compiling PTT and campus discussions about exchanging and correcting exam papers; this article only uses it to support partial usage and circulation, not to generalize it as a Taiwan-wide standard.
 
-[^9]: [Global Chinese Network: ABC Dog Bites Pig](https://biweekly.huayuworld.org/Material/372/Text) — Classic nursery rhyme teaching material from the Republic of China's Overseas Community Development Council, recording the full Taiwanese nursery rhyme text and marking Taiwanese Hokkien, providing the context of original campus oral transmission materials.
+[^9]: [Global Chinese Network: ABC Dog Bites Pig](https://biweekly.huayuworld.org/Material/372/Text) — Classic nursery rhyme teaching material from the Overseas Community Affairs Council of the Republic of China, containing the complete Taiwanese recitation text with Taiwanese Southern Min annotations, providing the original textbook context for campus oral transmission.
 
-[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — An existing Taiwan.md article on campus nursery rhymes, having organized "ABC Dog Bites Pig" and cross-generational oral transmission; this article avoids repetition by focusing on the answer recognition function of D.
+[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — The existing Taiwan.md article on schoolyard rhymes, which has already compiled 'ABC Dog Bites Pig' and cross-generational oral transmission; this article avoids duplication by focusing on D's answer-identification function.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Public domain @ symbol SVG file page; the article embeds via `upload.wikimedia.org` hotlink without downloading the image.
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — Public domain @ symbol SVG file page; the article embeds it via hotlink from `upload.wikimedia.org` without downloading the image.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Taiwan keyboard image file page, provided by Zhongzheng North Road 711, licensed under Creative Commons Attribution-ShareAlike 3.0; attribution and license links must be retained when used.
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — Taiwan keyboard image file page, provided by Zhongzheng North Road 711, licensed under Creative Commons Attribution-ShareAlike 3.0; attribution and license link must be retained when used.
