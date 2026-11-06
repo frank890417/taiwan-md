@@ -2020,6 +2020,19 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **相關**：REFLEXES #65 (f)／#69（同一顆腦不准又寫又審）——本條是它在「並行派工」這個新維度的失效路徑：規則沒被違反，是資源不足讓它靜默不執行
 - **verification_count**: 1
 
+### 2026-11-07 twmd-feedback-triage — 修「知不知道該撈」不會順手修「撈到讀不讀得到」
+
+- **pattern**: `the-mandatory-read-entrance-is-itself-windowed`
+- **原則**：一個被截斷的取數窗口會同時擋住兩個面——**當班知不知道窗口外有人**，以及**撈到之後讀不讀得到那個人**。兩個面住在不同的指令裡（報表 vs 讀取入口），所以修了一個不會自動修另一個，而修完第一個的那份滿足感會讓第二個更難被看見。更尖銳的是第二個面長在閘門身上：HG13 存在的理由就是「窗口外那位讀者要被讀完才准判」，而窗口外的人它讀不到時，它說的是「根本沒查到這筆」——那句話是為「id 打錯」寫的，兩種根因逐字相同而處置相反（改 id vs 加大 `--limit`）。
+- **觸發**：2026-11-07 07:00 轉錄班（憑證索取第六輪）。v1.17 昨天才落地 `formatQueueWindow()`，讓報表自己說「窗口外還有 N 筆」；今天照那條交接加大 `--limit` 撈到三位真實讀者（第 82-84 位，同一位 `菜國人`），把 id 丟給 `--show` 讀全文時回「根本沒查到這筆」，得再帶一次 `--limit 200` 才讀得到 → [memory/2026-11-07-071105-twmd-feedback-triage.md](memory/2026-11-07-071105-twmd-feedback-triage.md)、[reports/feedback-injection-campaign-2026-11-02.md §第六輪](../../reports/feedback-injection-campaign-2026-11-02.md)
+- **已落地那一半**：pipeline v1.18 `formatShowMissing()` 純函式 + 4 unit test（98/98 綠），四種讀數分開（窗口沒滿／窗口滿且外面還有／窗口滿但總數查不到／窗口剛好等於總數），wiring 檢查兩條分支各跑一次真實讀數 + 正控制（同一個真 id 加大窗口後確實印出全文）。純讀取面，不碰判準、不碰閾值。
+- **還沒做的那一半**：**撈這個動作本身仍然沒有閘門**。v1.18 讓 `--show` 提醒「這個 id 可能排在窗口外」，但前提是當班已經知道有這個 id——而知道有這個 id 的唯一路徑仍是第三輪寫進交接、靠自覺執行的那條「加大 `--limit` 再跑一次」。窗口該開多大是閾值（OBSERVER-QUEUE #119 的 (b)），所以這一半動不了。
+- **instances**：（首例，見觸發）
+- **可能層級**：[REFLEXES #38](REFLEXES.md) 混維度的 instance（fold，不開新編號）——載體是「查不到」這三個字。同時是 [#16](REFLEXES.md) 否定式結論延伸的本線形狀：否定式斷言只用了一個被截斷的窗口，而說它的工具不知道自己的視野有多窄。候選的跨域規則：**任何「視野有上限」的工具，它的否定式輸出都要帶上自己的視野大小**，否則「我沒看到」會被讀成「不存在」。
+- **相關**：[REFLEXES #38](REFLEXES.md)（混維度）、[#16](REFLEXES.md)（否定式結論舉證要比肯定式高）、[#85](REFLEXES.md)（「不知道」要有自己的符號）、[#97](REFLEXES.md)（交接面完整性——`--show` 第三次漏印該印的東西：v1.11 四欄只印兩欄、11-02 十欄只印八欄、今天是窗口外讀不到）、[#100](REFLEXES.md)（wiring 檢查，承 11-05 `dry-run-gate-catches-the-pipelines-own-edit`）
+- **verification_count**: 1
+- **severity**: structural（它長在 HG13 這道保護讀者的閘門上，而失效方式是把一個真實的人報成不存在）
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

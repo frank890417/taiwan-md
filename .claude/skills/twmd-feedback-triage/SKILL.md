@@ -103,6 +103,12 @@ node scripts/feedback/triage.mjs --intake-health
 
 印「佇列總數查不到」**不等於**窗口外沒東西（同 HG12b `unavailable` 紀律）。
 **這一行讓當班知道該撈，不代替當班去撈**——下面那條加大 `--limit` 的零判斷動作照做。
+
+**`--show` 也被同一個窗口擋著（v1.18，2026-11-07）**：`--show` 跟 dry-run 共用 `--limit`，
+所以**窗口外的讀者 `--show` 讀不到**，而 v1.17 以前它對這種情形說「根本沒查到這筆」——
+跟 id 打錯逐字相同，處置相反。現在四種讀數分開，窗口滿且外面還有時會說
+「這個 id 可能就排在外面，加大 `--limit` 再試一次」。
+**`--show` 窗口外的那幾筆記得帶 `--limit`**：`node scripts/feedback/triage.mjs --limit 200 --show <id>`。
 它不改預設值、不自己加大窗口：窗口該開多大是閾值，跟「那 80 筆怎麼收尾」同屬
 OBSERVER-QUEUE #119 的 (b)，留哲宇。
 

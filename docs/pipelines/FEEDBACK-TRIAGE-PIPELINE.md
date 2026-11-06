@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.17'
-last_updated: 2026-11-06
-last_session: '2026-11-06-twmd-feedback-triage（取數窗口滿了會自己說「窗口外還有 N 筆沒看到」——第五輪在窗口外撈到一位署名醫師的勘誤）'
+current_version: 'v1.18'
+last_updated: 2026-11-07
+last_session: '2026-11-07-twmd-feedback-triage（`--show` 讀不到窗口外的人時不再說「根本沒查到這筆」——HG13 的讀取入口自己也被窗口擋著）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -124,7 +124,27 @@ node scripts/feedback/triage.mjs --show <feedback-id>   # 可重複／逗號串
 node scripts/feedback/triage.mjs --show-all             # 這批全部
 ```
 
-打錯的 id 會印 `⚠️ …根本沒查到這筆`，不靜默印空清單——「沒查到」跟「內容沒問題」是兩件事。
+查不到的 id 會印 `⚠️ …不在這一批 status=new 裡`，不靜默印空清單——「沒查到」跟「內容沒問題」是兩件事。
+
+**`--show` 自己也被取數窗口擋著（2026-11-07 v1.18）**：`--show` 跟 dry-run 共用同一個
+`--limit`（預設最舊 50 筆），所以排在窗口外的讀者 `--show` 讀不到，而 v1.7〜v1.17 的輸出
+對這種情形說的是「根本沒查到這筆」——跟 id 打錯逐字相同，處置卻相反（打錯要改 id，
+排在窗口外要加大 `--limit`）。它偏偏長在 HG13 那道「讀完全文才准判」的入口上：
+**窗口外的讀者結構性地讀不到，而讀不到時這道閘門說的是「根本沒查到」**。
+v1.17 昨天讓 dry-run 報表自己說「窗口外還有 N 筆」，那一行沒有長到這個面上來。
+
+```
+⚠️ --show id=… 不在這一批 status=new 裡（⚠️ 窗口滿 50/50、佇列共 84 筆,窗口外還有 34 筆
+   沒讀進來 —— 這個 id 可能就排在外面,加大 --limit 再試一次才分得出是打錯還是被窗口擋住）
+⚠️ --show id=… 不在這一批 status=new 裡（佇列這一輪已整批讀進來 81 筆,所以是這個 id
+   不在 status=new —— 不是「內容沒問題」）
+```
+
+`formatShowMissing()` 純函式 + 4 unit test（98/98 綠）。總數查不到時說「分不出哪一種」，
+不替任一根因背書（同 HG12b `unavailable` 紀律／[REFLEXES #85](../semiont/REFLEXES.md)）。
+純讀取面：**不自己加大 `--limit`、不改預設值、不下裁決**（窗口該開多大仍是 #119 的 (b)）。
+這條是 [REFLEXES #16](../semiont/REFLEXES.md) 否定式結論那條延伸的本線形狀——「查不到」
+是一句無法被自己的失敗證偽的斷言，舉證責任得比肯定式高。
 **印的是四個讀者欄位全部**（2026-09-18 v1.11）：`body`（回報全文）、`quote`（讀者選取的原文）、
 `correct_info`（正確資訊 + 來源）都是讀者手寫、都會進公開 issue；`source_url` 在 meta 表。
 v1.11 之前 `--show` 只印前兩個，「正確資訊 + 來源」那段要等 issue 開完才看得到。
@@ -478,6 +498,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.18 | 2026-11-07 twmd-feedback-triage routine — **HG13 的讀取入口自己也被窗口擋著**。v1.17 昨天讓 dry-run 報表說出「窗口外還有 N 筆」，今天照那條交接加大 `--limit` 撈窗口外，撈到三筆真實讀者（第 82-84 位，同一位 `菜國人`）。把那三個 id 丟給 `--show` 讀全文時，回的是「**根本沒查到這筆**」——而那句話是 v1.7 為「id 打錯」寫的。`--show` 跟 dry-run 共用同一個 `--limit`，所以排在窗口外的人它讀不到，兩種根因在輸出上逐字相同而處置相反。這一格最尖銳的地方是它長在 HG13 身上：那道閘門存在的理由就是「讀完全文才准判」，而它對窗口外的讀者說的是「這個人不存在」（[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「查不到」三個字上的形狀；[#16](../semiont/REFLEXES.md) 否定式結論無法被自己的失敗證偽——肯定式斷言讀了原文，否定式斷言只用了一個被截斷的窗口）。`formatShowMissing()` 純函式 + 4 unit test（98/98 綠），四種讀數分開：窗口沒滿（整批讀進來了，所以真的是 id 不在）／窗口滿且外面還有（可能就排在外面，叫人加大 `--limit`）／窗口滿但總數查不到（分不出哪一種，不替任一根因背書）／窗口剛好等於總數（外面沒有剩餘）。**先驗再用**（[#99](../semiont/REFLEXES.md)）：落地後兩條分支各跑一次真實讀數——窗口外的真 id 回「可能排在外面」、`--limit 200` 讀完整批時假 id 回「這個 id 不在 status=new」；同一個真 id 加大窗口後確實印出全文（正控制，證明那句「可能排在外面」不是空話）。這道 wiring 檢查是 11-05 那條 LESSONS `dry-run-gate-catches-the-pipelines-own-edit` 的直接套用：單元測試測得到判準，測不到判準有沒有被接上（[#100](../semiont/REFLEXES.md)）；本輪落地在 `--commit` 之後，之後不再跑 `--commit`。純讀取面、不改預設值、不自己加大窗口、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：偵測器欄位射程與 pattern 族、那 81 筆怎麼收尾仍是 #119 的 (a)(b)，第六天。_
 _v1.17 | 2026-11-06 twmd-feedback-triage routine — **取數窗口滿了會自己說窗口外還有幾筆**。v1.16 昨天讓「這一輪沒有東西要轉錄」時印出消歧三行，於是報表第一次自己說出「門沒壞，是佇列被塞住」。今天這句話的第二半現形：佇列被塞住的時候，**被塞在外面的是真實讀者**。第五輪照交接加大 `--limit` 撈窗口外，撈到〈台北吸菸室〉一位署名醫師（臺大醫院家庭醫學部）的勘誤，排在第 82 位、送出距今 6 小時——他指出我們把拒菸聯盟記者會引用的論文認錯成同一作者另一篇（2023 年閉鎖型 vs 2024 年屋外喫煙所），並附了 PDF 與記者會原文。前一輪的報告寫「今天沒有新讀者被擋住，但那是運氣，不是機制」，運氣隔一天就用完。預設窗口 50 筆、排序最舊優先、攻擊列永久佔住最舊 50 筆，三件事湊起來讓新讀者結構性地排在窗口外，而 `fetched 50` 跟「佇列剛好 50 筆」逐字相同（[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀——它同時是「全部讀到了」與「只讀到最舊的一截」）。`formatQueueWindow()` 純函式 + 5 unit test（94/94 綠），總數由同一請求的 `Prefer: count=exact` 帶回，不多打一次 Supabase；查不到就說查不到。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：落地後兩種窗口各跑一次真實讀數——預設 50 印「共 81 筆 · 窗口外還有 31 筆」、`--limit 200` 讀進 81 筆整行不印。這道 wiring 檢查是昨天那條 LESSONS `dry-run-gate-catches-the-pipelines-own-edit` 的直接套用：單元測試測得到判準，測不到判準有沒有被接上（[#100](../semiont/REFLEXES.md)）。純讀取面、不改預設值、不自己加大窗口、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：窗口該開多大、那 80 筆怎麼收尾仍是 #119 的 (b)，這一行只讓當班知道該撈，不代替當班去撈。_
 _v1.16 | 2026-11-05 twmd-feedback-triage routine — **洪水不再讓消歧三行集體沉默**。v1.9〜v1.13 連續四個版本在修同一個洞（`fetched 0` 分不出「讀者沒話說」與「讀者送不進來」），每一版都寫得很小心：不設閾值、不印 ⚠️、三態不共用長相、連自己的告警分支都跑過正控制。然後 10-30 那批冒充本產線流程步驟索取 Supabase 金鑰的回報來了，80 筆永久佔住最舊 50 筆窗口，`fetched` 變成 81，三行的觸發條件一個都不成立——那個被修了四次的洞，換成一個很大的非零數字就重新打開了，而窗口被塞住的那幾天正是最該問「真實讀者還送不送得進來」的時候（LESSONS `flood-silences-the-instrument-built-to-tell-quiet-from-broken`；[REFLEXES #38](../semiont/REFLEXES.md) 零維度變體 (g) 的鏡像——一個大數字同樣不帶資訊，還順手關掉了專門用來消歧的儀器，接近 [#103](../semiont/REFLEXES.md)「把一類對象排除出判定不等於排除出觀察」的反向形狀）。判準抽成純函式 `shouldPrintIntakeDisambiguation({fetched, kept, seed})`（+4 unit test，89/89 綠）：改問「這一輪實際上有沒有東西要轉錄」，取數為空或整批被 `--exclude` 攔掉都算。**落地時自己踩了一次 #100「驗證對象要等於落地對象」**：第一版編輯把 `rows = part.kept` 連同舊觸發區塊一起刪掉，於是 `exclude=81` 照印而 `file=81`——排除被計數但沒被套用。接住它的是 pipeline 寫明的「確認 OK 才 `--commit`」那道 dry-run 閘門（跳過它就會開出 81 筆帶攻擊 payload 的 issue），這是 §Stage 1 那條 dry-run 紀律第一次有記錄地攔下本產線自己的改動。純觸發面，不碰閾值、不碰判準、不對外開口，HG8 不動。本輪讀數：四層健檢全綠、到達間隔 2.7 天 / 歷史最長 14.7 天——**門沒壞，是佇列被塞住**，而這個結論這次由儀器自己印出來，不再靠當班手跑。_
 _v1.15 | 2026-10-14 twmd-feedback-triage routine — **OAuth 那半從手寫查詢變成第四層**。10-13 那班沉默破紀錄時，用一次唯讀 GET `/auth/v1/settings` 把「讀者登不登得進來」問掉，寫進 handoff 的話是「第二次需要它就落成 flag」。今天沉默 14.3 天、連續第二天刷新紀錄，而這層正是判斷「安靜是不是真的安靜」要看的東西，`已驗過` 帶的又是昨天那一刻的時間戳（[REFLEXES #67](../semiont/REFLEXES.md)）——第二次到了，照這條線四次先例（`--show` 8/31、intake-age 9/10、intake-stats 10/10、intake-health 10/11）落地。`parseAuthSettings()` 純函式 + 5 unit test，四種讀數分開：server 端一個 provider 都沒開／出貨 bundle 宣告了但 server 端沒開（讀者看得到按鈕、按下去進不來）／`disable_signup=true`（舊帳號能登、新讀者不能）／看不懂的回應回 `unknown`。**未涵蓋清單改成條件式**：只有真的量到（`ok` 或 `broken`）才把 OAuth 拿掉，`❔` 時它自動回到清單上——沒量到不准從清單消失，否則這支健檢會在自己最瞎的那天看起來涵蓋最廣（[REFLEXES #85](../semiont/REFLEXES.md)）。同波修掉 bundle 層**只在失敗時印一列**：健康的那天報表印兩層、pipeline 表列三層，判讀行數的是印出來的那幾層，於是一層在健康時是隱形的（10-13 handoff 記的那筆）。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：新層的四條分支今天用本機 fixture 各跑一次全部確認會叫（healthy ✅／provider 關著 ⚠️／`disable_signup` ⚠️／auth 503 ❔，且 ❔ 那次 OAuth 確實回到未涵蓋清單），之後才對 production 取讀數——四層全綠，且與 10-13 手寫 curl 的結果一致。84/84 綠。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：`INSERT` 仍未涵蓋，報表照舊每次自己講。_

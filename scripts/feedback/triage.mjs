@@ -177,6 +177,39 @@ export function selectForShow(rows, showIds) {
 }
 
 /**
+ * `--show` 指名的 id 不在這一批裡時,說清楚是哪一種「不在」。
+ *
+ * v1.7 造這句話時只想得到一種根因:id 打錯了。而 `--show` 跟 dry-run 共用同一個
+ * 取數窗口（預設最舊 50 筆）,所以還有第二種:**id 是對的,人排在窗口外**。
+ * 兩種在舊版輸出裡逐字相同,而處置相反——打錯要改 id,排在窗口外要加大 `--limit`。
+ * 它偏偏長在 HG13 那道「讀完全文才准判」的入口上:**窗口外的讀者結構性地讀不到,
+ * 而讀不到時這道閘門說的是「根本沒查到這筆」**。
+ *
+ * 2026-11-07 第六輪親手絆到:三筆真實讀者排在第 82-84 位,`--show` 回「根本沒查到」,
+ * 要再加 `--limit 200` 才讀得到。v1.17 昨天讓 dry-run 報表自己說「窗口外還有 N 筆」,
+ * 那一行沒有長到這個面上來（[REFLEXES #38](../../docs/semiont/REFLEXES.md) 混維度在
+ * 「查不到」這三個字上的形狀；[#16](../../docs/semiont/REFLEXES.md) 否定式結論的舉證
+ * 要比肯定式高——「查不到」無法被自己的失敗證偽）。
+ *
+ * 純讀取面:只分辨根因、只給事實,**不自己加大 `--limit`、不改預設值、不下裁決**
+ * （窗口該開多大仍是閾值,OBSERVER-QUEUE #119 的 (b)）。總數查不到就說查不到,
+ * 不替任何一種根因背書（同 HG12b `unavailable` 紀律、[#85](../../docs/semiont/REFLEXES.md)）。
+ */
+export function formatShowMissing({ id, fetched, limit, total = null } = {}) {
+  const head = `  ⚠️ --show id=${id} 不在這一批 status=new 裡`;
+  const windowFull =
+    Number.isFinite(fetched) && Number.isFinite(limit) && fetched >= limit;
+  if (!windowFull)
+    return `${head}（佇列這一輪已整批讀進來 ${fetched} 筆,所以是這個 id 不在 status=new —— 不是「內容沒問題」）`;
+  if (total === null || !Number.isFinite(total))
+    return `${head}（⚠️ 窗口已滿 ${fetched}/${limit} 而佇列總數查不到 —— 分不出是 id 打錯還是排在窗口外,加大 --limit 再試一次）`;
+  const beyond = total - fetched;
+  if (beyond <= 0)
+    return `${head}（窗口滿 ${fetched}/${limit} 但佇列共 ${total} 筆、窗口外沒有剩餘,所以是這個 id 不在 status=new）`;
+  return `${head}（⚠️ 窗口滿 ${fetched}/${limit}、佇列共 ${total} 筆,窗口外還有 ${beyond} 筆沒讀進來 —— 這個 id 可能就排在外面,加大 --limit 再試一次才分得出是打錯還是被窗口擋住）`;
+}
+
+/**
  * 把一筆 feedback 印成當班讀得完的全文（唯讀,不碰 status／不碰 GitHub）。
  * HG13 要求「讀完全文才准動手」,而在這之前這條線上沒有任何入口能讀到 body ——
  * 十四輪都靠當班自己手寫一段 Supabase REST 查詢即興補上（LESSONS
@@ -934,7 +967,12 @@ async function main() {
     for (const r of sel.found) console.log(formatForShow(r));
     for (const id of sel.missing) {
       console.log(
-        `  ⚠️ --show id=${id} 在這批 status=new 裡找不到（不是「內容沒問題」,是根本沒查到這筆）`,
+        formatShowMissing({
+          id,
+          fetched: fetchedCount,
+          limit: args.limit,
+          total: queueTotal,
+        }),
       );
     }
     console.log(
