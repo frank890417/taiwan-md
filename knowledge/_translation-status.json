@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-07T00:09:35+08:00",
-    "zhCommitHead": "8e8366c1b",
+    "lastUpdated": "2026-11-07T00:46:13+08:00",
+    "zhCommitHead": "f361b1e73",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1113,
-        "stale": 22,
+        "fresh": 1114,
+        "stale": 21,
         "metadata_stale": 23,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1117,
+        "fresh": 1118,
         "stale": 21,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1119,
+        "fresh": 1120,
         "stale": 25,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 4,
         "orphan": 0
       },
@@ -84,25 +84,25 @@
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1105,
+        "fresh": 1106,
         "stale": 33,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1115,
-        "stale": 26,
+        "fresh": 1116,
+        "stale": 25,
         "metadata_stale": 17,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 21,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 4,
         "orphan": 0
       },
@@ -10420,8 +10420,8 @@
           "sourceContentHash": "sha256:4da8d8f4824a9c3e",
           "sourceBodyHash": "sha256:ccfe4d55665e1140",
           "translatedAt": "2026-11-06T14:36:56.413734+00:00",
-          "translationLastCommit": "2c3d3a68",
-          "translationLastModified": "2026-10-17T00:40:17+08:00",
+          "translationLastCommit": "f361b1e7",
+          "translationLastModified": "2026-11-07T00:09:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 38593,
@@ -25718,20 +25718,18 @@
         "ko": {
           "path": "ko/Technology/tasa-taiwan-space-agency.md",
           "translatedFrom": "Technology/國家太空中心.md",
-          "sourceCommitSha": "faa905d7",
-          "sourceContentHash": "sha256:27a79bac11713a70",
+          "sourceCommitSha": "50face4e0",
+          "sourceContentHash": "sha256:451bca716e820c75",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
-          "translatedAt": "2026-10-08T16:48:28.190093+00:00",
+          "translatedAt": "2026-11-06T16:45:56.095266+00:00",
           "translationLastCommit": "0e0f672c",
           "translationLastModified": "2026-10-10T23:06:11+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 87422,
+          "bytes": 87658,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/tasa-taiwan-space-agency.md",
@@ -28876,8 +28874,8 @@
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
           "translatedAt": "2026-11-06T15:50:04.247169+00:00",
-          "translationLastCommit": "ea7a84ec",
-          "translationLastModified": "2026-10-08T12:25:17+08:00",
+          "translationLastCommit": "f361b1e7",
+          "translationLastModified": "2026-11-07T00:09:35+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 26749,
@@ -123009,20 +123007,18 @@
         "ar": {
           "path": "ar/People/chen-chih-han-holger.md",
           "translatedFrom": "People/館長陳之漢.md",
-          "sourceCommitSha": "319acd7f7",
-          "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
-          "sourceBodyHash": "sha256:4da6179cc5f355db",
-          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:1f68646298af1a51",
+          "sourceBodyHash": "sha256:e6ca47c23634b64c",
+          "translatedAt": "2026-11-06T17:04:47+08:00",
           "translationLastCommit": "f02992ad",
           "translationLastModified": "2026-09-10T10:44:12+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 27770,
+          "bytes": 26227,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-chih-han-holger.md",
@@ -141447,20 +141443,18 @@
         "hi": {
           "path": "hi/People/cc-wei.md",
           "translatedFrom": "People/魏哲家.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translatedAt": "2026-11-06T16:09:42.912142+00:00",
           "translationLastCommit": "e1dba7de",
           "translationLastModified": "2026-09-09T19:06:33+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 19993,
+          "bytes": 18833,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/cc-wei.md",
@@ -143915,20 +143909,18 @@
         "ru": {
           "path": "ru/People/yung-ching-wang-formosa-plastics-founder.md",
           "translatedFrom": "People/王永慶.md",
-          "sourceCommitSha": "9be0c5314",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:09b83ca512f814fd",
           "sourceBodyHash": "sha256:2035945bf29ced7a",
-          "translatedAt": "2026-10-15T21:31:29.699890+00:00",
+          "translatedAt": "2026-11-06T16:17:59.785908+00:00",
           "translationLastCommit": "c5bbfc0e",
           "translationLastModified": "2026-10-16T05:57:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 27098,
+          "bytes": 27416,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/yung-ching-wang-formosa-plastics-founder.md",
@@ -144773,18 +144765,18 @@
         "en": {
           "path": "en/People/tieniu-jie-ge.md",
           "translatedFrom": "People/鐵牛杰哥.md",
-          "sourceCommitSha": "a7bf511aa",
-          "sourceContentHash": "sha256:695b08b5d7d2de65",
-          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
-          "translatedAt": "2026-09-12T07:00:32+08:00",
+          "sourceCommitSha": "1de79023e",
+          "sourceContentHash": "sha256:015dd447dc8ae669",
+          "sourceBodyHash": "sha256:9ab8023205bdc033",
+          "translatedAt": "2026-11-06T16:18:33.598275+00:00",
           "translationLastCommit": "8c2e0fd9",
           "translationLastModified": "2026-09-22T00:49:58+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 36318,
+          "footnoteDefs": 44,
+          "bytes": 45737,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (44→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/tieniu-jie-ge.md",
@@ -192383,20 +192375,18 @@
         "ja": {
           "path": "ja/History/taiwan-womens-movement.md",
           "translatedFrom": "History/婦女運動.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:0fa036adc14c8895",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
-          "translatedAt": "2026-09-10T11:56:47.759207+00:00",
+          "translatedAt": "2026-11-06T17:05:13+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 37692,
+          "bytes": 33892,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-womens-movement.md",
