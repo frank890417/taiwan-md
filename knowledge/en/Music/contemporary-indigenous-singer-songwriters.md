@@ -1,15 +1,15 @@
 ---
-title: 'Contemporary Indigenous Musicians of Taiwan'
-description: 'Chen Chien-nien''s "Ocean" blends Paiwan and Mandarin; Shuming connects creation back to Dawu cultural education, while ABAO brings Paiwan into contemporary pop production. From aMEI and Wang Hong-en to Sangpuy and Ilid Kaolo, this piece compares different musicians'' works and listening entry points, cross-referencing GMA album, artist, and song awards to understand how mother tongue, lived experience, and recording techniques intersect—without lumping multiple ethnic groups into a single sound.'
+title: 'Contemporary Indigenous Singers: From A-mei''s "Sisters" to Abao Winning Golden Melody Album of the Year with Paiwan Language'
+description: 'In 1996, A-mei debuted with "Sisters", bringing Puyuma vocals into Mandarin pop; Chen Chien-nien''s "Ocean" moves between Puyuma and Mandarin, Suming ties his creations back to Taitung''s Dulan, and Ilid Kaolo won the Golden Melody Best Indigenous Language Singer with an Amis album. In 2020, Abao''s Paiwan-language album "kinakaian Mother''s Tongue" won the Golden Melody Album of the Year. Ethnicity does not define the work; each artist uses different languages, lyrics, compositions, and arrangements.'
 date: 2026-03-18
 category: 'Music'
 tags:
   [
-    'Indigenous musicians',
-    'pop music',
-    'cultural fusion',
+    'Indigenous Singers',
+    'Pop Music',
+    'Cultural Fusion',
     'Golden Melody Awards',
-    'contemporary creation',
+    'Contemporary Creation',
   ]
 subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
@@ -19,28 +19,30 @@ lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
 relatedDiary: ['2026-09-07-164559-audit-upgrade']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 5,981 曝光 60 點擊（1.0%），主查詢「原住民歌手」833、「原住民女歌手」324 曝光，裸主題 title 沒有這個詞；title 改冒號三明治放進「原住民歌手」，description 拿掉「本文比較」'
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:5f5c57d9d0a5af84'
-sourceBodyHash: 'sha256:6ab99bf50b216a39'
-translatedAt: '2026-09-08T00:42:45+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:3b3422dc3e5660c1'
+sourceBodyHash: 'sha256:c40d04f82db2ee2c'
+translatedAt: '2026-11-05T23:28:49.621633+00:00'
 ---
 
-# Contemporary Indigenous Musicians of Taiwan
+# Contemporary Indigenous Singers in Taiwan: From A-mei's "Sisters" to ABAO Winning Album of the Year with a Paiwan-Language Album
 
-Within the landscape of Taiwanese music, Indigenous musicians bring unique vitality to the Mandopop scene through deep cultural roots and innovative musical expression. From aMEI's breakout in the 1990s to the rise of new-generation artists like Shuming and Sangpuy in the 2000s, Taiwanese Indigenous music continues to explore diverse forms of expression between tradition and modernity.
+In Taiwan's music landscape, Indigenous singers have injected unique vitality into the Mandopop scene with their deep cultural heritage and innovative musical vocabulary. From A-mei's meteoric rise in the 1990s to the emergence of a new generation like Shuming and Sangpuy in the post-2000s, Taiwanese Indigenous music has continuously explored different modes of expression between tradition and modernity.
 
-> **30-second overview**: This article introduces various musicians through popular songs, mother-tongue albums, and tribal music education, cross-referencing the official GMA (Golden Melody Awards) list to connect works with awards.
+> **30-Second Overview**: This article introduces different musicians through pop songs, mother-tongue albums, and tribal music education, cross-referencing works and awards with the official Golden Melody Awards lists.
 
-Contemporary Indigenous musicians in Taiwan have established their place in the pop music scene through their own creation, performance training, and cultural experience. Representative figures include "Asia's Queen" aMEI, "Folk Poet" Chen Chien-nien, "New Generation King" Shuming, "Soul Singer" Sangpuy, and others.
+Contemporary Indigenous singers in Taiwan have established their place in the popular music world through their respective creative work, performance training, and cultural experiences. Representative figures include the "Asian Diva" A-mei, the "Folk Poet" Chen Chien-nien, the "New Generation Song King" Shuming, and the "Soul Singer" Sangpuy.
 
-In addition to achieving commercial success in the music industry, they also use music to pass down Indigenous culture, creating a unique "Indigenous sound" for Taiwanese music. The GMA's Indigenous language album awards provide an entry point for observing mother-tongue recordings.[^7]
+Beyond achieving success in commercial music, they also pass on Indigenous culture through music, creating a unique "Indigenous sound" for Taiwanese music. The Golden Melody Awards' Indigenous language album categories provide an entry point for observing mother-tongue recordings.[^7]
 
-These parallelly developing musical styles—including Mandarin commercial production, mother-tongue folk, and electronic music—do not form a fixed generational shift. A single artist may also span multiple creative approaches.
+These parallel developing musical paths — including Mandarin commercial production, mother-tongue folk, and electronic music — do not constitute a fixed generational succession; a single singer may also traverse multiple creative approaches.
 
-**Keywords:** aMEI, Chen Chien-nien, Shuming, Sangpuy, Golden Melody Awards, mother-tongue creation, cultural inheritance
-
----
+**Keywords:** A-mei, Chen Chien-nien, Shuming, Sangpuy, Golden Melody Awards, mother-tongue creation, cultural heritage
 
 ## From Tribe to the World: A Musical Journey
 

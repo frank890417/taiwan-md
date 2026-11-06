@@ -1,12 +1,12 @@
 ---
-title: "The Village and Neighborhood Chief System: 7,748 Elected Leaders, Taiwan's Most Grassroots Political Unit"
-description: 'A neighborhood office at 5:30 AM, an NT$54,000 monthly administrative subsidy, over 60% independent—Village and neighborhood chiefs are the least "political" political positions in Taiwan, yet they are the most complete evidence of Taiwan''s democratization. From the Japanese-era *baojia* system to direct elections in 1950, these 7,748 positions—more numerous than 7-Eleven stores—manage local relations through eighty years of continuity.'
+title: "Village and Neighborhood Chief System: 7,748 Elected Heads, Taiwan's Most Grassroots Political Units"
+description: "Village chiefs and neighborhood chiefs are the same level of elected heads, differing in jurisdiction: townships have villages, special municipalities and county-administered cities have neighborhoods, totaling 7,748 nationwide. Under the Local Government Act, the term is four years, re-election allowed with no term limit, elected every four years alongside the nine-in-one elections; the 2026 voting date is November 28. Village and neighborhood chiefs are unpaid positions, receiving a monthly administrative allowance of NT$54,000, not counted as salary; over 60% are non-partisan, evolving from the Japanese-era baojia system into Taiwan's most grassroots elected positions."
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
     'Village and Neighborhood Chiefs',
-    'Grassroots Autonomy',
+    'Grassroots Self-Governance',
     'Local Government Act',
     'Japanese-era Baojia System',
     '2026 Elections',
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:29:48+08:00'
+translatedAt: '2026-11-06T00:23:38.997319+00:00'
 ---
 
 # The Village and Neighborhood Chief System: 7,748 Elected Leaders, Taiwan's Most Grassroots Political Unit
