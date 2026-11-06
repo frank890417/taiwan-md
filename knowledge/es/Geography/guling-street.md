@@ -1,42 +1,48 @@
 ---
-title: 'Calle Guling: la calle de libros que dejaron los japoneses, el adolescente de Edward Yang y los palacios del Gobierno nacionalista'
-description: 'Un sábado por la tarde, estudiantes hacen fila frente al teatro de ladrillo rojo al final del callejón 5 de la calle Guling; al lado están el Museo Nacional de Historia, construido en 1955, y el estanque de lotos del Jardín Botánico de Taipéi, reorganizado en 1921. Esta calle de 1,2 kilómetros se llamó Sakuma-chō en 1922 y en 1947 fue rebautizada como calle Guling, nombre tomado de Lushan, en Jiangxi. Después de la guerra de 1945, los libros que los japoneses no pudieron llevarse al retirarse se pusieron en la calle y formaron la primera calle de libros usados de Taiwán; en su apogeo, en la década de 1960, tuvo más de 200 puestos. Tras la apertura del puente Guanghua en abril de 1973, los vendedores fueron reorganizados y trasladados bajo el paso elevado Guanghua. El 15 de junio de 1961, en esta calle, Mao Wu, de 16 años, mató con un cuchillo scout a Liu Min, de 15; en 1991 Edward Yang convirtió el caso en una película de 237 minutos. La calle de libros fue desmantelada, los puestos se mudaron y los estudiantes empezaron a comprar libros en otros lugares; lo que quedó fue el antiguo edificio de ladrillo rojo de una comisaría de la época japonesa, un museo de posguerra de estilo palaciego chino y el estanque de lotos que permanece allí desde 1921.'
+title: 'Calle Guling: la calle de libros que dejaron los japoneses, el joven de Yang Dechang, el palacio del Gobierno Nacional'
+description: 'La calle Guling es una calle de 1,2 km en Taipéi; en 1922 se llamaba Sakuma-cho y en 1947 fue renombrada en honor a Guling del monte Lu en Jiangxi. Tras la guerra, los libros dejados por los japoneses se colocaron al borde de la calle, convirtiéndose en la primera calle de libros usados de Taiwán, con más de doscientos puestos en su apogeo. En 1961, Mao Wu, de 16 años, apuñaló a muerte a Liu Min, de 15 años, en esta calle, y Yang Dechang la llevó al cine. Los puestos de libros se trasladaron, pero el museo histórico de estilo palaciego y el estanque de lotos de 1921 siguen allí.'
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區 / 台北市中正區'
 tags:
   [
     'Calle Guling',
     'Academia Nanhai',
-    'Ciudad de Taipéi',
-    'Distrito de Zhongzheng',
+    'Taipéi',
+    'Distrito Zhongzheng',
     'Barrio histórico',
     'Calle de libros usados',
-    'Edward Yang',
-    'Caso del asesinato juvenil de la calle Guling',
+    'Yang Dechang',
+    'Caso de asesinato juvenil de la calle Guling',
     'Museo Nacional de Historia',
     'Jardín Botánico de Taipéi',
     'Pequeño Teatro de la Calle Guling',
-    'Sakuma-chō',
-    'Kodama-chō',
-    'Mercado Guanghua',
+    'Sakuma-cho',
+    'Kodama-cho',
+    'Centro Comercial Guanghua',
     'Librería Songlin',
     'Serie de barrios históricos',
   ]
-readingTime: 18
+subcategory: '歷史街區 / 台北市中正區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/guling-street.md'
+series: '歷史街區系列（台北 batch 1, P2-12）'
+image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
+imageCredit: 'Yu tptw'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/guling-street-nanhai-academy-2024.webp
-imageCredit: Yu tptw
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg
+translatedAt: '2026-11-06T00:25:01.751986+00:00'
 ---
 
 # Calle Guling: la calle de libros que dejaron los japoneses, el adolescente de Edward Yang y los palacios del Gobierno nacionalista
