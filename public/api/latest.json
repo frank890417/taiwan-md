@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-11-05T22:37:39.867Z",
+  "_generated": "2026-11-06T22:30:30.233Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子",
+        "desc": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
+        "date": "2026-11-06T08:51:03+08:00",
+        "readingTime": 17,
+        "image": "/article-images/society/taipei-ximending-smoking-booth-2026.webp"
+      },
       {
         "title": "外送平台：一個按鈕送到家，誰在替城市趕時間",
         "desc": "2019 年後，外送從新服務變成台灣城市的日常基礎設施：餐飲店靠它接觸新客人，消費者靠它縮短等待，外送員則在手機、機車與道路之間承擔被看不見的時間與風險。2026 年 10 月 21 日，公平會以 Uber 持有 Grab 13.1% 股權為核心的四大理由，表決禁止這筆 193 億元的併購案，foodpanda 留在原品牌，市場維持雙占結構；公平會也說明，未來仍可再提申請。",
@@ -263,21 +272,12 @@
         "date": "2026-11-04T08:34:43+08:00",
         "readingTime": 10,
         "image": "/article-images/people/holger-chen-ketagalan-2025.webp"
-      },
-      {
-        "title": "冷氣不是奢侈品：台灣能源貧窮與居住熱安全的公共治理",
-        "desc": "台灣的能源貧窮不只代表付不起電費，也包括住在隔熱不良的老屋、使用高耗能家電、害怕開冷氣，以及在高溫中被迫用健康換取帳單可負擔。本文從能源支出、住宅條件與熱傷害交會處，重建台灣能源貧窮的問題，並提出以居住熱安全、到府診斷、社區改造與資料治理為核心的政策方向，說明能源轉型如何兼顧弱勢家戶的生活尊嚴與健康安全。",
-        "category": "society",
-        "href": "/society/%E5%86%B7%E6%B0%A3%E8%88%87%E8%83%BD%E6%BA%90%E8%B2%A7%E7%AA%AE%E8%AD%B0%E9%A1%8C",
-        "date": "2026-11-04T08:34:43+08:00",
-        "readingTime": 16,
-        "image": "/article-images/society/taipei-old-apartment-cc0.webp"
       }
     ],
     "en": [
       {
-        "title": "ASUS (ASUSTeK): A Taiwanese Brand, From a Taipei Apartment in 1989 to the World's Top Motherboard Maker",
-        "desc": "ASUS is a Taiwanese company. Four former Acer engineers founded it in 1989 in an apartment on Minsheng East Road in Taipei, with NT$10 million in capital. It holds over 40% of the global motherboard market, first for 15 straight years, and ranks fifth in PC shipments. ASUS committed to its own brand early and spun off its contract manufacturing as Pegatron in 2008.",
+        "title": "ASUS: From a Taipei Apartment to the World's No. 1 Motherboard Brand from Taiwan",
+        "desc": "ASUS is a Taiwanese brand founded in 1989 by four former Acer engineers in an apartment on Minsheng East Road in Taipei, with a capital of only NT$10 million. Starting with motherboards, it achieved over 40% global motherboard market share and ranked No. 1 for 15 consecutive years, while its PC shipments rank fifth worldwide. Unlike many Taiwanese tech firms, ASUS decided early on to operate its own brand rather than pure contract manufacturing, spinning off its OEM business as Pegatron in 2008 to focus solely on brand operations.",
         "category": "economy",
         "href": "/en/economy/asus-computer",
         "date": "2026-11-04T08:31:33+08:00",
@@ -429,8 +429,8 @@
         "image": "/article-images/music/megaport-festival-2025-namba-stage.webp"
       },
       {
-        "title": "Taiwan Blue Magpie: The Blue Gang of the Urban Jungle and a Century-Long Genetic Defense War",
-        "desc": "Winning the title of national bird with 180,000 votes in 2007, this mountain forest gem is actually a fierce family known for \"gang fights.\" As an endemic species to Taiwan, from the first specimen collected by C.B. Sharpe in 1862 to today's sightings scavenging cat food in urban parks, they prevail through competition thanks to a nest-side cooperative system with up to 97% assistance; over these hundred-plus years, they have also consistently maintained their genetic boundary from the Daurian Red Magpie of mainland China. This is an island story about survival, family cohesion, genetic defense wars, and the wisdom of human-bird coexistence.",
+        "title": "Taiwan Blue Magpie: Blue Gangs in the Urban Jungle, and a Century-Spanning Genetic Defense Battle",
+        "desc": "The Taiwan Blue Magpie is an endemic species of Taiwan, winning the national bird selection in 2007. Its population is stable, listed as \"Least Concern\" on the IUCN Red List, and classified as a Level 3 protected species in Taiwan, primarily protected because it is an endemic species; in recent years it has also increased in low-elevation areas and urban parks. They live in groups, with 97% of family groups having helpers assisting in raising chicks, and they collectively mob intruders; the most concerning threat is hybridization and genetic pollution brought by the invasive Red-billed Blue Magpie.",
         "category": "nature",
         "href": "/en/nature/taiwan-blue-magpie",
         "date": "2026-10-31T08:37:45+08:00",
@@ -765,7 +765,7 @@
       },
       {
         "title": "三毛：逃避を自由として書いた人",
-        "desc": "本名は陳平（ちん・へい／チェン・ピン）、1943年重慶生まれ、1948年に家族とともに台湾へ移住。中学時代に教師から公開的に辱めを受け中退、7年間の引きこもりを経て再び執筆を始める。1973年、荷西（ホセ）とスペイン領サハラで結婚、エッセイが大ヒットし、戒厳令下の台湾人にとって遠方を想像する窓口となる。1979年、荷西がダイビング事故で死去。1990年、唯一の脚本作品『滾滾紅塵（紅塵の恋）』で金馬奨8部門受賞。1991年1月4日、台北栄民総医院で自死、享年47歳。",
+        "desc": "三毛の本名は陳平で、サハラ砂漠での生活を描いた台湾の作家であり、作品は1500万部以上を売り上げました。中学2年生の年、数学の先生が筆で彼女の目の周りに2つの「0点」を描き、それ以来彼女は中退し、中学の学歴を持たなくなりました。7年後、画家の顧福生の導きで再び筆を取りました。1973年、スペイン領サハラでホセと結婚し、戒厳令時代の台湾人に遠くを見る窓を開きました。ホセが1979年にダイビング事故で亡くなり、彼女は一生の逃避を自由として書き綴りました。",
         "category": "people",
         "href": "/ja/people/san-mao",
         "date": "2026-10-10T23:46:16+08:00",
@@ -1092,8 +1092,8 @@
     ],
     "es": [
       {
-        "title": "ASUS Computer (ASUS): el gigante tecnológico que nació de las placas base",
-        "desc": "ASUS es una marca taiwanesa: la fundaron cuatro ingenieros en Taipéi en 1989 y pasó de fabricar placas base a ser el quinto mayor proveedor mundial de computadoras personales.",
+        "title": "ASUS: desde un apartamento en Taipei hasta convertirse en la marca taiwanesa líder mundial en placas base",
+        "desc": "ASUS es una marca taiwanesa, fundada en 1989 por cuatro exingenieros de Acer en un apartamento en la calle Minsheng East Road en Taipei, con un capital de solo NT$10 millones. Comenzó con placas base, alcanzando una cuota de mercado global de más del 40 % y siendo número uno durante 15 años consecutivos, y ocupa el quinto lugar en envíos de computadoras personales a nivel mundial. A diferencia de muchas empresas tecnológicas taiwanesas, ASUS decidió desde temprano operar su propia marca y no dedicarse únicamente a la fabricación por encargo; en 2008 separó su negocio de fabricación por encargo en Pegatron, para desde entonces centrarse en la gestión de su marca.",
         "category": "economy",
         "href": "/es/economy/asus-computer",
         "date": "2026-11-04T08:24:26+08:00",
@@ -1917,8 +1917,8 @@
         "image": ""
       },
       {
-        "title": "Komputer ASUS - Raksasa Teknologi dari Papan Induk",
-        "desc": "ASUS adalah merek asal Taiwan. Didirikan pada 1989 oleh empat insinyur di Taipei, perusahaan pembuat papan induk ini tumbuh menjadi pemasok komputer pribadi terbesar kelima di dunia.",
+        "title": "ASUS: Dari Seorang Apartemen di Taipei, Menjadi Merek Taiwan Nomor Satu Motherboard di Dunia",
+        "desc": "ASUS adalah merek Taiwan, didirikan pada 1989 oleh empat insinyur bekas Acer di sebuah apartemen di Jalan Minsheng Timur, Taipei, dengan modal hanya NT$10 juta. Ia bermula dari motherboard, menguasai lebih dari empat puluh persen pangsa pasar motherboard global dan menduduki peringkat pertama selama 15 tahun berturut-turut, serta peringkat kelima global untuk pengiriman komputer pribadi. Berbeda dengan banyak perusahaan teknologi Taiwan, ASUS sejak awal memutuskan untuk mengelola merek sendiri, tidak hanya melakukan OEM murni; pada 2008 memisahkan bisnis OEM-nya menjadi Pegatron, sejak itu fokus mengelola merek.",
         "category": "economy",
         "href": "/id/economy/asus-computer",
         "date": "2026-11-04T08:24:26+08:00",
@@ -2279,8 +2279,8 @@
         "image": "/article-images/culture/duanwu-two-zongzi-styles.webp"
       },
       {
-        "title": "Chi Cheng: 10 recordes mundiais, cinquenta anos depois ainda corre pelo nome de Taiwan",
-        "desc": "Nascida a 15 de março de 1944 em Hsinchu, Chi Cheng, a \"gazela saltitante\", tornou-se a mais destacada atleta feminina da história do atletismo de Taiwan. Nos Jogos Olímpicos da Cidade do México em 1968, conquistou o bronze nos 80 metros com barreiras com 10,51 segundos, a primeira medalha olímpica feminina de atletismo de Taiwan; na carreira estabeleceu 10 recordes mundiais. Após aposentar-se, dedicou-se à promoção de corridas de rua; hoje, com mais de oitenta anos, continua ativa no movimento pelo nome de Taiwan.",
+        "title": "Chi Cheng: estabeleceu 10 recordes mundiais; cinco décadas depois, ainda corre pelo reconhecimento de Taiwan",
+        "desc": "Chi Cheng, nascida em 1944 em Hsinchu, conhecida como \"a gazela saltitante\". Nos Jogos Olímpicos da Cidade do México em 1968, ela conquistou o bronze nos 80 metros com barreiras com 10,51 segundos, tornando-se a primeira mulher de Taiwan a ganhar uma medalha olímpica no atletismo; ao longo da carreira, estabeleceu 10 recordes mundiais. Após se aposentar, promoveu corridas de rua em Taiwan; em 2024, foi nomeada assessora de estratégia nacional do Gabinete Presidencial; aos mais de oitenta anos, continua a lutar pelo reconhecimento de Taiwan, defendendo que o país compita sob o nome \"Taiwan\" nos Jogos Olímpicos de Los Angeles em 2028.",
         "category": "people",
         "href": "/pt/people/chi-cheng-flying-antelope",
         "date": "2026-10-31T08:40:59+08:00",
@@ -3077,8 +3077,8 @@
         "image": ""
       },
       {
-        "title": "Чи Цзин: установившая 10 мировых рекордов, через полвека всё ещё бежит за право Тайваня называться Тайванем",
-        "desc": "Рождённая 15 марта 1944 года в Синьчжу, Чи Цзин, известная как «прыгающая антилопа», стала выдающейся легкоатлеткой в истории Тайваня. На Олимпиаде 1968 года в Мехико она завоевала бронзу в 80-метровом беге с барьерами с результатом 10,51 сек., став первой женщиной Тайваня, получившей олимпийскую медаль по лёгкой атлетике; за карьеру она установила 10 мировых рекордов. После завершения карьеры она посвятила себя популяризации бега, и даже в возрасте свыше 80 лет продолжает участвовать в движении за право Тайваня выступать под своим именем.",
+        "title": "Чи Чжэн: установила 10 мировых рекордов, через полвека всё ещё бежит за признание Тайваня",
+        "desc": "Чи Чжэн, родившаяся в 1944 году в Синьчжу, известна как «прыгающая антилопа». На Олимпийских играх 1968 года в Мехико она завоевала бронзу в беге на 80 метров с барьерами с результатом 10,51 секунды, став первой женщиной из Тайваня, выигравшей олимпийскую медаль по лёгкой атлетике; за карьеру она установила 10 мировых рекордов. После завершения спортивной карьеры она способствовала развитию беговых соревнований на Тайване, в 2024 году была назначена советником по национальной политике при президенте; даже в возрасте свыше 80 лет она продолжает бороться за международное признание Тайваня, выступая за участие под названием «Тайвань» на Олимпийских играх 2028 года в Лос-Анджелесе.",
         "category": "people",
         "href": "/ru/people/chi-cheng-flying-antelope",
         "date": "2026-10-31T08:40:59+08:00",
@@ -3239,8 +3239,8 @@
         "image": ""
       },
       {
-        "title": "Битва за 823: 44 дня артиллерийского огня, оставившие 20 лет быта Киньмэня",
-        "desc": "23 августа 1958 года Киньмэнь выдержал более 30 000 снарядов за 85 минут. Через 44 дня артиллерийский огонь не утих на самом деле, режим «один день стреляют, два — нет» продолжался до 1979 года. Эта война не только изменила стратегию в Тайваньском проливе, но и оставила жителей, студентов и переселенных семей в памяти о фронте. Между снарядами и эвакуацией Киньмэнь стал островом, который по распорядку терпел тревогу, и оставил самый сложный вопрос сохранения фронта: помня победу, помним ли мы и цену, заплаченную мирными жителями?",
+        "title": "Баэйэрсань паочжань: 44 дня артиллерийского огня, оставившие 20 лет повседневной жизни Цзиньмэня",
+        "desc": "23 августа 1958 года Цзиньмэнь выдержал более 30 000 снарядов за 85 минут. Через 44 дня артиллерийский огонь не утих на самом деле, режим «один день стрельба, два дня передышка» продолжался до 1979 года. Эта война не только изменила стратегию в Тайваньском проливе, но и закрепила в памяти фронта жителей, студентов и переселенческих семей. Между снарядами и эвакуацией Цзиньмэнь стал островом, который по распорядку выдерживал тревогу, и оставил самый сложный вопрос военной истории: помня о победе, помним ли мы и о цене, заплаченной мирными жителями?",
         "category": "history",
         "href": "/ru/history/823-artillery-bombardment",
         "date": "2026-10-10T23:42:41+08:00",

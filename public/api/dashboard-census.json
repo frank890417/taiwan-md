@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "generator": "scripts/tools/article-census.py",
-  "head": "15c732771",
+  "head": "1eec624d1",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1160,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-09",
-      "end": "2026-11-06",
+      "start": "2026-10-10",
+      "end": "2026-11-07",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -55,7 +55,7 @@
         "p75": 4634,
         "p90": 6082,
         "n": 1151,
-        "mean": 3587.6
+        "mean": 3587.5
       },
       "fn_defs": {
         "p5": 0,
@@ -80,7 +80,7 @@
         "p75": 6190,
         "p90": 7357,
         "n": 403,
-        "mean": 4796.4
+        "mean": 4796.2
       },
       "fn_defs": {
         "p5": 4,
@@ -342,17 +342,6 @@
         "fn": 13
       },
       {
-        "path": "knowledge/People/蕭上農.md",
-        "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
-        "category": "People",
-        "curation": null,
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1788、零媒體、段落 28 段／中位 33 字",
-        "cover": "none",
-        "cjk": 1788,
-        "fn": 9
-      },
-      {
         "path": "knowledge/People/林青霞.md",
         "title": "林青霞",
         "category": "People",
@@ -373,6 +362,17 @@
         "cover": "none",
         "cjk": 1697,
         "fn": 5
+      },
+      {
+        "path": "knowledge/People/蕭上農.md",
+        "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
+        "category": "People",
+        "curation": null,
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1788、零媒體、段落 28 段／中位 33 字",
+        "cover": "none",
+        "cjk": 1788,
+        "fn": 9
       },
       {
         "path": "knowledge/Culture/菜市場名.md",
@@ -2968,20 +2968,19 @@
     "knowledge/Technology/台灣顯示器產業.md",
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
-    "knowledge/People/許美華.md",
     "knowledge/People/凹與山.md",
     "knowledge/People/陳樹菊.md",
-    "knowledge/Music/張懸與安溥.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/康士坦的變化球.md",
-    "knowledge/People/蕭上農.md",
-    "knowledge/People/三毛.md",
+    "knowledge/Society/台灣邦交國與國際外交.md",
+    "knowledge/Music/張懸與安溥.md",
+    "knowledge/People/許美華.md",
     "knowledge/Society/台灣的道德課去哪了.md",
     "knowledge/People/林青霞.md",
     "knowledge/Technology/雪山隧道.md",
-    "knowledge/Society/台灣邦交國與國際外交.md",
     "knowledge/History/日治時期.md",
-    "knowledge/Geography/台灣五大地形與地理結構.md",
+    "knowledge/People/蕭上農.md",
+    "knowledge/People/三毛.md",
     "knowledge/Culture/菜市場名.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
@@ -3213,6 +3212,7 @@
     "knowledge/Food/鼎泰豐.md",
     "knowledge/Geography/北大特區.md",
     "knowledge/Geography/台北101.md",
+    "knowledge/Geography/台灣五大地形與地理結構.md",
     "knowledge/Geography/台灣國家風景區系統.md",
     "knowledge/Geography/台灣地圖怎麼讀.md",
     "knowledge/Geography/台灣島嶼地理特色與形成.md",

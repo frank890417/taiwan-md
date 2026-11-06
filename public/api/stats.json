@@ -1,8 +1,8 @@
 {
   "totalArticles": 15053,
   "totalCategories": 15,
-  "estimatedContributors": 1004,
-  "totalTags": 8978,
+  "estimatedContributors": 80,
+  "totalTags": 8984,
   "categories": [
     {
       "name": "people",
@@ -99,10 +99,6 @@
       "count": 27
     },
     {
-      "name": "台南",
-      "count": 26
-    },
-    {
       "name": "AI",
       "count": 26
     },
@@ -112,6 +108,10 @@
     },
     {
       "name": "文化",
+      "count": 25
+    },
+    {
+      "name": "台南",
       "count": 25
     },
     {
@@ -162,5 +162,25 @@
     "ar": 1158,
     "pt": 1158
   },
-  "lastUpdated": "2026-11-05T22:35:41.170Z"
+  "lastUpdated": "2026-11-06T22:29:04.943Z",
+  "stars": 1239,
+  "forks": 188,
+  "zhPages": 1160,
+  "languagePages": {
+    "zh-TW": 1160,
+    "en": 1158,
+    "ja": 1158,
+    "ko": 1158,
+    "es": 1156,
+    "fr": 1158,
+    "vi": 1156,
+    "id": 1157,
+    "pt": 1158,
+    "hi": 1158,
+    "ar": 1158,
+    "ru": 1158,
+    "de": 1158
+  },
+  "enPages": 1158,
+  "totalPages": 1160
 }

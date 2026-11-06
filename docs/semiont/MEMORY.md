@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-07 | 051930-twmd-embeddings-nightly | 本機 bge-m3 探針五次全掛（最長等 90 秒），備援只剩本機；Stage 0 跳過，索引維持 11-04 版，零索引 commit；連三晚無完整索引，升 LESSONS，等 #124 | 備援要跟主節點分開計算存活 | [→](memory/2026-11-07-051930-twmd-embeddings-nightly.md) |
 | 2026-11-07 | 053957-twmd-routine-sync | 十九份 prompt 全一致，直讀排程器十八條零漂移，連續第六天全綠；週班零痕跡實為六條，週報沒亮燈；審庫存排程仍待 #116 | 黃燈盞數不等於缺口條數 | [→](memory/2026-11-07-053957-twmd-routine-sync.md) |
 | 2026-11-07 | 064158-twmd-spore-harvest-am | 登入恢復後第六班收割：兩個動態頁都掃過，無新留言，#29 未觸發重抓；合法空收割，未發回覆；這班把 harvest pipeline 全檔讀完 | 動態頁文字分不出按讚與轉發，靠回覆分頁確認不是留言 | [→](memory/2026-11-07-064158-twmd-spore-harvest-am.md) |
+| 2026-11-07 | 064755-twmd-data-refresh-am | 十四步 0 stale，OG 仍逾時但昨天補的分支自動救回儀表板；fork-census 連兩班 504，加 timeout 無效已還原，量到大回應每秒僅兩三 KB，補進 #124；房貸 115Q2 未發布 | 先換列數量一次，再決定要不要改 timeout | [→](memory/2026-11-07-064755-twmd-data-refresh-am.md) |

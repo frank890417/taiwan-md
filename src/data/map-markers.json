@@ -9229,17 +9229,6 @@
     "city": "台北"
   },
   {
-    "title": "فو كون-تشي: من ملك الجبلية «هوا ليان» إلى رئيس المجموعة البرلمانية ودوامة السلطة",
-    "lat": 23.987455,
-    "lng": 121.597815,
-    "category": "people",
-    "region": "east",
-    "link": "/people/fu-kun-chi",
-    "lang": "zh-TW",
-    "desc": "من أسطورة سوق الأسهم في التسعينات بلقب «صغير فو قايجو»، إلى دخول المجلس التشريعي عام 2001 واستيلائه على هوا ليان عام 2009، أسس فو كون-تشي إمبراطوريته «سلالة عائلة فو» لمدة عشرين عامًا في الجبلية — إمبراطورية عصية على اهتزاز السلطة المركزية نفسها. من قضية تلاعب الأسهم التي احتفظ فيها بمنصبه في السجن، إلى الطلاق الصوري وتعيين زوجته نائبة للمحافظة، وحتى عودته إلى المجلس التشريعي عام 2024 ليصبح رئيس مجموعة حزب الكومينتانغ وقيادة وفد لزيارة البر الرئيسي الصيني، أظهر الصلابة المتناهية والجدل في المشهد السياسي التايواني.",
-    "city": "花蓮"
-  },
-  {
     "title": "هايت؟تي: الطالبة المتفوقة في كلية الطب لمدة تسع سنوات، فترة الانقطاع",
     "lat": 24.810278,
     "lng": 120.966615,
@@ -9271,17 +9260,6 @@
     "lang": "zh-TW",
     "desc": "في عام 1992، تحوّل لياو هونغ جي إلى رجل بحر، وأسس مؤسسة التيار الأسود للمحيطات الثقافية والتعليمية، وأعاد تعريف منظور التايوانيين للمحيط من خلال «التيار الأسود 101» و«مشروع حوت العنبر باي»، ليصبح شخصية محورية في الأدب البحري المعاصر والحفاظ على البيئة البحرية.",
     "city": "花蓮"
-  },
-  {
-    "title": "لياو تيان-دينغ (廖添丁): لصّ معتاد في أرشيف الشرطة، وبطل شعبي في كتب «كوآ-آ-تشيه» (歌仔冊) التايوانية",
-    "lat": 25.056366,
-    "lng": 121.511065,
-    "category": "people",
-    "region": "north",
-    "link": "/people/liao-tian-ding",
-    "lang": "zh-TW",
-    "desc": "وُلد لياو تيان-دينغ (廖添丁) في تشينغشوي (清水) عام 1883، وتوفي في بالي (八里) عام 1909. دوّنت الأرشيف الرسمية سرقاته وجرائم القتل، بينما أعادت الصحف وكتب «كوآ-آ-تشيه» والمعابد والألعاب صياغته بطلًا شعبيًا نبيلًا.",
-    "city": "台北"
   },
   {
     "title": "شين بو يانغ: باحث في الحرب المعرفية الصينية، لاحقًا كشفت الصين إحداثيات منزله ومكتبه عبر صور أقمار صناعية تجارية",
@@ -9790,14 +9768,14 @@
     "city": "台北"
   },
   {
-    "title": "Guling Street: The Book Street the Japanese Left Behind, Edward Yang's Adolescents, and the Nationalist Government's Palaces",
+    "title": "Guling Street: The Book Street Left by the Japanese, Edward Yang's Youth, the Nationalist Government's Palace",
     "lat": 25.040533,
     "lng": 121.571295,
     "category": "geography",
     "region": "north",
     "link": "/en/geography/guling-street",
     "lang": "en",
-    "desc": "On a Saturday afternoon, students line up in front of the red-brick theater at the end of Lane 5, Guling Street. Next to it are the National Museum of History, built in 1955, and the lotus pond of the Taipei Botanical Garden, reorganized in 1921. This 1.2-kilometer street was called Sakuma-cho in 1922 and renamed Guling Street in 1947 after Lushan in Jiangxi. After 1945, the books left behind when the Japanese withdrew were laid out along the roadside and became Taiwan's first used-book street. At its 1960s peak there were more than 200 vendors. After Guanghua Bridge opened in April 1973, the vendors were cleared out and moved beneath the Guanghua overpass. On June 15, 1961, on this street, 16-year-old Mao Wu killed 15-year-old Liu Min with a scout knife. In 1991, Edward Yang made the incident into a 237-minute film. The book street was dismantled, the stalls moved, and students began buying books elsewhere. What remains are the Japanese-era red-brick former police precinct, the postwar Chinese palace-style museum, and the lotus pond that has been in the same place since 1921.",
+    "desc": "Guling Street is a 1.2-kilometer street in Taipei. In 1922 it was called Sakuma-cho, and in 1947 it was renamed after Guling on Mount Lu in Jiangxi. After the war, books left by the Japanese were set up along the roadside, becoming Taiwan's first used-book street; at its peak there were over 200 bookstalls. In 1961, 16-year-old Mao Wu stabbed to death 15-year-old Liu Min on this street, and Edward Yang made a film about it. The bookstalls have moved away, but the palace-style National History Museum and the 1921 lotus pond remain.",
     "city": "台北"
   },
   {
@@ -10252,14 +10230,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "Calle Guling: la calle de libros que dejaron los japoneses, el adolescente de Edward Yang y los palacios del Gobierno nacionalista",
+    "title": "Calle Guling: la calle de libros que dejaron los japoneses, el joven de Yang Dechang, el palacio del Gobierno Nacional",
     "lat": 25.03357,
     "lng": 121.560877,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Un sábado por la tarde, estudiantes hacen fila frente al teatro de ladrillo rojo al final del callejón 5 de la calle Guling; al lado están el Museo Nacional de Historia, construido en 1955, y el estanque de lotos del Jardín Botánico de Taipéi, reorganizado en 1921. Esta calle de 1,2 kilómetros se llamó Sakuma-chō en 1922 y en 1947 fue rebautizada como calle Guling, nombre tomado de Lushan, en Jiangxi. Después de la guerra de 1945, los libros que los japoneses no pudieron llevarse al retirarse se pusieron en la calle y formaron la primera calle de libros usados de Taiwán; en su apogeo, en la década de 1960, tuvo más de 200 puestos. Tras la apertura del puente Guanghua en abril de 1973, los vendedores fueron reorganizados y trasladados bajo el paso elevado Guanghua. El 15 de junio de 1961, en esta calle, Mao Wu, de 16 años, mató con un cuchillo scout a Liu Min, de 15; en 1991 Edward Yang convirtió el caso en una película de 237 minutos. La calle de libros fue desmantelada, los puestos se mudaron y los estudiantes empezaron a comprar libros en otros lugares; lo que quedó fue el antiguo edificio de ladrillo rojo de una comisaría de la época japonesa, un museo de posguerra de estilo palaciego chino y el estanque de lotos que permanece allí desde 1921.",
+    "desc": "La calle Guling es una calle de 1,2 km en Taipéi; en 1922 se llamaba Sakuma-cho y en 1947 fue renombrada en honor a Guling del monte Lu en Jiangxi. Tras la guerra, los libros dejados por los japoneses se colocaron al borde de la calle, convirtiéndose en la primera calle de libros usados de Taiwán, con más de doscientos puestos en su apogeo. En 1961, Mao Wu, de 16 años, apuñaló a muerte a Liu Min, de 15 años, en esta calle, y Yang Dechang la llevó al cine. Los puestos de libros se trasladaron, pero el museo histórico de estilo palaciego y el estanque de lotos de 1921 siguen allí.",
     "city": "台北"
   },
   {
@@ -10725,14 +10703,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "Guling Street : la rue des livres laissée par les Japonais, l’adolescent d’Edward Yang, le palais du gouvernement nationaliste",
+    "title": "Rue Guling : la rue des livres laissée par les Japonais, l'adolescent d'Edward Yang, le palais du gouvernement nationaliste",
     "lat": 25.032166,
     "lng": 121.557416,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Un samedi après-midi, des étudiants font la queue devant le théâtre de briques rouges au bout de la ruelle 5 de Guling Street ; à côté se trouvent le Musée national d’histoire, construit en 1955, et l’étang de lotus du Jardin botanique de Taipei, réorganisé en 1921. Cette rue de 1,2 kilomètre s’appelait Sakuma-chō en 1922 ; en 1947, elle fut renommée Guling Street, d’après le mont Lu, au Jiangxi. Après 1945, les livres laissés par les Japonais évacués furent disposés au bord de la route et devinrent la première rue du livre d’occasion de Taïwan ; à son apogée, dans les années 1960, elle comptait plus de 200 étals. Après l’ouverture du pont Guanghua en avril 1973, les vendeurs furent réorganisés et déplacés sous le viaduc de Guanghua. Le 15 juin 1961, dans cette rue, Mao Wu, 16 ans, tua Liu Min, 15 ans, avec un couteau scout ; en 1991, Edward Yang en fit un film de 237 minutes. La rue du livre a été démantelée, les bouquinistes ont déménagé, les étudiants achètent désormais leurs livres ailleurs ; restent l’ancien commissariat de briques rouges de l’époque japonaise, le musée de style palatial chinois de l’après-guerre, et l’étang de lotus demeuré au même endroit depuis 1921.",
+    "desc": "La rue Guling est une rue de 1,2 km à Taipei. En 1922, elle s'appelait Sakuma-chō, et en 1947, elle a été renommée d'après le Guling du mont Lu au Jiangxi. Après la guerre, les livres laissés par les Japonais ont été installés le long de la rue, en faisant la première rue de livres d'occasion de Taïwan ; à son apogée, elle comptait plus de deux cents étals de livres. En 1961, Mao Wu, âgé de 16 ans, a poignardé à mort Liu Min, âgée de 15 ans, dans cette rue ; Edward Yang en a fait un film. Les étals de livres ont déménagé, mais le musée d'histoire de style palais et l'étang de lotus de 1921 sont toujours là.",
     "city": "台北"
   },
   {
@@ -11682,6 +11660,17 @@
     "city": "台北"
   },
   {
+    "title": "ताइवान की स्लैश पीढ़ी — एक व्यक्ति, कई नौकरियों का अस्तित्व और विकल्प",
+    "lat": 25.034482,
+    "lng": 121.569475,
+    "category": "society",
+    "region": "north",
+    "link": "/society/taiwan-slash-generation-multi-job-economy",
+    "lang": "zh-TW",
+    "desc": "जब मास्टर्स डिग्री से केवल ताइपे के एक स्टूडियो अपार्टमेंट का किराया ही निकलता है, तो स्लैश कोई विकल्प नहीं, बल्कि जीवित रहने का गणित है।",
+    "city": "台北"
+  },
+  {
     "title": "Pulau Seni Internasional Mazu: Galeri Tanpa Gedung yang Meminjam Seluruh Pulau sebagai Pameran",
     "lat": 26.152934,
     "lng": 119.947927,
@@ -12320,14 +12309,14 @@
     "city": "台北"
   },
   {
-    "title": "歌仔戲：宜蘭の廟埕からテレビへ、そして再び人々のもとへ",
+    "title": "歌仔戲：宜蘭の廟前広場からテレビへ、そして再び人々のもとへ",
     "lat": 24.753668,
     "lng": 121.750157,
     "category": "art",
     "region": "north",
     "link": "/ja/art/koa-a-hi-taiwanese-opera",
     "lang": "ja",
-    "desc": "19世紀末の宜蘭の廟埕で始まった「落地掃」が、1920年代に劇場へ入り、皇民化政策期とテレビ全盛期を経て、現在では劇場・デジタル保存・次世代の観客の間でどう受け継がれているか。",
+    "desc": "19世紀末の宜蘭廟前広場での「落地掃」が、1920年代に劇場へ入り、皇民化政策期とテレビ全盛期を経て、再び劇場・デジタル保存・次世代の観客の間へと戻ってきた軌跡。",
     "city": "宜蘭"
   },
   {
@@ -13035,14 +13024,14 @@
     "city": "屏東"
   },
   {
-    "title": "四秀仔（スーシウア）：甘いお正月の一皿、そして「全部美味しくなくてもいい」という祝福",
+    "title": "四秀仔：甘いお正月の一皿、そして「全部美味しくなくてもいい」という祝福",
     "lat": 25.060307,
     "lng": 121.506486,
     "category": "culture",
     "region": "north",
     "link": "/ja/culture/si-siu-a-lunar-new-year-snacks",
     "lang": "ja",
-    "desc": "清代咸豐年間から伝わる生仁糖（シェンレンタン）、棗（ナツメ）のない寸棗（ツンツァオ）、正月初九の天公生（てんこうせい）の供え物である麻粩（マーツー）。台湾のお正月のおやつたちは、諧音（かいおん）による祝福をピーナッツ、もち米、糖霜（とうそう）に込めてきました。いまや菓子箱は個人の好み、カロリー、食品安全と向き合っています。伝統が残したのは「必ず食べなければならないリスト」ではなく、家族が分け合い、選び、語り合い続けるための食卓なのです。",
+    "desc": "清代咸豐年間から伝わる生仁糖、棗のない寸棗、正月初九の天公生の供え物である麻粩まで、台湾のお正月のおやつは花生、もち米、砂糖衣に諧音の祝福を込めてきた。いまや菓子箱は個人の好み、カロリー、食品安全と向き合う。伝統が残したのは「必ず食べるリスト」ではなく、家族が分け合い、選び、語り合い続けるための「食卓」だ。",
     "city": "台北"
   },
   {
@@ -13640,14 +13629,14 @@
     "city": "基隆"
   },
   {
-    "title": "新臺幣：四萬換一元の後、2000年まで国幣とならなかった理由",
+    "title": "新台湾ドル：4万対1の切り替え後、2000年まで国幣にならなかった",
     "lat": 24.446468,
     "lng": 118.380985,
     "category": "economy",
     "region": "islands",
     "link": "/ja/economy/new-taiwan-dollar",
     "lang": "ja",
-    "desc": "1949年6月15日、四萬枚の旧臺幣を1元の新臺幣に換えました。毎日朝食を買うための紙幣ですが、2000年になってやっと中華民国の通貨として法的に認められました。新臺幣の歴史は、危機がどのように徐々に日常の信頼になったのかを物語ります。",
+    "desc": "1949年6月15日、旧台湾ドル4万枚が新台湾ドル1と交換されました。毎日朝食を買うのに使われるこの紙幣が、法規上で中華民国の貨幣となったのは2000年になってからでした。それはハイパーインフレ、金門限定券、中央銀行による接管を経験し、山林、総統府、そしてある島の記憶を財布に収めました。新台湾ドルの歴史は、いかに危機が徐々に日常の信頼へと変わっていったかという物語です。",
     "city": "金門"
   },
   {
@@ -14168,14 +14157,14 @@
     "city": "台北"
   },
   {
-    "title": "27秒の精緻：台南鱔魚意麵の日本統治時代起源と廖家の継承",
+    "title": "台南の鱔魚意麵：田んぼの溝の鱔魚が減り、鍋前の大火が代々受け継がれる",
     "lat": 23.001626,
     "lng": 120.222814,
     "category": "food",
     "region": "south",
     "link": "/ja/food/eel-noodles",
     "lang": "ja",
-    "desc": "台南鱔魚意麵の核心技術は一つの数字にあります：27秒。鱔魚を鍋に入れてから上げるまでがこの時間を超えると、肉質が硬くなり、生臭さが出て、鍋全体が台無しになります。この料理は日本統治時代の沙卡里バ（サカリバ）市場で誕生し、廖炳南（りょう・へいなん／リャオ・ビンナン）、廖火土（りょう・かど／リャオ・ホートゥー）兄弟が福州の師匠から技を学び、台南の水塘の野生鱔魚で日本人の鰻を代用して、百年の名声を築きました。",
+    "desc": "2013年のブログ記事で、台南沙卡里巴の老舗鱔魚意麵の壁に「快炒鱔魚二十七秒」と書かれていたことが紹介される。作家の魚夫は廖家の兄弟が福州の師匠から「刀子」の技を学んだと記録し、ブロガーの猫大爺は么兒阿源が14歳から父と炒鱔魚を売り、甥の阿江が17歳から三叔に学んだと記す。田んぼの溝の鱔魚が減る中、火加減・調味料の量・とろみの強さは、いくつかの家族の鍋前で今も調整され続けている。",
     "city": "台南"
   },
   {
@@ -16302,14 +16291,14 @@
     "city": "台北"
   },
   {
-    "title": "音には住所がない：台湾の放送がいかに国家の喇叭から地域の公共空間へと変わったか",
+    "title": "声に住所はない：台湾のラジオが国家のスピーカーから地域の公共空間へと変わるまで",
     "lat": 25.037252,
     "lng": 121.559376,
     "category": "history",
     "region": "north",
     "link": "/ja/history/taiwan-radio-broadcasting-history",
     "lang": "ja",
-    "desc": "1925年の試験放送、日治時代の放送局、戦後の『台湾の声』、戒厳令下の民営ラジオと地下放送へと至る流れを追い、ラジオが政令、楽曲、言語、そして容易には消し去れない地域の経験をいかに同時に伝えてきたかを描く。",
+    "desc": "1925年の試験放送、日治時代の放送局、戦後の『台湾之声』、戒厳令下の民営ラジオと地下ラジオまで、ラジオがいかに政令・楽曲・言語、そして消し去られにくい地域の経験を同時に伝えてきたかを追跡する。",
     "city": "台北"
   },
   {
@@ -16698,14 +16687,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の列並び：要求された秩序から、互いに守られた公平性へ",
+    "title": "台湾の列待ち：求められる秩序から、互いに守る公平へ",
     "lat": 25.028105,
     "lng": 121.559799,
     "category": "lifestyle",
     "region": "north",
     "link": "/ja/lifestyle/taiwan-queuing-culture",
     "lang": "ja",
-    "desc": "1979年の台北市は列並びを都市管理に組み込みました。地下鉄のプラットフォーム、レストランの呼び出し機、人気の小食の前の列は、その後、この身体的規律を日常的なサービスの公平性の言語に変えました。列並びは時間の無駄に見えますが、見知らぬ人々が目に見える規則を共有することを可能にします。",
+    "desc": "1979年、台北市が列待ちを都市統治に取り入れました。MRTのホーム、レストランの呼び出し機、人気の屋台前の行列が、この身体的規律を日常サービスの公平な言語へと変えていきました。列待ちは一見時間の無駄に見えますが、見知らぬ人々が目に見えるルールを共有できるようにします。",
     "city": "台北"
   },
   {
@@ -18656,14 +18645,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "理科太太：科普成為流量之時，專業亦成為公共責任",
+    "title": "理科太太：科学普及が流量になるとき、専門性も公共の責任になる",
     "lat": 25.036888,
     "lng": 121.565487,
     "category": "people",
     "region": "north",
     "link": "/ja/people/li-ke-tai-tai",
     "lang": "ja",
-    "desc": "理科太太は生物医工学のバックグラウンドと生活科学動画で知名度を得た後、健康製品、オンライン講座、自メディアの商業化へと進みました。彼女の物語は単なる爆発的な人気の話ではなく、なぜ視聴者が「科学らしき人」を信じるのか、そしてその信頼がいかに検証され、規範され、公共の議論に返還されるべきかという問題に関わっています。本稿はチャンネルの起源、知識の翻訳、医療機器と食品広告の事案、有料コンテンツの無料ポッドキャスト化までを追い、台湾の知識型クリエイターが流量、専門性、公共責任の綱引きにどう向き合ってきたかを描きます。",
+    "desc": "理科太太は生物医工学のバックグラウンドと生活科学動画で知名度を得た後、健康製品、オンライン講座、自メディアの商業化へと進出した。彼女の物語は単なる爆発的な人気の話ではなく、なぜ視聴者が「科学らしき人物」を信じるのか、そしてその信頼がいかに検証され、規範され、公共の議論に返還されるべきかという問題に関わる。本稿はチャンネルの起源、知識の翻訳、医療機器と食品広告の事案、有料コンテンツの無料ポッドキャスト化に至るまでを追い、台湾の知識型クリエイターが流量、専門性、公共の責任の綱引きにどう向き合ってきたかを描く。",
     "city": "台北"
   },
   {
@@ -18698,17 +18687,6 @@
     "lang": "ja",
     "desc": "廖鴻基は1992年に討海人へと転身し、黒潮海洋文教基金会を創設、「黒潮101」と「抹香鯨π計画」で台湾人の海洋視座を再定義した、現代海洋文学と生態保育の鍵を握る推進者です。",
     "city": "花蓮"
-  },
-  {
-    "title": "廖添丁：警察の記録に残る慣習的窃盗犯、台湾語歌仔冊に描かれた義賊",
-    "lat": 25.063491,
-    "lng": 121.513529,
-    "category": "people",
-    "region": "north",
-    "link": "/ja/people/liao-tian-ding",
-    "lang": "ja",
-    "desc": "1883年清水で生まれた廖添丁（りょう・てんてい）は、1909年に八里で亡くなりました。公的文書には窃盗や殺人事件が記録されていますが、民間では新聞や歌仔冊、廟宇、ゲームを通じて一人の犯罪者が義賊として語り継がれています。",
-    "city": "台北"
   },
   {
     "title": "連穎：「アイドルダンサーとしての実力」からソロEPまでの6年",
@@ -19008,14 +18986,14 @@
     "city": "台北"
   },
   {
-    "title": "波特王 — 「ナンパ」エンタメから「ピンク」ハンターへ、法と主権の間で格闘するデジタルゲームプレイヤー",
+    "title": "波特王（ポーター・ワン） — 「撩妹（リアオメイ）」エンタメから「粉紅（フェンホン）」ハンターへ、法律と主権の間で抗うデジタル博弈者",
     "lat": 22.633734,
     "lng": 120.293199,
     "category": "people",
     "region": "south",
     "link": "/ja/people/potter-king-youtuber",
     "lang": "ja",
-    "desc": "波特王（陳加晉）の職業人生の変遷は、台湾のクリエイターが両岸の商業利益の収奪者からデジタル主権の防衛者へと転換する過程を記録し、クリエイターと資本システムが長期にわたって絡み合う法的・所有権・財務の複雑性を明らかにします。",
+    "desc": "波特王（陳加晉／チェン・ジアジン）のキャリア変遷は、台湾のクリエイターが中台商業メリットの享受者からデジタル主権の防衛者へ転身する過程を記録し、クリエイターと資本システムが長く絡み合う法的・知的財産・財務の複雑性を明らかにする。",
     "city": "高雄"
   },
   {
@@ -19082,17 +19060,6 @@
     "link": "/ja/people/samuel-yin-yan-liang",
     "lang": "ja",
     "desc": "2026 年 5 月 26 日午前 4 時 21 分、潤泰集団総裁の尹衍樑は台北栄民総医院で死去しました。享年 76 歳でした。進徳中学で王金平に傷口を手当てされた喧嘩少年から、1989 年に埃が足首を覆う北京大学に足を踏み入れ、光華管理学院の創設に出資した人物へ、そして 2012 年には 30 億新台湾ドルの信託基金を寄付して唐賞を設立しました。賞金は各部門 5,000 万新台湾ドルで、ノーベル賞を上回ります。亡くなったばかりの一人の台湾商人は、世界にノーベル賞より高額な賞を残しました。",
-    "city": "台北"
-  },
-  {
-    "title": "三毛：逃避を自由として書いた人",
-    "lat": 25.026169,
-    "lng": 121.557405,
-    "category": "people",
-    "region": "north",
-    "link": "/ja/people/san-mao",
-    "lang": "ja",
-    "desc": "本名は陳平（ちん・へい／チェン・ピン）、1943年重慶生まれ、1948年に家族とともに台湾へ移住。中学時代に教師から公開的に辱めを受け中退、7年間の引きこもりを経て再び執筆を始める。1973年、荷西（ホセ）とスペイン領サハラで結婚、エッセイが大ヒットし、戒厳令下の台湾人にとって遠方を想像する窓口となる。1979年、荷西がダイビング事故で死去。1990年、唯一の脚本作品『滾滾紅塵（紅塵の恋）』で金馬奨8部門受賞。1991年1月4日、台北栄民総医院で自死、享年47歳。",
     "city": "台北"
   },
   {
@@ -21032,17 +20999,6 @@
     "city": "高雄"
   },
   {
-    "title": "시우아이(四秀仔): 달콤한 명절의 접시, 그리고 모두 맛있어야 하는 것은 아니라는 축복",
-    "lat": 25.050743,
-    "lng": 121.506469,
-    "category": "culture",
-    "region": "north",
-    "link": "/ko/culture/si-siu-a-lunar-new-year-snacks",
-    "lang": "ko",
-    "desc": "청대 함풍 연간부터 전해지는 생인당(生仁糖)과 대추가 없는 촌조(寸棗)에서 정월 초구 천공생(天公生) 제상 위의 마비(麻粩)에 이르기까지, 타이완의 명절 간식은 땅콩, 찹쌀, 설탕 가루에 음운을 이용한 축복을 담고 있다. 오늘날 캔디 박스는 개인의 취향, 칼로리, 식품 안전에 직면하며, 전통이 남긴 것은 반드시 먹어야 하는 목록이 아니라 가족이 함께 나누고, 선택하고, 논의할 수 있는 식탁이다.",
-    "city": "台北"
-  },
-  {
     "title": "천등(天燈): 1820년 평안을 알리는 신호, 2019년 326킬로그램의 산림 쓰레기, 같은 평계(平溪) 사람들이 짊어진 두 개의 정체성",
     "lat": 25.032004,
     "lng": 121.732546,
@@ -21239,6 +21195,17 @@
     "lang": "ko",
     "desc": "같은 섬 안에서도 타이베이시는 km²당 8,975명인 반면 타이둥현은 59명에 불과해 151배 차이가 난다. 내정부 호정사의 2025년 말 데이터를 바탕으로 22개 현시의 초상을 그려본다: 인구의 70%가 30%의 토지에 밀집해 있으며, 노인 비율이 가장 높은 곳은 가장 밀집된 타이베이시이고, 노인 대 아이 비율이 가장 높은 가오슝현은 약 3:1에 달한다. 22개 현시 모두 예외 없이 사망자 수가 출생아 수를 넘어섰다.",
     "city": "嘉義"
+  },
+  {
+    "title": "고링가: 일본인이 남긴 책거리, 양덕창의 소년, 국민정부의 궁전",
+    "lat": 25.028892,
+    "lng": 121.572949,
+    "category": "geography",
+    "region": "north",
+    "link": "/ko/geography/guling-street",
+    "lang": "ko",
+    "desc": "고링가는 타이베이의 1.2km 길이의 거리로, 1922년에는 사쿠마초라 불렸으며, 1947년 강서 여산의 고링에서 이름을 따와 개명했다. 전후 일본인이 남긴 책들이 길가에 놓여 대만 최초의 헌책방 거리가 되었고, 전성기에는 200여 개의 책 노점이 있었다. 1961년 16세의 마오우가 이 거리에서 15세의 류민을 찔러 죽였고, 양덕창이 이를 영화로 만들었다. 책 노점들은 옮겨갔고, 궁전 형태의 역사박물관과 1921년의 연꽃 연못은 여전히 남아 있다.",
+    "city": "台北"
   },
   {
     "title": "대만 지도 읽는 법: 고구마에서 위성까지, 400년의 시선",
@@ -21448,6 +21415,17 @@
     "lang": "ko",
     "desc": "1624년, 네덜란드인들이 타이난 대원에서 한 요새를 재건해 처음엔 오란치성, 2년 후 열란차성이라 불렀다. 1662년 정성공이 9개월간 포위한 끝에 네덜란드 장관 코이타가 열쇠를 넘기며 이곳은 명정의 왕성이 되었다. 청대에 성벽이 헐려 억재금성을 짓는 데 쓰였고, 일제강점기 내성이 깎여 평탄해졌으며, 2022년 문화부가 잔적을 합병해 '열란차보 유구'로 개명했다. 네 개의 이름, 네 시기의 통치.",
     "city": "台南"
+  },
+  {
+    "title": "자이농림: 한 준우승 팀이 어떻게 타이완에 고시엔의 문을 열었나",
+    "lat": 23.479214,
+    "lng": 120.451878,
+    "category": "history",
+    "region": "south",
+    "link": "/ko/history/kano-chiayi-agriculture-forestry",
+    "lang": "ko",
+    "desc": "1931년 8월, 자이농림이 지룽에서 배를 타고 일본 고시엔으로 향했다. 한인, 원주민, 일본인 학생으로 구성된 이 학교 야구팀은 결승까지 진출해 준우승을 차지했다. 이들이 남긴 것은 단순히 '천하 자이농'이 아니라, 한 식민지가 남의 구장에서 어떻게 모습을 드러냈고, 그 구장을 어떻게 자신의 기억으로 만들었는가이다.",
+    "city": "嘉義"
   },
   {
     "title": "국가철도박물관: 오직 철도 운행 업무만을 위해 존재했던 공장이 어떻게 도시로 되돌아왔는가",
@@ -21956,14 +21934,14 @@
     "city": "嘉義"
   },
   {
-    "title": "Rua Guling: A Rua dos Livros Deixada pelos Japoneses, os Jovens de Edward Yang, o Palácio do Governo Nacionalista",
+    "title": "Rua Guling: a rua de livros deixada pelos japoneses, o jovem de Yang De-chang, o palácio do Governo Nacionalista",
     "lat": 25.036727,
     "lng": 121.56983,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Numa tarde de sábado, estudantes fazem fila diante do teatro de tijolos vermelhos no fim da Viela 5 da Rua Guling, ao lado do Museu Nacional de História construído em 1955 e do lago de lótus do Jardim Botânico de Taipé reorganizado em 1921. Esta rua de 1,2 km chamava-se Sakuma-chō em 1922, foi rebatizada Rua Guling em 1947 com nome tirado do Monte Lu, em Jiangxi. Após a guerra, os livros deixados pelos japoneses em retirada formaram a primeira rua de sebos de Taiwan; nos anos 1960 chegou a ter mais de 200 bancas; em abril de 1973, com a abertura da Ponte Guanghua, os vendedores foram realocados para debaixo do viaduto. Em 15 de junho de 1961, o estudante de 16 anos Mao Wu matou a colega de 15 anos Liu Min com uma faca de escoteiro; 30 anos depois, Edward Yang transformou o caso num filme de 237 minutos. A rua dos livros foi demolida, as bancas mudaram-se, os alunos compram noutro lado; restam o antigo posto policial de tijolos vermelhos da era japonesa, o conjunto de museus em estilo palaciano chinês do pós-guerra e o lago de lótus que está no mesmo lugar desde 1921.",
+    "desc": "A Rua Guling é uma rua de 1,2 km em Taipei, chamada em 1922 de Sakuma-chō e renomeada em 1947 com o nome de Guling do Monte Lu, em Jiangxi. Após a guerra, os livros deixados pelos japoneses foram colocados à beira da estrada, tornando-se a primeira rua de livros usados de Taiwan, chegando a ter mais de duzentas bancas de livros no seu auge. Em 1961, o jovem de 16 anos Mao Wu esfaqueou até a morte Liu Min, de 15 anos, nesta rua, e Yang De-chang fez um filme sobre o caso. As bancas de livros foram embora, mas o museu histórico em estilo palaciano e o lago de lótus de 1921 ainda permanecem.",
     "city": "台北"
   },
   {
@@ -22385,6 +22363,17 @@
     "city": "桃園"
   },
   {
+    "title": "Алишанская лесная железная дорога: 71,6 км, поднявшая древесину в горы и оставшаяся для культуры",
+    "lat": 23.503351,
+    "lng": 120.698167,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/alishan-forest-railway",
+    "lang": "zh-TW",
+    "desc": "Начатая в 1906 г. и открытая в 1912 г. Алишанская лесная железная дорога когда-то доставляла гиноковую древесину в Цзяи, а после тайфунов «Морак» и «Дуцзюань» прерывалась на 15 лет. В 2024 г. движение по всей линии возобновилось, и она из лесозаготовительной перевозки превратилась в культурный ландшафт. После того как поезда снова поехали в горы, настоящая проблема не в том, как покорить лес, а в том, как продолжать движение между стихийными бедствиями, туризмом и сохранением.",
+    "city": "嘉義"
+  },
+  {
     "title": "Город Цзяи: назван самим императором — и всё равно самый незаметный город провинциального подчинения",
     "lat": 23.479173,
     "lng": 120.453605,
@@ -22418,14 +22407,14 @@
     "city": "台北"
   },
   {
-    "title": "Улица Гулинь: книжная улица, оставленная японцами, юноша Яна Дэчана, дворец нацправительства",
+    "title": "Улица Гулиньцзэ: книжная улица, оставленная японцами, подросток Яна Дэчана, дворец нацправительства",
     "lat": 25.032086,
     "lng": 121.558324,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "В субботний день у краснокирпичного театра в конце 5-го переулка улицы Гулинь студенты стоят в очереди, рядом находится Национальный исторический музей, построенный в 1955 году, и лотосовый пруд Тайбэйского ботанического сада, реорганизованного в 1921 году. Эта улица длиной 1,2 км в 1922 году называлась Сакума-сё, в 1947 году была переименована в Гулиньцзе по названию города Гулинь на горе Лушань в провинции Цзянси. После войны 1945 года оставленные отступающими японцами книги разложили у дороги, образовав первую в Тайване улицу старых книг, в 1960-е годы на пике здесь насчитывалось более 200 ларек. После открытия моста Гуанхуа в апреле 1973 года ларьки были реорганизованы и перемещены под эстакаду Гуанхуа. 15 июня 1961 года на этой улице 16-летний Мао У ножом бойскаута убил 15-летнюю Лю Мынь, в 1991 году Ян Дэчан снял 237-минутный фильм. Улица книг разобрана, ларьки увезены, студенты пошли покупать книги в других местах, остались только краснокирпичное здание бывшего японского полицейского участка, послевоенные музеи в китайском дворцовом стиле и лотосовый пруд, стоящий на месте с 1921 года.",
+    "desc": "Улица Гулиньцзэ — улица длиной 1,2 км в Тайбэи. В 1922 году она называлась Сакума-ти, в 1947 году переименована в честь Гулиня на горе Лушань в цзянси. После войны книги, оставленные японцами, выставили у дороги, и это стало первой улицей старых книг на Тайване; в расцвете здесь было более двухсот книжных ларьков. В 1961 году 16-летний Мао У на этой улице заколол 15-летнюю Лю Минь; Ян Дэчан снял об этом фильм. Книжные ларьки убрали, но дворецовидный Исторический музей и лотосовый пруд 1921 года всё ещё там.",
     "city": "台北"
   },
   {
@@ -22880,14 +22869,14 @@
     "city": "嘉義"
   },
   {
-    "title": "Phố Cửu Lĩnh: Phố sách cũ do người Nhật để lại, tuổi thơ của Dương Đức Xương, và điện lâu của chính phủ",
+    "title": "Đường Cổ Linh: Phố sách người Nhật để lại, thiếu niên của Dương Đức Xương, cung điện của Quốc phủ",
     "lat": 25.029329,
     "lng": 121.562745,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Chiều thứ bảy ở cuối ngõ 5 phố Cửu Lĩnh có học sinh xếp hàng trước nhà hát gạch đỏ. Năm 1922 con phố được gọi là phố Trao Khoảng không, năm 1947 được đổi tên Phố Cửu Lĩnh lấy tên từ Cửu Lĩnh Trấn ở Lư Sơn, tỉnh Giang Tây. Năm 1945 sau chiến tranh, người Nhật rút lui để lại sách được bán bên đường, trở thành phố sách cũ đầu tiên của Đài Loan, đạt cao điểm với hơn 200 quần hàng vào những năm 1960. Ngày 15 tháng 6 năm 1961 trên con phố này, Mao Vũ 16 tuổi dùng dao thiếu nhi giết Lưu Mẫn 15 tuổi. 30 năm sau đó Dương Đức Xương chuyển điều này thành bộ phim 237 phút.",
+    "desc": "Đường Cổ Linh là một con đường dài 1,2 km tại Đài Bắc, năm 1922 gọi là Trấn Cửu Giang Trấn, năm 1947 mượn tên Cổ Linh của núi Lô Sơn tại Giang Tây để đổi tên. Sau chiến tranh, sách người Nhật để lại được bày bán ven đường, trở thành phố sách cũ đầu tiên của Đài Loan, thời kỳ thịnh vượng nhất có hơn hai trăm quầy sách. Năm 1961, Mao Vũ 16 tuổi đâm chết Lữu Mẫn 15 tuổi trên con đường này, Dương Đức Xương đã quay thành phim. Quầy sách đã dời đi, nhưng bảo tàng lịch sử kiểu cung điện và ao sen năm 1921 vẫn còn đó.",
     "city": "台北"
   },
   {
