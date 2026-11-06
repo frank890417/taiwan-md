@@ -24,11 +24,13 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%98%BF%E8%94%94%E7%B3%95.jpg'
 difficulty: 'beginner'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/蘿蔔糕.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:bfc99220dad6565a'
 sourceBodyHash: 'sha256:a28947ebbfc382fe'
-translatedAt: '2026-09-23T20:45:48+08:00'
+translatedAt: '2026-11-06T04:41:15.078839+00:00'
 ---
 
 # Rübenkuchen (Lo Bak Gao): Kulinarisches Gedächtnis von den Ming-Cheng-Festen bis zum Frühstück unter dem großen Baum
