@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T20:52:57+08:00",
-    "zhCommitHead": "f3daf5e7b",
+    "lastUpdated": "2026-11-06T21:25:38+08:00",
+    "zhCommitHead": "fcf60ad19",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1110,
+        "fresh": 1111,
         "stale": 22,
-        "metadata_stale": 26,
+        "metadata_stale": 25,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1114,
+        "fresh": 1115,
         "stale": 23,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1117,
-        "stale": 27,
+        "fresh": 1118,
+        "stale": 26,
         "metadata_stale": 14,
         "missing": 4,
         "orphan": 0
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1116,
-        "stale": 27,
+        "fresh": 1117,
+        "stale": 26,
         "metadata_stale": 15,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 29,
-        "metadata_stale": 28,
+        "metadata_stale": 27,
         "missing": 6,
         "orphan": 0
       },
@@ -2806,20 +2806,18 @@
         "ko": {
           "path": "ko/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
-          "sourceBodyHash": "sha256:6ab99bf50b216a39",
-          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "sourceCommitSha": "0a79156df",
+          "sourceContentHash": "sha256:3b3422dc3e5660c1",
+          "sourceBodyHash": "sha256:c40d04f82db2ee2c",
+          "translatedAt": "2026-11-06T12:56:32.741355+00:00",
           "translationLastCommit": "b3912727",
           "translationLastModified": "2026-09-08T20:39:29+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 26759,
+          "bytes": 27446,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/contemporary-indigenous-singer-songwriters.md",
@@ -77467,20 +77465,18 @@
         "ja": {
           "path": "ja/Society/taiwan-zoos.md",
           "translatedFrom": "Society/台灣有哪些動物園.md",
-          "sourceCommitSha": "287389ecc",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
-          "translatedAt": "2026-07-31T22:46:17+08:00",
+          "translatedAt": "2026-11-06T12:53:24.114417+00:00",
           "translationLastCommit": "004b98ac",
           "translationLastModified": "2026-10-10T23:46:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 28590,
+          "bytes": 28649,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-zoos.md",
@@ -95675,11 +95671,11 @@
           "sourceContentHash": "sha256:968a60e9d47e825b",
           "sourceBodyHash": "sha256:c77c8cceb31c23cb",
           "translatedAt": "2026-11-06T11:10:20.390756+00:00",
-          "translationLastCommit": "70d2a316",
-          "translationLastModified": "2026-11-03T14:28:34+08:00",
+          "translationLastCommit": "53f445b3",
+          "translationLastModified": "2026-11-06T20:52:58+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 59403,
+          "bytes": 59405,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -123159,20 +123155,18 @@
         "fr": {
           "path": "fr/People/liao-tian-ding.md",
           "translatedFrom": "People/廖添丁.md",
-          "sourceCommitSha": "28304057a",
-          "sourceContentHash": "sha256:e0f89a1113cc2a1d",
-          "sourceBodyHash": "sha256:f4fed166bea776f5",
-          "translatedAt": "2026-09-12T06:33:40+08:00",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:304ddcc5326d0203",
+          "sourceBodyHash": "sha256:b83d31b560e3ac15",
+          "translatedAt": "2026-11-06T17:04:29+08:00",
           "translationLastCommit": "02cfdfc3",
           "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 26386,
+          "bytes": 26496,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+37 -20"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "vi": {
           "path": "vi/People/liao-tian-ding.md",
@@ -149153,20 +149147,18 @@
         "vi": {
           "path": "vi/People/koxinga.md",
           "translatedFrom": "People/鄭成功.md",
-          "sourceCommitSha": "a7cf30769",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "translatedAt": "2026-11-06T13:03:36.309758+00:00",
           "translationLastCommit": "4b199a2b",
           "translationLastModified": "2026-08-09T10:19:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 25003,
+          "bytes": 25062,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/koxinga.md",
@@ -179397,8 +179389,8 @@
           "sourceContentHash": "sha256:1c8f6297e9dffc4e",
           "sourceBodyHash": "sha256:4502c5630968c2b9",
           "translatedAt": "2026-11-06T17:04:12+08:00",
-          "translationLastCommit": "21261c79",
-          "translationLastModified": "2026-09-11T23:06:04+08:00",
+          "translationLastCommit": "fcf60ad1",
+          "translationLastModified": "2026-11-06T20:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 21627,
@@ -187513,20 +187505,18 @@
         "en": {
           "path": "en/History/taiwan-radio-broadcasting-history.md",
           "translatedFrom": "History/台灣廣播史.md",
-          "sourceCommitSha": "174a83b65",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
-          "translatedAt": "2026-09-10T13:28:40+08:00",
+          "translatedAt": "2026-11-06T12:53:17.806201+00:00",
           "translationLastCommit": "c0e73f55",
           "translationLastModified": "2026-10-10T23:13:40+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 22673,
+          "bytes": 22732,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/taiwan-radio-broadcasting-history.md",
