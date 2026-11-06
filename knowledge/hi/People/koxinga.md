@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a7cf30769'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:29ee16f25cde68b4'
 sourceBodyHash: 'sha256:fa9994749dd8a224'
-translatedAt: '2026-09-17T06:43:44+08:00'
+translatedAt: '2026-11-06T20:55:11.563931+00:00'
 ---
 
 # चेंग सोंगचोंग: जापान में जन्म, चीन में पालन-पोषण और ताइवान में मृत्यु के तीस वर्ष
