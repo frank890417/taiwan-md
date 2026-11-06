@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:07a0aae4b347edb4'
-sourceBodyHash: 'sha256:4db7ecd312bd2a27'
-translatedAt: '2026-09-10T12:00:00+08:00'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:d162c579da0f2b9c'
+sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
+translatedAt: '2026-11-06T08:13:15.142782+00:00'
 ---
 
 # ताइवान मूल निवासी पारिस्थितिक ज्ञान और पर्यावरण संरक्षण
