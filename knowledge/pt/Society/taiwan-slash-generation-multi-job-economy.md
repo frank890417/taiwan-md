@@ -17,11 +17,13 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-09-19T11:59:08+08:00'
+translatedAt: '2026-11-06T15:50:00.522754+00:00'
 ---
 
 > Jovens taiwaneses de 25 a 35 anos estão vivenciando um experimento de sobrevivência sem data de início oficial. O salário mediano está em 38.000 NT$, mas o aluguel de um quarto em Taipé começa em 14.000 NT$. Um único emprego não basta, então após o expediente abrem o app de entregas, nos fins de semana pegam projetos freelance e à noite editam vídeos. Isso não é uma "ondinha da barra", mas uma estratégia de sobrevivência forçada pela estrutura.
