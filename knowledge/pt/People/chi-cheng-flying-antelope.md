@@ -1,20 +1,25 @@
 ---
-title: 'Chi Cheng: 10 recordes mundiais, cinquenta anos depois ainda corre pelo nome de Taiwan'
-description: 'Nascida a 15 de março de 1944 em Hsinchu, Chi Cheng, a "gazela saltitante", tornou-se a mais destacada atleta feminina da história do atletismo de Taiwan. Nos Jogos Olímpicos da Cidade do México em 1968, conquistou o bronze nos 80 metros com barreiras com 10,51 segundos, a primeira medalha olímpica feminina de atletismo de Taiwan; na carreira estabeleceu 10 recordes mundiais. Após aposentar-se, dedicou-se à promoção de corridas de rua; hoje, com mais de oitenta anos, continua ativa no movimento pelo nome de Taiwan.'
+title: 'Chi Cheng: estabeleceu 10 recordes mundiais; cinco décadas depois, ainda corre pelo reconhecimento de Taiwan'
+description: 'Chi Cheng, nascida em 1944 em Hsinchu, conhecida como "a gazela saltitante". Nos Jogos Olímpicos da Cidade do México em 1968, ela conquistou o bronze nos 80 metros com barreiras com 10,51 segundos, tornando-se a primeira mulher de Taiwan a ganhar uma medalha olímpica no atletismo; ao longo da carreira, estabeleceu 10 recordes mundiais. Após se aposentar, promoveu corridas de rua em Taiwan; em 2024, foi nomeada assessora de estratégia nacional do Gabinete Presidencial; aos mais de oitenta anos, continua a lutar pelo reconhecimento de Taiwan, defendendo que o país compita sob o nome "Taiwan" nos Jogos Olímpicos de Los Angeles em 2028.'
 date: 2026-03-19
 category: 'People'
-tags: ['Esportes', 'Atletismo', 'Olimpíadas', 'Barreiras', 'Recordes Mundiais']
+tags:
+  ['Esportes', 'Atletismo', 'Jogos Olímpicos', 'Barreiras', 'Recordes mundiais']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「人物條目 SEO batch」條目。SC 28 天 7,035 曝光 125 點擊（1.78%），查詢「紀政」5,062、「紀政幾歲」97、「紀政近況」93 曝光；description 放進「飛躍的羚羊」與 2024 國策顧問、2028 正名主張等現況。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/紀政.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:ec85f3e1d7f5d977'
 sourceBodyHash: 'sha256:5932775fa82a34d0'
-translatedAt: '2026-07-26T14:23:27+08:00'
+translatedAt: '2026-11-06T00:18:43.611976+00:00'
 ---
 
 # Chi Cheng: 10 recordes mundiais, cinquenta anos depois ainda corre pelo nome de Taiwan

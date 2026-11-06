@@ -1,6 +1,6 @@
 ---
-title: 'Wang Yung-ching: Duas décadas de luta entre lojas de arroz e o Complexo Petroquímico de Kaohsiung, e a disputa sucessória após sua morte'
-description: 'Nascido em 1917 em uma família de agricultores pobres em Xindian, Taipei, ele abandonou os estudos aos 15 anos e pediu emprestados NT$200 em ienes ao pai para abrir o ''Xingao Rice Mill''. Em 1954, fundou a Formosa Plastics, sendo posteriormente apelidado de "Deus da Gestão". Em 1973, propôs ao governo a criação do Complexo Petroquímico de Kaohsiung (Sixth Naphtha Cracker); apesar de várias rejeições, não desistiu e lutou por quase vinte anos até obter a aprovação, iniciando a produção em massa em Mailiao, Yunlin, em 1998. Ele faleceu em Nova York, EUA, em 15 de outubro de 2008, aos 92 anos, deixando uma disputa de herança familiar que se estendeu até por volta de 2022.'
+title: 'Wang Yung-ching: da mercearia de arroz ao Sexto Complexo Petroquímico, vinte anos de luta; a grande disputa pela herança após sua morte'
+description: 'Wang Yung-ching era natural de Xindian, Taipé. Nasceu em 1917 numa família camponesa pobre, abandonou a escola aos 15 anos, pediu dinheiro emprestado ao pai para abrir uma mercearia de arroz e registava, porta a porta, o ciclo de consumo de cada família. Em 1954, fundou a Formosa Plastics, vindo a ser conhecido como o «Deus da Gestão». Em 1973, propôs o Sexto Complexo Petroquímico, que foi repetidamente rejeitado pelo governo; só após quase vinte anos obteve aprovação, iniciando a produção em massa em 1998 em Mailiao, Yunlin. Faleceu em Nova Iorque em 2008, aos 92 anos, e a disputa familiar pela herança arrastou-se até por volta de 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Tecnologia e Empresas',
     'Grupo Formosa Plastics',
     'Indústria Petroquímica',
-    'Sixth Naphtha Cracker',
-    'Empreendedor',
+    'Sexto Complexo Petroquímico',
+    'Empresário',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 13,511 曝光 100 點擊（0.74%），查詢「王永慶哪裡人」56、「王永慶是誰」22 曝光；description 第一句先答台北新店人，從 181 字履歷串縮短。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-10-15T20:09:49.481913+00:00'
+translatedAt: '2026-11-06T00:13:46.539930+00:00'
 ---
 
 # Wang Yung-ching: da mercearia de arroz à luta de vinte anos pela Sexta Unidade de Craqueamento, o grande drama sucessório após a sua morte

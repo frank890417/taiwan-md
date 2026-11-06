@@ -1,26 +1,26 @@
 ---
-title: 'Rua Guling: A Rua dos Livros Deixada pelos Japoneses, os Jovens de Edward Yang, o Palácio do Governo Nacionalista'
-description: 'Numa tarde de sábado, estudantes fazem fila diante do teatro de tijolos vermelhos no fim da Viela 5 da Rua Guling, ao lado do Museu Nacional de História construído em 1955 e do lago de lótus do Jardim Botânico de Taipé reorganizado em 1921. Esta rua de 1,2 km chamava-se Sakuma-chō em 1922, foi rebatizada Rua Guling em 1947 com nome tirado do Monte Lu, em Jiangxi. Após a guerra, os livros deixados pelos japoneses em retirada formaram a primeira rua de sebos de Taiwan; nos anos 1960 chegou a ter mais de 200 bancas; em abril de 1973, com a abertura da Ponte Guanghua, os vendedores foram realocados para debaixo do viaduto. Em 15 de junho de 1961, o estudante de 16 anos Mao Wu matou a colega de 15 anos Liu Min com uma faca de escoteiro; 30 anos depois, Edward Yang transformou o caso num filme de 237 minutos. A rua dos livros foi demolida, as bancas mudaram-se, os alunos compram noutro lado; restam o antigo posto policial de tijolos vermelhos da era japonesa, o conjunto de museus em estilo palaciano chinês do pós-guerra e o lago de lótus que está no mesmo lugar desde 1921.'
+title: 'Rua Guling: a rua de livros deixada pelos japoneses, o jovem de Yang De-chang, o palácio do Governo Nacionalista'
+description: 'A Rua Guling é uma rua de 1,2 km em Taipei, chamada em 1922 de Sakuma-chō e renomeada em 1947 com o nome de Guling do Monte Lu, em Jiangxi. Após a guerra, os livros deixados pelos japoneses foram colocados à beira da estrada, tornando-se a primeira rua de livros usados de Taiwan, chegando a ter mais de duzentas bancas de livros no seu auge. Em 1961, o jovem de 16 anos Mao Wu esfaqueou até a morte Liu Min, de 15 anos, nesta rua, e Yang De-chang fez um filme sobre o caso. As bancas de livros foram embora, mas o museu histórico em estilo palaciano e o lago de lótus de 1921 ainda permanecem.'
 date: 2026-05-21
 category: 'Geography'
 tags:
   [
     'Rua Guling',
     'Academia Nanhai',
-    'Taipé',
+    'Taipei',
     'Distrito de Zhongzheng',
-    'bairro histórico',
-    'rua de sebos',
-    'Edward Yang',
-    'Caso do Assassinato Juvenil da Rua Guling',
+    'Bairro histórico',
+    'Rua de livros usados',
+    'Yang De-chang',
+    'Caso do assassinato de jovens na Rua Guling',
     'Museu Nacional de História',
-    'Jardim Botânico de Taipé',
+    'Jardim Botânico de Taipei',
     'Pequeno Teatro da Rua Guling',
     'Sakuma-chō',
     'Kodama-chō',
-    'Centro Comercial Guanghua',
+    'Shopping Guanghua',
     'Livraria Songlin',
-    'série bairros históricos',
+    'Série de bairros históricos',
   ]
 subcategory: '歷史街區 / 台北市中正區'
 author: 'Taiwan.md Contributors'
@@ -34,11 +34,15 @@ image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
 imageCredit: 'Yu tptw'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49d'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-07-29T07:32:34+08:00'
+translatedAt: '2026-11-06T00:37:43.673087+00:00'
 ---
 
 # Rua Guling: A Rua dos Livros Deixada pelos Japoneses, os Jovens de Edward Yang, o Palácio do Governo Nacionalista
