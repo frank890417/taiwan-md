@@ -3,7 +3,7 @@
 # 2026-11-07-064755-twmd-data-refresh-am — 早班刷新靠昨天補的分支自己救回儀表板，0 stale；子代普查連兩班逾時，量到是下載速率的問題
 
 > session twmd-data-refresh-am — 排程觸發（am 06:00 資料刷新）
-> Session span: 06:03 → 06:55 +0800（refresh 06:03:38 → 06:31:43）
+> Session span: 06:03 → 06:50 +0800（refresh 06:03:38 → 06:31:43）
 > 資料來源：refresh log、`date` 輸出、`git log %ai`、`.taiwanmd/wake-context.latest.md`
 
 ## 觸發
