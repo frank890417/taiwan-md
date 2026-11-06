@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-18T00:53:06+08:00'
+translatedAt: '2026-11-06T08:24:17.699415+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Chiang Ching-kuo menjadi presiden pada tahun 1978 dan mengumumkan pencabutan status darurat di Taiwan selama 38 tahun pada 15 Juli 1987. Kedua peristiwa ini menjadikannya pemimpin rezim otoriter sekaligus pengambil keputusan untuk keterbukaan politik. Artikel ini tidak menggambarkan demokratisasi sebagai hadiah dari satu orang, melainkan menempatkan reformasinya, kekerasan negara, dan tindakan sosial pasca-Insiden Penghinaan di Penghu (Beautiful Island) dalam satu rantai sebab-akibat.
+> **Ringkasan 30 Detik:** Chiang Ching-kuo menjadi presiden pada 1978, pada 15 Juli 1987 mengumumkan pencabutan hukum darurat yang berlangsung 38 tahun di Taiwan; kedua peristiwa itu menjadikannya sekaligus pengendali rezim otoriter dan pembuka kebijakan pembukaan politik. Artikel ini tidak memandang demokratisasi sebagai anugerah satu orang, melainkan menempatkan reformanya, kekerasan negara, serta masyarakat yang terus beraksi setelah Peristiwa Kaohsiung dalam satu rantai sebab-akibat yang sama.
 
-Pada 20 Mei 1978, Chiang Ching-kuo dilantik sebagai Presiden Republik Tiongkok (Taiwan) di Taipei; pada 15 Juli 1987, Taiwan mencabut status darurat selama 38 tahun; dan ia meninggal dunia pada 13 Januari 1988 saat menjabat sebagai presiden. [^1] Ketiga tanggal ini berbaris seperti garis waktu kemajuan yang rapi. Namun, Chiang Ching-kuo bukanlah orang di luar sistem darurat yang membuka pintu bagi Taiwan; dia adalah salah satu penjaga gerbang itu sendiri.
+Pada 20 Mei 1978, Chiang Ching-kuo mengucapkan sumpah jabatan sebagai Presiden Republik Tiongkok (Taiwan) di Taipei; pada 15 Juli 1987, Taiwan mencabut hukum darurat yang telah berlangsung 38 tahun; pada 13 Januari 1988, ia meninggal dunia saat masih menjabat presiden.[^1] Ketiga tanggal itu tersusun rapi seperti garis waktu kemajuan yang berurutan. Namun Chiang Ching-kuo bukanlah sosok yang berdiri di luar sistem hukum darurat dan membuka pintu bagi Taiwan; ia sendiri adalah salah satu penjaga pintu itu.
 
-Masalah sejarah yang ditinggalkannya bukan pertanyaan pemungutan suara semacam "Apakah Chiang Ching-kuo baik atau tidak?", melainkan: mengapa seorang figur dari rezim otoriter mulai membongkar beberapa pilar kekuasaannya di tahun-tahun terakhir hidupnya? Yang lebih rumit adalah, pembongkaran ini tidak dimulai dari ruang hampa. Celah itu dibuka olehnya, tetapi orang-orang yang berani berbicara selama era daruratlah yang mendorong tubuh mereka ke dalam celah tersebut, membuatnya mustahil untuk ditutup kembali.
+Oleh karena itu, warisan sejarah yang ia tinggalkan bukanlah soal pemungutan suara semacam «apakah Chiang Ching-kuo baik atau buruk», melainkan: mengapa seseorang yang pernah memanfaatkan negara otoriter, di akhir hayatnya justru mulai merobohkan beberapa tiang penopang kekuasaannya sendiri? Lebih sulit lagi, pengrobohan itu tidak dimulai dari nol. Celah pintu didorong terbuka olehnya, tetapi yang mendorong badan mereka ke dalam celah itu sehingga pintu tidak bisa ditutup lagi, adalah gelombang demi gelombang orang yang berani bicara di era hukum darurat.
 
-![Potret Chiang Ching-kuo di tahun 1970-an](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Gambar: Adao/Wikimedia Commons, CC BY-SA 4.0._
+![Potret Chiang Ching-kuo era 1970-an](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Gambar: Ado／Wikimedia Commons, CC BY-SA 4.0._
 
 > **📝 Catatan Kurator**
-> Pencabutan status darurat patut diingat, bukan karena seorang figur kuat tiba-tiba menjadi baik, tetapi karena bahkan figur kuat pun harus menghadapi masyarakat yang telah tumbuh dewasa.
+> Pencabutan hukum darurat patut diingat, bukan karena seorang pemimpin keras tiba-tiba menjadi baik hati, melainkan karena bahkan pemimpin keras pun terpaksa menghadapi masyarakat yang sudah dewasa.
 
 ## Seseorang yang Menggantikan di Tengah Krisis
 

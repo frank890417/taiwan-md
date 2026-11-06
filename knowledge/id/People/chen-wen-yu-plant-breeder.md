@@ -17,77 +17,81 @@ featured: false
 readingTime: 8
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/people/chen-wen-yu-1.webp'
+imageCredit: 'Uiuc1028'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '9062be977'
-sourceContentHash: 'sha256:a830e3b88da8731a'
-sourceBodyHash: 'sha256:d47891ab6b5fa242'
-translatedAt: '2026-09-18T00:53:06+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:3facf31822b994ad'
+sourceBodyHash: 'sha256:93a5825f5b11a6f9'
+translatedAt: '2026-11-06T07:24:54.268795+00:00'
 ---
 
-![Chen Wen-Yu bersama rekan dan semangka](/article-images/people/chen-wen-yu-1.webp)
+![陳文郁與同事及西瓜](/article-images/people/chen-wen-yu-1.webp)
 
-_Gambar: Chen Wen-Yu bersama rekan menampilkan semangka. Sumber: Wikimedia Commons, penulis Uiuc1028, CC BY-SA 3.0; gambar tidak diubah oleh artikel ini._[^10]
+_Gambar: Chen Wen-Yu dengan rekan kerja menampilkan semangka. Sumber: Wikimedia Commons, penulis Uiuc1028, CC BY-SA 3.0; gambar tidak diubah oleh artikel ini._ [^10]
 
-> **Ringkasan 30 Detik**: Dimulai dari Institut Penelitian Hortikultura Tropis Fengshan, Chen Wen-Yu mengembangkan semangka tanpa biji "Fengshan No. 1" dan mendirikan Benih Petani (Nongyou Seedlings). Keistimewaannya bukan hanya pada jumlah varietas, tetapi pada definisi keberhasilan pemuliaan sebagai kemampuan petani untuk mendapatkan kehidupan yang lebih stabil melalui benih yang lebih baik.
+> **Ringkasan 30 Detik**: Chen Wen-Yu bermula dari Stasiun Percobaan Hortikultura Tropis Fungshan, memperkenalkan semangka tanpa biji 「Fungshan No. 1」 dan mendirikan Nongyou Seedlings Co., Ltd. Keunikannya tidak hanya terletak pada jumlah varietas, melainkan pada mendefinisikan keberhasilan pemuliaan tanaman sebagai kemampuan petani untuk memperoleh kehidupan yang lebih stabil dengan benih yang lebih baik.
 
-Pada tahun 1925, Chen Wen-Yu lahir di keluarga petani di Yongkang, Tainan. Pada tahun 1962, ia mengembangkan semangka tanpa biji "Fengshan No. 1". Pada tahun 1968, ia mendirikan Benih Petani bersama teman-temannya. Ketiga tahun ini membagi kehidupan seseorang ke dalam tiga skala: kesulitan yang terlihat di ladang, teknologi yang diselesaikan di laboratorium, dan jalur perusahaan yang kemudian melintasi perbatasan negara.[^1] [^2]
+Pada tahun 1925, Chen Wen-Yu lahir di keluarga petani di Yongkang, Tainan. Pada tahun 1962, ia memperkenalkan semangka tanpa biji 「Fungshan No. 1」. Pada tahun 1968, ia bersama teman-temannya mendirikan Nongyou Seedlings Co., Ltd. Ketiga tahun ini membagi kehidupan seseorang menjadi tiga skala: kesulitan yang dilihat di ladang, teknologi yang diselesaikan di laboratorium, dan jalur sebuah perusahaan yang kemudian melintasi batas negara. [^1] [^2]
 
-Namun, apa yang benar-benar ditinggalkan oleh Chen Wen-Yu bukan hanya julukan "Raja Semangka". Yang lebih patut ditanyakan adalah: **Mengapa seorang pemulia menempatkan "membuat petani menghasilkan uang terlebih dahulu" di atas keuntungan perusahaan?** Benih biasanya terlalu kecil untuk muncul dalam foto berita, tetapi Chen Wen-Yu menganggapnya sebagai komitmen publik—varietas harus sampai ke ladang dan pada akhirnya menjadi hasil panen yang dapat dilihat oleh petani.
+Namun yang benar-benar ditinggalkan Chen Wen-Yu bukan hanya gelar 「Raja Semangka」. Lebih layak untuk ditanyakan: **mengapa seorang ahli pemuliaan tanaman menempatkan 「biarkan petani untung dulu」 di depan keuntungan perusahaan?** Benih biasanya terlalu kecil untuk muncul di foto berita, namun Chen Wen-Yu memperlakukannya sebagai semacam komitmen publik—varietas harus masuk ke ladang, dan pada akhirnya berubah menjadi panen yang bisa dilihat petani.
 
-## Dimulai dari Ratapan Ladang
+## Dimulai dari Ratapan di Ladang
 
-![Chen Wen-Yu memelihara melon oriental di ladang](/article-images/people/chen-wen-yu-melon.webp)
+![Chen Wen-Yu di ladang menternak melon oriental](/article-images/people/chen-wen-yu-melon.webp)
 
-_Gambar: Halaman arsip Wikimedia Commons menggambarkan gambar ini sebagai Chen Wen-Yu memelihara melon oriental; penulis Uiuc1028, CC BY-SA 3.0. Gambar tidak diubah oleh artikel ini._[^11]
+_Gambar: Halaman berkas Wikimedia Commons mendeskripsikan gambar ini sebagai Chen Wen-Yu menternak melon oriental; penulis Uiuc1028, CC BY-SA 3.0. Gambar tidak dimodifikasi oleh artikel ini._[^11]
 
-Saat muda, Chen Wen-Yu membantu di ladang dan menyaksikan keputusasaan orang tuanya dalam menghadapi bencana alam dan hasil panen yang tidak stabil. Setelah lulus dari Departemen Penelitian Pertanian Shinfeng, ia bekerja di Institut Penelitian Hortikultura Tropis Fengshan, awalnya melakukan pemuliaan sayuran, sebelum kemudian memfokuskan perhatiannya pada semangka. Menurut catatan _Taiwan Guanghua_, ia pernah melakukan survei tanah, kelembaban, iklim, dan kesesuaian tanaman dari selatan ke utara; siang hari mengamati di ladang, malam hari kembali ke laboratorium untuk menyusun laporan.[^1]
+Chen Wen-Yu saat muda membantu di ladang, menyaksikan ketidakberdayaan orang tuanya menghadapi bencana alam dan panen yang tidak stabil. Setelah lulus dari Akademi Pertanian Sinfong, ia memasuki Stasiun Percobaan Hortikultura Tropis Fengshan, terlebih dahulu melakukan pemuliaan sayuran, kemudian mengalihkan perhatian ke semangka. Menurut catatan Majalah Taiwan Guanghua, ia pernah menyelidiki dari selatan ke utara mengenai kualitas tanah, kelembaban, iklim, dan kesesuaian tanaman, mengamati di ladang siang hari dan kembali ke laboratorium menyusun laporan malam hari.[^1]
 
-Pengalaman ini sangat penting karena Chen Wen-Yu tidak membayangkan varietas berdasarkan "apa yang dibutuhkan pasar," melainkan bertanya apa yang mampu ditoleransi oleh tanah petani. Baginya, pemuliaan bukanlah menambahkan warna baru pada buah di atas kertas. Ia harus menghadapi penyakit, iklim, transportasi, dan apakah petani mampu membeli benih tersebut secara bersamaan.
+Pengalaman ini penting, karena Chen Wen-Yu tidak memulai dengan membayangkan varietas berdasarkan \"apa yang kurang di pasar\", melainkan bertanya terlebih dahulu apa yang dapat ditanggung oleh lahan petani. Baginya, pemuliaan bukan sekadar menambahkan warna baru pada buah di atas kertas. Ia harus secara bersamaan menghadapi penyakit, iklim, transportasi, dan apakah petani mampu membeli benih.
 
-📝 **Catatan Kurator: Titik awal Chen Wen-Yu bukanlah membuat pertanian Taiwan terlihat lebih indah, melainkan mengurangi risiko bagi petani untuk "menanam tanpa mengetahui apakah akan panen."**
+📝 **Catatan Kurator: Titik awal Chen Wen-Yu bukan membuat pertanian Taiwan lebih indah, melainkan mengurangi risiko \"menanam tanpa tahu apakah akan panen\" yang ditanggung petani.**
 
-## Fengshan No. 1: Teknologi Bukanlah Tujuan Akhir
+## Fengshan No. 1: Teknologi Bukan Titik Akhir
 
-![Foto penampang semangka tanpa biji di domain publik](/article-images/people/watermelon-seedless.webp)
+![Foto potongan semangka tanpa biji domain publik](/article-images/people/watermelon-seedless.webp)
 
-_Gambar: Halaman arsip Wikimedia Commons secara jelas menandai "Seedless watermelon", deskripsi asli adalah pembelian pada tahun 2005 di Atlanta, Amerika Serikat, produk dari Nikaragua; penulis SCEhardt, domain publik. Ini adalah foto ilustrasi semangka tanpa biji, bukan Fengshan No. 1, dan bukan foto sejarah Chen Wen-Yu yang diambil di Taiwan._[^17]
+_Gambar: Halaman berkas Wikimedia Commons jelas menandai sebagai "Seedless watermelon", keterangan asli pada 2005 dibeli di Atlanta, AS, produk berasal dari Nikaragua; penulis SCEhardt, domain publik. Ini adalah foto ilustratif semangka tanpa biji, bukan Fengshan No. 1, juga bukan foto sejarah Chen Wen-Yu yang diambil di Taiwan._ [^17]
 
-Pada tahun 1950-an, beberapa benih semangka yang digunakan petani Taiwan menghadapi masalah resistensi penyakit dan reproduksi. Oleh karena itu, Chen Wen-Yu terjun ke dalam penelitian semangka tanpa biji. Hal ini juga menjelaskan mengapa "tanpa biji" bukanlah hasil laboratorium tunggal, melainkan proses industri yang terdiri dari seleksi induk, penggandaan kromosom, hibridisasi, penyerbukan lapangan, dan pemisahan panen secara bersamaan. Data pemuliaan tanaman melon dari Universitas Negeri Carolina menunjukkan bahwa para petani biasanya harus menanam tanaman diploid dan triploid di ladang, serta membedakan buah berbiji dan tanpa biji saat panen dan penjualan.[^13] Setelah sekitar tiga tahun usaha, pada tahun 1962 ia mengembangkan "Fengshan No. 1". Laporan _Taiwan Guanghua_ menggambarkan bahwa ia menggunakan penggandaan kromosom dan perkawinan untuk menghasilkan semangka tanpa biji yang tidak memiliki kemampuan reproduksi. Laporan berbahasa Inggris meringkas pencapaian ini sebagai "semangka tanpa biji pertama di dunia."[^1] [^3]
+Pada 1950-an, sebagian benih semangka yang digunakan petani Taiwan menghadapi masalah ketahanan penyakit dan reproduksi. Chen Wen-Yu oleh karena itu mendalami penelitian semangka tanpa biji. Hal ini juga menjelaskan mengapa "tanpa biji" bukanlah hasil laboratorium tunggal, melainkan alur industri yang tersusun dari pemilihan induk, pengembalian kromosom, persilangan, penyerbukan di ladang, dan pemisahan panen. Data pembiakan labu dari Universitas Negeri Carolina Utara menyatakan, penanam biasanya harus menyiapkan tanaman diploid dan triploid di ladang, serta membedakan buah berbiji dan tanpa biji saat panen dan penjualan. [^13] Setelah upaya sekitar tiga tahun, pada 1962 ia berhasil mengembangkan "Fengshan No. 1". Laporan Taiwan Guanghua mendeskripsikan, ia memanfaatkan pengembalian kromosom dan persilangan, sehingga keturunan membentuk semangka tanpa biji yang tidak memiliki kesuburan. Laporan berbahasa Inggris merangkum pencapaian ini sebagai "semangka tanpa biji pertama di dunia". [^1] [^3]
 
-Ada perbedaan verifikasi yang tidak bisa disederhanakan: sumber yang berbeda memberikan deskripsi yang berbeda mengenai wilayah dan peringkat global untuk "yang pertama". Artikel ini menggunakan pernyataan paling konservatif, yaitu **"Fengshan No. 1", semangka tanpa biji pertama di Taiwan**, yang dapat diverifikasi langsung dari laporan berbahasa Tionghoa. Sementara itu, "pertama di dunia" hanya disimpan dalam konteks kutipan laporan bahasa Inggris untuk menghindari kesalahan penulisan sejarah ilmiah menjadi dogma mutlak oleh media.[^1] [^3]
+Di sini ada perbedaan verifikasi yang tidak bisa disamarkan: sumber berbeda memiliki ungkapan berbeda mengenai wilayah dan peringkat dunia "yang pertama". Artikel ini mengadopsi pendekatan paling konservatif, yang dapat diverifikasi langsung dari laporan berbahasa Indonesia, menyebutnya sebagai **semangka tanpa biji pertama Taiwan "Fengshan No. 1"**. Adapun "dunia pertama" hanya dipertahankan dalam konteks kutipan laporan berbahasa Inggris, untuk menghindari singkatan media disalahartikan sebagai kesimpulan sejarah ilmu pengetahuan tanpa kontroversi. [^1] [^3]
 
-Kisah semangka tanpa biji ini juga tidak boleh ditulis hanya sebagai "sebuah penemuan". Dari sudut pandang pemuliaan, varietas modern yang tanpa biji biasanya bukan sihir "tanpa biji", melainkan hasil dari hibridisasi triploid: induk tetraploid (2n=4x=44) dikawinkan dengan ayah diploid (2n=2x=22), menghasilkan triploid (2n=3x=33). Ketiga set kromosom sulit untuk dibagi secara merata selama meiosis, menyebabkan gamet jantan dan betina kehilangan fungsi normal, sehingga buah biasanya tidak membentuk biji yang matang. Triploid itu sendiri tidak dapat menyediakan serbuk sari yang efektif, dan ladang masih perlu menanam tanaman diploid untuk merangsang hasil.[^13] Titik balik yang sebenarnya terjadi di Erlun, Yunlin. Berdasarkan survei lahan pertanian, Chen Wen-Yu menilai bahwa tanah berpasir di bawah Jembatan Xilu cocok untuk menanam semangka yang takut dingin ini, sehingga ia berkendara dari Fengshan ke utara dan bekerja sama dengan petani yang diajarkan oleh staf asosiasi pertanian. Petani bekerja di ladang pada siang hari, dan hanya bisa belajar pada malam hari. Chen Wen-Yu mengenang: "Karena para petani harus pergi ke ladang pada siang hari, mereka hanya bisa belajar di malam hari, dan saya juga sering menginap di kantor asosiasi pertanian, tetapi nyamuknya sangat banyak sehingga tidak mungkin tidur."[^1]
+Cerita semangka tanpa biji oleh karena itu tidak boleh hanya ditulis sebagai "satu penemuan". Dari sudut pembiakan, varietas tanpa biji modern biasanya bukan sihir "tanpa benih", melainkan hasil persilangan triploid: induk tetraploid (2n=4x=44) dan bapak diploid (2n=2x=22) bersilang, menghasilkan triploid (2n=3x=33). Tiga set kromosom saat pembelahan reduksi sulit terbagi merata, menyebabkan gamet jantan dan betina kehilangan fungsi normal, sehingga buah biasanya tidak membentuk biji dewasa. Triploid itu sendiri tidak bisa menyediakan serbuk sari efektif, ladang produksi tetap memerlukan tanaman diploid untuk merangsang pembuahan. [^13] Titik balik nyata terjadi di Erlun, Yunlin. Berdasarkan survei lahan pertanian, Chen Wen-Yu menilai lahan pasir gersang di bawah Jembatan Xiluo cocok untuk menanam semangka jenis ini yang takut dingin, lalu ia mengendarai mobil dari Fengshan ke utara, bekerja sama dengan staf pertemuan pertanian Wang Liang-Xiong mengajar petani menanam. Petani bertani siang hari, hanya bisa belajar malam hari. Chen Wen-Yu mengingat: "Karena petani siang harus ke ladang, hanya bisa memanfaatkan malam untuk belajar, saya juga sering harus menginap di ruang jaga pertemuan pertanian, tapi nyamuknya banyak sekali sampai tidak bisa tidur sama sekali." [^1]
 
-Tanah berpasir kemudian menghasilkan semangka, dan diekspor ke Hong Kong dengan bantuan lembaga pertanian saat itu. Petani menyadari bahwa hasilnya lebih baik daripada padi, sehingga ia dijuluki "Raja Semangka". Jika julukan ini hanya diletakkan di akhir cerita sukses, itu akan seperti piala. Ketika dikembalikan ke ladang berpasir yang tandus, itu lebih seperti kartu kerja: Chen Wen-Yu harus hadir secara pribadi, menemani petani mengubah teknologi menjadi hasil panen.[^1]
+Lahan pasir gersang itu kemudian menghasilkan semangka, dan dengan bantuan lembaga pertanian saat diekspor ke Hong Kong. Petani menemukan pendapatan lebih baik dari padi, barulah mereka memberi gelar "Raja Semangka". Gelar ini jika hanya diletakkan di akhir kisah sukses, akan seperti piala. Ditaruh kembali ke ladang pasir yang tidak tumbuh rumput, gelar itu sebenarnya lebih mirip kartu kerja: Chen Wen-Yu harus hadir di lokasi, menemani petani mengubah teknologi menjadi panen. [^1]
 
-## Sebuah Perusahaan, Belajar Mengirim Benih ke Ladang Terlebih Dahulu
+## Satu Perusahaan, Pertama Belajar Mengirim Benih ke Ladang
 
-![Semangka di pertanian organik skala kecil Tainan](/article-images/people/tainan-organic-farm-watermelon.webp)
+![Semangka di Pertanian Organik Skala Kecil Tainan](/article-images/people/tainan-organic-farm-watermelon.webp)
 
-_Gambar: Semangka dari pertanian organik skala kecil di Kota Tainan, Taiwan, November 2009; penulis Fred Hsu, CC BY-SA 3.0. Ini adalah pemandangan pertanian Taiwan, bukan foto sejarah Chen Wen-Yu._[^12]
+_Gambar: Semangka di pertanian organik skala kecil Kota Tainan, Taiwan, foto November 2009; fotografi Fred Hsu, CC BY-SA 3.0. Ini adalah pemandangan pertanian Taiwan, bukan foto sejarah kerja Chen Wen-Yu sendiri._ [^12]
 
-Pada tahun 1968, pada usia 43 tahun, Chen Wen-Yu meninggalkan institut dan mendirikan Benih Petani bersama teman-temannya. Dokumen resmi menempatkannya sebagai pelopor dalam pemuliaan varietas sayuran Taiwan, mencatat bahwa ia menerbitkan jurnal hortikultura dan benih, mendirikan Yayasan Kesejahteraan Sosial Nongyou, dan mendirikan rumah sakit petani di Myanmar untuk memberikan layanan medis gratis.[^4]
+1968, Chen Wen-Yu berusia 43 tahun meninggalkan lembaga penelitian, bersama teman mendirikan Nongyou Seedlings Co., Ltd. Data resmi menempatkannya sebagai pelopor pengembangan varietas sayuran hibrida Taiwan, dan mencatat ia menerbitkan majalah hortikultura dan benih, mendirikan Yayasan Kesejahteraan Sosial Nongyou, serta mendirikan rumah sakit petani di Myanmar yang menyediakan layanan medis gratis. [^4]
 
-Halaman penghargaan resmi Benih Petani kemudian menulis nilai inti perusahaan sebagai "satu butir benih, satu tanggung jawab," dan mencantumkan rekor seperti Medali Bintang Lanskap Tingkat III Nasional yang diterima Chen Wen-Yu, Penghargaan Kontribusi Benih Asia Pasifik, dan Piagam Pujian dari Kantor Presiden. Penghargaan ini membuktikan pengakuan kelembagaan, tetapi tidak dapat membuktikan setiap angka industri secara terpisah. Angka tersebut harus dikembalikan untuk diverifikasi dari sumber masing-masing.[^5]
+Halaman penghargaan resmi Nongyou kemudian menuliskan nilai inti perusahaan sebagai "Satu Benih, Satu Tanggung Jawab", dan mencatat Chen Wen-Yu menerima Bintang Jasa Utama Kelas Tiga negara, Penghargaan Kontribusi Benih Negara Asosiasi Benih Asia-Pasifik, serta Surat Pujian Kepresidenan. Penghargaan ini membuktikan pengakuan sistematis baginya, namun tidak dapat membuktikan setiap angka industri secara mandiri. Angka tetap harus diverifikasi ke masing-masing sumbernya. [^5]
 
-_Buku Wawancara Chen Wen-Yu dan Lin Junyi yang diterbitkan oleh Perpustakaan Nasional memberikan petunjuk penting lainnya: buku ini menempatkan Chen Wen-Yu dalam konteks internasionalisasi pemuliaan benih pertanian Taiwan, secara khusus menyebutkan semangka kulit kuning "Diana" dan penghargaan AAS, serta merujuk pada pusat penelitian global Benih Petani, rumah sakit petani, dan yayasan kesejahteraan sosial. Ini bukanlah ringkasan yang dapat menggantikan wawancara kata demi kata dalam buku, tetapi ini membuktikan bahwa kisah Chen Wen-Yu tidak hanya dibangun dari artikel legendaris di kemudian hari.[^6]_
+_Wawancara Chen Wen-Yu dan Lin Junyi_ yang diterbitkan Academia Historica memberikan petunjuk penting lain: sinopsis resmi buku menempatkan Chen Wen-Yu dalam konteks pengembangan benih pertanian Taiwan menuju internasional, khusus menyebut semangka berkulit kuning "Diana" dan Penghargaan AAS, serta menyebut basis R&D global Nongyou, rumah sakit petani, dan yayasan kesejahteraan sosial. Ini bukan ringkasan yang bisa menggantikan wawancara kata per kata di dalam buku, tetapi membuktikan kisah Chen Wen-Yu tidak hanya disusun dari artikel legendaris belakangan. [^6]
 
-📝 **Catatan Kurator: Kekuatan lunak pertanian Taiwan terkadang bukan bendera, melainkan sekantong benih yang dapat berkecambah di iklim lain.**
+📝 **Catatan Kurator: Kekuatan lunak pertanian Taiwan terkadang bukanlah sebuah bendera, melainkan sekantong benih yang mampu berkecambah di iklim lain.**
 
-## Etos Bisnis "Membuat Petani Menghasilkan Uang Terlebih Dahulu"
+## Pandangan Bisnis "Biarkan Petani Mendapatkan Keuntungan Terlebih Dahulu"
 
-![Foto semangka matang dari Wikimedia Commons](/article-images/people/watermelons.webp)
+![Foto Wikimedia Commons semangka matang](/article-images/people/watermelons.webp)
 
-_Gambar: Semangka matang, penulis Steve Evans, Wikimedia Commons, CC BY 2.0; gambar ini digunakan untuk menampilkan tanaman semangka itu sendiri, bukan foto sejarah Chen Wen-Yu atau pertanian Taiwan._[^14]
+_Gambar: Semangka matang, karya Steve Evans, Wikimedia Commons, CC BY 2.0; gambar ini digunakan untuk menampilkan tanaman semangka itu sendiri, bukan foto sejarah Chen Wen-Yu atau pertanian Taiwan._ [^14]
 
-_Smile Taiwan_ mencatat wawancara Chen Wen-Yu di usia senja. Ia membedakan benih dari barang konsumsi biasa, mengatakan bahwa "tanggung jawab satu butir benih" adalah "varietas yang dikembangkan memberikan keuntungan yang baik bagi petani." Dalam laporan yang sama, ia juga berbicara tentang menghadapi semangka kulit kuning daging merah "Diana," berulang kali dihadapkan pada individu berkulit hijau, dan akhirnya menggambarkan semangat gigihnya sebagai "hanya ingin berbeda dari orang lain!"[^7]
+《Smile Taiwan》 merekam wawancara akhir hayat Chen Wen-Yu. Ia membedakan benih dari barang konsumsi biasa, berkata "tanggung jawab sebuah benih" adalah "mengembangkan varietas unggul, membawa keuntungan baik bagi petani." Dalam reportase yang sama, ia juga bercerita saat menetas semangka "Diana" berkulit kuning dan daging merah, berulang kali menghadapi individu berkulit hijau, namun akhirnya tetap menggambarkan semangat tidak mau kalah itu dengan "hanya ingin berbeda dari orang lain!" [^7]
 
-_Upstream and Downstream_ menempatkan filosofi bisnis ini dalam skala geografis yang lebih besar: Benih Petani pernah menyebarkan benih dan teknologi budidaya di Thailand Utara, Tiongkok, dan India, dan mendirikan rumah sakit petani di Myanmar. Laporan tersebut juga mempertahankan bagian kurang menarik dari globalisasi pertanian, seperti masalah peniruan di pasar Tiongkok dan risiko operasi lintas batas. Kesulitan-kesulitan ini tidak boleh dipotong karena "membantu petani" bukanlah slogan perusahaan yang indah, melainkan menanggung biaya dalam sistem, transportasi, dan pasar yang asing.[^8]
+《Upstream and Downstream》 kemudian menempatkan falsafah pengelolaan ini pada skala geografis yang lebih luas: Nongyou pernah mempromosikan bibit dan teknik budidaya di Thailand utara, Tiongkok, dan India, serta mendirikan rumah sakit petani di Myanmar. Reportase tersebut juga mempertahankan sisi yang tidak seindah itu dari globalisasi pertanian, misalnya masalah pencurian hak cipta di pasar Tiongkok dan risiko usaha lintas batas. Kesulitan-kesulitan ini tidak boleh dihapus, karena "membantu petani" bukan sekadar slogan bisnis yang indah, melainkan harus menanggung biaya di dalam regulasi, transportasi, dan pasar yang asing. [^8]
 
-_Taipei Times_ berbahasa Inggris, dalam laporan kematian Chen Wen-Yu, mengutipnya mengatakan: "My goal is to create the world’s most delicious watermelon." Laporan yang sama juga mencatat kata lain yang lebih mendekati etika kerjanya: "It takes good seedlings to produce good varieties. We provide farmers with good seeds to help them reap better harvests."[^3]
+Koran berbahasa Inggris 《Taipei Times》 dalam reportase kematian Chen Wen-Yu, mengutip kata-katanya: "Tujuanku adalah menciptakan semangka paling lezat di dunia." Reportase yang sama juga mencatat kalimat lain yang lebih dekat dengan etos kerjanya: "Butuh bibit baik untuk menghasilkan varietas baik. Kami menyediakan benih baik bagi petani untuk membantu mereka menuai panen yang lebih baik." [^3]
 
-Jika kedua kalimat ini dilihat bersama, akan terlihat bahwa tujuannya tidak kontradiktif: semangka paling lezat adalah imajinasi pemulia, tetapi petani dapat memiliki hasil panen yang lebih baik adalah alasan diizinkannya imajinasi itu ada.
+Melihat kedua kalimat itu bersama-sama, akan terlihat bahwa tujuannya tidak bertentangan: semangka paling lezat adalah imajinasi seorang peternak tanaman, tetapi petani yang mampu meraih panen lebih baik, itulah alasan imajinasi itu diizinkan untuk ada.
 
 ## Benih Keluar, Juga Membawa Batasan
 
@@ -143,15 +147,15 @@ Pemahaman yang lebih andal adalah: ia melakukan metode kerja dalam jangka waktu 
 
 Ketika kita membelah semangka tanpa biji lain kali, mungkin tidak perlu menganggapnya sebagai monumen seorang jenius. Cara membaca yang lebih mendekati Chen Wen-Yu adalah membayangkan di balik daging buah itu ada lembaran tabel yang telah disingkirkan, sebidang tanah yang tidak cocok, dan seseorang yang masih bersedia membawa teknologi kembali ke ladang. Benih itu kecil. Tetapi tanggung jawab yang ditimbulkannya tidak pernah kecil. Dan justru karena itulah kisah Chen Wen-Yu bukan hanya milik sejarah pertanian, tetapi juga milik mereka yang mau melakukan verifikasi ekstra sebelum menyerahkan sebuah teknologi kepada orang lain. Kesabaran ini adalah pekerjaan yang paling sulit dilihat dan tidak boleh dihilangkan sebelum benih benar-benar melintasi perbatasan. Ia mengingatkan kita bahwa inovasi yang benar-benar andal seringkali menanggung penantian panjang dalam detail, dan oleh karena itu layak untuk diverifikasi berulang kali oleh petani dari generasi ke generasi, dan juga diingatkan kepada mereka yang datang kemudian oleh setiap tanah yang perlu beradaptasi kembali.
 
-## Benih Bukanlah Aksesori Produk Pertanian
+## Benih Bibit Bukan Produk Sampingan Pertanian
 
-![Semangka yang tumbuh di ladang](/article-images/people/growing-watermelon.webp)
+![田間生長中的西瓜](/article-images/people/growing-watermelon.webp)
 
-_Gambar: Semangka yang tumbuh di ladang, penulis Mihaib21, Wikimedia Commons, CC BY-SA 3.0; gambar ini digunakan untuk menampilkan tahap pertumbuhan tanaman, bukan foto sejarah lokasi kerja Chen Wen-Yu._[^16]
+_Gambar: Semangka tumbuh di ladang, oleh Mihaib21, Wikimedia Commons, CC BY-SA 3.0; gambar ini digunakan untuk menampilkan tahap pertumbuhan tanaman, bukan foto sejarah tempat kerja Chen Wen-Yu._ [^16]
 
-Kasus Chen Wen-Yu juga dapat membantu kita memahami kembali istilah "rantai industri pertanian" yang sering diucapkan secara kabur. Petani melihat bibit, daun, bunga, dan buah di ladang. Perusahaan benih harus menangani induk, penyerbukan, isolasi, kemurnian, tingkat perkecambahan, pengemasan, dan penyimpanan jauh sebelumnya. Selama salah satu mata rantai ini tidak tepat, apa yang diterima petani mungkin bukan varietas yang diharapkan. Studi kasus integrasi lintas sektor pertanian menunjukkan bahwa Benih Petani kemudian bahkan perlu memperbaiki lokasi penyimpanan dan alur informasi gudang benih induk, karena manajemen benih tidak bisa hanya mengandalkan memori dan kertas.[^9]
+Kasus Chen Wen-Yu juga membantu kita memahami kembali istilah "rantai industri pertanian" yang sering diucapkan secara sangat abstrak. Petani di ladang melihat bibit, daun, bunga, dan buah. Perusahaan benih bibit harus menangani induk, penyerbukan, isolasi, kemurnian, tingkat percambahan, kemasan, dan penyimpanan jauh sebelumnya. Jika salah satu tahap tidak tepat, petani yang menerima mungkin bukan varietas yang diharapkan. Kasus integrasi lintas sektor pertanian menunjukkan bahwa petani kemudian bahkan perlu memperbaiki posisi penyimpanan dan alur informasi bank benih, karena pengelolaan benih tidak bisa hanya mengandalkan memori dan catatan kertas.[^9]
 
-"Infrastruktur tak terlihat" ini juga merupakan sisi kisah Chen Wen-Yu yang jarang dibahas. Taiwan sering menempatkan prestasi pertanian pada hasil panen, ekspor, atau varietas pemenang penghargaan, tetapi apa yang benar-benar memungkinkan sebuah perusahaan untuk melakukan pemuliaan dalam jangka panjang adalah kemampuan untuk menyimpan induk yang gagal, mencatat setiap hibridisasi, membedakan generasi yang berbeda, dan masih menemukan materi tersebut bertahun-tahun kemudian. Bagi pemuliaan, data bukanlah beban administratif, melainkan titik awal kesuksesan berikutnya.
+Jenis "infrastruktur tak terlihat" ini juga merupakan sisi cerita Chen Wen-Yu yang jarang dibahas. Taiwan sering menempatkan pencapaian pertanian pada produksi, ekspor, atau varietas berpenghargaan, namun yang benar-benar memungkinkan sebuah perusahaan melakukan pemuliaan tanaman jangka panjang adalah kemampuan untuk menyimpan induk yang gagal, mencatat setiap persilangan, membedakan generasi berbeda, dan tetap menemukan materi tersebut bertahun-tahun kemudian. Bagi pemuliaan tanaman, data bukan beban administrasi, melainkan titik awal keberhasilan berikutnya.
 
 ## Dari Fengshan No. 1 hingga Teknologi Triploid Hari Ini
 

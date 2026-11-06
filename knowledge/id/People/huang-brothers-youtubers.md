@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-11-06T08:55:03.642973+00:00'
 ---
 
 > **Sekilas 30 detik:**
@@ -80,30 +82,30 @@ Dalam masyarakat Taiwan yang penuh dengan label, Saudara Huang telah membuktikan
 
 ---
 
-## Referensi
+## Daftar Pustaka
 
-[^1]: [Wawancara YouTuber Saudara Huang: Perjalanan Kreasi Bersama Berkembang Bersama Penonton](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — TechBang (lihat informasi tambahan dalam konten link asli)
+[^1]: [YouTuber Huang Brothers Wawancara Eksklusif: Perjalanan Kreasi yang Berkembang Bersama Penonton](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — TechBang (lihat tautan asli untuk detail lengkap)
 
-[^2]: [20 Bulan Tanpa Libur! Saudara Huang Mengingat Sejarah Pahit Kreasi Konten](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [Selama 20 Bulan Tidak Pernah Libur! Huang Brothers Mengenang Perjuangan Kreasi](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [Saudara Lakukan Kegiatan Sosial】Menyewa Sekolah Dasar Terpencil Seharian Penuh](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Saluran YouTube Saudara Huang
+[^3]: [【Bersaudara Berbuat Baik】 Menyewa Seluruh Sekolah Dasar Terpencil Seharian](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Saluran YouTube Huang Brothers
 
-[^4]: [Jika Ingin Melakukan, Harus Lakukan Sebaik-baiknya! YouTuber Saudara Huang Mencoba Berbagai Hal, Mengejar Kesempurnaan](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Jika Mau Lakukan, Lakukanlah Sebaik-baiknya! YouTuber Huang Brothers Mencoba Berbagai Cara, Mengejar Kesempurnaan](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [YouTuber Populer Jutaan: Bagaimana Diproduksi? Wawancara Khusus Saudara Huang](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Bagaimana YouTuber Berjuta Penggemar Terbentuk? Wawancara Eksklusif Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Belajar Eksekusi dari Saudara Huang｜Positioning Diri Presisi Tersembunyi di Balik Imajinasi Liar](https://premium.parenting.com.tw/article/5087793) — Parenting Magazine Taiwan (lihat informasi tambahan dalam konten link asli)
+[^6]: [Belajar Eksekusi dari Huang Brothers | Di Balik Imajinasi Liar Tersembunyi Penentuan Diri yang Tepat](https://premium.parenting.com.tw/article/5087793) — Parenting World (lihat tautan asli untuk detail lengkap)
 
-[^7]: [Wei Wei Dipaksa Coming Out Dia Marah: Ini Benar-benar Pemerkosaan Publik](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
+[^7]: [Weiwei Dipaksa Coming Out, Dia Marah: Publikasi Paksa Seperti Pemerkosaan](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [Tentang Laporan, Aku Ingin Bicara dengan Keluargaku【Saudara Huang】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Video YouTube Saudara Huang
+[^8]: [Tentang Liputan, Ingin Saya Sampaikan ke Keluarga 【Huang Brothers】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Video YouTube Huang Brothers
 
-[^9]: [Saudara Huang Wei Wei "Dipaksa Coming Out" Kamu Tidak Perlu Meminta Maaf](https://newslab.pts.org.tw/news/216) — PTS News Lab
+[^9]: [Weiwei Huang Brothers "Dikeluarkan dari Kloset" Kamu Tidak Perlu Minta Maaf](https://newslab.pts.org.tw/news/216) — PTS News
 
-[^10]: [YouTuber 2 Juta Wei Wei Huang Ting-Wei Menjadi "Kreator Lagu" EP Individual Pertama](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [YouTuber 2 Juta Weiwei Huang Dukung Weiwei Jadi "Penyanyi Kreator" EP Pribadi Pertama](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Saudara Huang Ajak Masyarakat Dukung Anak-anak Kurang Beruntung Menjadi Duta Kegiatan Sosial Asosiasi Hati Merah](https://money.udn.com/money/story/5723/8957929) — Berita Ekonomi (Laporan dari Berita Ekonomi)
+[^11]: [Huang Brothers Ajak Masyarakat Dukung Anak Sekolah Miskin, Jadi Duta Amal Yayasan Hati Merah](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (Liputan Economic Daily News)
 
-[^12]: [【KOL dalam Bisnis】Saudara Huang Ngaku Sendiri Prank Pernah Sentuh Batas](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
+[^12]: [【KOL Sedang Beroperasi】 Huang Brothers Akui Pernah Melakukan Prank Melewati Batas](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Bukan Hanya Buat Video Lucu YouTuber Tunjukkan Pengaruh Jalankan Tanggung Jawab Sosial](https://csr.cw.com.tw/article/41369) — Taiwan CSR
+[^13]: [Bukan Hanya Video Lucu, YouTuber Gunakan Pengaruh untuk Menunaikan Tanggung Jawab Sosial](https://csr.cw.com.tw/article/41369) — CommonWealth CSR
