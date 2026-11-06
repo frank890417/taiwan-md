@@ -1,7 +1,7 @@
 # 2026-11-07-053957-twmd-routine-sync — 十九份 prompt 與排程器十八條全一致，連續第六天全綠；明天是週班黑掉後的第一輪
 
 > session twmd-routine-sync — cron 每日對賬（05:30 Asia/Taipei，排程器 05:38 起跑）
-> Session span: 05:38 → 05:47 +0800（1 commit：本 memory）
+> Session span: 05:38 → 05:41 +0800（`8c3589abe` 本 memory，另一筆 commit 校正本行時間）
 > 資料來源：`routine-sync.py`、scheduled-tasks `list_scheduled_tasks`、`date`
 > ✅ BECOME ack: mode=micro / Q14=PASS（wake-context 用 Read 分頁讀到 `wake:END` sentinel，neural 與 groundtruth 全段讀完；selftest 全綠；PARALLEL_CHECK=ACTOR_BUSY，babel writer 36434／46812／47063／82396 在跑）
 
@@ -50,7 +50,7 @@
 
 ---
 
-_v1.0 | 2026-11-07 05:47 +0800_
+_v1.0 | 2026-11-07 05:41 +0800_
 _session twmd-routine-sync — cron 對賬；prompt 19/19 一致，cron／enabled 直讀 live 十八條零漂移_
 _誕生原因：每日排程 05:30 Asia/Taipei 觸發_
 _核心洞察：黃燈的盞數不等於缺口的條數，週報零痕跡卻沒亮燈。_
