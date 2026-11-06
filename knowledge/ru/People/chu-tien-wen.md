@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-08-10T09:48:26+08:00'
+translatedAt: '2026-11-06T09:03:53.962006+00:00'
 ---
 
 # Чжу Тяньвэнь: 1956 год, Тайбэй, от «Саньцзань цзикань» до «Бэй цин чэн ши» — Золотой лев Венеции

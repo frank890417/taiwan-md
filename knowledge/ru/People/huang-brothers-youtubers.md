@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:9cd24907e804d8a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:09c03ef57cbece0a'
 sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-08-10T09:48:26+08:00'
+translatedAt: '2026-11-06T08:45:01.865471+00:00'
 ---
 
 > **30 секунд обзора:**
@@ -80,30 +82,30 @@ translatedAt: '2026-08-10T09:48:26+08:00'
 
 ---
 
-## Ссылки
+## Источники
 
-[^1]: [Интервью ютуберам братьям Хуан: творческий путь, растущий вместе с аудиторией](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (подробности см. в оригинальной ссылке)
+[^1]: [Интервью YouTuber братьев Хуан: творческий путь совместного роста с аудиторией](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦（подробности см. в дополнительных материалах исходной ссылки）
 
-[^2]: [20 месяцев без единого отпуска! Братья Хуан вспоминают горькую историю творчества](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [20 месяцев без отпуска! Братья Хуан вспоминают горькую историю творчества](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [Братья делают благотворительность: арендовали сельскую школу на целый день](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Канал братьев Хуан на YouTube
+[^3]: [【Братья делают благотворительность】Забронировали сельскую школу на целый день](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — YouTube-канал братьев Хуан
 
-[^4]: [Надо делать — значит делать наилучшим образом! Ютуберы братья Хуан многократные попытки, стремление к идеалу](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Если делаешь — делай наилучшим образом! YouTuber братья Хуан многократно пробуют, стремясь к совершенству](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Как выковырили миллионную популярность? Интервью братьев Хуан](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Как формируется YouTuber с миллионной аудиторией? Интервью братьев Хуан](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Учимся исполнительской силе у братьев Хуан: за небесной фантазией скрывается точная само-позиционирование](https://premium.parenting.com.tw/article/5087793) — 親子天下 (подробности см. в оригинальной ссылке)
+[^6]: [Учимся исполнительской силе у братьев Хуан | За небесными мечтами скрывается точное самоопределение](https://premium.parenting.com.tw/article/5087793) — 亲子天下（подробности см. в дополнительных материалах исходной ссылки）
 
-[^7]: [Вэй-вэй принуждён к аутингу, он в ярости: это просто изнасилование публичностью](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
+[^7]: [Вэй Вэя заставили сделать каминг-аут, он в ярости: это просто насильственное разоблачение](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo Новости
 
-[^8]: [О публикации, хочу сказать семье【Братья Хуан】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Видео братьев Хуан на YouTube
+[^8]: [О репортаже я хочу сказать семье 【Братья Хуан】](https://www.youtube.com/watch?v=jo7ggR1f54s) — Видео братьев Хуан на YouTube
 
-[^9]: [Вэй-вэй братьев Хуан «вынужден к аутингу» — тебе не нужно извиняться](https://newslab.pts.org.tw/news/216) — ПТС ТВ News
+[^9]: [Братья Хуан Вэй Вэй «вынужден к каминг-ауту» — тебе не нужно извиняться](https://newslab.pts.org.tw/news/216) — Публичное телевидение PTS новости
 
-[^10]: [Двухмиллионный ютубер Вэй-вэй Хуан Тинвэй стал «песенным творцом» — первый сольный EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [YouTuber с 2 млн подписчиков Вэй Вэй Хуан поддерживает Вэй Вэя стать «песенным творцом» первый личный EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Братья Хуан призывают граждан поддерживать уязвимых школьников, стали послами Ассоциации «Красное сердце»](https://money.udn.com/money/story/5723/8957929) — Экономическая газета (репортаж Экономической газеты)
+[^11]: [Братья Хуан призывают граждан поддержать слабых учеников, становятся благотворительными послами Ассоциации Красного Сердца](https://money.udn.com/money/story/5723/8957929) — Экономическая ежедневная (репортаж Экономической ежедневной)
 
-[^12]: [【KOL за работой】 Братья Хуан признались: розыгрыш однажды переступил черту](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
+[^12]: [【KOL в работе】Братья Хуан признаются: розыгрыши когда-то переходили черту](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo Новости
 
-[^13]: [Не только смешные видео: ютуберы реализуют влияние, исполняют социальную ответственность](https://csr.cw.com.tw/article/41369) — 天下 CSR
+[^13]: [Не только снимают смешные видео: YouTuber используют влияние, чтобы выполнить социальную ответственность](https://csr.cw.com.tw/article/41369) — CommonWealth CSR
