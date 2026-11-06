@@ -484,9 +484,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：常駐的推送迴圈遇到「工作樹有改動擋住 merge」時只印 🔴「需要人看」然後下一輪再試；它在無人值守的機器上全天跑，這行字唯一的讀者是隔天剛好去翻 log 的那一班。三重巡檢的「生產」看 report.jsonl，產線全程健康，於是「做好了但沒離開這台機器」不會讓任何一項亮燈。
 - **觸發**：2026-11-03 babel-nightly。`data/compute/claude-usage-ledger.jsonl` 的工作樹版是一份舊版（掉 11-02 兩筆、多 10-24 維護班兩筆從未 commit 的紀錄），`babel-push-every.py` 從 11-02 中午起每兩分鐘合併失敗，本機 ahead 71／182 篇譯文沒上 origin 約十三小時；log 全檔同一則訊息累積 638 次（九月、十月已有舊例）。修法是以 HEAD 為準插回那兩筆再 commit（`81e02b481`），不能直接 checkout 還原。→ [memory/2026-11-03-010003-twmd-babel-nightly.md](memory/2026-11-03-010003-twmd-babel-nightly.md)
 - **instances**：
+  - 2026-11-07 twmd-babel-nightly：同一份帳本，這次工作樹少兩行、同班 memory 檔被刪，連 263 次失敗約九小時，128 篇卡住（修時 131 篇）。diff 只有刪除，`git restore` 後推出。靠 `git pull` 失敗才撞見，上面提議的 pulse 🔴 行至今沒做。→ [memory/2026-11-07-004919-twmd-babel-nightly.md](memory/2026-11-07-004919-twmd-babel-nightly.md)
 - **可能層級**：操作規則（BABEL-VORTEX §三重巡檢加一問「做好的有沒有離開這台機器」：ahead 數與最後一次推送成功距今；push-every 擋住超過 N 輪時把擋路檔與它的 diff 摘要寫進 babel-pulse 的 🔴 行）
 - **相關**：REFLEXES #38 (f) 存活≠生產，本條是再往下一層的「生產≠交付」；#85「不知道」需要自己的符號（🔴 等人看是一個沒有收件人的符號）；`gitlock` v1.99 的冒牌鎖是同一條推送線上另一種「等不到」
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-11-02 twmd-maintainer-daily — verification-reflex-points-outward-only：往外查證三個來源，往自己的佇列一次都沒查
 
