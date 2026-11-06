@@ -1,0 +1,599 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import perspectivesRaw from '../data/elections-2026-perspectives.json';
+
+// ── 資料型別 ────────────────────────────────────────────────────────────
+// 文字欄位一律是「語言代碼 → 字串」物件；缺語言時退回 en，再退回 zh-TW。
+type L10n = Record<string, string>;
+type Source = {
+  id: string;
+  publisher: L10n;
+  title: string;
+  url: string;
+  date: string | null;
+};
+type Fact = { text: L10n; sources: string[] };
+type View = {
+  speaker: L10n;
+  role: L10n;
+  kind: string;
+  date: string | null;
+  summary: L10n;
+  quote: string | null;
+  quoteLang?: string;
+  quoteTranslation?: L10n;
+  sources: string[];
+};
+type Topic = {
+  id: string;
+  title: L10n;
+  question: L10n;
+  facts: Fact[];
+  views: View[];
+  note?: L10n;
+  related: string[];
+};
+type Issue = { id: string; title: L10n; lede: L10n; topics: Topic[] };
+type Article = { href: L10n; title: L10n };
+type PerspectivesData = {
+  lastVerified: string;
+  sourcesFileUrl: string;
+  issues: Issue[];
+  sources: Source[];
+  articles: Record<string, Article>;
+};
+
+const data = perspectivesRaw as unknown as PerspectivesData;
+
+// ── 介面文案（必寫 zh-TW / en / ja，其他語言退回 en）─────────────────────
+type UiCopy = {
+  metaTitle: string;
+  metaDescription: string;
+  breadcrumbHome: string;
+  breadcrumbHere: string;
+  eyebrow: string;
+  title: string;
+  subtitle: string;
+  methodTitle: string;
+  methodItems: Array<{ label: string; text: string }>;
+  methodSourcesLink: string;
+  jumpLabel: string;
+  factsTitle: string;
+  viewsTitle: string;
+  sourceLabel: string;
+  quoteLabel: string;
+  translationLabel: string;
+  paraphraseLabel: string;
+  relatedTitle: string;
+  kindLabels: Record<string, string>;
+  footTitle: string;
+  footHome: string;
+  footLinks: Array<{ slug: string; label: string }>;
+  lastVerified: string;
+};
+
+const ui: Record<string, UiCopy> = {
+  'zh-TW': {
+    metaTitle: '2026 九合一選舉多視角觀點：投票制度、境外影響、民主韌性',
+    metaDescription:
+      '投票年齡、不在籍投票、公投與選舉同日、反滲透法、深度偽造規範、事實查核與選務透明：每一題先寫制度現況，再把政府機關、政黨、學者與公民團體各自的主張與理由並列，每句引語都附原文連結。不放民調、不評論候選人。',
+    breadcrumbHome: '2026 九合一選舉',
+    breadcrumbHere: '多視角觀點',
+    eyebrow: '2026 九合一選舉 · 制度議題',
+    title: '多視角觀點',
+    subtitle:
+      '同一個制度，不同的人看見不同的風險與好處。這頁把各方的主張和理由並排放好，判斷留給你。',
+    methodTitle: '這頁怎麼寫',
+    methodItems: [
+      {
+        label: '選題',
+        text: '挑三組跟這次投票直接相關的制度題目：誰能投、在哪投、哪天投，境外勢力與深度偽造影音怎麼管，公民怎麼檢查選舉。每一題都已寫進法律或正在立法院討論，各方意見也都留下公開紀錄。',
+      },
+      {
+        label: '各方',
+        text: '每一題先寫制度現況，再列出公開表達過不同主張的政府機關、政黨與立法院黨團、學者和公民團體。只收具名、查得到原文的說法。同一題的各方依發言日期排列，篇幅盡量相近，Taiwan.md 不替任何一方下結論。',
+      },
+      {
+        label: '引語',
+        text: '每張卡片上方是 Taiwan.md 的轉述，下方標著「原文摘錄」的段落，逐字出現在附上連結的原文裡：我們用程式抓下原始網頁或 PDF 比對過每一個字。出處是媒體報導時，摘錄的是報導的文字。抓不到原文的說法只寫轉述。這頁不放民調，也不評論任何候選人。',
+      },
+    ],
+    methodSourcesLink: '完整來源清單（網址、抓取日期、引用的原文片段）',
+    jumpLabel: '三個議題',
+    factsTitle: '制度現況',
+    viewsTitle: '各方看法',
+    sourceLabel: '出處：',
+    quoteLabel: '原文摘錄',
+    translationLabel: 'Taiwan.md 譯文',
+    paraphraseLabel: '轉述',
+    relatedTitle: 'Taiwan.md 延伸閱讀',
+    kindLabels: {
+      gov: '政府機關',
+      election: '選務機關',
+      caucus: '立法院黨團',
+      legislator: '立法委員',
+      party: '政黨',
+      proposer: '公投提案方',
+      scholar: '學者・研究者',
+      civic: '公民團體',
+      platform: '平台業者',
+    },
+    footTitle: '繼續看選舉專區',
+    footHome: '回到選舉專區',
+    footLinks: [
+      { slug: 'timeline', label: '時間線' },
+      { slug: 'candidates', label: '候選人名冊' },
+      { slug: 'donations', label: '政治獻金' },
+    ],
+    lastVerified: '最後查核：',
+  },
+  en: {
+    metaTitle:
+      '2026 Taiwan Local Elections: Perspectives on Voting Rules, Foreign Influence and Democratic Resilience',
+    metaDescription:
+      'Voting age, absentee voting, referendums on election day, the Anti-Infiltration Act, deepfake rules, fact-checking and transparent vote counting: for each issue, the current rules first, then the positions and reasons of government agencies, parties, scholars and civic groups side by side, each quote linked to its original source. No polls, no comment on candidates.',
+    breadcrumbHome: '2026 Local Elections',
+    breadcrumbHere: 'Perspectives',
+    eyebrow: '2026 local elections · Institutional issues',
+    title: 'Perspectives',
+    subtitle:
+      'The same rule looks risky to some people and helpful to others. This page sets out each side’s position and reasons next to each other, and leaves the judgment to you.',
+    methodTitle: 'How this page is written',
+    methodItems: [
+      {
+        label: 'Topics',
+        text: 'Three groups of rules that bear directly on this vote: who can vote, where and on which day; how foreign interference and deepfake videos are regulated; and how citizens can check an election. Each is already written into law or under debate in the Legislative Yuan, and every side has left a public record.',
+      },
+      {
+        label: 'Voices',
+        text: 'Each issue starts with the current rules, then lists government agencies, parties and legislative caucuses, scholars and civic groups that have publicly argued different positions. Only named statements with a traceable original are included. Positions on the same issue are ordered by date and kept to similar length. Taiwan.md does not side with anyone.',
+      },
+      {
+        label: 'Quotes',
+        text: 'Each card opens with Taiwan.md’s summary. The block marked “Excerpt from the source” appears word for word in the linked original: we downloaded the original web page or PDF and compared every character. When the source is a news report, the excerpt is the report’s own wording. English renderings of excerpts are Taiwan.md translations. Positions whose original text could not be retrieved are summarized only. This page carries no polls and no comment on any candidate.',
+      },
+    ],
+    methodSourcesLink:
+      'Full source list (URLs, retrieval dates, quoted excerpts)',
+    jumpLabel: 'Three issues',
+    factsTitle: 'Current rules',
+    viewsTitle: 'Positions',
+    sourceLabel: 'Source: ',
+    quoteLabel: 'Excerpt from the source',
+    translationLabel: 'Translation by Taiwan.md',
+    paraphraseLabel: 'Paraphrased',
+    relatedTitle: 'Further reading on Taiwan.md',
+    kindLabels: {
+      gov: 'Government',
+      election: 'Election authority',
+      caucus: 'Legislative caucus',
+      legislator: 'Legislator',
+      party: 'Political party',
+      proposer: 'Referendum proposers',
+      scholar: 'Scholar / researcher',
+      civic: 'Civil society',
+      platform: 'Platform company',
+    },
+    footTitle: 'More from the elections hub',
+    footHome: 'Back to the elections hub',
+    footLinks: [
+      { slug: 'timeline', label: 'Timeline' },
+      { slug: 'candidates', label: 'Candidate roster' },
+      { slug: 'donations', label: 'Political donations' },
+    ],
+    lastVerified: 'Last verified: ',
+  },
+  ja: {
+    metaTitle:
+      '2026年台湾統一地方選挙 さまざまな視点：投票制度・外国からの影響・民主主義の強靭性',
+    metaDescription:
+      '投票年齢、不在者投票、住民投票と選挙の同日実施、反浸透法、ディープフェイク規制、ファクトチェック、開票の透明性。各テーマで現行制度を示したうえで、政府機関・政党・研究者・市民団体の主張と理由を並べ、引用には原文へのリンクを付けています。世論調査は載せず、候補者の論評もしません。',
+    breadcrumbHome: '2026年統一地方選挙',
+    breadcrumbHere: 'さまざまな視点',
+    eyebrow: '2026年統一地方選挙 · 制度のテーマ',
+    title: 'さまざまな視点',
+    subtitle:
+      '同じ制度でも、人によって見えるリスクと利点は違います。このページは各立場の主張と理由を並べ、判断は読者に委ねます。',
+    methodTitle: 'このページの書き方',
+    methodItems: [
+      {
+        label: 'テーマ',
+        text: '今回の投票に直接かかわる制度を三つ選びました。誰がどこで、いつ投票できるか。外国勢力やディープフェイク映像をどう規制するか。市民が選挙をどう確かめるか。いずれも法律に定められているか立法院で議論中で、各立場の意見が公開の記録に残っています。',
+      },
+      {
+        label: '立場',
+        text: '各テーマはまず現行制度を示し、次に異なる主張を公に述べた政府機関、政党と立法院の会派、研究者、市民団体を並べます。名前が明らかで原文を確認できる発言だけを載せ、同じテーマ内では発言日の順に並べ、分量もそろえています。Taiwan.md はどの立場にも結論を出しません。',
+      },
+      {
+        label: '引用',
+        text: '各カードの上段は Taiwan.md による要約です。「出典からの抜粋」と示した部分は、リンク先の原文に一字一句そのまま出てきます。元のウェブページや PDF を取得し、一字ずつ照合しました。出典が報道の場合、抜粋は記事そのものの文章です。抜粋の日本語訳は Taiwan.md によるものです。原文を取得できなかった主張は要約のみを載せています。世論調査は載せず、候補者の論評もしません。',
+      },
+    ],
+    methodSourcesLink: '出典一覧（URL、取得日、引用した原文）',
+    jumpLabel: '三つのテーマ',
+    factsTitle: '現行制度',
+    viewsTitle: '各立場の見方',
+    sourceLabel: '出典：',
+    quoteLabel: '出典からの抜粋',
+    translationLabel: 'Taiwan.md による訳',
+    paraphraseLabel: '要約',
+    relatedTitle: 'Taiwan.md の関連記事',
+    kindLabels: {
+      gov: '政府機関',
+      election: '選挙管理機関',
+      caucus: '立法院会派',
+      legislator: '立法委員',
+      party: '政党',
+      proposer: '公民投票の提案者',
+      scholar: '研究者',
+      civic: '市民社会',
+      platform: 'プラットフォーム企業',
+    },
+    footTitle: '選挙特集のほかのページ',
+    footHome: '選挙特集に戻る',
+    footLinks: [
+      { slug: 'timeline', label: 'タイムライン' },
+      { slug: 'candidates', label: '候補者名簿' },
+      { slug: 'donations', label: '政治献金' },
+    ],
+    lastVerified: '最終確認：',
+  },
+};
+
+// ── 衍生值 ─────────────────────────────────────────────────────────────
+const lang = getLangFromUrl(Astro.url);
+const uiLang = lang in ui ? lang : 'en';
+const c = ui[uiLang];
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+
+const tx = (v: L10n | undefined) =>
+  v ? (v[uiLang] ?? v.en ?? v['zh-TW'] ?? '') : '';
+
+const sourceById = new Map(data.sources.map((s) => [s.id, s]));
+const sourcesOf = (ids: string[]) =>
+  ids.map((id) => sourceById.get(id)).filter((s): s is Source => Boolean(s));
+
+// 原文摘錄的語言（多數是中文，少數英文原文）；頁面語言和原文不同時才顯示譯文。
+const quoteLangAttr = (v: View) => (v.quoteLang === 'en' ? 'en' : 'zh-Hant-TW');
+const quoteTr = (v: View) => {
+  const original = v.quoteLang === 'en' ? 'en' : 'zh-TW';
+  if (uiLang === original) return null;
+  return v.quoteTranslation?.[uiLang] ?? null;
+};
+
+const srcLabel = (s: Source) =>
+  uiLang === 'en'
+    ? `${tx(s.publisher)}, “${s.title}”`
+    : `${tx(s.publisher)}〈${s.title}〉`;
+
+const articleOf = (key: string) => {
+  const a = data.articles[key];
+  return a ? { href: tx(a.href), title: tx(a.title) } : null;
+};
+
+const serif = "font-family: 'Noto Serif TC', serif;";
+const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
+const srcLinkCls =
+  'text-[#6b7280] underline decoration-[#d1d5db] underline-offset-2 hover:text-[#7c2d12]';
+const sectionBg = ['bg-[#fdfaf2]', 'bg-white', 'bg-[#fdfaf2]'];
+---
+
+<Layout
+  lang={lang}
+  title={c.metaTitle}
+  description={c.metaDescription}
+  readerSettings
+>
+  <div class="elections-perspectives">
+    {/* Hero */}
+    <section
+      class="border-b border-[#e7d9b8] bg-gradient-to-b from-[#fef9ed] via-[#fdf6e3] to-[#fbf3df]"
+    >
+      <div class="mx-auto max-w-[920px] px-4 pb-12 pt-8 md:px-6 md:pb-16">
+        <nav aria-label="breadcrumb" class="mb-8 text-sm text-[#78716c]">
+          <a
+            href={`${langPrefix}/elections/2026/`}
+            class="text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+            >{c.breadcrumbHome}</a
+          >
+          <span aria-hidden="true" class="mx-1.5">/</span>
+          <span aria-current="page">{c.breadcrumbHere}</span>
+        </nav>
+
+        <div
+          class="mb-3 text-center font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]"
+        >
+          {c.eyebrow}
+        </div>
+        <h1
+          class="mb-4 text-center text-[2.1rem] font-bold leading-[1.2] text-[#7c2d12] md:text-[3rem]"
+          style={heading}
+        >
+          {c.title}
+        </h1>
+        <p
+          class="mx-auto max-w-[640px] text-center text-base leading-[1.75] text-[#52525b] md:text-lg"
+        >
+          {c.subtitle}
+        </p>
+
+        {/* 這頁怎麼寫 */}
+        <div
+          class="mx-auto mt-10 max-w-[760px] rounded-2xl border-[1.5px] border-dashed border-[#7c2d12]/30 bg-white/70 p-6 md:p-8"
+        >
+          <h2 class="mb-4 text-lg font-semibold text-[#7c2d12]" style={serif}>
+            {c.methodTitle}
+          </h2>
+          <dl class="space-y-4">
+            {
+              c.methodItems.map((m) => (
+                <div class="md:flex md:gap-4">
+                  <dt class="mb-1 shrink-0 font-mono text-xs uppercase tracking-wider text-[#92400e] md:mb-0 md:w-16 md:pt-1">
+                    {m.label}
+                  </dt>
+                  <dd class="text-[0.95rem] leading-[1.8] text-[#374151]">
+                    {m.text}
+                  </dd>
+                </div>
+              ))
+            }
+          </dl>
+          <p class="mt-5 text-sm">
+            <a
+              href={data.sourcesFileUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-[#7c2d12] underline decoration-[#7c2d12]/30 underline-offset-2 hover:decoration-[#7c2d12]"
+              >{c.methodSourcesLink}</a
+            >
+          </p>
+        </div>
+
+        {/* 議題跳轉 */}
+        <nav
+          aria-label={c.jumpLabel}
+          class="mx-auto mt-8 flex max-w-[760px] flex-wrap justify-center gap-2.5"
+        >
+          {
+            data.issues.map((issue, i) => (
+              <a
+                href={`#${issue.id}`}
+                class="inline-flex items-center gap-1.5 rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white/80 px-4 py-2 text-sm font-semibold text-[#7c2d12] no-underline transition-colors hover:border-[#7c2d12]/50 hover:bg-[#fef2ec]"
+              >
+                <span class="font-mono text-xs text-[#92400e]">{i + 1}</span>
+                {tx(issue.title)}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </section>
+
+    {
+      data.issues.map((issue, i) => (
+        <section
+          id={issue.id}
+          class={`anchor-section ${sectionBg[i % sectionBg.length]} py-14 md:py-20`}
+        >
+          <div class="mx-auto max-w-[1000px] px-4 md:px-6">
+            <div class="mb-10 text-center">
+              <div class="mb-2 font-mono text-xs uppercase tracking-[0.18em] text-[#92400e]">
+                {String(i + 1).padStart(2, '0')}
+              </div>
+              <h2
+                class="mb-4 text-[1.75rem] font-light text-[#1f2937] md:text-[2.25rem]"
+                style={heading}
+              >
+                {tx(issue.title)}
+              </h2>
+              <p class="mx-auto max-w-[680px] text-base leading-[1.8] text-[#52525b]">
+                {tx(issue.lede)}
+              </p>
+            </div>
+
+            <div class="space-y-12">
+              {issue.topics.map((topic) => (
+                <article
+                  id={topic.id}
+                  class="anchor-section rounded-2xl border-[1.5px] border-[#e7d9b8] bg-white/70 p-5 md:p-8"
+                >
+                  <h3
+                    class="mb-2 text-xl font-semibold text-[#1f2937] md:text-2xl"
+                    style={serif}
+                  >
+                    {tx(topic.title)}
+                  </h3>
+                  <p class="mb-6 text-base leading-[1.8] text-[#52525b]">
+                    {tx(topic.question)}
+                  </p>
+
+                  {/* 制度現況 */}
+                  <div class="mb-8 rounded-xl border-[1.5px] border-dashed border-[#d6c7a1] bg-[#fef9ed] p-5 md:p-6">
+                    <h4 class="mb-3 font-mono text-xs uppercase tracking-wider text-[#92400e]">
+                      {c.factsTitle}
+                    </h4>
+                    <ul class="space-y-4">
+                      {topic.facts.map((f) => (
+                        <li class="text-[0.95rem] leading-[1.8] text-[#374151]">
+                          <p>{tx(f.text)}</p>
+                          <p class="break-anywhere mt-1 text-xs leading-[1.6] text-[#9ca3af]">
+                            {c.sourceLabel}
+                            {sourcesOf(f.sources).map((s, k) => (
+                              <>
+                                {k > 0 && '・'}
+                                <a
+                                  href={s.url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  class={srcLinkCls}
+                                >
+                                  {srcLabel(s)}
+                                </a>
+                              </>
+                            ))}
+                          </p>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+
+                  {/* 各方看法 */}
+                  <h4 class="mb-4 font-mono text-xs uppercase tracking-wider text-[#92400e]">
+                    {c.viewsTitle}
+                  </h4>
+                  <div class="grid gap-4 md:grid-cols-2">
+                    {topic.views.map((v) => (
+                      <div class="flex min-w-0 flex-col rounded-xl border-[1.5px] border-[#e5e7eb] bg-white p-5">
+                        <div class="mb-3 flex flex-wrap items-center gap-2">
+                          <span class="rounded-full border border-[#d1d5db] bg-[#f8fafc] px-2 py-0.5 font-mono text-[10px] uppercase tracking-wider text-[#6b7280]">
+                            {c.kindLabels[v.kind] ?? v.kind}
+                          </span>
+                          {v.date && (
+                            <time
+                              datetime={v.date}
+                              class="font-mono text-xs tabular-nums text-[#9ca3af]"
+                            >
+                              {v.date}
+                            </time>
+                          )}
+                        </div>
+                        <div
+                          class="mb-1 text-base font-semibold text-[#1f2937]"
+                          style={serif}
+                        >
+                          {tx(v.speaker)}
+                        </div>
+                        <div class="mb-3 text-xs leading-[1.6] text-[#78716c]">
+                          {tx(v.role)}
+                        </div>
+                        <p class="mb-3 text-[0.95rem] leading-[1.8] text-[#374151]">
+                          {tx(v.summary)}
+                        </p>
+                        {v.quote ? (
+                          <blockquote class="mb-3 border-l-[3px] border-[#e7d9b8] pl-3">
+                            <div class="mb-1 font-mono text-[10px] uppercase tracking-wider text-[#9ca3af]">
+                              {c.quoteLabel}
+                            </div>
+                            <p
+                              lang={quoteLangAttr(v)}
+                              class="break-anywhere text-[0.95rem] leading-[1.8] text-[#52525b]"
+                              style={serif}
+                            >
+                              {v.quote}
+                            </p>
+                            {quoteTr(v) && (
+                              <p class="mt-2 text-sm leading-[1.7] text-[#6b7280]">
+                                <span class="font-mono text-[10px] uppercase tracking-wider text-[#9ca3af]">
+                                  {c.translationLabel}
+                                </span>
+                                <br />
+                                {quoteTr(v)}
+                              </p>
+                            )}
+                          </blockquote>
+                        ) : (
+                          <div class="mb-3 font-mono text-[10px] uppercase tracking-wider text-[#9ca3af]">
+                            {c.paraphraseLabel}
+                          </div>
+                        )}
+                        <div class="mt-auto pt-1 text-xs leading-[1.6] text-[#9ca3af]">
+                          {c.sourceLabel}
+                          {sourcesOf(v.sources).map((s, k) => (
+                            <>
+                              {k > 0 && '・'}
+                              <a
+                                href={s.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class={`${srcLinkCls} break-anywhere`}
+                              >
+                                {srcLabel(s)}
+                              </a>
+                            </>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  {topic.note && (
+                    <p class="mt-5 text-sm italic leading-[1.7] text-[#78716c]">
+                      {tx(topic.note)}
+                    </p>
+                  )}
+
+                  {topic.related.length > 0 && (
+                    <div class="mt-6 border-t border-dashed border-[#e7d9b8] pt-4">
+                      <span class="mr-2 text-xs font-semibold text-[#92400e]">
+                        {c.relatedTitle}
+                      </span>
+                      <span class="inline-flex flex-wrap gap-2 align-middle">
+                        {topic.related
+                          .map(articleOf)
+                          .filter((a) => a !== null)
+                          .map((a) => (
+                            <a
+                              href={a!.href}
+                              class="rounded-full border border-[#7c2d12]/25 bg-[#fef9ed] px-3 py-1 text-xs font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+                            >
+                              {a!.title} →
+                            </a>
+                          ))}
+                      </span>
+                    </div>
+                  )}
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+      ))
+    }
+
+    {/* 底部導覽 */}
+    <section class="border-t border-[#e7d9b8] bg-white py-12">
+      <div class="mx-auto max-w-[760px] px-4 text-center md:px-6">
+        <h2 class="mb-5 text-lg font-semibold text-[#1f2937]" style={serif}>
+          {c.footTitle}
+        </h2>
+        <div class="flex flex-wrap justify-center gap-2.5">
+          <a
+            href={`${langPrefix}/elections/2026/`}
+            class="rounded-full border-[1.5px] border-[#7c2d12]/40 bg-[#fef2ec] px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline"
+            >← {c.footHome}</a
+          >
+          {
+            c.footLinks.map((l) => (
+              <a
+                href={`${langPrefix}/elections/2026/${l.slug}/`}
+                class="rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+              >
+                {l.label}
+              </a>
+            ))
+          }
+        </div>
+        <p class="mt-8 text-xs text-[#9ca3af]">
+          {c.lastVerified}<time datetime={data.lastVerified}
+            >{data.lastVerified}</time
+          >
+        </p>
+      </div>
+    </section>
+
+    {/* BreadcrumbList 由全站 SEO.astro 依網址產生，子頁不重複輸出 */}
+  </div>
+</Layout>
+
+<style>
+  .elections-perspectives .anchor-section {
+    scroll-margin-top: 80px;
+  }
+  .elections-perspectives .break-anywhere {
+    overflow-wrap: anywhere;
+  }
+  .elections-perspectives h2 {
+    letter-spacing: -0.01em;
+  }
+</style>
