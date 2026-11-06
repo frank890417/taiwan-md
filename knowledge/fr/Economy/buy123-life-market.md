@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-14T00:53:29+08:00'
+translatedAt: '2026-11-06T22:17:51.331342+00:00'
 ---
 
 En 2013, le Marché de la vie quotidienne a été lancé, devenant une plateforme de commerce électronique sous l'égide de Creativa Digital Co., Ltd. En 2020, la gamme de produits proposés ne se limitait plus aux articles ménagers, incluant également des électroniques grand public et des aliments, représentant environ 30 à 40 % du chiffre d'affaires total. Le 12 octobre 2023, l'entreprise a étendu son étagère à l'international en lançant le service de livraison directe depuis l'étranger.[^1] [^2] [^7]
