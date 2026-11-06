@@ -1,14 +1,14 @@
 ---
-title: 'Les chanteurs autochtones contemporains de Taïwan'
-description: "《Haiyang》de Chen Chien-nien (陳建年) utilise le paiwan et le mandarin ; Suming rend hommage à la culture et à l'éducation de la réserve de Dulan, tandis qu'ABAO introduit la langue paiwan dans la production populaire contemporaine. De Zhang Huimei (張惠妹) à Wang Hong'en (王宏恩), en passant par Suming et Ilid Kaolo, cet article compare les œuvres et les points d'entrée d'écoute de différents artistes, tout en croisant les catégories d'album, d'artiste et de chanson des récompenses GMA, pour comprendre comment la langue maternelle, l'expérience de vie et les techniques d'enregistrement se croisent, sans réduire les différentes ethnies à un seul son."
+title: "Chanteurs autochtones contemporains : d'A-mei « Sœurs » à Abao remportant l'Album de l'année aux Golden Melody Awards en langue paiwan"
+description: "En 1996, A-mei fait ses débuts avec « Sœurs », apportant les chants du peuple Puyuma dans la pop mandopop ; « L'Océan » de Chen Chien-nien navigue entre le puyuma et le mandarin, Suming relie sa création à Dulan à Taitung, et Ilid Kaolo remporte le Golden Melody du meilleur chanteur en langue autochtone avec son album en amies. En 2020, l'album en paiwan d'Abao « kinakaian La langue de la mère » remporte l'Album de l'année aux Golden Melody Awards. L'appartenance ethnique n'explique pas l'œuvre ; chaque artiste utilise sa propre langue, ses propres paroles, mélodies et arrangements."
 date: 2026-03-18
 category: 'Music'
 tags:
   [
     'Chanteurs autochtones',
-    'Musique populaire',
+    'Musique pop',
     'Fusion culturelle',
-    'Récompenses GMA',
+    'Golden Melody Awards',
     'Création contemporaine',
   ]
 subcategory: '當代原住民音樂'
@@ -19,28 +19,30 @@ lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
 relatedDiary: ['2026-09-07-164559-audit-upgrade']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 5,981 曝光 60 點擊（1.0%），主查詢「原住民歌手」833、「原住民女歌手」324 曝光，裸主題 title 沒有這個詞；title 改冒號三明治放進「原住民歌手」，description 拿掉「本文比較」'
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:5f5c57d9d0a5af84'
-sourceBodyHash: 'sha256:6ab99bf50b216a39'
-translatedAt: '2026-09-08T15:54:42+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:3b3422dc3e5660c1'
+sourceBodyHash: 'sha256:c40d04f82db2ee2c'
+translatedAt: '2026-11-06T20:38:22.358809+00:00'
 ---
 
-# Les chanteurs autochtones contemporains de Taïwan
+# Chanteurs autochtones contemporains : de Chang Hui-mei « Sœurs » à Abao, qui remporte l'Album de l'année aux Golden Melody Awards avec un album en paiwan
 
-Dans le paysage musical de Taïwan, les chanteurs autochtones apportent une vitalité singulière grâce à leurs racines culturelles profondes et leur langage musical innovant. Des débuts remarqués de Zhang Huimei (張惠妹) dans les années 1990, à l'émergence de nouvelles générations comme Suming et Sanpuyi (桑布伊) dans les années 2000, la musique autochtone de Taïwan continue d'explorer des formes d'expression entre tradition et modernité.
+Dans le paysage musical de Taïwan, les chanteurs autochtones insufflent une vitalité unique à la scène musicale sinophone grâce à leur profond héritage culturel et à leur vocabulaire musical innovant. De l'émergence de Chang Hui-mei dans les années 1990 à l'essor de la nouvelle génération avec Suming, Sanpuyi et d'autres dans les années 2000, la musique autochtone de Taïwan continue d'explorer différentes formes d'expression entre tradition et modernité.
 
-> **Aperçu en 30 secondes** : Cet article explore les chanteurs autochtones à travers des chansons populaires, des albums en langue maternelle et l'éducation musicale des réserves, en croisant les œuvres avec les listes officielles des récompenses GMA.
+> **Aperçu en 30 secondes** : Cet article présente différents musiciens à travers des chansons populaires, des albums en langues autochtones et l'éducation musicale dans les tribus, en les croisant avec les listes officielles des Golden Melody Awards.
 
-Les chanteurs autochtones contemporains de Taïwan ont su établir leur place dans la musique populaire grâce à leur création, leur entraînement vocal et leur expérience culturelle. Parmi les figures marquantes : Zhang Huimei (張惠妹), surnommée « reine d'Asie », Chen Chien-nien (陳建年), « poète folk », Suming, « roi de la nouvelle génération », et Sanpuyi (桑布伊), « chanteur soul ».
+Les chanteurs autochtones contemporains de Taïwan se sont imposés dans l'industrie de la musique populaire grâce à leurs créations respectives, leur formation scénique et leur expérience culturelle. Parmi les figures emblématiques figurent la « Diva de l'Asie » Chang Hui-mei, le « Poète du folk » Chen Chien-nien, le « Nouveau roi du chant » Suming, la « Chanteuse de l'âme » Sanpuyi, entre autres.
 
-Au-delà de leur succès commercial, ces artistes transmettent la culture autochtone à travers la musique, créant un « son autochtone » unique pour Taïwan. Le prix du meilleur album en langue autochtone décerné par les récompenses GMA offre une entrée pour observer les enregistrements en langues autochtones.[^7]
+Outre leur succès dans la musique commerciale, ils transmettent également la culture autochtone à travers leur musique, créant ainsi un « son autochtone » unique pour la musique taïwanaise. Les prix d'albums en langues autochtones des Golden Melody Awards offrent une porte d'entrée pour observer les disques en langues autochtones.[^7]
 
-Ces voies musicales parallèles — production commerciale en mandarin, musique folk en langue maternelle et musique électronique — ne suivent pas un remplacement générationnel fixe. Un même artiste peut aussi bien traverser plusieurs styles créatifs.
+Ces parcours musicaux qui se développent en parallèle — incluant la production commerciale en mandarin, le folk en langues autochtones et la musique électronique — ne constituent pas une succession générationnelle figée ; un même chanteur peut traverser plusieurs modes de création.
 
-**Mots-clés** : Zhang Huimei (張惠妹), Chen Chien-nien (陳建年), Suming, Sanpuyi (桑布伊), récompenses GMA, création en langue maternelle, transmission culturelle
-
----
+**Mots-clés :** Chang Hui-mei, Chen Chien-nien, Suming, Sanpuyi, Golden Melody Awards, création en langue maternelle, transmission culturelle
 
 ## Un voyage musical des réserves au monde entier
 
