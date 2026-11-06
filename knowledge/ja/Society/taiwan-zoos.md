@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣有哪些動物園.md'
-sourceCommitSha: '287389ecc'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:39eab6090a3c571e'
 sourceBodyHash: 'sha256:831b02af043591c7'
-translatedAt: '2026-07-31T22:46:17+08:00'
+translatedAt: '2026-11-06T12:53:24.114417+00:00'
 ---
 
 # 台湾にはどんな動物園があるか：最古は木柵になく、最大も単なる動物園ではない
