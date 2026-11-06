@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-09-15T19:45:27+08:00'
+translatedAt: '2026-11-06T08:39:39.328067+00:00'
 ---
 
 # Lý Nghiễn: Lô Viện 1952, «Giết Chồng» mở đường cho văn học nữ quyền bình đẳng của Đài Loan

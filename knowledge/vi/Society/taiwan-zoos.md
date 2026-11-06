@@ -21,11 +21,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣有哪些動物園.md'
-sourceCommitSha: '287389ecc'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:39eab6090a3c571e'
 sourceBodyHash: 'sha256:831b02af043591c7'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-11-06T07:19:19.284319+00:00'
 ---
 
 # Đài Loan có những sở thú nào: Con vật sơ khai nhất không ở Mộc Cách, Cơ sở lớn nhất cũng không chỉ là sở thú
