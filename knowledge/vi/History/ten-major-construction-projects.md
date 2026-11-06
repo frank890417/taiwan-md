@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'History/十大建設.md'
-sourceCommitSha: '9ecd20d61'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:c56d8ded11ccacaf'
 sourceBodyHash: 'sha256:b63c0b30d24f0d0a'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-11-06T14:34:39.298769+00:00'
 ---
 
 > **Tổng quan 30 giây:**
