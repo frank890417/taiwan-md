@@ -1,17 +1,17 @@
 ---
-title: 'San Mao: Người viết lối trốn thoát thành niềm tin tự do'
-description: 'Tên thật là Trần Bình, sinh năm 1943 tại Thượng Hải, năm 1948 theo gia đình đến Đài Loan. Từ bỏ học trường vì bị giáo viên nhạo báng công khai, sau bảy năm cô lập, bắt đầu viết lại. Năm 1973 kết hôn với Quỷ Tây ở Tây Sahara thuộc vùng lãnh thổ Tây Ban Nha, trở nên nổi tiếng nhờ văn bản lưu vong, trở thành cửa sổ cho người Đài Loan mơ về miền xa trong thời kỳ trấn quyền. Năm 1979, Quỷ Tây mất trong tai nạn lặn ngắm ở vùng đảo Canary. Năm 1990, bản duy nhất làm kịch bản phim "Xoay tròn đời người" giành tám giải Kim Mã. Ngày 4 tháng 1 năm 1991, tự sát tại bệnh viện Quân đội Thượng Hải, Đài Bắc, ở độ tuổi 47.'
+title: 'Tam Mão: Người viết sự trốn chạy thành tự do'
+description: 'Tam Mão tên thật là Trần Bình, là nhà văn Đài Loan viết về cuộc sống ở sa mạc Sahara, tác phẩm bán được hơn 15 triệu bản. Năm lớp 8, thầy toán dùng 붓 vẽ hai số không quanh mắt cô, từ đó cô bỏ học, không có bằng trung học. Bảy năm sau, dưới sự hướng dẫn của họa sĩ Cổ Phúc Sinh, cô cầm bút viết lại. Năm 1973, tại Tây Sahara, cô kết hôn với Ho-xe, mở ra một cửa sổ nhìn xa xôi cho người Đài Loan thời kỳ cấm nghiêm. Ho-xe qua đời năm 1979 do tai nạn lặn, cô biến cả cuộc đời trốn chạy thành tự do.'
 date: 2026-05-17
 category: 'People'
 tags:
   [
-    'San Mao',
-    'văn bản lưu vong',
-    'Tây Sahara',
-    'Quỷ Tây',
-    'cây ô liu',
-    'Xoay tròn đời người',
-    'văn học lưu vong',
+    'Tam Mão',
+    'Tản văn',
+    'Sahara',
+    'Ho-xe',
+    'Cây ô liu',
+    'Bụi hồng cuồn cuộn',
+    'Văn học lang thang',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -19,11 +19,15 @@ featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 8
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 6,312 曝光 56 點擊（0.89%），查詢「三毛是誰」62、「三毛學歷」61 曝光要的是身分；description 從年份條列改三段式，第一句先講本名陳平、寫撒哈拉的作家'
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: 'f40273072'
-sourceContentHash: 'sha256:06a2002deee9c4a4'
+sourceCommitSha: '3b7782fae'
+sourceContentHash: 'sha256:019232bb48bbd216'
 sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
-translatedAt: '2026-10-10T09:17:00+08:00'
+translatedAt: '2026-11-05T23:59:58.884219+00:00'
 ---
 
 # San Mao: Người viết lối trốn thoát thành niềm tin tự do
@@ -144,50 +148,50 @@ Một con người sống trọn cuộc đời trong sự trốn thoát, cuối 
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia: San Mao (nhà văn)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6) — Tiểu sử cơ bản, lộ trình sáng tạo, đánh giá văn học
+[^1]: [Wikipedia: Tam Mao (nhà văn)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — Tiểu sử cơ bản, niên biểu sáng tác, đánh giá văn học
 
-[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Năm sinh của Quỷ Tây 1951, khoảng cách tuổi tám năm, chưa thể cưới của người Đức
+[^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — Năm sinh của Ha Tay 1951, chênh lệch 8 tuổi, người đính hôn người Đức
 
-[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Nơi Quỷ Tây mất: La Palma Barlovento, ngày tháng, chi tiết tìm thấy
+[^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — Địa điểm tử vong của Ha Tay La Palma Barlovento, ngày tháng, chi tiết打捞
 
-[^4]: [Wikipedia: Xoay tròn đời người (phim)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1) — Danh sách đầy đủ tám giải Kim Mã lần thứ hai mươi bảy
+[^4]: [Wikipedia: Cuồn cuộn hồng trần (phim)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — Danh sách đầy đủ 8 giải Cành Vàng lần thứ 27
 
 [^5]: [New York Times Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — Doanh số 15 triệu bản, đánh giá quốc tế
 
-[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bản dịch tiếng Anh của Bloomsbury, dị giả Mike Fu, đề cúng giải Dịch thuật Quốc gia
+[^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bản dịch tiếng Anh Bloomsbury, người dịch Mike Fu, nhập chọn Giải dịch thuật quốc gia
 
-[^7]: [ARTouch tàng bản](https://artouch.com/art-views/content-2727.html) — Địa chỉ phòng tranh của Cổ Phú Sản trên phố Thái An, dạy vẽ mười tháng, giới thiệu Bạch Tiên Dũng
+[^7]: [Diản藏 ARTouch](https://artouch.com/art-views/content-2727.html) — Địa chỉ phòng tranh đường Thai An của Cổ Phúc Sinh, dạy tranh mười tháng, giới thiệu Bạch Tiến Dũng
 
-[^8]: [Tin tức Tencent](https://news.qq.com/rain/a/20240103A07USZ00) — Người đàn ông Đức chưa thể cưới mất vì bệnh tim, thiệp cưới, uống thuốc an thần
+[^8]: [Tin tức Tencent](https://news.qq.com/rain/a/20240103A07USZ00) — Người đính hôn người Đức chết đột ngột do bệnh tim, thiệp cưới, uống thuốc ngủ
 
-[^9]: [Fount Media](https://www.fountmedia.io/article/81860) — Lời gốc của "Cây ô liu": "con lạc đà nhỏ", "cô gái Tây Ban Nha đôi mắt to", phiên bản của Yang Tử Như, phản hồi của San Mao
+[^9]: [Phóng ngôn Fount Media](https://www.fountmedia.io/article/81860) — Lời gốc bài 'Cây ô liu' 'con lừa nhỏ', 'cô gái Tây Ban Nha mắt to', Dương Tổ Cẩm sửa lời, lời phản ứng gốc của Tam Mao
 
-[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Cơ quan phát thanh truyền hình Đài Loan cấm phát "Cây ô liu", phân tích bối cảnh văn hóa
+[^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — Cục Quảng phát Đài Loan cấm phát bài 'Cây ô liu', phân tích bối cảnh văn hóa
 
-[^11]: [Tin tức Tencent](https://news.qq.com/rain/a/20210917A0GH4S00) — Trần Thiên Tâm nhớ lại khoảnh khắc Quỷ Tây mất, San Mao tự tay đào hố mộ
+[^11]: [Tin tức Tencent](https://news.qq.com/rain/a/20210917A0GH4S00) — Trần Điền Tâm hồi tưởng Ha Tay qua đời, Tam Mao tự tay đào mộ
 
-[^12]: [Thời báo Trung Quốc](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Mối quan hệ giữa Wang Lo Ban và San Mao, 121 ngày, bài ca "Chờ đợi"
+[^12]: [Trung Quốc Thời báo](https://www.chinatimes.com/realtimenews/20210212001476-260405) — Quá trình quan hệ với Vương Lạc Binh, 121 ngày, 'Chờ đợi'
 
-[^13]: [Quan sát chuyên gia](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Nghiêm Hảo nhớ lại bốn mươi đêm thảo luận
+[^13]: [Triệt kiến danh gia](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — Nham Hạo hồi tưởng 40 đêm đối담
 
-[^14]: [Tin tức Yahoo](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lời nói của Lin Tinh Tâm: "Nếu không có San Mao, tôi sẽ không giành được giải này"
+[^14]: [Tin tức Yahoo](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — Lâm Thanh Hạ: 'Nếu không có Tam Mao, tôi sẽ không nhận được giải này'
 
-[^15]: [Báo Nhân dân](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Quá trình mất, bốn quan điểm, quan điểm của bác sĩ
+[^15]: [Dân báo](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — Quá trình cái chết, bốn lời nói, quan điểm bác sĩ
 
-[^16]: [Văn học Liên hợp / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Vị trí phổ biến so với văn học tinh tế, thiếu một nhà thầy đại diện
+[^16]: [Hợp nhất Văn học / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — Định vị văn học đại chúng vs thuần túy, thiếu vắng đại gia chính thống
 
-[^17]: [Thế giới Trung Quốc](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Tuyến đường San Mao, thống kê sổ khách ở mộ Quỷ Tây (61% tiếng Trung giản thể / 10% tiếng Trung phồn thể / 21% tiếng Tây Ban Nha)
+[^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Tuyến đường Ruta Sanmao, thống kê sổ khách mộ Ha Tay (61% chữ đơn giản / 10% chữ phức tạp / 21% tiếng Tây Ban Nha)
 
-[^18]: [Bảo tàng Lịch sử Quốc gia Đài Loan](https://women.nmth.gov.tw/?p=19358) — "Câu chuyện về sa mạc" năm 1976 gây sốt sách hai bờ eo biển
+[^18]: [Bảo tàng Lịch sử Quốc gia Đài Loan](https://women.nmth.gov.tw/?p=19358) — 《Câu chuyện Sahara》 xuất bản năm 1976 gây ra cơn sốt đọc sách hai bên bờ
 
-[^19]: [Viện Văn học Quốc gia Đài Loan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Đánh giá "nhà văn bán chạm và có ảnh hưởng nhất của Đài Loan"
+[^19]: [Bảo tàng Văn học Quốc gia Đài Loan](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — Đánh giá 'Người văn học bán chạy nhất, có ảnh hưởng lớn nhất tại Đài Loan'
 
-[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle kỷ niệm 76 tuổi của San Mao, giải văn học San Mao được thành lập năm 1992, hiện tượng tên Echo
+[^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — Doodle kỷ niệm 76 tuổi ngày sinh âm lịch Tam Mao năm 2019, Giải văn học Tam Mao thành lập năm 1992, hiện tượng tên Echo
 
-[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Phim tài liệu Tây Ban Nha San Mao: Cô dâu của sa mạc (2020)
+[^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — Phim tài liệu Tây Ban Nha Sanmao: La novia del desierto (2020)
 
-[^22]: [Tin tức Sanli](https://www.setn.com/News.aspx?NewsID=1408845) — Siêu Mạn Nguyên ngày 4 tháng 1 năm 2024 ra đi, cùng tháng cùng ngày với San Mao, lời hứa sinh tử
+[^22]: [Tam Lập Tin tức](https://www.setn.com/News.aspx?NewsID=1408845) — Ty Ma Trung Nguyen qua đời ngày 4-1-2024, cùng tháng ngày với Tam Mao, lời hứa sinh tử
 
-[^23]: [Đại học Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Bài luận học thuật khám phá ranh giới giữa sự thật và hư cấu của San Mao
+[^23]: [Đại học Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — Luận văn học thuật thảo luận ranh giới giữa ký thực và hư cấu của Tam Mao
 
-[^24]: [Đại dương lớn](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — "Sự thật về San Mao" của Mark Trung Tây năm 1996, tranh cãi và phê bình
+[^24]: [Đại Kỷ Nguyên](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — Mã Trung Hân 《Chân tướng Tam Mao》 xuất bản năm 1996, tranh cãi và phê bình
