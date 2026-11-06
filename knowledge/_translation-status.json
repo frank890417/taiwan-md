@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T16:44:20+08:00",
-    "zhCommitHead": "fb1b1fde4",
+    "lastUpdated": "2026-11-06T16:50:37+08:00",
+    "zhCommitHead": "f1fd5706b",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,17 +20,17 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1107,
-        "stale": 25,
+        "fresh": 1108,
+        "stale": 24,
         "metadata_stale": 26,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1113,
+        "fresh": 1114,
         "stale": 23,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 4,
         "orphan": 0
       },
@@ -100,9 +100,9 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1119,
+        "fresh": 1120,
         "stale": 23,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 4,
         "orphan": 0
       },
@@ -86643,8 +86643,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-11-06T07:12:52.242439+00:00",
-          "translationLastCommit": "6979c115",
-          "translationLastModified": "2026-09-12T02:54:22+08:00",
+          "translationLastCommit": "f1fd5706",
+          "translationLastModified": "2026-11-06T16:44:21+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 31706,
@@ -100563,20 +100563,18 @@
         "ru": {
           "path": "ru/People/huang-brothers-youtubers.md",
           "translatedFrom": "People/黃氏兄弟.md",
-          "sourceCommitSha": "edae9fc94",
-          "sourceContentHash": "sha256:9cd24907e804d8a5",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:09c03ef57cbece0a",
           "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
-          "translatedAt": "2026-08-10T09:48:26+08:00",
+          "translatedAt": "2026-11-06T08:45:01.865471+00:00",
           "translationLastCommit": "00113b94",
           "translationLastModified": "2026-08-10T12:35:24+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 17216,
+          "bytes": 17523,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+15 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/huang-brothers-youtubers.md",
@@ -108359,8 +108357,8 @@
           "sourceContentHash": "sha256:f9a8cbc00c40313a",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-11-06T07:55:27.068768+00:00",
-          "translationLastCommit": "679c8623",
-          "translationLastModified": "2026-09-16T16:49:14+08:00",
+          "translationLastCommit": "f1fd5706",
+          "translationLastModified": "2026-11-06T16:44:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 24275,
@@ -122905,20 +122903,18 @@
         "en": {
           "path": "en/People/chen-chih-han-holger.md",
           "translatedFrom": "People/館長陳之漢.md",
-          "sourceCommitSha": "319acd7f7",
-          "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
-          "sourceBodyHash": "sha256:4da6179cc5f355db",
-          "translatedAt": "2026-09-11T01:59:54+08:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:1f68646298af1a51",
+          "sourceBodyHash": "sha256:e6ca47c23634b64c",
+          "translatedAt": "2026-11-06T12:50:00+08:00",
           "translationLastCommit": "2d961989",
           "translationLastModified": "2026-09-11T02:45:20+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 19046,
+          "bytes": 18780,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/chen-chih-han-holger.md",
@@ -141631,8 +141627,8 @@
           "sourceContentHash": "sha256:b2501899e99db9e7",
           "sourceBodyHash": "sha256:1b666fa0ae47a4ce",
           "translatedAt": "2026-11-06T08:39:33.564946+00:00",
-          "translationLastCommit": "e32d6dc1",
-          "translationLastModified": "2026-09-11T12:32:18+08:00",
+          "translationLastCommit": "f1fd5706",
+          "translationLastModified": "2026-11-06T16:44:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 18718,
@@ -190221,20 +190217,18 @@
         "ja": {
           "path": "ja/History/lin-shuang-wen-rebellion.md",
           "translatedFrom": "History/林爽文事件.md",
-          "sourceCommitSha": "b9634f1c4",
-          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:8769d861b656bda2",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
-          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translatedAt": "2026-11-06T08:50:20.353287+00:00",
           "translationLastCommit": "25ec53e7",
           "translationLastModified": "2026-10-10T23:45:03+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 19166,
+          "bytes": 19473,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/lin-shuang-wen-rebellion.md",
