@@ -26,11 +26,13 @@ image: '/article-images/people/ntu-hospital-old-building.webp'
 imageCredit: 'Chien-Ping KAO / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E8%88%8A%E9%A4%A8Old_Building_of_National_Taiwan_University_Hospital.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/張忠仁與張忠義.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:be170ef9f4f5cc61'
 sourceBodyHash: 'sha256:d6a7dab1ca8fcb0c'
-translatedAt: '2026-09-09T19:34:15+08:00'
+translatedAt: '2026-11-06T18:43:10.192140+00:00'
 ---
 
 > **30-Second Overview**: In 1979, a 36-person multidisciplinary team at National Taiwan University Hospital performed a 12-hour separation surgery on Chang Chung-jen and Chang Chung-yi. This was a major breakthrough in Taiwan’s medical history, but not the end of the brothers’ story. The pain, rehabilitation, work, family life, and media gaze following the surgery are what made “becoming two people” a lifelong journey.
