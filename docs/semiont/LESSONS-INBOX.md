@@ -423,6 +423,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：[REFLEXES #38](REFLEXES.md) 混維度（`status='new'` 第三種意思：「這份其實已經修好了」）／LESSONS `single-item-hold-becomes-queue-blockage-at-flood-scale`（同一輪的窗口面）／`intake-never-asks-whether-the-target-exists`（那條問「它指的那篇在不在」，本條問「它說的那件事是不是已經修好了」）
 - **verification_count**: 1
 
+### 2026-11-07 twmd-embeddings-nightly — keystone-fallback-shares-the-hosts-fate：備援名單裡活著的只剩本機，主機一病，語意索引就沒有第二條路
+
+- **pattern**: `keystone-fallback-shares-the-hosts-fate`
+- **原則**：備援要跟主節點分開計算存活。主節點跟排程跑在同一台機器時，主機層的故障會同時帶走主節點與排程，而登記表上的備援全離線時，「本機優先，軍團備援」實際上只有一條路。
+- **觸發**：2026-11-07 第三晚沒有完整索引（11-05 重建卡住、11-06 與 11-07 Stage 0 跳過），達 EMBEDDING-PIPELINE 連 3 天門檻。本機 `/api/tags` 正常，`/api/embeddings` 與 `/api/embed` 五次全掛（含一次等滿 90 秒），fleet registry 帶 bge-m3 的兩台一台 offline、一台就是本機。7 月遷回本機時這條單點被判 superseded（「四夜零故障」），當時量的是應用層穩定，主機層這類故障還沒出現過。見 memory/2026-11-07-051930-twmd-embeddings-nightly.md
+- **instances**：
+- **可能層級**：特有教訓（綁本專案的節點配置）；要不要恢復一台常駐備援是基礎建設決定，收件席位哲宇
+- **相關**：REFLEXES #74（同一單點跨 routine 重複），差異在本條問的是備援本身的存活；OBSERVER-QUEUE #124（待決）；LESSONS `rebuild-keeps-grinding-after-the-endpoint-dies`、`liveness-check-reads-the-menu-not-the-kitchen`
+- **verification_count**: 1
+
 ### 2026-11-06 twmd-embeddings-nightly — rebuild-keeps-grinding-after-the-endpoint-dies：端點死了，重建照樣一篇一篇等滿五分鐘
 
 - **pattern**: `rebuild-keeps-grinding-after-the-endpoint-dies`
