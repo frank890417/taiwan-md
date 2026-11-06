@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T20:52:37+08:00",
-    "zhCommitHead": "544471cd8",
+    "lastUpdated": "2026-11-06T20:52:57+08:00",
+    "zhCommitHead": "f3daf5e7b",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1101,
-        "stale": 34,
+        "fresh": 1102,
+        "stale": 33,
         "metadata_stale": 23,
         "missing": 4,
         "orphan": 0
@@ -145569,8 +145569,8 @@
           "sourceContentHash": "sha256:08c9b5bb374704b8",
           "sourceBodyHash": "sha256:4b373fac57d731f0",
           "translatedAt": "2026-11-06T11:08:47.972646+00:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "f3daf5e7",
+          "translationLastModified": "2026-11-06T20:52:37+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 39550,
@@ -195391,20 +195391,18 @@
         "hi": {
           "path": "hi/Geography/roc-aesthetics.md",
           "translatedFrom": "Geography/中華民國美學.md",
-          "sourceCommitSha": "ba877ac2b",
-          "sourceContentHash": "sha256:533282f9f1196f7a",
-          "sourceBodyHash": "sha256:26c6e79fd91efe41",
-          "translatedAt": "2026-09-26T12:25:38.932671+00:00",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:d44f393287c030ea",
+          "sourceBodyHash": "sha256:764a5128969f3793",
+          "translatedAt": "2026-11-06T12:30:35.152842+00:00",
           "translationLastCommit": "d29ad571",
           "translationLastModified": "2026-10-10T22:58:21+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 76292,
+          "bytes": 76273,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+46 -19"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/roc-aesthetics.md",
