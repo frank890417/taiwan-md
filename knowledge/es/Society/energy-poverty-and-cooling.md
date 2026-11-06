@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-19T11:59:04+08:00'
+translatedAt: '2026-11-06T20:35:41.222262+00:00'
 ---
 
 > **Resumen en 30 segundos**: La pobreza energética no es simplemente «usar demasiada electricidad» o «no saber ahorrar», sino que el hogar no dispone de recursos suficientes para obtener servicios energéticos seguros, asumibles y eficientes. Para las familias que viven en apartamentos antiguos, azoteas con construcciones añadidas, habitaciones mal ventiladas o que usan aires acondicionados de segunda mano de alto consumo, encender el aire acondicionado puede suponer presión en la factura, pero no encenderlo puede aumentar el riesgo de daños por calor. Taiwán carece actualmente de una definición nacional coherente de pobreza energética, pero investigaciones civiles han descubierto que la proporción del gasto energético sobre el ingreso disponible en hogares vulnerables asistidos es notablemente alta.[^1] Cuando el calor extremo es considerado por el gobierno como un riesgo transversal, la pobreza energética ya no puede limitarse a la promoción del ahorro, sino que debe convertirse en un problema público abordado conjuntamente por vivienda, bienestar social, salud y adaptación climática.[^2]
