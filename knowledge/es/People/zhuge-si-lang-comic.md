@@ -15,22 +15,26 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp'
+imageCredit: 'Ralff Nestor Nacor'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/諸葛四郎.md'
-sourceCommitSha: 'e38376ee4'
-sourceContentHash: 'sha256:e3fbaeedac9c6f10'
-sourceBodyHash: 'sha256:1b0f00900854455d'
-translatedAt: '2026-09-11T10:45:35+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:b2501899e99db9e7'
+sourceBodyHash: 'sha256:1b666fa0ae47a4ce'
+translatedAt: '2026-11-06T08:39:33.564946+00:00'
 ---
 
-> **Resumen en 30 segundos:** Ye Hongjia fusionó el miedo posterior al Terror Blanco, la lealtad de las novelas por entregas, los mecanismos de la novela de推理 (misterio) japonesa y la realidad editorial de Taiwán para crear a un joven llamado Zhuge Siliang. La obra fue un fenómeno nacional en su momento, pero también desapareció debido a la censura y los cambios del mercado. Revisarlo hoy no es solo recuperar un personaje, sino ver cómo los cómics de Taiwán desarrollaron su propio lenguaje.
+> **Resumen en 30 segundos:** Ye Hongjia fusionó el miedo posterior al Terror Blanco, la lealtad de las novelas por entregas, los mecanismos del misterio japonés y la escena editorial taiwanesa en un muchacho llamado Zhuge Siliang. La obra llegó a arrasar en toda Taiwán, pero también desapareció debido a la censura y los cambios del mercado. Hoy volver a mirarlo no es solo recuperar un personaje, sino ver cómo el cómic taiwanés llegó a desarrollar su propia gramática.
 
-En 1958, Ye Hongjia comenzó a serializar _Zhuge Siliang vs. El Partido del Diablo_ en la revista semanal _Manhua Dawang_ en Taipéi. En ese año, tenía 34 años, y ya habían pasado más de una década desde su encarcelamiento por dibujos políticos. Los lectores enviaron más de 10.000 cartas con especulaciones para descubrir la verdadera identidad del líder del Partido del Diablo. Zhuge Siliang originalmente era un proyecto de serialización de unas diez entregas, pero las cartas y la demanda del mercado lo mantuvieron con vida. [^1] [^2]
+En 1958, Ye Hongjia comenzó a serializar _Zhuge Siliang contra la Banda del Diablo_ en el semanario _Rey del Cómic_ de Taipéi. Ese año tenía 34 años, y ya habían pasado más de diez desde que fue encarcelado por sus viñetas políticas. Los lectores enviaron más de 10,000 conjeturas queriendo saber la verdadera identidad del líder de la Banda del Diablo. Zhuge Siliang estaba planeado originalmente para unas diez entregas, pero las cartas y el mercado lo mantuvieron vivo.[^1] [^2]
 
-Este punto de partida tiene algo contraintuitivo: Zhuge Siliang parece un héroe que ha llegado de la antigua China, pero es un producto taiwanés forjado en el contexto editorial de posguerra a través de los cómics japoneses, el cine, las tiendas de alquiler de libros y la impresión local. No es un simple "héroe tradicional", sino un producto nacido de una cultura híbrida.
+Este punto de partida tiene algo contraintuitivo: Zhuge Siliang parece un caballero errante salido de la China antigua, pero es un personaje forjado en la escena editorial de posguerra de Taiwán, a través del manga japonés, el cine, las bibliotecas de alquiler y la imprenta local. No es un simple «héroe tradicional», sino un producto taiwanés nacido en una cultura mestiza.
 
-📝 **Nota del curador:** Lo más valioso de Zhuge Siliang para volver a mirar no es su capacidad de combate, sino cómo nos muestra una isla desmontando formas externas y reensamblándolas en su propio héroe.
+📝 **Nota del curador:** Lo que más merece una relectura de Zhuge Siliang no es lo hábil que es combatiendo, sino que nos permite ver cómo una isla desmonta formas foráneas y las vuelve a armar para crear su propio héroe.
 
 ## Lo que Ye Hongjia dibujó primero no fue un héroe
 
@@ -80,17 +84,17 @@ Igualmente importantes son los manuscritos. En 2024, la Exposición del Centenar
 
 Ye Jialong dijo: "Las personas comunes también pueden hacer cosas extraordinarias". [^1] Si esta frase se toma solo como un lema motivacional, sería demasiado ligera. En el contexto de la exposición, se refiere a cómo un creador oprimido por su época logró, gracias a la preservación familiar, la colección museística, la organización por investigadores y la adaptación de nuevas generaciones, que la obra volviera a entrar en el视野 público.
 
-## De la memoria al espacio público cultural
+## De la memoria a la cultura pública
 
-Zhuge Siliang fue adaptado a películas en la década de 1970, series de televisión en la de 1980, y en 2022 se lanzó la película de animación 3D _Zhuge Siliang: El Héroe de los Héroes_. [^1] En 2024, el Museo Nacional de Cómics de Taiwán presentó tres exposiciones tituladas _Zhuge Siliang 100_, _Conviértete en Zhuge Siliang_ y _Alma del Héroe_, colocando manuscritos originales, animación, recuerdos de lectores e historia del cómic en el mismo complejo. [^1] [^7]
+Zhuge Siliang fue adaptado al cine en la década de 1970, a serie de televisión en la década de 1980, y en 2022 se estrenó la película de animación 3D «Zhuge Siliang: El héroe de los héroes».[^1] En 2024, el Museo Nacional de Cómics presentó tres exposiciones — «Zhuge Siliang 100», «Convertirse en Zhuge Siliang» y «Alma de héroe» — que reunieron en un mismo recinto los manuscritos originales, la animación, la memoria de los lectores y la historia del cómic.[^1] [^7]
 
-Estas adaptaciones no equivalen a la preservación completa de la obra original. Cada recoloreado, adaptación, exposición o comercialización vuelve a seleccionar qué personajes, tonos y valores se deben conservar. Las "lealtad y filialidad, justicia, astucia y valentía" mencionadas en la investigación académica son el esqueleto ético importante de la obra, pero no lo son todo. Zhuge Siliang también incluye máscaras, malentendidos, préstamos interculturales, trabajo editorial y vacíos posteriores a la censura. [^5]
+Estas adaptaciones no equivalen a que la obra original se haya preservado íntegramente. Cada recoloración, adaptación, exposición o mercantilización vuelve a elegir qué personajes, tonos y valores se conservan. Lo que la investigación académica señala como «lealtad filial, rectitud, ingenio y valor» constituye el importante esqueleto ético de la obra, pero no es todo. Zhuge Siliang también contiene máscaras, confusiones de identidad, apropiaciones transculturales, trabajo editorial y los vacíos dejados por la censura.[^5]
 
-Las fotografías del Museo Nacional de Cómics de Taiwán en Wikimedia Commons muestran un edificio de la época colonial japonesa que ha sido preservado. No es el manuscrito original de Zhuge Siliang, ni puede suplantar la evidencia histórica de la obra. En el artículo, solo sirve para señalar una cosa: la preservación de los cómics requiere espacio, y el espacio también reorganiza la forma en que se observa la obra. [^8]
+La fotografía del Museo Nacional de Cómics en Wikimedia Commons muestra un edificio de la época colonial japonesa que se ha conservado. No son los manuscritos originales de Zhuge Siliang, ni pueden hacerse pasar por evidencia histórica de la obra. En el artículo solo cumple una función: señalar que la preservación del cómic requiere espacio, y que el espacio también reconfigura la forma de mirar la obra.[^8]
 
-![Edificio del complejo del Museo Nacional de Cómics de Taiwán, como escenario moderno para la colección y reexposición de Zhuge Siliang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
+![Edificio del recinto del Museo Nacional de Cómics, escenario moderno para la colección y reexhibición de Zhuge Siliang.](/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp)
 
-_Pie de foto: Fotografía de Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. La imagen sirve solo como ilustración del escenario del Museo Nacional de Cómics de Taiwán, sin confundir el edificio como obra original de Zhuge Siliang. Fuente: [Página de imagen de Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
+_Descripción de la imagen: Foto de Ralff Nestor Nacor, Wikimedia Commons, CC BY-SA 4.0. La imagen solo ilustra el escenario del Museo Nacional de Cómics; no presenta el edificio como los originales de Zhuge Siliang. Fuente: [página de la imagen en Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Comics,_Taichung_(4).jpg>).\_
 
 ## No se trata de sellar la infancia
 
