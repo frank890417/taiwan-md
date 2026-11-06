@@ -13,11 +13,13 @@ lastHumanReview: false
 image: '/article-images/technology/big5-gong-5c-backslash.webp'
 imageAlt: "बड़े अक्षर 'गुण' के पास उसका Big5 कोड A5 और 5C दो सेल हैं, 5C वाली सेल में तीर की ओर इशारा ASCII 0x5C बैकस्लैश; नीचे Python का वास्तविक आउटपुट है, 'हुँग हुँग' के तीन अक्षरों का दूसरा बाइट सभी बैकस्लैश हैं"
 imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '9f06b2a04'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:dbee36211f1b2080'
 sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
-translatedAt: '2026-10-08T09:35:14+08:00'
+translatedAt: '2026-11-06T15:50:04.247169+00:00'
 ---
 
 > **30 सेकंड में:** मैंने i18n-स्थिति स्क्रिप्ट चलाया, स्क्रीन पर 4546 लिखा था, सभी `रूट` में। GitHub पर Linux CI हरा था। फिर मैंने दो बातें समझीं। Windows पथ का बैकस्लैश, स्क्रिप्ट स्लैश से नहीं तोड़ पाती। 'गुण' का Big5 कोड का दूसरा हिस्सा, वह खुद ASCII का `\` है। दोनों बातें अलग तरीकों से काम करती हैं, लेकिन अक्सर एक ही परम्परागत चीनी Windows मशीन पर साथ मिलकर उत्पन्न होती हैं।
