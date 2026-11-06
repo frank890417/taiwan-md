@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-23T13:51:53+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-05T23:40:23.705836+00:00'
 ---
 
-> **30 Sekunden Überblick:** Am 3. Dezember 1966 entstand in Kaohsiungs Nanzih das erste Exportverarbeitungsgebiet Taiwans – das, was die Regierung in den historischen Dokumenten als das weltweit erste bezeichnete. Es kombinierte die Funktionen eines Industriegebiets, eines Steuerfreistellungsgebiets und eines Freihandelsgebiets: über eine One-Stop-Administration, Steuererleichterungen und den Hafen flügten ausländische Investitionen, Rohstoffe, Fabriken und Exportaufträge an einem einzigen Ort zusammen. Innerhalb von zwei Jahren war der Garten über seine ursprüngliche Kapazität herausgewachsen und beschäftigte mehr als zwanzigtausend Menschen.[^1]
+**30-Sekunden-Überblick:** Am 3. Dezember 1966 entstand in Qianzhen, Kaohsiung, Taiwans erste Exportverarbeitungszone – laut Regierungsdokumenten die weltweit erste ihrer Art. Sie vereinte die Funktionen eines Industriegebiets, einer Freizone und eines Freihandelsgebiets und brachte über ein Single-Window-System, Steuervorteile und den Hafen ausländisches Kapital, Rohstoffe, Fabriken und Exportaufträge an einem Ort zusammen. Innerhalb von zwei Jahren übertraf das Areal den ursprünglichen Plan und beschäftigte über 20.000 Menschen.[^1]
 
-![Karte des Kaohsiung Hafens mit markiertem Umfeld der Exportverarbeitungszone](/article-images/history/kaohsiung-port-map.svg)
+![Karte des Kaohsiung-Hafens mit Kennzeichnung des umliegenden Hafengebiets der Exportverarbeitungszone](/article-images/history/kaohsiung-port-map.svg)
 
-- Bild 1: Karte des Kaohsiung Hafens, Autor Luuva, Wikimedia Commons, CC BY-SA 3.0. Bildseite: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg.\*
+_Bild 1: Karte des Kaohsiung-Hafens, Autor Luuva, Wikimedia Commons, CC BY-SA 3.0. Bildseite: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
 ## Ein „abgeschotteter“ Exporteingang
 
@@ -89,17 +93,17 @@ Vom Geschlechteraspekt bringen Frauenarbeit Einkommen und die Flucht aus dem lä
 
 Die positive Bewertung der Zone muss daher nicht widerlegt werden – doch „Arbeitsplätze schaffen“ und „wie diese Arbeitsplätze gestaltet sind“ müssen im selben Bild betrachtet werden. Wenn man nur die Exportzahlen betrachtet, verliert man die Produzenten; wenn man nur kritisiert, sieht man nicht, wie ein Gehalt eine Familie und eine Stadt verändern kann. Die Aufgabe der Geschichte ist nicht, der Zone eine einzige Bewertung zuzuordnen, sondern alle Ebenen sichtbar zu machen.
 
-## Wie die Zone ihr eigenes Glück überlebte
+## Wie der Park seinen eigenen Erfolg überlebte
 
-![Ausgang 1 des Nanzi Export Processing Zone Station](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![Ausgang 1 der Station Nanzih Export Processing Zone](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-- Bild 2: Ausgang 1 der Nanzi Export Processing Zone Station, Autor Long Ben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Bildseite: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; lokale Datei: images/nanzih-export-processing-zone-station.jpg.\*
+_Bild 2: Ausgang 1 der Station Nanzih Export Processing Zone, Autor Longben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Bildseite: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; lokale Datei: images/nanzih-export-processing-zone-station.jpg._
 
-Arbeitsintensive Industrien gerieten in den 1980er Jahren unter Druck durch steigende Löhne, Schutzmaßnahmen im internationalen Handel und Abwanderung der Industrie. Die Exportverarbeitungszone verschwand nicht – sie führte schrittweise Elektronik, Präzisionsfertigung, Logistik und andere hochwertigere Tätigkeiten ein. Eine Dissertation fasst den Zeitraum ab 1986 als Phase zusammen, in der sich Marktbedingungen und institutionelle Rahmenbedingungen gleichzeitig wandelten, und weist darauf hin, dass die Zone später in Richtung High-Tech-Elektronik und globale Logistik überging.[^8]
+Arbeitsintensive Industrien gerieten ab den 1980er Jahren unter Druck durch steigende Löhne, internationalen Handelsschutz und industrielle Abwanderung. Die Exportverarbeitungszone verschwand deswegen nicht sofort; sie führte schrittweise die Elektronikindustrie, Präzisionsfertigung, Logistik und andere höherwertige technologische Aktivitäten ein. Die Zusammenfassung einer Doktorarbeit beschreibt die Zeit nach 1986 als Periode gleichzeitiger Veränderungen der institutionellen und marktlichen Bedingungen und weist darauf hin, dass sich der Park später in Richtung Hochtechnologie-Elektronikindustrie und globale Supply-Chain-Orchestrierung transformierte.[^8]
 
-Diese Transformation veränderte auch das Gedächtnis der Zone. 2021 wurde der Name der Kaohsiung Export Processing Zone, der seit einem halben Jahrhundert verwendet wurde, offiziell in „Nanzih Science Industry Park“ geändert. Die Umbenennung löschte nicht die Geschichte aus – vielmehr wurde anerkannt, dass der ursprüngliche Begriff „Exportverarbeitungszone“ selbst zu einem institutionellen Erbe geworden war: One-Stop-Administration, Branchencluster, exportorientierte Strategie und Technologieerlernte – alle blieben in verschiedenen Branchen präsent.[^3]
+Diese Transformation veränderte auch die Art, wie der Park erinnert wird. Im Jahr 2021 legte das Kaohsiung Export Processing Zone seinen seit einem halben Jahrhundert verwendeten alten Namen ab und wurde in Qianzhen Technology Industrial Park umbenannt. Die Namensänderung löschte die Geschichte nicht aus, sondern erkannte vielmehr an, dass die ursprüngliche „Exportverarbeitungszone“ bereits zu einem institutionellen Erbe geworden war: Single Window, Industriecluster, Exportorientierung und Technologielernen hinterlassen weiterhin Spuren in verschiedenen Branchen.[^3]
 
-Die Verwaltungsgebäude, frühe Fabriken und andere Gebäude innerhalb der Zone tragen daher eine doppelte Identität. Einerseits sind sie möglicherweise weiterhin genutzte Industrieflächen, andererseits sind sie materielle Zeugnisse der taiwanesischen Wirtschaftsgeschichte. Wenn man sie nur als alte Gebäude betrachtet, verliert man ihre Verbindung zu Fabriken, Fabrikarbeiterinnen, Häfen und Gütern; wenn man sie nur als Denkmal des Erfolgs betrachtet, übergeht man die Arbeits- und Umweltkosten.[^3]
+Die Verwaltungsgebäude, frühen Fabriken und anderen Bauwerke im Park haben daher eine doppelte Identität. Einerseits sind sie weiterhin nutzbare Industrieraum, andererseits physische Belege der taiwanesischen Wirtschaftsgeschichte. Sie nur als alte Gebäude zu betrachten, würde ihre Beziehungen zu Fabriken, Fabrikarbeiterinnen, Häfen und Gütern übersehen; sie nur als Denkmäler des Erfolgs zu sehen, würde ebenfalls die Kosten von Arbeit und Umwelt ausblenden.[^3]
 
 ## Eine Zone, mehrere Taiwans
 

@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
-translatedAt: '2026-09-25T15:42:51+08:00'
+translatedAt: '2026-11-06T00:14:47.425904+00:00'
 ---
 
 > Am 14. Juni 2024 wurde ein Wuxia-RPG namens 《活俠傳》 (Huo Xia Zhuan) auf Steam veröffentlicht. Das Entwicklungsteam „原始鳥熊“ (Original Bird Bear) bestand nur aus zwei Personen – Bird programmierte, und Bear schrieb die Handlung und zeichnete. Beide stammten nicht aus der Spieleindustrie; dies war ihr erstes Werk. In der ersten Woche nach dem Start sank die positive Bewertung auf unter 30 %. Nach zwölf Tagen stieg sie auf 70 %. Nach einem Monat erreichte sie 94 %. Nach sechs Monaten wurden 700.000 Exemplare verkauft, und die Steam-Bewertung lag bei 9/10. Fans aus Korea übersetzten das Spiel spontan für soziale Medien, und Spieler aus Taiwan und Korea organisierten sich selbst, um es ins Japanische zu übersetzen. Die Hauptfigur ist ein „Nebencharakter ohne Heldenschau“ – ebenso das Entwicklungsteam.

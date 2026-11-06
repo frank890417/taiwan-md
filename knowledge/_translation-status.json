@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T08:20:47+08:00",
-    "zhCommitHead": "846e2759b",
+    "lastUpdated": "2026-11-06T08:58:38+08:00",
+    "zhCommitHead": "c55a017da",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -21,20 +21,36 @@
       "en": {
         "total_zh": 1162,
         "fresh": 1100,
-        "stale": 25,
-        "metadata_stale": 33,
+        "stale": 26,
+        "metadata_stale": 32,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1104,
+        "fresh": 1105,
         "stale": 27,
-        "metadata_stale": 27,
+        "metadata_stale": 26,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
+        "total_zh": 1162,
+        "fresh": 1107,
+        "stale": 31,
+        "metadata_stale": 20,
+        "missing": 4,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1162,
+        "fresh": 1098,
+        "stale": 30,
+        "metadata_stale": 28,
+        "missing": 6,
+        "orphan": 0
+      },
+      "fr": {
         "total_zh": 1162,
         "fresh": 1106,
         "stale": 31,
@@ -42,34 +58,18 @@
         "missing": 4,
         "orphan": 0
       },
-      "es": {
-        "total_zh": 1162,
-        "fresh": 1097,
-        "stale": 30,
-        "metadata_stale": 29,
-        "missing": 6,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1162,
-        "fresh": 1105,
-        "stale": 31,
-        "metadata_stale": 22,
-        "missing": 4,
-        "orphan": 0
-      },
       "vi": {
         "total_zh": 1162,
         "fresh": 1089,
-        "stale": 30,
-        "metadata_stale": 37,
+        "stale": 31,
+        "metadata_stale": 36,
         "missing": 6,
         "orphan": 0
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1096,
-        "stale": 33,
+        "fresh": 1095,
+        "stale": 34,
         "metadata_stale": 28,
         "missing": 5,
         "orphan": 0
@@ -77,40 +77,40 @@
       "pt": {
         "total_zh": 1162,
         "fresh": 1099,
-        "stale": 33,
-        "metadata_stale": 26,
+        "stale": 34,
+        "metadata_stale": 25,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1096,
-        "stale": 35,
+        "fresh": 1095,
+        "stale": 36,
         "metadata_stale": 27,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1101,
-        "stale": 30,
-        "metadata_stale": 27,
+        "fresh": 1102,
+        "stale": 31,
+        "metadata_stale": 25,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1111,
-        "stale": 25,
-        "metadata_stale": 22,
+        "fresh": 1112,
+        "stale": 26,
+        "metadata_stale": 20,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
         "fresh": 1087,
-        "stale": 32,
-        "metadata_stale": 39,
+        "stale": 33,
+        "metadata_stale": 38,
         "missing": 4,
         "orphan": 0
       }
@@ -1938,20 +1938,18 @@
         "de": {
           "path": "de/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
           "translatedFrom": "Music/台灣客家音樂.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:a1abbcd1a1bce08a",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:60f8e057f294412c",
           "sourceBodyHash": "sha256:ffa289d8ac5acb30",
-          "translatedAt": "2026-09-23T19:25:25+08:00",
+          "translatedAt": "2026-11-06T00:22:16.636405+00:00",
           "translationLastCommit": "d9fb4ef6",
           "translationLastModified": "2026-10-10T23:28:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 12375,
+          "bytes": 12688,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -7990,8 +7988,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-11-06T06:53:27+08:00",
-          "translationLastCommit": "b21ff68f",
-          "translationLastModified": "2026-09-13T18:24:40+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 58858,
@@ -8810,8 +8808,8 @@
           "sourceContentHash": "sha256:74f243c904946316",
           "sourceBodyHash": "sha256:d4cdc4cd51a6a4ff",
           "translatedAt": "2026-11-05T23:37:26.627471+00:00",
-          "translationLastCommit": "16414d09",
-          "translationLastModified": "2026-10-10T23:45:14+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 51369,
@@ -42455,8 +42453,8 @@
           "sourceContentHash": "sha256:2040ccc7373956b8",
           "sourceBodyHash": "sha256:d6f56dc6ecb9a820",
           "translatedAt": "2026-11-05T23:50:30.360151+00:00",
-          "translationLastCommit": "47dd0cda",
-          "translationLastModified": "2026-09-11T07:28:25+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 44348,
@@ -46525,20 +46523,18 @@
         "ar": {
           "path": "ar/Art/first-image-creative.md",
           "translatedFrom": "Art/首映創意.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:24d3c436839c65a5",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:f37d78947560bdb3",
           "sourceBodyHash": "sha256:952b491f965877b0",
-          "translatedAt": "2026-08-10T09:48:24+08:00",
+          "translatedAt": "2026-11-06T00:21:15.952684+00:00",
           "translationLastCommit": "9f3609b5",
           "translationLastModified": "2026-08-18T15:20:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 14618,
+          "bytes": 14658,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/first-image-creative.md",
@@ -59142,10 +59138,10 @@
     },
     "Society/台北吸菸室.md": {
       "zh": {
-        "lastCommit": "52052dda",
-        "lastModified": "2026-10-12T19:28:55+08:00",
-        "contentHash": "sha256:f6e388583def59a6",
-        "bodyHash": "sha256:0879f11101fa0c2c"
+        "lastCommit": "c55a017d",
+        "lastModified": "2026-11-06T08:51:03+08:00",
+        "contentHash": "sha256:8fda552b52db75a7",
+        "bodyHash": "sha256:670589f45a540af9"
       },
       "translations": {
         "en": {
@@ -59161,8 +59157,8 @@
           "footnoteDefs": 43,
           "bytes": 51647,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "ja": {
           "path": "ja/Society/taipei-smoking-room.md",
@@ -59178,9 +59174,7 @@
           "bytes": 58238,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "reason": "footnote-loss (45→43)"
         },
         "ko": {
           "path": "ko/Society/taipei-smoking-room.md",
@@ -59196,9 +59190,7 @@
           "bytes": 57660,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "reason": "footnote-loss (45→43)"
         },
         "es": {
           "path": "es/Society/taipei-smoking-room.md",
@@ -59214,9 +59206,7 @@
           "bytes": 58390,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "reason": "footnote-loss (45→43)"
         },
         "fr": {
           "path": "fr/Society/taipei-smoking-room.md",
@@ -59232,9 +59222,7 @@
           "bytes": 60205,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "reason": "footnote-loss (45→43)"
         },
         "vi": {
           "path": "vi/Society/taipei-smoking-room.md",
@@ -59249,8 +59237,8 @@
           "footnoteDefs": 43,
           "bytes": 68427,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "id": {
           "path": "id/Society/taipei-smoking-room.md",
@@ -59265,8 +59253,8 @@
           "footnoteDefs": 43,
           "bytes": 57397,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "pt": {
           "path": "pt/Society/taipei-smoking-room.md",
@@ -59281,8 +59269,8 @@
           "footnoteDefs": 43,
           "bytes": 52824,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "hi": {
           "path": "hi/Society/taipei-smoking-room.md",
@@ -59297,8 +59285,8 @@
           "footnoteDefs": 43,
           "bytes": 121935,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "ar": {
           "path": "ar/Society/taipei-smoking-room.md",
@@ -59313,8 +59301,8 @@
           "footnoteDefs": 43,
           "bytes": 86398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "ru": {
           "path": "ru/Society/taipei-smoking-room.md",
@@ -59329,8 +59317,8 @@
           "footnoteDefs": 43,
           "bytes": 97600,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         },
         "de": {
           "path": "de/Society/taipei-smoking-room.md",
@@ -59345,8 +59333,8 @@
           "footnoteDefs": 43,
           "bytes": 57245,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (45→43)"
         }
       }
     },
@@ -77677,20 +77665,18 @@
         "ru": {
           "path": "ru/Society/taiwan-zoos.md",
           "translatedFrom": "Society/台灣有哪些動物園.md",
-          "sourceCommitSha": "287389ecc",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
-          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translatedAt": "2026-11-06T00:58:19.484809+00:00",
           "translationLastCommit": "872d4def",
           "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 46774,
+          "bytes": 46833,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-zoos.md",
@@ -95581,20 +95567,18 @@
         "en": {
           "path": "en/Politics/village-chief-system.md",
           "translatedFrom": "Politics/村里長制度.md",
-          "sourceCommitSha": "d7d7c2e30",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:968a60e9d47e825b",
           "sourceBodyHash": "sha256:c77c8cceb31c23cb",
-          "translatedAt": "2026-11-03T00:29:48+08:00",
+          "translatedAt": "2026-11-06T00:23:38.997319+00:00",
           "translationLastCommit": "18920588",
           "translationLastModified": "2026-11-03T04:19:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 34158,
+          "bytes": 34718,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Politics/village-chief-system.md",
@@ -114041,20 +114025,18 @@
         "ru": {
           "path": "ru/People/chi-cheng-flying-antelope.md",
           "translatedFrom": "People/紀政.md",
-          "sourceCommitSha": "0f8fae0ae",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:ec85f3e1d7f5d977",
           "sourceBodyHash": "sha256:5932775fa82a34d0",
-          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translatedAt": "2026-11-06T00:21:44.531801+00:00",
           "translationLastCommit": "0ee90dcd",
           "translationLastModified": "2026-10-31T08:40:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 25105,
+          "bytes": 25751,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chi-cheng-flying-antelope.md",
@@ -114823,8 +114805,8 @@
           "sourceContentHash": "sha256:13c80c1f151f5c3e",
           "sourceBodyHash": "sha256:bf6107b943cdb54e",
           "translatedAt": "2026-11-05T22:49:46.722698+00:00",
-          "translationLastCommit": "1b861288",
-          "translationLastModified": "2026-09-16T03:25:10+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 22934,
@@ -138797,20 +138779,18 @@
         "ar": {
           "path": "ar/People/potter-king-youtuber.md",
           "translatedFrom": "People/波特王.md",
-          "sourceCommitSha": "5edf34bcb",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:f218c0f6edac6f55",
           "sourceBodyHash": "sha256:bd885df97c7fe1fa",
-          "translatedAt": "2026-08-09T08:01:34+08:00",
+          "translatedAt": "2026-11-06T00:58:13.800128+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 16289,
+          "bytes": 16342,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/potter-king-youtuber.md",
@@ -152433,8 +152413,8 @@
           "sourceContentHash": "sha256:958aae21d01a3998",
           "sourceBodyHash": "sha256:87fd16bb46aa18be",
           "translatedAt": "2026-11-06T00:20:29.105625+00:00",
-          "translationLastCommit": "1b861288",
-          "translationLastModified": "2026-09-16T03:25:10+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 18557,
@@ -172723,20 +172703,18 @@
         "ja": {
           "path": "ja/Food/ba-pu-ice-cream.md",
           "translatedFrom": "Food/叭噗冰.md",
-          "sourceCommitSha": "077700e9b",
+          "sourceCommitSha": "67c4c72fc",
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
-          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translatedAt": "2026-11-06T00:23:44.910831+00:00",
           "translationLastCommit": "a6d2d71d",
           "translationLastModified": "2026-09-21T17:03:10+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 50118,
+          "bytes": 50374,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/ba-pu-ice-cream.md",
@@ -172789,20 +172767,18 @@
         "vi": {
           "path": "vi/Food/ba-pu-ice-cream.md",
           "translatedFrom": "Food/叭噗冰.md",
-          "sourceCommitSha": "077700e9b",
+          "sourceCommitSha": "67c4c72fc",
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
-          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translatedAt": "2026-11-06T00:25:43.847132+00:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 52375,
+          "bytes": 52631,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/ba-pu-ice-cream.md",
@@ -196643,8 +196619,8 @@
           "sourceContentHash": "sha256:bfa78a33fd163a9a",
           "sourceBodyHash": "sha256:aa0440f383f174b1",
           "translatedAt": "2026-11-06T00:01:01.605017+00:00",
-          "translationLastCommit": "d29ad571",
-          "translationLastModified": "2026-10-10T22:58:21+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 41201,
@@ -197555,56 +197531,50 @@
         "ko": {
           "path": "ko/Geography/guling-street.md",
           "translatedFrom": "Geography/牯嶺街.md",
-          "sourceCommitSha": "fe48ea49",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "translatedAt": "2026-11-06T00:24:16.448763+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 55831,
+          "bytes": 55635,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/guling-street.md",
           "translatedFrom": "Geography/牯嶺街.md",
-          "sourceCommitSha": "fe48ea49",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "translatedAt": "2026-11-06T00:25:01.751986+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 64762,
+          "bytes": 64445,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/guling-street.md",
           "translatedFrom": "Geography/牯嶺街.md",
-          "sourceCommitSha": "fe48ea49",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "translatedAt": "2026-11-06T00:25:37.709071+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 66818,
+          "bytes": 66598,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/guling-street.md",
@@ -197643,20 +197613,18 @@
         "pt": {
           "path": "pt/Geography/guling-street.md",
           "translatedFrom": "Geography/牯嶺街.md",
-          "sourceCommitSha": "fe48ea49d",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
-          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "translatedAt": "2026-11-06T00:37:43.673087+00:00",
           "translationLastCommit": "283a1d9c",
           "translationLastModified": "2026-10-10T23:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 52384,
+          "bytes": 52163,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/guling-street.md",
@@ -210823,8 +210791,8 @@
           "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
           "sourceBodyHash": "sha256:009e89e5797639ab",
           "translatedAt": "2026-11-06T00:13:51.820725+00:00",
-          "translationLastCommit": "9f3609b5",
-          "translationLastModified": "2026-08-18T15:20:46+08:00",
+          "translationLastCommit": "a0b9ed5a",
+          "translationLastModified": "2026-11-06T08:20:47+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 23104,

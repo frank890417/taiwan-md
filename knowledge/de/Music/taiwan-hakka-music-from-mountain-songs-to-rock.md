@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-09-23T19:25:25+08:00'
+translatedAt: '2026-11-06T00:22:16.636405+00:00'
 ---
 
 # Taiwanische Hakka-Musik: Von den Volksliedern bis zur Sprachpolitik des Preisablehnens durch Lin Sheng-xiang
@@ -94,20 +96,20 @@ Die zentrale Herausforderung der hakkaischen Musik ist der kontinuierliche Rück
 
 Die digitale Ära bringt jedoch auch neue Chancen: Streaming-Plattformen ermöglichen es der hakkaischen Musik, internationale Zuhörer zu erreichen, senken die Hürden für die Schöpfung und erlauben jungen hakkaischen Musikerinnen wie Misha (米莎) und Qiu Xingyi (邱幸儀), eine loyale Fangemeinde online aufzubauen.
 
-## Referenzen
+## Quellen
 
-[^1]: [Musik ohne Grenzen Lin Sheng-xiang: Der Preis, den ich nicht nehmen wollte | Kularo Net](https://www.coolloud.org.tw/node/3817) — Bestätigung des Motivs und der Erklärung von Lin Sheng-xiang bezüglich der Ablehnung des Preises.
+[^1]: [Musik ohne Grenzen: Lin Sheng-xiang – Der am wenigsten gewünschte Hakka-Preis | Coolloud](https://www.coolloud.org.tw/node/3817) — Bestätigung von Lin Sheng-xiangs Beweggründen für die Preisablehnung und seiner Erklärung.
 
-[^2]: [Nationales Zentrum für traditionelle Künste: Erbschaftsmaterialien der Hakka Baoyin](https://www.ncfta.gov.tw/) — Beschreibung der Praxis, bei der die Nai Na das Hauptmelodieinstrument in der Hakka Baoyin verwendet.
+[^2]: [Nationales Zentrum für traditionelle Künste: Materialien zur Weitergabe des Hakka-Bayin](https://www.ncfta.gov.tw/) — Erläuterung der Praxis, dass die Hakka-Bayin-Musik von der Suona als Hauptinstrument angeführt wird.
 
-[^3]: [Ministerium für Kultur, Film und Popmusikindustrie: Liste der Gewinner und Nominierten vergangener Jahre](https://www.bamid.gov.tw/information_176_64106.html) — Bestätigung, dass _Wir singen Volkslieder_ beim 11. Golden Melody Award die Preise Bester Komponist und Bester Produzent gewann (nicht Bester Ensemble).
+[^3]: [Kulturministerium – Amt für Film, Fernsehen und populäre Musikindustrie: Liste der Gewinner und Nominierten aller Jahre](https://www.bamid.gov.tw/information_176_64106.html) — Bestätigung, dass ‚我等就來唱山歌‘ (Wir kommen, um Berglieder zu singen) bei den 11. Golden Melody Awards als bester Komponist und bester Produzent ausgezeichnet wurde (nicht als beste Band).
 
-[^4]: [Golden Melody Award – Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Bestätigung der Einführung des Preises für den Besten Hakka-Sänger beim 14. Golden Melody Award im Jahr 2003; Umbenennung auf „Bester Hakka-Sänger“ bei der 18. Ausgabe im Jahr 2007.
+[^4]: [14. Golden Melody Awards – Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Bestätigung, dass 2003 bei der 14. Verleihung erstmals der Preis für den besten hakka-sprachigen Interpreten eingeführt wurde; 2007 bei der 18. Verleihung in „Bester hakka-sprachiger Sänger“ umbenannt wurde.
 
-[^5]: [Xie Yuwei – Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Bestätigung des Gewinners für den ersten Preis als Bester Hakka-Sänger beim 15. Golden Melody Award; repräsentatives Werk _Ein Kreis, unter einem Baum_.
+[^5]: [Xie Yu-wei – Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Bestätigung, dass Xie Yu-wei 2004 bei der 15. Verleihung den Preis für den besten hakka-sprachigen Interpreten erhielt; bekanntestes Werk: ‚一儕、花樹下‘.
 
-[^6]: [Golden Melody Award 18th Time... Lin Sheng-xiang wirft eine Bombe... lehnt Preise gemeinsam ab | Liberty Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Details zur Preisablehnung von Lin Sheng-xiang beim Golden Melody Award (2007) und die Spende des Preispotenzials.
+[^6]: [18. Golden Melody Awards: Erstmals … Lin Sheng-xiang sorgt für Aufsehen, verweigert gemeinsam die Preisannahme | Liberty Times Entertainment](https://ent.ltn.com.tw/news/paper/136087) — Der Ablauf von Lin Sheng-xiangs Preisverweigerung bei den 18. Golden Melody Awards (2007) und der Empfänger der gespendeten Preisgelder.
 
-[^7]: [Bester Hakka-Album-Preis (Golden Melody Award) – Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — Bestätigung, dass Luo Si-rong mit _Blumen sammeln_ den Preis für Bester Hakka-Sänger und Bester Hakka-Album beim 23. Golden Melody Award gewann.
+[^7]: [Preis für das beste hakka-sprachige Album (Golden Melody Awards) – Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Bestätigung, dass Luo Si-rong mit ‚Lan Hua Qu‘ (《攬花去》) bei der 23. Verleihung den Preis für den besten hakka-sprachigen Sänger und das beste hakka-sprachige Album gewann.
 
-[^8]: [Offizielle Website von Hakka Television](https://www.hakkatv.org.tw/) — Bestätigung des Starts im Jahr 2003 als weltweit erster 24-Stunden-Kanal in Hakka.
+[^8]: [Offizielle Website von Hakka TV](https://www.hakkatv.org.tw/) — Bestätigung, dass der Sender 2003 den Betrieb aufnahm und der weltweit erste rund um die Uhr sendende hakka-sprachige Fernsehkanal ist.
