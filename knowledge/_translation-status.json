@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T10:47:59+08:00",
-    "zhCommitHead": "7f691b8b4",
+    "lastUpdated": "2026-11-06T11:21:37+08:00",
+    "zhCommitHead": "7479f6a9e",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 30,
-        "metadata_stale": 28,
+        "metadata_stale": 27,
         "missing": 6,
         "orphan": 0
       },
@@ -86217,8 +86217,8 @@
           "sourceContentHash": "sha256:69050f9233c761e6",
           "sourceBodyHash": "sha256:9493291d7f66f3a4",
           "translatedAt": "2026-11-06T01:07:48.480731+00:00",
-          "translationLastCommit": "92fbf852",
-          "translationLastModified": "2026-10-31T08:37:45+08:00",
+          "translationLastCommit": "7479f6a9",
+          "translationLastModified": "2026-11-06T10:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 30864,
@@ -128517,20 +128517,18 @@
         "es": {
           "path": "es/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "f40273072",
-          "sourceContentHash": "sha256:06a2002deee9c4a4",
+          "sourceCommitSha": "3b7782fae",
+          "sourceContentHash": "sha256:019232bb48bbd216",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
-          "translatedAt": "2026-10-10T12:07:01+08:00",
+          "translatedAt": "2026-11-06T03:04:39.886461+00:00",
           "translationLastCommit": "d47823a9",
           "translationLastModified": "2026-10-10T15:56:27+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 28258,
+          "bytes": 29311,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+30 -3"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "fr": {
           "path": "fr/People/san-mao.md",
