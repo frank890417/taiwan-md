@@ -18,11 +18,13 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: 'f40273072'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-10-10T08:10:01.786147+00:00'
+translatedAt: '2026-11-06T04:26:04.603861+00:00'
 ---
 
 # باي شيان يونغ: من "أهل تايبيه" 1971 إلى عشرين عاماً من جولات "جناح الفاوانيا" نسخة الشباب
