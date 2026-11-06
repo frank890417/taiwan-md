@@ -18,20 +18,24 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
+image: '/article-images/people/taipei-city-council-hall-front-view-20201031.webp'
+imageCredit: 'Solomon203'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg'
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/呱吉.md'
-sourceCommitSha: 'b1ce053ac'
-sourceContentHash: 'sha256:c94a65d34db3fe04'
-sourceBodyHash: 'sha256:8811d54bcacf4b19'
-translatedAt: '2026-09-12T22:55:27+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:14b3fdc10f7aebe5'
+sourceBodyHash: 'sha256:c809a24a3b6ba0e4'
+translatedAt: '2026-11-06T04:44:47.886399+00:00'
 ---
 
-> **30초 요약:** 구오지(呱吉)의 본명은 구오위제(邱威傑)이다. 2017년, 그는 동료들과 함께 '리장(里長) 선거'를 리얼리티 쇼로 촬영하려 했으나, 이 기획은 2018년 타이베이 시의원 선거로 발전하여 무소속 신분으로 타이베이 시 제3선거구에서 11,786표를 득표하여 당선되었다[^1]. 공시(公視, Public Television)는 그를 대만에서 정계에 진출한 첫 번째 유튜버로 묘사한다[^2]. 그의 정치 참여는 인터넷과 정치를 동일시하지 않았으며, 오히려 두 가지 사이의 격차를 시청자 앞에 드러냈다. 영상은 편집을 통해 리듬을 만들 수 있지만, 의회와 시장은 장기적인 책임을 요구한다. 2025년, 《출근 금지(上班不要看)》는 업데이트를 중단하고 해체되었으며, 이는 '민주주의 오픈박스'로 시작된 실험이 팀 이탈, 정치적 입장으로 인한 트래픽 충격, 수백만 위안의 운영 적자를 마주해야 함을 의미한다[^3].
+> **30초 개요:** 구아지(呱吉)의 본명은 구웨이제(邱威傑)이다. 2017년, 그와 동료들은 원래 '촌장 선거(選里長)'를 리얼리티 쇼로 찍으려 했으나, 이후 기획을 2018년 타이베이 시의원 선거로 발전시켰고, 무소속으로 타이베이 시 제3선거구에서 11,786표를 얻어 당선되었다[^1]. 공시는 그를 대만 최초의 정계 진출 유튜버로 묘사했다[^2]. 그의 정계 진출은 인터넷과 정치를 하나의 일로 만들지 않았고, 오히려 둘 사이의 격차를 관객 앞에 드러냈다: 영상은 편집으로 리듬을 만들 수 있지만, 의회와 시장은 장기적 책임을 요구한다. 2025년, 《출근 금지(上班不要看)》가 업로드 중단되고 해체되면서, '민주주의 오픈박스(民主開箱)'로 시작된 이 실험은 마침내 팀원 이탈, 정치적 입장 표명으로 인한 트래픽 충격, 수백만 NT$의 운영 적자를 직면하게 되었다[^3].
 
-![타이베이 시의회 건물 정면, 구오지가 인터넷 창작을 제도 현장으로 가져왔음을 상징한다.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
+![타이베이 시의회 건물 정면, 구아지가 인터넷 창작을 제도 현장으로 가져왔음을 상징함.](/article-images/people/taipei-city-council-hall-front-view-20201031.webp)
 
-_사진: Solomon203, 2020년 10월 31일 촬영, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped)에서 가져옴. CC BY-SA 4.0.\_
+_사진: Solomon203, 2020년 10월 31일 촬영, 출처: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taipei_City_Council_Hall_front_view_20201031_(cropped).jpg>), CC BY-SA 4.0.\_
 
 ## 원래 프로그램으로 촬영하려던 생각
 
