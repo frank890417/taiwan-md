@@ -1,21 +1,21 @@
 ---
-title: 'Taiwan Blue Magpie: The Blue Gang of the Urban Jungle and a Century-Long Genetic Defense War'
-description: 'Winning the title of national bird with 180,000 votes in 2007, this mountain forest gem is actually a fierce family known for "gang fights." As an endemic species to Taiwan, from the first specimen collected by C.B. Sharpe in 1862 to today''s sightings scavenging cat food in urban parks, they prevail through competition thanks to a nest-side cooperative system with up to 97% assistance; over these hundred-plus years, they have also consistently maintained their genetic boundary from the Daurian Red Magpie of mainland China. This is an island story about survival, family cohesion, genetic defense wars, and the wisdom of human-bird coexistence.'
+title: 'Taiwan Blue Magpie: Blue Gangs in the Urban Jungle, and a Century-Spanning Genetic Defense Battle'
+description: 'The Taiwan Blue Magpie is an endemic species of Taiwan, winning the national bird selection in 2007. Its population is stable, listed as "Least Concern" on the IUCN Red List, and classified as a Level 3 protected species in Taiwan, primarily protected because it is an endemic species; in recent years it has also increased in low-elevation areas and urban parks. They live in groups, with 97% of family groups having helpers assisting in raising chicks, and they collectively mob intruders; the most concerning threat is hybridization and genetic pollution brought by the invasive Red-billed Blue Magpie.'
 date: 2026-04-30
 category: 'Nature'
 tags:
   [
-    'Endemic Species',
-    'Protected Species',
+    'Endemic species',
+    'Protected species',
     'Birds',
     'Ecology',
     'Long-tailed Mountain Lady',
-    'Cooperative Breeding',
-    'Tsou People',
-    'Bunun People',
-    'Daurian Red Magpie',
-    'Citizen Science',
-    'Climate Change',
+    'Cooperative breeding',
+    'Tsou people',
+    'Bunun people',
+    'Red-billed Blue Magpie',
+    'Citizen science',
+    'Climate change',
   ]
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
@@ -23,11 +23,15 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: '照 ARTICLE-INBOX「台灣藍鵲 SEO 優化」條目。SC 28 天 2,589 曝光 27 點擊（1.04%），查詢「台灣藍鵲」941、「台灣藍鵲數量」63 曝光；description 從 168 字縮短、拿掉「山林寶石」「藍色幫派」，前段回答族群數量與保育等級。title 不動；結果頁版位與結構化資料未處理'
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '29df9154e'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
-translatedAt: '2026-10-15T03:24:25.173651+00:00'
+translatedAt: '2026-11-06T01:07:48.480731+00:00'
 ---
 
 > **30-Second Overview:**
