@@ -1,15 +1,15 @@
 ---
-title: "Keluar dari PBB: 17 Menit di 1971, Bagaimana Taiwan Berubah dari 'Cina' menjadi Anak Yatim Internasional"
-description: 'Pada 25 Oktober 1971, di depan sidang PBB di New York, Menteri Luar Negeri Republik Tiongkok (Taiwan) Zhou Shou-kai membaca pernyataannya, lalu turun dari podium bermarmer hijau, dan seluruh delegasinya mengosongkan ruangan. Dari masuk hingga keluar, kurang dari 20 menit. Setengah jam kemudian, Resolusi 2758 disetujui dengan suara 76 melawan 35, mengusir "perwakilan Chiang Kai-shek" dan secara resmi memberi Republik Rakyat Tiongkok kedudukan "Cina". Taiwan, yang sejak 24 Agustus 1945 menjadi anggota pendiri PBB (Chiang Chung-cheng menandatangani Undang-Undang Dasar PBB di Chongqing), dalam sekejap menjadi bagian yang terpinggirkan dalam organisasi internasional.'
+title: 'Taiwan Keluar dari PBB: 17 Menit Itu pada 1971, Bagaimana Negara Pendiri Menjadi Orang Luar'
+description: 'Pada 25 Oktober 1971, Chow Shu-kai turun dari podium di ruang sidang Majelis Umum, dan Republik China berubah dari negara pendiri PBB menjadi orang luar yang dihalangi di luar pintu. Di permukaan itu adalah penarikan diri tragis dengan slogan "Han zei bu liang li" (Han dan bandit tidak bisa berdua), tetapi Chiang Kai-shek sebenarnya sudah menerima kompromi "Dua Cina" sejak awal 1971, kunci sebenarnya adalah kunjungan rahasia Kissinger ke Beijing pada Juli tahun yang sama. Setengah abad kemudian, Dewan Perwakilan Rakyat AS pada 2025 menyetujui undang-undang yang menegaskan: Resolusi Nomor 2758 tidak pernah menangani hak representasi Taiwan.'
 date: 2026-05-02
 category: 'History'
 tags:
   [
     'Diplomasi',
     'Sejarah',
-    'Perserikatan Bangsa-Bangsa',
+    'PBB',
     'Perang Dingin',
-    'Hubungan Lintas Selat',
+    'Hubungan Dua Sisi Selat',
     'Hukum Internasional',
   ]
 subcategory: '民主與治理'
@@ -17,11 +17,15 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-09-09T11:45:56+08:00'
+translatedAt: '2026-11-06T04:30:30.889743+00:00'
 ---
 
 25 Oktober 1971, di tengah malam, di gedung Sidang Umum PBB di New York. Menteri Luar Negeri Republik Tiongkok (Taiwan) Zhou Shou-kai membaca pernyataannya, lalu berbalik turun dari podium bermarmer hijau, dan seluruh delegasi mengosongkan ruangan. Dari masuk hingga keluar, kurang dari 20 menit. Setengah jam kemudian, Resolusi 2758 disetujui dengan suara 76 melawan 35, "perwakilan Chiang Kai-shek" digusur, dan Republik Rakyat Tiongkok secara resmi menduduki kursi "Cina". Taiwan yang sejak menjadi anggota pendiri PBB (pada 24 Agustus 1945, Chiang Chung-cheng menandatani Undang-Undang Dasar PBB di Chongqing), dalam sekejap menjadi bagian yang terpinggirkan dalam organisasi internasional.

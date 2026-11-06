@@ -1,14 +1,14 @@
 ---
-title: 'Wang Yung-ching: Perjuangan Dua Dekade Toko Beras dan Formosa Plastics, Serta Drama Perebutan Warisan Setelah Kematiannya'
-description: 'Lahir pada tahun 1917 dari keluarga petani miskin di Xindian, Taipei, ia putus sekolah pada usia 15 tahun dan meminjam NT$200 dari ayahnya untuk mendirikan "Xin Gao Rice Mill". Pada tahun 1954, ia mendirikan Taiwan Plastics, yang kemudian dijuluki sebagai "Dewa Manajemen". Pada tahun 1973, ia mengajukan proposal Formosa Plastics (Sixth Naphtha Cracker) kepada pemerintah; meski ditolak berkali-kali, ia tidak menyerah dan berjuang selama hampir dua puluh tahun sebelum akhirnya disetujui, hingga produksi massal resmi dimulai di Mailiao, Yunlin pada tahun 1998. Ia wafat di New York, Amerika Serikat, pada 15 Oktober 2008 pada usia 92 tahun, meninggalkan sengketa perebutan warisan keluarga yang berlanjut hingga sekitar tahun 2022.'
+title: 'Wang Yung-ching: Toko Beras, Dua Puluh Tahun Perjuangan Sixth Naphtha Cracker, Drama Sengketa Warisan Pasca Kematiannya'
+description: 'Wang Yung-ching adalah orang Xindian, Taipei, lahir pada 1917 dari keluarga miskin petani, putus sekolah di usia 15 tahun, meminjam uang dari ayahnya untuk membuka toko beras, mencatat siklus penggunaan beras setiap rumah tangga dari rumah ke rumah. Pada 1954 ia mendirikan Formosa Plastics, kemudian dikenal sebagai "Dewa Manajemen". Pada 1973 mengusulkan Sixth Naphtha Cracker, ditolak berulang kali oleh pemerintah, setelah hampir dua puluh tahun perjuangan baru disetujui, pada 1998 mulai produksi massal di Mailiao, Yunlin. Pada 2008 ia meninggal di New York, berusia 92 tahun, sengketa warisan keluarga mewabah hingga sekitar 2022.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Teknologi dan Perusahaan',
-    'Formosa Plastics Group',
+    'Grup Formosa Plastics',
     'Industri Petrokimia',
-    'Formosa Plastics Sixth Naphtha Cracker',
+    'Sixth Naphtha Cracker',
     'Pengusaha',
   ]
 subcategory: '科技與企業'
@@ -17,11 +17,15 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 13,511 曝光 100 點擊（0.74%），查詢「王永慶哪裡人」56、「王永慶是誰」22 曝光；description 第一句先答台北新店人，從 181 字履歷串縮短。title 經人工審閱過，本輪不動'
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: '9be0c5314'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:09b83ca512f814fd'
 sourceBodyHash: 'sha256:2035945bf29ced7a'
-translatedAt: '2026-10-15T22:05:35.966959+00:00'
+translatedAt: '2026-11-06T04:46:36.908545+00:00'
 ---
 
 # Wang Yung-ching: Dari Toko Beras ke Naphtha Cracker Keenam, Pertempuran Dua Puluh Tahun dan Drama Warisan Keluarga
