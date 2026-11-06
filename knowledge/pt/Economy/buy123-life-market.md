@@ -16,11 +16,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-13T15:49:25+08:00'
+translatedAt: '2026-11-06T21:10:42.094983+00:00'
 ---
 
 Em 2013, o Mercado da Vida foi fundado, tornando-se uma plataforma de comércio eletrónico sob a Fundadores Digitais (創業家數位股份有限公司). Em 2020, os produtos na sua plataforma já não se limitavam a artigos para o lar; categorias não essenciais como produtos 3C e alimentos representavam cerca de 30% a 40% da receita total. A 12 de outubro de 2023, estendeu as suas prateleiras para o exterior, lançando o serviço de entrega direta do estrangeiro. [^1] [^2] [^7]
