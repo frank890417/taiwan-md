@@ -17,6 +17,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/society/taipei-old-apartment-cc0.webp'
+imageCredit: 'Daderot'
+imageLicense: 'CC0 1.0'
 readingTime: 16
 curation: 'incubating'
 rationale:
@@ -26,10 +29,10 @@ rationale:
   whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
   which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
-sourceCommitSha: 'c2191ba3a'
+sourceCommitSha: '67c4c72fc'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'
 sourceBodyHash: 'sha256:ef799ec0f3c74f1b'
-translatedAt: '2026-09-21T00:58:24+08:00'
+translatedAt: '2026-11-06T00:08:44.046915+00:00'
 ---
 
 > **30秒概要**：エネルギー貧困は単に「電気を多く使っている」か「節電をしない」という問題ではない。安全で負担可能かつ効率的なエネルギーサービスを得るための十分な資源を家庭が持っていないからだ。古いアパート、屋上の増築、換気の悪い部屋に住む家庭、または効率の低い中古エアコンを使用する家庭にとっては、エアコンをつけることは請求書の負担になり、つけないことは熱傷害のリスクを高める。台湾には全国的に一致したエネルギー貧困の定義が欠如しているが、民間調査では支援を受ける弱者家庭のエネルギー支出が可処分所得の明らかに高い割合を占めていることが判明している。[^1] 高温が政府によって部門を超えたリスクとして認識されるようになれば、エネルギー貧困は節電宣伝を超えて、住宅、社会福祉、衛生、気候調適の各分野で共同に取り組む公共の問題とならなければならない。[^2]
