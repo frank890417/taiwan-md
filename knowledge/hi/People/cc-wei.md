@@ -17,15 +17,13 @@ featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
 readingTime: 7
-translatedFrom: People/魏哲家.md
-sourceCommitSha: 0f8fae0ae
+curation: 'incubating'
+curationReason: 'thin'
+translatedFrom: 'People/魏哲家.md'
+sourceCommitSha: '22286539e'
 sourceContentHash: 'sha256:3d7fccce1bbb6e47'
 sourceBodyHash: 'sha256:501cc28a481912c5'
-translatedAt: '2026-09-09T15:32:21+08:00'
-# design_rationale:
-#   why_this_hook: "नेशनल चियाओ तुंग → येल → टेक्सास इंस्ट्रूमेंट्स → TSMC के पथ से, साथ ही 2024 में अध्यक्ष के रूप में अपना कार्यभार संभालना — यह एक 40 साल की संचय की स्थिति है, न कि बाहर से आया व्यक्ति।"
-#   whats_excluded: "विभिन्न प्रक्रिया प्रौद्योगिकी विवरण तुलना; TSMC वित्तीय विश्लेषण; सैमसंग/इंटेल प्रतिद्वंद्विता विवरण"
-#   where_it_hedges: "मूल लेख जन्म वर्ष 1955 में गलत → P0 पुष्टि के रूप में 1953 में सही किया; मूल त्रुटि NTU सामग्री विज्ञान + स्टैनफोर्ड → नेशनल चियाओ तुंग इलेक्ट्रॉनिक्स + येल में सही किया"
+translatedAt: '2026-11-06T16:09:42.912142+00:00'
 ---
 
 # सी.सी. वेई: 1953, नेशनल चियाओ तुंग इलेक्ट्रॉनिक्स से येल पीएचडी से TSMC अध्यक्ष तक
