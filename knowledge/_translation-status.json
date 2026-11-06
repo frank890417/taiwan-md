@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-06T21:25:38+08:00",
-    "zhCommitHead": "fcf60ad19",
+    "lastUpdated": "2026-11-06T21:52:17+08:00",
+    "zhCommitHead": "71ec9c853",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -76,17 +76,17 @@
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1108,
+        "fresh": 1109,
         "stale": 30,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1102,
+        "fresh": 1103,
         "stale": 33,
-        "metadata_stale": 23,
+        "metadata_stale": 22,
         "missing": 4,
         "orphan": 0
       },
@@ -2810,8 +2810,8 @@
           "sourceContentHash": "sha256:3b3422dc3e5660c1",
           "sourceBodyHash": "sha256:c40d04f82db2ee2c",
           "translatedAt": "2026-11-06T12:56:32.741355+00:00",
-          "translationLastCommit": "b3912727",
-          "translationLastModified": "2026-09-08T20:39:29+08:00",
+          "translationLastCommit": "71ec9c85",
+          "translationLastModified": "2026-11-06T21:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 27446,
@@ -149179,20 +149179,18 @@
         "pt": {
           "path": "pt/People/koxinga.md",
           "translatedFrom": "People/鄭成功.md",
-          "sourceCommitSha": "a7cf30769",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
-          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translatedAt": "2026-11-06T13:25:45.832245+00:00",
           "translationLastCommit": "3a2cebf9",
           "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20207,
+          "bytes": 20266,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/koxinga.md",
@@ -151339,8 +151337,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-11-06T11:38:55.644818+00:00",
-          "translationLastCommit": "3c20aad3",
-          "translationLastModified": "2026-09-22T00:49:37+08:00",
+          "translationLastCommit": "71ec9c85",
+          "translationLastModified": "2026-11-06T21:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 31181,
@@ -156107,20 +156105,18 @@
         "hi": {
           "path": "hi/People/sixvfx-lu-tzu-yuan.md",
           "translatedFrom": "People/六指淵.md",
-          "sourceCommitSha": "768afaf0f",
-          "sourceContentHash": "sha256:95e79e3879d5de81",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:dd7e1a46eeb41eff",
           "sourceBodyHash": "sha256:37f56e84be16a425",
-          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translatedAt": "2026-11-06T13:36:50.635996+00:00",
           "translationLastCommit": "8752e849",
           "translationLastModified": "2026-09-22T00:56:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 58653,
+          "bytes": 61814,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/sixvfx-lu-tzu-yuan.md",
