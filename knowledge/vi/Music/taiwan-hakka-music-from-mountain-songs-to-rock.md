@@ -19,11 +19,13 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
 readingTime: 10
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:c683269655bc3d87'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:60f8e057f294412c'
 sourceBodyHash: 'sha256:ffa289d8ac5acb30'
-translatedAt: '2026-09-24T17:52:35.136146+00:00'
+translatedAt: '2026-11-07T04:13:35.007480+00:00'
 ---
 
 # Âm nhạc Khách gia Đài Loan: Từ ca núi đến chính trị ngôn ngữ của việc Lâm Sinh Tường từ chối nhận giải
@@ -96,18 +98,18 @@ Mặt khác, kỷ nguyên số cũng mang lại cơ hội mới: nền tảng st
 
 ## Tài liệu tham khảo
 
-[^1]: [Âm nhạc không biên giới Lâm Sinh Tường: Giải thưởng khách ngữ là điều tôi nhất không muốn nhận | Khổ Lao Network](https://www.coolloud.org.tw/node/3817) — Xác nhận động từ chối nhận giải và tuyên bố của Lâm Sinh Tường.
+[^1]: [Âm nhạc không biên giới: Lâm Sinh Tường - Giải thưởng Khách ngữ là điều tôi nhất không muốn nhận | Coolloud](https://www.coolloud.org.tw/node/3817) — Xác nhận động từ chối giải thưởng và tuyên bố của Lâm Sinh Tường.
 
-[^2]: [Trung tâm Nghệ thuật Truyền thống Quốc gia: Tài liệu truyền tập Bát âm Khách gia](https://www.ncfta.gov.tw/) — Giải thích thực hành Bát âm Khách gia lấy kèn suô-na làm chính.
+[^2]: [Trung tâm Nghệ thuật Truyền thống Quốc gia: Tài liệu truyền tập Khách Gia Bát Âm](https://www.ncfta.gov.tw/) — Giải thích thực hành về việc Khách Gia Bát Âm lấy kèn làm nhạc cụ chính.
 
-[^3]: [Cục Điện ảnh và Nhạc phổ biến Bộ Văn hóa: Danh sách đề cử và giải thưởng các屆](https://www.bamid.gov.tw/information_176_64106.html) — Xác nhận 《我等就來唱山歌》 giành giải Nhạc sĩ xuất sắc và Người sản xuất xuất sắc tại Giải Cẩm nang lần thứ 11 (không phải giải Nhóm nhạc xuất sắc).
+[^3]: [Cục Điện ảnh và Nhạc phổ biến Bộ Văn hóa: Danh sách đề cử và giải thưởng các屆](https://www.bamid.gov.tw/information_176_64106.html) — Xác nhận 《Chúng tôi đến hát ca dao》 giành giải Nhạc sĩ xuất sắc và Người sản xuất xuất sắc tại Giải Cẩm Nang lần thứ 11 (không phải giải Nhóm nhạc xuất sắc).
 
-[^4]: [Giải Cẩm nang lần thứ 14 — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Xác nhận Giải Cẩm nang lần thứ 14 năm 2003 lần đầu thiết lập giải Ca sĩ khách ngữ xuất sắc (Diễn唱人); Giải lần thứ 18 năm 2007 đổi tên thành giải Ca sĩ khách ngữ xuất sắc (Ca sĩ).
+[^4]: [Giải Cẩm Nang lần thứ 14 — Wikipedia](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Xác nhận Giải Cẩm Nang lần thứ 14 năm 2003 lần đầu thiết lập giải Ca sĩ Khách ngữ xuất sắc; năm 2007 Giải Cẩm Nang lần thứ 18 đổi tên thành giải Ca sĩ Khách ngữ xuất sắc.
 
-[^5]: [Tạ Vũ Uy — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Xác nhận Tạ Vũ Uy là người giành giải Ca sĩ khách ngữ xuất sắc (Diễn唱人) tại Giải Cẩm nang lần thứ 15 năm 2004; tác phẩm đại diện 《一儕、花樹下》。
+[^5]: [Tạ Vũ Uy — Wikipedia](https://zh.wikipedia.org/zh-tw/謝宇威) — Xác nhận người giành giải Ca sĩ Khách ngữ xuất sắc tại Giải Cẩm Nang lần thứ 15 năm 2004; tác phẩm đại diện 《一儕、花樹下》。
 
-[^6]: [Giải Cẩm nang 18 lần đầu tiên... Lâm Sinh Tường tung 'bom' sốc, hợp chưởng từ chối nhận giải | Giải trí Tự do](https://ent.ltn.com.tw/news/paper/136087) — Quá trình Lâm Sinh Tường từ chối nhận giải tại Giải Cẩm nang lần thứ 18 (2007) và đối tượng nhận tiền thưởng quyên góp.
+[^6]: [Giải Cẩm Nang 18 lần đầu tiên... Lâm Sinh Tường tung 'bom' sốc, hợp tay từ chối nhận giải | Giải trí Tự do](https://ent.ltn.com.tw/news/paper/136087) — Quá trình Lâm Sinh Tường từ chối nhận giải tại Giải Cẩm Nang lần thứ 18 (2007) và đối tượng nhận tiền thưởng quyên góp.
 
-[^7]: [Giải Album khách ngữ xuất sắc (Giải Cẩm nang) — Wikipedia](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\) — ) — Xác nhận La Tư Dung với album 《攬花去》 giành giải Ca sĩ khách ngữ xuất sắc và Album khách ngữ xuất sắc tại Giải Cẩm nang lần thứ 23.
+[^7]: [Giải Album Khách ngữ xuất sắc (Giải Cẩm Nang) — Wikipedia](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Xác nhận La Tư Dung với album 《攬花去》 giành giải Ca sĩ Khách ngữ xuất sắc và Album Khách ngữ xuất sắc tại Giải Cẩm Nang lần thứ 23.
 
-[^8]: [Trang web chính thức Đài truyền hình Khách gia](https://www.hakkatv.org.tw/) — Xác nhận năm 2003 khai sóng, là kênh truyền hình khách ngữ toàn thời gian đầu tiên trên toàn cầu.
+[^8]: [Trang web chính thức Đài truyền hình Khách Gia](https://www.hakkatv.org.tw/) — Xác nhận khai sóng năm 2003, là kênh truyền hình tiếng Khách Gia đầu tiên trên toàn cầu phát sóng 24/7.

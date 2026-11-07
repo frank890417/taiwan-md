@@ -1,15 +1,15 @@
 ---
-title: 'Nghệ sĩ sáng tác bản địa Đài Loan đương đại'
-description: 'Album _Biển_ của Chen Chien-nien dùng tiếng Pinuyumayan và tiếng Hoa; Suming gắn sáng tác với Dulan; ABAO đưa tiếng Paiwan vào nhạc pop. Từ A-mei, Wang Hong-en đến Sangpuy và Ilid Kaolo, bài viết so sánh tác phẩm và cách nghe của họ, đối chiếu giải Album, Ca sĩ, Bài hát của Giải Kim Khúc để hiểu tiếng bản địa, đời sống và kỹ thuật thu âm giao thoa ra sao — không gộp dân tộc thành một âm thanh.'
+title: 'Ca sĩ bản địa đương đại: Từ Trương Huệ Mị «Chị em» đến Abao giành Album of the Year tại Giải Thơ Vàng bằng tiếng Paiwan'
+description: 'Năm 1996, Trương Huệ Mị ra mắt với bài «Chị em», mang giọng hát của người Puyuma vào nhạc phổ thông Hoa ngữ; album «Hải Dương» của Trần Kiến Niên chuyển động giữa tiếng Puyuma và tiếng Hoa, Suming gắn kết sáng tác trở về Dulan, Taitung, Ilid Kaolo nhờ album tiếng Amis giành giải Ca sĩ tiếng bản địa xuất sắc nhất tại Giải Thơ Vàng. Năm 2020, album tiếng Paiwan «kinakaian Ngôn ngữ của mẹ» của Abao giành Album of the Year tại Giải Thơ Vàng. Dân tộc không thể giải thích tác phẩm, mỗi người dùng ngôn ngữ, lời nhạc và biên phối đều khác nhau.'
 date: 2026-03-18
 category: 'Music'
 tags:
   [
     'Ca sĩ bản địa',
-    'nhạc pop',
-    'giao thoa văn hóa',
-    'Giải Kim Khúc',
-    'sáng tác đương đại',
+    'Nhạc phổ thông',
+    'Dung hợp văn hóa',
+    'Giải Thơ Vàng',
+    'Sáng tác đương đại',
   ]
 subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
@@ -18,28 +18,31 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
-relatedDiary:
-  - 2026-09-07-164559-audit-upgrade
+relatedDiary: ['2026-09-07-164559-audit-upgrade']
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 5,981 曝光 60 點擊（1.0%），主查詢「原住民歌手」833、「原住民女歌手」324 曝光，裸主題 title 沒有這個詞；title 改冒號三明治放進「原住民歌手」，description 拿掉「本文比較」'
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:5f5c57d9d0a5af84'
-sourceBodyHash: 'sha256:6ab99bf50b216a39'
-translatedAt: '2026-09-28T08:43:09+08:00'
+sourceCommitSha: '0a79156df'
+sourceContentHash: 'sha256:3b3422dc3e5660c1'
+sourceBodyHash: 'sha256:c40d04f82db2ee2c'
+translatedAt: '2026-11-07T03:51:45.574449+00:00'
 ---
 
-# Nghệ sĩ sáng tác bản địa Đài Loan đương đại
+# Các ca sĩ bản địa đương đại: từ "Chị em" của A-mei đến ABAO giành Album của năm Giải Kim Khúc bằng tiếng Paiwan
 
-Trên bản đồ âm nhạc Đài Loan, các ca sĩ bản địa đã thổi một sức sống rất riêng vào làng nhạc Hoa ngữ, bằng chiều sâu văn hóa và ngôn ngữ âm nhạc đầy sáng tạo của mình. Từ sự xuất hiện đột phá của A-mei (張惠妹) vào thập niên 1990, đến sự trỗi dậy của thế hệ mới như Suming (舒米恩), Sangpuy (桑布伊) sau những năm 2000, âm nhạc bản địa Đài Loan vẫn không ngừng tìm kiếm những cách biểu đạt khác nhau giữa truyền thống và hiện đại.
+Trong bản đồ âm nhạc Đài Loan, các ca sĩ bản địa với nền văn hóa sâu đậm và từ vựng âm nhạc đổi mới, đã thổi vào làng nhạc Hoa ngữ một sức sống độc đáo. Từ thập niên 1990 khi A-mei xuất hiện rực rỡ, đến thập niên 2000 khi Suming, Sangpuy và thế hệ mới khác trỗi dậy, âm nhạc bản địa Đài Loan liên tục khám phá những cách biểu đạt khác nhau giữa truyền thống và hiện đại.
 
-> **Tóm tắt 30 giây**: Bài viết giới thiệu các nghệ sĩ qua nhạc pop, album tiếng bản địa và giáo dục âm nhạc trong bộ lạc, đồng thời đối chiếu tác phẩm với giải thưởng theo danh sách chính thức của Giải Kim Khúc.
+> **Tóm tắt 30 giây**: Bài viết nhận diện các nhạc sĩ qua bài hát phổ biến, album tiếng tộc người và giáo dục âm nhạc bộ lạc, đồng thời đối chiếu tác phẩm và giải thưởng với danh sách chính thức Giải Kim Khúc.
 
-Các ca sĩ bản địa Đài Loan đương đại đã đứng vững trong làng nhạc pop nhờ sáng tác riêng, quá trình luyện tập biểu diễn và trải nghiệm văn hóa của từng người. Những gương mặt tiêu biểu gồm có "nữ hoàng châu Á" A-mei, "thi sĩ dân ca" Chen Chien-nien (陳建年), "vua ca hát thế hệ mới" Suming, "ca sĩ tâm hồn" Sangpuy, và nhiều người khác.
+Các ca sĩ bản địa đương đại Đài Loan nhờ sáng tác, đào tạo biểu diễn và kinh nghiệm văn hóa riêng của mình, đã khẳng định vị thế trong làng nhạc phổ biến. Các đại diện tiêu biểu bao gồm "Nữ hoàng châu Á" A-mei, "Thi nhân dân ca" Chen Chien-nien, "Vua ca sĩ thế hệ mới" Suming, "Người hát linh hồn" Sangpuy, v.v.
 
-Bên cạnh thành công trên thị trường âm nhạc thương mại, họ còn dùng âm nhạc để lưu truyền văn hóa bản địa, tạo nên một "âm thanh bản địa" rất riêng cho nền âm nhạc Đài Loan. Hạng mục Album tiếng bản địa của Giải Kim Khúc mở ra một lối vào để quan sát các đĩa nhạc tiếng bản địa.[^7]
+Ngoài thành công trong âm nhạc thương mại, họ còn truyền thừa văn hóa bản địa qua âm nhạc, tạo nên "giọng điệu bản địa" độc đáo cho âm nhạc Đài Loan. Giải thưởng album tiếng bản địa của Giải Kim Khúc cung cấp một cửa ngõ để quan sát các bản thu tiếng tộc người.[^7]
 
-Những hướng đi âm nhạc song song này — gồm sản xuất thương mại tiếng Hoa, dân ca tiếng bản địa và nhạc điện tử — không tạo thành một trình tự thế hệ cố định; cùng một ca sĩ cũng có thể đi qua nhiều cách sáng tác khác nhau.
+Những tuyến đường âm nhạc phát triển song song này, bao gồm sản xuất thương mại Hoa ngữ, dân ca tiếng tộc người và âm nhạc điện tử, không hình thành một sự thay thế thế hệ cố định; một ca sĩ cũng có thể vượt qua nhiều cách sáng tác khác nhau.
 
-**Từ khóa:** A-mei, Chen Chien-nien, Suming, Sangpuy, Giải Kim Khúc, sáng tác bằng tiếng mẹ đẻ, lưu truyền văn hóa
+**Từ khóa:** A-mei、Chen Chien-nien、Suming、Sangpuy、Giải Kim Khúc、sáng tác bằng tiếng mẹ đẻ、truyền thừa văn hóa
 
 ---
 
