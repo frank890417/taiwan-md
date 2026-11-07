@@ -28,10 +28,10 @@ imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-09T19:34:16+08:00'
+sourceCommitSha: '7636b625c'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-07T04:14:14.367118+00:00'
 ---
 
 # Cultura Alimentar dos Povos Indígenas de Taiwan
@@ -92,17 +92,17 @@ As «lágrimas de amante» ilustram como os indígenas encaram a escassez do ali
 
 ---
 
-## Cinavu, grelhado em lousa, peixe-voador: três arquétipos
+## Cinavu, churrasco em laje de pedra, peixe-voador: três exemplos típicos
 
-As técnicas culinárias dos povos indígenas de Taiwan não são muitas, mas cada uma é precisa. Precisa significa: a relação de correspondência entre ingrediente, ferramenta e estação é resultado de centenas de anos de tentativa e erro, não acaso. Estes três exemplos vêm de terrenos e povos diferentes, mas têm um ponto comum: o acto de cozinhar não é apenas fazer comida, é a performance completa de um sistema de conhecimento.
+As técnicas culinárias dos povos indígenas de Taiwan não são muitas, mas cada uma é precisa. Precisa no sentido de: a relação de correspondência entre ingredientes, ferramentas e estações é o resultado de centenas de anos de tentativa e erro, não por acaso. Estes três exemplos vêm de diferentes terrenos e grupos étnicos, mas têm um ponto em comum: o ato de cozinhar não é apenas fazer comida, mas a encenação completa de um sistema de conhecimento.
 
-O cinavu é alimento festivo que Paiwan e Rukai preparam em casamentos e festivais. Folhas de physalis-falso envolvem carne de porco marinada e painço, atadas com uma segunda camada de folhas de _Alpinia zerumbet_ (getou), cozidas a vapor em cesto de bambu. No momento de abrir, as três camadas de aroma vegetal surgem como ondas. Fazer cinavu requer colaboração de toda a família; a técnica de embrulhar as folhas aprende-se com os mais velhos; a forma de dobrar varia sutilmente entre famílias. Investigadores culturais registam que saber fazer cinavu significa ter aprendido a transmissão alimentar da família, sendo indicador cultural de estar pronto para assumir responsabilidades de adulto.
+O cinavu (cinavu) é um alimento festivo que os povos Paiwan e Rukai preparam em casamentos e cerimônias. Carne de porco curada e milheto são embrulhados em folhas de physalis (alquequenje), e depois amarrados com uma camada de folhas de alpinia (getou), cozidos a vapor em cestos de bambu. No momento em que se abre, as camadas de aroma de três plantas surgem como ondas. Fazer cinavu requer a colaboração de toda a família; a técnica de embrulhar as folhas deve ser aprendida com os mais velhos, e a forma de dobrar as folhas varia sutilmente entre famílias. Pesquisadores culturais registram que saber embrulhar cinavu representa ter aprendido a herança alimentar da família, sendo um indicador cultural para julgar se alguém está pronto para assumir responsabilidades de adulto.
 
-O grelhado em lousa é produto directo da vida nas montanhas dos Paiwan e Rukai. O gnaisse da Cordilheira Central aquece uniformemente e não se parte, sendo chapa natural. A carne de javali e veado caçados grelha-se lentamente na lousa, cebolinha-de-montanha e magau dão o sabor, não servem outros temperos. A relação entre alimento, geologia e especiarias é o resultado de gerações de diálogo com esta cordilheira.
+Sobre quais folhas são usadas no cinavu e como cada grupo e aldeia o chamam, veja 〈[Cinavu (cinavu)](/food/奇拿富)〉.
 
-O peixe-voador dos Tao é outra filosofia oceânica completa. Em Lanyu, março a junho é a estação do peixe-voador; só após o festival de convocação do peixe (_Mavanuo_) se pode sair ao mar, sem pescar em excesso. Os Tao desenvolveram todo um conjunto de métodos de secagem e cura do peixe-voador, e têm regras de consumo por género e idade para diferentes tamanhos: o que os homens comem, o que as mulheres comem, o que os velhos comem, o que as crianças comem; o peixe-voador é distribuído segundo a ordem social. Ecólogos analisam que estas regras contêm lógica rigorosa de gestão de recursos, mantendo o equilíbrio ecológico numa pequena ilha com recursos limitados. Os Tao não usam a palavra «sustentabilidade» para descrever as suas práticas; apenas fazem como os antepassados disseram.
+O churrasco em laje de pedra é um produto direto da vida nas montanhas dos povos Paiwan e Rukai. O gnaisse da Cordilheira Central aquece de forma uniforme e não se fragmenta, servindo como uma chapa de ferro natural. A carne de javali e de cervo caçados são assados lentamente na laje, temperados com cebolinha espinhosa e maqaw (pimenta de montanha), sem necessidade de outros condimentos. A relação entre alimento, geologia e especiarias é o resultado do diálogo que as pessoas locais mantêm com esta cordilheira há gerações.
 
----
+O peixe-voador do povo Tao é outra filosofia oceânica completa. Em Lanyu, de março a junho de cada ano é a temporada do peixe-voador; só se pode ir para o mar após o festival de convocação dos peixes (Mavanuo), e não se pode pescar em excesso. O povo Tao desenvolveu um conjunto completo de métodos de preservação por secagem e cura do peixe-voador, e tem regras de consumo baseadas no gênero para peixes-voadores de diferentes tamanhos: os que os homens comem, os que as mulheres comem, os que os idosos comem, os que as crianças comem; o peixe-voador é distribuído de acordo com a ordem social. Ecólogos analisam que este conjunto de regras tem uma lógica rigorosa de gestão de recursos, mantendo o equilíbrio ecológico em uma ilha de recursos limitados. O povo Tao não usa a palavra "sustentabilidade" para descrever suas próprias práticas; eles apenas fazem como os ancestrais disseram.
 
 ## Duas vias do renascimento: cozinhas tribais e restaurantes de alta gastronomia
 

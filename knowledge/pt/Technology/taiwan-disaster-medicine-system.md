@@ -17,11 +17,13 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: 'a17bb572e'
-sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:496f4a9f790f5602'
 sourceBodyHash: 'sha256:c70ae774b0edc421'
-translatedAt: '2026-09-20T22:48:56.459991+00:00'
+translatedAt: '2026-11-07T04:18:56.997234+00:00'
 ---
 
 ## Abertura: uma decisão de 8 minutos que salva vidas
@@ -185,23 +187,21 @@ No entanto, o sistema enfrenta desafios:
 - Capacidade de medicina de desastres relativamente frágil em áreas remotas
 - Mobilização de pessoal pode ser insuficiente em desastres de grande escala
 
-## Conclusão: a evolução contínua da resiliência institucional
+## Conclusão: A evolução contínua da resiliência institucional
 
-O verdadeiro valor do sistema de medicina de desastres de Taiwan não reside em possuir os equipamentos mais avançados ou a maior mão de obra, mas em ter estabelecido um mecanismo institucional capaz de **estabelecer ordem rapidamente no caos**.
+O verdadeiro valor do sistema de medicina de desastres de Taiwan não reside em possuir os equipamentos mais avançados ou a maior força de trabalho, mas em ter estabelecido um mecanismo institucional capaz de **estabelecer ordem rapidamente no caos**.
 
-Da lição de sangue do terremoto de 921 à operação madura do terremoto de Hualien, ao longo de 25 anos Taiwan provou que um pequeno país também pode construir um sistema de medicina de desastres de nível mundial. A chave está em reconhecer que o desafio central da medicina de desastres não é um problema técnico, mas institucional: quem está de plantão, quem comanda, quem coordena, quem decide.
+Das lições dolorosas do terremoto de 921 à operação madura do terremoto de Hualien, ao longo de 25 anos Taiwan provou que um país pequeno também pode construir um sistema de medicina de desastres de classe mundial. A chave está em reconhecer que o desafio central da medicina de desastres não é um problema técnico, mas um problema institucional: quem está de plantão, quem comanda, quem coordena, quem decide.
 
-Quando o próximo desastre chegar, o que salvará vidas não será o equipamento mais caro, mas aqueles médicos de emergência de plantão 24 horas, e o código institucional por trás deles, testado em dezenas de batalhas reais.
+Quando o próximo desastre chegar, o que salvará vidas não serão os equipamentos mais caros, mas aqueles médicos de emergência de plantão 24 horas, e o código institucional por trás deles que foi testado em dezenas de situações reais.
 
 ---
 
 **Leitura complementar**:
 
-- [Lei Médica](/pt/society/medical-care-act) — A raiz legal da medicina de desastres está no Art. 1 da Lei Médica "distribuição razoável de recursos médicos" e nas normas de classificação institucional; o cenário de desastre deste artigo é a operação real da Lei Médica em condições extremas
-- [Controvérsia sobre medicamentos veterinários em Taiwan](/pt/society/taiwan-animal-drug-controversy) — Humanos têm sistema de emergência, 119, Seguro Saúde, DMAT; emergência veterinária precisa registrar até o oxigênio item a item. A disparidade de recursos entre os dois sistemas é um espelho da ordenação de valores desta ilha
-- [Pandemia e vacinas de COVID-19 em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — As enfermarias dedicadas e a saturação das emergências em maio de 2021 foram o teste contínuo mais longo a que este sistema de medicina de desastres foi submetido
-
----
+- [Lei de Assistência Médica](/pt/society/medical-care-act) — A base legal da medicina de desastres está enraizada no Artigo 1 da Lei de Assistência Médica "distribuição razoável de recursos médicos" e nas normas de classificação institucional; os cenários de desastre neste artigo são a operação prática da Lei de Assistência Médica sob condições extremas
+- [Controvérsia sobre medicamentos veterinários em Taiwan](/pt/society/taiwan-animal-drug-controversy) — Humanos têm sistema de medicina de emergência, 119, seguro saúde, DMAT; emergências veterinárias até precisam registrar oxigênio item por item. A disparidade de recursos entre os dois sistemas é um espelho da ordenação de valores desta ilha
+- [Pandemia de COVID-19 e vacinas em Taiwan](/pt/society/taiwan-covid-pandemic-and-vaccines) — As enfermarias dedicadas e a sobrecarga nas emergências de maio de 2021 foram a vez em que este sistema de medicina de desastres foi testado continuamente por mais tempo
 
 ## Referências
 

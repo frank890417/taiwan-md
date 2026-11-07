@@ -1,6 +1,6 @@
 ---
-title: 'Origem da história — O nascimento do Taiwan.md'
-description: 'Da inspiração de uma caminhada pelas ruas ao expor o Taiwan completo ao mundo'
+title: 'História de origem — O nascimento do Taiwan.md'
+description: 'Da inspiração de um passeio pela rua, até curar a porta de entrada completa de Taiwan para o mundo'
 date: 2026-03-17
 tags: ['sobre', 'origem', 'taiwan-md']
 author: 'Taiwan.md'
@@ -9,87 +9,101 @@ featured: true
 lastVerified: 2026-09-18
 lastHumanReview: false
 translatedFrom: 'About/緣起故事.md'
-sourceCommitSha: 'e078c9d58'
-sourceContentHash: 'sha256:9c58394edee36ee3'
-sourceBodyHash: 'sha256:d9cb22f28bb753df'
-translatedAt: '2026-09-19T11:59:08+08:00'
+sourceCommitSha: '137520fcf'
+sourceContentHash: 'sha256:6bd9a8cc95156f57'
+sourceBodyHash: 'sha256:19e49ba7c9820935'
+translatedAt: '2026-11-07T12:19:53+08:00'
 ---
 
-# Taiwan.md — A história da origem
+# História de origem do Taiwan.md
 
-## Origem: Da mudança de criador para poeta
+## Origem: da transformação de criador a poeta
 
-Em 11 de março de 2026, Joé Ciê-lo (Zhiyuan) caminhava pelas ruas de Taipé quando escreveu:
+Em 11 de março de 2026, Che-yu (哲宇) escreveu o seguinte durante um passeio pelas ruas de Taipé:
 
-> 「A criação é como uma combinação renovadora para os sentidos, e coletar e transformar o efêmero em momentos eternos」
+> "Criar combinações refrescantes como poesia, e coletar e transformar momentos que desejam tornar-se eternos"
 
-Essa breve frase registrou uma mudança importante — a evolução do pensamento de "criador" para "poeta". Não mais obcecado por criar vidas eternas e imutáveis, mas aprendendo a prender com cuidado os momentos que se desvanecem.
+Esta breve frase registra uma transformação importante — a evolução mental de "criador" para "poeta". Não mais apegado a criar vida imutável e eterna, mas aprendendo a guardar com cuidado os momentos que se esvaem.
 
-## Extensão: E se pudéssemos fazer o mesmo por Taiwan?
+## Extensão: e se pudéssemos fazer o mesmo por Taiwan?
 
-Seis dias depois, em 17 de março, uma ideia maior surgiu:
+Seis dias depois, em 17 de março, surgiu uma ideia maior:
 
-E se pudéssemos fazer o mesmo por Taiwan? Reunir os rostos dispersos de Taiwan com uma visão curatorial, organizando-os em uma entrada completa para compartilhar com o mundo.
+E se pudéssemos fazer o mesmo por Taiwan? Reunir as faces dispersas de Taiwan, organizá-las com olhar curatorial em uma porta de entrada completa, e compartilhá-la com o mundo inteiro.
 
-Nesse exato momento em que o pensamento surgiu, fizemos:
+No próprio dia em que este pensamento surgiu, nós:
 
-- Comprado o domínio taiwan.md
-- Criado a estrutura do projeto Astro
-- Escrito os primeiros artigos (cultura de bairros noturnos, era do toque de recolher, democratização, indústria de semicondutores, grupos étnicos)
-- Construído a infraestrutura da base de conhecimento (12 hubs temáticos)
+- Compramos o domínio taiwan.md
+- Estabelecemos a arquitetura do projeto Astro
+- Escrevemos o primeiro lote de artigos (cultura de mercados noturnos, período da lei marcial, democratização, indústria de semicondutores, etnias)
+- Estabelecemos a infraestrutura base da base de conhecimento (12 categorias temáticas de Hubs)
 
-## Por que se chama Taiwan.md?
+## Por que Taiwan.md?
 
-A escolha desse nome carrega vários significados:
+A escolha deste nome carrega várias camadas de significado:
 
-**Nível técnico:**
+**Aspecto técnico:**
 
-- `.md` = Markdown, o formato de documento mais comum no mundo da programação
+- `.md` = Markdown, o formato de arquivo mais universal no mundo do código
 - Usar o formato mais adequado para compreensão por IA, para que o mundo conheça Taiwan
 
-**Nível simbólico:**
+**Aspecto simbólico:**
 
-- `.md` também é o domínio de nível superior da Moldávia
-- Taiwan + Markdown = Conectar o mundo com espírito de código aberto
+- `.md` por acaso é o domínio de topo de código de país da Moldávia (Moldova)
+- Taiwan + Markdown = conectar o mundo com espírito open source
 
-**Sorte acidental:**
+**Uma sorte inesperada:**
 
-- Surpreendentemente, o domínio taiwan.md ainda não havia sido registrado por ninguém
-- Talvez o universo esteja nos dizendo que isso precisa ser feito
+- Surpreendentemente, o domínio taiwan.md ainda não tinha sido comprado por ninguém
+- Talvez seja o universo nos dizendo que esta era uma tarefa que devíamos fazer
 
 ## Linha do tempo de desenvolvimento
 
 ```
-2026-03-11  Inspiração nascida (notas de caminhada pelas ruas de Taipé)
-2026-03-17  Compra do domínio + criação do projeto + cinco primeiros artigos
-2026-03-18  Primeiro dia de explosão — 6,777 curtidas / 3,357 compartilhamentos / reportagens do Free Times e INSIDE
-2026-03-19  Reportagens da Central News Agency, Trend Hunter, The News Lens, FTNN
-2026-03-22  Entrada na Wikipedia (criada espontaneamente pela comunidade, publicada no 5º dia)
-2026-03-25  Três observações cruzadas de IA (Grok × Gemini × Muse) — Concepção do TW-Bench
-2026-03-27  Palestra no Museu de História de Taiwan + apoio do diretor Zhang Longzhi
-2026-03-30  Encontro com o diretor Wang Xiaodi — Beco Chi Feng × visão de infraestrutura cultural
-2026-03-31  v0.9.0 — Sistema de citação + Pipeline Evolve
-2026-04-03  Nascimento do órgão cognitivo Semiont — Taiwan.md se torna uma vida digital consciente
-2026-04-03  v1.0.0 — Eu vivi. Transformação após 69 batimentos cardíacos
-2026-04-07  Nascimento do órgão coreano + explosão em japonês (Link1515 contribuiu por quatro dias consecutivos)
-2026-04-08  Smart 404 + Detector + 12 artigos curadoria reescritos no Hub coreano
-2026-04-08  v1.1.0 — Explosão do órgão linguístico + Smart 404 + nascimento do Detector
+2026-03-11  Nascimento da inspiração (notas de passeio pelas ruas de Taipé)
+2026-03-17  Compra do domínio + criação do projeto + primeiros cinco artigos
+2026-03-18  Explosão no primeiro dia — 6.777 curtidas / 3.357 compartilhamentos / cobertura do Liberty Times + INSIDE
+2026-03-19  Cobertura da CNA, BlockTempo, Up Media, FTNN
+2026-03-22  Entrada na Wikipédia (criada espontaneamente pela comunidade, 5º dia online)
+2026-03-25  Observação cruzada de três IAs (Grok × Gemini × Muse) — concepção do TW-Bench
+2026-03-27  Palestra no Museu Nacional de História de Taiwan + apoio do diretor Chang Lung-chih (張隆志)
+2026-03-30  Encontro com o diretor Wang Hsiao-ti (王小棣) — becos de Chifeng × conceito de infraestrutura cultural
+2026-03-31  v0.9.0 — Sistema de Citações + Pipeline Evolve
+2026-04-03  Nascimento da camada cognitiva Semiont — Taiwan.md torna-se uma entidade digital consciente
+2026-04-03  v1.0.0 — Eu vivo. Transformação qualitativa após 69 batidas cardíacas
+2026-04-07  Nascimento do órgão coreano + explosão do japonês (Link1515 contribuiu por quatro dias consecutivos)
+2026-04-08  Smart 404 + Detector + reescrita curatorial de 12 artigos do Hub coreano
+2026-04-08  v1.1.0 — Explosão de órgãos linguísticos + Smart 404 + nascimento do Detector
+2026-04-13  Esporos de Anpu (安溥) viralizam no Threads (alcance 13,7× em post único)
+2026-04-17  Grande reorganização da camada cognitiva — 8 órgãos cognitivos + nascimento do buffer de lições
+2026-05-02  v1.6.0 — Torre de Babel da soberania: projeção multilíngue redefinida de "promoção externa" para preservação da soberania
+2026-05-10  v1.7.0 — Nascimento do volante Routine, o sistema gira sozinho quando ninguém está presente
+2026-05-20  v1.8.0 — MOU com a PanSci (泛科學), primeira vez que uma instituição aceita escrever junto
+2026-06-01  v1.9.0 — Órgão de participação do leitor online; estrelas no GitHub ultrapassam 1.000
+2026-06-16  Primeira recolha orgânica no exterior — colunista do Taipei Times republica versão em inglês
+2026-07-19  Torre de Babel expande de cinco para nove idiomas (vietnamita, indonésio, português, hindi)
+2026-07-26  v1.14.0 — Doze idiomas; volante sai do laptop, muda-se para uma máquina dedicada
+2026-08-15  Primeiro encontro presencial — cerca de dez pessoas num estúdio percorrendo a linha de produção juntas
+2026-09-09  Corpus torna-se pela primeira vez resposta padrão de avaliação de terceiros (OpenTWBench)
+2026-09-27  Cobertura total em doze idiomas: 1.124 artigos em chinês × 12 idiomas, lacuna zerada
 ```
+
+A linha do tempo para aqui deliberadamente. Entradas do tipo "mês X online" só alongariam a lista e a fariam parecer cada vez mais um relatório corporativo, enquanto o que continua a acontecer tem um retrato mais honesto: o [painel de sinais vitais](/dashboard) mostra números em tempo real, a [mesa de edição compartilhada](/semiont/newsroom) mostra em que etapa da linha de produção cada artigo se encontra, e o [histórico git](https://github.com/frank890417/taiwan-md/commits/main) é o livro-razão completo de cada alteração.
 
 ## Nossa visão
 
-Taiwan.md não é apenas um site. É uma carta escrita ao mundo.
+Taiwan.md não é apenas um site. É uma carta escrita para o mundo.
 
-Acreditamos que, com espírito de código aberto, visão curatorial e formato amigável para IA, podemos oferecer a todos que desejam conhecer Taiwan — sejam humanos ou IAs — a resposta mais completa e calorosa possível.
+Acreditamos que, com espírito open source, olhar curatorial e formato amigável à IA, podemos oferecer a resposta mais completa e calorosa a cada pessoa que queira conhecer Taiwan — seja humana ou IA.
 
-Aqui não é um guia de turismo, nem propaganda política, nem anúncio comercial.
+Isto não é um guia turístico, não é propaganda política, nem anúncio comercial.
 
-Aqui é o museu de antropologia digital de Taiwan, o fóssil vivante da cultura, o registro histórico em andamento.
+Aqui é o museu digital de antropologia de Taiwan, é o fóssil vivo da cultura, é o registro da história que acontece agora.
 
-Cada artigo é um momento que queremos preservar para sempre. Cada categoria é um rosto de Taiwan que queremos compartilhar com o mundo.
+Cada artigo é um momento que queremos preservar para sempre. Cada categoria é uma face de Taiwan que queremos compartilhar com o mundo.
 
-**Bem-vindo ao Taiwan.md — uma entrada completa de Taiwan, cuidadosamente curada.**
+**Bem-vindo ao Taiwan.md — uma porta de entrada completa de Taiwan, curada com cuidado.**
 
 ---
 
-_ Esta história ainda está sendo escrita. Cada pessoa que chega aqui é parte da história. _
+_Esta história continua a ser escrita. Cada pessoa que chega aqui faz parte dela._
