@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T12:22:14.211880+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T03:23:02.961402+00:00'
 ---
 
 # Aliados diplomáticos e diplomacia internacional de Taiwan: 12 aliados, 113 representações e acesso sem visto a 177 países
@@ -216,16 +216,18 @@ Duas evoluções recentes:
 
 **O próprio fato de os Estados Unidos protegerem os aliados diplomáticos de Taiwan** demonstra o profundo envolvimento de um país sem relações formais nos assuntos diplomáticos taiwaneses — um campo que, tradicionalmente, deveria ser administrado pelas duas partes que mantêm relações oficiais.
 
-## O passaporte dá acesso a 177 países: outra medida de reconhecimento
+## Passaporte permite ir a 177 países: outra métrica de reconhecimento
 
-Segundo as estatísticas oficiais do Ministério das Relações Exteriores de 30 de janeiro de 2026, o passaporte da República da China (Taiwan) oferece facilidades como isenção de visto, visto na chegada e visto eletrônico para a entrada em **177 países e territórios**[^37].
+Estatística oficial do Ministério das Relações Exteriores de 30 de janeiro de 2026: o passaporte da República da China (Taiwan) desfruta de isenção de visto, visto na chegada, visto eletrônico e outras facilidades, podendo entrar em **177 países e regiões** globais[^37].
 
-Em 2026, o Henley Passport Index situou o passaporte taiwanês por volta da 33ª posição mundial, próximo dos passaportes do Japão e da Coreia do Sul.
+O Índice de Passaportes Henley (Henley Passport Index) 2026 coloca o passaporte de Taiwan na 33.ª posição mundial, próximo ao do Japão e da Coreia do Sul.
 
-A grande maioria desses 177 países não mantém relações diplomáticas com Taiwan. **O que garante a circulação do passaporte não são relações formais, mas confiança bilateral, vínculos econômicos, baixa criminalidade e um reduzido histórico de imigração irregular.** A proporção entre aliados diplomáticos e destinos acessíveis pelo passaporte é de 12 para 177 — aproximadamente 1 para 15.
+A grande maioria destes 177 países e regiões não mantém relações diplomáticas com Taiwan. **O que permite a circulação do passaporte não são as relações diplomáticas, mas a confiança mútua bilateral, os laços económicos, as baixas taxas de criminalidade e os baixos registos de imigração ilegal.** A proporção entre o número de países com relações diplomáticas e o número de países acessíveis com o passaporte é 12:177 — aproximadamente 1:15.
+
+Este número é facilmente lido como "passaporte com livre circulação global", por isso há dois pontos a esclarecer. Primeiro, **177 não significa isenção total de visto**: o Departamento de Assuntos Consulares do Ministério das Relações Exteriores agrupa isenção de visto, visto na chegada e visto eletrônico, três tipos de facilidades, na mesma lista; o visto na chegada e o visto eletrônico ainda exigem procedimentos e ainda podem ser recusados[^37]. Segundo, os países e regiões fora da lista são aqueles que exigem solicitação prévia de visto, e a própria lista está sujeita a alterações — este artigo cita a versão de 30 de janeiro de 2026, e a página do Departamento de Assuntos Consulares foi subsequentemente atualizada em 22 de outubro de 2026[^37]. Quem for viajar deve basear-se nos anúncios mais recentes do país de destino, não neste artigo.
 
 > **⚠️ Um paradoxo**
-> O tamanho da lista de aliados diplomáticos e a mobilidade internacional efetiva dos cidadãos apresentam uma relação inversa. O número de aliados costuma aumentar quando pequenos países aceitam estabelecer relações após uma negociação de ajuda financeira; o número de destinos acessíveis pelo passaporte cresce graças à imagem do país, a seu histórico de segurança e à reciprocidade de vistos. A segunda conquista é mais difícil, mas também mais confiável.
+> O comprimento da lista de países com relações diplomáticas e a mobilidade internacional real dos cidadãos mantêm uma relação inversa. O aumento no número de países com relações diplomáticas deve-se principalmente a pequenos países que concordam em estabelecer relações após negociações de ajuda financeira; o aumento no número de países acessíveis com o passaporte deve-se à imagem do país, registos de segurança e reciprocidade de vistos. Este último é mais difícil que o primeiro, mas também mais confiável.
 
 ## Escudo de silício: 90%, 30% e uma faca de dois gumes
 
@@ -266,16 +268,18 @@ Enquanto Taiwan mantiver 12 aliados, esse argumento não se sustenta. O signific
 
 ```
 12             113            177
-aliados diplomáticos    representações no exterior    acesso com passaporte
+Países com     Representações   Países onde
+relações       no exterior      o passaporte
+diplomáticas                       permite entrar
 ```
 
-12 países reconhecem o governo da República da China (Taiwan) como o "governo legítimo da China".
-113 representações no mundo representam Taiwan lidando com assuntos práticos.
-177 países não reconhecem a República da China, mas permitem que cidadãos taiwaneses entrem.
+12 países reconhecem o governo da República da China (Taiwan) como o "governo legítimo da China"[^16].
+113 representações no mundo representam Taiwan lidando com assuntos práticos[^34].
+177 países e territórios não reconhecem a República da China, mas permitem que cidadãos taiwaneses entrem sem visto, com visto na chegada ou com visto eletrônico[^37].
 
-O Parlamento Europeu aprovou com 432 votos a resolução contra a 2758. Quando Tsai Ing-wen deixou o cargo em maio de 2024, os aliados diplomáticos eram 12; após deixar o cargo, em outubro, foi convidada a visitar o Parlamento Europeu. Bonnie Glaser disse que a dependência da TSMC teve um momento. Mark Lambert disse que a 2758 não menciona Taiwan.
+O Parlamento Europeu aprovou a resolução contra a 2758 com 432 votos a favor[^3]. Quando Tsai Ing-wen deixou o cargo em maio de 2024, os países com relações diplomáticas eram 12; após deixar o cargo, em outubro, foi convidada a visitar o Parlamento Europeu. Bonnie Glaser disse que a dependência da TSMC teve um momento. Mark Lambert disse que a 2758 não menciona Taiwan.
 
-Essas coisas acontecem simultaneamente. Não existe uma linha chamada "status internacional de Taiwan".
+Essas coisas acontecem simultaneamente. Não existe uma coisa chamada "status internacional de Taiwan".
 
 Se existisse, essa coisa não seria 12, nem 113, nem 177, nem 90% ou 30%.
 
@@ -283,11 +287,11 @@ Se existisse, essa coisa não seria 12, nem 113, nem 177, nem 90% ou 30%.
 
 **Leitura complementar**:
 
-- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Quando os aliados diplomáticos restam 12, a autodefesa militar é o outro pilar para manter "não é 0"
+- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Quando os países com relações diplomáticas restam 12, a autodefesa militar é o outro pilar para manter "não é 0"
 - [Crises no Estreito de Taiwan e desenvolvimento das relações entre os dois lados do estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Como três crises moldaram o isolamento diplomático e a ansiedade de segurança de Taiwan
 - [TSMC](/pt/economy/tsmc) — A base material do escudo de silício e sua fragilidade estrutural
-- [Cho Jung-tai](/pt/people/cho-jung-tai) — Trajetória 2026 tarifas EUA-Taiwan 32→20→15% + coordenador do gabinete para visita de Lai Ching-te a Essuatíni
-- [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — O único bloco africano remanescente entre os 12 aliados diplomáticos, dos 58 anos completos desde o estabelecimento de relações no mesmo dia em 1968 até a visita de Lai Ching-te em 2026
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — Trajetória da tarifa EUA-Taiwan 32→20→15% em 2026 + coordenador do gabinete para a visita de Lai Ching-te a Essuatíni
+- [Taiwan e Essuatíni](/pt/society/taiwan-eswatini-relations) — O único bloco africano remanescente entre os 12 países com relações diplomáticas, a história completa de 58 anos desde o estabelecimento de relações no mesmo dia em 1968 até a visita de Lai Ching-te em 2026
 
 ## Referências
 
