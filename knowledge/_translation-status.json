@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-07T12:29:53+08:00",
-    "zhCommitHead": "82fa21ce1",
+    "lastUpdated": "2026-11-07T12:31:34+08:00",
+    "zhCommitHead": "40fbca40c",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1111,
-        "stale": 33,
+        "fresh": 1112,
+        "stale": 32,
         "metadata_stale": 14,
         "missing": 4,
         "orphan": 0
@@ -83263,8 +83263,8 @@
           "sourceContentHash": "sha256:6bd9a8cc95156f57",
           "sourceBodyHash": "sha256:19e49ba7c9820935",
           "translatedAt": "2026-11-07T12:19:36+08:00",
-          "translationLastCommit": "7918f808",
-          "translationLastModified": "2026-09-19T21:44:00+08:00",
+          "translationLastCommit": "40fbca40",
+          "translationLastModified": "2026-11-07T12:29:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 6930,
@@ -83373,20 +83373,18 @@
         "hi": {
           "path": "hi/About/origin-story.md",
           "translatedFrom": "About/緣起故事.md",
-          "sourceCommitSha": "e078c9d58",
-          "sourceContentHash": "sha256:9c58394edee36ee3",
-          "sourceBodyHash": "sha256:d9cb22f28bb753df",
-          "translatedAt": "2026-09-19T11:59:09+08:00",
+          "sourceCommitSha": "137520fcf",
+          "sourceContentHash": "sha256:6bd9a8cc95156f57",
+          "sourceBodyHash": "sha256:19e49ba7c9820935",
+          "translatedAt": "2026-11-07T12:19:57+08:00",
           "translationLastCommit": "a1355f5a",
           "translationLastModified": "2026-10-31T08:41:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8764,
+          "bytes": 12037,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/About/origin-story.md",
@@ -151189,8 +151187,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-11-07T02:57:56.709556+00:00",
-          "translationLastCommit": "56c222c9",
-          "translationLastModified": "2026-09-26T19:05:44+08:00",
+          "translationLastCommit": "40fbca40",
+          "translationLastModified": "2026-11-07T12:29:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 32085,
