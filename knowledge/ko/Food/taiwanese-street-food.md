@@ -24,10 +24,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-23T22:11:48+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T00:52:20.538955+00:00'
 ---
 
 # 타이완 길거리 음식 (台灣小吃)
@@ -185,8 +185,9 @@ translatedAt: '2026-09-23T22:11:48+08:00'
 
 ## 관련 주제
 
-- [야시장 문화](/ko/food/night-market-culture) — 사회적 장소로서의 야시장에 대한 심층 분석
-- [펄 밀크티](/ko/food/bubble-tea) — 액체 길거리 음식의 글로벌 패권
-- [타이완 루로우판(滷肉飯)](/ko/food/braised-pork-rice) — 한 그릇의 루로우판에 담긴 집단 기억
-- [하카 식문화](/ko/food/hakka-food-culture) — 하카 공동체의 식생활 지혜
-- [타이완 신주민 음식 융합](/ko/food/taiwanese-new-immigrant-culinary-fusion) — 다음 물결의 식재료 혼혈 현상
+- [야시장 문화](/ko/food/night-market-culture) — 야시장을 사회 장으로서 심층 분석
+- [펄 밀크티](/ko/food/bubble-tea) — 액체 간식의 세계적 패권
+- [고구마볼](/ko/food/sweet-potato-balls) — 중정교 아래의 기원 이야기, 그리고 노점상이 기름솥 앞에서 튀겨낸 속 빈 고구마볼
+- [타이완 루로우판](/ko/food/braised-pork-rice) — 한 그릇 루로우판의 민족 기억
+- [하카 음식 문화](/ko/food/hakka-food-culture) — 하카 민족의 음식 지혜
+- [타이완 신주민 미식 융합](/ko/food/taiwanese-new-immigrant-culinary-fusion) — 다음 물결의 음식 혼혈이 일어나고 있다
