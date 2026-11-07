@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T11:56:33.062454+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T03:01:51.388410+00:00'
 ---
 
 # Aliados diplomáticos y relaciones internacionales de Taiwán: 12 aliados, 113 oficinas, 177 países con exención de visado
@@ -216,16 +216,18 @@ Dos evoluciones recientes:
 
 **El hecho mismo de que Estados Unidos proteja los aliados diplomáticos de Taiwán** es un indicador de la profunda implicación de un país sin relaciones formales en los asuntos diplomáticos taiwaneses —tradicionalmente, los asuntos de aliados diplomáticos deberían ser gestionados por las partes que mantienen relaciones.
 
-## El pasaporte permite viajar a 177 países: otra medida del reconocimiento
+## El pasaporte permite entrar a 177 países: otra medida del reconocimiento
 
-Según estadísticas oficiales del Ministerio de Relaciones Exteriores del 30 de enero de 2026, el pasaporte de la República de China goza de exención de visado, visado a la llegada, visado electrónico y otras facilidades, permitiendo la entrada a **177 países y territorios** en todo el mundo[^37].
+Según las estadísticas oficiales del Ministerio de Relaciones Exteriores del 30 de enero de 2026, el pasaporte de la República de China (Taiwán) goza de facilidades como exención de visado, visado a la llegada y visado electrónico, permitiendo el ingreso a **177 países y territorios** en todo el mundo[^37].
 
-El índice de pasaportes Henley (Henley Passport Index) de 2026 sitúa al pasaporte taiwanés en torno al puesto 33 a nivel mundial, en una posición similar a Japón y Corea del Sur.
+El Índice de Pasaportes Henley 2026 sitúa al pasaporte taiwanés alrededor del puesto 33 a nivel mundial, similar a Japón y Corea del Sur.
 
-La gran mayoría de esos 177 países no tienen relaciones diplomáticas con Taiwán. **Lo que permite la libre circulación del pasaporte no son las relaciones diplomáticas, sino la confianza bilateral, los vínculos económicos, la baja tasa de criminalidad y el bajo historial de inmigración irregular.** La proporción entre el número de aliados diplomáticos y los países accesibles con el pasaporte es de 12:177 —aproximadamente 1:15.
+La gran mayoría de estos 177 países y territorios no mantienen relaciones diplomáticas con Taiwán. **Lo que permite la circulación del pasaporte no son las relaciones diplomáticas, sino la confianza bilateral, los vínculos económicos, las bajas tasas de criminalidad y los bajos registros de inmigración ilegal.** La proporción entre el número de países con relaciones diplomáticas y el número de países a los que se puede viajar con el pasaporte es de 12:177, aproximadamente 1:15.
+
+Esta cifra se lee fácilmente como «el pasaporte circula libremente por el mundo», por lo que hay dos cosas que hay que aclarar. Primero, **177 no significa que todos sean libre visado**: la Oficina de Asuntos Consulares del Ministerio de Relaciones Exteriores agrupa en una misma lista tres tipos de facilidades —exención de visado, visado a la llegada y visado electrónico—; el visado a la llegada y el visado electrónico siguen requiriendo trámites y pueden ser denegados[^37]. Segundo, los países y territorios fuera de la lista son precisamente aquellos que requieren solicitar visado con antelación, y esta propia lista está sujeta a cambios —el presente artículo cita la versión del 30 de enero de 2026, y la Oficina de Asuntos Consulares actualizó dicha página posteriormente el 22 de octubre de 2026[^37]. Quienes vayan a viajar deben ceñirse a los anuncios más recientes del país de destino, no a este artículo.
 
 > **⚠️ Una paradoja**
-> La longitud de la lista de aliados diplomáticos y la movilidad internacional real de los ciudadanos guardan una relación inversa. El aumento del número de aliados se debe en gran medida a pequeños países que aceptan establecer relaciones a cambio de ayuda financiera; el aumento de países accesibles con el pasaporte se debe a la imagen nacional, el historial de seguridad y la reciprocidad de visados. Lo segundo es más difícil que lo primero, pero también más fiable.
+> La longitud de la lista de países con relaciones diplomáticas y la movilidad internacional real de los ciudadanos guardan una relación inversa. El aumento de países con relaciones diplomáticas se debe principalmente a que pequeños países aceptan establecer lazos a cambio de ayuda financiera; el aumento de países accesibles con el pasaporte se debe a la imagen nacional, los registros de seguridad y la reciprocidad en materia de visados. Lo segundo es más difícil que lo primero, pero también más fiable.
 
 ## El escudo de silicio: 90 %, 30 %, doble filo
 
@@ -262,33 +264,32 @@ Pero en el plano del derecho internacional hay cuatro riesgos reales:
 
 Mantener 12 aliados diplomáticos hace que ese argumento no se sostenga. Por lo tanto, el valor de esos 12 países en sí mismo es limitado; su valor reside en que **no son 0**.
 
-## Tres números
+## Tres cifras
 
 ```
 12             113            177
-Aliados        Misiones       Países que
-diplomáticos   en el exterior pasaportes permiten
+Aliados diplomáticos   Misiones en el exterior   Destinos accesibles con pasaporte
 ```
 
-12 países reconocen al gobierno de la República de China (Taiwán) como «el gobierno legítimo de China».
-113 misiones en el exterior representan a Taiwán y gestionan asuntos prácticos en todo el mundo.
-177 países no reconocen a la República de China, pero permiten la entrada de ciudadanos taiwaneses.
+12 países reconocen al gobierno de la República de China (Taiwán) como el «gobierno legítimo de China»[^16].
+113 misiones en el exterior representan a Taiwán gestionando asuntos prácticos[^34].
+177 países y territorios no reconocen a la República de China, pero permiten a la ciudadanía taiwanesa entrar sin visado, con visado a la llegada o con visado electrónico[^37].
 
-El Parlamento Europeo aprobó la resolución 2758 con 432 votos a favor y 275 contra. Cuando Tsai Ing-wen dejó el cargo en mayo de 2024, había 12 aliados diplomáticos; tras su salida, fue invitada a visitar el Parlamento Europeo en octubre. Bonnie Glaser mencionó que la dependencia de TSMC tuvo un momento crítico. Mark Lambert afirmó que la resolución 2758 no menciona a Taiwán.
+El Parlamento Europeo aprobó con 432 votos a favor una resolución contra la 2758[^3]. Cuando Tsai Ing-wen dejó el cargo en mayo de 2024, los aliados diplomáticos eran 12; en octubre, tras dejar el cargo, fue invitada a visitar el Parlamento Europeo. Bonnie Glaser ha dicho que la dependencia de TSMC tuvo un momento crítico. Mark Lambert ha dicho que la 2758 no menciona a Taiwán.
 
-Todas estas cosas están sucediendo simultáneamente. No existe algo llamado «el estatus internacional de Taiwán».
+Estas cosas ocurren simultáneamente. No existe una sola línea llamada «estatus internacional de Taiwán».
 
-Si existiera, ese algo no sería el 12, ni el 113, ni el 177, ni un 90 % o un 30 %.
+Si existiera, esa cosa no sería 12, ni 113, ni 177, ni 90 % ni 30 %.
 
-Es la distancia entre esos números.
+Es la distancia entre estos números.
 
-**Lecturas adicionales**:
+**Lecturas complementarias**:
 
-- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Cuando solo quedan 12 aliados diplomáticos, la autodefensa militar es otro pilar para mantener el «no ser 0».
-- [La crisis del estrecho y el desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Cómo tres crisis han moldeado el aislamiento diplomático y la ansiedad de seguridad en Taiwán.
-- [TSMC](/es/economy/tsmc) — La base material del escudo de silicio y su vulnerabilidad estructural.
-- [Zhuo Rongtai](/es/people/cho-jung-tai) — El coordinador de gabinete para la trayectoria de los aranceles EE. UU.-Taiwán 2026 (del 32 % al 20 % y luego al 15 %) + la visita de Lai Ching-te a Eswatini.
-- [Taiwán y Eswatini](/es/society/taiwan-eswatini-relations) — De los 12 aliados diplomáticos, África solo conserva uno; la historia completa de 58 años, desde el establecimiento de relaciones en la misma fecha en 1968 hasta la visita de Lai Ching-te en 2026.
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Cuando los aliados diplomáticos se reducen a 12, la autodefensa militar es el otro pilar para mantener el «no ser 0»
+- [Crisis del estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Cómo tres crisis moldearon el aislamiento diplomático y la ansiedad de seguridad de Taiwán
+- [TSMC](/es/economy/tsmc) — La base material del escudo de silicio y su fragilidad estructural
+- [Cho Jung-tai](/es/people/cho-jung-tai) — Trayectoria 2026 aranceles EE. UU.-Taiwán 32→20→15 % + coordinador del gabinete para la visita de Lai Ching-te a Esuatini
+- [Taiwán y Esuatini](/es/society/taiwan-eswatini-relations) — El único país africano entre los 12 aliados diplomáticos, 58 años de historia completa desde el establecimiento de relaciones el mismo día en 1968 hasta la visita de Lai Ching-te en 2026
 
 ## Referencias
 
