@@ -2033,6 +2033,20 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
 - **verification_count**: 1
 - **severity**: structural（它長在 HG13 這道保護讀者的閘門上，而失效方式是把一個真實的人報成不存在）
 
+### 2026-11-07 twmd-maintainer-daily — 閘門亮的那一行，病灶在它底下兩層
+
+- **pattern**: `gate-flags-a-line-whose-real-defect-is-two-layers-below-it`
+- **原則**：格式閘門報的是格式，而它指到的那一行可能同時住著事實錯誤。照字面把它當格式修掉（本例：把裸中文片名塞進括號）會讓閘門轉綠、讓底下的事實錯誤原封不動上站。**閘門亮燈的位置與病灶的位置只差一行，而那一行要人真的讀下去才看得見。** 這是 [#82](REFLEXES.md) proxy signal 的鏡像：不是訊號量到替身，是訊號量對了、但它量的那一維不是最貴的那一維。
+- **觸發**：2026-11-07 09:00 maintainer 審 PR #1968（aminzai 印尼語〈金馬獎〉，92 腳註）。所有機械尺全過：`verify-translation.py` 19/19、`article-health --profile=ci-deploy` hard=0 warn=0、geo／person／script 三把主權保真尺全清。`cjk-residue-check` 只亮一行（`[^74]` 的裸中文片名）。讀那一行發現它本身是錯的，往同一段讀下去加第三方查證，五個原子不成立：鍾雪瑩→不存在的「Charlene Jin Lei」（實為 Chung Suet-ying）、《看我今天怎麼說》→「Twilight's Kiss／Lover's Lane」兩個無關片名（實為 The Way We Talk）、《時代革命》→*Blue Island*（那是《憂鬱之島》，而該段論點正是「哪些香港電影只有台灣放得了」，片名指錯片把論點指錯）、周冠威→「Chan Kin-wai」（實為 Kiwi Chow）、《眾生相》→*The Palace on the Sea*（國際場合用 Queerpanorama）→ [memory/2026-11-07-092255-twmd-maintainer-daily.md](memory/2026-11-07-092255-twmd-maintainer-daily.md)
+- **同日對稱 instance（作者是我）**：同一班修 issue #1971 時補〈台灣邦交國與國際外交〉收尾段的腳註，第一版把「113 個館處」指到 `[^29]`——形式完全合格、沒有任何閘門會擋，而 `[^29]` 講的是 Mark Lambert 與聯大 2758，不是館處（正確是 `[^34]`）。逐條打開腳註核對才攔下。**所以這一天兩次事實錯誤，一次投稿者的一次我的，兩次都穿著合格的形式，差別只在有沒有人逐條打開來對。**
+- **人名幻覺第二型的再次驗證**：五個錯裡四個是「模型不認識這個人／這部片，於是填一個讀起來合理的名字」，而同一篇上一段的東南亞名單（Yeo Yann Yann／Chong Keat Aun／Wu Kang-ren／Chen Shu-fang／Lin Pin-tong）全部正確。缺口不隨翻譯品質分布，只落在模型得猜的那幾格——承 2026-07-25 ar 批次「人名幻覺第二型是填空不是混淆」（MEMORY §神經迴路），本例把它從人名擴到**作品名**，且證明 `person-fidelity-check` 抓不到（它守的是政治人物替換）。
+- **還沒做的那一半**：本班只抽樣了一段加一條腳註，86 個斜體英文片名裡有 18 個沒附中文原名，等於沒有抽樣母體覆蓋。可能的機械化：譯文裡的斜體作品名若未附原文，列為待驗清單（判準機械、零誤判），但那是新增閘門判準（BECOME 鐵律 10），未動。
+- **instances**：（首例，見觸發；同日對稱 instance 一例）
+- **可能層級**：[REFLEXES #102](REFLEXES.md)（引用的形狀撐不起引用的內容）與 [#98](REFLEXES.md)（真原子放錯槽位）的 fold 候選，載體是**閘門的射程**而非引用本身。候選跨域規則：**窄射程的閘門亮燈時，要連它射程外的同段一起讀**，因為會被它抓到的那一行，常是某個更貴的錯誤剛好露出來的那一角。
+- **相關**：[REFLEXES #82](REFLEXES.md)、[#98](REFLEXES.md)、[#102](REFLEXES.md)、[#75](REFLEXES.md)（read ≠ verify）、[#16](REFLEXES.md)（否定式結論舉證要高——本班五個「這是錯的」全部附第三方來源才寫進留言）、[OBSERVER-QUEUE #112](OBSERVER-QUEUE.md)（ko／ja 裸漢字閘門射程，同一班量到三篇韓文 32 處殘留含 7 處簡體字形）
+- **verification_count**: 1
+- **severity**: structural（失效方式是閘門轉綠而事實錯誤上站，且兩個方向都驗到：投稿者的與維護者自己的）
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
