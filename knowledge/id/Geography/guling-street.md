@@ -1,26 +1,26 @@
 ---
-title: 'Jalan Guling: Jalan Buku Peninggalan Jepang, Pemuda Ang Lee, dan Istana Pemerintah Nasional'
-description: 'Sore Sabtu di depan teater batu merah di ujung Gang 5 Jalan Guling ada siswa yang antri, di sebelahnya adalah Museum Sejarah Nasional yang dibangun tahun 1955 dan Kolam Teratai Taman Botani Taipei yang diubah tahun 1921. Jalan sepanjang 1,2 kilometer ini bernama Jalan Sakuma pada tahun 1922, diubah nama menjadi Jalan Guling pada tahun 1947 diambil dari Gunung Lu di Jiangxi. Setelah perang 1945 ketika orang Jepang mundur, buku-buku yang ditinggalkan diletakkan di pinggir jalan menjadi jalan buku bekas pertama Taiwan, pada tahun 1960-an mencapai puncaknya dengan lebih dari 200 pedagang, setelah jembatan Guanghua dibuka pada April 1973 pedagang dipindahkan di bawah jembatan Guanghua, pada tanggal 15 Juni 1961 seorang pemuda berusia 16 tahun bernama Mao Wu membunuh Liu Min berusia 15 tahun dengan pisau pramuka di jalan ini, pada tahun 1991 Ang Lee membuat film berdurasi 237 menit. Jalan buku diruntuhkan, pedagang buku pindah, siswa pergi ke tempat lain untuk membeli buku, yang tersisa adalah bekas kantor cabang polisi batu merah dari masa pemerintahan Jepang, museum bergaya istana Tiongkok pasca perang, dan kolam teratai yang sudah ada di tempat yang sama sejak tahun 1921.'
+title: 'Jalan Guling: Jalan Buku yang Ditinggalkan Orang Jepang, Remaja Edward Yang, Istana Pemerintah Nasional'
+description: 'Jalan Guling adalah jalan sepanjang 1,2 kilometer di Taipei, pada 1922 disebut Sakuma-chō, pada 1947 berganti nama mengacu pada Guling di Gunung Lu, Jiangxi. Pasca perang, buku-buku yang ditinggalkan orang Jepang dijual di pinggir jalan, menjadikannya jalan buku bekas pertama di Taiwan, pada puncaknya ada lebih dari dua ratus gerobak buku. Pada 1961, Mao Wu berusia 16 tahun menusuk sampai mati Liu Min berusia 15 tahun di jalan ini, disutradarai Edward Yang menjadi film. Gerobak buku sudah pindah, museum sejarah bergaya istana dan kolam teratai tahun 1921 masih ada.'
 date: 2026-05-21
 category: 'Geography'
 tags:
   [
     'Jalan Guling',
-    'Taman Sekolah Nanhai',
+    'Akademi Nanhai',
     'Kota Taipei',
     'Distrik Zhongzheng',
-    'Kawasan Bersejarah',
+    'Kawasan Sejarah',
     'Jalan Buku Bekas',
-    'Ang Lee',
-    'Insiden Pembunuhan Pemuda Jalan Guling',
+    'Edward Yang',
+    'Kasus Pembunuhan Remaja Jalan Guling',
     'Museum Sejarah Nasional',
-    'Taman Botani Taipei',
+    'Kebun Raya Taipei',
     'Teater Kecil Jalan Guling',
-    'Jalan Sakuma',
-    'Jalan Kaneda',
-    'Pasar Guanghua',
+    'Sakuma-chō',
+    'Kodama-chō',
+    'Mal Guanghua',
     'Toko Buku Songlin',
-    'Seri Kawasan Bersejarah',
+    'Seri Kawasan Sejarah',
   ]
 subcategory: '歷史街區 / 台北市中正區'
 author: 'Taiwan.md Contributors'
@@ -34,11 +34,15 @@ image: '/article-images/geography/guling-street-nanhai-academy-2024.webp'
 imageCredit: 'Yu tptw'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Nanhai_Academy_20240102.jpg'
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 2,771 曝光 20 點擊（0.72%），主查詢「牯嶺街」1,123 曝光；description 314 字整段編年，縮到 150 字內，留書街、楊德昌、宮殿式博物館三個錨點'
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: 'fe48ea49d'
-sourceContentHash: 'sha256:66bd8b34b1fa18da'
+sourceCommitSha: '0a6f7f667'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
 sourceBodyHash: 'sha256:cafaccb40b199771'
-translatedAt: '2026-09-26T12:42:02.013196+00:00'
+translatedAt: '2026-11-06T23:34:18.641887+00:00'
 ---
 
 # Jalan Guling: Jalan Buku Warisan Jepang, Remaja Milik Yang De-chang, dan Istana Pemerintah Nasional

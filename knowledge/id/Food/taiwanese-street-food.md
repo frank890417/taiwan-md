@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-25T10:23:44+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T00:42:05.558828+00:00'
 ---
 
 # Kuliner Taiwan
@@ -186,8 +186,9 @@ Kebingungan profesor Jerman itu sebenarnya adalah jawabannya.
 
 ## Topik Terkait
 
-- [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
-- [Boba Teh Susu](/id/food/bubble-tea) — Hegemoni global makanan cair
-- [Nasi Berbumbu Taiwan](/id/food/braised-pork-rice) — Memori kelompok dalam semangkuk nasi berbumbu
-- [Budaya Kuliner Hakka](/id/food/hakka-food-culture) — Kebijaksanaan kuliner komunitas Hakka
-- [Fusi Makanan Penduduk Baru Taiwan](/id/food/taiwanese-new-immigrant-culinary-fusion) — Gelombang hibrida makanan berikutnya sedang terjadi
+- [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai domain sosial
+- [Bubble Tea](/id/food/bubble-tea) — Hegemoni global camilan cair
+- [Bola Ubi](/id/food/sweet-potato-balls) — Kisah asal-usul di bawah Jembatan Chung-cheng, dan ruang kosong yang ditekan pedagang di depan wajan minyak
+- [Nasi Luwek Taiwan](/id/food/braised-pork-rice) — Kenangan etnis dalam semangkuk nasi luwek
+- [Budaya Kuliner Hakka](/id/food/hakka-food-culture) — Kearifan kuliner komunitas Hakka
+- [Fusi Kuliner Warga Baru Taiwan](/id/food/taiwanese-new-immigrant-culinary-fusion) — Gelombang berikutnya fusi kuliner sedang terjadi
