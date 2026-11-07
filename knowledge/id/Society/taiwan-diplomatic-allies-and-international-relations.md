@@ -28,10 +28,10 @@ sporeLinks:
     date: '2026-04-29'
     url: 'https://x.com/taiwandotmd/status/2049358488246349945'
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:a769a15322237001'
-sourceBodyHash: 'sha256:0558fdc7cb927ea0'
-translatedAt: '2026-11-02T12:21:16.885955+00:00'
+sourceCommitSha: '9b91d7a61'
+sourceContentHash: 'sha256:94f577de93fb7be3'
+sourceBodyHash: 'sha256:355c426f46da113d'
+translatedAt: '2026-11-07T02:27:17.593580+00:00'
 ---
 
 # Sekutu Diplomatik dan Diplomasi Internasional Taiwan: 12 Sekutu, 113 Kantor Perwakilan, Akses Bebas Visa ke 177 Negara
@@ -216,16 +216,18 @@ Dua perkembangan dalam beberapa tahun terakhir:
 
 **Fakta bahwa Amerika Serikat melindungi sekutu diplomatik Taiwan** sendiri merupakan pertanda keterlibatan mendalam negara tanpa hubungan diplomatik dalam urusan diplomasi Taiwan—secara tradisional, urusan sekutu diplomatik seharusnya ditangani oleh kedua pihak yang memiliki hubungan tersebut.
 
-## Paspor dapat digunakan untuk memasuki 177 negara: ukuran lain dari pengakuan
+## Paspor bisa ke 177 negara: ukuran pengakuan lain
 
-Menurut statistik resmi Kementerian Luar Negeri pada 30 Januari 2026, paspor Republik Tiongkok (Taiwan) memperoleh fasilitas bebas visa, visa saat kedatangan, visa elektronik, dan kemudahan lain untuk memasuki **177 negara dan wilayah** di seluruh dunia[^37].
+Statistik resmi Kementerian Luar Negeri tanggal 30 Januari 2026: paspor Republik Tiongkok (Taiwan) menikmati kemudahan bebas visa, visa saat kedatangan, visa elektronik, dan sejenisnya, memungkinkan masuk ke **177 negara dan wilayah** di seluruh dunia[^37].
 
-Henley Passport Index pada 2026 menempatkan paspor Taiwan sekitar peringkat ke-33 dunia, mendekati Jepang dan Korea Selatan.
+Henley Passport Index 2026 menempatkan paspor Taiwan di peringkat 33 global, setara dengan Jepang dan Korea Selatan.
 
-Sebagian besar dari 177 negara tersebut tidak memiliki hubungan diplomatik dengan Taiwan. **Paspor dapat melintas bukan karena hubungan diplomatik, melainkan karena kepercayaan bilateral, keterhubungan ekonomi, tingkat kejahatan yang rendah, dan catatan imigrasi ilegal yang rendah.** Perbandingan antara jumlah sekutu diplomatik dan negara yang dapat dimasuki dengan paspor Taiwan adalah 12:177—sekitar 1:15.
+Sebagian besar dari 177 negara dan wilayah tersebut tidak memiliki hubungan diplomatik dengan Taiwan. Yang memungkinkan paspor bebas masuk bukanlah sekutu diplomatik, melainkan kepercayaan timbal balik, keterikatan ekonomi, tingkat kejahatan rendah, dan catatan imigrasi ilegal rendah. Rasio jumlah negara sekutu diplomatik dengan jumlah negara yang bisa dikunjungi paspor adalah 12:177 — sekitar 1:15.
+
+Angka ini mudah dibaca sebagai "paspor bebas ke seluruh dunia", jadi ada dua hal yang perlu dijernihkan. Pertama, **177 bukan berarti semuanya bebas visa**: Biro Urusan Konsuler Kementerian Luar Negeri menggabungkan tiga kategori kemudahan — bebas visa, visa saat kedatangan, dan visa elektronik — dalam satu daftar yang sama; visa saat kedatangan dan visa elektronik tetap memerlukan prosedur dan tetap bisa ditolak[^37]. Kedua, negara dan wilayah di luar daftar justru yang meminta visa sebelum keberangkatan, dan daftar ini sendiri bisa berubah — artikel ini mengutip versi 30 Januari 2026, sedangkan halaman Biro Urusan Konsuler telah diperbarui pada 22 Oktober 2026[^37]. Pelaku perjalanan harus merujuk pada pengumuman terbaru negara tujuan, jangan mengandalkan artikel ini.
 
 > **⚠️ Sebuah paradoks**
-> Panjang daftar sekutu diplomatik berbanding terbalik dengan mobilitas internasional nyata yang dinikmati warga. Penambahan sekutu diplomatik umumnya terjadi karena negara kecil menyetujui hubungan setelah tercapai kesepakatan bantuan finansial; penambahan negara yang dapat dimasuki dengan paspor bergantung pada citra negara, catatan keamanan, dan asas timbal balik visa. Hal yang kedua lebih sulit dicapai, tetapi juga lebih dapat diandalkan.
+> Panjang daftar negara sekutu diplomatik dan mobilitas internasional nyata warga negara berbanding terbalik. Penambahan jumlah negara sekutu diplomatik sebagian besar karena negara kecil yang sepakat menjalin hubungan diplomatik setelah pembicaraan bantuan keuangan; penambahan negara yang bisa dikunjungi paspor karena citra negara, catatan keamanan, dan resiprositas visa. Yang kedua lebih sulit dari yang pertama, tapi juga lebih andal.
 
 ## Perisai silikon: 90%, 30%, dan bermata dua
 
@@ -266,16 +268,16 @@ Selama 12 sekutu diplomatik tetap dipertahankan, narasi tersebut tidak dapat ber
 
 ```
 12             113            177
-negara sekutu diplomatik         perwakilan di luar negeri       paspor bisa masuk
+negara sekutu diplomatik    kantor perwakilan di luar negeri    paspor bebas masuk
 ```
 
-12 negara mengakui pemerintah Republik Tiongkok (Taiwan) sebagai "pemerintah sah Tiongkok".
-113 perwakilan di seluruh dunia mewakili Taiwan menangani urusan nyata.
-177 negara tidak mengakui Republik Tiongkok, tetapi mengizinkan warga negara Taiwan masuk.
+12 negara mengakui pemerintah Republik Tiongkok (Taiwan) di Taiwan sebagai "pemerintah sah Tiongkok"[^16].
+113 kantor perwakilan di seluruh dunia mewakili Taiwan menangani urusan praktis[^34].
+177 negara dan wilayah tidak mengakui Republik Tiongkok, tetapi mengizinkan warga negara Taiwan masuk bebas visa, visa saat kedatangan, atau e-visa[^37].
 
-Parlemen Eropa 432 suara menyetujui resolusi menentang 2758. Saat Tsai Ing-wen meninggalkan jabatan pada Mei 2024, negara sekutu diplomatik berjumlah 12; bulan Oktober pasca-jabatan dia mengunjungi Parlemen Eropa atas undangan. Bonnie Glaser pernah mengatakan ketergantungan pada TSMC pernah ada pada satu momen. Mark Lambert pernah mengatakan 2758 tidak menyebut Taiwan.
+Parlemen Eropa 432 suara setuju melewati resolusi menentang 2758[^3]. Saat Tsai Ing-wen meninggalkan jabatan pada Mei 2024, negara sekutu diplomatik 12; setelah pensiun pada Oktober diundang mengunjungi Parlemen Eropa. Bonnie Glaser pernah mengatakan ketergantungan TSMC pernah memiliki satu momen. Mark Lambert pernah mengatakan 2758 tidak menuliskan tentang Taiwan.
 
-Hal-hal ini terjadi bersamaan. Tidak ada satu pun yang disebut "status internasional Taiwan".
+Hal-hal ini terjadi bersamaan. Tidak ada satu garis pun yang disebut "status internasional Taiwan".
 
 Jika ada, hal itu bukan 12, bukan 113, bukan 177, bukan 90% atau 30%.
 
@@ -283,11 +285,11 @@ Itu adalah jarak di antara angka-angka ini.
 
 **Bacaan Lanjutan**:
 
-- [Pertahanan Taiwan dan Modernisasi Militer](/id/society/taiwan-defense-modernization) — Saat negara sekutu diplomatik tersisa 12, pertahanan militer mandiri adalah pilar lain menjaga "bukan 0"
-- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Bagaimana tiga krisis membentuk isolasi diplomatik Taiwan dan kecemasan keamanan
-- [TSMC](/id/economy/tsmc) — Dasar material Silicon Shield dan kerapuhan strukturalnya
-- [Cho Jung-tai](/id/people/cho-jung-tai) — Jejak tarif AS-Taiwan 2026 32→20→15% + koordinator kabinet kunjungan Lai Ching-te ke Eswatini
-- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Satu-satunya negara sekutu diplomatik di Afrika di antara 12, cerita lengkap 58 tahun dari pembukaan hubungan diplomatik pada hari yang sama 1968 hingga kunjungan Lai Ching-te 2026
+- [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Saat negara sekutu diplomatik tersisa 12, pertahanan militer mandiri adalah pilar lain mempertahankan "bukan 0"
+- [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Tiga krisis bagaimana membentuk isolasi diplomatik dan kecemasan keamanan Taiwan
+- [TSMC](/id/economy/tsmc) — Fondasi material perisai silikon dan kerapuhan strukturalnya
+- [Cho Jung-tai](/id/people/cho-jung-tai) — Jalur tarif AS-Taiwan 2026 32→20→15% + Koordinator kabinet kunjungan Lai Ching-te ke Eswatini
+- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Satu-satunya negara sekutu diplomatik Taiwan di Afrika di antara 12, dari pembukaan hubungan diplomatik pada hari yang sama 1968 hingga kunjungan Lai Ching-te 2026 cerita lengkap 58 tahun
 
 ## Referensi
 
