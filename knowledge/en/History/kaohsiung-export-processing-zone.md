@@ -17,21 +17,25 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
+image: '/article-images/history/kaohsiung-port-map.svg'
+imageCredit: 'Luuva'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg'
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'History/高雄加工出口區.md'
-sourceCommitSha: 'ebfb9f7bc'
-sourceContentHash: 'sha256:226ce57f62ea8e09'
-sourceBodyHash: 'sha256:97a0f46568355878'
-translatedAt: '2026-09-25T16:58:19+08:00'
+sourceCommitSha: '67c4c72fc'
+sourceContentHash: 'sha256:a9963ff9a33f5a20'
+sourceBodyHash: 'sha256:d5f5e51d67ab4274'
+translatedAt: '2026-11-07T04:18:18.498267+00:00'
 ---
 
-> **30-Second Overview:** On December 3, 1966, Taiwan's first Export Processing Zone opened in Qianzhen, which is also cited by the Executive Yuan as the world's first. It layered industrial zone, tax-free zone, and free trade zone functions together, connecting foreign investment, raw materials, factories, and export orders in one location through a single window, tax incentives, and port facilities. Within two years, the park exceeded its original plan and employed over 20,000 people.[^1]
+**30-second overview:** On December 3, 1966, Taiwan's first export processing zone appeared in Kaohsiung's Qianzhen, and was also referred to in Executive Yuan historical materials as the world's first export processing zone. It combined the functions of an industrial park, a duty-free zone, and a free trade zone, and through a single window, tax incentives, and the port, it brought foreign capital, raw materials, factories, and export orders together in one place. Within two years, the zone had exceeded its original plan and employed over 20,000 people.[^1]
 
-![Map of Kaohsiung Port marking the surrounding port area of the Export Processing Zone](/article-images/history/kaohsiung-port-map.svg)
+![Map of Kaohsiung Port, showing the port area around the export processing zone](/article-images/history/kaohsiung-port-map.svg)
 
-_Image 1: Map of Kaohsiung Port, by Luuva, Wikimedia Commons, CC BY-SA 3.0. Image page: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
+_Figure 1: Map of Kaohsiung Port, by Luuva, Wikimedia Commons, CC BY-SA 3.0. Image page: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._
 
 ## An Export Gateway That Was "Sealed Off"
 
@@ -91,15 +95,15 @@ The park's achievements should not be overturned because of this; however, "crea
 
 ## How the Park Survived Its Own Success
 
-![Exit 1 of Nanzi Processing Zone](/article-images/history/nanzih-epz-station-exit1-2010.webp)
+![Exit 1 of Nanzih Export Processing Zone Station](/article-images/history/nanzih-epz-station-exit1-2010.webp)
 
-_Image 2: Exit 1 of Nanzi Processing Zone, by Longben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Image page: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; Local file: images/nanzih-export-processing-zone-station.jpg._
+_Image 2: Exit 1 of Nanzih Export Processing Zone Station, photographer Long Ben, 2010, Wikimedia Commons, CC BY-SA 3.0/GFDL. Image page: https://commons.wikimedia.org/wiki/File:%E6%A5%A0%E6%A2%93%E5%8A%A0%E5%B7%A5%E5%8D%80%E7%AB%99_1%E8%99%9F%E5%87%BA%E5%8F%A3_20100124.jpg; local file: images/nanzih-export-processing-zone-station.jpg._
 
-Labor-intensive industries faced pressure from rising wages, international trade protectionism, and industrial relocation in the 1980s. The Export Processing Zone did not disappear immediately; it gradually introduced electronics, precision manufacturing, logistics, and other higher-tech activities. A doctoral dissertation describes the period after 1986 as one where institutional and market conditions changed simultaneously, noting the park's later transformation toward high-tech electronics and global logistics.[^8]
+Labor-intensive industries faced pressure from rising wages, international trade protectionism, and industrial relocation after the 1980s. The export processing zones did not disappear immediately; they gradually introduced electronics, precision manufacturing, logistics, and other higher-technology activities. A doctoral dissertation abstract describes the post-1986 period as a time of simultaneous change in institutional and market conditions, and notes that the zones later transformed toward high-tech electronics and global logistics.[^8]
 
-This transformation also changed how the park was remembered. In 2021, the Kaohsiung Export Processing Zone shed its old name after half a century and became Qianzhen Science Park. The change of name did not erase history; rather, it acknowledged that the original "Export Processing Zone" had become an institutional legacy: the single window, industrial cluster, export orientation, and technological learning continued to leave traces in different industries.[^3]
+This transformation also changed how the zones are remembered. In 2021, the Kaohsiung Export Processing Zone shed the name it had used for half a century and was renamed the Cianjhen Technology Industrial Park. The name change did not erase history; rather, it acknowledged that the original "export processing zone" had become an institutional legacy: single-window services, industrial clusters, export orientation, and technology learning continue to leave traces across different industries.[^3]
 
-The administrative buildings, early factories, and other structures within the park thus have a dual identity. On one hand, they are industrial spaces that may still be used; on the other, they are physical evidence of Taiwan's economic history. To regard them only as old buildings is to miss their relationship with factories, female workers, ports, and goods; to regard them only as monuments to success is to overlook the costs of labor and environment.[^3]
+The administrative buildings, early factories, and other structures in the park therefore possess a dual identity. On one hand, they remain potentially usable industrial spaces; on the other, they are physical evidence of Taiwan's economic history. Treating them merely as old buildings misses their relationships with factories, women workers, ports, and cargo; treating them merely as monuments to success misses the costs of labor and the environment.[^3]
 
 ## One Park, Many Taiwans
 

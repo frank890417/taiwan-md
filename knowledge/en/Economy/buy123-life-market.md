@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/生活市集.md'
-sourceCommitSha: 'e43a29ea4'
+sourceCommitSha: 'ef8369eef'
 sourceContentHash: 'sha256:a28b59d150358ce1'
 sourceBodyHash: 'sha256:45330c3b732890b9'
-translatedAt: '2026-09-14T00:53:25+08:00'
+translatedAt: '2026-11-07T03:29:10.465105+00:00'
 ---
 
 In 2013, Life Market was established as an e-commerce platform under the umbrella of Entrepreneurial Digital Co., Ltd. By 2020, the items it featured were no longer limited to daily necessities but also included non-core categories such as 3C and food, accounting for about three to four tenths of the total revenue. On October 12, 2023, it extended its shelves overseas by launching direct international shipping.[^7] [^8]
