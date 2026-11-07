@@ -28,10 +28,10 @@ imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-22T10:29:36+08:00'
+sourceCommitSha: '7636b625c'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-07T00:53:02.384056+00:00'
 ---
 
 # Cultura Alimentaria de los Pueblos Indígenas de Taiwán
@@ -92,17 +92,17 @@ Esto no es "comer al azar"; es un sistema preciso de conocimiento ecológico. Ca
 
 ---
 
-## Cinavu, carne asada sobre piedra y pescado volador: tres ejemplos típicos
+## Cinavu, carne a la piedra, pez volador: tres ejemplos típicos
 
-Las técnicas culinarias de los pueblos indígenas de Taiwán no son muchas, pero cada una es precisa. Preciso significa: la correspondencia entre el ingrediente, la herramienta y la estación; es el resultado de cientos de intentos a lo largo de los años, no un accidente. Estos tres ejemplos provienen de diferentes terrenos y grupos étnicos, pero tienen un punto en común: el acto de cocinar no es solo hacer comida, sino una actuación completa de conocimiento.
+Las técnicas culinarias de los pueblos indígenas de Taiwán no son muchas, pero cada una es precisa. Precisa significa: la relación de correspondencia entre ingredientes, herramientas y estaciones es el resultado de cientos de años de prueba y error, no algo casual. Estos tres ejemplos provienen de diferentes terrenos y grupos étnicos, pero tienen un punto en común: el acto de cocinar no es solo preparar comida, sino una representación completa de un sistema de conocimientos.
 
-La cinavu (_cinavu_) es un alimento festivo preparado por los Paiwan y los Lukai durante bodas y ceremonias. Las hojas de _faux_ tomate envuelven la carne de cerdo curada y el mijo, que a su vez se envuelve en hojas de morera para cocinarse al vapor en una cesta de bambú. En el momento en que se abre, las capas de aroma de tres plantas brotan como olas. La preparación de la cinavu requiere la cooperación de toda la familia; la técnica del envoltorio debe ser aprendida de los ancianos, y hay ligeras diferencias en el plegado de las hojas según la familia. Los investigadores culturales han registrado que poder hacer cinavu representa haber aprendido la herencia alimentaria familiar, un indicador cultural para determinar si uno está listo para asumir responsabilidades adultas.
+El cinavu (cinavu) es un alimento festivo que los pueblos paiwan y rukai preparan en bodas y ceremonias. Se envuelve carne de cerdo marinada y mijo en hojas de physalis, se ata una capa adicional con hojas de jengibre silvestre (Alpinia zerumbet) y se cuece al vapor en cestas de bambú. Al abrirlo, los aromas estratificados de las tres plantas surgen como olas. La elaboración del cinavu requiere la colaboración de toda la familia; la técnica de envolver las hojas se aprende de los mayores, y la forma de plegarlas varía sutilmente según la familia. Los investigadores culturales registran que saber envolver cinavu demuestra que se ha aprendido la herencia alimentaria familiar, siendo un indicador cultural para juzgar si uno está listo para asumir responsabilidades de adulto.
 
-La carne asada sobre piedra es un producto directo de la vida montañesa Paiwan y Lukai. El gneis del centro de la montaña se calienta uniformemente y no se rompe; es una plancha natural. La carne de jabalí y venado cazados se asa lentamente sobre la losa, sazonada con ortiga y pimienta de montaña, sin necesidad de otros condimentos. La relación entre el alimento, la geología y las especias es el resultado del diálogo de la gente local con esta cordillera durante generaciones.
+Sobre qué hojas se usan para el cinavu y cómo lo llaman cada pueblo y aldea, véase 〈[Cinavu (cinavu)](/food/奇拿富)〉.
 
-El pescado volador (_flying fish_) del pueblo Atayal es otra filosofía marina completa. De marzo a junio de cada año, la isla de Lanyu es la temporada del pescado volador; solo se puede salir al mar después del ritual de pesca (_Mavanuo_), y no se puede pescar en exceso. Los Atayal desarrollaron un método completo para secar y curar el pescado volador, y tienen regulaciones de consumo por género para diferentes tamaños: lo que comen los hombres, lo que comen las mujeres, lo que comen los ancianos, lo que comen los niños; el pescado se distribuye según el orden social. Los ecologistas analizan que este conjunto de reglas tiene una lógica estricta de gestión de recursos y mantiene el equilibrio ecológico en la pequeña isla con recursos limitados. Los Atayal no usan la palabra "sostenibilidad" para describir su práctica; simplemente hacen lo que sus ancestros dijeron.
+La carne a la piedra es un producto directo de la vida en la montaña de los pueblos paiwan y rukai. El gneis de la Cordillera Central se calienta de manera uniforme y no se fractura, actuando como una plancha natural. La carne de jabalí y ciervo cazados se asa lentamente sobre la piedra, sazonada con cebolla espinosa y maqaw (pimienta de montaña), sin necesidad de otros condimentos. La relación entre el alimento, la geología y las especias es el resultado de generaciones de diálogo de los habitantes locales con esta cordillera.
 
----
+El pez volador del pueblo tao constituye otra filosofía marina completa. En Lanyu, de marzo a junio es la temporada del pez volador; solo después del Festival de Invocación del Pez Volador (Mavanuo) se puede salir a pescar, y no se debe tomar en exceso. El pueblo tao ha desarrollado todo un conjunto de métodos de conservación por secado y salado del pez volador, y tiene normas de consumo diferenciadas por sexo y edad según el tamaño del pez: lo que comen los hombres, lo que comen las mujeres, lo que comen los ancianos, lo que comen los niños; el pez volador se distribuye según el orden social. Los ecólogos analizan que estas normas tienen una lógica estricta de gestión de recursos, manteniendo el equilibrio ecológico en una isla de recursos limitados. Los tao no usan la palabra «sostenibilidad» para describir sus prácticas; simplemente hacen lo que les dijeron sus ancestros.
 
 ## Dos caminos hacia el resurgimiento: Cocina tribal y restaurantes refinados
 
