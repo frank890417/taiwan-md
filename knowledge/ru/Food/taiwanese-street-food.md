@@ -24,10 +24,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-09T15:33:03+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T00:58:56.756628+00:00'
 ---
 
 # Тайваньская уличная закуска
@@ -185,8 +185,9 @@ translatedAt: '2026-09-09T15:33:03+08:00'
 
 ## Связанные темы
 
-- [Культура ночного рынка](/ru/food/night-market-culture) — глубокий анализ ночного рынка как социального пространства
-- [Жемчужный чай](/ru/food/bubble-tea) — глобальная гегемония жидкой уличной закуски
-- [Тайваньский рис в соусе](/ru/food/braised-pork-rice) — племенная память одной чаши риса в соусе
-- [Хаккасская кухня](/ru/food/hakka-food-culture) — пищевая мудрость хаккасского клана
-- [Новая еда в новых жителях Тайваня](/ru/food/taiwanese-new-immigrant-culinary-fusion) — следующая волна пищевого смешивания происходит сейчас
+- [Культура ночных рынков](/ru/food/night-market-culture) — Глубокий анализ ночного рынка как социального пространства
+- [Жемчужный чай](/ru/food/bubble-tea) — Глобальное господство жидкого снека
+- [Шарики из сладкого картофеля](/ru/food/sweet-potato-balls) — История возникновения под мостом Чжунчжэн, и пустота, выдавленная лавочниками у кипящего масла
+- [Тайваньское луроуфан](/ru/food/braised-pork-rice) — Этническая память в одной миске луроуфан
+- [Кулинарная культура хакка](/ru/food/hakka-food-culture) — Пищевая мудрость этноса хакка
+- [Фузия кухни новых жителей Тайваня](/ru/food/taiwanese-new-immigrant-culinary-fusion) — Следующая волна кулинарного метисажа уже происходит
