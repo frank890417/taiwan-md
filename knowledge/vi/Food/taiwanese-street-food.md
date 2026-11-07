@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-23T02:56:16+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T00:15:30.447028+00:00'
 ---
 
 # Ẩm thực đường phố Đài Loan
@@ -186,8 +186,9 @@ Sự bối rối của vị giáo sư người Đức, thực chất chính là 
 
 ## Chủ đề liên quan
 
-- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Phân tích sâu về chợ đêm như một không gian xã hội
-- [Trà sữa trân châu](/vi/food/bubble-tea) — Bá quyền toàn cầu của món ăn lỏng
-- [Cơm thịt kho Đài Loan](/vi/food/braised-pork-rice) — Ký ức tộc người trong một bát cơm thịt kho
-- [Văn hóa ẩm thực Khách Gia](/vi/food/hakka-food-culture) — Trí tuệ ẩm thực của cộng đồng Khách Gia
-- [Sự dung hợp ẩm thực cư dân mới Đài Loan](/vi/food/taiwanese-new-immigrant-culinary-fusion) — Làn sóng lai tạo ẩm thực tiếp theo đang diễn ra
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Phân tích sâu về chợ đêm trong vai trò không gian xã hội
+- [Trà sữa trân châu](/vi/food/bubble-tea) — Sự thống trị toàn cầu của đồ ăn uống lỏng
+- [Bánh khoai lang](/vi/food/sweet-potato-balls) — Câu chuyện khởi nguyên dưới cầu Trung Chính, và những hòn rỗng được ép ra trước chảo dầu bởi các tiểu thương
+- [Cơm thịt luộc Đài Loan](/vi/food/braised-pork-rice) — Ký ức dân tộc trong một bát cơm thịt luộc
+- [Văn hóa ẩm thực khách gia](/vi/food/hakka-food-culture) — Trí tuệ ẩm thực của nhóm dân tộc khách gia
+- [Hòa quyện ẩm thực của dân cư mới tại Đài Loan](/vi/food/taiwanese-new-immigrant-culinary-fusion) — Làn sóng hòa quyện ẩm thực tiếp theo đang diễn ra
