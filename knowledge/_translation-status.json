@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-07T14:12:12+08:00",
-    "zhCommitHead": "50099cd07",
+    "lastUpdated": "2026-11-07T20:01:28+08:00",
+    "zhCommitHead": "310ece983",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 18,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 4,
         "orphan": 0
       },
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1123,
+        "fresh": 1124,
         "stale": 22,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 5,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1130,
-        "stale": 17,
+        "fresh": 1133,
+        "stale": 15,
         "metadata_stale": 11,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "vi": {
@@ -68,25 +68,25 @@
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1112,
+        "fresh": 1113,
         "stale": 27,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 5,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1122,
+        "fresh": 1124,
         "stale": 24,
-        "metadata_stale": 12,
+        "metadata_stale": 10,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1112,
+        "fresh": 1113,
         "stale": 32,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 4,
         "orphan": 0
       },
@@ -100,16 +100,16 @@
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1136,
+        "fresh": 1138,
         "stale": 15,
-        "metadata_stale": 7,
+        "metadata_stale": 5,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1092,
-        "stale": 31,
+        "fresh": 1093,
+        "stale": 30,
         "metadata_stale": 35,
         "missing": 4,
         "orphan": 0
@@ -17800,20 +17800,18 @@
         "es": {
           "path": "es/Economy/taiwan-sugar.md",
           "translatedFrom": "Economy/台糖.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:f64751a4a51b546a",
           "sourceBodyHash": "sha256:9631152a90e28115",
-          "translatedAt": "2026-05-03T21:10:09+08:00",
+          "translatedAt": "2026-11-07T12:47:30+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 10758,
+          "bytes": 9726,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-sugar.md",
@@ -21586,18 +21584,18 @@
         "de": {
           "path": "de/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "32789bc38",
-          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
-          "sourceBodyHash": "sha256:4960f809ab64a615",
-          "translatedAt": "2026-10-23T08:48:45+08:00",
+          "sourceCommitSha": "2e1fef4f3",
+          "sourceContentHash": "sha256:cb89a17fa1adb070",
+          "sourceBodyHash": "sha256:49187558c601365f",
+          "translatedAt": "2026-11-07T12:48:10+08:00",
           "translationLastCommit": "3f06105c",
           "translationLastModified": "2026-10-23T10:40:30+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 24638,
+          "footnoteDefs": 21,
+          "bytes": 31184,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (21→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -69715,20 +69713,18 @@
         "pt": {
           "path": "pt/Society/taiwan-lithuania.md",
           "translatedFrom": "Society/台灣與立陶宛.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:dc43efb5979a3c8f",
           "sourceBodyHash": "sha256:0c2c65bdea71abe5",
-          "translatedAt": "2026-07-25T12:13:33+08:00",
+          "translatedAt": "2026-11-07T12:47:51+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 11221,
+          "bytes": 12235,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-lithuania.md",
@@ -83279,8 +83275,8 @@
           "sourceContentHash": "sha256:6bd9a8cc95156f57",
           "sourceBodyHash": "sha256:19e49ba7c9820935",
           "translatedAt": "2026-11-07T12:19:41+08:00",
-          "translationLastCommit": "7246b5f7",
-          "translationLastModified": "2026-09-21T08:33:48+08:00",
+          "translationLastCommit": "35221876",
+          "translationLastModified": "2026-11-07T14:12:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 6124,
@@ -86233,20 +86229,18 @@
         "ru": {
           "path": "ru/Nature/taiwan-blue-magpie.md",
           "translatedFrom": "Nature/台灣藍鵲.md",
-          "sourceCommitSha": "29df9154e",
+          "sourceCommitSha": "0a6f7f667",
           "sourceContentHash": "sha256:69050f9233c761e6",
           "sourceBodyHash": "sha256:9493291d7f66f3a4",
-          "translatedAt": "2026-10-15T20:24:58.663020+00:00",
+          "translatedAt": "2026-11-07T10:20:56.189177+00:00",
           "translationLastCommit": "c5bbfc0e",
           "translationLastModified": "2026-10-16T05:57:52+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 51826,
+          "bytes": 52223,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/taiwan-blue-magpie.md",
@@ -138487,20 +138481,18 @@
         "pt": {
           "path": "pt/People/potter-king-youtuber.md",
           "translatedFrom": "People/波特王.md",
-          "sourceCommitSha": "5edf34bcb",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:f218c0f6edac6f55",
           "sourceBodyHash": "sha256:bd885df97c7fe1fa",
-          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translatedAt": "2026-11-07T10:20:03.445361+00:00",
           "translationLastCommit": "a9ae73c3",
           "translationLastModified": "2026-07-28T07:46:26+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 13004,
+          "bytes": 13108,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/potter-king-youtuber.md",
@@ -148219,20 +148211,18 @@
         "id": {
           "path": "id/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md",
           "translatedFrom": "People/林義雄.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:3847058fd0c4df1f",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:41769610b3ca612a",
           "sourceBodyHash": "sha256:d277949bee5011bb",
-          "translatedAt": "2026-09-10T10:26:29+08:00",
+          "translatedAt": "2026-11-07T10:50:09.834246+00:00",
           "translationLastCommit": "9ac58451",
           "translationLastModified": "2026-09-16T01:57:06+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 12650,
+          "bytes": 12711,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md",
@@ -155991,20 +155981,18 @@
         "ru": {
           "path": "ru/People/sixvfx-lu-tzu-yuan.md",
           "translatedFrom": "People/六指淵.md",
-          "sourceCommitSha": "768afaf0f",
-          "sourceContentHash": "sha256:95e79e3879d5de81",
+          "sourceCommitSha": "ef8369eef",
+          "sourceContentHash": "sha256:dd7e1a46eeb41eff",
           "sourceBodyHash": "sha256:37f56e84be16a425",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translatedAt": "2026-11-07T12:48:05+08:00",
           "translationLastCommit": "ae837171",
           "translationLastModified": "2026-09-22T01:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 41957,
+          "bytes": 41359,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/sixvfx-lu-tzu-yuan.md",
@@ -157667,7 +157655,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/cinavu.md",
+          "translatedFrom": "Food/奇拿富.md",
+          "sourceCommitSha": "91d516e64",
+          "sourceContentHash": "sha256:28d041198da308f5",
+          "sourceBodyHash": "sha256:fa68dba760d19431",
+          "translatedAt": "2026-11-07T12:47:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 45135,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "vi": {
           "status": "missing"
@@ -162215,18 +162216,18 @@
         "fr": {
           "path": "fr/Food/eel-noodles.md",
           "translatedFrom": "Food/鱔魚意麵.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:81213e22c8b81c39",
-          "sourceBodyHash": "sha256:7eb60f7eb1751d17",
-          "translatedAt": "2026-08-04T15:04:47+08:00",
+          "sourceCommitSha": "febf7a1ba",
+          "sourceContentHash": "sha256:45f9e5bf95cb2429",
+          "sourceBodyHash": "sha256:6f11b52d6d207203",
+          "translatedAt": "2026-11-07T12:47:34+08:00",
           "translationLastCommit": "e5078c7a",
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 9904,
+          "footnoteDefs": 24,
+          "bytes": 44637,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/eel-noodles.md",
@@ -172561,18 +172562,18 @@
         "fr": {
           "path": "fr/Food/sweet-potato-balls.md",
           "translatedFrom": "Food/地瓜球.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:31bbf088964cc84c",
-          "sourceBodyHash": "sha256:41b23df405c1e58d",
-          "translatedAt": "2026-08-09T15:34:31+08:00",
+          "sourceCommitSha": "2ef99f287",
+          "sourceContentHash": "sha256:7c999d826d55352a",
+          "sourceBodyHash": "sha256:59284821ad1dd766",
+          "translatedAt": "2026-11-07T12:47:34+08:00",
           "translationLastCommit": "268d1df6",
           "translationLastModified": "2026-08-09T21:14:43+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 14590,
+          "footnoteDefs": 24,
+          "bytes": 49244,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/sweet-potato-balls.md",
@@ -224888,20 +224889,18 @@
         "hi": {
           "path": "hi/Culture/taiwan-mandarin-evolution.md",
           "translatedFrom": "Culture/台灣華語的演化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:201c74c4f0375352",
+          "sourceCommitSha": "22286539e",
+          "sourceContentHash": "sha256:2b37211d946c848c",
           "sourceBodyHash": "sha256:0b62bbb2f4c7cd6b",
-          "translatedAt": "2026-08-10T02:54:45.666478+00:00",
+          "translatedAt": "2026-11-07T10:35:08.384694+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 31911,
+          "bytes": 33695,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-mandarin-evolution.md",
@@ -234270,20 +234269,18 @@
         "en": {
           "path": "en/Culture/common-taiwanese-names.md",
           "translatedFrom": "Culture/菜市場名.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "22286539e",
           "sourceContentHash": "sha256:4f24d54138c9fd30",
           "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
-          "translatedAt": "2026-06-11T16:38:12Z",
+          "translatedAt": "2026-11-07T12:47:14+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 8862,
+          "bytes": 8061,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/common-taiwanese-names.md",
