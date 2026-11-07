@@ -25,10 +25,10 @@ readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:da45c346079f5144'
-sourceBodyHash: 'sha256:40a1aa98903d8e72'
-translatedAt: '2026-09-22T17:40:22+08:00'
+sourceCommitSha: '2ef99f287'
+sourceContentHash: 'sha256:45c73e0b979ed11d'
+sourceBodyHash: 'sha256:3d3f9801d1d624a3'
+translatedAt: '2026-11-07T00:43:12.400132+00:00'
 ---
 
 # Comida de Rua de Taiwan
@@ -184,10 +184,11 @@ A confusão daquele professor alemão é, na verdade, a resposta.
 - [The Ultimate Guide in Navigating Taipei's Night Markets](https://guide.michelin.com/en/article/travel/best-night-market-taipei-food-travel-guide) — Guia Michelin, 2024
 - [As 10 comidas de rua mais populares na última década em Taiwan](https://taiwandatastories.com/zh/taiwan-street-food/) — Number Play Taiwan
 
-## Tópicos Relacionados
+## Tópicos relacionados
 
-- [Cultura do Mercado Noturno](/pt/food/night-market-culture) — Análise aprofundada do mercado noturno como espaço social
-- [Bubble Tea](/pt/food/bubble-tea) — Hegemonia global da comida líquida
-- [Taiwanese Braised Pork Rice](/pt/food/braised-pork-rice) — Memória étnica em um prato de arroz com carne ensopada
-- [Cultura Alimentar Hakka](/pt/food/hakka-food-culture) — Sabedoria alimentar do grupo étnico Hakka
-- [Fusão Gastronômica dos Novos Residentes de Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — A próxima onda da mistura alimentar está acontecendo
+- [Cultura dos mercados noturnos](/pt/food/night-market-culture) — Análise aprofundada dos mercados noturnos como espaços sociais
+- [Chá de bolhas](/pt/food/bubble-tea) — A hegemonia global do lanche líquido
+- [Bolinhas de batata-doce](/pt/food/sweet-potato-balls) — A história de origem sob a Ponte Chungcheng, e o interior oco moldado pelos vendedores diante da panela de óleo
+- [Lu rou fan de Taiwan](/pt/food/braised-pork-rice) — A memória étnica de uma tigela de lu rou fan
+- [Cultura gastronômica Hakka](/pt/food/hakka-food-culture) — A sabedoria culinária do povo Hakka
+- [Fusão gastronômica dos novos residentes de Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — A próxima onda de miscigenação culinária está em curso
