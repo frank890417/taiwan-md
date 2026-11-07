@@ -28,10 +28,10 @@ imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-23T22:11:44+08:00'
+sourceCommitSha: '7636b625c'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-07T00:59:25.496354+00:00'
 ---
 
 # Taiwan Indigenous Food Culture
@@ -92,17 +92,17 @@ This is not "eating indiscriminately"; it is a precise ecological knowledge syst
 
 ---
 
-## _Cinavu_, Stone Slab Barbecue, Flying Fish: Three Archetypes
+## Cinavu, Stone Slab Grilling, Flying Fish: Three Archetypes
 
-Taiwan Indigenous cooking techniques are few, but each is precise. Precision means: the correspondence among ingredient, tool, and season is the result of centuries of trial and error, not chance. These three examples come from different terrains and peoples, but share a commonality: the act of cooking is not just making a meal, but a complete performance of a knowledge system.
+The culinary techniques of Taiwan's Indigenous peoples are few, but each is precise. "Precise" means the correspondence among ingredient, tool, and season is the result of centuries of trial and error, not chance. These three examples come from different terrains and peoples, but share a commonality: the act of cooking is not merely making a meal, but the complete performance of a system of knowledge.
 
-_Cinavu_ is the festive food the Paiwan and Rukai make for weddings and ceremonies. Marinated pork and millet are wrapped in false gooseberry leaves, then bound again with shell ginger leaves, and steamed in bamboo steamers. The moment it opens, three layers of plant fragrance surge like waves. Making _cinavu_ requires whole-family collaboration; the leaf-wrapping technique must be learned from elders, and folding methods differ subtly by family. Cultural researchers record that being able to wrap _cinavu_ signifies having learned the family's food transmission, a cultural indicator of readiness to assume adult responsibility.
+_Cinavu_ is a festive food made by the Paiwan and Rukai for weddings and ceremonies. Marinated pork and millet are wrapped in wild roselle leaves, then bound again in shell ginger leaves, and steamed in bamboo steamers. The moment it is opened, the layered aromas of three plants surge forth like waves. Making _cinavu_ requires the collaboration of the whole family; the leaf-wrapping technique must be learned from elders, and the folding method varies subtly from family to family. Cultural researchers have recorded that the ability to wrap _cinavu_ signifies one has learned the family's food heritage, a cultural indicator of readiness to assume adult responsibilities.
 
-Stone slab barbecue is a direct product of Paiwan and Rukai mountain life. The Central Mountain Range's gneiss heats evenly and does not fracture—a natural griddle. Hunted wild boar and sambar deer are slow-roasted on the stone, seasoned with _tsiaah_ and _magau_, needing no other condiments. The relationship among food, geology, and spice is the result of generations of dialogue between local people and this mountain range.
+For which leaves _cinavu_ uses and what each people and community calls it, see 〈[_Cinavu_](/food/奇拿富)〉.
 
-The Tao's flying fish constitutes another complete marine philosophy. Every year March to June is flying fish season on Lanyu (Orchid Island); only after the Fish-Calling Festival (_Mavanuo_) may boats put to sea, and overharvesting is forbidden. The Tao developed a full suite of drying and curing methods for flying fish, and have gender- and age-based consumption rules for different sizes of fish: men's portions, women's portions, elders' portions, children's portions—flying fish allocated according to social order. Ecologists analyze that these rules embody rigorous resource-management logic, maintaining ecological balance on a resource-limited island. The Tao do not describe their practice with the word "sustainability"; they simply do as their ancestors said.
+Stone slab grilling is a direct product of Paiwan and Rukai mountain life. The gneiss of the Central Mountain Range heats evenly and does not fracture, a natural griddle. Wild boar and venison brought back from the hunt are slow-grilled on the stone slab, seasoned with mountain scallion and mountain pepper—no other condiments needed. The relationship among food, geology, and spice is the result of generations of dialogue between the local people and this mountain range.
 
----
+The Tao people's flying fish represents another complete marine philosophy. On Lanyu, March through June is flying fish season; only after the _Mavanuo_ (calling fish festival) may boats put to sea, and one must not take more than needed. The Tao have developed an entire system of drying and curing flying fish for preservation, and have gender- and age-based consumption rules for different sizes of flying fish: those for men, for women, for elders, for children—the fish are allocated according to social order. Ecologists analyze that these rules embody a rigorous resource management logic, maintaining ecological balance on a resource-limited island. The Tao do not describe their own practices with the word "sustainability"; they simply do as their ancestors said.
 
 ## Two Roads to Revival: Tribal Kitchens and Fine Dining
 

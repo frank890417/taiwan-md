@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-07T09:05:16+08:00",
-    "zhCommitHead": "267f4fe26",
+    "lastUpdated": "2026-11-07T09:41:24+08:00",
+    "zhCommitHead": "af7612949",
     "totalZh": 1162,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1162,
-        "fresh": 1121,
-        "stale": 19,
+        "fresh": 1120,
+        "stale": 20,
         "metadata_stale": 18,
         "missing": 4,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1162,
-        "fresh": 1126,
-        "stale": 15,
+        "fresh": 1125,
+        "stale": 16,
         "metadata_stale": 17,
         "missing": 4,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1162,
-        "fresh": 1129,
-        "stale": 20,
+        "fresh": 1128,
+        "stale": 21,
         "metadata_stale": 9,
         "missing": 4,
         "orphan": 0
       },
       "es": {
         "total_zh": 1162,
-        "fresh": 1121,
-        "stale": 23,
+        "fresh": 1119,
+        "stale": 25,
         "metadata_stale": 13,
         "missing": 5,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1162,
-        "fresh": 1127,
-        "stale": 19,
+        "fresh": 1125,
+        "stale": 21,
         "metadata_stale": 12,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1162,
-        "fresh": 1109,
-        "stale": 26,
+        "fresh": 1107,
+        "stale": 28,
         "metadata_stale": 21,
         "missing": 6,
         "orphan": 0
       },
       "id": {
         "total_zh": 1162,
-        "fresh": 1112,
-        "stale": 27,
+        "fresh": 1110,
+        "stale": 29,
         "metadata_stale": 18,
         "missing": 5,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1162,
-        "fresh": 1117,
-        "stale": 27,
-        "metadata_stale": 14,
+        "fresh": 1116,
+        "stale": 29,
+        "metadata_stale": 13,
         "missing": 4,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1162,
-        "fresh": 1112,
-        "stale": 32,
+        "fresh": 1110,
+        "stale": 34,
         "metadata_stale": 14,
         "missing": 4,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1162,
-        "fresh": 1121,
-        "stale": 24,
+        "fresh": 1120,
+        "stale": 25,
         "metadata_stale": 13,
         "missing": 4,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1162,
-        "fresh": 1133,
-        "stale": 17,
-        "metadata_stale": 8,
+        "fresh": 1132,
+        "stale": 19,
+        "metadata_stale": 7,
         "missing": 4,
         "orphan": 0
       },
       "de": {
         "total_zh": 1162,
-        "fresh": 1092,
-        "stale": 31,
+        "fresh": 1090,
+        "stale": 33,
         "metadata_stale": 35,
         "missing": 4,
         "orphan": 0
@@ -28828,20 +28828,18 @@
         "pt": {
           "path": "pt/Technology/backslash-in-cjk-fonts.md",
           "translatedFrom": "Technology/功字裡的那根反斜線.md",
-          "sourceCommitSha": "9f06b2a04",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:dbee36211f1b2080",
           "sourceBodyHash": "sha256:cfc0fe9c1ed37efb",
-          "translatedAt": "2026-10-08T09:35:14+08:00",
+          "translatedAt": "2026-11-07T01:05:27.059451+00:00",
           "translationLastCommit": "52d066c9",
           "translationLastModified": "2026-10-08T12:25:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 14393,
+          "bytes": 14452,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/backslash-in-cjk-fonts.md",
@@ -48727,20 +48725,18 @@
         "en": {
           "path": "en/Lifestyle/taiwan-queuing-culture.md",
           "translatedFrom": "Lifestyle/排隊.md",
-          "sourceCommitSha": "0e24f2873",
-          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
-          "sourceBodyHash": "sha256:a11c88d6404dea13",
-          "translatedAt": "2026-09-26T03:10:17.440078+00:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:4be9409cec6c3551",
+          "sourceBodyHash": "sha256:34547022abab25ff",
+          "translatedAt": "2026-11-07T01:13:57.158303+00:00",
           "translationLastCommit": "a5f8c5d0",
           "translationLastModified": "2026-10-10T22:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 64662,
+          "bytes": 64601,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+39 -35"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-queuing-culture.md",
@@ -48761,20 +48757,18 @@
         "ko": {
           "path": "ko/Lifestyle/taiwan-queuing-culture.md",
           "translatedFrom": "Lifestyle/排隊.md",
-          "sourceCommitSha": "0e24f2873",
-          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
-          "sourceBodyHash": "sha256:a11c88d6404dea13",
-          "translatedAt": "2026-09-26T03:13:34.507744+00:00",
+          "sourceCommitSha": "67c4c72fc",
+          "sourceContentHash": "sha256:4be9409cec6c3551",
+          "sourceBodyHash": "sha256:34547022abab25ff",
+          "translatedAt": "2026-11-07T01:22:01.212875+00:00",
           "translationLastCommit": "e3d29692",
           "translationLastModified": "2026-10-10T22:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 69333,
+          "bytes": 69045,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+39 -35"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-queuing-culture.md",
@@ -79216,10 +79210,10 @@
     },
     "Society/台灣邦交國與國際外交.md": {
       "zh": {
-        "lastCommit": "160f6cb5",
-        "lastModified": "2026-10-31T08:40:26+08:00",
-        "contentHash": "sha256:2bab610fcae06e98",
-        "bodyHash": "sha256:31009fa9f952c0e7"
+        "lastCommit": "9b91d7a6",
+        "lastModified": "2026-11-07T09:06:02+08:00",
+        "contentHash": "sha256:94f577de93fb7be3",
+        "bodyHash": "sha256:355c426f46da113d"
       },
       "translations": {
         "en": {
@@ -79235,21 +79229,23 @@
           "footnoteDefs": 42,
           "bytes": 39963,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "ja": {
           "path": "ja/Society/taiwan-diplomatic-allies-and-international-relations.md",
           "translatedFrom": "Society/台灣邦交國與國際外交.md",
-          "sourceCommitSha": "160f6cb59",
-          "sourceContentHash": "sha256:a769a15322237001",
-          "sourceBodyHash": "sha256:0558fdc7cb927ea0",
-          "translatedAt": "2026-11-02T12:14:52.430688+00:00",
+          "sourceCommitSha": "9b91d7a61",
+          "sourceContentHash": "sha256:94f577de93fb7be3",
+          "sourceBodyHash": "sha256:355c426f46da113d",
+          "translatedAt": "2026-11-07T01:15:46.392367+00:00",
           "translationLastCommit": "32ff929b",
           "translationLastModified": "2026-11-02T21:29:59+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 41744,
+          "bytes": 42700,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -79267,8 +79263,10 @@
           "footnoteDefs": 42,
           "bytes": 39016,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "es": {
           "path": "es/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79283,8 +79281,10 @@
           "footnoteDefs": 42,
           "bytes": 42393,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "fr": {
           "path": "fr/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79299,8 +79299,10 @@
           "footnoteDefs": 42,
           "bytes": 46763,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "vi": {
           "path": "vi/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79315,8 +79317,10 @@
           "footnoteDefs": 42,
           "bytes": 51159,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "id": {
           "path": "id/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79331,8 +79335,10 @@
           "footnoteDefs": 42,
           "bytes": 42882,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "pt": {
           "path": "pt/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79347,8 +79353,10 @@
           "footnoteDefs": 42,
           "bytes": 42124,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "hi": {
           "path": "hi/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79363,8 +79371,10 @@
           "footnoteDefs": 42,
           "bytes": 75730,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "ar": {
           "path": "ar/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79379,8 +79389,10 @@
           "footnoteDefs": 42,
           "bytes": 50153,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "ru": {
           "path": "ru/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79395,8 +79407,10 @@
           "footnoteDefs": 42,
           "bytes": 61488,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         },
         "de": {
           "path": "de/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -79411,8 +79425,10 @@
           "footnoteDefs": 42,
           "bytes": 42962,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -5"
         }
       }
     },
@@ -83260,10 +83276,10 @@
     },
     "About/緣起故事.md": {
       "zh": {
-        "lastCommit": "e078c9d5",
-        "lastModified": "2026-09-18T20:58:14+08:00",
-        "contentHash": "sha256:9c58394edee36ee3",
-        "bodyHash": "sha256:d9cb22f28bb753df"
+        "lastCommit": "137520fc",
+        "lastModified": "2026-11-07T09:07:52+08:00",
+        "contentHash": "sha256:6bd9a8cc95156f57",
+        "bodyHash": "sha256:19e49ba7c9820935"
       },
       "translations": {
         "en": {
@@ -83279,8 +83295,10 @@
           "footnoteDefs": 0,
           "bytes": 4172,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "ja": {
           "path": "ja/About/origin-story.md",
@@ -83295,8 +83313,10 @@
           "footnoteDefs": 0,
           "bytes": 4955,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "ko": {
           "path": "ko/About/origin-story.md",
@@ -83311,8 +83331,10 @@
           "footnoteDefs": 0,
           "bytes": 4697,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "es": {
           "path": "es/About/origin-story.md",
@@ -83327,8 +83349,10 @@
           "footnoteDefs": 0,
           "bytes": 4568,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "fr": {
           "path": "fr/About/origin-story.md",
@@ -83343,8 +83367,10 @@
           "footnoteDefs": 0,
           "bytes": 4911,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "vi": {
           "path": "vi/About/origin-story.md",
@@ -83359,8 +83385,10 @@
           "footnoteDefs": 0,
           "bytes": 5628,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "id": {
           "path": "id/About/origin-story.md",
@@ -83375,8 +83403,10 @@
           "footnoteDefs": 0,
           "bytes": 4396,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "pt": {
           "path": "pt/About/origin-story.md",
@@ -83391,8 +83421,10 @@
           "footnoteDefs": 0,
           "bytes": 4492,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "hi": {
           "path": "hi/About/origin-story.md",
@@ -83407,8 +83439,10 @@
           "footnoteDefs": 0,
           "bytes": 8764,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "ar": {
           "path": "ar/About/origin-story.md",
@@ -83423,8 +83457,10 @@
           "footnoteDefs": 0,
           "bytes": 5833,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "ru": {
           "path": "ru/About/origin-story.md",
@@ -83439,8 +83475,10 @@
           "footnoteDefs": 0,
           "bytes": 6739,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         },
         "de": {
           "path": "de/About/origin-story.md",
@@ -83455,8 +83493,10 @@
           "footnoteDefs": 0,
           "bytes": 4513,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -0"
         }
       }
     },
@@ -165727,8 +165767,8 @@
           "sourceContentHash": "sha256:14687c1f1c43e8dc",
           "sourceBodyHash": "sha256:8d0be243161b86bd",
           "translatedAt": "2026-11-07T05:50:21+08:00",
-          "translationLastCommit": "542ec84a",
-          "translationLastModified": "2026-09-09T23:31:49+08:00",
+          "translationLastCommit": "20daf874",
+          "translationLastModified": "2026-11-07T09:05:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 15859,
@@ -165775,20 +165815,18 @@
         "ar": {
           "path": "ar/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:c2e6d8f7560888c4",
-          "sourceBodyHash": "sha256:11add6012534def8",
-          "translatedAt": "2026-09-23T13:51:52+08:00",
+          "sourceCommitSha": "7636b625c",
+          "sourceContentHash": "sha256:14687c1f1c43e8dc",
+          "sourceBodyHash": "sha256:8d0be243161b86bd",
+          "translatedAt": "2026-11-07T05:50:47+08:00",
           "translationLastCommit": "20fa44ad",
           "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 23197,
+          "bytes": 22956,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-indigenous-foodways.md",
@@ -167161,8 +167199,8 @@
           "sourceContentHash": "sha256:45c73e0b979ed11d",
           "sourceBodyHash": "sha256:3d3f9801d1d624a3",
           "translatedAt": "2026-11-07T00:42:05.558828+00:00",
-          "translationLastCommit": "b617cad0",
-          "translationLastModified": "2026-09-25T12:51:27+08:00",
+          "translationLastCommit": "20daf874",
+          "translationLastModified": "2026-11-07T09:05:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 20121,
@@ -170063,20 +170101,18 @@
         "ru": {
           "path": "ru/Food/taiwanese-turnip-cake.md",
           "translatedFrom": "Food/蘿蔔糕.md",
-          "sourceCommitSha": "e974b4c9e",
+          "sourceCommitSha": "ef8369eef",
           "sourceContentHash": "sha256:bfc99220dad6565a",
           "sourceBodyHash": "sha256:a28947ebbfc382fe",
-          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translatedAt": "2026-11-07T01:07:45.508105+00:00",
           "translationLastCommit": "2a11deae",
           "translationLastModified": "2026-09-09T22:38:42+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 29936,
+          "bytes": 29995,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwanese-turnip-cake.md",
@@ -197199,11 +197235,11 @@
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
           "translatedAt": "2026-11-06T23:34:18.641887+00:00",
-          "translationLastCommit": "d4b1ceab",
-          "translationLastModified": "2026-10-10T22:59:12+08:00",
+          "translationLastCommit": "20daf874",
+          "translationLastModified": "2026-11-07T09:05:17+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 60654,
+          "bytes": 60656,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
