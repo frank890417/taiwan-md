@@ -146,3 +146,5 @@
 {"at": "2026-11-08T02:35:26+08:00", "session": "2026-11-08-023514-α", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 27.0, "resets_at": "2026-11-11T11:59:59Z", "verdict": "normal"}
 {"at": "2026-11-08T08:35:17+08:00", "session": "α", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 29.0, "resets_at": "2026-11-11T12:00:00Z", "verdict": "normal"}
 {"at": "2026-11-08T08:35:29+08:00", "session": "α", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 30.0, "resets_at": "2026-11-11T12:00:00Z", "verdict": "normal"}
+{"at": "2026-11-08T14:35:06+08:00", "session": "2026-11-08-heartbeat", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 30.0, "resets_at": "2026-11-11T12:00:00.496Z", "verdict": "normal"}
+{"at": "2026-11-08T14:35:50+08:00", "session": "2026-11-08-143517-α", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 30.0, "resets_at": "2026-11-11T12:00:00.496Z", "verdict": "normal"}
