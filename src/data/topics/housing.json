@@ -1,0 +1,180 @@
+{
+  "id": "housing",
+  "path": "/housing/",
+  "title": {
+    "zh": "台灣房地產 2026：房價所得比、房貸、青安與發展歷程",
+    "en": "Taiwan Housing 2026: Prices, Mortgages and Policy"
+  },
+  "description": {
+    "zh": "2026 年全國房價所得比 9.47 倍（115 年第 1 季）。整理八十年住宅政策與青安貸款三代條件，附房貸試算、負擔自查等四個工具，數字都附官方來源。",
+    "en": "Taiwan's price-to-income ratio was 9.47 in 2026 Q1. Eighty years of housing policy, the Qing-An loan, and four calculators, all sourced."
+  },
+  "emoji": "🏠",
+  "updated": "2026-11-10",
+  "subpages": [
+    {
+      "path": "/housing/history/",
+      "title": {
+        "zh": "發展歷程",
+        "en": "History"
+      },
+      "navTitle": {
+        "zh": "發展歷程",
+        "en": "History"
+      }
+    },
+    {
+      "path": "/housing/qingan/",
+      "title": {
+        "zh": "青安貸款",
+        "en": "The Youth Home-Starter Loan"
+      },
+      "navTitle": {
+        "zh": "青安貸款",
+        "en": "Qing-An loan"
+      }
+    },
+    {
+      "path": "/housing/tools/",
+      "title": {
+        "zh": "便民工具",
+        "en": "Tools"
+      },
+      "navTitle": {
+        "zh": "試算工具",
+        "en": "Calculators"
+      }
+    }
+  ],
+  "tools": [
+    {
+      "slug": "mortgage-calculator",
+      "path": "/housing/mortgage-calculator/",
+      "embedPath": "/embed/housing/mortgage-calculator/",
+      "title": {
+        "zh": "房貸試算 2026：本息、本金、寬限期與青安 3.0 對照",
+        "en": "Taiwan Mortgage Calculator 2026: Qing-An 3.0 Step Rates"
+      },
+      "description": {
+        "zh": "輸入貸款金額、年限與利率，算出每月還款、總利息與還款曲線。可切換青安 3.0 階梯利率與一般房貸對照，支援寬限期、分段利率與提前還款。",
+        "en": "Enter loan amount, term and rate to get the monthly payment, total interest and repayment curve. Compare Youth Loan 3.0 step rates with a normal loan."
+      },
+      "keywords": [
+        "房貸試算",
+        "房貸計算機",
+        "本息平均攤還",
+        "寬限期",
+        "青安 3.0",
+        "提前還款"
+      ],
+      "navTitle": {
+        "zh": "房貸試算",
+        "en": "Mortgage calculator"
+      }
+    },
+    {
+      "slug": "affordability-check",
+      "path": "/housing/affordability-check/",
+      "embedPath": "/embed/housing/affordability-check/",
+      "title": {
+        "zh": "房價負擔能力自查 2026：房貸負擔率與房價所得比",
+        "en": "Home Affordability Check 2026: Burden and Price-to-Income"
+      },
+      "description": {
+        "zh": "輸入家庭收入與房價，算出你的房貸負擔率與房價所得比，對照內政部四級標準與 22 縣市最新官方數字（115 年第 1 季）。",
+        "en": "Enter household income and home price to see your mortgage burden ratio and price-to-income ratio against official 22-county figures (2026 Q1)."
+      },
+      "keywords": [
+        "房價負擔能力",
+        "房貸負擔率",
+        "房價所得比",
+        "購屋能力",
+        "22 縣市"
+      ],
+      "navTitle": {
+        "zh": "負擔自查",
+        "en": "Affordability check"
+      }
+    },
+    {
+      "slug": "qingan-eligibility",
+      "path": "/housing/qingan-eligibility/",
+      "embedPath": "/embed/housing/qingan-eligibility/",
+      "title": {
+        "zh": "青安 3.0 資格自查 2026：年齡、所得與房價上限",
+        "en": "Qing-An 3.0 Eligibility Check 2026: Age, Income, Price Cap"
+      },
+      "description": {
+        "zh": "依財政部 2026 年 8 月上路的青安 3.0 條文，逐條比對年齡、年所得 200 萬、房價上限與限貸一次，列出可申請額度並附條文原文。",
+        "en": "Check age, NT$2 million income limit, price caps and the one-loan rule against Youth Loan 3.0, with the eligible ceiling and original wording."
+      },
+      "keywords": [
+        "青安 3.0",
+        "青安貸款資格",
+        "新青安",
+        "年所得 200 萬",
+        "房價上限",
+        "限貸一次"
+      ],
+      "navTitle": {
+        "zh": "青安資格",
+        "en": "Qing-An eligibility"
+      }
+    },
+    {
+      "slug": "rent-vs-buy",
+      "path": "/housing/rent-vs-buy/",
+      "embedPath": "/embed/housing/rent-vs-buy/",
+      "title": {
+        "zh": "買房還是租房試算 2026：用你的假設比較淨資產",
+        "en": "Rent vs Buy Calculator 2026: Net Worth on Your Assumptions"
+      },
+      "description": {
+        "zh": "輸入房價、租金、利率與你自己對房價和報酬的假設，逐年比較買與租兩條路的淨資產，所有假設都看得到、改得動。",
+        "en": "Enter price, rent, rates and your own assumptions about prices and returns to compare net worth by year; every assumption is editable."
+      },
+      "keywords": ["買房還是租房", "買租比較", "租金", "淨資產", "購屋試算"],
+      "navTitle": {
+        "zh": "買租比較",
+        "en": "Rent vs buy"
+      }
+    }
+  ],
+  "relatedArticles": [
+    "/society/國宅與居住正義/",
+    "/society/居住正義/",
+    "/society/都市更新爭議/",
+    "/society/鐵皮屋/",
+    "/society/台南鐵路地下化/",
+    "/history/台灣土地改革/",
+    "/history/台灣眷村歷史/",
+    "/geography/林口新市鎮/",
+    "/geography/北大特區/",
+    "/society/冷氣與能源貧窮議題/",
+    "/geography/寶藏巖/",
+    "/geography/四四南村/",
+    "/geography/樂生療養院/",
+    "/society/台灣原住民族土地正義與傳統領域/",
+    "/geography/台灣都市發展與城鄉差距/",
+    "/geography/用數據看台灣22縣市/",
+    "/society/台灣的年級生世代/",
+    "/society/台灣斜槓世代/",
+    "/society/誰算低薪/",
+    "/society/台灣少子化危機/",
+    "/lifestyle/台灣騎樓文化與街景/",
+    "/culture/鐵窗花/",
+    "/art/台灣建築/",
+    "/art/戰後台灣現代主義建築群像/",
+    "/technology/台灣BIM與營建科技/",
+    "/geography/新竹縣/",
+    "/geography/基隆市/",
+    "/geography/新北市/",
+    "/geography/苗栗縣/",
+    "/geography/板南線/",
+    "/geography/三鶯線/",
+    "/music/農村武裝青年/",
+    "/people/尹衍樑/"
+  ],
+  "relatedTopics": ["income", "health", "industry"],
+  "languages": ["zh-TW", "en"]
+}

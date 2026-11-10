@@ -1,0 +1,107 @@
+---
+/**
+ * housing-positions.template.astro：/housing/positions/ 各方立場（13 語共用 template）。
+ *
+ * 選前不公開：Layout 輸出 noindex；沒有任何頁面連到這裡，也不在 src/data/topics/housing.json 的 subpages 裡；
+ * 頁首有「本頁整理中，尚未公開」說明條。
+ * 內容：coverageNote 全文、八個爭點矩陣、各方卡片、調查數據。引語只用一手與具名媒體，一手與轉述分開標示。
+ * 資料 SSOT：src/data/housing/positions.json，經 cleanPositions() 過濾：含「候選人」「參選人」字樣或 2026 候選人姓名的整筆略過。
+ */
+import '../styles/topics-foundation.css';
+import '../styles/housing.css';
+import Layout from '../layouts/Layout.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import SubHero from '../components/housing/sub/SubHero.astro';
+import SubNav from '../components/housing/sub/SubNav.astro';
+import PosIssues from '../components/housing/sub/PosIssues.astro';
+import PosActors from '../components/housing/sub/PosActors.astro';
+import PosSurveys from '../components/housing/sub/PosSurveys.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { housingSub } from '../i18n/housing-sub';
+import { fill } from '../utils/housing/format';
+import { fmtPeriod } from '../utils/housing/data';
+import { cleanPositions, loc } from '../utils/housing/sub-data';
+import positionsRaw from '../data/housing/positions.json';
+
+const lang = getLangFromUrl(Astro.url);
+const T = housingSub(lang);
+const H = T.pos;
+const pos = cleanPositions();
+const { actors, issues, surveys } = pos;
+const nQuotes = actors.reduce(
+  (n: number, a: any) => n + a.quotes.filter((q: any) => q.verbatim).length,
+  0,
+);
+const nActors = actors.filter(
+  (a: any) => a.stance.length > 0 || a.quotes.length > 0,
+).length;
+const date = (positionsRaw as any).retrieved as string;
+const vars = {
+  nIssues: issues.length,
+  nActors,
+  nQuotes,
+  date: fmtPeriod(date, lang),
+  iso: date,
+};
+const title = fill(H.meta.title, vars);
+const description = fill(H.meta.description, vars);
+const nav = [
+  { id: 'coverage', label: H.nav.coverage },
+  { id: 'issues', label: H.nav.issues },
+  { id: 'actors', label: H.nav.actors },
+  { id: 'surveys', label: H.nav.surveys },
+];
+---
+
+<Layout
+  lang={lang}
+  title={title}
+  description={description}
+  readerSettings={true}
+  noindex={true}
+>
+  <main class="housing-page tf-surface">
+    <div class="hs-draftbar" role="note">
+      <strong>{H.draft}</strong>
+    </div>
+    <SubHero
+      eyebrow={H.hero.eyebrow}
+      title={H.hero.title}
+      lede={fill(H.hero.lede, vars)}
+      stats={[
+        { v: String(issues.length), l: H.hero.s1l, cls: 'is-lead' },
+        { v: String(nActors), l: H.hero.s2l },
+        { v: String(nQuotes), l: H.hero.s3l, s: H.hero.s3s, cls: 'is-warm' },
+      ]}
+    >
+      {T.ui.asOf}
+      {vars.date}
+    </SubHero>
+    <TopicNav lang={lang} topic="housing" />
+    <SubNav label={T.ui.navLabel} items={nav} />
+    <section class="hs-section" id="coverage">
+      <div class="hs-wrap">
+        <p class="hs-kicker">{H.coverage.kicker}</p>
+        <h2 class="hs-h2">{H.coverage.h2}</h2>
+        <p class="hs-prose-block" lang={lang === 'zh-TW' ? 'zh-TW' : 'en'}>
+          {loc(pos.coverageNote, lang)}
+        </p>
+      </div>
+    </section>
+    <PosIssues
+      lang={lang}
+      issues={issues}
+      actors={actors}
+      groups={pos.groups}
+    />
+    <PosActors lang={lang} actors={actors} groups={pos.groups} />
+    <PosSurveys lang={lang} surveys={surveys} />
+    <section class="hs-section">
+      <div class="hs-wrap">
+        <p class="hs-fine">{H.foot}</p>
+      </div>
+    </section>
+    <TopicCrossLinks lang={lang} currentId="housing" />
+  </main>
+</Layout>

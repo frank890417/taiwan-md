@@ -1,0 +1,209 @@
+---
+/**
+ * S1Distribution — 第 1 區「年薪中位數與分布」。
+ *
+ * 圖一：DecileStrip（D1–D9＋中位數、平均數）。
+ * 圖二：ValueBars（各年齡組中位數）。
+ * 行業大類中位數放 <details> 表格。薪資位置工具由主模板塞進 <slot />。
+ */
+import type { Lang } from '../../../config/languages';
+import {
+  useIncomeT,
+  pickIncome,
+  fmtWan,
+  incomeLocale,
+} from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import DecileStrip from '../charts/DecileStrip.astro';
+import ValueBars from '../charts/ValueBars.astro';
+import dist from '../../../data/income/salary-distribution-2024.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const meta = dist._meta;
+const all = dist.all;
+const dft = dist.domesticFullTime;
+const year = meta.dataYear;
+const wan = (n: number) => fmtWan(n, lang);
+const lab = (o: { zh?: string; en?: string }) =>
+  pickIncome<string>(o, lang) ?? '';
+const pc = (v: number, d = 1) => `${v.toFixed(d)}%`;
+
+// 圖一：中文頁用萬元、英文頁用千元當顯示單位
+const scale = incomeLocale(lang) === 'zh-TW' ? 10000 : 1000;
+const dKeys = ['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9'] as const;
+const points = dKeys.map((k) => ({ label: k, value: all[k] / scale }));
+const markers = [
+  {
+    label: t('income.s1.marker.median', { v: wan(all.median) }),
+    value: all.median / scale,
+  },
+  {
+    label: t('income.s1.marker.mean', { v: wan(all.mean) }),
+    value: all.mean / scale,
+    cls: 'is-alt',
+  },
+];
+
+// 圖二：年齡組（under30 是 under25 與 25–29 的合計，拿掉避免重複）
+const ages = dist.byAge.filter((a) => a.id !== 'under30');
+const peak = ages.reduce((a, b) => (b.median > a.median ? b : a));
+const oldest = ages[ages.length - 1];
+const ageRows = ages.map((a) => ({
+  label: lab(a.label),
+  value: a.median,
+  display: wan(a.median),
+  highlight: a.id === peak.id,
+}));
+
+// 性別（全體受僱員工）
+const male = dist.bySex.find((s) => s.id === 'male')!;
+const female = dist.bySex.find((s) => s.id === 'female')!;
+
+// 行業大類：工業、服務業兩個部門與它們底下第一層
+const industries = dist.byIndustry
+  .filter(
+    (i) =>
+      i.parent === null || i.parent === 'industry' || i.parent === 'services',
+  )
+  .sort((a, b) => b.median - a.median);
+
+const srcUrl = meta.source[0].url;
+const source = t('income.s1.chart.source', {
+  roc: meta.dataYearRoc,
+  pub: meta.publishedDate,
+});
+const rel = await relatedList(lang, [
+  ['Society', '誰算低薪'],
+  ['Society', '移工'],
+  ['Society', '台灣的年級生世代'],
+  ['Society', '台灣青年的生涯迷航'],
+]);
+---
+
+<section class="bp-section" id="s1">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s1.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {t('income.s1.h2', { year, median: wan(all.median) })}
+    </h2>
+    <p class="bp-lede">
+      {
+        t('income.s1.lede', {
+          year,
+          median: wan(all.median),
+          mean: wan(all.mean),
+          gap: wan(all.mean - all.median),
+          d9: wan(all.D9),
+          d1: wan(all.D1),
+        })
+      }
+    </p>
+    <DecileStrip
+      id="c-inc-decile"
+      title={t('income.s1.chart1.title', {
+        median: wan(all.median),
+        d9: wan(all.D9),
+      })}
+      subtitle={t('income.s1.chart1.sub', { year })}
+      points={points}
+      markers={markers}
+      unit={t('income.s1.chart1.unit')}
+      source={source}
+      lang={lang}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s1.p1', {
+            dft: wan(dft.median),
+            diff: wan(dft.median - all.median),
+            d1: wan(all.D1),
+          })
+        }
+      </p>
+    </div>
+    <slot />
+    <ValueBars
+      id="c-inc-age"
+      title={t('income.s1.chart2.title', {
+        peak: lab(peak.label),
+        peakv: wan(peak.median),
+      })}
+      subtitle={t('income.s1.chart2.sub', { year })}
+      rows={ageRows}
+      source={source}
+      lang={lang}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s1.p2', {
+            m: wan(male.median),
+            f: wan(female.median),
+            sexdiff: wan(male.median - female.median),
+            ratio: pc((female.median / male.median) * 100),
+            peak: lab(peak.label),
+            peakv: wan(peak.median),
+            oldlabel: lab(oldest.label),
+            old: wan(oldest.median),
+          })
+        }
+      </p>
+    </div>
+    <details class="bg-table inc-ind">
+      <summary>{t('income.s1.industry.summary', { year })}</summary>
+      <div class="bg-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>{t('income.s1.industry.col.name')}</th>
+              <th class="num">{t('income.s1.industry.col.median')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              industries.map((i) => (
+                <tr>
+                  <td>{lab(i.label)}</td>
+                  <td class="num">{wan(i.median)}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </details>
+    <p class="bp-note">
+      {t('income.s1.note', { year, pub: meta.publishedDate })}
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.common.srclink')}
+        href={srcUrl}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+    {
+      rel.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.common.related')}</span>
+          {rel.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-ind {
+    margin-block: var(--space-4);
+  }
+</style>

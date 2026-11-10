@@ -1,0 +1,160 @@
+{
+  "_meta": {
+    "title": {
+      "zh": "公務人員退休所得替代率上限時程（原訂與 2025-12 修法後）",
+      "en": "Civil servant pension income-replacement ceiling schedule (original and after the December 2025 amendment)"
+    },
+    "unit": "%（退休所得替代率上限，以法條附表三為準）。",
+    "source": [
+      {
+        "name": "全國法規資料庫《公務人員退休資遣撫卹法》（修正日期 2025-12-26）",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080034"
+      },
+      {
+        "name": "第 37 條附表三（退休所得替代率對照彙整表，圖像 PDF）",
+        "url": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000409995&lan=C"
+      },
+      {
+        "name": "公務人員退休資遣撫卹法 沿革（公布令）",
+        "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080034"
+      }
+    ],
+    "asOf": "2026-11-10",
+    "fetched": "2026-11-10",
+    "derived": [
+      "calendarYearSeries.original35",
+      "calendarYearSeries.original15",
+      "calendarYearSeries.afterAmendment35",
+      "calendarYearSeries.afterAmendment15"
+    ],
+    "notes": [
+      "附表三為圖像檔、沒有文字層。35 年與 15 年兩列的十一期數值已於 2026-11-10 對照全國法規資料庫的附表三原檔逐格複核，無誤。圖內註記：「退休公務人員審定年資未滿十五年者，其退休所得替代率以十五年計。」",
+      "第 37 條：「任職滿十五年者，替代率為百分之四十五，其後每增加一年，替代率增給百分之一點五，最高增至三十五年，為百分之七十五。」第 38 條（新法後退休）超過 35 年每增一年增給 0.5%，最高 40 年。",
+      "2025 年修法（總統 2025-12-26 公布第 37、38、67 條）：「本法於中華民國一百十四年十二月十二日修正公布前或後退休生效者，一律以附表三所定中華民國一百十二年一月一日至一百十二年十二月三十一日之退休所得替代率上限認定之；附表三有關自中華民國一百十三年一月一日以後，逐年下降所得替代率之部分，不適用之。」→ 35 年年資停在 112 年的 69.0%，15 年年資停在 39.0%。條文寫「114 年 12 月 12 日修正公布」，但公布令日期是 12-26，12-12 是立法院三讀日，照錄不改。",
+      "calendarYearSeries 是本站整理（derived）：periods 是官方附表三的期間；calendar 年份第一期為 2018-07-01 到 2019-12-31，所以 2018 與 2019 都填第一期的 75.0／45.0；afterAmendment 為 2023（民國 112）年以前沿用原訂，2024（民國 113）年起固定在 112 年水準。這條線是「113 年以後退休適用的上限」的示意；已退休人員修法前後各如何重新審定，本檔不做判斷。",
+      "憲法法庭結果：行政院（2025-12-31）、考試院（2026-01-08）、民進黨團（2026-01-19）已聲請釋憲及暫時處分；截至研究能查到的最新資料（2026-08-06 行政院說明）尚未作成判決；2026-09 以後是否有裁定或判決未能確認。",
+      "行政院 2026-08-06 說法（聯合報）：依銓敘部估算，修法後公務人員退撫基金用罄年度提前至民國 134 年，教育人員提前至 131 年。這是行政院估算，不是本檔數據。"
+    ]
+  },
+  "periods": [
+    {
+      "id": "p1",
+      "labelRoc": "107.7.1–108.12.31",
+      "from": "2018-07-01",
+      "to": "2019-12-31",
+      "rate35YearsPct": 75,
+      "rate15YearsPct": 45
+    },
+    {
+      "id": "p2",
+      "labelRoc": "109",
+      "from": "2020-01-01",
+      "to": "2020-12-31",
+      "rate35YearsPct": 73.5,
+      "rate15YearsPct": 43.5
+    },
+    {
+      "id": "p3",
+      "labelRoc": "110",
+      "from": "2021-01-01",
+      "to": "2021-12-31",
+      "rate35YearsPct": 72,
+      "rate15YearsPct": 42
+    },
+    {
+      "id": "p4",
+      "labelRoc": "111",
+      "from": "2022-01-01",
+      "to": "2022-12-31",
+      "rate35YearsPct": 70.5,
+      "rate15YearsPct": 40.5
+    },
+    {
+      "id": "p5",
+      "labelRoc": "112",
+      "from": "2023-01-01",
+      "to": "2023-12-31",
+      "rate35YearsPct": 69,
+      "rate15YearsPct": 39
+    },
+    {
+      "id": "p6",
+      "labelRoc": "113",
+      "from": "2024-01-01",
+      "to": "2024-12-31",
+      "rate35YearsPct": 67.5,
+      "rate15YearsPct": 37.5
+    },
+    {
+      "id": "p7",
+      "labelRoc": "114",
+      "from": "2025-01-01",
+      "to": "2025-12-31",
+      "rate35YearsPct": 66,
+      "rate15YearsPct": 36
+    },
+    {
+      "id": "p8",
+      "labelRoc": "115",
+      "from": "2026-01-01",
+      "to": "2026-12-31",
+      "rate35YearsPct": 64.5,
+      "rate15YearsPct": 34.5
+    },
+    {
+      "id": "p9",
+      "labelRoc": "116",
+      "from": "2027-01-01",
+      "to": "2027-12-31",
+      "rate35YearsPct": 63,
+      "rate15YearsPct": 33
+    },
+    {
+      "id": "p10",
+      "labelRoc": "117",
+      "from": "2028-01-01",
+      "to": "2028-12-31",
+      "rate35YearsPct": 61.5,
+      "rate15YearsPct": 31.5
+    },
+    {
+      "id": "p11",
+      "labelRoc": "118.1.1 以後",
+      "from": "2029-01-01",
+      "to": null,
+      "rate35YearsPct": 60,
+      "rate15YearsPct": 30
+    }
+  ],
+  "calendarYearSeries": {
+    "years": [
+      2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029
+    ],
+    "original35": [75, 75, 73.5, 72, 70.5, 69, 67.5, 66, 64.5, 63, 61.5, 60],
+    "original15": [45, 45, 43.5, 42, 40.5, 39, 37.5, 36, 34.5, 33, 31.5, 30],
+    "afterAmendment35": [75, 75, 73.5, 72, 70.5, 69, 69, 69, 69, 69, 69, 69],
+    "afterAmendment15": [45, 45, 43.5, 42, 40.5, 39, 39, 39, 39, 39, 39, 39]
+  },
+  "frozenAt112": {
+    "period": "2023-01-01 to 2023-12-31",
+    "rate35YearsPct": 69,
+    "rate15YearsPct": 39
+  },
+  "law": {
+    "name": {
+      "zh": "公務人員退休資遣撫卹法",
+      "en": "Civil Servants Retirement, Severance and Pension Act"
+    },
+    "originalPromulgated": "2017-08-09",
+    "originalPromulgationOrder": "總統華總一義字第 10600095491 號令制定公布全文 95 條",
+    "reformEffective": "2018-07-01",
+    "amendmentPromulgated": "2025-12-26",
+    "amendmentThirdReading": "2025-12-12",
+    "amendmentOrder": "總統華總一義字第 11400132311 號令修正公布第 37、38、67 條條文",
+    "amendmentArticles": [37, 38, 67],
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080034",
+    "historyUrl": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080034",
+    "schedule3Url": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000409995&lan=C",
+    "schedule3VisuallyTranscribed": true
+  }
+}

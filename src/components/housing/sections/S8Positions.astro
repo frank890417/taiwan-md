@@ -1,0 +1,84 @@
+---
+/**
+ * S8Positions — 第 8 節：各方立場。只放 positions.json 中 group 為 government 與 advocacy、
+ * verbatim 為 true、來源為 primary 或具名媒體報導的引語（挑選邏輯見 utils/housing/quotes.ts），
+ * 每張卡標說話者、日期、出處連結，以及逐字引語或機關說法經媒體引述。
+ * 不放政黨、不放任何候選人，不連 /housing/positions/（該子頁選前不公開）。
+ * 英文頁的引語附本站翻譯（原文為中文）。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import { DATA, fmtPeriod } from '../../../utils/housing/data';
+import { pickHubQuotes } from '../../../utils/housing/quotes';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s8;
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+const pos: any = DATA.positions;
+const quotes = pickHubQuotes();
+const groups = ['government', 'advocacy'].map((g) => ({
+  id: g,
+  title: pos.groups.find((x: any) => x.id === g)?.title[L] ?? g,
+  list: quotes.filter((x) => x.group === g),
+}));
+const coverage: string = pos.coverageNote[L] ?? pos.coverageNote.en;
+const tr = (k: string) => (T.quotesEn as Record<string, string>)[k];
+---
+
+<section class="hs-section" id="positions">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-quotecols">
+      {
+        groups.map((g) => (
+          <div class="hs-quotecol">
+            <h3 class="hs-h3">{g.title}</h3>
+            {g.list.map((qt) => (
+              <figure class={`hs-quote is-${g.id}`}>
+                <blockquote lang="zh-TW">
+                  <p>{qt.text}</p>
+                </blockquote>
+                {!zh && tr(qt.key) && (
+                  <p class="hs-quote-tr">
+                    {tr(qt.key)}
+                    <span class="hs-quote-trn">{S.translation}</span>
+                  </p>
+                )}
+                <figcaption>
+                  <span class="hs-quote-who">{qt.speaker}</span>
+                  <span class="hs-quote-meta">
+                    <time datetime={qt.date}>{fmtPeriod(qt.date, lang)}</time>
+                    <span class="hs-tag">
+                      {qt.viaMedia ? S.paraphrase : S.quote}
+                    </span>
+                    <a
+                      href={qt.source.url}
+                      target="_blank"
+                      rel="noopener"
+                      class="no-external-icon"
+                    >
+                      {S.via}
+                      {zh ? '：' : ': '}
+                      {qt.source.publisher}
+                    </a>
+                  </span>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        ))
+      }
+    </div>
+    <details class="hs-limits">
+      <summary>{S.limits}</summary>
+      <p lang={zh ? 'zh-TW' : 'en'}>{coverage}</p>
+    </details>
+    <p class="hs-fine">{S.foot}</p>
+  </div>
+</section>

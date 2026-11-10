@@ -19,6 +19,7 @@ import {
   pickText,
 } from '../utils/topics/registry';
 import { buildItemListLd, serializeJsonLd } from '../utils/tools/jsonld';
+import { resolveStaticHref } from '../utils/staticRoutes';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTopicsT(lang);
@@ -51,12 +52,31 @@ const topicGroups: ToolGroup[] = getTopics()
     })),
   }));
 
-// TODO(協調者決定，2026-11-10)：站上已經存在、不屬於任何專題的工具
-// （例：/terminology/converter/ 用語轉換器）要不要列進這一頁，還沒決定。
-// 決定要列的話把它們填進下面這個陣列（一組 ToolGroup，id 用 'site'，
-// 標題文案加進 src/i18n/topics.ts），其餘邏輯（清單、數量、ItemList）會自動帶上。
-// 現在刻意留空：這一頁只列專題登記檔裡的工具。
-const siteGroups: ToolGroup[] = [];
+// 站上已經存在、不屬於任何專題的工具（協調者 2026-11-10 決定列入）。
+// /companies/ 已由 industry 專題登記，不重複。用語轉換器只有中文版，其他語言不列
+// （跟 Header 對 /exams 的作法一樣）。href 用 resolveStaticHref：該語言沒有那一頁
+// 就退回中文路徑，不產生死鏈。文案在 src/i18n/topics.ts 的 tools.site.*。
+const siteToolDefs = [
+  ...(lang === 'zh-TW'
+    ? [{ id: 'converter', path: '/terminology/converter/' } as const]
+    : []),
+  { id: 'data', path: '/data/' },
+  { id: 'map', path: '/map/' },
+  { id: 'timeline', path: '/timeline/' },
+  { id: 'elections', path: '/elections/2026/' },
+  { id: 'budget', path: '/budget/' },
+] as const;
+const siteGroups: ToolGroup[] = [
+  {
+    id: 'site',
+    title: t('tools.site.title'),
+    tools: siteToolDefs.map((def) => ({
+      href: resolveStaticHref(lang, def.path),
+      title: t(`tools.site.${def.id}.title`),
+      description: t(`tools.site.${def.id}.desc`),
+    })),
+  },
+];
 
 const groups: ToolGroup[] = [...topicGroups, ...siteGroups];
 const allTools = groups.flatMap((g) => g.tools);

@@ -45,6 +45,26 @@ const en = {
     'No tool has been published yet. This page will list each one as its topic goes live.',
   'tools.group.count': 'Tools: {n}',
   'tools.topicsLink': 'Browse by topic',
+  // 站上既有、不屬於任何專題的工具（/tools/ 的 site 群組，2026-11-10）
+  'tools.site.title': 'Across the site',
+  'tools.site.converter.title': 'Taiwan Mandarin term converter',
+  'tools.site.converter.desc':
+    'Paste Chinese text and convert mainland China wording to the terms used in Taiwan.',
+  'tools.site.data.title': 'Data Taiwan',
+  'tools.site.data.desc':
+    'Taiwan from 1950 to today in numbers, each one linked to its official source and download.',
+  'tools.site.map.title': 'Interactive map',
+  'tools.site.map.desc':
+    'Click a county or a place on the map to read the articles about it.',
+  'tools.site.timeline.title': 'Timeline of Taiwan',
+  'tools.site.timeline.desc':
+    'Scroll through every era of Taiwan’s history, each linked to in-depth articles.',
+  'tools.site.elections.title': '2026 local elections',
+  'tools.site.elections.desc':
+    'Candidates, schedule and political donations for the 28 November 2026 local elections.',
+  'tools.site.budget.title': 'Budget Decade',
+  'tools.site.budget.desc':
+    'Ten years of the central government budget: how it is split, what grew, what was cut and what was spent.',
   // ── ToolFrame ──
   'tool.openStandalone': 'Open on its own page',
   'tool.embed': 'Embed',
@@ -108,6 +128,24 @@ const zhTW: Record<Key, string> = {
   'tools.empty.body': '目前還沒有已上線的工具。各專題上線後會列在這一頁。',
   'tools.group.count': '{n} 個工具',
   'tools.topicsLink': '依專題瀏覽',
+  // 站上既有、不屬於任何專題的工具（/tools/ 的 site 群組，2026-11-10）
+  'tools.site.title': '站上其他工具',
+  'tools.site.converter.title': '台灣用語轉換器',
+  'tools.site.converter.desc': '貼上一段文字，把中國用語換成台灣的說法。',
+  'tools.site.data.title': '資料台灣',
+  'tools.site.data.desc':
+    '從 1950 年到今天，用數字讀台灣，每個數字都附官方出處與下載。',
+  'tools.site.map.title': '互動地圖',
+  'tools.site.map.desc': '在地圖上點一個縣市或地點，讀跟那裡有關的文章。',
+  'tools.site.timeline.title': '台灣時間軸',
+  'tools.site.timeline.desc':
+    '從史前到今天，一路捲過台灣的每個時代，每一段都連到深度文章。',
+  'tools.site.elections.title': '2026 選舉專區',
+  'tools.site.elections.desc':
+    '2026 年 11 月 28 日九合一選舉的候選人、時程與政治獻金。',
+  'tools.site.budget.title': '總預算十年',
+  'tools.site.budget.desc':
+    '中央政府總預算十年：錢怎麼分、哪裡在長、砍在哪、有沒有花掉。',
   'tool.openStandalone': '單獨開啟',
   'tool.embed': '嵌入',
   'tool.sources': '資料來源',
@@ -167,6 +205,26 @@ const ja: Record<Key, string> = {
     '公開済みのツールはまだありません。各トピックの公開に合わせて、このページに掲載します。',
   'tools.group.count': 'ツール {n} 件',
   'tools.topicsLink': 'トピック別に見る',
+  // 站上既有、不屬於任何專題的工具（/tools/ 的 site 群組，2026-11-10）
+  'tools.site.title': 'サイト内のその他のツール',
+  'tools.site.converter.title': '台湾用語コンバーター',
+  'tools.site.converter.desc':
+    '文章を貼り付けると、中国の用語を台湾の言い方に置き換えます。',
+  'tools.site.data.title': 'データで見る台湾',
+  'tools.site.data.desc':
+    '1950 年から現在までの台湾を数字で読む。すべての数字に公式の出典とダウンロード先を付けています。',
+  'tools.site.map.title': 'インタラクティブマップ',
+  'tools.site.map.desc':
+    '地図上の県・市や場所をクリックすると、その土地に関する記事が読めます。',
+  'tools.site.timeline.title': '台湾の歩み',
+  'tools.site.timeline.desc':
+    '先史から現在まで、台湾の各時代をスクロールでたどり、それぞれの記事へ進めます。',
+  'tools.site.elections.title': '2026 統一地方選',
+  'tools.site.elections.desc':
+    '2026 年 11 月 28 日の統一地方選挙の候補者、日程、政治献金。',
+  'tools.site.budget.title': '予算の10年',
+  'tools.site.budget.desc':
+    '中央政府総予算の 10 年：配分、増えた分野、削減、執行状況。',
   'tool.openStandalone': '単独ページで開く',
   'tool.embed': '埋め込む',
   'tool.sources': '出典',

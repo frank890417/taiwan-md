@@ -1,0 +1,1388 @@
+{
+  "_meta": {
+    "asOf": "2026-11-10",
+    "fetched": "2026-11-10",
+    "notes": {
+      "zh": "每則立場的 quote 欄只放回到來源網頁逐字比對到的句子（驗證日 2026-11-10）；報導以間接敘述呈現、或找不到逐字原文的說法一律寫成不帶引號的 paraphrase，verified 為 false。引號內的評價性用語是說話者自己的用詞，本站不認同也不反對。沒有找到的聲音寫在各議題的 gaps。2023 年及更早的說法在 note 標明。",
+      "en": "The quote field holds only sentences matched word for word against the source page on 10 November 2026. Statements that a report gives in indirect speech, or whose exact wording could not be found, are written as unquoted paraphrases with verified set to false. Evaluative words inside quotes are the speaker's own; this site neither endorses nor disputes them. Voices that were not found are listed in each topic's gaps. Statements from 2023 or earlier are flagged in the note."
+    },
+    "verificationMethod": {
+      "zh": "以 curl 加瀏覽器 User-Agent 或瀏覽器讀取原網頁，將文字去除標籤後以不計空白的方式比對。中國時報（旺得富）兩篇因網站擋 curl，改以瀏覽器讀取全文。來自電視新聞文字稿的引語，是報導裡帶引號的受訪原話。",
+      "en": "Source pages were fetched with curl using a browser User-Agent, or read in a browser, then stripped of tags and compared ignoring whitespace. The two China Times (WantRich) articles block curl and were read in a browser. Quotes taken from television news write-ups are the interviewee's words as printed inside quotation marks in the report."
+    }
+  },
+  "topics": [
+    {
+      "id": "pension-freeze",
+      "title": {
+        "zh": "公教年改與停止調降修法",
+        "en": "Civil servant pension reform and the 2025 amendment to stop the cuts"
+      },
+      "context": {
+        "zh": "2017 年公務人員與公立學校教職員退撫改革訂下所得替代率逐年調降的時程。2025-12 修法改為一律以 2023 年上限認定，行政院、考試院與民進黨團已向憲法法庭聲請釋憲，截至 2026-11-10 未查到判決。",
+        "en": "The 2017 reform of civil servant and public school staff pensions set a schedule of yearly cuts to replacement rates. An amendment in December 2025 fixes them at the 2023 ceiling; the Executive Yuan, the Examination Yuan and the DPP caucus have petitioned the Constitutional Court, and no judgment was found as of 10 November 2026."
+      },
+      "positions": [
+        {
+          "group": "government",
+          "actor": {
+            "zh": "行政院長卓榮泰",
+            "en": "Premier Cho Jung-tai"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "總統公布修正條文當天宣布副署並聲請釋憲，公視新聞",
+            "en": "Announcing he would countersign and petition, on the day the president promulgated the amendment; Public Television Service"
+          },
+          "quote": "我們會副署讓法案生效，也會即刻送請大法官解釋",
+          "quoteEn": "we will countersign so that the bill takes effect, and will immediately send it to the grand justices for interpretation",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
+          },
+          "note": {
+            "zh": "行政院在 2025-12-31 向憲法法庭聲請釋憲及暫時處分。行政院發言人在三讀當天談年金制度的說法，放在「世代公平」議題。",
+            "en": "The Executive Yuan filed for constitutional interpretation and an interim order on 31 December 2025. The Executive Yuan spokesperson's remarks on the day of the third reading are listed under the generational fairness topic."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "總統賴清德",
+            "en": "President Lai Ching-te"
+          },
+          "date": "2025-12-12",
+          "venue": {
+            "zh": "臉書貼文，經聯合報報導",
+            "en": "Facebook post, reported by United Daily News"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "引用銓敘部的計算，表示若依照在野黨的版本，退撫基金將提早 3 到 4 年破產，政府需再額外撥補數千億元，最終要全民買單。",
+            "en": "Citing the Ministry of Civil Service's calculation, says that under the opposition version the pension fund will go bankrupt 3 to 4 years earlier, the government must add several hundred billion dollars in transfers, and the public will end up paying."
+          },
+          "verified": false,
+          "source": {
+            "name": "聯合報〈賴清德臉書談停砍公教年金〉",
+            "url": "https://udn.com/news/story/6656/9199772"
+          },
+          "note": {
+            "zh": "報導為間接敘述，「破產」是報導所載他的用詞。",
+            "en": "Indirect speech in the report; \"go bankrupt\" is his wording as the report gives it."
+          }
+        },
+        {
+          "group": "civil-servants",
+          "actor": {
+            "zh": "全國教育產業總工會前理事長黃耀南",
+            "en": "Huang Yao-nan, former chairman of the National Education Industry Union"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "回應行政院副署後聲請釋憲，公視新聞",
+            "en": "Response to the Executive Yuan countersigning and then petitioning, Public Television Service"
+          },
+          "quote": "我們公教人員來講，我們權益馬上就受損了。我們也應該會包括召開記者會，或是號召退休人員到法院提起訴訟，也不排除到行政院前去抗議。",
+          "quoteEn": "For us civil servants and teachers, our rights are harmed right away. We will probably hold a press conference, or call on retirees to file lawsuits in court, and we do not rule out protesting in front of the Executive Yuan.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
+          },
+          "note": {
+            "zh": "職稱照報導寫「前理事長」。這是行政院宣布副署修正條文、同時聲請釋憲當天的回應。",
+            "en": "The title follows the report, which says former chairman. He was responding on the day the Executive Yuan said it would countersign the amendment and petition the Constitutional Court."
+          }
+        },
+        {
+          "group": "civil-servants",
+          "actor": {
+            "zh": "全國公務人員協會前理事長李來希",
+            "en": "Li Lai-hsi, former chairman of the National Civil Servants Association"
+          },
+          "date": "2026-01-12",
+          "venue": {
+            "zh": "回應銓敘部說明重新審定退休所得需時半年，公視新聞",
+            "en": "Response to the Ministry of Civil Service saying recalculation would take half a year, Public Television Service"
+          },
+          "quote": "中華民國的資訊技術如果是這麼落後，那我不曉得我們的AI跑哪裡去了，透過程序上的干擾，希望拖、拖到憲法法庭開議。",
+          "quoteEn": "If the Republic of China's information technology is this backward, then I do not know where our AI has gone; through procedural interference, they hope to drag it out, drag it out until the Constitutional Court sits.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈立院停砍公教年金重審需半年 遭立委質疑為等釋憲拖延〉",
+            "url": "https://news.pts.org.tw/article/790303"
+          },
+          "note": {
+            "zh": "銓敘部表示要重新審定近 18 萬名退休公務人員的所得替代率，系統調整約需半年，期間先依原規定發給。同篇報導載考試院回應，作業時程參考過往經驗，沒有故意拖延。",
+            "en": "The ministry said it had to recalculate replacement rates for nearly 180,000 retired civil servants, that system changes would take about half a year, and that pensions would be paid under the old rules meanwhile. The same report carries the Examination Yuan's reply that the schedule follows past experience and there is no deliberate delay."
+          }
+        },
+        {
+          "group": "civil-servants",
+          "actor": {
+            "zh": "全國教師工會總聯合會",
+            "en": "National Federation of Teachers Unions"
+          },
+          "date": "2025-12-13",
+          "venue": {
+            "zh": "三讀隔天的粉絲專頁貼文，自由時報報導",
+            "en": "Fan page post the day after the third reading, reported by Liberty Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "感謝支持這次修法的立委，表示修法讓公教人員退休生活獲得基本保障，是穩定教育現場的關鍵；並要求政府返還年資補償金、依十年撥補方案撥補。",
+            "en": "Thanks the legislators who backed the amendment, saying it gives civil servants and teachers basic security in retirement and is key to stabilising schools; also asks the government to return seniority compensation payments and to make transfers under the ten-year plan."
+          },
+          "verified": false,
+          "source": {
+            "name": "自由時報〈全教總發文感謝反年改過關 被憤怒網友批評、教師也留言反對〉",
+            "url": "https://news.ltn.com.tw/news/politics/breakingnews/5277191"
+          },
+          "note": {
+            "zh": "貼文原文沒有讀到，這裡依報導的敘述轉述。同篇報導提到貼文下方有在職教師留言反對。",
+            "en": "The post itself was not read; this follows the report's account. The same report notes that serving teachers left comments opposing the post."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民主進步黨（發言人吳崢、立委陳培瑜記者會新聞稿）",
+            "en": "Democratic Progressive Party (press release on a briefing by spokesperson Wu Cheng and legislator Chen Pei-yu)"
+          },
+          "date": "2025-10-22",
+          "venue": {
+            "zh": "民進黨官網新聞稿",
+            "en": "DPP website press release"
+          },
+          "quote": "國民黨企圖推動反年改法案，將造成國家沉重的財政負擔",
+          "quoteEn": "The KMT is trying to push an anti-pension-reform bill that will impose a heavy fiscal burden on the country",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "民主進步黨新聞中心〈年改莫走回頭路〉",
+            "url": "https://www.dpp.org.tw/media/contents/11345"
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立法院黨團",
+            "en": "Kuomintang caucus in the Legislative Yuan"
+          },
+          "date": "2025-11-05",
+          "venue": {
+            "zh": "停止調降所得替代率修法審查期間，公視新聞綜述",
+            "en": "During committee review of the amendment to stop replacement-rate cuts, summarized by Public Television Service"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示物價不斷上漲，退休軍公教年金卻持續調降，恐使退休者晚年生活吃緊；稱這次修法目的在於「停砍」，沒有要「回復」過去水準，並批評民進黨政府以年改污名化軍公教人員、違背退休年金承諾。",
+            "en": "Says prices keep rising while retiree pensions keep being cut, which may leave retirees short in old age; says the aim of the amendment is to \"stop the cuts\", with no intention to \"restore\" past levels, and criticises the DPP government for using pension reform to stigmatise military, civil service and teaching staff and for breaking pension promises."
+          },
+          "verified": false,
+          "source": {
+            "name": "公視新聞〈藍白停砍公教年金修法拚12月三讀 一文了解朝野3黨主張〉",
+            "url": "https://news.pts.org.tw/article/779860"
+          },
+          "note": {
+            "zh": "黨團說法由公視綜述，引號內的兩個詞是報導所載黨團用語。",
+            "en": "The caucus position is summarized by the broadcaster; the two quoted terms are the caucus's words as printed in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立法院黨團書記長羅智強",
+            "en": "Lo Chih-chiang, secretary-general of the Kuomintang caucus in the Legislative Yuan"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "總統公布修正條文、行政院宣布聲請釋憲當天，公視新聞",
+            "en": "On the day the president promulgated the amendment and the Executive Yuan announced its petition, Public Television Service"
+          },
+          "quote": "請你對公教柔軟一點吧，公教為了所謂的民進黨標舉的年金改革，已經被削其血肉了，那今天也不過是請求停砍，卑微地請求停砍。",
+          "quoteEn": "Please be a little gentler with civil servants and teachers. For the pension reform the DPP holds up, they have already had their flesh cut away, and today they are only asking for the cuts to stop, humbly asking for the cuts to stop.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
+          },
+          "note": {
+            "zh": "這句話是對總統賴清德說的。",
+            "en": "The remark was addressed to President Lai Ching-te."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民眾黨立法院黨團（總召黃國昌）",
+            "en": "Taiwan People's Party caucus in the Legislative Yuan (convener Huang Kuo-chang)"
+          },
+          "date": "2025-11-04",
+          "venue": {
+            "zh": "再修正動議記者會，公視新聞綜述",
+            "en": "Briefing on a further amendment motion, summarized by Public Television Service"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "主張當年起停止調降並要求政府撥補，消費者物價指數累計成長達 5% 時同步調整給付；黃國昌表示不贊成年金改革走回頭路，但現行制度經過 7 年需適時檢討。",
+            "en": "Proposes stopping cuts from that year with government transfers and adjusting benefits when the consumer price index rises 5% cumulatively; Huang says he opposes turning back pension reform but that the system needs timely review after seven years."
+          },
+          "verified": false,
+          "source": {
+            "name": "公視新聞〈藍白停砍公教年金修法拚12月三讀 一文了解朝野3黨主張〉",
+            "url": "https://news.pts.org.tw/article/779860"
+          },
+          "note": {
+            "zh": "黨團主張由公視綜述，黃國昌的發言在報導中是間接敘述。",
+            "en": "The caucus position is summarized by the broadcaster, and Huang's remarks appear in indirect speech."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民眾黨立委張啟楷",
+            "en": "Chang Chi-kai, Taiwan People's Party legislator"
+          },
+          "date": "2025-11-06",
+          "venue": {
+            "zh": "立法院委員會聯席審查公立學校教職員退撫條例修正草案當天，公視新聞",
+            "en": "On the day legislative committees jointly reviewed the school staff pension bill, Public Television Service"
+          },
+          "quote": "同時對勞工都是該撥補就要撥補，對公教也要撥補就撥補，只要撥補做到了，勞工不會破產，公教也不會破產。",
+          "quoteEn": "At the same time, for workers, transfers that are due should be made, and for civil servants and teachers, transfers that are due should be made too. As long as the transfers are made, workers' pensions will not go bankrupt and neither will those of civil servants and teachers.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈立院審停砍公立學校教職員年金 行政院：退撫基金將提前用完〉",
+            "url": "https://news.pts.org.tw/article/780005"
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "時代力量黨主席王婉諭",
+            "en": "Wang Wan-yu, chairperson of the New Power Party"
+          },
+          "date": "2025-12-12",
+          "venue": {
+            "zh": "立法院三讀通過後的回應，經 NOWnews 報導",
+            "en": "Response after the third reading, reported by NOWnews"
+          },
+          "quote": "歷史會記住這一天，也會記住是誰為了選票犧牲了世代正義與財政未來。",
+          "quoteEn": "History will remember this day, and will remember who sacrificed generational justice and the fiscal future for votes.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "NOWnews〈反年改三讀通過！王婉諭痛批〉",
+            "url": "https://www.nownews.com/news/6764396"
+          }
+        },
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "陽明交通大學法律學者林志潔",
+            "en": "Lin Chih-chieh, law scholar at National Yang Ming Chiao Tung University"
+          },
+          "date": "2025-11-09",
+          "venue": {
+            "zh": "個人臉書貼文，經聯合報報導",
+            "en": "Personal Facebook post, reported by United Daily News"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示她堅定支持年改，因為少子化、高齡化與平均餘命延長，早年設計的所得替代率一定要調整，否則未來退撫基金必將破產；若以國家預算撥補，等於沒有退休金的許多納稅人要供養特定職業的退休者，她稱這是世代的不正義，也是階級的不正義。她也提到自己的家人受年改影響。",
+            "en": "Says she firmly supports the reform because falling births, ageing and longer life expectancy mean the replacement rates designed earlier must be adjusted, or the pension fund will certainly go bankrupt; if the state budget tops it up, many taxpayers without pensions would be supporting retirees of one occupation, which she calls unjust across generations and across classes. She also notes her own family was affected by the reform."
+          },
+          "verified": false,
+          "source": {
+            "name": "聯合報〈學者林志潔：為年輕人 年改不能走回頭路〉",
+            "url": "https://udn.com/news/story/6656/9127056"
+          },
+          "note": {
+            "zh": "報導為間接敘述，用詞照報導所載；臉書原文沒有讀到。",
+            "en": "Indirect speech in the report, with wording as the report gives it; the Facebook original was not read."
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "資方團體、勞工團體針對這次修法的公開說法沒有找到。國民黨立法院黨團與民眾黨立法院黨團的正式說法，只找到媒體的轉述，沒有找到黨團自己發布的新聞稿原文；這裡帶引號的是兩黨立委受訪或發言時的原話。軍公教團體帶引號的原話來自兩位前理事長受訪，全國教師工會總聯合會只找到媒體對貼文的轉述，全國公務人員協會現任幹部與八百壯士針對這次修法的說法沒有找到。台灣基進與社會民主黨的正式主張沒有找到。財政部針對這次修法的財務數字沒有找到。銓敘部與行政院各自引用的撥補金額口徑不同，本頁不替任何一方換算。行政院發言人、考試院與部分學者談世代正義的說法，放在「世代公平」議題。",
+        "en": "No public statements from business or labor groups on this amendment were found. For the Kuomintang and People's Party caucuses, only media summaries of their formal positions were found, not the caucuses' own press releases; the quoted words here are what legislators of the two parties said in interviews or on the floor. The quoted words from military, civil service and teacher groups come from interviews with two former chairmen; for the National Federation of Teachers Unions only a media account of its post was found, and no statements on this amendment from current officers of the National Civil Servants Association or from the 800 Heroes group were found. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found. No Ministry of Finance figures on this amendment were found. The Ministry of Civil Service and the Executive Yuan use different transfer figures and this page does not reconcile them. Remarks on generational justice by the Executive Yuan spokesperson, the Examination Yuan and some scholars are listed under the generational fairness topic."
+      }
+    },
+    {
+      "id": "labor-insurance-finance",
+      "title": {
+        "zh": "勞保財務與勞保年改",
+        "en": "Labor Insurance finances and reform"
+      },
+      "context": {
+        "zh": "113 年度精算報告（基準日 2023-12-31）估計未提存精算負債為 13 兆 2,298 億元，基金累積餘額出現負值年度為民國 120 年。2025-12-30 勞保條例修正三讀，定明政府每年編列預算撥補並至少每 3 年檢討財務。",
+        "en": "The actuarial report for 2024 (valuation date 31 December 2023) puts the unfunded actuarial liability at NT$13.23 trillion and the year the fund balance turns negative at ROC year 120. On 30 December 2025 the Labor Insurance Act was amended to require annual budget transfers and a financial review at least every three years."
+      },
+      "positions": [
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "新北市產業總工會榮譽理事長洪清福",
+            "en": "Hung Ching-fu, honorary chairman of the New Taipei City Industrial Union"
+          },
+          "date": "2025-11-16",
+          "venue": {
+            "zh": "立法院審查勞保條例前夕的工會訪談，中國時報",
+            "en": "Union interview before the Legislative Yuan reviewed the Labor Insurance Act, China Times"
+          },
+          "quote": "對於撥補入法100％支持。",
+          "quoteEn": "I support writing the transfers into law one hundred percent.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "中國時報〈勞團肯定 勞工不再提心吊膽〉（旺得富）",
+            "url": "https://wantrich.chinatimes.com/news/20251116900046-420501"
+          }
+        },
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "台灣勞工陣線祕書長楊書瑋",
+            "en": "Yang Shu-wei, secretary-general of the Taiwan Labor Front"
+          },
+          "date": "2025-11-16",
+          "venue": {
+            "zh": "同上",
+            "en": "Same interview series, China Times"
+          },
+          "quote": "撥補不是一種改革。",
+          "quoteEn": "Transfers are not a kind of reform.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "中國時報〈勞團肯定 勞工不再提心吊膽〉（旺得富）",
+            "url": "https://wantrich.chinatimes.com/news/20251116900046-420501"
+          },
+          "note": {
+            "zh": "同篇報導轉述他表示，如果勞保年改依舊只有政府撥補，恐怕還是會面臨破產，撥補也會進一步排擠社會福利預算編列。",
+            "en": "The same report paraphrases him as saying that if labor insurance reform still consists only of government transfers, the fund will probably still face bankruptcy, and that transfers would further crowd out social welfare budgets."
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "中小企業總會理事長李育家",
+            "en": "Lee Yu-chia, chairman of the National Association of Small and Medium Enterprises"
+          },
+          "date": "2025-11-16",
+          "venue": {
+            "zh": "立法院審查勞保條例前夕，中國時報",
+            "en": "Before the Legislative Yuan reviewed the Labor Insurance Act, China Times"
+          },
+          "quote": "勞保、健保不能倒",
+          "quoteEn": "Labor insurance and health insurance cannot fail",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "中國時報〈負擔加重 工商界憂引發通膨〉（旺得富）",
+            "url": "https://wantrich.chinatimes.com/news/20251116900048-420501"
+          },
+          "note": {
+            "zh": "同篇報導轉述他認為中央政府可運用的財源有限，國庫撥補勞保基金法制化會壓縮整體施政能力。",
+            "en": "The same report paraphrases him as saying the central government's usable revenue is limited and legally mandated transfers would squeeze overall governance."
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "全國商業總會榮譽理事長賴正鎰",
+            "en": "Lai Cheng-yi, honorary chairman of the General Chamber of Commerce"
+          },
+          "date": "2025-11-16",
+          "venue": {
+            "zh": "立法院審查勞保條例前夕，中國時報",
+            "en": "Before the Legislative Yuan reviewed the Labor Insurance Act, China Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "認為政府負最終支付責任入法會增加企業負擔；勞保費用由企業負擔 70%、勞工 20%、政府 10%，希望勞保改革時一併調整負擔比率。",
+            "en": "Says writing the government's final payment responsibility into law raises business burdens; premiums are split 70% employers, 20% workers, 10% government, and he wants the ratio changed in any reform."
+          },
+          "verified": false,
+          "source": {
+            "name": "中國時報〈負擔加重 工商界憂引發通膨〉（旺得富）",
+            "url": "https://wantrich.chinatimes.com/news/20251116900048-420501"
+          },
+          "note": {
+            "zh": "報導為間接敘述。",
+            "en": "Indirect speech in the report."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "勞動部（部長洪申翰）",
+            "en": "Ministry of Labor (Minister Hung Sun-han)"
+          },
+          "date": "2025-12-30",
+          "venue": {
+            "zh": "勞保條例修正三讀新聞稿",
+            "en": "Press release on the Labor Insurance Act amendment"
+          },
+          "quote": "本次修法定明勞工保險財務，由中央政府負最後支付責任",
+          "quoteEn": "This amendment stipulates that the central government bears final payment responsibility for the finances of Labor Insurance",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "勞動部新聞稿（2025-12-30）",
+            "url": "https://www.mol.gov.tw/1607/1632/1633/87321/post"
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "勞動部",
+            "en": "Ministry of Labor"
+          },
+          "date": "2025-01-21",
+          "venue": {
+            "zh": "公布 113 年度勞保精算結果的新聞稿",
+            "en": "Press release on the 2024 Labor Insurance actuarial results"
+          },
+          "quote": "勞保是國家辦的社會保險，政府負最後支付責任，勞保絕對不會倒，請勞工朋友安心",
+          "quoteEn": "Labor Insurance is a social insurance run by the state, the government bears final payment responsibility, Labor Insurance will absolutely not collapse, workers can rest assured",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "勞動部新聞稿（2025-01-21）",
+            "url": "https://www.mol.gov.tw/1607/1632/1633/77917/post"
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "勞動部長洪申翰",
+            "en": "Labor Minister Hung Sun-han"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "記者會，經自由時報報導",
+            "en": "Press conference, reported by Liberty Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示 2026 年仍會爭取不低於往年的撥補並以基金投資提升水位，目前沒有研議制度改革或調降給付的規劃。",
+            "en": "Says the ministry will keep seeking transfers no lower than previous years and use fund investment to raise the balance, and that no institutional reform or benefit cut is currently being considered."
+          },
+          "verified": false,
+          "source": {
+            "name": "自由時報〈洪申翰談2026年勞保撥補〉",
+            "url": "https://ec.ltn.com.tw/article/breakingnews/5290745"
+          },
+          "note": {
+            "zh": "報導為間接敘述。",
+            "en": "Indirect speech in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立委廖偉翔",
+            "en": "Liao Wei-hsiang, Kuomintang legislator"
+          },
+          "date": "2026-05-07",
+          "venue": {
+            "zh": "立法院衛環委員會質詢，經中央廣播電臺與科技新報報導",
+            "en": "Legislative committee questioning, reported by Radio Taiwan International and TechNews"
+          },
+          "quote": "樓地板快撞到天花板",
+          "quoteEn": "the floor is about to hit the ceiling",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "科技新報〈勞保級距要動了？洪申翰允兩個月內提出評估資料〉",
+            "url": "https://technews.tw/?p=1552033"
+          },
+          "note": {
+            "zh": "他比較勞保投保薪資上限與最低工資：2006 年上限是最低工資的 2.77 倍，2026 年只剩 1.55 倍。引號內是報導所載片段。",
+            "en": "He compared the insured salary ceiling with the minimum wage: 2.77 times in 2006, 1.55 times in 2026. The quoted words are a fragment printed in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民進黨立委林月琴",
+            "en": "Lin Yueh-chin, Democratic Progressive Party legislator"
+          },
+          "date": "2026-05-01",
+          "venue": {
+            "zh": "五一勞工大遊行，立法院三黨團受邀回應",
+            "en": "May Day march, invited response from three legislative caucuses"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示聽到遊行團體訴求，將帶回黨團與政府及各產業代表共同協商。",
+            "en": "Says the marchers' demands were heard and will be taken back to the caucus for talks with the government and industry representatives."
+          },
+          "verified": false,
+          "source": {
+            "name": "工商時報〈五一遊行籲增退休保障 民進黨團回應〉",
+            "url": "https://www.ctee.com.tw/news/20260501700664-431401"
+          },
+          "note": {
+            "zh": "報導為間接敘述。",
+            "en": "Indirect speech in the report."
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "勞保年改沒有公開時程，勞動部說目前沒有研議調降給付。勞團對 2025-12-30 三讀本身的聲明沒有找到，只有三讀前的訪談。青年團體針對勞保財務的近期說法沒有找到，找到的只有 2017 年的。軍公教團體沒有針對勞保財務的說法被收錄。",
+        "en": "There is no public timetable for Labor Insurance reform and the ministry says no benefit cuts are being considered. No labor group statement on the 30 December 2025 passage itself was found, only pre-vote interviews. No recent youth group statements on Labor Insurance finances were found, only ones from 2017. No statements by military, civil service or teacher groups on Labor Insurance finances are included."
+      }
+    },
+    {
+      "id": "minimum-wage",
+      "title": {
+        "zh": "最低工資調幅",
+        "en": "Size of minimum wage increases"
+      },
+      "context": {
+        "zh": "《最低工資法》2024-01-01 施行。審議會 2026-09-24 決議 2027 年月薪由 29,500 元調為 30,900 元，調幅 4.745%。",
+        "en": "The Minimum Wage Act took effect on 1 January 2024. On 24 September 2026 the review committee decided to raise the monthly minimum wage for 2027 from NT$29,500 to NT$30,900, up 4.745%."
+      },
+      "positions": [
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "台灣勞工陣線祕書長楊書瑋",
+            "en": "Yang Shu-wei, secretary-general of the Taiwan Labor Front"
+          },
+          "date": "2025-09-04",
+          "venue": {
+            "zh": "多個勞團於最低工資審議會前的記者會，公視新聞",
+            "en": "Labor groups' briefing before the minimum wage review, Public Television Service"
+          },
+          "quote": "就是要靠調整薪資，才可以鼓勵更多的人進入到這樣的產業工作",
+          "quoteEn": "it comes down to adjusting wages, which is what can encourage more people to enter such industries",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈最低工資審議會月底登場 勞團籲至少要3萬元〉",
+            "url": "https://news.pts.org.tw/article/768894"
+          },
+          "note": {
+            "zh": "前半句是「解決低薪、缺工的這個問題」。勞團呼籲月薪至少調到 3 萬元。",
+            "en": "The first half of the sentence is about solving low pay and labor shortages. The groups called for at least NT$30,000 a month."
+          }
+        },
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "全國產業總工會理事長江健興（時任）",
+            "en": "Chiang Chien-hsing, then chairman of the National Federation of Industrial Unions"
+          },
+          "date": "2023-09-08",
+          "venue": {
+            "zh": "基本工資審議委員會當日，勞動部前記者會",
+            "en": "Outside the Ministry of Labor on the day of the basic wage review"
+          },
+          "quote": "這是分配不正義！",
+          "quoteEn": "This is unjust distribution!",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "NOWnews〈基本工資今審議！勞團喊低薪是國恥〉",
+            "url": "https://www.nownews.com/news/6254178"
+          },
+          "note": {
+            "zh": "2023 年的說法，發言人當時是江健興，不是現任理事長。他說經濟持續成長但勞工分到的愈來愈少。",
+            "en": "A 2023 statement by the chairman at the time, not the current one. He said the economy keeps growing while workers get less."
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "工總理事長潘俊榮",
+            "en": "Pan Chun-jung, chairman of the Chinese National Federation of Industries"
+          },
+          "date": "2025-09-02",
+          "venue": {
+            "zh": "2025 年工總白皮書發表會會前受訪，中央社",
+            "en": "Interview before the federation's 2025 white paper launch, Central News Agency"
+          },
+          "quote": "我認為這些老闆都承受得起",
+          "quoteEn": "I think these employers can all bear it",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "中央社〈工總白皮書發表會，潘俊榮談最低工資〉",
+            "url": "https://www.cna.com.tw/news/afe/202509020059.aspx"
+          },
+          "note": {
+            "zh": "這句話的前文：他說台灣大環境不是很好、物價也在波動，「不能讓員工生活太困難」，所以基本工資調高是應該的；後面接著說企業也要有愛心。同一場受訪他主張電價絕對不能調漲。",
+            "en": "The lead-up to this sentence: he said conditions in Taiwan are not good and prices are fluctuating, that employees' lives must not be made too hard, and that a higher basic wage is therefore right; he went on to say businesses should also show some heart. In the same interview he argued electricity prices must not rise."
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "工總常務理事何語",
+            "en": "Ho Yu, standing director of the Chinese National Federation of Industries"
+          },
+          "date": "2025-09-04",
+          "venue": {
+            "zh": "勞團記者會旁的資方回應，公視新聞",
+            "en": "Employer response alongside the labor briefing, Public Television Service"
+          },
+          "quote": "國內經濟情勢的狀況都不明朗嘛，那中部地區很多外銷的廠商，第3季、第4季訂單都不理想嘛",
+          "quoteEn": "The domestic economic outlook is unclear, and many export manufacturers in central Taiwan have poor orders in the third and fourth quarters",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈最低工資審議會月底登場 勞團籲至少要3萬元〉",
+            "url": "https://news.pts.org.tw/article/768894"
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "全國商業總會理事長許舒博",
+            "en": "Hsu Shu-po, chairman of the General Chamber of Commerce"
+          },
+          "date": "2026-09-24",
+          "venue": {
+            "zh": "最低工資審議會後的聲明，優分析轉載",
+            "en": "Statement after the minimum wage review meeting, reposted by UAnalyze"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示尊重審議結果，但最低工資調升會連動勞保、勞退、健保等法定人事成本，呼籲重新檢討雇主與政府的分擔機制、適度提高政府分擔比重。",
+            "en": "Says the committee's decision is respected but that a higher minimum wage raises statutory costs such as labor insurance, labor pension and health insurance; calls for reviewing the employer-government split and raising the government's share."
+          },
+          "verified": false,
+          "source": {
+            "name": "優分析〈工資審議〉",
+            "url": "https://uanalyze.com.tw/articles/2589855982"
+          },
+          "note": {
+            "zh": "這是對 2026-09-24 最低工資審議結果的回應。報導沒有引號，商總聲明原文沒有讀到。",
+            "en": "A response to the 24 September 2026 minimum wage decision. The report has no quotation marks and the chamber's original statement was not read."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "勞動部",
+            "en": "Ministry of Labor"
+          },
+          "date": "2026-09-24",
+          "venue": {
+            "zh": "最低工資審議會結果新聞稿",
+            "en": "Press release on the minimum wage review result"
+          },
+          "quote": "全數委員均認同消費者物價指數年增率CPI應全數反映，經濟成長率GDP應合理分享",
+          "quoteEn": "All members agreed that the annual consumer price rise should be fully reflected and that economic growth should be reasonably shared",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "勞動部新聞稿〈最低工資連11漲〉（2026-09-24）",
+            "url": "https://www.mol.gov.tw/1607/1632/1633/99195/post"
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民眾黨團副總召陳昭姿",
+            "en": "Chen Chao-tzu, deputy convener of the People's Party caucus"
+          },
+          "date": "2026-09-23",
+          "venue": {
+            "zh": "回應勞動部長稱明年最低工資有望破 3 萬，自由時報",
+            "en": "Responding to the labor minister's remark that the minimum wage may top NT$30,000, Liberty Times"
+          },
+          "quote": "這不是你洪申翰部長在這個節骨眼，臨時發出的這個大紅包",
+          "quoteEn": "This is not a big red envelope that Minister Hung Sun-han has suddenly handed out at this moment",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "自由時報〈洪申翰稱最低工資明年有望破3萬 陳昭姿酸「大紅包」〉",
+            "url": "https://news.ltn.com.tw/amp/news/politics/breakingnews/5583773"
+          },
+          "note": {
+            "zh": "她接著表示最低工資本應依經濟指標調整，該黨團 2023 年就提出最低工資法。",
+            "en": "She went on to say the minimum wage should follow economic indicators and that her caucus proposed the Minimum Wage Act in 2023."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民進黨發言人張志豪",
+            "en": "Chang Chih-hao, Democratic Progressive Party spokesperson"
+          },
+          "date": "2023-09-11",
+          "venue": {
+            "zh": "民進黨新聞稿，回應國民黨團批低薪",
+            "en": "Party press release responding to the KMT caucus on low pay"
+          },
+          "quote": "民進黨執政，蔡英文政府至今連續8年調漲基本工資，2024年月薪27470元，時薪183元。",
+          "quoteEn": "Under DPP governance, the Tsai Ing-wen government has raised the basic wage for eight years in a row, with the 2024 monthly wage at NT$27,470 and hourly wage at NT$183.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "民主進步黨新聞中心（張志豪，2023-09-11）",
+            "url": "https://www.dpp.org.tw/media/contents/10368"
+          },
+          "note": {
+            "zh": "2023 年的說法。",
+            "en": "A 2023 statement."
+          }
+        },
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "最低工資審議會學者代表（未具名）",
+            "en": "Scholar members of the minimum wage review committee (unnamed)"
+          },
+          "date": "2026-09-24",
+          "venue": {
+            "zh": "勞動部新聞稿記載",
+            "en": "Recorded in the Ministry of Labor press release"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "認為調整應依《最低工資法》所定參採指標，綜合考量物價、經濟成長與勞動市場等因素，並兼顧雇主與勞工。",
+            "en": "Say the adjustment should follow the indicators in the Minimum Wage Act, weighing prices, economic growth and the labor market, and balancing employers and workers."
+          },
+          "verified": false,
+          "source": {
+            "name": "勞動部新聞稿〈最低工資連11漲〉（2026-09-24）",
+            "url": "https://www.mol.gov.tw/1607/1632/1633/99195/post"
+          },
+          "note": {
+            "zh": "新聞稿為部會轉述，沒有具名發言與引號。",
+            "en": "The ministry's summary names no speaker and has no quotation marks."
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "青年團體針對最低工資的公開說法沒有找到。國民黨與時代力量在 2024 至 2026 年的正式主張沒有找到，民進黨找到的是 2023 年的新聞稿。勞方與資方委員在審議會上的發言只有勞動部不具名的轉述。",
+        "en": "No public statements on the minimum wage from youth groups were found. No formal positions from the Kuomintang or New Power Party for 2024 to 2026 were found, and what was found for the DPP is a 2023 press release. What labor and employer members said at the review meeting is available only as the ministry's unnamed summary."
+      }
+    },
+    {
+      "id": "generational-fairness",
+      "title": {
+        "zh": "世代公平",
+        "en": "Generational fairness"
+      },
+      "context": {
+        "zh": "內政部統計 2025 年 12 月底 65 歲以上人口占 20.06%。年金與撥補的分配是否公平，青年團體、退休團體與學者的看法不同。",
+        "en": "Ministry of the Interior figures put the share aged 65 and over at 20.06% at the end of December 2025. Youth groups, retiree groups and scholars disagree on whether pension and transfer arrangements are fair."
+      },
+      "positions": [
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "高雄師範大學事業經營系教授林文寶",
+            "en": "Lin Wen-pao, professor of business management at National Kaohsiung Normal University"
+          },
+          "date": "2025-12-14",
+          "venue": {
+            "zh": "聯合報民意論壇投書，立法院三讀停止調降所得替代率之後刊出",
+            "en": "Op-ed in the United Daily News opinion forum, published after the third reading of the amendment to stop replacement-rate cuts"
+          },
+          "quote": "年金改革不是零和博弈，世代正義與信賴保護原則也不應是衝突",
+          "quoteEn": "Pension reform is not a zero-sum game, and generational justice and the principle of protecting legitimate expectations should not be in conflict either",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "世界日報轉載聯合報民意論壇（林文寶）",
+            "url": "https://www.worldjournal.com/wj/story/121206/9201737"
+          },
+          "note": {
+            "zh": "同文認為 2018 年的年改論述把世代正義塑造為核心價值，把社會正義約化為世代間的零和博弈，並提出另一塊基石是政府與人民間的社會契約。",
+            "en": "The same piece argues that the 2018 reform made generational justice its core value and reduced social justice to a zero-sum contest between generations, and adds that another pillar is the social contract between government and people."
+          }
+        },
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "國立臺北商業大學財稅系教授黃耀輝",
+            "en": "Huang Yao-hui, professor of public finance and taxation at National Taipei University of Business"
+          },
+          "date": "2025-11-04",
+          "venue": {
+            "zh": "公教退撫修法審查前夕，經 Newtalk 報導",
+            "en": "On the eve of the committee review, reported by Newtalk"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示若不盡快修法，退休 20 年的老教授在 82 歲會被砍 19%、92 歲會被砍 36%，越老越需要經濟安全時政府卻砍得更重，他稱這嚴重違背人性；並表示公教繳納的保費是同年資、同薪資勞工的 5 到 6 倍，領取給付僅約 2 倍。",
+            "en": "Says that without a prompt amendment a professor retired for 20 years would be cut 19% at 82 and 36% at 92, so the government cuts more just when the old most need economic security, which he says goes badly against human nature; also says civil servants and teachers pay 5 to 6 times the premiums of workers with the same service and pay, and receive only about twice the benefit."
+          },
+          "verified": false,
+          "source": {
+            "name": "Newtalk〈立院明審停砍公教年金案 學者：「越老砍越多」〉",
+            "url": "https://newtalk.tw/news/view/2025-11-04/1002660"
+          },
+          "note": {
+            "zh": "報導為間接敘述，用詞照報導所載。",
+            "en": "Indirect speech in the report, with wording as the report gives it."
+          }
+        },
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "山暗光學生陣線成員林泊瑋",
+            "en": "Lin Po-wei, member of the Shan-An-Guang Student Front"
+          },
+          "date": "2025-02-21",
+          "venue": {
+            "zh": "台灣青年世代共好協會與學生、青年團體在立法院的記者會，中央廣播電臺報導",
+            "en": "Briefing at the Legislative Yuan by the Taiwan Generation Co-prosperity Association with student and youth groups, reported by Radio Taiwan International"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示各職業年金體系普遍財務失衡甚至面臨破產，批評立法院提高警消退休所得替代率、並計畫讓公教人員比照辦理，會讓年金改革「開倒車」，進一步加重年輕世代的財政負擔，呼籲立法院審慎修法。",
+            "en": "Says pension schemes across occupations are generally out of balance or even facing bankruptcy; criticises the legislature for raising replacement rates for retired police and firefighters and planning the same for civil servants and teachers, which he says would put pension reform \"into reverse\" and add to the fiscal burden on the young, and urges careful lawmaking."
+          },
+          "verified": false,
+          "source": {
+            "name": "中央廣播電臺〈青年團體聯合發聲 呼籲立院新會期推動六大改革法案〉（LINE TODAY 轉載）",
+            "url": "https://today.line.me/tw/v3/article/aGowZxp"
+          },
+          "note": {
+            "zh": "2025 年 2 月的說法，早於公教修法三讀，談的是當時提高警消所得替代率與擬比照辦理公教的計畫。報導為間接敘述。",
+            "en": "A February 2025 statement, made before the civil service amendment passed; it concerns the higher replacement rate for police and firefighters and the plan at the time to extend it to civil servants and teachers. Indirect speech in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "時代力量副祕書長劉品辰",
+            "en": "Liu Pin-chen, deputy secretary-general of the New Power Party"
+          },
+          "date": "2025-08-14",
+          "venue": {
+            "zh": "青年基本法記者會，立法院群賢樓外，中央社",
+            "en": "Youth Basic Law briefing outside the Legislative Yuan, Central News Agency"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "指出去年通過的壯世代促進法為掌握權力與資源的壯世代爭取話語權，卻忽視青年的壓力與處境，呼籲儘速完成青年基本法。",
+            "en": "Says last year's Act to Promote the Prime-Age Generation won a voice for the generation holding power and resources while overlooking young people's pressures, and urges quick passage of a Youth Basic Law."
+          },
+          "verified": false,
+          "source": {
+            "name": "中央社〈立院逐條審青年基本法 本土政黨籲理性審查儘速通過〉",
+            "url": "https://www.cna.com.tw/news/aipl/202508140102.aspx"
+          },
+          "note": {
+            "zh": "這場記者會談青年制度保障，沒有直接談年金金額。報導為間接敘述。",
+            "en": "The briefing is about institutional protections for young people and does not address pension amounts directly. Indirect speech in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立法院黨團",
+            "en": "Kuomintang caucus in the Legislative Yuan"
+          },
+          "date": "2026-01-19",
+          "venue": {
+            "zh": "黨團新聞稿，回應行政院、考試院與民進黨立法院黨團聲請釋憲，經 Yahoo 新聞刊載的報導",
+            "en": "Caucus press release responding to the constitutional petitions by the Executive Yuan, the Examination Yuan and the DPP caucus, as reported on Yahoo News"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示停止調降的修法是為了落實對公教人員的「信賴保護」，修正過去不合理且嚴重剝奪式的改革；並表示年金改革不該是製造世代對立、騙取選票的工具，要還給辛勞一輩子的公教人員最基本的尊重與尊嚴。",
+            "en": "Says the amendment is meant to honour the \"protection of legitimate expectations\" owed to civil servants and teachers and to correct an unreasonable and severely depriving reform; also says pension reform should not be a tool for creating generational conflict and winning votes by deceit, and that civil servants and teachers who worked all their lives should be given back basic respect and dignity."
+          },
+          "verified": false,
+          "source": {
+            "name": "Yahoo 新聞〈綠為反停砍年金聲請釋憲 藍主張：為落實公教人員信賴保護〉（2026-01-20）",
+            "url": "https://tw.news.yahoo.com/%E7%B6%A0%E7%82%BA%E5%8F%8D%E5%81%9C%E7%A0%8D%E5%B9%B4%E9%87%91%E8%81%B2%E8%AB%8B%E9%87%8B%E6%86%B2-%E8%97%8D%E4%B8%BB%E5%BC%B5-%E7%82%BA%E8%90%BD%E5%AF%A6%E5%85%AC%E6%95%99%E4%BA%BA%E5%93%A1%E4%BF%A1%E8%B3%B4%E4%BF%9D%E8%AD%B7-002906638.html"
+          },
+          "note": {
+            "zh": "黨團新聞稿原文沒有找到，這裡依報導的間接敘述轉述，引號內是報導所載黨團用語。",
+            "en": "The caucus press release itself was not found; this follows the report's indirect account, and the quoted term is the caucus's wording as printed in the report."
+          }
+        },
+        {
+          "group": "civil-servants",
+          "actor": {
+            "zh": "全國教育產業總工會前理事長黃耀南",
+            "en": "Huang Yao-nan, former chairman of the National Education Industry Union"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "回應行政院擬副署並聲請釋憲，聯合報報導",
+            "en": "Response to the Executive Yuan's plan to countersign and petition, reported by United Daily News"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示停止調降公教退休金並隨物價調整，只是為年金改革做一個停損，公教所得替代率已低於 OECD 國家的平均，政府沒有道理再用世代對立的理由騙取選票；並批評把公教人員當成犧牲對象，只會抹黑、鬥爭公教人員。",
+            "en": "Says stopping the cuts and indexing to prices only sets a stop-loss on pension reform, that the replacement rate is already below the OECD average, and that the government has no reason to keep using generational conflict to win votes by deceit; also criticises treating civil servants and teachers as a sacrifice, saying it only smears and attacks them."
+          },
+          "verified": false,
+          "source": {
+            "name": "聯合報〈政院擬「副署不執行」停砍公教年金 黃耀南：不排除上街抗爭〉",
+            "url": "https://udn.com/news/story/124680/9226835"
+          },
+          "note": {
+            "zh": "報導為間接敘述，用詞照報導所載；職稱照報導寫「前理事長」。",
+            "en": "Indirect speech in the report, with wording as the report gives it; the title follows the report, which says former chairman."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "行政院發言人李慧芝",
+            "en": "Li Hui-chih, Executive Yuan spokesperson"
+          },
+          "date": "2025-12-12",
+          "venue": {
+            "zh": "行政院新聞稿，立法院三讀當日",
+            "en": "Executive Yuan press release on the day of the third reading"
+          },
+          "quote": "世世代代領得到，長長久久領到老",
+          "quoteEn": "Every generation receives it, and it lasts a lifetime",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "行政院新聞稿（2025-12-12）",
+            "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/f119f3a5-649f-407f-b5d4-2b6caa6c6627"
+          },
+          "note": {
+            "zh": "新聞稿原句：行政院將全力捍衛「世世代代領得到，長長久久領到老」的年金制度。這是立法院三讀停止調降所得替代率當天的回應，新聞稿同一句並稱這樣符合世代公平正義。",
+            "en": "In the release, the Executive Yuan says it will fully defend a pension system where every generation receives it and it lasts a lifetime. This was its response on the day of the third reading; the same sentence says this accords with fairness and justice between generations."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "考試院",
+            "en": "Examination Yuan"
+          },
+          "date": "2026-01-08",
+          "venue": {
+            "zh": "考試院院會決議，經中央社報導",
+            "en": "Examination Yuan council resolution, reported by the Central News Agency"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示停止調降所得替代率的修法將使退撫基金提前用罄，破壞退撫基金永續經營，違背世代正義與公益原則，因此決議向憲法法庭聲請釋憲及暫時處分。",
+            "en": "Says the amendment to stop replacement-rate cuts will run the pension fund dry earlier, undermine its sustainable operation and breach generational justice and the public interest, and that it therefore resolved to petition the Constitutional Court for interpretation and an interim order."
+          },
+          "verified": false,
+          "source": {
+            "name": "中央社〈考試院聲請釋憲及暫時處分〉",
+            "url": "https://www.cna.com.tw/news/aipl/202601080279.aspx"
+          },
+          "note": {
+            "zh": "報導為間接敘述，用詞照中央社所載。",
+            "en": "Indirect speech in the report, with wording as the Central News Agency gives it."
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "這個議題沒有找到民眾黨的公開說法；國民黨立法院黨團只找到媒體對新聞稿的轉述。民進黨談世代公平的說法，出自對停止調降修法的回應，放在「公教年改與停止調降修法」議題。勞工團體與資方團體談世代公平的說法沒有找到。青年團體直接談這次公教修法的聲明沒有找到，找到的是 2025 年 2 月談警消與公教所得替代率的發言，以及青年基本法場合的發言。台灣基進與社會民主黨的正式主張沒有找到。",
+        "en": "No public statement from the People's Party was found for this topic, and for the Kuomintang caucus only a media account of its press release was found. The DPP's remarks on generational fairness were made in response to the amendment and are listed under the pension amendment topic. No statements on generational fairness from labor or business groups were found. No youth group statement directly on this amendment was found; what exists is a February 2025 remark on replacement rates for police, firefighters, civil servants and teachers, and remarks from Youth Basic Law events. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found."
+      }
+    },
+    {
+      "id": "working-hours",
+      "title": {
+        "zh": "工時與一例一休",
+        "en": "Working hours and the one-fixed-day-off, one-rest-day rule"
+      },
+      "context": {
+        "zh": "2016-12-06 三讀的修法規定每七日中有兩日休息，一日例假、一日休息日。2018 年又修正七休一等規定。",
+        "en": "The amendment passed on 6 December 2016 gives two days off in every seven, one regular day off and one rest day. Rules such as the seven-day cycle were amended again in 2018."
+      },
+      "positions": [
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "全國保全產業工會理事長林桂茂",
+            "en": "Lin Kuei-mao, chairman of the National Security Industry Union"
+          },
+          "date": "2025-09-04",
+          "venue": {
+            "zh": "最低工資審議會前的勞團記者會，公視新聞",
+            "en": "Labor briefing before the minimum wage review, Public Television Service"
+          },
+          "quote": "保全有家庭的，逼著他一定要用時間去換取更多的薪水，有的人甚至上班到288小時，也有到320小時。",
+          "quoteEn": "Security guards with families are forced to trade time for more pay; some work as many as 288 hours, even 320 hours.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈最低工資審議會月底登場 勞團籲至少要3萬元〉",
+            "url": "https://news.pts.org.tw/article/768894"
+          },
+          "note": {
+            "zh": "這是談低薪與長工時的關係，不是對勞基法修法的主張。",
+            "en": "This is about low pay and long hours, not a position on amending the Labor Standards Act."
+          }
+        },
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "台灣勞工陣線",
+            "en": "Taiwan Labor Front"
+          },
+          "date": "2017-11-01",
+          "venue": {
+            "zh": "聲明，反對行政院版勞基法修正草案，NOWnews 報導",
+            "en": "Statement opposing the Executive Yuan's draft amendment, reported by NOWnews"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "指出一例一休實施不到一年就再度修法，列出休息日工時核實計算、工時帳戶制、輪班間隔降為 8 小時、14 休 2、特休遞延等五項修正內容，認為會使勞工再度陷入過勞。",
+            "en": "Notes the rule was amended again less than a year after taking effect and lists five changes: counting rest-day work hour by hour, an hours-bank scheme, a shorter 8-hour shift gap, 14 days with 2 off and carrying over unused leave. It says these would push workers back into overwork."
+          },
+          "verified": false,
+          "source": {
+            "name": "NOWnews〈勞基法五大修惡 過勞煉獄再現？〉",
+            "url": "https://www.nownews.com/news/2635701"
+          },
+          "note": {
+            "zh": "報導以記者敘述呈現聲明，沒有逐字引號；「五大倒退修惡」是團體用語，這裡不放引號。",
+            "en": "The report relays the statement in the reporter's own words with no verbatim quotation; the phrase \"five regressive changes\" is the group's term and is not quoted here."
+          }
+        },
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "台灣高等教育產業工會",
+            "en": "Taiwan Higher Education Union"
+          },
+          "date": "2017-11-14",
+          "venue": {
+            "zh": "針對勞動部 2017-10-31 預告修正草案的聲明，Newtalk 報導",
+            "en": "Statement on the ministry's 31 October 2017 draft, reported by Newtalk"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "反對休息日工時核實計算，並反對以勞資協商之名弱化勞動保障，認為修法會使過勞急遽惡化。",
+            "en": "Opposes counting rest-day work hour by hour and weakening labor protection in the name of labor-management negotiation, and says the changes would sharply worsen overwork."
+          },
+          "verified": false,
+          "source": {
+            "name": "Newtalk〈轟修一例一休 勞團提6反3要〉",
+            "url": "https://newtalk.tw/news/view/2017-11-14/103752"
+          },
+          "note": {
+            "zh": "報導為記者敘述，沒有逐字引號。",
+            "en": "The report is in the reporter's words with no verbatim quotation."
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "全國商業總會理事長賴正鎰（時任）",
+            "en": "Lai Cheng-yi, then chairman of the General Chamber of Commerce"
+          },
+          "date": "2016-10-27",
+          "venue": {
+            "zh": "行政院長林全與商業領袖座談會會前受訪，ETtoday",
+            "en": "Interview before the premier's meeting with business leaders, ETtoday"
+          },
+          "quote": "扼殺了增加薪水、收入的機會",
+          "quoteEn": "stifles the chance to earn more pay and income",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "ETtoday 財經雲〈勞工不希望放太多假 商總：扼殺增加收入的機會〉",
+            "url": "https://finance.ettoday.net/news/800616"
+          },
+          "note": {
+            "zh": "完整語意：他說許多勞工並不希望有那麼多假期，因為這樣的安排會扼殺增加收入的機會。這是 2016 年的說法。",
+            "en": "Full sense: he said many workers do not want that many days off because it stifles chances to raise income. This is a 2016 statement."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "勞基法第 36 條 2016-12-21 公布版的修正理由",
+            "en": "Explanatory note to the 21 December 2016 version of Labor Standards Act Article 36"
+          },
+          "date": "2016-12-21",
+          "venue": {
+            "zh": "勞動部法令查詢系統所載立法理由",
+            "en": "Legislative reasoning as recorded in the Ministry of Labor's law database"
+          },
+          "quote": "經衡平審酌勞資雙方權益，爰修正第一項規定，定明勞工每七日應有之二日之休息，其中一日為例假，另一日為休息日",
+          "quoteEn": "Having weighed the rights and interests of labor and management in a balanced way, the first paragraph is amended to state that workers get two days of rest in every seven, one a regular day off and the other a rest day",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "勞動部法令查詢系統：勞基法第 36 條修正理由",
+            "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?id=FL014930&flno=36"
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "勞資雙方針對工時的說法，本頁只找到 2016 至 2017 年的（另有 2025 年一則談低薪與長工時的勞團發言）。2018 年之後兩方的工時主張沒有找到。政黨針對工時的近期正式主張沒有收錄。",
+        "en": "For working hours, the only labor and business statements found date from 2016 to 2017, plus one 2025 labor remark linking low pay and long hours. No positions from either side after 2018 were found. No recent formal party positions on working hours are included."
+      }
+    },
+    {
+      "id": "tax-fairness",
+      "title": {
+        "zh": "稅制與租稅公平",
+        "en": "Tax system and tax fairness"
+      },
+      "context": {
+        "zh": "115 年度綜所稅每人免稅額由 9.7 萬元調為 10.1 萬元，依消費者物價指數累計上漲 4.13% 調整。財政部長 2024 年在立法院表示，個人出售上市櫃股票是停徵的。",
+        "en": "For the 2026 tax year the per-person exemption rises from NT$97,000 to NT$101,000, indexed to a 4.13% cumulative price rise. In 2024 the finance minister told the legislature that individuals' gains on listed shares are exempt."
+      },
+      "positions": [
+        {
+          "group": "government",
+          "actor": {
+            "zh": "財政部賦稅署",
+            "en": "Ministry of Finance, Taxation Administration"
+          },
+          "date": "2025-09-23",
+          "venue": {
+            "zh": "說明「月薪 5 萬元免繳綜所稅」的新聞稿",
+            "en": "Press release explaining how a NT$50,000 monthly salary can owe no income tax"
+          },
+          "quote": "於兼顧財政收入、租稅公平及稅政簡化等原則下，持續檢討各項規定之合宜性",
+          "quoteEn": "will keep reviewing whether each rule remains appropriate, balancing fiscal revenue, tax fairness and simpler tax administration",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "財政部賦稅署新聞稿（2025-09-23）",
+            "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=ef27a333aeb6491782f526bff6e0d966"
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "總統府新聞稿（記述總統賴清德談話）",
+            "en": "Presidential Office press release (recounting remarks by President Lai Ching-te)"
+          },
+          "date": "2026-08-07",
+          "venue": {
+            "zh": "全國模範勞工慶祝晚宴新聞稿",
+            "en": "Press release on a dinner for model workers"
+          },
+          "quote": "目前全臺約有40%至50%的民眾無須繳納綜合所得稅，整體稅收主要由收入前1%的高所得者負擔，約貢獻四成至五成稅額",
+          "quoteEn": "About 40% to 50% of people in Taiwan currently owe no comprehensive income tax, and the top 1% of earners bear most of the tax, contributing about 40% to 50% of it",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "總統府新聞稿（2026-08-07）",
+            "url": "https://www.president.gov.tw/News/40250"
+          },
+          "note": {
+            "zh": "這句是新聞稿的敘述，不是總統談話逐字；數字來源是總統府，不是財政部。",
+            "en": "This sentence is the press release's narration, not the president's verbatim words; the figures come from the Presidential Office, not the Ministry of Finance."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "監察院財政及經濟委員會（監委吳豐山、劉玉山提案）",
+            "en": "Control Yuan Finance and Economics Committee (members Wu Feng-shan and Liu Yu-shan)"
+          },
+          "date": "2013-04-16",
+          "venue": {
+            "zh": "監察院新聞稿，糾正行政院與財政部復徵證所稅的決策",
+            "en": "Control Yuan press release censuring the Executive Yuan and Ministry of Finance over the securities gains tax decision"
+          },
+          "quote": "資本利得應該課稅，乃天經地義",
+          "quoteEn": "Capital gains ought to be taxed, which is only natural",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "監察院新聞稿（2013-04-16 糾正案）",
+            "url": "https://www.cy.gov.tw/News_Content.aspx?n=124&sms=8912&s=6501"
+          },
+          "note": {
+            "zh": "2013 年的舊說法。新聞稿接著寫，但財政部認為證交稅已有證所稅內涵、歷次開徵都嚴重失敗。",
+            "en": "A 2013 statement. The release goes on to say the Ministry of Finance holds that the securities transaction tax already serves the purpose and that past attempts failed badly."
+          }
+        },
+        {
+          "group": "government",
+          "actor": {
+            "zh": "財政部長莊翠雲",
+            "en": "Finance Minister Chuang Tsui-yun"
+          },
+          "date": "2024-05-20",
+          "venue": {
+            "zh": "立法院質詢，工商時報報導",
+            "en": "Legislative questioning, reported by Commercial Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示目前沒有討論證所稅，也沒有考慮復徵，相關議題須審慎考量社經發展與租稅公平，並要有社會各界共識。",
+            "en": "Says the securities gains tax is not under discussion and reinstating it is not being considered; such a move needs careful weighing of social and economic development and tax fairness, and a broad consensus."
+          },
+          "verified": false,
+          "source": {
+            "name": "工商時報〈財政部長莊翠雲談證所稅〉",
+            "url": "https://www.ctee.com.tw/news/20240520701296-430103"
+          },
+          "note": {
+            "zh": "2024 年的說法，2026 年沒有找到新的正式表態。報導為間接敘述。",
+            "en": "A 2024 statement; no newer formal position was found for 2026. Indirect speech in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立委賴士葆（財委會召委）",
+            "en": "Lai Shyh-bao, Kuomintang legislator and convener of the Finance Committee"
+          },
+          "date": "2025-11-22",
+          "venue": {
+            "zh": "長照特別扣除額修法協商前接受聯合報訪問",
+            "en": "Interview with United Daily News before negotiations on the long-term care deduction"
+          },
+          "quote": "18萬元太少了，24萬元可以，財政部願意再增加，年底前可以三讀。",
+          "quoteEn": "NT$180,000 is too little; NT$240,000 would do, and the Ministry of Finance is willing to raise it further, so it can pass third reading by year-end.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "聯合報〈長照扣除額加到18萬還不夠 藍盼拉到24萬年底三讀〉",
+            "url": "https://udn.com/news/story/7238/9156310"
+          },
+          "note": {
+            "zh": "日期為報導日；財委會初審在 2025-08-14。",
+            "en": "The date is the report date; the committee's first review was on 14 August 2025."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民眾黨團副總召陳昭姿",
+            "en": "Chen Chao-tzu, deputy convener of the People's Party caucus"
+          },
+          "date": "2026-09-22",
+          "venue": {
+            "zh": "新會期優先法案記者會，中央社報導",
+            "en": "Briefing on priority bills for the new session, Central News Agency"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "提出把房屋租金支出特別扣除額由 18 萬元調高至 25 萬元，股利及盈餘分離課稅者改適用累進稅率，長照特別扣除額由 18 萬元調至 24 萬元。",
+            "en": "Proposes raising the rent deduction from NT$180,000 to NT$250,000, applying progressive rates to dividends now taxed separately, and raising the long-term care deduction from NT$180,000 to NT$240,000."
+          },
+          "verified": false,
+          "source": {
+            "name": "中央社〈民眾黨團擬修所得稅法、營養午餐專法拚三讀〉",
+            "url": "https://cna.com.tw/news/aipl/202609220153.aspx"
+          },
+          "note": {
+            "zh": "報導為間接敘述。",
+            "en": "Indirect speech in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民進黨發言人張志豪",
+            "en": "Chang Chih-hao, Democratic Progressive Party spokesperson"
+          },
+          "date": "2023-09-11",
+          "venue": {
+            "zh": "民進黨新聞稿，回應國民黨團批低薪",
+            "en": "Party press release responding to the KMT caucus on low pay"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "列舉蔡英文政府任內調升個人所得稅免稅額、標準扣除額與薪資所得扣除額，並首創長照扣除額與個人基本生活費，稱為受薪階層減輕稅負。",
+            "en": "Lists increases to the personal exemption, standard deduction and salary deduction under the Tsai government, plus the first long-term care deduction and basic living expense amount, saying they lightened the tax burden on wage earners."
+          },
+          "verified": false,
+          "source": {
+            "name": "民主進步黨新聞中心（張志豪，2023-09-11）",
+            "url": "https://www.dpp.org.tw/media/contents/10368"
+          },
+          "note": {
+            "zh": "2023 年的說法，這裡是新聞稿內容的摘要。",
+            "en": "A 2023 statement; this summarises the press release."
+          }
+        },
+        {
+          "group": "labor",
+          "actor": {
+            "zh": "全國產業總工會理事長戴國榮",
+            "en": "Tai Kuo-jung, chairman of the National Federation of Industrial Unions"
+          },
+          "date": "2025-11-16",
+          "venue": {
+            "zh": "立法院審查勞保條例前夕的工會訪談，中國時報",
+            "en": "Union interview before the Legislative Yuan reviewed the Labor Insurance Act, China Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "指出勞保撥補預算可以來自資本利得、房屋交易、土地增值等，把部分比率用來撥補勞保基金。",
+            "en": "Says the budget for Labor Insurance transfers could come from capital gains, property transactions and land value increments, with a share used to top up the fund."
+          },
+          "verified": false,
+          "source": {
+            "name": "中國時報〈勞團肯定 勞工不再提心吊膽〉（旺得富）",
+            "url": "https://wantrich.chinatimes.com/news/20251116900046-420501"
+          },
+          "note": {
+            "zh": "報導為間接敘述，沒有引號。",
+            "en": "Indirect speech in the report."
+          }
+        },
+        {
+          "group": "youth-scholars",
+          "actor": {
+            "zh": "高雄師範大學事業經營系教授林文寶",
+            "en": "Lin Wen-pao, professor of business management at National Kaohsiung Normal University"
+          },
+          "date": "2025-12-14",
+          "venue": {
+            "zh": "聯合報民意論壇投書",
+            "en": "Op-ed in the United Daily News opinion forum"
+          },
+          "quote": "透過更公平的資本利得稅、房地產稅制改革，擴大稅基，為社會安全網挹注穩定財源",
+          "quoteEn": "Through a fairer capital gains tax and property tax reform, widen the tax base and supply stable funding for the social safety net",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "世界日報轉載聯合報民意論壇（林文寶）",
+            "url": "https://www.worldjournal.com/wj/story/121206/9201737"
+          }
+        }
+      ],
+      "gaps": {
+        "zh": "資本利得稅沒有找到任何政黨的正式主張，上面只有立法委員與學者的個別說法。資方團體針對綜所稅的說法沒有找到。國民黨、台灣基進與社會民主黨在綜所稅上的近期正式主張沒有找到，民進黨找到的是 2023 年的新聞稿。",
+        "en": "No formal party position on a capital gains tax was found; the entries above are individual legislators and scholars. No business group statements on income tax were found. No recent formal positions on income tax from the Kuomintang, Taiwan Statebuilding Party or the Social Democratic Party were found, and what was found for the DPP is a 2023 press release."
+      }
+    }
+  ]
+}

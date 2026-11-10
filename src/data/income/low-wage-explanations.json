@@ -1,0 +1,141 @@
+{
+  "_meta": {
+    "asOf": "2026-11-10",
+    "fetched": "2026-11-10",
+    "notes": {
+      "zh": "五種解釋並列，不排序，不說哪個對。各筆的 summary 只轉述該研究或報告自己的論點。verified 為 true 表示本站打開過來源、確認論點與 summary 相符；二手來源在 note 標明。",
+      "en": "Five explanations are listed side by side with no ranking and no verdict. Each summary only restates the argument made by that study or report. A verified value of true means this site opened the source and confirmed the argument matches the summary; secondhand sources are flagged in the note."
+    },
+    "gaps": {
+      "zh": "非典型就業這個解釋沒有查到代表性官方或學術出處。",
+      "en": "No representative official or academic source was found for the atypical employment explanation."
+    }
+  },
+  "explanations": [
+    {
+      "id": "labor-share-decline",
+      "title": {
+        "zh": "勞動份額下降：全球化、自動化與議價能力",
+        "en": "Falling labor share: globalization, automation and bargaining power"
+      },
+      "summary": {
+        "zh": "中央銀行指出，2022 年名目 GDP 是 1998 年的 2.4 倍，但受僱人員報酬占 GDP 比重由 48.2% 降到 43.9%。央行認為主因是全球化使競爭加劇、自動化降低對低技術勞工的需求、工會力量下降削弱議價能力，加上企業追求股東價值極大化的壓力。",
+        "en": "The Central Bank says nominal GDP in 2022 was 2.4 times the 1998 level, yet employee compensation fell from 48.2% to 43.9% of GDP. It attributes this mainly to globalization raising competition, automation reducing demand for low-skilled workers, weaker unions reducing bargaining power, and pressure to maximize shareholder value."
+      },
+      "proponent": {
+        "zh": "中央銀行",
+        "en": "Central Bank of the Republic of China (Taiwan)"
+      },
+      "year": 2024,
+      "source": {
+        "name": "《112年中央銀行年報》專題二〈我國製造業與服務業勞動報酬成長差異之原因分析〉",
+        "url": "https://www.cbc.gov.tw/dl-204900-9171ab1dfe764a07805ddf87a81bad6d.html"
+      },
+      "verified": true,
+      "note": {
+        "zh": "年份取 PDF 建檔的 2024 年。同機關 2023 年的版本寫「勞動份額下降，主要係因全球化、技術進步，致勞工議價能力減弱，以及金融化」。",
+        "en": "The year is the 2024 filing date of the PDF. The agency's 2023 version says the labor share fell mainly because of globalization and technological progress weakening workers' bargaining power, plus financialization."
+      }
+    },
+    {
+      "id": "service-sector-productivity",
+      "title": {
+        "zh": "服務業勞動生產力成長長期低緩",
+        "en": "Persistently slow labor productivity growth in services"
+      },
+      "summary": {
+        "zh": "中央銀行分析製造業與服務業的差異，指出服務業每人勞動報酬不易成長，主要與其勞動生產力成長率長期低緩有關。報告建議政府協助以中小企業為主體的服務業及傳產製造業進行創新與科技轉型。",
+        "en": "Comparing manufacturing and services, the Central Bank finds that pay per worker in services grows slowly mainly because labor productivity growth there has long been sluggish. It recommends that the government help small-business-led services and traditional manufacturing innovate and adopt new technology."
+      },
+      "proponent": {
+        "zh": "中央銀行",
+        "en": "Central Bank of the Republic of China (Taiwan)"
+      },
+      "year": 2023,
+      "source": {
+        "name": "中央銀行理監事會後記者會參考資料（專題：製造業與服務業勞動報酬）",
+        "url": "https://www.cbc.gov.tw/dl-196230-0fa3056decbf4d348e82c4d29e335eaf.html"
+      },
+      "verified": true,
+      "note": {
+        "zh": "PDF 建檔日 2023-06-21，檔內未見會議日期。",
+        "en": "The PDF was filed on 21 June 2023 and shows no meeting date inside."
+      }
+    },
+    {
+      "id": "industry-structure",
+      "title": {
+        "zh": "產業結構：資本密集產業的折舊稀釋報酬占比",
+        "en": "Industry structure: depreciation in capital-intensive industries dilutes the pay share"
+      },
+      "summary": {
+        "zh": "行政院主計總處向立法院財政委員會報告，受僱人員報酬占 GDP 比重受產業特性影響很大。以電子零組件業為例，平均薪資高，但提列折舊占 GDP 比重達 32.9%，使受僱人員報酬占比只有 25.4%，低於整體製造業平均的 38.4%。",
+        "en": "The Directorate-General of Budget, Accounting and Statistics told the Legislative Yuan's finance committee that industry characteristics strongly affect the compensation share of GDP. In electronic components, average pay is high but depreciation reaches 32.9% of GDP, leaving the compensation share at 25.4%, below the 38.4% manufacturing average."
+      },
+      "proponent": {
+        "zh": "行政院主計總處",
+        "en": "Directorate-General of Budget, Accounting and Statistics, Executive Yuan"
+      },
+      "year": 2024,
+      "source": {
+        "name": "科技新報轉載中央社〈主計總處：電子業高薪，員工分配經濟果實遠低服務業〉",
+        "url": "https://finance.technews.tw/2024/05/02/electronics-workers-share-economic-fruits/"
+      },
+      "verified": true,
+      "note": {
+        "zh": "二手來源：主計總處的原始專題報告沒有取得，數字與論點來自媒體轉載。",
+        "en": "Secondhand source: the Directorate-General's original report was not obtained, and the figures and argument come from the media reprint."
+      }
+    },
+    {
+      "id": "terms-of-trade",
+      "title": {
+        "zh": "貿易條件惡化：產出價格相對消費價格下跌",
+        "en": "Worsening terms of trade: output prices falling relative to consumer prices"
+      },
+      "summary": {
+        "zh": "這篇工作論文發現，2003 至 2014 年間約 87% 的實質薪資與勞動生產力成長差距，來自產出價格相對消費價格的下滑，而不是勞動報酬份額的變化。作者進一步指出，這個價格下滑與台灣貿易條件惡化有關。",
+        "en": "This working paper finds that about 87% of the gap between real wage growth and labor productivity growth in 2003 to 2014 came from output prices falling relative to consumer prices, not from changes in the labor share. The authors link that price decline to worsening terms of trade."
+      },
+      "proponent": {
+        "zh": "林依伶（中央銀行經濟研究處）、楊子霆（中央研究院經濟研究所）",
+        "en": "Lin Yi-ling (Central Bank Economic Research Department) and Yang Tzu-ting (Institute of Economics, Academia Sinica)"
+      },
+      "year": 2017,
+      "source": {
+        "name": "中央研究院經濟研究所工作論文 IEAS Working Paper No. 17-A012〈經濟成長、薪資停滯？初探台灣實質薪資與勞動生產力成長脫勾之成因〉",
+        "url": "https://www.econ.sinica.edu.tw/~econ/pdfPaper/17-A012.pdf"
+      },
+      "verified": true,
+      "note": {
+        "zh": "論文日期 2017-08-31。作者之一任職中央銀行，論文為個人研究，不代表機關立場。",
+        "en": "Dated 31 August 2017. One author works at the Central Bank; the paper is personal research and does not represent the institution's position."
+      }
+    },
+    {
+      "id": "industrial-upgrade-and-education",
+      "title": {
+        "zh": "產業升級瓶頸、全球化與教育未接軌勞動市場（青年薪資）",
+        "en": "Industrial upgrading bottlenecks, globalization and education not matching the labor market (youth pay)"
+      },
+      "summary": {
+        "zh": "國發會調查青年薪資停滯，點出的原因包括國內產業升級面臨瓶頸、全球化壓抑薪資成長，以及教育體系未能協助青年接軌勞動市場。這項說法針對青年起薪，不是全體受僱者的薪資。",
+        "en": "In a survey of stagnant youth pay, the National Development Council points to bottlenecks in industrial upgrading, globalization suppressing wage growth, and an education system that has not helped young people connect to the labor market. The finding concerns young workers' starting pay, not all employees' pay."
+      },
+      "proponent": {
+        "zh": "國家發展委員會",
+        "en": "National Development Council"
+      },
+      "year": 2019,
+      "source": {
+        "name": "公視新聞〈國發會調查：青年薪資 僅20年前的91%〉（2019-04-10）",
+        "url": "https://news.pts.org.tw/article/428441"
+      },
+      "verified": true,
+      "note": {
+        "zh": "二手來源：報導稱國發會點出四大原因，內文只列出三項；國發會《經濟研究年刊》原文沒有取得。",
+        "en": "Secondhand source: the report says the council named four causes but lists only three; the council's Economic Research Annual original was not obtained."
+      }
+    }
+  ]
+}

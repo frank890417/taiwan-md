@@ -11,10 +11,8 @@
  * 結構化資料三段：WebApplication、FAQPage、BreadcrumbList（首頁 → 專題 → 工具），
  * 由 src/utils/tools/jsonld.ts 產生。常見問題頁面上的字與 FAQPage 的字是同一份 faq 陣列。
  *
- * 注意：Layout 裡的 SEO.astro 對所有非首頁都會輸出一份兩層的 BreadcrumbList
- * （Taiwan.md → 本頁標題）。本元件多輸出一份三層的（補上中間的專題那一層），
- * 兩份的起點與終點網址相同、終點名稱都用 metaTitle，不互相矛盾。要合成一份
- * 得改 SEO.astro（加一個覆寫麵包屑的 prop），那是協調者的事。
+ * BreadcrumbList 不在這裡輸出：三層的麵包屑經 Layout 的 breadcrumb prop 交給
+ * SEO.astro，整頁只有一份（2026-11-10 專題整合前是兩份）。
  *
  * 用法見 src/data/topics/README.md 的「工具單獨頁薄殼」。
  * default slot 放工具元件本身；建議包一層 <ToolFrame variant="page">，
@@ -36,7 +34,6 @@ import {
 import { uiDir } from '../../utils/topics/ui-dir';
 import {
   absoluteUrl,
-  buildBreadcrumbLd,
   buildFaqPageLd,
   buildWebApplicationLd,
   serializeJsonLd,
@@ -154,12 +151,12 @@ const jsonLd = [
     partOf: { name: topicTitle, url: topicHref },
   }),
   buildFaqPageLd(faqItems),
-  buildBreadcrumbLd([
-    { name: 'Taiwan.md', url: homeHref },
-    { name: topicTitle, url: topicHref },
-    { name: metaTitle, url: pageUrl },
-  ]),
 ].filter(Boolean);
+const breadcrumbTrail = [
+  { name: 'Taiwan.md', url: homeHref },
+  { name: topicTitle, url: topicHref },
+  { name: metaTitle, url: pageUrl },
+];
 ---
 
 <Layout
@@ -171,6 +168,7 @@ const jsonLd = [
   tags={tool.keywords}
   readerSettings={true}
   noindex={noindex}
+  breadcrumb={breadcrumbTrail}
 >
   <div
     class="tf-surface tf-page"
@@ -182,7 +180,8 @@ const jsonLd = [
       <ol>
         <li>
           <a href={homeHref} dir={ui.dir} lang={ui.lang}
-            >{t('tool.breadcrumb.home')}</a>
+            >{t('tool.breadcrumb.home')}</a
+          >
         </li>
         <li><a href={topicHref}>{topicTitle}</a></li>
         <li aria-current="page">{toolTitle}</li>

@@ -1,0 +1,175 @@
+---
+/**
+ * S10Gaps — 第 10 節：困境（結構面）。篇幅與第 9 節優勢相當。
+ * 圖 A：RankBands，各縣市低度使用（用電）住宅比率（表 vacancy / low-use-by-county-2025H2），虛線為全國值。
+ * 圖 B：TrendLine，全國待售新成屋（序列 vacancy / unsold-new-homes-national）。
+ * 段落的比較數字全由 affordability 與 vacancy 兩表以縣市名串接算出；持有集中度沒有資料，只寫一句不畫圖。
+ * 結尾給三個可以先做的入口（工具、制度文章），不販賣焦慮。
+ */
+import RankBands from '../charts/RankBands.astro';
+import TrendLine from '../charts/TrendLine.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { relatedCard } from '../../../utils/housing/related';
+import {
+  countyName,
+  fmtPeriod,
+  fmtPeriodShort,
+  fmtXq,
+  getSeries,
+  getTable,
+  grp,
+  latest,
+  maxPoint,
+  srcOf,
+  srcOfTable,
+  xOfT,
+} from '../../../utils/housing/data';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s10;
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+
+const low = getTable('vacancy', 'low-use-by-county-2025H2');
+const nat = low.rows.find((r: any) => r.key === '全國');
+const counties = low.rows.filter((r: any) => r.key !== '全國');
+const sorted = [...counties].sort(
+  (a: any, b: any) => b.lowUseRatioPct - a.lowUseRatioPct,
+);
+const top = sorted[0];
+const bottom = sorted[sorted.length - 1];
+const nm = (r: any) => r.name[L] ?? r.name.en ?? r.name.zh;
+const rows = sorted.map((r: any) => ({
+  id: r.key,
+  label: nm(r),
+  v: r.lowUseRatioPct as number,
+  highlight: r === top || r === bottom,
+}));
+
+// 與負擔率表串接
+const aff = getTable('affordability', 'affordability-by-county-2026Q1');
+const affOf = (key: string) => aff.rows.find((r: any) => r.key === key);
+const burdenRows = aff.rows.filter((r: any) => r.key !== '全國');
+const maxBurden = burdenRows.reduce((a: any, r: any) =>
+  r.burdenPct > a.burdenPct ? r : a,
+);
+const lowOfMaxBurden = counties.find((r: any) => r.key === maxBurden.key);
+const topLowReliable = sorted.find((r: any) => {
+  const a = affOf(r.key);
+  return a && !a.smallSample;
+});
+const affTop = affOf(topLowReliable.key);
+
+const unsold = getSeries('vacancy', 'unsold-new-homes-national');
+const uL = latest(unsold);
+const uF = unsold.points[0];
+const isMax = maxPoint(unsold).t === uL.t;
+
+const plan = getTable('social-housing', 'social-housing-plan-targets');
+const stage2 = plan.rows.find((r: any) => r.key === 'stage-2');
+const prog = getTable('social-housing', 'social-housing-progress');
+const natRow = prog.rows.find((r: any) => r.key === '全國合計／小計');
+const rent = getTable('social-housing', 'rental-management-matches');
+const cum = rent.rows.find((r: any) => r.key === 'cumulative');
+
+const vars = {
+  maxName: nm(top),
+  maxPct: top.lowUseRatioPct.toFixed(2),
+  tpName: nm(bottom),
+  tpPct: bottom.lowUseRatioPct.toFixed(2),
+  period: fmtPeriod(low.period ?? '2025H2', lang),
+  last: grp(uL.v),
+  a: grp(uF.v),
+  first: fmtPeriod(uF.t, lang),
+  lastP: fmtPeriod(uL.t, lang),
+  c1: countyName(maxBurden.key, lang),
+  b1: maxBurden.burdenPct.toFixed(2),
+  l1: lowOfMaxBurden.lowUseRatioPct.toFixed(2),
+  c2: countyName(topLowReliable.key, lang),
+  l2: topLowReliable.lowUseRatioPct.toFixed(2),
+  b2: affTop.burdenPct.toFixed(2),
+  y2: stage2.targetYear,
+  t2: stage2.total,
+  d2: stage2.directBuild,
+  r2: stage2.rentalManagement,
+  achieved: grp(natRow.achieved),
+  uc: grp(natRow.underConstruction),
+  matched: grp(cum.matched),
+  eff: grp(cum.effectiveContracts),
+};
+const justice = await relatedCard(lang, 'Society', '居住正義');
+const toolsHref = localizePath('/housing/tools/', lang);
+---
+
+<section class="hs-section" id="gaps">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <RankBands
+      title={fill(S.lowTitle, vars)}
+      subtitle={fill(S.lowSub, vars)}
+      lang={lang}
+      rows={rows}
+      sources={[srcOfTable(low, low.period)]}
+      unit="%"
+      digits={2}
+      refLine={{ v: nat.lowUseRatioPct, label: T.s3.refLabel }}
+      xMax={18}
+      valueHeader={S.lowValue}
+      itemHeader={T.ui.item}
+    />
+    <TrendLine
+      title={fill(isMax ? S.unsoldTitleMax : S.unsoldTitle, vars)}
+      subtitle={S.unsoldSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'unsold',
+          label: S.unsoldLine,
+          points: unsold.points.map((p) => ({ x: xOfT(p.t), v: p.v })),
+          cls: 'c1',
+          area: true,
+          strong: true,
+        },
+      ]}
+      sources={[srcOf(unsold)]}
+      unit=""
+      digits={0}
+      yMin={0}
+      xTickStep={1}
+      yFormat={(v) => (zh ? `${v / 1e4}萬` : `${v / 1e3}k`)}
+      tableRows={unsold.points.map((p) => ({
+        x: xOfT(p.t),
+        label: fmtPeriodShort(p.t, lang),
+      }))}
+      tableXHeader={T.ui.period}
+      xFormat={(x) => String(Math.floor(x + 1e-6))}
+      tipX={fmtXq}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.p1, vars)}</p>
+      <p>{fill(S.p2, vars)}</p>
+    </div>
+    <p class="hs-nodata-box">{S.noData}</p>
+    <div class="hs-actions">
+      <p class="hs-actions-t">{S.actTitle}</p>
+      <ul class="hs-actions-l">
+        <li><a href={`${toolsHref}#affordability-check`}>{S.act1} →</a></li>
+        <li><a href={`${toolsHref}#qingan-eligibility`}>{S.act2} →</a></li>
+        {
+          justice && (
+            <li>
+              <a href={justice.href}>{S.act3} →</a>
+            </li>
+          )
+        }
+      </ul>
+    </div>
+  </div>
+</section>

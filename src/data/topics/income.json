@@ -1,0 +1,128 @@
+{
+  "id": "income",
+  "path": "/income/",
+  "title": {
+    "zh": "薪資、稅與退休",
+    "en": "Pay, tax and retirement"
+  },
+  "description": {
+    "zh": "一份薪水的去向：薪資分布、綜所稅、勞保與勞退、年金改革的各方說法，附四個試算工具。",
+    "en": "Where a Taiwanese paycheck goes: the wage distribution, income tax, Labor Insurance and Labor Pension, and the pension-reform debate, with four calculators."
+  },
+  "emoji": "💰",
+  "updated": "2026-11-10",
+  "languages": ["zh-TW", "en"],
+  "subpages": [],
+  "tools": [
+    {
+      "slug": "income-tax-calculator",
+      "path": "/income/income-tax-calculator/",
+      "embedPath": "/embed/income/income-tax-calculator/",
+      "title": {
+        "zh": "所得稅試算（115 年度，2027 年 5 月報稅）",
+        "en": "Taiwan income tax calculator (2026 income, filed May 2027)"
+      },
+      "description": {
+        "zh": "輸入薪資、扶養人數與扣除額，算出綜所稅應納稅額與最省的計稅方式，可切換 114 年度。",
+        "en": "Enter salary, dependents and deductions to get the individual income tax due and the cheapest filing method. Switch to the 2025 tax year if needed."
+      },
+      "keywords": [
+        "所得稅試算",
+        "綜所稅試算",
+        "報稅試算 2027",
+        "115 年度免稅額",
+        "Taiwan income tax calculator"
+      ],
+      "navTitle": {
+        "zh": "所得稅試算",
+        "en": "Income tax"
+      }
+    },
+    {
+      "slug": "labor-pension-calculator",
+      "path": "/income/labor-pension-calculator/",
+      "embedPath": "/embed/income/labor-pension-calculator/",
+      "title": {
+        "zh": "勞保年金與勞退試算 2026",
+        "en": "Taiwan Labor Insurance and Labor Pension calculator 2026"
+      },
+      "description": {
+        "zh": "輸入出生年、年資與投保薪資，算出勞保老年年金與勞退月退，比較 60 到 70 歲各年齡請領的金額。",
+        "en": "Enter birth year, years of coverage and insured salary to estimate the Labor Insurance old-age pension and Labor Pension annuity, and compare claiming at ages 60 to 70."
+      },
+      "keywords": [
+        "勞保年金試算",
+        "勞保老年年金",
+        "勞退試算",
+        "勞退自提",
+        "Taiwan labor pension calculator"
+      ],
+      "navTitle": {
+        "zh": "勞保勞退試算",
+        "en": "Pension"
+      }
+    },
+    {
+      "slug": "salary-percentile",
+      "path": "/income/salary-percentile/",
+      "embedPath": "/embed/income/salary-percentile/",
+      "title": {
+        "zh": "年薪位置查詢（2024 年薪資分布）",
+        "en": "Taiwan salary percentile checker (2024 distribution)"
+      },
+      "description": {
+        "zh": "輸入全年總薪資，對照主計總處受僱員工薪資十分位數，看自己落在第幾個百分位。",
+        "en": "Enter your annual pay and see which percentile it falls in, using the official decile figures for Taiwan's employees."
+      },
+      "keywords": [
+        "薪資中位數",
+        "年薪 百分位",
+        "薪資分布",
+        "薪水排名",
+        "Taiwan salary percentile"
+      ],
+      "navTitle": {
+        "zh": "年薪位置",
+        "en": "Salary percentile"
+      }
+    },
+    {
+      "slug": "take-home-pay",
+      "path": "/income/take-home-pay/",
+      "embedPath": "/embed/income/take-home-pay/",
+      "title": {
+        "zh": "實領薪資與雇主成本計算 2026",
+        "en": "Taiwan take-home pay and employer cost calculator 2026"
+      },
+      "description": {
+        "zh": "輸入月薪，算出勞保、就保、勞退自提與所得稅後的每月實領，以及雇主另外負擔的成本。",
+        "en": "Enter a monthly salary to see take-home pay after Labor Insurance, Employment Insurance, voluntary pension contributions and income tax, plus what the employer pays on top."
+      },
+      "keywords": [
+        "實領薪資",
+        "薪資計算",
+        "勞保自付額",
+        "雇主負擔",
+        "Taiwan take-home pay"
+      ],
+      "navTitle": {
+        "zh": "實領薪資",
+        "en": "Take-home pay"
+      }
+    }
+  ],
+  "relatedArticles": [
+    "/society/誰算低薪/",
+    "/society/外送專法/",
+    "/society/移工/",
+    "/society/國定假日/",
+    "/society/台灣的年級生世代/",
+    "/society/台灣少子化危機/",
+    "/society/台灣長期照顧制度發展/",
+    "/economy/發票/",
+    "/economy/經濟奇蹟/",
+    "/politics/中央政府總預算/",
+    "/geography/用數據看台灣22縣市/"
+  ],
+  "relatedTopics": ["housing", "health", "industry"]
+}

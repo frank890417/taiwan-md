@@ -1,0 +1,29 @@
+---
+/** RelatedChips — 區塊底下一排站內文章 chip；未上線的文章顯示虛線框「待上線」，不出連結。 */
+import type { RelItem } from '../../utils/health/related';
+interface Props {
+  items: RelItem[];
+  label: string;
+  pendingLabel: string;
+}
+const { items, label, pendingLabel } = Astro.props;
+---
+
+{
+  items.length > 0 && (
+    <div class="bp-related is-inline">
+      <span class="bp-related-k">{label}</span>
+      {items.map((r) =>
+        r.pending ? (
+          <span class="hea-pending">
+            {r.title}（{pendingLabel}）
+          </span>
+        ) : (
+          <a href={r.href} title={r.desc}>
+            {r.title}
+          </a>
+        ),
+      )}
+    </div>
+  )
+}

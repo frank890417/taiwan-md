@@ -1,0 +1,928 @@
+{
+  "_meta": {
+    "asOf": "2026-11-10",
+    "fetched": "2026-11-10",
+    "notes": {
+      "zh": "每筆事件的日期都回到全國法規資料庫沿革頁、行政院、總統府、勞動部、內政部或憲法法庭等一手頁面核對過。只確定到年的事件日期寫年份。「labor-insurance」類同時收勞工保險、就業保險與全民健保這三個社會保險。三讀日、公布日、施行日不同的事件，以對讀者影響最大的一天為主日期，其餘寫在 note。民國年一律換算為西元。",
+      "en": "Each event date was checked against a primary page: the Laws and Regulations Database history pages, the Executive Yuan, the Presidential Office, the Ministry of Labor, the Ministry of the Interior or the Constitutional Court. Where only the year is certain, the date is a year. The labor-insurance category also holds Employment Insurance and National Health Insurance, the other two social insurance programs. Where passage, promulgation and effective dates differ, the main date is the one that matters most to readers and the rest are in the note. Republic of China years are converted to Gregorian years."
+    },
+    "omitted": [
+      {
+        "event": {
+          "zh": "臺灣省勞工保險辦法公布（1950 年開辦的法源）",
+          "en": "Promulgation of the Taiwan Province Labor Insurance Measures (legal basis of the 1950 launch)"
+        },
+        "missing": {
+          "zh": "沒有找到公布日期的一手文件",
+          "en": "No primary document with the promulgation date was found"
+        }
+      },
+      {
+        "event": {
+          "zh": "2013 年馬英九政府的年金改革嘗試",
+          "en": "The 2013 pension reform attempt under President Ma Ying-jeou"
+        },
+        "missing": {
+          "zh": "沒有 2013 年的官方文件，只有蔡英文 2017-01-22 談話對這件事的回顧",
+          "en": "No 2013 official document; the only primary text is Tsai Ing-wen's 22 January 2017 speech looking back on it"
+        }
+      },
+      {
+        "event": {
+          "zh": "最低工資法三讀日（媒體說 2023-12-12）",
+          "en": "Third reading of the Minimum Wage Act (media say 12 December 2023)"
+        },
+        "missing": {
+          "zh": "立法院法律系統沒有查到，只確定公布日 2023-12-27",
+          "en": "Not found in the Legislative Yuan database; only the promulgation date, 27 December 2023, is confirmed"
+        }
+      },
+      {
+        "event": {
+          "zh": "勞基法 1984-08-01 施行的法源命令",
+          "en": "The legal instrument behind the Labor Standards Act taking effect on 1 August 1984"
+        },
+        "missing": {
+          "zh": "條文寫公布日施行，只有行政院國情簡介一句話寫 8 月 1 日，找不到說明這個日期的文件",
+          "en": "The act says it takes effect on promulgation; only one Executive Yuan fact sheet says 1 August and no document explains that date"
+        }
+      },
+      {
+        "event": {
+          "zh": "民進黨立法院黨團向憲法法庭聲請釋憲及暫時處分（2026-01）",
+          "en": "Democratic Progressive Party caucus petition to the Constitutional Court (January 2026)"
+        },
+        "missing": {
+          "zh": "日期只見於媒體報導，沒有回到原報導或憲法法庭文件核對",
+          "en": "The date appears only in media reports and was not rechecked against the original article or a court document"
+        }
+      },
+      {
+        "event": {
+          "zh": "2018 年所得稅法修正後的標準扣除額與薪資所得特別扣除額金額",
+          "en": "Standard deduction and salary special deduction amounts after the 2018 Income Tax Act amendment"
+        },
+        "missing": {
+          "zh": "全國法規資料庫只提供現行條文，沒有讀到 2018 年修正對照表",
+          "en": "The database only shows current text and no 2018 comparison table was read"
+        }
+      },
+      {
+        "event": {
+          "zh": "公務人員退撫新制的草案或其他法律",
+          "en": "Any draft or other law for a new civil servant pension system"
+        },
+        "missing": {
+          "zh": "個人專戶制法律已收入年表；考試院與銓敘部的草案文件沒有讀到",
+          "en": "The individual-account law is in the timeline; Examination Yuan and Ministry of Civil Service drafts were not read"
+        }
+      }
+    ],
+    "courtStatus": {
+      "date": "2026-11-10",
+      "status": {
+        "zh": "公教年金修法的釋憲聲請：截至 2026-11-10，憲法法庭公布的判決與新聞稿裡沒有這件聲請的判決或暫時處分裁定。",
+        "en": "Petitions on the civil service pension amendment: as of 10 November 2026, the judgments and press releases published by the Constitutional Court include no judgment or interim order on them."
+      },
+      "lastReport": {
+        "date": "2026-08-06",
+        "name": "中央社（2026-08-06）：結果尚未出爐",
+        "url": "https://www.cna.com.tw/news/aipl/202608060197.aspx"
+      },
+      "sources": [
+        {
+          "name": "憲法法庭首頁",
+          "url": "https://cons.judicial.gov.tw/"
+        },
+        {
+          "name": "憲法法庭「案件訊息」（115 年憲判字第 1 至 7 號判決摘要）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=77"
+        },
+        {
+          "name": "憲法法庭「裁判公告」（程序裁定公告至 2026-11-06）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=5260"
+        }
+      ],
+      "note": {
+        "zh": "查詢日 2026-11-10。查了憲法法庭首頁、案件訊息、裁判公告、當事人案件進度查詢頁（需當事人帳號，未能看本案），司法院新聞稿列表，以及中央社、聯合報、公視的相關報導。2026-01-02 至 2026-10-08 公布的 115 年憲判字第 1 至 7 號判決摘要都與本案無關。程序裁定公告到 2026-11-06 共有大量件數，沒有逐件打開。最後一則直接提到本案進度的報導是中央社 2026-08-06：「結果尚未出爐」，行政院說追回差額與否須待憲法法庭做成判決。這不能證明不存在裁定，只代表本站查到的範圍內沒有。",
+        "en": "Checked on 10 November 2026. Pages checked: the Constitutional Court home page, case news, judgment announcements, the case progress page (which needs a party login, so this case could not be viewed), the Judicial Yuan press release list, and related reports by the Central News Agency, United Daily News and Public Television Service. Judgment summaries No. 1 to 7 of 2026, published between 2 January and 8 October 2026, are unrelated to this case. Procedural rulings were announced in large numbers up to 6 November 2026 and were not opened one by one. The last report that speaks directly to this case is the Central News Agency on 6 August 2026, saying the result had not come out and that the Executive Yuan will act on any recovery of back payments only after a judgment. This does not prove that no ruling exists; it only means none was found within what this site checked."
+      }
+    }
+  },
+  "events": [
+    {
+      "date": "1950-03-01",
+      "title": {
+        "zh": "勞工保險開辦",
+        "en": "Labor Insurance begins"
+      },
+      "desc": {
+        "zh": "勞工保險開辦，揭開台灣社會保險序幕。",
+        "en": "Labor Insurance begins operating, opening Taiwan's social insurance system."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "勞動部〈走過64個年頭 勞保始終陪伴著您〉",
+          "url": "https://www.mol.gov.tw/1607/1632/1640/18447/"
+        }
+      ]
+    },
+    {
+      "date": "1958-07-21",
+      "title": {
+        "zh": "勞工保險條例公布",
+        "en": "Labor Insurance Act promulgated"
+      },
+      "desc": {
+        "zh": "總統令公布《勞工保險條例》全文 87 條。",
+        "en": "The president promulgates the Labor Insurance Act, 87 articles in full."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞工保險條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0050001"
+        }
+      ],
+      "note": {
+        "zh": "1960-02-24 由行政院令臺灣省施行。",
+        "en": "Applied to Taiwan Province by Executive Yuan order on 24 February 1960."
+      }
+    },
+    {
+      "date": "1984-07-30",
+      "title": {
+        "zh": "勞動基準法公布",
+        "en": "Labor Standards Act promulgated"
+      },
+      "desc": {
+        "zh": "總統令公布《勞動基準法》全文 86 條。",
+        "en": "The president promulgates the Labor Standards Act, 86 articles in full."
+      },
+      "category": "labor-law",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞動基準法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030001"
+        },
+        {
+          "name": "行政院國情簡介〈勞動基準及退休〉",
+          "url": "https://www.ey.gov.tw/state/11AF2B1C6FB2676/a368d570-5026-4059-bad4-be2edb005a91"
+        }
+      ],
+      "note": {
+        "zh": "施行日有兩種官方寫法並陳：1984 年版第 86 條寫「本法自公布日施行」，即 1984-07-30；行政院國情簡介寫「民國73年8月1日生效施行」，即 1984-08-01。找不到說明 8 月 1 日的文件。",
+        "en": "Two official effective dates are given side by side. Article 86 of the 1984 text says the act takes effect on promulgation, 30 July 1984; the Executive Yuan fact sheet says it took effect on 1 August 1984. No document explaining 1 August was found."
+      }
+    },
+    {
+      "date": "1995-03-01",
+      "title": {
+        "zh": "全民健康保險開辦",
+        "en": "National Health Insurance begins"
+      },
+      "desc": {
+        "zh": "全民健康保險依行政院令定自 1995-03-01 施行。",
+        "en": "National Health Insurance takes effect on 1 March 1995 by Executive Yuan order."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "全國法規資料庫《全民健康保險法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0060001"
+        }
+      ],
+      "note": {
+        "zh": "法律於 1994-08-09 公布。",
+        "en": "The act was promulgated on 9 August 1994."
+      }
+    },
+    {
+      "date": "1995-05-31",
+      "title": {
+        "zh": "老年農民福利津貼暫行條例公布",
+        "en": "Interim Act on Welfare Allowance for Elderly Farmers promulgated"
+      },
+      "desc": {
+        "zh": "總統令公布《老年農民福利津貼暫行條例》全文 6 條。",
+        "en": "The president promulgates the Interim Act on Welfare Allowance for Elderly Farmers, 6 articles."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "全國法規資料庫《老年農民福利津貼暫行條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=M0090015"
+        }
+      ]
+    },
+    {
+      "date": "1996-07-01",
+      "title": {
+        "zh": "勞保業務收歸中央辦理",
+        "en": "Labor insurance administration moves to the central government"
+      },
+      "desc": {
+        "zh": "勞保業務收歸中央辦理，臺閩地區勞工保險局更名為勞工保險局。",
+        "en": "Labor insurance moves to central administration and the regional bureau becomes the Bureau of Labor Insurance."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "勞動部勞工保險局沿革頁面",
+          "url": "https://www.mol.gov.tw/1607/1632/1640/43745/"
+        }
+      ]
+    },
+    {
+      "date": "2000-06-28",
+      "title": {
+        "zh": "勞基法第 30 條改為每兩週 84 小時",
+        "en": "Labor Standards Act Article 30 changes to 84 hours per two weeks"
+      },
+      "desc": {
+        "zh": "正常工時由每週 48 小時改為每兩週 84 小時，2001 年起實施。",
+        "en": "Normal working time changes from 48 hours a week to 84 hours per two weeks, effective 2001."
+      },
+      "category": "labor-law",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞動基準法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030001"
+        },
+        {
+          "name": "勞動部法令查詢系統：2000-06-28 版第 30 條",
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDAT08.aspx?id=FL014930&ldate=20000628"
+        }
+      ],
+      "note": {
+        "zh": "2000-06-28 是公布日，2001-01-01 是施行日。1996 與 1998 的修正動的是第 3 條與第 30-1 條，不是第 30 條。",
+        "en": "28 June 2000 is the promulgation date and 1 January 2001 the effective date. The 1996 and 1998 amendments touched Articles 3 and 30-1, not Article 30."
+      }
+    },
+    {
+      "date": "2002-05-15",
+      "title": {
+        "zh": "就業保險法公布",
+        "en": "Employment Insurance Act promulgated"
+      },
+      "desc": {
+        "zh": "公布《就業保險法》全文 44 條，2003-01-01 施行。",
+        "en": "The Employment Insurance Act, 44 articles, is promulgated and takes effect on 1 January 2003."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "全國法規資料庫《就業保險法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0050021"
+        }
+      ]
+    },
+    {
+      "date": "2005-07-01",
+      "title": {
+        "zh": "勞工退休金新制開辦",
+        "en": "New Labor Pension system begins"
+      },
+      "desc": {
+        "zh": "《勞工退休金條例》施行，勞工有個人退休金專戶。",
+        "en": "The Labor Pension Act takes effect and workers get individual pension accounts."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞工退休金條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030020"
+        },
+        {
+          "name": "勞動部勞工保險局沿革頁面",
+          "url": "https://www.mol.gov.tw/1607/1632/1640/43745/"
+        }
+      ],
+      "note": {
+        "zh": "法律 2004-06-30 公布，條文寫「自公布後一年施行」；2005-07-01 見於勞保局沿革頁面「94年7月勞退新制業務正式開辦」。",
+        "en": "The act was promulgated on 30 June 2004 and takes effect one year after promulgation; the Bureau of Labor Insurance page dates the launch to July 2005 (ROC year 94)."
+      }
+    },
+    {
+      "date": "2007-07-01",
+      "title": {
+        "zh": "基本工資恢復調整為 17,280 元",
+        "en": "Basic wage resumes adjustment at NT$17,280"
+      },
+      "desc": {
+        "zh": "基本工資調為月薪 17,280 元、時薪 95 元，前次調整在 1997 年。",
+        "en": "The basic wage rises to NT$17,280 a month and NT$95 an hour; the previous change was in 1997."
+      },
+      "category": "wage",
+      "sources": [
+        {
+          "name": "勞動部〈歷年最低工資/基本工資調整〉",
+          "url": "https://www.mol.gov.tw/1607/28162/28166/28180/99861/28184/29016/"
+        }
+      ],
+      "note": {
+        "zh": "2007-06-22 發布，7 月 1 日起實施。前一次是 1997-10-16 調為 15,840 元。",
+        "en": "Announced 22 June 2007, effective 1 July. The previous change was on 16 October 1997, to NT$15,840."
+      }
+    },
+    {
+      "date": "2008-10-01",
+      "title": {
+        "zh": "國民年金開辦",
+        "en": "National Pension begins"
+      },
+      "desc": {
+        "zh": "《國民年金法》施行，未納入其他社會保險的國民有了老年年金。",
+        "en": "The National Pension Act takes effect, covering residents not in other social insurance."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "全國法規資料庫《國民年金法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0050152"
+        }
+      ],
+      "note": {
+        "zh": "法律 2007-08-08 公布。",
+        "en": "The act was promulgated on 8 August 2007."
+      }
+    },
+    {
+      "date": "2009-01-01",
+      "title": {
+        "zh": "勞保年金制度施行",
+        "en": "Labor Insurance annuity system takes effect"
+      },
+      "desc": {
+        "zh": "《勞工保險條例》大幅修正後施行，老年給付增設年金。",
+        "en": "The heavily amended Labor Insurance Act takes effect and adds old-age annuities."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞工保險條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0050001"
+        }
+      ],
+      "note": {
+        "zh": "修正案 2008-08-13 公布，行政院令定自 2009-01-01 施行（部分條文另訂）。",
+        "en": "The amendment was promulgated on 13 August 2008; an Executive Yuan order set 1 January 2009 for most articles."
+      }
+    },
+    {
+      "date": "2015-06-03",
+      "title": {
+        "zh": "勞基法第 30 條改為每週 40 小時",
+        "en": "Labor Standards Act Article 30 changes to 40 hours a week"
+      },
+      "desc": {
+        "zh": "正常工時修正為每日不超過 8 小時、每週不超過 40 小時。",
+        "en": "Normal working time becomes at most 8 hours a day and 40 hours a week."
+      },
+      "category": "labor-law",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞動基準法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030001"
+        },
+        {
+          "name": "勞動部法令查詢系統：2015-06-03 版第 30 條",
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDAT08.aspx?id=FL014930&ldate=20150603"
+        }
+      ],
+      "note": {
+        "zh": "2015-05-15 三讀，2016-01-01 施行。",
+        "en": "Passed on 15 May 2015; effective 1 January 2016."
+      }
+    },
+    {
+      "date": "2016-06-08",
+      "title": {
+        "zh": "總統府國家年金改革委員會成立",
+        "en": "Presidential Office pension reform committee established"
+      },
+      "desc": {
+        "zh": "年金改革委員會完成委員遴聘並成立，行政院同日成立年金改革辦公室。",
+        "en": "The committee's members are appointed and it is established; the Executive Yuan opens a pension reform office the same day."
+      },
+      "category": "reform",
+      "sources": [
+        {
+          "name": "行政院〈年金改革〉推動歷程",
+          "url": "https://www.ey.gov.tw/Goals/9A6982D4592B7158"
+        },
+        {
+          "name": "總統府新聞：年金改革委員會第一次委員會議",
+          "url": "https://www.president.gov.tw/NEWS/20526"
+        }
+      ],
+      "note": {
+        "zh": "設置要點 2016-05-30 公布；第一次委員會議 2016-06-23。",
+        "en": "The establishment guidelines were published on 30 May 2016; the first meeting was on 23 June 2016."
+      }
+    },
+    {
+      "date": "2016-12-06",
+      "title": {
+        "zh": "一例一休修法三讀",
+        "en": "One fixed day off and one rest day amendment passes third reading"
+      },
+      "desc": {
+        "zh": "勞基法規定每七日中有兩日休息，一日例假、一日休息日。",
+        "en": "The Labor Standards Act now gives two days off in every seven: one regular day off and one rest day."
+      },
+      "category": "labor-law",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞動基準法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030001"
+        },
+        {
+          "name": "勞動部法令查詢系統：第 36 條立法理由",
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?id=FL014930&flno=36"
+        }
+      ],
+      "note": {
+        "zh": "三讀是 2016-12-06，總統公布是 2016-12-21（常被誤記為三讀日）；第 37 條第 1 項與第 38 條自 2017-01-01 施行。",
+        "en": "The third reading was on 6 December 2016 and the promulgation on 21 December 2016, which is often misremembered as the vote date. Article 37 paragraph 1 and Article 38 took effect on 1 January 2017."
+      }
+    },
+    {
+      "date": "2017-01-22",
+      "title": {
+        "zh": "年金改革國是會議全國大會",
+        "en": "National pension reform affairs conference"
+      },
+      "desc": {
+        "zh": "年金改革國是會議全國大會在總統府召開，由副總統主持。",
+        "en": "The national assembly of the pension reform conference meets at the Presidential Office, chaired by the vice president."
+      },
+      "category": "reform",
+      "sources": [
+        {
+          "name": "行政院〈年金改革〉推動歷程",
+          "url": "https://www.ey.gov.tw/Goals/9A6982D4592B7158"
+        }
+      ],
+      "note": {
+        "zh": "分區會議在 2016-12-31 與 2017-01-07、08、14 舉行。不是 2017 年 2 月。",
+        "en": "Regional meetings were held on 31 December 2016 and 7, 8 and 14 January 2017. It was not in February 2017."
+      }
+    },
+    {
+      "date": "2017-08-09",
+      "title": {
+        "zh": "公務人員、教職員與政務人員年金改革三法公布",
+        "en": "Three pension reform laws for civil servants, school staff and political appointees promulgated"
+      },
+      "desc": {
+        "zh": "公布公務人員、公立學校教職員、政務人員三部退撫法令。",
+        "en": "Three pension laws are promulgated, covering civil servants, public school staff and political appointees."
+      },
+      "category": "reform",
+      "sources": [
+        {
+          "name": "全國法規資料庫《公務人員退休資遣撫卹法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080034"
+        },
+        {
+          "name": "行政院〈年金改革〉推動歷程",
+          "url": "https://www.ey.gov.tw/Goals/9A6982D4592B7158"
+        }
+      ],
+      "note": {
+        "zh": "三讀日分別為 2017-06-27、06-29、06-30；多數條文自 2018-07-01 施行。三部法不含軍人；軍人另走《陸海空軍軍官士官服役條例》。",
+        "en": "The three laws passed third reading on 27, 29 and 30 June 2017; most articles took effect on 1 July 2018. Military personnel are not covered by these three laws and follow a separate act."
+      }
+    },
+    {
+      "date": "2018",
+      "title": {
+        "zh": "台灣邁入高齡社會",
+        "en": "Taiwan becomes an aged society"
+      },
+      "desc": {
+        "zh": "65 歲以上人口占比在 2018 年 3 月底達到高齡社會標準。",
+        "en": "The share of people aged 65 and over reached the aged-society threshold at the end of March 2018."
+      },
+      "category": "demography",
+      "sources": [
+        {
+          "name": "內政部統計通報",
+          "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=334815"
+        }
+      ],
+      "note": {
+        "zh": "原文：「我國於107年3月底邁入『高齡社會』」。",
+        "en": "The original text says Taiwan entered an aged society at the end of March 2018 (ROC year 107)."
+      }
+    },
+    {
+      "date": "2018-01-31",
+      "title": {
+        "zh": "勞基法修正公布（七休一調整）",
+        "en": "Labor Standards Act amendment promulgated (seven-day cycle flexibility)"
+      },
+      "desc": {
+        "zh": "指定行業的例假可在七日週期內調整，2018-03-01 施行。",
+        "en": "Designated sectors may adjust the regular day off within a seven-day cycle, effective 1 March 2018."
+      },
+      "category": "labor-law",
+      "sources": [
+        {
+          "name": "全國法規資料庫《勞動基準法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030001"
+        },
+        {
+          "name": "勞動部法令查詢系統：2018-01-31 版",
+          "url": "https://laws.mol.gov.tw/FLAW/FLAWDAT08.aspx?id=FL014930&ldate=20180131"
+        }
+      ],
+      "note": {
+        "zh": "三讀 2018-01-10。2018-03-27 沒有勞基法公布紀錄；2018 年另一次公布是 11-21（第 54、55、59 條）。",
+        "en": "Third reading was on 10 January 2018. There is no Labor Standards Act promulgation on 27 March 2018; the other 2018 promulgation was on 21 November (Articles 54, 55 and 59)."
+      }
+    },
+    {
+      "date": "2018-02-07",
+      "title": {
+        "zh": "所得稅法修正公布",
+        "en": "Income Tax Act amendment promulgated"
+      },
+      "desc": {
+        "zh": "修正第 5、14、15、17 條等，刪除兩稅合一股東可扣抵稅額相關條次。",
+        "en": "Articles 5, 14, 15 and 17 and others are amended; the shareholder tax credit articles are deleted."
+      },
+      "category": "tax",
+      "sources": [
+        {
+          "name": "全國法規資料庫《所得稅法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=G0340003"
+        }
+      ],
+      "note": {
+        "zh": "三讀 2018-01-18；多數條文自 2018-01-01 施行。這筆依沿革頁的條次寫成，沒有逐條讀內容。",
+        "en": "Third reading was on 18 January 2018; most articles apply from 1 January 2018. The description follows the article numbers on the history page; the article contents were not read one by one."
+      }
+    },
+    {
+      "date": "2018-06-21",
+      "title": {
+        "zh": "陸海空軍軍官士官服役條例全文修正公布",
+        "en": "Act on Military Officers' and Noncommissioned Officers' Service fully amended"
+      },
+      "desc": {
+        "zh": "軍人退除給與全文修正公布，第 26 條定服役滿 20 年起支俸率 55%。",
+        "en": "The military retirement rules are fully amended; Article 26 sets a 55% starting rate after 20 years of service."
+      },
+      "category": "reform",
+      "sources": [
+        {
+          "name": "全國法規資料庫《陸海空軍軍官士官服役條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=F0040020"
+        },
+        {
+          "name": "行政院〈軍人年金改革〉",
+          "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/eea9e788-8551-4d7c-b66e-0cdf71b95398"
+        }
+      ],
+      "note": {
+        "zh": "多數條文自 2018-06-23 施行，第 26、37、45、46 條自 2018-07-01 施行。",
+        "en": "Most articles took effect on 23 June 2018; Articles 26, 37, 45 and 46 on 1 July 2018."
+      }
+    },
+    {
+      "date": "2019-08-23",
+      "title": {
+        "zh": "釋字第 781、782、783 號公布",
+        "en": "Interpretations No. 781, 782 and 783 announced"
+      },
+      "desc": {
+        "zh": "大法官公布軍人、公務人員、公立學校教職員三案退撫給與解釋。",
+        "en": "The Justices announce interpretations on retirement benefits for military personnel, civil servants and public school staff."
+      },
+      "category": "reform",
+      "sources": [
+        {
+          "name": "憲法法庭：釋字第 782 號（公務人員退撫給與案）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310963"
+        },
+        {
+          "name": "憲法法庭：釋字第 781 號（陸海空軍軍官士官退除給與案）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310962"
+        },
+        {
+          "name": "憲法法庭：釋字第 783 號（公立學校教職員退撫給與案）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310964"
+        }
+      ],
+      "note": {
+        "zh": "781 是軍人案、782 是公務人員案、783 是公立學校教職員案，三號同日公布；常見的「781 是公教案」說法有誤。",
+        "en": "No. 781 concerns military personnel, 782 civil servants and 783 public school staff, all announced the same day. The common claim that 781 concerns civil servants and teachers is wrong."
+      }
+    },
+    {
+      "date": "2020",
+      "title": {
+        "zh": "政府開始編列預算撥補勞保基金",
+        "en": "Government begins budget transfers to the Labor Insurance fund"
+      },
+      "desc": {
+        "zh": "自 2020 年起逐年編列預算撥補勞保基金，2020 年為 200 億元。",
+        "en": "From 2020 the government budgets transfers to the fund each year, NT$20 billion in 2020."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "行政院新聞：勞保條例修正草案（2025-11-20）",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/ed73abb6-37a4-420d-bf1b-866f976fcae7"
+        },
+        {
+          "name": "勞保局 113 年度勞工保險普通事故保險費率精算及財務評估報告",
+          "url": "https://www.bli.gov.tw/Files/24897"
+        }
+      ],
+      "note": {
+        "zh": "2020 年金額來自精算報告第 8 節（109 年 200 億元）。到 2025 年已編列累計 3,870 億元。",
+        "en": "The 2020 amount comes from section 8 of the actuarial report (NT$20 billion in ROC year 109). Budgeted transfers through 2025 total NT$387 billion."
+      }
+    },
+    {
+      "date": "2023-07-01",
+      "title": {
+        "zh": "新進公務人員改採個人專戶制",
+        "en": "New civil servants move to individual pension accounts"
+      },
+      "desc": {
+        "zh": "2023-07-01 以後初任的公務人員，退休金由政府與本人共同撥繳至個人專戶。",
+        "en": "Civil servants first hired on or after 1 July 2023 have pensions paid into individual accounts by the government and themselves."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "全國法規資料庫《公務人員個人專戶制退休資遣撫卹法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080045"
+        },
+        {
+          "name": "全國法規資料庫《公務人員退休資遣撫卹法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080034"
+        }
+      ],
+      "note": {
+        "zh": "依《公務人員個人專戶制退休資遣撫卹法》（2023-01-11 公布，2023-07-01 施行）。《公務人員退休資遣撫卹法》第 93 條只寫另以法律重新建立，沒有「個人專戶」字樣；研究檔之間對法源說法不同，以讀到法條原文的為準。",
+        "en": "Under the Act Governing Civil Servants' Individual-Account Retirement, Discharge and Pensions, promulgated 11 January 2023 and effective 1 July 2023. Article 93 of the older Civil Servants' Retirement, Discharge and Pensions Act only says a new system is to be set up by separate law and does not mention individual accounts."
+      }
+    },
+    {
+      "date": "2024-01-01",
+      "title": {
+        "zh": "最低工資法施行",
+        "en": "Minimum Wage Act takes effect"
+      },
+      "desc": {
+        "zh": "《最低工資法》施行，最低工資改依法定程序審議。",
+        "en": "The Minimum Wage Act takes effect and minimum wages are reviewed under a statutory process."
+      },
+      "category": "wage",
+      "sources": [
+        {
+          "name": "全國法規資料庫《最低工資法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030028"
+        }
+      ],
+      "note": {
+        "zh": "2023-12-27 公布，行政院令定自 2024-01-01 施行。媒體說的 12-12 三讀日沒有核對到一手來源。",
+        "en": "Promulgated on 27 December 2023; an Executive Yuan order set 1 January 2024. The 12 December third-reading date given by media was not confirmed in a primary source."
+      }
+    },
+    {
+      "date": "2024-09-13",
+      "title": {
+        "zh": "行政院核定 2025 年最低工資 28,590 元",
+        "en": "Executive Yuan approves the 2025 minimum wage of NT$28,590"
+      },
+      "desc": {
+        "zh": "最低工資法施行後首次審議，月薪由 27,470 元調為 28,590 元。",
+        "en": "In the first review under the new act, the monthly minimum wage rises from NT$27,470 to NT$28,590."
+      },
+      "category": "wage",
+      "sources": [
+        {
+          "name": "行政院新聞：政院核定最低工資調升為28,590元",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/9861c660-7962-4aaa-b31f-2f706d0972d4"
+        }
+      ],
+      "note": {
+        "zh": "時薪由 183 元調為 190 元，2025-01-01 實施。",
+        "en": "The hourly wage rises from NT$183 to NT$190, effective 1 January 2025."
+      }
+    },
+    {
+      "date": "2025-01-21",
+      "title": {
+        "zh": "勞動部公布 113 年度勞保精算報告",
+        "en": "Ministry of Labor releases the 2024 Labor Insurance actuarial report"
+      },
+      "desc": {
+        "zh": "未提存精算負債 13.23 兆元，基金餘額出現負值年度為民國 120 年。",
+        "en": "Unfunded liability is NT$13.23 trillion; the fund balance turns negative in ROC year 120."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "勞動部新聞稿（2025-01-21）",
+          "url": "https://www.mol.gov.tw/1607/1632/1633/77917/post"
+        },
+        {
+          "name": "勞保局 113 年度勞工保險普通事故保險費率精算及財務評估報告",
+          "url": "https://www.bli.gov.tw/Files/24897"
+        }
+      ],
+      "note": {
+        "zh": "精算基準日為 2023-12-31。報告指，不計入未來政府撥補時預估民國 120 年基金用罄；前次報告為民國 117 年。",
+        "en": "The actuarial valuation date is 31 December 2023. The report estimates the fund is exhausted in ROC year 120 if future government transfers are excluded; the previous report said ROC year 117."
+      }
+    },
+    {
+      "date": "2025-10-21",
+      "title": {
+        "zh": "公布 2026 年最低工資 29,500 元",
+        "en": "2026 minimum wage of NT$29,500 announced"
+      },
+      "desc": {
+        "zh": "月薪由 28,590 元調為 29,500 元，2026-01-01 實施。",
+        "en": "Monthly minimum wage rises from NT$28,590 to NT$29,500, effective 1 January 2026."
+      },
+      "category": "wage",
+      "sources": [
+        {
+          "name": "勞動部〈歷年最低工資/基本工資調整〉",
+          "url": "https://www.mol.gov.tw/1607/28162/28166/28180/99861/28184/29016/"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "title": {
+        "zh": "財政部公告 115 年度綜所稅免稅額與扣除額",
+        "en": "Ministry of Finance announces 2026 tax-year exemption and deduction amounts"
+      },
+      "desc": {
+        "zh": "每人免稅額由 9.7 萬元調為 10.1 萬元。",
+        "en": "The per-person exemption rises from NT$97,000 to NT$101,000."
+      },
+      "category": "tax",
+      "sources": [
+        {
+          "name": "財政部賦稅署新聞稿",
+          "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=34b463dc8f1b49f29d440d92a6fd5139"
+        }
+      ],
+      "note": {
+        "zh": "調整依據是消費者物價指數較上次調整年度累計上漲 4.13%，達 3% 的法定門檻。",
+        "en": "The adjustment follows a cumulative consumer price rise of 4.13% since the last adjustment, above the 3% statutory threshold."
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "title": {
+        "zh": "立法院三讀通過公教年金「停止調降所得替代率」修法",
+        "en": "Legislative Yuan passes the amendment to stop lowering civil servant pension replacement rates"
+      },
+      "desc": {
+        "zh": "退休所得替代率一律以 2023 年上限認定，原訂 2024 年起逐年下降的部分不適用。",
+        "en": "Replacement rates are fixed at the 2023 ceiling and the scheduled yearly cuts from 2024 no longer apply."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "行政院新聞稿（2025-12-12）",
+          "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/f119f3a5-649f-407f-b5d4-2b6caa6c6627"
+        },
+        {
+          "name": "全國法規資料庫《公務人員退休資遣撫卹法》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=S0080034"
+        }
+      ],
+      "note": {
+        "zh": "修正第 37、38、67 條；總統 2025-12-26 公布。《公立學校教職員退休資遣撫卹條例》同步修正。",
+        "en": "Articles 37, 38 and 67 were amended and promulgated on 26 December 2025. The Public School Staff Retirement, Discharge and Pensions Act was amended in parallel."
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "title": {
+        "zh": "勞保條例修正三讀：政府負最後支付責任入法",
+        "en": "Labor Insurance Act amendment passes: government's final payment responsibility written into law"
+      },
+      "desc": {
+        "zh": "政府每年編列預算撥補，負最後支付責任，至少每 3 年檢討財務。",
+        "en": "Annual budget transfers, final payment responsibility and a financial review at least every three years."
+      },
+      "category": "labor-insurance",
+      "sources": [
+        {
+          "name": "勞動部新聞稿（2025-12-30）",
+          "url": "https://www.mol.gov.tw/1607/1632/1633/87321/post"
+        },
+        {
+          "name": "全國法規資料庫《勞工保險條例》沿革",
+          "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0050001"
+        }
+      ],
+      "note": {
+        "zh": "總統 2026-01-21 公布。",
+        "en": "Promulgated on 21 January 2026."
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "title": {
+        "zh": "行政院聲請憲法法庭釋憲及暫時處分",
+        "en": "Executive Yuan petitions the Constitutional Court for interpretation and an interim order"
+      },
+      "desc": {
+        "zh": "行政院就公教年金停止調降修法聲請釋憲及暫時處分。",
+        "en": "The Executive Yuan asks for an interpretation and an interim order on the pension amendment."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "中央社〈考試院聲請釋憲〉（2026-01-08）",
+          "url": "https://www.cna.com.tw/news/aipl/202601080279.aspx"
+        }
+      ],
+      "note": {
+        "zh": "行政院的理由：程序違背憲法正當立法程序、內容牴觸憲法第 70 條、侵害行政院預算編列權。",
+        "en": "The Executive Yuan's stated grounds: the procedure breached constitutional due legislative process, the content conflicts with Article 70 of the Constitution and it infringes the Executive Yuan's budgeting power."
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "title": {
+        "zh": "考試院聲請憲法法庭釋憲及暫時處分",
+        "en": "Examination Yuan petitions the Constitutional Court for interpretation and an interim order"
+      },
+      "desc": {
+        "zh": "考試院院會同意就同一修法向憲法法庭聲請釋憲及暫時處分。",
+        "en": "The Examination Yuan agrees to file for interpretation and an interim order on the same amendment."
+      },
+      "category": "pension",
+      "sources": [
+        {
+          "name": "中央社〈考試院聲請釋憲〉（2026-01-08）",
+          "url": "https://www.cna.com.tw/news/aipl/202601080279.aspx"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "title": {
+        "zh": "內政部公布 65 歲以上人口占 20.06%",
+        "en": "Ministry of the Interior reports 20.06% of residents aged 65 and over"
+      },
+      "desc": {
+        "zh": "2025 年 12 月底 65 歲以上人口占總人口 20.06%。",
+        "en": "At the end of December 2025, residents aged 65 and over were 20.06% of the population."
+      },
+      "category": "demography",
+      "sources": [
+        {
+          "name": "內政部戶政司〈民國114年12月戶口統計資料分析〉",
+          "url": "https://www.ris.gov.tw/info-liferay/app/channel/newsDetail/26007114"
+        }
+      ],
+      "note": {
+        "zh": "戶政司文件只列數字，沒有使用「超高齡社會」字樣；沒有讀到內政部或國發會宣布進入超高齡社會的官方原文。",
+        "en": "The Household Registration Department document gives figures only and does not use the term super-aged society. No official Ministry of the Interior or National Development Council text declaring that status was read."
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "title": {
+        "zh": "最低工資審議會決議 2027 年調至 30,900 元",
+        "en": "Review committee sets the 2027 minimum wage at NT$30,900"
+      },
+      "desc": {
+        "zh": "月薪由 29,500 元調為 30,900 元，調幅 4.745%。",
+        "en": "The monthly wage rises from NT$29,500 to NT$30,900, up 4.745%."
+      },
+      "category": "wage",
+      "sources": [
+        {
+          "name": "勞動部新聞稿（2026-09-24）",
+          "url": "https://www.mol.gov.tw/1607/1632/1633/99195/post"
+        },
+        {
+          "name": "勞動部〈歷年最低工資/基本工資調整〉",
+          "url": "https://www.mol.gov.tw/1607/28162/28166/28180/99861/28184/29016/"
+        }
+      ],
+      "note": {
+        "zh": "勞動部頁面記 2026-10-16 發布，2027-01-01 起實施。",
+        "en": "The Ministry of Labor page records announcement on 16 October 2026, effective 1 January 2027."
+      }
+    }
+  ]
+}
