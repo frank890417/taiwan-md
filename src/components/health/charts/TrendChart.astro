@@ -100,8 +100,8 @@ function layout(W: number, narrow: boolean) {
   const M = {
     l: narrow ? 42 : 56,
     r: narrow
-      ? Math.max(70, Math.min(124, longest + 12))
-      : Math.max(96, Math.min(210, longest + 16)),
+      ? Math.max(78, Math.min(132, longest + 22))
+      : Math.max(104, Math.min(218, longest + 26)),
     t: 22,
     b: 32,
   };
@@ -150,8 +150,8 @@ function layout(W: number, narrow: boolean) {
     .map((p) => ({ p, ly: y(p.last!.v), label: p.s.label }))
     .sort((a, b) => a.ly - b.ly);
   for (let i = 1; i < endLabels.length; i++) {
-    if (endLabels[i].ly - endLabels[i - 1].ly < 14)
-      endLabels[i].ly = endLabels[i - 1].ly + 14;
+    if (endLabels[i].ly - endLabels[i - 1].ly < 16)
+      endLabels[i].ly = endLabels[i - 1].ly + 16;
   }
   // x 刻度：年份多就抽樣，頭尾一定標
   const want = narrow ? 5 : 9;
@@ -216,7 +216,12 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
               y1={L.y(l.value)}
               y2={L.y(l.value)}
             />
-            <text x={L.M.l + 6} y={L.y(l.value) - 5} class="bg-hband-lab">
+            <text
+              x={L.M.l + L.iw - 6}
+              y={L.y(l.value) - 5}
+              text-anchor="end"
+              class="bg-hband-lab"
+            >
               {l.label}
             </text>
           </g>
@@ -263,14 +268,22 @@ const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
           </g>
         ))}
         {L.endLabels.map((e) => (
-          <text
-            x={L.M.l + L.iw + 8}
-            y={e.ly + 4}
-            class="bg-endlab"
-            data-series={e.p.s.id}
-          >
-            {e.label}
-          </text>
+          <g class={`bg-series ${e.p.s.cls || 'bg-s0'}`}>
+            <circle
+              cx={L.M.l + L.iw + 9}
+              cy={e.ly}
+              r={3.5}
+              class="bg-dot hea-end-swatch"
+            />
+            <text
+              x={L.M.l + L.iw + 17}
+              y={e.ly + 4}
+              class="bg-endlab"
+              data-series={e.p.s.id}
+            >
+              {e.label}
+            </text>
+          </g>
         ))}
         {annots.map((a) => {
           const s = series.find((s) => s.id === a.seriesId);

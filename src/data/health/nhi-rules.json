@@ -120,7 +120,7 @@
       "date": "2025-12-22"
     },
     "tableRegional": {
-      "title": "健保署「保險費負擔金額表（七）地區人口適用」",
+      "title": "健保署「保險費負擔金額表（七）地區人口適用」（110 年 1 月 1 日起實施，官網現行版）",
       "url": "https://www.nhi.gov.tw/ch/cp-5719-69026-2584-1.html",
       "date": "2024-05-23"
     },
@@ -148,6 +148,49 @@
       "title": "健保署「住院部分負擔上限」",
       "url": "https://www.nhi.gov.tw/ch/cp-5184-4d67b-2743-1.html",
       "date": "2025-12-24"
+    },
+    "rate2026": {
+      "title": "健保會第 7 屆 115 年第 1 次委員會議議事錄：行政院 114 年 12 月 31 日核定 115 年度一般保險費率維持 5.17%、補充保險費率維持 2.11%",
+      "url": "https://www.mohw.gov.tw/dl-98958-6755418d-3a63-4df7-bf22-b305fdd5af51.html",
+      "date": "2026-01-21"
     }
-  }
+  },
+  "figures": [
+    {
+      "zh": "一般保險費率 5.17%",
+      "en": "General premium rate 5.17%",
+      "sources": ["formula", "rate2026"]
+    },
+    {
+      "zh": "補充保險費率 2.11%",
+      "en": "Supplementary premium rate 2.11%",
+      "sources": ["supplementary", "rate2026"]
+    },
+    {
+      "zh": "投保金額分級表 58 級，29,500 到 313,000 元（2026 年 1 月 1 日生效）",
+      "en": "Grading table: 58 grades, NT$29,500 to NT$313,000 (effective 1 January 2026)",
+      "sources": ["grades"]
+    },
+    {
+      "zh": "平均眷口數 0.56 人（2024 年 1 月 1 日起）",
+      "en": "Average dependents 0.56 (since 1 January 2024)",
+      "sources": ["formula", "tableEmployee"]
+    },
+    {
+      "zh": "地區人口平均保險費 1,377 元，本人自付 826 元",
+      "en": "Regional population: average premium NT$1,377, self-pay NT$826",
+      "sources": ["tableRegional"]
+    },
+    {
+      "zh": "負擔比率（受僱者 30／60／10 等）",
+      "en": "Contribution shares (employees 30/60/10, etc.)",
+      "sources": ["shares", "law"]
+    },
+    {
+      "zh": "補充保費門檻與上限（單次 2 萬元、1,000 萬元；獎金 4 倍）",
+      "en": "Supplementary thresholds and cap (NT$20,000 and NT$10 million per payment; bonuses above 4×)",
+      "sources": ["supplementary", "law"]
+    }
+  ],
+  "verifiedNote": "2026-11-10 以瀏覽器逐頁讀過健保署官網（該站擋自動抓取）：計算公式與釋例頁（更新 114-12-23）、投保金額分級表（115.01.01 生效）、受僱者負擔金額表（115.1.1 生效）、地區人口表、補充保險費計算公式頁、住院部分負擔上限頁（更新 114-12-24，115 年每次 57,000 元、全年 95,000 元）。"
 }

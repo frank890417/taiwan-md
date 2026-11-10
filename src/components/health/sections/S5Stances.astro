@@ -46,7 +46,21 @@ const colors = ['var(--bg-cat-0)', 'var(--bg-cat-1)', 'var(--bg-cat-2)'];
         stances.issues.map((issue) => (
           <div class="hea-issue" data-issue={issue.id}>
             <h3 class="bp-h3">{(issue.title as any)[L]}</h3>
-            <p class="bp-lede">{(issue.lede as any)[L]}</p>
+            <p class="bp-lede">
+              {(issue.lede as any)[L]}
+              {(issue as any).ledeSource && (
+                <a
+                  class="bp-src no-external-icon"
+                  href={(issue as any).ledeSource.url}
+                  target="_blank"
+                  rel="noopener"
+                  title={`${(issue as any).ledeSource.title}（${(issue as any).ledeSource.date}）`}
+                  aria-label={(issue as any).ledeSource.title}
+                >
+                  ↗
+                </a>
+              )}
+            </p>
             <div class="hea-stances">
               {issue.groups.map((g, gi) => (
                 <div class="hea-stance" style={`--stance-c:${colors[gi % 3]}`}>

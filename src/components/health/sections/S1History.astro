@@ -57,33 +57,35 @@ const L = zh ? 'zh' : 'en';
       <p set:html={r('s1.p1')} />
       <p set:html={r('s1.p2')} />
     </div>
-    <h3 class="bp-h3">{t('s1.tl.h')}</h3>
-    <ol class="bp-timeline">
-      {
-        timeline.events.map((e) => (
-          <li class={`bp-tl-item ${e.key ? 'is-key' : ''}`}>
-            <time class="bp-tl-date">{e.date}</time>
-            <div>
-              <div class="bp-tl-title">
-                <span class={`hea-track hea-track-${e.track}`}>
-                  {(timeline.tracks as any)[e.track][L]}
-                </span>
-                {(e as any)[L]}
-                <a
-                  class="bp-src no-external-icon"
-                  aria-label="source"
-                  href={e.url}
-                  target="_blank"
-                  rel="noopener"
-                >
-                  ↗
-                </a>
+    <details class="hea-fold">
+      <summary>{t('s1.tl.h')}（{timeline.events.length}）</summary>
+      <ol class="bp-timeline">
+        {
+          timeline.events.map((e) => (
+            <li class={`bp-tl-item ${e.key ? 'is-key' : ''}`}>
+              <time class="bp-tl-date">{e.date}</time>
+              <div>
+                <div class="bp-tl-title">
+                  <span class={`hea-track hea-track-${e.track}`}>
+                    {(timeline.tracks as any)[e.track][L]}
+                  </span>
+                  {(e as any)[L]}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label="source"
+                    href={e.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </div>
               </div>
-            </div>
-          </li>
-        ))
-      }
-    </ol>
+            </li>
+          ))
+        }
+      </ol>
+    </details>
     <RelatedChips
       items={related}
       label={t('related.h')}

@@ -1,6 +1,7 @@
 ---
 /** §2 錢：健保收支、安全準備、醫療保健支出占 GDP。 */
 import LineChart from '../../budget/LineChart.astro';
+import TrendChart from '../charts/TrendChart.astro';
 import { healthCtx } from '../../../utils/health/pageContext';
 import RelatedChips from '../RelatedChips.astro';
 import type { RelItem } from '../../../utils/health/related';
@@ -21,25 +22,26 @@ const nhe = topic.nhe.rows;
     <h2 class="bp-h2">{t('s2.h2')}</h2>
     <p class="bp-lede">{t('s2.lede')}</p>
     <div class="bp-two bp-two-charts">
-      <LineChart
+      <TrendChart
         id="c-fin"
         title={p('s2.c1.title')}
         subtitle={p('s2.c1.sub')}
         years={finA.map((x) => x.year)}
-        lang={lang}
+        unit={zh ? '億元' : 'NT$100M'}
+        decimals={0}
         height={320}
         series={[
-          {
-            id: 'income',
-            label: t('s2.series.income'),
-            values: finA.map((x) => x.income),
-            cls: 'bg-s0',
-          },
           {
             id: 'cost',
             label: t('s2.series.cost'),
             values: finA.map((x) => x.cost),
             cls: 'bg-s2',
+          },
+          {
+            id: 'income',
+            label: t('s2.series.income'),
+            values: finA.map((x) => x.income),
+            cls: 'bg-s0',
           },
         ]}
         source={zh

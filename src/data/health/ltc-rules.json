@@ -220,5 +220,32 @@
       "url": "https://www.mohw.gov.tw/dl-98526-31ea7422-1b07-414b-a2a4-51e38c070ee4.html",
       "date": "2025-12-31"
     }
-  }
+  },
+  "figures": [
+    {
+      "zh": "照顧及專業服務額度（第 2 到 8 級，10,020 到 36,180 元）、喘息 32,340／48,510 元、輔具 3 年 40,000 元",
+      "en": "Care allowances (Levels 2 to 8), respite and assistive device amounts",
+      "sources": ["table2", "apply"]
+    },
+    {
+      "zh": "交通接送四區 1,680 到 2,400 元與縣市分區",
+      "en": "Transport zones and amounts",
+      "sources": ["table2", "table3"]
+    },
+    {
+      "zh": "部分負擔比率（第一、二、三類）與無條件捨去",
+      "en": "Copayment rates by category; rounded down",
+      "sources": ["table5", "law"]
+    },
+    {
+      "zh": "聘外籍家庭看護工：額度 30%",
+      "en": "Migrant caregiver households: 30% of the allowance",
+      "sources": ["law", "migrant"]
+    },
+    {
+      "zh": "住宿式機構補助每月最高 15,000 元、每年最高 180,000 元",
+      "en": "Residential subsidy up to NT$15,000 a month, NT$180,000 a year",
+      "sources": ["residential", "residentialNews"]
+    }
+  ]
 }

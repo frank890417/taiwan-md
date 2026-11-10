@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-10",
-  "note": "kind=quote：來源頁引號內原話；phrase：引號內片語；paraphrase：報導轉述，不是原話。 phrase 的 ctx 是我們寫的前後文，{q} 的位置才是原話。",
+  "note": "kind=quote：來源頁引號內原話，phrase：引號內片語，paraphrase：報導轉述，不是原話。 phrase 的 ctx 是我們寫的前後文，{q} 的位置才是原話。",
   "issues": [
     {
       "id": "finance",
@@ -9,8 +9,8 @@
         "en": "How to fund the NHI"
       },
       "lede": {
-        "zh": "收入面的四條路：調費率、改補充保費、公務預算撥補、使用者多付。2025 年 11 月補充保費改革喊停，2026 年 10 月立法院三讀 65 歲以上健保費補助，兩件事都還沒落定。",
-        "en": "Four levers on the revenue side: raise the rate, reform the supplementary premium, transfer from the general budget, or charge users more. A supplementary premium reform was paused in November 2025, and in October 2026 the legislature passed a premium subsidy for people 65 and over; neither is settled."
+        "zh": "收入面的四條路：調費率、改補充保費、公務預算撥補、使用者多付。2025 年 11 月補充保費改革喊停。2026 年 10 月 16 日立法院三讀《老人福利法》第 22 條修正（65 歲以上健保費補助），10 月 27 日咨請總統公布。立法院議案頁記載的狀態是「不副署未公布」。截至 2026-11-10，我們沒有查到行政院對這個案子的最終處置。",
+        "en": "Four levers on the revenue side: raise the rate, reform the supplementary premium, transfer from the general budget, or charge users more. A supplementary premium reform was paused in November 2025. On 16 October 2026 the legislature passed an amendment to Article 22 of the Senior Citizens Welfare Act (a premium subsidy for people 65 and over) and sent it for promulgation on 27 October; the legislature's bill page records its status as \"not countersigned, not promulgated\". As of 2026-11-10 we found no final decision from the Executive Yuan."
       },
       "groups": [
         {
@@ -133,6 +133,11 @@
       "missing": {
         "zh": "付費者代表（健保會）2024 到 2026 年的具名原話、工商團體與全國產業總工會對健保財源的說法，我們沒有找到可以引用的公開來源。",
         "en": "We found no quotable, attributed statements from payer representatives on the NHI Committee (2024 to 2026), business federations or the national labour confederation on NHI funding."
+      },
+      "ledeSource": {
+        "title": "立法院議事暨公報資訊網：「老人福利法第二十二條條文修正草案」議案頁",
+        "url": "https://ppg.ly.gov.tw/ppg/bills/202110057260000/details",
+        "date": "2026-11-10 讀取"
       }
     },
     {
@@ -505,7 +510,7 @@
         }
       ],
       "missing": {
-        "zh": "民進黨團、國民黨團對「稅收制或保險制」的正式黨團聲明，以及照顧服務員工會的具名說法，我們沒有找到；上面的政黨立場來自智庫記者會與競選政見的媒體整理，標為轉述。",
+        "zh": "民進黨團、國民黨團對「稅收制或保險制」的正式黨團聲明，以及照顧服務員工會的具名說法，我們沒有找到。上面的政黨立場來自智庫記者會與競選政見的媒體整理，標為轉述。",
         "en": "We found no formal caucus statements from the DPP or KMT on tax versus insurance funding, nor attributed statements from care worker unions; party positions above come from media summaries of a think-tank briefing and campaign platforms and are marked as paraphrase."
       }
     }

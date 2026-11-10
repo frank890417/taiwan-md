@@ -1,19 +1,20 @@
 /**
  * /health 專題主頁與子頁文案（zh-TW／en）。
- * 數字一律用 {佔位}，由 src/utils/health/pageContext.ts 從資料檔帶入；[[key]] 是腳註，
+ * 數字一律用 {佔位}，由 src/utils/health/pageContext.ts 從資料檔帶入。[[key]] 是腳註，
  * key 對應 src/utils/health/sources.ts 的來源登記表（認不得會讓建置失敗）。
  */
 export const page = {
   zh: {
     'hub.name': '醫療與長照',
-    'meta.title': '台灣醫療與長照 2026：健保、長照 3.0、補助試算與各方立場',
+    'meta.title': '台灣健保與長照 2026：制度、收支、補助試算',
     'meta.description':
-      '一頁看懂台灣的健保與長照：制度怎麼來的、錢從哪裡來、急診與護理人力卡在哪、各方怎麼說。附長照補助與健保費試算，數字都有官方出處，截至 {asOf}。',
+      '台灣的健保與長照怎麼運作：制度與歷史、健保收支、人口老化、急診與護理人力、各方立場，附長照補助與健保費試算。數字有官方出處，截至 {asOf}。',
     'hero.eyebrow': '專題 · 醫療與長照',
     'hero.title': '台灣醫療與長照：一張健保卡之後的事',
     'hero.subtitle':
       '健保把「看病」接住了三十年。{reach20}，台灣 65 歲以上人口超過兩成，接下來要接住的是「老」：照顧的錢和人從哪裡來。',
-    'hero.verse': '一張卡接住了病，\n下一張網要接住老。',
+    'hero.verse':
+      '{fundYear} 年有 {ltcPaid} 萬人領長照給付，\n官方推估 2035 年需要長照的人是 {need2035} 萬。',
     'hero.stat.enroll': '健保納保率',
     'hero.stat.nhe': '{nheYear} 年醫療保健支出占 GDP',
     'hero.stat.elder': '65 歲以上人口（{elderAsOf}）',
@@ -36,7 +37,7 @@ export const page = {
       '健保連五年入不敷出後轉正，{resYear} 年底安全準備回到 {resMonths} 個月。',
     'toc.s3': '老',
     'toc.s3.take':
-      '65 歲以上從 14% 到 20% 只用了七年；長照基金一年花掉 {ltcSpend} 億。',
+      '65 歲以上從 14% 到 20% 只用了七年。長照基金一年花掉 {ltcSpend} 億。',
     'toc.s4': '困境',
     'toc.s4.take': '醫學中心最危急的急診病人，每五位有一位等超過一天。',
     'toc.s5': '各方',
@@ -50,7 +51,7 @@ export const page = {
     's0.kicker': '先看全貌。',
     's0.h2': '從診所到安寧病房，一個人會經過六個制度站',
     's0.lede':
-      '台灣的醫療與照顧分成兩本帳。看病、住院、急診、安寧走健保，錢來自保費；失能之後的日常照顧走長照，錢來自指定稅收。兩套制度各有自己的評估、額度與自付規則。',
+      '台灣的醫療與照顧分成兩本帳。看病、住院、急診、安寧走健保，錢來自保費。失能之後的日常照顧走長照，錢來自指定稅收。兩套制度各有自己的評估、額度與自付規則。',
     's0.col.pay': '誰出錢',
     's0.col.you': '你付多少',
     's0.st1.h': '診所與家醫',
@@ -80,11 +81,11 @@ export const page = {
     's0.st5.you': '額度內自付 0%、5% 或 16%（照顧及專業服務）',
     's0.st6.h': '安寧與預立醫療決定',
     's0.st6.p':
-      '安寧療護由健保給付；預立醫療決定要先做諮商，累計 {adTotal} 萬人次簽署。[[acpStats]]',
+      '安寧療護由健保給付。預立醫療決定要先做諮商，累計 {adTotal} 萬人次簽署。[[acpStats]]',
     's0.st6.pay': '健保（保費）',
     's0.st6.you': '符合條件者，諮商費由健保支付一次',
     's0.note':
-      '**兩本帳的大小**：{bYear} 年健保總額 {b2026} 億元[[budgetHist]]；同年長照 3.0 跨部會經費 {plan2026} 億元[[plan3]]。{nheYear} 年全國醫療保健支出 {nheWan}，公部門出 {publicPct}%，家庭自己付 {householdPct}%。[[nhe]]',
+      '**兩本帳的大小**：{bYear} 年健保總額 {b2026} 億元[[budgetHist]]。同年長照 3.0 跨部會經費 {plan2026} 億元[[plan3]]。{nheYear} 年全國醫療保健支出 {nheWan}，公部門出 {publicPct}%，家庭自己付 {householdPct}%。[[nhe]]',
 
     's1.kicker': '制度不是一天蓋好的。',
     's1.h2': '勞保、公保、農保各管各的四十五年，1995 年併成全民健保',
@@ -96,7 +97,7 @@ export const page = {
     's1.p1':
       '費率開辦時是 4.25%，2002 年調到 4.55%，2010 年到 5.17%。2013 年二代健保加收補充保費（股利、利息、租金、兼職所得等），一般費率降到 4.91%，2016 年再降到 4.69%，2021 年調回 5.17% 沿用至今。[[annual]][[rate2026]]',
     's1.p2':
-      '長照這邊，2015 年《長期照顧服務法》公布，2017 年 6 月施行並設置長照服務發展基金；同年長照 2.0 上路，把服務對象從失能老人擴大到失智者與失能身心障礙者。長照 3.0 的計畫期是 2026 到 2035 年，行政院在 2025 年 12 月 31 日核定。[[plan3]]',
+      '長照這邊，2015 年《長期照顧服務法》公布，2017 年 6 月施行並設置長照服務發展基金。同年長照 2.0 上路，把服務對象從失能老人擴大到失智者與失能身心障礙者。長照 3.0 的計畫期是 2026 到 2035 年，行政院在 2025 年 12 月 31 日核定。[[plan3]]',
     's1.tl.h': '制度時間軸',
 
     's2.kicker': '保費收進來，醫療費付出去。',
@@ -122,7 +123,7 @@ export const page = {
     's2.p3':
       '把健保、政府預算、家庭自費全部加起來，{nheYear} 年全國醫療保健支出是 {nheWan}，占 GDP {nheGdp}%，平均每人 {nhePerCap} 元。2024 年占比下降，是因為那一年名目 GDP 成長 9.1%，分母長得比醫療支出快。[[nhe]]',
     's2.note':
-      '**讀圖注意**：2024、2025 年的收入與成本改用基金決算口徑，跟前面不能接成同一條線，所以第一張圖只畫到 2023 年；安全準備餘額兩種口徑一致，可以畫到 {resYear} 年。',
+      '**讀圖注意**：2024、2025 年的收入與成本改用基金決算口徑，跟前面不能接成同一條線，所以第一張圖只畫到 2023 年。安全準備餘額兩種口徑一致，可以畫到 {resYear} 年。',
 
     's3.kicker': '人變老的速度，比制度長大的速度快。',
     's3.h2': '65 歲以上從 7% 到 14% 走了二十五年，從 14% 到 20% 只用七年',
@@ -144,9 +145,9 @@ export const page = {
     's3.series.fundIn': '基金收入',
     's3.series.fundOut': '基金支出',
     's3.p2':
-      '長照的錢來自指定稅收：房地合一稅、菸稅、遺產及贈與稅的增額。基金 2017 年設立那年支出 13.5 億元，{fundYear} 年 {ltcSpend} 億元；收入每年都高於支出，{fundYear} 年底累積餘額 {ltcBalance} 億元。[[ltcFund]] 長照 3.0 估 2026 年跨部會經費 {plan2026} 億元，十年合計 1 兆 4,457 億元。[[plan3]]',
+      '長照的錢來自指定稅收：房地合一稅、菸稅、遺產及贈與稅的增額。基金 2017 年設立那年支出 13.5 億元，{fundYear} 年 {ltcSpend} 億元。收入每年都高於支出，{fundYear} 年底累積餘額 {ltcBalance} 億元。[[ltcFund]] 長照 3.0 估 2026 年跨部會經費 {plan2026} 億元，十年合計 1 兆 4,457 億元。[[plan3]]',
     's3.p3':
-      '領長照給付的人數，2017 年是 {ltcPaid2017} 萬人，{fundYear} 年 {ltcPaid} 萬人；加上住宿式機構與失智、衰弱長者的服務，{fundYear} 年合計 {ltcUsers} 萬人，官方算出的服務涵蓋率 {ltcCoverage}%。[[coverage2025]] 這個涵蓋率的算法在 2019 年與 2022 年各改過一次，前後不能直接比。',
+      '領長照給付的人數，2017 年是 {ltcPaid2017} 萬人，{fundYear} 年 {ltcPaid} 萬人。加上住宿式機構與失智、衰弱長者的服務，{fundYear} 年合計 {ltcUsers} 萬人，官方算出的服務涵蓋率 {ltcCoverage}%。[[coverage2025]] 這個涵蓋率的算法在 2019 年與 2022 年各改過一次，前後不能直接比。',
     's3.c3.title':
       '家裡的照顧主力：外籍看護工 {migrantWan} 萬人，長照體系的照服員 {careWan} 萬人',
     's3.c3.sub':
@@ -154,7 +155,7 @@ export const page = {
     's3.series.migrant': '外籍看護工',
     's3.series.care': '照顧服務員',
     's3.p4':
-      '{migrantAsOf}，在台外籍看護工 {migrant} 人[[molMonthly]]；{fundYear} 年底登錄在長照服務單位的照顧服務員 {careWorkers} 人[[careWorkers]]。聘了外籍看護的家庭，長照的照顧服務額度只給三成。兩套照顧系統怎麼接，是長照 3.0 還在處理的題目。',
+      '{migrantAsOf}，在台外籍看護工 {migrant} 人[[molMonthly]]。{fundYear} 年底登錄在長照服務單位的照顧服務員 {careWorkers} 人[[careWorkers]]。聘了外籍看護的家庭，長照的照顧服務額度只給三成。兩套照顧系統怎麼接，是長照 3.0 還在處理的題目。',
 
     's4.kicker': '制度撐得住平常日，卡在尖峰與邊緣。',
     's4.h2': '卡住的地方有三個：急診的床、夜班的人、離醫院的距離',
@@ -163,7 +164,7 @@ export const page = {
     's4.c1.title':
       '急診留置超過 24 小時：{erYear} 年全國 {erAll}%，醫學中心 {erMc}%',
     's4.c1.sub':
-      '留置超過 24 小時人次 ÷ 急診總人次（%）；2020、2021 年沒有資料',
+      '留置超過 24 小時人次 ÷ 急診總人次（%）。2020、2021 年沒有資料',
     's4.series.erAll': '醫院整體',
     's4.series.erMc': '醫學中心',
     's4.p1':
@@ -174,18 +175,18 @@ export const page = {
     's4.p2':
       '{wfYear} 年底機構執業的護理師與護士 {nurses} 人，每萬人口 {nursesPer10k} 人。[[stat43]] 人數年年增加，醫院的空缺率卻從 2019 年的 4.52% 升到 2023 年的 9.05%，離職率 12.61%。[[lyNurse]] 2025 年 12 月領有證書（不含 65 歲以上未執業者）的有 {licensed} 人，在執業的 {practising} 人。[[nurseMonthly]]',
     's4.p2b':
-      '三班護病比 2024 年 3 月起有了標準：醫學中心白班 1 位護理師照顧 6 床、小夜 9 床、大夜 11 床。[[ratioStd]] 2026 年 5 月 15 日修正公布的《醫療法》把它寫進法律並訂出罰則；實際開罰日期由子法決定，我們沒有查到已發布的官方日期。[[medAct]]',
+      '三班護病比 2024 年 3 月起有了標準：醫學中心白班 1 位護理師照顧 6 床、小夜 9 床、大夜 11 床。[[ratioStd]] 2026 年 5 月 15 日修正公布的《醫療法》把它寫進法律並訂出罰則。實際開罰日期由子法決定，我們沒有查到已發布的官方日期。[[medAct]]',
     's4.c3.title': '每萬人口醫師數：臺北市 {docTop} 人，金門縣 {docLow} 人',
     's4.c3.sub':
-      '各縣市每萬人口執業西醫師數，{wfYear} 年底；黑色為全國平均 {docAvg} 人',
+      '各縣市每萬人口執業西醫師數，{wfYear} 年底。黑色為全國平均 {docAvg} 人',
     's4.c3.avg': '全國',
     's4.p3':
-      '{wfYear} 年底全國每萬人口有 {docAvg} 位執業西醫師。臺北市 {docTop}、嘉義市 37.73、花蓮縣 28.71 在前段；金門縣 {docLow}、苗栗縣 10.88、澎湖縣 12.18 在後段。[[stat17]] 嘉義市與花蓮縣的數字高，是因為那裡的大醫院也收外縣市的病人。',
+      '{wfYear} 年底全國每萬人口有 {docAvg} 位執業西醫師。臺北市 {docTop}、嘉義市 37.73、花蓮縣 28.71 在前段。金門縣 {docLow}、苗栗縣 10.88、澎湖縣 12.18 在後段。[[stat17]] 嘉義市與花蓮縣的數字高，是因為那裡的大醫院也收外縣市的病人。',
 
     's5.kicker': '同一筆錢，從不同位置看出去不一樣。',
     's5.h2': '四個還在吵的題目，各方自己怎麼說',
     's5.lede':
-      '下面每一則都帶姓名、職稱、日期與出處。引號裡是來源頁上的原話；標「轉述」的是報導改寫，不是當事人原句。我們不替任何一方下結論。',
+      '下面每一則都帶姓名、職稱、日期與出處。引語取自報導或官方文稿中的當事人原話。標「轉述」的是報導改寫，不是當事人原句。我們不替任何一方下結論。',
     's5.paraphrase': '轉述',
     's5.missing': '沒有找到的聲音：',
 
@@ -195,11 +196,11 @@ export const page = {
       '長照 3.0 推估，需要長照的失能人數會從 2026 年的 {need2026} 萬人增加到 2035 年的 {need2035} 萬人（高推估）。[[plan3]] 接下來幾年有幾件事日期已定。',
     's6.sched.h': '已經排定',
     's6.sched.1':
-      '**2026 年 1 月**：長照對象納入不分年齡的失智症者與急性後期照護個案；住宿式機構補助提高到每年最高 18 萬元。[[ltc.amend]][[ltc.residentialNews]]',
+      '**2026 年 1 月**：長照對象納入不分年齡的失智症者與急性後期照護個案。住宿式機構補助提高到每年最高 18 萬元。[[ltc.amend]][[ltc.residentialNews]]',
     's6.sched.2':
       '**2026 年 7 月**：長照輔具新增第二組額度（每 3 年 6 萬元），可租智慧科技輔具。[[ltc.table2]]',
     's6.sched.3':
-      '**2027 年**：健保總額協商結果 {b2027} 億元，待核定；總預算案編列 600 億元撥補健保基金，待立法院審議。[[budget2027]][[dgbas2027]]',
+      '**2027 年**：健保總額協商結果 {b2027} 億元，待核定。總預算案編列 600 億元撥補健保基金，待立法院審議。[[budget2027]][[dgbas2027]]',
     's6.sched.4':
       '**2026 到 2035 年**：長照 3.0 計畫期，十年經費估 1 兆 4,457 億元。[[plan3]]',
     's6.open.h': '還沒有答案',
@@ -211,7 +212,7 @@ export const page = {
       '二十多萬名外籍家庭看護工，要不要納進長照體系，由誰聘、適用什麼勞動條件。',
     's6.open.4': '護病比的罰則什麼時候開始算，醫院補得到人嗎。',
     's6.p1':
-      '壽命也在這張圖裡：2025 年國人平均壽命 {lifeAll} 歲[[lifeMoi]]；2024 年的健康平均餘命是 {healthy} 歲，同年平均餘命 {life2024} 歲，兩個數字相差約 {lifeGap} 年。[[lifeStat]] 那幾年怎麼過，是醫療與長照加在一起的題目。',
+      '壽命也在這張圖裡：2025 年國人平均壽命 {lifeAll} 歲[[lifeMoi]]。2024 年的健康平均餘命是 {healthy} 歲，同年平均餘命 {life2024} 歲，兩個數字相差約 {lifeGap} 年。[[lifeStat]] 那幾年怎麼過，是醫療與長照加在一起的題目。',
 
     's7.kicker': '數字要能自己查，工具要能自己算。',
     's7.h2': '三個試算、一份流程指南，與這一頁的所有出處',
@@ -230,7 +231,7 @@ export const page = {
       '長照涵蓋率、照服員人數、健保收支都換過算法。換算法的地方，圖會斷開或在說明裡寫明。',
     's7.g4.h': '引句與轉述分開',
     's7.g4.p':
-      '各方立場裡，引號內的話都用腳本對過來源頁原文；報導改寫的標為轉述。',
+      '各方立場裡，引號內的話都用腳本對過來源頁原文。報導改寫的標為轉述。',
     's7.sources.h': '資料來源',
     's7.sources.p':
       '下面是這個專題用到的全部來源。原始查證檔與資料檔都在 GitHub 上，歡迎指出錯誤。',
@@ -263,16 +264,16 @@ export const page = {
   },
   en: {
     'hub.name': 'Health and Long-Term Care',
-    'meta.title': "Taiwan's Health Care and Long-Term Care in 2026 | Taiwan.md",
+    'meta.title': 'Taiwan Health Insurance and Long-Term Care 2026',
     'meta.description':
-      "How Taiwan's National Health Insurance and long-term care work: history, money, pressure points and what each side says, with subsidy and premium calculators. Official sources, as of {asOf}.",
+      "How Taiwan funds health insurance and long-term care: history, finances, ageing and each side's position, with calculators. As of {asOf}.",
     'hero.eyebrow': 'Topic · Health and long-term care',
     'hero.title':
       "Taiwan's health care and long-term care: what comes after the NHI card",
     'hero.subtitle':
       'National Health Insurance has covered illness for thirty years. {reach20}, people 65 and over passed one fifth of the population. The next thing to cover is old age: where the money and the carers will come from.',
     'hero.verse':
-      'One card caught illness.\nThe next net has to catch old age.',
+      '{ltcPaid} people received long-term care benefits in {fundYear};\nthe official projection for 2035 is {need2035} in need of care.',
     'hero.stat.enroll': 'NHI enrollment',
     'hero.stat.nhe': 'Health spending as share of GDP, {nheYear}',
     'hero.stat.elder': 'Aged 65 and over ({elderAsOf})',
@@ -462,9 +463,9 @@ export const page = {
       'At end-{wfYear} there were {docAvg} practising physicians per 10,000 people. Taipei ({docTop}), Chiayi City (37.73) and Hualien (28.71) are at the top; Kinmen ({docLow}), Miaoli (10.88) and Penghu (12.18) at the bottom.[[stat17]] Chiayi City and Hualien rank high because their large hospitals also serve patients from other counties.',
 
     's5.kicker': 'The same money looks different from each seat.',
-    's5.h2': 'Four open disputes, in each side’s own words',
+    's5.h2': "Four open disputes, in each side's own words",
     's5.lede':
-      'Every item carries a name, title, date and source. Quotation marks hold words found on the source page (translated here; the original Chinese is on the zh-TW page). Items marked "paraphrase" are reporters’ summaries. We draw no conclusion for any side.',
+      'Every item carries a name, title, date and source. Quotes are the speakers\' own words as carried in news reports or official releases (translated here; the original Chinese is on the zh-TW page). Items marked "paraphrase" are reporters\' summaries. We draw no conclusion for any side.',
     's5.paraphrase': 'paraphrase',
     's5.missing': 'Voices we could not find: ',
 
@@ -511,7 +512,7 @@ export const page = {
       'Coverage rates, care worker counts and NHI accounts have all changed definition. Where they did, lines break or the note says so.',
     's7.g4.h': 'Quotes and paraphrase kept apart',
     's7.g4.p':
-      'Quoted words were checked against the source pages by script; reporters’ summaries are marked as paraphrase.',
+      "Quoted words were checked against the source pages by script; reporters' summaries are marked as paraphrase.",
     's7.sources.h': 'Sources',
     's7.sources.p':
       'All sources used in this topic. The research notes and data files are on GitHub; corrections are welcome.',

@@ -24,20 +24,20 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
       zh: {
         title: '長照補助試算 {year}：額度與自付額一次算',
         description:
-          '選長照需要等級、身分別與縣市，算出照顧及專業服務、交通接送、喘息、輔具四項的給付額度與自付上限。第 2 級每月 {q2} 元到第 8 級 {q8} 元，規則截至 {asOf}。',
+          '選等級、身分別與縣市，算出長照四項給付額度與自付上限。第 2 級每月 {q2} 元到第 8 級 {q8} 元，{year} 年適用。',
         h1: '長照補助額度與自付額試算（{year}）',
         eyebrow: '醫療與長照 · 工具',
         lead: '長照 2.0 以來的給付分成四包：照顧及專業服務、交通接送、輔具與居家無障礙、喘息服務。每一包有額度上限，額度內依身分別自付 0% 到 30%。選三個條件，就能看到一個月最多可以用多少、自己最多要付多少。',
-        readH: '結果怎麼讀',
+        readH: '算出來的數字代表什麼？',
         read: [
           '「額度」是政府給付加上你自付的合計上限，額度本身不會因為家庭經濟狀況打折，差別只在自付比率。',
           '「自付上限」是額度全部用完時要付的錢。實際上照顧計畫不一定會把額度排滿，自付額只會比這裡少。',
           '四包額度不能互相流用：照顧服務的額度不能拿去買輔具，交通接送的額度也不能拿去請居服員。',
           '住在住宿式機構（護理之家、養護機構）的人不用這套額度，改領住宿式機構使用者補助：{year} 年起每月最高 {resMonthly} 元、每年最高 {resYearly} 元。',
         ],
-        formulaH: '計算方式與假設',
+        formulaH: '額度與自付額怎麼算？',
         formula: [
-          '額度：依《長期照顧服務申請及給付辦法》附表二。照顧及專業服務依第 2 到第 8 級分七個金額；交通接送依居住地分四區；輔具與居家無障礙第一組每 3 年 {assist} 元；喘息服務第 2 到 6 級每年 {resp1} 元、第 7 到 8 級每年 {resp2} 元。',
+          '額度：依《長期照顧服務申請及給付辦法》附表二。照顧及專業服務依第 2 到第 8 級分七個金額。交通接送依居住地分四區。輔具與居家無障礙第一組每 3 年 {assist} 元。喘息服務第 2 到 6 級每年 {resp1} 元、第 7 到 8 級每年 {resp2} 元。',
           '自付額＝額度 × 部分負擔比率（附表五），小數點以下無條件捨去。照顧及專業服務與喘息：第一類 0%、第二類 5%、第三類 16%。輔具：0%、10%、30%。交通接送依分區：第二類 7% 到 10%、第三類 21% 到 30%。',
           '聘有外籍家庭看護工：照顧及專業服務額度以 30% 計（辦法第 10 條），並限用於居家照顧服務以外的項目。',
           '沒有算進來的：超過額度的自費、各縣市自訂的加碼補助、輔具第二組（{assist2Since} 起每 3 年 {assist2} 元，與第一組擇一）、單項輔具的價格上限。',
@@ -69,18 +69,18 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
       en: {
         title: 'Taiwan Long-Term Care Subsidy Calculator {year}',
         description:
-          'Pick a care level, copayment category and county to see allowances and copay ceilings for care services, transport, respite and assistive devices in Taiwan. Rules as of {asOf}.',
+          'Estimate Taiwan long-term care allowances and copay ceilings by care level, category and county. {year} rules.',
         h1: 'Long-term care allowance and copay calculator ({year})',
         eyebrow: 'Health and long-term care · Tool',
         lead: "Taiwan's long-term care benefits come in four packages: care and professional services, transport, assistive devices with home accessibility, and respite care. Each has a ceiling, and within it you pay 0% to 30% depending on your category. Three choices show how much can be used each month and the most you would pay.",
-        readH: 'How to read the result',
+        readH: 'What do the numbers mean?',
         read: [
           'The allowance is the ceiling for government payment plus your copay. It is not reduced by household income; only the copay rate differs.',
           'The copay ceiling assumes the allowance is fully used. Care plans often use less, so the real copay is lower.',
           'The four packages cannot be swapped: care hours cannot buy devices, and transport money cannot pay a home care worker.',
           'Residents of nursing homes and other residential facilities use a separate subsidy: from {year}, up to NT${resMonthly} a month and NT${resYearly} a year.',
         ],
-        formulaH: 'Method and assumptions',
+        formulaH: 'How are allowances and copays calculated?',
         formula: [
           'Allowances follow Schedule 2 of the Regulations on Application and Benefits for Long-Term Care Services: seven amounts for Levels 2 to 8, four transport zones, NT${assist} every three years for assistive devices (Group 1), and respite of NT${resp1} a year for Levels 2 to 6 or NT${resp2} for Levels 7 to 8.',
           'Copay = allowance × copayment rate (Schedule 5), rounded down. Care services and respite: 0%, 5%, 16% for Categories 1, 2, 3. Devices: 0%, 10%, 30%. Transport by zone: 7% to 10% for Category 2, 21% to 30% for Category 3.',
@@ -116,20 +116,20 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
       zh: {
         title: '長照資格自查 {year}：誰可以申請長照？',
         description:
-          '回答年齡與四個狀況，對照現行條文判斷是否屬於長照給付對象：65 歲以上、55 歲以上原住民、領有身心障礙證明、失智症不限年齡。規則截至 {asOf}，實際以照管中心評估為準。',
+          '回答年齡與四個狀況，對照現行條文看是否屬於長照給付對象：65 歲以上、55 歲以上原住民、領有身心障礙證明、失智症不限年齡。',
         h1: '長照資格自查：我或家人可以申請嗎？（{year}）',
         eyebrow: '醫療與長照 · 工具',
         lead: '能不能用長照，看兩件事：有沒有因為身心失能而需要別人協助，以及是不是條文列的四種身分之一。{year} 年 1 月 1 日起，失智症不再限 50 歲以上，急性後期照護個案也納入。',
-        readH: '結果怎麼讀',
+        readH: '這個結果代表什麼？',
         read: [
           '這裡判斷的是「身分條件」。真正的資格要等照管專員評估，長照需要等級達第 2 級以上才會核定給付額度。',
           '不符合也不代表沒有資源：社區照顧關懷據點、巷弄長照站、文化健康站提供共餐、健康促進與預防延緩失能的活動，不需要失能等級。',
         ],
-        formulaH: '判斷依據',
+        formulaH: '資格是依哪些條文判斷？',
         formula: [
           '《長期照顧服務申請及給付辦法》第 2 條：因身心失能，且符合下列之一：65 歲以上（具原住民身分者 55 歲以上）、領有身心障礙證明、失智症、評估期間符合健保急性後期整合照護計畫的收案對象。',
           '第 7 條：長照需要等級分第 1 到第 8 級，第 1 級為身體或心智未失能者，不納入給付範圍。',
-          '長照 2.0 時期曾列入的「日常生活需協助的獨居老人或衰弱老人」不在現行條文的身分內；這類長輩可以使用的是社區據點的預防延緩失能服務。',
+          '長照 2.0 時期曾列入的「日常生活需協助的獨居老人或衰弱老人」不在現行條文的身分內。這類長輩可以使用的是社區據點的預防延緩失能服務。',
         ],
         faqH: '常見問題',
         faq: [
@@ -148,18 +148,18 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
         ],
       },
       en: {
-        title: 'Who Qualifies for Long-Term Care in Taiwan? ({year})',
+        title: 'Taiwan Long-Term Care Eligibility Check {year}',
         description:
-          'Answer five questions to check eligibility under current rules: 65 and over, indigenous 55 and over, disability certificate holders, or dementia at any age. Rules as of {asOf}.',
+          'Check who qualifies for long-term care in Taiwan: 65 and over, indigenous 55+, disability certificate, or dementia at any age.',
         h1: 'Long-term care eligibility check ({year})',
         eyebrow: 'Health and long-term care · Tool',
         lead: 'Eligibility rests on two things: a disability that requires help with daily living, and one of the listed groups. Since 1 January {year}, dementia is covered at any age and post-acute care cases are included.',
-        readH: 'How to read the result',
+        readH: 'What does the result mean?',
         read: [
           'This checks the group conditions only. Benefits are granted after a care manager assesses the person at Level 2 or above.',
           'Not qualifying does not mean no help: community care stations offer meals and preventive programs without a care level.',
         ],
-        formulaH: 'Basis',
+        formulaH: 'Which articles decide eligibility?',
         formula: [
           'Article 2 of the Regulations: a physical or mental disability, plus one of: aged 65 or over (55 for indigenous people), a disability certificate, dementia, or enrollment in the NHI post-acute care program during assessment.',
           'Article 7: care needs run from Level 1 to 8; Level 1 means no disability and is not covered.',
@@ -186,29 +186,29 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
       zh: {
         title: '健保費試算 {year}：月薪、眷屬與補充保費',
         description:
-          '輸入月薪、投保身分與眷屬人數，算出每月健保費自付額、雇主與政府負擔，另附補充保費試算。費率 {rate}%、補充保費 {supp}%，投保金額 {gmin} 到 {gmax} 元共 {gn} 級，{year} 年適用。',
+          '輸入月薪、身分與眷屬人數，算出每月健保費自付額與雇主負擔，附補充保費。費率 {rate}%、補充 {supp}%，{year} 年 {gn} 級。',
         h1: '健保費試算：月薪、眷屬與補充保費（{year}）',
         eyebrow: '醫療與長照 · 工具',
-        lead: '{year} 年一般保險費率是 {rate}%，補充保險費率 {supp}%。受僱者自己付三成、雇主六成、政府一成；月薪 {exSalary} 元、沒有眷屬的上班族，每月自付 {exSelf} 元。',
-        readH: '結果怎麼讀',
+        lead: '{year} 年一般保險費率是 {rate}%，補充保險費率 {supp}%。受僱者自己付三成、雇主六成、政府一成。月薪 {exSalary} 元、沒有眷屬的上班族，每月自付 {exSelf} 元。',
+        readH: '算出來的數字代表什麼？',
         read: [
           '「月投保金額」不等於月薪：健保用一張 {gn} 級的分級表，取不低於月薪的最近一級來算。',
           '眷屬跟著你投保時，每多一口就多付一份你的自付額，最多算 {maxDeps} 口。',
           '雇主與政府負擔是照「1＋平均眷口數 {avg}」算的，不管你實際有幾口眷屬，所以三方加總不等於投保金額乘費率。',
         ],
-        formulaH: '計算方式與假設',
+        formulaH: '健保費怎麼算？',
         formula: [
           '自付保險費＝投保金額 × {rate}% × 負擔比率，四捨五入到元，再乘（本人＋眷屬人數）。這是健保署公告的算法，我們用 {year} 年受僱者負擔金額表全部 {gn} 級逐一核對過。',
-          '負擔比率：受僱者 30%（雇主 60%、政府 10%）；公務人員 30%（機關 70%）；私校教職員 30%（學校 35%、政府 35%）；雇主與自營業主 100%；職業工會會員 60%（政府 40%）；農漁會會員 30%（政府 70%）；地區人口 60%（政府 40%）。',
+          '負擔比率：受僱者 30%（雇主 60%、政府 10%），公務人員 30%（機關 70%），私校教職員 30%（學校 35%、政府 35%），雇主與自營業主 100%，職業工會會員 60%（政府 40%），農漁會會員 30%（政府 70%），地區人口 60%（政府 40%）。',
           '地區人口不看收入，以平均保險費 {regAvg} 元計，每人每月自付 {regSelf} 元。',
-          '補充保費＝計費金額 × {supp}%。股利、利息、租金、執行業務收入單次達 {suppTh} 元才扣；兼職薪資單次達基本工資 {minWage} 元才扣；獎金只算全年累計超過當月投保金額 {bonusM} 倍的部分；單次計費上限 1,000 萬元。',
+          '補充保費＝計費金額 × {supp}%。股利、利息、租金、執行業務收入單次達 {suppTh} 元才扣。兼職薪資單次達基本工資 {minWage} 元才扣。獎金只算全年累計超過當月投保金額 {bonusM} 倍的部分。單次計費上限 1,000 萬元。',
           '沒有算進來的：低收入戶等由政府全額補助的身分、各縣市對長者或特定族群的保費補助、投保單位應負擔的補充保費。',
         ],
         faqH: '常見問題',
         faq: [
           {
             q: '{year} 年健保費率是多少？',
-            a: '一般保險費率 {rate}%，自 2021 年 1 月 1 日起沿用至今；補充保險費率 {supp}%。{year} 年變動的是投保金額分級表：配合基本工資調整，第一級從 {year} 年 1 月 1 日起是 {gmin} 元。',
+            a: '一般保險費率 {rate}%，自 2021 年 1 月 1 日起沿用至今。補充保險費率 {supp}%。{year} 年變動的是投保金額分級表：配合基本工資調整，第一級從 {year} 年 1 月 1 日起是 {gmin} 元。',
           },
           {
             q: '眷屬的健保費怎麼算？',
@@ -216,32 +216,32 @@ export const toolPages: Record<string, { zh: ToolPageCopy; en: ToolPageCopy }> =
           },
           {
             q: '沒有工作要怎麼保健保？',
-            a: '可以依附有工作的配偶或直系血親當眷屬；都沒有的話，到戶籍地的鄉鎮市區公所以「地區人口」身分投保，每人每月自付 {regSelf} 元。',
+            a: '可以依附有工作的配偶或直系血親當眷屬。都沒有的話，到戶籍地的鄉鎮市區公所以「地區人口」身分投保，每人每月自付 {regSelf} 元。',
           },
           {
             q: '領股利會被扣多少補充保費？',
-            a: '單次給付達 {suppTh} 元的股利，由發放公司按 {supp}% 就源扣取；未達 {suppTh} 元不扣，單次超過 1,000 萬元的部分也不計。例如單次領 5 萬元股利，扣 {exDiv} 元。',
+            a: '單次給付達 {suppTh} 元的股利，由發放公司按 {supp}% 就源扣取。未達 {suppTh} 元不扣，單次超過 1,000 萬元的部分也不計。例如單次領 5 萬元股利，扣 {exDiv} 元。',
           },
           {
             q: '補充保費會不會改成年度結算？',
-            a: '還沒有。衛福部在 2025 年 11 月 6 日表示補充保費改革方案仍在研議、暫停有爭議的規劃；《全民健康保險法》最近一次修正是 2023 年 6 月 28 日，現行條文仍是單次給付就源扣取。',
+            a: '還沒有。衛福部在 2025 年 11 月 6 日表示補充保費改革方案仍在研議、暫停有爭議的規劃。《全民健康保險法》最近一次修正是 2023 年 6 月 28 日，現行條文仍是單次給付就源扣取。',
           },
         ],
       },
       en: {
         title: 'Taiwan NHI Premium Calculator {year}',
         description:
-          'Enter salary, enrollment category and dependents to estimate monthly National Health Insurance premiums in Taiwan, plus the supplementary premium. Rate {rate}%, supplementary {supp}%, for {year}.',
+          'Estimate Taiwan NHI premiums by salary, category and dependents. {year} rate {rate}%, supplementary {supp}%.',
         h1: 'NHI premium calculator: salary, dependents and supplementary premium ({year})',
         eyebrow: 'Health and long-term care · Tool',
         lead: 'In {year} the general premium rate is {rate}% and the supplementary rate {supp}%. Employees pay 30%, employers 60% and the government 10%; an employee earning NT${exSalary} with no dependents pays NT${exSelf} a month.',
-        readH: 'How to read the result',
+        readH: 'What do the numbers mean?',
         read: [
           'The insured amount is not your salary: NHI uses a {gn}-grade table and takes the nearest grade not below your pay.',
           'Each dependent enrolled with you costs one more share of your own premium, up to {maxDeps}.',
           'Employer and government shares are computed on 1 + the average of {avg} dependents regardless of your household, so the three parts do not sum to insured amount × rate.',
         ],
-        formulaH: 'Method and assumptions',
+        formulaH: 'How is the premium calculated?',
         formula: [
           'Your premium = insured amount × {rate}% × your share, rounded to the dollar, then multiplied by (you + dependents). This is the published method; we checked it against all {gn} grades of the {year} employee table.',
           'Shares: employees 30% (employer 60%, government 10%); civil servants 30% (agency 70%); private school staff 30% (school 35%, government 35%); employers and the self-employed 100%; union members 60% (government 40%); farmers and fishermen 30% (government 70%); regional enrollees 60% (government 40%).',

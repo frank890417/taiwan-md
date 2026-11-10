@@ -780,3 +780,49 @@
   padding-inline-start: 1.4rem;
   margin: 0 0 1em;
 }
+
+/* 線尾標籤前的色點（跟線同色，分得出哪條線） */
+.health-page .hea-end-swatch,
+.hea-end-swatch {
+  stroke: none;
+}
+/* 三選一的分段鈕固定三欄，390 寬不折行 */
+.health-page .hea-seg-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.health-page .hea-seg-3 label {
+  padding-inline: 0.3rem;
+  font-size: 0.86rem;
+}
+/* 可收合區塊（時間軸預設收起，手機上圖表才不會被推到很後面） */
+.health-page .hea-fold {
+  margin: var(--space-5) 0;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--bg-surface);
+  padding: 0.2rem 1rem;
+}
+.health-page .hea-fold > summary {
+  cursor: pointer;
+  font-family: var(--bp-font-head);
+  font-weight: 800;
+  font-size: 1.05rem;
+  padding: 0.7rem 0;
+}
+@media (max-width: 720px) {
+  /* 手機：英雄區的工具卡排兩欄、只留標題，縮短第一屏到第一張圖的距離 */
+  .health-page .hea-tools {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+  .health-page .hea-tools .hea-tool-d {
+    display: none;
+  }
+  .health-page a.hea-tool {
+    padding: 0.7rem 0.75rem;
+  }
+  .health-page .hea-tool-t {
+    font-size: 0.95rem;
+  }
+}

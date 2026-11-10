@@ -31,7 +31,7 @@
         "en": "Taiwan Long-Term Care Subsidy Calculator 2026"
       },
       "description": {
-        "zh": "選長照需要等級、身分別與縣市，算出照顧及專業服務、交通接送、喘息、輔具四項的給付額度與自付上限。",
+        "zh": "選等級、身分別與縣市，算出長照四項給付額度與自付上限。",
         "en": "Pick a care level, copayment category and county to see allowances and copay ceilings for care services, transport, respite and assistive devices."
       },
       "keywords": [
@@ -92,6 +92,7 @@
     "/lifestyle/台灣醫療與全民健保",
     "/society/台灣長期照顧制度發展",
     "/society/醫療法",
+    "/lifestyle/急診壅塞",
     "/society/台灣公共衛生與防疫體系",
     "/society/台灣少子化危機",
     "/society/台灣新冠疫情與疫苗",
@@ -99,7 +100,6 @@
     "/history/跨黨派的好政策"
   ],
   "pendingArticles": [
-    "/lifestyle/急診壅塞",
     "/lifestyle/洗腎與透析",
     "/lifestyle/器官捐贈",
     "/lifestyle/安寧緩和醫療與病人自主",

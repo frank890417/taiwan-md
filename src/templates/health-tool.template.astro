@@ -37,10 +37,22 @@ const f = (s: string) => fillVars(s, vars);
 
 const topic = getTopic('health')!;
 const tool = topic.tools.find((x) => x.slug === slug)!;
-const srcs =
-  slug === 'nhi-premium-calculator'
-    ? Object.values(nhi.sources).filter((s: any) => !/部分負擔/.test(s.title))
-    : Object.values(ltc.sources);
+const isNhi = slug === 'nhi-premium-calculator';
+const rulesSrc = (isNhi ? nhi.sources : ltc.sources) as Record<
+  string,
+  { title: string; url: string; date: string }
+>;
+const figures = isNhi
+  ? (nhi as any).figures
+  : slug === 'long-term-care-eligibility'
+    ? [
+        {
+          zh: '給付對象與長照需要等級',
+          en: 'Eligible groups and care needs levels',
+          sources: ['law', 'amend', 'apply'],
+        },
+      ]
+    : (ltc as any).figures;
 const related = [
   ...topic.tools
     .filter((x) => x.slug !== slug)
@@ -106,16 +118,23 @@ const related = [
   <Fragment slot="sources">
     <ul>
       {
-        srcs.map((s: any) => (
+        figures.map((fg: any) => (
           <li>
-            <a href={s.url} target="_blank" rel="noopener">
-              {s.title}
-            </a>
-            （{s.date}）
+            {zh ? fg.zh : fg.en}：
+            {fg.sources.map((k: string, i: number) => (
+              <>
+                {i > 0 && '、'}
+                <a href={rulesSrc[k].url} target="_blank" rel="noopener">
+                  {rulesSrc[k].title}
+                </a>
+                （{rulesSrc[k].date}）
+              </>
+            ))}
           </li>
         ))
       }
     </ul>
+    {isNhi && zh && <p>{(nhi as any).verifiedNote}</p>}
     <p>{t('asof')}{vars.asOf}</p>
   </Fragment>
   <p slot="disclaimer">{t('tool.disclaimer.p')}</p>

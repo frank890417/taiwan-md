@@ -14,11 +14,11 @@ export const tools = {
     'ltc.level.hint':
       '等級由各縣市照管中心的照管專員到府評估後核定，第 2 級以上才有給付。還沒評估的話可以先選一個等級看額度範圍。',
     'ltc.cls': '長照身分別',
-    'ltc.cls.class3': '第三類（一般戶）',
+    'ltc.cls.class3': '第三類（一般）',
     'ltc.cls.class2': '第二類',
     'ltc.cls.class1': '第一類',
     'ltc.cls.hint':
-      '第一類：列冊的低收入戶、中低收入戶，或符合中低收入老人生活津貼第一款資格。第二類：符合中低收入老人生活津貼第二款，或身心障礙者生活補助資格。其餘都是第三類。',
+      '第一類：列冊的低收入戶、中低收入戶，或符合中低收入老人生活津貼第一款資格。第二類：符合中低收入老人生活津貼第二款，或身心障礙者生活補助資格。其餘都是第三類，也就是一般戶。',
     'ltc.county': '居住縣市',
     'ltc.town': '鄉鎮市區',
     'ltc.town.other': '其他鄉鎮市區',
@@ -46,7 +46,7 @@ export const tools = {
     'ltc.msg.mc':
       '聘有外籍家庭看護工時，照顧及專業服務只給付額度的 30%，而且要用在居家照顧服務以外的項目（例如專業服務、日間照顧、到宅沐浴車）。交通接送、輔具與喘息服務另依規定申請。',
     'ltc.msg.cap':
-      '額度含自付額。每一項服務的自付額是「支付價格 × 自付比率」，小數點以下無條件捨去；超過額度的部分全額自費。每月額度沒用完可以保留，最多六個月。',
+      '額度含自付額。每一項服務的自付額是「支付價格 × 自付比率」，小數點以下無條件捨去。超過額度的部分全額自費。每月額度沒用完可以保留，最多六個月。',
     'ltc.src': '依據：',
     'ltc.src.table2': '給付辦法附表二（額度）',
     'ltc.src.table5': '附表五（部分負擔比率）',
@@ -61,7 +61,7 @@ export const tools = {
     'elig.pac': '住院中，醫院說屬於「急性後期整合照護（PAC）」個案',
     'elig.result': '依現行條文',
     'elig.yes':
-      '符合長照給付對象的身分條件（{groups}）。下一步是撥 1966 或聯絡照管中心，請照管專員到府評估；評估結果達第 2 級以上才會核定額度。',
+      '符合長照給付對象的身分條件（{groups}）。下一步是撥 1966 或聯絡照管中心，請照管專員到府評估。評估結果達第 2 級以上才會核定額度。',
     'elig.no.help':
       '長照給付的前提是「因身心失能，日常生活需要協助」。目前還不需要協助的話，可以用社區照顧關懷據點、巷弄長照站這類預防延緩失能的服務，一樣可以問 1966。',
     'elig.no.group':
@@ -114,11 +114,11 @@ export const tools = {
     'nhi.cat.farmer': '農會、漁會會員',
     'nhi.cat.regional': '地區人口（在區公所投保）',
     'nhi.cat.hint.employer':
-      '僱用未滿 5 人的負責人最低以 {min} 元申報；僱用 5 人以上的負責人與會計師、律師、建築師、醫師、牙醫師、中醫師按最高一級申報。',
+      '僱用未滿 5 人的負責人最低以 {min} 元申報。僱用 5 人以上的負責人與會計師、律師、建築師、醫師、牙醫師、中醫師按最高一級申報。',
     'nhi.cat.hint.union': '職業工會會員最低以 {min} 元申報。',
     'nhi.cat.hint.farmer': '農會、漁會會員不看收入，投保金額固定 {fixed} 元。',
     'nhi.supp.note':
-      '補充保費由給付單位在給錢的時候直接扣。低收入戶不扣；中低收入戶、領身心障礙生活補助等身分，單次未達基本工資免扣。',
+      '補充保費由給付單位在給錢的時候直接扣。低收入戶不扣。中低收入戶、領身心障礙生活補助等身分，單次未達基本工資免扣。',
     'nhi.pending':
       '還沒生效、這裡沒有算進去的變動：補充保費改革（衛福部 2025 年 11 月 6 日表示暫停有爭議的規劃）。',
     'nhi.k.bonus': '高額獎金',
@@ -142,7 +142,7 @@ export const tools = {
     'ltc.level.hint':
       'A county care manager assesses the level at home; benefits start at Level 2. If you have not been assessed, pick a level to see the range.',
     'ltc.cls': 'Copayment category',
-    'ltc.cls.class3': 'Category 3 (general)',
+    'ltc.cls.class3': 'Category 3',
     'ltc.cls.class2': 'Category 2',
     'ltc.cls.class1': 'Category 1',
     'ltc.cls.hint':
