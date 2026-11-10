@@ -242,10 +242,10 @@ const logo = (L, island) => {
 };
 
 // ── 小尺寸圖示：不要角落的圓。讓它看起來是一片磚的三種做法 ──
-const PICK = LOGOS.filter((L) => L.key === 'L3' || L.key === 'L4');
+const PICK = LOGOS.filter((L) => L.key === 'L1' || L.key === 'L3' || L.key === 'L4'); // 13:4x 哲宇：「深綠色底的也試試」
 const KINDS = [{ key: '兩色', name: 'R2 兩色' }, ...CUTS.map((C) => ({ key: C.key, name: C.name, C }))];
 function icon(L, K, px, variant) {
-  const line = L.lineColor, big = px >= 96, mid = px >= 48, sm = px >= 28;
+  const line = L.lineColor || CREAM, big = px >= 96, mid = px >= 48, sm = px >= 28;
   const k = variant === 'frame' ? (mid ? 0.98 : 1.02) : sm ? 1.2 : 1.24;
   const lw = big ? 1.6 : mid ? 2.3 : sm ? 3.4 : 0;
   let inner;
@@ -317,7 +317,7 @@ footer{margin-top:76px;border-top:1px solid var(--line);padding-top:16px;color:v
 <main>
 <p class="meta">Taiwan.md 識別 · 花磚方向 · R5 樣張 · 2026-11-10</p>
 <h1>小圖示：拿掉角落的圓，讓它還是一片磚</h1>
-<p class="lede">你說 L3、L4 不錯，但縮小的圖示角落不需要圓圓的，而且看不出是花磚。這一版只做 L3 海藍與 L4 紅磚的小尺寸。</p>
+<p class="lede">你說 L3、L4 不錯，但縮小的圖示角落不需要圓圓的，而且看不出是花磚。這一版做 L3 海藍、L4 紅磚的小尺寸，另外照你說的加試 L1 深綠。</p>
 <p class="lede">角落的圓拿掉之後，島可以放大兩成。格與格之間改用跟大圖一樣的深色線，不再用底色留縫。要讓它讀成「一片磚」，試了三種：什麼都不加、加磚緣的亮暗邊、加一圈內框線。16 像素放不下格子，只留底和島。</p>
 ${PICK.map(sectionOf).join('')}
 <footer>大圖與 R4 相同。小圖示是另外畫的簡化版：128 用完整的格子，64 用大一號的格子，32 用更大的格子，16 只有輪廓。產生器：docs/brand/tile/build-r5.mjs。</footer>
