@@ -32,6 +32,7 @@ import Resources from '../components/industry/sections/Resources.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import { hasIndustryLocale } from '../i18n/industry';
 import { industryPageData } from '../utils/industry/pageData';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
 
 const lang = getLangFromUrl(Astro.url);
 const {
@@ -58,6 +59,7 @@ const {
   title={ti('meta.title')}
   description={ti('meta.description')}
   readerSettings={true}
+  noindex={!isTopicTranslated(getTopic('industry'), lang)}
 >
   <main class="budget-page industry-page tf-surface min-h-screen">
     <PageHero

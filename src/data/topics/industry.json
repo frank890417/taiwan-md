@@ -31,7 +31,11 @@
         "台灣前50大企業",
         "上市公司市值排名",
         "Taiwan largest companies by market cap"
-      ]
+      ],
+      "navTitle": {
+        "zh": "前 50 大排行",
+        "en": "Top 50 ranking"
+      }
     },
     {
       "slug": "supply-chain-map",
@@ -52,7 +56,11 @@
         "鎢供應鏈",
         "Taiwan semiconductor supply chain",
         "AI server supply chain Taiwan"
-      ]
+      ],
+      "navTitle": {
+        "zh": "供應鏈地圖",
+        "en": "Supply-chain map"
+      }
     },
     {
       "slug": "timeline",
@@ -73,7 +81,11 @@
         "十大建設",
         "竹科",
         "Taiwan industrial history timeline"
-      ]
+      ],
+      "navTitle": {
+        "zh": "產業時間軸",
+        "en": "Industry timeline"
+      }
     }
   ],
   "relatedArticles": [
@@ -92,5 +104,6 @@
     "/people/張忠謀/",
     "/people/王永慶/"
   ],
-  "relatedTopics": ["income", "housing"]
+  "relatedTopics": ["income", "housing"],
+  "languages": ["zh-TW", "en"]
 }
