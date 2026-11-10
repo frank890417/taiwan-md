@@ -1,0 +1,254 @@
+---
+/**
+ * ToolFrame — 工具卡外框（專題共用契約 v1 第 4 節、第 7 節）。
+ *
+ * 同一個工具在三個地方出現，外框只差在 variant：
+ *   inline  放在專題頁裡：卡片外框、標題、一句說明、「單獨開啟」「嵌入」連結。
+ *   page    放在單獨工具頁（ToolPage）裡：卡片外框、標題、「嵌入」連結（跳到頁內的嵌入程式碼）。
+ *   embed   放在內嵌板（EmbedLayout）裡：只有標題與工具本體，沒有外框與連結。
+ *
+ * slots：
+ *   default     工具本體
+ *   sources     資料來源與截止日期（一兩行）
+ *   disclaimer  免責聲明（會影響金錢或醫療決定的工具必填，緊接在工具下方）
+ *
+ * 用法：
+ *   <ToolFrame title="房貸試算" description="輸入貸款金額、利率與年限，算出每月還款。"
+ *     variant="inline" lang={lang}
+ *     standaloneHref="/housing/mortgage-calculator/"
+ *     embedHref="/embed/housing/mortgage-calculator/">
+ *     <MortgageCalculator lang={lang} variant="inline" />
+ *     <p slot="sources">利率：中央銀行五大銀行新承做房貸利率，截至 2026-09。</p>
+ *     <p slot="disclaimer">試算結果僅供參考，實際條件以銀行核定為準。</p>
+ *   </ToolFrame>
+ *
+ * 同一頁可以放多個，元件沒有寫死的 id。
+ */
+import type { Lang } from '../../config/languages';
+import { useTopicsT } from '../../i18n/topics';
+import { localizePath } from '../../utils/topics/registry-core';
+
+export interface Props {
+  title: string;
+  description?: string;
+  /** 單獨頁路徑（中文版路徑即可，會自動加語言前綴）。inline 時顯示「單獨開啟」。 */
+  standaloneHref?: string;
+  /** 內嵌板路徑。有給才顯示「嵌入」連結（連到單獨頁的嵌入程式碼區塊）。 */
+  embedHref?: string;
+  variant?: 'inline' | 'page' | 'embed';
+  lang: Lang;
+  /** 標題層級。預設 inline 為 3（放在專題頁的 H2 區塊底下），page／embed 為 2。 */
+  headingLevel?: 2 | 3 | 4;
+}
+
+const {
+  title,
+  description,
+  standaloneHref,
+  embedHref,
+  variant = 'inline',
+  lang,
+  headingLevel,
+} = Astro.props;
+
+const t = useTopicsT(lang);
+const Heading = `h${headingLevel ?? (variant === 'inline' ? 3 : 2)}` as
+  | 'h2'
+  | 'h3'
+  | 'h4';
+const standalone = standaloneHref
+  ? localizePath(standaloneHref, lang)
+  : undefined;
+const showOpen = variant === 'inline' && !!standalone;
+// 「嵌入」一律帶到單獨頁的嵌入程式碼區塊；page 版本就在同一頁，只用錨點。
+const embedLink = !embedHref
+  ? undefined
+  : variant === 'page'
+    ? '#tf-embed'
+    : variant === 'inline' && standalone
+      ? `${standalone}#tf-embed`
+      : undefined;
+const hasSources = Astro.slots.has('sources');
+const hasDisclaimer = Astro.slots.has('disclaimer');
+---
+
+<section class:list={['tf-frame', `tf-frame-${variant}`]} data-tf-frame>
+  <header class="tf-head">
+    <div class="tf-head-text">
+      <Heading class="tf-title">{title}</Heading>
+      {description && <p class="tf-desc">{description}</p>}
+    </div>
+    {
+      (showOpen || embedLink) && (
+        <p class="tf-actions">
+          {showOpen && (
+            <a class="tf-action" href={standalone}>
+              {t('tool.openStandalone')}
+              <span aria-hidden="true" class="tf-action-arrow">
+                ↗
+              </span>
+            </a>
+          )}
+          {embedLink && (
+            <a class="tf-action" href={embedLink}>
+              {t('tool.embed')}
+              <span aria-hidden="true" class="tf-action-arrow">
+                &lt;/&gt;
+              </span>
+            </a>
+          )}
+        </p>
+      )
+    }
+  </header>
+
+  <div class="tf-body">
+    <slot />
+  </div>
+
+  {
+    hasDisclaimer && (
+      <div class="tf-disclaimer" role="note">
+        <slot name="disclaimer" />
+      </div>
+    )
+  }
+  {
+    hasSources && (
+      <div class="tf-sources">
+        <span class="tf-sources-label">{t('tool.sources')}</span>
+        <div class="tf-sources-body">
+          <slot name="sources" />
+        </div>
+      </div>
+    )
+  }
+</section>
+
+<style>
+  .tf-frame {
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+    margin: var(--space-5) 0;
+    padding: clamp(1rem, 3vw, 1.75rem);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    color: var(--color-ink);
+    box-shadow: var(--shadow-soft);
+  }
+  /* 內嵌板：外殼已經是整個畫面，不再畫卡片。 */
+  .tf-frame-embed {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .tf-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .tf-head-text {
+    flex: 1 1 16rem;
+    min-width: 0;
+  }
+  .tf-title {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: var(--title-minor-size);
+    font-weight: 800;
+    line-height: 1.35;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .tf-frame-page .tf-title,
+  .tf-frame-inline .tf-title {
+    font-size: clamp(1.15rem, 2.2vw, 1.35rem);
+  }
+  .tf-desc {
+    margin: 0.3rem 0 0;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: var(--color-ink-soft);
+  }
+  .tf-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0;
+  }
+  .tf-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    font-family: var(--font-interface);
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--color-ink-soft);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .tf-action:hover,
+  .tf-action:focus-visible {
+    color: var(--color-accent);
+    border-color: currentColor;
+  }
+  .tf-action-arrow {
+    font-size: 0.85em;
+  }
+  .tf-body {
+    min-width: 0;
+  }
+  .tf-disclaimer,
+  .tf-sources {
+    margin-top: 1rem;
+    font-size: 0.82rem;
+    line-height: 1.65;
+    color: var(--color-ink-soft);
+    overflow-wrap: anywhere;
+  }
+  .tf-disclaimer {
+    padding: 0.6rem 0.85rem;
+    border-inline-start: 3px solid var(--color-border);
+    background: var(--color-bg-soft);
+    border-radius: 0 8px 8px 0;
+  }
+  .tf-sources {
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--color-border);
+  }
+  .tf-sources-label {
+    display: block;
+    margin-bottom: 0.15rem;
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .tf-disclaimer :global(p),
+  .tf-sources-body :global(p) {
+    margin: 0;
+  }
+  .tf-disclaimer :global(p + p),
+  .tf-sources-body :global(p + p) {
+    margin-top: 0.35rem;
+  }
+  .tf-sources-body :global(a),
+  .tf-disclaimer :global(a) {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>
