@@ -94,7 +94,8 @@ const rel = await relatedList(lang, [
           cy: curYear,
           pm: nt(latest.previousMonthly),
           ph: nt(latest.previousHourly),
-          pct: `${latest.increasePct.toFixed(1)}%`,
+          // 勞動部 2026-09-24 新聞稿的原文寫「調幅4.745％」，照官方位數顯示
+          pct: `${latest.increasePct}%`,
           council: latest.councilDate,
           pub: latest.publishedDate,
         })

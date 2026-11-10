@@ -331,67 +331,65 @@ export function buildPensionView(
   const employer =
     Math.max(P.lp.employerMinRate * 100, num(s.employerRate)) / 100;
   const self = clamp(num(s.selfRate), 0, P.lp.selfMaxRate * 100) / 100;
-  const proj = projectBalance(
-    {
-      monthlyWage: Math.max(0, num(s.wage)),
-      currentBalance: Math.max(0, num(s.balance)),
-      yearsToRetire: yearsLeft,
-      employerRate: employer,
-      selfRate: self,
-      annualReturn: num(s.ret) / 100,
-      wageGrowth: num(s.growth) / 100,
-    },
-    P.lp,
-  );
-  const finalBalance = proj.finalBalance;
-  const contribYears = paidYears + yearsLeft;
-  const lpEligible = contribYears >= P.lp.minSeniorityYearsForAnnuity;
-  let lpMonthly = 0;
-  out.lpBalance = money(finalBalance, loc);
-  if (lpEligible) {
-    const r = monthlyPensionFromBalance(finalBalance, pensionAge, P.lp);
-    lpMonthly = r.monthly;
-    out.lpLife = m('years', { n: r.lifeExpectancy });
-    out.lpAge = m('age', { n: pensionAge });
-    out.lpMonthly = money(lpMonthly, loc);
-    const low = projectBalance(
+  const project = (annualReturn: number) =>
+    projectBalance(
       {
         monthlyWage: Math.max(0, num(s.wage)),
         currentBalance: Math.max(0, num(s.balance)),
         yearsToRetire: yearsLeft,
         employerRate: employer,
         selfRate: self,
-        annualReturn: P.lp.guaranteedReturn,
+        annualReturn,
         wageGrowth: num(s.growth) / 100,
       },
       P.lp,
-    );
-    out.lpMonthlyLow = money(
-      monthlyPensionFromBalance(low.finalBalance, pensionAge, P.lp).monthly,
-      loc,
-    );
+    ).finalBalance;
+  const lowRate = P.lp.guaranteedReturn;
+  const retRate = num(s.ret) / 100;
+  const balLow = project(lowRate);
+  const balRet = project(retRate);
+  const contribYears = paidYears + yearsLeft;
+  const lpEligible = contribYears >= P.lp.minSeniorityYearsForAnnuity;
+  const rateText = (r: number) => String(+(r * 100).toFixed(4));
+  out.lowLabel = m('scenario.low', { rate: rateText(lowRate) });
+  out.retLabel = m('scenario.ret', { rate: rateText(retRate) });
+  let lpLow = 0;
+  let lpRet = 0;
+  out.lpBalanceLow = money(balLow, loc);
+  out.lpBalance = money(balRet, loc);
+  out.lpAge = m('age', { n: pensionAge });
+  if (lpEligible) {
+    const rLow = monthlyPensionFromBalance(balLow, pensionAge, P.lp);
+    const rRet = monthlyPensionFromBalance(balRet, pensionAge, P.lp);
+    lpLow = rLow.monthly;
+    lpRet = rRet.monthly;
+    out.lpLife = m('years', { n: rRet.lifeExpectancy });
+    out.lpMonthlyLow = money(lpLow, loc);
+    out.lpMonthly = money(lpRet, loc);
   } else {
     out.lpLife = '—';
-    out.lpAge = m('age', { n: pensionAge });
+    out.lpMonthlyLow = money(0, loc);
     out.lpMonthly = money(0, loc);
     out.lpReason = m('lpNo', {
       n: +contribYears.toFixed(2),
       min: P.lp.minSeniorityYearsForAnnuity,
-      balance: money(finalBalance, loc),
+      balance: money(balRet, loc),
     });
   }
   show.lpOk = lpEligible;
   show.lpNo = !lpEligible;
 
-  /* 合計 */
-  const total = lbMonthly + lpMonthly;
-  out.total = money(total, loc);
+  /* 合計：保守（保證收益率）在前，試算表報酬率在後 */
   const wage = num(s.wage);
-  out.ratio =
+  const ratioOf = (total: number) =>
     wage > 0
-      ? m('ratio', { pct: `${((total / wage) * 100).toFixed(1)}%` }) +
-        m('nominal')
-      : m('ratioNone') + m('nominal');
+      ? m('ratio', { pct: `${((total / wage) * 100).toFixed(1)}%` })
+      : m('ratioNone');
+  out.totalLow = money(lbMonthly + lpLow, loc);
+  out.totalRet = money(lbMonthly + lpRet, loc);
+  out.ratioLow = ratioOf(lbMonthly + lpLow);
+  out.ratioRet = ratioOf(lbMonthly + lpRet);
+  out.ratioNote = m('ratioNote') + m('nominal');
 
   /* 圖 */
   const hasCurve = curve.some((p) => p.eligible);

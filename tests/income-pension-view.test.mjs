@@ -107,13 +107,15 @@ test('英文版金額格式與訊息', () => {
   const v = buildPensionView(DEFAULT, P, msgs('en'), 'en');
   assertClean(v);
   assert.match(v.out.lbMonthly, /^NT\$21,297$/);
-  assert.match(v.out.total, /^NT\$/);
+  assert.match(v.out.totalRet, /^NT\$/);
+  assert.match(v.out.totalLow, /^NT\$/);
 });
 
 test('合計 = 勞保 + 勞退', () => {
   const v = buildPensionView(DEFAULT, P, msgs('zh-TW'), 'zh-TW');
   const n = (s) => Number(s.replace(/[^0-9]/g, ''));
-  assert.equal(n(v.out.total), n(v.out.lbMonthly) + n(v.out.lpMonthly));
+  assert.equal(n(v.out.totalRet), n(v.out.lbMonthly) + n(v.out.lpMonthly));
+  assert.equal(n(v.out.totalLow), n(v.out.lbMonthly) + n(v.out.lpMonthlyLow));
 });
 
 test('提前 3 年與延後 3 年的增減', () => {
@@ -289,8 +291,13 @@ test('保證收益率情境：月退比預設報酬率低，且比率副行有�
   const n = (x) => Number(x.replace(/[^0-9]/g, ''));
   assert.ok(n(v.out.lpMonthlyLow) > 0);
   assert.ok(n(v.out.lpMonthlyLow) < n(v.out.lpMonthly));
-  assert.match(v.out.ratio, /不是官方所得替代率/);
-  assert.match(v.out.ratio, /名目金額/);
+  assert.match(v.out.ratioLow, /約占你目前月薪的/);
+  assert.match(v.out.ratioRet, /約占你目前月薪的/);
+  assert.match(v.out.ratioNote, /不是官方所得替代率/);
+  assert.match(v.out.ratioNote, /名目金額/);
+  assert.ok(n(v.out.totalLow) <= n(v.out.totalRet));
+  assert.match(v.out.lowLabel, /1\.7108%/);
+  assert.match(v.out.retLabel, /7\.64%/);
   const same = buildPensionView(
     { ...DEFAULT, ret: lp.guaranteedReturn.rate * 100 },
     P,
@@ -298,7 +305,7 @@ test('保證收益率情境：月退比預設報酬率低，且比率副行有�
     'en',
   );
   assert.equal(same.out.lpMonthlyLow, same.out.lpMonthly);
-  assert.match(same.out.ratio, /nominal/);
+  assert.match(same.out.ratioNote, /nominal/);
 });
 
 test('x 軸刻度隔一個標一個', () => {

@@ -71,8 +71,8 @@ export const toolPension = {
     'income.pension.result.lp.life': 'Average remaining life',
     'income.pension.result.lp.age': 'Claiming age',
     'income.pension.result.lp.monthly': 'Annuity per month',
-    'income.pension.result.lp.low':
-      'If the return is only the guaranteed {rate}%: about, per month',
+    'income.pension.result.nominalTag': 'nominal, not adjusted for inflation',
+    'income.pension.result.lp.scenario': 'Return assumption',
     'income.pension.result.chartTitle':
       'Monthly Labor Insurance pension by claiming age',
     'income.pension.result.formulaNote':
@@ -82,8 +82,12 @@ export const toolPension = {
     'income.pension.result.note2027':
       'From 2027 the Labor Insurance rate changes (the ordinary-accident rate goes from 12.5% to 13%, already announced) and the insured salary table is not yet announced. This tool follows the rules in force in {year}.',
 
-    'income.pension.msg.ratio':
-      'About {pct} of your current monthly pay. This ratio is calculated from the pay you entered. It is not the official income replacement rate.',
+    'income.pension.msg.ratio': 'About {pct} of your current monthly pay',
+    'income.pension.msg.scenario.low':
+      'If the return is only the guaranteed {rate}%',
+    'income.pension.msg.scenario.ret': 'At the {rate}% return you entered',
+    'income.pension.msg.ratioNote':
+      'The ratios are calculated from the pay you entered. They are not the official income replacement rate.',
     'income.pension.msg.nominal':
       ' The Labor Pension amount is in nominal money of the year you claim, with no deduction for price rises over the years in between. The Labor Insurance pension uses the insured salary you entered today.',
     'income.pension.msg.ratioNone':
@@ -104,7 +108,7 @@ export const toolPension = {
     'income.pension.msg.reason.NO_SALARY':
       'Enter your average insured salary and insured years to see the pension.',
     'income.pension.msg.lpNo':
-      'Contributions would total {n} years, under the {min} needed for a monthly annuity. You could only take a lump sum. Estimated account balance at claiming: {balance}.',
+      'Contributions would total {n} years, under the {min} needed for a monthly annuity. You could only take a lump sum. Estimated account balance at claiming: {balance} (nominal, not adjusted for inflation).',
     'income.pension.msg.chart.x': 'Claiming age',
     'income.pension.msg.chart.statutory': 'Statutory {age}',
     'income.pension.msg.chart.aria':
@@ -232,7 +236,8 @@ export const toolPension = {
     'income.pension.result.lp.life': '平均餘命',
     'income.pension.result.lp.age': '請領年齡',
     'income.pension.result.lp.monthly': '勞退月退每月',
-    'income.pension.result.lp.low': '若報酬率只有保證收益率 {rate}%：每月約',
+    'income.pension.result.nominalTag': '名目金額，未扣物價',
+    'income.pension.result.lp.scenario': '報酬率假設',
     'income.pension.result.chartTitle': '各請領年齡的勞保年金月領金額',
     'income.pension.result.formulaNote':
       '年金取兩個算式中較高的一個。第一式是平均月投保薪資 × 年資 × {coefA}% + {constA} 元，第二式是平均月投保薪資 × 年資 × {coefB}%。',
@@ -241,8 +246,11 @@ export const toolPension = {
     'income.pension.result.note2027':
       '2027 年起勞保費率另有調整（普通事故費率由 12.5% 調為 13%，已公告），投保薪資分級表尚未公告。本工具依 {year} 年現行規定計算。',
 
-    'income.pension.msg.ratio':
-      '約占你目前月薪的 {pct}。這個比率依你輸入的月薪計算，不是官方所得替代率。',
+    'income.pension.msg.ratio': '約占你目前月薪的 {pct}',
+    'income.pension.msg.scenario.low': '保證收益率 {rate}% 情境',
+    'income.pension.msg.scenario.ret': '你填的報酬率 {rate}% 情境',
+    'income.pension.msg.ratioNote':
+      '這些比率依你輸入的月薪計算，不是官方所得替代率。',
     'income.pension.msg.nominal':
       '勞退金額是到請領那一年的名目金額，沒有扣掉這段期間的物價上漲；勞保年金則用你現在填的投保薪資計算。',
     'income.pension.msg.ratioNone':
@@ -263,7 +271,7 @@ export const toolPension = {
     'income.pension.msg.reason.NO_SALARY':
       '請輸入平均月投保薪資與勞保年資，才能算出年金。',
     'income.pension.msg.lpNo':
-      '預計提繳年資 {n} 年，未滿 {min} 年，只能一次領，不能領月退休金。請領時專戶累積估計 {balance}。',
+      '預計提繳年資 {n} 年，未滿 {min} 年，只能一次領，不能領月退休金。請領時專戶累積估計 {balance}（名目金額，未扣物價）。',
     'income.pension.msg.chart.x': '請領年齡',
     'income.pension.msg.chart.statutory': '法定 {age} 歲',
     'income.pension.msg.chart.aria':

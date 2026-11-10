@@ -81,6 +81,7 @@ for (const key of Object.keys(toolPension.en)) {
 
 const view = buildPensionView(defaults, params, messages, loc);
 const ft = formulaTexts(params);
+const tag = t('income.pension.result.nominalTag');
 const prefix = variant === 'inline' ? 'pen.' : '';
 ---
 
@@ -345,10 +346,36 @@ const prefix = variant === 'inline' ? 'pen.' : '';
   </form>
 
   <div class="inc-result" aria-live="polite">
-    <div class="inc-headline">
+    <div class="pen-heads">
       <span class="inc-headline-k">{t('income.pension.result.total')}</span>
-      <span class="inc-headline-v" data-out="total">{view.out.total}</span>
-      <span class="inc-headline-sub" data-out="ratio">{view.out.ratio}</span>
+      <div class="pen-scn-grid">
+        <div class="inc-headline">
+          <span class="inc-headline-k" data-out="lowLabel"
+            >{view.out.lowLabel}</span
+          >
+          <span class="inc-headline-v" data-out="totalLow"
+            >{view.out.totalLow}</span
+          >
+          <span class="inc-headline-sub" data-out="ratioLow"
+            >{view.out.ratioLow}</span
+          >
+        </div>
+        <div class="inc-headline">
+          <span class="inc-headline-k" data-out="retLabel"
+            >{view.out.retLabel}</span
+          >
+          <span class="inc-headline-v" data-out="totalRet"
+            >{view.out.totalRet}</span
+          >
+          <span class="inc-headline-sub" data-out="ratioRet"
+            >{view.out.ratioRet}</span
+          >
+        </div>
+      </div>
+      <span class="inc-headline-sub">{tag}</span>
+      <span class="inc-headline-sub" data-out="ratioNote"
+        >{view.out.ratioNote}</span
+      >
     </div>
 
     <section class="pen-block">
@@ -398,34 +425,45 @@ const prefix = variant === 'inline' ? 'pen.' : '';
 
     <section class="pen-block">
       <h4 class="pen-sub">{t('income.pension.result.lp')}</h4>
-      <dl class="inc-kv" data-show="lpOk" hidden={!view.show.lpOk}>
-        <div>
-          <dt>{t('income.pension.result.lp.balance')}</dt>
-          <dd data-out="lpBalance">{view.out.lpBalance}</dd>
-        </div>
-        <div>
-          <dt>{t('income.pension.result.lp.age')}</dt>
-          <dd data-out="lpAge">{view.out.lpAge}</dd>
-        </div>
-        <div>
-          <dt>{t('income.pension.result.lp.life')}</dt>
-          <dd data-out="lpLife">{view.out.lpLife}</dd>
-        </div>
-        <div class="is-total">
-          <dt>{t('income.pension.result.lp.monthly')}</dt>
-          <dd data-out="lpMonthly">{view.out.lpMonthly}</dd>
-        </div>
-        <div>
-          <dt>
-            {
-              t('income.pension.result.lp.low', {
-                rate: pct(lp.guaranteedReturn.rate),
-              })
-            }
-          </dt>
-          <dd data-out="lpMonthlyLow">{view.out.lpMonthlyLow}</dd>
-        </div>
-      </dl>
+      <div data-show="lpOk" hidden={!view.show.lpOk}>
+        <dl class="inc-kv">
+          <div>
+            <dt>{t('income.pension.result.lp.age')}</dt>
+            <dd data-out="lpAge">{view.out.lpAge}</dd>
+          </div>
+          <div>
+            <dt>{t('income.pension.result.lp.life')}</dt>
+            <dd data-out="lpLife">{view.out.lpLife}</dd>
+          </div>
+        </dl>
+        <table class="pen-tbl">
+          <thead>
+            <tr>
+              <th scope="col">{t('income.pension.result.lp.scenario')}</th>
+              <th scope="col" data-out="lowLabel">{view.out.lowLabel}</th>
+              <th scope="col" data-out="retLabel">{view.out.retLabel}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">
+                {t('income.pension.result.lp.balance')}
+                <small class="pen-tag">{tag}</small>
+              </th>
+              <td data-out="lpBalanceLow">{view.out.lpBalanceLow}</td>
+              <td data-out="lpBalance">{view.out.lpBalance}</td>
+            </tr>
+            <tr class="is-total">
+              <th scope="row">
+                {t('income.pension.result.lp.monthly')}
+                <small class="pen-tag">{tag}</small>
+              </th>
+              <td data-out="lpMonthlyLow">{view.out.lpMonthlyLow}</td>
+              <td data-out="lpMonthly">{view.out.lpMonthly}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
       <p
         class="inc-warn"
         data-show="lpNo"
@@ -456,6 +494,49 @@ const prefix = variant === 'inline' ? 'pen.' : '';
     font-size: 0.86rem;
     font-weight: 700;
     color: var(--color-ink);
+  }
+  .inc-tool.inc-pension .pen-heads {
+    display: grid;
+    gap: 0.5rem;
+  }
+  .inc-tool.inc-pension .pen-scn-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+    gap: 0.9rem 1.2rem;
+  }
+  .inc-tool.inc-pension .pen-tbl {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.86rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .inc-tool.inc-pension .pen-tbl th,
+  .inc-tool.inc-pension .pen-tbl td {
+    padding: 0.38rem 0.3rem;
+    border-bottom: 1px solid var(--color-border);
+    vertical-align: top;
+    font-weight: 400;
+    text-align: end;
+  }
+  .inc-tool.inc-pension .pen-tbl th:first-child {
+    text-align: start;
+    color: var(--color-ink-soft);
+    padding-inline-start: 0;
+  }
+  .inc-tool.inc-pension .pen-tbl thead th {
+    font-size: 0.76rem;
+    color: var(--color-ink-soft);
+  }
+  .inc-tool.inc-pension .pen-tbl td {
+    font-weight: 700;
+  }
+  .inc-tool.inc-pension .pen-tbl .is-total td {
+    font-weight: 800;
+  }
+  .inc-tool.inc-pension .pen-tag {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 400;
   }
   .inc-tool.inc-pension .pen-chart {
     margin: 0;
