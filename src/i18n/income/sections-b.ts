@@ -194,6 +194,8 @@ export const sectionsB: {
     'income.s6.note2': 'The {y1} figure is the budgeted amount.',
     'income.s6.note2.pending':
       'The {ny} transfer is not in the chart. A Presidential Office press release of {d} says {amt} was budgeted for {ny}, bringing the {n}-year total to {cum}, and that the Legislative Yuan had not yet passed the budget when the release was issued.',
+    'income.s6.note2.passed':
+      'The {ce} (ROC year {ny}) central government budget passed its third reading on {date}, with NT$48 billion cut in total (CNA report). Neither the report nor the Ministry of Labor and Bureau of Labor Insurance pages, checked on {checked}, say whether this transfer was kept as budgeted.',
     'income.s6.p3':
       "The amendment to the Labor Insurance Act promulgated on {date} wrote two things into law. Article 66 requires the government to budget a transfer every year. Article 69 says the central government bears final responsibility for payment of Labor Insurance finances, and that the scheme's finances must be reviewed at least every three years. (Original text of its first sentence: {a69}) The amendment did not change the benefit formula, the claiming age, the premium rate or the cost split.",
     'income.s6.p4':
@@ -487,6 +489,8 @@ export const sectionsB: {
     'income.s6.note2': '{y1} 年是已編列的預算數。',
     'income.s6.note2.pending':
       '{ny} 年的撥補沒有放進圖裡。總統府 {d} 的新聞稿寫，{ny} 年編列 {amt}，{n} 年累計 {cum}，截至該新聞稿發布時立法院尚未通過相關預算。',
+    'income.s6.note2.passed':
+      '之後 {ny} 年度中央政府總預算在 {date} 三讀，共減列 480 億元（中央社報導）。這筆撥補是否照列，報導沒有寫，{checked} 查勞動部與勞保局的頁面也沒有查到。',
     'income.s6.p3':
       '{date} 公布的勞保條例修正，把兩件事寫進法律。第 66 條規定政府每年編列預算撥補。第 69 條第一句是：「{a69}」同條並規定中央主管機關至少每三年檢討一次保險財務。這次修正沒有改動給付公式、請領年齡、費率與負擔比例。',
     'income.s6.p4':

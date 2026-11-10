@@ -374,6 +374,27 @@ const article69First = `${law.article69Excerpt.split('。')[0]}。`;
             >
               ↗
             </a>
+            {subPending.laterBudgetPassage && (
+              <>
+                {' '}
+                {t('income.s6.note2.passed', {
+                  ny: subPending.rocYear,
+                  ce: subPending.year,
+                  date: subPending.laterBudgetPassage.date,
+                  checked: subPending.laterBudgetPassage.checked,
+                })}
+                <a
+                  class="bp-src no-external-icon"
+                  aria-label={t('income.commonb.source')}
+                  title={subPending.laterBudgetPassage.source.name}
+                  href={subPending.laterBudgetPassage.source.url}
+                  target="_blank"
+                  rel="noopener"
+                >
+                  ↗
+                </a>
+              </>
+            )}
           </>
         )
       }

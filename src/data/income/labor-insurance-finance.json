@@ -179,7 +179,17 @@
         "name": "總統府新聞稿（2026-08-07，全國模範勞工慶祝晚宴）",
         "url": "https://www.president.gov.tw/News/40250"
       },
-      "note": "新聞稿文字：政府 2020 年起持續撥補，今年編列 1,300 億元，7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。2026-08-07 之後預算是否通過，研究檔沒有資料。不併入 years／publicBudgetOkuNtd／specialBudgetOkuNtd／cumulativeOkuNtd。"
+      "note": "新聞稿文字：政府 2020 年起持續撥補，今年編列 1,300 億元，7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。2026-08-07 之後：115 年度總預算在 2026-08-14 三讀（見 laterBudgetPassage），但這筆撥補是否照列，2026-11-10 查勞動部、勞保局、勞動基金運用局頁面都沒有查到。不併入 years／publicBudgetOkuNtd／specialBudgetOkuNtd／cumulativeOkuNtd。",
+      "laterBudgetPassage": {
+        "date": "2026-08-14",
+        "fact": "115 年度中央政府總預算於 2026-08-14 三讀，審議結果共計減列 480 億元。報導沒有寫勞保撥補這筆是否照列；勞動部、勞保局、勞動基金運用局截至 2026-11-10 的新聞稿與公告也沒有查到這筆的法定數或撥入紀錄。",
+        "quote": "審議結果共計減列480億元",
+        "source": {
+          "name": "中央社 2026-08-14〈115 年總預算減列 480 億元 創最晚三讀紀錄〉",
+          "url": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+        },
+        "checked": "2026-11-10"
+      }
     }
   },
   "fund": {
