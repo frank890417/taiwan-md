@@ -18,6 +18,7 @@ import { getTopic, localizePath, pickText } from '../utils/topics/registry';
 import boca from '../data/names/boca-table.json';
 import { SOURCES } from '../data/names/story';
 import { nlang, pick3, localDate } from '../utils/names/page';
+import { textDir } from '../utils/topics/ui-dir';
 
 const lang = getLangFromUrl(Astro.url);
 const L = nlang(lang);
@@ -34,9 +35,7 @@ const faq = [1, 2, 3, 4, 5, 6].map((n) => ({
 }));
 const main = localizePath(topic.path, lang);
 // 沒有自己文案的語言（例如阿拉伯文）顯示英文 fallback：這些區塊固定由左到右
-const fb = !['zh-TW', 'en', 'ja', 'ko'].includes(lang)
-  ? { dir: 'ltr', lang: 'en' }
-  : {};
+const fb = textDir(topic.title, lang);
 const related = [
   { href: `${main}#s3`, label: t('rz.related.spelling') },
   { href: `${main}#s4`, label: t('rz.related.local') },
@@ -68,17 +67,19 @@ const sources = ['S3', 'S5', 'S6', 'S7', 'S15', 'S16', 'S30'].map(
     lang={lang}
     embedHref={tool.embedPath}
   >
-    <div {...fb}><NameRomanization lang={lang} variant="page" /></div>
-    <p slot="sources" {...fb}>{t('rz.embedSource')}</p>
-    <p slot="disclaimer" {...fb}>{t('rz.disclaimer')}</p>
+    <div dir={fb.dir} lang={fb.lang}>
+      <NameRomanization lang={lang} variant="page" />
+    </div>
+    <p slot="sources" dir={fb.dir} lang={fb.lang}>{t('rz.embedSource')}</p>
+    <p slot="disclaimer" dir={fb.dir} lang={fb.lang}>{t('rz.disclaimer')}</p>
   </ToolFrame>
 
   <Fragment slot="reading">
-    <p {...fb}>{t('rz.reading')}</p>
+    <p dir={fb.dir} lang={fb.lang}>{t('rz.reading')}</p>
   </Fragment>
 
   <Fragment slot="method">
-    <div {...fb}>
+    <div dir={fb.dir} lang={fb.lang}>
       <p>{plain('rz.how.p2')}</p>
       <h3>{t('rz.limits.h')}</h3>
       <ol>
@@ -119,7 +120,7 @@ const sources = ['S3', 'S5', 'S6', 'S7', 'S15', 'S16', 'S30'].map(
   </Fragment>
 
   <Fragment slot="sources">
-    <ul {...fb}>
+    <ul dir={fb.dir} lang={fb.lang}>
       {
         sources.map((sc) => (
           <li>
@@ -133,5 +134,5 @@ const sources = ['S3', 'S5', 'S6', 'S7', 'S15', 'S16', 'S30'].map(
     </ul>
   </Fragment>
 
-  <p slot="disclaimer" {...fb}>{t('rz.disclaimer')}</p>
+  <p slot="disclaimer" dir={fb.dir} lang={fb.lang}>{t('rz.disclaimer')}</p>
 </ToolPage>

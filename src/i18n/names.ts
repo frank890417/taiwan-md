@@ -405,7 +405,7 @@ const zh: Dict = {
 const en: Dict = {
   'meta.title': 'Taiwanese Names: How They Work, Surnames and Spelling',
   'meta.desc':
-    'How Taiwanese names work: family name first, ten surnames shared by half the country, names by generation, four official spellings, plus a passport-spelling converter.',
+    'How Taiwanese names work: family name first, ten surnames shared by half the country, names by generation, plus a passport-spelling converter.',
   'hero.eyebrow': 'Feature · Names',
   'hero.title': 'Taiwanese Names',
   'hero.subtitle':
@@ -742,8 +742,7 @@ const en: Dict = {
   'tool.revNone':
     'Not a syllable in any of the four Mandarin systems. It may be spelled from Taiwanese, Hakka or an Indigenous language, it may use an older system, or it may be an English name.',
 
-  'rz.meta.title':
-    'Chinese Name Romanization Converter: Taiwan Passport Spelling 2026',
+  'rz.meta.title': 'Chinese Name Romanization Converter: Taiwan Passport 2026',
   'rz.meta.desc':
     'Convert a Chinese name to its Taiwan passport spelling in Wade–Giles, Hanyu Pinyin, Tongyong and MPS II, or look up how a romanized name is said.',
   'rz.hero.eyebrow': 'Taiwanese Names · Tool',
@@ -1142,7 +1141,7 @@ const ja: Dict = {
 
   'rz.meta.title': '台湾人の名前 ローマ字変換・読み方 2026',
   'rz.meta.desc':
-    '中国語の名前を入力すると、ウェード式・漢語拼音・通用拼音・国音第二式の四方式によるパスポート表記を表示。ローマ字から読み方も調べられます。台湾外交部の2026年対照表と照合済み。',
+    '中国語の名前を入力すると、ウェード式・漢語拼音・通用拼音・国音第二式の四方式のパスポート表記を表示。ローマ字から読み方も調べられます。',
   'rz.hero.eyebrow': '台湾人の名前・ツール',
   'rz.hero.title': '名前のローマ字変換ツール',
   'rz.hero.subtitle':

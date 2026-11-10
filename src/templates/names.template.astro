@@ -23,14 +23,14 @@ import Guide from '../components/names/sections/Guide.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import type { Lang } from '../config/languages';
 import { buildNamesModel } from '../utils/names/model';
+import { isTopicTranslated } from '../utils/topics/registry';
+import { textDir } from '../utils/topics/ui-dir';
 
 const lang = getLangFromUrl(Astro.url) as Lang;
 const m = await buildNamesModel(lang);
-// 沒有自己文案的語言顯示英文 fallback；右到左語言的頁面上這一整塊固定由左到右
-const fb = !['zh-TW', 'en', 'ja', 'ko'].includes(lang)
-  ? { dir: 'ltr', lang: 'en' }
-  : {};
 const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
+// 沒有自己文案的語言顯示英文 fallback；右到左語言的頁面上這一整塊固定由左到右
+const fb = textDir(topic.title, lang);
 ---
 
 <Layout
@@ -38,8 +38,13 @@ const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
   title={t('meta.title')}
   description={t('meta.desc')}
   readerSettings={true}
+  noindex={!isTopicTranslated(topic, lang)}
 >
-  <main class="budget-page names-page tf-surface min-h-screen" {...fb}>
+  <main
+    class="budget-page names-page tf-surface min-h-screen"
+    dir={fb.dir}
+    lang={fb.lang}
+  >
     <PageHero
       eyebrow={t('hero.eyebrow')}
       title={t('hero.title')}

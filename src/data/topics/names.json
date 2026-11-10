@@ -41,7 +41,12 @@
         "Wade-Giles converter",
         "how to pronounce Taiwanese names",
         "台湾 名前 ローマ字"
-      ]
+      ],
+      "navTitle": {
+        "zh": "姓名拼音工具",
+        "en": "Name converter",
+        "ja": "ローマ字変換"
+      }
     }
   ],
   "relatedArticles": [
@@ -54,5 +59,6 @@
     "/culture/語言多樣性與母語文化/",
     "/culture/客家文化與語言/"
   ],
-  "relatedTopics": ["income", "health"]
+  "relatedTopics": ["income", "health"],
+  "languages": ["zh-TW", "en", "ja"]
 }
