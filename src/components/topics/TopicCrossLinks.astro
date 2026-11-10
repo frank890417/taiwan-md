@@ -11,6 +11,7 @@
 import type { Lang } from '../../config/languages';
 import { useTopicsT } from '../../i18n/topics';
 import { getTopics, localizePath, pickText } from '../../utils/topics/registry';
+import { textDir, uiDir } from '../../utils/topics/ui-dir';
 
 export interface Props {
   lang: Lang;
@@ -24,20 +25,37 @@ export interface Props {
 
 const { lang, currentId, only, heading } = Astro.props;
 const t = useTopicsT(lang);
-const others = getTopics().filter(
-  (topic) => topic.id !== currentId && (!only || only.includes(topic.id)),
-);
+const ui = uiDir(lang);
+const others = getTopics()
+  .filter(
+    (topic) => topic.id !== currentId && (!only || only.includes(topic.id)),
+  )
+  .map((topic) => ({
+    ...topic,
+    titleDir: textDir(topic.title, lang),
+    descDir: textDir(topic.description, lang),
+  }));
 ---
 
 {
   others.length > 0 && (
     <section class="tn-cross" data-tn-cross>
-      <h2 class="tn-cross-heading">{heading || t('crosslinks.heading')}</h2>
+      <h2
+        class="tn-cross-heading"
+        dir={heading ? undefined : ui.dir}
+        lang={heading ? undefined : ui.lang}
+      >
+        {heading || t('crosslinks.heading')}
+      </h2>
       <ul class="tn-cross-grid">
         {others.map((topic) => (
           <li>
             <a class="tn-cross-card" href={localizePath(topic.path, lang)}>
-              <span class="tn-cross-title">
+              <span
+                class="tn-cross-title"
+                dir={topic.titleDir.dir}
+                lang={topic.titleDir.lang}
+              >
                 {topic.emoji && (
                   <span class="tn-cross-emoji" aria-hidden="true">
                     {topic.emoji}
@@ -45,7 +63,11 @@ const others = getTopics().filter(
                 )}
                 {pickText(topic.title, lang)}
               </span>
-              <span class="tn-cross-desc">
+              <span
+                class="tn-cross-desc"
+                dir={topic.descDir.dir}
+                lang={topic.descDir.lang}
+              >
                 {pickText(topic.description, lang)}
               </span>
             </a>

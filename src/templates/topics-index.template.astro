@@ -3,7 +3,7 @@
  * topics-index.template.astro — /topics/ 專題總覽（13 語共用）。
  *
  * 資料：src/data/topics/*.json（src/utils/topics/registry.ts）。
- * 文案：src/i18n/topics.ts（zh-TW、en 完整，其他語言 fallback）。
+ * 文案：src/i18n/topics.ts（zh-TW、en、ja 完整，其他語言退到 en 並標 noindex）。
  * 登記檔一份都沒有時：noindex，照實顯示「專題陸續上線」，不列任何假專題。
  * 結構化資料：有專題時走 Layout 的 collectionItems（SEO.astro 輸出 CollectionPage）。
  */
@@ -11,7 +11,7 @@ import '../styles/topics-foundation.css';
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import { getLangFromUrl } from '../i18n/utils';
-import { useTopicsT } from '../i18n/topics';
+import { topicsUiLang, useTopicsT } from '../i18n/topics';
 import {
   getTopics,
   latestUpdated,
@@ -24,6 +24,8 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTopicsT(lang);
 const topics = getTopics();
 const isEmpty = topics.length === 0;
+// 介面字串沒有該語言版本（zh-TW、en、ja 以外）的總覽頁只是英文重複頁，不收錄。
+const uiTranslated = topicsUiLang(lang) === lang;
 const toolCount = topics.reduce((n, topic) => n + topic.tools.length, 0);
 
 const description = isEmpty
@@ -39,7 +41,7 @@ const collectionItems = topics.map((topic) => ({
   lang={lang}
   title={t('topics.meta.title')}
   description={description}
-  noindex={isEmpty}
+  noindex={isEmpty || !uiTranslated}
   dateModified={latestUpdated(topics) || undefined}
   collectionItems={collectionItems}
   readerSettings={true}

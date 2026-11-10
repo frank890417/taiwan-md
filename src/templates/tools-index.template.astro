@@ -3,7 +3,7 @@
  * tools-index.template.astro — /tools/ 工具總覽（13 語共用）。
  *
  * 資料：各專題登記檔的 tools（src/utils/topics/registry.ts 的 getAllTools()）。
- * 文案：src/i18n/topics.ts。
+ * 文案：src/i18n/topics.ts（zh-TW、en、ja 完整，其他語言退到 en 並標 noindex）。
  * 一個工具都沒有時：noindex，照實顯示「工具陸續上線」。
  * 結構化資料：ItemList（src/utils/tools/jsonld.ts 的 buildItemListLd）。
  */
@@ -11,7 +11,7 @@ import '../styles/topics-foundation.css';
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import { getLangFromUrl } from '../i18n/utils';
-import { useTopicsT } from '../i18n/topics';
+import { topicsUiLang, useTopicsT } from '../i18n/topics';
 import {
   getTopics,
   latestUpdated,
@@ -61,6 +61,8 @@ const siteGroups: ToolGroup[] = [];
 const groups: ToolGroup[] = [...topicGroups, ...siteGroups];
 const allTools = groups.flatMap((g) => g.tools);
 const isEmpty = allTools.length === 0;
+// 介面字串沒有該語言版本（zh-TW、en、ja 以外）的總覽頁只是英文重複頁，不收錄。
+const uiTranslated = topicsUiLang(lang) === lang;
 const updated = latestUpdated(getTopics());
 const year = updated ? updated.slice(0, 4) : '';
 
@@ -86,7 +88,7 @@ const itemListLd = buildItemListLd({
   lang={lang}
   title={title}
   description={description}
-  noindex={isEmpty}
+  noindex={isEmpty || !uiTranslated}
   dateModified={updated || undefined}
   readerSettings={true}
 >
