@@ -1,0 +1,105 @@
+---
+/**
+ * §4 Chips — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import StackedArea from '../../budget/StackedArea.astro';
+import { getTopic, pickText } from '../../../utils/topics/registry';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import SupplyChainMap from '../tools/SupplyChainMap.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const topic = getTopic('industry')!;
+const TOOL = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
+const { OL, REL, chainsHref, ic, srcLineL, ti, fmtYi } =
+  await industryPageData(lang);
+---
+
+<!-- §4 半導體與 AI 伺服器 -->
+<section class="bp-section" id="s4">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s4.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s4.h2')}</h2>
+    <p class="bp-lede">{ti('s4.lede')}</p>
+    {
+      ic ? (
+        <StackedArea
+          id="c-ic"
+          title={ti('s4.chart.title', {
+            y: ic.years[ic.years.length - 1],
+            total: fmtYi(ic.total[ic.total.length - 1], lang),
+          })}
+          subtitle={ti('s4.chart.sub')}
+          years={ic.years}
+          cats={ic.rows.map((r: any, i: number) => ({
+            id: r.id,
+            label: ti(`ic.${r.id}`),
+            cls: `bg-cat-${[0, 1, 2, 3][i]}`,
+          }))}
+          values={ic.rows.map((r: any) => r.values)}
+          mode="abs"
+          lang={lang}
+          source={srcLineL(ic.source)}
+        />
+      ) : (
+        <p class="ind-nodata">{ti('s4.nodata')}</p>
+      )
+    }
+    <div class="bp-prose">
+      <p>{ti('s4.p1')}</p>
+      <p>{ti('s4.p2')}</p>
+    </div>
+    {
+      OL.tsmc && (
+        <ul class="ind-facts">
+          {OL.tsmc.map((f: any) => (
+            <li>
+              <b>{f.v}</b>
+              {ti(`outlook.tsmc.${f.id}.l`)}
+              <a
+                class="bp-src no-external-icon"
+                aria-label={ti('label.source')}
+                href={f.url}
+                target="_blank"
+                rel="noopener"
+              >
+                ↗
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+    <p class="bp-note">{ti('s4.tool.note')}</p>
+    <ToolFrame
+      title={pickText(TOOL('supply-chain-map').title, lang)}
+      description={pickText(TOOL('supply-chain-map').description, lang)}
+      variant="inline"
+      lang={lang as any}
+      standaloneHref={TOOL('supply-chain-map').path}
+      embedHref={TOOL('supply-chain-map').embedPath}
+    >
+      <SupplyChainMap lang={lang} variant="inline" idPrefix="inline-chain" />
+      <p slot="sources">
+        {ti('tool.chain.sourcesShort', { date: '2026-11-10' })}
+      </p>
+      <p slot="disclaimer">{ti('tool.chain.disclaimer')}</p>
+    </ToolFrame>
+    {
+      REL.s4.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s4.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

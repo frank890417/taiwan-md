@@ -1,0 +1,112 @@
+---
+/**
+ * §9 Resources — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const {
+  S,
+  chainsHref,
+  companiesHref,
+  groups,
+  sourceList,
+  t,
+  ti,
+  translatePath,
+  timelineHref,
+} = await industryPageData(lang);
+---
+
+<!-- §9 工具、資料、全部文章 -->
+<section class="bp-section" id="s9">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s9.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s9.h2')}</h2>
+    <div class="ind-cards">
+      <a class="ind-card" href={`${companiesHref}#rank`}>
+        <span class="ind-card-k">{ti('s9.tool.k')}</span>
+        <h4>{ti('s9.tool.rank.h')}</h4>
+        <p>{ti('s9.tool.rank.p')}</p>
+        <span class="ind-card-cta">{ti('s9.tool.rank.cta')} →</span>
+      </a>
+      <a class="ind-card" href={chainsHref}>
+        <span class="ind-card-k">{ti('s9.tool.k')}</span>
+        <h4>{ti('s9.tool.chains.h')}</h4>
+        <p>{ti('s9.tool.chains.p')}</p>
+        <span class="ind-card-cta">{ti('s9.tool.chains.cta')} →</span>
+      </a>
+      <a class="ind-card" href={timelineHref}>
+        <span class="ind-card-k">{ti('s9.tool.k')}</span>
+        <h4>{ti('s9.tool.tl.h')}</h4>
+        <p>{ti('s9.tool.tl.p')}</p>
+        <span class="ind-card-cta">{ti('s9.tool.tl.cta')} →</span>
+      </a>
+      <a class="ind-card" href="/data/taiwan-industry.json">
+        <span class="ind-card-k">{ti('s9.tool.k')}</span>
+        <h4>{ti('s9.tool.data.h')}</h4>
+        <p>{ti('s9.tool.data.p')}</p>
+        <span class="ind-card-cta">{ti('s9.tool.data.cta')} →</span>
+      </a>
+    </div>
+
+    <h3 class="bp-h3">{ti('s9.articles.h')}</h3>
+    {
+      groups
+        .filter((g) => g.cards.length > 0)
+        .map((g) => (
+          <div class="ind-group">
+            <h4>{ti(g.k)}</h4>
+            <div class="bp-related is-inline">
+              {g.cards.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          </div>
+        ))
+    }
+    <div class="bp-related" style="margin-top:1.25rem">
+      <a href={translatePath('/data')}>📊 {t('nav.data')}</a>
+      <a href={translatePath('/budget')}>🧾 {t('nav.data.budget')}</a>
+      <a href={translatePath('/timeline')}>🕰️ {ti('s9.link.timeline')}</a>
+      <a href={translatePath('/map')}>🗺️ {ti('s9.link.map')}</a>
+      <a href={translatePath('/graph')}>🕸️ {t('nav.graph-view')}</a>
+    </div>
+
+    <h3 class="bp-h3">{ti('s9.sources.h')}</h3>
+    <div class="bp-prose">
+      <p>{ti('s9.sources.p')}</p>
+    </div>
+    <ul class="bp-sources">
+      {
+        sourceList.map((s: any) => (
+          <li>
+            <a href={s.url} target="_blank" rel="noopener">
+              {s.publisher}：{s.title}
+            </a>
+            {s.accessed && ` （${ti('label.accessed')} ${s.accessed}）`}
+          </li>
+        ))
+      }
+    </ul>
+    <div class="bp-related">
+      <a
+        href="https://github.com/frank890417/taiwan-md/tree/main/data/industry/research"
+        target="_blank"
+        rel="noopener">⬇︎ {ti('s9.research')}</a
+      >
+      <a
+        href="https://github.com/frank890417/taiwan-md/issues/new"
+        target="_blank"
+        rel="noopener">✎ {ti('s9.corrections')}</a
+      >
+    </div>
+    <p class="bg-chart-src">{ti('label.generated')} {S.generated}</p>
+  </div>
+</section>

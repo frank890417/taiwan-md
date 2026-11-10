@@ -1,7 +1,204 @@
 {
-  "institutions": {},
-  "tsmc": [],
-  "strengths": [],
-  "constraints": [],
-  "scheduled": []
+  "institutions": {
+    "policy": {
+      "url": "https://50th.itri.org.tw/history/origin/46/"
+    },
+    "parks": {
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160004"
+    },
+    "tax": {
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051"
+    },
+    "capital": {
+      "url": "https://www.twse.com.tw/zh/listed/method/standars.html"
+    }
+  },
+  "tsmc": [
+    {
+      "id": "adv",
+      "v": "74%",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "l": {
+        "zh": "7 奈米及更先進製程占台積電 2025 年晶圓銷售（2024 年是 69%）",
+        "en": "Share of TSMC’s 2025 wafer revenue from 7-nanometre and more advanced processes (69% in 2024)"
+      }
+    },
+    {
+      "id": "hpc",
+      "v": "58%",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "l": {
+        "zh": "高效能運算平台占台積電 2025 年營收（2023 年是 43%）",
+        "en": "Share of TSMC’s 2025 revenue from the high-performance-computing platform (43% in 2023)"
+      }
+    },
+    {
+      "id": "cap",
+      "v": "44%",
+      "url": "https://www.trendforce.com/news/2024/05/14/insights-trendforce-foundry-capacity-market-share-of-advanced-process-to-decline-in-taiwan-korea-until-2027-while-us-on-the-rise/",
+      "l": {
+        "zh": "TrendForce 估 2024 年台灣占全球晶圓代工產能；16/14 奈米及更先進製程是 66%",
+        "en": "TrendForce’s estimate of Taiwan’s share of global foundry capacity in 2024; 66% for 16/14-nanometre and more advanced processes"
+      }
+    },
+    {
+      "id": "emp",
+      "v": "90,557",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "l": {
+        "zh": "台積電 2025 年底全球員工數",
+        "en": "TSMC employees worldwide at the end of 2025"
+      }
+    }
+  ],
+  "strengths": [
+    {
+      "id": "ic",
+      "url": "#s4",
+      "t": {
+        "zh": "半導體製造的規模：2025 年 IC 產業產值 6.52 兆元，其中晶圓代工 4.17 兆元。",
+        "en": "Scale in chip manufacturing: IC industry output of NT$6.52 trillion in 2025, of which foundry was NT$4.17 trillion."
+      }
+    },
+    {
+      "id": "adv",
+      "url": "https://www.trendforce.com/news/2024/05/14/insights-trendforce-foundry-capacity-market-share-of-advanced-process-to-decline-in-taiwan-korea-until-2027-while-us-on-the-rise/",
+      "t": {
+        "zh": "先進製程的產能大半在台灣：TrendForce 估 2024 年台灣占全球 16/14 奈米及更先進製程產能的 66%。",
+        "en": "Most leading-edge capacity is in Taiwan: TrendForce put Taiwan at 66% of global capacity at 16/14 nanometres and below in 2024."
+      }
+    },
+    {
+      "id": "chain",
+      "url": "#s3",
+      "t": {
+        "zh": "從晶片到整機都有人做：資通與視聽產品 2025 年占出口 39.2%，電子零組件占 34.7%。",
+        "en": "Everything from chip to finished system is made here: ICT and audio-video products were 39.2% of 2025 exports and electronic components 34.7%."
+      }
+    },
+    {
+      "id": "parks",
+      "url": "#s2",
+      "t": {
+        "zh": "三個科學園區 2025 年營業額 5.80 兆元，從業員工 34 萬人，新的基地還在核定。",
+        "en": "The three science parks made NT$5.80 trillion in 2025 with 340,000 employees, and new bases are still being approved."
+      }
+    },
+    {
+      "id": "growth",
+      "url": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10315/2711/table(060a).xlsx",
+      "t": {
+        "zh": "整體經濟跟著成長：主計總處統計 2025 年經濟成長率 8.76%。",
+        "en": "The economy as a whole has grown with it: 8.76% in 2025 by DGBAS figures."
+      }
+    }
+  ],
+  "constraints": [
+    {
+      "id": "export",
+      "url": "#s3",
+      "t": {
+        "zh": "出口集中在一類產品與一個市場：2025 年 74% 是電子零組件與資通產品，31% 賣到美國。",
+        "en": "Exports are concentrated in one kind of product and one market: 74% electronic components and ICT products in 2025, and 31% sold to the United States."
+      }
+    },
+    {
+      "id": "market",
+      "url": "#s5",
+      "t": {
+        "zh": "市值集中在一家公司：台積電占上市櫃市值 38%，電子產業占上市股價指數權重 76%。",
+        "en": "Market value is concentrated in one company: TSMC is 38% of the listed market, and electronics is 76% of the TWSE index by weight."
+      }
+    },
+    {
+      "id": "power",
+      "url": "https://www.moeaea.gov.tw/ECW/populace/content/ContentDesc.aspx?menu_id=27046",
+      "t": {
+        "zh": "電：能源署預估 2026 到 2035 年用電需求年均成長 2.5%，是過去十年的兩倍。",
+        "en": "Power: the Energy Administration projects electricity demand to grow 2.5% a year from 2026 to 2035, twice the pace of the past decade."
+      }
+    },
+    {
+      "id": "trad",
+      "url": "https://www.cbc.gov.tw/dl-227037-afea31428f8240059ee02ec018ba69a8.html",
+      "t": {
+        "zh": "傳統製造業的份量在縮：占製造業產值從 2017 年的 62.7% 降到 2024 年的 53.7%（央行整理）。",
+        "en": "Traditional manufacturing is shrinking in weight: from 62.7% of manufacturing output in 2017 to 53.7% in 2024 (central bank compilation)."
+      }
+    },
+    {
+      "id": "place",
+      "url": "#s6",
+      "t": {
+        "zh": "地理上也集中：工廠營收的四分之三落在六個縣市。",
+        "en": "It is concentrated geographically too: three-quarters of factory revenue is in six counties and cities."
+      }
+    },
+    {
+      "id": "share",
+      "url": "https://www.trendforce.com/news/2024/05/14/insights-trendforce-foundry-capacity-market-share-of-advanced-process-to-decline-in-taiwan-korea-until-2027-while-us-on-the-rise/",
+      "t": {
+        "zh": "先進製程的占比預估會降：TrendForce 估 2027 年台灣在 16/14 奈米及更先進製程產能的占比從 66% 降到 55%。",
+        "en": "The leading-edge share is projected to fall: TrendForce expects Taiwan’s share of capacity at 16/14 nanometres and below to drop from 66% to 55% by 2027."
+      }
+    }
+  ],
+  "scheduled": [
+    {
+      "id": "az",
+      "url": "https://pr.tsmc.com/english/news/3210",
+      "t": {
+        "zh": "台積電亞利桑那：累計投資規劃 1,650 億美元（2025 年 3 月公告）。年報寫第二座晶圓廠預計 2027 年下半年量產。",
+        "en": "TSMC Arizona: cumulative planned investment of US$165 billion (announced March 2025). The annual report expects the second fab to enter volume production in the second half of 2027."
+      }
+    },
+    {
+      "id": "jp",
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "t": {
+        "zh": "台積電熊本：第二座晶圓廠 2025 年開始興建，年報寫規劃採用 3 奈米製程。",
+        "en": "TSMC Kumamoto: construction of the second fab began in 2025; the annual report says it is planned for 3-nanometre technology."
+      }
+    },
+    {
+      "id": "tax",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
+      "t": {
+        "zh": "租稅優惠的期限：產業創新條例的研發與設備投資抵減，多數條文適用到 2029 年 12 月 31 日。",
+        "en": "The tax incentives have an end date: most R&D and equipment credits in the Statute for Industrial Innovation apply until 31 December 2029."
+      }
+    },
+    {
+      "id": "s232",
+      "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+      "t": {
+        "zh": "美國的半導體 232 調查：第一階段 2026 年 1 月公告，第二階段還沒有官方結果。行政院的說明是臺美協定已載明臺灣取得最優惠待遇，具體稅率未公告。",
+        "en": "The US Section 232 semiconductor investigation: phase one was proclaimed in January 2026; phase two has no official outcome yet. The Executive Yuan says the Taiwan–US agreement secures most-favoured treatment for Taiwan, with no specific rate announced."
+      }
+    },
+    {
+      "id": "parks",
+      "url": "https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=DEFAULT&thisRootID=732",
+      "t": {
+        "zh": "科學園區繼續往南：南科的屏東、嘉義園區 2022 年核定，楠梓園區 2023 年核定，沙崙園區 2025 年 12 月核定。",
+        "en": "Science parks keep moving south: the Southern park’s Pingtung and Chiayi bases were approved in 2022, Nanzih in 2023 and Shalun in December 2025."
+      }
+    },
+    {
+      "id": "sme",
+      "url": "https://www.sme.gov.tw/article-tw-2276-15109",
+      "t": {
+        "zh": "中小微企業：行政院 2026 年 9 月的規劃是八年內再投入 1,000 億元到轉型升級發展基金。",
+        "en": "Small firms: the Executive Yuan’s September 2026 plan is to add NT$100 billion over eight years to a transformation and upgrading fund."
+      }
+    },
+    {
+      "id": "re",
+      "url": "https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.C.pdf",
+      "t": {
+        "zh": "台積電的再生能源目標：2030 年占比 60%，2040 年 100%；2025 年是 20.1%。",
+        "en": "TSMC’s renewable-energy targets: 60% by 2030 and 100% by 2040; the 2025 figure was 20.1%."
+      }
+    }
+  ]
 }

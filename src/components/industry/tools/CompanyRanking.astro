@@ -1,0 +1,370 @@
+---
+/**
+ * CompanyRanking — 市值前 50 大排行表工具（契約 v1 第 4 節 (a)）。
+ * /companies（variant="page"）、專題頁（"inline"）與內嵌板（"embed"）共用同一張表。
+ *
+ * 表格本體 SSR 五十列，搜尋引擎與 AI 爬蟲讀得到；排序、產業別與總部縣市篩選是漸進增強，
+ * 狀態同步到查詢參數（?sort=revenue&dir=desc&industry=24&county=新竹市）。
+ * 計算全部在 src/utils/industry/companiesRank.ts，這裡只做 DOM。
+ * 同一頁可放多個實例（不用 id；列的錨點 id 只在 anchors=true 時輸出，/companies 用）。
+ */
+import '../../../styles/industry.css';
+import { useTranslations } from '../../../i18n/utils';
+import { useIndustryT } from '../../../i18n/industry';
+import {
+  COMPANIES_SNAPSHOT_DATE,
+  getCompanyConfigs,
+  localizeCompanyArticleUrls,
+  sectorColors,
+} from '../../../utils/dataConfig';
+import {
+  assignRanks,
+  displayMoney,
+  groupBy,
+  rankDelta,
+  summarize,
+  type RankRow,
+} from '../../../utils/industry/companiesRank';
+import companiesMeta from '../../../data/industry/companies-meta.json';
+
+interface Props {
+  lang: string;
+  variant?: 'inline' | 'page' | 'embed';
+  /** 列上輸出 id="c-<代號>"，讓別的頁可以連到某一列。一頁只能有一個實例開這個。 */
+  anchors?: boolean;
+  /** 固定深色底（/companies 整頁是深色面板） */
+  dark?: boolean;
+  /** 只顯示前 N 列，其餘收在「顯示全部」後面（專題頁內嵌用） */
+  limit?: number;
+}
+const {
+  lang,
+  variant = 'inline',
+  anchors = false,
+  dark = false,
+  limit,
+} = Astro.props;
+const t = useTranslations(lang as any);
+const ti = useIndustryT(lang);
+// 內嵌板不出站內文章連結
+const base = getCompanyConfigs(t);
+const companies =
+  variant === 'embed'
+    ? base.map((c) => ({ ...c, articleUrl: undefined }))
+    : localizeCompanyArticleUrls(base, lang);
+const metaOf = (ticker: string) =>
+  (companiesMeta.companies as Record<string, any>)[ticker];
+const ranked = assignRanks(companies).map((c) => {
+  const m = metaOf(c.ticker);
+  return {
+    ...c,
+    industryCode: (m?.industryCode ?? '') as string,
+    county: (m?.county ?? '') as string,
+    prevRank: (m?.prevRank ?? null) as number | null,
+  };
+});
+const rankRows: RankRow[] = ranked;
+const top50Cap = summarize(rankRows).capSum;
+const industryOptions = groupBy(rankRows, 'industryCode');
+const countyOptions = groupBy(rankRows, 'county');
+const num = (v: number) =>
+  displayMoney(v, lang).toLocaleString(undefined, { maximumFractionDigits: 1 });
+const change = (c: { rank: number; prevRank: number | null }) => {
+  const d = rankDelta(c);
+  if (d === null) return { cls: 'is-new', text: ti('co.change.new'), mark: '' };
+  if (d === 0) return { cls: 'is-same', text: ti('co.change.same'), mark: '–' };
+  return d > 0
+    ? { cls: 'is-up', text: ti('co.change.up', { n: d }), mark: `▲${d}` }
+    : { cls: 'is-down', text: ti('co.change.down', { n: -d }), mark: `▼${-d}` };
+};
+---
+
+<div
+  class:list={['ind-tool', 'ind-rank', dark && 'is-dark']}
+  data-ind-ranking
+  data-variant={variant}
+  data-top50={top50Cap}
+  data-lang={lang}
+  data-unit={ti('co.unit.money')}
+  data-summary={ti('co.summary')}
+  data-empty={ti('co.summary.empty')}
+  data-limit={limit ?? ''}
+>
+  <form
+    class="ind-rank-controls"
+    data-controls
+    aria-label={ti('co.ctl.h')}
+    hidden
+  >
+    <label>
+      <span>{ti('co.ctl.sort')}</span>
+      <select name="sort">
+        <option value="rank">{ti('co.sort.rank')}</option>
+        <option value="marketCap">{ti('co.sort.marketCap')}</option>
+        <option value="revenue">{ti('co.sort.revenue')}</option>
+        <option value="employees">{ti('co.sort.employees')}</option>
+        <option value="founded">{ti('co.sort.founded')}</option>
+      </select>
+    </label>
+    <label>
+      <span>{ti('co.ctl.industry')}</span>
+      <select name="industry">
+        <option value="">{ti('co.ctl.all')}</option>
+        {
+          industryOptions.map((g) => (
+            <option value={g.key}>
+              {ti(`tse.${g.key}`)}（{g.count}）
+            </option>
+          ))
+        }
+      </select>
+    </label>
+    <label>
+      <span>{ti('co.ctl.county')}</span>
+      <select name="county">
+        <option value="">{ti('co.ctl.all')}</option>
+        {
+          countyOptions.map((g) => (
+            <option value={g.key}>
+              {ti(`county.${g.key}`)}（{g.count}）
+            </option>
+          ))
+        }
+      </select>
+    </label>
+    <button type="reset" class="ind-rank-reset">{ti('co.ctl.reset')}</button>
+  </form>
+  <p class="ind-rank-summary" data-summary-out aria-live="polite">
+    {
+      ti('co.summary', {
+        n: rankRows.length,
+        cap: `${num(top50Cap)} ${ti('co.unit.money')}`,
+        pct: '100.0',
+      })
+    }
+  </p>
+  <div class="ind-rank-wrap">
+    <table class="ind-rank-table">
+      <thead>
+        <tr>
+          <th data-sort="rank">{t('data.companies.table.rank')}</th>
+          <th>{t('data.companies.table.company')}</th>
+          <th>{t('data.companies.table.sector')}</th>
+          <th class="num" data-sort="marketCap"
+            >{t('data.companies.table.marketCap')}</th
+          >
+          <th class="num" data-sort="revenue"
+            >{t('data.companies.table.revenue')}</th
+          >
+          <th class="num" data-sort="employees"
+            >{t('data.companies.table.employees')}</th
+          >
+          <th class="num" data-sort="founded"
+            >{t('data.companies.table.founded')}</th
+          >
+          <th>{ti('co.col.hq')}</th>
+          <th>{ti('co.col.change')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          ranked.map((c) => {
+            const ch = change(c);
+            return (
+              <tr
+                id={anchors ? `c-${c.ticker}` : undefined}
+                data-ticker={c.ticker}
+                data-rank={c.rank}
+                data-cap={c.marketCap}
+                data-rev={c.revenue}
+                data-emp={c.employees}
+                data-founded={c.founded}
+                data-ind={c.industryCode}
+                data-county={c.county}
+                data-prev={c.prevRank ?? ''}
+              >
+                <td>{c.rank}</td>
+                <td>
+                  {c.articleUrl ? (
+                    <a href={c.articleUrl} class="ind-rank-link">
+                      {c.name}
+                    </a>
+                  ) : (
+                    <strong>{c.name}</strong>
+                  )}
+                  <span class="ind-rank-ticker">{c.ticker}</span>
+                </td>
+                <td>
+                  <span
+                    class="ind-rank-tag"
+                    style={`--tag:${sectorColors[c.sector] || '#888'}`}
+                  >
+                    {t(`data.sector.${c.sector}` as any)}
+                  </span>
+                </td>
+                <td class="num">{num(c.marketCap)}</td>
+                <td class="num">{num(c.revenue)}</td>
+                <td class="num">{c.employees.toLocaleString()}</td>
+                <td class="num">{c.founded}</td>
+                <td class="hq">{c.county ? ti(`county.${c.county}`) : '—'}</td>
+                <td class={`chg ${ch.cls}`}>
+                  {ch.mark ? <span title={ch.text}>{ch.mark}</span> : ch.text}
+                </td>
+              </tr>
+            );
+          })
+        }
+      </tbody>
+    </table>
+  </div>
+  <button type="button" class="ind-rank-more" data-more hidden>
+    {ti('co.more')}
+  </button>
+  <p class="ind-rank-note">
+    {ti('co.disclaimer.p', { date: COMPANIES_SNAPSHOT_DATE })}
+  </p>
+  <p class="ind-rank-note">{ti('co.note.change')}</p>
+  <p class="ind-rank-note">
+    {ti('co.note.hq', { date: companiesMeta.basicDataAsOf })}
+  </p>
+</div>
+
+<script>
+  import {
+    applyState,
+    defaultDir,
+    displayMoney,
+    parseState,
+    serializeState,
+    summarize,
+    DEFAULT_STATE,
+    type RankRow,
+    type RankState,
+    type SortKey,
+  } from '../../../utils/industry/companiesRank';
+
+  for (const root of document.querySelectorAll<HTMLElement>(
+    '[data-ind-ranking]',
+  )) {
+    const form = root.querySelector<HTMLFormElement>('[data-controls]');
+    const table = root.querySelector('table');
+    const out = root.querySelector<HTMLElement>('[data-summary-out]');
+    const more = root.querySelector<HTMLButtonElement>('[data-more]');
+    if (!form || !table || !out) continue;
+    const tbody = table.querySelector('tbody')!;
+    const byTicker = new Map<string, HTMLTableRowElement>();
+    const rows: RankRow[] = Array.from(
+      tbody.querySelectorAll<HTMLTableRowElement>('tr'),
+    ).map((tr) => {
+      const d = tr.dataset;
+      byTicker.set(d.ticker!, tr);
+      return {
+        ticker: d.ticker!,
+        rank: Number(d.rank),
+        marketCap: Number(d.cap),
+        revenue: Number(d.rev),
+        employees: Number(d.emp),
+        founded: Number(d.founded),
+        industryCode: d.ind || '',
+        county: d.county || '',
+        prevRank: d.prev ? Number(d.prev) : null,
+      };
+    });
+    const top50 = Number(root.dataset.top50);
+    const lang = root.dataset.lang || 'zh-TW';
+    let limit = Number(root.dataset.limit) || 0;
+    const heads = Array.from(
+      table.querySelectorAll<HTMLTableCellElement>('th[data-sort]'),
+    );
+    const sel = (n: string) => form.elements.namedItem(n) as HTMLSelectElement;
+    let state: RankState = parseState(location.search);
+
+    const render = (push: boolean) => {
+      const shown = applyState(rows, state);
+      const keep = new Set(shown.map((r) => r.ticker));
+      shown.forEach((r, i) => {
+        const tr = byTicker.get(r.ticker)!;
+        tbody.appendChild(tr);
+        tr.hidden = limit > 0 && i >= limit;
+      });
+      for (const [ticker, tr] of byTicker)
+        if (!keep.has(ticker)) tr.hidden = true;
+      if (more) more.hidden = !(limit > 0 && shown.length > limit);
+      const s = summarize(shown, top50);
+      out.textContent = s.count
+        ? (root.dataset.summary || '')
+            .replace('{n}', String(s.count))
+            .replace(
+              '{cap}',
+              `${displayMoney(s.capSum, lang).toLocaleString()} ${root.dataset.unit}`,
+            )
+            .replace('{pct}', (s.capSharePct ?? 0).toFixed(1))
+        : root.dataset.empty || '';
+      for (const th of heads) {
+        const on = th.dataset.sort === state.sort;
+        th.setAttribute(
+          'aria-sort',
+          on ? (state.dir === 'asc' ? 'ascending' : 'descending') : 'none',
+        );
+      }
+      sel('sort').value = state.sort;
+      sel('industry').value = state.industry;
+      sel('county').value = state.county;
+      if (push) {
+        const u = new URL(location.href);
+        for (const k of ['sort', 'dir', 'industry', 'county'])
+          u.searchParams.delete(k);
+        new URLSearchParams(serializeState(state)).forEach((v, k) =>
+          u.searchParams.set(k, v),
+        );
+        history.replaceState(null, '', u);
+      }
+    };
+    form.addEventListener('change', () => {
+      const sort = sel('sort').value as SortKey;
+      state = {
+        sort,
+        dir: sort === state.sort ? state.dir : defaultDir(sort),
+        industry: sel('industry').value,
+        county: sel('county').value,
+      };
+      render(true);
+    });
+    form.addEventListener('reset', (e) => {
+      e.preventDefault();
+      state = { ...DEFAULT_STATE };
+      render(true);
+    });
+    for (const th of heads) {
+      th.tabIndex = 0;
+      const act = () => {
+        const key = th.dataset.sort as SortKey;
+        state = {
+          ...state,
+          sort: key,
+          dir:
+            state.sort === key
+              ? state.dir === 'asc'
+                ? 'desc'
+                : 'asc'
+              : defaultDir(key),
+        };
+        render(true);
+      };
+      th.addEventListener('click', act);
+      th.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          act();
+        }
+      });
+    }
+    more?.addEventListener('click', () => {
+      limit = 0;
+      render(false);
+    });
+    form.hidden = false;
+    table.classList.add('is-sortable');
+    render(false);
+  }
+</script>

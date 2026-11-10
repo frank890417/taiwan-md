@@ -1,0 +1,62 @@
+---
+/**
+ * /industry/supply-chain-map/ — 供應鏈地圖單獨頁（契約 v1 第 4 節 (b)，版型用共用的 ToolPage）。
+ * 工具本體：src/components/industry/tools/SupplyChainMap.astro。
+ */
+import ToolPage from '../components/tools/ToolPage.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import SupplyChainMap from '../components/industry/tools/SupplyChainMap.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useIndustryT } from '../i18n/industry';
+import { getTopic, pickText } from '../utils/topics/registry';
+import { relatedList } from '../utils/industry/related';
+import chains from '../data/industry/content/chains.json';
+
+const lang = getLangFromUrl(Astro.url);
+const ti = useIndustryT(lang);
+const topic = getTopic('industry')!;
+const tool = topic.tools.find((x) => x.slug === 'supply-chain-map')!;
+const arts = await relatedList(lang, [
+  ['Technology', '半導體產業'],
+  ['Technology', 'AI硬體供應鏈'],
+  ['Technology', '台灣鎢供應鏈'],
+  ['Technology', 'NVIDIA在台灣'],
+]);
+const related = [
+  { href: '/companies/', label: ti('tool.related.ranking') },
+  { href: '/industry/timeline/', label: ti('tool.related.timeline') },
+  ...arts.map((a) => ({ href: a.href, label: a.title })),
+];
+const faq = [1, 2, 3, 4, 5].map((n) => ({
+  q: ti(`tool.chain.faq${n}.q`),
+  a: ti(`tool.chain.faq${n}.a`),
+}));
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={tool}
+  metaTitle={ti('tool.chain.metaTitle')}
+  metaDescription={ti('tool.chain.metaDescription')}
+  howItWorks={ti('tool.chain.how')}
+  faq={faq}
+  related={related}
+  updated={(chains as any).asOf}
+  embedPath={tool.embedPath}
+  embedHeight={900}
+>
+  <ToolFrame
+    title={pickText(tool.title, lang)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    <SupplyChainMap lang={lang} variant="page" />
+    <p slot="disclaimer">{ti('tool.chain.disclaimer')}</p>
+  </ToolFrame>
+  <Fragment slot="reading"><p>{ti('tool.chain.reading')}</p></Fragment>
+  <Fragment slot="method"><p>{ti('tool.chain.method')}</p></Fragment>
+  <Fragment slot="sources"><p>{ti('tool.chain.sources')}</p></Fragment>
+  <p slot="disclaimer">{ti('tool.chain.disclaimer')}</p>
+</ToolPage>

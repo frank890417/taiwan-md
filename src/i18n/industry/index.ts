@@ -1,5 +1,5 @@
 /**
- * industry/index.ts — 「台灣產業與上市公司」專題（/industry、/industry/supply-chains、/companies 升級）
+ * industry/index.ts — 「台灣產業與上市公司」專題（/industry、/industry/supply-chain-map、/companies 升級）
  * 的 UI 字串查表。
  *
  * 這組鍵刻意不展開進 src/i18n/ui.ts：2026-11 同時有四個專題分支，各自往 ui.ts 的同一段加鍵，

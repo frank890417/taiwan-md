@@ -313,7 +313,7 @@ export const en: Record<keyof typeof zh, string> = {
   's9.tool.tl.h': 'Industry timeline',
   's9.tool.tl.p':
     'From the 1950s to 2026 on four tracks — policy, companies, capital market, international — viewable separately.',
-  's9.tool.tl.cta': 'Back to the timeline',
+  's9.tool.tl.cta': 'Open the timeline',
   's9.tool.data.h': 'Data download',
   's9.tool.data.p':
     'Every series on this page with its unit, source URL and access date, in one JSON file. CC BY-SA 4.0.',
@@ -398,7 +398,7 @@ export const en: Record<keyof typeof zh, string> = {
   's2.tool.capital.h':
     'Capital market: four boards for companies of different sizes',
 
-  // ── /industry/supply-chains ────────────────────────────────────────
+  // ── /industry/supply-chain-map ────────────────────────────────────────
   'ch.meta.title':
     'Taiwan Supply-Chain Maps: semiconductors, AI servers and tungsten, link by link',
   'ch.meta.description':
@@ -454,4 +454,97 @@ export const en: Record<keyof typeof zh, string> = {
   'mh.2409': 'AUO',
   'mh.1326': 'Formosa Chemicals & Fibre',
   'label.reported': ' (paraphrase, not a verbatim quote)',
+
+  's2.tool.policy.p':
+    'From the medium-term plans that began in 1953 to the “5+2” programme of 2016 and the Six Core Strategic Industries of 2020, the government has kept naming the industries it means to foster. It supplied technology too: ITRI was founded in 1973, integrated-circuit technology was brought in from RCA in 1976, and UMC was spun off from ITRI in 1980.',
+  's2.tool.parks.p':
+    'Science parks are run by three bureaus under the National Science and Technology Council. Park enterprises import machinery, equipment and materials for their own use free of import duty, commodity tax and business tax; exports are zero-rated for business tax.',
+  's2.tool.tax.p':
+    'The Statute for the Encouragement of Investment (1960), the Statute for Upgrading Industries (in force 1991) and the Statute for Industrial Innovation (2010) followed one another. Most current R&D credits run to the end of 2029, including Article 10-2, added in 2023: 25% of forward-looking innovative R&D spending can be credited against corporate income tax.',
+  's2.tool.capital.p':
+    'A TWSE listing requires three years since incorporation and paid-in capital of NT$600 million. The TPEx mainboard requires two full fiscal years and NT$50 million. The Emerging Stock Board has no size or profit threshold. The Taiwan Innovation Board, opened in 2021, sets no profit threshold and looks at market value instead.',
+  'co.more': 'Show all 50',
+  'ch.label.none': 'No Taiwanese company is listed for this link.',
+  'ch.tab.count': '{stages} links · {n} companies',
+
+  // ── Tool page: supply-chain map ────────────────────────────────────
+  'tool.chain.metaTitle':
+    'Taiwan Supply-Chain Map 2026: Chips, AI Servers, Tungsten',
+  'tool.chain.metaDescription':
+    'Three supply chains in 22 links: see what 50 Taiwanese companies do in each and which links rely on foreign suppliers. Sourced node by node, as of 2026-11-10.',
+  'tool.chain.how':
+    'Each company is placed according to the business overview in its annual report, its website, or the principal business registered on the Market Observation Post System. The arrow beside a node leads to that source.',
+  'tool.chain.reading':
+    'Each chain runs from upstream on the left to downstream on the right. One card is one link: the first line says what the link does, followed by the Taiwanese companies in it and what each does. A dashed box says where the link depends mainly on foreign suppliers. Underlined company names lead to that company’s row in the market-cap ranking or to an article on this site.',
+  'tool.chain.method':
+    'Many companies span several links; only the main one is shown. Each link lists at most five companies and is not a complete roster. Market shares and rankings are omitted because such figures mostly come from paid market-research reports whose originals we cannot check. Only three chains have been drawn; bicycles, machine tools, display panels and offshore wind are still to come.',
+  'tool.chain.sources':
+    'Company roles: each company’s 2025 annual report (TWSE Market Observation Post System) and website. Foreign suppliers: ASML’s website and an SK hynix press release. Tungsten: US Geological Survey Mineral Commodity Summaries 2026 and China’s Ministry of Commerce Announcement No. 10 of 2025. Accessed 2026-11-10.',
+  'tool.chain.disclaimer':
+    'The companies and roles on this map are compiled from public information and are used only to describe supply-chain structure. Being listed is not a recommendation, and not being listed does not mean a company is unimportant. Taiwan.md does not rate individual stocks or forecast prices; nothing here is investment advice.',
+  'tool.chain.faq1.q': 'Where does TSMC sit in the supply chain?',
+  'tool.chain.faq1.a':
+    'In foundry: it manufactures chips on wafers to its customers’ designs. It also does advanced packaging — its annual report says the CoWoS service integrates multiple systems-on-chip with high-bandwidth memory — so it appears once more on the AI-server chain.',
+  'tool.chain.faq2.q': 'What are the links in the AI-server supply chain?',
+  'tool.chain.faq2.a':
+    'This map uses eight: chip design services, foundry and advanced packaging, substrates and circuit boards, cooling, power, chassis and rails, cables and connectors, and system and rack assembly.',
+  'tool.chain.faq3.q':
+    'Which links of the semiconductor chain does Taiwan lack?',
+  'tool.chain.faq3.a':
+    'Two that we can source: extreme-ultraviolet lithography machines come from ASML in the Netherlands, and for the EDA software used to design chips the annual reports name Cadence and Synopsys.',
+  'tool.chain.faq4.q': 'Why are there no market shares or rankings?',
+  'tool.chain.faq4.a':
+    'Market-share figures mostly come from paid research reports whose originals we cannot verify. The map shows only what each company says about its own business in its annual report or on its website.',
+  'tool.chain.faq5.q': 'What does tungsten have to do with semiconductors?',
+  'tool.chain.faq5.a':
+    'As tungsten hexafluoride gas and sputtering targets it is used in chip manufacturing; as tungsten carbide it is the material of cutting tools. China has applied export controls to tungsten-related items since February 2025.',
+  // ── Tool page: industry timeline ───────────────────────────────────
+  'tool.tl.metaTitle':
+    'Taiwan Industry Timeline 1953–2026: Policy, Firms, Markets',
+  'tool.tl.metaDescription':
+    'From the 1953 economic plans, the 1966 export zone, the 1980 science park and TSMC in 1987 to the 2026 Taiwan–US trade deal: 37 sourced events on four tracks.',
+  'tool.tl.how':
+    'Dates come from the legislative history in the national law database, from the responsible agency, or from the company’s own announcement. The dates on which the TAIEX first closed above round-number levels were found by checking the exchange’s historical index data day by day.',
+  'tool.tl.reading':
+    'Events are grouped into five periods, earliest first. The tag in front of each entry shows its track: policy and institutions, companies and technology, capital market, or international. Use the buttons above to view one track; the address changes with it and can be shared.',
+  'tool.tl.method':
+    'Only events with an official source, or a source from the institution concerned, are included. Some familiar claims are left out: the Ten Major Construction Projects have no single official completion date, so only the starting year is given; and the exact date in 1990 on which the TAIEX first passed 10,000 cannot be found in the exchange’s online data, so it is not listed.',
+  'tool.tl.sources':
+    'The Laws and Regulations Database, the Executive Yuan, the National Science and Technology Council and the three park bureaus, the TWSE, the TPEx, ITRI, TSMC press releases and the US Federal Register. The arrow beside each event leads to the original page. Accessed 2026-11-10.',
+  'tool.tl.disclaimer':
+    'The timeline organises public information. Companies and the index are mentioned as historical events only; nothing here is investment advice.',
+  'tool.tl.faq1.q': 'When was TSMC founded?',
+  'tool.tl.faq1.a':
+    'It was incorporated on 21 February 1987 and listed on 5 September 1994. The dates come from the company history in TSMC’s financial statements and from the TWSE company profile.',
+  'tool.tl.faq2.q': 'When was the Hsinchu Science Park established?',
+  'tool.tl.faq2.a':
+    'On 15 December 1980. The act governing science industrial parks had been promulgated the previous July.',
+  'tool.tl.faq3.q': 'Where was Taiwan’s first export processing zone?',
+  'tool.tl.faq3.a':
+    'In Kaohsiung, established on 3 December 1966. It was renamed a Technology Industrial Park in March 2021.',
+  'tool.tl.faq4.q': 'When did the TAIEX pass 40,000?',
+  'tool.tl.faq4.a':
+    'It first closed above 40,000 on 4 May 2026, at 40,705.14. It first closed above 30,000 on 5 January of the same year, and above 20,000 on 21 March 2024.',
+  'tool.tl.faq5.q': 'Has the Taiwan–US trade agreement entered into force?',
+  'tool.tl.faq5.a':
+    'The agreement was signed on 12 February 2026. As of 10 November 2026 we could find no notice of its entry into force.',
+  // ── Embeds and tool frames ─────────────────────────────────────────
+  'tool.rank.sources':
+    'Market cap: TWSE and TPEx OpenAPI, close of {date}. Revenue: company filings for full-year 2025.',
+  'tool.chain.sourcesShort':
+    'Company annual reports and websites, accessed {date}',
+  'tool.tl.sourcesShort':
+    'Law database, agency and company announcements, accessed 2026-11-10',
+  'tool.rank.embedNote':
+    'TWSE and TPEx; market cap as of the close on {date}. Organised public data, not investment advice.',
+  'tool.related.industry':
+    'Taiwan’s Industries: exports, GDP, science parks and six debates',
+  'tool.related.ranking': 'Top 50 by market cap: sortable and filterable',
+  'tool.related.chain':
+    'Supply-chain map: semiconductors, AI servers, tungsten',
+  'tool.related.timeline': 'Industry timeline 1953–2026',
+  's4.tool.note':
+    'The full supply-chain map is below: switch between the three chains, or look up which link a company sits in.',
+  's5.tool.note':
+    'The top ten are shown first; press “Show all 50” to expand, or use the menus above to sort and filter.',
 };

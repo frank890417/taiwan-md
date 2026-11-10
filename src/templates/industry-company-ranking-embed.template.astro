@@ -1,0 +1,30 @@
+---
+/**
+ * /embed/industry/company-ranking/ — 內嵌板（契約 v1 第 4 節 (c)）：只有工具本體，noindex，canonical 指向單獨頁。
+ */
+import EmbedLayout from '../layouts/EmbedLayout.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import CompanyRanking from '../components/industry/tools/CompanyRanking.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useIndustryT } from '../i18n/industry';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+import { COMPANIES_SNAPSHOT_DATE } from '../utils/dataConfig';
+
+const lang = getLangFromUrl(Astro.url);
+const ti = useIndustryT(lang);
+const tool = getTopic('industry')!.tools.find(
+  (x) => x.slug === 'company-ranking',
+)!;
+const title = pickText(tool.title, lang);
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={ti('tool.rank.embedNote', { date: COMPANIES_SNAPSHOT_DATE })}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    <CompanyRanking lang={lang} variant="embed" />
+  </ToolFrame>
+</EmbedLayout>

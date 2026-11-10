@@ -1,1 +1,1050 @@
-{ "asOf": "2026-11-10", "chains": [] }
+{
+  "asOf": "2026-11-10",
+  "chains": [
+    {
+      "id": "semi",
+      "title": {
+        "zh": "半導體",
+        "en": "Semiconductors"
+      },
+      "lede": {
+        "zh": "從一段可以授權的電路，到一顆測試完成的晶片。台灣在設計、代工、封裝測試都有公司，最關鍵的曝光機與設計軟體來自國外。",
+        "en": "From a licensable block of circuitry to a fully tested chip. Taiwan has companies in design, foundry, and packaging and testing; the most critical lithography machines and design software come from abroad."
+      },
+      "articles": [
+        ["Technology", "半導體產業"],
+        ["Economy", "台灣企業：台積電"],
+        ["Technology", "半導體用水與台灣水資源"],
+        ["Technology", "台灣的電力與半導體"]
+      ],
+      "stages": [
+        {
+          "id": "ip-design-service",
+          "name": {
+            "zh": "矽智財與設計服務",
+            "en": "Silicon IP and design services"
+          },
+          "what": {
+            "zh": "把現成的電路模組授權給晶片公司，或幫客戶把客製晶片設計到可以投片",
+            "en": "Licensing ready-made circuit blocks to chip companies, or taking a customer's custom chip design through to tape-out"
+          },
+          "companies": [
+            {
+              "id": "3443",
+              "name": "創意",
+              "role": {
+                "zh": "研究、開發、生產、製造及銷售各種應用積體電路（嵌入式記憶體及邏輯元件、設計用元件資料庫、設計用自動化工具），並提供客戶委託之技術服務",
+                "en": "Research, development, production, manufacturing, and sale of application-specific integrated circuits (embedded memory and logic components, design cell libraries, design automation tools), plus contracted technical services for customers"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3443",
+              "hq": "新竹市",
+              "latin": "GUC"
+            },
+            {
+              "id": "3661",
+              "name": "世芯-KY",
+              "role": {
+                "zh": "專為系統公司開發高複雜度、高產量的特殊應用積體電路（ASIC）及系統單晶片（SoC）設計及製造生產",
+                "en": "Design and manufacturing of highly complex, high-volume application-specific integrated circuits (ASIC) and systems-on-chip (SoC) developed for system companies"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+              "ticker": "3661",
+              "hq": "臺北市",
+              "latin": "Alchip"
+            },
+            {
+              "id": "3529",
+              "name": "力旺",
+              "role": {
+                "zh": "嵌入式非揮發性記憶體 IP 授權及技術服務",
+                "en": "Embedded non-volatile memory IP licensing and technical services"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3529",
+              "hq": "新竹市",
+              "latin": "eMemory"
+            },
+            {
+              "id": "6643",
+              "name": "M31",
+              "role": {
+                "zh": "矽智財授權金及權利金（矽智財授權）",
+                "en": "Silicon IP licensing fees and royalties (silicon IP licensing)"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6643",
+              "hq": "新竹縣",
+              "latin": "M31"
+            }
+          ],
+          "gap": {
+            "zh": "設計晶片用的 EDA 軟體。創意的年報列出的矽智財夥伴有 Cadence 與 Synopsys；我們看過的年報沒有列出台灣自有的 EDA 供應者。",
+            "en": "EDA software used to design chips. GUC's annual report lists Cadence and Synopsys as silicon IP partners; none of the annual reports we reviewed list a Taiwan-based EDA supplier."
+          },
+          "gapUrl": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&"
+        },
+        {
+          "id": "ic-design",
+          "name": {
+            "zh": "IC 設計",
+            "en": "IC design"
+          },
+          "what": {
+            "zh": "自己設計晶片，製造交給別人；賣的是設計好的晶片",
+            "en": "Designing chips in-house and leaving manufacturing to others; the product sold is the designed chip"
+          },
+          "companies": [
+            {
+              "id": "2454",
+              "name": "聯發科",
+              "role": {
+                "zh": "研究、開發、生產、製造、銷售多媒體積體電路、電腦週邊積體電路、高階消費性電子積體電路及其他特殊應用積體電路",
+                "en": "Research, development, production, manufacturing, and sale of multimedia ICs, computer peripheral ICs, high-end consumer electronics ICs, and other application-specific ICs"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2454&year=114&seamon=&mtype=F&",
+              "ticker": "2454",
+              "hq": "新竹市",
+              "article": ["Economy", "台灣企業：聯發科技"],
+              "latin": "MediaTek"
+            },
+            {
+              "id": "2379",
+              "name": "瑞昱",
+              "role": {
+                "zh": "研究、開發、生產、製造、銷售各種積體電路，並提供積體電路產品之軟硬體應用設計、測試、維修及技術諮詢服務",
+                "en": "Research, development, production, manufacturing, and sale of various ICs, plus application design, testing, repair, and technical consulting on the hardware and software of IC products"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2379&year=115&seamon=&mtype=F&",
+              "ticker": "2379",
+              "hq": "新竹縣",
+              "article": ["Economy", "台灣企業：瑞昱半導體"],
+              "latin": "RT"
+            },
+            {
+              "id": "3034",
+              "name": "聯詠",
+              "role": {
+                "zh": "研究、開發、設計、生產、製造、銷售語音、通訊、內崁式微控制器、數位訊號處理器、電腦週邊控制、液晶顯示器驅動等積體電路及系統",
+                "en": "Research, development, design, production, manufacturing, and sale of ICs and systems for voice, communications, embedded microcontrollers, digital signal processors, computer peripheral control, LCD drivers, and more"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3034",
+              "hq": "新竹縣",
+              "latin": "NOVATEK"
+            },
+            {
+              "id": "5274",
+              "name": "信驊",
+              "role": {
+                "zh": "多媒體積體電路、電腦周邊積體電路、高階消費性電子積體電路",
+                "en": "Multimedia ICs, computer peripheral ICs, high-end consumer electronics ICs"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "5274",
+              "hq": "新竹市",
+              "latin": "ASPEED"
+            }
+          ]
+        },
+        {
+          "id": "wafer-materials",
+          "name": {
+            "zh": "晶圓材料",
+            "en": "Wafer materials"
+          },
+          "what": {
+            "zh": "把矽長成晶棒、切成晶圓，晶片就是做在這片圓盤上",
+            "en": "Growing silicon into ingots and slicing them into wafers; chips are built on these discs"
+          },
+          "companies": [
+            {
+              "id": "6488",
+              "name": "環球晶",
+              "role": {
+                "zh": "半導體晶棒及晶圓之研發、設計與製造",
+                "en": "Research, design, and manufacturing of semiconductor ingots and wafers"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6488",
+              "hq": "新竹市",
+              "latin": "GWC"
+            },
+            {
+              "id": "3532",
+              "name": "台勝科",
+              "role": {
+                "zh": "矽晶圓電子材料之製造及銷售",
+                "en": "Manufacturing and sale of silicon wafer electronic materials"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3532",
+              "hq": "雲林縣",
+              "latin": "FST"
+            }
+          ]
+        },
+        {
+          "id": "foundry",
+          "name": {
+            "zh": "晶圓代工",
+            "en": "Wafer foundry"
+          },
+          "what": {
+            "zh": "接客戶的設計，在晶圓上把晶片製造出來",
+            "en": "Taking customers' designs and manufacturing the chips on wafers"
+          },
+          "companies": [
+            {
+              "id": "2330",
+              "name": "台積電",
+              "role": {
+                "zh": "依客戶訂單與其提供之產品設計說明，製造與銷售積體電路及其他晶圓半導體裝置，並提供封裝與測試服務、光罩製造及其設計服務",
+                "en": "Manufacturing and sale of ICs and other wafer-based semiconductor devices according to customer orders and the product designs they provide, plus packaging and testing services, photomask making, and design services"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "2330",
+              "hq": "新竹市",
+              "article": ["Economy", "台灣企業：台積電"],
+              "latin": "TSMC"
+            },
+            {
+              "id": "2303",
+              "name": "聯電",
+              "role": {
+                "zh": "以先進的製程技術提供晶圓製造服務，為IC產業各項應用產品生產晶圓",
+                "en": "Wafer manufacturing services using advanced process technology, producing wafers for the IC industry's various applications"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2303&year=115&seamon=&mtype=F&",
+              "ticker": "2303",
+              "hq": "新竹市",
+              "article": ["Economy", "台灣企業：聯華電子"],
+              "latin": "UMC"
+            },
+            {
+              "id": "5347",
+              "name": "世界先進",
+              "role": {
+                "zh": "依客戶訂單與其提供之產品設計說明，從事製造與銷售積體電路，並提供封裝與測試服務、光罩製造及其設計服務",
+                "en": "Manufacturing and sale of ICs according to customer orders and the product designs they provide, plus packaging and testing services, photomask making, and design services"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "5347",
+              "hq": "新竹縣",
+              "latin": "VIS"
+            },
+            {
+              "id": "6770",
+              "name": "力積電",
+              "role": {
+                "zh": "各式積體電路及其系統產品之生產、製造、測試、封裝；半導體設備零組件維修、開發、製造與銷售；ASIC 技術整合服務與矽智財設計與服務",
+                "en": "Production, manufacturing, testing, and packaging of various ICs and their system products; repair, development, manufacturing, and sale of semiconductor equipment components; ASIC technology integration services and silicon IP design and services"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6770",
+              "hq": "新竹市",
+              "latin": "PSMC"
+            }
+          ]
+        },
+        {
+          "id": "memory",
+          "name": {
+            "zh": "記憶體",
+            "en": "Memory"
+          },
+          "what": {
+            "zh": "做 DRAM、快閃記憶體這類存資料的晶片",
+            "en": "Making chips that store data, such as DRAM and flash memory"
+          },
+          "companies": [
+            {
+              "id": "2408",
+              "name": "南亞科",
+              "role": {
+                "zh": "專注記憶體產品，主要商品為 DRAM 晶片（DDR2 至 DDR5、LPDDR 等）",
+                "en": "Focused on memory products; main products are DRAM chips (DDR2 to DDR5, LPDDR, and others)"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2408&year=115&seamon=&mtype=F&",
+              "ticker": "2408",
+              "hq": "新北市",
+              "latin": "NTC"
+            },
+            {
+              "id": "2344",
+              "name": "華邦電",
+              "role": {
+                "zh": "主要產品為快閃記憶體（Code Storage Flash Memory）與客製化記憶體解決方案",
+                "en": "Main products are flash memory (code storage flash memory) and customized memory solutions"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2344&year=115&seamon=&mtype=F&",
+              "ticker": "2344",
+              "hq": "臺中市",
+              "latin": "WEC"
+            }
+          ]
+        },
+        {
+          "id": "equipment-facility",
+          "name": {
+            "zh": "設備與廠務",
+            "en": "Equipment and facilities"
+          },
+          "what": {
+            "zh": "蓋無塵室與廠房、做製程設備與搬運晶圓光罩的容器",
+            "en": "Building cleanrooms and fabs, making process equipment, and making the containers that carry wafers and photomasks"
+          },
+          "companies": [
+            {
+              "id": "3131",
+              "name": "弘塑",
+              "role": {
+                "zh": "半導體及積體電路製造設備之工程承包、製造、買賣及維修；濕製程化學品；半導體相關之機械安裝、電子零組件製造",
+                "en": "Engineering contracting, manufacturing, trading, and maintenance of semiconductor and IC manufacturing equipment; wet-process chemicals; semiconductor-related mechanical installation and electronic component manufacturing"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3131",
+              "hq": "新竹市",
+              "latin": "GPTC"
+            },
+            {
+              "id": "3680",
+              "name": "家登",
+              "role": {
+                "zh": "光罩解決方案、晶圓解決方案與機台設備產品",
+                "en": "Photomask solutions, wafer solutions, and machine equipment products"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3680",
+              "hq": "新北市",
+              "latin": "Gudeng"
+            },
+            {
+              "id": "6196",
+              "name": "帆宣",
+              "role": {
+                "zh": "高科技設備材料銷售與服務、客製化設備研發製造、廠務自動化暨整合系統",
+                "en": "Sales and services of high-tech equipment and materials, customized equipment development and manufacturing, facility automation and integrated systems"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6196",
+              "hq": "臺北市",
+              "latin": "MIC"
+            },
+            {
+              "id": "2404",
+              "name": "漢唐",
+              "role": {
+                "zh": "半導體先進製造及封裝等科技廠房整廠、無塵室、控制、機電並配合業主進行製程提升之改建工程",
+                "en": "Turnkey construction of advanced semiconductor manufacturing and packaging facilities, including cleanrooms, controls, and mechanical and electrical work, and renovation projects with clients to upgrade their processes"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2404&year=115&seamon=&mtype=F&",
+              "ticker": "2404",
+              "hq": "新北市",
+              "latin": "UIS"
+            },
+            {
+              "id": "3413",
+              "name": "京鼎",
+              "role": {
+                "zh": "半導體設備、次系統及系統整合；平面顯示器設備、次系統及系統整合",
+                "en": "Semiconductor equipment, subsystems, and system integration; flat-panel display equipment, subsystems, and system integration"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3413",
+              "hq": "苗栗縣",
+              "latin": "Fiti"
+            }
+          ],
+          "gap": {
+            "zh": "極紫外光（EUV）曝光機。ASML 官網寫這項技術只有它有，總部在荷蘭。這一環列的台灣公司做的是濕製程設備、廠務工程、晶圓與光罩的傳載容器。",
+            "en": "Extreme ultraviolet (EUV) lithography machines. ASML's website states that only it has this technology; it is headquartered in the Netherlands. The Taiwan companies listed in this stage make wet-process equipment, facility engineering, and carriers for wafers and photomasks."
+          },
+          "gapUrl": "https://www.asml.com/en/products/euv-lithography-systems"
+        },
+        {
+          "id": "packaging-test",
+          "name": {
+            "zh": "封裝測試",
+            "en": "Packaging and testing"
+          },
+          "what": {
+            "zh": "把晶圓切開、封成一顆顆晶片、測試好再出貨",
+            "en": "Cutting the wafer apart, packaging individual chips, and testing them before shipment"
+          },
+          "companies": [
+            {
+              "id": "3711",
+              "name": "日月光投控",
+              "role": {
+                "zh": "封裝及模組設計、IC封裝、多晶片封裝、記憶體封裝；前段測試、晶圓針測、成品測試；基板設計、製造",
+                "en": "Packaging and module design, IC packaging, multi-chip packaging, memory packaging; front-end testing, wafer probing, final testing; substrate design and manufacturing"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=115&seamon=&mtype=F&",
+              "ticker": "3711",
+              "hq": "高雄市",
+              "article": ["Economy", "台灣企業：日月光半導體"],
+              "latin": "ASEH"
+            },
+            {
+              "id": "6239",
+              "name": "力成",
+              "role": {
+                "zh": "積體電路（IC）封裝測試",
+                "en": "Integrated circuit (IC) packaging and testing"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6239&year=115&seamon=&mtype=F&",
+              "ticker": "6239",
+              "hq": "新竹縣",
+              "latin": "PTI"
+            },
+            {
+              "id": "2449",
+              "name": "京元電子",
+              "role": {
+                "zh": "各種積體電路之設計、製造、測試、配件、加工、包裝、銷售",
+                "en": "Design, manufacturing, testing, accessories, processing, packaging, and sale of various ICs"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2449&year=115&seamon=&mtype=F&",
+              "ticker": "2449",
+              "hq": "新竹市",
+              "latin": "KYEC"
+            },
+            {
+              "id": "6257",
+              "name": "矽格",
+              "role": {
+                "zh": "各型積體電路之設計、加工、測試、封裝、預燒處理製造買賣；各型積體電路測試及晶圓測試服務",
+                "en": "Design, processing, testing, packaging, and burn-in manufacturing and trading of various ICs; testing services for various ICs and wafers"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6257&year=115&seamon=&mtype=F&",
+              "ticker": "6257",
+              "hq": "新竹縣",
+              "latin": "SIGURD"
+            }
+          ]
+        },
+        {
+          "id": "test-interface",
+          "name": {
+            "zh": "測試介面",
+            "en": "Test interfaces"
+          },
+          "what": {
+            "zh": "晶片測試時，接在晶片和測試機之間的探針卡、測試座與測試板",
+            "en": "Probe cards, test sockets, and test boards that sit between the chip and the tester during chip testing"
+          },
+          "companies": [
+            {
+              "id": "6515",
+              "name": "穎崴",
+              "role": {
+                "zh": "半導體測試介面、精密彈簧針、探針卡、溫控模組",
+                "en": "Semiconductor test interfaces, precision pogo pins, probe cards, temperature control modules"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6515",
+              "hq": "高雄市",
+              "latin": "WinWay"
+            },
+            {
+              "id": "6223",
+              "name": "旺矽",
+              "role": {
+                "zh": "半導體測試零組件加工維修製造；營收來源主要是晶圓探針卡及半導體設備之銷售",
+                "en": "Processing, repair, and manufacturing of semiconductor test components; revenue comes mainly from sales of wafer probe cards and semiconductor equipment"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6223",
+              "hq": "新竹縣",
+              "latin": "MPI"
+            },
+            {
+              "id": "6510",
+              "name": "精測",
+              "role": {
+                "zh": "晶圓測試卡、IC測試板技術服務",
+                "en": "Wafer test cards and technical services for IC test boards"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "6510",
+              "hq": "桃園市",
+              "latin": "CHPT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": {
+        "zh": "AI 伺服器",
+        "en": "AI servers"
+      },
+      "lede": {
+        "zh": "晶片做完之後，還要載板、散熱、電源、機殼、線材，最後組成整櫃伺服器。這條鏈大部分環節在台灣，圖形處理器的設計與高頻寬記憶體在國外。",
+        "en": "After the chips are made, they need substrates, cooling, power, chassis, and cabling, and are finally assembled into full server racks. Most stages of this chain are in Taiwan; GPU design and high-bandwidth memory are abroad."
+      },
+      "articles": [
+        ["Technology", "AI硬體供應鏈"],
+        ["Technology", "NVIDIA在台灣"],
+        ["Technology", "AI供應鏈海外設廠"],
+        ["Technology", "Computex"]
+      ],
+      "stages": [
+        {
+          "id": "gpu-asic-design",
+          "name": {
+            "zh": "GPU／ASIC 設計服務",
+            "en": "GPU/ASIC design services"
+          },
+          "what": {
+            "zh": "AI 加速器要有人把晶片設計出來；台灣業者接的是客製 ASIC 的設計到量產服務",
+            "en": "Someone has to design AI accelerators; Taiwan companies take on custom ASIC design-to-volume-production services"
+          },
+          "companies": [
+            {
+              "id": "3661",
+              "name": "世芯-KY",
+              "role": {
+                "zh": "專為系統公司開發高複雜度、高產量的特殊應用積體電路（ASIC）及系統單晶片（SoC）設計及製造生產",
+                "en": "Design and manufacturing of highly complex, high-volume application-specific integrated circuits (ASIC) and systems-on-chip (SoC) developed for system companies"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3661&year=115&seamon=&mtype=F&",
+              "ticker": "3661",
+              "hq": "臺北市",
+              "latin": "Alchip"
+            },
+            {
+              "id": "3443",
+              "name": "創意",
+              "role": {
+                "zh": "研究、開發、生產、製造及銷售各種應用積體電路（嵌入式記憶體及邏輯元件、設計用元件資料庫、設計用自動化工具），並提供客戶委託之技術服務",
+                "en": "Research, development, production, manufacturing, and sale of application-specific integrated circuits (embedded memory and logic components, design cell libraries, design automation tools), plus contracted technical services for customers"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3443",
+              "hq": "新竹市",
+              "latin": "GUC"
+            }
+          ],
+          "gap": {
+            "zh": "通用圖形處理器的架構設計，由輝達、超微這類公司做。台灣公司在這一環做的是客製晶片的設計服務。",
+            "en": "The architecture of general-purpose GPUs is designed by companies such as NVIDIA and AMD. What Taiwanese companies do in this link is design services for custom chips."
+          }
+        },
+        {
+          "id": "foundry-advanced-packaging",
+          "name": {
+            "zh": "晶圓代工與先進封裝",
+            "en": "Wafer foundry and advanced packaging"
+          },
+          "what": {
+            "zh": "AI 晶片先在晶圓廠做出來，再和高頻寬記憶體封在同一個基板上",
+            "en": "AI chips are first made in a wafer fab, then packaged onto the same substrate as high-bandwidth memory"
+          },
+          "companies": [
+            {
+              "id": "2330",
+              "name": "台積電",
+              "role": {
+                "zh": "依客戶訂單製造積體電路；CoWoS 先進封裝服務整合多個系統單晶片（SoC）與高頻寬記憶體（HBM）",
+                "en": "Manufacturing of ICs according to customer orders; CoWoS advanced packaging service integrating multiple systems-on-chip (SoC) with high-bandwidth memory (HBM)"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2330&year=115&seamon=&mtype=F&",
+              "ticker": "2330",
+              "hq": "新竹市",
+              "article": ["Economy", "台灣企業：台積電"],
+              "latin": "TSMC"
+            },
+            {
+              "id": "3711",
+              "name": "日月光投控",
+              "role": {
+                "zh": "封裝及模組設計、IC封裝、多晶片封裝、記憶體封裝；前段測試、晶圓針測、成品測試；基板設計、製造",
+                "en": "Packaging and module design, IC packaging, multi-chip packaging, memory packaging; front-end testing, wafer probing, final testing; substrate design and manufacturing"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=115&seamon=&mtype=F&",
+              "ticker": "3711",
+              "hq": "高雄市",
+              "article": ["Economy", "台灣企業：日月光半導體"],
+              "latin": "ASEH"
+            }
+          ],
+          "gap": {
+            "zh": "高頻寬記憶體（HBM）。SK 海力士 2022 年的新聞稿寫它的 HBM3 用在輝達的 H100。",
+            "en": "High-bandwidth memory (HBM). A 2022 SK hynix press release says its HBM3 is used in NVIDIA’s H100."
+          },
+          "gapUrl": "https://news.skhynix.com/en/sk-hynix-to-supply-industrys-first-hbm3-dram-to-nvidia/"
+        },
+        {
+          "id": "substrate-pcb-ccl",
+          "name": {
+            "zh": "ABF 載板、PCB 與銅箔基板",
+            "en": "ABF substrates, PCBs, and copper-clad laminates"
+          },
+          "what": {
+            "zh": "晶片要裝在載板上，伺服器主機板則是多層電路板，兩者的原料之一是銅箔基板",
+            "en": "Chips are mounted on substrates, and server motherboards are multilayer circuit boards; one raw material for both is copper-clad laminate"
+          },
+          "companies": [
+            {
+              "id": "3037",
+              "name": "欣興",
+              "role": {
+                "zh": "印刷電路板（PCB）、高密度連接板（HDI）、軟板、軟硬複合板、載板（IC Carrier）之開發、製造、加工與銷售",
+                "en": "Development, manufacturing, processing, and sale of printed circuit boards (PCB), high-density interconnect boards (HDI), flexible boards, rigid-flex boards, and IC carriers"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3037&year=115&seamon=&mtype=F&",
+              "ticker": "3037",
+              "hq": "桃園市",
+              "latin": "UNIMICRON"
+            },
+            {
+              "id": "3189",
+              "name": "景碩",
+              "role": {
+                "zh": "IC 載板：PBGA 基板、覆晶式基板等之製造與銷售",
+                "en": "Manufacturing and sale of IC substrates: PBGA substrates, flip-chip substrates, and others"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3189&year=115&seamon=&mtype=F&",
+              "ticker": "3189",
+              "hq": "桃園市",
+              "latin": "KINSUS"
+            },
+            {
+              "id": "8046",
+              "name": "南電",
+              "role": {
+                "zh": "傳統印刷電路板、HDI、軟硬複合板、ABF 載板及 PP 載板之生產及銷售",
+                "en": "Production and sale of conventional printed circuit boards, HDI, rigid-flex boards, ABF substrates, and PP substrates"
+              },
+              "url": "https://www.nanyapcb.com.tw/nypcb/Chinese/AboutNanYaPCB/CompanyProfile/Company",
+              "ticker": "8046",
+              "hq": "臺北市",
+              "latin": "N.P.C"
+            },
+            {
+              "id": "2383",
+              "name": "台光電",
+              "role": {
+                "zh": "印刷電路板用銅箔基板、內層銅箔基板及黏合片、多層壓合板之製造、加工與銷售",
+                "en": "Manufacturing, processing, and sale of copper-clad laminates for printed circuit boards, inner-layer copper-clad laminates, prepreg, and multilayer laminates"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2383&year=115&seamon=&mtype=F&",
+              "ticker": "2383",
+              "hq": "桃園市",
+              "latin": "EMC"
+            },
+            {
+              "id": "2368",
+              "name": "金像電",
+              "role": {
+                "zh": "印刷電路板（通訊及電腦相關產品，含 AI 及雲端使用的伺服器用板）",
+                "en": "Printed circuit boards (for communications and computer-related products, including server boards for AI and cloud use)"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2368&year=115&seamon=&mtype=F&",
+              "ticker": "2368",
+              "hq": "桃園市",
+              "latin": "GCE"
+            }
+          ]
+        },
+        {
+          "id": "thermal",
+          "name": {
+            "zh": "散熱",
+            "en": "Cooling"
+          },
+          "what": {
+            "zh": "AI 伺服器耗電高，要靠風扇、散熱模組或水冷把熱帶走",
+            "en": "AI servers consume a lot of power, so fans, thermal modules, or liquid cooling are needed to carry the heat away"
+          },
+          "companies": [
+            {
+              "id": "3017",
+              "name": "奇鋐",
+              "role": {
+                "zh": "散熱產品（風扇、散熱片、散熱模組、熱交換器、熱管／均熱板、水冷板等水冷散熱解決方案）、機殼與機櫃、系統組裝及轉軸",
+                "en": "Thermal products (fans, heat sinks, thermal modules, heat exchangers, heat pipes/vapor chambers, and liquid cooling solutions such as cold plates), chassis and cabinets, system assembly, and hinges"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3017&year=115&seamon=&mtype=F&",
+              "ticker": "3017",
+              "hq": "高雄市",
+              "latin": "AVC"
+            },
+            {
+              "id": "3324",
+              "name": "雙鴻",
+              "role": {
+                "zh": "散熱模組",
+                "en": "Thermal modules"
+              },
+              "url": "https://mops.twse.com.tw/mops/#/web/t05st03",
+              "ticker": "3324",
+              "hq": "新北市",
+              "latin": "AURAS"
+            }
+          ]
+        },
+        {
+          "id": "power",
+          "name": {
+            "zh": "電源",
+            "en": "Power"
+          },
+          "what": {
+            "zh": "把市電轉成伺服器與晶片能用的電",
+            "en": "Converting mains electricity into power that servers and chips can use"
+          },
+          "companies": [
+            {
+              "id": "2308",
+              "name": "台達電",
+              "role": {
+                "zh": "電源供應系統、無刷直流風扇、散熱系統等；近年聚焦 AI 資料中心、微電網、智能製造、智慧建築與綠色交通",
+                "en": "Power supply systems, brushless DC fans, thermal systems, and more; in recent years focused on AI data centers, microgrids, smart manufacturing, smart buildings, and green transportation"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2308&year=115&seamon=&mtype=F&",
+              "ticker": "2308",
+              "hq": "桃園市",
+              "article": ["Economy", "台灣企業：台達電子"],
+              "latin": "DELTA"
+            },
+            {
+              "id": "2301",
+              "name": "光寶科",
+              "role": {
+                "zh": "設計、研發、生產及銷售應用於資料中心、伺服器、網通設備、AI、物聯網等之產品，含伺服器電源及儲能系統解決方案",
+                "en": "Design, development, production, and sale of products for data centers, servers, networking equipment, AI, and IoT, including server power supplies and energy storage system solutions"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2301&year=115&seamon=&mtype=F&",
+              "ticker": "2301",
+              "hq": "臺北市",
+              "latin": "LTC"
+            }
+          ]
+        },
+        {
+          "id": "chassis-rail",
+          "name": {
+            "zh": "機殼與滑軌",
+            "en": "Chassis and slide rails"
+          },
+          "what": {
+            "zh": "伺服器的鐵殼、機櫃內讓伺服器抽進抽出的滑軌",
+            "en": "The metal enclosure of the server, and the slide rails that let servers be pulled in and out of the rack"
+          },
+          "companies": [
+            {
+              "id": "8210",
+              "name": "勤誠",
+              "role": {
+                "zh": "伺服器機殼及零組件、桌上型與工業用個人電腦機殼之研發、製造、加工及買賣",
+                "en": "Research, development, manufacturing, processing, and trading of server chassis and components, and desktop and industrial PC chassis"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=8210&year=115&seamon=&mtype=F&",
+              "ticker": "8210",
+              "hq": "新北市",
+              "latin": "CHENBRO"
+            },
+            {
+              "id": "2059",
+              "name": "川湖",
+              "role": {
+                "zh": "研究、設計、製造和銷售導軌及伺服器週邊零組件；各式用途之滑軌；隱藏式鉸鏈",
+                "en": "Research, design, manufacturing, and sale of rails and server peripheral components; slide rails for various uses; concealed hinges"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2059&year=115&seamon=&mtype=F&",
+              "ticker": "2059",
+              "hq": "高雄市",
+              "latin": "king slide"
+            }
+          ]
+        },
+        {
+          "id": "cables-connectors",
+          "name": {
+            "zh": "連接線與連接器",
+            "en": "Cables and connectors"
+          },
+          "what": {
+            "zh": "伺服器內外的線材、插槽與連接器",
+            "en": "The cables, sockets, and connectors inside and outside the server"
+          },
+          "companies": [
+            {
+              "id": "3665",
+              "name": "貿聯-KY",
+              "role": {
+                "zh": "提供應用於工業自動化、資訊科技與資料中心、汽車、醫療等市場之線纜、線束，以及連接模組與系統解決方案",
+                "en": "Cables, wire harnesses, and connection modules and system solutions for markets including industrial automation, information technology and data centers, automotive, and medical"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3665&year=115&seamon=&mtype=F&",
+              "ticker": "3665",
+              "hq": "新北市",
+              "latin": "BHI (BizLink)"
+            },
+            {
+              "id": "3533",
+              "name": "嘉澤",
+              "role": {
+                "zh": "應用於伺服器、個人電腦、汽車、工業控制及醫療等領域之連接器、連接線、插槽及相關零組件之設計、製造與銷售",
+                "en": "Design, manufacturing, and sale of connectors, cables, sockets, and related components for servers, personal computers, automotive, industrial control, and medical applications"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3533&year=115&seamon=&mtype=F&",
+              "ticker": "3533",
+              "hq": "基隆市",
+              "latin": "LOTES"
+            }
+          ]
+        },
+        {
+          "id": "assembly-odm",
+          "name": {
+            "zh": "整機與機櫃組裝（ODM）",
+            "en": "Complete system and rack assembly (ODM)"
+          },
+          "what": {
+            "zh": "把板卡、散熱、電源裝成整台伺服器或整櫃，交給雲端業者",
+            "en": "Assembling boards, cooling, and power into whole servers or racks and delivering them to cloud providers"
+          },
+          "companies": [
+            {
+              "id": "2317",
+              "name": "鴻海",
+              "role": {
+                "zh": "雲端網路、消費智能、電腦終端、元件及其他產品；AI 伺服器從設計、關鍵零組件、模組、液冷散熱系統到整機組裝的垂直整合",
+                "en": "Cloud networking, consumer intelligence, computer terminals, components, and other products; vertical integration of AI servers from design, key components, and modules to liquid cooling systems and complete system assembly"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2317&year=115&seamon=&mtype=F&",
+              "ticker": "2317",
+              "hq": "新北市",
+              "article": ["Economy", "台灣企業：鴻海精密"],
+              "latin": "HON HAI"
+            },
+            {
+              "id": "2382",
+              "name": "廣達",
+              "role": {
+                "zh": "伺服器、筆記型電腦、汽車電子及其他消費性電子產品之研發設計製造（外銷為主）",
+                "en": "Research, design, and manufacturing of servers, notebook computers, automotive electronics, and other consumer electronics (mainly for export)"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2382&year=115&seamon=&mtype=F&",
+              "ticker": "2382",
+              "hq": "桃園市",
+              "article": ["Economy", "台灣企業：廣達電腦"],
+              "latin": "QCI"
+            },
+            {
+              "id": "3231",
+              "name": "緯創",
+              "role": {
+                "zh": "伺服器、工作站、AI 運算設備及高功能多中央處理器電腦系統及其重要零組件，以及 PC、筆電、手機等之研究、開發、設計、生產、製造、測試及售後服務",
+                "en": "Research, development, design, production, manufacturing, testing, and after-sales service of servers, workstations, AI computing equipment, high-performance multi-CPU computer systems and their key components, as well as PCs, notebooks, and mobile phones"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3231&year=115&seamon=&mtype=F&",
+              "ticker": "3231",
+              "hq": "新竹縣",
+              "article": ["Economy", "台灣企業：緯創資通"],
+              "latin": "Wistron"
+            },
+            {
+              "id": "6669",
+              "name": "緯穎",
+              "role": {
+                "zh": "雲端運算基礎架構解決方案：超大型資料中心所用的運算與儲存設備及系統整合",
+                "en": "Cloud computing infrastructure solutions: computing and storage equipment and system integration for hyperscale data centers"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6669&year=115&seamon=&mtype=F&",
+              "ticker": "6669",
+              "hq": "新北市",
+              "latin": "Wiwynn"
+            },
+            {
+              "id": "2356",
+              "name": "英業達",
+              "role": {
+                "zh": "電腦及智能終端產品之生產及銷售；企業解決方案含伺服器、儲存設備、交換器、人工智慧解決方案、機櫃解決方案",
+                "en": "Production and sale of computer and smart terminal products; enterprise solutions including servers, storage equipment, switches, artificial intelligence solutions, and rack solutions"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2356&year=115&seamon=&mtype=F&",
+              "ticker": "2356",
+              "hq": "臺北市",
+              "latin": "INVENTEC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tungsten",
+      "title": {
+        "zh": "鎢",
+        "en": "Tungsten"
+      },
+      "lede": {
+        "zh": "鎢用在切削刀具，也用在晶片製程。台灣在這條鏈上有的是回收提煉與下游加工。美國地質調查所估 2025 年全球礦山產量 8.5 萬公噸，其中中國 6.7 萬公噸；2025 年 2 月起，中國對鎢相關物項實施出口管制。",
+        "en": "Tungsten is used in cutting tools and also in chip manufacturing. In this chain, Taiwan has recycling and refining plus downstream processing. The US Geological Survey estimates global mine production in 2025 at 85,000 tonnes, of which China accounted for 67,000 tonnes; since February 2025, China has imposed export controls on tungsten-related items."
+      },
+      "articles": [
+        ["Technology", "台灣鎢供應鏈"],
+        ["Economy", "台灣機械工具產業"],
+        ["Economy", "台灣循環經濟與資源再利用"]
+      ],
+      "stages": [
+        {
+          "id": "ore-concentrate",
+          "name": {
+            "zh": "鎢礦與精礦（開採）",
+            "en": "Tungsten ore and concentrate (mining)"
+          },
+          "what": {
+            "zh": "從礦山挖出含鎢的礦石，選成精礦，是整條鏈最上游",
+            "en": "Digging tungsten-bearing ore out of mines and beneficiating it into concentrate; the furthest upstream stage of the chain"
+          },
+          "companies": [],
+          "gap": {
+            "zh": "鎢礦的開採。美國地質調查所 2026 年版的統計：2025 年全球礦山產量估 8.5 萬公噸，中國 6.7 萬公噸。這一環我們沒有找到台灣公司的官方資料。",
+            "en": "Tungsten mining. The US Geological Survey's 2026 edition statistics: estimated global mine production in 2025 was 85,000 tonnes, of which China accounted for 67,000 tonnes. For this stage we found no official data on any Taiwan company."
+          },
+          "gapUrl": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-tungsten.pdf"
+        },
+        {
+          "id": "recycle-refine",
+          "name": {
+            "zh": "回收提煉：鎢酸鈉、APT、氧化鎢",
+            "en": "Recycling and refining: sodium tungstate, APT, tungsten oxide"
+          },
+          "what": {
+            "zh": "把含鎢的廢硬質合金、刀屑溶出來、純化，做成下游要的鎢化合物",
+            "en": "Leaching tungsten from scrap cemented carbide and cutting swarf, purifying it, and making the tungsten compounds that downstream users need"
+          },
+          "companies": [
+            {
+              "id": "7610",
+              "name": "聯友金屬",
+              "role": {
+                "zh": "以二次硬質合金及二次鎢、鈷資源為原料，還原為鎢、鈷金屬原料；現階段主要產品為鎢酸鈉及硫酸鈷液",
+                "en": "Using secondary cemented carbide and secondary tungsten and cobalt resources as raw materials, reducing them to tungsten and cobalt metal materials; current main products are sodium tungstate and cobalt sulfate solution"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=7610&year=115&seamon=&mtype=F&",
+              "ticker": "7610",
+              "hq": "屏東縣",
+              "latin": "LIANYOU METALS"
+            },
+            {
+              "id": "京沅鎢鈷資源",
+              "name": "京沅鎢鈷資源",
+              "role": {
+                "zh": "將回收之含鎢廢料、二次鎢粉、二次合金、鎢酸鈉及鎢酸鈣還原加工為仲鎢酸銨（APT）、氧化鎢及碳酸鈷",
+                "en": "Reprocessing recycled tungsten-bearing scrap, secondary tungsten powder, secondary alloys, sodium tungstate, and calcium tungstate into ammonium paratungstate (APT), tungsten oxide, and cobalt carbonate"
+              },
+              "url": "https://www.jy-tungsten.com.tw/aboutus.htm",
+              "hq": "屏東縣"
+            }
+          ]
+        },
+        {
+          "id": "powder-carbide",
+          "name": {
+            "zh": "鎢粉與碳化鎢粉",
+            "en": "Tungsten powder and tungsten carbide powder"
+          },
+          "what": {
+            "zh": "把氧化鎢還原成鎢粉，再和碳做成碳化鎢粉，是做硬質合金的原料",
+            "en": "Reducing tungsten oxide to tungsten powder, then combining it with carbon into tungsten carbide powder, the raw material for cemented carbide"
+          },
+          "companies": [
+            {
+              "id": "7610",
+              "name": "聯友金屬",
+              "role": {
+                "zh": "碳化鎢加工及冶煉列在公司的商品項目裡；現階段主要產品仍是鎢酸鈉及硫酸鈷液",
+                "en": "Tungsten carbide processing and smelting is listed among the company’s products; its main current products remain sodium tungstate and cobalt sulphate solution"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=7610&year=115&seamon=&mtype=F&",
+              "ticker": "7610",
+              "hq": "屏東縣",
+              "latin": "LIANYOU METALS"
+            },
+            {
+              "id": "京沅鎢鈷資源",
+              "name": "京沅鎢鈷資源",
+              "role": {
+                "zh": "規劃生產鎢粉及碳化鎢粉；官網寫的是投資計畫規劃中，還不是現有產品",
+                "en": "Plans to produce tungsten powder and tungsten carbide powder; its website describes this as an investment plan under preparation, not an existing product"
+              },
+              "url": "https://www.jy-tungsten.com.tw/",
+              "hq": "屏東縣"
+            }
+          ]
+        },
+        {
+          "id": "cemented-carbide-tools",
+          "name": {
+            "zh": "硬質合金刀具",
+            "en": "Cemented carbide cutting tools"
+          },
+          "what": {
+            "zh": "把碳化鎢粉加鈷壓製燒結，磨成車刀、銑刀、鑽頭，工具機與電子零件加工都在用",
+            "en": "Pressing and sintering tungsten carbide powder with cobalt, then grinding it into turning tools, milling cutters, and drill bits, used in machine tools and in electronic component machining"
+          },
+          "companies": [
+            {
+              "id": "萬事達切削科技",
+              "name": "萬事達切削科技",
+              "role": {
+                "zh": "以壓製、燒結、研磨與塗層等方法製造切削刀具",
+                "en": "Manufacturing cutting tools by pressing, sintering, grinding, and coating"
+              },
+              "url": "https://www.winstarcutting.com/about",
+              "hq": "臺南市"
+            }
+          ]
+        },
+        {
+          "id": "wf6",
+          "name": {
+            "zh": "半導體用六氟化鎢（WF6）",
+            "en": "Tungsten hexafluoride (WF6) for semiconductors"
+          },
+          "what": {
+            "zh": "晶片製程用氣體，把鎢一層層鍍進晶片裡的接觸孔",
+            "en": "A gas used in chip manufacturing to deposit tungsten, layer by layer, into the contact holes of a chip"
+          },
+          "companies": [],
+          "gap": {
+            "zh": "這一環有沒有台灣公司在生產，我們沒有找到官方文件，所以不列。",
+            "en": "We found no official documents on whether any Taiwan company produces this, so none is listed."
+          }
+        },
+        {
+          "id": "sputtering-target",
+          "name": {
+            "zh": "鎢靶材",
+            "en": "Tungsten sputtering targets"
+          },
+          "what": {
+            "zh": "濺鍍製程用的金屬靶材，鎢是其中一種材料",
+            "en": "Metal targets used in sputtering processes, of which tungsten is one material"
+          },
+          "companies": [
+            {
+              "id": "1785",
+              "name": "光洋科",
+              "role": {
+                "zh": "薄膜濺鍍靶材與蒸鍍材製造；薄膜濺鍍材料的主要原料之一為鎢",
+                "en": "Manufacturing of thin-film sputtering targets and evaporation materials; one of the main raw materials of thin-film sputtering materials is tungsten"
+              },
+              "url": "https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=1785&year=115&seamon=&mtype=F&",
+              "ticker": "1785",
+              "hq": "臺南市",
+              "latin": "Solar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

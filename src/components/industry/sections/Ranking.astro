@@ -1,0 +1,206 @@
+---
+/**
+ * §5 Ranking — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import LineChart from '../../budget/LineChart.astro';
+import RankBars from '../../budget/RankBars.astro';
+import TopTenHistory from '../charts/TopTenHistory.astro';
+import { getTopic, pickText } from '../../../utils/topics/registry';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import CompanyRanking from '../tools/CompanyRanking.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const topic = getTopic('industry')!;
+const TOOL = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
+const {
+  REL,
+  companiesHref,
+  conc,
+  concParts,
+  indGroups,
+  indRows,
+  mh,
+  mhCols,
+  mhNames,
+  pct1,
+  rankRows,
+  snap,
+  srcLineL,
+  ti,
+  COMPANIES_SNAPSHOT_DATE,
+  fmtYi,
+} = await industryPageData(lang);
+---
+
+<!-- §5 榜單有多集中 -->
+<section class="bp-section" id="s5">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s5.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {
+        ti('s5.h2', {
+          top1: Math.round(conc.top1Pct),
+          top50: Math.round(100 - conc.outsidePct),
+        })
+      }
+    </h2>
+    <p class="bp-lede">
+      {
+        ti('s5.lede', {
+          date: COMPANIES_SNAPSHOT_DATE,
+          total: fmtYi(snap.listedTotal100M, lang),
+          n: snap.listedCount ?? '',
+        })
+      }
+    </p>
+    <figure class="bg-chart ind-conc">
+      <h4 class="bg-chart-title">
+        {ti('s5.chart1.title', { date: COMPANIES_SNAPSHOT_DATE })}
+      </h4>
+      <div class="bp-stackbar-wrap">
+        <div
+          class="bp-stackbar"
+          role="img"
+          aria-label={ti('s5.chart1.title', {
+            date: COMPANIES_SNAPSHOT_DATE,
+          })}
+        >
+          {
+            concParts.map((p, i) => (
+              <div
+                class={`bp-stackseg bg-cat-${[1, 0, 2, 3][i]} ${p.v < 12 ? 'is-thin' : ''}`}
+                style={`flex: ${p.v.toFixed(3)} 0 0`}
+                title={`${ti(`s5.conc.${p.k}`)}：${pct1(p.v)}`}
+              >
+                <span class="bp-stackseg-v">{pct1(p.v)}</span>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+      <ul class="bp-stacklegend">
+        {
+          concParts.map((p, i) => (
+            <li>
+              <span
+                class={`bg-swatch bg-cat-${[1, 0, 2, 3][i]}`}
+                aria-hidden="true"
+              />{' '}
+              {ti(`s5.conc.${p.k}`)}：{pct1(p.v)}
+            </li>
+          ))
+        }
+      </ul>
+      <figcaption class="bg-chart-src">
+        {ti('s5.chart1.src', { date: COMPANIES_SNAPSHOT_DATE })}
+      </figcaption>
+    </figure>
+    <div class="bp-prose">
+      <p>
+        {
+          ti('s5.p1', {
+            twsePct: snap.tsmcShareOfTwsePct.toFixed(1),
+            top10: snap.top10ShareOfTwsePct,
+          })
+        }
+      </p>
+    </div>
+    <RankBars
+      id="c-ind-mix"
+      title={ti('s5.chart2.title', {
+        n: indGroups[0].count,
+        share: Math.round(
+          (indGroups[0].capSum /
+            rankRows.reduce((s, r) => s + r.marketCap, 0)) *
+            100,
+        ),
+      })}
+      subtitle={ti('s5.chart2.sub')}
+      rows={indRows}
+      nowLabel={ti('s5.chart2.now')}
+      lang={lang}
+      source={ti('s5.chart2.src', { date: COMPANIES_SNAPSHOT_DATE })}
+    />
+    {
+      mh ? (
+        <>
+          <LineChart
+            id="c-tsmc-share"
+            title={ti('s5.hist.chart.title', {
+              y0: mh.tsmcShare.years[1],
+              v0: pct1(mh.tsmcShare.values[1]),
+              y1: mh.tsmcShare.years[mh.tsmcShare.years.length - 1],
+              v1: pct1(mh.tsmcShare.values[mh.tsmcShare.values.length - 1]),
+            })}
+            subtitle={ti('s5.hist.chart.sub')}
+            years={mh.tsmcShare.years}
+            lang={lang}
+            unit="%"
+            yMax={50}
+            height={300}
+            series={[
+              {
+                id: 'tsmc',
+                label: ti('s5.conc.top1'),
+                values: mh.tsmcShare.values,
+                cls: 'bg-s1',
+              },
+            ]}
+            source={srcLineL(mh.source)}
+          />
+          <TopTenHistory
+            cols={mhCols}
+            names={mhNames}
+            labels={{
+              rank: ti('s5.hist.rank'),
+              top10Share: ti('s5.hist.top10'),
+              tsmcShare: ti('s5.hist.tsmc'),
+              caption: ti('s5.hist.title'),
+            }}
+          />
+          <p class="bp-note">{ti('s5.hist.note')}</p>
+          <div class="bp-prose">
+            <p>{ti('s5.hist.p')}</p>
+          </div>
+        </>
+      ) : (
+        <p class="ind-nodata">{ti('s5.hist.nodata')}</p>
+      )
+    }
+    <div class="bp-prose">
+      <p>{ti('s5.p2')}</p>
+    </div>
+    <p class="bp-note">{ti('s5.tool.note')}</p>
+    <ToolFrame
+      title={pickText(TOOL('company-ranking').title, lang)}
+      description={pickText(TOOL('company-ranking').description, lang)}
+      variant="inline"
+      lang={lang as any}
+      standaloneHref={TOOL('company-ranking').path}
+      embedHref={TOOL('company-ranking').embedPath}
+    >
+      <CompanyRanking lang={lang} variant="inline" limit={10} />
+      <p slot="sources">
+        {ti('tool.rank.sources', { date: COMPANIES_SNAPSHOT_DATE })}
+      </p>
+      <p slot="disclaimer">{ti('disclaimer.p')}</p>
+    </ToolFrame>
+    {
+      REL.s5.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s5.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

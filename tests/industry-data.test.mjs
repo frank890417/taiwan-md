@@ -19,7 +19,7 @@ const C = (name) => read(`../src/data/industry/content/${name}.json`);
 const { zh } = await import('../src/i18n/industry/zh.ts');
 const { en } = await import('../src/i18n/industry/en.ts');
 const { flattenContent } = await import('../src/i18n/industry/flatten.ts');
-const R = await import('../src/utils/companiesRank.ts');
+const R = await import('../src/utils/industry/companiesRank.ts');
 
 const isUrl = (u) => typeof u === 'string' && /^https?:\/\/\S+$/.test(u);
 const asc = (xs) => xs.every((v, i) => i === 0 || v > xs[i - 1]);
@@ -235,7 +235,7 @@ test('立場：六個爭論，每個至少兩方，每張卡有具名、日期�
       assert.ok(isUrl(f.url) && f.v?.zh && f.v?.en, `${x.id} 數字卡 ${f.id}`);
   }
 });
-test('供應鏈：三條鏈，每個環節至少一家，每家有角色與出處，環節內代號不重複', () => {
+test('供應鏈：三條鏈，每個環節有公司或有缺口說明，每家有角色與出處，環節內代號不重複', () => {
   const ch = C('chains');
   assert.equal(ch.chains.length, 3);
   assert.match(ch.asOf, /^\d{4}-\d{2}-\d{2}$/);
@@ -243,8 +243,13 @@ test('供應鏈：三條鏈，每個環節至少一家，每家有角色與出�
     assert.ok(c.stages.length >= 4, `${c.id} 只有 ${c.stages.length} 環`);
     for (const s of c.stages) {
       assert.ok(
-        s.companies.length >= 1 && s.companies.length <= 5,
+        s.companies.length <= 5,
         `${c.id}.${s.id} 家數 ${s.companies.length}`,
+      );
+      // 沒有列台灣公司的環節必須寫明這一環靠誰、或為什麼不列
+      assert.ok(
+        s.companies.length >= 1 || (s.gap?.zh && s.gap?.en),
+        `${c.id}.${s.id} 沒有公司也沒有說明`,
       );
       assert.equal(
         new Set(s.companies.map((x) => x.id)).size,

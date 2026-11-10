@@ -1,0 +1,60 @@
+---
+/**
+ * /industry/timeline/ — 產業時間軸單獨頁（契約 v1 第 4 節 (b)，版型用共用的 ToolPage）。
+ * 工具本體：src/components/industry/tools/IndustryTimeline.astro。
+ */
+import ToolPage from '../components/tools/ToolPage.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import IndustryTimeline from '../components/industry/tools/IndustryTimeline.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useIndustryT } from '../i18n/industry';
+import { getTopic, pickText } from '../utils/topics/registry';
+import { relatedList } from '../utils/industry/related';
+
+const lang = getLangFromUrl(Astro.url);
+const ti = useIndustryT(lang);
+const topic = getTopic('industry')!;
+const tool = topic.tools.find((x) => x.slug === 'timeline')!;
+const arts = await relatedList(lang, [
+  ['Economy', '經濟奇蹟'],
+  ['History', '高雄加工出口區'],
+  ['History', '十大建設'],
+  ['Technology', '科技園區發展'],
+]);
+const related = [
+  { href: '/companies/', label: ti('tool.related.ranking') },
+  { href: '/industry/supply-chain-map/', label: ti('tool.related.chain') },
+  ...arts.map((a) => ({ href: a.href, label: a.title })),
+];
+const faq = [1, 2, 3, 4, 5].map((n) => ({
+  q: ti(`tool.tl.faq${n}.q`),
+  a: ti(`tool.tl.faq${n}.a`),
+}));
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={tool}
+  metaTitle={ti('tool.tl.metaTitle')}
+  metaDescription={ti('tool.tl.metaDescription')}
+  howItWorks={ti('tool.tl.how')}
+  faq={faq}
+  related={related}
+  updated={topic.updated}
+  embedPath={tool.embedPath}
+  embedHeight={900}
+>
+  <ToolFrame
+    title={pickText(tool.title, lang)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    <IndustryTimeline lang={lang} variant="page" />
+  </ToolFrame>
+  <Fragment slot="reading"><p>{ti('tool.tl.reading')}</p></Fragment>
+  <Fragment slot="method"><p>{ti('tool.tl.method')}</p></Fragment>
+  <Fragment slot="sources"><p>{ti('tool.tl.sources')}</p></Fragment>
+  <p slot="disclaimer">{ti('tool.tl.disclaimer')}</p>
+</ToolPage>

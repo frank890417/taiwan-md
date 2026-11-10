@@ -1,0 +1,69 @@
+---
+/**
+ * §1 History — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import StackedArea from '../../budget/StackedArea.astro';
+import { getTopic, pickText } from '../../../utils/topics/registry';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import IndustryTimeline from '../tools/IndustryTimeline.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const topic = getTopic('industry')!;
+const TOOL = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
+const { REL, lh, lhCats, srcLineL, ti } = await industryPageData(lang);
+---
+
+<!-- §1 歷史 -->
+<section class="bp-section" id="s1">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s1.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s1.h2')}</h2>
+    <p class="bp-lede">{ti('s1.lede')}</p>
+    <StackedArea
+      id="c-longexp"
+      title={ti('s1.chart.title')}
+      subtitle={ti('s1.chart.sub')}
+      years={lh.years}
+      cats={lhCats}
+      values={lh.rows.map((r: any) => r.values)}
+      mode="share"
+      lang={lang}
+      source={srcLineL(lh.source)}
+    />
+    <div class="bp-prose">
+      <p>{ti('s1.p1')}</p>
+      <p>{ti('s1.p2')}</p>
+    </div>
+
+    <div id="timeline">
+      <ToolFrame
+        title={pickText(TOOL('timeline').title, lang)}
+        description={pickText(TOOL('timeline').description, lang)}
+        variant="inline"
+        lang={lang as any}
+        standaloneHref={TOOL('timeline').path}
+        embedHref={TOOL('timeline').embedPath}
+      >
+        <IndustryTimeline lang={lang} variant="inline" />
+        <p slot="sources">{ti('tool.tl.sourcesShort')}</p>
+      </ToolFrame>
+    </div>
+    {
+      REL.s1.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s1.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

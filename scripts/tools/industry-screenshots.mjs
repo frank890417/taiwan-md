@@ -22,15 +22,20 @@ const ONLY = arg('--only', '');
 const PAGES = [
   ['companies', '/companies/'],
   ['industry', '/industry/'],
-  ['chains', '/industry/supply-chains/'],
+  ['chain-map', '/industry/supply-chain-map/'],
+  ['timeline', '/industry/timeline/'],
+  ['embed-ranking', '/embed/industry/company-ranking/'],
+  ['embed-chain-map', '/embed/industry/supply-chain-map/'],
+  ['embed-timeline', '/embed/industry/timeline/'],
   ['en-companies', '/en/companies/'],
   ['en-industry', '/en/industry/'],
-  ['en-chains', '/en/industry/supply-chains/'],
+  ['en-chain-map', '/en/industry/supply-chain-map/'],
   ['ja-industry', '/ja/industry/'],
+  ['ar-industry', '/ar/industry/'],
 ].filter(([, p]) => !ONLY || p === ONLY);
 const VIEWS = [
-  ['desktop', { width: 1280, height: 800 }],
-  ['mobile', { width: 375, height: 812 }],
+  ['desktop', { width: 1440, height: 900 }],
+  ['mobile', { width: 390, height: 844 }],
 ];
 const THEMES = ['light', 'dark'];
 
@@ -54,7 +59,10 @@ for (const [name, path] of PAGES) {
       const errors = [];
       page.on('console', (m) => m.type() === 'error' && errors.push(m.text()));
       page.on('pageerror', (e) => errors.push(String(e)));
-      const res = await page.goto(BASE + path, { waitUntil: 'networkidle' });
+      const res = await page.goto(
+        BASE + path + (path.startsWith('/embed/') ? `?theme=${theme}` : ''),
+        { waitUntil: 'networkidle' },
+      );
       await page.evaluate((t) => {
         document.documentElement.setAttribute('data-theme', t);
       }, theme);
