@@ -1,0 +1,1531 @@
+{
+  "$comment": "由 scripts/tools/build-housing-data.py 從 reports/research/2026-11/housing-cbc-credit-rates.md 產生，勿手改",
+  "retrieved": "2026-11-10",
+  "series": [],
+  "tables": [
+    {
+      "id": "selective-credit-controls-timeline",
+      "label": {
+        "zh": "央行不動產選擇性信用管制時間線（2009–2026）",
+        "en": "CBC selective credit controls on real estate: timeline"
+      },
+      "period": "2009-10/2026-09",
+      "columns": [
+        "date",
+        "effectiveDate",
+        "meeting",
+        "round",
+        "kind",
+        "wave",
+        "scheduled",
+        "summary",
+        "refs"
+      ],
+      "source": {
+        "agency": "中央銀行",
+        "title": "央行歷次選擇性信用管制措施",
+        "url": "https://www.cbc.gov.tw/tw/cp-1087-40148-0F140-1.html"
+      },
+      "note": "round=1 為 2009 年底至 2016 年（央行稱「針對性審慎措施」）；round=2 為 2020-12 起（央行稱「選擇性信用管制」）；wave 為央行自己的「第 N 度」稱法，央行未標的不編號；kind=event 為非條文類措施與各季理監事會決議；scheduled=true 為預定日期（晚於 2026-11-10）",
+      "rows": [
+        {
+          "date": "2009-10",
+          "effectiveDate": null,
+          "meeting": "2009-10 起",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "央行先以道德勸說「積極促請銀行注意房貸風險控管」；2010-03-25 理監事會新聞稿回顧：「敦促銀行針對特定地區投資戶（非自用戶）貸款加強風險控管」"
+          },
+          "refs": ["S44"],
+          "key": "2009-10-rule",
+          "sources": [
+            {
+              "ref": "S44",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2010-03-25）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-36355-EC84A-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2010-06-25",
+          "effectiveDate": "2010-06-25",
+          "meeting": "2010-06-24（理監事會）",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "訂定「特定地區購屋貸款業務規定」。特定地區＝臺北市及臺北縣十個縣轄市（板橋、三重、中和、永和、新莊、新店、土城、蘆洲、樹林、汐止）。自然人借款人名下已有一戶以上房屋抵押貸款（聯徵用途代號「1」）、再申辦購屋貸款：不得有寬限期、最高 7 成（鑑價金額）、不得另以修繕/周轉金名目增貸。理由之一：房貸（含購置住宅、修繕、建築）占總放款比重 38.3%，新增放款偏重台北市與北縣十市"
+          },
+          "refs": ["S45", "S46"],
+          "key": "2010-06-25-rule",
+          "sources": [
+            {
+              "ref": "S45",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2010-06-24）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-36851-3D370-1.html"
+            },
+            {
+              "ref": "S46",
+              "agency": "中央銀行",
+              "title": "中央銀行令：訂定「對金融機構辦理特定地區購屋貸款業務規定」（99.6.24）",
+              "url": "https://www.cbc.gov.tw/tw/cp-465-37096-18025-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2010-12-31",
+          "effectiveDate": "2010-12-31",
+          "meeting": "2010-12-30（理監事會）",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "規定改名「土地抵押貸款及特定地區購屋貸款業務規定」。特定地區增三峽、林口、淡水（臺北市＋新北市 13 區）；第二戶以上購屋貸款成數 7 成降為 6 成；公司法人購屋貸款比照；新增土地抵押貸款：須檢附具體興建計畫、最高 6.5 成（取得成本與鑑價較低者）、其中 1 成俟動工興建才撥貸"
+          },
+          "refs": ["S47", "S48"],
+          "key": "2010-12-31-rule",
+          "sources": [
+            {
+              "ref": "S47",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2010-12-30）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-37946-A070A-1.html"
+            },
+            {
+              "ref": "S48",
+              "agency": "中央銀行",
+              "title": "中央銀行令：修正為「土地抵押貸款及特定地區購屋貸款業務規定」（99.12.30）",
+              "url": "https://www.cbc.gov.tw/tw/cp-465-37948-E611A-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2012-06-22",
+          "effectiveDate": "2012-06-22",
+          "meeting": "2012-06-21（理監事會）",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "新增高價住宅貸款規範：台北市/新北市鑑價或買賣金額 8,000 萬元以上、其他地區 5,000 萬元以上；成數上限 6 成、無寬限期"
+          },
+          "refs": ["S49", "S50"],
+          "key": "2012-06-22-rule",
+          "sources": [
+            {
+              "ref": "S49",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2012-06-21）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-40738-56BF5-1.html"
+            },
+            {
+              "ref": "S50",
+              "agency": "中央銀行",
+              "title": "購置住宅貸款及土地抵押貸款業務規定（101.6.22 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-9082-736e733ae14c4eaba8e525eb72e4c126.html"
+            }
+          ]
+        },
+        {
+          "date": "2013-03-28",
+          "effectiveDate": null,
+          "meeting": "2013-03-28、2013-06-27",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "無新規範。新聞稿稱特定地區房貸成數降至 5.7 成、房貸利率平均升至 2% 以上；央行「督促銀行對特定地區以外、房價漲幅較大地區」採自律措施"
+          },
+          "refs": ["S51"],
+          "key": "2013-03-28-rule",
+          "sources": [
+            {
+              "ref": "S51",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2013-03-28）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-42055-AFA4C-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2014-06-27",
+          "effectiveDate": "2014-06-27",
+          "meeting": "2014-06-26（理監事會）",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "特定地區增新北 4 區（五股、泰山、八里、鶯歌）與桃園縣 4 區；新增全國不分區自然人第 3 戶以上購屋貸款 5 成；高價住宅門檻改為台北市 7,000 萬/新北市 6,000 萬/其他 4,000 萬元以上，成數 6 成降為 5 成；公司法人購置住宅貸款降為 5 成。央行同時說明「申請房貸筆數僅占全國住宅數量之 28.5%，控管房貸成數(LTV)措施之效用有其限制」"
+          },
+          "refs": ["S52", "S53"],
+          "key": "2014-06-27-rule",
+          "sources": [
+            {
+              "ref": "S52",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2014-06-26）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-44416-35811-1.html"
+            },
+            {
+              "ref": "S53",
+              "agency": "中央銀行",
+              "title": "購置住宅貸款及土地抵押貸款業務規定（103.6.27 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-11393-f5f50657a3114fd8b26d11975e4eaeca.html"
+            }
+          ]
+        },
+        {
+          "date": "2015-08-14",
+          "effectiveDate": "2015-08-14",
+          "meeting": "2015-08-13（常務理事會）／2015-09-24 理監事會新聞稿說明",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "放寬：特定地區縮為臺北市＋新北市 15 區（刪八里、鶯歌與桃園 4 區）；自然人第 3 戶以上由 5 成升 6 成；高價住宅由 5 成升 6 成；公司法人升 6 成；特定地區第 2 戶維持 6 成"
+          },
+          "refs": ["S54", "S55"],
+          "key": "2015-08-14-rule",
+          "sources": [
+            {
+              "ref": "S54",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2015-09-24）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-51122-E2B82-1.html"
+            },
+            {
+              "ref": "S55",
+              "agency": "中央銀行",
+              "title": "購置住宅貸款及土地抵押貸款業務規定（104.8.14 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-17062-c0d6e60830a048f4bf6173375ffa0429.html"
+            }
+          ]
+        },
+        {
+          "date": "2016-03",
+          "effectiveDate": null,
+          "meeting": "2016-03 至 2020-12",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "央行「歷次措施」頁列出的規定版本在 105.3.25 與 109.12.8 之間沒有其他版本，高價住宅規範為唯一管制"
+          },
+          "refs": ["S2"],
+          "key": "2016-03-rule",
+          "sources": [
+            {
+              "ref": "S2",
+              "agency": "中央銀行",
+              "title": "央行歷次選擇性信用管制措施",
+              "url": "https://www.cbc.gov.tw/tw/cp-1087-40148-0F140-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2016-03-25",
+          "effectiveDate": "2016-03-25",
+          "meeting": "2016-03-24（理監事會）",
+          "round": 1,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "大幅解除：特定地區購屋貸款、第 3 戶以上、公司法人、土地抵押貸款規範「均予刪除」，僅保留購置高價住宅貸款規範（6 成、無寬限期；門檻臺北市 7,000 萬、新北市 6,000 萬、其他 4,000 萬元），規定更名「購置高價住宅貸款業務規定」。理由：「自99年6月採行不動產針對性審慎措施以來，已見成效」，加以稅制陸續推動、投機需求減少"
+          },
+          "refs": ["S56", "S57"],
+          "key": "2016-03-25-rule",
+          "sources": [
+            {
+              "ref": "S56",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2016-03-24）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-56212-6EB7A-1.html"
+            },
+            {
+              "ref": "S57",
+              "agency": "中央銀行",
+              "title": "購置高價住宅貸款業務規定（105.3.25 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-18705-f00afa7bef1a4b8ead8916bb987c2a48.html"
+            }
+          ]
+        },
+        {
+          "date": "2020-12-08",
+          "effectiveDate": "2020-12-08",
+          "meeting": "2020-12-07（常務理事會，非理監事會；2020-12-17 理監事會新聞稿提及此次修正）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 1 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "規定更名「不動產抵押貸款業務規定」。新增：公司法人購置住宅貸款 第 1 戶 6 成、第 2 戶(含)以上 5 成，均無寬限期；自然人第 3 戶(含)以上購置住宅貸款 6 成、無寬限期；購地貸款 須檢附興建計畫、6.5 成、保留 1 成動工後撥貸；餘屋貸款 5 成。央行稱「僅規範高風險貸款戶，並不影響首購及換屋等絕大多數實質需求貸款案件」。當時集中度 2020-10 底 35.9%，「接近歷史高點之37.9%」"
+          },
+          "refs": ["S13", "S3", "S82"],
+          "key": "2020-12-08-rule",
+          "sources": [
+            {
+              "ref": "S13",
+              "agency": "中央銀行",
+              "title": "中央銀行常務理事會決議調整本行不動產貸款針對性審慎措施（新聞稿 109 新聞發布第 206 號）",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-124848-b6248-1.html"
+            },
+            {
+              "ref": "S3",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（109.12.8 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-162498-bedd50d330394e98a3eab87af0d7e54d.html"
+            },
+            {
+              "ref": "S82",
+              "agency": "中央銀行",
+              "title": "理監事聯席會議決議新聞稿（2020-12-17）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-124981-85e48-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2021-03-19",
+          "effectiveDate": "2021-03-19",
+          "meeting": "2021-03-18（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 2 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "公司法人一律 4 成；自然人第 3 戶 6→5.5 成、第 4 戶以上 6→5 成；高價住宅 6→5.5 成（名下已有 3 戶房貸者 4 成）；新增工業區閒置土地抵押貸款 5.5 成（已動工或切結一定期間內動工者除外）"
+          },
+          "refs": ["S14", "S28", "S4"],
+          "key": "2021-03-19-rule",
+          "sources": [
+            {
+              "ref": "S14",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-132477-e11d9-1.html"
+            },
+            {
+              "ref": "S28",
+              "agency": "中央銀行",
+              "title": "110年3月18日央行理監事會後記者會簡報",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-132482-1a0ac-1.html"
+            },
+            {
+              "ref": "S4",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.3.19 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-167959-249d8f115928410997674ba0badd8a96.html"
+            }
+          ]
+        },
+        {
+          "date": "2021-09-24",
+          "effectiveDate": "2021-09-24",
+          "meeting": "2021-09-23（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 3 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "新增特定地區（臺北市、新北市、桃園市、臺中市、臺南市、高雄市、新竹縣、新竹市）自然人第 2 戶購屋貸款不得有寬限期；購地 6.5→6 成；工業區閒置土地 5.5→5 成（動工切結期限明訂「一年內」）"
+          },
+          "refs": ["S15", "S5"],
+          "key": "2021-09-24-rule",
+          "sources": [
+            {
+              "ref": "S15",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2021-09-23）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-141562-49221-1.html"
+            },
+            {
+              "ref": "S5",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.9.24 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-177785-c0da6379ac0649f3bb1ea04cb2bc1b3b.html"
+            }
+          ]
+        },
+        {
+          "date": "2021-12-17",
+          "effectiveDate": "2021-12-17",
+          "meeting": "2021-12-16（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 4 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "自然人高價住宅及第 3 戶(含)以上購屋貸款一律降為 4 成；購地 6→5 成並要求切結一定期間內動工；餘屋 5→4 成；工業區閒置土地 5→4 成。央行呼籲「購屋貸款負擔率…平均逾三成」，借款人留意寬限期屆滿與利率風險"
+          },
+          "refs": ["S16", "S6"],
+          "key": "2021-12-17-rule",
+          "sources": [
+            {
+              "ref": "S16",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2021-12-16）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-145044-c2737-1.html"
+            },
+            {
+              "ref": "S6",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.12.17 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-179752-525841ebae4649a39b979bd17e6c8eda.html"
+            }
+          ]
+        },
+        {
+          "date": "2023-06-16",
+          "effectiveDate": "2023-06-16",
+          "meeting": "2023-06-15（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 5 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "新增特定地區第 2 戶購屋貸款最高 7 成（原僅無寬限期）。央行：該類貸款平均成數 2021-10 為 75.5%、2023-04 為 77.1%"
+          },
+          "refs": ["S17", "S29", "S7"],
+          "key": "2023-06-16-rule",
+          "sources": [
+            {
+              "ref": "S17",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2023-06-15）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-158073-47ce0-1.html"
+            },
+            {
+              "ref": "S29",
+              "agency": "中央銀行",
+              "title": "112年6月15日央行理監事會後記者會簡報",
+              "url": "https://www.cbc.gov.tw/tw/dl-196112-64b9bd429c704cf7ba1f8c5c376c11fe.html"
+            },
+            {
+              "ref": "S7",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（112.6.16 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-196108-28bcaec42c5b46d4a8f334b693c33c96.html"
+            }
+          ]
+        },
+        {
+          "date": "2023-06-30",
+          "effectiveDate": null,
+          "meeting": "2023-06-30、2023-07-10",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "第 5 度後的換屋協處：央行說明借款人清償名下第 1 戶房貸即不受 7 成限制，且規定不溯及既往（06-30）；07-10 提供「先買後賣」換屋族協處：切結第 2 戶撥款後 1 年內出售第 1 戶並塗銷抵押權，得不受 7 成上限，違約收回成數差額、追溯罰息"
+          },
+          "refs": ["S33", "S34"],
+          "key": "2023-06-30-event",
+          "sources": [
+            {
+              "ref": "S33",
+              "agency": "中央銀行",
+              "title": "本行特定地區第2戶購屋貸款規定已考量換屋者權益",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-158181-fa4ed-1.html"
+            },
+            {
+              "ref": "S34",
+              "agency": "中央銀行",
+              "title": "本行選擇性信用管制規範對實際換屋者之協處措施",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-158215-89c0a-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2024-06-14",
+          "effectiveDate": "2024-06-14",
+          "meeting": "2024-06-13（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 6 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "特定地區第 2 戶 7→6 成。央行：2024-04 該類平均成數 68.15%；同次調升存款準備率（見 §三）"
+          },
+          "refs": ["S18", "S30", "S8"],
+          "key": "2024-06-14-rule",
+          "sources": [
+            {
+              "ref": "S18",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2024-06-13）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-170831-f9680-1.html"
+            },
+            {
+              "ref": "S30",
+              "agency": "中央銀行",
+              "title": "113年6月13日央行理監事會後記者會簡報",
+              "url": "https://www.cbc.gov.tw/tw/dl-206180-3c1f7204485e49218f6d6d7f3f24cd5b.html"
+            },
+            {
+              "ref": "S8",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（113.6.14 生效）修正規定",
+              "url": "https://www.cbc.gov.tw/tw/dl-206173-4c8c1d44bd8a4d6f86308c8ad8a70cdb.html"
+            }
+          ]
+        },
+        {
+          "date": "2024-09-20",
+          "effectiveDate": "2024-09-20",
+          "meeting": "2024-09-19（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 7 度",
+          "scheduled": false,
+          "summary": {
+            "zh": "①名下有房屋者之第 1 戶購屋貸款不得有寬限期；②第 2 戶 6→5 成，範圍由特定地區擴大全國；③公司法人、高價住宅、第 3 戶以上由 4→3 成；④餘屋貸款 4→3 成；購地 5 成、工業區 4 成未變。同次調升存款準備率（見 §三）。另此前 2024-08-12 至 21 央行邀 34 家本國銀行座談，以道德勸說請其「研提未來一年自主管理之不動產貸款具體量化改善方案」"
+          },
+          "refs": ["S19", "S35", "S9"],
+          "key": "2024-09-20-rule",
+          "sources": [
+            {
+              "ref": "S19",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2024-09-19）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-175326-8fb7b-1.html"
+            },
+            {
+              "ref": "S35",
+              "agency": "中央銀行",
+              "title": "近期本行分別邀請34家本國銀行來行座談，請其自主管理不動產貸款總量…",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-175172-6f024-1.html"
+            },
+            {
+              "ref": "S9",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（113.9.20 生效）修正規定",
+              "url": "https://www.cbc.gov.tw/tw/dl-208922-011b600bd10f416f92d80fe5f8f1c6c5.html"
+            }
+          ]
+        },
+        {
+          "date": "2024-10-09",
+          "effectiveDate": null,
+          "meeting": "2024-10-09",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "央行「選擇性信用管制規範之協處措施」：自 2024-09-20 起申貸案件適用：繼承取得之房屋與房貸不計入戶數；有實質換屋需求者切結 1 年內出售原屋，新申辦第 1 戶/第 2 戶購屋貸款得排除規定；已簽約者若申辦財政部青安貸款（非高價住宅）不受第 1 戶/第 2 戶限制"
+          },
+          "refs": ["S39"],
+          "key": "2024-10-09-event",
+          "sources": [
+            {
+              "ref": "S39",
+              "agency": "中央銀行",
+              "title": "本行選擇性信用管制規範之協處措施",
+              "url": "https://www.cbc.gov.tw/tw/cp-4220-176444-cf520-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2024-12-19",
+          "effectiveDate": null,
+          "meeting": "2024-12-19",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "理監事會：無新調整；集中度 11 月底 37.4%，續審視各銀行自主管理方案"
+          },
+          "refs": ["S20"],
+          "key": "2024-12-19-event",
+          "sources": [
+            {
+              "ref": "S20",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2024-12-19）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-179773-e5779-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-03-20",
+          "effectiveDate": null,
+          "meeting": "2025-03-20",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": { "zh": "理監事會：無調整；集中度 2 月底 37.1%" },
+          "refs": ["S21"],
+          "key": "2025-03-20-event",
+          "sources": [
+            {
+              "ref": "S21",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2025-03-20）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-181191-94138-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-05-13",
+          "effectiveDate": null,
+          "meeting": "2025-05-13",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "央行澄清「信用管制政策轉向、限縮十大建商貸款」報導與事實不符；理監事會是否調整將由理事會決定"
+          },
+          "refs": ["S40"],
+          "key": "2025-05-13-event",
+          "sources": [
+            {
+              "ref": "S40",
+              "agency": "中央銀行",
+              "title": "近日媒體報導本行信用管制政策轉向及限縮十大建商貸款等新聞查與事實不符",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-181463-4ffff-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-06-19",
+          "effectiveDate": null,
+          "meeting": "2025-06-19",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": { "zh": "理監事會：無調整；集中度 5 月底 37.1%" },
+          "refs": ["S22"],
+          "key": "2025-06-19-event",
+          "sources": [
+            {
+              "ref": "S22",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2025-06-19）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-182643-391fd-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-09-08",
+          "effectiveDate": null,
+          "meeting": "2025-09-08",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "央行調整換屋協處：出售原屋期限由 1 年延長為 18 個月（自 2024-09-20 以後錄案案件均可適用）"
+          },
+          "refs": ["S43"],
+          "key": "2025-09-08-event",
+          "sources": [
+            {
+              "ref": "S43",
+              "agency": "中央銀行",
+              "title": "本行調整實質換屋自住者之協處措施內容",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-184033-43ff2-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-09-18",
+          "effectiveDate": null,
+          "meeting": "2025-09-18",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "理監事會：無調整；集中度由 2024-06 底高點 37.61% 降至 2025-08 底 36.71%"
+          },
+          "refs": ["S23"],
+          "key": "2025-09-18-event",
+          "sources": [
+            {
+              "ref": "S23",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2025-09-18）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-184087-e72fa-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2025-12-18",
+          "effectiveDate": null,
+          "meeting": "2025-12-18",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "理監事會：維持第七波措施不變；但「明年起銀行不動產貸款總量回歸由各銀行內部控管；惟須按月向本行報送相關資料」，續辦專案金檢。集中度 11 月底 36.70%；不動產貸款/購置住宅/建築貸款餘額年增率 3.79%/4.81%/0.68%"
+          },
+          "refs": ["S24"],
+          "key": "2025-12-18-event",
+          "sources": [
+            {
+              "ref": "S24",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2025-12-18）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-189508-c6f08-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-03-19",
+          "effectiveDate": null,
+          "meeting": "2026-03-19",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "理監事會：第 2 戶 5→6 成（見上表）。集中度 2 月底 36.0%（央行簡報：35.96%）；不動產貸款餘額年增率自 2024-09 底高點 9.4% 降至 3.7%"
+          },
+          "refs": ["S25", "S31"],
+          "key": "2026-03-19-event",
+          "sources": [
+            {
+              "ref": "S25",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-03-19）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-190951-367ba-1.html"
+            },
+            {
+              "ref": "S31",
+              "agency": "中央銀行",
+              "title": "本行不動產選擇性信用管制實施成效與檢討（115年3月19日記者會參考資料）",
+              "url": "https://www.cbc.gov.tw/dl-225078-e5cf362504fa4169925921dc7d5cd0d6.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-03-20",
+          "effectiveDate": "2026-03-20",
+          "meeting": "2026-03-19（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": "第 8 度（央行簡報圖表標示）",
+          "scheduled": false,
+          "summary": {
+            "zh": "全國自然人第 2 戶購屋貸款 5→6 成（放寬）。央行理由：選擇性信用管制成效顯現、集中度回降，並「回應民眾陳情申辦自然人第2戶貸款係供家人或自己購屋自住之需求」"
+          },
+          "refs": ["S25", "S31", "S32", "S10"],
+          "key": "2026-03-20-rule",
+          "sources": [
+            {
+              "ref": "S25",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-03-19）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-190951-367ba-1.html"
+            },
+            {
+              "ref": "S31",
+              "agency": "中央銀行",
+              "title": "本行不動產選擇性信用管制實施成效與檢討（115年3月19日記者會參考資料）",
+              "url": "https://www.cbc.gov.tw/dl-225078-e5cf362504fa4169925921dc7d5cd0d6.html"
+            },
+            {
+              "ref": "S32",
+              "agency": "中央銀行",
+              "title": "本行不動產選擇性信用管制執行情形（115年9月17日記者會參考資料）",
+              "url": "https://www.cbc.gov.tw/dl-227599-f5b26526d15c4b40bcc105d611ed3c7a.html"
+            },
+            {
+              "ref": "S10",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定第四點、第十一點修正規定（115.3.20 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-225120-661e6368f3c34d15a2777e3704ad58dc.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-18",
+          "effectiveDate": null,
+          "meeting": "2026-06-18",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "理監事會：維持管制，無條文調整。集中度 5 月底 35.2%；央行指出「與股市活動相關之信用明顯擴張」"
+          },
+          "refs": ["S26"],
+          "key": "2026-06-18-event",
+          "sources": [
+            {
+              "ref": "S26",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-06-18）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-192416-38c80-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "effectiveDate": null,
+          "meeting": "2026-09-17",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": false,
+          "summary": { "zh": "理監事會：第 2 戶 6→7 成、購地刪切結（見上表）" },
+          "refs": ["S27"],
+          "key": "2026-09-17-event",
+          "sources": [
+            {
+              "ref": "S27",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-09-17）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-192864-4319f-1.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-18",
+          "effectiveDate": "2026-09-18",
+          "meeting": "2026-09-17（理監事會）",
+          "round": 2,
+          "kind": "rule",
+          "wave": null,
+          "scheduled": false,
+          "summary": {
+            "zh": "第 2 戶購屋貸款 6→7 成（放寬）；刪除購地貸款「切結於一定期間內動工興建」規定（回歸銀行授信實務）。央行：不動產貸款集中度 2026-07 底 34.44%，較 2024-06 底 37.61% 下降 3.17 個百分點"
+          },
+          "refs": ["S27", "S11"],
+          "key": "2026-09-18-rule",
+          "sources": [
+            {
+              "ref": "S27",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-09-17）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-192864-4319f-1.html"
+            },
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-12-17",
+          "effectiveDate": null,
+          "meeting": "2026-12-17（預定）",
+          "round": null,
+          "kind": "event",
+          "wave": null,
+          "scheduled": true,
+          "summary": { "zh": "下次理監事會，晚於讀取日" },
+          "refs": ["S79"],
+          "key": "2026-12-17-event",
+          "sources": [
+            {
+              "ref": "S79",
+              "agency": "中央銀行",
+              "title": "115年中央銀行理監事聯席會議預定日期",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-189514-82841-1.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "current-credit-control-rules",
+      "label": {
+        "zh": "現行不動產抵押貸款業務規定",
+        "en": "Current CBC real-estate mortgage rules"
+      },
+      "period": "2026-11-10",
+      "effectiveDate": "2026-09-18",
+      "columns": ["level", "rule", "cite", "refs"],
+      "source": {
+        "agency": "中央銀行",
+        "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+        "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+      },
+      "note": "period 為研究檔截止日；規定自 effectiveDate 生效；標【推讀】處為研究檔自行讀出，原文沒有逐字寫；下次理監事會預定 2026-12-17",
+      "rows": [
+        {
+          "key": "適用金融機構",
+          "level": 0,
+          "rule": {
+            "zh": "本國銀行、外國銀行在臺分行、信用合作社、全國農業金庫、農會信用部、漁會信用部、中華郵政、保險公司"
+          },
+          "cite": "第 2 點(一)",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "公司法人購置住宅貸款",
+          "level": 0,
+          "rule": {
+            "zh": "不得有寬限期；貸款額度最高不得超過住宅（含基地）鑑價或買賣金額較低者之 3 成；不得另以修繕、周轉金或其他名目額外增加貸款金額"
+          },
+          "cite": "第 3 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "自然人購置高價住宅貸款",
+          "level": 0,
+          "rule": {
+            "zh": "適用上列公司法人條件：3 成、無寬限期。高價住宅（建物權狀含「住」字樣）：臺北市鑑價或買賣金額 7,000 萬元以上；新北市 6,000 萬元以上；其他地區 4,000 萬元以上"
+          },
+          "cite": "第 2 點(四)、第 4 點(一)",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "自然人購屋貸款（非高價）：判定方式",
+          "level": 0,
+          "rule": {
+            "zh": "向聯徵中心歸戶查詢名下以房屋為抵押、用途代號「1」之擔保放款（簡稱房貸），並確認「全國財產稅總歸戶財產查詢清單」名下有無房屋"
+          },
+          "cite": "第 4 點(二)",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "無房貸但已有房屋（第 1 戶）",
+          "level": 1,
+          "rule": { "zh": "適用「不得有寬限期」；成數未另限" },
+          "cite": "第 4 點(二)1",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "已有一戶房貸（第 2 戶）",
+          "level": 1,
+          "rule": {
+            "zh": "最高 7 成，且不得有寬限期、不得另以名目增貸（全國適用）"
+          },
+          "cite": "第 4 點(二)2",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "已有二戶以上房貸（第 3 戶以上）",
+          "level": 1,
+          "rule": { "zh": "3 成，無寬限期" },
+          "cite": "第 4 點(二)3",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "名下無房屋者（首購）",
+          "level": 1,
+          "rule": {
+            "zh": "條文四項分類未列此類，故不受該點成數與寬限期限制【推讀】"
+          },
+          "cite": "第 4 點(二)",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "財政部青年安心成家購屋優惠貸款",
+          "level": 0,
+          "rule": {
+            "zh": "「不受本規定自然人第 1 戶、第 2 戶購屋貸款限制，其餘均應受本規定限制」（即高價住宅等仍受限）"
+          },
+          "cite": "問與答 Q4",
+          "refs": ["S12"],
+          "sources": [
+            {
+              "ref": "S12",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定問與答（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/dl-227702-d82559a407814bb8b6797e6d81215f4e.html"
+            }
+          ]
+        },
+        {
+          "key": "購地貸款",
+          "level": 0,
+          "rule": {
+            "zh": "須檢附購買土地具體興建計畫；最高不得超過取得成本與鑑價較低者之 5 成，其中 1 成俟動工興建後始得撥貸；2026-09-18 起刪除「切結於一定期間內動工興建」"
+          },
+          "cite": "第 5 點；修正對照表",
+          "refs": ["S11", "S27"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            },
+            {
+              "ref": "S27",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-09-17）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-192864-4319f-1.html"
+            }
+          ]
+        },
+        {
+          "key": "餘屋貸款",
+          "level": 0,
+          "rule": {
+            "zh": "最高不得超過鑑價金額之 3 成；新建餘屋＝屋齡五年內且仍維持建物第一次所有權登記"
+          },
+          "cite": "第 6 點、第 2 點(十)",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "工業區閒置土地抵押貸款",
+          "level": 0,
+          "rule": {
+            "zh": "最高 4 成；抵押土地已動工，或借款人檢附興建開發計畫並切結一年內動工者不適用"
+          },
+          "cite": "第 7 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "不適用",
+          "level": 0,
+          "rule": {
+            "zh": "依都市更新條例、都市危險及老舊建築物加速重建條例或其他配合政府政策之重建案件"
+          },
+          "cite": "第 8 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "鑑價",
+          "level": 0,
+          "rule": { "zh": "轉貸或展期不得藉由重新鑑價提高貸款金額" },
+          "cite": "第 9 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "銀行內規",
+          "level": 0,
+          "rule": { "zh": "內規較本規定嚴格者依內規" },
+          "cite": "第 10 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "過渡規定",
+          "level": 0,
+          "rule": {
+            "zh": "修正生效前已錄案尚未撥款者適用錄案時規定；但新規定有利借款人者適用新規定"
+          },
+          "cite": "第 11 點",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        },
+        {
+          "key": "協處：繼承",
+          "level": 0,
+          "rule": { "zh": "因繼承取得之房屋與房貸不計入房屋數及房貸戶數" },
+          "cite": "2024-10-09 新聞稿；Q14",
+          "refs": ["S39", "S12"],
+          "sources": [
+            {
+              "ref": "S39",
+              "agency": "中央銀行",
+              "title": "本行選擇性信用管制規範之協處措施",
+              "url": "https://www.cbc.gov.tw/tw/cp-4220-176444-cf520-1.html"
+            },
+            {
+              "ref": "S12",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定問與答（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/dl-227702-d82559a407814bb8b6797e6d81215f4e.html"
+            }
+          ]
+        },
+        {
+          "key": "協處：先買後賣換屋（第 1 戶）",
+          "level": 0,
+          "rule": {
+            "zh": "名下無房貸但有房屋、主張實質換屋自住者，切結撥款後 18 個月內出售原屋並完成過戶，得不受「不得有寬限期」限制"
+          },
+          "cite": "問與答 Q17",
+          "refs": ["S12"],
+          "sources": [
+            {
+              "ref": "S12",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定問與答（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/dl-227702-d82559a407814bb8b6797e6d81215f4e.html"
+            }
+          ]
+        },
+        {
+          "key": "協處：先買後賣換屋（第 2 戶）",
+          "level": 0,
+          "rule": {
+            "zh": "名下已有 1 戶房貸者，切結撥款後 18 個月內出售第 1 戶房貸擔保品並清償、塗銷抵押權，得不受貸款成數上限及無寬限期限制。違約效果：取消寬限期、立即收回 18 個月原應攤還本金（及成數差額）、追溯罰息、加收違約金"
+          },
+          "cite": "問與答 Q18",
+          "refs": ["S12", "S43"],
+          "sources": [
+            {
+              "ref": "S12",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定問與答（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/dl-227702-d82559a407814bb8b6797e6d81215f4e.html"
+            },
+            {
+              "ref": "S43",
+              "agency": "中央銀行",
+              "title": "本行調整實質換屋自住者之協處措施內容",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-184033-43ff2-1.html"
+            }
+          ]
+        },
+        {
+          "key": "協處適用起算",
+          "level": 0,
+          "rule": {
+            "zh": "2024-09-20（含）以後錄案案件；18 個月自 2025-09-08 公告延長"
+          },
+          "cite": "",
+          "refs": ["S43"],
+          "sources": [
+            {
+              "ref": "S43",
+              "agency": "中央銀行",
+              "title": "本行調整實質換屋自住者之協處措施內容",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-184033-43ff2-1.html"
+            }
+          ]
+        },
+        {
+          "key": "銀行自主管理（非條文）",
+          "level": 0,
+          "rule": {
+            "zh": "2024-08 起央行以道德勸說請銀行自訂未來一年不動產貸款總量；2025-12-18 決議自 2026 年起回歸各銀行內部控管，須按月向央行報送資料並接受專案金檢"
+          },
+          "cite": "",
+          "refs": ["S35", "S24"],
+          "sources": [
+            {
+              "ref": "S35",
+              "agency": "中央銀行",
+              "title": "近期本行分別邀請34家本國銀行來行座談，請其自主管理不動產貸款總量…",
+              "url": "https://www.cbc.gov.tw/tw/cp-302-175172-6f024-1.html"
+            },
+            {
+              "ref": "S24",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2025-12-18）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-189508-c6f08-1.html"
+            }
+          ]
+        },
+        {
+          "key": "存款準備率（配套）",
+          "level": 0,
+          "rule": {
+            "zh": "見 §三之二：2024-10-01 起支票存款 11.75%、活期存款 10.775%、儲蓄存款活期 6.5%、定期存款 6.0%"
+          },
+          "cite": "",
+          "refs": ["S59"],
+          "sources": [
+            {
+              "ref": "S59",
+              "agency": "中央銀行",
+              "title": "存款及其他各種負債準備率（ODS）",
+              "url": "https://www.cbc.gov.tw/tw/dl-192942-6ed95e3891024d128e15090901829320.html"
+            }
+          ]
+        },
+        {
+          "key": "重貼現率",
+          "level": 0,
+          "rule": {
+            "zh": "2%（擔保放款融通利率 2.375%、短期融通利率 4.25%），2024-03-22 起至 2026-09-17 理監事會仍維持"
+          },
+          "cite": "",
+          "refs": ["S58", "S27"],
+          "sources": [
+            {
+              "ref": "S58",
+              "agency": "中央銀行",
+              "title": "央行貼放利率",
+              "url": "https://www.cbc.gov.tw/tw/lp-640-1-1-20.html"
+            },
+            {
+              "ref": "S27",
+              "agency": "中央銀行",
+              "title": "中央銀行理監事聯席會議決議新聞稿（2026-09-17）",
+              "url": "https://www.cbc.gov.tw/tw/cp-357-192864-4319f-1.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltv-conditions-by-effective-date",
+      "label": {
+        "zh": "各版規定的條件矩陣",
+        "en": "Rule conditions by effective date"
+      },
+      "period": "2020-12-08/2026-09-18",
+      "columns": [
+        "corporate",
+        "highPrice",
+        "firstHome",
+        "secondHome",
+        "thirdHomePlus",
+        "landLoan",
+        "unsoldLoan",
+        "industrialLand"
+      ],
+      "columnLabels": {
+        "corporate": {
+          "zh": "公司法人購置住宅"
+        },
+        "highPrice": {
+          "zh": "自然人高價住宅"
+        },
+        "firstHome": {
+          "zh": "自然人第 1 戶(名下有屋、無房貸)"
+        },
+        "secondHome": {
+          "zh": "自然人第 2 戶"
+        },
+        "thirdHomePlus": {
+          "zh": "自然人第 3 戶以上"
+        },
+        "landLoan": {
+          "zh": "購地貸款"
+        },
+        "unsoldLoan": {
+          "zh": "餘屋貸款"
+        },
+        "industrialLand": {
+          "zh": "工業區閒置土地"
+        }
+      },
+      "source": {
+        "agency": "中央銀行",
+        "title": "央行歷次選擇性信用管制措施",
+        "url": "https://www.cbc.gov.tw/tw/cp-1087-40148-0F140-1.html"
+      },
+      "note": "成數＝貸款額度占「鑑價或買賣金額較低者」之上限；購地為「取得成本與鑑價較低者」；餘屋與工業區為「鑑價金額」；文字格內容照研究檔，未再拆數字",
+      "rows": [
+        {
+          "key": "2020-12-08",
+          "date": "2020-12-08",
+          "current": false,
+          "corporate": "第1戶 6成／第2戶+ 5成；無寬限",
+          "highPrice": "6成；無寬限",
+          "firstHome": "未規範",
+          "secondHome": "未規範",
+          "thirdHomePlus": "6成；無寬限",
+          "landLoan": "6.5成（1成動工後撥）；須興建計畫",
+          "unsoldLoan": "5成",
+          "industrialLand": "未納入",
+          "refs": ["S3"],
+          "sources": [
+            {
+              "ref": "S3",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（109.12.8 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-162498-bedd50d330394e98a3eab87af0d7e54d.html"
+            }
+          ]
+        },
+        {
+          "key": "2021-03-19",
+          "date": "2021-03-19",
+          "current": false,
+          "corporate": "4成；無寬限",
+          "highPrice": "5.5成（已有3戶房貸者4成）；無寬限",
+          "firstHome": "未規範",
+          "secondHome": "未規範",
+          "thirdHomePlus": "第3戶5.5成／第4戶+ 5成；無寬限",
+          "landLoan": "6.5成",
+          "unsoldLoan": "5成",
+          "industrialLand": "5.5成",
+          "refs": ["S4"],
+          "sources": [
+            {
+              "ref": "S4",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.3.19 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-167959-249d8f115928410997674ba0badd8a96.html"
+            }
+          ]
+        },
+        {
+          "key": "2021-09-24",
+          "date": "2021-09-24",
+          "current": false,
+          "corporate": "4成；無寬限",
+          "highPrice": "同上",
+          "firstHome": "未規範",
+          "secondHome": "特定地區：無寬限（無成數限制）",
+          "thirdHomePlus": "第3戶5.5／第4戶+5成",
+          "landLoan": "6成",
+          "unsoldLoan": "5成",
+          "industrialLand": "5成（動工切結1年內）",
+          "refs": ["S5"],
+          "sources": [
+            {
+              "ref": "S5",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.9.24 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-177785-c0da6379ac0649f3bb1ea04cb2bc1b3b.html"
+            }
+          ]
+        },
+        {
+          "key": "2021-12-17",
+          "date": "2021-12-17",
+          "current": false,
+          "corporate": "4成；無寬限",
+          "highPrice": "4成；無寬限",
+          "firstHome": "未規範",
+          "secondHome": "特定地區：無寬限",
+          "thirdHomePlus": "4成；無寬限",
+          "landLoan": "5成（須切結一定期間內動工）",
+          "unsoldLoan": "4成",
+          "industrialLand": "4成",
+          "refs": ["S6"],
+          "sources": [
+            {
+              "ref": "S6",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（110.12.17 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-179752-525841ebae4649a39b979bd17e6c8eda.html"
+            }
+          ]
+        },
+        {
+          "key": "2023-06-16",
+          "date": "2023-06-16",
+          "current": false,
+          "corporate": "4成",
+          "highPrice": "4成",
+          "firstHome": "未規範",
+          "secondHome": "特定地區：7成、無寬限",
+          "thirdHomePlus": "4成",
+          "landLoan": "5成",
+          "unsoldLoan": "4成",
+          "industrialLand": "4成",
+          "refs": ["S7"],
+          "sources": [
+            {
+              "ref": "S7",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（112.6.16 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-196108-28bcaec42c5b46d4a8f334b693c33c96.html"
+            }
+          ]
+        },
+        {
+          "key": "2024-06-14",
+          "date": "2024-06-14",
+          "current": false,
+          "corporate": "4成",
+          "highPrice": "4成",
+          "firstHome": "未規範",
+          "secondHome": "特定地區：6成、無寬限",
+          "thirdHomePlus": "4成",
+          "landLoan": "5成",
+          "unsoldLoan": "4成",
+          "industrialLand": "4成",
+          "refs": ["S8"],
+          "sources": [
+            {
+              "ref": "S8",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（113.6.14 生效）修正規定",
+              "url": "https://www.cbc.gov.tw/tw/dl-206173-4c8c1d44bd8a4d6f86308c8ad8a70cdb.html"
+            }
+          ]
+        },
+        {
+          "key": "2024-09-20",
+          "date": "2024-09-20",
+          "current": false,
+          "corporate": "3成；無寬限",
+          "highPrice": "3成；無寬限",
+          "firstHome": "無寬限（成數未限）",
+          "secondHome": "全國：5成、無寬限",
+          "thirdHomePlus": "3成；無寬限",
+          "landLoan": "5成",
+          "unsoldLoan": "3成",
+          "industrialLand": "4成",
+          "refs": ["S9"],
+          "sources": [
+            {
+              "ref": "S9",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定（113.9.20 生效）修正規定",
+              "url": "https://www.cbc.gov.tw/tw/dl-208922-011b600bd10f416f92d80fe5f8f1c6c5.html"
+            }
+          ]
+        },
+        {
+          "key": "2026-03-20",
+          "date": "2026-03-20",
+          "current": false,
+          "corporate": "3成",
+          "highPrice": "3成",
+          "firstHome": "無寬限",
+          "secondHome": "全國：6成、無寬限",
+          "thirdHomePlus": "3成",
+          "landLoan": "5成",
+          "unsoldLoan": "3成",
+          "industrialLand": "4成",
+          "refs": ["S10"],
+          "sources": [
+            {
+              "ref": "S10",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定第四點、第十一點修正規定（115.3.20 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-225120-661e6368f3c34d15a2777e3704ad58dc.html"
+            }
+          ]
+        },
+        {
+          "key": "2026-09-18",
+          "date": "2026-09-18",
+          "current": true,
+          "corporate": "3成；無寬限",
+          "highPrice": "3成；無寬限",
+          "firstHome": "無寬限",
+          "secondHome": "全國：7成、無寬限",
+          "thirdHomePlus": "3成；無寬限",
+          "landLoan": "5成（1成動工後撥）；須興建計畫，已刪「切結一定期間內動工」",
+          "unsoldLoan": "3成",
+          "industrialLand": "4成",
+          "refs": ["S11"],
+          "sources": [
+            {
+              "ref": "S11",
+              "agency": "中央銀行",
+              "title": "中央銀行對金融機構辦理不動產抵押貸款業務規定修正規定（115.9.18 生效）",
+              "url": "https://www.cbc.gov.tw/tw/dl-227611-e262ea5d31724ec696a8e2fa75a94600.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+---
+/**
+ * TopicNav — 專題內的橫向導覽：總覽 → 子頁 → 工具。
+ *
+ * 資料來自專題登記檔（src/data/topics/<id>.json）。手機上橫向捲動，
+ * 目前頁用 aria-current="page" 標出。登記檔還沒交、或 id 找不到時不輸出任何東西。
+ * 膠囊上的字用登記檔的 navTitle（短標題），沒寫才用 title（v1.1）。
+ *
+ * 用法（放在專題每一頁的 PageHero 底下）：
+ *   <TopicNav lang={lang} topic="housing" />
+ */
+import type { Lang } from '../../config/languages';
+import { useTopicsT } from '../../i18n/topics';
+import {
+  getTopic,
+  localizePath,
+  normalizePath,
+  pickText,
+  type Topic,
+} from '../../utils/topics/registry';
+import { textDir, uiDir } from '../../utils/topics/ui-dir';
+
+export interface Props {
+  lang: Lang;
+  /** 專題 id（'housing'），或直接傳 Topic 物件。 */
+  topic: string | Topic;
+  /** 目前頁的路徑，預設 Astro.url.pathname。 */
+  current?: string;
+}
+
+const { lang, topic: topicProp, current = Astro.url.pathname } = Astro.props;
+const t = useTopicsT(lang);
+const topic = typeof topicProp === 'string' ? getTopic(topicProp) : topicProp;
+const here = normalizePath(current);
+
+const items = topic
+  ? [
+      {
+        path: topic.path,
+        label: t('topicnav.home'),
+        kind: 'home',
+        attrs: uiDir(lang),
+      },
+      ...topic.subpages.map((s) => ({
+        path: s.path,
+        label: pickText(s.navTitle ?? s.title, lang),
+        kind: 'page',
+        attrs: textDir(s.navTitle ?? s.title, lang),
+      })),
+      ...topic.tools.map((tool) => ({
+        path: tool.path,
+        label: pickText(tool.navTitle ?? tool.title, lang),
+        kind: 'tool',
+        attrs: textDir(tool.navTitle ?? tool.title, lang),
+      })),
+    ].map((it) => {
+      const href = localizePath(it.path, lang);
+      return { ...it, href, active: normalizePath(href) === here };
+    })
+  : [];
+---
+
+{
+  topic && items.length > 1 && (
+    <nav
+      class="tn-nav"
+      aria-label={`${pickText(topic.title, lang)} · ${t('topicnav.label')}`}
+      data-tn-nav
+    >
+      <ul class="tn-list">
+        {items.map((it) => (
+          <li class="tn-item">
+            <a
+              class:list={['tn-link', `tn-link-${it.kind}`]}
+              href={it.href}
+              aria-current={it.active ? 'page' : undefined}
+              dir={it.attrs.dir}
+              lang={it.attrs.lang}
+            >
+              {it.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
+
+<script>
+  // 目前頁若被捲到畫面外（手機上項目多的時候），載入時捲回可見範圍。
+  document.querySelectorAll<HTMLElement>('[data-tn-nav]').forEach((nav) => {
+    const active = nav.querySelector<HTMLElement>('[aria-current="page"]');
+    const list = nav.querySelector<HTMLElement>('.tn-list');
+    if (!active || !list) return;
+    const a = active.getBoundingClientRect();
+    const l = list.getBoundingClientRect();
+    if (a.left < l.left || a.right > l.right) {
+      list.scrollLeft += a.left - l.left - 16;
+    }
+  });
+</script>
+
+<style>
+  .tn-nav {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 var(--space-page-x);
+  }
+  .tn-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.4rem;
+    margin: 0;
+    padding: 0.25rem 0 0.6rem;
+    list-style: none;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .tn-item {
+    flex: 0 0 auto;
+  }
+  .tn-link {
+    display: inline-block;
+    padding: 0.4rem 0.85rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    font-family: var(--font-interface);
+    font-size: 0.86rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--color-ink-soft);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .tn-link:hover,
+  .tn-link:focus-visible {
+    color: var(--color-ink);
+    border-color: var(--color-border);
+  }
+  .tn-link[aria-current='page'] {
+    color: var(--color-bg);
+    background: var(--color-ink);
+    border-color: var(--color-ink);
+  }
+  /* 工具用細框跟子頁分開，不只靠顏色。 */
+  .tn-link-tool:not([aria-current='page']) {
+    border-color: var(--color-border);
+    border-style: dashed;
+  }
+</style>

@@ -1,0 +1,212 @@
+---
+/**
+ * S5System — 第 5 節：制度地圖，四欄卡片（貸款、稅、土地與交易、住宅供給），每欄 3 到 4 個從資料檔讀出的數字。
+ * 每欄底下附該欄用到的來源與截止期別；本站加總的值標「本站計算」。
+ */
+import RelatedChips from './RelatedChips.astro';
+import SrcLine from './SrcLine.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { relatedList } from '../../../utils/housing/related';
+import {
+  DATA,
+  fmtPeriod,
+  fmtYi,
+  getSeries,
+  getTable,
+  grp,
+  latest,
+  qinganSrc,
+  srcOf,
+  srcOfTable,
+  trimNum,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s5;
+const q: any = DATA.qingan;
+
+// 貸款
+const redis = getSeries('rates', 'cbc-rediscount-rate');
+const loan = getSeries('lending', 'home-purchase-loan-balance');
+const conc = getSeries('lending', 'real-estate-credit-concentration');
+const qScale = q.scale;
+const redisL = latest(redis);
+const loanL = latest(loan);
+const concL = latest(conc);
+// 稅
+const comb = getSeries('tax', 'land-and-house-combined-tax-annual');
+const lvt = getSeries('tax', 'land-value-tax-annual');
+const house = getSeries('tax', 'house-tax-annual');
+const thousandToYi = (v: number) => v / 1e5; // 千元 → 億元
+// 土地與交易
+const tx = getSeries('transactions', 'building-transfers-annual-moi');
+const stock = getSeries('stock', 'housing-stock');
+const hh = getSeries('stock', 'households');
+const txL = latest(tx);
+const txP = tx.points[tx.points.length - 2];
+const drop = ((txP.v - txL.v) / txP.v) * 100;
+const rr = (DATA.timeline as any).events.find((e: any) =>
+  /實價登錄上路/.test(e.title.zh),
+);
+const rrYear = rr ? rr.date.slice(0, 4) : '';
+// 住宅供給
+const prog = getTable('social-housing', 'social-housing-progress');
+const natRow = prog.rows.find((r: any) => r.key === '全國合計／小計');
+const rent = getTable('social-housing', 'rental-management-matches');
+const cum = rent.rows.find((r: any) => r.key === 'cumulative');
+const subsidy = getSeries('social-housing', 'rent-subsidy-households');
+const subL = latest(subsidy);
+
+const asOf = (t: string) => fmtPeriod(t, lang);
+const fact = (k: string, v: string, n?: string) => ({ k, v, n });
+const cols = [
+  {
+    id: 'money',
+    c: S.money,
+    facts: [
+      fact(
+        S.money.f1,
+        `${trimNum(redisL.v, 3)}%`,
+        fill(S.money.f1n, { since: asOf(redisL.t) }),
+      ),
+      fact(
+        S.money.f2,
+        fmtYi(loanL.v / 100, lang),
+        fill(S.money.f2n, { asOf: asOf(loanL.t) }),
+      ),
+      fact(
+        S.money.f3,
+        `${concL.v}%`,
+        fill(S.money.f3n, { asOf: asOf(concL.t) }),
+      ),
+      fact(
+        S.money.f4,
+        fill(S.money.f4v, { h: grp(qScale.allCumulative.households) }),
+        fill(S.money.f4n, {
+          amount: fmtYi(qScale.allCumulative.amountYi, lang),
+          asOf: asOf(qScale.asOf),
+        }),
+      ),
+    ],
+    sources: [
+      srcOf(redis),
+      srcOf(loan),
+      srcOf(conc),
+      qinganSrc(qScale.source, qScale.asOf),
+    ],
+    chips: [] as [string, string][],
+  },
+  {
+    id: 'tax',
+    c: S.tax,
+    facts: [
+      fact(
+        S.tax.f1,
+        fmtYi(thousandToYi(latest(comb).v), lang),
+        fill(S.tax.f1n, { year: latest(comb).t }),
+      ),
+      fact(
+        S.tax.f2,
+        fmtYi(thousandToYi(latest(lvt).v), lang),
+        fill(S.tax.f2n, { year: latest(lvt).t }),
+      ),
+      fact(
+        S.tax.f3,
+        fmtYi(thousandToYi(latest(house).v), lang),
+        fill(S.tax.f3n, { year: latest(house).t }),
+      ),
+    ],
+    sources: [srcOf(comb), srcOf(lvt), srcOf(house)],
+  },
+  {
+    id: 'land',
+    c: S.land,
+    facts: [
+      fact(
+        S.land.f1,
+        fill(S.land.f1v, { n: grp(txL.v) }),
+        fill(S.land.f1n, { year: txL.t, drop: drop.toFixed(1) }),
+      ),
+      fact(
+        S.land.f2,
+        fill(S.land.f2v, { n: grp(latest(stock).v) }),
+        fill(S.land.f2n, { period: asOf(latest(stock).t) }),
+      ),
+      fact(
+        S.land.f3,
+        fill(S.land.f3v, { n: grp(latest(hh).v) }),
+        fill(S.land.f3n, { period: asOf(latest(hh).t) }),
+      ),
+    ],
+    sources: [srcOf(tx), srcOf(stock), srcOf(hh)],
+  },
+  {
+    id: 'supply',
+    c: S.supply,
+    facts: [
+      fact(
+        S.supply.f1,
+        fill(S.supply.f1v, { n: grp(natRow.achieved) }),
+        fill(S.supply.f1n, { asOf: asOf(prog.period ?? '') }),
+      ),
+      fact(
+        S.supply.f2,
+        fill(S.supply.f2v, { n: grp(natRow.existing + natRow.newlyCompleted) }),
+        S.supply.f2n,
+      ),
+      fact(
+        S.supply.f3,
+        fill(S.supply.f3v, { n: grp(cum.effectiveContracts) }),
+        fill(S.supply.f3n, { asOf: asOf(rent.period ?? '') }),
+      ),
+      fact(
+        S.supply.f4,
+        fill(S.supply.f4v, { n: grp(subL.v) }),
+        fill(S.supply.f4n, { period: asOf(subL.t) }),
+      ),
+    ],
+    sources: [srcOfTable(prog), srcOfTable(rent), srcOf(subsidy)],
+  },
+];
+const rel = await relatedList(lang, [
+  ['Society', '國宅與居住正義'],
+  ['Society', '居住正義'],
+  ['Society', '都市更新爭議'],
+]);
+---
+
+<section class="hs-section" id="system">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <div class="hs-syscols">
+      {
+        cols.map((col) => (
+          <article class={`hs-syscard is-${col.id}`}>
+            <span class="hs-chip">{col.c.tag}</span>
+            <h3 class="hs-syscard-t">{col.c.title}</h3>
+            <p class="hs-syscard-b">{fill(col.c.body, { rrYear })}</p>
+            <dl class="hs-facts">
+              {col.facts.map((x) => (
+                <div class="hs-fact">
+                  <dt>{x.k}</dt>
+                  <dd>
+                    <span class="hs-fact-v">{x.v}</span>
+                    {x.n && <span class="hs-fact-n">{x.n}</span>}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+            <SrcLine lang={lang} sources={col.sources} />
+          </article>
+        ))
+      }
+    </div>
+    <RelatedChips lang={lang} cards={rel} />
+  </div>
+</section>

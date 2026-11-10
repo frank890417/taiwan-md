@@ -1,0 +1,134 @@
+---
+/** §3 老：65 歲以上占比（實績＋推估）、長照基金收支、照顧人力。 */
+import TrendChart from '../charts/TrendChart.astro';
+import LineChart from '../../budget/LineChart.astro';
+import { healthCtx } from '../../../utils/health/pageContext';
+import RelatedChips from '../RelatedChips.astro';
+import type { RelItem } from '../../../utils/health/related';
+interface Props {
+  lang: string;
+  related: RelItem[];
+}
+const { lang, related } = Astro.props;
+const { t, r, p, zh, topic, aging } = healthCtx(lang);
+
+// 1993–2070：實績到 2025，之後接國發會中推估；沒有官方年底值的年份留空
+const hist = new Map(aging.history.map((h) => [h.year, h.elderPct]));
+const proj = new Map(aging.projection.rows.map((h) => [h.year, h.elderPct]));
+const ageYears = Array.from({ length: 2070 - 1993 + 1 }, (_, i) => 1993 + i);
+const lastHist = Math.max(...aging.history.map((h) => h.year));
+const ageVals = ageYears.map((y) =>
+  y <= lastHist ? (hist.get(y) ?? null) : (proj.get(y) ?? null),
+);
+const fund = topic.ltc.fund.rows;
+const mig = new Map(topic.ltc.workers.migrant as [number, number][]);
+const care = new Map(topic.ltc.workers.careWorkers as [number, number][]);
+const wYears = Array.from({ length: 10 }, (_, i) => 2016 + i);
+---
+
+<section class="bp-section" id="s3">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s3.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s3.h2')}</h2>
+    <p class="bp-lede" set:html={r('s3.lede')} />
+    <TrendChart
+      id="c-ageing"
+      title={p('s3.c1.title')}
+      subtitle={p('s3.c1.sub')}
+      years={ageYears}
+      unit="%"
+      decimals={1}
+      yMax={50}
+      height={340}
+      connectGaps
+      projFrom={lastHist}
+      projLabel={t('s3.proj')}
+      yearLabel={zh ? '年底' : 'Year-end'}
+      series={[
+        {
+          id: 'elder',
+          label: t('s3.series.elder'),
+          values: ageVals,
+          cls: 'bg-s0',
+        },
+      ]}
+      lines={[
+        { value: 7, label: t('s3.th7') },
+        { value: 14, label: t('s3.th14') },
+        { value: 20, label: t('s3.th20') },
+      ]}
+      source={zh
+        ? '內政部戶籍人口（年底）；國發會《中華民國人口推估（2024 年至 2070 年）》中推估。1994 到 2009、2011 到 2014 年本頁沒有收錄逐年值'
+        : 'Ministry of the Interior (year-end registered population); NDC Population Projections 2024–2070, medium variant. Annual values for 1994–2009 and 2011–2014 are not included here'}
+    />
+    <div class="bp-prose">
+      <p set:html={r('s3.p1')} />
+    </div>
+    <div class="bp-two bp-two-charts">
+      <LineChart
+        id="c-ltcfund"
+        title={p('s3.c2.title')}
+        subtitle={p('s3.c2.sub')}
+        years={fund.map((x) => x.year)}
+        lang={lang}
+        height={320}
+        series={[
+          {
+            id: 'in',
+            label: t('s3.series.fundIn'),
+            values: fund.map((x) => x.income),
+            cls: 'bg-mute',
+            dashed: true,
+          },
+          {
+            id: 'out',
+            label: t('s3.series.fundOut'),
+            values: fund.map((x) => x.spend),
+            cls: 'bg-s0',
+          },
+        ]}
+        source={zh
+          ? '衛福部長照服務發展基金各年度決算審定本'
+          : 'MOHW, audited accounts of the Long-Term Care Services Development Fund'}
+      />
+      <TrendChart
+        id="c-carers"
+        title={p('s3.c3.title')}
+        subtitle={p('s3.c3.sub')}
+        years={wYears}
+        unit={zh ? '萬人' : '×10,000'}
+        decimals={1}
+        height={320}
+        series={[
+          {
+            id: 'migrant',
+            label: t('s3.series.migrant'),
+            values: wYears.map((y) => (mig.has(y) ? mig.get(y)! / 1e4 : null)),
+            cls: 'bg-s2',
+          },
+          {
+            id: 'care',
+            label: t('s3.series.care'),
+            values: wYears.map((y) =>
+              care.has(y) ? care.get(y)! / 1e4 : null,
+            ),
+            cls: 'bg-s0',
+          },
+        ]}
+        source={zh
+          ? '勞動部《勞動統計月報》表 12-2（看護工，含家庭與機構）；衛福部長照司《長照人力》（2021 年起的登錄口徑，更早年份口徑不同，不畫）'
+          : 'Ministry of Labor monthly statistics, Table 12-2 (care workers, household and institutional); MOHW long-term care workforce table (registration basis from 2021; earlier years differ and are not drawn)'}
+      />
+    </div>
+    <div class="bp-prose">
+      <p set:html={r('s3.p2')} />
+      <p set:html={r('s3.p3')} />
+      <p set:html={r('s3.p4')} />
+    </div>
+    <RelatedChips
+      items={related}
+      label={t('related.h')}
+      pendingLabel={t('pending')}
+    />
+  </div>
+</section>

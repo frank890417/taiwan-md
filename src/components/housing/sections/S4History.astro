@@ -1,0 +1,74 @@
+---
+/**
+ * S4History — 第 4 節：五波房價大漲的資料狀態＋精簡時間軸（只放 timeline.json 中 featured 的節點）。
+ * 圖：HousingTimeline（compact）。各波漲幅沒有官方資料的，照實寫「這項目前沒有官方資料」，不估。
+ */
+import HousingTimeline from '../charts/HousingTimeline.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { DATA } from '../../../utils/housing/data';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s4;
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+const tl: any = DATA.timeline;
+const events: any[] = tl.events;
+const featured = events.filter((e) => e.featured);
+const cycles: any[] = tl.cycles;
+const waveFrom = parseInt(cycles[0].id.split('-')[0], 10);
+const waveTo = parseInt(cycles[cycles.length - 1].id.split('-')[1], 10);
+const movements = featured
+  .filter((e) => e.kind === 'movement')
+  .sort((a, b) => a.date.localeCompare(b.date));
+const y1 = parseInt(movements[0].date.slice(0, 4), 10);
+const y2 = parseInt(movements[movements.length - 1].date.slice(0, 4), 10);
+const vars = {
+  y1,
+  y2,
+  gap: y2 - y1,
+  n: cycles.length,
+  from: waveFrom,
+  to: waveTo,
+  nFeat: featured.length,
+  nEvents: events.length,
+};
+const historyHref = localizePath('/housing/history/', lang);
+---
+
+<section class="hs-section" id="history">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{fill(S.kicker, vars)}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <p class="hs-lede2">{fill(S.intro, vars)}</p>
+    <ol class="hs-waves">
+      {
+        cycles.map((c, i) => (
+          <li
+            class={`hs-wave ${c.rise.value === null ? 'is-none' : 'is-multi'}`}
+          >
+            <span class="hs-wave-n">{i + 1}</span>
+            <span class="hs-wave-l">{c.label[L]}</span>
+            <span class="hs-wave-s">
+              {c.rise.value === null ? S.waveNone : S.waveMulti}
+            </span>
+          </li>
+        ))
+      }
+    </ol>
+    <h3 class="hs-h3">{S.timelineTitle}</h3>
+    <HousingTimeline
+      events={featured}
+      eras={tl.eras}
+      compact={true}
+      lang={lang}
+    />
+    <p class="hs-fine">{S.timelineNote}</p>
+    <p class="hs-more"><a href={historyHref}>{fill(S.full, vars)} →</a></p>
+  </div>
+</section>

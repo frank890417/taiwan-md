@@ -1,0 +1,227 @@
+---
+/**
+ * names.template.astro — /names「台灣人的名字」專題主頁（13 語薄殼共用；文案 zh-TW／en／ja）。
+ *
+ * 設計報告：reports/design-names-topic-2026-11-10.md（EVOLVE Mode 4）
+ * 資料模型：src/utils/names/model.ts（從 src/data/names/* 取值，文案的 {變數} 都在那裡算）
+ * 段落：src/components/names/sections/{Basics,Spelling,People,Guide}.astro
+ * 文案：src/i18n/names.ts；結構化內容（時間軸、名制、各方說法、來源）：src/data/names/story.ts
+ * 版面與圖表樣式沿用 src/styles/budget.css（主元素同時掛 budget-page 與 names-page）。
+ * 爭議段落（拼音政策、原住民族正名、新住民姓名）各方具名並列，頁面不下結論。
+ */
+import '../styles/budget.css';
+import '../styles/names.css';
+import '../styles/topics-foundation.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import Basics from '../components/names/sections/Basics.astro';
+import Spelling from '../components/names/sections/Spelling.astro';
+import People from '../components/names/sections/People.astro';
+import Guide from '../components/names/sections/Guide.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import type { Lang } from '../config/languages';
+import { buildNamesModel } from '../utils/names/model';
+import { isTopicTranslated } from '../utils/topics/registry';
+import { textDir } from '../utils/topics/ui-dir';
+
+const lang = getLangFromUrl(Astro.url) as Lang;
+const m = await buildNamesModel(lang);
+const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
+// 沒有自己文案的語言顯示英文 fallback；右到左語言的頁面上這一整塊固定由左到右
+const fb = textDir(topic.title, lang);
+---
+
+<Layout
+  lang={lang}
+  title={t('meta.title')}
+  description={t('meta.desc')}
+  readerSettings={true}
+  noindex={!isTopicTranslated(topic, lang)}
+>
+  <main
+    class="budget-page names-page tf-surface min-h-screen"
+    dir={fb.dir}
+    lang={fb.lang}
+  >
+    <PageHero
+      eyebrow={t('hero.eyebrow')}
+      title={t('hero.title')}
+      subtitle={t('hero.subtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <blockquote class="bp-kicker bp-hero-verse">{t('hero.verse')}</blockquote>
+
+      <figure class="np-anatomy">
+        <div class="np-anatomy-top">
+          <div class="np-han" lang="zh-Hant" aria-label={t('anat.name')}>
+            {
+              anatName.map((c, i) => (
+                <span
+                  class={`np-han-cell ${i === 0 ? 'is-surname' : 'is-given'}`}
+                >
+                  <span class="np-han-role">
+                    {i === 0
+                      ? t('anat.surname')
+                      : i === 1
+                        ? t('anat.given')
+                        : ' '}
+                  </span>
+                  <span class="np-han-char">{c}</span>
+                  <span class="np-han-zy">{anatZy[i]}</span>
+                </span>
+              ))
+            }
+          </div>
+        </div>
+        <ul class="np-spell">
+          {
+            anatSpell.map((sp) => (
+              <li>
+                <span class="np-spell-sys">
+                  {
+                    S[
+                      `sys${sp.sys === 'wg' ? 'Wg' : sp.sys === 'hanyu' ? 'Hanyu' : sp.sys === 'tongyong' ? 'Tongyong' : 'Mps2'}`
+                    ]
+                  }
+                </span>
+                <span class="np-spell-v">
+                  <mark>{sp.surname}</mark>, {sp.given}
+                </span>
+              </li>
+            ))
+          }
+        </ul>
+        <figcaption class="np-anatomy-cap" set:html={r('anat.cap')} />
+      </figure>
+
+      <div class="bp-hero-stats">
+        <div class="bp-stat">
+          <div class="bp-stat-v">{V.nSurnames}</div>
+          <div class="bp-stat-l">
+            {t('hero.stat1.l')} · {t('hero.stat1.sub')}
+          </div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{top10Pct}%</div>
+          <div class="bp-stat-l">
+            {t('hero.stat2.l')} · {t('hero.stat2.sub')}
+          </div>
+        </div>
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{V.bocaRows} × 4</div>
+          <div class="bp-stat-l">
+            {t('hero.stat3.l')} · {t('hero.stat3.sub')}
+          </div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{V.momLatest}%</div>
+          <div class="bp-stat-l">
+            {t('hero.stat4.l')} · {t('hero.stat4.sub')}
+          </div>
+        </div>
+      </div>
+
+      <nav class="bp-brief" aria-label={t('hero.jump')}>
+        <h2 class="bp-brief-h">{t('hero.brief')}</h2>
+        <ol class="bp-brief-list">
+          {
+            toc.map((s, i) => (
+              <li>
+                <a href={`#${s.id}`}>
+                  <span class="bp-brief-n">{i}</span>
+                  <span class="bp-brief-body">
+                    <span class="bp-brief-label">{s.label}</span>
+                    <span class="bp-brief-take">{s.take}</span>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </PageHero>
+
+    <TopicNav lang={lang} topic={topic} />
+
+    <nav class="bp-subnav" aria-label={t('subnav.label')} id="bp-subnav">
+      <div class="bp-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <Basics m={m} />
+    <Spelling m={m} />
+    <People m={m} />
+    <Guide m={m} />
+    <TopicCrossLinks lang={lang} currentId="names" />
+  </main>
+
+  <script>
+    // 黏頂子導覽：量 header 底緣；scroll-spy 高亮當前段（做法同 /budget）
+    const subnav = document.getElementById('bp-subnav');
+    if (subnav) {
+      const measure = () => {
+        const hc = document.getElementById('header-container');
+        const b = hc ? hc.getBoundingClientRect().bottom : 56;
+        document.documentElement.style.setProperty(
+          '--bp-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
+        );
+      };
+      measure();
+      window.addEventListener('resize', measure, { passive: true });
+      setTimeout(measure, 800);
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+      );
+      const sections = links
+        .map((a) => document.getElementById(a.dataset.target!))
+        .filter((s): s is HTMLElement => !!s);
+      const setActive = (id: string) => {
+        for (const a of links) {
+          const on = a.dataset.target === id;
+          a.classList.toggle('is-active', on);
+          if (on && subnav.scrollWidth > subnav.clientWidth)
+            a.scrollIntoView({
+              block: 'nearest',
+              inline: 'center',
+              behavior: 'smooth',
+            });
+        }
+      };
+      if ('IntersectionObserver' in window) {
+        const visible = new Map<string, number>();
+        const io = new IntersectionObserver(
+          (entries) => {
+            for (const e of entries)
+              visible.set(
+                (e.target as HTMLElement).id,
+                e.isIntersecting ? e.intersectionRatio : 0,
+              );
+            let bestId = '';
+            let best = 0;
+            for (const s of sections) {
+              const v = visible.get(s.id) || 0;
+              if (v > best) {
+                best = v;
+                bestId = s.id;
+              }
+            }
+            if (bestId) setActive(bestId);
+          },
+          { rootMargin: '-40% 0px -50% 0px', threshold: [0, 0.01, 0.1, 0.25] },
+        );
+        sections.forEach((s) => io.observe(s));
+      }
+    }
+  </script>
+</Layout>

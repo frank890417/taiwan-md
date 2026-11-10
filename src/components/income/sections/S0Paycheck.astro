@@ -1,0 +1,222 @@
+---
+/**
+ * S0Paycheck — 第 0 區「一份薪水會被分成幾份？」
+ *
+ * 這區的圖就是實領薪資工具本身（工具內有堆疊條），由主模板塞進 <slot />。
+ * 這裡只放開場例子與「誰付多少」對照表。例子用 wage-series 最新一年的平均經常性薪資，
+ * 以 src/utils/income/takeHome.ts 現場算，不寫死金額。健保費率歸醫療專題，只連過去。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, fmtNT } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import { localizePath } from '../../../utils/topics/registry-core';
+import { computeTakeHome } from '../../../utils/income/takeHome';
+import labor from '../../../data/income/labor-2026.json';
+import wages from '../../../data/income/wage-series.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+
+const li = labor.laborInsurance;
+const occ = labor.occupationalAccident;
+const pen = labor.laborPension;
+const pc = (x: number) => `${+(x * 100).toFixed(2)}%`;
+const firstUrl = (s: string) => (s.match(/https?:\/\/[^\s（）]+/) || [s])[0];
+const year = labor._meta.effective.slice(0, 4);
+
+// 開場例子：最新一年的平均每月經常性薪資
+const wi = wages.years.length - 1;
+const sampleWage = wages.regularWageNominal[wi];
+const ex = computeTakeHome(
+  {
+    monthlyWage: sampleWage,
+    bonusMonths: 0,
+    selfContributionRate: 0,
+    nhiPremium: null,
+    annualIncomeTax: null,
+  },
+  {
+    laborInsurance: li,
+    occupationalAccident: occ,
+    laborPension: pen,
+  } as any,
+);
+const cap = li.insuredSalaryGrades[li.insuredSalaryGrades.length - 1];
+
+const none = t('income.s0.tbl.none');
+const rows = [
+  {
+    k: t('income.s0.tbl.row.li'),
+    rate: pc(li.ordinaryAccidentRate),
+    worker: pc(li.shares.worker),
+    employer: pc(li.shares.employer),
+    gov: pc(li.shares.government),
+  },
+  {
+    k: t('income.s0.tbl.row.ei'),
+    rate: pc(li.employmentRate),
+    worker: pc(li.shares.worker),
+    employer: pc(li.shares.employer),
+    gov: pc(li.shares.government),
+  },
+  {
+    k: t('income.s0.tbl.row.occ'),
+    rate: t('income.s0.tbl.occRate', { rate: pc(occ.averageRate) }),
+    worker: none,
+    employer: pc(occ.employerShare),
+    gov: none,
+  },
+  {
+    k: t('income.s0.tbl.row.pen'),
+    rate: t('income.s0.tbl.penRate'),
+    worker: t('income.s0.tbl.penWorker', { max: pc(pen.selfMaxRate) }),
+    employer: t('income.s0.tbl.penEmployer', { min: pc(pen.employerMinRate) }),
+    gov: none,
+  },
+];
+const srcs = [
+  { label: t('income.s0.src.li'), url: firstUrl(li.sources.rates) },
+  { label: t('income.s0.src.occ'), url: firstUrl(occ.source) },
+  { label: t('income.s0.src.pen'), url: firstUrl(pen.source) },
+];
+const rel = await relatedList(lang, [
+  ['Society', '誰算低薪'],
+  ['Society', '外送專法'],
+  ['Society', '台灣斜槓世代'],
+]);
+---
+
+<section class="bp-section" id="s0">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s0.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('income.s0.h2')}</h2>
+    <p class="bp-lede">
+      {
+        t('income.s0.lede', {
+          wyear: wages.years[wi],
+          year,
+          wage: fmtNT(sampleWage, lang),
+          li: fmtNT(ex.worker.laborInsurance, lang),
+          ei: fmtNT(ex.worker.employmentInsurance, lang),
+          er: fmtNT(ex.employer.totalMonthly, lang),
+        })
+      }
+    </p>
+    <slot />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s0.p1', {
+            liRate: pc(li.ordinaryAccidentRate),
+            eiRate: pc(li.employmentRate),
+            w: pc(li.shares.worker),
+            e: pc(li.shares.employer),
+            g: pc(li.shares.government),
+            occ: pc(occ.averageRate),
+            pen: pc(pen.employerMinRate),
+          })
+        }
+      </p>
+    </div>
+    <div class="bp-tbl-wrap">
+      <table class="bp-cuts inc-who">
+        <caption class="inc-cap">{t('income.s0.tbl.caption', { year })}</caption
+        >
+        <thead>
+          <tr>
+            <th>{t('income.s0.tbl.col.item')}</th>
+            <th>{t('income.s0.tbl.col.rate')}</th>
+            <th>{t('income.s0.tbl.col.worker')}</th>
+            <th>{t('income.s0.tbl.col.employer')}</th>
+            <th>{t('income.s0.tbl.col.gov')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <th scope="row">{r.k}</th>
+                <td>{r.rate}</td>
+                <td>{r.worker}</td>
+                <td>{r.employer}</td>
+                <td>{r.gov}</td>
+              </tr>
+            ))
+          }
+          <tr>
+            <th scope="row">{t('income.s0.tbl.row.nhi')}</th>
+            <td colspan="4">
+              {t('income.s0.tbl.nhi')}
+              <a href={localizePath('/health/', lang)}
+                >{t('income.s0.tbl.nhiLink')}</a
+              >
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s0.p2', {
+            cap: fmtNT(cap, lang),
+            self: pc(pen.selfMaxRate),
+          })
+        }
+      </p>
+    </div>
+    <p class="bp-note">
+      {t('income.s0.note', { effective: labor._meta.effective })}
+      {
+        srcs.map((s) => (
+          <>
+            {' '}
+            {s.label}
+            <a
+              class="bp-src no-external-icon"
+              aria-label={t('income.common.srclink')}
+              href={s.url}
+              target="_blank"
+              rel="noopener"
+            >
+              ↗
+            </a>
+          </>
+        ))
+      }
+    </p>
+    {
+      rel.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.common.related')}</span>
+          {rel.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-who {
+    min-width: 34rem;
+  }
+  .inc-who th[scope='row'] {
+    font-size: 0.9rem;
+    color: var(--bg-ink);
+    white-space: nowrap;
+  }
+  .inc-cap {
+    caption-side: top;
+    text-align: start;
+    font-weight: 700;
+    color: var(--bg-ink);
+    padding-block-end: 0.35rem;
+  }
+</style>

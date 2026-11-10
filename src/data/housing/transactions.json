@@ -1,0 +1,122 @@
+{
+  "$comment": "由 scripts/tools/build-housing-data.py 從 reports/research/2026-11/housing-statistics.md 產生，勿手改",
+  "retrieved": "2026-11-10",
+  "series": [
+    {
+      "id": "building-transfers-annual-moi",
+      "label": {
+        "zh": "建物買賣移轉棟數（年，內政部平台季加總）",
+        "en": "Building sale transfers per year (MOI platform, sum of quarters)"
+      },
+      "unit": "棟",
+      "cadence": "annual",
+      "asOf": "2025",
+      "derived": true,
+      "source": {
+        "agency": "內政部不動產資訊平台（資料源：地政司、戶政司、財政部財政資訊中心、國土管理署等）",
+        "title": "統計資訊整合項目下載區（CSV：住宅存量、房屋稅籍住宅類數量、普通家戶數、戶量、人口數、出生人數、建物買賣移轉登記棟數、租金補貼戶數）",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/E3030"
+      },
+      "note": "本檔把內政部平台 CSV 的四個季值相加，非官方年值；2026 年只有 2 季，不收",
+      "points": [
+        { "t": "2011", "v": 361704 },
+        { "t": "2012", "v": 328874 },
+        { "t": "2013", "v": 371892 },
+        { "t": "2014", "v": 320598 },
+        { "t": "2015", "v": 292550 },
+        { "t": "2016", "v": 245504 },
+        { "t": "2017", "v": 266086 },
+        { "t": "2018", "v": 277967 },
+        { "t": "2019", "v": 300275 },
+        { "t": "2020", "v": 326589 },
+        { "t": "2021", "v": 348194 },
+        { "t": "2022", "v": 321856 },
+        { "t": "2023", "v": 306971 },
+        { "t": "2024", "v": 350525 },
+        { "t": "2025", "v": 261308 }
+      ]
+    },
+    {
+      "id": "building-transfers-annual-mof",
+      "label": {
+        "zh": "建物買賣移轉棟數（年，財政部月加總）",
+        "en": "Building sale transfers per year (MOF, sum of months)"
+      },
+      "unit": "棟",
+      "cadence": "annual",
+      "asOf": "2025",
+      "derived": true,
+      "source": {
+        "agency": "財政部（資料含內政部建物買賣移轉棟數、實價登錄、房價指數）",
+        "title": "房地移轉賦稅及相關指標（monthly.csv、quarterly.csv）",
+        "url": "https://service.mof.gov.tw/public/Data/statistic/d3.js/demo/tax09/quarterly.csv"
+      },
+      "note": "本檔把財政部彙整的 12 個月值相加，非官方年值；2016、2022 年與內政部平台加總不同，研究檔並列；2026 年只有 8 個月，不收",
+      "points": [
+        { "t": "2016", "v": 245396 },
+        { "t": "2017", "v": 266086 },
+        { "t": "2018", "v": 277967 },
+        { "t": "2019", "v": 300275 },
+        { "t": "2020", "v": 326589 },
+        { "t": "2021", "v": 348194 },
+        { "t": "2022", "v": 318101 },
+        { "t": "2023", "v": 306971 },
+        { "t": "2024", "v": 350525 },
+        { "t": "2025", "v": 261308 }
+      ]
+    },
+    {
+      "id": "building-transfers-quarterly-moi",
+      "label": {
+        "zh": "建物買賣移轉棟數（季，內政部平台）",
+        "en": "Building sale transfers per quarter (MOI platform)"
+      },
+      "unit": "棟",
+      "cadence": "quarterly",
+      "asOf": "2026Q2",
+      "derived": false,
+      "source": {
+        "agency": "內政部不動產資訊平台（資料源：地政司、戶政司、財政部財政資訊中心、國土管理署等）",
+        "title": "統計資訊整合項目下載區（CSV：住宅存量、房屋稅籍住宅類數量、普通家戶數、戶量、人口數、出生人數、建物買賣移轉登記棟數、租金補貼戶數）",
+        "url": "https://pip.moi.gov.tw/Publicize/Info/E3030"
+      },
+      "note": "內政部地政司登記資料經不動產資訊平台彙整；研究檔只列 114Q1–115Q2",
+      "points": [
+        { "t": "2025Q1", "v": 63101 },
+        { "t": "2025Q2", "v": 67050 },
+        { "t": "2025Q3", "v": 64825 },
+        { "t": "2025Q4", "v": 66332 },
+        { "t": "2026Q1", "v": 60403 },
+        { "t": "2026Q2", "v": 64216 }
+      ]
+    },
+    {
+      "id": "building-transfers-monthly-mof",
+      "label": {
+        "zh": "建物買賣移轉棟數（月，財政部彙整）",
+        "en": "Building sale transfers per month (MOF)"
+      },
+      "unit": "棟",
+      "cadence": "monthly",
+      "asOf": "2026-08",
+      "derived": false,
+      "source": {
+        "agency": "財政部（資料含內政部建物買賣移轉棟數、實價登錄、房價指數）",
+        "title": "房地移轉賦稅及相關指標（monthly.csv、quarterly.csv）",
+        "url": "https://service.mof.gov.tw/public/Data/statistic/d3.js/demo/tax09/quarterly.csv"
+      },
+      "note": "研究檔只收 2026 年（115 年）已公布各月；2026 年 9 月該欄尚無值",
+      "points": [
+        { "t": "2026-01", "v": 23357 },
+        { "t": "2026-02", "v": 13505 },
+        { "t": "2026-03", "v": 23541 },
+        { "t": "2026-04", "v": 20073 },
+        { "t": "2026-05", "v": 20827 },
+        { "t": "2026-06", "v": 23316 },
+        { "t": "2026-07", "v": 26404 },
+        { "t": "2026-08", "v": 20270 }
+      ]
+    }
+  ],
+  "tables": []
+}

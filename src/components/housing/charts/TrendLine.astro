@@ -1,0 +1,437 @@
+---
+/**
+ * TrendLine — /housing/ 折線圖（伺服端 inline SVG + 資料表 fallback，不用圖表庫）。
+ *
+ * 為什麼不直接用 budget/LineChart：那個元件的 unit 只認 '億' 與 '%'、x 軸只認整數年、
+ * 表頭是寫死的「年度」。房價所得比（倍）、月資料、階梯線都放不進去，所以這裡另做一份，
+ * 介面照 budget 那套（title、subtitle、資料、unit、source、lang），geometry 沿用 budgetViz。
+ *
+ * 能力：多序列（含階梯線 step）、面積、水平分級底帶 bands、垂直事件線 markers、
+ * 資料斷點線 breakAt、逐點註記 annots、末端直接標籤取代圖例；x 軸為連續的「年」數值。
+ * 寬版 760／窄版 380 兩套幾何，CSS 只顯示其一。
+ */
+import FigureShell from './FigureShell.astro';
+import {
+  scaleLinear,
+  niceTicks,
+  linePath,
+  areaPath,
+  estTextW,
+  fitText,
+  CHART_WIDTHS,
+} from '../../../utils/budgetViz';
+import type { SourceRef } from '../../../utils/housing/data';
+
+export interface LinePt {
+  x: number;
+  v: number;
+}
+export interface TLine {
+  id: string;
+  label: string;
+  points: LinePt[];
+  /** 色槽：c0 藍 / c1 橘 / c2 青綠 / c3 琥珀 / c4 紫 / mute 灰 */
+  cls?: string;
+  step?: boolean;
+  area?: boolean;
+  dashed?: boolean;
+  /** 強調線（較粗） */
+  strong?: boolean;
+  /** 滑過提示與資料表表頭用的名稱（沒給就用 label；label 可能帶末端數值） */
+  name?: string;
+  /** 相鄰兩點的 x 距離超過這個值就斷線（資料缺年時不假裝連續） */
+  breakGap?: number;
+}
+export interface TMarker {
+  x: number;
+  label: string;
+  kind?: 'key' | 'ease' | 'plain';
+  title?: string;
+}
+export interface TAnnot {
+  x: number;
+  lineId: string;
+  text: string;
+  dir?: 'up' | 'down';
+}
+export interface TBand {
+  from: number;
+  to: number;
+  label?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  lang: string;
+  lines: TLine[];
+  sources: SourceRef[];
+  note?: string;
+  /** 值的單位後綴，只用在滑過提示與資料表（例：倍、%、棟） */
+  unit?: string;
+  digits?: number;
+  xMin?: number;
+  xMax?: number;
+  yMin?: number;
+  yMax?: number;
+  xTickStep?: number;
+  xFormat?: (x: number) => string;
+  /** 滑過提示的 x 顯示（季資料用 2026Q1）；預設同 xFormat */
+  tipX?: (x: number) => string;
+  yFormat?: (v: number) => string;
+  markers?: TMarker[];
+  bands?: TBand[];
+  breakAt?: { x: number; label: string };
+  annots?: TAnnot[];
+  /** 資料表要列哪些 x（含標籤）；不給就列第一條線的全部點 */
+  tableRows?: { x: number; label: string }[];
+  tableXHeader?: string;
+  height?: number;
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  lang,
+  lines,
+  sources,
+  note,
+  unit = '',
+  digits = 2,
+  xMin: xMinP,
+  xMax: xMaxP,
+  yMin = 0,
+  yMax: yMaxP,
+  xTickStep,
+  xFormat = (x: number) => String(Math.round(x)),
+  tipX: tipXP,
+  yFormat = (v: number) => String(v),
+  markers = [],
+  bands = [],
+  breakAt,
+  annots = [],
+  tableRows,
+  tableXHeader = '',
+  height = 340,
+  id,
+} = Astro.props;
+
+const allX = lines.flatMap((l) => l.points.map((p) => p.x));
+const allV = lines.flatMap((l) => l.points.map((p) => p.v));
+const xMin = xMinP ?? Math.min(...allX);
+const xMax = xMaxP ?? Math.max(...allX);
+const dataMax = Math.max(...allV);
+// 刻度：yMin 為 0 時沿用 budget 的 niceTicks；yMin 大於 0（指數圖）時從 yMin 起、用「整數公倍數」刻度
+function makeTicks(): number[] {
+  const hi = yMaxP ?? dataMax;
+  if (yMin <= 0) return niceTicks(Math.max(hi, 1e-9), 5);
+  const range = hi - yMin;
+  const raw = range / 5;
+  const pow = Math.pow(10, Math.floor(Math.log10(raw)));
+  const step =
+    [1, 2, 2.5, 5, 10].map((m) => m * pow).find((c) => c >= raw) ?? raw;
+  const out: number[] = [yMin];
+  for (
+    let v = Math.ceil((yMin + 1e-9) / step) * step;
+    v < hi + step;
+    v += step
+  ) {
+    out.push(+v.toFixed(10));
+    if (v >= hi) break;
+  }
+  return out;
+}
+const ticks = makeTicks();
+const top = Math.max(ticks[ticks.length - 1], yMaxP ?? 0);
+const colon = lang === 'zh-TW' ? '：' : ': ';
+const fmtVal = (v: number) => `${v.toFixed(digits)}${unit}`;
+const tipX = tipXP ?? xFormat;
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? Math.round(height * 0.84) : height;
+  const longest = Math.max(0, ...lines.map((l) => estTextW(l.label, 12, 6.5)));
+  const hasMk = markers.length > 0;
+  const M = {
+    l: narrow ? 42 : 52,
+    r: narrow
+      ? Math.max(70, Math.min(104, longest + 10))
+      : Math.max(96, Math.min(190, longest + 14)),
+    t: hasMk ? 40 : 18,
+    b: 30,
+  };
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const x = scaleLinear(xMin, xMax, M.l, M.l + iw);
+  const y = scaleLinear(yMin, top, M.t + ih, M.t);
+
+  const paths = lines.map((l) => {
+    const pts = l.points
+      .filter((p) => p.x >= xMin - 1e-9 && p.x <= xMax + 1e-9)
+      .map((p) => ({ x: x(p.x), y: y(p.v), v: p.v, px: p.x }));
+    let d = '';
+    let area = '';
+    if (l.step && pts.length) {
+      const seg: { x: number; y: number }[] = [];
+      pts.forEach((p, i) => {
+        if (i > 0) seg.push({ x: p.x, y: pts[i - 1].y });
+        seg.push({ x: p.x, y: p.y });
+      });
+      seg.push({ x: x(xMax), y: pts[pts.length - 1].y });
+      d = linePath(seg);
+      if (l.area)
+        area = areaPath(
+          seg,
+          seg.map((p) => ({ x: p.x, y: y(yMin) })),
+        );
+    } else {
+      // 缺資料的年份斷線：相鄰兩點 x 距離超過 breakGap 就另起一段
+      const segs: (typeof pts)[] = [];
+      pts.forEach((p, i) => {
+        if (i === 0 || (l.breakGap && p.px - pts[i - 1].px > l.breakGap))
+          segs.push([]);
+        segs[segs.length - 1].push(p);
+      });
+      d = segs.map((sg) => linePath(sg)).join(' ');
+      if (l.area)
+        area = segs
+          .map((sg) =>
+            areaPath(
+              sg,
+              sg.map((p) => ({ x: p.x, y: y(yMin) })),
+            ),
+          )
+          .join(' ');
+    }
+    const last = pts.length ? pts[pts.length - 1] : null;
+    return { l, d, area, pts, last };
+  });
+
+  const ends = paths
+    .filter((p) => p.last)
+    .map((p) => ({
+      p,
+      ly: p.last!.y,
+      ...fitText(p.l.label, M.r - 12, 12, 10),
+    }))
+    .sort((a, b) => a.ly - b.ly);
+  for (let i = 1; i < ends.length; i++)
+    if (ends[i].ly - ends[i - 1].ly < 14) ends[i].ly = ends[i - 1].ly + 14;
+
+  const step = xTickStep ?? (xMax - xMin > 12 ? 4 : 2);
+  const nStep = narrow ? step * 2 : step;
+  const xt: number[] = [];
+  const startTick = Math.ceil(xMin / nStep) * nStep;
+  for (let v = startTick; v <= xMax + 1e-9; v += nStep) xt.push(v);
+
+  // 事件線標籤兩行交錯，避免相鄰日期互撞
+  const mk = markers
+    .filter((m) => m.x >= xMin && m.x <= xMax)
+    .map((m, i) => ({ ...m, px: x(m.x), row: i % 2 }));
+  const hb = bands.map((b) => ({
+    y0: y(Math.min(top, b.to)),
+    y1: y(Math.max(yMin, b.from)),
+    label: b.label,
+  }));
+  return { W, H, M, iw, ih, x, y, paths, ends, xt, mk, hb, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+
+const rows =
+  tableRows ?? lines[0].points.map((p) => ({ x: p.x, label: xFormat(p.x) }));
+const at = (l: TLine, x: number) => {
+  const p = l.points.find((q) => Math.abs(q.x - x) < 1e-6);
+  return p ? p.v : null;
+};
+---
+
+<FigureShell
+  title={title}
+  subtitle={subtitle}
+  lang={lang}
+  sources={sources}
+  note={note}
+  id={id}
+  kind="line"
+>
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-label={title}
+        class={`hs-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {L.hb.map((b) => (
+          <g class="hs-band">
+            <rect
+              x={L.M.l}
+              y={Math.min(b.y0, b.y1)}
+              width={L.iw}
+              height={Math.max(2, Math.abs(b.y1 - b.y0))}
+            />
+            {b.label && (
+              <text
+                x={L.M.l + 6}
+                y={Math.min(b.y0, b.y1) + 13}
+                class="hs-band-lab"
+              >
+                {b.label}
+              </text>
+            )}
+          </g>
+        ))}
+        {ticks.map((t) => (
+          <g class="hs-grid">
+            <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(t)} y2={L.y(t)} />
+            <text
+              x={L.M.l - 8}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="hs-tick"
+            >
+              {yFormat(t)}
+            </text>
+          </g>
+        ))}
+        {L.xt.map((v) => (
+          <text
+            x={L.x(v)}
+            y={L.M.t + L.ih + 20}
+            text-anchor="middle"
+            class="hs-tick"
+          >
+            {xFormat(v)}
+          </text>
+        ))}
+        <line
+          x1={L.M.l}
+          x2={L.M.l + L.iw}
+          y1={L.y(yMin)}
+          y2={L.y(yMin)}
+          class="hs-axis"
+        />
+        {breakAt && breakAt.x >= xMin && breakAt.x <= xMax && (
+          <g class="hs-break">
+            <line
+              x1={L.x(breakAt.x)}
+              x2={L.x(breakAt.x)}
+              y1={L.M.t}
+              y2={L.M.t + L.ih}
+            />
+            {!L.narrow && (
+              <text
+                x={L.x(breakAt.x) + 5}
+                y={L.M.t + L.ih - 6}
+                class="hs-break-lab"
+              >
+                {breakAt.label}
+              </text>
+            )}
+          </g>
+        )}
+        {L.mk.map((m) => (
+          <g class={`hs-mark is-${m.kind ?? 'key'}`}>
+            <line x1={m.px} x2={m.px} y1={L.M.t - 6} y2={L.M.t + L.ih} />
+            <text
+              x={m.px}
+              y={L.M.t - 12 - m.row * 13}
+              text-anchor="middle"
+              class="hs-mark-lab"
+            >
+              {m.label}
+              {m.title && <title>{m.title}</title>}
+            </text>
+          </g>
+        ))}
+        {L.paths.map((p) => (
+          <g
+            class={`hs-series ${p.l.cls ?? 'c0'} ${p.l.strong ? 'is-strong' : ''}`}
+            data-series={p.l.id}
+          >
+            {p.area && <path d={p.area} class="hs-area" />}
+            <path
+              d={p.d}
+              class="hs-line"
+              fill="none"
+              stroke-dasharray={p.l.dashed ? '5 4' : undefined}
+            />
+            {(p.l.step
+              ? p.pts.filter((q, i) => i === 0 || q.v !== p.pts[i - 1].v)
+              : p.pts.length <= 40 || p.l.breakGap
+                ? p.pts
+                : p.last
+                  ? [p.last]
+                  : []
+            ).map((pt) => (
+              <circle
+                cx={pt.x}
+                cy={pt.y}
+                r={L.narrow ? 2.6 : 3.2}
+                class="hs-dot"
+              >
+                <title>{`${p.l.name ?? p.l.label} · ${tipX(pt.px)}${colon}${fmtVal(pt.v)}`}</title>
+              </circle>
+            ))}
+          </g>
+        ))}
+        {L.ends.map((e) => (
+          <text
+            x={L.M.l + L.iw + 8}
+            y={e.ly + 4}
+            class="hs-endlab"
+            style={`font-size:${e.size}px`}
+            data-series={e.p.l.id}
+          >
+            {e.text}
+          </text>
+        ))}
+        {annots.map((a) => {
+          const ln = lines.find((l) => l.id === a.lineId);
+          const pt = ln?.points.find((q) => Math.abs(q.x - a.x) < 1e-6);
+          if (!ln || !pt) return null;
+          const px = L.x(a.x);
+          const py = L.y(pt.v);
+          const up = a.dir !== 'down';
+          const ty = up ? py - 14 : py + 20;
+          const est = estTextW(a.text, 11, 6);
+          const anchor =
+            px + est / 2 > L.M.l + L.iw + 4
+              ? 'end'
+              : px - est / 2 < L.M.l
+                ? 'start'
+                : 'middle';
+          return (
+            <g class="hs-annot">
+              <line x1={px} x2={px} y1={py} y2={up ? ty + 4 : ty - 12} />
+              <text x={px} y={ty} text-anchor={anchor}>
+                {a.text}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
+  <table slot="table">
+    <thead>
+      <tr>
+        <th>{tableXHeader}</th>
+        {lines.map((l) => <th class="num">{l.name ?? l.label}</th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((r) => (
+          <tr>
+            <td>{r.label}</td>
+            {lines.map((l) => {
+              const v = at(l, r.x);
+              return <td class="num">{v === null ? '—' : fmtVal(v)}</td>;
+            })}
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</FigureShell>

@@ -1,0 +1,619 @@
+{
+  "eras": [
+    {
+      "id": "e1",
+      "from": 1950,
+      "to": 1969,
+      "span": "1953–1969",
+      "t": {
+        "zh": "農業養工業，然後出口",
+        "en": "Farming funds industry, then exports"
+      }
+    },
+    {
+      "id": "e2",
+      "from": 1970,
+      "to": 1989,
+      "span": "1970–1989",
+      "t": {
+        "zh": "重化工業、十大建設與電子起步",
+        "en": "Heavy industry, the Ten Projects and the start of electronics"
+      }
+    },
+    {
+      "id": "e3",
+      "from": 1990,
+      "to": 2009,
+      "span": "1990–2009",
+      "t": {
+        "zh": "科學園區擴張與全球分工",
+        "en": "Science parks expand; global division of labour"
+      }
+    },
+    {
+      "id": "e4",
+      "from": 2010,
+      "to": 2021,
+      "span": "2010–2021",
+      "t": {
+        "zh": "產業創新條例與半導體成為主幹",
+        "en": "The innovation statute; semiconductors become the trunk"
+      }
+    },
+    {
+      "id": "e5",
+      "from": 2022,
+      "to": 2026,
+      "span": "2022–2026",
+      "t": {
+        "zh": "AI 伺服器、關稅與海外設廠",
+        "en": "AI servers, tariffs and fabs abroad"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "plan1953",
+      "date": "1953",
+      "track": "policy",
+      "era": "e1",
+      "url": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/355d4b3b-ef8c-4194-bf3b-2ae346140063",
+      "t": {
+        "zh": "政府開始編中期經濟建設計畫",
+        "en": "The government begins drawing up medium-term economic plans"
+      },
+      "f": {
+        "zh": "行政院的資料：從 1953 年起推動中期國家建設計畫，到 2016 年一共 16 期。",
+        "en": "According to the Executive Yuan, medium-term national development plans have been drawn up since 1953, sixteen of them by 2016."
+      }
+    },
+    {
+      "id": "sii1960",
+      "date": "1960-09-10",
+      "track": "policy",
+      "era": "e1",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040010",
+      "t": {
+        "zh": "《獎勵投資條例》公布",
+        "en": "Statute for the Encouragement of Investment promulgated"
+      },
+      "f": {
+        "zh": "用租稅減免獎勵投資的專法，施行期間到 1990 年 12 月 31 日。",
+        "en": "A statute rewarding investment with tax relief; it remained in force until 31 December 1990."
+      }
+    },
+    {
+      "id": "twse1962",
+      "date": "1962-02-09",
+      "track": "market",
+      "era": "e1",
+      "url": "https://www.twse.com.tw/zh/about/company/history.html",
+      "t": {
+        "zh": "臺灣證券交易所開業",
+        "en": "The Taiwan Stock Exchange opens"
+      },
+      "f": {
+        "zh": "1961 年 10 月 23 日成立，隔年 2 月 9 日正式開業。",
+        "en": "Founded on 23 October 1961, it opened for business on 9 February the following year."
+      },
+      "article": ["Economy", "台灣股市與資本市場"]
+    },
+    {
+      "id": "epz1966",
+      "date": "1966-12-03",
+      "track": "policy",
+      "era": "e1",
+      "url": "https://www.archives.gov.tw/tw/arctw/336-8939.html",
+      "t": {
+        "zh": "高雄加工出口區設立",
+        "en": "Kaohsiung Export Processing Zone established"
+      },
+      "f": {
+        "zh": "臺灣第一個加工出口區。2021 年 3 月更名為科技產業園區。",
+        "en": "Taiwan’s first export processing zone. It was renamed a Technology Industrial Park in March 2021."
+      },
+      "article": ["History", "高雄加工出口區"]
+    },
+    {
+      "id": "itri1973",
+      "date": "1973-07-05",
+      "track": "policy",
+      "era": "e2",
+      "url": "https://50th.itri.org.tw/history/origin/46/",
+      "t": {
+        "zh": "工業技術研究院成立",
+        "en": "Industrial Technology Research Institute (ITRI) founded"
+      },
+      "f": {
+        "zh": "同年 1 月立法院三讀通過設置條例。後來的積體電路技術移轉由它承接。",
+        "en": "The legislature passed its founding statute in January of the same year. ITRI later carried out the integrated-circuit technology transfer."
+      }
+    },
+    {
+      "id": "ten1974",
+      "date": "1974",
+      "track": "policy",
+      "era": "e2",
+      "url": "https://www.president.gov.tw/Page/294/39935",
+      "t": {
+        "zh": "十大建設開始",
+        "en": "The Ten Major Construction Projects begin"
+      },
+      "f": {
+        "zh": "原先是九項建設，加入核能發電廠後成為十大建設。各項完工年不同，北迴鐵路 1980 年 2 月全線完工。",
+        "en": "Originally nine projects; a nuclear power plant made it ten. Completion dates differ, the North-Link railway was finished in February 1980."
+      },
+      "article": ["History", "十大建設"]
+    },
+    {
+      "id": "rca1976",
+      "date": "1976-03-05",
+      "track": "company",
+      "era": "e2",
+      "url": "https://pan.itri.org.tw/datadetail?SiteID=1&MmmID=1310651427173376245",
+      "t": {
+        "zh": "工研院與美國 RCA 簽積體電路技術移轉合約",
+        "en": "ITRI signs an integrated-circuit technology-transfer agreement with RCA"
+      },
+      "f": {
+        "zh": "日期出自潘文淵博士的生平年表。",
+        "en": "The date comes from the official chronology of Dr Pan Wen-yuan’s life."
+      },
+      "article": ["Technology", "半導體產業"]
+    },
+    {
+      "id": "parkact1979",
+      "date": "1979-07-27",
+      "track": "policy",
+      "era": "e2",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=H0160004",
+      "t": {
+        "zh": "《科學工業園區設置管理條例》公布",
+        "en": "Act for the Establishment and Administration of Science Industrial Parks promulgated"
+      },
+      "f": {
+        "zh": "科學園區的法源。2018 年更名為《科學園區設置管理條例》。",
+        "en": "The legal basis for science parks. It was renamed in 2018."
+      }
+    },
+    {
+      "id": "umc1980",
+      "date": "1980-05-22",
+      "track": "company",
+      "era": "e2",
+      "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+      "t": {
+        "zh": "聯華電子成立",
+        "en": "United Microelectronics Corporation (UMC) founded"
+      },
+      "f": {
+        "zh": "日期是證交所公司基本資料登記的成立日。1985 年 7 月 16 日上市。",
+        "en": "The date is the incorporation date in the TWSE company profile. It listed on 16 July 1985."
+      },
+      "article": ["Economy", "台灣企業：聯華電子"]
+    },
+    {
+      "id": "hsip1980",
+      "date": "1980-12-15",
+      "track": "policy",
+      "era": "e2",
+      "url": "https://www.sipa.gov.tw/home.jsp?serno=201001210024&mserno=201001210023&menudata=ChineseMenu&contlink=content/about_1.jsp",
+      "t": {
+        "zh": "新竹科學工業園區成立",
+        "en": "Hsinchu Science Industrial Park established"
+      },
+      "f": {
+        "zh": "第一個科學園區。",
+        "en": "The first science park."
+      },
+      "article": ["Technology", "科技園區發展"]
+    },
+    {
+      "id": "ntd1986",
+      "date": "1986",
+      "track": "market",
+      "era": "e2",
+      "url": "https://www.taiwan-database.net/PDFs/Taiwan_Statistical_Data_Book_2010.pdf",
+      "t": {
+        "zh": "貿易順差擴大，新臺幣升值",
+        "en": "The trade surplus widens and the New Taiwan dollar appreciates"
+      },
+      "f": {
+        "zh": "商品貿易順差 1984 年 85.9 億美元，1986 年 157.4 億美元。年底匯率 1985 年是 39.85 元兌 1 美元，1987 年是 28.55 元（經建會統計）。",
+        "en": "The merchandise trade surplus was US$8.59 billion in 1984 and US$15.74 billion in 1986. The year-end exchange rate went from NT$39.85 to the US dollar in 1985 to NT$28.55 in 1987 (CEPD statistics)."
+      },
+      "article": ["Economy", "新台幣"]
+    },
+    {
+      "id": "tsmc1987",
+      "date": "1987-02-21",
+      "track": "company",
+      "era": "e2",
+      "url": "https://investor.tsmc.com/sites/ir/financial-report/2025/TSMC%202025Q2%20Consolidated%20Financial%20Statements_C_1.pdf",
+      "t": {
+        "zh": "台灣積體電路製造公司設立",
+        "en": "Taiwan Semiconductor Manufacturing Company (TSMC) incorporated"
+      },
+      "f": {
+        "zh": "1994 年 9 月 5 日上市。",
+        "en": "It listed on 5 September 1994."
+      },
+      "article": ["Economy", "台灣企業：台積電"]
+    },
+    {
+      "id": "upgrade1990",
+      "date": "1990-12-29",
+      "track": "policy",
+      "era": "e3",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040016",
+      "t": {
+        "zh": "《促進產業升級條例》公布",
+        "en": "Statute for Upgrading Industries promulgated"
+      },
+      "f": {
+        "zh": "1991 年 1 月 1 日施行。租稅減免一章施行到 2009 年底。",
+        "en": "In force from 1 January 1991. Its tax-relief chapter ran until the end of 2009."
+      },
+      "article": ["Economy", "台灣產業轉型升級"]
+    },
+    {
+      "id": "tpex1994",
+      "date": "1994-11-01",
+      "track": "market",
+      "era": "e3",
+      "url": "https://www.tpex.org.tw/zh-tw/about/company/history.html",
+      "t": {
+        "zh": "證券櫃檯買賣中心設立",
+        "en": "The Taipei Exchange (TPEx) established"
+      },
+      "f": {
+        "zh": "接辦櫃檯買賣市場，也就是後來的上櫃與興櫃。",
+        "en": "It took over the over-the-counter market, today’s TPEx mainboard and Emerging Stock Board."
+      }
+    },
+    {
+      "id": "stsp1995",
+      "date": "1995-05",
+      "track": "policy",
+      "era": "e3",
+      "url": "https://www.stsp.gov.tw/web/WEB/Jsp/Page/cindex.jsp?frontTarget=DEFAULT&thisRootID=195",
+      "t": {
+        "zh": "南部科學工業園區籌設計畫核定",
+        "en": "Plan for the Southern Taiwan Science Park approved"
+      },
+      "f": {
+        "zh": "同年 2 月行政院決議設置。",
+        "en": "The Executive Yuan had resolved to set it up in February of that year."
+      }
+    },
+    {
+      "id": "wto2002",
+      "date": "2002-01-01",
+      "track": "world",
+      "era": "e3",
+      "url": "https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=354&pid=312950&dl_DateRange=all&txt_SD=&txt_ED=&txt_Keyword=&Pageid=0",
+      "t": {
+        "zh": "臺灣成為世界貿易組織第 144 個會員",
+        "en": "Taiwan becomes the 144th member of the World Trade Organization"
+      },
+      "f": {
+        "zh": "2001 年 11 月 12 日簽署入會議定書。",
+        "en": "The accession protocol was signed on 12 November 2001."
+      },
+      "article": ["Economy", "台灣國際貿易政策"]
+    },
+    {
+      "id": "ctsp2002",
+      "date": "2002-09-23",
+      "track": "policy",
+      "era": "e3",
+      "url": "https://www.ctsp.gov.tw/files/475b146d-e78e-4028-9baa-d968bc0faca9.pdf",
+      "t": {
+        "zh": "中部科學工業園區籌設計畫核定",
+        "en": "Plan for the Central Taiwan Science Park approved"
+      },
+      "f": {
+        "zh": "2003 年 7 月 28 日開放廠商進駐。",
+        "en": "It opened to tenants on 28 July 2003."
+      }
+    },
+    {
+      "id": "innov2010",
+      "date": "2010-05-12",
+      "track": "policy",
+      "era": "e4",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=J0040051",
+      "t": {
+        "zh": "《產業創新條例》公布",
+        "en": "Statute for Industrial Innovation promulgated"
+      },
+      "f": {
+        "zh": "同一天公布廢止《促進產業升級條例》。現行的研發投資抵減都在這部法裡。",
+        "en": "The Statute for Upgrading Industries was repealed the same day. Today’s R&D tax credits sit in this law."
+      }
+    },
+    {
+      "id": "ecfa2010",
+      "date": "2010-06-29",
+      "track": "world",
+      "era": "e4",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=Q0070022",
+      "t": {
+        "zh": "海峽兩岸經濟合作架構協議（ECFA）簽署",
+        "en": "Cross-Strait Economic Cooperation Framework Agreement (ECFA) signed"
+      },
+      "f": {
+        "zh": "由海基會與海協會簽署，同年 9 月 12 日生效。",
+        "en": "Signed by the Straits Exchange Foundation and its counterpart; it took effect on 12 September that year."
+      }
+    },
+    {
+      "id": "fiveplus2",
+      "date": "2016",
+      "track": "policy",
+      "era": "e4",
+      "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/8aea3f96-67a0-47a7-a023-cfb50fe14261",
+      "t": {
+        "zh": "「5+2 產業創新」",
+        "en": "The “5+2” industrial innovation programme"
+      },
+      "f": {
+        "zh": "行政院長 2016 年 11 月表示，團隊 5 月上任以來推動這個方案，包括智慧機械、綠能科技、亞洲矽谷、生技醫藥、國防科技與新農業。",
+        "en": "The premier said in November 2016 that his team had pursued it since taking office in May; it covered smart machinery, green energy, the “Asia Silicon Valley”, biomedicine, defence and new agriculture."
+      }
+    },
+    {
+      "id": "reshoring2019",
+      "date": "2019-01-01",
+      "track": "policy",
+      "era": "e4",
+      "url": "https://investtaiwan.nat.gov.tw/showPagecht1135?lang=cht&search=1135",
+      "t": {
+        "zh": "「歡迎台商回台投資行動方案」啟動",
+        "en": "Action plan welcoming overseas Taiwanese businesses back to invest begins"
+      },
+      "f": {
+        "zh": "截至 2026 年 11 月 5 日，372 家通過審核，預估投資約 1 兆 6,975 億元。這是通過審核的金額，不是實際到位數。",
+        "en": "As of 5 November 2026, 372 companies had been approved, with estimated investment of about NT$1.70 trillion, the approved amount, not money actually spent."
+      }
+    },
+    {
+      "id": "az2020",
+      "date": "2020-05-15",
+      "track": "company",
+      "era": "e4",
+      "url": "https://pr.tsmc.com/english/news/2033",
+      "t": {
+        "zh": "台積電宣布到美國亞利桑那設廠",
+        "en": "TSMC announces a fab in Arizona"
+      },
+      "f": {
+        "zh": "當時公布 2021 到 2029 年總支出約 120 億美元。",
+        "en": "Total spending from 2021 to 2029 was put at about US$12 billion at the time."
+      },
+      "article": ["Technology", "AI供應鏈海外設廠"]
+    },
+    {
+      "id": "six2020",
+      "date": "2020-12-10",
+      "track": "policy",
+      "era": "e4",
+      "url": "https://www.ey.gov.tw/Page/448DE008087A1971/1236c5fe-c03e-46b0-b2bb-904660cd0f2b",
+      "t": {
+        "zh": "「六大核心戰略產業推動方案」",
+        "en": "Programme for the Six Core Strategic Industries"
+      },
+      "f": {
+        "zh": "國發會在行政院院會報告整體規劃。",
+        "en": "The National Development Council presented the overall plan to the Executive Yuan Council."
+      }
+    },
+    {
+      "id": "jasm2021",
+      "date": "2021-11-09",
+      "track": "company",
+      "era": "e4",
+      "url": "https://pr.tsmc.com/english/news/2881",
+      "t": {
+        "zh": "台積電董事會核准在日本設子公司",
+        "en": "TSMC’s board approves a subsidiary in Japan"
+      },
+      "f": {
+        "zh": "熊本廠 2024 年 2 月 24 日舉行開幕典禮。",
+        "en": "The Kumamoto fab held its opening ceremony on 24 February 2024."
+      }
+    },
+    {
+      "id": "chips2022",
+      "date": "2022-08-09",
+      "track": "world",
+      "era": "e5",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ167/html/PLAW-117publ167.htm",
+      "t": {
+        "zh": "美國《晶片與科學法》",
+        "en": "The US CHIPS and Science Act"
+      },
+      "f": {
+        "zh": "公法編號 117-167。",
+        "en": "Public Law 117-167."
+      }
+    },
+    {
+      "id": "sec102",
+      "date": "2023-01-19",
+      "track": "policy",
+      "era": "e5",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
+      "t": {
+        "zh": "《產業創新條例》增訂第 10 條之 2",
+        "en": "Article 10-2 added to the Statute for Industrial Innovation"
+      },
+      "f": {
+        "zh": "前瞻創新研發支出的 25% 可以抵減營利事業所得稅，適用到 2029 年底。",
+        "en": "25% of spending on forward-looking innovative R&D can be credited against corporate income tax, through the end of 2029."
+      }
+    },
+    {
+      "id": "t20k",
+      "date": "2024-03-21",
+      "track": "market",
+      "era": "e5",
+      "url": "https://www.twse.com.tw/zh/indices/taiex/mi-5min-hist.html",
+      "t": {
+        "zh": "加權指數首次收在 20,000 點以上",
+        "en": "The TAIEX closes above 20,000 for the first time"
+      },
+      "f": {
+        "zh": "依證交所歷史指數資料逐日比對。",
+        "en": "Determined by checking the exchange’s historical index data day by day."
+      }
+    },
+    {
+      "id": "az65",
+      "date": "2024-04-08",
+      "track": "company",
+      "era": "e5",
+      "url": "https://pr.tsmc.com/english/news/3122",
+      "t": {
+        "zh": "台積電亞利桑那規劃加到超過 650 億美元",
+        "en": "TSMC’s Arizona plan rises above US$65 billion"
+      },
+      "f": {
+        "zh": "宣布興建第三座晶圓廠。",
+        "en": "A third fab was announced."
+      }
+    },
+    {
+      "id": "az165",
+      "date": "2025-03-04",
+      "track": "company",
+      "era": "e5",
+      "url": "https://pr.tsmc.com/english/news/3210",
+      "t": {
+        "zh": "台積電宣布在美國的總投資預期達 1,650 億美元",
+        "en": "TSMC says its total US investment is expected to reach US$165 billion"
+      },
+      "f": {
+        "zh": "在原有規劃上再加 1,000 億美元。",
+        "en": "A further US$100 billion on top of the existing plan."
+      }
+    },
+    {
+      "id": "s232",
+      "date": "2025-04-01",
+      "track": "world",
+      "era": "e5",
+      "url": "https://www.federalregister.gov/documents/full_text/xml/2025/04/16/2025-06591.xml",
+      "t": {
+        "zh": "美國啟動半導體 232 條款調查",
+        "en": "The United States opens a Section 232 investigation into semiconductors"
+      },
+      "f": {
+        "zh": "2026 年 1 月 14 日公告第一階段：特定先進運算晶片課 25%。範圍更大的第二階段，截至 2026 年 11 月沒有查到官方公告。",
+        "en": "Phase one was proclaimed on 14 January 2026: 25% on certain advanced computing chips. As of November 2026 no official announcement of a broader second phase could be found."
+      }
+    },
+    {
+      "id": "tariff2025",
+      "date": "2025-04-02",
+      "track": "world",
+      "era": "e5",
+      "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+      "t": {
+        "zh": "美國公布對等關稅，對臺稅率 32%",
+        "en": "The United States announces reciprocal tariffs; Taiwan’s rate is 32%"
+      },
+      "f": {
+        "zh": "行政院經貿談判辦公室的說明：同年 8 月降到 20%。",
+        "en": "According to the Executive Yuan’s Office of Trade Negotiations, it was cut to 20% in August that year."
+      }
+    },
+    {
+      "id": "nvidia2025",
+      "date": "2025-05-19",
+      "track": "company",
+      "era": "e5",
+      "url": "https://blogs.nvidia.com/blog/computex-2025-jensen-huang/",
+      "t": {
+        "zh": "輝達在 Computex 公布臺灣新辦公室「Constellation」",
+        "en": "NVIDIA unveils “Constellation”, its new Taiwan office, at Computex"
+      },
+      "article": ["Technology", "NVIDIA在台灣"]
+    },
+    {
+      "id": "t30k",
+      "date": "2026-01-05",
+      "track": "market",
+      "era": "e5",
+      "url": "https://www.twse.com.tw/zh/indices/taiex/mi-5min-hist.html",
+      "t": {
+        "zh": "加權指數首次收在 30,000 點以上",
+        "en": "The TAIEX closes above 30,000 for the first time"
+      },
+      "f": {
+        "zh": "依證交所歷史指數資料逐日比對。",
+        "en": "Determined by checking the exchange’s historical index data day by day."
+      }
+    },
+    {
+      "id": "nvidia2026",
+      "date": "2026-02-11",
+      "track": "company",
+      "era": "e5",
+      "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=A777DD3DF2EFF93F",
+      "t": {
+        "zh": "臺北市與輝達完成北士科地上權簽約",
+        "en": "Taipei City and NVIDIA sign the land-rights contract at the Beitou-Shilin Technology Park"
+      },
+      "f": {
+        "zh": "市府新聞稿：權利金 122 億元，輝達的投資營運計畫總額超過 400 億元。",
+        "en": "City release: royalties of NT$12.2 billion; NVIDIA’s investment and operating plan totals more than NT$40 billion."
+      }
+    },
+    {
+      "id": "art2026",
+      "date": "2026-02-12",
+      "track": "world",
+      "era": "e5",
+      "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+      "t": {
+        "zh": "臺美簽署對等貿易協定",
+        "en": "Taiwan and the United States sign an Agreement on Reciprocal Trade"
+      },
+      "f": {
+        "zh": "行政院的說明：對等關稅 15% 且不疊加，2,072 項輸美產品豁免。簽署不等於生效，截至 2026 年 11 月沒有查到生效公告。",
+        "en": "According to the Executive Yuan: a reciprocal tariff of 15% without stacking, and 2,072 export items exempted. Signing is not entry into force; as of November 2026 no notice of entry into force could be found."
+      }
+    },
+    {
+      "id": "scotus2026",
+      "date": "2026-02-20",
+      "track": "world",
+      "era": "e5",
+      "url": "https://www.ey.gov.tw/otn/8E7CF7585049FAB6/854321d7-3b78-457b-9120-7f40e0b31ae3",
+      "t": {
+        "zh": "美國最高法院裁定對等關稅的法律依據不成立",
+        "en": "The US Supreme Court rules the legal basis for the reciprocal tariffs invalid"
+      },
+      "f": {
+        "zh": "行政院的說明：美方改引貿易法第 122 條課 150 天的暫時性關稅；7 月 24 日公布的 301 調查新稅率，臺灣是 10% 且不疊加。",
+        "en": "According to the Executive Yuan, Washington switched to a 150-day temporary tariff under Section 122 of the Trade Act; under the Section 301 rates announced on 24 July, Taiwan’s is 10% without stacking."
+      }
+    },
+    {
+      "id": "t40k",
+      "date": "2026-05-04",
+      "track": "market",
+      "era": "e5",
+      "url": "https://www.twse.com.tw/zh/indices/taiex/mi-5min-hist.html",
+      "t": {
+        "zh": "加權指數首次收在 40,000 點以上",
+        "en": "The TAIEX closes above 40,000 for the first time"
+      },
+      "f": {
+        "zh": "依證交所歷史指數資料逐日比對。",
+        "en": "Determined by checking the exchange’s historical index data day by day."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1397 @@
+{
+  "asOf": "2026-11-10",
+  "finance": {
+    "unit": "億元",
+    "note": "收入與成本為權責基礎審定決算數，2024、2025 年的基金決算口徑不同，不接在同一條線上；餘絀與安全準備兩種口徑可以連續。",
+    "rows": [
+      {
+        "year": 2010,
+        "income": 4608,
+        "cost": 4423,
+        "balance": 185,
+        "reserve": -397,
+        "months": null
+      },
+      {
+        "year": 2011,
+        "income": 4924,
+        "cost": 4582,
+        "balance": 342,
+        "reserve": -55,
+        "months": null
+      },
+      {
+        "year": 2012,
+        "income": 5072,
+        "cost": 4806,
+        "balance": 265,
+        "reserve": 210,
+        "months": null
+      },
+      {
+        "year": 2013,
+        "income": 5557,
+        "cost": 5021,
+        "balance": 536,
+        "reserve": 746,
+        "months": null
+      },
+      {
+        "year": 2014,
+        "income": 5695,
+        "cost": 5181,
+        "balance": 514,
+        "reserve": 1260,
+        "months": null
+      },
+      {
+        "year": 2015,
+        "income": 6410,
+        "cost": 5381,
+        "balance": 1029,
+        "reserve": 2289,
+        "months": null
+      },
+      {
+        "year": 2016,
+        "income": 5869,
+        "cost": 5684,
+        "balance": 186,
+        "reserve": 2474,
+        "months": null
+      },
+      {
+        "year": 2017,
+        "income": 5900,
+        "cost": 5998,
+        "balance": -98,
+        "reserve": 2376,
+        "months": 4.75
+      },
+      {
+        "year": 2018,
+        "income": 6061,
+        "cost": 6328,
+        "balance": -266,
+        "reserve": 2109,
+        "months": 4.0
+      },
+      {
+        "year": 2019,
+        "income": 6224,
+        "cost": 6566,
+        "balance": -342,
+        "reserve": 1767,
+        "months": 3.23
+      },
+      {
+        "year": 2020,
+        "income": 6278,
+        "cost": 6954,
+        "balance": -676,
+        "reserve": 1091,
+        "months": 1.88
+      },
+      {
+        "year": 2021,
+        "income": 7119,
+        "cost": 7274,
+        "balance": -155,
+        "reserve": 936,
+        "months": 1.55
+      },
+      {
+        "year": 2022,
+        "income": 7603,
+        "cost": 7491,
+        "balance": 113,
+        "reserve": 1049,
+        "months": 1.66
+      },
+      {
+        "year": 2023,
+        "income": 8110,
+        "cost": 7771,
+        "balance": 339,
+        "reserve": 1388,
+        "months": null
+      },
+      {
+        "year": 2024,
+        "income": null,
+        "cost": null,
+        "balance": 234,
+        "reserve": 1622,
+        "months": 2.4
+      },
+      {
+        "year": 2025,
+        "income": null,
+        "cost": null,
+        "balance": 468,
+        "reserve": 2090,
+        "months": 3.01
+      }
+    ],
+    "sources": ["trend2023", "trend2013", "final2024", "final2025", "fin111"]
+  },
+  "rates": {
+    "general": [
+      ["1995-03", 4.25],
+      ["2002-09", 4.55],
+      ["2010-04", 5.17],
+      ["2013-01", 4.91],
+      ["2016-01", 4.69],
+      ["2021-01", 5.17]
+    ],
+    "supplementary": [
+      ["2013-01", 2.0],
+      ["2016-01", 1.91],
+      ["2021-01", 2.11]
+    ],
+    "sources": ["annual", "rate2026"]
+  },
+  "globalBudget": {
+    "unit": "億元",
+    "rows": [
+      {
+        "year": 2014,
+        "amount": 5712,
+        "growth": 3.275
+      },
+      {
+        "year": 2015,
+        "amount": 5905,
+        "growth": 3.43
+      },
+      {
+        "year": 2016,
+        "amount": 6196,
+        "growth": 4.912
+      },
+      {
+        "year": 2017,
+        "amount": 6545,
+        "growth": 5.642
+      },
+      {
+        "year": 2018,
+        "amount": 6853,
+        "growth": 4.711
+      },
+      {
+        "year": 2019,
+        "amount": 7153,
+        "growth": 4.417
+      },
+      {
+        "year": 2020,
+        "amount": 7526,
+        "growth": 5.237
+      },
+      {
+        "year": 2021,
+        "amount": 7836,
+        "growth": 4.107
+      },
+      {
+        "year": 2022,
+        "amount": 8096,
+        "growth": 3.32
+      },
+      {
+        "year": 2023,
+        "amount": 8364,
+        "growth": 3.323
+      },
+      {
+        "year": 2024,
+        "amount": 8755,
+        "growth": 4.7
+      },
+      {
+        "year": 2025,
+        "amount": 9286,
+        "growth": 5.5
+      },
+      {
+        "year": 2026,
+        "amount": 9883,
+        "growth": 5.5
+      }
+    ],
+    "negotiated2027": {
+      "year": 2027,
+      "amount": 10434.47,
+      "growth": 5.5,
+      "status": "健保會協商結果，衛福部尚未核定"
+    },
+    "sources": ["budgetHist", "budget2027"]
+  },
+  "nhe": {
+    "rows": [
+      {
+        "year": 2000,
+        "nhe": 5478,
+        "gdpPct": 5.3,
+        "perCapita": 24693,
+        "publicPct": 62.0
+      },
+      {
+        "year": 2001,
+        "nhe": 5732,
+        "gdpPct": 5.66,
+        "perCapita": 25658,
+        "publicPct": 62.73
+      },
+      {
+        "year": 2002,
+        "nhe": 6171,
+        "gdpPct": 5.8,
+        "perCapita": 27471,
+        "publicPct": 60.99
+      },
+      {
+        "year": 2003,
+        "nhe": 6548,
+        "gdpPct": 5.99,
+        "perCapita": 29021,
+        "publicPct": 60.86
+      },
+      {
+        "year": 2004,
+        "nhe": 7099,
+        "gdpPct": 6.12,
+        "perCapita": 31348,
+        "publicPct": 59.12
+      },
+      {
+        "year": 2005,
+        "nhe": 7456,
+        "gdpPct": 6.19,
+        "perCapita": 32804,
+        "publicPct": 57.39
+      },
+      {
+        "year": 2006,
+        "nhe": 7805,
+        "gdpPct": 6.21,
+        "perCapita": 34196,
+        "publicPct": 56.85
+      },
+      {
+        "year": 2007,
+        "nhe": 8723,
+        "gdpPct": 6.53,
+        "perCapita": 38064,
+        "publicPct": 54.91
+      },
+      {
+        "year": 2008,
+        "nhe": 8994,
+        "gdpPct": 6.86,
+        "perCapita": 39110,
+        "publicPct": 54.76
+      },
+      {
+        "year": 2009,
+        "nhe": 9405,
+        "gdpPct": 7.28,
+        "perCapita": 40751,
+        "publicPct": 55.42
+      },
+      {
+        "year": 2010,
+        "nhe": 9582,
+        "gdpPct": 6.81,
+        "perCapita": 41407,
+        "publicPct": 55.78
+      },
+      {
+        "year": 2011,
+        "nhe": 9908,
+        "gdpPct": 6.95,
+        "perCapita": 42721,
+        "publicPct": 55.4
+      },
+      {
+        "year": 2012,
+        "nhe": 10085,
+        "gdpPct": 6.87,
+        "perCapita": 43337,
+        "publicPct": 56.37
+      },
+      {
+        "year": 2013,
+        "nhe": 10558,
+        "gdpPct": 6.91,
+        "perCapita": 45228,
+        "publicPct": 56.34
+      },
+      {
+        "year": 2014,
+        "nhe": 11033,
+        "gdpPct": 6.79,
+        "perCapita": 47141,
+        "publicPct": 56.52
+      },
+      {
+        "year": 2015,
+        "nhe": 11459,
+        "gdpPct": 6.72,
+        "perCapita": 48839,
+        "publicPct": 56.68
+      },
+      {
+        "year": 2016,
+        "nhe": 12060,
+        "gdpPct": 6.87,
+        "perCapita": 51283,
+        "publicPct": 56.36
+      },
+      {
+        "year": 2017,
+        "nhe": 12761,
+        "gdpPct": 7.08,
+        "perCapita": 54173,
+        "publicPct": 56.41
+      },
+      {
+        "year": 2018,
+        "nhe": 13594,
+        "gdpPct": 7.38,
+        "perCapita": 57649,
+        "publicPct": 56.41
+      },
+      {
+        "year": 2019,
+        "nhe": 14210,
+        "gdpPct": 7.49,
+        "perCapita": 60224,
+        "publicPct": 56.52
+      },
+      {
+        "year": 2020,
+        "nhe": 15371,
+        "gdpPct": 7.68,
+        "perCapita": 65180,
+        "publicPct": 57.35
+      },
+      {
+        "year": 2021,
+        "nhe": 16534,
+        "gdpPct": 7.59,
+        "perCapita": 70454,
+        "publicPct": 59.65
+      },
+      {
+        "year": 2022,
+        "nhe": 17704,
+        "gdpPct": 7.76,
+        "perCapita": 75919,
+        "publicPct": 60.29
+      },
+      {
+        "year": 2023,
+        "nhe": 18353,
+        "gdpPct": 7.78,
+        "perCapita": 78624,
+        "publicPct": 58.04
+      },
+      {
+        "year": 2024,
+        "nhe": 18897,
+        "gdpPct": 7.34,
+        "perCapita": 80719,
+        "publicPct": 57.2
+      }
+    ],
+    "latest": {
+      "year": 2024,
+      "nhe": 18897,
+      "gdpPct": 7.3,
+      "perCapita": 80719,
+      "publicPct": 57.2,
+      "householdPct": 37.2,
+      "nhiAmount": 8169,
+      "nhiPct": 43.2
+    },
+    "sources": ["nhe"]
+  },
+  "coverage": {
+    "enrollPct": 99.9,
+    "satisfaction": 92,
+    "satisfactionYear": 2024,
+    "insured": 24055234,
+    "insuredAsOf": "2025-10",
+    "contracted": 22352,
+    "contractedPct": 91.01,
+    "contractedYear": 2024,
+    "sources": ["coverage"]
+  },
+  "transfers": {
+    "unit": "億元",
+    "rows": [
+      [2023, 240],
+      [2024, 200],
+      [2025, 200],
+      [2026, null],
+      [2027, 600]
+    ],
+    "note": "2027 為 116 年度總預算案編列數，尚待立法院審議。",
+    "sources": ["dgbas2027"]
+  },
+  "sources": {
+    "trend2023": {
+      "title": "健保署《2023 年全民健康保險統計動向》財務收支概況（權責基礎審定決算數）",
+      "url": "https://www.nhi.gov.tw/ch/dl-83055-1f7f22b4844a4320b411080f5cd7c936-1.pdf",
+      "date": "2023 年底"
+    },
+    "trend2013": {
+      "title": "健保署《2013 年全民健康保險統計動向》",
+      "url": "https://media.nhi.gov.tw/md/dl-52573-57b203aa303c42a095d63a1035833497-3.pdf",
+      "date": "2015-06"
+    },
+    "final2024": {
+      "title": "《113 年度全民健康保險基金附屬單位決算（審定本）》",
+      "url": "https://www.nhi.gov.tw/ch/dl-81956-542dad4ef3e64c0b94435d2ea1698a30-1.pdf",
+      "date": "2024 年底"
+    },
+    "final2025": {
+      "title": "《114 年度全民健康保險基金附屬單位決算（審定本）》",
+      "url": "https://www.nhi.gov.tw/ch/dl-101344-7dd563bb399a488d9f3e7bef4eff17cd-1.pdf",
+      "date": "2025 年底"
+    },
+    "fin111": {
+      "title": "健保署《111 年度全民健康保險財務評估報告》表 1（安全準備月數）",
+      "url": "https://www.nhi.gov.tw/ch/dl-13462-c75e7442a8dc4c27a15fdcb4eea217aa-1.pdf",
+      "date": "2022"
+    },
+    "annual": {
+      "title": "《2023–2024 全民健康保險年報》第二章（費率沿革）",
+      "url": "https://media.nhi.gov.tw/md/dl-51894-9eb2e73944774f9bb537d544a83115af-3.pdf",
+      "date": "2022-12-31"
+    },
+    "rate2026": {
+      "title": "健保會第 7 屆 115 年第 1 次委員會議議事錄（行政院核定 115 年度費率維持 5.17%）",
+      "url": "https://www.mohw.gov.tw/dl-98958-6755418d-3a63-4df7-bf22-b305fdd5af51.html",
+      "date": "2026-01-21"
+    },
+    "budgetHist": {
+      "title": "健保會 115 年第 5 次委員會議資料：103–115 年度衛福部核定總額",
+      "url": "https://www.mohw.gov.tw/dl-100977-9ee9c929-6d13-49c1-bb2c-8c4a9e7cd514.html",
+      "date": "2026-06-24"
+    },
+    "budget2027": {
+      "title": "健保會新聞稿：116 年度總額協商結果 10,434.47 億元",
+      "url": "https://www.mohw.gov.tw/dl-102883-881a723b-8777-46a8-9912-280aa756ebc9.html",
+      "date": "2026-09-30"
+    },
+    "nhe": {
+      "title": "衛福部《中華民國 113 年國民醫療保健支出》表 1",
+      "url": "https://www.mohw.gov.tw/dl-99631-cfe880cf-a90b-4eba-b240-351bf8abfd75.html",
+      "date": "2026-02"
+    },
+    "coverage": {
+      "title": "行政院國情簡介「全民健康保險」",
+      "url": "https://www.ey.gov.tw/state/A01F61B9E9A9758D/a8110473-da2f-4c3f-84da-aeebbd92aab9",
+      "date": "2025-09-03"
+    },
+    "dgbas2027": {
+      "title": "行政院主計總處《116 年度中央政府總預算案》簡報：撥補健保基金",
+      "url": "https://www.ey.gov.tw/File/950E71336441F8CB?A=C",
+      "date": "2026-08-20"
+    },
+    "stat16": {
+      "title": "衛福部統計處公務統計 1.6「醫療院所家數、病床數及平均每萬人口病床數」",
+      "url": "https://www.mohw.gov.tw/dl-73289-1ae44af8-8716-4a51-9012-aeb216ea1510.html",
+      "date": "2025 年底"
+    },
+    "stat17": {
+      "title": "衛福部統計處公務統計 1.7「機構執業醫事人員數及每萬人口執業醫事人員數」",
+      "url": "https://www.mohw.gov.tw/dl-73291-c9f551df-f78a-41ab-a554-addf890c8369.html",
+      "date": "2025 年底"
+    },
+    "stat43": {
+      "title": "衛福部統計處「衛生福利統計指標」表 4-3 醫事人力",
+      "url": "https://www.mohw.gov.tw/dl-63141-3fdaa1b6-5654-4605-8abb-f6c00614d0a4.html",
+      "date": "2025 年底"
+    },
+    "monitor2024": {
+      "title": "健保會《113 年全民健康保險監理指標監測結果報告》指標 1.2",
+      "url": "https://www.mohw.gov.tw/dl-98589-4782a345-f250-4d14-8b78-c550439eb29e.html",
+      "date": "2025-11"
+    },
+    "monitor2019a": {
+      "title": "健保署《全民健康保險業務監理架構與指標》（105–107 年）",
+      "url": "https://www.mohw.gov.tw/dl-55666-50e236e6-fded-416e-a6c0-f77350c0ef6b.html",
+      "date": "2019-07-26"
+    },
+    "monitor2019b": {
+      "title": "健保署《全民健康保險業務監理架構與指標》（106–108 年）",
+      "url": "https://www.mohw.gov.tw/dl-63995-47703811-43ea-402d-a217-4805bca3aae7.html",
+      "date": "2019 年資料"
+    },
+    "nurseMonthly": {
+      "title": "護理師護士公會全聯會轉載護理及健康照護司月報（2025 年 12 月）",
+      "url": "https://www.nurse.org.tw/publicUI/H/H102.aspx",
+      "date": "2025-12"
+    },
+    "nurseRate": {
+      "title": "護理師護士公會全聯會：台閩地區護理人員統計（2023 年 9 月，執業率 62.12%）",
+      "url": "https://www.nurse.org.tw/publicUI/H/H10201.aspx?arg=8DBAD2670041C77005",
+      "date": "2023-09-04"
+    },
+    "lyNurse": {
+      "title": "立法院預算中心《衛生福利部 114 年度單位預算評估報告》（護理空缺率與離職率，轉述衛福部資料）",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=55666",
+      "date": "2024-10-01"
+    },
+    "ratioStd": {
+      "title": "衛福部新聞稿：三班護病比標準 113 年 3 月 1 日起實施",
+      "url": "https://mohw.gov.tw/cp-16-77368-1.html",
+      "date": "2024-01-26"
+    },
+    "medAct": {
+      "title": "全國法規資料庫《醫療法》沿革（115 年 5 月 15 日修正公布第 12 條、增訂第 102-1 條）",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=L0020021",
+      "date": "2026-05-15"
+    },
+    "nursePlan": {
+      "title": "衛福部新聞稿：護理人力政策整備中長程計畫四年 275 億元",
+      "url": "https://www.mohw.gov.tw/cp-2704-86309-1.html",
+      "date": "2026-05-08"
+    },
+    "acpStats": {
+      "title": "衛福部新聞稿：器捐病主中心 114 年度聯合頒獎典禮（累計註記人數，計至 2025-11-24）",
+      "url": "https://www.mohw.gov.tw/cp-101-84663-1.html",
+      "date": "2025-11"
+    },
+    "acpNhi": {
+      "title": "衛福部新聞稿「強化自主醫療決策 健保擴大預立醫療照護諮商給付」",
+      "url": "https://www.mohw.gov.tw/cp-16-82352-1.html",
+      "date": "2025-04-30"
+    },
+    "pra": {
+      "title": "全國法規資料庫《病人自主權利法》",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189",
+      "date": "2021-01-20 修正"
+    },
+    "hospiceLaw": {
+      "title": "全國法規資料庫《安寧緩和醫療條例》",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020066",
+      "date": "2021-01-20 修正"
+    },
+    "lifeStat": {
+      "title": "衛福部統計處「衛生福利統計指標」表 2 平均餘命與死亡率",
+      "url": "https://www.mohw.gov.tw/dl-77227-15463f11-8255-4bbe-baec-e05df0019898.html",
+      "date": "2024 年資料"
+    },
+    "lifeMoi": {
+      "title": "內政部 114 年簡易生命表新聞稿",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=4&s=340439",
+      "date": "2026-08-24"
+    },
+    "plan3": {
+      "title": "《長期照顧十年計畫3.0（115~124年）》核定本",
+      "url": "https://www.mohw.gov.tw/dl-98526-31ea7422-1b07-414b-a2a4-51e38c070ee4.html",
+      "date": "2025-12-31 行政院核定"
+    },
+    "plan2": {
+      "title": "《長期照顧十年計畫2.0（106~115年）》核定本",
+      "url": "https://www.mohw.gov.tw/dl-78115-5511ccc0-cae0-4d16-b729-6d0e16228fb5.html",
+      "date": "2016-12"
+    },
+    "coverage2025": {
+      "title": "衛福部長照司《長期照顧十年計畫 2.0：長照服務涵蓋率》2025 年版",
+      "url": "https://www.mohw.gov.tw/dl-88608-9d7a650b-ac63-43cb-a469-7d1cb37a2d77.html",
+      "date": "2026-06-09 編製"
+    },
+    "ltcFund": {
+      "title": "衛福部會計處：長照服務發展基金歷年決算（審定本）",
+      "url": "https://dep.mohw.gov.tw/DOA/lp-3845-112.html",
+      "date": "2025 年度決算"
+    },
+    "careWorkers": {
+      "title": "衛福部長照司《長期照顧十年計畫 2.0：長照人力》",
+      "url": "https://www.mohw.gov.tw/dl-88618-4eec2cc2-8980-4b68-a45c-766b62a49c0a.html",
+      "date": "2026-06-09 編製"
+    },
+    "molMonthly": {
+      "title": "勞動部《勞動統計月報》表 12-2 移工人數",
+      "url": "https://statdb.mol.gov.tw/html/mon/212020.pdf",
+      "date": "2026-09"
+    },
+    "moiStructure": {
+      "title": "內政部戶政司人口統計（老年人口結構、現住人口結構）",
+      "url": "https://www.moi.gov.tw/cl.aspx?n=15369",
+      "date": "2026-03-10 更新"
+    },
+    "moi202512": {
+      "title": "內政部《民國 114 年 12 月戶口統計資料分析》（65 歲以上 20.06%）",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=335870",
+      "date": "2026-01-09"
+    },
+    "moi202609": {
+      "title": "內政部《民國 115 年 9 月戶口統計資料分析》（65 歲以上 20.70%）",
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=9&s=342353",
+      "date": "2026-10-08"
+    },
+    "moi2018": {
+      "title": "內政部統計處《內政統計通報》107 年第 15 週（7% 與 14% 達標）",
+      "url": "https://ws.moi.gov.tw/001/Upload/OldFile/news_file/107%E5%B9%B4%E7%AC%AC15%E9%80%B1%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1_%E9%AB%98%E9%BD%A1%E7%A4%BE%E6%9C%83.pdf",
+      "date": "2018-04-14"
+    },
+    "ndc2024": {
+      "title": "國發會《中華民國人口推估（2024 年至 2070 年）》表 14-3、14-7（中推估）",
+      "url": "https://ws.ndc.gov.tw/001/administrator/10/relfile/0/13729/ec0a27cc-4cc4-4d9e-9350-f2688189aefe.pdf",
+      "date": "2024-10"
+    }
+  },
+  "counties": {
+    "year": 2025,
+    "asOf": "2025 年底",
+    "rows": [
+      {
+        "name": "全國",
+        "pop": 23299132,
+        "beds": 169482,
+        "bedsPer10k": 72.74,
+        "hospBedsPer10k": 42.2,
+        "doctors": 56405,
+        "doctorsPer10k": 24.21,
+        "nurses": 196047,
+        "nursesPer10k": 84.14
+      },
+      {
+        "name": "新北市",
+        "pop": 4044831,
+        "beds": 19518,
+        "bedsPer10k": 48.25,
+        "hospBedsPer10k": 23.75,
+        "doctors": 7066,
+        "doctorsPer10k": 17.47,
+        "nurses": 21947,
+        "nursesPer10k": 54.26,
+        "elderPct": 19.95,
+        "ltcCoverage": 89.79
+      },
+      {
+        "name": "臺北市",
+        "pop": 2439507,
+        "beds": 26121,
+        "bedsPer10k": 107.07,
+        "hospBedsPer10k": 59.16,
+        "doctors": 12225,
+        "doctorsPer10k": 50.11,
+        "nurses": 31806,
+        "nursesPer10k": 130.38,
+        "elderPct": 24.18,
+        "ltcCoverage": 64.57
+      },
+      {
+        "name": "桃園市",
+        "pop": 2355106,
+        "beds": 14575,
+        "bedsPer10k": 61.89,
+        "hospBedsPer10k": 35.33,
+        "doctors": 4713,
+        "doctorsPer10k": 20.01,
+        "nurses": 17455,
+        "nursesPer10k": 74.12,
+        "elderPct": 16.72,
+        "ltcCoverage": 88.26
+      },
+      {
+        "name": "臺中市",
+        "pop": 2868465,
+        "beds": 22146,
+        "bedsPer10k": 77.21,
+        "hospBedsPer10k": 46.24,
+        "doctors": 7833,
+        "doctorsPer10k": 27.31,
+        "nurses": 26717,
+        "nursesPer10k": 93.14,
+        "elderPct": 17.4,
+        "ltcCoverage": 97.82
+      },
+      {
+        "name": "臺南市",
+        "pop": 1852477,
+        "beds": 13336,
+        "bedsPer10k": 71.99,
+        "hospBedsPer10k": 38.57,
+        "doctors": 4268,
+        "doctorsPer10k": 23.04,
+        "nurses": 16806,
+        "nursesPer10k": 90.72,
+        "elderPct": 20.48,
+        "ltcCoverage": 103.01
+      },
+      {
+        "name": "高雄市",
+        "pop": 2718545,
+        "beds": 22481,
+        "bedsPer10k": 82.69,
+        "hospBedsPer10k": 46.66,
+        "doctors": 7692,
+        "doctorsPer10k": 28.29,
+        "nurses": 26090,
+        "nursesPer10k": 95.97,
+        "elderPct": 20.79,
+        "ltcCoverage": 97.52
+      },
+      {
+        "name": "基隆市",
+        "pop": 359836,
+        "beds": 2907,
+        "bedsPer10k": 80.79,
+        "hospBedsPer10k": 48.74,
+        "doctors": 795,
+        "doctorsPer10k": 22.09,
+        "nurses": 2326,
+        "nursesPer10k": 64.64,
+        "elderPct": 22.28,
+        "ltcCoverage": 83.45
+      },
+      {
+        "name": "新竹市",
+        "pop": 455740,
+        "beds": 2855,
+        "bedsPer10k": 62.65,
+        "hospBedsPer10k": 35.9,
+        "doctors": 1078,
+        "doctorsPer10k": 23.65,
+        "nurses": 4187,
+        "nursesPer10k": 91.87,
+        "elderPct": 16.16,
+        "ltcCoverage": 83.47
+      },
+      {
+        "name": "嘉義市",
+        "pop": 261592,
+        "beds": 3858,
+        "bedsPer10k": 147.48,
+        "hospBedsPer10k": 88.88,
+        "doctors": 987,
+        "doctorsPer10k": 37.73,
+        "nurses": 3963,
+        "nursesPer10k": 151.5,
+        "elderPct": 19.9,
+        "ltcCoverage": 114.9
+      },
+      {
+        "name": "新竹縣",
+        "pop": 597235,
+        "beds": 3502,
+        "bedsPer10k": 58.64,
+        "hospBedsPer10k": 36.94,
+        "doctors": 880,
+        "doctorsPer10k": 14.73,
+        "nurses": 4016,
+        "nursesPer10k": 67.24,
+        "elderPct": 15.08,
+        "ltcCoverage": 95.01
+      },
+      {
+        "name": "苗栗縣",
+        "pop": 531172,
+        "beds": 3172,
+        "bedsPer10k": 59.72,
+        "hospBedsPer10k": 38.01,
+        "doctors": 578,
+        "doctorsPer10k": 10.88,
+        "nurses": 2928,
+        "nursesPer10k": 55.12,
+        "elderPct": 20.23,
+        "ltcCoverage": 91.73
+      },
+      {
+        "name": "彰化縣",
+        "pop": 1210206,
+        "beds": 7853,
+        "bedsPer10k": 64.89,
+        "hospBedsPer10k": 43.06,
+        "doctors": 2191,
+        "doctorsPer10k": 18.1,
+        "nurses": 8995,
+        "nursesPer10k": 74.33,
+        "elderPct": 20.37,
+        "ltcCoverage": 102.44
+      },
+      {
+        "name": "南投縣",
+        "pop": 467881,
+        "beds": 3512,
+        "bedsPer10k": 75.06,
+        "hospBedsPer10k": 50.12,
+        "doctors": 639,
+        "doctorsPer10k": 13.66,
+        "nurses": 3085,
+        "nursesPer10k": 65.94,
+        "elderPct": 22.66,
+        "ltcCoverage": 116.01
+      },
+      {
+        "name": "雲林縣",
+        "pop": 650989,
+        "beds": 3994,
+        "bedsPer10k": 61.35,
+        "hospBedsPer10k": 34.98,
+        "doctors": 948,
+        "doctorsPer10k": 14.56,
+        "nurses": 4464,
+        "nursesPer10k": 68.57,
+        "elderPct": 21.76,
+        "ltcCoverage": 100.66
+      },
+      {
+        "name": "嘉義縣",
+        "pop": 473181,
+        "beds": 3251,
+        "bedsPer10k": 68.71,
+        "hospBedsPer10k": 46.96,
+        "doctors": 980,
+        "doctorsPer10k": 20.71,
+        "nurses": 3684,
+        "nursesPer10k": 77.86,
+        "elderPct": 24.11,
+        "ltcCoverage": 129.0
+      },
+      {
+        "name": "屏東縣",
+        "pop": 782256,
+        "beds": 6005,
+        "bedsPer10k": 76.77,
+        "hospBedsPer10k": 47.39,
+        "doctors": 1281,
+        "doctorsPer10k": 16.38,
+        "nurses": 6734,
+        "nursesPer10k": 86.08,
+        "elderPct": 21.84,
+        "ltcCoverage": 121.43
+      },
+      {
+        "name": "宜蘭縣",
+        "pop": 449336,
+        "beds": 3567,
+        "bedsPer10k": 79.38,
+        "hospBedsPer10k": 52.99,
+        "doctors": 769,
+        "doctorsPer10k": 17.11,
+        "nurses": 4230,
+        "nursesPer10k": 94.14,
+        "elderPct": 20.77,
+        "ltcCoverage": 110.97
+      },
+      {
+        "name": "花蓮縣",
+        "pop": 312807,
+        "beds": 4323,
+        "bedsPer10k": 138.2,
+        "hospBedsPer10k": 104.98,
+        "doctors": 898,
+        "doctorsPer10k": 28.71,
+        "nurses": 3901,
+        "nursesPer10k": 124.71,
+        "elderPct": 21.52,
+        "ltcCoverage": 125.22
+      },
+      {
+        "name": "臺東縣",
+        "pop": 208320,
+        "beds": 1553,
+        "bedsPer10k": 74.55,
+        "hospBedsPer10k": 44.11,
+        "doctors": 333,
+        "doctorsPer10k": 15.99,
+        "nurses": 1814,
+        "nursesPer10k": 87.08,
+        "elderPct": 20.93,
+        "ltcCoverage": 122.79
+      },
+      {
+        "name": "澎湖縣",
+        "pop": 106716,
+        "beds": 552,
+        "bedsPer10k": 51.73,
+        "hospBedsPer10k": 33.08,
+        "doctors": 130,
+        "doctorsPer10k": 12.18,
+        "nurses": 498,
+        "nursesPer10k": 46.67,
+        "elderPct": 21.03,
+        "ltcCoverage": 85.98
+      },
+      {
+        "name": "金門縣",
+        "pop": 139313,
+        "beds": 347,
+        "bedsPer10k": 24.91,
+        "hospBedsPer10k": 15.0,
+        "doctors": 102,
+        "doctorsPer10k": 7.32,
+        "nurses": 330,
+        "nursesPer10k": 23.69,
+        "elderPct": 19.69,
+        "ltcCoverage": 49.07
+      },
+      {
+        "name": "連江縣",
+        "pop": 13621,
+        "beds": 54,
+        "bedsPer10k": 39.64,
+        "hospBedsPer10k": 19.09,
+        "doctors": 19,
+        "doctorsPer10k": 13.95,
+        "nurses": 71,
+        "nursesPer10k": 52.13,
+        "elderPct": 17.14,
+        "ltcCoverage": 41.04
+      }
+    ],
+    "sources": ["stat16", "stat17"]
+  },
+  "erStay": {
+    "definition": "急診病人留置急診室超過 24 小時人次 ÷ 急診總人次",
+    "rows": [
+      {
+        "year": 2016,
+        "all": 2.68,
+        "medicalCenter": 6.56,
+        "regional": 1.48,
+        "district": 0.7,
+        "visits": 7422106,
+        "over24": 198753
+      },
+      {
+        "year": 2017,
+        "all": 2.75,
+        "medicalCenter": 6.8,
+        "regional": 1.46,
+        "district": 0.78,
+        "visits": 7045957,
+        "over24": 193651
+      },
+      {
+        "year": 2018,
+        "all": 2.71,
+        "medicalCenter": 6.83,
+        "regional": 1.51,
+        "district": 0.64,
+        "visits": 7155606,
+        "over24": 194072
+      },
+      {
+        "year": 2019,
+        "all": 2.75,
+        "medicalCenter": 7.01,
+        "regional": 1.57,
+        "district": 0.45,
+        "visits": 7326102,
+        "over24": 201562
+      },
+      {
+        "year": 2020,
+        "all": null,
+        "medicalCenter": null,
+        "regional": null,
+        "district": null,
+        "visits": null,
+        "over24": null
+      },
+      {
+        "year": 2021,
+        "all": null,
+        "medicalCenter": null,
+        "regional": null,
+        "district": null,
+        "visits": null,
+        "over24": null
+      },
+      {
+        "year": 2022,
+        "all": 2.56,
+        "medicalCenter": 6.36,
+        "regional": 1.76,
+        "district": 0.77,
+        "visits": 7390371,
+        "over24": 189436
+      },
+      {
+        "year": 2023,
+        "all": 3.32,
+        "medicalCenter": 7.18,
+        "regional": 2.69,
+        "district": 0.97,
+        "visits": 7477235,
+        "over24": 248378
+      },
+      {
+        "year": 2024,
+        "all": 3.68,
+        "medicalCenter": 7.73,
+        "regional": 3.08,
+        "district": 0.69,
+        "visits": 7281960,
+        "over24": 267960
+      }
+    ],
+    "triage1MedicalCenter2024": 19.3,
+    "sources": ["monitor2024", "monitor2019a", "monitor2019b"]
+  },
+  "workforce": {
+    "rows": [
+      {
+        "year": 2015,
+        "nurses": 148223,
+        "nursesPer10k": 63.09,
+        "doctorsPer10k": 18.73,
+        "doctors": 44006
+      },
+      {
+        "year": 2016,
+        "nurses": 153509,
+        "nursesPer10k": 65.21,
+        "doctorsPer10k": 19.05,
+        "doctors": 44849
+      },
+      {
+        "year": 2017,
+        "nurses": 159621,
+        "nursesPer10k": 67.72,
+        "doctorsPer10k": 19.67,
+        "doctors": 46356
+      },
+      {
+        "year": 2018,
+        "nurses": 167803,
+        "nursesPer10k": 71.14,
+        "doctorsPer10k": 20.12,
+        "doctors": 47471
+      },
+      {
+        "year": 2019,
+        "nurses": 172966,
+        "nursesPer10k": 73.28,
+        "doctorsPer10k": 20.99,
+        "doctors": 49542
+      },
+      {
+        "year": 2020,
+        "nurses": 178498,
+        "nursesPer10k": 75.76,
+        "doctorsPer10k": 21.66,
+        "doctors": 51045
+      },
+      {
+        "year": 2021,
+        "nurses": 183253,
+        "nursesPer10k": 78.4,
+        "doctorsPer10k": 22.32,
+        "doctors": 52175
+      },
+      {
+        "year": 2022,
+        "nurses": 185778,
+        "nursesPer10k": 79.85,
+        "doctorsPer10k": 22.81,
+        "doctors": 53063
+      },
+      {
+        "year": 2023,
+        "nurses": 187725,
+        "nursesPer10k": 80.15,
+        "doctorsPer10k": 23.06,
+        "doctors": 54016
+      },
+      {
+        "year": 2024,
+        "nurses": 192146,
+        "nursesPer10k": 82.11,
+        "doctorsPer10k": 23.6,
+        "doctors": 55230
+      },
+      {
+        "year": 2025,
+        "nurses": 196047,
+        "nursesPer10k": 84.14,
+        "doctorsPer10k": 24.21,
+        "doctors": 56405
+      }
+    ],
+    "licensed": {
+      "asOf": "2025-12",
+      "practising": 198526,
+      "licensed": 314896,
+      "note": "護理及健康照護司月報口徑（領證人數扣除 65 歲以上未執業者），與上面統計處機構執業口徑不同，不混用。"
+    },
+    "practiceRate": {
+      "asOf": "2023-09",
+      "pct": 62.12
+    },
+    "vacancy": [
+      [2019, 4.52, 11.12],
+      [2020, null, null],
+      [2021, 4.7, 10.13],
+      [2022, 6.53, 11.73],
+      [2023, 9.05, 12.61]
+    ],
+    "ratios": {
+      "since": "2024-03-01",
+      "rows": [
+        ["醫學中心", "1:6", "1:9", "1:11"],
+        ["區域醫院", "1:7", "1:11", "1:13"],
+        ["地區醫院", "1:10", "1:13", "1:15"]
+      ]
+    },
+    "plan": {
+      "amount": 275.4,
+      "years": "2025–2028"
+    },
+    "sources": [
+      "stat43",
+      "nurseMonthly",
+      "nurseRate",
+      "lyNurse",
+      "ratioStd",
+      "medAct",
+      "nursePlan"
+    ]
+  },
+  "acp": {
+    "adTotal": 124000,
+    "hospiceTotal": 1107000,
+    "organTotal": 682000,
+    "asOf": "2025-11-24",
+    "acpSites": 285,
+    "acpPoints": 3000,
+    "acpSince": "2024-07-01",
+    "acpExpand": "2025-05-01",
+    "acpExpandReach": "約 180 萬人",
+    "sources": ["acpStats", "acpNhi", "pra", "hospiceLaw"]
+  },
+  "life": {
+    "rows": [
+      [2015, 80.2, 71.87],
+      [2016, 80.0, 71.83],
+      [2017, 80.39, 72.07],
+      [2018, 80.69, 72.28],
+      [2019, 80.86, 72.39],
+      [2020, 81.32, 73.28],
+      [2021, 80.86, 73.3],
+      [2022, 79.84, 72.43],
+      [2023, 80.23, 72.45],
+      [2024, 80.8, 72.86]
+    ],
+    "latest": {
+      "year": 2025,
+      "all": 81.27,
+      "male": 77.93,
+      "female": 84.75
+    },
+    "sources": ["lifeStat", "lifeMoi"]
+  },
+  "ltc": {
+    "use": {
+      "note": "涵蓋率的定義在 2019 與 2022 年各改過一次，三段不能連成一條線比較。",
+      "rows": [
+        {
+          "year": 2017,
+          "need": 737623,
+          "users": 106864,
+          "coverage": 20.3,
+          "paid": 106864,
+          "basis": "a"
+        },
+        {
+          "year": 2018,
+          "need": 765218,
+          "users": 180660,
+          "coverage": 37.82,
+          "paid": 180660,
+          "basis": "a"
+        },
+        {
+          "year": 2019,
+          "need": 794050,
+          "users": 375247,
+          "coverage": 47.26,
+          "paid": 284208,
+          "basis": "b"
+        },
+        {
+          "year": 2020,
+          "need": 824515,
+          "users": 450968,
+          "coverage": 54.69,
+          "paid": 357457,
+          "basis": "b"
+        },
+        {
+          "year": 2021,
+          "need": 855253,
+          "users": 484269,
+          "coverage": 56.6,
+          "paid": 388866,
+          "basis": "b"
+        },
+        {
+          "year": 2022,
+          "need": 829431,
+          "users": 576566,
+          "coverage": 69.51,
+          "paid": 440381,
+          "basis": "c"
+        },
+        {
+          "year": 2023,
+          "need": 860398,
+          "users": 689995,
+          "coverage": 80.19,
+          "paid": 505020,
+          "basis": "c"
+        },
+        {
+          "year": 2024,
+          "need": 892117,
+          "users": 757089,
+          "coverage": 84.86,
+          "paid": 558071,
+          "basis": "c"
+        },
+        {
+          "year": 2025,
+          "need": 923270,
+          "users": 872711,
+          "coverage": 94.52,
+          "paid": 617375,
+          "basis": "c"
+        }
+      ],
+      "breakdown2025": {
+        "paid": 617375,
+        "residential": 121830,
+        "dementiaFrail": 133506
+      },
+      "sources": ["plan3", "coverage2025"]
+    },
+    "need": {
+      "y2026": {
+        "high": 922948,
+        "low": 909598
+      },
+      "y2035": {
+        "high": 1295969,
+        "low": 1144280
+      },
+      "sources": ["plan3"]
+    },
+    "fund": {
+      "unit": "億元",
+      "rows": [
+        {
+          "year": 2017,
+          "income": 118.53,
+          "spend": 13.54,
+          "balance": null
+        },
+        {
+          "year": 2018,
+          "income": 363.46,
+          "spend": 162.79,
+          "balance": null
+        },
+        {
+          "year": 2019,
+          "income": 415.72,
+          "spend": 300.46,
+          "balance": 420.92
+        },
+        {
+          "year": 2020,
+          "income": 537.5,
+          "spend": 416.91,
+          "balance": 541.51
+        },
+        {
+          "year": 2021,
+          "income": 720.41,
+          "spend": 454.19,
+          "balance": 807.74
+        },
+        {
+          "year": 2022,
+          "income": 938.16,
+          "spend": 559.09,
+          "balance": 1186.81
+        },
+        {
+          "year": 2023,
+          "income": 999.87,
+          "spend": 677.61,
+          "balance": 1509.07
+        },
+        {
+          "year": 2024,
+          "income": 1304.46,
+          "spend": 773.16,
+          "balance": 2040.37
+        },
+        {
+          "year": 2025,
+          "income": 1151.24,
+          "spend": 825.44,
+          "balance": 2366.17
+        }
+      ],
+      "plan2026": {
+        "total": 1152.96,
+        "fundSpend": 1102.6,
+        "fundIncome": 1145.03,
+        "tenYear": 14456.89,
+        "incomeMix": {
+          "房地合一稅": 763.72,
+          "菸稅": 271.0,
+          "遺產及贈與稅": 90.93,
+          "利息與其他": 19.38
+        }
+      },
+      "sources": ["ltcFund", "plan3"]
+    },
+    "workers": {
+      "careWorkers": [
+        [2021, 74601],
+        [2022, 91653],
+        [2023, 93364],
+        [2024, 97526],
+        [2025, 100197]
+      ],
+      "migrant": [
+        [2016, 202502],
+        [2017, 215313],
+        [2018, 222691],
+        [2019, 228320],
+        [2020, 216244],
+        [2021, 191745],
+        [2022, 186810],
+        [2023, 199466],
+        [2024, 212805],
+        [2025, 223562]
+      ],
+      "migrantLatest": {
+        "asOf": "2026-09",
+        "count": 232147
+      },
+      "note": "外籍看護工為勞動部「看護工」合計（家庭看護工＋機構看護工），官方月報沒有拆分。照顧服務員 2021 年起為登錄於長照服務單位的人數，各年登錄規則有調整。",
+      "sources": ["careWorkers", "molMonthly"]
+    },
+    "dementia": {
+      "prevalence65": 7.99,
+      "est2024": 354000,
+      "est2026": 395895,
+      "est2036": 594593,
+      "sources": ["plan3"]
+    }
+  }
+}

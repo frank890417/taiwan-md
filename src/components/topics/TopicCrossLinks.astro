@@ -1,0 +1,139 @@
+---
+/**
+ * TopicCrossLinks — 列出其他專題的卡片（專題之間互連）。
+ *
+ * 讀專題登記檔，排除自己。可列的專題是零個時不輸出任何東西（連標題都沒有）。
+ *
+ * 用法（放在專題主頁與子頁的頁尾）：
+ *   <TopicCrossLinks lang={lang} currentId="housing" />
+ *   <TopicCrossLinks lang={lang} currentId="income" only={['housing', 'health']} />
+ */
+import type { Lang } from '../../config/languages';
+import { useTopicsT } from '../../i18n/topics';
+import { getTopics, localizePath, pickText } from '../../utils/topics/registry';
+import { textDir, uiDir } from '../../utils/topics/ui-dir';
+
+export interface Props {
+  lang: Lang;
+  /** 目前所在專題的 id，會被排除。 */
+  currentId: string;
+  /** 只列這些 id（例：登記檔的 relatedTopics）。不給就列全部其他專題。 */
+  only?: string[];
+  /** 區塊標題，預設「其他專題」。 */
+  heading?: string;
+}
+
+const { lang, currentId, only, heading } = Astro.props;
+const t = useTopicsT(lang);
+const ui = uiDir(lang);
+const others = getTopics()
+  .filter(
+    (topic) => topic.id !== currentId && (!only || only.includes(topic.id)),
+  )
+  .map((topic) => ({
+    ...topic,
+    titleDir: textDir(topic.title, lang),
+    descDir: textDir(topic.description, lang),
+  }));
+---
+
+{
+  others.length > 0 && (
+    <section class="tn-cross" data-tn-cross>
+      <h2
+        class="tn-cross-heading"
+        dir={heading ? undefined : ui.dir}
+        lang={heading ? undefined : ui.lang}
+      >
+        {heading || t('crosslinks.heading')}
+      </h2>
+      <ul class="tn-cross-grid">
+        {others.map((topic) => (
+          <li>
+            <a class="tn-cross-card" href={localizePath(topic.path, lang)}>
+              <span
+                class="tn-cross-title"
+                dir={topic.titleDir.dir}
+                lang={topic.titleDir.lang}
+              >
+                {topic.emoji && (
+                  <span class="tn-cross-emoji" aria-hidden="true">
+                    {topic.emoji}
+                  </span>
+                )}
+                {pickText(topic.title, lang)}
+              </span>
+              <span
+                class="tn-cross-desc"
+                dir={topic.descDir.dir}
+                lang={topic.descDir.lang}
+              >
+                {pickText(topic.description, lang)}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .tn-cross {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1000px;
+    margin: var(--space-7) auto 0;
+    padding: var(--space-5) var(--space-page-x) 0;
+    border-top: 1px solid var(--color-border);
+  }
+  .tn-cross-heading {
+    margin: 0 0 1rem;
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
+    line-height: 1.32;
+    color: var(--color-ink);
+  }
+  .tn-cross-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+    gap: 0.9rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tn-cross-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-chip);
+    background: var(--color-surface);
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+  .tn-cross-card:hover,
+  .tn-cross-card:focus-visible {
+    border-color: var(--color-accent);
+  }
+  .tn-cross-title {
+    font-family: var(--font-interface);
+    font-weight: 800;
+    line-height: 1.4;
+  }
+  .tn-cross-emoji {
+    margin-inline-end: 0.4em;
+  }
+  .tn-cross-desc {
+    font-size: 0.86rem;
+    line-height: 1.65;
+    color: var(--color-ink-soft);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

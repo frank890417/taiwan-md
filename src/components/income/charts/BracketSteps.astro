@@ -1,0 +1,214 @@
+---
+/**
+ * BracketSteps — 累進稅率階梯圖（靜態版，SSR inline SVG + 資料表）。
+ *
+ * 橫軸是所得淨額，縱軸是那一段適用的稅率；每一級畫成一塊階梯，面積感來自「寬＝這一級
+ * 涵蓋多少淨額、高＝稅率」。最高一級沒有上限（upTo 為 null），畫到固定寬度並在右端加箭頭。
+ *
+ * `upTo` 由呼叫端先換成顯示單位（中文頁萬元、英文頁百萬元），`unit` 是橫軸說明。
+ * `rate` 是小數（0.05＝5%）。寬 760／窄 380 兩套幾何。
+ */
+import { scaleLinear, CHART_WIDTHS } from '../../../utils/budgetViz';
+import { useIncomeT } from '../../../i18n/income';
+import type { Lang } from '../../../config/languages';
+
+export interface Bracket {
+  upTo: number | null;
+  rate: number;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  source?: string;
+  lang: Lang;
+  brackets: Bracket[];
+  unit?: string;
+  id?: string;
+}
+const { title, subtitle, source, lang, brackets, unit, id } = Astro.props;
+const t = useIncomeT(lang);
+const uid =
+  id ||
+  `bs-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+
+const fmt = (v: number) =>
+  v.toLocaleString('en-US', { maximumFractionDigits: 2 });
+const pct = (r: number) => `${+(r * 100).toFixed(2)}%`;
+const finite = brackets
+  .map((b) => b.upTo)
+  .filter((v): v is number => v !== null);
+const lastFinite = finite.length ? finite[finite.length - 1] : 1;
+const xMax = lastFinite * 1.22;
+const maxRate = Math.max(...brackets.map((b) => b.rate));
+const yTop = Math.ceil(maxRate * 10) / 10;
+const yTicks = Array.from(
+  { length: Math.round(yTop * 10) + 1 },
+  (_, i) => i / 10,
+);
+const steps = brackets.map((b, i) => ({
+  from: i === 0 ? 0 : (brackets[i - 1].upTo ?? 0),
+  to: b.upTo,
+  rate: b.rate,
+  op: +(0.28 + (0.62 * i) / Math.max(1, brackets.length - 1)).toFixed(3),
+}));
+const rangeText = (s: (typeof steps)[number]) =>
+  s.to === null
+    ? t('income.common.above', { v: fmt(s.from) })
+    : `${fmt(s.from)}–${fmt(s.to)}`;
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? 250 : 300;
+  const M = { l: narrow ? 40 : 44, r: narrow ? 14 : 20, t: 26, b: 46 };
+  const x = scaleLinear(0, xMax, M.l, W - M.r);
+  const y = scaleLinear(0, yTop, H - M.b, M.t);
+  return { W, H, M, x, y, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart inc-bs" data-chart="bracket-steps" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {yTicks.map((v) => (
+          <g class="bg-grid">
+            <line x1={L.M.l} x2={L.W - L.M.r} y1={L.y(v)} y2={L.y(v)} />
+            <text
+              x={L.M.l - 6}
+              y={L.y(v) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
+              {pct(v)}
+            </text>
+          </g>
+        ))}
+        {steps.map((s) => {
+          const x0 = L.x(s.from);
+          const open = s.to === null;
+          const x1 = open ? L.x(xMax) - 8 : L.x(s.to as number);
+          const y0 = L.y(s.rate);
+          return (
+            <g class="inc-bs-step">
+              <rect
+                x={x0}
+                y={y0}
+                width={Math.max(0, x1 - x0)}
+                height={L.y(0) - y0}
+                fill-opacity={s.op}
+              >
+                <title>{`${rangeText(s)}: ${pct(s.rate)}`}</title>
+              </rect>
+              {open && (
+                <polygon
+                  fill-opacity={s.op}
+                  points={`${x1},${y0} ${x1 + 10},${(y0 + L.y(0)) / 2} ${x1},${L.y(0)}`}
+                />
+              )}
+              <text
+                x={(x0 + x1) / 2}
+                y={y0 - 6}
+                text-anchor="middle"
+                class="inc-bs-rate"
+              >
+                {pct(s.rate)}
+              </text>
+            </g>
+          );
+        })}
+        <line
+          x1={L.M.l}
+          x2={L.W - L.M.r}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="bg-axis"
+        />
+        {[0, ...finite].map((v) => (
+          <g>
+            <line
+              x1={L.x(v)}
+              x2={L.x(v)}
+              y1={L.y(0)}
+              y2={L.y(0) + 5}
+              class="bg-axis"
+            />
+            <text
+              x={L.x(v)}
+              y={L.y(0) + 18}
+              text-anchor="middle"
+              class="bg-tick"
+            >
+              {fmt(v)}
+            </text>
+          </g>
+        ))}
+        {unit && (
+          <text x={L.M.l} y={L.H - 6} class="bg-tick">
+            {unit}
+          </text>
+        )}
+      </svg>
+    ))
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {t('income.common.source')}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{t('income.common.datatable')}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{unit || t('income.common.table.item')}</th>
+            <th class="num">{t('income.common.table.rate')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            steps.map((s) => (
+              <tr>
+                <td>{rangeText(s)}</td>
+                <td class="num">{pct(s.rate)}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  .inc-bs-step rect,
+  .inc-bs-step polygon {
+    fill: var(--bg-cat-0);
+  }
+  .inc-bs-rate {
+    font-size: 12.5px;
+    font-weight: 700;
+    fill: var(--bg-ink);
+  }
+  /* 窄版 viewBox 380 在手機上約縮成 0.89 倍，字級拉高讓實際大小不低於 11px */
+  .bg-svg.is-narrow .bg-tick {
+    font-size: 12.5px;
+  }
+  .bg-svg.is-narrow .inc-bs-rate {
+    font-size: 14px;
+  }
+</style>

@@ -46,6 +46,8 @@ interface Props {
   collectionItems?: { name: string; url: string }[];
   collectionTotal?: number;
   noindex?: boolean;
+  /** Passthrough to SEO's BreadcrumbList override (see SEO.astro props). */
+  breadcrumb?: false | { name: string; url: string }[];
   /**
    * Opt this surface into the floating ReaderSettings panel
    * (light/auto/dark theme + text-size + plain-text link) and
@@ -105,6 +107,7 @@ const {
   collectionItems,
   collectionTotal,
   noindex,
+  breadcrumb,
   readerSettings = false,
   feedback = true,
   pageType: pageTypeProp,
@@ -266,6 +269,7 @@ const appBanner = smartBannerContent(
       categorySlug={propCategorySlug}
       collectionItems={collectionItems}
       collectionTotal={collectionTotal}
+      breadcrumb={breadcrumb}
     />
     <!-- FOUC fix: hide <html> until fonts loaded (2026-05-11 picked up from
          tboydar-agent PR #1012 / fixes #401). Combined with shot-mode +

@@ -1,0 +1,598 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * housing-tools.css — /housing/ 試算工具（房貸、負擔能力、青安資格、買與租）
+ *
+ * class 一律 hst- 前綴，不寫全域選擇器；顏色用 tokens.css 的 --color-*，
+ * 加上少量工具自訂變數（兩個系列色：藍與橘，不靠紅綠分辨）。
+ * 圖的區別：系列 A 藍色實線／本金，系列 B 橘色虛線／利息；深淺色各一套。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.hst {
+  --hst-a: #1d5fd1; /* 系列 A：本金、主情境、買房 */
+  --hst-b: #c2570c; /* 系列 B：利息、對照情境、租房 */
+  --hst-grid: rgba(15, 23, 42, 0.1);
+  --hst-axis: rgba(15, 23, 42, 0.38);
+  --hst-field-border: rgba(15, 23, 42, 0.28);
+  --hst-panel: rgba(15, 23, 42, 0.035);
+  --hst-pass: #0e6b4f;
+  --hst-fail: #a3261d;
+  --hst-review: #8a5a00;
+  --hst-band-0: rgba(29, 95, 209, 0.1);
+  --hst-band-1: rgba(29, 95, 209, 0.22);
+  --hst-band-2: rgba(29, 95, 209, 0.38);
+  --hst-band-3: rgba(29, 95, 209, 0.56);
+  --hst-focus: var(--color-accent);
+  color: var(--color-ink);
+  font-family: var(--font-reading);
+  line-height: 1.6;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+  padding: 1.25rem;
+  box-shadow: var(--shadow-soft);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+[data-theme='dark'] .hst {
+  --hst-a: #7aa7ff;
+  --hst-b: #ffa45c;
+  --hst-grid: rgba(241, 245, 249, 0.14);
+  --hst-axis: rgba(241, 245, 249, 0.5);
+  --hst-field-border: rgba(241, 245, 249, 0.34);
+  --hst-panel: rgba(241, 245, 249, 0.05);
+  --hst-pass: #5fd3a6;
+  --hst-fail: #ff8f86;
+  --hst-review: #f2c35b;
+  --hst-band-0: rgba(122, 167, 255, 0.12);
+  --hst-band-1: rgba(122, 167, 255, 0.24);
+  --hst-band-2: rgba(122, 167, 255, 0.4);
+  --hst-band-3: rgba(122, 167, 255, 0.58);
+}
+.hst *,
+.hst *::before,
+.hst *::after {
+  box-sizing: border-box;
+}
+.hst-embed {
+  box-shadow: none;
+  border-radius: 0;
+  border-width: 0;
+  padding: 0.75rem;
+}
+.hst-page {
+  box-shadow: var(--shadow-card);
+}
+
+/* ── 標題區 ───────────────────────────────────────────────────────── */
+.hst .hst-head {
+  margin-bottom: 1rem;
+}
+.hst .hst-title {
+  margin: 0 0 0.35rem;
+  font-size: var(--title-subsection-size);
+  line-height: var(--title-line-height);
+  font-family: var(--font-interface);
+  color: var(--color-ink);
+}
+.hst .hst-intro {
+  margin: 0;
+  color: var(--color-ink-soft);
+  font-size: 0.95rem;
+}
+
+/* ── 版面 ─────────────────────────────────────────────────────────── */
+.hst .hst-layout {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+@media (min-width: 960px) {
+  .hst-inline .hst-layout,
+  .hst-page .hst-layout {
+    grid-template-columns: minmax(280px, 360px) minmax(0, 1fr);
+    align-items: start;
+  }
+}
+
+/* ── 表單 ─────────────────────────────────────────────────────────── */
+.hst .hst-form {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: minmax(0, 1fr);
+  min-width: 0;
+}
+.hst .hst-group {
+  margin: 0;
+  padding: 0.85rem 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--hst-panel);
+  display: grid;
+  gap: 0.75rem;
+  min-width: 0;
+}
+.hst .hst-group > legend,
+.hst .hst-group > summary {
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding: 0 0.3rem;
+  color: var(--color-ink);
+}
+.hst details.hst-group > summary {
+  cursor: pointer;
+  padding: 0;
+}
+.hst details.hst-group[open] > summary {
+  margin-bottom: 0.75rem;
+}
+.hst .hst-field {
+  display: grid;
+  gap: 0.25rem;
+  min-width: 0;
+}
+.hst .hst-field[hidden],
+.hst [hidden] {
+  display: none !important;
+}
+.hst .hst-field label {
+  font-size: 0.86rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-field input[type='number'],
+.hst .hst-field input[type='month'],
+.hst .hst-field input[type='text'],
+.hst .hst-field select {
+  width: 100%;
+  min-height: 42px;
+  padding: 0.45rem 0.6rem;
+  border: 1px solid var(--hst-field-border);
+  border-radius: 8px;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font: inherit;
+  font-size: 1rem;
+}
+.hst .hst-field input:disabled,
+.hst .hst-field select:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+.hst .hst-field-check {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.hst .hst-field-check input {
+  width: 20px;
+  height: 20px;
+  accent-color: var(--hst-a);
+}
+.hst .hst-field-check label {
+  color: var(--color-ink);
+  font-size: 0.95rem;
+}
+.hst .hst-help {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+}
+.hst input:focus-visible,
+.hst select:focus-visible,
+.hst summary:focus-visible,
+.hst button:focus-visible,
+.hst a:focus-visible {
+  outline: 3px solid var(--hst-focus);
+  outline-offset: 2px;
+}
+.hst .hst-btn {
+  justify-self: start;
+  min-height: 40px;
+  padding: 0.4rem 0.95rem;
+  border: 1px solid var(--hst-field-border);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--color-ink);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.hst .hst-btn:hover {
+  background: var(--hst-panel);
+}
+.hst .hst-link-btn {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  border-radius: 8px;
+  background: var(--hst-a);
+  color: var(--color-bg);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* ── 結果 ─────────────────────────────────────────────────────────── */
+.hst .hst-results {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: minmax(0, 1fr);
+  min-width: 0;
+}
+.hst .hst-out,
+.hst .hst-visuals {
+  min-width: 0;
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+.hst .hst-stats {
+  display: grid;
+  gap: 0.6rem;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin: 0;
+}
+.hst .hst-stat {
+  padding: 0.65rem 0.8rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--hst-panel);
+  min-width: 0;
+}
+.hst .hst-stat dt {
+  font-size: 0.8rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-stat dd {
+  margin: 0.15rem 0 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  overflow-wrap: anywhere;
+}
+.hst .hst-stat-key {
+  border-color: var(--hst-a);
+}
+.hst .hst-take {
+  margin: 0;
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.hst .hst-note,
+.hst .hst-line {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-warn ul {
+  margin: 0;
+  padding: 0.6rem 0.9rem 0.6rem 1.6rem;
+  border-left: 4px solid var(--hst-b);
+  background: var(--hst-panel);
+  font-size: 0.9rem;
+}
+.hst .hst-error {
+  margin: 0;
+  padding: 0.7rem 0.9rem;
+  border-left: 4px solid var(--hst-fail);
+  background: var(--hst-panel);
+  font-weight: 600;
+}
+.hst .hst-sub {
+  margin: 0 0 0.4rem;
+  font-size: 0.98rem;
+  font-weight: 600;
+  font-family: var(--font-interface);
+}
+
+/* ── 圖 ───────────────────────────────────────────────────────────── */
+.hst .hst-chart {
+  min-width: 0;
+}
+.hst .hst-fig {
+  display: block;
+}
+.hst .hst-fig-narrow {
+  display: none;
+}
+@media (max-width: 640px) {
+  .hst .hst-fig-wide {
+    display: none;
+  }
+  .hst .hst-fig-narrow {
+    display: block;
+  }
+}
+.hst .hst-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  overflow: visible;
+}
+.hst .hst-svg text {
+  fill: var(--color-ink-soft);
+  font-family: inherit;
+  font-size: 12px;
+}
+.hst .hst-svg .hst-t-strong {
+  fill: var(--color-ink);
+  font-weight: 600;
+}
+.hst .hst-svg .hst-t-band {
+  fill: var(--color-ink);
+}
+.hst .hst-grid {
+  stroke: var(--hst-grid);
+  stroke-width: 1;
+}
+.hst .hst-axis {
+  stroke: var(--hst-axis);
+  stroke-width: 1;
+}
+.hst .hst-tick {
+  stroke: var(--hst-axis);
+  stroke-width: 1;
+}
+.hst .hst-bar-p {
+  fill: var(--hst-a);
+}
+.hst .hst-bar-i {
+  fill: var(--hst-b);
+  fill-opacity: 0.72;
+}
+.hst .hst-line-a {
+  stroke: var(--hst-a);
+  stroke-width: 2.75;
+}
+.hst .hst-line-b {
+  stroke: var(--hst-b);
+  stroke-width: 2.75;
+  stroke-dasharray: 7 5;
+}
+.hst .hst-line-ink {
+  stroke: var(--color-ink);
+  stroke-width: 2;
+}
+.hst .hst-band-0 {
+  fill: var(--hst-band-0);
+}
+.hst .hst-band-1 {
+  fill: var(--hst-band-1);
+}
+.hst .hst-band-2 {
+  fill: var(--hst-band-2);
+}
+.hst .hst-band-3 {
+  fill: var(--hst-band-3);
+}
+.hst .hst-mk-you {
+  fill: var(--color-ink);
+}
+.hst .hst-mk-nation {
+  fill: var(--hst-a);
+}
+.hst .hst-mk-county {
+  fill: var(--hst-b);
+}
+.hst .hst-mk-line {
+  stroke: var(--color-ink-soft);
+  stroke-width: 1.25;
+  stroke-dasharray: 3 3;
+}
+
+/* ── 表格 ─────────────────────────────────────────────────────────── */
+.hst .hst-tablewrap {
+  overflow-x: auto;
+  max-width: 100%;
+}
+.hst .hst-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+.hst .hst-table th,
+.hst .hst-table td {
+  padding: 0.4rem 0.55rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: right;
+  white-space: nowrap;
+}
+.hst .hst-table th:first-child,
+.hst .hst-table thead th {
+  text-align: left;
+  font-weight: 600;
+}
+.hst .hst-table tbody th:first-child {
+  white-space: normal;
+  min-width: 6.5em;
+}
+.hst .hst-table thead th {
+  color: var(--color-ink-soft);
+  font-size: 0.8rem;
+}
+.hst .hst-more {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 0.5rem 0.8rem;
+}
+.hst .hst-more > summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.hst .hst-more[open] > summary {
+  margin-bottom: 0.6rem;
+}
+
+/* ── 資格逐條 ─────────────────────────────────────────────────────── */
+.hst .hst-checks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+.hst .hst-check {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--hst-panel);
+}
+.hst .hst-check summary {
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.7rem;
+  padding: 0.6rem 0.8rem;
+}
+.hst .hst-badge {
+  flex: none;
+  min-width: 6.2em;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  border: 1.5px solid currentColor;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-align: center;
+}
+.hst .hst-badge-pass {
+  color: var(--hst-pass);
+}
+.hst .hst-badge-fail {
+  color: var(--hst-fail);
+  border-style: dashed;
+}
+.hst .hst-badge-bankReview {
+  color: var(--hst-review);
+  border-style: double;
+  border-width: 3px;
+}
+.hst .hst-badge-unknown {
+  color: var(--color-ink-soft);
+  border-style: dotted;
+}
+.hst .hst-check-text {
+  flex: 1 1 14em;
+  min-width: 0;
+}
+.hst .hst-check-body {
+  padding: 0 0.8rem 0.7rem;
+}
+.hst .hst-quote-label {
+  margin: 0.2rem 0 0.25rem;
+  font-size: 0.8rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-quote {
+  margin: 0 0 0.4rem;
+  padding: 0.2rem 0 0.2rem 0.8rem;
+  border-left: 3px solid var(--hst-field-border);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+.hst .hst-src {
+  margin: 0 0 0.3rem;
+  font-size: 0.8rem;
+  overflow-wrap: anywhere;
+}
+.hst .hst-src a,
+.hst .hst-sources a {
+  color: var(--color-accent);
+}
+
+/* ── 免責與來源 ───────────────────────────────────────────────────── */
+.hst .hst-disclaimer {
+  margin: 1.1rem 0 0;
+  padding: 0.7rem 0.9rem;
+  border-radius: 10px;
+  background: var(--hst-panel);
+  border: 1px solid var(--color-border);
+  font-size: 0.86rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-sources {
+  margin: 0.8rem 0 0;
+  font-size: 0.8rem;
+  color: var(--color-ink-soft);
+}
+.hst .hst-sources h4 {
+  margin: 0 0 0.25rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+.hst .hst-sources ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+.hst .hst-sources li {
+  overflow-wrap: anywhere;
+}
+.hst .hst-assump {
+  margin-top: 0.8rem;
+}
+.hst .hst-assump p {
+  margin: 0 0 0.5rem;
+  font-size: 0.86rem;
+  color: var(--color-ink-soft);
+}
+
+/* ── 手機 ─────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .hst {
+    padding: 0.9rem;
+    border-radius: 12px;
+  }
+  .hst .hst-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .hst .hst-stat dd {
+    font-size: 1.02rem;
+  }
+}
+
+/* 工具集頁的外層版面（housing-tools.template.astro 使用） */
+.hst-hub {
+  max-width: var(--container-wide);
+  margin: 0 auto;
+  padding: 0 var(--space-page-x) var(--space-8);
+  color: var(--color-ink);
+  font-family: var(--font-reading);
+}
+.hst-hub .hst-hub-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 var(--space-5);
+  padding: 0;
+  list-style: none;
+}
+.hst-hub .hst-hub-toc a {
+  display: inline-block;
+  padding: 0.4rem 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  color: var(--color-ink);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+.hst-hub .hst-hub-toc a:hover {
+  border-color: var(--color-accent);
+}
+.hst-hub .hst-hub-section {
+  padding-top: var(--space-6);
+  scroll-margin-top: 5rem;
+}
+.hst-hub .hst-hub-h2 {
+  margin: 0 0 var(--space-4);
+  font-family: var(--font-interface);
+  font-size: clamp(1.3rem, 2.4vw, 1.7rem);
+  line-height: 1.3;
+  color: var(--color-ink);
+}
+.hst-hub .hst-hub-lead {
+  margin: 0 0 var(--space-5);
+  max-width: 46rem;
+  color: var(--color-ink-soft);
+}
+.hst-hub .hst-hub-lead a {
+  color: var(--color-accent);
+}

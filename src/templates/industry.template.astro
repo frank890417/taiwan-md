@@ -1,0 +1,208 @@
+---
+/**
+ * industry.template.astro — /industry「台灣產業」專題主頁（13 語共用 template）。
+ *
+ * 設計報告：reports/design-industry-topic-2026-11-10.md（EVOLVE Mode 4；含「對照共用契約 v1」）
+ * 版型：沿用 /budget 的節奏（kicker → 斷言 H2 → 圖 → 兩段 → 相關文章）。樣式 import budget.css，
+ *       專題自己的在 src/styles/industry.css（ind-*）。
+ * 分節：src/components/industry/sections/*.astro（九節，各自從 pageData 拿資料）
+ * 工具：src/components/industry/tools/*（時間軸、供應鏈地圖、排行表；各有單獨頁與內嵌板）
+ * 數列：src/data/industry/series.json；內容：src/data/industry/content/*.json
+ * 文案：src/i18n/industry/（zh-TW／en 完整，其他語言 data/industry/i18n/{lang}.json，缺鍵回退 en）
+ *
+ * 個股：只引用市值與產業別的事實，不評價、不預測。聲明在英雄區與第五節。
+ * 立場：第七節具名引語並列，頁面文字不替任何一方收尾。
+ */
+import '../styles/budget.css';
+import '../styles/industry.css';
+import '../styles/topics-foundation.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import History from '../components/industry/sections/History.astro';
+import Institutions from '../components/industry/sections/Institutions.astro';
+import Today from '../components/industry/sections/Today.astro';
+import Chips from '../components/industry/sections/Chips.astro';
+import Ranking from '../components/industry/sections/Ranking.astro';
+import Places from '../components/industry/sections/Places.astro';
+import Debates from '../components/industry/sections/Debates.astro';
+import Outlook from '../components/industry/sections/Outlook.astro';
+import Resources from '../components/industry/sections/Resources.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { hasIndustryLocale } from '../i18n/industry';
+import { industryPageData } from '../utils/industry/pageData';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const {
+  S,
+  COMPANIES_SNAPSHOT_DATE,
+  fmtYi,
+  conc,
+  elecShare,
+  expY1,
+  gs,
+  mfgLast,
+  pct1,
+  pk,
+  pkLast,
+  pkTotalLast,
+  ti,
+  toc,
+  zh,
+} = await industryPageData(lang);
+---
+
+<Layout
+  lang={lang}
+  title={ti('meta.title')}
+  description={ti('meta.description')}
+  readerSettings={true}
+  noindex={!isTopicTranslated(getTopic('industry'), lang)}
+>
+  <main class="budget-page industry-page tf-surface min-h-screen">
+    <PageHero
+      eyebrow={ti('hero.eyebrow')}
+      title={ti('hero.title')}
+      subtitle={ti('hero.subtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <blockquote class="bp-kicker bp-hero-verse">
+        {ti('hero.verse')}
+      </blockquote>
+      <div class="bp-hero-stats">
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{pct1(elecShare)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.export', { year: expY1 })}
+          </div>
+        </div>
+        <div class="bp-stat">
+          <div class="bp-stat-v">{pct1(mfgLast)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.mfg', { year: gs.years[gs.years.length - 1] })}
+          </div>
+        </div>
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{fmtYi(pkTotalLast, lang)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.parks', { year: pk.years[pkLast] })}
+          </div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{pct1(conc.top1Pct)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.tsmc', { date: COMPANIES_SNAPSHOT_DATE })}
+          </div>
+        </div>
+      </div>
+      <p class="ind-hero-src">
+        {ti('hero.sources')}
+        <a href={S.exportProducts.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.export')}</a
+        >（{S.exportProducts.source.accessed}）・
+        <a href={S.gdpSectors.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.mfg')}</a
+        >（{S.gdpSectors.source.accessed}）・
+        <a href={S.parksRevenue.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.parks')}</a
+        >（{S.parksRevenue.source.accessed}）・
+        <a href={S.marketSnapshot.sources[0].url} target="_blank" rel="noopener"
+          >{ti('hero.src.tsmc')}</a
+        >（{S.marketSnapshot.date}）
+      </p>
+      <p class="ind-disclaimer">
+        <b>{ti('disclaimer.h')}</b>
+        {ti('disclaimer.p')}
+      </p>
+      {
+        !zh && !hasIndustryLocale(lang) && (
+          <p class="ind-langnote">{ti('langnote')}</p>
+        )
+      }
+      <nav class="bp-brief" aria-label={ti('hero.jump')}>
+        <h2 class="bp-brief-h">{ti('hero.brief')}</h2>
+        <ol class="bp-brief-list">
+          {
+            toc.map((s, i) => (
+              <li>
+                <a href={`#${s.id}`}>
+                  <span class="bp-brief-n">{i + 1}</span>
+                  <span class="bp-brief-body">
+                    <span class="bp-brief-label">{s.label}</span>
+                    <span class="bp-brief-take">{s.take}</span>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </PageHero>
+
+    <TopicNav lang={lang} topic="industry" />
+
+    <nav class="bp-subnav" aria-label={ti('subnav.label')} id="bp-subnav">
+      <div class="bp-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <History lang={lang} />
+    <Institutions lang={lang} />
+    <Today lang={lang} />
+    <Chips lang={lang} />
+    <Ranking lang={lang} />
+    <Places lang={lang} />
+    <Debates lang={lang} />
+    <Outlook lang={lang} />
+    <Resources lang={lang} />
+
+    <TopicCrossLinks lang={lang} currentId="industry" />
+  </main>
+
+  <script>
+    // 黏頂子導覽 scroll-spy；量 fixed header 底緣寫 --bp-sticky-top（跟 /budget 同一個變數）。
+    const subnav = document.getElementById('bp-subnav');
+    if (subnav) {
+      const header = document.querySelector<HTMLElement>('header');
+      const setTop = () => {
+        const b = header?.getBoundingClientRect().bottom ?? 0;
+        document.documentElement.style.setProperty(
+          '--bp-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
+        );
+      };
+      setTop();
+      window.addEventListener('resize', setTop, { passive: true });
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+      );
+      const io = new IntersectionObserver(
+        (entries) => {
+          for (const en of entries) {
+            if (!en.isIntersecting) continue;
+            for (const a of links)
+              a.classList.toggle(
+                'is-active',
+                a.dataset.target === en.target.id,
+              );
+          }
+        },
+        { rootMargin: '-40% 0px -55% 0px' },
+      );
+      links.forEach((a) => {
+        const el = document.getElementById(a.dataset.target!);
+        if (el) io.observe(el);
+      });
+    }
+  </script>
+</Layout>

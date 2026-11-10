@@ -1,0 +1,91 @@
+---
+/**
+ * FigureShell — /housing/ 圖表共用外框：結論句標題、副標、圖本體（slot）、來源與截止期別、
+ * 資料表 fallback（slot "table"）。所有 housing 圖表元件都包在這裡，來源列的格式只有一份。
+ *
+ * 來源列：機關名連到 source.url；截止期別依語系；本站自行計算的值標「本站計算」。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import {
+  agencyShort,
+  fmtPeriod,
+  mergeSrc,
+  type SourceRef,
+} from '../../../utils/housing/data';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  lang: string;
+  sources: SourceRef[];
+  /** 圖下方的補充說明（資料斷點、樣本註記等） */
+  note?: string;
+  id?: string;
+  tableLabel?: string;
+  /** 圖的大致類型，供樣式微調（line / rank / step / stack / dots / html） */
+  kind?: string;
+}
+const {
+  title,
+  subtitle,
+  lang,
+  sources,
+  note,
+  id,
+  tableLabel,
+  kind = 'line',
+} = Astro.props;
+const T = housingHome(lang);
+const uid =
+  id ||
+  `hs-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const hasTable = Astro.slots.has('table');
+---
+
+<figure class="hs-chart" data-kind={kind} id={uid}>
+  <h3 class="hs-chart-title" id={`${uid}-h`}>{title}</h3>
+  {subtitle && <p class="hs-chart-sub">{subtitle}</p>}
+  <div class="hs-chart-body"><slot /></div>
+  <figcaption class="hs-chart-src">
+    <span class="hs-src-k">{T.ui.source}</span>
+    {
+      mergeSrc(sources).map((s, i) => (
+        <span class="hs-src-i">
+          {i > 0 && (lang === 'zh-TW' ? '；' : '; ')}
+          <a
+            href={s.url}
+            target="_blank"
+            rel="noopener"
+            class="no-external-icon"
+            title={s.title}
+          >
+            {agencyShort(s.agency, lang)}
+          </a>
+          {s.asOfs.length > 0 && (
+            <span class="hs-src-asof">
+              {lang === 'zh-TW' ? '，' : ', '}
+              {T.ui.asOf}{' '}
+              {s.asOfs
+                .map((a) => fmtPeriod(a, lang))
+                .join(lang === 'zh-TW' ? '、' : ', ')}
+            </span>
+          )}
+          {s.derived && <span class="hs-badge">{T.ui.derived}</span>}
+        </span>
+      ))
+    }
+    {note && <span class="hs-src-note">{note}</span>}
+  </figcaption>
+  {
+    hasTable && (
+      <details class="hs-table">
+        <summary>{tableLabel || T.ui.dataTable}</summary>
+        <div class="hs-table-wrap">
+          <slot name="table" />
+        </div>
+      </details>
+    )
+  }
+</figure>

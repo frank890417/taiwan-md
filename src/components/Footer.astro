@@ -223,6 +223,37 @@ const label = {
     ar: 'انتخابات 2026',
     ru: 'Выборы 2026',
   }),
+  // 專題總覽 /topics、工具總覽 /tools（2026-11-10 專題整合）
+  topics: L({
+    'zh-TW': '專題',
+    en: 'Topics',
+    ja: '特集',
+    ko: '특집',
+    es: 'Especiales',
+    fr: 'Dossiers',
+    vi: 'Chuyên đề',
+    id: 'Topik khusus',
+    pt: 'Especiais',
+    hi: 'विशेष विषय',
+    ar: 'ملفات خاصة',
+    ru: 'Спецпроекты',
+    de: 'Themen',
+  }),
+  tools: L({
+    'zh-TW': '工具',
+    en: 'Tools',
+    ja: 'ツール',
+    ko: '도구',
+    es: 'Herramientas',
+    fr: 'Outils',
+    vi: 'Công cụ',
+    id: 'Alat',
+    pt: 'Ferramentas',
+    hi: 'टूल',
+    ar: 'أدوات',
+    ru: 'Инструменты',
+    de: 'Werkzeuge',
+  }),
   semiont: L({
     'zh-TW': '生命體',
     en: 'Semiont',
@@ -386,10 +417,12 @@ import { iconSvg } from '../icons/taiwan-icons.mjs';
         <h4 class={HEAD_CLASS}>{t('footer.explore')}</h4>
         <a href={navHref('/latest')}>{t('nav.latest')}</a>
         <a href={navHref('/explore')}>{label.explore}</a>
+        <a href={navHref('/topics')}>{label.topics}</a>
         <a href={navHref('/map')}>{label.map}</a>
         <a href={navHref('/soundscape')}>{label.soundscape}</a>
         <a href={navHref('/terminology')}>{t('nav.terminology')}</a>
         <a href={navHref('/terminology/converter')}>{label.converter}</a>
+        <a href={navHref('/tools')}>{label.tools}</a>
       </div>
       <!-- 資料室 · data & instruments -->
       <div class={COL_CLASS}>

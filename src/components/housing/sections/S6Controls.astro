@@ -1,0 +1,264 @@
+---
+/**
+ * S6Controls — 第 6 節：央行信用管制。
+ * 圖 A：TrendLine，五大銀行新承做購屋貸款利率（月）＋重貼現率階梯，疊七波管制與兩次放寬的生效日。
+ * 圖 B：DotRows，各類受限貸款在管制前、第 7 波前一個月與最近一次統計的銀行平均成數。
+ * 圖 C：TrendLine，建物買賣移轉棟數（年）。
+ * 另有三張數字卡：不動產貸款占總放款的現值、近期高點、歷史高點。
+ * 波次與放寬次數由 credit-controls.json 的 wave 欄位判定：wave 為「第 1 到 7 度」是收緊，其餘 round=2 的規定是放寬。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import DotRows from '../charts/DotRows.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import {
+  fmtPeriod,
+  fmtXm,
+  getSeries,
+  getTable,
+  grp,
+  latest,
+  maxPoint,
+  minPoint,
+  srcOf,
+  srcOfTable,
+  trimNum,
+  uniqSrc,
+  xOfT,
+} from '../../../utils/housing/data';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s6;
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+
+// ── 管制事件 ────────────────────────────────────────────
+const ctl = getTable('credit-controls', 'selective-credit-controls-timeline');
+const rules2 = ctl.rows.filter(
+  (r: any) => r.round === 2 && r.kind === 'rule' && r.effectiveDate,
+);
+const waves = rules2.filter((r: any) => /^第 [1-7] 度$/.test(r.wave ?? ''));
+const eases = rules2.filter((r: any) => !/^第 [1-7] 度$/.test(r.wave ?? ''));
+const xStart = 2019;
+
+// ── 利率 ────────────────────────────────────────────────
+const rate = getSeries('rates', 'five-bank-mortgage-rate');
+const redis = getSeries('rates', 'cbc-rediscount-rate');
+const ratePts = rate.points
+  .filter((p) => xOfT(p.t) >= xStart)
+  .map((p) => ({ x: xOfT(p.t), v: p.v }));
+const before = redis.points.filter((p) => xOfT(p.t) < xStart);
+const redisPts = [
+  ...(before.length ? [{ x: xStart, v: before[before.length - 1].v }] : []),
+  ...redis.points
+    .filter((p) => xOfT(p.t) >= xStart)
+    .map((p) => ({ x: xOfT(p.t), v: p.v })),
+];
+const winRate = rate.points.filter((p) => xOfT(p.t) >= xStart);
+const lo = minPoint({ points: winRate });
+const hi = maxPoint({ points: winRate });
+const markers = [
+  ...waves.map((r: any) => ({
+    x: xOfT(r.effectiveDate),
+    label: String(parseInt(r.wave.replace(/\D/g, ''), 10)),
+    kind: 'key' as const,
+    title: fill(S.markWave, {
+      n: parseInt(r.wave.replace(/\D/g, ''), 10),
+      date: fmtPeriod(r.effectiveDate, lang),
+    }),
+  })),
+  ...eases.map((r: any) => ({
+    x: xOfT(r.effectiveDate),
+    label: '↓',
+    kind: 'ease' as const,
+    title: fill(S.markEase, { date: fmtPeriod(r.effectiveDate, lang) }),
+  })),
+].sort((a, b) => a.x - b.x);
+
+const xEnd =
+  Math.max(ratePts[ratePts.length - 1].x, ...markers.map((m) => m.x)) + 0.03;
+
+// ── 成數 ────────────────────────────────────────────────
+const ltv = getTable('lending', 'restricted-loan-average-ltv');
+const second = ltv.rows.find((r: any) => /第 2 戶/.test(r.key));
+const dotRows = ltv.rows.map((r: any) => ({
+  id: r.key,
+  label: r.name[L] ?? r.name.en ?? r.name.zh,
+  values: [r.preControlPct, r.aug2024Pct, r.feb2026Pct],
+  cap: r.capPct ?? null,
+  highlight: r === second,
+  note: zh
+    ? Object.values(r.notes ?? {})
+        .filter((x) => typeof x === 'string')
+        .join('；') || undefined
+    : undefined,
+}));
+
+// ── 成交量 ──────────────────────────────────────────────
+const tx = getSeries('transactions', 'building-transfers-annual-moi');
+const txL = latest(tx);
+const txP = tx.points[tx.points.length - 2];
+const drop = ((txP.v - txL.v) / txP.v) * 100;
+const txYFmt = (v: number) =>
+  zh ? `${trimNum(v / 1e4, 1)}萬` : `${trimNum(v / 1e3, 0)}k`;
+
+// ── 集中度 ──────────────────────────────────────────────
+const conc = getSeries('lending', 'real-estate-credit-concentration');
+const concL = latest(conc);
+const concHist = conc.points[0];
+const concPeak = maxPoint({ points: conc.points.filter((p) => p.t >= '2020') });
+
+// 現行與前一版第 2 戶成數（來自成數矩陣，文字格內的「N成」）
+const matrix = getTable('credit-controls', 'ltv-conditions-by-effective-date');
+const seconds = matrix.rows.filter((r: any) =>
+  /全國：(\d+)成/.test(r.secondHome),
+);
+const capOf = (r: any) => parseInt(r.secondHome.match(/全國：(\d+)成/)[1], 10);
+const capPrev = capOf(seconds[seconds.length - 2]);
+const capNow = capOf(seconds[seconds.length - 1]);
+const capStr = (n: number) => (zh ? String(n) : `${n * 10}%`);
+
+const lastWave = waves[waves.length - 1];
+const vars = {
+  n: waves.length,
+  nEase: eases.length,
+  easeYear: eases[0].effectiveDate.slice(0, 4),
+  lo: lo.v.toFixed(2),
+  loPeriod: fmtPeriod(lo.t, lang),
+  hi: hi.v.toFixed(2),
+  from: waves[0].effectiveDate.slice(0, 4),
+  to: lastWave.effectiveDate.slice(0, 4),
+  pre: second.preControlPct.toFixed(0),
+  now: second.feb2026Pct.toFixed(0),
+  year: txL.t,
+  cnt: grp(txL.v),
+  drop: drop.toFixed(1),
+  d1: fmtPeriod(waves[0].effectiveDate, lang),
+  d7: fmtPeriod(lastWave.effectiveDate, lang),
+  peak: concPeak.v,
+  peakPeriod: fmtPeriod(concPeak.t, lang),
+  conc: concL.v,
+  concPeriod: fmtPeriod(concL.t, lang),
+  e1: fmtPeriod(eases[0].effectiveDate, lang),
+  e2: fmtPeriod(eases[1].effectiveDate, lang),
+  cap1: capStr(capPrev),
+  cap2: capStr(capNow),
+};
+const histHref = localizePath('/housing/history/', lang);
+---
+
+<section class="hs-section" id="controls">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <div class="hs-prose">
+      <p>{fill(S.p1, vars)}</p>
+    </div>
+    <TrendLine
+      title={fill(S.rateTitle, vars)}
+      subtitle={S.rateSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'rate',
+          label: S.lineRate,
+          points: ratePts,
+          cls: 'c0',
+          strong: true,
+        },
+        {
+          id: 'redis',
+          label: S.lineRedis,
+          points: redisPts,
+          cls: 'c2',
+          step: true,
+        },
+      ]}
+      sources={uniqSrc([srcOf(rate), srcOf(redis), srcOfTable(ctl, '2026-09')])}
+      unit="%"
+      digits={2}
+      yMin={0}
+      xMin={xStart}
+      xMax={xEnd}
+      xTickStep={1}
+      yFormat={(v) => `${v}%`}
+      markers={markers}
+      tableRows={rate.points
+        .filter((p) => xOfT(p.t) >= xStart && p.t.endsWith('-12'))
+        .map((p) => ({ x: xOfT(p.t), label: fmtPeriod(p.t, lang) }))}
+      tableXHeader={T.ui.period}
+      xFormat={(x) => String(Math.floor(x + 1e-6))}
+      tipX={fmtXm}
+    />
+    <div class="hs-statrow is-three">
+      <div class="hs-mini">
+        <div class="hs-mini-v">{concL.v}<small>%</small></div>
+        <div class="hs-mini-l">{S.concNow}</div>
+        <div class="hs-mini-s">{fmtPeriod(concL.t, lang)}</div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">{concPeak.v}<small>%</small></div>
+        <div class="hs-mini-l">{S.concPeak}</div>
+        <div class="hs-mini-s">{fmtPeriod(concPeak.t, lang)}</div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">{concHist.v}<small>%</small></div>
+        <div class="hs-mini-l">{S.concHist}</div>
+        <div class="hs-mini-s">{fmtPeriod(concHist.t, lang)}</div>
+      </div>
+    </div>
+    <DotRows
+      title={fill(S.ltvTitle, vars)}
+      subtitle={S.ltvSub}
+      lang={lang}
+      series={[
+        { id: 'pre', label: S.sPre },
+        { id: 'aug', label: S.sAug },
+        { id: 'now', label: S.sNow },
+      ]}
+      rows={dotRows}
+      sources={[srcOfTable(ltv, '2026-02')]}
+      note={S.ltvNote}
+      capLabel={S.cap}
+      itemHeader={S.itemHeader}
+      noDataLabel={T.ui.noData}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.p2, vars)}</p>
+      <p>{S.p3}</p>
+    </div>
+    <TrendLine
+      title={fill(S.txTitle, vars)}
+      subtitle={S.txSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'tx',
+          label: S.txLine,
+          points: tx.points.map((p) => ({ x: +p.t, v: p.v })),
+          cls: 'c0',
+          area: true,
+          strong: true,
+        },
+      ]}
+      sources={[srcOf(tx)]}
+      unit=""
+      digits={0}
+      yMin={0}
+      xTickStep={2}
+      yFormat={txYFmt}
+      annots={[
+        { x: +txL.t, lineId: 'tx', text: grp(txL.v), dir: 'down' },
+        { x: +txP.t, lineId: 'tx', text: grp(txP.v), dir: 'up' },
+      ]}
+      tableXHeader={S.tableX}
+      tableRows={tx.points.map((p) => ({ x: +p.t, label: p.t }))}
+    />
+    <p class="hs-more"><a href={histHref}>{S.more} →</a></p>
+  </div>
+</section>

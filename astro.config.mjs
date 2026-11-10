@@ -229,7 +229,8 @@ console.log(
   `[sitemap-stub-filter] Loaded ${redirectStubPathSet.size} meta-refresh stub pages to exclude from sitemap`,
 );
 const NOINDEX_PATH_RE = new RegExp(
-  `^/(?:(?:${NON_DEFAULT_CODES.join('|')})/)?(?:search|assets)/$|^/feedback-uxtest/$`,
+  // 2026-11-10 專題整合：/embed/…（工具內嵌板，全部 noindex）也不進 sitemap。
+  `^/(?:(?:${NON_DEFAULT_CODES.join('|')})/)?(?:(?:search|assets)/$|embed/)|^/feedback-uxtest/$`,
 );
 
 // 2026-04-18 δ-late: Semiont pages are zh-TW-only (meta-layer, not translated).

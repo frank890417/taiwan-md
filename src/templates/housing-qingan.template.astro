@@ -1,0 +1,174 @@
+---
+/**
+ * housing-qingan.template.astro：/housing/qingan/ 青安貸款專章（13 語共用 template）。
+ *
+ * 十節：名稱、三代對照、利率補貼、資格條文與自查工具、歷次調整、限貸與信用管制、規模、爭議評價、
+ * 寬限期結束後怎麼辦（含房貸試算）、未解問題與資料來源。順序照 reports/design-housing-hub-2026-11-10.md 5.1–5.7。
+ * 資料 SSOT：src/data/housing/qingan.json、credit-controls.json、positions.json。
+ * 文案：src/i18n/housing-sub.ts；數字在 build 時從資料檔算出再填入。
+ */
+import '../styles/topics-foundation.css';
+import '../styles/housing.css';
+import Layout from '../layouts/Layout.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import SubHero from '../components/housing/sub/SubHero.astro';
+import SubNav from '../components/housing/sub/SubNav.astro';
+import SubFoot from '../components/housing/sub/SubFoot.astro';
+import QinganNaming from '../components/housing/sub/QinganNaming.astro';
+import QinganGens from '../components/housing/sub/QinganGens.astro';
+import QinganRate from '../components/housing/sub/QinganRate.astro';
+import QinganClauses from '../components/housing/sub/QinganClauses.astro';
+import QinganTimeline from '../components/housing/sub/QinganTimeline.astro';
+import QinganLimits from '../components/housing/sub/QinganLimits.astro';
+import QinganScale from '../components/housing/sub/QinganScale.astro';
+import QinganVoices from '../components/housing/sub/QinganVoices.astro';
+import QinganAfter from '../components/housing/sub/QinganAfter.astro';
+import QinganOpen from '../components/housing/sub/QinganOpen.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { housingSub } from '../i18n/housing-sub';
+import { fill } from '../utils/housing/format';
+import {
+  DATA,
+  agencyName,
+  fmtPeriod,
+  fmtYi,
+  grp,
+  qinganSrc,
+  trimNum,
+} from '../utils/housing/data';
+import {
+  getTopic,
+  isTopicTranslated,
+  localizePath,
+} from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const T = housingSub(lang);
+const H = T.qa;
+const q: any = DATA.qingan;
+const steps = q.rate.subsidySteps as {
+  years: number | null;
+  subsidyPct: number;
+  netRatePct: number;
+}[];
+const nm = (id: string) => q.naming.find((n: any) => n.id === id);
+const sc = q.scale;
+const d = (x: string) => fmtPeriod(x, lang);
+const vars = {
+  v2to: d(nm('v2').to),
+  v3from: d(nm('v3').from),
+  n: steps[0].years ?? 0,
+  r0: trimNum(steps[0].netRatePct, 3),
+  yr: steps.reduce((a, s) => a + (s.years ?? 0), 0) + 1,
+  base: trimNum(q.rate.baseRatePct, 3),
+  step: trimNum(+(steps[0].subsidyPct - steps[1].subsidyPct).toFixed(4), 3),
+  date: d(q.asOf),
+  iso: q.asOf as string,
+  fromIso: nm('v3').from as string,
+  from: d(nm('v3').from),
+  allH: grp(sc.allCumulative.households),
+  asOf: d(sc.asOf),
+};
+const title = fill(H.meta.title, vars);
+const description = fill(H.meta.description, vars);
+const nav = [
+  { id: 'naming', label: H.nav.naming },
+  { id: 'gens', label: H.nav.gens },
+  { id: 'rate', label: H.nav.rate },
+  { id: 'clauses', label: H.nav.clauses },
+  { id: 'timeline', label: H.nav.timeline },
+  { id: 'limits', label: H.nav.limits },
+  { id: 'scale', label: H.nav.scale },
+  { id: 'voices', label: H.nav.voices },
+  { id: 'after', label: H.nav.after },
+  { id: 'open', label: H.nav.open },
+];
+const links = [
+  { href: localizePath('/housing/', lang), label: H.foot.hub },
+  { href: localizePath('/housing/history/', lang), label: H.foot.history },
+  { href: localizePath('/housing/tools/', lang), label: H.foot.tools },
+];
+const rel = [qinganSrc('v3Release'), qinganSrc('monthly')];
+const zh = lang === 'zh-TW';
+---
+
+<Layout
+  lang={lang}
+  title={title}
+  description={description}
+  noindex={!isTopicTranslated(getTopic('housing')!, lang)}
+  readerSettings={true}
+>
+  <main class="housing-page tf-surface">
+    <SubHero
+      eyebrow={H.hero.eyebrow}
+      title={H.hero.title}
+      lede={fill(H.hero.lede, vars)}
+      stats={[
+        {
+          v: vars.r0,
+          unit: '%',
+          l: fill(H.hero.s1l, vars),
+          s: fill(H.hero.s1s, vars),
+          cls: 'is-lead',
+        },
+        {
+          v: vars.allH,
+          unit: H.hero.unitHu,
+          l: H.hero.s2l,
+          s: fill(H.hero.s2s, {
+            amount: fmtYi(sc.allCumulative.amountYi, lang),
+            asOf: vars.asOf,
+          }),
+          long: true,
+        },
+        {
+          v: grp(sc.v3Cumulative.households),
+          unit: H.hero.unitHu,
+          l: H.hero.s3l,
+          s: fill(H.hero.s3s, {
+            amount: fmtYi(sc.v3Cumulative.amountYi, lang),
+            v3from: vars.v3from,
+            asOf: vars.asOf,
+          }),
+          cls: 'is-warm',
+          long: true,
+        },
+      ]}
+      cue={H.hero.cue}
+    >
+      {
+        rel.map((s, i) => (
+          <>
+            {i > 0 && (zh ? '；' : '; ')}
+            <a
+              href={s.url}
+              target="_blank"
+              rel="noopener"
+              class="no-external-icon"
+            >
+              {agencyName(s.agency, lang)}
+            </a>
+            {zh ? '，' : ', '}
+            {T.ui.asOf} {d(i === 0 ? q.asOf : sc.asOf)}
+          </>
+        ))
+      }
+    </SubHero>
+    <TopicNav lang={lang} topic="housing" />
+    <SubNav label={T.ui.navLabel} items={nav} />
+    <QinganNaming lang={lang} />
+    <QinganGens lang={lang} />
+    <QinganRate lang={lang} />
+    <QinganClauses lang={lang} />
+    <QinganTimeline lang={lang} />
+    <QinganLimits lang={lang} />
+    <QinganScale lang={lang} />
+    <QinganVoices lang={lang} />
+    <QinganAfter lang={lang} />
+    <QinganOpen lang={lang} />
+    <SubFoot lang={lang} id="links" h2={H.foot.h2} links={links} cards={[]} />
+    <TopicCrossLinks lang={lang} currentId="housing" />
+  </main>
+</Layout>

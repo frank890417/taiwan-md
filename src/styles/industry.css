@@ -1,0 +1,904 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * industry.css — /industry、/industry/supply-chain-map 專題頁專屬樣式（ip-*）
+ *
+ * 版面、字體、圖表、色彩 token 全部沿用 src/styles/budget.css（頁面 <main> 同時掛
+ * .budget-page 與 .industry-page）。這裡只放 budget.css 沒有的版型：
+ * 縣市磚圖、供應鏈流程、四軌時間軸、立場並列卡、工具卡、聲明條。
+ * 顏色一律取 budget.css 的 --bg-* token，深淺色自動跟著切。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.industry-page {
+  --ip-accent: var(--bg-cat-0);
+  --ip-warm: var(--bg-cat-1);
+  --ip-card: var(--bg-panel);
+  --ip-border: var(--color-border);
+}
+
+/* ── 工具自足的色彩 token ─────────────────────────────────────────────
+ * 工具元件（.ind-tool）會出現在三個地方：專題頁（外層有 .budget-page 的 token）、
+ * ToolPage 單獨頁、EmbedLayout 內嵌板。後兩者沒有 budget.css，所以這裡自己帶一份
+ * 同名 token（值與 budget.css 相同）。.is-dark 給固定深色底的 /companies 用。 */
+.ind-tool {
+  --bg-ink: var(--color-ink, #1a1a2e);
+  --bg-ink-soft: var(--color-ink-soft, #475569);
+  --bg-mute: #94a3b8;
+  --bg-track: rgba(15, 23, 42, 0.07);
+  --bg-panel: rgba(15, 23, 42, 0.03);
+  --bg-hi: #1a1a2e;
+  --bg-cat-0: #2a78d6;
+  --bg-cat-1: #eb6834;
+  --bg-cat-2: #1baf7a;
+  --bg-cat-3: #eda100;
+  --bg-cat-6: #4a3aa7;
+  --ind-bg: var(--color-bg, #fff);
+  --ind-accent: var(--bg-cat-0);
+  --ind-card: var(--bg-panel);
+  --ind-border: var(--color-border, rgba(15, 23, 42, 0.14));
+  color: var(--bg-ink);
+}
+[data-theme='dark'] .ind-tool,
+.ind-tool.is-dark {
+  --bg-ink: #f1f5f9;
+  --bg-ink-soft: #cbd5e1;
+  --bg-mute: #64748b;
+  --bg-track: rgba(241, 245, 249, 0.1);
+  --bg-panel: rgba(241, 245, 249, 0.04);
+  --bg-hi: #f1f5f9;
+  --bg-cat-0: #3987e5;
+  --bg-cat-1: #d95926;
+  --bg-cat-2: #199e70;
+  --bg-cat-3: #c98500;
+  --bg-cat-6: #9085e9;
+  --ind-bg: #0b1220;
+  --ind-border: rgba(241, 245, 249, 0.18);
+}
+.ind-src {
+  margin-left: 0.3rem;
+  font-size: 0.85em;
+  color: var(--ind-accent);
+  text-decoration: none;
+}
+.ind-tl-tag {
+  display: inline-block;
+  margin-right: 0.4rem;
+  border: 1px solid var(--ind-border);
+  border-radius: 999px;
+  padding: 0 0.45rem;
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--bg-ink-soft);
+  vertical-align: 0.1em;
+}
+.ind-tl-count {
+  margin: -0.5rem 0 0.25rem;
+  min-height: 1.2em;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 聲明條 ───────────────────────────────────────────────────────── */
+.ind-disclaimer {
+  margin: 1.25rem auto 0;
+  max-width: 760px;
+  border: 1px solid var(--ip-border);
+  border-left: 4px solid var(--bg-cat-3);
+  border-radius: 10px;
+  background: var(--ip-card);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.86rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.ind-disclaimer b {
+  color: var(--bg-ink);
+}
+
+/* ── 語言提示（該語言還沒有譯文時） ─────────────────────────────── */
+.ind-langnote {
+  margin: 0.75rem auto 0;
+  max-width: 760px;
+  font-size: 0.8rem;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 四軌時間軸 ───────────────────────────────────────────────────── */
+.ind-tl-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.25rem;
+}
+.ind-tl-filter button {
+  min-height: 2.5rem;
+  border: 1px solid var(--ip-border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--bg-ink);
+  padding: 0.35rem 0.9rem;
+  font: inherit;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+.ind-tl-filter button[aria-pressed='true'] {
+  border-color: var(--bg-hi);
+  background: var(--bg-hi);
+  color: var(--ind-bg, var(--color-bg));
+}
+.ind-tl-dot {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  margin-right: 0.35rem;
+  vertical-align: baseline;
+}
+.ind-track-policy {
+  background: var(--bg-cat-0);
+}
+.ind-track-company {
+  background: var(--bg-cat-1);
+}
+.ind-track-market {
+  background: var(--bg-cat-2);
+}
+.ind-track-world {
+  background: var(--bg-cat-6);
+}
+.ind-era {
+  margin: 1.75rem 0 0.5rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--bg-ink);
+}
+.ind-era small {
+  margin-left: 0.5rem;
+  font-family: var(--bp-font-body);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--bg-ink-soft);
+}
+.ind-tl {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px solid var(--ip-border);
+}
+.ind-tl-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 6.2rem 1fr;
+  gap: 0.25rem 1rem;
+  padding: 0.55rem 0 0.55rem 1.1rem;
+}
+.ind-tl-item[hidden] {
+  display: none;
+}
+.ind-tl-item::before {
+  content: '';
+  position: absolute;
+  left: -0.42rem;
+  top: 1rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  border: 2px solid var(--ind-bg, var(--color-bg));
+  background: var(--ip-dot, var(--bg-mute));
+}
+.ind-tl-item.is-policy {
+  --ip-dot: var(--bg-cat-0);
+}
+.ind-tl-item.is-company {
+  --ip-dot: var(--bg-cat-1);
+}
+.ind-tl-item.is-market {
+  --ip-dot: var(--bg-cat-2);
+}
+.ind-tl-item.is-world {
+  --ip-dot: var(--bg-cat-6);
+}
+.ind-tl-date {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.86rem;
+  color: var(--bg-ink-soft);
+  padding-top: 0.1rem;
+}
+.ind-tl-title {
+  font-weight: 700;
+  color: var(--bg-ink);
+  line-height: 1.5;
+}
+.ind-tl-fact {
+  margin: 0.15rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: var(--bg-ink-soft);
+}
+.ind-tl-more {
+  font-size: 0.84rem;
+  margin-left: 0.35rem;
+}
+@media (max-width: 720px) {
+  .ind-tl-item {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── 制度工具卡／工具卡／三欄 ─────────────────────────────────────── */
+.ind-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+.ind-card {
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 1rem 1.1rem;
+}
+.ind-card h4 {
+  margin: 0 0 0.4rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.02rem;
+  color: var(--bg-ink);
+}
+.ind-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.ind-card p + p {
+  margin-top: 0.5rem;
+}
+.ind-card ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.ind-card li + li {
+  margin-top: 0.35rem;
+}
+.ind-card.is-a {
+  border-top: 3px solid var(--bg-cat-2);
+}
+.ind-card.is-b {
+  border-top: 3px solid var(--bg-cat-1);
+}
+.ind-card.is-c {
+  border-top: 3px solid var(--bg-cat-6);
+}
+a.ind-card {
+  display: block;
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+a.ind-card:hover {
+  border-color: var(--ip-accent);
+}
+.ind-card-k {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+  color: var(--bg-ink-soft);
+}
+.ind-card-cta {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--ip-accent);
+}
+
+/* ── 立場並列 ─────────────────────────────────────────────────────── */
+.ind-debate {
+  margin: 2rem 0 0;
+  padding-top: 1.5rem;
+  border-top: 1px dashed var(--ip-border);
+}
+.ind-debate:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+.ind-debate-q {
+  margin: 0 0 0.35rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--bg-ink);
+}
+.ind-debate-ctx {
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.ind-voices {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+  gap: 0.9rem;
+}
+.ind-voice {
+  margin: 0;
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 0.9rem 1rem;
+}
+.ind-voice.is-concern {
+  border-left: 4px solid var(--bg-cat-1);
+}
+.ind-voice.is-response {
+  border-left: 4px solid var(--bg-cat-0);
+}
+.ind-voice.is-other {
+  border-left: 4px solid var(--bg-cat-6);
+}
+.ind-voice blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-style: normal;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--bg-ink);
+}
+.ind-voice-tr {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.ind-voice figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+}
+.ind-voice figcaption b {
+  color: var(--bg-ink);
+}
+.ind-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.ind-facts li {
+  flex: 1 1 200px;
+  border-radius: 10px;
+  background: var(--bg-track);
+  padding: 0.6rem 0.8rem;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+}
+.ind-facts b {
+  display: block;
+  font-family: var(--bp-font-head);
+  font-size: 1.15rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink);
+}
+
+/* ── 縣市磚圖 ─────────────────────────────────────────────────────── */
+.ind-tiles {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  max-width: 560px;
+  margin: 0.75rem auto 0.5rem;
+}
+.ind-tile {
+  aspect-ratio: 1 / 0.82;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1rem;
+  border-radius: 8px;
+  padding: 0.2rem;
+  text-align: center;
+  line-height: 1.25;
+  color: var(--bg-ink);
+  background: var(--bg-track);
+}
+.ind-tile.is-gap {
+  background: transparent;
+}
+.ind-tile.is-empty .ind-tile-v {
+  color: var(--bg-mute);
+}
+.ind-tile-n {
+  font-size: clamp(0.62rem, 1.9vw, 0.82rem);
+  font-weight: 600;
+}
+.ind-tile-v {
+  font-size: clamp(0.6rem, 1.8vw, 0.8rem);
+  font-variant-numeric: tabular-nums;
+}
+.ind-tile.is-s1 {
+  background: color-mix(
+    in srgb,
+    var(--bg-cat-0) 14%,
+    var(--ind-bg, var(--color-bg))
+  );
+}
+.ind-tile.is-s2 {
+  background: color-mix(
+    in srgb,
+    var(--bg-cat-0) 30%,
+    var(--ind-bg, var(--color-bg))
+  );
+}
+.ind-tile.is-s3 {
+  background: color-mix(
+    in srgb,
+    var(--bg-cat-0) 48%,
+    var(--ind-bg, var(--color-bg))
+  );
+}
+.ind-tile.is-s4 {
+  background: color-mix(
+    in srgb,
+    var(--bg-cat-0) 70%,
+    var(--ind-bg, var(--color-bg))
+  );
+  color: #fff;
+}
+.ind-tile.is-s5 {
+  background: var(--bg-cat-0);
+  color: #fff;
+}
+.ind-tiles-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  margin: 0 0 0.5rem;
+  font-size: 0.76rem;
+  color: var(--bg-ink-soft);
+}
+.ind-tiles-legend i {
+  display: inline-block;
+  width: 1.4rem;
+  height: 0.7rem;
+  border-radius: 3px;
+}
+
+/* ── 供應鏈流程 ───────────────────────────────────────────────────── */
+.ind-chain {
+  margin: 2.5rem 0 0;
+}
+.ind-chain-lede {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--bg-ink-soft);
+  max-width: 46rem;
+}
+.ind-chain-flow {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0.75rem;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(232px, 1fr);
+  gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+}
+.ind-stage {
+  position: relative;
+  scroll-snap-align: start;
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 0.9rem 0.95rem;
+}
+.ind-stage + .ind-stage::before {
+  content: '→';
+  position: absolute;
+  left: -1.2rem;
+  top: 1rem;
+  font-size: 1rem;
+  color: var(--bg-mute);
+}
+.ind-stage-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.ind-stage-n {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--bg-hi);
+  color: var(--ind-bg, var(--color-bg));
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+.ind-stage-name {
+  margin: 0;
+  font-family: var(--bp-font-head);
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--bg-ink);
+}
+.ind-stage-what {
+  margin: 0.45rem 0 0.6rem;
+  font-size: 0.84rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.ind-stage-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ind-node {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  border-top: 1px solid var(--ip-border);
+  padding: 0.5rem 0.3rem;
+  border-radius: 6px;
+}
+.ind-node.is-hit {
+  background: color-mix(in srgb, var(--bg-cat-3) 28%, transparent);
+  outline: 2px solid var(--bg-cat-3);
+}
+.ind-node-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+.ind-node-name {
+  font-weight: 700;
+  color: var(--bg-ink);
+}
+a.ind-node-name {
+  color: var(--ip-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.ind-node-ticker {
+  font-size: 0.74rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink-soft);
+}
+.ind-node-role {
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--bg-ink-soft);
+}
+.ind-stage-gap {
+  margin: 0.6rem 0 0;
+  border: 1px dashed var(--bg-mute);
+  border-radius: 8px;
+  padding: 0.5rem 0.6rem;
+  font-size: 0.8rem;
+  line-height: 1.65;
+  color: var(--bg-ink-soft);
+}
+.ind-stage-gap b {
+  display: block;
+  color: var(--bg-ink);
+}
+@media (max-width: 720px) {
+  .ind-chain-flow {
+    grid-auto-flow: row;
+    grid-auto-columns: auto;
+    overflow-x: visible;
+    gap: 1.6rem;
+  }
+  .ind-stage + .ind-stage::before {
+    content: '↓';
+    left: 50%;
+    top: -1.45rem;
+    transform: translateX(-50%);
+  }
+}
+
+/* ── 供應鏈搜尋 ───────────────────────────────────────────────────── */
+.ind-find {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  margin: 1.25rem 0 0;
+}
+.ind-find label {
+  font-weight: 600;
+  color: var(--bg-ink);
+}
+.ind-find input {
+  flex: 1 1 220px;
+  max-width: 340px;
+  min-height: 2.75rem;
+  border: 1px solid var(--ip-border);
+  border-radius: 10px;
+  background: var(--ind-bg, var(--color-bg));
+  color: var(--bg-ink);
+  padding: 0.5rem 0.8rem;
+  font: inherit;
+}
+.ind-find-out {
+  flex: 1 1 100%;
+  margin: 0;
+  min-height: 1.4em;
+  font-size: 0.86rem;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 鏈目錄 ───────────────────────────────────────────────────────── */
+.ind-chain-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 0;
+}
+
+/* ── 文章分群 ─────────────────────────────────────────────────────── */
+.ind-group {
+  margin: 1.1rem 0 0;
+}
+.ind-group h4 {
+  margin: 0 0 0.45rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 集中度橫條的說明 ─────────────────────────────────────────────── */
+.ind-conc .bp-stackseg-v {
+  font-size: 0.82rem;
+}
+.ind-nodata {
+  border: 1px dashed var(--bg-mute);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  font-size: 0.88rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+
+.ind-voice-kind {
+  display: inline-block;
+  margin-left: 0.25rem;
+  font-size: 0.76rem;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 排行表工具 ───────────────────────────────────────────────────── */
+.ind-rank-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+}
+.ind-rank-controls[hidden],
+.ind-rank-more[hidden] {
+  display: none;
+}
+.ind-rank-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.78rem;
+  color: var(--bg-ink-soft);
+}
+.ind-rank-controls select,
+.ind-rank-reset,
+.ind-rank-more {
+  min-height: 2.75rem;
+  border: 1px solid var(--ind-border);
+  border-radius: 8px;
+  background: var(--ind-bg);
+  color: var(--bg-ink);
+  padding: 0.4rem 0.75rem;
+  font: inherit;
+  font-size: 0.9rem;
+}
+.ind-rank-reset,
+.ind-rank-more {
+  cursor: pointer;
+}
+.ind-rank-more {
+  margin-top: 0.75rem;
+}
+.ind-rank-summary {
+  margin: 0 0 0.75rem;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink-soft);
+}
+.ind-rank-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--ind-border);
+  border-radius: 12px;
+}
+.ind-rank-table {
+  width: 100%;
+  min-width: 860px;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+.ind-rank-table th {
+  white-space: nowrap;
+  border-bottom: 2px solid var(--ind-border);
+  background: var(--bg-panel);
+  padding: 0.7rem 0.85rem;
+  text-align: left;
+  font-weight: 600;
+  color: var(--bg-ink-soft);
+}
+.ind-rank-table td {
+  border-bottom: 1px solid var(--bg-track);
+  padding: 0.6rem 0.85rem;
+  color: var(--bg-ink);
+}
+.ind-rank-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.ind-rank-table tr[hidden] {
+  display: none;
+}
+.ind-rank-table.is-sortable th[data-sort] {
+  cursor: pointer;
+  user-select: none;
+}
+.ind-rank-table.is-sortable th[data-sort]::after {
+  content: ' ↕';
+  opacity: 0.35;
+  font-size: 0.75em;
+}
+.ind-rank-table.is-sortable th[aria-sort='ascending']::after {
+  content: ' ▲';
+  opacity: 1;
+  color: var(--ind-accent);
+}
+.ind-rank-table.is-sortable th[aria-sort='descending']::after {
+  content: ' ▼';
+  opacity: 1;
+  color: var(--ind-accent);
+}
+.ind-rank-link {
+  color: var(--ind-accent);
+  font-weight: 600;
+}
+.ind-rank-ticker {
+  margin-left: 0.4rem;
+  font-size: 0.75rem;
+  color: var(--bg-ink-soft);
+}
+.ind-rank-tag {
+  display: inline-block;
+  border: 1px solid color-mix(in srgb, var(--tag) 45%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--tag) 14%, transparent);
+  padding: 0.1rem 0.5rem;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  color: color-mix(in srgb, var(--tag) 70%, var(--bg-ink));
+}
+.ind-rank-table td.hq,
+.ind-rank-table td.chg {
+  white-space: nowrap;
+  color: var(--bg-ink-soft);
+}
+.ind-rank-table td.chg.is-up {
+  color: var(--bg-cat-2);
+}
+.ind-rank-table td.chg.is-down {
+  color: var(--bg-cat-1);
+}
+.ind-rank-table td.chg.is-new {
+  color: var(--bg-cat-6);
+  font-size: 0.78rem;
+}
+.ind-rank-note {
+  margin: 0.6rem 0 0;
+  font-size: 0.78rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+
+.ind-chain-h {
+  margin: 0 0 0.4rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--bg-ink);
+}
+.ind-stage-none {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--bg-mute);
+}
+.ind-tl-filter button small {
+  margin-left: 0.35rem;
+  font-size: 0.72rem;
+  opacity: 0.75;
+}
+.ind-find label {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.9rem;
+}
+.ind-tool [hidden] {
+  display: none !important;
+}
+.ind-tool .bg-table {
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+}
+.ind-tool .bg-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ind-tool .bg-table th,
+.ind-tool .bg-table td {
+  border-top: 1px solid var(--ind-border);
+  padding: 0.35rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+.ind-tool .bg-table-wrap {
+  overflow-x: auto;
+}
+
+/* ── 審查修正（2026-11-10）：供應鏈桌機改成會換行的網格，角色說明收成兩行 ── */
+.ind-chain-flow {
+  grid-auto-flow: row;
+  grid-auto-columns: auto;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 232px), 1fr));
+  overflow-x: visible;
+  gap: 1rem;
+}
+.ind-stage + .ind-stage::before {
+  content: none;
+}
+.ind-node-role {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.ind-hero-src {
+  margin: 0.75rem auto 0;
+  max-width: 760px;
+  font-size: 0.76rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.ind-hero-src a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* 專題頁內嵌的供應鏈地圖只列公司名，各家做什麼在單獨頁與資料表（主頁手機版太長） */
+.ind-chain-tool[data-variant='inline'] .ind-node-role,
+.ind-chain-tool[data-variant='inline'] .ind-stage-gap {
+  display: none;
+}
+.ind-chain-tool[data-variant='inline'] .ind-node {
+  padding: 0.3rem 0.3rem;
+}

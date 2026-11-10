@@ -1,0 +1,320 @@
+---
+/**
+ * S7Qingan — 第 7 節：青安 3.0。
+ * 圖 A：StepRate，qingan.json 的 rate.subsidySteps（補貼後利率與補貼）。
+ * 圖 B：TrendLine（階梯線），本站用 mortgage.ts 試算「1,000 萬、40 年、寬限 5 年」每年第一期月付，
+ *       利率依階梯；官方沒有公布月付金試算表，所以標「本站計算」。
+ * 其餘：三代名稱、現行條件（讀 qingan.json 的 current）、貸出規模。
+ */
+import StepRate from '../charts/StepRate.astro';
+import TrendLine from '../charts/TrendLine.astro';
+import SrcLine from './SrcLine.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { computeMortgage } from '../../../utils/housing/mortgage';
+import { qinganRateStages } from '../../../utils/housing/qingan';
+import {
+  DATA,
+  countyName,
+  fmtPeriod,
+  fmtWanYuan,
+  fmtYi,
+  fmtYuan,
+  grp,
+  qinganSrc,
+  trimNum,
+} from '../../../utils/housing/data';
+import { localizePath } from '../../../utils/topics/registry';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s7;
+const zh = lang === 'zh-TW';
+const q: any = DATA.qingan;
+const cur = q.current;
+const steps = q.rate.subsidySteps as {
+  years: number | null;
+  subsidyPct: number;
+  netRatePct: number;
+}[];
+const base = q.rate.baseRatePct as number;
+const naming = q.naming as any[];
+const nm = (id: string) => naming.find((n) => n.id === id);
+const date = (d: string) => fmtPeriod(d, lang);
+
+// ── 階梯 ────────────────────────────────────────────────
+let acc = 0;
+const stepVars = (s: (typeof steps)[number], from: number) => ({
+  x:
+    s.years === null
+      ? `${from}+`
+      : s.years === 1
+        ? `${from}`
+        : `${from}–${from + s.years - 1}`,
+  r: trimNum(s.netRatePct, 3),
+  s: trimNum(s.subsidyPct, 3),
+});
+const stepItems = steps.map((s) => {
+  const from = acc + 1;
+  acc += s.years ?? 0;
+  const v = stepVars(s, from);
+  return {
+    years: s.years,
+    netRatePct: s.netRatePct,
+    subsidyPct: s.subsidyPct,
+    xLabel: v.x,
+    tip: fill(S.stepTip, v),
+  };
+});
+const finiteYears = steps.reduce((a, s) => a + (s.years ?? 0), 0);
+const stepDiff = +(steps[0].subsidyPct - steps[1].subsidyPct).toFixed(4);
+const baseSrc = qinganSrc(q.rate.source);
+
+// ── 月付試算（本站計算） ─────────────────────────────────
+const principal = cur.limits.general as number;
+const years = cur.maxYears as number;
+const graceMonths = cur.maxGraceMonths as number;
+const res = computeMortgage({
+  principal,
+  years,
+  graceMonths,
+  method: 'annuity',
+  stages: qinganRateStages(q),
+});
+const payOfYear = (y: number) =>
+  res.schedule.find((r) => r.month === (y - 1) * 12 + 1)?.payment ?? 0;
+const payPts = Array.from({ length: years }, (_, i) => ({
+  x: i + 1,
+  v: Math.round(payOfYear(i + 1)),
+}));
+const gy = graceMonths / 12 + 1;
+const p1 = Math.round(payOfYear(1));
+const p2 = Math.round(payOfYear(gy));
+const p3 = Math.round(payOfYear(gy + 1));
+const wan = (v: number) =>
+  zh ? `${trimNum(v / 1e4, 1)}萬` : `${trimNum(v / 1e3, 0)}k`;
+
+// ── 現行條件 ────────────────────────────────────────────
+const caps = cur.priceCaps as Record<string, number>;
+const capGroups: Record<number, string[]> = {};
+for (const [k, v] of Object.entries(caps)) {
+  if (k === 'default') continue;
+  (capGroups[v] ??= []).push(countyName(k, lang));
+}
+const tiers = [
+  ...Object.entries(capGroups)
+    .sort((a, b) => +b[0] - +a[0])
+    .map(([v, names]) =>
+      fill(S.cond.capTier, {
+        names: names.join(S.cond.nameSep),
+        v: fmtWanYuan(+v, lang),
+      }),
+    ),
+  fill(S.cond.capTier, {
+    names: S.cond.otherName,
+    v: fmtWanYuan(caps.default, lang),
+  }),
+];
+const ltvStr = zh
+  ? String(Math.round(cur.maxLtv * 10))
+  : `${Math.round(cur.maxLtv * 100)}%`;
+const conds = [
+  {
+    k: S.cond.limit,
+    v: fill(S.cond.limitV, {
+      g: fmtWanYuan(cur.limits.general, lang),
+      n: fmtWanYuan(cur.limits.newlywed, lang),
+      c: fmtWanYuan(cur.limits.withMinorChild, lang),
+    }),
+  },
+  {
+    k: S.cond.term,
+    v: fill(S.cond.termV, { y: cur.maxYears, gr: cur.maxGraceMonths / 12 }),
+  },
+  { k: S.cond.ltv, v: fill(S.cond.ltvV, { n: ltvStr }) },
+  {
+    k: S.cond.age,
+    v: fill(S.cond.ageV, { a: cur.maxAgeAtApplication, s: cur.agePlusTermMax }),
+  },
+  {
+    k: S.cond.income,
+    v: fill(S.cond.incomeV, {
+      i: fmtWanYuan(cur.maxBorrowerAnnualIncome, lang),
+    }),
+  },
+  { k: S.cond.cap, v: fill(S.cond.capV, { tiers: tiers.join(S.cond.sep) }) },
+  { k: S.cond.once, v: fill(S.cond.onceV, { since: date(cur.onceOnlySince) }) },
+];
+
+// ── 規模 ────────────────────────────────────────────────
+const sc = q.scale;
+const scaleSrc = qinganSrc(sc.source, sc.asOf);
+
+const vars = {
+  nBanks: cur.banks.length,
+  v2name: S.names.v2,
+  v2nick: S.nicks.v2,
+  v2to: date(nm('v2').to),
+  v3name: S.names.v3,
+  v3from: date(nm('v3').from),
+  v3to: date(nm('v3').to),
+  y: nm('v3').from.slice(0, 4),
+  r0: trimNum(steps[0].netRatePct, 3),
+  r4: trimNum(steps[steps.length - 1].netRatePct, 3),
+  n0: steps[0].years ?? 0,
+  s0: trimNum(steps[0].subsidyPct, 3),
+  step: trimNum(stepDiff, 3),
+  yr: finiteYears + 1,
+  base: trimNum(base, 3),
+  amount: fmtWanYuan(principal, lang),
+  years,
+  grace: graceMonths / 12,
+  p1: fmtYuan(p1, lang),
+  p2: fmtYuan(p2, lang),
+  p3: fmtYuan(p3, lang),
+  gy,
+  y3: gy + 1,
+  delta: fmtYuan(p2 - p1, lang),
+};
+const qaHref = localizePath('/housing/qingan/', lang);
+const toolsHref = localizePath('/housing/tools/', lang);
+---
+
+<section class="hs-section" id="qingan">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{fill(S.intro, vars)}</p>
+    <ol class="hs-names">
+      {
+        ['v1', 'v2', 'v3'].map((id) => (
+          <li class={`hs-name ${id === 'v3' ? 'is-now' : ''}`}>
+            <span class="hs-name-t">{(S.names as any)[id]}</span>
+            {(S.nicks as any)[id] && (
+              <span class="hs-name-n">{(S.nicks as any)[id]}</span>
+            )}
+            <span class="hs-name-d">
+              {date(nm(id).from)} – {date(nm(id).to)}
+            </span>
+            {id === 'v3' && <span class="hs-badge is-now">{S.nameNow}</span>}
+          </li>
+        ))
+      }
+    </ol>
+    <StepRate
+      title={fill(S.stepTitle, vars)}
+      subtitle={S.stepSub}
+      lang={lang}
+      steps={stepItems}
+      baseRatePct={base}
+      baseLabel={fill(S.stepBase, vars)}
+      axisTitle={S.stepAxis}
+      subsidyLabel={S.stepSubsidy}
+      sources={[baseSrc]}
+      tableHeaders={S.stepHdr}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.stepP, vars)}</p>
+    </div>
+    <TrendLine
+      title={fill(S.payTitle, vars)}
+      subtitle={S.paySub}
+      lang={lang}
+      lines={[
+        {
+          id: 'pay',
+          label: S.payLine,
+          points: payPts,
+          cls: 'c1',
+          step: true,
+          area: true,
+          strong: true,
+        },
+      ]}
+      sources={[{ ...baseSrc, derived: true }]}
+      unit=""
+      digits={0}
+      yMin={0}
+      xMin={1}
+      xMax={years}
+      xTickStep={5}
+      yFormat={wan}
+      annots={[
+        { x: 1, lineId: 'pay', text: grp(p1), dir: 'up' },
+        { x: gy, lineId: 'pay', text: grp(p2), dir: 'up' },
+      ]}
+      tableRows={payPts
+        .filter((_p, i) => i < 8 || (i + 1) % 5 === 0)
+        .map((p) => ({ x: p.x, label: String(p.x) }))}
+      tableXHeader={S.payTableX}
+      xFormat={(x) => String(Math.round(x))}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.payP, vars)}</p>
+    </div>
+    <h3 class="hs-h3">{S.condTitle}</h3>
+    <dl class="hs-conds">
+      {
+        conds.map((c) => (
+          <div class="hs-cond">
+            <dt>{c.k}</dt>
+            <dd>{c.v}</dd>
+          </div>
+        ))
+      }
+    </dl>
+    <SrcLine lang={lang} sources={[qinganSrc('principles')]} />
+    <h3 class="hs-h3">{S.scaleTitle}</h3>
+    <div class="hs-statrow is-three">
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {fill(S.scaleAllV, { h: grp(sc.allCumulative.households) })}
+        </div>
+        <div class="hs-mini-l">{S.scaleAll}</div>
+        <div class="hs-mini-s">
+          {
+            fill(S.scaleAllN, {
+              amount: fmtYi(sc.allCumulative.amountYi, lang),
+              asOf: date(sc.asOf),
+            })
+          }
+        </div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {fill(S.scale3V, { h: grp(sc.v3Cumulative.households) })}
+        </div>
+        <div class="hs-mini-l">{S.scale3}</div>
+        <div class="hs-mini-s">
+          {
+            fill(S.scale3N, {
+              amount: fmtYi(sc.v3Cumulative.amountYi, lang),
+              asOf: date(sc.asOf),
+            })
+          }
+        </div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {fill(S.scale2V, { h: grp(sc.v2Approx.households) })}
+        </div>
+        <div class="hs-mini-l">{S.scale2}</div>
+        <div class="hs-mini-s">
+          {fill(S.scale2N, { amount: fmtYi(sc.v2Approx.amountYi, lang) })}
+        </div>
+      </div>
+    </div>
+    <SrcLine lang={lang} sources={[scaleSrc]} />
+    <p class="hs-fine hs-nodata">{S.open}</p>
+    <p class="hs-cta-row">
+      <a class="hs-btn" href={qaHref}>{S.ctaFull} →</a>
+      <a class="hs-btn is-ghost" href={`${toolsHref}#qingan-eligibility`}
+        >{S.ctaElig} →</a
+      >
+      <a class="hs-btn is-ghost" href="#tool">{S.ctaCalc} ↑</a>
+    </p>
+  </div>
+</section>

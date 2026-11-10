@@ -1,0 +1,183 @@
+---
+/**
+ * S13Sources — 第 13 節：資料來源表與截止日、目前沒有官方資料的項目、免責聲明。
+ * 來源列由資料檔的 source 欄組出，不手打網址。
+ */
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import {
+  DATA,
+  agencyShort,
+  fmtPeriod,
+  getSeries,
+  mergeSrc,
+  getTable,
+  qinganSrc,
+  srcOf,
+  srcOfTable,
+  type SourceRef,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s13;
+const zh = lang === 'zh-TW';
+const q: any = DATA.qingan;
+const ser = (f: any, id: string) => srcOf(getSeries(f, id));
+const tbl = (f: any, id: string, asOf?: string) =>
+  srcOfTable(getTable(f, id), asOf);
+const rows: { label: string; sources: SourceRef[] }[] = [
+  {
+    label: S.rows.affordability,
+    sources: [ser('affordability', 'price-to-income-national')],
+  },
+  {
+    label: S.rows.affordabilityCounty,
+    sources: [tbl('affordability', 'affordability-by-county-2026Q1')],
+  },
+  { label: S.rows.priceIndex, sources: [ser('price-index', 'hpi-national')] },
+  {
+    label: S.rows.rates,
+    sources: [
+      ser('rates', 'five-bank-mortgage-rate'),
+      ser('rates', 'cbc-rediscount-rate'),
+    ],
+  },
+  {
+    label: S.rows.creditControls,
+    sources: [
+      tbl('credit-controls', 'selective-credit-controls-timeline', '2026-09'),
+      tbl('lending', 'restricted-loan-average-ltv', '2026-02'),
+    ],
+  },
+  {
+    label: S.rows.lending,
+    sources: [
+      ser('lending', 'home-purchase-loan-balance'),
+      ser('lending', 'real-estate-credit-concentration'),
+    ],
+  },
+  {
+    label: S.rows.transactions,
+    sources: [ser('transactions', 'building-transfers-annual-moi')],
+  },
+  {
+    label: S.rows.vacancy,
+    sources: [
+      tbl('vacancy', 'low-use-by-county-2025H2'),
+      ser('vacancy', 'unsold-new-homes-national'),
+    ],
+  },
+  {
+    label: S.rows.socialHousing,
+    sources: [
+      tbl('social-housing', 'social-housing-progress'),
+      ser('social-housing', 'rent-subsidy-households'),
+    ],
+  },
+  {
+    label: S.rows.income,
+    sources: [ser('income', 'disposable-income-median-household')],
+  },
+  {
+    label: S.rows.stock,
+    sources: [ser('stock', 'housing-stock'), ser('stock', 'births-annual')],
+  },
+  {
+    label: S.rows.homeownership,
+    sources: [tbl('stock', 'homeownership-by-income-quintile-2025')],
+  },
+  {
+    label: S.rows.tax,
+    sources: [
+      ser('tax', 'land-and-house-combined-tax-annual'),
+      ser('tax', 'land-value-tax-annual'),
+      ser('tax', 'house-tax-annual'),
+    ],
+  },
+  {
+    label: S.rows.qingan,
+    sources: [
+      qinganSrc('principles'),
+      qinganSrc('v3Release'),
+      qinganSrc('v3Policy'),
+    ],
+  },
+  {
+    label: S.rows.qinganScale,
+    sources: [qinganSrc(q.scale.source, q.scale.asOf)],
+  },
+];
+const checked = fmtPeriod((DATA.timeline as any).retrieved, lang);
+---
+
+<section class="hs-section" id="sources">
+  <div class="hs-wrap">
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-table-wrap hs-srctable">
+      <table>
+        <thead>
+          <tr>
+            <th>{S.cols.data}</th>
+            <th>{S.cols.agency}</th>
+            <th>{S.cols.asOf}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <th scope="row">{r.label}</th>
+                <td>
+                  {mergeSrc(r.sources).map((s, i) => (
+                    <span class="hs-srcitem">
+                      {i > 0 && (zh ? '、' : ', ')}
+                      <a
+                        href={s.url}
+                        target="_blank"
+                        rel="noopener"
+                        class="no-external-icon"
+                        title={s.title}
+                      >
+                        {agencyShort(s.agency, lang)}
+                      </a>
+                      {s.derived && (
+                        <span class="hs-badge">{T.ui.derived}</span>
+                      )}
+                    </span>
+                  ))}
+                </td>
+                <td class="num">
+                  {[
+                    ...new Set(
+                      mergeSrc(r.sources)
+                        .flatMap((s) => s.asOfs)
+                        .map((a) => fmtPeriod(a, lang)),
+                    ),
+                  ].join(zh ? '、' : ', ')}
+                </td>
+              </tr>
+            ))
+          }
+          <tr>
+            <th scope="row">{S.rows.timeline}</th>
+            <td colspan="2">{S.perItem}</td>
+          </tr>
+          <tr>
+            <th scope="row">{S.rows.positions}</th>
+            <td colspan="2">{S.perItem}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <h3 class="hs-h3">{S.noDataTitle}</h3>
+    <ul class="hs-nodata-list">
+      {S.noData.map((x) => <li>{x}</li>)}
+    </ul>
+    <p class="hs-fine">{S.disclaimer} {fill(S.checked, { date: checked })}</p>
+  </div>
+</section>

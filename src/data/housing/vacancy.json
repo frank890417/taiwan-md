@@ -1,0 +1,573 @@
+{
+  "$comment": "由 scripts/tools/build-housing-data.py 從 reports/research/2026-11/housing-statistics.md 產生，勿手改",
+  "retrieved": "2026-11-10",
+  "series": [
+    {
+      "id": "census-housing-units",
+      "label": {
+        "zh": "普查住宅數",
+        "en": "Census: housing units"
+      },
+      "unit": "宅",
+      "cadence": "irregular",
+      "asOf": "2020",
+      "derived": false,
+      "source": {
+        "agency": "行政院主計總處",
+        "title": "人口及住宅普查歷次結果摘要（109 年摘要）",
+        "url": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYzL3JlbGZpbGUvMTEwNjUvODgwMTEvMmZkOTYyZjYtZjFkMi00ZjU0LTlmOWUtNGMxYTM4Y2M4ZDZmLnBkZg%3d%3d&n=MTA55bm05pGY6KaBLnBkZg%3d%3d&icon=.pdf"
+      },
+      "note": "主計總處人口及住宅普查，標準時點為各十年底（1966 為民國 55 年底）",
+      "points": [
+        { "t": "1966", "v": 2272783 },
+        { "t": "1980", "v": 3677300 },
+        { "t": "1990", "v": 5088232 },
+        { "t": "2000", "v": 6993099 },
+        { "t": "2010", "v": 8074529 },
+        { "t": "2020", "v": 8993149 }
+      ]
+    },
+    {
+      "id": "census-occupied-units",
+      "label": {
+        "zh": "普查有人經常居住住宅",
+        "en": "Census: occupied housing units"
+      },
+      "unit": "宅",
+      "cadence": "irregular",
+      "asOf": "2020",
+      "derived": false,
+      "source": {
+        "agency": "行政院主計總處",
+        "title": "人口及住宅普查歷次結果摘要（109 年摘要）",
+        "url": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYzL3JlbGZpbGUvMTEwNjUvODgwMTEvMmZkOTYyZjYtZjFkMi00ZjU0LTlmOWUtNGMxYTM4Y2M4ZDZmLnBkZg%3d%3d&n=MTA55bm05pGY6KaBLnBkZg%3d%3d&icon=.pdf"
+      },
+      "note": "主計總處人口及住宅普查，標準時點為各十年底（1966 為民國 55 年底）",
+      "points": [
+        { "t": "1966", "v": 2250568 },
+        { "t": "1980", "v": 3171876 },
+        { "t": "1990", "v": 4246751 },
+        { "t": "2000", "v": 5509974 },
+        { "t": "2010", "v": 6141013 },
+        { "t": "2020", "v": 6895887 }
+      ]
+    },
+    {
+      "id": "census-non-residential-use-units",
+      "label": {
+        "zh": "普查無人經常居住：自住以外使用",
+        "en": "Census: unoccupied, used for other purposes"
+      },
+      "unit": "宅",
+      "cadence": "irregular",
+      "asOf": "2020",
+      "derived": false,
+      "source": {
+        "agency": "行政院主計總處",
+        "title": "人口及住宅普查歷次結果摘要（109 年摘要）",
+        "url": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYzL3JlbGZpbGUvMTEwNjUvODgwMTEvMmZkOTYyZjYtZjFkMi00ZjU0LTlmOWUtNGMxYTM4Y2M4ZDZmLnBkZg%3d%3d&n=MTA55bm05pGY6KaBLnBkZg%3d%3d&icon=.pdf"
+      },
+      "note": "主計總處人口及住宅普查，標準時點為各十年底（1966 為民國 55 年底）；1966 年「自住以外使用」與空閒合併列示，不收",
+      "points": [
+        { "t": "1980", "v": 23103 },
+        { "t": "1990", "v": 162961 },
+        { "t": "2000", "v": 250997 },
+        { "t": "2010", "v": 373912 },
+        { "t": "2020", "v": 435122 }
+      ]
+    },
+    {
+      "id": "census-vacant-units",
+      "label": {
+        "zh": "普查空閒住宅",
+        "en": "Census: vacant housing units"
+      },
+      "unit": "宅",
+      "cadence": "irregular",
+      "asOf": "2020",
+      "derived": false,
+      "source": {
+        "agency": "行政院主計總處",
+        "title": "人口及住宅普查歷次結果摘要（109 年摘要）",
+        "url": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYzL3JlbGZpbGUvMTEwNjUvODgwMTEvMmZkOTYyZjYtZjFkMi00ZjU0LTlmOWUtNGMxYTM4Y2M4ZDZmLnBkZg%3d%3d&n=MTA55bm05pGY6KaBLnBkZg%3d%3d&icon=.pdf"
+      },
+      "note": "主計總處人口及住宅普查，標準時點為各十年底（1966 為民國 55 年底）；定義：無人經常居住但包括於假日或偶爾自住，以及因其他原因目前未使用；1966 年與自住以外使用合併列示，不收",
+      "points": [
+        { "t": "1980", "v": 482321 },
+        { "t": "1990", "v": 678520 },
+        { "t": "2000", "v": 1232128 },
+        { "t": "2010", "v": 1559604 },
+        { "t": "2020", "v": 1662140 }
+      ]
+    },
+    {
+      "id": "census-vacancy-rate",
+      "label": {
+        "zh": "普查空閒住宅率",
+        "en": "Census: vacant housing rate"
+      },
+      "unit": "%",
+      "cadence": "irregular",
+      "asOf": "2020",
+      "derived": false,
+      "source": {
+        "agency": "行政院主計總處",
+        "title": "人口及住宅普查歷次結果摘要（109 年摘要）",
+        "url": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYzL3JlbGZpbGUvMTEwNjUvODgwMTEvMmZkOTYyZjYtZjFkMi00ZjU0LTlmOWUtNGMxYTM4Y2M4ZDZmLnBkZg%3d%3d&n=MTA55bm05pGY6KaBLnBkZg%3d%3d&icon=.pdf"
+      },
+      "note": "主計總處人口及住宅普查，標準時點為各十年底（1966 為民國 55 年底）；1966 年空閒與自住以外使用合併列示，研究檔表列 1.0，口徑不同，不收",
+      "bounds": [0, 100],
+      "points": [
+        { "t": "1980", "v": 13.1 },
+        { "t": "1990", "v": 13.3 },
+        { "t": "2000", "v": 17.6 },
+        { "t": "2010", "v": 19.3 },
+        { "t": "2020", "v": 18.5 }
+      ]
+    },
+    {
+      "id": "low-use-ratio-annual",
+      "label": {
+        "zh": "低度使用（用電）住宅比率（年）",
+        "en": "Low-use (electricity) housing ratio (annual)"
+      },
+      "unit": "%",
+      "cadence": "annual",
+      "asOf": "2019",
+      "derived": false,
+      "source": {
+        "agency": "內政部（國土管理署／統計處）",
+        "title": "114 年下半年低度使用(用電)住宅及 114 年第 3、4 季待售新成屋統計資訊簡冊（115 年 7 月出刊）",
+        "url": "https://pip.moi.gov.tw/Upload/Surplus/POST/20260720960123.pdf"
+      },
+      "note": "以台電用電資料判斷，兩個月平均每月用電 60 度以下；分母為房屋稅籍住宅類數量；內政部明說是「空屋的替代統計方式」，與普查空閒住宅定義不同；98–107 年以比率推估法推估，108、109 年以精進地址比對重算",
+      "bounds": [0, 100],
+      "points": [
+        { "t": "2009", "v": 10.68 },
+        { "t": "2010", "v": 10.38 },
+        { "t": "2011", "v": 9.42 },
+        { "t": "2012", "v": 9.86 },
+        { "t": "2013", "v": 9.74 },
+        { "t": "2014", "v": 9.56 },
+        { "t": "2015", "v": 9.6 },
+        { "t": "2016", "v": 9.49 },
+        { "t": "2017", "v": 9.39 },
+        { "t": "2018", "v": 9.81 },
+        { "t": "2019", "v": 9.4 }
+      ]
+    },
+    {
+      "id": "low-use-ratio-semiannual",
+      "label": {
+        "zh": "低度使用（用電）住宅比率（半年）",
+        "en": "Low-use (electricity) housing ratio (half-yearly)"
+      },
+      "unit": "%",
+      "cadence": "semiannual",
+      "asOf": "2025H2",
+      "derived": false,
+      "source": {
+        "agency": "內政部（國土管理署／統計處）",
+        "title": "114 年下半年低度使用(用電)住宅及 114 年第 3、4 季待售新成屋統計資訊簡冊（115 年 7 月出刊）",
+        "url": "https://pip.moi.gov.tw/Upload/Surplus/POST/20260720960123.pdf"
+      },
+      "note": "109 年起每半年一筆；定義與換算見年度序列說明；114 年上半年 10.43% 為統計以來次高",
+      "bounds": [0, 100],
+      "points": [
+        { "t": "2020H1", "v": 9.3 },
+        { "t": "2020H2", "v": 9.23 },
+        { "t": "2021H1", "v": 9.14 },
+        { "t": "2021H2", "v": 8.66 },
+        { "t": "2022H1", "v": 9.52 },
+        { "t": "2022H2", "v": 8.77 },
+        { "t": "2023H1", "v": 9.33 },
+        { "t": "2023H2", "v": 9.25 },
+        { "t": "2024H1", "v": 9.32 },
+        { "t": "2024H2", "v": 9.79 },
+        { "t": "2025H1", "v": 10.43 },
+        { "t": "2025H2", "v": 9.44 }
+      ]
+    },
+    {
+      "id": "unsold-new-homes-national",
+      "label": {
+        "zh": "全國待售新成屋",
+        "en": "Unsold new homes (national)"
+      },
+      "unit": "宅",
+      "cadence": "quarterly",
+      "asOf": "2025Q4",
+      "derived": false,
+      "source": {
+        "agency": "內政部（國土管理署／統計處）",
+        "title": "114 年下半年低度使用(用電)住宅及 114 年第 3、4 季待售新成屋統計資訊簡冊（115 年 7 月出刊）",
+        "url": "https://pip.moi.gov.tw/Upload/Surplus/POST/20260720960123.pdf"
+      },
+      "note": "原「新建餘屋(待售)住宅」，111 年第 3 季更名",
+      "points": [
+        { "t": "2018Q1", "v": 78715 },
+        { "t": "2018Q2", "v": 80082 },
+        { "t": "2018Q3", "v": 78347 },
+        { "t": "2018Q4", "v": 75227 },
+        { "t": "2019Q1", "v": 78687 },
+        { "t": "2019Q2", "v": 78063 },
+        { "t": "2019Q3", "v": 78077 },
+        { "t": "2019Q4", "v": 78443 },
+        { "t": "2020Q1", "v": 77374 },
+        { "t": "2020Q2", "v": 76333 },
+        { "t": "2020Q3", "v": 71825 },
+        { "t": "2020Q4", "v": 68472 },
+        { "t": "2021Q1", "v": 73679 },
+        { "t": "2021Q2", "v": 70049 },
+        { "t": "2021Q3", "v": 69877 },
+        { "t": "2021Q4", "v": 69721 },
+        { "t": "2022Q1", "v": 74927 },
+        { "t": "2022Q2", "v": 77454 },
+        { "t": "2022Q3", "v": 80109 },
+        { "t": "2022Q4", "v": 82307 },
+        { "t": "2023Q1", "v": 87957 },
+        { "t": "2023Q2", "v": 90462 },
+        { "t": "2023Q3", "v": 95701 },
+        { "t": "2023Q4", "v": 101011 },
+        { "t": "2024Q1", "v": 107667 },
+        { "t": "2024Q2", "v": 103130 },
+        { "t": "2024Q3", "v": 106507 },
+        { "t": "2024Q4", "v": 111085 },
+        { "t": "2025Q1", "v": 111695 },
+        { "t": "2025Q2", "v": 112086 },
+        { "t": "2025Q3", "v": 112451 },
+        { "t": "2025Q4", "v": 112501 }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "id": "low-use-by-county-2025H2",
+      "label": {
+        "zh": "各縣市低度使用（用電）住宅（114 年下半年）",
+        "en": "Low-use (electricity) housing by county (2025 H2)"
+      },
+      "period": "2025H2",
+      "columns": ["taxedHousingUnits", "lowUseUnits", "lowUseRatioPct"],
+      "columnLabels": {
+        "taxedHousingUnits": {
+          "zh": "房屋稅籍住宅類數量（宅）"
+        },
+        "lowUseUnits": {
+          "zh": "低度使用（用電）住宅（宅）"
+        },
+        "lowUseRatioPct": {
+          "zh": "比率（%）"
+        }
+      },
+      "columnUnits": {
+        "taxedHousingUnits": "宅",
+        "lowUseUnits": "宅",
+        "lowUseRatioPct": "%"
+      },
+      "source": {
+        "agency": "內政部（國土管理署／統計處）",
+        "title": "114 年下半年低度使用(用電)住宅及 114 年第 3、4 季待售新成屋統計資訊簡冊（115 年 7 月出刊）",
+        "url": "https://pip.moi.gov.tw/Upload/Surplus/POST/20260720960123.pdf"
+      },
+      "rows": [
+        {
+          "key": "全國",
+          "name": { "zh": "全國", "en": "Nation" },
+          "taxedHousingUnits": 9472834,
+          "lowUseUnits": 894582,
+          "lowUseRatioPct": 9.44
+        },
+        {
+          "key": "新北市",
+          "name": { "zh": "新北市", "en": "New Taipei City" },
+          "taxedHousingUnits": 1742248,
+          "lowUseUnits": 119168,
+          "lowUseRatioPct": 6.84
+        },
+        {
+          "key": "臺北市",
+          "name": { "zh": "臺北市", "en": "Taipei City" },
+          "taxedHousingUnits": 917280,
+          "lowUseUnits": 58648,
+          "lowUseRatioPct": 6.39
+        },
+        {
+          "key": "桃園市",
+          "name": { "zh": "桃園市", "en": "Taoyuan City" },
+          "taxedHousingUnits": 960805,
+          "lowUseUnits": 81932,
+          "lowUseRatioPct": 8.53
+        },
+        {
+          "key": "臺中市",
+          "name": { "zh": "臺中市", "en": "Taichung City" },
+          "taxedHousingUnits": 1166676,
+          "lowUseUnits": 100140,
+          "lowUseRatioPct": 8.58
+        },
+        {
+          "key": "臺南市",
+          "name": { "zh": "臺南市", "en": "Tainan City" },
+          "taxedHousingUnits": 763439,
+          "lowUseUnits": 83353,
+          "lowUseRatioPct": 10.92
+        },
+        {
+          "key": "高雄市",
+          "name": { "zh": "高雄市", "en": "Kaohsiung City" },
+          "taxedHousingUnits": 1159509,
+          "lowUseUnits": 119437,
+          "lowUseRatioPct": 10.3
+        },
+        {
+          "key": "宜蘭縣",
+          "name": { "zh": "宜蘭縣", "en": "Yilan County" },
+          "taxedHousingUnits": 204933,
+          "lowUseUnits": 29716,
+          "lowUseRatioPct": 14.5
+        },
+        {
+          "key": "新竹縣",
+          "name": { "zh": "新竹縣", "en": "Hsinchu County" },
+          "taxedHousingUnits": 238820,
+          "lowUseUnits": 20776,
+          "lowUseRatioPct": 8.7
+        },
+        {
+          "key": "苗栗縣",
+          "name": { "zh": "苗栗縣", "en": "Miaoli County" },
+          "taxedHousingUnits": 219210,
+          "lowUseUnits": 24688,
+          "lowUseRatioPct": 11.26
+        },
+        {
+          "key": "彰化縣",
+          "name": { "zh": "彰化縣", "en": "Changhua County" },
+          "taxedHousingUnits": 428352,
+          "lowUseUnits": 47159,
+          "lowUseRatioPct": 11.01
+        },
+        {
+          "key": "南投縣",
+          "name": { "zh": "南投縣", "en": "Nantou County" },
+          "taxedHousingUnits": 172430,
+          "lowUseUnits": 22056,
+          "lowUseRatioPct": 12.79
+        },
+        {
+          "key": "雲林縣",
+          "name": { "zh": "雲林縣", "en": "Yunlin County" },
+          "taxedHousingUnits": 251120,
+          "lowUseUnits": 35387,
+          "lowUseRatioPct": 14.09
+        },
+        {
+          "key": "嘉義縣",
+          "name": { "zh": "嘉義縣", "en": "Chiayi County" },
+          "taxedHousingUnits": 182919,
+          "lowUseUnits": 26112,
+          "lowUseRatioPct": 14.28
+        },
+        {
+          "key": "屏東縣",
+          "name": { "zh": "屏東縣", "en": "Pingtung County" },
+          "taxedHousingUnits": 306932,
+          "lowUseUnits": 36212,
+          "lowUseRatioPct": 11.8
+        },
+        {
+          "key": "臺東縣",
+          "name": { "zh": "臺東縣", "en": "Taitung County" },
+          "taxedHousingUnits": 88677,
+          "lowUseUnits": 13721,
+          "lowUseRatioPct": 15.47
+        },
+        {
+          "key": "花蓮縣",
+          "name": { "zh": "花蓮縣", "en": "Hualien County" },
+          "taxedHousingUnits": 134486,
+          "lowUseUnits": 18760,
+          "lowUseRatioPct": 13.95
+        },
+        {
+          "key": "澎湖縣",
+          "name": { "zh": "澎湖縣", "en": "Penghu County" },
+          "taxedHousingUnits": 34739,
+          "lowUseUnits": 5078,
+          "lowUseRatioPct": 14.62
+        },
+        {
+          "key": "基隆市",
+          "name": { "zh": "基隆市", "en": "Keelung City" },
+          "taxedHousingUnits": 171556,
+          "lowUseUnits": 19833,
+          "lowUseRatioPct": 11.56
+        },
+        {
+          "key": "新竹市",
+          "name": { "zh": "新竹市", "en": "Hsinchu City" },
+          "taxedHousingUnits": 187973,
+          "lowUseUnits": 14641,
+          "lowUseRatioPct": 7.79
+        },
+        {
+          "key": "嘉義市",
+          "name": { "zh": "嘉義市", "en": "Chiayi City" },
+          "taxedHousingUnits": 111801,
+          "lowUseUnits": 13177,
+          "lowUseRatioPct": 11.79
+        },
+        {
+          "key": "金門縣",
+          "name": { "zh": "金門縣", "en": "Kinmen County" },
+          "taxedHousingUnits": 25557,
+          "lowUseUnits": 4149,
+          "lowUseRatioPct": 16.23
+        },
+        {
+          "key": "連江縣",
+          "name": { "zh": "連江縣", "en": "Lienchiang County" },
+          "taxedHousingUnits": 3372,
+          "lowUseUnits": 439,
+          "lowUseRatioPct": 13.02
+        }
+      ]
+    },
+    {
+      "id": "unsold-new-homes-by-county-2025Q4",
+      "label": {
+        "zh": "各縣市待售新成屋（114 年第 4 季）",
+        "en": "Unsold new homes by county (2025Q4)"
+      },
+      "period": "2025Q4",
+      "columns": ["units"],
+      "columnLabels": {
+        "units": {
+          "zh": "宅數"
+        }
+      },
+      "columnUnits": {
+        "units": "宅"
+      },
+      "source": {
+        "agency": "內政部（國土管理署／統計處）",
+        "title": "114 年下半年低度使用(用電)住宅及 114 年第 3、4 季待售新成屋統計資訊簡冊（115 年 7 月出刊）",
+        "url": "https://pip.moi.gov.tw/Upload/Surplus/POST/20260720960123.pdf"
+      },
+      "note": "「-」＝無統計（連江縣）",
+      "rows": [
+        {
+          "key": "新北市",
+          "name": { "zh": "新北市", "en": "New Taipei City" },
+          "units": 19233
+        },
+        {
+          "key": "臺北市",
+          "name": { "zh": "臺北市", "en": "Taipei City" },
+          "units": 4710
+        },
+        {
+          "key": "桃園市",
+          "name": { "zh": "桃園市", "en": "Taoyuan City" },
+          "units": 19856
+        },
+        {
+          "key": "臺中市",
+          "name": { "zh": "臺中市", "en": "Taichung City" },
+          "units": 17514
+        },
+        {
+          "key": "臺南市",
+          "name": { "zh": "臺南市", "en": "Tainan City" },
+          "units": 11194
+        },
+        {
+          "key": "高雄市",
+          "name": { "zh": "高雄市", "en": "Kaohsiung City" },
+          "units": 15965
+        },
+        {
+          "key": "宜蘭縣",
+          "name": { "zh": "宜蘭縣", "en": "Yilan County" },
+          "units": 2685
+        },
+        {
+          "key": "新竹縣",
+          "name": { "zh": "新竹縣", "en": "Hsinchu County" },
+          "units": 4403
+        },
+        {
+          "key": "苗栗縣",
+          "name": { "zh": "苗栗縣", "en": "Miaoli County" },
+          "units": 2524
+        },
+        {
+          "key": "彰化縣",
+          "name": { "zh": "彰化縣", "en": "Changhua County" },
+          "units": 3874
+        },
+        {
+          "key": "南投縣",
+          "name": { "zh": "南投縣", "en": "Nantou County" },
+          "units": 970
+        },
+        {
+          "key": "雲林縣",
+          "name": { "zh": "雲林縣", "en": "Yunlin County" },
+          "units": 1435
+        },
+        {
+          "key": "嘉義縣",
+          "name": { "zh": "嘉義縣", "en": "Chiayi County" },
+          "units": 1227
+        },
+        {
+          "key": "屏東縣",
+          "name": { "zh": "屏東縣", "en": "Pingtung County" },
+          "units": 2190
+        },
+        {
+          "key": "臺東縣",
+          "name": { "zh": "臺東縣", "en": "Taitung County" },
+          "units": 241
+        },
+        {
+          "key": "花蓮縣",
+          "name": { "zh": "花蓮縣", "en": "Hualien County" },
+          "units": 692
+        },
+        {
+          "key": "澎湖縣",
+          "name": { "zh": "澎湖縣", "en": "Penghu County" },
+          "units": 104
+        },
+        {
+          "key": "基隆市",
+          "name": { "zh": "基隆市", "en": "Keelung City" },
+          "units": 1062
+        },
+        {
+          "key": "新竹市",
+          "name": { "zh": "新竹市", "en": "Hsinchu City" },
+          "units": 1518
+        },
+        {
+          "key": "嘉義市",
+          "name": { "zh": "嘉義市", "en": "Chiayi City" },
+          "units": 845
+        },
+        {
+          "key": "金門縣",
+          "name": { "zh": "金門縣", "en": "Kinmen County" },
+          "units": 259
+        },
+        {
+          "key": "連江縣",
+          "name": { "zh": "連江縣", "en": "Lienchiang County" },
+          "units": null
+        }
+      ]
+    }
+  ]
+}

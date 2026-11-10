@@ -1,0 +1,232 @@
+---
+/**
+ * StackedProgress — 社宅進度堆疊橫條：每列一個地區，依「既有、新完工、興建中、規劃中」依序堆疊。
+ * 深到淺表示離「住得進去」越遠，規劃中用斜紋，不靠紅綠區分。列尾標「達成數」（前三段合計）。
+ * 數字與標籤由呼叫端傳入；元件不含自然語言。
+ */
+import FigureShell from './FigureShell.astro';
+import {
+  scaleLinear,
+  niceTicks,
+  estTextW,
+  fitText,
+  CHART_WIDTHS,
+} from '../../../utils/budgetViz';
+import type { SourceRef } from '../../../utils/housing/data';
+
+export interface StackRow {
+  id: string;
+  label: string;
+  /** 與 segments 同序 */
+  values: number[];
+  note?: string;
+}
+export interface StackSeg {
+  id: string;
+  label: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  lang: string;
+  segments: StackSeg[];
+  rows: StackRow[];
+  sources: SourceRef[];
+  note?: string;
+  /** 前幾段合計算「達成數」（預設前三段） */
+  achievedCount?: number;
+  achievedLabel: string;
+  itemHeader: string;
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  lang,
+  segments,
+  rows,
+  sources,
+  note,
+  achievedCount = 3,
+  achievedLabel,
+  itemHeader,
+  id,
+} = Astro.props;
+
+const sum = (a: number[]) => a.reduce((x, y) => x + y, 0);
+const totals = rows.map((r) => sum(r.values));
+const maxT = Math.max(...totals);
+const top = maxT * 1.08;
+const ticks = niceTicks(maxT, 4).filter((t) => t <= top);
+const fmt = (n: number) => Math.round(n).toLocaleString('en-US');
+const colon = lang === 'zh-TW' ? '：' : ': ';
+
+function layout(W: number, narrow: boolean) {
+  const rowH = narrow ? 30 : 30;
+  const longest = Math.max(0, ...rows.map((r) => estTextW(r.label, 12, 6.5)));
+  const lw = Math.min(narrow ? 92 : 170, longest + 20);
+  const M = { l: lw, r: narrow ? 52 : 70, t: 26, b: 52 };
+  const iw = W - M.l - M.r;
+  const H = M.t + rows.length * rowH + M.b;
+  const x = scaleLinear(0, top, M.l, M.l + iw);
+  // 圖例排版（放不下換行）
+  let lx = M.l;
+  let ly = M.t + rows.length * rowH + 18;
+  const legend = segments.map((s, i) => {
+    const w = 16 + estTextW(s.label, 11, 6) + 14;
+    if (lx + w > W - 4 && lx > M.l) {
+      lx = M.l;
+      ly += 17;
+    }
+    const item = { s, i, x: lx, y: ly };
+    lx += w;
+    return item;
+  });
+  const Hfinal = Math.max(H, ly + 8);
+  return { W, H: Hfinal, M, iw, x, rowH, legend, narrow, lw };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<FigureShell
+  title={title}
+  subtitle={subtitle}
+  lang={lang}
+  sources={sources}
+  note={note}
+  id={id}
+  kind="stack"
+>
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-label={title}
+        class={`hs-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        <defs>
+          <pattern
+            id={`hs-hatch-${L.narrow ? 'n' : 'w'}`}
+            width="6"
+            height="6"
+            patternUnits="userSpaceOnUse"
+            patternTransform="rotate(45)"
+          >
+            <rect width="6" height="6" class="hs-hatch-bg" />
+            <line x1="0" y1="0" x2="0" y2="6" class="hs-hatch-ln" />
+          </pattern>
+        </defs>
+        {ticks.map((t) => (
+          <g class="hs-grid">
+            <line
+              x1={L.x(t)}
+              x2={L.x(t)}
+              y1={L.M.t - 6}
+              y2={L.M.t + rows.length * L.rowH}
+            />
+            <text
+              x={L.x(t)}
+              y={L.M.t - 10}
+              text-anchor="middle"
+              class="hs-tick"
+            >
+              {t >= 1000 ? `${t / 1000}k` : t}
+            </text>
+          </g>
+        ))}
+        {rows.map((r, i) => {
+          const cy = L.M.t + i * L.rowH + L.rowH / 2;
+          let acc = 0;
+          const f = fitText(r.label, L.lw - 14, 12, 10);
+          const achieved = sum(r.values.slice(0, achievedCount));
+          const total = sum(r.values);
+          return (
+            <g class="hs-row" data-id={r.id}>
+              <text
+                x={L.M.l - 8}
+                y={cy + 4}
+                text-anchor="end"
+                class="hs-rowlab"
+                style={`font-size:${f.size}px`}
+              >
+                {f.text}
+              </text>
+              {r.values.map((v, k) => {
+                const x0 = L.x(acc);
+                acc += v;
+                const w = Math.max(0, L.x(acc) - x0);
+                const last = k === segments.length - 1;
+                return (
+                  <rect
+                    x={x0}
+                    y={cy - 9}
+                    width={w}
+                    height={18}
+                    class={`hs-seg s${k}`}
+                    fill={
+                      last
+                        ? `url(#hs-hatch-${L.narrow ? 'n' : 'w'})`
+                        : undefined
+                    }
+                  >
+                    <title>{`${r.label} · ${segments[k].label}${colon}${fmt(v)}`}</title>
+                  </rect>
+                );
+              })}
+              <text x={L.x(total) + 6} y={cy + 4} class="hs-val">
+                {fmt(achieved)}
+              </text>
+            </g>
+          );
+        })}
+        {L.legend.map((g) => (
+          <g class="hs-leg" transform={`translate(${g.x}, ${g.y})`}>
+            <rect
+              x={0}
+              y={-9}
+              width={12}
+              height={10}
+              class={`hs-seg s${g.i}`}
+              fill={
+                g.i === segments.length - 1
+                  ? `url(#hs-hatch-${L.narrow ? 'n' : 'w'})`
+                  : undefined
+              }
+            />
+            <text x={16} y={0} class="hs-tick">
+              {g.s.label}
+            </text>
+          </g>
+        ))}
+      </svg>
+    ))
+  }
+  <table slot="table">
+    <thead>
+      <tr>
+        <th>{itemHeader}</th>
+        {segments.map((s) => <th class="num">{s.label}</th>)}
+        <th class="num">{achievedLabel}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((r) => (
+          <tr>
+            <td>
+              {r.label}
+              {r.note && <small class="hs-note"> {r.note}</small>}
+            </td>
+            {r.values.map((v) => (
+              <td class="num">{fmt(v)}</td>
+            ))}
+            <td class="num">{fmt(sum(r.values.slice(0, achievedCount)))}</td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</FigureShell>

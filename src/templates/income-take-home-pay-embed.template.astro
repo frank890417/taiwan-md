@@ -1,0 +1,14 @@
+---
+/**
+ * /embed/income/take-home-pay/ 內嵌板（13 語共用）。給別的網站用 iframe 嵌入。
+ */
+import IncomeToolEmbed from '../components/income/IncomeToolEmbed.astro';
+import TakeHomePayCalculator from '../components/income/tools/TakeHomePayCalculator.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<IncomeToolEmbed lang={lang} slug="take-home-pay" ns="takehome">
+  <TakeHomePayCalculator lang={lang} variant="embed" />
+</IncomeToolEmbed>

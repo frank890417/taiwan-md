@@ -1,0 +1,156 @@
+---
+/**
+ * S2Price — 第 2 節：房價所得比 2002 至今（全國＋臺北市）。
+ * 圖：TrendLine，序列 affordability / price-to-income-national、price-to-income-taipei。
+ * 背景數字：calc-fixtures 的中位數房價與所得（內政部 115Q1 公布值）、income.json 的所得中位數與五等分位差距。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import RelatedChips from './RelatedChips.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { homeFacts } from '../../../utils/housing/home-facts';
+import { relatedList } from '../../../utils/housing/related';
+import {
+  DATA,
+  agencyShort,
+  annualQ4,
+  fmtPeriod,
+  fmtPeriodShort,
+  fmtWanUnit,
+  fmtWanYuan,
+  getSeries,
+  latest,
+  maxPoint,
+  minPoint,
+  srcOf,
+  uniqSrc,
+  fmtXq,
+  xOfT,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s2;
+const f = homeFacts(lang);
+const fx: any = DATA.fixtures.officialAffordability;
+const nat = f.ptiS;
+const tp = f.ptiTp;
+const first = nat.points[0];
+const last = latest(nat);
+const mx = maxPoint(nat);
+const mn = minPoint(nat);
+// 房價資料來源在 101Q3 由銀行鑑價改為實價登錄（見序列 note），序列在此斷開
+const BREAK = '2012Q3';
+const natLine = {
+  id: 'nat',
+  label: `${S.national} ${last.v.toFixed(2)}`,
+  name: S.national,
+  points: nat.points.map((p) => ({ x: xOfT(p.t), v: p.v })),
+  cls: 'c0',
+  strong: true,
+};
+const tpLast = latest(tp);
+const tpLine = {
+  id: 'tp',
+  label: `${S.taipei} ${tpLast.v.toFixed(2)}`,
+  name: S.taipei,
+  points: tp.points.map((p) => ({ x: xOfT(p.t), v: p.v })),
+  cls: 'c1',
+};
+const tableRows = annualQ4(nat.points).map((p) => ({
+  x: xOfT(p.t),
+  label: fmtPeriodShort(p.t, lang),
+}));
+const incomeS = getSeries('income', 'disposable-income-median-household');
+const quintS = getSeries('income', 'income-quintile-ratio-household');
+const incL = latest(incomeS);
+const quL = latest(quintS);
+const rel = await relatedList(lang, [
+  ['Society', '台灣的年級生世代'],
+  ['Society', '誰算低薪'],
+]);
+const vars = {
+  period: f.period,
+  pti: f.pti.v.toFixed(2),
+  tpPti: tpLast.v.toFixed(2),
+  price: fmtWanYuan(fx.nation.medianPrice, lang),
+  income: fmtWanYuan(fx.nation.medianHouseholdIncome, lang),
+  min: mn.v.toFixed(2),
+  minPeriod: fmtPeriod(mn.t, lang),
+  max: mx.v.toFixed(2),
+  maxPeriod: fmtPeriod(mx.t, lang),
+  last: last.v.toFixed(2),
+  breakPeriod: fmtPeriod(BREAK, lang),
+  first: first.v.toFixed(2),
+  firstPeriod: fmtPeriod(first.t, lang),
+  lastPeriod: fmtPeriod(last.t, lang),
+};
+---
+
+<section class="hs-section" id="price">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <TrendLine
+      title={fill(S.chartTitle, vars)}
+      subtitle={S.chartSub}
+      lang={lang}
+      lines={[tpLine, natLine]}
+      sources={uniqSrc([srcOf(nat), srcOf(tp)])}
+      unit=""
+      digits={2}
+      yMin={0}
+      xTickStep={4}
+      breakAt={{ x: xOfT(BREAK), label: S.breakLabel }}
+      annots={[
+        { x: xOfT(mx.t), lineId: 'nat', text: mx.v.toFixed(2), dir: 'down' },
+        { x: xOfT(mn.t), lineId: 'nat', text: mn.v.toFixed(2), dir: 'down' },
+      ]}
+      tableRows={tableRows}
+      tableXHeader={S.tableX}
+      xFormat={(x) => String(Math.floor(x + 1e-6))}
+      tipX={fmtXq}
+    />
+    <div class="hs-prose">
+      <p>{fill(S.p1, vars)}</p>
+      <p>{fill(S.p2, vars)}</p>
+    </div>
+    <h3 class="hs-h3">{S.ctxTitle}</h3>
+    <div class="hs-statrow">
+      <div class="hs-mini">
+        <div class="hs-mini-v">{fmtWanUnit(incL.v, lang)}</div>
+        <div class="hs-mini-l">{S.income.label}</div>
+        <div class="hs-mini-s">
+          {fill(S.income.sub, { year: incL.t })}
+          <a
+            href={incomeS.source.url}
+            target="_blank"
+            rel="noopener"
+            class="no-external-icon"
+            >{agencyShort(incomeS.source.agency, lang)}</a
+          >
+        </div>
+      </div>
+      <div class="hs-mini">
+        <div class="hs-mini-v">
+          {quL.v.toFixed(2)}<small>{S.quintile.unit}</small>
+        </div>
+        <div class="hs-mini-l">{S.quintile.label}</div>
+        <div class="hs-mini-s">
+          {fill(S.quintile.sub, { year: quL.t })}
+          <a
+            href={quintS.source.url}
+            target="_blank"
+            rel="noopener"
+            class="no-external-icon"
+            >{agencyShort(quintS.source.agency, lang)}</a
+          >
+        </div>
+      </div>
+    </div>
+    <RelatedChips lang={lang} cards={rel} />
+  </div>
+</section>

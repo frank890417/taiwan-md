@@ -12,6 +12,7 @@ import { getLiveArticleCount } from '../utils/liveStats';
 import { getLangSwitchPath } from '../utils/getLangSwitchPath';
 import { useTranslations } from '../i18n/utils';
 import { withBrand } from '../utils/pageTitle';
+import { buildBreadcrumbLd } from '../utils/tools/jsonld';
 
 // Live article count from prebuilt vitals so SEO meta tracks reality.
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
@@ -41,6 +42,12 @@ interface Props {
    * collectionItems is truncated (e.g. a category with 300 articles only
    * lists the first 100). */
   collectionTotal?: number;
+  /**
+   * 覆寫 BreadcrumbList（2026-11-10 專題整合）。不傳＝照下面的預設規則自動產生
+   * （既有頁面行為不變）；傳陣列＝只輸出這一份（工具單獨頁傳「首頁 → 專題 → 工具」
+   * 三層，url 可以是站內路徑或絕對網址）；傳 false＝這頁不輸出麵包屑。
+   */
+  breadcrumb?: false | { name: string; url: string }[];
 }
 
 const { lang = 'zh-TW' } = Astro.props;
@@ -62,6 +69,7 @@ const {
   categorySlug,
   collectionItems,
   collectionTotal,
+  breadcrumb,
 } = Astro.props;
 
 const fullTitle = withBrand(title);
@@ -488,6 +496,8 @@ const dynamicKeywords = [
 
 // BreadcrumbList JSON-LD for content pages
 const generateBreadcrumbLD = () => {
+  if (breadcrumb === false) return null;
+  if (Array.isArray(breadcrumb)) return buildBreadcrumbLd(breadcrumb);
   const currentPath = new URL(url).pathname;
   // Non-default locales from the registry
   const nonDefaultLocales = ENABLED_LANGUAGE_CODES.filter(

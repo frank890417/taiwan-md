@@ -1,0 +1,177 @@
+---
+/**
+ * ValueBars — 橫條清單（HTML/CSS，數值是 DOM 文字）。
+ *
+ * 給「不是億元、也不是增減百分比」的數值用：budget/RankBars 的格式只有億元與帶正負號的 %，
+ * 畫元或占比會讓提示文字出現錯的單位。這裡條長依 value 對 max（預設取最大值）等比例，
+ * 顯示文字由呼叫端格式化好放進 display，元件不碰單位。value 為 null 的列不畫條，
+ * display 照樣顯示（例：「沒有資料」）。highlight 的列上色，其餘退灰當脈絡。
+ * 手機窄版標籤換到條的上方一行；附 <details> 資料表。
+ */
+import { useIncomeT } from '../../../i18n/income';
+import type { Lang } from '../../../config/languages';
+
+export interface Row {
+  label: string;
+  value: number | null;
+  /** 已格式化好的顯示文字（含單位） */
+  display: string;
+  highlight?: boolean;
+  /** 額外小字，接在標籤後面 */
+  note?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  source?: string;
+  lang: Lang;
+  rows: Row[];
+  /** 條長的滿格值；預設取 rows 裡最大的 value */
+  max?: number;
+  id?: string;
+}
+const { title, subtitle, source, lang, rows, max, id } = Astro.props;
+const t = useIncomeT(lang);
+const uid =
+  id ||
+  `vb-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const top =
+  max ?? Math.max(0, ...rows.map((r) => (r.value == null ? 0 : r.value)));
+// 數值欄給固定寬（最長那個 display 的字寬），每一列的條才會落在同一把尺上
+const valW = Math.max(
+  3,
+  ...rows.map((r) =>
+    Array.from(r.display).reduce(
+      (a, c) => a + (c.charCodeAt(0) > 255 ? 1 : 0.6),
+      0,
+    ),
+  ),
+);
+const widthOf = (v: number | null) =>
+  v == null || !(top > 0)
+    ? 0
+    : Math.max(0, Math.min(100, (v / top) * 100)).toFixed(1);
+---
+
+<figure class="bg-chart inc-vb" data-chart="value-bars" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  <ul
+    class="inc-vb-list"
+    aria-labelledby={`${uid}-h`}
+    style={`--inc-vb-w:${(valW + 0.4).toFixed(1)}em`}
+  >
+    {
+      rows.map((r) => (
+        <li class={r.highlight ? 'is-hi' : ''}>
+          <span class="inc-vb-k">
+            {r.label}
+            {r.note && <small class="inc-vb-note"> {r.note}</small>}
+          </span>
+          <span class="inc-vb-track" aria-hidden="true">
+            {r.value != null && (
+              <span
+                class="inc-vb-fill"
+                style={`inline-size:${widthOf(r.value)}%`}
+              />
+            )}
+          </span>
+          <span class="inc-vb-v">{r.display}</span>
+        </li>
+      ))
+    }
+  </ul>
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {t('income.common.source')}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{t('income.common.datatable')}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{t('income.common.table.item')}</th>
+            <th class="num">{t('income.common.table.value')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>
+                  {r.label}
+                  {r.note && <small> {r.note}</small>}
+                </td>
+                <td class="num">{r.display}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  .inc-vb-list {
+    list-style: none;
+    margin: 0.2rem 0 0.4rem;
+    padding: 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+  .inc-vb-list li {
+    display: grid;
+    grid-template-columns: minmax(6rem, 13rem) 1fr var(--inc-vb-w, auto);
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.86rem;
+    color: var(--bg-ink);
+  }
+  .inc-vb-note {
+    color: var(--bg-ink-soft);
+    font-weight: 400;
+  }
+  .inc-vb-track {
+    display: block;
+    block-size: 0.8rem;
+    border-radius: 3px;
+    background: var(--bg-track);
+  }
+  .inc-vb-fill {
+    display: block;
+    block-size: 100%;
+    border-radius: 3px;
+    background: var(--bg-mute);
+    opacity: 0.6;
+  }
+  .inc-vb-list li.is-hi .inc-vb-fill {
+    background: var(--bg-cat-0);
+    opacity: 1;
+  }
+  .inc-vb-list li.is-hi .inc-vb-k {
+    font-weight: 700;
+  }
+  .inc-vb-v {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    text-align: end;
+  }
+  @media (max-width: 600px) {
+    .inc-vb-list li {
+      grid-template-columns: 1fr var(--inc-vb-w, auto);
+      row-gap: 0.2rem;
+    }
+    .inc-vb-k {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

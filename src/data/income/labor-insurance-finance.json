@@ -1,0 +1,248 @@
+{
+  "_meta": {
+    "title": {
+      "zh": "勞工保險基金財務：保費與給付、三次精算、政府撥補、基金規模與收益率",
+      "en": "Labor Insurance fund finances: premiums and benefits, actuarial valuations, government transfers, fund size and returns"
+    },
+    "unit": "金額：億元（新臺幣）。保費與給付原始資料為百萬元，本檔＝百萬元 ÷100（例：328,149 百萬元＝3,281.49 億元）；收益率：%；平均投保薪資：元。民國年＋1911＝西元年。",
+    "source": [
+      {
+        "name": "勞保局委託精算《113 年度勞工保險普通事故保險費率精算報告》（基準日 2023-12-31），表 2-1、2-2、§8",
+        "url": "https://www.bli.gov.tw/Files/24897"
+      },
+      {
+        "name": "《110 年度勞工保險普通事故保險費率精算報告》（基準日 2020-12-31）",
+        "url": "https://www.bli.gov.tw/Files/22546"
+      },
+      {
+        "name": "勞動部 2019-01-31 勞保財務精算說明資料（107 年度報告數字）",
+        "url": "https://www.mol.gov.tw/media/qnibci3b/1080131%E5%8B%9E%E4%BF%9D%E8%B2%A1%E5%8B%99%E7%B2%BE%E7%AE%97%E8%AA%AA%E6%98%8E%E8%B3%87%E6%96%99-%E9%99%84%E4%BB%B6.pdf?mediaDL=true"
+      },
+      {
+        "name": "勞動基金運用局年度新聞稿（基金運用規模、收益、收益率）",
+        "url": "https://www.blf.gov.tw/49200/49245/49247/"
+      },
+      {
+        "name": "全國法規資料庫《勞工保險條例》與沿革",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001"
+      },
+      {
+        "name": "總統府新聞稿（2026-08-07，全國模範勞工慶祝晚宴）：2026 年勞保撥補編列數與立法院審議狀態",
+        "url": "https://www.president.gov.tw/News/40250"
+      }
+    ],
+    "asOf": "2025-12-31",
+    "fetched": "2026-11-10",
+    "notes": [
+      "保費收入＝普通事故保險費；給付合計含一次給付、差額金與年金給付，傷病給付含 COVID-19 給付。106 年（2017）起保費收入小於給付合計（106–112 年皆是）。",
+      "2024（民國 113）、2025（民國 114）年保費收入、給付、平均投保薪資：一手原文未讀到，填 null。媒體（經濟日報 2026-06-15）有引決算的數字，依規矩不放。",
+      "基金規模與收益率只有 2019、2020、2023、2024、2025 年（民國 108、109、112、113、114）讀到勞動基金運用局一手原文；其餘年份（2016、2017、2018、2021、2022）填 null，一手原文未能讀到。",
+      "2020 年基金規模有兩個口徑：精算報告「勞保基金結餘」7,625 億（基準日 2020-12-31），勞動基金運用局「基金運用規模」7,851 億。本檔基金規模用運用局口徑；精算表用精算報告口徑。",
+      "2025 年底精算現值與「潛藏負債 14.2 兆」只有媒體轉述，沒有一手原文，不放入；三次精算以 113 年度報告的 UAL 13 兆 2,298 億（基準日 2023-12-31）為準。",
+      "2026（民國 115）年政府撥補：總統府 2026-08-07 新聞稿寫今年編列 1,300 億元、7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。這筆是已編列、截至該新聞稿發布時立法院尚未通過的數字，記在 subsidies.budgetedNotPassed，不放進 subsidies 的逐年序列與圖。銓敘部 2025-11-05 立法院書面問答也寫「到115年累計編列5170億元」。",
+      "各次精算的「潛藏負債」口徑不同（UAL、預算書的過去服務應計給付精算現值、決算數字），彼此不可比；本檔只放精算報告的 AL／基金結餘／UAL 欄位。"
+    ]
+  },
+  "finance": {
+    "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+    "rocYears": [105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+    "averageInsuredWage": [
+      30454,
+      31005,
+      31514,
+      32099,
+      32526,
+      32758,
+      33618,
+      34415,
+      null,
+      null
+    ],
+    "premiumIncomeOkuNtd": [
+      3281.49,
+      3553.94,
+      3642.7,
+      3929.19,
+      4001.62,
+      4275.51,
+      4428.06,
+      4760.76,
+      null,
+      null
+    ],
+    "benefitPaymentsOkuNtd": [
+      3193.42,
+      3829.33,
+      3895.63,
+      4157.33,
+      4488.56,
+      4563.6,
+      4814.17,
+      5206.69,
+      null,
+      null
+    ],
+    "unitNote": "億元；原始為百萬元，÷100。"
+  },
+  "actuarialReports": [
+    {
+      "id": "report-107",
+      "reportYearRoc": 107,
+      "baseDate": "2017-12-31",
+      "baseDateRoc": "106/12/31",
+      "published": null,
+      "publishedNote": "勞動部 2019-01-31 說明資料；此報告精算負債數字取自 110 年報告對照表（9 兆 8,125 億），勞動部說明資料寫 9.81 兆",
+      "actuarialLiabilityAL": 98125,
+      "fundBalance": 7022,
+      "unfundedLiabilityUAL": 91103,
+      "firstDeficitYearRoc": 106,
+      "firstDeficitYear": 2017,
+      "fundNegativeYearRoc": 115,
+      "fundNegativeYear": 2026,
+      "fundExhaustWithoutFutureSubsidyRoc": null,
+      "fundExhaustWithoutFutureSubsidyYear": null,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 27.94,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 18.13,
+      "discountRatePct": 3.5,
+      "insuredCountMillion": 9.8,
+      "wageGrowthRatePct": 1.5,
+      "source": "https://www.mol.gov.tw/media/qnibci3b/1080131%E5%8B%9E%E4%BF%9D%E8%B2%A1%E5%8B%99%E7%B2%BE%E7%AE%97%E8%AA%AA%E6%98%8E%E8%B3%87%E6%96%99-%E9%99%84%E4%BB%B6.pdf?mediaDL=true",
+      "note": "「若不計入未來撥補預估基金用罄年度」：說明資料表列的是「基金餘額首次出現負值年度 115 年」，沒有另列不計撥補的用罄年度，填 null。"
+    },
+    {
+      "id": "report-110",
+      "reportYearRoc": 110,
+      "baseDate": "2020-12-31",
+      "baseDateRoc": "109/12/31",
+      "published": "2022-01",
+      "actuarialLiabilityAL": 110501,
+      "fundBalance": 7625,
+      "unfundedLiabilityUAL": 102876,
+      "firstDeficitYearRoc": 106,
+      "firstDeficitYear": 2017,
+      "fundNegativeYearRoc": 117,
+      "fundNegativeYear": 2028,
+      "fundExhaustWithoutFutureSubsidyRoc": 117,
+      "fundExhaustWithoutFutureSubsidyYear": 2028,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 27.83,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 16.27,
+      "discountRatePct": 4,
+      "insuredCountMillion": null,
+      "wageGrowthRatePct": null,
+      "source": "https://www.bli.gov.tw/Files/22546",
+      "note": "基金結餘 7,625 億為精算報告口徑；勞動基金運用局同年底運用規模 7,851 億（衝突，兩者並列）。"
+    },
+    {
+      "id": "report-113",
+      "reportYearRoc": 113,
+      "baseDate": "2023-12-31",
+      "baseDateRoc": "112/12/31",
+      "published": "2025-01-21",
+      "publishedNote": "2024-12 完成，2025-01-21 勞動部公布",
+      "actuarialLiabilityAL": 141027,
+      "fundBalance": 8729,
+      "unfundedLiabilityUAL": 132298,
+      "firstDeficitYearRoc": 106,
+      "firstDeficitYear": 2017,
+      "fundNegativeYearRoc": 120,
+      "fundNegativeYear": 2031,
+      "fundExhaustWithoutFutureSubsidyRoc": 120,
+      "fundExhaustWithoutFutureSubsidyYear": 2031,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 31.42,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 17.19,
+      "discountRatePct": 4.5,
+      "insuredCountMillion": null,
+      "wageGrowthRatePct": null,
+      "source": "https://www.bli.gov.tw/Files/24897",
+      "note": "報告註：自 106 年起保費收入不足支出，加計投資收益和政府撥補後，預估 115 年起淨現金流量將出現負值，基金累積餘額開始下降；若不將未來政府持續撥補納入考量，預估 120 年基金用罄。勞動部稱累積餘額出現負值年度相較前次報告延後 3 年。"
+    }
+  ],
+  "actuarialUnit": "億元；例：精算負債 14 兆 1,027 億＝141,027 億。fundNegativeYear（基金累積餘額出現負值年度）與 fundExhaustWithoutFutureSubsidyYear 為官方民國年＋1911。 平衡費率有兩個，欄位名照報告摘要表的列名：balancedRateAmortizingPastUnfundedLiabilityPct＝「攤提過去未提存負債之平衡費率」，balancedRateNotAmortizingPastUnfundedLiabilityPct＝「不攤提過去未提存負債之平衡費率」（113 年度報告另稱後者為「精算收支相等之費率」）。107 年度的兩個數字取自 110 年度報告「本次精算與前次精算結果之財務狀況比較」表的前次精算欄（27.94%、18.13%）。",
+  "subsidies": {
+    "years": [2020, 2021, 2022, 2023, 2024, 2025],
+    "publicBudgetOkuNtd": [200, 220, 300, 450, 1200, 1200],
+    "specialBudgetOkuNtd": [0, 0, 0, 100, 100, 100],
+    "cumulativeOkuNtd": [200, 420, 720, 1270, 2570, 3870],
+    "cumulativeDerived": true,
+    "reportedTotalOkuNtd": 3870,
+    "note": "來源：113 年度精算報告 §8：「109 年政府撥補 200 億元，110 年再撥補 220 億元，111 年續編 300 億元撥補基金……112 年撥補 450 億元，並編列疫後特別預算撥補 300 億元(112 至 114 年各 100 億元)。113 年亦編列預算撥補 1,200 億元，114 年也編列預算撥補 1,200 億元……合計已編列預算撥補勞保基金共 3,870 億元」。公務預算與特別預算分開；2020–2022 報告未列特別預算（總和驗算 200＋220＋300＋450＋300＋1,200＋1,200＝3,870 吻合，故填 0）；114（2025）年為「已編列預算」，報告完成於 2024-12。cumulative 為本站累加。",
+    "source": "https://www.bli.gov.tw/Files/24897",
+    "budgetedNotPassed": {
+      "year": 2026,
+      "rocYear": 115,
+      "amountOkuNtd": 1300,
+      "cumulativeOkuNtd": 5170,
+      "status": "已編列，截至 2026-08-07 總統府新聞稿發布時立法院尚未通過相關預算",
+      "asOf": "2026-08-07",
+      "quote": "惟今年立法院尚未通過相關預算",
+      "source": {
+        "name": "總統府新聞稿（2026-08-07，全國模範勞工慶祝晚宴）",
+        "url": "https://www.president.gov.tw/News/40250"
+      },
+      "note": "新聞稿文字：政府 2020 年起持續撥補，今年編列 1,300 億元，7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。2026-08-07 之後：115 年度總預算在 2026-08-14 三讀（見 laterBudgetPassage），但這筆撥補是否照列，2026-11-10 查勞動部、勞保局、勞動基金運用局頁面都沒有查到。不併入 years／publicBudgetOkuNtd／specialBudgetOkuNtd／cumulativeOkuNtd。",
+      "laterBudgetPassage": {
+        "date": "2026-08-14",
+        "fact": "115 年度中央政府總預算於 2026-08-14 三讀，審議結果共計減列 480 億元。報導沒有寫勞保撥補這筆是否照列；勞動部、勞保局、勞動基金運用局截至 2026-11-10 的新聞稿與公告也沒有查到這筆的法定數或撥入紀錄。",
+        "quote": "審議結果共計減列480億元",
+        "source": {
+          "name": "中央社 2026-08-14〈115 年總預算減列 480 億元 創最晚三讀紀錄〉",
+          "url": "https://www.cna.com.tw/news/aipl/202608140278.aspx"
+        },
+        "checked": "2026-11-10"
+      }
+    }
+  },
+  "fund": {
+    "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+    "fundSizeOkuNtd": [
+      null,
+      null,
+      null,
+      7410,
+      7851,
+      null,
+      null,
+      8729,
+      10919.1,
+      13035.2
+    ],
+    "investmentIncomeOkuNtd": [
+      null,
+      null,
+      null,
+      898.1,
+      644,
+      null,
+      null,
+      1100.9,
+      1629.1,
+      1598
+    ],
+    "returnRatePct": [
+      null,
+      null,
+      null,
+      13.3,
+      8.83,
+      null,
+      null,
+      14.44,
+      18.13,
+      15.57
+    ],
+    "source": "勞動基金運用局各年度新聞稿（民國 108、109、112、113、114 年度）"
+  },
+  "subsidyLaw": {
+    "name": {
+      "zh": "勞工保險條例（2026-01-21 公布第 29、66、69 條）",
+      "en": "Labor Insurance Act (amended 2026-01-21: Articles 29, 66, 69)"
+    },
+    "promulgated": "2026-01-21",
+    "promulgationOrder": "總統華總一義字第 11500003951 號令修正公布第 29、66、69 條條文",
+    "article66Excerpt": "前項第二款政府撥補之金額，於本條例中華民國一百十四年十二月三十日修正之條文施行後，由中央主管機關依政府財政及本保險財務狀況，每年編列預算撥補之；遇當年度保險費收入少於保險給付支出之情形，中央政府應有適當經費撥入或補助。",
+    "article69Excerpt": "勞工保險之財務，由中央政府負最後支付責任。中央主管機關應至少每三年檢討本保險財務。",
+    "note": "給付公式（第 58-1 條）、請領年齡（第 58 條）、費率（第 13 條）、負擔（第 15 條）都沒有被這次修正改動。第 29 條修正內容研究檔未摘錄，不寫。",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001",
+    "historyUrl": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0050001"
+  }
+}

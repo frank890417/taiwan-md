@@ -1,0 +1,156 @@
+---
+/**
+ * TopTenHistory — 歷年年底上市公司市值前十名（名次表，graph.md §二「排名」）。
+ * /industry §5 與 /companies 共用。樣式只用 currentColor 與透明度，深色的 /companies 與
+ * 淺／深兩色的 /industry 都不必另寫顏色。
+ *
+ * 連續出現的公司不另外畫線：表格欄與欄之間用同一個公司的固定色點標記台積電，其餘用文字。
+ * 沒有某年的資料時那一欄不出現（呼叫端決定要放哪幾年）。
+ */
+interface Col {
+  label: string;
+  date: string;
+  top: { code: string; name: string }[];
+  top10SharePct?: number;
+  tsmcSharePct?: number;
+}
+interface Props {
+  cols: Col[];
+  /** 代號 → 該語言公司名；沒有就用資料裡的中文簡稱 */
+  names: Record<string, string>;
+  labels: {
+    rank: string;
+    top10Share: string;
+    tsmcShare: string;
+    caption: string;
+  };
+  /** 要標亮的代號（預設台積電） */
+  highlight?: string;
+}
+const { cols, names, labels, highlight = '2330' } = Astro.props;
+const depth = Math.max(...cols.map((c) => c.top.length));
+const first = new Set(cols[0]?.top.map((x) => x.code));
+---
+
+<div class="tth-wrap">
+  <table class="tth">
+    <caption>{labels.caption}</caption>
+    <thead>
+      <tr>
+        <th scope="col">{labels.rank}</th>
+        {
+          cols.map((c) => (
+            <th scope="col" title={c.date}>
+              {c.label}
+            </th>
+          ))
+        }
+      </tr>
+    </thead>
+    <tbody>
+      {
+        Array.from({ length: depth }, (_, i) => (
+          <tr>
+            <th scope="row">{i + 1}</th>
+            {cols.map((c, ci) => {
+              const x = c.top[i];
+              if (!x) return <td>—</td>;
+              const isNew =
+                ci > 0 && !cols[ci - 1].top.some((p) => p.code === x.code);
+              return (
+                <td
+                  class={`${x.code === highlight ? 'is-hi' : ''} ${isNew ? 'is-new' : ''}`}
+                >
+                  {names[x.code] ?? x.name}
+                  {isNew && <sup aria-hidden="true">＋</sup>}
+                </td>
+              );
+            })}
+          </tr>
+        ))
+      }
+    </tbody>
+    <tfoot>
+      <tr>
+        <th scope="row">{labels.top10Share}</th>
+        {
+          cols.map((c) => (
+            <td>
+              {c.top10SharePct != null ? `${c.top10SharePct.toFixed(1)}%` : '—'}
+            </td>
+          ))
+        }
+      </tr>
+      <tr>
+        <th scope="row">{labels.tsmcShare}</th>
+        {
+          cols.map((c) => (
+            <td>
+              {c.tsmcSharePct != null ? `${c.tsmcSharePct.toFixed(1)}%` : '—'}
+            </td>
+          ))
+        }
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<style>
+  .tth-wrap {
+    overflow-x: auto;
+    border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+    border-radius: 12px;
+  }
+  .tth {
+    width: 100%;
+    min-width: 620px;
+    border-collapse: collapse;
+    font-size: 0.86rem;
+    line-height: 1.5;
+  }
+  .tth caption {
+    caption-side: top;
+    padding: 0.7rem 0.9rem 0.5rem;
+    text-align: left;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  .tth th,
+  .tth td {
+    padding: 0.45rem 0.7rem;
+    text-align: left;
+    border-top: 1px solid color-mix(in srgb, currentColor 12%, transparent);
+    white-space: nowrap;
+  }
+  .tth thead th {
+    font-variant-numeric: tabular-nums;
+    background: color-mix(in srgb, currentColor 6%, transparent);
+  }
+  .tth thead th:first-child,
+  .tth tbody th {
+    width: 1%;
+  }
+  .tth tfoot th {
+    white-space: normal;
+    min-width: 9rem;
+  }
+  .tth tbody th,
+  .tth tfoot th {
+    font-weight: 600;
+    opacity: 0.75;
+  }
+  .tth td.is-hi {
+    font-weight: 700;
+    box-shadow: inset 3px 0 0 #eb6834;
+  }
+  .tth td.is-new sup {
+    margin-left: 0.15rem;
+    opacity: 0.7;
+    font-size: 0.7em;
+  }
+  .tth tfoot td,
+  .tth tfoot th {
+    font-variant-numeric: tabular-nums;
+    background: color-mix(in srgb, currentColor 4%, transparent);
+  }
+</style>

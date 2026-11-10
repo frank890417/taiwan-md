@@ -1,0 +1,148 @@
+---
+/**
+ * housing-tools.template.astro — /housing/tools/ 房貸與購屋試算工具集（13 語共用 template）
+ *
+ * 四個工具的內嵌版依序排列，各有錨點：
+ *   #mortgage-calculator  #affordability-check  #qingan-eligibility  #rent-vs-buy
+ * 計算在 src/utils/housing/*，條件與官方對照值在 src/data/housing/*.json，
+ * 文案在 src/i18n/housing.ts（zh-TW／en 完整，其他語言走 fallback）。
+ * 每個工具包一層共用的 ToolFrame（variant inline，附「單獨開啟」「嵌入」連結），標題與說明由
+ * ToolFrame 輸出，免責聲明與資料來源由工具外框（ToolShell）輸出，同一項資訊只出現一次。
+ * 單獨工具頁與內嵌板：housing-<slug>.template.astro、housing-<slug>-embed.template.astro。
+ */
+import '../styles/housing-tools.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import MortgageCalculator from '../components/housing/tools/MortgageCalculator.astro';
+import AffordabilityCheck from '../components/housing/tools/AffordabilityCheck.astro';
+import QinganEligibility from '../components/housing/tools/QinganEligibility.astro';
+import RentVsBuy from '../components/housing/tools/RentVsBuy.astro';
+import { labelsFor } from '../components/housing/tools/labels';
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../i18n/utils';
+import type { TranslationKey } from '../i18n/utils';
+import { fill, fmtWan } from '../utils/housing/format';
+import {
+  mortgageDefaults,
+  mortgageView,
+  type AffordabilityFixtures,
+  type Ctx,
+  type QinganData,
+} from '../utils/housing/tool-models';
+import {
+  getTopic,
+  isTopicTranslated,
+  localizePath,
+} from '../utils/topics/registry';
+import qingan from '../data/housing/qingan.json';
+import fixtures from '../data/housing/calc-fixtures.json';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const translatePath = useTranslatedPath(lang);
+const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
+const q = qingan as unknown as QinganData;
+const fx = fixtures as unknown as AffordabilityFixtures;
+
+const toolsPath = translatePath('/housing/tools/');
+const hubPath = translatePath('/housing/');
+
+// 導言裡的數字取自房貸試算的預設案例，不另外寫死
+const ctx: Ctx = {
+  lang,
+  labels: labelsFor(lang, ['common.', 'mortgage.', 'countyName_']),
+  qingan: q,
+  fixtures: fx,
+  toolsPath,
+};
+const defaults = mortgageDefaults(ctx);
+const demo = mortgageView(defaults, ctx);
+const intro = fill(tt('page.intro'), {
+  amount: fmtWan(Number(defaults.amount) * 10000, lang),
+  years: defaults.years,
+  graceYears: defaults.grace,
+  gracePay: demo.text.gracePayment,
+  after: demo.text.afterGrace,
+  max: demo.text.maxPayment,
+  asOf: q.asOf,
+});
+const topic = getTopic('housing');
+const sections = [
+  { id: 'mortgage-calculator', key: 'mortgage', Tool: MortgageCalculator },
+  { id: 'affordability-check', key: 'afford', Tool: AffordabilityCheck },
+  { id: 'qingan-eligibility', key: 'elig', Tool: QinganEligibility },
+  { id: 'rent-vs-buy', key: 'rentbuy', Tool: RentVsBuy },
+] as const;
+---
+
+<Layout
+  lang={lang}
+  title={tt('page.metaTitle')}
+  description={fill(tt('page.metaDescription'), { asOf: q.asOf })}
+  noindex={!isTopicTranslated(getTopic('housing')!, lang)}
+  readerSettings={true}
+>
+  <main class="housing-tools-page tf-surface min-h-screen">
+    <PageHero
+      eyebrow={tt('page.eyebrow')}
+      title={tt('page.heroTitle')}
+      subtitle={tt('page.heroSubtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    />
+    <TopicNav
+      lang={lang}
+      topic="housing"
+      current={localizePath('/housing/tools/', lang)}
+    />
+    <div class="hst-hub">
+      <p class="hst-hub-lead">
+        {intro}
+        <a href={hubPath}>{tt('page.back')}</a>
+      </p>
+      <nav aria-label={tt('page.toc')}>
+        <ul class="hst-hub-toc">
+          {
+            sections.map((s) => (
+              <li>
+                <a href={`#${s.id}`}>{tt(`page.toc.${s.key}`)}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+
+      {
+        sections.map(({ id, key, Tool }) => {
+          const reg = topic?.tools.find((x) => x.slug === id);
+          return (
+            <section id={id} class="hst-hub-section">
+              <h2 class="hst-hub-h2">{tt(`page.h2.${key}`)}</h2>
+              <ToolFrame
+                title={tt(`${key}.title`)}
+                description={tt(`${key}.intro`)}
+                variant="inline"
+                lang={lang}
+                standaloneHref={reg?.path}
+                embedHref={reg?.embedPath}
+              >
+                <Tool lang={lang} variant="inline" toolsPath={toolsPath} />
+              </ToolFrame>
+            </section>
+          );
+        })
+      }
+    </div>
+    <TopicCrossLinks
+      lang={lang}
+      currentId="housing"
+      only={topic?.relatedTopics}
+    />
+  </main>
+</Layout>

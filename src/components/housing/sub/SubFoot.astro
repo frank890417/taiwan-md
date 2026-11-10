@@ -1,0 +1,34 @@
+---
+/**
+ * SubFoot：子頁頁尾的站內連結（專題主頁、其他子頁、全站頁面）與相關文章 chips。
+ */
+import RelatedChips from '../sections/RelatedChips.astro';
+import type { RelCard } from '../../../utils/housing/related';
+
+interface Props {
+  lang: string;
+  id?: string;
+  h2: string;
+  lede?: string;
+  links: { href: string; label: string }[];
+  cards: RelCard[];
+}
+const { lang, id = 'links', h2, lede, links, cards } = Astro.props;
+---
+
+<section class="hs-section" id={id}>
+  <div class="hs-wrap">
+    <h2 class="hs-h2">{h2}</h2>
+    {lede && <p class="hs-lede2">{lede}</p>}
+    <ul class="hs-linklist">
+      {
+        links.map((l) => (
+          <li>
+            <a href={l.href}>{l.label} →</a>
+          </li>
+        ))
+      }
+    </ul>
+    <RelatedChips lang={lang} cards={cards} />
+  </div>
+</section>

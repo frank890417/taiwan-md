@@ -1,0 +1,95 @@
+---
+/** §1 歷史：費率階梯圖＋制度時間軸（健保／長照／安寧／人力四條線）。 */
+import LineChart from '../../budget/LineChart.astro';
+import { healthCtx } from '../../../utils/health/pageContext';
+import RelatedChips from '../RelatedChips.astro';
+import type { RelItem } from '../../../utils/health/related';
+import timeline from '../../../data/health/timeline.json';
+interface Props {
+  lang: string;
+  related: RelItem[];
+}
+const { lang, related } = Astro.props;
+const { t, r, p, zh, topic } = healthCtx(lang);
+
+// 費率階梯：每一年取「當年年底適用的費率」
+const steps = topic.rates.general.map(([d, v]) => ({
+  y: +String(d).slice(0, 4),
+  v: v as number,
+}));
+const years = Array.from({ length: 2026 - 1995 + 1 }, (_, i) => 1995 + i);
+const rateAt = (y: number) => [...steps].reverse().find((s) => s.y <= y)!.v;
+const L = zh ? 'zh' : 'en';
+---
+
+<section class="bp-section" id="s1">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s1.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s1.h2')}</h2>
+    <p class="bp-lede">{t('s1.lede')}</p>
+    <LineChart
+      id="c-rate"
+      title={p('s1.chart.title')}
+      subtitle={p('s1.chart.sub')}
+      years={years}
+      lang={lang}
+      unit="%"
+      yMax={6}
+      height={280}
+      series={[
+        {
+          id: 'rate',
+          label: t('s1.series.rate'),
+          values: years.map(rateAt),
+          cls: 'bg-s0',
+        },
+      ]}
+      annots={[
+        { year: 2010, seriesId: 'rate', text: '5.17%', dir: 'up' },
+        { year: 2016, seriesId: 'rate', text: '4.69%', dir: 'down' },
+        { year: 2021, seriesId: 'rate', text: '5.17%', dir: 'up' },
+      ]}
+      source={zh
+        ? '健保署《2023–2024 全民健康保險年報》；健保會 2026 年 1 月議事錄（2026 年維持 5.17%）'
+        : 'NHIA Annual Report 2023–2024; NHI Committee minutes, January 2026 (5.17% maintained for 2026)'}
+    />
+    <div class="bp-prose">
+      <p set:html={r('s1.p1')} />
+      <p set:html={r('s1.p2')} />
+    </div>
+    <details class="hea-fold">
+      <summary>{t('s1.tl.h')}（{timeline.events.length}）</summary>
+      <ol class="bp-timeline">
+        {
+          timeline.events.map((e) => (
+            <li class={`bp-tl-item ${e.key ? 'is-key' : ''}`}>
+              <time class="bp-tl-date">{e.date}</time>
+              <div>
+                <div class="bp-tl-title">
+                  <span class={`hea-track hea-track-${e.track}`}>
+                    {(timeline.tracks as any)[e.track][L]}
+                  </span>
+                  {(e as any)[L]}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label="source"
+                    href={e.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </div>
+              </div>
+            </li>
+          ))
+        }
+      </ol>
+    </details>
+    <RelatedChips
+      items={related}
+      label={t('related.h')}
+      pendingLabel={t('pending')}
+    />
+  </div>
+</section>

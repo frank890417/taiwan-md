@@ -1,0 +1,92 @@
+---
+/**
+ * §2 Institutions — /industry 專題主頁的一節（由 industry.template.astro 依序放進頁面）。
+ * 資料全部來自 src/utils/industry/pageData.ts，這裡只有版面。
+ */
+import LineChart from '../../budget/LineChart.astro';
+import { industryPageData } from '../../../utils/industry/pageData';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const { OL, REL, pk, pkLast, pkTotalLast, srcLineL, ti, fmtYi } =
+  await industryPageData(lang);
+---
+
+<!-- §2 制度 -->
+<section class="bp-section" id="s2">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{ti('s2.kicker')}</blockquote>
+    <h2 class="bp-h2">{ti('s2.h2')}</h2>
+    <p class="bp-lede">{ti('s2.lede')}</p>
+    <div class="ind-cards">
+      {
+        ['policy', 'parks', 'tax', 'capital'].map((k) => (
+          <div class="ind-card">
+            <span class="ind-card-k">{ti(`s2.tool.${k}.k`)}</span>
+            <h4>{ti(`s2.tool.${k}.h`)}</h4>
+            <p>{ti(`s2.tool.${k}.p`)}</p>
+            {OL.institutions?.[k]?.url && (
+              <a
+                class="ind-card-cta no-external-icon"
+                href={OL.institutions[k].url}
+                target="_blank"
+                rel="noopener"
+              >
+                {ti('label.source')} ↗
+              </a>
+            )}
+          </div>
+        ))
+      }
+    </div>
+    <LineChart
+      id="c-parks"
+      title={ti('s2.chart.title', {
+        total: fmtYi(pkTotalLast, lang),
+        year: pk.years[pkLast],
+      })}
+      subtitle={ti('s2.chart.sub')}
+      years={pk.years}
+      lang={lang}
+      series={[
+        {
+          id: 'hsinchu',
+          label: ti('park.hsinchu'),
+          values: pk.rows[0].values,
+          cls: 'bg-s0',
+        },
+        {
+          id: 'central',
+          label: ti('park.central'),
+          values: pk.rows[1].values,
+          cls: 'bg-s2',
+        },
+        {
+          id: 'southern',
+          label: ti('park.southern'),
+          values: pk.rows[2].values,
+          cls: 'bg-s1',
+        },
+      ]}
+      source={srcLineL(pk.source)}
+    />
+    <div class="bp-prose">
+      <p>{ti('s2.p1')}</p>
+      <p>{ti('s2.p2')}</p>
+    </div>
+    {
+      REL.s2.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{ti('label.related')}</span>
+          {REL.s2.map((r) => (
+            <a href={r.href} title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

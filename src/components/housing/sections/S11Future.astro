@@ -1,0 +1,153 @@
+---
+/**
+ * S11Future — 第 11 節：接下來要看的五件事（日期條）＋出生數折線。
+ * 各項日期與數字都由資料檔推算：青安 3.0 第一次減補貼＝3.0 上路日加第一階年數；
+ * 下一期負擔率＝最新季的下一季；央行下次理監事會＝credit-controls 表中 scheduled=true 的列。
+ * 國發會人口推估沒有資料，只寫一句不估。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import RelatedChips from './RelatedChips.astro';
+import { housingHome } from '../../../i18n/housing-home';
+import { fill } from '../../../utils/housing/format';
+import { homeFacts } from '../../../utils/housing/home-facts';
+import { relatedList } from '../../../utils/housing/related';
+import {
+  DATA,
+  fmtPeriod,
+  getSeries,
+  getTable,
+  grp,
+  latest,
+  maxPoint,
+  nextQuarter,
+  srcOf,
+  trimNum,
+  uniqSrc,
+} from '../../../utils/housing/data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingHome(lang);
+const S = T.s11;
+const f = homeFacts(lang);
+const q: any = DATA.qingan;
+const nm = (id: string) => q.naming.find((n: any) => n.id === id);
+const v3 = nm('v3');
+const addYears = (d: string, n: number) =>
+  `${parseInt(d.slice(0, 4), 10) + n}${d.slice(4, 7)}`;
+const stepDown = addYears(v3.from, f.firstYears);
+
+const ctl = getTable('credit-controls', 'selective-credit-controls-timeline');
+const meeting = ctl.rows.find((r: any) => r.scheduled);
+const eases = ctl.rows.filter(
+  (r: any) =>
+    r.round === 2 &&
+    r.kind === 'rule' &&
+    r.effectiveDate &&
+    !/^第 [1-7] 度$/.test(r.wave ?? ''),
+);
+const conc = getSeries('lending', 'real-estate-credit-concentration');
+const concL = latest(conc);
+const concPeak = maxPoint({ points: conc.points.filter((p) => p.t >= '2020') });
+const prog = getTable('social-housing', 'social-housing-progress');
+const natRow = prog.rows.find((r: any) => r.key === '全國合計／小計');
+const hs = getSeries('stock', 'household-size');
+const births = getSeries('stock', 'births-annual');
+const bF = births.points[0];
+const bL = latest(births);
+
+const d = (t: string) => fmtPeriod(t, lang);
+const vars = {
+  n: 0,
+  date: d(stepDown.slice(0, 7)),
+  r0: trimNum(f.steps[0].netRatePct, 3),
+  r1: trimNum(f.steps[1].netRatePct, 3),
+  to: d(v3.to),
+  next: d(nextQuarter(f.periodT)),
+  period: f.period,
+  pti: f.pti.v.toFixed(2),
+  conc: concL.v,
+  concPeriod: d(concL.t),
+  peak: concPeak.v,
+  nEase: eases.length,
+  easeYear: eases[0].effectiveDate.slice(0, 4),
+  uc: grp(natRow.underConstruction),
+  pl: grp(natRow.planned),
+  hs0: hs.points[0].v,
+  hs1: latest(hs).v,
+  hp0: d(hs.points[0].t),
+  hp1: d(latest(hs).t),
+  b0: grp(bF.v),
+  b1: grp(bL.v),
+  y0: bF.t,
+  y1: bL.t,
+};
+const items = [
+  {
+    id: 'i1',
+    c: S.i1,
+    badge: fill(S.i1.badge, { date: d(stepDown.slice(0, 7)) }),
+  },
+  { id: 'i2', c: S.i2, badge: S.i2.badge },
+  {
+    id: 'i3',
+    c: S.i3,
+    badge: fill(S.i3.badge, { date: meeting ? d(meeting.date) : '' }),
+  },
+  { id: 'i4', c: S.i4, badge: S.i4.badge },
+  { id: 'i5', c: S.i5, badge: S.i5.badge },
+];
+vars.n = items.length;
+const rel = await relatedList(lang, [
+  ['Society', '台灣少子化危機'],
+  ['Society', '台灣長期照顧制度發展'],
+]);
+---
+
+<section class="hs-section" id="future">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <ol class="hs-watch">
+      {
+        items.map((it, i) => (
+          <li class="hs-watch-i">
+            <span class="hs-watch-n">{i + 1}</span>
+            <span class="hs-watch-d">{it.badge}</span>
+            <div class="hs-watch-b">
+              <h3 class="hs-watch-t">{fill(it.c.title, vars)}</h3>
+              <p>{fill(it.c.body, vars)}</p>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+    <TrendLine
+      title={fill(S.birthsTitle, vars)}
+      subtitle={S.birthsSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'births',
+          label: S.birthsLine,
+          points: births.points.map((p) => ({ x: +p.t, v: p.v })),
+          cls: 'c4',
+          area: true,
+          strong: true,
+          breakGap: 1.5,
+        },
+      ]}
+      sources={uniqSrc([srcOf(births)])}
+      unit=""
+      digits={0}
+      yMin={0}
+      xTickStep={2}
+      yFormat={(v) => (lang === 'zh-TW' ? `${v / 1e4}萬` : `${v / 1e3}k`)}
+      tableRows={births.points.map((p) => ({ x: +p.t, label: p.t }))}
+      tableXHeader={S.tableX}
+    />
+    <RelatedChips lang={lang} cards={rel} />
+  </div>
+</section>

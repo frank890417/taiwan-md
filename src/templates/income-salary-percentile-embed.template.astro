@@ -1,0 +1,14 @@
+---
+/**
+ * /embed/income/salary-percentile/ 內嵌板（13 語共用）。給別的網站用 iframe 嵌入。
+ */
+import IncomeToolEmbed from '../components/income/IncomeToolEmbed.astro';
+import SalaryPercentile from '../components/income/tools/SalaryPercentile.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<IncomeToolEmbed lang={lang} slug="salary-percentile" ns="percentile">
+  <SalaryPercentile lang={lang} variant="embed" />
+</IncomeToolEmbed>
