@@ -1,5 +1,5 @@
 /**
- * en.ts — topic UI strings (English). Keys must mirror zh.ts
+ * en.ts, topic UI strings (English). Keys must mirror zh.ts
  * (scripts/tools/check-industry-i18n.mjs reconciles them).
  * No evaluation, forecast or buy/sell language about individual stocks.
  */
@@ -13,7 +13,7 @@ export const en: Record<keyof typeof zh, string> = {
     'The ranking is compiled from public filings: market capitalisation is a snapshot at the close on {date}, revenue is the full year 2025. Taiwan.md does not rate individual stocks, forecast prices or recommend any trade.',
   'co.topic.h': 'Why the list looks like this',
   'co.topic.p':
-    'Seven of the top ten make electronics, and one company holds about four-tenths of the listed market’s value. It took seventy years, from sugar and textiles to wafers, to grow this structure — and some worry it is too concentrated.',
+    'Seven of the top ten make electronics, and one company holds about four-tenths of the listed market’s value. It took seventy years, from sugar and textiles to wafers, to grow this structure, and some worry it is too concentrated.',
   'co.topic.cta1': 'Read the industry feature',
   'co.topic.cta2': 'See the supply-chain maps',
   'co.ctl.h': 'Sort and filter',
@@ -34,7 +34,7 @@ export const en: Record<keyof typeof zh, string> = {
   'co.summary.empty': 'No company matches both filters',
   'co.unit.money': 'B',
   'co.col.hq': 'HQ',
-  'co.col.change': 'vs June list',
+  'co.col.change': 'vs June list (direction only)',
   'co.change.new': 'New entry',
   'co.change.same': 'Unchanged',
   'co.change.up': 'Up {n}',
@@ -42,7 +42,7 @@ export const en: Record<keyof typeof zh, string> = {
   'co.note.change':
     '“vs June list” compares against this page’s June 2026 edition. That edition covered TWSE-listed companies only and derived market cap from index weights; this edition multiplies the closing price by common shares outstanding and covers both the TWSE and the TPEx. The methods differ, so read the rank changes for direction only.',
   'co.note.hq':
-    'Headquarters is the registered address in the TWSE and TPEx company profiles (as of {date}); operations may be elsewhere. The industry filter uses the official TWSE classification, which differs from the “Sector” column — that column is Taiwan.md’s own grouping by supply-chain position.',
+    'Headquarters is the registered address in the TWSE and TPEx company profiles (as of {date}); operations may be elsewhere. The industry filter uses the official TWSE classification, which differs from the “Sector” column, that column is Taiwan.md’s own grouping by supply-chain position.',
 
   // ── TWSE / TPEx industry classification ────────────────────────────
   'tse.01': 'Cement',
@@ -88,9 +88,9 @@ export const en: Record<keyof typeof zh, string> = {
 
   // ── /industry: meta and hero ───────────────────────────────────────
   'meta.title':
-    'Taiwan’s Industries: exports, GDP, science parks and listed companies — seventy years on the way to the wafer',
+    'Taiwan’s Industrial Structure 2026: Exports, GDP, Listed Firms',
   'meta.description':
-    'In 2025, 74% of Taiwan’s exports were electronics, manufacturing was 38.6% of GDP, and one company made up 38% of the listed market. This page uses official statistics to show how that structure came about: long-run exports and GDP, science parks, factories by county, semiconductor output, institutions and a timeline, plus six public debates in the words of each side. Every figure carries a source and a date.',
+    '74% of Taiwan’s 2025 exports were electronics; one firm is 38% of the listed market. Official data, supply-chain maps and six debates.',
   'hero.eyebrow': 'Feature · Industries and listed companies',
   'hero.title': 'Taiwan’s Industries',
   'hero.subtitle':
@@ -122,7 +122,7 @@ export const en: Record<keyof typeof zh, string> = {
     'In under forty years, exports went from nine-tenths farm goods to 95% industrial goods',
   'toc.s2': 'Institutions',
   'toc.s2.take':
-    'Industrial policy, science parks, tax incentives and the capital market — four tools in relay',
+    'Industrial policy, science parks, tax incentives and the capital market, four tools in relay',
   'toc.s3': 'Today',
   'toc.s3.take':
     '74% of 2025 exports were electronics, and the United States became the largest market',
@@ -284,7 +284,7 @@ export const en: Record<keyof typeof zh, string> = {
   's6.chart.value': 'Factory revenue',
   's6.chart.hq': 'Top-fifty headquarters',
   's6.p1':
-    'The top six are Taoyuan, Kaohsiung, Tainan, Taichung, Hsinchu County and New Taipei: NT$16.6 trillion together, three-quarters of the national total. Taipei City’s factories made only NT$118.4 billion, yet it is the registered address of 23 of the top fifty companies — the plants are elsewhere, the head offices and financial holdings are in Taipei.',
+    'The top six are Taoyuan, Kaohsiung, Tainan, Taichung, Hsinchu County and New Taipei: NT$16.6 trillion together, three-quarters of the national total. Taipei City’s factories made only NT$118.4 billion, yet it is the registered address of 23 of the top fifty companies, the plants are elsewhere, the head offices and financial holdings are in Taipei.',
   's6.p2':
     'Rank by number of factories and the picture changes. Taichung has the most with 18,809, then New Taipei with 17,669, Changhua with 12,619 and Taoyuan with 11,827. Changhua has nearly seven times as many factories as Hsinchu County and four-tenths of its revenue.',
   's6.clusters.h': 'A few clusters with an official source',
@@ -312,7 +312,7 @@ export const en: Record<keyof typeof zh, string> = {
   's9.tool.chains.cta': 'See the three chains',
   's9.tool.tl.h': 'Industry timeline',
   's9.tool.tl.p':
-    'From the 1950s to 2026 on four tracks — policy, companies, capital market, international — viewable separately.',
+    'From the 1950s to 2026 on four tracks, policy, companies, capital market, international, viewable separately.',
   's9.tool.tl.cta': 'Open the timeline',
   's9.tool.data.h': 'Data download',
   's9.tool.data.p':
@@ -484,7 +484,7 @@ export const en: Record<keyof typeof zh, string> = {
     'The companies and roles on this map are compiled from public information and are used only to describe supply-chain structure. Being listed is not a recommendation, and not being listed does not mean a company is unimportant. Taiwan.md does not rate individual stocks or forecast prices; nothing here is investment advice.',
   'tool.chain.faq1.q': 'Where does TSMC sit in the supply chain?',
   'tool.chain.faq1.a':
-    'In foundry: it manufactures chips on wafers to its customers’ designs. It also does advanced packaging — its annual report says the CoWoS service integrates multiple systems-on-chip with high-bandwidth memory — so it appears once more on the AI-server chain.',
+    'In foundry: it manufactures chips on wafers to its customers’ designs. It also does advanced packaging, its annual report says the CoWoS service integrates multiple systems-on-chip with high-bandwidth memory, so it appears once more on the AI-server chain.',
   'tool.chain.faq2.q': 'What are the links in the AI-server supply chain?',
   'tool.chain.faq2.a':
     'This map uses eight: chip design services, foundry and advanced packaging, substrates and circuit boards, cooling, power, chassis and rails, cables and connectors, and system and rack assembly.',
@@ -566,4 +566,17 @@ export const en: Record<keyof typeof zh, string> = {
   'co.faq5.a':
     'At the close on {date}, TSMC was 41.0% of TWSE market cap and 38.3% of the TWSE and TPEx combined. At the end of 2005 it was 9.9% of TWSE market cap.',
   'co.embed.h': 'Embed this ranking on your site',
+  'tool.chain.h.method': 'How is a company assigned to a link?',
+  'tool.tl.h.method': 'How were the events chosen?',
+  'hero.sources': 'Sources for the four figures: ',
+  'hero.src.export': 'Ministry of Finance export structure',
+  'hero.src.mfg': 'DGBAS national accounts',
+  'hero.src.parks': 'NSTC science-park statistics',
+  'hero.src.tsmc': 'TWSE and TPEx closing data',
+  's1.chart.mirror':
+    'Cited from a copy of the CEPD’s Taiwan Statistical Data Book 2002 hosted on taiwan-database.net, not the official address; the original file on the National Development Council’s site could not be obtained.',
+  's4.src': 'TSIA press release, August 2026',
+  's7.labor.note':
+    'This is the only public statement we found from the responding side.',
+  'tl.more': 'Show all periods',
 };

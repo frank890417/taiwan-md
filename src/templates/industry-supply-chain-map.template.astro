@@ -45,6 +45,7 @@ const faq = [1, 2, 3, 4, 5].map((n) => ({
   updated={(chains as any).asOf}
   embedPath={tool.embedPath}
   embedHeight={900}
+  headings={{ method: ti('tool.chain.h.method') }}
 >
   <ToolFrame
     title={pickText(tool.title, lang)}

@@ -61,6 +61,9 @@ const { DB, REL, ti, zh } = await industryPageData(lang);
               </figure>
             ))}
           </div>
+          {d.id === 'labor' && (
+            <p class="ind-debate-ctx">{ti('s7.labor.note')}</p>
+          )}
           {d.facts?.length > 0 && (
             <ul class="ind-facts">
               {d.facts.map((f: any) => (

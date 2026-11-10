@@ -85,7 +85,9 @@ const { id, title, lede, stages, labels } = Astro.props;
                     </a>
                   )}
                 </span>
-                <span class="ind-node-role">{c.role}</span>
+                <span class="ind-node-role" title={c.role}>
+                  {c.role}
+                </span>
               </li>
             ))}
           </ul>

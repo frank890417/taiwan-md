@@ -24,7 +24,21 @@ const { OL, REL, chainsHref, ic, srcLineL, ti, fmtYi } =
   <div class="bp-wrap">
     <blockquote class="bp-kicker">{ti('s4.kicker')}</blockquote>
     <h2 class="bp-h2">{ti('s4.h2')}</h2>
-    <p class="bp-lede">{ti('s4.lede')}</p>
+    <p class="bp-lede">
+      {ti('s4.lede')}
+      {
+        ic?.estimate2026?.source?.url && (
+          <a
+            class="bp-src"
+            href={ic.estimate2026.source.url}
+            target="_blank"
+            rel="noopener"
+          >
+            {ti('s4.src')} ↗
+          </a>
+        )
+      }
+    </p>
     {
       ic ? (
         <StackedArea

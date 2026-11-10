@@ -35,6 +35,7 @@ import { industryPageData } from '../utils/industry/pageData';
 
 const lang = getLangFromUrl(Astro.url);
 const {
+  S,
   COMPANIES_SNAPSHOT_DATE,
   fmtYi,
   conc,
@@ -95,6 +96,21 @@ const {
           </div>
         </div>
       </div>
+      <p class="ind-hero-src">
+        {ti('hero.sources')}
+        <a href={S.exportProducts.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.export')}</a
+        >（{S.exportProducts.source.accessed}）・
+        <a href={S.gdpSectors.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.mfg')}</a
+        >（{S.gdpSectors.source.accessed}）・
+        <a href={S.parksRevenue.source.url} target="_blank" rel="noopener"
+          >{ti('hero.src.parks')}</a
+        >（{S.parksRevenue.source.accessed}）・
+        <a href={S.marketSnapshot.sources[0].url} target="_blank" rel="noopener"
+          >{ti('hero.src.tsmc')}</a
+        >（{S.marketSnapshot.date}）
+      </p>
       <p class="ind-disclaimer">
         <b>{ti('disclaimer.h')}</b>
         {ti('disclaimer.p')}

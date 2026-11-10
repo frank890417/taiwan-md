@@ -92,6 +92,13 @@ if (variant !== 'embed') {
       </div>
     ))
   }
+  {
+    variant === 'inline' && (
+      <button type="button" class="ind-rank-more" data-more hidden>
+        {ti('tl.more')}
+      </button>
+    )
+  }
 </div>
 
 <script>
@@ -108,6 +115,17 @@ if (variant !== 'embed') {
     ).filter((el) => el.tagName === 'LI');
     const blocks = Array.from(root.querySelectorAll<HTMLElement>('[data-era]'));
     const buttons = Array.from(filter.querySelectorAll('button'));
+    const more = root.querySelector<HTMLButtonElement>('[data-more]');
+    let collapsed = !!more;
+    blocks.reverse();
+    more?.addEventListener('click', () => {
+      collapsed = false;
+      apply(
+        buttons.find((b) => b.getAttribute('aria-pressed') === 'true')?.dataset
+          .track || 'all',
+        false,
+      );
+    });
     const apply = (track: string, push: boolean) => {
       for (const b of buttons)
         b.setAttribute('aria-pressed', String(b.dataset.track === track));
@@ -116,8 +134,14 @@ if (variant !== 'embed') {
         li.hidden = track !== 'all' && li.dataset.track !== track;
         if (!li.hidden) n++;
       }
-      for (const b of blocks)
-        b.hidden = !b.querySelector('li[data-track]:not([hidden])');
+      let shownBlocks = 0;
+      for (const b of blocks) {
+        const has = !!b.querySelector('li[data-track]:not([hidden])');
+        // 專題頁內嵌時先只開最近兩個年代，其餘按鈕展開；篩選單一條線時全部展開
+        b.hidden = !has || (collapsed && track === 'all' && shownBlocks >= 2);
+        if (has) shownBlocks++;
+      }
+      if (more) more.hidden = !(collapsed && track === 'all');
       if (count) count.textContent = `${n} / ${items.length}`;
       if (push) {
         const u = new URL(location.href);

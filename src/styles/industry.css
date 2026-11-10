@@ -864,3 +864,41 @@ a.ind-node-name {
 .ind-tool .bg-table-wrap {
   overflow-x: auto;
 }
+
+/* ── 審查修正（2026-11-10）：供應鏈桌機改成會換行的網格，角色說明收成兩行 ── */
+.ind-chain-flow {
+  grid-auto-flow: row;
+  grid-auto-columns: auto;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 232px), 1fr));
+  overflow-x: visible;
+  gap: 1rem;
+}
+.ind-stage + .ind-stage::before {
+  content: none;
+}
+.ind-node-role {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.ind-hero-src {
+  margin: 0.75rem auto 0;
+  max-width: 760px;
+  font-size: 0.76rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.ind-hero-src a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* 專題頁內嵌的供應鏈地圖只列公司名，各家做什麼在單獨頁與資料表（主頁手機版太長） */
+.ind-chain-tool[data-variant='inline'] .ind-node-role,
+.ind-chain-tool[data-variant='inline'] .ind-stage-gap {
+  display: none;
+}
+.ind-chain-tool[data-variant='inline'] .ind-node {
+  padding: 0.3rem 0.3rem;
+}
