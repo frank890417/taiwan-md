@@ -1,25 +1,35 @@
 ---
 /**
- * NameConverter — 姓名拼音工具（/names 主頁內嵌精簡版、/names/romanize 完整版共用）。
+ * NameRomanization — 姓名拼音工具。專題頁內嵌、單獨頁、內嵌板共用（variant）。
  *
- * 全部在瀏覽器裡算：輸入不送出、不進網址、不存 localStorage。
- * 字音表（public/data/names/readings.json，約 120KB gzip）在第一次需要時才抓。
- * 拼音規則＝src/utils/names/romanize.ts（測試逐列對外交部領事事務局對照表）。
- * 文案由呼叫端給（s），元件本身不寫任何語言的字串。
+ * 自足：樣式在 src/styles/names-tool.css（全部掛在 .np-tool 底下），行為在本檔的 <script>，
+ * 拼音規則全部 import 自 src/utils/names/romanize.ts（測試逐列對外交部領事事務局對照表）。
+ * 同一頁可以放多個實例：不用寫死的 id，全部用 data 屬性從根節點往下找。
+ *
+ * 全部在瀏覽器裡算，輸入不送出、不儲存。字音表（public/data/names/readings.json，
+ * gzip 約 120KB）在頁面載入後才抓。沒有 JS 時看得到預設案例（伺服端先算好輸出）。
+ *
+ * 網址參數：?name=王小明（漢字 → 拼音）、?q=Hsieh（拼音 → 念法）可以帶入預設輸入。
+ * 契約要求輸入同步到網址；這個工具的輸入是人名，自動寫進網址會把名字留在瀏覽紀錄與
+ * 伺服器紀錄裡，所以改成使用者按「複製分享連結」才產生帶名字的網址。
  */
-import boca from '../../data/names/boca-table.json';
-import surnameReadings from '../../data/names/surname-readings.json';
+import '../../../styles/names-tool.css';
+import boca from '../../../data/names/boca-table.json';
+import surnameReadings from '../../../data/names/surname-readings.json';
+import { useNames, toolStrings } from '../../../i18n/names';
+import { SYSTEMS, romanizeSyllable } from '../../../utils/names/romanize';
+import { zhuyinOf } from '../../../utils/names/page';
 
 interface Props {
-  /** 文案表（names.tool.* 去掉前綴後的 key → 字串） */
-  s: Record<string, string>;
-  /** full＝工具頁（含反查分頁）；compact＝主頁內嵌 */
-  mode?: 'full' | 'compact';
-  /** 預填的名字 */
-  initial?: string;
-  uiLang: string;
+  lang: string;
+  /** inline＝專題頁內嵌（只有漢字 → 拼音）；page／embed＝含反查分頁 */
+  variant?: 'inline' | 'page' | 'embed';
 }
-const { s, mode = 'full', initial = '', uiLang } = Astro.props;
+const { lang, variant = 'inline' } = Astro.props;
+const s = toolStrings(lang);
+const initial = useNames(lang)('anat.name');
+const full = variant !== 'inline';
+const uid = `np-${variant}-${Math.random().toString(36).slice(2, 8)}`;
 const zhuyinList = (boca as any).rows.map((r: string[]) => r[0]);
 const local = (surnameReadings as any).rows.map((r: any) => [
   r.surname,
@@ -27,12 +37,31 @@ const local = (surnameReadings as any).rows.map((r: any) => [
   r.hakkaSixian,
   r.sutianId,
 ]);
-const cfg = { s, zhuyinList, local, mode, initial, uiLang };
+const cfg = { s, zhuyinList, local };
+
+// 伺服端先算預設案例，沒有 JS 也看得到結果
+const ssrChars = Array.from(initial);
+const ssrZy = ssrChars.map((c, i) => zhuyinOf(c, i === 0));
+const sysKey: Record<string, [string, string]> = {
+  wg: [s.sysWg, s.sysWgSub],
+  hanyu: [s.sysHanyu, s.sysHanyuSub],
+  tongyong: [s.sysTongyong, s.sysTongyongSub],
+  mps2: [s.sysMps2, s.sysMps2Sub],
+};
+const ssrRows = SYSTEMS.map((sys) => {
+  const parts = ssrZy.map((z) => romanizeSyllable(z)![sys]);
+  return { sys, text: `${parts[0]}, ${parts.slice(1).join('-')}` };
+});
 ---
 
-<div class="np-tool" data-names-tool data-cfg={JSON.stringify(cfg)}>
+<div
+  class="np-tool"
+  data-names-tool
+  data-variant={variant}
+  data-cfg={JSON.stringify(cfg)}
+>
   {
-    mode === 'full' && (
+    full && (
       <div class="np-tool-tabs" role="tablist" aria-label={s.tabsLabel}>
         <button type="button" role="tab" aria-selected="true" data-tab="fwd">
           {s.tabFwd}
@@ -45,11 +74,11 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
   }
 
   <div data-pane="fwd">
-    <label class="np-lab" for={`np-in-${mode}`}>{s.inputLabel}</label>
+    <label class="np-lab" for={`${uid}-in`}>{s.inputLabel}</label>
     <div class="np-tool-row">
       <input
         class="np-input"
-        id={`np-in-${mode}`}
+        id={`${uid}-in`}
         type="text"
         inputmode="text"
         autocomplete="off"
@@ -72,26 +101,54 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
         >
       </div>
     </div>
-    <div class="np-chars" data-chars aria-live="polite"></div>
-    <table class="np-out" data-out>
+    <div class="np-chars" data-chars aria-live="polite">
+      {
+        ssrChars.map((c, i) => (
+          <div class={`np-char ${i === 0 ? 'is-surname' : 'is-given'}`}>
+            <span class="np-char-c" lang="zh-Hant">
+              {c}
+            </span>
+            <span class="np-char-z">{ssrZy[i]}</span>
+          </div>
+        ))
+      }
+    </div>
+    <table class="np-out" data-out aria-live="polite">
       <caption class="sr-only">{s.outCaption}</caption>
-      <tbody></tbody>
+      <tbody>
+        {
+          ssrRows.map((row) => (
+            <tr>
+              <th scope="row">
+                {sysKey[row.sys][0]}
+                <small>{sysKey[row.sys][1]}</small>
+              </th>
+              <td class="v">{row.text}</td>
+              <td class="act" />
+            </tr>
+          ))
+        }
+      </tbody>
     </table>
     <p class="np-say" data-say hidden></p>
     <ul class="np-warns" data-warns></ul>
-    <noscript><p class="bp-note">{s.noscript}</p></noscript>
+    <div class="np-share" data-share hidden>
+      <button type="button" class="np-btn" data-share-btn>{s.share}</button>
+      <span>{s.shareNote}</span>
+    </div>
+    <noscript><p class="np-tool-foot">{s.noscript}</p></noscript>
   </div>
 
   {
-    mode === 'full' && (
+    full && (
       <div data-pane="rev" hidden>
-        <label class="np-lab" for="np-rev-in">
+        <label class="np-lab" for={`${uid}-rev`}>
           {s.revLabel}
         </label>
         <div class="np-tool-row">
           <input
             class="np-input"
-            id="np-rev-in"
+            id={`${uid}-rev`}
             type="text"
             autocomplete="off"
             autocapitalize="off"
@@ -127,15 +184,12 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
     COMPOUND_READINGS,
     type CharReading,
     type System,
-  } from '../../utils/names/romanize';
+  } from '../../../utils/names/romanize';
 
   type Cfg = {
     s: Record<string, string>;
     zhuyinList: string[];
     local: [string, string, string, string][];
-    mode: string;
-    initial: string;
-    uiLang: string;
   };
 
   let dictPromise: Promise<Record<string, string>> | null = null;
@@ -181,8 +235,13 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
     const picks = new Map<string, number>();
     let dict: Record<string, string> | null = null;
 
+    const shareEl = root.querySelector<HTMLElement>('[data-share]');
+
     function render() {
+      // 字音表還沒到：保留伺服端輸出的預設案例，不清畫面
+      if (!dict) return;
       const raw = input.value;
+      if (shareEl) shareEl.hidden = !raw.trim();
       const chars = hanOnly(raw);
       const dropped = Array.from(raw).filter(
         (c) => c.trim() && !/\p{Script=Han}/u.test(c),
@@ -194,10 +253,6 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
       if (!chars.length) {
         if (raw.trim()) warns.push([s.warnNoHan, false]);
         paintWarns(warns);
-        return;
-      }
-      if (!dict) {
-        charsEl.textContent = s.loading;
         return;
       }
       if (dropped.length)
@@ -380,6 +435,24 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
       picks.clear();
       render();
     });
+    // 網址帶入預設輸入（?name=…）。不自動把輸入寫回網址，見檔頭說明。
+    const params = new URLSearchParams(location.search);
+    const qName = params.get('name');
+    if (qName) input.value = Array.from(qName).slice(0, 20).join('');
+    root
+      .querySelector<HTMLButtonElement>('[data-share-btn]')
+      ?.addEventListener('click', (ev) => {
+        const b = ev.currentTarget as HTMLButtonElement;
+        const u = new URL(location.href);
+        u.search = '';
+        u.hash = '';
+        u.searchParams.set('name', input.value.trim());
+        navigator.clipboard?.writeText(u.toString()).then(() => {
+          const old = b.textContent;
+          b.textContent = s.copied;
+          setTimeout(() => (b.textContent = old), 1200);
+        });
+      });
 
     // 反查
     const revIn = root.querySelector<HTMLInputElement>('[data-rev-in]');
@@ -424,6 +497,12 @@ const cfg = { s, zhuyinList, local, mode, initial, uiLang };
         }
       };
       revIn.addEventListener('input', renderRev);
+      const q = params.get('q');
+      if (q) {
+        revIn.value = q.slice(0, 60);
+        root.querySelector<HTMLButtonElement>('[data-tab="rev"]')?.click();
+        renderRev();
+      }
     }
 
     loadDict()

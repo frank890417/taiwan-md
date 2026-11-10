@@ -1,0 +1,170 @@
+---
+/**
+ * People — /names 專題主頁的一組段落（原住民族名字、改名與從姓）。資料全部來自 src/utils/names/model.ts 的模型，
+ * 這裡只有版面。樣式沿用 src/styles/budget.css 與 src/styles/names.css。
+ */
+import HBars from '../HBars.astro';
+import TrendLine from '../TrendLine.astro';
+import NameRomanization from '../tools/NameRomanization.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import { useTranslatedPath } from '../../../i18n/utils';
+import { pickText } from '../../../utils/topics/registry';
+import type { NamesModel } from '../../../utils/names/model';
+
+interface Props {
+  m: NamesModel;
+}
+const M = Astro.props.m as any;
+const {
+  pick3,
+  SOURCES,
+  NAMING_SYSTEMS,
+  INDIGENOUS_TIMELINE,
+  INDIGENOUS_VOICES,
+  L,
+  en,
+  rows,
+  nc,
+  t,
+  r,
+  ncBars,
+  momPoints,
+  related,
+  REL,
+  moiSrc,
+  voices,
+  timeline,
+} = M;
+const translatePath = useTranslatedPath(M.lang);
+---
+
+<!-- §5 原住民族名字 -->
+<section class="bp-section" id="s5">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s5.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s5.h2')}</h2>
+    <p class="bp-lede" set:html={r('s5.lede')} />
+
+    <h3 class="bp-h3">{t('s5.tl.h')}</h3>
+    <ol class="bp-timeline">
+      {
+        timeline(INDIGENOUS_TIMELINE).map((e) => (
+          <li class={`bp-tl-item ${e.cls}`}>
+            <div class="bp-tl-date">{e.date}</div>
+            <div class="bp-tl-title" set:html={e.html} />
+          </li>
+        ))
+      }
+    </ol>
+
+    <h3 class="bp-h3">{t('s5.sys.h')}</h3>
+    <p class="bp-lede" set:html={r('s5.sys.p')} />
+    <div class="np-sys">
+      {
+        NAMING_SYSTEMS.map((sy) => (
+          <div class="np-sys-card">
+            <h4>{pick3(sy.name, L)}</h4>
+            <p class="np-sys-form">{pick3(sy.form, L)}</p>
+            <p class="np-sys-who">{pick3(sy.peoples, L)}</p>
+            <p>{pick3(sy.note, L)}</p>
+          </div>
+        ))
+      }
+    </div>
+
+    <h3 class="bp-h3">{t('s5.num.h')}</h3>
+    <div class="bp-prose">
+      <p set:html={r('s5.p1')} />
+      <p set:html={r('s5.p2')} />
+      <p set:html={r('s5.p3')} />
+    </div>
+
+    <h3 class="bp-h3">{t('s5.voices.h')}</h3>
+    <div class="bp-versus">
+      {
+        voices(INDIGENOUS_VOICES).map((v) => (
+          <div class={`bp-side ${v.cls}`}>
+            <h4>{v.title}</h4>
+            <ul>
+              {v.items.map((it) => (
+                <li set:html={it.html} />
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    {
+      REL.s5.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s5.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<!-- §6 改名與從姓 -->
+<section class="bp-section" id="s6">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s6.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s6.h2')}</h2>
+    <p class="bp-lede" set:html={r('s6.lede')} />
+
+    <HBars
+      id="c-namechange"
+      title={t('s6.nc.title')}
+      subtitle={t('s6.nc.sub')}
+      rows={ncBars}
+      tick={(v: number) =>
+        v === 0 ? '0' : en ? `${v / 1000}k` : `${v / 10000}${t('common.wan')}`}
+      source={`${moiSrc}，p.73`}
+      sourceLabel={t('common.src')}
+      tableLabel={t('common.table')}
+      cols={[t('s6.nc.col1'), t('s6.nc.col2')]}
+      rowH={24}
+    />
+    <div class="bp-prose">
+      <p set:html={r('s6.p1')} />
+    </div>
+    <h3 class="bp-h3">{t('s6.salmon.h')}</h3>
+    <div class="bp-prose">
+      <p set:html={r('s6.salmon.p')} />
+    </div>
+
+    <TrendLine
+      id="c-mother"
+      title={t('s6.mom.title')}
+      subtitle={t('s6.mom.sub')}
+      points={momPoints}
+      partialLast={true}
+      yMax={8}
+      annot={t('s6.mom.annot')}
+      source={`${moiSrc}，p.67；${pick3(SOURCES[1].title, L)}`}
+      sourceLabel={t('common.src')}
+      tableLabel={t('common.table')}
+      cols={[t('s6.nc.col1'), t('s6.mom.series')]}
+    />
+    <div class="bp-prose">
+      <p set:html={r('s6.p2')} />
+      <p set:html={r('s6.p3')} />
+    </div>
+    {
+      REL.s6.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s6.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

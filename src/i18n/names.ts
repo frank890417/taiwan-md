@@ -19,25 +19,25 @@ type Dict = Record<string, string>;
 const zh: Dict = {
   'meta.title': '台灣人的名字：姓氏、世代、拼音與族語',
   'meta.desc':
-    '兩千三百萬人用 1,785 個姓，前十個就占了一半。同一個名字在護照上有四套官方拼法，原住民族的名字 2024 年起可以只寫族語。內政部統計、領務局對照表與姓名條例畫成圖，附姓名拼音工具。',
+    '兩千三百萬人用 1,785 個姓，前十個就占一半。同一個名字在護照上有四套官方拼法，原住民族的名字可以只寫族語。官方統計畫成圖，附姓名拼音工具。',
   'hero.eyebrow': '專題 · 名字',
   'hero.title': '台灣人的名字',
   'hero.subtitle': '{nSurnames} 個姓、四套拼音，還有寫回族語的名字',
   'hero.verse':
-    '一個名字，護照上有四種寫法，\n每一種都是官方的。\n這一頁把名字拆開來看：姓、名、聲音，還有誰來決定。',
+    '一個名字，護照上可以有四種寫法，\n每一種都是官方的。\n這一頁把名字拆開來看：姓、名、聲音，還有誰來決定。',
   'hero.stat1.l': '全國的姓氏數',
   'hero.stat1.sub': '2023 年 6 月底',
   'hero.stat2.l': '前十大姓占人口',
   'hero.stat2.sub': '陳、林、黃、張、李、王、吳、劉、蔡、楊',
   'hero.stat3.l': '官方拼音對照表的音節數',
-  'hero.stat3.sub': '每個音節四種拼法',
+  'hero.stat3.sub': '四套拼音系統並列',
   'hero.stat4.l': '新生兒從母姓',
   'hero.stat4.sub': '2025 年 1 到 9 月，歷年最高',
   'anat.name': '王小明',
   'anat.surname': '姓',
   'anat.given': '名',
   'anat.cap':
-    '「王小明」是課本與表格範例裡的常客。照領事事務局的對照表，這三個字可以拼成四種，申請護照時由本人決定用哪一種。[^S3][^S5]',
+    '這一頁用「王小明」當例子。照領事事務局的對照表，這三個字可以拼成四種，申請護照時由本人決定用哪一種。[^S3][^S5]',
   'hero.brief': '三分鐘版',
   'hero.jump': '段落導覽',
   'subnav.label': '段落',
@@ -59,7 +59,7 @@ const zh: Dict = {
   'toc.s2': '年代',
   'toc.s2.take': '聽名字大概猜得到哪一年生。',
   'toc.s3': '拼音',
-  'toc.s3.take': '同一個姓，官方給四種拼法。',
+  'toc.s3.take': '同一個姓，官方對照表最多有四種拼法。',
   'toc.s4': '台語客語',
   'toc.s4.take': '護照可以照台語、客語的讀音拼。',
   'toc.s5': '原住民族',
@@ -72,15 +72,15 @@ const zh: Dict = {
   'toc.s8.take': '稱呼、取名、查證的指引與全部來源。',
 
   's0.kicker': '姓在前，名在後。\n中間沒有別的東西。',
-  's0.h2': '三個字最常見，法律只規定姓要放前面',
+  's0.h2': '姓在前、名在後，法律規定的只有這個順序',
   's0.lede':
     '台灣人的本名是戶籍登記的那一個，法律規定只能有一個。[^S8] 它通常是一個字的姓加兩個字的名，沒有中間名，也沒有父名。先認得這個基本形狀，後面每一段都在講它的例外。',
   's0.c1.h': '姓在前，名在後',
   's0.c1.p':
     '《姓名條例》第 3 條寫明姓氏在前、名字在後，中間不加空格或符號。[^S8] 全國 {nSurnames} 個姓裡，{nCompound} 個是複姓，共 {compoundPop} 人，人數最多的是張簡、歐陽、范姜。[^S1 p.24, 28]',
-  's0.c2.h': '名多半是兩個字',
+  's0.c2.h': '名字的長度',
   's0.c2.p':
-    '名只有一個字的有 {singlePop} 人，占 {singlePct}%。姓名超過六個字的有 {longTotal} 人，其中 {longIndPct}% 具原住民身分。[^S1 p.60, 83] 兩個字、三個字、四個字各占多少，內政部的報告沒有統計。',
+    '名只有一個字的有 {singlePop} 人，占 {singlePct}%。姓名超過六個字（不含用間隔號或空格分開的）有 {longTotal} 人，其中 {longIndPct}% 具原住民身分。[^S1 p.60, 83] 兩個字、三個字、四個字各占多少，內政部的報告沒有統計。',
   's0.c3.h': '結婚不改姓',
   's0.c3.p':
     '《民法》第 1000 條：夫妻各保有其本姓，可以書面約定冠配偶的姓。[^S13] 目前仍冠配偶姓的有 {spouseTotal} 人，占總人口 {spousePct}%，其中 {spouseFemPct}% 是女性。[^S1 p.37]',
@@ -106,7 +106,7 @@ const zh: Dict = {
   's1.tiles.sub':
     '大字是各縣市人數最多的姓；小字是進了該縣市前十名、卻不在全國前十名的姓',
   's1.tiles.legend':
-    '<b class="cool">藍色</b>的兩格第一大姓是林。<b class="warm">橘色小字</b>是地方榜單獨有的姓：宜蘭的游、新竹縣的彭徐曾、澎湖的許洪呂、連江的曹鄭。',
+    '<b class="cool">藍色</b>的兩格第一大姓是林。<b class="warm">橘色小字</b>是地方榜單才有的姓，例如宜蘭的游、新竹縣的彭徐曾、澎湖的許洪呂、連江的曹鄭。',
   's1.p1':
     '姓陳的有 {chenN} 人，占 {chenPct}%。陳、林兩姓相加是 {chenLinPct}%，大約每五個人一個。[^S1 p.26] 排到第一百名，累計已經是 {top100Pct}%。',
   's1.p2':
@@ -137,7 +137,7 @@ const zh: Dict = {
     '<b>這張表不能拿來做什麼</b>　它只有每個年代的前十名。前十名以外的名字、名字與姓的組合，這一頁都沒有，也不提供。',
 
   's3.kicker': '護照上那一行英文，\n是你自己選的。',
-  's3.h2': '同一個姓，官方對照表給四種拼法',
+  's3.h2': '同一個姓，官方對照表最多給四種拼法',
   's3.lede':
     '申請護照時，中文姓名要「逐字音譯為拉丁字母」。[^S6] 怎麼音譯，領事事務局提供一張對照表：{bocaRows} 個音節，每個音節並列四套系統的拼法。[^S3] 四套都可以用，領事事務局也寫明不強制用哪一套。[^S5]',
   's3.rom.title': '張可以是 CHANG、ZHANG、JHANG 或 JANG',
@@ -149,9 +149,9 @@ const zh: Dict = {
   's3.col.tongyong': '通用拼音',
   's3.col.mps2': '國音二式',
   's3.p1':
-    '前十五大姓裡，{romSame} 個姓四套拼法完全相同（例如陳、林、黃、李、王），其餘的至少有兩種寫法。威妥瑪在護照上不寫送氣符號，所以許與徐都是 HSU，張與常都是 CHANG。',
+    '前十五大姓裡，{romSame} 個姓四套拼法完全相同（例如陳、林、黃、李、王），其餘的至少有兩種寫法。威妥瑪在護照上不寫送氣符號，所以張與常都是 CHANG。護照拼音也不標聲調，許與徐在每一套裡都拼得一樣。',
   's3.p2':
-    '護照的規定只有幾條：姓在前、名在後、用逗號隔開，含空格不超過 39 個字母；換發護照要沿用原來的拼法；拼法跟直系血親或兄弟姊妹不一樣的，可以申請改成一致。[^S6]',
+    '護照的規定只有幾條：姓在前、名在後、用逗號隔開，含空格不超過 39 個字母；換發護照要沿用原來的拼法；姓氏的拼法跟直系血親或兄弟姊妹不一樣的，可以申請改成一致。[^S6]',
   's3.p3':
     '全國的護照上哪一套用得最多，查不到官方或學術統計。這一頁不引用沒有出處的說法。',
   's3.tl.h': '拼音政策的幾個日期',
@@ -161,7 +161,7 @@ const zh: Dict = {
   's3.tool.more': '打開完整的拼音工具',
   's3.voices.h': '該用哪一套：各方說法',
   's3.voices.note':
-    '<b>並列說明</b>　以下引述多半來自 2000 年與 2008 年兩次政策轉換時的報導。主張通用拼音一方的第一手聲明，這次找到的比較少。',
+    '<b>並列說明</b>　以下引述多半來自 2000 年與 2008 年兩次政策轉換時的報導，兩方的第一手聲明這次找到的都不多。',
 
   's4.kicker': '陳，華語念 Chén，\n台語念 Tân，\n客語念 Ciin。',
   's4.h2': '護照可以照台語、客語的讀音拼，2019 年寫進規定',
@@ -177,16 +177,16 @@ const zh: Dict = {
   's4.p1':
     '黃在台語念 N̂g，吳念 Ngôo，許念 Khóo，跟華語的拼法完全對不上。客語有六個腔調，同一個姓在四縣腔與海陸腔的聲調也不同。',
   's4.p2':
-    '這一頁只列前三十大姓的姓氏讀音。名字怎麼用台語或客語念，請用教育部《臺灣台語常用詞辭典》與《臺灣客語辭典》的姓名查詢。[^S15][^S16] 已經領過護照的人，以讀音不符為理由改拼法，只能改一次。[^S6]',
+    '這一頁只列前三十大姓的姓氏讀音。名字怎麼用台語或客語念，請用教育部《臺灣台語常用詞辭典》與《臺灣客語辭典》的姓名查詢。[^S15][^S16] 外文別名的姓氏從 2016 年起就可以照母語讀音拼。已經領過護照的人，以讀音不符為理由改拼法，只能改一次。[^S6]',
 
-  's5.kicker': '名字曾經由別人決定。\n現在可以自己寫回來。',
+  's5.kicker': '先是被改，後來可以改回，\n現在可以只寫族語。',
   's5.h2': '原住民族的名字，2024 年起可以只用族語文字登記',
   's5.lede':
     '原住民族各族有自己的命名方式，結構跟漢人的「姓加名」不一樣。1940 年起殖民政府開放臺灣人改日式姓名，戰後的政府要沒有漢名的原住民取漢名。1995 年法律開始允許改回傳統姓名，2024 年允許只寫族語。[^S8][^S12]',
   's5.tl.h': '從被改名到寫回族語',
   's5.sys.h': '五種名字的組法',
   's5.sys.p':
-    '原住民族委員會 2025 年把十六族的命名方式整理成五類。[^S11] 這是調查整理出來的參考，不是每個族人實際的用法，各族內部也還在討論。',
+    '原住民族委員會把十六族的命名方式整理成五類。[^S11] 這是考究後整理出來的參考，每個族人實際的用法可能跟分類有出入。',
   's5.sys.who': '族別',
   's5.num.h': '有多少人用傳統名字',
   's5.p1':
@@ -198,7 +198,7 @@ const zh: Dict = {
   's5.voices.h': '單列族語名字：各方說法',
 
   's6.kicker': '名字可以改，\n但法律要你說一個理由。',
-  's6.h2': '改名的人一年比一年少，從母姓的新生兒升到 {momLatest}%',
+  's6.h2': '改名的人一年比一年少，從母姓的新生兒來到 {momLatest}%',
   's6.lede':
     '司法院大法官 1996 年的釋字第 399 號解釋把姓名權列為人格權。[^S31] 《姓名條例》列出可以改名的七種情形，其中「字義粗俗不雅、音譯過長或有特殊原因」這一款有次數上限：三次。[^S8]',
   's6.nc.title': '改名人數九年少了 {ncDropPct}%',
@@ -209,8 +209,9 @@ const zh: Dict = {
     '2013 年有 {nc2013} 人改名，2022 年是 {nc2022} 人。[^S1 p.73] 三次的上限只算「特殊原因」這一款。跟同事同名同姓、被收養、原住民族基於文化慣俗改名，都不算在三次裡。',
   's6.salmon.h': '鮭魚之亂有多少人',
   's6.salmon.p':
-    '2021 年 3 月，連鎖壽司店推出名字裡有「鮭魚」就免費的活動，兩天內各地有人到戶政事務所改名。人數沒有一份官方總表：報紙引戶政司資料寫 298 人申請、159 人已改回，[^S24] 立委質詢時引用的數字是 332 人。[^S25] 可以確定的寫法是「大約三百人」。事後《姓名條例》沒有因此修改，三次的上限照舊。',
-  's6.mom.title': '從母姓的新生兒，十七年從 {mom2008}% 到 {momLatest}%',
+    '2021 年 3 月，連鎖壽司店推出名字裡有「鮭魚」就免費的活動，兩天內各地有人到戶政事務所改名。人數沒有一份官方總表：報紙引戶政司資料寫 298 人申請、159 人已改回，[^S24] 立委質詢時引用的數字是 332 人。[^S25] 可以確定的寫法是「大約三百人」。《姓名條例》第 9 條三次的上限至今沒有變。',
+  's6.mom.title':
+    '從母姓的新生兒：{momMinYear} 年 {momMin}%，2025 年前九個月 {momLatest}%',
   's6.mom.sub': '各年出生登記從母姓的比率（%）。2025 年為 1 到 9 月',
   's6.mom.series': '從母姓',
   's6.mom.annot': '2025 年 1–9 月 {momLatest}%',
@@ -243,7 +244,7 @@ const zh: Dict = {
   's8.h2': '怎麼用這一頁',
   's8.g1.h': '看到一個台灣名字，怎麼稱呼',
   's8.g1.p':
-    '第一個字（複姓是前兩個字）是姓。稱呼用姓加稱謂，例如陳小姐、林老師。英文寫法有時把名放前面，看到連字號連著的兩個音節，那一組是名。原住民族的名字不一定有姓，照本人的寫法與順序。',
+    '第一個字（複姓是前兩個字）是姓。稱呼用姓加稱謂，例如陳小姐、林老師。英文寫法有時把名放前面，名的兩個音節常用短橫連在一起。原住民族的名字不一定有姓，照本人的寫法與順序。',
   's8.g2.h': '替虛構角色取名',
   's8.g2.p':
     '先決定角色哪一年生，從年代表找那一代常見的字。再決定家裡說什麼語言，這會影響長輩怎麼叫他。最後決定護照上用哪一套拼音，同一家人的姓要拼得一樣。',
@@ -285,7 +286,7 @@ const zh: Dict = {
   'tool.revFoot':
     '反查只知道音節，不知道聲調，也不知道是哪個漢字。同一個拼法可能對應好幾個音。',
   'tool.privacy':
-    '你輸入的內容只在這個頁面裡處理：不送到伺服器、不寫進網址、不儲存。',
+    '你輸入的內容只在這個頁面裡處理：不送到伺服器、不儲存，也不會自動寫進網址。',
   'tool.sysWg': '威妥瑪',
   'tool.sysWgSub': 'Wade–Giles',
   'tool.sysHanyu': '漢語拼音',
@@ -314,6 +315,9 @@ const zh: Dict = {
   'tool.altSpelling': '官方表另列：{x}',
   'tool.copy': '複製',
   'tool.copied': '已複製',
+  'tool.share': '複製分享連結',
+  'tool.shareNote':
+    '按了才會產生帶名字的網址；平常輸入的內容不會出現在網址裡。',
   'tool.warn39': '這個拼法超過護照規定的 39 個字母（含空格）。',
   'tool.sayTitle': '怎麼念',
   'tool.sayZhuyin': '注音',
@@ -327,9 +331,9 @@ const zh: Dict = {
     '不是四套華語拼音裡的音節。可能是台語、客語或原住民族語的拼法，可能是早期的其他拼音，也可能是英文名字。',
 
   // ── 拼音工具頁 ──
-  'rz.meta.title': '姓名拼音工具：中文姓名的四套官方拼法與念法',
+  'rz.meta.title': '姓名拼音工具 2026：中文姓名的四種護照拼法與念法',
   'rz.meta.desc':
-    '輸入中文姓名，並列威妥瑪、漢語拼音、通用拼音、國音第二式四套護照拼法，附注音、IPA 與台語客語姓氏讀音。也可以輸入拼音反查怎麼念。規則逐列對照外交部領事事務局 2026 年的對照表。',
+    '輸入中文姓名，並列威妥瑪、漢語拼音、通用拼音、國音第二式四套護照拼法，附注音與念法；也能輸入拼音反查怎麼念。規則逐列對照領事事務局 2026 年對照表。',
   'rz.hero.eyebrow': '台灣人的名字 · 工具',
   'rz.hero.title': '姓名拼音工具',
   'rz.hero.subtitle': '一個中文名字的四種官方拼法，以及看到拼音時怎麼念',
@@ -359,32 +363,58 @@ const zh: Dict = {
     '外交部領事事務局〈護照外文姓名拼音對照表〉，2026 年 5 月 29 日版。原表註明僅供參考。',
   'rz.table.summary': '展開 {bocaRows} 個音節',
   'rz.col.zy': '注音',
+  'rz.reading':
+    '四列是同一個名字照四套系統拼出來的結果，格式跟護照一樣：姓在前、逗號、名的音節之間用短橫。上面每個字底下是它的注音；字有不只一個讀音時會變成下拉選單，改選之後四列一起更新。「怎麼念」那一行給注音、帶聲調的漢語拼音與國際音標。',
+  'rz.disclaimer':
+    '這個工具是對照表的另一種查法，不是申請文件。護照外文姓名以外交部領事事務局的規定與核發結果為準。',
+  'rz.embedSource':
+    '拼法：外交部領事事務局〈護照外文姓名拼音對照表〉，2026-05-29 版',
+  'rz.related.main': '台灣人的名字：姓氏、世代、拼音與族語',
+  'rz.related.spelling': '為什麼同一個姓有四種拼法',
+  'rz.related.local': '台語、客語怎麼念這些姓',
+  'rz.faq.1.q': '護照的英文名字一定要用哪一種拼音嗎？',
+  'rz.faq.1.a':
+    '不用。領事事務局的對照表並列四套系統，並說明沒有強制申請人只能用哪一種。已經領過護照的人，換發時沿用原來的拼法。',
+  'rz.faq.2.q': '為什麼同一個姓，有人拼 Chang、有人拼 Zhang？',
+  'rz.faq.2.a':
+    '因為用的拼音系統不同。「張」在威妥瑪是 CHANG，漢語拼音是 ZHANG，通用拼音是 JHANG，國音第二式是 JANG，四種都在官方對照表上。',
+  'rz.faq.3.q': '可以照台語或客語的讀音拼嗎？',
+  'rz.faq.3.a':
+    '可以。2019 年 8 月 9 日起，護照外文姓名依「國家語言讀音」音譯。這個工具附前三十大姓的台語與客語姓氏讀音，名字的讀音請查教育部的台語、客語辭典。',
+  'rz.faq.4.q': '護照上的拼法之後可以改嗎？',
+  'rz.faq.4.a':
+    '換發護照原則上沿用原拼法。施行細則列出可以變更的情形，包括拼法跟國家語言讀音不符（以一次為限），以及姓氏拼法跟直系血親或兄弟姊妹不同。',
+  'rz.faq.5.q': '看到 Hsieh、Tsai 這種拼法，要怎麼知道怎麼念？',
+  'rz.faq.5.a':
+    '切到「拼音 → 怎麼念」，輸入拼法。工具會列出它在哪一套系統裡是合法音節、對應哪個注音。Hsieh 是威妥瑪的 ㄒㄧㄝ（例如謝），Tsai 是 ㄘㄞ（例如蔡）。',
+  'rz.faq.6.q': '我輸入的名字會被記錄嗎？',
+  'rz.faq.6.a':
+    '不會。計算都在你的瀏覽器裡完成，輸入的內容不會送到伺服器，也不會寫進網址，除非你自己按「複製分享連結」。',
 };
 
 const en: Dict = {
-  'meta.title':
-    'Taiwanese Names: how they work, what they tell you, and how to spell them',
+  'meta.title': 'Taiwanese Names: How They Work, Surnames and Spelling',
   'meta.desc':
-    'A guide to names in Taiwan: family name first, the ten surnames shared by half the country, the given names that date a person to a decade, why one name has four official spellings, and Indigenous names written in their own languages. With a name romanization tool.',
+    'How Taiwanese names work: family name first, ten surnames shared by half the country, names by generation and four official spellings. With a tool.',
   'hero.eyebrow': 'Feature · Names',
   'hero.title': 'Taiwanese Names',
   'hero.subtitle':
     '{nSurnames} surnames, four spelling systems, and names written back into their own languages',
   'hero.verse':
-    'One name, four spellings on a passport,\nand every one of them is official.\nThis page takes a name apart: the family, the generation, the sound, and who gets to decide.',
+    'One name can have four spellings on a passport,\nand every one of them is official.\nThis page takes a name apart: the family, the generation, the sound, and who gets to decide.',
   'hero.stat1.l': 'surnames in use',
   'hero.stat1.sub': 'as of 30 June 2023',
   'hero.stat2.l': 'of people share ten surnames',
   'hero.stat2.sub': 'Chen, Lin, Huang, Chang, Li, Wang, Wu, Liu, Tsai, Yang',
   'hero.stat3.l': 'syllables in the official table',
-  'hero.stat3.sub': 'each with four spellings',
+  'hero.stat3.sub': 'spelled in four systems side by side',
   'hero.stat4.l': 'of newborns take the mother’s surname',
   'hero.stat4.sub': 'Jan–Sep 2025, a record high',
   'anat.name': '王小明',
   'anat.surname': 'FAMILY NAME',
   'anat.given': 'GIVEN NAME',
   'anat.cap':
-    '王小明 (Wang Xiaoming) is the name Taiwanese textbooks and sample forms reach for, much like “John Smith”. Under the Bureau of Consular Affairs table its three characters can be spelled four ways, and the passport applicant chooses.[^S3][^S5]',
+    'This page uses 王小明 (Wang Xiaoming) as its example. Under the Bureau of Consular Affairs table its three characters can be spelled four ways, and the passport applicant chooses.[^S3][^S5]',
   'hero.brief': 'The three-minute version',
   'hero.jump': 'Jump to a section',
   'subnav.label': 'Sections',
@@ -406,7 +436,7 @@ const en: Dict = {
   'toc.s2': 'Generations',
   'toc.s2.take': 'A given name usually tells you the decade.',
   'toc.s3': 'Spelling',
-  'toc.s3.take': 'One surname, four official spellings.',
+  'toc.s3.take': 'One surname, up to four official spellings.',
   'toc.s4': 'Taigi & Hakka',
   'toc.s4.take': 'A passport may follow Taiwanese or Hakka sounds.',
   'toc.s5': 'Indigenous names',
@@ -422,16 +452,15 @@ const en: Dict = {
     'How to address people, name a character, and check our sources.',
 
   's0.kicker': 'Family name first, given name after.\nNothing in between.',
-  's0.h2':
-    'Three characters is the norm; the only rule is that the surname comes first',
+  's0.h2': 'Family name first, given name after: the order is the only rule',
   's0.lede':
     'A person’s legal name in Taiwan is the one on the household register, and the law allows exactly one.[^S8] It is usually a one-character family name followed by a two-character given name. There is no middle name and no patronymic. If you have just met someone called Chen Yi-chun, she is Ms. Chen.',
   's0.c1.h': 'Which part is the family name?',
   's0.c1.p':
     'The first. The Name Act puts the surname before the given name with no space or symbol between them.[^S8] Of {nSurnames} surnames in use, {nCompound} are two-character compounds held by {compoundPop} people; the most common are 張簡 (Changchien), 歐陽 (Ouyang) and 范姜 (Fanchiang).[^S1 p.24, 28] In English text some people flip the order, so look for the hyphen: in “Tsai Ing-wen” the hyphenated pair is the given name.',
-  's0.c2.h': 'Given names are mostly two characters',
+  's0.c2.h': 'How long is a name?',
   's0.c2.p':
-    '{singlePop} people, {singlePct}% of the population, have a single-character given name. Only {longTotal} people have names longer than six characters, and {longIndPct}% of them are Indigenous.[^S1 p.60, 83] The official report does not break down two-, three- and four-character names.',
+    '{singlePop} people, {singlePct}% of the population, have a single-character given name. {longTotal} people have names longer than six characters (not counting names divided by a dot or space), and {longIndPct}% of them are Indigenous.[^S1 p.60, 83] The official report does not break down two-, three- and four-character names.',
   's0.c3.h': 'Marriage does not change a surname',
   's0.c3.p':
     'Under article 1000 of the Civil Code each spouse keeps their own surname, and may add the other’s in front by written agreement.[^S13] {spouseTotal} people ({spousePct}%) still carry a spouse’s surname this way; {spouseFemPct}% of them are women.[^S1 p.37] So a mother and her children usually have different surnames.',
@@ -461,7 +490,7 @@ const en: Dict = {
   's1.tiles.sub':
     'Large character: the most common surname locally. Small characters: surnames in the local top ten that are not in the national top ten',
   's1.tiles.legend':
-    'In the two <b class="cool">blue</b> tiles the leading surname is 林 (Lin). The <b class="warm">orange</b> characters are local specialities: 游 (Yu) in Yilan, 彭徐曾 (Peng, Hsu, Tseng) in Hsinchu County, 許洪呂 (Hsu, Hung, Lu) in Penghu, 曹鄭 (Tsao, Cheng) in Lienchiang.',
+    'In the two <b class="cool">blue</b> tiles the leading surname is 林 (Lin). The <b class="warm">orange</b> characters are surnames found only in local rankings, for example 游 (Yu) in Yilan, 彭徐曾 (Peng, Hsu, Tseng) in Hsinchu County, 許洪呂 (Hsu, Hung, Lu) in Penghu and 曹鄭 (Tsao, Cheng) in Lienchiang.',
   's1.p1':
     '{chenN} people are named Chen, {chenPct}% of the population. Chen and Lin together make {chenLinPct}%, about one person in five.[^S1 p.26] By the hundredth surname the running total is {top100Pct}%.',
   's1.p2':
@@ -494,7 +523,7 @@ const en: Dict = {
 
   's3.kicker':
     'That line of Latin letters in the passport?\nThe holder picked it.',
-  's3.h2': 'One surname, four official spellings',
+  's3.h2': 'One surname, up to four official spellings',
   's3.lede':
     'A passport name is the Chinese name “transliterated character by character into Latin letters”.[^S6] For how, the Bureau of Consular Affairs publishes a table: {bocaRows} syllables, each spelled in four systems.[^S3] All four are acceptable, and the Bureau says it does not require any one of them.[^S5] This is why two Taiwanese colleagues with the same surname may spell it differently.',
   's3.rom.title': '張 can be CHANG, ZHANG, JHANG or JANG',
@@ -507,9 +536,9 @@ const en: Dict = {
   's3.col.tongyong': 'Tongyong Pinyin',
   's3.col.mps2': 'MPS II',
   's3.p1':
-    'Of the fifteen most common surnames, {romSame} are spelled the same in all four systems (Chen, Lin, Huang, Li and Wang among them); the rest have at least two spellings. Passport Wade–Giles drops the apostrophes that mark aspiration, so 許 and 徐 are both HSU and 張 and 常 are both CHANG.',
+    'Of the fifteen most common surnames, {romSame} are spelled the same in all four systems (Chen, Lin, Huang, Li and Wang among them); the rest have at least two spellings. Passport Wade–Giles drops the apostrophes that mark aspiration, so 張 and 常 are both CHANG. No system marks tones on a passport, so 許 and 徐 are spelled alike in each of them.',
   's3.p2':
-    'The passport rules themselves are short: surname first, a comma, then the given name, at most 39 letters including spaces; a renewed passport keeps the old spelling; and a spelling that differs from a parent’s or sibling’s may be changed to match.[^S6]',
+    'The passport rules themselves are short: surname first, a comma, then the given name, at most 39 letters including spaces; a renewed passport keeps the old spelling; and a surname spelled differently from that of a lineal relative or sibling may be changed to match.[^S6]',
   's3.p3':
     'Which system is most common on real passports? We found no official or academic count, and this page does not repeat unsourced claims.',
   's3.tl.h': 'The policy, by date',
@@ -519,7 +548,7 @@ const en: Dict = {
   's3.tool.more': 'Open the full romanization tool',
   's3.voices.h': 'Which system should be used? The positions',
   's3.voices.note':
-    '<b>A note on balance</b>　Most of these statements come from press coverage of the two policy changes, in 2000 and 2008. We found fewer first-hand statements from the Tongyong side.',
+    '<b>A note on balance</b>　Most of these statements come from press coverage of the two policy changes, in 2000 and 2008. We found few first-hand statements from either side.',
 
   's4.kicker': '陳 is Chén in Mandarin,\nTân in Taiwanese,\nCiin in Hakka.',
   's4.h2':
@@ -536,10 +565,10 @@ const en: Dict = {
   's4.p1':
     '黃 is N̂g in Taiwanese, 吳 is Ngôo and 許 is Khóo, none of which resembles the Mandarin spelling. Hakka has six varieties in Taiwan, and the same surname takes different tones in Sixian and Hailu.',
   's4.p2':
-    'This page lists surname readings for the thirty most common surnames only. For given names, use the name look-up in the Ministry of Education’s Taiwanese and Hakka dictionaries.[^S15][^S16] Someone who already holds a passport may change the spelling on the ground that it does not match the pronunciation, once.[^S6]',
+    'This page lists surname readings for the thirty most common surnames only. For given names, use the name look-up in the Ministry of Education’s Taiwanese and Hakka dictionaries.[^S15][^S16] The surname in a passport alias could already follow a mother-tongue reading from 2016. Someone who already holds a passport may change the spelling on the ground that it does not match the pronunciation, once.[^S6]',
 
   's5.kicker':
-    'For a long time someone else decided the name.\nNow it can be written back.',
+    'First changed by others, then restorable,\nnow registrable in its own script.',
   's5.h2':
     'Since 2024 an Indigenous name can be registered in its own script alone',
   's5.lede':
@@ -547,7 +576,7 @@ const en: Dict = {
   's5.tl.h': 'From renamed to written in their own language',
   's5.sys.h': 'Five ways to build a name',
   's5.sys.p':
-    'In 2025 the Council of Indigenous Peoples grouped the naming customs of the sixteen recognised peoples into five types.[^S11] It is a reference drawn from fieldwork, not a description of what every person does, and communities are still discussing it.',
+    'The Council of Indigenous Peoples groups the naming customs of the sixteen recognised peoples into five types.[^S11] It is a reference compiled by the Council; what an individual actually does may differ from the classification.',
   's5.sys.who': 'Peoples',
   's5.num.h': 'How many people use a traditional name',
   's5.p1':
@@ -571,9 +600,9 @@ const en: Dict = {
     '{nc2013} people changed their given name in 2013 and {nc2022} in 2022.[^S1 p.73] The limit of three applies only to the “special reasons” ground. Sharing a full name with a colleague, adoption, and changes made under Indigenous custom do not count toward it.',
   's6.salmon.h': 'How many people became “Salmon”?',
   's6.salmon.p':
-    'In March 2021 a sushi chain offered free meals to anyone with the characters for “salmon” (鮭魚) in their name, and for two days people queued at household registration offices to change theirs. There is no single official total. One newspaper, citing the household registration department, reported 298 applicants of whom 159 had already changed back;[^S24] a legislator cited 332.[^S25] “About three hundred” is as precise as the record allows. The Name Act was not amended afterwards, and the limit of three stands.',
+    'In March 2021 a sushi chain offered free meals to anyone with the characters for “salmon” (鮭魚) in their name, and over two days people went to household registration offices to change theirs. There is no single official total. One newspaper, citing the household registration department, reported 298 applicants of whom 159 had already changed back;[^S24] a legislator cited 332.[^S25] “About three hundred” is as precise as the record allows. The limit of three in article 9 of the Name Act has not changed since.',
   's6.mom.title':
-    'Newborns given the mother’s surname: from {mom2008}% to {momLatest}% in seventeen years',
+    'Newborns given the mother’s surname: {momMin}% in {momMinYear}, {momLatest}% in the first nine months of 2025',
   's6.mom.sub':
     'Share of birth registrations taking the mother’s surname (%). 2025 covers January to September',
   's6.mom.series': 'Mother’s surname',
@@ -653,7 +682,7 @@ const en: Dict = {
   'tool.revFoot':
     'The reverse look-up knows syllables, not tones, and cannot tell which character was meant. One spelling may match several sounds.',
   'tool.privacy':
-    'What you type stays on this page: it is not sent to a server, not put in the URL and not stored.',
+    'What you type stays on this page: it is not sent to a server, not stored, and not put in the URL unless you ask for a link.',
   'tool.sysWg': 'Wade–Giles',
   'tool.sysWgSub': '威妥瑪',
   'tool.sysHanyu': 'Hanyu Pinyin',
@@ -686,6 +715,9 @@ const en: Dict = {
   'tool.altSpelling': 'The official table also lists: {x}',
   'tool.copy': 'Copy',
   'tool.copied': 'Copied',
+  'tool.share': 'Copy a shareable link',
+  'tool.shareNote':
+    'The link will contain the name. Nothing you type appears in the URL unless you press this.',
   'tool.warn39':
     'This spelling is longer than the 39 letters (including spaces) a passport allows.',
   'tool.sayTitle': 'How to say it',
@@ -701,9 +733,9 @@ const en: Dict = {
     'Not a syllable in any of the four Mandarin systems. It may be spelled from Taiwanese, Hakka or an Indigenous language, it may use an older system, or it may be an English name.',
 
   'rz.meta.title':
-    'Taiwanese Name Romanization Tool: four official spellings and how to say them',
+    'Taiwanese Name Romanization Tool 2026: 4 Official Spellings',
   'rz.meta.desc':
-    'Type a Chinese name to see its passport spelling in Wade–Giles, Hanyu Pinyin, Tongyong Pinyin and MPS II, with Zhuyin, IPA and Taiwanese and Hakka surname readings. Or type a romanized Taiwanese name to see how it is pronounced. Tested against Taiwan’s official 2026 table.',
+    'Convert a Chinese name to its Taiwan passport spelling in Wade–Giles, Hanyu Pinyin, Tongyong and MPS II, or look up how a romanized name is said.',
   'rz.hero.eyebrow': 'Taiwanese Names · Tool',
   'rz.hero.title': 'Name Romanization Tool',
   'rz.hero.subtitle':
@@ -736,32 +768,59 @@ const en: Dict = {
     'Bureau of Consular Affairs, Passport Name Romanization Table, edition of 29 May 2026. The original is marked “for reference only”.',
   'rz.table.summary': 'Show all {bocaRows} syllables',
   'rz.col.zy': 'Zhuyin',
+  'rz.reading':
+    'The four rows are the same name in four systems, laid out as on a passport: surname, a comma, then the given name with a hyphen between syllables. Under each character is its reading in Zhuyin; where a character has more than one reading it becomes a menu, and all four rows update when you change it. The “How to say it” line gives Zhuyin, Hanyu Pinyin with tone marks, and IPA.',
+  'rz.disclaimer':
+    'This tool is another way of reading the official table, not an application form. The name on a passport is decided by the Bureau of Consular Affairs under its own rules.',
+  'rz.embedSource':
+    'Spellings: Bureau of Consular Affairs, Passport Name Romanization Table, 29 May 2026',
+  'rz.related.main': 'Taiwanese Names: how they work',
+  'rz.related.spelling': 'Why one surname has four spellings',
+  'rz.related.local': 'The same surnames in Taiwanese and Hakka',
+  'rz.faq.1.q': 'Which romanization system does Taiwan use for names?',
+  'rz.faq.1.a':
+    'There is no single one. The official passport table lists four systems side by side (Wade–Giles, Hanyu Pinyin, Tongyong Pinyin and MPS II), and the Bureau of Consular Affairs says applicants are not required to use any particular one. A renewed passport keeps the earlier spelling.',
+  'rz.faq.2.q': 'Why is the same Taiwanese surname spelled Chang and Zhang?',
+  'rz.faq.2.a':
+    'They are the same surname, 張, in different systems: CHANG in Wade–Giles, ZHANG in Hanyu Pinyin, JHANG in Tongyong Pinyin and JANG in MPS II. All four appear in the official table.',
+  'rz.faq.3.q': 'How do you pronounce Hsieh, Tsai or Hsu?',
+  'rz.faq.3.a':
+    'These are Wade–Giles spellings. Switch to “Spelling → pronunciation” and type the name: the tool shows the Zhuyin syllable, the Hanyu Pinyin equivalent and IPA. Hsieh is the syllable written xie in Pinyin, Tsai is cai and Hsu is xu.',
+  'rz.faq.4.q':
+    'Can a Taiwanese name be spelled from Taiwanese (Taigi) or Hakka?',
+  'rz.faq.4.a':
+    'Yes. Since 9 August 2019 a passport name may follow the reading in any national language, not only Mandarin. This tool gives Taiwanese and Hakka readings for the thirty most common surnames; for given names, use the Ministry of Education dictionaries.',
+  'rz.faq.5.q': 'Can the spelling on a Taiwan passport be changed later?',
+  'rz.faq.5.a':
+    'A renewed passport normally keeps the old spelling. The rules allow a change in listed cases, including a spelling that does not match the pronunciation (once only) and a surname spelled differently from a parent’s or sibling’s.',
+  'rz.faq.6.q': 'Is the name I type stored?',
+  'rz.faq.6.a':
+    'No. Everything is computed in your browser. What you type is not sent to a server and is not put in the URL unless you press “Copy a shareable link”.',
 };
 
 const ja: Dict = {
-  'meta.title':
-    '台湾人の名前：姓・世代・ローマ字表記・民族の名前をデータで読む',
+  'meta.title': '台湾人の名前：姓・世代・ローマ字表記・民族の名前',
   'meta.desc':
-    '同じ漢字でも読みは違う。上位10の姓で人口の半分、世代ごとに入れ替わる名前、パスポートに四通りある公式ローマ字、そして民族語だけで登記できるようになった原住民族の名前。台湾の公的統計と法令をもとに図解し、氏名ローマ字変換ツールも付けました。',
+    '台湾人の名前の仕組みをデータで解説。上位10姓で人口の半分、世代で変わる名前、パスポートの四つの公式ローマ字、民族語で登記できる原住民族の名前。変換ツール付き。',
   'hero.eyebrow': '特集・名前',
   'hero.title': '台湾人の名前',
   'hero.subtitle':
     '{nSurnames}の姓、四つのローマ字方式、そして民族語に書き戻された名前',
   'hero.verse':
-    '一つの名前に、パスポートでは四通りの綴りがある。\nどれも公式のもの。\nこのページでは名前を分解する。姓、名、音、そして誰が決めるのか。',
+    '一つの名前に、パスポートでは四通りの綴りがありうる。\nどれも公式のもの。\nこのページでは名前を分解する。姓、名、音、そして誰が決めるのか。',
   'hero.stat1.l': '台湾全体の姓の数',
   'hero.stat1.sub': '2023年6月末',
   'hero.stat2.l': '上位10姓が人口に占める割合',
-  'hero.stat2.sub': '陳・林・黄・張・李・王・呉・劉・蔡・楊',
+  'hero.stat2.sub': '陳・林・黃・張・李・王・吳・劉・蔡・楊',
   'hero.stat3.l': '公式対照表の音節数',
-  'hero.stat3.sub': '音節ごとに四通りの綴り',
+  'hero.stat3.sub': '四つの方式を併記',
   'hero.stat4.l': '母の姓を名乗る新生児',
   'hero.stat4.sub': '2025年1〜9月、過去最高',
   'anat.name': '王小明',
   'anat.surname': '姓',
   'anat.given': '名',
   'anat.cap':
-    '「王小明」は台湾の教科書や記入例でおなじみの名前で、日本の「山田太郎」にあたる。領事事務局の対照表に従うと、この三文字は四通りに綴ることができ、どれを使うかは申請する本人が決める。[^S3][^S5]',
+    'このページでは「王小明」を例に使う。領事事務局の対照表に従うと、この三文字は四通りに綴ることができ、どれを使うかは申請する本人が決める。[^S3][^S5]',
   'hero.brief': '3分で読む',
   'hero.jump': 'セクションへ移動',
   'subnav.label': 'セクション',
@@ -783,7 +842,7 @@ const ja: Dict = {
   'toc.s2': '世代',
   'toc.s2.take': '名前を聞けば、生まれた年代の見当がつく。',
   'toc.s3': 'ローマ字',
-  'toc.s3.take': '同じ姓に、公式の綴りが四つある。',
+  'toc.s3.take': '同じ姓に、公式の綴りが最大四つある。',
   'toc.s4': '台湾語・客家語',
   'toc.s4.take': 'パスポートは台湾語や客家語の読みでも綴れる。',
   'toc.s5': '原住民族',
@@ -796,18 +855,18 @@ const ja: Dict = {
   'toc.s8.take': '呼び方、名付け、出典の確認。',
 
   's0.kicker': '姓が先、名が後。\nあいだには何も入らない。',
-  's0.h2': '三文字が最も多いが、法律が定めるのは「姓を先に」だけ',
+  's0.h2': '姓が先、名が後。法律が定めるのはこの順序だけ',
   's0.lede':
     '台湾人の本名は戸籍に登記された名前で、法律上一つに限られる。[^S8] 多くは一文字の姓に二文字の名が続く。漢字は日本と共通していても読みは違い、「陳」は「ちん」ではなく華語で Chén と読む。まずこの基本形を押さえておきたい。以下の各節はその例外の話である。',
   's0.c1.h': '姓が先、名が後',
   's0.c1.p':
     '『姓名条例』第3条は、姓を先、名を後とし、間に空白や記号を入れないと定める。[^S8] 全国{nSurnames}の姓のうち{nCompound}が二文字の複姓で、合わせて{compoundPop}人。多いのは張簡、欧陽、范姜。[^S1 p.24, 28]',
-  's0.c2.h': '名は二文字が中心',
+  's0.c2.h': '名前の長さ',
   's0.c2.p':
-    '名が一文字の人は{singlePop}人で{singlePct}%。氏名が六文字を超える人は{longTotal}人で、その{longIndPct}%が原住民の身分を持つ。[^S1 p.60, 83] 二文字・三文字・四文字それぞれの割合は、内政部の報告書に統計がない。',
+    '名が一文字の人は{singlePop}人で{singlePct}%。氏名が六文字を超える人（中黒や空白で区切る名を除く）は{longTotal}人で、その{longIndPct}%が原住民の身分を持つ。[^S1 p.60, 83] 二文字・三文字・四文字それぞれの割合は、内政部の報告書に統計がない。',
   's0.c3.h': '結婚しても姓は変わらない',
   's0.c3.p':
-    '『民法』第1000条により、夫婦はそれぞれ自分の姓を保つ。書面で合意すれば配偶者の姓を自分の姓の前に付けることもできる。[^S13] 現在も配偶者の姓を冠している人は{spouseTotal}人（総人口の{spousePct}%）で、その{spouseFemPct}%が女性。[^S1 p.37] 日本の夫婦同姓とは出発点が異なる。',
+    '『民法』第1000条により、夫婦はそれぞれ自分の姓を保つ。書面で合意すれば配偶者の姓を自分の姓の前に付けることもできる。[^S13] 現在も配偶者の姓を冠している人は{spouseTotal}人（総人口の{spousePct}%）で、その{spouseFemPct}%が女性。[^S1 p.37]',
   's0.c4.h': '英語名は戸籍にない',
   's0.c4.p':
     '学校や職場で英語名を使う人は多いが、戸籍に登記されるのは中国語の氏名だけ。パスポートのローマ字は中国語氏名の音訳で、ほかに「外国語別名」を一つ記載できる。[^S6]',
@@ -831,7 +890,7 @@ const ja: Dict = {
   's1.tiles.sub':
     '大きい字は各県市で最も多い姓。小さい字は、その県市の上位10に入るが全国上位10には入らない姓',
   's1.tiles.legend':
-    '<b class="cool">青</b>の二つは最多の姓が「林」。<b class="warm">橙色の小さい字</b>は地域ならではの姓：宜蘭の游、新竹県の彭・徐・曽、澎湖の許・洪・呂、連江の曹・鄭。',
+    '<b class="cool">青</b>の二つは最多の姓が「林」。<b class="warm">橙色の小さい字</b>は地域の順位にだけ現れる姓で、たとえば宜蘭の游、新竹県の彭・徐・曾、澎湖の許・洪・呂、連江の曹・鄭。',
   's1.p1':
     '陳姓は{chenN}人で{chenPct}%。陳と林を合わせると{chenLinPct}%、およそ5人に1人になる。[^S1 p.26] 100位まで数えると累計は{top100Pct}%に達する。',
   's1.p2':
@@ -862,7 +921,7 @@ const ja: Dict = {
     '<b>この表でできないこと</b>　載っているのは各年代の上位10だけ。それ以外の名前や、姓と名の組み合わせはこのページになく、提供もしない。',
 
   's3.kicker': 'パスポートのあのローマ字は、\n本人が選んだもの。',
-  's3.h2': '同じ姓に、公式の綴りが四つある',
+  's3.h2': '同じ姓に、公式の綴りが最大四つある',
   's3.lede':
     'パスポートを申請するとき、中国語の氏名は「一字ずつラテン文字に音訳」する。[^S6] その方法として領事事務局は対照表を公開している。{bocaRows}の音節それぞれに、四つの方式の綴りが並ぶ。[^S3] 四つとも使ってよく、領事事務局はどれか一つを強制しないと明記している。[^S5] そのため、同じ「張」さんでも綴りが違うことがある。',
   's3.rom.title': '「張」は CHANG、ZHANG、JHANG、JANG のどれにもなる',
@@ -874,7 +933,7 @@ const ja: Dict = {
   's3.col.tongyong': '通用拼音',
   's3.col.mps2': '国音第二式',
   's3.p1':
-    '上位15姓のうち{romSame}は四方式とも同じ綴りになり（陳・林・黄・李・王など）、残りは少なくとも二通りに分かれる。パスポートのウェード式は有気音の記号を書かないので、許と徐はどちらも HSU、張と常はどちらも CHANG になる。',
+    '上位15姓のうち{romSame}は四方式とも同じ綴りになり（陳・林・黃・李・王など）、残りは少なくとも二通りに分かれる。パスポートのウェード式は有気音の記号を書かないので、張と常はどちらも CHANG になる。どの方式も声調を書かないため、許と徐はそれぞれの方式で同じ綴りになる。',
   's3.p2':
     'パスポートの規定そのものは少ない。姓が先、名が後、コンマで区切り、空白を含め39字以内。更新時は以前の綴りを引き継ぐ。親やきょうだいと姓の綴りが違う場合は、そろえる変更を申請できる。[^S6]',
   's3.p3':
@@ -886,7 +945,7 @@ const ja: Dict = {
   's3.tool.more': 'ローマ字変換ツールを開く',
   's3.voices.h': 'どの方式を使うべきか：それぞれの主張',
   's3.voices.note':
-    '<b>並べ方について</b>　以下の発言の多くは、2000年と2008年の二度の政策転換時の報道による。通用拼音を支持する側の一次的な声明は、今回見つかったものが少ない。',
+    '<b>並べ方について</b>　以下の発言の多くは、2000年と2008年の二度の政策転換時の報道による。どちらの立場も、一次的な声明は今回あまり見つからなかった。',
 
   's4.kicker': '陳は、華語で Chén、\n台湾語で Tân、\n客家語で Ciin。',
   's4.h2': '2019年から、パスポートは台湾語や客家語の読みでも綴れる',
@@ -902,16 +961,17 @@ const ja: Dict = {
   's4.p1':
     '黄は台湾語で N̂g、呉は Ngôo、許は Khóo と読み、華語の綴りとはまったく重ならない。客家語は台湾に六つの変種があり、同じ姓でも四県と海陸では声調が違う。',
   's4.p2':
-    'このページに載せたのは上位30姓の姓の読みだけ。名の台湾語・客家語の読みは、教育部『台湾台語常用詞辞典』『台湾客語辞典』の氏名検索を使ってほしい。[^S15][^S16] すでにパスポートを持つ人が読みとの不一致を理由に綴りを変えられるのは一度だけ。[^S6]',
+    'このページに載せたのは上位30姓の姓の読みだけ。名の台湾語・客家語の読みは、教育部『台湾台語常用詞辞典』『台湾客語辞典』の氏名検索を使ってほしい。[^S15][^S16] 外国語別名の姓は、2016年からすでに母語の読みで綴ることができた。すでにパスポートを持つ人が読みとの不一致を理由に綴りを変えられるのは一度だけ。[^S6]',
 
-  's5.kicker': '長いあいだ、名前は他人が決めていた。\nいまは自分で書き戻せる。',
+  's5.kicker':
+    'まず変えられ、やがて戻せるようになり、\nいまは民族語だけで登記できる。',
   's5.h2': '原住民族の名前は、2024年から民族語の文字だけで登記できる',
   's5.lede':
     '台湾の原住民族はそれぞれ独自の命名法を持ち、その構造は漢人の「姓＋名」とは異なる。1940年から総督府は台湾人に日本式氏名への改姓名を認め、戦後の政府は漢名を持たない原住民に漢名を定めさせた。1995年に法律が伝統名への回復を認め、2024年には漢字を伴わない登記も認めた。[^S8][^S12]',
   's5.tl.h': '改名させられてから、民族語に書き戻すまで',
   's5.sys.h': '名前の組み立て方、五つの型',
   's5.sys.p':
-    '原住民族委員会は2025年、16民族の命名慣習を五つの型に整理した。[^S11] 調査にもとづく参考であり、一人ひとりの実際の用法を表すものではない。各民族の内部でも議論が続いている。',
+    '原住民族委員会は、16民族の命名慣習を五つの型に整理している。[^S11] 委員会がまとめた参考であり、一人ひとりの実際の用法は分類と異なることがある。',
   's5.sys.who': '民族',
   's5.num.h': '伝統名を使う人はどれくらいか',
   's5.p1':
@@ -934,8 +994,9 @@ const ja: Dict = {
     '2013年の改名者は{nc2013}人、2022年は{nc2022}人。[^S1 p.73] 三回という上限は「特別な理由」の場合だけに適用される。同僚との同姓同名、養子縁組、原住民族の慣習にもとづく改名は回数に数えない。',
   's6.salmon.h': '「サーモン騒動」は何人だったのか',
   's6.salmon.p':
-    '2021年3月、回転寿司チェーンが名前に「鮭魚」（サーモン）の字がある人を無料にする企画を行い、二日間に各地の戸政事務所で改名する人が出た。公式の総数は一つに定まらない。新聞は戸政司の資料として申請298人、うち159人がすでに元の名に戻したと報じ、[^S24] 立法委員は質疑で332人という数字を挙げた。[^S25] 確かに言えるのは「およそ300人」まで。その後『姓名条例』はこの件を理由に改正されておらず、三回の上限も変わっていない。',
-  's6.mom.title': '母の姓を名乗る新生児：17年で{mom2008}%から{momLatest}%へ',
+    '2021年3月、寿司チェーンが名前に「鮭魚」（サーモン）の字がある人を無料にする企画を行い、二日間に各地の戸政事務所で改名する人が出た。公式の総数は一つに定まらない。新聞は戸政司の資料として申請298人、うち159人がすでに元の名に戻したと報じ、[^S24] 立法委員は質疑で332人という数字を挙げた。[^S25] 確かに言えるのは「およそ300人」まで。『姓名条例』第9条の三回という上限は、その後も変わっていない。',
+  's6.mom.title':
+    '母の姓を名乗る新生児：{momMinYear}年の{momMin}%から、2025年1〜9月は{momLatest}%',
   's6.mom.sub': '出生登記で母の姓を選んだ割合（%）。2025年は1〜9月',
   's6.mom.series': '母の姓',
   's6.mom.annot': '2025年1〜9月 {momLatest}%',
@@ -1012,7 +1073,7 @@ const ja: Dict = {
   'tool.revFoot':
     '逆引きでわかるのは音節だけで、声調も、どの漢字かもわからない。一つの綴りが複数の音に当たることがある。',
   'tool.privacy':
-    '入力内容はこのページの中だけで処理されます。サーバーに送らず、URLにも入れず、保存もしません。',
+    '入力内容はこのページの中だけで処理されます。サーバーに送らず、保存もせず、自動的にURLへ入ることもありません。',
   'tool.sysWg': 'ウェード式',
   'tool.sysWgSub': '威妥瑪 Wade–Giles',
   'tool.sysHanyu': '漢語拼音',
@@ -1044,6 +1105,9 @@ const ja: Dict = {
   'tool.altSpelling': '公式表の別表記：{x}',
   'tool.copy': 'コピー',
   'tool.copied': 'コピーしました',
+  'tool.share': '共有リンクをコピー',
+  'tool.shareNote':
+    '押したときだけ、名前を含むURLが作られます。入力しただけではURLに名前は入りません。',
   'tool.warn39':
     'この綴りは、パスポートの上限である39字（空白を含む）を超えています。',
   'tool.sayTitle': '読み方',
@@ -1057,9 +1121,9 @@ const ja: Dict = {
   'tool.revNone':
     '華語の四方式のどの音節にも当たらない。台湾語・客家語・原住民族語による綴りか、古い別の方式か、英語名の可能性がある。',
 
-  'rz.meta.title': '台湾の氏名ローマ字変換ツール：四つの公式表記と読み方',
+  'rz.meta.title': '台湾の氏名ローマ字変換ツール 2026：四つの公式表記と読み方',
   'rz.meta.desc':
-    '中国語の氏名を入力すると、ウェード式・漢語拼音・通用拼音・国音第二式の四方式によるパスポート表記を並べて表示。注音、IPA、台湾語・客家語の姓の読み付き。ローマ字から読み方を調べることもできます。台湾外交部領事事務局の2026年の対照表と全音節を照合済み。',
+    '中国語の氏名を入力すると、ウェード式・漢語拼音・通用拼音・国音第二式の四方式によるパスポート表記を表示。ローマ字から読み方も調べられます。台湾外交部の2026年対照表と照合済み。',
   'rz.hero.eyebrow': '台湾人の名前・ツール',
   'rz.hero.title': '氏名ローマ字変換ツール',
   'rz.hero.subtitle':
@@ -1085,12 +1149,39 @@ const ja: Dict = {
   'rz.how.p1':
     'まず漢字ごとに読み（注音）を調べ、規則に従って注音を四方式の綴りに変える。規則は領事事務局の対照表の{bocaRows}音節すべてと一マスずつ照合し、四方式とも一致して初めて合格としている。[^S3]',
   'rz.how.p2':
-    '字の読みは入力ソフト「小麦注音」の公開データ（21,745字）による。読みが複数ある字は、Unicode の Unihan データベースが示す台湾の読みを初期値とする。[^S30] 姓として特別な読みを持つ15字（曽・沈・単・解など）は個別に指定している。',
+    '字の読みは入力ソフト「小麦注音」の公開データ（21,745字）による。読みが複数ある字は、Unicode の Unihan データベースが示す台湾の読みを初期値とする。[^S30] 姓として特別な読みを持つ15字（曾・沈・單・解など）は個別に指定している。',
   'rz.table.h': '公式対照表の全文',
   'rz.table.p':
     '外交部領事事務局「護照外文姓名拼音對照表」2026年5月29日版。原表には「参考用」と明記されている。',
   'rz.table.summary': '{bocaRows}音節をすべて表示',
   'rz.col.zy': '注音',
+  'rz.reading':
+    '四つの行は、同じ名前を四つの方式で綴った結果で、パスポートと同じ形式（姓、コンマ、名の音節をハイフンでつなぐ）になっている。各漢字の下はその字の注音。読みが複数ある字はメニューになり、選び直すと四行とも更新される。「読み方」の行には注音、声調付きの漢語拼音、国際音声記号を示す。',
+  'rz.disclaimer':
+    'このツールは公式対照表を別の形で引けるようにしたもので、申請書類ではありません。パスポートの氏名表記は台湾外交部領事事務局の規定と発給結果によります。',
+  'rz.embedSource':
+    '綴り：外交部領事事務局「護照外文姓名拼音對照表」2026年5月29日版',
+  'rz.related.main': '台湾人の名前：姓・世代・ローマ字表記',
+  'rz.related.spelling': '同じ姓に綴りが四つある理由',
+  'rz.related.local': '同じ姓の台湾語・客家語の読み',
+  'rz.faq.1.q': '台湾人の名前のローマ字は、なぜ人によって綴りが違うのですか？',
+  'rz.faq.1.a':
+    '方式が一つに決まっていないためです。パスポート用の公式対照表はウェード式・漢語拼音・通用拼音・国音第二式の四つを並べており、領事事務局はどれか一つを強制していません。「張」は CHANG、ZHANG、JHANG、JANG のどれにもなります。',
+  'rz.faq.2.q': 'Hsieh や Tsai はどう読みますか？',
+  'rz.faq.2.a':
+    'どちらもウェード式の綴りです。「ローマ字 → 読み方」に切り替えて入力すると、対応する注音、漢語拼音、国際音声記号が表示されます。Hsieh は漢語拼音の xie（謝など）、Tsai は cai（蔡など）にあたります。',
+  'rz.faq.3.q': '台湾のパスポートではどのローマ字方式を使うのですか？',
+  'rz.faq.3.a':
+    '申請者が選べます。教育部の原則は漢語拼音を「奨励」していますが、人名は本人の意思を尊重できるとされています。パスポートを更新するときは以前の綴りを引き継ぎます。',
+  'rz.faq.4.q': '台湾語や客家語の読みで表記することはできますか？',
+  'rz.faq.4.a':
+    'できます。2019年8月9日から、パスポートの外国語氏名は「国家言語の読み」で音訳できるようになりました。このツールには上位30姓の台湾語・客家語の姓の読みを載せています。名の読みは教育部の辞典で調べてください。',
+  'rz.faq.5.q': '日本語の音読みと同じように読んでよいですか？',
+  'rz.faq.5.a':
+    '漢字は共通でも音は別です。「陳」は華語で Chén、台湾語で Tân と読みます。相手がどう呼ばれたいかを尋ねるのが確実です。',
+  'rz.faq.6.q': '入力した名前は保存されますか？',
+  'rz.faq.6.a':
+    '保存されません。計算はすべてブラウザ内で行われ、入力内容はサーバーに送られません。「共有リンクをコピー」を押さない限り、URLにも入りません。',
 };
 
 export const namesUI: Record<string, Dict> = { 'zh-TW': zh, en, ja };

@@ -1,0 +1,130 @@
+---
+/**
+ * names-name-romanization.template.astro — /names/name-romanization/ 姓名拼音工具單獨頁。
+ *
+ * 版型用共用的 ToolPage（契約 v1 第 4 節 (b)）：工具本體 → 結果怎麼讀 → 計算方式
+ * → 資料來源 → 常見問題 → 相關頁面 → 嵌入程式碼 → 免責聲明。
+ * 工具本體是 src/components/names/tools/NameRomanization.astro。
+ * 這一頁自己多放的：做不到的事（逐條）、官方對照表全文（沒有 JS 也查得到）。
+ */
+import '../styles/names.css';
+import ToolPage from '../components/tools/ToolPage.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import NameRomanization from '../components/names/tools/NameRomanization.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useNames } from '../i18n/names';
+import { getTopic, localizePath, pickText } from '../utils/topics/registry';
+import boca from '../data/names/boca-table.json';
+import { SOURCES } from '../data/names/story';
+import { nlang, pick3 } from '../utils/names/page';
+
+const lang = getLangFromUrl(Astro.url);
+const L = nlang(lang);
+const topic = getTopic('names')!;
+const tool = topic.tools.find((x) => x.slug === 'name-romanization')!;
+const table = boca as any;
+const tn0 = useNames(lang);
+const t = (k: string) => tn0(k, { bocaRows: table.rows.length });
+// 文案裡的來源記號在這一頁不出編號，來源另列在「資料來源」區
+const plain = (k: string) => t(k).replace(/\[\^S\d+[^\]]*\]/g, '');
+const faq = [1, 2, 3, 4, 5, 6].map((n) => ({
+  q: t(`rz.faq.${n}.q`),
+  a: t(`rz.faq.${n}.a`),
+}));
+const main = localizePath(topic.path, lang);
+const related = [
+  { href: `${main}#s3`, label: t('rz.related.spelling') },
+  { href: `${main}#s4`, label: t('rz.related.local') },
+];
+const sources = ['S3', 'S5', 'S6', 'S7', 'S15', 'S16', 'S30'].map(
+  (id) => SOURCES.find((x) => x.id === id)!,
+);
+---
+
+<ToolPage
+  lang={lang}
+  topic={topic}
+  tool={{ ...tool, applicationCategory: 'UtilitiesApplication' }}
+  metaTitle={t('rz.meta.title')}
+  metaDescription={t('rz.meta.desc')}
+  howItWorks={plain('rz.how.p1')}
+  faq={faq}
+  related={related}
+  updated={topic.updated}
+  embedPath={tool.embedPath}
+  embedHeight={720}
+>
+  <TopicNav lang={lang} topic={topic} />
+  <ToolFrame
+    title={pickText(tool.title, lang)}
+    description={pickText(tool.description, lang)}
+    variant="page"
+    lang={lang}
+    embedHref={tool.embedPath}
+  >
+    <NameRomanization lang={lang} variant="page" />
+    <p slot="sources">{t('rz.embedSource')}</p>
+    <p slot="disclaimer">{t('rz.disclaimer')}</p>
+  </ToolFrame>
+
+  <Fragment slot="reading">
+    <p>{t('rz.reading')}</p>
+  </Fragment>
+
+  <Fragment slot="method">
+    <p>{plain('rz.how.p2')}</p>
+    <h3>{t('rz.limits.h')}</h3>
+    <ol>
+      {[1, 2, 3, 4, 5, 6, 7, 8].map((n) => <li>{t(`rz.limits.${n}`)}</li>)}
+    </ol>
+    <h3>{t('rz.table.h')}</h3>
+    <p>{t('rz.table.p')}</p>
+    <details class="names-page" id="official-table">
+      <summary>{t('rz.table.summary')}</summary>
+      <div style="overflow-x:auto">
+        <table class="np-rom">
+          <thead>
+            <tr>
+              <th scope="col">{t('rz.col.zy')}</th>
+              <th scope="col">{t('s3.col.wg')}</th>
+              <th scope="col">{t('s3.col.mps2')}</th>
+              <th scope="col">{t('s3.col.tongyong')}</th>
+              <th scope="col">{t('s3.col.hanyu')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              table.rows.map((row: string[]) => (
+                <tr>
+                  <td lang="zh-Hant">{row[0]}</td>
+                  <td class="rom">{row[1]}</td>
+                  <td class="rom">{row[2]}</td>
+                  <td class="rom">{row[3]}</td>
+                  <td class="rom">{row[4]}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </details>
+  </Fragment>
+
+  <Fragment slot="sources">
+    <ul>
+      {
+        sources.map((sc) => (
+          <li>
+            <a href={sc.url} target="_blank" rel="noopener">
+              {pick3(sc.title, L)}
+            </a>{' '}
+            · {sc.date}
+          </li>
+        ))
+      }
+    </ul>
+  </Fragment>
+
+  <p slot="disclaimer">{t('rz.disclaimer')}</p>
+</ToolPage>

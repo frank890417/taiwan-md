@@ -1,0 +1,58 @@
+{
+  "id": "names",
+  "path": "/names/",
+  "title": {
+    "zh": "台灣人的名字",
+    "en": "Taiwanese Names",
+    "ja": "台湾人の名前"
+  },
+  "description": {
+    "zh": "姓氏分布、名字的世代、四套官方拼音、台語客語讀音與原住民族名字，附姓名拼音工具。",
+    "en": "Surnames, the given names that mark each generation, four official spellings, and Indigenous names, with a name romanization tool.",
+    "ja": "姓の分布、世代ごとの名前、四つの公式ローマ字、台湾語・客家語の読み、原住民族の名前。氏名ローマ字変換ツール付き。"
+  },
+  "emoji": "📝",
+  "updated": "2026-11-10",
+  "subpages": [],
+  "tools": [
+    {
+      "slug": "name-romanization",
+      "path": "/names/name-romanization/",
+      "embedPath": "/embed/names/name-romanization/",
+      "title": {
+        "zh": "姓名拼音工具 2026",
+        "en": "Taiwanese name romanization tool 2026",
+        "ja": "台湾の氏名ローマ字変換ツール 2026"
+      },
+      "description": {
+        "zh": "輸入中文姓名，並列威妥瑪、漢語拼音、通用拼音、國音第二式四套護照拼法；也能輸入拼音反查怎麼念。",
+        "en": "Type a Chinese name to see its passport spelling in four official systems, or type a romanized Taiwanese name to see how it is pronounced.",
+        "ja": "中国語の氏名を四つの公式方式のパスポート表記に変換。ローマ字から読み方を調べることもできます。"
+      },
+      "keywords": [
+        "護照英文名字",
+        "姓名拼音",
+        "外文姓名中譯英",
+        "威妥瑪拼音",
+        "漢語拼音",
+        "通用拼音",
+        "Taiwanese name romanization",
+        "Taiwan passport name spelling",
+        "Wade-Giles converter",
+        "how to pronounce Taiwanese names",
+        "台湾 名前 ローマ字"
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "/culture/菜市場名/",
+    "/culture/台灣人小時候的英文名字/",
+    "/culture/台灣原住民族姓名/",
+    "/politics/原住民族正名/",
+    "/history/台灣原住民族歷史與正名運動/",
+    "/culture/注音符號/",
+    "/culture/語言多樣性與母語文化/",
+    "/culture/客家文化與語言/"
+  ],
+  "relatedTopics": ["income", "health"]
+}

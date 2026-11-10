@@ -32,6 +32,8 @@ author: 'Taiwan.md'
 > **30-Second Overview:**
 > "Market names" (菜市場名, literally "wet-market names") are names so common that shouting them in a market will make a crowd of people turn around at once. This is not a joke: according to the Ministry of Interior's most recent statistics from 2024, there are over 30,000 women named "Shu-Fen" (淑芬) and over 14,000 men named "Jia-Hao" (家豪) across Taiwan, and they have held the top spots for men's and women's most common names for over a decade.[^1] These names do not reflect parental laziness — they are the collective consensus of each era in Taiwanese society about what a good name looks like.
 
+> **Looking for the basics?** Which part is the family name, why one surname has four spellings, and how Indigenous names are written are covered in our feature [Taiwanese Names](/en/names/). To spell a Chinese name the way a Taiwan passport would, try the [name romanization tool](/en/names/name-romanization/).
+
 ---
 
 ## Shu-Fen and Zhi-Ming: The Default Names of the Baby Boom Generation

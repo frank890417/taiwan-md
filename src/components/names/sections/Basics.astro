@@ -1,0 +1,317 @@
+---
+/**
+ * Basics — /names 專題主頁的一組段落（構造、姓氏、年代）。資料全部來自 src/utils/names/model.ts 的模型，
+ * 這裡只有版面。樣式沿用 src/styles/budget.css 與 src/styles/names.css。
+ */
+import HBars from '../HBars.astro';
+import TrendLine from '../TrendLine.astro';
+import NameRomanization from '../tools/NameRomanization.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import { useTranslatedPath } from '../../../i18n/utils';
+import { pickText } from '../../../utils/topics/registry';
+import type { NamesModel } from '../../../utils/names/model';
+
+interface Props {
+  m: NamesModel;
+}
+const M = Astro.props.m as any;
+const {
+  lang,
+  fmtInt,
+  wgGiven,
+  en,
+  m,
+  rows,
+  conc,
+  lin,
+  cohortsF,
+  cohortsM,
+  t,
+  r,
+  concSegs,
+  top20Bars,
+  tiles,
+  nameCell,
+  cohortRows,
+  yearsLabel,
+  rocLabel,
+  related,
+  REL,
+  moiSrc,
+} = M;
+const translatePath = useTranslatedPath(M.lang);
+---
+
+<!-- §0 構造 -->
+<section class="bp-section" id="s0">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s0.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s0.h2')}</h2>
+    <p class="bp-lede" set:html={r('s0.lede')} />
+    <div class="bp-guide">
+      {
+        [1, 2, 3, 4].map((n) => (
+          <div class="bp-guide-card">
+            <h4>{t(`s0.c${n}.h`)}</h4>
+            <p set:html={r(`s0.c${n}.p`)} />
+          </div>
+        ))
+      }
+    </div>
+    {
+      REL.s0.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s0.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<!-- §1 姓氏 -->
+<section class="bp-section" id="s1">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s1.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s1.h2')}</h2>
+    <p class="bp-lede" set:html={r('s1.lede')} />
+
+    <figure class="bg-chart np-conc" id="c-conc">
+      <h4 class="bg-chart-title">{t('s1.conc.title')}</h4>
+      <p class="bg-chart-sub">{t('s1.conc.sub')}</p>
+      <div class="np-conc-bar" role="img" aria-label={t('s1.conc.title')}>
+        {
+          concSegs.map((sg) => (
+            <div
+              class={`np-conc-seg ${sg.cls}`}
+              style={`width:${sg.pct}%`}
+              title={`${sg.label}：${sg.pct}%`}
+            >
+              {sg.pct >= 8 ? `${sg.pct}%` : ''}
+            </div>
+          ))
+        }
+      </div>
+      <ul class="np-conc-legend">
+        {
+          concSegs.map((sg) => (
+            <li>
+              <i class={sg.cls} />
+              {sg.label} <b>{sg.pct}%</b>
+            </li>
+          ))
+        }
+      </ul>
+      <figcaption class="bg-chart-src">
+        {t('common.src')}{moiSrc}，p.25
+      </figcaption>
+    </figure>
+
+    <div class="bp-prose">
+      <p set:html={r('s1.p1')} />
+      <p set:html={r('s1.p2')} />
+    </div>
+
+    <HBars
+      id="c-surnames"
+      title={t('s1.bars.title')}
+      subtitle={t('s1.bars.sub')}
+      rows={top20Bars}
+      tick={(v: number) =>
+        v === 0
+          ? '0'
+          : en
+            ? `${(v / 1e6).toFixed(1)}M`
+            : `${v / 10000}${t('common.wan')}`}
+      source={`${moiSrc}，p.282–283；${t('common.derived')}`}
+      sourceLabel={t('common.src')}
+      tableLabel={t('common.table')}
+      cols={[t('s1.bars.col1'), t('s1.bars.col2'), t('common.share')]}
+    />
+
+    <figure class="bg-chart" id="c-tiles">
+      <h4 class="bg-chart-title">{t('s1.tiles.title')}</h4>
+      <p class="bg-chart-sub">{t('s1.tiles.sub')}</p>
+      <div class="np-tiles" role="img" aria-label={t('s1.tiles.title')}>
+        {
+          tiles.map((tile) =>
+            tile ? (
+              <div
+                class={`np-tile ${tile.top === '林' ? 'is-lin' : ''}`}
+                title={`${tile.name}：${tile.full}（${tile.pct}%）`}
+              >
+                <span class="np-tile-c">{tile.name}</span>
+                <span class="np-tile-top" lang="zh-Hant">
+                  {tile.top}
+                </span>
+                <span class="np-tile-local" lang="zh-Hant">
+                  {tile.local.join('')}
+                </span>
+              </div>
+            ) : (
+              <div class="np-tile is-empty" aria-hidden="true" />
+            ),
+          )
+        }
+      </div>
+      <p class="np-tiles-legend" set:html={t('s1.tiles.legend')} />
+      <figcaption class="bg-chart-src">
+        {t('common.src')}{moiSrc}，p.30
+      </figcaption>
+      <details class="bg-table">
+        <summary>{t('common.table')}</summary>
+        <div class="bg-table-wrap">
+          <table>
+            <tbody>
+              {
+                tiles
+                  .filter((x) => !!x)
+                  .map((x) => (
+                    <tr>
+                      <td>{x!.name}</td>
+                      <td lang="zh-Hant">{x!.full}</td>
+                      <td class="num">{x!.pct}%</td>
+                    </tr>
+                  ))
+              }
+            </tbody>
+          </table>
+        </div>
+      </details>
+    </figure>
+
+    <div class="bp-prose">
+      <p set:html={r('s1.p3')} />
+    </div>
+    <p class="bp-note" set:html={r('s1.note')} />
+    {
+      REL.s1.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s1.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<!-- §2 年代 -->
+<section class="bp-section" id="s2">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s2.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s2.h2')}</h2>
+    <p class="bp-lede" set:html={r('s2.lede')} />
+
+    <figure class="bg-chart" id="c-cohort">
+      <h4 class="bg-chart-title">{t('s2.tbl.title')}</h4>
+      <p class="bg-chart-sub">{t('s2.tbl.sub')}</p>
+      <table class="np-cohort">
+        <thead>
+          <tr>
+            <th scope="col">{t('s2.col.years')}</th>
+            <th scope="col">{t('s2.col.f')}</th>
+            <th scope="col">{t('s2.col.m')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            cohortRows.map(({ f, mm }) => (
+              <tr class={f.top[0][1] < 1000 ? 'is-thin' : ''}>
+                <th scope="row">
+                  {yearsLabel(f)}
+                  <small>{rocLabel(f)}</small>
+                </th>
+                {[
+                  ['np-co-f', f],
+                  ['np-co-m', mm],
+                ].map(([cls, c]: any) => (
+                  <td class={cls}>
+                    <span class="np-co-first">
+                      <span lang="zh-Hant">{c.top[0][0]}</span>
+                      {en && (
+                        <span class="np-co-py">{wgGiven(c.top[0][0])}</span>
+                      )}
+                      <span class="np-co-n">{fmtInt(c.top[0][1])}</span>
+                    </span>
+                    <span class="np-co-rest">
+                      {c.top
+                        .slice(1, 3)
+                        .map(
+                          (x: [string, number]) =>
+                            `${nameCell(x[0])} ${fmtInt(x[1])}`,
+                        )
+                        .join(t('common.sep'))}
+                    </span>
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+      <figcaption class="bg-chart-src">
+        {t('common.src')}{moiSrc}，p.280–281
+      </figcaption>
+      <details class="bg-table">
+        <summary>{t('s2.more')}</summary>
+        <div class="bg-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>{t('s2.col.years')}</th>
+                <th>{t('s2.col.f')}</th>
+                <th>{t('s2.col.m')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {
+                cohortsF.map((f: any, i: number) => (
+                  <tr>
+                    <td>{yearsLabel(f)}</td>
+                    <td lang="zh-Hant">
+                      {f.top
+                        .map((x: [string, number]) => `${x[0]} ${fmtInt(x[1])}`)
+                        .join('、')}
+                    </td>
+                    <td lang="zh-Hant">
+                      {cohortsM[i].top
+                        .map((x: [string, number]) => `${x[0]} ${fmtInt(x[1])}`)
+                        .join('、')}
+                    </td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+      </details>
+    </figure>
+
+    <div class="bp-prose">
+      <p set:html={r('s2.p1')} />
+      <p set:html={r('s2.p2')} />
+      <p set:html={r('s2.p3')} />
+    </div>
+    <p class="bp-note" set:html={r('s2.note')} />
+    {
+      REL.s2.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s2.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

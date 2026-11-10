@@ -1,0 +1,239 @@
+---
+/**
+ * Spelling — /names 專題主頁的一組段落（拼音、台語客語）。資料全部來自 src/utils/names/model.ts 的模型，
+ * 這裡只有版面。樣式沿用 src/styles/budget.css 與 src/styles/names.css。
+ */
+import HBars from '../HBars.astro';
+import TrendLine from '../TrendLine.astro';
+import NameRomanization from '../tools/NameRomanization.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import { useTranslatedPath } from '../../../i18n/utils';
+import { pickText } from '../../../utils/topics/registry';
+import type { NamesModel } from '../../../utils/names/model';
+
+interface Props {
+  m: NamesModel;
+}
+const M = Astro.props.m as any;
+const {
+  lang,
+  romTool,
+  pick3,
+  SOURCES,
+  ROMAN_TIMELINE,
+  ROMAN_VOICES,
+  L,
+  romTop15,
+  t,
+  r,
+  sr,
+  localRows,
+  toneSup,
+  related,
+  REL,
+  voices,
+  timeline,
+} = M;
+const translatePath = useTranslatedPath(M.lang);
+---
+
+<!-- §3 拼音 -->
+<section class="bp-section" id="s3">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s3.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s3.h2')}</h2>
+    <p class="bp-lede" set:html={r('s3.lede')} />
+
+    <figure class="bg-chart" id="c-rom">
+      <h4 class="bg-chart-title">{t('s3.rom.title')}</h4>
+      <p class="bg-chart-sub">{t('s3.rom.sub')}</p>
+      <div class="np-rom-wrap">
+        <table class="np-rom">
+          <thead>
+            <tr>
+              <th scope="col">{t('s3.col.han')}</th>
+              <th scope="col">{t('s3.col.zy')}</th>
+              <th scope="col">{t('s3.col.wg')}</th>
+              <th scope="col">{t('s3.col.hanyu')}</th>
+              <th scope="col">{t('s3.col.tongyong')}</th>
+              <th scope="col">{t('s3.col.mps2')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              romTop15.map((x) => (
+                <tr>
+                  <td class="han" lang="zh-Hant">
+                    {x.surname}
+                  </td>
+                  <td lang="zh-Hant">{x.zhuyin}</td>
+                  <td class="rom">{x.wg}</td>
+                  <td class={`rom ${x.hanyu !== x.wg ? 'is-diff' : ''}`}>
+                    {x.hanyu}
+                  </td>
+                  <td class={`rom ${x.tongyong !== x.wg ? 'is-diff' : ''}`}>
+                    {x.tongyong}
+                  </td>
+                  <td class={`rom ${x.mps2 !== x.wg ? 'is-diff' : ''}`}>
+                    {x.mps2}
+                  </td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <figcaption class="bg-chart-src">
+        {t('common.src')}{pick3(SOURCES[2].title, L)}，{SOURCES[2].date}
+      </figcaption>
+    </figure>
+
+    <div class="bp-prose">
+      <p set:html={r('s3.p1')} />
+      <p set:html={r('s3.p2')} />
+      <p set:html={r('s3.p3')} />
+    </div>
+
+    <h3 class="bp-h3">{t('s3.tool.h')}</h3>
+    <p class="bp-lede">{t('s3.tool.p')}</p>
+    <ToolFrame
+      title={pickText(romTool.title, lang)}
+      description={pickText(romTool.description, lang)}
+      variant="inline"
+      lang={lang}
+      standaloneHref={romTool.path}
+      embedHref={romTool.embedPath}
+    >
+      <NameRomanization lang={lang} variant="inline" />
+      <p slot="sources">{t('rz.embedSource')}</p>
+      <p slot="disclaimer">{t('rz.disclaimer')}</p>
+    </ToolFrame>
+    <div class="np-cta">
+      <a href={translatePath('/names/name-romanization')}
+        >{t('s3.tool.more')} →</a
+      >
+    </div>
+
+    <h3 class="bp-h3">{t('s3.tl.h')}</h3>
+    <ol class="bp-timeline">
+      {
+        timeline(ROMAN_TIMELINE).map((e) => (
+          <li class={`bp-tl-item ${e.cls}`}>
+            <div class="bp-tl-date">{e.date}</div>
+            <div class="bp-tl-title" set:html={e.html} />
+          </li>
+        ))
+      }
+    </ol>
+
+    <h3 class="bp-h3">{t('s3.voices.h')}</h3>
+    <div class="bp-versus">
+      {
+        voices(ROMAN_VOICES).map((v) => (
+          <div class={`bp-side ${v.cls}`}>
+            <h4>{v.title}</h4>
+            <ul>
+              {v.items.map((it) => (
+                <li set:html={it.html} />
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <p class="bp-note" set:html={r('s3.voices.note')} />
+    {
+      REL.s3.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s3.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<!-- §4 台語客語 -->
+<section class="bp-section" id="s4">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s4.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s4.h2')}</h2>
+    <p class="bp-lede" set:html={r('s4.lede')} />
+
+    <figure class="bg-chart" id="c-local">
+      <h4 class="bg-chart-title">{t('s4.tbl.title')}</h4>
+      <p class="bg-chart-sub">{t('s4.tbl.sub')}</p>
+      <div class="np-rom-wrap">
+        <table class="np-rom">
+          <thead>
+            <tr>
+              <th scope="col">{t('s3.col.han')}</th>
+              <th scope="col">{t('s4.col.mandarin')}</th>
+              <th scope="col" class="grp-local">{t('s4.col.taigi')}</th>
+              <th scope="col">{t('s4.col.sixian')}</th>
+              <th scope="col">{t('s4.col.hailu')}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              localRows.map((x: any) => (
+                <tr>
+                  <td class="han" lang="zh-Hant">
+                    {x.surname}
+                  </td>
+                  <td class="local">{x.toned}</td>
+                  <td class="local grp-local">
+                    <a
+                      href={x.href}
+                      target="_blank"
+                      rel="noopener"
+                      lang="nan-Latn"
+                    >
+                      {x.taigi}
+                    </a>
+                  </td>
+                  <td
+                    class="local"
+                    lang="hak-Latn"
+                    set:html={toneSup(x.hakkaSixian)}
+                  />
+                  <td
+                    class="local"
+                    lang="hak-Latn"
+                    set:html={toneSup(x.hakkaHailu)}
+                  />
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <figcaption class="bg-chart-src">
+        {t('common.src')}{pick3(SOURCES[14].title, L)}；{
+          pick3(SOURCES[15].title, L)
+        }（{sr.meta.taigi.license}）
+      </figcaption>
+    </figure>
+
+    <div class="bp-prose">
+      <p set:html={r('s4.p1')} />
+      <p set:html={r('s4.p2')} />
+    </div>
+    {
+      REL.s4.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('common.related')}</span>
+          {REL.s4.map((x) => (
+            <a href={x.href} title={x.desc}>
+              {x.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>

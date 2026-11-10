@@ -180,7 +180,7 @@ export const SOURCES: Source[] = [
   {
     id: 'S17',
     title: {
-      zh: '美國之音中文網：〈台灣中文譯音明年起改用漢語拼音〉',
+      zh: '美國之音中文網：〈台灣擬改用漢語拼音引發綠營不滿〉',
       en: 'VOA Chinese, report on the 2008 switch to Hanyu Pinyin (in Chinese)',
       ja: 'VOA中国語版：2008年の漢語拼音採用に関する報道（中国語）',
     },
@@ -190,8 +190,8 @@ export const SOURCES: Source[] = [
   {
     id: 'S18',
     title: {
-      zh: 'Taipei Times：〈Tongyong Pinyin the new system for romanization〉',
-      en: 'Taipei Times, “Tongyong Pinyin the new system for romanization”',
+      zh: 'Taipei Times：〈The case for Tongyong Pinyin〉',
+      en: 'Taipei Times, “The case for Tongyong Pinyin”',
       ja: 'Taipei Times：通用拼音採用に関する報道（英語）',
     },
     url: 'https://www.taipeitimes.com/News/local/archives/2000/10/12/0000056944',
@@ -210,7 +210,7 @@ export const SOURCES: Source[] = [
   {
     id: 'S20',
     title: {
-      zh: 'Right Plus 多多益善：〈以我的族名呼喚我〉系列報導',
+      zh: 'Right Plus 多多益善：「和國家討回我的名字」系列報導之一',
       en: 'Right Plus, reporting on single-listed Indigenous names (in Chinese)',
       ja: 'Right Plus：民族語の名前の単独登記に関する報道（中国語）',
     },
@@ -230,7 +230,7 @@ export const SOURCES: Source[] = [
   {
     id: 'S22',
     title: {
-      zh: '中時新聞網：尖石鄉回復傳統姓名人數與原民會說明',
+      zh: '中時新聞網報導：尖石鄉回復傳統姓名的人數與新竹縣政府的說明',
       en: 'China Times, on name restoration in Jianshi Township (in Chinese)',
       ja: '中時新聞網：尖石郷の伝統名回復者数（中国語）',
     },
@@ -240,7 +240,7 @@ export const SOURCES: Source[] = [
   {
     id: 'S23',
     title: {
-      zh: '公視新聞：族名並列後的印章與金融機構問題',
+      zh: '公視新聞：〈台東160族人尚未完成登記 原民身分恐遭取消〉',
       en: 'PTS News, on practical problems after adding Indigenous names (in Chinese)',
       ja: '公視ニュース：民族名併記後の実務上の問題（中国語）',
     },
@@ -250,8 +250,8 @@ export const SOURCES: Source[] = [
   {
     id: 'S24',
     title: {
-      zh: 'Taipei Times：〈Dozens change name to ‘salmon’ to cash in on sushi deal〉',
-      en: 'Taipei Times, “Dozens change name to ‘salmon’ to cash in on sushi deal”',
+      zh: 'Taipei Times：〈Majority who changed name revert〉',
+      en: 'Taipei Times, “Majority who changed name revert”',
       ja: 'Taipei Times：「サーモン」改名騒動の報道（英語）',
     },
     url: 'https://taipeitimes.com/News/taiwan/archives/2021/03/21/2003754223',
@@ -349,9 +349,9 @@ export const ROMAN_TIMELINE: TimelineItem[] = [
   {
     date: '1986-01',
     text: {
-      zh: '教育部公告「國語注音符號第二式」，是戰後政府第一套自訂的羅馬拼音。',
-      en: 'The Ministry of Education announces MPS II, the first postwar romanization system designed by the government.',
-      ja: '教育部が「国語注音符号第二式」を公告。戦後、政府が自ら定めた最初のローマ字方式。',
+      zh: '教育部公告「國語注音符號第二式」，由原有的「譯音符號」修訂而來。',
+      en: 'The Ministry of Education announces MPS II, a revision of the earlier official “transliteration symbols”.',
+      ja: '教育部が「国語注音符号第二式」を公告。従来の「訳音符号」を改訂したもの。',
     },
     src: 'S4',
   },
@@ -367,9 +367,9 @@ export const ROMAN_TIMELINE: TimelineItem[] = [
   {
     date: '2002-08-22',
     text: {
-      zh: '行政院備查《中文譯音使用原則》，地名譯音以通用拼音為準。',
-      en: 'The Executive Yuan files the Guidelines on Chinese Romanization: place names are to use Tongyong Pinyin.',
-      ja: '行政院が『中文訳音使用原則』を備査。地名のローマ字は通用拼音を基準とする。',
+      zh: '行政院備查《中文譯音使用原則》，地名與護照外文姓名的譯音以通用拼音為準，原有護照的拼法可以沿用。',
+      en: 'The Executive Yuan files the Guidelines on Chinese Romanization: place names and passport names are to use Tongyong Pinyin, while existing passport spellings may be kept.',
+      ja: '行政院が『中文訳音使用原則』を備査。地名とパスポートの氏名は通用拼音を基準とし、既存のパスポートの綴りは引き継げるとした。',
     },
     src: 'S7',
   },
@@ -425,11 +425,11 @@ export const INDIGENOUS_TIMELINE: TimelineItem[] = [
     src: 'S12',
   },
   {
-    date: '1946-05-21',
+    date: '1945-12 / 1946-05',
     text: {
-      zh: '行政長官公署公布《修正臺灣省人民回復原有姓名辦法》，限三個月內申辦。沒有原有漢名可以回復的原住民，辦法要他們參照中國姓名自定姓名。',
-      en: 'The postwar provincial administration orders residents to restore their original names within three months. Indigenous people with no Chinese-style name to “restore” are told to adopt one.',
-      ja: '行政長官公署が「修正台湾省人民回復原有姓名弁法」を公布、3か月以内の手続きを求める。回復すべき漢名を持たない原住民は、中国式の氏名を自ら定めることとされた。',
+      zh: '行政長官公署訂定《臺灣省人民回復原有姓名辦法》：沒有原有姓名可以回復的原住民，得參照中國姓名自定姓名。1946 年 5 月的修正版加上三個月的申辦期限。',
+      en: 'The postwar provincial administration issues rules for restoring original names: Indigenous people with no earlier name to restore may choose a name on the Chinese model. A May 1946 revision adds a three-month deadline.',
+      ja: '行政長官公署が「台湾省人民回復原有姓名弁法」を定める。回復すべき元の氏名を持たない原住民は、中国式の氏名を自ら定めることができるとした。1946年5月の改正で3か月の申請期限が加わった。',
     },
     src: 'S12',
   },
@@ -563,9 +563,9 @@ export const NAMING_SYSTEMS: NamingSystem[] = [
       ja: 'ブヌン、ツォウ、サオ、カナカナブ、サアロア',
     },
     note: {
-      zh: '結構最接近「名＋姓」，只是順序是名在前。',
-      en: 'Structurally the closest to “given name + surname”, with the given name first.',
-      ja: '構造は「名＋姓」に最も近いが、名が先に来る。',
+      zh: '名在前，氏族名在後。',
+      en: 'The personal name comes first, the clan name after it.',
+      ja: '個人名が先、氏族名が後に来る。',
     },
   },
   {
@@ -577,9 +577,9 @@ export const NAMING_SYSTEMS: NamingSystem[] = [
     },
     peoples: { zh: '雅美（達悟）', en: 'Yami (Tao)', ja: 'ヤミ（タオ）' },
     note: {
-      zh: '第一個孩子出生後，父母與祖父母的名字都跟著改，一生會換好幾個名字。',
-      en: 'When a first child is born, parents and grandparents all take new names; a person is renamed several times in a lifetime.',
-      ja: '最初の子が生まれると父母・祖父母の名も変わる。一生のうちに何度も名が変わる。',
+      zh: '第一個孩子出生後，父母與祖父母的名字都跟著改。',
+      en: 'When a first child is born, parents and grandparents all take new names.',
+      ja: '最初の子が生まれると、父母・祖父母の名も変わる。',
     },
   },
 ];
@@ -612,9 +612,9 @@ export const ROMAN_VOICES: VoiceSide[] = [
       },
       {
         text: {
-          zh: '領事事務局的系統介紹：漢語拼音是國際標準組織採認的中文羅馬拼音標準，通用於國際學術出版與圖書資訊。',
-          en: 'Bureau of Consular Affairs notes: Hanyu Pinyin is the ISO-recognised standard, widely used in academic publishing and library systems.',
-          ja: '領事事務局の解説：漢語拼音はISOが採用する標準で、国際的な学術出版や図書情報で広く使われている。',
+          zh: '教育部的系統說明（領事事務局轉載）：漢語拼音是國際標準組織採認的中文羅馬拼音標準，通用於國際學術出版與圖書資訊。',
+          en: 'Ministry of Education notes, republished by the Bureau of Consular Affairs: Hanyu Pinyin is the ISO-recognised standard, widely used in academic publishing and library systems.',
+          ja: '教育部の解説（領事事務局が転載）：漢語拼音はISOが採用する標準で、国際的な学術出版や図書情報で広く使われている。',
         },
         src: 'S4',
       },
@@ -716,9 +716,9 @@ export const INDIGENOUS_VOICES: VoiceSide[] = [
       },
       {
         text: {
-          zh: '原民會處長雲天寶（2024）：流通的文書以漢語為主，改回傳統名字要換掉所有證件，並列羅馬拼音又缺少誘因。',
-          en: 'Yun Tien-pao, Council of Indigenous Peoples (2024): most paperwork runs in Chinese, restoring a name means replacing every document, and adding a romanized form offers little incentive.',
-          ja: '原住民族委員会の雲天寶処長（2024年）：流通する文書は中国語が中心で、伝統名に戻すとすべての証明書を作り直す必要があり、ローマ字併記には動機づけが乏しいと述べた。',
+          zh: '新竹縣政府原住民族行政處處長雲天寶（2024 年 4 月，修法前談回復傳統姓名的人為什麼少）：流通的文書以漢語為主，改回傳統名字要換掉所有證件，並列羅馬拼音又缺少誘因。',
+          en: 'Yun Tien-pao, head of Hsinchu County’s Indigenous affairs department (April 2024, before the amendment, on why few people restore traditional names): most paperwork runs in Chinese, restoring a name means replacing every document, and adding a romanized form offers little incentive.',
+          ja: '新竹県政府原住民族行政処の雲天寶処長（2024年4月、改正前。伝統名に戻す人が少ない理由について）：流通する文書は中国語が中心で、伝統名に戻すとすべての証明書を作り直す必要があり、ローマ字併記には動機づけが乏しいと述べた。',
         },
         src: 'S22',
       },
@@ -726,16 +726,16 @@ export const INDIGENOUS_VOICES: VoiceSide[] = [
   },
   {
     title: {
-      zh: '上路之後的第一線',
-      en: 'On the ground since',
-      ja: '施行後の現場',
+      zh: '族名並列之後遇到的事',
+      en: 'After adding an Indigenous name',
+      ja: '民族名を併記した後に',
     },
     items: [
       {
         text: {
-          zh: '公視報導（2026）：族名並列之後，印章要改刻橫式，各金融機構的要求不一致。',
-          en: 'PTS News (2026): after adding an Indigenous name, people need new horizontal seals, and banks ask for different things.',
-          ja: '公視の報道（2026年）：民族名を併記した後、印鑑を横書きに作り直す必要があり、金融機関ごとに求められる対応が異なる。',
+          zh: '公視報導（2026）：因《原住民身分法》的規定並列族名的族人說，印章要改刻橫式，各金融機構的要求不一致。',
+          en: 'PTS News (2026): people who added an Indigenous name under the Indigenous Status Act say they need new horizontal seals, and that banks ask for different things.',
+          ja: '公視の報道（2026年）：『原住民身分法』の規定で民族名を併記した人たちによると、印鑑を横書きに作り直す必要があり、金融機関ごとに求められる対応が異なる。',
         },
         src: 'S23',
       },
