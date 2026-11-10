@@ -1,0 +1,504 @@
+{
+  "_meta": {
+    "title": {
+      "zh": "基本工資／最低工資歷次調整（民國 45 年起）",
+      "en": "Basic wage / minimum wage adjustments since 1956"
+    },
+    "unit": "新臺幣元；monthly＝月薪，hourly＝時薪，daily＝日薪（早期制度，取自官方頁面備註）。",
+    "source": [
+      {
+        "name": "勞動部「歷年最低工資／基本工資調整」（更新 2026-10-29）",
+        "url": "https://www.mol.gov.tw/1607/28162/28166/28180/99861/28184/29016/"
+      },
+      {
+        "name": "勞動部「基本工資之制訂與調整經過」PDF（只到民國 113 年 1 月 1 日）",
+        "url": "https://www.mol.gov.tw/media/idxna0og/%E5%9F%BA%E6%9C%AC%E5%B7%A5%E8%B3%87%E4%B9%8B%E5%88%B6%E8%A8%82%E8%88%87%E8%AA%BF%E6%95%B4%E7%B6%93%E9%81%8E.pdf?mediaDL=true"
+      },
+      {
+        "name": "勞動部新聞稿：最低工資連11漲！審議會決定自116年1月1日起調升至30,900元（2026-09-24）",
+        "url": "https://www.mol.gov.tw/1607/1632/1633/99195/"
+      },
+      {
+        "name": "全國法規資料庫《最低工資法》",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030028"
+      }
+    ],
+    "asOf": "2026-10-29",
+    "fetched": "2026-11-10",
+    "notes": [
+      "月薪、日薪、時薪三種制度並存（早期為日薪，81 年起有時薪）。民國 113 年（2024）起依《最低工資法》稱「最低工資」，之前稱「基本工資」。",
+      "kind：initial＝初訂；both＝月薪與時薪同時調整；monthly＝早期只有月薪（時薪制度 81 年起才有，hourly 為 null）；hourly-only／monthly-only＝只調時薪或只調月薪（另一欄官方頁面寫「未動」，本檔填 null）。",
+      "早期列（45 年初訂、53 年）官方頁面沒有公布與生效的完整日期，announced／effective 填 null，原文保留在 announcedRoc／effectiveRoc；57 年列生效日官方頁面寫「-」。",
+      "86 年至 96 年之間無調整（官方備註）。",
+      "yearly 序列取「每年 1 月 1 日當天適用」的月薪與時薪，由 adjustments 的生效日計算（本站整理）；年中調整（例如 2007-07-01、2013-04-01、2014-07-01、2015-07-01、2016-10-01）要到次年 1 月才顯示在 yearly。2000 年以前時薪尚不存在的年份不在序列內。",
+      "2027（民國 116）年 30,900 元／205 元：審議會 2026-09-24 決議，勞動部歷年調整頁載有「115 年 10 月 16 日發布，自 116 年 1 月 1 日起實施」。行政院核定函本身未讀到。審議會調幅 4.745%（29,500→30,900），官方預估受惠勞工約 261.16 萬人（其中本國勞工約 219.72 萬人）。"
+    ]
+  },
+  "adjustments": [
+    {
+      "announcedRoc": "45 年初訂",
+      "announced": null,
+      "effectiveRoc": "45 年初",
+      "effective": null,
+      "monthly": 300,
+      "hourly": null,
+      "daily": null,
+      "kind": "initial",
+      "note": "勞動部：「民國45年初訂基本工資為每月300元」",
+      "announcedNote": "官方頁面只寫年份，沒有日期"
+    },
+    {
+      "announcedRoc": "53 年",
+      "announced": null,
+      "effectiveRoc": null,
+      "effective": null,
+      "monthly": 450,
+      "hourly": null,
+      "daily": null,
+      "kind": "monthly",
+      "note": "「民國53年調整基本工資為每月450元」",
+      "announcedNote": "官方頁面只寫年份，沒有日期"
+    },
+    {
+      "announcedRoc": "57-03-16",
+      "announced": "1968-03-16",
+      "effectiveRoc": null,
+      "effective": null,
+      "monthly": 600,
+      "hourly": null,
+      "daily": 20,
+      "kind": "monthly",
+      "note": "日薪 20 元；「基本工資暫行辦法」發布"
+    },
+    {
+      "announcedRoc": "67-11-29",
+      "announced": "1978-11-29",
+      "effectiveRoc": "67-12-01",
+      "effective": "1978-12-01",
+      "monthly": 2400,
+      "hourly": null,
+      "daily": 80,
+      "kind": "monthly",
+      "note": "日薪 80 元"
+    },
+    {
+      "announcedRoc": "69-04-29",
+      "announced": "1980-04-29",
+      "effectiveRoc": "69-05-01",
+      "effective": "1980-05-01",
+      "monthly": 3300,
+      "hourly": null,
+      "daily": 110,
+      "kind": "monthly",
+      "note": "日薪 110 元"
+    },
+    {
+      "announcedRoc": "72-04-29",
+      "announced": "1983-04-29",
+      "effectiveRoc": "72-05-01",
+      "effective": "1983-05-01",
+      "monthly": 5700,
+      "hourly": null,
+      "daily": 190,
+      "kind": "monthly",
+      "note": "日薪 190 元"
+    },
+    {
+      "announcedRoc": "73-06-14",
+      "announced": "1984-06-14",
+      "effectiveRoc": "73-07-01",
+      "effective": "1984-07-01",
+      "monthly": 6150,
+      "hourly": null,
+      "daily": 205,
+      "kind": "monthly",
+      "note": "日薪 205 元"
+    },
+    {
+      "announcedRoc": "75-10-27",
+      "announced": "1986-10-27",
+      "effectiveRoc": "75-11-01",
+      "effective": "1986-11-01",
+      "monthly": 6900,
+      "hourly": null,
+      "daily": 230,
+      "kind": "monthly",
+      "note": "日薪 230 元"
+    },
+    {
+      "announcedRoc": "77-06-28",
+      "announced": "1988-06-28",
+      "effectiveRoc": "77-07-01",
+      "effective": "1988-07-01",
+      "monthly": 8130,
+      "hourly": null,
+      "daily": 271,
+      "kind": "monthly",
+      "note": "日薪 271 元"
+    },
+    {
+      "announcedRoc": "78-06-26",
+      "announced": "1989-06-26",
+      "effectiveRoc": "78-07-01",
+      "effective": "1989-07-01",
+      "monthly": 8820,
+      "hourly": null,
+      "daily": 294,
+      "kind": "monthly",
+      "note": "日薪 294 元"
+    },
+    {
+      "announcedRoc": "79-07-25",
+      "announced": "1990-07-25",
+      "effectiveRoc": "79-08-01",
+      "effective": "1990-08-01",
+      "monthly": 9750,
+      "hourly": null,
+      "daily": 325,
+      "kind": "monthly",
+      "note": "日薪 325 元"
+    },
+    {
+      "announcedRoc": "80-08-01",
+      "announced": "1991-08-01",
+      "effectiveRoc": "80-08-01",
+      "effective": "1991-08-01",
+      "monthly": 11040,
+      "hourly": null,
+      "daily": 368,
+      "kind": "monthly",
+      "note": "日薪 368 元"
+    },
+    {
+      "announcedRoc": "81-08-13",
+      "announced": "1992-08-13",
+      "effectiveRoc": "81-08-01",
+      "effective": "1992-08-01",
+      "monthly": 12365,
+      "hourly": 51.5,
+      "daily": 412,
+      "kind": "both",
+      "note": "日薪 412 元"
+    },
+    {
+      "announcedRoc": "82-08-13",
+      "announced": "1993-08-13",
+      "effectiveRoc": "82-08-16",
+      "effective": "1993-08-16",
+      "monthly": 13350,
+      "hourly": 55.5,
+      "daily": 445,
+      "kind": "both",
+      "note": "日薪 445 元"
+    },
+    {
+      "announcedRoc": "83-08-19",
+      "announced": "1994-08-19",
+      "effectiveRoc": "83-08-20",
+      "effective": "1994-08-20",
+      "monthly": 14010,
+      "hourly": 58.5,
+      "daily": 467,
+      "kind": "both",
+      "note": "日薪 467 元"
+    },
+    {
+      "announcedRoc": "84-07-17",
+      "announced": "1995-07-17",
+      "effectiveRoc": "84-08-01",
+      "effective": "1995-08-01",
+      "monthly": 14880,
+      "hourly": 62,
+      "daily": 496,
+      "kind": "both",
+      "note": "日薪 496 元"
+    },
+    {
+      "announcedRoc": "85-08-31",
+      "announced": "1996-08-31",
+      "effectiveRoc": "85-09-01",
+      "effective": "1996-09-01",
+      "monthly": 15360,
+      "hourly": 64,
+      "daily": 512,
+      "kind": "both",
+      "note": "日薪 512 元"
+    },
+    {
+      "announcedRoc": "86-10-16",
+      "announced": "1997-10-16",
+      "effectiveRoc": "86-10-16",
+      "effective": "1997-10-16",
+      "monthly": 15840,
+      "hourly": 66,
+      "daily": 528,
+      "kind": "both",
+      "note": "日薪 528 元"
+    },
+    {
+      "announcedRoc": "96-06-22",
+      "announced": "2007-06-22",
+      "effectiveRoc": "96-07-01",
+      "effective": "2007-07-01",
+      "monthly": 17280,
+      "hourly": 95,
+      "daily": null,
+      "kind": "both",
+      "note": "86–96 年之間無調整"
+    },
+    {
+      "announcedRoc": "99-09-29",
+      "announced": "2010-09-29",
+      "effectiveRoc": "100-01-01",
+      "effective": "2011-01-01",
+      "monthly": 17880,
+      "hourly": 98,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "100-09-06",
+      "announced": "2011-09-06",
+      "effectiveRoc": "101-01-01",
+      "effective": "2012-01-01",
+      "monthly": 18780,
+      "hourly": 103,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "101-10-16",
+      "announced": "2012-10-16",
+      "effectiveRoc": "102-01-01",
+      "effective": "2013-01-01",
+      "monthly": null,
+      "hourly": 109,
+      "daily": null,
+      "kind": "hourly-only",
+      "note": "時薪調整"
+    },
+    {
+      "announcedRoc": "102-04-02",
+      "announced": "2013-04-02",
+      "effectiveRoc": "102-04-01",
+      "effective": "2013-04-01",
+      "monthly": 19047,
+      "hourly": null,
+      "daily": null,
+      "kind": "monthly-only",
+      "note": "月薪調整"
+    },
+    {
+      "announcedRoc": "102-10-03",
+      "announced": "2013-10-03",
+      "effectiveRoc": "103-01-01",
+      "effective": "2014-01-01",
+      "monthly": null,
+      "hourly": 115,
+      "daily": null,
+      "kind": "hourly-only",
+      "note": "時薪調整"
+    },
+    {
+      "announcedRoc": "102-10-03",
+      "announced": "2013-10-03",
+      "effectiveRoc": "103-07-01",
+      "effective": "2014-07-01",
+      "monthly": 19273,
+      "hourly": null,
+      "daily": null,
+      "kind": "monthly-only",
+      "note": "月薪調整"
+    },
+    {
+      "announcedRoc": "103-09-15",
+      "announced": "2014-09-15",
+      "effectiveRoc": "104-07-01",
+      "effective": "2015-07-01",
+      "monthly": 20008,
+      "hourly": 120,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "105-09-19",
+      "announced": "2016-09-19",
+      "effectiveRoc": "105-10-01",
+      "effective": "2016-10-01",
+      "monthly": null,
+      "hourly": 126,
+      "daily": null,
+      "kind": "hourly-only",
+      "note": "時薪調整"
+    },
+    {
+      "announcedRoc": "105-09-19",
+      "announced": "2016-09-19",
+      "effectiveRoc": "106-01-01",
+      "effective": "2017-01-01",
+      "monthly": 21009,
+      "hourly": 133,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "106-09-06",
+      "announced": "2017-09-06",
+      "effectiveRoc": "107-01-01",
+      "effective": "2018-01-01",
+      "monthly": 22000,
+      "hourly": 140,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "107-09-05",
+      "announced": "2018-09-05",
+      "effectiveRoc": "108-01-01",
+      "effective": "2019-01-01",
+      "monthly": 23100,
+      "hourly": 150,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "108-08-19",
+      "announced": "2019-08-19",
+      "effectiveRoc": "109-01-01",
+      "effective": "2020-01-01",
+      "monthly": 23800,
+      "hourly": 158,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "109-09-07",
+      "announced": "2020-09-07",
+      "effectiveRoc": "110-01-01",
+      "effective": "2021-01-01",
+      "monthly": 24000,
+      "hourly": 160,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "110-10-15",
+      "announced": "2021-10-15",
+      "effectiveRoc": "111-01-01",
+      "effective": "2022-01-01",
+      "monthly": 25250,
+      "hourly": 168,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "111-09-14",
+      "announced": "2022-09-14",
+      "effectiveRoc": "112-01-01",
+      "effective": "2023-01-01",
+      "monthly": 26400,
+      "hourly": 176,
+      "daily": null,
+      "kind": "both",
+      "note": null
+    },
+    {
+      "announcedRoc": "112-09-14",
+      "announced": "2023-09-14",
+      "effectiveRoc": "113-01-01",
+      "effective": "2024-01-01",
+      "monthly": 27470,
+      "hourly": 183,
+      "daily": null,
+      "kind": "both",
+      "note": "最後一次稱「基本工資」"
+    },
+    {
+      "announcedRoc": "113-09-19",
+      "announced": "2024-09-19",
+      "effectiveRoc": "114-01-01",
+      "effective": "2025-01-01",
+      "monthly": 28590,
+      "hourly": 190,
+      "daily": null,
+      "kind": "both",
+      "note": "頁面原文：「訂定每月最低工資為28,590元」，自此稱「最低工資」"
+    },
+    {
+      "announcedRoc": "114-10-21",
+      "announced": "2025-10-21",
+      "effectiveRoc": "115-01-01",
+      "effective": "2026-01-01",
+      "monthly": 29500,
+      "hourly": 196,
+      "daily": null,
+      "kind": "both",
+      "note": "「訂定每月最低工資為29,500元，每小時最低工資為196元」"
+    },
+    {
+      "announcedRoc": "115-10-16",
+      "announced": "2026-10-16",
+      "effectiveRoc": "116-01-01",
+      "effective": "2027-01-01",
+      "monthly": 30900,
+      "hourly": 205,
+      "daily": null,
+      "kind": "both",
+      "note": "「民國115年10月16日發布，自116年1月1日起實施，訂定每月最低工資為30,900元，每小時最低工資為205元」"
+    }
+  ],
+  "yearly": {
+    "years": [
+      2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011,
+      2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
+      2024, 2025, 2026, 2027
+    ],
+    "monthly": [
+      15840, 15840, 15840, 15840, 15840, 15840, 15840, 15840, 17280, 17280,
+      17280, 17880, 18780, 18780, 19047, 19273, 20008, 21009, 22000, 23100,
+      23800, 24000, 25250, 26400, 27470, 28590, 29500, 30900
+    ],
+    "hourly": [
+      66, 66, 66, 66, 66, 66, 66, 66, 95, 95, 95, 98, 103, 109, 115, 115, 120,
+      133, 140, 150, 158, 160, 168, 176, 183, 190, 196, 205
+    ]
+  },
+  "law": {
+    "name": {
+      "zh": "最低工資法",
+      "en": "Minimum Wage Act"
+    },
+    "articles": 19,
+    "passedThirdReading": "2023-12-12",
+    "promulgated": "2023-12-27",
+    "promulgationOrder": "華總一義字第 11200112981 號",
+    "effective": "2024-01-01",
+    "effectiveOrder": "行政院院臺勞字第 1121047340 號",
+    "note": "沿革頁：中華民國一百十二年十二月二十七日總統令制定公布全文 19 條，施行日期由行政院定之；一百十二年十二月二十九日行政院令定自一百十三年一月一日施行。三讀日期見勞動部新聞稿（2023-12-12）。",
+    "sourceUrls": [
+      "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030028",
+      "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=N0030028",
+      "https://www.mol.gov.tw/1607/1632/1640/65500/post"
+    ]
+  },
+  "latestDecision": {
+    "councilDate": "2026-09-24",
+    "publishedDate": "2026-10-16",
+    "effective": "2027-01-01",
+    "monthly": 30900,
+    "hourly": 205,
+    "previousMonthly": 29500,
+    "previousHourly": 196,
+    "increasePct": 4.745,
+    "note": "行政院核定函未讀到；發布與生效日期取自勞動部歷年調整頁。"
+  }
+}
