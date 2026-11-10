@@ -1,0 +1,112 @@
+---
+/**
+ * housing-history.template.astro：/housing/history/ 台灣住宅政策發展歷程（13 語共用 template）。
+ *
+ * 內容：六個時期（HousingTimeline 完整版）、五次房價循環比較表、利率與信用管制。
+ * 資料 SSOT：src/data/housing/timeline.json、credit-controls.json、rates.json、price-index.json。
+ * 文案：src/i18n/housing-sub.ts（zh-TW 與 en 完整，其他語言回 en）；數字在 build 時從資料檔算出再填入。
+ * 規劃：reports/design-housing-hub-2026-11-10.md 4.1。
+ */
+import '../styles/topics-foundation.css';
+import '../styles/housing.css';
+import Layout from '../layouts/Layout.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
+import SubHero from '../components/housing/sub/SubHero.astro';
+import SubNav from '../components/housing/sub/SubNav.astro';
+import SubFoot from '../components/housing/sub/SubFoot.astro';
+import HistoryEras from '../components/housing/sub/HistoryEras.astro';
+import HistoryCycles from '../components/housing/sub/HistoryCycles.astro';
+import HistoryControls from '../components/housing/sub/HistoryControls.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { housingSub } from '../i18n/housing-sub';
+import { fill } from '../utils/housing/format';
+import { fmtPeriod } from '../utils/housing/data';
+import { historyFacts, historyRelated, loc } from '../utils/housing/sub-data';
+import { localizePath } from '../utils/topics/registry';
+
+const lang = getLangFromUrl(Astro.url);
+const T = housingSub(lang);
+const H = T.hist;
+const f = historyFacts();
+const date = f.retrieved;
+const lastD = f.last.date;
+const vars = {
+  n: f.n,
+  from: f.from,
+  to: f.to,
+  last: fmtPeriod(lastD, lang),
+  date,
+  iso: f.retrieved,
+  k: f.eraCounts[f.eras[0].id].n,
+  a: f.eras[0].from,
+  b: f.eras[0].to,
+};
+const title = fill(H.meta.title, vars);
+const description = fill(H.meta.description, vars);
+const related = await historyRelated(lang);
+const nav = [
+  { id: 'eras', label: H.nav.eras },
+  { id: 'cycles', label: H.nav.cycles },
+  { id: 'controls', label: H.nav.controls },
+  { id: 'links', label: H.nav.links },
+];
+const links = [
+  { href: localizePath('/housing/', lang), label: H.foot.hub },
+  { href: localizePath('/housing/qingan/', lang), label: H.foot.qingan },
+  { href: localizePath('/timeline/', lang), label: H.foot.timeline },
+];
+---
+
+<Layout
+  lang={lang}
+  title={title}
+  description={description}
+  readerSettings={true}
+>
+  <main class="housing-page tf-surface">
+    <SubHero
+      eyebrow={H.hero.eyebrow}
+      title={H.hero.title}
+      lede={fill(H.hero.lede, vars)}
+      stats={[
+        {
+          v: String(f.n),
+          l: H.hero.nLabel,
+          s: H.hero.nSub,
+          cls: 'is-lead',
+        },
+        {
+          v: `${f.from}–${f.to}`,
+          l: H.hero.spanLabel,
+          s: fill(H.hero.spanSub, vars),
+          long: true,
+        },
+        {
+          v: lastD.slice(0, 7),
+          l: H.hero.lastLabel,
+          s: `${loc(f.last.title, lang)}${lang === 'zh-TW' ? '（' : ' ('}${fmtPeriod(lastD, lang)}${lang === 'zh-TW' ? '）' : ')'}`,
+          cls: 'is-warm',
+          long: true,
+        },
+      ]}
+      cue={H.hero.cue}
+    >
+      {T.ui.asOf}
+      {fmtPeriod(date, lang)}
+    </SubHero>
+    <TopicNav lang={lang} topic="housing" />
+    <SubNav label={T.ui.navLabel} items={nav} />
+    <HistoryEras lang={lang} />
+    <HistoryCycles lang={lang} />
+    <HistoryControls lang={lang} />
+    <SubFoot
+      lang={lang}
+      h2={H.foot.h2}
+      lede={H.foot.lede}
+      links={links}
+      cards={related}
+    />
+    <TopicCrossLinks lang={lang} currentId="housing" />
+  </main>
+</Layout>

@@ -1,0 +1,135 @@
+---
+/**
+ * QinganLimits：5.6 限貸與信用管制。
+ * 三則官方文件記下的調整：央行協處（2024-10-09）、金管會令釋排除銀行法第 72 條之 2 限額（2025-09-04）、
+ * 2025 年待撥款數字（2025-09-05）；加上央行條文的原文摘要（credit-controls.json 的兩列）。
+ * 青安 3.0 是否續排除 72-2，資料檔 openQuestions 寫「沒有讀到 2026 年官方文件」，這裡照實顯示。
+ * 件數與金額從資料檔的事件文字取出（parsePending），取不到就顯示全文。
+ */
+import SrcLine from '../sections/SrcLine.astro';
+import { housingSub, EN_DATA } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import { DATA, fmtPeriod, fmtYi, grp } from '../../../utils/housing/data';
+import {
+  ctlRow,
+  isZh,
+  parsePending,
+  qinganEntry,
+  qinganTlSource,
+  qinganTlText,
+} from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.qa.limits;
+const zh = isZh(lang);
+const q: any = DATA.qingan;
+const DATES = { cbc: '2024-10-09', fsc: '2025-09-04', pending: '2025-09-05' };
+const cards = (
+  [
+    ['cbc', S.cbc],
+    ['fsc', S.fsc],
+    ['pending', S.pending],
+  ] as const
+)
+  .map(([k, name]) => {
+    const e = qinganEntry(DATES[k]);
+    return e
+      ? {
+          k,
+          name,
+          date: e.date,
+          text: qinganTlText(e, lang),
+          src: qinganTlSource(e, lang),
+          pending: k === 'pending' ? parsePending(e.event) : null,
+        }
+      : null;
+  })
+  .filter((x): x is NonNullable<typeof x> => !!x);
+const orig = ['2024-09-20', '2024-10-09']
+  .map(ctlRow)
+  .filter((x) => !!x) as any[];
+const open0: string = zh ? q.openQuestions[0] : EN_DATA.open[0];
+const origSrcs = orig.flatMap((r) =>
+  (r.sources ?? []).map((s: any) => ({
+    agency: s.agency,
+    title: s.title,
+    url: s.url,
+    asOf: r.date,
+  })),
+);
+---
+
+<section class="hs-section" id="limits">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{S.h2}</h2>
+    <p class="hs-lede2">{S.intro}</p>
+    <div class="hs-lims">
+      {
+        cards.map((c) => (
+          <article class={`hs-lim is-${c.k}`}>
+            <p class="hs-lim-k">
+              <span>{c.name}</span>
+              <time datetime={c.date}>{fmtPeriod(c.date, lang)}</time>
+            </p>
+            {c.pending ? (
+              <div class="hs-lim-big">
+                <span class="hs-lim-v">
+                  {fill(S.pendingN, { cases: grp(c.pending.cases) })}
+                </span>
+                <span class="hs-lim-v">
+                  {fill(S.pendingA, { amount: fmtYi(c.pending.yi, lang) })}
+                </span>
+              </div>
+            ) : null}
+            <p class="hs-lim-t">{c.text}</p>
+            {c.src && (
+              <p class="hs-tl-src">
+                <a
+                  href={c.src.url}
+                  target="_blank"
+                  rel="noopener"
+                  class="no-external-icon"
+                  title={c.src.title || undefined}
+                >
+                  {c.src.fromHost ? c.src.agency : c.src.agency}
+                  <span class="hs-tag">
+                    {c.src.kind === 'primary' ? T.ui.primary : T.ui.reported}
+                  </span>
+                </a>
+              </p>
+            )}
+          </article>
+        ))
+      }
+    </div>
+    {
+      orig.length > 0 && (
+        <>
+          <h3 class="hs-h3">{S.origTitle}</h3>
+          <p class="hs-fine">
+            {S.origIntro}
+            {!zh && ` ${T.ui.origNote}`}
+          </p>
+          <ul class="hs-origs">
+            {orig.map((r) => (
+              <li lang="zh-TW">
+                <time datetime={r.date}>{fmtPeriod(r.date, lang)}</time>
+                {r.wave && <span class="hs-tag">{r.wave}</span>}
+                <p>{r.summary.zh}</p>
+              </li>
+            ))}
+          </ul>
+          <SrcLine lang={lang} sources={origSrcs} />
+        </>
+      )
+    }
+    <p class="hs-nodata-box">
+      <strong>{S.openK}</strong>{zh ? '：' : ': '}{open0}
+    </p>
+  </div>
+</section>

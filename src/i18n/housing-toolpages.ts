@@ -158,10 +158,6 @@ const zh: HousingToolPages = {
         a: '原則上以借款人本人、配偶及未成年子女的財產歸戶清單查無建物資料為準。持有的建物若是停車位或靈骨塔位，經承貸銀行查核後可視為無自有住宅；所持有建物的持分換算面積合計未滿 {shareSqm} 平方公尺，也可以申辦。',
       },
       {
-        q: '預售屋可以用青安嗎？',
-        a: '青安 3.0 的標的限於申請日前 {purchaseMonths} 個月內因買賣取得所有權的住宅。預售屋在登記取得所有權之前，尚未符合這個前提，實際是否受理以承貸銀行的審核為準。',
-      },
-      {
         q: '房子可以出租嗎？',
         a: '核貸時須簽訂自用住宅使用切結書，由承貸銀行查證確實作為自用住宅。把超過自住需求的居住空間出租，包括房間分租、整層出租與頂樓加蓋出租，都與購屋自住的政策目的不符。',
       },
@@ -310,10 +306,6 @@ const en: HousingToolPages = {
       {
         q: 'Does owning a parking space or a share of a property count as owning a home?',
         a: 'In principle the borrower, spouse and minor children must show no building records on the national property register. A parking space or columbarium niche can be treated as no home ownership after the bank checks the facts, and holding shares in buildings that add up to under {shareSqm} square metres is also allowed.',
-      },
-      {
-        q: 'Can I use Qingan 3.0 for a pre-sale home?',
-        a: 'Qingan 3.0 covers homes whose ownership was acquired by purchase within {purchaseMonths} months before the application date. A pre-sale home does not meet that condition until ownership is registered, and whether the bank accepts a given case is for the bank to decide.',
       },
       {
         q: 'Can I rent out the home?',

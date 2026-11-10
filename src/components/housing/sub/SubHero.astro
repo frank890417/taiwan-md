@@ -1,0 +1,58 @@
+---
+/**
+ * SubHero：子頁第一屏。引子一段、三個數字卡、來源一行（default slot）、往下走的理由。
+ * 版型與主頁 Hero 相同（同一組 hs-stats），文案與數字由呼叫端傳入。
+ */
+import PageHero from '../../PageHero.astro';
+
+export interface SubStat {
+  v: string;
+  unit?: string;
+  l: string;
+  s?: string;
+  /** 'is-lead' 強調卡、'is-warm' 暖色卡 */
+  cls?: string;
+  /** 數值很長（例：1951–2026）時縮小字級 */
+  long?: boolean;
+}
+interface Props {
+  eyebrow: string;
+  title: string;
+  lede: string;
+  stats: SubStat[];
+  cue?: string;
+}
+const { eyebrow, title, lede, stats, cue } = Astro.props;
+---
+
+<PageHero
+  eyebrow={eyebrow}
+  title={title}
+  titleSize="clamp"
+  containerWidth="wide"
+  padding="compact"
+>
+  <p class="hs-lede">{lede}</p>
+  <div class="hs-stats">
+    {
+      stats.map((st) => (
+        <div class={`hs-stat ${st.cls ?? ''}`}>
+          <div class={`hs-stat-v ${st.long ? 'is-long' : ''}`}>
+            {st.v}
+            {st.unit && <small>{st.unit}</small>}
+          </div>
+          <div class="hs-stat-l">{st.l}</div>
+          {st.s && <div class="hs-stat-s">{st.s}</div>}
+        </div>
+      ))
+    }
+  </div>
+  <p class="hs-hero-src"><slot /></p>
+  {
+    cue && (
+      <p class="hs-cue">
+        <span>{cue}</span>
+      </p>
+    )
+  }
+</PageHero>

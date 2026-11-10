@@ -40,8 +40,8 @@
       "path": "/housing/mortgage-calculator/",
       "embedPath": "/embed/housing/mortgage-calculator/",
       "title": {
-        "zh": "房貸試算 2026：本息、本金、寬限期與青安 3.0 對照｜Taiwan.md",
-        "en": "Taiwan Mortgage Calculator 2026: Youth Loan 3.0 Compared"
+        "zh": "房貸試算",
+        "en": "Mortgage calculator"
       },
       "description": {
         "zh": "輸入貸款金額、年限與利率，算出每月還款、總利息與還款曲線。可切換青安 3.0 階梯利率與一般房貸對照，支援寬限期、分段利率與提前還款。",
@@ -61,8 +61,8 @@
       "path": "/housing/affordability-check/",
       "embedPath": "/embed/housing/affordability-check/",
       "title": {
-        "zh": "房價負擔能力自查：房貸負擔率與房價所得比｜Taiwan.md",
-        "en": "Home Affordability Check: Loan Burden and Price-to-Income"
+        "zh": "房價負擔能力自查",
+        "en": "Affordability check"
       },
       "description": {
         "zh": "輸入家庭收入與房價，算出你的房貸負擔率與房價所得比，對照內政部四級標準與 22 縣市最新官方數字（115 年第 1 季）。",
@@ -81,8 +81,8 @@
       "path": "/housing/qingan-eligibility/",
       "embedPath": "/embed/housing/qingan-eligibility/",
       "title": {
-        "zh": "青安 3.0 資格自查 2026：年齡、所得、房價上限逐條比對｜Taiwan.md",
-        "en": "Youth Loan 3.0 Eligibility 2026: Age, Income, Price Cap"
+        "zh": "青安 3.0 資格自查",
+        "en": "Qing-An 3.0 eligibility check"
       },
       "description": {
         "zh": "依財政部 2026 年 8 月上路的青安 3.0 條文，逐條比對年齡、年所得 200 萬、房價上限與限貸一次，列出可申請額度並附條文原文。",
@@ -102,8 +102,8 @@
       "path": "/housing/rent-vs-buy/",
       "embedPath": "/embed/housing/rent-vs-buy/",
       "title": {
-        "zh": "買房還是租房試算：用你自己的假設比較淨資產｜Taiwan.md",
-        "en": "Rent vs Buy Calculator: Net Worth on Your Assumptions"
+        "zh": "買房還是租房試算",
+        "en": "Rent vs buy calculator"
       },
       "description": {
         "zh": "輸入房價、租金、利率與你自己對房價和報酬的假設，逐年比較買與租兩條路的淨資產，所有假設都看得到、改得動。",

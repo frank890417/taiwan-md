@@ -1,0 +1,179 @@
+---
+/**
+ * HistoryControls：政策利率與信用管制怎麼跟著走。
+ * 圖：五大銀行新承做購屋貸款利率與重貼現率（TrendLine），疊上央行各波管制與放寬的生效日。
+ * 表：credit-controls.json 的完整時間線，收在可展開區塊裡。資料檔的「內容」欄只有中文原文，英文版標明。
+ */
+import TrendLine from '../charts/TrendLine.astro';
+import { housingSub } from '../../../i18n/housing-sub';
+import { fill } from '../../../utils/housing/format';
+import {
+  fmtPeriod,
+  fmtXm,
+  maxPoint,
+  minPoint,
+  srcOf,
+  srcOfTable,
+  uniqSrc,
+  xOfT,
+} from '../../../utils/housing/data';
+import { controlsFacts, isZh } from '../../../utils/housing/sub-data';
+
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const T = housingSub(lang);
+const S = T.hist.ctl;
+const zh = isZh(lang);
+const { ctl, waves, eases, rate, redis, rows } = controlsFacts();
+const xStart = parseInt(waves[0].effectiveDate.slice(0, 4), 10) - 1;
+const ratePts = rate.points
+  .filter((p) => xOfT(p.t) >= xStart)
+  .map((p) => ({ x: xOfT(p.t), v: p.v }));
+const before = redis.points.filter((p) => xOfT(p.t) < xStart);
+const redisPts = [
+  ...(before.length ? [{ x: xStart, v: before[before.length - 1].v }] : []),
+  ...redis.points
+    .filter((p) => xOfT(p.t) >= xStart)
+    .map((p) => ({ x: xOfT(p.t), v: p.v })),
+];
+const win = rate.points.filter((p) => xOfT(p.t) >= xStart);
+const lo = minPoint({ points: win });
+const hi = maxPoint({ points: win });
+const waveNo = (r: any) => parseInt(String(r.wave).replace(/\D/g, ''), 10);
+const markers = [
+  ...waves.map((r: any) => ({
+    x: xOfT(r.effectiveDate),
+    label: String(waveNo(r)),
+    kind: 'key' as const,
+    title: fill(S.markWave, {
+      n: waveNo(r),
+      date: fmtPeriod(r.effectiveDate, lang),
+    }),
+  })),
+  ...eases.map((r: any) => ({
+    x: xOfT(r.effectiveDate),
+    label: '↓',
+    kind: 'ease' as const,
+    title: fill(S.markEase, { date: fmtPeriod(r.effectiveDate, lang) }),
+  })),
+].sort((a, b) => a.x - b.x);
+const xEnd =
+  Math.max(ratePts[ratePts.length - 1].x, ...markers.map((m) => m.x)) + 0.03;
+const vars = {
+  from: waves[0].effectiveDate.slice(0, 4),
+  n: waves.length,
+  nEase: eases.length,
+  lo: lo.v.toFixed(2),
+  hi: hi.v.toFixed(2),
+  rows: rows.length,
+};
+---
+
+<section class="hs-section" id="controls">
+  <div class="hs-wrap">
+    <p class="hs-kicker">{S.kicker}</p>
+    <h2 class="hs-h2">{fill(S.h2, vars)}</h2>
+    <p class="hs-lede2">{fill(S.intro, vars)}</p>
+    <TrendLine
+      title={fill(S.rateTitle, vars)}
+      subtitle={S.rateSub}
+      lang={lang}
+      lines={[
+        {
+          id: 'rate',
+          label: S.lineRate,
+          points: ratePts,
+          cls: 'c0',
+          strong: true,
+        },
+        {
+          id: 'redis',
+          label: S.lineRedis,
+          points: redisPts,
+          cls: 'c2',
+          step: true,
+        },
+      ]}
+      sources={uniqSrc([srcOf(rate), srcOf(redis), srcOfTable(ctl, '2026-09')])}
+      unit="%"
+      digits={2}
+      yMin={0}
+      xMin={xStart}
+      xMax={xEnd}
+      xTickStep={1}
+      yFormat={(v) => `${v}%`}
+      markers={markers}
+      tableRows={rate.points
+        .filter((p) => xOfT(p.t) >= xStart && p.t.endsWith('-12'))
+        .map((p) => ({ x: xOfT(p.t), label: fmtPeriod(p.t, lang) }))}
+      tableXHeader={S.tableX}
+      xFormat={(x) => String(Math.floor(x + 1e-6))}
+      tipX={fmtXm}
+    />
+    <details class="hs-ct">
+      <summary>{fill(S.open, vars)}</summary>
+      <p class="hs-fine">{S.note}</p>
+      {!zh && <p class="hs-fine">{T.ui.origNote}</p>}
+      <div class="hs-rt-wrap">
+        <table class="hs-rt hs-rt-ct">
+          <thead>
+            <tr>
+              <th scope="col">{S.cols.date}</th>
+              <th scope="col">{S.cols.effective}</th>
+              <th scope="col">{S.cols.wave}</th>
+              <th scope="col">{S.cols.kind}</th>
+              <th scope="col">
+                {S.cols.summary}
+                {!zh && ` (${T.ui.original})`}
+              </th>
+              <th scope="col">{S.cols.sources}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              rows.map((r: any) => (
+                <tr>
+                  <th scope="row" data-label={S.cols.date}>
+                    <time datetime={r.date}>{fmtPeriod(r.date, lang)}</time>
+                    {r.scheduled && <span class="hs-tag">{S.scheduled}</span>}
+                  </th>
+                  <td data-label={S.cols.effective}>
+                    {r.effectiveDate
+                      ? fmtPeriod(r.effectiveDate, lang)
+                      : S.noEffective}
+                  </td>
+                  <td data-label={S.cols.wave}>{r.wave ?? '—'}</td>
+                  <td data-label={S.cols.kind}>
+                    {(S.kinds as any)[r.kind] ?? r.kind}
+                  </td>
+                  <td data-label={S.cols.summary} lang="zh-TW">
+                    {r.summary.zh}
+                  </td>
+                  <td data-label={S.cols.sources}>
+                    <ul class="hs-rt-src">
+                      {(r.sources ?? []).map((s: any) => (
+                        <li>
+                          <a
+                            href={s.url}
+                            target="_blank"
+                            rel="noopener"
+                            class="no-external-icon"
+                            lang="zh-TW"
+                          >
+                            {s.title}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </details>
+  </div>
+</section>

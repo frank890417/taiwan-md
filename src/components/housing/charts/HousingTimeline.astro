@@ -34,13 +34,35 @@ interface Era {
   title: Loc;
   lede: Loc;
 }
+interface Card {
+  href: string;
+  title: string;
+  desc: string;
+  zhFallback: boolean;
+}
 interface Props {
   events: Ev[];
   eras?: Era[];
   compact?: boolean;
   lang: string;
+  /** 完整版專用（子頁）：事件鍵 `${date}|${title.zh}` → 站內文章卡；不給就不輸出文章 chips */
+  articles?: Record<string, Card[]>;
+  /** 完整版專用：來源種類標籤與文章列標題；不給就用主頁的 一手／轉述 */
+  labels?: {
+    primary: string;
+    reported: string;
+    related: string;
+    zhOnly: string;
+  };
 }
-const { events, eras = [], compact = false, lang } = Astro.props;
+const {
+  events,
+  eras = [],
+  compact = false,
+  lang,
+  articles,
+  labels,
+} = Astro.props;
 const T = housingHome(lang);
 const L = lang === 'zh-TW' ? 'zh' : 'en';
 const pick = (o: Loc) => o[L] ?? o.en ?? o.zh;
@@ -59,6 +81,11 @@ const groups = eras.length
 const kindLabel = (k: string) =>
   (T.timeline.kinds as Record<string, string>)[k] ?? k;
 const dateLabel = (d: string) => fmtPeriod(d, lang);
+const srcLabel = (k: string) =>
+  k === 'primary'
+    ? (labels?.primary ?? T.ui.primary)
+    : (labels?.reported ?? T.ui.reported);
+const cardsOf = (e: Ev) => articles?.[`${e.date}|${e.title.zh}`] ?? [];
 ---
 
 <div class:list={['hs-tl', compact && 'is-compact']}>
@@ -77,7 +104,7 @@ const dateLabel = (d: string) => fmtPeriod(d, lang);
         {list.length > 0 && (
           <ol class="hs-tl-list">
             {list.map((e) => (
-              <li class={`hs-tl-ev k-${e.kind}`}>
+              <li class={`hs-tl-ev k-${e.kind}`} data-kind={e.kind}>
                 <time class="hs-tl-date" datetime={e.date}>
                   {dateLabel(e.date)}
                 </time>
@@ -131,11 +158,28 @@ const dateLabel = (d: string) => fmtPeriod(d, lang);
                               title={s.title}
                             >
                               {s.publisher}
-                              <span class="hs-tag">
-                                {s.kind === 'primary'
-                                  ? T.ui.primary
-                                  : T.ui.reported}
-                              </span>
+                              <span class="hs-tag">{srcLabel(s.kind)}</span>
+                            </a>
+                          ))}
+                        </p>
+                      )}
+                      {cardsOf(e).length > 0 && (
+                        <p class="hs-tl-rel">
+                          <span class="hs-related-k">
+                            {labels?.related ?? T.ui.related}
+                          </span>
+                          {cardsOf(e).map((c) => (
+                            <a
+                              href={c.href}
+                              class="hs-chip-link"
+                              title={c.desc}
+                            >
+                              {c.title}
+                              {c.zhFallback && lang !== 'zh-TW' && (
+                                <span class="hs-tag">
+                                  {labels?.zhOnly ?? T.ui.zhOnly}
+                                </span>
+                              )}
                             </a>
                           ))}
                         </p>

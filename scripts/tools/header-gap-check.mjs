@@ -38,6 +38,8 @@ const DEFAULT_ROUTES = [
   '/budget/',
   '/housing/',
   '/housing/tools/',
+  '/housing/history/',
+  '/housing/qingan/',
   '/companies/',
   '/opendata/',
   '/about/',
