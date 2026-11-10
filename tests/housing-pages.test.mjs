@@ -9,7 +9,7 @@
  *   4. timeline.json：每筆 event 的 era 都在 eras 內、date 不遞減；cycles 的 rise 有 note 或 value
  *   5. qingan.json：subsidySteps 的 netRatePct ＝ baseRatePct − subsidyPct；原貸款利率 ＝ 基準 + 加碼；
  *      timeline 每筆有 source（指到 sources 表）或 sourceUrl；EN_DATA 的鍵都對得到資料檔，英文裡的數字都出現在中文原文
- *   6. positions.json：每個 verbatim 引語有 https 來源網址；13 語 × 3 頁薄殼共 39 個，且 import 的模板存在
+ *   6. positions.json：每個 verbatim 引語有 https 來源網址；13 語 × 2 頁薄殼共 26 個且 import 的模板存在；/housing/positions/ 選前沒有薄殼
  */
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs';
@@ -393,7 +393,7 @@ test('positions.json：每個 verbatim 引語有 https 來源網址', () => {
   assert.ok(positions.coverageNote.zh && positions.coverageNote.en);
 });
 
-test('13 語 × 3 頁薄殼共 39 個，import 的模板存在', () => {
+test('13 語 × 2 頁薄殼共 26 個，import 的模板存在；各方立場頁選前沒有薄殼', () => {
   const langs = [
     '',
     'en',
@@ -411,7 +411,7 @@ test('13 語 × 3 頁薄殼共 39 個，import 的模板存在', () => {
   ];
   let count = 0;
   for (const L of langs)
-    for (const page of ['history', 'qingan', 'positions']) {
+    for (const page of ['history', 'qingan']) {
       const file = join(ROOT, 'src/pages', L, 'housing', page, 'index.astro');
       assert.ok(existsSync(file), `missing ${file}`);
       const src = readFileSync(file, 'utf8');
@@ -431,5 +431,11 @@ test('13 語 × 3 頁薄殼共 39 個，import 的模板存在', () => {
       );
       count += 1;
     }
-  assert.equal(count, 39);
+  assert.equal(count, 26);
+  // 各方立場頁選前不公開：頁面檔只要在 src/pages 底下就會被建出來、網址打得到
+  for (const L of langs)
+    assert.ok(
+      !existsSync(join(ROOT, 'src/pages', L, 'housing', 'positions')),
+      `${L || 'zh'} 不該有 /housing/positions/ 薄殼`,
+    );
 });
