@@ -7,8 +7,8 @@
       "en": "The quote field holds only sentences matched word for word against the source page on 10 November 2026. Statements that a report gives in indirect speech, or whose exact wording could not be found, are written as unquoted paraphrases with verified set to false. Evaluative words inside quotes are the speaker's own; this site neither endorses nor disputes them. Voices that were not found are listed in each topic's gaps. Statements from 2023 or earlier are flagged in the note."
     },
     "verificationMethod": {
-      "zh": "以 curl 加瀏覽器 User-Agent 或瀏覽器讀取原網頁，將文字去除標籤後以不計空白的方式比對。中國時報（旺得富）兩篇因網站擋 curl，改以瀏覽器讀取全文。",
-      "en": "Source pages were fetched with curl using a browser User-Agent, or read in a browser, then stripped of tags and compared ignoring whitespace. The two China Times (WantRich) articles block curl and were read in a browser."
+      "zh": "以 curl 加瀏覽器 User-Agent 或瀏覽器讀取原網頁，將文字去除標籤後以不計空白的方式比對。中國時報（旺得富）兩篇因網站擋 curl，改以瀏覽器讀取全文。來自電視新聞文字稿的引語，是報導裡帶引號的受訪原話。",
+      "en": "Source pages were fetched with curl using a browser User-Agent, or read in a browser, then stripped of tags and compared ignoring whitespace. The two China Times (WantRich) articles block curl and were read in a browser. Quotes taken from television news write-ups are the interviewee's words as printed inside quotation marks in the report."
     }
   },
   "topics": [
@@ -26,48 +26,25 @@
         {
           "group": "government",
           "actor": {
-            "zh": "行政院發言人李慧芝",
-            "en": "Li Hui-chih, Executive Yuan spokesperson"
+            "zh": "行政院長卓榮泰",
+            "en": "Premier Cho Jung-tai"
           },
-          "date": "2025-12-12",
+          "date": "2025-12-26",
           "venue": {
-            "zh": "行政院新聞稿，立法院三讀當日",
-            "en": "Executive Yuan press release on the day of the third reading"
+            "zh": "總統公布修正條文當天宣布副署並聲請釋憲，公視新聞",
+            "en": "Announcing he would countersign and petition, on the day the president promulgated the amendment; Public Television Service"
           },
-          "quote": "將透過合法及合憲的途徑，維持退撫制度並確保退撫基金財務永續",
-          "quoteEn": "will pursue lawful and constitutional means to maintain the pension system and keep the pension fund financially sustainable",
+          "quote": "我們會副署讓法案生效，也會即刻送請大法官解釋",
+          "quoteEn": "we will countersign so that the bill takes effect, and will immediately send it to the grand justices for interpretation",
           "paraphrase": null,
           "verified": true,
           "source": {
-            "name": "行政院新聞稿（2025-12-12）",
-            "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/f119f3a5-649f-407f-b5d4-2b6caa6c6627"
-          }
-        },
-        {
-          "group": "government",
-          "actor": {
-            "zh": "考試院",
-            "en": "Examination Yuan"
-          },
-          "date": "2026-01-08",
-          "venue": {
-            "zh": "考試院院會決議，經中央社報導",
-            "en": "Examination Yuan council resolution, reported by the Central News Agency"
-          },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "認為修法會使退撫基金用罄年度提前，不利基金永續經營，也違背世代正義與公益原則，院會同意向憲法法庭聲請釋憲及暫時處分。",
-            "en": "Says the amendment brings forward the year the pension fund runs out, harms its long-term operation and breaches generational justice and the public interest. The council agreed to file for interpretation and an interim order."
-          },
-          "verified": false,
-          "source": {
-            "name": "中央社〈考試院聲請釋憲及暫時處分〉",
-            "url": "https://www.cna.com.tw/news/aipl/202601080279.aspx"
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
           },
           "note": {
-            "zh": "報導以間接引述呈現考試院決議，不是考試院原文，所以不放引號。",
-            "en": "The report gives the resolution in indirect speech, not the Examination Yuan's own text, so it is not quoted."
+            "zh": "行政院在 2025-12-31 向憲法法庭聲請釋憲及暫時處分。行政院發言人在三讀當天談年金制度的說法，放在「世代公平」議題。",
+            "en": "The Executive Yuan filed for constitutional interpretation and an interim order on 31 December 2025. The Executive Yuan spokesperson's remarks on the day of the third reading are listed under the generational fairness topic."
           }
         },
         {
@@ -84,8 +61,8 @@
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "引用銓敘部的計算，表示依在野黨版本，退撫基金用罄年度將提前 3 到 4 年，政府需再額外撥補數千億元。",
-            "en": "Citing the Ministry of Civil Service's calculation, says that under the opposition version the pension fund runs out 3 to 4 years earlier and the government must add several hundred billion dollars in transfers."
+            "zh": "引用銓敘部的計算，表示若依照在野黨的版本，退撫基金將提早 3 到 4 年破產，政府需再額外撥補數千億元，最終要全民買單。",
+            "en": "Citing the Ministry of Civil Service's calculation, says that under the opposition version the pension fund will go bankrupt 3 to 4 years earlier, the government must add several hundred billion dollars in transfers, and the public will end up paying."
           },
           "verified": false,
           "source": {
@@ -93,35 +70,8 @@
             "url": "https://udn.com/news/story/6656/9199772"
           },
           "note": {
-            "zh": "報導為間接敘述，沒有引號。",
-            "en": "The report is in indirect speech with no quotation marks."
-          }
-        },
-        {
-          "group": "civil-servants",
-          "actor": {
-            "zh": "全國公務人員協會前理事長李來希",
-            "en": "Li Lai-hsi, former chairman of the National Civil Servants Association"
-          },
-          "date": "2025-12-27",
-          "venue": {
-            "zh": "臉書貼文，聯合報報導並轉載",
-            "en": "Facebook post, reported and reproduced by United Daily News"
-          },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "批評總統公布修法後，行政院與考試院仍宣布聲請釋憲、暫不依新法執行。",
-            "en": "Criticises the Executive Yuan and Examination Yuan for announcing constitutional petitions and holding off on applying the amendment after the president had promulgated it."
-          },
-          "verified": false,
-          "source": {
-            "name": "聯合報〈公布停砍年金法案政院、考院不執行 李來希〉",
-            "url": "https://udn.com/news/story/124680/9228765"
-          },
-          "note": {
-            "zh": "貼文原句經聯合報轉載、已核對存在，用詞較粗，本頁改為轉述，原文見來源。",
-            "en": "The original sentence, reproduced by United Daily News and checked, uses coarse language; this page paraphrases it. See the source for the wording."
+            "zh": "報導為間接敘述，「破產」是報導所載他的用詞。",
+            "en": "Indirect speech in the report; \"go bankrupt\" is his wording as the report gives it."
           }
         },
         {
@@ -132,47 +82,71 @@
           },
           "date": "2025-12-26",
           "venue": {
-            "zh": "回應行政院擬副署並聲請釋憲，聯合報報導",
-            "en": "Response to the Executive Yuan's plan to countersign and petition, reported by United Daily News"
+            "zh": "回應行政院副署後聲請釋憲，公視新聞",
+            "en": "Response to the Executive Yuan countersigning and then petitioning, Public Television Service"
           },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "呼籲行政院依法行事，否則退休公教人員不排除上街抗爭或提告；認為停止調降並隨物價調整只是為年金改革停損，公教所得替代率已低於 OECD 國家平均。",
-            "en": "Calls on the Executive Yuan to act according to law, warning retirees may protest or sue; says stopping the cuts and indexing to prices only limits the losses of pension reform, and that the replacement rate is already below the OECD average."
-          },
-          "verified": false,
+          "quote": "我們公教人員來講，我們權益馬上就受損了。我們也應該會包括召開記者會，或是號召退休人員到法院提起訴訟，也不排除到行政院前去抗議。",
+          "quoteEn": "For us civil servants and teachers, our rights are harmed right away. We will probably hold a press conference, or call on retirees to file lawsuits in court, and we do not rule out protesting in front of the Executive Yuan.",
+          "paraphrase": null,
+          "verified": true,
           "source": {
-            "name": "聯合報〈政院擬「副署不執行」停砍公教年金 黃耀南：不排除上街抗爭〉",
-            "url": "https://udn.com/news/story/124680/9226835"
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
           },
           "note": {
-            "zh": "報導為間接敘述；職稱照報導寫「前理事長」。",
-            "en": "Indirect speech in the report; the title follows the report, which says former chairman."
+            "zh": "職稱照報導寫「前理事長」。這是行政院宣布副署修正條文、同時聲請釋憲當天的回應。",
+            "en": "The title follows the report, which says former chairman. He was responding on the day the Executive Yuan said it would countersign the amendment and petition the Constitutional Court."
           }
         },
         {
           "group": "civil-servants",
           "actor": {
-            "zh": "八百壯士理事長吳斯懷",
-            "en": "Wu Se-huai, chairman of the 800 Heroes group"
+            "zh": "全國公務人員協會前理事長李來希",
+            "en": "Li Lai-hsi, former chairman of the National Civil Servants Association"
           },
-          "date": "2019-08-23",
+          "date": "2026-01-12",
           "venue": {
-            "zh": "司法院前，對釋字 781 至 783 號結果的回應",
-            "en": "In front of the Judicial Yuan, reacting to Interpretations 781 to 783"
+            "zh": "回應銓敘部說明重新審定退休所得需時半年，公視新聞",
+            "en": "Response to the Ministry of Civil Service saying recalculation would take half a year, Public Television Service"
           },
-          "quote": "還可以溯及既往、還可以違反信賴保護，這個國家永遠動盪不安。",
-          "quoteEn": "If a law can still apply retroactively and still breach the protection of legitimate expectations, this country will never be stable.",
+          "quote": "中華民國的資訊技術如果是這麼落後，那我不曉得我們的AI跑哪裡去了，透過程序上的干擾，希望拖、拖到憲法法庭開議。",
+          "quoteEn": "If the Republic of China's information technology is this backward, then I do not know where our AI has gone; through procedural interference, they hope to drag it out, drag it out until the Constitutional Court sits.",
           "paraphrase": null,
           "verified": true,
           "source": {
-            "name": "公視新聞〈八百壯士、退休軍公教團體痛批釋憲結果〉",
-            "url": "https://news.pts.org.tw/article/443397"
+            "name": "公視新聞〈立院停砍公教年金重審需半年 遭立委質疑為等釋憲拖延〉",
+            "url": "https://news.pts.org.tw/article/790303"
           },
           "note": {
-            "zh": "這是對 2019 年釋憲結果的反應，不是對 2025 年修法的說法；放在這裡讓讀者看到軍公教團體對年改合憲性的一貫主張。",
-            "en": "This reacts to the 2019 interpretations, not the 2025 amendment. It is included to show the long-running position of military, civil service and teacher groups on whether the 2018 reform was constitutional."
+            "zh": "銓敘部表示要重新審定近 18 萬名退休公務人員的所得替代率，系統調整約需半年，期間先依原規定發給。同篇報導載考試院回應，作業時程參考過往經驗，沒有故意拖延。",
+            "en": "The ministry said it had to recalculate replacement rates for nearly 180,000 retired civil servants, that system changes would take about half a year, and that pensions would be paid under the old rules meanwhile. The same report carries the Examination Yuan's reply that the schedule follows past experience and there is no deliberate delay."
+          }
+        },
+        {
+          "group": "civil-servants",
+          "actor": {
+            "zh": "全國教師工會總聯合會",
+            "en": "National Federation of Teachers Unions"
+          },
+          "date": "2025-12-13",
+          "venue": {
+            "zh": "三讀隔天的粉絲專頁貼文，自由時報報導",
+            "en": "Fan page post the day after the third reading, reported by Liberty Times"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "感謝支持這次修法的立委，表示修法讓公教人員退休生活獲得基本保障，是穩定教育現場的關鍵；並要求政府返還年資補償金、依十年撥補方案撥補。",
+            "en": "Thanks the legislators who backed the amendment, saying it gives civil servants and teachers basic security in retirement and is key to stabilising schools; also asks the government to return seniority compensation payments and to make transfers under the ten-year plan."
+          },
+          "verified": false,
+          "source": {
+            "name": "自由時報〈全教總發文感謝反年改過關 被憤怒網友批評、教師也留言反對〉",
+            "url": "https://news.ltn.com.tw/news/politics/breakingnews/5277191"
+          },
+          "note": {
+            "zh": "貼文原文沒有讀到，這裡依報導的敘述轉述。同篇報導提到貼文下方有在職教師留言反對。",
+            "en": "The post itself was not read; this follows the report's account. The same report notes that serving teachers left comments opposing the post."
           }
         },
         {
@@ -203,14 +177,14 @@
           },
           "date": "2025-11-05",
           "venue": {
-            "zh": "停砍修法審查期間，公視新聞綜述",
-            "en": "During committee review, summarized by Public Television Service"
+            "zh": "停止調降所得替代率修法審查期間，公視新聞綜述",
+            "en": "During committee review of the amendment to stop replacement-rate cuts, summarized by Public Television Service"
           },
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "主張物價持續上漲而退休軍公教年金持續調降，使退休者晚年生活吃緊；修法目的是停止調降，不是回復過去水準。",
-            "en": "Argues prices keep rising while retiree pensions keep falling; says the aim is to stop further cuts, not to restore past levels."
+            "zh": "表示物價不斷上漲，退休軍公教年金卻持續調降，恐使退休者晚年生活吃緊；稱這次修法目的在於「停砍」，沒有要「回復」過去水準，並批評民進黨政府以年改污名化軍公教人員、違背退休年金承諾。",
+            "en": "Says prices keep rising while retiree pensions keep being cut, which may leave retirees short in old age; says the aim of the amendment is to \"stop the cuts\", with no intention to \"restore\" past levels, and criticises the DPP government for using pension reform to stigmatise military, civil service and teaching staff and for breaking pension promises."
           },
           "verified": false,
           "source": {
@@ -218,8 +192,32 @@
             "url": "https://news.pts.org.tw/article/779860"
           },
           "note": {
-            "zh": "黨團說法由公視綜述，沒有引號原話。",
-            "en": "The caucus position is summarized by the broadcaster; no direct quotation was found."
+            "zh": "黨團說法由公視綜述，引號內的兩個詞是報導所載黨團用語。",
+            "en": "The caucus position is summarized by the broadcaster; the two quoted terms are the caucus's words as printed in the report."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立法院黨團書記長羅智強",
+            "en": "Lo Chih-chiang, secretary-general of the Kuomintang caucus in the Legislative Yuan"
+          },
+          "date": "2025-12-26",
+          "venue": {
+            "zh": "總統公布修正條文、行政院宣布聲請釋憲當天，公視新聞",
+            "en": "On the day the president promulgated the amendment and the Executive Yuan announced its petition, Public Television Service"
+          },
+          "quote": "請你對公教柔軟一點吧，公教為了所謂的民進黨標舉的年金改革，已經被削其血肉了，那今天也不過是請求停砍，卑微地請求停砍。",
+          "quoteEn": "Please be a little gentler with civil servants and teachers. For the pension reform the DPP holds up, they have already had their flesh cut away, and today they are only asking for the cuts to stop, humbly asking for the cuts to stop.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈停砍年金政院將副署聲請釋憲 教師團體揚言上街抗議〉",
+            "url": "https://news.pts.org.tw/article/787707"
+          },
+          "note": {
+            "zh": "這句話是對總統賴清德說的。",
+            "en": "The remark was addressed to President Lai Ching-te."
           }
         },
         {
@@ -245,8 +243,28 @@
             "url": "https://news.pts.org.tw/article/779860"
           },
           "note": {
-            "zh": "民眾黨官網對自動讀取回傳驗證頁，本站只讀到媒體報導。",
-            "en": "The party website returned a verification page to automated access, so only media reports were read."
+            "zh": "黨團主張由公視綜述，黃國昌的發言在報導中是間接敘述。",
+            "en": "The caucus position is summarized by the broadcaster, and Huang's remarks appear in indirect speech."
+          }
+        },
+        {
+          "group": "party",
+          "actor": {
+            "zh": "民眾黨立委張啟楷",
+            "en": "Chang Chi-kai, Taiwan People's Party legislator"
+          },
+          "date": "2025-11-06",
+          "venue": {
+            "zh": "立法院委員會聯席審查公立學校教職員退撫條例修正草案當天，公視新聞",
+            "en": "On the day legislative committees jointly reviewed the school staff pension bill, Public Television Service"
+          },
+          "quote": "同時對勞工都是該撥補就要撥補，對公教也要撥補就撥補，只要撥補做到了，勞工不會破產，公教也不會破產。",
+          "quoteEn": "At the same time, for workers, transfers that are due should be made, and for civil servants and teachers, transfers that are due should be made too. As long as the transfers are made, workers' pensions will not go bankrupt and neither will those of civil servants and teachers.",
+          "paraphrase": null,
+          "verified": true,
+          "source": {
+            "name": "公視新聞〈立院審停砍公立學校教職員年金 行政院：退撫基金將提前用完〉",
+            "url": "https://news.pts.org.tw/article/780005"
           }
         },
         {
@@ -272,26 +290,6 @@
         {
           "group": "youth-scholars",
           "actor": {
-            "zh": "高雄師範大學事業經營系教授林文寶",
-            "en": "Lin Wen-pao, professor of business management at National Kaohsiung Normal University"
-          },
-          "date": "2025-12-14",
-          "venue": {
-            "zh": "聯合報民意論壇投書",
-            "en": "Op-ed in the United Daily News opinion forum"
-          },
-          "quote": "年金改革不是零和博弈，世代正義與信賴保護原則也不應是衝突",
-          "quoteEn": "Pension reform is not a zero-sum game, and generational justice and the principle of protecting legitimate expectations should not be in conflict",
-          "paraphrase": null,
-          "verified": true,
-          "source": {
-            "name": "世界日報轉載聯合報民意論壇（林文寶）",
-            "url": "https://www.worldjournal.com/wj/story/121206/9201737"
-          }
-        },
-        {
-          "group": "youth-scholars",
-          "actor": {
             "zh": "陽明交通大學法律學者林志潔",
             "en": "Lin Chih-chieh, law scholar at National Yang Ming Chiao Tung University"
           },
@@ -303,8 +301,8 @@
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "認為少子化、高齡化與平均餘命延長，使早年設計的所得替代率必須調整，否則退撫基金難以維持；她支持年金改革，也提到自己父母受年改影響。",
-            "en": "Argues falling births, ageing and longer life expectancy mean the replacement rates designed earlier must be adjusted or the pension fund cannot be sustained; she supports the reform while noting her own parents were affected."
+            "zh": "表示她堅定支持年改，因為少子化、高齡化與平均餘命延長，早年設計的所得替代率一定要調整，否則未來退撫基金必將破產；若以國家預算撥補，等於沒有退休金的許多納稅人要供養特定職業的退休者，她稱這是世代的不正義，也是階級的不正義。她也提到自己的家人受年改影響。",
+            "en": "Says she firmly supports the reform because falling births, ageing and longer life expectancy mean the replacement rates designed earlier must be adjusted, or the pension fund will certainly go bankrupt; if the state budget tops it up, many taxpayers without pensions would be supporting retirees of one occupation, which she calls unjust across generations and across classes. She also notes her own family was affected by the reform."
           },
           "verified": false,
           "source": {
@@ -312,41 +310,14 @@
             "url": "https://udn.com/news/story/6656/9127056"
           },
           "note": {
-            "zh": "報導為間接敘述；是否為臉書逐字沒有核對臉書原文。",
-            "en": "Indirect speech in the report; the Facebook original was not checked."
-          }
-        },
-        {
-          "group": "youth-scholars",
-          "actor": {
-            "zh": "國立臺北商業大學財稅系教授黃耀輝",
-            "en": "Huang Yao-hui, professor of public finance and taxation at National Taipei University of Business"
-          },
-          "date": "2025-11-04",
-          "venue": {
-            "zh": "公教退撫修法審查前夕，經 Newtalk 報導",
-            "en": "On the eve of the committee review, reported by Newtalk"
-          },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "指若不修法，退休 20 年的教授在 82 歲會被調降 19%、92 歲會被調降 36%，認為年紀越大調降越多；並指公教繳的保費是同年資同薪資勞工的 5 到 6 倍、領取給付約 2 倍。",
-            "en": "Says without an amendment a professor retired for 20 years would face a 19% cut at 82 and 36% at 92, so the older the retiree the larger the cut; also says civil servants pay 5 to 6 times the premiums of workers with the same service and pay, and receive about twice the benefit."
-          },
-          "verified": false,
-          "source": {
-            "name": "Newtalk〈立院明審停砍公教年金案 學者：「越老砍越多」〉",
-            "url": "https://newtalk.tw/news/view/2025-11-04/1002660"
-          },
-          "note": {
-            "zh": "報導為間接敘述。",
-            "en": "Indirect speech in the report."
+            "zh": "報導為間接敘述，用詞照報導所載；臉書原文沒有讀到。",
+            "en": "Indirect speech in the report, with wording as the report gives it; the Facebook original was not read."
           }
         }
       ],
       "gaps": {
-        "zh": "資方團體、勞工團體針對這次停止調降修法的公開說法沒有找到。財政部沒有針對此修法的專屬財務數字。台灣基進與社會民主黨在這個議題的正式主張沒有查到。民眾黨的說法只有媒體報導。銓敘部與行政院各自引用的撥補金額口徑不同，本頁不替任何一方換算。",
-        "en": "No public statements from business or labor groups on this amendment were found. The Ministry of Finance has no figures specific to it. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found. The People's Party positions come only from media reports. The Ministry of Civil Service and the Executive Yuan use different transfer figures and this page does not reconcile them."
+        "zh": "資方團體、勞工團體針對這次修法的公開說法沒有找到。國民黨立法院黨團與民眾黨立法院黨團的正式說法，只找到媒體的轉述，沒有找到黨團自己發布的新聞稿原文；這裡帶引號的是兩黨立委受訪或發言時的原話。軍公教團體帶引號的原話來自兩位前理事長受訪，全國教師工會總聯合會只找到媒體對貼文的轉述，全國公務人員協會現任幹部與八百壯士針對這次修法的說法沒有找到。台灣基進與社會民主黨的正式主張沒有找到。財政部針對這次修法的財務數字沒有找到。銓敘部與行政院各自引用的撥補金額口徑不同，本頁不替任何一方換算。行政院發言人、考試院與部分學者談世代正義的說法，放在「世代公平」議題。",
+        "en": "No public statements from business or labor groups on this amendment were found. For the Kuomintang and People's Party caucuses, only media summaries of their formal positions were found, not the caucuses' own press releases; the quoted words here are what legislators of the two parties said in interviews or on the floor. The quoted words from military, civil service and teacher groups come from interviews with two former chairmen; for the National Federation of Teachers Unions only a media account of its post was found, and no statements on this amendment from current officers of the National Civil Servants Association or from the 800 Heroes group were found. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found. No Ministry of Finance figures on this amendment were found. The Ministry of Civil Service and the Executive Yuan use different transfer figures and this page does not reconcile them. Remarks on generational justice by the Executive Yuan spokesperson, the Examination Yuan and some scholars are listed under the generational fairness topic."
       }
     },
     {
@@ -400,8 +371,8 @@
             "url": "https://wantrich.chinatimes.com/news/20251116900046-420501"
           },
           "note": {
-            "zh": "同篇報導轉述他的看法：若勞保年改仍只有政府撥補，基金恐仍面臨財務困難，且撥補會排擠社會福利預算。這段是間接敘述，沒有引號。",
-            "en": "The same report paraphrases him as saying that if labor insurance reform remains only government transfers the fund will still face difficulty and transfers would crowd out social welfare budgets. That part is indirect speech."
+            "zh": "同篇報導轉述他表示，如果勞保年改依舊只有政府撥補，恐怕還是會面臨破產，撥補也會進一步排擠社會福利預算編列。",
+            "en": "The same report paraphrases him as saying that if labor insurance reform still consists only of government transfers, the fund will probably still face bankruptcy, and that transfers would further crowd out social welfare budgets."
           }
         },
         {
@@ -453,33 +424,6 @@
           "note": {
             "zh": "報導為間接敘述。",
             "en": "Indirect speech in the report."
-          }
-        },
-        {
-          "group": "business",
-          "actor": {
-            "zh": "全國商業總會理事長許舒博",
-            "en": "Hsu Shu-po, chairman of the General Chamber of Commerce"
-          },
-          "date": "2026-09-24",
-          "venue": {
-            "zh": "最低工資審議會後的聲明，優分析轉載",
-            "en": "Statement after the minimum wage review meeting, reposted by UAnalyze"
-          },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "表示尊重審議結果，但最低工資調升會連動勞保、勞退、健保等法定人事成本，呼籲重新檢討雇主與政府的分擔機制、適度提高政府分擔比重。",
-            "en": "Says the committee's decision is respected but that a higher minimum wage raises statutory costs such as labor insurance, labor pension and health insurance; calls for reviewing the employer-government split and raising the government's share."
-          },
-          "verified": false,
-          "source": {
-            "name": "優分析〈工資審議〉",
-            "url": "https://uanalyze.com.tw/articles/2589855982"
-          },
-          "note": {
-            "zh": "二手轉載，沒有引號；商總原始聲明未讀到。",
-            "en": "A reposting without quotation marks; the chamber's original statement was not read."
           }
         },
         {
@@ -685,8 +629,8 @@
             "url": "https://www.cna.com.tw/news/afe/202509020059.aspx"
           },
           "note": {
-            "zh": "同段他也說「不能讓員工生活太困難」，並主張電價不能調漲。",
-            "en": "In the same passage he also said employees' lives must not be made too hard and that electricity prices must not rise."
+            "zh": "這句話的前文：他說台灣大環境不是很好、物價也在波動，「不能讓員工生活太困難」，所以基本工資調高是應該的；後面接著說企業也要有愛心。同一場受訪他主張電價絕對不能調漲。",
+            "en": "The lead-up to this sentence: he said conditions in Taiwan are not good and prices are fluctuating, that employees' lives must not be made too hard, and that a higher basic wage is therefore right; he went on to say businesses should also show some heart. In the same interview he argued electricity prices must not rise."
           }
         },
         {
@@ -707,6 +651,33 @@
           "source": {
             "name": "公視新聞〈最低工資審議會月底登場 勞團籲至少要3萬元〉",
             "url": "https://news.pts.org.tw/article/768894"
+          }
+        },
+        {
+          "group": "business",
+          "actor": {
+            "zh": "全國商業總會理事長許舒博",
+            "en": "Hsu Shu-po, chairman of the General Chamber of Commerce"
+          },
+          "date": "2026-09-24",
+          "venue": {
+            "zh": "最低工資審議會後的聲明，優分析轉載",
+            "en": "Statement after the minimum wage review meeting, reposted by UAnalyze"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示尊重審議結果，但最低工資調升會連動勞保、勞退、健保等法定人事成本，呼籲重新檢討雇主與政府的分擔機制、適度提高政府分擔比重。",
+            "en": "Says the committee's decision is respected but that a higher minimum wage raises statutory costs such as labor insurance, labor pension and health insurance; calls for reviewing the employer-government split and raising the government's share."
+          },
+          "verified": false,
+          "source": {
+            "name": "優分析〈工資審議〉",
+            "url": "https://uanalyze.com.tw/articles/2589855982"
+          },
+          "note": {
+            "zh": "這是對 2026-09-24 最低工資審議結果的回應。報導沒有引號，商總聲明原文沒有讀到。",
+            "en": "A response to the 24 September 2026 minimum wage decision. The report has no quotation marks and the chamber's original statement was not read."
           }
         },
         {
@@ -773,8 +744,8 @@
             "url": "https://www.dpp.org.tw/media/contents/10368"
           },
           "note": {
-            "zh": "2023 年的說法。國民黨在 2024 至 2026 年對基本工資的黨團正式主張沒有找到。",
-            "en": "A 2023 statement. No formal Kuomintang caucus position on the basic wage for 2024 to 2026 was found."
+            "zh": "2023 年的說法。",
+            "en": "A 2023 statement."
           }
         },
         {
@@ -806,8 +777,8 @@
         }
       ],
       "gaps": {
-        "zh": "青年團體針對最低工資的公開說法沒有找到。國民黨與時代力量近年的黨團正式主張沒有找到。勞方與資方委員在審議會上的發言只有勞動部不具名的轉述。",
-        "en": "No public statements on the minimum wage from youth groups were found. No recent formal caucus positions from the Kuomintang or New Power Party were found. What labor and employer members said at the review meeting is available only as the ministry's unnamed summary."
+        "zh": "青年團體針對最低工資的公開說法沒有找到。國民黨與時代力量在 2024 至 2026 年的正式主張沒有找到，民進黨找到的是 2023 年的新聞稿。勞方與資方委員在審議會上的發言只有勞動部不具名的轉述。",
+        "en": "No public statements on the minimum wage from youth groups were found. No formal positions from the Kuomintang or New Power Party for 2024 to 2026 were found, and what was found for the DPP is a 2023 press release. What labor and employer members said at the review meeting is available only as the ministry's unnamed summary."
       }
     },
     {
@@ -829,11 +800,11 @@
           },
           "date": "2025-12-14",
           "venue": {
-            "zh": "聯合報民意論壇投書",
-            "en": "Op-ed in the United Daily News opinion forum"
+            "zh": "聯合報民意論壇投書，立法院三讀停止調降所得替代率之後刊出",
+            "en": "Op-ed in the United Daily News opinion forum, published after the third reading of the amendment to stop replacement-rate cuts"
           },
-          "quote": "此論述簡化了社會正義的複雜內涵，約化為世代間的零和博弈",
-          "quoteEn": "This framing simplifies the complexity of social justice and reduces it to a zero-sum contest between generations",
+          "quote": "年金改革不是零和博弈，世代正義與信賴保護原則也不應是衝突",
+          "quoteEn": "Pension reform is not a zero-sum game, and generational justice and the principle of protecting legitimate expectations should not be in conflict either",
           "paraphrase": null,
           "verified": true,
           "source": {
@@ -841,35 +812,8 @@
             "url": "https://www.worldjournal.com/wj/story/121206/9201737"
           },
           "note": {
-            "zh": "「此論述」指 2018 年年改論述把世代正義塑造為核心價值。同文也提出另一塊基石是政府與人民之間的社會契約。",
-            "en": "\"This framing\" refers to the 2018 reform argument that made generational justice a core value. The same piece adds that another pillar of social justice is the social contract between government and people."
-          }
-        },
-        {
-          "group": "youth-scholars",
-          "actor": {
-            "zh": "陽明交通大學法律學者林志潔",
-            "en": "Lin Chih-chieh, law scholar at National Yang Ming Chiao Tung University"
-          },
-          "date": "2025-11-09",
-          "venue": {
-            "zh": "個人臉書貼文，經聯合報報導",
-            "en": "Personal Facebook post, reported by United Daily News"
-          },
-          "quote": null,
-          "quoteEn": null,
-          "paraphrase": {
-            "zh": "認為若以國家預算撥補退撫基金，沒有退休金的納稅人等於在供養特定職業的退休者，她稱這是世代與階級的不正義。",
-            "en": "Argues that if the state budget tops up the pension fund, taxpayers without pensions would in effect support retirees of one occupation, which she calls unjust across generations and classes."
-          },
-          "verified": false,
-          "source": {
-            "name": "聯合報〈學者林志潔：為年輕人 年改不能走回頭路〉",
-            "url": "https://udn.com/news/story/6656/9127056"
-          },
-          "note": {
-            "zh": "報導為間接敘述；是否為臉書逐字沒有核對。",
-            "en": "Indirect speech in the report; the Facebook original was not checked."
+            "zh": "同文認為 2018 年的年改論述把世代正義塑造為核心價值，把社會正義約化為世代間的零和博弈，並提出另一塊基石是政府與人民間的社會契約。",
+            "en": "The same piece argues that the 2018 reform made generational justice its core value and reduced social justice to a zero-sum contest between generations, and adds that another pillar is the social contract between government and people."
           }
         },
         {
@@ -886,8 +830,8 @@
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "從老年分配的角度指出，年紀越大調降幅度越大，認為這樣的設計不合理。",
-            "en": "From the angle of distribution among the old, says the older the retiree the larger the cut, and calls that design unreasonable."
+            "zh": "表示若不盡快修法，退休 20 年的老教授在 82 歲會被砍 19%、92 歲會被砍 36%，越老越需要經濟安全時政府卻砍得更重，他稱這嚴重違背人性；並表示公教繳納的保費是同年資、同薪資勞工的 5 到 6 倍，領取給付僅約 2 倍。",
+            "en": "Says that without a prompt amendment a professor retired for 20 years would be cut 19% at 82 and 36% at 92, so the government cuts more just when the old most need economic security, which he says goes badly against human nature; also says civil servants and teachers pay 5 to 6 times the premiums of workers with the same service and pay, and receive only about twice the benefit."
           },
           "verified": false,
           "source": {
@@ -895,28 +839,35 @@
             "url": "https://newtalk.tw/news/view/2025-11-04/1002660"
           },
           "note": {
-            "zh": "報導為間接敘述。",
-            "en": "Indirect speech in the report."
+            "zh": "報導為間接敘述，用詞照報導所載。",
+            "en": "Indirect speech in the report, with wording as the report gives it."
           }
         },
         {
-          "group": "party",
+          "group": "youth-scholars",
           "actor": {
-            "zh": "民主進步黨",
-            "en": "Democratic Progressive Party"
+            "zh": "山暗光學生陣線成員林泊瑋",
+            "en": "Lin Po-wei, member of the Shan-An-Guang Student Front"
           },
-          "date": "2025-10-22",
+          "date": "2025-02-21",
           "venue": {
-            "zh": "民進黨官網新聞稿標題",
-            "en": "Headline of a DPP website press release"
+            "zh": "台灣青年世代共好協會與學生、青年團體在立法院的記者會，中央廣播電臺報導",
+            "en": "Briefing at the Legislative Yuan by the Taiwan Generation Co-prosperity Association with student and youth groups, reported by Radio Taiwan International"
           },
-          "quote": "藍白不要掏空國庫、破壞世代正義",
-          "quoteEn": "KMT and TPP should not drain the national treasury or damage generational justice",
-          "paraphrase": null,
-          "verified": true,
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示各職業年金體系普遍財務失衡甚至面臨破產，批評立法院提高警消退休所得替代率、並計畫讓公教人員比照辦理，會讓年金改革「開倒車」，進一步加重年輕世代的財政負擔，呼籲立法院審慎修法。",
+            "en": "Says pension schemes across occupations are generally out of balance or even facing bankruptcy; criticises the legislature for raising replacement rates for retired police and firefighters and planning the same for civil servants and teachers, which he says would put pension reform \"into reverse\" and add to the fiscal burden on the young, and urges careful lawmaking."
+          },
+          "verified": false,
           "source": {
-            "name": "民主進步黨新聞中心〈年改莫走回頭路〉",
-            "url": "https://www.dpp.org.tw/media/contents/11345"
+            "name": "中央廣播電臺〈青年團體聯合發聲 呼籲立院新會期推動六大改革法案〉（LINE TODAY 轉載）",
+            "url": "https://today.line.me/tw/v3/article/aGowZxp"
+          },
+          "note": {
+            "zh": "2025 年 2 月的說法，早於公教修法三讀，談的是當時提高警消所得替代率與擬比照辦理公教的計畫。報導為間接敘述。",
+            "en": "A February 2025 statement, made before the civil service amendment passed; it concerns the higher replacement rate for police and firefighters and the plan at the time to extend it to civil servants and teachers. Indirect speech in the report."
           }
         },
         {
@@ -947,6 +898,33 @@
           }
         },
         {
+          "group": "party",
+          "actor": {
+            "zh": "國民黨立法院黨團",
+            "en": "Kuomintang caucus in the Legislative Yuan"
+          },
+          "date": "2026-01-19",
+          "venue": {
+            "zh": "黨團新聞稿，回應行政院、考試院與民進黨立法院黨團聲請釋憲，經 Yahoo 新聞刊載的報導",
+            "en": "Caucus press release responding to the constitutional petitions by the Executive Yuan, the Examination Yuan and the DPP caucus, as reported on Yahoo News"
+          },
+          "quote": null,
+          "quoteEn": null,
+          "paraphrase": {
+            "zh": "表示停止調降的修法是為了落實對公教人員的「信賴保護」，修正過去不合理且嚴重剝奪式的改革；並表示年金改革不該是製造世代對立、騙取選票的工具，要還給辛勞一輩子的公教人員最基本的尊重與尊嚴。",
+            "en": "Says the amendment is meant to honour the \"protection of legitimate expectations\" owed to civil servants and teachers and to correct an unreasonable and severely depriving reform; also says pension reform should not be a tool for creating generational conflict and winning votes by deceit, and that civil servants and teachers who worked all their lives should be given back basic respect and dignity."
+          },
+          "verified": false,
+          "source": {
+            "name": "Yahoo 新聞〈綠為反停砍年金聲請釋憲 藍主張：為落實公教人員信賴保護〉（2026-01-20）",
+            "url": "https://tw.news.yahoo.com/%E7%B6%A0%E7%82%BA%E5%8F%8D%E5%81%9C%E7%A0%8D%E5%B9%B4%E9%87%91%E8%81%B2%E8%AB%8B%E9%87%8B%E6%86%B2-%E8%97%8D%E4%B8%BB%E5%BC%B5-%E7%82%BA%E8%90%BD%E5%AF%A6%E5%85%AC%E6%95%99%E4%BA%BA%E5%93%A1%E4%BF%A1%E8%B3%B4%E4%BF%9D%E8%AD%B7-002906638.html"
+          },
+          "note": {
+            "zh": "黨團新聞稿原文沒有找到，這裡依報導的間接敘述轉述，引號內是報導所載黨團用語。",
+            "en": "The caucus press release itself was not found; this follows the report's indirect account, and the quoted term is the caucus's wording as printed in the report."
+          }
+        },
+        {
           "group": "civil-servants",
           "actor": {
             "zh": "全國教育產業總工會前理事長黃耀南",
@@ -960,8 +938,8 @@
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "認為政府沒有道理再用世代對立的理由爭取選票，並稱把公教人員當成犧牲對象只會抹黑與鬥爭公教人員。",
-            "en": "Says the government has no basis for using generational conflict to win votes, and that treating civil servants and teachers as a sacrifice only smears and pits them against others."
+            "zh": "表示停止調降公教退休金並隨物價調整，只是為年金改革做一個停損，公教所得替代率已低於 OECD 國家的平均，政府沒有道理再用世代對立的理由騙取選票；並批評把公教人員當成犧牲對象，只會抹黑、鬥爭公教人員。",
+            "en": "Says stopping the cuts and indexing to prices only sets a stop-loss on pension reform, that the replacement rate is already below the OECD average, and that the government has no reason to keep using generational conflict to win votes by deceit; also criticises treating civil servants and teachers as a sacrifice, saying it only smears and attacks them."
           },
           "verified": false,
           "source": {
@@ -969,8 +947,8 @@
             "url": "https://udn.com/news/story/124680/9226835"
           },
           "note": {
-            "zh": "報導為間接敘述。",
-            "en": "Indirect speech in the report."
+            "zh": "報導為間接敘述，用詞照報導所載；職稱照報導寫「前理事長」。",
+            "en": "Indirect speech in the report, with wording as the report gives it; the title follows the report, which says former chairman."
           }
         },
         {
@@ -993,8 +971,8 @@
             "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/f119f3a5-649f-407f-b5d4-2b6caa6c6627"
           },
           "note": {
-            "zh": "新聞稿原句：行政院將全力捍衛「世世代代領得到，長長久久領到老」的年金制度。",
-            "en": "In the release, the Executive Yuan says it will fully defend a pension system where every generation receives it and it lasts a lifetime."
+            "zh": "新聞稿原句：行政院將全力捍衛「世世代代領得到，長長久久領到老」的年金制度。這是立法院三讀停止調降所得替代率當天的回應，新聞稿同一句並稱這樣符合世代公平正義。",
+            "en": "In the release, the Executive Yuan says it will fully defend a pension system where every generation receives it and it lasts a lifetime. This was its response on the day of the third reading; the same sentence says this accords with fairness and justice between generations."
           }
         },
         {
@@ -1011,8 +989,8 @@
           "quote": null,
           "quoteEn": null,
           "paraphrase": {
-            "zh": "認為停止調降的修法違背世代正義與公益原則，院會因此同意聲請釋憲及暫時處分。",
-            "en": "Says the amendment breaches generational justice and the public interest, which is why the council agreed to petition for interpretation and an interim order."
+            "zh": "表示停止調降所得替代率的修法將使退撫基金提前用罄，破壞退撫基金永續經營，違背世代正義與公益原則，因此決議向憲法法庭聲請釋憲及暫時處分。",
+            "en": "Says the amendment to stop replacement-rate cuts will run the pension fund dry earlier, undermine its sustainable operation and breach generational justice and the public interest, and that it therefore resolved to petition the Constitutional Court for interpretation and an interim order."
           },
           "verified": false,
           "source": {
@@ -1020,14 +998,14 @@
             "url": "https://www.cna.com.tw/news/aipl/202601080279.aspx"
           },
           "note": {
-            "zh": "報導為間接引述考試院決議。",
-            "en": "The report gives the resolution in indirect speech."
+            "zh": "報導為間接敘述，用詞照中央社所載。",
+            "en": "Indirect speech in the report, with wording as the Central News Agency gives it."
           }
         }
       ],
       "gaps": {
-        "zh": "勞工團體與資方團體談世代公平的說法沒有找到。青年團體（如世代共好協會、臺灣青年民主協會）直接談年金金額的聲明沒有找到，找到的是青年基本法場合的發言。台灣基進與社會民主黨沒有查到正式主張。",
-        "en": "No statements on generational fairness from labor or business groups were found. No statements by youth groups such as the Taiwan Generation Co-prosperity Association or the Taiwan Youth Democracy Association on pension amounts were found; what exists is from Youth Basic Law events. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found."
+        "zh": "這個議題沒有找到民眾黨的公開說法；國民黨立法院黨團只找到媒體對新聞稿的轉述。民進黨談世代公平的說法，出自對停止調降修法的回應，放在「公教年改與停止調降修法」議題。勞工團體與資方團體談世代公平的說法沒有找到。青年團體直接談這次公教修法的聲明沒有找到，找到的是 2025 年 2 月談警消與公教所得替代率的發言，以及青年基本法場合的發言。台灣基進與社會民主黨的正式主張沒有找到。",
+        "en": "No public statement from the People's Party was found for this topic, and for the Kuomintang caucus only a media account of its press release was found. The DPP's remarks on generational fairness were made in response to the amendment and are listed under the pension amendment topic. No statements on generational fairness from labor or business groups were found. No youth group statement directly on this amendment was found; what exists is a February 2025 remark on replacement rates for police, firefighters, civil servants and teachers, and remarks from Youth Basic Law events. No formal position from Taiwan Statebuilding Party or the Social Democratic Party was found."
       }
     },
     {
@@ -1161,10 +1139,6 @@
           "source": {
             "name": "勞動部法令查詢系統：勞基法第 36 條修正理由",
             "url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?id=FL014930&flno=36"
-          },
-          "note": {
-            "zh": "原頁排版在句中夾有空白，引文已去掉空白，字句沒有增刪。",
-            "en": "The original page has layout spaces inside the sentence; they are removed here and no words were added or dropped."
           }
         }
       ],
@@ -1353,8 +1327,8 @@
             "url": "https://www.dpp.org.tw/media/contents/10368"
           },
           "note": {
-            "zh": "2023 年的說法；民進黨 2024 至 2026 年對綜所稅的黨團正式主張沒有找到。",
-            "en": "A 2023 statement; no formal DPP caucus position on income tax for 2024 to 2026 was found."
+            "zh": "2023 年的說法，這裡是新聞稿內容的摘要。",
+            "en": "A 2023 statement; this summarises the press release."
           }
         },
         {
@@ -1406,8 +1380,8 @@
         }
       ],
       "gaps": {
-        "zh": "資本利得稅沒有查到任何政黨的正式主張，上表只有立法委員與學者的個別說法。資方團體針對綜所稅的說法沒有收錄。國民黨與台灣基進、社會民主黨在綜所稅上的近期黨團正式主張沒有找到。審計部 2026 年提出資本所得未完全納入課稅的意見，原報告沒有打開，本頁不收。",
-        "en": "No formal party position on a capital gains tax was found; the entries above are individual legislators and scholars. No business group statements on income tax are included. No recent formal caucus positions on income tax from the Kuomintang, Taiwan Statebuilding Party or the Social Democratic Party were found. The National Audit Office's 2026 remark that some capital income is not fully taxed is not included because its original report could not be opened."
+        "zh": "資本利得稅沒有找到任何政黨的正式主張，上面只有立法委員與學者的個別說法。資方團體針對綜所稅的說法沒有找到。國民黨、台灣基進與社會民主黨在綜所稅上的近期正式主張沒有找到，民進黨找到的是 2023 年的新聞稿。",
+        "en": "No formal party position on a capital gains tax was found; the entries above are individual legislators and scholars. No business group statements on income tax were found. No recent formal positions on income tax from the Kuomintang, Taiwan Statebuilding Party or the Social Democratic Party were found, and what was found for the DPP is a 2023 press release."
       }
     }
   ]
