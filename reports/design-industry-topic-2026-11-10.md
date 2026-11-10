@@ -249,6 +249,72 @@ C 案的優點用另一種方式保留：`knowledge/Economy/台灣前50大企業
 
 ---
 
+## 十、對照共用契約 v1（2026-11-10 補）
+
+協調者（Muse 研究 session）在實作途中發出五個專題的共用契約 v1 與地基分支 `topics-foundation`。本專題照契約對齊，下面是對照。
+
+### 主頁掛在哪裡
+
+主頁是 `/industry/`，不掛在 `/companies/` 底下。理由見 §三：查榜單與想理解結構是兩個問題。對既有排名的影響：`/companies/` 的網址、`<title>`、description、H1 與原有七個區塊都沒有動；新增的只有專題入口、排行表的互動與兩欄、歷年前十名一節。頁面多了兩條往 `/industry/` 的站內連結，會分一點內部權重出去，換到的是專題頁從全站點擊第一的頁面拿到入口。
+
+### 三個工具的三個入口
+
+| 工具       | slug               | 專題頁內嵌          | 單獨頁                        | 內嵌板                              | 元件                                                   |
+| ---------- | ------------------ | ------------------- | ----------------------------- | ----------------------------------- | ------------------------------------------------------ |
+| 排行篩選   | `company-ranking`  | `/industry/` 第五節 | `/companies/`（既有頁，見下） | `/embed/industry/company-ranking/`  | `src/components/industry/tools/CompanyRanking.astro`   |
+| 供應鏈地圖 | `supply-chain-map` | `/industry/` 第四節 | `/industry/supply-chain-map/` | `/embed/industry/supply-chain-map/` | `src/components/industry/tools/SupplyChainMap.astro`   |
+| 產業時間軸 | `timeline`         | `/industry/` 第一節 | `/industry/timeline/`         | `/embed/industry/timeline/`         | `src/components/industry/tools/IndustryTimeline.astro` |
+
+**一個例外**：排行工具的單獨頁登記成既有的 `/companies/`，沒有另開 `ToolPage` 版的 `/industry/company-ranking/`。兩頁會搶同一組查詢詞（「台灣市值前50大公司」「台灣百大企業排名」），而 `/companies/` 已經排在第二、三名。代價是這一頁沒有 `ToolPage` 的常見問題與 `WebApplication` 結構化資料。已知會協調者，等回覆。
+
+每個工具的 Props 有 `lang` 與 `variant`，狀態同步到查詢參數（排行 `?sort=&dir=&industry=&county=`、供應鏈 `?chain=&q=`、時間軸 `?track=`），沒有 JavaScript 時內容完整可見，同一頁可放多個實例。計算與解析在 `src/utils/industry/`（`companiesRank.ts`、`toolState.ts`）。
+
+### 標題與描述
+
+| 頁                            | 標題（zh）                                                      | 描述（zh）                                                                                                                                         |
+| ----------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/industry/`                  | 台灣產業全景：出口、GDP、科學園區與上市公司，七十年怎麼走到晶圓 | 2025 年台灣出口有 74% 是電子，製造業占 GDP 38.6%，一家公司占上市櫃市值 38%。這一頁用官方統計畫出產業結構怎麼來的⋯⋯每個數字附來源與日期。           |
+| `/industry/supply-chain-map/` | 台灣供應鏈地圖 2026：半導體、AI 伺服器、鎢，誰在哪一環          | 把半導體、AI 伺服器、鎢三條供應鏈拆成 22 個環節，查 50 家台灣公司各做哪一段、哪一環靠國外。角色依年報與官網整理，每個節點附出處，截至 2026-11-10。 |
+| `/industry/timeline/`         | 台灣產業時間軸 1953–2026：政策、企業、股市、國際                | 從 1953 年的經建計畫、1966 年高雄加工出口區、1980 年竹科、1987 年台積電，到 2026 年臺美貿易協定，37 個事件分四條線，每筆附官方出處與日期。         |
+| `/companies/`                 | 不動                                                            | 不動                                                                                                                                               |
+
+主頁標題與描述比契約的字數上限長（標題 30 字、描述 70 到 80 字），交協調者定稿時一起收。英文版在 `src/i18n/industry/en.ts` 的 `meta.*`、`tool.*.meta*`。
+
+### 檔案位置
+
+照契約第 1 節：`src/components/industry/{sections,tools,charts}/`、`src/utils/industry/`、`src/data/industry/`、`src/styles/industry.css`（前綴 `ind-`）、`tests/industry-*.test.mjs`、`scripts/tools/build-industry-*.py`、`src/data/topics/industry.json`。
+
+兩處跟契約字面不同：文案放 `src/i18n/industry/`（`index.ts`＋`zh.ts`＋`en.ts`，import 路徑仍是 `src/i18n/industry`），沒有展開進 `ui.ts`；內容檔的中英文字放 `src/data/industry/content/*.json`，由 i18n 攤平成鍵。
+
+### 沒動的共用檔
+
+Header、Footer、SEO、Layout、首頁、`src/components/budget/*`、`src/components/data-hub/*`、`astro.config.mjs`、`ui.ts` 都沒有改。改到的既有檔只有 `src/templates/companies.template.astro` 與十一篇 `knowledge/` 文章的延伸閱讀。
+
+### 新增的可共用元件
+
+- `src/components/industry/charts/CountyTiles.astro`：22 縣市等大磚圖，任何「各縣市一個數字」的資料都能用。
+- `src/components/industry/charts/TopTenHistory.astro`：多欄名次表，標出新進者與指定對象。
+- `src/components/industry/charts/ChainFlow.astro`：環節流程卡。
+- `src/utils/industry/related.ts`：站內文章連結，沒有譯文的語言不出連結（`/budget` 的版本會退回中文頁）。
+
+### 請協調者處理
+
+1. 導覽列「資料」子選單加 `/industry/` 入口。
+2. `/data/` 的企業地圖區塊加一條往 `/industry/` 的連結。
+3. `PageHero` 的 `<h1>` 寫死 `text-[#1a1a2e]`，深色模式在 `/budget` 幾乎看不見；專題頁靠 `.tf-surface` 修掉了，`/budget` 還沒有。
+4. 排行工具單獨頁的例外要不要維持。
+5. OG 圖：三個新頁還沒有專屬 OG 圖，用的是站上預設。
+
+---
+
 ## 後記
 
-（實作中補）
+實作途中跟原規劃不一樣的地方：
+
+- **歷年市值前十名拿到了。** 原本預期拿不到同口徑的官方名單。研究子代找到證交所 `MI_QFIIS` 的歷史發行股數，乘上 `MI_INDEX` 的年底收盤價，算出 2005 到 2025 各年底前十名；2023 到 2025 三年跟證交所月訊公布的前十名逐一相同。2000 到 2003 年證交所的線上資料查不到，頁面照實寫沒有。
+- **「較 6 月榜」的口徑問題還在。** 6 月那一版是指數權重反推、只含上市。這一輪沒有重算，頁面註明只適合看方向。
+- **其他 11 語沒有翻。** 文案與內容合計 723 個鍵。契約第 5 節訂的是 zh-TW 與 en 完整、其他語言照現行回退，所以這一輪不翻，非中文非英文的頁面顯示英文並附一行說明。
+- **供應鏈子頁改名。** `/industry/supply-chains/` 改成工具單獨頁 `/industry/supply-chain-map/`，舊網址沒有上線過，不留轉址。
+- **主頁拆檔。** 模板原本一千一百行，照契約拆成九個分節元件加一支 `pageData.ts`，模板剩一百七十行。
+- **幾個數字在收件時被擋下或改寫**：十大建設沒有單一官方完工年，只寫開始年；加權指數 1990 年首次站上萬點的日期查不到，沒有列；輝達、超微年報的引文是轉述取得、沒有對到原文，供應鏈缺口說明改成不引用那兩份年報的寫法；台中精密機械聚落的「全球第一」「九千億」是地方政府自述，沒有放數字。
+- **主 session 親自對過原文的來源**：財政部 2025 年出口結構比、主計總處 2026 年 8 月預測新聞稿、TSIA 2026 年第二季新聞稿、國科會園區營業額附件、證交所 2025 年 12 月月訊、TrendForce 2024 年 5 月稿、台積電 2025 年報與 20-F、央行〈當前台灣產業發展之探討〉與金融穩定報告第 48 頁、能源署電力供需報告、證交所歷史指數 API，以及第七節二十四張立場卡的引句。
