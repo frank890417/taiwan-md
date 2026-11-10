@@ -28,13 +28,13 @@ const f = historyFacts();
 const articles = await eventArticleCards(lang);
 const zh = isZh(lang);
 
-/** lede 的第一句當 H2，其餘留作段落。 */
+/** lede 的第一句（遇到分號就在分號斷開）當 H2，其餘留作段落。 */
 function splitLede(text: string): { head: string; rest: string } {
   const m = zh
-    ? text.match(/^(.+?[。！？])\s*(.*)$/s)
-    : text.match(/^(.+?[.!?])\s+(.*)$/s);
+    ? text.match(/^(.+?[。！？；])\s*(.*)$/s)
+    : text.match(/^(.+?[.!?;])\s+(.*)$/s);
   if (!m) return { head: text.replace(/[。.]$/, ''), rest: '' };
-  return { head: m[1].replace(/[。.]$/, ''), rest: m[2] };
+  return { head: m[1].replace(/[。.；;]$/, ''), rest: m[2] };
 }
 const eras = f.eras.map((e: any) => {
   const { head, rest } = splitLede(loc(e.lede, lang));

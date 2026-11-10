@@ -115,9 +115,6 @@ const srcTag = (k: string) => (k === 'primary' ? L.primary : L.reported);
                                 {fmtPeriod(qt.date, lang)}
                               </time>
                               <span class="hs-tag">
-                                {qt.verbatim ? L.quote : L.reported}
-                              </span>
-                              <span class="hs-tag">
                                 {srcTag(qt.source.kind)}
                               </span>
                               <a

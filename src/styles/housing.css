@@ -2163,3 +2163,15 @@
     white-space: normal;
   }
 }
+.housing-page .hs-eras-head .hs-jump-list {
+  flex-wrap: wrap;
+  overflow-x: visible;
+}
+.housing-page .hs-rt-src2 td:last-child {
+  white-space: nowrap;
+}
+@media (max-width: 720px) {
+  .housing-page .hs-rt-src2 td:last-child {
+    white-space: normal;
+  }
+}
