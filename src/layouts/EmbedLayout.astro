@@ -1,0 +1,181 @@
+---
+/**
+ * EmbedLayout — 內嵌板外殼（/embed/<topic>/<tool-slug>/，專題共用契約 v1 第 4 節 (c)）。
+ *
+ * 給別人用 iframe 嵌進自己網站的極簡頁：只有工具本體、一行資料來源、
+ * 一行連回單獨頁的 Taiwan.md。沒有站頭站尾、沒有追蹤碼、不載 justfont。
+ *
+ *   - noindex，canonical 指向單獨頁。
+ *   - ?theme=light|dark 固定主題；沒帶就跟系統（prefers-color-scheme）。
+ *   - 高度變化時 parent.postMessage({ type: 'twmd-embed-height', height }, '*')。
+ *
+ * 用法（src/pages/embed/<topic>/<tool-slug>.astro）：
+ *   <EmbedLayout title="房貸試算" lang={lang}
+ *     canonical="https://taiwan.md/housing/mortgage-calculator/"
+ *     sourceNote="資料：中央銀行，截至 2026-09">
+ *     <MortgageCalculator lang={lang} variant="embed" />
+ *   </EmbedLayout>
+ *
+ * 注意：內容不要包 <main>。global.css 給 main 設了 min-height: calc(100vh - 60px)，
+ * 在 iframe 裡會讓回報的高度跟著外框一路長高。
+ */
+import '../styles/global.css';
+import type { Lang } from '../config/languages';
+import { getLanguage } from '../config/languages';
+import { useTopicsT } from '../i18n/topics';
+import { withBrand } from '../utils/pageTitle';
+import { absoluteUrl } from '../utils/tools/jsonld';
+import { EMBED_MESSAGE_TYPE } from '../utils/tools/embed';
+
+export interface Props {
+  /** 工具名稱，寫進 <title>。 */
+  title: string;
+  lang: Lang;
+  /** 單獨頁完整網址（也接受 / 開頭的站內路徑，會補成 https://taiwan.md/...）。 */
+  canonical: string;
+  /** 底部一行「資料來源與截止日期」。 */
+  sourceNote?: string;
+}
+
+const { title, lang, canonical, sourceNote } = Astro.props;
+const t = useTopicsT(lang);
+const dir = getLanguage(lang)?.dir ?? 'ltr';
+const canonicalUrl = absoluteUrl(canonical);
+---
+
+<!doctype html>
+<html lang={lang} dir={dir}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>{withBrand(title)}</title>
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <script is:inline>
+      (function () {
+        try {
+          var html = document.documentElement;
+          var theme = new URLSearchParams(location.search).get('theme');
+          var mq = window.matchMedia
+            ? window.matchMedia('(prefers-color-scheme: dark)')
+            : null;
+          var apply = function (dark) {
+            if (dark) html.setAttribute('data-theme', 'dark');
+            else html.removeAttribute('data-theme');
+          };
+          if (theme === 'dark' || theme === 'light') {
+            apply(theme === 'dark');
+          } else {
+            apply(!!(mq && mq.matches));
+            if (mq && mq.addEventListener) {
+              mq.addEventListener('change', function (e) {
+                apply(e.matches);
+              });
+            }
+          }
+        } catch (_) {}
+      })();
+    </script>
+  </head>
+  <body class="tf-embed">
+    <div class="tf-embed-body">
+      <slot />
+    </div>
+    <footer class="tf-embed-foot">
+      {
+        sourceNote && (
+          <p class="tf-embed-source">
+            <span class="tf-embed-source-label">
+              {t('embed.footer.source')}
+            </span>
+            {sourceNote}
+          </p>
+        )
+      }
+      <p class="tf-embed-brand">
+        <a
+          href={canonicalUrl}
+          target="_blank"
+          rel="noopener"
+          aria-label={t('embed.footer.open')}
+          title={t('embed.footer.open')}>Taiwan.md</a
+        >
+      </p>
+    </footer>
+    <script is:inline define:vars={{ messageType: EMBED_MESSAGE_TYPE }}>
+      (function () {
+        if (window.parent === window) return;
+        var last = 0;
+        var send = function () {
+          var h = Math.ceil(document.body.getBoundingClientRect().height);
+          if (!h || h === last) return;
+          last = h;
+          window.parent.postMessage({ type: messageType, height: h }, '*');
+        };
+        if (typeof ResizeObserver === 'function') {
+          new ResizeObserver(send).observe(document.body);
+        } else {
+          window.addEventListener('resize', send);
+        }
+        window.addEventListener('load', send);
+        send();
+      })();
+    </script>
+  </body>
+</html>
+
+<style>
+  /* 內嵌板不要站上 body 的漸層底，也不要撐滿視窗高（高度由內容決定）。 */
+  .tf-embed {
+    margin: 0;
+    padding: 0.75rem;
+    background: var(--color-bg);
+    background-image: none;
+    color: var(--color-ink);
+    font-family: var(--font-interface);
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+  .tf-embed-body {
+    min-width: 0;
+  }
+  .tf-embed-foot {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25rem 1rem;
+    margin-top: 0.75rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.78rem;
+    color: var(--color-ink-soft);
+  }
+  .tf-embed-foot p {
+    margin: 0;
+  }
+  .tf-embed-source {
+    flex: 1 1 14rem;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+  .tf-embed-source-label {
+    margin-inline-end: 0.4em;
+    font-weight: 700;
+  }
+  .tf-embed-brand {
+    margin-inline-start: auto;
+  }
+  .tf-embed-brand a {
+    color: var(--color-ink);
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .tf-embed-brand a:hover,
+  .tf-embed-brand a:focus-visible {
+    color: var(--color-accent);
+    border-bottom-color: currentColor;
+  }
+</style>
