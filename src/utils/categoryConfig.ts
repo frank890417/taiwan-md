@@ -8,13 +8,13 @@ export interface CategoryConfig {
   color: string;
   colorLight: string;
   gradient: string;
-  /** 文章沒有封面圖時 ArticleHero 的分類預設背景。2026-11-04 全站普查 §八 #10：原本 14 張
+  /** 分類代表圖（2026-11-10 起 ArticleHero 不再拿它當背景：人物類會把李安墊在別人的文章後面，hero 改回純色）。原為文章沒有封面圖時 ArticleHero 的分類預設背景。2026-11-04 全站普查 §八 #10：原本 14 張
    * 全是 upload.wikimedia.org 縮圖熱連結，其中 8 個檔名在 Commons 查無此檔、其餘雜湊路徑
    * 也對不上（抽測 4 張全是 HTTP 400），等於 904 篇沒封面的文章頂部背景一直是破圖。改成
    * image-ingest.mjs 收進庫的本地圖（授權核對、清 EXIF、轉 WebP），消失的檔名換成同主題、
    * CC BY／BY-SA／CC0 的 Commons 圖。 */
   cover: string;
-  /** 封面圖出處（CC 署名義務）。ArticleHero 用分類預設封面當背景時，在右下角印一行
+  /** 封面圖出處（CC 署名義務）。日後若再顯示 cover，要一併印出署名；原本 ArticleHero 用分類預設封面當背景時，在右下角印一行
    * 「{article.imageCredit}：作者 · 授權 · {article.imageSource}」，跟文章封面圖說同一格式，
    * 十三語共用（標籤走 i18n，授權名稱不翻譯）。 */
   coverCredit?: string;
