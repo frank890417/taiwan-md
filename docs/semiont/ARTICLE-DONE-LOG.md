@@ -59,6 +59,19 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 楊維哲 — 2026-11-10 20261110-evolve-yang-weizhe 完成（EVOLVE，投稿初稿深化重寫）
+
+- **Article**: [knowledge/People/楊維哲.md](../../knowledge/People/楊維哲.md)
+- **Pipeline**: REWRITE-PIPELINE-SINGLE v6.8.3 — Evolution 模式（全站普查 A1 thin），多 agent 編排：主 session（Opus）觀點＋立法院公報原件對讀＋媒體 → 四條 Sonnet 研究 lane → fresh Opus 寫手（不讀舊稿）→ 兩席 Sonnet 查證（231 原子，0 ❌ 留存）→ 主 session 修訂
+- **組織主軸**：一個做得出來的例子，勝過一百個「不可能」的理由（立體群像；1997 違憲質詢是其中一面）
+- **Hook**：1996 年秋天課程表上的「台語授課」，教務長批「上課不宜用方言」，他照開
+- **新一手材料**：立法院公報第 86 卷第 39 期（1997-10-06 教育委員會，傅崐成質詢、吳京答覆全文，含傅崐成自述親自打電話勸說）；第 107 卷第 55 期（2018 國家語言發展法審查，林福來、管碧玲、柯志恩三人以他為例）；校史館口述整理稿三場（存檔）；〈引潮力三講〉（2025）
+- **品質**：5,930 CJK ／ 37 腳註／ 5 圖＋2 官方影片＋1 tw-timeline；rewrite-stage-3-5、rewrite-stage-4、ci-deploy、pre-commit、prose-health、opening-readability 全 hard=0 warn=0；`lastHumanReview: false`，拿掉 `curation: incubating`／`curationReason: thin`
+- **舊稿稽核**：42 原子，✅ 25／⚠️ 9／❌ 7／🚫 1，另 5 句無出處詮釋句；明細在 [reports/research/2026-11/楊維哲-errata.md](../../reports/research/2026-11/楊維哲-errata.md)（IMO 教官、出版社文案當本人話、「不屑」時間錯置、蜂巢場景、報導標題當口頭禪等）
+- **Research**: [reports/research/2026-11/楊維哲.md](../../reports/research/2026-11/楊維哲.md)
+- **Cross-link**：反向連結補進〈社區大學黃武雄〉；〈語言多樣性與母語文化〉沒有延伸閱讀區塊，未補
+- **待人補**：普林斯頓博士論文題目與指導教授、1997 年報紙原件與他當時的回應、2023-12-01 台語金曜講座實況
+
 ### 全面進化 2026-11-04 — twmd-desk 完成（GA／SC 資料驅動：5 篇 EVOLVE、1 篇 NEW、SEO 與頁面、全站與網站健檢）
 
 - **規劃與資料**：[reports/evolve-plan-2026-11-04.md](../../reports/evolve-plan-2026-11-04.md)、[reports/evolve-2026-11-04.md](../../reports/evolve-2026-11-04.md)（扣自動流量後真人 6.2 萬／28 天；搜尋真實點擊率 1.29%）
@@ -68,7 +81,7 @@ read_strategy: 'on-demand'
   - 〈地瓜球〉1,518→4,723 字、腳註 14→24、圖 0→7
   - 〈這群人〉腳註 9→56，開場回答「解散了沒」，七人成員表
   - 〈齊柏林〉3,532→6,686 字、腳註 0→41；墜機段照飛安會最終報告措辭
-- **NEW**：〈奇拿富〉4,889 字、24 腳註（主 session 補分席：Sonnet 查證 ❌2 ⚠️18、Opus 2.5-R 7 必改，已修；學名用 *Trichodesma calycosum*）
+- **NEW**：〈奇拿富〉4,889 字、24 腳註（主 session 補分席：Sonnet 查證 ❌2 ⚠️18、Opus 2.5-R 7 必改，已修；學名用 _Trichodesma calycosum_）
 - **SEO**：中英文 20 篇 title／description（美麗島事件英文補 Kaohsiung Incident 等）；全聯十語錯品牌名、尼克星阿文音譯
 - **頁面與模板**：用語詞條 306 頁標題改答字義、選舉時程、企業、台灣形狀／地圖分工、時間軸、分類頁、預算、用語首頁、探索數字
 - **健檢**：[全站文章普查](../../reports/article-health-census-2026-11-04.md)（167 篇標進化中、說明條拆待查證／待擴寫、封面升格與分類封面署名、article-census.py＋curation-gap）；[網站健檢](../../reports/site-health-2026-11-04.md)（11 項修正，7 項待決）
