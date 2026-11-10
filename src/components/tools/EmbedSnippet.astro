@@ -12,6 +12,7 @@
 import type { Lang } from '../../config/languages';
 import { useTopicsT } from '../../i18n/topics';
 import { localizePath } from '../../utils/topics/registry-core';
+import { uiDir } from '../../utils/topics/ui-dir';
 import { absoluteUrl } from '../../utils/tools/jsonld';
 import { buildEmbedSnippet } from '../../utils/tools/embed';
 
@@ -27,6 +28,7 @@ export interface Props {
 
 const { embedPath, title, lang, height = 640 } = Astro.props;
 const t = useTopicsT(lang);
+const ui = uiDir(lang);
 const src = absoluteUrl(localizePath(embedPath, lang));
 const code = buildEmbedSnippet({ src, title, height });
 const rows = code.split('\n').length + 1;
@@ -37,6 +39,8 @@ const rows = code.split('\n').length + 1;
   data-tf-snippet
   data-copied={t('embed.copied')}
   data-failed={t('embed.copyFailed')}
+  dir={ui.dir}
+  lang={ui.lang}
 >
   <p class="tf-snippet-intro">{t('embed.intro')}</p>
   <label class="tf-snippet-field">
