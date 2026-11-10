@@ -25,6 +25,10 @@
       {
         "name": "全國法規資料庫《勞工保險條例》與沿革",
         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001"
+      },
+      {
+        "name": "總統府新聞稿（2026-08-07，全國模範勞工慶祝晚宴）：2026 年勞保撥補編列數與立法院審議狀態",
+        "url": "https://www.president.gov.tw/News/40250"
       }
     ],
     "asOf": "2025-12-31",
@@ -35,7 +39,7 @@
       "基金規模與收益率只有 2019、2020、2023、2024、2025 年（民國 108、109、112、113、114）讀到勞動基金運用局一手原文；其餘年份（2016、2017、2018、2021、2022）填 null，一手原文未能讀到。",
       "2020 年基金規模有兩個口徑：精算報告「勞保基金結餘」7,625 億（基準日 2020-12-31），勞動基金運用局「基金運用規模」7,851 億。本檔基金規模用運用局口徑；精算表用精算報告口徑。",
       "2025 年底精算現值與「潛藏負債 14.2 兆」只有媒體轉述，沒有一手原文，不放入；三次精算以 113 年度報告的 UAL 13 兆 2,298 億（基準日 2023-12-31）為準。",
-      "2026（民國 115）年政府撥補（公務預算 1,200 億＋特別條例 100 億、累計 5,170 億）只有媒體（聯合報）搜尋摘要，未讀到原文，不放入 subsidies。",
+      "2026（民國 115）年政府撥補：總統府 2026-08-07 新聞稿寫今年編列 1,300 億元、7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。這筆是已編列、截至該新聞稿發布時立法院尚未通過的數字，記在 subsidies.budgetedNotPassed，不放進 subsidies 的逐年序列與圖。銓敘部 2025-11-05 立法院書面問答也寫「到115年累計編列5170億元」。",
       "各次精算的「潛藏負債」口徑不同（UAL、預算書的過去服務應計給付精算現值、決算數字），彼此不可比；本檔只放精算報告的 AL／基金結餘／UAL 欄位。"
     ]
   },
@@ -97,7 +101,8 @@
       "fundNegativeYear": 2026,
       "fundExhaustWithoutFutureSubsidyRoc": null,
       "fundExhaustWithoutFutureSubsidyYear": null,
-      "balancedPremiumRatePct": 27.94,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 27.94,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 18.13,
       "discountRatePct": 3.5,
       "insuredCountMillion": 9.8,
       "wageGrowthRatePct": 1.5,
@@ -119,7 +124,8 @@
       "fundNegativeYear": 2028,
       "fundExhaustWithoutFutureSubsidyRoc": 117,
       "fundExhaustWithoutFutureSubsidyYear": 2028,
-      "balancedPremiumRatePct": 27.83,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 27.83,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 16.27,
       "discountRatePct": 4,
       "insuredCountMillion": null,
       "wageGrowthRatePct": null,
@@ -142,7 +148,8 @@
       "fundNegativeYear": 2031,
       "fundExhaustWithoutFutureSubsidyRoc": 120,
       "fundExhaustWithoutFutureSubsidyYear": 2031,
-      "balancedPremiumRatePct": 31.42,
+      "balancedRateAmortizingPastUnfundedLiabilityPct": 31.42,
+      "balancedRateNotAmortizingPastUnfundedLiabilityPct": 17.19,
       "discountRatePct": 4.5,
       "insuredCountMillion": null,
       "wageGrowthRatePct": null,
@@ -150,7 +157,7 @@
       "note": "報告註：自 106 年起保費收入不足支出，加計投資收益和政府撥補後，預估 115 年起淨現金流量將出現負值，基金累積餘額開始下降；若不將未來政府持續撥補納入考量，預估 120 年基金用罄。勞動部稱累積餘額出現負值年度相較前次報告延後 3 年。"
     }
   ],
-  "actuarialUnit": "億元；例：精算負債 14 兆 1,027 億＝141,027 億。fundNegativeYear（基金累積餘額出現負值年度）與 fundExhaustWithoutFutureSubsidyYear 為官方民國年＋1911。",
+  "actuarialUnit": "億元；例：精算負債 14 兆 1,027 億＝141,027 億。fundNegativeYear（基金累積餘額出現負值年度）與 fundExhaustWithoutFutureSubsidyYear 為官方民國年＋1911。 平衡費率有兩個，欄位名照報告摘要表的列名：balancedRateAmortizingPastUnfundedLiabilityPct＝「攤提過去未提存負債之平衡費率」，balancedRateNotAmortizingPastUnfundedLiabilityPct＝「不攤提過去未提存負債之平衡費率」（113 年度報告另稱後者為「精算收支相等之費率」）。107 年度的兩個數字取自 110 年度報告「本次精算與前次精算結果之財務狀況比較」表的前次精算欄（27.94%、18.13%）。",
   "subsidies": {
     "years": [2020, 2021, 2022, 2023, 2024, 2025],
     "publicBudgetOkuNtd": [200, 220, 300, 450, 1200, 1200],
@@ -159,7 +166,21 @@
     "cumulativeDerived": true,
     "reportedTotalOkuNtd": 3870,
     "note": "來源：113 年度精算報告 §8：「109 年政府撥補 200 億元，110 年再撥補 220 億元，111 年續編 300 億元撥補基金……112 年撥補 450 億元，並編列疫後特別預算撥補 300 億元(112 至 114 年各 100 億元)。113 年亦編列預算撥補 1,200 億元，114 年也編列預算撥補 1,200 億元……合計已編列預算撥補勞保基金共 3,870 億元」。公務預算與特別預算分開；2020–2022 報告未列特別預算（總和驗算 200＋220＋300＋450＋300＋1,200＋1,200＝3,870 吻合，故填 0）；114（2025）年為「已編列預算」，報告完成於 2024-12。cumulative 為本站累加。",
-    "source": "https://www.bli.gov.tw/Files/24897"
+    "source": "https://www.bli.gov.tw/Files/24897",
+    "budgetedNotPassed": {
+      "year": 2026,
+      "rocYear": 115,
+      "amountOkuNtd": 1300,
+      "cumulativeOkuNtd": 5170,
+      "status": "已編列，截至 2026-08-07 總統府新聞稿發布時立法院尚未通過相關預算",
+      "asOf": "2026-08-07",
+      "quote": "惟今年立法院尚未通過相關預算",
+      "source": {
+        "name": "總統府新聞稿（2026-08-07，全國模範勞工慶祝晚宴）",
+        "url": "https://www.president.gov.tw/News/40250"
+      },
+      "note": "新聞稿文字：政府 2020 年起持續撥補，今年編列 1,300 億元，7 年累積 5,170 億元，「惟今年立法院尚未通過相關預算」。2026-08-07 之後預算是否通過，研究檔沒有資料。不併入 years／publicBudgetOkuNtd／specialBudgetOkuNtd／cumulativeOkuNtd。"
+    }
   },
   "fund": {
     "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],

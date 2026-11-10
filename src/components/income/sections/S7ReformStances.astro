@@ -54,8 +54,25 @@ type Topic = {
 // ── 事實時間線 ───────────────────────────────────────────────────────
 const tlMods = import.meta.glob('../../../data/income/timeline.json', {
   eager: true,
-}) as Record<string, { default?: { events?: TlEvent[] } }>;
-const tlRaw = Object.values(tlMods)[0]?.default?.events ?? [];
+}) as Record<
+  string,
+  {
+    default?: {
+      _meta?: {
+        courtStatus?: {
+          date: string;
+          lastReport?: { date: string; name: string; url: string };
+          sources?: { name: string; url: string }[];
+        };
+      };
+      events?: TlEvent[];
+    };
+  }
+>;
+const tlData = Object.values(tlMods)[0]?.default;
+const tlRaw = tlData?.events ?? [];
+// 釋憲聲請的查詢現況是查證紀錄，放在 timeline.json 的 _meta.courtStatus，年表之後用一句文案交代
+const court = tlData?._meta?.courtStatus;
 const dateKey = (d: string) => (d.length === 4 ? `${d}-00-00` : d);
 const REFORM_FROM = '2016';
 const reformEvents = tlRaw
@@ -71,14 +88,6 @@ const recentEvents = reformEvents.filter(
   (e) => dateKey(e.date) >= law.amendmentThirdReading,
 );
 const earlierEvents = reformEvents.filter((e) => !recentEvents.includes(e));
-// 憲法法庭查詢結果那一筆：資料檔的 desc／note 是查證紀錄，頁面改用一句文案
-const courtEvent = [...reformEvents]
-  .reverse()
-  .find(
-    (e) =>
-      dateKey(e.date) >= law.amendmentPromulgated &&
-      (e.sources || []).some((x) => x.url.includes('cons.judicial.gov.tw')),
-  );
 // timeline.json 不存在時的最小時間線：四個法定日期都在 civil-service-replacement.json
 const fallbackEvents = [
   { date: law.originalPromulgated, key: 'promulgated', url: law.historyUrl },
@@ -104,6 +113,19 @@ const lawYear = law.originalPromulgated.slice(0, 4);
 const J782 = {
   date: '2019-08-23',
   url: 'https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310963',
+};
+
+// 修法後的執行現況（研究檔 02 §11 G-7；附錄 G-cna0111、G-udn0806，都是媒體報導的轉述）
+const EXEC = {
+  retirees: 18, // 近 18 萬名已退休公務人員
+  cna: {
+    date: '2026-01-11',
+    url: 'https://www.cna.com.tw/news/aipl/202601110062.aspx',
+  },
+  udn: {
+    date: '2026-08-06',
+    url: 'https://udn.com/news/story/7238/9675200',
+  },
 };
 
 // ── 各方立場 ─────────────────────────────────────────────────────────
@@ -194,12 +216,8 @@ const REL = await relatedList(lang, [
                       </a>
                     ))}
                   </div>
-                  {(e === courtEvent || e.desc) && (
-                    <div class="bp-tl-detail">
-                      {e === courtEvent
-                        ? t('income.s7.tl.court', { date: e.date })
-                        : pickIncome(e.desc, lang)}
-                    </div>
+                  {e.desc && (
+                    <div class="bp-tl-detail">{pickIncome(e.desc, lang)}</div>
                   )}
                 </div>
               </li>
@@ -234,11 +252,9 @@ const REL = await relatedList(lang, [
                           </a>
                         ))}
                       </div>
-                      {(e === courtEvent || e.desc) && (
+                      {e.desc && (
                         <div class="bp-tl-detail">
-                          {e === courtEvent
-                            ? t('income.s7.tl.court', { date: e.date })
-                            : pickIncome(e.desc, lang)}
+                          {pickIncome(e.desc, lang)}
                         </div>
                       )}
                     </div>
@@ -271,8 +287,47 @@ const REL = await relatedList(lang, [
               </li>
             ))}
           </ol>
-          <p class="bp-note">{t('income.s7.tl.fallback.status')}</p>
+          <p class="bp-note">
+            {t('income.s7.tl.fallback.status', {
+              date: court?.date ?? civil._meta.asOf,
+            })}
+          </p>
         </>
+      )
+    }
+    {
+      court && reformEvents.length > 0 && (
+        <p class="bp-note">
+          {t('income.s7.tl.court', { date: court.date })}
+          {(court.sources || []).map((s) => (
+            <a
+              class="bp-src no-external-icon"
+              aria-label={s.name}
+              title={s.name}
+              href={s.url}
+              target="_blank"
+              rel="noopener"
+            >
+              ↗
+            </a>
+          ))}
+          {court.lastReport && (
+            <>
+              {' '}
+              {t('income.s7.tl.court.report', { rd: court.lastReport.date })}
+              <a
+                class="bp-src no-external-icon"
+                aria-label={court.lastReport.name}
+                title={court.lastReport.name}
+                href={court.lastReport.url}
+                target="_blank"
+                rel="noopener"
+              >
+                ↗
+              </a>
+            </>
+          )}
+        </p>
       )
     }
 
@@ -315,7 +370,6 @@ const REL = await relatedList(lang, [
           to: pFirst.to ?? '',
           ya: cs.years[0],
           yb: cs.years[1],
-          chk: civil._meta.asOf,
         })
       }
       <a
@@ -364,6 +418,29 @@ const REL = await relatedList(lang, [
           class="bp-src no-external-icon"
           aria-label={t('income.commonb.source')}
           href={law.historyUrl}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>
+        {
+          t('income.s7.p2b', {
+            n: EXEC.retirees,
+            d1: EXEC.cna.date,
+            d2: EXEC.udn.date,
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={EXEC.cna.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={EXEC.udn.url}
           target="_blank"
           rel="noopener">↗</a
         >

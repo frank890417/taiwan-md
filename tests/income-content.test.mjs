@@ -9,6 +9,7 @@
  *   3. 低薪成因：每筆有中英摘要、機關、年份、https 來源。
  *   4. 中文欄位不出現「——」，也不出現「不是……而是……」對位句。
  *      quote 欄是說話者的原話，不在這條檢查範圍。
+ *   5. 「破產」：本站敘述（context、gaps）不用；轉述裡出現時要明確歸屬給說話者。
  */
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
@@ -106,10 +107,21 @@ test('年表：被省略的事件都說明缺什麼', () => {
 });
 
 test('年表：憲法法庭的最新狀態有寫查詢日', () => {
-  const last = timeline.events.find((e) => e.date === '2026-11-10');
-  assert.ok(last, '缺 2026-11-10 的憲法法庭查詢事件');
-  assert.match(last.desc.zh, /2026-11-10/);
-  assert.ok(last.sources.length >= 2);
+  // 查詢現況是查證紀錄，放在 _meta.courtStatus，不混進 events
+  const court = timeline._meta.courtStatus;
+  assert.ok(court, '缺 _meta.courtStatus');
+  assert.ok(isDate(court.date));
+  assert.ok(isBilingual(court.status));
+  assert.match(court.status.zh, new RegExp(court.date));
+  assert.ok(court.sources.length >= 2);
+  for (const s of court.sources) assert.ok(isHttps(s.url));
+  assert.ok(isHttps(court.lastReport.url));
+  assert.ok(
+    !timeline.events.some((e) =>
+      /未查到|not found|no judgment/i.test(`${e.title.zh} ${e.title.en}`),
+    ),
+    '查證紀錄不該出現在 events',
+  );
 });
 
 test('立場並列：議題與群體', () => {
@@ -203,18 +215,27 @@ test('中文欄位：沒有「——」，沒有「不是……而是……」�
   }
 });
 
-test('立場並列的中性用語：context、paraphrase 與 gaps 不用「破產」', () => {
-  const neutral = [];
+test('立場並列的中性用語：context 與 gaps 不用「破產」；轉述裡的「破產」要歸屬給說話者', () => {
+  // 本站自己的敘述（context、gaps）用中性詞。轉述是別人的立場，說話者用了
+  // 「破產」就照寫，但同一句裡「破產」之前要有「表示／稱／認為／說／指」，
+  // 讓讀者看得出這是說話者的用詞。
+  const attributed = /(表示|稱|認為|說|指)[^。]*破產/;
   for (const t of stances.topics) {
-    neutral.push(
+    for (const [path, text] of [
       [`${t.id}.context`, t.context.zh],
       [`${t.id}.gaps`, t.gaps.zh],
-    );
-    for (const p of t.positions) {
-      if (p.paraphrase) neutral.push([`${t.id}.paraphrase`, p.paraphrase.zh]);
+    ]) {
+      assert.ok(!/破產/.test(text), `${path} 用了「破產」`);
     }
-  }
-  for (const [path, text] of neutral) {
-    assert.ok(!/破產/.test(text), `${path} 用了「破產」`);
+    for (const p of t.positions) {
+      if (!p.paraphrase) continue;
+      for (const sentence of p.paraphrase.zh.split('。')) {
+        if (!/破產/.test(sentence)) continue;
+        assert.ok(
+          attributed.test(sentence),
+          `${t.id} / ${p.actor.zh} 的轉述用了「破產」卻沒有歸屬給說話者`,
+        );
+      }
+    }
   }
 });

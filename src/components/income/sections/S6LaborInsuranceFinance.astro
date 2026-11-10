@@ -4,7 +4,9 @@
  *
  * 資料：labor-insurance-finance.json（finance、actuarialReports、subsidies、fund、subsidyLaw）、
  * labor-2026.json（現行費率）。H2 的年份由資料現場判斷（哪一年起保費收入低於給付）。
- * 用詞照精算報告：「保費收入不足支出年度」「基金累積餘額出現負值年度」「未提存精算負債」。
+ * 用詞照精算報告：「保費收入不足支出年度」「基金累積餘額出現負值年度」「未提存精算負債」、
+ * 兩個平衡費率（「攤提／不攤提過去未提存負債之平衡費率」）並列，不相減、不評論。
+ * 2026 年撥補是「已編列、立法院尚未通過」的數字（subsidies.budgetedNotPassed），只寫在圖註，不進圖。
  * 資料檔沒有、取自研究檔的三項集中在 R（附官方或報導網址）。
  */
 import type { Lang } from '../../../config/languages';
@@ -23,6 +25,8 @@ const t = useIncomeT(lang);
 const num = (n: number) => Math.round(n).toLocaleString('en-US');
 const pct = (ratio: number, d = 2) => `${+(ratio * 100).toFixed(d)}%`;
 const pctv = (v: number) => `${v}%`;
+const pctOrNone = (v: number | null | undefined) =>
+  v == null ? t('income.commonb.nodata') : pctv(v);
 /** 億元 → 顯示字串（兆／億由文案檔決定寫法）。 */
 const oku = (v: number | null | undefined) => {
   if (v == null) return t('income.commonb.nodata');
@@ -101,7 +105,18 @@ const repRows: { key: string; cells: string[] }[] = [
     key: 'exhaust',
     cells: reps.map((r) => yearRoc(r.fundExhaustWithoutFutureSubsidyYear)),
   },
-  { key: 'balanced', cells: reps.map((r) => pctv(r.balancedPremiumRatePct)) },
+  {
+    key: 'balancedAmortized',
+    cells: reps.map((r) =>
+      pctOrNone(r.balancedRateAmortizingPastUnfundedLiabilityPct),
+    ),
+  },
+  {
+    key: 'balancedUnamortized',
+    cells: reps.map((r) =>
+      pctOrNone(r.balancedRateNotAmortizingPastUnfundedLiabilityPct),
+    ),
+  },
   { key: 'discount', cells: reps.map((r) => pctv(r.discountRatePct)) },
 ];
 
@@ -119,6 +134,8 @@ const subRows = sub.years.map((y, i) => {
 });
 const sub0 = subRows[0];
 const sub1 = subRows[subRows.length - 1];
+// 已編列、立法院尚未通過的下一年度撥補（總統府新聞稿）：只進圖註
+const subPending = sub.budgetedNotPassed;
 
 // ── 費率 ─────────────────────────────────────────────────────────────
 const li = labor.laborInsurance;
@@ -280,7 +297,12 @@ const article69First = `${law.article69Excerpt.split('。')[0]}。`;
             neg: yearRoc(repLast.fundNegativeYear),
             prevNeg: yearRoc(repPrev.fundNegativeYear),
             d: repLast.fundNegativeYear - repPrev.fundNegativeYear,
-            bal: pctv(repLast.balancedPremiumRatePct),
+            balA: pctOrNone(
+              repLast.balancedRateAmortizingPastUnfundedLiabilityPct,
+            ),
+            balN: pctOrNone(
+              repLast.balancedRateNotAmortizingPastUnfundedLiabilityPct,
+            ),
             year: curYear,
             cur: pctv(curRatePct),
             ei: pct(li.employmentRate),
@@ -288,6 +310,13 @@ const article69First = `${law.article69Excerpt.split('。')[0]}。`;
             next: pctv(R.nextRate.rate),
           })
         }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={repLast.source}
+          target="_blank"
+          rel="noopener">↗</a
+        >
         <a
           class="bp-src no-external-icon"
           aria-label={t('income.commonb.source')}
@@ -316,12 +345,7 @@ const article69First = `${law.article69Excerpt.split('。')[0]}。`;
       source={t('income.s6.chart2.src')}
     />
     <p class="bp-note">
-      {
-        t('income.s6.note2', {
-          y1: sub1.label,
-          ny: Number(sub1.label) + 1,
-        })
-      }
+      {t('income.s6.note2', { y1: sub1.label })}
       <a
         class="bp-src no-external-icon"
         aria-label={t('income.commonb.source')}
@@ -329,6 +353,30 @@ const article69First = `${law.article69Excerpt.split('。')[0]}。`;
         target="_blank"
         rel="noopener">↗</a
       >
+      {
+        subPending && (
+          <>
+            {' '}
+            {t('income.s6.note2.pending', {
+              ny: subPending.year,
+              d: subPending.asOf,
+              amt: oku(subPending.amountOkuNtd),
+              n: subPending.year - sub.years[0] + 1,
+              cum: oku(subPending.cumulativeOkuNtd),
+            })}
+            <a
+              class="bp-src no-external-icon"
+              aria-label={t('income.commonb.source')}
+              title={subPending.source.name}
+              href={subPending.source.url}
+              target="_blank"
+              rel="noopener"
+            >
+              ↗
+            </a>
+          </>
+        )
+      }
     </p>
 
     <div class="bp-prose">

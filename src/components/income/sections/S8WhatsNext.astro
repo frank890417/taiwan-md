@@ -43,13 +43,25 @@ const R = {
   },
 };
 const asOf = labor._meta.asOf;
+// 釋憲聲請的查詢日（timeline.json 的 _meta.courtStatus；檔案不存在時退回資料截止日）
+const tlMods = import.meta.glob('../../../data/income/timeline.json', {
+  eager: true,
+}) as Record<
+  string,
+  { default?: { _meta?: { courtStatus?: { date: string } } } }
+>;
+const courtDate =
+  Object.values(tlMods)[0]?.default?._meta?.courtStatus?.date ?? asOf;
 
 // ── 人口推估 ─────────────────────────────────────────────────────────
 const years = pop.years;
 const share65 = pop.table1.sharePct.age65plus;
 const psr = pop.table2.potentialSupportRatio;
 const oadr = pop.table2.oldAgeDependencyRatio;
-const below1 = years.find((_, i) => psr[i] < 1);
+// 官方只公布六個年份：寫出潛在支持比低於 1 的第一個公布年份，以及它前一個公布年份的值
+const below1I = psr.findIndex((v) => v < 1);
+const below1 = below1I >= 0 ? years[below1I] : undefined;
+const beforeI = below1I > 0 ? below1I - 1 : 0;
 const lastI = years.length - 1;
 const popSrc = pop._meta.source[0];
 
@@ -71,6 +83,7 @@ const cards: Card[] = [
     what: t('income.s8.cal.jan.what', {
       step: R.liRate.stepPt,
       cap: pctv(R.liRate.cap),
+      capYear: R.liRate.nextYear,
     }),
     next: t('income.s8.cal.jan.next', {
       ny: R.liRate.nextYear,
@@ -173,7 +186,11 @@ const REL = await relatedList(lang, [
           pub: pop._meta.published,
           y1: years[1],
           p1: psr[1],
+          ya: years[beforeI],
+          pa: psr[beforeI],
           yb: below1 ?? '',
+          pb: below1I >= 0 ? psr[below1I] : '',
+          n: years.length,
         })
       }
     </p>
@@ -186,6 +203,7 @@ const REL = await relatedList(lang, [
         y1: years[1],
         p1: psr[1],
         yb: below1 ?? '',
+        pb: below1I >= 0 ? psr[below1I] : '',
       })}
       subtitle={t('income.s8.chart.sub')}
       years={years}
@@ -257,7 +275,7 @@ const REL = await relatedList(lang, [
     </div>
 
     <div class="bp-prose">
-      <p>{t('income.s8.p1', { asOf })}</p>
+      <p>{t('income.s8.p1', { asOf, court: courtDate })}</p>
       <p>{t('income.s8.p2')}</p>
     </div>
     <div class="bp-related is-inline">

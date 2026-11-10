@@ -274,7 +274,16 @@ test('labor-insurance-finance：抽查 §H', () => {
   assert.equal(r113.actuarialLiabilityAL, 141027);
   assert.equal(r113.unfundedLiabilityUAL, 132298);
   assert.equal(r113.fundBalance, 8729);
-  assert.equal(r113.balancedPremiumRatePct, 31.42);
+  // 報告摘要表有兩個平衡費率：攤提 31.42%、不攤提 17.19%
+  assert.equal(r113.balancedRateAmortizingPastUnfundedLiabilityPct, 31.42);
+  assert.equal(r113.balancedRateNotAmortizingPastUnfundedLiabilityPct, 17.19);
+  for (const r of d.actuarialReports) {
+    assert.ok(
+      r.balancedRateNotAmortizingPastUnfundedLiabilityPct <
+        r.balancedRateAmortizingPastUnfundedLiabilityPct,
+      `${r.id} 不攤提應小於攤提`,
+    );
+  }
   assert.equal(r113.fundNegativeYear, 2031);
   for (const r of d.actuarialReports) {
     assert.equal(
@@ -291,6 +300,14 @@ test('labor-insurance-finance：抽查 §H', () => {
     d.subsidies.specialBudgetOkuNtd.reduce((a, b) => a + b, 0);
   assert.equal(total, 3870);
   assert.equal(d.subsidies.cumulativeOkuNtd.at(-1), 3870);
+  // 2026 年是已編列、立法院尚未通過的數字：獨立欄位，不進逐年序列
+  const pending = d.subsidies.budgetedNotPassed;
+  assert.equal(pending.year, 2026);
+  assert.ok(!d.subsidies.years.includes(pending.year));
+  assert.equal(pending.amountOkuNtd, 1300);
+  assert.equal(pending.cumulativeOkuNtd, 5170);
+  assert.equal(pending.asOf, '2026-08-07');
+  assert.match(pending.source.url, /^https:\/\/www\.president\.gov\.tw\//);
   // H-6 基金
   assert.equal(at('fund', 'fundSizeOkuNtd', 2025), 13035.2);
   assert.equal(at('fund', 'returnRatePct', 2024), 18.13);

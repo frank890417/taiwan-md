@@ -77,7 +77,37 @@
           "en": "The individual-account law is in the timeline; Examination Yuan and Ministry of Civil Service drafts were not read"
         }
       }
-    ]
+    ],
+    "courtStatus": {
+      "date": "2026-11-10",
+      "status": {
+        "zh": "公教年金修法的釋憲聲請：截至 2026-11-10，憲法法庭公布的判決與新聞稿裡沒有這件聲請的判決或暫時處分裁定。",
+        "en": "Petitions on the civil service pension amendment: as of 10 November 2026, the judgments and press releases published by the Constitutional Court include no judgment or interim order on them."
+      },
+      "lastReport": {
+        "date": "2026-08-06",
+        "name": "中央社（2026-08-06）：結果尚未出爐",
+        "url": "https://www.cna.com.tw/news/aipl/202608060197.aspx"
+      },
+      "sources": [
+        {
+          "name": "憲法法庭首頁",
+          "url": "https://cons.judicial.gov.tw/"
+        },
+        {
+          "name": "憲法法庭「案件訊息」（115 年憲判字第 1 至 7 號判決摘要）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=77"
+        },
+        {
+          "name": "憲法法庭「裁判公告」（程序裁定公告至 2026-11-06）",
+          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=5260"
+        }
+      ],
+      "note": {
+        "zh": "查詢日 2026-11-10。查了憲法法庭首頁、案件訊息、裁判公告、當事人案件進度查詢頁（需當事人帳號，未能看本案），司法院新聞稿列表，以及中央社、聯合報、公視的相關報導。2026-01-02 至 2026-10-08 公布的 115 年憲判字第 1 至 7 號判決摘要都與本案無關。程序裁定公告到 2026-11-06 共有大量件數，沒有逐件打開。最後一則直接提到本案進度的報導是中央社 2026-08-06：「結果尚未出爐」，行政院說追回差額與否須待憲法法庭做成判決。這不能證明不存在裁定，只代表本站查到的範圍內沒有。",
+        "en": "Checked on 10 November 2026. Pages checked: the Constitutional Court home page, case news, judgment announcements, the case progress page (which needs a party login, so this case could not be viewed), the Judicial Yuan press release list, and related reports by the Central News Agency, United Daily News and Public Television Service. Judgment summaries No. 1 to 7 of 2026, published between 2 January and 8 October 2026, are unrelated to this case. Procedural rulings were announced in large numbers up to 6 November 2026 and were not opened one by one. The last report that speaks directly to this case is the Central News Agency on 6 August 2026, saying the result had not come out and that the Executive Yuan will act on any recovery of back payments only after a judgment. This does not prove that no ruling exists; it only means none was found within what this site checked."
+      }
+    }
   },
   "events": [
     {
@@ -87,7 +117,7 @@
         "en": "Labor Insurance begins"
       },
       "desc": {
-        "zh": "勞工保險開辦，揭開臺灣社會保險序幕。",
+        "zh": "勞工保險開辦，揭開台灣社會保險序幕。",
         "en": "Labor Insurance begins operating, opening Taiwan's social insurance system."
       },
       "category": "labor-insurance",
@@ -469,7 +499,7 @@
     {
       "date": "2018",
       "title": {
-        "zh": "臺灣邁入高齡社會",
+        "zh": "台灣邁入高齡社會",
         "en": "Taiwan becomes an aged society"
       },
       "desc": {
@@ -614,8 +644,8 @@
         }
       ],
       "note": {
-        "zh": "2020 年金額來自精算報告第 8 節（109 年 200 億元）。到 2024 年底累計 3,870 億元。",
-        "en": "The 2020 amount comes from section 8 of the actuarial report (NT$20 billion in ROC year 109). The total reached NT$387 billion by 2024."
+        "zh": "2020 年金額來自精算報告第 8 節（109 年 200 億元）。到 2025 年已編列累計 3,870 億元。",
+        "en": "The 2020 amount comes from section 8 of the actuarial report (NT$20 billion in ROC year 109). Budgeted transfers through 2025 total NT$387 billion."
       }
     },
     {
@@ -892,40 +922,6 @@
       "note": {
         "zh": "勞動部頁面記 2026-10-16 發布，2027-01-01 起實施。",
         "en": "The Ministry of Labor page records announcement on 16 October 2026, effective 1 January 2027."
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "title": {
-        "zh": "憲法法庭：截至查詢日未查到判決或暫時處分裁定",
-        "en": "Constitutional Court: no judgment or interim order found as of the check date"
-      },
-      "desc": {
-        "zh": "截至 2026-11-10 未查到判決或暫時處分裁定。",
-        "en": "As of 10 November 2026, no judgment or interim order was found."
-      },
-      "category": "pension",
-      "sources": [
-        {
-          "name": "憲法法庭首頁",
-          "url": "https://cons.judicial.gov.tw/"
-        },
-        {
-          "name": "憲法法庭「案件訊息」（115 年憲判字第 1 至 7 號判決摘要）",
-          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=77"
-        },
-        {
-          "name": "憲法法庭「裁判公告」（程序裁定公告至 2026-11-06）",
-          "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=5260"
-        },
-        {
-          "name": "中央社（2026-08-06）：結果尚未出爐",
-          "url": "https://www.cna.com.tw/news/aipl/202608060197.aspx"
-        }
-      ],
-      "note": {
-        "zh": "查詢日 2026-11-10。查了憲法法庭首頁、案件訊息、裁判公告、當事人案件進度查詢頁（需當事人帳號，未能看本案），司法院新聞稿列表，以及中央社、聯合報、公視的相關報導。2026-01-02 至 2026-10-08 公布的 115 年憲判字第 1 至 7 號判決摘要都與本案無關。程序裁定公告到 2026-11-06 共有大量件數，沒有逐件打開。最後一則直接提到本案進度的報導是中央社 2026-08-06：「結果尚未出爐」，行政院說追回差額與否須待憲法法庭做成判決。這不能證明不存在裁定，只代表本站查到的範圍內沒有。",
-        "en": "Checked on 10 November 2026. Pages checked: the Constitutional Court home page, case news, judgment announcements, the case progress page (which needs a party login, so this case could not be viewed), the Judicial Yuan press release list, and related reports by the Central News Agency, United Daily News and Public Television Service. Judgment summaries No. 1 to 7 of 2026, published between 2 January and 8 October 2026, are unrelated to this case. Procedural rulings were announced in large numbers up to 6 November 2026 and were not opened one by one. The last report that speaks directly to this case is the Central News Agency on 6 August 2026, saying the result had not come out and that the Executive Yuan will act on any recovery of back payments only after a judgment. This does not prove that no ruling exists; it only means none was found within what this site checked."
       }
     }
   ]

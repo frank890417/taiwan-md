@@ -89,8 +89,11 @@ const R = {
     avgYears: 30.08,
     url: 'https://www.bli.gov.tw/Files/25832',
   },
-  // §8 D-1 勞退新制施行日
+  // §8 D-1 勞退新制施行日；§9 E-3 施行前已適用勞基法者可留舊制，施行後 5 年內可改選新制
   lpStart: '2005-07-01',
+  lpSwitchYears: 5,
+  // §11 G-7 附錄 G-udn0806：聯合報 2026-08-06 報導政府已補發年金差額
+  csBackPay: { reported: '2026-08-06' },
   // §9 E-1、E-2 勞基法第 53、55 條
   old: {
     unitsPerYear: 2,
@@ -106,8 +109,17 @@ const R = {
     lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001',
     whoUrl: 'https://calcr2.mol.gov.tw/labor_retire',
   },
-  // §10 F-2、F-3、F-4 國民年金（衝突 X3：條文 3,000 元、勞保局頁面 4,049 元）
+  // §10 F-2、F-3、F-4 國民年金。A 式加計金額用勞保局頁面公告的現行金額（113 年 1 月起 4,049 元）
+  // 納保對象：國民年金法第 7 條；保險費負擔：第 12 條（全國法規資料庫條文原文，讀取日 2026-11-10）
   np: {
+    whoMinAge: 25,
+    whoMaxAge: 65,
+    whoUrl:
+      'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0050152&flno=7',
+    shareSelf: 60,
+    shareGov: 40,
+    shareUrl:
+      'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0050152&flno=12',
     rate: 10.5,
     rateFrom: '2025-01',
     amount: 21103,
@@ -115,7 +127,6 @@ const R = {
     aCoef: 0.65,
     aAdd: 4049,
     aAddFrom: '2024-01',
-    aAddLaw: 3000,
     bCoef: 1.3,
     age: 65,
     rateUrl: 'https://www.bli.gov.tw/0019853.html',
@@ -123,7 +134,19 @@ const R = {
     lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050152',
   },
   // §11 G-4 公務人員退休資遣撫卹法第 31 條
-  cs: { age: 65, ageFrom: '2026-01-01', cut: 4, maxEarly: 5 },
+  // 提撥費率與分擔：同法第 7 條第 2 項（全國法規資料庫條文原文，讀取日 2026-11-10）
+  cs: {
+    age: 65,
+    ageFrom: '2026-01-01',
+    cut: 4,
+    maxEarly: 5,
+    rateMin: 12,
+    rateMax: 18,
+    gov: 65,
+    self: 35,
+    payUrl:
+      'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=S0080034&flno=7',
+  },
   // §11 G-5 公務人員個人專戶制退休資遣撫卹法第 1、9 條
   csa: {
     start: '2023-07-01',
@@ -134,7 +157,14 @@ const R = {
     lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080045',
   },
   // §11 G-6 陸海空軍軍官士官服役條例第 26 條
+  // 提撥費率與分擔：同條例第 29 條第 2 項（全國法規資料庫條文原文，讀取日 2026-11-10）
   mil: {
+    rateMin: 12,
+    rateMax: 18,
+    gov: 65,
+    self: 35,
+    payUrl:
+      'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=F0040020&flno=29',
     years: 20,
     rate: 55,
     perYear: 2,
@@ -147,7 +177,7 @@ const R = {
 const LI_LAW = urlOf(li.sources.shares);
 const LP_LAW = 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030020';
 
-type Cell = { text: string; url?: string; missing?: boolean };
+type Cell = { text: string; url?: string; url2?: string; missing?: boolean };
 type Row = {
   id: string;
   name: string;
@@ -200,7 +230,10 @@ const rows: Row[] = [
     id: 'lpn',
     name: t('income.s5.row.lpn.name'),
     who: {
-      text: t('income.s5.row.lpn.who', { start: R.lpStart }),
+      text: t('income.s5.row.lpn.who', {
+        start: R.lpStart,
+        n: R.lpSwitchYears,
+      }),
       url: LP_LAW,
     },
     pay: {
@@ -258,22 +291,30 @@ const rows: Row[] = [
   {
     id: 'np',
     name: t('income.s5.row.np.name'),
-    who: { text: t('income.s5.row.np.who'), missing: true },
+    who: {
+      text: t('income.s5.row.np.who', {
+        min: R.np.whoMinAge,
+        max: R.np.whoMaxAge,
+      }),
+      url: R.np.whoUrl,
+    },
     pay: {
       text: t('income.s5.row.np.pay', {
         rate: pctv(R.np.rate),
         rateFrom: R.np.rateFrom,
         amount: fmtNT(R.np.amount, lang),
         amountFrom: R.np.amountFrom,
+        self: pctv(R.np.shareSelf),
+        gov: pctv(R.np.shareGov),
       }),
       url: R.np.rateUrl,
+      url2: R.np.shareUrl,
     },
     calc: {
       text: t('income.s5.row.np.calc', {
         a: pctv(R.np.aCoef),
         add: fmtNT(R.np.aAdd, lang),
         addFrom: R.np.aAddFrom,
-        addLaw: fmtNT(R.np.aAddLaw, lang),
         b: pctv(R.np.bCoef),
       }),
       url: R.np.calcUrl,
@@ -291,7 +332,15 @@ const rows: Row[] = [
       text: t('income.s5.row.cs.who', { start: R.csa.start }),
       url: civil.law.url,
     },
-    pay: { text: t('income.s5.row.cs.pay'), missing: true },
+    pay: {
+      text: t('income.s5.row.cs.pay', {
+        lo: pctv(R.cs.rateMin),
+        hi: pctv(R.cs.rateMax),
+        gov: pctv(R.cs.gov),
+        self: pctv(R.cs.self),
+      }),
+      url: R.cs.payUrl,
+    },
     calc: {
       text: t('income.s5.row.cs.calc', {
         amend: civil.law.amendmentPromulgated,
@@ -304,6 +353,7 @@ const rows: Row[] = [
         f15: pctv(lastPeriod.rate15YearsPct),
         f35: pctv(lastPeriod.rate35YearsPct),
         fy: lastPeriod.from.slice(0, 4),
+        paid: R.csBackPay.reported,
       }),
       url: civil.law.schedule3Url,
     },
@@ -342,7 +392,15 @@ const rows: Row[] = [
     id: 'mil',
     name: t('income.s5.row.mil.name'),
     who: { text: t('income.s5.row.mil.who'), url: R.mil.lawUrl },
-    pay: { text: t('income.s5.row.mil.pay'), missing: true },
+    pay: {
+      text: t('income.s5.row.mil.pay', {
+        lo: pctv(R.mil.rateMin),
+        hi: pctv(R.mil.rateMax),
+        gov: pctv(R.mil.gov),
+        self: pctv(R.mil.self),
+      }),
+      url: R.mil.payUrl,
+    },
     calc: {
       text: t('income.s5.row.mil.calc', {
         y: R.mil.years,
@@ -420,7 +478,7 @@ const REL = await relatedList(lang, [
                 {COLS.map((c) => (
                   <td class={r[c].missing ? 'is-missing' : ''}>
                     {r[c].missing && (
-                      <span class="bp-tag">{t('income.commonb.nodata')}</span>
+                      <span class="bp-tag">{t('income.s5.missing')}</span>
                     )}
                     {r[c].text}
                     {r[c].url && (
@@ -428,6 +486,17 @@ const REL = await relatedList(lang, [
                         class="bp-src no-external-icon"
                         aria-label={t('income.commonb.source')}
                         href={r[c].url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    )}
+                    {r[c].url2 && (
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={t('income.commonb.source')}
+                        href={r[c].url2}
                         target="_blank"
                         rel="noopener"
                       >
