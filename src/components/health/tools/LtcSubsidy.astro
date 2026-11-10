@@ -5,7 +5,8 @@
  * 公式不在這裡：全部來自 src/utils/health/ltcCalc.ts，規則來自 src/data/health/ltc-rules.json。
  * 無 JS 時顯示伺服端先算好的預設案例（第 4 級、第三類、臺北市）。
  * 同頁可放多個實例：不用 id 查節點，全部從根節點 [data-hea-ltc] 往下找。
- * 輸入同步到網址查詢參數（level／cls／county／town／mc），結果可以分享。
+ * 輸入同步到網址查詢參數（level／county／town／mc），結果可以分享。
+ * 長照身分別（是否低收、中低收等福利身分）屬個人狀況，不寫進網址也不從網址讀回（契約 v1.2 規則 1）。
  */
 import '../../../styles/budget.css';
 import '../../../styles/health.css';
@@ -296,7 +297,7 @@ const rows = [
       if (push) {
         const q = new URLSearchParams(location.search);
         q.set('level', level.value);
-        q.set('cls', cls());
+        q.delete('cls');
         q.set('county', county.value);
         if (!town.hidden && town.value) q.set('town', town.value);
         else q.delete('town');
@@ -316,13 +317,6 @@ const rows = [
       level.value = q.get('level')!;
     if (q.get('county') && R.transport.countyClass[q.get('county')!])
       county.value = q.get('county')!;
-    const qc = q.get('cls');
-    if (qc) {
-      const el = form.querySelector<HTMLInputElement>(
-        `[data-name=cls][value="${CSS.escape(qc)}"]`,
-      );
-      if (el) el.checked = true;
-    }
     mc.checked = q.get('mc') === '1';
     fillTowns(q.get('town') || undefined);
     render(false);

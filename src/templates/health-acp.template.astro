@@ -12,6 +12,7 @@ import TopicNav from '../components/topics/TopicNav.astro';
 import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
 import ToolCards from '../components/health/ToolCards.astro';
 import { getLangFromUrl } from '../i18n/utils';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
 import { healthPath } from '../i18n/health';
 import { acp as copyAll } from '../i18n/health/acp';
 import { healthCtx } from '../utils/health/pageContext';
@@ -61,6 +62,7 @@ const jsonld = [
   title={c.title}
   description={plain(c.description)}
   readerSettings={true}
+  noindex={!isTopicTranslated(getTopic('health'), lang)}
 >
   <main class="budget-page health-page tf-surface min-h-screen">
     <nav class="hea-crumb" aria-label="breadcrumb">

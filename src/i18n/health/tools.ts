@@ -52,7 +52,7 @@ export const tools = {
     'ltc.src.table5': '附表五（部分負擔比率）',
     'ltc.src.1966': '衛福部長照專區給付額度表',
 
-    'elig.form': '四個問題',
+    'elig.form': '回答幾個問題',
     'elig.age': '年齡',
     'elig.help': '日常生活（吃飯、洗澡、穿衣、上廁所、起身移動）需要別人幫忙',
     'elig.indigenous': '具原住民身分',
@@ -181,7 +181,7 @@ export const tools = {
     'ltc.src.table5': 'Schedule 5 (copayment rates)',
     'ltc.src.1966': 'MOHW long-term care portal',
 
-    'elig.form': 'Four questions',
+    'elig.form': 'A few questions',
     'elig.age': 'Age',
     'elig.help':
       'Needs help with daily living (eating, bathing, dressing, toileting, moving about)',

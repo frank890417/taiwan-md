@@ -26,6 +26,7 @@ import S5Stances from '../components/health/sections/S5Stances.astro';
 import S6Ahead from '../components/health/sections/S6Ahead.astro';
 import S7Tools from '../components/health/sections/S7Tools.astro';
 import { getLangFromUrl } from '../i18n/utils';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
 import { healthCtx } from '../utils/health/pageContext';
 import { relatedArticles } from '../utils/health/related';
 
@@ -102,6 +103,7 @@ const toc = [0, 1, 2, 3, 4, 5, 6, 7].map((n) => ({
   title={p('meta.title')}
   description={p('meta.description')}
   readerSettings={true}
+  noindex={!isTopicTranslated(getTopic('health'), lang)}
 >
   <main class="budget-page health-page tf-surface min-h-screen">
     <PageHero
@@ -131,7 +133,7 @@ const toc = [0, 1, 2, 3, 4, 5, 6, 7].map((n) => ({
           </div>
         </div>
       </div>
-      <blockquote class="bp-kicker bp-hero-verse">{t('hero.verse')}</blockquote>
+      <blockquote class="bp-kicker bp-hero-verse">{p('hero.verse')}</blockquote>
       <h2 class="hea-hero-h">{t('hero.tools')}</h2>
       <ToolCards lang={lang} />
       <nav class="bp-brief" aria-label={t('hero.jump')}>

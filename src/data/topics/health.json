@@ -17,6 +17,10 @@
       "title": {
         "zh": "預立醫療決定怎麼簽：安寧緩和與病人自主的流程",
         "en": "How to sign an advance decision: hospice and patient autonomy"
+      },
+      "navTitle": {
+        "zh": "預立醫療決定",
+        "en": "Advance decisions"
       }
     }
   ],
@@ -42,7 +46,11 @@
         "長照3.0",
         "CMS 等級",
         "long-term care subsidy Taiwan"
-      ]
+      ],
+      "navTitle": {
+        "zh": "長照補助試算",
+        "en": "Care subsidy"
+      }
     },
     {
       "slug": "long-term-care-eligibility",
@@ -63,7 +71,11 @@
         "誰可以申請長照",
         "1966",
         "失智 長照"
-      ]
+      ],
+      "navTitle": {
+        "zh": "長照資格",
+        "en": "Care eligibility"
+      }
     },
     {
       "slug": "nhi-premium-calculator",
@@ -85,7 +97,11 @@
         "健保 眷屬",
         "投保金額分級表 2026",
         "NHI premium calculator"
-      ]
+      ],
+      "navTitle": {
+        "zh": "健保費試算",
+        "en": "NHI premium"
+      }
     }
   ],
   "relatedArticles": [
@@ -107,5 +123,6 @@
     "/society/心理健康與自殺防治"
   ],
   "relatedTopics": ["income", "housing"],
-  "sharedData": ["src/data/shared/population-aging.json"]
+  "sharedData": ["src/data/shared/population-aging.json"],
+  "languages": ["zh-TW", "en"]
 }

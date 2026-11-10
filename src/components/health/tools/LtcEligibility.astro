@@ -2,7 +2,9 @@
 /**
  * LtcEligibility — 長照資格自查（辦法第 2 條的四種身分＋「因身心失能」前提）。
  * 判斷邏輯在 src/utils/health/ltcCalc.ts 的 checkEligibility()；這裡只收輸入、顯示結果。
- * 無 JS 時顯示預設案例（70 歲、需要協助）。輸入同步到查詢參數（age／help／ind／dis／dem／pac）。
+ * 無 JS 時顯示預設案例（70 歲、需要協助）。
+ * 輸入是個人狀況（年齡、原住民身分、身心障礙、失智、住院），照專題契約 v1.2 規則 1 不寫進網址，
+ * 也不從網址讀回；所有判斷都在瀏覽器裡完成，不送出任何資料。
  */
 import '../../../styles/budget.css';
 import '../../../styles/health.css';
@@ -91,8 +93,7 @@ const checks = [
     const labels: Record<string, string> = JSON.parse(
       root.dataset.labels || '{}',
     );
-    const flags = ['help', 'ind', 'dis', 'dem', 'pac'];
-    const render = (push: boolean) => {
+    const render = () => {
       const needsHelp = f('help').checked;
       const groups = checkEligibility(rules.eligibility, {
         age: +f('age').value || 0,
@@ -111,23 +112,8 @@ const checks = [
         : (needsHelp ? root.dataset.noGroup : root.dataset.noHelp) || '';
       out.classList.toggle('is-ok', ok);
       out.classList.toggle('is-warn', !ok);
-      if (push) {
-        const q = new URLSearchParams(location.search);
-        q.set('age', f('age').value);
-        flags.forEach((n) => q.set(n, f(n).checked ? '1' : '0'));
-        history.replaceState(
-          null,
-          '',
-          `${location.pathname}?${q}${location.hash}`,
-        );
-      }
     };
-    const q = new URLSearchParams(location.search);
-    if (q.get('age')) f('age').value = q.get('age')!;
-    flags.forEach((n) => {
-      if (q.has(n)) f(n).checked = q.get(n) === '1';
-    });
-    render(false);
-    form.addEventListener('input', () => render(true));
+    render();
+    form.addEventListener('input', () => render());
   });
 </script>
