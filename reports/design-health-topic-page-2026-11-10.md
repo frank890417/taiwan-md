@@ -212,9 +212,38 @@
 | 健保費試算         | `nhi-premium-calculator`     | `/health/nhi-premium-calculator/`     | `/embed/health/nhi-premium-calculator/`     | 健保費試算 2026：月薪、眷屬與補充保費     | 輸入月薪、投保身分與眷屬人數，算出每月健保費自付額、雇主與政府負擔，另附補充保費試算。費率 5.17%、補充保費 2.11%，投保金額 29,500 到 313,000 元共 58 級。       |
 | 安寧與預立醫療決定 | `advance-care-planning`      | `/health/advance-care-planning/`      | （指南頁，不做內嵌板）                      | 預立醫療決定怎麼簽？安寧與病主法流程 2026 | 待研究檔 E 定稿                                                                                                                                                 |
 
-## 9. 實作後補記
+## 9. 實作後補記（2026-11-10 13:4x）
 
-（PR 審查結果、截圖路徑、測試數、沒做的清單，實作完成後填。）
+**頁面**（本機預覽 `http://localhost:4331`，zh-TW 與 en 文案完整，其餘 11 語薄殼退 en）
+
+| 頁                 | 網址                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------------------- |
+| 專題主頁           | `/health/`                                                                                |
+| 長照補助試算       | `/health/long-term-care-subsidy/`，內嵌板 `/embed/health/long-term-care-subsidy/`         |
+| 長照資格自查       | `/health/long-term-care-eligibility/`，內嵌板 `/embed/health/long-term-care-eligibility/` |
+| 健保費試算         | `/health/nhi-premium-calculator/`，內嵌板 `/embed/health/nhi-premium-calculator/`         |
+| 安寧與預立醫療決定 | `/health/advance-care-planning/`                                                          |
+
+**驗證**
+
+- 試算測試 `tests/health-calc.test.mjs`：98 個全過。
+- 引句對賬 `scripts/tools/verify-health-quotes.py`：34 則，28 則逐字命中、6 則轉述、0 則找不到。第一次跑抓到一則掛錯網址，已更正。
+- 來源網址：資料檔 75 個網址，64 個 curl 回 200；11 個是 nhi.gov.tw（擋 curl），其中負擔金額表與分級表兩頁用瀏覽器親自讀過。
+- `npm run build` 通過（合併共用地基之前跑的那一次）；合併之後只在 dev server 逐頁確認 200，沒有重跑完整建置。
+- 截圖：`reports/screenshots/health-topic-2026-11-10/`（桌機 1440、手機 390、深色、工具、內嵌板、英文版；31 MB，沒有進 git）。
+
+**投稿 PR**
+
+| PR                                | 處置                                                                                                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| #1976、#1979、#1980               | 已合併；main 上補修補 commit `ffccd8c6d`（#1980 的腳註編號、#1979 的英文 slug），各留一則致謝與說明                                                    |
+| #1973、#1974、#1975、#1977、#1978 | 未合併。抽驗報告 `reports/factcheck/2026-11/health-prs-footnote-audit.md` 列出數字或歸屬對不上的地方，尚未複驗，沒有對投稿者留言。專題頁顯示「待上線」 |
+
+**新增的可共用元件**：`src/components/health/charts/TrendChart.astro`、`src/components/health/PageEnhance.astro`、`src/utils/health/sources.ts`（腳註）、`src/utils/health/related.ts`＋`RelatedChips.astro`、`scripts/tools/verify-health-quotes.py`、`src/data/shared/population-aging.json`。
+
+**改到的共用檔**：沒有。六篇既有文章各加一行延伸閱讀連回專題。
+
+**沒做或拿不到資料**：國發會 2026–2075 新版推估（官方頁 403）；健保安全準備約當月數 2010–2016 與 2023 年；急診留置 2020、2021、2025 年；各部門全年點值；護理空缺率 2024、2025 年；護病比罰則的實際開罰日；OECD 平均占 GDP 的原始頁；專題與工具頁的 OG 圖；en 以外 11 語的文案；五件投稿的複驗。
 
 ## 附：流程上的一個偏差
 
