@@ -1,0 +1,60 @@
+---
+/**
+ * health-tool-embed.template.astro — /embed/health/<tool-slug>/ 內嵌板（三個工具共用的薄殼）。
+ * 外殼是共用的 EmbedLayout（noindex、canonical 指回單獨頁、回報高度）。
+ */
+import '../styles/budget.css';
+import '../styles/health.css';
+import EmbedLayout from '../layouts/EmbedLayout.astro';
+import ToolFrame from '../components/tools/ToolFrame.astro';
+import LtcSubsidy from '../components/health/tools/LtcSubsidy.astro';
+import LtcEligibility from '../components/health/tools/LtcEligibility.astro';
+import NhiPremium from '../components/health/tools/NhiPremium.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useHealthT } from '../i18n/health';
+import { getTopic, localizePath } from '../utils/topics/registry';
+import ltc from '../data/health/ltc-rules.json';
+import nhi from '../data/health/nhi-rules.json';
+
+interface Props {
+  slug:
+    | 'long-term-care-subsidy'
+    | 'long-term-care-eligibility'
+    | 'nhi-premium-calculator';
+}
+const { slug } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const zh = lang === 'zh-TW';
+const t = useHealthT(lang);
+const tool = getTopic('health')!.tools.find((x) => x.slug === slug)!;
+const title = t(`tool.${slug}.t`);
+const isNhi = slug === 'nhi-premium-calculator';
+const sourceNote = isNhi
+  ? zh
+    ? `衛福部中央健康保險署 115 年費率、投保金額分級表與負擔金額表，截至 ${nhi.asOf}。試算僅供參考。`
+    : `NHI Administration 2026 rates, grading table and premium tables, as of ${nhi.asOf}. Estimates only.`
+  : zh
+    ? `《長期照顧服務申請及給付辦法》附表與衛福部長照專區，截至 ${ltc.asOf}。試算僅供參考，實際以照管中心核定為準。`
+    : `Regulations on long-term care benefits and the MOHW care portal, as of ${ltc.asOf}. Estimates only.`;
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={sourceNote}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    {
+      slug === 'long-term-care-subsidy' && (
+        <LtcSubsidy lang={lang} variant="embed" />
+      )
+    }
+    {
+      slug === 'long-term-care-eligibility' && (
+        <LtcEligibility lang={lang} variant="embed" />
+      )
+    }
+    {isNhi && <NhiPremium lang={lang} variant="embed" />}
+  </ToolFrame>
+</EmbedLayout>

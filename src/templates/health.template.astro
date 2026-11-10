@@ -10,8 +10,11 @@
  */
 import '../styles/budget.css';
 import '../styles/health.css';
+import '../styles/topics-foundation.css';
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
 import PageEnhance from '../components/health/PageEnhance.astro';
 import ToolCards from '../components/health/ToolCards.astro';
 import S0System from '../components/health/sections/S0System.astro';
@@ -25,7 +28,6 @@ import S7Tools from '../components/health/sections/S7Tools.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import { healthCtx } from '../utils/health/pageContext';
 import { relatedArticles } from '../utils/health/related';
-import { healthPath } from '../i18n/health';
 
 const lang = getLangFromUrl(Astro.url);
 const { t, p, V } = healthCtx(lang);
@@ -93,18 +95,6 @@ const toc = [0, 1, 2, 3, 4, 5, 6, 7].map((n) => ({
   label: t(`toc.s${n}`),
   take: p(`toc.s${n}.take`),
 }));
-const site = 'https://taiwan.md';
-const jsonld = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    {
-      name: 'Taiwan.md',
-      item: `${site}${lang === 'zh-TW' ? '/' : `/${lang}/`}`,
-    },
-    { name: t('hub.name'), item: `${site}${healthPath(lang)}` },
-  ].map((x, i) => ({ '@type': 'ListItem', position: i + 1, ...x })),
-};
 ---
 
 <Layout
@@ -113,7 +103,7 @@ const jsonld = {
   description={p('meta.description')}
   readerSettings={true}
 >
-  <main class="budget-page health-page min-h-screen">
+  <main class="budget-page health-page tf-surface min-h-screen">
     <PageHero
       eyebrow={t('hero.eyebrow')}
       title={t('hero.title')}
@@ -163,6 +153,7 @@ const jsonld = {
         </ol>
       </nav>
     </PageHero>
+    <TopicNav lang={lang} topic="health" />
 
     <nav class="bp-subnav" aria-label={t('subnav.label')} id="bp-subnav">
       <div class="bp-subnav-in">
@@ -184,7 +175,9 @@ const jsonld = {
     <S5Stances lang={lang} />
     <S6Ahead lang={lang} related={REL.s6} />
     <S7Tools lang={lang} reads={REL.all} />
+    <div class="bp-wrap">
+      <TopicCrossLinks lang={lang} currentId="health" />
+    </div>
   </main>
-  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <PageEnhance />
 </Layout>

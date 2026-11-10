@@ -3,6 +3,11 @@
 import { healthCtx } from '../../../utils/health/pageContext';
 import { allSources } from '../../../utils/health/sources';
 import ToolCards from '../ToolCards.astro';
+import ToolFrame from '../../tools/ToolFrame.astro';
+import LtcSubsidy from '../tools/LtcSubsidy.astro';
+import LtcEligibility from '../tools/LtcEligibility.astro';
+import NhiPremium from '../tools/NhiPremium.astro';
+import { getTopic, pickText } from '../../../utils/topics/registry';
 import type { RelItem } from '../../../utils/health/related';
 import { useTranslatedPath } from '../../../i18n/utils';
 interface Props {
@@ -14,6 +19,8 @@ const { t, r, V } = healthCtx(lang);
 const tp = useTranslatedPath(lang as any);
 const live = reads.filter((x) => !x.pending);
 const pending = reads.filter((x) => x.pending);
+const tools = getTopic('health')!.tools;
+const toolOf = (slug: string) => tools.find((x) => x.slug === slug)!;
 const repo = 'https://github.com/frank890417/taiwan-md';
 ---
 
@@ -23,6 +30,38 @@ const repo = 'https://github.com/frank890417/taiwan-md';
     <h2 class="bp-h2">{t('s7.h2')}</h2>
     <h3 class="bp-h3">{t('s7.tools.h')}</h3>
     <ToolCards lang={lang} />
+    {
+      [
+        'long-term-care-subsidy',
+        'nhi-premium-calculator',
+        'long-term-care-eligibility',
+      ].map((slug) => {
+        const tool = toolOf(slug);
+        return (
+          <ToolFrame
+            title={t(`tool.${slug}.t`)}
+            description={pickText(tool.description, lang as any)}
+            variant="inline"
+            lang={lang as any}
+            standaloneHref={tool.path}
+            embedHref={tool.embedPath}
+          >
+            {slug === 'long-term-care-subsidy' && (
+              <LtcSubsidy lang={lang} variant="inline" />
+            )}
+            {slug === 'nhi-premium-calculator' && (
+              <NhiPremium lang={lang} variant="inline" />
+            )}
+            {slug === 'long-term-care-eligibility' && (
+              <LtcEligibility lang={lang} variant="inline" />
+            )}
+            <p slot="disclaimer">
+              <b>{t('tool.disclaimer.h')}</b>：{t('tool.disclaimer.p')}
+            </p>
+          </ToolFrame>
+        );
+      })
+    }
 
     <h3 class="bp-h3">{t('s7.read.h')}</h3>
     <div class="hea-reads">

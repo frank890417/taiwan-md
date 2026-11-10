@@ -5,8 +5,11 @@
  */
 import '../styles/budget.css';
 import '../styles/health.css';
+import '../styles/topics-foundation.css';
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
+import TopicNav from '../components/topics/TopicNav.astro';
+import TopicCrossLinks from '../components/topics/TopicCrossLinks.astro';
 import ToolCards from '../components/health/ToolCards.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import { healthPath } from '../i18n/health';
@@ -40,8 +43,6 @@ const plain = (s: string) =>
     s.replace(/\[\[[\w.]+\]\]/g, ''),
   );
 const srcKeys = ['acpStats', 'acpNhi', 'pra', 'hospiceLaw'];
-const site = 'https://taiwan.md';
-const url = `${site}${healthPath(lang, 'advance-care-planning')}`;
 const jsonld = [
   {
     '@context': 'https://schema.org',
@@ -52,15 +53,6 @@ const jsonld = [
       acceptedAnswer: { '@type': 'Answer', text: q.a },
     })),
   },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { name: 'Taiwan.md', item: `${site}${zh ? '/' : `/${lang}/`}` },
-      { name: t('hub.name'), item: `${site}${healthPath(lang)}` },
-      { name: c.h1, item: url },
-    ].map((x, i) => ({ '@type': 'ListItem', position: i + 1, ...x })),
-  },
 ];
 ---
 
@@ -70,7 +62,7 @@ const jsonld = [
   description={plain(c.description)}
   readerSettings={true}
 >
-  <main class="budget-page health-page min-h-screen">
+  <main class="budget-page health-page tf-surface min-h-screen">
     <nav class="hea-crumb" aria-label="breadcrumb">
       <a href={healthPath(lang)}>← {t('hub.name')}</a>
     </nav>
@@ -80,6 +72,7 @@ const jsonld = [
       titleSize="clamp"
       containerWidth="wide"
     />
+    <TopicNav lang={lang} topic="health" />
     <section class="bp-section" id="tool">
       <div class="bp-wrap">
         <p class="bp-lede" set:html={r(c.lead)} />
@@ -165,6 +158,7 @@ const jsonld = [
         <p class="bg-chart-src">{t('asof')}{topic.asOf}</p>
         <h3 class="bp-h3">{t('tool.more.h')}</h3>
         <ToolCards lang={lang} />
+        <TopicCrossLinks lang={lang} currentId="health" />
       </div>
     </section>
   </main>
