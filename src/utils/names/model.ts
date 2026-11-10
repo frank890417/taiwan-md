@@ -32,8 +32,9 @@ import {
 import { makeRelated } from './related';
 import { romanizeSyllable } from './romanize';
 import { getTopic } from '../topics/registry';
+import type { Lang } from '../../config/languages';
 
-export async function buildNamesModel(lang: string) {
+export async function buildNamesModel(lang: Lang) {
   const topic = getTopic('names')!;
   const romTool = topic.tools.find((x) => x.slug === 'name-romanization')!;
   const L = nlang(lang);

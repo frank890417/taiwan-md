@@ -26,8 +26,7 @@ import { buildNamesModel } from '../utils/names/model';
 
 const lang = getLangFromUrl(Astro.url) as Lang;
 const m = await buildNamesModel(lang);
-const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } =
-  m as any;
+const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
 ---
 
 <Layout
