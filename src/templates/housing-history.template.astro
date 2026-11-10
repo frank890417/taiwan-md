@@ -23,7 +23,11 @@ import { housingSub } from '../i18n/housing-sub';
 import { fill } from '../utils/housing/format';
 import { fmtPeriod } from '../utils/housing/data';
 import { historyFacts, historyRelated, loc } from '../utils/housing/sub-data';
-import { localizePath } from '../utils/topics/registry';
+import {
+  getTopic,
+  isTopicTranslated,
+  localizePath,
+} from '../utils/topics/registry';
 
 const lang = getLangFromUrl(Astro.url);
 const T = housingSub(lang);
@@ -62,6 +66,7 @@ const links = [
   lang={lang}
   title={title}
   description={description}
+  noindex={!isTopicTranslated(getTopic('housing')!, lang)}
   readerSettings={true}
 >
   <main class="housing-page tf-surface">

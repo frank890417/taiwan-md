@@ -35,7 +35,11 @@ import {
   type Ctx,
   type QinganData,
 } from '../utils/housing/tool-models';
-import { getTopic, localizePath } from '../utils/topics/registry';
+import {
+  getTopic,
+  isTopicTranslated,
+  localizePath,
+} from '../utils/topics/registry';
 import qingan from '../data/housing/qingan.json';
 import fixtures from '../data/housing/calc-fixtures.json';
 
@@ -81,6 +85,7 @@ const sections = [
   lang={lang}
   title={tt('page.metaTitle')}
   description={fill(tt('page.metaDescription'), { asOf: q.asOf })}
+  noindex={!isTopicTranslated(getTopic('housing')!, lang)}
   readerSettings={true}
 >
   <main class="housing-tools-page tf-surface min-h-screen">

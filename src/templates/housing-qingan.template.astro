@@ -37,7 +37,11 @@ import {
   qinganSrc,
   trimNum,
 } from '../utils/housing/data';
-import { localizePath } from '../utils/topics/registry';
+import {
+  getTopic,
+  isTopicTranslated,
+  localizePath,
+} from '../utils/topics/registry';
 
 const lang = getLangFromUrl(Astro.url);
 const T = housingSub(lang);
@@ -93,6 +97,7 @@ const zh = lang === 'zh-TW';
   lang={lang}
   title={title}
   description={description}
+  noindex={!isTopicTranslated(getTopic('housing')!, lang)}
   readerSettings={true}
 >
   <main class="housing-page tf-surface">
