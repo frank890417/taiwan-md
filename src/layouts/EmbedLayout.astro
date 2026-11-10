@@ -23,6 +23,7 @@ import '../styles/global.css';
 import type { Lang } from '../config/languages';
 import { getLanguage } from '../config/languages';
 import { useTopicsT } from '../i18n/topics';
+import { uiDir } from '../utils/topics/ui-dir';
 import { withBrand } from '../utils/pageTitle';
 import { absoluteUrl } from '../utils/tools/jsonld';
 import { EMBED_MESSAGE_TYPE } from '../utils/tools/embed';
@@ -39,6 +40,7 @@ export interface Props {
 
 const { title, lang, canonical, sourceNote } = Astro.props;
 const t = useTopicsT(lang);
+const ui = uiDir(lang);
 const dir = getLanguage(lang)?.dir ?? 'ltr';
 const canonicalUrl = absoluteUrl(canonical);
 ---
@@ -86,14 +88,14 @@ const canonicalUrl = absoluteUrl(canonical);
       {
         sourceNote && (
           <p class="tf-embed-source">
-            <span class="tf-embed-source-label">
+            <span class="tf-embed-source-label" dir={ui.dir} lang={ui.lang}>
               {t('embed.footer.source')}
             </span>
             {sourceNote}
           </p>
         )
       }
-      <p class="tf-embed-brand">
+      <p class="tf-embed-brand" dir={ui.dir} lang={ui.lang}>
         <a
           href={canonicalUrl}
           target="_blank"

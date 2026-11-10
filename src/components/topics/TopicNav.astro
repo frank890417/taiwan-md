@@ -4,6 +4,7 @@
  *
  * 資料來自專題登記檔（src/data/topics/<id>.json）。手機上橫向捲動，
  * 目前頁用 aria-current="page" 標出。登記檔還沒交、或 id 找不到時不輸出任何東西。
+ * 膠囊上的字用登記檔的 navTitle（短標題），沒寫才用 title（v1.1）。
  *
  * 用法（放在專題每一頁的 PageHero 底下）：
  *   <TopicNav lang={lang} topic="housing" />
@@ -17,6 +18,7 @@ import {
   pickText,
   type Topic,
 } from '../../utils/topics/registry';
+import { textDir, uiDir } from '../../utils/topics/ui-dir';
 
 export interface Props {
   lang: Lang;
@@ -33,16 +35,23 @@ const here = normalizePath(current);
 
 const items = topic
   ? [
-      { path: topic.path, label: t('topicnav.home'), kind: 'home' },
+      {
+        path: topic.path,
+        label: t('topicnav.home'),
+        kind: 'home',
+        attrs: uiDir(lang),
+      },
       ...topic.subpages.map((s) => ({
         path: s.path,
-        label: pickText(s.title, lang),
+        label: pickText(s.navTitle ?? s.title, lang),
         kind: 'page',
+        attrs: textDir(s.navTitle ?? s.title, lang),
       })),
       ...topic.tools.map((tool) => ({
         path: tool.path,
-        label: pickText(tool.title, lang),
+        label: pickText(tool.navTitle ?? tool.title, lang),
         kind: 'tool',
+        attrs: textDir(tool.navTitle ?? tool.title, lang),
       })),
     ].map((it) => {
       const href = localizePath(it.path, lang);
@@ -65,6 +74,8 @@ const items = topic
               class:list={['tn-link', `tn-link-${it.kind}`]}
               href={it.href}
               aria-current={it.active ? 'page' : undefined}
+              dir={it.attrs.dir}
+              lang={it.attrs.lang}
             >
               {it.label}
             </a>

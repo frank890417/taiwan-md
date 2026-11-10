@@ -31,7 +31,9 @@ import {
   localizePath,
   pickText,
   type LocalizedText,
+  DEFAULT_TOPIC_LANGUAGES,
 } from '../../utils/topics/registry-core';
+import { uiDir } from '../../utils/topics/ui-dir';
 import {
   absoluteUrl,
   buildBreadcrumbLd,
@@ -44,7 +46,13 @@ import {
 export interface Props {
   lang: Lang;
   /** 所屬專題。可以直接傳 getTopic('<id>') 的結果。path 用中文版路徑。 */
-  topic: { id: string; path: string; title: string | LocalizedText };
+  topic: {
+    id: string;
+    path: string;
+    title: string | LocalizedText;
+    /** 登記檔的 languages（v1.1）。沒傳 translatedLangs 時拿它當預設。 */
+    languages?: string[];
+  };
   /** 工具。可以直接傳登記檔裡的那一筆。title 就是頁面的 H1。 */
   tool: {
     slug: string;
@@ -81,6 +89,12 @@ export interface Props {
     related?: string;
     embed?: string;
   };
+  /**
+   * 這一頁內容真的翻好了的語言（v1.1）。目前語言不在清單裡時整頁標 noindex，
+   * 避免沒翻譯的語言薄殼變成可索引的重複頁。
+   * 預設：topic.languages（登記檔有寫的話），否則 ['zh-TW', 'en']。
+   */
+  translatedLangs?: string[];
 }
 
 const {
@@ -97,9 +111,17 @@ const {
   image,
   embedHeight,
   headings = {},
+  translatedLangs,
 } = Astro.props;
 
 const t = useTopicsT(lang);
+const ui = uiDir(lang);
+const indexedLangs: readonly string[] =
+  translatedLangs ??
+  (topic.languages && topic.languages.length > 0
+    ? topic.languages
+    : DEFAULT_TOPIC_LANGUAGES);
+const noindex = !indexedLangs.includes(lang);
 const toolTitle = pickText(tool.title, lang);
 const toolDescription = pickText(tool.description, lang);
 const topicTitle = pickText(topic.title, lang);
@@ -148,6 +170,7 @@ const jsonLd = [
   dateModified={updated}
   tags={tool.keywords}
   readerSettings={true}
+  noindex={noindex}
 >
   <div
     class="tf-surface tf-page"
@@ -157,7 +180,10 @@ const jsonLd = [
   >
     <nav class="tf-wrap tf-crumbs" aria-label={t('tool.breadcrumb.label')}>
       <ol>
-        <li><a href={homeHref}>{t('tool.breadcrumb.home')}</a></li>
+        <li>
+          <a href={homeHref} dir={ui.dir} lang={ui.lang}
+            >{t('tool.breadcrumb.home')}</a>
+        </li>
         <li><a href={topicHref}>{topicTitle}</a></li>
         <li aria-current="page">{toolTitle}</li>
       </ol>
@@ -174,7 +200,7 @@ const jsonLd = [
     <div class="tf-wrap">
       {
         updated && (
-          <p class="tf-updated">
+          <p class="tf-updated" dir={ui.dir} lang={ui.lang}>
             <time datetime={updated}>
               {t('tool.updated', { date: updated })}
             </time>
@@ -189,7 +215,11 @@ const jsonLd = [
       {
         hasReading && (
           <section class="tf-section">
-            <h2 class="tf-h2">
+            <h2
+              class="tf-h2"
+              dir={headings.reading ? undefined : ui.dir}
+              lang={headings.reading ? undefined : ui.lang}
+            >
               {headings.reading || t('tool.section.reading')}
             </h2>
             <div class="tf-prose">
@@ -202,7 +232,13 @@ const jsonLd = [
       {
         hasMethod && (
           <section class="tf-section">
-            <h2 class="tf-h2">{headings.method || t('tool.section.method')}</h2>
+            <h2
+              class="tf-h2"
+              dir={headings.method ? undefined : ui.dir}
+              lang={headings.method ? undefined : ui.lang}
+            >
+              {headings.method || t('tool.section.method')}
+            </h2>
             <div class="tf-prose">
               {howItWorks && <p>{howItWorks}</p>}
               <slot name="method" />
@@ -214,7 +250,11 @@ const jsonLd = [
       {
         hasSources && (
           <section class="tf-section">
-            <h2 class="tf-h2">
+            <h2
+              class="tf-h2"
+              dir={headings.sources ? undefined : ui.dir}
+              lang={headings.sources ? undefined : ui.lang}
+            >
               {headings.sources || t('tool.section.sources')}
             </h2>
             <div class="tf-prose">
@@ -227,7 +267,13 @@ const jsonLd = [
       {
         faqItems.length > 0 && (
           <section class="tf-section">
-            <h2 class="tf-h2">{headings.faq || t('tool.section.faq')}</h2>
+            <h2
+              class="tf-h2"
+              dir={headings.faq ? undefined : ui.dir}
+              lang={headings.faq ? undefined : ui.lang}
+            >
+              {headings.faq || t('tool.section.faq')}
+            </h2>
             <div class="tf-faq">
               {faqItems.map((f) => (
                 <details class="tf-faq-item" open>
@@ -241,12 +287,25 @@ const jsonLd = [
       }
 
       <section class="tf-section">
-        <h2 class="tf-h2">{headings.related || t('tool.section.related')}</h2>
+        <h2
+          class="tf-h2"
+          dir={headings.related ? undefined : ui.dir}
+          lang={headings.related ? undefined : ui.lang}
+        >
+          {headings.related || t('tool.section.related')}
+        </h2>
         <ul class="tf-related">
           {
-            relatedLinks.map((r) => (
+            relatedLinks.map((r, i) => (
               <li>
-                <a href={r.href}>{r.label}</a>
+                {/* 第一條是地基自己的「回到專題」，其餘是呼叫者給的字。 */}
+                <a
+                  href={r.href}
+                  dir={i === 0 ? ui.dir : undefined}
+                  lang={i === 0 ? ui.lang : undefined}
+                >
+                  {r.label}
+                </a>
               </li>
             ))
           }
@@ -256,7 +315,13 @@ const jsonLd = [
       {
         embedPath && (
           <section class="tf-section" id="tf-embed">
-            <h2 class="tf-h2">{headings.embed || t('tool.section.embed')}</h2>
+            <h2
+              class="tf-h2"
+              dir={headings.embed ? undefined : ui.dir}
+              lang={headings.embed ? undefined : ui.lang}
+            >
+              {headings.embed || t('tool.section.embed')}
+            </h2>
             <EmbedSnippet
               embedPath={embedPath}
               title={toolTitle}
