@@ -6,7 +6,8 @@
  *
  * 資料夾裡一份 json 都沒有時，import.meta.glob 回傳空物件，三個函式回傳
  * 空陣列／undefined，總覽頁照實顯示「還沒有專題」。
- * 型別與純函式住 registry-core.ts（測試直接載入那一份）。
+ * 型別與純函式住 registry-core.ts（測試直接載入那一份），這裡整包轉出：
+ * pickText、localizePath、isTopicTranslated(topic, lang)…都可以從本檔 import。
  */
 import {
   buildTopics,

@@ -2,14 +2,15 @@
  * topics.ts — 專題共用地基的 UI 字串：/topics/、/tools/ 兩個總覽頁，
  * 以及 ToolFrame／ToolPage／EmbedSnippet／EmbedLayout／TopicNav／TopicCrossLinks。
  *
- * zh-TW 與 en 完整；其他語言照 utils.ts 的 fallback chain（多數 → en）。
+ * zh-TW、en、ja 完整。其他語言缺字時一律退到 en，再退到 zh-TW（v1.1 起；
+ * 不再跟 utils.ts 的 FALLBACK_CHAIN，所以 ko 也是先讀英文）。
+ * 本檔只有型別 import，node 測試可以直接載入。
  * 這張表刻意不併進 ui.ts 的大表（地基分支只新增檔案），用本檔的
  * useTopicsT(lang) 取字；之後要併進 ui.ts 由協調者處理。
  *
  * 各專題自己的文案放 src/i18n/<topic>.ts，不要加在這裡。
  */
 import type { Lang } from '../types';
-import { getFallbackChain } from './utils';
 
 const en = {
   // ── /topics/ ──
@@ -52,7 +53,7 @@ const en = {
   'tool.breadcrumb.label': 'Breadcrumb',
   'tool.breadcrumb.home': 'Home',
   'tool.section.reading': 'How do I read the result?',
-  'tool.section.method': 'How is this calculated?',
+  'tool.section.method': 'How this result is produced',
   'tool.section.sources': 'Where does the data come from?',
   'tool.section.faq': 'Frequently asked questions',
   'tool.section.related': 'Related pages',
@@ -113,7 +114,7 @@ const zhTW: Record<Key, string> = {
   'tool.breadcrumb.label': '麵包屑導覽',
   'tool.breadcrumb.home': '首頁',
   'tool.section.reading': '結果怎麼讀？',
-  'tool.section.method': '這個數字怎麼算出來的？',
+  'tool.section.method': '怎麼得出這個結果？',
   'tool.section.sources': '資料從哪裡來？',
   'tool.section.faq': '常見問題',
   'tool.section.related': '相關頁面',
@@ -135,26 +136,108 @@ const zhTW: Record<Key, string> = {
   'crosslinks.heading': '其他專題',
 };
 
+const ja: Record<Key, string> = {
+  'topics.meta.title': '台湾トピック一覧：課題別のデータ・グラフ・計算ツール',
+  'topics.meta.description':
+    'Taiwan.md の特集トピックは現在 {n} 件。ひとつの課題についてデータ、グラフ、計算ツール、公的な出典をまとめ、すべての数値に基準日を記しています。',
+  'topics.meta.description.empty':
+    'Taiwan.md の特集トピックは順次公開予定です。ひとつの課題についてデータ、グラフ、計算ツール、公的な出典をまとめ、数値には基準日を記します。',
+  'topics.hero.title': 'トピック',
+  'topics.hero.subtitle':
+    'ひとつのトピックでひとつの課題を扱います。いまの数値、これまでの推移、そして自分のケースを計算できるツール。',
+  'topics.empty.title': 'トピックは順次公開します',
+  'topics.empty.body':
+    '公開済みのトピックはまだありません。公開され次第、このページに掲載します。',
+  'topics.card.tools': 'ツール {n} 件',
+  'topics.card.subpages': 'ページ {n} 件',
+  'topics.card.updated': '{date} 更新',
+  'topics.toolsLink': 'すべてのツールを一覧で見る',
+  'tools.meta.title':
+    '台湾の計算ツール一覧 {year}：無料で使えるオンライン計算・検索',
+  'tools.meta.title.empty': '台湾の計算ツール一覧',
+  'tools.meta.description':
+    'Taiwan.md の無料オンラインツールは現在 {n} 件（{m} トピック）。それぞれ計算方法、出典、基準日を明記し、単独ページで開くことも、自分のサイトに埋め込むこともできます。',
+  'tools.meta.description.empty':
+    'Taiwan.md の計算・検索ツールは順次公開予定です。それぞれ計算方法、出典、基準日を明記し、単独ページで開くことも、自分のサイトに埋め込むこともできます。',
+  'tools.hero.title': 'ツール',
+  'tools.hero.subtitle':
+    '各トピックの計算・検索ツール。それぞれ専用の URL があり、ほかのサイトにも埋め込めます。',
+  'tools.empty.title': 'ツールは順次公開します',
+  'tools.empty.body':
+    '公開済みのツールはまだありません。各トピックの公開に合わせて、このページに掲載します。',
+  'tools.group.count': 'ツール {n} 件',
+  'tools.topicsLink': 'トピック別に見る',
+  'tool.openStandalone': '単独ページで開く',
+  'tool.embed': '埋め込む',
+  'tool.sources': '出典',
+  'tool.breadcrumb.label': 'パンくずリスト',
+  'tool.breadcrumb.home': 'ホーム',
+  'tool.section.reading': '結果の見方',
+  'tool.section.method': 'この結果が出るしくみ',
+  'tool.section.sources': 'データの出典',
+  'tool.section.faq': 'よくある質問',
+  'tool.section.related': '関連ページ',
+  'tool.section.embed': 'このツールを埋め込む',
+  'tool.updated': '最終更新 {date}',
+  'tool.backToTopic': '「{topic}」に戻る',
+  'embed.intro':
+    'このコードをページに貼り付けてください。末尾の短いスクリプトが、枠の高さをツールに合わせて調整します。',
+  'embed.codeLabel': '埋め込みコード',
+  'embed.copy': 'コードをコピー',
+  'embed.copied': 'コピーしました',
+  'embed.copyFailed':
+    'コピーできませんでした。コードを選択して手動でコピーしてください。',
+  'embed.themeHint':
+    'URL の末尾に ?theme=light または ?theme=dark を付けると配色を固定できます。付けない場合は閲覧者のシステム設定に従います。',
+  'embed.footer.source': '出典',
+  'embed.footer.open': 'Taiwan.md で元のページを開く',
+  'topicnav.label': 'トピック内ナビゲーション',
+  'topicnav.home': '概要',
+  'crosslinks.heading': 'ほかのトピック',
+};
+
 export const topicsUI: Partial<Record<Lang, Partial<Record<Key, string>>>> = {
   en,
   'zh-TW': zhTW,
+  ja,
 };
 
 export type TopicsKey = Key;
 
 /**
- * 取字函式。缺該語言的字時照站上的 fallback chain 往下找（多數語言 → en → zh-TW）。
+ * 地基介面字串的 fallback 順序（v1.1）：該語言自己的 → en → zh-TW。
+ * zh-TW 與 en 各自完整，不往別處找。
+ */
+export function topicsFallbackChain(lang: string): string[] {
+  if (lang === 'zh-TW' || lang === 'en') return [lang];
+  return [lang, 'en', 'zh-TW'];
+}
+
+/**
+ * 這個語言的地基介面字串實際用哪個語言顯示：有自己的表（zh-TW、en、ja）回自己，
+ * 其餘回 'en'。總覽頁用它決定 noindex，uiDir() 用它決定要不要標 dir="ltr"。
+ */
+export function topicsUiLang(lang: string): string {
+  return (topicsUI as Record<string, unknown>)[lang] ? lang : 'en';
+}
+
+/**
+ * 取字函式。缺該語言的字時退到 en，再退到 zh-TW（見 topicsFallbackChain）。
  * 第二個參數做 {name} 置換：t('topics.card.tools', { n: 3 })。
  */
-export function useTopicsT(lang: Lang) {
-  const chain = getFallbackChain(lang);
+export function useTopicsT(lang: Lang | string) {
+  const chain = topicsFallbackChain(lang);
+  const tables = topicsUI as Record<
+    string,
+    Partial<Record<Key, string>> | undefined
+  >;
   return function t(
     key: TopicsKey,
     params?: Record<string, string | number>,
   ): string {
     let value: string | undefined;
     for (const code of chain) {
-      const hit = topicsUI[code]?.[key];
+      const hit = tables[code]?.[key];
       if (hit) {
         value = hit;
         break;

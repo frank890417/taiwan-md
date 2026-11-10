@@ -19,6 +19,8 @@ import { fileURLToPath } from 'node:url';
 import {
   buildTopics,
   flattenTools,
+  hasOwnText,
+  isTopicTranslated,
   latestUpdated,
   localizePath,
   normalizePath,
@@ -34,6 +36,12 @@ import {
   serializeJsonLd,
 } from '../src/utils/tools/jsonld.ts';
 import { buildEmbedSnippet } from '../src/utils/tools/embed.ts';
+import {
+  topicsFallbackChain,
+  topicsUI,
+  topicsUiLang,
+  useTopicsT,
+} from '../src/i18n/topics.ts';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const TOPICS_DIR = join(ROOT, 'src/data/topics');
@@ -121,17 +129,147 @@ test('registry：getAllTools 的形狀（工具帶著所屬專題），缺 slug 
   assert.equal(tools[0].topic.id, 'housing');
 });
 
-test('pickText：該語言自己的字 → zh-TW、ja、ko 讀 zh → 其他語言讀 en', () => {
+test('pickText：該語言自己的字 → en → zh（zh-TW 讀 zh）', () => {
   const text = { zh: '居住', en: 'Housing', ja: '住まい' };
   assert.equal(pickText(text, 'zh-TW'), '居住');
   assert.equal(pickText(text, 'en'), 'Housing');
   assert.equal(pickText(text, 'ja'), '住まい');
   assert.equal(pickText(text, 'fr'), 'Housing');
-  assert.equal(pickText({ zh: '居住', en: 'Housing' }, 'ja'), '居住');
-  assert.equal(pickText({ zh: '居住', en: 'Housing' }, 'ko'), '居住');
+  // v1.1：ja、ko 缺字時讀英文，不再讀中文
+  assert.equal(pickText({ zh: '居住', en: 'Housing' }, 'ja'), 'Housing');
+  assert.equal(pickText({ zh: '居住', en: 'Housing' }, 'ko'), 'Housing');
   assert.equal(pickText({ zh: '居住', en: 'Housing' }, 'ar'), 'Housing');
+  // en 是空的才退到 zh
+  assert.equal(pickText({ zh: '居住', en: '' }, 'ko'), '居住');
   assert.equal(pickText('純字串', 'en'), '純字串');
   assert.equal(pickText(undefined, 'en'), '');
+});
+
+test('hasOwnText：有沒有該語言自己的字', () => {
+  const text = { zh: '居住', en: 'Housing', ja: '住まい' };
+  assert.equal(hasOwnText(text, 'zh-TW'), true);
+  assert.equal(hasOwnText(text, 'en'), true);
+  assert.equal(hasOwnText(text, 'ja'), true);
+  assert.equal(hasOwnText(text, 'ar'), false);
+  assert.equal(hasOwnText({ ...text, ar: 'السكن' }, 'ar'), true);
+  assert.equal(hasOwnText('純字串', 'ar'), true);
+});
+
+test('navTitle：有寫才帶（字串或 {zh, en}），沒寫不加欄位', () => {
+  const topic = normalizeTopic({
+    ...housing,
+    subpages: [
+      {
+        path: '/housing/prices/',
+        title: '房價所得比十年變化',
+        navTitle: '房價',
+      },
+      { path: '/housing/rent/', title: { zh: '租屋', en: 'Renting' } },
+    ],
+    tools: [{ ...housing.tools[0], navTitle: { zh: '房貸', en: 'Mortgage' } }],
+  });
+  assert.equal(topic.subpages[0].navTitle, '房價');
+  assert.equal('navTitle' in topic.subpages[1], false);
+  assert.deepEqual(topic.tools[0].navTitle, { zh: '房貸', en: 'Mortgage' });
+  assert.equal(
+    pickText(topic.tools[0].navTitle ?? topic.tools[0].title, 'ja'),
+    'Mortgage',
+  );
+  // 舊登記檔（沒有 navTitle、languages）正規化結果不多出欄位
+  const old = normalizeTopic(housing);
+  assert.equal('navTitle' in old.tools[0], false);
+  assert.equal('languages' in old, false);
+});
+
+test('isTopicTranslated：預設 zh-TW、en；登記檔 languages 可以加', () => {
+  const plain = normalizeTopic(housing);
+  assert.equal(isTopicTranslated(plain, 'zh-TW'), true);
+  assert.equal(isTopicTranslated(plain, 'en'), true);
+  assert.equal(isTopicTranslated(plain, 'ja'), false);
+  assert.equal(isTopicTranslated(plain, 'ko'), false);
+  assert.equal(isTopicTranslated(undefined, 'en'), true);
+  assert.equal(isTopicTranslated(undefined, 'ar'), false);
+  const withJa = normalizeTopic({
+    ...housing,
+    languages: ['zh-TW', 'en', 'ja'],
+  });
+  assert.deepEqual(withJa.languages, ['zh-TW', 'en', 'ja']);
+  assert.equal(isTopicTranslated(withJa, 'ja'), true);
+  assert.equal(isTopicTranslated(withJa, 'ko'), false);
+  assert.equal(isTopicTranslated({ languages: [] }, 'en'), true);
+});
+
+// ── 1b. 介面字串（src/i18n/topics.ts）────────────────────────────────
+
+test('topics i18n：zh-TW、en、ja 三張表的 key 完全一樣，沒有空字串', () => {
+  const keys = Object.keys(topicsUI.en).sort();
+  for (const code of ['zh-TW', 'ja']) {
+    assert.deepEqual(Object.keys(topicsUI[code]).sort(), keys, code);
+  }
+  for (const code of ['zh-TW', 'en', 'ja']) {
+    for (const key of keys) {
+      assert.ok(topicsUI[code][key], `${code} 缺 ${key}`);
+    }
+  }
+});
+
+test('topics i18n：ja 的介面字串沒有繁體中文獨有的字，置換參數跟 en 一致', () => {
+  const zhOnly = /[這個們麼嗎還沒從頁專內覽讀總與資]/;
+  for (const [key, value] of Object.entries(topicsUI.ja)) {
+    assert.ok(!zhOnly.test(value), `ja ${key} 有中文字：${value}`);
+    const params = (v) => (v.match(/\{\w+\}/g) || []).sort();
+    // zh-TW 的 tools.meta.description 多一個 {m}，所以跟 zh-TW 或 en 其中之一相同即可
+    const mine = params(value).join();
+    assert.ok(
+      mine === params(topicsUI.en[key]).join() ||
+        mine === params(topicsUI['zh-TW'][key]).join(),
+      `ja ${key} 的置換參數不對`,
+    );
+  }
+});
+
+test('topics i18n fallback：有自己的用自己的，否則 en，不再退到中文', () => {
+  assert.deepEqual(topicsFallbackChain('zh-TW'), ['zh-TW']);
+  assert.deepEqual(topicsFallbackChain('en'), ['en']);
+  assert.deepEqual(topicsFallbackChain('ko'), ['ko', 'en', 'zh-TW']);
+  assert.deepEqual(topicsFallbackChain('pt'), ['pt', 'en', 'zh-TW']);
+
+  assert.equal(useTopicsT('zh-TW')('tool.section.faq'), '常見問題');
+  assert.equal(useTopicsT('ja')('tool.section.faq'), 'よくある質問');
+  for (const code of [
+    'ko',
+    'ar',
+    'fr',
+    'es',
+    'pt',
+    'de',
+    'ru',
+    'hi',
+    'vi',
+    'id',
+  ]) {
+    assert.equal(
+      useTopicsT(code)('tool.section.faq'),
+      'Frequently asked questions',
+      code,
+    );
+    assert.equal(topicsUiLang(code), 'en');
+  }
+  for (const code of ['zh-TW', 'en', 'ja']) {
+    assert.equal(topicsUiLang(code), code);
+  }
+  assert.equal(useTopicsT('ko')('topics.card.tools', { n: 3 }), 'Tools: 3');
+});
+
+test('topics i18n：計算方式的預設小標是中性的說法', () => {
+  assert.equal(
+    useTopicsT('zh-TW')('tool.section.method'),
+    '怎麼得出這個結果？',
+  );
+  assert.equal(
+    useTopicsT('en')('tool.section.method'),
+    'How this result is produced',
+  );
 });
 
 test('localizePath／normalizePath', () => {
