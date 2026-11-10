@@ -200,6 +200,18 @@ test('資格：無自有住宅，持分 30 平方公尺與車位塔位需銀行�
   assert.equal(share.clauseId, 'share');
 });
 
+test('資格條件：登記日在申請前或核准後 6 個月內都算（國庫署問答集第 17 問）', () => {
+  const cfg = JSON.parse(
+    readFileSync(
+      new URL('../src/data/housing/qingan.json', import.meta.url),
+      'utf8',
+    ),
+  );
+  assert.equal(cfg.current.purchaseWindow.beforeApplicationMonths, 6);
+  assert.equal(cfg.current.purchaseWindow.afterApprovalMonths, 6);
+  assert.match(cfg.generations.find((g) => g.id === 'v3').target, /核准後/);
+});
+
 test('資格：6 個月內買賣取得的成屋', () => {
   assert.equal(statusOf({ purchasedWithin6m: true }, 'purchased6m'), 'pass');
   assert.equal(statusOf({ purchasedWithin6m: false }, 'purchased6m'), 'fail');

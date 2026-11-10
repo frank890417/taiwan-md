@@ -345,13 +345,15 @@ test('EN_DATA：鍵對得到資料檔，英文數字都出現在中文原文', (
   const allQuotes = positions.actors.flatMap((a) => a.quotes);
   for (const [key, text] of Object.entries(EN_DATA.quotes)) {
     const hit = allQuotes.find((q) =>
-      q.text.replace(/[，。、：；「」『』\s]/g, '').startsWith(key),
+      q.text
+        .replace(/[，。、：；「」『』\s]/g, '')
+        .startsWith(key.replace(/^q-/, '')),
     );
     assert.ok(hit, `EN_DATA.quotes key 對不到引語: ${key}`);
     assert.ok(hit.verbatim, `quote ${key} 要是逐字引語`);
     assertNumbersCovered(text, hit.text, `quote ${key}`);
   }
-  for (const k of Object.keys(EN_DATA.who))
+  for (const [k] of EN_DATA.who)
     assert.ok(
       positions.surveys.some((s) => s.who === k),
       `who ${k}`,

@@ -47,7 +47,7 @@ const {
 const t = useTranslations(lang);
 const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
 const uid = nextUid('mc');
-const labels = labelsFor(lang, ['common.', 'mortgage.', 'county.']);
+const labels = labelsFor(lang, ['common.', 'mortgage.', 'countyName_']);
 const q = qingan as unknown as QinganData;
 const fx = fixtures as unknown as AffordabilityFixtures;
 const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };

@@ -1,6 +1,6 @@
 /**
  * housing.ts — /housing/ 專題的試算工具文案（zh-TW 與 en 完整）。
- * 其他語言走 utils.ts 的 fallback chain（vi/id/hi/ar/ru/de/fr/es/pt → en；ja/ko → zh-TW）。
+ * 其他語言走 utils.ts 的 fallback chain（vi/id/hi/ar/ru/de/fr/es/pt → en，ja/ko → zh-TW）。
  * key 一律 housing.tool.*。大括號 {name} 是佔位，由 format.ts 的 fill() 換成值。
  * 數字條件（額度、年齡、所得、房價上限、利率）一律不寫在這裡，執行時讀 src/data/housing/*.json。
  *
@@ -202,7 +202,7 @@ const zh = {
   'housing.tool.elig.f.shareSqm': '持分換算面積合計（平方公尺）',
   'housing.tool.elig.f.used': '{date} 之後已核貸過青安或農安貸款',
   'housing.tool.elig.f.purchased':
-    '房屋是申請日前 {months} 個月內因買賣取得所有權的成屋',
+    '房屋的建物登記日在申請日前 {months} 個月內，或會在銀行核准後 {months} 個月內完成登記',
   'housing.tool.elig.home.none': '都沒有',
   'housing.tool.elig.home.share': '有建物持分（另填面積）',
   'housing.tool.elig.home.parkingOrNiche': '只有車位或靈骨塔位',
@@ -218,7 +218,7 @@ const zh = {
   'housing.tool.elig.check.onceOnly': '限貸一次：沒有核貸過青安或農安貸款',
   'housing.tool.elig.check.noHome': '本人、配偶及未成年子女均無自有住宅',
   'housing.tool.elig.check.purchased6m':
-    '標的：申請日前 {months} 個月內因買賣取得所有權的成屋',
+    '標的：建物登記日在申請日前 {months} 個月內，或銀行核准後 {months} 個月內',
   'housing.tool.elig.status.pass': '符合',
   'housing.tool.elig.status.fail': '不符合',
   'housing.tool.elig.status.bankReview': '需銀行認定',
@@ -301,31 +301,32 @@ const zh = {
     '買方淨資產 = 房屋現值扣賣出成本與貸款餘額。租方淨資產 = 頭期款加買方一次性成本，再加每月省下的差額，以你填的年報酬率複利累積。兩邊每月現金流出取較大者當共同預算，花得少的一方把差額存起來。不含房貸利息扣除、稅負差異與租屋期間的搬遷成本。結果完全取決於你填的假設。',
 
   // ── 縣市名 ──────────────────────────────────────────────────────
-  'housing.tool.county.臺北市': '臺北市',
-  'housing.tool.county.新北市': '新北市',
-  'housing.tool.county.桃園市': '桃園市',
-  'housing.tool.county.臺中市': '臺中市',
-  'housing.tool.county.臺南市': '臺南市',
-  'housing.tool.county.高雄市': '高雄市',
-  'housing.tool.county.基隆市': '基隆市',
-  'housing.tool.county.新竹市': '新竹市',
-  'housing.tool.county.新竹縣': '新竹縣',
-  'housing.tool.county.苗栗縣': '苗栗縣',
-  'housing.tool.county.彰化縣': '彰化縣',
-  'housing.tool.county.南投縣': '南投縣',
-  'housing.tool.county.雲林縣': '雲林縣',
-  'housing.tool.county.嘉義市': '嘉義市',
-  'housing.tool.county.嘉義縣': '嘉義縣',
-  'housing.tool.county.屏東縣': '屏東縣',
-  'housing.tool.county.宜蘭縣': '宜蘭縣',
-  'housing.tool.county.花蓮縣': '花蓮縣',
-  'housing.tool.county.臺東縣': '臺東縣',
-  'housing.tool.county.澎湖縣': '澎湖縣',
-  'housing.tool.county.金門縣': '金門縣',
-  'housing.tool.county.連江縣': '連江縣',
+  'housing.tool.countyName_臺北市': '臺北市',
+  'housing.tool.countyName_新北市': '新北市',
+  'housing.tool.countyName_桃園市': '桃園市',
+  'housing.tool.countyName_臺中市': '臺中市',
+  'housing.tool.countyName_臺南市': '臺南市',
+  'housing.tool.countyName_高雄市': '高雄市',
+  'housing.tool.countyName_基隆市': '基隆市',
+  'housing.tool.countyName_新竹市': '新竹市',
+  'housing.tool.countyName_新竹縣': '新竹縣',
+  'housing.tool.countyName_苗栗縣': '苗栗縣',
+  'housing.tool.countyName_彰化縣': '彰化縣',
+  'housing.tool.countyName_南投縣': '南投縣',
+  'housing.tool.countyName_雲林縣': '雲林縣',
+  'housing.tool.countyName_嘉義市': '嘉義市',
+  'housing.tool.countyName_嘉義縣': '嘉義縣',
+  'housing.tool.countyName_屏東縣': '屏東縣',
+  'housing.tool.countyName_宜蘭縣': '宜蘭縣',
+  'housing.tool.countyName_花蓮縣': '花蓮縣',
+  'housing.tool.countyName_臺東縣': '臺東縣',
+  'housing.tool.countyName_澎湖縣': '澎湖縣',
+  'housing.tool.countyName_金門縣': '金門縣',
+  'housing.tool.countyName_連江縣': '連江縣',
 
   // ── 工具集頁 ────────────────────────────────────────────────────
-  'housing.tool.page.metaTitle': '房貸試算 2026：青安 3.0、負擔能力、買租比較',
+  'housing.tool.page.metaTitle':
+    '房地產試算工具集：房貸、負擔、青安資格、買租比較',
   'housing.tool.page.metaDescription':
     '輸入貸款金額、年限與利率，算出每月還款、總利息與還款曲線。同頁有青安 3.0 資格逐條比對、房價負擔能力自查與買租淨資產比較，條件截至 {asOf}。',
   'housing.tool.page.eyebrow': '居住專題 · 便民工具',
@@ -561,7 +562,7 @@ const en = {
   'housing.tool.elig.f.used':
     'Already approved for a Qing-An or Nongan loan after {date}',
   'housing.tool.elig.f.purchased':
-    'The home is a completed home you bought and took title to within {months} months before applying',
+    'The purchase is registered within {months} months before you apply, or will be within {months} months after the bank approves',
   'housing.tool.elig.home.none': 'None',
   'housing.tool.elig.home.share': 'Hold a share of a building (enter area)',
   'housing.tool.elig.home.parkingOrNiche':
@@ -583,7 +584,7 @@ const en = {
   'housing.tool.elig.check.noHome':
     'No owned home for you, your spouse or minor children',
   'housing.tool.elig.check.purchased6m':
-    'Property: a completed home bought and titled within {months} months before applying',
+    'Property: title registered within {months} months before applying or within {months} months after approval',
   'housing.tool.elig.status.pass': 'Meets',
   'housing.tool.elig.status.fail': 'Does not meet',
   'housing.tool.elig.status.bankReview': 'Bank to decide',
@@ -671,32 +672,32 @@ const en = {
     'Buyer net worth = home value less selling costs and loan balance. Renter net worth = the down payment plus one-off buying costs, plus the monthly difference saved, compounded at the return you enter. Whichever side spends more each month sets the shared budget, and the other side saves the difference. Mortgage interest deductions, tax differences and moving costs while renting are not included. The result depends entirely on your assumptions.',
 
   // ── County names ──────────────────────────────────────────────────
-  'housing.tool.county.臺北市': 'Taipei City',
-  'housing.tool.county.新北市': 'New Taipei City',
-  'housing.tool.county.桃園市': 'Taoyuan City',
-  'housing.tool.county.臺中市': 'Taichung City',
-  'housing.tool.county.臺南市': 'Tainan City',
-  'housing.tool.county.高雄市': 'Kaohsiung City',
-  'housing.tool.county.基隆市': 'Keelung City',
-  'housing.tool.county.新竹市': 'Hsinchu City',
-  'housing.tool.county.新竹縣': 'Hsinchu County',
-  'housing.tool.county.苗栗縣': 'Miaoli County',
-  'housing.tool.county.彰化縣': 'Changhua County',
-  'housing.tool.county.南投縣': 'Nantou County',
-  'housing.tool.county.雲林縣': 'Yunlin County',
-  'housing.tool.county.嘉義市': 'Chiayi City',
-  'housing.tool.county.嘉義縣': 'Chiayi County',
-  'housing.tool.county.屏東縣': 'Pingtung County',
-  'housing.tool.county.宜蘭縣': 'Yilan County',
-  'housing.tool.county.花蓮縣': 'Hualien County',
-  'housing.tool.county.臺東縣': 'Taitung County',
-  'housing.tool.county.澎湖縣': 'Penghu County',
-  'housing.tool.county.金門縣': 'Kinmen County',
-  'housing.tool.county.連江縣': 'Lienchiang County',
+  'housing.tool.countyName_臺北市': 'Taipei City',
+  'housing.tool.countyName_新北市': 'New Taipei City',
+  'housing.tool.countyName_桃園市': 'Taoyuan City',
+  'housing.tool.countyName_臺中市': 'Taichung City',
+  'housing.tool.countyName_臺南市': 'Tainan City',
+  'housing.tool.countyName_高雄市': 'Kaohsiung City',
+  'housing.tool.countyName_基隆市': 'Keelung City',
+  'housing.tool.countyName_新竹市': 'Hsinchu City',
+  'housing.tool.countyName_新竹縣': 'Hsinchu County',
+  'housing.tool.countyName_苗栗縣': 'Miaoli County',
+  'housing.tool.countyName_彰化縣': 'Changhua County',
+  'housing.tool.countyName_南投縣': 'Nantou County',
+  'housing.tool.countyName_雲林縣': 'Yunlin County',
+  'housing.tool.countyName_嘉義市': 'Chiayi City',
+  'housing.tool.countyName_嘉義縣': 'Chiayi County',
+  'housing.tool.countyName_屏東縣': 'Pingtung County',
+  'housing.tool.countyName_宜蘭縣': 'Yilan County',
+  'housing.tool.countyName_花蓮縣': 'Hualien County',
+  'housing.tool.countyName_臺東縣': 'Taitung County',
+  'housing.tool.countyName_澎湖縣': 'Penghu County',
+  'housing.tool.countyName_金門縣': 'Kinmen County',
+  'housing.tool.countyName_連江縣': 'Lienchiang County',
 
   // ── Tools hub page ────────────────────────────────────────────────
   'housing.tool.page.metaTitle':
-    'Taiwan Mortgage Calculator 2026: Qing-An 3.0 and More',
+    'Taiwan Housing Calculators: Mortgage, Affordability, Rent vs Buy',
   'housing.tool.page.metaDescription':
     'Free Taiwan mortgage calculator with Qing-An 3.0 step rates, a clause-by-clause eligibility check, an affordability check and a rent vs buy comparison. Terms as of {asOf}.',
   'housing.tool.page.eyebrow': 'Housing · Tools',

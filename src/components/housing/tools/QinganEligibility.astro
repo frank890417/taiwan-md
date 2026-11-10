@@ -43,7 +43,7 @@ const {
 const t = useTranslations(lang);
 const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
 const uid = nextUid('qe');
-const labels = labelsFor(lang, ['common.', 'elig.', 'county.']);
+const labels = labelsFor(lang, ['common.', 'elig.', 'countyName_']);
 const q = qingan as unknown as QinganData;
 const fx = fixtures as unknown as AffordabilityFixtures;
 const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
@@ -105,7 +105,7 @@ const sources = [q.sources.principles, q.sources.faq, q.sources.v3Release].map(
               { value: '', label: '—' },
               ...QINGAN_COUNTIES.map((n) => ({
                 value: n,
-                label: L(`county.${n}`),
+                label: L(`countyName_${n}`),
               })),
             ],
           })}

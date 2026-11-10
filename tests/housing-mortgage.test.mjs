@@ -198,6 +198,96 @@ test('提前還款（降低月付）：期數不變、月付下降', () => {
   assert.equal(pre.schedule.at(-1).balance, 0);
 });
 
+// 2026-11-10 協調者審查抓到：縮短年限在有寬限期或分段利率時，換段重算用回原始年限，
+// 兩種模式算出同樣 480 期、同樣總利息。下面三組守住「縮短年限」真的有縮短。
+const shortenVsReduce = (base, prepay) => {
+  const s = computeMortgage({
+    ...base,
+    prepayments: [{ ...prepay, mode: 'shortenTerm' }],
+  });
+  const r = computeMortgage({
+    ...base,
+    prepayments: [{ ...prepay, mode: 'reducePayment' }],
+  });
+  return { s, r };
+};
+
+test('提前還款（縮短年限）＋寬限期：期數與總利息都少於降低月付', () => {
+  const { s, r } = shortenVsReduce(
+    {
+      principal: 10_000_000,
+      years: 40,
+      graceMonths: 60,
+      stages: [{ months: 480, annualRatePct: 2.275 }],
+    },
+    { month: 12, amount: 2_000_000 },
+  );
+  assert.equal(r.payoffMonth, 480);
+  assert.ok(s.payoffMonth < r.payoffMonth, `縮短 ${s.payoffMonth} 期`);
+  assert.ok(s.totalInterest < r.totalInterest);
+  // 寬限期後月付維持「沒提前還款時」的水準
+  near(s.firstAmortizingPayment, annuityPayment(10_000_000, 2.275, 420), 0.01);
+  assert.equal(s.schedule.at(-1).balance, 0);
+});
+
+test('提前還款（縮短年限）＋分段利率：換段後仍維持縮短後的期數', () => {
+  const { s, r } = shortenVsReduce(
+    {
+      principal: 10_000_000,
+      years: 30,
+      stages: [
+        { months: 24, annualRatePct: 2 },
+        { months: 0, annualRatePct: 2.5 },
+      ],
+    },
+    { month: 12, amount: 2_000_000 },
+  );
+  assert.equal(r.payoffMonth, 360);
+  assert.ok(s.payoffMonth < r.payoffMonth, `縮短 ${s.payoffMonth} 期`);
+  assert.ok(s.totalInterest < r.totalInterest);
+  assert.equal(s.schedule.at(-1).balance, 0);
+});
+
+test('提前還款（縮短年限）＋寬限期＋階梯利率（青安 3.0 形狀）', () => {
+  const { s, r } = shortenVsReduce(
+    {
+      principal: 10_000_000,
+      years: 40,
+      graceMonths: 60,
+      stages: [
+        { months: 36, annualRatePct: 1.775 },
+        { months: 12, annualRatePct: 1.9 },
+        { months: 12, annualRatePct: 2.025 },
+        { months: 12, annualRatePct: 2.15 },
+        { months: 0, annualRatePct: 2.275 },
+      ],
+    },
+    { month: 12, amount: 2_000_000 },
+  );
+  assert.equal(r.payoffMonth, 480);
+  assert.ok(s.payoffMonth < r.payoffMonth, `縮短 ${s.payoffMonth} 期`);
+  assert.ok(s.totalInterest < r.totalInterest);
+  near(sum(s.schedule, 'principalPaid') + 2_000_000, 10_000_000, 0.01);
+  assert.equal(s.schedule.at(-1).balance, 0);
+});
+
+test('提前還款（縮短年限）＋本金平均攤還＋寬限期', () => {
+  const { s, r } = shortenVsReduce(
+    {
+      principal: 6_000_000,
+      years: 20,
+      graceMonths: 24,
+      method: 'equalPrincipal',
+      stages: [{ months: 240, annualRatePct: 2.4 }],
+    },
+    { month: 12, amount: 1_200_000 },
+  );
+  // 原本每月還本 6,000,000 ÷ 216；提前還 120 萬後在同樣的每月還本下要 173 期
+  assert.equal(s.payoffMonth, 24 + Math.ceil(4_800_000 / (6_000_000 / 216)));
+  assert.equal(r.payoffMonth, 240);
+  assert.ok(s.totalInterest < r.totalInterest);
+});
+
 test('提前還款金額超過餘額時只還到 0', () => {
   const res = computeMortgage({
     principal: 1_000_000,

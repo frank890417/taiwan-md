@@ -83,6 +83,18 @@ export function annuityPayment(
   return (balance * r * f) / (f - 1);
 }
 
+/** 給定餘額、利率與月付金，算還清需要幾期（可為小數）；月付不夠付利息時回傳 Infinity。 */
+export function periodsToRepay(
+  balance: number,
+  annualRatePct: number,
+  payment: number,
+): number {
+  const r = annualRatePct / 100 / 12;
+  if (r === 0) return balance / payment;
+  if (payment <= balance * r) return Infinity;
+  return -Math.log(1 - (balance * r) / payment) / Math.log(1 + r);
+}
+
 /** 給定月付金、利率、期數，反推可貸本金（annuityPayment 的反函數）。 */
 export function principalForPayment(
   payment: number,
@@ -145,12 +157,17 @@ export function computeMortgage(input: MortgageInput): MortgageResult {
   // annuity：目前的月付金；equalPrincipal：目前每月攤還的本金
   let level: number | null = null;
   let prevRate: number | null = null;
+  // 預定還清的期數。縮短年限型提前還款會把它往前移；之後利率換段或寬限期結束時，
+  // 月付依「到 end 為止的剩餘期數」重算，縮短的效果才不會被原始年限蓋回去。
+  let end = total;
+  // 寬限期內做了縮短年限型提前還款：寬限期結束時沿用原本預定的月付，不重算
+  let heldLevel: number | null = null;
 
-  for (let m = 1; m <= total && balance > EPS; m++) {
+  for (let m = 1; m <= end && balance > EPS; m++) {
     const rate = rateAt(input.stages, m);
     const r = rate / 100 / 12;
     const interest = balance * r;
-    const remaining = total - m + 1;
+    const remaining = end - m + 1;
     let principalPaid = 0;
 
     if (m > grace) {
@@ -163,21 +180,46 @@ export function computeMortgage(input: MortgageInput): MortgageResult {
         principalPaid = Math.min(balance, level);
       }
       // 最後一期收尾，避免浮點殘值
-      if (m === total || balance - principalPaid < EPS) principalPaid = balance;
+      if (m >= end || balance - principalPaid < EPS) principalPaid = balance;
     }
     prevRate = rate;
 
     balance -= principalPaid;
     let prepaid = 0;
     for (const p of prepayByMonth.get(m) ?? []) {
+      const before = balance;
       const amt = Math.min(balance, p.amount);
       prepaid += amt;
       balance -= amt;
-      // reducePayment：下期依新餘額重算；shortenTerm：level 不動，自然提早結清
-      if (p.mode === 'reducePayment' && m >= grace) level = null;
+      if (balance < EPS) continue;
+      if (p.mode === 'reducePayment') {
+        // 期數不變：下期依新餘額與到 end 的剩餘期數重算
+        if (m >= grace) level = null;
+        heldLevel = null;
+        continue;
+      }
+      // shortenTerm：月付（本金平均則是每月還本）維持原來的水準，算出新的還清期
+      const amortizing = m > grace;
+      const start = amortizing ? m : grace;
+      const nextRate = rateAt(input.stages, start + 1);
+      if (method === 'annuity') {
+        const pay: number = amortizing
+          ? (level as number)
+          : annuityPayment(before, nextRate, end - grace);
+        const n = periodsToRepay(balance, nextRate, pay);
+        if (Number.isFinite(n))
+          end = Math.min(end, start + Math.ceil(n - 1e-9));
+        if (!amortizing) heldLevel = pay;
+      } else {
+        const per: number = amortizing
+          ? (level as number)
+          : before / (end - grace);
+        end = Math.min(end, start + Math.ceil(balance / per - 1e-9));
+        if (!amortizing) heldLevel = per;
+      }
     }
     // 寬限期內提前還款：寬限期結束時本來就會重算，不需額外處理
-    if (m === grace) level = null;
+    if (m === grace) level = heldLevel;
 
     const payment = interest + principalPaid;
     totalInterest += interest;

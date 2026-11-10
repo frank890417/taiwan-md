@@ -40,6 +40,7 @@ import {
   fmtRate,
   paren,
   fmtWan,
+  hashWithParams,
 } from './format.ts';
 import {
   dualChart,
@@ -697,7 +698,7 @@ export function affordabilityView(v: Values, ctx: Ctx): ToolView {
       b: fmtPercent(row.burdenPct, 2),
       p: fmtNum(row.priceToIncome, 2),
     }) + (row.smallSample ? ` ${L('afford.smallSample')}` : '');
-  const countyName = (n: string): string => L(`county.${n}`);
+  const countyName = (n: string): string => L(`countyName_${n}`);
   view.text.nationLine = nation ? line(L('afford.nation'), nation) : '';
   view.text.countyLine = county ? line(countyName(county.name), county) : '';
 
@@ -926,11 +927,16 @@ export function eligibilityView(v: Values, ctx: Ctx): ToolView {
   );
   const sp = new URLSearchParams({
     [`${PARAM_PREFIX.mortgage}_scenario`]: 'qingan3',
-    [`${PARAM_PREFIX.mortgage}_limitClass`]: r.limitClass,
     [`${PARAM_PREFIX.mortgage}_amount`]: String(amountWan),
     [`${PARAM_PREFIX.mortgage}_years`]: String(years),
   });
-  view.href.toMortgage = `${ctx.toolsPath ?? ''}?${sp.toString()}#mortgage-calculator`;
+  // 額度別透露婚育狀況，放 # 後面（format.ts 的 HASH_ONLY_KEYS）
+  view.href.toMortgage = `${ctx.toolsPath ?? ''}?${sp.toString()}${hashWithParams(
+    'mortgage-calculator',
+    r.limitClass === 'general'
+      ? {}
+      : { [`${PARAM_PREFIX.mortgage}_limitClass`]: r.limitClass },
+  )}`;
   view.show = { result: true, error: false };
   return view;
 }

@@ -103,6 +103,31 @@ export function escapeHtml(s: string): string {
 }
 
 /**
+ * 會透露婚育或家庭狀況的欄位（新婚、育有未成年子女的額度別）不放查詢參數，
+ * 改放網址 `#` 後面：不會送到伺服器、也不進分析事件（專題共用契約 §11 規則 1）。
+ */
+const HASH_ONLY_KEYS = new Set(['limitClass']);
+
+/** `#錨點&k=v&k2=v2` → 錨點與參數。錨點可以是空的。 */
+function splitHash(hash: string): { anchor: string; sp: URLSearchParams } {
+  const raw = hash.startsWith('#') ? hash.slice(1) : hash;
+  const i = raw.indexOf('&');
+  const head = i === -1 ? raw : raw.slice(0, i);
+  const rest = i === -1 ? '' : raw.slice(i + 1);
+  if (head.includes('=')) return { anchor: '', sp: new URLSearchParams(raw) };
+  return { anchor: head, sp: new URLSearchParams(rest) };
+}
+
+/** 給「帶進另一個工具」的連結用：把只放 `#` 後面的欄位接在錨點之後。 */
+export function hashWithParams(
+  anchor: string,
+  params: Record<string, string>,
+): string {
+  const sp = new URLSearchParams(params).toString();
+  return `#${anchor}${sp ? `&${sp}` : ''}`;
+}
+
+/**
  * 從網址查詢參數讀取某個前綴的欄位。
  * 參數名為 `${prefix}_${key}`，同頁多個工具用各自前綴互不干擾。
  */
@@ -115,8 +140,13 @@ export function readParams(
   const src =
     search ?? (typeof location === 'undefined' ? '' : location.search);
   const sp = new URLSearchParams(src);
+  const hs =
+    search === undefined && typeof location !== 'undefined'
+      ? splitHash(location.hash).sp
+      : new URLSearchParams();
   for (const k of keys) {
-    const v = sp.get(`${prefix}_${k}`);
+    const name = `${prefix}_${k}`;
+    const v = HASH_ONLY_KEYS.has(k) ? hs.get(name) : sp.get(name);
     if (v !== null) out[k] = v;
   }
   return out;
@@ -133,13 +163,18 @@ export function writeParams(
 ): void {
   if (typeof location === 'undefined' || typeof history === 'undefined') return;
   const sp = new URLSearchParams(location.search);
+  const { anchor, sp: hs } = splitHash(location.hash);
   for (const k of Object.keys(values)) {
     const name = `${prefix}_${k}`;
-    if (values[k] === defaults[k] || values[k] === '') sp.delete(name);
-    else sp.set(name, values[k]);
+    const target = HASH_ONLY_KEYS.has(k) ? hs : sp;
+    sp.delete(name);
+    if (values[k] !== defaults[k] && values[k] !== '')
+      target.set(name, values[k]);
   }
   const qs = sp.toString();
-  const next = `${location.pathname}${qs ? `?${qs}` : ''}${location.hash}`;
+  const hq = hs.toString();
+  const hash = anchor || hq ? `#${anchor}${anchor && hq ? '&' : ''}${hq}` : '';
+  const next = `${location.pathname}${qs ? `?${qs}` : ''}${hash}`;
   try {
     history.replaceState(history.state, '', next);
   } catch {

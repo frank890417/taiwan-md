@@ -128,7 +128,7 @@ export interface EligibilityAnswers {
   home?: HomeStatus;
   /** home 為 share 時，持分換算面積合計（平方公尺） */
   shareSqm?: number;
-  /** 是否為申請日前 6 個月內因買賣取得所有權的成屋 */
+  /** 建物登記日是否在申請日前 6 個月內，或銀行核准後 6 個月內（國庫署問答集第 17 問：兩者都符合） */
   purchasedWithin6m?: boolean;
   newlywed?: boolean;
   hasMinorChild?: boolean;
@@ -306,7 +306,7 @@ export function checkQinganEligibility(
     });
   }
 
-  // 申請日前 N 個月內因買賣取得所有權的成屋
+  // 建物登記日在申請日前 N 個月內，或銀行核准後 N 個月內
   {
     let status: EligibilityStatus = 'unknown';
     if (known(a.purchasedWithin6m))

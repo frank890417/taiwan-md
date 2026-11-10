@@ -42,7 +42,7 @@ const {
 const t = useTranslations(lang);
 const tt = (k: string) => t(`housing.tool.${k}` as TranslationKey);
 const uid = nextUid('af');
-const labels = labelsFor(lang, ['common.', 'afford.', 'band.', 'county.']);
+const labels = labelsFor(lang, ['common.', 'afford.', 'band.', 'countyName_']);
 const q = qingan as unknown as QinganData;
 const fx = fixtures as unknown as AffordabilityFixtures;
 const ctx: Ctx = { lang, labels, qingan: q, fixtures: fx, toolsPath };
@@ -151,7 +151,7 @@ const counties = fx.officialAffordability.rows.filter((r) => r.name !== '全國'
               { value: '', label: L('afford.county.none') },
               ...counties.map((c) => ({
                 value: c.name,
-                label: L(`county.${c.name}`),
+                label: L(`countyName_${c.name}`),
               })),
             ],
           })}

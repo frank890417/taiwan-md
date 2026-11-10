@@ -230,6 +230,19 @@ test('青安資格自查：預設案例逐條有結果，附條文原文，不�
   assert.equal(view.text.limitValue, '1,000 萬');
 });
 
+test('青安資格自查：帶進房貸試算時，額度別（婚育狀況）放在 # 後面，不進查詢參數', () => {
+  const ctx = ctxFor('zh-TW', dict('zh-TW'));
+  const view = eligibilityView(
+    { ...eligibilityDefaults(), newlywed: 'yes' },
+    ctx,
+  );
+  const href = view.href.toMortgage;
+  const [beforeHash, hash] = href.split('#');
+  assert.ok(!beforeHash.includes('limitClass'), href);
+  assert.ok(hash.startsWith('mortgage-calculator&'), href);
+  assert.ok(hash.includes('mc_limitClass=newlywed'), href);
+});
+
 test('青安資格自查：不符合時不列額度數字；持分算需銀行認定；新婚額度受房價 8 成限制', () => {
   const ctx = ctxFor('zh-TW', dict('zh-TW'));
   const d = eligibilityDefaults();

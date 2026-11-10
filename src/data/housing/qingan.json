@@ -130,8 +130,9 @@
         "netRatePct": 2.275
       }
     ],
-    "note": "一段式機動利率（2021-01-01 起新貸案）。補貼 2 碼＝內政部住宅基金 1.5 碼＋公股銀行減收半碼；滿 3 年後每年減半碼，第 7 年起回復原貸款利率。青安2.0 既有貸戶同樣適用遞減。",
-    "source": "v3Release"
+    "note": "一段式機動利率（2021-01-01 起新貸案）。補貼 2 碼（0.5 個百分點）＝內政部住宅基金 1.5 碼（0.375 個百分點）＋公股銀行減收半碼（0.125 個百分點），滿 3 年後每年減半碼，第 7 年起回復原貸款利率。青安2.0 既有貸戶同樣適用遞減。各階段利率是本站依官方基準利率、加碼與補貼碼數計算。",
+    "source": "v3Release",
+    "derived": true
   },
   "current": {
     "version": "v3",
@@ -169,7 +170,13 @@
       "兆豐銀行",
       "臺灣企銀"
     ],
-    "source": "principles"
+    "source": "principles",
+    "purchaseWindow": {
+      "beforeApplicationMonths": 6,
+      "afterApprovalMonths": 6,
+      "note": "建物登記日在申請日前 6 個月內，或銀行核准後 6 個月內，都符合（國庫署問答集第 17 問）",
+      "source": "faq"
+    }
   },
   "clauses": [
     {
@@ -226,10 +233,10 @@
       "grace": "3 年",
       "ltv": "最高 8 成",
       "age": "成年",
-      "incomeCap": "無",
-      "priceCap": "無",
+      "incomeCap": "沒有資料",
+      "priceCap": "沒有資料",
       "onceOnly": "無",
-      "rateOptions": "混合式固定、一段式機動（2019 起）",
+      "rateOptions": "混合式固定、一段式機動",
       "target": "成屋"
     },
     {
@@ -238,9 +245,9 @@
       "years": "40 年",
       "grace": "5 年",
       "ltv": "最高 8 成",
-      "age": "成年，無上限",
-      "incomeCap": "無",
-      "priceCap": "無",
+      "age": "成年",
+      "incomeCap": "沒有資料",
+      "priceCap": "沒有資料",
       "onceOnly": "2024-06-27 起限貸一次，新貸戶簽自住切結",
       "rateOptions": "一段式、二段式、混合式",
       "target": "成屋"
@@ -256,7 +263,7 @@
       "priceCap": "臺北市 3,500 萬；新北市、新竹縣市 2,500 萬；其他縣市 2,000 萬",
       "onceOnly": "維持限貸一次與自住切結",
       "rateOptions": "只剩一段式機動",
-      "target": "申請日前 6 個月內因買賣取得所有權的住宅"
+      "target": "建物登記日在申請日前 6 個月內，或銀行核准後 6 個月內，因買賣取得所有權的住宅"
     }
   ],
   "timeline": [
@@ -283,7 +290,7 @@
     },
     {
       "date": "2024-03-22",
-      "event": "央行升息半碼，政府同幅加碼補貼，一段式補貼後維持 1.775%",
+      "event": "央行 3 月 21 日升息半碼，財政部宣布升息部分由政府同額補貼半碼",
       "sourceUrl": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=a518c08ae1d24bc29a4688022244bb08",
       "kind": "primary"
     },
@@ -364,5 +371,10 @@
     "財政部 2026 年同口徑的違規追回累計數：沒有資料",
     "新青安占全體新承做購置住宅貸款的比重：沒有官方數字",
     "官方或公股銀行的月付金試算表：沒有公布"
-  ]
+  ],
+  "generationSources": {
+    "v1": ["v2Release"],
+    "v2": ["v2Release", "onceOnly", "faq"],
+    "v3": ["principles", "faq", "v3Release"]
+  }
 }

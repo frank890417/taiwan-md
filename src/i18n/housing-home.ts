@@ -17,7 +17,7 @@ const dicts = {
       meta: {
         title: '台灣房地產 2026：房價所得比、房貸、青安與發展歷程',
         description:
-          '{year} 年全國房價所得比 {pti} 倍（{period}，內政部）。整理戰後住宅政策、青安貸款三代條件與各方公開說法，另附房貸試算等 {nTools} 個便民工具，數字都附官方來源與截止日。',
+          '{period}全國房價所得比 {pti} 倍。整理戰後住宅政策、青安三代條件與各方說法，附房貸試算等 {nTools} 個工具，數字都附官方來源。',
       },
       ui: {
         source: '來源：',
@@ -34,7 +34,8 @@ const dicts = {
         zhOnly: '中文',
         related: '延伸閱讀',
       },
-      agencies: {} as Record<string, string>,
+      // 機關名寫成 [中文、英文] 對照陣列：寫成物件鍵時，書寫檢查會把鍵後的冒號誤判成貼著中文的半形標點
+      agencies: [] as [string, string][],
       hero: {
         eyebrow: '專題 · 居住',
         title: '台灣的房價、房貸與青安 2026',
@@ -75,7 +76,7 @@ const dicts = {
         kicker: '看別人的數字之前，先算自己的。',
         h2: '先算自己的：貸 {amount}，每個月要付多少',
         intro:
-          '輸入貸款金額、年限和利率，圖會畫出每個月付多少、其中多少是利息。預設利率是五大銀行新承做購屋貸款的平均利率 {rate}%（{rateAsOf}），也能切到青安 3.0 的階梯利率做對照。寬限期是前幾年只繳利息、不還本金的期間，結束後月付會跳高，圖上看得到。',
+          '輸入貸款金額、年限和利率，圖會畫出每個月付多少、其中多少是利息。預設是青安 3.0 的階梯利率（前 3 年 {qRate}%），也能切到一般房貸。一般房貸預帶的 {rate}%，是內政部計算{rateAsOf}房貸負擔率時用的五大銀行新承做購屋貸款平均利率。寬限期是前幾年只繳利息、不還本金的期間，結束後月付會跳高，圖上看得到。',
         othersTitle: '另外 {n} 個工具',
         othersNote: '工具只做算術，不判斷該不該買。',
         open: '前往工具',
@@ -504,29 +505,46 @@ const dicts = {
         zhOnly: 'Chinese',
         related: 'Further reading',
       },
-      agencies: {
-        內政部不動產資訊平台:
+      agencies: [
+        [
+          '內政部不動產資訊平台',
           'Ministry of the Interior, Real Estate Information Platform',
-        '內政部營建署（現國土管理署）／不動產資訊平台':
+        ],
+        [
+          '內政部營建署（現國土管理署）／不動產資訊平台',
           'Ministry of the Interior, Construction and Planning Agency (now Land Administration Agency) / Real Estate Information Platform',
-        中央銀行: 'Central Bank of the Republic of China (Taiwan)',
-        行政院主計總處:
+        ],
+        ['中央銀行', 'Central Bank of the Republic of China (Taiwan)'],
+        [
+          '行政院主計總處',
           'Directorate-General of Budget, Accounting and Statistics',
-        '行政院主計總處（政府資料開放平臺）':
+        ],
+        [
+          '行政院主計總處（政府資料開放平臺）',
           'Directorate-General of Budget, Accounting and Statistics (via the open-data portal)',
-        '內政部不動產資訊平台轉載國泰建設／政大台灣房地產研究中心指數':
+        ],
+        [
+          '內政部不動產資訊平台轉載國泰建設／政大台灣房地產研究中心指數',
           'Ministry of the Interior Real Estate Information Platform, republishing the Cathay / NCCU index',
-        財政部國庫署: 'Ministry of Finance, National Treasury Administration',
-        行政院: 'Executive Yuan',
-        金融監督管理委員會: 'Financial Supervisory Commission',
-        合作金庫商業銀行: 'Taiwan Cooperative Bank',
-        '中華郵政 網路郵局': 'Chunghwa Post (i-Post)',
-        '內政部不動產資訊平台／國土管理署':
+        ],
+        [
+          '財政部國庫署',
+          'Ministry of Finance, National Treasury Administration',
+        ],
+        ['行政院', 'Executive Yuan'],
+        ['金融監督管理委員會', 'Financial Supervisory Commission'],
+        ['合作金庫商業銀行', 'Taiwan Cooperative Bank'],
+        ['中華郵政 網路郵局', 'Chunghwa Post (i-Post)'],
+        [
+          '內政部不動產資訊平台／國土管理署',
           'Ministry of the Interior, Real Estate Information Platform / Land Administration Agency',
-        財政部: 'Ministry of Finance',
-        '內政部（國土管理署／統計處）':
+        ],
+        ['財政部', 'Ministry of Finance'],
+        [
+          '內政部（國土管理署／統計處）',
           'Ministry of the Interior (Land Administration Agency / Department of Statistics)',
-      },
+        ],
+      ] as [string, string][],
       hero: {
         eyebrow: 'Topic · Housing',
         title: 'Taiwan Housing 2026: Prices, Mortgages and the Youth Loan',
@@ -567,7 +585,7 @@ const dicts = {
         kicker: "Before anyone else's numbers, work out your own.",
         h2: 'Start with your own: what does a {amount} mortgage cost each month?',
         intro:
-          'Enter a loan amount, term and rate and the chart shows the monthly payment and how much of it is interest. The default rate is the average new home-loan rate at the five largest banks, {rate}% ({rateAsOf}); you can switch to the Qing-An 3.0 step rates to compare. A grace period is the early stretch when you pay interest only and no principal; the monthly payment jumps when it ends, and the chart shows that jump.',
+          'Enter a loan amount, term and rate and the chart shows the monthly payment and how much of it is interest. It opens on the Qing-An 3.0 step rates ({qRate}% for the first three years), and you can switch to an ordinary mortgage. The ordinary-mortgage default, {rate}%, is the five-bank average new home-loan rate that the Ministry of the Interior used for its {rateAsOf} affordability figures. A grace period is the early stretch when you pay interest only and no principal; the monthly payment jumps when it ends, and the chart shows that jump.',
         othersTitle: '{n} more tools',
         othersNote:
           'The tools only do arithmetic. They do not tell you whether to buy.',
@@ -729,7 +747,7 @@ const dicts = {
           'The "new Qing-An" people talk about is no longer the current Qing-An.',
         h2: 'The new Qing-An has become Qing-An 3.0, and the subsidy shrinks every year',
         intro:
-          'The Qing-An loan (青安, Youth Home-Starter Loan) is a subsidised first-home mortgage run by the Ministry of Finance through {nBanks} state-owned banks. {v2name}, {v2nick}, expired on {v2to}. {v3name} took effect on {v3from} and accepts applications until {v3to}. Media in the first half of {y} called what became 3.0 "new Qing-An 2.0".',
+          'The Qing-An loan (青安), the Youth Home-Starter Loan, is a subsidised first-home mortgage run by the Ministry of Finance through {nBanks} state-owned banks. {v2name}, {v2nick}, expired on {v2to}. {v3name} took effect on {v3from} and accepts applications until {v3to}. Media in the first half of {y} called what became 3.0 "new Qing-An 2.0".',
         names: {
           v1: 'The original Qing-An',
           v2: 'Qing-An 2.0',
@@ -1011,20 +1029,20 @@ const dicts = {
         advocacy: 'Housing advocacy groups',
       },
       quotesEn: {
-        為避免變成懲罰結婚者:
+        'q-為避免變成懲罰結婚者':
           "To avoid it becoming a penalty for getting married, we decided the means-test threshold is the borrower's own annual income of NT$2 million.",
-        選擇性信用管制到目前為止:
+        'q-選擇性信用管制到目前為止':
           'As of now, selective credit controls actually stop here.',
-        政府推動社會住宅的整體計畫:
+        'q-政府推動社會住宅的整體計畫':
           'The overall plan to promote social housing has not changed. We will keep expanding housing support through direct construction, master-leasing and rent subsidies.',
-        寬限期最長5年:
+        'q-寬限期最長5年':
           'The grace period can be up to five years, but only 23% of borrowers actually get the full five.',
-        借越多: 'Borrow more, repay longer, and prices go even higher.',
-        如果現在就停止興建社宅:
+        'q-借越多': 'Borrow more, repay longer, and prices go even higher.',
+        'q-如果現在就停止興建社宅':
           'If we stop building social housing now, Taiwan may become the country that started building social housing the latest in the world and stopped the earliest.',
-        好好地蓋社會住宅:
+        'q-好好地蓋社會住宅':
           'Building social housing well is the best remedy for encouraging births.',
-        若要對市場起到平衡作用:
+        'q-若要對市場起到平衡作用':
           'To balance the market, public housing with controlled rents, lease terms and quality must reach 5% of all housing, about 500,000 units.',
       },
     },

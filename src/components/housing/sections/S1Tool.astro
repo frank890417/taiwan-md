@@ -48,6 +48,7 @@ const toolsHref = localizePath(
       {
         fill(S.intro, {
           rate: trimNum(fx.annualRatePct, 3),
+          qRate: trimNum(q.rate.subsidySteps[0].netRatePct, 3),
           rateAsOf: fmtPeriod(fx.periodCe, lang),
         })
       }

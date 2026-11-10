@@ -31,7 +31,11 @@ const zh = isZh(lang);
             <dl>
               <div>
                 <dt>{S.who}</dt>
-                <dd>{zh ? sv.who : (EN_DATA.who[sv.who] ?? sv.who)}</dd>
+                <dd>
+                  {zh
+                    ? sv.who
+                    : (Object.fromEntries(EN_DATA.who)[sv.who] ?? sv.who)}
+                </dd>
               </div>
               <div>
                 <dt>{S.method}</dt>

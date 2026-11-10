@@ -247,7 +247,9 @@ export const srcOfTable = (t: Table, asOf?: string): SourceRef => ({
 export function agencyName(agency: string, lang: string): string {
   const strip = (a: string) => a.replace(/（資料[源含][^）]*）/g, '').trim();
   if (lang === 'zh-TW') return strip(agency);
-  const map = housingHome(lang).agencies as Record<string, string>;
+  const map: Record<string, string> = Object.fromEntries(
+    housingHome(lang).agencies,
+  );
   return map[agency] ?? map[strip(agency)] ?? strip(agency);
 }
 

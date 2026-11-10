@@ -818,7 +818,7 @@ export interface EnData {
   hosts: Record<string, string>;
   benchName: string;
   scaleNote: string;
-  who: Record<string, string>;
+  who: [string, string][];
   surveyDate: Record<string, string>;
   quotes: Record<string, string>;
 }
@@ -839,10 +839,10 @@ export const EN_DATA: EnData = {
       grace: '3 years',
       ltv: 'Up to 80%',
       age: 'Adults',
-      incomeCap: 'None',
-      priceCap: 'None',
+      incomeCap: 'No data',
+      priceCap: 'No data',
       onceOnly: 'None',
-      rateOptions: 'Mixed fixed, or single floating (from 2019)',
+      rateOptions: 'Mixed fixed, or single floating',
       target: 'Existing homes',
     },
     v2: {
@@ -850,9 +850,9 @@ export const EN_DATA: EnData = {
       years: '40 years',
       grace: '5 years',
       ltv: 'Up to 80%',
-      age: 'Adults, no upper limit',
-      incomeCap: 'None',
-      priceCap: 'None',
+      age: 'Adults',
+      incomeCap: 'No data',
+      priceCap: 'No data',
       onceOnly:
         'One loan only from 2024-06-27; new borrowers sign an owner-occupier pledge',
       rateOptions: 'Single, two-stage or mixed',
@@ -871,7 +871,7 @@ export const EN_DATA: EnData = {
       onceOnly: 'One loan only and the owner-occupier pledge continue',
       rateOptions: 'Single floating rate only',
       target:
-        'A home whose ownership was acquired by purchase within six months before the application',
+        'A home bought and registered within six months before the application or within six months after the bank approves it',
     },
   },
   cycleRise: {
@@ -891,7 +891,7 @@ export const EN_DATA: EnData = {
       'The two Sinyi figures share one source, so they are not independent confirmation. We did not find the Ministry of the Interior price index series from 2003.',
   },
   rateNote:
-    'Single floating rate (for new loans from 2021-01-01). The 2-ma subsidy is 1.5 ma from the Ministry of the Interior housing fund plus half a ma forgone by state-owned banks; after year 3 it falls by half a ma each year, and from year 7 the original loan rate applies. Existing Qing-An 2.0 borrowers get the same step-down.',
+    'Single floating rate (for new loans from 2021-01-01). The 0.5-point subsidy is 0.375 point from the Ministry of the Interior housing fund plus 0.125 point forgone by state-owned banks. After year 3 it falls by 0.125 point a year, and from year 7 the original loan rate applies. Existing Qing-An 2.0 borrowers get the same step-down. The rate for each stage is calculated by Taiwan.md from the official benchmark, spread and subsidy.',
   timeline: {
     '2010-12-01':
       'The Ministry of Finance launched the Youth Home-Starter Loan, run by 8 state-owned banks from their own funds',
@@ -900,7 +900,7 @@ export const EN_DATA: EnData = {
       'The Executive Yuan cabinet approved the refined scheme: NT$10 million limit, 40-year term, 5-year grace period, interest subsidy to 2026-07-31',
     '2023-08-01': 'The "new Qing-An" (Qing-An 2.0) took effect',
     '2024-03-22':
-      'The central bank raised rates by half a ma and the government matched it with a larger subsidy, keeping the single-rate loan at 1.775% after subsidy',
+      'The central bank raised rates by an eighth of a point on 21 March; the Ministry of Finance said the government would cover the increase with an equal extra subsidy',
     '2024-06-27':
       'A one-loan-only rule was added, and new borrowers must sign an owner-occupier pledge',
     '2024-07-16':
@@ -930,10 +930,14 @@ export const EN_DATA: EnData = {
   },
   benchName:
     'Chunghwa Post two-year time-deposit floating rate (balances under NT$5 million)',
-  who: {
-    永慶房屋: 'Yungching Realty',
-    行政院主計總處: 'Directorate-General of Budget, Accounting and Statistics',
-  },
+  // [中文、英文] 對照陣列：寫成物件鍵時，書寫檢查會把鍵後的冒號誤判成貼著中文的半形標點
+  who: [
+    ['永慶房屋', 'Yungching Realty'],
+    [
+      '行政院主計總處',
+      'Directorate-General of Budget, Accounting and Statistics',
+    ],
+  ],
   surveyDate: {
     '2026 年第 1 季調查（2025-12-24 經濟日報報導）':
       'Q1 2026 survey (reported by Economic Daily News on 2025-12-24)',
@@ -942,15 +946,15 @@ export const EN_DATA: EnData = {
   scaleNote:
     'Calculated by Taiwan.md: cumulative disbursement at the end of 2026-06 minus the cumulative figure at the end of 2023-07. The official release says "over 170,000 households approved under Qing-An 2.0".',
   quotes: {
-    最主要是希望政策更精準:
+    'q-最主要是希望政策更精準':
       'The main hope is that the policy helps people more precisely, so we want a cap on the total home price.',
-    至於有什麼漏洞:
+    'q-至於有什麼漏洞':
       'As for any loopholes, that is the Ministry of Finance’s responsibility; we will not overstep and go beyond our duties.',
-    公股銀確實有背負政策性放款:
+    'q-公股銀確實有背負政策性放款':
       'State-owned banks do carry policy-based lending, but the rule sets it at 30%; if the numerator cannot be adjusted, they can also enlarge the denominator by taking in deposits through their branches.',
-    不論是蓋社會住宅或新青安貸款:
+    'q-不論是蓋社會住宅或新青安貸款':
       'Whether it is building social housing or the new Youth Loan, neither really solves high home prices; if anything they help entrench them.',
-    新青安透過低利率:
+    'q-新青安透過低利率':
       'Through low rates, grace periods and 40-year mortgages, the new Youth Loan creates the illusion that young people can afford a home, but in reality it may leave them buying at the peak and carrying debt for a lifetime.',
   },
 };

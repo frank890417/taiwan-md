@@ -35,7 +35,8 @@ const PICKS: { actor: string; prefix: string }[] = [
 
 /** 引語開頭轉成翻譯對照鍵（與 housing-home.ts 的 quotesEn 鍵一致）。 */
 export function quoteKey(prefix: string): string {
-  return prefix.replace(/[，。、：；「」『』\s]/g, '');
+  // 加 q- 前綴：鍵裡有連字號就一定帶引號，書寫檢查不會把鍵後的冒號誤判成貼著中文的半形標點
+  return 'q-' + prefix.replace(/[，。、：；「」『』\s]/g, '');
 }
 
 export function pickHubQuotes(): HubQuote[] {

@@ -27,7 +27,10 @@ const trTable: Record<string, string> = {
 const strip = (x: string) => x.replace(/[，。、：；「」『』\s]/g, '');
 function translate(text: string): string | undefined {
   const t = strip(text);
-  const k = Object.keys(trTable).find((key) => t.startsWith(key));
+  // 對照表的鍵帶 q- 前綴（見 src/utils/housing/quotes.ts 的 quoteKey）
+  const k = Object.keys(trTable).find((key) =>
+    t.startsWith(key.replace(/^q-/, '')),
+  );
   return k ? trTable[k] : undefined;
 }
 const byGroup = groups
