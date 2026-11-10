@@ -1,0 +1,513 @@
+{
+  "asOf": "2026-11-10",
+  "note": "kind=quote：來源頁引號內原話；phrase：引號內片語；paraphrase：報導轉述，不是原話。 phrase 的 ctx 是我們寫的前後文，{q} 的位置才是原話。",
+  "issues": [
+    {
+      "id": "finance",
+      "title": {
+        "zh": "健保財務怎麼補",
+        "en": "How to fund the NHI"
+      },
+      "lede": {
+        "zh": "收入面的四條路：調費率、改補充保費、公務預算撥補、使用者多付。2025 年 11 月補充保費改革喊停，2026 年 10 月立法院三讀 65 歲以上健保費補助，兩件事都還沒落定。",
+        "en": "Four levers on the revenue side: raise the rate, reform the supplementary premium, transfer from the general budget, or charge users more. A supplementary premium reform was paused in November 2025, and in October 2026 the legislature passed a premium subsidy for people 65 and over; neither is settled."
+      },
+      "groups": [
+        {
+          "side": {
+            "zh": "主管機關",
+            "en": "Government"
+          },
+          "items": [
+            {
+              "who": "石崇良",
+              "role": "衛福部長",
+              "date": "2025-11-17",
+              "text": "健保的財務的問題是迫在眉睫，所有的這個建議我們都會納進來考慮，當然最重要的還要跨部會合作。",
+              "url": "https://news.pts.org.tw/article/781586",
+              "outlet": "公視",
+              "en": "The NHI's finances are an urgent problem. We will take all of these suggestions into account, and above all it needs cross-ministry cooperation.",
+              "kind": "quote"
+            },
+            {
+              "who": "衛生福利部",
+              "role": "澄清稿",
+              "date": "2025-11-06",
+              "text": "補充保費的改革方案，目前仍在研議階段，衛福部會廣納各方意見，暫停有爭議的規劃。",
+              "url": "https://www.mohw.gov.tw/cp-16-84428-1.html",
+              "outlet": "衛福部",
+              "en": "The supplementary premium reform is still under study. The ministry will hear all sides and pause the contested parts.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "公民與病友團體",
+            "en": "Civic and patient groups"
+          },
+          "items": [
+            {
+              "who": "滕西華",
+              "role": "民間監督健保聯盟發言人",
+              "date": "2025-11-07",
+              "text": "不公平中的不公平",
+              "url": "https://www.worldjournal.com/wj/amp/story/121221/9124177",
+              "outlet": "世界日報",
+              "en": "\"unfairness within unfairness\" (on moving only three supplementary items to annual settlement)",
+              "kind": "phrase",
+              "ctx": "只把補充保費的三個項目改成年度結算，是{q}。"
+            },
+            {
+              "who": "林雅惠",
+              "role": "台灣醫療改革基金會執行長",
+              "date": "2026-09-23",
+              "text": "錢怎麼花",
+              "url": "https://www.peoplenews.tw/?p=57207",
+              "outlet": "人民報導",
+              "en": "\"how the money is spent\" (what matters more once the budget passes NT$1 trillion)",
+              "kind": "phrase",
+              "ctx": "健保總額破兆之後，更重要的是{q}。"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "立法院各黨",
+            "en": "Parties in the legislature"
+          },
+          "items": [
+            {
+              "who": "賴士葆",
+              "role": "國民黨立委",
+              "date": "2025-11-13",
+              "text": "有錢人領這麼多，當然得多幫忙一點",
+              "url": "https://www.cna.com.tw/news/ahel/202511130297.aspx",
+              "outlet": "中央社",
+              "en": "The wealthy receive so much; of course they should help a bit more.",
+              "kind": "quote"
+            },
+            {
+              "who": "莊瑞雄",
+              "role": "民進黨團幹事長",
+              "date": "2026-10-16",
+              "text": "國會多數可以決定表決結果，但不能把財政責任也一起表決掉。",
+              "url": "https://cna.com.tw/news/aipl/202610160264.aspx",
+              "outlet": "中央社",
+              "en": "A legislative majority can decide a vote, but it cannot vote away fiscal responsibility.",
+              "kind": "quote"
+            },
+            {
+              "who": "張嘉郡",
+              "role": "國民黨立委",
+              "date": "2026-10-16",
+              "text": "長者每月健保費不該因為居住縣市不同而有差別待遇。",
+              "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610160018/",
+              "outlet": "今周刊",
+              "en": "Elders' monthly premiums should not differ by the county they live in.",
+              "kind": "paraphrase"
+            },
+            {
+              "who": "邱慧洳",
+              "role": "民眾黨立委",
+              "date": "2026-10-16",
+              "text": "民眾黨自 2024 年起主張由中央補助長者健保費，立場沒有改變。",
+              "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610160018/",
+              "outlet": "今周刊",
+              "en": "The TPP has called for central funding of elders' premiums since 2024 and has not changed its position.",
+              "kind": "paraphrase"
+            },
+            {
+              "who": "王婉諭",
+              "role": "時代力量黨主席",
+              "date": "2026-10-19",
+              "text": "修法沒有交代長期財源，呼籲行政院提出覆議。",
+              "url": "https://udn.com/news/story/6656/9823728",
+              "outlet": "聯合報",
+              "en": "The amendment does not explain long-term funding; she urged the Executive Yuan to seek reconsideration.",
+              "kind": "paraphrase"
+            }
+          ]
+        }
+      ],
+      "missing": {
+        "zh": "付費者代表（健保會）2024 到 2026 年的具名原話、工商團體與全國產業總工會對健保財源的說法，我們沒有找到可以引用的公開來源。",
+        "en": "We found no quotable, attributed statements from payer representatives on the NHI Committee (2024 to 2026), business federations or the national labour confederation on NHI funding."
+      }
+    },
+    {
+      "id": "points",
+      "title": {
+        "zh": "點值與總額",
+        "en": "Point values and the global budget"
+      },
+      "lede": {
+        "zh": "健保用「總額」封頂：一年的錢先定好，醫療服務換算成點數，點數超過預算，每一點就不到一元。2024 年 7 月立法院沒有把點值保障寫進法律，改用主決議要求 2025 年 6 月底前達到平均 0.95 元。",
+        "en": "The NHI caps spending with a global budget: services earn points, and when points exceed the budget each point pays less than NT$1. In July 2024 the legislature did not write a point-value floor into law; it passed a resolution asking for an average of NT$0.95 by the end of June 2025."
+      },
+      "groups": [
+        {
+          "side": {
+            "zh": "醫院與醫師團體",
+            "en": "Hospitals and physicians"
+          },
+          "items": [
+            {
+              "who": "台灣醫院協會",
+              "role": "公開聲明",
+              "date": "2024-09-26",
+              "text": "而不是包山包海，任憑總額點值無止盡滑落，將健保財務責任完全轉嫁由醫界承擔。",
+              "url": "https://www.nownews.com/news/6536521",
+              "outlet": "NOWnews",
+              "en": "...rather than covering everything, letting point values slide without end and shifting the NHI's financial responsibility entirely onto providers.",
+              "kind": "quote"
+            },
+            {
+              "who": "洪子仁",
+              "role": "台灣醫務管理學會理事長",
+              "date": "2024-05-06",
+              "text": "1點1元，超過的部分打折給付，由公務預算來補貼，這樣子的話，第一個就不會影響到民眾所謂健保費立刻要調漲的問題。",
+              "url": "https://news.pts.org.tw/article/693708",
+              "outlet": "公視",
+              "en": "One dollar per point, with the excess paid at a discount and subsidised from the general budget; that way premiums would not have to rise right away.",
+              "kind": "quote"
+            },
+            {
+              "who": "朱益宏",
+              "role": "台灣社區醫院協會理事長",
+              "date": "2024-07-16",
+              "text": "我們強烈的呼籲，這一次不論是保障1點1元或是0.95元，都應該入法，有法律的保障，那政府才會遵行。",
+              "url": "https://news.pts.org.tw/article/705098",
+              "outlet": "公視",
+              "en": "We strongly urge that the guarantee, whether NT$1 or NT$0.95 per point, be written into law. Only with legal protection will the government comply.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "主管機關",
+            "en": "Government"
+          },
+          "items": [
+            {
+              "who": "周志浩",
+              "role": "衛福部次長",
+              "date": "2024-05-06",
+              "text": "必須每年有穩定的經費來源，如果沒有預算來挹注，就必須面臨健保調漲這種窘境。",
+              "url": "https://news.pts.org.tw/article/693708",
+              "outlet": "公視",
+              "en": "It needs a stable source of funds every year. Without budget transfers we would face the predicament of raising premiums.",
+              "kind": "quote"
+            },
+            {
+              "who": "石崇良",
+              "role": "時任健保署長",
+              "date": "2024-07-16",
+              "text": "在沒有很完整的相關的配套之下，恐怕對於我們剛剛所要做的很多的改革，也會造成相當大的影響。",
+              "url": "https://news.pts.org.tw/article/705098",
+              "outlet": "公視",
+              "en": "Without a complete set of supporting measures, it would likely have a considerable impact on many of the reforms we were just describing.",
+              "kind": "quote"
+            },
+            {
+              "who": "立法院",
+              "role": "院會主決議",
+              "date": "2024-07-16",
+              "text": "衛生福利部應進行健保改革具體措施，於114年6月30日前達到平均點值一點0.95元",
+              "url": "https://mohw.gov.tw/cp-2704-79372-1.html",
+              "outlet": "衛福部",
+              "en": "The Ministry of Health and Welfare shall carry out concrete NHI reforms to reach an average point value of NT$0.95 by 30 June 2025.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "公民團體與立委",
+            "en": "Civic groups and legislators"
+          },
+          "items": [
+            {
+              "who": "滕西華",
+              "role": "台灣社會心理復健協會秘書長",
+              "date": "2024-05-06",
+              "text": "如果沒有合理的保費費基跟正義公平，費率就算加到6%加到10%，加到12%，都是不公義。",
+              "url": "https://news.pts.org.tw/article/693708",
+              "outlet": "公視",
+              "en": "Without a reasonable and fair premium base, raising the rate to 6%, 10% or 12% would all be unjust.",
+              "kind": "quote"
+            },
+            {
+              "who": "陳菁徽",
+              "role": "國民黨立委",
+              "date": "2024-05-06",
+              "text": "官員的眼中也許只是數字，但是在我們醫事人員的眼中，它代表的是我們的尊嚴、我們的人權、我們的工作權，是不是有得到政府的尊重。",
+              "url": "https://news.pts.org.tw/article/693708",
+              "outlet": "公視",
+              "en": "To officials it may be just a number, but to us medical workers it stands for our dignity, our rights and our right to work, and whether the government respects them.",
+              "kind": "quote"
+            },
+            {
+              "who": "民主進步黨",
+              "role": "賴清德國政願景發表會（黨官網）",
+              "date": "2023-09-21",
+              "text": "平均健保點值不低於0.9，並朝1點1元的目標邁進。",
+              "url": "https://www.dpp.org.tw/media/contents/10385",
+              "outlet": "民進黨官網",
+              "en": "An average point value of no less than 0.9, moving toward the goal of NT$1 per point.",
+              "kind": "quote"
+            }
+          ]
+        }
+      ],
+      "missing": {
+        "zh": "2025 年 6 月底平均點值是否達到 0.95 元，官方沒有單一數字：衛福部公告醫院總額 114 年全年 0.9820，其他部門的全年值我們沒有查到。",
+        "en": "There is no single official figure on whether the 0.95 target was met by June 2025: the ministry reported 0.9820 for the hospital sector for 2025, and we found no full-year values for other sectors."
+      }
+    },
+    {
+      "id": "workforce",
+      "title": {
+        "zh": "護理與急診人力",
+        "en": "Nursing and emergency staffing"
+      },
+      "lede": {
+        "zh": "2025 年 2 月急診大塞車，2026 年 5 月三班護病比修進《醫療法》（5 月 15 日公布）。吵的是多快上路、怎麼算、罰不罰。",
+        "en": "Emergency rooms backed up in February 2025; in May 2026 nurse-to-patient ratios for three shifts were written into the Medical Care Act (promulgated 15 May). The dispute is over how fast, how it is counted, and whether to fine."
+      },
+      "groups": [
+        {
+          "side": {
+            "zh": "護理團體與工會",
+            "en": "Nursing associations and unions"
+          },
+          "items": [
+            {
+              "who": "陳麗琴",
+              "role": "護理師護士公會全國聯合會理事長",
+              "date": "2026-05-05",
+              "text": "標準公告已逾2年，為何遲遲不入法？",
+              "url": "https://www.cna.com.tw/news/ahel/202605050124.aspx",
+              "outlet": "中央社",
+              "en": "The standard was announced more than two years ago. Why is it still not in law?",
+              "kind": "quote"
+            },
+            {
+              "who": "台灣護理產業工會",
+              "role": "聲明",
+              "date": "2026-05-07",
+              "text": "基層護理師對衛福部政策完全無感。",
+              "url": "https://udn.com/news/story/7266/9486766",
+              "outlet": "聯合報",
+              "en": "Frontline nurses feel nothing from the ministry's policies.",
+              "kind": "quote"
+            },
+            {
+              "who": "陳玉鳳",
+              "role": "台灣護師醫療產業工會顧問",
+              "date": "2025-02-27",
+              "text": "我們真的希望可以調高我們的薪資，希望可以減少我們的雜事，希望要友善職場，3班護病比入法，我們拒絕跨科調動或是調換支援單位的情況，他們都做不到。",
+              "url": "https://news.pts.org.tw/article/739947",
+              "outlet": "公視",
+              "en": "We really want higher pay, fewer chores, a friendly workplace and three-shift ratios in law, and we refuse cross-department transfers. They have delivered none of it.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "醫院經營端",
+            "en": "Hospital management"
+          },
+          "items": [
+            {
+              "who": "洪子仁",
+              "role": "台灣醫務管理學會理事長",
+              "date": "2026-05-11",
+              "text": "醫療管理是精密的系統工程，護理人力無法立刻補位。",
+              "url": "https://udn.com/news/story/7266/9496303",
+              "outlet": "聯合報",
+              "en": "Hospital management is a precise piece of systems engineering; nursing staff cannot be filled in overnight.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "急診與主管機關",
+            "en": "Emergency physicians and government"
+          },
+          "items": [
+            {
+              "who": "李智晃",
+              "role": "台灣急診醫學會秘書長",
+              "date": "2025-02-23",
+              "text": "加護病房是滿載，所以連需要加護病房的病人都會留在急診1、2天到3、5天，其實這個情況可能到夏天之前都不太會改善。",
+              "url": "https://news.pts.org.tw/article/739060",
+              "outlet": "公視",
+              "en": "The ICUs are full, so even patients who need intensive care stay in the ER for one or two days, up to three or five. This probably will not improve much before summer.",
+              "kind": "quote"
+            },
+            {
+              "who": "石崇良",
+              "role": "衛福部長",
+              "date": "2026-05-11",
+              "text": "衝擊會非常大",
+              "url": "https://udn.com/news/story/7266/9496303",
+              "outlet": "聯合報",
+              "en": "\"the impact would be very large\" (if ratios took effect within three or six months)",
+              "kind": "phrase",
+              "ctx": "護病比入法如果三個月或六個月內就實施，{q}。"
+            },
+            {
+              "who": "林雅惠",
+              "role": "台灣醫療改革基金會執行長",
+              "date": "2024-06-17",
+              "text": "長期忽略護理人力荒，其實分布在特定科別以及場域的情況，醫改會認為應該要加速集思廣益，更能反映護理勞動現況的作法。",
+              "url": "https://news.pts.org.tw/article/700543",
+              "outlet": "公視",
+              "en": "The nursing shortage, long overlooked, is concentrated in particular specialties and settings. We think it is time to pool ideas faster on approaches that better reflect nurses' working conditions.",
+              "kind": "quote"
+            }
+          ]
+        }
+      ],
+      "missing": {
+        "zh": "台灣基層護理產業工會、台灣急診醫學會 2026 年的公開說法，我們沒有找到。",
+        "en": "We found no public statements from the Taiwan Nurses Union at the grassroots level or from the emergency medicine society in 2026."
+      }
+    },
+    {
+      "id": "ltc",
+      "title": {
+        "zh": "長照財源與照顧人力",
+        "en": "Long-term care funding and care workers"
+      },
+      "lede": {
+        "zh": "長照從 2017 年起走稅收制（遺贈稅、菸稅、房地合一稅），不收保險費。要不要改成長照保險、二十多萬名外籍家庭看護工放在制度的哪裡，是兩個一直沒有收尾的題目。",
+        "en": "Since 2017 long-term care has been tax-funded (estate and gift tax, tobacco tax, the consolidated property tax) with no insurance premium. Whether to switch to long-term care insurance, and where more than 200,000 migrant live-in caregivers fit, remain open."
+      },
+      "groups": [
+        {
+          "side": {
+            "zh": "主管機關",
+            "en": "Government"
+          },
+          "items": [
+            {
+              "who": "呂建德",
+              "role": "衛福部政務次長",
+              "date": "2026-01-15",
+              "text": "從原先927億元，今（2026）年大幅成長到1103億元，我們的增幅高達25%，這是長照的部分。",
+              "url": "https://news.pts.org.tw/article/790701",
+              "outlet": "公視",
+              "en": "From NT$92.7 billion to NT$110.3 billion this year, an increase of as much as 25%. That is the long-term care part.",
+              "kind": "quote"
+            },
+            {
+              "who": "祝健芳",
+              "role": "衛福部長照司司長",
+              "date": "2026-05-15",
+              "text": "政策方向仍是稅收制：現階段最重要的是布建資源，保險收入不能用在布建資源。",
+              "url": "https://udn.com/news/story/7266/9505492",
+              "outlet": "聯合報",
+              "en": "The policy remains tax funding: the priority now is building capacity, and insurance revenue cannot be spent on that.",
+              "kind": "paraphrase"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "主張保險制的聲音",
+            "en": "Voices for an insurance model"
+          },
+          "items": [
+            {
+              "who": "朱立倫",
+              "role": "國家政策研究基金會董事長",
+              "date": "2025-02-20",
+              "text": "預算制不穩定，應改推長照保險，每人每月多負擔約 100 元。",
+              "url": "https://news.tvbs.com.tw/politics/2785026",
+              "outlet": "TVBS",
+              "en": "Budget funding is unstable; long-term care insurance should be adopted, at roughly NT$100 more per person per month.",
+              "kind": "paraphrase"
+            },
+            {
+              "who": "柯文哲",
+              "role": "2024 總統大選民眾黨候選人政見",
+              "date": "2024-01-12",
+              "text": "全面推動長照保險，由政府、雇主、人民共同負擔。",
+              "url": "https://news.tvbs.com.tw/politics/2342877",
+              "outlet": "TVBS",
+              "en": "Introduce long-term care insurance across the board, shared by government, employers and the public.",
+              "kind": "paraphrase"
+            },
+            {
+              "who": "楊志良",
+              "role": "前衛生署長",
+              "date": "2026-01-31",
+              "text": "若我還在政府裡面，一定會改",
+              "url": "https://udn.com/news/story/124754/9300944",
+              "outlet": "聯合報",
+              "en": "If I were still in government, I would certainly change it.",
+              "kind": "quote"
+            }
+          ]
+        },
+        {
+          "side": {
+            "zh": "照顧現場與移工團體",
+            "en": "Care providers and migrant worker groups"
+          },
+          "items": [
+            {
+              "who": "涂心寧",
+              "role": "台灣居家服務策略聯盟理事長",
+              "date": "2025-12-22",
+              "text": "制度沒有跟上，卻要求人力一直撐，這樣的長照體系本身就是不可永續的。",
+              "url": "https://udn.com/news/story/7266/9219822",
+              "outlet": "聯合報",
+              "en": "The system has not kept up, yet it asks the workforce to keep holding on. A long-term care system like that is unsustainable in itself.",
+              "kind": "quote"
+            },
+            {
+              "who": "陳昭宇",
+              "role": "高雄長照業者代表",
+              "date": "2026-04-17",
+              "text": "麥當勞員工的薪水都比照服員高，我們拿什麼留人？",
+              "url": "https://udn.com/news/story/7266/9448530",
+              "outlet": "聯合報",
+              "en": "McDonald's staff earn more than care workers. What do we have to keep people?",
+              "kind": "quote"
+            },
+            {
+              "who": "王俐婷",
+              "role": "台灣移工聯盟專員",
+              "date": "2024-06-16",
+              "text": "這樣的個別家庭聘僱制度，實質上就是一個奴工制度、是血汗長照",
+              "url": "https://www.cna.com.tw/news/aloc/202406160081.aspx",
+              "outlet": "中央社",
+              "en": "This system of hiring by individual households is in substance a forced-labour system; it is sweatshop long-term care.",
+              "kind": "quote"
+            },
+            {
+              "who": "陳景寧",
+              "role": "家庭照顧者關懷總會秘書長",
+              "date": "2025-06-20",
+              "text": "失智症的長輩非常需要社會的參與跟刺激，長輩可以走出家門然後接觸到更多人的話，其實對整個失智症的延緩和他的心情健康等等都有很大的幫助。",
+              "url": "https://news.pts.org.tw/article/757069",
+              "outlet": "公視",
+              "en": "Elders with dementia badly need social participation and stimulation. If they can leave the house and meet more people, it helps a great deal in slowing dementia and in their mood and health.",
+              "kind": "quote"
+            }
+          ]
+        }
+      ],
+      "missing": {
+        "zh": "民進黨團、國民黨團對「稅收制或保險制」的正式黨團聲明，以及照顧服務員工會的具名說法，我們沒有找到；上面的政黨立場來自智庫記者會與競選政見的媒體整理，標為轉述。",
+        "en": "We found no formal caucus statements from the DPP or KMT on tax versus insurance funding, nor attributed statements from care worker unions; party positions above come from media summaries of a think-tank briefing and campaign platforms and are marked as paraphrase."
+      }
+    }
+  ]
+}

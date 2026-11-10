@@ -1,0 +1,190 @@
+---
+/**
+ * health.template.astro — /health「醫療與長照」專題主頁（13 語共用；文案 zh-TW／en，其餘退 en）。
+ *
+ * 規劃報告：reports/design-health-topic-page-2026-11-10.md
+ * 資料：src/data/health/*.json（每個數字帶官方出處與截止日）、src/data/shared/population-aging.json
+ * 文案：src/i18n/health.ts；數字不寫在文案裡，由 src/utils/health/pageContext.ts 帶入
+ * 版面與圖表沿用 /budget（src/styles/budget.css、src/components/budget/*，都沒有改）。
+ * 八區各是一個元件（src/components/health/sections/），這支只負責英雄區、子導覽與組裝。
+ */
+import '../styles/budget.css';
+import '../styles/health.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import PageEnhance from '../components/health/PageEnhance.astro';
+import ToolCards from '../components/health/ToolCards.astro';
+import S0System from '../components/health/sections/S0System.astro';
+import S1History from '../components/health/sections/S1History.astro';
+import S2Money from '../components/health/sections/S2Money.astro';
+import S3Ageing from '../components/health/sections/S3Ageing.astro';
+import S4Pressure from '../components/health/sections/S4Pressure.astro';
+import S5Stances from '../components/health/sections/S5Stances.astro';
+import S6Ahead from '../components/health/sections/S6Ahead.astro';
+import S7Tools from '../components/health/sections/S7Tools.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { healthCtx } from '../utils/health/pageContext';
+import { relatedArticles } from '../utils/health/related';
+import { healthPath } from '../i18n/health';
+
+const lang = getLangFromUrl(Astro.url);
+const { t, p, V } = healthCtx(lang);
+
+// 站內文章：檔案存在才連；投稿審查中的顯示「待上線」（合併後自動變成連結）
+const rel = (items: [string, string][]) => relatedArticles(lang, items);
+const REL = {
+  s0: await rel([
+    ['Lifestyle', '台灣醫療與全民健保'],
+    ['Society', '醫療法'],
+    ['Lifestyle', '急診壅塞'],
+    ['Lifestyle', '安寧緩和醫療與病人自主'],
+  ]),
+  s1: await rel([
+    ['History', '跨黨派的好政策'],
+    ['Society', '台灣公共衛生與防疫體系'],
+    ['History', '瘧疾根除'],
+    ['Society', '台灣新冠疫情與疫苗'],
+  ]),
+  s2: await rel([
+    ['Lifestyle', '台灣醫療與全民健保'],
+    ['Lifestyle', '全民健保'],
+  ]),
+  s3: await rel([
+    ['Society', '台灣長期照顧制度發展'],
+    ['Society', '台灣少子化危機'],
+    ['Society', '身心障礙者'],
+    ['Society', '台灣全齡共融旅遊與生活文化'],
+  ]),
+  s4: await rel([
+    ['Lifestyle', '急診壅塞'],
+    ['Society', '醫療法'],
+    ['Lifestyle', '洗腎與透析'],
+    ['Lifestyle', '器官捐贈'],
+    ['Technology', '台灣災難醫療體系'],
+  ]),
+  s6: await rel([
+    ['Society', '心理健康與自殺防治'],
+    ['Lifestyle', '安寧緩和醫療與病人自主'],
+    ['Society', '台灣再生醫療雙法沿革從業人員告白'],
+  ]),
+  all: await rel([
+    ['Lifestyle', '台灣醫療與全民健保'],
+    ['Society', '台灣長期照顧制度發展'],
+    ['Society', '醫療法'],
+    ['Lifestyle', '急診壅塞'],
+    ['Lifestyle', '洗腎與透析'],
+    ['Lifestyle', '器官捐贈'],
+    ['Lifestyle', '安寧緩和醫療與病人自主'],
+    ['Society', '身心障礙者'],
+    ['Society', '心理健康與自殺防治'],
+    ['Society', '台灣公共衛生與防疫體系'],
+    ['Society', '台灣新冠疫情與疫苗'],
+    ['Society', '台灣少子化危機'],
+    ['Society', '台灣捐血'],
+    ['History', '瘧疾根除'],
+    ['History', '跨黨派的好政策'],
+    ['Geography', '樂生療養院'],
+    ['Society', '手語視訊轉譯'],
+    ['Technology', '台灣災難醫療體系'],
+  ]),
+};
+const toc = [0, 1, 2, 3, 4, 5, 6, 7].map((n) => ({
+  id: `s${n}`,
+  label: t(`toc.s${n}`),
+  take: p(`toc.s${n}.take`),
+}));
+const site = 'https://taiwan.md';
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      name: 'Taiwan.md',
+      item: `${site}${lang === 'zh-TW' ? '/' : `/${lang}/`}`,
+    },
+    { name: t('hub.name'), item: `${site}${healthPath(lang)}` },
+  ].map((x, i) => ({ '@type': 'ListItem', position: i + 1, ...x })),
+};
+---
+
+<Layout
+  lang={lang}
+  title={p('meta.title')}
+  description={p('meta.description')}
+  readerSettings={true}
+>
+  <main class="budget-page health-page min-h-screen">
+    <PageHero
+      eyebrow={t('hero.eyebrow')}
+      title={t('hero.title')}
+      subtitle={p('hero.subtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <div class="bp-hero-stats">
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{V.enroll}<small>%</small></div>
+          <div class="bp-stat-l">{t('hero.stat.enroll')}</div>
+        </div>
+        <div class="bp-stat">
+          <div class="bp-stat-v">{V.nheGdp}<small>%</small></div>
+          <div class="bp-stat-l">{p('hero.stat.nhe')}</div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{V.elderPct}<small>%</small></div>
+          <div class="bp-stat-l">{p('hero.stat.elder')}</div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{V.erOver24Full}</div>
+          <div class="bp-stat-l">
+            {p('hero.stat.er')} · {t('hero.stat.er.sub')}
+          </div>
+        </div>
+      </div>
+      <blockquote class="bp-kicker bp-hero-verse">{t('hero.verse')}</blockquote>
+      <h2 class="hea-hero-h">{t('hero.tools')}</h2>
+      <ToolCards lang={lang} />
+      <nav class="bp-brief" aria-label={t('hero.jump')}>
+        <h2 class="bp-brief-h">{t('hero.brief')}</h2>
+        <ol class="bp-brief-list">
+          {
+            toc.map((s, i) => (
+              <li>
+                <a href={`#${s.id}`}>
+                  <span class="bp-brief-n">{i}</span>
+                  <span class="bp-brief-body">
+                    <span class="bp-brief-label">{s.label}</span>
+                    <span class="bp-brief-take">{s.take}</span>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </PageHero>
+
+    <nav class="bp-subnav" aria-label={t('subnav.label')} id="bp-subnav">
+      <div class="bp-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <S0System lang={lang} related={REL.s0} />
+    <S1History lang={lang} related={REL.s1} />
+    <S2Money lang={lang} related={REL.s2} />
+    <S3Ageing lang={lang} related={REL.s3} />
+    <S4Pressure lang={lang} related={REL.s4} />
+    <S5Stances lang={lang} />
+    <S6Ahead lang={lang} related={REL.s6} />
+    <S7Tools lang={lang} reads={REL.all} />
+  </main>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <PageEnhance />
+</Layout>

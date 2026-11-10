@@ -1,0 +1,769 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * health.css — /health（醫療與長照專題）四頁的增補樣式
+ *
+ * 版面與圖表沿用 /budget 那一套（src/styles/budget.css 的 .budget-page .bp-* 與 .bg-*，本檔不改它）。
+ * 這裡只放 /budget 沒有的東西：工具入口卡、試算表單與結果、資格自查、各方立場欄、
+ * 制度站點、流程圖、門檻線、縣市條列。class 前綴 hea-*，全部掛在 .health-page 底下。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.health-page {
+  --hea-accent: var(--bg-cat-2);
+  --hea-warm: var(--bg-down);
+  --hea-cool: var(--bg-up);
+}
+
+/* 麵包屑（子頁回主頁） */
+.health-page .hea-crumb {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0.9rem var(--space-page-x) 0;
+  font-size: 0.85rem;
+  color: var(--bg-ink-soft);
+}
+.health-page .hea-crumb a {
+  color: var(--bg-ink-soft);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* 截止日小標 */
+.health-page .hea-asof {
+  display: inline-block;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: var(--bg-panel);
+  color: var(--bg-ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+/* 腳註上標與來源清單 */
+.health-page sup.hea-fn {
+  font-size: 0.7em;
+  line-height: 0;
+  margin-inline-start: 0.1em;
+}
+.health-page sup.hea-fn a {
+  color: var(--color-accent);
+  text-decoration: none;
+  padding: 0 0.1em;
+}
+.health-page .hea-fnlist {
+  font-size: 0.84rem;
+  line-height: 1.75;
+  color: var(--bg-ink-soft);
+  padding-inline-start: 1.6rem;
+  margin: var(--space-4) 0;
+}
+.health-page .hea-fnlist li {
+  margin-bottom: 0.3rem;
+  overflow-wrap: anywhere;
+}
+.health-page .hea-fnlist li:target {
+  background: var(--bg-panel);
+  outline: 2px solid var(--bg-cat-3);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+.health-page .hea-fnlist a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* 工具入口卡 */
+.health-page .hea-tools {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  margin: var(--space-5) auto 0;
+  max-width: 1000px;
+  text-align: start;
+}
+.health-page a.hea-tool {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  border: 1px solid var(--color-border);
+  border-radius: 14px;
+  padding: 1rem 1.05rem;
+  background: var(--bg-surface);
+  color: var(--bg-ink);
+  text-decoration: none;
+  box-shadow: var(--shadow-soft);
+  transition:
+    border-color 0.15s,
+    transform 0.15s;
+}
+.health-page a.hea-tool:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+}
+.health-page .hea-tool-k {
+  font-size: 0.76rem;
+  letter-spacing: 0.06em;
+  color: var(--bg-ink-soft);
+}
+.health-page .hea-tool-t {
+  font-family: var(--bp-font-head);
+  font-weight: 800;
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+.health-page .hea-tool-d {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--bg-ink-soft);
+}
+.health-page .hea-tool-go {
+  margin-top: auto;
+  padding-top: 0.4rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+/* 試算器 */
+.health-page .hea-calc {
+  display: grid;
+  gap: var(--space-5);
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  align-items: start;
+  margin: var(--space-5) 0;
+}
+@media (max-width: 860px) {
+  .health-page .hea-calc {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.health-page .hea-form,
+.health-page .hea-result {
+  border: 1px solid var(--color-border);
+  border-radius: 14px;
+  background: var(--bg-surface);
+  padding: 1.1rem 1.15rem;
+  box-shadow: var(--shadow-soft);
+}
+.health-page .hea-form h3,
+.health-page .hea-result h3 {
+  font-family: var(--bp-font-head);
+  font-size: 1.05rem;
+  font-weight: 800;
+  margin: 0 0 0.8rem;
+}
+.health-page .hea-field {
+  margin-bottom: 0.95rem;
+  border: 0;
+  padding: 0;
+  min-width: 0;
+}
+.health-page .hea-field > label,
+.health-page .hea-field > legend {
+  display: block;
+  font-weight: 700;
+  font-size: 0.92rem;
+  margin-bottom: 0.35rem;
+  padding: 0;
+}
+.health-page .hea-hint {
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+  margin: 0.3rem 0 0;
+}
+.health-page .hea-field select,
+.health-page .hea-field input[type='number'] {
+  width: 100%;
+  min-height: 44px;
+  font: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+  color: var(--bg-ink);
+  font-variant-numeric: tabular-nums;
+}
+.health-page .hea-field select:focus-visible,
+.health-page .hea-field input:focus-visible,
+.health-page .hea-seg label:focus-within {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+/* 分段選鈕（radio 做成一排按鈕） */
+.health-page .hea-seg {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.health-page .hea-seg label {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--color-bg);
+  font-size: 0.92rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: center;
+  line-height: 1.3;
+}
+.health-page .hea-seg input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.health-page .hea-seg label:has(input:checked) {
+  border-color: var(--bg-hi);
+  background: var(--bg-hi);
+  color: var(--color-bg);
+  font-weight: 700;
+}
+.health-page .hea-check {
+  display: flex;
+  gap: 0.55rem;
+  align-items: flex-start;
+  font-size: 0.93rem;
+  line-height: 1.55;
+  padding: 0.35rem 0;
+  cursor: pointer;
+}
+.health-page .hea-check input {
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-top: 0.15rem;
+  flex: 0 0 auto;
+}
+
+/* 結果 */
+.health-page .hea-big {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 0.9rem;
+}
+.health-page .hea-big > div {
+  background: var(--bg-panel);
+  border-radius: 12px;
+  padding: 0.7rem 0.85rem;
+}
+.health-page .hea-big-v {
+  font-family: var(--bp-font-head);
+  font-weight: 800;
+  font-size: clamp(1.3rem, 3.4vw, 1.75rem);
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.health-page .hea-big-v small {
+  font-size: 0.55em;
+  font-weight: 600;
+  margin-inline-start: 0.15em;
+}
+.health-page .hea-big-l {
+  font-size: 0.8rem;
+  color: var(--bg-ink-soft);
+  margin-top: 0.25rem;
+  line-height: 1.45;
+}
+.health-page .hea-big .is-warm .hea-big-v {
+  color: var(--hea-warm);
+}
+.health-page .hea-big .is-cool .hea-big-v {
+  color: var(--hea-cool);
+}
+.health-page .hea-rows {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+.health-page .hea-rows th,
+.health-page .hea-rows td {
+  padding: 0.5rem 0.4rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: start;
+  vertical-align: top;
+  line-height: 1.5;
+}
+.health-page .hea-rows th {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--bg-ink-soft);
+}
+.health-page .hea-rows .num {
+  text-align: end;
+  white-space: nowrap;
+}
+.health-page .hea-rows small {
+  display: block;
+  color: var(--bg-ink-soft);
+  font-size: 0.78rem;
+}
+/* 額度拆分條：政府負擔＋自付 */
+.health-page .hea-split {
+  display: flex;
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg-track);
+  margin: 0.3rem 0 0;
+}
+.health-page .hea-split i {
+  display: block;
+  height: 100%;
+}
+.health-page .hea-split .is-gov {
+  background: var(--bg-cat-0);
+}
+.health-page .hea-split .is-self {
+  background: var(--bg-cat-1);
+}
+.health-page .hea-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  font-size: 0.8rem;
+  color: var(--bg-ink-soft);
+  margin: 0.6rem 0 0;
+}
+.health-page .hea-legend i {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 3px;
+  margin-inline-end: 0.3rem;
+  vertical-align: -1px;
+}
+.health-page .hea-msg {
+  border-radius: 10px;
+  padding: 0.7rem 0.85rem;
+  background: var(--bg-panel);
+  font-size: 0.9rem;
+  line-height: 1.65;
+  margin: 0.7rem 0 0;
+}
+.health-page .hea-msg.is-warn {
+  box-shadow: inset 3px 0 0 var(--hea-warm);
+}
+.health-page .hea-msg.is-ok {
+  box-shadow: inset 3px 0 0 var(--hea-accent);
+}
+
+/* 免責聲明 */
+.health-page .hea-disclaimer {
+  border: 1px solid var(--color-border);
+  border-inline-start: 4px solid var(--hea-warm);
+  border-radius: 0 12px 12px 0;
+  background: var(--bg-panel);
+  padding: 0.9rem 1.05rem;
+  font-size: 0.9rem;
+  line-height: 1.75;
+  margin: var(--space-5) 0;
+}
+.health-page .hea-disclaimer b {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+/* 各方立場 */
+.health-page .hea-stances {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  margin: var(--space-5) 0;
+}
+.health-page .hea-stance {
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--bg-surface);
+  padding: 0.95rem 1.05rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.health-page .hea-stance h4 {
+  font-family: var(--bp-font-head);
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 0;
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid var(--stance-c, var(--bg-mute));
+}
+.health-page .hea-quote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-style: normal;
+  font-size: 0.93rem;
+  line-height: 1.75;
+}
+.health-page .hea-quote footer {
+  margin-top: 0.25rem;
+  font-size: 0.79rem;
+  color: var(--bg-ink-soft);
+  line-height: 1.5;
+}
+.health-page .hea-quote footer a {
+  color: var(--color-accent);
+}
+
+/* 議題切換（radio + :has，無 JS 也能用） */
+.health-page .hea-issues {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: var(--space-4) 0 0;
+}
+
+/* 一個人會碰到的制度站點 */
+.health-page .hea-path {
+  list-style: none;
+  margin: var(--space-5) 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.health-page .hea-path li {
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--path-c, var(--bg-cat-0));
+  border-radius: 12px;
+  background: var(--bg-surface);
+  padding: 0.85rem 0.95rem;
+}
+.health-page .hea-path-k {
+  font-size: 0.75rem;
+  color: var(--bg-ink-soft);
+  letter-spacing: 0.05em;
+}
+.health-page .hea-path h4 {
+  font-family: var(--bp-font-head);
+  font-size: 1rem;
+  font-weight: 800;
+  margin: 0.15rem 0 0.35rem;
+}
+.health-page .hea-path p {
+  font-size: 0.87rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+  margin: 0;
+}
+.health-page .hea-path .hea-path-pay {
+  margin-top: 0.45rem;
+  font-size: 0.8rem;
+  color: var(--bg-ink);
+}
+
+/* 垂直流程（安寧與預立醫療決定） */
+.health-page .hea-steps {
+  list-style: none;
+  margin: var(--space-5) 0;
+  padding: 0;
+  counter-reset: heastep;
+  max-width: 760px;
+}
+.health-page .hea-steps > li {
+  position: relative;
+  counter-increment: heastep;
+  padding: 0 0 1.4rem 3.1rem;
+}
+.health-page .hea-steps > li::before {
+  content: counter(heastep);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  background: var(--bg-hi);
+  color: var(--color-bg);
+  font-family: var(--bp-font-head);
+  font-weight: 800;
+  display: grid;
+  place-items: center;
+}
+.health-page .hea-steps > li::after {
+  content: '';
+  position: absolute;
+  left: 1.02rem;
+  top: 2.3rem;
+  bottom: 0.2rem;
+  width: 2px;
+  background: var(--color-border);
+}
+.health-page .hea-steps > li:last-child::after {
+  display: none;
+}
+.health-page .hea-steps h4 {
+  font-family: var(--bp-font-head);
+  font-size: 1.05rem;
+  font-weight: 800;
+  margin: 0.2rem 0 0.3rem;
+}
+.health-page .hea-steps p {
+  margin: 0 0 0.4rem;
+  font-size: 0.94rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+
+/* 門檻線（TrendChart） */
+.hea-threshold line {
+  stroke: var(--bg-down);
+  stroke-width: 1;
+  stroke-dasharray: 2 4;
+  opacity: 0.75;
+}
+
+/* 縣市條列（HTML 橫條，文字全在 DOM） */
+.health-page .hea-bars {
+  list-style: none;
+  margin: 0.4rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.28rem;
+  font-size: 0.86rem;
+  font-variant-numeric: tabular-nums;
+}
+.health-page .hea-bars li {
+  display: grid;
+  grid-template-columns: 4.6em minmax(0, 1fr) 4.2em;
+  align-items: center;
+  gap: 0.5rem;
+}
+.health-page .hea-bars .hea-bar-track {
+  height: 12px;
+  border-radius: 6px;
+  background: var(--bg-track);
+  overflow: hidden;
+}
+.health-page .hea-bars .hea-bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  background: var(--bg-mute);
+}
+.health-page .hea-bars li.is-hi .hea-bar-fill {
+  background: var(--bg-cat-0);
+}
+.health-page .hea-bars li.is-low .hea-bar-fill {
+  background: var(--bg-cat-1);
+}
+.health-page .hea-bars li.is-avg {
+  font-weight: 700;
+}
+.health-page .hea-bars li.is-avg .hea-bar-fill {
+  background: var(--bg-hi);
+}
+.health-page .hea-bars .num {
+  text-align: end;
+}
+
+/* 待上線文章 chip */
+.health-page .bp-related span.hea-pending {
+  border: 1px dashed var(--color-border);
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9rem;
+  color: var(--bg-ink-soft);
+}
+
+/* 相關文章卡（主頁尾） */
+.health-page .hea-reads {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  margin: var(--space-4) 0 var(--space-6);
+}
+.health-page a.hea-read {
+  display: block;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--bg-surface);
+  padding: 0.8rem 0.95rem;
+  color: var(--bg-ink);
+  text-decoration: none;
+}
+.health-page a.hea-read:hover {
+  border-color: var(--color-accent);
+}
+.health-page .hea-read b {
+  display: block;
+  font-family: var(--bp-font-head);
+  font-size: 0.98rem;
+  line-height: 1.4;
+}
+.health-page .hea-read span {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+  margin-top: 0.25rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .health-page a.hea-tool {
+    transition: none;
+  }
+}
+
+/* 工具根節點（可獨立放進內嵌板，所以自己帶 budget-page 的變數） */
+.health-page.hea-tool {
+  background: transparent;
+}
+.health-page .hea-toolsrc {
+  font-size: 0.8rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+  margin: 0;
+}
+.health-page .hea-toolsrc a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.health-page .hea-split .is-third {
+  background: var(--bg-cat-2);
+}
+.health-page .hea-dot {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 3px;
+  margin-inline-end: 0.35rem;
+  vertical-align: -1px;
+}
+/* 常見問題 */
+.health-page .hea-faq details {
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.85rem 0;
+  max-width: 76ch;
+}
+.health-page .hea-faq summary {
+  cursor: pointer;
+  font-family: var(--bp-font-head);
+  font-weight: 800;
+  font-size: 1.02rem;
+  line-height: 1.5;
+}
+.health-page .hea-faq p {
+  margin: 0.55rem 0 0;
+  line-height: 1.85;
+  color: var(--bg-ink-soft);
+}
+.health-page .bp-prose ul {
+  padding-inline-start: 1.2rem;
+  margin: 0 0 1em;
+}
+.health-page .bp-prose li {
+  margin-bottom: 0.5em;
+}
+
+/* 時間軸的制度別標籤 */
+.health-page .hea-track {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 0 0.45rem;
+  margin-inline-end: 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--track-c, var(--bg-mute));
+  color: var(--bg-ink);
+  vertical-align: 1px;
+}
+.health-page .hea-track-nhi {
+  --track-c: var(--bg-cat-0);
+}
+.health-page .hea-track-ltc {
+  --track-c: var(--bg-cat-2);
+}
+.health-page .hea-track-end {
+  --track-c: var(--bg-cat-6);
+}
+.health-page .hea-track-work {
+  --track-c: var(--bg-cat-1);
+}
+
+/* 議題切換：radio 藏起來，選中的議題顯示，其餘隱藏；label 當分頁鈕 */
+.health-page .hea-issue-radio {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.health-page .hea-issueset .hea-issue {
+  display: none;
+}
+.health-page
+  .hea-issueset:has(#hea-issue-finance:checked)
+  [data-issue='finance'],
+.health-page .hea-issueset:has(#hea-issue-points:checked) [data-issue='points'],
+.health-page
+  .hea-issueset:has(#hea-issue-workforce:checked)
+  [data-issue='workforce'],
+.health-page .hea-issueset:has(#hea-issue-ltc:checked) [data-issue='ltc'] {
+  display: block;
+}
+.health-page
+  .hea-issueset:has(#hea-issue-finance:checked)
+  label[for='hea-issue-finance'],
+.health-page
+  .hea-issueset:has(#hea-issue-points:checked)
+  label[for='hea-issue-points'],
+.health-page
+  .hea-issueset:has(#hea-issue-workforce:checked)
+  label[for='hea-issue-workforce'],
+.health-page
+  .hea-issueset:has(#hea-issue-ltc:checked)
+  label[for='hea-issue-ltc'] {
+  border-color: var(--bg-hi);
+  background: var(--bg-hi);
+  color: var(--color-bg);
+  font-weight: 700;
+}
+.health-page .hea-issueset:has(.hea-issue-radio:focus-visible) .hea-issues {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 10px;
+}
+.health-page .hea-issue .bp-h3 {
+  margin-top: var(--space-5);
+}
+@media print {
+  .health-page .hea-issueset .hea-issue {
+    display: block;
+  }
+}
+.health-page .hea-hero-h {
+  font-family: var(--bp-font-head);
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--bg-ink-soft);
+  margin: 1.6rem 0 0;
+  text-align: center;
+}
+.health-page .hea-quote,
+.health-page .hea-quote footer {
+  font-family: var(--bp-font-body);
+  color: var(--bg-ink);
+}
+.health-page .hea-quote footer {
+  color: var(--bg-ink-soft);
+}
+/* 工具單獨頁：工具要在第一屏附近，英雄區與第一區之間不留大空白 */
+.health-page #tool.bp-section {
+  padding-top: var(--space-5);
+}

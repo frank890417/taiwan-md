@@ -1,0 +1,344 @@
+---
+/**
+ * TrendChart — /health 專題的通用折線圖（SSR inline SVG + 資料表 fallback）。
+ *
+ * 沿用 /budget 的圖表 class（bg-chart／bg-svg／bg-series…，樣式住 src/styles/budget.css），
+ * 差別只在單位：budget/LineChart 的單位寫死「億｜%」，這裡的單位是任意字串（萬人、個月、%、億元）。
+ * 另支援「推估段」（projFrom 之後畫虛線）與水平門檻線（例：高齡 14%、超高齡 20%）。
+ * 寬 760／窄 380 兩套幾何，y 軸從 0 起。
+ */
+import {
+  scaleLinear,
+  niceTicks,
+  linePath,
+  areaPath,
+  estTextW,
+  CHART_WIDTHS,
+} from '../../../utils/budgetViz';
+
+export interface TSeries {
+  id: string;
+  label: string;
+  values: (number | null)[];
+  cls?: string;
+  area?: boolean;
+  dashed?: boolean;
+}
+export interface TAnnot {
+  year: number;
+  seriesId: string;
+  text: string;
+  dir?: 'up' | 'down';
+}
+export interface TLine {
+  value: number;
+  label: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  years: number[];
+  series: TSeries[];
+  /** 單位字尾（顯示在讀數與表頭），例：'%'、'億元'、'萬人' */
+  unit?: string;
+  decimals?: number;
+  yMax?: number;
+  /** 這一年（含）之後是推估：線改虛線，底色加一條推估帶 */
+  projFrom?: number;
+  projLabel?: string;
+  lines?: TLine[];
+  annots?: TAnnot[];
+  source?: string;
+  height?: number;
+  id?: string;
+  yearLabel?: string;
+  /** 缺年是否連線（預設斷線）。只在序列單調、缺的是「沒收錄」而非「沒有資料」時才開 */
+  connectGaps?: boolean;
+}
+const {
+  title,
+  subtitle,
+  years,
+  series,
+  unit = '',
+  decimals = 1,
+  yMax,
+  projFrom,
+  projLabel = '推估',
+  lines = [],
+  annots = [],
+  source,
+  height = 330,
+  id,
+  yearLabel = '年',
+  connectGaps = false,
+} = Astro.props;
+
+const uid =
+  id ||
+  `tc-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const allVals = series.flatMap((s) =>
+  s.values.filter((v): v is number => v !== null),
+);
+const dataMax = Math.max(0, ...allVals, ...lines.map((l) => l.value));
+const ticks = niceTicks(yMax ?? dataMax, 5);
+const top = ticks[ticks.length - 1];
+const fmtNum = (v: number) =>
+  v.toLocaleString('en-US', {
+    minimumFractionDigits: decimals,
+    maximumFractionDigits: decimals,
+  });
+const fmtV = (v: number) => `${fmtNum(v)}${unit === '%' ? '%' : ` ${unit}`}`;
+const fmtTick = (v: number) =>
+  `${v.toLocaleString('en-US')}${unit === '%' ? '%' : ''}`;
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? Math.round(height * 0.84) : height;
+  const longest = Math.max(0, ...series.map((s) => estTextW(s.label)));
+  const M = {
+    l: narrow ? 42 : 56,
+    r: narrow
+      ? Math.max(70, Math.min(124, longest + 12))
+      : Math.max(96, Math.min(210, longest + 16)),
+    t: 22,
+    b: 32,
+  };
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const x = scaleLinear(years[0], years[years.length - 1], M.l, M.l + iw);
+  const y = scaleLinear(0, top, M.t + ih, M.t);
+  const paths = series.map((s) => {
+    const pts = s.values
+      .map((v, i) => (v === null ? null : { x: x(years[i]), y: y(v), i, v }))
+      .filter(
+        (p): p is { x: number; y: number; i: number; v: number } => p !== null,
+      );
+    // 推估段：實績線到 projFrom 為止，之後另畫一條虛線（兩段共用交界點）
+    const solid =
+      projFrom === undefined ? pts : pts.filter((p) => years[p.i] <= projFrom);
+    const proj =
+      projFrom === undefined ? [] : pts.filter((p) => years[p.i] >= projFrom);
+    // 中間缺年就斷線，不把「沒有資料」的年份連過去
+    const runs = (arr: typeof pts) => {
+      if (connectGaps) return linePath(arr);
+      const out: (typeof pts)[] = [];
+      for (const p of arr) {
+        const last = out[out.length - 1];
+        if (last && p.i === last[last.length - 1].i + 1) last.push(p);
+        else out.push([p]);
+      }
+      return out.map((r) => linePath(r)).join(' ');
+    };
+    return {
+      s,
+      d: runs(solid),
+      dProj: proj.length > 1 ? runs(proj) : '',
+      area: s.area
+        ? areaPath(
+            pts,
+            pts.map((p) => ({ x: p.x, y: y(0) })),
+          )
+        : '',
+      pts,
+      last: pts.length ? pts[pts.length - 1] : null,
+    };
+  });
+  const endLabels = paths
+    .filter((p) => p.last)
+    .map((p) => ({ p, ly: y(p.last!.v), label: p.s.label }))
+    .sort((a, b) => a.ly - b.ly);
+  for (let i = 1; i < endLabels.length; i++) {
+    if (endLabels[i].ly - endLabels[i - 1].ly < 14)
+      endLabels[i].ly = endLabels[i - 1].ly + 14;
+  }
+  // x 刻度：年份多就抽樣，頭尾一定標
+  const want = narrow ? 5 : 9;
+  const step = Math.max(1, Math.ceil(years.length / want));
+  const xTicks = years.filter(
+    (_, i) =>
+      i === 0 ||
+      i === years.length - 1 ||
+      (i % step === 0 && years.length - 1 - i >= Math.ceil(step / 2)),
+  );
+  const projX =
+    projFrom !== undefined && years.includes(projFrom) ? x(projFrom) : null;
+  return { W, H, M, iw, ih, x, y, paths, endLabels, xTicks, narrow, projX };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="line" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {L.projX !== null && (
+          <g class="bg-era era-b">
+            <rect
+              x={L.projX}
+              y={L.M.t}
+              width={Math.max(0, L.M.l + L.iw - L.projX)}
+              height={L.ih}
+            />
+            <text x={L.projX + 5} y={L.M.t + 12} class="bg-era-lab">
+              {projLabel}
+            </text>
+          </g>
+        )}
+        {ticks.map((t) => (
+          <g class="bg-grid">
+            <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(t)} y2={L.y(t)} />
+            <text
+              x={L.M.l - 8}
+              y={L.y(t) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
+              {fmtTick(t)}
+            </text>
+          </g>
+        ))}
+        {lines.map((l) => (
+          <g class="hea-threshold">
+            <line
+              x1={L.M.l}
+              x2={L.M.l + L.iw}
+              y1={L.y(l.value)}
+              y2={L.y(l.value)}
+            />
+            <text x={L.M.l + 6} y={L.y(l.value) - 5} class="bg-hband-lab">
+              {l.label}
+            </text>
+          </g>
+        ))}
+        {L.xTicks.map((yr) => (
+          <text
+            x={L.x(yr)}
+            y={L.M.t + L.ih + 20}
+            text-anchor="middle"
+            class="bg-tick"
+          >
+            {yr}
+          </text>
+        ))}
+        <line
+          x1={L.M.l}
+          x2={L.M.l + L.iw}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="bg-axis"
+        />
+        {L.paths.map((p) => (
+          <g class={`bg-series ${p.s.cls || 'bg-s0'}`} data-series={p.s.id}>
+            {p.area && <path d={p.area} class="bg-area" />}
+            <path
+              d={p.d}
+              class="bg-line"
+              fill="none"
+              stroke-dasharray={p.s.dashed ? '5 4' : undefined}
+            />
+            {p.dProj && (
+              <path
+                d={p.dProj}
+                class="bg-line"
+                fill="none"
+                stroke-dasharray="5 4"
+              />
+            )}
+            {p.pts.map((pt) => (
+              <circle cx={pt.x} cy={pt.y} r={L.narrow ? 2.4 : 3} class="bg-dot">
+                <title>{`${years[pt.i]} · ${p.s.label}：${fmtV(pt.v)}${projFrom !== undefined && years[pt.i] > projFrom ? `（${projLabel}）` : ''}`}</title>
+              </circle>
+            ))}
+          </g>
+        ))}
+        {L.endLabels.map((e) => (
+          <text
+            x={L.M.l + L.iw + 8}
+            y={e.ly + 4}
+            class="bg-endlab"
+            data-series={e.p.s.id}
+          >
+            {e.label}
+          </text>
+        ))}
+        {annots.map((a) => {
+          const s = series.find((s) => s.id === a.seriesId);
+          const i = years.indexOf(a.year);
+          if (!s || i < 0 || s.values[i] === null) return null;
+          const px = L.x(a.year);
+          const py = L.y(s.values[i] as number);
+          const up = a.dir !== 'down';
+          const ty = up ? py - 14 : py + 20;
+          const est = estTextW(a.text, 11, 6);
+          const anchor =
+            px + est / 2 > L.M.l + L.iw + 4
+              ? 'end'
+              : px - est / 2 < L.M.l
+                ? 'start'
+                : 'middle';
+          return (
+            <g class="bg-annot">
+              <line x1={px} x2={px} y1={py} y2={up ? ty + 4 : ty - 12} />
+              <text x={px} y={ty} text-anchor={anchor}>
+                {a.text}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
+  {source && <figcaption class="bg-chart-src">來源：{source}</figcaption>}
+  <details class="bg-table">
+    <summary>資料表</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{yearLabel}</th>
+            {
+              series.map((s) => (
+                <th class="num">
+                  {s.label}
+                  {unit && unit !== '%' ? `（${unit}）` : ''}
+                </th>
+              ))
+            }
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.map((yr, i) => (
+              <tr>
+                <td>
+                  {yr}
+                  {projFrom !== undefined && yr > projFrom
+                    ? `（${projLabel}）`
+                    : ''}
+                </td>
+                {series.map((s) => (
+                  <td class="num">
+                    {s.values[i] === null
+                      ? '沒有資料'
+                      : `${fmtNum(s.values[i] as number)}${unit === '%' ? '%' : ''}`}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

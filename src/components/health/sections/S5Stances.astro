@@ -1,0 +1,93 @@
+---
+/**
+ * §5 各方立場：四個議題，每一方具名、帶日期與出處。
+ * kind=quote／phrase 的文字是來源頁引號內原話（scripts/tools/verify-health-quotes.py 逐字對過）；
+ * paraphrase 是報導轉述，不加引號並標「轉述」。en 頁顯示英譯，原文在 zh-TW 頁。
+ * 議題切換用 radio＋CSS（無 JS 也能用；無 CSS 時四個議題全部顯示）。
+ */
+import { healthCtx } from '../../../utils/health/pageContext';
+import stances from '../../../data/health/stances.json';
+interface Props {
+  lang: string;
+}
+const { lang } = Astro.props;
+const { t, zh } = healthCtx(lang);
+const L = zh ? 'zh' : 'en';
+const colors = ['var(--bg-cat-0)', 'var(--bg-cat-1)', 'var(--bg-cat-2)'];
+---
+
+<section class="bp-section" id="s5">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s5.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s5.h2')}</h2>
+    <p class="bp-lede">{t('s5.lede')}</p>
+    <div class="hea-issueset">
+      {
+        stances.issues.map((issue, i) => (
+          <input
+            type="radio"
+            name="hea-issue"
+            id={`hea-issue-${issue.id}`}
+            class="hea-issue-radio"
+            checked={i === 0}
+          />
+        ))
+      }
+      <div class="hea-seg hea-issues" role="tablist">
+        {
+          stances.issues.map((issue) => (
+            <label for={`hea-issue-${issue.id}`}>
+              {(issue.title as any)[L]}
+            </label>
+          ))
+        }
+      </div>
+      {
+        stances.issues.map((issue) => (
+          <div class="hea-issue" data-issue={issue.id}>
+            <h3 class="bp-h3">{(issue.title as any)[L]}</h3>
+            <p class="bp-lede">{(issue.lede as any)[L]}</p>
+            <div class="hea-stances">
+              {issue.groups.map((g, gi) => (
+                <div class="hea-stance" style={`--stance-c:${colors[gi % 3]}`}>
+                  <h4>{(g.side as any)[L]}</h4>
+                  {g.items.map((it) => (
+                    <blockquote class="hea-quote">
+                      {it.kind === 'paraphrase' ? (
+                        <span>
+                          <span class="hea-asof">{t('s5.paraphrase')}</span>{' '}
+                          {zh ? it.text : it.en}
+                        </span>
+                      ) : zh ? (
+                        <span>
+                          {it.kind === 'phrase' && (it as any).ctx
+                            ? (it as any).ctx.replace('{q}', `「${it.text}」`)
+                            : `「${it.text}」`}
+                        </span>
+                      ) : (
+                        <span>
+                          {it.kind === 'phrase' ? it.en : `“${it.en}”`}
+                        </span>
+                      )}
+                      <footer>
+                        {it.who}
+                        {zh ? `，${it.role}` : ''}・{it.date}・
+                        <a href={it.url} target="_blank" rel="noopener">
+                          {it.outlet}
+                        </a>
+                      </footer>
+                    </blockquote>
+                  ))}
+                </div>
+              ))}
+            </div>
+            <p class="bp-note">
+              <b>{t('s5.missing')}</b>
+              {(issue.missing as any)[L]}
+            </p>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>

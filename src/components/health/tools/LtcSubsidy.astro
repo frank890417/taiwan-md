@@ -1,0 +1,338 @@
+---
+/**
+ * LtcSubsidy — 長照給付額度與自付額試算（專題頁內嵌／單獨頁／內嵌板共用）。
+ *
+ * 公式不在這裡：全部來自 src/utils/health/ltcCalc.ts，規則來自 src/data/health/ltc-rules.json。
+ * 無 JS 時顯示伺服端先算好的預設案例（第 4 級、第三類、臺北市）。
+ * 同頁可放多個實例：不用 id 查節點，全部從根節點 [data-hea-ltc] 往下找。
+ * 輸入同步到網址查詢參數（level／cls／county／town／mc），結果可以分享。
+ */
+import '../../../styles/budget.css';
+import '../../../styles/health.css';
+import rules from '../../../data/health/ltc-rules.json';
+import {
+  calcLtc,
+  type LtcRules,
+  type Welfare,
+} from '../../../utils/health/ltcCalc';
+import { useHealthT } from '../../../i18n/health';
+
+interface Props {
+  lang?: string;
+  variant?: 'inline' | 'page' | 'embed';
+}
+const { lang = 'zh-TW', variant = 'inline' } = Astro.props;
+const t = useHealthT(lang);
+const R = rules as unknown as LtcRules;
+const uid = `ltc-${Math.random().toString(36).slice(2, 8)}`;
+
+const defaults = { level: 4, welfare: 'class3' as Welfare, county: '臺北市' };
+const d = calcLtc(R, defaults);
+const nf = (n: number) => n.toLocaleString('en-US');
+const counties = Object.keys(R.transport.countyClass);
+const remote = R.transport.remoteTownships;
+const rows = [
+  { k: 'care', per: t('ltc.per.month'), l: d.care! },
+  { k: 'transport', per: t('ltc.per.month'), l: d.transport! },
+  { k: 'respite', per: t('ltc.per.year'), l: d.respite! },
+  { k: 'assistive', per: t('ltc.per.3y'), l: d.assistive! },
+];
+---
+
+<div
+  class={`budget-page health-page hea-tool hea-tool-${variant}`}
+  data-hea-ltc
+  data-remote={JSON.stringify(remote)}
+  data-other={t('ltc.town.other')}
+  data-zone={t('ltc.zone')}
+>
+  <div class="hea-calc">
+    <form class="hea-form" onsubmit="return false" aria-label={t('ltc.form')}>
+      <h3>{t('ltc.form')}</h3>
+      <div class="hea-field">
+        <label for={`${uid}-level`}>{t('ltc.level')}</label>
+        <select id={`${uid}-level`} name="level">
+          {
+            [2, 3, 4, 5, 6, 7, 8].map((n) => (
+              <option value={n} selected={n === defaults.level}>
+                {t('ltc.level.n').replace('{n}', String(n))}
+              </option>
+            ))
+          }
+        </select>
+        <p class="hea-hint">{t('ltc.level.hint')}</p>
+      </div>
+      <fieldset class="hea-field">
+        <legend>{t('ltc.cls')}</legend>
+        <div class="hea-seg">
+          {
+            (['class3', 'class2', 'class1'] as const).map((c) => (
+              <label>
+                <input
+                  type="radio"
+                  name={`${uid}-cls`}
+                  data-name="cls"
+                  value={c}
+                  checked={c === defaults.welfare}
+                />
+                {t(`ltc.cls.${c}`)}
+              </label>
+            ))
+          }
+        </div>
+        <p class="hea-hint">{t('ltc.cls.hint')}</p>
+      </fieldset>
+      <div class="hea-field">
+        <label for={`${uid}-county`}>{t('ltc.county')}</label>
+        <select id={`${uid}-county`} name="county">
+          {
+            counties.map((c) => (
+              <option value={c} selected={c === defaults.county}>
+                {c}
+              </option>
+            ))
+          }
+        </select>
+        <select
+          name="town"
+          aria-label={t('ltc.town')}
+          hidden
+          style="margin-top:0.4rem"></select>
+        <p class="hea-hint">{t('ltc.county.hint')}</p>
+      </div>
+      <label class="hea-check">
+        <input type="checkbox" name="mc" />
+        <span>{t('ltc.mc')}</span>
+      </label>
+    </form>
+
+    <div class="hea-result" aria-live="polite">
+      <h3>{t('ltc.result')}</h3>
+      <div class="hea-big">
+        <div>
+          <div class="hea-big-v">
+            <span data-out="m.quota">{nf(d.monthly!.quota)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('ltc.big.quota')}</div>
+        </div>
+        <div class="is-warm">
+          <div class="hea-big-v">
+            <span data-out="m.copay">{nf(d.monthly!.copay)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('ltc.big.copay')}</div>
+        </div>
+        <div class="is-cool">
+          <div class="hea-big-v">
+            <span data-out="m.subsidy">{nf(d.monthly!.subsidy)}</span><small
+              >{t('unit.yuan')}</small
+            >
+          </div>
+          <div class="hea-big-l">{t('ltc.big.subsidy')}</div>
+        </div>
+      </div>
+      <table class="hea-rows">
+        <thead>
+          <tr>
+            <th>{t('ltc.col.item')}</th>
+            <th class="num">{t('ltc.col.quota')}</th>
+            <th class="num">{t('ltc.col.copay')}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr data-row={r.k}>
+                <td>
+                  {t(`ltc.row.${r.k}`)}
+                  <small>
+                    {r.per}
+                    {r.k === 'transport' && (
+                      <span data-out="transport.zone">
+                        {' · '}
+                        {t('ltc.zone').replace('{n}', String(d.transport!.cls))}
+                      </span>
+                    )}
+                    {' · '}
+                    {t('ltc.rate')}{' '}
+                    <span data-out={`${r.k}.rate`}>
+                      {Math.round(r.l.rate * 100)}
+                    </span>
+                    %
+                  </small>
+                  <div class="hea-split" aria-hidden="true">
+                    <i
+                      class="is-gov"
+                      data-bar={`${r.k}.gov`}
+                      style={`width:${(1 - r.l.rate) * 100}%`}
+                    />
+                    <i
+                      class="is-self"
+                      data-bar={`${r.k}.self`}
+                      style={`width:${r.l.rate * 100}%`}
+                    />
+                  </div>
+                </td>
+                <td class="num">
+                  <span data-out={`${r.k}.quota`}>{nf(r.l.quota)}</span>
+                </td>
+                <td class="num">
+                  <span data-out={`${r.k}.copay`}>{nf(r.l.copay)}</span>
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+      <p class="hea-legend">
+        <span
+          ><i style="background:var(--bg-cat-0)"></i>{t('ltc.legend.gov')}</span
+        >
+        <span
+          ><i style="background:var(--bg-cat-1)"></i>{
+            t('ltc.legend.self')
+          }</span
+        >
+      </p>
+      <p class="hea-msg is-warn" data-msg="mc" hidden>{t('ltc.msg.mc')}</p>
+      <p class="hea-msg">{t('ltc.msg.cap')}</p>
+    </div>
+  </div>
+  <p class="hea-toolsrc">
+    {t('ltc.src')}
+    <a href={R.sources.table2.url} target="_blank" rel="noopener"
+      >{t('ltc.src.table2')}</a
+    >、<a href={R.sources.table5.url} target="_blank" rel="noopener"
+      >{t('ltc.src.table5')}</a
+    >、<a href={R.sources.apply.url} target="_blank" rel="noopener"
+      >{t('ltc.src.1966')}</a
+    >。{t('asof')}{R.asOf}。
+  </p>
+</div>
+
+<script>
+  import rules from '../../../data/health/ltc-rules.json';
+  import { calcLtc } from '../../../utils/health/ltcCalc';
+  import type { LtcRules, Welfare } from '../../../utils/health/ltcCalc';
+
+  const R = rules as unknown as LtcRules;
+  const nf = (n: number) => n.toLocaleString('en-US');
+
+  document.querySelectorAll<HTMLElement>('[data-hea-ltc]').forEach((root) => {
+    const form = root.querySelector('form')!;
+    const level = form.querySelector<HTMLSelectElement>('[name=level]')!;
+    const county = form.querySelector<HTMLSelectElement>('[name=county]')!;
+    const town = form.querySelector<HTMLSelectElement>('[name=town]')!;
+    const mc = form.querySelector<HTMLInputElement>('[name=mc]')!;
+    const cls = () =>
+      (form.querySelector<HTMLInputElement>('[data-name=cls]:checked')?.value ||
+        'class3') as Welfare;
+    const remote: string[] = JSON.parse(root.dataset.remote || '[]');
+    const set = (k: string, v: string) =>
+      root
+        .querySelectorAll<HTMLElement>(`[data-out="${k}"]`)
+        .forEach((el) => (el.textContent = v));
+    const bar = (k: string, pct: number) =>
+      root
+        .querySelectorAll<HTMLElement>(`[data-bar="${k}"]`)
+        .forEach((el) => (el.style.width = `${pct}%`));
+
+    const fillTowns = (keep?: string) => {
+      const list = remote
+        .filter((t) => t.startsWith(county.value))
+        .map((t) => t.slice(county.value.length));
+      town.replaceChildren();
+      if (!list.length) {
+        town.hidden = true;
+        return;
+      }
+      town.hidden = false;
+      town.append(new Option(root.dataset.other || '', ''));
+      list.forEach((t) => town.append(new Option(t, t)));
+      if (keep && list.includes(keep)) town.value = keep;
+    };
+
+    const render = (push: boolean) => {
+      const r = calcLtc(R, {
+        level: +level.value,
+        welfare: cls(),
+        county: county.value,
+        township: town.hidden ? undefined : town.value || undefined,
+        migrantCaregiver: mc.checked,
+      });
+      if (!r.eligible) return;
+      set('m.quota', nf(r.monthly!.quota));
+      set('m.copay', nf(r.monthly!.copay));
+      set('m.subsidy', nf(r.monthly!.subsidy));
+      const lines = {
+        care: r.care!,
+        transport: r.transport,
+        respite: r.respite,
+        assistive: r.assistive!,
+      } as Record<
+        string,
+        { quota: number; copay: number; rate: number } | null | undefined
+      >;
+      for (const [k, l] of Object.entries(lines)) {
+        const row = root.querySelector<HTMLElement>(`[data-row="${k}"]`);
+        if (row) row.hidden = !l;
+        if (!l) continue;
+        set(`${k}.quota`, nf(l.quota));
+        set(`${k}.copay`, nf(l.copay));
+        set(`${k}.rate`, String(Math.round(l.rate * 100)));
+        bar(`${k}.gov`, (1 - l.rate) * 100);
+        bar(`${k}.self`, l.rate * 100);
+      }
+      if (r.transport)
+        set(
+          'transport.zone',
+          ` · ${(root.dataset.zone || '').replace('{n}', String(r.transport.cls))}`,
+        );
+      const m = root.querySelector<HTMLElement>('[data-msg=mc]');
+      if (m) m.hidden = !mc.checked;
+      if (push) {
+        const q = new URLSearchParams(location.search);
+        q.set('level', level.value);
+        q.set('cls', cls());
+        q.set('county', county.value);
+        if (!town.hidden && town.value) q.set('town', town.value);
+        else q.delete('town');
+        if (mc.checked) q.set('mc', '1');
+        else q.delete('mc');
+        history.replaceState(
+          null,
+          '',
+          `${location.pathname}?${q}${location.hash}`,
+        );
+      }
+    };
+
+    // 網址帶參數就還原（分享連結）
+    const q = new URLSearchParams(location.search);
+    if (q.get('level') && R.care.monthly[q.get('level')!])
+      level.value = q.get('level')!;
+    if (q.get('county') && R.transport.countyClass[q.get('county')!])
+      county.value = q.get('county')!;
+    const qc = q.get('cls');
+    if (qc) {
+      const el = form.querySelector<HTMLInputElement>(
+        `[data-name=cls][value="${CSS.escape(qc)}"]`,
+      );
+      if (el) el.checked = true;
+    }
+    mc.checked = q.get('mc') === '1';
+    fillTowns(q.get('town') || undefined);
+    render(false);
+
+    county.addEventListener('change', () => {
+      fillTowns();
+      render(true);
+    });
+    form.addEventListener('input', (e) => {
+      if (e.target !== county) render(true);
+    });
+  });
+</script>

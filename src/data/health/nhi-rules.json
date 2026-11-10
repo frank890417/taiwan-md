@@ -1,0 +1,153 @@
+{
+  "asOf": "2026-11-10",
+  "effective": "2026-01-01",
+  "premiumRate": 0.0517,
+  "supplementaryRate": 0.0211,
+  "avgDependents": 0.56,
+  "maxDependents": 3,
+  "minimumWage": 29500,
+  "grades": [
+    29500, 30300, 31800, 33300, 34800, 36300, 38200, 40100, 42000, 43900, 45800,
+    48200, 50600, 53000, 55400, 57800, 60800, 63800, 66800, 69800, 72800, 76500,
+    80200, 83900, 87600, 92100, 96600, 101100, 105600, 110100, 115500, 120900,
+    126300, 131700, 137100, 142500, 147900, 150000, 156400, 162800, 169200,
+    175600, 182000, 189500, 197000, 204500, 212000, 219500, 228200, 236900,
+    245600, 254300, 263000, 273000, 283000, 293000, 303000, 313000
+  ],
+  "shares": {
+    "employee": {
+      "insured": 0.3,
+      "employer": 0.6,
+      "government": 0.1
+    },
+    "civil": {
+      "insured": 0.3,
+      "employer": 0.7,
+      "government": 0
+    },
+    "privateSchool": {
+      "insured": 0.3,
+      "employer": 0.35,
+      "government": 0.35
+    },
+    "employer": {
+      "insured": 1,
+      "employer": 0,
+      "government": 0
+    },
+    "union": {
+      "insured": 0.6,
+      "employer": 0,
+      "government": 0.4
+    },
+    "farmer": {
+      "insured": 0.3,
+      "employer": 0,
+      "government": 0.7
+    }
+  },
+  "minInsured": {
+    "employer": 42000,
+    "union": 29500
+  },
+  "fixedInsured": {
+    "farmer": 29500
+  },
+  "regional": {
+    "averagePremium": 1377,
+    "insured": 0.6,
+    "government": 0.4
+  },
+  "supplementary": {
+    "singleThreshold": 20000,
+    "partTimeThreshold": 29500,
+    "singleCap": 10000000,
+    "bonusMultiple": 4
+  },
+  "copay": {
+    "outpatient": [
+      ["醫學中心", 170, 420],
+      ["區域醫院", 100, 240],
+      ["地區醫院", 50, 80],
+      ["診所", 50, 50]
+    ],
+    "emergency": [
+      ["醫學中心", 750, 550],
+      ["區域醫院", 400, 300],
+      ["地區醫院", 150, 150],
+      ["基層醫療單位", 150, 150]
+    ],
+    "inpatientCap": {
+      "year": 2026,
+      "perStay": 57000,
+      "perYear": 95000
+    }
+  },
+  "sources": {
+    "formula": {
+      "title": "健保署「保險費計算與繳納」公式與釋例",
+      "url": "https://www.nhi.gov.tw/ch/cp-3277-6c895-2588-1.html",
+      "date": "2025-12-23"
+    },
+    "grades": {
+      "title": "健保署「投保金額分級表（115.01.01 生效）」",
+      "url": "https://www.nhi.gov.tw/ch/cp-19421-f9533-2569-1.html",
+      "date": "2025-12-17"
+    },
+    "shares": {
+      "title": "健保署「保險費負擔比率」",
+      "url": "https://www.nhi.gov.tw/ch/cp-3257-29d99-2570-1.html",
+      "date": "2023-11-29"
+    },
+    "tableEmployee": {
+      "title": "健保署「保險費負擔金額表（三）受僱者適用」115 年 1 月 1 日起實施",
+      "url": "https://www.nhi.gov.tw/ch/cp-19418-9eefb-2576-1.html",
+      "date": "2025-12-11"
+    },
+    "tableUnion": {
+      "title": "健保署「保險費負擔金額表（四）職業工會會員適用」",
+      "url": "https://www.nhi.gov.tw/ch/cp-19419-17c8e-2578-1.html",
+      "date": "2025-12-11"
+    },
+    "tableEmployer": {
+      "title": "健保署「保險費負擔金額表（五）雇主、自營業主、專技人員適用」",
+      "url": "https://www.nhi.gov.tw/ch/cp-19439-f2f35-2580-1.html",
+      "date": "2025-12-22"
+    },
+    "tableFarmer": {
+      "title": "健保署「保險費負擔金額表（六）農會、漁會會員適用」",
+      "url": "https://www.nhi.gov.tw/ch/cp-19440-7f59a-2583-1.html",
+      "date": "2025-12-22"
+    },
+    "tableRegional": {
+      "title": "健保署「保險費負擔金額表（七）地區人口適用」",
+      "url": "https://www.nhi.gov.tw/ch/cp-5719-69026-2584-1.html",
+      "date": "2024-05-23"
+    },
+    "supplementary": {
+      "title": "健保署「補充保險費計費項目與上下限」",
+      "url": "https://www.nhi.gov.tw/ch/cp-4516-74b0f-2613-1.html",
+      "date": "2023-11-29"
+    },
+    "law": {
+      "title": "全國法規資料庫《全民健康保險法》",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060001",
+      "date": "2023-06-28"
+    },
+    "reform": {
+      "title": "衛福部澄清稿：補充保費改革「暫停有爭議的規劃」",
+      "url": "https://www.mohw.gov.tw/cp-16-84428-1.html",
+      "date": "2025-11-06"
+    },
+    "copayOpd": {
+      "title": "健保署「門、急診部分負擔」",
+      "url": "https://www.nhi.gov.tw/ch/cp-5163-9803c-2737-1.html",
+      "date": "2025-04-22"
+    },
+    "copayCap": {
+      "title": "健保署「住院部分負擔上限」",
+      "url": "https://www.nhi.gov.tw/ch/cp-5184-4d67b-2743-1.html",
+      "date": "2025-12-24"
+    }
+  }
+}

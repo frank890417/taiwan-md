@@ -1,0 +1,44 @@
+---
+/** §0 制度：一個人會碰到的六個制度站，每站寫誰出錢、你付多少。 */
+import { healthCtx } from '../../../utils/health/pageContext';
+import RelatedChips from '../RelatedChips.astro';
+import type { RelItem } from '../../../utils/health/related';
+interface Props {
+  lang: string;
+  related: RelItem[];
+}
+const { lang, related } = Astro.props;
+const { t, r } = healthCtx(lang);
+const colors = [0, 0, 1, 0, 2, 6];
+---
+
+<section class="bp-section" id="s0">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s0.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s0.h2')}</h2>
+    <p class="bp-lede">{t('s0.lede')}</p>
+    <ol class="hea-path">
+      {
+        [1, 2, 3, 4, 5, 6].map((n) => (
+          <li style={`--path-c:var(--bg-cat-${colors[n - 1]})`}>
+            <div class="hea-path-k">{String(n).padStart(2, '0')}</div>
+            <h4>{t(`s0.st${n}.h`)}</h4>
+            <p set:html={r(`s0.st${n}.p`)} />
+            <p class="hea-path-pay">
+              <b>{t('s0.col.pay')}</b>　{t(`s0.st${n}.pay`)}
+              <br />
+              <b>{t('s0.col.you')}</b>　
+              <Fragment set:html={r(`s0.st${n}.you`)} />
+            </p>
+          </li>
+        ))
+      }
+    </ol>
+    <p class="bp-note" set:html={r('s0.note')} />
+    <RelatedChips
+      items={related}
+      label={t('related.h')}
+      pendingLabel={t('pending')}
+    />
+  </div>
+</section>

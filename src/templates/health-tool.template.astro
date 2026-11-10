@@ -1,0 +1,233 @@
+---
+/**
+ * health-tool.template.astro — /health/<tool-slug>/ 工具單獨頁（三個工具共用）。
+ *
+ * 順序照專題共用契約 v1 §4(b)：一句話 → 工具 → 怎麼讀 → 計算方式 → 來源與截止日 → 常見問題
+ * → 連回主頁與相關工具 → 免責聲明；結構化資料 WebApplication／FAQPage／BreadcrumbList。
+ * 協調者的 ToolPage 外殼（topics-foundation 分支）到位後，這支可以換成薄殼；文案與 vars 不用動。
+ */
+import '../styles/budget.css';
+import '../styles/health.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import LtcSubsidy from '../components/health/tools/LtcSubsidy.astro';
+import LtcEligibility from '../components/health/tools/LtcEligibility.astro';
+import NhiPremium from '../components/health/tools/NhiPremium.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import { useHealthT, healthPath } from '../i18n/health';
+import { toolPages } from '../i18n/health/toolpages';
+import ltc from '../data/health/ltc-rules.json';
+import nhi from '../data/health/nhi-rules.json';
+import { calcPremium, calcSupplementary } from '../utils/health/nhiCalc';
+
+interface Props {
+  slug:
+    | 'long-term-care-subsidy'
+    | 'long-term-care-eligibility'
+    | 'nhi-premium-calculator';
+}
+const { slug } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const zh = lang === 'zh-TW';
+const t = useHealthT(lang);
+const copy = toolPages[slug][zh ? 'zh' : 'en'];
+const nf = (n: number) => n.toLocaleString('en-US');
+
+// 文案裡的 {佔位} 全部從規則檔算出來，不手抄數字
+const ex = calcPremium(nhi as any, { category: 'employee', salary: 45800 });
+const vars: Record<string, string | number> = {
+  year: 2026,
+  asOf: slug === 'nhi-premium-calculator' ? nhi.asOf : ltc.asOf,
+  q2: nf(ltc.care.monthly['2']),
+  q8: nf(ltc.care.monthly['8']),
+  assist: nf(ltc.assistive.amount),
+  assist2: nf(ltc.assistive.group2.amount),
+  assist2Since: ltc.assistive.group2.since,
+  resp1: nf(ltc.respite.yearly[0].amount),
+  resp2: nf(ltc.respite.yearly[1].amount),
+  resMonthly: nf(ltc.residential.monthlyMax),
+  resYearly: nf(ltc.residential.yearlyMax),
+  rate: (nhi.premiumRate * 100).toFixed(2),
+  supp: (nhi.supplementaryRate * 100).toFixed(2),
+  gmin: nf(nhi.grades[0]),
+  gmax: nf(nhi.grades[nhi.grades.length - 1]),
+  gn: nhi.grades.length,
+  maxDeps: nhi.maxDependents,
+  avg: nhi.avgDependents,
+  exSalary: nf(45800),
+  exSelf: nf(ex.insuredTotal),
+  regAvg: nf(nhi.regional.averagePremium),
+  regSelf: nf(Math.round(nhi.regional.averagePremium * nhi.regional.insured)),
+  suppTh: nf(nhi.supplementary.singleThreshold),
+  minWage: nf(nhi.supplementary.partTimeThreshold),
+  bonusM: nhi.supplementary.bonusMultiple,
+  exDiv: nf(
+    calcSupplementary(nhi as any, { kind: 'dividend', amount: 50000 }).premium,
+  ),
+};
+const f = (s: string) =>
+  Object.entries(vars).reduce(
+    (a, [k, v]) => a.split(`{${k}}`).join(String(v)),
+    s,
+  );
+
+const srcs =
+  slug === 'nhi-premium-calculator'
+    ? Object.values(nhi.sources).filter((s: any) => !/部分負擔/.test(s.title))
+    : Object.values(ltc.sources);
+const others = (
+  [
+    'long-term-care-subsidy',
+    'long-term-care-eligibility',
+    'nhi-premium-calculator',
+  ] as const
+).filter((s) => s !== slug);
+
+const site = 'https://taiwan.md';
+const url = `${site}${healthPath(lang, slug)}`;
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name: f(copy.h1),
+    url,
+    description: f(copy.description),
+    applicationCategory: 'FinanceApplication',
+    operatingSystem: 'Any',
+    inLanguage: lang,
+    isAccessibleForFree: true,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'TWD' },
+    dateModified: vars.asOf,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: copy.faq.map((q) => ({
+      '@type': 'Question',
+      name: f(q.q),
+      acceptedAnswer: { '@type': 'Answer', text: f(q.a) },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { name: 'Taiwan.md', item: `${site}${zh ? '/' : `/${lang}/`}` },
+      { name: t('hub.name'), item: `${site}${healthPath(lang)}` },
+      { name: f(copy.h1), item: url },
+    ].map((x, i) => ({ '@type': 'ListItem', position: i + 1, ...x })),
+  },
+];
+---
+
+<Layout
+  lang={lang}
+  title={f(copy.title)}
+  description={f(copy.description)}
+  readerSettings={true}
+>
+  <main class="budget-page health-page min-h-screen">
+    <nav class="hea-crumb" aria-label="breadcrumb">
+      <a href={healthPath(lang)}>← {t('hub.name')}</a>
+    </nav>
+    <PageHero
+      eyebrow={copy.eyebrow}
+      title={f(copy.h1)}
+      subtitle={f(copy.lead)}
+      titleSize="clamp"
+      containerWidth="wide"
+    />
+
+    <section class="bp-section" id="tool">
+      <div class="bp-wrap">
+        {
+          slug === 'long-term-care-subsidy' && (
+            <LtcSubsidy lang={lang} variant="page" />
+          )
+        }
+        {
+          slug === 'long-term-care-eligibility' && (
+            <LtcEligibility lang={lang} variant="page" />
+          )
+        }
+        {
+          slug === 'nhi-premium-calculator' && (
+            <NhiPremium lang={lang} variant="page" />
+          )
+        }
+        <aside class="hea-disclaimer" role="note">
+          <b>{t('tool.disclaimer.h')}</b>
+          {t('tool.disclaimer.p')}
+        </aside>
+      </div>
+    </section>
+
+    <section class="bp-section" id="read">
+      <div class="bp-wrap">
+        <h2 class="bp-h2">{copy.readH}</h2>
+        <div class="bp-prose">{copy.read.map((p) => <p>{f(p)}</p>)}</div>
+        <h2 class="bp-h2" style="margin-top:var(--space-6)">{copy.formulaH}</h2>
+        <div class="bp-prose">
+          <ul>{copy.formula.map((p) => <li>{f(p)}</li>)}</ul>
+        </div>
+        <h3 class="bp-h3">{t('tool.sources.h')}</h3>
+        <ul class="bp-sources">
+          {
+            srcs.map((s: any) => (
+              <li>
+                <a href={s.url} target="_blank" rel="noopener">
+                  {s.title}
+                </a>
+                （{s.date}）
+              </li>
+            ))
+          }
+        </ul>
+        <p class="bg-chart-src">{t('asof')}{vars.asOf}</p>
+      </div>
+    </section>
+
+    <section class="bp-section" id="faq">
+      <div class="bp-wrap">
+        <h2 class="bp-h2">{copy.faqH}</h2>
+        <div class="hea-faq">
+          {
+            copy.faq.map((q) => (
+              <details>
+                <summary>{f(q.q)}</summary>
+                <p>{f(q.a)}</p>
+              </details>
+            ))
+          }
+        </div>
+        <h3 class="bp-h3">{t('tool.more.h')}</h3>
+        <div class="hea-tools" style="margin-inline:0">
+          <a class="hea-tool" href={healthPath(lang)}>
+            <span class="hea-tool-k">{t('tool.more.hub.k')}</span>
+            <span class="hea-tool-t">{t('hub.name')}</span>
+            <span class="hea-tool-d">{t('tool.more.hub.d')}</span>
+          </a>
+          {
+            others.map((s) => (
+              <a class="hea-tool" href={healthPath(lang, s)}>
+                <span class="hea-tool-k">{t('tool.k')}</span>
+                <span class="hea-tool-t">{t(`tool.${s}.t`)}</span>
+                <span class="hea-tool-d">{t(`tool.${s}.d`)}</span>
+              </a>
+            ))
+          }
+          <a class="hea-tool" href={healthPath(lang, 'advance-care-planning')}>
+            <span class="hea-tool-k">{t('tool.k.guide')}</span>
+            <span class="hea-tool-t">{t('tool.advance-care-planning.t')}</span>
+            <span class="hea-tool-d">{t('tool.advance-care-planning.d')}</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+  {
+    jsonld.map((j) => (
+      <script type="application/ld+json" set:html={JSON.stringify(j)} />
+    ))
+  }
+</Layout>

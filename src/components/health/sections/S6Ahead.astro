@@ -1,0 +1,42 @@
+---
+/** §6 未來：已排定的事、沒有答案的題目。 */
+import { healthCtx } from '../../../utils/health/pageContext';
+import RelatedChips from '../RelatedChips.astro';
+import type { RelItem } from '../../../utils/health/related';
+interface Props {
+  lang: string;
+  related: RelItem[];
+}
+const { lang, related } = Astro.props;
+const { t, r } = healthCtx(lang);
+---
+
+<section class="bp-section" id="s6">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('s6.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('s6.h2')}</h2>
+    <p class="bp-lede" set:html={r('s6.lede')} />
+    <div class="bp-versus">
+      <div class="bp-side side-b">
+        <h4>{t('s6.sched.h')}</h4>
+        <ul>
+          {[1, 2, 3, 4].map((n) => <li set:html={r(`s6.sched.${n}`)} />)}
+        </ul>
+      </div>
+      <div class="bp-side side-a">
+        <h4>{t('s6.open.h')}</h4>
+        <ul>
+          {[1, 2, 3, 4].map((n) => <li set:html={r(`s6.open.${n}`)} />)}
+        </ul>
+      </div>
+    </div>
+    <div class="bp-prose">
+      <p set:html={r('s6.p1')} />
+    </div>
+    <RelatedChips
+      items={related}
+      label={t('related.h')}
+      pendingLabel={t('pending')}
+    />
+  </div>
+</section>
