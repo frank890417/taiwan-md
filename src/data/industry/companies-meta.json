@@ -1,0 +1,561 @@
+{
+  "generated": "2026-11-10",
+  "basicDataAsOf": "2026-11-09",
+  "prevSnapshot": "2026-06",
+  "sources": [
+    {
+      "title": "上市公司基本資料",
+      "publisher": "臺灣證券交易所",
+      "url": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+      "file": "twse-t187ap03_L-20261110.json"
+    },
+    {
+      "title": "上櫃公司基本資料",
+      "publisher": "證券櫃檯買賣中心",
+      "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
+      "file": "tpex-mopsfin_t187ap03_O-20261110.json"
+    }
+  ],
+  "companies": {
+    "2330": {
+      "county": "新竹市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "1994-09-05",
+      "prevRank": 1,
+      "prevCap": 590000
+    },
+    "2454": {
+      "county": "新竹市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2001-07-23",
+      "prevRank": 3,
+      "prevCap": 44600
+    },
+    "2308": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "1988-12-19",
+      "prevRank": 2,
+      "prevCap": 59900
+    },
+    "2317": {
+      "county": "新北市",
+      "market": "TWSE",
+      "industryCode": "31",
+      "industry": "其他電子業",
+      "listed": "1991-06-18",
+      "prevRank": 4,
+      "prevCap": 32700
+    },
+    "3711": {
+      "county": "高雄市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2018-04-30",
+      "prevRank": 5,
+      "prevCap": 22700
+    },
+    "1303": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "03",
+      "industry": "塑膠工業",
+      "listed": "1967-11-15",
+      "prevRank": 20,
+      "prevCap": 7600
+    },
+    "2881": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2001-12-19",
+      "prevRank": 9,
+      "prevCap": 13400
+    },
+    "2383": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "1998-11-27",
+      "prevRank": 6,
+      "prevCap": 17400
+    },
+    "3037": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "2002-08-26",
+      "prevRank": 7,
+      "prevCap": 14800
+    },
+    "2882": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2001-12-31",
+      "prevRank": 11,
+      "prevCap": 12100
+    },
+    "2303": {
+      "county": "新竹市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "1985-07-16",
+      "prevRank": 15,
+      "prevCap": 10400
+    },
+    "2891": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-05-17",
+      "prevRank": 14,
+      "prevCap": 11000
+    },
+    "2408": {
+      "county": "新北市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2000-08-17",
+      "prevRank": 23,
+      "prevCap": 7100
+    },
+    "2382": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "1999-01-08",
+      "prevRank": 10,
+      "prevCap": 12900
+    },
+    "3017": {
+      "county": "高雄市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "2002-09-27",
+      "prevRank": 12,
+      "prevCap": 11800
+    },
+    "2412": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "27",
+      "industry": "通信網路業",
+      "listed": "2000-10-27",
+      "prevRank": 13,
+      "prevCap": 11200
+    },
+    "2887": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-02-18",
+      "prevRank": 26,
+      "prevCap": 6300
+    },
+    "2327": {
+      "county": "新北市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "1993-10-22",
+      "prevRank": 24,
+      "prevCap": 7000
+    },
+    "6669": {
+      "county": "新北市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "2019-03-27",
+      "prevRank": 18,
+      "prevCap": 9300
+    },
+    "3443": {
+      "county": "新竹市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2006-11-03",
+      "prevRank": 28,
+      "prevCap": 6100
+    },
+    "6505": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "23",
+      "industry": "油電燃氣",
+      "listed": "2003-12-26",
+      "prevRank": 30,
+      "prevCap": 5700
+    },
+    "2885": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-02-04",
+      "prevRank": 22,
+      "prevCap": 7400
+    },
+    "2345": {
+      "county": "新竹縣",
+      "market": "TWSE",
+      "industryCode": "27",
+      "industry": "通信網路業",
+      "listed": "1995-11-15",
+      "prevRank": 8,
+      "prevCap": 13600
+    },
+    "7769": {
+      "county": "臺中市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2025-11-27",
+      "prevRank": 17,
+      "prevCap": 9500
+    },
+    "2059": {
+      "county": "高雄市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "2008-06-25",
+      "prevRank": 44,
+      "prevCap": 4000
+    },
+    "3653": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "2009-11-18",
+      "prevRank": 19,
+      "prevCap": 8400
+    },
+    "2884": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-01-28",
+      "prevRank": 31,
+      "prevCap": 5500
+    },
+    "2360": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "31",
+      "industry": "其他電子業",
+      "listed": "1996-12-21",
+      "prevRank": 16,
+      "prevCap": 9600
+    },
+    "2886": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-02-04",
+      "prevRank": 27,
+      "prevCap": 6200
+    },
+    "8046": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "2006-04-07",
+      "prevRank": 25,
+      "prevCap": 6900
+    },
+    "3008": {
+      "county": "臺中市",
+      "market": "TWSE",
+      "industryCode": "26",
+      "industry": "光電業",
+      "listed": "2002-03-11",
+      "prevRank": 48,
+      "prevCap": 3600
+    },
+    "2880": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2001-12-19",
+      "prevRank": 34,
+      "prevCap": 4750
+    },
+    "2357": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "1996-11-14",
+      "prevRank": 37,
+      "prevCap": 4600
+    },
+    "2344": {
+      "county": "臺中市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "1995-10-18",
+      "prevRank": 40,
+      "prevCap": 4300
+    },
+    "2890": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2002-05-09",
+      "prevRank": 33,
+      "prevCap": 4800
+    },
+    "5274": {
+      "county": "新竹市",
+      "market": "TPEx",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2013-04-30",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "3231": {
+      "county": "新竹縣",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "2003-08-19",
+      "prevRank": 36,
+      "prevCap": 4650
+    },
+    "4958": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "2011-12-26",
+      "prevRank": 32,
+      "prevCap": 4800
+    },
+    "2883": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2001-12-28",
+      "prevRank": 46,
+      "prevCap": 3900
+    },
+    "2892": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2003-01-02",
+      "prevRank": 39,
+      "prevCap": 4400
+    },
+    "2301": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "1995-11-17",
+      "prevRank": 42,
+      "prevCap": 4100
+    },
+    "2368": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "28",
+      "industry": "電子零組件業",
+      "listed": "1998-03-09",
+      "prevRank": 21,
+      "prevCap": 7600
+    },
+    "2395": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "25",
+      "industry": "電腦及週邊設備業",
+      "listed": "1999-12-13",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "2603": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "15",
+      "industry": "航運業",
+      "listed": "1987-09-21",
+      "prevRank": 35,
+      "prevCap": 4700
+    },
+    "3189": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2004-11-01",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "3045": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "27",
+      "industry": "通信網路業",
+      "listed": "2002-08-26",
+      "prevRank": 38,
+      "prevCap": 4400
+    },
+    "6446": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "22",
+      "industry": "生技醫療",
+      "listed": "2024-01-25",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "6223": {
+      "county": "新竹縣",
+      "market": "TPEx",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2003-01-06",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "1301": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "03",
+      "industry": "塑膠工業",
+      "listed": "1964-07-27",
+      "prevRank": 50,
+      "prevCap": 3500
+    },
+    "5880": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "17",
+      "industry": "金融保險",
+      "listed": "2011-12-01",
+      "prevRank": 47,
+      "prevCap": 3800
+    },
+    "2002": {
+      "county": "高雄市",
+      "market": "TWSE",
+      "industryCode": "10",
+      "industry": "鋼鐵工業",
+      "listed": "1974-12-26",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "2498": {
+      "county": "桃園市",
+      "market": "TWSE",
+      "industryCode": "27",
+      "industry": "通信網路業",
+      "listed": "2002-03-26",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "1101": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "01",
+      "industry": "水泥工業",
+      "listed": "1962-02-09",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "1402": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "04",
+      "industry": "紡織纖維",
+      "listed": "1967-04-14",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "9921": {
+      "county": "臺中市",
+      "market": "TWSE",
+      "industryCode": "37",
+      "industry": "運動休閒",
+      "listed": "1994-12-29",
+      "prevRank": null,
+      "prevCap": null
+    },
+    "1216": {
+      "county": "臺南市",
+      "market": "TWSE",
+      "industryCode": "02",
+      "industry": "食品工業",
+      "listed": "1987-12-28",
+      "prevRank": 41,
+      "prevCap": 4200
+    },
+    "4904": {
+      "county": "臺北市",
+      "market": "TWSE",
+      "industryCode": "27",
+      "industry": "通信網路業",
+      "listed": "2005-08-24",
+      "prevRank": 49,
+      "prevCap": 3500
+    },
+    "3665": {
+      "county": "新北市",
+      "market": "TWSE",
+      "industryCode": "31",
+      "industry": "其他電子業",
+      "listed": "2011-04-21",
+      "prevRank": 29,
+      "prevCap": 5800
+    },
+    "2449": {
+      "county": "新竹市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2001-05-09",
+      "prevRank": 45,
+      "prevCap": 3900
+    },
+    "6515": {
+      "county": "高雄市",
+      "market": "TWSE",
+      "industryCode": "24",
+      "industry": "半導體業",
+      "listed": "2021-01-20",
+      "prevRank": 43,
+      "prevCap": 4000
+    }
+  }
+}

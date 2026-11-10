@@ -13,6 +13,15 @@ import {
   localizeCompanyArticleUrls,
   sectorColors,
 } from '../utils/dataConfig';
+import { useIndustryT } from '../i18n/industry';
+import {
+  assignRanks,
+  groupBy,
+  rankDelta,
+  summarize,
+  type RankRow,
+} from '../utils/companiesRank';
+import companiesMeta from '../data/industry/companies-meta.json';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -52,6 +61,37 @@ const money = (v: number) =>
   isZhPage
     ? v.toLocaleString()
     : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
+
+// ── 排行表升級（2026-11 產業專題）：總部縣市、證交所產業別、上一版名次 ──────
+// 補充欄位由 scripts/tools/industry-companies-meta.py 從證交所／櫃買基本資料表產生；
+// 排序篩選的邏輯在 src/utils/companiesRank.ts（SSR 與下方 <script> 共用，測試在 tests/）。
+// 表格本體照舊 SSR 五十列，互動只是在既有列上重排與隱藏，關掉 JS 內容不變。
+const ti = useIndustryT(lang);
+const metaOf = (ticker: string) =>
+  (companiesMeta.companies as Record<string, any>)[ticker];
+const ranked = assignRanks(companies).map((c) => {
+  const m = metaOf(c.ticker);
+  return {
+    ...c,
+    industryCode: (m?.industryCode ?? '') as string,
+    county: (m?.county ?? '') as string,
+    prevRank: (m?.prevRank ?? null) as number | null,
+  };
+});
+const rankRows: RankRow[] = ranked;
+const top50Cap = summarize(rankRows).capSum;
+const industryOptions = groupBy(rankRows, 'industryCode');
+const countyOptions = groupBy(rankRows, 'county');
+const changeLabel = (c: { rank: number; prevRank: number | null }) => {
+  const d = rankDelta(c);
+  if (d === null) return { cls: 'is-new', text: ti('co.change.new'), mark: '' };
+  if (d === 0) return { cls: 'is-same', text: ti('co.change.same'), mark: '–' };
+  return d > 0
+    ? { cls: 'is-up', text: ti('co.change.up', { n: d }), mark: `▲${d}` }
+    : { cls: 'is-down', text: ti('co.change.down', { n: -d }), mark: `▼${-d}` };
+};
+const industryHref = translatePath('/industry/');
+const chainsHref = translatePath('/industry/supply-chains/');
 ---
 
 <Layout
@@ -92,6 +132,22 @@ const money = (v: number) =>
         <p>{t('data.companies.story.p2')}</p>
       </div>
     </section>
+
+    <!-- 專題入口：榜單的脈絡在 /industry -->
+    <aside class="topic-entry" aria-label={ti('co.topic.h')}>
+      <div class="topic-entry-body">
+        <h2 class="topic-entry-h">{ti('co.topic.h')}</h2>
+        <p>{ti('co.topic.p')}</p>
+      </div>
+      <div class="topic-entry-cta">
+        <a href={industryHref} class="topic-entry-btn is-primary">
+          {ti('co.topic.cta1')} →
+        </a>
+        <a href={chainsHref} class="topic-entry-btn">
+          {ti('co.topic.cta2')} →
+        </a>
+      </div>
+    </aside>
 
     <!-- Bubble chart controls -->
     <div
@@ -188,26 +244,100 @@ const money = (v: number) =>
     </div>
 
     <!-- Full ranking table — the machine-readable SSOT behind the bubbles -->
-    <section class="table-section">
+    <section class="table-section" id="rank">
       <h2 class="section-title">{t('data.companies.table.heading')}</h2>
+      <div class="rank-disclaimer" role="note">
+        <strong>{ti('co.disclaimer.h')}</strong>
+        <p>{ti('co.disclaimer.p', { date: COMPANIES_SNAPSHOT_DATE })}</p>
+      </div>
+      <form
+        class="rank-controls"
+        id="rank-controls"
+        aria-label={ti('co.ctl.h')}
+        data-top50={top50Cap}
+        data-lang={lang}
+        data-unit={ti('co.unit.money')}
+        data-summary={ti('co.summary')}
+        data-empty={ti('co.summary.empty')}
+        hidden
+      >
+        <label>
+          <span>{ti('co.ctl.sort')}</span>
+          <select name="sort">
+            <option value="rank">{ti('co.sort.rank')}</option>
+            <option value="marketCap">{ti('co.sort.marketCap')}</option>
+            <option value="revenue">{ti('co.sort.revenue')}</option>
+            <option value="employees">{ti('co.sort.employees')}</option>
+            <option value="founded">{ti('co.sort.founded')}</option>
+          </select>
+        </label>
+        <label>
+          <span>{ti('co.ctl.industry')}</span>
+          <select name="industry">
+            <option value="">{ti('co.ctl.all')}</option>
+            {
+              industryOptions.map((g) => (
+                <option value={g.key}>
+                  {ti(`tse.${g.key}` as any)}（{g.count}）
+                </option>
+              ))
+            }
+          </select>
+        </label>
+        <label>
+          <span>{ti('co.ctl.county')}</span>
+          <select name="county">
+            <option value="">{ti('co.ctl.all')}</option>
+            {
+              countyOptions.map((g) => (
+                <option value={g.key}>
+                  {ti(`county.${g.key}` as any)}（{g.count}）
+                </option>
+              ))
+            }
+          </select>
+        </label>
+        <button type="reset" class="rank-reset">{ti('co.ctl.reset')}</button>
+      </form>
+      <p class="rank-summary" id="rank-summary" aria-live="polite" hidden></p>
       <div class="table-wrap">
-        <table>
+        <table id="rank-table">
           <thead>
             <tr>
-              <th>{t('data.companies.table.rank')}</th>
+              <th data-sort="rank">{t('data.companies.table.rank')}</th>
               <th>{t('data.companies.table.company')}</th>
               <th>{t('data.companies.table.sector')}</th>
-              <th class="num">{t('data.companies.table.marketCap')}</th>
-              <th class="num">{t('data.companies.table.revenue')}</th>
-              <th class="num">{t('data.companies.table.employees')}</th>
-              <th class="num">{t('data.companies.table.founded')}</th>
+              <th class="num" data-sort="marketCap"
+                >{t('data.companies.table.marketCap')}</th
+              >
+              <th class="num" data-sort="revenue"
+                >{t('data.companies.table.revenue')}</th
+              >
+              <th class="num" data-sort="employees"
+                >{t('data.companies.table.employees')}</th
+              >
+              <th class="num" data-sort="founded"
+                >{t('data.companies.table.founded')}</th
+              >
+              <th>{ti('co.col.hq')}</th>
+              <th>{ti('co.col.change')}</th>
             </tr>
           </thead>
           <tbody>
             {
-              companies.map((c, i) => (
-                <tr>
-                  <td>{i + 1}</td>
+              ranked.map((c) => (
+                <tr
+                  id={`c-${c.ticker}`}
+                  data-rank={c.rank}
+                  data-cap={c.marketCap}
+                  data-rev={c.revenue}
+                  data-emp={c.employees}
+                  data-founded={c.founded}
+                  data-ind={c.industryCode}
+                  data-county={c.county}
+                  data-prev={c.prevRank ?? ''}
+                >
+                  <td>{c.rank}</td>
                   <td>
                     {c.articleUrl ? (
                       <a href={c.articleUrl} class="company-link">
@@ -230,12 +360,28 @@ const money = (v: number) =>
                   <td class="num">{money(c.revenue)}</td>
                   <td class="num">{c.employees.toLocaleString()}</td>
                   <td class="num">{c.founded}</td>
+                  <td class="hq">
+                    {c.county ? ti(`county.${c.county}` as any) : '—'}
+                  </td>
+                  <td class={`chg ${changeLabel(c).cls}`}>
+                    {changeLabel(c).mark ? (
+                      <span title={changeLabel(c).text}>
+                        {changeLabel(c).mark}
+                      </span>
+                    ) : (
+                      changeLabel(c).text
+                    )}
+                  </td>
                 </tr>
               ))
             }
           </tbody>
         </table>
       </div>
+      <p class="rank-note">{ti('co.note.change')}</p>
+      <p class="rank-note">
+        {ti('co.note.hq', { date: companiesMeta.basicDataAsOf })}
+      </p>
     </section>
 
     <!-- Who fell off -->
@@ -585,6 +731,141 @@ const money = (v: number) =>
     }
   </script>
 
+  <!-- 排行表排序／篩選：漸進增強。邏輯在 src/utils/companiesRank.ts，這裡只做 DOM。 -->
+  <script>
+    import {
+      applyState,
+      defaultDir,
+      displayMoney,
+      parseState,
+      serializeState,
+      summarize,
+      DEFAULT_STATE,
+      type RankRow,
+      type RankState,
+      type SortKey,
+    } from '../utils/companiesRank';
+
+    const form = document.getElementById(
+      'rank-controls',
+    ) as HTMLFormElement | null;
+    const table = document.getElementById('rank-table');
+    const summaryEl = document.getElementById('rank-summary');
+    if (form && table && summaryEl) {
+      const tbody = table.querySelector('tbody')!;
+      const trs = Array.from(tbody.querySelectorAll<HTMLTableRowElement>('tr'));
+      const byTicker = new Map<string, HTMLTableRowElement>();
+      const rows: RankRow[] = trs.map((tr) => {
+        const d = tr.dataset;
+        const ticker = tr.id.replace(/^c-/, '');
+        byTicker.set(ticker, tr);
+        return {
+          ticker,
+          rank: Number(d.rank),
+          marketCap: Number(d.cap),
+          revenue: Number(d.rev),
+          employees: Number(d.emp),
+          founded: Number(d.founded),
+          industryCode: d.ind || '',
+          county: d.county || '',
+          prevRank: d.prev ? Number(d.prev) : null,
+        };
+      });
+      const top50 = Number(form.dataset.top50);
+      const lang = form.dataset.lang || 'zh-TW';
+      const heads = Array.from(
+        table.querySelectorAll<HTMLTableCellElement>('th[data-sort]'),
+      );
+      let state: RankState = parseState(location.hash);
+
+      const render = (pushHash: boolean) => {
+        const shown = applyState(rows, state);
+        const keep = new Set(shown.map((r) => r.ticker));
+        for (const [ticker, tr] of byTicker) tr.hidden = !keep.has(ticker);
+        for (const r of shown) tbody.appendChild(byTicker.get(r.ticker)!);
+        const s = summarize(shown, top50);
+        summaryEl.textContent = s.count
+          ? (form.dataset.summary || '')
+              .replace('{n}', String(s.count))
+              .replace(
+                '{cap}',
+                `${displayMoney(s.capSum, lang).toLocaleString()} ${form.dataset.unit}`,
+              )
+              .replace('{pct}', (s.capSharePct ?? 0).toFixed(1))
+          : form.dataset.empty || '';
+        for (const th of heads) {
+          const on = th.dataset.sort === state.sort;
+          th.setAttribute(
+            'aria-sort',
+            on ? (state.dir === 'asc' ? 'ascending' : 'descending') : 'none',
+          );
+        }
+        (form.elements.namedItem('sort') as HTMLSelectElement).value =
+          state.sort;
+        (form.elements.namedItem('industry') as HTMLSelectElement).value =
+          state.industry;
+        (form.elements.namedItem('county') as HTMLSelectElement).value =
+          state.county;
+        if (pushHash) {
+          const h = serializeState(state);
+          history.replaceState(
+            null,
+            '',
+            h || location.pathname + location.search,
+          );
+        }
+      };
+
+      form.addEventListener('change', () => {
+        const sort = (form.elements.namedItem('sort') as HTMLSelectElement)
+          .value as SortKey;
+        state = {
+          sort,
+          dir: sort === state.sort ? state.dir : defaultDir(sort),
+          industry: (form.elements.namedItem('industry') as HTMLSelectElement)
+            .value,
+          county: (form.elements.namedItem('county') as HTMLSelectElement)
+            .value,
+        };
+        render(true);
+      });
+      form.addEventListener('reset', (e) => {
+        e.preventDefault();
+        state = { ...DEFAULT_STATE };
+        render(true);
+      });
+      for (const th of heads) {
+        th.tabIndex = 0;
+        th.setAttribute('role', 'columnheader');
+        const act = () => {
+          const key = th.dataset.sort as SortKey;
+          state = {
+            ...state,
+            sort: key,
+            dir:
+              state.sort === key
+                ? state.dir === 'asc'
+                  ? 'desc'
+                  : 'asc'
+                : defaultDir(key),
+          };
+          render(true);
+        };
+        th.addEventListener('click', act);
+        th.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            act();
+          }
+        });
+      }
+      form.hidden = false;
+      summaryEl.hidden = false;
+      table.classList.add('is-sortable');
+      render(false);
+    }
+  </script>
+
   <style>
     .story-intro {
       max-width: 1100px;
@@ -750,7 +1031,7 @@ const money = (v: number) =>
 
     /* Ranking table */
     .table-section {
-      max-width: 1100px;
+      max-width: 1240px;
       margin: 4rem auto 0;
       padding: 0 2rem;
     }
@@ -765,7 +1046,7 @@ const money = (v: number) =>
       width: 100%;
       border-collapse: collapse;
       font-size: 0.85rem;
-      min-width: 640px;
+      min-width: 860px;
     }
 
     .table-wrap th {
@@ -788,7 +1069,7 @@ const money = (v: number) =>
 
     .table-wrap td {
       border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-      padding: 0.6rem 1rem;
+      padding: 0.6rem 0.85rem;
       color: #e2e8f0;
     }
 
@@ -892,6 +1173,167 @@ const money = (v: number) =>
       color: #cbd5e1;
       line-height: 1.55;
       margin: 0;
+    }
+
+    /* 排行表升級：聲明、控制列、名次變化 */
+    .rank-disclaimer {
+      margin: 0 auto 1.25rem;
+      border: 1px solid rgba(251, 191, 36, 0.35);
+      border-left: 4px solid #fbbf24;
+      border-radius: 10px;
+      background: rgba(251, 191, 36, 0.07);
+      padding: 0.9rem 1.1rem;
+    }
+    .rank-disclaimer strong {
+      display: block;
+      color: #fde68a;
+      font-size: 0.95rem;
+    }
+    .rank-disclaimer p {
+      margin: 0.3rem 0 0;
+      color: #cbd5e1;
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+    .rank-controls {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      gap: 0.75rem 1rem;
+      margin-bottom: 0.75rem;
+    }
+    .rank-controls[hidden],
+    .rank-summary[hidden] {
+      display: none;
+    }
+    .rank-controls label {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      font-size: 0.78rem;
+      color: #94a3b8;
+    }
+    .rank-controls select,
+    .rank-reset {
+      min-height: 2.5rem;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 8px;
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 0.4rem 0.75rem;
+      font-size: 0.9rem;
+    }
+    .rank-reset {
+      cursor: pointer;
+    }
+    .rank-reset:hover {
+      border-color: #38bdf8;
+    }
+    .rank-summary {
+      margin: 0 0 0.75rem;
+      color: #cbd5e1;
+      font-size: 0.88rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .table-wrap table.is-sortable th[data-sort] {
+      cursor: pointer;
+      user-select: none;
+    }
+    .table-wrap table.is-sortable th[data-sort]::after {
+      content: ' ↕';
+      opacity: 0.35;
+      font-size: 0.75em;
+    }
+    .table-wrap table.is-sortable th[aria-sort='ascending']::after {
+      content: ' ▲';
+      opacity: 1;
+      color: #38bdf8;
+    }
+    .table-wrap table.is-sortable th[aria-sort='descending']::after {
+      content: ' ▼';
+      opacity: 1;
+      color: #38bdf8;
+    }
+    .table-wrap td.hq {
+      white-space: nowrap;
+      color: #cbd5e1;
+    }
+    .table-wrap td.chg {
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+      color: #94a3b8;
+    }
+    .table-wrap td.chg.is-up {
+      color: #5eead4;
+    }
+    .table-wrap td.chg.is-down {
+      color: #fdba74;
+    }
+    .table-wrap td.chg.is-new {
+      color: #c4b5fd;
+      font-size: 0.78rem;
+    }
+    .table-wrap tr[hidden] {
+      display: none;
+    }
+    .rank-note {
+      margin: 0.75rem 0 0;
+      color: #94a3b8;
+      font-size: 0.78rem;
+      line-height: 1.7;
+    }
+
+    /* 專題入口 */
+    .topic-entry {
+      max-width: 1100px;
+      margin: 0 auto 2.5rem;
+      padding: 0 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem 2rem;
+    }
+    .topic-entry-body {
+      flex: 1 1 320px;
+      border-left: 3px solid #818cf8;
+      padding-left: 1rem;
+    }
+    .topic-entry-h {
+      margin: 0 0 0.3rem;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #f8fafc;
+    }
+    .topic-entry-body p {
+      margin: 0;
+      color: #cbd5e1;
+      font-size: 0.92rem;
+      line-height: 1.75;
+    }
+    .topic-entry-cta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+    .topic-entry-btn {
+      display: inline-flex;
+      align-items: center;
+      min-height: 2.75rem;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 999px;
+      padding: 0.5rem 1.1rem;
+      color: #e2e8f0;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .topic-entry-btn.is-primary {
+      border-color: transparent;
+      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      color: #0b1220;
+    }
+    .topic-entry-btn:hover {
+      border-color: #38bdf8;
     }
 
     /* Method note */

@@ -1,0 +1,18 @@
+{
+  "_note": "基本資料表的住址省略縣市時的人工對照。每筆附公司官網的地址頁。",
+  "2330": {
+    "county": "新竹市",
+    "why": "登記住址「新竹科學園區力行六路8號」未寫縣市；台積電官網總部地址為新竹市力行六路8號",
+    "url": "https://www.tsmc.com/chinese/aboutTSMC/TSMC_Fabs"
+  },
+  "2454": {
+    "county": "新竹市",
+    "why": "登記住址「新竹科學園區篤行一路1號」未寫縣市；聯發科官網總部地址為新竹市篤行一路1號",
+    "url": "https://www.mediatek.tw/about/contact-us"
+  },
+  "6223": {
+    "county": "新竹縣",
+    "why": "櫃買英文地址 Chu-Pei City, Hsinchu Hsiang＝新竹縣竹北市",
+    "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O"
+  }
+}
