@@ -1,7 +1,7 @@
 # 「台灣人的名字」需求面：誰在搜、搜什麼
 
 取數：`python3 scripts/tools/sc-query.py`，Search Console，窗口 2026-10-11 至 2026-11-07（28 天），2026-11-10 取。
-原始列：[`names-sc-query-country-raw.json`](names-sc-query-country-raw.json)（查詢 × 國家，2,010 列，頁面過濾 `common-taiwanese-names`）。
+原始列（查詢 × 國家，2,010 列，頁面過濾 `common-taiwanese-names`）沒有進版：原始查詢字串可能含有人搜尋的真實姓名。要重現，用同一支指令加 `--dims query,country --json` 重取。本檔只留彙總數字與分群規則，引用的查詢例子都不含人名。
 
 ## 一、頁面層
 
