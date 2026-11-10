@@ -47,7 +47,7 @@ for (const [name, path] of PAGES) {
       });
       await ctx.addInitScript((t) => {
         try {
-          localStorage.setItem('theme', t);
+          localStorage.setItem('tw-md-theme', t);
         } catch {}
       }, theme);
       const page = await ctx.newPage();

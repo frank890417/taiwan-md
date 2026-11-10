@@ -22,6 +22,8 @@ import {
   type RankRow,
 } from '../utils/companiesRank';
 import companiesMeta from '../data/industry/companies-meta.json';
+import industrySeries from '../data/industry/series.json';
+import TopTenHistory from '../components/industry/TopTenHistory.astro';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -90,6 +92,21 @@ const changeLabel = (c: { rank: number; prevRank: number | null }) => {
     ? { cls: 'is-up', text: ti('co.change.up', { n: d }), mark: `▲${d}` }
     : { cls: 'is-down', text: ti('co.change.down', { n: -d }), mark: `▼${-d}` };
 };
+// 歷年年底前十名（證交所歷史股數 × 收盤價；資料與 /industry §5 同一份）
+const mh = (industrySeries as any).marketHistory as any | undefined;
+const mhCols = mh
+  ? mh.years.filter((x: any) => (mh.pick as string[]).includes(x.label))
+  : [];
+const mhNames: Record<string, string> = {};
+if (mh && lang !== 'zh-TW') {
+  for (const c of [...companies, ...fellOff]) // 「Hon Hai Foxconn 鴻海」這種雙語名在窄欄裡只留拉丁字那一段
+    mhNames[c.ticker] =
+      c.name.replace(/\s+[\u3400-\u9fff][\s\S]*$/, '') || c.name;
+  for (const x of mh.years)
+    for (const c of x.top)
+      if (!mhNames[c.code] && ti(`mh.${c.code}`) !== `mh.${c.code}`)
+        mhNames[c.code] = ti(`mh.${c.code}`);
+}
 const industryHref = translatePath('/industry/');
 const chainsHref = translatePath('/industry/supply-chains/');
 ---
@@ -413,6 +430,34 @@ const chainsHref = translatePath('/industry/supply-chains/');
         }
       </div>
     </section>
+
+    <!-- 歷年年底前十名 -->
+    {
+      mh && (
+        <section class="history-section" id="history">
+          <h2 class="section-title">{ti('co.hist.h')}</h2>
+          <div class="story-text felloff-intro">
+            <p>{ti('co.hist.p')}</p>
+          </div>
+          <TopTenHistory
+            cols={mhCols}
+            names={mhNames}
+            labels={{
+              rank: ti('s5.hist.rank'),
+              top10Share: ti('s5.hist.top10'),
+              tsmcShare: ti('s5.hist.tsmc'),
+              caption: ti('s5.hist.title'),
+            }}
+          />
+          <p class="rank-note">{ti('s5.hist.note')}</p>
+          <p class="rank-note">
+            <a href={`${industryHref}#s5`} class="company-link">
+              {ti('co.hist.more')} →
+            </a>
+          </p>
+        </section>
+      )
+    }
 
     <!-- Method note -->
     <section class="method-section">
@@ -1281,6 +1326,13 @@ const chainsHref = translatePath('/industry/supply-chains/');
       color: #94a3b8;
       font-size: 0.78rem;
       line-height: 1.7;
+    }
+
+    .history-section {
+      max-width: 1100px;
+      margin: 4rem auto 0;
+      padding: 0 2rem;
+      color: #e2e8f0;
     }
 
     /* 專題入口 */

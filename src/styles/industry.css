@@ -1,0 +1,613 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * industry.css — /industry、/industry/supply-chains 專題頁專屬樣式（ip-*）
+ *
+ * 版面、字體、圖表、色彩 token 全部沿用 src/styles/budget.css（頁面 <main> 同時掛
+ * .budget-page 與 .industry-page）。這裡只放 budget.css 沒有的版型：
+ * 縣市磚圖、供應鏈流程、四軌時間軸、立場並列卡、工具卡、聲明條。
+ * 顏色一律取 budget.css 的 --bg-* token，深淺色自動跟著切。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.industry-page {
+  --ip-accent: var(--bg-cat-0);
+  --ip-warm: var(--bg-cat-1);
+  --ip-card: var(--bg-panel);
+  --ip-border: var(--color-border);
+}
+
+/* ── 聲明條 ───────────────────────────────────────────────────────── */
+.industry-page .ip-disclaimer {
+  margin: 1.25rem auto 0;
+  max-width: 760px;
+  border: 1px solid var(--ip-border);
+  border-left: 4px solid var(--bg-cat-3);
+  border-radius: 10px;
+  background: var(--ip-card);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.86rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-disclaimer b {
+  color: var(--bg-ink);
+}
+
+/* ── 語言提示（該語言還沒有譯文時） ─────────────────────────────── */
+.industry-page .ip-langnote {
+  margin: 0.75rem auto 0;
+  max-width: 760px;
+  font-size: 0.8rem;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 四軌時間軸 ───────────────────────────────────────────────────── */
+.industry-page .ip-tl-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.25rem;
+}
+.industry-page .ip-tl-filter button {
+  min-height: 2.5rem;
+  border: 1px solid var(--ip-border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--bg-ink);
+  padding: 0.35rem 0.9rem;
+  font: inherit;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+.industry-page .ip-tl-filter button[aria-pressed='true'] {
+  border-color: var(--bg-hi);
+  background: var(--bg-hi);
+  color: var(--color-bg);
+}
+.industry-page .ip-tl-dot {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  margin-right: 0.35rem;
+  vertical-align: baseline;
+}
+.industry-page .ip-track-policy {
+  background: var(--bg-cat-0);
+}
+.industry-page .ip-track-company {
+  background: var(--bg-cat-1);
+}
+.industry-page .ip-track-market {
+  background: var(--bg-cat-2);
+}
+.industry-page .ip-track-world {
+  background: var(--bg-cat-6);
+}
+.industry-page .ip-era {
+  margin: 1.75rem 0 0.5rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--bg-ink);
+}
+.industry-page .ip-era small {
+  margin-left: 0.5rem;
+  font-family: var(--bp-font-body);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-tl {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px solid var(--ip-border);
+}
+.industry-page .ip-tl-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 6.2rem 1fr;
+  gap: 0.25rem 1rem;
+  padding: 0.55rem 0 0.55rem 1.1rem;
+}
+.industry-page .ip-tl-item[hidden] {
+  display: none;
+}
+.industry-page .ip-tl-item::before {
+  content: '';
+  position: absolute;
+  left: -0.42rem;
+  top: 1rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  border: 2px solid var(--color-bg);
+  background: var(--ip-dot, var(--bg-mute));
+}
+.industry-page .ip-tl-item.is-policy {
+  --ip-dot: var(--bg-cat-0);
+}
+.industry-page .ip-tl-item.is-company {
+  --ip-dot: var(--bg-cat-1);
+}
+.industry-page .ip-tl-item.is-market {
+  --ip-dot: var(--bg-cat-2);
+}
+.industry-page .ip-tl-item.is-world {
+  --ip-dot: var(--bg-cat-6);
+}
+.industry-page .ip-tl-date {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.86rem;
+  color: var(--bg-ink-soft);
+  padding-top: 0.1rem;
+}
+.industry-page .ip-tl-title {
+  font-weight: 700;
+  color: var(--bg-ink);
+  line-height: 1.5;
+}
+.industry-page .ip-tl-fact {
+  margin: 0.15rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-tl-more {
+  font-size: 0.84rem;
+  margin-left: 0.35rem;
+}
+@media (max-width: 720px) {
+  .industry-page .ip-tl-item {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── 制度工具卡／工具卡／三欄 ─────────────────────────────────────── */
+.industry-page .ip-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+.industry-page .ip-card {
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 1rem 1.1rem;
+}
+.industry-page .ip-card h4 {
+  margin: 0 0 0.4rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.02rem;
+  color: var(--bg-ink);
+}
+.industry-page .ip-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-card p + p {
+  margin-top: 0.5rem;
+}
+.industry-page .ip-card ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-card li + li {
+  margin-top: 0.35rem;
+}
+.industry-page .ip-card.is-a {
+  border-top: 3px solid var(--bg-cat-2);
+}
+.industry-page .ip-card.is-b {
+  border-top: 3px solid var(--bg-cat-1);
+}
+.industry-page .ip-card.is-c {
+  border-top: 3px solid var(--bg-cat-6);
+}
+.industry-page a.ip-card {
+  display: block;
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.industry-page a.ip-card:hover {
+  border-color: var(--ip-accent);
+}
+.industry-page .ip-card-k {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-card-cta {
+  display: inline-block;
+  margin-top: 0.6rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--ip-accent);
+}
+
+/* ── 立場並列 ─────────────────────────────────────────────────────── */
+.industry-page .ip-debate {
+  margin: 2rem 0 0;
+  padding-top: 1.5rem;
+  border-top: 1px dashed var(--ip-border);
+}
+.industry-page .ip-debate:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+.industry-page .ip-debate-q {
+  margin: 0 0 0.35rem;
+  font-family: var(--bp-font-head);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--bg-ink);
+}
+.industry-page .ip-debate-ctx {
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-voices {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+  gap: 0.9rem;
+}
+.industry-page .ip-voice {
+  margin: 0;
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 0.9rem 1rem;
+}
+.industry-page .ip-voice.is-concern {
+  border-left: 4px solid var(--bg-cat-1);
+}
+.industry-page .ip-voice.is-response {
+  border-left: 4px solid var(--bg-cat-0);
+}
+.industry-page .ip-voice.is-other {
+  border-left: 4px solid var(--bg-cat-6);
+}
+.industry-page .ip-voice blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-style: normal;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--bg-ink);
+}
+.industry-page .ip-voice-tr {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-voice figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-voice figcaption b {
+  color: var(--bg-ink);
+}
+.industry-page .ip-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.industry-page .ip-facts li {
+  flex: 1 1 200px;
+  border-radius: 10px;
+  background: var(--bg-track);
+  padding: 0.6rem 0.8rem;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-facts b {
+  display: block;
+  font-family: var(--bp-font-head);
+  font-size: 1.15rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink);
+}
+
+/* ── 縣市磚圖 ─────────────────────────────────────────────────────── */
+.industry-page .ip-tiles {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+  max-width: 560px;
+  margin: 0.75rem auto 0.5rem;
+}
+.industry-page .ip-tile {
+  aspect-ratio: 1 / 0.82;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1rem;
+  border-radius: 8px;
+  padding: 0.2rem;
+  text-align: center;
+  line-height: 1.25;
+  color: var(--bg-ink);
+  background: var(--bg-track);
+}
+.industry-page .ip-tile.is-gap {
+  background: transparent;
+}
+.industry-page .ip-tile.is-empty .ip-tile-v {
+  color: var(--bg-mute);
+}
+.industry-page .ip-tile-n {
+  font-size: clamp(0.62rem, 1.9vw, 0.82rem);
+  font-weight: 600;
+}
+.industry-page .ip-tile-v {
+  font-size: clamp(0.6rem, 1.8vw, 0.8rem);
+  font-variant-numeric: tabular-nums;
+}
+.industry-page .ip-tile.is-s1 {
+  background: color-mix(in srgb, var(--bg-cat-0) 14%, var(--color-bg));
+}
+.industry-page .ip-tile.is-s2 {
+  background: color-mix(in srgb, var(--bg-cat-0) 30%, var(--color-bg));
+}
+.industry-page .ip-tile.is-s3 {
+  background: color-mix(in srgb, var(--bg-cat-0) 48%, var(--color-bg));
+}
+.industry-page .ip-tile.is-s4 {
+  background: color-mix(in srgb, var(--bg-cat-0) 70%, var(--color-bg));
+  color: #fff;
+}
+.industry-page .ip-tile.is-s5 {
+  background: var(--bg-cat-0);
+  color: #fff;
+}
+.industry-page .ip-tiles-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  margin: 0 0 0.5rem;
+  font-size: 0.76rem;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-tiles-legend i {
+  display: inline-block;
+  width: 1.4rem;
+  height: 0.7rem;
+  border-radius: 3px;
+}
+
+/* ── 供應鏈流程 ───────────────────────────────────────────────────── */
+.industry-page .ip-chain {
+  margin: 2.5rem 0 0;
+}
+.industry-page .ip-chain-lede {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--bg-ink-soft);
+  max-width: 46rem;
+}
+.industry-page .ip-chain-flow {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0.75rem;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(232px, 1fr);
+  gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+}
+.industry-page .ip-stage {
+  position: relative;
+  scroll-snap-align: start;
+  border: 1px solid var(--ip-border);
+  border-radius: 12px;
+  background: var(--ip-card);
+  padding: 0.9rem 0.95rem;
+}
+.industry-page .ip-stage + .ip-stage::before {
+  content: '→';
+  position: absolute;
+  left: -1.2rem;
+  top: 1rem;
+  font-size: 1rem;
+  color: var(--bg-mute);
+}
+.industry-page .ip-stage-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.industry-page .ip-stage-n {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--bg-hi);
+  color: var(--color-bg);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+.industry-page .ip-stage-name {
+  margin: 0;
+  font-family: var(--bp-font-head);
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--bg-ink);
+}
+.industry-page .ip-stage-what {
+  margin: 0.45rem 0 0.6rem;
+  font-size: 0.84rem;
+  line-height: 1.7;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-stage-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.industry-page .ip-node {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  border-top: 1px solid var(--ip-border);
+  padding: 0.5rem 0.3rem;
+  border-radius: 6px;
+}
+.industry-page .ip-node.is-hit {
+  background: color-mix(in srgb, var(--bg-cat-3) 28%, transparent);
+  outline: 2px solid var(--bg-cat-3);
+}
+.industry-page .ip-node-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+.industry-page .ip-node-name {
+  font-weight: 700;
+  color: var(--bg-ink);
+}
+.industry-page a.ip-node-name {
+  color: var(--ip-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.industry-page .ip-node-ticker {
+  font-size: 0.74rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-node-role {
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-stage-gap {
+  margin: 0.6rem 0 0;
+  border: 1px dashed var(--bg-mute);
+  border-radius: 8px;
+  padding: 0.5rem 0.6rem;
+  font-size: 0.8rem;
+  line-height: 1.65;
+  color: var(--bg-ink-soft);
+}
+.industry-page .ip-stage-gap b {
+  display: block;
+  color: var(--bg-ink);
+}
+@media (max-width: 720px) {
+  .industry-page .ip-chain-flow {
+    grid-auto-flow: row;
+    grid-auto-columns: auto;
+    overflow-x: visible;
+    gap: 1.6rem;
+  }
+  .industry-page .ip-stage + .ip-stage::before {
+    content: '↓';
+    left: 50%;
+    top: -1.45rem;
+    transform: translateX(-50%);
+  }
+}
+
+/* ── 供應鏈搜尋 ───────────────────────────────────────────────────── */
+.industry-page .ip-find {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  margin: 1.25rem 0 0;
+}
+.industry-page .ip-find label {
+  font-weight: 600;
+  color: var(--bg-ink);
+}
+.industry-page .ip-find input {
+  flex: 1 1 220px;
+  max-width: 340px;
+  min-height: 2.75rem;
+  border: 1px solid var(--ip-border);
+  border-radius: 10px;
+  background: var(--color-bg);
+  color: var(--bg-ink);
+  padding: 0.5rem 0.8rem;
+  font: inherit;
+}
+.industry-page .ip-find-out {
+  flex: 1 1 100%;
+  margin: 0;
+  min-height: 1.4em;
+  font-size: 0.86rem;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 鏈目錄 ───────────────────────────────────────────────────────── */
+.industry-page .ip-chain-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 0;
+}
+
+/* ── 文章分群 ─────────────────────────────────────────────────────── */
+.industry-page .ip-group {
+  margin: 1.1rem 0 0;
+}
+.industry-page .ip-group h4 {
+  margin: 0 0 0.45rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 集中度橫條的說明 ─────────────────────────────────────────────── */
+.industry-page .ip-conc .bp-stackseg-v {
+  font-size: 0.82rem;
+}
+.industry-page .ip-nodata {
+  border: 1px dashed var(--bg-mute);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  font-size: 0.88rem;
+  line-height: 1.8;
+  color: var(--bg-ink-soft);
+}
+
+/* ── 深色模式的頁首標題 ───────────────────────────────────────────────
+ * PageHero 的 <h1> 寫死 text-[#1a1a2e]，深色底上幾乎看不見（/budget 也有同樣的狀況）。
+ * 共用元件這一輪不動，只在專題頁自己的範圍內蓋掉顏色。 */
+[data-theme='dark'] .industry-page h1 {
+  color: var(--bg-hi) !important;
+}
+
+.industry-page .ip-voice-kind {
+  display: inline-block;
+  margin-left: 0.25rem;
+  font-size: 0.76rem;
+  color: var(--bg-ink-soft);
+}

@@ -1,0 +1,1465 @@
+---
+/**
+ * industry.template.astro — /industry「台灣產業」專題主頁（13 語共用 template）。
+ *
+ * 設計報告：reports/design-industry-topic-2026-11-10.md（EVOLVE Mode 4）
+ * 版型：沿用 /budget 的節奏（kicker → 斷言 H2 → 圖 → 兩段 → 相關文章），樣式 import budget.css，
+ *       專題自己的版型在 src/styles/industry.css（ip-*）。
+ * 數列：src/data/industry/series.json（scripts/tools/build-industry-data.py 從研究檔整理）
+ * 內容：src/data/industry/content/*.json（時間軸、立場、聚落；文字是 {zh,en}）
+ * 文案：src/i18n/industry/（zh-TW／en 完整，其他語言 data/industry/i18n/{lang}.json，缺鍵回退 en）
+ * 圖表：src/components/budget/*（原樣重用）＋ src/components/industry/CountyTiles.astro
+ *
+ * 個股：本頁只引用市值與產業別的事實，不評價、不預測。聲明在英雄區與 §5。
+ * 立場：§7 具名引語並列，頁面文字不替任何一方收尾（MANIFESTO §自主權邊界：政治立場）。
+ */
+import '../styles/budget.css';
+import '../styles/industry.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import LineChart from '../components/budget/LineChart.astro';
+import StackedArea from '../components/budget/StackedArea.astro';
+import RankBars from '../components/budget/RankBars.astro';
+import SlopeChart from '../components/budget/SlopeChart.astro';
+import CountyTiles from '../components/industry/CountyTiles.astro';
+import TopTenHistory from '../components/industry/TopTenHistory.astro';
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../i18n/utils';
+import { useIndustryT, hasIndustryLocale } from '../i18n/industry';
+import { relatedList } from '../utils/industryRelated';
+import { fmtYi } from '../utils/budgetViz';
+import {
+  COMPANIES_SNAPSHOT_DATE,
+  getCompanyConfigs,
+  getFellOffCompanies,
+} from '../utils/dataConfig';
+import {
+  assignRanks,
+  concentration,
+  groupBy,
+  type RankRow,
+} from '../utils/companiesRank';
+import series from '../data/industry/series.json';
+import companiesMeta from '../data/industry/companies-meta.json';
+import timeline from '../data/industry/content/timeline.json';
+import debates from '../data/industry/content/debates.json';
+import places from '../data/industry/content/places.json';
+import outlook from '../data/industry/content/outlook.json';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const ti = useIndustryT(lang);
+const translatePath = useTranslatedPath(lang);
+const zh = lang === 'zh-TW';
+const S = series as any;
+// 四捨五入到一位：38.55 這種值 toFixed(1) 會因浮點變成 38.5，先加一個極小量
+const pct1 = (v: number) => `${(Math.round((v + 1e-9) * 10) / 10).toFixed(1)}%`;
+const srcLine = (s: any) =>
+  s ? `${s.publisher ?? ''}${s.title ? '〈' + s.title + '〉' : ''}` : '';
+const srcLineL = (s: any) =>
+  zh ? srcLine(s) : `${s?.publisher ?? ''} — ${s?.title ?? ''}`;
+
+// ── 出口 ─────────────────────────────────────────────────────────────
+const exp = S.exportProducts;
+const expY0 = exp.years[0];
+const expY1 = exp.years[exp.years.length - 1];
+const expAt = (id: string, y: number) =>
+  exp.rows.find((r: any) => r.id === id).values[exp.years.indexOf(y)] as number;
+const elecShare = expAt('ec', expY1) + expAt('ict', expY1);
+const elecShare0 = expAt('ec', expY0) + expAt('ict', expY0);
+const expSlopeRows = exp.rows.map((r: any, i: number) => ({
+  id: r.id,
+  label: ti(`exp.${r.id}`),
+  left: r.values[0],
+  right: r.values[r.values.length - 1],
+  cls: `bg-cat-${i % 8}`,
+  highlight: ['ec', 'ict', 'textile'].includes(r.id),
+}));
+const mk = S.exportMarkets;
+const mkSeries = mk.rows.map((r: any, i: number) => ({
+  id: r.id,
+  label: ti(`mk.${r.id}`),
+  values: r.values,
+  cls: ['bg-s1', 'bg-s0', 'bg-s2', 'bg-mute', 'bg-mute'][i],
+}));
+const mkLast = (id: string) =>
+  mk.rows.find((r: any) => r.id === id).values[mk.years.length - 1] as number;
+const lh = S.exportLongHistory;
+const lhCats = lh.rows.map((r: any, i: number) => ({
+  id: r.id,
+  label: ti(`lh.${r.id}`),
+  cls: ['bg-cat-2', 'bg-cat-3', 'bg-cat-0'][i],
+}));
+const expTotalLast = S.exportTotals.values[S.exportTotals.values.length - 1];
+
+// ── GDP ──────────────────────────────────────────────────────────────
+const gs = S.gdpSectors;
+const gsCats = [
+  { id: 'agriculture', label: ti('gdp.agriculture'), cls: 'bg-cat-2' },
+  { id: 'industry', label: ti('gdp.industry'), cls: 'bg-cat-0' },
+  { id: 'services', label: ti('gdp.services'), cls: 'bg-cat-3' },
+];
+// 圖上每五年一點（1951 起）加最後一年；2015 之後逐年的點全畫會讓 x 軸標籤疊在一起，逐年值在資料檔
+const gsIdx = gs.years
+  .map((y: number, i: number) => ({ y, i }))
+  .filter(
+    ({ y, i }: any) => y === 1951 || y % 5 === 0 || i === gs.years.length - 1,
+  )
+  .map(({ i }: any) => i as number);
+const gsYears = gsIdx.map((i: number) => gs.years[i] as number);
+const gsValues = gsCats.map((c) =>
+  gsIdx.map(
+    (i: number) => gs.rows.find((r: any) => r.id === c.id).values[i] as number,
+  ),
+);
+const mfgLast = gs.manufacturing[gs.manufacturing.length - 1] as number;
+const ge = S.gdpElectronics;
+const geLastYear = ge.years[ge.years.length - 1];
+const geComp = ge.rows.find((r: any) => r.id === 'components').values;
+const gl = S.gdpLevel;
+
+// ── 科學園區 ─────────────────────────────────────────────────────────
+const pk = S.parksRevenue;
+const pkLast = pk.years.length - 1;
+const pkTotalLast = pk.total[pkLast] as number;
+
+// ── 半導體產值（可能沒有資料）────────────────────────────────────────
+const ic = S.icOutput as any | undefined;
+
+// ── 榜單與集中度 ─────────────────────────────────────────────────────
+const companies = assignRanks(getCompanyConfigs(t));
+const rankRows: RankRow[] = companies.map((c) => {
+  const m = (companiesMeta.companies as any)[c.ticker] ?? {};
+  return {
+    ticker: c.ticker,
+    rank: c.rank,
+    marketCap: c.marketCap,
+    revenue: c.revenue,
+    employees: c.employees,
+    founded: c.founded,
+    industryCode: m.industryCode ?? '',
+    county: m.county ?? '',
+    prevRank: m.prevRank ?? null,
+  };
+});
+const snap = S.marketSnapshot as any;
+const conc = concentration(rankRows, snap.listedTotal100M);
+const concParts = [
+  { k: 'top1', v: conc.top1Pct },
+  { k: 'top2to10', v: conc.top2to10Pct },
+  { k: 'rest', v: conc.restOfListPct },
+  { k: 'outside', v: conc.outsidePct },
+];
+const indGroups = groupBy(rankRows, 'industryCode');
+const indRows = indGroups.map((g) => ({
+  id: g.key,
+  label: `${ti(`tse.${g.key}`)}（${g.count}）`,
+  now: g.capSum,
+  highlight: g.key === '24',
+}));
+const mh = S.marketHistory as any | undefined;
+const mhCols = mh
+  ? mh.years.filter((y: any) => (mh.pick as string[]).includes(y.label))
+  : [];
+// 歷年表的公司名：中文頁用證交所簡稱；其他語言用既有 13 語公司譯名，沒有的用 mh.<代號>
+const mhNames: Record<string, string> = {};
+if (mh && !zh) {
+  for (const c of [...companies, ...getFellOffCompanies(t)])
+    // 「Hon Hai Foxconn 鴻海」這種雙語名在窄欄裡只留拉丁字那一段
+    mhNames[c.ticker] =
+      c.name.replace(/\s+[\u3400-\u9fff][\s\S]*$/, '') || c.name;
+  for (const y of mh.years)
+    for (const c of y.top)
+      if (!mhNames[c.code] && ti(`mh.${c.code}`) !== `mh.${c.code}`)
+        mhNames[c.code] = ti(`mh.${c.code}`);
+}
+
+// ── 縣市 ─────────────────────────────────────────────────────────────
+const fc = S.factoriesByCounty;
+const countyNames: Record<string, string> = Object.fromEntries(
+  fc.rows.map((r: any) => [r.county, ti(`county.${r.county}`)]),
+);
+const hqCount = Object.fromEntries(
+  groupBy(rankRows, 'county').map((g) => [g.key, g.count]),
+);
+const tileData = Object.fromEntries(
+  fc.rows
+    .filter((r: any) => r.revenue100M != null)
+    .map((r: any) => [
+      r.county,
+      {
+        value: r.revenue100M,
+        text: zh
+          ? r.revenue100M >= 10000
+            ? `${(r.revenue100M / 10000).toFixed(1)} 兆`
+            : `${r.revenue100M.toLocaleString('en-US')} 億`
+          : fmtYi(r.revenue100M, lang).replace('NT$', ''),
+        note: hqCount[r.county] ? String(hqCount[r.county]) : '',
+      },
+    ]),
+);
+const fcTop = [...fc.rows]
+  .filter((r: any) => r.revenue100M != null)
+  .sort((a: any, b: any) => b.revenue100M - a.revenue100M);
+
+// ── 時間軸 ───────────────────────────────────────────────────────────
+const TL = timeline as any;
+const tracks = ['policy', 'company', 'market', 'world'];
+const eventsByEra = TL.eras.map((era: any) => ({
+  era,
+  events: TL.events
+    .filter((e: any) => e.era === era.id)
+    .sort((a: any, b: any) => a.date.localeCompare(b.date)),
+}));
+const tlArticles = new Map<string, string>();
+for (const e of TL.events) {
+  if (e.article) {
+    const [r] = await relatedList(lang, [e.article]);
+    if (r) tlArticles.set(e.id, r.href);
+  }
+}
+
+// ── 立場 ─────────────────────────────────────────────────────────────
+const DB = debates as any;
+const PL = places as any;
+const OL = outlook as any;
+
+// ── 相關文章 ─────────────────────────────────────────────────────────
+const REL = {
+  s1: await relatedList(lang, [
+    ['Economy', '經濟奇蹟'],
+    ['History', '美援'],
+    ['History', '台灣土地改革'],
+    ['History', '高雄加工出口區'],
+    ['History', '十大建設'],
+    ['Economy', '台灣糖業'],
+    ['Economy', '紡織業'],
+    ['People', '孫運璿'],
+  ]),
+  s2: await relatedList(lang, [
+    ['Technology', '科技園區發展'],
+    ['Economy', '台灣股市與資本市場'],
+    ['Economy', '台灣產業轉型升級'],
+    ['Economy', '新創生態系'],
+    ['Economy', '新台幣'],
+    ['People', '張忠謀'],
+    ['People', '李登輝'],
+  ]),
+  s3: await relatedList(lang, [
+    ['Economy', '台灣外貿與全球供應鏈'],
+    ['Economy', '台灣國際貿易政策'],
+    ['Economy', '台灣中小企業與隱形冠軍'],
+    ['Economy', '台灣機械工具產業'],
+    ['Economy', '螺絲'],
+    ['Economy', '台灣造船業'],
+  ]),
+  s4: await relatedList(lang, [
+    ['Technology', '半導體產業'],
+    ['Technology', 'AI硬體供應鏈'],
+    ['Technology', 'NVIDIA在台灣'],
+    ['Technology', '台灣鎢供應鏈'],
+    ['Technology', 'Computex'],
+    ['Economy', '台灣企業：台積電'],
+    ['People', '黃仁勳'],
+    ['People', '魏哲家'],
+  ]),
+  s5: await relatedList(lang, [
+    ['Economy', '台灣前50大企業'],
+    ['Economy', '台灣股市與資本市場'],
+    ['People', '王永慶'],
+    ['People', '郭台銘'],
+    ['People', '施振榮'],
+    ['People', '林百里'],
+    ['People', '童子賢'],
+  ]),
+  s6: await relatedList(lang, [
+    ['Technology', '台灣科技園區外圍商圈生態'],
+    ['Technology', '台灣自行車產業'],
+    ['Economy', '中壢'],
+    ['Technology', '台灣機器人產業'],
+    ['Economy', '台灣離岸風電'],
+  ]),
+  s7: await relatedList(lang, [
+    ['Technology', '半導體用水與台灣水資源'],
+    ['Technology', '台灣的電力與半導體'],
+    ['Economy', '台灣電價機制與台電'],
+    ['Technology', 'AI供應鏈海外設廠'],
+    ['Economy', '台灣前50大企業'],
+  ]),
+};
+const GROUPS: [string, [string, string][]][] = [
+  [
+    'g.companies',
+    [
+      '台積電',
+      '聯發科技',
+      '台達電子',
+      '鴻海精密',
+      '日月光半導體',
+      '廣達電腦',
+      '聯華電子',
+      '瑞昱半導體',
+      '緯創資通',
+      '和碩聯合',
+      '仁寶電腦',
+      '華碩',
+      '宏碁',
+      '研華科技',
+      '大立光電',
+      '宏達電',
+      '富邦金控',
+      '國泰金控',
+      '兆豐金控',
+      '玉山金控',
+      '中華電信',
+      '長榮海運',
+      '中鋼',
+      '台泥',
+      '台塑集團',
+      '長春石化',
+      '奇美實業',
+      '遠東集團',
+      '統一企業',
+      '義美食品',
+      '巨大機械',
+    ].map((n) => ['Economy', `台灣企業：${n}`] as [string, string]),
+  ],
+  [
+    'g.industries',
+    [
+      ['Technology', '半導體產業'],
+      ['Technology', 'AI硬體供應鏈'],
+      ['Technology', 'AI人工智慧產業'],
+      ['Technology', 'AI供應鏈海外設廠'],
+      ['Technology', 'NVIDIA在台灣'],
+      ['Technology', '台灣鎢供應鏈'],
+      ['Technology', '台灣顯示器產業'],
+      ['Technology', '台灣自行車產業'],
+      ['Technology', '台灣電動車產業鏈發展'],
+      ['Technology', '台灣機器人產業'],
+      ['Technology', '台灣無人機產業'],
+      ['Technology', '台灣太空產業發展'],
+      ['Technology', '台灣軟體產業發展'],
+      ['Technology', '台灣資安產業發展'],
+      ['Economy', '台灣機械工具產業'],
+      ['Economy', '紡織業'],
+      ['Economy', '螺絲'],
+      ['Economy', '台灣造船業'],
+      ['Economy', '台灣離岸風電'],
+      ['Economy', '台灣糖業'],
+      ['Economy', '台灣中小企業與隱形冠軍'],
+    ],
+  ],
+  [
+    'g.system',
+    [
+      ['Economy', '經濟奇蹟'],
+      ['Economy', '台灣產業轉型升級'],
+      ['Economy', '台灣外貿與全球供應鏈'],
+      ['Economy', '台灣國際貿易政策'],
+      ['Economy', '台灣股市與資本市場'],
+      ['Economy', '新台幣'],
+      ['Economy', '新創生態系'],
+      ['Technology', '科技園區發展'],
+      ['History', '美援'],
+      ['History', '台灣土地改革'],
+      ['History', '高雄加工出口區'],
+      ['History', '十大建設'],
+    ],
+  ],
+  [
+    'g.resources',
+    [
+      ['Technology', '半導體用水與台灣水資源'],
+      ['Technology', '台灣的電力與半導體'],
+      ['Economy', '台灣電價機制與台電'],
+      ['Economy', '台灣油價機制與中油'],
+      ['Technology', '台灣科技園區外圍商圈生態'],
+    ],
+  ],
+  [
+    'g.people',
+    [
+      '孫運璿',
+      '李登輝',
+      '張忠謀',
+      '曹興誠',
+      '王永慶',
+      '許文龍',
+      '郭台銘',
+      '施振榮',
+      '林百里',
+      '童子賢',
+      '劉德音',
+      '魏哲家',
+      '黃仁勳',
+    ].map((n) => ['People', n] as [string, string]),
+  ],
+];
+const groups = [];
+for (const [k, items] of GROUPS) {
+  groups.push({ k, cards: await relatedList(lang, items) });
+}
+
+const toc = [1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => ({
+  id: `s${n}`,
+  label: ti(`toc.s${n}`),
+  take: ti(`toc.s${n}.take`),
+}));
+const companiesHref = translatePath('/companies/');
+const chainsHref = translatePath('/industry/supply-chains/');
+const sourceList: any[] = [
+  S.exportProducts.source,
+  S.exportLongHistory.source,
+  S.gdpSectors.source,
+  S.gdpElectronics.source,
+  S.gdpLevel.forecast2026.source,
+  S.parksRevenue.source,
+  S.factoriesByCounty.source,
+  ...(ic?.source ? [ic.source] : []),
+  ...(snap.sources ?? []),
+  ...(mh?.source ? [mh.source] : []),
+].filter(Boolean);
+---
+
+<Layout
+  lang={lang}
+  title={ti('meta.title')}
+  description={ti('meta.description')}
+  readerSettings={true}
+>
+  <main class="budget-page industry-page min-h-screen">
+    <PageHero
+      eyebrow={ti('hero.eyebrow')}
+      title={ti('hero.title')}
+      subtitle={ti('hero.subtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <blockquote class="bp-kicker bp-hero-verse">
+        {ti('hero.verse')}
+      </blockquote>
+      <div class="bp-hero-stats">
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{pct1(elecShare)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.export', { year: expY1 })}
+          </div>
+        </div>
+        <div class="bp-stat">
+          <div class="bp-stat-v">{pct1(mfgLast)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.mfg', { year: gs.years[gs.years.length - 1] })}
+          </div>
+        </div>
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{fmtYi(pkTotalLast, lang)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.parks', { year: pk.years[pkLast] })}
+          </div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{pct1(conc.top1Pct)}</div>
+          <div class="bp-stat-l">
+            {ti('hero.stat.tsmc', { date: COMPANIES_SNAPSHOT_DATE })}
+          </div>
+        </div>
+      </div>
+      <p class="ip-disclaimer">
+        <b>{ti('disclaimer.h')}</b>
+        {ti('disclaimer.p')}
+      </p>
+      {
+        !zh && !hasIndustryLocale(lang) && (
+          <p class="ip-langnote">{ti('langnote')}</p>
+        )
+      }
+      <nav class="bp-brief" aria-label={ti('hero.jump')}>
+        <h2 class="bp-brief-h">{ti('hero.brief')}</h2>
+        <ol class="bp-brief-list">
+          {
+            toc.map((s, i) => (
+              <li>
+                <a href={`#${s.id}`}>
+                  <span class="bp-brief-n">{i + 1}</span>
+                  <span class="bp-brief-body">
+                    <span class="bp-brief-label">{s.label}</span>
+                    <span class="bp-brief-take">{s.take}</span>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ol>
+      </nav>
+    </PageHero>
+
+    <nav class="bp-subnav" aria-label={ti('subnav.label')} id="bp-subnav">
+      <div class="bp-subnav-in">
+        {
+          toc.map((s) => (
+            <a href={`#${s.id}`} data-target={s.id}>
+              {s.label}
+            </a>
+          ))
+        }
+      </div>
+    </nav>
+
+    <!-- §1 歷史 -->
+    <section class="bp-section" id="s1">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s1.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s1.h2')}</h2>
+        <p class="bp-lede">{ti('s1.lede')}</p>
+        <StackedArea
+          id="c-longexp"
+          title={ti('s1.chart.title')}
+          subtitle={ti('s1.chart.sub')}
+          years={lh.years}
+          cats={lhCats}
+          values={lh.rows.map((r: any) => r.values)}
+          mode="share"
+          lang={lang}
+          source={srcLineL(lh.source)}
+        />
+        <div class="bp-prose">
+          <p>{ti('s1.p1')}</p>
+          <p>{ti('s1.p2')}</p>
+        </div>
+
+        <h3 class="bp-h3" id="timeline">{ti('s1.tl.h')}</h3>
+        <p class="bp-note">{ti('s1.tl.note')}</p>
+        <div class="ip-tl-filter" id="ip-tl-filter" hidden>
+          <button type="button" data-track="all" aria-pressed="true">
+            {ti('tl.all')}
+          </button>
+          {
+            tracks.map((k) => (
+              <button type="button" data-track={k} aria-pressed="false">
+                <span class={`ip-tl-dot ip-track-${k}`} aria-hidden="true" />
+                {ti(`tl.track.${k}`)}
+              </button>
+            ))
+          }
+        </div>
+        {
+          eventsByEra.map(({ era, events }: any) => (
+            <div class="ip-era-block">
+              <h4 class="ip-era">
+                {ti(`timeline.eras.${era.id}.t`)}
+                <small>{era.span}</small>
+              </h4>
+              <ol class="ip-tl">
+                {events.map((e: any) => (
+                  <li class={`ip-tl-item is-${e.track}`} data-track={e.track}>
+                    <div class="ip-tl-date">{e.date}</div>
+                    <div>
+                      <div class="ip-tl-title">
+                        <span class="sr-only">
+                          {ti(`tl.track.${e.track}`)}：
+                        </span>
+                        {ti(`timeline.events.${e.id}.t`)}
+                        {e.url && (
+                          <a
+                            class="bp-src no-external-icon"
+                            aria-label={ti('label.source')}
+                            href={e.url}
+                            target="_blank"
+                            rel="noopener"
+                          >
+                            ↗
+                          </a>
+                        )}
+                      </div>
+                      <p class="ip-tl-fact">
+                        {ti(`timeline.events.${e.id}.f`)}
+                        {tlArticles.get(e.id) && (
+                          <a class="ip-tl-more" href={tlArticles.get(e.id)}>
+                            {ti('label.readmore')} →
+                          </a>
+                        )}
+                      </p>
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))
+        }
+        {
+          REL.s1.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s1.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §2 制度 -->
+    <section class="bp-section" id="s2">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s2.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s2.h2')}</h2>
+        <p class="bp-lede">{ti('s2.lede')}</p>
+        <div class="ip-cards">
+          {
+            ['policy', 'parks', 'tax', 'capital'].map((k) => (
+              <div class="ip-card">
+                <span class="ip-card-k">{ti(`s2.tool.${k}.k`)}</span>
+                <h4>{ti(`s2.tool.${k}.h`)}</h4>
+                <p>{ti(`s2.tool.${k}.p`)}</p>
+                {OL.institutions?.[k]?.url && (
+                  <a
+                    class="ip-card-cta no-external-icon"
+                    href={OL.institutions[k].url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    {ti('label.source')} ↗
+                  </a>
+                )}
+              </div>
+            ))
+          }
+        </div>
+        <LineChart
+          id="c-parks"
+          title={ti('s2.chart.title', {
+            total: fmtYi(pkTotalLast, lang),
+            year: pk.years[pkLast],
+          })}
+          subtitle={ti('s2.chart.sub')}
+          years={pk.years}
+          lang={lang}
+          series={[
+            {
+              id: 'hsinchu',
+              label: ti('park.hsinchu'),
+              values: pk.rows[0].values,
+              cls: 'bg-s0',
+            },
+            {
+              id: 'central',
+              label: ti('park.central'),
+              values: pk.rows[1].values,
+              cls: 'bg-s2',
+            },
+            {
+              id: 'southern',
+              label: ti('park.southern'),
+              values: pk.rows[2].values,
+              cls: 'bg-s1',
+            },
+          ]}
+          source={srcLineL(pk.source)}
+        />
+        <div class="bp-prose">
+          <p>{ti('s2.p1')}</p>
+          <p>{ti('s2.p2')}</p>
+        </div>
+        {
+          REL.s2.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s2.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §3 現在靠什麼賺錢 -->
+    <section class="bp-section" id="s3">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s3.kicker')}</blockquote>
+        <h2 class="bp-h2">
+          {ti('s3.h2', { year: expY1, share: Math.round(elecShare) })}
+        </h2>
+        <p class="bp-lede">
+          {
+            ti('s3.lede', {
+              y0: expY0,
+              y1: expY1,
+              s0: pct1(elecShare0),
+              s1: pct1(elecShare),
+              // {total} 是億美元（zh 字串用），{totalB} 是 billion（en 與回退到 en 的語言用）
+              total: Math.round(expTotalLast).toLocaleString('en-US'),
+              totalB: (expTotalLast / 10).toFixed(1),
+            })
+          }
+        </p>
+        <SlopeChart
+          id="c-exp-slope"
+          title={ti('s3.chart1.title', {
+            y0: expY0,
+            y1: expY1,
+            ict0: pct1(expAt('ict', expY0)),
+            ict1: pct1(expAt('ict', expY1)),
+          })}
+          subtitle={ti('s3.chart1.sub')}
+          leftLabel={String(expY0)}
+          rightLabel={String(expY1)}
+          height={560}
+          rows={expSlopeRows}
+          lang={lang}
+          source={srcLineL(exp.source)}
+        />
+        <div class="bp-prose">
+          <p>{ti('s3.p1')}</p>
+        </div>
+        <LineChart
+          id="c-markets"
+          title={ti('s3.chart2.title', {
+            year: expY1,
+            us: pct1(mkLast('us')),
+            cn: pct1(mkLast('cnhk')),
+          })}
+          subtitle={ti('s3.chart2.sub')}
+          years={mk.years}
+          lang={lang}
+          unit="%"
+          yMax={50}
+          height={320}
+          series={mkSeries}
+          source={srcLineL(mk.source)}
+        />
+        <div class="bp-prose">
+          <p>{ti('s3.p2')}</p>
+        </div>
+        <StackedArea
+          id="c-gdp-sectors"
+          title={ti('s3.chart3.title', {
+            y: gs.years[gs.years.length - 1],
+            ind: pct1(gsValues[1][gsValues[1].length - 1]),
+          })}
+          subtitle={ti('s3.chart3.sub')}
+          years={gsYears}
+          cats={gsCats}
+          values={gsValues}
+          mode="share"
+          lang={lang}
+          source={srcLineL(gs.source)}
+        />
+        <LineChart
+          id="c-gdp-elec"
+          title={ti('s3.chart4.title', {
+            y0: ge.years[0],
+            y1: geLastYear,
+            v0: pct1(geComp[0]),
+            v1: pct1(geComp[geComp.length - 1]),
+          })}
+          subtitle={ti('s3.chart4.sub')}
+          years={ge.years}
+          lang={lang}
+          unit="%"
+          yMax={20}
+          height={300}
+          series={[
+            {
+              id: 'components',
+              label: ti('gdp.components'),
+              values: ge.rows[0].values,
+              cls: 'bg-s0',
+            },
+            {
+              id: 'computers',
+              label: ti('gdp.computers'),
+              values: ge.rows[1].values,
+              cls: 'bg-s2',
+            },
+          ]}
+          source={srcLineL(ge.source)}
+        />
+        <div class="bp-prose">
+          <p>
+            {
+              ti('s3.p3', {
+                growth25: gl.realGrowthPct[gl.realGrowthPct.length - 1],
+                f26: gl.forecast2026.realGrowthPct,
+                released: gl.forecast2026.released,
+              })
+            }
+            <a
+              class="bp-src no-external-icon"
+              aria-label={ti('label.source')}
+              href={gl.forecast2026.source.url}
+              target="_blank"
+              rel="noopener">↗</a
+            >
+          </p>
+        </div>
+        <p class="bp-note">{ti('s3.note')}</p>
+        {
+          REL.s3.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s3.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §4 半導體與 AI 伺服器 -->
+    <section class="bp-section" id="s4">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s4.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s4.h2')}</h2>
+        <p class="bp-lede">{ti('s4.lede')}</p>
+        {
+          ic ? (
+            <StackedArea
+              id="c-ic"
+              title={ti('s4.chart.title', {
+                y: ic.years[ic.years.length - 1],
+                total: fmtYi(ic.total[ic.total.length - 1], lang),
+              })}
+              subtitle={ti('s4.chart.sub')}
+              years={ic.years}
+              cats={ic.rows.map((r: any, i: number) => ({
+                id: r.id,
+                label: ti(`ic.${r.id}`),
+                cls: `bg-cat-${[0, 1, 2, 3][i]}`,
+              }))}
+              values={ic.rows.map((r: any) => r.values)}
+              mode="abs"
+              lang={lang}
+              source={srcLineL(ic.source)}
+            />
+          ) : (
+            <p class="ip-nodata">{ti('s4.nodata')}</p>
+          )
+        }
+        <div class="bp-prose">
+          <p>{ti('s4.p1')}</p>
+          <p>{ti('s4.p2')}</p>
+        </div>
+        {
+          OL.tsmc && (
+            <ul class="ip-facts">
+              {OL.tsmc.map((f: any) => (
+                <li>
+                  <b>{f.v}</b>
+                  {ti(`outlook.tsmc.${f.id}.l`)}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label={ti('label.source')}
+                    href={f.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )
+        }
+        <div class="ip-cards">
+          {
+            ['semi', 'ai', 'tungsten'].map((k) => (
+              <a class="ip-card" href={`${chainsHref}#chain-${k}`}>
+                <span class="ip-card-k">{ti('s4.chain.k')}</span>
+                <h4>{ti(`s4.chain.${k}.h`)}</h4>
+                <p>{ti(`s4.chain.${k}.p`)}</p>
+                <span class="ip-card-cta">{ti('s4.chain.cta')} →</span>
+              </a>
+            ))
+          }
+        </div>
+        {
+          REL.s4.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s4.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §5 榜單有多集中 -->
+    <section class="bp-section" id="s5">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s5.kicker')}</blockquote>
+        <h2 class="bp-h2">
+          {
+            ti('s5.h2', {
+              top1: Math.round(conc.top1Pct),
+              top50: Math.round(100 - conc.outsidePct),
+            })
+          }
+        </h2>
+        <p class="bp-lede">
+          {
+            ti('s5.lede', {
+              date: COMPANIES_SNAPSHOT_DATE,
+              total: fmtYi(snap.listedTotal100M, lang),
+              n: snap.listedCount ?? '',
+            })
+          }
+        </p>
+        <figure class="bg-chart ip-conc">
+          <h4 class="bg-chart-title">
+            {ti('s5.chart1.title', { date: COMPANIES_SNAPSHOT_DATE })}
+          </h4>
+          <div class="bp-stackbar-wrap">
+            <div
+              class="bp-stackbar"
+              role="img"
+              aria-label={ti('s5.chart1.title', {
+                date: COMPANIES_SNAPSHOT_DATE,
+              })}
+            >
+              {
+                concParts.map((p, i) => (
+                  <div
+                    class={`bp-stackseg bg-cat-${[1, 0, 2, 3][i]} ${p.v < 12 ? 'is-thin' : ''}`}
+                    style={`flex: ${p.v.toFixed(3)} 0 0`}
+                    title={`${ti(`s5.conc.${p.k}`)}：${pct1(p.v)}`}
+                  >
+                    <span class="bp-stackseg-v">{pct1(p.v)}</span>
+                  </div>
+                ))
+              }
+            </div>
+          </div>
+          <ul class="bp-stacklegend">
+            {
+              concParts.map((p, i) => (
+                <li>
+                  <span
+                    class={`bg-swatch bg-cat-${[1, 0, 2, 3][i]}`}
+                    aria-hidden="true"
+                  />{' '}
+                  {ti(`s5.conc.${p.k}`)}：{pct1(p.v)}
+                </li>
+              ))
+            }
+          </ul>
+          <figcaption class="bg-chart-src">
+            {ti('s5.chart1.src', { date: COMPANIES_SNAPSHOT_DATE })}
+          </figcaption>
+        </figure>
+        <div class="bp-prose">
+          <p>
+            {
+              ti('s5.p1', {
+                twsePct: snap.tsmcShareOfTwsePct.toFixed(1),
+                top10: snap.top10ShareOfTwsePct,
+              })
+            }
+          </p>
+        </div>
+        <RankBars
+          id="c-ind-mix"
+          title={ti('s5.chart2.title', {
+            n: indGroups[0].count,
+            share: Math.round(
+              (indGroups[0].capSum /
+                rankRows.reduce((s, r) => s + r.marketCap, 0)) *
+                100,
+            ),
+          })}
+          subtitle={ti('s5.chart2.sub')}
+          rows={indRows}
+          nowLabel={ti('s5.chart2.now')}
+          lang={lang}
+          source={ti('s5.chart2.src', { date: COMPANIES_SNAPSHOT_DATE })}
+        />
+        {
+          mh ? (
+            <>
+              <LineChart
+                id="c-tsmc-share"
+                title={ti('s5.hist.chart.title', {
+                  y0: mh.tsmcShare.years[1],
+                  v0: pct1(mh.tsmcShare.values[1]),
+                  y1: mh.tsmcShare.years[mh.tsmcShare.years.length - 1],
+                  v1: pct1(mh.tsmcShare.values[mh.tsmcShare.values.length - 1]),
+                })}
+                subtitle={ti('s5.hist.chart.sub')}
+                years={mh.tsmcShare.years}
+                lang={lang}
+                unit="%"
+                yMax={50}
+                height={300}
+                series={[
+                  {
+                    id: 'tsmc',
+                    label: ti('s5.conc.top1'),
+                    values: mh.tsmcShare.values,
+                    cls: 'bg-s1',
+                  },
+                ]}
+                source={srcLineL(mh.source)}
+              />
+              <TopTenHistory
+                cols={mhCols}
+                names={mhNames}
+                labels={{
+                  rank: ti('s5.hist.rank'),
+                  top10Share: ti('s5.hist.top10'),
+                  tsmcShare: ti('s5.hist.tsmc'),
+                  caption: ti('s5.hist.title'),
+                }}
+              />
+              <p class="bp-note">{ti('s5.hist.note')}</p>
+              <div class="bp-prose">
+                <p>{ti('s5.hist.p')}</p>
+              </div>
+            </>
+          ) : (
+            <p class="ip-nodata">{ti('s5.hist.nodata')}</p>
+          )
+        }
+        <div class="bp-prose">
+          <p>{ti('s5.p2')}</p>
+        </div>
+        <div class="ip-cards">
+          <a class="ip-card" href={`${companiesHref}#rank`}>
+            <span class="ip-card-k">{ti('s9.tool.k')}</span>
+            <h4>{ti('s9.tool.rank.h')}</h4>
+            <p>{ti('s9.tool.rank.p')}</p>
+            <span class="ip-card-cta">{ti('s9.tool.rank.cta')} →</span>
+          </a>
+        </div>
+        <p class="bp-note">{ti('disclaimer.p')}</p>
+        {
+          REL.s5.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s5.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §6 產業住在哪裡 -->
+    <section class="bp-section" id="s6">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s6.kicker')}</blockquote>
+        <h2 class="bp-h2">
+          {
+            ti('s6.h2', {
+              c1: ti(`county.${fcTop[0].county}`),
+              c2: ti(`county.${fcTop[1].county}`),
+            })
+          }
+        </h2>
+        <p class="bp-lede">
+          {
+            ti('s6.lede', {
+              year: fc.dataYear,
+              n: fc.national.operatingFactories.toLocaleString('en-US'),
+              rev: fmtYi(fc.national.revenue100M, lang),
+            })
+          }
+        </p>
+        <CountyTiles
+          id="c-tiles"
+          title={ti('s6.chart.title', {
+            year: fc.dataYear,
+            c1: ti(`county.${fcTop[0].county}`),
+            v1: fmtYi(fcTop[0].revenue100M, lang),
+          })}
+          subtitle={ti('s6.chart.sub')}
+          data={tileData}
+          names={countyNames}
+          valueLabel={ti('s6.chart.value')}
+          noteLabel={ti('s6.chart.hq')}
+          lang={lang}
+          source={srcLineL(fc.source)}
+        />
+        <div class="bp-prose">
+          <p>{ti('s6.p1')}</p>
+          <p>{ti('s6.p2')}</p>
+        </div>
+        <h3 class="bp-h3">{ti('s6.clusters.h')}</h3>
+        <div class="ip-cards">
+          {
+            PL.clusters.map((c: any) => (
+              <div class="ip-card">
+                <span class="ip-card-k">
+                  {c.counties.map((x: string) => ti(`county.${x}`)).join('・')}
+                </span>
+                <h4>{ti(`places.clusters.${c.id}.h`)}</h4>
+                <p>
+                  {ti(`places.clusters.${c.id}.p`)}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label={ti('label.source')}
+                    href={c.url}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </p>
+              </div>
+            ))
+          }
+        </div>
+        <details class="bg-table">
+          <summary>{ti('s6.parks.h')}</summary>
+          <div class="bg-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>{ti('s6.parks.park')}</th>
+                  <th>{ti('s6.parks.base')}</th>
+                  <th>{ti('s6.parks.county')}</th>
+                  <th class="num">{ti('s6.parks.year')}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {
+                  S.parksBases.map((b: any) => (
+                    <tr>
+                      <td>{b.park}</td>
+                      <td>
+                        {b.url ? (
+                          <a href={b.url} target="_blank" rel="noopener">
+                            {b.name}
+                          </a>
+                        ) : (
+                          b.name
+                        )}
+                      </td>
+                      <td>{b.county ?? '—'}</td>
+                      <td class="num">{b.year ?? '—'}</td>
+                    </tr>
+                  ))
+                }
+              </tbody>
+            </table>
+          </div>
+        </details>
+        <p class="bp-note">{ti('s6.note')}</p>
+        {
+          REL.s6.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s6.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §7 各方怎麼看 -->
+    <section class="bp-section" id="s7">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s7.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s7.h2')}</h2>
+        <p class="bp-lede">{ti('s7.lede')}</p>
+        {
+          DB.debates.map((d: any) => (
+            <article class="ip-debate" id={`debate-${d.id}`}>
+              <h3 class="ip-debate-q">{ti(`debates.debates.${d.id}.q`)}</h3>
+              <p class="ip-debate-ctx">{ti(`debates.debates.${d.id}.ctx`)}</p>
+              <div class="ip-voices">
+                {d.voices.map((v: any) => (
+                  <figure class={`ip-voice is-${v.side}`}>
+                    <blockquote lang={v.quoteLang === 'en' ? 'en' : 'zh-Hant'}>
+                      {/* 轉述（記者或機構的整理）不加引號；直接引語與文件原文才加 */}
+                      {v.kind === 'reported'
+                        ? v.quote
+                        : v.quoteLang === 'en'
+                          ? `“${v.quote}”`
+                          : `「${v.quote}」`}
+                    </blockquote>
+                    {(v.quoteLang === 'en' ? zh : !zh) && (
+                      <p class="ip-voice-tr">
+                        {ti('label.translated')}
+                        {ti(`debates.debates.${d.id}.voices.${v.id}.tr`)}
+                      </p>
+                    )}
+                    <figcaption>
+                      <b>{ti(`debates.debates.${d.id}.voices.${v.id}.who`)}</b>
+                      ，{ti(`debates.debates.${d.id}.voices.${v.id}.role`)}
+                      <br />
+                      {v.date}・
+                      {ti(`debates.debates.${d.id}.voices.${v.id}.venue`)}
+                      {v.kind === 'reported' && (
+                        <span class="ip-voice-kind">
+                          {ti('label.reported')}
+                        </span>
+                      )}
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={ti('label.source')}
+                        href={v.url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    </figcaption>
+                  </figure>
+                ))}
+              </div>
+              {d.facts?.length > 0 && (
+                <ul class="ip-facts">
+                  {d.facts.map((f: any) => (
+                    <li>
+                      <b>{ti(`debates.debates.${d.id}.facts.${f.id}.v`)}</b>
+                      {ti(`debates.debates.${d.id}.facts.${f.id}.l`)}
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={ti('label.source')}
+                        href={f.url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </article>
+          ))
+        }
+        <p class="bp-note">{ti('s7.note')}</p>
+        {
+          REL.s7.length > 0 && (
+            <div class="bp-related is-inline">
+              <span class="bp-related-k">{ti('label.related')}</span>
+              {REL.s7.map((r) => (
+                <a href={r.href} title={r.desc}>
+                  {r.title}
+                </a>
+              ))}
+            </div>
+          )
+        }
+      </div>
+    </section>
+
+    <!-- §8 手上的牌、卡住的地方、已經排定的事 -->
+    <section class="bp-section" id="s8">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s8.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s8.h2')}</h2>
+        <p class="bp-lede">{ti('s8.lede')}</p>
+        <div class="ip-cards">
+          {
+            (
+              [
+                ['strengths', 'is-a'],
+                ['constraints', 'is-b'],
+                ['scheduled', 'is-c'],
+              ] as const
+            ).map(([k, cls]) => (
+              <div class={`ip-card ${cls}`}>
+                <h4>{ti(`s8.${k}.h`)}</h4>
+                <ul>
+                  {OL[k].map((it: any) => (
+                    <li>
+                      {ti(`outlook.${k}.${it.id}.t`)}
+                      {it.url && (
+                        <a
+                          class="bp-src no-external-icon"
+                          aria-label={ti('label.source')}
+                          href={it.url}
+                          target={it.url.startsWith('#') ? undefined : '_blank'}
+                          rel="noopener"
+                        >
+                          {it.url.startsWith('#') ? '↑' : '↗'}
+                        </a>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          }
+        </div>
+        <p class="bp-note">{ti('s8.note')}</p>
+      </div>
+    </section>
+
+    <!-- §9 工具、資料、全部文章 -->
+    <section class="bp-section" id="s9">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{ti('s9.kicker')}</blockquote>
+        <h2 class="bp-h2">{ti('s9.h2')}</h2>
+        <div class="ip-cards">
+          <a class="ip-card" href={`${companiesHref}#rank`}>
+            <span class="ip-card-k">{ti('s9.tool.k')}</span>
+            <h4>{ti('s9.tool.rank.h')}</h4>
+            <p>{ti('s9.tool.rank.p')}</p>
+            <span class="ip-card-cta">{ti('s9.tool.rank.cta')} →</span>
+          </a>
+          <a class="ip-card" href={chainsHref}>
+            <span class="ip-card-k">{ti('s9.tool.k')}</span>
+            <h4>{ti('s9.tool.chains.h')}</h4>
+            <p>{ti('s9.tool.chains.p')}</p>
+            <span class="ip-card-cta">{ti('s9.tool.chains.cta')} →</span>
+          </a>
+          <a class="ip-card" href="#timeline">
+            <span class="ip-card-k">{ti('s9.tool.k')}</span>
+            <h4>{ti('s9.tool.tl.h')}</h4>
+            <p>{ti('s9.tool.tl.p')}</p>
+            <span class="ip-card-cta">{ti('s9.tool.tl.cta')} ↑</span>
+          </a>
+          <a class="ip-card" href="/data/taiwan-industry.json">
+            <span class="ip-card-k">{ti('s9.tool.k')}</span>
+            <h4>{ti('s9.tool.data.h')}</h4>
+            <p>{ti('s9.tool.data.p')}</p>
+            <span class="ip-card-cta">{ti('s9.tool.data.cta')} →</span>
+          </a>
+        </div>
+
+        <h3 class="bp-h3">{ti('s9.articles.h')}</h3>
+        {
+          groups
+            .filter((g) => g.cards.length > 0)
+            .map((g) => (
+              <div class="ip-group">
+                <h4>{ti(g.k)}</h4>
+                <div class="bp-related is-inline">
+                  {g.cards.map((r) => (
+                    <a href={r.href} title={r.desc}>
+                      {r.title}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))
+        }
+        <div class="bp-related" style="margin-top:1.25rem">
+          <a href={translatePath('/data')}>📊 {t('nav.data')}</a>
+          <a href={translatePath('/budget')}>🧾 {t('nav.data.budget')}</a>
+          <a href={translatePath('/timeline')}>🕰️ {ti('s9.link.timeline')}</a>
+          <a href={translatePath('/map')}>🗺️ {ti('s9.link.map')}</a>
+          <a href={translatePath('/graph')}>🕸️ {t('nav.graph-view')}</a>
+        </div>
+
+        <h3 class="bp-h3">{ti('s9.sources.h')}</h3>
+        <div class="bp-prose">
+          <p>{ti('s9.sources.p')}</p>
+        </div>
+        <ul class="bp-sources">
+          {
+            sourceList.map((s: any) => (
+              <li>
+                <a href={s.url} target="_blank" rel="noopener">
+                  {s.publisher}：{s.title}
+                </a>
+                {s.accessed && ` （${ti('label.accessed')} ${s.accessed}）`}
+              </li>
+            ))
+          }
+        </ul>
+        <div class="bp-related">
+          <a
+            href="https://github.com/frank890417/taiwan-md/tree/main/data/industry/research"
+            target="_blank"
+            rel="noopener">⬇︎ {ti('s9.research')}</a
+          >
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues/new"
+            target="_blank"
+            rel="noopener">✎ {ti('s9.corrections')}</a
+          >
+        </div>
+        <p class="bg-chart-src">{ti('label.generated')} {S.generated}</p>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    // 漸進增強：1) 時間軸分軌篩選（預設全部可見）；2) 黏頂子導覽 scroll-spy；
+    // 3) 量 fixed header 底緣寫 --bp-sticky-top（跟 /budget 同一個變數）。
+    const filter = document.getElementById('ip-tl-filter');
+    if (filter) {
+      const items = Array.from(
+        document.querySelectorAll<HTMLElement>('.ip-tl-item'),
+      );
+      const blocks = Array.from(
+        document.querySelectorAll<HTMLElement>('.ip-era-block'),
+      );
+      filter.hidden = false;
+      filter.addEventListener('click', (e) => {
+        const btn = (e.target as HTMLElement).closest('button');
+        if (!btn) return;
+        const track = btn.dataset.track!;
+        filter
+          .querySelectorAll('button')
+          .forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+        for (const li of items) {
+          li.hidden = track !== 'all' && li.dataset.track !== track;
+        }
+        for (const b of blocks) {
+          b.hidden = !b.querySelector('.ip-tl-item:not([hidden])');
+        }
+      });
+    }
+    const subnav = document.getElementById('bp-subnav');
+    if (subnav) {
+      const header = document.querySelector<HTMLElement>('header');
+      const setTop = () => {
+        const b = header?.getBoundingClientRect().bottom ?? 0;
+        document.documentElement.style.setProperty(
+          '--bp-sticky-top',
+          `${Math.max(0, Math.round(b))}px`,
+        );
+      };
+      setTop();
+      window.addEventListener('resize', setTop, { passive: true });
+      const links = Array.from(
+        subnav.querySelectorAll<HTMLAnchorElement>('a[data-target]'),
+      );
+      const io = new IntersectionObserver(
+        (entries) => {
+          for (const en of entries) {
+            if (!en.isIntersecting) continue;
+            for (const a of links) {
+              const on = a.dataset.target === en.target.id;
+              a.classList.toggle('is-active', on);
+              if (on) a.scrollIntoView({ block: 'nearest', inline: 'center' });
+            }
+          }
+        },
+        { rootMargin: '-40% 0px -55% 0px' },
+      );
+      links.forEach((a) => {
+        const el = document.getElementById(a.dataset.target!);
+        if (el) io.observe(el);
+      });
+    }
+  </script>
+</Layout>

@@ -18,6 +18,7 @@
   ],
   "companies": {
     "2330": {
+      "inTop50": true,
       "county": "新竹市",
       "market": "TWSE",
       "industryCode": "24",
@@ -27,6 +28,7 @@
       "prevCap": 590000
     },
     "2454": {
+      "inTop50": true,
       "county": "新竹市",
       "market": "TWSE",
       "industryCode": "24",
@@ -36,6 +38,7 @@
       "prevCap": 44600
     },
     "2308": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "28",
@@ -45,6 +48,7 @@
       "prevCap": 59900
     },
     "2317": {
+      "inTop50": true,
       "county": "新北市",
       "market": "TWSE",
       "industryCode": "31",
@@ -54,6 +58,7 @@
       "prevCap": 32700
     },
     "3711": {
+      "inTop50": true,
       "county": "高雄市",
       "market": "TWSE",
       "industryCode": "24",
@@ -63,6 +68,7 @@
       "prevCap": 22700
     },
     "1303": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "03",
@@ -72,6 +78,7 @@
       "prevCap": 7600
     },
     "2881": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -81,6 +88,7 @@
       "prevCap": 13400
     },
     "2383": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -90,6 +98,7 @@
       "prevCap": 17400
     },
     "3037": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -99,6 +108,7 @@
       "prevCap": 14800
     },
     "2882": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -108,6 +118,7 @@
       "prevCap": 12100
     },
     "2303": {
+      "inTop50": true,
       "county": "新竹市",
       "market": "TWSE",
       "industryCode": "24",
@@ -117,6 +128,7 @@
       "prevCap": 10400
     },
     "2891": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -126,6 +138,7 @@
       "prevCap": 11000
     },
     "2408": {
+      "inTop50": true,
       "county": "新北市",
       "market": "TWSE",
       "industryCode": "24",
@@ -135,6 +148,7 @@
       "prevCap": 7100
     },
     "2382": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "25",
@@ -144,6 +158,7 @@
       "prevCap": 12900
     },
     "3017": {
+      "inTop50": true,
       "county": "高雄市",
       "market": "TWSE",
       "industryCode": "25",
@@ -153,6 +168,7 @@
       "prevCap": 11800
     },
     "2412": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "27",
@@ -162,6 +178,7 @@
       "prevCap": 11200
     },
     "2887": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -171,6 +188,7 @@
       "prevCap": 6300
     },
     "2327": {
+      "inTop50": true,
       "county": "新北市",
       "market": "TWSE",
       "industryCode": "28",
@@ -180,6 +198,7 @@
       "prevCap": 7000
     },
     "6669": {
+      "inTop50": true,
       "county": "新北市",
       "market": "TWSE",
       "industryCode": "25",
@@ -189,6 +208,7 @@
       "prevCap": 9300
     },
     "3443": {
+      "inTop50": true,
       "county": "新竹市",
       "market": "TWSE",
       "industryCode": "24",
@@ -198,6 +218,7 @@
       "prevCap": 6100
     },
     "6505": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "23",
@@ -207,6 +228,7 @@
       "prevCap": 5700
     },
     "2885": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -216,6 +238,7 @@
       "prevCap": 7400
     },
     "2345": {
+      "inTop50": true,
       "county": "新竹縣",
       "market": "TWSE",
       "industryCode": "27",
@@ -225,6 +248,7 @@
       "prevCap": 13600
     },
     "7769": {
+      "inTop50": true,
       "county": "臺中市",
       "market": "TWSE",
       "industryCode": "24",
@@ -234,6 +258,7 @@
       "prevCap": 9500
     },
     "2059": {
+      "inTop50": true,
       "county": "高雄市",
       "market": "TWSE",
       "industryCode": "28",
@@ -243,6 +268,7 @@
       "prevCap": 4000
     },
     "3653": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -252,6 +278,7 @@
       "prevCap": 8400
     },
     "2884": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -261,6 +288,7 @@
       "prevCap": 5500
     },
     "2360": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "31",
@@ -270,6 +298,7 @@
       "prevCap": 9600
     },
     "2886": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -279,6 +308,7 @@
       "prevCap": 6200
     },
     "8046": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -288,6 +318,7 @@
       "prevCap": 6900
     },
     "3008": {
+      "inTop50": true,
       "county": "臺中市",
       "market": "TWSE",
       "industryCode": "26",
@@ -297,6 +328,7 @@
       "prevCap": 3600
     },
     "2880": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -306,6 +338,7 @@
       "prevCap": 4750
     },
     "2357": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "25",
@@ -315,6 +348,7 @@
       "prevCap": 4600
     },
     "2344": {
+      "inTop50": true,
       "county": "臺中市",
       "market": "TWSE",
       "industryCode": "24",
@@ -324,6 +358,7 @@
       "prevCap": 4300
     },
     "2890": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -333,6 +368,7 @@
       "prevCap": 4800
     },
     "5274": {
+      "inTop50": true,
       "county": "新竹市",
       "market": "TPEx",
       "industryCode": "24",
@@ -342,6 +378,7 @@
       "prevCap": null
     },
     "3231": {
+      "inTop50": true,
       "county": "新竹縣",
       "market": "TWSE",
       "industryCode": "25",
@@ -351,6 +388,7 @@
       "prevCap": 4650
     },
     "4958": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -360,6 +398,7 @@
       "prevCap": 4800
     },
     "2883": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -369,6 +408,7 @@
       "prevCap": 3900
     },
     "2892": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -378,6 +418,7 @@
       "prevCap": 4400
     },
     "2301": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "25",
@@ -387,6 +428,7 @@
       "prevCap": 4100
     },
     "2368": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "28",
@@ -396,6 +438,7 @@
       "prevCap": 7600
     },
     "2395": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "25",
@@ -405,6 +448,7 @@
       "prevCap": null
     },
     "2603": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "15",
@@ -414,6 +458,7 @@
       "prevCap": 4700
     },
     "3189": {
+      "inTop50": true,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "24",
@@ -423,6 +468,7 @@
       "prevCap": null
     },
     "3045": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "27",
@@ -432,6 +478,7 @@
       "prevCap": 4400
     },
     "6446": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "22",
@@ -441,6 +488,7 @@
       "prevCap": null
     },
     "6223": {
+      "inTop50": true,
       "county": "新竹縣",
       "market": "TPEx",
       "industryCode": "24",
@@ -450,6 +498,7 @@
       "prevCap": null
     },
     "1301": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "03",
@@ -459,6 +508,7 @@
       "prevCap": 3500
     },
     "5880": {
+      "inTop50": true,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "17",
@@ -468,6 +518,7 @@
       "prevCap": 3800
     },
     "2002": {
+      "inTop50": false,
       "county": "高雄市",
       "market": "TWSE",
       "industryCode": "10",
@@ -477,6 +528,7 @@
       "prevCap": null
     },
     "2498": {
+      "inTop50": false,
       "county": "桃園市",
       "market": "TWSE",
       "industryCode": "27",
@@ -486,6 +538,7 @@
       "prevCap": null
     },
     "1101": {
+      "inTop50": false,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "01",
@@ -495,6 +548,7 @@
       "prevCap": null
     },
     "1402": {
+      "inTop50": false,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "04",
@@ -504,6 +558,7 @@
       "prevCap": null
     },
     "9921": {
+      "inTop50": false,
       "county": "臺中市",
       "market": "TWSE",
       "industryCode": "37",
@@ -513,6 +568,7 @@
       "prevCap": null
     },
     "1216": {
+      "inTop50": false,
       "county": "臺南市",
       "market": "TWSE",
       "industryCode": "02",
@@ -522,6 +578,7 @@
       "prevCap": 4200
     },
     "4904": {
+      "inTop50": false,
       "county": "臺北市",
       "market": "TWSE",
       "industryCode": "27",
@@ -531,6 +588,7 @@
       "prevCap": 3500
     },
     "3665": {
+      "inTop50": false,
       "county": "新北市",
       "market": "TWSE",
       "industryCode": "31",
@@ -540,6 +598,7 @@
       "prevCap": 5800
     },
     "2449": {
+      "inTop50": false,
       "county": "新竹市",
       "market": "TWSE",
       "industryCode": "24",
@@ -549,6 +608,7 @@
       "prevCap": 3900
     },
     "6515": {
+      "inTop50": false,
       "county": "高雄市",
       "market": "TWSE",
       "industryCode": "24",

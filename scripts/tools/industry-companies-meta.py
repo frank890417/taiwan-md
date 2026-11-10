@@ -107,6 +107,7 @@ def main():
     manual = json.loads((ROOT / 'data/industry/companies-county-manual.json').read_text())
     manual = {k: v for k, v in manual.items() if not k.startswith('_')}
     out, missing = {}, []
+    cur_set = {x for x, _ in cur}
     for t in [x for x, _ in cur] + fell_off(cur_ts):
         b = basic.get(t)
         if not b:
@@ -116,7 +117,7 @@ def main():
         if not county:
             missing.append(f'{t}(county:{b["addr"]})')
         p = prev.get(t)
-        out[t] = dict(county=county, market=b['market'], industryCode=b['code'],
+        out[t] = dict(inTop50=t in cur_set, county=county, market=b['market'], industryCode=b['code'],
                       industry=INDUSTRY.get(b['code']), listed=f"{b['listed'][:4]}-{b['listed'][4:6]}-{b['listed'][6:]}",
                       prevRank=p[0] if p else None, prevCap=p[1] if p else None)
     asof = twse[0]['出表日期']

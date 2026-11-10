@@ -1,0 +1,1939 @@
+{
+  "task": "exports",
+  "accessed": "2026-11-10",
+  "totals": {
+    "unit": "億美元（= 百萬美元 / 100；valueUsdMillion 為 MOF 原表單位）",
+    "definition": "出口總值 = 出口 + 復出口（MOF 統計資料庫「進出口貿易值」表口徑）",
+    "byYear": {
+      "2001": {
+        "exportTotalUsdMillion": 126608.592,
+        "exportTotalUsd100M": 1266.09,
+        "exportExclReexportUsdMillion": 122685.692,
+        "reexportUsdMillion": 3922.9
+      },
+      "2002": {
+        "exportTotalUsdMillion": 135769.775,
+        "exportTotalUsd100M": 1357.7,
+        "exportExclReexportUsdMillion": 130409.796,
+        "reexportUsdMillion": 5359.979
+      },
+      "2003": {
+        "exportTotalUsdMillion": 151334.45,
+        "exportTotalUsd100M": 1513.34,
+        "exportExclReexportUsdMillion": 143971.82,
+        "reexportUsdMillion": 7362.629
+      },
+      "2004": {
+        "exportTotalUsdMillion": 183631.186,
+        "exportTotalUsd100M": 1836.31,
+        "exportExclReexportUsdMillion": 173756.631,
+        "reexportUsdMillion": 9874.555
+      },
+      "2005": {
+        "exportTotalUsdMillion": 199752.569,
+        "exportTotalUsd100M": 1997.53,
+        "exportExclReexportUsdMillion": 189108.496,
+        "reexportUsdMillion": 10644.073
+      },
+      "2006": {
+        "exportTotalUsdMillion": 225904.198,
+        "exportTotalUsd100M": 2259.04,
+        "exportExclReexportUsdMillion": 212844.734,
+        "reexportUsdMillion": 13059.464
+      },
+      "2007": {
+        "exportTotalUsdMillion": 248669.973,
+        "exportTotalUsd100M": 2486.7,
+        "exportExclReexportUsdMillion": 234707.947,
+        "reexportUsdMillion": 13962.025
+      },
+      "2008": {
+        "exportTotalUsdMillion": 257754.83,
+        "exportTotalUsd100M": 2577.55,
+        "exportExclReexportUsdMillion": 243425.395,
+        "reexportUsdMillion": 14329.435
+      },
+      "2009": {
+        "exportTotalUsdMillion": 205201.752,
+        "exportTotalUsd100M": 2052.02,
+        "exportExclReexportUsdMillion": 193515.216,
+        "reexportUsdMillion": 11686.535
+      },
+      "2010": {
+        "exportTotalUsdMillion": 277352.073,
+        "exportTotalUsd100M": 2773.52,
+        "exportExclReexportUsdMillion": 261076.228,
+        "reexportUsdMillion": 16275.845
+      },
+      "2011": {
+        "exportTotalUsdMillion": 312182.4,
+        "exportTotalUsd100M": 3121.82,
+        "exportExclReexportUsdMillion": 291327.873,
+        "reexportUsdMillion": 20854.527
+      },
+      "2012": {
+        "exportTotalUsdMillion": 305314.663,
+        "exportTotalUsd100M": 3053.15,
+        "exportExclReexportUsdMillion": 283692.083,
+        "reexportUsdMillion": 21622.579
+      },
+      "2013": {
+        "exportTotalUsdMillion": 310865.636,
+        "exportTotalUsd100M": 3108.66,
+        "exportExclReexportUsdMillion": 287489.201,
+        "reexportUsdMillion": 23376.434
+      },
+      "2014": {
+        "exportTotalUsdMillion": 319413.274,
+        "exportTotalUsd100M": 3194.13,
+        "exportExclReexportUsdMillion": 296033.774,
+        "reexportUsdMillion": 23379.5
+      },
+      "2015": {
+        "exportTotalUsdMillion": 284433.978,
+        "exportTotalUsd100M": 2844.34,
+        "exportExclReexportUsdMillion": 263185.324,
+        "reexportUsdMillion": 21248.654
+      },
+      "2016": {
+        "exportTotalUsdMillion": 279174.656,
+        "exportTotalUsd100M": 2791.75,
+        "exportExclReexportUsdMillion": 256862.193,
+        "reexportUsdMillion": 22312.463
+      },
+      "2017": {
+        "exportTotalUsdMillion": 315486.658,
+        "exportTotalUsd100M": 3154.87,
+        "exportExclReexportUsdMillion": 291437.453,
+        "reexportUsdMillion": 24049.205
+      },
+      "2018": {
+        "exportTotalUsdMillion": 334007.338,
+        "exportTotalUsd100M": 3340.07,
+        "exportExclReexportUsdMillion": 307878.767,
+        "reexportUsdMillion": 26128.571
+      },
+      "2019": {
+        "exportTotalUsdMillion": 329157.32,
+        "exportTotalUsd100M": 3291.57,
+        "exportExclReexportUsdMillion": 304626.389,
+        "reexportUsdMillion": 24530.931
+      },
+      "2020": {
+        "exportTotalUsdMillion": 345125.944,
+        "exportTotalUsd100M": 3451.26,
+        "exportExclReexportUsdMillion": 318815.246,
+        "reexportUsdMillion": 26310.698
+      },
+      "2021": {
+        "exportTotalUsdMillion": 446371.191,
+        "exportTotalUsd100M": 4463.71,
+        "exportExclReexportUsdMillion": 411880.526,
+        "reexportUsdMillion": 34490.665
+      },
+      "2022": {
+        "exportTotalUsdMillion": 479415.23,
+        "exportTotalUsd100M": 4794.15,
+        "exportExclReexportUsdMillion": 444712.182,
+        "reexportUsdMillion": 34703.048
+      },
+      "2023": {
+        "exportTotalUsdMillion": 432419.962,
+        "exportTotalUsd100M": 4324.2,
+        "exportExclReexportUsdMillion": 399939.442,
+        "reexportUsdMillion": 32480.52
+      },
+      "2024": {
+        "exportTotalUsdMillion": 474925.154,
+        "exportTotalUsd100M": 4749.25,
+        "exportExclReexportUsdMillion": 439985.975,
+        "reexportUsdMillion": 34939.179
+      },
+      "2025": {
+        "exportTotalUsdMillion": 639961.977,
+        "exportTotalUsd100M": 6399.62,
+        "exportExclReexportUsdMillion": 593426.362,
+        "reexportUsdMillion": 46535.615
+      }
+    },
+    "ytd2026": {
+      "period": "2026年1月至10月（民國115年1-10月累計）",
+      "exportTotalUsdMillion": 758293.388,
+      "exportTotalUsd100M": 7582.93,
+      "exportExclReexportUsdMillion": 692597.735,
+      "reexportUsdMillion": 65695.653
+    },
+    "source": {
+      "url": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=210&funid=i9101",
+      "queryCsvUrl": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=6000&ymt=11400&kind=21&type=0&funid=i9101&cycle=4&outmode=2&compmode=00&outkind=1&fld0=1&codspc0=0,8,",
+      "title": "財政部統計資料庫 進出口貿易值－貿易總值（年，按美元計算，百萬美元）",
+      "publisher": "財政部統計處",
+      "period": "民國60年-114年（年）；115年1-10月累計",
+      "accessed": "2026-11-10",
+      "quote": "\"114年\",1125072.224,639961.977,593426.362,46535.615,485110.247,484345.447,764.800,154851.730（欄位：貿易總值,出口總值,出口,復出口,進口總值,進口,復進口,出(入)超）",
+      "rawFile": "data/industry/raw/mof_i9101_trade_totals_annual_20261110.csv ; mof_i9101_trade_totals_ytd2026_20261110.csv"
+    }
+  },
+  "byProduct": {
+    "unit": "valueUsdMillion = 百萬美元（MOF 原表）；valueUsd100M = 億美元（= /100）；sharePct = 占出口總值 %（MOF 統計資料庫「結構比」表原值，非自算）",
+    "byYear": {
+      "2001": {
+        "exportTotalUsdMillion": 126608.592,
+        "電子零組件": {
+          "valueUsdMillion": 21070.237,
+          "valueUsd100M": 210.7,
+          "sharePct": 16.64,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 31388.892,
+          "valueUsd100M": 313.89,
+          "sharePct": 24.79,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 11360.824,
+          "valueUsd100M": 113.61,
+          "sharePct": 8.97,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 10095.668,
+          "valueUsd100M": 100.96,
+          "sharePct": 7.97,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 8025.512,
+          "valueUsd100M": 80.26,
+          "sharePct": 6.34,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 4271.412,
+          "valueUsd100M": 42.71,
+          "sharePct": 3.37,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 1945.074,
+          "valueUsd100M": 19.45,
+          "sharePct": 1.54,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 12646.779,
+          "valueUsd100M": 126.47,
+          "sharePct": 9.99,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 3186.327,
+          "valueUsd100M": 31.86,
+          "sharePct": 2.52,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 4495.367,
+          "valueUsd100M": 44.95,
+          "sharePct": 3.55,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 6463.64,
+          "valueUsd100M": 64.64,
+          "sharePct": 5.11,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 52459.129,
+          "sharePct_computed": 41.43,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2005": {
+        "exportTotalUsdMillion": 199752.569,
+        "電子零組件": {
+          "valueUsdMillion": 41233.142,
+          "valueUsd100M": 412.33,
+          "sharePct": 20.64,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 29974.945,
+          "valueUsd100M": 299.75,
+          "sharePct": 15.01,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 20467.438,
+          "valueUsd100M": 204.67,
+          "sharePct": 10.25,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 15735.885,
+          "valueUsd100M": 157.36,
+          "sharePct": 7.88,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 14738.203,
+          "valueUsd100M": 147.38,
+          "sharePct": 7.38,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 10213.836,
+          "valueUsd100M": 102.14,
+          "sharePct": 5.11,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 9279.549,
+          "valueUsd100M": 92.8,
+          "sharePct": 4.65,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 11834.166,
+          "valueUsd100M": 118.34,
+          "sharePct": 5.92,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 13999.721,
+          "valueUsd100M": 140.0,
+          "sharePct": 7.01,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 7329.026,
+          "valueUsd100M": 73.29,
+          "sharePct": 3.67,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 11601.119,
+          "valueUsd100M": 116.01,
+          "sharePct": 5.81,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 71208.087,
+          "sharePct_computed": 35.65,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2010": {
+        "exportTotalUsdMillion": 277352.073,
+        "電子零組件": {
+          "valueUsdMillion": 69091.519,
+          "valueUsd100M": 690.92,
+          "sharePct": 24.91,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 31205.341,
+          "valueUsd100M": 312.05,
+          "sharePct": 11.25,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 25994.429,
+          "valueUsd100M": 259.94,
+          "sharePct": 9.37,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 17974.113,
+          "valueUsd100M": 179.74,
+          "sharePct": 6.48,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 22333.756,
+          "valueUsd100M": 223.34,
+          "sharePct": 8.05,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 19568.481,
+          "valueUsd100M": 195.68,
+          "sharePct": 7.06,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 14865.93,
+          "valueUsd100M": 148.66,
+          "sharePct": 5.36,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 11307.122,
+          "valueUsd100M": 113.07,
+          "sharePct": 4.08,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 23352.461,
+          "valueUsd100M": 233.52,
+          "sharePct": 8.42,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 9339.83,
+          "valueUsd100M": 93.4,
+          "sharePct": 3.37,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 14342.083,
+          "valueUsd100M": 143.42,
+          "sharePct": 5.17,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 100296.86,
+          "sharePct_computed": 36.16,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2015": {
+        "exportTotalUsdMillion": 284433.978,
+        "電子零組件": {
+          "valueUsdMillion": 85912.392,
+          "valueUsd100M": 859.12,
+          "sharePct": 30.2,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 30478.042,
+          "valueUsd100M": 304.78,
+          "sharePct": 10.72,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 25472.15,
+          "valueUsd100M": 254.72,
+          "sharePct": 8.96,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 20631.799,
+          "valueUsd100M": 206.32,
+          "sharePct": 7.25,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 21129.087,
+          "valueUsd100M": 211.29,
+          "sharePct": 7.43,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 18179.905,
+          "valueUsd100M": 181.8,
+          "sharePct": 6.39,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 12075.211,
+          "valueUsd100M": 120.75,
+          "sharePct": 4.25,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 10823.074,
+          "valueUsd100M": 108.23,
+          "sharePct": 3.81,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 16034.487,
+          "valueUsd100M": 160.34,
+          "sharePct": 5.64,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 11763.659,
+          "valueUsd100M": 117.64,
+          "sharePct": 4.14,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 11828.576,
+          "valueUsd100M": 118.29,
+          "sharePct": 4.16,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 116390.434,
+          "sharePct_computed": 40.92,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2018": {
+        "exportTotalUsdMillion": 334007.338,
+        "電子零組件": {
+          "valueUsdMillion": 110768.089,
+          "valueUsd100M": 1107.68,
+          "sharePct": 33.16,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 35323.385,
+          "valueUsd100M": 353.23,
+          "sharePct": 10.58,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 31587.931,
+          "valueUsd100M": 315.88,
+          "sharePct": 9.46,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 25569.142,
+          "valueUsd100M": 255.69,
+          "sharePct": 7.66,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 25276.476,
+          "valueUsd100M": 252.76,
+          "sharePct": 7.57,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 22150.866,
+          "valueUsd100M": 221.51,
+          "sharePct": 6.63,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 14530.387,
+          "valueUsd100M": 145.3,
+          "sharePct": 4.35,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 10074.969,
+          "valueUsd100M": 100.75,
+          "sharePct": 3.02,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 16211.322,
+          "valueUsd100M": 162.11,
+          "sharePct": 4.85,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 11246.299,
+          "valueUsd100M": 112.46,
+          "sharePct": 3.37,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 10793.625,
+          "valueUsd100M": 107.94,
+          "sharePct": 3.23,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 146091.474,
+          "sharePct_computed": 43.74,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2019": {
+        "exportTotalUsdMillion": 329157.32,
+        "電子零組件": {
+          "valueUsdMillion": 112516.741,
+          "valueUsd100M": 1125.17,
+          "sharePct": 34.18,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 42625.893,
+          "valueUsd100M": 426.26,
+          "sharePct": 12.95,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 27841.293,
+          "valueUsd100M": 278.41,
+          "sharePct": 8.46,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 23498.2,
+          "valueUsd100M": 234.98,
+          "sharePct": 7.14,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 22580.321,
+          "valueUsd100M": 225.8,
+          "sharePct": 6.86,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 18667.5,
+          "valueUsd100M": 186.68,
+          "sharePct": 5.67,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 14035.297,
+          "valueUsd100M": 140.35,
+          "sharePct": 4.26,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 9178.338,
+          "valueUsd100M": 91.78,
+          "sharePct": 2.79,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 15745.888,
+          "valueUsd100M": 157.46,
+          "sharePct": 4.78,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 11260.194,
+          "valueUsd100M": 112.6,
+          "sharePct": 3.42,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 10734.269,
+          "valueUsd100M": 107.34,
+          "sharePct": 3.26,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 155142.634,
+          "sharePct_computed": 47.13,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2020": {
+        "exportTotalUsdMillion": 345125.944,
+        "電子零組件": {
+          "valueUsdMillion": 135512.25,
+          "valueUsd100M": 1355.12,
+          "sharePct": 39.26,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 49145.157,
+          "valueUsd100M": 491.45,
+          "sharePct": 14.24,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 25485.798,
+          "valueUsd100M": 254.86,
+          "sharePct": 7.38,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 21919.297,
+          "valueUsd100M": 219.19,
+          "sharePct": 6.35,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 21259.355,
+          "valueUsd100M": 212.59,
+          "sharePct": 6.16,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 16653.778,
+          "valueUsd100M": 166.54,
+          "sharePct": 4.83,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 7322.112,
+          "valueUsd100M": 73.22,
+          "sharePct": 2.12,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 7538.852,
+          "valueUsd100M": 75.39,
+          "sharePct": 2.18,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 16734.037,
+          "valueUsd100M": 167.34,
+          "sharePct": 4.85,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 10958.009,
+          "valueUsd100M": 109.58,
+          "sharePct": 3.18,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 10866.011,
+          "valueUsd100M": 108.66,
+          "sharePct": 3.15,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 184657.407,
+          "sharePct_computed": 53.5,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2021": {
+        "exportTotalUsdMillion": 446371.191,
+        "電子零組件": {
+          "valueUsdMillion": 171994.535,
+          "valueUsd100M": 1719.95,
+          "sharePct": 38.53,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 61323.027,
+          "valueUsd100M": 613.23,
+          "sharePct": 13.74,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 36811.038,
+          "valueUsd100M": 368.11,
+          "sharePct": 8.25,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 27830.021,
+          "valueUsd100M": 278.3,
+          "sharePct": 6.23,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 29865.642,
+          "valueUsd100M": 298.66,
+          "sharePct": 6.69,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 23407.954,
+          "valueUsd100M": 234.08,
+          "sharePct": 5.24,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 12129.606,
+          "valueUsd100M": 121.3,
+          "sharePct": 2.72,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 9027.09,
+          "valueUsd100M": 90.27,
+          "sharePct": 2.02,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 19788.383,
+          "valueUsd100M": 197.88,
+          "sharePct": 4.43,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 14581.538,
+          "valueUsd100M": 145.82,
+          "sharePct": 3.27,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 14354.775,
+          "valueUsd100M": 143.55,
+          "sharePct": 3.22,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 233317.562,
+          "sharePct_computed": 52.27,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2022": {
+        "exportTotalUsdMillion": 479415.23,
+        "電子零組件": {
+          "valueUsdMillion": 200134.214,
+          "valueUsd100M": 2001.34,
+          "sharePct": 41.75,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 64678.777,
+          "valueUsd100M": 646.79,
+          "sharePct": 13.49,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 36865.631,
+          "valueUsd100M": 368.66,
+          "sharePct": 7.69,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 28551.052,
+          "valueUsd100M": 285.51,
+          "sharePct": 5.96,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 26016.314,
+          "valueUsd100M": 260.16,
+          "sharePct": 5.43,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 23475.579,
+          "valueUsd100M": 234.76,
+          "sharePct": 4.9,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 19744.802,
+          "valueUsd100M": 197.45,
+          "sharePct": 4.12,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 8848.608,
+          "valueUsd100M": 88.49,
+          "sharePct": 1.85,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 16522.113,
+          "valueUsd100M": 165.22,
+          "sharePct": 3.45,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 16629.357,
+          "valueUsd100M": 166.29,
+          "sharePct": 3.47,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 15863.83,
+          "valueUsd100M": 158.64,
+          "sharePct": 3.31,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 264812.991,
+          "sharePct_computed": 55.24,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2023": {
+        "exportTotalUsdMillion": 432419.962,
+        "電子零組件": {
+          "valueUsdMillion": 178699.954,
+          "valueUsd100M": 1787.0,
+          "sharePct": 41.33,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 83355.252,
+          "valueUsd100M": 833.55,
+          "sharePct": 19.28,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 28737.426,
+          "valueUsd100M": 287.37,
+          "sharePct": 6.65,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 24211.332,
+          "valueUsd100M": 242.11,
+          "sharePct": 5.6,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 19956.573,
+          "valueUsd100M": 199.57,
+          "sharePct": 4.62,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 18417.868,
+          "valueUsd100M": 184.18,
+          "sharePct": 4.26,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 14619.322,
+          "valueUsd100M": 146.19,
+          "sharePct": 3.38,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 6631.686,
+          "valueUsd100M": 66.32,
+          "sharePct": 1.53,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 12967.242,
+          "valueUsd100M": 129.67,
+          "sharePct": 3.0,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 12439.823,
+          "valueUsd100M": 124.4,
+          "sharePct": 2.88,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 13122.723,
+          "valueUsd100M": 131.23,
+          "sharePct": 3.03,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 262055.206,
+          "sharePct_computed": 60.6,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2024": {
+        "exportTotalUsdMillion": 474925.154,
+        "電子零組件": {
+          "valueUsdMillion": 177222.607,
+          "valueUsd100M": 1772.23,
+          "sharePct": 37.32,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 132501.133,
+          "valueUsd100M": 1325.01,
+          "sharePct": 27.9,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 28520.578,
+          "valueUsd100M": 285.21,
+          "sharePct": 6.01,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 24062.188,
+          "valueUsd100M": 240.62,
+          "sharePct": 5.07,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 19585.167,
+          "valueUsd100M": 195.85,
+          "sharePct": 4.12,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 18281.653,
+          "valueUsd100M": 182.82,
+          "sharePct": 3.85,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 13950.516,
+          "valueUsd100M": 139.51,
+          "sharePct": 2.94,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 6727.106,
+          "valueUsd100M": 67.27,
+          "sharePct": 1.42,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 11258.321,
+          "valueUsd100M": 112.58,
+          "sharePct": 2.37,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 10868.926,
+          "valueUsd100M": 108.69,
+          "sharePct": 2.29,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 13296.754,
+          "valueUsd100M": 132.97,
+          "sharePct": 2.8,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 309723.74,
+          "sharePct_computed": 65.22,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      },
+      "2025": {
+        "exportTotalUsdMillion": 639961.977,
+        "電子零組件": {
+          "valueUsdMillion": 222164.405,
+          "valueUsd100M": 2221.64,
+          "sharePct": 34.72,
+          "mofColumn": "(1)電子零組件"
+        },
+        "資通與視聽產品": {
+          "valueUsdMillion": 251149.029,
+          "valueUsd100M": 2511.49,
+          "sharePct": 39.24,
+          "mofColumn": "(4)資通與視聽產品"
+        },
+        "基本金屬及其製品": {
+          "valueUsdMillion": 27929.898,
+          "valueUsd100M": 279.3,
+          "sharePct": 4.36,
+          "mofColumn": "15.基本金屬及其製品"
+        },
+        "機械": {
+          "valueUsdMillion": 25749.15,
+          "valueUsd100M": 257.49,
+          "sharePct": 4.02,
+          "mofColumn": "(2)機械"
+        },
+        "塑膠、橡膠及其製品": {
+          "valueUsdMillion": 17998.616,
+          "valueUsd100M": 179.99,
+          "sharePct": 2.81,
+          "mofColumn": "7.塑膠、橡膠及其製品"
+        },
+        "化學品": {
+          "valueUsdMillion": 18228.667,
+          "valueUsd100M": 182.29,
+          "sharePct": 2.85,
+          "mofColumn": "6.化學品"
+        },
+        "礦產品": {
+          "valueUsdMillion": 13918.167,
+          "valueUsd100M": 139.18,
+          "sharePct": 2.17,
+          "mofColumn": "5.礦產品"
+        },
+        "紡織品": {
+          "valueUsdMillion": 6221.144,
+          "valueUsd100M": 62.21,
+          "sharePct": 0.97,
+          "mofColumn": "11.紡織品"
+        },
+        "光學及精密儀器（光學器材）": {
+          "valueUsdMillion": 12402.792,
+          "valueUsd100M": 124.03,
+          "sharePct": 1.94,
+          "mofColumn": "(1)光學及精密儀器"
+        },
+        "運輸工具": {
+          "valueUsdMillion": 10390.774,
+          "valueUsd100M": 103.91,
+          "sharePct": 1.62,
+          "mofColumn": "17.運輸工具"
+        },
+        "電機產品": {
+          "valueUsdMillion": 15081.471,
+          "valueUsd100M": 150.81,
+          "sharePct": 2.36,
+          "mofColumn": "(3)電機產品"
+        },
+        "電子零組件＋資通與視聽產品合計": {
+          "valueUsdMillion": 473313.434,
+          "sharePct_computed": 73.96,
+          "note": "兩欄相加，占比為自算（value/總計），MOF 單獨表欄無此合計"
+        }
+      }
+    },
+    "ytd2026": {
+      "period": "2026年1月至10月累計",
+      "exportTotalUsdMillion": 758293.388,
+      "電子零組件": {
+        "valueUsdMillion": 264222.563,
+        "valueUsd100M": 2642.23,
+        "sharePct": 34.84
+      },
+      "資通與視聽產品": {
+        "valueUsdMillion": 338601.423,
+        "valueUsd100M": 3386.01,
+        "sharePct": 44.65
+      },
+      "基本金屬及其製品": {
+        "valueUsdMillion": 25958.711,
+        "valueUsd100M": 259.59,
+        "sharePct": 3.42
+      },
+      "機械": {
+        "valueUsdMillion": 25085.328,
+        "valueUsd100M": 250.85,
+        "sharePct": 3.31
+      },
+      "塑膠、橡膠及其製品": {
+        "valueUsdMillion": 15610.244,
+        "valueUsd100M": 156.1,
+        "sharePct": 2.06
+      },
+      "化學品": {
+        "valueUsdMillion": 16431.51,
+        "valueUsd100M": 164.32,
+        "sharePct": 2.17
+      },
+      "礦產品": {
+        "valueUsdMillion": 15577.021,
+        "valueUsd100M": 155.77,
+        "sharePct": 2.05
+      },
+      "紡織品": {
+        "valueUsdMillion": 4901.661,
+        "valueUsd100M": 49.02,
+        "sharePct": 0.65
+      },
+      "光學及精密儀器（光學器材）": {
+        "valueUsdMillion": 11346.465,
+        "valueUsd100M": 113.46,
+        "sharePct": 1.5
+      },
+      "運輸工具": {
+        "valueUsdMillion": 8616.076,
+        "valueUsd100M": 86.16,
+        "sharePct": 1.14
+      },
+      "電機產品": {
+        "valueUsdMillion": 15522.96,
+        "valueUsd100M": 155.23,
+        "sharePct": 2.05
+      }
+    },
+    "source": {
+      "url": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=210&funid=i9121",
+      "queryCsvUrl": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&ymt=11400&kind=21&type=0&funid=i9121&cycle=4&outmode=2&compmode=00&outkind=1&fld0=1&codspc0=0,42,",
+      "shareUrl": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=210&funid=i8123",
+      "shareCsvUrl": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=9000&ymt=11400&kind=21&type=0&funid=i8123&cycle=4&outmode=2&compmode=00&outkind=1&fldspc=0,42,",
+      "title": "財政部統計資料庫 貨品別貿易值－按主要貨品別－出口（百萬美元）；貨品別貿易值結構比－按主要貨品別－出口",
+      "publisher": "財政部統計處",
+      "period": "民國90年-114年（年）；115年1-10月累計",
+      "accessed": "2026-11-10",
+      "quote": "\"114年\",639961.977,...,\"(1)電子零組件\" 222164.405,\"(4)資通與視聽產品\" 251149.029,\"(2)機械\" 25749.150,\"(3)電機產品\" 15081.471（MOF CSV 114年列）",
+      "rawFile": "data/industry/raw/mof_i9121_export_by_product_annual_20261110.csv ; mof_i8123_export_product_share_annual_20261110.csv"
+    }
+  },
+  "byMarket": {
+    "unit": "valueUsdThousand = 千美元（MOF 原表）；valueUsd100M = 億美元；sharePct_computed = 該市場出口 / 同表「總計_出口」× 100，自算，四捨五入至 2 位",
+    "byYear": {
+      "2001": {
+        "exportTotalUsdThousand": 126608592.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 33810115.0,
+          "valueUsd100M": 338.1,
+          "sharePct_computed": 26.7
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 5020729.0,
+          "valueUsd100M": 50.21,
+          "sharePct_computed": 3.97,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 28789386.0,
+          "valueUsd100M": 287.89,
+          "sharePct_computed": 22.74
+        },
+        "美國": {
+          "valueUsdThousand": 28128251.0,
+          "valueUsd100M": 281.28,
+          "sharePct_computed": 22.22
+        },
+        "東協十國": {
+          "valueUsdThousand": 15414694.0,
+          "valueUsd100M": 154.15,
+          "sharePct_computed": 12.18,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 13031446.0,
+          "valueUsd100M": 130.31,
+          "sharePct_computed": 10.29
+        },
+        "歐洲": {
+          "valueUsdThousand": 19989079.0,
+          "valueUsd100M": 199.89,
+          "sharePct_computed": 15.79,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2005": {
+        "exportTotalUsdThousand": 199752569.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 78276361.0,
+          "valueUsd100M": 782.76,
+          "sharePct_computed": 39.19
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 44056256.0,
+          "valueUsd100M": 440.56,
+          "sharePct_computed": 22.06,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 34220105.0,
+          "valueUsd100M": 342.2,
+          "sharePct_computed": 17.13
+        },
+        "美國": {
+          "valueUsdThousand": 29162882.0,
+          "valueUsd100M": 291.63,
+          "sharePct_computed": 14.6
+        },
+        "東協十國": {
+          "valueUsdThousand": 27583923.0,
+          "valueUsd100M": 275.84,
+          "sharePct_computed": 13.81,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 15246183.0,
+          "valueUsd100M": 152.46,
+          "sharePct_computed": 7.63
+        },
+        "歐洲": {
+          "valueUsdThousand": 23641547.0,
+          "valueUsd100M": 236.42,
+          "sharePct_computed": 11.84,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2010": {
+        "exportTotalUsdThousand": 277352073.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 116120436.0,
+          "valueUsd100M": 1161.2,
+          "sharePct_computed": 41.87
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 77886868.0,
+          "valueUsd100M": 778.87,
+          "sharePct_computed": 28.08,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 38233568.0,
+          "valueUsd100M": 382.34,
+          "sharePct_computed": 13.79
+        },
+        "美國": {
+          "valueUsdThousand": 31566001.0,
+          "valueUsd100M": 315.66,
+          "sharePct_computed": 11.38
+        },
+        "東協十國": {
+          "valueUsdThousand": 42291237.0,
+          "valueUsd100M": 422.91,
+          "sharePct_computed": 15.25,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 18445058.0,
+          "valueUsd100M": 184.45,
+          "sharePct_computed": 6.65
+        },
+        "歐洲": {
+          "valueUsdThousand": 29500837.0,
+          "valueUsd100M": 295.01,
+          "sharePct_computed": 10.64,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2015": {
+        "exportTotalUsdThousand": 284433978.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 112386426.0,
+          "valueUsd100M": 1123.86,
+          "sharePct_computed": 39.51
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 73270118.0,
+          "valueUsd100M": 732.7,
+          "sharePct_computed": 25.76,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 39116308.0,
+          "valueUsd100M": 391.16,
+          "sharePct_computed": 13.75
+        },
+        "美國": {
+          "valueUsdThousand": 34448479.0,
+          "valueUsd100M": 344.48,
+          "sharePct_computed": 12.11
+        },
+        "東協十國": {
+          "valueUsdThousand": 51590504.0,
+          "valueUsd100M": 515.91,
+          "sharePct_computed": 18.14,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 19556522.0,
+          "valueUsd100M": 195.57,
+          "sharePct_computed": 6.88
+        },
+        "歐洲": {
+          "valueUsdThousand": 25869495.0,
+          "valueUsd100M": 258.69,
+          "sharePct_computed": 9.1,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2018": {
+        "exportTotalUsdThousand": 334007338.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 137898804.0,
+          "valueUsd100M": 1378.99,
+          "sharePct_computed": 41.29
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 96497850.0,
+          "valueUsd100M": 964.98,
+          "sharePct_computed": 28.89,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 41400954.0,
+          "valueUsd100M": 414.01,
+          "sharePct_computed": 12.4
+        },
+        "美國": {
+          "valueUsdThousand": 39490380.0,
+          "valueUsd100M": 394.9,
+          "sharePct_computed": 11.82
+        },
+        "東協十國": {
+          "valueUsdThousand": 58125725.0,
+          "valueUsd100M": 581.26,
+          "sharePct_computed": 17.4,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 22800957.0,
+          "valueUsd100M": 228.01,
+          "sharePct_computed": 6.83
+        },
+        "歐洲": {
+          "valueUsdThousand": 31277632.0,
+          "valueUsd100M": 312.78,
+          "sharePct_computed": 9.36,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2019": {
+        "exportTotalUsdThousand": 329157320.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 132114565.0,
+          "valueUsd100M": 1321.15,
+          "sharePct_computed": 40.14
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 91789357.0,
+          "valueUsd100M": 917.89,
+          "sharePct_computed": 27.89,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 40325208.0,
+          "valueUsd100M": 403.25,
+          "sharePct_computed": 12.25
+        },
+        "美國": {
+          "valueUsdThousand": 46247108.0,
+          "valueUsd100M": 462.47,
+          "sharePct_computed": 14.05
+        },
+        "東協十國": {
+          "valueUsdThousand": 53934743.0,
+          "valueUsd100M": 539.35,
+          "sharePct_computed": 16.39,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 23278741.0,
+          "valueUsd100M": 232.79,
+          "sharePct_computed": 7.07
+        },
+        "歐洲": {
+          "valueUsdThousand": 29770314.0,
+          "valueUsd100M": 297.7,
+          "sharePct_computed": 9.04,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2020": {
+        "exportTotalUsdThousand": 345125944.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 151381360.0,
+          "valueUsd100M": 1513.81,
+          "sharePct_computed": 43.86
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 102446179.0,
+          "valueUsd100M": 1024.46,
+          "sharePct_computed": 29.68,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 48935181.0,
+          "valueUsd100M": 489.35,
+          "sharePct_computed": 14.18
+        },
+        "美國": {
+          "valueUsdThousand": 50549921.0,
+          "valueUsd100M": 505.5,
+          "sharePct_computed": 14.65
+        },
+        "東協十國": {
+          "valueUsdThousand": 53215330.0,
+          "valueUsd100M": 532.15,
+          "sharePct_computed": 15.42,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 23398254.0,
+          "valueUsd100M": 233.98,
+          "sharePct_computed": 6.78
+        },
+        "歐洲": {
+          "valueUsdThousand": 28143108.0,
+          "valueUsd100M": 281.43,
+          "sharePct_computed": 8.15,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2021": {
+        "exportTotalUsdThousand": 446371191.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 188874561.0,
+          "valueUsd100M": 1888.75,
+          "sharePct_computed": 42.31
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 125902555.0,
+          "valueUsd100M": 1259.03,
+          "sharePct_computed": 28.21,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 62972006.0,
+          "valueUsd100M": 629.72,
+          "sharePct_computed": 14.11
+        },
+        "美國": {
+          "valueUsdThousand": 65685966.0,
+          "valueUsd100M": 656.86,
+          "sharePct_computed": 14.72
+        },
+        "東協十國": {
+          "valueUsdThousand": 70241749.0,
+          "valueUsd100M": 702.42,
+          "sharePct_computed": 15.74,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 29206218.0,
+          "valueUsd100M": 292.06,
+          "sharePct_computed": 6.54
+        },
+        "歐洲": {
+          "valueUsdThousand": 38484236.0,
+          "valueUsd100M": 384.84,
+          "sharePct_computed": 8.62,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2022": {
+        "exportTotalUsdThousand": 479415230.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 185875178.0,
+          "valueUsd100M": 1858.75,
+          "sharePct_computed": 38.77
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 121092996.0,
+          "valueUsd100M": 1210.93,
+          "sharePct_computed": 25.26,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 64782182.0,
+          "valueUsd100M": 647.82,
+          "sharePct_computed": 13.51
+        },
+        "美國": {
+          "valueUsdThousand": 75052059.0,
+          "valueUsd100M": 750.52,
+          "sharePct_computed": 15.65
+        },
+        "東協十國": {
+          "valueUsdThousand": 80609434.0,
+          "valueUsd100M": 806.09,
+          "sharePct_computed": 16.81,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 33608899.0,
+          "valueUsd100M": 336.09,
+          "sharePct_computed": 7.01
+        },
+        "歐洲": {
+          "valueUsdThousand": 41099083.0,
+          "valueUsd100M": 410.99,
+          "sharePct_computed": 8.57,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2023": {
+        "exportTotalUsdThousand": 432419962.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 152238741.0,
+          "valueUsd100M": 1522.39,
+          "sharePct_computed": 35.21
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 95725727.0,
+          "valueUsd100M": 957.26,
+          "sharePct_computed": 22.14,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 56513014.0,
+          "valueUsd100M": 565.13,
+          "sharePct_computed": 13.07
+        },
+        "美國": {
+          "valueUsdThousand": 76234038.0,
+          "valueUsd100M": 762.34,
+          "sharePct_computed": 17.63
+        },
+        "東協十國": {
+          "valueUsdThousand": 76274869.0,
+          "valueUsd100M": 762.75,
+          "sharePct_computed": 17.64,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 31434886.0,
+          "valueUsd100M": 314.35,
+          "sharePct_computed": 7.27
+        },
+        "歐洲": {
+          "valueUsdThousand": 42283483.0,
+          "valueUsd100M": 422.83,
+          "sharePct_computed": 9.78,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2024": {
+        "exportTotalUsdThousand": 474925154.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 150588672.0,
+          "valueUsd100M": 1505.89,
+          "sharePct_computed": 31.71
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 96953212.0,
+          "valueUsd100M": 969.53,
+          "sharePct_computed": 20.41,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 53635460.0,
+          "valueUsd100M": 536.35,
+          "sharePct_computed": 11.29
+        },
+        "美國": {
+          "valueUsdThousand": 111361914.0,
+          "valueUsd100M": 1113.62,
+          "sharePct_computed": 23.45
+        },
+        "東協十國": {
+          "valueUsdThousand": 87734804.0,
+          "valueUsd100M": 877.35,
+          "sharePct_computed": 18.47,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 25830238.0,
+          "valueUsd100M": 258.3,
+          "sharePct_computed": 5.44
+        },
+        "歐洲": {
+          "valueUsdThousand": 38628925.0,
+          "valueUsd100M": 386.29,
+          "sharePct_computed": 8.13,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      },
+      "2025": {
+        "exportTotalUsdThousand": 639961977.0,
+        "中國大陸與香港": {
+          "valueUsdThousand": 170454062.0,
+          "valueUsd100M": 1704.54,
+          "sharePct_computed": 26.64
+        },
+        "其中中國大陸": {
+          "valueUsdThousand": 100081018.0,
+          "valueUsd100M": 1000.81,
+          "sharePct_computed": 15.64,
+          "note": "MOF 欄「中國大陸」，不含香港"
+        },
+        "其中香港": {
+          "valueUsdThousand": 70373044.0,
+          "valueUsd100M": 703.73,
+          "sharePct_computed": 11.0
+        },
+        "美國": {
+          "valueUsdThousand": 198258264.0,
+          "valueUsd100M": 1982.58,
+          "sharePct_computed": 30.98
+        },
+        "東協十國": {
+          "valueUsdThousand": 118280782.0,
+          "valueUsd100M": 1182.81,
+          "sharePct_computed": 18.48,
+          "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+        },
+        "日本": {
+          "valueUsdThousand": 30011738.0,
+          "valueUsd100M": 300.12,
+          "sharePct_computed": 4.69
+        },
+        "歐洲": {
+          "valueUsdThousand": 41275969.0,
+          "valueUsd100M": 412.76,
+          "sharePct_computed": 6.45,
+          "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+        },
+        "東協_missing_countries": []
+      }
+    },
+    "ytd2026": {
+      "period": "2026年1月至10月累計",
+      "exportTotalUsdThousand": 758293388.0,
+      "中國大陸與香港": {
+        "valueUsdThousand": 180527206.0,
+        "valueUsd100M": 1805.27,
+        "sharePct_computed": 23.81
+      },
+      "其中中國大陸": {
+        "valueUsdThousand": 104500435.0,
+        "valueUsd100M": 1045.0,
+        "sharePct_computed": 13.78,
+        "note": "MOF 欄「中國大陸」，不含香港"
+      },
+      "其中香港": {
+        "valueUsdThousand": 76026771.0,
+        "valueUsd100M": 760.27,
+        "sharePct_computed": 10.03
+      },
+      "美國": {
+        "valueUsdThousand": 240707712.0,
+        "valueUsd100M": 2407.08,
+        "sharePct_computed": 31.74
+      },
+      "東協十國": {
+        "valueUsdThousand": 152279410.0,
+        "valueUsd100M": 1522.79,
+        "sharePct_computed": 20.08,
+        "note": "新加坡+馬來西亞+印尼+越南+泰國+菲律賓+柬埔寨+緬甸+汶萊+寮國；東帝汶(2025年10月入會)未計"
+      },
+      "日本": {
+        "valueUsdThousand": 31439913.0,
+        "valueUsd100M": 314.4,
+        "sharePct_computed": 4.15
+      },
+      "歐洲": {
+        "valueUsdThousand": 48129570.0,
+        "valueUsd100M": 481.3,
+        "sharePct_computed": 6.35,
+        "note": "MOF「歐洲」洲別合計（MOF 國別清單中歐洲含德、荷、英、法、俄羅斯、瑞士等，土耳其列在中東），非僅歐盟"
+      },
+      "東協_missing_countries": []
+    },
+    "source": {
+      "url": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=210&funid=i9111",
+      "queryCsvUrl": "https://web02.mof.gov.tw/njswww/webMain.aspx?sys=220&ym=7000&ymt=11400&kind=21&type=0&funid=i9111&cycle=4&outmode=2&compmode=00&outkind=1&fld0=1&codspc0=0,1,2,10,17,1,19,1,21,1,24,1,51,1,94,1,&cod10=1",
+      "title": "財政部統計資料庫 洲別／國別貿易值（出口，按美元計算，千美元）",
+      "publisher": "財政部統計處",
+      "period": "民國70年-114年（年）；115年1-10月累計",
+      "accessed": "2026-11-10",
+      "quote": "\"114年\" 列，欄：總計_出口,中國大陸_出口,香港_出口,日本_出口,…,歐洲_出口,美國_出口（MOF CSV）；另「注意事項：部分國家/地區因貿易管理或往來時間不同,致資料起始年月略有差異(如中國大陸、越南等)。」",
+      "rawFile": "data/industry/raw/mof_i9111_export_by_country_annual_20261110.csv ; mof_i9111_export_by_country_ytd2026_20261110.csv"
+    }
+  },
+  "longHistory": {
+    "unit": "金額：百萬美元；占比：% （皆為原表值，非自算）",
+    "byYear": {
+      "1952": {
+        "totalUsdMillion": 116.5,
+        "agriculturalUsdMillion": 25.7,
+        "processedAgriculturalUsdMillion": 81.3,
+        "industrialUsdMillion": 9.5,
+        "agriculturalPct": 22.1,
+        "processedAgriculturalPct": 69.8,
+        "industrialPct": 8.1
+      },
+      "1955": {
+        "totalUsdMillion": 123.3,
+        "agriculturalUsdMillion": 34.7,
+        "processedAgriculturalUsdMillion": 75.8,
+        "industrialUsdMillion": 12.8,
+        "agriculturalPct": 28.1,
+        "processedAgriculturalPct": 61.5,
+        "industrialPct": 10.4
+      },
+      "1960": {
+        "totalUsdMillion": 164.0,
+        "agriculturalUsdMillion": 19.7,
+        "processedAgriculturalUsdMillion": 91.3,
+        "industrialUsdMillion": 53.0,
+        "agriculturalPct": 12.0,
+        "processedAgriculturalPct": 55.7,
+        "industrialPct": 32.3
+      },
+      "1965": {
+        "totalUsdMillion": 449.7,
+        "agriculturalUsdMillion": 106.2,
+        "processedAgriculturalUsdMillion": 136.6,
+        "industrialUsdMillion": 206.9,
+        "agriculturalPct": 23.6,
+        "processedAgriculturalPct": 30.4,
+        "industrialPct": 46.0
+      },
+      "1970": {
+        "totalUsdMillion": 1481.4,
+        "agriculturalUsdMillion": 126.7,
+        "processedAgriculturalUsdMillion": 190.0,
+        "industrialUsdMillion": 1164.7,
+        "agriculturalPct": 8.6,
+        "processedAgriculturalPct": 12.8,
+        "industrialPct": 78.6
+      },
+      "1973": {
+        "totalUsdMillion": 4483.4,
+        "agriculturalUsdMillion": 337.6,
+        "processedAgriculturalUsdMillion": 351.7,
+        "industrialUsdMillion": 3794.1,
+        "agriculturalPct": 7.5,
+        "processedAgriculturalPct": 7.9,
+        "industrialPct": 84.6
+      },
+      "1974": {
+        "totalUsdMillion": 5639.0,
+        "agriculturalUsdMillion": 269.6,
+        "processedAgriculturalUsdMillion": 603.2,
+        "industrialUsdMillion": 4766.2,
+        "agriculturalPct": 4.8,
+        "processedAgriculturalPct": 10.7,
+        "industrialPct": 84.5
+      },
+      "1975": {
+        "totalUsdMillion": 5308.8,
+        "agriculturalUsdMillion": 295.7,
+        "processedAgriculturalUsdMillion": 572.5,
+        "industrialUsdMillion": 4440.6,
+        "agriculturalPct": 5.6,
+        "processedAgriculturalPct": 10.8,
+        "industrialPct": 83.6
+      },
+      "1976": {
+        "totalUsdMillion": 8166.3,
+        "agriculturalUsdMillion": 406.1,
+        "processedAgriculturalUsdMillion": 606.1,
+        "industrialUsdMillion": 7154.1,
+        "agriculturalPct": 5.0,
+        "processedAgriculturalPct": 7.4,
+        "industrialPct": 87.6
+      },
+      "1977": {
+        "totalUsdMillion": 9360.7,
+        "agriculturalUsdMillion": 502.3,
+        "processedAgriculturalUsdMillion": 669.6,
+        "industrialUsdMillion": 8188.8,
+        "agriculturalPct": 5.4,
+        "processedAgriculturalPct": 7.1,
+        "industrialPct": 87.5
+      },
+      "1978": {
+        "totalUsdMillion": 12687.1,
+        "agriculturalUsdMillion": 637.5,
+        "processedAgriculturalUsdMillion": 740.1,
+        "industrialUsdMillion": 11309.5,
+        "agriculturalPct": 5.0,
+        "processedAgriculturalPct": 5.8,
+        "industrialPct": 89.2
+      },
+      "1979": {
+        "totalUsdMillion": 16103.4,
+        "agriculturalUsdMillion": 703.0,
+        "processedAgriculturalUsdMillion": 819.6,
+        "industrialUsdMillion": 14580.8,
+        "agriculturalPct": 4.4,
+        "processedAgriculturalPct": 5.1,
+        "industrialPct": 90.5
+      },
+      "1980": {
+        "totalUsdMillion": 19810.6,
+        "agriculturalUsdMillion": 712.2,
+        "processedAgriculturalUsdMillion": 1108.7,
+        "industrialUsdMillion": 17989.7,
+        "agriculturalPct": 3.6,
+        "processedAgriculturalPct": 5.6,
+        "industrialPct": 90.8
+      },
+      "1981": {
+        "totalUsdMillion": 22611.2,
+        "agriculturalUsdMillion": 580.2,
+        "processedAgriculturalUsdMillion": 1042.0,
+        "industrialUsdMillion": 20989.0,
+        "agriculturalPct": 2.6,
+        "processedAgriculturalPct": 4.6,
+        "industrialPct": 92.8
+      },
+      "1982": {
+        "totalUsdMillion": 22204.3,
+        "agriculturalUsdMillion": 451.8,
+        "processedAgriculturalUsdMillion": 1133.2,
+        "industrialUsdMillion": 20619.3,
+        "agriculturalPct": 2.0,
+        "processedAgriculturalPct": 5.1,
+        "industrialPct": 92.9
+      },
+      "1983": {
+        "totalUsdMillion": 25122.7,
+        "agriculturalUsdMillion": 485.3,
+        "processedAgriculturalUsdMillion": 1215.4,
+        "industrialUsdMillion": 23422.0,
+        "agriculturalPct": 1.9,
+        "processedAgriculturalPct": 4.8,
+        "industrialPct": 93.3
+      },
+      "1984": {
+        "totalUsdMillion": 30456.4,
+        "agriculturalUsdMillion": 507.3,
+        "processedAgriculturalUsdMillion": 1324.3,
+        "industrialUsdMillion": 28624.8,
+        "agriculturalPct": 1.7,
+        "processedAgriculturalPct": 4.3,
+        "industrialPct": 94.0
+      },
+      "1985": {
+        "totalUsdMillion": 30725.7,
+        "agriculturalUsdMillion": 491.9,
+        "processedAgriculturalUsdMillion": 1386.7,
+        "industrialUsdMillion": 28847.1,
+        "agriculturalPct": 1.6,
+        "processedAgriculturalPct": 4.5,
+        "industrialPct": 93.9
+      },
+      "1986": {
+        "totalUsdMillion": 39861.5,
+        "agriculturalUsdMillion": 626.8,
+        "processedAgriculturalUsdMillion": 1950.6,
+        "industrialUsdMillion": 37284.1,
+        "agriculturalPct": 1.6,
+        "processedAgriculturalPct": 4.9,
+        "industrialPct": 93.5
+      },
+      "1987": {
+        "totalUsdMillion": 53678.7,
+        "agriculturalUsdMillion": 689.6,
+        "processedAgriculturalUsdMillion": 2559.1,
+        "industrialUsdMillion": 50430.0,
+        "agriculturalPct": 1.3,
+        "processedAgriculturalPct": 4.8,
+        "industrialPct": 93.9
+      },
+      "1988": {
+        "totalUsdMillion": 60667.4,
+        "agriculturalUsdMillion": 823.5,
+        "processedAgriculturalUsdMillion": 2496.8,
+        "industrialUsdMillion": 57347.1,
+        "agriculturalPct": 1.4,
+        "processedAgriculturalPct": 4.1,
+        "industrialPct": 94.5
+      },
+      "1989": {
+        "totalUsdMillion": 66304.0,
+        "agriculturalUsdMillion": 477.8,
+        "processedAgriculturalUsdMillion": 2579.3,
+        "industrialUsdMillion": 63246.9,
+        "agriculturalPct": 0.7,
+        "processedAgriculturalPct": 3.9,
+        "industrialPct": 95.4
+      },
+      "1990": {
+        "totalUsdMillion": 67214.4,
+        "agriculturalUsdMillion": 431.4,
+        "processedAgriculturalUsdMillion": 2578.7,
+        "industrialUsdMillion": 64204.2,
+        "agriculturalPct": 0.7,
+        "processedAgriculturalPct": 3.8,
+        "industrialPct": 95.5
+      }
+    },
+    "source": {
+      "url": "https://www.taiwan-database.net/PDFs/Taiwan_Statistical_Data_Book_2002.pdf",
+      "title": "Taiwan Statistical Data Book 2002, Table 11-7 Composition of Exports（p.216）",
+      "publisher": "Council for Economic Planning and Development, R.O.C.（國發會前身經建會）；PDF 取自 taiwan-database.net 鏡像",
+      "period": "1952-2001（本欄取 1952-1990，原表 1952、1955、1960、1965、1970、1973-2001 逐年）",
+      "accessed": "2026-11-10",
+      "quote": "1952   116.5   25.7   81.3   9.5   100.0   22.1   69.8   8.1",
+      "rawFile": "data/industry/raw/ndc_databook/TSDB_2002.pdf"
+    }
+  },
+  "notes": {
+    "reexport": "「出口總值」= 出口 + 復出口（MOF i9101）。byProduct 各年 總計 與 totals.exportTotal 一致（例如 2001 為 126,608.592 百萬美元）。2025 年復出口 46,535.615 百萬美元、占出口總值約 7.3%（自算）。",
+    "vintage_revision_2025": "財政部 115年1月9日新聞稿「114年出口 6,407.5 億美元」（表2 合計 640,746 百萬美元）與統計資料庫 2026-11-10 擷取值 639,961.977 百萬美元不同，差 784 百萬美元，判斷為初步統計後修正；本檔以統計資料庫（較新）為準，新聞稿初值保留在此供比對。2024 及以前兩者一致（113年 474,925）。",
+    "vintage_longhistory_2001": "Data Book 2002 表11-7 的 2001 年出口總額為 122,866.3 百萬美元（不含復出口），與 MOF 統計資料庫 2001 年「出口」122,685.692、「出口總值」126,608.592 皆不同（資料版本與口徑不同）。longHistory 不可與 totals 直接拼接；1990 年 Data Book 為 67,214.4 百萬美元。",
+    "classification_retroactive": "byProduct 取自 MOF 統計資料庫，現行貨品分類（19章大類，其中「機械及電機設備」下分電子零組件、機械、電機產品、資通與視聽產品、家用電器）已回溯套用至 90年（2001）起各年，故 2001-2025 為同一口徑，無需拼接。「資通與視聽產品」「電子零組件」何年起成為 MOF 新聞稿分類名稱，本次未取得可引用的原文，故不寫起用年份（null）。",
+    "optics_name": "新聞稿 108年12月（表2）稱「光學器材」；114年12月新聞稿與統計資料庫稱「光學及精密儀器」，本檔 byProduct 以「光學及精密儀器（光學器材）」對應統計資料庫欄「(1)光學及精密儀器」（其上層為「18.光學及精密儀器；鐘錶；樂器」）。",
+    "machinery_definition": "財政部114年12月新聞稿表2說明：「機械係指我國輸出入貨品分類號列第84章之貨品，但不含屬於家用之電器，且不含與自動資料處理機相關者。」",
+    "ict_combined": "財政部114年12月新聞稿表2備註：「近年電子零組件、資通與視聽產品之銷售流向隨全球供應鏈重組、部分廠商擴大在臺生產等出現結構性轉變，爰另予併計。」新聞稿自 114年表2起另列「電子及資通產品」合計欄（114年 474,026 百萬美元、占總出口 74.0%，新聞稿初值）；本檔 byProduct 的「電子零組件＋資通與視聽產品合計」為自算，占比以統計資料庫修正後總值計。",
+    "market_definition": "byMarket 為出口目的地（國別／洲別），單位千美元；中國大陸欄不含香港，「中國大陸與香港」為兩欄相加（自算）。東協十國為自算加總（柬埔寨、緬甸、汶萊、寮國皆有值，missing 為空）。「歐洲」為 MOF 洲別合計。占比皆自算（value / 同表總計_出口）。MOF 表下注意事項：「部分國家/地區因貿易管理或往來時間不同,致資料起始年月略有差異(如中國大陸、越南等)。」",
+    "market_share_not_from_i9112": "未使用 MOF 國別結構比表（i9112），國別占比為自算；product 占比則直接取 MOF 結構比表 i8123。",
+    "ytd2026": "2026年1-10月累計取自統計資料庫（cycle=91, 11501-11510）；與財政部「115年10月海關進出口貿易初步統計」新聞稿（service.mof.gov.tw/public/Data/statistic/trade/news/11510/）「累計 1 至 10 月出口 7,582.9 億美元」一致，仍屬初步統計，可能再修正。",
+    "longhistory_scope": "longHistory 原表逐年有 1952、1955、1960、1965、1970、1973-1990 共 23 點，本檔全收（未補點）。1952 年起算，原表分類為 Agricultural / Processed Agricultural / Industrial Products（農產品／農產加工品／工業產品）。來源 PDF 為 taiwan-database.net 鏡像的 CEPD 原書，非 NDC 官網（NDC 官網 ndc.gov.tw 對程式請求回 403）。",
+    "ytd_total_period_note": "2026 全年尚未發布（今日 2026-11-10）。",
+    "not_obtained": "2026 年 11 月以後數據；MOF 新聞稿中「資通與視聽產品」改名或新設的年份；1952-1990 的 MOF 官方 HS 口徑表（MOF 統計資料庫貿易結構表僅自民國60年/90年起）。"
+  }
+}

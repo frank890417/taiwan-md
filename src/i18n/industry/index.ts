@@ -11,14 +11,32 @@
  */
 import { zh } from './zh';
 import { en } from './en';
+import { flattenContent } from './flatten';
 
-export type IndustryKey = keyof typeof zh;
+// (string & {})：內容檔攤平出來的鍵（tl.<id>.t、db.<id>.q …）是動態的，不在 zh.ts 的型別裡
+export type IndustryKey = keyof typeof zh | (string & {});
+
+// 內容檔（時間軸、立場、供應鏈、聚落）：每段文字是 {zh, en} 物件，攤平成跟 UI 字串同一張表，
+// 其他語言的譯文就能跟 UI 字串放在同一個 data/industry/i18n/{lang}.json。
+const content = import.meta.glob<unknown>(
+  '../../data/industry/content/*.json',
+  { eager: true, import: 'default' },
+);
+const contentZh: Record<string, string> = {};
+const contentEn: Record<string, string> = {};
+for (const [path, mod] of Object.entries(content)) {
+  const prefix = path.split('/').pop()!.replace('.json', '');
+  flattenContent(mod, prefix, contentZh, contentEn);
+}
 
 const extra = import.meta.glob<Record<string, string>>(
   '../../../data/industry/i18n/*.json',
   { eager: true, import: 'default' },
 );
-const dict: Record<string, Record<string, string>> = { 'zh-TW': zh, en };
+const dict: Record<string, Record<string, string>> = {
+  'zh-TW': { ...zh, ...contentZh },
+  en: { ...en, ...contentEn },
+};
 for (const [path, mod] of Object.entries(extra)) {
   const code = path.split('/').pop()!.replace('.json', '');
   if (!code.startsWith('_')) dict[code] = mod;
@@ -27,6 +45,11 @@ for (const [path, mod] of Object.entries(extra)) {
 /** 該語言是否有自己的譯文檔（沒有的話整頁會是英文，頁面用這個決定要不要顯示提示）。 */
 export function hasIndustryLocale(lang: string): boolean {
   return !!dict[lang];
+}
+
+/** en 全表（UI ＋ 內容），給翻譯對賬腳本與 /data/taiwan-industry.json 用。 */
+export function industryDict(lang: 'zh-TW' | 'en'): Record<string, string> {
+  return dict[lang];
 }
 
 export function useIndustryT(lang: string) {

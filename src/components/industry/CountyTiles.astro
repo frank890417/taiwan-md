@@ -1,0 +1,121 @@
+---
+/**
+ * CountyTiles — 22 縣市等大磚圖（graph.md §二「地理」）。語意 HTML 格線＋資料表，無 SVG 形狀。
+ *
+ * 佈局照抄 src/utils/article-render.ts 的 TILE_GRID（tw-tiles 模組，視覺主權：格位寫死，
+ * 不靠任何人畫台灣的形狀，REFLEXES #61）。那份常數沒有 export，這裡複製一份；
+ * 兩邊要改一起改。
+ *
+ * 值越大磚越深（五階，同一色相），磚上直接印值；沒有資料的縣市留空磚並在表裡寫「—」。
+ */
+export interface TileDatum {
+  /** 磚上與表裡顯示的字串（已帶單位或已格式化） */
+  text: string;
+  /** 決定深淺的數值 */
+  value: number;
+  /** 表格第三欄的補充（可省） */
+  note?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  /** key 用「臺北市」「新竹縣」這種正式全名 */
+  data: Record<string, TileDatum>;
+  /** 正式全名 → 該語言顯示名 */
+  names: Record<string, string>;
+  valueLabel: string;
+  noteLabel?: string;
+  source?: string;
+  lang?: string;
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  data,
+  names,
+  valueLabel,
+  noteLabel,
+  source,
+  lang = 'zh-TW',
+  id = 'ip-tiles',
+} = Astro.props;
+const zh = lang === 'zh-TW';
+
+// prettier-ignore
+const GRID: (string | null)[][] = [
+  ['連江縣', null, '臺北市', '基隆市', null],
+  [null, '桃園市', '新北市', '宜蘭縣', null],
+  ['金門縣', '新竹市', '新竹縣', null, null],
+  [null, '苗栗縣', '臺中市', '花蓮縣', null],
+  [null, '彰化縣', '南投縣', null, null],
+  ['澎湖縣', '雲林縣', '嘉義市', null, null],
+  [null, '嘉義縣', '臺南市', null, null],
+  [null, null, '高雄市', '屏東縣', '臺東縣'],
+];
+const max = Math.max(1, ...Object.values(data).map((d) => d.value));
+// 五階：以最大值的 1/5 為一階（線性）。0 值與無資料分開：無資料是空磚。
+const stepOf = (v: number) =>
+  v <= 0 ? 0 : Math.min(5, Math.max(1, Math.ceil((v / max) * 5)));
+const ordered = GRID.flat().filter((c): c is string => !!c);
+const tableRows = [...ordered].sort(
+  (a, b) => (data[b]?.value ?? -1) - (data[a]?.value ?? -1),
+);
+---
+
+<figure class="bg-chart ip-tiles-fig" data-chart="tiles" id={id}>
+  <h4 class="bg-chart-title" id={`${id}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  <div class="ip-tiles" role="img" aria-labelledby={`${id}-h`}>
+    {
+      GRID.map((row) =>
+        row.map((c) =>
+          c ? (
+            <div
+              class={`ip-tile ${data[c] ? `is-s${stepOf(data[c].value)}` : 'is-empty'}`}
+              title={`${names[c] ?? c}：${data[c]?.text ?? '—'}`}
+            >
+              <span class="ip-tile-n">{names[c] ?? c}</span>
+              <span class="ip-tile-v">{data[c]?.text ?? '—'}</span>
+            </div>
+          ) : (
+            <div class="ip-tile is-gap" aria-hidden="true" />
+          ),
+        ),
+      )
+    }
+  </div>
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {zh ? '來源：' : 'Source: '}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '縣市' : 'County / city'}</th>
+            <th class="num">{valueLabel}</th>
+            {noteLabel && <th>{noteLabel}</th>}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            tableRows.map((c) => (
+              <tr>
+                <td>{names[c] ?? c}</td>
+                <td class="num">{data[c]?.text ?? '—'}</td>
+                {noteLabel && <td>{data[c]?.note ?? ''}</td>}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
