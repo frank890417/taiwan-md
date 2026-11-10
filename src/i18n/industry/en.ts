@@ -547,4 +547,23 @@ export const en: Record<keyof typeof zh, string> = {
     'The full supply-chain map is below: switch between the three chains, or look up which link a company sits in.',
   's5.tool.note':
     'The top ten are shown first; press “Show all 50” to expand, or use the menus above to sort and filter.',
+
+  // ── /companies: FAQ and embed for the ranking tool ─────────────────
+  'co.faq.h': 'Common questions about this ranking',
+  'co.faq1.q': 'How are Taiwan’s top 50 companies ranked?',
+  'co.faq1.a':
+    'By market capitalisation: the closing price on {date} multiplied by common shares outstanding. TWSE- and TPEx-listed companies are ranked together; the Emerging Stock Board, ETFs and preferred shares are excluded.',
+  'co.faq2.q': 'How often is the ranking updated?',
+  'co.faq2.a':
+    'It is not live data. The current edition is a snapshot at the close on {date}; the previous one was June 2026. Each update recalculates all 50 companies and states the snapshot month in the page title.',
+  'co.faq3.q': 'Where do the market-cap and revenue figures come from?',
+  'co.faq3.a':
+    'Closing prices and share counts come from the OpenAPI of the Taiwan Stock Exchange and the Taipei Exchange; the calculation script is public on GitHub. Revenue is each company’s reported consolidated revenue for full-year 2025.',
+  'co.faq4.q': 'Why only 50 companies and not a “top 100”?',
+  'co.faq4.a':
+    'We have not yet checked the revenue and headcount sources for companies ranked 51 and below one by one, so the list stays at 50. Ten companies that dropped out are listed in the “who fell off” section.',
+  'co.faq5.q': 'How much of Taiwan’s stock market is TSMC?',
+  'co.faq5.a':
+    'At the close on {date}, TSMC was 41.0% of TWSE market cap and 38.3% of the TWSE and TPEx combined. At the end of 2005 it was 9.9% of TWSE market cap.',
+  'co.embed.h': 'Embed this ranking on your site',
 };
