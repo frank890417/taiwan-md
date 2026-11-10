@@ -1,0 +1,653 @@
+---
+/**
+ * S5 退休金有幾層？（/income/ 第 5 區）
+ *
+ * 內容：制度年表（timeline.json，可能不存在）→ 各制度對照表 → 工具（slot）→
+ * 為什麼沒有可比的所得替代率 → 勞退新制基金逐年收益率。
+ * 數字來源：labor-2026.json、civil-service-replacement.json、pension-fund-returns.json；
+ * 資料檔沒有的制度參數集中在下方 R（每項註明研究檔段落與官方網址），由文案的占位符帶入。
+ * 研究檔：reports/research/2026-11/income-topic-02-pension.md §5–§13。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, pickIncome, fmtNT } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import SignedColumns from '../charts/SignedColumns.astro';
+import labor from '../../../data/income/labor-2026.json';
+import civil from '../../../data/income/civil-service-replacement.json';
+import returns from '../../../data/income/pension-fund-returns.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+
+// ── 小工具 ───────────────────────────────────────────────────────────
+const num = (n: number) => n.toLocaleString('en-US');
+const pct = (ratio: number, d = 2) => `${+(ratio * 100).toFixed(d)}%`;
+const pctv = (v: number) => `${v}%`;
+/** 資料檔的 source 欄有時是「網址＋說明」，取出網址本身。 */
+const urlOf = (s: string | undefined) =>
+  (s || '').match(/https?:\/\/[^\s（）；;]+/)?.[0] || '';
+
+// ── 制度年表（另一份資料檔，可能還不存在）────────────────────────────
+type TlEvent = {
+  date: string;
+  title: { zh?: string; en?: string };
+  desc?: { zh?: string; en?: string };
+  category?: string;
+  sources?: { name: string; url: string }[];
+};
+const tlMods = import.meta.glob('../../../data/income/timeline.json', {
+  eager: true,
+}) as Record<string, { default?: { events?: TlEvent[] } }>;
+const tlRaw = Object.values(tlMods)[0]?.default?.events ?? [];
+const dateKey = (d: string) => (d.length === 4 ? `${d}-00-00` : d);
+const events = [...tlRaw].sort((a, b) =>
+  dateKey(a.date).localeCompare(dateKey(b.date)),
+);
+// 主列表只放制度里程碑（開辦、立法、施行）；修法過程與其他類事件收進摺疊，過程事件在 S7 才攤開
+const MILESTONES = [
+  '1950-03-01', // 勞保開辦
+  '1958-07-21', // 勞保條例
+  '1984-07-30', // 勞基法
+  '2005-07-01', // 勞退新制
+  '2008-10-01', // 國民年金
+  '2009-01-01', // 勞保年金化
+  '2017-08-09', // 公教年改三法
+  '2018-06-21', // 軍人年改
+  '2023-07-01', // 個人專戶制
+  '2024-01-01', // 最低工資法
+  '2025-12-12', // 停止調降修法
+  '2025-12-30', // 撥補入法
+];
+const TL_LIMIT = 12;
+const picked = events.filter((e) => MILESTONES.includes(e.date));
+// 資料檔日期若改了對不上，就退回前 TL_LIMIT 筆，不讓主列表空掉
+const tlMain =
+  events.length <= TL_LIMIT
+    ? events
+    : picked.length > 0
+      ? picked
+      : events.slice(0, TL_LIMIT);
+const tlRest = events.filter((e) => !tlMain.includes(e));
+// 勞基法施行日有兩種官方寫法（研究檔 04 第 2 節 §6：條文「自公布日施行」、行政院國情簡介寫 8 月 1 日）
+const LSA = { date: '1984-07-30', alt: '1984-08-01' };
+
+// ── 資料檔裡的制度參數 ───────────────────────────────────────────────
+const li = labor.laborInsurance;
+const lp = labor.laborPension;
+const effYear = labor._meta.effective.slice(0, 4);
+const ages = li.claimAgeByBirthYear.map((r) => r.age);
+const ageMin = Math.min(...ages);
+const ageMax = Math.max(...ages);
+const maxAgeRow = li.claimAgeByBirthYear.find((r) => r.age === ageMax);
+const frozen = civil.frozenAt112;
+const lastPeriod = civil.periods[civil.periods.length - 1];
+
+// ── 資料檔沒有、取自研究檔 02 的官方數字（每項附段落與網址）──────────
+const R = {
+  // §13 I-3 勞保局「114 年勞保老年年金－按性別統計」（114 年 12 月底核付）
+  liStats: {
+    asOfYear: 2025,
+    cases: 2015310,
+    avgBenefit: 19312,
+    avgWage: 38119,
+    avgYears: 30.08,
+    url: 'https://www.bli.gov.tw/Files/25832',
+  },
+  // §8 D-1 勞退新制施行日
+  lpStart: '2005-07-01',
+  // §9 E-1、E-2 勞基法第 53、55 條
+  old: {
+    unitsPerYear: 2,
+    firstYears: 15,
+    unitsAfter: 1,
+    maxUnits: 45,
+    c1Years: 15,
+    c1Age: 55,
+    c2Years: 25,
+    c3Years: 10,
+    c3Age: 60,
+    payDays: 30,
+    lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001',
+    whoUrl: 'https://calcr2.mol.gov.tw/labor_retire',
+  },
+  // §10 F-2、F-3、F-4 國民年金（衝突 X3：條文 3,000 元、勞保局頁面 4,049 元）
+  np: {
+    rate: 10.5,
+    rateFrom: '2025-01',
+    amount: 21103,
+    amountFrom: '2026-01',
+    aCoef: 0.65,
+    aAdd: 4049,
+    aAddFrom: '2024-01',
+    aAddLaw: 3000,
+    bCoef: 1.3,
+    age: 65,
+    rateUrl: 'https://www.bli.gov.tw/0019853.html',
+    calcUrl: 'https://www.bli.gov.tw/0014336.html',
+    lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050152',
+  },
+  // §11 G-4 公務人員退休資遣撫卹法第 31 條
+  cs: { age: 65, ageFrom: '2026-01-01', cut: 4, maxEarly: 5 },
+  // §11 G-5 公務人員個人專戶制退休資遣撫卹法第 1、9 條
+  csa: {
+    start: '2023-07-01',
+    rate: 15,
+    gov: 65,
+    self: 35,
+    extra: 5.25,
+    lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080045',
+  },
+  // §11 G-6 陸海空軍軍官士官服役條例第 26 條
+  mil: {
+    years: 20,
+    rate: 55,
+    perYear: 2,
+    capOfficer: 90,
+    capNco: 95,
+    lawUrl: 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0040020',
+  },
+};
+
+const LI_LAW = urlOf(li.sources.shares);
+const LP_LAW = 'https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030020';
+
+type Cell = { text: string; url?: string; missing?: boolean };
+type Row = {
+  id: string;
+  name: string;
+  who: Cell;
+  pay: Cell;
+  calc: Cell;
+  age: Cell;
+  law: Cell;
+};
+const rows: Row[] = [
+  {
+    id: 'li',
+    name: t('income.s5.row.li.name'),
+    who: { text: t('income.s5.row.li.who'), url: LI_LAW },
+    pay: {
+      text: t('income.s5.row.li.pay', {
+        year: effYear,
+        total: pct(li.ordinaryAccidentRateTotal),
+        ei: pct(li.employmentRate),
+        li: pct(li.ordinaryAccidentRate),
+        worker: pct(li.shares.worker),
+        employer: pct(li.shares.employer),
+        gov: pct(li.shares.government),
+      }),
+      url: urlOf(li.sources.rates),
+    },
+    calc: {
+      text: t('income.s5.row.li.calc', {
+        a: pct(li.pension.formulaA.coefficient, 3),
+        c: num(li.pension.formulaA.constant),
+        b: pct(li.pension.formulaB.coefficient, 3),
+        months: li.pension.averageMonths,
+      }),
+      url: urlOf(li.sources.pension),
+    },
+    age: {
+      text: t('income.s5.row.li.age', {
+        min: li.pension.minSeniorityYears,
+        a0: ageMin,
+        a1: ageMax,
+        by: maxAgeRow?.fromBirthYear ?? '',
+        n: li.pension.maxEarlyYears,
+        adj: pct(li.pension.adjustmentPerYear),
+      }),
+      url: urlOf(li.sources.claimAge),
+    },
+    law: { text: t('income.s5.row.li.law'), url: LI_LAW },
+  },
+  {
+    id: 'lpn',
+    name: t('income.s5.row.lpn.name'),
+    who: {
+      text: t('income.s5.row.lpn.who', { start: R.lpStart }),
+      url: LP_LAW,
+    },
+    pay: {
+      text: t('income.s5.row.lpn.pay', {
+        r: pct(lp.employerMinRate),
+        s: pct(lp.selfMaxRate),
+      }),
+      url: LP_LAW,
+    },
+    calc: {
+      text: t('income.s5.row.lpn.calc', { rate: pct(lp.annuityRate, 4) }),
+      url: urlOf(lp.sources.annuity),
+    },
+    age: {
+      text: t('income.s5.row.lpn.age', {
+        age: lp.claimAge,
+        y: lp.minSeniorityYearsForAnnuity,
+      }),
+      url: LP_LAW,
+    },
+    law: { text: t('income.s5.row.lpn.law'), url: LP_LAW },
+  },
+  {
+    id: 'lpo',
+    name: t('income.s5.row.lpo.name'),
+    who: {
+      text: t('income.s5.row.lpo.who', { start: R.lpStart }),
+      url: R.old.whoUrl,
+    },
+    pay: {
+      text: t('income.s5.row.lpo.pay', { days: R.old.payDays }),
+      url: R.old.lawUrl,
+    },
+    calc: {
+      text: t('income.s5.row.lpo.calc', {
+        u: R.old.unitsPerYear,
+        f: R.old.firstYears,
+        u2: R.old.unitsAfter,
+        max: R.old.maxUnits,
+      }),
+      url: R.old.lawUrl,
+    },
+    age: {
+      text: t('income.s5.row.lpo.age', {
+        y1: R.old.c1Years,
+        a1: R.old.c1Age,
+        y2: R.old.c2Years,
+        y3: R.old.c3Years,
+        a3: R.old.c3Age,
+      }),
+      url: R.old.lawUrl,
+    },
+    law: { text: t('income.s5.row.lpo.law'), url: R.old.lawUrl },
+  },
+  {
+    id: 'np',
+    name: t('income.s5.row.np.name'),
+    who: { text: t('income.s5.row.np.who'), missing: true },
+    pay: {
+      text: t('income.s5.row.np.pay', {
+        rate: pctv(R.np.rate),
+        rateFrom: R.np.rateFrom,
+        amount: fmtNT(R.np.amount, lang),
+        amountFrom: R.np.amountFrom,
+      }),
+      url: R.np.rateUrl,
+    },
+    calc: {
+      text: t('income.s5.row.np.calc', {
+        a: pctv(R.np.aCoef),
+        add: fmtNT(R.np.aAdd, lang),
+        addFrom: R.np.aAddFrom,
+        addLaw: fmtNT(R.np.aAddLaw, lang),
+        b: pctv(R.np.bCoef),
+      }),
+      url: R.np.calcUrl,
+    },
+    age: {
+      text: t('income.s5.row.np.age', { age: R.np.age }),
+      url: R.np.lawUrl,
+    },
+    law: { text: t('income.s5.row.np.law'), url: R.np.lawUrl },
+  },
+  {
+    id: 'cs',
+    name: t('income.s5.row.cs.name', { start: R.csa.start }),
+    who: {
+      text: t('income.s5.row.cs.who', { start: R.csa.start }),
+      url: civil.law.url,
+    },
+    pay: { text: t('income.s5.row.cs.pay'), missing: true },
+    calc: {
+      text: t('income.s5.row.cs.calc', {
+        amend: civil.law.amendmentPromulgated,
+        lo: 15,
+        hi: 35,
+        fzy: frozen.period.slice(0, 4),
+        ly: civil.law.originalPromulgated.slice(0, 4),
+        r15: pctv(frozen.rate15YearsPct),
+        r35: pctv(frozen.rate35YearsPct),
+        f15: pctv(lastPeriod.rate15YearsPct),
+        f35: pctv(lastPeriod.rate35YearsPct),
+        fy: lastPeriod.from.slice(0, 4),
+      }),
+      url: civil.law.schedule3Url,
+    },
+    age: {
+      text: t('income.s5.row.cs.age', {
+        age: R.cs.age,
+        from: R.cs.ageFrom,
+        cut: pctv(R.cs.cut),
+        n: R.cs.maxEarly,
+      }),
+      url: civil.law.url,
+    },
+    law: { text: t('income.s5.row.cs.law'), url: civil.law.url },
+  },
+  {
+    id: 'csa',
+    name: t('income.s5.row.csa.name', { start: R.csa.start }),
+    who: {
+      text: t('income.s5.row.csa.who', { start: R.csa.start }),
+      url: R.csa.lawUrl,
+    },
+    pay: {
+      text: t('income.s5.row.csa.pay', {
+        rate: pctv(R.csa.rate),
+        gov: pctv(R.csa.gov),
+        self: pctv(R.csa.self),
+        extra: pctv(R.csa.extra),
+      }),
+      url: R.csa.lawUrl,
+    },
+    calc: { text: t('income.s5.row.csa.calc'), url: R.csa.lawUrl },
+    age: { text: t('income.s5.row.csa.age'), missing: true },
+    law: { text: t('income.s5.row.csa.law'), url: R.csa.lawUrl },
+  },
+  {
+    id: 'mil',
+    name: t('income.s5.row.mil.name'),
+    who: { text: t('income.s5.row.mil.who'), url: R.mil.lawUrl },
+    pay: { text: t('income.s5.row.mil.pay'), missing: true },
+    calc: {
+      text: t('income.s5.row.mil.calc', {
+        y: R.mil.years,
+        r: pctv(R.mil.rate),
+        p: pctv(R.mil.perYear),
+        co: pctv(R.mil.capOfficer),
+        cn: pctv(R.mil.capNco),
+      }),
+      url: R.mil.lawUrl,
+    },
+    age: {
+      text: t('income.s5.row.mil.age', { y: R.mil.years }),
+      url: R.mil.lawUrl,
+    },
+    law: { text: t('income.s5.row.mil.law'), url: R.mil.lawUrl },
+  },
+];
+const COLS = ['who', 'pay', 'calc', 'age', 'law'] as const;
+
+// ── 勞退新制基金逐年收益率 ───────────────────────────────────────────
+const retRows = returns.years.map((y, i) => ({
+  label: String(y),
+  value: returns.returnRatePct[i] ?? null,
+}));
+const retVals = returns.returnRatePct;
+const negCount = retVals.filter((v) => v < 0).length;
+const last3 = retVals.slice(-3);
+const last3Floor = Math.floor(Math.min(...last3));
+const gr = lp.guaranteedReturn;
+const retSource = returns._meta.source[0];
+
+const REL = await relatedList(lang, [
+  ['Society', '台灣長期照顧制度發展'],
+  ['Society', '台灣少子化危機'],
+  ['Economy', '台灣股市與資本市場'],
+]);
+---
+
+<section class="bp-section" id="s5">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s5.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('income.s5.h2')}</h2>
+    <p class="bp-lede">
+      {
+        t('income.s5.lede', {
+          r: pct(lp.employerMinRate),
+          asOf: R.liStats.asOfYear,
+          cases: num(R.liStats.cases),
+          avg: fmtNT(R.liStats.avgBenefit, lang),
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        href={R.liStats.url}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    {
+      events.length > 0 && (
+        <>
+          <h3 class="bp-h3">{t('income.s5.tl.h')}</h3>
+          <ol class="bp-timeline">
+            {tlMain.map((e) => (
+              <li class="bp-tl-item">
+                <div class="bp-tl-date">{e.date}</div>
+                <div>
+                  <div class="bp-tl-title">
+                    {pickIncome(e.title, lang)}
+                    {(e.sources || []).map((s) => (
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={s.name}
+                        title={s.name}
+                        href={s.url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    ))}
+                  </div>
+                  {e.desc && (
+                    <div class="bp-tl-detail">{pickIncome(e.desc, lang)}</div>
+                  )}
+                  {e.date === LSA.date && (
+                    <div class="bp-tl-detail">
+                      {t('income.s5.tl.lsa', { d1: LSA.date, d2: LSA.alt })}
+                    </div>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+          {tlRest.length > 0 && (
+            <details class="inc-more">
+              <summary>{t('income.s5.tl.more', { n: tlRest.length })}</summary>
+              <ol class="bp-timeline">
+                {tlRest.map((e) => (
+                  <li class="bp-tl-item">
+                    <div class="bp-tl-date">{e.date}</div>
+                    <div>
+                      <div class="bp-tl-title">
+                        {pickIncome(e.title, lang)}
+                        {(e.sources || []).map((s) => (
+                          <a
+                            class="bp-src no-external-icon"
+                            aria-label={s.name}
+                            title={s.name}
+                            href={s.url}
+                            target="_blank"
+                            rel="noopener"
+                          >
+                            ↗
+                          </a>
+                        ))}
+                      </div>
+                      {e.desc && (
+                        <div class="bp-tl-detail">
+                          {pickIncome(e.desc, lang)}
+                        </div>
+                      )}
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          )}
+        </>
+      )
+    }
+
+    <h3 class="bp-h3">{t('income.s5.tbl.h', { n: rows.length })}</h3>
+    <div class="bp-tbl-wrap">
+      <table class="bp-cuts inc-systems">
+        <thead>
+          <tr>
+            <th>{t('income.s5.col.system')}</th>
+            {COLS.map((c) => <th>{t(`income.s5.col.${c}`)}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <th scope="row">{r.name}</th>
+                {COLS.map((c) => (
+                  <td class={r[c].missing ? 'is-missing' : ''}>
+                    {r[c].missing && (
+                      <span class="bp-tag">{t('income.commonb.nodata')}</span>
+                    )}
+                    {r[c].text}
+                    {r[c].url && (
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={t('income.commonb.source')}
+                        href={r[c].url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    )}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="bp-note">
+      {t('income.s5.tbl.note', { asOf: labor._meta.asOf })}
+    </p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s5.p1', {
+            period: gr.period,
+            g: pct(gr.rate, 4),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={gr.source}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>{t('income.s5.p2', { year: effYear })}</p>
+    </div>
+
+    <slot />
+
+    <h3 class="bp-h3">{t('income.s5.rr.h')}</h3>
+    <div class="bp-prose">
+      <p>{t('income.s5.rr.p1')}</p>
+      <p>
+        {
+          t('income.s5.rr.p2', {
+            asOf: R.liStats.asOfYear,
+            cases: num(R.liStats.cases),
+            avg: fmtNT(R.liStats.avgBenefit, lang),
+            wage: fmtNT(R.liStats.avgWage, lang),
+            yrs: R.liStats.avgYears,
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={R.liStats.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+    </div>
+
+    <SignedColumns
+      id="c-inc-lp-returns"
+      title={t('income.s5.chart.title', {
+        n: retVals.length,
+        neg: negCount,
+        floor: last3Floor,
+      })}
+      subtitle={t('income.s5.chart.sub', {
+        py: returns.partialYear.year,
+        pm: returns.partialYear.throughMonth,
+        pv: returns.partialYear.returnRatePct.toFixed(2),
+      })}
+      rows={retRows}
+      unit="%"
+      digits={1}
+      source={t('income.s5.chart.src', { asOf: returns._meta.asOf })}
+      sourceLabel={t('income.commonb.sourcePrefix')}
+      tableLabel={t('income.commonb.table')}
+      itemLabel={t('income.commonb.year')}
+      valueLabel={t('income.s5.chart.value')}
+      nodataLabel={t('income.commonb.nodata')}
+      lang={lang}
+    />
+    <p class="bp-note">
+      {
+        t('income.s5.note', {
+          d: pct(lp.trialDefaults.annualReturn),
+          asOf: lp.trialDefaults.asOf,
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        href={retSource.url}
+        title={retSource.name}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    {
+      REL.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.commonb.related')}</span>
+          {REL.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-systems {
+    min-width: 860px;
+  }
+  .inc-systems th[scope='row'] {
+    min-width: 7.5rem;
+    font-size: 0.9rem;
+    color: var(--bg-ink);
+    font-weight: 700;
+  }
+  .inc-systems td {
+    line-height: 1.65;
+  }
+  .inc-systems td.is-missing {
+    color: var(--bg-ink-soft);
+  }
+  .inc-more {
+    margin: var(--space-4) 0;
+  }
+  .inc-more > summary {
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--bg-ink-soft);
+  }
+</style>

@@ -1,0 +1,515 @@
+---
+/**
+ * S7 年金怎麼改，各方怎麼說（/income/ 第 7 區）
+ *
+ * 政治爭議題：本區只放可查證的事實（法條、公布令、解釋文）與各方自己的話，本站不下結論。
+ * 事實時間線：timeline.json（可能不存在）裡 2016 年以後 reform／pension 類事件；
+ *   不存在時退回 civil-service-replacement.json 的四個法定日期。
+ * 圖：公教退休所得替代率上限（任職 35 年）原訂時程 vs 2025-12 修法後。
+ * 立場並列：stances.json（可能不存在）。verified 且有 quote 才放引號；其餘顯示 paraphrase 並標「轉述」。
+ *   同一議題內依 group 固定順序排，每張卡片版面相同，不用顏色區分立場。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, pickIncome } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import LineChart from '../../budget/LineChart.astro';
+import civil from '../../../data/income/civil-service-replacement.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const pctv = (v: number) => `${v}%`;
+
+type Bi = { zh?: string; en?: string };
+type TlEvent = {
+  date: string;
+  title: Bi;
+  desc?: Bi;
+  category?: string;
+  sources?: { name: string; url: string }[];
+  note?: Bi | string | null;
+};
+type Position = {
+  group: string;
+  actor: Bi;
+  date: string;
+  venue?: Bi;
+  quote: string | null;
+  quoteEn: string | null;
+  paraphrase: Bi | null;
+  verified: boolean;
+  source: { name: string; url: string };
+  note?: Bi | string | null;
+};
+type Topic = {
+  id: string;
+  title: Bi;
+  context?: Bi;
+  positions: Position[];
+  gaps?: Bi;
+};
+
+// ── 事實時間線 ───────────────────────────────────────────────────────
+const tlMods = import.meta.glob('../../../data/income/timeline.json', {
+  eager: true,
+}) as Record<string, { default?: { events?: TlEvent[] } }>;
+const tlRaw = Object.values(tlMods)[0]?.default?.events ?? [];
+const dateKey = (d: string) => (d.length === 4 ? `${d}-00-00` : d);
+const REFORM_FROM = '2016';
+const reformEvents = tlRaw
+  .filter(
+    (e) =>
+      ['reform', 'pension'].includes(e.category || '') &&
+      dateKey(e.date) >= REFORM_FROM,
+  )
+  .sort((a, b) => dateKey(a.date).localeCompare(dateKey(b.date)));
+const law = civil.law;
+// 憲法法庭查詢結果那一筆：資料檔的 desc／note 是查證紀錄，頁面改用一句文案
+const courtEvent = [...reformEvents]
+  .reverse()
+  .find(
+    (e) =>
+      dateKey(e.date) >= law.amendmentPromulgated &&
+      (e.sources || []).some((x) => x.url.includes('cons.judicial.gov.tw')),
+  );
+// timeline.json 不存在時的最小時間線：四個法定日期都在 civil-service-replacement.json
+const fallbackEvents = [
+  { date: law.originalPromulgated, key: 'promulgated', url: law.historyUrl },
+  { date: law.reformEffective, key: 'effective', url: law.historyUrl },
+  { date: law.amendmentThirdReading, key: 'third', url: law.historyUrl },
+  { date: law.amendmentPromulgated, key: 'amended', url: law.historyUrl },
+];
+
+// ── 替代率上限圖 ─────────────────────────────────────────────────────
+const SENIORITY = { hi: 35, lo: 15 }; // 資料檔欄位 rate35YearsPct／rate15YearsPct 對應的任職年資
+const cs = civil.calendarYearSeries;
+const periods = civil.periods;
+const pFirst = periods[0];
+const pLast = periods[periods.length - 1];
+const stepPt = +(pFirst.rate35YearsPct - periods[1].rate35YearsPct).toFixed(2);
+const frozen = civil.frozenAt112;
+const frozenYear = frozen.period.slice(0, 4);
+const lastYear = pLast.from.slice(0, 4);
+const s3Url = law.schedule3Url;
+const lawYear = law.originalPromulgated.slice(0, 4);
+
+// 釋字第 782 號（研究檔 04 第 2 節 §20，解釋文原文；憲法法庭網頁）
+const J782 = {
+  date: '2019-08-23',
+  url: 'https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310963',
+};
+
+// ── 各方立場 ─────────────────────────────────────────────────────────
+const stMods = import.meta.glob('../../../data/income/stances.json', {
+  eager: true,
+}) as Record<
+  string,
+  { default?: { _meta?: { asOf?: string }; topics?: Topic[] } }
+>;
+const stData = Object.values(stMods)[0]?.default;
+const topics = stData?.topics ?? [];
+const stAsOf = stData?._meta?.asOf ?? civil._meta.asOf;
+const GROUP_ORDER = [
+  'labor',
+  'business',
+  'civil-servants',
+  'youth-scholars',
+  'government',
+  'party',
+];
+const orderOf = (g: string) => {
+  const i = GROUP_ORDER.indexOf(g);
+  return i < 0 ? GROUP_ORDER.length : i;
+};
+const sortPositions = (ps: Position[]) =>
+  [...ps].sort(
+    (a, b) =>
+      orderOf(a.group) - orderOf(b.group) || a.date.localeCompare(b.date),
+  );
+// 預設只攤開兩個議題；其餘每個議題各自一個摺疊，summary 顯示議題名與則數
+const PRIMARY = ['pension-freeze', 'labor-insurance-finance'];
+const primaryTopics = topics.filter((x) => PRIMARY.includes(x.id));
+const otherTopics = topics.filter((x) => !PRIMARY.includes(x.id));
+const translatedTag = t('income.s7.tag.translated');
+
+const view = (p: Position) => {
+  const quoted = p.verified === true && !!p.quote;
+  const q = pickIncome(
+    { zh: p.quote ?? undefined, en: p.quoteEn ?? undefined },
+    lang,
+  );
+  return {
+    quoted,
+    body: quoted
+      ? t('income.s7.quote', { q: q ?? '' })
+      : (pickIncome(p.paraphrase, lang) ?? t('income.commonb.nodata')),
+    // 英文頁的引句是譯文：只有顯示的字跟中文原句不同時才標
+    translated: quoted && !!translatedTag && q !== p.quote,
+    // 轉述卡的 note 多半是查證說明，不印；逐字引句的 note 是脈絡，照印
+    note: p.verified === true ? pickIncome(p.note, lang) : undefined,
+  };
+};
+
+const REL = await relatedList(lang, [
+  ['People', '蔡英文'],
+  ['People', '賴清德'],
+  ['Politics', '中央政府總預算'],
+]);
+---
+
+<section class="bp-section" id="s7">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s7.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('income.s7.h2')}</h2>
+    <p class="bp-lede">{t('income.s7.lede')}</p>
+
+    <h3 class="bp-h3">{t('income.s7.tl.h')}</h3>
+    {
+      reformEvents.length > 0 ? (
+        <ol class="bp-timeline">
+          {reformEvents.map((e) => (
+            <li class="bp-tl-item">
+              <div class="bp-tl-date">{e.date}</div>
+              <div>
+                <div class="bp-tl-title">
+                  {pickIncome(e.title, lang)}
+                  {(e.sources || []).map((s) => (
+                    <a
+                      class="bp-src no-external-icon"
+                      aria-label={s.name}
+                      title={s.name}
+                      href={s.url}
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      ↗
+                    </a>
+                  ))}
+                </div>
+                {(e === courtEvent || e.desc) && (
+                  <div class="bp-tl-detail">
+                    {e === courtEvent
+                      ? t('income.s7.tl.court', { date: e.date })
+                      : pickIncome(e.desc, lang)}
+                  </div>
+                )}
+              </div>
+            </li>
+          ))}
+        </ol>
+      ) : (
+        <>
+          <ol class="bp-timeline">
+            {fallbackEvents.map((e) => (
+              <li class="bp-tl-item">
+                <div class="bp-tl-date">{e.date}</div>
+                <div>
+                  <div class="bp-tl-title">
+                    {t(`income.s7.tl.fallback.${e.key}`)}
+                    <a
+                      class="bp-src no-external-icon"
+                      aria-label={t('income.commonb.source')}
+                      href={e.url}
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      ↗
+                    </a>
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ol>
+          <p class="bp-note">{t('income.s7.tl.fallback.status')}</p>
+        </>
+      )
+    }
+
+    <LineChart
+      id="c-inc-cs-ceiling"
+      title={t('income.s7.chart.title', {
+        y: SENIORITY.hi,
+        fy: lastYear,
+        rf: pctv(pLast.rate35YearsPct),
+        rz: pctv(frozen.rate35YearsPct),
+      })}
+      subtitle={t('income.s7.chart.sub', { y: SENIORITY.hi })}
+      years={cs.years}
+      lang={lang}
+      unit="%"
+      yMax={80}
+      series={[
+        {
+          id: 'after',
+          label: t('income.s7.series.after', {
+            d: law.amendmentPromulgated,
+          }),
+          values: cs.afterAmendment35,
+          cls: 'bg-s0',
+        },
+        {
+          id: 'original',
+          label: t('income.s7.series.original', { ly: lawYear }),
+          values: cs.original35,
+          cls: 'bg-mute',
+          dashed: true,
+        },
+      ]}
+      source={t('income.s7.chart.src', { asOf: civil._meta.asOf })}
+    />
+    <p class="bp-note">
+      {
+        t('income.s7.chart.note', {
+          from: pFirst.from,
+          to: pFirst.to ?? '',
+          ya: cs.years[0],
+          yb: cs.years[1],
+          chk: civil._meta.asOf,
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        href={s3Url}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s7.p1', {
+            prom: law.originalPromulgated,
+            eff: law.reformEffective,
+            y35: SENIORITY.hi,
+            r0: pctv(pFirst.rate35YearsPct),
+            step: stepPt,
+            fy: lastYear,
+            rf: pctv(pLast.rate35YearsPct),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={law.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>
+        {
+          t('income.s7.p2', {
+            third: law.amendmentThirdReading,
+            prom: law.amendmentPromulgated,
+            fzy: frozenYear,
+            y35: SENIORITY.hi,
+            rz: pctv(frozen.rate35YearsPct),
+            y15: SENIORITY.lo,
+            rz15: pctv(frozen.rate15YearsPct),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={law.historyUrl}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>
+        {t('income.s7.p3', { d: J782.date, ly: lawYear })}
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={J782.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+    </div>
+
+    {topics.length === 0 && <p class="bp-note">{t('income.s7.nostances')}</p>}
+
+    {
+      primaryTopics.map((topic) => (
+        <>
+          <h3 class="bp-h3" id={`s7-${topic.id}`}>
+            {pickIncome(topic.title, lang)}
+          </h3>
+          {topic.context && (
+            <p class="inc-stance-context">{pickIncome(topic.context, lang)}</p>
+          )}
+          <div class="bp-guide">
+            {sortPositions(topic.positions).map((p) => {
+              const v = view(p);
+              return (
+                <div class="bp-guide-card inc-stance">
+                  <p class="inc-stance-tags">
+                    <span class="bp-tag">
+                      {t(`income.s7.group.${p.group}`)}
+                    </span>
+                    {!v.quoted && (
+                      <span class="bp-tag">
+                        {t('income.s7.tag.paraphrase')}
+                      </span>
+                    )}
+                    {v.translated && (
+                      <span class="bp-tag">{translatedTag}</span>
+                    )}
+                  </p>
+                  <h4>{pickIncome(p.actor, lang)}</h4>
+                  <p class="bp-cite">
+                    {p.date}
+                    {p.venue && ` · ${pickIncome(p.venue, lang)}`}
+                  </p>
+                  <p class="inc-stance-body">{v.body}</p>
+                  {v.note && <p class="bp-cite">{v.note}</p>}
+                  <p class="inc-stance-src">
+                    <a
+                      href={p.source.url}
+                      lang="zh-Hant"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      {p.source.name}
+                    </a>
+                  </p>
+                </div>
+              );
+            })}
+          </div>
+          {topic.gaps && (
+            <p class="bp-note">
+              <b>{t('income.s7.gaps.k')}</b>
+              {pickIncome(topic.gaps, lang)}
+            </p>
+          )}
+        </>
+      ))
+    }
+
+    {
+      otherTopics.map((topic) => (
+        <details class="inc-more" id={`s7-${topic.id}`}>
+          <summary>
+            {t('income.s7.more', {
+              title: pickIncome(topic.title, lang) ?? '',
+              n: topic.positions.length,
+            })}
+          </summary>
+          {topic.context && (
+            <p class="inc-stance-context">{pickIncome(topic.context, lang)}</p>
+          )}
+          <div class="bp-guide">
+            {sortPositions(topic.positions).map((p) => {
+              const v = view(p);
+              return (
+                <div class="bp-guide-card inc-stance">
+                  <p class="inc-stance-tags">
+                    <span class="bp-tag">
+                      {t(`income.s7.group.${p.group}`)}
+                    </span>
+                    {!v.quoted && (
+                      <span class="bp-tag">
+                        {t('income.s7.tag.paraphrase')}
+                      </span>
+                    )}
+                    {v.translated && (
+                      <span class="bp-tag">{translatedTag}</span>
+                    )}
+                  </p>
+                  <h4>{pickIncome(p.actor, lang)}</h4>
+                  <p class="bp-cite">
+                    {p.date}
+                    {p.venue && ` · ${pickIncome(p.venue, lang)}`}
+                  </p>
+                  <p class="inc-stance-body">{v.body}</p>
+                  {v.note && <p class="bp-cite">{v.note}</p>}
+                  <p class="inc-stance-src">
+                    <a
+                      href={p.source.url}
+                      lang="zh-Hant"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      {p.source.name}
+                    </a>
+                  </p>
+                </div>
+              );
+            })}
+          </div>
+          {topic.gaps && (
+            <p class="bp-note">
+              <b>{t('income.s7.gaps.k')}</b>
+              {pickIncome(topic.gaps, lang)}
+            </p>
+          )}
+        </details>
+      ))
+    }
+
+    <p class="bp-note">{t('income.s7.note', { asOf: stAsOf })}</p>
+    {
+      REL.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.commonb.related')}</span>
+          {REL.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-stance-context {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--bg-ink-soft);
+    margin: 0 0 var(--space-3);
+    max-width: 46rem;
+  }
+  .inc-stance {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .inc-stance .inc-stance-tags {
+    margin: 0;
+  }
+  .inc-stance .inc-stance-body {
+    color: var(--bg-ink);
+    font-size: 0.95rem;
+    line-height: 1.75;
+  }
+  .inc-stance .inc-stance-src {
+    margin-top: auto;
+    font-size: 0.8rem;
+  }
+  .inc-stance .inc-stance-src a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    overflow-wrap: anywhere;
+  }
+  .inc-more > summary {
+    cursor: pointer;
+    font-family: var(--bp-font-head);
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--bg-ink);
+    padding: 0.4rem 0;
+  }
+  .inc-more {
+    margin: 0;
+    padding: 0.5rem 0;
+    border-top: 1px solid var(--color-border);
+  }
+</style>

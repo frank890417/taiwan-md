@@ -1,0 +1,518 @@
+---
+/**
+ * LaborPensionCalculator — 勞保年金與勞退試算（income 專題工具）。
+ * 公式在 src/utils/income/laborInsurance.ts、laborPension.ts；
+ * 結果文字與曲線圖由 src/utils/income/pensionView.ts 產生（伺服端與瀏覽器端共用）。
+ * 年度參數來自 src/data/income/labor-2026.json，整理後放進 data-params。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, incomeLocale } from '../../../i18n/income';
+import { toolPension } from '../../../i18n/income/tool-pension';
+import labor from '../../../data/income/labor-2026.json';
+import {
+  buildPensionView,
+  formulaTexts,
+} from '../../../utils/income/pensionView';
+import type {
+  PensionState,
+  ToolParams,
+} from '../../../utils/income/pensionView';
+import '../../../styles/income-tool.css';
+
+export interface Props {
+  lang: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+}
+
+const { lang, variant = 'inline' } = Astro.props;
+const t = useIncomeT(lang);
+const loc = incomeLocale(lang);
+
+const li = labor.laborInsurance;
+const lp = labor.laborPension;
+const params: ToolParams = {
+  li: {
+    pension: li.pension,
+    claimAgeByBirthYear: li.claimAgeByBirthYear,
+    lumpSum: li.lumpSum,
+    insuredSalaryGrades: li.insuredSalaryGrades,
+  },
+  lp: {
+    contributionGrades: lp.contributionGrades,
+    annuityRate: lp.annuityRate,
+    lifeExpectancy: lp.lifeExpectancy,
+    employerMinRate: lp.employerMinRate,
+    selfMaxRate: lp.selfMaxRate,
+    minSeniorityYearsForAnnuity: lp.minSeniorityYearsForAnnuity,
+    guaranteedReturn: lp.guaranteedReturn.rate,
+  },
+};
+
+const year = labor._meta.effective.slice(0, 4);
+const gradeMax = li.insuredSalaryGrades[li.insuredSalaryGrades.length - 1];
+const dflt = lp.trialDefaults;
+const pct = (x: number) => +(x * 100).toFixed(4);
+const fmtInt = (n: number) => n.toLocaleString('en-US');
+
+const defaults: PensionState = {
+  birthYear: 60,
+  claimAge: 65,
+  years: 30,
+  months: 0,
+  avgSalary: gradeMax,
+  wage: 45000,
+  balance: 0,
+  yearsLeft: 30,
+  paidYears: 0,
+  employerRate: pct(lp.employerMinRate),
+  selfRate: 0,
+  ret: pct(dflt.annualReturn),
+  growth: pct(dflt.wageGrowth),
+  pensionAge: 65,
+};
+
+// 動態訊息（瀏覽器端重算時用）：income.pension.msg.* 去掉前綴
+const MSG_PREFIX = 'income.pension.msg.';
+const messages: Record<string, string> = {};
+for (const key of Object.keys(toolPension.en)) {
+  if (key.startsWith(MSG_PREFIX))
+    messages[key.slice(MSG_PREFIX.length)] = t(key);
+}
+
+const view = buildPensionView(defaults, params, messages, loc);
+const ft = formulaTexts(params);
+const prefix = variant === 'inline' ? 'pen.' : '';
+---
+
+<div
+  class="inc-tool inc-pension is-split"
+  data-inc-tool="pension"
+  data-loc={loc}
+  data-prefix={prefix}
+  data-params={JSON.stringify(params)}
+  data-i18n={JSON.stringify(messages)}
+>
+  <form class="inc-form" novalidate onsubmit="return false">
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t('income.pension.legend.li')}</legend>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.pension.field.birthYear')}</span>
+          <input
+            type="number"
+            name="birthYear"
+            inputmode="numeric"
+            min="1"
+            max="120"
+            step="1"
+            value={defaults.birthYear}
+          />
+          <span class="inc-hint"
+            >{t('income.pension.field.birthYear.hint')}</span
+          >
+        </label>
+        <label class="inc-field">
+          <span>{t('income.pension.field.claimAge')}</span>
+          <input
+            type="number"
+            name="claimAge"
+            inputmode="numeric"
+            min="55"
+            max="70"
+            step="1"
+            value={defaults.claimAge}
+          />
+          <span class="inc-hint">{t('income.pension.field.claimAge.hint')}</span
+          >
+        </label>
+      </div>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.pension.field.years')}</span>
+          <input
+            type="number"
+            name="years"
+            inputmode="numeric"
+            min="0"
+            max="60"
+            step="1"
+            value={defaults.years}
+          />
+          <span class="inc-hint">{t('income.pension.field.years.hint')}</span>
+        </label>
+        <label class="inc-field">
+          <span>{t('income.pension.field.months')}</span>
+          <input
+            type="number"
+            name="months"
+            inputmode="numeric"
+            min="0"
+            max="11"
+            step="1"
+            value={defaults.months}
+          />
+          <span class="inc-hint">{t('income.pension.field.months.hint')}</span>
+        </label>
+      </div>
+      <label class="inc-field">
+        <span>{t('income.pension.field.avgSalary')}</span>
+        <input
+          type="number"
+          name="avgSalary"
+          inputmode="numeric"
+          min="0"
+          max={gradeMax}
+          step="100"
+          value={defaults.avgSalary}
+        />
+        <span class="inc-hint">
+          {
+            t('income.pension.field.avgSalary.hint', {
+              max: fmtInt(gradeMax),
+              year,
+            })
+          }
+        </span>
+      </label>
+    </fieldset>
+
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t('income.pension.legend.lp')}</legend>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.pension.field.wage')}</span>
+          <input
+            type="number"
+            name="wage"
+            inputmode="numeric"
+            min="0"
+            step="1000"
+            value={defaults.wage}
+          />
+          <span class="inc-hint"
+            >{t('income.pension.field.wage.hint', { year })}</span
+          >
+        </label>
+        <label class="inc-field">
+          <span>{t('income.pension.field.balance')}</span>
+          <input
+            type="number"
+            name="balance"
+            inputmode="numeric"
+            min="0"
+            step="10000"
+            value={defaults.balance}
+          />
+          <span class="inc-hint">{t('income.pension.field.balance.hint')}</span>
+        </label>
+      </div>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.pension.field.yearsLeft')}</span>
+          <input
+            type="number"
+            name="yearsLeft"
+            inputmode="numeric"
+            min="0"
+            max="60"
+            step="1"
+            value={defaults.yearsLeft}
+          />
+          <span class="inc-hint"
+            >{t('income.pension.field.yearsLeft.hint')}</span
+          >
+        </label>
+        <label class="inc-field">
+          <span>{t('income.pension.field.paidYears')}</span>
+          <input
+            type="number"
+            name="paidYears"
+            inputmode="numeric"
+            min="0"
+            max="60"
+            step="1"
+            value={defaults.paidYears}
+          />
+          <span class="inc-hint"
+            >{t('income.pension.field.paidYears.hint')}</span
+          >
+        </label>
+      </div>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.pension.field.employerRate')}</span>
+          <input
+            type="number"
+            name="employerRate"
+            inputmode="decimal"
+            min={pct(lp.employerMinRate)}
+            max="30"
+            step="0.5"
+            value={defaults.employerRate}
+          />
+          <span class="inc-hint">
+            {
+              t('income.pension.field.employerRate.hint', {
+                min: pct(lp.employerMinRate),
+              })
+            }
+          </span>
+        </label>
+        <label class="inc-field">
+          <span>{t('income.pension.field.selfRate')}</span>
+          <input
+            type="number"
+            name="selfRate"
+            inputmode="decimal"
+            min="0"
+            max={pct(lp.selfMaxRate)}
+            step="1"
+            value={defaults.selfRate}
+          />
+          <span class="inc-hint">
+            {
+              t('income.pension.field.selfRate.hint', {
+                max: pct(lp.selfMaxRate),
+              })
+            }
+          </span>
+        </label>
+      </div>
+      <details class="inc-more">
+        <summary>{t('income.pension.more')}</summary>
+        <div class="inc-stack-fields">
+          <label class="inc-field">
+            <span>{t('income.pension.field.ret')}</span>
+            <input
+              type="number"
+              name="ret"
+              inputmode="decimal"
+              min="-20"
+              max="30"
+              step="0.1"
+              value={defaults.ret}
+            />
+            <span class="inc-hint">
+              {
+                t('income.pension.field.ret.hint', {
+                  def: pct(dflt.annualReturn),
+                  asOf: dflt.asOf,
+                  guarantee: pct(lp.guaranteedReturn.rate),
+                  guaranteeDate: lp.guaranteedReturn.announced,
+                })
+              }
+            </span>
+          </label>
+          <div class="inc-row">
+            <label class="inc-field">
+              <span>{t('income.pension.field.growth')}</span>
+              <input
+                type="number"
+                name="growth"
+                inputmode="decimal"
+                min="-10"
+                max="20"
+                step="0.1"
+                value={defaults.growth}
+              />
+              <span class="inc-hint">
+                {
+                  t('income.pension.field.growth.hint', {
+                    def: pct(dflt.wageGrowth),
+                  })
+                }
+              </span>
+            </label>
+            <label class="inc-field">
+              <span>{t('income.pension.field.pensionAge')}</span>
+              <input
+                type="number"
+                name="pensionAge"
+                inputmode="numeric"
+                min={lp.claimAge}
+                max="75"
+                step="1"
+                value={defaults.pensionAge}
+              />
+              <span class="inc-hint"
+                >{t('income.pension.field.pensionAge.hint')}</span
+              >
+            </label>
+          </div>
+        </div>
+      </details>
+    </fieldset>
+  </form>
+
+  <div class="inc-result" aria-live="polite">
+    <div class="inc-headline">
+      <span class="inc-headline-k">{t('income.pension.result.total')}</span>
+      <span class="inc-headline-v" data-out="total">{view.out.total}</span>
+      <span class="inc-headline-sub" data-out="ratio">{view.out.ratio}</span>
+    </div>
+
+    <section class="pen-block">
+      <h4 class="pen-sub">{t('income.pension.result.li')}</h4>
+      <dl class="inc-kv" data-show="lbOk" hidden={!view.show.lbOk}>
+        <div class="is-total">
+          <dt>{t('income.pension.result.lb.monthly')}</dt>
+          <dd data-out="lbMonthly">{view.out.lbMonthly}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lb.formula')}</dt>
+          <dd data-out="lbFormula">{view.out.lbFormula}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lb.statAge')}</dt>
+          <dd data-out="lbStatAge">{view.out.lbStatAge}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lb.adj')}</dt>
+          <dd data-out="lbAdj">{view.out.lbAdj}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lb.seniority')}</dt>
+          <dd data-out="lbSeniority">{view.out.lbSeniority}</dd>
+        </div>
+      </dl>
+      <p
+        class="inc-warn"
+        data-show="lbNo"
+        data-out="lbReason"
+        hidden={!view.show.lbNo}
+      >
+        {view.out.lbReason}
+      </p>
+      <p class="inc-note">{t('income.pension.result.formulaNote', ft)}</p>
+    </section>
+
+    <figure class="pen-chart" data-show="chart" hidden={!view.show.chart}>
+      <figcaption class="pen-sub">
+        {t('income.pension.result.chartTitle')}
+      </figcaption>
+      <div data-svg="curve" set:html={view.svg} />
+      <p class="inc-note" data-out="chartAria" aria-hidden="true">
+        {view.out.chartAria}
+      </p>
+    </figure>
+
+    <section class="pen-block">
+      <h4 class="pen-sub">{t('income.pension.result.lp')}</h4>
+      <dl class="inc-kv" data-show="lpOk" hidden={!view.show.lpOk}>
+        <div>
+          <dt>{t('income.pension.result.lp.balance')}</dt>
+          <dd data-out="lpBalance">{view.out.lpBalance}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lp.age')}</dt>
+          <dd data-out="lpAge">{view.out.lpAge}</dd>
+        </div>
+        <div>
+          <dt>{t('income.pension.result.lp.life')}</dt>
+          <dd data-out="lpLife">{view.out.lpLife}</dd>
+        </div>
+        <div class="is-total">
+          <dt>{t('income.pension.result.lp.monthly')}</dt>
+          <dd data-out="lpMonthly">{view.out.lpMonthly}</dd>
+        </div>
+        <div>
+          <dt>
+            {
+              t('income.pension.result.lp.low', {
+                rate: pct(lp.guaranteedReturn.rate),
+              })
+            }
+          </dt>
+          <dd data-out="lpMonthlyLow">{view.out.lpMonthlyLow}</dd>
+        </div>
+      </dl>
+      <p
+        class="inc-warn"
+        data-show="lpNo"
+        data-out="lpReason"
+        hidden={!view.show.lpNo}
+      >
+        {view.out.lpReason}
+      </p>
+    </section>
+
+    <p class="inc-note">{messages.mixNote}</p>
+    <p class="inc-note">{t('income.pension.result.returnNote')}</p>
+    <p class="inc-note">{t('income.pension.result.note2027', { year })}</p>
+  </div>
+</div>
+
+<style>
+  .inc-tool.inc-pension .inc-stack-fields {
+    display: grid;
+    gap: 0.7rem;
+  }
+  .inc-tool.inc-pension .pen-block {
+    display: grid;
+    gap: 0.5rem;
+  }
+  .inc-tool.inc-pension .pen-sub {
+    margin: 0;
+    font-size: 0.86rem;
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+  .inc-tool.inc-pension .pen-chart {
+    margin: 0;
+    display: grid;
+    gap: 0.4rem;
+  }
+  .inc-tool.inc-pension .inc-kv dd {
+    white-space: normal;
+  }
+  .inc-tool.inc-pension :global(.pen-pt) {
+    fill: var(--inc-cat-0);
+  }
+  .inc-tool.inc-pension :global(.pen-stat) {
+    stroke: var(--color-ink-soft);
+    stroke-width: 1;
+  }
+  .inc-tool.inc-pension :global(.pen-stat-label),
+  .inc-tool.inc-pension :global(.pen-sel-label) {
+    font-weight: 700;
+  }
+  .inc-tool.inc-pension :global(.pen-sel-label) {
+    fill: var(--inc-warm);
+  }
+  .inc-tool.inc-pension :global(.inc-svg text) {
+    font-size: 13.5px;
+  }
+</style>
+
+<script>
+  import {
+    bindTool,
+    setOut,
+    setShow,
+    messages,
+    params,
+  } from '../../../utils/income/toolDom';
+  import { buildPensionView } from '../../../utils/income/pensionView';
+  import type {
+    PensionState,
+    ToolParams,
+  } from '../../../utils/income/pensionView';
+
+  function init(root: HTMLElement) {
+    const P = params<ToolParams>(root);
+    const M = messages(root);
+    const loc = root.dataset.loc ?? 'en';
+    bindTool(root, (s) => {
+      const v = buildPensionView(s as unknown as PensionState, P, M, loc);
+      for (const [k, text] of Object.entries(v.out)) setOut(root, k, text);
+      for (const [k, on] of Object.entries(v.show)) setShow(root, k, on);
+      root
+        .querySelectorAll<HTMLElement>('[data-svg="curve"]')
+        .forEach((el) => (el.innerHTML = v.svg));
+    });
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-inc-tool="pension"]')
+    .forEach(init);
+</script>

@@ -1,0 +1,20 @@
+---
+/**
+ * /income/labor-pension-calculator/ 單獨工具頁（13 語共用）。版型由地基的 ToolPage 提供，
+ * 文案在 src/i18n/income/，計算在 src/utils/income/。
+ */
+import IncomeToolPage from '../components/income/IncomeToolPage.astro';
+import LaborPensionCalculator from '../components/income/tools/LaborPensionCalculator.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<IncomeToolPage
+  lang={lang}
+  slug="labor-pension-calculator"
+  ns="pension"
+  embedHeight={900}
+>
+  <LaborPensionCalculator lang={lang} variant="page" />
+</IncomeToolPage>

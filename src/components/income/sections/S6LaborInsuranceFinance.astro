@@ -1,0 +1,375 @@
+---
+/**
+ * S6 勞保的保費收入與給付支出（/income/ 第 6 區）
+ *
+ * 資料：labor-insurance-finance.json（finance、actuarialReports、subsidies、fund、subsidyLaw）、
+ * labor-2026.json（現行費率）。H2 的年份由資料現場判斷（哪一年起保費收入低於給付）。
+ * 用詞照精算報告：「保費收入不足支出年度」「基金累積餘額出現負值年度」「未提存精算負債」。
+ * 資料檔沒有、取自研究檔的三項集中在 R（附官方或報導網址）。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT } from '../../../i18n/income';
+import LineChart from '../../budget/LineChart.astro';
+import RankBars from '../../budget/RankBars.astro';
+import lif from '../../../data/income/labor-insurance-finance.json';
+import labor from '../../../data/income/labor-2026.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+
+const num = (n: number) => Math.round(n).toLocaleString('en-US');
+const pct = (ratio: number, d = 2) => `${+(ratio * 100).toFixed(d)}%`;
+const pctv = (v: number) => `${v}%`;
+/** 億元 → 顯示字串（兆／億由文案檔決定寫法）。 */
+const oku = (v: number | null | undefined) => {
+  if (v == null) return t('income.commonb.nodata');
+  if (Math.abs(v) >= 10000)
+    return t('income.commonb.zhao', {
+      z: Math.floor(v / 10000),
+      y: num(v % 10000),
+      tr: (v / 10000).toFixed(2),
+    });
+  return t('income.commonb.yi', { y: num(v), bn: (v / 10).toFixed(1) });
+};
+const yearRoc = (ce: number | null | undefined) =>
+  ce == null
+    ? t('income.commonb.nodata')
+    : t('income.commonb.yearRoc', { ce, roc: ce - 1911 });
+
+// ── 資料檔沒有、取自研究檔的項目 ─────────────────────────────────────
+const R = {
+  // 研究檔 02 §6 B-3：勞保局 2026-10-21 公告，2027-01-01 起普通事故費率 13%
+  nextRate: {
+    year: 2027,
+    rate: 13,
+    announced: '2026-10-21',
+    url: 'https://www.bli.gov.tw/0110278.html',
+  },
+  // 研究檔 04 §D1：勞動部長 2025-12-26 記者會（自由時報報導，轉述）
+  noPlan: {
+    date: '2025-12-26',
+    url: 'https://ec.ltn.com.tw/article/breakingnews/5290745',
+  },
+  asOf: labor._meta.asOf,
+};
+
+// ── 保費收入 vs 給付支出 ─────────────────────────────────────────────
+const fin = lif.finance;
+const prem = fin.premiumIncomeOkuNtd as (number | null)[];
+const ben = fin.benefitPaymentsOkuNtd as (number | null)[];
+const both = fin.years
+  .map((y, i) => ({ y, p: prem[i], b: ben[i] }))
+  .filter(
+    (r): r is { y: number; p: number; b: number } => r.p != null && r.b != null,
+  );
+const firstDeficit = both.find((r) => r.p < r.b);
+const lastFin = both[both.length - 1];
+const nullYears = fin.years.filter((_, i) => prem[i] == null || ben[i] == null);
+const finSrc = lif._meta.source[0];
+
+// ── 基金運用規模（只有讀到一手原文的年份）───────────────────────────
+const fund = lif.fund;
+const fundPts = fund.years
+  .map((y, i) => ({
+    y,
+    size: (fund.fundSizeOkuNtd as (number | null)[])[i],
+    ret: (fund.returnRatePct as (number | null)[])[i],
+  }))
+  .filter(
+    (r): r is { y: number; size: number; ret: number | null } => r.size != null,
+  );
+const fund0 = fundPts[0];
+const fund1 = fundPts[fundPts.length - 1];
+const fundSrc = lif._meta.source[3];
+
+// ── 三次精算 ─────────────────────────────────────────────────────────
+const reps = lif.actuarialReports;
+const rep0 = reps[0];
+const repPrev = reps[reps.length - 2];
+const repLast = reps[reps.length - 1];
+const repRows: { key: string; cells: string[] }[] = [
+  { key: 'base', cells: reps.map((r) => r.baseDate) },
+  { key: 'al', cells: reps.map((r) => oku(r.actuarialLiabilityAL)) },
+  { key: 'fund', cells: reps.map((r) => oku(r.fundBalance)) },
+  { key: 'ual', cells: reps.map((r) => oku(r.unfundedLiabilityUAL)) },
+  { key: 'deficit', cells: reps.map((r) => yearRoc(r.firstDeficitYear)) },
+  { key: 'negative', cells: reps.map((r) => yearRoc(r.fundNegativeYear)) },
+  {
+    key: 'exhaust',
+    cells: reps.map((r) => yearRoc(r.fundExhaustWithoutFutureSubsidyYear)),
+  },
+  { key: 'balanced', cells: reps.map((r) => pctv(r.balancedPremiumRatePct)) },
+  { key: 'discount', cells: reps.map((r) => pctv(r.discountRatePct)) },
+];
+
+// ── 政府撥補 ─────────────────────────────────────────────────────────
+const sub = lif.subsidies;
+const subRows = sub.years.map((y, i) => {
+  const total = sub.publicBudgetOkuNtd[i] + sub.specialBudgetOkuNtd[i];
+  return {
+    id: `y${y}`,
+    label: String(y),
+    now: total,
+    highlight: true,
+    note: t('income.s6.chart2.cum', { cum: oku(sub.cumulativeOkuNtd[i]) }),
+  };
+});
+const sub0 = subRows[0];
+const sub1 = subRows[subRows.length - 1];
+
+// ── 費率 ─────────────────────────────────────────────────────────────
+const li = labor.laborInsurance;
+const curYear = labor._meta.effective.slice(0, 4);
+const curRatePct = +(li.ordinaryAccidentRateTotal * 100).toFixed(2);
+const law = lif.subsidyLaw;
+// 資料檔的第 69 條節錄把兩項條文接在一起、中間省了字；放進引號的只取逐字的第一句
+const article69First = `${law.article69Excerpt.split('。')[0]}。`;
+---
+
+<section class="bp-section" id="s6">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s6.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {t('income.s6.h2', { year: firstDeficit?.y ?? '' })}
+    </h2>
+    <p class="bp-lede">
+      {
+        t('income.s6.lede', {
+          year: firstDeficit?.y ?? '',
+          last: lastFin.y,
+          prem: oku(lastFin.p),
+          ben: oku(lastFin.b),
+          fy: fund1.y,
+          fund: oku(fund1.size),
+        })
+      }
+    </p>
+
+    <LineChart
+      id="c-inc-li-flow"
+      title={t('income.s6.chart1.title', {
+        year: firstDeficit?.y ?? '',
+        last: lastFin.y,
+        gap: oku(lastFin.b - lastFin.p),
+      })}
+      subtitle={t('income.s6.chart1.sub')}
+      years={fin.years}
+      lang={lang}
+      unit="億"
+      series={[
+        {
+          id: 'benefit',
+          label: t('income.s6.series.benefit'),
+          values: ben,
+          cls: 'bg-s1',
+        },
+        {
+          id: 'premium',
+          label: t('income.s6.series.premium'),
+          values: prem,
+          cls: 'bg-s0',
+        },
+      ]}
+      gapBand={{
+        upper: 'benefit',
+        lower: 'premium',
+        label: t('income.s6.chart1.gap'),
+      }}
+      source={t('income.s6.chart1.src', {
+        y0: both[0].y,
+        y1: lastFin.y,
+      })}
+    />
+    <p class="bp-note">
+      {
+        t('income.s6.note1', {
+          nulls: nullYears.join(t('income.commonb.listsep')),
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        title={finSrc.name}
+        href={finSrc.url}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s6.p1', {
+            y0: fund0.y,
+            v0: oku(fund0.size),
+            y1: fund1.y,
+            v1: oku(fund1.size),
+            ret:
+              fund1.ret == null ? t('income.commonb.nodata') : pctv(fund1.ret),
+            s0: sub.years[0],
+            s1: sub.years[sub.years.length - 1],
+            cum: oku(sub.reportedTotalOkuNtd),
+            b0: rep0.baseDate,
+            u0: oku(rep0.unfundedLiabilityUAL),
+            b1: repLast.baseDate,
+            u1: oku(repLast.unfundedLiabilityUAL),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          title={fundSrc.name}
+          href={fundSrc.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+    </div>
+
+    <h3 class="bp-h3">{t('income.s6.tbl.h', { n: reps.length })}</h3>
+    <div class="bp-tbl-wrap">
+      <table class="bp-cuts inc-actuarial">
+        <thead>
+          <tr>
+            <th>{t('income.s6.tbl.item')}</th>
+            {
+              reps.map((r) => (
+                <th>
+                  {t('income.s6.tbl.report', {
+                    roc: r.reportYearRoc,
+                    ce: r.reportYearRoc + 1911,
+                  })}
+                  <a
+                    class="bp-src no-external-icon"
+                    aria-label={t('income.commonb.source')}
+                    href={r.source}
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    ↗
+                  </a>
+                </th>
+              ))
+            }
+          </tr>
+        </thead>
+        <tbody>
+          {
+            repRows.map((row) => (
+              <tr>
+                <th scope="row">{t(`income.s6.tbl.row.${row.key}`)}</th>
+                {row.cells.map((c) => (
+                  <td class="num">{c}</td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="bp-note">{t('income.s6.tbl.note')}</p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s6.p2', {
+            b: repLast.baseDate,
+            neg: yearRoc(repLast.fundNegativeYear),
+            prevNeg: yearRoc(repPrev.fundNegativeYear),
+            d: repLast.fundNegativeYear - repPrev.fundNegativeYear,
+            bal: pctv(repLast.balancedPremiumRatePct),
+            year: curYear,
+            cur: pctv(curRatePct),
+            ei: pct(li.employmentRate),
+            ny: R.nextRate.year,
+            next: pctv(R.nextRate.rate),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={R.nextRate.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+    </div>
+
+    <RankBars
+      id="c-inc-li-subsidy"
+      title={t('income.s6.chart2.title', {
+        y0: sub0.label,
+        a0: oku(sub0.now),
+        y1: sub1.label,
+        a1: oku(sub1.now),
+        cum: oku(sub.reportedTotalOkuNtd),
+      })}
+      subtitle={t('income.s6.chart2.sub')}
+      rows={subRows}
+      nowLabel={t('income.s6.chart2.now')}
+      unit="億"
+      rowH={30}
+      lang={lang}
+      source={t('income.s6.chart2.src')}
+    />
+    <p class="bp-note">
+      {
+        t('income.s6.note2', {
+          y1: sub1.label,
+          ny: Number(sub1.label) + 1,
+        })
+      }
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.commonb.source')}
+        href={sub.source}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s6.p3', {
+            date: law.promulgated,
+            a69: article69First,
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={law.historyUrl}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>
+        {t('income.s6.p4', { asOf: R.asOf, d: R.noPlan.date })}
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={R.noPlan.url}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+        {' '}
+        <a href="#s7">{t('income.s6.tos7')}</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .inc-actuarial {
+    min-width: 640px;
+  }
+  .inc-actuarial th[scope='row'] {
+    font-size: 0.88rem;
+    color: var(--bg-ink);
+    font-weight: 600;
+  }
+</style>

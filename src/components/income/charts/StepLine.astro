@@ -1,0 +1,267 @@
+---
+/**
+ * StepLine — 階梯線（SSR inline SVG + 資料表）。
+ *
+ * 給「一次跳一階」的序列用（最低工資、費率、級距門檻）：每年的值水平延伸到下一年才跳，
+ * 不畫斜線。y 軸從 0 起，刻度只加千分位；`unit` 是單位字串，用在提示文字與資料表欄名
+ * （budget/LineChart 的格式只有億元與 %，畫元會出現錯的單位，所以另寫這張）。
+ * bands＝年份區間底色帶（例：沒有調整的那幾年），annots＝某一年的垂直註記線，
+ * endLabel＝最後一點上方的直接標籤。寬 760／窄 380 兩套幾何，沿用 budget 的 bg-* 樣式。
+ */
+import {
+  scaleLinear,
+  niceTicks,
+  estTextW,
+  CHART_WIDTHS,
+} from '../../../utils/budgetViz';
+import { useIncomeT } from '../../../i18n/income';
+import type { Lang } from '../../../config/languages';
+
+export interface Band {
+  /** 起訖年（含）；色帶畫到 to 的下一年年初 */
+  from: number;
+  to: number;
+  label?: string;
+}
+export interface Annot {
+  year: number;
+  text: string;
+}
+export interface ExtraCol {
+  label: string;
+  values: (number | null)[];
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  source?: string;
+  lang: Lang;
+  years: number[];
+  values: number[];
+  /** 單位字串（例：「元」「NT$」），用在提示文字與資料表欄名 */
+  unit?: string;
+  bands?: Band[];
+  annots?: Annot[];
+  /** 最後一點上方的標籤 */
+  endLabel?: string;
+  /** 資料表欄名與額外欄（例：同一年的時薪） */
+  yearLabel?: string;
+  valueLabel?: string;
+  extraCols?: ExtraCol[];
+  id?: string;
+}
+const {
+  title,
+  subtitle,
+  source,
+  lang,
+  years,
+  values,
+  unit,
+  bands = [],
+  annots = [],
+  endLabel,
+  yearLabel,
+  valueLabel,
+  extraCols = [],
+  id,
+} = Astro.props;
+const t = useIncomeT(lang);
+const uid =
+  id ||
+  `sl-${Array.from(title)
+    .reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7)
+    .toString(36)}`;
+const num = (v: number) => v.toLocaleString('en-US');
+const withUnit = (v: number) => (unit ? `${num(v)} ${unit}` : num(v));
+const ticks = niceTicks(Math.max(...values), 4);
+const top = ticks[ticks.length - 1];
+const yFirst = years[0];
+const yLast = years[years.length - 1];
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? 270 : 320;
+  const M = { l: narrow ? 54 : 56, r: narrow ? 16 : 24, t: 26, b: 32 };
+  const x = scaleLinear(yFirst, yLast, M.l, W - M.r);
+  const y = scaleLinear(0, top, H - M.b, M.t);
+  let d = '';
+  years.forEach((yr, i) => {
+    const px = x(yr).toFixed(1);
+    const py = y(values[i]).toFixed(1);
+    d += i === 0 ? `M${px},${py}` : ` H${px} V${py}`;
+  });
+  const step = narrow ? 5 : 3;
+  const xTicks = years.filter(
+    (yr, i) =>
+      i === years.length - 1 ||
+      ((yr - yFirst) % step === 0 && years.length - 1 - i > (narrow ? 2 : 1)),
+  );
+  const bandBoxes = bands.map((b) => ({
+    x0: x(Math.max(b.from, yFirst)),
+    x1: x(Math.min(b.to + 1, yLast)),
+    label: b.label,
+  }));
+  const notes = annots
+    .filter((a) => years.includes(a.year))
+    .map((a, i) => {
+      const ax = x(a.year);
+      const w = narrow ? estTextW(a.text, 12.5, 7) : estTextW(a.text, 11, 6);
+      const anchor =
+        ax + w / 2 > W - M.r ? 'end' : ax - w / 2 < M.l ? 'start' : 'middle';
+      return {
+        ...a,
+        x: ax,
+        py: y(values[years.indexOf(a.year)]),
+        ty: y(0) - 16 - i * 16,
+        anchor,
+      };
+    });
+  return { W, H, M, x, y, d, xTicks, bandBoxes, notes, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart inc-sl" data-chart="step-line" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {L.bandBoxes.map((b) => (
+          <g class="bg-era era-c">
+            <rect
+              x={b.x0}
+              y={L.M.t}
+              width={Math.max(0, b.x1 - b.x0)}
+              height={L.H - L.M.b - L.M.t}
+            />
+            {b.label && (
+              <text x={b.x0 + 5} y={L.M.t + 13} class="bg-era-lab">
+                {b.label}
+              </text>
+            )}
+          </g>
+        ))}
+        {ticks.map((v) => (
+          <g class="bg-grid">
+            <line x1={L.M.l} x2={L.W - L.M.r} y1={L.y(v)} y2={L.y(v)} />
+            <text
+              x={L.M.l - 8}
+              y={L.y(v) + 4}
+              text-anchor="end"
+              class="bg-tick"
+            >
+              {num(v)}
+            </text>
+          </g>
+        ))}
+        {L.xTicks.map((yr) => (
+          <text
+            x={L.x(yr)}
+            y={L.H - L.M.b + 20}
+            text-anchor="middle"
+            class="bg-tick"
+          >
+            {yr}
+          </text>
+        ))}
+        <line
+          x1={L.M.l}
+          x2={L.W - L.M.r}
+          y1={L.y(0)}
+          y2={L.y(0)}
+          class="bg-axis"
+        />
+        <g class="bg-series bg-s0">
+          <path d={L.d} class="bg-line" fill="none" />
+          {years.map((yr, i) => (
+            <circle
+              cx={L.x(yr)}
+              cy={L.y(values[i])}
+              r={L.narrow ? 2.2 : 2.8}
+              class="bg-dot"
+            >
+              <title>{`${yr} · ${withUnit(values[i])}`}</title>
+            </circle>
+          ))}
+        </g>
+        {L.notes.map((a) => (
+          <g class="bg-annot">
+            <line x1={a.x} x2={a.x} y1={a.py + 6} y2={a.ty - 13} />
+            <text x={a.x} y={a.ty} text-anchor={a.anchor}>
+              {a.text}
+            </text>
+          </g>
+        ))}
+        {endLabel && (
+          <g class="bg-annot">
+            <text
+              x={L.W - L.M.r}
+              y={L.y(values[values.length - 1]) - 9}
+              text-anchor="end"
+            >
+              {endLabel}
+            </text>
+          </g>
+        )}
+      </svg>
+    ))
+  }
+  {
+    source && (
+      <figcaption class="bg-chart-src">
+        {t('income.common.source')}
+        {source}
+      </figcaption>
+    )
+  }
+  <details class="bg-table">
+    <summary>{t('income.common.datatable')}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{yearLabel || t('income.common.table.year')}</th>
+            <th class="num">
+              {valueLabel || unit || t('income.common.table.value')}
+            </th>
+            {extraCols.map((c) => <th class="num">{c.label}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.map((yr, i) => (
+              <tr>
+                <td>{yr}</td>
+                <td class="num">{num(values[i])}</td>
+                {extraCols.map((c) => (
+                  <td class="num">
+                    {c.values[i] == null
+                      ? t('income.common.nodata')
+                      : num(c.values[i] as number)}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
+
+<style>
+  /* 窄版 viewBox 380 在手機上約縮成 0.89 倍，字級拉高讓實際大小不低於 11px */
+  .bg-svg.is-narrow .bg-tick,
+  .bg-svg.is-narrow .bg-era-lab,
+  .bg-svg.is-narrow .bg-annot text {
+    font-size: 12.5px;
+  }
+</style>

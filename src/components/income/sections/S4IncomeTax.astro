@@ -1,0 +1,411 @@
+---
+/**
+ * S4IncomeTax — 第 4 區「綜所稅怎麼算：先扣再乘」。
+ *
+ * 圖一：BracketSteps（115 年度五級稅率）＋ 114／115 年度主要減項對照表。
+ * 圖二：StackedArea 賦稅收入結構；小稅目在這裡現場併成「其他」（總計減去圖上各項）。
+ * 圖三：ValueBars，112 年度申報戶落在各級距的戶數比率；比率在這裡以戶數相除，
+ *       不取資料檔的四捨五入值。
+ * 所得稅工具由主模板塞進 <slot />。2018 年稅改的各方批評不在這區展開。
+ */
+import type { Lang } from '../../../config/languages';
+import {
+  useIncomeT,
+  pickIncome,
+  fmtNT,
+  fmtWan,
+  incomeLocale,
+} from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import { localizePath } from '../../../utils/topics/registry-core';
+import StackedArea from '../../budget/StackedArea.astro';
+import BracketSteps from '../charts/BracketSteps.astro';
+import ValueBars from '../charts/ValueBars.astro';
+import taxA from '../../../data/income/tax-114.json';
+import taxB from '../../../data/income/tax-115.json';
+import revenue from '../../../data/income/tax-revenue.json';
+import filers from '../../../data/income/tax-filers.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const zhLoc = incomeLocale(lang) === 'zh-TW';
+const nt = (v: number) => fmtNT(v, lang);
+const wan = (v: number) => fmtWan(v, lang);
+const pc = (v: number, d = 1) => `${v.toFixed(d)}%`;
+const rate = (r: number) => `${+(r * 100).toFixed(2)}%`;
+
+// ── 年度標示 ──
+const fyA = taxA._meta.fiscalYear;
+const fyB = taxB._meta.fiscalYear;
+const ceOf = (fy: number) => fy + 1911;
+// 年度標示：中文頁寫民國年度，英文頁寫西元年並附民國年
+const fyL = (fy: number) => t('income.common.fy', { fy, ce: ceOf(fy) });
+// 申報期：資料檔是中文字串（例「2027 年 5 月」），英文頁轉成月份名稱
+const filing = (s: string) => {
+  if (zhLoc) return s;
+  const m = s.match(/(\d{4})\D+(\d{1,2})/);
+  return m
+    ? new Date(Date.UTC(+m[1], +m[2] - 1, 1)).toLocaleString('en-US', {
+        month: 'long',
+        year: 'numeric',
+        timeZone: 'UTC',
+      })
+    : s;
+};
+const fileA = filing(taxA._meta.filingPeriod);
+const fileB = filing(taxB._meta.filingPeriod);
+
+// ── 圖一：級距 ──
+const rowsB = taxB.brackets.rows;
+const rowsA = taxA.brackets.rows;
+const bScale = zhLoc ? 10000 : 1000000;
+const brackets = rowsB.map((r) => ({
+  upTo: r.upTo === null ? null : r.upTo / bScale,
+  rate: r.rate,
+}));
+const lastFinite = [...rowsB].reverse().find((r) => r.upTo !== null)!;
+const topRow = rowsB[rowsB.length - 1];
+const singleSum =
+  taxB.exemption.general +
+  taxB.standardDeduction.single +
+  taxB.salaryDeduction.cap;
+
+// ── 減項對照表 ──
+const pending = t('income.s4.tbl.pending');
+const notYet = t('income.s4.tbl.notyet');
+const cell = (v: number | null, empty: string) => (v == null ? empty : nt(v));
+const dedRows = [
+  {
+    k: t('income.s4.tbl.row.exemption'),
+    a: cell(taxA.exemption.general, pending),
+    b: cell(taxB.exemption.general, pending),
+  },
+  {
+    k: t('income.s4.tbl.row.minor'),
+    a: cell(taxA.exemption.minorChild, notYet),
+    b: cell(taxB.exemption.minorChild, pending),
+  },
+  {
+    k: t('income.s4.tbl.row.standard'),
+    a: cell(taxA.standardDeduction.single, pending),
+    b: cell(taxB.standardDeduction.single, pending),
+  },
+  {
+    k: t('income.s4.tbl.row.salary'),
+    a: cell(taxA.salaryDeduction.cap, pending),
+    b: cell(taxB.salaryDeduction.cap, pending),
+  },
+  {
+    k: t('income.s4.tbl.row.living'),
+    a: cell(taxA.basicLiving.perPerson, pending),
+    b: cell(taxB.basicLiving.perPerson, pending),
+  },
+  {
+    k: t('income.s4.tbl.row.bracket1', { r: rate(rowsB[0].rate) }),
+    a: cell(rowsA[0].upTo, pending),
+    b: cell(rowsB[0].upTo, pending),
+  },
+];
+const minorPct =
+  taxB.exemption.minorChild != null
+    ? (taxB.exemption.minorChild / taxB.exemption.general - 1) * 100
+    : null;
+
+// ── 圖二：賦稅收入結構 ──
+const rv = revenue as unknown as Record<string, number[]>;
+const shown = [
+  'individualIncomeTax',
+  'corporateIncomeTax',
+  'businessTax',
+  'securitiesTransactionTax',
+  'commodityTax',
+  'landTaxSubtotal',
+  'customs',
+];
+const ry = revenue.years;
+const rn = ry.length - 1;
+const otherVals = ry.map(
+  (_, i) =>
+    +(revenue.total[i] - shown.reduce((a, k) => a + rv[k][i], 0)).toFixed(1),
+);
+const revCats = [
+  ...shown.map((k, i) => ({
+    id: k,
+    label: t(`income.s4.cat.${k}`),
+    cls: `bg-cat-${i}`,
+  })),
+  { id: 'other', label: t('income.s4.cat.other'), cls: 'bg-cat-other' },
+];
+const revValues = [...shown.map((k) => rv[k]), otherVals];
+const incShare = (i: number) =>
+  ((revenue.individualIncomeTax[i] + revenue.corporateIncomeTax[i]) /
+    revenue.total[i]) *
+  100;
+
+// ── 圖三：申報戶級距分布（40% 檔在原表拆三列，這裡併成一列）──
+const fy3 = filers._meta.taxYear;
+const fb = filers.brackets;
+const totalHh = filers.totals.households;
+const top40 = fb.filter((b) => b.statutoryRatePct === topRow.rate * 100);
+const rest = fb.filter((b) => b.statutoryRatePct !== topRow.rate * 100);
+const top40From = Number((top40[0]?.netIncomeBandWan || '0').split('-')[0]);
+const top40Hh = top40.reduce((a, b) => a + b.households, 0);
+const top40Tax = top40.reduce((a, b) => a + b.taxThousand, 0);
+const shareRows = [
+  ...rest.map((b) => ({
+    id: b.id,
+    label: pickIncome<string>(b.label, lang) ?? b.id,
+    v: (b.households / totalHh) * 100,
+  })),
+  {
+    id: 'top',
+    label: t('income.s4.chart3.top', {
+      amt: wan(top40From * 10000),
+      rate: rate(topRow.rate),
+    }),
+    v: (top40Hh / totalHh) * 100,
+  },
+];
+const shareBars = shareRows.map((r, i) => ({
+  label: r.label,
+  value: r.v,
+  display: pc(r.v),
+  highlight: i === 0 || i === shareRows.length - 1,
+}));
+const zeroShare = shareRows[0].v;
+const topShare = shareRows[shareRows.length - 1].v;
+const topTaxShare = (top40Tax / filers.totals.taxThousand) * 100;
+const comp = filers.incomeComposition;
+
+const rel = await relatedList(lang, [
+  ['Economy', '發票'],
+  ['Politics', '中央政府總預算'],
+]);
+const srcs = [
+  { label: t('income.s4.src.gazette'), url: taxB.brackets.source },
+  { label: t('income.s4.src.revenue'), url: revenue._meta.source[0].url },
+  { label: t('income.s4.src.filers'), url: filers._meta.source[0].url },
+];
+---
+
+<section class="bp-section" id="s4">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s4.kicker')}</blockquote>
+    <h2 class="bp-h2">{t('income.s4.h2')}</h2>
+    <p class="bp-lede">
+      {
+        t('income.s4.lede', {
+          fy: fyL(fyB),
+          ce: ceOf(fyB),
+          file: fileB,
+          ex: nt(taxB.exemption.general),
+          std: nt(taxB.standardDeduction.single),
+          sal: nt(taxB.salaryDeduction.cap),
+          sum: nt(singleSum),
+        })
+      }
+    </p>
+    <BracketSteps
+      id="c-inc-brackets"
+      title={t('income.s4.chart1.title', {
+        fy: fyL(fyB),
+        n: rowsB.length,
+        b1: wan(rowsB[0].upTo as number),
+        r1: rate(rowsB[0].rate),
+        bN: wan(lastFinite.upTo as number),
+        rN: rate(topRow.rate),
+      })}
+      subtitle={t('income.s4.chart1.sub')}
+      brackets={brackets}
+      unit={t('income.s4.chart1.unit')}
+      source={t('income.s4.chart1.source', {
+        fy: fyL(fyB),
+        ann: taxB.brackets.announced,
+      })}
+      lang={lang}
+    />
+    <div class="bp-tbl-wrap">
+      <table class="bp-cuts inc-ded">
+        <caption class="inc-cap"
+          >{
+            t('income.s4.tbl.caption', { fyA: fyL(fyA), fyB: fyL(fyB) })
+          }</caption
+        >
+        <thead>
+          <tr>
+            <th>{t('income.s4.tbl.col.item')}</th>
+            <th class="num"
+              >{t('income.s4.tbl.col.fy', { fy: fyL(fyA), file: fileA })}</th
+            >
+            <th class="num"
+              >{t('income.s4.tbl.col.fy', { fy: fyL(fyB), file: fileB })}</th
+            >
+          </tr>
+        </thead>
+        <tbody>
+          {
+            dedRows.map((r) => (
+              <tr>
+                <th scope="row">{r.k}</th>
+                <td class="num">{r.a}</td>
+                <td class="num">{r.b}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s4.p1', {
+            fyA: fyL(fyA),
+            fyB: fyL(fyB),
+            exA: nt(taxA.exemption.general),
+            exB: nt(taxB.exemption.general),
+            stdA: nt(taxA.standardDeduction.single),
+            stdB: nt(taxB.standardDeduction.single),
+            salA: nt(taxA.salaryDeduction.cap),
+            salB: nt(taxB.salaryDeduction.cap),
+            bA: nt(rowsA[0].upTo as number),
+            bB: nt(rowsB[0].upTo as number),
+            ann: taxB.exemption.announced,
+          })
+        }
+      </p>
+      <p>
+        {
+          t('income.s4.p1b', {
+            fyA: fyL(fyA),
+            fyB: fyL(fyB),
+            minorPct: minorPct == null ? '' : pc(minorPct, 0),
+            minor:
+              taxB.exemption.minorChild == null
+                ? pending
+                : nt(taxB.exemption.minorChild),
+            living:
+              taxA.basicLiving.perPerson == null
+                ? pending
+                : nt(taxA.basicLiving.perPerson),
+          })
+        }
+      </p>
+    </div>
+    <slot />
+    <ValueBars
+      id="c-inc-filers"
+      title={t('income.s4.chart3.title', {
+        fy: fyL(fy3),
+        zero: pc(zeroShare),
+        top: pc(topShare),
+      })}
+      subtitle={t('income.s4.chart3.sub', { fy: fyL(fy3) })}
+      rows={shareBars}
+      source={t('income.s4.chart3.source', { fy: fyL(fy3) })}
+      lang={lang}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s4.p2', {
+            fy: fyL(fy3),
+            zero: pc(zeroShare),
+            top: pc(topShare),
+            topTax: pc(topTaxShare),
+            sal: pc(comp.salaryPct),
+            div: pc(comp.dividendPct),
+            credit: rate(taxB.dividend.creditRate),
+            cap: nt(taxB.dividend.creditCap),
+            sep: rate(taxB.dividend.separateRate),
+          })
+        }
+      </p>
+    </div>
+    <StackedArea
+      id="c-inc-revenue"
+      title={t('income.s4.chart2.title', {
+        y1: ry[rn],
+        inc: pc(incShare(rn)),
+        y0: ry[0],
+        inc0: pc(incShare(0)),
+      })}
+      subtitle={t('income.s4.chart2.sub')}
+      years={ry}
+      cats={revCats}
+      values={revValues}
+      lang={lang}
+      shareLabel={t('income.s4.chart2.share')}
+      source={t('income.s4.chart2.source', { asOf: revenue._meta.asOf })}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s4.p3', {
+            y1: ry[rn],
+            iit: pc(
+              (revenue.individualIncomeTax[rn] / revenue.total[rn]) * 100,
+            ),
+            cit: pc((revenue.corporateIncomeTax[rn] / revenue.total[rn]) * 100),
+            biz: pc((revenue.businessTax[rn] / revenue.total[rn]) * 100),
+          })
+        }
+        <a href={localizePath('/budget/', lang)}>{t('income.s4.tobudget')}</a>
+      </p>
+    </div>
+    <p class="bp-note">
+      {t('income.s4.note')}
+      {
+        srcs.map((s) => (
+          <>
+            {' '}
+            {s.label}
+            <a
+              class="bp-src no-external-icon"
+              aria-label={t('income.common.srclink')}
+              href={s.url}
+              target="_blank"
+              rel="noopener"
+            >
+              ↗
+            </a>
+          </>
+        ))
+      }
+    </p>
+    {
+      rel.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.common.related')}</span>
+          {rel.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
+
+<style>
+  .inc-ded {
+    min-width: 30rem;
+  }
+  .inc-ded th[scope='row'] {
+    font-size: 0.9rem;
+    color: var(--bg-ink);
+  }
+  .inc-ded th.num {
+    text-align: end;
+  }
+  .inc-cap {
+    caption-side: top;
+    text-align: start;
+    font-weight: 700;
+    color: var(--bg-ink);
+    padding-block-end: 0.35rem;
+  }
+</style>

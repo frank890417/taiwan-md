@@ -1,0 +1,434 @@
+---
+/**
+ * TakeHomePayCalculator — 實領薪資與雇主成本（income 專題，data-inc-tool="takehome"）。
+ *
+ * 計算：src/utils/income/takeHomeView.ts（buildTakeHomeView）→ takeHome.ts、tax.ts。
+ * 年度參數：src/data/income/labor-2026.json、tax-115.json，塞進 data-params。
+ * 健保費不在這裡算（歸醫療專題）。
+ * TODO(醫療專題上線後)：下面健保欄旁的連結 href 目前是 /health/，
+ * 改成醫療專題的「健保費試算」頁。
+ */
+import '../../../styles/income-tool.css';
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, incomeLocale } from '../../../i18n/income';
+import { localizePath } from '../../../utils/topics/registry-core';
+import { fmtMoney, fmtPct } from '../../../utils/income/toolDom';
+import {
+  ariaVars,
+  buildTakeHomeView,
+  fillTpl,
+  takeHomeOuts,
+} from '../../../utils/income/takeHomeView';
+import labor from '../../../data/income/labor-2026.json';
+import tax from '../../../data/income/tax-115.json';
+
+export interface Props {
+  lang: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+}
+const { lang, variant = 'inline' } = Astro.props;
+const t = useIncomeT(lang);
+const loc = incomeLocale(lang);
+
+const params = {
+  labor: {
+    laborInsurance: labor.laborInsurance,
+    occupationalAccident: labor.occupationalAccident,
+    laborPension: {
+      employerMinRate: labor.laborPension.employerMinRate,
+      selfMaxRate: labor.laborPension.selfMaxRate,
+      contributionGrades: labor.laborPension.contributionGrades,
+    },
+  },
+  tax,
+};
+
+const defOcc = Number(
+  (labor.occupationalAccident.averageRate * 100).toFixed(4),
+);
+const defaults = { wage: 45000, bonus: 1.5, selfRate: 0, dependents: 0 };
+
+const view = buildTakeHomeView(
+  {
+    wage: defaults.wage,
+    bonus: defaults.bonus,
+    selfRate: defaults.selfRate / 100,
+    nhi: null,
+    withTax: true,
+    dependents: defaults.dependents,
+    occRate: null,
+  },
+  params as any,
+);
+const fmt = {
+  money: (n: number) => fmtMoney(n, loc),
+  pct: (x: number) => fmtPct(x, 1),
+  unsetNhi: t('income.takehome.unset.nhi'),
+  unsetTax: t('income.takehome.unset.tax'),
+};
+const outs = takeHomeOuts(view, fmt);
+const aria = ariaVars(view, fmt);
+const bar1Title = t('income.takehome.chart.bar1.title', { pct: outs.takePct });
+const bar2Title = t('income.takehome.chart.bar2.title', { pct: outs.extraPct });
+const bar1Aria = fillTpl(t('income.takehome.chart.bar1.aria'), aria.bar1);
+const bar2Aria = fillTpl(t('income.takehome.chart.bar2.aria'), aria.bar2);
+
+const i18n = {
+  takeSub: t('income.takehome.result.take.sub'),
+  bar1Title: t('income.takehome.chart.bar1.title'),
+  bar2Title: t('income.takehome.chart.bar2.title'),
+  bar1Aria: t('income.takehome.chart.bar1.aria'),
+  bar2Aria: t('income.takehome.chart.bar2.aria'),
+  unsetNhi: fmt.unsetNhi,
+  unsetTax: fmt.unsetTax,
+};
+
+const legend1 = ['w-take', 'w-ins', 'w-pen', 'w-nhi', 'w-tax'];
+const legend2 = ['e-wage', 'e-ins', 'e-occ', 'e-pen'];
+const clsOf = (list: { key: string; cls: string }[], k: string) =>
+  list.find((s) => s.key === k)?.cls ?? 'inc-c5';
+
+const rows1: [string, string][] = [
+  ['lab', 'income.takehome.row.lab'],
+  ['emp', 'income.takehome.row.emp'],
+  ['pen', 'income.takehome.row.pen'],
+  ['nhi', 'income.takehome.row.nhi'],
+  ['tax', 'income.takehome.row.tax'],
+];
+const rows2: [string, string][] = [
+  ['eLab', 'income.takehome.row.eLab'],
+  ['eEmp', 'income.takehome.row.eEmp'],
+  ['eOcc', 'income.takehome.row.eOcc'],
+  ['ePen', 'income.takehome.row.ePen'],
+];
+const gradeNote = t('income.takehome.gradeNote', {
+  insured: `<strong data-out="insured">${outs.insured}</strong>`,
+  contrib: `<strong data-out="contrib">${outs.contrib}</strong>`,
+});
+---
+
+<div
+  class="inc-tool inc-takehome is-split"
+  data-inc-tool="takehome"
+  data-loc={loc}
+  data-prefix={variant === 'inline' ? 'pay.' : ''}
+  data-params={JSON.stringify(params)}
+  data-i18n={JSON.stringify(i18n)}
+>
+  <form class="inc-form" onsubmit="return false">
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t('income.takehome.group.worker')}</legend>
+      <label class="inc-field">
+        <span>{t('income.takehome.field.wage')}</span>
+        <input
+          type="number"
+          name="wage"
+          inputmode="numeric"
+          min="0"
+          step="1000"
+          value={defaults.wage}
+        />
+        <span class="inc-hint">{t('income.takehome.field.wage.hint')}</span>
+      </label>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t('income.takehome.field.bonus')}</span>
+          <input
+            type="number"
+            name="bonus"
+            inputmode="decimal"
+            min="0"
+            max="24"
+            step="0.5"
+            value={defaults.bonus}
+          />
+        </label>
+        <label class="inc-field">
+          <span>{t('income.takehome.field.selfRate')}</span>
+          <input
+            type="number"
+            name="selfRate"
+            inputmode="decimal"
+            min="0"
+            max="6"
+            step="0.5"
+            value={defaults.selfRate}
+          />
+        </label>
+      </div>
+      <p class="inc-hint">{t('income.takehome.field.bonus.hint')}</p>
+      <p class="inc-hint">{t('income.takehome.field.selfRate.hint')}</p>
+      <label class="inc-field">
+        <span>{t('income.takehome.field.nhi')}</span>
+        <input
+          type="number"
+          name="nhi"
+          inputmode="numeric"
+          min="0"
+          step="100"
+        />
+        <span class="inc-hint">{t('income.takehome.field.nhi.hint')}</span>
+      </label>
+      <p class="inc-hint">
+        {t('income.takehome.nhi.note')}
+        <a href={localizePath('/health/', lang)}
+          >{t('income.takehome.nhi.link')}</a
+        >
+      </p>
+    </fieldset>
+
+    <details class="inc-more">
+      <summary>{t('income.takehome.more.summary')}</summary>
+      <div class="inc-fieldset">
+        <label class="inc-check">
+          <input type="checkbox" name="withTax" checked />
+          <span>{t('income.takehome.field.withTax')}</span>
+        </label>
+        <p class="inc-hint">{t('income.takehome.field.withTax.hint')}</p>
+        <label class="inc-field">
+          <span>{t('income.takehome.field.dependents')}</span>
+          <input
+            type="number"
+            name="dependents"
+            inputmode="numeric"
+            min="0"
+            max="30"
+            step="1"
+            value={defaults.dependents}
+          />
+          <span class="inc-hint"
+            >{t('income.takehome.field.dependents.hint')}</span
+          >
+        </label>
+        <label class="inc-field">
+          <span>{t('income.takehome.field.occRate')}</span>
+          <input
+            type="number"
+            name="occRate"
+            inputmode="decimal"
+            min="0"
+            max="1"
+            step="0.01"
+            value={defOcc}
+          />
+          <span class="inc-hint">{t('income.takehome.field.occRate.hint')}</span
+          >
+        </label>
+      </div>
+    </details>
+  </form>
+
+  <div class="inc-result" aria-live="polite">
+    <div class="inc-headline">
+      <span class="inc-headline-k">{t('income.takehome.result.take.k')}</span>
+      <span class="inc-headline-v" data-out="take">{outs.take}</span>
+      <span class="inc-headline-sub" data-out="takeSub"
+        >{t('income.takehome.result.take.sub', { pct: outs.takePct })}</span
+      >
+    </div>
+    <p class="inc-note" data-show="noNhi">{t('income.takehome.noNhi')}</p>
+
+    <div class="inc-chart">
+      <p class="inc-note inc-chart-title">
+        <strong data-out="bar1Title">{bar1Title}</strong>
+      </p>
+      <div class="inc-stack" role="img" aria-label={bar1Aria} data-aria="bar1">
+        {
+          view.workerBar.map((s) => (
+            <span data-bar={s.key} class={s.cls} style={`--inc-w: ${s.pct}%`} />
+          ))
+        }
+      </div>
+      <ul class="inc-legend-list">
+        {
+          legend1.map((k) => (
+            <li>
+              <span class={`inc-swatch ${clsOf(view.workerBar, k)}`} />
+              {t(`income.takehome.legend.${k}`)}
+              <span data-out={`pct-${k}`}>{outs[`pct-${k}`]}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <dl class="inc-kv">
+      {
+        rows1.map(([k, key]) => (
+          <div>
+            <dt>{t(key)}</dt>
+            <dd data-out={k}>{outs[k]}</dd>
+          </div>
+        ))
+      }
+      <div class="is-total">
+        <dt>{t('income.takehome.row.ded')}</dt>
+        <dd data-out="ded">{outs.ded}</dd>
+      </div>
+      <div class="is-total">
+        <dt>{t('income.takehome.row.take')}</dt>
+        <dd data-out="take">{outs.take}</dd>
+      </div>
+    </dl>
+
+    <h4 class="inc-subhead">{t('income.takehome.group.employer')}</h4>
+    <dl class="inc-kv">
+      {
+        rows2.map(([k, key]) => (
+          <div>
+            <dt>{t(key)}</dt>
+            <dd data-out={k}>{outs[k]}</dd>
+          </div>
+        ))
+      }
+      <div class="is-total">
+        <dt>{t('income.takehome.row.eTotal')}</dt>
+        <dd data-out="eTotal">{outs.eTotal}</dd>
+      </div>
+      <div class="is-total">
+        <dt>{t('income.takehome.row.eCost')}</dt>
+        <dd data-out="eCost">{outs.eCost}</dd>
+      </div>
+    </dl>
+    <p class="inc-note">{t('income.takehome.employer.note')}</p>
+
+    <div class="inc-chart">
+      <p class="inc-note inc-chart-title">
+        <strong data-out="bar2Title">{bar2Title}</strong>
+      </p>
+      <div class="inc-stack" role="img" aria-label={bar2Aria} data-aria="bar2">
+        {
+          view.employerBar.map((s) => (
+            <span data-bar={s.key} class={s.cls} style={`--inc-w: ${s.pct}%`} />
+          ))
+        }
+      </div>
+      <ul class="inc-legend-list">
+        {
+          legend2.map((k) => (
+            <li>
+              <span class={`inc-swatch ${clsOf(view.employerBar, k)}`} />
+              {t(`income.takehome.legend.${k}`)}
+              <span data-out={`pct-${k}`}>{outs[`pct-${k}`]}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <h4 class="inc-subhead">{t('income.takehome.group.annual')}</h4>
+    <dl class="inc-kv">
+      <div>
+        <dt>{t('income.takehome.row.gross')}</dt>
+        <dd data-out="gross">{outs.gross}</dd>
+      </div>
+      <div class="is-total">
+        <dt>{t('income.takehome.row.annualTake')}</dt>
+        <dd data-out="annualTake">{outs.annualTake}</dd>
+      </div>
+    </dl>
+
+    <p class="inc-note" set:html={gradeNote} />
+    <p class="inc-note">{t('income.takehome.taxNote')}</p>
+  </div>
+</div>
+
+<style>
+  .inc-tool.inc-takehome .inc-subhead {
+    margin: 0.2rem 0 -0.4rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--color-ink-soft);
+  }
+  .inc-tool.inc-takehome .inc-chart {
+    display: grid;
+    gap: 0.45rem;
+  }
+  .inc-tool.inc-takehome .inc-chart-title {
+    color: var(--color-ink);
+  }
+  .inc-tool.inc-takehome .inc-form > .inc-fieldset > .inc-hint {
+    margin: -0.3rem 0 0;
+  }
+</style>
+
+<script>
+  import {
+    bindTool,
+    fmtMoney,
+    fmtPct,
+    messages,
+    params,
+    setBar,
+    setOut,
+    setShow,
+  } from '../../../utils/income/toolDom';
+  import {
+    ariaVars,
+    buildTakeHomeView,
+    fillTpl,
+    takeHomeOuts,
+  } from '../../../utils/income/takeHomeView';
+
+  function init(root: HTMLElement) {
+    const P = params<any>(root);
+    const M = messages(root);
+    const loc = root.dataset.loc ?? 'en';
+    const raw = (name: string): string =>
+      (
+        root.querySelector<HTMLInputElement>(`input[name="${name}"]`)?.value ??
+        ''
+      ).trim();
+    const fmt = {
+      money: (n: number) => fmtMoney(n, loc),
+      pct: (x: number) => fmtPct(x, 1),
+      unsetNhi: M.unsetNhi ?? '',
+      unsetTax: M.unsetTax ?? '',
+    };
+
+    bindTool(root, (s) => {
+      const nhiRaw = raw('nhi');
+      const occRaw = raw('occRate');
+      const v = buildTakeHomeView(
+        {
+          wage: Number(s.wage),
+          bonus: Number(s.bonus),
+          selfRate: Number(s.selfRate) / 100,
+          nhi: nhiRaw === '' ? null : Number(nhiRaw),
+          withTax: !!s.withTax,
+          dependents: Number(s.dependents),
+          occRate: occRaw === '' ? null : Number(occRaw) / 100,
+        },
+        P,
+      );
+      const outs = takeHomeOuts(v, fmt);
+      for (const [k, text] of Object.entries(outs)) setOut(root, k, text);
+      setOut(root, 'takeSub', fillTpl(M.takeSub ?? '', { pct: outs.takePct }));
+      setOut(
+        root,
+        'bar1Title',
+        fillTpl(M.bar1Title ?? '', { pct: outs.takePct }),
+      );
+      setOut(
+        root,
+        'bar2Title',
+        fillTpl(M.bar2Title ?? '', { pct: outs.extraPct }),
+      );
+      for (const seg of [...v.workerBar, ...v.employerBar])
+        setBar(root, seg.key, seg.pct);
+      const a = ariaVars(v, fmt);
+      root
+        .querySelector('[data-aria="bar1"]')
+        ?.setAttribute('aria-label', fillTpl(M.bar1Aria ?? '', a.bar1));
+      root
+        .querySelector('[data-aria="bar2"]')
+        ?.setAttribute('aria-label', fillTpl(M.bar2Aria ?? '', a.bar2));
+      setShow(root, 'noNhi', nhiRaw === '');
+    });
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-inc-tool="takehome"]')
+    .forEach(init);
+</script>

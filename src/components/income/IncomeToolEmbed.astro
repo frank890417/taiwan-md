@@ -1,0 +1,34 @@
+---
+/**
+ * IncomeToolEmbed — income 專題四個工具「內嵌板」的共用組裝（包住地基的 EmbedLayout）。
+ * 只有工具本體、一行來源與截止日期；noindex 與 canonical 由 EmbedLayout 處理。
+ */
+import type { Lang } from '../../config/languages';
+import EmbedLayout from '../../layouts/EmbedLayout.astro';
+import ToolFrame from '../tools/ToolFrame.astro';
+import { useIncomeT } from '../../i18n/income';
+import { getTopic, localizePath, pickText } from '../../utils/topics/registry';
+
+export interface Props {
+  lang: Lang;
+  slug: string;
+  ns: string;
+}
+
+const { lang, slug, ns } = Astro.props;
+const t = useIncomeT(lang);
+const tool = getTopic('income')!.tools.find((x) => x.slug === slug)!;
+const title = pickText(tool.title, lang);
+---
+
+<EmbedLayout
+  title={title}
+  lang={lang}
+  canonical={localizePath(tool.path, lang)}
+  sourceNote={t(`income.${ns}.sourcesLine`)}
+>
+  <ToolFrame title={title} variant="embed" lang={lang}>
+    <slot />
+    <p slot="disclaimer">{t(`income.${ns}.disclaimer`)}</p>
+  </ToolFrame>
+</EmbedLayout>

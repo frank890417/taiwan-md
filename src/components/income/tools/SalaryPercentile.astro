@@ -1,0 +1,311 @@
+---
+/**
+ * SalaryPercentile — 薪資位置自查（專題「薪資、稅與退休」的工具之一）。
+ *
+ * 輸入全年總薪資，對照主計總處 2024 年（民國 113 年）受僱員工全年總薪資的官方十分位數，
+ * 內插估計百分位；另可選年齡組、行業、性別，看落在該組四分位的哪一段。
+ * 計算在 src/utils/income/percentile.ts，組合與刻度條在 percentileView.ts（伺服端與瀏覽器端共用）。
+ * 資料：src/data/income/salary-distribution-2024.json。
+ *
+ * 延伸連結目前連到 /companies/（行業薪資與公司）。
+ * TODO：產業專題上線後，改連它的產業頁。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, incomeLocale, pickIncome } from '../../../i18n/income';
+import { localizePath } from '../../../utils/topics/registry-core';
+import dist from '../../../data/income/salary-distribution-2024.json';
+import {
+  computePercentileView,
+  viewTexts,
+  renderScaleSvg,
+  PCT_MSG_KEYS,
+} from '../../../utils/income/percentileView';
+import type { PctGroup, PctParams } from '../../../utils/income/percentileView';
+
+export interface Props {
+  lang: Lang;
+  variant?: 'inline' | 'page' | 'embed';
+}
+
+const { lang, variant = 'inline' } = Astro.props;
+const t = useIncomeT(lang);
+const loc = incomeLocale(lang);
+const K = 'income.percentile.';
+
+type Raw = {
+  id: string;
+  label: { zh: string; en: string };
+  parent?: string | null;
+  median: number | null;
+  q1: number | null;
+  q3: number | null;
+};
+
+function depthOf(g: Raw, list: Raw[]): number {
+  let d = 0;
+  let p = g.parent;
+  while (p) {
+    d += 1;
+    p = list.find((x) => x.id === p)?.parent;
+  }
+  return d;
+}
+
+function toGroups(list: Raw[]): PctGroup[] {
+  return list.map((g) => ({
+    id: g.id,
+    label: pickIncome(g.label, lang) ?? g.id,
+    median: g.median,
+    q1: g.q1,
+    q3: g.q3,
+  }));
+}
+
+const ageRaw = dist.byAge as Raw[];
+const industryRaw = dist.byIndustry as Raw[];
+const sexRaw = dist.bySex as Raw[];
+
+// 只放工具用得到的欄位，不把 history 等整包塞進網頁
+const params: PctParams = {
+  all: dist.all as Record<string, number | null>,
+  domestic: {
+    q1: dist.domesticFullTime.Q1,
+    median: dist.domesticFullTime.median,
+    q3: dist.domesticFullTime.Q3,
+  },
+  groups: {
+    age: toGroups(ageRaw),
+    industry: toGroups(industryRaw),
+    sex: toGroups(sexRaw),
+  },
+};
+
+const messages: Record<string, string> = {};
+for (const k of PCT_MSG_KEYS) messages[k] = t(K + k);
+
+const DEFAULT_SALARY = 600000;
+const view = computePercentileView(
+  { salary: DEFAULT_SALARY, age: '', industry: '', sex: '' },
+  params,
+);
+const texts = viewTexts(view, messages, loc);
+const svg = renderScaleSvg(view.scale, messages, loc, texts.out.value);
+
+const industryOptions = industryRaw.map((g) => ({
+  id: g.id,
+  label:
+    '  '.repeat(depthOf(g, industryRaw)) + (pickIncome(g.label, lang) ?? g.id),
+}));
+const ageOptions = params.groups.age;
+const sexOptions = params.groups.sex;
+const groupKeys = ['age', 'industry', 'sex'] as const;
+const companiesHref = localizePath('/companies/', lang);
+---
+
+<div
+  class="inc-tool inc-percentile is-split"
+  data-inc-tool="percentile"
+  data-loc={loc}
+  data-prefix={variant === 'inline' ? 'pct.' : ''}
+  data-params={JSON.stringify(params)}
+  data-i18n={JSON.stringify(messages)}
+>
+  <form class="inc-form" novalidate>
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t(K + 'legend.you')}</legend>
+      <label class="inc-field">
+        <span>{t(K + 'field.salary')}</span>
+        <input
+          type="number"
+          name="salary"
+          inputmode="numeric"
+          min="0"
+          step="10000"
+          value={DEFAULT_SALARY}
+        />
+        <span class="inc-hint">{t(K + 'field.salary.hint')}</span>
+      </label>
+    </fieldset>
+    <fieldset class="inc-fieldset">
+      <legend class="inc-legend">{t(K + 'legend.compare')}</legend>
+      <div class="inc-row">
+        <label class="inc-field">
+          <span>{t(K + 'field.age')}</span>
+          <select name="age">
+            <option value="" selected>{t(K + 'option.none')}</option>
+            {ageOptions.map((g) => <option value={g.id}>{g.label}</option>)}
+          </select>
+        </label>
+        <label class="inc-field">
+          <span>{t(K + 'field.industry')}</span>
+          <select name="industry">
+            <option value="" selected>{t(K + 'option.none')}</option>
+            {
+              industryOptions.map((g) => (
+                <option value={g.id}>{g.label}</option>
+              ))
+            }
+          </select>
+        </label>
+        <label class="inc-field">
+          <span>{t(K + 'field.sex')}</span>
+          <select name="sex">
+            <option value="" selected>{t(K + 'option.none')}</option>
+            {sexOptions.map((g) => <option value={g.id}>{g.label}</option>)}
+          </select>
+        </label>
+      </div>
+    </fieldset>
+  </form>
+
+  <div class="inc-result" aria-live="polite">
+    <div class="inc-headline">
+      <span class="inc-headline-k">{t(K + 'headline.k')}</span>
+      <span class="inc-headline-v" data-out="value">{texts.out.value}</span>
+      <span class="inc-headline-sub" data-out="sub">{texts.out.sub}</span>
+    </div>
+    <p
+      class="inc-note inc-warn"
+      data-show="edge"
+      hidden={!texts.show.edge}
+      data-out="edge"
+    >
+      {texts.out.edge}
+    </p>
+
+    <figure class="inc-pct-figure">
+      <div data-svg="scale" set:html={svg} />
+      <figcaption class="inc-note">{t(K + 'scale.caption')}</figcaption>
+    </figure>
+
+    <dl class="inc-kv">
+      <div>
+        <dt>{t(K + 'row.all')}</dt>
+        <dd data-out="median">{texts.out.median}</dd>
+      </div>
+      <div>
+        <dt>{t(K + 'row.domestic')}</dt>
+        <dd>
+          <span data-out="dom-median">{texts['out']['dom-median']}</span>
+          <small class="inc-pct-band" data-out="dom-band"
+            >{texts['out']['dom-band']}</small
+          >
+        </dd>
+      </div>
+      {
+        groupKeys.map((k) => (
+          <div data-show={`row-${k}`} hidden={!texts.show[`row-${k}`]}>
+            <dt data-out={`row-${k}-label`}>{texts.out[`row-${k}-label`]}</dt>
+            <dd>
+              <span data-out={`row-${k}-median`}>
+                {texts.out[`row-${k}-median`]}
+              </span>
+              <small class="inc-pct-band" data-out={`row-${k}-band`}>
+                {texts.out[`row-${k}-band`]}
+              </small>
+            </dd>
+          </div>
+        ))
+      }
+    </dl>
+    <p class="inc-note">{t(K + 'row.quartile.hint')}</p>
+
+    <p class="inc-note">{t(K + 'note.interp')}</p>
+    <p class="inc-note">{t(K + 'note.scope')}</p>
+    <p class="inc-note">{t(K + 'note.update')}</p>
+
+    <p class="inc-note inc-pct-more">
+      <a href={companiesHref}><strong>{t(K + 'link.companies')}</strong></a>
+      {' '}{t(K + 'link.companies.desc')}
+    </p>
+  </div>
+</div>
+
+<style>
+  .inc-tool.inc-percentile [hidden] {
+    display: none !important;
+  }
+  .inc-tool.inc-percentile .inc-kv dd {
+    white-space: normal;
+  }
+  .inc-tool.inc-percentile .inc-pct-band {
+    display: block;
+    font-size: 0.76rem;
+    font-weight: 500;
+    color: var(--color-ink-soft);
+  }
+  .inc-tool.inc-percentile .inc-pct-figure {
+    margin: 0;
+  }
+  .inc-tool.inc-percentile .inc-pct-more a {
+    color: var(--inc-accent);
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg .inc-pct-alt) {
+    opacity: 0.28;
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg .inc-pct-fill) {
+    fill: var(--inc-cat-0);
+    opacity: 0.55;
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg .inc-pct-mid) {
+    stroke: var(--color-ink-soft);
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg .inc-pct-dn) {
+    font-size: 9px;
+    opacity: 0.8;
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg .inc-pct-mline) {
+    stroke: var(--inc-warm);
+    stroke-width: 2;
+  }
+  .inc-tool.inc-percentile :global(.inc-pct-svg text.inc-pct-me) {
+    font-weight: 800;
+    fill: var(--inc-warm);
+  }
+</style>
+
+<script>
+  import {
+    bindTool,
+    setOut,
+    setShow,
+    messages,
+    params,
+  } from '../../../utils/income/toolDom';
+  import {
+    computePercentileView,
+    viewTexts,
+    renderScaleSvg,
+  } from '../../../utils/income/percentileView';
+  import type { PctParams } from '../../../utils/income/percentileView';
+
+  function init(root: HTMLElement) {
+    const P = params<PctParams>(root);
+    const M = messages(root);
+    const loc = root.dataset.loc ?? 'en';
+    root
+      .querySelector('form')
+      ?.addEventListener('submit', (e) => e.preventDefault());
+    const slot = root.querySelector<HTMLElement>('[data-svg="scale"]');
+    bindTool(root, (s) => {
+      const view = computePercentileView(
+        {
+          salary: Number(s.salary),
+          age: String(s.age ?? ''),
+          industry: String(s.industry ?? ''),
+          sex: String(s.sex ?? ''),
+        },
+        P,
+      );
+      const texts = viewTexts(view, M, loc);
+      for (const [k, v] of Object.entries(texts.out)) setOut(root, k, v);
+      for (const [k, v] of Object.entries(texts.show)) setShow(root, k, v);
+      if (slot)
+        slot.innerHTML = renderScaleSvg(view.scale, M, loc, texts.out.value);
+    });
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('[data-inc-tool="percentile"]')
+    .forEach(init);
+</script>

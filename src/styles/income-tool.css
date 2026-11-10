@@ -1,0 +1,394 @@
+/* ═══════════════════════════════════════════════════════════════════════
+ * income-tool.css — income 專題四個試算工具共用的表單與結果樣式。
+ *
+ * 每個工具元件自己 import 這份（專題頁、單獨頁、內嵌板都吃得到），
+ * 只用站上的 --color-* ／ --font-* 變數，深淺色自動跟著走。
+ * 全部選擇器掛在 .inc-tool 底下，不寫全域選擇器。
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+.inc-tool {
+  --inc-accent: #0e7490;
+  --inc-warm: #c2410c;
+  --inc-cat-0: #2a78d6;
+  --inc-cat-1: #eb6834;
+  --inc-cat-2: #1baf7a;
+  --inc-cat-3: #eda100;
+  --inc-cat-4: #4a3aa7;
+  --inc-cat-5: #9aa3ad;
+  --inc-track: rgba(15, 23, 42, 0.08);
+  display: grid;
+  gap: 1.25rem;
+  min-width: 0;
+  font-family: var(--font-interface, inherit);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .inc-tool {
+  --inc-accent: #22d3ee;
+  --inc-warm: #fb923c;
+  --inc-cat-0: #3987e5;
+  --inc-cat-1: #d95926;
+  --inc-cat-2: #199e70;
+  --inc-cat-3: #c98500;
+  --inc-cat-4: #9085e9;
+  --inc-cat-5: #6b7280;
+  --inc-track: rgba(241, 245, 249, 0.12);
+}
+@media (min-width: 860px) {
+  .inc-tool.is-split {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    align-items: start;
+  }
+}
+
+/* ── 表單 ─────────────────────────────────────────────────────────── */
+.inc-tool .inc-form {
+  display: grid;
+  gap: 0.9rem;
+  min-width: 0;
+}
+.inc-tool .inc-fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  gap: 0.7rem;
+  min-width: 0;
+}
+.inc-tool .inc-legend {
+  padding: 0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: 0.7rem;
+}
+.inc-tool .inc-field {
+  display: grid;
+  gap: 0.25rem;
+  min-width: 0;
+  font-size: 0.86rem;
+}
+.inc-tool .inc-field > span,
+.inc-tool .inc-field > label {
+  font-weight: 600;
+  line-height: 1.4;
+}
+.inc-tool .inc-hint {
+  font-size: 0.76rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--color-ink-soft);
+}
+.inc-tool input[type='number'],
+.inc-tool input[type='text'],
+.inc-tool select {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 2.6rem;
+  padding: 0.45rem 0.65rem;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font: inherit;
+  font-size: 1rem; /* 16px：iOS 不會自動放大 */
+  font-variant-numeric: tabular-nums;
+}
+.inc-tool input:focus-visible,
+.inc-tool select:focus-visible,
+.inc-tool summary:focus-visible {
+  outline: 2px solid var(--inc-accent);
+  outline-offset: 1px;
+}
+.inc-tool input[type='range'] {
+  width: 100%;
+  accent-color: var(--inc-accent);
+}
+.inc-tool .inc-check {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.2rem;
+  font-size: 0.88rem;
+}
+.inc-tool .inc-check input {
+  width: 1.1rem;
+  height: 1.1rem;
+  accent-color: var(--inc-accent);
+}
+.inc-tool .inc-seg {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.inc-tool .inc-seg label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: 2.4rem;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+.inc-tool .inc-seg label:has(input:checked) {
+  border-color: var(--inc-accent);
+  color: var(--inc-accent);
+  font-weight: 700;
+}
+.inc-tool .inc-seg input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.inc-tool .inc-seg label:has(input:focus-visible) {
+  outline: 2px solid var(--inc-accent);
+  outline-offset: 1px;
+}
+.inc-tool details.inc-more {
+  border-top: 1px dashed var(--color-border);
+  padding-top: 0.6rem;
+}
+.inc-tool details.inc-more > summary {
+  cursor: pointer;
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: var(--color-ink-soft);
+}
+.inc-tool details.inc-more[open] > summary {
+  margin-bottom: 0.7rem;
+}
+
+/* ── 結果 ─────────────────────────────────────────────────────────── */
+.inc-tool .inc-result {
+  display: grid;
+  gap: 0.9rem;
+  min-width: 0;
+  padding: 1rem;
+  border-radius: 12px;
+  background: var(--color-bg-soft);
+}
+.inc-tool .inc-headline {
+  display: grid;
+  gap: 0.1rem;
+}
+.inc-tool .inc-headline-k {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-headline-v {
+  font-family: var(--font-title, inherit);
+  font-size: clamp(1.7rem, 6vw, 2.4rem);
+  font-weight: 800;
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+  color: var(--inc-accent);
+  overflow-wrap: anywhere;
+}
+.inc-tool .inc-headline-sub {
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-kv {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  font-size: 0.88rem;
+}
+.inc-tool .inc-kv > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.38rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.inc-tool .inc-kv > div:last-child {
+  border-bottom: 0;
+}
+.inc-tool .inc-kv dt {
+  margin: 0;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-kv dd {
+  margin: 0;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  text-align: end;
+  white-space: nowrap;
+}
+.inc-tool .inc-kv .is-total dt,
+.inc-tool .inc-kv .is-total dd {
+  color: var(--color-ink);
+  font-weight: 800;
+}
+.inc-tool .inc-note {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-warn {
+  margin: 0;
+  padding: 0.5rem 0.7rem;
+  border-inline-start: 3px solid var(--inc-warm);
+  border-radius: 0 8px 8px 0;
+  background: color-mix(in srgb, var(--inc-warm) 9%, transparent);
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+.inc-tool [hidden] {
+  display: none !important;
+}
+
+/* ── 橫條：單列堆疊（去向）與刻度條（位置） ─────────────────────────── */
+.inc-tool .inc-stack {
+  display: flex;
+  width: 100%;
+  height: 1.6rem;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--inc-track);
+}
+.inc-tool .inc-stack > span {
+  flex: 0 0 var(--inc-w, 0%);
+  min-width: 0;
+  transition: flex-basis 0.25s ease;
+}
+.inc-tool .inc-legend-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.9rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.78rem;
+  color: var(--color-ink-soft);
+}
+.inc-tool .inc-legend-list li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.inc-tool .inc-swatch {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 2px;
+}
+.inc-tool .inc-c0 {
+  background: var(--inc-cat-0);
+}
+.inc-tool .inc-c1 {
+  background: var(--inc-cat-1);
+}
+.inc-tool .inc-c2 {
+  background: var(--inc-cat-2);
+}
+.inc-tool .inc-c3 {
+  background: var(--inc-cat-3);
+}
+.inc-tool .inc-c4 {
+  background: var(--inc-cat-4);
+}
+.inc-tool .inc-c5 {
+  background: var(--inc-cat-5);
+}
+.inc-tool .inc-scale {
+  position: relative;
+  height: 2.6rem;
+  margin-top: 1.4rem;
+}
+.inc-tool .inc-scale-track {
+  position: absolute;
+  inset-inline: 0;
+  top: 0.9rem;
+  height: 0.6rem;
+  border-radius: 999px;
+  background: linear-gradient(
+    to right,
+    var(--inc-cat-5),
+    var(--inc-cat-0),
+    var(--inc-cat-4)
+  );
+  opacity: 0.55;
+}
+.inc-tool .inc-scale-marker {
+  position: absolute;
+  top: 0.35rem;
+  inset-inline-start: var(--inc-w, 50%);
+  width: 3px;
+  height: 1.7rem;
+  margin-inline-start: -1.5px;
+  border-radius: 2px;
+  background: var(--inc-warm);
+  transition: inset-inline-start 0.25s ease;
+}
+.inc-tool .inc-scale-marker::before {
+  content: attr(data-label);
+  position: absolute;
+  bottom: 100%;
+  inset-inline-start: 50%;
+  transform: translateX(-50%);
+  padding-bottom: 0.15rem;
+  font-size: 0.74rem;
+  font-weight: 800;
+  white-space: nowrap;
+  color: var(--inc-warm);
+}
+[dir='rtl'] .inc-tool .inc-scale-marker::before {
+  transform: translateX(50%);
+}
+.inc-tool .inc-scale-ticks {
+  position: absolute;
+  inset-inline: 0;
+  top: 1.7rem;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: var(--color-ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+/* 工具內的小圖（SVG）共用 */
+.inc-tool .inc-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+.inc-tool .inc-svg text {
+  font-family: var(--font-interface, inherit);
+  font-size: 11px;
+  fill: var(--color-ink-soft);
+}
+.inc-tool .inc-svg .inc-axis {
+  stroke: var(--color-border);
+  stroke-width: 1;
+}
+.inc-tool .inc-svg .inc-line {
+  fill: none;
+  stroke: var(--inc-cat-0);
+  stroke-width: 2.25;
+  stroke-linejoin: round;
+}
+.inc-tool .inc-svg .inc-dot {
+  fill: var(--inc-warm);
+}
+.inc-tool .inc-svg .inc-area {
+  fill: var(--inc-cat-0);
+  opacity: 0.14;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .inc-tool .inc-stack > span,
+  .inc-tool .inc-scale-marker {
+    transition: none;
+  }
+}

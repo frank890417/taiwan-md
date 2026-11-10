@@ -1,0 +1,173 @@
+---
+/**
+ * S3MinimumWage — 第 3 區「最低工資」。
+ *
+ * 圖：StepLine，每年年初適用的每月最低工資（調整是一次跳一階，不是斜線）。
+ * 各方對調幅的看法不在這區展開，最後一句連到第 7 區。
+ */
+import type { Lang } from '../../../config/languages';
+import { useIncomeT, fmtNT } from '../../../i18n/income';
+import { relatedList } from '../../../utils/income/related';
+import StepLine from '../charts/StepLine.astro';
+import mw from '../../../data/income/minimum-wage.json';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useIncomeT(lang);
+const nt = (v: number) => fmtNT(v, lang);
+
+const ys = mw.yearly.years;
+const monthly = mw.yearly.monthly;
+const hourly = mw.yearly.hourly;
+const latest = mw.latestDecision;
+const law = mw.law;
+const lawYear = Number(law.effective.slice(0, 4));
+const newYear = Number(latest.effective.slice(0, 4));
+const curYear = newYear - 1;
+
+// 沒有調整的那一段：有生效日的月薪調整裡，相鄰兩次間隔最長的那一段
+const adj = mw.adjustments.filter((a) => a.effective && a.monthly != null);
+const gapOf = (i: number) =>
+  Date.parse(adj[i].effective as string) -
+  Date.parse(adj[i - 1].effective as string);
+let thawI = 1;
+for (let i = 2; i < adj.length; i++) if (gapOf(i) > gapOf(thawI)) thawI = i;
+const thaw = adj[thawI];
+const frozen = adj[thawI - 1];
+const frozenFrom = Number((frozen.effective as string).slice(0, 4));
+const frozenTo = Number((thaw.effective as string).slice(0, 4));
+const gapYears = Math.floor(gapOf(thawI) / (365.25 * 86400000));
+// 連續幾年在年初調整（含已發布的下一年）
+const janYears = new Set<number>([
+  ...adj
+    .filter((a) => (a.effective as string).endsWith('-01-01'))
+    .map((a) => Number((a.effective as string).slice(0, 4))),
+  newYear,
+]);
+let streakStart = newYear;
+while (janYears.has(streakStart - 1)) streakStart--;
+const streak = newYear - streakStart + 1;
+const totalGrowth = (monthly[monthly.length - 1] / monthly[0] - 1) * 100;
+
+const eraLabel = t('income.s3.chart.era', { from: frozenFrom, to: frozenTo });
+const lawLabel = t('income.s3.chart.law');
+const endLabel = t('income.s3.chart.end', {
+  y: newYear,
+  v: nt(monthly[monthly.length - 1]),
+});
+const chartTitle = t('income.s3.chart.title', {
+  from: frozenFrom,
+  to: frozenTo,
+  frozen: nt(frozen.monthly as number),
+  ny: newYear,
+  m: nt(latest.monthly),
+});
+
+const srcUrl = mw._meta.source[0].url;
+const rel = await relatedList(lang, [
+  ['Society', '誰算低薪'],
+  ['Society', '外送專法'],
+  ['Society', '移工'],
+]);
+---
+
+<section class="bp-section" id="s3">
+  <div class="bp-wrap">
+    <blockquote class="bp-kicker">{t('income.s3.kicker')}</blockquote>
+    <h2 class="bp-h2">
+      {
+        t('income.s3.h2', {
+          to: frozenTo,
+          ny: newYear,
+          m: nt(latest.monthly),
+        })
+      }
+    </h2>
+    <p class="bp-lede">
+      {
+        t('income.s3.lede', {
+          eff: latest.effective,
+          m: nt(latest.monthly),
+          h: nt(latest.hourly),
+          cy: curYear,
+          pm: nt(latest.previousMonthly),
+          ph: nt(latest.previousHourly),
+          pct: `${latest.increasePct.toFixed(1)}%`,
+          council: latest.councilDate,
+          pub: latest.publishedDate,
+        })
+      }
+    </p>
+    <StepLine
+      id="c-inc-minwage"
+      title={chartTitle}
+      subtitle={t('income.s3.chart.sub', { lawY: lawYear })}
+      years={ys}
+      values={monthly}
+      unit={t('income.s3.chart.unit')}
+      bands={[{ from: frozenFrom, to: frozenTo, label: eraLabel }]}
+      annots={[{ year: lawYear, text: lawLabel }]}
+      endLabel={endLabel}
+      yearLabel={t('income.s3.tbl.year')}
+      valueLabel={t('income.s3.tbl.monthly')}
+      extraCols={[{ label: t('income.s3.tbl.hourly'), values: hourly }]}
+      source={t('income.s3.chart.source', { asOf: mw._meta.asOf })}
+      lang={lang}
+    />
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s3.p1', {
+            fromDate: frozen.effective as string,
+            frozen: nt(frozen.monthly as number),
+            toDate: thaw.effective as string,
+            gap: gapYears,
+            streakY: streakStart,
+            ny: newYear,
+            streak,
+            y0: ys[0],
+            m0: nt(monthly[0]),
+            m: nt(latest.monthly),
+            tot: `${totalGrowth.toFixed(1)}%`,
+          })
+        }
+      </p>
+      <p>
+        {
+          t('income.s3.p2', {
+            lawDate: law.effective,
+            cy: curYear,
+            pm: nt(latest.previousMonthly),
+            ph: nt(latest.previousHourly),
+            eff: latest.effective,
+          })
+        }
+        <a href="#s7">{t('income.s3.tos7')}</a>
+      </p>
+    </div>
+    <p class="bp-note">
+      {t('income.s3.note', { ny: newYear })}
+      <a
+        class="bp-src no-external-icon"
+        aria-label={t('income.common.srclink')}
+        href={srcUrl}
+        target="_blank"
+        rel="noopener">↗</a
+      >
+    </p>
+    {
+      rel.length > 0 && (
+        <div class="bp-related is-inline">
+          <span class="bp-related-k">{t('income.common.related')}</span>
+          {rel.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              {r.title}
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</section>
