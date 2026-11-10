@@ -2,9 +2,9 @@
 export const main = {
   en: {
     'income.meta.title':
-      'Pay, tax and retirement in Taiwan (2026): where a paycheck goes',
+      'Taiwan pay, tax and retirement 2026: where a paycheck goes',
     'income.meta.description':
-      'Median annual pay of {median}, five income-tax brackets, Labor Insurance and Labor Pension explained, the pension debate side by side, plus four calculators.',
+      'Median pay of {median}, income-tax brackets, Labor Insurance and Labor Pension, the pension debate side by side, and four calculators.',
     'income.hero.eyebrow': 'Topic · Pay, tax and retirement',
     'income.hero.title': 'Where a Taiwanese paycheck goes',
     'income.hero.subtitle':

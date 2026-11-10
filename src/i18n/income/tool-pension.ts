@@ -285,7 +285,7 @@ export const toolPension = {
 
     'income.pension.page.metaTitle': '勞保年金試算 2026：含勞退月退一起算',
     'income.pension.page.metaDescription':
-      '輸入出生年、勞保年資與平均投保薪資，算出勞保老年年金每月能領多少，再加上勞退月退休金。例如年資 30 年、投保薪資 45,800 元，65 歲月領 21,297 元。',
+      '輸入出生年、勞保年資與投保薪資，算出勞保老年年金每月能領多少，再加上勞退月退。例如年資 30 年、投保薪資 45,800 元，65 歲月領 21,297 元。',
     'income.pension.page.intro':
       '這個工具依 2026 年現行規定，算出勞保老年年金與勞退月退休金，退休後每月各能領多少。',
     'income.pension.page.reading':

@@ -66,6 +66,11 @@ const reformEvents = tlRaw
   )
   .sort((a, b) => dateKey(a.date).localeCompare(dateKey(b.date)));
 const law = civil.law;
+// 預設只顯示 2025-12 修法三讀以後的幾筆；更早的經過收進摺疊
+const recentEvents = reformEvents.filter(
+  (e) => dateKey(e.date) >= law.amendmentThirdReading,
+);
+const earlierEvents = reformEvents.filter((e) => !recentEvents.includes(e));
 // 憲法法庭查詢結果那一筆：資料檔的 desc／note 是查證紀錄，頁面改用一句文案
 const courtEvent = [...reformEvents]
   .reverse()
@@ -168,37 +173,81 @@ const REL = await relatedList(lang, [
     <h3 class="bp-h3">{t('income.s7.tl.h')}</h3>
     {
       reformEvents.length > 0 ? (
-        <ol class="bp-timeline">
-          {reformEvents.map((e) => (
-            <li class="bp-tl-item">
-              <div class="bp-tl-date">{e.date}</div>
-              <div>
-                <div class="bp-tl-title">
-                  {pickIncome(e.title, lang)}
-                  {(e.sources || []).map((s) => (
-                    <a
-                      class="bp-src no-external-icon"
-                      aria-label={s.name}
-                      title={s.name}
-                      href={s.url}
-                      target="_blank"
-                      rel="noopener"
-                    >
-                      ↗
-                    </a>
-                  ))}
-                </div>
-                {(e === courtEvent || e.desc) && (
-                  <div class="bp-tl-detail">
-                    {e === courtEvent
-                      ? t('income.s7.tl.court', { date: e.date })
-                      : pickIncome(e.desc, lang)}
+        <>
+          <ol class="bp-timeline">
+            {recentEvents.map((e) => (
+              <li class="bp-tl-item">
+                <div class="bp-tl-date">{e.date}</div>
+                <div>
+                  <div class="bp-tl-title">
+                    {pickIncome(e.title, lang)}
+                    {(e.sources || []).map((s) => (
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={s.name}
+                        title={s.name}
+                        href={s.url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    ))}
                   </div>
-                )}
-              </div>
-            </li>
-          ))}
-        </ol>
+                  {(e === courtEvent || e.desc) && (
+                    <div class="bp-tl-detail">
+                      {e === courtEvent
+                        ? t('income.s7.tl.court', { date: e.date })
+                        : pickIncome(e.desc, lang)}
+                    </div>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+          {earlierEvents.length > 0 && (
+            <details class="inc-more">
+              <summary>
+                {t('income.s7.tl.earlier', {
+                  y0: earlierEvents[0].date.slice(0, 4),
+                  y1: earlierEvents[earlierEvents.length - 1].date.slice(0, 4),
+                  n: earlierEvents.length,
+                })}
+              </summary>
+              <ol class="bp-timeline">
+                {earlierEvents.map((e) => (
+                  <li class="bp-tl-item">
+                    <div class="bp-tl-date">{e.date}</div>
+                    <div>
+                      <div class="bp-tl-title">
+                        {pickIncome(e.title, lang)}
+                        {(e.sources || []).map((s) => (
+                          <a
+                            class="bp-src no-external-icon"
+                            aria-label={s.name}
+                            title={s.name}
+                            href={s.url}
+                            target="_blank"
+                            rel="noopener"
+                          >
+                            ↗
+                          </a>
+                        ))}
+                      </div>
+                      {(e === courtEvent || e.desc) && (
+                        <div class="bp-tl-detail">
+                          {e === courtEvent
+                            ? t('income.s7.tl.court', { date: e.date })
+                            : pickIncome(e.desc, lang)}
+                        </div>
+                      )}
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          )}
+        </>
       ) : (
         <>
           <ol class="bp-timeline">

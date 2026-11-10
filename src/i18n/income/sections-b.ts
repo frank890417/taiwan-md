@@ -30,8 +30,7 @@ export const sectionsB: {
     'income.s5.lede':
       'Most employees have two layers. Labor Insurance（勞保）pays an old-age pension based on insured years and insured salary. The Labor Pension（勞退新制）is an individual account into which the employer pays at least {r} of wages every month. People without a job rely on the National Pension, and military personnel, civil servants and teachers have schemes of their own. At the end of {asOf}, {cases} Labor Insurance old-age pensions were being paid, averaging {avg} a month.',
     'income.s5.tl.h': 'Timeline of the schemes',
-    'income.s5.tl.more':
-      '{n} more events: working hours, minimum wage, tax, population and the steps of each reform',
+    'income.s5.tl.more': 'See the full timeline ({n} more events)',
     'income.s5.tl.lsa':
       'Official sources give two effective dates: the act says it takes effect on promulgation, {d1}, and an Executive Yuan fact sheet says {d2}.',
     'income.s5.tbl.h': '{n} schemes side by side',
@@ -200,6 +199,7 @@ export const sectionsB: {
     'income.s7.lede':
       'This section puts statements on the same issue side by side: labor groups, business groups, military, civil service and teacher groups, youth groups and scholars, government agencies, and political parties. Sentences in quotation marks were checked word for word against the source page. Entries marked “Paraphrase” are indirect speech from a report. This site draws no conclusion for any side, and evaluative words inside quotes belong to the speaker.',
     'income.s7.tl.h': 'What happened, in order',
+    'income.s7.tl.earlier': 'How it got here, {y0} to {y1} ({n} events)',
     'income.s7.tl.fallback.promulgated':
       'Civil Servants Retirement, Severance and Pension Act promulgated',
     'income.s7.tl.fallback.effective': 'Most articles of the act take effect',
@@ -326,7 +326,7 @@ export const sectionsB: {
     'income.s5.lede':
       '多數受僱勞工的退休金有兩層，一層是勞保老年年金，屬於社會保險，按年資與投保薪資計算，另一層是勞退新制的個人專戶，雇主每月至少提繳工資的 {r}。沒有工作的人靠國民年金，軍公教另有自己的退撫制度。{asOf} 年底，勞保老年年金有 {cases} 件在領，平均每月 {avg}。',
     'income.s5.tl.h': '制度年表',
-    'income.s5.tl.more': '其餘 {n} 筆：工時、最低工資、稅、人口與修法過程',
+    'income.s5.tl.more': '看完整年表（其餘 {n} 筆）',
     'income.s5.tl.lsa':
       '施行日有兩種官方寫法：條文寫公布日 {d1} 施行，行政院的國情簡介寫 {d2}。',
     'income.s5.tbl.h': '{n} 種制度放在一起看',
@@ -479,6 +479,7 @@ export const sectionsB: {
     'income.s7.lede':
       '這一區把同一件事的各方說法放在一起：勞工團體、資方團體、軍公教團體、青年與學者、政府機關、政黨。放進引號的句子，都回到來源網頁逐字比對過。標「轉述」的是報導裡的間接敘述。本站不替任何一方下結論，引號裡的評價用語屬於說話的人。',
     'income.s7.tl.h': '先看發生了什麼',
+    'income.s7.tl.earlier': '{y0} 到 {y1} 年的經過（{n} 筆）',
     'income.s7.tl.fallback.promulgated': '公務人員退休資遣撫卹法公布',
     'income.s7.tl.fallback.effective': '多數條文施行',
     'income.s7.tl.fallback.third':

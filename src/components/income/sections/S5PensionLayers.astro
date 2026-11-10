@@ -46,22 +46,15 @@ const dateKey = (d: string) => (d.length === 4 ? `${d}-00-00` : d);
 const events = [...tlRaw].sort((a, b) =>
   dateKey(a.date).localeCompare(dateKey(b.date)),
 );
-// 主列表只放制度里程碑（開辦、立法、施行）；修法過程與其他類事件收進摺疊，過程事件在 S7 才攤開
+// 年表預設只顯示五筆，各對應對照表裡的一層制度；其餘全部收進一個摺疊（長時間軸預設收合）
 const MILESTONES = [
   '1950-03-01', // 勞保開辦
-  '1958-07-21', // 勞保條例
-  '1984-07-30', // 勞基法
+  '1984-07-30', // 勞基法（勞退舊制的法源）
   '2005-07-01', // 勞退新制
   '2008-10-01', // 國民年金
   '2009-01-01', // 勞保年金化
-  '2017-08-09', // 公教年改三法
-  '2018-06-21', // 軍人年改
-  '2023-07-01', // 個人專戶制
-  '2024-01-01', // 最低工資法
-  '2025-12-12', // 停止調降修法
-  '2025-12-30', // 撥補入法
 ];
-const TL_LIMIT = 12;
+const TL_LIMIT = 5;
 const picked = events.filter((e) => MILESTONES.includes(e.date));
 // 資料檔日期若改了對不上，就退回前 TL_LIMIT 筆，不讓主列表空掉
 const tlMain =
@@ -410,6 +403,70 @@ const REL = await relatedList(lang, [
       >
     </p>
 
+    <h3 class="bp-h3">{t('income.s5.tbl.h', { n: rows.length })}</h3>
+    <div class="bp-tbl-wrap">
+      <table class="bp-cuts inc-systems">
+        <thead>
+          <tr>
+            <th>{t('income.s5.col.system')}</th>
+            {COLS.map((c) => <th>{t(`income.s5.col.${c}`)}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <th scope="row">{r.name}</th>
+                {COLS.map((c) => (
+                  <td class={r[c].missing ? 'is-missing' : ''}>
+                    {r[c].missing && (
+                      <span class="bp-tag">{t('income.commonb.nodata')}</span>
+                    )}
+                    {r[c].text}
+                    {r[c].url && (
+                      <a
+                        class="bp-src no-external-icon"
+                        aria-label={t('income.commonb.source')}
+                        href={r[c].url}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        ↗
+                      </a>
+                    )}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="bp-note">
+      {t('income.s5.tbl.note', { asOf: labor._meta.asOf })}
+    </p>
+
+    <div class="bp-prose">
+      <p>
+        {
+          t('income.s5.p1', {
+            period: gr.period,
+            g: pct(gr.rate, 4),
+          })
+        }
+        <a
+          class="bp-src no-external-icon"
+          aria-label={t('income.commonb.source')}
+          href={gr.source}
+          target="_blank"
+          rel="noopener">↗</a
+        >
+      </p>
+      <p>{t('income.s5.p2', { year: effYear })}</p>
+    </div>
+
+    <slot />
+
     {
       events.length > 0 && (
         <>
@@ -483,70 +540,6 @@ const REL = await relatedList(lang, [
         </>
       )
     }
-
-    <h3 class="bp-h3">{t('income.s5.tbl.h', { n: rows.length })}</h3>
-    <div class="bp-tbl-wrap">
-      <table class="bp-cuts inc-systems">
-        <thead>
-          <tr>
-            <th>{t('income.s5.col.system')}</th>
-            {COLS.map((c) => <th>{t(`income.s5.col.${c}`)}</th>)}
-          </tr>
-        </thead>
-        <tbody>
-          {
-            rows.map((r) => (
-              <tr>
-                <th scope="row">{r.name}</th>
-                {COLS.map((c) => (
-                  <td class={r[c].missing ? 'is-missing' : ''}>
-                    {r[c].missing && (
-                      <span class="bp-tag">{t('income.commonb.nodata')}</span>
-                    )}
-                    {r[c].text}
-                    {r[c].url && (
-                      <a
-                        class="bp-src no-external-icon"
-                        aria-label={t('income.commonb.source')}
-                        href={r[c].url}
-                        target="_blank"
-                        rel="noopener"
-                      >
-                        ↗
-                      </a>
-                    )}
-                  </td>
-                ))}
-              </tr>
-            ))
-          }
-        </tbody>
-      </table>
-    </div>
-    <p class="bp-note">
-      {t('income.s5.tbl.note', { asOf: labor._meta.asOf })}
-    </p>
-
-    <div class="bp-prose">
-      <p>
-        {
-          t('income.s5.p1', {
-            period: gr.period,
-            g: pct(gr.rate, 4),
-          })
-        }
-        <a
-          class="bp-src no-external-icon"
-          aria-label={t('income.commonb.source')}
-          href={gr.source}
-          target="_blank"
-          rel="noopener">↗</a
-        >
-      </p>
-      <p>{t('income.s5.p2', { year: effYear })}</p>
-    </div>
-
-    <slot />
 
     <h3 class="bp-h3">{t('income.s5.rr.h')}</h3>
     <div class="bp-prose">
@@ -627,6 +620,12 @@ const REL = await relatedList(lang, [
 </section>
 
 <style>
+  /* 手機：表格在容器內橫向捲動，不撐破頁面 */
+  .bp-tbl-wrap {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
   .inc-systems {
     min-width: 860px;
   }

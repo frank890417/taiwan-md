@@ -33,8 +33,13 @@ import LaborPensionCalculator from '../components/income/tools/LaborPensionCalcu
 import SalaryPercentile from '../components/income/tools/SalaryPercentile.astro';
 import TakeHomePayCalculator from '../components/income/tools/TakeHomePayCalculator.astro';
 import { getLangFromUrl } from '../i18n/utils';
-import { useIncomeT, incomeLocale, fmtNT, fmtWan } from '../i18n/income';
-import { getTopic, pickText } from '../utils/topics/registry';
+import { useIncomeT, fmtNT, fmtWan } from '../i18n/income';
+import {
+  getTopic,
+  isTopicTranslated,
+  pickText,
+} from '../utils/topics/registry';
+import { uiDir } from '../utils/topics/ui-dir';
 import { taxFreeThreshold } from '../utils/income/tax';
 import dist from '../data/income/salary-distribution-2024.json';
 import minWage from '../data/income/minimum-wage.json';
@@ -43,13 +48,8 @@ import aging from '../data/shared/population-aging.json';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useIncomeT(lang);
-// 文案只有 zh-TW／en 兩套。頁面語言跟文案語言不同時（例如阿拉伯文頁顯示英文），
-// 內容區標上實際的語言與書寫方向，英文才不會在 RTL 頁裡標點錯位。
-const contentLoc = incomeLocale(lang);
-const contentAttrs =
-  lang === contentLoc || (lang === 'en' && contentLoc === 'en')
-    ? {}
-    : { lang: contentLoc === 'zh-TW' ? 'zh-Hant' : 'en', dir: 'ltr' };
+// 文案只有 zh-TW／en 兩套；右到左語言頁退到英文時，內容區標上英文與左到右。
+const contentDir = uiDir(lang);
 const topic = getTopic('income')!;
 const tool = (slug: string) => topic.tools.find((x) => x.slug === slug)!;
 
@@ -99,10 +99,12 @@ const frames = {
     median: fmtWan(median, lang),
   })}
   readerSettings={true}
+  noindex={!isTopicTranslated(topic, lang)}
 >
   <main
     class="budget-page income-page tf-surface min-h-screen"
-    {...contentAttrs}
+    dir={contentDir.dir}
+    lang={contentDir.lang}
   >
     <PageHero
       eyebrow={t('income.hero.eyebrow')}

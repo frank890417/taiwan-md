@@ -180,7 +180,7 @@
 | 實領薪資與雇主成本 | `/income/take-home-pay/`            | `income-take-home-pay.template.astro`                                                 |
 | 四個內嵌板         | `/embed/income/<slug>/`             | `income-<slug>-embed.template.astro`（`EmbedLayout`）                                 |
 
-**13 語**：九種頁面各 13 個薄殼（共 117 個 5 行檔）。文案放 `src/i18n/income.ts`，zh-TW 與 en 完整，其他語言照站上既有的退回規則：ja、ko 讀中文，其餘讀英文（跟 `utils.ts` 的 fallback chain 與專題登記檔的 `pickText` 一致；實作時從「一律退英文」改成這樣，避免日韓文頁的工具標題是中文、內文卻是英文）。翻譯函式放在 `income.ts` 自己裡面，不改 `src/i18n/ui.ts`。工具的數字一律新台幣，英文版加千分位與「NT$」。
+**13 語**：九種頁面各 13 個薄殼（共 117 個 5 行檔）。文案放 `src/i18n/income.ts`，zh-TW 與 en 完整，其他語言一律退回英文（跟專題地基 v1.1 的規則一致：該語言 → 英文 → 中文）。沒翻譯的語言頁標 `noindex`。翻譯函式放在 `income.ts` 自己裡面，不改 `src/i18n/ui.ts`。工具的數字一律新台幣，英文版加千分位與「NT$」。
 
 **不另開制度子頁。** 第一版把制度說明全放主頁，原因是站上還沒有這六個題目的專文，拆子頁會讓每頁都偏薄。之後若勞保或年改寫成專文，從主頁第 5、7 區連過去。
 

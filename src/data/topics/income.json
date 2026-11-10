@@ -1,13 +1,17 @@
 {
   "id": "income",
   "path": "/income/",
-  "title": { "zh": "薪資、稅與退休", "en": "Pay, tax and retirement" },
+  "title": {
+    "zh": "薪資、稅與退休",
+    "en": "Pay, tax and retirement"
+  },
   "description": {
     "zh": "一份薪水的去向：薪資分布、綜所稅、勞保與勞退、年金改革的各方說法，附四個試算工具。",
     "en": "Where a Taiwanese paycheck goes: the wage distribution, income tax, Labor Insurance and Labor Pension, and the pension-reform debate, with four calculators."
   },
   "emoji": "💰",
   "updated": "2026-11-10",
+  "languages": ["zh-TW", "en"],
   "subpages": [],
   "tools": [
     {
@@ -28,7 +32,11 @@
         "報稅試算 2027",
         "115 年度免稅額",
         "Taiwan income tax calculator"
-      ]
+      ],
+      "navTitle": {
+        "zh": "所得稅試算",
+        "en": "Income tax"
+      }
     },
     {
       "slug": "labor-pension-calculator",
@@ -48,7 +56,11 @@
         "勞退試算",
         "勞退自提",
         "Taiwan labor pension calculator"
-      ]
+      ],
+      "navTitle": {
+        "zh": "勞保勞退試算",
+        "en": "Pension"
+      }
     },
     {
       "slug": "salary-percentile",
@@ -68,7 +80,11 @@
         "薪資分布",
         "薪水排名",
         "Taiwan salary percentile"
-      ]
+      ],
+      "navTitle": {
+        "zh": "年薪位置",
+        "en": "Salary percentile"
+      }
     },
     {
       "slug": "take-home-pay",
@@ -88,7 +104,11 @@
         "勞保自付額",
         "雇主負擔",
         "Taiwan take-home pay"
-      ]
+      ],
+      "navTitle": {
+        "zh": "實領薪資",
+        "en": "Take-home pay"
+      }
     }
   ],
   "relatedArticles": [
