@@ -61,7 +61,7 @@ const dicts = {
         frameTitle: '輸入你的條件',
         embedSourceNote: '{agencies}，截至 {asOf}',
         relatedTools: '房貸與購屋試算工具集',
-        relatedQingan: '青安貸款：三代條件、利率與各方說法',
+        relatedQingan: '青安貸款：三代條件、利率與歷次調整',
         relatedOtherTool: '同一組工具：{title}',
         relatedArticleJustice: '居住正義：社會住宅如何成為長期公共制度',
         relatedArticleNational: '國宅與居住正義',
@@ -208,7 +208,7 @@ const dicts = {
         embedSourceNote: '{agencies}, as of {asOf}',
         relatedTools: 'Mortgage and home-buying calculators',
         relatedQingan:
-          'The Qingan loan: three generations of terms, rates and positions',
+          'The Qing-An loan: three generations of terms, rates and positions',
         relatedOtherTool: 'Same toolkit: {title}',
         relatedArticleJustice:
           'Housing justice: how social housing became a long-term public institution',
@@ -221,19 +221,19 @@ const dicts = {
 
       mortgage: {
         h1: 'Taiwan Mortgage Calculator 2026',
-        metaTitle: 'Taiwan Mortgage Calculator 2026: Qingan 3.0 Step Rates',
+        metaTitle: 'Taiwan Mortgage Calculator 2026: Qing-An 3.0 Step Rates',
         metaDescription:
-          'Monthly payment, total interest and repayment curve for a Taiwan mortgage, with Qingan 3.0 step rates from {rateFirst}, grace period and prepayment.',
+          'Monthly payment, total interest and repayment curve for a Taiwan mortgage, with Qing-An 3.0 step rates from {rateFirst}, grace period and prepayment.',
         howItWorks:
           'Equal-payment installment = principal × r × (1 + r)^n ÷ ((1 + r)^n − 1), where r is the annual rate divided by 12 and n is the number of months. Equal-principal repays balance ÷ remaining months each month, with interest falling as the balance falls. During a grace period (months when you pay interest only) the balance does not move; when the grace period ends or the rate changes, the payment is recomputed from the balance and remaining months.',
         reading: [
           'The result has three parts: the monthly payment, total interest and the repayment curve. The payment changes as the rate steps up and when the grace period ends, so read each row of the payment-step table. Total interest is everything repaid minus the principal; a longer term or a longer grace period usually means more interest.',
-          'Switch the scenario to a normal loan to overlay it on the Qingan 3.0 curve. The calculation covers principal and interest only; set-up and account fees are not included.',
+          'Switch the scenario to a normal loan to overlay it on the Qing-An 3.0 curve. The calculation covers principal and interest only; set-up and account fees are not included.',
         ],
         faq: [
           {
             q: 'How much do I pay during the grace period?',
-            a: 'During the grace period you pay interest only and the principal stays untouched. For {amount} over {years} years with a {graceYears}-year grace period at Qingan 3.0 step rates, the monthly payment during the grace period runs from {graceStart} to {graceEnd} as the rate steps up. The first payment after the grace period is {afterGrace}, and the highest payment over the whole loan is {maxPay}. A grace period only postpones repaying principal, so it does not lower total interest.',
+            a: 'During the grace period you pay interest only and the principal stays untouched. For {amount} over {years} years with a {graceYears}-year grace period at Qing-An 3.0 step rates, the monthly payment during the grace period runs from {graceStart} to {graceEnd} as the rate steps up. The first payment after the grace period is {afterGrace}, and the highest payment over the whole loan is {maxPay}. A grace period only postpones repaying principal, so it does not lower total interest.',
           },
           {
             q: 'What is the difference between equal-payment and equal-principal repayment?',
@@ -244,12 +244,12 @@ const dicts = {
             a: 'Example: {amount} over {years2} years at {rate}, prepaying {prepayAmount} at the end of year {prepayYear}. Shorten the term: the payment stays {basePay}, the loan is paid off after {shortenPayoff}, total interest {shortenInterest}. Lower the payment: the term is unchanged, the payment drops to {reducePay}, total interest {reduceInterest}. Without prepayment, total interest is {baseInterest}. For the same amount, shortening the term saves more interest, while lowering the payment eases monthly cash flow.',
           },
           {
-            q: 'How will the Qingan 3.0 rate change over time?',
-            a: 'The Qingan loan (Taiwan’s state-subsidised Youth Home-Starter Loan) is currently a single floating rate: the benchmark, {benchmarkName}, is {benchmark}% plus a spread of {spread}%, for an unsubsidised rate of {baseRate}%. The government subsidy starts at {subsidyFirst} percentage points, so the borrower pays {rateFirst} for the first {yearsFirst} years. The subsidy then shrinks each year and the rate runs {stepsText}, returning to {baseRate}% from year {fullFromYear}. The floating rate moves with the benchmark; this site does not forecast it.',
+            q: 'How will the Qing-An 3.0 rate change over time?',
+            a: 'The Qing-An loan (Taiwan’s state-subsidised Youth Home-Starter Loan) is currently a single floating rate: the benchmark, {benchmarkName}, is {benchmark}% plus a spread of {spread}%, for an unsubsidised rate of {baseRate}%. The government subsidy starts at {subsidyFirst} percentage points, so the borrower pays {rateFirst} for the first {yearsFirst} years. The subsidy then shrinks each year and the rate runs {stepsText}, returning to {baseRate}% from year {fullFromYear}. The floating rate moves with the benchmark; this site does not forecast it.',
           },
           {
             q: 'Why does the result differ slightly from my bank’s figure?',
-            a: 'This site divides the annual rate by 12 and does not round internally, while banks round each installment, and the drawdown date, floating-rate changes and fees also move the figure. As an example, {aprBank} states total fees of {aprFees} and up on a {aprPrincipal} Qingan loan over {aprYears} years; this calculator does not include such fees. The bank’s approval notice sets the actual payment.',
+            a: 'This site divides the annual rate by 12 and does not round internally, while banks round each installment, and the drawdown date, floating-rate changes and fees also move the figure. As an example, {aprBank} states total fees of {aprFees} and up on a {aprPrincipal} Qing-An loan over {aprYears} years; this calculator does not include such fees. The bank’s approval notice sets the actual payment.',
           },
         ],
       },
@@ -286,24 +286,24 @@ const dicts = {
       },
 
       qingan: {
-        h1: 'Qingan 3.0 Eligibility Check 2026',
-        metaTitle: 'Qingan 3.0 Eligibility Check 2026: Age, Income, Price Cap',
+        h1: 'Qing-An 3.0 Eligibility Check 2026',
+        metaTitle: 'Qing-An 3.0 Eligibility Check 2026: Age, Income, Price Cap',
         metaDescription:
-          'Check Qingan 3.0 youth home loan terms clause by clause: age under {maxAge}, income up to {income}, price caps, one loan only. As of {asOf}.',
+          'Check Qing-An 3.0 youth home loan terms clause by clause: age under {maxAge}, income up to {income}, price caps, one loan only. As of {asOf}.',
         howItWorks:
-          'The tool splits the Treasury’s Qingan 3.0 rules and Q&A into individual clauses. From your age, income, home price, county and current home ownership it returns one of four results for each clause: pass, fail, bank review or not enough information, with the original wording. Where a clause leaves the judgement to the lending bank, the tool draws no conclusion.',
+          'The tool splits the Treasury’s Qing-An 3.0 rules and Q&A into individual clauses. From your age, income, home price, county and current home ownership it returns one of four results for each clause: pass, fail, bank review or not enough information, with the original wording. Where a clause leaves the judgement to the lending bank, the tool draws no conclusion.',
         reading: [
           'Each clause shows a status and the original text. “Pass” means your inputs meet the condition; “bank review” means the clause leaves the judgement to the lending bank, so the tool shows the wording only.',
           'When every clause passes, the page shows the loan ceiling for your category and can send the ceiling and term to the mortgage calculator. Approval is decided by the lending bank.',
         ],
         faq: [
           {
-            q: 'What are the age and income limits for Qingan 3.0?',
-            a: 'The Qingan loan (Taiwan’s state-subsidised Youth Home-Starter Loan, run by state-owned banks) requires the borrower to be an adult under {maxAge} at application, with age plus loan term no more than {ageTerm}, and the borrower’s own annual income no more than {income}. The age cap and the income limit are new in 3.0 and did not exist in 2.0. Based on Treasury publications, as of {asOf}.',
+            q: 'What are the age and income limits for Qing-An 3.0?',
+            a: 'The Qing-An loan (Taiwan’s state-subsidised Youth Home-Starter Loan, run by state-owned banks) requires the borrower to be an adult under {maxAge} at application, with age plus loan term no more than {ageTerm}, and the borrower’s own annual income no more than {income}. The age cap and the income limit are new in 3.0 and did not exist in 2.0. Based on Treasury publications, as of {asOf}.',
           },
           {
-            q: 'Can I borrow again if I already have an earlier Qingan loan?',
-            a: 'Not if the earlier loan was approved on or after {onceOnlySince}. Anyone approved for a Qingan loan by a bank, or for the agricultural-bank youth home loan, from that date cannot apply again. The one-loan rule was announced on {onceOnlyDate}. Loans approved before {onceOnlySince} are not covered by the rule in the text, and the lending bank still reviews each case.',
+            q: 'Can I borrow again if I already have an earlier Qing-An loan?',
+            a: 'Not if the earlier loan was approved on or after {onceOnlySince}. Anyone approved for a Qing-An loan by a bank, or for the agricultural-bank youth home loan, from that date cannot apply again. The one-loan rule was announced on {onceOnlyDate}. Loans approved before {onceOnlySince} are not covered by the rule in the text, and the lending bank still reviews each case.',
           },
           {
             q: 'Does owning a parking space or a share of a property count as owning a home?',

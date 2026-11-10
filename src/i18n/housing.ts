@@ -365,12 +365,12 @@ const en = {
   // ── Mortgage calculator ───────────────────────────────────────────
   'housing.tool.mortgage.title': 'Mortgage calculator',
   'housing.tool.mortgage.intro':
-    'Enter a loan amount, term and rate to see the monthly payment, total interest and repayment curve. Switch to the Qingan 3.0 step-rate path and overlay a standard mortgage on the same chart.',
+    'Enter a loan amount, term and rate to see the monthly payment, total interest and repayment curve. Switch to the Qing-An 3.0 step-rate path and overlay a standard mortgage on the same chart.',
   'housing.tool.mortgage.group.loan': 'Loan terms',
   'housing.tool.mortgage.f.scenario': 'Scenario',
   'housing.tool.mortgage.scn.general': 'Standard mortgage',
-  'housing.tool.mortgage.scn.qingan3': 'Qingan 3.0',
-  'housing.tool.mortgage.scn.qingan2': 'Qingan 2.0 existing borrower',
+  'housing.tool.mortgage.scn.qingan3': 'Qing-An 3.0',
+  'housing.tool.mortgage.scn.qingan2': 'Qing-An 2.0 existing borrower',
   'housing.tool.mortgage.f.limitClass': 'Loan limit class',
   'housing.tool.mortgage.class.general': 'General',
   'housing.tool.mortgage.class.newlywed':
@@ -399,9 +399,9 @@ const en = {
   'housing.tool.mortgage.rateNote.general':
     'The default rate is the average rate on new home loans at the five largest banks, {period}: {rate}.',
   'housing.tool.mortgage.rateNote.qingan3':
-    'Qingan 3.0 loads its step rates automatically: {steps}. Data as of {asOf}.',
+    'Qing-An 3.0 loads its step rates automatically: {steps}. Data as of {asOf}.',
   'housing.tool.mortgage.rateNote.qingan2':
-    'Qingan 2.0 borrowers get the same stepping subsidy. Step rates loaded automatically: {steps}. Data as of {asOf}.',
+    'Qing-An 2.0 borrowers get the same stepping subsidy. Step rates loaded automatically: {steps}. Data as of {asOf}.',
   'housing.tool.mortgage.group.compare': 'Comparison',
   'housing.tool.mortgage.f.compare': 'Compare with a standard mortgage',
   'housing.tool.mortgage.f.cmpRate':
@@ -465,11 +465,11 @@ const en = {
   'housing.tool.mortgage.cmp.col.max': 'Highest payment',
   'housing.tool.mortgage.cmp.col.interest': 'Total interest',
   'housing.tool.mortgage.warn.limit':
-    'The amount is above the {limit} cap for the chosen class, so Qingan 3.0 would not lend this much.',
+    'The amount is above the {limit} cap for the chosen class, so Qing-An 3.0 would not lend this much.',
   'housing.tool.mortgage.warn.years':
-    'The term is longer than the Qingan 3.0 maximum of {max} years.',
+    'The term is longer than the Qing-An 3.0 maximum of {max} years.',
   'housing.tool.mortgage.warn.grace':
-    'The grace period is longer than the Qingan 3.0 maximum of {max} years.',
+    'The grace period is longer than the Qing-An 3.0 maximum of {max} years.',
   'housing.tool.mortgage.warn.drawFuture':
     'The draw month is in the future, so the loan is treated as just drawn.',
   'housing.tool.mortgage.err.principal': 'The loan amount must be above 0.',
@@ -487,7 +487,7 @@ const en = {
   'housing.tool.mortgage.err.generic':
     'These numbers cannot be calculated. Please check each field.',
   'housing.tool.mortgage.assump':
-    'The monthly rate is the annual rate divided by 12, with no daily accrual. Grace-period payments are interest only; when the grace period ends or the rate changes, the payment is recomputed from the balance and remaining months. Banks round each installment, so totals can differ by a few dozen dollars. Future floating rates are not forecast; step rates are whatever you enter. Qingan 3.0 payments here are this site’s own calculation from the published rate steps, because neither the Ministry of Finance nor the state banks publish a payment table.',
+    'The monthly rate is the annual rate divided by 12, with no daily accrual. Grace-period payments are interest only; when the grace period ends or the rate changes, the payment is recomputed from the balance and remaining months. Banks round each installment, so totals can differ by a few dozen dollars. Future floating rates are not forecast; step rates are whatever you enter. Qing-An 3.0 payments here are this site’s own calculation from the published rate steps, because neither the Ministry of Finance nor the state banks publish a payment table.',
   'housing.tool.mortgage.formula':
     'Equal-payment installment = principal × r × (1 + r)^n ÷ ((1 + r)^n − 1), where r is the monthly rate and n the number of months. Equal-principal repays balance ÷ remaining months each month, with interest falling as the balance falls.',
 
@@ -541,10 +541,10 @@ const en = {
   'housing.tool.band.low': 'Low',
   'housing.tool.band.veryLow': 'Very low',
 
-  // ── Qingan 3.0 eligibility ────────────────────────────────────────
-  'housing.tool.elig.title': 'Qingan 3.0 eligibility check',
+  // ── Qing-An 3.0 eligibility ────────────────────────────────────────
+  'housing.tool.elig.title': 'Qing-An 3.0 eligibility check',
   'housing.tool.elig.intro':
-    'Compares your answers with the Ministry of Finance’s Qingan 3.0 conditions one by one. It lists the match result and the original clause text only; the lending bank decides approval.',
+    'Compares your answers with the Ministry of Finance’s Qing-An 3.0 conditions one by one. It lists the match result and the original clause text only; the lending bank decides approval.',
   'housing.tool.elig.group.person': 'Applicant',
   'housing.tool.elig.group.property': 'The home',
   'housing.tool.elig.group.household': 'Existing homes and loan history',
@@ -559,7 +559,7 @@ const en = {
     'Homes owned by you, your spouse and minor children',
   'housing.tool.elig.f.shareSqm': 'Total floor area of shares held (m²)',
   'housing.tool.elig.f.used':
-    'Already approved for a Qingan or Nongan loan after {date}',
+    'Already approved for a Qing-An or Nongan loan after {date}',
   'housing.tool.elig.f.purchased':
     'The home is a completed home you bought and took title to within {months} months before applying',
   'housing.tool.elig.home.none': 'None',
@@ -579,7 +579,7 @@ const en = {
   'housing.tool.elig.check.priceCapNone':
     'Home price: within the county cap (choose a county first)',
   'housing.tool.elig.check.onceOnly':
-    'One loan only: no earlier Qingan or Nongan approval',
+    'One loan only: no earlier Qing-An or Nongan approval',
   'housing.tool.elig.check.noHome':
     'No owned home for you, your spouse or minor children',
   'housing.tool.elig.check.purchased6m':
@@ -696,27 +696,27 @@ const en = {
 
   // ── Tools hub page ────────────────────────────────────────────────
   'housing.tool.page.metaTitle':
-    'Taiwan Mortgage Calculator 2026: Qingan 3.0 and More',
+    'Taiwan Mortgage Calculator 2026: Qing-An 3.0 and More',
   'housing.tool.page.metaDescription':
-    'Free Taiwan mortgage calculator with Qingan 3.0 step rates, a clause-by-clause eligibility check, an affordability check and a rent vs buy comparison. Terms as of {asOf}.',
+    'Free Taiwan mortgage calculator with Qing-An 3.0 step rates, a clause-by-clause eligibility check, an affordability check and a rent vs buy comparison. Terms as of {asOf}.',
   'housing.tool.page.eyebrow': 'Housing · Tools',
   'housing.tool.page.heroTitle': 'Mortgage and home-buying calculators',
   'housing.tool.page.heroSubtitle':
     'Four tools that run your own numbers on published policy terms and official statistics',
   'housing.tool.page.intro':
-    'The mortgage calculator opens on a Qingan 3.0 example: {amount} over {years} years with a {graceYears}-year grace period. Payments during the grace period are {gracePay}, the first payment after it is {after}, and the highest is {max}. Terms and rates are read from data published by the Treasury of the Ministry of Finance, as of {asOf}.',
+    'The mortgage calculator opens on a Qing-An 3.0 example: {amount} over {years} years with a {graceYears}-year grace period. Payments during the grace period are {gracePay}, the first payment after it is {after}, and the highest is {max}. Terms and rates are read from data published by the Treasury of the Ministry of Finance, as of {asOf}.',
   'housing.tool.page.back': 'Back to the housing topic',
   'housing.tool.page.toc': 'Tools on this page',
   'housing.tool.page.toc.mortgage': 'Mortgage calculator',
   'housing.tool.page.toc.afford': 'Affordability check',
-  'housing.tool.page.toc.elig': 'Qingan 3.0 eligibility',
+  'housing.tool.page.toc.elig': 'Qing-An 3.0 eligibility',
   'housing.tool.page.toc.rentbuy': 'Rent vs buy',
   'housing.tool.page.h2.mortgage':
     'What a loan costs each month, and how the rate steps change it',
   'housing.tool.page.h2.afford':
     'Where the mortgage burden lands on the official scale',
   'housing.tool.page.h2.elig':
-    'How many Qingan 3.0 conditions you meet, one by one',
+    'How many Qing-An 3.0 conditions you meet, one by one',
   'housing.tool.page.h2.rentbuy':
     'Whether buying or renting builds net worth first',
 } as const;

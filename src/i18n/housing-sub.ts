@@ -387,7 +387,7 @@ const dicts = {
           translation: '本站翻譯，原文為中文',
           verbatim: '逐字',
         },
-        foot: '本頁尚未公開，不收錄政黨候選人的任何主張。',
+        foot: '本頁整理中，尚未公開。內容以資料檔收錄的公開說法為限。',
       },
     },
     en: {
@@ -790,7 +790,7 @@ const dicts = {
           translation: 'Our translation; the original is Chinese',
           verbatim: 'verbatim',
         },
-        foot: 'This page is not yet public and carries no position of any party candidate.',
+        foot: 'This page is a work in progress and not yet public. It carries only the public statements collected in the data file.',
       },
     },
   },

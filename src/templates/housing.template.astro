@@ -33,7 +33,7 @@ import { getLangFromUrl } from '../i18n/utils';
 import { housingHome } from '../i18n/housing-home';
 import { fill } from '../utils/housing/format';
 import { homeFacts } from '../utils/housing/home-facts';
-import { getTopic } from '../utils/topics/registry';
+import { getTopic, isTopicTranslated } from '../utils/topics/registry';
 
 const lang = getLangFromUrl(Astro.url);
 const T = housingHome(lang);
@@ -68,6 +68,7 @@ const jump = [
   lang={lang}
   title={title}
   description={description}
+  noindex={!!topic && !isTopicTranslated(topic, lang)}
   readerSettings={true}
 >
   <main class="housing-page tf-surface">
