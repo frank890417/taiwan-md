@@ -1,0 +1,111 @@
+{
+  "id": "health",
+  "path": "/health/",
+  "title": {
+    "zh": "醫療與長照",
+    "en": "Health and Long-Term Care"
+  },
+  "description": {
+    "zh": "健保與長照怎麼運作：制度、歷史、收支、人口老化、急診與人力、各方立場，附長照補助與健保費試算。",
+    "en": "How Taiwan's National Health Insurance and long-term care work: system, history, finances, ageing, pressure points and positions, with subsidy and premium calculators."
+  },
+  "emoji": "🩺",
+  "updated": "2026-11-10",
+  "subpages": [
+    {
+      "path": "/health/advance-care-planning/",
+      "title": {
+        "zh": "預立醫療決定怎麼簽：安寧緩和與病人自主的流程",
+        "en": "How to sign an advance decision: hospice and patient autonomy"
+      }
+    }
+  ],
+  "tools": [
+    {
+      "slug": "long-term-care-subsidy",
+      "path": "/health/long-term-care-subsidy/",
+      "embedPath": "/embed/health/long-term-care-subsidy/",
+      "component": "src/components/health/tools/LtcSubsidy.astro",
+      "title": {
+        "zh": "長照補助試算 2026：額度與自付額一次算",
+        "en": "Taiwan Long-Term Care Subsidy Calculator 2026"
+      },
+      "description": {
+        "zh": "選長照需要等級、身分別與縣市，算出照顧及專業服務、交通接送、喘息、輔具四項的給付額度與自付上限。",
+        "en": "Pick a care level, copayment category and county to see allowances and copay ceilings for care services, transport, respite and assistive devices."
+      },
+      "keywords": [
+        "長照補助",
+        "長照額度",
+        "長照自付額",
+        "長照2.0 補助",
+        "長照3.0",
+        "CMS 等級",
+        "long-term care subsidy Taiwan"
+      ]
+    },
+    {
+      "slug": "long-term-care-eligibility",
+      "path": "/health/long-term-care-eligibility/",
+      "embedPath": "/embed/health/long-term-care-eligibility/",
+      "component": "src/components/health/tools/LtcEligibility.astro",
+      "title": {
+        "zh": "長照資格自查 2026：誰可以申請長照？",
+        "en": "Who Qualifies for Long-Term Care in Taiwan? (2026)"
+      },
+      "description": {
+        "zh": "回答年齡與四個狀況，對照現行條文判斷是否屬於長照給付對象。",
+        "en": "Answer five questions to check eligibility under current rules."
+      },
+      "keywords": [
+        "長照資格",
+        "長照申請條件",
+        "誰可以申請長照",
+        "1966",
+        "失智 長照"
+      ]
+    },
+    {
+      "slug": "nhi-premium-calculator",
+      "path": "/health/nhi-premium-calculator/",
+      "embedPath": "/embed/health/nhi-premium-calculator/",
+      "component": "src/components/health/tools/NhiPremium.astro",
+      "title": {
+        "zh": "健保費試算 2026：月薪、眷屬與補充保費",
+        "en": "Taiwan NHI Premium Calculator 2026"
+      },
+      "description": {
+        "zh": "輸入月薪、投保身分與眷屬人數，算出每月健保費自付額、雇主與政府負擔，另附補充保費試算。",
+        "en": "Enter salary, enrollment category and dependents to estimate monthly NHI premiums, plus the supplementary premium."
+      },
+      "keywords": [
+        "健保費試算",
+        "健保費計算",
+        "補充保費",
+        "健保 眷屬",
+        "投保金額分級表 2026",
+        "NHI premium calculator"
+      ]
+    }
+  ],
+  "relatedArticles": [
+    "/lifestyle/台灣醫療與全民健保",
+    "/society/台灣長期照顧制度發展",
+    "/society/醫療法",
+    "/society/台灣公共衛生與防疫體系",
+    "/society/台灣少子化危機",
+    "/society/台灣新冠疫情與疫苗",
+    "/history/瘧疾根除",
+    "/history/跨黨派的好政策"
+  ],
+  "pendingArticles": [
+    "/lifestyle/急診壅塞",
+    "/lifestyle/洗腎與透析",
+    "/lifestyle/器官捐贈",
+    "/lifestyle/安寧緩和醫療與病人自主",
+    "/society/身心障礙者",
+    "/society/心理健康與自殺防治"
+  ],
+  "relatedTopics": ["income", "housing"],
+  "sharedData": ["src/data/shared/population-aging.json"]
+}

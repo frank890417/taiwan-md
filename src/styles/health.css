@@ -767,3 +767,16 @@
 .health-page #tool.bp-section {
   padding-top: var(--space-5);
 }
+.health-page .hea-cmp th[scope='row'] {
+  white-space: nowrap;
+  color: var(--bg-ink);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+.health-page .hea-cmp {
+  min-width: 620px;
+}
+.health-page .bp-prose ol {
+  padding-inline-start: 1.4rem;
+  margin: 0 0 1em;
+}
