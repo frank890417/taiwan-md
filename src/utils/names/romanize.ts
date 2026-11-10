@@ -663,6 +663,7 @@ export const SURNAME_READINGS: Record<string, string> = {
   燕: 'ㄧㄢ',
   祭: 'ㄓㄞˋ',
   沈: 'ㄕㄣˇ',
+  朴: 'ㄆㄧㄠˊ',
 };
 
 /** 複姓裡讀音特殊的字（單獨當姓時不這樣讀） */
@@ -701,6 +702,15 @@ export function splitName(chars: string[], surnameLen?: number): SplitName {
   };
 }
 
+/**
+ * 字音表沒收、但教育部《重編國語辭典修訂本》有獨立條目的讀音（搜尋結果頁可見），
+ * 補進選單讓使用者選；不改預設值。
+ */
+export const EXTRA_READINGS: Record<string, string[]> = {
+  覃: ['ㄑㄧㄣˊ'],
+  寧: ['ㄋㄧㄥˋ'],
+};
+
 export type ReadingsDict = Record<string, string>;
 
 /** 查字音。dict 值格式：「主讀音,其他讀音…」（注音含調）。查不到回空陣列。 */
@@ -711,6 +721,8 @@ export function lookupReadings(
 ): CharReading {
   const raw = dict[char];
   let readings = raw ? raw.split(',') : [];
+  for (const x of EXTRA_READINGS[char] || [])
+    if (readings.length && !readings.includes(x)) readings.push(x);
   let surnameOverride = false;
   if (asSurname && SURNAME_READINGS[char]) {
     const sr = SURNAME_READINGS[char];

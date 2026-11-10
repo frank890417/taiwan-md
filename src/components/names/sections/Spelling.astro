@@ -9,6 +9,7 @@ import NameRomanization from '../tools/NameRomanization.astro';
 import ToolFrame from '../../tools/ToolFrame.astro';
 import { useTranslatedPath } from '../../../i18n/utils';
 import { pickText } from '../../../utils/topics/registry';
+import { localDate } from '../../../utils/names/page';
 import type { NamesModel } from '../../../utils/names/model';
 
 interface Props {
@@ -83,8 +84,11 @@ const translatePath = useTranslatedPath(M.lang);
           </tbody>
         </table>
       </div>
+      <p class="np-scroll-hint">{t('common.scrollHint')}</p>
       <figcaption class="bg-chart-src">
-        {t('common.src')}{pick3(SOURCES[2].title, L)}，{SOURCES[2].date}
+        {t('common.src')}{pick3(SOURCES[2].title, L)}，{
+          localDate(SOURCES[2].date, L, t)
+        }
       </figcaption>
     </figure>
 
@@ -212,6 +216,7 @@ const translatePath = useTranslatedPath(M.lang);
           </tbody>
         </table>
       </div>
+      <p class="np-scroll-hint">{t('common.scrollHint')}</p>
       <figcaption class="bg-chart-src">
         {t('common.src')}{pick3(SOURCES[14].title, L)}；{
           pick3(SOURCES[15].title, L)

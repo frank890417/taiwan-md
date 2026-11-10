@@ -771,7 +771,7 @@ export const IMMIGRANT_VOICES: VoiceSide[] = [
     items: [
       {
         text: {
-          zh: '內政部 2012 年會議決議：為尊重多元文化並兼顧民情，「習慣」只指姓在前、名在後，可以用外文音譯；仍須取中文姓名，用字限字典所列。',
+          zh: '內政部 2012 年會議決議：為尊重多元文化並兼顧民情，「習慣」只指姓在前、名在後，可以用外文音譯，仍須取中文姓名，用字限字典所列。',
           en: 'A 2012 MOI decision: out of respect for cultural diversity, “custom” means only surname-first order, and transliterations are fine; a Chinese name is still required and must use dictionary characters.',
           ja: '内政部の2012年の決定：多文化を尊重しつつ、「慣習」とは姓が先・名が後という順序のみを指し、音訳も可とした。ただし中国語氏名は必須で、使える字は辞書収録字に限る。',
         },

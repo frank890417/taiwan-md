@@ -196,6 +196,27 @@ test(
   },
 );
 
+// 多音姓的核對紀錄（2026-11-10）：
+// 到教育部《重編國語辭典修訂本》（dict.revised.moe.edu.tw）逐字查搜尋結果頁，下面每個讀音
+// 都有獨立的單字條目：曾 ㄗㄥ、單 ㄕㄢˋ、解 ㄒㄧㄝˋ、查 ㄓㄚ、仇 ㄑㄧㄡˊ、區 ㄡ、華 ㄏㄨㄚˋ、任 ㄖㄣˊ、
+// 樂 ㄩㄝˋ、翟 ㄓㄞˊ、繆 ㄇㄧㄠˋ、員 ㄩㄣˋ、燕 ㄧㄢ、祭 ㄓㄞˋ、沈 ㄕㄣˇ、朴 ㄆㄧㄠˊ、覃 ㄑㄧㄣˊ、寧 ㄋㄧㄥˋ。
+// 沒核對到的部分：條目內文（「姓」義項）是動態載入的，這次沒能機器讀到，
+// 「這個讀音就是當姓時的讀音」仍是依編者所知，不是逐條看過辭典釋義。所以工具永遠把其他讀音列出來讓人改選。
+test(
+  '朴預設念 ㄆㄧㄠˊ（PIAO），仍可改選 ㄆㄨˊ；覃、寧補上姓氏讀音的選項',
+  { skip: !dict },
+  () => {
+    const pu = lookupReadings('朴', dict.r, true);
+    assert.equal(pu.readings[0], 'ㄆㄧㄠˊ');
+    assert.ok(pu.readings.includes('ㄆㄨˊ'));
+    assert.equal(romanizeSyllable(pu.readings[0]).wg, 'PIAO');
+    assert.ok(lookupReadings('覃', dict.r, true).readings.includes('ㄑㄧㄣˊ'));
+    assert.ok(lookupReadings('寧', dict.r, true).readings.includes('ㄋㄧㄥˋ'));
+    // 補的讀音不改預設值
+    assert.equal(lookupReadings('寧', dict.r, true).readings[0], 'ㄋㄧㄥˊ');
+  },
+);
+
 test('查不到的字回空陣列，不猜讀音', { skip: !dict }, () => {
   assert.deepEqual(lookupReadings('陳', {}).readings, []);
   assert.deepEqual(lookupReadings('A', dict.r).readings, []);

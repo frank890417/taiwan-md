@@ -9,7 +9,8 @@
  * 全部在瀏覽器裡算，輸入不送出、不儲存。字音表（public/data/names/readings.json，
  * gzip 約 120KB）在頁面載入後才抓。沒有 JS 時看得到預設案例（伺服端先算好輸出）。
  *
- * 網址參數：?name=王小明（漢字 → 拼音）、?q=Hsieh（拼音 → 念法）可以帶入預設輸入。
+ * 網址片段：#name=王小明（漢字 → 拼音）、#say=Hsieh（拼音 → 念法）可以帶入預設輸入。
+ * 放在 # 後面是因為片段不會送到伺服器，也不會進分析工具收到的網址查詢字串。
  * 契約要求輸入同步到網址；這個工具的輸入是人名，自動寫進網址會把名字留在瀏覽紀錄與
  * 伺服器紀錄裡，所以改成使用者按「複製分享連結」才產生帶名字的網址。
  */
@@ -264,11 +265,12 @@ const ssrRows = SYSTEMS.map((sys) => {
         chars,
         slen === 'auto' ? undefined : Math.min(slen, chars.length),
       );
-      const nS = Array.from(sp.surname).length;
+      // 四個字以上、又不是複姓：不硬切姓與名，整串逐字拼（原住民族名字不分姓與名）
+      const whole = slen === 'auto' && chars.length >= 4 && !sp.compound;
+      const nS = whole ? 0 : Array.from(sp.surname).length;
       if (slen === 'auto' && sp.compound)
         warns.push([fill(s.warnCompound, { x: sp.surname }), true]);
-      if (chars.length >= 4 && slen === 'auto' && !sp.compound)
-        warns.push([s.warnFour, true]);
+      if (whole) warns.push([s.warnFour, true]);
 
       const compoundR = COMPOUND_READINGS[sp.surname];
       const items: (CharReading & { surname: boolean; pos: number })[] =
@@ -350,7 +352,7 @@ const ssrRows = SYSTEMS.map((sys) => {
             .slice(nS)
             .map((p) => p[0])
             .join('-');
-          const text = giv ? `${sur}, ${giv}` : sur;
+          const text = whole ? giv : giv ? `${sur}, ${giv}` : sur;
           const alts = parts
             .map((p, i) =>
               p.length > 1 ? `${items[i].char} ${p.join(' / ')}` : '',
@@ -386,7 +388,9 @@ const ssrRows = SYSTEMS.map((sys) => {
         if (!('speechSynthesis' in window))
           sayEl.querySelector('[data-speak]')!.remove();
         // 台語、客語姓氏讀音（只有前 30 大姓、只有姓）
-        const loc = cfg.local.find((r) => r[0] === sp.surname);
+        const loc = whole
+          ? undefined
+          : cfg.local.find((r) => r[0] === sp.surname);
         if (loc)
           warns.push([
             fill(s.infoLocal, { x: loc[0], t: loc[1], h: loc[2] }),
@@ -438,7 +442,7 @@ const ssrRows = SYSTEMS.map((sys) => {
       render();
     });
     // 網址帶入預設輸入（?name=…）。不自動把輸入寫回網址，見檔頭說明。
-    const params = new URLSearchParams(location.search);
+    const params = new URLSearchParams(location.hash.replace(/^#/, ''));
     const qName = params.get('name');
     if (qName) input.value = Array.from(qName).slice(0, 20).join('');
     root
@@ -447,8 +451,8 @@ const ssrRows = SYSTEMS.map((sys) => {
         const b = ev.currentTarget as HTMLButtonElement;
         const u = new URL(location.href);
         u.search = '';
-        u.hash = '';
-        u.searchParams.set('name', input.value.trim());
+        u.hash = new URLSearchParams({ name: input.value.trim() }).toString();
+
         navigator.clipboard?.writeText(u.toString()).then(() => {
           const old = b.textContent;
           b.textContent = s.copied;
@@ -499,7 +503,7 @@ const ssrRows = SYSTEMS.map((sys) => {
         }
       };
       revIn.addEventListener('input', renderRev);
-      const q = params.get('q');
+      const q = params.get('say');
       if (q) {
         revIn.value = q.slice(0, 60);
         root.querySelector<HTMLButtonElement>('[data-tab="rev"]')?.click();

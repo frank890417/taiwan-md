@@ -55,6 +55,35 @@ export function rich(str: string): string {
   return h;
 }
 
+/**
+ * 來源清單的日期欄（story.ts 用中文寫）→ 該語言的寫法。只換固定的幾個詞，日期本身不動。
+ * tr 是 useNames(lang)；中文頁原樣回傳。
+ */
+export function localDate(
+  date: string,
+  l: NLang,
+  tr: (k: string) => string,
+): string {
+  if (l === 'zh') return date;
+  let d = date;
+  const map: [RegExp, string][] = [
+    [/行政院備查/g, ` ${tr('date.filed')}`],
+    [/資料基準日\s*/g, `${tr('date.asOf')} `],
+    [/會議決議/g, ` ${tr('date.decision')}`],
+    [/取用\s*/g, `${tr('date.retrieved')} `],
+    [/釘版本\s*/g, `${tr('date.pinned')} `],
+    [/\s*修正/g, ` ${tr('date.amended')}`],
+    [/\s*更新/g, ` ${tr('date.updated')}`],
+  ];
+  for (const [re, to] of map) d = d.replace(re, to);
+  return d
+    .replace(/（/g, ' (')
+    .replace(/）/g, ')')
+    .replace(/、/g, ', ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export const fmtInt = (n: number): string =>
   Math.round(n).toLocaleString('en-US');
 

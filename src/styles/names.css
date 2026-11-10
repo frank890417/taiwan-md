@@ -503,3 +503,17 @@
     font-size: 0.72rem;
   }
 }
+
+/* 手機上表格比螢幕寬：容器可橫向捲動，底下給一行提示 */
+.names-page .np-scroll-hint {
+  display: none;
+}
+@media (max-width: 720px) {
+  .names-page .np-scroll-hint {
+    display: block;
+    text-align: center;
+    font-size: 0.74rem;
+    color: var(--bg-ink-soft);
+    margin: 0.3rem 0 0;
+  }
+}

@@ -26,6 +26,10 @@ import { buildNamesModel } from '../utils/names/model';
 
 const lang = getLangFromUrl(Astro.url) as Lang;
 const m = await buildNamesModel(lang);
+// 沒有自己文案的語言顯示英文 fallback；右到左語言的頁面上這一整塊固定由左到右
+const fb = !['zh-TW', 'en', 'ja', 'ko'].includes(lang)
+  ? { dir: 'ltr', lang: 'en' }
+  : {};
 const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
 ---
 
@@ -35,7 +39,7 @@ const { topic, top10Pct, V, t, r, anatName, anatZy, anatSpell, toc, S } = m;
   description={t('meta.desc')}
   readerSettings={true}
 >
-  <main class="budget-page names-page tf-surface min-h-screen">
+  <main class="budget-page names-page tf-surface min-h-screen" {...fb}>
     <PageHero
       eyebrow={t('hero.eyebrow')}
       title={t('hero.title')}

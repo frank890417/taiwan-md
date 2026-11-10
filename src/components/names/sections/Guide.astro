@@ -9,6 +9,7 @@ import NameRomanization from '../tools/NameRomanization.astro';
 import ToolFrame from '../../tools/ToolFrame.astro';
 import { useTranslatedPath } from '../../../i18n/utils';
 import { pickText } from '../../../utils/topics/registry';
+import { localDate } from '../../../utils/names/page';
 import type { NamesModel } from '../../../utils/names/model';
 
 interface Props {
@@ -134,7 +135,7 @@ const translatePath = useTranslatedPath(M.lang);
             <a href={sc.url} target="_blank" rel="noopener">
               {pick3(sc.title, L)}
             </a>
-            <span> · {sc.date}</span>
+            <span> · {localDate(sc.date, L, t)}</span>
           </li>
         ))
       }
