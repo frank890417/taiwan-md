@@ -101,7 +101,7 @@ const ssrRows = SYSTEMS.map((sys) => {
         >
       </div>
     </div>
-    <div class="np-chars" data-chars aria-live="polite">
+    <div class="np-chars" dir="ltr" data-chars aria-live="polite">
       {
         ssrChars.map((c, i) => (
           <div class={`np-char ${i === 0 ? 'is-surname' : 'is-given'}`}>
@@ -123,14 +123,16 @@ const ssrRows = SYSTEMS.map((sys) => {
                 {sysKey[row.sys][0]}
                 <small>{sysKey[row.sys][1]}</small>
               </th>
-              <td class="v">{row.text}</td>
+              <td class="v" dir="ltr">
+                {row.text}
+              </td>
               <td class="act" />
             </tr>
           ))
         }
       </tbody>
     </table>
-    <p class="np-say" data-say hidden></p>
+    <p class="np-say" dir="auto" data-say hidden></p>
     <ul class="np-warns" data-warns></ul>
     <div class="np-share" data-share hidden>
       <button type="button" class="np-btn" data-share-btn>{s.share}</button>
@@ -159,7 +161,7 @@ const ssrRows = SYSTEMS.map((sys) => {
             data-rev-in
           />
         </div>
-        <div class="np-rev" data-rev aria-live="polite" />
+        <div class="np-rev" dir="ltr" data-rev aria-live="polite" />
         <p class="np-tool-foot">{s.revFoot}</p>
       </div>
     )
@@ -357,7 +359,7 @@ const ssrRows = SYSTEMS.map((sys) => {
           const tr = document.createElement('tr');
           tr.innerHTML =
             `<th scope="row">${esc(sysLabel[sys][0])}<small>${esc(sysLabel[sys][1])}</small></th>` +
-            `<td class="v">${esc(text)}${alts.length ? `<span class="alt">${esc(fill(s.altSpelling, { x: alts.join('；') }))}</span>` : ''}</td>` +
+            `<td class="v" dir="ltr">${esc(text)}${alts.length ? `<span class="alt">${esc(fill(s.altSpelling, { x: alts.join('；') }))}</span>` : ''}</td>` +
             `<td class="act"><button type="button" class="np-btn" data-copy="${esc(text)}">${esc(s.copy)}</button></td>`;
           outBody.append(tr);
           if (text.length > 39 && sys === 'wg') warns.push([s.warn39, false]);
